@@ -1,3 +1,123 @@
+## busypoll
+ - [https://1f604.blogspot.com](https://1f604.blogspot.com)
+ - date published: 2023-10-25T09:05:27.653037+00:00
+ - user: None
+ - tags: ['personal']
+
+## Error 400 (Bad Request)!!1
+ - [https://4.bp.blogspot.com](https://4.bp.blogspot.com)
+ - date published: 2023-12-11T16:52:45.902558+00:00
+ - user: None
+ - tags: []
+
+## adam's emulation wip
+ - [https://adamulation.blogspot.com](https://adamulation.blogspot.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ADD / XOR / ROL
+ - [https://addxorrol.blogspot.com](https://addxorrol.blogspot.com)
+ - date published: 2024-01-09T02:30:36.134136+00:00
+ - user: None
+ - tags: []
+
+## ADD / XOR / ROL
+ - [http://addxorrol.blogspot.com](http://addxorrol.blogspot.com)
+ - date published: 2024-01-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Agile Otter Blog
+ - [https://agileotter.blogspot.com](https://agileotter.blogspot.com)
+ - date published: 2023-10-25T09:05:30.845699+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dave Airlie Linux Graphics blog
+ - [https://airlied.blogspot.com](https://airlied.blogspot.com)
+ - date published: 2023-10-25T09:05:33.830706+00:00
+ - user: None
+ - tags: ['personal']
+
+## I hate software
+ - [https://allsoftwaresucks.blogspot.com](https://allsoftwaresucks.blogspot.com)
+ - date published: 2023-10-25T09:05:39.838601+00:00
+ - user: None
+ - tags: ['personal']
+
+## Amiga Gamer
+ - [https://amigagamer.blogspot.com](https://amigagamer.blogspot.com)
+ - date published: 2023-11-02T09:55:15.962797+00:00
+ - user: None
+ - tags: []
+
+## Epsilon's Amiga Blog
+ - [https://amigax1000.blogspot.com](https://amigax1000.blogspot.com)
+ - date published: 2023-12-11T17:54:11.446091+00:00
+ - user: None
+ - tags: []
+
+## Amit's Thoughts
+ - [https://amitp.blogspot.com](https://amitp.blogspot.com)
+ - date published: 2023-10-25T09:05:44.139609+00:00
+ - user: None
+ - tags: ['personal']
+
+## annika's journal backup blog: October 2003
+ - [https://annikagyrl.blogspot.com](https://annikagyrl.blogspot.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Nothing To Do With Arbroath
+ - [https://arbroath.blogspot.com](https://arbroath.blogspot.com)
+ - date published: 2024-01-22T10:04:14.316123+00:00
+ - user: None
+ - tags: []
+
+## arighi's blog
+ - [http://arighi.blogspot.com](http://arighi.blogspot.com)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Arte y pico
+ - [https://arteypico.blogspot.com](https://arteypico.blogspot.com)
+ - date published: 2024-02-08T18:20:49.603964+00:00
+ - user: None
+ - tags: []
+
+## blog
+ - [https://avodonosov.blogspot.com](https://avodonosov.blogspot.com)
+ - date published: 2023-10-25T09:05:48.878271+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Axis of Eval
+ - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
+ - date published: 2024-01-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Axis of Eval
+ - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
+ - date published: 2024-01-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sabine Hossenfelder: Backreaction
+ - [https://backreaction.blogspot.com](https://backreaction.blogspot.com)
+ - date published: 2023-10-25T09:05:55.426378+00:00
+ - user: None
+ - tags: ['personal']
+
+## The art of simplicity
+ - [https://bartwullems.blogspot.com](https://bartwullems.blogspot.com)
+ - date published: 2023-10-25T09:06:01.627020+00:00
+ - user: None
+ - tags: ['personal']
+
 ## BeeLine
  - [https://beelineblogger.blogspot.com](https://beelineblogger.blogspot.com)
  - date published: 2023-10-25T09:06:07.861952+00:00
@@ -155,14 +275,14 @@
  - tags: ['personal']
 
 ## Twin methods in OpenMx
- - [https://dbtemp.blogspot.com](https://dbtemp.blogspot.com)
- - date published: 2023-11-19T21:54:21.568274+00:00
+ - [http://dbtemp.blogspot.com](http://dbtemp.blogspot.com)
+ - date published: 2024-02-25T15:50:25.877373+00:00
  - user: None
  - tags: []
 
 ## Twin methods in OpenMx
- - [http://dbtemp.blogspot.com](http://dbtemp.blogspot.com)
- - date published: 2024-02-25T15:50:25.877373+00:00
+ - [https://dbtemp.blogspot.com](https://dbtemp.blogspot.com)
+ - date published: 2023-11-19T21:54:21.568274+00:00
  - user: None
  - tags: []
 
@@ -1524,6 +1644,12 @@
  - user: None
  - tags: []
 
+## BotGenuity
+ - [https://www.botgenuity.com](https://www.botgenuity.com)
+ - date published: 2024-03-24T12:22:35.965355+00:00
+ - user: None
+ - tags: []
+
 ## Both Sides of the Table
  - [https://bothsidesofthetable.com](https://bothsidesofthetable.com)
  - date published: 2023-10-25T14:22:36.109786+00:00
@@ -1587,6 +1713,12 @@
 ## bpapillon
  - [https://bpapillon.com](https://bpapillon.com)
  - date published: 2023-10-25T13:10:09.062444+00:00
+ - user: None
+ - tags: []
+
+## Disparate Treasures
+ - [https://bpcreech.com](https://bpcreech.com)
+ - date published: 2024-03-24T19:15:34.817680+00:00
  - user: None
  - tags: []
 
@@ -5603,6 +5735,18 @@
  - user: None
  - tags: []
 
+## The Miners - Codeminer42’s Engineering Blog
+ - [https://blog.codeminer42.com](https://blog.codeminer42.com)
+ - date published: 2024-03-24T15:07:30.542559+00:00
+ - user: None
+ - tags: []
+
+## Code Of Honor - Game design, programming and more
+ - [https://www.codeofhonor.com](https://www.codeofhonor.com)
+ - date published: 2024-03-24T15:08:02.980466+00:00
+ - user: None
+ - tags: ['personal']
+
 ## CodePerfect
  - [https://codeperfect95.com](https://codeperfect95.com)
  - date published: 2023-10-25T13:28:25.510592+00:00
@@ -5690,6 +5834,12 @@
 ## Coding Horror
  - [https://blog.codinghorror.com](https://blog.codinghorror.com)
  - date published: 2023-10-25T09:19:51.330520+00:00
+ - user: None
+ - tags: ['personal']
+
+## Coding Horror
+ - [http://www.codinghorror.com](http://www.codinghorror.com)
+ - date published: 2024-03-24T15:04:01.874981+00:00
  - user: None
  - tags: ['personal']
 
@@ -5858,156 +6008,6 @@
 ## Cold Takes
  - [https://www.cold-takes.com](https://www.cold-takes.com)
  - date published: 2023-10-25T13:30:13.903706+00:00
- - user: None
- - tags: []
-
-## » nature photography / natural history / misc
- - [https://colinpurrington.com](https://colinpurrington.com)
- - date published: 2023-10-25T13:30:21.511015+00:00
- - user: None
- - tags: []
-
-## colinraffel.com
- - [https://colinraffel.com](https://colinraffel.com)
- - date published: 2023-10-25T13:30:26.172605+00:00
- - user: None
- - tags: []
-
-## Collab Fund
- - [https://collabfund.com](https://collabfund.com)
- - date published: 2023-10-25T13:30:27.777475+00:00
- - user: None
- - tags: []
-
-## Collabora | Open Source Software Consulting
- - [https://www.collabora.com](https://www.collabora.com)
- - date published: 2023-10-25T13:30:29.607246+00:00
- - user: None
- - tags: ['open source', 'consultancy company']
-
-## Collapse Musings
- - [https://www.collapsemusings.com](https://www.collapsemusings.com)
- - date published: 2023-12-24T15:04:03.323304+00:00
- - user: None
- - tags: []
-
-## Best of Antiques, Vintage, Collecting | Collectors Weekly
- - [https://www.collectorsweekly.com](https://www.collectorsweekly.com)
- - date published: 2024-03-23T01:22:38.669669+00:00
- - user: None
- - tags: ['collector news']
-
-## None
- - [https://www.collectspace.com](https://www.collectspace.com)
- - date published: 2023-12-27T04:13:48.184406+00:00
- - user: None
- - tags: []
-
-## CollegeSportsInfo.com: Conference Realignment Updates and College Sports Business News
- - [https://collegesportsinfo.com](https://collegesportsinfo.com)
- - date published: 2024-02-08T18:21:32.911150+00:00
- - user: None
- - tags: []
-
-## CollegeVine Guidance | CollegeVine
- - [https://blog.collegevine.com](https://blog.collegevine.com)
- - date published: 2023-10-25T13:30:36.294256+00:00
- - user: None
- - tags: []
-
-## None
- - [https://collider.com](https://collider.com)
- - date published: 2024-02-24T09:56:00.517535+00:00
- - user: None
- - tags: []
-
-## Collin Donnell
- - [https://collindonnell.com](https://collindonnell.com)
- - date published: 2023-10-25T13:30:38.616919+00:00
- - user: None
- - tags: []
-
-## Home | Collin M. Barrett
- - [https://collinmbarrett.com](https://collinmbarrett.com)
- - date published: 2023-10-25T13:30:41.006144+00:00
- - user: None
- - tags: []
-
-## Colombia Reports
- - [https://colombiareports.com](https://colombiareports.com)
- - date published: 2023-11-10T11:04:46.934107+00:00
- - user: None
- - tags: ['colombia news']
-
-## coloradopolitics.com | coloradopolitics.com
- - [https://www.coloradopolitics.com](https://www.coloradopolitics.com)
- - date published: 2023-10-25T13:30:44.120352+00:00
- - user: None
- - tags: []
-
-## The Colorado Sun: News, climate, politics, water, business and more
- - [https://coloradosun.com](https://coloradosun.com)
- - date published: 2023-10-25T13:30:52.197190+00:00
- - user: None
- - tags: []
-
-## Color & Contrast
- - [https://colorandcontrast.com](https://colorandcontrast.com)
- - date published: 2023-10-25T13:30:53.499355+00:00
- - user: None
- - tags: []
-
-## Solving the Colossal Problem of Extinction | Colossal
- - [https://colossal.com](https://colossal.com)
- - date published: 2023-10-25T13:30:56.706749+00:00
- - user: None
- - tags: []
-
-## Colton Hurst
- - [https://coltonhurst.com](https://coltonhurst.com)
- - date published: 2023-11-29T13:55:49.289519+00:00
- - user: None
- - tags: ['personal']
-
-## The Column  | Adam Johnson | Substack
- - [https://www.columnblog.com](https://www.columnblog.com)
- - date published: 2024-02-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Show HN: Comflowy – A ComfyUI Tutorial for Beginners
- - [https://www.comflowy.com](https://www.comflowy.com)
- - date published: 2024-01-03T15:43:28+00:00
- - user: None
- - tags: []
-
-## Show HN: I have created a free text-to-image website that supports SDXL Turbo
- - [https://comfyuiweb.com](https://comfyuiweb.com)
- - date published: 2023-12-17T13:02:48+00:00
- - user: None
- - tags: []
-
-## ComicBook.com
- - [https://comicbook.com](https://comicbook.com)
- - date published: 2023-10-25T10:54:03.453020+00:00
- - user: None
- - tags: []
-
-## Comic Book Movie, TV & Superhero News For Fans, By Fans - ComicBookMovie.com|CBM
- - [https://comicbookmovie.com](https://comicbookmovie.com)
- - date published: 2023-12-21T19:03:24+00:00
- - user: None
- - tags: ['comics']
-
-## Home-2023 - The Beat
- - [https://www.comicsbeat.com](https://www.comicsbeat.com)
- - date published: 2024-01-09T02:21:49.075270+00:00
- - user: None
- - tags: []
-
-## Comics Grinder
- - [https://comicsgrinder.com](https://comicsgrinder.com)
- - date published: 2024-02-06T00:00:00+00:00
  - user: None
  - tags: []
 

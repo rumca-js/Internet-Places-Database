@@ -1241,13 +1241,13 @@
  - tags: []
 
 ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## http://hello.pi.ai/
- - [http://hello.pi.ai](http://hello.pi.ai)
+ - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -2059,6 +2059,12 @@
 ## Whisky: Wine Supercharged with the Power of Apple's Game Porting Toolkit
  - [https://getwhisky.app](https://getwhisky.app)
  - date published: 2023-11-26T14:33:19+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Glossarie – a new, immersive way to learn a language
+ - [https://glossarie.app](https://glossarie.app)
+ - date published: 2024-03-24T15:43:16+00:00
  - user: None
  - tags: []
 
@@ -3145,6 +3151,12 @@
 ## Anarcat - anarcat
  - [https://anarc.at](https://anarc.at)
  - date published: 2023-10-25T11:52:42.006171+00:00
+ - user: None
+ - tags: []
+
+## Capitalist Exploits – Global Investment Research
+ - [https://capitalistexploits.at](https://capitalistexploits.at)
+ - date published: 2024-03-03T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5984,18 +5996,6 @@
 ## Finbarr Timbers
  - [https://finbarr.ca](https://finbarr.ca)
  - date published: 2023-10-25T08:42:53.636850+00:00
- - user: None
- - tags: ['personal']
-
-## Colin Woodbury - About
- - [https://www.fosskers.ca](https://www.fosskers.ca)
- - date published: 2024-01-29T23:02:20.819692+00:00
- - user: None
- - tags: []
-
-## froghat.ca
- - [https://froghat.ca](https://froghat.ca)
- - date published: 2023-10-25T09:02:17.770370+00:00
  - user: None
  - tags: ['personal']
 

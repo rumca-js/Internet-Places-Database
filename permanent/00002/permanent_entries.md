@@ -1,3 +1,51 @@
+## Alex Carabi - Personal Development Coach
+ - [https://www.alexcarabi.com](https://www.alexcarabi.com)
+ - date published: 2024-01-15T13:58:58.240492+00:00
+ - user: None
+ - tags: []
+
+## Alex Chirițescu - alexchiri.com
+ - [https://alexchiri.com](https://alexchiri.com)
+ - date published: 2023-12-23T07:30:41.431360+00:00
+ - user: None
+ - tags: ['personal']
+
+## Alex Crompton
+ - [https://www.alexcrompton.com](https://www.alexcrompton.com)
+ - date published: 2023-10-25T12:37:53.635291+00:00
+ - user: None
+ - tags: []
+
+## Alex DeCapri – Human Being
+ - [https://alexdecapri.com](https://alexdecapri.com)
+ - date published: 2024-01-17T04:44:04.090106+00:00
+ - user: None
+ - tags: []
+
+## Alex Ewerlöf Notes | Substack
+ - [https://blog.alexewerlof.com](https://blog.alexewerlof.com)
+ - date published: 2023-10-25T12:37:57.734921+00:00
+ - user: None
+ - tags: []
+
+## Alexey needs a Web Presence
+ - [https://alexeymk.com](https://alexeymk.com)
+ - date published: 2023-10-25T12:38:00.320646+00:00
+ - user: None
+ - tags: []
+
+## Alexandru Golovatenco
+ - [https://alexglv.com](https://alexglv.com)
+ - date published: 2023-12-03T09:19:15.087581+00:00
+ - user: None
+ - tags: ['personal']
+
+## Personal website | Alex Harri Jónsson
+ - [https://alexharri.com](https://alexharri.com)
+ - date published: 2023-10-25T12:38:01.183324+00:00
+ - user: None
+ - tags: []
+
 ## Alex Hyett | Software Developer | YouTuber | Writer
  - [https://www.alexhyett.com](https://www.alexhyett.com)
  - date published: 2023-10-25T12:38:02.282023+00:00
@@ -1420,6 +1468,12 @@
  - user: None
  - tags: ['personal']
 
+## Home
+ - [http://www.animatedknots.com](http://www.animatedknots.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Animated Knots by Grog | Learn how to tie knots with step-by-step animation
  - [https://www.animatedknots.com](https://www.animatedknots.com)
  - date published: 2023-10-25T12:41:38.429834+00:00
@@ -1546,6 +1600,12 @@
  - user: rumpel
  - tags: ['music band']
 
+## Anritsu Home | Anritsu Europe
+ - [https://www.anritsu.com](https://www.anritsu.com)
+ - date published: 2024-03-24T10:50:05.059406+00:00
+ - user: None
+ - tags: []
+
 ## Answer Overflow - Search all of Discord
  - [https://www.answeroverflow.com](https://www.answeroverflow.com)
  - date published: 2023-10-25T12:41:51.907514+00:00
@@ -1599,6 +1659,12 @@
  - date published: 2024-01-13T18:25:59.972828+00:00
  - user: None
  - tags: []
+
+## Home
+ - [https://anthropic.com](https://anthropic.com)
+ - date published: 2024-03-04T00:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## Guide to Anthropic's prompt engineering resources
  - [https://docs.anthropic.com](https://docs.anthropic.com)
@@ -1957,6 +2023,12 @@
 ## Apple News, Rumors, Reviews, Prices & Deals | AppleInsider
  - [https://appleinsider.com](https://appleinsider.com)
  - date published: 2023-10-25T12:42:44.329223+00:00
+ - user: None
+ - tags: []
+
+## View Discussions and Categories on AppleInsider Forums
+ - [https://forums.appleinsider.com](https://forums.appleinsider.com)
+ - date published: 2024-03-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3040,6 +3112,12 @@
  - user: None
  - tags: []
 
+## AtnNn.com - Articles
+ - [https://www.atnnn.com](https://www.atnnn.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## atomic14
  - [https://blog.atomic14.com](https://blog.atomic14.com)
  - date published: 2023-11-04T18:28:37.686431+00:00
@@ -3285,6 +3363,12 @@
  - date published: 2023-12-22T17:49:49.407617+00:00
  - user: None
  - tags: ['personal']
+
+## Austin's Nerdy Things
+ - [https://austinsnerdythings.com](https://austinsnerdythings.com)
+ - date published: 2024-03-24T08:52:32.293899+00:00
+ - user: None
+ - tags: []
 
 ## AUTHENBLISSITY
  - [https://www.authenblissity.com](https://www.authenblissity.com)
@@ -3664,6 +3748,12 @@
  - user: None
  - tags: []
 
+## Arizona Mirror • Insightful. Investigative. Independent.
+ - [https://azmirror.com](https://azmirror.com)
+ - date published: 2024-03-24T21:30:35.605582+00:00
+ - user: None
+ - tags: []
+
 ## None
  - [https://azomnium.com](https://azomnium.com)
  - date published: 2024-03-19T09:04:02.154139+00:00
@@ -3681,6 +3771,12 @@
  - date published: 2023-10-25T08:39:06.448809+00:00
  - user: None
  - tags: []
+
+## B3TA : WE LOVE THE WEB
+ - [https://b3ta.com](https://b3ta.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['social platform', 'web1', 'funny']
 
 ## B612 – The font family
  - [https://b612-font.com](https://b612-font.com)
@@ -4061,6 +4157,12 @@
  - tags: ['vip']
 
 ## Barbarian Meets Coding
+ - [http://www.barbarianmeetscoding.com](http://www.barbarianmeetscoding.com)
+ - date published: 2024-03-24T15:03:55.877968+00:00
+ - user: None
+ - tags: ['personal']
+
+## Barbarian Meets Coding
  - [https://www.barbarianmeetscoding.com](https://www.barbarianmeetscoding.com)
  - date published: 2023-12-29T03:12:20.530166+00:00
  - user: None
@@ -4252,6 +4354,12 @@
  - user: None
  - tags: []
 
+## Bay 12 Games: Dwarf Fortress
+ - [http://www.bay12games.com](http://www.bay12games.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Ryan Orrock's Tantra – Resources for Spirituality and Sexuality
  - [https://www.bayraba.com](https://www.bayraba.com)
  - date published: 2024-01-01T17:22:29+00:00
@@ -4279,6 +4387,12 @@
 ## Fully documented source code for Elite on the BBC Micro - Elite on the BBC Micro and NES
  - [https://www.bbcelite.com](https://www.bbcelite.com)
  - date published: 2023-10-25T12:54:32.058561+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Good Food
+ - [https://www.bbcgoodfood.com](https://www.bbcgoodfood.com)
+ - date published: 2024-03-24T15:07:58.959176+00:00
  - user: None
  - tags: []
 
@@ -5674,6 +5788,12 @@
  - user: None
  - tags: ['personal']
 
+## Blake Loosli Illustration
+ - [http://www.blakeloosli.com](http://www.blakeloosli.com)
+ - date published: 2024-03-24T15:03:59.970468+00:00
+ - user: None
+ - tags: ['personal']
+
 ## blakewatson.com
  - [https://blakewatson.com](https://blakewatson.com)
  - date published: 2023-10-25T08:45:09.755901+00:00
@@ -5877,124 +5997,4 @@
  - date published: 2024-01-16T13:41:42.524314+00:00
  - user: None
  - tags: []
-
-## busypoll
- - [https://1f604.blogspot.com](https://1f604.blogspot.com)
- - date published: 2023-10-25T09:05:27.653037+00:00
- - user: None
- - tags: ['personal']
-
-## Error 400 (Bad Request)!!1
- - [https://4.bp.blogspot.com](https://4.bp.blogspot.com)
- - date published: 2023-12-11T16:52:45.902558+00:00
- - user: None
- - tags: []
-
-## adam's emulation wip
- - [https://adamulation.blogspot.com](https://adamulation.blogspot.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## ADD / XOR / ROL
- - [https://addxorrol.blogspot.com](https://addxorrol.blogspot.com)
- - date published: 2024-01-09T02:30:36.134136+00:00
- - user: None
- - tags: []
-
-## ADD / XOR / ROL
- - [http://addxorrol.blogspot.com](http://addxorrol.blogspot.com)
- - date published: 2024-01-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## Agile Otter Blog
- - [https://agileotter.blogspot.com](https://agileotter.blogspot.com)
- - date published: 2023-10-25T09:05:30.845699+00:00
- - user: None
- - tags: ['personal']
-
-## Dave Airlie Linux Graphics blog
- - [https://airlied.blogspot.com](https://airlied.blogspot.com)
- - date published: 2023-10-25T09:05:33.830706+00:00
- - user: None
- - tags: ['personal']
-
-## I hate software
- - [https://allsoftwaresucks.blogspot.com](https://allsoftwaresucks.blogspot.com)
- - date published: 2023-10-25T09:05:39.838601+00:00
- - user: None
- - tags: ['personal']
-
-## Amiga Gamer
- - [https://amigagamer.blogspot.com](https://amigagamer.blogspot.com)
- - date published: 2023-11-02T09:55:15.962797+00:00
- - user: None
- - tags: []
-
-## Epsilon's Amiga Blog
- - [https://amigax1000.blogspot.com](https://amigax1000.blogspot.com)
- - date published: 2023-12-11T17:54:11.446091+00:00
- - user: None
- - tags: []
-
-## Amit's Thoughts
- - [https://amitp.blogspot.com](https://amitp.blogspot.com)
- - date published: 2023-10-25T09:05:44.139609+00:00
- - user: None
- - tags: ['personal']
-
-## annika's journal backup blog: October 2003
- - [https://annikagyrl.blogspot.com](https://annikagyrl.blogspot.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nothing To Do With Arbroath
- - [https://arbroath.blogspot.com](https://arbroath.blogspot.com)
- - date published: 2024-01-22T10:04:14.316123+00:00
- - user: None
- - tags: []
-
-## arighi's blog
- - [http://arighi.blogspot.com](http://arighi.blogspot.com)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Arte y pico
- - [https://arteypico.blogspot.com](https://arteypico.blogspot.com)
- - date published: 2024-02-08T18:20:49.603964+00:00
- - user: None
- - tags: []
-
-## blog
- - [https://avodonosov.blogspot.com](https://avodonosov.blogspot.com)
- - date published: 2023-10-25T09:05:48.878271+00:00
- - user: None
- - tags: ['personal']
-
-## The Axis of Eval
- - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
- - date published: 2024-01-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Axis of Eval
- - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
- - date published: 2024-01-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sabine Hossenfelder: Backreaction
- - [https://backreaction.blogspot.com](https://backreaction.blogspot.com)
- - date published: 2023-10-25T09:05:55.426378+00:00
- - user: None
- - tags: ['personal']
-
-## The art of simplicity
- - [https://bartwullems.blogspot.com](https://bartwullems.blogspot.com)
- - date published: 2023-10-25T09:06:01.627020+00:00
- - user: None
- - tags: ['personal']
 

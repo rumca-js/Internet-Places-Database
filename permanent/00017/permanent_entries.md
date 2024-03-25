@@ -1,3 +1,669 @@
+## ENTSO-E Transparency Platform
+ - [https://transparency.entsoe.eu](https://transparency.entsoe.eu)
+ - date published: 2023-10-25T19:09:58.582217+00:00
+ - user: None
+ - tags: []
+
+## EquiValent
+ - [https://blog.eq8.eu](https://blog.eq8.eu)
+ - date published: 2023-10-25T19:10:02.527258+00:00
+ - user: None
+ - tags: []
+
+## EUROMOMO EuroMOMO Bulletin, Week 4, 2024
+ - [https://www.euromomo.eu](https://www.euromomo.eu)
+ - date published: 2024-02-01T22:55:43.888015+00:00
+ - user: None
+ - tags: []
+
+## European Civil Protection and Humanitarian Aid Operations
+ - [https://civil-protection-humanitarian-aid.ec.europa.eu](https://civil-protection-humanitarian-aid.ec.europa.eu)
+ - date published: 2023-12-22T12:19:59.878101+00:00
+ - user: None
+ - tags: []
+
+## Untitled Document
+ - [https://curia.europa.eu](https://curia.europa.eu)
+ - date published: 2023-10-25T19:10:04.254569+00:00
+ - user: None
+ - tags: []
+
+## Digital Markets Act
+ - [https://digital-markets-act.ec.europa.eu](https://digital-markets-act.ec.europa.eu)
+ - date published: 2024-02-24T18:08:26.998742+00:00
+ - user: None
+ - tags: []
+
+## Shaping Europe’s digital future
+ - [https://digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu)
+ - date published: 2024-01-21T19:08:08.043591+00:00
+ - user: None
+ - tags: []
+
+## Language selection | European Commission
+ - [https://ec.europa.eu](https://ec.europa.eu)
+ - date published: 2023-10-25T11:24:45.809790+00:00
+ - user: None
+ - tags: []
+
+## Language selection | Migration and Home Affairs
+ - [https://home-affairs.ec.europa.eu](https://home-affairs.ec.europa.eu)
+ - date published: 2023-10-25T19:10:06.998621+00:00
+ - user: None
+ - tags: []
+
+## Council of EU - Newsroom
+ - [https://newsroom.consilium.europa.eu](https://newsroom.consilium.europa.eu)
+ - date published: 2024-02-24T00:02:43.905881+00:00
+ - user: None
+ - tags: []
+
+## EU Voice
+ - [https://social.network.europa.eu](https://social.network.europa.eu)
+ - date published: 2023-10-25T19:10:09.557687+00:00
+ - user: None
+ - tags: []
+
+## Browser check - Consilium
+ - [https://www.consilium.europa.eu](https://www.consilium.europa.eu)
+ - date published: 2023-10-25T19:10:10.580564+00:00
+ - user: None
+ - tags: []
+
+## EDPS Homepage
+ - [https://www.edps.europa.eu](https://www.edps.europa.eu)
+ - date published: 2024-03-11T11:46:36.896253+00:00
+ - user: None
+ - tags: []
+
+## European Environment Agency's home page
+ - [https://www.eea.europa.eu](https://www.eea.europa.eu)
+ - date published: 2023-10-25T19:10:12.718824+00:00
+ - user: None
+ - tags: []
+
+## Homepage | European Medicines Agency
+ - [https://www.ema.europa.eu](https://www.ema.europa.eu)
+ - date published: 2023-12-19T23:16:23.171412+00:00
+ - user: None
+ - tags: []
+
+## https://www.europarl.europa.eu
+ - [https://www.europarl.europa.eu](https://www.europarl.europa.eu)
+ - date published: 2023-11-14T13:55:38.897791+00:00
+ - user: None
+ - tags: []
+
+## The European Pirate Party
+ - [https://european-pirateparty.eu](https://european-pirateparty.eu)
+ - date published: 2023-10-25T19:10:16.824965+00:00
+ - user: None
+ - tags: []
+
+## EuroPython Blog
+ - [https://blog.europython.eu](https://blog.europython.eu)
+ - date published: 2023-10-25T19:10:20.746169+00:00
+ - user: None
+ - tags: []
+
+## FANUC | The Factory Automation Company - Fanuc
+ - [https://www.fanuc.eu](https://www.fanuc.eu)
+ - date published: 2023-11-27T15:45:02+00:00
+ - user: rumpel
+ - tags: ['robotics']
+
+## FAU Erlangen-Nürnberg
+ - [https://www.fau.eu](https://www.fau.eu)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Alan's Lair
+ - [https://www.franzoni.eu](https://www.franzoni.eu)
+ - date published: 2023-10-25T19:10:27.546886+00:00
+ - user: None
+ - tags: []
+
+## galmon.eu
+ - [https://galmon.eu](https://galmon.eu)
+ - date published: 2023-10-25T19:10:28.853146+00:00
+ - user: None
+ - tags: []
+
+## Gas Infrastructure Europe - AGSI
+ - [https://agsi.gie.eu](https://agsi.gie.eu)
+ - date published: 2023-10-25T19:10:29.723020+00:00
+ - user: None
+ - tags: []
+
+## Giorgio Pomettini – Game Programmer, Unity Developer
+ - [https://www.giorgiopomettini.eu](https://www.giorgiopomettini.eu)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Human Brain Project
+ - [https://www.humanbrainproject.eu](https://www.humanbrainproject.eu)
+ - date published: 2024-01-02T11:33:32.659729+00:00
+ - user: None
+ - tags: []
+
+## I don't care about cookies 3.4.9
+ - [https://www.i-dont-care-about-cookies.eu](https://www.i-dont-care-about-cookies.eu)
+ - date published: 2023-10-25T19:10:30.440091+00:00
+ - user: None
+ - tags: []
+
+## Home - IEEP AISBL
+ - [https://ieep.eu](https://ieep.eu)
+ - date published: 2024-03-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## I Hate AI Licenses
+ - [https://ihateailicense.eu](https://ihateailicense.eu)
+ - date published: 2024-01-02T17:01:15+00:00
+ - user: None
+ - tags: []
+
+## Ingo Blechschmidt
+ - [https://www.ingo-blechschmidt.eu](https://www.ingo-blechschmidt.eu)
+ - date published: 2023-10-25T19:10:37.193734+00:00
+ - user: None
+ - tags: []
+
+## EU Integrity Watch
+ - [https://www.integritywatch.eu](https://www.integritywatch.eu)
+ - date published: 2023-12-06T10:08:37+00:00
+ - user: rumpel
+ - tags: ['european union']
+
+## Sokółka - Informacje, forum, ogłoszenia
+ - [https://isokolka.eu](https://isokolka.eu)
+ - date published: 2024-03-20T21:32:22.441969+00:00
+ - user: None
+ - tags: []
+
+## ugBASIC - An isomorphic BASIC language compiler for retrocomputers
+ - [https://ugbasic.iwashere.eu](https://ugbasic.iwashere.eu)
+ - date published: 2023-10-25T19:10:40.211235+00:00
+ - user: None
+ - tags: []
+
+## Jan Kremer
+ - [https://jankremer.eu](https://jankremer.eu)
+ - date published: 2023-11-15T10:39:22.705314+00:00
+ - user: None
+ - tags: []
+
+## International Mountain Guide | Just One Step
+ - [https://justonestep.eu](https://justonestep.eu)
+ - date published: 2024-02-10T21:33:45.316467+00:00
+ - user: None
+ - tags: ['personal']
+
+## Justune
+ - [https://justune.eu](https://justune.eu)
+ - date published: 2023-10-25T19:10:41.586076+00:00
+ - user: None
+ - tags: []
+
+## Igor Klimer's personal site
+ - [https://klimer.eu](https://klimer.eu)
+ - date published: 2024-01-21T06:46:36.777217+00:00
+ - user: None
+ - tags: []
+
+## Civil Liberties Union for Europe | liberties.eu
+ - [https://www.liberties.eu](https://www.liberties.eu)
+ - date published: 2023-10-25T19:10:46.265989+00:00
+ - user: None
+ - tags: []
+
+## Linux Foundation Europe
+ - [https://linuxfoundation.eu](https://linuxfoundation.eu)
+ - date published: 2023-10-25T19:10:54.862417+00:00
+ - user: None
+ - tags: []
+
+## Search | lobbyfacts
+ - [https://www.lobbyfacts.eu](https://www.lobbyfacts.eu)
+ - date published: 2023-10-25T19:11:00.138993+00:00
+ - user: None
+ - tags: []
+
+## 👋 Welcome to Luke's Wiki! | Luke's Wiki
+ - [https://lukeswiki.eu](https://lukeswiki.eu)
+ - date published: 2024-01-01T09:41:19.790617+00:00
+ - user: None
+ - tags: []
+
+## M0AGX / LB9MG
+ - [https://m0agx.eu](https://m0agx.eu)
+ - date published: 2023-10-25T19:11:01.705514+00:00
+ - user: None
+ - tags: []
+
+## The Master and Margarita
+ - [https://m.masterandmargarita.eu](https://m.masterandmargarita.eu)
+ - date published: 2023-12-02T22:11:12.682928+00:00
+ - user: None
+ - tags: []
+
+## Advanced Electronic Projects
+ - [https://microengineer.eu](https://microengineer.eu)
+ - date published: 2023-12-25T20:06:44.466683+00:00
+ - user: None
+ - tags: []
+
+## Alex’s website
+ - [https://muscar.eu](https://muscar.eu)
+ - date published: 2023-10-25T19:11:03.118706+00:00
+ - user: None
+ - tags: []
+
+## Neoteric — Digital Transformation Partner
+ - [https://neoteric.eu](https://neoteric.eu)
+ - date published: 2023-10-25T19:11:06.793746+00:00
+ - user: None
+ - tags: []
+
+## NIS2 Directive | Prepare Your Organization Now
+ - [https://nis2directive.eu](https://nis2directive.eu)
+ - date published: 2023-10-25T19:11:09.618121+00:00
+ - user: None
+ - tags: []
+
+## Новая газета Европа
+ - [https://novayagazeta.eu](https://novayagazeta.eu)
+ - date published: 2023-11-15T18:40:56.455675+00:00
+ - user: None
+ - tags: []
+
+## NOYB enforces your right to privacy everyday
+ - [https://noyb.eu](https://noyb.eu)
+ - date published: 2023-10-25T11:24:53.335930+00:00
+ - user: None
+ - tags: []
+
+## NOYB enforces your right to privacy everyday
+ - [http://noyb.eu](http://noyb.eu)
+ - date published: 2024-02-26T15:02:23.923642+00:00
+ - user: None
+ - tags: []
+
+## Welcome - Open Web Search – Promoting Europe's Independence in Web Search
+ - [https://openwebsearch.eu](https://openwebsearch.eu)
+ - date published: 2023-10-25T19:11:14.751829+00:00
+ - user: None
+ - tags: []
+
+## overpass turbo
+ - [https://overpass-turbo.eu](https://overpass-turbo.eu)
+ - date published: 2024-01-24T06:49:07.618612+00:00
+ - user: None
+ - tags: []
+
+## Home | PaulaToThePeople
+ - [https://paulatothepeople.eu](https://paulatothepeople.eu)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Now - Peter Kudeláš | Full Stack Developer
+ - [https://now.peterkudelas.eu](https://now.peterkudelas.eu)
+ - date published: 2024-01-13T09:37:26.041221+00:00
+ - user: None
+ - tags: []
+
+## Blog entries by date
+ - [https://blog.pgpkeys.eu](https://blog.pgpkeys.eu)
+ - date published: 2024-01-09T03:29:22.983994+00:00
+ - user: None
+ - tags: []
+
+## pnote | Przemek | Substack
+ - [https://newsletter.pnote.eu](https://newsletter.pnote.eu)
+ - date published: 2024-01-01T16:29:16.021094+00:00
+ - user: None
+ - tags: []
+
+## pnote.eu
+ - [https://pnote.eu](https://pnote.eu)
+ - date published: 2023-11-12T09:42:04.084639+00:00
+ - user: None
+ - tags: []
+
+## Pograne
+ - [https://pograne.eu](https://pograne.eu)
+ - date published: 2023-12-13T15:18:08.619232+00:00
+ - user: None
+ - tags: ['video games']
+
+## POLITICO – European Politics, Policy, Government News
+ - [https://www.politico.eu](https://www.politico.eu)
+ - date published: 2023-10-25T10:30:34.441140+00:00
+ - user: None
+ - tags: []
+
+## https://publiccode.eu/en/
+ - [https://publiccode.eu](https://publiccode.eu)
+ - date published: 2023-10-25T19:11:20.936558+00:00
+ - user: None
+ - tags: []
+
+## On Programming, Software Architecture, and Sociotechnical Systems
+ - [https://www.reactivesystems.eu](https://www.reactivesystems.eu)
+ - date published: 2023-10-25T19:11:27.315296+00:00
+ - user: None
+ - tags: []
+
+## Your voice in the European Parliament - Renew Europe
+ - [https://www.reneweuropegroup.eu](https://www.reneweuropegroup.eu)
+ - date published: 2023-10-25T19:11:30.012318+00:00
+ - user: None
+ - tags: []
+
+## Home - Right to Repair Europe
+ - [https://repair.eu](https://repair.eu)
+ - date published: 2023-11-03T10:38:49.832941+00:00
+ - user: None
+ - tags: []
+
+## retronagazie – Gry RETRO, recenzje, wspominki, publicystyka
+ - [https://www.retronagazie.eu](https://www.retronagazie.eu)
+ - date published: 2023-12-12T09:19:43+00:00
+ - user: None
+ - tags: ['retro games']
+
+## Bystroushaak's blog
+ - [https://blog.rfox.eu](https://blog.rfox.eu)
+ - date published: 2023-10-25T11:45:10.258800+00:00
+ - user: None
+ - tags: ['personal']
+
+## Welcome - Nectarine
+ - [http://www.scenemusic.eu](http://www.scenemusic.eu)
+ - date published: 2024-02-15T22:12:25.202781+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Severe Weather Europe » “Follow severe weather as it happens. Anywhere. Any time.”
+ - [https://www.severe-weather.eu](https://www.severe-weather.eu)
+ - date published: 2023-10-25T19:11:37.267092+00:00
+ - user: None
+ - tags: []
+
+## The latest startup news and analysis from Europe | Sifted
+ - [https://sifted.eu](https://sifted.eu)
+ - date published: 2023-10-25T19:11:43.124785+00:00
+ - user: None
+ - tags: []
+
+## Silent Signal Techblog
+ - [https://blog.silentsignal.eu](https://blog.silentsignal.eu)
+ - date published: 2023-10-25T19:11:44.624027+00:00
+ - user: None
+ - tags: []
+
+## Stare-Gry.eu - Klasyki gier sprzed lat:
+ - [https://stare-gry.eu](https://stare-gry.eu)
+ - date published: 2023-12-13T15:07:15.431359+00:00
+ - user: None
+ - tags: ['video games']
+
+## State of the Map EU 2023
+ - [https://stateofthemap.eu](https://stateofthemap.eu)
+ - date published: 2023-10-25T19:11:51.109957+00:00
+ - user: None
+ - tags: []
+
+## Let's stop the EU chat control! - stopchatcontrol.eu
+ - [https://stopchatcontrol.eu](https://stopchatcontrol.eu)
+ - date published: 2023-10-25T19:11:53.766629+00:00
+ - user: None
+ - tags: []
+
+## Stop Scanning Me
+ - [https://stopscanningme.eu](https://stopscanningme.eu)
+ - date published: 2023-10-25T19:11:57.111015+00:00
+ - user: None
+ - tags: []
+
+## Gottfried Szing
+ - [https://szing.eu](https://szing.eu)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## TMS Electronics AB
+ - [https://tmsnet.eu](https://tmsnet.eu)
+ - date published: 2023-12-13T14:57:36.436436+00:00
+ - user: None
+ - tags: ['electronic parts']
+
+## Newsroom Toyota Europe
+ - [https://newsroom.toyota.eu](https://newsroom.toyota.eu)
+ - date published: 2023-10-25T10:55:48.058400+00:00
+ - user: None
+ - tags: []
+
+## Blog about business, startups, technology and digital transformation | Adam Trojanczyk
+ - [https://trojanczyk.eu](https://trojanczyk.eu)
+ - date published: 2023-10-25T19:12:06.424115+00:00
+ - user: None
+ - tags: []
+
+## VCMI Project
+ - [https://vcmi.eu](https://vcmi.eu)
+ - date published: 2023-10-25T08:33:07.453100+00:00
+ - user: None
+ - tags: ['heroes3', 'open source']
+
+## VCMI Project Wiki
+ - [https://wiki.vcmi.eu](https://wiki.vcmi.eu)
+ - date published: 2023-10-25T11:17:27.869847+00:00
+ - user: None
+ - tags: []
+
+## Personal homepage of Vitalii Kovalenko
+ - [https://vk7.eu](https://vk7.eu)
+ - date published: 2023-10-25T09:26:23.336733+00:00
+ - user: None
+ - tags: ['personal']
+
+## WEAR Sustain
+ - [https://wearsustain.eu](https://wearsustain.eu)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://act.wemove.eu](https://act.wemove.eu)
+ - date published: 2023-10-25T19:12:09.146978+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.worldstandards.eu](https://www.worldstandards.eu)
+ - date published: 2023-10-25T19:12:10.573642+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.wwf.eu](https://www.wwf.eu)
+ - date published: 2024-02-24T09:58:16.932708+00:00
+ - user: None
+ - tags: ['environment']
+
+## Šime’s blog
+ - [https://xn--ime-zza.eu](https://xn--ime-zza.eu)
+ - date published: 2024-02-28T15:29:46.056554+00:00
+ - user: None
+ - tags: []
+
+## Home - Yanis Varoufakis
+ - [https://www.yanisvaroufakis.eu](https://www.yanisvaroufakis.eu)
+ - date published: 2023-10-25T11:24:31.031712+00:00
+ - user: None
+ - tags: []
+
+## https://ecomm.events
+ - [https://ecomm.events](https://ecomm.events)
+ - date published: 2023-12-11T16:51:20.422883+00:00
+ - user: None
+ - tags: []
+
+## HOME | UKTC.events
+ - [https://www.uktc.events](https://www.uktc.events)
+ - date published: 2023-10-25T11:12:36.401594+00:00
+ - user: None
+ - tags: []
+
+## : : d j . e x c h a n g e : :
+ - [https://dj.exchange](https://dj.exchange)
+ - date published: 2023-10-25T19:12:11.857349+00:00
+ - user: None
+ - tags: []
+
+## Infosec Exchange
+ - [https://infosec.exchange](https://infosec.exchange)
+ - date published: 2023-10-25T19:12:12.530727+00:00
+ - user: None
+ - tags: []
+
+## IOC.exchange
+ - [https://ioc.exchange](https://ioc.exchange)
+ - date published: 2023-10-25T19:12:13.727494+00:00
+ - user: None
+ - tags: []
+
+## Writing Exchange
+ - [https://writing.exchange](https://writing.exchange)
+ - date published: 2024-02-23T02:32:07.775583+00:00
+ - user: None
+ - tags: []
+
+## Nicole Express
+ - [https://nicole.express](https://nicole.express)
+ - date published: 2023-10-25T19:12:14.620553+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nicole Express
+ - [http://nicole.express](http://nicole.express)
+ - date published: 2024-02-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Abort Retry Fail | Bradford Morgan White | Substack
+ - [https://www.abortretry.fail](https://www.abortretry.fail)
+ - date published: 2023-10-25T19:12:20.013358+00:00
+ - user: None
+ - tags: []
+
+## Brute.Fail: Watch brute force attacks fail in real time
+ - [https://brute.fail](https://brute.fail)
+ - date published: 2023-10-25T19:12:28.295612+00:00
+ - user: None
+ - tags: []
+
+## How Complex Systems Fail
+ - [https://how.complexsystems.fail](https://how.complexsystems.fail)
+ - date published: 2023-10-25T19:12:28.930660+00:00
+ - user: None
+ - tags: []
+
+## dare.fail
+ - [https://dare.fail](https://dare.fail)
+ - date published: 2023-10-25T19:12:30.964824+00:00
+ - user: None
+ - tags: []
+
+## Posts - env.fail
+ - [https://env.fail](https://env.fail)
+ - date published: 2024-03-18T12:33:48.359916+00:00
+ - user: None
+ - tags: ['blog', 'personal']
+
+## GoFetch: New side-channel attack using data memory-dependent prefetchers
+ - [https://gofetch.fail](https://gofetch.fail)
+ - date published: 2024-03-21T14:51:18+00:00
+ - user: None
+ - tags: []
+
+## SGX.Fail
+ - [https://sgx.fail](https://sgx.fail)
+ - date published: 2023-10-25T19:12:32.595021+00:00
+ - user: None
+ - tags: []
+
+## old-home.faith
+ - [https://old-home.faith](https://old-home.faith)
+ - date published: 2024-01-10T14:25:35.832437+00:00
+ - user: None
+ - tags: []
+
+## Personal Ramblings – Persönliches dies-und-das
+ - [https://patrick.georgi.family](https://patrick.georgi.family)
+ - date published: 2023-10-25T19:12:38.756579+00:00
+ - user: None
+ - tags: []
+
+## MGR.FARM - serwis branżowy dla farmaceutów
+ - [https://mgr.farm](https://mgr.farm)
+ - date published: 2023-10-25T19:12:44.760001+00:00
+ - user: None
+ - tags: []
+
+## Orb.Farm
+ - [https://orb.farm](https://orb.farm)
+ - date published: 2023-10-25T19:12:45.231890+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science | Aalto University
+ - [https://users.ics.aalto.fi](https://users.ics.aalto.fi)
+ - date published: 2023-10-25T19:12:48.987236+00:00
+ - user: None
+ - tags: []
+
+## Home | Business Consulting
+ - [https://www.academicbusinessconsulting.fi](https://www.academicbusinessconsulting.fi)
+ - date published: 2024-02-08T16:33:28.401694+00:00
+ - user: None
+ - tags: []
+
+## WeChatGPT+ now with 8% less censorship!
+ - [https://future.attejuvonen.fi](https://future.attejuvonen.fi)
+ - date published: 2023-10-25T19:12:50.280628+00:00
+ - user: None
+ - tags: []
+
+## Citroën Suomi
+ - [https://www.citroen.fi](https://www.citroen.fi)
+ - date published: 2023-12-11T16:01:21.717152+00:00
+ - user: None
+ - tags: []
+
+## https://www.curve.fi
+ - [https://www.curve.fi](https://www.curve.fi)
+ - date published: 2024-01-09T03:29:28.812882+00:00
+ - user: None
+ - tags: []
+
+## AfterDawn
+ - [https://dawn.fi](https://dawn.fi)
+ - date published: 2023-10-25T19:13:02.974882+00:00
+ - user: None
+ - tags: []
+
+## WWW.NIC.FUNET.FI
+ - [https://www.funet.fi](https://www.funet.fi)
+ - date published: 2023-10-25T19:13:04.150075+00:00
+ - user: None
+ - tags: []
+
 ## Home - gekkio.fi
  - [https://gekkio.fi](https://gekkio.fi)
  - date published: 2023-10-25T19:13:04.942208+00:00
@@ -1878,15 +2544,15 @@
  - user: None
  - tags: []
 
-## The Keyword | Google Product and Technology News and Stories
- - [https://blog.google](https://blog.google)
- - date published: 2023-10-25T11:29:32.894232+00:00
- - user: None
- - tags: []
-
 ## The Keyword
  - [http://blog.google](http://blog.google)
  - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Keyword | Google Product and Technology News and Stories
+ - [https://blog.google](https://blog.google)
+ - date published: 2023-10-25T11:29:32.894232+00:00
  - user: None
  - tags: []
 
@@ -2617,6 +3283,12 @@
  - date published: 2023-10-27T10:15:59.069512+00:00
  - user: None
  - tags: ['assets models']
+
+## NASA Technical Reports Server (NTRS)
+ - [https://ntrs.nasa.gov](https://ntrs.nasa.gov)
+ - date published: 2024-03-24T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Nancy Grace Roman Space Telescope
  - [https://roman.gsfc.nasa.gov](https://roman.gsfc.nasa.gov)
@@ -4872,14 +5544,14 @@
  - tags: []
 
 ## Erthalion
- - [http://erthalion.info](http://erthalion.info)
- - date published: 2024-02-25T15:21:46.039163+00:00
+ - [https://erthalion.info](https://erthalion.info)
+ - date published: 2023-10-25T19:33:09.948190+00:00
  - user: None
  - tags: []
 
 ## Erthalion
- - [https://erthalion.info](https://erthalion.info)
- - date published: 2023-10-25T19:33:09.948190+00:00
+ - [http://erthalion.info](http://erthalion.info)
+ - date published: 2024-02-25T15:21:46.039163+00:00
  - user: None
  - tags: []
 
@@ -5330,678 +6002,6 @@
 ## @thomasknoll
  - [https://thomasknoll.info](https://thomasknoll.info)
  - date published: 2024-01-13T22:53:42.672436+00:00
- - user: None
- - tags: []
-
-## Home :: Tim Baumann
- - [https://timbaumann.info](https://timbaumann.info)
- - date published: 2023-10-25T19:35:02.325743+00:00
- - user: None
- - tags: []
-
-## blog.tripu.info — blog.tripu.info
- - [https://blog.tripu.info](https://blog.tripu.info)
- - date published: 2023-10-25T19:35:05.983281+00:00
- - user: None
- - tags: []
-
-## None
- - [https://tvp.info](https://tvp.info)
- - date published: 2023-12-20T11:26:29.421997+00:00
- - user: None
- - tags: []
-
-## TVP Info - najnowsze informacje z kraju i ze świata, wideo, transmisje on-line i relacje na żywo.
- - [http://www.tvp.info](http://www.tvp.info)
- - date published: 2024-02-26T13:23:41.448557+00:00
- - user: None
- - tags: []
-
-## TVP Info - najnowsze informacje z kraju i ze świata, wideo, transmisje on-line i relacje na żywo.
- - [https://www.tvp.info](https://www.tvp.info)
- - date published: 2023-10-25T19:35:11.469749+00:00
- - user: None
- - tags: []
-
-## • Останні новини Україні та Світу на UA.STENA.INFO
- - [https://ua-stena.info](https://ua-stena.info)
- - date published: 2023-12-24T02:58:04.758755+00:00
- - user: None
- - tags: []
-
-## www.ungleichheit.info
- - [https://ungleichheit.info](https://ungleichheit.info)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Urbanet: Expert Platform for Sustainable Urban Development
- - [https://www.urbanet.info](https://www.urbanet.info)
- - date published: 2023-10-25T19:35:15.436555+00:00
- - user: None
- - tags: []
-
-## Run a Free VIN Check Instantly - No Credit Card Needed
- - [https://vincheck.info](https://vincheck.info)
- - date published: 2024-03-19T11:55:02+00:00
- - user: rumpel
- - tags: ['vehicles', 'online tool']
-
-## vittorio romeo's website
- - [https://vittorioromeo.info](https://vittorioromeo.info)
- - date published: 2023-10-25T19:35:17.550121+00:00
- - user: None
- - tags: []
-
-## Голосуй за рубежом!
- - [https://voteabroad.info](https://voteabroad.info)
- - date published: 2024-03-18T16:03:39.872732+00:00
- - user: None
- - tags: []
-
-## VRFD
- - [https://vrfd.info](https://vrfd.info)
- - date published: 2023-10-25T19:35:22.177478+00:00
- - user: None
- - tags: []
-
-## Warcraft 3 News
- - [https://warcraft3.info](https://warcraft3.info)
- - date published: 2023-10-29T10:38:10.519061+00:00
- - user: None
- - tags: ['warcraft']
-
-## WhatIFF? Online Amiga Magazine
- - [https://whatiff.info](https://whatiff.info)
- - date published: 2023-11-02T10:01:50.738950+00:00
- - user: None
- - tags: []
-
-## Whole Earth Index
- - [https://wholeearth.info](https://wholeearth.info)
- - date published: 2023-10-25T19:35:32.261085+00:00
- - user: None
- - tags: []
-
-## Somewhere Within Boredom – A Site About Stuff
- - [https://withinboredom.info](https://withinboredom.info)
- - date published: 2023-10-25T19:35:34.226325+00:00
- - user: None
- - tags: []
-
-## Worldometer - real time world statistics
- - [https://www.worldometers.info](https://www.worldometers.info)
- - date published: 2023-10-25T19:35:37.800327+00:00
- - user: None
- - tags: []
-
-## ∑ Xah Code
- - [http://xahlee.info](http://xahlee.info)
- - date published: 2023-10-25T19:35:40.088312+00:00
- - user: rumpel
- - tags: []
-
-## ∑ Xah Code
- - [https://xahlee.info](https://xahlee.info)
- - date published: 2024-01-29T11:11:38+00:00
- - user: rumpel
- - tags: []
-
-## XRain - Rainfall statistics for the globe
- - [https://xrain.info](https://xrain.info)
- - date published: 2023-10-25T19:35:41.888661+00:00
- - user: None
- - tags: []
-
-## XtoF’s Lair
- - [https://www.xtof.info](https://www.xtof.info)
- - date published: 2023-11-05T23:15:15.251290+00:00
- - user: None
- - tags: []
-
-## Yeovil's Virtual Museum, the A-to-Z of Yeovil's History - by Bob Osborn
- - [https://www.yeovilhistory.info](https://www.yeovilhistory.info)
- - date published: 2023-10-27T11:57:14.443681+00:00
- - user: None
- - tags: []
-
-## Zero-k: A libre sci-fi RTS game, with an economy based on metal and energy
- - [https://zero-k.info](https://zero-k.info)
- - date published: 2023-11-19T10:43:09+00:00
- - user: None
- - tags: []
-
-## .ing TLD now generally available
- - [https://get.ing](https://get.ing)
- - date published: 2023-12-05T16:19:39+00:00
- - user: None
- - tags: []
-
-## Capsule | Share a link, tell a story.
- - [https://www.capsulel.ink](https://www.capsulel.ink)
- - date published: 2023-10-27T11:57:16.396518+00:00
- - user: None
- - tags: []
-
-## Karektar
- - [https://karektar.newtrino.ink](https://karektar.newtrino.ink)
- - date published: 2023-10-25T08:36:49.514752+00:00
- - user: None
- - tags: []
-
-## Segment Anything Model (Sam) Visualized
- - [https://flowforward.simple.ink](https://flowforward.simple.ink)
- - date published: 2023-12-01T08:26:18+00:00
- - user: None
- - tags: []
-
-## vmb
- - [https://veronique.ink](https://veronique.ink)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Webmink In Draft
- - [https://the.webm.ink](https://the.webm.ink)
- - date published: 2023-10-27T11:57:18.334378+00:00
- - user: None
- - tags: []
-
-## PR, Marketing, and Branding With Impact — CCI
- - [https://www.culturalcurrents.institute](https://www.culturalcurrents.institute)
- - date published: 2023-10-25T19:36:13.412695+00:00
- - user: None
- - tags: []
-
-## Paged Out!
- - [https://pagedout.institute](https://pagedout.institute)
- - date published: 2023-12-18T16:48:25.692473+00:00
- - user: None
- - tags: []
-
-## Institute for Progress (IFP)
- - [https://progress.institute](https://progress.institute)
- - date published: 2023-10-25T19:36:19.113893+00:00
- - user: None
- - tags: []
-
-## Spritely Networked Communities Institute -- Spritely Institute
- - [https://spritely.institute](https://spritely.institute)
- - date published: 2023-10-25T19:36:21.265092+00:00
- - user: None
- - tags: []
-
-## tilde.institute :: Wiki
- - [https://wiki.tilde.institute](https://wiki.tilde.institute)
- - date published: 2023-10-25T19:36:22.997779+00:00
- - user: None
- - tags: []
-
-## https://pace.coe.int
- - [https://pace.coe.int](https://pace.coe.int)
- - date published: 2023-10-25T19:36:23.306616+00:00
- - user: None
- - tags: []
-
-## https://ideas.esa.int
- - [https://ideas.esa.int](https://ideas.esa.int)
- - date published: 2024-01-09T03:32:42.067298+00:00
- - user: None
- - tags: []
-
-## Cosmos Home - Cosmos
- - [https://www.cosmos.esa.int](https://www.cosmos.esa.int)
- - date published: 2024-01-09T03:32:43.022113+00:00
- - user: None
- - tags: []
-
-## European Space Agency
- - [https://www.esa.int](https://www.esa.int)
- - date published: 2023-10-25T19:36:27.942390+00:00
- - user: None
- - tags: []
-
-## EUMETSAT | Monitoring the weather and climate from space | EUMETSAT
- - [https://www.eumetsat.int](https://www.eumetsat.int)
- - date published: 2023-10-25T19:36:32.487462+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.icao.int](https://www.icao.int)
- - date published: 2023-10-25T19:36:35.257231+00:00
- - user: None
- - tags: []
-
-## | International Criminal Court
- - [https://www.icc-cpi.int](https://www.icc-cpi.int)
- - date published: 2023-10-25T19:36:37.915405+00:00
- - user: None
- - tags: []
-
-## NATO - Homepage
- - [https://www.nato.int](https://www.nato.int)
- - date published: 2023-10-25T19:36:41.145399+00:00
- - user: None
- - tags: []
-
-## ReliefWeb - Informing humanitarians worldwide
- - [https://reliefweb.int](https://reliefweb.int)
- - date published: 2023-10-25T19:36:44.632738+00:00
- - user: None
- - tags: []
-
-## World Health Organization (WHO)
- - [https://www.who.int](https://www.who.int)
- - date published: 2023-10-25T19:36:52.392796+00:00
- - user: None
- - tags: []
-
-## World Meteorological Organization |
- - [https://public.wmo.int](https://public.wmo.int)
- - date published: 2023-10-25T19:36:59.974563+00:00
- - user: None
- - tags: []
-
-## World Meteorological Organization
- - [https://wmo.int](https://wmo.int)
- - date published: 2024-03-19T14:51:16.402474+00:00
- - user: None
- - tags: []
-
-## Progressive International
- - [https://progressive.international](https://progressive.international)
- - date published: 2024-03-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## 12ft Ladder
- - [https://12ft.io](https://12ft.io)
- - date published: 2023-10-25T19:37:01.821312+00:00
- - user: None
- - tags: []
-
-## F*** Paywalls
- - [https://1ft.io](https://1ft.io)
- - date published: 2023-11-04T16:59:18+00:00
- - user: None
- - tags: []
-
-## former Bell Labs Computing and Mathematical Sciences Research
- - [https://9p.io](https://9p.io)
- - date published: 2023-10-25T19:37:03.235955+00:00
- - user: None
- - tags: []
-
-## abseil / abseil.io
- - [https://abseil.io](https://abseil.io)
- - date published: 2023-10-25T19:37:05.168960+00:00
- - user: None
- - tags: []
-
-## Anthony Accomazzo @ acco.io
- - [https://www.acco.io](https://www.acco.io)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Adalytics
- - [https://adalytics.io](https://adalytics.io)
- - date published: 2023-10-25T19:37:08.319881+00:00
- - user: None
- - tags: []
-
-## Adaptive Cards
- - [https://adaptivecards.io](https://adaptivecards.io)
- - date published: 2024-02-07T21:49:33.176067+00:00
- - user: None
- - tags: []
-
-## AdGuard DNS — ad-blocking DNS server
- - [https://adguard-dns.io](https://adguard-dns.io)
- - date published: 2023-11-22T06:50:43+00:00
- - user: rumpel
- - tags: ['dns', 'ad block']
-
-## AdNauseam
- - [https://adnauseam.io](https://adnauseam.io)
- - date published: 2023-10-25T19:37:10.261889+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://agentcooper.io](https://agentcooper.io)
- - date published: 2024-01-05T21:35:54.054099+00:00
- - user: None
- - tags: []
-
-## The World's #1 Product Development Software | Aha!
- - [https://www.aha.io](https://www.aha.io)
- - date published: 2023-10-25T19:37:14.450720+00:00
- - user: None
- - tags: []
-
-## Show HN: Airdraw
- - [https://www.airdraw.io](https://www.airdraw.io)
- - date published: 2023-12-14T22:02:44+00:00
- - user: None
- - tags: []
-
-## Airframes
- - [https://app.airframes.io](https://app.airframes.io)
- - date published: 2023-10-25T19:37:15.997927+00:00
- - user: None
- - tags: []
-
-## None
- - [https://airwalker.io](https://airwalker.io)
- - date published: 2024-01-09T03:32:43.814401+00:00
- - user: None
- - tags: []
-
-## Simple Automation
- - [https://blog.ajour.io](https://blog.ajour.io)
- - date published: 2023-10-25T19:37:17.812878+00:00
- - user: None
- - tags: []
-
-## Deploy to Kubernetes safely and at scale with Argo CD as a managed service | Akuity
- - [https://akuity.io](https://akuity.io)
- - date published: 2023-10-25T19:37:25.269732+00:00
- - user: None
- - tags: []
-
-## Alex Ellis' Blog
- - [https://blog.alexellis.io](https://blog.alexellis.io)
- - date published: 2023-10-25T08:59:05.007883+00:00
- - user: None
- - tags: ['personal']
-
-## Algora
- - [https://console.algora.io](https://console.algora.io)
- - date published: 2023-10-25T19:37:26.590641+00:00
- - user: None
- - tags: []
-
-## AltStore
- - [https://altstore.io](https://altstore.io)
- - date published: 2023-10-25T19:37:28.350698+00:00
- - user: None
- - tags: []
-
-## Ameliorated.io
- - [https://ameliorated.io](https://ameliorated.io)
- - date published: 2023-10-25T19:37:30.300979+00:00
- - user: None
- - tags: []
-
-## American Express Technology
- - [https://americanexpress.io](https://americanexpress.io)
- - date published: 2023-10-25T19:37:33.148951+00:00
- - user: None
- - tags: []
-
-## American Express Technology
- - [http://americanexpress.io](http://americanexpress.io)
- - date published: 2024-02-25T14:44:25.925967+00:00
- - user: None
- - tags: []
-
-## Andri Soone - /
- - [https://andri.io](https://andri.io)
- - date published: 2024-01-06T17:58:16.630466+00:00
- - user: None
- - tags: []
-
-## Andy Grove's Blog
- - [https://andygrove.io](https://andygrove.io)
- - date published: 2023-12-12T22:18:02.902753+00:00
- - user: None
- - tags: []
-
-## Angular
- - [https://angular.io](https://angular.io)
- - date published: 2023-10-27T12:21:52.948727+00:00
- - user: None
- - tags: ['angular']
-
-## Angular Blog
- - [https://blog.angular.io](https://blog.angular.io)
- - date published: 2023-10-25T19:37:37.334016+00:00
- - user: None
- - tags: []
-
-## The Everything App
- - [https://anytype.io](https://anytype.io)
- - date published: 2023-10-25T19:37:39.588844+00:00
- - user: None
- - tags: []
-
-## Visit Aon.com
- - [https://aon.io](https://aon.io)
- - date published: 2024-02-26T10:13:33.647684+00:00
- - user: None
- - tags: []
-
-## Apiary Help
- - [https://help.apiary.io](https://help.apiary.io)
- - date published: 2024-02-08T16:36:15.850849+00:00
- - user: None
- - tags: []
-
-## API Handyman
- - [https://apihandyman.io](https://apihandyman.io)
- - date published: 2023-10-25T19:37:41.287684+00:00
- - user: None
- - tags: []
-
-## Rebrandly
- - [https://apos.io](https://apos.io)
- - date published: 2024-03-23T01:22:40.327310+00:00
- - user: None
- - tags: ['link service']
-
-## Ultra simple back end for static websites
- - [https://appbackend.io](https://appbackend.io)
- - date published: 2023-11-02T23:57:04+00:00
- - user: None
- - tags: ['static website']
-
-## The AppCensus Blog
- - [https://blog.appcensus.io](https://blog.appcensus.io)
- - date published: 2023-10-25T19:37:44.083298+00:00
- - user: None
- - tags: []
-
-## https://cdn.appconsent.io
- - [https://cdn.appconsent.io](https://cdn.appconsent.io)
- - date published: 2023-12-18T17:18:59.935352+00:00
- - user: None
- - tags: []
-
-## Applied Computing Research Labs | drmorr | Substack
- - [https://blog.appliedcomputing.io](https://blog.appliedcomputing.io)
- - date published: 2024-02-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Apricitas Economics | Joseph Politano | Substack
- - [https://www.apricitas.io](https://www.apricitas.io)
- - date published: 2023-10-25T19:37:47.487142+00:00
- - user: None
- - tags: []
-
-## ArchiveBox
- - [https://archivebox.io](https://archivebox.io)
- - date published: 2024-01-13T21:35:55.884727+00:00
- - user: None
- - tags: []
-
-## Open-source data curation platform for LLMs
- - [https://argilla.io](https://argilla.io)
- - date published: 2023-10-25T19:37:49.975085+00:00
- - user: None
- - tags: []
-
-## aristot
- - [https://aristot.io](https://aristot.io)
- - date published: 2023-12-29T19:00:36.685755+00:00
- - user: None
- - tags: ['personal']
-
-## A.R.P. Syndicate
- - [https://blog.arpsyndicate.io](https://blog.arpsyndicate.io)
- - date published: 2024-01-12T03:16:21.030697+00:00
- - user: None
- - tags: []
-
-## Fatih Arslan
- - [https://arslan.io](https://arslan.io)
- - date published: 2023-10-25T19:37:51.402475+00:00
- - user: None
- - tags: []
-
-## Ash Smith - Senior Software Engineer. Bath, UK
- - [https://www.ashsmith.io](https://www.ashsmith.io)
- - date published: 2023-12-23T02:59:52.670775+00:00
- - user: None
- - tags: ['personal']
-
-## Academy Software Foundation - ASWF
- - [https://www.aswf.io](https://www.aswf.io)
- - date published: 2023-10-25T19:37:54.400426+00:00
- - user: None
- - tags: []
-
-## Atopile – build electronic circuit boards from code
- - [https://atopile.io](https://atopile.io)
- - date published: 2024-03-15T22:26:25+00:00
- - user: None
- - tags: []
-
-## The Autodidacts
- - [https://www.autodidacts.io](https://www.autodidacts.io)
- - date published: 2023-10-25T09:21:59.454981+00:00
- - user: None
- - tags: ['personal']
-
-## Automatisch - Open Source Zapier Alternative
- - [https://automatisch.io](https://automatisch.io)
- - date published: 2023-10-25T19:38:01.066958+00:00
- - user: None
- - tags: []
-
-## Auxilia
- - [https://auxilia.io](https://auxilia.io)
- - date published: 2024-01-05T10:29:22.728060+00:00
- - user: None
- - tags: []
-
-## Avast Threat Labs
- - [https://decoded.avast.io](https://decoded.avast.io)
- - date published: 2024-03-01T22:41:14.631822+00:00
- - user: None
- - tags: []
-
-## AWAIS.IO
- - [https://blog.awais.io](https://blog.awais.io)
- - date published: 2024-01-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Axel’s Blog | Technical blog discussing reverse engineering, detections engineering, exploit development, capability development, and other cybersecurity topics.
- - [https://axelp.io](https://axelp.io)
- - date published: 2023-10-25T19:38:02.657295+00:00
- - user: None
- - tags: []
-
-## Ayo Ayco | Software Engineer, Web Developer, Consultant
- - [https://ayco.io](https://ayco.io)
- - date published: 2023-12-25T04:56:50.840416+00:00
- - user: None
- - tags: ['personal']
-
-## Babel · Babel
- - [https://babeljs.io](https://babeljs.io)
- - date published: 2023-10-25T19:38:04.462286+00:00
- - user: None
- - tags: []
-
-## Bacardi55's cave
- - [https://bacardi55.io](https://bacardi55.io)
- - date published: 2024-03-01T03:29:10.908546+00:00
- - user: None
- - tags: ['personal']
-
-## Bank List - Find the Best Bank for Your Needs
- - [https://banklist.io](https://banklist.io)
- - date published: 2023-10-25T19:38:08.774494+00:00
- - user: None
- - tags: []
-
-## https://assets.bbhub.io
- - [https://assets.bbhub.io](https://assets.bbhub.io)
- - date published: 2024-01-09T03:32:44.228408+00:00
- - user: None
- - tags: []
-
-## The SQL Editor and Database Manager Of Your Dreams | Beekeeper Studio
- - [https://www.beekeeperstudio.io](https://www.beekeeperstudio.io)
- - date published: 2023-10-25T19:38:16.881595+00:00
- - user: None
- - tags: []
-
-## Ricard Bejarano – Site Reliability Engineer
- - [https://www.bejarano.io](https://www.bejarano.io)
- - date published: 2023-10-25T08:49:12.684001+00:00
- - user: None
- - tags: ['personal']
-
-## Bemi | Database change tracking enabled in under a minute
- - [https://bemi.io](https://bemi.io)
- - date published: 2024-01-11T21:51:38.369259+00:00
- - user: None
- - tags: []
-
-## Ben Myers | Home
- - [https://benmyers.io](https://benmyers.io)
- - date published: 2023-11-29T17:10:03.166882+00:00
- - user: None
- - tags: ['personal']
-
-## Andrew Benton's Blog
- - [https://blog.benton.io](https://blog.benton.io)
- - date published: 2023-10-25T19:38:20.516581+00:00
- - user: None
- - tags: []
-
-## Beren's Blog
- - [https://www.beren.io](https://www.beren.io)
- - date published: 2023-10-25T08:49:13.643486+00:00
- - user: None
- - tags: ['personal']
-
-## Alexis Bernard
- - [https://alexis.bernard.io](https://alexis.bernard.io)
- - date published: 2023-10-25T19:38:27.013256+00:00
- - user: None
- - tags: []
-
-## https://bernert.io
- - [https://bernert.io](https://bernert.io)
- - date published: 2023-12-16T07:27:54.422121+00:00
- - user: None
- - tags: ['personal']
-
-## Manuel Bernhardt
- - [https://manuel.bernhardt.io](https://manuel.bernhardt.io)
- - date published: 2024-01-21T04:58:17.765490+00:00
- - user: None
- - tags: []
-
-## Hacker News Summary - by ChatGPT
- - [https://hackernews.betacat.io](https://hackernews.betacat.io)
- - date published: 2023-10-25T19:38:30.979928+00:00
  - user: None
  - tags: []
 

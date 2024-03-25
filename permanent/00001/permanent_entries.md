@@ -1,3 +1,15 @@
+## Colin Woodbury - About
+ - [https://www.fosskers.ca](https://www.fosskers.ca)
+ - date published: 2024-01-29T23:02:20.819692+00:00
+ - user: None
+ - tags: []
+
+## froghat.ca
+ - [https://froghat.ca](https://froghat.ca)
+ - date published: 2023-10-25T09:02:17.770370+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Tim Gadanidis - Home
  - [https://gadanidis.ca](https://gadanidis.ca)
  - date published: 2023-10-25T08:42:54.581662+00:00
@@ -507,6 +519,12 @@
  - date published: 2023-10-25T09:25:28.864660+00:00
  - user: None
  - tags: ['personal']
+
+## Snook.ca: Life & Times of a Web Developer.
+ - [http://snook.ca](http://snook.ca)
+ - date published: 2024-03-04T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Emanote
  - [https://emanote.srid.ca](https://emanote.srid.ca)
@@ -1614,6 +1632,12 @@
  - user: None
  - tags: []
 
+## Nicolas Seriot
+ - [https://seriot.ch](https://seriot.ch)
+ - date published: 2024-03-24T13:32:42.663592+00:00
+ - user: None
+ - tags: []
+
 ## Srijan Choudhary's personal website
  - [https://srijan.ch](https://srijan.ch)
  - date published: 2023-11-18T23:28:44.408301+00:00
@@ -2057,6 +2081,12 @@
  - date published: 2023-10-25T12:16:16.183663+00:00
  - user: None
  - tags: []
+
+## The Web Scraping Club
+ - [https://thewebscraping.club](https://thewebscraping.club)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['web scraping', 'tech news']
 
 ## Welcome to ~tilde.club~
  - [https://tilde.club](https://tilde.club)
@@ -4516,7 +4546,7 @@
  - [https://aboutideasnow.com](https://aboutideasnow.com)
  - date published: 2024-02-26T14:39:40+00:00
  - user: None
- - tags: []
+ - tags: ['personal sites source']
 
 ## Home - Robinhood Newsroom
  - [https://newsroom.aboutrobinhood.com](https://newsroom.aboutrobinhood.com)
@@ -4932,7 +4962,7 @@
  - [https://addyosmani.com](https://addyosmani.com)
  - date published: 2023-10-25T12:32:27.930354+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Hi there! | Miko Ademagic
  - [https://miko.ademagic.com](https://miko.ademagic.com)
@@ -5030,6 +5060,12 @@
  - user: None
  - tags: []
 
+## None
+ - [http://kuler.adobe.com](http://kuler.adobe.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Adobe Landing Pages
  - [https://pages.adobe.com](https://pages.adobe.com)
  - date published: 2023-10-25T12:33:18.873394+00:00
@@ -5057,6 +5093,12 @@
 ## https://assets.adobedtm.com
  - [https://assets.adobedtm.com](https://assets.adobedtm.com)
  - date published: 2023-12-12T08:41:15.675193+00:00
+ - user: None
+ - tags: []
+
+## Projects - Adrian Courrèges
+ - [http://www.adriancourreges.com](http://www.adriancourreges.com)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5828,6 +5870,12 @@
  - user: None
  - tags: ['personal']
 
+## Alan Zucconi
+ - [http://www.alanzucconi.com](http://www.alanzucconi.com)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Welcome
  - [https://www.alasdairb.com](https://www.alasdairb.com)
  - date published: 2023-10-25T12:37:20.783455+00:00
@@ -5922,7 +5970,7 @@
  - [https://alexanderobenauer.com](https://alexanderobenauer.com)
  - date published: 2023-10-25T12:37:47.022909+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Alexander Sandberg · Product-minded iOS/macOS Engineer
  - [https://alexandersandberg.com](https://alexandersandberg.com)
@@ -5953,52 +6001,4 @@
  - date published: 2023-10-25T09:04:23.166247+00:00
  - user: None
  - tags: ['personal']
-
-## Alex Carabi - Personal Development Coach
- - [https://www.alexcarabi.com](https://www.alexcarabi.com)
- - date published: 2024-01-15T13:58:58.240492+00:00
- - user: None
- - tags: []
-
-## Alex Chirițescu - alexchiri.com
- - [https://alexchiri.com](https://alexchiri.com)
- - date published: 2023-12-23T07:30:41.431360+00:00
- - user: None
- - tags: ['personal']
-
-## Alex Crompton
- - [https://www.alexcrompton.com](https://www.alexcrompton.com)
- - date published: 2023-10-25T12:37:53.635291+00:00
- - user: None
- - tags: []
-
-## Alex DeCapri – Human Being
- - [https://alexdecapri.com](https://alexdecapri.com)
- - date published: 2024-01-17T04:44:04.090106+00:00
- - user: None
- - tags: []
-
-## Alex Ewerlöf Notes | Substack
- - [https://blog.alexewerlof.com](https://blog.alexewerlof.com)
- - date published: 2023-10-25T12:37:57.734921+00:00
- - user: None
- - tags: []
-
-## Alexey needs a Web Presence
- - [https://alexeymk.com](https://alexeymk.com)
- - date published: 2023-10-25T12:38:00.320646+00:00
- - user: None
- - tags: []
-
-## Alexandru Golovatenco
- - [https://alexglv.com](https://alexglv.com)
- - date published: 2023-12-03T09:19:15.087581+00:00
- - user: None
- - tags: ['personal']
-
-## Personal website | Alex Harri Jónsson
- - [https://alexharri.com](https://alexharri.com)
- - date published: 2023-10-25T12:38:01.183324+00:00
- - user: None
- - tags: []
 
