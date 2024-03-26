@@ -1,3 +1,111 @@
+## Revolut | All-in-one Finance App for your Money | Revolut
+ - [https://www.revolut.com](https://www.revolut.com)
+ - date published: 2023-10-25T14:49:03.844755+00:00
+ - user: None
+ - tags: ['banking']
+
+## https://blog.revolutionanalytics.com
+ - [https://blog.revolutionanalytics.com](https://blog.revolutionanalytics.com)
+ - date published: 2023-10-25T16:50:58.906287+00:00
+ - user: None
+ - tags: []
+
+## Hack Music Theory
+ - [https://revolutionharmony.com](https://revolutionharmony.com)
+ - date published: 2023-11-29T14:43:42.648215+00:00
+ - user: None
+ - tags: ['personal']
+
+## Présentation de la revue
+ - [https://tsi.revuesonline.com](https://tsi.revuesonline.com)
+ - date published: 2024-02-08T18:21:04.027898+00:00
+ - user: None
+ - tags: []
+
+## DJ Rewerb | Dein virtueller DJ Mentor mit Tipps zum DJing
+ - [https://rewerb.com](https://rewerb.com)
+ - date published: 2023-11-29T15:50:57.132805+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://rexresearch.com
+ - [https://rexresearch.com](https://rexresearch.com)
+ - date published: 2024-01-09T02:47:54.239076+00:00
+ - user: None
+ - tags: []
+
+## Hidden Grove | Ryan Fleury | Substack
+ - [https://www.rfleury.com](https://www.rfleury.com)
+ - date published: 2024-03-13T02:48:12.650067+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.rgj.com](https://www.rgj.com)
+ - date published: 2023-11-21T18:14:02.751824+00:00
+ - user: None
+ - tags: []
+
+## Bug's Entrypoint
+ - [https://blog.rgsilva.com](https://blog.rgsilva.com)
+ - date published: 2023-12-02T15:51:16.421337+00:00
+ - user: None
+ - tags: []
+
+## Der integrierte internationale Technologiekonzern  | Rheinmetall
+ - [https://www.rheinmetall.com](https://www.rheinmetall.com)
+ - date published: 2023-10-25T16:51:08.413247+00:00
+ - user: None
+ - tags: []
+
+## Enterprise NoSQL Database | Scalable Database Solutions | Riak
+ - [https://riak.com](https://riak.com)
+ - date published: 2023-10-25T16:51:09.866070+00:00
+ - user: None
+ - tags: []
+
+## Ribbonfarm Studio | Venkatesh Rao | Substack
+ - [https://studio.ribbonfarm.com](https://studio.ribbonfarm.com)
+ - date published: 2023-10-25T16:51:12.705518+00:00
+ - user: None
+ - tags: []
+
+## ribbonfarm
+ - [https://www.ribbonfarm.com](https://www.ribbonfarm.com)
+ - date published: 2023-10-25T16:51:14.885911+00:00
+ - user: None
+ - tags: []
+
+## Ribbon Health partners with innovators across the healthcare ecosystem
+ - [https://www.ribbonhealth.com](https://www.ribbonhealth.com)
+ - date published: 2023-10-25T16:51:16.455485+00:00
+ - user: None
+ - tags: []
+
+## rand[om] - med ∩ ml
+ - [https://ricardoanderegg.com](https://ricardoanderegg.com)
+ - date published: 2023-10-25T16:51:16.979088+00:00
+ - user: None
+ - tags: []
+
+## Bézier Curves - and the logic behind them | Richard Ekwonye
+ - [https://blog.richardekwonye.com](https://blog.richardekwonye.com)
+ - date published: 2023-10-25T16:51:18.543659+00:00
+ - user: None
+ - tags: []
+
+## Homepage | RichardHerring.com
+ - [https://www.richardherring.com](https://www.richardherring.com)
+ - date published: 2024-02-13T17:35:46.763245+00:00
+ - user: None
+ - tags: ['personal']
+
+## HelpFully IT - IT Support Consultancy
+ - [https://richardhickson.com](https://richardhickson.com)
+ - date published: 2024-01-11T07:52:49.571068+00:00
+ - user: None
+ - tags: []
+
 ## Richard Lucas
  - [https://www.richardlucas.com](https://www.richardlucas.com)
  - date published: 2024-01-02T10:19:40.499602+00:00
@@ -1835,14 +1943,14 @@
  - tags: []
 
 ## Samsung Members Community
- - [https://r2.community.samsung.com](https://r2.community.samsung.com)
- - date published: 2024-01-20T05:57:49.133663+00:00
+ - [http://r2.community.samsung.com](http://r2.community.samsung.com)
+ - date published: 2024-02-26T14:44:02.734270+00:00
  - user: None
  - tags: []
 
 ## Samsung Members Community
- - [http://r2.community.samsung.com](http://r2.community.samsung.com)
- - date published: 2024-02-26T14:44:02.734270+00:00
+ - [https://r2.community.samsung.com](https://r2.community.samsung.com)
+ - date published: 2024-01-20T05:57:49.133663+00:00
  - user: None
  - tags: []
 
@@ -2009,16 +2117,16 @@
  - tags: []
 
 ## - SarahMcCulloch.com | With Strength and Spirit
- - [http://www.sarahmcculloch.com](http://www.sarahmcculloch.com)
- - date published: 2023-12-24T08:15:55.915305+00:00
- - user: None
- - tags: ['personal']
-
-## - SarahMcCulloch.com | With Strength and Spirit
  - [https://www.sarahmcculloch.com](https://www.sarahmcculloch.com)
  - date published: 2024-02-25T18:59:28.441249+00:00
  - user: None
  - tags: []
+
+## - SarahMcCulloch.com | With Strength and Spirit
+ - [http://www.sarahmcculloch.com](http://www.sarahmcculloch.com)
+ - date published: 2023-12-24T08:15:55.915305+00:00
+ - user: None
+ - tags: ['personal']
 
 ## sara kingsley – YA :: FANTASY :: ROMANCE
  - [https://www.sarakingsley.com](https://www.sarakingsley.com)
@@ -3394,6 +3502,12 @@
  - user: None
  - tags: []
 
+## San Gabriel Valley Tribune
+ - [https://www.sgvtribune.com](https://www.sgvtribune.com)
+ - date published: 2024-03-25T19:01:05.980540+00:00
+ - user: None
+ - tags: []
+
 ## Shacknews | Video Game Video Reviews, Celebrity Interviews, Strategy Videos, Original Content and More
  - [https://www.shacknews.com](https://www.shacknews.com)
  - date published: 2023-10-25T10:50:12.343927+00:00
@@ -4649,15 +4763,15 @@
  - user: None
  - tags: []
 
-## Smashing Magazine ‚Äî For Web Designers And Developers
- - [http://www.smashingmagazine.com](http://www.smashingmagazine.com)
- - date published: 2024-03-22T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Smashing Magazine — For Web Designers And Developers
  - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
  - date published: 2023-10-25T17:07:11.338092+00:00
+ - user: None
+ - tags: []
+
+## Smashing Magazine ‚Äî For Web Designers And Developers
+ - [http://www.smashingmagazine.com](http://www.smashingmagazine.com)
+ - date published: 2024-03-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4770,16 +4884,16 @@
  - tags: ['assets audio']
 
 ## Snarling Badger Studios
- - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
- - date published: 2023-11-10T10:42:34.914133+00:00
- - user: None
- - tags: ['magazine', 'tabletop games', 'warhammer', 'wargames', 'zine']
-
-## Snarling Badger Studios
  - [http://www.snarlingbadger.com](http://www.snarlingbadger.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Snarling Badger Studios
+ - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
+ - date published: 2023-11-10T10:42:34.914133+00:00
+ - user: None
+ - tags: ['magazine', 'tabletop games', 'warhammer', 'wargames', 'zine']
 
 ## Serge Nevsky
  - [https://snevsky.com](https://snevsky.com)
@@ -5731,6 +5845,12 @@
  - user: None
  - tags: []
 
+## International Journal of Educational Technology in Higher Education
+ - [https://educationaltechnologyjournal.springeropen.com](https://educationaltechnologyjournal.springeropen.com)
+ - date published: 2024-03-25T11:10:44.882870+00:00
+ - user: None
+ - tags: []
+
 ## None
  - [https://sprcdn-assets.sprinklr.com](https://sprcdn-assets.sprinklr.com)
  - date published: 1999-01-01T00:00:00+00:00
@@ -5884,126 +6004,6 @@
 ## Home Page - SSC - Swedish Space Corporation
  - [https://sscspace.com](https://sscspace.com)
  - date published: 2023-10-25T17:11:50.984142+00:00
- - user: None
- - tags: []
-
-## SsethTzeentach&#39;s &#40;shitty website&#41;
- - [https://www.ssethtzeentach.com](https://www.ssethtzeentach.com)
- - date published: 2023-12-06T15:38:16+00:00
- - user: rumpel
- - tags: ['youtuber', 'comedy', 'satire']
-
-## Stephen Musoke Senkomago
- - [https://ssmusoke.com](https://ssmusoke.com)
- - date published: 2024-01-12T10:31:55.480592+00:00
- - user: None
- - tags: []
-
-## Search eLibrary :: SSRN
- - [https://papers.ssrn.com](https://papers.ssrn.com)
- - date published: 2023-10-25T17:11:54.538915+00:00
- - user: None
- - tags: []
-
-## STMicroelectronics: Our technology starts with you
- - [https://www.st.com](https://www.st.com)
- - date published: 2023-10-25T17:11:58.173044+00:00
- - user: None
- - tags: []
-
-## Stable Attribution
- - [https://www.stableattribution.com](https://www.stableattribution.com)
- - date published: 2023-10-25T17:12:02.415931+00:00
- - user: None
- - tags: []
-
-## Stable Diffusion Art - Tutorials, prompts and resources
- - [https://stable-diffusion-art.com](https://stable-diffusion-art.com)
- - date published: 2023-10-25T17:12:02.050014+00:00
- - user: None
- - tags: []
-
-## Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.
- - [http://www.stablediffusionfrivolous.com](http://www.stablediffusionfrivolous.com)
- - date published: 2023-10-25T17:12:04.189851+00:00
- - user: None
- - tags: []
-
-## Stable Diffusion litigation · Joseph Saveri Law Firm & Matthew Butterick
- - [https://stablediffusionlitigation.com](https://stablediffusionlitigation.com)
- - date published: 2023-10-25T17:12:06.170800+00:00
- - user: None
- - tags: []
-
-## Stable Diffusion Online - AI Image Generator
- - [https://stablediffusionweb.com](https://stablediffusionweb.com)
- - date published: 2023-11-01T08:43:08.674852+00:00
- - user: None
- - tags: []
-
-## Stabroek News - Guyana's Most Trusted Newspaper
- - [https://www.stabroeknews.com](https://www.stabroeknews.com)
- - date published: 2023-12-06T23:19:54.542248+00:00
- - user: None
- - tags: []
-
-## Stacey on IoT | Internet of Things news and analysis - Internet of Things
- - [https://staceyoniot.com](https://staceyoniot.com)
- - date published: 2023-10-25T17:12:08.633977+00:00
- - user: None
- - tags: []
-
-## Stack Builders - Software Consultancy company
- - [https://www.stackbuilders.com](https://www.stackbuilders.com)
- - date published: 2023-12-27T22:37:04.603102+00:00
- - user: None
- - tags: []
-
-## Stack Diary - For Developers, Designers and Makers.
- - [https://stackdiary.com](https://stackdiary.com)
- - date published: 2023-10-25T09:35:47.301307+00:00
- - user: None
- - tags: []
-
-## Stacker | Turn your team's data into business apps
- - [https://www.stackerhq.com](https://www.stackerhq.com)
- - date published: 2023-10-25T17:12:16.159510+00:00
- - user: None
- - tags: []
-
-## Academia Stack Exchange
- - [https://academia.stackexchange.com](https://academia.stackexchange.com)
- - date published: 2023-10-25T17:12:23.792259+00:00
- - user: None
- - tags: []
-
-## Ask Different
- - [https://apple.stackexchange.com](https://apple.stackexchange.com)
- - date published: 2023-12-21T17:42:00.104054+00:00
- - user: None
- - tags: []
-
-## Astronomy Stack Exchange
- - [https://astronomy.stackexchange.com](https://astronomy.stackexchange.com)
- - date published: 2023-10-25T17:12:31.667957+00:00
- - user: None
- - tags: []
-
-## Aviation Stack Exchange
- - [https://aviation.stackexchange.com](https://aviation.stackexchange.com)
- - date published: 2023-10-25T17:12:34.520438+00:00
- - user: None
- - tags: []
-
-## Bioinformatics Stack Exchange
- - [https://bioinformatics.stackexchange.com](https://bioinformatics.stackexchange.com)
- - date published: 2023-10-25T17:12:37.237051+00:00
- - user: None
- - tags: []
-
-## Biology Stack Exchange
- - [https://biology.stackexchange.com](https://biology.stackexchange.com)
- - date published: 2024-01-10T09:05:16.771549+00:00
  - user: None
  - tags: []
 

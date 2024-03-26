@@ -2866,6 +2866,12 @@
  - user: None
  - tags: []
 
+## Maps that show time instead of space
+ - [https://spacetime-maps.vercel.app](https://spacetime-maps.vercel.app)
+ - date published: 2024-03-24T16:32:33+00:00
+ - user: None
+ - tags: []
+
 ## Spirals
  - [https://spirals.vercel.app](https://spirals.vercel.app)
  - date published: 2023-10-25T11:50:52.349082+00:00
@@ -5992,10 +5998,4 @@
  - date published: 2023-10-25T12:04:53.238516+00:00
  - user: None
  - tags: []
-
-## Finbarr Timbers
- - [https://finbarr.ca](https://finbarr.ca)
- - date published: 2023-10-25T08:42:53.636850+00:00
- - user: None
- - tags: ['personal']
 

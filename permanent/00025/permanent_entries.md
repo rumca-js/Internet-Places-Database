@@ -1,3 +1,267 @@
+## Warszawy historia ukryta
+ - [https://whu.org.pl](https://whu.org.pl)
+ - date published: 2023-12-05T15:22:49+00:00
+ - user: None
+ - tags: ['history', 'warsow']
+
+## Fundacja WOŚP  - wosp.org.pl
+ - [https://www.wosp.org.pl](https://www.wosp.org.pl)
+ - date published: 2023-11-27T12:26:19+00:00
+ - user: rumpel
+ - tags: ['organization', 'concert', 'wielka orkiestra świątecznej pomocy', 'music']
+
+## Stare gry - Świat klasyki gier komputerowych.
+ - [https://16bit.pl](https://16bit.pl)
+ - date published: 2023-10-25T16:37:07.710478+00:00
+ - user: None
+ - tags: ['roms', 'abandonware', 'emulation', 'video games', 'amiga', 'games', 'atari']
+
+## Jelenia Góra, Portal informacyjny powiatu i miasta  - 24jgora.pl
+ - [https://24jgora.pl](https://24jgora.pl)
+ - date published: 2023-10-25T22:25:26.816865+00:00
+ - user: None
+ - tags: []
+
+## 300Gospodarka.pl - gospodarka, nowe technologie, klimat, samorządy
+ - [https://300gospodarka.pl](https://300gospodarka.pl)
+ - date published: 2023-10-25T22:25:30.356095+00:00
+ - user: None
+ - tags: []
+
+## 3D-INFO.PL - Portal ludzi z pasją. Mobile, gry, komputery, Telewizory i Hi-Fi
+ - [https://3d-info.pl](https://3d-info.pl)
+ - date published: 2023-11-02T19:02:18.392184+00:00
+ - user: None
+ - tags: ['game news', 'tech news']
+
+## Forbot
+ - [https://4bot.pl](https://4bot.pl)
+ - date published: 2023-12-13T14:56:50.810351+00:00
+ - user: None
+ - tags: ['electronics']
+
+## Medycyna Pracy Blog - choroby Warszawa
+ - [https://a68.pl](https://a68.pl)
+ - date published: 2024-01-09T03:43:52.963330+00:00
+ - user: None
+ - tags: []
+
+## Zdrowie i zdrowy styl życia | WP abcZdrowie
+ - [https://portal.abczdrowie.pl](https://portal.abczdrowie.pl)
+ - date published: 2023-10-25T22:25:39.094951+00:00
+ - user: None
+ - tags: []
+
+## Agriline Polska - sprzęt rolniczy i leśny, osprzęt i części zamienne na sprzedaż
+ - [https://agriline.pl](https://agriline.pl)
+ - date published: 2024-02-24T00:02:56.333339+00:00
+ - user: None
+ - tags: []
+
+## Portal rolniczy - magazyn Agro Profil - najnowsze informacje
+ - [https://agroprofil.pl](https://agroprofil.pl)
+ - date published: 2020-08-12T12:43:46+00:00
+ - user: None
+ - tags: []
+
+## Risky AI Game
+ - [http://game.aidevs.pl](http://game.aidevs.pl)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Psychiatryk AI - rozwiąż zagadkę
+ - [http://psychiatryk.aidevs.pl](http://psychiatryk.aidevs.pl)
+ - date published: 2024-01-21T19:07:34.867410+00:00
+ - user: None
+ - tags: []
+
+## AI_Devs – Programowanie i Automatyzacja w parze z AI
+ - [https://www.aidevs.pl](https://www.aidevs.pl)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: rumpel
+ - tags: ['training']
+
+## Sztuczna Inteligencja dla Polski
+ - [https://aidla.pl](https://aidla.pl)
+ - date published: 2024-02-05T08:26:54+00:00
+ - user: rumpel
+ - tags: []
+
+## Airbnb | Pobyty wakacyjne, chatki, domy w pobliżu plaży i inne oferty
+ - [https://www.airbnb.pl](https://www.airbnb.pl)
+ - date published: 2024-04-07T00:00:00+00:00
+ - user: rumpel
+ - tags: ['hotels', 'room renting', 'travel']
+
+## allegro.pl
+ - [https://allegro.pl](https://allegro.pl)
+ - date published: 2023-10-24T20:20:03.496697+00:00
+ - user: None
+ - tags: ['digital marketplace']
+
+## Amazon.pl: zakupy internetowe elektroniki, odzieży, komputerów, książek, płyt DVD i innych
+ - [https://www.amazon.pl](https://www.amazon.pl)
+ - date published: 2024-01-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Amica - AGD: Piekarniki, kuchnie wolnostojące, płyty, okapy
+ - [https://www.amica.pl](https://www.amica.pl)
+ - date published: 2023-11-01T07:06:57.139074+00:00
+ - user: None
+ - tags: []
+
+## Forum AmigaOne Zone • Strona główna forum
+ - [https://forum.amigaone.pl](https://forum.amigaone.pl)
+ - date published: 2023-12-11T19:08:38.326160+00:00
+ - user: None
+ - tags: []
+
+## AmigaONE Zone | Polska strona komputera AmigaOne
+ - [https://www.amigaone.pl](https://www.amigaone.pl)
+ - date published: 2023-11-02T10:37:41.725545+00:00
+ - user: None
+ - tags: []
+
+## Patroni Amigowości
+ - [https://patronat.amigowiec.pl](https://patronat.amigowiec.pl)
+ - date published: 2024-01-09T03:43:56.442097+00:00
+ - user: None
+ - tags: []
+
+## Amigowiec.pl Amiga rulez!
+ - [https://www.amigowiec.pl](https://www.amigowiec.pl)
+ - date published: 2023-10-30T10:11:46.861015+00:00
+ - user: None
+ - tags: []
+
+## Androidowy - blog dla ludzi. Smartfony, tablety, smartwatch.
+ - [https://www.androidowy.pl](https://www.androidowy.pl)
+ - date published: 2023-10-25T22:25:42.357332+00:00
+ - user: None
+ - tags: []
+
+## Andrzej Rysuje | Rysunki Satyryczne – Rysunki satyryczne Andrzeja Milewskiego
+ - [https://andrzejrysuje.pl](https://andrzejrysuje.pl)
+ - date published: 2024-02-03T21:46:09+00:00
+ - user: rumpel
+ - tags: ['comedy', 'satire', 'cartoons']
+
+## Andrzej Sapkowski
+ - [http://www.andrzejsapkowski.pl](http://www.andrzejsapkowski.pl)
+ - date published: 2023-11-13T12:57:23.505832+00:00
+ - user: None
+ - tags: ['witcher', 'book author']
+
+## Najlepsza muzyka rockowa, newsy, koncerty, recenzje
+ - [https://www.antyradio.pl](https://www.antyradio.pl)
+ - date published: 2023-11-02T19:28:07.593267+00:00
+ - user: None
+ - tags: ['music', 'radio station']
+
+## Antyweb - blog technologiczny
+ - [https://antyweb.pl](https://antyweb.pl)
+ - date published: 2023-10-25T09:37:36.960984+00:00
+ - user: None
+ - tags: []
+
+## Arka Noego | Oficjalna strona zespołu
+ - [https://www.arkanoego.pl](https://www.arkanoego.pl)
+ - date published: 2023-10-29T15:27:58.295310+00:00
+ - user: None
+ - tags: ['music band']
+
+## Kult
+ - [https://kult.art.pl](https://kult.art.pl)
+ - date published: 2023-11-13T10:29:17.821704+00:00
+ - user: None
+ - tags: ['music band']
+
+## Aktualności - LAO CHE - Oficjalna strona zespołu
+ - [https://laoche.art.pl](https://laoche.art.pl)
+ - date published: 2024-01-09T03:43:57.133820+00:00
+ - user: None
+ - tags: []
+
+## Happysad - official website
+ - [https://www.happysad.art.pl](https://www.happysad.art.pl)
+ - date published: 2023-11-13T10:28:59.677916+00:00
+ - user: None
+ - tags: ['music band']
+
+## Museum of Modern Art in Warsaw
+ - [https://artmuseum.pl](https://artmuseum.pl)
+ - date published: 2023-10-25T22:25:43.556262+00:00
+ - user: None
+ - tags: []
+
+## Caesar's blog – Raspberry Pi, Domoticz, Smart home, Retro Gaming
+ - [http://blog.asobczak.pl](http://blog.asobczak.pl)
+ - date published: 2024-02-25T15:35:57.090493+00:00
+ - user: None
+ - tags: []
+
+## Shared IP
+ - [https://blog.asobczak.pl](https://blog.asobczak.pl)
+ - date published: 2024-01-09T03:44:03.097833+00:00
+ - user: None
+ - tags: []
+
+## ATLAS FOR MEN - UBRANIA I AKCESORIA OUTDOOR
+ - [https://atlasformen.pl](https://atlasformen.pl)
+ - date published: 2023-12-02T11:39:11+00:00
+ - user: rumpel
+ - tags: ['clothes', 'shop']
+
+## Autokult Elektromobilność - strona główna
+ - [https://e.autokult.pl](https://e.autokult.pl)
+ - date published: 2023-12-09T06:39:55.893874+00:00
+ - user: None
+ - tags: []
+
+## AutomatykaB2B - Portal branżowy dla Automatyków
+ - [https://automatykab2b.pl](https://automatykab2b.pl)
+ - date published: 2023-12-13T14:57:47.696661+00:00
+ - user: None
+ - tags: ['automatics']
+
+## Fundacja AVLab.pl dla Cyberbezpieczeństwa
+ - [https://avlab.pl](https://avlab.pl)
+ - date published: 2023-10-25T22:25:46.610794+00:00
+ - user: None
+ - tags: []
+
+## Wydawnictwo AVT - tworzymy z pasją
+ - [https://avt.pl](https://avt.pl)
+ - date published: 2023-12-13T14:58:41.817221+00:00
+ - user: None
+ - tags: []
+
+## Internetowy Sklep Elektroniczny - Sklep AVT z Elektroniką
+ - [https://sklep.avt.pl](https://sklep.avt.pl)
+ - date published: 2023-12-13T14:59:13.012287+00:00
+ - user: None
+ - tags: []
+
+## Bankier.pl – Portal Finansowy – Rynki, Twoje finanse, Biznes
+ - [https://www.bankier.pl](https://www.bankier.pl)
+ - date published: 2023-10-25T10:30:49.929229+00:00
+ - user: None
+ - tags: []
+
+## Klienci Indywidualni - Konta, pożyczki, kredyty mieszkaniowe, karty, lokaty - Bank Millennium
+ - [https://www.bankmillennium.pl](https://www.bankmillennium.pl)
+ - date published: 2023-10-25T11:29:36.503555+00:00
+ - user: None
+ - tags: []
+
+## Blog podróżniczy Bartekwpodrozy.pl / Piszę i opowiadam o podróżach
+ - [https://bartekwpodrozy.pl](https://bartekwpodrozy.pl)
+ - date published: 2024-03-19T18:27:36+00:00
+ - user: rumpel
+ - tags: ['personal', 'travel', 'blog']
+
 ## benchmark.pl | recenzje, testy, newsy, rankingi
  - [https://www.benchmark.pl](https://www.benchmark.pl)
  - date published: 2023-10-25T09:37:41.453957+00:00
@@ -515,14 +779,14 @@
  - tags: []
 
 ## None
- - [http://rss.forsal.pl](http://rss.forsal.pl)
- - date published: 2024-02-25T20:20:10.985054+00:00
+ - [https://rss.forsal.pl](https://rss.forsal.pl)
+ - date published: 2024-01-09T03:44:12.545694+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://rss.forsal.pl](https://rss.forsal.pl)
- - date published: 2024-01-09T03:44:12.545694+00:00
+ - [http://rss.forsal.pl](http://rss.forsal.pl)
+ - date published: 2024-02-25T20:20:10.985054+00:00
  - user: None
  - tags: []
 
@@ -543,6 +807,12 @@
  - date published: 2023-12-06T08:54:14.512570+00:00
  - user: None
  - tags: ['personal', 'hardware']
+
+## Rozdział 1 Wstęp | Teoria Współczesnych Systemów Monetarnych
+ - [https://mmt.fundacjalipinskiego.pl](https://mmt.fundacjalipinskiego.pl)
+ - date published: 2023-05-24T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## FUTUREBEAT.pl
  - [https://futurebeat.pl](https://futurebeat.pl)
@@ -1745,14 +2015,14 @@
  - tags: []
 
 ## SCENA.ppa.pl
- - [http://scena.ppa.pl](http://scena.ppa.pl)
- - date published: 2024-02-26T12:48:30.023284+00:00
+ - [https://scena.ppa.pl](https://scena.ppa.pl)
+ - date published: 2023-12-11T17:37:50.808401+00:00
  - user: None
  - tags: []
 
 ## SCENA.ppa.pl
- - [https://scena.ppa.pl](https://scena.ppa.pl)
- - date published: 2023-12-11T17:37:50.808401+00:00
+ - [http://scena.ppa.pl](http://scena.ppa.pl)
+ - date published: 2024-02-26T12:48:30.023284+00:00
  - user: None
  - tags: []
 
@@ -1762,17 +2032,17 @@
  - user: None
  - tags: []
 
-## Amiga - Polski Portal Amigowy: AmigaOS, MorphOS, AROS, AmigaOne, gry, programy - [ 26.02.2024 ]
- - [http://www.ppa.pl](http://www.ppa.pl)
- - date published: 2024-02-26T09:53:30.836292+00:00
- - user: None
- - tags: []
-
 ## Amiga - Polski Portal Amigowy: AmigaOS, MorphOS, AROS, AmigaOne, gry, programy - [ 30.10.2023 ]
  - [https://www.ppa.pl](https://www.ppa.pl)
  - date published: 2024-02-06T13:36:34.087436+00:00
  - user: None
  - tags: ['morphos', 'amiga']
+
+## Amiga - Polski Portal Amigowy: AmigaOS, MorphOS, AROS, AmigaOne, gry, programy - [ 26.02.2024 ]
+ - [http://www.ppa.pl](http://www.ppa.pl)
+ - date published: 2024-02-26T09:53:30.836292+00:00
+ - user: None
+ - tags: []
 
 ## PPE.pl
  - [https://www.ppe.pl](https://www.ppe.pl)
@@ -2278,15 +2548,15 @@
  - user: None
  - tags: []
 
-## NetDrive: another storage option for retro computing
- - [http://www.swiat-owocow.pl](http://www.swiat-owocow.pl)
- - date published: 2024-02-26T15:15:10.395247+00:00
- - user: None
- - tags: []
-
 ## Designing a system resistant to data disclosure
  - [https://www.swiat-owocow.pl](https://www.swiat-owocow.pl)
  - date published: 2023-12-13T15:11:39.344063+00:00
+ - user: None
+ - tags: []
+
+## NetDrive: another storage option for retro computing
+ - [http://www.swiat-owocow.pl](http://www.swiat-owocow.pl)
+ - date published: 2024-02-26T15:15:10.395247+00:00
  - user: None
  - tags: []
 
@@ -4954,6 +5224,12 @@ Art Product Supply
  - tags: []
 
 ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://depue.notion.site](https://depue.notion.site)
+ - date published: 2024-03-25T07:40:12.007891+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
  - [https://enchanting-trader-463.notion.site](https://enchanting-trader-463.notion.site)
  - date published: 2023-10-25T22:39:26.286235+00:00
  - user: None
@@ -5733,280 +6009,4 @@ conflicts of interest and restore Community Trust.
  - date published: 2023-12-11T19:08:23.472936+00:00
  - user: None
  - tags: []
-
-## Show HN: Sapling is a business-ready TypeScript, Express.js, React boilerplate
- - [https://sapling.bumpkin.solutions](https://sapling.bumpkin.solutions)
- - date published: 2024-02-22T03:51:40+00:00
- - user: None
- - tags: []
-
-## Lunatic: an Erlang-inspired runtime for WebAssembly
- - [https://lunatic.solutions](https://lunatic.solutions)
- - date published: 2023-10-25T22:41:46.372898+00:00
- - user: None
- - tags: []
-
-## Velociraptor Aerospace Dynamics
- - [https://vad.solutions](https://vad.solutions)
- - date published: 2023-10-25T22:41:49.222188+00:00
- - user: None
- - tags: []
-
-## 0ut3r Space
- - [https://0ut3r.space](https://0ut3r.space)
- - date published: 2023-10-25T22:41:55.742385+00:00
- - user: None
- - tags: []
-
-## Alan's Space
- - [https://18alan.space](https://18alan.space)
- - date published: 2023-10-25T09:24:43.871441+00:00
- - user: None
- - tags: ['personal']
-
-## Ariadne's Space
- - [https://ariadne.space](https://ariadne.space)
- - date published: 2023-10-25T09:24:45.081532+00:00
- - user: None
- - tags: ['personal']
-
-## SpaceBadgers
- - [https://badgers.space](https://badgers.space)
- - date published: 2023-10-25T22:41:57.198709+00:00
- - user: None
- - tags: []
-
-## Becca Ricks
- - [https://beccaricks.space](https://beccaricks.space)
- - date published: 2023-10-25T08:55:57.797271+00:00
- - user: None
- - tags: ['personal']
-
-## Ben Calderon's Web Page
- - [https://benjcal.space](https://benjcal.space)
- - date published: 2023-10-25T08:55:59.360622+00:00
- - user: None
- - tags: ['personal']
-
-## botsin.space
- - [https://botsin.space](https://botsin.space)
- - date published: 2024-01-09T01:36:31.605653+00:00
- - user: None
- - tags: []
-
-## Can't Unsee
- - [https://cantunsee.space](https://cantunsee.space)
- - date published: 2023-10-25T22:41:57.679574+00:00
- - user: None
- - tags: []
-
-## Сайт Дани
- - [https://blog.danilax86.space](https://blog.danilax86.space)
- - date published: 2023-12-22T17:48:17.947780+00:00
- - user: None
- - tags: ['personal']
-
-## The Dragon's Cave
- - [https://dragonscave.space](https://dragonscave.space)
- - date published: 2023-10-25T22:41:58.143211+00:00
- - user: None
- - tags: []
-
-## Drifting in Space
- - [https://driftingin.space](https://driftingin.space)
- - date published: 2023-10-25T22:42:03.587468+00:00
- - user: None
- - tags: []
-
-## https://www.hottakes.space
- - [https://www.hottakes.space](https://www.hottakes.space)
- - date published: 2024-01-27T17:35:11.853317+00:00
- - user: None
- - tags: []
-
-## Royal Icing
- - [https://icing.space](https://icing.space)
- - date published: 2023-10-25T09:24:46.037499+00:00
- - user: None
- - tags: ['personal']
-
-## Recent Posts — Jakob's Personal Webpage
- - [https://jakob.space](https://jakob.space)
- - date published: 2023-10-25T09:24:48.365761+00:00
- - user: None
- - tags: ['personal']
-
-## https://blog.jatan.space
- - [https://blog.jatan.space](https://blog.jatan.space)
- - date published: 2024-01-15T14:06:50.909590+00:00
- - user: None
- - tags: []
-
-## Jatan Mehta
- - [https://jatan.space](https://jatan.space)
- - date published: 2024-01-15T14:06:49.668239+00:00
- - user: None
- - tags: []
-
-## Jayash Space
- - [https://www.jayash.space](https://www.jayash.space)
- - date published: 2024-01-12T21:01:48.117877+00:00
- - user: None
- - tags: []
-
-## Latent Space | swyx | Substack
- - [https://www.latent.space](https://www.latent.space)
- - date published: 2023-10-25T22:42:07.060753+00:00
- - user: None
- - tags: []
-
-## Log In | LeoLabs
- - [https://platform.leolabs.space](https://platform.leolabs.space)
- - date published: 2023-10-25T22:42:09.201538+00:00
- - user: None
- - tags: []
-
-## Libre Space Foundation
- - [https://libre.space](https://libre.space)
- - date published: 2023-10-25T22:42:11.386945+00:00
- - user: None
- - tags: []
-
-## makeworld.space
- - [https://www.makeworld.space](https://www.makeworld.space)
- - date published: 2023-10-25T22:42:12.199594+00:00
- - user: None
- - tags: []
-
-## https://mynotion.space
- - [https://mynotion.space](https://mynotion.space)
- - date published: 2024-01-09T03:47:13.687606+00:00
- - user: None
- - tags: []
-
-## NodePad.
- - [https://nodepad.space](https://nodepad.space)
- - date published: 2023-10-25T22:42:13.077793+00:00
- - user: None
- - tags: []
-
-## OldBytes Space - Mastodon
- - [https://oldbytes.space](https://oldbytes.space)
- - date published: 2023-10-24T20:14:40.345599+00:00
- - user: None
- - tags: ['mastodon']
-
-## PolyInnovator LLC | Official Website for Dustin Miller
- - [https://polyinnovator.space](https://polyinnovator.space)
- - date published: 2023-11-29T15:45:57.482379+00:00
- - user: None
- - tags: ['personal']
-
-## MP | Education, Product, Philosophy, Good Life
- - [https://www.productnerd.space](https://www.productnerd.space)
- - date published: 2024-01-15T02:47:00.750180+00:00
- - user: None
- - tags: []
-
-## PVM
- - [http://pungas.space](http://pungas.space)
- - date published: 2022-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Reverse DNS IPv4 Map
- - [https://reversedns.space](https://reversedns.space)
- - date published: 2024-03-23T15:58:30+00:00
- - user: None
- - tags: []
-
-## sabrinas.space -
- - [https://sabrinas.space](https://sabrinas.space)
- - date published: 2023-10-25T22:42:16.798161+00:00
- - user: None
- - tags: []
-
-## Jon Santiago | Examinations in Patience, Practice, and Process
- - [https://santiagos.space](https://santiagos.space)
- - date published: 2023-12-27T10:10:28.923262+00:00
- - user: None
- - tags: ['personal']
-
-## Live Starlink Satellite and Coverage Map
- - [https://satellitemap.space](https://satellitemap.space)
- - date published: 2023-10-25T22:42:18.342062+00:00
- - user: None
- - tags: []
-
-## SDavidPrince Space
- - [https://www.sdavidprince.space](https://www.sdavidprince.space)
- - date published: 2023-12-23T19:27:39.558254+00:00
- - user: None
- - tags: ['personal']
-
-## SearXNG instances
- - [https://searx.space](https://searx.space)
- - date published: 2024-03-06T15:12:21+00:00
- - user: rumpel
- - tags: ['search engine']
-
-## the sporks space - party with sporks in space
- - [https://sporks.space](https://sporks.space)
- - date published: 2023-10-25T22:42:26.491552+00:00
- - user: None
- - tags: []
-
-## strangeobject.space
- - [https://strangeobject.space](https://strangeobject.space)
- - date published: 2023-10-25T22:42:27.285300+00:00
- - user: None
- - tags: []
-
-## Swarm - Low cost, global satellite connectivity for IoT
- - [https://swarm.space](https://swarm.space)
- - date published: 2023-10-25T22:42:29.401566+00:00
- - user: None
- - tags: []
-
-## tafc.space
- - [https://tafc.space](https://tafc.space)
- - date published: 2023-10-25T22:42:32.984763+00:00
- - user: None
- - tags: []
-
-## Tania Dreams
- - [https://www.taniadreams.space](https://www.taniadreams.space)
- - date published: 2024-01-08T07:27:21.550544+00:00
- - user: None
- - tags: []
-
-## https://karambolage.t-cup.space
- - [https://karambolage.t-cup.space](https://karambolage.t-cup.space)
- - date published: 2024-01-09T03:47:20.756508+00:00
- - user: None
- - tags: []
-
-## THOM KLODOWSKY
- - [https://thomask.space](https://thomask.space)
- - date published: 2023-12-19T09:59:17.908608+00:00
- - user: None
- - tags: ['personal']
-
-## Global Satellite Services
- - [https://ts2.space](https://ts2.space)
- - date published: 2024-02-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## XincereYi Yours
- - [https://www.xincereyiyours.space](https://www.xincereyiyours.space)
- - date published: 2023-11-29T16:20:49.523341+00:00
- - user: None
- - tags: ['personal']
-
-## zverok's space
- - [https://zverok.space](https://zverok.space)
- - date published: 2023-10-25T08:56:01.367009+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,9 @@
+## Alex Cabal
+ - [https://alexcabal.com](https://alexcabal.com)
+ - date published: 2023-10-25T09:04:23.166247+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Alex Carabi - Personal Development Coach
  - [https://www.alexcarabi.com](https://www.alexcarabi.com)
  - date published: 2024-01-15T13:58:58.240492+00:00
@@ -75,6 +81,12 @@
  - date published: 2023-10-25T09:04:24.113928+00:00
  - user: None
  - tags: ['personal']
+
+## Windows 98 Icons
+ - [https://win98icons.alexmeub.com](https://win98icons.alexmeub.com)
+ - date published: 2024-03-25T06:22:38+00:00
+ - user: None
+ - tags: []
 
 ## Alex Molas
  - [https://www.alexmolas.com](https://www.alexmolas.com)
@@ -2270,7 +2282,7 @@
  - [https://www.archdaily.com](https://www.archdaily.com)
  - date published: 2023-10-25T12:44:15.008885+00:00
  - user: None
- - tags: []
+ - tags: ['architekture news']
 
 ## Archer
  - [https://www.archer.com](https://www.archer.com)
@@ -2911,6 +2923,12 @@
 ## Astral Codex Ten | Scott Alexander | Substack
  - [https://www.astralcodexten.com](https://www.astralcodexten.com)
  - date published: 2023-10-27T04:21:23.608397+00:00
+ - user: None
+ - tags: []
+
+## Astraytical Space Consulting
+ - [https://www.astralytical.com](https://www.astralytical.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5979,22 +5997,4 @@
  - date published: 2023-12-17T05:08:07.684561+00:00
  - user: None
  - tags: ['personal']
-
-## https://nwn.blogs.com
- - [https://nwn.blogs.com](https://nwn.blogs.com)
- - date published: 2023-10-25T13:05:03.461241+00:00
- - user: None
- - tags: []
-
-## BlogScroll - Personal Blog & Site Directory
- - [https://blogscroll.com](https://blogscroll.com)
- - date published: 2023-10-25T09:25:19.865484+00:00
- - user: None
- - tags: ['personal']
-
-## Random stuff
- - [https://1f6042.blogspot.com](https://1f6042.blogspot.com)
- - date published: 2024-01-16T13:41:42.524314+00:00
- - user: None
- - tags: []
 

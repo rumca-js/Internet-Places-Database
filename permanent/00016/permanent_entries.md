@@ -1,3 +1,171 @@
+## Onur Şuyalçınkaya
+ - [https://onur.dev](https://onur.dev)
+ - date published: 2023-12-16T07:29:32.330441+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.open-fire.dev
+ - [https://www.open-fire.dev](https://www.open-fire.dev)
+ - date published: 2024-01-09T02:57:19.590490+00:00
+ - user: None
+ - tags: []
+
+## OpenGOAL | OpenGOAL
+ - [https://opengoal.dev](https://opengoal.dev)
+ - date published: 2023-10-25T18:40:19.039679+00:00
+ - user: None
+ - tags: []
+
+## OpenStatus
+ - [https://www.openstatus.dev](https://www.openstatus.dev)
+ - date published: 2023-10-25T18:40:21.230486+00:00
+ - user: None
+ - tags: []
+
+## SQLPage
+ - [https://sql.ophir.dev](https://sql.ophir.dev)
+ - date published: 2023-10-25T18:40:22.802342+00:00
+ - user: None
+ - tags: []
+
+## OrbStack · Fast, light, simple Docker & Linux on macOS
+ - [https://orbstack.dev](https://orbstack.dev)
+ - date published: 2023-10-25T18:40:25.084437+00:00
+ - user: None
+ - tags: []
+
+## Orhun's Blog
+ - [https://blog.orhun.dev](https://blog.orhun.dev)
+ - date published: 2023-10-25T18:40:26.754894+00:00
+ - user: None
+ - tags: []
+
+## orionc.dev
+ - [https://orionc.dev](https://orionc.dev)
+ - date published: 2023-11-29T17:14:05.577990+00:00
+ - user: None
+ - tags: ['personal']
+
+## Gram Publishing v2
+ - [https://blog.orsinium.dev](https://blog.orsinium.dev)
+ - date published: 2023-10-25T18:40:28.464597+00:00
+ - user: None
+ - tags: []
+
+## Ory - API-first Identity Management, Authentication and Authorization. For Secure, Global, GDPR-compliant Apps | Ory
+ - [https://www.ory.dev](https://www.ory.dev)
+ - date published: 2023-10-25T18:40:33.383690+00:00
+ - user: None
+ - tags: []
+
+## oscard0m Blog
+ - [https://www.oscardom.dev](https://www.oscardom.dev)
+ - date published: 2024-01-05T10:28:24.995014+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://ad8e.pages.dev](https://ad8e.pages.dev)
+ - date published: 2024-01-09T02:57:22.291725+00:00
+ - user: None
+ - tags: []
+
+## Animotion – a visual CSS animation app
+ - [https://cssanimotion.pages.dev](https://cssanimotion.pages.dev)
+ - date published: 2023-11-24T11:16:25+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Caltrans CCTV
+ - [https://ctcctv.pages.dev](https://ctcctv.pages.dev)
+ - date published: 2024-03-13T14:42:55+00:00
+ - user: None
+ - tags: ['california cctv']
+
+## Indeed Job Scam
+ - [https://indeedjobscam.pages.dev](https://indeedjobscam.pages.dev)
+ - date published: 2023-10-25T18:40:43.826797+00:00
+ - user: None
+ - tags: []
+
+## Show HN: A user-friendly UI for viewing and editing Markdown files
+ - [https://marker.pages.dev](https://marker.pages.dev)
+ - date published: 2024-03-13T12:47:43+00:00
+ - user: None
+ - tags: []
+
+## nonnullish
+ - [https://nonnullish.pages.dev](https://nonnullish.pages.dev)
+ - date published: 2023-12-24T14:19:01.273158+00:00
+ - user: None
+ - tags: []
+
+## TLS, byte by byte
+ - [https://subtls.pages.dev](https://subtls.pages.dev)
+ - date published: 2023-10-25T18:40:44.490273+00:00
+ - user: None
+ - tags: []
+
+## https://tropical.pages.dev
+ - [https://tropical.pages.dev](https://tropical.pages.dev)
+ - date published: 2024-01-10T01:32:32.654649+00:00
+ - user: None
+ - tags: []
+
+## step by step
+ - [https://vxdev.pages.dev](https://vxdev.pages.dev)
+ - date published: 2024-01-22T18:02:01.724826+00:00
+ - user: None
+ - tags: []
+
+## Passkey Developer Resources
+ - [https://passkeys.dev](https://passkeys.dev)
+ - date published: 2023-01-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Passkey Developer Resources
+ - [http://passkeys.dev](http://passkeys.dev)
+ - date published: 2024-02-25T19:46:12.112766+00:00
+ - user: None
+ - tags: []
+
+## Hello! • Paul Armstrong
+ - [https://paularmstrong.dev](https://paularmstrong.dev)
+ - date published: 2023-10-25T08:48:56.005230+00:00
+ - user: None
+ - tags: ['personal']
+
+## //pauls dev blog
+ - [https://www.paulsblog.dev](https://www.paulsblog.dev)
+ - date published: 2024-02-25T14:02:35.061521+00:00
+ - user: None
+ - tags: []
+
+## pcloadletter
+ - [https://www.pcloadletter.dev](https://www.pcloadletter.dev)
+ - date published: 2024-02-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hey there! · pema.dev
+ - [https://pema.dev](https://pema.dev)
+ - date published: 2023-10-25T18:40:45.349933+00:00
+ - user: None
+ - tags: []
+
+## Petals – Run LLMs at home, BitTorrent-style
+ - [https://petals.dev](https://petals.dev)
+ - date published: 2023-10-25T18:40:45.976979+00:00
+ - user: None
+ - tags: []
+
+## Florian Pfisterer
+ - [https://pfisterer.dev](https://pfisterer.dev)
+ - date published: 2024-01-12T10:31:39.595981+00:00
+ - user: None
+ - tags: []
+
 ## Pierre Couy’s tech corner | Freelance developper, computer science teacher, passionate about programming. I enjoy sharing my work with the world.
  - [https://pierre-couy.dev](https://pierre-couy.dev)
  - date published: 2023-10-25T18:40:46.733153+00:00
@@ -742,7 +910,7 @@
  - [https://unravelweb.dev](https://unravelweb.dev)
  - date published: 2024-03-24T20:22:33.316186+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Unzip.dev - Developer trends newsletter
  - [https://unzip.dev](https://unzip.dev)
@@ -5847,172 +6015,4 @@
  - date published: 2023-10-30T13:46:18.944535+00:00
  - user: None
  - tags: []
-
-## Back-on-Track
- - [https://back-on-track.eu](https://back-on-track.eu)
- - date published: 2023-10-25T19:08:41.990986+00:00
- - user: None
- - tags: []
-
-## We are Bandai Namco Europe
- - [https://en.bandainamcoent.eu](https://en.bandainamcoent.eu)
- - date published: 2024-02-07T10:38:02+00:00
- - user: rumpel
- - tags: ['dragon ball', 'pac-man', 'video game developer', 'tekken', 'dark souls']
-
-## None
- - [https://basehost.eu](https://basehost.eu)
- - date published: 2024-01-09T03:29:17.206977+00:00
- - user: None
- - tags: []
-
-## Batchrocket.eu - Introduction
- - [https://batchrocket.eu](https://batchrocket.eu)
- - date published: 2023-10-25T19:08:43.947295+00:00
- - user: None
- - tags: []
-
-## Battery2030+ - Battery 2030+
- - [https://battery2030.eu](https://battery2030.eu)
- - date published: 2023-10-25T19:08:59.246351+00:00
- - user: None
- - tags: []
-
-## | BenQ Polska
- - [https://www.benq.eu](https://www.benq.eu)
- - date published: 2023-10-29T18:30:57.646486+00:00
- - user: None
- - tags: ['company']
-
-## Bert Hubert
- - [https://berthub.eu](https://berthub.eu)
- - date published: 2023-10-25T19:09:02.529024+00:00
- - user: None
- - tags: []
-
-## Betterbird. Simply better.
- - [https://www.betterbird.eu](https://www.betterbird.eu)
- - date published: 2023-10-25T19:09:05.014951+00:00
- - user: None
- - tags: []
-
-## Home | BEUC
- - [https://www.beuc.eu](https://www.beuc.eu)
- - date published: 2024-03-06T18:18:49.640877+00:00
- - user: None
- - tags: []
-
-## MRISC32: An open 32-bit RISC/Vector ISA
- - [https://mrisc32.bitsnbites.eu](https://mrisc32.bitsnbites.eu)
- - date published: 2018-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Bits'n'Bites – Learning things, bit by bit…
- - [https://www.bitsnbites.eu](https://www.bitsnbites.eu)
- - date published: 2023-10-25T19:09:06.960784+00:00
- - user: None
- - tags: []
-
-## bne IntelliNews
- - [https://www.bne.eu](https://www.bne.eu)
- - date published: 2024-01-02T11:23:21.706222+00:00
- - user: None
- - tags: []
-
-## Brussels Signal
- - [https://brusselssignal.eu](https://brusselssignal.eu)
- - date published: 2023-12-17T08:32:01.568295+00:00
- - user: None
- - tags: []
-
-## https://buslive.eu
- - [https://buslive.eu](https://buslive.eu)
- - date published: 2023-12-06T13:09:59+00:00
- - user: rumpel
- - tags: ['service maps', 'public transport']
-
-## Scribe
- - [https://scribe.citizen4.eu](https://scribe.citizen4.eu)
- - date published: 2023-10-25T19:09:08.180577+00:00
- - user: None
- - tags: []
-
-## construkt.eu - Philipp Brunner's UX and product design blog
- - [https://construkt.eu](https://construkt.eu)
- - date published: 2023-11-29T16:20:17.841086+00:00
- - user: None
- - tags: ['personal']
-
-## CS SYD
- - [https://cs-syd.eu](https://cs-syd.eu)
- - date published: 2023-10-25T19:09:17.766546+00:00
- - user: None
- - tags: []
-
-## We provide comprehensive IT services | DAGMA IT Security
- - [https://dagma.eu](https://dagma.eu)
- - date published: 2024-01-29T22:44:13.666763+00:00
- - user: None
- - tags: []
-
-## Home | Daniël de Kok
- - [https://danieldk.eu](https://danieldk.eu)
- - date published: 2023-10-25T08:49:09.327114+00:00
- - user: None
- - tags: ['personal']
-
-## DeepReview - Write compelling resumes, cover letters, performance reviews and more, in just minutes.
- - [https://deepreview.eu](https://deepreview.eu)
- - date published: 2023-10-25T19:09:19.206888+00:00
- - user: None
- - tags: []
-
-## Defence Industry Europe
- - [https://defence-industry.eu](https://defence-industry.eu)
- - date published: 2023-11-27T06:06:43.599521+00:00
- - user: None
- - tags: []
-
-## dns0.eu — The European public DNS that makes your Internet safer
- - [https://www.dns0.eu](https://www.dns0.eu)
- - date published: 2023-10-25T19:09:21.881247+00:00
- - user: None
- - tags: []
-
-## Don't Spy EU
- - [https://dontspy.eu](https://dontspy.eu)
- - date published: 2023-11-15T13:03:17+00:00
- - user: None
- - tags: ['privacy', 'biometrics', 'surveillance', 'facial recognition']
-
-## dcz's project map
- - [https://dorotac.eu](https://dorotac.eu)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## EAVI - Media Literacy for Citizenship
- - [https://eavi.eu](https://eavi.eu)
- - date published: 2023-10-25T19:09:47.932688+00:00
- - user: None
- - tags: []
-
-## HOME
- - [https://www.ebf.eu](https://www.ebf.eu)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## ECPR's Political Science Blog - The Loop
- - [https://theloop.ecpr.eu](https://theloop.ecpr.eu)
- - date published: 2023-10-25T19:09:55.861914+00:00
- - user: None
- - tags: []
-
-## EGU
- - [https://www.egu.eu](https://www.egu.eu)
- - date published: 2024-02-28T10:12:16+00:00
- - user: rumpel
- - tags: ['science']
 

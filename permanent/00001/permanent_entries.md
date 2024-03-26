@@ -1,3 +1,9 @@
+## Finbarr Timbers
+ - [https://finbarr.ca](https://finbarr.ca)
+ - date published: 2023-10-25T08:42:53.636850+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Colin Woodbury - About
  - [https://www.fosskers.ca](https://www.fosskers.ca)
  - date published: 2024-01-29T23:02:20.819692+00:00
@@ -95,13 +101,13 @@
  - tags: []
 
 ## iter.ca
- - [http://iter.ca](http://iter.ca)
+ - [https://iter.ca](https://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## iter.ca
- - [https://iter.ca](https://iter.ca)
+ - [http://iter.ca](http://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -5454,7 +5460,7 @@
  - [https://ahrefs.com](https://ahrefs.com)
  - date published: 2023-10-25T12:35:26.492756+00:00
  - user: None
- - tags: ['seo']
+ - tags: ['search engines', 'seo']
 
 ## Ahrefs
  - [https://tech.ahrefs.com](https://tech.ahrefs.com)
@@ -5993,12 +5999,6 @@
 ## Alex Budak – Helping People Become Changemakers
  - [https://www.alexbudak.com](https://www.alexbudak.com)
  - date published: 2023-12-14T01:26:38.625459+00:00
- - user: None
- - tags: ['personal']
-
-## Alex Cabal
- - [https://alexcabal.com](https://alexcabal.com)
- - date published: 2023-10-25T09:04:23.166247+00:00
  - user: None
  - tags: ['personal']
 

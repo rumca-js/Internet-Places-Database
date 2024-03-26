@@ -1,3 +1,99 @@
+## The Church Law Firm
+ - [https://www.pagepate.com](https://www.pagepate.com)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Page Six: Latest Celebrity News, Entertainment News & Gossip
+ - [https://pagesix.com](https://pagesix.com)
+ - date published: 2023-10-25T10:52:05.156137+00:00
+ - user: None
+ - tags: []
+
+## Cheap Books!
+ - [https://www.pagesonpages.com](https://www.pagesonpages.com)
+ - date published: 2023-10-25T16:29:38.022535+00:00
+ - user: None
+ - tags: []
+
+## pagetable.com – Some Assembly Required
+ - [https://www.pagetable.com](https://www.pagetable.com)
+ - date published: 2023-10-25T16:29:42.920014+00:00
+ - user: None
+ - tags: []
+
+## Home of the Pathfinder and Starfinder RPGs. The Golem’s Got It! | Paizo
+ - [https://paizo.com](https://paizo.com)
+ - date published: 2023-10-25T16:29:51.558859+00:00
+ - user: None
+ - tags: []
+
+## Pajhwok Afghan News – Reflecting the Truth
+ - [https://pajhwok.com](https://pajhwok.com)
+ - date published: 2024-01-05T23:11:30.570756+00:00
+ - user: None
+ - tags: []
+
+## Pākiki - Intercepting Proxy
+ - [https://pakikiproxy.com](https://pakikiproxy.com)
+ - date published: 2024-01-09T02:45:43.723960+00:00
+ - user: None
+ - tags: []
+
+## Palantir Blog
+ - [https://blog.palantir.com](https://blog.palantir.com)
+ - date published: 2024-01-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Palantir IR
+ - [https://investors.palantir.com](https://investors.palantir.com)
+ - date published: 2024-02-07T16:59:52.313897+00:00
+ - user: None
+ - tags: []
+
+## Palantir Learning
+ - [https://learn.palantir.com](https://learn.palantir.com)
+ - date published: 2024-02-07T16:59:56.615942+00:00
+ - user: None
+ - tags: []
+
+## Palantir
+ - [https://palantir.com](https://palantir.com)
+ - date published: 2024-02-07T15:29:44+00:00
+ - user: rumpel
+ - tags: ['usa security intelligence', 'privacy', 'surveillance', 'security intelligence']
+
+## Palantir
+ - [https://www.palantir.com](https://www.palantir.com)
+ - date published: 2024-02-07T17:00:06.566100+00:00
+ - user: None
+ - tags: []
+
+## Paleofuture
+ - [https://paleofuture.com](https://paleofuture.com)
+ - date published: 2023-10-25T16:29:54.151105+00:00
+ - user: None
+ - tags: []
+
+## Electronics, Computing and Videogame History - Paleotronic Magazine
+ - [https://paleotronic.com](https://paleotronic.com)
+ - date published: 2023-10-25T11:10:53.460145+00:00
+ - user: None
+ - tags: ['magazine', 'retro hardware']
+
+## Home Page - Palestine Chronicle
+ - [https://www.palestinechronicle.com](https://www.palestinechronicle.com)
+ - date published: 2024-01-09T01:46:20.677231+00:00
+ - user: None
+ - tags: []
+
+## Paliparan - Travels Around the World
+ - [https://paliparan.com](https://paliparan.com)
+ - date published: 2023-10-25T16:29:56.800882+00:00
+ - user: None
+ - tags: []
+
 ## The Palladium Letter | Palladium Editors | Substack
  - [https://letter.palladiummag.com](https://letter.palladiummag.com)
  - date published: 2024-02-08T00:00:00+00:00
@@ -425,14 +521,14 @@
  - tags: ['personal']
 
 ## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
- - date published: 2023-12-23T07:30:12.092026+00:00
+ - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
+ - date published: 2023-12-21T08:24:19.074982+00:00
  - user: None
  - tags: ['personal']
 
 ## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
- - date published: 2023-12-21T08:24:19.074982+00:00
+ - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
+ - date published: 2023-12-23T07:30:12.092026+00:00
  - user: None
  - tags: ['personal']
 
@@ -652,15 +748,15 @@
  - user: None
  - tags: ['personal']
 
-## PCMag UK
- - [http://uk.pcmag.com](http://uk.pcmag.com)
- - date published: 2024-02-26T09:45:15.403718+00:00
- - user: None
- - tags: []
-
 ## PCMag.com - Technology Product Reviews, News, Prices & Tips
  - [https://uk.pcmag.com](https://uk.pcmag.com)
  - date published: 2023-10-25T09:34:32.882984+00:00
+ - user: None
+ - tags: []
+
+## PCMag UK
+ - [http://uk.pcmag.com](http://uk.pcmag.com)
+ - date published: 2024-02-26T09:45:15.403718+00:00
  - user: None
  - tags: []
 
@@ -1289,13 +1385,13 @@
  - tags: []
 
 ## Paul's Dev Notes
- - [https://www.pfrazee.com](https://www.pfrazee.com)
+ - [http://www.pfrazee.com](http://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Paul's Dev Notes
- - [http://www.pfrazee.com](http://www.pfrazee.com)
+ - [https://www.pfrazee.com](https://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -2360,14 +2456,14 @@
  - tags: []
 
 ## De Angela L. Duff
- - [http://www.polishedsolid.com](http://www.polishedsolid.com)
- - date published: 2023-12-23T02:59:58.572062+00:00
+ - [https://www.polishedsolid.com](https://www.polishedsolid.com)
+ - date published: 2023-12-20T11:44:35.174499+00:00
  - user: None
  - tags: ['personal']
 
 ## De Angela L. Duff
- - [https://www.polishedsolid.com](https://www.polishedsolid.com)
- - date published: 2023-12-20T11:44:35.174499+00:00
+ - [http://www.polishedsolid.com](http://www.polishedsolid.com)
+ - date published: 2023-12-23T02:59:58.572062+00:00
  - user: None
  - tags: ['personal']
 
@@ -2420,13 +2516,13 @@
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -2618,14 +2714,14 @@
  - tags: []
 
 ## PostHog - The open source Product OS
- - [http://posthog.com](http://posthog.com)
- - date published: 2024-02-26T09:54:45.800568+00:00
+ - [https://posthog.com](https://posthog.com)
+ - date published: 2023-10-25T16:38:22.584209+00:00
  - user: None
  - tags: []
 
 ## PostHog - The open source Product OS
- - [https://posthog.com](https://posthog.com)
- - date published: 2023-10-25T16:38:22.584209+00:00
+ - [http://posthog.com](http://posthog.com)
+ - date published: 2024-02-26T09:54:45.800568+00:00
  - user: None
  - tags: []
 
@@ -3164,14 +3260,14 @@
  - tags: []
 
 ## programming is terrible
- - [https://programmingisterrible.com](https://programmingisterrible.com)
- - date published: 2023-10-25T16:40:51.213240+00:00
+ - [http://programmingisterrible.com](http://programmingisterrible.com)
+ - date published: 2022-09-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## programming is terrible
- - [http://programmingisterrible.com](http://programmingisterrible.com)
- - date published: 2022-09-22T00:00:00+00:00
+ - [https://programmingisterrible.com](https://programmingisterrible.com)
+ - date published: 2023-10-25T16:40:51.213240+00:00
  - user: None
  - tags: []
 
@@ -3618,6 +3714,12 @@
  - date published: 2023-11-03T00:47:50+00:00
  - user: rumpel
  - tags: []
+
+## Welcome to Purser Club!
+ - [https://purserclub.com](https://purserclub.com)
+ - date published: 2024-03-25T12:15:24.243454+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Pursuing Reality | Adam Elwood | Substack
  - [https://pursuingreality.com](https://pursuingreality.com)
@@ -4176,6 +4278,12 @@
  - tags: []
 
 ## rachelbythebay
+ - [http://rachelbythebay.com](http://rachelbythebay.com)
+ - date published: 2024-03-25T10:02:53.023235+00:00
+ - user: None
+ - tags: ['personal']
+
+## rachelbythebay
  - [https://rachelbythebay.com](https://rachelbythebay.com)
  - date published: 2023-10-25T08:47:38.309860+00:00
  - user: None
@@ -4211,17 +4319,17 @@
  - user: None
  - tags: []
 
-## http://rachelwestbooks.com
- - [https://rachelwestbooks.com](https://rachelwestbooks.com)
- - date published: 2024-02-09T00:19:01.129739+00:00
- - user: None
- - tags: ['poetry', 'book', 'personal']
-
 ## None
  - [http://rachelwestbooks.com](http://rachelwestbooks.com)
  - date published: 2024-02-29T14:58:43.538321+00:00
  - user: None
  - tags: []
+
+## http://rachelwestbooks.com
+ - [https://rachelwestbooks.com](https://rachelwestbooks.com)
+ - date published: 2024-02-09T00:19:01.129739+00:00
+ - user: None
+ - tags: ['poetry', 'book', 'personal']
 
 ## Rachel Zampino | Website Wizard - Rachel Zampino
  - [https://rachelzampino.com](https://rachelzampino.com)
@@ -5083,14 +5191,14 @@ More!
  - tags: []
 
 ## reddit
- - [http://www.reddit.com](http://www.reddit.com)
- - date published: 2024-02-20T00:00:00+00:00
+ - [https://www.reddit.com](https://www.reddit.com)
+ - date published: 2023-10-24T20:16:46.235665+00:00
  - user: None
  - tags: []
 
 ## reddit
- - [https://www.reddit.com](https://www.reddit.com)
- - date published: 2023-10-24T20:16:46.235665+00:00
+ - [http://www.reddit.com](http://www.reddit.com)
+ - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5137,14 +5245,14 @@ More!
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
+ - [http://www.reddit-stream.com](http://www.reddit-stream.com)
+ - date published: 2023-12-23T19:30:18.252561+00:00
  - user: None
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [http://www.reddit-stream.com](http://www.reddit-stream.com)
- - date published: 2023-12-23T19:30:18.252561+00:00
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
  - user: None
  - tags: []
 
@@ -5895,114 +6003,6 @@ More!
 ## Revive Machines
  - [https://revive-machines.com](https://revive-machines.com)
  - date published: 2023-10-25T16:50:58.488773+00:00
- - user: None
- - tags: []
-
-## Revolut | All-in-one Finance App for your Money | Revolut
- - [https://www.revolut.com](https://www.revolut.com)
- - date published: 2023-10-25T14:49:03.844755+00:00
- - user: None
- - tags: ['banking']
-
-## https://blog.revolutionanalytics.com
- - [https://blog.revolutionanalytics.com](https://blog.revolutionanalytics.com)
- - date published: 2023-10-25T16:50:58.906287+00:00
- - user: None
- - tags: []
-
-## Hack Music Theory
- - [https://revolutionharmony.com](https://revolutionharmony.com)
- - date published: 2023-11-29T14:43:42.648215+00:00
- - user: None
- - tags: ['personal']
-
-## Présentation de la revue
- - [https://tsi.revuesonline.com](https://tsi.revuesonline.com)
- - date published: 2024-02-08T18:21:04.027898+00:00
- - user: None
- - tags: []
-
-## DJ Rewerb | Dein virtueller DJ Mentor mit Tipps zum DJing
- - [https://rewerb.com](https://rewerb.com)
- - date published: 2023-11-29T15:50:57.132805+00:00
- - user: None
- - tags: ['personal']
-
-## https://rexresearch.com
- - [https://rexresearch.com](https://rexresearch.com)
- - date published: 2024-01-09T02:47:54.239076+00:00
- - user: None
- - tags: []
-
-## Hidden Grove | Ryan Fleury | Substack
- - [https://www.rfleury.com](https://www.rfleury.com)
- - date published: 2024-03-13T02:48:12.650067+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.rgj.com](https://www.rgj.com)
- - date published: 2023-11-21T18:14:02.751824+00:00
- - user: None
- - tags: []
-
-## Bug's Entrypoint
- - [https://blog.rgsilva.com](https://blog.rgsilva.com)
- - date published: 2023-12-02T15:51:16.421337+00:00
- - user: None
- - tags: []
-
-## Der integrierte internationale Technologiekonzern  | Rheinmetall
- - [https://www.rheinmetall.com](https://www.rheinmetall.com)
- - date published: 2023-10-25T16:51:08.413247+00:00
- - user: None
- - tags: []
-
-## Enterprise NoSQL Database | Scalable Database Solutions | Riak
- - [https://riak.com](https://riak.com)
- - date published: 2023-10-25T16:51:09.866070+00:00
- - user: None
- - tags: []
-
-## Ribbonfarm Studio | Venkatesh Rao | Substack
- - [https://studio.ribbonfarm.com](https://studio.ribbonfarm.com)
- - date published: 2023-10-25T16:51:12.705518+00:00
- - user: None
- - tags: []
-
-## ribbonfarm
- - [https://www.ribbonfarm.com](https://www.ribbonfarm.com)
- - date published: 2023-10-25T16:51:14.885911+00:00
- - user: None
- - tags: []
-
-## Ribbon Health partners with innovators across the healthcare ecosystem
- - [https://www.ribbonhealth.com](https://www.ribbonhealth.com)
- - date published: 2023-10-25T16:51:16.455485+00:00
- - user: None
- - tags: []
-
-## rand[om] - med ∩ ml
- - [https://ricardoanderegg.com](https://ricardoanderegg.com)
- - date published: 2023-10-25T16:51:16.979088+00:00
- - user: None
- - tags: []
-
-## Bézier Curves - and the logic behind them | Richard Ekwonye
- - [https://blog.richardekwonye.com](https://blog.richardekwonye.com)
- - date published: 2023-10-25T16:51:18.543659+00:00
- - user: None
- - tags: []
-
-## Homepage | RichardHerring.com
- - [https://www.richardherring.com](https://www.richardherring.com)
- - date published: 2024-02-13T17:35:46.763245+00:00
- - user: None
- - tags: ['personal']
-
-## HelpFully IT - IT Support Consultancy
- - [https://richardhickson.com](https://richardhickson.com)
- - date published: 2024-01-11T07:52:49.571068+00:00
  - user: None
  - tags: []
 
