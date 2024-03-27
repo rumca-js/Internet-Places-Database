@@ -1,3 +1,238 @@
+## Naich's crappy blog – It's not very good but there is lots of swearing
+ - [https://naich.net](https://naich.net)
+ - date published: 2023-10-25T20:34:26.421954+00:00
+ - user: None
+ - tags: []
+
+## Silver Bulletin | Nate Silver | Substack
+ - [https://www.natesilver.net](https://www.natesilver.net)
+ - date published: 2023-10-25T10:08:33.139664+00:00
+ - user: None
+ - tags: ['substack']
+
+## Native News Online - Home - Native News Online
+ - [https://nativenewsonline.net](https://nativenewsonline.net)
+ - date published: 2024-03-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Naval Gazing Main/Naval Gazing
+ - [https://www.navalgazing.net](https://www.navalgazing.net)
+ - date published: 2024-01-09T03:35:53.937041+00:00
+ - user: None
+ - tags: []
+
+## Site not found · DreamHost
+ - [https://www.naylandblake.net](https://www.naylandblake.net)
+ - date published: 2024-01-11T07:53:05.911668+00:00
+ - user: None
+ - tags: ['personal']
+
+## Human Who Codes - Human Who Codes
+ - [http://www.nczonline.net](http://www.nczonline.net)
+ - date published: 2024-03-24T15:05:35.304070+00:00
+ - user: None
+ - tags: ['personal']
+
+## NearlyFreeSpeech.NET Blog
+ - [https://blog.nearlyfreespeech.net](https://blog.nearlyfreespeech.net)
+ - date published: 2023-10-25T20:34:29.365280+00:00
+ - user: None
+ - tags: []
+
+## Life notes by Neil Williams - digital leader in London
+ - [https://neilojwilliams.net](https://neilojwilliams.net)
+ - date published: 2023-11-29T14:42:28.002234+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tech News, Reviews & Betas | Neowin
+ - [https://www.neowin.net](https://www.neowin.net)
+ - date published: 2023-10-25T09:37:10.924245+00:00
+ - user: None
+ - tags: ['tech news']
+
+## https://neverworld.net
+ - [https://neverworld.net](https://neverworld.net)
+ - date published: 2024-02-08T22:18:30.531277+00:00
+ - user: None
+ - tags: []
+
+## NewPipe - a free YouTube client
+ - [https://newpipe.net](https://newpipe.net)
+ - date published: 2023-10-25T08:33:34.940844+00:00
+ - user: None
+ - tags: ['youtube']
+
+## NFOmation - Your Ultimate NFO Upload Resource!
+ - [https://nfomation.net](https://nfomation.net)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## nfraprado
+ - [https://nfraprado.net](https://nfraprado.net)
+ - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## nicemice
+ - [http://www.nicemice.net](http://www.nicemice.net)
+ - date published: 2023-12-23T22:42:41.095721+00:00
+ - user: None
+ - tags: []
+
+## Nicolas James Marks Ford
+ - [https://nicf.net](https://nicf.net)
+ - date published: 2024-02-08T20:01:00.368109+00:00
+ - user: None
+ - tags: []
+
+## Nick Gray: Entrepreneur, Investor, and Museum Hack Founder
+ - [https://nickgray.net](https://nickgray.net)
+ - date published: 2023-12-19T19:57:45.315939+00:00
+ - user: None
+ - tags: []
+
+## Nick Lane Personal Website
+ - [https://nick-lane.net](https://nick-lane.net)
+ - date published: 2023-10-25T08:53:20.451071+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://nickswan.net](https://nickswan.net)
+ - date published: 2024-01-05T16:52:03.371750+00:00
+ - user: None
+ - tags: []
+
+## Nicolas Nova
+ - [https://www.nicolasnova.net](https://www.nicolasnova.net)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ninja Tune
+ - [https://ninjatune.net](https://ninjatune.net)
+ - date published: 2024-01-18T15:14:18+00:00
+ - user: rumpel
+ - tags: ['record label']
+
+## freeware utilities: password recovery, system utilities, desktop utilities - For Windows
+ - [https://www.nirsoft.net](https://www.nirsoft.net)
+ - date published: 2024-03-02T19:57:09.839763+00:00
+ - user: None
+ - tags: []
+
+## my php/cobol blog
+ - [https://nliu.net](https://nliu.net)
+ - date published: 2023-10-25T09:23:24.947398+00:00
+ - user: None
+ - tags: ['personal']
+
+## no hello
+ - [https://nohello.net](https://nohello.net)
+ - date published: 2023-10-25T20:34:29.932393+00:00
+ - user: None
+ - tags: []
+
+## Noisy Deadlines
+ - [https://noisydeadlines.net](https://noisydeadlines.net)
+ - date published: 2023-11-29T19:26:35.623076+00:00
+ - user: None
+ - tags: ['personal']
+
+## Noisy Pixel - Gaming, Etc.
+ - [https://noisypixel.net](https://noisypixel.net)
+ - date published: 2021-01-04T10:20:48+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.noodl.net](https://www.noodl.net)
+ - date published: 2023-10-25T20:34:37.399098+00:00
+ - user: None
+ - tags: []
+
+## nosher.net
+ - [https://nosher.net](https://nosher.net)
+ - date published: 2023-10-25T20:34:43.515773+00:00
+ - user: None
+ - tags: []
+
+## awesome-nostr | A curated list of nostr projects and resources
+ - [https://www.nostr.net](https://www.nostr.net)
+ - date published: 2023-10-25T20:34:51.420678+00:00
+ - user: None
+ - tags: []
+
+## Notebook / Laptop Reviews and News - NotebookCheck.net
+ - [https://www.notebookcheck.net](https://www.notebookcheck.net)
+ - date published: 2023-10-25T09:37:15.967699+00:00
+ - user: None
+ - tags: ['tech news']
+
+## notgull – The world's \#1 source of notgull
+ - [https://notgull.net](https://notgull.net)
+ - date published: 2023-10-25T20:34:52.578516+00:00
+ - user: None
+ - tags: []
+
+## Noulakaz
+ - [https://www.noulakaz.net](https://www.noulakaz.net)
+ - date published: 2023-10-25T20:35:03.513894+00:00
+ - user: None
+ - tags: []
+
+## Nuitka the Python Compiler — Nuitka the Python Compiler  documentation
+ - [https://nuitka.net](https://nuitka.net)
+ - date published: 2023-10-25T20:35:04.312513+00:00
+ - user: None
+ - tags: []
+
+## nuxx.net – Making, baking, and (un-)breaking things in Southeast Michigan.
+ - [https://nuxx.net](https://nuxx.net)
+ - date published: 2023-10-25T20:35:07.367064+00:00
+ - user: None
+ - tags: []
+
+## https://oagd.net
+ - [https://oagd.net](https://oagd.net)
+ - date published: 2024-01-09T03:35:59.718961+00:00
+ - user: None
+ - tags: []
+
+## Markus Oberlehner - Web Developer, Blogger, Open Source Contributor
+ - [https://markus.oberlehner.net](https://markus.oberlehner.net)
+ - date published: 2023-12-31T20:01:40.128125+00:00
+ - user: None
+ - tags: []
+
+## Obsidian
+				 | Home
+ - [https://www.obsidian.net](https://www.obsidian.net)
+ - date published: 2023-11-01T09:06:55.954899+00:00
+ - user: None
+ - tags: ['fallout', 'company', 'video game developer']
+
+## OddBird CSS Sandbox
+ - [https://css.oddbird.net](https://css.oddbird.net)
+ - date published: 2024-02-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ohio Book Store, Cincinnati, Ohio
+ - [http://ohiobookstore.net](http://ohiobookstore.net)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ohio Marijuana Network - Cannabis News and Product Reviews
+ - [https://ohmj.net](https://ohmj.net)
+ - date published: 2023-11-08T12:30:51.325972+00:00
+ - user: None
+ - tags: []
+
 ## Ole Begemann
  - [https://oleb.net](https://oleb.net)
  - date published: 2023-10-25T08:53:21.577420+00:00
@@ -419,16 +654,16 @@
  - tags: ['cory doctorow', 'internet forum']
 
 ## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
- - [http://pluralistic.net](http://pluralistic.net)
- - date published: 2024-02-24T18:22:24.558627+00:00
- - user: None
- - tags: []
-
-## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
  - [https://pluralistic.net](https://pluralistic.net)
  - date published: 2023-10-25T08:57:45.517375+00:00
  - user: None
  - tags: ['personal', 'blog']
+
+## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
+ - [http://pluralistic.net](http://pluralistic.net)
+ - date published: 2024-02-24T18:22:24.558627+00:00
+ - user: None
+ - tags: []
 
 ## Poc Network // Tech - Today's Tech News and Reviews
  - [https://www.pocnetwork.net](https://www.pocnetwork.net)
@@ -1307,16 +1542,16 @@
  - tags: []
 
 ## Compare, Download & Develop Open Source & Business Software - SourceForge
- - [http://sourceforge.net](http://sourceforge.net)
- - date published: 2024-02-26T13:07:23.973035+00:00
- - user: None
- - tags: []
-
-## Compare, Download & Develop Open Source & Business Software - SourceForge
  - [https://sourceforge.net](https://sourceforge.net)
  - date published: 2023-10-25T08:41:02.286459+00:00
  - user: rumpel
  - tags: ['software platform', 'open source']
+
+## Compare, Download & Develop Open Source & Business Software - SourceForge
+ - [http://sourceforge.net](http://sourceforge.net)
+ - date published: 2024-02-26T13:07:23.973035+00:00
+ - user: None
+ - tags: []
 
 ## Thinking Forth
  - [https://thinking-forth.sourceforge.net](https://thinking-forth.sourceforge.net)
@@ -1864,15 +2099,15 @@
  - user: rumpel
  - tags: ['file sharing']
 
-## Transputer.net
- - [https://transputer.net](https://transputer.net)
- - date published: 2024-01-07T14:41:29+00:00
- - user: None
- - tags: []
-
 ## Welcome to transputer.net
  - [http://transputer.net](http://transputer.net)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Transputer.net
+ - [https://transputer.net](https://transputer.net)
+ - date published: 2024-01-07T14:41:29+00:00
  - user: None
  - tags: []
 
@@ -3119,16 +3354,16 @@
  - tags: []
 
 ## Chris Eidhof
- - [http://chris.eidhof.nl](http://chris.eidhof.nl)
- - date published: 2024-02-25T15:44:49.625453+00:00
- - user: None
- - tags: []
-
-## Chris Eidhof
  - [https://chris.eidhof.nl](https://chris.eidhof.nl)
  - date published: 2023-10-25T08:54:21.499298+00:00
  - user: None
  - tags: ['personal']
+
+## Chris Eidhof
+ - [http://chris.eidhof.nl](http://chris.eidhof.nl)
+ - date published: 2024-02-25T15:44:49.625453+00:00
+ - user: None
+ - tags: []
 
 ## Besluiten waarmee je groeit in impact op mens en omgeving
  - [https://ernohannink.nl](https://ernohannink.nl)
@@ -3688,6 +3923,12 @@
  - user: None
  - tags: []
 
+## Robin's blog
+ - [https://kaveland.no](https://kaveland.no)
+ - date published: 2024-03-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Keysmash!
  - [https://keysmash.no](https://keysmash.no)
  - date published: 2024-01-05T13:55:54+00:00
@@ -3823,6 +4064,12 @@
 ## Universitetet i Bergen
  - [https://www.uib.no](https://www.uib.no)
  - date published: 2023-11-19T10:39:06.443673+00:00
+ - user: None
+ - tags: []
+
+## Site.uit.no – Diverse prosjektsider og gruppeblogger med tilhørighet til UiT
+ - [https://site.uit.no](https://site.uit.no)
+ - date published: 2024-03-26T00:15:00.472678+00:00
  - user: None
  - tags: []
 
@@ -4728,14 +4975,14 @@ marginalia.nu
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
@@ -5657,6 +5904,12 @@ marginalia.nu
  - user: None
  - tags: ['big data', 'data visualisation']
 
+## Welcome to The Apache Software Foundation!
+ - [http://www.apache.org](http://www.apache.org)
+ - date published: 2024-03-26T16:13:49.125566+00:00
+ - user: None
+ - tags: []
+
 ## Apartheid Museum
  - [https://www.apartheidmuseum.org](https://www.apartheidmuseum.org)
  - date published: 2023-11-13T13:41:16.309026+00:00
@@ -5746,258 +5999,4 @@ marginalia.nu
  - date published: 2023-10-27T14:37:50+00:00
  - user: rumpel
  - tags: ['retro', 'magazine']
-
-## Internet Archive Blogs | A blog from the team at archive.org
- - [https://blog.archive.org](https://blog.archive.org)
- - date published: 2023-10-25T09:29:16.005203+00:00
- - user: None
- - tags: []
-
-## The Great 78 Project – Community Preservation, Research, Discovery of 78rpm Records
- - [https://great78.archive.org](https://great78.archive.org)
- - date published: 2023-10-27T12:06:31.660655+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia600700.us.archive.org
- - [https://ia600700.us.archive.org](https://ia600700.us.archive.org)
- - date published: 2023-10-25T20:59:13.402630+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia601406.us.archive.org
- - [https://ia601406.us.archive.org](https://ia601406.us.archive.org)
- - date published: 2023-10-25T20:59:19.795275+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia601707.us.archive.org
- - [https://ia601707.us.archive.org](https://ia601707.us.archive.org)
- - date published: 2023-10-25T20:59:20.976004+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia601808.us.archive.org
- - [https://ia601808.us.archive.org](https://ia601808.us.archive.org)
- - date published: 2023-10-25T20:59:22.280884+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia800202.us.archive.org
- - [https://ia800202.us.archive.org](https://ia800202.us.archive.org)
- - date published: 2024-03-03T17:34:55.865995+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia801300.us.archive.org
- - [https://ia801300.us.archive.org](https://ia801300.us.archive.org)
- - date published: 2024-03-21T18:19:56.015289+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia801508.us.archive.org
- - [https://ia801508.us.archive.org](https://ia801508.us.archive.org)
- - date published: 2023-10-25T20:59:23.511795+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia804605.us.archive.org
- - [https://ia804605.us.archive.org](https://ia804605.us.archive.org)
- - date published: 2023-10-25T20:59:24.951539+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia903105.us.archive.org
- - [https://ia903105.us.archive.org](https://ia903105.us.archive.org)
- - date published: 2023-10-25T20:59:26.153617+00:00
- - user: None
- - tags: []
-
-## Internet Archive
- - [https://mastodon.archive.org](https://mastodon.archive.org)
- - date published: 2023-10-24T20:13:30.645813+00:00
- - user: None
- - tags: ['mastodon']
-
-## Internet Archive Scholar
- - [https://scholar.archive.org](https://scholar.archive.org)
- - date published: 2023-10-25T20:59:27.635866+00:00
- - user: None
- - tags: []
-
-## Back2Roots
- - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
- - date published: 2023-11-02T10:36:12+00:00
- - user: rumpel
- - tags: []
-
-## Wayback Machine
- - [https://web.archive.org](https://web.archive.org)
- - date published: 2023-10-25T09:29:18.969501+00:00
- - user: None
- - tags: ['internet archive']
-
-## Archive-It - 
-  
-		Web Archiving Services for Libraries and Archives
- - [https://archive-it.org](https://archive-it.org)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## ArchiveTeam Warrior
- - [https://tracker.archiveteam.org](https://tracker.archiveteam.org)
- - date published: 2023-11-25T05:59:37.137970+00:00
- - user: None
- - tags: []
-
-## Archiveteam
- - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
- - date published: 2023-11-25T06:19:37.367056+00:00
- - user: None
- - tags: []
-
-## Archiveteam
- - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Arch Linux
- - [https://archlinux.org](https://archlinux.org)
- - date published: 2023-10-25T08:32:04.840346+00:00
- - user: None
- - tags: ['operating system']
-
-## AUR (en) - Home
- - [https://aur.archlinux.org](https://aur.archlinux.org)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Arch Linux Forums
- - [https://bbs.archlinux.org](https://bbs.archlinux.org)
- - date published: 2023-10-25T20:59:28.398072+00:00
- - user: None
- - tags: []
-
-## Explore groups · GitLab
- - [https://gitlab.archlinux.org](https://gitlab.archlinux.org)
- - date published: 2024-02-24T09:55:29.417486+00:00
- - user: None
- - tags: []
-
-## What can I do for Arch Linux?
- - [https://whatcanidofor.archlinux.org](https://whatcanidofor.archlinux.org)
- - date published: 2023-10-25T20:59:29.334535+00:00
- - user: None
- - tags: []
-
-## ArchWiki
- - [https://wiki.archlinux.org](https://wiki.archlinux.org)
- - date published: 2023-11-01T08:44:11.744107+00:00
- - user: None
- - tags: []
-
-## Arch Linux 32
- - [https://archlinux32.org](https://archlinux32.org)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Arch Mission Foundation - Preserving humanity forever, in space and on Earth.
- - [https://www.archmission.org](https://www.archmission.org)
- - date published: 2023-11-01T08:44:12.919349+00:00
- - user: None
- - tags: []
-
-## https://ardour.org
- - [https://ardour.org](https://ardour.org)
- - date published: 2023-10-25T20:59:31.008744+00:00
- - user: None
- - tags: []
-
-## Ardour Community
- - [https://community.ardour.org](https://community.ardour.org)
- - date published: 2024-02-25T15:21:49.089620+00:00
- - user: None
- - tags: []
-
-## Ardour
- - [https://discourse.ardour.org](https://discourse.ardour.org)
- - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Free Download Full Version PC Games - ARealGamer
- - [https://www.arealgamer.org](https://www.arealgamer.org)
- - date published: 2023-10-29T11:05:38.002005+00:00
- - user: None
- - tags: []
-
-## Arepo code - moving mesh hydrodynamics - open source code
- - [https://arepo-code.org](https://arepo-code.org)
- - date published: 2023-10-25T20:59:32.572801+00:00
- - user: None
- - tags: []
-
-## Aresluna
- - [https://aresluna.org](https://aresluna.org)
- - date published: 2023-10-25T20:59:33.736041+00:00
- - user: None
- - tags: []
-
-## ArmorPaint | 3D PBR Texture Painting
- - [https://armorpaint.org](https://armorpaint.org)
- - date published: 2023-10-25T20:59:39.560209+00:00
- - user: None
- - tags: []
-
-## The AROS Archives @ aros-exec.org
- - [http://archives.aros-exec.org](http://archives.aros-exec.org)
- - date published: 2023-12-11T19:00:10.479829+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://arosworld.org](https://arosworld.org)
- - date published: 2023-12-11T17:37:05.339202+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.arosworld.org](https://www.arosworld.org)
- - date published: 2023-12-11T17:30:43.083273+00:00
- - user: None
- - tags: []
-
-## ARRL - Home
- - [https://www.arrl.org](https://www.arrl.org)
- - date published: 2023-10-25T20:59:47.271850+00:00
- - user: None
- - tags: []
-
-## ARTICLE 19 - Defending freedom of expression and information.
- - [https://www.article19.org](https://www.article19.org)
- - date published: 2023-10-25T20:59:49.244012+00:00
- - user: None
- - tags: []
-
-## ar5iv – Articles from arXiv.org as responsive HTML5 web documents
- - [https://ar5iv.labs.arxiv.org](https://ar5iv.labs.arxiv.org)
- - date published: 2024-03-13T21:06:07.643837+00:00
- - user: None
- - tags: []
-
-## arXiv.org e-Print archive
- - [https://arxiv.org](https://arxiv.org)
- - date published: 2023-10-25T09:28:35.420233+00:00
- - user: None
- - tags: ['database', 'internet archive', 'digital library']
-
-## arXiv blog – News from arXiv.org
- - [https://blog.arxiv.org](https://blog.arxiv.org)
- - date published: 2023-10-25T20:59:51.213396+00:00
- - user: None
- - tags: []
 

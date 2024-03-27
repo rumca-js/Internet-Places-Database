@@ -1,3 +1,27 @@
+## eContact!
+ - [https://econtact.ca](https://econtact.ca)
+ - date published: 2023-10-25T12:09:30.076113+00:00
+ - user: None
+ - tags: []
+
+## Evan Jones - Software Engineer | Computer Scientist
+ - [https://www.evanjones.ca](https://www.evanjones.ca)
+ - date published: 2023-10-25T12:04:49.962005+00:00
+ - user: None
+ - tags: []
+
+## Eventbrite
+ - [https://www.eventbrite.ca](https://www.eventbrite.ca)
+ - date published: 2024-02-24T18:11:15.206135+00:00
+ - user: None
+ - tags: []
+
+## ferd.ca
+ - [https://ferd.ca](https://ferd.ca)
+ - date published: 2023-10-25T12:04:53.238516+00:00
+ - user: None
+ - tags: []
+
 ## Finbarr Timbers
  - [https://finbarr.ca](https://finbarr.ca)
  - date published: 2023-10-25T08:42:53.636850+00:00
@@ -101,13 +125,13 @@
  - tags: []
 
 ## iter.ca
- - [https://iter.ca](https://iter.ca)
+ - [http://iter.ca](http://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## iter.ca
- - [http://iter.ca](http://iter.ca)
+ - [https://iter.ca](https://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -2353,14 +2377,14 @@
  - tags: []
 
 ## Cassidy's blog
- - [https://blog.cassidoo.co](https://blog.cassidoo.co)
- - date published: 2024-01-15T00:55:12.125155+00:00
+ - [http://blog.cassidoo.co](http://blog.cassidoo.co)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Cassidy's blog
- - [http://blog.cassidoo.co](http://blog.cassidoo.co)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://blog.cassidoo.co](https://blog.cassidoo.co)
+ - date published: 2024-01-15T00:55:12.125155+00:00
  - user: None
  - tags: []
 
@@ -5975,30 +5999,6 @@
 ## Alexander Obenauer
  - [https://alexanderobenauer.com](https://alexanderobenauer.com)
  - date published: 2023-10-25T12:37:47.022909+00:00
- - user: None
- - tags: ['personal']
-
-## Alexander Sandberg · Product-minded iOS/macOS Engineer
- - [https://alexandersandberg.com](https://alexandersandberg.com)
- - date published: 2023-12-01T10:47:45.054107+00:00
- - user: None
- - tags: ['personal']
-
-## Alex Sawyer
- - [https://alexandersawyer.com](https://alexandersawyer.com)
- - date published: 2023-12-27T01:10:27.638515+00:00
- - user: None
- - tags: ['personal']
-
-## Home •
- - [https://alexandrinahemsley.com](https://alexandrinahemsley.com)
- - date published: 2021-08-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Alex Budak – Helping People Become Changemakers
- - [https://www.alexbudak.com](https://www.alexbudak.com)
- - date published: 2023-12-14T01:26:38.625459+00:00
  - user: None
  - tags: ['personal']
 

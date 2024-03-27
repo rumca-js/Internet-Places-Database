@@ -1,3 +1,27 @@
+## Alexander Sandberg · Product-minded iOS/macOS Engineer
+ - [https://alexandersandberg.com](https://alexandersandberg.com)
+ - date published: 2023-12-01T10:47:45.054107+00:00
+ - user: None
+ - tags: ['personal']
+
+## Alex Sawyer
+ - [https://alexandersawyer.com](https://alexandersawyer.com)
+ - date published: 2023-12-27T01:10:27.638515+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home •
+ - [https://alexandrinahemsley.com](https://alexandrinahemsley.com)
+ - date published: 2021-08-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Alex Budak – Helping People Become Changemakers
+ - [https://www.alexbudak.com](https://www.alexbudak.com)
+ - date published: 2023-12-14T01:26:38.625459+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Alex Cabal
  - [https://alexcabal.com](https://alexcabal.com)
  - date published: 2023-10-25T09:04:23.166247+00:00
@@ -20,7 +44,7 @@
  - [https://www.alexcrompton.com](https://www.alexcrompton.com)
  - date published: 2023-10-25T12:37:53.635291+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Alex DeCapri – Human Being
  - [https://alexdecapri.com](https://alexdecapri.com)
@@ -3964,6 +3988,12 @@
  - user: rumpel
  - tags: ['rothschild', 'israel', 'palestine']
 
+## Bali Travel Guide
+ - [https://bali.com](https://bali.com)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Covering politics, society and business in Southern and Eastern Europe | Balkan Insight
  - [https://balkaninsight.com](https://balkaninsight.com)
  - date published: 2023-10-25T12:52:07.898288+00:00
@@ -4367,14 +4397,14 @@
  - tags: []
 
 ## Bay 12 Games: Dwarf Fortress
- - [https://www.bay12games.com](https://www.bay12games.com)
- - date published: 2023-10-25T11:08:28.145829+00:00
+ - [http://www.bay12games.com](http://www.bay12games.com)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Bay 12 Games: Dwarf Fortress
- - [http://www.bay12games.com](http://www.bay12games.com)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://www.bay12games.com](https://www.bay12games.com)
+ - date published: 2023-10-25T11:08:28.145829+00:00
  - user: None
  - tags: []
 
@@ -5967,34 +5997,4 @@
  - date published: 2023-10-25T13:04:57.374846+00:00
  - user: None
  - tags: []
-
-## Home – Blocks and Files
- - [https://blocksandfiles.com](https://blocksandfiles.com)
- - date published: 2023-10-25T13:05:01.717678+00:00
- - user: None
- - tags: []
-
-## Crypto Market News and Insights for Investors - BlocksByte
- - [https://blocksbyte.com](https://blocksbyte.com)
- - date published: 2023-11-24T14:24:09.974254+00:00
- - user: None
- - tags: []
-
-## Error 404 (Not Found)!!1
- - [https://resources.blogblog.com](https://resources.blogblog.com)
- - date published: 2023-12-11T17:25:58.608261+00:00
- - user: None
- - tags: []
-
-## Blogger.com - Create a unique and beautiful blog easily.
- - [https://www.blogger.com](https://www.blogger.com)
- - date published: 2023-12-11T16:52:16.537428+00:00
- - user: None
- - tags: []
-
-## Blog of Drew
- - [https://blogofdrew.com](https://blogofdrew.com)
- - date published: 2023-12-17T05:08:07.684561+00:00
- - user: None
- - tags: ['personal']
 

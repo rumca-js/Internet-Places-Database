@@ -1,3 +1,99 @@
+## retrotechnology.com, retrotechnology.net
+ - [https://www.retrotechnology.com](https://www.retrotechnology.com)
+ - date published: 2023-10-25T08:47:48.567953+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | RetroTINK LLC
+ - [https://www.retrotink.com](https://www.retrotink.com)
+ - date published: 2024-01-19T18:33:04+00:00
+ - user: None
+ - tags: ['retro games', 'hardware']
+
+## PowerShark for your Amiga is coming!
+ - [https://retrousbpower.com](https://retrousbpower.com)
+ - date published: 2024-02-02T07:10:46.302196+00:00
+ - user: None
+ - tags: ['amiga', 'hardware']
+
+## Return to Monkey Island | Available now on PC, Nintendo Swtich, PS5, and Xbox S/X
+ - [https://returntomonkeyisland.com](https://returntomonkeyisland.com)
+ - date published: 2023-10-25T16:50:39.735294+00:00
+ - user: None
+ - tags: []
+
+## The Lord of the Rings: Return to Moria™
+ - [https://www.returntomoria.com](https://www.returntomoria.com)
+ - date published: 2023-10-25T13:56:54.054723+00:00
+ - user: None
+ - tags: ['tolkien']
+
+## Return To Office Mandates
+ - [https://returntoofficemandate.com](https://returntoofficemandate.com)
+ - date published: 2024-03-18T15:01:05+00:00
+ - user: rumpel
+ - tags: ['work']
+
+## Reuters | Breaking International News & Views
+ - [https://www.reuters.com](https://www.reuters.com)
+ - date published: 2023-10-25T10:38:41.639140+00:00
+ - user: None
+ - tags: []
+
+## International News Agency | Multimedia News Provider | Reuters
+ - [https://www.reutersagency.com](https://www.reutersagency.com)
+ - date published: 2023-10-25T16:50:47.197541+00:00
+ - user: None
+ - tags: []
+
+## Rev | AI Speech to Text Transcription Service
+ - [https://www.rev.com](https://www.rev.com)
+ - date published: 2023-11-27T13:30:27+00:00
+ - user: rumpel
+ - tags: ['transcript', 'artificial intelligence']
+
+## Charlie Revett (@revcd) • Software Engineer
+ - [https://revcd.com](https://revcd.com)
+ - date published: 2024-01-13T18:26:52.208850+00:00
+ - user: None
+ - tags: []
+
+## Home | Reverb Machine
+ - [https://reverbmachine.com](https://reverbmachine.com)
+ - date published: 2023-10-25T16:50:50.350568+00:00
+ - user: None
+ - tags: []
+
+## Reversemode
+ - [https://www.reversemode.com](https://www.reversemode.com)
+ - date published: 2023-10-25T16:50:52.011927+00:00
+ - user: None
+ - tags: []
+
+## Software Supply Chain Security & Threat Intelligence  | ReversingLabs
+ - [https://www.reversinglabs.com](https://www.reversinglabs.com)
+ - date published: 2023-10-25T16:50:55.808121+00:00
+ - user: None
+ - tags: []
+
+## Las Vegas News | Breaking News & Headlines | Las Vegas Review-Journal
+ - [https://www.reviewjournal.com](https://www.reviewjournal.com)
+ - date published: 2023-10-25T10:38:52.009999+00:00
+ - user: None
+ - tags: []
+
+## ReviewNB - Jupyter Notebook Code Reviews & Collaboration
+ - [https://www.reviewnb.com](https://www.reviewnb.com)
+ - date published: 2023-10-25T16:50:57.986129+00:00
+ - user: None
+ - tags: []
+
+## Revive Machines
+ - [https://revive-machines.com](https://revive-machines.com)
+ - date published: 2023-10-25T16:50:58.488773+00:00
+ - user: None
+ - tags: []
+
 ## Revolut | All-in-one Finance App for your Money | Revolut
  - [https://www.revolut.com](https://www.revolut.com)
  - date published: 2023-10-25T14:49:03.844755+00:00
@@ -2117,16 +2213,16 @@
  - tags: []
 
 ## - SarahMcCulloch.com | With Strength and Spirit
- - [https://www.sarahmcculloch.com](https://www.sarahmcculloch.com)
- - date published: 2024-02-25T18:59:28.441249+00:00
- - user: None
- - tags: []
-
-## - SarahMcCulloch.com | With Strength and Spirit
  - [http://www.sarahmcculloch.com](http://www.sarahmcculloch.com)
  - date published: 2023-12-24T08:15:55.915305+00:00
  - user: None
  - tags: ['personal']
+
+## - SarahMcCulloch.com | With Strength and Spirit
+ - [https://www.sarahmcculloch.com](https://www.sarahmcculloch.com)
+ - date published: 2024-02-25T18:59:28.441249+00:00
+ - user: None
+ - tags: []
 
 ## sara kingsley – YA :: FANTASY :: ROMANCE
  - [https://www.sarakingsley.com](https://www.sarakingsley.com)
@@ -5908,102 +6004,6 @@
 ## Show HN: SQL Workbench in the Browser
  - [https://sql-workbench.com](https://sql-workbench.com)
  - date published: 2024-02-28T13:44:57+00:00
- - user: None
- - tags: []
-
-## Solar Car City Car for daily Urban Mobility
- - [https://www.squadmobility.com](https://www.squadmobility.com)
- - date published: 2023-10-25T17:11:30.184077+00:00
- - user: None
- - tags: []
-
-## Squarespace / Engineering
- - [https://engineering.squarespace.com](https://engineering.squarespace.com)
- - date published: 2023-10-25T17:11:31.582819+00:00
- - user: None
- - tags: []
-
-## The Official Squarespace Newsroom
- - [https://newsroom.squarespace.com](https://newsroom.squarespace.com)
- - date published: 2023-10-25T17:11:33.322378+00:00
- - user: None
- - tags: []
-
-## AMIGA
- - [https://olive-dove-amhz.squarespace.com](https://olive-dove-amhz.squarespace.com)
- - date published: 2023-12-11T18:34:11.976151+00:00
- - user: None
- - tags: []
-
-## Website Builder — Create a Website in Minutes — Squarespace
- - [https://squarespace.com](https://squarespace.com)
- - date published: 2024-03-11T00:00:00+00:00
- - user: None
- - tags: ['online tool', 'website builder']
-
-## 404 Not Found
- - [https://static1.squarespace.com](https://static1.squarespace.com)
- - date published: 2024-01-09T02:49:25.627185+00:00
- - user: None
- - tags: []
-
-## Website Builder — Create a Website in Minutes — Squarespace
- - [https://www.squarespace.com](https://www.squarespace.com)
- - date published: 2023-10-25T08:24:15.197115+00:00
- - user: None
- - tags: []
-
-## https://images.squarespace-cdn.com
- - [https://images.squarespace-cdn.com](https://images.squarespace-cdn.com)
- - date published: 2023-12-11T18:34:20.574903+00:00
- - user: None
- - tags: []
-
-## Power your entire business | Square
- - [https://squareup.com](https://squareup.com)
- - date published: 2023-10-25T17:11:36.693918+00:00
- - user: None
- - tags: []
-
-## Squidgeefish
- - [https://squidgeefish.com](https://squidgeefish.com)
- - date published: 2023-10-25T17:11:37.299993+00:00
- - user: None
- - tags: []
-
-## AGE OF SQUIDMAR
- - [https://www.squidmar.com](https://www.squidmar.com)
- - date published: 2023-10-25T11:11:44.653780+00:00
- - user: None
- - tags: ['youtuber']
-
-## Фотографии, биография звезд, моделей и просто красивых девушек!
- - [https://sqwera.com](https://sqwera.com)
- - date published: 2023-10-25T17:11:38.934790+00:00
- - user: None
- - tags: []
-
-## Source & Binary
- - [https://src-bin.com](https://src-bin.com)
- - date published: 2023-10-25T17:11:39.487909+00:00
- - user: None
- - tags: []
-
-## SRI International - American Nonprofit Research Institute
- - [https://www.sri.com](https://www.sri.com)
- - date published: 2023-10-25T17:11:43.284336+00:00
- - user: None
- - tags: []
-
-## Sriram P H | Product Designer
- - [https://sriramph.com](https://sriramph.com)
- - date published: 2023-11-29T14:23:04.280934+00:00
- - user: None
- - tags: ['personal']
-
-## Home Page - SSC - Swedish Space Corporation
- - [https://sscspace.com](https://sscspace.com)
- - date published: 2023-10-25T17:11:50.984142+00:00
  - user: None
  - tags: []
 
