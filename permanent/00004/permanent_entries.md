@@ -1,3 +1,129 @@
+## CodeWritePlay – Game Development, Tech, Humor
+ - [https://codewriteplay.com](https://codewriteplay.com)
+ - date published: 2023-10-25T13:28:50.815482+00:00
+ - user: None
+ - tags: []
+
+## Codex 99
+ - [https://www.codex99.com](https://www.codex99.com)
+ - date published: 2024-01-09T02:32:31.105130+00:00
+ - user: None
+ - tags: []
+
+## A weekly newsletter that explain tech terms in plain, everyday language
+ - [https://codictionary.com](https://codictionary.com)
+ - date published: 2024-01-09T02:32:34.042018+00:00
+ - user: None
+ - tags: []
+
+## Coding Horror
+ - [https://blog.codinghorror.com](https://blog.codinghorror.com)
+ - date published: 2023-10-25T09:19:51.330520+00:00
+ - user: None
+ - tags: ['personal']
+
+## Coding Horror
+ - [http://www.codinghorror.com](http://www.codinghorror.com)
+ - date published: 2024-03-24T15:04:01.874981+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Coding Nest
+ - [https://codingnest.com](https://codingnest.com)
+ - date published: 2023-10-25T13:28:59.884471+00:00
+ - user: None
+ - tags: []
+
+## Home - Coding Otaku
+ - [https://codingotaku.com](https://codingotaku.com)
+ - date published: 2023-10-25T08:45:26.168140+00:00
+ - user: None
+ - tags: ['personal']
+
+## Coding VC | Leo Polovets | Substack
+ - [https://www.codingvc.com](https://www.codingvc.com)
+ - date published: 2023-10-25T13:29:03.799383+00:00
+ - user: None
+ - tags: []
+
+## Cody McLain | My little corner of the Universe
+ - [https://www.codymclain.com](https://www.codymclain.com)
+ - date published: 2023-11-29T14:19:57.527804+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cody See | Life & Marketing
+ - [https://codysee.com](https://codysee.com)
+ - date published: 2023-11-29T15:45:24.367920+00:00
+ - user: None
+ - tags: ['personal']
+
+## Coed Cherry - College Girls Porn Pics
+ - [https://coedcherry.com](https://coedcherry.com)
+ - date published: 2023-11-10T01:51:08+00:00
+ - user: rumpel
+ - tags: []
+
+## Phishing Protection Solutions | Cofense Email Security
+ - [https://cofense.com](https://cofense.com)
+ - date published: 2023-10-25T13:29:08.010341+00:00
+ - user: None
+ - tags: []
+
+## Coffee For The Brain
+ - [https://coffeeforthebrain.com](https://coffeeforthebrain.com)
+ - date published: 2023-12-03T15:55:03.673637+00:00
+ - user: None
+ - tags: ['personal']
+
+## CogDogBlog – Alan Levine barks about and plays with stuff here
+ - [https://cogdogblog.com](https://cogdogblog.com)
+ - date published: 2023-10-25T13:29:20.506901+00:00
+ - user: None
+ - tags: []
+
+## Cognition
+ - [https://www.cognition-labs.com](https://www.cognition-labs.com)
+ - date published: 2024-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cognitive Medium
+ - [https://cognitivemedium.com](https://cognitivemedium.com)
+ - date published: 2023-10-25T13:29:27.971125+00:00
+ - user: None
+ - tags: []
+
+## Home - Cogora
+ - [https://www.cogora.com](https://www.cogora.com)
+ - date published: 2024-02-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://cohere.com](https://cohere.com)
+ - date published: 2024-02-13T17:40:53.507525+00:00
+ - user: None
+ - tags: []
+
+## Context by Cohere
+ - [https://txt.cohere.com](https://txt.cohere.com)
+ - date published: 2023-10-25T13:29:30.418945+00:00
+ - user: None
+ - tags: []
+
+## https://blog.coinbase.com
+ - [https://blog.coinbase.com](https://blog.coinbase.com)
+ - date published: 2023-10-25T13:29:30.685839+00:00
+ - user: None
+ - tags: []
+
+## Coinbase Pro | Digital Asset Exchange
+ - [https://pro.coinbase.com](https://pro.coinbase.com)
+ - date published: 2023-10-25T13:29:31.574956+00:00
+ - user: None
+ - tags: []
+
 ## Coinbase Status
  - [https://status.coinbase.com](https://status.coinbase.com)
  - date published: 2023-10-25T13:29:33.191629+00:00
@@ -429,6 +555,12 @@
  - date published: 2023-10-25T13:32:52.059539+00:00
  - user: None
  - tags: []
+
+## Conductor — Enterprise SEO & Content Marketing Platform
+ - [https://www.conductor.com](https://www.conductor.com)
+ - date published: 2024-03-27T21:46:26+00:00
+ - user: rumpel
+ - tags: ['seo']
 
 ## Conf42: online tech events
  - [https://www.conf42.com](https://www.conf42.com)
@@ -1586,7 +1718,7 @@
  - [https://cubicle7games.com](https://cubicle7games.com)
  - date published: 2024-01-09T00:00:00+00:00
  - user: rumpel
- - tags: ['broken weave', 'warhammer', 'tabletop games', 'doctor who', 'role playing games']
+ - tags: ['broken weave', 'doctor who', 'role playing games', 'warhammer', 'tabletop games', 'ttrpg']
 
 ## Home - CuencaHighLife
  - [https://cuencahighlife.com](https://cuencahighlife.com)
@@ -2585,6 +2717,12 @@
  - user: None
  - tags: []
 
+## DartMUD
+ - [https://www.dartmud.com](https://www.dartmud.com)
+ - date published: 2024-03-27T20:50:08.211077+00:00
+ - user: None
+ - tags: ['mud game']
+
 ## Daryl Cook | Home
  - [https://darylcook.com](https://darylcook.com)
  - date published: 2024-01-04T03:34:09.104755+00:00
@@ -3405,7 +3543,7 @@
  - [https://www.defensenews.com](https://www.defensenews.com)
  - date published: 2023-10-31T05:18:09.856934+00:00
  - user: None
- - tags: []
+ - tags: ['military news']
 
 ## Defense One
  - [https://www.defenseone.com](https://www.defenseone.com)
@@ -3528,14 +3666,14 @@
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [http://democratherald.com](http://democratherald.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://democratherald.com](https://democratherald.com)
+ - date published: 2023-11-04T05:50:19.542658+00:00
  - user: None
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [https://democratherald.com](https://democratherald.com)
- - date published: 2023-11-04T05:50:19.542658+00:00
+ - [http://democratherald.com](http://democratherald.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4798,7 +4936,7 @@
  - [https://dodgersnation.com](https://dodgersnation.com)
  - date published: 2024-03-26T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['sport news']
 
 ## Inflection Point Strategies | Dodiodo
  - [https://www.dodiejacobi.com](https://www.dodiejacobi.com)
@@ -4984,7 +5122,7 @@
  - [https://www.dota2.com](https://www.dota2.com)
  - date published: 2023-10-25T11:08:42.390800+00:00
  - user: None
- - tags: []
+ - tags: ['moba']
 
 ## DOTA Mods Installer
  - [https://dota2mods.com](https://dota2mods.com)
@@ -5151,6 +5289,12 @@
 ## Dragon Lady Today | U-2 Dragon Lady latest news and books by Chris Pocock
  - [https://dragonladytoday.com](https://dragonladytoday.com)
  - date published: 2023-10-25T13:58:17.023100+00:00
+ - user: None
+ - tags: []
+
+## Coming Soon
+ - [https://www.dragons-gate.com](https://www.dragons-gate.com)
+ - date published: 2024-03-27T20:50:13.970468+00:00
  - user: None
  - tags: []
 
@@ -5608,7 +5752,13 @@
  - [https://dungeonmapdoodler.com](https://dungeonmapdoodler.com)
  - date published: 2023-10-25T13:59:52.064138+00:00
  - user: None
- - tags: ['role playing games']
+ - tags: ['ttrpg', 'role playing games']
+
+## Dungeon's Master
+ - [https://dungeonsmaster.com](https://dungeonsmaster.com)
+ - date published: 2016-03-27T21:47:02+00:00
+ - user: rumpel
+ - tags: []
 
 ## Multi-Factor Authentication & Single Sign-On | Duo Security
  - [https://duo.com](https://duo.com)
@@ -5849,154 +5999,4 @@
  - date published: 2023-10-25T14:01:18.466870+00:00
  - user: None
  - tags: ['science book']
-
-## EastFruit - информация о рынке овощей, фруктов, ягод и орехов
- - [https://east-fruit.com](https://east-fruit.com)
- - date published: 2023-10-25T14:01:24.698515+00:00
- - user: None
- - tags: []
-
-## Easy Digging Hand Tools for Garden + Farming + Trenching
- - [https://www.easydigging.com](https://www.easydigging.com)
- - date published: 2023-10-25T14:01:31.165074+00:00
- - user: None
- - tags: []
-
-## EasyDMARC | DMARC Journey Made Simple
- - [https://easydmarc.com](https://easydmarc.com)
- - date published: 2024-01-29T22:42:36.460848+00:00
- - user: None
- - tags: []
-
-## easyDNS - DNS, Domains, Web and Email Hosting Since 1998
- - [https://easydns.com](https://easydns.com)
- - date published: 2023-10-25T14:01:35.145015+00:00
- - user: None
- - tags: []
-
-## Easyful | Sell digital products with no delivery fees.
- - [https://www.easyful.com](https://www.easyful.com)
- - date published: 2023-10-25T14:01:40.494517+00:00
- - user: None
- - tags: []
-
-## EasyPalMo - EasyPalMo
- - [https://easypalmo.com](https://easypalmo.com)
- - date published: 2023-12-26T11:08:44.322110+00:00
- - user: None
- - tags: []
-
-## The Simple Shipping API - EasyPost
- - [https://www.easypost.com](https://www.easypost.com)
- - date published: 2023-10-25T14:01:43.825100+00:00
- - user: None
- - tags: []
-
-## Shop Sustainable Food Delivered to You
- - [https://eatbreadfruit.com](https://eatbreadfruit.com)
- - date published: 2024-01-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Eater
- - [https://www.eater.com](https://www.eater.com)
- - date published: 2023-10-25T14:01:59.739762+00:00
- - user: None
- - tags: []
-
-## nonfood
- - [https://eatnonfood.com](https://eatnonfood.com)
- - date published: 2024-02-08T17:46:52.371639+00:00
- - user: None
- - tags: []
-
-## Lists
- - [https://lists.eatonphil.com](https://lists.eatonphil.com)
- - date published: 2023-11-10T16:43:03.630097+00:00
- - user: None
- - tags: []
-
-## Notes on software development | notes.eatonphil.com
- - [https://notes.eatonphil.com](https://notes.eatonphil.com)
- - date published: 2023-10-25T14:02:07.570734+00:00
- - user: None
- - tags: []
-
-## Eaton Works
- - [https://eaton-works.com](https://eaton-works.com)
- - date published: 2023-10-25T14:02:01.830568+00:00
- - user: None
- - tags: []
-
-## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://www.ebay.com](https://www.ebay.com)
- - date published: 2024-02-09T10:41:07+00:00
- - user: rumpel
- - tags: ['digital marketplace']
-
-## Tech Blog - eBay Inc.
- - [https://tech.ebayinc.com](https://tech.ebayinc.com)
- - date published: 2023-10-25T14:02:57.410323+00:00
- - user: None
- - tags: []
-
-## About eBay: Company Info, News, Careers, Investor Relations
- - [https://www.ebayinc.com](https://www.ebayinc.com)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Make Money Online, Build Your Online Business - eBiz Facts
- - [https://ebizfacts.com](https://ebizfacts.com)
- - date published: 2024-01-05T16:53:05.875671+00:00
- - user: None
- - tags: []
-
-## Ebola Outbreak Information
- - [https://blog.ebola-cases.com](https://blog.ebola-cases.com)
- - date published: 2023-10-25T14:03:06.243885+00:00
- - user: None
- - tags: []
-
-## eBooks.com: Buy Fiction, Non-Fiction, and Textbooks Online
- - [https://www.ebooks.com](https://www.ebooks.com)
- - date published: 2023-10-25T08:24:01.860726+00:00
- - user: None
- - tags: []
-
-## Landing page2
- - [https://www.echoalex.com](https://www.echoalex.com)
- - date published: 2023-12-24T18:31:38.762345+00:00
- - user: None
- - tags: ['personal']
-
-## Chess puzzle, but you are what you capture
- - [https://echochess.com](https://echochess.com)
- - date published: 2024-03-26T04:46:01+00:00
- - user: None
- - tags: []
-
-## Echoes of Somewhere - Generative AI assisted experimental freeware 2.5D point and click adventure game research project
- - [https://echoesofsomewhere.com](https://echoesofsomewhere.com)
- - date published: 2023-10-25T14:03:11.162968+00:00
- - user: None
- - tags: []
-
-## EchoNewsHub » Latest World News, Entertainment, Business, Sports News, Celebrity Gossip
- - [https://echonewshub.com](https://echonewshub.com)
- - date published: 2023-10-25T14:03:15.908775+00:00
- - user: None
- - tags: []
-
-## Eclipsophile | Climatology and weather for celestial events
- - [https://eclipsophile.com](https://eclipsophile.com)
- - date published: 2024-04-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## EcommerceBytes - The leader of ecommerce news and information for online sellers. - EcommerceBytes
- - [https://www.ecommercebytes.com](https://www.ecommercebytes.com)
- - date published: 2023-10-25T14:03:19.723596+00:00
- - user: None
- - tags: []
 

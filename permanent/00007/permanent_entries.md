@@ -1,3 +1,231 @@
+## Yours for the making - Instructables
+ - [https://www.instructables.com](https://www.instructables.com)
+ - date published: 2023-10-25T11:14:25.074625+00:00
+ - user: None
+ - tags: ['hobby', 'craft']
+
+## UK Insurance News for Professionals | Insurance Business UK
+ - [https://www.insurancebusinessmag.com](https://www.insurancebusinessmag.com)
+ - date published: 2024-02-24T10:08:56.304975+00:00
+ - user: None
+ - tags: []
+
+## Insurance Journal - Property Casualty Insurance News
+ - [https://www.insurancejournal.com](https://www.insurancejournal.com)
+ - date published: 2023-10-25T15:21:48.247815+00:00
+ - user: None
+ - tags: []
+
+## Vybe Networks Inc
+ - [https://insuredsuccess.com](https://insuredsuccess.com)
+ - date published: 2024-02-08T18:21:11.856454+00:00
+ - user: None
+ - tags: []
+
+## Investor Relations :: Intel Corporation (INTC)
+ - [https://www.intc.com](https://www.intc.com)
+ - date published: 2023-10-25T15:21:50.506769+00:00
+ - user: None
+ - tags: []
+
+## IntechOpen  - Open Science Open Minds | IntechOpen
+ - [https://www.intechopen.com](https://www.intechopen.com)
+ - date published: 2023-10-25T15:21:54.068558+00:00
+ - user: None
+ - tags: []
+
+## https://www.intego.com
+ - [https://www.intego.com](https://www.intego.com)
+ - date published: 2023-10-25T15:21:54.364591+00:00
+ - user: None
+ - tags: []
+
+## Integral Table
+ - [https://www.integral-table.com](https://www.integral-table.com)
+ - date published: 2014-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Intel product specifications
+ - [https://ark.intel.com](https://ark.intel.com)
+ - date published: 2024-03-03T21:26:30.990056+00:00
+ - user: None
+ - tags: []
+
+## Home - Intel Community
+ - [https://community.intel.com](https://community.intel.com)
+ - date published: 2023-10-25T15:21:56.948897+00:00
+ - user: None
+ - tags: []
+
+## Intel | Data Center Solutions, IoT, and PC Innovation
+ - [https://www.intel.com](https://www.intel.com)
+ - date published: 2023-10-25T11:28:01.096443+00:00
+ - user: None
+ - tags: ['semiconductors']
+
+## Intellectual Mathematics
+ - [https://intellectualmathematics.com](https://intellectualmathematics.com)
+ - date published: 2023-10-25T15:22:00.515791+00:00
+ - user: None
+ - tags: []
+
+## https://intellexa.com
+ - [https://intellexa.com](https://intellexa.com)
+ - date published: 2024-02-07T00:52:17.319270+00:00
+ - user: None
+ - tags: []
+
+## Global Strategic Intelligence - Intelligence Online
+ - [https://www.intelligenceonline.com](https://www.intelligenceonline.com)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: rumpel
+ - tags: ['government intelligence news']
+
+## bne IntelliNews
+ - [https://intellinews.com](https://intellinews.com)
+ - date published: 2023-12-10T21:23:00.758981+00:00
+ - user: None
+ - tags: []
+
+## StorIQ Intelligent Appliances - Nouveautés
+ - [https://blogs.intellique.com](https://blogs.intellique.com)
+ - date published: 2024-01-09T02:40:02.542574+00:00
+ - user: None
+ - tags: []
+
+## IntelTechniques by Michael Bazzell
+ - [https://inteltechniques.com](https://inteltechniques.com)
+ - date published: 2023-11-13T19:48:16.653750+00:00
+ - user: None
+ - tags: []
+
+## UX Design, Research, Strategy and Development | Interactivism
+ - [https://interactivism.com](https://interactivism.com)
+ - date published: 2024-02-08T17:48:17.591087+00:00
+ - user: None
+ - tags: []
+
+## Making Internet Business Personal | Intercom
+ - [https://www.intercom.com](https://www.intercom.com)
+ - date published: 2023-10-25T15:22:04.178717+00:00
+ - user: None
+ - tags: []
+
+## Interesting Authors
+ - [https://interestingauthors.com](https://interestingauthors.com)
+ - date published: 2023-10-25T15:22:05.352911+00:00
+ - user: None
+ - tags: []
+
+## Interesting Engineering | Technology, Science, Innovation News and Videos
+ - [https://interestingengineering.com](https://interestingengineering.com)
+ - date published: 2023-10-25T15:22:09.608324+00:00
+ - user: None
+ - tags: []
+
+## Interior AI: Interior Design Ideas Inspiration, and Virtual Staging App using Artifical Intelligence
+ - [https://interiorai.com](https://interiorai.com)
+ - date published: 2023-10-25T15:22:13.484560+00:00
+ - user: None
+ - tags: []
+
+## Interjected Future
+ - [https://interjectedfuture.com](https://interjectedfuture.com)
+ - date published: 2024-01-08T19:51:53.885964+00:00
+ - user: None
+ - tags: []
+
+## International Banker - Authoritative Analysis on International Banking
+ - [https://internationalbanker.com](https://internationalbanker.com)
+ - date published: 2023-10-25T15:22:22.560373+00:00
+ - user: None
+ - tags: []
+
+## 503 Service Temporarily Unavailable
+ - [https://www.internetevolution.com](https://www.internetevolution.com)
+ - date published: 2024-02-24T18:21:00.620467+00:00
+ - user: None
+ - tags: []
+
+## Internet Live Stats - Internet Usage & Social Media Statistics
+ - [https://www.internetlivestats.com](https://www.internetlivestats.com)
+ - date published: 2023-10-27T10:42:11.444183+00:00
+ - user: None
+ - tags: ['internet', 'knowledge']
+
+## Internet Radio: Music from Thousands of Stations
+ - [https://www.internet-radio.com](https://www.internet-radio.com)
+ - date published: 2024-02-15T22:15:18.863084+00:00
+ - user: None
+ - tags: ['radio']
+
+## Interplay
+ - [https://interplay.com](https://interplay.com)
+ - date published: 2024-02-09T15:39:26+00:00
+ - user: rumpel
+ - tags: ['video game developer', 'fallout', "baldur's gate"]
+
+## Writing An Interpreter In Go | Thorsten Ball
+ - [https://interpreterbook.com](https://interpreterbook.com)
+ - date published: 2023-10-25T15:22:24.901419+00:00
+ - user: None
+ - tags: []
+
+## In These Times
+ - [https://inthesetimes.com](https://inthesetimes.com)
+ - date published: 2023-11-22T17:18:56.607913+00:00
+ - user: None
+ - tags: []
+
+## Intigriti - Bug Bounty & Agile Pentesting Platform
+ - [https://go.intigriti.com](https://go.intigriti.com)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Intigriti - Bug Bounty & Agile Pentesting Platform
+ - [https://www.intigriti.com](https://www.intigriti.com)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: None
+ - tags: ['hacking', 'cybersecurity']
+
+## Into Far Lands | Explore and Experience through Stories
+ - [https://www.intofarlands.com](https://www.intofarlands.com)
+ - date published: 2023-10-25T15:22:27.653615+00:00
+ - user: None
+ - tags: []
+
+## INTO THE AM | Elevated Everyday Apparel for Men
+ - [https://intotheam.com](https://intotheam.com)
+ - date published: 2024-03-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## INTO THE AM | Elevated Everyday Apparel for Men
+ - [https://www.intotheam.com](https://www.intotheam.com)
+ - date published: 2024-02-02T00:00:00+00:00
+ - user: rumpel
+ - tags: ['shop']
+
+## IntuitionBase - Your Guide To AmigaOS4.x And The AmigaOne
+ - [https://www.intuitionbase.com](https://www.intuitionbase.com)
+ - date published: 2023-12-13T15:07:26.825057+00:00
+ - user: None
+ - tags: ['amiga']
+
+## None
+ - [https://www.intuitive.com](https://www.intuitive.com)
+ - date published: 2024-03-16T05:51:42.420065+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Intuitive Explanations
+ - [https://intuitiveexplanations.com](https://intuitiveexplanations.com)
+ - date published: 2023-10-25T15:22:28.404219+00:00
+ - user: None
+ - tags: []
+
 ## Home | Intuitive Machines
  - [https://www.intuitivemachines.com](https://www.intuitivemachines.com)
  - date published: 2024-02-22T14:10:27.870898+00:00
@@ -1592,7 +1820,7 @@
  - [https://jeradhill.com](https://jeradhill.com)
  - date published: 2023-08-15T17:30:54+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Jeremey DuVall — Customer-Focused Product Manager
  - [https://jeremeyduvall.com](https://jeremeyduvall.com)
@@ -2074,6 +2302,12 @@
  - user: None
  - tags: ['evtol', 'aviation']
 
+## Journal of Commerce
+ - [https://www.joc.com](https://www.joc.com)
+ - date published: 2024-03-27T19:40:30.319329+00:00
+ - user: None
+ - tags: []
+
 ## Jodie Cook
  - [https://www.jodiecook.com](https://www.jodiecook.com)
  - date published: 2024-01-11T17:10:27.205427+00:00
@@ -2431,6 +2665,12 @@
 ## Korea JoongAng Daily
  - [https://koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com)
  - date published: 2023-10-25T15:31:01.479422+00:00
+ - user: None
+ - tags: []
+
+## OtherSpace MUSH
+ - [https://www.jointhesaga.com](https://www.jointhesaga.com)
+ - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3092,7 +3332,7 @@
  - [https://justbeamit.com](https://justbeamit.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: rumpel
- - tags: ['file sharing']
+ - tags: ['file send']
 
 ## Get Beep! Best Collaboration Tool for 4x Faster Online Communication
  - [https://www.justbeepit.com](https://www.justbeepit.com)
@@ -4164,16 +4404,16 @@
  - tags: []
 
 ## KhalsaLabs
- - [https://khalsalabs.com](https://khalsalabs.com)
- - date published: 2023-11-06T09:36:09.883241+00:00
- - user: None
- - tags: ['tech news']
-
-## KhalsaLabs
  - [http://khalsalabs.com](http://khalsalabs.com)
  - date published: 2024-02-26T08:31:49.987694+00:00
  - user: None
  - tags: []
+
+## KhalsaLabs
+ - [https://khalsalabs.com](https://khalsalabs.com)
+ - date published: 2023-11-06T09:36:09.883241+00:00
+ - user: None
+ - tags: ['tech news']
 
 ## Adil Khashtamov's personal blog — pragmatic programmer
  - [https://khashtamov.com](https://khashtamov.com)
@@ -4247,7 +4487,7 @@
  - user: None
  - tags: []
 
-## https://www.kickstarter.com
+## Cierpliwości...
  - [https://www.kickstarter.com](https://www.kickstarter.com)
  - date published: 2023-10-25T11:34:13.762253+00:00
  - user: None
@@ -4644,16 +4884,16 @@
  - tags: ['demoscene']
 
 ## Kohina Web Player
- - [https://player.kohina.com](https://player.kohina.com)
- - date published: 2023-10-25T15:38:24.816845+00:00
- - user: None
- - tags: ['keygen', 'chiptune']
-
-## Kohina Web Player
  - [http://player.kohina.com](http://player.kohina.com)
  - date published: 2024-02-15T02:00:14.788563+00:00
  - user: None
  - tags: []
+
+## Kohina Web Player
+ - [https://player.kohina.com](https://player.kohina.com)
+ - date published: 2023-10-25T15:38:24.816845+00:00
+ - user: None
+ - tags: ['keygen', 'chiptune']
 
 ## Access Restricted
  - [https://www.koin.com](https://www.koin.com)
@@ -5141,6 +5381,12 @@
  - user: None
  - tags: []
 
+## KWQC | Iowa Local News, Weather, Sports | Davenport, IA
+ - [https://www.kwqc.com](https://www.kwqc.com)
+ - date published: 2024-03-27T12:42:35.185948+00:00
+ - user: None
+ - tags: []
+
 ## Access Restricted
  - [https://www.kxan.com](https://www.kxan.com)
  - date published: 2023-12-21T13:56:45.038078+00:00
@@ -5184,14 +5430,14 @@
  - tags: ['personal']
 
 ## Kyle Halladay - Home Page
- - [https://kylehalladay.com](https://kylehalladay.com)
- - date published: 2024-01-09T02:41:26.783231+00:00
+ - [http://kylehalladay.com](http://kylehalladay.com)
+ - date published: 2021-07-14T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Kyle Halladay - Home Page
- - [http://kylehalladay.com](http://kylehalladay.com)
- - date published: 2021-07-14T00:00:00+00:00
+ - [https://kylehalladay.com](https://kylehalladay.com)
+ - date published: 2024-01-09T02:41:26.783231+00:00
  - user: None
  - tags: []
 
@@ -5250,16 +5496,16 @@
  - tags: []
 
 ## La Femme | Official Website
- - [http://www.lafemmemusic.com](http://www.lafemmemusic.com)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## La Femme | Official Website
  - [https://www.lafemmemusic.com](https://www.lafemmemusic.com)
  - date published: 2024-01-19T00:00:00+00:00
  - user: rumpel
  - tags: ['music band']
+
+## La Femme | Official Website
+ - [http://www.lafemmemusic.com](http://www.lafemmemusic.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Lagged - Free Online Games on Lagged.com
  - [https://lagged.com](https://lagged.com)
@@ -5565,7 +5811,7 @@
  - [https://www.latimes.com](https://www.latimes.com)
  - date published: 2023-10-25T15:42:35.013271+00:00
  - user: None
- - tags: []
+ - tags: ['news']
 
 ## LATTE - Luxury Australian Travel Trade Enews - LATTE Luxury News
  - [https://latteluxurynews.com](https://latteluxurynews.com)
@@ -5704,7 +5950,7 @@ Chamber Music, Symphony
  - [https://lbry.com](https://lbry.com)
  - date published: 2023-10-25T11:44:31.083607+00:00
  - user: None
- - tags: ['video streaming']
+ - tags: ['file sharing', 'video streaming']
 
 ## LCPDFR.com
  - [https://www.lcpdfr.com](https://www.lcpdfr.com)
@@ -5753,250 +5999,4 @@ Chamber Music, Symphony
  - date published: 2023-11-21T09:09:34.603189+00:00
  - user: None
  - tags: []
-
-## Shopping | Branded Clothing Retailers | Leading Labels Store
- - [https://www.leading-labels.com](https://www.leading-labels.com)
- - date published: 2024-01-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Leaflet — an open-source JavaScript library for interactive maps
- - [https://leafletjs.com](https://leafletjs.com)
- - date published: 2023-12-11T13:13:52+00:00
- - user: rumpel
- - tags: ['maps', 'leaflet', 'service maps', 'open street maps', 'open source']
-
-## LoL Champions & Summoners Stats & Rankings - LeagueOfGraphs
- - [https://www.leagueofgraphs.com](https://www.leagueofgraphs.com)
- - date published: 2023-11-12T07:39:06.736085+00:00
- - user: None
- - tags: []
-
-## https://www.leagueoflegends.com
- - [https://www.leagueoflegends.com](https://www.leagueoflegends.com)
- - date published: 2023-11-02T10:41:02.774533+00:00
- - user: None
- - tags: []
-
-## And now it’s all this
- - [https://leancrew.com](https://leancrew.com)
- - date published: 2023-10-25T08:58:14.214738+00:00
- - user: None
- - tags: ['personal']
-
-## And now it’s all this
- - [https://www.leancrew.com](https://www.leancrew.com)
- - date published: 2024-01-09T02:41:51.560090+00:00
- - user: None
- - tags: []
-
-## Leandro Linares
- - [https://leandrolinares.com](https://leandrolinares.com)
- - date published: 2023-11-06T10:16:31.848185+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## JavaFiddle - Build and share Java code snippets in your browser
- - [https://javafiddle.leaningtech.com](https://javafiddle.leaningtech.com)
- - date published: 2023-10-25T15:43:39.439255+00:00
- - user: None
- - tags: []
-
-## Leaning Technologies Developer
- - [https://labs.leaningtech.com](https://labs.leaningtech.com)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## We Are WebAssembly Experts | Leaning Technologies
- - [https://leaningtech.com](https://leaningtech.com)
- - date published: 2023-10-25T15:43:41.678164+00:00
- - user: None
- - tags: []
-
-## Leanne Hughes
- - [https://www.leannehughes.com](https://www.leannehughes.com)
- - date published: 2023-12-05T14:36:52.780515+00:00
- - user: None
- - tags: ['personal']
-
-## Leanpub: Publish Early, Publish Often
- - [https://leanpub.com](https://leanpub.com)
- - date published: 2023-12-11T19:00:55.011813+00:00
- - user: None
- - tags: []
-
-## leanrada.com
- - [https://leanrada.com](https://leanrada.com)
- - date published: 2024-02-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## LeapSecond Home Page
- - [http://leapsecond.com](http://leapsecond.com)
- - date published: 2023-10-25T15:43:48.984506+00:00
- - user: None
- - tags: []
-
-## LeapSecond Home Page
- - [http://www.leapsecond.com](http://www.leapsecond.com)
- - date published: 2023-10-25T15:43:50.814570+00:00
- - user: None
- - tags: []
-
-## App Builder: No-Code App Maker to Build Apps | Free Trial
- - [https://learnappmaking.com](https://learnappmaking.com)
- - date published: 2023-12-21T08:23:02.881170+00:00
- - user: None
- - tags: ['personal']
-
-## Learn C++ – Skill up with our free tutorials
- - [https://www.learncpp.com](https://www.learncpp.com)
- - date published: 2023-10-25T15:43:56.323518+00:00
- - user: None
- - tags: []
-
-## Learn and Test DMARC
- - [https://www.learndmarc.com](https://www.learndmarc.com)
- - date published: 2023-10-25T15:43:57.010265+00:00
- - user: None
- - tags: []
-
-## Prepare for your JavaScript Interview - Covering all the rounds
- - [https://learnersbucket.com](https://learnersbucket.com)
- - date published: 2023-12-23T19:27:19.268649+00:00
- - user: None
- - tags: ['personal']
-
-## AI-Powered AI News | Emergent Mind
- - [https://www.learngpt.com](https://www.learngpt.com)
- - date published: 2023-10-25T15:44:04.488107+00:00
- - user: None
- - tags: []
-
-## Hardcore Software by Steven Sinofsky | Substack
- - [https://hardcoresoftware.learningbyshipping.com](https://hardcoresoftware.learningbyshipping.com)
- - date published: 2023-10-25T15:44:07.575535+00:00
- - user: None
- - tags: []
-
-## Learning to Cook Food
- - [https://www.learningtocookfood.com](https://www.learningtocookfood.com)
- - date published: 2023-12-20T21:30:27.994041+00:00
- - user: None
- - tags: ['personal']
-
-## Learn Code the Hard Way
- - [https://learnjsthehardway.com](https://learnjsthehardway.com)
- - date published: 2023-10-25T15:44:09.394971+00:00
- - user: None
- - tags: []
-
-## Learn Modern C++
- - [https://learnmoderncpp.com](https://learnmoderncpp.com)
- - date published: 2023-12-26T08:18:03+00:00
- - user: None
- - tags: []
-
-## Learn OpenGL, extensive tutorial resource for learning Modern OpenGL
- - [https://learnopengl.com](https://learnopengl.com)
- - date published: 2024-03-04T10:49:03+00:00
- - user: rumpel
- - tags: []
-
-## Learn TLA+ — Learn TLA+
- - [https://learntla.com](https://learntla.com)
- - date published: 2023-10-25T15:44:15.064986+00:00
- - user: None
- - tags: []
-
-## Learn X in Y Minutes: Scenic Programming Language Tours
- - [https://learnxinyminutes.com](https://learnxinyminutes.com)
- - date published: 2023-10-25T15:44:16.698078+00:00
- - user: None
- - tags: []
-
-## Le blog Récifal – Aquarium d'eau de mer tropicale
- - [https://le-blog-recifal.com](https://le-blog-recifal.com)
- - date published: 2023-12-09T16:39:06.936796+00:00
- - user: None
- - tags: ['personal']
-
-## Lectronz
- - [https://lectronz.com](https://lectronz.com)
- - date published: 2023-10-25T15:44:18.811085+00:00
- - user: None
- - tags: []
-
-## Ledger Labs
- - [https://blog.ledger.com](https://blog.ledger.com)
- - date published: 2023-10-25T15:44:20.094476+00:00
- - user: None
- - tags: []
-
-## Ledger - Home of the first and only certified Hardware wallets | Ledger
- - [https://shop.ledger.com](https://shop.ledger.com)
- - date published: 2023-10-25T15:44:25.359911+00:00
- - user: None
- - tags: []
-
-## Hardware Wallet & Cold Wallet - Security for Crypto | Ledger
- - [https://www.ledger.com](https://www.ledger.com)
- - date published: 2023-11-15T11:58:20.402642+00:00
- - user: None
- - tags: []
-
-## Led Zeppelin | Official Website Official Website
- - [https://www.ledzeppelin.com](https://www.ledzeppelin.com)
- - date published: 2023-11-13T11:08:15.197735+00:00
- - user: None
- - tags: ['music band']
-
-## Little Short Bulletins | Likely Some Balderdash
- - [https://www.leebutterman.com](https://www.leebutterman.com)
- - date published: 2023-10-25T15:44:26.549554+00:00
- - user: None
- - tags: []
-
-## Lee Byron
- - [https://leebyron.com](https://leebyron.com)
- - date published: 2023-10-25T15:44:27.988608+00:00
- - user: None
- - tags: []
-
-## Lee Fang | Substack
- - [https://www.leefang.com](https://www.leefang.com)
- - date published: 2023-10-25T15:44:30.439070+00:00
- - user: None
- - tags: ['journalism']
-
-## Leeham News and Analysis
- - [https://leehamnews.com](https://leehamnews.com)
- - date published: 2024-03-12T17:42:46.755654+00:00
- - user: None
- - tags: []
-
-## Lee Kelleher
- - [https://leekelleher.com](https://leekelleher.com)
- - date published: 2024-01-05T01:04:04.453499+00:00
- - user: None
- - tags: []
-
-## leemeichin.com
- - [https://www.leemeichin.com](https://www.leemeichin.com)
- - date published: 2023-11-10T01:09:18.680703+00:00
- - user: None
- - tags: []
-
-## https://www.leenau.com
- - [https://www.leenau.com](https://www.leenau.com)
- - date published: 2024-02-08T16:28:51.965848+00:00
- - user: None
- - tags: []
-
-## Unconscious Bias Writer & Mental Wellness Advocate
- - [https://leesareneehall.com](https://leesareneehall.com)
- - date published: 2023-12-27T10:10:44.298707+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,249 @@
+## Shopping | Branded Clothing Retailers | Leading Labels Store
+ - [https://www.leading-labels.com](https://www.leading-labels.com)
+ - date published: 2024-01-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Leaflet — an open-source JavaScript library for interactive maps
+ - [https://leafletjs.com](https://leafletjs.com)
+ - date published: 2023-12-11T13:13:52+00:00
+ - user: rumpel
+ - tags: ['maps', 'leaflet', 'service maps', 'open street maps', 'open source']
+
+## LoL Champions & Summoners Stats & Rankings - LeagueOfGraphs
+ - [https://www.leagueofgraphs.com](https://www.leagueofgraphs.com)
+ - date published: 2023-11-12T07:39:06.736085+00:00
+ - user: None
+ - tags: []
+
+## https://www.leagueoflegends.com
+ - [https://www.leagueoflegends.com](https://www.leagueoflegends.com)
+ - date published: 2023-11-02T10:41:02.774533+00:00
+ - user: None
+ - tags: ['moba']
+
+## And now it’s all this
+ - [https://leancrew.com](https://leancrew.com)
+ - date published: 2023-10-25T08:58:14.214738+00:00
+ - user: None
+ - tags: ['personal']
+
+## And now it’s all this
+ - [https://www.leancrew.com](https://www.leancrew.com)
+ - date published: 2024-01-09T02:41:51.560090+00:00
+ - user: None
+ - tags: []
+
+## Leandro Linares
+ - [https://leandrolinares.com](https://leandrolinares.com)
+ - date published: 2023-11-06T10:16:31.848185+00:00
+ - user: None
+ - tags: ['blog', 'personal']
+
+## JavaFiddle - Build and share Java code snippets in your browser
+ - [https://javafiddle.leaningtech.com](https://javafiddle.leaningtech.com)
+ - date published: 2023-10-25T15:43:39.439255+00:00
+ - user: None
+ - tags: []
+
+## Leaning Technologies Developer
+ - [https://labs.leaningtech.com](https://labs.leaningtech.com)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## We Are WebAssembly Experts | Leaning Technologies
+ - [https://leaningtech.com](https://leaningtech.com)
+ - date published: 2023-10-25T15:43:41.678164+00:00
+ - user: None
+ - tags: []
+
+## Leanne Hughes
+ - [https://www.leannehughes.com](https://www.leannehughes.com)
+ - date published: 2023-12-05T14:36:52.780515+00:00
+ - user: None
+ - tags: ['personal']
+
+## Leanpub: Publish Early, Publish Often
+ - [https://leanpub.com](https://leanpub.com)
+ - date published: 2023-12-11T19:00:55.011813+00:00
+ - user: None
+ - tags: []
+
+## leanrada.com
+ - [https://leanrada.com](https://leanrada.com)
+ - date published: 2024-02-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## LeapSecond Home Page
+ - [http://leapsecond.com](http://leapsecond.com)
+ - date published: 2023-10-25T15:43:48.984506+00:00
+ - user: None
+ - tags: []
+
+## LeapSecond Home Page
+ - [http://www.leapsecond.com](http://www.leapsecond.com)
+ - date published: 2023-10-25T15:43:50.814570+00:00
+ - user: None
+ - tags: []
+
+## App Builder: No-Code App Maker to Build Apps | Free Trial
+ - [https://learnappmaking.com](https://learnappmaking.com)
+ - date published: 2023-12-21T08:23:02.881170+00:00
+ - user: None
+ - tags: ['personal']
+
+## Learn C++ – Skill up with our free tutorials
+ - [https://www.learncpp.com](https://www.learncpp.com)
+ - date published: 2023-10-25T15:43:56.323518+00:00
+ - user: None
+ - tags: []
+
+## Learn and Test DMARC
+ - [https://www.learndmarc.com](https://www.learndmarc.com)
+ - date published: 2023-10-25T15:43:57.010265+00:00
+ - user: None
+ - tags: []
+
+## Prepare for your JavaScript Interview - Covering all the rounds
+ - [https://learnersbucket.com](https://learnersbucket.com)
+ - date published: 2023-12-23T19:27:19.268649+00:00
+ - user: None
+ - tags: ['personal']
+
+## AI-Powered AI News | Emergent Mind
+ - [https://www.learngpt.com](https://www.learngpt.com)
+ - date published: 2023-10-25T15:44:04.488107+00:00
+ - user: None
+ - tags: []
+
+## Hardcore Software by Steven Sinofsky | Substack
+ - [https://hardcoresoftware.learningbyshipping.com](https://hardcoresoftware.learningbyshipping.com)
+ - date published: 2023-10-25T15:44:07.575535+00:00
+ - user: None
+ - tags: []
+
+## Learning to Cook Food
+ - [https://www.learningtocookfood.com](https://www.learningtocookfood.com)
+ - date published: 2023-12-20T21:30:27.994041+00:00
+ - user: None
+ - tags: ['personal']
+
+## Learn Code the Hard Way
+ - [https://learnjsthehardway.com](https://learnjsthehardway.com)
+ - date published: 2023-10-25T15:44:09.394971+00:00
+ - user: None
+ - tags: []
+
+## Learn Modern C++
+ - [https://learnmoderncpp.com](https://learnmoderncpp.com)
+ - date published: 2023-12-26T08:18:03+00:00
+ - user: None
+ - tags: []
+
+## Learn OpenGL, extensive tutorial resource for learning Modern OpenGL
+ - [https://learnopengl.com](https://learnopengl.com)
+ - date published: 2024-03-04T10:49:03+00:00
+ - user: rumpel
+ - tags: []
+
+## Learn TLA+ — Learn TLA+
+ - [https://learntla.com](https://learntla.com)
+ - date published: 2023-10-25T15:44:15.064986+00:00
+ - user: None
+ - tags: []
+
+## Learn X in Y Minutes: Scenic Programming Language Tours
+ - [https://learnxinyminutes.com](https://learnxinyminutes.com)
+ - date published: 2023-10-25T15:44:16.698078+00:00
+ - user: None
+ - tags: []
+
+## Le blog Récifal – Aquarium d'eau de mer tropicale
+ - [https://le-blog-recifal.com](https://le-blog-recifal.com)
+ - date published: 2023-12-09T16:39:06.936796+00:00
+ - user: None
+ - tags: ['personal']
+
+## Lectronz
+ - [https://lectronz.com](https://lectronz.com)
+ - date published: 2023-10-25T15:44:18.811085+00:00
+ - user: None
+ - tags: []
+
+## Ledger Labs
+ - [https://blog.ledger.com](https://blog.ledger.com)
+ - date published: 2023-10-25T15:44:20.094476+00:00
+ - user: None
+ - tags: []
+
+## Ledger - Home of the first and only certified Hardware wallets | Ledger
+ - [https://shop.ledger.com](https://shop.ledger.com)
+ - date published: 2023-10-25T15:44:25.359911+00:00
+ - user: None
+ - tags: []
+
+## Hardware Wallet & Cold Wallet - Security for Crypto | Ledger
+ - [https://www.ledger.com](https://www.ledger.com)
+ - date published: 2023-11-15T11:58:20.402642+00:00
+ - user: None
+ - tags: []
+
+## Led Zeppelin | Official Website Official Website
+ - [https://www.ledzeppelin.com](https://www.ledzeppelin.com)
+ - date published: 2023-11-13T11:08:15.197735+00:00
+ - user: None
+ - tags: ['music band']
+
+## Little Short Bulletins | Likely Some Balderdash
+ - [https://www.leebutterman.com](https://www.leebutterman.com)
+ - date published: 2023-10-25T15:44:26.549554+00:00
+ - user: None
+ - tags: []
+
+## Lee Byron
+ - [https://leebyron.com](https://leebyron.com)
+ - date published: 2023-10-25T15:44:27.988608+00:00
+ - user: None
+ - tags: []
+
+## Lee Fang | Substack
+ - [https://www.leefang.com](https://www.leefang.com)
+ - date published: 2023-10-25T15:44:30.439070+00:00
+ - user: None
+ - tags: ['journalism']
+
+## Leeham News and Analysis
+ - [https://leehamnews.com](https://leehamnews.com)
+ - date published: 2024-03-12T17:42:46.755654+00:00
+ - user: None
+ - tags: []
+
+## Lee Kelleher
+ - [https://leekelleher.com](https://leekelleher.com)
+ - date published: 2024-01-05T01:04:04.453499+00:00
+ - user: None
+ - tags: []
+
+## leemeichin.com
+ - [https://www.leemeichin.com](https://www.leemeichin.com)
+ - date published: 2023-11-10T01:09:18.680703+00:00
+ - user: None
+ - tags: []
+
+## https://www.leenau.com
+ - [https://www.leenau.com](https://www.leenau.com)
+ - date published: 2024-02-08T16:28:51.965848+00:00
+ - user: None
+ - tags: []
+
+## Unconscious Bias Writer & Mental Wellness Advocate
+ - [https://leesareneehall.com](https://leesareneehall.com)
+ - date published: 2023-12-27T10:10:44.298707+00:00
+ - user: None
+ - tags: ['personal']
+
 ## LeftoverLocals
  - [https://leftoverlocals.com](https://leftoverlocals.com)
  - date published: 2024-01-16T18:51:21.183987+00:00
@@ -33,6 +279,18 @@
  - date published: 2023-11-13T13:00:37.232042+00:00
  - user: None
  - tags: ['entertainment news', 'movie news']
+
+## Legends of Kallisti
+ - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
+ - date published: 2024-03-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Legends of Kallisti
+ - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
+ - date published: 2024-03-27T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Legends of Localization - Exploring the best & worst game translations
  - [https://legendsoflocalization.com](https://legendsoflocalization.com)
@@ -1666,17 +1924,17 @@
  - user: None
  - tags: []
 
-## Linus Tech Tips Store
- - [https://www.lttstore.com](https://www.lttstore.com)
- - date published: 2023-12-21T17:45:27+00:00
- - user: rumpel
- - tags: ['merchendise', 'tech']
-
 ## LTTStore
  - [http://www.lttstore.com](http://www.lttstore.com)
  - date published: 2024-02-03T00:00:00+00:00
  - user: None
  - tags: []
+
+## Linus Tech Tips Store
+ - [https://www.lttstore.com](https://www.lttstore.com)
+ - date published: 2023-12-21T17:45:27+00:00
+ - user: rumpel
+ - tags: ['merchendise', 'tech']
 
 ## Whale LAN
  - [https://www.ltxexpo.com](https://www.ltxexpo.com)
@@ -1814,6 +2072,12 @@
 diversions.
  - [https://lushprojects.com](https://lushprojects.com)
  - date published: 2023-10-25T15:52:37.140335+00:00
+ - user: None
+ - tags: []
+
+## Lusternia: Join Text-Based Fantasy RPG World of Lusternia
+ - [https://www.lusternia.com](https://www.lusternia.com)
+ - date published: 2024-03-23T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2142,16 +2406,16 @@ diversions.
  - tags: []
 
 ## Maggie Appleton
- - [https://maggieappleton.com](https://maggieappleton.com)
- - date published: 2023-10-25T08:47:09.508828+00:00
- - user: None
- - tags: ['personal']
-
-## Maggie Appleton
  - [http://maggieappleton.com](http://maggieappleton.com)
  - date published: 2024-02-26T08:55:27.731076+00:00
  - user: None
  - tags: []
+
+## Maggie Appleton
+ - [https://maggieappleton.com](https://maggieappleton.com)
+ - date published: 2023-10-25T08:47:09.508828+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Magic Earth - Free Navigation & Maps App for Android and iPhone
  - [https://www.magicearth.com](https://www.magicearth.com)
@@ -3198,6 +3462,12 @@ diversions.
  - user: None
  - tags: []
 
+## Materia Magica - Old-School Text-Based Adventure
+ - [https://www.materiamagica.com](https://www.materiamagica.com)
+ - date published: 2024-03-27T20:51:10.088940+00:00
+ - user: None
+ - tags: ['mud game']
+
 ## Math3ma
  - [https://www.math3ma.com](https://www.math3ma.com)
  - date published: 2023-10-25T15:57:52.314185+00:00
@@ -3779,6 +4049,12 @@ diversions.
  - date published: 2023-10-25T10:46:01.116429+00:00
  - user: None
  - tags: []
+
+## Medievia - Do You Dare Enter?
+ - [https://www.medievia.com](https://www.medievia.com)
+ - date published: 2024-03-27T20:51:11.183692+00:00
+ - user: None
+ - tags: ['mud game']
 
 ## mediocregopher's lil web corner
  - [https://mediocregopher.com](https://mediocregopher.com)
@@ -5172,6 +5448,12 @@ diversions.
  - user: None
  - tags: []
 
+## Merentha
+ - [https://www.merentha.com](https://www.merentha.com)
+ - date published: 1996-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Official Home Page of Meresha
  - [https://meresha.com](https://meresha.com)
  - date published: 2023-12-30T22:22:49.884747+00:00
@@ -5717,287 +5999,4 @@ diversions.
  - date published: 2023-10-25T13:36:42.240354+00:00
  - user: None
  - tags: ['app store']
-
-## Find the right app | Microsoft AppSource
- - [https://appsource.microsoft.com](https://appsource.microsoft.com)
- - date published: 2023-10-25T16:03:13.347631+00:00
- - user: None
- - tags: []
-
-## Cloud Computing Services | Microsoft Azure
- - [https://azure.microsoft.com](https://azure.microsoft.com)
- - date published: 2023-10-25T16:03:25.472197+00:00
- - user: None
- - tags: []
-
-## Blog usługi Microsoft Fabric
- - [https://blog.fabric.microsoft.com](https://blog.fabric.microsoft.com)
- - date published: 2023-10-25T09:34:04.976907+00:00
- - user: None
- - tags: []
-
-## The Official Microsoft Blog
- - [https://blogs.microsoft.com](https://blogs.microsoft.com)
- - date published: 2023-10-25T09:34:08.525842+00:00
- - user: None
- - tags: []
-
-## Home - Cloud Perspectives Blog
- - [https://cloudblogs.microsoft.com](https://cloudblogs.microsoft.com)
- - date published: 2023-10-25T09:34:15.781614+00:00
- - user: None
- - tags: []
-
-## Microsoft Designer - Stunning designs in a flash
- - [https://designer.microsoft.com](https://designer.microsoft.com)
- - date published: 2023-10-25T16:03:31.208056+00:00
- - user: None
- - tags: []
-
-## DevBlogs - Microsoft Developer Blogs
- - [https://devblogs.microsoft.com](https://devblogs.microsoft.com)
- - date published: 2023-10-25T10:14:03.592606+00:00
- - user: None
- - tags: []
-
-## Microsoft Developer
- - [https://developer.microsoft.com](https://developer.microsoft.com)
- - date published: 2024-01-15T13:49:47.590358+00:00
- - user: None
- - tags: []
-
-## Microsoft Learn: Build skills that open doors in your career
- - [https://docs.microsoft.com](https://docs.microsoft.com)
- - date published: 2023-10-25T11:30:47.045143+00:00
- - user: None
- - tags: []
-
-## Search Jobs | Microsoft Careers
- - [https://jobs.careers.microsoft.com](https://jobs.careers.microsoft.com)
- - date published: 2023-10-25T11:31:38.386584+00:00
- - user: None
- - tags: []
-
-## Microsoft Learn: Build skills that open doors in your career
- - [https://learn.microsoft.com](https://learn.microsoft.com)
- - date published: 2023-10-25T11:30:34.619514+00:00
- - user: None
- - tags: []
-
-## Microsoft Security Response Center
- - [https://msrc.microsoft.com](https://msrc.microsoft.com)
- - date published: 2023-10-25T11:31:41.607143+00:00
- - user: None
- - tags: []
-
-## Homepage - Source
- - [https://news.microsoft.com](https://news.microsoft.com)
- - date published: 2023-10-25T10:52:37.879287+00:00
- - user: None
- - tags: []
-
-## Microsoft Support
- - [https://support.microsoft.com](https://support.microsoft.com)
- - date published: 2023-10-25T16:03:34.137323+00:00
- - user: None
- - tags: []
-
-## checking your credentials..
- - [https://teams.microsoft.com](https://teams.microsoft.com)
- - date published: 2023-10-25T16:03:34.551273+00:00
- - user: None
- - tags: []
-
-## Home - Microsoft Community Hub
- - [https://techcommunity.microsoft.com](https://techcommunity.microsoft.com)
- - date published: 2023-10-25T10:52:42.152193+00:00
- - user: None
- - tags: []
-
-## Visual Studio: IDE and Code Editor for Software Developers and Teams
- - [https://visualstudio.microsoft.com](https://visualstudio.microsoft.com)
- - date published: 2023-11-03T20:33:06.635502+00:00
- - user: None
- - tags: ['visual studio', 'programming ide']
-
-## Microsoft – chmura, komputery, aplikacje i gry
- - [https://www.microsoft.com](https://www.microsoft.com)
- - date published: 2023-10-25T11:26:39.907068+00:00
- - user: None
- - tags: ['gatekeeper', 'edge', 'company', 'web browser']
-
-## Office Insiders
- - [https://insider.microsoft365.com](https://insider.microsoft365.com)
- - date published: 2023-11-01T08:42:38.686906+00:00
- - user: None
- - tags: []
-
-## Sign in to your account
- - [https://login.microsoftonline.com](https://login.microsoftonline.com)
- - date published: 2023-12-11T17:43:06.294391+00:00
- - user: None
- - tags: []
-
-## Cloud-Based Medical Office Software & Billing Services
- - [https://microwize.com](https://microwize.com)
- - date published: 2024-02-25T18:54:11.386893+00:00
- - user: None
- - tags: []
-
-## Cloud-Based Medical Office Software & Billing Services
- - [https://www.microwize.com](https://www.microwize.com)
- - date published: 2024-01-10T14:29:04.664029+00:00
- - user: None
- - tags: []
-
-## Middle East Monitor
- - [https://www.middleeastmonitor.com](https://www.middleeastmonitor.com)
- - date published: 2023-11-05T15:09:13.933802+00:00
- - user: None
- - tags: []
-
-## Hudson Valley News - Daily Breaking Stories | Mid Hudson News
- - [https://midhudsonnews.com](https://midhudsonnews.com)
- - date published: 2023-11-24T15:24:08.581764+00:00
- - user: None
- - tags: []
-
-## https://www.midjourney.com
- - [https://www.midjourney.com](https://www.midjourney.com)
- - date published: 2023-10-25T11:35:57.322285+00:00
- - user: None
- - tags: ['artificial intelligence bot']
-
-## Search for Music Using Your Voice by Singing or Humming, View Music Videos, Join Fan Clubs, Share with Friends, Be Discovered and Much More For Free! - midomi.com
- - [https://www.midomi.com](https://www.midomi.com)
- - date published: 2023-10-28T18:42:53.364247+00:00
- - user: None
- - tags: ['music']
-
-## Homeport
- - [https://www.migaloo-submarines.com](https://www.migaloo-submarines.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mighil | Generalist in Chengdu
- - [https://mighil.com](https://mighil.com)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## MIT 24-Hour Challenge 2022 | MIT Annual Fund | Giving to MIT
- - [https://mit24hourchallenge.mightycause.com](https://mit24hourchallenge.mightycause.com)
- - date published: 2023-10-25T16:03:41.849852+00:00
- - user: None
- - tags: []
-
-## miguelgrinberg.com
- - [https://blog.miguelgrinberg.com](https://blog.miguelgrinberg.com)
- - date published: 2023-10-25T16:03:44.577554+00:00
- - user: None
- - tags: []
-
-## miguelgrinberg.com
- - [http://blog.miguelgrinberg.com](http://blog.miguelgrinberg.com)
- - date published: 2024-02-26T14:54:29.319980+00:00
- - user: None
- - tags: []
-
-## Miguel Piedrafita
- - [https://miguelpiedrafita.com](https://miguelpiedrafita.com)
- - date published: 2024-01-12T02:35:03.994676+00:00
- - user: None
- - tags: []
-
-## Sprezzatura
- - [https://mikaelsyding.com](https://mikaelsyding.com)
- - date published: 2023-12-31T21:20:59.573845+00:00
- - user: None
- - tags: []
-
-## mike beauchamp : occasional doer of stuff and maker of things
- - [http://mikebeauchamp.com](http://mikebeauchamp.com)
- - date published: 2023-10-25T16:03:50.613706+00:00
- - user: None
- - tags: []
-
-## Latest articles on design, development, and the world around me
- - [https://mikebifulco.com](https://mikebifulco.com)
- - date published: 2023-12-27T08:43:59.949594+00:00
- - user: None
- - tags: ['personal']
-
-## Mike Echlin Music - Mike Echlin
- - [https://www.mikeechlin.com](https://www.mikeechlin.com)
- - date published: 2024-01-09T19:18:53.663234+00:00
- - user: None
- - tags: []
-
-## MhWeb
-     · Phoenix Framework
- - [https://mike-hostetler.com](https://mike-hostetler.com)
- - date published: 2024-01-10T19:22:18.450167+00:00
- - user: None
- - tags: []
-
-## Mike Industries » A running commentary of occasionally interesting things — from Mike Davidson.
- - [https://mikeindustries.com](https://mikeindustries.com)
- - date published: 2024-01-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## MK Productions
- - [https://mikekilcoyne.com](https://mikekilcoyne.com)
- - date published: 2023-11-29T16:19:57.698565+00:00
- - user: None
- - tags: ['personal']
-
-## Mike Lull Custom Guitars
- - [https://www.mikelull.com](https://www.mikelull.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mike McQuaid | Workbrew CTO and Homebrew Project Leader
- - [https://mikemcquaid.com](https://mikemcquaid.com)
- - date published: 2023-10-25T16:03:53.506426+00:00
- - user: None
- - tags: []
-
-## Home - Mike Oldfield Official
- - [https://mikeoldfieldofficial.com](https://mikeoldfieldofficial.com)
- - date published: 2023-11-13T10:45:13.768890+00:00
- - user: None
- - tags: ['music band']
-
-## Mike Paul
- - [https://mikepaul.com](https://mikepaul.com)
- - date published: 2023-12-22T22:30:57.160444+00:00
- - user: None
- - tags: ['personal']
-
-## Mike Puchol – Medium
- - [https://mikepuchol.com](https://mikepuchol.com)
- - date published: 2023-10-25T16:03:56.379616+00:00
- - user: None
- - tags: []
-
-## Mike's Blog: Content Creation & Online Marketing Blogging Lifestyle
- - [https://mikesblog.com](https://mikesblog.com)
- - date published: 2024-01-10T14:29:50.005176+00:00
- - user: None
- - tags: []
-
-## I love computers
- - [https://www.mikesteder.com](https://www.mikesteder.com)
- - date published: 2023-10-25T16:03:58.740409+00:00
- - user: None
- - tags: []
-
-## Mike Sukmanowsky's Personal Site
- - [https://www.mikesukmanowsky.com](https://www.mikesukmanowsky.com)
- - date published: 2023-10-25T16:03:59.932190+00:00
- - user: None
- - tags: []
 

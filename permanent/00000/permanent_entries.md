@@ -88,6 +88,12 @@
  - user: None
  - tags: []
 
+## JetZero
+ - [https://www.jetzero.aero](https://www.jetzero.aero)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Stralis Aircraft – Emission free hydrogen electric aircraft
  - [https://stralis.aero](https://stralis.aero)
  - date published: 2023-11-20T20:24:12.351020+00:00
@@ -1241,13 +1247,13 @@
  - tags: []
 
 ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## http://hello.pi.ai/
- - [http://hello.pi.ai](http://hello.pi.ai)
+ - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -1285,6 +1291,12 @@
 ## Podcast Transcripts - PodText
  - [https://podtext.ai](https://podtext.ai)
  - date published: 2023-10-25T11:41:33.465633+00:00
+ - user: None
+ - tags: []
+
+## PointOne
+ - [https://pointone.ai](https://pointone.ai)
+ - date published: 2024-03-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2011,6 +2023,12 @@
 ## Every Door
  - [https://every-door.app](https://every-door.app)
  - date published: 2023-10-25T11:46:18.725740+00:00
+ - user: None
+ - tags: []
+
+## explanations.app
+ - [https://explanations.app](https://explanations.app)
+ - date published: 2024-03-27T10:11:03.132303+00:00
  - user: None
  - tags: []
 
@@ -3520,6 +3538,12 @@
  - user: None
  - tags: []
 
+## Grok
+ - [https://grokonline.com.au](https://grokonline.com.au)
+ - date published: 2015-07-03T00:52:47+00:00
+ - user: rumpel
+ - tags: ['student magazine', 'journal']
+
 ## Hermanns Guns
  - [https://hermannsguns.com.au](https://hermannsguns.com.au)
  - date published: 2023-12-22T08:11:12.058997+00:00
@@ -4288,17 +4312,17 @@
  - user: None
  - tags: []
 
-## Original Sling'n'shoot Worms Game
- - [http://www.liero.be](http://www.liero.be)
- - date published: 2023-12-28T18:40:30+00:00
- - user: None
- - tags: []
-
 ## Liero - Official website
  - [https://www.liero.be](https://www.liero.be)
  - date published: 2023-10-26T18:32:21.331231+00:00
  - user: None
  - tags: ['retro game', 'game']
+
+## Original Sling'n'shoot Worms Game
+ - [http://www.liero.be](http://www.liero.be)
+ - date published: 2023-12-28T18:40:30+00:00
+ - user: None
+ - tags: []
 
 ## Home
  - [https://www.mjvanhee.be](https://www.mjvanhee.be)
@@ -5381,6 +5405,12 @@
  - user: None
  - tags: []
 
+## Inferno3
+ - [https://www.inferno3.com.br](https://www.inferno3.com.br)
+ - date published: 2024-03-27T20:50:41.342565+00:00
+ - user: None
+ - tags: ['mud game']
+
 ## LkSvn
  - [https://lksvn.com.br](https://lksvn.com.br)
  - date published: 2021-04-30T00:00:00+00:00
@@ -5966,36 +5996,6 @@
 ## Winnipeg News | CTV News Winnipeg
  - [https://winnipeg.ctvnews.ca](https://winnipeg.ctvnews.ca)
  - date published: 2023-12-12T09:06:26.016061+00:00
- - user: None
- - tags: []
-
-## CTV News - Breaking News, Canada News Today
- - [https://www.ctvnews.ca](https://www.ctvnews.ca)
- - date published: 2023-12-07T21:20:38.599780+00:00
- - user: None
- - tags: ['canada news']
-
-## Cypherpunks Canada
- - [https://cypherpunks.ca](https://cypherpunks.ca)
- - date published: 2023-11-06T12:33:33.276999+00:00
- - user: None
- - tags: []
-
-## Dalhousie University ‑ Nova Scotia, Canada
- - [https://www.dal.ca](https://www.dal.ca)
- - date published: 2023-10-25T12:09:24.220580+00:00
- - user: None
- - tags: []
-
-## Daniel P. Gross
- - [https://dgross.ca](https://dgross.ca)
- - date published: 2023-10-25T09:02:15.935166+00:00
- - user: None
- - tags: ['personal']
-
-## Driving
- - [https://driving.ca](https://driving.ca)
- - date published: 2023-11-02T22:48:04.515862+00:00
  - user: None
  - tags: []
 
