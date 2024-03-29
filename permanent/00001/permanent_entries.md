@@ -1,3 +1,27 @@
+## Toronto News | Breaking News | CTV News Toronto
+ - [https://toronto.ctvnews.ca](https://toronto.ctvnews.ca)
+ - date published: 2023-10-25T10:56:11.669804+00:00
+ - user: None
+ - tags: []
+
+## Victoria News | Local Breaking | CTV News Vancouver Island
+ - [https://vancouverisland.ctvnews.ca](https://vancouverisland.ctvnews.ca)
+ - date published: 2023-12-12T09:06:50.809150+00:00
+ - user: None
+ - tags: []
+
+## Windsor News | Local Breaking | CTV News Windsor
+ - [https://windsor.ctvnews.ca](https://windsor.ctvnews.ca)
+ - date published: 2023-12-12T09:06:32.505848+00:00
+ - user: None
+ - tags: []
+
+## Winnipeg News | CTV News Winnipeg
+ - [https://winnipeg.ctvnews.ca](https://winnipeg.ctvnews.ca)
+ - date published: 2023-12-12T09:06:26.016061+00:00
+ - user: None
+ - tags: []
+
 ## CTV News - Breaking News, Canada News Today
  - [https://www.ctvnews.ca](https://www.ctvnews.ca)
  - date published: 2023-12-07T21:20:38.599780+00:00
@@ -808,6 +832,12 @@
  - date published: 2023-10-25T09:02:48.656185+00:00
  - user: None
  - tags: ['personal']
+
+## Visa, a trusted leader in digital payments
+ - [https://www.visa.ca](https://www.visa.ca)
+ - date published: 2024-03-28T07:01:27.954091+00:00
+ - user: None
+ - tags: []
 
 ## Vitalik Buterin's website
  - [https://vitalik.ca](https://vitalik.ca)
@@ -2727,6 +2757,12 @@
 ## Gotham Bagels Digital Ordering
  - [https://gothambagels-locations.hngr.co](https://gothambagels-locations.hngr.co)
  - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## [HueHive] - AI Toolkit
+ - [https://huehive.co](https://huehive.co)
+ - date published: 2000-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5965,40 +6001,4 @@
  - date published: 2024-02-09T14:01:11.712731+00:00
  - user: None
  - tags: ['personal']
-
-## Al Anany | Substack
- - [https://alanany.com](https://alanany.com)
- - date published: 2023-10-25T12:37:18.791716+00:00
- - user: None
- - tags: []
-
-## Al Anany | Substack
- - [https://www.alanany.com](https://www.alanany.com)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Alan Arnette
- - [https://www.alanarnette.com](https://www.alanarnette.com)
- - date published: 2024-03-15T09:22:12.136869+00:00
- - user: None
- - tags: ['personal']
-
-## Alan Zucconi
- - [http://www.alanzucconi.com](http://www.alanzucconi.com)
- - date published: 2019-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome
- - [https://www.alasdairb.com](https://www.alasdairb.com)
- - date published: 2023-10-25T12:37:20.783455+00:00
- - user: None
- - tags: []
-
-## Home - Alaska Beacon
- - [https://alaskabeacon.com](https://alaskabeacon.com)
- - date published: 2023-10-25T12:37:23.430042+00:00
- - user: None
- - tags: []
 

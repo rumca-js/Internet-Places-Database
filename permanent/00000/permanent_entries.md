@@ -538,6 +538,12 @@
  - user: None
  - tags: []
 
+## Eggnog
+ - [https://www.eggnog.ai](https://www.eggnog.ai)
+ - date published: 2024-03-28T17:08:22.087114+00:00
+ - user: None
+ - tags: []
+
 ## EleutherAI Blog
  - [https://blog.eleuther.ai](https://blog.eleuther.ai)
  - date published: 2023-10-25T11:34:47.381508+00:00
@@ -1480,6 +1486,12 @@
  - user: None
  - tags: []
 
+## Spice AI
+ - [https://spice.ai](https://spice.ai)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Spreadsheets are all you need: Understanding GPT2 and Transformers
  - [https://spreadsheets-are-all-you-need.ai](https://spreadsheets-are-all-you-need.ai)
  - date published: 2024-02-24T07:20:03+00:00
@@ -1970,7 +1982,7 @@
  - [https://dateforce.app](https://dateforce.app)
  - date published: 2023-10-25T11:45:57.324167+00:00
  - user: None
- - tags: []
+ - tags: ['dating']
 
 ## Doc Converter - Convert PDF files to Word documents (docx)
  - [https://docconverter.app](https://docconverter.app)
@@ -2293,6 +2305,12 @@
 ## Introduction to Modern Statistics (2nd Ed)
  - [https://openintro-ims2.netlify.app](https://openintro-ims2.netlify.app)
  - date published: 2023-10-25T11:47:41.166682+00:00
+ - user: None
+ - tags: []
+
+## Edgar, Build a Dyson Swarm
+ - [https://playedgar.netlify.app](https://playedgar.netlify.app)
+ - date published: 2024-03-28T18:06:55+00:00
  - user: None
  - tags: []
 
@@ -2647,6 +2665,12 @@
 ## TinyUX Frontpage (en) - TinyUX
  - [https://www.tinyux.app](https://www.tinyux.app)
  - date published: 2023-10-25T11:49:34.377568+00:00
+ - user: None
+ - tags: []
+
+## TripGeeks - where experiences happen
+ - [https://tripgeeks.app](https://tripgeeks.app)
+ - date published: 2024-03-28T17:08:23.215676+00:00
  - user: None
  - tags: []
 
@@ -5972,30 +5996,6 @@
 ## Access Denied
  - [https://stats.ctvnews.ca](https://stats.ctvnews.ca)
  - date published: 2023-12-12T08:41:53.588641+00:00
- - user: None
- - tags: []
-
-## Toronto News | Breaking News | CTV News Toronto
- - [https://toronto.ctvnews.ca](https://toronto.ctvnews.ca)
- - date published: 2023-10-25T10:56:11.669804+00:00
- - user: None
- - tags: []
-
-## Victoria News | Local Breaking | CTV News Vancouver Island
- - [https://vancouverisland.ctvnews.ca](https://vancouverisland.ctvnews.ca)
- - date published: 2023-12-12T09:06:50.809150+00:00
- - user: None
- - tags: []
-
-## Windsor News | Local Breaking | CTV News Windsor
- - [https://windsor.ctvnews.ca](https://windsor.ctvnews.ca)
- - date published: 2023-12-12T09:06:32.505848+00:00
- - user: None
- - tags: []
-
-## Winnipeg News | CTV News Winnipeg
- - [https://winnipeg.ctvnews.ca](https://winnipeg.ctvnews.ca)
- - date published: 2023-12-12T09:06:26.016061+00:00
  - user: None
  - tags: []
 

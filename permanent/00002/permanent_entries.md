@@ -1,3 +1,39 @@
+## Al Anany | Substack
+ - [https://alanany.com](https://alanany.com)
+ - date published: 2023-10-25T12:37:18.791716+00:00
+ - user: None
+ - tags: []
+
+## Al Anany | Substack
+ - [https://www.alanany.com](https://www.alanany.com)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Alan Arnette
+ - [https://www.alanarnette.com](https://www.alanarnette.com)
+ - date published: 2024-03-15T09:22:12.136869+00:00
+ - user: None
+ - tags: ['personal']
+
+## Alan Zucconi
+ - [http://www.alanzucconi.com](http://www.alanzucconi.com)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://www.alasdairb.com](https://www.alasdairb.com)
+ - date published: 2023-10-25T12:37:20.783455+00:00
+ - user: None
+ - tags: []
+
+## Home - Alaska Beacon
+ - [https://alaskabeacon.com](https://alaskabeacon.com)
+ - date published: 2023-10-25T12:37:23.430042+00:00
+ - user: None
+ - tags: []
+
 ## Alastair Johnston
  - [https://alastairjohnston.com](https://alastairjohnston.com)
  - date published: 2024-01-12T18:47:13.689115+00:00
@@ -959,14 +995,14 @@
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
- - date published: 2018-01-01T00:00:00+00:00
+ - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
+ - date published: 2024-01-09T02:29:24.245847+00:00
  - user: None
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
- - date published: 2024-01-09T02:29:24.245847+00:00
+ - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
+ - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1739,16 +1775,16 @@
  - tags: []
 
 ## Home - That Joe Scott
- - [https://www.answerswithjoe.com](https://www.answerswithjoe.com)
- - date published: 2024-02-22T16:48:46+00:00
- - user: rumpel
- - tags: ['youtuber', 'merchendise']
-
-## Home - That Joe Scott
  - [http://www.answerswithjoe.com](http://www.answerswithjoe.com)
  - date published: 2024-02-23T01:16:31.865369+00:00
  - user: None
  - tags: []
+
+## Home - That Joe Scott
+ - [https://www.answerswithjoe.com](https://www.answerswithjoe.com)
+ - date published: 2024-02-22T16:48:46+00:00
+ - user: rumpel
+ - tags: ['youtuber', 'merchendise']
 
 ## https://www.antennalaunchers.com
  - [https://www.antennalaunchers.com](https://www.antennalaunchers.com)
@@ -3574,6 +3610,12 @@
  - user: None
  - tags: ['program', 'open source']
 
+## Home - AutoIt
+ - [https://www.autoitscript.com](https://www.autoitscript.com)
+ - date published: 2024-03-28T19:32:33.489700+00:00
+ - user: None
+ - tags: ['windows scripts']
+
 ## AUTOMATON | オートマトンは日本・海外のゲーム情報サイト。ニュースやレビューを発信中
  - [https://automaton-media.com](https://automaton-media.com)
  - date published: 2023-10-25T12:49:11.341820+00:00
@@ -4505,14 +4547,14 @@
  - tags: []
 
 ## Bay 12 Games: Dwarf Fortress
- - [http://www.bay12games.com](http://www.bay12games.com)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://www.bay12games.com](https://www.bay12games.com)
+ - date published: 2023-10-25T11:08:28.145829+00:00
  - user: None
  - tags: []
 
 ## Bay 12 Games: Dwarf Fortress
- - [https://www.bay12games.com](https://www.bay12games.com)
- - date published: 2023-10-25T11:08:28.145829+00:00
+ - [http://www.bay12games.com](http://www.bay12games.com)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5134,6 +5176,12 @@
  - user: None
  - tags: ['personal']
 
+## Many developers don't speak to users or collaborate with the business
+ - [https://bettersoftwarerequirements.com](https://bettersoftwarerequirements.com)
+ - date published: 2024-03-27T22:01:45+00:00
+ - user: None
+ - tags: []
+
 ## Better Stack: Spot, Resolve, and Prevent Downtime.
  - [https://betterstack.com](https://betterstack.com)
  - date published: 2024-01-13T17:50:35.249216+00:00
@@ -5387,14 +5435,14 @@
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [https://billingsgazette.com](https://billingsgazette.com)
- - date published: 2023-12-17T18:30:53.119094+00:00
+ - [http://billingsgazette.com](http://billingsgazette.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [http://billingsgazette.com](http://billingsgazette.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://billingsgazette.com](https://billingsgazette.com)
+ - date published: 2023-12-17T18:30:53.119094+00:00
  - user: None
  - tags: []
 
@@ -5656,6 +5704,12 @@
  - user: rumpel
  - tags: ['video streaming']
 
+## Buy Bitcoin & cryptocurrency | Wallet, news, education.
+ - [https://bitcoin.com](https://bitcoin.com)
+ - date published: 2024-03-28T08:17:49+00:00
+ - user: rumpel
+ - tags: ['crypto news']
+
 ## Bitcoin.com News
  - [https://news.bitcoin.com](https://news.bitcoin.com)
  - date published: 2023-10-25T13:01:10.196623+00:00
@@ -5745,6 +5799,12 @@
  - date published: 2023-10-25T13:02:11.353143+00:00
  - user: None
  - tags: []
+
+## Bitrix24 - darmowa przestrzeń robocza dla Twojego biznesu: CRM, zadania, spotkania online i nie tylko.
+ - [https://www.bitrix24.com](https://www.bitrix24.com)
+ - date published: 2024-03-28T06:57:07+00:00
+ - user: rumpel
+ - tags: ['crm', 'cms']
 
 ## Matt Dunphy - bitrotten.com - Audio, Photo, Video
  - [https://www.bitrotten.com](https://www.bitrotten.com)
@@ -5937,64 +5997,4 @@
  - date published: 2023-11-13T11:07:53.514482+00:00
  - user: None
  - tags: ['music band']
-
-## Black Swan Street
- - [https://www.blackswanstreet.com](https://www.blackswanstreet.com)
- - date published: 2023-10-25T13:04:16.289564+00:00
- - user: None
- - tags: []
-
-## BLACKWING INTELLIGENCE
- - [https://blackwinghq.com](https://blackwinghq.com)
- - date published: 2023-11-22T18:18:43.239610+00:00
- - user: None
- - tags: []
-
-## Blake Ashley Jr.
- - [https://blakeashleyjr.com](https://blakeashleyjr.com)
- - date published: 2023-10-25T09:05:20.382306+00:00
- - user: None
- - tags: ['personal']
-
-## Blake Loosli Illustration
- - [http://www.blakeloosli.com](http://www.blakeloosli.com)
- - date published: 2024-03-24T15:03:59.970468+00:00
- - user: None
- - tags: ['personal']
-
-## blakewatson.com
- - [https://blakewatson.com](https://blakewatson.com)
- - date published: 2023-10-25T08:45:09.755901+00:00
- - user: None
- - tags: ['personal']
-
-## Rusty Blazenhoff
- - [https://www.blazenhoff.com](https://www.blazenhoff.com)
- - date published: 2023-12-13T11:22:05.958494+00:00
- - user: None
- - tags: ['personal']
-
-## BLDGBLOG
- - [https://bldgblog.com](https://bldgblog.com)
- - date published: 2023-11-01T08:41:35.585470+00:00
- - user: None
- - tags: []
-
-## Bleacher Report
- - [https://bleacherreport.com](https://bleacherreport.com)
- - date published: 2024-02-26T19:30:36.285716+00:00
- - user: None
- - tags: []
-
-## Bleeding Heartland
- - [https://www.bleedingheartland.com](https://www.bleedingheartland.com)
- - date published: 2023-10-25T13:04:28.457417+00:00
- - user: None
- - tags: []
-
-## BleepingComputer | Cybersecurity, Technology News and Support
- - [https://www.bleepingcomputer.com](https://www.bleepingcomputer.com)
- - date published: 2023-10-25T09:32:04.337094+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,99 @@
+## Welcome!
+ - [https://dylibso.com](https://dylibso.com)
+ - date published: 2023-10-25T14:00:29.744674+00:00
+ - user: None
+ - tags: []
+
+## My Dyn Account
+ - [https://account.dyn.com](https://account.dyn.com)
+ - date published: 2023-10-31T10:25:32.543241+00:00
+ - user: None
+ - tags: ['dns']
+
+## https://www.dynamicdrive.com
+ - [https://www.dynamicdrive.com](https://www.dynamicdrive.com)
+ - date published: 2024-01-09T02:35:24.416804+00:00
+ - user: None
+ - tags: []
+
+## dys2p
+ - [https://dys2p.com](https://dys2p.com)
+ - date published: 2023-10-25T14:00:30.903688+00:00
+ - user: None
+ - tags: []
+
+## Science & technology experiments | coding, data science, ml, cloud, greentech
+ - [https://dzidas.com](https://dzidas.com)
+ - date published: 2023-10-25T14:00:31.747355+00:00
+ - user: None
+ - tags: []
+
+## # Chris Dzombak
+ - [https://www.dzombak.com](https://www.dzombak.com)
+ - date published: 2024-02-07T00:23:49.689983+00:00
+ - user: None
+ - tags: []
+
+## Electronic Arts Home Page - Official EA Site
+ - [https://www.ea.com](https://www.ea.com)
+ - date published: 2023-10-25T11:27:58.776792+00:00
+ - user: None
+ - tags: ['nhl', 'nfl', 'company', 'fifa']
+
+## The Eagle Obsession – Space: 1999 documentary
+ - [https://eagledocumentary.com](https://eagledocumentary.com)
+ - date published: 2024-02-23T18:03:52+00:00
+ - user: None
+ - tags: []
+
+## Eames Armstrong
+ - [https://eamesarmstrong.com](https://eamesarmstrong.com)
+ - date published: 2024-02-08T16:29:44.963663+00:00
+ - user: None
+ - tags: []
+
+## Attention Required! | Cloudflare
+ - [https://eap-journal.com](https://eap-journal.com)
+ - date published: 2024-02-08T22:19:56.989597+00:00
+ - user: None
+ - tags: []
+
+## Earl MacDonald – Composer, Jazz Pianist, Music Educator – “A magical, musical alchemist of hip hybrids."
+ - [https://www.earlmacdonald.com](https://www.earlmacdonald.com)
+ - date published: 2023-12-16T07:29:09.233696+00:00
+ - user: None
+ - tags: ['personal']
+
+## EarlyGame | Your Gaming & Entertainment Hub – News, Guides, Reviews
+ - [https://earlygame.com](https://earlygame.com)
+ - date published: 2023-10-25T14:00:56.838769+00:00
+ - user: None
+ - tags: []
+
+## Earslap · Procedural music, art, computation and some other things.
+ - [https://earslap.com](https://earslap.com)
+ - date published: 2023-10-25T14:00:58.732573+00:00
+ - user: None
+ - tags: []
+
+## Earth.com -- Earth News, Earth Images, Earth Videos
+ - [https://www.earth.com](https://www.earth.com)
+ - date published: 2023-10-25T14:01:16.285697+00:00
+ - user: None
+ - tags: []
+
+## https://earthcompute.com
+ - [https://earthcompute.com](https://earthcompute.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Earth Primer
+ - [https://www.earthprimer.com](https://www.earthprimer.com)
+ - date published: 2023-10-25T14:01:18.466870+00:00
+ - user: None
+ - tags: ['science book']
+
 ## EastFruit - информация о рынке овощей, фруктов, ягод и орехов
  - [https://east-fruit.com](https://east-fruit.com)
  - date published: 2023-10-25T14:01:24.698515+00:00
@@ -1063,6 +1159,12 @@
 ## Emils Veveris
  - [https://www.em-v.com](https://www.em-v.com)
  - date published: 2024-01-12T10:31:52.068245+00:00
+ - user: None
+ - tags: []
+
+## Enabling Seamless and Secure Payments Worldwide | EMVCo
+ - [https://www.emvco.com](https://www.emvco.com)
+ - date published: 2024-03-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2393,14 +2495,14 @@
  - tags: []
 
 ## ezyang’s blog
- - [https://blog.ezyang.com](https://blog.ezyang.com)
- - date published: 2024-01-09T01:37:06.985730+00:00
+ - [http://blog.ezyang.com](http://blog.ezyang.com)
+ - date published: 2024-02-26T14:52:50.963348+00:00
  - user: None
  - tags: []
 
 ## ezyang’s blog
- - [http://blog.ezyang.com](http://blog.ezyang.com)
- - date published: 2024-02-26T14:52:50.963348+00:00
+ - [https://blog.ezyang.com](https://blog.ezyang.com)
+ - date published: 2024-01-09T01:37:06.985730+00:00
  - user: None
  - tags: []
 
@@ -2453,14 +2555,14 @@
  - tags: []
 
 ## Log in or sign up to view
- - [http://facebook.com](http://facebook.com)
- - date published: 2024-02-24T09:56:45.941514+00:00
+ - [https://facebook.com](https://facebook.com)
+ - date published: 2023-12-11T16:53:43.180916+00:00
  - user: None
  - tags: []
 
 ## Log in or sign up to view
- - [https://facebook.com](https://facebook.com)
- - date published: 2023-12-11T16:53:43.180916+00:00
+ - [http://facebook.com](http://facebook.com)
+ - date published: 2024-02-24T09:56:45.941514+00:00
  - user: None
  - tags: []
 
@@ -2482,17 +2584,17 @@
  - user: rumpel
  - tags: ['facebook']
 
-## Log in or sign up to view
- - [http://www.facebook.com](http://www.facebook.com)
- - date published: 2024-02-24T09:54:20.558477+00:00
- - user: None
- - tags: []
-
 ## Facebook
  - [https://www.facebook.com](https://www.facebook.com)
  - date published: 2023-10-24T20:15:12+00:00
  - user: rumpel
  - tags: ['gatekeeper', 'social platform']
+
+## Log in or sign up to view
+ - [http://www.facebook.com](http://www.facebook.com)
+ - date published: 2024-02-24T09:54:20.558477+00:00
+ - user: None
+ - tags: []
 
 ## In re: Facebook, Inc. Consumer Privacy User Profile Litigation
  - [https://www.facebookuserprivacysettlement.com](https://www.facebookuserprivacysettlement.com)
@@ -3599,16 +3701,16 @@
  - tags: []
 
 ## Nick Fitzgerald
- - [https://fitzgeraldnick.com](https://fitzgeraldnick.com)
- - date published: 2023-10-25T09:20:31.002593+00:00
- - user: None
- - tags: ['personal']
-
-## Nick Fitzgerald
  - [http://fitzgeraldnick.com](http://fitzgeraldnick.com)
  - date published: 2024-02-06T00:00:00+00:00
  - user: None
  - tags: []
+
+## Nick Fitzgerald
+ - [https://fitzgeraldnick.com](https://fitzgeraldnick.com)
+ - date published: 2023-10-25T09:20:31.002593+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Five Books - The Best Books Recommended by Experts
  - [https://fivebooks.com](https://fivebooks.com)
@@ -4648,6 +4750,12 @@
  - user: None
  - tags: []
 
+## Felipe Vogel: Web developer and Rubyist blogging on my learning, coding, and career.
+ - [https://fpsvogel.com](https://fpsvogel.com)
+ - date published: 2024-03-27T11:49:56+00:00
+ - user: None
+ - tags: []
+
 ## Morphing Fractal Engraving Vise Jaws
  - [https://fractalvise.com](https://fractalvise.com)
  - date published: 2023-10-25T14:37:12.415206+00:00
@@ -4676,7 +4784,7 @@
  - [https://francescoboffa.com](https://francescoboffa.com)
  - date published: 2023-12-21T03:31:15.978337+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Franck Tawema
  - [https://www.francktawema.com](https://www.francktawema.com)
@@ -5150,7 +5258,7 @@
  - [https://www.furygpu.com](https://www.furygpu.com)
  - date published: 2024-03-27T08:37:38+00:00
  - user: None
- - tags: []
+ - tags: ['open hardware', 'open source']
 
 ## Futility Closet
  - [https://www.futilitycloset.com](https://www.futilitycloset.com)
@@ -5435,16 +5543,16 @@
  - tags: []
 
 ## GameOver Music - Radio
- - [http://gameover-radio.com](http://gameover-radio.com)
- - date published: 2024-02-11T14:36:22.689452+00:00
- - user: None
- - tags: ['video game music']
-
-## GameOver Music - Radio
  - [https://gameover-radio.com](https://gameover-radio.com)
  - date published: 2024-02-15T22:13:10.790152+00:00
  - user: None
  - tags: ['demoscene']
+
+## GameOver Music - Radio
+ - [http://gameover-radio.com](http://gameover-radio.com)
+ - date published: 2024-02-11T14:36:22.689452+00:00
+ - user: None
+ - tags: ['video game music']
 
 ## Streaming Video Game Music Radio - Gamepad Music
  - [https://www.gamepadmusic.com](https://www.gamepadmusic.com)
@@ -5465,14 +5573,14 @@
  - tags: []
 
 ## Game Programming Patterns
- - [https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com)
- - date published: 2024-02-21T07:23:55+00:00
+ - [http://gameprogrammingpatterns.com](http://gameprogrammingpatterns.com)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Game Programming Patterns
- - [http://gameprogrammingpatterns.com](http://gameprogrammingpatterns.com)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com)
+ - date published: 2024-02-21T07:23:55+00:00
  - user: None
  - tags: []
 
@@ -5890,112 +5998,4 @@
  - date published: 2024-01-22T00:00:00+00:00
  - user: None
  - tags: []
-
-## Geek Metaverse News – AI, Crypto, Metaverse, NFT, Tech, Web3, Gaming and Reviews
- - [https://www.geekmetaverse.com](https://www.geekmetaverse.com)
- - date published: 2023-10-25T09:33:13.008147+00:00
- - user: None
- - tags: ['crypto news', 'web3']
-
-## GeekPress
- - [http://blog.geekpress.com](http://blog.geekpress.com)
- - date published: 2023-10-25T14:42:47.338191+00:00
- - user: None
- - tags: []
-
-## 3D tech-news, graphics cards, programming, gamedev, pixel hacking and demoscene | Geeks3D
- - [https://www.geeks3d.com](https://www.geeks3d.com)
- - date published: 2024-02-23T00:00:00+00:00
- - user: rumpel
- - tags: ['tech news']
-
-## Geeks + Gamers
- - [https://www.geeksandgamers.com](https://www.geeksandgamers.com)
- - date published: 2024-03-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.geektools.com](https://www.geektools.com)
- - date published: 2024-01-09T02:37:07.554840+00:00
- - user: None
- - tags: []
-
-## GeekWire – Breaking News in Technology & Business
- - [https://www.geekwire.com](https://www.geekwire.com)
- - date published: 2023-10-25T09:33:19.982427+00:00
- - user: None
- - tags: []
-
-## Sarah Withee
- - [https://geekygirlsarah.com](https://geekygirlsarah.com)
- - date published: 2024-01-11T20:47:43.239747+00:00
- - user: None
- - tags: []
-
-## Geeky Tidbits
- - [https://www.geekytidbits.com](https://www.geekytidbits.com)
- - date published: 2023-11-29T17:09:51.261556+00:00
- - user: None
- - tags: ['personal']
-
-## GeForce NOW
- - [https://play.geforcenow.com](https://play.geforcenow.com)
- - date published: 2023-10-25T14:37:14.864784+00:00
- - user: None
- - tags: ['gefore now', 'game streaming']
-
-## Chris Geirman | It's all about React Native these days, with a nod to ColdFusion and CFWheels
- - [https://www.geirman.com](https://www.geirman.com)
- - date published: 2024-02-09T06:40:30.072700+00:00
- - user: None
- - tags: ['personal']
-
-## Gematsu
- - [https://www.gematsu.com](https://www.gematsu.com)
- - date published: 2023-10-27T13:24:05.024819+00:00
- - user: None
- - tags: []
-
-## Gemoo | Record Video Messages and Get Them Organized
- - [https://app.gemoo.com](https://app.gemoo.com)
- - date published: 2023-11-03T11:12:49.480478+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.genengnews.com](https://www.genengnews.com)
- - date published: 2024-01-09T02:22:02.596223+00:00
- - user: None
- - tags: []
-
-## The Generalist
- - [https://www.generalist.com](https://www.generalist.com)
- - date published: 2023-10-25T14:42:49.519488+00:00
- - user: None
- - tags: []
-
-## GeneratePress - The perfect foundation for your WordPress website.
- - [https://generatepress.com](https://generatepress.com)
- - date published: 2023-12-11T16:30:04.131404+00:00
- - user: None
- - tags: []
-
-## GenerationAmiga.com
- - [https://www.generationamiga.com](https://www.generationamiga.com)
- - date published: 2023-11-02T10:54:43.329371+00:00
- - user: None
- - tags: ['magazine', 'amiga']
-
-## Genesis - The history of a rock band
- - [https://genesis-band.com](https://genesis-band.com)
- - date published: 2023-11-13T10:42:27.434524+00:00
- - user: None
- - tags: []
-
-## Genesis - The Official Site
- - [https://genesis-music.com](https://genesis-music.com)
- - date published: 2023-11-13T10:42:12.163811+00:00
- - user: None
- - tags: ['music band']
 

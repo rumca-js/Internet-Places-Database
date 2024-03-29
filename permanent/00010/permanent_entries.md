@@ -1,3 +1,184 @@
+## Home • Oregon Capital Chronicle
+ - [https://oregoncapitalchronicle.com](https://oregoncapitalchronicle.com)
+ - date published: 2024-03-25T19:01:28.819246+00:00
+ - user: None
+ - tags: []
+
+## Oregon Local News, Breaking News, Sports & Weather
+ - [https://www.oregonlive.com](https://www.oregonlive.com)
+ - date published: 2023-10-25T11:06:13.645376+00:00
+ - user: None
+ - tags: []
+
+## Radar - O’Reilly
+ - [http://radar.oreilly.com](http://radar.oreilly.com)
+ - date published: 2024-03-11T20:56:21.645465+00:00
+ - user: None
+ - tags: []
+
+## O'Reilly Media - Technology and Business Training
+ - [https://radar.oreilly.com](https://radar.oreilly.com)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## O'Reilly Media - Technology and Business Training
+ - [https://www.oreilly.com](https://www.oreilly.com)
+ - date published: 2023-10-24T20:19:32.879408+00:00
+ - user: None
+ - tags: []
+
+## Error
+ - [https://www.oreillyauto.com](https://www.oreillyauto.com)
+ - date published: 2024-02-26T01:50:25.114518+00:00
+ - user: None
+ - tags: []
+
+## Organ Clearing House
+ - [https://www.organclearinghouse.com](https://www.organclearinghouse.com)
+ - date published: 2023-10-25T16:27:25.213840+00:00
+ - user: None
+ - tags: []
+
+## Orinoco Tribune – News and opinion pieces about Venezuela and beyond – From Venezuela and made by Venezuelan Chavistas
+ - [https://orinocotribune.com](https://orinocotribune.com)
+ - date published: 2023-10-25T09:29:37.225218+00:00
+ - user: None
+ - tags: []
+
+## OrioleDB – the next generation storage engine for PostgreSQL
+ - [https://www.orioledata.com](https://www.orioledata.com)
+ - date published: 2023-10-25T16:27:26.200155+00:00
+ - user: None
+ - tags: []
+
+## Orlando Sentinel
+ - [https://www.orlandosentinel.com](https://www.orlandosentinel.com)
+ - date published: 2023-11-27T21:19:15.271397+00:00
+ - user: None
+ - tags: []
+
+## Orlando Weekly
+ - [https://www.orlandoweekly.com](https://www.orlandoweekly.com)
+ - date published: 2023-11-23T07:19:16.129563+00:00
+ - user: None
+ - tags: []
+
+## 0(rphan)d(rift>) Archive - 0rphan Drift Archive
+ - [https://www.orphandriftarchive.com](https://www.orphandriftarchive.com)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Orville McDonald – Random thoughts on technology and business
+ - [https://orvillemcdonald.com](https://orvillemcdonald.com)
+ - date published: 2023-10-25T09:21:05.715824+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Orwell Foundation
+ - [https://www.orwellfoundation.com](https://www.orwellfoundation.com)
+ - date published: 2023-10-25T11:26:43.410563+00:00
+ - user: None
+ - tags: []
+
+## Oryx
+ - [https://www.oryxspioenkop.com](https://www.oryxspioenkop.com)
+ - date published: 2023-10-25T16:27:36.030855+00:00
+ - user: None
+ - tags: []
+
+## The OS/2 Museum
+ - [http://www.os2museum.com](http://www.os2museum.com)
+ - date published: 2024-02-25T18:55:49.882025+00:00
+ - user: None
+ - tags: []
+
+## The OS/2 Museum
+ - [https://www.os2museum.com](https://www.os2museum.com)
+ - date published: 2023-10-25T16:27:40.415903+00:00
+ - user: None
+ - tags: []
+
+## Full-Stack Software Engineer and Developer Content Creator
+ - [https://www.oscaralsing.com](https://www.oscaralsing.com)
+ - date published: 2017-06-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://www.oscarscampos.com
+ - [https://www.oscarscampos.com](https://www.oscarscampos.com)
+ - date published: 2023-12-25T04:55:51.274224+00:00
+ - user: None
+ - tags: ['personal']
+
+## oschvr.com
+ - [https://oschvr.com](https://oschvr.com)
+ - date published: 2023-10-25T16:27:41.499435+00:00
+ - user: None
+ - tags: []
+
+## Open Source Clones of Games
+ - [https://osgameclones.com](https://osgameclones.com)
+ - date published: 2023-12-27T02:09:22+00:00
+ - user: None
+ - tags: []
+
+## Greene Gardens
+ - [https://garden.oshyan.com](https://garden.oshyan.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## osintme.com
+ - [https://www.osintme.com](https://www.osintme.com)
+ - date published: 2023-10-25T16:27:45.841879+00:00
+ - user: None
+ - tags: ['blog', 'personal']
+
+## Oskar Eggert
+ - [https://www.oskareggert.com](https://www.oskareggert.com)
+ - date published: 2023-12-05T14:37:10.380947+00:00
+ - user: None
+ - tags: ['personal']
+
+## OSnews  -  Exploring the Future of Computing
+ - [https://www.osnews.com](https://www.osnews.com)
+ - date published: 2023-10-25T09:34:29.424722+00:00
+ - user: None
+ - tags: []
+
+## All Projects
+    - OSSRank
+ - [https://ossrank.com](https://ossrank.com)
+ - date published: 2023-10-25T16:27:50.745403+00:00
+ - user: None
+ - tags: []
+
+## OswaldMosley.com – Fascist, Briton, European
+ - [https://www.oswaldmosley.com](https://www.oswaldmosley.com)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Oswego Speedway
+ - [https://www.oswegospeedway.com](https://www.oswegospeedway.com)
+ - date published: 2024-02-08T18:16:12.665093+00:00
+ - user: None
+ - tags: []
+
+## Otaku Journalist
+ - [https://otakujournalist.com](https://otakujournalist.com)
+ - date published: 2024-01-09T02:45:32.729873+00:00
+ - user: None
+ - tags: []
+
+## https://www.otakujournalist.com
+ - [https://www.otakujournalist.com](https://www.otakujournalist.com)
+ - date published: 2024-02-25T18:56:08.519334+00:00
+ - user: None
+ - tags: []
+
 ## Learn How To Play Button Accordion - Lessons in Los Angeles, CA
  - [https://otonolujan.com](https://otonolujan.com)
  - date published: 2023-12-08T09:38:41.735465+00:00
@@ -892,17 +1073,17 @@
  - user: None
  - tags: []
 
-## Home — Patreon
- - [http://www.patreon.com](http://www.patreon.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Max  FitzGerald  | Patreon
  - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
  - date published: 2023-10-27T15:07:52+00:00
  - user: rumpel
  - tags: ['turnip28', 'tabletop games']
+
+## Home — Patreon
+ - [http://www.patreon.com](http://www.patreon.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Home — Patreon
  - [https://www.patreon.com](https://www.patreon.com)
@@ -923,14 +1104,14 @@
  - tags: ['personal']
 
 ## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
- - date published: 2023-12-23T07:30:12.092026+00:00
+ - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
+ - date published: 2023-12-21T08:24:19.074982+00:00
  - user: None
  - tags: ['personal']
 
 ## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
- - date published: 2023-12-21T08:24:19.074982+00:00
+ - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
+ - date published: 2023-12-23T07:30:12.092026+00:00
  - user: None
  - tags: ['personal']
 
@@ -1102,6 +1283,12 @@
  - user: None
  - tags: []
 
+## Cierpliwości...
+ - [https://paymentdepot.com](https://paymentdepot.com)
+ - date published: 2024-03-28T07:01:16.127490+00:00
+ - user: None
+ - tags: []
+
 ## E-płatności, wysyłaj pieniądze i akceptuj płatności | PayPal PL
  - [https://www.paypal.com](https://www.paypal.com)
  - date published: 2023-10-25T08:26:52.063948+00:00
@@ -1150,15 +1337,15 @@
  - user: None
  - tags: ['personal']
 
-## PCMag UK
- - [http://uk.pcmag.com](http://uk.pcmag.com)
- - date published: 2024-02-26T09:45:15.403718+00:00
- - user: None
- - tags: []
-
 ## PCMag.com - Technology Product Reviews, News, Prices & Tips
  - [https://uk.pcmag.com](https://uk.pcmag.com)
  - date published: 2023-10-25T09:34:32.882984+00:00
+ - user: None
+ - tags: []
+
+## PCMag UK
+ - [http://uk.pcmag.com](http://uk.pcmag.com)
+ - date published: 2024-02-26T09:45:15.403718+00:00
  - user: None
  - tags: []
 
@@ -1403,14 +1590,14 @@
  - tags: ['personal']
 
 ## Perfection Kills
- - [http://perfectionkills.com](http://perfectionkills.com)
- - date published: 2015-11-04T00:00:00+00:00
+ - [https://perfectionkills.com](https://perfectionkills.com)
+ - date published: 2024-01-09T02:46:05.195684+00:00
  - user: None
  - tags: []
 
 ## Perfection Kills
- - [https://perfectionkills.com](https://perfectionkills.com)
- - date published: 2024-01-09T02:46:05.195684+00:00
+ - [http://perfectionkills.com](http://perfectionkills.com)
+ - date published: 2015-11-04T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1787,13 +1974,13 @@
  - tags: []
 
 ## Paul's Dev Notes
- - [https://www.pfrazee.com](https://www.pfrazee.com)
+ - [http://www.pfrazee.com](http://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Paul's Dev Notes
- - [http://www.pfrazee.com](http://www.pfrazee.com)
+ - [https://www.pfrazee.com](https://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -2713,15 +2900,15 @@
  - user: None
  - tags: []
 
-## plumshell
- - [http://plumshell.com](http://plumshell.com)
- - date published: 2024-02-26T15:04:17.373885+00:00
- - user: None
- - tags: []
-
 ## 無効なURLです
  - [https://plumshell.com](https://plumshell.com)
  - date published: 2024-01-09T02:46:44.613598+00:00
+ - user: None
+ - tags: []
+
+## plumshell
+ - [http://plumshell.com](http://plumshell.com)
+ - date published: 2024-02-26T15:04:17.373885+00:00
  - user: None
  - tags: []
 
@@ -2876,14 +3063,14 @@
  - tags: []
 
 ## De Angela L. Duff
- - [https://www.polishedsolid.com](https://www.polishedsolid.com)
- - date published: 2023-12-20T11:44:35.174499+00:00
+ - [http://www.polishedsolid.com](http://www.polishedsolid.com)
+ - date published: 2023-12-23T02:59:58.572062+00:00
  - user: None
  - tags: ['personal']
 
 ## De Angela L. Duff
- - [http://www.polishedsolid.com](http://www.polishedsolid.com)
- - date published: 2023-12-23T02:59:58.572062+00:00
+ - [https://www.polishedsolid.com](https://www.polishedsolid.com)
+ - date published: 2023-12-20T11:44:35.174499+00:00
  - user: None
  - tags: ['personal']
 
@@ -2936,13 +3123,13 @@
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -3134,14 +3321,14 @@
  - tags: []
 
 ## PostHog - The open source Product OS
- - [http://posthog.com](http://posthog.com)
- - date published: 2024-02-26T09:54:45.800568+00:00
+ - [https://posthog.com](https://posthog.com)
+ - date published: 2023-10-25T16:38:22.584209+00:00
  - user: None
  - tags: []
 
 ## PostHog - The open source Product OS
- - [https://posthog.com](https://posthog.com)
- - date published: 2023-10-25T16:38:22.584209+00:00
+ - [http://posthog.com](http://posthog.com)
+ - date published: 2024-02-26T09:54:45.800568+00:00
  - user: None
  - tags: []
 
@@ -4148,14 +4335,14 @@
  - tags: []
 
 ## Pushbullet Blog
- - [https://blog.pushbullet.com](https://blog.pushbullet.com)
- - date published: 2023-10-25T16:42:28.991402+00:00
+ - [http://blog.pushbullet.com](http://blog.pushbullet.com)
+ - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Pushbullet Blog
- - [http://blog.pushbullet.com](http://blog.pushbullet.com)
- - date published: 2022-01-01T00:00:00+00:00
+ - [https://blog.pushbullet.com](https://blog.pushbullet.com)
+ - date published: 2023-10-25T16:42:28.991402+00:00
  - user: None
  - tags: []
 
@@ -4872,14 +5059,14 @@
  - tags: ['personal']
 
 ## Reginald Braithwaite
- - [https://raganwald.com](https://raganwald.com)
- - date published: 2023-10-25T16:45:15.488174+00:00
+ - [http://raganwald.com](http://raganwald.com)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Reginald Braithwaite
- - [http://raganwald.com](http://raganwald.com)
- - date published: 2016-01-01T00:00:00+00:00
+ - [https://raganwald.com](https://raganwald.com)
+ - date published: 2023-10-25T16:45:15.488174+00:00
  - user: None
  - tags: []
 
@@ -5419,14 +5606,14 @@ More!
  - tags: ['company']
 
 ## Home | Realms of Despair
- - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
- - date published: 2024-03-27T20:52:28.838514+00:00
+ - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:46:33.188949+00:00
  - user: None
  - tags: ['mud game']
 
 ## Home | Realms of Despair
- - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
- - date published: 2024-03-27T20:46:33.188949+00:00
+ - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:52:28.838514+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5581,14 +5768,14 @@ More!
  - tags: ['command and conquer']
 
 ## Red Blob Games
- - [http://www.redblobgames.com](http://www.redblobgames.com)
- - date published: 2024-03-24T15:05:53.916412+00:00
+ - [https://www.redblobgames.com](https://www.redblobgames.com)
+ - date published: 2023-10-25T16:47:32.544748+00:00
  - user: None
  - tags: []
 
 ## Red Blob Games
- - [https://www.redblobgames.com](https://www.redblobgames.com)
- - date published: 2023-10-25T16:47:32.544748+00:00
+ - [http://www.redblobgames.com](http://www.redblobgames.com)
+ - date published: 2024-03-24T15:05:53.916412+00:00
  - user: None
  - tags: []
 
@@ -5629,14 +5816,14 @@ More!
  - tags: []
 
 ## reddit
- - [https://www.reddit.com](https://www.reddit.com)
- - date published: 2023-10-24T20:16:46.235665+00:00
+ - [http://www.reddit.com](http://www.reddit.com)
+ - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
 
 ## reddit
- - [http://www.reddit.com](http://www.reddit.com)
- - date published: 2024-02-20T00:00:00+00:00
+ - [https://www.reddit.com](https://www.reddit.com)
+ - date published: 2023-10-24T20:16:46.235665+00:00
  - user: None
  - tags: []
 
@@ -5683,14 +5870,14 @@ More!
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
+ - [http://www.reddit-stream.com](http://www.reddit-stream.com)
+ - date published: 2023-12-23T19:30:18.252561+00:00
  - user: None
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [http://www.reddit-stream.com](http://www.reddit-stream.com)
- - date published: 2023-12-23T19:30:18.252561+00:00
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
  - user: None
  - tags: []
 
@@ -5819,190 +6006,4 @@ More!
  - date published: 2024-01-29T17:20:18.537833+00:00
  - user: None
  - tags: []
-
-## Home
- - [https://www.redvoicemedia.com](https://www.redvoicemedia.com)
- - date published: 2023-10-25T16:48:45.337395+00:00
- - user: None
- - tags: []
-
-## Under Construction
- - [https://www.redwineaudio.com](https://www.redwineaudio.com)
- - date published: 2024-02-08T22:19:18.066589+00:00
- - user: None
- - tags: []
-
-## Red Worm Composting - WAY Too Much Fun With Worms!
- - [https://www.redwormcomposting.com](https://www.redwormcomposting.com)
- - date published: 2023-10-25T16:48:47.837833+00:00
- - user: None
- - tags: []
-
-## Nathan Reed’s coding blog
- - [https://www.reedbeta.com](https://www.reedbeta.com)
- - date published: 2023-12-08T08:31:43.501654+00:00
- - user: None
- - tags: []
-
-## ReedPop UK - Webstore
- - [https://store.reedpop.com](https://store.reedpop.com)
- - date published: 2023-12-13T15:41:07.662450+00:00
- - user: None
- - tags: []
-
-## ReedPop
- - [https://www.reedpop.com](https://www.reedpop.com)
- - date published: 2023-12-13T15:42:06.555067+00:00
- - user: None
- - tags: []
-
-## https://assetsio.reedpopcdn.com
- - [https://assetsio.reedpopcdn.com](https://assetsio.reedpopcdn.com)
- - date published: 2024-01-09T02:47:25.849907+00:00
- - user: None
- - tags: []
-
-## Reedsy • Your daily dose of writing, publishing and marketing advice
- - [https://blog.reedsy.com](https://blog.reedsy.com)
- - date published: 2023-10-25T16:48:51.747561+00:00
- - user: None
- - tags: []
-
-## Reedsy: Find the perfect editor, designer or marketer | Reedsy
- - [https://reedsy.com](https://reedsy.com)
- - date published: 2023-10-25T16:48:54.640395+00:00
- - user: None
- - tags: ['social platform']
-
-## Reel Inequality: Charting the Vanishing Middle Class of Movies
- - [https://www.reelinequality.com](https://www.reelinequality.com)
- - date published: 2023-12-04T21:13:08+00:00
- - user: None
- - tags: []
-
-## Home | Rees Draminski
- - [https://reesdraminski.com](https://reesdraminski.com)
- - date published: 2024-02-04T10:33:57.289697+00:00
- - user: None
- - tags: []
-
-## Reess Kennedy | Ideas, sharings, projections
- - [https://www.reesskennedy.com](https://www.reesskennedy.com)
- - date published: 2024-01-15T13:59:33.180007+00:00
- - user: None
- - tags: []
-
-## Refactoring UI
- - [https://www.refactoringui.com](https://www.refactoringui.com)
- - date published: 2023-10-25T16:48:55.710835+00:00
- - user: None
- - tags: []
-
-## Reflio: Create a privacy-friendly referral program for your SaaS. | Reflio
- - [https://reflio.com](https://reflio.com)
- - date published: 2023-10-25T16:48:56.216998+00:00
- - user: None
- - tags: []
-
-## Reforge
- - [https://www.reforge.com](https://www.reforge.com)
- - date published: 2023-10-25T16:48:57.708367+00:00
- - user: None
- - tags: []
-
-## 一级a做片免费观看久久,一级a做片免费久久,日韩精品无码一区二区三区久久
- - [https://refresh-lx.com](https://refresh-lx.com)
- - date published: 2024-02-09T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Refuge Network - Covering the entertainment world
- - [https://www.refugenet.com](https://www.refugenet.com)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## REGENT | Coastal Travel. 100% Electric.
- - [https://www.regentcraft.com](https://www.regentcraft.com)
- - date published: 2023-10-25T16:48:59.761531+00:00
- - user: None
- - tags: []
-
-## RegExr: Learn, Build, & Test RegEx
- - [https://regexr.com](https://regexr.com)
- - date published: 2023-12-11T12:26:25+00:00
- - user: rumpel
- - tags: ['online tool', 'regular expressions', 'code sandbox']
-
-## None
- - [https://reggaebubblers.com](https://reggaebubblers.com)
- - date published: 2024-02-08T16:43:47.932382+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.regionalsan.com](https://www.regionalsan.com)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Rehan van der Merwe - Architect, Developer and AWS Junkie
- - [https://rehanvdm.com](https://rehanvdm.com)
- - date published: 2023-10-31T11:38:24.014919+00:00
- - user: None
- - tags: []
-
-## reinteractive - top Ruby on Rails web and mobile development
- - [https://reinteractive.com](https://reinteractive.com)
- - date published: 2024-02-05T10:03:40.635857+00:00
- - user: None
- - tags: []
-
-## Relationship Hero - #1 Relationship Coaching Website
- - [https://relationshiphero.com](https://relationshiphero.com)
- - date published: 2023-10-25T16:49:00.611213+00:00
- - user: None
- - tags: []
-
-## Release - Get an Environment with any code commit
- - [https://release.com](https://release.com)
- - date published: 2023-10-25T16:49:07.848757+00:00
- - user: None
- - tags: []
-
-## Release - Get an Environment with any code commit
- - [https://releasehub.com](https://releasehub.com)
- - date published: 2023-10-25T16:49:15.699403+00:00
- - user: None
- - tags: []
-
-## Get Featured in Newsletters. Best Search Tool - Reletter
- - [https://reletter.com](https://reletter.com)
- - date published: 2023-10-25T16:49:16.940312+00:00
- - user: None
- - tags: []
-
-## Relevant Radio - Bringing Christ to the world through the media
- - [https://relevantradio.com](https://relevantradio.com)
- - date published: 2023-10-25T16:49:21.398300+00:00
- - user: None
- - tags: []
-
-## Centova Cast
- - [http://server10.reliastream.com](http://server10.reliastream.com)
- - date published: 2006-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Religion Unplugged
- - [https://religionunplugged.com](https://religionunplugged.com)
- - date published: 2024-02-25T22:03:04+00:00
- - user: rumpel
- - tags: ['religion news']
-
-## Homepage - Relvin Gonzalez
- - [https://relvingonzalez.com](https://relvingonzalez.com)
- - date published: 2023-12-19T09:59:23.699306+00:00
- - user: None
- - tags: ['personal']
 

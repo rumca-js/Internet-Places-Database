@@ -1,3 +1,117 @@
+## Law & Crime - Law and Crime News
+ - [https://lawandcrime.com](https://lawandcrime.com)
+ - date published: 2023-10-27T18:51:39.072959+00:00
+ - user: None
+ - tags: []
+
+## Hard National Security Choices | Lawfare
+ - [https://www.lawfareblog.com](https://www.lawfareblog.com)
+ - date published: 2023-10-25T15:42:52.054796+00:00
+ - user: None
+ - tags: []
+
+## LawSites | by Robert Ambrogi | Websites, Technology & the Law
+ - [https://www.lawnext.com](https://www.lawnext.com)
+ - date published: 2023-10-25T15:43:01.762363+00:00
+ - user: None
+ - tags: []
+
+## Lawrence Hook
+ - [https://lawrencehook.com](https://lawrencehook.com)
+ - date published: 2023-10-25T15:43:05.416939+00:00
+ - user: None
+ - tags: []
+
+## Home | Laws of UX
+ - [https://lawsofux.com](https://lawsofux.com)
+ - date published: 2023-10-25T15:43:06.384994+00:00
+ - user: None
+ - tags: []
+
+## Law Street Media | Legal news that leads to business.
+ - [https://lawstreetmedia.com](https://lawstreetmedia.com)
+ - date published: 2024-01-09T02:41:40.773575+00:00
+ - user: None
+ - tags: []
+
+## Lawyers, Guns & Money
+ - [https://www.lawyersgunsmoneyblog.com](https://www.lawyersgunsmoneyblog.com)
+ - date published: 2024-02-24T18:19:29.793134+00:00
+ - user: None
+ - tags: []
+
+## LayoffsTracker – Track all Tech & Startup layoffs globally
+ - [https://layoffstracker.com](https://layoffstracker.com)
+ - date published: 2023-10-25T15:43:16.547456+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.layoff-sucks.com](https://www.layoff-sucks.com)
+ - date published: 2024-01-09T02:41:48.638192+00:00
+ - user: None
+ - tags: []
+
+## Lazard | Lazard
+ - [https://www.lazard.com](https://www.lazard.com)
+ - date published: 2023-10-25T15:43:20.691281+00:00
+ - user: None
+ - tags: []
+
+## LBRY - Content Freedom
+ - [https://lbry.com](https://lbry.com)
+ - date published: 2023-10-25T11:44:31.083607+00:00
+ - user: None
+ - tags: ['file sharing', 'video streaming']
+
+## LCPDFR.com
+ - [https://www.lcpdfr.com](https://www.lcpdfr.com)
+ - date published: 2023-10-25T11:16:47.019672+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://ldjam.com](https://ldjam.com)
+ - date published: 2024-01-09T02:41:49.233270+00:00
+ - user: None
+ - tags: []
+
+## Lost Boy – The blog of @ldodds
+ - [https://blog.ldodds.com](https://blog.ldodds.com)
+ - date published: 2023-10-25T15:43:24.686241+00:00
+ - user: None
+ - tags: []
+
+## Ideas on Software Engineering
+ - [https://john.leacox.com](https://john.leacox.com)
+ - date published: 2023-11-29T14:44:24.296491+00:00
+ - user: None
+ - tags: ['personal']
+
+## Lead Adventure Forum - Index
+ - [https://leadadventureforum.com](https://leadadventureforum.com)
+ - date published: 2023-11-01T18:38:25.808998+00:00
+ - user: None
+ - tags: ['miniatures', 'tabletop games']
+
+## The home of engineering leadership | LeadDev
+ - [https://leaddev.com](https://leaddev.com)
+ - date published: 2023-10-25T15:43:28.840460+00:00
+ - user: None
+ - tags: []
+
+## Leaded Solder | Old computer repair, history and programming.
+ - [https://www.leadedsolder.com](https://www.leadedsolder.com)
+ - date published: 2023-10-25T15:43:32.295992+00:00
+ - user: None
+ - tags: []
+
+## Leading in Product | Benedikt Kantus | Substack
+ - [https://www.leadinginproduct.com](https://www.leadinginproduct.com)
+ - date published: 2023-11-21T09:09:34.603189+00:00
+ - user: None
+ - tags: []
+
 ## Shopping | Branded Clothing Retailers | Leading Labels Store
  - [https://www.leading-labels.com](https://www.leading-labels.com)
  - date published: 2024-01-11T00:00:00+00:00
@@ -281,13 +395,13 @@
  - tags: ['entertainment news', 'movie news']
 
 ## Legends of Kallisti
- - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
+ - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Legends of Kallisti
- - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
+ - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
@@ -1810,6 +1924,12 @@
  - user: None
  - tags: []
 
+## The Lord of the Rings Family Tree
+ - [http://lotrproject.com](http://lotrproject.com)
+ - date published: 2024-03-28T00:18:04+00:00
+ - user: None
+ - tags: ['lord of the rings', 'fan page']
+
 ## lottalinuxlinks.com
  - [https://lottalinuxlinks.com](https://lottalinuxlinks.com)
  - date published: 2021-10-13T00:00:00+00:00
@@ -2405,6 +2525,12 @@ diversions.
  - user: None
  - tags: []
 
+## Magento, now Adobe Commerce | eCommerce Software
+ - [https://magento.com](https://magento.com)
+ - date published: 2024-03-28T06:55:22+00:00
+ - user: rumpel
+ - tags: ['cms']
+
 ## Maggie Appleton
  - [http://maggieappleton.com](http://maggieappleton.com)
  - date published: 2024-02-26T08:55:27.731076+00:00
@@ -2538,13 +2664,13 @@ diversions.
  - tags: []
 
 ## A blog by @makaroni4
- - [https://makaroni4.com](https://makaroni4.com)
+ - [http://makaroni4.com](http://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## A blog by @makaroni4
- - [http://makaroni4.com](http://makaroni4.com)
+ - [https://makaroni4.com](https://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -2602,6 +2728,12 @@ diversions.
  - date published: 2023-10-27T10:17:04.972576+00:00
  - user: None
  - tags: ['3d printing', 'dyi', 'hobby']
+
+## MakerWorld
+ - [https://makerworld.com](https://makerworld.com)
+ - date published: 2024-03-27T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## make-safe-ai/is-bing-chat-safe
  - [https://www.make-safe-ai.com](https://www.make-safe-ai.com)
@@ -2774,6 +2906,12 @@ diversions.
 ## Cierpliwości...
  - [https://manscaped.com](https://manscaped.com)
  - date published: 2024-02-24T09:54:44.689214+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [http://manscaped.com](http://manscaped.com)
+ - date published: 2024-03-28T18:12:57.255409+00:00
  - user: None
  - tags: []
 
@@ -3407,6 +3545,12 @@ diversions.
  - date published: 2023-10-25T10:16:06.752056+00:00
  - user: None
  - tags: []
+
+## Strona główna | Mastercard.pl
+ - [https://www.mastercard.com](https://www.mastercard.com)
+ - date published: 2024-03-28T07:22:36+00:00
+ - user: rumpel
+ - tags: ['payments', 'card company']
 
 ## https://www.masterclass.com
  - [https://www.masterclass.com](https://www.masterclass.com)
@@ -4173,6 +4317,12 @@ diversions.
 ## Avi Loeb – Medium
  - [https://avi-loeb.medium.com](https://avi-loeb.medium.com)
  - date published: 2023-10-25T10:18:43.733455+00:00
+ - user: None
+ - tags: []
+
+## Babylon.js – Medium
+ - [https://babylonjs.medium.com](https://babylonjs.medium.com)
+ - date published: 2024-03-21T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5849,154 +5999,4 @@ diversions.
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
-
-## Michael Horowitz - Personal Web Site
- - [https://www.michaelhorowitz.com](https://www.michaelhorowitz.com)
- - date published: 2024-02-16T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Michael Hudson
- - [https://michael-hudson.com](https://michael-hudson.com)
- - date published: 2023-11-16T12:41:59.799273+00:00
- - user: None
- - tags: []
-
-## None
- - [https://michaellabelle.com](https://michaellabelle.com)
- - date published: 2024-01-10T22:41:16.724719+00:00
- - user: None
- - tags: []
-
-## Michael's Notebook
- - [https://michaelnotebook.com](https://michaelnotebook.com)
- - date published: 2023-10-25T08:47:16.324263+00:00
- - user: None
- - tags: ['personal']
-
-## Wide Awake Developers
- - [https://www.michaelnygard.com](https://www.michaelnygard.com)
- - date published: 2023-10-25T16:02:49.444422+00:00
- - user: None
- - tags: []
-
-## The New Normal | Michael P Senger | Substack
- - [https://www.michaelpsenger.com](https://www.michaelpsenger.com)
- - date published: 2023-11-01T08:41:20.462876+00:00
- - user: None
- - tags: []
-
-## Hi there 👋
- - [https://michaelrbock.com](https://michaelrbock.com)
- - date published: 2023-12-11T10:57:55.589456+00:00
- - user: None
- - tags: ['personal']
-
-## Michael Samsel Therapist Seattle
- - [https://www.michaelsamsel.com](https://www.michaelsamsel.com)
- - date published: 2023-10-25T16:02:51.669719+00:00
- - user: None
- - tags: []
-
-## Welcome | Michael Welford
- - [https://michaelwelford.com](https://michaelwelford.com)
- - date published: 2024-02-09T22:00:20.282928+00:00
- - user: None
- - tags: ['personal']
-
-## Michele Coscia | Connecting Humanities
- - [https://www.michelecoscia.com](https://www.michelecoscia.com)
- - date published: 2024-02-01T23:27:08.321568+00:00
- - user: None
- - tags: []
-
-## Michel Fortin | Visibility Marketing & SEO Strategy Expert
- - [https://michelfortin.com](https://michelfortin.com)
- - date published: 2023-11-29T17:16:25.427969+00:00
- - user: None
- - tags: ['seo', 'personal']
-
-## Michel Griffin - [En]chanteur franglais
- - [https://www.michelgriffin.com](https://www.michelgriffin.com)
- - date published: 2023-11-29T17:09:14.174486+00:00
- - user: None
- - tags: ['personal']
-
-## Michigan Post | Today's Front Page, Breaking News, World, Politics
- - [https://michigan-post.com](https://michigan-post.com)
- - date published: 2023-11-23T19:54:39.421012+00:00
- - user: None
- - tags: []
-
-## Michi Mathias. illustration & comics.
- - [https://www.michimathias.com](https://www.michimathias.com)
- - date published: 2022-06-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Mickey Delp dot com
- - [https://mickeydelp.com](https://mickeydelp.com)
- - date published: 2024-01-09T02:43:50.140818+00:00
- - user: None
- - tags: []
-
-## Mickey Mellen
- - [https://www.mickmel.com](https://www.mickmel.com)
- - date published: 2023-10-25T16:02:56.827577+00:00
- - user: None
- - tags: []
-
-## microcenter.com
- - [https://www.microcenter.com](https://www.microcenter.com)
- - date published: 2024-02-24T20:43:29.918488+00:00
- - user: None
- - tags: []
-
-## Empowering Innovation | Microchip Technology
- - [https://www.microchip.com](https://www.microchip.com)
- - date published: 2024-03-03T11:36:08.984339+00:00
- - user: None
- - tags: []
-
-## Micro Focus is now OpenText
- - [https://www.microfocus.com](https://www.microfocus.com)
- - date published: 2023-10-25T16:03:01.109438+00:00
- - user: None
- - tags: []
-
-## Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
- - [https://microjs.com](https://microjs.com)
- - date published: 2024-01-09T02:43:52.181231+00:00
- - user: None
- - tags: []
-
-## Microkhan by Brendan I. Koerner
- - [https://microkhan.com](https://microkhan.com)
- - date published: 2024-02-08T21:16:04.718097+00:00
- - user: None
- - tags: ['personal']
-
-## MicroMac Technology's Home Page for Macintosh Upgrades and Accelerators
- - [https://www.micromac.com](https://www.micromac.com)
- - date published: 2023-12-02T08:30:30.624398+00:00
- - user: None
- - tags: []
-
-## MicroProse | The name of the game in strategy and simulation
- - [https://www.microprose.com](https://www.microprose.com)
- - date published: 2023-11-06T10:58:40.981934+00:00
- - user: None
- - tags: ['video game developer', 'amiga']
-
-## Micro SaaS HQ
- - [https://microsaashq.com](https://microsaashq.com)
- - date published: 2023-10-25T16:03:04.818064+00:00
- - user: None
- - tags: []
-
-## Microsoft Apps
- - [https://apps.microsoft.com](https://apps.microsoft.com)
- - date published: 2023-10-25T13:36:42.240354+00:00
- - user: None
- - tags: ['app store']
 
