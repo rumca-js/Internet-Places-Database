@@ -1,3 +1,51 @@
+## Dwell House – Design Delivered to Your Backyard
+ - [https://house.dwell.com](https://house.dwell.com)
+ - date published: 2023-10-25T14:00:08.441249+00:00
+ - user: None
+ - tags: []
+
+## Modern living, home design ideas, inspiration, and advice. - Dwell
+ - [https://www.dwell.com](https://www.dwell.com)
+ - date published: 2023-10-25T14:00:13.975793+00:00
+ - user: None
+ - tags: []
+
+## Dwight Gunning: Software, tech startups and the outdoors
+ - [https://www.dwightgunning.com](https://www.dwightgunning.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dyalog APL - D-functions
+ - [https://dfns.dyalog.com](https://dfns.dyalog.com)
+ - date published: 2023-10-25T14:00:19.708737+00:00
+ - user: None
+ - tags: []
+
+## Dyalog - Home
+ - [https://www.dyalog.com](https://www.dyalog.com)
+ - date published: 2023-10-25T14:00:26.538339+00:00
+ - user: None
+ - tags: []
+
+## Dying Light 2 – Official website
+ - [https://dyinglightgame.com](https://dyinglightgame.com)
+ - date published: 2023-10-30T18:27:03.121972+00:00
+ - user: None
+ - tags: ['game']
+
+## Dylan Paulus
+ - [https://www.dylanpaulus.com](https://www.dylanpaulus.com)
+ - date published: 2023-10-25T14:00:27.457944+00:00
+ - user: None
+ - tags: []
+
+## Developer Documentation | Dylibso Developer Resources
+ - [https://dev.dylibso.com](https://dev.dylibso.com)
+ - date published: 2023-10-25T14:00:28.218108+00:00
+ - user: None
+ - tags: []
+
 ## Welcome!
  - [https://dylibso.com](https://dylibso.com)
  - date published: 2023-10-25T14:00:29.744674+00:00
@@ -5338,6 +5386,12 @@
  - user: None
  - tags: []
 
+## FXhome: Powerful VFX & video editing software for creators
+ - [https://fxhome.com](https://fxhome.com)
+ - date published: 2024-03-29T05:48:45+00:00
+ - user: rumpel
+ - tags: ['video editor']
+
 ## GitHub - FixTweet/FxTwitter: Fix broken Twitter/X embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
  - [https://fxtwitter.com](https://fxtwitter.com)
  - date published: 2024-03-10T14:57:12.099476+00:00
@@ -5573,14 +5627,14 @@
  - tags: []
 
 ## Game Programming Patterns
- - [http://gameprogrammingpatterns.com](http://gameprogrammingpatterns.com)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com)
+ - date published: 2024-02-21T07:23:55+00:00
  - user: None
  - tags: []
 
 ## Game Programming Patterns
- - [https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com)
- - date published: 2024-02-21T07:23:55+00:00
+ - [http://gameprogrammingpatterns.com](http://gameprogrammingpatterns.com)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5943,59 +5997,4 @@
  - date published: 2023-11-08T11:28:22.739493+00:00
  - user: None
  - tags: ['corporation', 'avionics']
-
-## GearJunkie
- - [https://gearjunkie.com](https://gearjunkie.com)
- - date published: 2023-01-18T08:10:14+00:00
- - user: None
- - tags: []
-
-## gearnews.com
- - [https://www.gearnews.com](https://www.gearnews.com)
- - date published: 2023-11-29T21:06:02.136723+00:00
- - user: None
- - tags: ['audio news', 'audio equipment']
-
-## Gearrice - Explore the Tech World
- - [https://www.gearrice.com](https://www.gearrice.com)
- - date published: 2023-10-25T14:42:28.981386+00:00
- - user: None
- - tags: []
-
-## Gear Solutions Magazine Your Resource to the Gear Industry | Advertise and reach a broad-base audience of gear industry professionals and buyers with Gear Solutions magazine — the complete online resource for the gear industry. Media kit available at Gear Solutions.
- - [https://gearsolutions.com](https://gearsolutions.com)
- - date published: 2023-10-25T14:42:36.223188+00:00
- - user: None
- - tags: []
-
-## Gearspace.com - Gearspace.com - The No. 1 Website for Pro Audio
- - [https://gearspace.com](https://gearspace.com)
- - date published: 2023-10-26T14:06:10.928654+00:00
- - user: None
- - tags: []
-
-## Gedaly Guberek – Actor & Filmmaker
- - [https://gedaly.com](https://gedaly.com)
- - date published: 2024-02-25T20:27:59.697904+00:00
- - user: None
- - tags: []
-
-## Gedaly Guberek – Actor & Filmmaker
- - [https://www.gedaly.com](https://www.gedaly.com)
- - date published: 2023-12-10T11:34:42.913833+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - Geekbench
- - [https://browser.geekbench.com](https://browser.geekbench.com)
- - date published: 2023-11-02T05:02:44.382001+00:00
- - user: None
- - tags: []
-
-## Geek Grind Coffee and Tea
- - [https://geekgrindcoffee.com](https://geekgrindcoffee.com)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
 

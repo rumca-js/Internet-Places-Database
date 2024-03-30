@@ -1,3 +1,183 @@
+## University of Oregon WordPress Hosting – Educational blogs from our community
+ - [https://blogs.uoregon.edu](https://blogs.uoregon.edu)
+ - date published: 2023-10-25T19:03:47.440940+00:00
+ - user: None
+ - tags: []
+
+## English
+ - [https://audeco.ioc.upc.edu](https://audeco.ioc.upc.edu)
+ - date published: 2024-01-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Penn Engineering Blog - Posts from the School of Engineering and Applied Science
+ - [https://blog.seas.upenn.edu](https://blog.seas.upenn.edu)
+ - date published: 2023-10-25T19:03:53.115035+00:00
+ - user: None
+ - tags: []
+
+## Penn Wharton Budget Model
+ - [https://budgetmodel.wharton.upenn.edu](https://budgetmodel.wharton.upenn.edu)
+ - date published: 2023-10-25T19:03:56.322160+00:00
+ - user: None
+ - tags: []
+
+## Home Page - Knowledge at Wharton
+ - [https://knowledge.wharton.upenn.edu](https://knowledge.wharton.upenn.edu)
+ - date published: 2023-10-25T19:04:01.029385+00:00
+ - user: None
+ - tags: []
+
+## Language Log
+ - [https://languagelog.ldc.upenn.edu](https://languagelog.ldc.upenn.edu)
+ - date published: 2023-10-25T19:04:08.709335+00:00
+ - user: None
+ - tags: []
+
+## The Online Books Page
+ - [https://onlinebooks.library.upenn.edu](https://onlinebooks.library.upenn.edu)
+ - date published: 2023-10-25T19:04:10.693759+00:00
+ - user: None
+ - tags: []
+
+## Penn Today
+ - [https://penntoday.upenn.edu](https://penntoday.upenn.edu)
+ - date published: 2023-10-25T19:04:12.509293+00:00
+ - user: None
+ - tags: []
+
+## Software Foundations
+ - [https://softwarefoundations.cis.upenn.edu](https://softwarefoundations.cis.upenn.edu)
+ - date published: 2023-10-25T19:04:13.197515+00:00
+ - user: None
+ - tags: []
+
+## web.sas.upenn.edu
+ - [https://web.sas.upenn.edu](https://web.sas.upenn.edu)
+ - date published: 2023-10-25T19:04:14.935075+00:00
+ - user: None
+ - tags: []
+
+## Computer and Information Science | A Department of the School of Engineering and Applied Science
+ - [https://www.cis.upenn.edu](https://www.cis.upenn.edu)
+ - date published: 2023-10-25T19:04:17.867275+00:00
+ - user: None
+ - tags: []
+
+## Department of Linguistics - Home | Department of Linguistics
+ - [https://www.ling.upenn.edu](https://www.ling.upenn.edu)
+ - date published: 2023-10-25T19:04:20.730527+00:00
+ - user: None
+ - tags: []
+
+## Universitat Pompeu Fabra
+ - [https://www.upf.edu](https://www.upf.edu)
+ - date published: 2023-11-03T12:11:03.206459+00:00
+ - user: None
+ - tags: []
+
+## PHL @ UPR Arecibo
+ - [https://phl.upr.edu](https://phl.upr.edu)
+ - date published: 2024-02-24T18:05:06.332906+00:00
+ - user: None
+ - tags: []
+
+## The University of Rhode Island
+ - [https://www.uri.edu](https://www.uri.edu)
+ - date published: 2023-12-05T11:07:16.002679+00:00
+ - user: None
+ - tags: []
+
+## DigitalCommons@Ursinus
+ - [https://digitalcommons.ursinus.edu](https://digitalcommons.ursinus.edu)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## USC Dana and David Dornsife College of Letters, Arts and Sciences
+ - [https://dornsife.usc.edu](https://dornsife.usc.edu)
+ - date published: 2023-10-25T19:04:25.118739+00:00
+ - user: None
+ - tags: []
+
+## USC Schaeffer
+ - [https://healthpolicy.usc.edu](https://healthpolicy.usc.edu)
+ - date published: 2023-12-15T11:10:14.582512+00:00
+ - user: None
+ - tags: []
+
+## Keck School of Medicine Home
+ - [https://keck2.usc.edu](https://keck2.usc.edu)
+ - date published: 2023-12-10T11:37:34.314465+00:00
+ - user: None
+ - tags: []
+
+## Keck School of Medicine of USC | Leaders in medical education, research and patient care
+ - [https://keck.usc.edu](https://keck.usc.edu)
+ - date published: 2023-10-25T19:04:31.455123+00:00
+ - user: None
+ - tags: []
+
+## Home - Research and Innovation
+ - [https://research.usc.edu](https://research.usc.edu)
+ - date published: 2023-10-25T19:04:35.017898+00:00
+ - user: None
+ - tags: []
+
+## USC Today Home Page
+ - [https://today.usc.edu](https://today.usc.edu)
+ - date published: 2023-12-12T13:04:47.507405+00:00
+ - user: None
+ - tags: []
+
+## USC Viterbi School of Engineering
+ - [https://viterbischool.usc.edu](https://viterbischool.usc.edu)
+ - date published: 2023-10-25T19:04:40.599249+00:00
+ - user: None
+ - tags: []
+
+## Health News Florida - Homepage | Health News Florida
+ - [https://health.wusf.usf.edu](https://health.wusf.usf.edu)
+ - date published: 2023-12-04T16:16:09.264309+00:00
+ - user: None
+ - tags: []
+
+## CONTENTdm
+ - [https://digitalarchives.usi.edu](https://digitalarchives.usi.edu)
+ - date published: 1972-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Aquila Digital Community
+ - [https://aquila.usm.edu](https://aquila.usm.edu)
+ - date published: 2023-10-25T19:04:42.854167+00:00
+ - user: None
+ - tags: []
+
+## Modern War Institute -
+ - [https://mwi.usma.edu](https://mwi.usma.edu)
+ - date published: 2023-10-25T19:04:45.262357+00:00
+ - user: None
+ - tags: []
+
+## DigitalCommons@USU | Utah State University Research
+ - [https://digitalcommons.usu.edu](https://digitalcommons.usu.edu)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ACES – The University of Texas at Arlington – Abacus Cloud and Edge Systems
+ - [https://aceslab.uta.edu](https://aceslab.uta.edu)
+ - date published: 2020-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Internships - College of Social and Behavioral Science - The University of Utah
+ - [https://internships.csbs.utah.edu](https://internships.csbs.utah.edu)
+ - date published: 2024-02-08T17:51:53.015372+00:00
+ - user: None
+ - tags: []
+
 ## Kahlert School of Computing
  - [https://users.cs.utah.edu](https://users.cs.utah.edu)
  - date published: 2024-01-12T03:16:30.394085+00:00
@@ -625,14 +805,14 @@
  - tags: []
 
 ## Buttondown
- - [https://buttondown.email](https://buttondown.email)
- - date published: 2023-10-25T19:07:12.851726+00:00
+ - [http://buttondown.email](http://buttondown.email)
+ - date published: 2024-01-23T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Buttondown
- - [http://buttondown.email](http://buttondown.email)
- - date published: 2024-01-23T00:00:00+00:00
+ - [https://buttondown.email](https://buttondown.email)
+ - date published: 2023-10-25T19:07:12.851726+00:00
  - user: None
  - tags: []
 
@@ -1350,6 +1530,12 @@
  - user: None
  - tags: []
 
+## ivyl
+ - [https://blog.hiler.eu](https://blog.hiler.eu)
+ - date published: 2023-04-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Human Brain Project
  - [https://www.humanbrainproject.eu](https://www.humanbrainproject.eu)
  - date published: 2024-01-02T11:33:32.659729+00:00
@@ -1489,14 +1675,14 @@
  - tags: []
 
 ## NOYB enforces your right to privacy everyday
- - [http://noyb.eu](http://noyb.eu)
- - date published: 2024-02-26T15:02:23.923642+00:00
+ - [https://noyb.eu](https://noyb.eu)
+ - date published: 2023-10-25T11:24:53.335930+00:00
  - user: None
  - tags: []
 
 ## NOYB enforces your right to privacy everyday
- - [https://noyb.eu](https://noyb.eu)
- - date published: 2023-10-25T11:24:53.335930+00:00
+ - [http://noyb.eu](http://noyb.eu)
+ - date published: 2024-02-26T15:02:23.923642+00:00
  - user: None
  - tags: []
 
@@ -1753,16 +1939,16 @@
  - tags: []
 
 ## Nicole Express
- - [http://nicole.express](http://nicole.express)
- - date published: 2024-02-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nicole Express
  - [https://nicole.express](https://nicole.express)
  - date published: 2023-10-25T19:12:14.620553+00:00
  - user: None
  - tags: ['personal']
+
+## Nicole Express
+ - [http://nicole.express](http://nicole.express)
+ - date published: 2024-02-18T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Abort Retry Fail | Bradford Morgan White | Substack
  - [https://www.abortretry.fail](https://www.abortretry.fail)
@@ -1932,17 +2118,17 @@
  - user: None
  - tags: ['personal']
 
-## The X-Copy Shrine
- - [http://jope.fi/xcopy/index.html](http://jope.fi/xcopy/index.html)
- - date published: 2024-02-06T13:38:25.181349+00:00
- - user: rumpel
- - tags: ['amiga', 'x-copy']
-
 ## https://jope.fi
  - [https://jope.fi](https://jope.fi)
  - date published: 2024-01-11T00:42:53.136432+00:00
  - user: None
  - tags: []
+
+## The X-Copy Shrine
+ - [http://jope.fi/xcopy/index.html](http://jope.fi/xcopy/index.html)
+ - date published: 2024-02-06T13:38:25.181349+00:00
+ - user: rumpel
+ - tags: ['amiga', 'x-copy']
 
 ## Ville Jouppi
  - [http://jope.fi](http://jope.fi)
@@ -2005,14 +2191,14 @@
  - tags: []
 
 ## Spotify - Web Player: Music for everyone
- - [http://spoti.fi](http://spoti.fi)
- - date published: 2024-01-21T19:14:58.231822+00:00
+ - [https://spoti.fi](https://spoti.fi)
+ - date published: 2024-01-22T07:43:20.742120+00:00
  - user: None
  - tags: []
 
 ## Spotify - Web Player: Music for everyone
- - [https://spoti.fi](https://spoti.fi)
- - date published: 2024-01-22T07:43:20.742120+00:00
+ - [http://spoti.fi](http://spoti.fi)
+ - date published: 2024-01-21T19:14:58.231822+00:00
  - user: None
  - tags: []
 
@@ -3003,16 +3189,16 @@
  - tags: []
 
 ## Radio Admin
- - [http://manager8.streamradio.fr](http://manager8.streamradio.fr)
- - date published: 2024-02-15T01:59:51.771043+00:00
- - user: None
- - tags: []
-
-## Radio Admin
  - [https://manager8.streamradio.fr](https://manager8.streamradio.fr)
  - date published: 2024-02-15T22:13:33.848738+00:00
  - user: None
  - tags: ['demoscene']
+
+## Radio Admin
+ - [http://manager8.streamradio.fr](http://manager8.streamradio.fr)
+ - date published: 2024-02-15T01:59:51.771043+00:00
+ - user: None
+ - tags: []
 
 ## SunEstra
  - [https://sunestra.fr](https://sunestra.fr)
@@ -3195,14 +3381,14 @@
  - tags: []
 
 ## jade's www site
- - [https://jade.fyi](https://jade.fyi)
- - date published: 2024-01-09T18:46:42.354724+00:00
+ - [http://jade.fyi](http://jade.fyi)
+ - date published: 2024-01-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## jade's www site
- - [http://jade.fyi](http://jade.fyi)
- - date published: 2024-01-27T00:00:00+00:00
+ - [https://jade.fyi](https://jade.fyi)
+ - date published: 2024-01-09T18:46:42.354724+00:00
  - user: None
  - tags: []
 
@@ -3782,15 +3968,15 @@
  - user: None
  - tags: []
 
-## The Keyword
- - [http://blog.google](http://blog.google)
- - date published: 2024-02-21T00:00:00+00:00
- - user: None
- - tags: []
-
 ## The Keyword | Google Product and Technology News and Stories
  - [https://blog.google](https://blog.google)
  - date published: 2023-10-25T11:29:32.894232+00:00
+ - user: None
+ - tags: []
+
+## The Keyword
+ - [http://blog.google](http://blog.google)
+ - date published: 2024-02-21T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5817,192 +6003,6 @@
 ## Home | Galway Arts Centre
  - [https://www.galwayartscentre.ie](https://www.galwayartscentre.ie)
  - date published: 2024-03-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## - Irish Council for Civil Liberties
- - [https://www.iccl.ie](https://www.iccl.ie)
- - date published: 2023-10-25T19:28:50.484106+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://ind.ie](https://ind.ie)
- - date published: 2023-11-15T17:47:45.736424+00:00
- - user: None
- - tags: ['personal']
-
-## Independent.ie
- - [https://www.independent.ie](https://www.independent.ie)
- - date published: 2023-10-25T19:29:09.791542+00:00
- - user: None
- - tags: []
-
-## The Iona Institute
- - [https://ionainstitute.ie](https://ionainstitute.ie)
- - date published: 2023-10-25T19:29:12.803143+00:00
- - user: None
- - tags: []
-
-## Library Association Of Ireland – Representing libraries and librarianship in Ireland
- - [https://www.libraryassociation.ie](https://www.libraryassociation.ie)
- - date published: 2024-01-09T03:31:54.503255+00:00
- - user: None
- - tags: []
-
-## Lumagraph
- - [https://lumagraph.ie](https://lumagraph.ie)
- - date published: 2024-02-24T02:48:02.593049+00:00
- - user: None
- - tags: []
-
-## mastodon.ie
- - [https://mastodon.ie](https://mastodon.ie)
- - date published: 2023-10-24T20:13:22.323122+00:00
- - user: None
- - tags: ['mastodon']
-
-## RTÉ Ireland's National Television and Radio Broadcaster
- - [https://www.rte.ie](https://www.rte.ie)
- - date published: 2023-11-13T11:39:36.280341+00:00
- - user: None
- - tags: []
-
-## Trinity College Dublin
- - [https://www.tcd.ie](https://www.tcd.ie)
- - date published: 2023-10-27T11:57:09.533071+00:00
- - user: None
- - tags: []
-
-## The Book Resort Book Subscription Box| Irish Subscription Box
- - [https://www.thebookresort.ie](https://www.thebookresort.ie)
- - date published: 2023-12-02T08:10:41.745901+00:00
- - user: None
- - tags: []
-
-## The Gist
- - [https://www.thegist.ie](https://www.thegist.ie)
- - date published: 2024-01-07T17:49:46.908231+00:00
- - user: None
- - tags: []
-
-## TheJournal.ie
- - [https://www.thejournal.ie](https://www.thejournal.ie)
- - date published: 2023-12-16T00:26:08.230995+00:00
- - user: None
- - tags: []
-
-## Tristam – Plays with tech.
- - [https://tristam.ie](https://tristam.ie)
- - date published: 2023-10-25T19:29:24.615760+00:00
- - user: None
- - tags: []
-
-## University of Limerick | University of Limerick
- - [https://www.ul.ie](https://www.ul.ie)
- - date published: 2023-12-29T11:32:34.752998+00:00
- - user: None
- - tags: []
-
-## Home - Writing.ie
- - [https://www.writing.ie](https://www.writing.ie)
- - date published: 2023-11-20T17:24:19.164149+00:00
- - user: None
- - tags: []
-
-## אוניברסיטת בן-גוריון בנגב - ברוכים הבאים וברוכות הבאות
- - [https://www.bgu.ac.il](https://www.bgu.ac.il)
- - date published: 2024-03-21T13:48:25.965232+00:00
- - user: None
- - tags: []
-
-## Jerusalem Journal of Archaeology
- - [https://jjar.huji.ac.il](https://jjar.huji.ac.il)
- - date published: 2023-10-25T19:29:26.869067+00:00
- - user: None
- - tags: []
-
-## Tel Aviv University | Tel Aviv University
- - [https://english.tau.ac.il](https://english.tau.ac.il)
- - date published: 2023-10-25T19:29:32.967224+00:00
- - user: None
- - tags: []
-
-## Weizmann Wonder Wander - News, Features and Discoveries from the Weizmann Institute of Science
- - [https://wis-wander.weizmann.ac.il](https://wis-wander.weizmann.ac.il)
- - date published: 2023-10-25T10:11:36.340185+00:00
- - user: None
- - tags: []
-
-## Первое радио 89.1FM
- - [https://www.891fm.co.il](https://www.891fm.co.il)
- - date published: 2024-02-08T21:49:59.501224+00:00
- - user: None
- - tags: []
-
-## דף הבית - ערן שטרן
- - [https://www.eranstern.co.il](https://www.eranstern.co.il)
- - date published: 2023-11-17T15:06:30+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Globes - Israel Business News
- - [https://en.globes.co.il](https://en.globes.co.il)
- - date published: 2024-02-27T00:00:00+00:00
- - user: None
- - tags: ['business news', 'israel news']
-
-## הארץ - חדשות, ידיעות מהארץ והעולם - עיתון הארץ
- - [https://img.haarets.co.il](https://img.haarets.co.il)
- - date published: 2023-12-04T15:32:28.521089+00:00
- - user: None
- - tags: []
-
-## חדשות, דעות, תרבות, ספורט, כלכלה מהארץ והעולם | ישראל היום
- - [https://www.israelhayom.co.il](https://www.israelhayom.co.il)
- - date published: 2023-12-09T19:39:09.657744+00:00
- - user: None
- - tags: []
-
-## Israeli Diamond Industry
- - [https://en.israelidiamond.co.il](https://en.israelidiamond.co.il)
- - date published: 2024-01-24T20:54:31.768580+00:00
- - user: None
- - tags: []
-
-## Israel Today - News & Commentary. Stay Informed, Pray Informed.
- - [https://www.israeltoday.co.il](https://www.israeltoday.co.il)
- - date published: 2023-11-09T09:15:33.642354+00:00
- - user: None
- - tags: ['israel news']
-
-## Teaching Python and data science around the world
- - [https://lerner.co.il](https://lerner.co.il)
- - date published: 2023-10-27T11:57:12.193154+00:00
- - user: None
- - tags: []
-
-## mako חדשות. בידור. טלוויזיה
- - [https://mako.co.il](https://mako.co.il)
- - date published: 2024-02-25T21:52:04+00:00
- - user: rumpel
- - tags: []
-
-## - האתר של ד"ר דודו - מגוון טיולי איכות פרטיים ברמה גבוהה בהתאמה אישית וכן מידע אישי רב ומעודכן על נושאים ואזורים שונים בתאילנד - חלקם לא מוכר לישראלים
- - [https://mythailand.co.il](https://mythailand.co.il)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## ynet - חדשות, כלכלה, ספורט ובריאות - דיווחים שוטפים מהארץ ומהעולם
- - [https://www.ynet.co.il](https://www.ynet.co.il)
- - date published: 2024-03-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## None
- - [https://supreme.court.gov.il](https://supreme.court.gov.il)
- - date published: 2024-01-09T03:32:15.467545+00:00
  - user: None
  - tags: []
 

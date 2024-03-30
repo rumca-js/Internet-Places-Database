@@ -1,3 +1,58 @@
+## GearJunkie
+ - [https://gearjunkie.com](https://gearjunkie.com)
+ - date published: 2023-01-18T08:10:14+00:00
+ - user: None
+ - tags: []
+
+## gearnews.com
+ - [https://www.gearnews.com](https://www.gearnews.com)
+ - date published: 2023-11-29T21:06:02.136723+00:00
+ - user: None
+ - tags: ['audio news', 'audio equipment']
+
+## Gearrice - Explore the Tech World
+ - [https://www.gearrice.com](https://www.gearrice.com)
+ - date published: 2023-10-25T14:42:28.981386+00:00
+ - user: None
+ - tags: []
+
+## Gear Solutions Magazine Your Resource to the Gear Industry | Advertise and reach a broad-base audience of gear industry professionals and buyers with Gear Solutions magazine — the complete online resource for the gear industry. Media kit available at Gear Solutions.
+ - [https://gearsolutions.com](https://gearsolutions.com)
+ - date published: 2023-10-25T14:42:36.223188+00:00
+ - user: None
+ - tags: []
+
+## Gearspace.com - Gearspace.com - The No. 1 Website for Pro Audio
+ - [https://gearspace.com](https://gearspace.com)
+ - date published: 2023-10-26T14:06:10.928654+00:00
+ - user: None
+ - tags: []
+
+## Gedaly Guberek – Actor & Filmmaker
+ - [https://gedaly.com](https://gedaly.com)
+ - date published: 2024-02-25T20:27:59.697904+00:00
+ - user: None
+ - tags: []
+
+## Gedaly Guberek – Actor & Filmmaker
+ - [https://www.gedaly.com](https://www.gedaly.com)
+ - date published: 2023-12-10T11:34:42.913833+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - Geekbench
+ - [https://browser.geekbench.com](https://browser.geekbench.com)
+ - date published: 2023-11-02T05:02:44.382001+00:00
+ - user: None
+ - tags: []
+
+## Geek Grind Coffee and Tea
+ - [https://geekgrindcoffee.com](https://geekgrindcoffee.com)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Geek Metaverse News – AI, Crypto, Metaverse, NFT, Tech, Web3, Gaming and Reviews
  - [https://www.geekmetaverse.com](https://www.geekmetaverse.com)
  - date published: 2023-10-25T09:33:13.008147+00:00
@@ -343,6 +398,12 @@
 ## fiZz Agency by kHyal | Purpose-Driven Strategic Marketing
  - [https://getfizz.com](https://getfizz.com)
  - date published: 2024-02-08T18:06:47.239001+00:00
+ - user: None
+ - tags: []
+
+## Grist | The Evolution of Spreadsheets
+ - [https://www.getgrist.com](https://www.getgrist.com)
+ - date published: 2024-02-13T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -885,7 +946,7 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - [https://git-scm.com](https://git-scm.com)
  - date published: 2024-02-23T00:00:00+00:00
  - user: None
- - tags: ['version control system']
+ - tags: ['version control system', 'vcs']
 
 ## Gitta Wolf
  - [https://gittawolf.com](https://gittawolf.com)
@@ -2559,14 +2620,14 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## NSB Home page
- - [https://www.guppylake.com](https://www.guppylake.com)
- - date published: 2023-12-22T07:17:34.852159+00:00
+ - [http://www.guppylake.com](http://www.guppylake.com)
+ - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## NSB Home page
- - [http://www.guppylake.com](http://www.guppylake.com)
- - date published: 2023-01-01T00:00:00+00:00
+ - [https://www.guppylake.com](https://www.guppylake.com)
+ - date published: 2023-12-22T07:17:34.852159+00:00
  - user: None
  - tags: []
 
@@ -3009,16 +3070,16 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
- - [https://www.hanselman.com](https://www.hanselman.com)
- - date published: 2023-10-25T09:20:35.173651+00:00
- - user: None
- - tags: ['personal']
-
-## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
  - [http://www.hanselman.com](http://www.hanselman.com)
  - date published: 2024-03-07T00:00:00+00:00
  - user: None
  - tags: []
+
+## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
+ - [https://www.hanselman.com](https://www.hanselman.com)
+ - date published: 2023-10-25T09:20:35.173651+00:00
+ - user: None
+ - tags: ['personal']
 
 ## James Bottomley's random Pages | A collection of information
  - [https://blog.hansenpartnership.com](https://blog.hansenpartnership.com)
@@ -5939,66 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## inkle
  - [https://www.inklestudios.com](https://www.inklestudios.com)
  - date published: 2023-10-25T15:20:11.965217+00:00
- - user: None
- - tags: []
-
-## https://cmp.inmobi.com
- - [https://cmp.inmobi.com](https://cmp.inmobi.com)
- - date published: 2023-12-11T18:41:59.986191+00:00
- - user: None
- - tags: []
-
-## Inngest - Effortless serverless queues, background jobs, and workflows
- - [https://www.inngest.com](https://www.inngest.com)
- - date published: 2023-10-25T15:20:13.641088+00:00
- - user: None
- - tags: []
-
-## INNOQ
- - [https://www.innoq.com](https://www.innoq.com)
- - date published: 2023-10-25T15:20:16.024206+00:00
- - user: None
- - tags: []
-
-## Innovation & Tech Today | Online
- - [https://innotechtoday.com](https://innotechtoday.com)
- - date published: 2023-10-25T15:20:25.830987+00:00
- - user: None
- - tags: []
-
-## Innovation Origins - Your Sneak Preview of the Future
- - [https://innovationorigins.com](https://innovationorigins.com)
- - date published: 2023-10-25T15:20:37.229296+00:00
- - user: None
- - tags: []
-
-## Innovations Report - News & Neuigkeiten aus der Welt der Innovationen
- - [https://www.innovations-report.com](https://www.innovations-report.com)
- - date published: 2023-10-25T15:20:39.419726+00:00
- - user: None
- - tags: []
-
-## Ian Norris - Home
- - [https://inorris.com](https://inorris.com)
- - date published: 2023-10-25T15:20:40.248982+00:00
- - user: None
- - tags: []
-
-## InpharmD
- - [https://www.inpharmd.com](https://www.inpharmd.com)
- - date published: 2023-12-16T01:15:56.375298+00:00
- - user: None
- - tags: []
-
-## Quality Primary Research on Quality Companies | Explore the library | In Practise
- - [https://inpractise.com](https://inpractise.com)
- - date published: 2024-01-09T15:07:27.835139+00:00
- - user: None
- - tags: []
-
-## Input
- - [https://www.inputmag.com](https://www.inputmag.com)
- - date published: 2023-10-25T15:20:42.775326+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,255 @@
+## Forth Interest Group Home Page
+ - [http://www.forth.org](http://www.forth.org)
+ - date published: 2023-10-25T21:21:50.066557+00:00
+ - user: None
+ - tags: []
+
+## for Tomorrow | A long-term, multifaceted commitment to building a more sustainable world
+ - [https://fortomorrow.org](https://fortomorrow.org)
+ - date published: 2023-10-25T21:21:57.633900+00:00
+ - user: None
+ - tags: []
+
+## The Fortran Programming Language — Fortran Programming Language
+ - [https://fortran-lang.org](https://fortran-lang.org)
+ - date published: 2023-10-25T21:21:58.660647+00:00
+ - user: None
+ - tags: []
+
+## FOSDEM24 - Previous FOSDEM Editions
+ - [https://archive.fosdem.org](https://archive.fosdem.org)
+ - date published: 2023-10-25T21:22:00.131913+00:00
+ - user: None
+ - tags: []
+
+## FOSDEM24 - Home
+ - [https://fosdem.org](https://fosdem.org)
+ - date published: 2023-10-25T21:22:01.486923+00:00
+ - user: None
+ - tags: ['open source', 'community event']
+
+## FOSS and Crafts
+ - [https://fossandcrafts.org](https://fossandcrafts.org)
+ - date published: 2023-10-25T21:22:03.037482+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://fosshost.org](https://fosshost.org)
+ - date published: 2024-01-09T03:39:31.584866+00:00
+ - user: None
+ - tags: []
+
+## Fossify GitHub Page
+ - [https://www.fossify.org](https://www.fossify.org)
+ - date published: 2024-01-15T18:29:40+00:00
+ - user: rumpel
+ - tags: []
+
+## Fossil: A Coherent Software Configuration Management System
+ - [https://fossil-scm.org](https://fossil-scm.org)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Fossil: Home
+ - [https://www.fossil-scm.org](https://www.fossil-scm.org)
+ - date published: 2023-10-25T21:22:05.638420+00:00
+ - user: None
+ - tags: []
+
+## | FOSSlife
+ - [https://www.fosslife.org](https://www.fosslife.org)
+ - date published: 2024-01-09T03:39:33.696357+00:00
+ - user: None
+ - tags: []
+
+## Fosstodon
+ - [https://fosstodon.org](https://fosstodon.org)
+ - date published: 2023-10-24T20:13:36.118898+00:00
+ - user: None
+ - tags: ['mastodon', 'open source']
+
+## Fosstodon Hub
+ - [https://hub.fosstodon.org](https://hub.fosstodon.org)
+ - date published: 2023-10-25T21:22:06.810545+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Ellenberger Architecture | Architectural practice in the California Bay Area, with experience in commercial, civic, healthcare, education, and residential projects.
+ - [https://www.fotuva.org](https://www.fotuva.org)
+ - date published: 2024-01-09T03:39:38.501537+00:00
+ - user: None
+ - tags: []
+
+## FoundSF
+ - [https://www.foundsf.org](https://www.foundsf.org)
+ - date published: 2023-10-25T21:22:16.106715+00:00
+ - user: None
+ - tags: []
+
+## The History of FoxPro
+ - [http://www.foxprohistory.org](http://www.foxprohistory.org)
+ - date published: 2023-10-25T21:22:16.878309+00:00
+ - user: None
+ - tags: []
+
+## Foreign Policy Research Institute - International Policy Think Tank
+ - [https://www.fpri.org](https://www.fpri.org)
+ - date published: 2024-02-24T18:07:47.400683+00:00
+ - user: None
+ - tags: []
+
+## Framablog – La route est longue mais la voie est libre…
+ - [https://framablog.org](https://framablog.org)
+ - date published: 2023-10-25T21:22:21.674069+00:00
+ - user: None
+ - tags: []
+
+## Franck Goddio: Homepage
+ - [https://www.franckgoddio.org](https://www.franckgoddio.org)
+ - date published: 2023-10-25T21:22:23.863582+00:00
+ - user: None
+ - tags: []
+
+## Fraser Institute
+ - [https://fraserinstitute.org](https://fraserinstitute.org)
+ - date published: 2023-10-25T21:22:27.402641+00:00
+ - user: None
+ - tags: []
+
+## Federal Reserve Bank of San Francisco
+ - [https://www.frbsf.org](https://www.frbsf.org)
+ - date published: 2024-01-17T15:40:24.538988+00:00
+ - user: None
+ - tags: []
+
+## Fred Hutchinson Cancer Center
+ - [https://www.fredhutch.org](https://www.fredhutch.org)
+ - date published: 2024-03-14T18:39:56.925973+00:00
+ - user: None
+ - tags: []
+
+## FreeBSD Git repositories
+ - [https://cgit.freebsd.org](https://cgit.freebsd.org)
+ - date published: 2023-10-25T21:22:28.105203+00:00
+ - user: None
+ - tags: []
+
+## FreeBSD Documentation Archive
+ - [https://docs-archive.freebsd.org](https://docs-archive.freebsd.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://docs.freebsd.org/en/
+ - [https://docs.freebsd.org](https://docs.freebsd.org)
+ - date published: 2023-10-25T21:22:28.573567+00:00
+ - user: None
+ - tags: []
+
+## FreeBSD Mailing lists
+ - [https://lists.freebsd.org](https://lists.freebsd.org)
+ - date published: 2023-10-25T21:22:31.820209+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the FreeBSD mailing list archive
+ - [https://mail-archive.freebsd.org](https://mail-archive.freebsd.org)
+ - date published: 2024-01-21T19:44:58.536359+00:00
+ - user: None
+ - tags: []
+
+## FreeBSD Homepages - redirect
+ - [https://people.freebsd.org](https://people.freebsd.org)
+ - date published: 2023-10-25T21:22:32.400113+00:00
+ - user: None
+ - tags: []
+
+## The FreeBSD Project
+ - [https://www.freebsd.org](https://www.freebsd.org)
+ - date published: 2023-10-25T21:22:33.812166+00:00
+ - user: None
+ - tags: ['operating system', 'linux']
+
+## None
+ - [https://issue.freebsdfoundation.org](https://issue.freebsdfoundation.org)
+ - date published: 2024-01-09T03:39:45.663594+00:00
+ - user: None
+ - tags: []
+
+## FreeCAD Forum - FreeCAD forum
+ - [https://forum.freecad.org](https://forum.freecad.org)
+ - date published: 2023-10-25T21:22:34.862514+00:00
+ - user: None
+ - tags: []
+
+## FPA
+ - [https://fpa.freecad.org](https://fpa.freecad.org)
+ - date published: 2024-03-21T03:17:22.168529+00:00
+ - user: None
+ - tags: []
+
+## FreeCAD: Your own 3D parametric modeler
+ - [https://freecad.org](https://freecad.org)
+ - date published: 2024-03-21T07:00:49+00:00
+ - user: rumpel
+ - tags: ['open source', 'program']
+
+## Freeciv.org - open source empire-building strategy game.
+ - [https://freeciv.org](https://freeciv.org)
+ - date published: 2024-01-09T03:39:56.984328+00:00
+ - user: None
+ - tags: ['open source', 'video game']
+
+## https://www.freecodecamp.org
+ - [https://www.freecodecamp.org](https://www.freecodecamp.org)
+ - date published: 2023-12-11T12:20:17+00:00
+ - user: rumpel
+ - tags: ['tutorials', 'courses']
+
+## Free Code Tools - Build better and faster
+ - [https://freecodetools.org](https://freecodetools.org)
+ - date published: 2023-10-25T21:22:36.834803+00:00
+ - user: None
+ - tags: []
+
+## freedesktop.org git repository browser
+ - [https://cgit.freedesktop.org](https://cgit.freedesktop.org)
+ - date published: 2024-01-09T03:40:11.555074+00:00
+ - user: None
+ - tags: []
+
+## www
+ - [https://freedesktop.org](https://freedesktop.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['software platform']
+
+## Explore groups · GitLab
+ - [https://gitlab.freedesktop.org](https://gitlab.freedesktop.org)
+ - date published: 2023-10-25T21:22:53.665835+00:00
+ - user: None
+ - tags: ['linux', 'graphic stack', 'open source']
+
+## lists.freedesktop.org Mailing Lists
+ - [https://lists.freedesktop.org](https://lists.freedesktop.org)
+ - date published: 2024-03-07T21:42:44.490922+00:00
+ - user: None
+ - tags: []
+
+## Poppler
+ - [https://poppler.freedesktop.org](https://poppler.freedesktop.org)
+ - date published: 2023-10-25T21:22:54.773695+00:00
+ - user: None
+ - tags: []
+
+## Wayland
+ - [https://wayland.freedesktop.org](https://wayland.freedesktop.org)
+ - date published: 2023-10-30T14:01:41.938140+00:00
+ - user: None
+ - tags: ['open source', 'wayland']
+
 ## FreeLists
  - [https://www.freelists.org](https://www.freelists.org)
  - date published: 2023-10-25T21:22:55.668408+00:00
@@ -1581,16 +1833,16 @@
  - tags: []
 
 ## IEEE Spectrum
- - [http://spectrum.ieee.org](http://spectrum.ieee.org)
- - date published: 2024-02-25T20:49:03.401404+00:00
- - user: None
- - tags: []
-
-## IEEE Spectrum
  - [https://spectrum.ieee.org](https://spectrum.ieee.org)
  - date published: 2023-10-25T09:37:30.327947+00:00
  - user: None
  - tags: ['tech news']
+
+## IEEE Spectrum
+ - [http://spectrum.ieee.org](http://spectrum.ieee.org)
+ - date published: 2024-02-25T20:49:03.401404+00:00
+ - user: None
+ - tags: []
 
 ## None
  - [https://ieeeia.org](https://ieeeia.org)
@@ -1827,16 +2079,16 @@
  - tags: []
 
 ## Draw Freely | Inkscape
- - [http://www.inkscape.org](http://www.inkscape.org)
- - date published: 2024-02-26T09:27:07.298333+00:00
- - user: None
- - tags: []
-
-## Draw Freely | Inkscape
  - [https://www.inkscape.org](https://www.inkscape.org)
  - date published: 2023-12-12T09:13:16+00:00
  - user: None
  - tags: ['vector graphics']
+
+## Draw Freely | Inkscape
+ - [http://www.inkscape.org](http://www.inkscape.org)
+ - date published: 2024-02-26T09:27:07.298333+00:00
+ - user: None
+ - tags: []
 
 ## Ink/Stitch: An open-source machine embroidery design platform based on Inkscape
  - [https://inkstitch.org](https://inkstitch.org)
@@ -3834,16 +4086,16 @@ Hosted by Panix.com.
  - tags: []
 
 ## Marco.org
- - [http://marco.org](http://marco.org)
- - date published: 2024-02-26T08:57:24.441371+00:00
- - user: None
- - tags: []
-
-## Marco.org
  - [https://marco.org](https://marco.org)
  - date published: 2023-10-25T08:55:03.700528+00:00
  - user: None
  - tags: ['personal']
+
+## Marco.org
+ - [http://marco.org](http://marco.org)
+ - date published: 2024-02-26T08:57:24.441371+00:00
+ - user: None
+ - tags: []
 
 ## Home - Marcosticks
  - [https://marcosticks.org](https://marcosticks.org)
@@ -4113,7 +4365,7 @@ Hosted by Panix.com.
  - [https://www.mercurial-scm.org](https://www.mercurial-scm.org)
  - date published: 2024-03-04T11:36:29.558578+00:00
  - user: None
- - tags: []
+ - tags: ['vcs']
 
 ## Meribold
  - [https://meribold.org](https://meribold.org)
@@ -4450,16 +4702,16 @@ Common Weakness Enumeration
  - tags: []
 
 ## The Mod Archive v4.0b - A distinctive collection of modules
- - [https://modarchive.org](https://modarchive.org)
- - date published: 2023-10-28T19:01:07.809021+00:00
- - user: None
- - tags: ['chiptune', 'keygen', 'demoscene']
-
-## The Mod Archive v4.0b - A distinctive collection of modules
  - [http://modarchive.org](http://modarchive.org)
  - date published: 2024-02-15T01:59:58.310157+00:00
  - user: None
  - tags: []
+
+## The Mod Archive v4.0b - A distinctive collection of modules
+ - [https://modarchive.org](https://modarchive.org)
+ - date published: 2023-10-28T19:01:07.809021+00:00
+ - user: None
+ - tags: ['chiptune', 'keygen', 'demoscene']
 
 ## mojo.js - JavaScript real-time web framework
  - [https://mojojs.org](https://mojojs.org)
@@ -4641,17 +4893,17 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
-## Internet for people, not profit — Mozilla (US)
- - [https://www.mozilla.org](https://www.mozilla.org)
- - date published: 2023-10-25T09:27:30.838308+00:00
- - user: None
- - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
-
 ## Pocket | Discover, Capture and Savor Content That Fascinates You
  - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
  - date published: 2023-11-13T13:38:32+00:00
  - user: rumpel
  - tags: ['bookmark manager', 'link aggregation']
+
+## Internet for people, not profit — Mozilla (US)
+ - [https://www.mozilla.org](https://www.mozilla.org)
+ - date published: 2023-10-25T09:27:30.838308+00:00
+ - user: None
+ - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
 
 ## Nextcloud
  - [https://nce.mpi-sp.org](https://nce.mpi-sp.org)
@@ -5754,258 +6006,6 @@ Common Weakness Enumeration
 ## Human-made Content | Nonbot.org
  - [https://nonbot.org](https://nonbot.org)
  - date published: 2023-10-25T21:49:07.333742+00:00
- - user: None
- - tags: []
-
-## Welcome [Savannah]
- - [https://www.nongnu.org](https://www.nongnu.org)
- - date published: 2023-12-08T15:49:15.150101+00:00
- - user: None
- - tags: []
-
-## Official NORAD Tracks Santa
- - [https://www.noradsanta.org](https://www.noradsanta.org)
- - date published: 2023-10-25T21:49:15.959731+00:00
- - user: None
- - tags: []
-
-## Northern California Water Association
- - [https://norcalwater.org](https://norcalwater.org)
- - date published: 2024-01-24T20:56:43.500076+00:00
- - user: None
- - tags: []
-
-## NCPR: North Country Public Radio
- - [https://www.northcountrypublicradio.org](https://www.northcountrypublicradio.org)
- - date published: 2024-01-20T16:35:27.219759+00:00
- - user: None
- - tags: []
-
-## nota-bene.org, chez Stéphane
- - [https://nota-bene.org](https://nota-bene.org)
- - date published: 2023-12-22T17:50:59.722622+00:00
- - user: None
- - tags: ['personal']
-
-## Notepad++
- - [https://notepad-plus-plus.org](https://notepad-plus-plus.org)
- - date published: 2023-11-01T08:44:27.480004+00:00
- - user: None
- - tags: []
-
-## No Time To Play
- - [https://notimetoplay.org](https://notimetoplay.org)
- - date published: 2023-12-20T20:52:05.122891+00:00
- - user: None
- - tags: ['personal']
-
-## notmuch
- - [https://notmuchmail.org](https://notmuchmail.org)
- - date published: 2023-10-25T21:49:23.394283+00:00
- - user: None
- - tags: []
-
-## David "Novalis" Turner
- - [https://novalis.org](https://novalis.org)
- - date published: 2023-10-25T08:55:09.654027+00:00
- - user: None
- - tags: ['personal']
-
-## Show HN: NowDo – a super-simple todo app for procrastinators (macOS)
- - [https://nowdo.org](https://nowdo.org)
- - date published: 2023-12-17T02:18:02+00:00
- - user: None
- - tags: []
-
-## NPG - Negative Population Growth
- - [https://npg.org](https://npg.org)
- - date published: 2023-10-25T21:49:31.052897+00:00
- - user: None
- - tags: []
-
-## NPR Visuals + News Apps
- - [https://apps.npr.org](https://apps.npr.org)
- - date published: 2023-11-20T18:24:16.575994+00:00
- - user: None
- - tags: []
-
-## NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR
- - [https://feeds.npr.org](https://feeds.npr.org)
- - date published: 2023-10-25T10:50:53.329452+00:00
- - user: None
- - tags: []
-
-## NPR : National Public Radio
- - [https://text.npr.org](https://text.npr.org)
- - date published: 2023-10-25T21:49:34.712481+00:00
- - user: None
- - tags: []
-
-## NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR
- - [https://www.npr.org](https://www.npr.org)
- - date published: 2023-10-25T10:30:42.840665+00:00
- - user: None
- - tags: ['tiny desk concert', 'news']
-
-## Donor-Advised Funds | NPT | National Philanthropic Trust
- - [https://www.nptrust.org](https://www.nptrust.org)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Homepage | National Snow and Ice Data Center
- - [https://nsidc.org](https://nsidc.org)
- - date published: 2023-10-25T21:49:42.497034+00:00
- - user: None
- - tags: []
-
-## National Tidal and Sea Level Facility
- - [https://ntslf.org](https://ntslf.org)
- - date published: 2023-10-25T21:49:47.112219+00:00
- - user: None
- - tags: []
-
-## Nuclear Museum
- - [https://ahf.nuclearmuseum.org](https://ahf.nuclearmuseum.org)
- - date published: 2023-10-25T21:49:52.230399+00:00
- - user: None
- - tags: []
-
-## Nue / Frontend troublesolver
- - [https://nuejs.org](https://nuejs.org)
- - date published: 2023-10-25T21:49:55.241244+00:00
- - user: None
- - tags: []
-
-## Nurse.org | Nursing News, Education & Community
- - [https://nurse.org](https://nurse.org)
- - date published: 2023-10-25T21:50:21.823014+00:00
- - user: None
- - tags: []
-
-## NutritionFacts.org | The Latest in Nutrition Related Research
- - [https://nutritionfacts.org](https://nutritionfacts.org)
- - date published: 2023-12-03T18:38:42.130534+00:00
- - user: None
- - tags: []
-
-## Home | NutriTruth
- - [https://www.nutritruth.org](https://www.nutritruth.org)
- - date published: 2023-10-25T21:50:32.911635+00:00
- - user: None
- - tags: []
-
-## Home | New York Heritage
- - [https://nyheritage.org](https://nyheritage.org)
- - date published: 2023-10-25T21:50:35.710953+00:00
- - user: None
- - tags: []
-
-## The New York Public Library
- - [https://www.nypl.org](https://www.nypl.org)
- - date published: 2023-11-17T20:24:45.384198+00:00
- - user: None
- - tags: []
-
-## NYSSCPA | The New York State Society of CPAs
- - [https://www.nysscpa.org](https://www.nysscpa.org)
- - date published: 2024-03-02T19:24:55.022234+00:00
- - user: None
- - tags: []
-
-## Engelberg Center on Innovation Law & Policy
- - [https://www.nyuengelberg.org](https://www.nyuengelberg.org)
- - date published: 2023-10-25T21:50:38.141828+00:00
- - user: None
- - tags: []
-
-## Patient Care at NYU Langone Health
- - [https://nyulangone.org](https://nyulangone.org)
- - date published: 2023-10-25T21:50:42.972835+00:00
- - user: None
- - tags: []
-
-## Home - O3DE
- - [https://o3de.org](https://o3de.org)
- - date published: 2023-11-01T08:44:29.705947+00:00
- - user: None
- - tags: ['game engine']
-
-## Oakland Public Library
- - [https://oaklandlibrary.org](https://oaklandlibrary.org)
- - date published: 2023-10-25T21:50:54.405209+00:00
- - user: None
- - tags: []
-
-## Oakwood Cemetery
- - [https://www.oakwoodcemetery.org](https://www.oakwoodcemetery.org)
- - date published: 2024-02-08T17:01:04.405808+00:00
- - user: None
- - tags: []
-
-## Home - OAME - Oregon Association of Minority Entrepreneurs
- - [https://oame.org](https://oame.org)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Free Oberon
- - [https://free.oberon.org](https://free.oberon.org)
- - date published: 2023-11-12T15:24:40.934897+00:00
- - user: None
- - tags: []
-
-## Objective-See Foundation
- - [https://objective-see.org](https://objective-see.org)
- - date published: 2023-10-25T21:50:57.451695+00:00
- - user: None
- - tags: []
-
-## OCaml
- - [https://discuss.ocaml.org](https://discuss.ocaml.org)
- - date published: 2023-10-25T21:51:04.317444+00:00
- - user: None
- - tags: []
-
-## Welcome to a World of OCaml
- - [https://ocaml.org](https://ocaml.org)
- - date published: 2023-10-25T21:51:06.937636+00:00
- - user: None
- - tags: []
-
-## Organized Crime and Corruption Reporting Project - OCCRP
- - [https://www.occrp.org](https://www.occrp.org)
- - date published: 2023-12-03T14:38:22.234482+00:00
- - user: None
- - tags: []
-
-## Home - Ocean Conservancy
- - [https://oceanconservancy.org](https://oceanconservancy.org)
- - date published: 2024-01-09T18:45:59.344903+00:00
- - user: None
- - tags: []
-
-## https://bost.ocks.org
- - [https://bost.ocks.org](https://bost.ocks.org)
- - date published: 2024-01-09T03:41:51.779522+00:00
- - user: None
- - tags: []
-
-## Home | New York Heritage
- - [https://nyheritage.contentdm.oclc.org](https://nyheritage.contentdm.oclc.org)
- - date published: 2024-01-01T18:11:47.620957+00:00
- - user: None
- - tags: []
-
-## OC Media | Fierce, independent journalism from the North and South Caucasus
- - [https://oc-media.org](https://oc-media.org)
- - date published: 2024-03-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## GNU Octave
- - [https://octave.org](https://octave.org)
- - date published: 2023-10-25T21:51:12.283785+00:00
  - user: None
  - tags: []
 

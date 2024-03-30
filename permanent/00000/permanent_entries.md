@@ -994,6 +994,12 @@
  - user: None
  - tags: []
 
+## Lumona
+ - [https://lumona.ai](https://lumona.ai)
+ - date published: 2024-03-29T20:12:06.449920+00:00
+ - user: None
+ - tags: []
+
 ## Mastodon
  - [https://masto.ai](https://masto.ai)
  - date published: 2023-10-24T20:13:16.747974+00:00
@@ -1129,6 +1135,12 @@
 ## Mycroft – The Open Source Privacy-Focused Voice Assistant - Mycroft
  - [https://mycroft.ai](https://mycroft.ai)
  - date published: 2023-10-25T08:32:40.290881+00:00
+ - user: None
+ - tags: []
+
+## MyShell TTS
+ - [https://research.myshell.ai](https://research.myshell.ai)
+ - date published: 2024-03-29T10:12:26.443638+00:00
  - user: None
  - tags: []
 
@@ -5984,18 +5996,6 @@
 ## Regina News | Regina Weather | CTV News Regina
  - [https://regina.ctvnews.ca](https://regina.ctvnews.ca)
  - date published: 2023-12-12T08:42:43.297708+00:00
- - user: None
- - tags: []
-
-## Saskatoon News | Local Breaking | CTV News Saskatoon
- - [https://saskatoon.ctvnews.ca](https://saskatoon.ctvnews.ca)
- - date published: 2023-12-12T08:41:36.159326+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://stats.ctvnews.ca](https://stats.ctvnews.ca)
- - date published: 2023-12-12T08:41:53.588641+00:00
  - user: None
  - tags: []
 

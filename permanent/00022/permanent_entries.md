@@ -1,3 +1,243 @@
+## 16-bits.org - home of 8bitbubsy
+ - [https://16-bits.org](https://16-bits.org)
+ - date published: 2024-01-24T14:39:46+00:00
+ - user: rumpel
+ - tags: ['demoscene', 'tracker music', 'chiptune', 'keygen']
+
+## The 19th News | An independent, nonprofit newsroom.
+ - [https://19thnews.org](https://19thnews.org)
+ - date published: 2023-10-25T20:52:35.003868+00:00
+ - user: None
+ - tags: []
+
+## 2009Scape - A free & open-source remake of 2009 era RuneScape
+ - [https://2009scape.org](https://2009scape.org)
+ - date published: 2023-10-25T20:52:36.474767+00:00
+ - user: None
+ - tags: []
+
+## 38 North - Informed analysis of events in and around North Korea
+ - [https://www.38north.org](https://www.38north.org)
+ - date published: 2023-10-25T20:52:39.281469+00:00
+ - user: None
+ - tags: ['north korea']
+
+## 3dbrew
+ - [https://www.3dbrew.org](https://www.3dbrew.org)
+ - date published: 2023-10-25T20:52:41.660191+00:00
+ - user: None
+ - tags: []
+
+## 3ders.org - 3D printer and 3D printing news
+ - [https://www.3ders.org](https://www.3ders.org)
+ - date published: 2023-10-27T10:33:25.336432+00:00
+ - user: None
+ - tags: ['tech news', '3d printing']
+
+## 3DS Roms For Citra - Download Nintendo 3DS Roms
+ - [https://3dsroms.org](https://3dsroms.org)
+ - date published: 2024-02-04T00:00:00+00:00
+ - user: rumpel
+ - tags: ['3ds', 'citra']
+
+## 3D-XplorMath Homepage
+ - [https://3d-xplormath.org](https://3d-xplormath.org)
+ - date published: 2024-02-08T16:50:21.252264+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the Worlds of Marble!  -  Reboot: 4.2 days  Uptime: 15:25
+ - [https://www.3k.org](https://www.3k.org)
+ - date published: 2024-03-27T20:48:45.626063+00:00
+ - user: None
+ - tags: ['mud game']
+
+## https://4chan.org
+ - [https://4chan.org](https://4chan.org)
+ - date published: 2023-10-24T20:12:50.282981+00:00
+ - user: None
+ - tags: ['social platform']
+
+## https://www.4chan.org
+ - [https://www.4chan.org](https://www.4chan.org)
+ - date published: 2023-10-24T20:12:50.536524+00:00
+ - user: None
+ - tags: []
+
+## 4Dimensions.org Port 6000 – Oh the places you will go…
+ - [https://4dimensions.org](https://4dimensions.org)
+ - date published: 2024-03-27T20:46:55.231864+00:00
+ - user: None
+ - tags: ['mud game']
+
+## 4open
+ - [https://www.4open-sciences.org](https://www.4open-sciences.org)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 6502.org • Index page
+ - [http://forum.6502.org](http://forum.6502.org)
+ - date published: 2023-12-07T23:21:48.879898+00:00
+ - user: None
+ - tags: []
+
+## 6502.org: The 6502 Microprocessor Resource
+ - [http://www.6502.org](http://www.6502.org)
+ - date published: 2024-02-26T15:43:05.867715+00:00
+ - user: None
+ - tags: []
+
+## 68kMLA
+ - [https://68kmla.org](https://68kmla.org)
+ - date published: 2024-03-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Fatih's Personal Blog
+ - [https://blog.6nok.org](https://blog.6nok.org)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 7-Zip
+ - [https://7-zip.org](https://7-zip.org)
+ - date published: 2023-10-25T20:52:43.015422+00:00
+ - user: None
+ - tags: []
+
+## 80,000 Hours: How to make a difference with your career
+ - [https://80000hours.org](https://80000hours.org)
+ - date published: 2023-10-25T20:52:46.868740+00:00
+ - user: None
+ - tags: []
+
+## 9/11 Realtime
+ - [https://911realtime.org](https://911realtime.org)
+ - date published: 2023-10-25T20:52:48.596512+00:00
+ - user: None
+ - tags: []
+
+## 99% Invisible
+ - [https://99percentinvisible.org](https://99percentinvisible.org)
+ - date published: 2023-10-25T20:52:52.176166+00:00
+ - user: None
+ - tags: []
+
+## 9FRONT.ORG THE PLAN FELL OFF
+ - [https://9front.org](https://9front.org)
+ - date published: 2023-10-25T20:52:59.435440+00:00
+ - user: None
+ - tags: []
+
+## 9FRONT FREQUENTLY QUESTIONED ANSWERS
+ - [https://fqa.9front.org](https://fqa.9front.org)
+ - date published: 2024-01-02T16:46:04.268065+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://9lab.org](https://9lab.org)
+ - date published: 2024-01-02T19:08:29.997667+00:00
+ - user: None
+ - tags: []
+
+## AAAS Home | American Association for the Advancement of Science (AAAS)
+ - [https://www.aaas.org](https://www.aaas.org)
+ - date published: 2023-11-23T10:59:39.029974+00:00
+ - user: None
+ - tags: []
+
+## American Association for Cancer Research
+ - [https://aacrjournals.org](https://aacrjournals.org)
+ - date published: 2023-11-05T06:08:41.957585+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.aallnet.org](https://www.aallnet.org)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Tomorrow's Doctors, Tomorrow's Cures
+ - [https://www.aamc.org](https://www.aamc.org)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Astronomy & Astrophysics (A&A)
+ - [https://www.aanda.org](https://www.aanda.org)
+ - date published: 2023-12-20T21:57:54.410586+00:00
+ - user: None
+ - tags: []
+
+## American Academy of Pediatrics
+ - [https://publications.aap.org](https://publications.aap.org)
+ - date published: 2023-11-06T10:39:21.892891+00:00
+ - user: None
+ - tags: []
+
+## Aaron Simpson
+ - [https://aaronsimpson.org](https://aaronsimpson.org)
+ - date published: 2024-01-05T21:35:51.217748+00:00
+ - user: None
+ - tags: []
+
+## Home | Adam Aaronson
+ - [https://aaronson.org](https://aaronson.org)
+ - date published: 2023-10-25T20:53:01.643487+00:00
+ - user: None
+ - tags: []
+
+## Games
+ - [https://games.aarp.org](https://games.aarp.org)
+ - date published: 2023-10-30T11:59:48.224688+00:00
+ - user: None
+ - tags: ['games', 'atari']
+
+## AARP® Official Site - Join & Explore the Benefits
+ - [https://www.aarp.org](https://www.aarp.org)
+ - date published: 2023-10-25T20:53:09.275713+00:00
+ - user: None
+ - tags: []
+
+## Bulletin of the AAS
+ - [https://baas.aas.org](https://baas.aas.org)
+ - date published: 2024-02-24T18:05:46.247535+00:00
+ - user: None
+ - tags: []
+
+## Homepage - AAS Nova
+ - [https://aasnova.org](https://aasnova.org)
+ - date published: 2023-10-25T20:53:12.339589+00:00
+ - user: None
+ - tags: []
+
+## abelard public education website
+ - [https://www.abelard.org](https://www.abelard.org)
+ - date published: 2023-10-25T20:53:20.409245+00:00
+ - user: None
+ - tags: []
+
+## Asian Bureau of Finance and Economic Research | ABFER
+ - [https://abfer.org](https://abfer.org)
+ - date published: 2024-02-24T09:58:34.794824+00:00
+ - user: None
+ - tags: []
+
+## About Philippines – Philippines Life & Culture
+ - [https://aboutphilippines.org](https://aboutphilippines.org)
+ - date published: 2023-12-29T22:02:16.911318+00:00
+ - user: None
+ - tags: []
+
+## Home - American College of Cardiology
+ - [https://www.acc.org](https://www.acc.org)
+ - date published: 2023-10-25T20:53:25.158857+00:00
+ - user: None
+ - tags: []
+
 ## Access to Insight
  - [https://www.accesstoinsight.org](https://www.accesstoinsight.org)
  - date published: 2023-10-25T20:53:32.094744+00:00
@@ -47,14 +287,14 @@
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -461,16 +701,16 @@
  - tags: []
 
 ## AlxQ
- - [https://alxq.org](https://alxq.org)
- - date published: 2024-02-15T22:12:28.937827+00:00
- - user: None
- - tags: ['demoscene']
-
-## AlxQ
  - [http://alxq.org](http://alxq.org)
  - date published: 2024-02-11T13:39:19.641138+00:00
  - user: None
  - tags: []
+
+## AlxQ
+ - [https://alxq.org](https://alxq.org)
+ - date published: 2024-02-15T22:12:28.937827+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Alys Stephens Center - Home
  - [https://www.alysstephens.org](https://www.alysstephens.org)
@@ -904,6 +1144,12 @@
  - user: None
  - tags: []
 
+## Apache Guacamole: a clientless remote desktop gateway
+ - [https://guacamole.apache.org](https://guacamole.apache.org)
+ - date published: 2024-03-29T18:59:50+00:00
+ - user: None
+ - tags: []
+
 ## Apache Hadoop
  - [https://hadoop.apache.org](https://hadoop.apache.org)
  - date published: 2023-06-23T00:00:00+00:00
@@ -980,7 +1226,7 @@
  - [https://subversion.apache.org](https://subversion.apache.org)
  - date published: 2024-03-04T14:29:20+00:00
  - user: rumpel
- - tags: ['svn']
+ - tags: ['svn', 'vcs']
 
 ## Apache Superset
  - [https://superset.apache.org](https://superset.apache.org)
@@ -1197,14 +1443,14 @@
  - tags: []
 
 ## Archiveteam
- - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
+ - date published: 2023-11-25T06:19:37.367056+00:00
  - user: None
  - tags: []
 
 ## Archiveteam
- - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
- - date published: 2023-11-25T06:19:37.367056+00:00
+ - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1610,6 +1856,12 @@
  - user: None
  - tags: []
 
+## Basilisk web browser
+ - [https://www.basilisk-browser.org](https://www.basilisk-browser.org)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['web browser']
+
 ## BatMUD
  - [https://www.bat.org](https://www.bat.org)
  - date published: 1990-01-01T00:00:00+00:00
@@ -1830,7 +2082,7 @@
  - [https://billmitchell.org](https://billmitchell.org)
  - date published: 2024-03-28T23:52:25.120905+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## bioRxiv.org - the preprint server for Biology
  - [https://www.biorxiv.org](https://www.biorxiv.org)
@@ -3704,7 +3956,7 @@
  - [https://cvsgui.org](https://cvsgui.org)
  - date published: 2024-03-04T12:06:02+00:00
  - user: rumpel
- - tags: ['control version system', 'program', 'open source']
+ - tags: ['control version system', 'program', 'vcs', 'open source']
 
 ## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
  - [http://cvsgui.org](http://cvsgui.org)
@@ -5727,7 +5979,7 @@
  - [https://www.foobar2000.org](https://www.foobar2000.org)
  - date published: 2023-11-01T08:41:06.699661+00:00
  - user: None
- - tags: ['program']
+ - tags: ['music player', 'program']
 
 ## Forensic Architecture
  - [https://forensic-architecture.org](https://forensic-architecture.org)
@@ -5758,256 +6010,4 @@
  - date published: 2023-12-04T09:13:10.640249+00:00
  - user: None
  - tags: []
-
-## Forth Interest Group Home Page
- - [http://www.forth.org](http://www.forth.org)
- - date published: 2023-10-25T21:21:50.066557+00:00
- - user: None
- - tags: []
-
-## for Tomorrow | A long-term, multifaceted commitment to building a more sustainable world
- - [https://fortomorrow.org](https://fortomorrow.org)
- - date published: 2023-10-25T21:21:57.633900+00:00
- - user: None
- - tags: []
-
-## The Fortran Programming Language — Fortran Programming Language
- - [https://fortran-lang.org](https://fortran-lang.org)
- - date published: 2023-10-25T21:21:58.660647+00:00
- - user: None
- - tags: []
-
-## FOSDEM24 - Previous FOSDEM Editions
- - [https://archive.fosdem.org](https://archive.fosdem.org)
- - date published: 2023-10-25T21:22:00.131913+00:00
- - user: None
- - tags: []
-
-## FOSDEM24 - Home
- - [https://fosdem.org](https://fosdem.org)
- - date published: 2023-10-25T21:22:01.486923+00:00
- - user: None
- - tags: ['open source', 'community event']
-
-## FOSS and Crafts
- - [https://fossandcrafts.org](https://fossandcrafts.org)
- - date published: 2023-10-25T21:22:03.037482+00:00
- - user: None
- - tags: []
-
-## None
- - [https://fosshost.org](https://fosshost.org)
- - date published: 2024-01-09T03:39:31.584866+00:00
- - user: None
- - tags: []
-
-## Fossify GitHub Page
- - [https://www.fossify.org](https://www.fossify.org)
- - date published: 2024-01-15T18:29:40+00:00
- - user: rumpel
- - tags: []
-
-## Fossil: A Coherent Software Configuration Management System
- - [https://fossil-scm.org](https://fossil-scm.org)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Fossil: Home
- - [https://www.fossil-scm.org](https://www.fossil-scm.org)
- - date published: 2023-10-25T21:22:05.638420+00:00
- - user: None
- - tags: []
-
-## | FOSSlife
- - [https://www.fosslife.org](https://www.fosslife.org)
- - date published: 2024-01-09T03:39:33.696357+00:00
- - user: None
- - tags: []
-
-## Fosstodon
- - [https://fosstodon.org](https://fosstodon.org)
- - date published: 2023-10-24T20:13:36.118898+00:00
- - user: None
- - tags: ['mastodon', 'open source']
-
-## Fosstodon Hub
- - [https://hub.fosstodon.org](https://hub.fosstodon.org)
- - date published: 2023-10-25T21:22:06.810545+00:00
- - user: None
- - tags: ['mastodon']
-
-## Ellenberger Architecture | Architectural practice in the California Bay Area, with experience in commercial, civic, healthcare, education, and residential projects.
- - [https://www.fotuva.org](https://www.fotuva.org)
- - date published: 2024-01-09T03:39:38.501537+00:00
- - user: None
- - tags: []
-
-## FoundSF
- - [https://www.foundsf.org](https://www.foundsf.org)
- - date published: 2023-10-25T21:22:16.106715+00:00
- - user: None
- - tags: []
-
-## The History of FoxPro
- - [http://www.foxprohistory.org](http://www.foxprohistory.org)
- - date published: 2023-10-25T21:22:16.878309+00:00
- - user: None
- - tags: []
-
-## Foreign Policy Research Institute - International Policy Think Tank
- - [https://www.fpri.org](https://www.fpri.org)
- - date published: 2024-02-24T18:07:47.400683+00:00
- - user: None
- - tags: []
-
-## Framablog – La route est longue mais la voie est libre…
- - [https://framablog.org](https://framablog.org)
- - date published: 2023-10-25T21:22:21.674069+00:00
- - user: None
- - tags: []
-
-## Franck Goddio: Homepage
- - [https://www.franckgoddio.org](https://www.franckgoddio.org)
- - date published: 2023-10-25T21:22:23.863582+00:00
- - user: None
- - tags: []
-
-## Fraser Institute
- - [https://fraserinstitute.org](https://fraserinstitute.org)
- - date published: 2023-10-25T21:22:27.402641+00:00
- - user: None
- - tags: []
-
-## Federal Reserve Bank of San Francisco
- - [https://www.frbsf.org](https://www.frbsf.org)
- - date published: 2024-01-17T15:40:24.538988+00:00
- - user: None
- - tags: []
-
-## Fred Hutchinson Cancer Center
- - [https://www.fredhutch.org](https://www.fredhutch.org)
- - date published: 2024-03-14T18:39:56.925973+00:00
- - user: None
- - tags: []
-
-## FreeBSD Git repositories
- - [https://cgit.freebsd.org](https://cgit.freebsd.org)
- - date published: 2023-10-25T21:22:28.105203+00:00
- - user: None
- - tags: []
-
-## FreeBSD Documentation Archive
- - [https://docs-archive.freebsd.org](https://docs-archive.freebsd.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://docs.freebsd.org/en/
- - [https://docs.freebsd.org](https://docs.freebsd.org)
- - date published: 2023-10-25T21:22:28.573567+00:00
- - user: None
- - tags: []
-
-## FreeBSD Mailing lists
- - [https://lists.freebsd.org](https://lists.freebsd.org)
- - date published: 2023-10-25T21:22:31.820209+00:00
- - user: None
- - tags: []
-
-## Welcome to the FreeBSD mailing list archive
- - [https://mail-archive.freebsd.org](https://mail-archive.freebsd.org)
- - date published: 2024-01-21T19:44:58.536359+00:00
- - user: None
- - tags: []
-
-## FreeBSD Homepages - redirect
- - [https://people.freebsd.org](https://people.freebsd.org)
- - date published: 2023-10-25T21:22:32.400113+00:00
- - user: None
- - tags: []
-
-## The FreeBSD Project
- - [https://www.freebsd.org](https://www.freebsd.org)
- - date published: 2023-10-25T21:22:33.812166+00:00
- - user: None
- - tags: ['operating system', 'linux']
-
-## None
- - [https://issue.freebsdfoundation.org](https://issue.freebsdfoundation.org)
- - date published: 2024-01-09T03:39:45.663594+00:00
- - user: None
- - tags: []
-
-## FreeCAD Forum - FreeCAD forum
- - [https://forum.freecad.org](https://forum.freecad.org)
- - date published: 2023-10-25T21:22:34.862514+00:00
- - user: None
- - tags: []
-
-## FPA
- - [https://fpa.freecad.org](https://fpa.freecad.org)
- - date published: 2024-03-21T03:17:22.168529+00:00
- - user: None
- - tags: []
-
-## FreeCAD: Your own 3D parametric modeler
- - [https://freecad.org](https://freecad.org)
- - date published: 2024-03-21T07:00:49+00:00
- - user: rumpel
- - tags: ['open source', 'program']
-
-## Freeciv.org - open source empire-building strategy game.
- - [https://freeciv.org](https://freeciv.org)
- - date published: 2024-01-09T03:39:56.984328+00:00
- - user: None
- - tags: ['open source', 'video game']
-
-## https://www.freecodecamp.org
- - [https://www.freecodecamp.org](https://www.freecodecamp.org)
- - date published: 2023-12-11T12:20:17+00:00
- - user: rumpel
- - tags: ['tutorials', 'courses']
-
-## Free Code Tools - Build better and faster
- - [https://freecodetools.org](https://freecodetools.org)
- - date published: 2023-10-25T21:22:36.834803+00:00
- - user: None
- - tags: []
-
-## freedesktop.org git repository browser
- - [https://cgit.freedesktop.org](https://cgit.freedesktop.org)
- - date published: 2024-01-09T03:40:11.555074+00:00
- - user: None
- - tags: []
-
-## www
- - [https://freedesktop.org](https://freedesktop.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['software platform']
-
-## Explore groups · GitLab
- - [https://gitlab.freedesktop.org](https://gitlab.freedesktop.org)
- - date published: 2023-10-25T21:22:53.665835+00:00
- - user: None
- - tags: ['linux', 'graphic stack', 'open source']
-
-## lists.freedesktop.org Mailing Lists
- - [https://lists.freedesktop.org](https://lists.freedesktop.org)
- - date published: 2024-03-07T21:42:44.490922+00:00
- - user: None
- - tags: []
-
-## Poppler
- - [https://poppler.freedesktop.org](https://poppler.freedesktop.org)
- - date published: 2023-10-25T21:22:54.773695+00:00
- - user: None
- - tags: []
-
-## Wayland
- - [https://wayland.freedesktop.org](https://wayland.freedesktop.org)
- - date published: 2023-10-30T14:01:41.938140+00:00
- - user: None
- - tags: ['open source', 'wayland']
 

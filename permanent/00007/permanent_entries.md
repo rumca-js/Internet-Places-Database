@@ -1,3 +1,63 @@
+## https://cmp.inmobi.com
+ - [https://cmp.inmobi.com](https://cmp.inmobi.com)
+ - date published: 2023-12-11T18:41:59.986191+00:00
+ - user: None
+ - tags: []
+
+## Inngest - Effortless serverless queues, background jobs, and workflows
+ - [https://www.inngest.com](https://www.inngest.com)
+ - date published: 2023-10-25T15:20:13.641088+00:00
+ - user: None
+ - tags: []
+
+## INNOQ
+ - [https://www.innoq.com](https://www.innoq.com)
+ - date published: 2023-10-25T15:20:16.024206+00:00
+ - user: None
+ - tags: []
+
+## Innovation & Tech Today | Online
+ - [https://innotechtoday.com](https://innotechtoday.com)
+ - date published: 2023-10-25T15:20:25.830987+00:00
+ - user: None
+ - tags: []
+
+## Innovation Origins - Your Sneak Preview of the Future
+ - [https://innovationorigins.com](https://innovationorigins.com)
+ - date published: 2023-10-25T15:20:37.229296+00:00
+ - user: None
+ - tags: []
+
+## Innovations Report - News & Neuigkeiten aus der Welt der Innovationen
+ - [https://www.innovations-report.com](https://www.innovations-report.com)
+ - date published: 2023-10-25T15:20:39.419726+00:00
+ - user: None
+ - tags: []
+
+## Ian Norris - Home
+ - [https://inorris.com](https://inorris.com)
+ - date published: 2023-10-25T15:20:40.248982+00:00
+ - user: None
+ - tags: []
+
+## InpharmD
+ - [https://www.inpharmd.com](https://www.inpharmd.com)
+ - date published: 2023-12-16T01:15:56.375298+00:00
+ - user: None
+ - tags: []
+
+## Quality Primary Research on Quality Companies | Explore the library | In Practise
+ - [https://inpractise.com](https://inpractise.com)
+ - date published: 2024-01-09T15:07:27.835139+00:00
+ - user: None
+ - tags: []
+
+## Input
+ - [https://www.inputmag.com](https://www.inputmag.com)
+ - date published: 2023-10-25T15:20:42.775326+00:00
+ - user: None
+ - tags: []
+
 ## Inquirer.com: Philadelphia local news, sports, jobs, cars, homes
  - [https://www.inquirer.com](https://www.inquirer.com)
  - date published: 2023-10-25T15:21:01.641378+00:00
@@ -5237,6 +5297,12 @@
  - user: None
  - tags: []
 
+## Homepage
+ - [https://www.kristv.com](https://www.kristv.com)
+ - date published: 2024-03-29T19:02:07.027561+00:00
+ - user: None
+ - tags: []
+
 ## Windows 1.0 site – everything there is to know about the first Windows version
  - [https://win1.krnl386.com](https://win1.krnl386.com)
  - date published: 2024-03-10T11:21:49+00:00
@@ -5610,16 +5676,16 @@
  - tags: []
 
 ## La Femme | Official Website
- - [http://www.lafemmemusic.com](http://www.lafemmemusic.com)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## La Femme | Official Website
  - [https://www.lafemmemusic.com](https://www.lafemmemusic.com)
  - date published: 2024-01-19T00:00:00+00:00
  - user: rumpel
  - tags: ['music band']
+
+## La Femme | Official Website
+ - [http://www.lafemmemusic.com](http://www.lafemmemusic.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Lagged - Free Online Games on Lagged.com
  - [https://lagged.com](https://lagged.com)
@@ -5930,73 +5996,6 @@
 ## LATTE - Luxury Australian Travel Trade Enews - LATTE Luxury News
  - [https://latteluxurynews.com](https://latteluxurynews.com)
  - date published: 2023-12-23T19:47:36.835345+00:00
- - user: None
- - tags: []
-
-## LattePanda - x86 Windows/Linux Single Board Computers
- - [https://www.lattepanda.com](https://www.lattepanda.com)
- - date published: 2023-10-25T09:07:42.768066+00:00
- - user: None
- - tags: ['single board computer']
-
-## People Management Platform | Performance and Engagement Software | Lattice
- - [https://lattice.com](https://lattice.com)
- - date published: 2023-10-25T15:42:39.571265+00:00
- - user: None
- - tags: []
-
-## Laughing Squid
- - [https://laughingsquid.com](https://laughingsquid.com)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Introduction - Launch Leopard
- - [https://docs.launchleopard.com](https://docs.launchleopard.com)
- - date published: 2023-11-14T15:18:54.247417+00:00
- - user: None
- - tags: []
-
-## Show HN: SvelteKit SaaS Boilerplate to help launch your product fast
- - [https://launchleopard.com](https://launchleopard.com)
- - date published: 2023-11-14T13:33:49+00:00
- - user: None
- - tags: []
-
-## Laura Doorneweerd-Perry
- - [https://www.lauradoorneweerd.com](https://www.lauradoorneweerd.com)
- - date published: 2024-01-09T19:17:58.321083+00:00
- - user: None
- - tags: []
-
-## https://www.laurelparkerbook.com/fr/
- - [https://laurelparkerbook.com](https://laurelparkerbook.com)
- - date published: 2023-12-11T16:18:48.011302+00:00
- - user: None
- - tags: []
-
-## https://www.laurelparkerbook.com/fr/
- - [https://www.laurelparkerbook.com](https://www.laurelparkerbook.com)
- - date published: 2024-02-29T14:58:14.935606+00:00
- - user: None
- - tags: []
-
-## Classical Music CD, Concerto, String Quartet, Rachmaninov, 
-Chamber Music, Symphony
- - [https://www.laurelrecord.com](https://www.laurelrecord.com)
- - date published: 2024-02-08T22:19:33.454073+00:00
- - user: None
- - tags: []
-
-## Law.com
- - [https://www.law.com](https://www.law.com)
- - date published: 2023-12-30T06:29:36.870856+00:00
- - user: None
- - tags: []
-
-## Legal News & Analysis on Litigation, Policy, Deals : Law360
- - [https://www.law360.com](https://www.law360.com)
- - date published: 2023-10-25T15:42:48.876318+00:00
  - user: None
  - tags: []
 

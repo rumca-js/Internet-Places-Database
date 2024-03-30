@@ -1,3 +1,70 @@
+## LattePanda - x86 Windows/Linux Single Board Computers
+ - [https://www.lattepanda.com](https://www.lattepanda.com)
+ - date published: 2023-10-25T09:07:42.768066+00:00
+ - user: None
+ - tags: ['single board computer']
+
+## People Management Platform | Performance and Engagement Software | Lattice
+ - [https://lattice.com](https://lattice.com)
+ - date published: 2023-10-25T15:42:39.571265+00:00
+ - user: None
+ - tags: []
+
+## Laughing Squid
+ - [https://laughingsquid.com](https://laughingsquid.com)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Introduction - Launch Leopard
+ - [https://docs.launchleopard.com](https://docs.launchleopard.com)
+ - date published: 2023-11-14T15:18:54.247417+00:00
+ - user: None
+ - tags: []
+
+## Show HN: SvelteKit SaaS Boilerplate to help launch your product fast
+ - [https://launchleopard.com](https://launchleopard.com)
+ - date published: 2023-11-14T13:33:49+00:00
+ - user: None
+ - tags: []
+
+## Laura Doorneweerd-Perry
+ - [https://www.lauradoorneweerd.com](https://www.lauradoorneweerd.com)
+ - date published: 2024-01-09T19:17:58.321083+00:00
+ - user: None
+ - tags: []
+
+## https://www.laurelparkerbook.com/fr/
+ - [https://laurelparkerbook.com](https://laurelparkerbook.com)
+ - date published: 2023-12-11T16:18:48.011302+00:00
+ - user: None
+ - tags: []
+
+## https://www.laurelparkerbook.com/fr/
+ - [https://www.laurelparkerbook.com](https://www.laurelparkerbook.com)
+ - date published: 2024-02-29T14:58:14.935606+00:00
+ - user: None
+ - tags: []
+
+## Classical Music CD, Concerto, String Quartet, Rachmaninov, 
+Chamber Music, Symphony
+ - [https://www.laurelrecord.com](https://www.laurelrecord.com)
+ - date published: 2024-02-08T22:19:33.454073+00:00
+ - user: None
+ - tags: []
+
+## Law.com
+ - [https://www.law.com](https://www.law.com)
+ - date published: 2023-12-30T06:29:36.870856+00:00
+ - user: None
+ - tags: []
+
+## Legal News & Analysis on Litigation, Policy, Deals : Law360
+ - [https://www.law360.com](https://www.law360.com)
+ - date published: 2023-10-25T15:42:48.876318+00:00
+ - user: None
+ - tags: []
+
 ## Law & Crime - Law and Crime News
  - [https://lawandcrime.com](https://lawandcrime.com)
  - date published: 2023-10-27T18:51:39.072959+00:00
@@ -2237,6 +2304,12 @@ diversions.
  - user: None
  - tags: []
 
+## Lightworks - Easy to Use Pro Video Editing Software
+ - [https://lwks.com](https://lwks.com)
+ - date published: 2014-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['video editor']
+
 ## Lippincott Home
  - [https://journals.lww.com](https://journals.lww.com)
  - date published: 2023-12-10T04:54:11.039506+00:00
@@ -2532,16 +2605,16 @@ diversions.
  - tags: ['cms']
 
 ## Maggie Appleton
- - [http://maggieappleton.com](http://maggieappleton.com)
- - date published: 2024-02-26T08:55:27.731076+00:00
- - user: None
- - tags: []
-
-## Maggie Appleton
  - [https://maggieappleton.com](https://maggieappleton.com)
  - date published: 2023-10-25T08:47:09.508828+00:00
  - user: None
  - tags: ['personal']
+
+## Maggie Appleton
+ - [http://maggieappleton.com](http://maggieappleton.com)
+ - date published: 2024-02-26T08:55:27.731076+00:00
+ - user: None
+ - tags: []
 
 ## Magic Earth - Free Navigation & Maps App for Android and iPhone
  - [https://www.magicearth.com](https://www.magicearth.com)
@@ -3375,6 +3448,12 @@ diversions.
 ## Martin Capodici – Software Developer
  - [http://www.martincapodici.com](http://www.martincapodici.com)
  - date published: 2023-10-25T15:57:22.485782+00:00
+ - user: None
+ - tags: []
+
+## Ironsides
+ - [https://ironsides.martincarlisle.com](https://ironsides.martincarlisle.com)
+ - date published: 2004-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5921,82 +6000,4 @@ diversions.
  - date published: 2023-10-25T16:02:30.434761+00:00
  - user: None
  - tags: []
-
-## Miami New Times | The Leading Independent News Source in Miami, Florida
- - [https://www.miaminewtimes.com](https://www.miaminewtimes.com)
- - date published: 2023-11-07T13:45:17.755480+00:00
- - user: None
- - tags: []
-
-## Micah Lee's blog
- - [https://micahflee.com](https://micahflee.com)
- - date published: 2023-10-25T16:02:40.629225+00:00
- - user: None
- - tags: []
-
-## Micah Lerner
- - [https://www.micahlerner.com](https://www.micahlerner.com)
- - date published: 2023-10-25T16:02:42.515945+00:00
- - user: None
- - tags: ['personal']
-
-## Micah Walter
- - [https://www.micahwalter.com](https://www.micahwalter.com)
- - date published: 2023-10-25T16:02:43.726260+00:00
- - user: None
- - tags: []
-
-## ᐈ【 Las 5 MEJORES Cámaras DEPORTIVAS 】❗️ TOP 2023
- - [https://micamaradeportiva.com](https://micamaradeportiva.com)
- - date published: 2023-12-25T22:12:40.489547+00:00
- - user: None
- - tags: ['personal']
-
-## Code Review Workshops with Dr. Michaela Greiler - Dr. McKayla
- - [https://www.michaelagreiler.com](https://www.michaelagreiler.com)
- - date published: 2023-10-25T16:02:47.336831+00:00
- - user: None
- - tags: []
-
-## Michael Andreuzza ⏤ Freelance Designer & Developer ⏤ Maximize your online presence with an engaging website page that delivers outstanding results. - Michael Andreuzza
- - [https://michaelandreuzza.com](https://michaelandreuzza.com)
- - date published: 2024-01-12T18:46:34.485685+00:00
- - user: None
- - tags: []
-
-## https://michaelbalchan.com
- - [https://michaelbalchan.com](https://michaelbalchan.com)
- - date published: 2024-01-15T08:34:35.765713+00:00
- - user: None
- - tags: ['personal']
-
-## Michael Bluejay - Official home page
- - [https://michaelbluejay.com](https://michaelbluejay.com)
- - date published: 2016-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Michael Boezi: Writer, Educator, Musician
- - [https://michaelboezi.com](https://michaelboezi.com)
- - date published: 2024-02-09T21:50:18.240552+00:00
- - user: None
- - tags: ['personal']
-
-## Home Page V2
- - [https://www.michaelfrew.com](https://www.michaelfrew.com)
- - date published: 2023-11-29T16:20:25.573482+00:00
- - user: None
- - tags: ['personal']
-
-## Solution to a Contest Math Problem
- - [https://www.michaelhartl.com](https://www.michaelhartl.com)
- - date published: 2023-12-20T21:31:22.657887+00:00
- - user: None
- - tags: ['personal']
-
-## michaelhoney.com
- - [https://michaelhoney.com](https://michaelhoney.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
 

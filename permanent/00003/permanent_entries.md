@@ -1,3 +1,39 @@
+## Home page - Black Hills Information Security
+ - [https://www.blackhillsinfosec.com](https://www.blackhillsinfosec.com)
+ - date published: 2023-10-25T13:03:41.747695+00:00
+ - user: None
+ - tags: []
+
+## Black Library - Home page for Black Library
+ - [https://www.blacklibrary.com](https://www.blacklibrary.com)
+ - date published: 2024-02-09T15:57:23+00:00
+ - user: rumpel
+ - tags: ['warhammer 40k', 'books', 'warhammer', 'warhammer fantasy', 'book']
+
+## Blackmagic Design
+ - [https://www.blackmagicdesign.com](https://www.blackmagicdesign.com)
+ - date published: 2023-10-25T13:04:11.505623+00:00
+ - user: None
+ - tags: ['video editor', 'davinci resolve']
+
+## Black Phoebe :: Ms. Jen | Jenifer Hanen's Website'
+ - [https://blackphoebe.com](https://blackphoebe.com)
+ - date published: 2016-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Zarządzanie aktywami | BlackRock
+ - [https://www.blackrock.com](https://www.blackrock.com)
+ - date published: 2023-10-25T11:27:39.252299+00:00
+ - user: None
+ - tags: ['new world order']
+
+## The Official Black Sabbath Website :: Official Black Sabbath Website - Latest Black Sabbath News Shows and Videos
+ - [https://www.blacksabbath.com](https://www.blacksabbath.com)
+ - date published: 2023-11-13T11:07:53.514482+00:00
+ - user: None
+ - tags: ['music band']
+
 ## Black Swan Street
  - [https://www.blackswanstreet.com](https://www.blackswanstreet.com)
  - date published: 2023-10-25T13:04:16.289564+00:00
@@ -4912,7 +4948,7 @@
  - [https://christitus.com](https://christitus.com)
  - date published: 2023-10-25T09:32:21.672470+00:00
  - user: None
- - tags: []
+ - tags: ['youtuber']
 
 ## I Wanna Be a Sailor
  - [https://christopheducamp.com](https://christopheducamp.com)
@@ -5972,42 +6008,6 @@
 ## Code Deep Dives
  - [https://codedeepdives.com](https://codedeepdives.com)
  - date published: 2024-03-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Codeforces
- - [https://codeforces.com](https://codeforces.com)
- - date published: 2023-10-25T13:28:14.373320+00:00
- - user: None
- - tags: []
-
-## CodeGuppy | Free coding platform and projects for middle school and high school students
- - [https://codeguppy.com](https://codeguppy.com)
- - date published: 2023-10-25T13:28:20.545811+00:00
- - user: None
- - tags: []
-
-## Blog | Backendhance
- - [https://code-held.com](https://code-held.com)
- - date published: 2023-10-25T13:27:52.449301+00:00
- - user: None
- - tags: []
-
-## Codeium · Free AI Code Completion & Chat
- - [https://codeium.com](https://codeium.com)
- - date published: 2023-10-25T13:28:21.432922+00:00
- - user: None
- - tags: []
-
-## Codeium · Free AI Code Completion & Chat
- - [https://www.codeium.com](https://www.codeium.com)
- - date published: 2023-10-25T13:28:22.792901+00:00
- - user: None
- - tags: []
-
-## Code Language Converter - Convert code to other languages using AI
- - [https://codelanguageconverter.com](https://codelanguageconverter.com)
- - date published: 2023-10-25T13:28:24.823933+00:00
  - user: None
  - tags: []
 

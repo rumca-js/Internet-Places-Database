@@ -1,3 +1,39 @@
+## Codeforces
+ - [https://codeforces.com](https://codeforces.com)
+ - date published: 2023-10-25T13:28:14.373320+00:00
+ - user: None
+ - tags: []
+
+## CodeGuppy | Free coding platform and projects for middle school and high school students
+ - [https://codeguppy.com](https://codeguppy.com)
+ - date published: 2023-10-25T13:28:20.545811+00:00
+ - user: None
+ - tags: []
+
+## Blog | Backendhance
+ - [https://code-held.com](https://code-held.com)
+ - date published: 2023-10-25T13:27:52.449301+00:00
+ - user: None
+ - tags: []
+
+## Codeium · Free AI Code Completion & Chat
+ - [https://codeium.com](https://codeium.com)
+ - date published: 2023-10-25T13:28:21.432922+00:00
+ - user: None
+ - tags: []
+
+## Codeium · Free AI Code Completion & Chat
+ - [https://www.codeium.com](https://www.codeium.com)
+ - date published: 2023-10-25T13:28:22.792901+00:00
+ - user: None
+ - tags: []
+
+## Code Language Converter - Convert code to other languages using AI
+ - [https://codelanguageconverter.com](https://codelanguageconverter.com)
+ - date published: 2023-10-25T13:28:24.823933+00:00
+ - user: None
+ - tags: []
+
 ## Code Maze - C#, .NET and Web Development Tutorials
  - [https://code-maze.com](https://code-maze.com)
  - date published: 2023-10-25T13:27:55.458215+00:00
@@ -1971,7 +2007,7 @@
  - [https://www.cvs.com](https://www.cvs.com)
  - date published: 2024-03-04T11:36:27.353048+00:00
  - user: None
- - tags: []
+ - tags: ['pharmacy']
 
 ## Curtis W. DeGidio | Software Developer | Latest Posts
  - [https://www.cwdegidio.com](https://www.cwdegidio.com)
@@ -2014,6 +2050,12 @@
  - date published: 2023-10-25T13:40:04.009553+00:00
  - user: None
  - tags: []
+
+## #1 Video Editing & Photo Editing Software + Media Player | CyberLink
+ - [https://www.cyberlink.com](https://www.cyberlink.com)
+ - date published: 2024-03-29T05:46:57+00:00
+ - user: rumpel
+ - tags: ['video editor']
 
 ## Cyber News
  - [https://cybernews.com](https://cybernews.com)
@@ -2240,6 +2282,12 @@
 ## Daily Investor – Investing and business news, financial data, and insights for intelligent South African investors.
  - [https://dailyinvestor.com](https://dailyinvestor.com)
  - date published: 2023-10-25T13:41:40.446699+00:00
+ - user: None
+ - tags: []
+
+## Daily Jugarr
+ - [https://dailyjugarr.com](https://dailyjugarr.com)
+ - date published: 2024-03-29T04:27:16.475098+00:00
  - user: None
  - tags: []
 
@@ -2597,17 +2645,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://danluu.com](http://danluu.com)
- - date published: 1979-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
 ## https://danluu.com
  - [https://danluu.com](https://danluu.com)
  - date published: 2023-12-07T19:41:48.559063+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [http://danluu.com](http://danluu.com)
+ - date published: 1979-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Dan Luvisi Art
  - [http://www.danluvisiart.com](http://www.danluvisiart.com)
@@ -5949,54 +5997,6 @@
 ## Dwarkesh Podcast | Dwarkesh Patel | Substack
  - [https://www.dwarkeshpatel.com](https://www.dwarkeshpatel.com)
  - date published: 2023-12-16T13:36:19.590447+00:00
- - user: None
- - tags: []
-
-## Dwell House – Design Delivered to Your Backyard
- - [https://house.dwell.com](https://house.dwell.com)
- - date published: 2023-10-25T14:00:08.441249+00:00
- - user: None
- - tags: []
-
-## Modern living, home design ideas, inspiration, and advice. - Dwell
- - [https://www.dwell.com](https://www.dwell.com)
- - date published: 2023-10-25T14:00:13.975793+00:00
- - user: None
- - tags: []
-
-## Dwight Gunning: Software, tech startups and the outdoors
- - [https://www.dwightgunning.com](https://www.dwightgunning.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dyalog APL - D-functions
- - [https://dfns.dyalog.com](https://dfns.dyalog.com)
- - date published: 2023-10-25T14:00:19.708737+00:00
- - user: None
- - tags: []
-
-## Dyalog - Home
- - [https://www.dyalog.com](https://www.dyalog.com)
- - date published: 2023-10-25T14:00:26.538339+00:00
- - user: None
- - tags: []
-
-## Dying Light 2 – Official website
- - [https://dyinglightgame.com](https://dyinglightgame.com)
- - date published: 2023-10-30T18:27:03.121972+00:00
- - user: None
- - tags: ['game']
-
-## Dylan Paulus
- - [https://www.dylanpaulus.com](https://www.dylanpaulus.com)
- - date published: 2023-10-25T14:00:27.457944+00:00
- - user: None
- - tags: []
-
-## Developer Documentation | Dylibso Developer Resources
- - [https://dev.dylibso.com](https://dev.dylibso.com)
- - date published: 2023-10-25T14:00:28.218108+00:00
  - user: None
  - tags: []
 
