@@ -178,6 +178,12 @@
  - user: None
  - tags: []
 
+## Agenthost.ai - Turn your AI Chatbot into a business
+ - [https://www.agenthost.ai](https://www.agenthost.ai)
+ - date published: 2024-03-30T07:42:12.102692+00:00
+ - user: None
+ - tags: []
+
 ## Answer.AI - Answer.AI - Practical AI R&D
  - [https://www.answer.ai](https://www.answer.ai)
  - date published: 2023-12-12T22:18:40.746422+00:00
@@ -523,6 +529,12 @@
 ## DimeADozen.ai - Your AI Toolkit
  - [https://www.dimeadozen.ai](https://www.dimeadozen.ai)
  - date published: 2023-10-25T11:38:19.826298+00:00
+ - user: None
+ - tags: []
+
+## Dragonscale Newsletter
+ - [https://blog.dragonscale.ai](https://blog.dragonscale.ai)
+ - date published: 2024-03-20T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4211,16 +4223,16 @@
  - tags: ['music band']
 
 ## Home – Zvi Band | Zvi Band
- - [http://zvi.band](http://zvi.band)
- - date published: 2023-12-22T22:31:24.610066+00:00
- - user: None
- - tags: ['personal']
-
-## Home – Zvi Band | Zvi Band
  - [https://zvi.band](https://zvi.band)
  - date published: 2017-09-27T10:32:32+00:00
  - user: None
  - tags: []
+
+## Home – Zvi Band | Zvi Band
+ - [http://zvi.band](http://zvi.band)
+ - date published: 2023-12-22T22:31:24.610066+00:00
+ - user: None
+ - tags: ['personal']
 
 ## https://saucecode.bar
  - [https://saucecode.bar](https://saucecode.bar)
@@ -5984,18 +5996,6 @@
 ## Northern Ontario News | Local Breaking | CTV News Northern Ontario
  - [https://northernontario.ctvnews.ca](https://northernontario.ctvnews.ca)
  - date published: 2023-12-12T08:40:48.811443+00:00
- - user: None
- - tags: []
-
-## Ottawa News | Local Breaking | CTV News Ottawa
- - [https://ottawa.ctvnews.ca](https://ottawa.ctvnews.ca)
- - date published: 2023-10-25T10:56:04.116973+00:00
- - user: None
- - tags: []
-
-## Regina News | Regina Weather | CTV News Regina
- - [https://regina.ctvnews.ca](https://regina.ctvnews.ca)
- - date published: 2023-12-12T08:42:43.297708+00:00
  - user: None
  - tags: []
 

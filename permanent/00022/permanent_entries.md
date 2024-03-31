@@ -1,3 +1,201 @@
+## Installati.one
+ - [https://installati.one](https://installati.one)
+ - date published: 2023-11-19T12:07:10+00:00
+ - user: rumpel
+ - tags: ['tutorial', 'guide']
+
+## Market Map
+ - [https://marketmap.one](https://marketmap.one)
+ - date published: 2023-10-25T20:52:00.513890+00:00
+ - user: None
+ - tags: []
+
+## Best websites design inspiration feed • MaxiBestOf
+ - [https://maxibestof.one](https://maxibestof.one)
+ - date published: 2023-10-25T20:52:03.198688+00:00
+ - user: None
+ - tags: []
+
+## https://www.octobrain.one
+ - [https://www.octobrain.one](https://www.octobrain.one)
+ - date published: 2024-01-09T03:38:03.153362+00:00
+ - user: None
+ - tags: []
+
+## Playtron
+ - [https://www.playtron.one](https://www.playtron.one)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: rumpel
+ - tags: ['operating system']
+
+## plei.one - Blog
+ - [https://plei.one](https://plei.one)
+ - date published: 2023-10-25T20:52:06.193322+00:00
+ - user: None
+ - tags: []
+
+## Taylor Robinson
+ - [https://robins.one](https://robins.one)
+ - date published: 2023-10-25T08:54:27.100131+00:00
+ - user: None
+ - tags: ['personal']
+
+## South One News, News From South India, Analysis of South India
+ - [https://south.one](https://south.one)
+ - date published: 2023-12-06T16:23:04.756025+00:00
+ - user: None
+ - tags: []
+
+## The Pulse | Substack
+ - [https://thepulse.one](https://thepulse.one)
+ - date published: 2023-10-25T20:52:09.853895+00:00
+ - user: None
+ - tags: []
+
+## WordPress-Seite – Just another WordPress site
+ - [http://proxy.vulpes.one](http://proxy.vulpes.one)
+ - date published: 2023-10-25T20:52:12.936578+00:00
+ - user: None
+ - tags: []
+
+## Obl.ong
+ - [https://obl.ong](https://obl.ong)
+ - date published: 2023-10-25T20:52:14.964448+00:00
+ - user: None
+ - tags: []
+
+## Andrew Marble
+ - [https://marble.onl](https://marble.onl)
+ - date published: 2024-01-09T01:37:39.440161+00:00
+ - user: None
+ - tags: []
+
+## Adam Nelson
+ - [https://adam.nels.onl](https://adam.nels.onl)
+ - date published: 2024-02-14T11:11:41.408469+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rik Lewis
+ - [https://www.rik.onl](https://www.rik.onl)
+ - date published: 2023-12-03T23:31:31.330248+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rebecca Owen
+ - [https://beccais.online](https://beccais.online)
+ - date published: 2023-12-25T17:17:34.309163+00:00
+ - user: None
+ - tags: ['personal']
+
+## Commonplace
+ - [https://commonplace.online](https://commonplace.online)
+ - date published: 2023-10-28T19:11:46.865259+00:00
+ - user: None
+ - tags: []
+
+## In Solidarity with Library Genesis and Sci-hub
+ - [https://custodians.online](https://custodians.online)
+ - date published: 2023-10-25T20:52:16.578477+00:00
+ - user: None
+ - tags: []
+
+## Data Engineering Design Patterns (DEDP)
+ - [https://www.dedp.online](https://www.dedp.online)
+ - date published: 2023-12-07T15:51:49+00:00
+ - user: None
+ - tags: []
+
+## Easylang
+ - [https://easylang.online](https://easylang.online)
+ - date published: 2023-10-25T20:52:17.584984+00:00
+ - user: None
+ - tags: []
+
+## LOF home
+ - [https://lof.flounder.online](https://lof.flounder.online)
+ - date published: 2023-10-25T20:52:19.126166+00:00
+ - user: None
+ - tags: []
+
+## GPTGirlfriend - Epic NSFW AI Chatbots with No Filter
+ - [https://www.gptgirlfriend.online](https://www.gptgirlfriend.online)
+ - date published: 2024-03-13T11:47:46+00:00
+ - user: rumpel
+ - tags: ['chatbot', 'nsfw']
+
+## Fabian's public notepad
+ - [https://holzer.online](https://holzer.online)
+ - date published: 2023-12-16T07:29:03.990666+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kylie Czajkowski · software engineer, speaker, creator
+ - [https://kylieis.online](https://kylieis.online)
+ - date published: 2023-12-23T07:29:53.816003+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mastodon
+ - [https://mastodon.online](https://mastodon.online)
+ - date published: 2023-10-24T20:13:29.617793+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## sunfishcode's blog · A blog by sunfishcode
+ - [https://blog.sunfishcode.online](https://blog.sunfishcode.online)
+ - date published: 2023-10-25T20:52:20.694186+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Suricrasia Online!
+ - [https://suricrasia.online](https://suricrasia.online)
+ - date published: 2023-10-25T20:52:21.735662+00:00
+ - user: None
+ - tags: []
+
+## Words and buttons online
+ - [https://wordsandbuttons.online](https://wordsandbuttons.online)
+ - date published: 2023-10-25T09:27:52.515926+00:00
+ - user: None
+ - tags: []
+
+## Zachwyceni.online - Sklep Fundacji inCanto
+ - [https://zachwyceni.online](https://zachwyceni.online)
+ - date published: 2023-12-04T17:44:21+00:00
+ - user: None
+ - tags: ['catholic merch', 'shop']
+
+## Tommy Acierno | Personal Site
+ - [https://aciern.ooo](https://aciern.ooo)
+ - date published: 2023-12-24T02:30:43.754056+00:00
+ - user: None
+ - tags: ['personal']
+
+## rebeccaÂ®
+ - [https://becca.ooo](https://becca.ooo)
+ - date published: 2024-02-21T07:38:24.158690+00:00
+ - user: None
+ - tags: []
+
+## Memo Garcia
+ - [https://memooo.ooo](https://memooo.ooo)
+ - date published: 2023-10-25T20:52:23.026355+00:00
+ - user: None
+ - tags: []
+
+## soso
+ - [https://soso.ooo](https://soso.ooo)
+ - date published: 2023-10-25T20:52:25.205752+00:00
+ - user: None
+ - tags: []
+
+## ZeroVer: 0-based Versioning — zer0ver
+ - [https://0ver.org](https://0ver.org)
+ - date published: 2023-10-25T20:52:28.963764+00:00
+ - user: None
+ - tags: []
+
 ## 16-bits.org - home of 8bitbubsy
  - [https://16-bits.org](https://16-bits.org)
  - date published: 2024-01-24T14:39:46+00:00
@@ -287,14 +485,14 @@
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
@@ -701,16 +899,16 @@
  - tags: []
 
 ## AlxQ
- - [http://alxq.org](http://alxq.org)
- - date published: 2024-02-11T13:39:19.641138+00:00
- - user: None
- - tags: []
-
-## AlxQ
  - [https://alxq.org](https://alxq.org)
  - date published: 2024-02-15T22:12:28.937827+00:00
  - user: None
  - tags: ['demoscene']
+
+## AlxQ
+ - [http://alxq.org](http://alxq.org)
+ - date published: 2024-02-11T13:39:19.641138+00:00
+ - user: None
+ - tags: []
 
 ## Alys Stephens Center - Home
  - [https://www.alysstephens.org](https://www.alysstephens.org)
@@ -1318,17 +1516,17 @@
  - user: None
  - tags: []
 
-## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
- - [https://archive.org](https://archive.org)
- - date published: 2023-10-25T09:29:04.093943+00:00
- - user: None
- - tags: ['internet archive', 'digital library']
-
 ## Internet Archive: Secret service
  - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
  - date published: 2023-10-27T14:37:50+00:00
  - user: rumpel
  - tags: ['retro', 'magazine']
+
+## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+ - [https://archive.org](https://archive.org)
+ - date published: 2023-10-25T09:29:04.093943+00:00
+ - user: None
+ - tags: ['internet archive', 'digital library']
 
 ## Internet Archive Blogs | A blog from the team at archive.org
  - [https://blog.archive.org](https://blog.archive.org)
@@ -1408,17 +1606,17 @@
  - user: None
  - tags: []
 
-## Wayback Machine
- - [https://web.archive.org](https://web.archive.org)
- - date published: 2023-10-25T09:29:18.969501+00:00
- - user: None
- - tags: ['internet archive']
-
 ## Back2Roots
  - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
  - date published: 2023-11-02T10:36:12+00:00
  - user: rumpel
  - tags: []
+
+## Wayback Machine
+ - [https://web.archive.org](https://web.archive.org)
+ - date published: 2023-10-25T09:29:18.969501+00:00
+ - user: None
+ - tags: ['internet archive']
 
 ## Archive-It - 
   
@@ -1863,13 +2061,13 @@
  - tags: ['web browser']
 
 ## BatMUD
- - [https://www.bat.org](https://www.bat.org)
+ - [http://www.bat.org](http://www.bat.org)
  - date published: 1990-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## BatMUD
- - [http://www.bat.org](http://www.bat.org)
+ - [https://www.bat.org](https://www.bat.org)
  - date published: 1990-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -2045,6 +2243,12 @@
 ## https://mark.biek.org
  - [https://mark.biek.org](https://mark.biek.org)
  - date published: 2024-01-04T01:13:10.818210+00:00
+ - user: None
+ - tags: []
+
+## Big Local News
+ - [https://biglocalnews.org](https://biglocalnews.org)
+ - date published: 2024-03-30T20:59:22.669524+00:00
  - user: None
  - tags: []
 
@@ -3953,16 +4157,16 @@
  - tags: []
 
 ## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
- - [https://cvsgui.org](https://cvsgui.org)
- - date published: 2024-03-04T12:06:02+00:00
- - user: rumpel
- - tags: ['control version system', 'program', 'vcs', 'open source']
-
-## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
  - [http://cvsgui.org](http://cvsgui.org)
  - date published: 2024-03-05T00:16:31.622060+00:00
  - user: None
  - tags: []
+
+## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
+ - [https://cvsgui.org](https://cvsgui.org)
+ - date published: 2024-03-04T12:06:02+00:00
+ - user: rumpel
+ - tags: ['control version system', 'program', 'vcs', 'open source']
 
 ## California Water Environment Association | Champions of Wastewater
  - [https://www.cwea.org](https://www.cwea.org)
@@ -4632,14 +4836,14 @@
  - tags: []
 
 ## Resolve a DOI Name
- - [http://dx.doi.org](http://dx.doi.org)
- - date published: 2024-02-27T01:04:33.113692+00:00
+ - [https://dx.doi.org](https://dx.doi.org)
+ - date published: 2023-12-03T01:17:58.110575+00:00
  - user: None
  - tags: []
 
 ## Resolve a DOI Name
- - [https://dx.doi.org](https://dx.doi.org)
- - date published: 2023-12-03T01:17:58.110575+00:00
+ - [http://dx.doi.org](http://dx.doi.org)
+ - date published: 2024-02-27T01:04:33.113692+00:00
  - user: None
  - tags: []
 
@@ -4794,16 +4998,16 @@
  - tags: []
 
 ## Kohina Web Player
- - [http://kohina.duckdns.org](http://kohina.duckdns.org)
- - date published: 2024-02-11T14:38:28.495727+00:00
- - user: None
- - tags: []
-
-## Kohina Web Player
  - [https://kohina.duckdns.org](https://kohina.duckdns.org)
  - date published: 2024-02-15T22:13:24.519956+00:00
  - user: None
  - tags: ['demoscene']
+
+## Kohina Web Player
+ - [http://kohina.duckdns.org](http://kohina.duckdns.org)
+ - date published: 2024-02-11T14:38:28.495727+00:00
+ - user: None
+ - tags: []
 
 ## Duck DNS
  - [https://www.duckdns.org](https://www.duckdns.org)
@@ -5303,15 +5507,15 @@
  - user: None
  - tags: []
 
-## Thib's Home
- - [https://ergaster.org](https://ergaster.org)
- - date published: 2023-10-25T21:18:23.232043+00:00
- - user: None
- - tags: []
-
 ## Ergaster
  - [http://ergaster.org](http://ergaster.org)
  - date published: 2024-02-26T14:07:11.647181+00:00
+ - user: None
+ - tags: []
+
+## Thib's Home
+ - [https://ergaster.org](https://ergaster.org)
+ - date published: 2023-10-25T21:18:23.232043+00:00
  - user: None
  - tags: []
 
@@ -5804,210 +6008,6 @@
 ## Religious Teachers Filippini - Home
  - [https://www.filippiniusa.org](https://www.filippiniusa.org)
  - date published: 2024-02-08T17:06:24.614509+00:00
- - user: None
- - tags: []
-
-## Greatest Films - The Best Movies in Cinematic History
- - [https://www.filmsite.org](https://www.filmsite.org)
- - date published: 2023-10-27T14:19:55.460312+00:00
- - user: None
- - tags: ['movies']
-
-## Filmulator
- - [https://filmulator.org](https://filmulator.org)
- - date published: 2023-10-25T21:20:50.979098+00:00
- - user: None
- - tags: []
-
-## Filter - Harm reduction journalism from a dedicated nonprofit
- - [https://filtermag.org](https://filtermag.org)
- - date published: 2023-10-25T21:20:54.669237+00:00
- - user: None
- - tags: []
-
-## Perspective | Perspective
- - [https://perspective.finos.org](https://perspective.finos.org)
- - date published: 2023-10-25T21:20:56.182673+00:00
- - user: None
- - tags: []
-
-## Firefly III: A free and open source personal finance manager
- - [https://www.firefly-iii.org](https://www.firefly-iii.org)
- - date published: 2024-02-16T02:34:03+00:00
- - user: None
- - tags: []
-
-## FIRST - Improving Security Together
- - [https://www.first.org](https://www.first.org)
- - date published: 2024-02-28T11:30:22+00:00
- - user: rumpel
- - tags: ['cybersecurity']
-
-## First Monday
- - [https://firstmonday.org](https://firstmonday.org)
- - date published: 2023-10-25T10:40:03.231308+00:00
- - user: None
- - tags: []
-
-## Home - First Street Foundation
- - [https://firststreet.org](https://firststreet.org)
- - date published: 2023-10-25T21:21:02.002987+00:00
- - user: None
- - tags: []
-
-## www.fitzsim.org - Home
- - [https://www.fitzsim.org](https://www.fitzsim.org)
- - date published: 2023-10-25T21:21:04.082460+00:00
- - user: None
- - tags: []
-
-## FixScript
- - [https://www.fixscript.org](https://www.fixscript.org)
- - date published: 2024-01-09T03:39:30.640174+00:00
- - user: None
- - tags: []
-
-## FlashMuseum - Flash Games & Animations
- - [https://flashmuseum.org](https://flashmuseum.org)
- - date published: 2023-10-25T21:21:09.908752+00:00
- - user: None
- - tags: []
-
-## Flashpoint Archive
- - [https://flashpointarchive.org](https://flashpointarchive.org)
- - date published: 2024-01-25T08:02:38+00:00
- - user: rumpel
- - tags: ['flash animations', 'internet archive', 'flash games']
-
-## Flatcar Container Linux | Flatcar Container Linux
- - [https://www.flatcar.org](https://www.flatcar.org)
- - date published: 2023-10-25T21:21:16.338373+00:00
- - user: None
- - tags: []
-
-## Welcome | Flathub Documentation
- - [https://docs.flathub.org](https://docs.flathub.org)
- - date published: 2024-01-19T09:58:43+00:00
- - user: None
- - tags: []
-
-## Home | Flathub
- - [https://flathub.org](https://flathub.org)
- - date published: 2023-10-24T20:10:54.843465+00:00
- - user: None
- - tags: ['app store']
-
-## Florida Center for Government Accountability (FLCGA)
- - [https://flcga.org](https://flcga.org)
- - date published: 2023-12-23T15:54:53.009825+00:00
- - user: None
- - tags: []
-
-## François Fleuret's Homepage
- - [https://fleuret.org](https://fleuret.org)
- - date published: 2023-10-25T21:21:18.004916+00:00
- - user: None
- - tags: []
-
-## Home - Flickr Foundation
- - [https://www.flickr.org](https://www.flickr.org)
- - date published: 2023-10-25T21:21:20.421034+00:00
- - user: None
- - tags: []
-
-## floverfelt.org | Thoughts, notes, etc.
- - [https://floverfelt.org](https://floverfelt.org)
- - date published: 2023-10-25T21:21:21.603835+00:00
- - user: None
- - tags: []
-
-## Flow – The officially worst software development methodology in history
- - [https://flowmanifest.org](https://flowmanifest.org)
- - date published: 2023-10-25T21:21:23.100842+00:00
- - user: None
- - tags: []
-
-## Fluoride Action Network
- - [https://fluoridealert.org](https://fluoridealert.org)
- - date published: 2023-12-21T05:55:08.977188+00:00
- - user: None
- - tags: []
-
-## Fluxus Portal
- - [https://fluxus.org](https://fluxus.org)
- - date published: 2023-10-25T21:21:25.292968+00:00
- - user: None
- - tags: []
-
-## Build production-grade data and ML workflows, hassle-free with Flyte
- - [https://flyte.org](https://flyte.org)
- - date published: 2023-10-25T21:21:33.769405+00:00
- - user: None
- - tags: []
-
-## Evan Hanson
- - [https://www.foldling.org](https://www.foldling.org)
- - date published: 2024-02-08T22:09:37.077953+00:00
- - user: None
- - tags: []
-
-## https://folklore.org
- - [https://folklore.org](https://folklore.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Folklore.org: The Original Macintosh
- - [https://www.folklore.org](https://www.folklore.org)
- - date published: 2023-10-25T21:21:35.138546+00:00
- - user: None
- - tags: []
-
-## None
- - [http://www.folklore.org](http://www.folklore.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## FontForge
- - [https://fontforge.org](https://fontforge.org)
- - date published: 2023-11-26T20:46:23+00:00
- - user: None
- - tags: []
-
-## foobar2000
- - [https://www.foobar2000.org](https://www.foobar2000.org)
- - date published: 2023-11-01T08:41:06.699661+00:00
- - user: None
- - tags: ['music player', 'program']
-
-## Forensic Architecture
- - [https://forensic-architecture.org](https://forensic-architecture.org)
- - date published: 2024-01-24T09:11:40.343367+00:00
- - user: None
- - tags: []
-
-## ForgeFed
- - [https://forgefed.org](https://forgefed.org)
- - date published: 2023-10-25T21:21:36.586257+00:00
- - user: None
- - tags: []
-
-## Forgejo – Beyond coding. We forge.
- - [https://forgejo.org](https://forgejo.org)
- - date published: 2023-10-25T21:21:37.400053+00:00
- - user: None
- - tags: []
-
-## Software Forge Performance Index
- - [https://forgeperf.org](https://forgeperf.org)
- - date published: 2023-10-25T21:21:47.839606+00:00
- - user: None
- - tags: []
-
-## Home - Forsyth
- - [https://forsyth.org](https://forsyth.org)
- - date published: 2023-12-04T09:13:10.640249+00:00
  - user: None
  - tags: []
 

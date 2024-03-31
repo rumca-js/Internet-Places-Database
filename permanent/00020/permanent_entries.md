@@ -1,3 +1,159 @@
+## Build Guides, Tools, Trackers, and more - Diablo4.life
+ - [https://diablo4.life](https://diablo4.life)
+ - date published: 2023-12-13T16:05:07.092979+00:00
+ - user: None
+ - tags: []
+
+## Home - Earth4All
+ - [https://earth4all.life](https://earth4all.life)
+ - date published: 2023-10-25T20:18:15.902498+00:00
+ - user: None
+ - tags: ['think tank', 'environment', 'world economic forum', 'equity']
+
+## Dan Fernandez Home Page – Dan Fernandez
+ - [https://fernandez.life](https://fernandez.life)
+ - date published: 2023-10-25T09:26:30.059169+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://gaston.life
+ - [https://gaston.life](https://gaston.life)
+ - date published: 2023-12-08T08:33:13.205178+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hard Fault Life
+ - [https://hardfault.life](https://hardfault.life)
+ - date published: 2023-10-25T08:49:51.355120+00:00
+ - user: None
+ - tags: ['personal']
+
+## haters
+ - [https://shop.haters.life](https://shop.haters.life)
+ - date published: 2024-02-26T18:20:22.457484+00:00
+ - user: None
+ - tags: []
+
+## Matthew Holt
+ - [https://matt.life](https://matt.life)
+ - date published: 2024-02-14T15:19:31.942269+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | Meaningful Money | Meaning/Purpose Financial Psychology
+ - [https://www.meaningfulmoney.life](https://www.meaningfulmoney.life)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Posterity - Everyone needs a plan.
+ - [https://posterity.life](https://posterity.life)
+ - date published: 2023-10-25T20:18:20.839473+00:00
+ - user: None
+ - tags: []
+
+## proto.life: The Neobiological Frontier
+ - [https://proto.life](https://proto.life)
+ - date published: 2021-05-28T13:55:35+00:00
+ - user: None
+ - tags: []
+
+## RETURN | Substack
+ - [https://return.life](https://return.life)
+ - date published: 2023-10-25T20:18:24.096295+00:00
+ - user: None
+ - tags: []
+
+## Tushar's Blog
+ - [https://sadh.life](https://sadh.life)
+ - date published: 2023-10-25T08:59:28.425834+00:00
+ - user: None
+ - tags: ['personal']
+
+## SizeOf.Life
+ - [https://sizeof.life](https://sizeof.life)
+ - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Weeks of Your Life
+ - [https://www.weeksofyour.life](https://www.weeksofyour.life)
+ - date published: 2023-12-24T15:06:56+00:00
+ - user: None
+ - tags: []
+
+## yuke.life
+ - [https://yuke.life](https://yuke.life)
+ - date published: 2023-11-29T16:19:10.381713+00:00
+ - user: None
+ - tags: ['personal']
+
+## BlinderKitten
+ - [http://blinderkitten.lighting](http://blinderkitten.lighting)
+ - date published: 2023-10-25T20:18:25.187517+00:00
+ - user: None
+ - tags: []
+
+## Vitalik Buterin's website
+ - [https://vitalik.eth.limo](https://vitalik.eth.limo)
+ - date published: 2023-10-25T08:59:30.996681+00:00
+ - user: None
+ - tags: ['personal']
+
+## Believe - Serving independent artists and labels at each stage of their career and development
+ - [https://bfan.link](https://bfan.link)
+ - date published: 2023-12-11T15:49:06.226441+00:00
+ - user: None
+ - tags: []
+
+## CDM Create Digital Music - Create digital music, motion, and more.
+ - [https://cdm.link](https://cdm.link)
+ - date published: 2023-10-25T20:18:28.057200+00:00
+ - user: None
+ - tags: ['chiptune', 'audio news', 'audio eqipment', 'keygen']
+
+## renegat0x0 site
+ - [https://www.c-r.link](https://www.c-r.link)
+ - date published: 2024-02-24T14:39:38.678105+00:00
+ - user: None
+ - tags: []
+
+## Free Video Hosting Made Easy - Dubz Platform
+ - [https://dubz.link](https://dubz.link)
+ - date published: 2023-11-05T07:07:53.519389+00:00
+ - user: None
+ - tags: []
+
+## AnyBT
+ - [https://anybt.eth.link](https://anybt.eth.link)
+ - date published: 2024-01-09T03:34:06.616735+00:00
+ - user: None
+ - tags: []
+
+## gptoverflow | Questions
+ - [https://www.gptoverflow.link](https://www.gptoverflow.link)
+ - date published: 2023-10-25T20:18:36.976348+00:00
+ - user: None
+ - tags: []
+
+## Holy Grail
+ - [https://holygrail.link](https://holygrail.link)
+ - date published: 2023-12-13T16:05:24.251172+00:00
+ - user: None
+ - tags: []
+
+## JERAD HILL - DIGITAL MARKETER, YOUTUBER, CREATOR, HUSBAND, FATHER, PILOT, AMERICAN 🇺🇸
+ - [https://jerad.link](https://jerad.link)
+ - date published: 2024-01-09T00:12:39.762016+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://playwt.link](https://playwt.link)
+ - date published: 2024-02-27T03:24:23.282950+00:00
+ - user: None
+ - tags: []
+
 ## pod.link | Share a Podcast
  - [https://pod.link](https://pod.link)
  - date published: 2024-01-09T03:34:12.465235+00:00
@@ -1001,14 +1157,14 @@
  - tags: []
 
 ## FeedPress
- - [https://feedpress.me](https://feedpress.me)
- - date published: 2024-02-25T20:19:45.730277+00:00
+ - [http://feedpress.me](http://feedpress.me)
+ - date published: 2024-02-26T13:00:22.007137+00:00
  - user: None
  - tags: []
 
 ## FeedPress
- - [http://feedpress.me](http://feedpress.me)
- - date published: 2024-02-26T13:00:22.007137+00:00
+ - [https://feedpress.me](https://feedpress.me)
+ - date published: 2024-02-25T20:19:45.730277+00:00
  - user: None
  - tags: []
 
@@ -3318,26 +3474,26 @@
  - tags: []
 
 ## Amigaworld.net - The Amiga Computer Community Portal Website
- - [https://amigaworld.net](https://amigaworld.net)
- - date published: 2023-10-27T14:32:09.267109+00:00
- - user: None
- - tags: ['retro news', 'amiga']
-
-## Amigaworld.net - The Amiga Computer Community Portal Website
  - [http://amigaworld.net](http://amigaworld.net)
  - date published: 2024-02-25T14:45:32.614877+00:00
  - user: None
  - tags: []
 
 ## Amigaworld.net - The Amiga Computer Community Portal Website
- - [http://www.amigaworld.net](http://www.amigaworld.net)
- - date published: 2024-02-25T14:45:35.125644+00:00
+ - [https://amigaworld.net](https://amigaworld.net)
+ - date published: 2023-10-27T14:32:09.267109+00:00
  - user: None
- - tags: []
+ - tags: ['retro news', 'amiga']
 
 ## Amigaworld.net - The Amiga Computer Community Portal Website
  - [https://www.amigaworld.net](https://www.amigaworld.net)
  - date published: 2024-01-09T03:34:56.633393+00:00
+ - user: None
+ - tags: []
+
+## Amigaworld.net - The Amiga Computer Community Portal Website
+ - [http://www.amigaworld.net](http://www.amigaworld.net)
+ - date published: 2024-02-25T14:45:35.125644+00:00
  - user: None
  - tags: []
 
@@ -4622,13 +4778,13 @@ Buildings in Saint Louis, Missouri
  - tags: []
 
 ## Telnet BBS
- - [http://shsbbs.ddns.net](http://shsbbs.ddns.net)
+ - [https://shsbbs.ddns.net](https://shsbbs.ddns.net)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Telnet BBS
- - [https://shsbbs.ddns.net](https://shsbbs.ddns.net)
+ - [http://shsbbs.ddns.net](http://shsbbs.ddns.net)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -5035,17 +5191,23 @@ Buildings in Saint Louis, Missouri
  - user: None
  - tags: ['amiga']
 
-## Eurogamer.net
- - [https://www.eurogamer.net](https://www.eurogamer.net)
- - date published: 1999-10-25T10:50:22+00:00
+## THE ESPORTS ADVOCATE - Esports Business News & Analysis
+ - [https://esportsadvocate.net](https://esportsadvocate.net)
+ - date published: 2024-03-30T00:00:00+00:00
  - user: None
- - tags: ['video game news']
+ - tags: []
 
 ## Eurogamer.net
  - [http://www.eurogamer.net](http://www.eurogamer.net)
  - date published: 2024-03-24T15:04:08.963405+00:00
  - user: None
  - tags: []
+
+## Eurogamer.net
+ - [https://www.eurogamer.net](https://www.eurogamer.net)
+ - date published: 1999-10-25T10:50:22+00:00
+ - user: None
+ - tags: ['video game news']
 
 ## Eve Silver - Bio, Contact, and More
  - [https://www.evesilver.net](https://www.evesilver.net)
@@ -5380,6 +5542,18 @@ Buildings in Saint Louis, Missouri
 ## Easy HTTPS for your private networks
  - [https://www.getlocalcert.net](https://www.getlocalcert.net)
  - date published: 2023-10-25T20:30:41.478985+00:00
+ - user: None
+ - tags: []
+
+## Paint.NET - Free Software for Digital Photo Editing
+ - [https://getpaint.net](https://getpaint.net)
+ - date published: 2024-03-30T20:54:05+00:00
+ - user: rumpel
+ - tags: ['image editor']
+
+## Paint.net
+ - [https://www.getpaint.net](https://www.getpaint.net)
+ - date published: 2024-03-30T02:07:48+00:00
  - user: None
  - tags: []
 
@@ -5826,178 +6000,4 @@ Buildings in Saint Louis, Missouri
  - date published: 2024-02-25T20:50:49.985525+00:00
  - user: None
  - tags: []
-
-## Global News - Breaking International News And Headlines | Inquirer.net
- - [https://globalnation.inquirer.net](https://globalnation.inquirer.net)
- - date published: 2023-11-15T04:42:15.760501+00:00
- - user: None
- - tags: []
-
-## Philippines Top Stories: Politics, Environment, Education, Trending | Inquirer.net
- - [https://newsinfo.inquirer.net](https://newsinfo.inquirer.net)
- - date published: 2023-10-25T20:31:56.026133+00:00
- - user: None
- - tags: []
-
-## Inquirer Technology | Philippine News for Filipinos
- - [https://technology.inquirer.net](https://technology.inquirer.net)
- - date published: 2023-10-25T20:31:58.708336+00:00
- - user: None
- - tags: []
-
-## Eleanor on Everything | Eleanor Berger | Substack
- - [https://everything.intellectronica.net](https://everything.intellectronica.net)
- - date published: 2023-10-25T20:32:05.438974+00:00
- - user: None
- - tags: []
-
-## https://www.inverary.net
- - [https://www.inverary.net](https://www.inverary.net)
- - date published: 2024-01-09T03:35:38.792207+00:00
- - user: None
- - tags: []
-
-## Welcome - IRCv3
- - [https://ircv3.net](https://ircv3.net)
- - date published: 2023-10-25T20:32:06.852691+00:00
- - user: None
- - tags: []
-
-## Irene Posch |
- - [https://ireneposch.net](https://ireneposch.net)
- - date published: 2019-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Iron_Geek
- - [https://irongeek.net](https://irongeek.net)
- - date published: 2024-01-01T03:39:37.772704+00:00
- - user: None
- - tags: []
-
-## IronPython.net /
- - [https://ironpython.net](https://ironpython.net)
- - date published: 2023-11-27T11:35:31+00:00
- - user: rumpel
- - tags: []
-
-## None
- - [https://blog.izissise.net](https://blog.izissise.net)
- - date published: 2024-03-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Holy on Dev
- - [https://blog.jakubholy.net](https://blog.jakubholy.net)
- - date published: 2023-10-25T20:32:08.234661+00:00
- - user: None
- - tags: []
-
-## Links
- - [https://jamesgarside.net](https://jamesgarside.net)
- - date published: 2023-12-09T10:38:27.116119+00:00
- - user: None
- - tags: ['personal']
-
-## Jami
- - [https://jami.net](https://jami.net)
- - date published: 2023-10-25T08:33:33.108947+00:00
- - user: None
- - tags: []
-
-## jasminek.net
- - [https://jasminek.net](https://jasminek.net)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jason Griffey
- - [https://jasongriffey.net](https://jasongriffey.net)
- - date published: 2024-03-05T13:54:25.556874+00:00
- - user: None
- - tags: []
-
-## 賴建順 Jason J. Lai
- - [https://www.jasonjlai.net](https://www.jasonjlai.net)
- - date published: 2024-01-12T10:32:27.978785+00:00
- - user: None
- - tags: []
-
-## Software Download | Oracle
- - [https://download.java.net](https://download.java.net)
- - date published: 2023-10-25T20:32:12.072850+00:00
- - user: None
- - tags: []
-
-## JDK Builds from Oracle
- - [https://jdk.java.net](https://jdk.java.net)
- - date published: 2023-10-25T20:32:13.251661+00:00
- - user: None
- - tags: []
-
-## Tim Zöller
- - [https://javahippie.net](https://javahippie.net)
- - date published: 2023-10-25T08:52:46.073444+00:00
- - user: None
- - tags: ['personal']
-
-## Bernard Vander Beken
- - [https://jawn.net](https://jawn.net)
- - date published: 2024-01-18T16:43:46.246446+00:00
- - user: None
- - tags: []
-
-## Blog - Jay Carlson
- - [https://jaycarlson.net](https://jaycarlson.net)
- - date published: 2023-10-25T08:52:49.258835+00:00
- - user: None
- - tags: ['personal']
-
-## Jayeless.net
- - [https://www.jayeless.net](https://www.jayeless.net)
- - date published: 2024-02-02T18:14:39.989294+00:00
- - user: None
- - tags: []
-
-## Jean Snow [.net] – Blogging since 1998
- - [https://www.jeansnow.net](https://www.jeansnow.net)
- - date published: 1998-02-02T18:14:36+00:00
- - user: rumpel
- - tags: ['blog', 'personal']
-
-## JTube
- - [https://tube.jeena.net](https://tube.jeena.net)
- - date published: 2023-12-05T14:09:28.323742+00:00
- - user: None
- - tags: []
-
-## 网络加速—雷神加速器
- - [https://jeffalbritton.net](https://jeffalbritton.net)
- - date published: 2023-11-29T17:06:43.572558+00:00
- - user: None
- - tags: []
-
-## Jeff Wise – science journalism
- - [http://www.jeffwise.net](http://www.jeffwise.net)
- - date published: 2024-02-25T18:50:47.946888+00:00
- - user: None
- - tags: []
-
-## Jeff Wise – science journalism
- - [https://www.jeffwise.net](https://www.jeffwise.net)
- - date published: 2024-01-11T04:04:31.223583+00:00
- - user: None
- - tags: []
-
-## Homepage of Jose E. Marchesi
- - [https://jemarch.net](https://jemarch.net)
- - date published: 2023-10-25T09:00:36.096519+00:00
- - user: None
- - tags: ['personal']
-
-## John Floren
- - [https://jfloren.net](https://jfloren.net)
- - date published: 2023-10-25T08:52:50.325125+00:00
- - user: None
- - tags: ['personal']
 

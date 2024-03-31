@@ -1,3 +1,33 @@
+## Bjorn's Garden of Hypertext 🌱
+ - [http://bjornwestergard.com](http://bjornwestergard.com)
+ - date published: 2023-10-25T13:03:19.638841+00:00
+ - user: None
+ - tags: []
+
+## Blackbird Spyplane | Substack
+ - [https://www.blackbirdspyplane.com](https://www.blackbirdspyplane.com)
+ - date published: 2023-10-25T13:03:23.951028+00:00
+ - user: None
+ - tags: []
+
+## Black Central Europe – We bring you over 1000 years of Black history in the German-speaking lands and show you why it matters right now
+ - [https://blackcentraleurope.com](https://blackcentraleurope.com)
+ - date published: 2023-10-25T13:03:35.835284+00:00
+ - user: None
+ - tags: []
+
+## Black Hat | Home
+ - [https://www.blackhat.com](https://www.blackhat.com)
+ - date published: 2023-10-25T13:03:38.757259+00:00
+ - user: None
+ - tags: []
+
+## Blackheath village archive surrey
+ - [https://www.blackheathvillagearchive.com](https://www.blackheathvillagearchive.com)
+ - date published: 2024-02-08T16:36:24.442549+00:00
+ - user: None
+ - tags: []
+
 ## Home page - Black Hills Information Security
  - [https://www.blackhillsinfosec.com](https://www.blackhillsinfosec.com)
  - date published: 2023-10-25T13:03:41.747695+00:00
@@ -484,6 +514,12 @@
  - user: None
  - tags: []
 
+## software thoughts
+ - [http://craig-henderson.blogspot.com](http://craig-henderson.blogspot.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## croucher
  - [https://croucher.blogspot.com](https://croucher.blogspot.com)
  - date published: 2024-02-08T22:04:00.208128+00:00
@@ -509,16 +545,16 @@
  - tags: ['personal']
 
 ## Database Architects
- - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Database Architects
  - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
  - date published: 2023-10-25T09:08:09.774302+00:00
  - user: None
  - tags: ['personal']
+
+## Database Architects
+ - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Data Finnovation
  - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
@@ -1079,14 +1115,14 @@
  - tags: ['personal']
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
- - date published: 2024-01-03T20:38:22.927557+00:00
+ - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
+ - date published: 2024-01-04T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
- - date published: 2024-01-04T00:00:00+00:00
+ - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
+ - date published: 2024-01-03T20:38:22.927557+00:00
  - user: None
  - tags: []
 
@@ -3156,6 +3192,12 @@
  - user: None
  - tags: []
 
+## Cierpliwości...
+ - [https://www.cair.com](https://www.cair.com)
+ - date published: 2024-03-30T18:47:14.616296+00:00
+ - user: None
+ - tags: []
+
 ## Cairo Desktop Environment
  - [https://cairodesktop.com](https://cairodesktop.com)
  - date published: 2023-10-25T13:16:27.500951+00:00
@@ -4015,14 +4057,14 @@
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [http://sports.cctv.com](http://sports.cctv.com)
- - date published: 2024-03-21T02:07:49.559014+00:00
+ - [https://sports.cctv.com](https://sports.cctv.com)
+ - date published: 2023-12-09T12:18:44.730556+00:00
  - user: None
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [https://sports.cctv.com](https://sports.cctv.com)
- - date published: 2023-12-09T12:18:44.730556+00:00
+ - [http://sports.cctv.com](http://sports.cctv.com)
+ - date published: 2024-03-21T02:07:49.559014+00:00
  - user: None
  - tags: []
 
@@ -5965,49 +6007,6 @@
 ## Coda Story
  - [https://www.codastory.com](https://www.codastory.com)
  - date published: 2023-10-25T13:27:42.184729+00:00
- - user: None
- - tags: []
-
-## Blog · Codeanywhere
- - [http://blog.codeanywhere.com](http://blog.codeanywhere.com)
- - date published: 2024-01-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Blog · Codeanywhere
- - [https://blog.codeanywhere.com](https://blog.codeanywhere.com)
- - date published: 2023-10-25T13:27:59.137947+00:00
- - user: None
- - tags: []
-
-## CodeBreakthrough
- - [https://www.codebreakthrough.com](https://www.codebreakthrough.com)
- - date published: 2024-02-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Learn to Code - for Free | Codecademy
- - [https://www.codecademy.com](https://www.codecademy.com)
- - date published: 2023-12-11T12:20:56+00:00
- - user: rumpel
- - tags: ['tutorials', 'courses']
-
-## Code Code Ship
-     · Code Code Ship
- - [https://codecodeship.com](https://codecodeship.com)
- - date published: 2023-10-25T13:28:01.849017+00:00
- - user: None
- - tags: []
-
-## Learn To Code For Free — Interactive Courses And Practice Problems
- - [https://codedamn.com](https://codedamn.com)
- - date published: 2023-10-25T13:28:03.885487+00:00
- - user: None
- - tags: []
-
-## Code Deep Dives
- - [https://codedeepdives.com](https://codedeepdives.com)
- - date published: 2024-03-09T00:00:00+00:00
  - user: None
  - tags: []
 

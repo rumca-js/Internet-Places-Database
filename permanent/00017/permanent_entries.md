@@ -1,3 +1,147 @@
+## Medical School
+ - [https://med.umn.edu](https://med.umn.edu)
+ - date published: 2023-10-25T19:02:48.728498+00:00
+ - user: None
+ - tags: []
+
+## Center for Open Education
+ - [https://open.umn.edu](https://open.umn.edu)
+ - date published: 2023-10-25T19:02:55.930942+00:00
+ - user: None
+ - tags: []
+
+## University of Minnesota Twin Cities
+ - [https://umn.edu](https://umn.edu)
+ - date published: 2024-03-18T20:21:28+00:00
+ - user: rumpel
+ - tags: []
+
+## Homepage | CIDRAP
+ - [https://www.cidrap.umn.edu](https://www.cidrap.umn.edu)
+ - date published: 2023-10-25T19:02:58.423919+00:00
+ - user: None
+ - tags: []
+
+## The Circuits and Biology Lab at UMN
+ - [https://www.mriedel.ece.umn.edu](https://www.mriedel.ece.umn.edu)
+ - date published: 2023-10-25T19:03:11.903000+00:00
+ - user: None
+ - tags: []
+
+## University of Minnesota Press
+ - [https://www.upress.umn.edu](https://www.upress.umn.edu)
+ - date published: 2023-11-22T15:59:30.119351+00:00
+ - user: None
+ - tags: []
+
+## UNC Research
+ - [https://research.unc.edu](https://research.unc.edu)
+ - date published: 2023-12-18T18:13:30.339368+00:00
+ - user: None
+ - tags: []
+
+## Richard L. Smith
+ - [https://rls.sites.oasis.unc.edu](https://rls.sites.oasis.unc.edu)
+ - date published: 2024-01-22T14:28:28.722387+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science - Computer Science
+ - [https://www.cs.unc.edu](https://www.cs.unc.edu)
+ - date published: 2024-01-04T03:53:19.712202+00:00
+ - user: None
+ - tags: []
+
+## HORIZON Site
+ - [https://www.horizon.unc.edu](https://www.horizon.unc.edu)
+ - date published: 2006-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Sheps Center
+ - [https://www.shepscenter.unc.edu](https://www.shepscenter.unc.edu)
+ - date published: 2023-10-25T19:03:16.486451+00:00
+ - user: None
+ - tags: []
+
+## The University of North Carolina at Chapel Hill
+ - [https://www.unc.edu](https://www.unc.edu)
+ - date published: 2023-10-25T19:03:20.646945+00:00
+ - user: None
+ - tags: []
+
+## UNCW Faculty and Staff Web Pages
+ - [https://people.uncw.edu](https://people.uncw.edu)
+ - date published: 2024-01-09T03:28:41.989744+00:00
+ - user: None
+ - tags: []
+
+## University of Northern Iowa
+ - [https://sites.uni.edu](https://sites.uni.edu)
+ - date published: 2023-12-25T04:34:00.754074+00:00
+ - user: None
+ - tags: []
+
+## COVID-19: Nebraska Responds | Nebraska
+ - [https://covid19.unl.edu](https://covid19.unl.edu)
+ - date published: 2024-02-08T22:09:17.323265+00:00
+ - user: None
+ - tags: []
+
+## Current Map | U.S. Drought Monitor
+ - [https://droughtmonitor.unl.edu](https://droughtmonitor.unl.edu)
+ - date published: 2023-10-25T19:03:24.927997+00:00
+ - user: None
+ - tags: []
+
+## Nebraska Today | Newsroom | University of Nebraska–Lincoln
+ - [https://news.unl.edu](https://news.unl.edu)
+ - date published: 2023-10-25T19:03:32.872689+00:00
+ - user: None
+ - tags: []
+
+## Plains Humanities Alliance | Center for Great Plains Studies | Nebraska
+ - [http://plainshumanities.unl.edu](http://plainshumanities.unl.edu)
+ - date published: 2024-03-26T00:15:18.474763+00:00
+ - user: None
+ - tags: []
+
+## Russell T. Hurlburt home page
+ - [https://hurlburt.faculty.unlv.edu](https://hurlburt.faculty.unlv.edu)
+ - date published: 2023-10-25T19:03:40.322481+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [http://www.egr.unlv.edu](http://www.egr.unlv.edu)
+ - date published: 2023-12-25T01:13:24.774284+00:00
+ - user: None
+ - tags: []
+
+## UNM Newsroom: UNM Newsroom
+ - [https://news.unm.edu](https://news.unm.edu)
+ - date published: 2023-10-25T19:03:42.977458+00:00
+ - user: None
+ - tags: []
+
+## REDCap
+ - [https://survey.cas.unt.edu](https://survey.cas.unt.edu)
+ - date published: 2023-11-12T22:46:43.305600+00:00
+ - user: None
+ - tags: []
+
+## Our World
+ - [https://ourworld.unu.edu](https://ourworld.unu.edu)
+ - date published: 2024-01-09T03:28:44.798292+00:00
+ - user: None
+ - tags: []
+
+## Around the O | University of Oregon
+ - [https://around.uoregon.edu](https://around.uoregon.edu)
+ - date published: 2023-10-25T19:03:45.815223+00:00
+ - user: None
+ - tags: []
+
 ## University of Oregon WordPress Hosting – Educational blogs from our community
  - [https://blogs.uoregon.edu](https://blogs.uoregon.edu)
  - date published: 2023-10-25T19:03:47.440940+00:00
@@ -805,14 +949,14 @@
  - tags: []
 
 ## Buttondown
- - [http://buttondown.email](http://buttondown.email)
- - date published: 2024-01-23T00:00:00+00:00
+ - [https://buttondown.email](https://buttondown.email)
+ - date published: 2023-10-25T19:07:12.851726+00:00
  - user: None
  - tags: []
 
 ## Buttondown
- - [https://buttondown.email](https://buttondown.email)
- - date published: 2023-10-25T19:07:12.851726+00:00
+ - [http://buttondown.email](http://buttondown.email)
+ - date published: 2024-01-23T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1675,14 +1819,14 @@
  - tags: []
 
 ## NOYB enforces your right to privacy everyday
- - [https://noyb.eu](https://noyb.eu)
- - date published: 2023-10-25T11:24:53.335930+00:00
+ - [http://noyb.eu](http://noyb.eu)
+ - date published: 2024-02-26T15:02:23.923642+00:00
  - user: None
  - tags: []
 
 ## NOYB enforces your right to privacy everyday
- - [http://noyb.eu](http://noyb.eu)
- - date published: 2024-02-26T15:02:23.923642+00:00
+ - [https://noyb.eu](https://noyb.eu)
+ - date published: 2023-10-25T11:24:53.335930+00:00
  - user: None
  - tags: []
 
@@ -1939,16 +2083,16 @@
  - tags: []
 
 ## Nicole Express
- - [https://nicole.express](https://nicole.express)
- - date published: 2023-10-25T19:12:14.620553+00:00
- - user: None
- - tags: ['personal']
-
-## Nicole Express
  - [http://nicole.express](http://nicole.express)
  - date published: 2024-02-18T00:00:00+00:00
  - user: None
  - tags: []
+
+## Nicole Express
+ - [https://nicole.express](https://nicole.express)
+ - date published: 2023-10-25T19:12:14.620553+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Abort Retry Fail | Bradford Morgan White | Substack
  - [https://www.abortretry.fail](https://www.abortretry.fail)
@@ -2118,17 +2262,17 @@
  - user: None
  - tags: ['personal']
 
-## https://jope.fi
- - [https://jope.fi](https://jope.fi)
- - date published: 2024-01-11T00:42:53.136432+00:00
- - user: None
- - tags: []
-
 ## The X-Copy Shrine
  - [http://jope.fi/xcopy/index.html](http://jope.fi/xcopy/index.html)
  - date published: 2024-02-06T13:38:25.181349+00:00
  - user: rumpel
  - tags: ['amiga', 'x-copy']
+
+## https://jope.fi
+ - [https://jope.fi](https://jope.fi)
+ - date published: 2024-01-11T00:42:53.136432+00:00
+ - user: None
+ - tags: []
 
 ## Ville Jouppi
  - [http://jope.fi](http://jope.fi)
@@ -3381,14 +3525,14 @@
  - tags: []
 
 ## jade's www site
- - [http://jade.fyi](http://jade.fyi)
- - date published: 2024-01-27T00:00:00+00:00
+ - [https://jade.fyi](https://jade.fyi)
+ - date published: 2024-01-09T18:46:42.354724+00:00
  - user: None
  - tags: []
 
 ## jade's www site
- - [https://jade.fyi](https://jade.fyi)
- - date published: 2024-01-09T18:46:42.354724+00:00
+ - [http://jade.fyi](http://jade.fyi)
+ - date published: 2024-01-27T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3968,15 +4112,15 @@
  - user: None
  - tags: []
 
-## The Keyword | Google Product and Technology News and Stories
- - [https://blog.google](https://blog.google)
- - date published: 2023-10-25T11:29:32.894232+00:00
- - user: None
- - tags: []
-
 ## The Keyword
  - [http://blog.google](http://blog.google)
  - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Keyword | Google Product and Technology News and Stories
+ - [https://blog.google](https://blog.google)
+ - date published: 2023-10-25T11:29:32.894232+00:00
  - user: None
  - tags: []
 
@@ -3987,16 +4131,16 @@
  - tags: []
 
 ## Google DeepMind
- - [https://deepmind.google](https://deepmind.google)
- - date published: 2023-11-14T16:38:56.541975+00:00
- - user: None
- - tags: ['artificial intelligence']
-
-## Google DeepMind
  - [http://deepmind.google](http://deepmind.google)
  - date published: 2024-02-21T00:00:00+00:00
  - user: None
  - tags: []
+
+## Google DeepMind
+ - [https://deepmind.google](https://deepmind.google)
+ - date published: 2023-11-14T16:38:56.541975+00:00
+ - user: None
+ - tags: ['artificial intelligence']
 
 ## Google Domains | Official Site – Google Domains
  - [https://domains.google](https://domains.google)
@@ -5859,150 +6003,6 @@
 ## telex
  - [https://telex.hu](https://telex.hu)
  - date published: 2023-11-22T17:38:44.501720+00:00
- - user: None
- - tags: []
-
-## Services
- - [https://voidcomputing.hu](https://voidcomputing.hu)
- - date published: 2024-03-13T17:39:46.172552+00:00
- - user: None
- - tags: []
-
-## goose.icu
- - [https://goose.icu](https://goose.icu)
- - date published: 2023-10-27T20:10:59.917422+00:00
- - user: None
- - tags: []
-
-## Snippets
- - [https://snippets.icu](https://snippets.icu)
- - date published: 2024-03-17T14:52:53.279122+00:00
- - user: None
- - tags: ['personal']
-
-## TheSauna
- - [https://the-sauna.icu](https://the-sauna.icu)
- - date published: 2023-12-19T10:05:35.430811+00:00
- - user: None
- - tags: ['personal']
-
-## Wayfarer - The MorphOS' WebKit Browser
- - [https://wayfarer.icu](https://wayfarer.icu)
- - date published: 2023-12-11T17:41:50.652090+00:00
- - user: None
- - tags: []
-
-## Jurnal Ilmu Komputer dan Informasi
- - [https://jiki.cs.ui.ac.id](https://jiki.cs.ui.ac.id)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Preloved - Jual-Beli Baju Vintage di Thrift Shop Online
- - [https://preloved.co.id](https://preloved.co.id)
- - date published: 2023-10-25T19:28:30.280862+00:00
- - user: None
- - tags: []
-
-## By Benny
- - [https://benny.id](https://benny.id)
- - date published: 2024-01-08T07:26:12.846132+00:00
- - user: None
- - tags: []
-
-## Jakarta Globe - breaking news today | Your City, Your World, Your Indonesia
- - [https://jakartaglobe.id](https://jakartaglobe.id)
- - date published: 2024-03-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mainkit.ID
- - [https://www.mainkit.id](https://www.mainkit.id)
- - date published: 2023-12-29T03:11:59.838466+00:00
- - user: None
- - tags: ['personal']
-
-## Passwordless Authentication Powered by Passkeys | Passage by 1Password
- - [https://passage.id](https://passage.id)
- - date published: 2023-10-25T19:28:32.133386+00:00
- - user: None
- - tags: []
-
-## Retr0id
- - [https://retr0.id](https://retr0.id)
- - date published: 2023-10-25T19:28:32.529500+00:00
- - user: None
- - tags: []
-
-## Home | xavd.id
- - [https://xavd.id](https://xavd.id)
- - date published: 2023-10-25T19:28:33.367988+00:00
- - user: None
- - tags: []
-
-## None
- - [https://rtnf.my.id](https://rtnf.my.id)
- - date published: 2024-01-09T03:31:52.858843+00:00
- - user: None
- - tags: []
-
-## Adrian Cooney - Full Stack Engineer
- - [https://www.adriancooney.ie](https://www.adriancooney.ie)
- - date published: 2023-10-25T19:28:34.235961+00:00
- - user: None
- - tags: []
-
-## The latest farming news for Irish farmers
- - [https://www.agriland.ie](https://www.agriland.ie)
- - date published: 2023-12-22T13:49:56.808642+00:00
- - user: None
- - tags: []
-
-## Brian McGee
- - [https://bmcgee.ie](https://bmcgee.ie)
- - date published: 2023-10-25T19:28:34.867850+00:00
- - user: None
- - tags: []
-
-## Irish News | Breaking News from Ireland | BreakingNews.ie
- - [https://www.breakingnews.ie](https://www.breakingnews.ie)
- - date published: 2023-12-22T18:37:50.548183+00:00
- - user: None
- - tags: []
-
-## Trusted Independent Journalism Seven Days a Week | Business Post
- - [https://www.businesspost.ie](https://www.businesspost.ie)
- - date published: 2023-10-25T19:28:37.282146+00:00
- - user: None
- - tags: []
-
-## Castlebridge - We help people do great things with data.
- - [https://castlebridge.ie](https://castlebridge.ie)
- - date published: 2023-10-25T19:28:44.340624+00:00
- - user: None
- - tags: []
-
-## New Cars, Vans and Servicing | Automotive |  Citroën Ireland
- - [https://www.citroen.ie](https://www.citroen.ie)
- - date published: 2023-12-11T16:02:12.115031+00:00
- - user: None
- - tags: []
-
-## Homepage | Data Protection Commission
- - [https://dataprotection.ie](https://dataprotection.ie)
- - date published: 2023-10-25T19:28:46.332271+00:00
- - user: None
- - tags: []
-
-## Homepage - Essays, Blog Posts & Book Reviews - Dublin Review of Books
- - [https://drb.ie](https://drb.ie)
- - date published: 2023-10-25T19:28:48.128561+00:00
- - user: None
- - tags: []
-
-## Home | Galway Arts Centre
- - [https://www.galwayartscentre.ie](https://www.galwayartscentre.ie)
- - date published: 2024-03-31T00:00:00+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,99 @@
+## Welcome - Open Subtitles Blog
+ - [https://blog.opensubtitles.com](https://blog.opensubtitles.com)
+ - date published: 2023-11-16T14:55:26.595310+00:00
+ - user: None
+ - tags: []
+
+## opensubtitles.com
+ - [https://opensubtitles.com](https://opensubtitles.com)
+ - date published: 2024-02-23T16:47:48+00:00
+ - user: rumpel
+ - tags: ['subtitles']
+
+## OpenSX70
+ - [https://opensx70.com](https://opensx70.com)
+ - date published: 2023-11-01T08:42:52.647761+00:00
+ - user: None
+ - tags: []
+
+## Open Magazine
+ - [https://openthemagazine.com](https://openthemagazine.com)
+ - date published: 2023-10-25T16:26:47.462037+00:00
+ - user: None
+ - tags: []
+
+## Interactive Vim tutorial
+ - [https://www.openvim.com](https://www.openvim.com)
+ - date published: 2023-10-25T09:27:45.430152+00:00
+ - user: None
+ - tags: []
+
+## Openwall - bringing security into open computing environments
+ - [https://www.openwall.com](https://www.openwall.com)
+ - date published: 2023-10-25T16:26:56.278778+00:00
+ - user: None
+ - tags: []
+
+## Opera add-ons
+ - [https://addons.opera.com](https://addons.opera.com)
+ - date published: 2024-03-04T10:41:26+00:00
+ - user: rumpel
+ - tags: ['browser addons']
+
+## The Opera Blog - News | Opera
+ - [https://blogs.opera.com](https://blogs.opera.com)
+ - date published: 2023-10-25T11:29:22.476464+00:00
+ - user: None
+ - tags: []
+
+## Opera Web Browser | Faster, Safer, Smarter | Opera
+ - [https://www.opera.com](https://www.opera.com)
+ - date published: 2023-11-01T08:41:07.913556+00:00
+ - user: None
+ - tags: ['web browser']
+
+## Ant-Like Persistence
+ - [https://blog.oppedahl.com](https://blog.oppedahl.com)
+ - date published: 2023-10-25T16:27:01.429670+00:00
+ - user: None
+ - tags: []
+
+## Smartfony i akcesoria OPPO | OPPO Polska
+ - [https://www.oppo.com](https://www.oppo.com)
+ - date published: 2023-10-25T11:26:11.032644+00:00
+ - user: None
+ - tags: ['company']
+
+## Opposite Invictus
+ - [https://oppositeinvictus.com](https://oppositeinvictus.com)
+ - date published: 2023-10-25T16:27:04.778062+00:00
+ - user: None
+ - tags: []
+
+## Operation Bootstrap
+ - [https://www.opsbs.com](https://www.opsbs.com)
+ - date published: 2015-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Remove Your Personal Information from Google - Optery
+ - [https://www.optery.com](https://www.optery.com)
+ - date published: 2024-03-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Optimally Irrational | Lionel Page | Substack
+ - [https://www.optimallyirrational.com](https://www.optimallyirrational.com)
+ - date published: 2024-02-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Optimising Nutrition
+ - [https://optimisingnutrition.com](https://optimisingnutrition.com)
+ - date published: 2023-10-25T16:27:10.295055+00:00
+ - user: None
+ - tags: []
+
 ## Optimized by Otto
  - [https://optimizedbyotto.com](https://optimizedbyotto.com)
  - date published: 2024-02-18T00:00:00+00:00
@@ -88,15 +184,15 @@
  - user: None
  - tags: []
 
-## O'Reilly Media - Technology and Business Training
- - [https://radar.oreilly.com](https://radar.oreilly.com)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Radar - O’Reilly
  - [http://radar.oreilly.com](http://radar.oreilly.com)
  - date published: 2024-03-11T20:56:21.645465+00:00
+ - user: None
+ - tags: []
+
+## O'Reilly Media - Technology and Business Training
+ - [https://radar.oreilly.com](https://radar.oreilly.com)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1415,15 +1511,15 @@
  - user: None
  - tags: ['personal']
 
-## PCMag.com - Technology Product Reviews, News, Prices & Tips
- - [https://uk.pcmag.com](https://uk.pcmag.com)
- - date published: 2023-10-25T09:34:32.882984+00:00
- - user: None
- - tags: []
-
 ## PCMag UK
  - [http://uk.pcmag.com](http://uk.pcmag.com)
  - date published: 2024-02-26T09:45:15.403718+00:00
+ - user: None
+ - tags: []
+
+## PCMag.com - Technology Product Reviews, News, Prices & Tips
+ - [https://uk.pcmag.com](https://uk.pcmag.com)
+ - date published: 2023-10-25T09:34:32.882984+00:00
  - user: None
  - tags: []
 
@@ -3669,14 +3765,14 @@
  - tags: []
 
 ## Preshing on Programming
- - [https://preshing.com](https://preshing.com)
- - date published: 2023-10-25T16:39:24.657091+00:00
+ - [http://preshing.com](http://preshing.com)
+ - date published: 2021-03-15T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Preshing on Programming
- - [http://preshing.com](http://preshing.com)
- - date published: 2021-03-15T00:00:00+00:00
+ - [https://preshing.com](https://preshing.com)
+ - date published: 2023-10-25T16:39:24.657091+00:00
  - user: None
  - tags: []
 
@@ -3951,14 +4047,14 @@
  - tags: []
 
 ## programming is terrible
- - [http://programmingisterrible.com](http://programmingisterrible.com)
- - date published: 2022-09-22T00:00:00+00:00
+ - [https://programmingisterrible.com](https://programmingisterrible.com)
+ - date published: 2023-10-25T16:40:51.213240+00:00
  - user: None
  - tags: []
 
 ## programming is terrible
- - [https://programmingisterrible.com](https://programmingisterrible.com)
- - date published: 2023-10-25T16:40:51.213240+00:00
+ - [http://programmingisterrible.com](http://programmingisterrible.com)
+ - date published: 2022-09-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4019,6 +4115,12 @@
 ## PROJECT MUGEN Official Website - Fly! Over the top of the world
  - [https://www.projectmugen.com](https://www.projectmugen.com)
  - date published: 2023-10-29T09:56:31.842766+00:00
+ - user: None
+ - tags: []
+
+## Tesseract.js | Pure Javascript OCR for 100 Languages!
+ - [https://tesseract.projectnaptha.com](https://tesseract.projectnaptha.com)
+ - date published: 2024-03-30T20:59:23.483080+00:00
  - user: None
  - tags: []
 
@@ -4205,6 +4307,12 @@
 ## PRWeb | Online Press Release Distribution Service | PRWeb
  - [https://www.prweb.com](https://www.prweb.com)
  - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## PSA Press
+ - [https://www.psapress.com](https://www.psapress.com)
+ - date published: 2024-03-30T18:13:34.772445+00:00
  - user: None
  - tags: []
 
@@ -5010,17 +5118,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://rachelwestbooks.com](http://rachelwestbooks.com)
- - date published: 2024-02-29T14:58:43.538321+00:00
- - user: None
- - tags: []
-
 ## http://rachelwestbooks.com
  - [https://rachelwestbooks.com](https://rachelwestbooks.com)
  - date published: 2024-02-09T00:19:01.129739+00:00
  - user: None
  - tags: ['poetry', 'book', 'personal']
+
+## None
+ - [http://rachelwestbooks.com](http://rachelwestbooks.com)
+ - date published: 2024-02-29T14:58:43.538321+00:00
+ - user: None
+ - tags: []
 
 ## Rachel Zampino | Website Wizard - Rachel Zampino
  - [https://rachelzampino.com](https://rachelzampino.com)
@@ -5450,16 +5558,16 @@ More!
  - tags: []
 
 ## Ravenfeast
- - [https://www.ravenfeast.com](https://www.ravenfeast.com)
- - date published: 2024-03-01T09:41:52+00:00
- - user: rumpel
- - tags: ['tabletop games', 'wargames']
-
-## Ravenfeast
  - [http://www.ravenfeast.com](http://www.ravenfeast.com)
  - date published: 2024-03-01T18:35:27.406553+00:00
  - user: None
  - tags: []
+
+## Ravenfeast
+ - [https://www.ravenfeast.com](https://www.ravenfeast.com)
+ - date published: 2024-03-01T09:41:52+00:00
+ - user: rumpel
+ - tags: ['tabletop games', 'wargames']
 
 ## https://www.ravensoft.com
  - [https://www.ravensoft.com](https://www.ravensoft.com)
@@ -5690,14 +5798,14 @@ More!
  - tags: ['company']
 
 ## Home | Realms of Despair
- - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
- - date published: 2024-03-27T20:52:28.838514+00:00
+ - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:46:33.188949+00:00
  - user: None
  - tags: ['mud game']
 
 ## Home | Realms of Despair
- - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
- - date published: 2024-03-27T20:46:33.188949+00:00
+ - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:52:28.838514+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5896,114 +6004,6 @@ More!
 ## Reddit - Dive into anything
  - [http://tennis.reddit.com](http://tennis.reddit.com)
  - date published: 2024-03-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## reddit
- - [http://www.reddit.com](http://www.reddit.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## reddit
- - [https://www.reddit.com](https://www.reddit.com)
- - date published: 2023-10-24T20:16:46.235665+00:00
- - user: None
- - tags: []
-
-## /r/CFB Authentication
- - [https://gamethread.redditcfb.com](https://gamethread.redditcfb.com)
- - date published: 2023-12-30T05:19:18.746677+00:00
- - user: None
- - tags: []
-
-## Homepage - Reddit
- - [https://www.redditinc.com](https://www.redditinc.com)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://a.thumbs.redditmedia.com
- - [https://a.thumbs.redditmedia.com](https://a.thumbs.redditmedia.com)
- - date published: 2023-10-30T13:20:51.470547+00:00
- - user: None
- - tags: []
-
-## https://b.thumbs.redditmedia.com
- - [https://b.thumbs.redditmedia.com](https://b.thumbs.redditmedia.com)
- - date published: 2023-10-31T06:38:02.668360+00:00
- - user: None
- - tags: []
-
-## Reddit Migration Directory: Subreddit Replacements
- - [https://redditmigration.com](https://redditmigration.com)
- - date published: 2023-10-25T16:47:42.228313+00:00
- - user: None
- - tags: []
-
-## reddit Status
- - [https://www.redditstatus.com](https://www.redditstatus.com)
- - date published: 2023-10-25T16:47:43.967220+00:00
- - user: None
- - tags: []
-
-## reddit-stream - a better way to view live reddit threads
- - [https://reddit-stream.com](https://reddit-stream.com)
- - date published: 2023-11-25T13:39:04.920744+00:00
- - user: None
- - tags: []
-
-## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
- - user: None
- - tags: []
-
-## reddit-stream - a better way to view live reddit threads
- - [http://www.reddit-stream.com](http://www.reddit-stream.com)
- - date published: 2023-12-23T19:30:18.252561+00:00
- - user: None
- - tags: []
-
-## Redeem Tomorrow: Home
- - [https://redeem-tomorrow.com](https://redeem-tomorrow.com)
- - date published: 2023-10-25T16:47:46.525838+00:00
- - user: None
- - tags: []
-
-## Real Estate, Homes for Sale, MLS Listings, Agents | Redfin
- - [https://www.redfin.com](https://www.redfin.com)
- - date published: 2023-10-25T16:47:52.485654+00:00
- - user: None
- - tags: []
-
-## Redgate Software - Compliant Database DevOps Solutions and Tools For SQL Server, Oracle, & .NET
- - [https://www.red-gate.com](https://www.red-gate.com)
- - date published: 2023-11-01T08:43:03.996831+00:00
- - user: None
- - tags: []
-
-## Red Hat Customer Portal - Access to 24x7 support and knowledge
- - [https://access.redhat.com](https://access.redhat.com)
- - date published: 2023-10-25T16:47:55.010667+00:00
- - user: None
- - tags: []
-
-## Red Hat Bugzilla Main Page
- - [https://bugzilla.redhat.com](https://bugzilla.redhat.com)
- - date published: 2023-10-25T16:47:56.632804+00:00
- - user: None
- - tags: []
-
-## Hybrid Cloud Developer Tutorials and Software from Red Hat | Red Hat Developer
- - [https://developers.redhat.com](https://developers.redhat.com)
- - date published: 2023-10-25T16:47:59.225749+00:00
- - user: None
- - tags: []
-
-## listman.redhat.com Mailing Lists
- - [https://listman.redhat.com](https://listman.redhat.com)
- - date published: 2023-10-25T16:48:12.888347+00:00
  - user: None
  - tags: []
 

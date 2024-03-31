@@ -1,3 +1,69 @@
+## Navigate your next
+ - [https://www.infosys.com](https://www.infosys.com)
+ - date published: 2023-10-30T11:05:08.221150+00:00
+ - user: None
+ - tags: ['information company', 'india']
+
+## InfoWorld - Technology insight for the enterprise
+ - [https://www.infoworld.com](https://www.infoworld.com)
+ - date published: 2023-10-25T09:33:30.464349+00:00
+ - user: None
+ - tags: ['tech news']
+
+## InfoWorld - Technology insight for the enterprise
+ - [http://www.infoworld.com](http://www.infoworld.com)
+ - date published: 2024-02-25T20:55:36.520873+00:00
+ - user: None
+ - tags: []
+
+## Infrastructure as Code
+ - [https://infrastructure-as-code.com](https://infrastructure-as-code.com)
+ - date published: 2023-10-25T15:19:59.848030+00:00
+ - user: None
+ - tags: []
+
+## ING THINK economic and financial analysis | ING Think
+ - [https://think.ing.com](https://think.ing.com)
+ - date published: 2023-10-25T15:20:04.725130+00:00
+ - user: None
+ - tags: []
+
+## Inga Hope
+ - [https://ingahope.com](https://ingahope.com)
+ - date published: 2023-12-17T16:42:11.100676+00:00
+ - user: None
+ - tags: ['personal']
+
+## Inhale the Heavy
+ - [https://inhaletheheavy.com](https://inhaletheheavy.com)
+ - date published: 2023-12-19T19:09:02.371646+00:00
+ - user: None
+ - tags: ['personal']
+
+## Initial Commit - Quality resources and tools for developers
+ - [https://initialcommit.com](https://initialcommit.com)
+ - date published: 2023-10-25T15:20:06.886371+00:00
+ - user: None
+ - tags: []
+
+## AC3D - Easy to use 3D software
+ - [https://www.inivis.com](https://www.inivis.com)
+ - date published: 2023-10-25T15:20:09.545970+00:00
+ - user: None
+ - tags: []
+
+## Ink & Switch
+ - [https://www.inkandswitch.com](https://www.inkandswitch.com)
+ - date published: 2023-10-25T15:20:10.327252+00:00
+ - user: None
+ - tags: []
+
+## inkle
+ - [https://www.inklestudios.com](https://www.inklestudios.com)
+ - date published: 2023-10-25T15:20:11.965217+00:00
+ - user: None
+ - tags: []
+
 ## https://cmp.inmobi.com
  - [https://cmp.inmobi.com](https://cmp.inmobi.com)
  - date published: 2023-12-11T18:41:59.986191+00:00
@@ -585,6 +651,12 @@
  - date published: 2024-01-24T17:15:09.482286+00:00
  - user: None
  - tags: []
+
+## IrfanView
+ - [https://www.irfanview.com](https://www.irfanview.com)
+ - date published: 2024-03-30T13:56:45+00:00
+ - user: None
+ - tags: ['image editor']
 
 ## Irina Ideas Multidisciplinary artist
  - [https://irinaklyuev.com](https://irinaklyuev.com)
@@ -5058,16 +5130,16 @@
  - tags: ['demoscene']
 
 ## Kohina Web Player
- - [http://player.kohina.com](http://player.kohina.com)
- - date published: 2024-02-15T02:00:14.788563+00:00
- - user: None
- - tags: []
-
-## Kohina Web Player
  - [https://player.kohina.com](https://player.kohina.com)
  - date published: 2023-10-25T15:38:24.816845+00:00
  - user: None
  - tags: ['keygen', 'chiptune']
+
+## Kohina Web Player
+ - [http://player.kohina.com](http://player.kohina.com)
+ - date published: 2024-02-15T02:00:14.788563+00:00
+ - user: None
+ - tags: []
 
 ## Access Restricted
  - [https://www.koin.com](https://www.koin.com)
@@ -5610,14 +5682,14 @@
  - tags: ['personal']
 
 ## Kyle Halladay - Home Page
- - [https://kylehalladay.com](https://kylehalladay.com)
- - date published: 2024-01-09T02:41:26.783231+00:00
+ - [http://kylehalladay.com](http://kylehalladay.com)
+ - date published: 2021-07-14T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Kyle Halladay - Home Page
- - [http://kylehalladay.com](http://kylehalladay.com)
- - date published: 2021-07-14T00:00:00+00:00
+ - [https://kylehalladay.com](https://kylehalladay.com)
+ - date published: 2024-01-09T02:41:26.783231+00:00
  - user: None
  - tags: []
 
@@ -5676,16 +5748,16 @@
  - tags: []
 
 ## La Femme | Official Website
- - [https://www.lafemmemusic.com](https://www.lafemmemusic.com)
- - date published: 2024-01-19T00:00:00+00:00
- - user: rumpel
- - tags: ['music band']
-
-## La Femme | Official Website
  - [http://www.lafemmemusic.com](http://www.lafemmemusic.com)
  - date published: 2024-01-19T00:00:00+00:00
  - user: None
  - tags: []
+
+## La Femme | Official Website
+ - [https://www.lafemmemusic.com](https://www.lafemmemusic.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['music band']
 
 ## Lagged - Free Online Games on Lagged.com
  - [https://lagged.com](https://lagged.com)
@@ -5924,78 +5996,6 @@
 ## Lars Müller Publishers
  - [https://www.lars-mueller-publishers.com](https://www.lars-mueller-publishers.com)
  - date published: 2024-02-15T22:32:25.253771+00:00
- - user: None
- - tags: []
-
-## Lasse Laursen – Lasse Laursen's project portfolio and development blog.
- - [https://www.lasselaursen.com](https://www.lasselaursen.com)
- - date published: 2023-10-25T15:41:32.904514+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://lastmovieoutpost.com](https://lastmovieoutpost.com)
- - date published: 2024-02-26T08:39:12.532389+00:00
- - user: None
- - tags: []
-
-## Home - Last Movie Outpost
- - [https://www.lastmovieoutpost.com](https://www.lastmovieoutpost.com)
- - date published: 2023-10-25T15:41:42.257022+00:00
- - user: None
- - tags: []
-
-## The LastPass Blog - The Last Password You'll Ever Need
- - [https://blog.lastpass.com](https://blog.lastpass.com)
- - date published: 2023-10-25T15:41:49.291482+00:00
- - user: None
- - tags: []
-
-## laststandonzombieisland | Weapons, Wars, Preparation and Security from a recovering gun nut turned bad writer
- - [https://laststandonzombieisland.com](https://laststandonzombieisland.com)
- - date published: 2023-10-25T15:42:05.543829+00:00
- - user: None
- - tags: []
-
-## Last Week in AWS - AWS News Sprinkled With a Side of Snark
- - [https://www.lastweekinaws.com](https://www.lastweekinaws.com)
- - date published: 2023-10-25T15:42:09.402265+00:00
- - user: None
- - tags: []
-
-## The Last Word On Nothing | "Science says the first word on everything, and the last word on nothing"  - Victor Hugo
- - [https://www.lastwordonnothing.com](https://www.lastwordonnothing.com)
- - date published: 2023-10-25T15:42:16.452959+00:00
- - user: None
- - tags: []
-
-## Las Vegas Sun
- - [https://lasvegassun.com](https://lasvegassun.com)
- - date published: 2024-03-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings
- - [https://latentdictionary.com](https://latentdictionary.com)
- - date published: 2023-12-30T13:07:44+00:00
- - user: None
- - tags: []
-
-## L.A. Times Guild - Los Angeles Times Guild
- - [https://latguild.com](https://latguild.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## News from California, the nation and world  - Los Angeles Times
- - [https://www.latimes.com](https://www.latimes.com)
- - date published: 2023-10-25T15:42:35.013271+00:00
- - user: None
- - tags: ['news']
-
-## LATTE - Luxury Australian Travel Trade Enews - LATTE Luxury News
- - [https://latteluxurynews.com](https://latteluxurynews.com)
- - date published: 2023-12-23T19:47:36.835345+00:00
  - user: None
  - tags: []
 

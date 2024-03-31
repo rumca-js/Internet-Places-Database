@@ -1,3 +1,15 @@
+## Ottawa News | Local Breaking | CTV News Ottawa
+ - [https://ottawa.ctvnews.ca](https://ottawa.ctvnews.ca)
+ - date published: 2023-10-25T10:56:04.116973+00:00
+ - user: None
+ - tags: []
+
+## Regina News | Regina Weather | CTV News Regina
+ - [https://regina.ctvnews.ca](https://regina.ctvnews.ca)
+ - date published: 2023-12-12T08:42:43.297708+00:00
+ - user: None
+ - tags: []
+
 ## Saskatoon News | Local Breaking | CTV News Saskatoon
  - [https://saskatoon.ctvnews.ca](https://saskatoon.ctvnews.ca)
  - date published: 2023-12-12T08:41:36.159326+00:00
@@ -191,13 +203,13 @@
  - tags: []
 
 ## iter.ca
- - [https://iter.ca](https://iter.ca)
+ - [http://iter.ca](http://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## iter.ca
- - [http://iter.ca](http://iter.ca)
+ - [https://iter.ca](https://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -401,14 +413,14 @@
  - tags: []
 
 ## National Film Board of Canada
- - [https://www.nfb.ca](https://www.nfb.ca)
- - date published: 2023-10-25T12:06:29.183270+00:00
+ - [http://www.nfb.ca](http://www.nfb.ca)
+ - date published: 2024-02-26T12:35:45.332677+00:00
  - user: None
  - tags: []
 
 ## National Film Board of Canada
- - [http://www.nfb.ca](http://www.nfb.ca)
- - date published: 2024-02-26T12:35:45.332677+00:00
+ - [https://www.nfb.ca](https://www.nfb.ca)
+ - date published: 2023-10-25T12:06:29.183270+00:00
  - user: None
  - tags: []
 
@@ -3055,14 +3067,14 @@
  - tags: []
 
 ## Nabeel S. Qureshi
- - [http://nabeelqu.co](http://nabeelqu.co)
- - date published: 2024-02-26T09:20:32.283903+00:00
+ - [https://nabeelqu.co](https://nabeelqu.co)
+ - date published: 2024-01-20T19:20:52.169397+00:00
  - user: None
  - tags: []
 
 ## Nabeel S. Qureshi
- - [https://nabeelqu.co](https://nabeelqu.co)
- - date published: 2024-01-20T19:20:52.169397+00:00
+ - [http://nabeelqu.co](http://nabeelqu.co)
+ - date published: 2024-02-26T09:20:32.283903+00:00
  - user: None
  - tags: []
 
@@ -3319,16 +3331,16 @@
  - tags: []
 
 ## Home
- - [http://shubhamjain.co](http://shubhamjain.co)
- - date published: 2024-02-26T12:57:53.139033+00:00
- - user: None
- - tags: []
-
-## Home
  - [https://shubhamjain.co](https://shubhamjain.co)
  - date published: 2023-10-25T09:07:56.781772+00:00
  - user: None
  - tags: ['personal']
+
+## Home
+ - [http://shubhamjain.co](http://shubhamjain.co)
+ - date published: 2024-02-26T12:57:53.139033+00:00
+ - user: None
+ - tags: []
 
 ## SCIENTIA
  - [https://skientia.co](https://skientia.co)
@@ -4363,14 +4375,14 @@
  - tags: []
 
 ## Aardwolf MUD - Home Page
- - [https://www.aardwolf.com](https://www.aardwolf.com)
- - date published: 2024-03-27T20:48:48.782050+00:00
+ - [http://www.aardwolf.com](http://www.aardwolf.com)
+ - date published: 2024-03-27T20:46:27.237579+00:00
  - user: None
  - tags: ['mud game']
 
 ## Aardwolf MUD - Home Page
- - [http://www.aardwolf.com](http://www.aardwolf.com)
- - date published: 2024-03-27T20:46:27.237579+00:00
+ - [https://www.aardwolf.com](https://www.aardwolf.com)
+ - date published: 2024-03-27T20:48:48.782050+00:00
  - user: None
  - tags: ['mud game']
 
@@ -4470,15 +4482,15 @@
  - user: None
  - tags: ['personal']
 
-## Aaron Swartz
- - [http://www.aaronsw.com](http://www.aaronsw.com)
- - date published: 2009-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
 ## None
  - [https://www.aaronsw.com](https://www.aaronsw.com)
  - date published: 2024-01-09T01:38:10.984994+00:00
+ - user: None
+ - tags: []
+
+## Aaron Swartz
+ - [http://www.aaronsw.com](http://www.aaronsw.com)
+ - date published: 2009-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5306,6 +5318,12 @@
  - user: None
  - tags: []
 
+## Adult Swim
+ - [https://www.adultswim.com](https://www.adultswim.com)
+ - date published: 2024-03-30T18:42:07.849484+00:00
+ - user: None
+ - tags: []
+
 ## aduros.com
  - [https://aduros.com](https://aduros.com)
  - date published: 2023-10-25T12:33:57.524854+00:00
@@ -5981,24 +5999,6 @@
 ## Akita Software — the fastest and easiest way to understand your APIs.
  - [https://www.akitasoftware.com](https://www.akitasoftware.com)
  - date published: 2023-10-25T12:37:09.424295+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://akjournals.com](https://akjournals.com)
- - date published: 2024-03-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## Akshay's Blog
- - [https://www.akshaykhot.com](https://www.akshaykhot.com)
- - date published: 2023-10-25T12:37:10.359877+00:00
- - user: None
- - tags: []
-
-## Aksui
- - [https://aksui.com](https://aksui.com)
- - date published: 2000-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

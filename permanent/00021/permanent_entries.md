@@ -1,3 +1,177 @@
+## Global News - Breaking International News And Headlines | Inquirer.net
+ - [https://globalnation.inquirer.net](https://globalnation.inquirer.net)
+ - date published: 2023-11-15T04:42:15.760501+00:00
+ - user: None
+ - tags: []
+
+## Philippines Top Stories: Politics, Environment, Education, Trending | Inquirer.net
+ - [https://newsinfo.inquirer.net](https://newsinfo.inquirer.net)
+ - date published: 2023-10-25T20:31:56.026133+00:00
+ - user: None
+ - tags: []
+
+## Inquirer Technology | Philippine News for Filipinos
+ - [https://technology.inquirer.net](https://technology.inquirer.net)
+ - date published: 2023-10-25T20:31:58.708336+00:00
+ - user: None
+ - tags: []
+
+## Eleanor on Everything | Eleanor Berger | Substack
+ - [https://everything.intellectronica.net](https://everything.intellectronica.net)
+ - date published: 2023-10-25T20:32:05.438974+00:00
+ - user: None
+ - tags: []
+
+## https://www.inverary.net
+ - [https://www.inverary.net](https://www.inverary.net)
+ - date published: 2024-01-09T03:35:38.792207+00:00
+ - user: None
+ - tags: []
+
+## Welcome - IRCv3
+ - [https://ircv3.net](https://ircv3.net)
+ - date published: 2023-10-25T20:32:06.852691+00:00
+ - user: None
+ - tags: []
+
+## Irene Posch |
+ - [https://ireneposch.net](https://ireneposch.net)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Iron_Geek
+ - [https://irongeek.net](https://irongeek.net)
+ - date published: 2024-01-01T03:39:37.772704+00:00
+ - user: None
+ - tags: []
+
+## IronPython.net /
+ - [https://ironpython.net](https://ironpython.net)
+ - date published: 2023-11-27T11:35:31+00:00
+ - user: rumpel
+ - tags: []
+
+## None
+ - [https://blog.izissise.net](https://blog.izissise.net)
+ - date published: 2024-03-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Holy on Dev
+ - [https://blog.jakubholy.net](https://blog.jakubholy.net)
+ - date published: 2023-10-25T20:32:08.234661+00:00
+ - user: None
+ - tags: []
+
+## Links
+ - [https://jamesgarside.net](https://jamesgarside.net)
+ - date published: 2023-12-09T10:38:27.116119+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jami
+ - [https://jami.net](https://jami.net)
+ - date published: 2023-10-25T08:33:33.108947+00:00
+ - user: None
+ - tags: []
+
+## jasminek.net
+ - [https://jasminek.net](https://jasminek.net)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Jason Griffey
+ - [https://jasongriffey.net](https://jasongriffey.net)
+ - date published: 2024-03-05T13:54:25.556874+00:00
+ - user: None
+ - tags: []
+
+## 賴建順 Jason J. Lai
+ - [https://www.jasonjlai.net](https://www.jasonjlai.net)
+ - date published: 2024-01-12T10:32:27.978785+00:00
+ - user: None
+ - tags: []
+
+## Software Download | Oracle
+ - [https://download.java.net](https://download.java.net)
+ - date published: 2023-10-25T20:32:12.072850+00:00
+ - user: None
+ - tags: []
+
+## JDK Builds from Oracle
+ - [https://jdk.java.net](https://jdk.java.net)
+ - date published: 2023-10-25T20:32:13.251661+00:00
+ - user: None
+ - tags: []
+
+## Tim Zöller
+ - [https://javahippie.net](https://javahippie.net)
+ - date published: 2023-10-25T08:52:46.073444+00:00
+ - user: None
+ - tags: ['personal']
+
+## Bernard Vander Beken
+ - [https://jawn.net](https://jawn.net)
+ - date published: 2024-01-18T16:43:46.246446+00:00
+ - user: None
+ - tags: []
+
+## Blog - Jay Carlson
+ - [https://jaycarlson.net](https://jaycarlson.net)
+ - date published: 2023-10-25T08:52:49.258835+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jayeless.net
+ - [https://www.jayeless.net](https://www.jayeless.net)
+ - date published: 2024-02-02T18:14:39.989294+00:00
+ - user: None
+ - tags: []
+
+## Jean Snow [.net] – Blogging since 1998
+ - [https://www.jeansnow.net](https://www.jeansnow.net)
+ - date published: 1998-02-02T18:14:36+00:00
+ - user: rumpel
+ - tags: ['blog', 'personal']
+
+## JTube
+ - [https://tube.jeena.net](https://tube.jeena.net)
+ - date published: 2023-12-05T14:09:28.323742+00:00
+ - user: None
+ - tags: []
+
+## 网络加速—雷神加速器
+ - [https://jeffalbritton.net](https://jeffalbritton.net)
+ - date published: 2023-11-29T17:06:43.572558+00:00
+ - user: None
+ - tags: []
+
+## Jeff Wise – science journalism
+ - [http://www.jeffwise.net](http://www.jeffwise.net)
+ - date published: 2024-02-25T18:50:47.946888+00:00
+ - user: None
+ - tags: []
+
+## Jeff Wise – science journalism
+ - [https://www.jeffwise.net](https://www.jeffwise.net)
+ - date published: 2024-01-11T04:04:31.223583+00:00
+ - user: None
+ - tags: []
+
+## Homepage of Jose E. Marchesi
+ - [https://jemarch.net](https://jemarch.net)
+ - date published: 2023-10-25T09:00:36.096519+00:00
+ - user: None
+ - tags: ['personal']
+
+## John Floren
+ - [https://jfloren.net](https://jfloren.net)
+ - date published: 2023-10-25T08:52:50.325125+00:00
+ - user: None
+ - tags: ['personal']
+
 ## jgoin
  - [https://jgoin.net](https://jgoin.net)
  - date published: 2024-01-14T17:11:21.730907+00:00
@@ -256,15 +430,15 @@
  - user: None
  - tags: ['personal']
 
-## None
- - [http://knowledgebottle.net](http://knowledgebottle.net)
- - date published: 2024-02-29T12:14:03.250410+00:00
- - user: None
- - tags: []
-
 ## http://knowledgebottle.net
  - [https://knowledgebottle.net](https://knowledgebottle.net)
  - date published: 2024-01-27T06:34:46.775964+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://knowledgebottle.net](http://knowledgebottle.net)
+ - date published: 2024-02-29T12:14:03.250410+00:00
  - user: None
  - tags: []
 
@@ -462,14 +636,14 @@
  - tags: []
 
 ## linusakesson.net
- - [http://www.linusakesson.net](http://www.linusakesson.net)
- - date published: 2024-02-26T15:13:06.998772+00:00
+ - [https://www.linusakesson.net](https://www.linusakesson.net)
+ - date published: 2023-10-25T20:33:01.198358+00:00
  - user: None
  - tags: []
 
 ## linusakesson.net
- - [https://www.linusakesson.net](https://www.linusakesson.net)
- - date published: 2023-10-25T20:33:01.198358+00:00
+ - [http://www.linusakesson.net](http://www.linusakesson.net)
+ - date published: 2024-02-26T15:13:06.998772+00:00
  - user: None
  - tags: []
 
@@ -498,16 +672,16 @@
  - tags: ['demoscene']
 
 ## Liquipedia
- - [http://liquipedia.net](http://liquipedia.net)
- - date published: 2024-03-04T03:54:24.553156+00:00
- - user: None
- - tags: ['esport']
-
-## Liquipedia
  - [https://liquipedia.net](https://liquipedia.net)
  - date published: 2023-10-25T11:48:20.723694+00:00
  - user: None
  - tags: []
+
+## Liquipedia
+ - [http://liquipedia.net](http://liquipedia.net)
+ - date published: 2024-03-04T03:54:24.553156+00:00
+ - user: None
+ - tags: ['esport']
 
 ## KeepCoding | KeepCoding
  - [https://en.liujiacai.net](https://en.liujiacai.net)
@@ -1861,14 +2035,14 @@
  - tags: []
 
 ## play.net >> Where adventure finds you.
- - [http://www.play.net](http://www.play.net)
- - date published: 2024-03-27T20:46:31.499024+00:00
+ - [https://www.play.net](https://www.play.net)
+ - date published: 2024-03-27T20:52:27.939000+00:00
  - user: None
  - tags: ['mud game']
 
 ## play.net >> Where adventure finds you.
- - [https://www.play.net](https://www.play.net)
- - date published: 2024-03-27T20:52:27.939000+00:00
+ - [http://www.play.net](http://www.play.net)
+ - date published: 2024-03-27T20:46:31.499024+00:00
  - user: None
  - tags: ['mud game']
 
@@ -2586,6 +2760,12 @@
  - user: None
  - tags: ['personal']
 
+## tools
+ - [https://tools.simonwillison.net](https://tools.simonwillison.net)
+ - date published: 2024-03-30T20:59:32.558643+00:00
+ - user: None
+ - tags: []
+
 ## Simson Garfinkel
  - [https://simson.net](https://simson.net)
  - date published: 2023-10-25T08:54:01.938085+00:00
@@ -2628,6 +2808,12 @@
  - user: None
  - tags: []
 
+## smunshi
+ - [https://smunshi.net](https://smunshi.net)
+ - date published: 2024-03-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Snack Stack | Doug Mack / Snack Stack | Substack
  - [https://www.snackstack.net](https://www.snackstack.net)
  - date published: 2023-10-25T20:37:39.514628+00:00
@@ -2653,16 +2839,16 @@
  - tags: []
 
 ## Matthias Monroy
- - [http://digit.so36.net](http://digit.so36.net)
- - date published: 2024-02-25T19:37:06.416405+00:00
- - user: None
- - tags: []
-
-## Matthias Monroy
  - [https://digit.so36.net](https://digit.so36.net)
  - date published: 2023-10-25T08:54:06.996729+00:00
  - user: None
  - tags: ['personal']
+
+## Matthias Monroy
+ - [http://digit.so36.net](http://digit.so36.net)
+ - date published: 2024-02-25T19:37:06.416405+00:00
+ - user: None
+ - tags: []
 
 ## SoByte
  - [https://www.sobyte.net](https://www.sobyte.net)
@@ -3133,16 +3319,16 @@
  - tags: []
 
 ## Eli Bendersky's website
- - [http://eli.thegreenplace.net](http://eli.thegreenplace.net)
- - date published: 2024-03-24T15:02:50.783691+00:00
- - user: None
- - tags: ['personal']
-
-## Eli Bendersky's website
  - [https://eli.thegreenplace.net](https://eli.thegreenplace.net)
  - date published: 2023-10-25T20:38:36.946214+00:00
  - user: None
  - tags: []
+
+## Eli Bendersky's website
+ - [http://eli.thegreenplace.net](http://eli.thegreenplace.net)
+ - date published: 2024-03-24T15:02:50.783691+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Ohio County, Marshall County Middle School Robotics Teams Qualify For VEX World Championships
  - [https://www.theintelligencer.net](https://www.theintelligencer.net)
@@ -3161,6 +3347,12 @@
  - date published: 2023-10-25T20:38:37.474424+00:00
  - user: None
  - tags: []
+
+## The Nicest Place
+ - [https://thenicestplace.net](https://thenicestplace.net)
+ - date published: 2024-03-30T21:01:04+00:00
+ - user: rumpel
+ - tags: ['funny', 'interesting']
 
 ## The Observational
  - [https://www.theobservational.net](https://www.theobservational.net)
@@ -3366,15 +3558,15 @@
  - user: rumpel
  - tags: ['file send']
 
-## Transputer.net
- - [https://transputer.net](https://transputer.net)
- - date published: 2024-01-07T14:41:29+00:00
- - user: None
- - tags: []
-
 ## Welcome to transputer.net
  - [http://transputer.net](http://transputer.net)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Transputer.net
+ - [https://transputer.net](https://transputer.net)
+ - date published: 2024-01-07T14:41:29+00:00
  - user: None
  - tags: []
 
@@ -4338,6 +4530,12 @@
  - user: None
  - tags: []
 
+## Runtime
+ - [https://www.runtime.news](https://www.runtime.news)
+ - date published: 2024-03-30T05:22:15.398938+00:00
+ - user: None
+ - tags: []
+
 ## Sci.News: Breaking Science News
  - [https://www.sci.news](https://www.sci.news)
  - date published: 2023-10-25T10:11:45.286879+00:00
@@ -4657,16 +4855,16 @@
  - tags: []
 
 ## Chris Eidhof
- - [http://chris.eidhof.nl](http://chris.eidhof.nl)
- - date published: 2024-02-25T15:44:49.625453+00:00
- - user: None
- - tags: []
-
-## Chris Eidhof
  - [https://chris.eidhof.nl](https://chris.eidhof.nl)
  - date published: 2023-10-25T08:54:21.499298+00:00
  - user: None
  - tags: ['personal']
+
+## Chris Eidhof
+ - [http://chris.eidhof.nl](http://chris.eidhof.nl)
+ - date published: 2024-02-25T15:44:49.625453+00:00
+ - user: None
+ - tags: []
 
 ## Besluiten waarmee je groeit in impact op mens en omgeving
  - [https://ernohannink.nl](https://ernohannink.nl)
@@ -5800,204 +5998,6 @@ marginalia.nu
 ## Flipper Zero Shop
  - [https://shop.flipperzero.one](https://shop.flipperzero.one)
  - date published: 2024-02-21T06:33:11.339651+00:00
- - user: None
- - tags: []
-
-## Installati.one
- - [https://installati.one](https://installati.one)
- - date published: 2023-11-19T12:07:10+00:00
- - user: rumpel
- - tags: ['tutorial', 'guide']
-
-## Market Map
- - [https://marketmap.one](https://marketmap.one)
- - date published: 2023-10-25T20:52:00.513890+00:00
- - user: None
- - tags: []
-
-## Best websites design inspiration feed • MaxiBestOf
- - [https://maxibestof.one](https://maxibestof.one)
- - date published: 2023-10-25T20:52:03.198688+00:00
- - user: None
- - tags: []
-
-## https://www.octobrain.one
- - [https://www.octobrain.one](https://www.octobrain.one)
- - date published: 2024-01-09T03:38:03.153362+00:00
- - user: None
- - tags: []
-
-## Playtron
- - [https://www.playtron.one](https://www.playtron.one)
- - date published: 2024-03-18T00:00:00+00:00
- - user: rumpel
- - tags: ['operating system']
-
-## plei.one - Blog
- - [https://plei.one](https://plei.one)
- - date published: 2023-10-25T20:52:06.193322+00:00
- - user: None
- - tags: []
-
-## Taylor Robinson
- - [https://robins.one](https://robins.one)
- - date published: 2023-10-25T08:54:27.100131+00:00
- - user: None
- - tags: ['personal']
-
-## South One News, News From South India, Analysis of South India
- - [https://south.one](https://south.one)
- - date published: 2023-12-06T16:23:04.756025+00:00
- - user: None
- - tags: []
-
-## The Pulse | Substack
- - [https://thepulse.one](https://thepulse.one)
- - date published: 2023-10-25T20:52:09.853895+00:00
- - user: None
- - tags: []
-
-## WordPress-Seite – Just another WordPress site
- - [http://proxy.vulpes.one](http://proxy.vulpes.one)
- - date published: 2023-10-25T20:52:12.936578+00:00
- - user: None
- - tags: []
-
-## Obl.ong
- - [https://obl.ong](https://obl.ong)
- - date published: 2023-10-25T20:52:14.964448+00:00
- - user: None
- - tags: []
-
-## Andrew Marble
- - [https://marble.onl](https://marble.onl)
- - date published: 2024-01-09T01:37:39.440161+00:00
- - user: None
- - tags: []
-
-## Adam Nelson
- - [https://adam.nels.onl](https://adam.nels.onl)
- - date published: 2024-02-14T11:11:41.408469+00:00
- - user: None
- - tags: ['personal']
-
-## Rik Lewis
- - [https://www.rik.onl](https://www.rik.onl)
- - date published: 2023-12-03T23:31:31.330248+00:00
- - user: None
- - tags: ['personal']
-
-## Rebecca Owen
- - [https://beccais.online](https://beccais.online)
- - date published: 2023-12-25T17:17:34.309163+00:00
- - user: None
- - tags: ['personal']
-
-## Commonplace
- - [https://commonplace.online](https://commonplace.online)
- - date published: 2023-10-28T19:11:46.865259+00:00
- - user: None
- - tags: []
-
-## In Solidarity with Library Genesis and Sci-hub
- - [https://custodians.online](https://custodians.online)
- - date published: 2023-10-25T20:52:16.578477+00:00
- - user: None
- - tags: []
-
-## Data Engineering Design Patterns (DEDP)
- - [https://www.dedp.online](https://www.dedp.online)
- - date published: 2023-12-07T15:51:49+00:00
- - user: None
- - tags: []
-
-## Easylang
- - [https://easylang.online](https://easylang.online)
- - date published: 2023-10-25T20:52:17.584984+00:00
- - user: None
- - tags: []
-
-## LOF home
- - [https://lof.flounder.online](https://lof.flounder.online)
- - date published: 2023-10-25T20:52:19.126166+00:00
- - user: None
- - tags: []
-
-## GPTGirlfriend - Epic NSFW AI Chatbots with No Filter
- - [https://www.gptgirlfriend.online](https://www.gptgirlfriend.online)
- - date published: 2024-03-13T11:47:46+00:00
- - user: rumpel
- - tags: ['chatbot', 'nsfw']
-
-## Fabian's public notepad
- - [https://holzer.online](https://holzer.online)
- - date published: 2023-12-16T07:29:03.990666+00:00
- - user: None
- - tags: ['personal']
-
-## Kylie Czajkowski · software engineer, speaker, creator
- - [https://kylieis.online](https://kylieis.online)
- - date published: 2023-12-23T07:29:53.816003+00:00
- - user: None
- - tags: ['personal']
-
-## Mastodon
- - [https://mastodon.online](https://mastodon.online)
- - date published: 2023-10-24T20:13:29.617793+00:00
- - user: None
- - tags: ['mastodon']
-
-## sunfishcode's blog · A blog by sunfishcode
- - [https://blog.sunfishcode.online](https://blog.sunfishcode.online)
- - date published: 2023-10-25T20:52:20.694186+00:00
- - user: None
- - tags: []
-
-## Welcome to Suricrasia Online!
- - [https://suricrasia.online](https://suricrasia.online)
- - date published: 2023-10-25T20:52:21.735662+00:00
- - user: None
- - tags: []
-
-## Words and buttons online
- - [https://wordsandbuttons.online](https://wordsandbuttons.online)
- - date published: 2023-10-25T09:27:52.515926+00:00
- - user: None
- - tags: []
-
-## Zachwyceni.online - Sklep Fundacji inCanto
- - [https://zachwyceni.online](https://zachwyceni.online)
- - date published: 2023-12-04T17:44:21+00:00
- - user: None
- - tags: ['catholic merch', 'shop']
-
-## Tommy Acierno | Personal Site
- - [https://aciern.ooo](https://aciern.ooo)
- - date published: 2023-12-24T02:30:43.754056+00:00
- - user: None
- - tags: ['personal']
-
-## rebeccaÂ®
- - [https://becca.ooo](https://becca.ooo)
- - date published: 2024-02-21T07:38:24.158690+00:00
- - user: None
- - tags: []
-
-## Memo Garcia
- - [https://memooo.ooo](https://memooo.ooo)
- - date published: 2023-10-25T20:52:23.026355+00:00
- - user: None
- - tags: []
-
-## soso
- - [https://soso.ooo](https://soso.ooo)
- - date published: 2023-10-25T20:52:25.205752+00:00
- - user: None
- - tags: []
-
-## ZeroVer: 0-based Versioning — zer0ver
- - [https://0ver.org](https://0ver.org)
- - date published: 2023-10-25T20:52:28.963764+00:00
  - user: None
  - tags: []
 

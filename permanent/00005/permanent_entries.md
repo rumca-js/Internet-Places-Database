@@ -1,3 +1,51 @@
+## Dustin Main's A Skinny Escape
+ - [https://dustinmain.com](https://dustinmain.com)
+ - date published: 2023-11-16T20:40:58.860267+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kapil Dutta - Blog
+ - [https://duttakapil.com](https://duttakapil.com)
+ - date published: 2023-11-18T19:08:01.389864+00:00
+ - user: None
+ - tags: ['personal']
+
+## Duvar English
+ - [https://www.duvarenglish.com](https://www.duvarenglish.com)
+ - date published: 2023-10-25T14:00:07.518414+00:00
+ - user: None
+ - tags: []
+
+## https://dvpolymedia.com
+ - [https://dvpolymedia.com](https://dvpolymedia.com)
+ - date published: 2024-01-12T08:14:24.224060+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://amp.dw.com](https://amp.dw.com)
+ - date published: 2011-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://p.dw.com
+ - [https://p.dw.com](https://p.dw.com)
+ - date published: 2023-11-04T11:47:38.546816+00:00
+ - user: None
+ - tags: []
+
+## Deutsche Welle
+ - [https://www.dw.com](https://www.dw.com)
+ - date published: 2023-10-25T10:26:00+00:00
+ - user: rumpel
+ - tags: ['german news']
+
+## Dwarkesh Podcast | Dwarkesh Patel | Substack
+ - [https://www.dwarkeshpatel.com](https://www.dwarkeshpatel.com)
+ - date published: 2023-12-16T13:36:19.590447+00:00
+ - user: None
+ - tags: []
+
 ## Dwell House – Design Delivered to Your Backyard
  - [https://house.dwell.com](https://house.dwell.com)
  - date published: 2023-10-25T14:00:08.441249+00:00
@@ -80,7 +128,7 @@
  - [https://www.dzombak.com](https://www.dzombak.com)
  - date published: 2024-02-07T00:23:49.689983+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Electronic Arts Home Page - Official EA Site
  - [https://www.ea.com](https://www.ea.com)
@@ -2603,14 +2651,14 @@
  - tags: []
 
 ## Log in or sign up to view
- - [https://facebook.com](https://facebook.com)
- - date published: 2023-12-11T16:53:43.180916+00:00
+ - [http://facebook.com](http://facebook.com)
+ - date published: 2024-02-24T09:56:45.941514+00:00
  - user: None
  - tags: []
 
 ## Log in or sign up to view
- - [http://facebook.com](http://facebook.com)
- - date published: 2024-02-24T09:56:45.941514+00:00
+ - [https://facebook.com](https://facebook.com)
+ - date published: 2023-12-11T16:53:43.180916+00:00
  - user: None
  - tags: []
 
@@ -5949,52 +5997,4 @@
  - date published: 2023-10-25T14:42:16.982105+00:00
  - user: None
  - tags: []
-
-## GB64.COM - C64 Games, Database, Music, Emulation, Frontends, Reviews and Articles
- - [https://www.gb64.com](https://www.gb64.com)
- - date published: 2023-12-13T15:11:42.180503+00:00
- - user: None
- - tags: ['commodore', 'emulation', 'rom']
-
-## GBurghoorn
- - [https://gburghoorn.com](https://gburghoorn.com)
- - date published: 2023-10-25T08:45:50.786825+00:00
- - user: None
- - tags: ['personal']
-
-## gCaptain – Maritime News
- - [https://gcaptain.com](https://gcaptain.com)
- - date published: 2023-10-25T14:42:22.481020+00:00
- - user: None
- - tags: []
-
-## Guillaume Chereau Website
- - [https://gcher.com](https://gcher.com)
- - date published: 2023-12-27T08:25:10.860837+00:00
- - user: None
- - tags: []
-
-## Historic Stock Lookup | Microsoft Corporation
- - [https://microsoft.gcs-web.com](https://microsoft.gcs-web.com)
- - date published: 2023-10-25T14:42:23.906807+00:00
- - user: None
- - tags: []
-
-## Pages (iframe) | Qualtrics
- - [https://qualtrics.gcs-web.com](https://qualtrics.gcs-web.com)
- - date published: 2023-10-25T14:42:24.720200+00:00
- - user: None
- - tags: []
-
-## GDScript – Custom scripting language to be used with the Godot game engine
- - [https://gdscript.com](https://gdscript.com)
- - date published: 2023-12-30T03:36:27+00:00
- - user: None
- - tags: []
-
-## The Next Generation and Future of GE | General Electric
- - [https://www.ge.com](https://www.ge.com)
- - date published: 2023-11-08T11:28:22.739493+00:00
- - user: None
- - tags: ['corporation', 'avionics']
 

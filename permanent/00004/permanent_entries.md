@@ -1,3 +1,46 @@
+## Blog · Codeanywhere
+ - [https://blog.codeanywhere.com](https://blog.codeanywhere.com)
+ - date published: 2023-10-25T13:27:59.137947+00:00
+ - user: None
+ - tags: []
+
+## Blog · Codeanywhere
+ - [http://blog.codeanywhere.com](http://blog.codeanywhere.com)
+ - date published: 2024-01-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CodeBreakthrough
+ - [https://www.codebreakthrough.com](https://www.codebreakthrough.com)
+ - date published: 2024-02-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Learn to Code - for Free | Codecademy
+ - [https://www.codecademy.com](https://www.codecademy.com)
+ - date published: 2023-12-11T12:20:56+00:00
+ - user: rumpel
+ - tags: ['tutorials', 'courses']
+
+## Code Code Ship
+     · Code Code Ship
+ - [https://codecodeship.com](https://codecodeship.com)
+ - date published: 2023-10-25T13:28:01.849017+00:00
+ - user: None
+ - tags: []
+
+## Learn To Code For Free — Interactive Courses And Practice Problems
+ - [https://codedamn.com](https://codedamn.com)
+ - date published: 2023-10-25T13:28:03.885487+00:00
+ - user: None
+ - tags: []
+
+## Code Deep Dives
+ - [https://codedeepdives.com](https://codedeepdives.com)
+ - date published: 2024-03-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Codeforces
  - [https://codeforces.com](https://codeforces.com)
  - date published: 2023-10-25T13:28:14.373320+00:00
@@ -1798,15 +1841,15 @@
  - user: None
  - tags: []
 
-## Site-Speed Optimisation – Harry Roberts – Web Performance Consultant
- - [https://csswizardry.com](https://csswizardry.com)
- - date published: 2023-10-25T13:38:54.755341+00:00
- - user: None
- - tags: []
-
 ## Site-Speed Optimisation – CSS Wizardry
  - [http://csswizardry.com](http://csswizardry.com)
  - date published: 2024-03-24T15:02:26.014906+00:00
+ - user: None
+ - tags: []
+
+## Site-Speed Optimisation – Harry Roberts – Web Performance Consultant
+ - [https://csswizardry.com](https://csswizardry.com)
+ - date published: 2023-10-25T13:38:54.755341+00:00
  - user: None
  - tags: []
 
@@ -2744,6 +2787,12 @@
 ## Dans Blog
  - [https://www.dantleech.com](https://www.dantleech.com)
  - date published: 2024-02-19T11:41:38.034298+00:00
+ - user: None
+ - tags: []
+
+## Danver Braganza
+ - [https://danverbraganza.com](https://danverbraganza.com)
+ - date published: 2014-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3810,14 +3859,14 @@
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [http://democratherald.com](http://democratherald.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://democratherald.com](https://democratherald.com)
+ - date published: 2023-11-04T05:50:19.542658+00:00
  - user: None
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [https://democratherald.com](https://democratherald.com)
- - date published: 2023-11-04T05:50:19.542658+00:00
+ - [http://democratherald.com](http://democratherald.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5949,54 +5998,6 @@
 ## Website Impersonating a Desktop Environment
  - [https://dustinbrett.com](https://dustinbrett.com)
  - date published: 2024-01-01T06:48:45+00:00
- - user: None
- - tags: []
-
-## Dustin Main's A Skinny Escape
- - [https://dustinmain.com](https://dustinmain.com)
- - date published: 2023-11-16T20:40:58.860267+00:00
- - user: None
- - tags: ['personal']
-
-## Kapil Dutta - Blog
- - [https://duttakapil.com](https://duttakapil.com)
- - date published: 2023-11-18T19:08:01.389864+00:00
- - user: None
- - tags: ['personal']
-
-## Duvar English
- - [https://www.duvarenglish.com](https://www.duvarenglish.com)
- - date published: 2023-10-25T14:00:07.518414+00:00
- - user: None
- - tags: []
-
-## https://dvpolymedia.com
- - [https://dvpolymedia.com](https://dvpolymedia.com)
- - date published: 2024-01-12T08:14:24.224060+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://amp.dw.com](https://amp.dw.com)
- - date published: 2011-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://p.dw.com
- - [https://p.dw.com](https://p.dw.com)
- - date published: 2023-11-04T11:47:38.546816+00:00
- - user: None
- - tags: []
-
-## Deutsche Welle
- - [https://www.dw.com](https://www.dw.com)
- - date published: 2023-10-25T10:26:00+00:00
- - user: rumpel
- - tags: ['german news']
-
-## Dwarkesh Podcast | Dwarkesh Patel | Substack
- - [https://www.dwarkeshpatel.com](https://www.dwarkeshpatel.com)
- - date published: 2023-12-16T13:36:19.590447+00:00
  - user: None
  - tags: []
 
