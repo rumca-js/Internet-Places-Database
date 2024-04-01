@@ -1,3 +1,9 @@
+## マリウス
+ - [https://xn--gckvb8fzb.com.](https://xn--gckvb8fzb.com.)
+ - date published: 2024-08-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Kern Type
  - [https://type.method.ac](https://type.method.ac)
  - date published: 2023-10-25T08:31:02.163535+00:00
@@ -2914,6 +2920,12 @@
  - user: None
  - tags: []
 
+## Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai
+ - [https://ragdoll-studio.vercel.app](https://ragdoll-studio.vercel.app)
+ - date published: 2024-03-31T05:43:15+00:00
+ - user: None
+ - tags: []
+
 ## Remix Page Blocks
  - [https://remix-page-blocks.vercel.app](https://remix-page-blocks.vercel.app)
  - date published: 2023-10-25T11:50:47.486938+00:00
@@ -4534,6 +4546,12 @@
  - user: None
  - tags: ['personal']
 
+## وكالة أنباء البحرين
+ - [https://www.bna.bh](https://www.bna.bh)
+ - date published: 2024-03-31T17:32:37.633478+00:00
+ - user: None
+ - tags: []
+
 ## Actionable Analytics for Growth teams | Narrative BI
  - [https://www.narrative.bi](https://www.narrative.bi)
  - date published: 2023-10-25T11:59:36.984588+00:00
@@ -5978,24 +5996,6 @@
 ## Kitchener News | Local Breaking | CTV News Kitchener
  - [https://kitchener.ctvnews.ca](https://kitchener.ctvnews.ca)
  - date published: 2023-12-12T09:06:38.784881+00:00
- - user: None
- - tags: []
-
-## London News | Weather & Local Breaking | CTV News London
- - [https://london.ctvnews.ca](https://london.ctvnews.ca)
- - date published: 2023-10-25T10:52:18.091793+00:00
- - user: None
- - tags: []
-
-## Montreal News | Local Breaking | CTV News Montreal
- - [https://montreal.ctvnews.ca](https://montreal.ctvnews.ca)
- - date published: 2023-11-09T19:00:28.953347+00:00
- - user: None
- - tags: []
-
-## Northern Ontario News | Local Breaking | CTV News Northern Ontario
- - [https://northernontario.ctvnews.ca](https://northernontario.ctvnews.ca)
- - date published: 2023-12-12T08:40:48.811443+00:00
  - user: None
  - tags: []
 

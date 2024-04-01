@@ -1,3 +1,51 @@
+## Lares Labs
+ - [https://labs.lares.com](https://labs.lares.com)
+ - date published: 2024-02-11T14:35:07.711728+00:00
+ - user: None
+ - tags: ['tech news']
+
+## Homepage - Larian Studios
+ - [https://larian.com](https://larian.com)
+ - date published: 2023-11-04T19:14:56.784693+00:00
+ - user: None
+ - tags: ['dungeons and dragons', 'video game developer', 'baldurs gate']
+
+## Lariat Data
+ - [https://www.lariatdata.com](https://www.lariatdata.com)
+ - date published: 2023-10-25T15:41:19.402858+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://larouchepub.com](https://larouchepub.com)
+ - date published: 2024-03-18T22:26:27.124063+00:00
+ - user: None
+ - tags: []
+
+## Larry Jordan | Apple Final Cut Pro and Adobe Premiere Pro webinars, training and tutorials.
+ - [https://larryjordan.com](https://larryjordan.com)
+ - date published: 2023-10-25T15:41:23.332035+00:00
+ - user: None
+ - tags: []
+
+## LarrysWorld.com – Larry Magid's blog on tech reviews, news and policies
+ - [https://www.larrysworld.com](https://www.larrysworld.com)
+ - date published: 2024-02-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Lars-Christian.com – Thoughts on things.
+ - [https://lars-christian.com](https://lars-christian.com)
+ - date published: 2024-02-26T22:52:50.944506+00:00
+ - user: None
+ - tags: ['personal', 'blog']
+
+## Lars Müller Publishers
+ - [https://www.lars-mueller-publishers.com](https://www.lars-mueller-publishers.com)
+ - date published: 2024-02-15T22:32:25.253771+00:00
+ - user: None
+ - tags: []
+
 ## Lasse Laursen – Lasse Laursen's project portfolio and development blog.
  - [https://www.lasselaursen.com](https://www.lasselaursen.com)
  - date published: 2023-10-25T15:41:32.904514+00:00
@@ -1553,6 +1601,12 @@ Chamber Music, Symphony
  - user: None
  - tags: []
 
+## Paul E. McKenney&#39;s Journal
+ - [https://paulmck.livejournal.com](https://paulmck.livejournal.com)
+ - date published: 2024-03-31T11:52:34.080696+00:00
+ - user: None
+ - tags: []
+
 ## Ретрофутуризм. Retrofuturism — LiveJournal
  - [https://retro-futurism.livejournal.com](https://retro-futurism.livejournal.com)
  - date published: 2023-10-25T15:48:51.580966+00:00
@@ -2183,17 +2237,17 @@ Chamber Music, Symphony
  - user: None
  - tags: []
 
-## Linus Tech Tips Store
- - [https://www.lttstore.com](https://www.lttstore.com)
- - date published: 2023-12-21T17:45:27+00:00
- - user: rumpel
- - tags: ['merchendise', 'tech']
-
 ## LTTStore
  - [http://www.lttstore.com](http://www.lttstore.com)
  - date published: 2024-02-03T00:00:00+00:00
  - user: None
  - tags: []
+
+## Linus Tech Tips Store
+ - [https://www.lttstore.com](https://www.lttstore.com)
+ - date published: 2023-12-21T17:45:27+00:00
+ - user: rumpel
+ - tags: ['merchendise', 'tech']
 
 ## Whale LAN
  - [https://www.ltxexpo.com](https://www.ltxexpo.com)
@@ -2677,16 +2731,16 @@ diversions.
  - tags: ['cms']
 
 ## Maggie Appleton
- - [https://maggieappleton.com](https://maggieappleton.com)
- - date published: 2023-10-25T08:47:09.508828+00:00
- - user: None
- - tags: ['personal']
-
-## Maggie Appleton
  - [http://maggieappleton.com](http://maggieappleton.com)
  - date published: 2024-02-26T08:55:27.731076+00:00
  - user: None
  - tags: []
+
+## Maggie Appleton
+ - [https://maggieappleton.com](https://maggieappleton.com)
+ - date published: 2023-10-25T08:47:09.508828+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Magic Earth - Free Navigation & Maps App for Android and iPhone
  - [https://www.magicearth.com](https://www.magicearth.com)
@@ -3608,14 +3662,14 @@ diversions.
  - tags: ['disney', 'iron man', 'movie studio', 'captain america']
 
 ## vi360 photography/video/digital imaging
- - [https://www.marxdesign.com](https://www.marxdesign.com)
- - date published: 2023-12-22T00:41:17.350208+00:00
+ - [http://www.marxdesign.com](http://www.marxdesign.com)
+ - date published: 2023-12-22T21:24:02.738903+00:00
  - user: None
  - tags: []
 
 ## vi360 photography/video/digital imaging
- - [http://www.marxdesign.com](http://www.marxdesign.com)
- - date published: 2023-12-22T21:24:02.738903+00:00
+ - [https://www.marxdesign.com](https://www.marxdesign.com)
+ - date published: 2023-12-22T00:41:17.350208+00:00
  - user: None
  - tags: []
 
@@ -5071,6 +5125,12 @@ diversions.
  - user: None
  - tags: []
 
+## Lucky225 – Medium
+ - [https://lucky225.medium.com](https://lucky225.medium.com)
+ - date published: 2024-03-31T18:42:42.159636+00:00
+ - user: None
+ - tags: []
+
 ## Devansh – Medium
  - [https://machine-learning-made-simple.medium.com](https://machine-learning-made-simple.medium.com)
  - date published: 2023-12-22T01:02:31.995578+00:00
@@ -5938,66 +5998,6 @@ diversions.
 ## META PCs | Custom Gaming Desktop & Laptop Computers
  - [https://www.metapcs.com](https://www.metapcs.com)
  - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## In the Cells of the Eggplant | Meta-rationality
- - [https://metarationality.com](https://metarationality.com)
- - date published: 2023-12-25T03:43:59.974297+00:00
- - user: None
- - tags: []
-
-## Metaroids The Singularity is coming
- - [https://metaroids.com](https://metaroids.com)
- - date published: 2023-10-25T16:02:02.144840+00:00
- - user: None
- - tags: []
-
-## Status and outages of Meta business products
- - [https://metastatus.com](https://metastatus.com)
- - date published: 2023-10-25T16:02:02.544702+00:00
- - user: None
- - tags: []
-
-## Metazooa
- - [https://metazooa.com](https://metazooa.com)
- - date published: 2023-10-25T16:02:03.276826+00:00
- - user: None
- - tags: []
-
-## Mete Balci
- - [https://metebalci.com](https://metebalci.com)
- - date published: 2023-12-04T15:32:44.461644+00:00
- - user: None
- - tags: []
-
-## Meteosource - The Global Weather API & Mapping Platform - current weather and forecast data
- - [https://www.meteosource.com](https://www.meteosource.com)
- - date published: 2023-10-25T16:02:04.837084+00:00
- - user: None
- - tags: []
-
-## Meter: Routing, Switching, Wireless, Applications
- - [https://www.meter.com](https://www.meter.com)
- - date published: 2023-10-25T16:02:08.107802+00:00
- - user: None
- - tags: []
-
-## Methodus 2000
- - [https://www.methodus2000.com](https://www.methodus2000.com)
- - date published: 2023-10-25T16:02:08.577916+00:00
- - user: None
- - tags: []
-
-## An Event-Driven Google Analytics Alternative - MetricsWave
- - [https://metricswave.com](https://metricswave.com)
- - date published: 2023-10-25T16:02:11.597096+00:00
- - user: None
- - tags: []
-
-## Welcome to Metric-time.com
- - [https://metric-time.com](https://metric-time.com)
- - date published: 2023-10-25T16:02:10.118873+00:00
  - user: None
  - tags: []
 

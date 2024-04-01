@@ -1,3 +1,93 @@
+## Big Dan the Blogging Man
+ - [https://bigdanzblog.wordpress.com](https://bigdanzblog.wordpress.com)
+ - date published: 2023-10-25T18:09:29.075936+00:00
+ - user: None
+ - tags: []
+
+## Binary Debt – Systems programming, computer architecture & algorithms
+ - [https://binarydebt.wordpress.com](https://binarydebt.wordpress.com)
+ - date published: 2023-10-25T18:09:32.894806+00:00
+ - user: None
+ - tags: []
+
+## Brick Experiment Channel
+ - [https://brickexperimentchannel.wordpress.com](https://brickexperimentchannel.wordpress.com)
+ - date published: 2023-10-25T18:09:40.411395+00:00
+ - user: None
+ - tags: ['personal', 'lego']
+
+## Round the Island
+ - [https://britishcoast.wordpress.com](https://britishcoast.wordpress.com)
+ - date published: 2024-01-09T02:54:38.115044+00:00
+ - user: None
+ - tags: []
+
+## (no title)
+ - [https://brucemhood.wordpress.com](https://brucemhood.wordpress.com)
+ - date published: 2024-02-08T17:48:46.120413+00:00
+ - user: None
+ - tags: []
+
+## Juan Silva
+ - [https://bufalojuan.wordpress.com](https://bufalojuan.wordpress.com)
+ - date published: 2023-11-29T17:13:49.970436+00:00
+ - user: None
+ - tags: ['personal']
+
+## blog :: Brent -> [String]
+ - [https://byorgey.wordpress.com](https://byorgey.wordpress.com)
+ - date published: 2023-10-25T18:09:52.299601+00:00
+ - user: None
+ - tags: []
+
+## Commodore 64
+ - [https://c64blog.wordpress.com](https://c64blog.wordpress.com)
+ - date published: 2023-12-11T16:34:07.156127+00:00
+ - user: None
+ - tags: []
+
+## Arrivals and Departures
+ - [https://cantalouqe.wordpress.com](https://cantalouqe.wordpress.com)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cape Cod Test Kitchen
+ - [https://capecodtestkitchen.wordpress.com](https://capecodtestkitchen.wordpress.com)
+ - date published: 2023-11-29T14:21:14.967486+00:00
+ - user: None
+ - tags: ['personal']
+
+## Casey Handmer's blog – Space, Travel, Technology, 3D Printing, Energy, Writing
+ - [https://caseyhandmer.wordpress.com](https://caseyhandmer.wordpress.com)
+ - date published: 2023-10-25T18:09:57.703133+00:00
+ - user: None
+ - tags: []
+
+## Alien Blognezz
+ - [https://cazzyalien.wordpress.com](https://cazzyalien.wordpress.com)
+ - date published: 2023-11-29T15:45:44.563508+00:00
+ - user: None
+ - tags: ['personal']
+
+## Codemanship's Blog
+ - [https://codemanship.wordpress.com](https://codemanship.wordpress.com)
+ - date published: 2023-11-20T09:24:43.633895+00:00
+ - user: None
+ - tags: []
+
+## Maria's Packaged Goods & Community Bar
+ - [https://communitybar.wordpress.com](https://communitybar.wordpress.com)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Computing Ed Research - Guzdial's Take | How do people understand computing, and how can we improve that understanding?
+ - [https://computinged.wordpress.com](https://computinged.wordpress.com)
+ - date published: 2023-10-25T18:10:13.200424+00:00
+ - user: None
+ - tags: []
+
 ## cordlandwehr – Adventures in Open Source Development
  - [https://cordlandwehr.wordpress.com](https://cordlandwehr.wordpress.com)
  - date published: 2023-10-25T18:10:23.632127+00:00
@@ -1036,6 +1126,12 @@
  - user: None
  - tags: []
 
+## World Backup Day
+ - [https://www.worldbackupday.com](https://www.worldbackupday.com)
+ - date published: 2023-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## World Birds | Joy of nature
  - [https://worldbirds.com](https://worldbirds.com)
  - date published: 2023-10-25T18:18:45.443325+00:00
@@ -1961,16 +2057,16 @@
  - tags: []
 
 ## Hacker News
- - [https://news.ycombinator.com](https://news.ycombinator.com)
- - date published: 2023-10-25T18:22:31.665387+00:00
- - user: None
- - tags: ['hacker']
-
-## Hacker News
  - [http://news.ycombinator.com](http://news.ycombinator.com)
  - date published: 2024-03-23T00:00:00+00:00
  - user: None
  - tags: []
+
+## Hacker News
+ - [https://news.ycombinator.com](https://news.ycombinator.com)
+ - date published: 2023-10-25T18:22:31.665387+00:00
+ - user: None
+ - tags: ['hacker']
 
 ## Y Combinator
  - [https://www.ycombinator.com](https://www.ycombinator.com)
@@ -2218,29 +2314,23 @@
  - user: None
  - tags: []
 
+## Eta Prime YouTube Channel
+ - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
+ - date published: 2023-11-03T10:35:46+00:00
+ - user: rumpel
+ - tags: ['youtuber', 'single-board', 'raspberry']
+
+## Miniac
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
+ - date published: 2023-11-08T10:01:11+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
+
 ## Luetin09 YouTube Channel
  - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
  - date published: 2023-11-08T09:33:03+00:00
  - user: rumpel
  - tags: ['wargames', 'tabletop games', 'warhammer']
-
-## Tabletop Minions
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
- - date published: 2023-11-08T09:59:26+00:00
- - user: rumpel
- - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
-
-## LukHash YouTube Channel
- - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
- - date published: 2023-11-03T14:42:18+00:00
- - user: rumpel
- - tags: []
-
-## YouTube Channel hipoonios
- - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
- - date published: 2023-11-02T10:41:50+00:00
- - user: rumpel
- - tags: ['amiga']
 
 ## Jeff Geerling YouTube Channel
  - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
@@ -2248,15 +2338,33 @@
  - user: rumpel
  - tags: ['youtuber', 'single-board', 'raspberry']
 
-## Eta Prime YouTube Channel
- - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
- - date published: 2023-11-03T10:35:46+00:00
+## YouTube Channel hipoonios
+ - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
+ - date published: 2023-11-02T10:41:50+00:00
  - user: rumpel
- - tags: ['youtuber', 'single-board', 'raspberry']
+ - tags: ['amiga']
+
+## NewRetroWave YouTube Channel
+ - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
+ - date published: 2023-11-13T09:23:17+00:00
+ - user: rumpel
+ - tags: ['synthwave', 'new retro wave']
+
+## Tabletop Minions
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
+ - date published: 2023-11-08T09:59:26+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
 
 ## Squidmar Miniatures
  - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
  - date published: 2023-11-08T09:58:45+00:00
+ - user: rumpel
+ - tags: []
+
+## LukHash YouTube Channel
+ - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
+ - date published: 2023-11-03T14:42:18+00:00
  - user: rumpel
  - tags: []
 
@@ -2266,29 +2374,17 @@
  - user: None
  - tags: []
 
-## NewRetroWave YouTube Channel
- - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
- - date published: 2023-11-13T09:23:17+00:00
- - user: rumpel
- - tags: ['synthwave', 'new retro wave']
-
-## Miniac
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
- - date published: 2023-11-08T10:01:11+00:00
- - user: rumpel
- - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
+## YouTube
+ - [https://www.youtube.com](https://www.youtube.com)
+ - date published: 2023-10-24T20:05:58.291792+00:00
+ - user: None
+ - tags: ['google', 'gatekeeper', 'video streaming']
 
 ## Louis Rossmann YouTube Channel
  - [https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
  - date published: 2023-11-03T10:37:58+00:00
  - user: rumpel
  - tags: ['right to repair']
-
-## YouTube
- - [https://www.youtube.com](https://www.youtube.com)
- - date published: 2023-10-24T20:05:58.291792+00:00
- - user: None
- - tags: ['google', 'gatekeeper', 'video streaming']
 
 ## YouTube
  - [https://youtube.com](https://youtube.com)
@@ -2946,14 +3042,14 @@
  - tags: []
 
 ## Writing by Bob Doto
- - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
- - date published: 2024-01-09T02:55:47.919867+00:00
+ - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
+ - date published: 2024-02-26T14:37:32.413264+00:00
  - user: None
  - tags: []
 
 ## Writing by Bob Doto
- - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
- - date published: 2024-02-26T14:37:32.413264+00:00
+ - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
+ - date published: 2024-01-09T02:55:47.919867+00:00
  - user: None
  - tags: []
 
@@ -3623,13 +3719,6 @@
  - user: None
  - tags: []
 
-## media.ccc.de -
-home
- - [https://media.ccc.de](https://media.ccc.de)
- - date published: 2023-10-25T18:28:41.208202+00:00
- - user: None
- - tags: ['chaos computer club', 'hackers']
-
 ## home
 
 - media.ccc.de
@@ -3637,6 +3726,13 @@ home
  - date published: 2024-02-14T00:00:00+00:00
  - user: None
  - tags: []
+
+## media.ccc.de -
+home
+ - [https://media.ccc.de](https://media.ccc.de)
+ - date published: 2023-10-25T18:28:41.208202+00:00
+ - user: None
+ - tags: ['chaos computer club', 'hackers']
 
 ## See you soon … somewhere else! – C3VOC Streaming
  - [https://streaming.media.ccc.de](https://streaming.media.ccc.de)
@@ -3681,13 +3777,13 @@ home
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [http://www.classic-videogames.de](http://www.classic-videogames.de)
+ - [https://www.classic-videogames.de](https://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [https://www.classic-videogames.de](https://www.classic-videogames.de)
+ - [http://www.classic-videogames.de](http://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
@@ -4566,14 +4662,14 @@ Heinsohn
  - tags: ['video game music']
 
 ## Radio PARALAX
- - [http://www.radio-paralax.de](http://www.radio-paralax.de)
- - date published: 2024-02-15T22:12:22.414790+00:00
+ - [https://www.radio-paralax.de](https://www.radio-paralax.de)
+ - date published: 2024-02-15T22:31:37.332329+00:00
  - user: None
  - tags: ['demoscene']
 
 ## Radio PARALAX
- - [https://www.radio-paralax.de](https://www.radio-paralax.de)
- - date published: 2024-02-15T22:31:37.332329+00:00
+ - [http://www.radio-paralax.de](http://www.radio-paralax.de)
+ - date published: 2024-02-15T22:12:22.414790+00:00
  - user: None
  - tags: ['demoscene']
 
@@ -5907,102 +6003,6 @@ Heinsohn
 ## Confused bit
  - [https://confusedbit.dev](https://confusedbit.dev)
  - date published: 2023-10-25T18:36:44.738942+00:00
- - user: None
- - tags: []
-
-## Development containers
- - [https://containers.dev](https://containers.dev)
- - date published: 2023-10-25T18:36:46.250992+00:00
- - user: None
- - tags: []
-
-## Continue
- - [https://continue.dev](https://continue.dev)
- - date published: 2023-10-25T18:36:47.728031+00:00
- - user: None
- - tags: []
-
-## Stack: A collection of good ideas for developers building with Convex.
- - [https://stack.convex.dev](https://stack.convex.dev)
- - date published: 2023-10-25T18:36:52.175996+00:00
- - user: None
- - tags: []
-
-## Cookbook - Find any Smart Contract
- - [https://www.cookbook.dev](https://www.cookbook.dev)
- - date published: 2024-01-09T02:56:55.040438+00:00
- - user: None
- - tags: []
-
-## Core Dumped
- - [https://coredumped.dev](https://coredumped.dev)
- - date published: 2023-10-25T18:36:55.902823+00:00
- - user: None
- - tags: []
-
-## Corrode Rust Consulting
- - [https://corrode.dev](https://corrode.dev)
- - date published: 2023-10-25T08:58:25.029322+00:00
- - user: None
- - tags: ['personal']
-
-## Cory Dransfeldt
- - [https://coryd.dev](https://coryd.dev)
- - date published: 2023-10-25T18:37:02.718460+00:00
- - user: None
- - tags: []
-
-## Counter: Simple Web Analytics
- - [https://counter.dev](https://counter.dev)
- - date published: 2023-10-25T18:37:03.893973+00:00
- - user: None
- - tags: []
-
-## Christian Fei's Blog - cri.dev
- - [https://cri.dev](https://cri.dev)
- - date published: 2023-10-25T08:58:26.480635+00:00
- - user: None
- - tags: ['personal']
-
-## CubeSigner, a refreshingly secure key manager
- - [https://cubist.dev](https://cubist.dev)
- - date published: 2023-11-02T07:07:07+00:00
- - user: None
- - tags: []
-
-## Home | Cubxity — Full-stack Developer
- - [https://cubxity.dev](https://cubxity.dev)
- - date published: 2023-10-25T18:37:05.670677+00:00
- - user: None
- - tags: []
-
-## Introduction - Everything curl
- - [https://everything.curl.dev](https://everything.curl.dev)
- - date published: 2024-01-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Cypress and Playwright Dashboard. Debug, deflake and analyse CI tests in Cloud.
- - [https://currents.dev](https://currents.dev)
- - date published: 2023-10-25T18:37:07.754644+00:00
- - user: None
- - tags: []
-
-## Cyber - Fast and concurrent scripting.
- - [https://cyberscript.dev](https://cyberscript.dev)
- - date published: 2023-10-25T18:37:09.369506+00:00
- - user: None
- - tags: []
-
-## 404 - Not Found
- - [https://playlists.dags.dev](https://playlists.dags.dev)
- - date published: 2024-01-09T02:56:57.228309+00:00
- - user: None
- - tags: []
-
-## Show HN: Darwin – Automate Your GitHub Project with AI
- - [https://darwin-ai.dev](https://darwin-ai.dev)
- - date published: 2024-02-26T17:33:06+00:00
  - user: None
  - tags: []
 

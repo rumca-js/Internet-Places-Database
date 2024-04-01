@@ -1,3 +1,45 @@
+## Gaurang Tandon
+ - [https://gaurangtandon.com](https://gaurangtandon.com)
+ - date published: 2023-11-01T08:42:09.254638+00:00
+ - user: None
+ - tags: []
+
+## Gautam Narula
+ - [https://www.gautamnarula.com](https://www.gautamnarula.com)
+ - date published: 2023-11-29T16:20:08.747690+00:00
+ - user: None
+ - tags: ['personal']
+
+## Gauthier Roussilhe
+ - [https://gauthierroussilhe.com](https://gauthierroussilhe.com)
+ - date published: 2023-12-11T16:12:10.777950+00:00
+ - user: None
+ - tags: []
+
+## Gavin D. Howard
+ - [https://gavinhoward.com](https://gavinhoward.com)
+ - date published: 2023-10-25T14:42:07.699227+00:00
+ - user: None
+ - tags: []
+
+## Gawker
+ - [https://www.gawker.com](https://www.gawker.com)
+ - date published: 2023-10-25T14:42:10.336138+00:00
+ - user: None
+ - tags: []
+
+## gazette.com
+ - [https://gazette.com](https://gazette.com)
+ - date published: 2023-12-07T22:20:50.347259+00:00
+ - user: None
+ - tags: []
+
+## Peoples Gazette - Truth, Courage or Nothing...
+ - [https://gazettengr.com](https://gazettengr.com)
+ - date published: 2023-10-25T14:42:16.982105+00:00
+ - user: None
+ - tags: []
+
 ## GB64.COM - C64 Games, Database, Music, Emulation, Frontends, Reviews and Articles
  - [https://www.gb64.com](https://www.gb64.com)
  - date published: 2023-12-13T15:11:42.180503+00:00
@@ -858,17 +900,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: rumpel
  - tags: ['bookmark manager', 'open source']
 
-## GitHub: Let’s build from here · GitHub
- - [https://github.com](https://github.com)
- - date published: 2023-10-25T14:42:43.938249+00:00
- - user: None
- - tags: ['gatekeeper', 'software platform']
-
 ## GitHub: Let’s build from here
  - [http://github.com](http://github.com)
  - date published: 2024-03-25T22:21:06.333550+00:00
  - user: None
  - tags: []
+
+## GitHub: Let’s build from here · GitHub
+ - [https://github.com](https://github.com)
+ - date published: 2023-10-25T14:42:43.938249+00:00
+ - user: None
+ - tags: ['gatekeeper', 'software platform']
 
 ## GitHub Pages
  - [https://pages.github.com](https://pages.github.com)
@@ -3124,16 +3166,16 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
- - [http://www.hanselman.com](http://www.hanselman.com)
- - date published: 2024-03-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
  - [https://www.hanselman.com](https://www.hanselman.com)
  - date published: 2023-10-25T09:20:35.173651+00:00
  - user: None
  - tags: ['personal']
+
+## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
+ - [http://www.hanselman.com](http://www.hanselman.com)
+ - date published: 2024-03-07T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## James Bottomley's random Pages | A collection of information
  - [https://blog.hansenpartnership.com](https://blog.hansenpartnership.com)
@@ -5958,48 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Home
  - [https://xrss.infogulch.com](https://xrss.infogulch.com)
  - date published: 2023-10-25T15:19:52.904644+00:00
- - user: None
- - tags: []
-
-## Our Perspectives | Smithbucklin
- - [https://www.infoinc.com](https://www.infoinc.com)
- - date published: 2024-02-25T14:11:31.411543+00:00
- - user: None
- - tags: []
-
-## InfoQ: Software Development News, Trends & Best Practices
- - [https://www.infoq.com](https://www.infoq.com)
- - date published: 2023-10-25T15:19:58.531831+00:00
- - user: None
- - tags: ['tech news']
-
-## https://informedinfrastructure.com
- - [https://informedinfrastructure.com](https://informedinfrastructure.com)
- - date published: 2023-12-24T15:28:57.928659+00:00
- - user: None
- - tags: []
-
-## InformIT: The Trusted Technology Source for IT Pros and Developers
- - [https://www.informit.com](https://www.informit.com)
- - date published: 2024-03-08T12:30:58+00:00
- - user: rumpel
- - tags: ['technology']
-
-## InfoSec Write-ups
- - [https://infosecwriteups.com](https://infosecwriteups.com)
- - date published: 2024-03-18T00:00:00+00:00
- - user: rumpel
- - tags: ['cybersecurity news']
-
-## The Infosec Newsletter
- - [https://weekly.infosecwriteups.com](https://weekly.infosecwriteups.com)
- - date published: 2024-03-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.infostealers.com](https://www.infostealers.com)
- - date published: 2023-12-30T19:51:04.567173+00:00
  - user: None
  - tags: []
 

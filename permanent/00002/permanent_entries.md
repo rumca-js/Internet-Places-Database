@@ -1,3 +1,27 @@
+## Nothing to see here
+ - [https://akercode.com](https://akercode.com)
+ - date published: 2023-12-21T18:50:50.677733+00:00
+ - user: None
+ - tags: ['personal']
+
+## Akiflow - Centralize your schedule
+ - [https://akiflow.com](https://akiflow.com)
+ - date published: 2023-10-25T12:37:07.042316+00:00
+ - user: None
+ - tags: []
+
+## Akismet
+ - [https://akismet.com](https://akismet.com)
+ - date published: 2023-12-11T16:54:25.267091+00:00
+ - user: None
+ - tags: []
+
+## Akita Software — the fastest and easiest way to understand your APIs.
+ - [https://www.akitasoftware.com](https://www.akitasoftware.com)
+ - date published: 2023-10-25T12:37:09.424295+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://akjournals.com](https://akjournals.com)
  - date published: 2024-03-05T00:00:00+00:00
@@ -1043,14 +1067,14 @@
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
- - date published: 2018-01-01T00:00:00+00:00
+ - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
+ - date published: 2024-01-09T02:29:24.245847+00:00
  - user: None
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
- - date published: 2024-01-09T02:29:24.245847+00:00
+ - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
+ - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4882,6 +4906,12 @@
  - user: None
  - tags: []
 
+## The Simulation Strategists
+ - [https://the-simulation-strategists.beehiiv.com](https://the-simulation-strategists.beehiiv.com)
+ - date published: 2024-03-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## https://blog.beeper.com
  - [https://blog.beeper.com](https://blog.beeper.com)
  - date published: 2023-12-05T15:26:45.775261+00:00
@@ -5965,36 +5995,6 @@
 ## The Angry Dev · Darren Horrocks explains various Programming and DevOps practices, with some guides, explanations and ramblings from a sometimes angry man
  - [https://bizzeh.com](https://bizzeh.com)
  - date published: 2023-10-25T13:03:14.509269+00:00
- - user: None
- - tags: []
-
-## Bjango
- - [https://bjango.com](https://bjango.com)
- - date published: 2023-10-25T13:03:16.353965+00:00
- - user: None
- - tags: []
-
-## Barry Hess :: bjhess.com
- - [https://bjhess.com](https://bjhess.com)
- - date published: 2023-12-02T21:17:10.821976+00:00
- - user: None
- - tags: ['personal']
-
-## BJ Malicoat
- - [https://www.bjmalicoat.com](https://www.bjmalicoat.com)
- - date published: 2023-10-25T08:45:07.568665+00:00
- - user: None
- - tags: ['personal']
-
-## björk
- - [https://bjork.com](https://bjork.com)
- - date published: 2023-11-13T10:31:46.069132+00:00
- - user: None
- - tags: ['music band']
-
-## Bjorn Pagen
- - [https://bjornpagen.com](https://bjornpagen.com)
- - date published: 2023-10-25T13:03:18.214285+00:00
  - user: None
  - tags: []
 

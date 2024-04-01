@@ -1,3 +1,63 @@
+## In the Cells of the Eggplant | Meta-rationality
+ - [https://metarationality.com](https://metarationality.com)
+ - date published: 2023-12-25T03:43:59.974297+00:00
+ - user: None
+ - tags: []
+
+## Metaroids The Singularity is coming
+ - [https://metaroids.com](https://metaroids.com)
+ - date published: 2023-10-25T16:02:02.144840+00:00
+ - user: None
+ - tags: []
+
+## Status and outages of Meta business products
+ - [https://metastatus.com](https://metastatus.com)
+ - date published: 2023-10-25T16:02:02.544702+00:00
+ - user: None
+ - tags: []
+
+## Metazooa
+ - [https://metazooa.com](https://metazooa.com)
+ - date published: 2023-10-25T16:02:03.276826+00:00
+ - user: None
+ - tags: []
+
+## Mete Balci
+ - [https://metebalci.com](https://metebalci.com)
+ - date published: 2023-12-04T15:32:44.461644+00:00
+ - user: None
+ - tags: []
+
+## Meteosource - The Global Weather API & Mapping Platform - current weather and forecast data
+ - [https://www.meteosource.com](https://www.meteosource.com)
+ - date published: 2023-10-25T16:02:04.837084+00:00
+ - user: None
+ - tags: []
+
+## Meter: Routing, Switching, Wireless, Applications
+ - [https://www.meter.com](https://www.meter.com)
+ - date published: 2023-10-25T16:02:08.107802+00:00
+ - user: None
+ - tags: []
+
+## Methodus 2000
+ - [https://www.methodus2000.com](https://www.methodus2000.com)
+ - date published: 2023-10-25T16:02:08.577916+00:00
+ - user: None
+ - tags: []
+
+## An Event-Driven Google Analytics Alternative - MetricsWave
+ - [https://metricswave.com](https://metricswave.com)
+ - date published: 2023-10-25T16:02:11.597096+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Metric-time.com
+ - [https://metric-time.com](https://metric-time.com)
+ - date published: 2023-10-25T16:02:10.118873+00:00
+ - user: None
+ - tags: []
+
 ## METRO Magazine - Bus, Rail and Motorcoach Passenger Transit Industry News
  - [https://www.metro-magazine.com](https://www.metro-magazine.com)
  - date published: 2024-01-24T20:53:30.770936+00:00
@@ -936,14 +996,14 @@
  - tags: ['personal']
 
 ## mitxela.com
- - [http://mitxela.com](http://mitxela.com)
- - date published: 2024-02-26T14:58:30.424321+00:00
+ - [https://mitxela.com](https://mitxela.com)
+ - date published: 2023-10-25T16:05:18.840474+00:00
  - user: None
  - tags: []
 
 ## mitxela.com
- - [https://mitxela.com](https://mitxela.com)
- - date published: 2023-10-25T16:05:18.840474+00:00
+ - [http://mitxela.com](http://mitxela.com)
+ - date published: 2024-02-26T14:58:30.424321+00:00
  - user: None
  - tags: []
 
@@ -1170,14 +1230,14 @@
  - tags: []
 
 ## Modernizr: the feature detection library for HTML5/CSS3
- - [https://modernizr.com](https://modernizr.com)
- - date published: 2024-01-09T02:44:07.641831+00:00
+ - [http://modernizr.com](http://modernizr.com)
+ - date published: 2024-02-26T09:38:41.875406+00:00
  - user: None
  - tags: []
 
 ## Modernizr: the feature detection library for HTML5/CSS3
- - [http://modernizr.com](http://modernizr.com)
- - date published: 2024-02-26T09:38:41.875406+00:00
+ - [https://modernizr.com](https://modernizr.com)
+ - date published: 2024-01-09T02:44:07.641831+00:00
  - user: None
  - tags: []
 
@@ -3623,6 +3683,12 @@
  - user: None
  - tags: []
 
+## Nexa Narratives
+ - [https://nexanarratives.com](https://nexanarratives.com)
+ - date published: 2024-03-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Nex Lumina
  - [https://nexlumina.com](https://nexlumina.com)
  - date published: 2023-10-25T16:18:01.978044+00:00
@@ -4164,15 +4230,15 @@
  - user: None
  - tags: ['music band']
 
-## [NFC: The Internet Nirvana Fan Club]
- - [https://www.nirvanaclub.com](https://www.nirvanaclub.com)
- - date published: 2023-10-25T14:19:53.039695+00:00
- - user: None
- - tags: []
-
 ## The Internet Nirvana Fan Club
  - [http://www.nirvanaclub.com](http://www.nirvanaclub.com)
  - date published: 2024-02-26T09:19:36.552314+00:00
+ - user: None
+ - tags: []
+
+## [NFC: The Internet Nirvana Fan Club]
+ - [https://www.nirvanaclub.com](https://www.nirvanaclub.com)
+ - date published: 2023-10-25T14:19:53.039695+00:00
  - user: None
  - tags: []
 
@@ -5937,70 +6003,4 @@ Answering Machine Greetings!
  - date published: 2023-10-30T12:52:26.123819+00:00
  - user: None
  - tags: ['dns']
-
-## openduck - openduck
- - [https://www.openduck.com](https://www.openduck.com)
- - date published: 2024-02-14T11:11:48.040469+00:00
- - user: None
- - tags: ['personal']
-
-## Home | OpenFaaS - Serverless Functions Made Simple
- - [https://www.openfaas.com](https://www.openfaas.com)
- - date published: 2023-10-25T16:26:32.887003+00:00
- - user: None
- - tags: []
-
-## The Open Heart Project - Susan Piver
- - [https://openheartproject.com](https://openheartproject.com)
- - date published: 2023-10-25T16:26:38.251087+00:00
- - user: None
- - tags: []
-
-## Openlayer - The evaluation workspace for machine learning
- - [https://www.openlayer.com](https://www.openlayer.com)
- - date published: 2023-10-25T16:26:39.469662+00:00
- - user: None
- - tags: []
-
-## OpenResume - Free Open-source Resume Builder and Parser
- - [https://www.open-resume.com](https://www.open-resume.com)
- - date published: 2023-10-25T16:26:16.222288+00:00
- - user: None
- - tags: []
-
-## Advancing connectivity for all | Opensignal
- - [https://www.opensignal.com](https://www.opensignal.com)
- - date published: 2023-10-25T16:26:41.916120+00:00
- - user: None
- - tags: []
-
-## Search & AI - Solr,Elasticsearch,OpenSearch - Training & Consulting
- - [https://opensourceconnections.com](https://opensourceconnections.com)
- - date published: 2024-02-09T21:40:34.541019+00:00
- - user: None
- - tags: []
-
-## Open Source For You | Open Source Updates
- - [https://www.opensourceforu.com](https://www.opensourceforu.com)
- - date published: 2023-12-29T05:15:37.272678+00:00
- - user: None
- - tags: []
-
-## Show HN: Open Source Heroes – Explore the world of Open Source
- - [https://opensource-heroes.com](https://opensource-heroes.com)
- - date published: 2023-11-06T18:16:28+00:00
- - user: None
- - tags: []
-
-## SpeedTest by OpenSpeedTest™ HTML5 Internet Speed Test.
- - [https://openspeedtest.com](https://openspeedtest.com)
- - date published: 2024-03-02T20:03:21.258571+00:00
- - user: None
- - tags: []
-
-## OpenSSH
- - [https://www.openssh.com](https://www.openssh.com)
- - date published: 2023-10-25T08:32:56.764937+00:00
- - user: None
- - tags: []
 

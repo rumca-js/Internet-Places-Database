@@ -1,3 +1,45 @@
+## Our Perspectives | Smithbucklin
+ - [https://www.infoinc.com](https://www.infoinc.com)
+ - date published: 2024-02-25T14:11:31.411543+00:00
+ - user: None
+ - tags: []
+
+## InfoQ: Software Development News, Trends & Best Practices
+ - [https://www.infoq.com](https://www.infoq.com)
+ - date published: 2023-10-25T15:19:58.531831+00:00
+ - user: None
+ - tags: ['tech news']
+
+## https://informedinfrastructure.com
+ - [https://informedinfrastructure.com](https://informedinfrastructure.com)
+ - date published: 2023-12-24T15:28:57.928659+00:00
+ - user: None
+ - tags: []
+
+## InformIT: The Trusted Technology Source for IT Pros and Developers
+ - [https://www.informit.com](https://www.informit.com)
+ - date published: 2024-03-08T12:30:58+00:00
+ - user: rumpel
+ - tags: ['technology']
+
+## InfoSec Write-ups
+ - [https://infosecwriteups.com](https://infosecwriteups.com)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: rumpel
+ - tags: ['cybersecurity news']
+
+## The Infosec Newsletter
+ - [https://weekly.infosecwriteups.com](https://weekly.infosecwriteups.com)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.infostealers.com](https://www.infostealers.com)
+ - date published: 2023-12-30T19:51:04.567173+00:00
+ - user: None
+ - tags: []
+
 ## Navigate your next
  - [https://www.infosys.com](https://www.infosys.com)
  - date published: 2023-10-30T11:05:08.221150+00:00
@@ -579,6 +621,12 @@
  - date published: 2024-03-18T22:26:34+00:00
  - user: rumpel
  - tags: ['tech news', 'iot news']
+
+## Home • Iowa Capital Dispatch
+ - [https://iowacapitaldispatch.com](https://iowacapitaldispatch.com)
+ - date published: 2024-03-31T14:07:32.271233+00:00
+ - user: None
+ - tags: []
 
 ## HOME - PAMELA FERNUIK
  - [https://www.ipaintiwrite.com](https://www.ipaintiwrite.com)
@@ -5682,14 +5730,14 @@
  - tags: ['personal']
 
 ## Kyle Halladay - Home Page
- - [http://kylehalladay.com](http://kylehalladay.com)
- - date published: 2021-07-14T00:00:00+00:00
+ - [https://kylehalladay.com](https://kylehalladay.com)
+ - date published: 2024-01-09T02:41:26.783231+00:00
  - user: None
  - tags: []
 
 ## Kyle Halladay - Home Page
- - [https://kylehalladay.com](https://kylehalladay.com)
- - date published: 2024-01-09T02:41:26.783231+00:00
+ - [http://kylehalladay.com](http://kylehalladay.com)
+ - date published: 2021-07-14T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5748,16 +5796,16 @@
  - tags: []
 
 ## La Femme | Official Website
- - [http://www.lafemmemusic.com](http://www.lafemmemusic.com)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## La Femme | Official Website
  - [https://www.lafemmemusic.com](https://www.lafemmemusic.com)
  - date published: 2024-01-19T00:00:00+00:00
  - user: rumpel
  - tags: ['music band']
+
+## La Femme | Official Website
+ - [http://www.lafemmemusic.com](http://www.lafemmemusic.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Lagged - Free Online Games on Lagged.com
  - [https://lagged.com](https://lagged.com)
@@ -5948,54 +5996,6 @@
 ## Laravel News
  - [https://laravel-news.com](https://laravel-news.com)
  - date published: 2023-10-25T15:41:11.614231+00:00
- - user: None
- - tags: []
-
-## Lares Labs
- - [https://labs.lares.com](https://labs.lares.com)
- - date published: 2024-02-11T14:35:07.711728+00:00
- - user: None
- - tags: ['tech news']
-
-## Homepage - Larian Studios
- - [https://larian.com](https://larian.com)
- - date published: 2023-11-04T19:14:56.784693+00:00
- - user: None
- - tags: ['dungeons and dragons', 'video game developer', 'baldurs gate']
-
-## Lariat Data
- - [https://www.lariatdata.com](https://www.lariatdata.com)
- - date published: 2023-10-25T15:41:19.402858+00:00
- - user: None
- - tags: []
-
-## None
- - [https://larouchepub.com](https://larouchepub.com)
- - date published: 2024-03-18T22:26:27.124063+00:00
- - user: None
- - tags: []
-
-## Larry Jordan | Apple Final Cut Pro and Adobe Premiere Pro webinars, training and tutorials.
- - [https://larryjordan.com](https://larryjordan.com)
- - date published: 2023-10-25T15:41:23.332035+00:00
- - user: None
- - tags: []
-
-## LarrysWorld.com – Larry Magid's blog on tech reviews, news and policies
- - [https://www.larrysworld.com](https://www.larrysworld.com)
- - date published: 2024-02-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Lars-Christian.com – Thoughts on things.
- - [https://lars-christian.com](https://lars-christian.com)
- - date published: 2024-02-26T22:52:50.944506+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## Lars Müller Publishers
- - [https://www.lars-mueller-publishers.com](https://www.lars-mueller-publishers.com)
- - date published: 2024-02-15T22:32:25.253771+00:00
  - user: None
  - tags: []
 

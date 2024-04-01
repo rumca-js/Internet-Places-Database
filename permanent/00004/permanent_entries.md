@@ -1,3 +1,33 @@
+## Cocktails & Coffee
+ - [https://www.cocktailsandcoffee.com](https://www.cocktailsandcoffee.com)
+ - date published: 2024-01-13T18:26:47.292789+00:00
+ - user: None
+ - tags: []
+
+## Cocteau Twins: Official Website
+ - [https://cocteautwins.com](https://cocteautwins.com)
+ - date published: 2023-11-13T10:26:16.922359+00:00
+ - user: None
+ - tags: ['music band']
+
+## Coda Hale writes things. | codahale.com
+ - [https://codahale.com](https://codahale.com)
+ - date published: 2023-10-25T13:27:36.624260+00:00
+ - user: None
+ - tags: []
+
+## Codasip & RISC-V: Architect your ambition with custom compute
+ - [https://codasip.com](https://codasip.com)
+ - date published: 2023-10-25T13:27:39.106894+00:00
+ - user: None
+ - tags: []
+
+## Coda Story
+ - [https://www.codastory.com](https://www.codastory.com)
+ - date published: 2023-10-25T13:27:42.184729+00:00
+ - user: None
+ - tags: []
+
 ## Blog · Codeanywhere
  - [https://blog.codeanywhere.com](https://blog.codeanywhere.com)
  - date published: 2023-10-25T13:27:59.137947+00:00
@@ -5968,36 +5998,6 @@
 ## Duolingo Blog | Writing about the best way to learn a language
  - [https://blog.duolingo.com](https://blog.duolingo.com)
  - date published: 2023-10-25T14:00:03.408327+00:00
- - user: None
- - tags: []
-
-## Duplicate Word Finder
- - [https://duplicateword.com](https://duplicateword.com)
- - date published: 2023-10-25T14:00:04.558446+00:00
- - user: None
- - tags: []
-
-## Duplicati
- - [https://www.duplicati.com](https://www.duplicati.com)
- - date published: 2023-10-25T14:00:05.522255+00:00
- - user: None
- - tags: []
-
-## Library of Unusually Good Ideas
- - [https://durmonski.com](https://durmonski.com)
- - date published: 2024-01-22T21:14:29.698494+00:00
- - user: None
- - tags: []
-
-## Goran Duskic | Internet Entrepreneur | Duskic.com | 2023 – Internet entrepreneur, website investor
- - [https://www.duskic.com](https://www.duskic.com)
- - date published: 2023-11-29T16:19:36.273999+00:00
- - user: None
- - tags: ['personal']
-
-## Website Impersonating a Desktop Environment
- - [https://dustinbrett.com](https://dustinbrett.com)
- - date published: 2024-01-01T06:48:45+00:00
  - user: None
  - tags: []
 

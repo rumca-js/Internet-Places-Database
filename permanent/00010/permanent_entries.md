@@ -1,3 +1,69 @@
+## openduck - openduck
+ - [https://www.openduck.com](https://www.openduck.com)
+ - date published: 2024-02-14T11:11:48.040469+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | OpenFaaS - Serverless Functions Made Simple
+ - [https://www.openfaas.com](https://www.openfaas.com)
+ - date published: 2023-10-25T16:26:32.887003+00:00
+ - user: None
+ - tags: []
+
+## The Open Heart Project - Susan Piver
+ - [https://openheartproject.com](https://openheartproject.com)
+ - date published: 2023-10-25T16:26:38.251087+00:00
+ - user: None
+ - tags: []
+
+## Openlayer - The evaluation workspace for machine learning
+ - [https://www.openlayer.com](https://www.openlayer.com)
+ - date published: 2023-10-25T16:26:39.469662+00:00
+ - user: None
+ - tags: []
+
+## OpenResume - Free Open-source Resume Builder and Parser
+ - [https://www.open-resume.com](https://www.open-resume.com)
+ - date published: 2023-10-25T16:26:16.222288+00:00
+ - user: None
+ - tags: []
+
+## Advancing connectivity for all | Opensignal
+ - [https://www.opensignal.com](https://www.opensignal.com)
+ - date published: 2023-10-25T16:26:41.916120+00:00
+ - user: None
+ - tags: []
+
+## Search & AI - Solr,Elasticsearch,OpenSearch - Training & Consulting
+ - [https://opensourceconnections.com](https://opensourceconnections.com)
+ - date published: 2024-02-09T21:40:34.541019+00:00
+ - user: None
+ - tags: []
+
+## Open Source For You | Open Source Updates
+ - [https://www.opensourceforu.com](https://www.opensourceforu.com)
+ - date published: 2023-12-29T05:15:37.272678+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Open Source Heroes – Explore the world of Open Source
+ - [https://opensource-heroes.com](https://opensource-heroes.com)
+ - date published: 2023-11-06T18:16:28+00:00
+ - user: None
+ - tags: []
+
+## SpeedTest by OpenSpeedTest™ HTML5 Internet Speed Test.
+ - [https://openspeedtest.com](https://openspeedtest.com)
+ - date published: 2024-03-02T20:03:21.258571+00:00
+ - user: None
+ - tags: []
+
+## OpenSSH
+ - [https://www.openssh.com](https://www.openssh.com)
+ - date published: 2023-10-25T08:32:56.764937+00:00
+ - user: None
+ - tags: []
+
 ## Welcome - Open Subtitles Blog
  - [https://blog.opensubtitles.com](https://blog.opensubtitles.com)
  - date published: 2023-11-16T14:55:26.595310+00:00
@@ -184,15 +250,15 @@
  - user: None
  - tags: []
 
-## Radar - O’Reilly
- - [http://radar.oreilly.com](http://radar.oreilly.com)
- - date published: 2024-03-11T20:56:21.645465+00:00
- - user: None
- - tags: []
-
 ## O'Reilly Media - Technology and Business Training
  - [https://radar.oreilly.com](https://radar.oreilly.com)
  - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Radar - O’Reilly
+ - [http://radar.oreilly.com](http://radar.oreilly.com)
+ - date published: 2024-03-11T20:56:21.645465+00:00
  - user: None
  - tags: []
 
@@ -1511,15 +1577,15 @@
  - user: None
  - tags: ['personal']
 
-## PCMag UK
- - [http://uk.pcmag.com](http://uk.pcmag.com)
- - date published: 2024-02-26T09:45:15.403718+00:00
- - user: None
- - tags: []
-
 ## PCMag.com - Technology Product Reviews, News, Prices & Tips
  - [https://uk.pcmag.com](https://uk.pcmag.com)
  - date published: 2023-10-25T09:34:32.882984+00:00
+ - user: None
+ - tags: []
+
+## PCMag UK
+ - [http://uk.pcmag.com](http://uk.pcmag.com)
+ - date published: 2024-02-26T09:45:15.403718+00:00
  - user: None
  - tags: []
 
@@ -3080,15 +3146,15 @@
  - user: None
  - tags: []
 
-## plumshell
- - [http://plumshell.com](http://plumshell.com)
- - date published: 2024-02-26T15:04:17.373885+00:00
- - user: None
- - tags: []
-
 ## 無効なURLです
  - [https://plumshell.com](https://plumshell.com)
  - date published: 2024-01-09T02:46:44.613598+00:00
+ - user: None
+ - tags: []
+
+## plumshell
+ - [http://plumshell.com](http://plumshell.com)
+ - date published: 2024-02-26T15:04:17.373885+00:00
  - user: None
  - tags: []
 
@@ -3303,13 +3369,13 @@
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -3501,14 +3567,14 @@
  - tags: []
 
 ## PostHog - The open source Product OS
- - [https://posthog.com](https://posthog.com)
- - date published: 2023-10-25T16:38:22.584209+00:00
+ - [http://posthog.com](http://posthog.com)
+ - date published: 2024-02-26T09:54:45.800568+00:00
  - user: None
  - tags: []
 
 ## PostHog - The open source Product OS
- - [http://posthog.com](http://posthog.com)
- - date published: 2024-02-26T09:54:45.800568+00:00
+ - [https://posthog.com](https://posthog.com)
+ - date published: 2023-10-25T16:38:22.584209+00:00
  - user: None
  - tags: []
 
@@ -5118,17 +5184,17 @@
  - user: None
  - tags: []
 
-## http://rachelwestbooks.com
- - [https://rachelwestbooks.com](https://rachelwestbooks.com)
- - date published: 2024-02-09T00:19:01.129739+00:00
- - user: None
- - tags: ['poetry', 'book', 'personal']
-
 ## None
  - [http://rachelwestbooks.com](http://rachelwestbooks.com)
  - date published: 2024-02-29T14:58:43.538321+00:00
  - user: None
  - tags: []
+
+## http://rachelwestbooks.com
+ - [https://rachelwestbooks.com](https://rachelwestbooks.com)
+ - date published: 2024-02-09T00:19:01.129739+00:00
+ - user: None
+ - tags: ['poetry', 'book', 'personal']
 
 ## Rachel Zampino | Website Wizard - Rachel Zampino
  - [https://rachelzampino.com](https://rachelzampino.com)
@@ -5558,16 +5624,16 @@ More!
  - tags: []
 
 ## Ravenfeast
- - [http://www.ravenfeast.com](http://www.ravenfeast.com)
- - date published: 2024-03-01T18:35:27.406553+00:00
- - user: None
- - tags: []
-
-## Ravenfeast
  - [https://www.ravenfeast.com](https://www.ravenfeast.com)
  - date published: 2024-03-01T09:41:52+00:00
  - user: rumpel
  - tags: ['tabletop games', 'wargames']
+
+## Ravenfeast
+ - [http://www.ravenfeast.com](http://www.ravenfeast.com)
+ - date published: 2024-03-01T18:35:27.406553+00:00
+ - user: None
+ - tags: []
 
 ## https://www.ravensoft.com
  - [https://www.ravensoft.com](https://www.ravensoft.com)
@@ -5798,14 +5864,14 @@ More!
  - tags: ['company']
 
 ## Home | Realms of Despair
- - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
- - date published: 2024-03-27T20:46:33.188949+00:00
+ - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:52:28.838514+00:00
  - user: None
  - tags: ['mud game']
 
 ## Home | Realms of Despair
- - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
- - date published: 2024-03-27T20:52:28.838514+00:00
+ - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:46:33.188949+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5938,72 +6004,6 @@ More!
 ## Recursive Drawing
  - [https://recursivedrawing.com](https://recursivedrawing.com)
  - date published: 2024-01-09T02:47:24.309329+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.recyclingtoday.com](https://www.recyclingtoday.com)
- - date published: 2024-03-04T19:41:20.524707+00:00
- - user: None
- - tags: []
-
-## RED Digital Cinema | Professional Cameras
- - [https://www.red.com](https://www.red.com)
- - date published: 2024-03-09T08:32:57+00:00
- - user: rumpel
- - tags: ['digital cameras']
-
-## Red Alert 2 | Online Gameplay
- - [https://redalert2.com](https://redalert2.com)
- - date published: 2023-11-17T21:46:56+00:00
- - user: rumpel
- - tags: ['command and conquer']
-
-## Red Blob Games
- - [https://www.redblobgames.com](https://www.redblobgames.com)
- - date published: 2023-10-25T16:47:32.544748+00:00
- - user: None
- - tags: []
-
-## Red Blob Games
- - [http://www.redblobgames.com](http://www.redblobgames.com)
- - date published: 2024-03-24T15:05:53.916412+00:00
- - user: None
- - tags: []
-
-## Red Canary | Your Managed Detection and Response Ally
- - [https://redcanary.com](https://redcanary.com)
- - date published: 2023-10-25T16:47:36.881352+00:00
- - user: None
- - tags: []
-
-## reddit
- - [https://new.reddit.com](https://new.reddit.com)
- - date published: 2024-03-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## reddit: the front page of the internet
- - [https://old.reddit.com](https://old.reddit.com)
- - date published: 2023-10-24T20:16:40.762854+00:00
- - user: None
- - tags: []
-
-## reddit
- - [https://reddit.com](https://reddit.com)
- - date published: 2023-10-24T20:12:40.083441+00:00
- - user: None
- - tags: ['gatekeeper', 'social platform']
-
-## reddit
- - [https://sh.reddit.com](https://sh.reddit.com)
- - date published: 2023-12-30T19:00:56.429006+00:00
- - user: None
- - tags: []
-
-## Reddit - Dive into anything
- - [http://tennis.reddit.com](http://tennis.reddit.com)
- - date published: 2024-03-17T00:00:00+00:00
  - user: None
  - tags: []
 

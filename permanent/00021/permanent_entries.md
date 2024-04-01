@@ -1,3 +1,141 @@
+## Howard Gray
+ - [https://www.howardgray.net](https://www.howardgray.net)
+ - date published: 2024-02-25T20:46:35.738578+00:00
+ - user: None
+ - tags: []
+
+## Show HN: How did YOUR computer reach my server?
+ - [https://how-did-i-get-here.net](https://how-did-i-get-here.net)
+ - date published: 2023-12-05T14:56:25+00:00
+ - user: None
+ - tags: ['online tool', 'interesting']
+
+## https://www.hughrundle.net
+ - [https://www.hughrundle.net](https://www.hughrundle.net)
+ - date published: 2024-01-09T03:35:37.074436+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://huntertur.net](https://huntertur.net)
+ - date published: 2023-10-25T20:31:39.306377+00:00
+ - user: None
+ - tags: []
+
+## 500'000€ Prize for Compressing Human Knowledge
+ - [http://prize.hutter1.net](http://prize.hutter1.net)
+ - date published: 2023-10-25T20:31:40.973909+00:00
+ - user: None
+ - tags: []
+
+## Dead End
+ - [https://imp.i328067.net](https://imp.i328067.net)
+ - date published: 2023-11-26T05:00:50.816382+00:00
+ - user: None
+ - tags: []
+
+## iA - Home
+ - [http://ia.net](http://ia.net)
+ - date published: 2024-02-26T14:54:49.326176+00:00
+ - user: None
+ - tags: []
+
+## Home – iA
+ - [https://ia.net](https://ia.net)
+ - date published: 2023-10-25T20:31:41.939052+00:00
+ - user: None
+ - tags: []
+
+## The Blog of Ian Robinson
+ - [https://ianrobinson.net](https://ianrobinson.net)
+ - date published: 2023-12-24T02:31:15.416614+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ido Perlmuter
+ - [https://ido50.net](https://ido50.net)
+ - date published: 2023-10-25T20:31:42.586769+00:00
+ - user: None
+ - tags: []
+
+## ignore the code
+ - [https://ignorethecode.net](https://ignorethecode.net)
+ - date published: 2023-10-25T20:31:48.804771+00:00
+ - user: None
+ - tags: []
+
+## The Most Officialest SkiFree Home Page
+ - [https://ski.ihoc.net](https://ski.ihoc.net)
+ - date published: 2023-10-25T20:31:50.207165+00:00
+ - user: None
+ - tags: []
+
+## IHOC Quake
+ - [http://www.quake.ihoc.net](http://www.quake.ihoc.net)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DIY, hacks, experiments, machine learning, IoT and more - Ikkaro
+ - [https://www.ikkaro.net](https://www.ikkaro.net)
+ - date published: 2024-01-16T17:01:30.769145+00:00
+ - user: None
+ - tags: []
+
+## Report a Fireball
+ - [https://ams.imo.net](https://ams.imo.net)
+ - date published: 2023-10-25T20:31:51.974716+00:00
+ - user: None
+ - tags: []
+
+## Gergely Imreh
+ - [https://gergely.imreh.net](https://gergely.imreh.net)
+ - date published: 2023-12-22T22:28:32.040063+00:00
+ - user: None
+ - tags: ['personal']
+
+## In B-Flat (2009)
+ - [http://www.inbflat.net](http://www.inbflat.net)
+ - date published: 2024-03-25T21:49:22+00:00
+ - user: None
+ - tags: []
+
+## Rich Sutton's Home Page
+ - [http://incompleteideas.net](http://incompleteideas.net)
+ - date published: 2023-10-25T08:52:45.098056+00:00
+ - user: None
+ - tags: ['personal']
+
+## Indie Web Journal – Reclaim Your Computing
+ - [https://indiewebjournal.net](https://indiewebjournal.net)
+ - date published: 2024-01-11T12:21:42.752079+00:00
+ - user: None
+ - tags: []
+
+## blog dot information dash superhighway dot net
+ - [https://blog.information-superhighway.net](https://blog.information-superhighway.net)
+ - date published: 2023-10-25T20:31:53.286397+00:00
+ - user: None
+ - tags: []
+
+## Initial Charge
+ - [https://initialcharge.net](https://initialcharge.net)
+ - date published: 2023-12-25T17:18:40.551487+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mi vida en el Tíbet y los Himalayas
+ - [https://inocuo.net](https://inocuo.net)
+ - date published: 2023-11-29T15:50:23.707008+00:00
+ - user: None
+ - tags: ['personal']
+
+## InPics Solutions - Free computer tutorials
+ - [https://inpics.net](https://inpics.net)
+ - date published: 2024-02-25T20:50:49.985525+00:00
+ - user: None
+ - tags: []
+
 ## Global News - Breaking International News And Headlines | Inquirer.net
  - [https://globalnation.inquirer.net](https://globalnation.inquirer.net)
  - date published: 2023-11-15T04:42:15.760501+00:00
@@ -430,15 +568,15 @@
  - user: None
  - tags: ['personal']
 
-## http://knowledgebottle.net
- - [https://knowledgebottle.net](https://knowledgebottle.net)
- - date published: 2024-01-27T06:34:46.775964+00:00
- - user: None
- - tags: []
-
 ## None
  - [http://knowledgebottle.net](http://knowledgebottle.net)
  - date published: 2024-02-29T12:14:03.250410+00:00
+ - user: None
+ - tags: []
+
+## http://knowledgebottle.net
+ - [https://knowledgebottle.net](https://knowledgebottle.net)
+ - date published: 2024-01-27T06:34:46.775964+00:00
  - user: None
  - tags: []
 
@@ -2035,14 +2173,14 @@
  - tags: []
 
 ## play.net >> Where adventure finds you.
- - [https://www.play.net](https://www.play.net)
- - date published: 2024-03-27T20:52:27.939000+00:00
+ - [http://www.play.net](http://www.play.net)
+ - date published: 2024-03-27T20:46:31.499024+00:00
  - user: None
  - tags: ['mud game']
 
 ## play.net >> Where adventure finds you.
- - [http://www.play.net](http://www.play.net)
- - date published: 2024-03-27T20:46:31.499024+00:00
+ - [https://www.play.net](https://www.play.net)
+ - date published: 2024-03-27T20:52:27.939000+00:00
  - user: None
  - tags: ['mud game']
 
@@ -2059,16 +2197,16 @@
  - tags: ['cory doctorow', 'internet forum']
 
 ## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
- - [http://pluralistic.net](http://pluralistic.net)
- - date published: 2024-02-24T18:22:24.558627+00:00
- - user: None
- - tags: []
-
-## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
  - [https://pluralistic.net](https://pluralistic.net)
  - date published: 2023-10-25T08:57:45.517375+00:00
  - user: None
  - tags: ['personal', 'blog']
+
+## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
+ - [http://pluralistic.net](http://pluralistic.net)
+ - date published: 2024-02-24T18:22:24.558627+00:00
+ - user: None
+ - tags: []
 
 ## Poc Network // Tech - Today's Tech News and Reviews
  - [https://www.pocnetwork.net](https://www.pocnetwork.net)
@@ -2237,6 +2375,12 @@
  - date published: 2023-10-27T11:39:35.069300+00:00
  - user: None
  - tags: ['wtf']
+
+## radicalcartography
+ - [http://www.radicalcartography.net](http://www.radicalcartography.net)
+ - date published: 2024-03-31T18:42:44.568024+00:00
+ - user: None
+ - tags: []
 
 ## RadioSEGA | Home
  - [https://www.radiosega.net](https://www.radiosega.net)
@@ -2839,16 +2983,16 @@
  - tags: []
 
 ## Matthias Monroy
- - [https://digit.so36.net](https://digit.so36.net)
- - date published: 2023-10-25T08:54:06.996729+00:00
- - user: None
- - tags: ['personal']
-
-## Matthias Monroy
  - [http://digit.so36.net](http://digit.so36.net)
  - date published: 2024-02-25T19:37:06.416405+00:00
  - user: None
  - tags: []
+
+## Matthias Monroy
+ - [https://digit.so36.net](https://digit.so36.net)
+ - date published: 2023-10-25T08:54:06.996729+00:00
+ - user: None
+ - tags: ['personal']
 
 ## SoByte
  - [https://www.sobyte.net](https://www.sobyte.net)
@@ -3319,16 +3463,16 @@
  - tags: []
 
 ## Eli Bendersky's website
- - [https://eli.thegreenplace.net](https://eli.thegreenplace.net)
- - date published: 2023-10-25T20:38:36.946214+00:00
- - user: None
- - tags: []
-
-## Eli Bendersky's website
  - [http://eli.thegreenplace.net](http://eli.thegreenplace.net)
  - date published: 2024-03-24T15:02:50.783691+00:00
  - user: None
  - tags: ['personal']
+
+## Eli Bendersky's website
+ - [https://eli.thegreenplace.net](https://eli.thegreenplace.net)
+ - date published: 2023-10-25T20:38:36.946214+00:00
+ - user: None
+ - tags: []
 
 ## Ohio County, Marshall County Middle School Robotics Teams Qualify For VEX World Championships
  - [https://www.theintelligencer.net](https://www.theintelligencer.net)
@@ -3558,15 +3702,15 @@
  - user: rumpel
  - tags: ['file send']
 
-## Welcome to transputer.net
- - [http://transputer.net](http://transputer.net)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Transputer.net
  - [https://transputer.net](https://transputer.net)
  - date published: 2024-01-07T14:41:29+00:00
+ - user: None
+ - tags: []
+
+## Welcome to transputer.net
+ - [http://transputer.net](http://transputer.net)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3829,14 +3973,14 @@
  - tags: ['personal']
 
 ## Stefan Hajnoczi
- - [https://blog.vmsplice.net](https://blog.vmsplice.net)
- - date published: 2024-01-03T01:08:14.621014+00:00
+ - [http://blog.vmsplice.net](http://blog.vmsplice.net)
+ - date published: 2024-01-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Stefan Hajnoczi
- - [http://blog.vmsplice.net](http://blog.vmsplice.net)
- - date published: 2024-01-25T00:00:00+00:00
+ - [https://blog.vmsplice.net](https://blog.vmsplice.net)
+ - date published: 2024-01-03T01:08:14.621014+00:00
  - user: None
  - tags: []
 
@@ -5854,150 +5998,6 @@ marginalia.nu
 ## Home » InternetNZ
  - [https://internetnz.nz](https://internetnz.nz)
  - date published: 2023-10-25T20:51:16.741237+00:00
- - user: None
- - tags: []
-
-## InternetNZ Status
- - [https://status.internetnz.nz](https://status.internetnz.nz)
- - date published: 2023-10-25T20:51:22.956753+00:00
- - user: None
- - tags: []
-
-## is this it?
- - [https://isthisit.nz](https://isthisit.nz)
- - date published: 2023-10-25T20:51:24.181241+00:00
- - user: None
- - tags: []
-
-## Jeremy Baker
- - [https://www.jeremybaker.nz](https://www.jeremybaker.nz)
- - date published: 2024-02-02T18:14:31.907184+00:00
- - user: None
- - tags: []
-
-## Welcome! - Matt Brown
- - [https://www.mattb.nz](https://www.mattb.nz)
- - date published: 2023-10-25T20:51:25.148571+00:00
- - user: None
- - tags: []
-
-## Tim McNamara (@timClicks)
- - [https://tim.mcnamara.nz](https://tim.mcnamara.nz)
- - date published: 2023-10-25T20:51:26.754354+00:00
- - user: None
- - tags: []
-
-## MEGA
- - [https://mega.nz](https://mega.nz)
- - date published: 1999-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['file hosting', 'file send', 'free cloud storage']
-
-## Constant Meiring
- - [https://constant.meiring.nz](https://constant.meiring.nz)
- - date published: 2023-10-25T20:51:27.602839+00:00
- - user: None
- - tags: []
-
-## Mobile made for you. One NZ.
- - [https://one.nz](https://one.nz)
- - date published: 2023-10-27T12:06:21.792668+00:00
- - user: None
- - tags: []
-
-## Scuttlebutt social network: a decentralised platform
- - [https://scuttlebutt.nz](https://scuttlebutt.nz)
- - date published: 2024-02-23T19:14:18+00:00
- - user: None
- - tags: []
-
-## Serena Chen
- - [https://serena.nz](https://serena.nz)
- - date published: 2024-01-11T12:23:11.834075+00:00
- - user: None
- - tags: []
-
-## Te Awamutu Space Centre
- - [https://www.spacecentre.nz](https://www.spacecentre.nz)
- - date published: 2023-10-25T20:51:43.027687+00:00
- - user: None
- - tags: []
-
-## WEBSAM.NZ |
- - [https://websam.nz](https://websam.nz)
- - date published: 2024-02-14T08:43:34.578551+00:00
- - user: None
- - tags: ['personal']
-
-## Asia Media Centre | Helping New Zealand media cover Asia
- - [https://www.asiamediacentre.org.nz](https://www.asiamediacentre.org.nz)
- - date published: 2023-10-25T20:51:53.621097+00:00
- - user: None
- - tags: []
-
-## Christ Church Cathedral Rebuild | Reinstatement Project
- - [https://christchurchcathedral.org.nz](https://christchurchcathedral.org.nz)
- - date published: 2021-08-20T01:27:26+00:00
- - user: None
- - tags: []
-
-## My Playlist
- - [https://www.circuit.org.nz](https://www.circuit.org.nz)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://www.privacy.org.nz
- - [https://www.privacy.org.nz](https://www.privacy.org.nz)
- - date published: 2024-01-09T03:38:02.730564+00:00
- - user: None
- - tags: []
-
-## WasteNet Southland
- - [https://www.wastenet.org.nz](https://www.wastenet.org.nz)
- - date published: 2024-02-08T17:46:48.890625+00:00
- - user: None
- - tags: []
-
-## Ian's blog | entropy.observer
- - [https://blog.entropy.observer](https://blog.entropy.observer)
- - date published: 2023-10-25T20:51:56.441202+00:00
- - user: None
- - tags: []
-
-## ABlog
- - [https://blog.ablaze.one](https://blog.ablaze.one)
- - date published: 2024-03-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## ambiphone. ambient music + sounds for work, study and relaxation.
- - [https://ambiph.one](https://ambiph.one)
- - date published: 2024-01-03T18:03:56.464502+00:00
- - user: None
- - tags: []
-
-## Deadstar.one
- - [https://deadstar.one](https://deadstar.one)
- - date published: 2022-07-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Flipper Blog
- - [https://blog.flipperzero.one](https://blog.flipperzero.one)
- - date published: 2023-10-25T20:51:58.988894+00:00
- - user: None
- - tags: []
-
-## Flipper Zero — Portable Multi-tool Device for Geeks
- - [https://flipperzero.one](https://flipperzero.one)
- - date published: 2023-11-22T17:23:10+00:00
- - user: rumpel
- - tags: ['hardware', 'hardware hacking', 'hacking']
-
-## Flipper Zero Shop
- - [https://shop.flipperzero.one](https://shop.flipperzero.one)
- - date published: 2024-02-21T06:33:11.339651+00:00
  - user: None
  - tags: []
 

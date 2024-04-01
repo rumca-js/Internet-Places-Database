@@ -1,3 +1,147 @@
+## InternetNZ Status
+ - [https://status.internetnz.nz](https://status.internetnz.nz)
+ - date published: 2023-10-25T20:51:22.956753+00:00
+ - user: None
+ - tags: []
+
+## is this it?
+ - [https://isthisit.nz](https://isthisit.nz)
+ - date published: 2023-10-25T20:51:24.181241+00:00
+ - user: None
+ - tags: []
+
+## Jeremy Baker
+ - [https://www.jeremybaker.nz](https://www.jeremybaker.nz)
+ - date published: 2024-02-02T18:14:31.907184+00:00
+ - user: None
+ - tags: []
+
+## Welcome! - Matt Brown
+ - [https://www.mattb.nz](https://www.mattb.nz)
+ - date published: 2023-10-25T20:51:25.148571+00:00
+ - user: None
+ - tags: []
+
+## Tim McNamara (@timClicks)
+ - [https://tim.mcnamara.nz](https://tim.mcnamara.nz)
+ - date published: 2023-10-25T20:51:26.754354+00:00
+ - user: None
+ - tags: []
+
+## MEGA
+ - [https://mega.nz](https://mega.nz)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['file hosting', 'file send', 'free cloud storage']
+
+## Constant Meiring
+ - [https://constant.meiring.nz](https://constant.meiring.nz)
+ - date published: 2023-10-25T20:51:27.602839+00:00
+ - user: None
+ - tags: []
+
+## Mobile made for you. One NZ.
+ - [https://one.nz](https://one.nz)
+ - date published: 2023-10-27T12:06:21.792668+00:00
+ - user: None
+ - tags: []
+
+## Scuttlebutt social network: a decentralised platform
+ - [https://scuttlebutt.nz](https://scuttlebutt.nz)
+ - date published: 2024-02-23T19:14:18+00:00
+ - user: None
+ - tags: []
+
+## Serena Chen
+ - [https://serena.nz](https://serena.nz)
+ - date published: 2024-01-11T12:23:11.834075+00:00
+ - user: None
+ - tags: []
+
+## Te Awamutu Space Centre
+ - [https://www.spacecentre.nz](https://www.spacecentre.nz)
+ - date published: 2023-10-25T20:51:43.027687+00:00
+ - user: None
+ - tags: []
+
+## WEBSAM.NZ |
+ - [https://websam.nz](https://websam.nz)
+ - date published: 2024-02-14T08:43:34.578551+00:00
+ - user: None
+ - tags: ['personal']
+
+## Asia Media Centre | Helping New Zealand media cover Asia
+ - [https://www.asiamediacentre.org.nz](https://www.asiamediacentre.org.nz)
+ - date published: 2023-10-25T20:51:53.621097+00:00
+ - user: None
+ - tags: []
+
+## Christ Church Cathedral Rebuild | Reinstatement Project
+ - [https://christchurchcathedral.org.nz](https://christchurchcathedral.org.nz)
+ - date published: 2021-08-20T01:27:26+00:00
+ - user: None
+ - tags: []
+
+## My Playlist
+ - [https://www.circuit.org.nz](https://www.circuit.org.nz)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://www.privacy.org.nz
+ - [https://www.privacy.org.nz](https://www.privacy.org.nz)
+ - date published: 2024-01-09T03:38:02.730564+00:00
+ - user: None
+ - tags: []
+
+## WasteNet Southland
+ - [https://www.wastenet.org.nz](https://www.wastenet.org.nz)
+ - date published: 2024-02-08T17:46:48.890625+00:00
+ - user: None
+ - tags: []
+
+## Ian's blog | entropy.observer
+ - [https://blog.entropy.observer](https://blog.entropy.observer)
+ - date published: 2023-10-25T20:51:56.441202+00:00
+ - user: None
+ - tags: []
+
+## ABlog
+ - [https://blog.ablaze.one](https://blog.ablaze.one)
+ - date published: 2024-03-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ambiphone. ambient music + sounds for work, study and relaxation.
+ - [https://ambiph.one](https://ambiph.one)
+ - date published: 2024-01-03T18:03:56.464502+00:00
+ - user: None
+ - tags: []
+
+## Deadstar.one
+ - [https://deadstar.one](https://deadstar.one)
+ - date published: 2022-07-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Flipper Blog
+ - [https://blog.flipperzero.one](https://blog.flipperzero.one)
+ - date published: 2023-10-25T20:51:58.988894+00:00
+ - user: None
+ - tags: []
+
+## Flipper Zero — Portable Multi-tool Device for Geeks
+ - [https://flipperzero.one](https://flipperzero.one)
+ - date published: 2023-11-22T17:23:10+00:00
+ - user: rumpel
+ - tags: ['hardware', 'hardware hacking', 'hacking']
+
+## Flipper Zero Shop
+ - [https://shop.flipperzero.one](https://shop.flipperzero.one)
+ - date published: 2024-02-21T06:33:11.339651+00:00
+ - user: None
+ - tags: []
+
 ## Installati.one
  - [https://installati.one](https://installati.one)
  - date published: 2023-11-19T12:07:10+00:00
@@ -485,14 +629,14 @@
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -899,16 +1043,16 @@
  - tags: []
 
 ## AlxQ
- - [https://alxq.org](https://alxq.org)
- - date published: 2024-02-15T22:12:28.937827+00:00
- - user: None
- - tags: ['demoscene']
-
-## AlxQ
  - [http://alxq.org](http://alxq.org)
  - date published: 2024-02-11T13:39:19.641138+00:00
  - user: None
  - tags: []
+
+## AlxQ
+ - [https://alxq.org](https://alxq.org)
+ - date published: 2024-02-15T22:12:28.937827+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Alys Stephens Center - Home
  - [https://www.alysstephens.org](https://www.alysstephens.org)
@@ -1516,17 +1660,17 @@
  - user: None
  - tags: []
 
-## Internet Archive: Secret service
- - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
- - date published: 2023-10-27T14:37:50+00:00
- - user: rumpel
- - tags: ['retro', 'magazine']
-
 ## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
  - [https://archive.org](https://archive.org)
  - date published: 2023-10-25T09:29:04.093943+00:00
  - user: None
  - tags: ['internet archive', 'digital library']
+
+## Internet Archive: Secret service
+ - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
+ - date published: 2023-10-27T14:37:50+00:00
+ - user: rumpel
+ - tags: ['retro', 'magazine']
 
 ## Internet Archive Blogs | A blog from the team at archive.org
  - [https://blog.archive.org](https://blog.archive.org)
@@ -2061,13 +2205,13 @@
  - tags: ['web browser']
 
 ## BatMUD
- - [http://www.bat.org](http://www.bat.org)
+ - [https://www.bat.org](https://www.bat.org)
  - date published: 1990-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## BatMUD
- - [https://www.bat.org](https://www.bat.org)
+ - [http://www.bat.org](http://www.bat.org)
  - date published: 1990-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -3111,14 +3255,14 @@
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [http://blog.cerowrt.org](http://blog.cerowrt.org)
- - date published: 2024-02-25T15:50:51.524978+00:00
+ - [https://blog.cerowrt.org](https://blog.cerowrt.org)
+ - date published: 2023-10-25T21:06:57.314728+00:00
  - user: None
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [https://blog.cerowrt.org](https://blog.cerowrt.org)
- - date published: 2023-10-25T21:06:57.314728+00:00
+ - [http://blog.cerowrt.org](http://blog.cerowrt.org)
+ - date published: 2024-02-25T15:50:51.524978+00:00
  - user: None
  - tags: []
 
@@ -3971,14 +4115,14 @@
  - tags: []
 
 ## Homepage - Creative Commons
- - [http://creativecommons.org](http://creativecommons.org)
- - date published: 2024-03-21T07:44:18.617797+00:00
+ - [https://creativecommons.org](https://creativecommons.org)
+ - date published: 2023-12-11T16:22:52.219620+00:00
  - user: None
  - tags: []
 
 ## Homepage - Creative Commons
- - [https://creativecommons.org](https://creativecommons.org)
- - date published: 2023-12-11T16:22:52.219620+00:00
+ - [http://creativecommons.org](http://creativecommons.org)
+ - date published: 2024-03-21T07:44:18.617797+00:00
  - user: None
  - tags: []
 
@@ -4157,16 +4301,16 @@
  - tags: []
 
 ## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
- - [http://cvsgui.org](http://cvsgui.org)
- - date published: 2024-03-05T00:16:31.622060+00:00
- - user: None
- - tags: []
-
-## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
  - [https://cvsgui.org](https://cvsgui.org)
  - date published: 2024-03-04T12:06:02+00:00
  - user: rumpel
  - tags: ['control version system', 'program', 'vcs', 'open source']
+
+## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
+ - [http://cvsgui.org](http://cvsgui.org)
+ - date published: 2024-03-05T00:16:31.622060+00:00
+ - user: None
+ - tags: []
 
 ## California Water Environment Association | Champions of Wastewater
  - [https://www.cwea.org](https://www.cwea.org)
@@ -5063,6 +5207,12 @@
  - user: None
  - tags: []
 
+## 10.3
+ - [https://dystroy.org](https://dystroy.org)
+ - date published: 2007-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Earth.Org
  - [https://earth.org](https://earth.org)
  - date published: 2024-02-24T18:06:37.687710+00:00
@@ -5507,15 +5657,15 @@
  - user: None
  - tags: []
 
-## Ergaster
- - [http://ergaster.org](http://ergaster.org)
- - date published: 2024-02-26T14:07:11.647181+00:00
- - user: None
- - tags: []
-
 ## Thib's Home
  - [https://ergaster.org](https://ergaster.org)
  - date published: 2023-10-25T21:18:23.232043+00:00
+ - user: None
+ - tags: []
+
+## Ergaster
+ - [http://ergaster.org](http://ergaster.org)
+ - date published: 2024-02-26T14:07:11.647181+00:00
  - user: None
  - tags: []
 
@@ -5858,156 +6008,6 @@
 ## Home | Federal Reserve History
  - [https://www.federalreservehistory.org](https://www.federalreservehistory.org)
  - date published: 2023-10-25T21:20:14.023107+00:00
- - user: None
- - tags: []
-
-## FediScience.org
- - [https://fediscience.org](https://fediscience.org)
- - date published: 2023-10-25T21:20:14.575500+00:00
- - user: None
- - tags: []
-
-## Fedora Magazine - Guides, information, and news about the Fedora operating system for users, developers, system administrators, and community members.
- - [https://fedoramagazine.org](https://fedoramagazine.org)
- - date published: 2023-10-25T21:20:17.331969+00:00
- - user: None
- - tags: ['fedora linux']
-
-## Fedora Updates System
- - [https://bodhi.fedoraproject.org](https://bodhi.fedoraproject.org)
- - date published: 2023-10-25T21:20:23.751445+00:00
- - user: None
- - tags: []
-
-## Fedora Discussion
- - [https://discussion.fedoraproject.org](https://discussion.fedoraproject.org)
- - date published: 2024-03-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Fedora Linux
- - [https://fedoraproject.org](https://fedoraproject.org)
- - date published: 2023-11-12T00:21:07.905097+00:00
- - user: None
- - tags: []
-
-## Available lists - Fedora Mailing-Lists
- - [https://lists.fedoraproject.org](https://lists.fedoraproject.org)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - src.fedoraproject.org
- - [https://src.fedoraproject.org](https://src.fedoraproject.org)
- - date published: 2019-02-06T00:00:00+00:00
- - user: rumpel
- - tags: ['fedora linux']
-
-## Fedora Linux | The Fedora Project
- - [https://www.fedoraproject.org](https://www.fedoraproject.org)
- - date published: 2023-10-25T08:32:14.208110+00:00
- - user: None
- - tags: ['operating system']
-
-## Home - Foundation for Economic Education
- - [https://fee.org](https://fee.org)
- - date published: 2023-10-25T21:20:25.430776+00:00
- - user: None
- - tags: []
-
-## Feedbase
- - [https://feedbase.org](https://feedbase.org)
- - date published: 2023-10-25T21:20:26.634084+00:00
- - user: None
- - tags: []
-
-## Feet First Philly
- - [https://feetfirstphilly.org](https://feetfirstphilly.org)
- - date published: 2024-02-08T16:50:23.733268+00:00
- - user: None
- - tags: []
-
-## Fe - A next generation, statically typed, future-proof smart contract language for the Ethereum Virtual Machine
- - [https://fe-lang.org](https://fe-lang.org)
- - date published: 2023-10-25T21:20:12.316273+00:00
- - user: None
- - tags: []
-
-## feldspaten
- - [https://feldspaten.org](https://feldspaten.org)
- - date published: 2023-10-25T21:20:28.648981+00:00
- - user: None
- - tags: []
-
-## Home of Feross Aboukhadijeh » Feross.org
- - [https://feross.org](https://feross.org)
- - date published: 2023-12-21T18:22:00.287890+00:00
- - user: None
- - tags: ['personal']
-
-## F.F.A.M. – Fire Fighters Association of Missouri
- - [https://www.ffam.org](https://www.ffam.org)
- - date published: 2024-03-06T16:18:52.729627+00:00
- - user: None
- - tags: []
-
-## www.ffept.org / Fédération Francophone pour l'Elevage et la Protection de la Tortue
- - [https://www.ffept.org](https://www.ffept.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## FFII | Foundation for a Free Information Infrastructure information on software patents, enforcement of IP, trade agreements
- - [https://ffii.org](https://ffii.org)
- - date published: 2023-10-25T21:20:31.744673+00:00
- - user: None
- - tags: ['patents', 'standards']
-
-## FFmpeg
- - [https://ffmpeg.org](https://ffmpeg.org)
- - date published: 2023-10-25T21:20:33.094820+00:00
- - user: None
- - tags: []
-
-## FFmpeg
- - [https://www.ffmpeg.org](https://www.ffmpeg.org)
- - date published: 2023-10-25T21:20:34.755297+00:00
- - user: None
- - tags: []
-
-## FIDO Alliance
- - [https://fidoalliance.org](https://fidoalliance.org)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Fifth Estate - Radical publishing since 1965
- - [https://www.fifthestate.org](https://www.fifthestate.org)
- - date published: 2023-10-25T21:20:45.587600+00:00
- - user: None
- - tags: []
-
-## Baraboo WI Lawyers | Sauk County Attorneys Practicing Criminal Defense, Divorce and Family Law, Civil Litigation | Wisconsin Dells Lake Delton Office | Adams, Juneau, and Columbia County, WI | Englund & Associates Law Office LLC
- - [https://www.fiftythree.org](https://www.fiftythree.org)
- - date published: 2024-01-09T03:39:29.033483+00:00
- - user: None
- - tags: []
-
-## Filecoin Foundation
- - [https://fil.org](https://fil.org)
- - date published: 2024-01-16T14:56:41.881668+00:00
- - user: None
- - tags: []
-
-## Tell HN: "Default" FileZilla download bundled with adware
- - [https://filezilla-project.org](https://filezilla-project.org)
- - date published: 2024-03-06T08:53:09+00:00
- - user: None
- - tags: ['ftp']
-
-## Religious Teachers Filippini - Home
- - [https://www.filippiniusa.org](https://www.filippiniusa.org)
- - date published: 2024-02-08T17:06:24.614509+00:00
  - user: None
  - tags: []
 
