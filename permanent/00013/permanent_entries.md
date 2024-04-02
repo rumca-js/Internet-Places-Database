@@ -1,3 +1,87 @@
+## The AI Underwriter | Otakar G. Hubschmann | Substack
+ - [https://theaiunderwriter.substack.com](https://theaiunderwriter.substack.com)
+ - date published: 2023-10-25T10:05:29.847109+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Algorithmic Bridge | Alberto Romero | Substack
+ - [https://thealgorithmicbridge.substack.com](https://thealgorithmicbridge.substack.com)
+ - date published: 2023-11-18T13:29:05.300485+00:00
+ - user: None
+ - tags: []
+
+## The AP (Alex Pareene) Newsletter | Substack
+ - [http://theap.substack.com](http://theap.substack.com)
+ - date published: 2024-02-26T13:31:20.114189+00:00
+ - user: None
+ - tags: []
+
+## The AP (Alex Pareene) Newsletter | Substack
+ - [https://theap.substack.com](https://theap.substack.com)
+ - date published: 2024-01-09T01:44:55.633176+00:00
+ - user: None
+ - tags: []
+
+## The Builder JR’s Newsletter | Substack
+ - [https://thebuilderjr.substack.com](https://thebuilderjr.substack.com)
+ - date published: 2024-01-09T01:45:03.099174+00:00
+ - user: None
+ - tags: []
+
+## The Chip Letter | Babbage | Substack
+ - [http://thechipletter.substack.com](http://thechipletter.substack.com)
+ - date published: 2024-01-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Chip Letter | Babbage | Substack
+ - [https://thechipletter.substack.com](https://thechipletter.substack.com)
+ - date published: 2023-10-25T10:05:37.013524+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Climate Brink | Andrew Dessler | Substack
+ - [https://theclimatebrink.substack.com](https://theclimatebrink.substack.com)
+ - date published: 2023-10-25T10:05:41.214841+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Column  | Adam Johnson | Substack
+ - [https://thecolumn.substack.com](https://thecolumn.substack.com)
+ - date published: 2023-10-25T10:05:48.708696+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Convivial Society | L. M. Sacasas | Substack
+ - [http://theconvivialsociety.substack.com](http://theconvivialsociety.substack.com)
+ - date published: 2024-02-26T13:38:45.337233+00:00
+ - user: None
+ - tags: []
+
+## The Convivial Society | L. M. Sacasas | Substack
+ - [https://theconvivialsociety.substack.com](https://theconvivialsociety.substack.com)
+ - date published: 2024-01-09T01:45:04.895361+00:00
+ - user: None
+ - tags: []
+
+## The Egg And The Rock | Julian Gough | Substack
+ - [https://theeggandtherock.substack.com](https://theeggandtherock.substack.com)
+ - date published: 2024-01-09T01:45:12.611281+00:00
+ - user: None
+ - tags: []
+
+## The Exit Game | Mujavid Bukhari | Substack
+ - [https://theexitgame.substack.com](https://theexitgame.substack.com)
+ - date published: 2024-01-09T01:45:15.805900+00:00
+ - user: None
+ - tags: []
+
+## The Exit Game | Mujavid Bukhari | Substack
+ - [http://theexitgame.substack.com](http://theexitgame.substack.com)
+ - date published: 2024-02-26T13:42:45.081299+00:00
+ - user: None
+ - tags: []
+
 ## The Gauntlet | Julia Doubleday | Substack
  - [https://thegauntlet.substack.com](https://thegauntlet.substack.com)
  - date published: 2023-10-25T10:05:59.859496+00:00
@@ -35,26 +119,26 @@
  - tags: ['substack']
 
 ## The Rectangle | Callum Booth | Substack
- - [http://therectangle.substack.com](http://therectangle.substack.com)
- - date published: 2024-02-26T13:56:36.536300+00:00
- - user: None
- - tags: []
-
-## The Rectangle | Callum Booth | Substack
  - [https://therectangle.substack.com](https://therectangle.substack.com)
  - date published: 2024-01-09T01:45:25.693485+00:00
  - user: None
  - tags: []
 
-## TheSequence | Jesus Rodriguez | Substack
- - [https://thesequence.substack.com](https://thesequence.substack.com)
- - date published: 2024-01-09T01:45:33.787078+00:00
+## The Rectangle | Callum Booth | Substack
+ - [http://therectangle.substack.com](http://therectangle.substack.com)
+ - date published: 2024-02-26T13:56:36.536300+00:00
  - user: None
  - tags: []
 
 ## TheSequence | Jesus Rodriguez | Substack
  - [http://thesequence.substack.com](http://thesequence.substack.com)
  - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## TheSequence | Jesus Rodriguez | Substack
+ - [https://thesequence.substack.com](https://thesequence.substack.com)
+ - date published: 2024-01-09T01:45:33.787078+00:00
  - user: None
  - tags: []
 
@@ -125,14 +209,14 @@
  - tags: ['substack']
 
 ## Tilting At Windmills | Tom Knighton | Substack
- - [https://tomknighton.substack.com](https://tomknighton.substack.com)
- - date published: 2024-01-09T01:45:38.631800+00:00
+ - [http://tomknighton.substack.com](http://tomknighton.substack.com)
+ - date published: 2024-02-26T14:08:51.010440+00:00
  - user: None
  - tags: []
 
 ## Tilting At Windmills | Tom Knighton | Substack
- - [http://tomknighton.substack.com](http://tomknighton.substack.com)
- - date published: 2024-02-26T14:08:51.010440+00:00
+ - [https://tomknighton.substack.com](https://tomknighton.substack.com)
+ - date published: 2024-01-09T01:45:38.631800+00:00
  - user: None
  - tags: []
 
@@ -251,14 +335,14 @@
  - tags: ['substack']
 
 ## visa's voltaic verses ⚡️ | visakan veerasamy | Substack
- - [http://visakanv.substack.com](http://visakanv.substack.com)
- - date published: 2024-01-08T00:00:00+00:00
+ - [https://visakanv.substack.com](https://visakanv.substack.com)
+ - date published: 2024-01-09T00:13:02.520095+00:00
  - user: None
  - tags: []
 
 ## visa's voltaic verses ⚡️ | visakan veerasamy | Substack
- - [https://visakanv.substack.com](https://visakanv.substack.com)
- - date published: 2024-01-09T00:13:02.520095+00:00
+ - [http://visakanv.substack.com](http://visakanv.substack.com)
+ - date published: 2024-01-08T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -359,14 +443,14 @@
  - tags: []
 
 ## Wittgenfine’s Word | Substack
- - [https://wittgenfine.substack.com](https://wittgenfine.substack.com)
- - date published: 2024-01-09T01:46:04.050317+00:00
+ - [http://wittgenfine.substack.com](http://wittgenfine.substack.com)
+ - date published: 2024-02-26T14:34:19.819393+00:00
  - user: None
  - tags: []
 
 ## Wittgenfine’s Word | Substack
- - [http://wittgenfine.substack.com](http://wittgenfine.substack.com)
- - date published: 2024-02-26T14:34:19.819393+00:00
+ - [https://wittgenfine.substack.com](https://wittgenfine.substack.com)
+ - date published: 2024-01-09T01:46:04.050317+00:00
  - user: None
  - tags: []
 
@@ -377,14 +461,14 @@
  - tags: []
 
 ## Wood From Eden | Anders L | Substack
- - [https://woodfromeden.substack.com](https://woodfromeden.substack.com)
- - date published: 2024-01-09T01:46:05.713860+00:00
+ - [http://woodfromeden.substack.com](http://woodfromeden.substack.com)
+ - date published: 2024-02-26T14:34:40.396332+00:00
  - user: None
  - tags: []
 
 ## Wood From Eden | Anders L | Substack
- - [http://woodfromeden.substack.com](http://woodfromeden.substack.com)
- - date published: 2024-02-26T14:34:40.396332+00:00
+ - [https://woodfromeden.substack.com](https://woodfromeden.substack.com)
+ - date published: 2024-01-09T01:46:05.713860+00:00
  - user: None
  - tags: []
 
@@ -431,14 +515,14 @@
  - tags: []
 
 ## Simon's Blog | Simon Farshid | Substack
- - [https://yonom.substack.com](https://yonom.substack.com)
- - date published: 2024-01-09T01:46:10.208730+00:00
+ - [http://yonom.substack.com](http://yonom.substack.com)
+ - date published: 2024-02-26T12:59:31.184768+00:00
  - user: None
  - tags: []
 
 ## Simon's Blog | Simon Farshid | Substack
- - [http://yonom.substack.com](http://yonom.substack.com)
- - date published: 2024-02-26T12:59:31.184768+00:00
+ - [https://yonom.substack.com](https://yonom.substack.com)
+ - date published: 2024-01-09T01:46:10.208730+00:00
  - user: None
  - tags: []
 
@@ -502,15 +586,15 @@
  - user: None
  - tags: []
 
-## zverok on lucid code | Victor Shepelev aka zverok | Substack
- - [http://zverok.substack.com](http://zverok.substack.com)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
 ## https://zverok.substack.com
  - [https://zverok.substack.com](https://zverok.substack.com)
  - date published: 2024-01-23T03:19:16.516653+00:00
+ - user: None
+ - tags: []
+
+## zverok on lucid code | Victor Shepelev aka zverok | Substack
+ - [http://zverok.substack.com](http://zverok.substack.com)
+ - date published: 2024-01-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1247,14 +1331,14 @@
  - tags: []
 
 ## Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.
- - [http://tailwindcss.com](http://tailwindcss.com)
- - date published: 2024-02-26T13:24:25.152616+00:00
+ - [https://tailwindcss.com](https://tailwindcss.com)
+ - date published: 2023-10-25T17:22:25.981083+00:00
  - user: None
  - tags: []
 
 ## Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.
- - [https://tailwindcss.com](https://tailwindcss.com)
- - date published: 2023-10-25T17:22:25.981083+00:00
+ - [http://tailwindcss.com](http://tailwindcss.com)
+ - date published: 2024-02-26T13:24:25.152616+00:00
  - user: None
  - tags: []
 
@@ -1360,15 +1444,15 @@
  - user: None
  - tags: []
 
-## Tampa Bay, Florida news | Tampa Bay Times/St. Pete Times
- - [https://www.tampabay.com](https://www.tampabay.com)
- - date published: 2023-10-25T17:22:55.890764+00:00
- - user: None
- - tags: []
-
 ## Tampa Bay, Florida news | Tampa Bay Times/St. Pete Times | Tampa Bay Times
  - [http://www.tampabay.com](http://www.tampabay.com)
  - date published: 2024-02-24T09:59:55.862386+00:00
+ - user: None
+ - tags: []
+
+## Tampa Bay, Florida news | Tampa Bay Times/St. Pete Times
+ - [https://www.tampabay.com](https://www.tampabay.com)
+ - date published: 2023-10-25T17:22:55.890764+00:00
  - user: None
  - tags: []
 
@@ -2351,14 +2435,14 @@
  - tags: []
 
 ## ASCII by Jason Scott
- - [http://ascii.textfiles.com](http://ascii.textfiles.com)
- - date published: 2024-02-02T00:00:00+00:00
+ - [https://ascii.textfiles.com](https://ascii.textfiles.com)
+ - date published: 2024-01-09T02:50:36.905624+00:00
  - user: None
  - tags: []
 
 ## ASCII by Jason Scott
- - [https://ascii.textfiles.com](https://ascii.textfiles.com)
- - date published: 2024-01-09T02:50:36.905624+00:00
+ - [http://ascii.textfiles.com](http://ascii.textfiles.com)
+ - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4080,15 +4164,15 @@
  - user: None
  - tags: []
 
-## Enterprise Technology News and Analysis
- - [http://www.theregister.com](http://www.theregister.com)
- - date published: 2024-02-26T13:56:43.064822+00:00
- - user: None
- - tags: []
-
 ## The Register: Enterprise Technology News and Analysis
  - [https://www.theregister.com](https://www.theregister.com)
  - date published: 2023-10-25T10:29:03.269877+00:00
+ - user: None
+ - tags: []
+
+## Enterprise Technology News and Analysis
+ - [http://www.theregister.com](http://www.theregister.com)
+ - date published: 2024-02-26T13:56:43.064822+00:00
  - user: None
  - tags: []
 
@@ -4874,16 +4958,16 @@
  - tags: ['personal']
 
 ## Thought Of Art
- - [https://www.thoughtofart.com](https://www.thoughtofart.com)
- - date published: 2023-12-03T01:43:10.562711+00:00
- - user: None
- - tags: []
-
-## Thought Of Art
  - [http://www.thoughtofart.com](http://www.thoughtofart.com)
  - date published: 2023-12-23T19:26:51.192455+00:00
  - user: None
  - tags: ['personal']
+
+## Thought Of Art
+ - [https://www.thoughtofart.com](https://www.thoughtofart.com)
+ - date published: 2023-12-03T01:43:10.562711+00:00
+ - user: None
+ - tags: []
 
 ## Digital Experience Monitoring | ThousandEyes
  - [https://www.thousandeyes.com](https://www.thousandeyes.com)
@@ -5200,14 +5284,14 @@
  - tags: ['personal']
 
 ## TimDbg
- - [http://www.timdbg.com](http://www.timdbg.com)
- - date published: 2024-01-18T00:00:00+00:00
+ - [https://www.timdbg.com](https://www.timdbg.com)
+ - date published: 2023-10-25T17:42:00.344194+00:00
  - user: None
  - tags: []
 
 ## TimDbg
- - [https://www.timdbg.com](https://www.timdbg.com)
- - date published: 2023-10-25T17:42:00.344194+00:00
+ - [http://www.timdbg.com](http://www.timdbg.com)
+ - date published: 2024-01-18T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5916,90 +6000,6 @@
 ## toronto.com | Latest Daily Breaking News Stories
  - [http://www.toronto.com](http://www.toronto.com)
  - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Toronto Life
- - [https://torontolife.com](https://torontolife.com)
- - date published: 2023-10-25T17:44:44.016018+00:00
- - user: None
- - tags: []
-
-## Home | Toronto Sun Home Page | Toronto Sun
- - [https://torontosun.com](https://torontosun.com)
- - date published: 2023-10-25T17:44:56.380706+00:00
- - user: None
- - tags: []
-
-## TorrentFreak - News
- - [https://torrentfreak.com](https://torrentfreak.com)
- - date published: 2023-10-25T17:44:57.688554+00:00
- - user: None
- - tags: ['privacy', 'news']
-
-## Home - Torrington Telegram
- - [https://www.torringtontelegram.com](https://www.torringtontelegram.com)
- - date published: 2024-03-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Tortoise
- - [https://www.tortoisemedia.com](https://www.tortoisemedia.com)
- - date published: 2023-10-31T04:18:45.594409+00:00
- - user: None
- - tags: ['news', 'politic news']
-
-## home
- - [https://tosatur.com](https://tosatur.com)
- - date published: 2024-01-28T23:15:50.482487+00:00
- - user: None
- - tags: []
-
-## Tosbourn – Belfast based Ruby developers
- - [https://tosbourn.com](https://tosbourn.com)
- - date published: 2024-01-06T08:56:21.590129+00:00
- - user: None
- - tags: []
-
-## ToS Notify
- - [https://tosnotify.com](https://tosnotify.com)
- - date published: 2023-10-25T17:44:58.740805+00:00
- - user: None
- - tags: []
-
-## Totality of Evidence Home
- - [https://totalityofevidence.com](https://totalityofevidence.com)
- - date published: 2023-10-25T17:45:02.485633+00:00
- - user: None
- - tags: []
-
-## JavaScript libraries and components for web development - Total.js Platform
- - [https://www.totaljs.com](https://www.totaljs.com)
- - date published: 2023-10-25T17:45:03.509721+00:00
- - user: None
- - tags: []
-
-## Professional TypeScript Training by Matt Pocock  | Total TypeScript
- - [https://www.totaltypescript.com](https://www.totaltypescript.com)
- - date published: 2023-10-25T17:45:05.114856+00:00
- - user: None
- - tags: []
-
-## Touch Pianist - Magical Piano App
- - [https://touchpianist.com](https://touchpianist.com)
- - date published: 2023-10-25T08:35:08.517593+00:00
- - user: None
- - tags: []
-
-## Destination Rennes - Office de Tourisme
- - [https://www.tourisme-rennes.com](https://www.tourisme-rennes.com)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## tourmobile.com
- - [https://www.tourmobile.com](https://www.tourmobile.com)
- - date published: 2024-02-08T17:43:32.216272+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,15 @@
+## BizToc
+ - [https://biztoc.com](https://biztoc.com)
+ - date published: 2023-10-25T13:03:10.940595+00:00
+ - user: None
+ - tags: []
+
+## The Angry Dev · Darren Horrocks explains various Programming and DevOps practices, with some guides, explanations and ramblings from a sometimes angry man
+ - [https://bizzeh.com](https://bizzeh.com)
+ - date published: 2023-10-25T13:03:14.509269+00:00
+ - user: None
+ - tags: []
+
 ## Bjango
  - [https://bjango.com](https://bjango.com)
  - date published: 2023-10-25T13:03:16.353965+00:00
@@ -5997,16 +6009,4 @@
  - date published: 2023-11-13T11:22:17.094957+00:00
  - user: None
  - tags: ['company']
-
-## The Coca-Cola Company: Refresh the World. Make a Difference
- - [https://www.coca-colacompany.com](https://www.coca-colacompany.com)
- - date published: 2023-11-13T11:22:05.154979+00:00
- - user: None
- - tags: ['company']
-
-## Cockroach Labs, the company building CockroachDB
- - [https://www.cockroachlabs.com](https://www.cockroachlabs.com)
- - date published: 2023-10-25T13:27:27.502510+00:00
- - user: None
- - tags: []
 

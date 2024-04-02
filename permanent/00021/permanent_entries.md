@@ -1,3 +1,129 @@
+## Aftersleep Travel Log
+ - [http://www.hat.net](http://www.hat.net)
+ - date published: 2023-10-27T11:37:41.993043+00:00
+ - user: None
+ - tags: ['personal']
+
+## HaxPC - Download Cracked PC Software
+ - [https://haxpc.net](https://haxpc.net)
+ - date published: 2024-03-19T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
+## Hazlitt
+ - [https://hazlitt.net](https://hazlitt.net)
+ - date published: 2023-10-25T20:31:25.130401+00:00
+ - user: None
+ - tags: []
+
+## Self-Serve Ad Platform | Heart Bid is at Your Service
+ - [https://heartbid.net](https://heartbid.net)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Email Deliverability Checklist & Toolkit for Marketers
+ - [https://www.helloinbox.net](https://www.helloinbox.net)
+ - date published: 2024-01-09T01:36:36.095516+00:00
+ - user: None
+ - tags: []
+
+## Herbert Lui - Blog on creativity, marketing, and the human condition.
+ - [https://herbertlui.net](https://herbertlui.net)
+ - date published: 2024-03-22T00:00:00+00:00
+ - user: rumpel
+ - tags: ['personal', 'blog']
+
+## Index & News — hermiene.net
+ - [https://hermiene.net](https://hermiene.net)
+ - date published: 2023-10-25T08:52:43.448249+00:00
+ - user: None
+ - tags: ['personal']
+
+## HERO Movement » Online Movement + Mobility Training » Luke Jones
+ - [https://heromovement.net](https://heromovement.net)
+ - date published: 2023-11-29T15:52:09.795783+00:00
+ - user: None
+ - tags: ['personal']
+
+## HERO Movement » Online Movement + Mobility Training » Luke Jones
+ - [https://www.heromovement.net](https://www.heromovement.net)
+ - date published: 2024-02-25T20:35:31.887603+00:00
+ - user: None
+ - tags: []
+
+## HEXUS.net - Definitive Technology News and Reviews
+ - [http://hexus.net](http://hexus.net)
+ - date published: 2024-02-25T20:35:33.294351+00:00
+ - user: None
+ - tags: []
+
+## HEXUS.net - Definitive Technology News and Reviews
+ - [https://hexus.net](https://hexus.net)
+ - date published: 2023-10-25T20:31:28.683808+00:00
+ - user: None
+ - tags: []
+
+## History Defined
+ - [https://www.historydefined.net](https://www.historydefined.net)
+ - date published: 2023-10-25T20:31:31.894518+00:00
+ - user: None
+ - tags: []
+
+## Sci-Hub
+ - [https://sci-hubtw.hkvisa.net](https://sci-hubtw.hkvisa.net)
+ - date published: 2023-10-25T20:31:32.809393+00:00
+ - user: None
+ - tags: []
+
+## hllmn.net
+ - [https://hllmn.net](https://hllmn.net)
+ - date published: 2023-10-25T20:31:33.334908+00:00
+ - user: None
+ - tags: []
+
+## https://steve.hollasch.net
+ - [https://steve.hollasch.net](https://steve.hollasch.net)
+ - date published: 2024-01-09T03:35:35.301545+00:00
+ - user: None
+ - tags: []
+
+## The Silicon Underground - David L. Farquhar, computer security professional, train hobbyist, and landlord
+ - [https://dfarq.homeip.net](https://dfarq.homeip.net)
+ - date published: 2023-10-25T20:31:36.204722+00:00
+ - user: None
+ - tags: []
+
+## HomemadeTools.net                     - HomemadeTools.net
+ - [https://www.homemadetools.net](https://www.homemadetools.net)
+ - date published: 2024-02-08T22:16:12.003249+00:00
+ - user: None
+ - tags: []
+
+## Home of the Underdogs
+ - [https://www.homeoftheunderdogs.net](https://www.homeoftheunderdogs.net)
+ - date published: 2023-11-15T17:53:48.403610+00:00
+ - user: None
+ - tags: ['games', 'community']
+
+## HookRace Blog
+ - [https://hookrace.net](https://hookrace.net)
+ - date published: 2023-10-25T09:23:10.789042+00:00
+ - user: None
+ - tags: ['personal']
+
+## [HOPE XV] Welcome to Hackers On Planet Earth!
+ - [https://www.hope.net](https://www.hope.net)
+ - date published: 2024-01-23T19:08:02.452152+00:00
+ - user: None
+ - tags: ['hacking', 'community event']
+
+## Howard Gray
+ - [https://howardgray.net](https://howardgray.net)
+ - date published: 2023-12-20T05:38:59.905716+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Howard Gray
  - [https://www.howardgray.net](https://www.howardgray.net)
  - date published: 2024-02-25T20:46:35.738578+00:00
@@ -34,15 +160,15 @@
  - user: None
  - tags: []
 
-## iA - Home
- - [http://ia.net](http://ia.net)
- - date published: 2024-02-26T14:54:49.326176+00:00
- - user: None
- - tags: []
-
 ## Home – iA
  - [https://ia.net](https://ia.net)
  - date published: 2023-10-25T20:31:41.939052+00:00
+ - user: None
+ - tags: []
+
+## iA - Home
+ - [http://ia.net](http://ia.net)
+ - date published: 2024-02-26T14:54:49.326176+00:00
  - user: None
  - tags: []
 
@@ -287,14 +413,14 @@
  - tags: []
 
 ## Jeff Wise – science journalism
- - [http://www.jeffwise.net](http://www.jeffwise.net)
- - date published: 2024-02-25T18:50:47.946888+00:00
+ - [https://www.jeffwise.net](https://www.jeffwise.net)
+ - date published: 2024-01-11T04:04:31.223583+00:00
  - user: None
  - tags: []
 
 ## Jeff Wise – science journalism
- - [https://www.jeffwise.net](https://www.jeffwise.net)
- - date published: 2024-01-11T04:04:31.223583+00:00
+ - [http://www.jeffwise.net](http://www.jeffwise.net)
+ - date published: 2024-02-25T18:50:47.946888+00:00
  - user: None
  - tags: []
 
@@ -568,15 +694,15 @@
  - user: None
  - tags: ['personal']
 
-## None
- - [http://knowledgebottle.net](http://knowledgebottle.net)
- - date published: 2024-02-29T12:14:03.250410+00:00
- - user: None
- - tags: []
-
 ## http://knowledgebottle.net
  - [https://knowledgebottle.net](https://knowledgebottle.net)
  - date published: 2024-01-27T06:34:46.775964+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://knowledgebottle.net](http://knowledgebottle.net)
+ - date published: 2024-02-29T12:14:03.250410+00:00
  - user: None
  - tags: []
 
@@ -798,28 +924,28 @@
  - tags: ['demoscene']
 
 ## [Liquid DooM]
- - [http://liquiddoom.net](http://liquiddoom.net)
- - date published: 2024-02-11T14:38:30.795082+00:00
- - user: None
- - tags: ['doom', 'video game music']
-
-## [Liquid DooM]
  - [https://liquiddoom.net](https://liquiddoom.net)
  - date published: 2024-02-15T22:13:28.553273+00:00
  - user: None
  - tags: ['demoscene']
 
-## Liquipedia
- - [https://liquipedia.net](https://liquipedia.net)
- - date published: 2023-10-25T11:48:20.723694+00:00
+## [Liquid DooM]
+ - [http://liquiddoom.net](http://liquiddoom.net)
+ - date published: 2024-02-11T14:38:30.795082+00:00
  - user: None
- - tags: []
+ - tags: ['doom', 'video game music']
 
 ## Liquipedia
  - [http://liquipedia.net](http://liquipedia.net)
  - date published: 2024-03-04T03:54:24.553156+00:00
  - user: None
  - tags: ['esport']
+
+## Liquipedia
+ - [https://liquipedia.net](https://liquipedia.net)
+ - date published: 2023-10-25T11:48:20.723694+00:00
+ - user: None
+ - tags: []
 
 ## KeepCoding | KeepCoding
  - [https://en.liujiacai.net](https://en.liujiacai.net)
@@ -2406,6 +2532,12 @@
  - user: None
  - tags: []
 
+## Ray Gardner's space
+ - [https://www.raygard.net](https://www.raygard.net)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Internet Radio Directory - RCAST.NET
  - [https://dir.rcast.net](https://dir.rcast.net)
  - date published: 2024-02-15T22:12:42.066226+00:00
@@ -2983,16 +3115,16 @@
  - tags: []
 
 ## Matthias Monroy
- - [http://digit.so36.net](http://digit.so36.net)
- - date published: 2024-02-25T19:37:06.416405+00:00
- - user: None
- - tags: []
-
-## Matthias Monroy
  - [https://digit.so36.net](https://digit.so36.net)
  - date published: 2023-10-25T08:54:06.996729+00:00
  - user: None
  - tags: ['personal']
+
+## Matthias Monroy
+ - [http://digit.so36.net](http://digit.so36.net)
+ - date published: 2024-02-25T19:37:06.416405+00:00
+ - user: None
+ - tags: []
 
 ## SoByte
  - [https://www.sobyte.net](https://www.sobyte.net)
@@ -3702,15 +3834,15 @@
  - user: rumpel
  - tags: ['file send']
 
-## Transputer.net
- - [https://transputer.net](https://transputer.net)
- - date published: 2024-01-07T14:41:29+00:00
- - user: None
- - tags: []
-
 ## Welcome to transputer.net
  - [http://transputer.net](http://transputer.net)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Transputer.net
+ - [https://transputer.net](https://transputer.net)
+ - date published: 2024-01-07T14:41:29+00:00
  - user: None
  - tags: []
 
@@ -5658,6 +5790,12 @@
  - user: None
  - tags: []
 
+## Sciencenorway - Science News from Norway
+ - [https://www.sciencenorway.no](https://www.sciencenorway.no)
+ - date published: 2024-04-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## SECRET GARDEN
  - [https://www.secretgarden.no](https://www.secretgarden.no)
  - date published: 2023-11-13T11:05:43.854609+00:00
@@ -5860,144 +5998,6 @@ marginalia.nu
 ## New Zealand Cyber Security Blog | CyberCX
  - [https://blog.cybercx.co.nz](https://blog.cybercx.co.nz)
  - date published: 2023-10-25T20:49:21.245581+00:00
- - user: None
- - tags: []
-
-## Discombobulated
- - [https://discombobulated.co.nz](https://discombobulated.co.nz)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Google
- - [https://www.google.co.nz](https://www.google.co.nz)
- - date published: 2023-10-25T20:49:22.482071+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://menuaid.co.nz](https://menuaid.co.nz)
- - date published: 2024-02-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Niche Software - Niche Software
- - [https://www.nichesoftware.co.nz](https://www.nichesoftware.co.nz)
- - date published: 2023-10-25T20:49:26.344940+00:00
- - user: None
- - tags: []
-
-## NZ Herald: Latest NZ news, plus World, Sport, Business and more - NZ Herald
- - [https://www.nzherald.co.nz](https://www.nzherald.co.nz)
- - date published: 2023-10-25T20:50:14.328097+00:00
- - user: None
- - tags: []
-
-## Open to Grow
- - [https://opentogrow.co.nz](https://opentogrow.co.nz)
- - date published: 2024-01-01T03:40:17.027386+00:00
- - user: None
- - tags: ['personal']
-
-## Pulse Security
- - [https://pulsesecurity.co.nz](https://pulsesecurity.co.nz)
- - date published: 2023-10-25T20:50:15.343196+00:00
- - user: None
- - tags: []
-
-## Reseller News - The voice of the New Zealand IT channel
- - [https://www.reseller.co.nz](https://www.reseller.co.nz)
- - date published: 2023-10-25T20:50:24.511375+00:00
- - user: None
- - tags: []
-
-## RNZ - NZ News, Current Affairs, Audio On Demand
- - [https://www.rnz.co.nz](https://www.rnz.co.nz)
- - date published: 2023-10-25T20:50:30.480752+00:00
- - user: None
- - tags: []
-
-## Shop New Zealand
- - [https://www.shopnewzealand.co.nz](https://www.shopnewzealand.co.nz)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## NZ's Best Small Business Email Marketing Experts
- - [https://spike.co.nz](https://spike.co.nz)
- - date published: 2024-01-05T16:45:11.951213+00:00
- - user: None
- - tags: []
-
-## Latest breaking news NZ | Stuff.co.nz | New Zealand
- - [https://www.stuff.co.nz](https://www.stuff.co.nz)
- - date published: 2023-10-25T20:50:45.473515+00:00
- - user: None
- - tags: []
-
-## The Daily Examiner
- - [https://www.thedailyexaminer.co.nz](https://www.thedailyexaminer.co.nz)
- - date published: 2024-01-06T21:17:49.898981+00:00
- - user: None
- - tags: []
-
-## The Post
- - [https://www.thepost.co.nz](https://www.thepost.co.nz)
- - date published: 2023-11-27T08:54:31.962811+00:00
- - user: None
- - tags: []
-
-## Tidy Life Solutions: Home Organising and Decluttering Service Wellington
- - [https://www.tidylifesolutions.co.nz](https://www.tidylifesolutions.co.nz)
- - date published: 2024-01-11T17:08:10.216210+00:00
- - user: None
- - tags: []
-
-## Maori Geek
- - [https://maori.geek.nz](https://maori.geek.nz)
- - date published: 2023-10-25T20:50:54.301684+00:00
- - user: None
- - tags: []
-
-## Arabesque | Systems, Tools, and Terminal Science
- - [https://blog.sanctum.geek.nz](https://blog.sanctum.geek.nz)
- - date published: 2023-10-25T20:51:00.552568+00:00
- - user: None
- - tags: []
-
-## SmartView Christchurch
- - [https://smartview.ccc.govt.nz](https://smartview.ccc.govt.nz)
- - date published: 2023-10-25T20:51:03.510470+00:00
- - user: None
- - tags: []
-
-## http://www.nzsis.govt.nz
- - [http://www.nzsis.govt.nz](http://www.nzsis.govt.nz)
- - date published: 2024-02-07T15:33:41+00:00
- - user: rumpel
- - tags: ['new zealand security intelligence', 'security intelligence']
-
-## Te Ara Encyclopedia of New Zealand – Te Ara Encyclopedia of New Zealand
- - [https://teara.govt.nz](https://teara.govt.nz)
- - date published: 2023-10-25T20:51:07.098533+00:00
- - user: None
- - tags: []
-
-## home
- - [https://www.tepapa.govt.nz](https://www.tepapa.govt.nz)
- - date published: 2023-11-13T13:55:09.677844+00:00
- - user: None
- - tags: ['museum']
-
-## Cloud Island
- - [https://cloudisland.nz](https://cloudisland.nz)
- - date published: 2023-10-25T20:51:13.906554+00:00
- - user: None
- - tags: []
-
-## Home » InternetNZ
- - [https://internetnz.nz](https://internetnz.nz)
- - date published: 2023-10-25T20:51:16.741237+00:00
  - user: None
  - tags: []
 

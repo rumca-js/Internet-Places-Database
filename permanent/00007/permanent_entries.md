@@ -1,3 +1,33 @@
+## The Influence Association - Influence and effectiveness
+ - [https://influenceassociation.com](https://influenceassociation.com)
+ - date published: 2023-12-27T01:06:23.856215+00:00
+ - user: None
+ - tags: ['personal']
+
+## InfluxData Community Forums
+ - [https://community.influxdata.com](https://community.influxdata.com)
+ - date published: 2023-10-25T15:19:46.595606+00:00
+ - user: None
+ - tags: []
+
+## InfluxDB Times Series Data Platform | InfluxData
+ - [https://www.influxdata.com](https://www.influxdata.com)
+ - date published: 2023-10-25T15:19:50.191255+00:00
+ - user: None
+ - tags: []
+
+## Infobae América
+ - [https://www.infobae.com](https://www.infobae.com)
+ - date published: 2024-03-27T17:50:35.505279+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://xrss.infogulch.com](https://xrss.infogulch.com)
+ - date published: 2023-10-25T15:19:52.904644+00:00
+ - user: None
+ - tags: []
+
 ## Our Perspectives | Smithbucklin
  - [https://www.infoinc.com](https://www.infoinc.com)
  - date published: 2024-02-25T14:11:31.411543+00:00
@@ -4630,6 +4660,12 @@
  - user: None
  - tags: []
 
+## Show HN: I built an API for Google autocomplete
+ - [https://keywordquill.com](https://keywordquill.com)
+ - date published: 2024-04-01T10:39:27+00:00
+ - user: None
+ - tags: []
+
 ## KFC
  - [https://global.kfc.com](https://global.kfc.com)
  - date published: 2023-11-01T08:42:23.921787+00:00
@@ -5730,14 +5766,14 @@
  - tags: ['personal']
 
 ## Kyle Halladay - Home Page
- - [https://kylehalladay.com](https://kylehalladay.com)
- - date published: 2024-01-09T02:41:26.783231+00:00
+ - [http://kylehalladay.com](http://kylehalladay.com)
+ - date published: 2021-07-14T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Kyle Halladay - Home Page
- - [http://kylehalladay.com](http://kylehalladay.com)
- - date published: 2021-07-14T00:00:00+00:00
+ - [https://kylehalladay.com](https://kylehalladay.com)
+ - date published: 2024-01-09T02:41:26.783231+00:00
  - user: None
  - tags: []
 
@@ -5796,16 +5832,16 @@
  - tags: []
 
 ## La Femme | Official Website
- - [https://www.lafemmemusic.com](https://www.lafemmemusic.com)
- - date published: 2024-01-19T00:00:00+00:00
- - user: rumpel
- - tags: ['music band']
-
-## La Femme | Official Website
  - [http://www.lafemmemusic.com](http://www.lafemmemusic.com)
  - date published: 2024-01-19T00:00:00+00:00
  - user: None
  - tags: []
+
+## La Femme | Official Website
+ - [https://www.lafemmemusic.com](https://www.lafemmemusic.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['music band']
 
 ## Lagged - Free Online Games on Lagged.com
  - [https://lagged.com](https://lagged.com)
@@ -5960,42 +5996,6 @@
 ## Lantern
  - [https://www.lanternbioworks.com](https://www.lanternbioworks.com)
  - date published: 2023-10-25T15:41:08.376607+00:00
- - user: None
- - tags: []
-
-## Jeff Johnson
- - [https://lapcatsoftware.com](https://lapcatsoftware.com)
- - date published: 2023-10-25T15:41:09.925391+00:00
- - user: None
- - tags: []
-
-## La Prensa Latina Media
- - [https://www.laprensalatina.com](https://www.laprensalatina.com)
- - date published: 2023-12-08T18:09:19.349070+00:00
- - user: None
- - tags: []
-
-## Laputa
- - [https://www.laputa-jp.com](https://www.laputa-jp.com)
- - date published: 2024-02-08T21:50:22.716744+00:00
- - user: None
- - tags: []
-
-## Laramie County Events
- - [https://www.laramiecountyevents.com](https://www.laramiecountyevents.com)
- - date published: 2024-01-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Laravel News
- - [https://feed.laravel-news.com](https://feed.laravel-news.com)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Laravel News
- - [https://laravel-news.com](https://laravel-news.com)
- - date published: 2023-10-25T15:41:11.614231+00:00
  - user: None
  - tags: []
 

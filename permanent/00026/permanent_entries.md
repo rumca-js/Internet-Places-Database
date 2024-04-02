@@ -1,3 +1,207 @@
+## Margin Research — Cybersecurity Research & Development
+ - [https://margin.re](https://margin.re)
+ - date published: 2023-10-25T22:34:59.184735+00:00
+ - user: None
+ - tags: []
+
+## Rizin
+ - [https://rizin.re](https://rizin.re)
+ - date published: 2023-10-25T22:35:01.085436+00:00
+ - user: None
+ - tags: []
+
+## WWW.SB
+ - [https://www.re](https://www.re)
+ - date published: 2023-11-09T15:44:52.051414+00:00
+ - user: None
+ - tags: ['unavailable']
+
+## Infinite Red: Experts in all things React Native
+ - [https://infinite.red](https://infinite.red)
+ - date published: 2024-01-05T16:45:02.624589+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mofi - Find perfect loops and shorten or lengthen a song seamlessly!
+ - [https://mofi.loud.red](https://mofi.loud.red)
+ - date published: 2023-10-25T22:35:02.823417+00:00
+ - user: None
+ - tags: []
+
+## Jerred Shepherd
+ - [https://sjer.red](https://sjer.red)
+ - date published: 2023-10-25T08:55:21.710662+00:00
+ - user: None
+ - tags: ['personal']
+
+## sub.rehab · Find your next diving spot
+ - [https://sub.rehab](https://sub.rehab)
+ - date published: 2023-10-25T22:35:05.871386+00:00
+ - user: None
+ - tags: []
+
+## Edith.Reisen
+ - [https://edith.reisen](https://edith.reisen)
+ - date published: 2023-10-25T22:35:08.459938+00:00
+ - user: None
+ - tags: []
+
+## The Earthbound Report – Good lives on our one planet
+ - [https://earthbound.report](https://earthbound.report)
+ - date published: 2023-10-25T22:35:16.577499+00:00
+ - user: None
+ - tags: []
+
+## Welcome to GFW.Report
+ - [https://gfw.report](https://gfw.report)
+ - date published: 2023-10-25T22:35:18.341709+00:00
+ - user: None
+ - tags: []
+
+## The Jacob Wolf Report
+ - [https://www.jacobwolf.report](https://www.jacobwolf.report)
+ - date published: 2023-10-25T22:35:24.763431+00:00
+ - user: None
+ - tags: []
+
+## PFAS.report
+ - [https://pfas.report](https://pfas.report)
+ - date published: 2023-10-25T22:35:27.408855+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://sec.report](https://sec.report)
+ - date published: 2024-01-09T03:45:00.104075+00:00
+ - user: None
+ - tags: []
+
+## US Patent and Tradmark Search
+ - [https://uspto.report](https://uspto.report)
+ - date published: 2023-10-25T22:35:29.022272+00:00
+ - user: None
+ - tags: ['patents']
+
+## the html review
+ - [https://thehtml.review](https://thehtml.review)
+ - date published: 2023-10-25T22:35:30.506682+00:00
+ - user: None
+ - tags: []
+
+## Book Marks: The book review aggregator
+ - [https://bookmarks.reviews](https://bookmarks.reviews)
+ - date published: 2024-03-19T14:12:19+00:00
+ - user: rumpel
+ - tags: ['book reviews']
+
+## Home - chompie at the bits
+ - [https://chompie.rip](https://chompie.rip)
+ - date published: 2023-10-25T22:35:32.464203+00:00
+ - user: None
+ - tags: []
+
+## Computers Are Bad
+ - [https://computer.rip](https://computer.rip)
+ - date published: 2023-10-25T22:35:34.176138+00:00
+ - user: None
+ - tags: []
+
+## RIP HTTP
+ - [http://http.rip](http://http.rip)
+ - date published: 2023-10-25T08:35:34.775189+00:00
+ - user: None
+ - tags: []
+
+## Scribe
+ - [https://scribe.rip](https://scribe.rip)
+ - date published: 2023-10-25T22:35:39.461506+00:00
+ - user: None
+ - tags: []
+
+## Tomb Log
+ - [https://tomblog.rip](https://tomblog.rip)
+ - date published: 2016-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Owlet BBC BASIC Editor
+ - [https://bbcmic.ro](https://bbcmic.ro)
+ - date published: 2024-01-17T05:11:30.033411+00:00
+ - user: None
+ - tags: []
+
+## Citroën România | Automobile & Autoutilitare
+ - [https://www.citroen.ro](https://www.citroen.ro)
+ - date published: 2023-12-11T16:01:02.901260+00:00
+ - user: None
+ - tags: []
+
+## Digi24 - Stiri - Informația la putere!
+ - [https://www.digi24.ro](https://www.digi24.ro)
+ - date published: 2023-12-28T01:24:07.795811+00:00
+ - user: None
+ - tags: []
+
+## dorinlazar.ro
+ - [https://dorinlazar.ro](https://dorinlazar.ro)
+ - date published: 2023-10-25T22:35:40.022074+00:00
+ - user: None
+ - tags: []
+
+## Home - Gege
+ - [https://gege.ro](https://gege.ro)
+ - date published: 2023-11-29T17:11:22.077487+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home • Klausblog
+ - [https://klausblog.ro](https://klausblog.ro)
+ - date published: 2024-01-09T16:33:51.816011+00:00
+ - user: None
+ - tags: []
+
+## Marius Bancila's Blog
+ - [https://mariusbancila.ro](https://mariusbancila.ro)
+ - date published: 2023-10-25T09:24:29.494420+00:00
+ - user: None
+ - tags: ['personal']
+
+## Graphite's little corner of the web
+ - [https://gra.phite.ro](https://gra.phite.ro)
+ - date published: 2024-01-15T17:20:15.225712+00:00
+ - user: None
+ - tags: []
+
+## Felix at Home
+ - [https://felix.plesoianu.ro](https://felix.plesoianu.ro)
+ - date published: 2023-11-15T17:46:44.714694+00:00
+ - user: None
+ - tags: ['personal']
+
+## Romania Journal - the news about Romania
+ - [https://www.romaniajournal.ro](https://www.romaniajournal.ro)
+ - date published: 2024-03-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Times New Roman - Cotidian independent de umor voluntar
+ - [https://www.timesnewroman.ro](https://www.timesnewroman.ro)
+ - date published: 2024-03-26T20:40:51.272736+00:00
+ - user: None
+ - tags: []
+
+## https://profs.info.uaic.ro
+ - [https://profs.info.uaic.ro](https://profs.info.uaic.ro)
+ - date published: 2024-01-11T21:02:01.927273+00:00
+ - user: None
+ - tags: []
+
+## Volution Notes
+ - [https://notes.volution.ro](https://notes.volution.ro)
+ - date published: 2023-10-25T22:35:41.081523+00:00
+ - user: None
+ - tags: []
+
 ## SocialHub - ActivityPub Special Interest Group
  - [https://socialhub.activitypub.rocks](https://socialhub.activitypub.rocks)
  - date published: 2023-10-25T22:35:43.833065+00:00
@@ -292,17 +496,17 @@
  - user: None
  - tags: []
 
-## NOTHING
- - [https://keygen-fm.ru](https://keygen-fm.ru)
- - date published: 2024-01-09T03:45:02.388166+00:00
- - user: None
- - tags: []
-
 ## KEYGEN FM
  - [http://keygen-fm.ru](http://keygen-fm.ru)
  - date published: 2024-02-11T14:38:25.773321+00:00
  - user: None
  - tags: ['chiptune', 'keygen', 'demoscene', 'radio']
+
+## NOTHING
+ - [https://keygen-fm.ru](https://keygen-fm.ru)
+ - date published: 2024-01-09T03:45:02.388166+00:00
+ - user: None
+ - tags: []
 
 ## kiwifarms.ru
  - [https://kiwifarms.ru](https://kiwifarms.ru)
@@ -360,16 +564,16 @@
  - tags: []
 
 ## Radiominor.ru - на волне хорошей музыки
- - [https://radiominor.ru](https://radiominor.ru)
- - date published: 2024-02-15T22:13:56.565784+00:00
- - user: None
- - tags: ['demoscene']
-
-## Radiominor.ru - на волне хорошей музыки
  - [http://radiominor.ru](http://radiominor.ru)
  - date published: 2024-02-15T02:01:34.442306+00:00
  - user: None
  - tags: []
+
+## Radiominor.ru - на волне хорошей музыки
+ - [https://radiominor.ru](https://radiominor.ru)
+ - date published: 2024-02-15T22:13:56.565784+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Рамблер/картинки
  - [https://images.rambler.ru](https://images.rambler.ru)
@@ -971,6 +1175,12 @@
  - user: None
  - tags: []
 
+## End-to-end LLM Cybersecurity Solutions | Lasso
+ - [https://www.lasso.security](https://www.lasso.security)
+ - date published: 2024-04-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Positive Security - IT Security Research & Consulting
  - [https://positive.security](https://positive.security)
  - date published: 2023-10-25T22:37:48.281104+00:00
@@ -1180,14 +1390,14 @@ Art Product Supply
  - tags: []
 
 ## Jan Harasym on Svbtle
- - [http://blog.dijit.sh](http://blog.dijit.sh)
- - date published: 2024-02-26T08:21:06.878835+00:00
+ - [https://blog.dijit.sh](https://blog.dijit.sh)
+ - date published: 2024-01-09T03:46:50.814381+00:00
  - user: None
  - tags: []
 
 ## Jan Harasym on Svbtle
- - [https://blog.dijit.sh](https://blog.dijit.sh)
- - date published: 2024-01-09T03:46:50.814381+00:00
+ - [http://blog.dijit.sh](http://blog.dijit.sh)
+ - date published: 2024-02-26T08:21:06.878835+00:00
  - user: None
  - tags: []
 
@@ -1940,6 +2150,12 @@ Art Product Supply
  - date published: 2023-11-13T13:42:42.319137+00:00
  - user: None
  - tags: ['museum']
+
+## Brian's Blog
+ - [https://blog.trl.sn](https://blog.trl.sn)
+ - date published: 2024-04-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Overview - Blog
  - [https://blog.artie.so](https://blog.artie.so)
@@ -2908,15 +3124,15 @@ conflicts of interest and restore Community Trust.
  - user: None
  - tags: []
 
-## pdx.su
- - [http://pdx.su](http://pdx.su)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Jeff Sandberg's Blog
  - [https://pdx.su](https://pdx.su)
  - date published: 2023-10-25T22:43:21.559860+00:00
+ - user: None
+ - tags: []
+
+## pdx.su
+ - [http://pdx.su](http://pdx.su)
+ - date published: 2024-01-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5789,222 +6005,6 @@ Introduction
 ## ISPreview UK
  - [https://www.ispreview.co.uk](https://www.ispreview.co.uk)
  - date published: 2024-01-13T19:05:43.209158+00:00
- - user: None
- - tags: []
-
-## Jack Franklin
- - [https://www.jackfranklin.co.uk](https://www.jackfranklin.co.uk)
- - date published: 2024-03-24T17:44:48+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Jamie Hurst's Blog - Software and System Engineer, Enthusiast of Terrible Cars
- - [https://jamiehurst.co.uk](https://jamiehurst.co.uk)
- - date published: 2023-12-29T03:12:26.291574+00:00
- - user: None
- - tags: ['personal']
-
-## Jamie Magee
- - [https://jamiemagee.co.uk](https://jamiemagee.co.uk)
- - date published: 2023-10-25T09:01:03.349828+00:00
- - user: None
- - tags: ['personal']
-
-## Jason Fry | UK Remote Swift & Typescript Software Developer
- - [https://jasonfry.co.uk](https://jasonfry.co.uk)
- - date published: 2024-01-04T15:18:20.109172+00:00
- - user: None
- - tags: []
-
-## Jem – UK blogger - Developer - Entrepeneur
- - [https://www.jemjabella.co.uk](https://www.jemjabella.co.uk)
- - date published: 2024-02-02T18:14:33.893066+00:00
- - user: None
- - tags: []
-
-## Jewish News
- - [https://www.jewishnews.co.uk](https://www.jewishnews.co.uk)
- - date published: 2023-12-13T13:26:16.054550+00:00
- - user: None
- - tags: []
-
-## JOE.co.uk - Home
- - [https://www.joe.co.uk](https://www.joe.co.uk)
- - date published: 2023-10-31T08:58:17.543974+00:00
- - user: None
- - tags: ['news']
-
-## Joe Terrell - Official Website
- - [https://joeterrell.co.uk](https://joeterrell.co.uk)
- - date published: 2024-01-10T23:52:33.737640+00:00
- - user: None
- - tags: []
-
-## John Large .co.uk
- - [https://www.johnlarge.co.uk](https://www.johnlarge.co.uk)
- - date published: 2024-01-01T03:39:55.167843+00:00
- - user: None
- - tags: []
-
-## Freelance Software Developer - Justin Emery
- - [https://www.justinemery.co.uk](https://www.justinemery.co.uk)
- - date published: 2023-12-30T09:52:00.428132+00:00
- - user: None
- - tags: ['personal']
-
-## Kaspersky Cyber Security Solutions for Home and Business | Kaspersky
- - [https://www.kaspersky.co.uk](https://www.kaspersky.co.uk)
- - date published: 2023-10-25T22:53:11.734588+00:00
- - user: None
- - tags: []
-
-## Katy Schutte
- - [https://www.katyschutte.co.uk](https://www.katyschutte.co.uk)
- - date published: 2023-11-29T14:23:00.253259+00:00
- - user: None
- - tags: ['personal']
-
-## Keith Fowler
- - [https://keithfowler.co.uk](https://keithfowler.co.uk)
- - date published: 2024-01-11T07:52:14.071475+00:00
- - user: None
- - tags: []
-
-## Keith Fowler
- - [https://www.keithfowler.co.uk](https://www.keithfowler.co.uk)
- - date published: 2024-02-26T08:30:57.983612+00:00
- - user: None
- - tags: []
-
-## Kevin Mahoney
- - [https://kevinmahoney.co.uk](https://kevinmahoney.co.uk)
- - date published: 2023-10-25T09:24:57.635446+00:00
- - user: None
- - tags: ['personal']
-
-## Call or text 07788 627983
- - [https://www.kevinreynolds-adi.co.uk](https://www.kevinreynolds-adi.co.uk)
- - date published: 2005-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Kian Ryan
- - [https://www.kianryan.co.uk](https://www.kianryan.co.uk)
- - date published: 2023-10-25T08:56:33.408681+00:00
- - user: None
- - tags: ['personal']
-
-## The Lazarus Corporation: Art and Writing by Paul Watson
- - [https://www.lazaruscorporation.co.uk](https://www.lazaruscorporation.co.uk)
- - date published: 2023-11-23T14:14:26.800723+00:00
- - user: None
- - tags: ['personal']
-
-## LBC
- - [https://www.lbc.co.uk](https://www.lbc.co.uk)
- - date published: 2023-10-31T07:38:06.810509+00:00
- - user: None
- - tags: ['news']
-
-## lbr.
- - [https://leebriggs.co.uk](https://leebriggs.co.uk)
- - date published: 2023-10-25T22:53:12.317965+00:00
- - user: None
- - tags: []
-
-## Liberty Unleashed - GTA3 Multiplayer Mod
- - [https://liberty-unleashed.co.uk](https://liberty-unleashed.co.uk)
- - date published: 2023-10-30T15:31:13.202212+00:00
- - user: None
- - tags: []
-
-## LinuxJedi's /dev/null – The ramblings of a Linux Jedi
- - [https://linuxjedi.co.uk](https://linuxjedi.co.uk)
- - date published: 2023-10-25T22:53:15.106181+00:00
- - user: None
- - tags: []
-
-## Literary Review | For People Who Devour Books
- - [https://literaryreview.co.uk](https://literaryreview.co.uk)
- - date published: 2023-10-25T11:19:35.941051+00:00
- - user: None
- - tags: []
-
-## 500
- - [https://i2-prod.liverpoolecho.co.uk](https://i2-prod.liverpoolecho.co.uk)
- - date published: 2024-02-25T16:13:57.843903+00:00
- - user: None
- - tags: []
-
-## Liverpool Echo: Latest Liverpool and Merseyside news, sports and what's on
- - [https://www.liverpoolecho.co.uk](https://www.liverpoolecho.co.uk)
- - date published: 2023-10-25T22:53:26.938973+00:00
- - user: None
- - tags: []
-
-## Location Independent
- - [https://www.locationindependent.co.uk](https://www.locationindependent.co.uk)
- - date published: 2023-12-21T18:49:49.393831+00:00
- - user: None
- - tags: ['personal']
-
-## Buy a Book. Support a School. Make a Difference | LoveReading UK
- - [https://www.lovereading.co.uk](https://www.lovereading.co.uk)
- - date published: 2024-01-23T13:40:16+00:00
- - user: rumpel
- - tags: ['book reviews']
-
-## London Review of Books
- - [https://lrb.co.uk](https://lrb.co.uk)
- - date published: 2024-02-26T08:49:56.716395+00:00
- - user: None
- - tags: []
-
-## London Review of Books
- - [https://www.lrb.co.uk](https://www.lrb.co.uk)
- - date published: 2023-10-25T10:58:33.599892+00:00
- - user: None
- - tags: []
-
-## LymeOnline - News from Lyme Regis, Uplyme & Charmouth
- - [https://lyme-online.co.uk](https://lyme-online.co.uk)
- - date published: 2023-10-25T22:53:31.300818+00:00
- - user: None
- - tags: []
-
-## Madness - Official Website
- - [https://www.madness.co.uk](https://www.madness.co.uk)
- - date published: 2023-11-13T10:30:54.594496+00:00
- - user: None
- - tags: ['music band']
-
-## Marc Jenkins — WordPress developer based in Birmingham, UK
- - [https://marcjenkins.co.uk](https://marcjenkins.co.uk)
- - date published: 2023-11-29T14:19:18.964852+00:00
- - user: None
- - tags: ['personal']
-
-## Marketing Beat - Daily B2B Marketing News, Trends & Insight
- - [https://www.marketing-beat.co.uk](https://www.marketing-beat.co.uk)
- - date published: 2024-01-02T19:33:32.083550+00:00
- - user: None
- - tags: []
-
-## The Market Oracle ::
- - [https://www.marketoracle.co.uk](https://www.marketoracle.co.uk)
- - date published: 2023-10-25T22:53:37.192585+00:00
- - user: None
- - tags: []
-
-## Mark Ronson | Official Website | New album Late Night Feelings
- - [https://www.markronson.co.uk](https://www.markronson.co.uk)
- - date published: 2023-11-13T09:55:17.411320+00:00
- - user: None
- - tags: ['music band']
-
-## Matt Eason
- - [https://matteason.co.uk](https://matteason.co.uk)
- - date published: 2024-01-03T18:03:59.665534+00:00
  - user: None
  - tags: []
 

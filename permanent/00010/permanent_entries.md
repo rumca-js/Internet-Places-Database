@@ -1,3 +1,57 @@
+## Home | OpenBSD Handbook
+ - [https://www.openbsdhandbook.com](https://www.openbsdhandbook.com)
+ - date published: 2023-10-25T16:26:28.495244+00:00
+ - user: None
+ - tags: []
+
+## OpenBW – free and open-source
+ - [https://www.openbw.com](https://www.openbw.com)
+ - date published: 2024-01-09T02:45:29.927017+00:00
+ - user: None
+ - tags: []
+
+## OpenCage blog - what's new at OpenCage
+ - [https://blog.opencagedata.com](https://blog.opencagedata.com)
+ - date published: 2023-10-25T16:26:29.828123+00:00
+ - user: None
+ - tags: []
+
+## Open Collective
+ - [https://blog.opencollective.com](https://blog.opencollective.com)
+ - date published: 2024-02-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Raise and spend money with full transparency.
+ - [https://opencollective.com](https://opencollective.com)
+ - date published: 2023-12-11T17:46:06.323429+00:00
+ - user: None
+ - tags: ['fundrising organization']
+
+## Home | Open Core Ventures
+ - [https://opencoreventures.com](https://opencoreventures.com)
+ - date published: 2023-10-25T16:26:31.896557+00:00
+ - user: None
+ - tags: []
+
+## OpenCritic - The top critics in gaming. All in one place.
+ - [https://opencritic.com](https://opencritic.com)
+ - date published: 2023-10-27T07:30:11.127691+00:00
+ - user: None
+ - tags: ['game news']
+
+## The best free cultural & educational media on the web - Open Culture
+ - [https://www.openculture.com](https://www.openculture.com)
+ - date published: 2023-10-25T09:28:29.608798+00:00
+ - user: None
+ - tags: []
+
+## Cloud Delivered Enterprise Security by OpenDNS
+ - [https://www.opendns.com](https://www.opendns.com)
+ - date published: 2023-10-30T12:52:26.123819+00:00
+ - user: None
+ - tags: ['dns']
+
 ## openduck - openduck
  - [https://www.openduck.com](https://www.openduck.com)
  - date published: 2024-02-14T11:11:48.040469+00:00
@@ -1145,6 +1199,12 @@
  - user: None
  - tags: []
 
+## Show HN: Parallel Arabic, Arabic reading and writing practice
+ - [https://parallel-arabic.com](https://parallel-arabic.com)
+ - date published: 2024-04-01T15:23:58+00:00
+ - user: None
+ - tags: []
+
 ## Parallel Economy | A Censor-Resistant Ecosystem
  - [https://www.paralleleconomy.com](https://www.paralleleconomy.com)
  - date published: 2023-10-25T16:30:43.965679+00:00
@@ -1577,15 +1637,15 @@
  - user: None
  - tags: ['personal']
 
-## PCMag.com - Technology Product Reviews, News, Prices & Tips
- - [https://uk.pcmag.com](https://uk.pcmag.com)
- - date published: 2023-10-25T09:34:32.882984+00:00
- - user: None
- - tags: []
-
 ## PCMag UK
  - [http://uk.pcmag.com](http://uk.pcmag.com)
  - date published: 2024-02-26T09:45:15.403718+00:00
+ - user: None
+ - tags: []
+
+## PCMag.com - Technology Product Reviews, News, Prices & Tips
+ - [https://uk.pcmag.com](https://uk.pcmag.com)
+ - date published: 2023-10-25T09:34:32.882984+00:00
  - user: None
  - tags: []
 
@@ -2214,13 +2274,13 @@
  - tags: []
 
 ## Paul's Dev Notes
- - [https://www.pfrazee.com](https://www.pfrazee.com)
+ - [http://www.pfrazee.com](http://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Paul's Dev Notes
- - [http://www.pfrazee.com](http://www.pfrazee.com)
+ - [https://www.pfrazee.com](https://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -2455,6 +2515,12 @@
  - date published: 2023-10-25T16:34:17.644739+00:00
  - user: None
  - tags: []
+
+## PhotoSync – Photo Transfer and Backup App | For iOS & Android - PhotoSync
+ - [https://www.photosync-app.com](https://www.photosync-app.com)
+ - date published: 2024-04-01T20:56:48+00:00
+ - user: rumpel
+ - tags: ['nas storage sync']
 
 ## phpBB • Free and Open Source Forum Software
  - [https://phpbb.com](https://phpbb.com)
@@ -3146,15 +3212,15 @@
  - user: None
  - tags: []
 
-## 無効なURLです
- - [https://plumshell.com](https://plumshell.com)
- - date published: 2024-01-09T02:46:44.613598+00:00
- - user: None
- - tags: []
-
 ## plumshell
  - [http://plumshell.com](http://plumshell.com)
  - date published: 2024-02-26T15:04:17.373885+00:00
+ - user: None
+ - tags: []
+
+## 無効なURLです
+ - [https://plumshell.com](https://plumshell.com)
+ - date published: 2024-01-09T02:46:44.613598+00:00
  - user: None
  - tags: []
 
@@ -3831,14 +3897,14 @@
  - tags: []
 
 ## Preshing on Programming
- - [http://preshing.com](http://preshing.com)
- - date published: 2021-03-15T00:00:00+00:00
+ - [https://preshing.com](https://preshing.com)
+ - date published: 2023-10-25T16:39:24.657091+00:00
  - user: None
  - tags: []
 
 ## Preshing on Programming
- - [https://preshing.com](https://preshing.com)
- - date published: 2023-10-25T16:39:24.657091+00:00
+ - [http://preshing.com](http://preshing.com)
+ - date published: 2021-03-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5624,16 +5690,16 @@ More!
  - tags: []
 
 ## Ravenfeast
- - [https://www.ravenfeast.com](https://www.ravenfeast.com)
- - date published: 2024-03-01T09:41:52+00:00
- - user: rumpel
- - tags: ['tabletop games', 'wargames']
-
-## Ravenfeast
  - [http://www.ravenfeast.com](http://www.ravenfeast.com)
  - date published: 2024-03-01T18:35:27.406553+00:00
  - user: None
  - tags: []
+
+## Ravenfeast
+ - [https://www.ravenfeast.com](https://www.ravenfeast.com)
+ - date published: 2024-03-01T09:41:52+00:00
+ - user: rumpel
+ - tags: ['tabletop games', 'wargames']
 
 ## https://www.ravensoft.com
  - [https://www.ravensoft.com](https://www.ravensoft.com)
@@ -5864,14 +5930,14 @@ More!
  - tags: ['company']
 
 ## Home | Realms of Despair
- - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
- - date published: 2024-03-27T20:52:28.838514+00:00
+ - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:46:33.188949+00:00
  - user: None
  - tags: ['mud game']
 
 ## Home | Realms of Despair
- - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
- - date published: 2024-03-27T20:46:33.188949+00:00
+ - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:52:28.838514+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5938,72 +6004,6 @@ More!
 ## Welcome to the Recalbox wiki!
  - [https://wiki.recalbox.com](https://wiki.recalbox.com)
  - date published: 2023-12-11T17:25:01.917937+00:00
- - user: None
- - tags: []
-
-## Recalbox Home
- - [https://www.recalbox.com](https://www.recalbox.com)
- - date published: 2023-11-02T10:57:32.260196+00:00
- - user: None
- - tags: ['amiga', 'retro games']
-
-## Recall - Your AI-powered knowledge base
- - [https://www.recall-app.com](https://www.recall-app.com)
- - date published: 2023-10-25T16:47:21.370141+00:00
- - user: None
- - tags: []
-
-## Recharge | Latest renewable energy news
- - [https://www.rechargenews.com](https://www.rechargenews.com)
- - date published: 2023-10-25T10:54:44.339290+00:00
- - user: None
- - tags: []
-
-## RecipeUI
- - [https://recipeui.com](https://recipeui.com)
- - date published: 2023-10-25T16:47:23.469762+00:00
- - user: None
- - tags: []
-
-## Reckless Saints
- - [https://www.recklesssaints.com](https://www.recklesssaints.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Recoil
- - [https://www.recoilweb.com](https://www.recoilweb.com)
- - date published: 2023-12-27T19:01:20.072792+00:00
- - user: None
- - tags: []
-
-## Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger
- - [https://www.recompyle.com](https://www.recompyle.com)
- - date published: 2023-12-07T14:05:47+00:00
- - user: None
- - tags: []
-
-## Rec Room
- - [https://recroom.com](https://recroom.com)
- - date published: 2023-12-20T20:37:39+00:00
- - user: rumpel
- - tags: ['virtual reality']
-
-## Jobs at Tab
- - [https://tab.recruitee.com](https://tab.recruitee.com)
- - date published: 2023-10-25T16:47:24.237212+00:00
- - user: None
- - tags: []
-
-## Recurrent | Buy, Drive & Sell Electric Cars, Positively | EV Battery Reports
- - [https://www.recurrentauto.com](https://www.recurrentauto.com)
- - date published: 2023-10-25T16:47:30.550141+00:00
- - user: None
- - tags: []
-
-## Recursive Drawing
- - [https://recursivedrawing.com](https://recursivedrawing.com)
- - date published: 2024-01-09T02:47:24.309329+00:00
  - user: None
  - tags: []
 

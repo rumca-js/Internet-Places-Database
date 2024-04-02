@@ -1,3 +1,69 @@
+## Recalbox Home
+ - [https://www.recalbox.com](https://www.recalbox.com)
+ - date published: 2023-11-02T10:57:32.260196+00:00
+ - user: None
+ - tags: ['amiga', 'retro games']
+
+## Recall - Your AI-powered knowledge base
+ - [https://www.recall-app.com](https://www.recall-app.com)
+ - date published: 2023-10-25T16:47:21.370141+00:00
+ - user: None
+ - tags: []
+
+## Recharge | Latest renewable energy news
+ - [https://www.rechargenews.com](https://www.rechargenews.com)
+ - date published: 2023-10-25T10:54:44.339290+00:00
+ - user: None
+ - tags: []
+
+## RecipeUI
+ - [https://recipeui.com](https://recipeui.com)
+ - date published: 2023-10-25T16:47:23.469762+00:00
+ - user: None
+ - tags: []
+
+## Reckless Saints
+ - [https://www.recklesssaints.com](https://www.recklesssaints.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Recoil
+ - [https://www.recoilweb.com](https://www.recoilweb.com)
+ - date published: 2023-12-27T19:01:20.072792+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger
+ - [https://www.recompyle.com](https://www.recompyle.com)
+ - date published: 2023-12-07T14:05:47+00:00
+ - user: None
+ - tags: []
+
+## Rec Room
+ - [https://recroom.com](https://recroom.com)
+ - date published: 2023-12-20T20:37:39+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
+## Jobs at Tab
+ - [https://tab.recruitee.com](https://tab.recruitee.com)
+ - date published: 2023-10-25T16:47:24.237212+00:00
+ - user: None
+ - tags: []
+
+## Recurrent | Buy, Drive & Sell Electric Cars, Positively | EV Battery Reports
+ - [https://www.recurrentauto.com](https://www.recurrentauto.com)
+ - date published: 2023-10-25T16:47:30.550141+00:00
+ - user: None
+ - tags: []
+
+## Recursive Drawing
+ - [https://recursivedrawing.com](https://recursivedrawing.com)
+ - date published: 2024-01-09T02:47:24.309329+00:00
+ - user: None
+ - tags: []
+
 ## None
  - [https://www.recyclingtoday.com](https://www.recyclingtoday.com)
  - date published: 2024-03-04T19:41:20.524707+00:00
@@ -65,14 +131,14 @@
  - tags: []
 
 ## reddit
- - [https://www.reddit.com](https://www.reddit.com)
- - date published: 2023-10-24T20:16:46.235665+00:00
+ - [http://www.reddit.com](http://www.reddit.com)
+ - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
 
 ## reddit
- - [http://www.reddit.com](http://www.reddit.com)
- - date published: 2024-02-20T00:00:00+00:00
+ - [https://www.reddit.com](https://www.reddit.com)
+ - date published: 2023-10-24T20:16:46.235665+00:00
  - user: None
  - tags: []
 
@@ -119,14 +185,14 @@
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [http://www.reddit-stream.com](http://www.reddit-stream.com)
- - date published: 2023-12-23T19:30:18.252561+00:00
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
  - user: None
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
+ - [http://www.reddit-stream.com](http://www.reddit-stream.com)
+ - date published: 2023-12-23T19:30:18.252561+00:00
  - user: None
  - tags: []
 
@@ -601,6 +667,12 @@
 ## ReportMill - The Best Java Reporting Software and Tools
  - [https://reportmill.com](https://reportmill.com)
  - date published: 2024-02-08T16:00:34.896769+00:00
+ - user: None
+ - tags: []
+
+## RepRage
+ - [https://reprage.com](https://reprage.com)
+ - date published: 2024-03-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2537,14 +2609,14 @@
  - tags: []
 
 ## Home :: Sacha Chua
- - [https://sachachua.com](https://sachachua.com)
- - date published: 2024-01-06T02:24:05.322702+00:00
+ - [http://sachachua.com](http://sachachua.com)
+ - date published: 2024-01-05T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Home :: Sacha Chua
- - [http://sachachua.com](http://sachachua.com)
- - date published: 2024-01-05T00:00:00+00:00
+ - [https://sachachua.com](https://sachachua.com)
+ - date published: 2024-01-06T02:24:05.322702+00:00
  - user: None
  - tags: []
 
@@ -5820,16 +5892,16 @@
  - tags: ['assets audio']
 
 ## Snarling Badger Studios
- - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
- - date published: 2023-11-10T10:42:34.914133+00:00
- - user: None
- - tags: ['magazine', 'tabletop games', 'warhammer', 'wargames', 'zine']
-
-## Snarling Badger Studios
  - [http://www.snarlingbadger.com](http://www.snarlingbadger.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Snarling Badger Studios
+ - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
+ - date published: 2023-11-10T10:42:34.914133+00:00
+ - user: None
+ - tags: ['magazine', 'tabletop games', 'warhammer', 'wargames', 'zine']
 
 ## Serge Nevsky
  - [https://snevsky.com](https://snevsky.com)
@@ -5932,76 +6004,4 @@
  - date published: 2024-02-08T17:58:29.769210+00:00
  - user: None
  - tags: []
-
-## Aurora Store
- - [https://aurora-store.en.softonic.com](https://aurora-store.en.softonic.com)
- - date published: 2024-02-08T18:16:27.788227+00:00
- - user: None
- - tags: []
-
-## Vuze
- - [https://vuze.en.softonic.com](https://vuze.en.softonic.com)
- - date published: 2024-03-27T19:03:55+00:00
- - user: rumpel
- - tags: ['file sharing']
-
-## Latest News & Reviews by Softpedia
- - [https://news.softpedia.com](https://news.softpedia.com)
- - date published: 2024-02-16T16:03:05.521355+00:00
- - user: None
- - tags: []
-
-## Software Amusements
- - [https://softwareamusements.com](https://softwareamusements.com)
- - date published: 2023-12-11T18:40:38.037619+00:00
- - user: None
- - tags: []
-
-## Doug Turnbull's Blog
- - [https://softwaredoug.com](https://softwaredoug.com)
- - date published: 2023-10-25T17:07:36.413404+00:00
- - user: None
- - tags: []
-
-## Musings about software | The Blog of Thomas Depierre, Elixir and DevOps consultant.
- - [https://www.softwaremaxims.com](https://www.softwaremaxims.com)
- - date published: 2023-10-25T17:07:42.671790+00:00
- - user: None
- - tags: []
-
-## Software Stack Investing - Investing analysis of the software companies that power next generation digital businesses
- - [https://softwarestackinvesting.com](https://softwarestackinvesting.com)
- - date published: 2023-10-25T17:07:46.269464+00:00
- - user: None
- - tags: []
-
-## SoFuckingAgile
- - [https://www.sofuckingagile.com](https://www.sofuckingagile.com)
- - date published: 2023-10-25T17:07:48.249078+00:00
- - user: None
- - tags: []
-
-## Jascha Sohl-Dickstein
- - [https://sohldickstein.com](https://sohldickstein.com)
- - date published: 2024-02-13T17:35:25.223315+00:00
- - user: None
- - tags: ['personal']
-
-## Solar Eclipse Timer App
- - [https://www.solareclipsetimer.com](https://www.solareclipsetimer.com)
- - date published: 2024-03-07T16:29:26.743437+00:00
- - user: None
- - tags: []
-
-## Solarian Programmer | My programming ramblings
- - [https://solarianprogrammer.com](https://solarianprogrammer.com)
- - date published: 2023-10-25T17:07:50.730454+00:00
- - user: None
- - tags: []
-
-## Soldat 2 | Transhuman Design
- - [https://soldat2.com](https://soldat2.com)
- - date published: 2023-10-26T18:44:37.477139+00:00
- - user: None
- - tags: ['game']
 

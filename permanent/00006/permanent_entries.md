@@ -1,3 +1,33 @@
+## Gartner | Delivering Actionable, Objective Insight to Executives and Their Teams
+ - [https://www.gartner.com](https://www.gartner.com)
+ - date published: 2023-10-25T14:41:54.624249+00:00
+ - user: None
+ - tags: []
+
+## Gary Voth – Photography, Technology, Design
+ - [https://www.garyvoth.com](https://www.garyvoth.com)
+ - date published: 2023-10-25T14:41:58.580348+00:00
+ - user: None
+ - tags: []
+
+## GASDRAWLS
+ - [https://gasdrawls.com](https://gasdrawls.com)
+ - date published: 2023-11-13T12:30:56.610958+00:00
+ - user: None
+ - tags: ['music band']
+
+## Home | Bill Gates
+ - [https://www.gatesnotes.com](https://www.gatesnotes.com)
+ - date published: 2023-10-25T14:42:06.251930+00:00
+ - user: None
+ - tags: ['vip']
+
+## Coming Soon
+ - [https://www.gatewaymusicministry.com](https://www.gatewaymusicministry.com)
+ - date published: 2024-02-08T18:00:04.178836+00:00
+ - user: None
+ - tags: []
+
 ## Gaurang Tandon
  - [https://gaurangtandon.com](https://gaurangtandon.com)
  - date published: 2023-11-01T08:42:09.254638+00:00
@@ -3166,16 +3196,16 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
- - [https://www.hanselman.com](https://www.hanselman.com)
- - date published: 2023-10-25T09:20:35.173651+00:00
- - user: None
- - tags: ['personal']
-
-## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
  - [http://www.hanselman.com](http://www.hanselman.com)
  - date published: 2024-03-07T00:00:00+00:00
  - user: None
  - tags: []
+
+## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
+ - [https://www.hanselman.com](https://www.hanselman.com)
+ - date published: 2023-10-25T09:20:35.173651+00:00
+ - user: None
+ - tags: ['personal']
 
 ## James Bottomley's random Pages | A collection of information
  - [https://blog.hansenpartnership.com](https://blog.hansenpartnership.com)
@@ -5970,36 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Infisical | Open Source SecretOps
  - [https://infisical.com](https://infisical.com)
  - date published: 2023-10-25T15:19:42.211884+00:00
- - user: None
- - tags: []
-
-## The Influence Association - Influence and effectiveness
- - [https://influenceassociation.com](https://influenceassociation.com)
- - date published: 2023-12-27T01:06:23.856215+00:00
- - user: None
- - tags: ['personal']
-
-## InfluxData Community Forums
- - [https://community.influxdata.com](https://community.influxdata.com)
- - date published: 2023-10-25T15:19:46.595606+00:00
- - user: None
- - tags: []
-
-## InfluxDB Times Series Data Platform | InfluxData
- - [https://www.influxdata.com](https://www.influxdata.com)
- - date published: 2023-10-25T15:19:50.191255+00:00
- - user: None
- - tags: []
-
-## Infobae América
- - [https://www.infobae.com](https://www.infobae.com)
- - date published: 2024-03-27T17:50:35.505279+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://xrss.infogulch.com](https://xrss.infogulch.com)
- - date published: 2023-10-25T15:19:52.904644+00:00
  - user: None
  - tags: []
 

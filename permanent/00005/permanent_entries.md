@@ -1,3 +1,21 @@
+## Multi-Factor Authentication & Single Sign-On | Duo Security
+ - [https://duo.com](https://duo.com)
+ - date published: 2023-10-25T13:59:56.230418+00:00
+ - user: None
+ - tags: []
+
+## Duo Status
+ - [https://status.duo.com](https://status.duo.com)
+ - date published: 2023-10-25T14:00:01.542214+00:00
+ - user: None
+ - tags: []
+
+## Duolingo Blog | Writing about the best way to learn a language
+ - [https://blog.duolingo.com](https://blog.duolingo.com)
+ - date published: 2023-10-25T14:00:03.408327+00:00
+ - user: None
+ - tags: []
+
 ## Duplicate Word Finder
  - [https://duplicateword.com](https://duplicateword.com)
  - date published: 2023-10-25T14:00:04.558446+00:00
@@ -1456,6 +1474,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://www.enterprisedb.com](https://www.enterprisedb.com)
+ - date published: 2024-04-01T16:07:34.200911+00:00
+ - user: None
+ - tags: []
+
 ## Latest Startup l Technology News | Entrackr
  - [https://entrackr.com](https://entrackr.com)
  - date published: 2023-10-25T14:08:00.546259+00:00
@@ -1666,17 +1690,17 @@
  - user: None
  - tags: ['personal']
 
-## https://www.erickarjaluoto.com
- - [https://www.erickarjaluoto.com](https://www.erickarjaluoto.com)
- - date published: 2023-12-12T09:16:42+00:00
- - user: rumpel
- - tags: ['personal']
-
 ## Howdy – Eric Karjaluoto
  - [http://www.erickarjaluoto.com](http://www.erickarjaluoto.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## https://www.erickarjaluoto.com
+ - [https://www.erickarjaluoto.com](https://www.erickarjaluoto.com)
+ - date published: 2023-12-12T09:16:42+00:00
+ - user: rumpel
+ - tags: ['personal']
 
 ## Eric Jon Kassel - Designer, Director, Animator, Musician
  - [https://erickassel.com](https://erickassel.com)
@@ -5068,6 +5092,12 @@
  - user: None
  - tags: []
 
+## Free-Range Kids
+ - [https://www.freerangekids.com](https://www.freerangekids.com)
+ - date published: 2024-03-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## FreeRDP
  - [https://www.freerdp.com](https://www.freerdp.com)
  - date published: 2023-10-25T14:37:51.172396+00:00
@@ -5717,14 +5747,14 @@
  - tags: []
 
 ## Game Programming Patterns
- - [https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com)
- - date published: 2024-02-21T07:23:55+00:00
+ - [http://gameprogrammingpatterns.com](http://gameprogrammingpatterns.com)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Game Programming Patterns
- - [http://gameprogrammingpatterns.com](http://gameprogrammingpatterns.com)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com)
+ - date published: 2024-02-21T07:23:55+00:00
  - user: None
  - tags: []
 
@@ -5965,36 +5995,6 @@
 ## Garth Dew
  - [https://www.garthdew.com](https://www.garthdew.com)
  - date published: 2024-01-12T08:14:25.446676+00:00
- - user: None
- - tags: []
-
-## Gartner | Delivering Actionable, Objective Insight to Executives and Their Teams
- - [https://www.gartner.com](https://www.gartner.com)
- - date published: 2023-10-25T14:41:54.624249+00:00
- - user: None
- - tags: []
-
-## Gary Voth – Photography, Technology, Design
- - [https://www.garyvoth.com](https://www.garyvoth.com)
- - date published: 2023-10-25T14:41:58.580348+00:00
- - user: None
- - tags: []
-
-## GASDRAWLS
- - [https://gasdrawls.com](https://gasdrawls.com)
- - date published: 2023-11-13T12:30:56.610958+00:00
- - user: None
- - tags: ['music band']
-
-## Home | Bill Gates
- - [https://www.gatesnotes.com](https://www.gatesnotes.com)
- - date published: 2023-10-25T14:42:06.251930+00:00
- - user: None
- - tags: ['vip']
-
-## Coming Soon
- - [https://www.gatewaymusicministry.com](https://www.gatewaymusicministry.com)
- - date published: 2024-02-08T18:00:04.178836+00:00
  - user: None
  - tags: []
 

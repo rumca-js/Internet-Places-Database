@@ -1,3 +1,147 @@
+## Discombobulated
+ - [https://discombobulated.co.nz](https://discombobulated.co.nz)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Google
+ - [https://www.google.co.nz](https://www.google.co.nz)
+ - date published: 2023-10-25T20:49:22.482071+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://menuaid.co.nz](https://menuaid.co.nz)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Niche Software - Niche Software
+ - [https://www.nichesoftware.co.nz](https://www.nichesoftware.co.nz)
+ - date published: 2023-10-25T20:49:26.344940+00:00
+ - user: None
+ - tags: []
+
+## NZ Herald: Latest NZ news, plus World, Sport, Business and more - NZ Herald
+ - [https://www.nzherald.co.nz](https://www.nzherald.co.nz)
+ - date published: 2023-10-25T20:50:14.328097+00:00
+ - user: None
+ - tags: []
+
+## Open to Grow
+ - [https://opentogrow.co.nz](https://opentogrow.co.nz)
+ - date published: 2024-01-01T03:40:17.027386+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pulse Security
+ - [https://pulsesecurity.co.nz](https://pulsesecurity.co.nz)
+ - date published: 2023-10-25T20:50:15.343196+00:00
+ - user: None
+ - tags: []
+
+## Reseller News - The voice of the New Zealand IT channel
+ - [https://www.reseller.co.nz](https://www.reseller.co.nz)
+ - date published: 2023-10-25T20:50:24.511375+00:00
+ - user: None
+ - tags: []
+
+## RNZ - NZ News, Current Affairs, Audio On Demand
+ - [https://www.rnz.co.nz](https://www.rnz.co.nz)
+ - date published: 2023-10-25T20:50:30.480752+00:00
+ - user: None
+ - tags: []
+
+## Shop New Zealand
+ - [https://www.shopnewzealand.co.nz](https://www.shopnewzealand.co.nz)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NZ's Best Small Business Email Marketing Experts
+ - [https://spike.co.nz](https://spike.co.nz)
+ - date published: 2024-01-05T16:45:11.951213+00:00
+ - user: None
+ - tags: []
+
+## Latest breaking news NZ | Stuff.co.nz | New Zealand
+ - [https://www.stuff.co.nz](https://www.stuff.co.nz)
+ - date published: 2023-10-25T20:50:45.473515+00:00
+ - user: None
+ - tags: []
+
+## The Daily Examiner
+ - [https://www.thedailyexaminer.co.nz](https://www.thedailyexaminer.co.nz)
+ - date published: 2024-01-06T21:17:49.898981+00:00
+ - user: None
+ - tags: []
+
+## The Post
+ - [https://www.thepost.co.nz](https://www.thepost.co.nz)
+ - date published: 2023-11-27T08:54:31.962811+00:00
+ - user: None
+ - tags: []
+
+## The Spinoff
+ - [https://thespinoff.co.nz](https://thespinoff.co.nz)
+ - date published: 2024-04-01T15:13:37.818585+00:00
+ - user: None
+ - tags: []
+
+## Tidy Life Solutions: Home Organising and Decluttering Service Wellington
+ - [https://www.tidylifesolutions.co.nz](https://www.tidylifesolutions.co.nz)
+ - date published: 2024-01-11T17:08:10.216210+00:00
+ - user: None
+ - tags: []
+
+## Maori Geek
+ - [https://maori.geek.nz](https://maori.geek.nz)
+ - date published: 2023-10-25T20:50:54.301684+00:00
+ - user: None
+ - tags: []
+
+## Arabesque | Systems, Tools, and Terminal Science
+ - [https://blog.sanctum.geek.nz](https://blog.sanctum.geek.nz)
+ - date published: 2023-10-25T20:51:00.552568+00:00
+ - user: None
+ - tags: []
+
+## SmartView Christchurch
+ - [https://smartview.ccc.govt.nz](https://smartview.ccc.govt.nz)
+ - date published: 2023-10-25T20:51:03.510470+00:00
+ - user: None
+ - tags: []
+
+## http://www.nzsis.govt.nz
+ - [http://www.nzsis.govt.nz](http://www.nzsis.govt.nz)
+ - date published: 2024-02-07T15:33:41+00:00
+ - user: rumpel
+ - tags: ['new zealand security intelligence', 'security intelligence']
+
+## Te Ara Encyclopedia of New Zealand – Te Ara Encyclopedia of New Zealand
+ - [https://teara.govt.nz](https://teara.govt.nz)
+ - date published: 2023-10-25T20:51:07.098533+00:00
+ - user: None
+ - tags: []
+
+## home
+ - [https://www.tepapa.govt.nz](https://www.tepapa.govt.nz)
+ - date published: 2023-11-13T13:55:09.677844+00:00
+ - user: None
+ - tags: ['museum']
+
+## Cloud Island
+ - [https://cloudisland.nz](https://cloudisland.nz)
+ - date published: 2023-10-25T20:51:13.906554+00:00
+ - user: None
+ - tags: []
+
+## Home » InternetNZ
+ - [https://internetnz.nz](https://internetnz.nz)
+ - date published: 2023-10-25T20:51:16.741237+00:00
+ - user: None
+ - tags: []
+
 ## InternetNZ Status
  - [https://status.internetnz.nz](https://status.internetnz.nz)
  - date published: 2023-10-25T20:51:22.956753+00:00
@@ -629,14 +773,14 @@
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
@@ -1660,17 +1804,17 @@
  - user: None
  - tags: []
 
-## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
- - [https://archive.org](https://archive.org)
- - date published: 2023-10-25T09:29:04.093943+00:00
- - user: None
- - tags: ['internet archive', 'digital library']
-
 ## Internet Archive: Secret service
  - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
  - date published: 2023-10-27T14:37:50+00:00
  - user: rumpel
  - tags: ['retro', 'magazine']
+
+## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+ - [https://archive.org](https://archive.org)
+ - date published: 2023-10-25T09:29:04.093943+00:00
+ - user: None
+ - tags: ['internet archive', 'digital library']
 
 ## Internet Archive Blogs | A blog from the team at archive.org
  - [https://blog.archive.org](https://blog.archive.org)
@@ -1732,6 +1876,12 @@
  - user: None
  - tags: []
 
+## Directory listing for ia902808.us.archive.org
+ - [https://ia902808.us.archive.org](https://ia902808.us.archive.org)
+ - date published: 2024-04-01T15:13:40.286257+00:00
+ - user: None
+ - tags: []
+
 ## Directory listing for ia903105.us.archive.org
  - [https://ia903105.us.archive.org](https://ia903105.us.archive.org)
  - date published: 2023-10-25T20:59:26.153617+00:00
@@ -1785,14 +1935,14 @@
  - tags: []
 
 ## Archiveteam
- - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
- - date published: 2023-11-25T06:19:37.367056+00:00
+ - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Archiveteam
- - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
+ - date published: 2023-11-25T06:19:37.367056+00:00
  - user: None
  - tags: []
 
@@ -2630,6 +2780,12 @@
  - user: rumpel
  - tags: ['c++', 'cpp']
 
+## Peter Hosey
+ - [https://boredzo.org](https://boredzo.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## BorgBackup – Deduplicating archiver with compression and authenticated encryption
  - [https://www.borgbackup.org](https://www.borgbackup.org)
  - date published: 2023-10-25T21:03:21.679225+00:00
@@ -3080,6 +3236,12 @@
  - user: None
  - tags: []
 
+## Carnegie Endowment for International Peace
+ - [https://carnegieendowment.org](https://carnegieendowment.org)
+ - date published: 2024-04-01T11:37:35.387443+00:00
+ - user: None
+ - tags: []
+
 ## The Carter Center | Waging Peace, Fighting Disease & Building Hope
  - [https://www.cartercenter.org](https://www.cartercenter.org)
  - date published: 2023-10-25T21:05:47.773483+00:00
@@ -3255,14 +3417,14 @@
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [https://blog.cerowrt.org](https://blog.cerowrt.org)
- - date published: 2023-10-25T21:06:57.314728+00:00
+ - [http://blog.cerowrt.org](http://blog.cerowrt.org)
+ - date published: 2024-02-25T15:50:51.524978+00:00
  - user: None
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [http://blog.cerowrt.org](http://blog.cerowrt.org)
- - date published: 2024-02-25T15:50:51.524978+00:00
+ - [https://blog.cerowrt.org](https://blog.cerowrt.org)
+ - date published: 2023-10-25T21:06:57.314728+00:00
  - user: None
  - tags: []
 
@@ -4115,14 +4277,14 @@
  - tags: []
 
 ## Homepage - Creative Commons
- - [https://creativecommons.org](https://creativecommons.org)
- - date published: 2023-12-11T16:22:52.219620+00:00
+ - [http://creativecommons.org](http://creativecommons.org)
+ - date published: 2024-03-21T07:44:18.617797+00:00
  - user: None
  - tags: []
 
 ## Homepage - Creative Commons
- - [http://creativecommons.org](http://creativecommons.org)
- - date published: 2024-03-21T07:44:18.617797+00:00
+ - [https://creativecommons.org](https://creativecommons.org)
+ - date published: 2023-12-11T16:22:52.219620+00:00
  - user: None
  - tags: []
 
@@ -4853,6 +5015,12 @@
  - user: None
  - tags: []
 
+## Dissent Magazine
+ - [https://www.dissentmagazine.org](https://www.dissentmagazine.org)
+ - date published: 2024-04-01T15:14:14.259343+00:00
+ - user: None
+ - tags: []
+
 ## distcc: a fast, free distributed C/C++ compiler
  - [https://www.distcc.org](https://www.distcc.org)
  - date published: 2023-10-25T21:14:26.079192+00:00
@@ -4988,6 +5156,12 @@
 ## Resolve a DOI Name
  - [http://dx.doi.org](http://dx.doi.org)
  - date published: 2024-02-27T01:04:33.113692+00:00
+ - user: None
+ - tags: []
+
+## Dollars and Sense: Real World Economics
+ - [https://www.dollarsandsense.org](https://www.dollarsandsense.org)
+ - date published: 2024-04-01T15:13:22.704395+00:00
  - user: None
  - tags: []
 
@@ -5142,16 +5316,16 @@
  - tags: []
 
 ## Kohina Web Player
- - [https://kohina.duckdns.org](https://kohina.duckdns.org)
- - date published: 2024-02-15T22:13:24.519956+00:00
- - user: None
- - tags: ['demoscene']
-
-## Kohina Web Player
  - [http://kohina.duckdns.org](http://kohina.duckdns.org)
  - date published: 2024-02-11T14:38:28.495727+00:00
  - user: None
  - tags: []
+
+## Kohina Web Player
+ - [https://kohina.duckdns.org](https://kohina.duckdns.org)
+ - date published: 2024-02-15T22:13:24.519956+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Duck DNS
  - [https://www.duckdns.org](https://www.duckdns.org)
@@ -5741,6 +5915,12 @@
  - user: None
  - tags: []
 
+## Engaging Science, Technology, and Society
+ - [https://estsjournal.org](https://estsjournal.org)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## ETC Group
  - [https://www.etcgroup.org](https://www.etcgroup.org)
  - date published: 2024-02-23T00:00:00+00:00
@@ -5828,186 +6008,6 @@
 ## EurekAlert! Science News Releases
  - [https://www.eurekalert.org](https://www.eurekalert.org)
  - date published: 2023-10-25T10:12:01.542063+00:00
- - user: None
- - tags: []
-
-## European Lisp Symposium
- - [https://www.european-lisp-symposium.org](https://www.european-lisp-symposium.org)
- - date published: 2023-10-25T21:19:31.534165+00:00
- - user: None
- - tags: []
-
-## Europe PMC
- - [https://europepmc.org](https://europepmc.org)
- - date published: 2024-02-26T21:43:40.591938+00:00
- - user: None
- - tags: []
-
-## Eurosurveillance
- - [https://www.eurosurveillance.org](https://www.eurosurveillance.org)
- - date published: 2023-11-24T19:04:26.701922+00:00
- - user: None
- - tags: ['diseases', 'epidemiology']
-
-## Hi, I'm Aditya Athalye.
- - [https://www.evalapply.org](https://www.evalapply.org)
- - date published: 2023-10-25T21:19:33.111462+00:00
- - user: None
- - tags: []
-
-## Home Page of Evan Miller
- - [https://www.evanmiller.org](https://www.evanmiller.org)
- - date published: 2023-10-25T21:19:35.240645+00:00
- - user: None
- - tags: []
-
-## Event Horizon Telescope
- - [https://eventhorizontelescope.org](https://eventhorizontelescope.org)
- - date published: 2024-03-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Environmental Working Group – EWG’s Holiday Gift Box: Sustainable Swaps | Environmental Working Group
- - [https://www.ewg.org](https://www.ewg.org)
- - date published: 2023-11-07T20:37:47.472532+00:00
- - user: None
- - tags: []
-
-## Ex Astris Scientia - Bernd Schneider's Star Trek Site
- - [https://www.ex-astris-scientia.org](https://www.ex-astris-scientia.org)
- - date published: 2023-10-25T21:19:36.786033+00:00
- - user: None
- - tags: []
-
-## Exercism
- - [https://exercism.org](https://exercism.org)
- - date published: 2023-10-25T21:19:39.464087+00:00
- - user: None
- - tags: []
-
-## ExifTool by Phil Harvey
- - [https://exiftool.org](https://exiftool.org)
- - date published: 2023-10-25T21:19:45.814769+00:00
- - user: None
- - tags: []
-
-## Explore.org
- - [https://explore.org](https://explore.org)
- - date published: 2023-10-25T21:19:47.761417+00:00
- - user: None
- - tags: []
-
-## EXP TV
- - [https://exptv.org](https://exptv.org)
- - date published: 2023-10-25T21:19:50.136672+00:00
- - user: None
- - tags: []
-
-## Extism - make all software programmable. Extend from within. | Extism - make all software programmable. Extend from within.
- - [https://extism.org](https://extism.org)
- - date published: 2023-10-25T21:19:54.073061+00:00
- - user: None
- - tags: []
-
-## Eye on Surveillance
- - [https://eyeonsurveillance.org](https://eyeonsurveillance.org)
- - date published: 2024-01-03T18:31:43.190369+00:00
- - user: None
- - tags: []
-
-## F4PGA - the GCC of FPGAs
- - [https://f4pga.org](https://f4pga.org)
- - date published: 2023-10-25T21:19:57.352430+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.facs.org](https://www.facs.org)
- - date published: 2024-02-24T18:08:15.794736+00:00
- - user: None
- - tags: []
-
-## FactCheck.org
- - [https://www.factcheck.org](https://www.factcheck.org)
- - date published: 2024-02-07T12:11:47+00:00
- - user: rumpel
- - tags: ['fact check', 'annenberg']
-
-## Re: Factor
- - [https://re.factorcode.org](https://re.factorcode.org)
- - date published: 2023-11-11T04:10:27.144245+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [https://fair.org](https://fair.org)
- - date published: 2023-10-25T21:19:59.248745+00:00
- - user: None
- - tags: []
-
-## Home - Fairplay
- - [https://fairplayforkids.org](https://fairplayforkids.org)
- - date published: 2024-02-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Fair Trials | Fairness, equality, justice
- - [https://www.fairtrials.org](https://www.fairtrials.org)
- - date published: 2023-10-25T21:20:03.100788+00:00
- - user: None
- - tags: []
-
-## Falco
- - [https://falco.org](https://falco.org)
- - date published: 2023-10-25T21:20:05.441013+00:00
- - user: None
- - tags: []
-
-## Fancyclopedia 3 - Fancyclopedia 3
- - [https://fancyclopedia.org](https://fancyclopedia.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Fanlore
- - [https://fanlore.org](https://fanlore.org)
- - date published: 2023-10-25T13:58:14.775906+00:00
- - user: None
- - tags: []
-
-## Home | Food and Agriculture Organization of the United Nations
- - [https://www.fao.org](https://www.fao.org)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Federation of American Scientists
- - [https://fas.org](https://fas.org)
- - date published: 2023-10-25T21:20:09.087511+00:00
- - user: None
- - tags: []
-
-## FAS Project on Government Secrecy (1991-2021)
- - [https://sgp.fas.org](https://sgp.fas.org)
- - date published: 2023-10-25T21:20:11.503363+00:00
- - user: None
- - tags: []
-
-## Foundation for Defense of Democracies
- - [https://www.fdd.org](https://www.fdd.org)
- - date published: 2024-03-25T00:00:00+00:00
- - user: rumpel
- - tags: ['cybersecurity']
-
-## F-Droid - Free and Open Source Android App Repository
- - [https://f-droid.org](https://f-droid.org)
- - date published: 2023-10-24T20:10:50.007548+00:00
- - user: None
- - tags: ['app store', 'open source']
-
-## Home | Federal Reserve History
- - [https://www.federalreservehistory.org](https://www.federalreservehistory.org)
- - date published: 2023-10-25T21:20:14.023107+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,9 @@
+## Home | Akash Rajpurohit
+ - [https://akashrajpurohit.com](https://akashrajpurohit.com)
+ - date published: 2023-10-25T12:36:59.463235+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Nothing to see here
  - [https://akercode.com](https://akercode.com)
  - date published: 2023-12-21T18:50:50.677733+00:00
@@ -3454,6 +3460,12 @@
  - user: None
  - tags: []
 
+## AT&T News, Wireless and Network Information | AT&T Newsroom
+ - [https://about.att.com](https://about.att.com)
+ - date published: 2024-04-01T20:42:34.532517+00:00
+ - user: None
+ - tags: []
+
 ## Attabit
  - [https://attabit.com](https://attabit.com)
  - date published: 2024-02-02T18:18:34.429686+00:00
@@ -5983,18 +5995,6 @@
 ## Coming Soon
  - [https://www.bizproweb.com](https://www.bizproweb.com)
  - date published: 2024-02-08T16:28:30.252067+00:00
- - user: None
- - tags: []
-
-## BizToc
- - [https://biztoc.com](https://biztoc.com)
- - date published: 2023-10-25T13:03:10.940595+00:00
- - user: None
- - tags: []
-
-## The Angry Dev · Darren Horrocks explains various Programming and DevOps practices, with some guides, explanations and ramblings from a sometimes angry man
- - [https://bizzeh.com](https://bizzeh.com)
- - date published: 2023-10-25T13:03:14.509269+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,39 @@
+## Jeff Johnson
+ - [https://lapcatsoftware.com](https://lapcatsoftware.com)
+ - date published: 2023-10-25T15:41:09.925391+00:00
+ - user: None
+ - tags: []
+
+## La Prensa Latina Media
+ - [https://www.laprensalatina.com](https://www.laprensalatina.com)
+ - date published: 2023-12-08T18:09:19.349070+00:00
+ - user: None
+ - tags: []
+
+## Laputa
+ - [https://www.laputa-jp.com](https://www.laputa-jp.com)
+ - date published: 2024-02-08T21:50:22.716744+00:00
+ - user: None
+ - tags: []
+
+## Laramie County Events
+ - [https://www.laramiecountyevents.com](https://www.laramiecountyevents.com)
+ - date published: 2024-01-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Laravel News
+ - [https://feed.laravel-news.com](https://feed.laravel-news.com)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Laravel News
+ - [https://laravel-news.com](https://laravel-news.com)
+ - date published: 2023-10-25T15:41:11.614231+00:00
+ - user: None
+ - tags: []
+
 ## Lares Labs
  - [https://labs.lares.com](https://labs.lares.com)
  - date published: 2024-02-11T14:35:07.711728+00:00
@@ -2237,17 +2273,17 @@ Chamber Music, Symphony
  - user: None
  - tags: []
 
-## LTTStore
- - [http://www.lttstore.com](http://www.lttstore.com)
- - date published: 2024-02-03T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Linus Tech Tips Store
  - [https://www.lttstore.com](https://www.lttstore.com)
  - date published: 2023-12-21T17:45:27+00:00
  - user: rumpel
  - tags: ['merchendise', 'tech']
+
+## LTTStore
+ - [http://www.lttstore.com](http://www.lttstore.com)
+ - date published: 2024-02-03T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Whale LAN
  - [https://www.ltxexpo.com](https://www.ltxexpo.com)
@@ -2731,16 +2767,16 @@ diversions.
  - tags: ['cms']
 
 ## Maggie Appleton
- - [http://maggieappleton.com](http://maggieappleton.com)
- - date published: 2024-02-26T08:55:27.731076+00:00
- - user: None
- - tags: []
-
-## Maggie Appleton
  - [https://maggieappleton.com](https://maggieappleton.com)
  - date published: 2023-10-25T08:47:09.508828+00:00
  - user: None
  - tags: ['personal']
+
+## Maggie Appleton
+ - [http://maggieappleton.com](http://maggieappleton.com)
+ - date published: 2024-02-26T08:55:27.731076+00:00
+ - user: None
+ - tags: []
 
 ## Magic Earth - Free Navigation & Maps App for Android and iPhone
  - [https://www.magicearth.com](https://www.magicearth.com)
@@ -5964,40 +6000,4 @@ diversions.
  - date published: 2023-10-30T15:38:28.721707+00:00
  - user: None
  - tags: ['music band']
-
-## Metallicman – We are just a group of retired spooks that discuss things that you’ll not find anywhere else. It makes us unique. Take a look around. Learn a thing or two.
- - [https://metallicman.com](https://metallicman.com)
- - date published: 2024-03-17T19:26:20.509697+00:00
- - user: None
- - tags: []
-
-## MetalliCSS
- - [https://www.metallicss.com](https://www.metallicss.com)
- - date published: 2023-10-25T16:01:46.787639+00:00
- - user: None
- - tags: []
-
-## Metal Wellness
- - [https://www.metalwellness.com](https://www.metalwellness.com)
- - date published: 2023-12-01T10:47:40.491393+00:00
- - user: None
- - tags: ['personal']
-
-## metablog
- - [https://blog.metaobject.com](https://blog.metaobject.com)
- - date published: 2023-10-25T16:01:55.739270+00:00
- - user: None
- - tags: []
-
-## META PCs | Custom Gaming Desktop & Laptop Computers
- - [http://metapcs.com](http://metapcs.com)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## META PCs | Custom Gaming Desktop & Laptop Computers
- - [https://www.metapcs.com](https://www.metapcs.com)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
 

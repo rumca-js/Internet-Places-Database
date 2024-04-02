@@ -1,3 +1,39 @@
+## Metallicman – We are just a group of retired spooks that discuss things that you’ll not find anywhere else. It makes us unique. Take a look around. Learn a thing or two.
+ - [https://metallicman.com](https://metallicman.com)
+ - date published: 2024-03-17T19:26:20.509697+00:00
+ - user: None
+ - tags: []
+
+## MetalliCSS
+ - [https://www.metallicss.com](https://www.metallicss.com)
+ - date published: 2023-10-25T16:01:46.787639+00:00
+ - user: None
+ - tags: []
+
+## Metal Wellness
+ - [https://www.metalwellness.com](https://www.metalwellness.com)
+ - date published: 2023-12-01T10:47:40.491393+00:00
+ - user: None
+ - tags: ['personal']
+
+## metablog
+ - [https://blog.metaobject.com](https://blog.metaobject.com)
+ - date published: 2023-10-25T16:01:55.739270+00:00
+ - user: None
+ - tags: []
+
+## META PCs | Custom Gaming Desktop & Laptop Computers
+ - [http://metapcs.com](http://metapcs.com)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## META PCs | Custom Gaming Desktop & Laptop Computers
+ - [https://www.metapcs.com](https://www.metapcs.com)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## In the Cells of the Eggplant | Meta-rationality
  - [https://metarationality.com](https://metarationality.com)
  - date published: 2023-12-25T03:43:59.974297+00:00
@@ -133,6 +169,12 @@
 ## Miami New Times | The Leading Independent News Source in Miami, Florida
  - [https://www.miaminewtimes.com](https://www.miaminewtimes.com)
  - date published: 2023-11-07T13:45:17.755480+00:00
+ - user: None
+ - tags: []
+
+## Micah Cantor
+ - [https://www.micahcantor.com](https://www.micahcantor.com)
+ - date published: 2024-03-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1230,14 +1272,14 @@
  - tags: []
 
 ## Modernizr: the feature detection library for HTML5/CSS3
- - [http://modernizr.com](http://modernizr.com)
- - date published: 2024-02-26T09:38:41.875406+00:00
+ - [https://modernizr.com](https://modernizr.com)
+ - date published: 2024-01-09T02:44:07.641831+00:00
  - user: None
  - tags: []
 
 ## Modernizr: the feature detection library for HTML5/CSS3
- - [https://modernizr.com](https://modernizr.com)
- - date published: 2024-01-09T02:44:07.641831+00:00
+ - [http://modernizr.com](http://modernizr.com)
+ - date published: 2024-02-26T09:38:41.875406+00:00
  - user: None
  - tags: []
 
@@ -1316,6 +1358,12 @@
 ## Momentum Magazine: Elevating Cycling Culture
  - [https://momentummag.com](https://momentummag.com)
  - date published: 2024-01-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Maurice's Blog 🐍
+ - [https://momo5502.com](https://momo5502.com)
+ - date published: 2024-04-01T23:01:49.871968+00:00
  - user: None
  - tags: []
 
@@ -1926,14 +1974,14 @@
  - tags: []
 
 ## mtstandard.com | Read Butte, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles
- - [https://mtstandard.com](https://mtstandard.com)
- - date published: 2023-11-27T17:10:46.469072+00:00
+ - [http://mtstandard.com](http://mtstandard.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
 ## mtstandard.com | Read Butte, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles
- - [http://mtstandard.com](http://mtstandard.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://mtstandard.com](https://mtstandard.com)
+ - date published: 2023-11-27T17:10:46.469072+00:00
  - user: None
  - tags: []
 
@@ -3323,6 +3371,12 @@
  - user: None
  - tags: []
 
+## Home • Nevada Current
+ - [https://nevadacurrent.com](https://nevadacurrent.com)
+ - date published: 2024-04-01T17:17:34.434824+00:00
+ - user: None
+ - tags: []
+
 ## Private Site
  - [https://nevan.com](https://nevan.com)
  - date published: 2023-12-24T08:14:35.823982+00:00
@@ -3600,14 +3654,14 @@
  - tags: []
 
 ## NewssMex
- - [http://www.newssmex.com](http://www.newssmex.com)
- - date published: 2024-02-27T12:33:40.005835+00:00
+ - [https://www.newssmex.com](https://www.newssmex.com)
+ - date published: 2024-02-27T12:34:22.767672+00:00
  - user: None
  - tags: []
 
 ## NewssMex
- - [https://www.newssmex.com](https://www.newssmex.com)
- - date published: 2024-02-27T12:34:22.767672+00:00
+ - [http://www.newssmex.com](http://www.newssmex.com)
+ - date published: 2024-02-27T12:33:40.005835+00:00
  - user: None
  - tags: []
 
@@ -4633,13 +4687,13 @@
  - tags: []
 
 ## Peter Norvig
- - [http://www.norvig.com](http://www.norvig.com)
+ - [https://www.norvig.com](https://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Peter Norvig
- - [https://www.norvig.com](https://www.norvig.com)
+ - [http://www.norvig.com](http://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -5949,58 +6003,4 @@ Answering Machine Greetings!
  - date published: 2023-10-25T16:26:27.103892+00:00
  - user: None
  - tags: []
-
-## Home | OpenBSD Handbook
- - [https://www.openbsdhandbook.com](https://www.openbsdhandbook.com)
- - date published: 2023-10-25T16:26:28.495244+00:00
- - user: None
- - tags: []
-
-## OpenBW – free and open-source
- - [https://www.openbw.com](https://www.openbw.com)
- - date published: 2024-01-09T02:45:29.927017+00:00
- - user: None
- - tags: []
-
-## OpenCage blog - what's new at OpenCage
- - [https://blog.opencagedata.com](https://blog.opencagedata.com)
- - date published: 2023-10-25T16:26:29.828123+00:00
- - user: None
- - tags: []
-
-## Open Collective
- - [https://blog.opencollective.com](https://blog.opencollective.com)
- - date published: 2024-02-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Raise and spend money with full transparency.
- - [https://opencollective.com](https://opencollective.com)
- - date published: 2023-12-11T17:46:06.323429+00:00
- - user: None
- - tags: ['fundrising organization']
-
-## Home | Open Core Ventures
- - [https://opencoreventures.com](https://opencoreventures.com)
- - date published: 2023-10-25T16:26:31.896557+00:00
- - user: None
- - tags: []
-
-## OpenCritic - The top critics in gaming. All in one place.
- - [https://opencritic.com](https://opencritic.com)
- - date published: 2023-10-27T07:30:11.127691+00:00
- - user: None
- - tags: ['game news']
-
-## The best free cultural & educational media on the web - Open Culture
- - [https://www.openculture.com](https://www.openculture.com)
- - date published: 2023-10-25T09:28:29.608798+00:00
- - user: None
- - tags: []
-
-## Cloud Delivered Enterprise Security by OpenDNS
- - [https://www.opendns.com](https://www.opendns.com)
- - date published: 2023-10-30T12:52:26.123819+00:00
- - user: None
- - tags: ['dns']
 

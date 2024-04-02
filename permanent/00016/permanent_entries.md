@@ -1,3 +1,93 @@
+## Chris Nicholas | Developer experience at Liveblocks
+ - [https://chrisnicholas.dev](https://chrisnicholas.dev)
+ - date published: 2024-01-02T15:32:22.185407+00:00
+ - user: None
+ - tags: []
+
+## @chrlschn - Charles Chen
+ - [https://chrlschn.dev](https://chrlschn.dev)
+ - date published: 2023-10-25T18:36:20.354962+00:00
+ - user: None
+ - tags: []
+
+## cichocinski.dev
+ - [https://cichocinski.dev](https://cichocinski.dev)
+ - date published: 2023-10-25T18:36:21.479652+00:00
+ - user: None
+ - tags: []
+
+## Home - Caught in the Web
+ - [https://citw.dev](https://citw.dev)
+ - date published: 2023-10-25T18:36:22.127721+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Civet
+ - [https://civet.dev](https://civet.dev)
+ - date published: 2023-10-25T18:36:23.882958+00:00
+ - user: None
+ - tags: []
+
+## clairefro
+ - [https://clairefro.dev](https://clairefro.dev)
+ - date published: 2023-10-25T18:36:25.009918+00:00
+ - user: None
+ - tags: []
+
+## https://claymcleod.dev
+ - [https://claymcleod.dev](https://claymcleod.dev)
+ - date published: 2024-01-09T02:56:52.761102+00:00
+ - user: None
+ - tags: []
+
+## Command Line Interface Guidelines
+ - [https://clig.dev](https://clig.dev)
+ - date published: 2017-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cobalt
+ - [https://cobalt.dev](https://cobalt.dev)
+ - date published: 2023-10-25T18:36:32.246177+00:00
+ - user: None
+ - tags: []
+
+## AI-Powered Coding Tutorials | Codeamigo
+ - [https://codeamigo.dev](https://codeamigo.dev)
+ - date published: 2023-10-25T18:36:35.073084+00:00
+ - user: None
+ - tags: []
+
+## CodeLink
+ - [https://codelink.dev](https://codelink.dev)
+ - date published: 2023-10-25T18:36:35.450021+00:00
+ - user: None
+ - tags: []
+
+## Cohan Robinson
+ - [https://cohan.dev](https://cohan.dev)
+ - date published: 2023-11-17T12:48:41+00:00
+ - user: None
+ - tags: ['personal']
+
+## Embeddable Common-Lisp
+ - [https://ecl.common-lisp.dev](https://ecl.common-lisp.dev)
+ - date published: 2023-10-25T18:36:36.899923+00:00
+ - user: None
+ - tags: []
+
+## Second Draft (in-progress) · Learn Lisp The Hard Way
+ - [https://llthw.common-lisp.dev](https://llthw.common-lisp.dev)
+ - date published: 2023-10-25T18:36:39.180021+00:00
+ - user: None
+ - tags: []
+
+## Confused bit
+ - [https://confusedbit.dev](https://confusedbit.dev)
+ - date published: 2023-10-25T18:36:44.738942+00:00
+ - user: None
+ - tags: []
+
 ## Development containers
  - [https://containers.dev](https://containers.dev)
  - date published: 2023-10-25T18:36:46.250992+00:00
@@ -678,14 +768,14 @@
  - tags: ['personal']
 
 ## Jakob Serlier's Personal Site
- - [http://jakobs.dev](http://jakobs.dev)
- - date published: 2024-01-15T00:00:00+00:00
+ - [https://jakobs.dev](https://jakobs.dev)
+ - date published: 2024-01-09T01:37:20.973191+00:00
  - user: None
  - tags: []
 
 ## Jakob Serlier's Personal Site
- - [https://jakobs.dev](https://jakobs.dev)
- - date published: 2024-01-09T01:37:20.973191+00:00
+ - [http://jakobs.dev](http://jakobs.dev)
+ - date published: 2024-01-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2018,14 +2108,14 @@
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4971,6 +5061,12 @@
  - user: None
  - tags: []
 
+## - Involved@RISD
+ - [https://involved.risd.edu](https://involved.risd.edu)
+ - date published: 2024-04-01T15:14:15.340595+00:00
+ - user: None
+ - tags: []
+
 ## Rochester Institute of Technology | RIT
  - [https://www.rit.edu](https://www.rit.edu)
  - date published: 2023-10-25T18:57:15.262189+00:00
@@ -5158,14 +5254,14 @@
  - tags: []
 
 ## Stanford Artificial Intelligence Laboratory
- - [http://ai.stanford.edu](http://ai.stanford.edu)
- - date published: 2024-02-26T14:41:27.710205+00:00
+ - [https://ai.stanford.edu](https://ai.stanford.edu)
+ - date published: 2023-10-25T18:58:06.440600+00:00
  - user: None
  - tags: []
 
 ## Stanford Artificial Intelligence Laboratory
- - [https://ai.stanford.edu](https://ai.stanford.edu)
- - date published: 2023-10-25T18:58:06.440600+00:00
+ - [http://ai.stanford.edu](http://ai.stanford.edu)
+ - date published: 2024-02-26T14:41:27.710205+00:00
  - user: None
  - tags: []
 
@@ -5296,14 +5392,14 @@
  - tags: []
 
 ## Stanford News
- - [http://news.stanford.edu](http://news.stanford.edu)
- - date published: 2024-02-26T13:11:04.090772+00:00
+ - [https://news.stanford.edu](https://news.stanford.edu)
+ - date published: 2023-10-25T18:58:41.013599+00:00
  - user: None
  - tags: []
 
 ## Stanford News
- - [https://news.stanford.edu](https://news.stanford.edu)
- - date published: 2023-10-25T18:58:41.013599+00:00
+ - [http://news.stanford.edu](http://news.stanford.edu)
+ - date published: 2024-02-26T13:11:04.090772+00:00
  - user: None
  - tags: []
 
@@ -5916,102 +6012,6 @@
 ## Stories - University of Houston
  - [https://stories.uh.edu](https://stories.uh.edu)
  - date published: 2023-10-25T19:01:29.577878+00:00
- - user: None
- - tags: []
-
-## University of Houston
- - [https://uh.edu](https://uh.edu)
- - date published: 2023-10-25T19:01:32.158915+00:00
- - user: None
- - tags: ['university']
-
-## UIC today
- - [https://today.uic.edu](https://today.uic.edu)
- - date published: 2023-10-25T19:01:36.433328+00:00
- - user: None
- - tags: []
-
-## Yannick Meurice | The University of Iowa
- - [https://meurice.sites.uiowa.edu](https://meurice.sites.uiowa.edu)
- - date published: 2024-02-08T17:59:53.820467+00:00
- - user: None
- - tags: []
-
-## Iowa Now | The University of Iowa
- - [https://now.uiowa.edu](https://now.uiowa.edu)
- - date published: 2023-11-19T05:08:59.202397+00:00
- - user: None
- - tags: []
-
-## The Aggregate
- - [http://aggregate.ee.engr.uky.edu](http://aggregate.ee.engr.uky.edu)
- - date published: 2023-10-25T19:01:38.933454+00:00
- - user: None
- - tags: []
-
-## Family & Consumer Sciences Extension
- - [https://fcs-hes.ca.uky.edu](https://fcs-hes.ca.uky.edu)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | University of Kentucky College of Arts & Sciences
- - [https://wrd.as.uky.edu](https://wrd.as.uky.edu)
- - date published: 2023-10-25T19:01:42.368454+00:00
- - user: None
- - tags: []
-
-## Home | University of Kentucky Research
- - [https://www.research.uky.edu](https://www.research.uky.edu)
- - date published: 2024-03-07T18:28:27.352122+00:00
- - user: None
- - tags: []
-
-## UMass Amherst – Educational blogs from our community
- - [https://blogs.umass.edu](https://blogs.umass.edu)
- - date published: 2024-02-24T18:07:22.063916+00:00
- - user: None
- - tags: []
-
-## Department of Earth, Geographic, and Climate Sciences | Programs in Earth, Geographic, and Climate Sciences
- - [https://eclogite.geo.umass.edu](https://eclogite.geo.umass.edu)
- - date published: 2024-02-08T17:01:53.198569+00:00
- - user: None
- - tags: []
-
-## Manning College of Information and Computer Sciences | UMass Amherst
- - [https://web.cs.umass.edu](https://web.cs.umass.edu)
- - date published: 2023-10-25T19:01:52.332060+00:00
- - user: None
- - tags: []
-
-## Manning College of Information & Computer Sciences
- - [https://www.cics.umass.edu](https://www.cics.umass.edu)
- - date published: 2024-02-26T08:56:15.973474+00:00
- - user: None
- - tags: []
-
-## UMass Amherst
- - [https://www.umass.edu](https://www.umass.edu)
- - date published: 2023-10-25T19:01:54.548019+00:00
- - user: None
- - tags: []
-
-## UMass Chan Medical School
- - [https://www.umassmed.edu](https://www.umassmed.edu)
- - date published: 2024-01-05T12:16:22.119217+00:00
- - user: None
- - tags: []
-
-## Welcome To UMBC - UMBC: University Of Maryland, Baltimore County
- - [https://umbc.edu](https://umbc.edu)
- - date published: 2023-11-02T22:08:17.285186+00:00
- - user: None
- - tags: []
-
-## https://userpages.umbc.edu
- - [https://userpages.umbc.edu](https://userpages.umbc.edu)
- - date published: 2024-01-09T03:28:34.496004+00:00
  - user: None
  - tags: []
 
