@@ -1,3 +1,75 @@
+## Bradley Thompson- Team Canada Duathlete, Digital Marketing Expert, Podcaster, Marketing Professor & Creative Content Creator
+ - [https://bradleythompson.ca](https://bradleythompson.ca)
+ - date published: 2024-01-15T22:20:27.125154+00:00
+ - user: None
+ - tags: []
+
+## The Breach
+ - [https://breachmedia.ca](https://breachmedia.ca)
+ - date published: 2023-10-25T12:04:07.809857+00:00
+ - user: None
+ - tags: []
+
+## The Centre for Addiction and Mental Health
+ - [https://www.camh.ca](https://www.camh.ca)
+ - date published: 2023-12-11T10:52:06.321718+00:00
+ - user: None
+ - tags: []
+
+## Canada.ca
+ - [https://www.canada.ca](https://www.canada.ca)
+ - date published: 2023-10-25T11:26:45.357716+00:00
+ - user: None
+ - tags: ['government', 'canada']
+
+## Chris Carlier
+ - [https://carlier.ca](https://carlier.ca)
+ - date published: 2023-12-28T18:49:41.221395+00:00
+ - user: None
+ - tags: ['personal']
+
+## CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
+ - [https://www.cbc.ca](https://www.cbc.ca)
+ - date published: 2023-10-25T10:55:51.069895+00:00
+ - user: None
+ - tags: []
+
+## https://cdrom.ca
+ - [https://cdrom.ca](https://cdrom.ca)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Choly's Blog
+ - [https://choly.ca](https://choly.ca)
+ - date published: 2024-03-26T02:08:40.229638+00:00
+ - user: None
+ - tags: ['devlog', 'personal']
+
+## The Citizen Lab - University of Toronto
+ - [https://citizenlab.ca](https://citizenlab.ca)
+ - date published: 2023-10-25T12:09:16.663748+00:00
+ - user: None
+ - tags: ['human rights', 'privacy']
+
+## Breaking News | Top Local Stories | CityNews Calgary
+ - [https://calgary.citynews.ca](https://calgary.citynews.ca)
+ - date published: 2024-01-14T14:56:16.599498+00:00
+ - user: None
+ - tags: []
+
+## Breaking News | Top Local Stories | CityNews Montreal
+ - [https://montreal.citynews.ca](https://montreal.citynews.ca)
+ - date published: 2023-11-05T06:28:16.282544+00:00
+ - user: None
+ - tags: []
+
+## Breaking News | Top Local Stories | CityNews Toronto
+ - [https://toronto.citynews.ca](https://toronto.citynews.ca)
+ - date published: 2023-12-04T13:48:22.408481+00:00
+ - user: None
+ - tags: []
+
 ## Breaking News | Top Local Stories | CityNews Vancouver
  - [https://vancouver.citynews.ca](https://vancouver.citynews.ca)
  - date published: 2023-12-23T07:31:06.657092+00:00
@@ -291,6 +363,12 @@
  - date published: 2023-10-25T12:05:15.572215+00:00
  - user: None
  - tags: []
+
+## Flashing Palely in the Margins
+ - [https://www.inthemargins.ca](https://www.inthemargins.ca)
+ - date published: 2024-04-03T12:44:39.135509+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Italian Recipes, Pasta, Pizza, Lasagna, Food, Cooking!
  - [https://www.italiancook.ca](https://www.italiancook.ca)
@@ -695,6 +773,12 @@
  - tags: ['personal']
 
 ## Scott Redmond
+ - [http://www.scottredmond.ca](http://www.scottredmond.ca)
+ - date published: 2024-04-03T12:49:31.889702+00:00
+ - user: None
+ - tags: ['personal']
+
+## Scott Redmond
  - [https://www.scottredmond.ca](https://www.scottredmond.ca)
  - date published: 2024-01-23T03:27:52.039443+00:00
  - user: None
@@ -845,6 +929,12 @@
  - tags: ['personal']
 
 ## Timur Ochakovsky | Web Developer
+ - [http://www.timur.ca](http://www.timur.ca)
+ - date published: 2002-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Timur Ochakovsky | Web Developer
  - [https://www.timur.ca](https://www.timur.ca)
  - date published: 2023-11-29T14:23:08.617547+00:00
  - user: None
@@ -860,7 +950,7 @@
  - [https://www.torontopubliclibrary.ca](https://www.torontopubliclibrary.ca)
  - date published: 2024-04-03T06:41:22.645507+00:00
  - user: None
- - tags: []
+ - tags: ['public library']
 
 ## Toronto Users Group for Power Systems
  - [https://www.tug.ca](https://www.tug.ca)
@@ -1010,6 +1100,12 @@
 ## Vitalik Buterin's website
  - [https://vitalik.ca](https://vitalik.ca)
  - date published: 2023-10-25T09:03:03.847296+00:00
+ - user: None
+ - tags: ['personal']
+
+## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
+ - [http://wingfelder.ca](http://wingfelder.ca)
+ - date published: 2024-04-03T12:43:01.979772+00:00
  - user: None
  - tags: ['personal']
 
@@ -3055,14 +3151,14 @@
  - tags: []
 
 ## Jonny Miller
- - [https://www.jonnymiller.co](https://www.jonnymiller.co)
- - date published: 2024-01-08T15:36:50.624044+00:00
+ - [http://www.jonnymiller.co](http://www.jonnymiller.co)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Jonny Miller
- - [http://www.jonnymiller.co](http://www.jonnymiller.co)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://www.jonnymiller.co](https://www.jonnymiller.co)
+ - date published: 2024-01-08T15:36:50.624044+00:00
  - user: None
  - tags: []
 
@@ -3757,14 +3853,14 @@
  - tags: []
 
 ## Travel Hungry: Great Tastes From Stuttgart & Beyond
- - [https://travelhungry.co](https://travelhungry.co)
- - date published: 2023-10-25T12:24:24.607320+00:00
+ - [http://travelhungry.co](http://travelhungry.co)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Travel Hungry: Great Tastes From Stuttgart & Beyond
- - [http://travelhungry.co](http://travelhungry.co)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://travelhungry.co](https://travelhungry.co)
+ - date published: 2023-10-25T12:24:24.607320+00:00
  - user: None
  - tags: []
 
@@ -4340,6 +4436,12 @@
  - user: None
  - tags: []
 
+## 2matoes
+ - [https://2matoes.com](https://2matoes.com)
+ - date published: 2024-04-03T12:42:43.859146+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Altcoin Mining Pool for GPU and ASIC - 2Miners
  - [https://2miners.com](https://2miners.com)
  - date published: 2023-10-25T12:26:39.939571+00:00
@@ -4529,6 +4631,12 @@
 ## 8tracks internet radio | Free music playlists | Best app for music
  - [https://8tracks.com](https://8tracks.com)
  - date published: 2023-10-28T19:00:37.732156+00:00
+ - user: None
+ - tags: []
+
+## +972 Magazine
+ - [https://www.972mag.com](https://www.972mag.com)
+ - date published: 2024-04-03T19:49:24.223325+00:00
  - user: None
  - tags: []
 
@@ -4736,15 +4844,15 @@
  - user: None
  - tags: ['personal']
 
-## None
- - [https://www.aaronsw.com](https://www.aaronsw.com)
- - date published: 2024-01-09T01:38:10.984994+00:00
- - user: None
- - tags: []
-
 ## Aaron Swartz
  - [http://www.aaronsw.com](http://www.aaronsw.com)
  - date published: 2009-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.aaronsw.com](https://www.aaronsw.com)
+ - date published: 2024-01-09T01:38:10.984994+00:00
  - user: None
  - tags: []
 
@@ -4785,14 +4893,14 @@
  - tags: []
 
 ## Abandoned Realms Homepage
- - [http://abandonedrealms.com](http://abandonedrealms.com)
- - date published: 2024-03-27T20:46:21.299380+00:00
+ - [https://abandonedrealms.com](https://abandonedrealms.com)
+ - date published: 2024-03-27T20:46:56.678785+00:00
  - user: None
  - tags: ['mud game']
 
 ## Abandoned Realms Homepage
- - [https://abandonedrealms.com](https://abandonedrealms.com)
- - date published: 2024-03-27T20:46:56.678785+00:00
+ - [http://abandonedrealms.com](http://abandonedrealms.com)
+ - date published: 2024-03-27T20:46:21.299380+00:00
  - user: None
  - tags: ['mud game']
 
@@ -4915,6 +5023,12 @@
  - date published: 2023-10-30T08:53:04.273441+00:00
  - user: None
  - tags: []
+
+## Abhinav Bhatt
+ - [http://abhinavbhatt.com](http://abhinavbhatt.com)
+ - date published: 2024-04-03T12:49:59.456600+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Abhinav Bhatt
  - [https://abhinavbhatt.com](https://abhinavbhatt.com)
@@ -5079,14 +5193,14 @@
  - tags: []
 
 ## Accidental Fire
- - [http://accidentalfire.com](http://accidentalfire.com)
- - date published: 2024-04-03T06:29:12.978441+00:00
+ - [https://accidentalfire.com](https://accidentalfire.com)
+ - date published: 2023-12-20T05:40:26.113068+00:00
  - user: None
  - tags: ['personal']
 
 ## Accidental Fire
- - [https://accidentalfire.com](https://accidentalfire.com)
- - date published: 2023-12-20T05:40:26.113068+00:00
+ - [http://accidentalfire.com](http://accidentalfire.com)
+ - date published: 2024-04-03T06:29:12.978441+00:00
  - user: None
  - tags: ['personal']
 
@@ -5645,14 +5759,14 @@
  - tags: []
 
 ## Home - Adventure Hermit Travel
- - [http://adventurehermit.com](http://adventurehermit.com)
- - date published: 2020-05-19T07:46:57+00:00
+ - [https://adventurehermit.com](https://adventurehermit.com)
+ - date published: 2024-01-06T08:54:27.239976+00:00
  - user: None
  - tags: []
 
 ## Home - Adventure Hermit Travel
- - [https://adventurehermit.com](https://adventurehermit.com)
- - date published: 2024-01-06T08:54:27.239976+00:00
+ - [http://adventurehermit.com](http://adventurehermit.com)
+ - date published: 2020-05-19T07:46:57+00:00
  - user: None
  - tags: []
 
@@ -5889,118 +6003,4 @@
  - date published: 2023-11-19T06:48:56.435473+00:00
  - user: None
  - tags: []
-
-## AI Safety Fundamentals – BlueDot Impact
- - [https://www.agisafetyfundamentals.com](https://www.agisafetyfundamentals.com)
- - date published: 2024-01-09T02:29:10.713547+00:00
- - user: None
- - tags: []
-
-## Home - AGI Sphere
- - [https://agi-sphere.com](https://agi-sphere.com)
- - date published: 2023-10-25T12:35:09.117453+00:00
- - user: None
- - tags: []
-
-## Parikshit Agnihotry
- - [https://p.agnihotry.com](https://p.agnihotry.com)
- - date published: 2021-10-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Agora Road's Macintosh Cafe
- - [https://forum.agoraroad.com](https://forum.agoraroad.com)
- - date published: 2023-10-24T20:12:27.718591+00:00
- - user: None
- - tags: []
-
-## A Graphics Guy's Note
- - [https://agraphicsguynotes.com](https://agraphicsguynotes.com)
- - date published: 2023-10-25T08:44:08.007635+00:00
- - user: None
- - tags: ['personal']
-
-## Successful Farming: Practical, Trusted Farming and Ranching Information
- - [https://www.agriculture.com](https://www.agriculture.com)
- - date published: 2023-10-25T12:35:14.231208+00:00
- - user: None
- - tags: []
-
-## AgWeb - Agriculture news, commodity markets insights and weather
- - [https://www.agweb.com](https://www.agweb.com)
- - date published: 2023-10-25T12:35:22.012044+00:00
- - user: None
- - tags: []
-
-## https://ahalbert.com
- - [https://ahalbert.com](https://ahalbert.com)
- - date published: 2023-10-25T12:35:23.943556+00:00
- - user: None
- - tags: []
-
-## Ahmad Abugosh – I put the "Gosh" in Abugosh.
- - [https://ahmadabugosh.com](https://ahmadabugosh.com)
- - date published: 2023-12-09T14:59:26.542632+00:00
- - user: None
- - tags: ['personal']
-
-## Ahrefs - SEO Tools & Resources To Grow Your Search Traffic
- - [https://ahrefs.com](https://ahrefs.com)
- - date published: 2023-10-25T12:35:26.492756+00:00
- - user: None
- - tags: ['search engines', 'seo']
-
-## Ahrefs
- - [https://tech.ahrefs.com](https://tech.ahrefs.com)
- - date published: 2023-10-25T12:35:29.413545+00:00
- - user: None
- - tags: []
-
-## AI21 Labs
- - [https://www.ai21.com](https://www.ai21.com)
- - date published: 2023-10-25T12:35:33.689412+00:00
- - user: None
- - tags: []
-
-## Find All You Need For AI Art | aiart[apps]
- - [https://www.aiartapps.com](https://www.aiartapps.com)
- - date published: 2023-10-25T12:35:42.195679+00:00
- - user: None
- - tags: []
-
-## AIxCC
- - [https://aicyberchallenge.com](https://aicyberchallenge.com)
- - date published: 2023-08-04T19:13:33+00:00
- - user: None
- - tags: []
-
-## Aigarius Blog
- - [https://aigarius.com](https://aigarius.com)
- - date published: 2023-10-25T12:35:44.607811+00:00
- - user: None
- - tags: []
-
-## Home of AI and Artificial Intelligence News | AI Magazine
- - [https://aimagazine.com](https://aimagazine.com)
- - date published: 2023-10-25T12:35:55.774152+00:00
- - user: None
- - tags: []
-
-## $10M AI Mathematical Olympiad Prize
- - [https://aimoprize.com](https://aimoprize.com)
- - date published: 2023-11-27T12:25:06+00:00
- - user: None
- - tags: []
-
-## AIMultiple: AI Usecases & Tools to Grow Your Business
- - [https://research.aimultiple.com](https://research.aimultiple.com)
- - date published: 2023-10-25T12:36:02.211402+00:00
- - user: None
- - tags: []
-
-## Aviation International News
- - [https://www.ainonline.com](https://www.ainonline.com)
- - date published: 2024-02-27T14:53:40.602217+00:00
- - user: None
- - tags: ['aviation news']
 

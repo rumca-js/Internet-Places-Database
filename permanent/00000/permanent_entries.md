@@ -1283,13 +1283,13 @@
  - tags: []
 
 ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## http://hello.pi.ai/
- - [http://hello.pi.ai](http://hello.pi.ai)
+ - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -1303,6 +1303,12 @@
 ## Remove Background from Image, Free HD, No Signup - Pixian.AI
  - [https://pixian.ai](https://pixian.ai)
  - date published: 2023-10-25T11:41:22.061266+00:00
+ - user: None
+ - tags: []
+
+## Plandex - AI programming engine
+ - [https://plandex.ai](https://plandex.ai)
+ - date published: 2024-04-03T19:49:14.844485+00:00
  - user: None
  - tags: []
 
@@ -2302,6 +2308,12 @@
  - user: None
  - tags: []
 
+## All posts
+ - [https://clerestory.netlify.app](https://clerestory.netlify.app)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Pokémon Cards CSS Holographic Effect
  - [https://deck-24abcd.netlify.app](https://deck-24abcd.netlify.app)
  - date published: 2023-10-25T11:47:24.028454+00:00
@@ -2397,6 +2409,12 @@
  - date published: 2024-01-24T04:21:20.436111+00:00
  - user: None
  - tags: []
+
+## Villa Pirorum
+ - [https://villapirorum.netlify.app](https://villapirorum.netlify.app)
+ - date published: 2024-04-03T12:45:05.513466+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Niagara Launcher ðŸ”¹ fresh & clean homescreen for Android
  - [https://niagaralauncher.app](https://niagaralauncher.app)
@@ -3196,6 +3214,12 @@
  - user: None
  - tags: ['youtuber']
 
+## None
+ - [https://tonyshouse.art](https://tonyshouse.art)
+ - date published: 2024-04-03T12:49:27.043405+00:00
+ - user: None
+ - tags: ['personal']
+
 ## https://travelgpt.art
  - [https://travelgpt.art](https://travelgpt.art)
  - date published: 2024-01-09T02:23:42.162820+00:00
@@ -3315,6 +3339,12 @@
  - date published: 2023-10-25T11:52:46.396385+00:00
  - user: None
  - tags: []
+
+## Samuel Hobl
+ - [https://samuel.hobl.at](https://samuel.hobl.at)
+ - date published: 2024-04-03T12:47:05.291994+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home | Jakob Maier
  - [https://www.jakobmaier.at](https://www.jakobmaier.at)
@@ -3489,6 +3519,12 @@
  - date published: 2024-01-10T18:10:16.445630+00:00
  - user: None
  - tags: []
+
+## Now - Adam Ashton
+ - [http://www.adamashton.com.au](http://www.adamashton.com.au)
+ - date published: 2024-04-03T12:46:14.376541+00:00
+ - user: None
+ - tags: ['personal']
 
 ## 404 Not Found
  - [https://www.adelaidenow.com.au](https://www.adelaidenow.com.au)
@@ -3858,6 +3894,12 @@
 
 ## About me - Write Approach Marketing
  - [https://writeapproach.com.au](https://writeapproach.com.au)
+ - date published: 2018-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## About me - Write Approach Marketing
+ - [http://writeapproach.com.au](http://writeapproach.com.au)
  - date published: 2018-04-30T00:00:00+00:00
  - user: None
  - tags: []
@@ -4355,16 +4397,16 @@
  - tags: []
 
 ## Denny Wong - Learn, think, write and do.
- - [http://dewo.be](http://dewo.be)
- - date published: 2018-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Denny Wong - Learn, think, write and do.
  - [https://dewo.be](https://dewo.be)
  - date published: 2023-11-29T14:18:04.127765+00:00
  - user: None
  - tags: ['personal']
+
+## Denny Wong - Learn, think, write and do.
+ - [http://dewo.be](http://dewo.be)
+ - date published: 2018-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Dries Depoorter – artist and speaker working with technology 🔥
  - [https://driesdepoorter.be](https://driesdepoorter.be)
@@ -4426,17 +4468,17 @@
  - user: None
  - tags: []
 
-## Liero - Official website
- - [https://www.liero.be](https://www.liero.be)
- - date published: 2023-10-26T18:32:21.331231+00:00
- - user: None
- - tags: ['retro game', 'game']
-
 ## Original Sling'n'shoot Worms Game
  - [http://www.liero.be](http://www.liero.be)
  - date published: 2023-12-28T18:40:30+00:00
  - user: None
  - tags: []
+
+## Liero - Official website
+ - [https://www.liero.be](https://www.liero.be)
+ - date published: 2023-10-26T18:32:21.331231+00:00
+ - user: None
+ - tags: ['retro game', 'game']
 
 ## Home
  - [https://www.mjvanhee.be](https://www.mjvanhee.be)
@@ -4913,16 +4955,16 @@
  - tags: ['personal']
 
 ## Dagan.Blog – Education Futurist
- - [http://dagan.blog](http://dagan.blog)
- - date published: 2024-02-25T19:34:43.972971+00:00
- - user: None
- - tags: []
-
-## Dagan.Blog – Education Futurist
  - [https://dagan.blog](https://dagan.blog)
  - date published: 2024-01-09T02:26:37.338771+00:00
  - user: None
  - tags: ['personal']
+
+## Dagan.Blog – Education Futurist
+ - [http://dagan.blog](http://dagan.blog)
+ - date published: 2024-02-25T19:34:43.972971+00:00
+ - user: None
+ - tags: []
 
 ## Deep Cuts in a Lovecraftian Vein
  - [https://deepcuts.blog](https://deepcuts.blog)
@@ -4953,6 +4995,12 @@
  - date published: 2023-10-25T09:39:13.079588+00:00
  - user: None
  - tags: ['substack']
+
+## Dom's blog
+ - [https://doms.blog](https://doms.blog)
+ - date published: 2024-04-03T12:47:04.943694+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home
  - [https://drewbutler.blog](https://drewbutler.blog)
@@ -5147,6 +5195,12 @@
  - user: None
  - tags: []
 
+## Comparing Notes
+ - [https://leviconrad.blog](https://leviconrad.blog)
+ - date published: 2024-03-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## johnpublic
  - [https://johnpublic.mataroa.blog](https://johnpublic.mataroa.blog)
  - date published: 2023-10-25T12:00:42.570358+00:00
@@ -5176,6 +5230,12 @@
  - date published: 2023-11-29T15:29:38.973597+00:00
  - user: None
  - tags: ['personal']
+
+## bapsi
+ - [https://bapsi.micro.blog](https://bapsi.micro.blog)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Micro.blog
  - [https://micro.blog](https://micro.blog)
@@ -5327,6 +5387,12 @@
  - user: None
  - tags: []
 
+## Rich Tabor
+ - [https://rich.blog](https://rich.blog)
+ - date published: 2024-04-03T12:46:23.521811+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Riley Harris
  - [https://rileyharris.blog](https://rileyharris.blog)
  - date published: 2024-01-19T13:02:00.009123+00:00
@@ -5392,6 +5458,12 @@
  - date published: 2023-10-25T12:01:31.469329+00:00
  - user: None
  - tags: []
+
+## Tanjas blog
+ - [https://tanjas.blog](https://tanjas.blog)
+ - date published: 2024-04-03T12:42:58.498067+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Texts.blog, the blog of Texts.com
  - [https://texts.blog](https://texts.blog)
@@ -5924,78 +5996,6 @@
 ## Brad Hussey - Start a Business as a Freelancer, Coach or Consultant
  - [https://www.bradhussey.ca](https://www.bradhussey.ca)
  - date published: 2024-01-06T17:58:08.994162+00:00
- - user: None
- - tags: []
-
-## Bradley Thompson- Team Canada Duathlete, Digital Marketing Expert, Podcaster, Marketing Professor & Creative Content Creator
- - [https://bradleythompson.ca](https://bradleythompson.ca)
- - date published: 2024-01-15T22:20:27.125154+00:00
- - user: None
- - tags: []
-
-## The Breach
- - [https://breachmedia.ca](https://breachmedia.ca)
- - date published: 2023-10-25T12:04:07.809857+00:00
- - user: None
- - tags: []
-
-## The Centre for Addiction and Mental Health
- - [https://www.camh.ca](https://www.camh.ca)
- - date published: 2023-12-11T10:52:06.321718+00:00
- - user: None
- - tags: []
-
-## Canada.ca
- - [https://www.canada.ca](https://www.canada.ca)
- - date published: 2023-10-25T11:26:45.357716+00:00
- - user: None
- - tags: ['government', 'canada']
-
-## Chris Carlier
- - [https://carlier.ca](https://carlier.ca)
- - date published: 2023-12-28T18:49:41.221395+00:00
- - user: None
- - tags: ['personal']
-
-## CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
- - [https://www.cbc.ca](https://www.cbc.ca)
- - date published: 2023-10-25T10:55:51.069895+00:00
- - user: None
- - tags: []
-
-## https://cdrom.ca
- - [https://cdrom.ca](https://cdrom.ca)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Choly's Blog
- - [https://choly.ca](https://choly.ca)
- - date published: 2024-03-26T02:08:40.229638+00:00
- - user: None
- - tags: ['devlog', 'personal']
-
-## The Citizen Lab - University of Toronto
- - [https://citizenlab.ca](https://citizenlab.ca)
- - date published: 2023-10-25T12:09:16.663748+00:00
- - user: None
- - tags: ['human rights', 'privacy']
-
-## Breaking News | Top Local Stories | CityNews Calgary
- - [https://calgary.citynews.ca](https://calgary.citynews.ca)
- - date published: 2024-01-14T14:56:16.599498+00:00
- - user: None
- - tags: []
-
-## Breaking News | Top Local Stories | CityNews Montreal
- - [https://montreal.citynews.ca](https://montreal.citynews.ca)
- - date published: 2023-11-05T06:28:16.282544+00:00
- - user: None
- - tags: []
-
-## Breaking News | Top Local Stories | CityNews Toronto
- - [https://toronto.citynews.ca](https://toronto.citynews.ca)
- - date published: 2023-12-04T13:48:22.408481+00:00
  - user: None
  - tags: []
 
