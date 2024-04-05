@@ -1,3 +1,99 @@
+## Breaking News Today, Top Headlines, Live Updates | The Hindu
+ - [https://www.thehindu.com](https://www.thehindu.com)
+ - date published: 2023-10-25T10:45:05.654304+00:00
+ - user: None
+ - tags: ['indian news']
+
+## Business Financial, Economy, Market, Stock - News & Updates | The Hindu BusinessLine
+ - [https://www.thehindubusinessline.com](https://www.thehindubusinessline.com)
+ - date published: 2023-10-25T17:35:19.405660+00:00
+ - user: None
+ - tags: []
+
+## Justin Smith-Ruiu’s Hinternet | Substack
+ - [https://www.the-hinternet.com](https://www.the-hinternet.com)
+ - date published: 2024-02-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The History Blog
+ - [https://www.thehistoryblog.com](https://www.thehistoryblog.com)
+ - date published: 2023-10-25T17:35:27.586648+00:00
+ - user: None
+ - tags: []
+
+## The History of the Web
+ - [https://thehistoryoftheweb.com](https://thehistoryoftheweb.com)
+ - date published: 2023-10-25T11:14:27.332034+00:00
+ - user: None
+ - tags: []
+
+## TheHour: Southwest Connecticut Area News, Fairfield County News, Norwalk News, Sports, Business, Entertainment, Real Estate, Classifieds
+ - [https://www.thehour.com](https://www.thehour.com)
+ - date published: 2024-03-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## HR Magazine – Human Resources articles, updates and insights for HR leaders
+ - [https://www.thehrdigest.com](https://www.thehrdigest.com)
+ - date published: 2023-12-28T20:05:16.994681+00:00
+ - user: None
+ - tags: []
+
+## The IF Life
+ - [https://theiflife.com](https://theiflife.com)
+ - date published: 2023-10-25T17:35:29.793250+00:00
+ - user: None
+ - tags: []
+
+## News | The Independent | Today's headlines and latest breaking news | The Independent
+ - [https://www.the-independent.com](https://www.the-independent.com)
+ - date published: 2023-10-30T18:59:54.254380+00:00
+ - user: None
+ - tags: ['news']
+
+## The Information
+ - [https://www.theinformation.com](https://www.theinformation.com)
+ - date published: 2023-10-25T17:35:34.711500+00:00
+ - user: None
+ - tags: []
+
+## The Inner Dolphin
+ - [https://theinnerdolphin.com](https://theinnerdolphin.com)
+ - date published: 2023-11-29T13:56:20.737199+00:00
+ - user: None
+ - tags: []
+
+## Insane - TheInsaneApp.com
+ - [https://www.theinsaneapp.com](https://www.theinsaneapp.com)
+ - date published: 2023-10-25T17:35:37.951848+00:00
+ - user: None
+ - tags: []
+
+## The Intercept
+ - [https://theintercept.com](https://theintercept.com)
+ - date published: 2023-10-25T10:29:00.612300+00:00
+ - user: None
+ - tags: []
+
+## The Intrinsic Perspective | Erik Hoel | Substack
+ - [https://www.theintrinsicperspective.com](https://www.theintrinsicperspective.com)
+ - date published: 2023-12-09T05:59:14.893338+00:00
+ - user: None
+ - tags: []
+
+## The investing desk
+ - [https://www.the-investing-desk.com](https://www.the-investing-desk.com)
+ - date published: 2023-10-25T17:28:05.105433+00:00
+ - user: None
+ - tags: []
+
+## The Jakarta Post  - Still bold, fiercely independent
+ - [https://www.thejakartapost.com](https://www.thejakartapost.com)
+ - date published: 2024-03-18T12:33:47.343175+00:00
+ - user: None
+ - tags: []
+
 ## https://www.thejc.com
  - [https://www.thejc.com](https://www.thejc.com)
  - date published: 2023-10-30T20:00:00.128988+00:00
@@ -418,6 +514,12 @@
  - user: None
  - tags: []
 
+## The Outline
+ - [https://theoutline.com](https://theoutline.com)
+ - date published: 2019-01-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Lu's blog
  - [https://blog.the-pans.com](https://blog.the-pans.com)
  - date published: 2023-10-25T09:21:12.558068+00:00
@@ -562,15 +664,15 @@
  - user: None
  - tags: []
 
-## Enterprise Technology News and Analysis
- - [http://www.theregister.com](http://www.theregister.com)
- - date published: 2024-02-26T13:56:43.064822+00:00
- - user: None
- - tags: []
-
 ## The Register: Enterprise Technology News and Analysis
  - [https://www.theregister.com](https://www.theregister.com)
  - date published: 2023-10-25T10:29:03.269877+00:00
+ - user: None
+ - tags: []
+
+## Enterprise Technology News and Analysis
+ - [http://www.theregister.com](http://www.theregister.com)
+ - date published: 2024-02-26T13:56:43.064822+00:00
  - user: None
  - tags: []
 
@@ -947,16 +1049,16 @@
  - tags: ['personal']
 
 ## The Verge
- - [http://www.theverge.com](http://www.theverge.com)
- - date published: 2024-02-26T14:01:17.871855+00:00
- - user: None
- - tags: []
-
-## The Verge
  - [https://www.theverge.com](https://www.theverge.com)
  - date published: 2023-10-25T10:29:09.149200+00:00
  - user: None
  - tags: ['news']
+
+## The Verge
+ - [http://www.theverge.com](http://www.theverge.com)
+ - date published: 2024-02-26T14:01:17.871855+00:00
+ - user: None
+ - tags: []
 
 ## About
  - [https://blog.thevinter.com](https://blog.thevinter.com)
@@ -1706,14 +1808,14 @@
  - tags: ['personal']
 
 ## TimDbg
- - [http://www.timdbg.com](http://www.timdbg.com)
- - date published: 2024-01-18T00:00:00+00:00
+ - [https://www.timdbg.com](https://www.timdbg.com)
+ - date published: 2023-10-25T17:42:00.344194+00:00
  - user: None
  - tags: []
 
 ## TimDbg
- - [https://www.timdbg.com](https://www.timdbg.com)
- - date published: 2023-10-25T17:42:00.344194+00:00
+ - [http://www.timdbg.com](http://www.timdbg.com)
+ - date published: 2024-01-18T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2587,6 +2689,12 @@
  - user: None
  - tags: ['car producer', 'company']
 
+## TP-Link Polska – Rozwiązania Wi-Fi dla domu i biznesu
+ - [https://www.tp-link.com](https://www.tp-link.com)
+ - date published: 2024-04-04T13:50:06+00:00
+ - user: rumpel
+ - tags: ['network hardware']
+
 ## Wastewater & Water Treatment Plant Information and Products | Treatment Plant Operator
  - [https://www.tpomag.com](https://www.tpomag.com)
  - date published: 2024-01-24T20:56:39.204804+00:00
@@ -3454,14 +3562,14 @@
  - tags: []
 
 ## Ri Science
- - [https://ri-science.tumblr.com](https://ri-science.tumblr.com)
- - date published: 2024-02-26T12:41:40.542943+00:00
+ - [http://ri-science.tumblr.com](http://ri-science.tumblr.com)
+ - date published: 2024-01-22T13:18:45.582843+00:00
  - user: None
  - tags: []
 
 ## Ri Science
- - [http://ri-science.tumblr.com](http://ri-science.tumblr.com)
- - date published: 2024-01-22T13:18:45.582843+00:00
+ - [https://ri-science.tumblr.com](https://ri-science.tumblr.com)
+ - date published: 2024-02-26T12:41:40.542943+00:00
  - user: None
  - tags: []
 
@@ -5375,13 +5483,13 @@
  - tags: []
 
 ## Veranda Vikings
- - [https://www.verandavikings.com](https://www.verandavikings.com)
+ - [http://www.verandavikings.com](http://www.verandavikings.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Veranda Vikings
- - [http://www.verandavikings.com](http://www.verandavikings.com)
+ - [https://www.verandavikings.com](https://www.verandavikings.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -5494,15 +5602,15 @@
  - user: None
  - tags: ['personal']
 
-## Vessi | The World's First Waterproof Shoes
- - [https://vessi.com](https://vessi.com)
- - date published: 2024-01-27T04:08:30.911752+00:00
- - user: None
- - tags: []
-
 ## Vessi: Waterproof Shoes in Everyday and Seasonal Styles
  - [http://vessi.com](http://vessi.com)
  - date published: 2024-02-24T09:54:58.605913+00:00
+ - user: None
+ - tags: []
+
+## Vessi | The World's First Waterproof Shoes
+ - [https://vessi.com](https://vessi.com)
+ - date published: 2024-01-27T04:08:30.911752+00:00
  - user: None
  - tags: []
 
@@ -5896,112 +6004,4 @@
  - date published: 2023-11-27T16:12:28+00:00
  - user: rumpel
  - tags: ['virtual reality']
-
-## Virtual Uncle - VR, XR, AR Curated News & Releases
- - [https://virtualuncle.com](https://virtualuncle.com)
- - date published: 2023-10-25T17:57:29.714238+00:00
- - user: None
- - tags: ['virtual reality', 'tech news']
-
-## Virus Comix Online Empire
- - [http://www.viruscomix.com](http://www.viruscomix.com)
- - date published: 2024-03-24T15:07:17.603374+00:00
- - user: None
- - tags: ['interesting', 'personal']
-
-## Visa, zaufany partner w płatnościach cyfrowych
- - [https://visa.com](https://visa.com)
- - date published: 2023-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['payments', 'card company']
-
-## Vishnu Menon
- - [https://vishnumenon.com](https://vishnumenon.com)
- - date published: 2023-10-25T08:48:21.110375+00:00
- - user: None
- - tags: ['personal']
-
-## The Visionary CTO | Matt Watson | Substack
- - [https://blog.visionarycto.com](https://blog.visionarycto.com)
- - date published: 2023-10-25T17:57:32.350119+00:00
- - user: None
- - tags: []
-
-## Sweden – a destination <br>of a different nature
- - [https://visitsweden.com](https://visitsweden.com)
- - date published: 2023-10-29T13:00:54.024158+00:00
- - user: None
- - tags: []
-
-## Visual Capitalist
- - [https://www.visualcapitalist.com](https://www.visualcapitalist.com)
- - date published: 2023-10-25T10:39:33.539082+00:00
- - user: None
- - tags: []
-
-## Visual Fonts – Type Good Pictures
- - [https://visual-fonts.com](https://visual-fonts.com)
- - date published: 2023-10-25T17:57:36.728693+00:00
- - user: None
- - tags: []
-
-## VisualPDE | Interactive live solutions of PDE systems, right on your device
- - [https://visualpde.com](https://visualpde.com)
- - date published: 2023-10-25T17:57:37.518948+00:00
- - user: None
- - tags: []
-
-## Visual Studio Code - Code Editing. Redefined
- - [https://code.visualstudio.com](https://code.visualstudio.com)
- - date published: 2023-10-25T17:57:39.109407+00:00
- - user: None
- - tags: ['visual studio', 'programming ide']
-
-## Developer Community
- - [https://developercommunity.visualstudio.com](https://developercommunity.visualstudio.com)
- - date published: 2023-10-25T17:57:41.357962+00:00
- - user: None
- - tags: []
-
-## Visual Studio Marketplace
- - [https://marketplace.visualstudio.com](https://marketplace.visualstudio.com)
- - date published: 2024-03-08T17:41:10.734423+00:00
- - user: None
- - tags: ['app store', 'app extensions']
-
-## Visual Studio: IDE and Code Editor for Software Developers and Teams
- - [https://visualstudio.com](https://visualstudio.com)
- - date published: 2024-01-30T00:00:00+00:00
- - user: rumpel
- - tags: ['programming ide']
-
-## Visual Studio Magazine Home -- Visual Studio Magazine
- - [https://visualstudiomagazine.com](https://visualstudiomagazine.com)
- - date published: 2023-10-25T17:57:48.493438+00:00
- - user: None
- - tags: []
-
-## Viswagyan -
- - [https://viswagyan.com](https://viswagyan.com)
- - date published: 2023-12-30T09:16:45.834804+00:00
- - user: None
- - tags: []
-
-## Vita Coco
- - [https://vitacoco.com](https://vitacoco.com)
- - date published: 2024-02-23T17:49:00.504180+00:00
- - user: None
- - tags: []
-
-## None
- - [https://now.vitalyobukhov.com](https://now.vitalyobukhov.com)
- - date published: 2023-12-20T21:32:00.927597+00:00
- - user: None
- - tags: ['personal']
-
-## vite-plugin-ssr
- - [https://vite-plugin-ssr.com](https://vite-plugin-ssr.com)
- - date published: 2023-10-25T17:57:51.712020+00:00
- - user: None
- - tags: []
 

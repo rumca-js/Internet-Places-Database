@@ -1283,13 +1283,13 @@
  - tags: []
 
 ## http://hello.pi.ai/
- - [http://hello.pi.ai](http://hello.pi.ai)
+ - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -2389,6 +2389,12 @@
 ## https://reddark.netlify.app
  - [https://reddark.netlify.app](https://reddark.netlify.app)
  - date published: 2024-01-09T02:23:31.980088+00:00
+ - user: None
+ - tags: []
+
+## Sahat Jaldu
+ - [https://sahatjaldu.netlify.app](https://sahatjaldu.netlify.app)
+ - date published: 2024-04-04T19:29:53.874468+00:00
  - user: None
  - tags: []
 
@@ -3701,16 +3707,16 @@
  - tags: []
 
 ## Home
- - [https://kerrygrace.com.au](https://kerrygrace.com.au)
- - date published: 2024-01-09T21:36:51.535431+00:00
- - user: None
- - tags: []
-
-## Home
  - [http://kerrygrace.com.au](http://kerrygrace.com.au)
  - date published: 2024-04-03T06:27:02.750662+00:00
  - user: None
  - tags: ['personal']
+
+## Home
+ - [https://kerrygrace.com.au](https://kerrygrace.com.au)
+ - date published: 2024-01-09T21:36:51.535431+00:00
+ - user: None
+ - tags: []
 
 ## Kotaku Australia | See Games Differently
  - [https://www.kotaku.com.au](https://www.kotaku.com.au)
@@ -4397,16 +4403,16 @@
  - tags: []
 
 ## Denny Wong - Learn, think, write and do.
- - [https://dewo.be](https://dewo.be)
- - date published: 2023-11-29T14:18:04.127765+00:00
- - user: None
- - tags: ['personal']
-
-## Denny Wong - Learn, think, write and do.
  - [http://dewo.be](http://dewo.be)
  - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Denny Wong - Learn, think, write and do.
+ - [https://dewo.be](https://dewo.be)
+ - date published: 2023-11-29T14:18:04.127765+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Dries Depoorter – artist and speaker working with technology 🔥
  - [https://driesdepoorter.be](https://driesdepoorter.be)
@@ -4468,17 +4474,17 @@
  - user: None
  - tags: []
 
-## Original Sling'n'shoot Worms Game
- - [http://www.liero.be](http://www.liero.be)
- - date published: 2023-12-28T18:40:30+00:00
- - user: None
- - tags: []
-
 ## Liero - Official website
  - [https://www.liero.be](https://www.liero.be)
  - date published: 2023-10-26T18:32:21.331231+00:00
  - user: None
  - tags: ['retro game', 'game']
+
+## Original Sling'n'shoot Worms Game
+ - [http://www.liero.be](http://www.liero.be)
+ - date published: 2023-12-28T18:40:30+00:00
+ - user: None
+ - tags: []
 
 ## Home
  - [https://www.mjvanhee.be](https://www.mjvanhee.be)
@@ -4753,6 +4759,12 @@
 ## Risky Business Newsletters
  - [https://news.risky.biz](https://news.risky.biz)
  - date published: 2024-02-26T15:17:40.722826+00:00
+ - user: None
+ - tags: []
+
+## Risky Business - Risky Business
+ - [https://risky.biz](https://risky.biz)
+ - date published: 2024-04-04T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5984,18 +5996,6 @@
 ## Home
  - [https://www.borden-carleton.ca](https://www.borden-carleton.ca)
  - date published: 2024-01-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Scatterplots Advent of Code
- - [https://aoc-stats.fastbee.box.ca](https://aoc-stats.fastbee.box.ca)
- - date published: 2024-01-15T10:02:36.118939+00:00
- - user: None
- - tags: []
-
-## Brad Hussey - Start a Business as a Freelancer, Coach or Consultant
- - [https://www.bradhussey.ca](https://www.bradhussey.ca)
- - date published: 2024-01-06T17:58:08.994162+00:00
  - user: None
  - tags: []
 

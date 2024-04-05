@@ -1,3 +1,15 @@
+## Scatterplots Advent of Code
+ - [https://aoc-stats.fastbee.box.ca](https://aoc-stats.fastbee.box.ca)
+ - date published: 2024-01-15T10:02:36.118939+00:00
+ - user: None
+ - tags: []
+
+## Brad Hussey - Start a Business as a Freelancer, Coach or Consultant
+ - [https://www.bradhussey.ca](https://www.bradhussey.ca)
+ - date published: 2024-01-06T17:58:08.994162+00:00
+ - user: None
+ - tags: []
+
 ## Bradley Thompson- Team Canada Duathlete, Digital Marketing Expert, Podcaster, Marketing Professor & Creative Content Creator
  - [https://bradleythompson.ca](https://bradleythompson.ca)
  - date published: 2024-01-15T22:20:27.125154+00:00
@@ -929,14 +941,14 @@
  - tags: ['personal']
 
 ## Timur Ochakovsky | Web Developer
- - [http://www.timur.ca](http://www.timur.ca)
- - date published: 2002-01-01T00:00:00+00:00
+ - [https://www.timur.ca](https://www.timur.ca)
+ - date published: 2023-11-29T14:23:08.617547+00:00
  - user: None
  - tags: []
 
 ## Timur Ochakovsky | Web Developer
- - [https://www.timur.ca](https://www.timur.ca)
- - date published: 2023-11-29T14:23:08.617547+00:00
+ - [http://www.timur.ca](http://www.timur.ca)
+ - date published: 2002-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1581,6 +1593,12 @@
 ## Single Page - Simple, Fast, Single Page Webpage
  - [https://singlepage.cc](https://singlepage.cc)
  - date published: 2023-10-25T12:11:32.473761+00:00
+ - user: None
+ - tags: []
+
+## Strudel: A live coding platform to write dynamic music pieces in the browser
+ - [https://strudel.cc](https://strudel.cc)
+ - date published: 2024-04-03T22:38:38+00:00
  - user: None
  - tags: []
 
@@ -3733,14 +3751,14 @@
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [https://stateofthenation.co](https://stateofthenation.co)
- - date published: 2023-10-25T12:23:13.580451+00:00
+ - [http://stateofthenation.co](http://stateofthenation.co)
+ - date published: 2024-02-26T12:49:19.790593+00:00
  - user: None
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [http://stateofthenation.co](http://stateofthenation.co)
- - date published: 2024-02-26T12:49:19.790593+00:00
+ - [https://stateofthenation.co](https://stateofthenation.co)
+ - date published: 2023-10-25T12:23:13.580451+00:00
  - user: None
  - tags: []
 
@@ -3853,14 +3871,14 @@
  - tags: []
 
 ## Travel Hungry: Great Tastes From Stuttgart & Beyond
- - [http://travelhungry.co](http://travelhungry.co)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://travelhungry.co](https://travelhungry.co)
+ - date published: 2023-10-25T12:24:24.607320+00:00
  - user: None
  - tags: []
 
 ## Travel Hungry: Great Tastes From Stuttgart & Beyond
- - [https://travelhungry.co](https://travelhungry.co)
- - date published: 2023-10-25T12:24:24.607320+00:00
+ - [http://travelhungry.co](http://travelhungry.co)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4638,7 +4656,7 @@
  - [https://www.972mag.com](https://www.972mag.com)
  - date published: 2024-04-03T19:49:24.223325+00:00
  - user: None
- - tags: []
+ - tags: ['israel news', 'palestine news']
 
 ## https://webapps.9c9media.com
  - [https://webapps.9c9media.com](https://webapps.9c9media.com)
@@ -4826,17 +4844,17 @@
  - user: None
  - tags: ['personal']
 
-## Home - Aaron Shbeeb
- - [http://aaronshbeeb.com](http://aaronshbeeb.com)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Coming Soon
  - [https://aaronshbeeb.com](https://aaronshbeeb.com)
  - date published: 2023-12-17T20:59:02.532105+00:00
  - user: None
  - tags: ['personal']
+
+## Home - Aaron Shbeeb
+ - [http://aaronshbeeb.com](http://aaronshbeeb.com)
+ - date published: 2024-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## AaronStrick.com
  - [https://aaronstrick.com](https://aaronstrick.com)
@@ -4893,14 +4911,14 @@
  - tags: []
 
 ## Abandoned Realms Homepage
- - [https://abandonedrealms.com](https://abandonedrealms.com)
- - date published: 2024-03-27T20:46:56.678785+00:00
+ - [http://abandonedrealms.com](http://abandonedrealms.com)
+ - date published: 2024-03-27T20:46:21.299380+00:00
  - user: None
  - tags: ['mud game']
 
 ## Abandoned Realms Homepage
- - [http://abandonedrealms.com](http://abandonedrealms.com)
- - date published: 2024-03-27T20:46:21.299380+00:00
+ - [https://abandonedrealms.com](https://abandonedrealms.com)
+ - date published: 2024-03-27T20:46:56.678785+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5415,14 +5433,14 @@
  - tags: []
 
 ## Hi, I’m Adam - Adam J. Doolittle
- - [http://www.adamdoolittle.com](http://www.adamdoolittle.com)
- - date published: 2024-04-03T06:22:38.206834+00:00
+ - [https://www.adamdoolittle.com](https://www.adamdoolittle.com)
+ - date published: 2024-01-19T13:00:38.013071+00:00
  - user: None
  - tags: ['personal']
 
 ## Hi, I’m Adam - Adam J. Doolittle
- - [https://www.adamdoolittle.com](https://www.adamdoolittle.com)
- - date published: 2024-01-19T13:00:38.013071+00:00
+ - [http://www.adamdoolittle.com](http://www.adamdoolittle.com)
+ - date published: 2024-04-03T06:22:38.206834+00:00
  - user: None
  - tags: ['personal']
 
@@ -5439,14 +5457,14 @@
  - tags: []
 
 ## Adam Fisher
- - [https://adamfishertrumpet.com](https://adamfishertrumpet.com)
- - date published: 2024-01-09T02:29:07.213553+00:00
+ - [http://adamfishertrumpet.com](http://adamfishertrumpet.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Adam Fisher
- - [http://adamfishertrumpet.com](http://adamfishertrumpet.com)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://adamfishertrumpet.com](https://adamfishertrumpet.com)
+ - date published: 2024-01-09T02:29:07.213553+00:00
  - user: None
  - tags: []
 
@@ -5759,14 +5777,14 @@
  - tags: []
 
 ## Home - Adventure Hermit Travel
- - [https://adventurehermit.com](https://adventurehermit.com)
- - date published: 2024-01-06T08:54:27.239976+00:00
+ - [http://adventurehermit.com](http://adventurehermit.com)
+ - date published: 2020-05-19T07:46:57+00:00
  - user: None
  - tags: []
 
 ## Home - Adventure Hermit Travel
- - [http://adventurehermit.com](http://adventurehermit.com)
- - date published: 2020-05-19T07:46:57+00:00
+ - [https://adventurehermit.com](https://adventurehermit.com)
+ - date published: 2024-01-06T08:54:27.239976+00:00
  - user: None
  - tags: []
 
@@ -5983,24 +6001,6 @@
 ## AFN (Europe) - FoodTech, AgTech, Startups, Venture Capital
  - [https://agfundernews.com](https://agfundernews.com)
  - date published: 2023-10-25T12:35:05.170467+00:00
- - user: None
- - tags: []
-
-## AgileConnection | Your agile software development resource with content and conversations about agile principles & practices, Scrum, kanban, enterprise agile, DevOps practices, agile leadership
- - [https://www.agileconnection.com](https://www.agileconnection.com)
- - date published: 2024-01-25T21:47:35.336110+00:00
- - user: None
- - tags: []
-
-## Agility Robotics
- - [https://agilityrobotics.com](https://agilityrobotics.com)
- - date published: 2023-11-27T15:46:40+00:00
- - user: rumpel
- - tags: []
-
-## Peer-Reviewed Aging Research Journal | Aging-US
- - [https://www.aging-us.com](https://www.aging-us.com)
- - date published: 2023-11-19T06:48:56.435473+00:00
  - user: None
  - tags: []
 

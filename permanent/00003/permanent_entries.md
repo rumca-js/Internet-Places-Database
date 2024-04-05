@@ -1,3 +1,21 @@
+## Bicycle Retailer & Industry News
+ - [https://www.bicycleretailer.com](https://www.bicycleretailer.com)
+ - date published: 2023-10-25T14:21:33.230031+00:00
+ - user: None
+ - tags: []
+
+## Bicycling
+ - [https://www.bicycling.com](https://www.bicycling.com)
+ - date published: 2023-10-25T11:14:15.502657+00:00
+ - user: None
+ - tags: []
+
+## Bidspotter.com | Industrial, Commercial, Plant and Machinery auctions
+ - [https://www.bidspotter.com](https://www.bidspotter.com)
+ - date published: 2023-10-25T12:59:13.076928+00:00
+ - user: None
+ - tags: []
+
 ## Biff | Clojure web framework
  - [https://biffweb.com](https://biffweb.com)
  - date published: 2023-10-25T12:59:20.038537+00:00
@@ -527,14 +545,14 @@
  - tags: []
 
 ## Bits in Flight
- - [http://bitsinflight.com](http://bitsinflight.com)
- - date published: 2024-04-03T12:49:20.656238+00:00
+ - [https://bitsinflight.com](https://bitsinflight.com)
+ - date published: 2023-12-21T03:31:11.484659+00:00
  - user: None
  - tags: ['personal']
 
 ## Bits in Flight
- - [https://bitsinflight.com](https://bitsinflight.com)
- - date published: 2023-12-21T03:31:11.484659+00:00
+ - [http://bitsinflight.com](http://bitsinflight.com)
+ - date published: 2024-04-03T12:49:20.656238+00:00
  - user: None
  - tags: ['personal']
 
@@ -1205,16 +1223,16 @@
  - tags: ['personal']
 
 ## Database Architects
- - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
- - date published: 2023-10-25T09:08:09.774302+00:00
- - user: None
- - tags: ['personal']
-
-## Database Architects
  - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
  - date published: 2024-02-19T00:00:00+00:00
  - user: None
  - tags: []
+
+## Database Architects
+ - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
+ - date published: 2023-10-25T09:08:09.774302+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Data Finnovation
  - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
@@ -1499,14 +1517,14 @@
  - tags: []
 
 ## Kiwi Hellenist
- - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
+ - date published: 2023-11-28T20:46:36.488371+00:00
  - user: None
  - tags: []
 
 ## Kiwi Hellenist
- - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
- - date published: 2023-11-28T20:46:36.488371+00:00
+ - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2485,14 +2503,14 @@
  - tags: ['books']
 
 ## Bookreporter.com |
- - [https://www.bookreporter.com](https://www.bookreporter.com)
- - date published: 2023-11-07T16:06:19.097099+00:00
+ - [http://www.bookreporter.com](http://www.bookreporter.com)
+ - date published: 2024-03-01T19:06:27.394328+00:00
  - user: None
  - tags: []
 
 ## Bookreporter.com |
- - [http://www.bookreporter.com](http://www.bookreporter.com)
- - date published: 2024-03-01T19:06:27.394328+00:00
+ - [https://www.bookreporter.com](https://www.bookreporter.com)
+ - date published: 2023-11-07T16:06:19.097099+00:00
  - user: None
  - tags: []
 
@@ -3661,14 +3679,14 @@
  - tags: []
 
 ## Business Owners Success Club
- - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
- - date published: 2024-04-03T06:24:35.974117+00:00
+ - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
+ - date published: 8211-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
 ## Business Owners Success Club
- - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
- - date published: 8211-01-01T00:00:00+00:00
+ - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
+ - date published: 2024-04-03T06:24:35.974117+00:00
  - user: None
  - tags: ['personal']
 
@@ -5987,22 +6005,4 @@
  - date published: 2023-10-25T13:24:25.453287+00:00
  - user: None
  - tags: []
-
-## Ciro Durán ← A Live Archive
- - [https://www.ciroduran.com](https://www.ciroduran.com)
- - date published: 2023-12-20T21:30:36.738957+00:00
- - user: None
- - tags: ['personal']
-
-## Cisco Blogs
- - [https://blogs.cisco.com](https://blogs.cisco.com)
- - date published: 2023-10-25T13:24:33.805114+00:00
- - user: None
- - tags: []
-
-## Networking, Cloud, and Cybersecurity Solutions
- - [https://www.cisco.com](https://www.cisco.com)
- - date published: 2023-10-31T13:19:01.525709+00:00
- - user: None
- - tags: ['technology', 'company']
 

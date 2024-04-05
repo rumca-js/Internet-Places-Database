@@ -1,3 +1,195 @@
+## Geoff Huston - potaroo.net
+ - [https://www.potaroo.net](https://www.potaroo.net)
+ - date published: 2023-10-25T20:36:14.199385+00:00
+ - user: None
+ - tags: []
+
+## pouët.net :: your online demoscene resource
+ - [https://www.pouet.net](https://www.pouet.net)
+ - date published: 2024-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Practical Scheme
+ - [https://practical-scheme.net](https://practical-scheme.net)
+ - date published: 2023-10-25T20:36:15.745291+00:00
+ - user: None
+ - tags: []
+
+## PRESSBEE : PRESSBEE
+ - [https://en.pressbee.net](https://en.pressbee.net)
+ - date published: 2024-03-15T12:47:32.995560+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://app.pressnt.net](https://app.pressnt.net)
+ - date published: 2024-01-09T03:36:08.723504+00:00
+ - user: None
+ - tags: []
+
+## Another view on designing websites â€“ event.preventDeault();
+ - [https://event.preventdefault.net](https://event.preventdefault.net)
+ - date published: 2024-03-18T08:31:43+00:00
+ - user: None
+ - tags: []
+
+## The Little Grasshopper
+ - [https://prideout.net](https://prideout.net)
+ - date published: 2024-01-11T19:21:14.578990+00:00
+ - user: None
+ - tags: []
+
+## nitter
+ - [https://nitter.privacydev.net](https://nitter.privacydev.net)
+ - date published: 2023-11-22T06:54:12+00:00
+ - user: rumpel
+ - tags: ['twitter', 'x']
+
+## Privacy Guides
+ - [https://discuss.privacyguides.net](https://discuss.privacyguides.net)
+ - date published: 2024-02-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ProcessOne Turns Ideas from Concept to Production in Record Time
+ - [https://www.process-one.net](https://www.process-one.net)
+ - date published: 2023-12-31T13:42:46.828138+00:00
+ - user: None
+ - tags: []
+
+## progetto-SNAPS
+ - [https://www.progettosnaps.net](https://www.progettosnaps.net)
+ - date published: 2023-12-13T15:19:22.322254+00:00
+ - user: None
+ - tags: []
+
+## About - Project Euler
+ - [https://projecteuler.net](https://projecteuler.net)
+ - date published: 2023-11-01T08:43:56.390261+00:00
+ - user: None
+ - tags: []
+
+## Project Magma :: Home
+ - [https://projectmagma.net](https://projectmagma.net)
+ - date published: 2024-03-27T21:11:42+00:00
+ - user: rumpel
+ - tags: ['myth game']
+
+## Project Oberon
+ - [https://www.projectoberon.net](https://www.projectoberon.net)
+ - date published: 2024-02-24T18:53:11+00:00
+ - user: None
+ - tags: []
+
+## Pushover Updates
+ - [https://blog.pushover.net](https://blog.pushover.net)
+ - date published: 2023-12-03T17:38:32.567787+00:00
+ - user: None
+ - tags: []
+
+## Quad9 | A public and free DNS service for a better security and privacy
+ - [https://quad9.net](https://quad9.net)
+ - date published: 2023-10-25T20:36:17.596594+00:00
+ - user: None
+ - tags: []
+
+## Quad9 | A public and free DNS service for a better security and privacy
+ - [https://www.quad9.net](https://www.quad9.net)
+ - date published: 2023-10-25T20:36:19.669279+00:00
+ - user: None
+ - tags: []
+
+## Welcome to QuakeServers.net
+ - [http://www.quakeservers.net](http://www.quakeservers.net)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [http://www.quakewiki.net](http://www.quakewiki.net)
+ - date published: 2022-04-27T16:15:35+00:00
+ - user: None
+ - tags: []
+
+## Quetta: Private Browser with Ad Blocker & Playlist
+ - [https://www.quetta.net](https://www.quetta.net)
+ - date published: 2024-01-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Quiet Habits
+ - [https://quiethabits.net](https://quiethabits.net)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## QuikChange online: a wee nook on the web for Antonio D'souza
+ - [https://quikchange.net](https://quikchange.net)
+ - date published: 2024-04-03T06:31:24.370114+00:00
+ - user: None
+ - tags: ['personal']
+
+## QWORD | Thoughts about how the world works, from a technologist.
+ - [https://www.qword.net](https://www.qword.net)
+ - date published: 2023-10-25T20:36:25.218405+00:00
+ - user: None
+ - tags: []
+
+## r33b.net - ALL GLORY TO THE HYPNOTOAD!
+ - [https://r33b.net](https://r33b.net)
+ - date published: 2023-10-27T11:39:35.069300+00:00
+ - user: None
+ - tags: ['wtf']
+
+## radicalcartography
+ - [http://www.radicalcartography.net](http://www.radicalcartography.net)
+ - date published: 2024-03-31T18:42:44.568024+00:00
+ - user: None
+ - tags: []
+
+## RadioSEGA | Home
+ - [https://www.radiosega.net](https://www.radiosega.net)
+ - date published: 2024-02-11T08:12:02+00:00
+ - user: rumpel
+ - tags: ['video game music']
+
+## Rage.Net: Home
+ - [http://www.rage.net](http://www.rage.net)
+ - date published: 2023-10-25T20:36:26.095282+00:00
+ - user: None
+ - tags: []
+
+## Robotic Tendencies
+ - [https://ramcq.net](https://ramcq.net)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Kristall Small Internet Browser - Kristall Small-Internet Browser
+ - [https://kristall.random-projects.net](https://kristall.random-projects.net)
+ - date published: 2023-10-25T20:36:26.728250+00:00
+ - user: None
+ - tags: []
+
+## Ray Gardner's space
+ - [https://www.raygard.net](https://www.raygard.net)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Internet Radio Directory - RCAST.NET
+ - [https://dir.rcast.net](https://dir.rcast.net)
+ - date published: 2024-02-15T22:12:42.066226+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Welcome to Reactor Lab! - Reactor Lab
+ - [https://reactorlab.net](https://reactorlab.net)
+ - date published: 2023-11-29T13:55:15.661968+00:00
+ - user: None
+ - tags: ['personal']
+
 ## index
  - [https://rebeccaskinner.net](https://rebeccaskinner.net)
  - date published: 2023-10-25T08:53:44.503259+00:00
@@ -215,14 +407,14 @@
  - tags: ['substack']
 
 ## Writing | Ryan Glover
- - [http://www.ryanglover.net](http://www.ryanglover.net)
- - date published: 2024-04-03T12:42:51.044178+00:00
+ - [https://www.ryanglover.net](https://www.ryanglover.net)
+ - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
 ## Writing | Ryan Glover
- - [https://www.ryanglover.net](https://www.ryanglover.net)
- - date published: 2021-01-01T00:00:00+00:00
+ - [http://www.ryanglover.net](http://www.ryanglover.net)
+ - date published: 2024-04-03T12:42:51.044178+00:00
  - user: None
  - tags: ['personal']
 
@@ -269,16 +461,16 @@
  - tags: []
 
 ## Savage Pink
- - [http://www.savagepink.net](http://www.savagepink.net)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Savage Pink
  - [https://www.savagepink.net](https://www.savagepink.net)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
+
+## Savage Pink
+ - [http://www.savagepink.net](http://www.savagepink.net)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Jamie Brandon
  - [https://www.scattered-thoughts.net](https://www.scattered-thoughts.net)
@@ -575,16 +767,16 @@
  - tags: []
 
 ## Matthias Monroy
- - [http://digit.so36.net](http://digit.so36.net)
- - date published: 2024-02-25T19:37:06.416405+00:00
- - user: None
- - tags: []
-
-## Matthias Monroy
  - [https://digit.so36.net](https://digit.so36.net)
  - date published: 2023-10-25T08:54:06.996729+00:00
  - user: None
  - tags: ['personal']
+
+## Matthias Monroy
+ - [http://digit.so36.net](http://digit.so36.net)
+ - date published: 2024-02-25T19:37:06.416405+00:00
+ - user: None
+ - tags: []
 
 ## SoByte
  - [https://www.sobyte.net](https://www.sobyte.net)
@@ -1061,16 +1253,16 @@
  - tags: []
 
 ## Eli Bendersky's website
- - [https://eli.thegreenplace.net](https://eli.thegreenplace.net)
- - date published: 2023-10-25T20:38:36.946214+00:00
- - user: None
- - tags: []
-
-## Eli Bendersky's website
  - [http://eli.thegreenplace.net](http://eli.thegreenplace.net)
  - date published: 2024-03-24T15:02:50.783691+00:00
  - user: None
  - tags: ['personal']
+
+## Eli Bendersky's website
+ - [https://eli.thegreenplace.net](https://eli.thegreenplace.net)
+ - date published: 2023-10-25T20:38:36.946214+00:00
+ - user: None
+ - tags: []
 
 ## Ohio County, Marshall County Middle School Robotics Teams Qualify For VEX World Championships
  - [https://www.theintelligencer.net](https://www.theintelligencer.net)
@@ -1577,14 +1769,14 @@
  - tags: ['personal']
 
 ## Stefan Hajnoczi
- - [http://blog.vmsplice.net](http://blog.vmsplice.net)
- - date published: 2024-01-25T00:00:00+00:00
+ - [https://blog.vmsplice.net](https://blog.vmsplice.net)
+ - date published: 2024-01-03T01:08:14.621014+00:00
  - user: None
  - tags: []
 
 ## Stefan Hajnoczi
- - [https://blog.vmsplice.net](https://blog.vmsplice.net)
- - date published: 2024-01-03T01:08:14.621014+00:00
+ - [http://blog.vmsplice.net](http://blog.vmsplice.net)
+ - date published: 2024-01-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3197,14 +3389,14 @@
  - tags: []
 
 ## INEVO: Eksperter på e-handel og digital markedsføring
- - [http://www.inevo.no](http://www.inevo.no)
- - date published: 2024-04-03T12:44:43.410441+00:00
+ - [https://www.inevo.no](https://www.inevo.no)
+ - date published: 2023-11-29T14:22:21.036592+00:00
  - user: None
  - tags: ['personal']
 
 ## INEVO: Eksperter på e-handel og digital markedsføring
- - [https://www.inevo.no](https://www.inevo.no)
- - date published: 2023-11-29T14:22:21.036592+00:00
+ - [http://www.inevo.no](http://www.inevo.no)
+ - date published: 2024-04-03T12:44:43.410441+00:00
  - user: None
  - tags: ['personal']
 
@@ -4728,16 +4920,16 @@ marginalia.nu
  - tags: []
 
 ## AlxQ
- - [http://alxq.org](http://alxq.org)
- - date published: 2024-02-11T13:39:19.641138+00:00
- - user: None
- - tags: []
-
-## AlxQ
  - [https://alxq.org](https://alxq.org)
  - date published: 2024-02-15T22:12:28.937827+00:00
  - user: None
  - tags: ['demoscene']
+
+## AlxQ
+ - [http://alxq.org](http://alxq.org)
+ - date published: 2024-02-11T13:39:19.641138+00:00
+ - user: None
+ - tags: []
 
 ## Alys Stephens Center - Home
  - [https://www.alysstephens.org](https://www.alysstephens.org)
@@ -5070,16 +5262,16 @@ marginalia.nu
  - tags: []
 
 ## Antipope!
- - [http://www.antipope.org](http://www.antipope.org)
- - date published: 2024-04-03T06:39:03.448310+00:00
- - user: None
- - tags: ['personal']
-
-## Antipope!
  - [https://www.antipope.org](https://www.antipope.org)
  - date published: 2023-10-25T20:57:17.170460+00:00
  - user: None
  - tags: []
+
+## Antipope!
+ - [http://www.antipope.org](http://www.antipope.org)
+ - date published: 2024-04-03T06:39:03.448310+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Anti-Slavery International | Fighting for Freedom from Slavery
  - [https://www.antislavery.org](https://www.antislavery.org)
@@ -5315,6 +5507,12 @@ marginalia.nu
  - user: None
  - tags: []
 
+## AppImage
+ - [https://appimage.org](https://appimage.org)
+ - date published: 2017-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['linux', 'program format']
+
 ## Physical Review Journals
  - [https://journals.aps.org](https://journals.aps.org)
  - date published: 2023-10-25T20:58:32.037342+00:00
@@ -5453,17 +5651,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Wayback Machine
- - [https://web.archive.org](https://web.archive.org)
- - date published: 2023-10-25T09:29:18.969501+00:00
- - user: None
- - tags: ['internet archive']
-
 ## Back2Roots
  - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
  - date published: 2023-11-02T10:36:12+00:00
  - user: rumpel
  - tags: []
+
+## Wayback Machine
+ - [https://web.archive.org](https://web.archive.org)
+ - date published: 2023-10-25T09:29:18.969501+00:00
+ - user: None
+ - tags: ['internet archive']
 
 ## Archive-It - 
   
@@ -5488,14 +5686,14 @@ marginalia.nu
  - tags: []
 
 ## Archiveteam
- - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
+ - date published: 2023-11-25T06:19:37.367056+00:00
  - user: None
  - tags: []
 
 ## Archiveteam
- - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
- - date published: 2023-11-25T06:19:37.367056+00:00
+ - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5804,202 +6002,4 @@ marginalia.nu
  - date published: 2023-10-24T20:10:48.155491+00:00
  - user: None
  - tags: ['app store']
-
-## The Austral Programming Language
- - [https://austral-lang.org](https://austral-lang.org)
- - date published: 2023-10-25T21:01:00.378599+00:00
- - user: None
- - tags: []
-
-## Authlib 1.2.1 documentation
- - [https://docs.authlib.org](https://docs.authlib.org)
- - date published: 2023-10-25T21:01:03.202811+00:00
- - user: None
- - tags: []
-
-## Support Authors Who Write to Be Read
- - [https://www.authorsalliance.org](https://www.authorsalliance.org)
- - date published: 2024-03-20T18:08:12.640906+00:00
- - user: None
- - tags: []
-
-## Home - Auto Inflammatory Diseases
- - [https://autoinflammatorydiseases.org](https://autoinflammatorydiseases.org)
- - date published: 2024-02-10T21:26:41.452236+00:00
- - user: None
- - tags: ['personal']
-
-## Automerge CRDT | Automerge CRDT
- - [https://automerge.org](https://automerge.org)
- - date published: 2023-10-25T21:01:03.984023+00:00
- - user: None
- - tags: []
-
-## AutoML | Home
- - [https://www.automl.org](https://www.automl.org)
- - date published: 2023-10-25T21:01:07.662664+00:00
- - user: None
- - tags: []
-
-## https://avidemux.org
- - [https://avidemux.org](https://avidemux.org)
- - date published: 2023-10-27T15:09:51.491446+00:00
- - user: None
- - tags: ['video editor', 'program']
-
-## The Awesome Foundation
- - [https://www.awesomefoundation.org](https://www.awesomefoundation.org)
- - date published: 2024-03-13T15:24:26.070241+00:00
- - user: None
- - tags: []
-
-## Axrt.org - Home of AxRuntime
- - [https://axrt.org](https://axrt.org)
- - date published: 2023-12-11T19:00:28.480909+00:00
- - user: None
- - tags: []
-
-## Andrew Zich — Index
- - [https://azich.org](https://azich.org)
- - date published: 2024-01-28T06:37:10.619277+00:00
- - user: None
- - tags: []
-
-## Cronkite News
- - [https://cronkitenews.azpbs.org](https://cronkitenews.azpbs.org)
- - date published: 2023-10-25T21:01:12.611551+00:00
- - user: None
- - tags: []
-
-## Project Bacalhau | Substack
- - [https://blog.bacalhau.org](https://blog.bacalhau.org)
- - date published: 2023-11-02T19:49:28.605024+00:00
- - user: None
- - tags: []
-
-## Cosma's Home Page
- - [http://bactra.org](http://bactra.org)
- - date published: 2023-12-24T22:49:06.589211+00:00
- - user: None
- - tags: []
-
-## British and Irish Legal Information Institute
- - [https://www.bailii.org](https://www.bailii.org)
- - date published: 2023-12-16T09:56:11.836456+00:00
- - user: None
- - tags: []
-
-## https://ballotpedia.org
- - [https://ballotpedia.org](https://ballotpedia.org)
- - date published: 2023-11-07T14:32:58.201410+00:00
- - user: None
- - tags: []
-
-## Balzhur Mud
- - [https://www.balzhur.org](https://www.balzhur.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Bandcamp United - Home
- - [https://www.bandcampunited.org](https://www.bandcampunited.org)
- - date published: 2023-10-25T21:01:13.837050+00:00
- - user: None
- - tags: []
-
-## Basilisk web browser
- - [https://www.basilisk-browser.org](https://www.basilisk-browser.org)
- - date published: 2022-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['web browser']
-
-## BatMUD
- - [http://www.bat.org](http://www.bat.org)
- - date published: 1990-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## BatMUD
- - [https://www.bat.org](https://www.bat.org)
- - date published: 1990-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## American Battlefield Trust | Preserving Hallowed Battlegrounds
- - [https://www.battlefields.org](https://www.battlefields.org)
- - date published: 2023-10-25T21:01:20.247116+00:00
- - user: None
- - tags: []
-
-## Daniil Baturin
- - [https://baturin.org](https://baturin.org)
- - date published: 2023-10-25T21:01:27.335713+00:00
- - user: None
- - tags: []
-
-## Bay Nature Magazine Home
- - [https://baynature.org](https://baynature.org)
- - date published: 2023-10-25T10:17:13.593504+00:00
- - user: None
- - tags: []
-
-## bbPress.org
- - [https://bbpress.org](https://bbpress.org)
- - date published: 2023-10-25T08:30:41.324417+00:00
- - user: None
- - tags: []
-
-## bcachefs
- - [https://bcachefs.org](https://bcachefs.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## BeagleBoard - open hardware computers for makers, educators and professionals
- - [https://beagleboard.org](https://beagleboard.org)
- - date published: 2023-10-25T21:01:32.681324+00:00
- - user: None
- - tags: []
-
-## BeagleBoard - open hardware computers for makers, educators and professionals
- - [https://www.beagleboard.org](https://www.beagleboard.org)
- - date published: 2023-10-25T21:01:37.390014+00:00
- - user: None
- - tags: []
-
-## BearSSL - Main
- - [https://bearssl.org](https://bearssl.org)
- - date published: 2023-10-25T21:01:39.618430+00:00
- - user: None
- - tags: []
-
-## Beast Philanthropy Official Site - Help End Hunger
- - [https://www.beastphilanthropy.org](https://www.beastphilanthropy.org)
- - date published: 2024-02-24T09:57:53.889879+00:00
- - user: None
- - tags: []
-
-## Michael Stillwell
- - [https://beebo.org](https://beebo.org)
- - date published: 2023-10-25T21:01:41.134020+00:00
- - user: None
- - tags: []
-
-## Beehaw - Aspiring to be(e) a safe, friendly and diverse place.
- - [https://beehaw.org](https://beehaw.org)
- - date published: 2023-10-25T21:01:45.404252+00:00
- - user: None
- - tags: []
-
-## BEEP Core protocol central, RFC 3080, RFC 3081, and related BEEP profiles, BEEP implementation, BEEP Protocol, BEEP, Blocks Extensible Exchange Protocol
- - [https://www.beepcore.org](https://www.beepcore.org)
- - date published: 8859-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## BeeRef | A Simple Reference Image Viewer
- - [https://beeref.org](https://beeref.org)
- - date published: 2023-10-25T21:01:46.977040+00:00
- - user: None
- - tags: []
 

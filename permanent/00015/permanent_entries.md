@@ -1,3 +1,111 @@
+## Virtual Uncle - VR, XR, AR Curated News & Releases
+ - [https://virtualuncle.com](https://virtualuncle.com)
+ - date published: 2023-10-25T17:57:29.714238+00:00
+ - user: None
+ - tags: ['virtual reality', 'tech news']
+
+## Virus Comix Online Empire
+ - [http://www.viruscomix.com](http://www.viruscomix.com)
+ - date published: 2024-03-24T15:07:17.603374+00:00
+ - user: None
+ - tags: ['interesting', 'personal']
+
+## Visa, zaufany partner w płatnościach cyfrowych
+ - [https://visa.com](https://visa.com)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['payments', 'card company']
+
+## Vishnu Menon
+ - [https://vishnumenon.com](https://vishnumenon.com)
+ - date published: 2023-10-25T08:48:21.110375+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Visionary CTO | Matt Watson | Substack
+ - [https://blog.visionarycto.com](https://blog.visionarycto.com)
+ - date published: 2023-10-25T17:57:32.350119+00:00
+ - user: None
+ - tags: []
+
+## Sweden – a destination <br>of a different nature
+ - [https://visitsweden.com](https://visitsweden.com)
+ - date published: 2023-10-29T13:00:54.024158+00:00
+ - user: None
+ - tags: []
+
+## Visual Capitalist
+ - [https://www.visualcapitalist.com](https://www.visualcapitalist.com)
+ - date published: 2023-10-25T10:39:33.539082+00:00
+ - user: None
+ - tags: []
+
+## Visual Fonts – Type Good Pictures
+ - [https://visual-fonts.com](https://visual-fonts.com)
+ - date published: 2023-10-25T17:57:36.728693+00:00
+ - user: None
+ - tags: []
+
+## VisualPDE | Interactive live solutions of PDE systems, right on your device
+ - [https://visualpde.com](https://visualpde.com)
+ - date published: 2023-10-25T17:57:37.518948+00:00
+ - user: None
+ - tags: []
+
+## Visual Studio Code - Code Editing. Redefined
+ - [https://code.visualstudio.com](https://code.visualstudio.com)
+ - date published: 2023-10-25T17:57:39.109407+00:00
+ - user: None
+ - tags: ['visual studio', 'programming ide']
+
+## Developer Community
+ - [https://developercommunity.visualstudio.com](https://developercommunity.visualstudio.com)
+ - date published: 2023-10-25T17:57:41.357962+00:00
+ - user: None
+ - tags: []
+
+## Visual Studio Marketplace
+ - [https://marketplace.visualstudio.com](https://marketplace.visualstudio.com)
+ - date published: 2024-03-08T17:41:10.734423+00:00
+ - user: None
+ - tags: ['app store', 'app extensions']
+
+## Visual Studio: IDE and Code Editor for Software Developers and Teams
+ - [https://visualstudio.com](https://visualstudio.com)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: rumpel
+ - tags: ['programming ide']
+
+## Visual Studio Magazine Home -- Visual Studio Magazine
+ - [https://visualstudiomagazine.com](https://visualstudiomagazine.com)
+ - date published: 2023-10-25T17:57:48.493438+00:00
+ - user: None
+ - tags: []
+
+## Viswagyan -
+ - [https://viswagyan.com](https://viswagyan.com)
+ - date published: 2023-12-30T09:16:45.834804+00:00
+ - user: None
+ - tags: []
+
+## Vita Coco
+ - [https://vitacoco.com](https://vitacoco.com)
+ - date published: 2024-02-23T17:49:00.504180+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://now.vitalyobukhov.com](https://now.vitalyobukhov.com)
+ - date published: 2023-12-20T21:32:00.927597+00:00
+ - user: None
+ - tags: ['personal']
+
+## vite-plugin-ssr
+ - [https://vite-plugin-ssr.com](https://vite-plugin-ssr.com)
+ - date published: 2023-10-25T17:57:51.712020+00:00
+ - user: None
+ - tags: []
+
 ## Vivaldi Browser | Powerful, Personal and Private web browser
  - [https://vivaldi.com](https://vivaldi.com)
  - date published: 2023-10-25T08:40:37.885818+00:00
@@ -179,16 +287,16 @@
  - tags: []
 
 ## Vox - Our world, explained
- - [https://www.vox.com](https://www.vox.com)
- - date published: 2023-10-25T10:39:39.512845+00:00
- - user: None
- - tags: ['news']
-
-## Vox - Our world, explained
  - [http://www.vox.com](http://www.vox.com)
  - date published: 2024-02-26T14:26:24.139528+00:00
  - user: None
  - tags: []
+
+## Vox - Our world, explained
+ - [https://www.vox.com](https://www.vox.com)
+ - date published: 2023-10-25T10:39:39.512845+00:00
+ - user: None
+ - tags: ['news']
 
 ## Voxel51 // Open source computer vision tools for machine learning
  - [https://voxel51.com](https://voxel51.com)
@@ -1049,16 +1157,16 @@
  - tags: []
 
 ## lifestyle travel blogger and author
- - [https://princesoffthegrid.weebly.com](https://princesoffthegrid.weebly.com)
- - date published: 2017-10-06T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## lifestyle travel blogger and author
  - [http://princesoffthegrid.weebly.com](http://princesoffthegrid.weebly.com)
  - date published: 2017-10-06T00:00:00+00:00
  - user: None
  - tags: []
+
+## lifestyle travel blogger and author
+ - [https://princesoffthegrid.weebly.com](https://princesoffthegrid.weebly.com)
+ - date published: 2017-10-06T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Weebly is the easiest way to create a website, store or blog
  - [https://www.weebly.com](https://www.weebly.com)
@@ -1481,16 +1589,16 @@
  - tags: ['roms', 'amiga', 'emulation']
 
 ## Wheatdesign.com
- - [https://wheatdesign.com](https://wheatdesign.com)
- - date published: 2023-12-27T01:05:53.415461+00:00
- - user: None
- - tags: ['personal']
-
-## Wheatdesign.com
  - [http://wheatdesign.com](http://wheatdesign.com)
  - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Wheatdesign.com
+ - [https://wheatdesign.com](https://wheatdesign.com)
+ - date published: 2023-12-27T01:05:53.415461+00:00
+ - user: None
+ - tags: ['personal']
 
 ## News10NBC
  - [https://www.whec.com](https://www.whec.com)
@@ -1510,15 +1618,15 @@
  - user: None
  - tags: []
 
-## https://wheybags.com
- - [https://wheybags.com](https://wheybags.com)
- - date published: 2024-01-09T02:54:23.170380+00:00
- - user: None
- - tags: []
-
 ## None
  - [http://wheybags.com](http://wheybags.com)
  - date published: 2024-02-26T15:12:36.370939+00:00
+ - user: None
+ - tags: []
+
+## https://wheybags.com
+ - [https://wheybags.com](https://wheybags.com)
+ - date published: 2024-01-09T02:54:23.170380+00:00
  - user: None
  - tags: []
 
@@ -1706,7 +1814,7 @@
  - [https://wikispeedruns.com](https://wikispeedruns.com)
  - date published: 2023-10-25T18:04:54.204112+00:00
  - user: None
- - tags: []
+ - tags: ['interesting', 'wikipedia']
 
 ## Billy Wilcosky
  - [https://www.wilcosky.com](https://www.wilcosky.com)
@@ -2111,14 +2219,14 @@
  - tags: []
 
 ## WinWorld: Welcome
- - [https://winworldpc.com](https://winworldpc.com)
- - date published: 2024-01-01T19:17:47.205122+00:00
+ - [http://winworldpc.com](http://winworldpc.com)
+ - date published: 2024-02-26T08:40:39.467757+00:00
  - user: None
  - tags: []
 
 ## WinWorld: Welcome
- - [http://winworldpc.com](http://winworldpc.com)
- - date published: 2024-02-26T08:40:39.467757+00:00
+ - [https://winworldpc.com](https://winworldpc.com)
+ - date published: 2024-01-01T19:17:47.205122+00:00
  - user: None
  - tags: []
 
@@ -2318,7 +2426,7 @@
  - [https://faye-tan.wixsite.com](https://faye-tan.wixsite.com)
  - date published: 2024-04-03T12:45:30.788162+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## https://gameknightplaysyt.wixsite.com
  - [https://gameknightplaysyt.wixsite.com](https://gameknightplaysyt.wixsite.com)
@@ -4564,17 +4672,17 @@
  - user: None
  - tags: []
 
-## xkcd: Daylight Saving Choice
- - [https://xkcd.com](https://xkcd.com)
- - date published: 2023-10-25T18:21:57.309268+00:00
- - user: None
- - tags: ['memes', 'funny images', 'comics']
-
 ## Orbital Argument
  - [http://xkcd.com](http://xkcd.com)
  - date published: 2024-02-26T15:13:51.426193+00:00
  - user: None
  - tags: []
+
+## xkcd: Daylight Saving Choice
+ - [https://xkcd.com](https://xkcd.com)
+ - date published: 2023-10-25T18:21:57.309268+00:00
+ - user: None
+ - tags: ['memes', 'funny images', 'comics']
 
 ## x mod 2 | Kirk Thaker | Substack
  - [https://www.xmodtwo.com](https://www.xmodtwo.com)
@@ -5104,21 +5212,15 @@
  - user: None
  - tags: []
 
-## Tabletop Minions
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
- - date published: 2023-11-08T09:59:26+00:00
- - user: rumpel
- - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
-
-## Luetin09 YouTube Channel
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
- - date published: 2023-11-08T09:33:03+00:00
- - user: rumpel
- - tags: ['wargames', 'tabletop games', 'warhammer']
-
 ## Jeff Geerling YouTube Channel
  - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
  - date published: 2023-11-03T10:34:47+00:00
+ - user: rumpel
+ - tags: ['youtuber', 'single-board', 'raspberry']
+
+## Eta Prime YouTube Channel
+ - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
+ - date published: 2023-11-03T10:35:46+00:00
  - user: rumpel
  - tags: ['youtuber', 'single-board', 'raspberry']
 
@@ -5128,29 +5230,11 @@
  - user: rumpel
  - tags: ['amiga']
 
-## Miniac
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
- - date published: 2023-11-08T10:01:11+00:00
+## Louis Rossmann YouTube Channel
+ - [https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
+ - date published: 2023-11-03T10:37:58+00:00
  - user: rumpel
- - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
-
-## NewRetroWave YouTube Channel
- - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
- - date published: 2023-11-13T09:23:17+00:00
- - user: rumpel
- - tags: ['synthwave', 'new retro wave']
-
-## YouTube
- - [http://www.youtube.com](http://www.youtube.com)
- - date published: 2024-03-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## LukHash YouTube Channel
- - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
- - date published: 2023-11-03T14:42:18+00:00
- - user: rumpel
- - tags: []
+ - tags: ['right to repair']
 
 ## Squidmar Miniatures
  - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
@@ -5158,11 +5242,41 @@
  - user: rumpel
  - tags: []
 
-## Eta Prime YouTube Channel
- - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
- - date published: 2023-11-03T10:35:46+00:00
+## Tabletop Minions
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
+ - date published: 2023-11-08T09:59:26+00:00
  - user: rumpel
- - tags: ['youtuber', 'single-board', 'raspberry']
+ - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
+
+## LukHash YouTube Channel
+ - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
+ - date published: 2023-11-03T14:42:18+00:00
+ - user: rumpel
+ - tags: []
+
+## YouTube
+ - [http://www.youtube.com](http://www.youtube.com)
+ - date published: 2024-03-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NewRetroWave YouTube Channel
+ - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
+ - date published: 2023-11-13T09:23:17+00:00
+ - user: rumpel
+ - tags: ['synthwave', 'new retro wave']
+
+## Miniac
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
+ - date published: 2023-11-08T10:01:11+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
+
+## Luetin09 YouTube Channel
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
+ - date published: 2023-11-08T09:33:03+00:00
+ - user: rumpel
+ - tags: ['wargames', 'tabletop games', 'warhammer']
 
 ## YouTube
  - [https://www.youtube.com](https://www.youtube.com)
@@ -5170,21 +5284,15 @@
  - user: None
  - tags: ['google', 'gatekeeper', 'video streaming']
 
-## Louis Rossmann YouTube Channel
- - [https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
- - date published: 2023-11-03T10:37:58+00:00
- - user: rumpel
- - tags: ['right to repair']
-
 ## YouTube
- - [https://youtube.com](https://youtube.com)
- - date published: 2023-11-14T01:45:17.978988+00:00
+ - [http://youtube.com](http://youtube.com)
+ - date published: 2024-03-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## YouTube
- - [http://youtube.com](http://youtube.com)
- - date published: 2024-03-06T00:00:00+00:00
+ - [https://youtube.com](https://youtube.com)
+ - date published: 2023-11-14T01:45:17.978988+00:00
  - user: None
  - tags: []
 
@@ -5868,14 +5976,14 @@
  - tags: []
 
 ## Writing by Bob Doto
- - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
- - date published: 2024-01-09T02:55:47.919867+00:00
+ - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
+ - date published: 2024-02-26T14:37:32.413264+00:00
  - user: None
  - tags: []
 
 ## Writing by Bob Doto
- - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
- - date published: 2024-02-26T14:37:32.413264+00:00
+ - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
+ - date published: 2024-01-09T02:55:47.919867+00:00
  - user: None
  - tags: []
 
@@ -5890,112 +5998,4 @@
  - date published: 2024-04-03T06:25:57.384880+00:00
  - user: None
  - tags: ['personal']
-
-## start [Folk Computer]
- - [https://folk.computer](https://folk.computer)
- - date published: 2024-02-03T17:00:00.054460+00:00
- - user: None
- - tags: []
-
-## Iroh
- - [https://iroh.computer](https://iroh.computer)
- - date published: 2023-10-25T18:26:28.682186+00:00
- - user: None
- - tags: []
-
-## Mythic Computer Co.
- - [https://www.mythic.computer](https://www.mythic.computer)
- - date published: 2023-10-25T18:26:30.118803+00:00
- - user: None
- - tags: []
-
-## Neil Panchal
- - [https://neil.computer](https://neil.computer)
- - date published: 2023-10-25T18:26:32.134105+00:00
- - user: None
- - tags: []
-
-## Dot by New Computer
- - [https://new.computer](https://new.computer)
- - date published: 2023-11-01T17:45:32+00:00
- - user: None
- - tags: []
-
-## None
- - [https://v20.ohayo.computer](https://v20.ohayo.computer)
- - date published: 2024-01-09T02:55:50.855876+00:00
- - user: None
- - tags: []
-
-## List disks /  API / Oxide
- - [https://docs.oxide.computer](https://docs.oxide.computer)
- - date published: 2023-10-25T18:26:35.191809+00:00
- - user: None
- - tags: []
-
-## Hubris
- - [https://hubris.oxide.computer](https://hubris.oxide.computer)
- - date published: 2023-10-25T18:26:37.051005+00:00
- - user: None
- - tags: []
-
-## Oxide Computer Company
- - [https://oxide.computer](https://oxide.computer)
- - date published: 2023-10-25T18:26:40.340286+00:00
- - user: None
- - tags: []
-
-## RFD / Oxide
- - [https://rfd.shared.oxide.computer](https://rfd.shared.oxide.computer)
- - date published: 2023-11-03T17:54:12.549938+00:00
- - user: None
- - tags: []
-
-## The Thin Computer – A Self Hosted Server and My Life With It
- - [https://thin.computer](https://thin.computer)
- - date published: 2024-03-22T00:26:03.656552+00:00
- - user: None
- - tags: []
-
-## Barkey Wolf Consulting
- - [https://barkeywolf.consulting](https://barkeywolf.consulting)
- - date published: 2024-01-16T14:31:43.706149+00:00
- - user: None
- - tags: []
-
-## Certitude Consulting Vienna - Information Security
- - [https://certitude.consulting](https://certitude.consulting)
- - date published: 2023-10-25T18:26:41.919963+00:00
- - user: None
- - tags: []
-
-## Airtable.cool - Link previews and analytics for your Airtable shared view links
- - [https://airtable.cool](https://airtable.cool)
- - date published: 2023-10-25T18:26:45.983340+00:00
- - user: None
- - tags: []
-
-## Now & About – Damien Aresta
- - [https://damien.cool](https://damien.cool)
- - date published: 2023-03-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dan's Site
- - [https://www.mayer.cool](https://www.mayer.cool)
- - date published: 2023-10-25T18:26:46.688031+00:00
- - user: None
- - tags: []
-
-## Home of Val Packett
- - [https://val.packett.cool](https://val.packett.cool)
- - date published: 2023-10-25T18:26:48.292933+00:00
- - user: None
- - tags: []
-
-## The Pudding
- - [https://pudding.cool](https://pudding.cool)
- - date published: 2023-10-25T18:26:52.831116+00:00
- - user: None
- - tags: []
 

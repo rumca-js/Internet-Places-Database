@@ -1,3 +1,27 @@
+## Morphing Fractal Engraving Vise Jaws
+ - [https://fractalvise.com](https://fractalvise.com)
+ - date published: 2023-10-25T14:37:12.415206+00:00
+ - user: None
+ - tags: []
+
+## The France 24 Observers - Breaking the news thanks to amateur images - Film, verify, share.
+ - [https://observers.france24.com](https://observers.france24.com)
+ - date published: 2023-10-25T14:37:17.132636+00:00
+ - user: None
+ - tags: []
+
+## France 24 - International breaking news, top stories and headlines
+ - [https://www.france24.com](https://www.france24.com)
+ - date published: 2023-10-25T10:50:28.450111+00:00
+ - user: None
+ - tags: ['france news']
+
+## Francesca Sciandra
+ - [https://www.francescaelisia.com](https://www.francescaelisia.com)
+ - date published: 2023-12-24T08:14:59.409933+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Francesco Boffa
  - [https://francescoboffa.com](https://francescoboffa.com)
  - date published: 2023-12-21T03:31:15.978337+00:00
@@ -803,26 +827,26 @@
  - tags: []
 
 ## Leaguepedia | League of Legends Esports Wiki
- - [https://lol.gamepedia.com](https://lol.gamepedia.com)
- - date published: 2023-11-02T10:40:59.813503+00:00
- - user: None
- - tags: []
-
-## Leaguepedia | League of Legends Esports Wiki
  - [http://lol.gamepedia.com](http://lol.gamepedia.com)
  - date published: 2024-03-04T03:54:23.281525+00:00
  - user: None
  - tags: []
 
-## Game Programming Patterns
- - [https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com)
- - date published: 2024-02-21T07:23:55+00:00
+## Leaguepedia | League of Legends Esports Wiki
+ - [https://lol.gamepedia.com](https://lol.gamepedia.com)
+ - date published: 2023-11-02T10:40:59.813503+00:00
  - user: None
  - tags: []
 
 ## Game Programming Patterns
  - [http://gameprogrammingpatterns.com](http://gameprogrammingpatterns.com)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Game Programming Patterns
+ - [https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com)
+ - date published: 2024-02-21T07:23:55+00:00
  - user: None
  - tags: []
 
@@ -860,6 +884,12 @@
  - [https://gamesfromwithin.com](https://gamesfromwithin.com)
  - date published: 2024-03-24T00:00:00+00:00
  - user: None
+ - tags: []
+
+## None
+ - [https://downdetector.gameskinny.com](https://downdetector.gameskinny.com)
+ - date published: 2024-04-04T08:01:02+00:00
+ - user: rumpel
  - tags: []
 
 ## GamesNostalgia - Retro games, abandonware, freeware, Amiga & MS-DOS games download for PC and Mac
@@ -1578,14 +1608,14 @@
  - tags: []
 
 ## Rebrandly
- - [https://i.getdifree.com](https://i.getdifree.com)
- - date published: 2023-12-21T03:33:16.873884+00:00
+ - [http://i.getdifree.com](http://i.getdifree.com)
+ - date published: 2024-04-03T12:48:07.356030+00:00
  - user: None
  - tags: ['personal']
 
 ## Rebrandly
- - [http://i.getdifree.com](http://i.getdifree.com)
- - date published: 2024-04-03T12:48:07.356030+00:00
+ - [https://i.getdifree.com](https://i.getdifree.com)
+ - date published: 2023-12-21T03:33:16.873884+00:00
  - user: None
  - tags: ['personal']
 
@@ -1836,15 +1866,15 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['personal']
 
-## Coming Soon
- - [https://gilles-snowcat.com](https://gilles-snowcat.com)
- - date published: 2024-01-09T00:12:02.177651+00:00
- - user: None
- - tags: ['personal']
-
 ## Gilles Snowcat - 雪猫ジル
  - [http://gilles-snowcat.com](http://gilles-snowcat.com)
  - date published: 2024-04-03T06:28:55.795515+00:00
+ - user: None
+ - tags: ['personal']
+
+## Coming Soon
+ - [https://gilles-snowcat.com](https://gilles-snowcat.com)
+ - date published: 2024-01-09T00:12:02.177651+00:00
  - user: None
  - tags: ['personal']
 
@@ -1879,16 +1909,16 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Gioel Gio – Creative action researcher
- - [http://gioelgio.com](http://gioelgio.com)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gioel Gio – Creative action researcher
  - [https://gioelgio.com](https://gioelgio.com)
  - date published: 2024-01-15T08:33:12.975028+00:00
  - user: None
  - tags: ['personal']
+
+## Gioel Gio – Creative action researcher
+ - [http://gioelgio.com](http://gioelgio.com)
+ - date published: 2024-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Hi, I’m Giorgio. | Giorgio Pretto - UX Designer
  - [https://www.giorgiopretto.com](https://www.giorgiopretto.com)
@@ -2758,7 +2788,7 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - [https://play.google.com](https://play.google.com)
  - date published: 2023-10-24T20:11:54.898633+00:00
  - user: None
- - tags: ['gatekeeper', 'app store']
+ - tags: ['app store', 'game store', 'gatekeeper']
 
 ## New community features for Google Chat and an update on Currents
  - [https://plus.google.com](https://plus.google.com)
@@ -2838,17 +2868,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
-## Google flights
- - [https://www.google.com/travel/flights](https://www.google.com/travel/flights)
- - date published: 2024-01-02T07:35:30+00:00
- - user: rumpel
- - tags: []
-
 ## Google
  - [https://www.google.com](https://www.google.com)
  - date published: 2023-10-25T08:28:06.744876+00:00
  - user: None
  - tags: ['gatekeeper', 'search engine']
+
+## Google flights
+ - [https://www.google.com/travel/flights](https://www.google.com/travel/flights)
+ - date published: 2024-01-02T07:35:30+00:00
+ - user: rumpel
+ - tags: []
 
 ## Hosted Libraries  |  Google for Developers
  - [https://ajax.googleapis.com](https://ajax.googleapis.com)
@@ -5151,6 +5181,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Henrik's Blog
+ - [https://hforsten.com](https://hforsten.com)
+ - date published: 2024-04-04T17:01:41.992450+00:00
+ - user: None
+ - tags: []
+
 ## HHV Ferry
  - [https://www.hhvferry.com](https://www.hhvferry.com)
  - date published: 2024-02-08T22:24:32.738659+00:00
@@ -5422,16 +5458,16 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: ['hobby', 'sculpting', 'miniatures']
 
 ## Kelly Hobkirk portfolio - Seattle graphic designer
- - [https://www.hobkirkdesign.com](https://www.hobkirkdesign.com)
- - date published: 2023-11-29T14:23:31.668593+00:00
- - user: None
- - tags: ['personal']
-
-## Kelly Hobkirk portfolio - Seattle graphic designer
  - [http://www.hobkirkdesign.com](http://www.hobkirkdesign.com)
  - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Kelly Hobkirk portfolio - Seattle graphic designer
+ - [https://www.hobkirkdesign.com](https://www.hobkirkdesign.com)
+ - date published: 2023-11-29T14:23:31.668593+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Hodinkee
  - [https://www.hodinkee.com](https://www.hodinkee.com)
@@ -5943,15 +5979,15 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['http']
 
-## HTTP Status Dogs
- - [https://httpstatusdogs.com](https://httpstatusdogs.com)
- - date published: 2024-01-21T01:43:06.311441+00:00
- - user: None
- - tags: []
-
 ## None
  - [httpstatusdogs.com](httpstatusdogs.com)
  - date published: 2024-01-09T02:38:19.350410+00:00
+ - user: None
+ - tags: []
+
+## HTTP Status Dogs
+ - [https://httpstatusdogs.com](https://httpstatusdogs.com)
+ - date published: 2024-01-21T01:43:06.311441+00:00
  - user: None
  - tags: []
 
@@ -5966,40 +6002,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T08:45:59.298217+00:00
  - user: None
  - tags: ['personal']
-
-## HubSpot | Redirecting...
- - [https://app.hubspot.com](https://app.hubspot.com)
- - date published: 3224-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## HubSpot Blog | Marketing, Sales, Agency, and Customer Success Content
- - [https://blog.hubspot.com](https://blog.hubspot.com)
- - date published: 2023-10-25T15:14:20.036818+00:00
- - user: None
- - tags: []
-
-## HubSpot Careers | Product, UX, & Engineering
- - [https://product.hubspot.com](https://product.hubspot.com)
- - date published: 2023-10-25T15:14:22.949283+00:00
- - user: None
- - tags: []
-
-## HubSpot | Software, Tools, Resources for Your Business
- - [https://www.hubspot.com](https://www.hubspot.com)
- - date published: 2023-11-01T15:05:08.080306+00:00
- - user: None
- - tags: []
-
-## Home | Huck
- - [https://www.huckmag.com](https://www.huckmag.com)
- - date published: 2023-10-25T15:14:27.054185+00:00
- - user: None
- - tags: []
-
-## Hudson Jeans
- - [https://www.hudsonjeans.com](https://www.hudsonjeans.com)
- - date published: 2024-02-08T22:16:17.325092+00:00
- - user: None
- - tags: []
 

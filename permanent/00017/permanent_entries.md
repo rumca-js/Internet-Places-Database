@@ -1,3 +1,111 @@
+## Alejandro Machado – Projects
+ - [https://alejandro.macha.do](https://alejandro.macha.do)
+ - date published: 2024-01-02T18:28:44.845981+00:00
+ - user: None
+ - tags: []
+
+## HOME | LIS.DOCTOR
+ - [https://lis.doctor](https://lis.doctor)
+ - date published: 2024-01-19T01:54:20.473301+00:00
+ - user: None
+ - tags: []
+
+## Brian Lui's blog
+ - [https://brianlui.dog](https://brianlui.dog)
+ - date published: 2023-11-29T15:44:45.049341+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dog API by kinduff
+ - [https://dogapi.dog](https://dogapi.dog)
+ - date published: 2023-10-25T18:46:20.933530+00:00
+ - user: None
+ - tags: []
+
+## No Idea Blog
+ - [https://noidea.dog](https://noidea.dog)
+ - date published: 2024-01-09T02:58:03.964927+00:00
+ - user: None
+ - tags: []
+
+## This is the internet homepage of Bix Frankonis
+ - [https://slow.dog](https://slow.dog)
+ - date published: 2023-12-11T23:17:44.912955+00:00
+ - user: None
+ - tags: ['personal']
+
+## That Slow Dog
+ - [https://that.slow.dog](https://that.slow.dog)
+ - date published: 2024-02-26T14:07:35.467462+00:00
+ - user: None
+ - tags: []
+
+## All posts
+ - [https://ashen.earth](https://ashen.earth)
+ - date published: 2023-10-25T18:46:22.771402+00:00
+ - user: None
+ - tags: []
+
+## Distilled | Michael Thomas | Substack
+ - [https://www.distilled.earth](https://www.distilled.earth)
+ - date published: 2023-10-25T18:46:26.279244+00:00
+ - user: None
+ - tags: []
+
+## https://vienna.earth
+ - [https://vienna.earth](https://vienna.earth)
+ - date published: 2024-01-09T02:58:05.377373+00:00
+ - user: None
+ - tags: []
+
+## Zoom Earth | Weather Maps & Live Hurricane Tracker
+ - [https://zoom.earth](https://zoom.earth)
+ - date published: 2023-10-24T20:19:17.010702+00:00
+ - user: None
+ - tags: []
+
+## Citroën, Vehículos Inspirados en Ti. Encuéntralos en Grupo Mavesa
+ - [https://www.citroen.com.ec](https://www.citroen.com.ec)
+ - date published: 2023-12-11T16:01:37.530178+00:00
+ - user: None
+ - tags: []
+
+## Transparencia Ikiam
+ - [https://lotaip.ikiam.edu.ec](https://lotaip.ikiam.edu.ec)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Data Desk | Louis Goddard | Substack
+ - [https://blog.datadesk.eco](https://blog.datadesk.eco)
+ - date published: 2024-03-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Academia.edu - Share research
+ - [https://www.academia.edu](https://www.academia.edu)
+ - date published: 2023-12-08T08:28:48.297551+00:00
+ - user: None
+ - tags: ['digital library', 'ebooks']
+
+## American College of the Building Arts
+ - [https://acba.edu](https://acba.edu)
+ - date published: 2024-02-08T17:01:49.403956+00:00
+ - user: None
+ - tags: []
+
+## Research @ AU
+ - [https://research.american.edu](https://research.american.edu)
+ - date published: 2023-10-25T18:46:30.302927+00:00
+ - user: None
+ - tags: []
+
+## Appalachian State University
+ - [https://mediaspace.appstate.edu](https://mediaspace.appstate.edu)
+ - date published: 2021-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## UArizona Health Sciences |
  - [https://healthsciences.arizona.edu](https://healthsciences.arizona.edu)
  - date published: 2023-10-25T18:46:38.005550+00:00
@@ -2287,14 +2395,14 @@
  - tags: []
 
 ## Stanford News
- - [https://news.stanford.edu](https://news.stanford.edu)
- - date published: 2023-10-25T18:58:41.013599+00:00
+ - [http://news.stanford.edu](http://news.stanford.edu)
+ - date published: 2024-02-26T13:11:04.090772+00:00
  - user: None
  - tags: []
 
 ## Stanford News
- - [http://news.stanford.edu](http://news.stanford.edu)
- - date published: 2024-02-26T13:11:04.090772+00:00
+ - [https://news.stanford.edu](https://news.stanford.edu)
+ - date published: 2023-10-25T18:58:41.013599+00:00
  - user: None
  - tags: []
 
@@ -4322,15 +4430,15 @@
  - user: None
  - tags: ['personal']
 
-## Exist
- - [https://leejon.es](https://leejon.es)
- - date published: 2024-01-31T18:44:31.519646+00:00
- - user: None
- - tags: []
-
 ## Lee Jones | Software Development, Product Design, Productivity
  - [http://leejon.es](http://leejon.es)
  - date published: 2024-03-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Exist
+ - [https://leejon.es](https://leejon.es)
+ - date published: 2024-01-31T18:44:31.519646+00:00
  - user: None
  - tags: []
 
@@ -5229,16 +5337,16 @@
  - tags: []
 
 ## Nicole Express
- - [http://nicole.express](http://nicole.express)
- - date published: 2024-02-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nicole Express
  - [https://nicole.express](https://nicole.express)
  - date published: 2023-10-25T19:12:14.620553+00:00
  - user: None
  - tags: ['personal']
+
+## Nicole Express
+ - [http://nicole.express](http://nicole.express)
+ - date published: 2024-02-18T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Abort Retry Fail | Bradford Morgan White | Substack
  - [https://www.abortretry.fail](https://www.abortretry.fail)
@@ -5310,6 +5418,12 @@
  - [https://users.ics.aalto.fi](https://users.ics.aalto.fi)
  - date published: 2023-10-25T19:12:48.987236+00:00
  - user: None
+ - tags: []
+
+## Aalto-yliopisto
+ - [https://www.aalto.fi](https://www.aalto.fi)
+ - date published: 2024-04-04T09:46:08+00:00
+ - user: rumpel
  - tags: []
 
 ## Home | Business Consulting
@@ -5408,17 +5522,17 @@
  - user: None
  - tags: ['personal']
 
-## The X-Copy Shrine
- - [http://jope.fi/xcopy/index.html](http://jope.fi/xcopy/index.html)
- - date published: 2024-02-06T13:38:25.181349+00:00
- - user: rumpel
- - tags: ['amiga', 'x-copy']
-
 ## https://jope.fi
  - [https://jope.fi](https://jope.fi)
  - date published: 2024-01-11T00:42:53.136432+00:00
  - user: None
  - tags: []
+
+## The X-Copy Shrine
+ - [http://jope.fi/xcopy/index.html](http://jope.fi/xcopy/index.html)
+ - date published: 2024-02-06T13:38:25.181349+00:00
+ - user: rumpel
+ - tags: ['amiga', 'x-copy']
 
 ## Ville Jouppi
  - [http://jope.fi](http://jope.fi)
@@ -5433,13 +5547,13 @@
  - tags: []
 
 ## None
- - [http://kaaosradio.fi](http://kaaosradio.fi)
+ - [https://kaaosradio.fi](https://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://kaaosradio.fi](https://kaaosradio.fi)
+ - [http://kaaosradio.fi](http://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -5481,14 +5595,14 @@
  - tags: []
 
 ## Spotify - Web Player: Music for everyone
- - [http://spoti.fi](http://spoti.fi)
- - date published: 2024-01-21T19:14:58.231822+00:00
+ - [https://spoti.fi](https://spoti.fi)
+ - date published: 2024-01-22T07:43:20.742120+00:00
  - user: None
  - tags: []
 
 ## Spotify - Web Player: Music for everyone
- - [https://spoti.fi](https://spoti.fi)
- - date published: 2024-01-22T07:43:20.742120+00:00
+ - [http://spoti.fi](http://spoti.fi)
+ - date published: 2024-01-21T19:14:58.231822+00:00
  - user: None
  - tags: []
 
@@ -5897,120 +6011,6 @@
 ## Garage - An open-source distributed object storage service
  - [https://garagehq.deuxfleurs.fr](https://garagehq.deuxfleurs.fr)
  - date published: 2023-10-25T19:14:45.117352+00:00
- - user: None
- - tags: []
-
-## Diátaxis
- - [https://diataxis.fr](https://diataxis.fr)
- - date published: 2023-10-25T19:14:47.414067+00:00
- - user: None
- - tags: []
-
-## Digital Change Management
- - [https://www.didiermary.fr](https://www.didiermary.fr)
- - date published: 2024-01-10T22:42:52.468292+00:00
- - user: None
- - tags: []
-
-## DIENS
- - [https://www.di.ens.fr](https://www.di.ens.fr)
- - date published: 2024-03-02T19:34:03.258599+00:00
- - user: None
- - tags: []
-
-## EQUIUM - La pompe à chaleur acoustique
- - [https://www.equium.fr](https://www.equium.fr)
- - date published: 2023-10-25T19:14:50.049264+00:00
- - user: None
- - tags: []
-
-## https://pierre.equoy.fr
- - [https://pierre.equoy.fr](https://pierre.equoy.fr)
- - date published: 2024-01-09T03:29:34.933798+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.errno.fr](https://www.errno.fr)
- - date published: 2023-10-25T19:14:53.591095+00:00
- - user: None
- - tags: []
-
-## European Synchrotron Radiation Facility (ESRF)
- - [https://www.esrf.fr](https://www.esrf.fr)
- - date published: 2023-10-25T19:14:58.288540+00:00
- - user: None
- - tags: []
-
-## Actualités et Infos en direct & replay | Europe 1
- - [https://www.europe1.fr](https://www.europe1.fr)
- - date published: 2023-11-05T12:49:53.622670+00:00
- - user: None
- - tags: []
-
-## Expressions Francaises, dictons. Définition signification et origines des expressions Françaises
- - [https://www.expressions-francaises.fr](https://www.expressions-francaises.fr)
- - date published: 2024-02-08T17:43:36.588005+00:00
- - user: None
- - tags: []
-
-## Fathy Boundjadj
- - [https://fathy.fr](https://fathy.fr)
- - date published: 2023-10-25T19:14:59.727135+00:00
- - user: None
- - tags: []
-
-## Amiga Libraries FTP
- - [https://amiga.foul.fr](https://amiga.foul.fr)
- - date published: 2023-11-02T09:55:43.484734+00:00
- - user: None
- - tags: ['amiga']
-
-## Obligement - L'Amiga au maximum
- - [http://obligement.free.fr](http://obligement.free.fr)
- - date published: 2023-11-02T09:51:57.420141+00:00
- - user: None
- - tags: ['amiga']
-
-## Google Scholar
- - [https://scholar.google.fr](https://scholar.google.fr)
- - date published: 2024-03-15T16:04:35.393637+00:00
- - user: None
- - tags: []
-
-## Avant de continuer
- - [https://translate.google.fr](https://translate.google.fr)
- - date published: 2023-12-11T19:00:32.746424+00:00
- - user: None
- - tags: []
-
-## Google
- - [https://www.google.fr](https://www.google.fr)
- - date published: 2024-01-09T03:29:35.619916+00:00
- - user: None
- - tags: []
-
-## Mohamed HAIMOURA
- - [https://haimoura.fr](https://haimoura.fr)
- - date published: 2024-01-04T22:21:33.901320+00:00
- - user: None
- - tags: []
-
-## HandBrake - Index page
- - [https://forum.handbrake.fr](https://forum.handbrake.fr)
- - date published: 2023-11-19T07:59:22.879848+00:00
- - user: None
- - tags: []
-
-## HandBrake: Open Source Video Transcoder
- - [https://handbrake.fr](https://handbrake.fr)
- - date published: 2023-11-19T12:04:56+00:00
- - user: None
- - tags: ['program', 'open source']
-
-## Accueil - Haute école des arts du Rhin
- - [https://www.hear.fr](https://www.hear.fr)
- - date published: 2024-01-09T03:29:37.108977+00:00
  - user: None
  - tags: []
 

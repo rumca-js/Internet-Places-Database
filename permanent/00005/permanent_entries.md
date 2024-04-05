@@ -1,3 +1,27 @@
+## Dungeon Masters Guild -
+ - [https://www.dmsguild.com](https://www.dmsguild.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['shop', 'dungeons and dragons', 'magazines']
+
+## DNA Lounge
+ - [https://www.dnalounge.com](https://www.dnalounge.com)
+ - date published: 2024-03-24T15:08:09.860965+00:00
+ - user: None
+ - tags: []
+
+## Dungeons & Dragons | The World's Greatest Roleplaying Game
+ - [https://www.dndbeyond.com](https://www.dndbeyond.com)
+ - date published: 2023-10-25T13:55:23.973098+00:00
+ - user: None
+ - tags: []
+
+## Новини Дніпра сьогодні • Головні і останні новини
+ - [https://www.dniprotoday.com](https://www.dniprotoday.com)
+ - date published: 2023-12-26T16:56:39.722500+00:00
+ - user: None
+ - tags: []
+
 ## -- DNSBeans - Simple, Fast -SysAdmin ToolBox
  - [https://mirrors.dnsbeans.com](https://mirrors.dnsbeans.com)
  - date published: 2024-02-08T16:34:50.890993+00:00
@@ -371,11 +395,11 @@
  - user: None
  - tags: []
 
-## Cierpliwości...
+## Downdetector
  - [https://downdetector.com](https://downdetector.com)
- - date published: 2024-03-05T16:10:59.451342+00:00
- - user: None
- - tags: []
+ - date published: 2024-03-05T16:10:59+00:00
+ - user: rumpel
+ - tags: ['down detector']
 
 ## Show HN: I create a free website for download YouTube transcript, subtitle
  - [https://www.downloadyoutubesubtitle.com](https://www.downloadyoutubesubtitle.com)
@@ -1146,14 +1170,14 @@
  - tags: []
 
 ## Earl MacDonald – Composer, Jazz Pianist, Music Educator – “A magical, musical alchemist of hip hybrids."
- - [http://www.earlmacdonald.com](http://www.earlmacdonald.com)
- - date published: 2024-04-03T06:25:22.075271+00:00
+ - [https://www.earlmacdonald.com](https://www.earlmacdonald.com)
+ - date published: 2023-12-16T07:29:09.233696+00:00
  - user: None
  - tags: ['personal']
 
 ## Earl MacDonald – Composer, Jazz Pianist, Music Educator – “A magical, musical alchemist of hip hybrids."
- - [https://www.earlmacdonald.com](https://www.earlmacdonald.com)
- - date published: 2023-12-16T07:29:09.233696+00:00
+ - [http://www.earlmacdonald.com](http://www.earlmacdonald.com)
+ - date published: 2024-04-03T06:25:22.075271+00:00
  - user: None
  - tags: ['personal']
 
@@ -2493,7 +2517,7 @@
  - [https://store.epicgames.com](https://store.epicgames.com)
  - date published: 2024-01-09T01:36:29.453673+00:00
  - user: None
- - tags: []
+ - tags: ['game store']
 
 ## https://www.epicgames.com
  - [https://www.epicgames.com](https://www.epicgames.com)
@@ -2616,14 +2640,14 @@
  - tags: ['personal']
 
 ## The Official Website of Creative Entreprenuer Eric Beaty
- - [http://ericbeaty.com](http://ericbeaty.com)
- - date published: 2024-04-03T06:30:05.447054+00:00
+ - [https://ericbeaty.com](https://ericbeaty.com)
+ - date published: 2024-01-16T23:54:25.185150+00:00
  - user: None
  - tags: ['personal']
 
 ## The Official Website of Creative Entreprenuer Eric Beaty
- - [https://ericbeaty.com](https://ericbeaty.com)
- - date published: 2024-01-16T23:54:25.185150+00:00
+ - [http://ericbeaty.com](http://ericbeaty.com)
+ - date published: 2024-04-03T06:30:05.447054+00:00
  - user: None
  - tags: ['personal']
 
@@ -2778,16 +2802,16 @@
  - tags: []
 
 ## (no title)
- - [https://www.erinmhartshorn.com](https://www.erinmhartshorn.com)
- - date published: 2023-12-13T11:23:04.041081+00:00
- - user: None
- - tags: ['personal']
-
-## (no title)
  - [http://www.erinmhartshorn.com](http://www.erinmhartshorn.com)
  - date published: 2015-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## (no title)
+ - [https://www.erinmhartshorn.com](https://www.erinmhartshorn.com)
+ - date published: 2023-12-13T11:23:04.041081+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Erin Research
  - [https://www.erinresearch.com](https://www.erinresearch.com)
@@ -3761,17 +3785,17 @@
  - user: rumpel
  - tags: ['facebook']
 
-## Facebook
- - [https://www.facebook.com](https://www.facebook.com)
- - date published: 2023-10-24T20:15:12+00:00
- - user: rumpel
- - tags: ['gatekeeper', 'social platform']
-
 ## Log in or sign up to view
  - [http://www.facebook.com](http://www.facebook.com)
  - date published: 2024-02-24T09:54:20.558477+00:00
  - user: None
  - tags: []
+
+## Facebook
+ - [https://www.facebook.com](https://www.facebook.com)
+ - date published: 2023-10-24T20:15:12+00:00
+ - user: rumpel
+ - tags: ['gatekeeper', 'social platform']
 
 ## In re: Facebook, Inc. Consumer Privacy User Profile Litigation
  - [https://www.facebookuserprivacysettlement.com](https://www.facebookuserprivacysettlement.com)
@@ -5334,16 +5358,16 @@
  - tags: ['scarlett', 'audio equipment']
 
 ## - Justin Foeppel
- - [http://foeppel.com](http://foeppel.com)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## - Justin Foeppel
  - [https://foeppel.com](https://foeppel.com)
  - date published: 2024-01-02T18:30:14.463579+00:00
  - user: None
  - tags: ['personal']
+
+## - Justin Foeppel
+ - [http://foeppel.com](http://foeppel.com)
+ - date published: 2024-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Fogknife
  - [https://fogknife.com](https://fogknife.com)
@@ -5974,28 +5998,4 @@
  - date published: 2024-03-27T11:49:56+00:00
  - user: None
  - tags: []
-
-## Morphing Fractal Engraving Vise Jaws
- - [https://fractalvise.com](https://fractalvise.com)
- - date published: 2023-10-25T14:37:12.415206+00:00
- - user: None
- - tags: []
-
-## The France 24 Observers - Breaking the news thanks to amateur images - Film, verify, share.
- - [https://observers.france24.com](https://observers.france24.com)
- - date published: 2023-10-25T14:37:17.132636+00:00
- - user: None
- - tags: []
-
-## France 24 - International breaking news, top stories and headlines
- - [https://www.france24.com](https://www.france24.com)
- - date published: 2023-10-25T10:50:28.450111+00:00
- - user: None
- - tags: ['france news']
-
-## Francesca Sciandra
- - [https://www.francescaelisia.com](https://www.francescaelisia.com)
- - date published: 2023-12-24T08:14:59.409933+00:00
- - user: None
- - tags: ['personal']
 

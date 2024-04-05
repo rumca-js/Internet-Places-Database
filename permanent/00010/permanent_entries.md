@@ -1,3 +1,63 @@
+## 日経マーケティングポータル | 日本経済新聞社のメディアマーケティング、ソリューションサービス
+ - [https://marketing.nikkei.com](https://marketing.nikkei.com)
+ - date published: 2023-12-12T09:08:25.578470+00:00
+ - user: None
+ - tags: []
+
+## https://promotion.asia.nikkei.com
+ - [https://promotion.asia.nikkei.com](https://promotion.asia.nikkei.com)
+ - date published: 2023-12-12T09:07:49.489535+00:00
+ - user: None
+ - tags: []
+
+## 日本経済新聞 - ニュース・速報 最新情報
+ - [https://s.nikkei.com](https://s.nikkei.com)
+ - date published: 2023-12-12T09:09:15.667163+00:00
+ - user: None
+ - tags: []
+
+## 日本経済新聞 - ニュース・速報 最新情報
+ - [https://www.nikkei.com](https://www.nikkei.com)
+ - date published: 2023-12-12T09:08:52.927246+00:00
+ - user: None
+ - tags: []
+
+## Nikko Norte | Home
+ - [https://www.nikkonorte.com](https://www.nikkonorte.com)
+ - date published: 2024-02-24T14:22:44.767852+00:00
+ - user: None
+ - tags: []
+
+## niklas babel
+ - [https://niklasbabel.com](https://niklasbabel.com)
+ - date published: 2023-12-31T13:21:18.368816+00:00
+ - user: None
+ - tags: []
+
+## Niklas Bühler
+ - [https://www.niklasbuehler.com](https://www.niklasbuehler.com)
+ - date published: 2023-12-12T13:08:03.401175+00:00
+ - user: None
+ - tags: ['personal']
+
+## niklasgoeke.com - Lessons from life outside the comfort zone
+ - [https://niklasgoeke.com](https://niklasgoeke.com)
+ - date published: 2024-01-17T04:44:14.874735+00:00
+ - user: None
+ - tags: []
+
+## Nikolai Vazquez
+ - [https://nikolaivazquez.com](https://nikolaivazquez.com)
+ - date published: 2023-10-25T08:47:21.833024+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nikolas Bentel
+ - [https://www.nikolasbentelstudio.com](https://www.nikolasbentelstudio.com)
+ - date published: 2023-10-25T16:20:03.082094+00:00
+ - user: None
+ - tags: []
+
 ## You always have a choice. – Nikolett
  - [https://www.nikolett.com](https://www.nikolett.com)
  - date published: 2023-12-13T20:59:14.600606+00:00
@@ -106,15 +166,15 @@
  - user: None
  - tags: ['music band']
 
-## The Internet Nirvana Fan Club
- - [http://www.nirvanaclub.com](http://www.nirvanaclub.com)
- - date published: 2024-02-26T09:19:36.552314+00:00
- - user: None
- - tags: []
-
 ## [NFC: The Internet Nirvana Fan Club]
  - [https://www.nirvanaclub.com](https://www.nirvanaclub.com)
  - date published: 2023-10-25T14:19:53.039695+00:00
+ - user: None
+ - tags: []
+
+## The Internet Nirvana Fan Club
+ - [http://www.nirvanaclub.com](http://www.nirvanaclub.com)
+ - date published: 2024-02-26T09:19:36.552314+00:00
  - user: None
  - tags: []
 
@@ -575,14 +635,14 @@
  - tags: []
 
 ## Notes & Photos
- - [http://www.notesandphotos.com](http://www.notesandphotos.com)
- - date published: 2024-04-03T12:46:22.033917+00:00
+ - [https://www.notesandphotos.com](https://www.notesandphotos.com)
+ - date published: 2023-12-20T21:30:54.650783+00:00
  - user: None
  - tags: ['personal']
 
 ## Notes & Photos
- - [https://www.notesandphotos.com](https://www.notesandphotos.com)
- - date published: 2023-12-20T21:30:54.650783+00:00
+ - [http://www.notesandphotos.com](http://www.notesandphotos.com)
+ - date published: 2024-04-03T12:46:22.033917+00:00
  - user: None
  - tags: ['personal']
 
@@ -2186,15 +2246,15 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
-## O'Reilly Media - Technology and Business Training
- - [https://radar.oreilly.com](https://radar.oreilly.com)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Radar - O’Reilly
  - [http://radar.oreilly.com](http://radar.oreilly.com)
  - date published: 2024-03-11T20:56:21.645465+00:00
+ - user: None
+ - tags: []
+
+## O'Reilly Media - Technology and Business Training
+ - [https://radar.oreilly.com](https://radar.oreilly.com)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2607,6 +2667,12 @@ Answering Machine Greetings!
  - user: None
  - tags: ['personal']
 
+## Owen的博客
+ - [https://www.owenyoung.com](https://www.owenyoung.com)
+ - date published: 2024-04-04T07:18:24.749527+00:00
+ - user: None
+ - tags: ['personal']
+
 ## OBN | Hey, how are ya?
  - [https://www.owlbynight.com](https://www.owlbynight.com)
  - date published: 2023-10-25T16:28:44.701322+00:00
@@ -3016,16 +3082,16 @@ Answering Machine Greetings!
  - tags: ['personal']
 
 ## Paperlike | Official Online Store
- - [https://paperlike.com](https://paperlike.com)
- - date published: 2024-03-07T19:36:45.060837+00:00
- - user: None
- - tags: []
-
-## Paperlike | Official Online Store
  - [http://paperlike.com](http://paperlike.com)
  - date published: 2024-02-24T09:57:05.617898+00:00
  - user: None
  - tags: ['screen protector']
+
+## Paperlike | Official Online Store
+ - [https://paperlike.com](https://paperlike.com)
+ - date published: 2024-03-07T19:36:45.060837+00:00
+ - user: None
+ - tags: []
 
 ## Paperpile Reference Manager
  - [https://paperpile.com](https://paperpile.com)
@@ -3328,14 +3394,14 @@ Answering Machine Greetings!
  - tags: ['personal']
 
 ## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
- - date published: 2023-12-23T07:30:12.092026+00:00
+ - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
+ - date published: 2023-12-21T08:24:19.074982+00:00
  - user: None
  - tags: ['personal']
 
 ## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
- - date published: 2023-12-21T08:24:19.074982+00:00
+ - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
+ - date published: 2023-12-23T07:30:12.092026+00:00
  - user: None
  - tags: ['personal']
 
@@ -3573,15 +3639,15 @@ Answering Machine Greetings!
  - user: None
  - tags: ['personal']
 
-## PCMag UK
- - [http://uk.pcmag.com](http://uk.pcmag.com)
- - date published: 2024-02-26T09:45:15.403718+00:00
- - user: None
- - tags: []
-
 ## PCMag.com - Technology Product Reviews, News, Prices & Tips
  - [https://uk.pcmag.com](https://uk.pcmag.com)
  - date published: 2023-10-25T09:34:32.882984+00:00
+ - user: None
+ - tags: []
+
+## PCMag UK
+ - [http://uk.pcmag.com](http://uk.pcmag.com)
+ - date published: 2024-02-26T09:45:15.403718+00:00
  - user: None
  - tags: []
 
@@ -4216,13 +4282,13 @@ Answering Machine Greetings!
  - tags: []
 
 ## Paul's Dev Notes
- - [http://www.pfrazee.com](http://www.pfrazee.com)
+ - [https://www.pfrazee.com](https://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Paul's Dev Notes
- - [https://www.pfrazee.com](https://www.pfrazee.com)
+ - [http://www.pfrazee.com](http://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -4499,6 +4565,12 @@ Answering Machine Greetings!
  - date published: 2024-01-15T05:45:17.624527+00:00
  - user: None
  - tags: []
+
+## PHP: The Right Way
+ - [https://phptherightway.com](https://phptherightway.com)
+ - date published: 2024-04-03T22:52:41+00:00
+ - user: None
+ - tags: ['programming', 'php', 'tutorials']
 
 ## Phronemophobic's Blog
  - [https://blog.phronemophobic.com](https://blog.phronemophobic.com)
@@ -4922,9 +4994,9 @@ Answering Machine Greetings!
 
 ## %%sitename%%
  - [https://www.placesofjuma.com](https://www.placesofjuma.com)
- - date published: 2024-01-15T14:07:39.934843+00:00
- - user: None
- - tags: []
+ - date published: 2024-01-15T14:07:39+00:00
+ - user: rumpel
+ - tags: ['travel']
 
 ## Enabling all companies to build fintech solutions | Plaid
  - [https://plaid.com](https://plaid.com)
@@ -5413,13 +5485,13 @@ Answering Machine Greetings!
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -5881,14 +5953,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## Preshing on Programming
- - [http://preshing.com](http://preshing.com)
- - date published: 2021-03-15T00:00:00+00:00
+ - [https://preshing.com](https://preshing.com)
+ - date published: 2023-10-25T16:39:24.657091+00:00
  - user: None
  - tags: []
 
 ## Preshing on Programming
- - [https://preshing.com](https://preshing.com)
- - date published: 2023-10-25T16:39:24.657091+00:00
+ - [http://preshing.com](http://preshing.com)
+ - date published: 2021-03-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5931,78 +6003,6 @@ Answering Machine Greetings!
 ## Prestissimo Media
  - [http://prestissimo-guitar.com](http://prestissimo-guitar.com)
  - date published: 2021-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tom Preston-Werner
- - [https://tom.preston-werner.com](https://tom.preston-werner.com)
- - date published: 2023-10-25T16:39:41.232703+00:00
- - user: None
- - tags: []
-
-## Pretty Graham | Paul Graham for people with eyes
- - [https://prettygraham.com](https://prettygraham.com)
- - date published: 2023-10-25T16:39:42.501069+00:00
- - user: None
- - tags: []
-
-## Prevention.com - Health Advice, Nutrition Tips, Trusted Medical Information
- - [https://www.prevention.com](https://www.prevention.com)
- - date published: 2023-10-25T16:39:45.941407+00:00
- - user: None
- - tags: []
-
-## Priceonomics - In Data We Trust
- - [https://priceonomics.com](https://priceonomics.com)
- - date published: 2022-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Primatech
- - [https://www.primatech.com](https://www.primatech.com)
- - date published: 2024-02-08T17:00:14.246387+00:00
- - user: None
- - tags: []
-
-## Primate - Polymorphic development platform
- - [https://primatejs.com](https://primatejs.com)
- - date published: 2024-01-09T02:47:11.318310+00:00
- - user: None
- - tags: []
-
-## PRIMER-e
- - [https://www.primer-e.com](https://www.primer-e.com)
- - date published: 2024-02-08T17:33:11.210499+00:00
- - user: None
- - tags: []
-
-## PRIMETIMER
- - [https://www.primetimer.com](https://www.primetimer.com)
- - date published: 2023-12-04T17:36:35.353924+00:00
- - user: None
- - tags: []
-
-## Welcome to Prime Video
- - [https://www.primevideo.com](https://www.primevideo.com)
- - date published: 2023-10-25T11:44:38.166340+00:00
- - user: None
- - tags: ['video streaming']
-
-## Prime Video Tech | The tech blog about innovation at Prime Video
- - [https://www.primevideotech.com](https://www.primevideotech.com)
- - date published: 2023-10-25T16:39:53.743824+00:00
- - user: None
- - tags: []
-
-## Official Home Site of the Principality of Hutt River, Homepage!
- - [https://www.principality-hutt-river.com](https://www.principality-hutt-river.com)
- - date published: 2024-01-12T06:11:20.338223+00:00
- - user: None
- - tags: []
-
-## Principia Mundi
- - [https://principiamundi.com](https://principiamundi.com)
- - date published: 2023-10-25T16:39:55.572582+00:00
  - user: None
  - tags: []
 

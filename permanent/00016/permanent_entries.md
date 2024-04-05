@@ -1,3 +1,111 @@
+## start [Folk Computer]
+ - [https://folk.computer](https://folk.computer)
+ - date published: 2024-02-03T17:00:00.054460+00:00
+ - user: None
+ - tags: []
+
+## Iroh
+ - [https://iroh.computer](https://iroh.computer)
+ - date published: 2023-10-25T18:26:28.682186+00:00
+ - user: None
+ - tags: []
+
+## Mythic Computer Co.
+ - [https://www.mythic.computer](https://www.mythic.computer)
+ - date published: 2023-10-25T18:26:30.118803+00:00
+ - user: None
+ - tags: []
+
+## Neil Panchal
+ - [https://neil.computer](https://neil.computer)
+ - date published: 2023-10-25T18:26:32.134105+00:00
+ - user: None
+ - tags: []
+
+## Dot by New Computer
+ - [https://new.computer](https://new.computer)
+ - date published: 2023-11-01T17:45:32+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://v20.ohayo.computer](https://v20.ohayo.computer)
+ - date published: 2024-01-09T02:55:50.855876+00:00
+ - user: None
+ - tags: []
+
+## List disks /  API / Oxide
+ - [https://docs.oxide.computer](https://docs.oxide.computer)
+ - date published: 2023-10-25T18:26:35.191809+00:00
+ - user: None
+ - tags: []
+
+## Hubris
+ - [https://hubris.oxide.computer](https://hubris.oxide.computer)
+ - date published: 2023-10-25T18:26:37.051005+00:00
+ - user: None
+ - tags: []
+
+## Oxide Computer Company
+ - [https://oxide.computer](https://oxide.computer)
+ - date published: 2023-10-25T18:26:40.340286+00:00
+ - user: None
+ - tags: []
+
+## RFD / Oxide
+ - [https://rfd.shared.oxide.computer](https://rfd.shared.oxide.computer)
+ - date published: 2023-11-03T17:54:12.549938+00:00
+ - user: None
+ - tags: []
+
+## The Thin Computer – A Self Hosted Server and My Life With It
+ - [https://thin.computer](https://thin.computer)
+ - date published: 2024-03-22T00:26:03.656552+00:00
+ - user: None
+ - tags: []
+
+## Barkey Wolf Consulting
+ - [https://barkeywolf.consulting](https://barkeywolf.consulting)
+ - date published: 2024-01-16T14:31:43.706149+00:00
+ - user: None
+ - tags: []
+
+## Certitude Consulting Vienna - Information Security
+ - [https://certitude.consulting](https://certitude.consulting)
+ - date published: 2023-10-25T18:26:41.919963+00:00
+ - user: None
+ - tags: []
+
+## Airtable.cool - Link previews and analytics for your Airtable shared view links
+ - [https://airtable.cool](https://airtable.cool)
+ - date published: 2023-10-25T18:26:45.983340+00:00
+ - user: None
+ - tags: []
+
+## Now & About – Damien Aresta
+ - [https://damien.cool](https://damien.cool)
+ - date published: 2023-03-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dan's Site
+ - [https://www.mayer.cool](https://www.mayer.cool)
+ - date published: 2023-10-25T18:26:46.688031+00:00
+ - user: None
+ - tags: []
+
+## Home of Val Packett
+ - [https://val.packett.cool](https://val.packett.cool)
+ - date published: 2023-10-25T18:26:48.292933+00:00
+ - user: None
+ - tags: []
+
+## The Pudding
+ - [https://pudding.cool](https://pudding.cool)
+ - date published: 2023-10-25T18:26:52.831116+00:00
+ - user: None
+ - tags: []
+
 ## Webhook.Cool - Online Webhook Tester
  - [https://webhook.cool](https://webhook.cool)
  - date published: 2024-01-08T18:35:40.117613+00:00
@@ -64,15 +172,15 @@
  - user: None
  - tags: []
 
-## Amiga.cz – Czech Amiga Web |
- - [http://www.amiga.cz](http://www.amiga.cz)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
 ## https://www.amiga.cz
  - [https://www.amiga.cz](https://www.amiga.cz)
  - date published: 2024-01-09T02:55:51.231423+00:00
+ - user: None
+ - tags: []
+
+## Amiga.cz – Czech Amiga Web |
+ - [http://www.amiga.cz](http://www.amiga.cz)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -179,14 +287,14 @@
  - tags: []
 
 ## MAXELL's HOME
- - [http://mxl.cz](http://mxl.cz)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://mxl.cz](https://mxl.cz)
+ - date published: 2024-01-09T02:56:03.815327+00:00
  - user: None
  - tags: []
 
 ## MAXELL's HOME
- - [https://mxl.cz](https://mxl.cz)
- - date published: 2024-01-09T02:56:03.815327+00:00
+ - [http://mxl.cz](http://mxl.cz)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -620,13 +728,13 @@ home
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [http://www.classic-videogames.de](http://www.classic-videogames.de)
+ - [https://www.classic-videogames.de](https://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [https://www.classic-videogames.de](https://www.classic-videogames.de)
+ - [http://www.classic-videogames.de](http://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
@@ -1373,16 +1481,16 @@ Heinsohn
  - tags: []
 
 ## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
- - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
- - date published: 2024-02-15T22:13:44.143200+00:00
- - user: None
- - tags: ['demoscene']
-
-## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
  - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
  - date published: 2024-02-15T02:00:01.330586+00:00
  - user: None
  - tags: ['video game music']
+
+## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
+ - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
+ - date published: 2024-02-15T22:13:44.143200+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## NeuroNagel : Neuroregulation, Neurofeedback, Biofeedback, Mentalsysteme und Mindmachines
  - [https://www.neuronagel.de](https://www.neuronagel.de)
@@ -1535,14 +1643,14 @@ Heinsohn
  - tags: ['video game music']
 
 ## Radio PARALAX
- - [https://www.radio-paralax.de](https://www.radio-paralax.de)
- - date published: 2024-02-15T22:31:37.332329+00:00
+ - [http://www.radio-paralax.de](http://www.radio-paralax.de)
+ - date published: 2024-02-15T22:12:22.414790+00:00
  - user: None
  - tags: ['demoscene']
 
 ## Radio PARALAX
- - [http://www.radio-paralax.de](http://www.radio-paralax.de)
- - date published: 2024-02-15T22:12:22.414790+00:00
+ - [https://www.radio-paralax.de](https://www.radio-paralax.de)
+ - date published: 2024-02-15T22:31:37.332329+00:00
  - user: None
  - tags: ['demoscene']
 
@@ -4977,14 +5085,14 @@ Heinsohn
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
@@ -5710,8 +5818,8 @@ Heinsohn
 
 ## Erduder.dk
  - [http://erduder.dk](http://erduder.dk)
- - date published: 2024-04-03T06:31:07.846796+00:00
- - user: None
+ - date published: 2024-04-03T06:31:07+00:00
+ - user: rumpel
  - tags: ['personal']
 
 ## Forsvaret
@@ -5897,114 +6005,6 @@ Heinsohn
 ## None
  - [https://ichi.do](https://ichi.do)
  - date published: 2024-01-09T02:57:52.397377+00:00
- - user: None
- - tags: []
-
-## Alejandro Machado – Projects
- - [https://alejandro.macha.do](https://alejandro.macha.do)
- - date published: 2024-01-02T18:28:44.845981+00:00
- - user: None
- - tags: []
-
-## HOME | LIS.DOCTOR
- - [https://lis.doctor](https://lis.doctor)
- - date published: 2024-01-19T01:54:20.473301+00:00
- - user: None
- - tags: []
-
-## Brian Lui's blog
- - [https://brianlui.dog](https://brianlui.dog)
- - date published: 2023-11-29T15:44:45.049341+00:00
- - user: None
- - tags: ['personal']
-
-## Dog API by kinduff
- - [https://dogapi.dog](https://dogapi.dog)
- - date published: 2023-10-25T18:46:20.933530+00:00
- - user: None
- - tags: []
-
-## No Idea Blog
- - [https://noidea.dog](https://noidea.dog)
- - date published: 2024-01-09T02:58:03.964927+00:00
- - user: None
- - tags: []
-
-## This is the internet homepage of Bix Frankonis
- - [https://slow.dog](https://slow.dog)
- - date published: 2023-12-11T23:17:44.912955+00:00
- - user: None
- - tags: ['personal']
-
-## That Slow Dog
- - [https://that.slow.dog](https://that.slow.dog)
- - date published: 2024-02-26T14:07:35.467462+00:00
- - user: None
- - tags: []
-
-## All posts
- - [https://ashen.earth](https://ashen.earth)
- - date published: 2023-10-25T18:46:22.771402+00:00
- - user: None
- - tags: []
-
-## Distilled | Michael Thomas | Substack
- - [https://www.distilled.earth](https://www.distilled.earth)
- - date published: 2023-10-25T18:46:26.279244+00:00
- - user: None
- - tags: []
-
-## https://vienna.earth
- - [https://vienna.earth](https://vienna.earth)
- - date published: 2024-01-09T02:58:05.377373+00:00
- - user: None
- - tags: []
-
-## Zoom Earth | Weather Maps & Live Hurricane Tracker
- - [https://zoom.earth](https://zoom.earth)
- - date published: 2023-10-24T20:19:17.010702+00:00
- - user: None
- - tags: []
-
-## Citroën, Vehículos Inspirados en Ti. Encuéntralos en Grupo Mavesa
- - [https://www.citroen.com.ec](https://www.citroen.com.ec)
- - date published: 2023-12-11T16:01:37.530178+00:00
- - user: None
- - tags: []
-
-## Transparencia Ikiam
- - [https://lotaip.ikiam.edu.ec](https://lotaip.ikiam.edu.ec)
- - date published: 2022-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Data Desk | Louis Goddard | Substack
- - [https://blog.datadesk.eco](https://blog.datadesk.eco)
- - date published: 2024-03-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Academia.edu - Share research
- - [https://www.academia.edu](https://www.academia.edu)
- - date published: 2023-12-08T08:28:48.297551+00:00
- - user: None
- - tags: ['digital library', 'ebooks']
-
-## American College of the Building Arts
- - [https://acba.edu](https://acba.edu)
- - date published: 2024-02-08T17:01:49.403956+00:00
- - user: None
- - tags: []
-
-## Research @ AU
- - [https://research.american.edu](https://research.american.edu)
- - date published: 2023-10-25T18:46:30.302927+00:00
- - user: None
- - tags: []
-
-## Appalachian State University
- - [https://mediaspace.appstate.edu](https://mediaspace.appstate.edu)
- - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

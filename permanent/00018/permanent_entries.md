@@ -1,3 +1,117 @@
+## Diátaxis
+ - [https://diataxis.fr](https://diataxis.fr)
+ - date published: 2023-10-25T19:14:47.414067+00:00
+ - user: None
+ - tags: []
+
+## Digital Change Management
+ - [https://www.didiermary.fr](https://www.didiermary.fr)
+ - date published: 2024-01-10T22:42:52.468292+00:00
+ - user: None
+ - tags: []
+
+## DIENS
+ - [https://www.di.ens.fr](https://www.di.ens.fr)
+ - date published: 2024-03-02T19:34:03.258599+00:00
+ - user: None
+ - tags: []
+
+## EQUIUM - La pompe à chaleur acoustique
+ - [https://www.equium.fr](https://www.equium.fr)
+ - date published: 2023-10-25T19:14:50.049264+00:00
+ - user: None
+ - tags: []
+
+## https://pierre.equoy.fr
+ - [https://pierre.equoy.fr](https://pierre.equoy.fr)
+ - date published: 2024-01-09T03:29:34.933798+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.errno.fr](https://www.errno.fr)
+ - date published: 2023-10-25T19:14:53.591095+00:00
+ - user: None
+ - tags: []
+
+## European Synchrotron Radiation Facility (ESRF)
+ - [https://www.esrf.fr](https://www.esrf.fr)
+ - date published: 2023-10-25T19:14:58.288540+00:00
+ - user: None
+ - tags: []
+
+## Actualités et Infos en direct & replay | Europe 1
+ - [https://www.europe1.fr](https://www.europe1.fr)
+ - date published: 2023-11-05T12:49:53.622670+00:00
+ - user: None
+ - tags: []
+
+## Expressions Francaises, dictons. Définition signification et origines des expressions Françaises
+ - [https://www.expressions-francaises.fr](https://www.expressions-francaises.fr)
+ - date published: 2024-02-08T17:43:36.588005+00:00
+ - user: None
+ - tags: []
+
+## Fathy Boundjadj
+ - [https://fathy.fr](https://fathy.fr)
+ - date published: 2023-10-25T19:14:59.727135+00:00
+ - user: None
+ - tags: []
+
+## Amiga Libraries FTP
+ - [https://amiga.foul.fr](https://amiga.foul.fr)
+ - date published: 2023-11-02T09:55:43.484734+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Obligement - L'Amiga au maximum
+ - [http://obligement.free.fr](http://obligement.free.fr)
+ - date published: 2023-11-02T09:51:57.420141+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Google Scholar
+ - [https://scholar.google.fr](https://scholar.google.fr)
+ - date published: 2024-03-15T16:04:35.393637+00:00
+ - user: None
+ - tags: []
+
+## Avant de continuer
+ - [https://translate.google.fr](https://translate.google.fr)
+ - date published: 2023-12-11T19:00:32.746424+00:00
+ - user: None
+ - tags: []
+
+## Google
+ - [https://www.google.fr](https://www.google.fr)
+ - date published: 2024-01-09T03:29:35.619916+00:00
+ - user: None
+ - tags: []
+
+## Mohamed HAIMOURA
+ - [https://haimoura.fr](https://haimoura.fr)
+ - date published: 2024-01-04T22:21:33.901320+00:00
+ - user: None
+ - tags: []
+
+## HandBrake - Index page
+ - [https://forum.handbrake.fr](https://forum.handbrake.fr)
+ - date published: 2023-11-19T07:59:22.879848+00:00
+ - user: None
+ - tags: []
+
+## HandBrake: Open Source Video Transcoder
+ - [https://handbrake.fr](https://handbrake.fr)
+ - date published: 2023-11-19T12:04:56+00:00
+ - user: None
+ - tags: ['program', 'open source']
+
+## Accueil - Haute école des arts du Rhin
+ - [https://www.hear.fr](https://www.hear.fr)
+ - date published: 2024-01-09T03:29:37.108977+00:00
+ - user: None
+ - tags: []
+
 ## None
  - [https://minestrix.henri2h.fr](https://minestrix.henri2h.fr)
  - date published: 2024-01-09T03:29:47.662398+00:00
@@ -685,14 +799,14 @@
  - tags: []
 
 ## jade's www site
- - [https://jade.fyi](https://jade.fyi)
- - date published: 2024-01-09T18:46:42.354724+00:00
+ - [http://jade.fyi](http://jade.fyi)
+ - date published: 2024-01-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## jade's www site
- - [http://jade.fyi](http://jade.fyi)
- - date published: 2024-01-27T00:00:00+00:00
+ - [https://jade.fyi](https://jade.fyi)
+ - date published: 2024-01-09T18:46:42.354724+00:00
  - user: None
  - tags: []
 
@@ -1297,16 +1411,16 @@
  - tags: []
 
 ## Google DeepMind
- - [http://deepmind.google](http://deepmind.google)
- - date published: 2024-02-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Google DeepMind
  - [https://deepmind.google](https://deepmind.google)
  - date published: 2023-11-14T16:38:56.541975+00:00
  - user: None
  - tags: ['artificial intelligence']
+
+## Google DeepMind
+ - [http://deepmind.google](http://deepmind.google)
+ - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Google Domains | Official Site – Google Domains
  - [https://domains.google](https://domains.google)
@@ -1553,6 +1667,12 @@
  - date published: 2023-10-25T19:19:28.555283+00:00
  - user: None
  - tags: []
+
+## Home | DEA.gov
+ - [https://www.dea.gov](https://www.dea.gov)
+ - date published: 2024-04-04T02:34:26.560996+00:00
+ - user: None
+ - tags: ['government', 'dea']
 
 ## Chief Information Officer - U.S. Department of Defense
  - [https://dodcio.defense.gov](https://dodcio.defense.gov)
@@ -3855,7 +3975,7 @@
  - [https://downdetector.in](https://downdetector.in)
  - date published: 2024-04-04T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['down detector']
 
 ## expLog
  - [https://explog.in](https://explog.in)
@@ -4398,14 +4518,14 @@
  - tags: []
 
 ## Erthalion
- - [http://erthalion.info](http://erthalion.info)
- - date published: 2024-02-25T15:21:46.039163+00:00
+ - [https://erthalion.info](https://erthalion.info)
+ - date published: 2023-10-25T19:33:09.948190+00:00
  - user: None
  - tags: []
 
 ## Erthalion
- - [https://erthalion.info](https://erthalion.info)
- - date published: 2023-10-25T19:33:09.948190+00:00
+ - [http://erthalion.info](http://erthalion.info)
+ - date published: 2024-02-25T15:21:46.039163+00:00
  - user: None
  - tags: []
 
@@ -4616,6 +4736,12 @@
 ## index
  - [https://www.ndblist.info](https://www.ndblist.info)
  - date published: 2024-02-08T18:16:15.669260+00:00
+ - user: None
+ - tags: []
+
+## nowotarski.info
+ - [https://nowotarski.info](https://nowotarski.info)
+ - date published: 2024-04-03T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5280,14 +5406,14 @@
  - tags: []
 
 ## American Express Technology
- - [http://americanexpress.io](http://americanexpress.io)
- - date published: 2024-02-25T14:44:25.925967+00:00
+ - [https://americanexpress.io](https://americanexpress.io)
+ - date published: 2023-10-25T19:37:33.148951+00:00
  - user: None
  - tags: []
 
 ## American Express Technology
- - [https://americanexpress.io](https://americanexpress.io)
- - date published: 2023-10-25T19:37:33.148951+00:00
+ - [http://americanexpress.io](http://americanexpress.io)
+ - date published: 2024-02-25T14:44:25.925967+00:00
  - user: None
  - tags: []
 
@@ -5876,132 +6002,6 @@
 ## CodeReliant
  - [https://www.codereliant.io](https://www.codereliant.io)
  - date published: 2023-12-20T18:04:04.589344+00:00
- - user: None
- - tags: []
-
-## CodeSandbox: Instant Cloud-Based IDE
- - [https://codesandbox.io](https://codesandbox.io)
- - date published: 2023-10-25T19:40:10.647121+00:00
- - user: None
- - tags: ['online tool', 'code sandbox']
-
-## None
- - [https://community.cointracker.io](https://community.cointracker.io)
- - date published: 2024-01-09T03:32:45.481726+00:00
- - user: None
- - tags: []
-
-## Personal website — by Marc Collado
- - [https://www.collado.io](https://www.collado.io)
- - date published: 2024-01-05T16:52:43.717881+00:00
- - user: None
- - tags: []
-
-## CommodityAI
- - [https://commodityai.io](https://commodityai.io)
- - date published: 2024-03-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Conan C/C++ Package Manager Official Blog
- - [https://blog.conan.io](https://blog.conan.io)
- - date published: 2023-10-25T19:40:13.832753+00:00
- - user: None
- - tags: []
-
-## Conduition
- - [https://conduition.io](https://conduition.io)
- - date published: 2023-10-25T19:40:16.029942+00:00
- - user: None
- - tags: []
-
-## Confidential Computing Consortium – Linux Foundation Project
- - [https://confidentialcomputing.io](https://confidentialcomputing.io)
- - date published: 2023-10-25T19:40:18.712434+00:00
- - user: None
- - tags: []
-
-## Confluent | Apache Kafka Reinvented for the Cloud
- - [https://www.confluent.io](https://www.confluent.io)
- - date published: 2023-10-25T19:40:22.771641+00:00
- - user: None
- - tags: []
-
-## Gerbil Scheme – A Lisp for the 21st Century
- - [https://cons.io](https://cons.io)
- - date published: 2024-03-24T18:54:47+00:00
- - user: None
- - tags: []
-
-## ContextKeeper | Making context switching painless in Visual Studio Plugin
- - [https://contextkeeper.io](https://contextkeeper.io)
- - date published: 2023-10-25T19:40:24.620883+00:00
- - user: None
- - tags: []
-
-## Coolify
- - [https://coolify.io](https://coolify.io)
- - date published: 2023-10-25T19:40:25.622157+00:00
- - user: None
- - tags: []
-
-## Virtual Smartphone | Cophone
- - [https://cophone.io](https://cophone.io)
- - date published: 2023-10-25T19:40:27.103251+00:00
- - user: None
- - tags: []
-
-## Core64 - Interactive Core Memory Kit
- - [https://www.core64.io](https://www.core64.io)
- - date published: 2023-10-25T19:40:28.833224+00:00
- - user: None
- - tags: []
-
-## https://corndog.io
- - [https://corndog.io](https://corndog.io)
- - date published: 2024-01-09T03:32:46.107699+00:00
- - user: None
- - tags: []
-
-## Cotten.IO
- - [https://blog.cotten.io](https://blog.cotten.io)
- - date published: 2023-10-25T19:40:32.348755+00:00
- - user: None
- - tags: []
-
-## Open Source Integration and Data Platform | cptn.io
- - [https://cptn.io](https://cptn.io)
- - date published: 2023-10-25T19:40:33.685467+00:00
- - user: None
- - tags: []
-
-## crates.io: Rust Package Registry
- - [https://crates.io](https://crates.io)
- - date published: 2023-10-25T19:40:34.607822+00:00
- - user: None
- - tags: []
-
-## crawshaw blog
- - [https://crawshaw.io](https://crawshaw.io)
- - date published: 2023-10-25T19:40:36.732900+00:00
- - user: None
- - tags: []
-
-## Emilio Cobos
- - [https://crisal.io](https://crisal.io)
- - date published: 2023-10-25T19:40:37.795139+00:00
- - user: None
- - tags: []
-
-## BDD Testing & Collaboration Tools for Teams | Cucumber
- - [https://cucumber.io](https://cucumber.io)
- - date published: 2023-10-25T19:40:40.322079+00:00
- - user: None
- - tags: []
-
-## cunoFS – high performance POSIX filesystem for accessing object storage
- - [https://cuno.io](https://cuno.io)
- - date published: 2024-02-26T14:50:08.962815+00:00
  - user: None
  - tags: []
 

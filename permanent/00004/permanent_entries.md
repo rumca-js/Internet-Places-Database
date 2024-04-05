@@ -1,3 +1,21 @@
+## Ciro Durán ← A Live Archive
+ - [https://www.ciroduran.com](https://www.ciroduran.com)
+ - date published: 2023-12-20T21:30:36.738957+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cisco Blogs
+ - [https://blogs.cisco.com](https://blogs.cisco.com)
+ - date published: 2023-10-25T13:24:33.805114+00:00
+ - user: None
+ - tags: []
+
+## Networking, Cloud, and Cybersecurity Solutions
+ - [https://www.cisco.com](https://www.cisco.com)
+ - date published: 2023-10-31T13:19:01.525709+00:00
+ - user: None
+ - tags: ['technology', 'company']
+
 ## news.cision.com
  - [https://news.cision.com](https://news.cision.com)
  - date published: 2023-10-25T13:24:47.937269+00:00
@@ -191,16 +209,16 @@
  - tags: []
 
 ## Certified Mindset Coach - ClarityMind
- - [http://www.claritymind.com](http://www.claritymind.com)
- - date published: 2020-11-04T12:11:07+00:00
- - user: None
- - tags: []
-
-## Certified Mindset Coach - ClarityMind
  - [https://www.claritymind.com](https://www.claritymind.com)
  - date published: 2024-01-09T02:32:05.811513+00:00
  - user: None
  - tags: ['personal']
+
+## Certified Mindset Coach - ClarityMind
+ - [http://www.claritymind.com](http://www.claritymind.com)
+ - date published: 2020-11-04T12:11:07+00:00
+ - user: None
+ - tags: []
 
 ## Before you continue to YouTube
  - [https://clarkecreatives.com](https://clarkecreatives.com)
@@ -215,16 +233,16 @@
  - tags: []
 
 ## Help for Individual and Organization Job Related Burnout
- - [http://www.clarkgaither.com](http://www.clarkgaither.com)
- - date published: 2024-04-03T06:30:14.610057+00:00
- - user: None
- - tags: ['personal']
-
-## Help for Individual and Organization Job Related Burnout
  - [https://www.clarkgaither.com](https://www.clarkgaither.com)
  - date published: 2024-01-19T13:01:43.978500+00:00
  - user: None
  - tags: []
+
+## Help for Individual and Organization Job Related Burnout
+ - [http://www.clarkgaither.com](http://www.clarkgaither.com)
+ - date published: 2024-04-03T06:30:14.610057+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Audio Visual Rental for Conferences, Meetings and Events
  - [https://clarksav.com](https://clarksav.com)
@@ -1030,16 +1048,16 @@
  - tags: []
 
 ## Coffee For The Brain
- - [https://coffeeforthebrain.com](https://coffeeforthebrain.com)
- - date published: 2023-12-03T15:55:03.673637+00:00
- - user: None
- - tags: ['personal']
-
-## Coffee For The Brain
  - [http://coffeeforthebrain.com](http://coffeeforthebrain.com)
  - date published: 2024-03-26T00:00:00+00:00
  - user: None
  - tags: []
+
+## Coffee For The Brain
+ - [https://coffeeforthebrain.com](https://coffeeforthebrain.com)
+ - date published: 2023-12-03T15:55:03.673637+00:00
+ - user: None
+ - tags: ['personal']
 
 ## CogDogBlog – Alan Levine barks about and plays with stuff here
  - [https://cogdogblog.com](https://cogdogblog.com)
@@ -2175,15 +2193,15 @@
  - user: None
  - tags: []
 
-## craig wickesser
- - [http://craigwickesser.com](http://craigwickesser.com)
- - date published: 2024-04-03T06:23:00.035755+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [https://craigwickesser.com](https://craigwickesser.com)
  - date published: 2023-12-27T18:11:54.496669+00:00
+ - user: None
+ - tags: ['personal']
+
+## craig wickesser
+ - [http://craigwickesser.com](http://craigwickesser.com)
+ - date published: 2024-04-03T06:23:00.035755+00:00
  - user: None
  - tags: ['personal']
 
@@ -3436,17 +3454,17 @@
  - user: None
  - tags: []
 
-## Daniel Hoang – Experienced management consultant x creative. Xennial bridging analog with digital at the intersection of humanity and machine. Scrappy, creative, and fast.
- - [https://danielhoang.com](https://danielhoang.com)
- - date published: 2023-12-12T09:24:31.582869+00:00
- - user: None
- - tags: []
-
 ## Daniel Hoang
  - [http://danielhoang.com](http://danielhoang.com)
  - date published: 2024-04-03T06:29:29.746239+00:00
  - user: None
  - tags: ['personal']
+
+## Daniel Hoang – Experienced management consultant x creative. Xennial bridging analog with digital at the intersection of humanity and machine. Scrappy, creative, and fast.
+ - [https://danielhoang.com](https://danielhoang.com)
+ - date published: 2023-12-12T09:24:31.582869+00:00
+ - user: None
+ - tags: []
 
 ## Daniel Hoang
  - [https://www.danielhoang.com](https://www.danielhoang.com)
@@ -3503,14 +3521,14 @@
  - tags: ['personal']
 
 ## agora.danielwildt.com
- - [http://agora.danielwildt.com](http://agora.danielwildt.com)
- - date published: 2024-04-03T06:29:35.599038+00:00
+ - [https://agora.danielwildt.com](https://agora.danielwildt.com)
+ - date published: 2024-01-06T17:57:51.669161+00:00
  - user: None
  - tags: ['personal']
 
 ## agora.danielwildt.com
- - [https://agora.danielwildt.com](https://agora.danielwildt.com)
- - date published: 2024-01-06T17:57:51.669161+00:00
+ - [http://agora.danielwildt.com](http://agora.danielwildt.com)
+ - date published: 2024-04-03T06:29:35.599038+00:00
  - user: None
  - tags: ['personal']
 
@@ -3610,15 +3628,15 @@
  - user: None
  - tags: ['personal']
 
-## Dan Palladino Music
- - [http://www.danpalladinomusic.com](http://www.danpalladinomusic.com)
- - date published: 2024-04-03T06:32:27.082972+00:00
- - user: None
- - tags: ['personal']
-
 ## https://www.danpalladinomusic.com
  - [https://www.danpalladinomusic.com](https://www.danpalladinomusic.com)
  - date published: 2024-01-04T03:32:32.543499+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dan Palladino Music
+ - [http://www.danpalladinomusic.com](http://www.danpalladinomusic.com)
+ - date published: 2024-04-03T06:32:27.082972+00:00
  - user: None
  - tags: ['personal']
 
@@ -3683,16 +3701,16 @@
  - tags: []
 
 ## Daren Smith | Creative Entrepreneur, Film Producer, Author
- - [http://www.darentsmith.com](http://www.darentsmith.com)
- - date published: 2020-09-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Daren Smith | Creative Entrepreneur, Film Producer, Author
  - [https://www.darentsmith.com](https://www.darentsmith.com)
  - date published: 2023-11-29T14:40:52.055355+00:00
  - user: None
  - tags: ['personal']
+
+## Daren Smith | Creative Entrepreneur, Film Producer, Author
+ - [http://www.darentsmith.com](http://www.darentsmith.com)
+ - date published: 2020-09-24T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Helping professionals work in their Zone of Genius ~ Daria Williamson
  - [https://dariawilliamson.com](https://dariawilliamson.com)
@@ -3883,6 +3901,12 @@
 ## DataScientYst - Data Science Simplified
  - [https://datascientyst.com](https://datascientyst.com)
  - date published: 2023-10-25T13:44:38.140825+00:00
+ - user: None
+ - tags: []
+
+## One-stop Generative AI Stack to Build Production-ready Apps | DataStax
+ - [https://www.datastax.com](https://www.datastax.com)
+ - date published: 2024-04-04T19:15:25.397628+00:00
  - user: None
  - tags: []
 
@@ -4361,16 +4385,16 @@
  - tags: ['personal']
 
 ## Western Shores Marketing - Affordable Marketing for Small Businesses
- - [https://www.deancalin.com](https://www.deancalin.com)
- - date published: 2024-01-17T04:43:13.671196+00:00
- - user: None
- - tags: ['personal']
-
-## Western Shores Marketing - Affordable Marketing for Small Businesses
  - [http://www.deancalin.com](http://www.deancalin.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Western Shores Marketing - Affordable Marketing for Small Businesses
+ - [https://www.deancalin.com](https://www.deancalin.com)
+ - date published: 2024-01-17T04:43:13.671196+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Deanne Achong
  - [https://deanneachong.com](https://deanneachong.com)
@@ -5057,16 +5081,16 @@
  - tags: []
 
 ## Destination: zero bars
- - [http://destinationzerobars.com](http://destinationzerobars.com)
- - date published: 2013-07-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Destination: zero bars
  - [https://destinationzerobars.com](https://destinationzerobars.com)
  - date published: 2013-07-18T00:00:00+00:00
  - user: None
  - tags: ['personal']
+
+## Destination: zero bars
+ - [http://destinationzerobars.com](http://destinationzerobars.com)
+ - date published: 2013-07-18T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Destroy All Software
  - [https://www.destroyallsoftware.com](https://www.destroyallsoftware.com)
@@ -5921,13 +5945,13 @@
  - tags: []
 
 ## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
- - [https://www.djriko.com](https://www.djriko.com)
+ - [http://www.djriko.com](http://www.djriko.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
- - [http://www.djriko.com](http://www.djriko.com)
+ - [https://www.djriko.com](https://www.djriko.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -5977,30 +6001,6 @@
 ## about    [Dmitry Frank]
  - [https://dmitryfrank.com](https://dmitryfrank.com)
  - date published: 2023-10-25T13:55:11.237067+00:00
- - user: None
- - tags: []
-
-## Dungeon Masters Guild -
- - [https://www.dmsguild.com](https://www.dmsguild.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: ['shop', 'dungeons and dragons', 'magazines']
-
-## DNA Lounge
- - [https://www.dnalounge.com](https://www.dnalounge.com)
- - date published: 2024-03-24T15:08:09.860965+00:00
- - user: None
- - tags: []
-
-## Dungeons & Dragons | The World's Greatest Roleplaying Game
- - [https://www.dndbeyond.com](https://www.dndbeyond.com)
- - date published: 2023-10-25T13:55:23.973098+00:00
- - user: None
- - tags: []
-
-## Новини Дніпра сьогодні • Головні і останні новини
- - [https://www.dniprotoday.com](https://www.dniprotoday.com)
- - date published: 2023-12-26T16:56:39.722500+00:00
  - user: None
  - tags: []
 

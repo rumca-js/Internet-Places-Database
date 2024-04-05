@@ -1,3 +1,183 @@
+## Oleksii Holub
+ - [https://tyrrrz.me](https://tyrrrz.me)
+ - date published: 2023-10-25T08:51:16.110382+00:00
+ - user: None
+ - tags: ['personal']
+
+## Toby Law
+ - [https://www.tzcl.me](https://www.tzcl.me)
+ - date published: 2023-10-25T08:51:17.497845+00:00
+ - user: None
+ - tags: ['personal']
+
+## About
+ - [https://univalence.me](https://univalence.me)
+ - date published: 2023-10-25T09:00:04.426204+00:00
+ - user: None
+ - tags: ['personal']
+
+## UnKnoWnCheaTs - Multiplayer Game Hacking and Cheats
+ - [https://www.unknowncheats.me](https://www.unknowncheats.me)
+ - date published: 2000-03-19T14:38:58+00:00
+ - user: rumpel
+ - tags: ['game hacking']
+
+## https://unschooler.me
+ - [https://unschooler.me](https://unschooler.me)
+ - date published: 2024-01-09T03:34:18.004431+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.upendra.me](https://www.upendra.me)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Latest and Most Common User Agents List (Updated Weekly)
+ - [https://www.useragents.me](https://www.useragents.me)
+ - date published: 2023-10-25T20:21:25.088929+00:00
+ - user: None
+ - tags: []
+
+## Home • Lea Verou
+ - [https://lea.verou.me](https://lea.verou.me)
+ - date published: 2023-10-25T08:51:19.673236+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home • Lea Verou
+ - [http://lea.verou.me](http://lea.verou.me)
+ - date published: 2024-03-24T15:03:06.644248+00:00
+ - user: None
+ - tags: ['personal']
+
+## Theia Vogel's website & blog
+ - [https://vgel.me](https://vgel.me)
+ - date published: 2023-10-25T08:51:21.160541+00:00
+ - user: None
+ - tags: ['personal']
+
+## Victor Mota
+ - [https://vimota.me](https://vimota.me)
+ - date published: 2023-10-25T08:51:22.371547+00:00
+ - user: None
+ - tags: ['personal']
+
+## Venkkatesh Sekar
+ - [https://vsekar.me](https://vsekar.me)
+ - date published: 2023-11-19T12:38:58.925737+00:00
+ - user: None
+ - tags: ['personal']
+
+## Weights & Biases: The AI Developer Platform
+ - [https://wandb.me](https://wandb.me)
+ - date published: 2023-10-25T20:21:35.519973+00:00
+ - user: None
+ - tags: []
+
+## Home - Warhammer
+ - [https://warhammer.me](https://warhammer.me)
+ - date published: 2024-02-28T15:27:20+00:00
+ - user: rumpel
+ - tags: []
+
+## Daniel's Notes
+ - [https://wentsch.me](https://wentsch.me)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## wiwi blog
+ - [https://blog.whiona.me](https://blog.whiona.me)
+ - date published: 2023-11-03T00:47:50+00:00
+ - user: None
+ - tags: []
+
+## Wiby - Search Engine for the Classic Web
+ - [https://wiby.me](https://wiby.me)
+ - date published: 2023-10-25T08:29:23.355198+00:00
+ - user: None
+ - tags: ['web1', 'search engine', 'personal sites source', 'personal']
+
+## WIRED Middle East - Technology, culture, science, gadgets, and business in the Middle East
+ - [https://wired.me](https://wired.me)
+ - date published: 2023-10-25T20:21:44.182813+00:00
+ - user: None
+ - tags: []
+
+## WordPress, Your Way
+ - [https://wp.me](https://wp.me)
+ - date published: 2023-12-11T16:30:47.089030+00:00
+ - user: None
+ - tags: []
+
+## #1 WordPress Caching Plugin | WP Rocket
+ - [https://wp-rocket.me](https://wp-rocket.me)
+ - date published: 2023-12-11T17:44:53.434876+00:00
+ - user: None
+ - tags: []
+
+## bugs.xdavidhu.me - David Schütz's bug bounty writeups
+ - [https://bugs.xdavidhu.me](https://bugs.xdavidhu.me)
+ - date published: 2023-10-25T20:21:45.732787+00:00
+ - user: None
+ - tags: []
+
+## xnacly - blog
+ - [https://xnacly.me](https://xnacly.me)
+ - date published: 2023-10-25T09:00:05.042896+00:00
+ - user: None
+ - tags: ['personal']
+
+## Yordi Verkroost
+ - [https://yordi.me](https://yordi.me)
+ - date published: 2024-01-10T18:09:51.117975+00:00
+ - user: None
+ - tags: []
+
+## Welcome! — Wenting's Web Page
+ - [https://www.zephray.me](https://www.zephray.me)
+ - date published: 2023-10-25T20:21:52.856939+00:00
+ - user: None
+ - tags: []
+
+## Zhiming Chen – Growing culture with play
+ - [https://zhiming.me](https://zhiming.me)
+ - date published: 2023-12-12T13:08:15.230615+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hasht-e Subh Daily
+ - [https://8am.media](https://8am.media)
+ - date published: 2023-12-22T01:06:51.292810+00:00
+ - user: None
+ - tags: []
+
+## ChinaTalk | Jordan Schneider | Substack
+ - [https://www.chinatalk.media](https://www.chinatalk.media)
+ - date published: 2023-10-25T10:08:05.206493+00:00
+ - user: None
+ - tags: ['substack']
+
+## Infusionmedia – Professional book publishing, design, and marketing
+ - [https://infusion.media](https://infusion.media)
+ - date published: 2023-10-25T20:21:56.655300+00:00
+ - user: None
+ - tags: []
+
+## Insight News: Insightful News and Analytic Articles on Ukraine and EU
+ - [https://insightnews.media](https://insightnews.media)
+ - date published: 2023-10-25T09:29:41.200467+00:00
+ - user: None
+ - tags: []
+
+## Home - International Press Institute
+ - [https://ipi.media](https://ipi.media)
+ - date published: 2023-10-25T20:22:02.576652+00:00
+ - user: None
+ - tags: []
+
 ## Mezha.Media • новини IT та огляди
  - [https://mezha.media](https://mezha.media)
  - date published: 2023-10-25T20:22:07.948757+00:00
@@ -443,16 +623,16 @@
  - tags: []
 
 ## David Walsh Blog
- - [https://davidwalsh.name](https://davidwalsh.name)
- - date published: 2024-02-06T00:00:00+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## David Walsh Blog
  - [http://davidwalsh.name](http://davidwalsh.name)
  - date published: 2024-03-18T00:00:00+00:00
  - user: None
  - tags: []
+
+## David Walsh Blog
+ - [https://davidwalsh.name](https://davidwalsh.name)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: ['blog', 'personal']
 
 ## Neil Fraser
  - [https://neil.fraser.name](https://neil.fraser.name)
@@ -461,14 +641,14 @@
  - tags: ['personal']
 
 ## Nathan Ho
- - [https://nathan.ho.name](https://nathan.ho.name)
- - date published: 2023-12-20T22:45:42.744081+00:00
+ - [http://nathan.ho.name](http://nathan.ho.name)
+ - date published: 2024-02-26T09:21:39.752260+00:00
  - user: None
  - tags: []
 
 ## Nathan Ho
- - [http://nathan.ho.name](http://nathan.ho.name)
- - date published: 2024-02-26T09:21:39.752260+00:00
+ - [https://nathan.ho.name](https://nathan.ho.name)
+ - date published: 2023-12-20T22:45:42.744081+00:00
  - user: None
  - tags: []
 
@@ -1067,14 +1247,14 @@
  - tags: ['retro news', 'amiga']
 
 ## Amigaworld.net - The Amiga Computer Community Portal Website
- - [http://www.amigaworld.net](http://www.amigaworld.net)
- - date published: 2024-02-25T14:45:35.125644+00:00
+ - [https://www.amigaworld.net](https://www.amigaworld.net)
+ - date published: 2024-01-09T03:34:56.633393+00:00
  - user: None
  - tags: []
 
 ## Amigaworld.net - The Amiga Computer Community Portal Website
- - [https://www.amigaworld.net](https://www.amigaworld.net)
- - date published: 2024-01-09T03:34:56.633393+00:00
+ - [http://www.amigaworld.net](http://www.amigaworld.net)
+ - date published: 2024-02-25T14:45:35.125644+00:00
  - user: None
  - tags: []
 
@@ -1151,16 +1331,16 @@
  - tags: []
 
 ## Aminet - Latest packages, last 14 days
- - [http://www.aminet.net](http://www.aminet.net)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Aminet - Latest packages, last 14 days
  - [https://www.aminet.net](https://www.aminet.net)
  - date published: 2023-10-27T14:28:24.858893+00:00
  - user: None
  - tags: ['roms', 'amiga', 'emulation']
+
+## Aminet - Latest packages, last 14 days
+ - [http://www.aminet.net](http://www.aminet.net)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## @amit
  - [https://amitg.net](https://amitg.net)
@@ -2028,6 +2208,12 @@ Buildings in Saint Louis, Missouri
  - user: None
  - tags: ['climate change']
 
+## CloudTabs
+ - [https://browse.cloudtabs.net](https://browse.cloudtabs.net)
+ - date published: 2024-04-04T17:01:43.196566+00:00
+ - user: None
+ - tags: []
+
 ## cmyr.net
  - [https://www.cmyr.net](https://www.cmyr.net)
  - date published: 2023-10-25T20:27:57.868244+00:00
@@ -2400,17 +2586,17 @@ Buildings in Saint Louis, Missouri
  - user: None
  - tags: []
 
-## renegat0x0 site
- - [https://renegat0x0.ddns.net](https://renegat0x0.ddns.net)
- - date published: 2023-10-25T08:52:16.878263+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [https://renegat0x0.ddns.net/apps/places/sources-json](https://renegat0x0.ddns.net/apps/places/sources-json)
  - date published: 2024-02-24T21:12:17.050206+00:00
  - user: None
  - tags: []
+
+## renegat0x0 site
+ - [https://renegat0x0.ddns.net](https://renegat0x0.ddns.net)
+ - date published: 2023-10-25T08:52:16.878263+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Telnet BBS
  - [https://shsbbs.ddns.net](https://shsbbs.ddns.net)
@@ -2773,14 +2959,14 @@ Buildings in Saint Louis, Missouri
  - tags: ['javascript']
 
 ## J David Smith | emallson.net
- - [https://emallson.net](https://emallson.net)
- - date published: 2024-01-06T14:44:40.109071+00:00
+ - [http://emallson.net](http://emallson.net)
+ - date published: 2024-02-26T14:52:41.699985+00:00
  - user: None
  - tags: []
 
 ## J David Smith | emallson.net
- - [http://emallson.net](http://emallson.net)
- - date published: 2024-02-26T14:52:41.699985+00:00
+ - [https://emallson.net](https://emallson.net)
+ - date published: 2024-01-06T14:44:40.109071+00:00
  - user: None
  - tags: []
 
@@ -2869,16 +3055,16 @@ Buildings in Saint Louis, Missouri
  - tags: ['game trainers']
 
 ## Fabien Sanglard's Website
- - [https://fabiensanglard.net](https://fabiensanglard.net)
- - date published: 2023-10-25T09:23:07.412311+00:00
- - user: None
- - tags: ['diablo', 'street figher', 'doom', 'quake', 'personal']
-
-## Fabien Sanglard's Website
  - [http://fabiensanglard.net](http://fabiensanglard.net)
  - date published: 2024-02-25T20:15:26.239827+00:00
  - user: None
  - tags: []
+
+## Fabien Sanglard's Website
+ - [https://fabiensanglard.net](https://fabiensanglard.net)
+ - date published: 2023-10-25T09:23:07.412311+00:00
+ - user: None
+ - tags: ['diablo', 'street figher', 'doom', 'quake', 'personal']
 
 ## Log in or sign up to view
  - [https://connect.facebook.net](https://connect.facebook.net)
@@ -3517,6 +3703,12 @@ Buildings in Saint Louis, Missouri
  - tags: ['personal']
 
 ## [HOPE XV] Welcome to Hackers On Planet Earth!
+ - [https://hope.net](https://hope.net)
+ - date published: 2024-04-04T14:46:49.618127+00:00
+ - user: None
+ - tags: ['hacking', 'community event']
+
+## [HOPE XV] Welcome to Hackers On Planet Earth!
  - [https://www.hope.net](https://www.hope.net)
  - date published: 2024-01-23T19:08:02.452152+00:00
  - user: None
@@ -3564,15 +3756,15 @@ Buildings in Saint Louis, Missouri
  - user: None
  - tags: []
 
-## iA - Home
- - [http://ia.net](http://ia.net)
- - date published: 2024-02-26T14:54:49.326176+00:00
- - user: None
- - tags: []
-
 ## Home – iA
  - [https://ia.net](https://ia.net)
  - date published: 2023-10-25T20:31:41.939052+00:00
+ - user: None
+ - tags: []
+
+## iA - Home
+ - [http://ia.net](http://ia.net)
+ - date published: 2024-02-26T14:54:49.326176+00:00
  - user: None
  - tags: []
 
@@ -4352,16 +4544,16 @@ Buildings in Saint Louis, Missouri
  - tags: ['doom', 'video game music']
 
 ## Liquipedia
- - [http://liquipedia.net](http://liquipedia.net)
- - date published: 2024-03-04T03:54:24.553156+00:00
- - user: None
- - tags: ['esport']
-
-## Liquipedia
  - [https://liquipedia.net](https://liquipedia.net)
  - date published: 2023-10-25T11:48:20.723694+00:00
  - user: None
  - tags: []
+
+## Liquipedia
+ - [http://liquipedia.net](http://liquipedia.net)
+ - date published: 2024-03-04T03:54:24.553156+00:00
+ - user: None
+ - tags: ['esport']
 
 ## KeepCoding | KeepCoding
  - [https://en.liujiacai.net](https://en.liujiacai.net)
@@ -5113,15 +5305,15 @@ Buildings in Saint Louis, Missouri
  - user: None
  - tags: []
 
-## naylandblake.net
- - [http://www.naylandblake.net](http://www.naylandblake.net)
- - date published: 2024-04-03T06:27:17.544507+00:00
- - user: None
- - tags: ['personal']
-
 ## Site not found · DreamHost
  - [https://www.naylandblake.net](https://www.naylandblake.net)
  - date published: 2024-01-11T07:53:05.911668+00:00
+ - user: None
+ - tags: ['personal']
+
+## naylandblake.net
+ - [http://www.naylandblake.net](http://www.naylandblake.net)
+ - date published: 2024-04-03T06:27:17.544507+00:00
  - user: None
  - tags: ['personal']
 
@@ -5197,17 +5389,17 @@ Buildings in Saint Louis, Missouri
  - user: None
  - tags: ['personal']
 
-## None
- - [https://nickswan.net](https://nickswan.net)
- - date published: 2024-01-05T16:52:03.371750+00:00
- - user: None
- - tags: []
-
 ## Nick Swan's Blog – The harder I work, the luckier I get
  - [http://nickswan.net](http://nickswan.net)
  - date published: 2024-04-03T06:25:34.584970+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [https://nickswan.net](https://nickswan.net)
+ - date published: 2024-01-05T16:52:03.371750+00:00
+ - user: None
+ - tags: []
 
 ## Nicolas Nova
  - [https://www.nicolasnova.net](https://www.nicolasnova.net)
@@ -5745,14 +5937,14 @@ Buildings in Saint Louis, Missouri
  - tags: []
 
 ## play.net >> Where adventure finds you.
- - [http://www.play.net](http://www.play.net)
- - date published: 2024-03-27T20:46:31.499024+00:00
+ - [https://www.play.net](https://www.play.net)
+ - date published: 2024-03-27T20:52:27.939000+00:00
  - user: None
  - tags: ['mud game']
 
 ## play.net >> Where adventure finds you.
- - [https://www.play.net](https://www.play.net)
- - date published: 2024-03-27T20:52:27.939000+00:00
+ - [http://www.play.net](http://www.play.net)
+ - date published: 2024-03-27T20:46:31.499024+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5769,16 +5961,16 @@ Buildings in Saint Louis, Missouri
  - tags: ['cory doctorow', 'internet forum']
 
 ## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
- - [https://pluralistic.net](https://pluralistic.net)
- - date published: 2023-10-25T08:57:45.517375+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
  - [http://pluralistic.net](http://pluralistic.net)
  - date published: 2024-02-24T18:22:24.558627+00:00
  - user: None
  - tags: []
+
+## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
+ - [https://pluralistic.net](https://pluralistic.net)
+ - date published: 2023-10-25T08:57:45.517375+00:00
+ - user: None
+ - tags: ['personal', 'blog']
 
 ## Poc Network // Tech - Today's Tech News and Reviews
  - [https://www.pocnetwork.net](https://www.pocnetwork.net)
@@ -5809,196 +6001,4 @@ Buildings in Saint Louis, Missouri
  - date published: 2023-10-25T20:36:11.186306+00:00
  - user: None
  - tags: []
-
-## Geoff Huston - potaroo.net
- - [https://www.potaroo.net](https://www.potaroo.net)
- - date published: 2023-10-25T20:36:14.199385+00:00
- - user: None
- - tags: []
-
-## pouët.net :: your online demoscene resource
- - [https://www.pouet.net](https://www.pouet.net)
- - date published: 2024-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Practical Scheme
- - [https://practical-scheme.net](https://practical-scheme.net)
- - date published: 2023-10-25T20:36:15.745291+00:00
- - user: None
- - tags: []
-
-## PRESSBEE : PRESSBEE
- - [https://en.pressbee.net](https://en.pressbee.net)
- - date published: 2024-03-15T12:47:32.995560+00:00
- - user: None
- - tags: []
-
-## None
- - [https://app.pressnt.net](https://app.pressnt.net)
- - date published: 2024-01-09T03:36:08.723504+00:00
- - user: None
- - tags: []
-
-## Another view on designing websites â€“ event.preventDeault();
- - [https://event.preventdefault.net](https://event.preventdefault.net)
- - date published: 2024-03-18T08:31:43+00:00
- - user: None
- - tags: []
-
-## The Little Grasshopper
- - [https://prideout.net](https://prideout.net)
- - date published: 2024-01-11T19:21:14.578990+00:00
- - user: None
- - tags: []
-
-## nitter
- - [https://nitter.privacydev.net](https://nitter.privacydev.net)
- - date published: 2023-11-22T06:54:12+00:00
- - user: rumpel
- - tags: ['twitter', 'x']
-
-## Privacy Guides
- - [https://discuss.privacyguides.net](https://discuss.privacyguides.net)
- - date published: 2024-02-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## ProcessOne Turns Ideas from Concept to Production in Record Time
- - [https://www.process-one.net](https://www.process-one.net)
- - date published: 2023-12-31T13:42:46.828138+00:00
- - user: None
- - tags: []
-
-## progetto-SNAPS
- - [https://www.progettosnaps.net](https://www.progettosnaps.net)
- - date published: 2023-12-13T15:19:22.322254+00:00
- - user: None
- - tags: []
-
-## About - Project Euler
- - [https://projecteuler.net](https://projecteuler.net)
- - date published: 2023-11-01T08:43:56.390261+00:00
- - user: None
- - tags: []
-
-## Project Magma :: Home
- - [https://projectmagma.net](https://projectmagma.net)
- - date published: 2024-03-27T21:11:42+00:00
- - user: rumpel
- - tags: ['myth game']
-
-## Project Oberon
- - [https://www.projectoberon.net](https://www.projectoberon.net)
- - date published: 2024-02-24T18:53:11+00:00
- - user: None
- - tags: []
-
-## Pushover Updates
- - [https://blog.pushover.net](https://blog.pushover.net)
- - date published: 2023-12-03T17:38:32.567787+00:00
- - user: None
- - tags: []
-
-## Quad9 | A public and free DNS service for a better security and privacy
- - [https://quad9.net](https://quad9.net)
- - date published: 2023-10-25T20:36:17.596594+00:00
- - user: None
- - tags: []
-
-## Quad9 | A public and free DNS service for a better security and privacy
- - [https://www.quad9.net](https://www.quad9.net)
- - date published: 2023-10-25T20:36:19.669279+00:00
- - user: None
- - tags: []
-
-## Welcome to QuakeServers.net
- - [http://www.quakeservers.net](http://www.quakeservers.net)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [http://www.quakewiki.net](http://www.quakewiki.net)
- - date published: 2022-04-27T16:15:35+00:00
- - user: None
- - tags: []
-
-## Quetta: Private Browser with Ad Blocker & Playlist
- - [https://www.quetta.net](https://www.quetta.net)
- - date published: 2024-01-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Quiet Habits
- - [https://quiethabits.net](https://quiethabits.net)
- - date published: 2019-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## QuikChange online: a wee nook on the web for Antonio D'souza
- - [https://quikchange.net](https://quikchange.net)
- - date published: 2024-04-03T06:31:24.370114+00:00
- - user: None
- - tags: ['personal']
-
-## QWORD | Thoughts about how the world works, from a technologist.
- - [https://www.qword.net](https://www.qword.net)
- - date published: 2023-10-25T20:36:25.218405+00:00
- - user: None
- - tags: []
-
-## r33b.net - ALL GLORY TO THE HYPNOTOAD!
- - [https://r33b.net](https://r33b.net)
- - date published: 2023-10-27T11:39:35.069300+00:00
- - user: None
- - tags: ['wtf']
-
-## radicalcartography
- - [http://www.radicalcartography.net](http://www.radicalcartography.net)
- - date published: 2024-03-31T18:42:44.568024+00:00
- - user: None
- - tags: []
-
-## RadioSEGA | Home
- - [https://www.radiosega.net](https://www.radiosega.net)
- - date published: 2024-02-11T08:12:02+00:00
- - user: rumpel
- - tags: ['video game music']
-
-## Rage.Net: Home
- - [http://www.rage.net](http://www.rage.net)
- - date published: 2023-10-25T20:36:26.095282+00:00
- - user: None
- - tags: []
-
-## Robotic Tendencies
- - [https://ramcq.net](https://ramcq.net)
- - date published: 2024-02-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Kristall Small Internet Browser - Kristall Small-Internet Browser
- - [https://kristall.random-projects.net](https://kristall.random-projects.net)
- - date published: 2023-10-25T20:36:26.728250+00:00
- - user: None
- - tags: []
-
-## Ray Gardner's space
- - [https://www.raygard.net](https://www.raygard.net)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Internet Radio Directory - RCAST.NET
- - [https://dir.rcast.net](https://dir.rcast.net)
- - date published: 2024-02-15T22:12:42.066226+00:00
- - user: None
- - tags: ['demoscene']
-
-## Welcome to Reactor Lab! - Reactor Lab
- - [https://reactorlab.net](https://reactorlab.net)
- - date published: 2023-11-29T13:55:15.661968+00:00
- - user: None
- - tags: ['personal']
 
