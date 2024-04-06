@@ -1,3 +1,51 @@
+## CIO Influence | IT, Cloud Computing and InfoSec news
+ - [https://cioinfluence.com](https://cioinfluence.com)
+ - date published: 2023-10-25T13:23:43.397807+00:00
+ - user: None
+ - tags: []
+
+## Circle | USDC Payments, Treasury Management, & Developer Tools
+ - [https://www.circle.com](https://www.circle.com)
+ - date published: 2023-10-25T13:23:50.181753+00:00
+ - user: None
+ - tags: []
+
+## Continuous Integration and Delivery - CircleCI
+ - [https://circleci.com](https://circleci.com)
+ - date published: 2023-10-25T13:23:58.608577+00:00
+ - user: None
+ - tags: []
+
+## CircleID - Breaking Internet News, Opinions and Blogs
+ - [https://circleid.com](https://circleid.com)
+ - date published: 2023-10-25T13:24:02.589280+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://www.circuitbored.com](http://www.circuitbored.com)
+ - date published: 2017-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Circuit Digest - Electronics Engineering News, Latest Products, Articles and Projects
+ - [https://circuitdigest.com](https://circuitdigest.com)
+ - date published: 2023-10-28T20:15:59.074787+00:00
+ - user: None
+ - tags: []
+
+## Embedded Engineering
+ - [https://www.circuitvalley.com](https://www.circuitvalley.com)
+ - date published: 2023-10-25T13:24:14.388051+00:00
+ - user: None
+ - tags: []
+
+## The Circus Scientist Site - Circus Scientist
+ - [https://www.circusscientist.com](https://www.circusscientist.com)
+ - date published: 2023-10-25T13:24:25.453287+00:00
+ - user: None
+ - tags: []
+
 ## Ciro Durán ← A Live Archive
  - [https://www.ciroduran.com](https://www.ciroduran.com)
  - date published: 2023-12-20T21:30:36.738957+00:00
@@ -209,16 +257,16 @@
  - tags: []
 
 ## Certified Mindset Coach - ClarityMind
- - [https://www.claritymind.com](https://www.claritymind.com)
- - date published: 2024-01-09T02:32:05.811513+00:00
- - user: None
- - tags: ['personal']
-
-## Certified Mindset Coach - ClarityMind
  - [http://www.claritymind.com](http://www.claritymind.com)
  - date published: 2020-11-04T12:11:07+00:00
  - user: None
  - tags: []
+
+## Certified Mindset Coach - ClarityMind
+ - [https://www.claritymind.com](https://www.claritymind.com)
+ - date published: 2024-01-09T02:32:05.811513+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Before you continue to YouTube
  - [https://clarkecreatives.com](https://clarkecreatives.com)
@@ -233,16 +281,16 @@
  - tags: []
 
 ## Help for Individual and Organization Job Related Burnout
- - [https://www.clarkgaither.com](https://www.clarkgaither.com)
- - date published: 2024-01-19T13:01:43.978500+00:00
- - user: None
- - tags: []
-
-## Help for Individual and Organization Job Related Burnout
  - [http://www.clarkgaither.com](http://www.clarkgaither.com)
  - date published: 2024-04-03T06:30:14.610057+00:00
  - user: None
  - tags: ['personal']
+
+## Help for Individual and Organization Job Related Burnout
+ - [https://www.clarkgaither.com](https://www.clarkgaither.com)
+ - date published: 2024-01-19T13:01:43.978500+00:00
+ - user: None
+ - tags: []
 
 ## Audio Visual Rental for Conferences, Meetings and Events
  - [https://clarksav.com](https://clarksav.com)
@@ -1048,16 +1096,16 @@
  - tags: []
 
 ## Coffee For The Brain
- - [http://coffeeforthebrain.com](http://coffeeforthebrain.com)
- - date published: 2024-03-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Coffee For The Brain
  - [https://coffeeforthebrain.com](https://coffeeforthebrain.com)
  - date published: 2023-12-03T15:55:03.673637+00:00
  - user: None
  - tags: ['personal']
+
+## Coffee For The Brain
+ - [http://coffeeforthebrain.com](http://coffeeforthebrain.com)
+ - date published: 2024-03-26T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## CogDogBlog – Alan Levine barks about and plays with stuff here
  - [https://cogdogblog.com](https://cogdogblog.com)
@@ -1941,15 +1989,15 @@
  - user: None
  - tags: []
 
-## Cory Shaw | Cory Shaw
- - [https://coryshaw.com](https://coryshaw.com)
- - date published: 2024-01-08T15:36:54.508225+00:00
- - user: None
- - tags: ['personal']
-
 ## Cory Shaw
  - [http://coryshaw.com](http://coryshaw.com)
  - date published: 2024-04-03T06:25:46.463221+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cory Shaw | Cory Shaw
+ - [https://coryshaw.com](https://coryshaw.com)
+ - date published: 2024-01-08T15:36:54.508225+00:00
  - user: None
  - tags: ['personal']
 
@@ -2373,6 +2421,12 @@
  - user: None
  - tags: []
 
+## Crexi.com
+ - [https://www.crexi.com](https://www.crexi.com)
+ - date published: 2024-04-05T18:57:07.608713+00:00
+ - user: None
+ - tags: []
+
 ## CrimeReads
  - [https://crimereads.com](https://crimereads.com)
  - date published: 2023-11-07T14:07:13.850793+00:00
@@ -2685,15 +2739,15 @@
  - user: None
  - tags: []
 
-## Site-Speed Optimisation – CSS Wizardry
- - [http://csswizardry.com](http://csswizardry.com)
- - date published: 2024-03-24T15:02:26.014906+00:00
- - user: None
- - tags: []
-
 ## Site-Speed Optimisation – Harry Roberts – Web Performance Consultant
  - [https://csswizardry.com](https://csswizardry.com)
  - date published: 2023-10-25T13:38:54.755341+00:00
+ - user: None
+ - tags: []
+
+## Site-Speed Optimisation – CSS Wizardry
+ - [http://csswizardry.com](http://csswizardry.com)
+ - date published: 2024-03-24T15:02:26.014906+00:00
  - user: None
  - tags: []
 
@@ -3454,17 +3508,17 @@
  - user: None
  - tags: []
 
-## Daniel Hoang
- - [http://danielhoang.com](http://danielhoang.com)
- - date published: 2024-04-03T06:29:29.746239+00:00
- - user: None
- - tags: ['personal']
-
 ## Daniel Hoang – Experienced management consultant x creative. Xennial bridging analog with digital at the intersection of humanity and machine. Scrappy, creative, and fast.
  - [https://danielhoang.com](https://danielhoang.com)
  - date published: 2023-12-12T09:24:31.582869+00:00
  - user: None
  - tags: []
+
+## Daniel Hoang
+ - [http://danielhoang.com](http://danielhoang.com)
+ - date published: 2024-04-03T06:29:29.746239+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Daniel Hoang
  - [https://www.danielhoang.com](https://www.danielhoang.com)
@@ -3521,14 +3575,14 @@
  - tags: ['personal']
 
 ## agora.danielwildt.com
- - [https://agora.danielwildt.com](https://agora.danielwildt.com)
- - date published: 2024-01-06T17:57:51.669161+00:00
+ - [http://agora.danielwildt.com](http://agora.danielwildt.com)
+ - date published: 2024-04-03T06:29:35.599038+00:00
  - user: None
  - tags: ['personal']
 
 ## agora.danielwildt.com
- - [http://agora.danielwildt.com](http://agora.danielwildt.com)
- - date published: 2024-04-03T06:29:35.599038+00:00
+ - [https://agora.danielwildt.com](https://agora.danielwildt.com)
+ - date published: 2024-01-06T17:57:51.669161+00:00
  - user: None
  - tags: ['personal']
 
@@ -3797,16 +3851,16 @@
  - tags: ['mud game']
 
 ## Daryl Cook | Home
- - [https://darylcook.com](https://darylcook.com)
- - date published: 2024-01-04T03:34:09.104755+00:00
- - user: None
- - tags: []
-
-## Daryl Cook | Home
  - [http://darylcook.com](http://darylcook.com)
  - date published: 2024-04-03T06:22:57.593611+00:00
  - user: None
  - tags: ['personal']
+
+## Daryl Cook | Home
+ - [https://darylcook.com](https://darylcook.com)
+ - date published: 2024-01-04T03:34:09.104755+00:00
+ - user: None
+ - tags: []
 
 ## Free Online Database Diagram Tool
  - [https://databasediagram.com](https://databasediagram.com)
@@ -4451,16 +4505,16 @@
  - tags: []
 
 ## Deborah Peacock Photography - Home
- - [https://www.deborahpeacock.com](https://www.deborahpeacock.com)
- - date published: 2024-01-13T04:52:40.631780+00:00
- - user: None
- - tags: []
-
-## Deborah Peacock Photography - Home
  - [http://www.deborahpeacock.com](http://www.deborahpeacock.com)
  - date published: 2024-04-03T06:24:15.192889+00:00
  - user: None
  - tags: ['personal']
+
+## Deborah Peacock Photography - Home
+ - [https://www.deborahpeacock.com](https://www.deborahpeacock.com)
+ - date published: 2024-01-13T04:52:40.631780+00:00
+ - user: None
+ - tags: []
 
 ## Deborah Zhang
  - [https://deborahzhang.com](https://deborahzhang.com)
@@ -4669,6 +4723,12 @@
 ## Home
  - [https://www.defensehere.com](https://www.defensehere.com)
  - date published: 2022-01-12T15:32:07+00:00
+ - user: None
+ - tags: []
+
+## 100 Most Influential | Defense News, News about defense programs, business, and technology
+ - [https://people.defensenews.com](https://people.defensenews.com)
+ - date published: 2024-04-05T18:56:04.180759+00:00
  - user: None
  - tags: []
 
@@ -5081,16 +5141,16 @@
  - tags: []
 
 ## Destination: zero bars
- - [https://destinationzerobars.com](https://destinationzerobars.com)
- - date published: 2013-07-18T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Destination: zero bars
  - [http://destinationzerobars.com](http://destinationzerobars.com)
  - date published: 2013-07-18T00:00:00+00:00
  - user: None
  - tags: []
+
+## Destination: zero bars
+ - [https://destinationzerobars.com](https://destinationzerobars.com)
+ - date published: 2013-07-18T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Destroy All Software
  - [https://www.destroyallsoftware.com](https://www.destroyallsoftware.com)
@@ -5941,66 +6001,6 @@
 ## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
  - [http://djriko.com](http://djriko.com)
  - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
- - [http://www.djriko.com](http://www.djriko.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
- - [https://www.djriko.com](https://www.djriko.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## News [D. Kriesel]
- - [https://www.dkriesel.com](https://www.dkriesel.com)
- - date published: 2023-10-25T13:55:02.953546+00:00
- - user: None
- - tags: []
-
-## What Is Up! - DLake Creates
- - [https://dlakecreates.com](https://dlakecreates.com)
- - date published: 2024-01-09T11:06:23.380054+00:00
- - user: None
- - tags: []
-
-## DL News
- - [https://www.dlnews.com](https://www.dlnews.com)
- - date published: 2024-02-15T23:41:08.152022+00:00
- - user: None
- - tags: []
-
-## D Magazine: Best Restaurants, Things to Do, and Local Dallas News
- - [https://www.dmagazine.com](https://www.dmagazine.com)
- - date published: 2023-10-25T13:55:08.601899+00:00
- - user: None
- - tags: []
-
-## Software Engineering and Stuff
- - [https://dmathieu.com](https://dmathieu.com)
- - date published: 2023-08-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## DMCA.com - Protect Your Online Content and Brand with DMCA Takedown Services, Compliance Solutions, and Content Protection
- - [https://www.dmca.com](https://www.dmca.com)
- - date published: 2023-12-13T16:04:19.583920+00:00
- - user: None
- - tags: []
-
-## Center for Direct Marketing | Performance-based promotion
- - [https://dmcenter.com](https://dmcenter.com)
- - date published: 2024-01-12T18:46:07.435567+00:00
- - user: None
- - tags: []
-
-## about    [Dmitry Frank]
- - [https://dmitryfrank.com](https://dmitryfrank.com)
- - date published: 2023-10-25T13:55:11.237067+00:00
  - user: None
  - tags: []
 

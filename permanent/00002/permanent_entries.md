@@ -1,3 +1,21 @@
+## Age of Revolutions – An Open-Access, Peer-Reviewed Journal
+ - [https://ageofrevolutions.com](https://ageofrevolutions.com)
+ - date published: 2023-10-25T12:34:53.490969+00:00
+ - user: None
+ - tags: []
+
+## Age of Sigmar
+ - [https://ageofsigmar.com](https://ageofsigmar.com)
+ - date published: 2023-10-27T12:08:05.552673+00:00
+ - user: None
+ - tags: ['wargames', 'tabletop games', 'warhammer']
+
+## AFN (Europe) - FoodTech, AgTech, Startups, Venture Capital
+ - [https://agfundernews.com](https://agfundernews.com)
+ - date published: 2023-10-25T12:35:05.170467+00:00
+ - user: None
+ - tags: []
+
 ## AgileConnection | Your agile software development resource with content and conversations about agile principles & practices, Scrum, kanban, enterprise agile, DevOps practices, agile leadership
  - [https://www.agileconnection.com](https://www.agileconnection.com)
  - date published: 2024-01-25T21:47:35.336110+00:00
@@ -323,16 +341,16 @@
  - tags: []
 
 ## Ajay Rajani
- - [http://www.ajayrajani.com](http://www.ajayrajani.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ajay Rajani
  - [https://www.ajayrajani.com](https://www.ajayrajani.com)
  - date published: 2024-01-06T17:58:15.245405+00:00
  - user: None
  - tags: ['personal']
+
+## Ajay Rajani
+ - [http://www.ajayrajani.com](http://www.ajayrajani.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## 人妻精品久久无码专区,色综合色鬼一本到综合久久88,久久精品免费
  - [https://www.ajbvideography.com](https://www.ajbvideography.com)
@@ -491,16 +509,16 @@
  - tags: ['personal']
 
 ## Alain Chautard – Alain's personal website
- - [https://www.alainchautard.com](https://www.alainchautard.com)
- - date published: 2024-02-09T14:01:11.712731+00:00
- - user: None
- - tags: ['personal']
-
-## Alain Chautard – Alain's personal website
  - [http://www.alainchautard.com](http://www.alainchautard.com)
  - date published: 2024-03-08T00:00:00+00:00
  - user: None
  - tags: []
+
+## Alain Chautard – Alain's personal website
+ - [https://www.alainchautard.com](https://www.alainchautard.com)
+ - date published: 2024-02-09T14:01:11.712731+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Al Anany | Substack
  - [https://alanany.com](https://alanany.com)
@@ -893,16 +911,16 @@
  - tags: ['digital marketplace']
 
 ## Home -
- - [https://alifeunlived.com](https://alifeunlived.com)
- - date published: 2023-12-22T17:50:45.863289+00:00
- - user: None
- - tags: ['personal']
-
-## Home -
  - [http://alifeunlived.com](http://alifeunlived.com)
  - date published: 2015-08-20T00:00:00+00:00
  - user: None
  - tags: []
+
+## Home -
+ - [https://alifeunlived.com](https://alifeunlived.com)
+ - date published: 2023-12-22T17:50:45.863289+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Alin Panaitiu - Personal website
  - [https://alinpanaitiu.com](https://alinpanaitiu.com)
@@ -1637,16 +1655,16 @@
  - tags: ['amiga']
 
 ## The biggest repository for remixes of old Amiga tracks from games and demos.
- - [https://www.amigaremix.com](https://www.amigaremix.com)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: ['keygen', 'demoscene', 'amiga', 'chiptune']
-
-## The biggest repository for remixes of old Amiga tracks from games and demos.
  - [http://www.amigaremix.com](http://www.amigaremix.com)
  - date published: 2024-02-13T00:00:00+00:00
  - user: None
  - tags: []
+
+## The biggest repository for remixes of old Amiga tracks from games and demos.
+ - [https://www.amigaremix.com](https://www.amigaremix.com)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: ['keygen', 'demoscene', 'amiga', 'chiptune']
 
 ## A Mighty Girl: Home | A Mighty Girl
  - [https://www.amightygirl.com](https://www.amightygirl.com)
@@ -5536,6 +5554,12 @@
  - user: None
  - tags: []
 
+## BeeTrove – OpenAI GPTs Open-Source Dataset
+ - [https://beetrove.com](https://beetrove.com)
+ - date published: 2024-04-05T17:43:52+00:00
+ - user: None
+ - tags: []
+
 ## befores & afters - VFX magazine
  - [https://beforesandafters.com](https://beforesandafters.com)
  - date published: 2023-10-25T12:56:37.675468+00:00
@@ -5973,28 +5997,4 @@
  - date published: 2023-11-27T16:13:54+00:00
  - user: rumpel
  - tags: ['virtual reality']
-
-## https://www.bhphotovideo.com
- - [https://www.bhphotovideo.com](https://www.bhphotovideo.com)
- - date published: 2024-02-23T22:51:31.570107+00:00
- - user: None
- - tags: []
-
-## Bhread blog
- - [https://blog.bhread.com](https://blog.bhread.com)
- - date published: 2024-02-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Purposeful Transformation - Bianca Welds (Creativity And Innovation Strategist & Coach)
- - [https://biancawelds.com](https://biancawelds.com)
- - date published: 2024-01-01T03:38:49.652609+00:00
- - user: None
- - tags: []
-
-## BiaSciLab
- - [https://biascilab.com](https://biascilab.com)
- - date published: 2024-01-22T09:34:42+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,219 @@
+## Power Industry And Energy News | Power Engineering
+ - [https://www.power-eng.com](https://www.power-eng.com)
+ - date published: 2023-10-25T16:38:51.262181+00:00
+ - user: None
+ - tags: []
+
+## Powerglove | Video Game and TV Theme Speed Metal Band!
+ - [https://www.powergloveband.com](https://www.powergloveband.com)
+ - date published: 2023-11-13T11:20:05.304896+00:00
+ - user: None
+ - tags: ['music band']
+
+## POWER Magazine :: Power generation news and jobs in coal, gas, nuclear, renewables
+ - [https://www.powermag.com](https://www.powermag.com)
+ - date published: 2023-12-20T20:45:05.389832+00:00
+ - user: None
+ - tags: []
+
+## Power Moby-Dick, the Online Annotation
+ - [https://www.powermobydick.com](https://www.powermobydick.com)
+ - date published: 2024-01-06T15:25:09.104106+00:00
+ - user: None
+ - tags: []
+
+## PowerNation TV
+ - [https://www.powernationtv.com](https://www.powernationtv.com)
+ - date published: 2024-03-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Power Technology | News on Renewable, Nuclear, Fossil, Technology, Market Data
+ - [https://www.power-technology.com](https://www.power-technology.com)
+ - date published: 2023-10-25T16:38:54.438081+00:00
+ - user: None
+ - tags: []
+
+## Poznańskie Kolędowanie
+ - [https://poznanskiekoledowanie.com](https://poznanskiekoledowanie.com)
+ - date published: 2023-12-28T11:23:42+00:00
+ - user: rumpel
+ - tags: ['christmas']
+
+## Prabros. - Maker Duo
+ - [https://prabros.com](https://prabros.com)
+ - date published: 2023-10-25T16:38:55.357789+00:00
+ - user: None
+ - tags: []
+
+## Practical betterments
+ - [https://practicalbetterments.com](https://practicalbetterments.com)
+ - date published: 2023-11-06T16:16:52.692314+00:00
+ - user: None
+ - tags: []
+
+## Practical Self Reliance – Your Practical Guide To Self Reliant Living
+ - [https://practicalselfreliance.com](https://practicalselfreliance.com)
+ - date published: 2023-10-25T16:38:58.139254+00:00
+ - user: None
+ - tags: []
+
+## Butterick’s Practical Typography
+ - [https://practicaltypography.com](https://practicaltypography.com)
+ - date published: 2023-10-25T16:39:01.191915+00:00
+ - user: None
+ - tags: []
+
+## Practicing Developer
+ - [https://practicingdeveloper.com](https://practicingdeveloper.com)
+ - date published: 2023-12-30T15:38:05.444569+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Pragmatic Engineer - The Pragmatic Engineer
+ - [https://blog.pragmaticengineer.com](https://blog.pragmaticengineer.com)
+ - date published: 2023-10-25T16:39:04.240221+00:00
+ - user: None
+ - tags: []
+
+## The Pragmatic Engineer | Gergely Orosz | Substack
+ - [https://newsletter.pragmaticengineer.com](https://newsletter.pragmaticengineer.com)
+ - date published: 2023-10-25T16:39:06.934231+00:00
+ - user: None
+ - tags: []
+
+## Reaction Diffusion
+ - [https://www.prajwalb.com](https://www.prajwalb.com)
+ - date published: 2024-01-10T23:52:44.132520+00:00
+ - user: None
+ - tags: []
+
+## Prakhar Gupta - Home
+ - [https://prakgupta.com](https://prakgupta.com)
+ - date published: 2023-11-17T07:14:25.973919+00:00
+ - user: None
+ - tags: []
+
+## Introduction | Pranay Prateek
+ - [https://pranay01.com](https://pranay01.com)
+ - date published: 2024-01-13T04:53:16.090647+00:00
+ - user: None
+ - tags: []
+
+## Data Stories, by Pranshu
+ - [https://yarn.pranshum.com](https://yarn.pranshum.com)
+ - date published: 2023-10-25T16:39:07.583629+00:00
+ - user: None
+ - tags: []
+
+## Pravda EN
+ - [https://pravda-en.com](https://pravda-en.com)
+ - date published: 2023-12-26T14:55:54.232333+00:00
+ - user: None
+ - tags: []
+
+## About me - Pravesh Koirala
+ - [https://praveshkoirala.com](https://praveshkoirala.com)
+ - date published: 2023-10-25T16:39:09.571981+00:00
+ - user: None
+ - tags: []
+
+## Precursor—fast prototyping web app, makes collaboration easy.
+ - [https://precursorapp.com](https://precursorapp.com)
+ - date published: 2023-10-25T16:39:10.908990+00:00
+ - user: None
+ - tags: []
+
+## Predictable Designs is where electronics and entrepreneurship intersect
+ - [https://predictabledesigns.com](https://predictabledesigns.com)
+ - date published: 2023-10-25T16:39:14.616428+00:00
+ - user: None
+ - tags: []
+
+## @preethamrn - Preetham
+ - [https://www.preethamrn.com](https://www.preethamrn.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Preferred Airparts, LLC - New Surplus and Used Aircraft Parts
+ - [https://www.preferredairparts.com](https://www.preferredairparts.com)
+ - date published: 2024-02-08T22:10:37.837839+00:00
+ - user: None
+ - tags: []
+
+## Prerna Pradeep
+ - [http://www.prernapradeep.com](http://www.prernapradeep.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Presearch
+ - [https://presearch.com](https://presearch.com)
+ - date published: 2024-03-06T13:27:12+00:00
+ - user: rumpel
+ - tags: ['search engine']
+
+## Present&Correct – SUNDRIES FOR THE MODERN WORKSPACE
+ - [http://blog.presentandcorrect.com](http://blog.presentandcorrect.com)
+ - date published: 2023-10-25T16:39:22.105057+00:00
+ - user: None
+ - tags: []
+
+## Preshing on Programming
+ - [https://preshing.com](https://preshing.com)
+ - date published: 2023-10-25T16:39:24.657091+00:00
+ - user: None
+ - tags: []
+
+## Preshing on Programming
+ - [http://preshing.com](http://preshing.com)
+ - date published: 2021-03-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## PreSonus Software
+ - [https://www.presonussoftware.com](https://www.presonussoftware.com)
+ - date published: 2023-11-27T01:06:49.801011+00:00
+ - user: None
+ - tags: []
+
+## Shaun Gallagher - Author, Software Engineer, Fast Typer
+ - [https://shaungallagher.pressbin.com](https://shaungallagher.pressbin.com)
+ - date published: 2023-11-04T13:47:28.938025+00:00
+ - user: None
+ - tags: []
+
+## https://www.pressdemocrat.com
+ - [https://www.pressdemocrat.com](https://www.pressdemocrat.com)
+ - date published: 2023-11-01T08:42:56.938211+00:00
+ - user: None
+ - tags: []
+
+## Press Enterprise
+ - [https://www.pressenterprise.com](https://www.pressenterprise.com)
+ - date published: 2023-12-08T17:29:18.211069+00:00
+ - user: None
+ - tags: []
+
+## The Portland Press Herald - Maine Sunday Telegram
+ - [https://www.pressherald.com](https://www.pressherald.com)
+ - date published: 2023-10-25T16:39:39.509064+00:00
+ - user: None
+ - tags: []
+
+## Prestissimo Media
+ - [https://prestissimo-guitar.com](https://prestissimo-guitar.com)
+ - date published: 2023-12-03T23:31:18.327725+00:00
+ - user: None
+ - tags: ['personal']
+
+## Prestissimo Media
+ - [http://prestissimo-guitar.com](http://prestissimo-guitar.com)
+ - date published: 2021-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Tom Preston-Werner
  - [https://tom.preston-werner.com](https://tom.preston-werner.com)
  - date published: 2023-10-25T16:39:41.232703+00:00
@@ -367,6 +583,12 @@
 ## Knit - A better playground for prompt designers
  - [https://promptknit.com](https://promptknit.com)
  - date published: 2023-10-25T16:41:15.595812+00:00
+ - user: None
+ - tags: []
+
+## PromptLayer
+ - [https://blog.promptlayer.com](https://blog.promptlayer.com)
+ - date published: 2024-04-05T18:24:28.382746+00:00
  - user: None
  - tags: []
 
@@ -1334,17 +1556,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://rachelwestbooks.com](http://rachelwestbooks.com)
- - date published: 2024-02-29T14:58:43.538321+00:00
- - user: None
- - tags: []
-
 ## http://rachelwestbooks.com
  - [https://rachelwestbooks.com](https://rachelwestbooks.com)
  - date published: 2024-02-09T00:19:01.129739+00:00
  - user: None
  - tags: ['poetry', 'book', 'personal']
+
+## None
+ - [http://rachelwestbooks.com](http://rachelwestbooks.com)
+ - date published: 2024-02-29T14:58:43.538321+00:00
+ - user: None
+ - tags: []
 
 ## Rachel Zampino | Website Wizard - Rachel Zampino
  - [https://rachelzampino.com](https://rachelzampino.com)
@@ -2038,14 +2260,14 @@ More!
  - tags: ['company']
 
 ## Home | Realms of Despair
- - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
- - date published: 2024-03-27T20:46:33.188949+00:00
+ - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:52:28.838514+00:00
  - user: None
  - tags: ['mud game']
 
 ## Home | Realms of Despair
- - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
- - date published: 2024-03-27T20:52:28.838514+00:00
+ - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:46:33.188949+00:00
  - user: None
  - tags: ['mud game']
 
@@ -2100,6 +2322,12 @@ More!
 ## Rebellion | Official Rebellion website
  - [https://rebellion.com](https://rebellion.com)
  - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Rebooting The Arsenal of Democracy
+ - [https://www.rebootingthearsenal.com](https://www.rebootingthearsenal.com)
+ - date published: 2024-04-05T18:56:02.651631+00:00
  - user: None
  - tags: []
 
@@ -2236,6 +2464,12 @@ More!
  - tags: ['gatekeeper', 'social platform']
 
 ## reddit
+ - [http://reddit.com](http://reddit.com)
+ - date published: 2024-04-05T18:55:02.786881+00:00
+ - user: None
+ - tags: []
+
+## reddit
  - [https://sh.reddit.com](https://sh.reddit.com)
  - date published: 2023-12-30T19:00:56.429006+00:00
  - user: None
@@ -2248,14 +2482,14 @@ More!
  - tags: []
 
 ## reddit
- - [http://www.reddit.com](http://www.reddit.com)
- - date published: 2024-02-20T00:00:00+00:00
+ - [https://www.reddit.com](https://www.reddit.com)
+ - date published: 2023-10-24T20:16:46.235665+00:00
  - user: None
  - tags: []
 
 ## reddit
- - [https://www.reddit.com](https://www.reddit.com)
- - date published: 2023-10-24T20:16:46.235665+00:00
+ - [http://www.reddit.com](http://www.reddit.com)
+ - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3358,16 +3592,16 @@ More!
  - tags: []
 
 ## Ken Shirriff's blog
- - [http://www.righto.com](http://www.righto.com)
- - date published: 2024-02-25T00:44:48.796985+00:00
- - user: None
- - tags: []
-
-## Ken Shirriff's blog
  - [https://www.righto.com](https://www.righto.com)
  - date published: 2023-10-25T16:51:33.313104+00:00
  - user: None
  - tags: ['blog', 'personal']
+
+## Ken Shirriff's blog
+ - [http://www.righto.com](http://www.righto.com)
+ - date published: 2024-02-25T00:44:48.796985+00:00
+ - user: None
+ - tags: []
 
 ## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
  - [https://www.rigzone.com](https://www.rigzone.com)
@@ -4270,14 +4504,14 @@ More!
  - tags: ['personal']
 
 ## my blog
- - [https://ronzhyn.com](https://ronzhyn.com)
- - date published: 2023-12-03T01:43:15.181104+00:00
+ - [http://ronzhyn.com](http://ronzhyn.com)
+ - date published: 2024-04-03T12:46:15.138808+00:00
  - user: None
  - tags: ['personal']
 
 ## my blog
- - [http://ronzhyn.com](http://ronzhyn.com)
- - date published: 2024-04-03T12:46:15.138808+00:00
+ - [https://ronzhyn.com](https://ronzhyn.com)
+ - date published: 2023-12-03T01:43:15.181104+00:00
  - user: None
  - tags: ['personal']
 
@@ -5079,6 +5313,12 @@ More!
  - user: None
  - tags: ['personal']
 
+## SAMLTool.com | SAML Testing Tools | Online SAML Debugger | Examples
+ - [https://www.samltool.com](https://www.samltool.com)
+ - date published: 2024-04-05T14:01:37+00:00
+ - user: rumpel
+ - tags: ['online tool']
+
 ## SamMobile - Your source for all Samsung news
  - [https://www.sammobile.com](https://www.sammobile.com)
  - date published: 2023-10-25T09:35:06.448961+00:00
@@ -5134,14 +5374,14 @@ More!
  - tags: []
 
 ## Samsung Members Community
- - [https://r2.community.samsung.com](https://r2.community.samsung.com)
- - date published: 2024-01-20T05:57:49.133663+00:00
+ - [http://r2.community.samsung.com](http://r2.community.samsung.com)
+ - date published: 2024-02-26T14:44:02.734270+00:00
  - user: None
  - tags: []
 
 ## Samsung Members Community
- - [http://r2.community.samsung.com](http://r2.community.samsung.com)
- - date published: 2024-02-26T14:44:02.734270+00:00
+ - [https://r2.community.samsung.com](https://r2.community.samsung.com)
+ - date published: 2024-01-20T05:57:49.133663+00:00
  - user: None
  - tags: []
 
@@ -5617,7 +5857,7 @@ More!
  - [https://www.schneier.com](https://www.schneier.com)
  - date published: 2023-10-25T09:35:13.644701+00:00
  - user: None
- - tags: []
+ - tags: ['security']
 
 ## TEXT
  - [https://textjournal.scholasticahq.com](https://textjournal.scholasticahq.com)
@@ -5766,246 +6006,6 @@ More!
 ## SciTechDaily - Science, Space and Technology News 2023
  - [https://scitechdaily.com](https://scitechdaily.com)
  - date published: 2023-10-25T10:11:08.449489+00:00
- - user: None
- - tags: []
-
-## sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Desktop and Mobile Application
- - [https://sciter.com](https://sciter.com)
- - date published: 2023-10-25T16:59:18.546109+00:00
- - user: None
- - tags: []
-
-## Scivus
- - [https://scivus.com](https://scivus.com)
- - date published: 2023-11-22T07:04:29.079121+00:00
- - user: None
- - tags: []
-
-## Cybersecurity News, Awards, Webinars, eSummits, Research | SC Media
- - [https://www.scmagazine.com](https://www.scmagazine.com)
- - date published: 2023-10-25T16:59:21.821719+00:00
- - user: None
- - tags: []
-
-## Breaking China, Asia, HK News, Opinions and Insights | South China Morning Post
- - [https://amp.scmp.com](https://amp.scmp.com)
- - date published: 2024-03-04T10:41:22.801901+00:00
- - user: None
- - tags: []
-
-## HK, China, Asia news & opinion from SCMP’s global edition | South China Morning Post
- - [https://www.scmp.com](https://www.scmp.com)
- - date published: 2023-10-25T10:55:24.006811+00:00
- - user: None
- - tags: []
-
-## Welcome to scmscx.com
- - [https://scmscx.com](https://scmscx.com)
- - date published: 2023-10-25T11:51:08.396681+00:00
- - user: None
- - tags: []
-
-## https://www.scootcolumbus.com
- - [https://www.scootcolumbus.com](https://www.scootcolumbus.com)
- - date published: 2024-02-08T16:47:35.027914+00:00
- - user: None
- - tags: []
-
-## Scorched Garlic
- - [https://www.scorchedgarlic.com](https://www.scorchedgarlic.com)
- - date published: 2023-12-20T11:44:45.377578+00:00
- - user: None
- - tags: ['personal']
-
-## renegat0x0 site
- - [https://b.scorecardresearch.com](https://b.scorecardresearch.com)
- - date published: 2024-01-09T02:48:27.227136+00:00
- - user: None
- - tags: []
-
-## Scosche Tech Accessories | #1 Mount Brand in US & Canada
- - [https://www.scosche.com](https://www.scosche.com)
- - date published: 2024-02-08T16:27:30.475871+00:00
- - user: None
- - tags: []
-
-## Global
- - [https://www.scotchbrand.com](https://www.scotchbrand.com)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Latest News | The Scotsman
- - [https://www.scotsman.com](https://www.scotsman.com)
- - date published: 2023-10-25T16:59:27.807401+00:00
- - user: None
- - tags: []
-
-## Scott Aaronson
- - [https://scottaaronson.com](https://scottaaronson.com)
- - date published: 2023-10-25T16:59:29.689793+00:00
- - user: None
- - tags: []
-
-## Scott Aaronson
- - [https://www.scottaaronson.com](https://www.scottaaronson.com)
- - date published: 2023-10-25T16:59:31.584638+00:00
- - user: None
- - tags: []
-
-## Scott Antipa
- - [https://www.scottantipa.com](https://www.scottantipa.com)
- - date published: 2023-10-25T16:59:37.222129+00:00
- - user: None
- - tags: []
-
-## Scott Boms - Creative direction, Design and Printmaking
- - [https://scottboms.com](https://scottboms.com)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Scottish Association of Writers – Everyone has a story to tell
- - [https://www.scottishassociationofwriters.com](https://www.scottishassociationofwriters.com)
- - date published: 2024-02-08T16:36:09.210515+00:00
- - user: None
- - tags: []
-
-## Scott Logic Blog
- - [https://blog.scottlogic.com](https://blog.scottlogic.com)
- - date published: 2024-01-09T02:48:28.419124+00:00
- - user: None
- - tags: []
-
-## Scott Mathson, Maker - Marketing, Web Strategy, Dev, Content, & Growth
- - [https://scottmathson.com](https://scottmathson.com)
- - date published: 2024-01-11T07:53:22.649850+00:00
- - user: None
- - tags: []
-
-## Scott Santens' Universal Basic Income Guide
- - [https://www.scottsantens.com](https://www.scottsantens.com)
- - date published: 2023-10-25T16:59:48.391411+00:00
- - user: None
- - tags: []
-
-## Scott P. Scheper - Official Website
- - [https://scottscheper.com](https://scottscheper.com)
- - date published: 2023-10-25T16:59:51.789848+00:00
- - user: None
- - tags: []
-
-## Scott P. Scheper - Official Website
- - [https://www.scottscheper.com](https://www.scottscheper.com)
- - date published: 2023-10-25T16:59:54.583038+00:00
- - user: None
- - tags: []
-
-## The World According to Scott
- - [https://scottswezey.com](https://scottswezey.com)
- - date published: 2023-11-04T15:48:18.224107+00:00
- - user: None
- - tags: []
-
-## Scott Wyden Kivowitz | New Jersey Photographer & Educator
- - [https://scottwyden.com](https://scottwyden.com)
- - date published: 2023-11-29T16:19:48.777910+00:00
- - user: None
- - tags: ['personal']
-
-## SCOTUSblog - Independent News & Analysis on the U.S. Supreme Court
- - [https://www.scotusblog.com](https://www.scotusblog.com)
- - date published: 2023-12-05T14:10:03.185073+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.scrapehero.com](https://www.scrapehero.com)
- - date published: 2024-01-17T09:15:02+00:00
- - user: None
- - tags: ['web scraping']
-
-## ScrapingBee, the best web scraping API.
- - [https://www.scrapingbee.com](https://www.scrapingbee.com)
- - date published: 2023-10-25T16:59:56.121936+00:00
- - user: None
- - tags: []
-
-## Scratchapixel 4.0, Learn Computer Graphics Programming
- - [https://www.scratchapixel.com](https://www.scratchapixel.com)
- - date published: 2024-03-24T15:08:21.783897+00:00
- - user: None
- - tags: []
-
-## ScratchDB
- - [https://scratchdb.com](https://scratchdb.com)
- - date published: 2023-10-25T16:59:56.874210+00:00
- - user: None
- - tags: []
-
-## Screen Idle - Funny Movie News for Groovy People
- - [https://www.screen-idle.com](https://www.screen-idle.com)
- - date published: 2023-10-25T16:59:58.854404+00:00
- - user: None
- - tags: ['satire', 'comedy', 'funny']
-
-## Screenlace - How people started successful YouTube channels
- - [https://screenlace.com](https://screenlace.com)
- - date published: 2024-02-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Screenlace - How people started successful YouTube channels
- - [https://www.screenlace.com](https://www.screenlace.com)
- - date published: 2024-01-09T02:48:30.103493+00:00
- - user: None
- - tags: []
-
-## ScreenRant
- - [https://screenrant.com](https://screenrant.com)
- - date published: 2024-01-10T15:08:21+00:00
- - user: rumpel
- - tags: ['news', 'movie news']
-
-## Screensavers Planet - 1548 Free Screensaver Downloads
- - [https://www.screensaversplanet.com](https://www.screensaversplanet.com)
- - date published: 2024-03-19T12:16:18+00:00
- - user: rumpel
- - tags: []
-
-## screen-scraper: Data extraction software and services
- - [https://www.screen-scraper.com](https://www.screen-scraper.com)
- - date published: 2024-01-17T09:14:32+00:00
- - user: rumpel
- - tags: ['web scraping']
-
-## Screen Slate | Cinematic Excellence Est. 2011 | Upcoming Film Showtimes NYC
- - [https://www.screenslate.com](https://www.screenslate.com)
- - date published: 2023-10-25T17:00:00.067981+00:00
- - user: None
- - tags: []
-
-## Screenstab
- - [https://www.screenstab.com](https://www.screenstab.com)
- - date published: 2023-10-25T17:00:01.292835+00:00
- - user: None
- - tags: []
-
-## Scribble Diffusion
- - [https://scribblediffusion.com](https://scribblediffusion.com)
- - date published: 2023-10-25T17:00:06.661637+00:00
- - user: None
- - tags: []
-
-## Scribd: Ebooks, Audiobooks & More - Read Free for 30 Days
- - [https://www.scribd.com](https://www.scribd.com)
- - date published: 2023-10-25T11:19:26.409861+00:00
- - user: None
- - tags: []
-
-## Scripps News | U.S. News and Latest World Headlines
- - [https://scrippsnews.com](https://scrippsnews.com)
- - date published: 2023-10-25T17:00:14.765540+00:00
  - user: None
  - tags: []
 

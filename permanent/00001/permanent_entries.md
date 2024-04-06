@@ -1,3 +1,9 @@
+## Home
+ - [https://www.borden-carleton.ca](https://www.borden-carleton.ca)
+ - date published: 2024-01-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Scatterplots Advent of Code
  - [https://aoc-stats.fastbee.box.ca](https://aoc-stats.fastbee.box.ca)
  - date published: 2024-01-15T10:02:36.118939+00:00
@@ -785,14 +791,14 @@
  - tags: ['personal']
 
 ## Scott Redmond
- - [http://www.scottredmond.ca](http://www.scottredmond.ca)
- - date published: 2024-04-03T12:49:31.889702+00:00
+ - [https://www.scottredmond.ca](https://www.scottredmond.ca)
+ - date published: 2024-01-23T03:27:52.039443+00:00
  - user: None
  - tags: ['personal']
 
 ## Scott Redmond
- - [https://www.scottredmond.ca](https://www.scottredmond.ca)
- - date published: 2024-01-23T03:27:52.039443+00:00
+ - [http://www.scottredmond.ca](http://www.scottredmond.ca)
+ - date published: 2024-04-03T12:49:31.889702+00:00
  - user: None
  - tags: ['personal']
 
@@ -941,14 +947,14 @@
  - tags: ['personal']
 
 ## Timur Ochakovsky | Web Developer
- - [https://www.timur.ca](https://www.timur.ca)
- - date published: 2023-11-29T14:23:08.617547+00:00
+ - [http://www.timur.ca](http://www.timur.ca)
+ - date published: 2002-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Timur Ochakovsky | Web Developer
- - [http://www.timur.ca](http://www.timur.ca)
- - date published: 2002-01-01T00:00:00+00:00
+ - [https://www.timur.ca](https://www.timur.ca)
+ - date published: 2023-11-29T14:23:08.617547+00:00
  - user: None
  - tags: []
 
@@ -1860,6 +1866,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://www.epfl.ch](https://www.epfl.ch)
+ - date published: 2024-04-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Ethereum Research
  - [https://ethresear.ch](https://ethresear.ch)
  - date published: 2023-12-29T04:55:09.336302+00:00
@@ -2512,7 +2524,7 @@
  - [https://english.news.cn](https://english.news.cn)
  - date published: 2023-10-25T10:54:50.659057+00:00
  - user: None
- - tags: []
+ - tags: ['china news']
 
 ## 秦始皇帝陵博物院官网
  - [https://www.bmy.com.cn](https://www.bmy.com.cn)
@@ -2530,7 +2542,7 @@
  - [https://www.chinadaily.com.cn](https://www.chinadaily.com.cn)
  - date published: 2024-03-08T18:11:22.980163+00:00
  - user: None
- - tags: []
+ - tags: ['china news']
 
 ## https://www.dongfeng-citroen.com.cn
  - [https://www.dongfeng-citroen.com.cn](https://www.dongfeng-citroen.com.cn)
@@ -3203,6 +3215,12 @@
  - date published: 2023-10-25T12:19:11.534583+00:00
  - user: None
  - tags: []
+
+## Kirr.co |  Shorten that url
+ - [https://kirr.co](https://kirr.co)
+ - date published: 2024-04-05T21:55:39+00:00
+ - user: rumpel
+ - tags: ['link service']
 
 ## {{SEO.ogTitle}}
  - [https://kit.co](https://kit.co)
@@ -5983,24 +6001,6 @@
 ## Age of Miniatures Frontpage
  - [https://ageofminiatures.com](https://ageofminiatures.com)
  - date published: 2023-10-27T07:27:48.958410+00:00
- - user: None
- - tags: []
-
-## Age of Revolutions – An Open-Access, Peer-Reviewed Journal
- - [https://ageofrevolutions.com](https://ageofrevolutions.com)
- - date published: 2023-10-25T12:34:53.490969+00:00
- - user: None
- - tags: []
-
-## Age of Sigmar
- - [https://ageofsigmar.com](https://ageofsigmar.com)
- - date published: 2023-10-27T12:08:05.552673+00:00
- - user: None
- - tags: ['wargames', 'tabletop games', 'warhammer']
-
-## AFN (Europe) - FoodTech, AgTech, Startups, Venture Capital
- - [https://agfundernews.com](https://agfundernews.com)
- - date published: 2023-10-25T12:35:05.170467+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,477 @@
+## Gilly Runs a Marathon || If you've lost your faith in love and music, the end won't be long / Because if it's gone for you, well, I too may lose it and that would be wrong.
+ - [https://gpacheco.org](https://gpacheco.org)
+ - date published: 2023-12-22T22:28:40.835872+00:00
+ - user: None
+ - tags: ['personal']
+
+## GPlates: Open-source software for interactive visualisation of plate tectonics
+ - [https://www.gplates.org](https://www.gplates.org)
+ - date published: 2024-02-16T23:10:24+00:00
+ - user: None
+ - tags: []
+
+## GPSJAM GPS/GNSS Interference Map
+ - [https://gpsjam.org](https://gpsjam.org)
+ - date published: 2023-10-25T21:27:04.103247+00:00
+ - user: None
+ - tags: []
+
+## GraalVM
+ - [https://www.graalvm.org](https://www.graalvm.org)
+ - date published: 2023-10-25T21:27:05.271343+00:00
+ - user: None
+ - tags: []
+
+## grain.org
+ - [https://grain.org](https://grain.org)
+ - date published: 2024-01-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Grand Egyptian Museum – Estimated opening: Late-2023 or Early-2024
+ - [https://grandegyptianmuseum.org](https://grandegyptianmuseum.org)
+ - date published: 2023-10-27T13:05:42.702945+00:00
+ - user: None
+ - tags: ['museum']
+
+## GrapheneOS: the private and secure mobile OS
+ - [https://grapheneos.org](https://grapheneos.org)
+ - date published: 2023-10-30T16:18:44.734101+00:00
+ - user: None
+ - tags: ['operating system', 'android', 'open source']
+
+## GrapheneOS: the private and secure mobile OS
+ - [https://staging.grapheneos.org](https://staging.grapheneos.org)
+ - date published: 2014-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Grand Rapids Children's Museum
+ - [https://www.grcm.org](https://www.grcm.org)
+ - date published: 2024-02-08T22:52:06.549629+00:00
+ - user: None
+ - tags: []
+
+## Investigative journalism from Greenpeace UK
+ - [https://unearthed.greenpeace.org](https://unearthed.greenpeace.org)
+ - date published: 2024-01-09T03:40:43.553871+00:00
+ - user: None
+ - tags: []
+
+## Greenpeace
+ - [https://www.greenpeace.org](https://www.greenpeace.org)
+ - date published: 2023-10-25T21:27:06.203930+00:00
+ - user: None
+ - tags: []
+
+## Personal website of Gregory S. Donner
+ - [https://www.gregdonner.org](https://www.gregdonner.org)
+ - date published: 2023-11-02T10:50:28.897514+00:00
+ - user: None
+ - tags: ['amiga', 'personal']
+
+## Gren
+ - [https://gren-lang.org](https://gren-lang.org)
+ - date published: 2023-10-25T21:27:06.909825+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Grex: Public Access Unix (Legacy Site)
+ - [https://grex.org](https://grex.org)
+ - date published: 2023-10-25T21:27:12.688248+00:00
+ - user: None
+ - tags: []
+
+## Pavel Grinfeld
+ - [https://grinfeld.org](https://grinfeld.org)
+ - date published: 2023-10-25T21:27:14.153144+00:00
+ - user: None
+ - tags: []
+
+## GripTape Challenge - Learn How and What You Want
+ - [https://www.griptape.org](https://www.griptape.org)
+ - date published: 2023-10-25T21:27:16.108644+00:00
+ - user: None
+ - tags: []
+
+## Grist.org: Climate. Justice. Solutions. | Grist
+ - [https://grist.org](https://grist.org)
+ - date published: 2023-10-25T21:27:20.287221+00:00
+ - user: None
+ - tags: []
+
+## Grml Blog
+ - [https://blog.grml.org](https://blog.grml.org)
+ - date published: 2023-10-25T08:32:20.640698+00:00
+ - user: None
+ - tags: []
+
+## GTK Development Blog – All things GTK
+ - [https://blog.gtk.org](https://blog.gtk.org)
+ - date published: 2024-01-29T15:52:56.244750+00:00
+ - user: None
+ - tags: []
+
+## GTK Development Blog – All things GTK
+ - [http://blog.gtk.org](http://blog.gtk.org)
+ - date published: 2024-03-21T07:44:16.242776+00:00
+ - user: None
+ - tags: []
+
+## The GTK Project - A free and open-source cross-platform widget toolkit
+ - [https://gtk.org](https://gtk.org)
+ - date published: 2024-03-21T07:45:22+00:00
+ - user: rumpel
+ - tags: ['open source', 'graphical framework']
+
+## The GTK Project - A free and open-source cross-platform widget toolkit
+ - [https://www.gtk.org](https://www.gtk.org)
+ - date published: 2023-10-30T14:05:25.417060+00:00
+ - user: None
+ - tags: ['gtk', 'programming framework', 'open source']
+
+## GUIdebook: Graphical User Interface gallery
+ - [https://guidebookgallery.org](https://guidebookgallery.org)
+ - date published: 2023-10-25T21:27:21.314042+00:00
+ - user: None
+ - tags: []
+
+## Free eBooks | Project Gutenberg
+ - [https://gutenberg.org](https://gutenberg.org)
+ - date published: 2023-10-25T21:27:22.828743+00:00
+ - user: None
+ - tags: []
+
+## Free eBooks | Project Gutenberg
+ - [https://www.gutenberg.org](https://www.gutenberg.org)
+ - date published: 2023-10-25T09:29:03.291223+00:00
+ - user: None
+ - tags: ['ebooks', 'library']
+
+## Haiku Community
+ - [https://discuss.haiku-os.org](https://discuss.haiku-os.org)
+ - date published: 2023-10-25T21:27:25.896496+00:00
+ - user: None
+ - tags: []
+
+## Home | Haiku Project
+ - [https://www.haiku-os.org](https://www.haiku-os.org)
+ - date published: 2023-10-25T21:27:27.267272+00:00
+ - user: None
+ - tags: []
+
+## hails.org
+ - [https://hails.org](https://hails.org)
+ - date published: 2023-10-25T21:27:29.684298+00:00
+ - user: None
+ - tags: []
+
+## Joel David Hamkins | mathematics and philosophy of the infinite
+ - [https://jdh.hamkins.org](https://jdh.hamkins.org)
+ - date published: 2023-10-25T21:27:46.698687+00:00
+ - user: None
+ - tags: []
+
+## Hanami | The web, with simplicity
+ - [https://hanamirb.org](https://hanamirb.org)
+ - date published: 2023-10-25T21:27:52.118904+00:00
+ - user: None
+ - tags: []
+
+## Notes on Designing, Building, and Operating Model Railroads
+ - [https://designbuildop.hansmanns.org](https://designbuildop.hansmanns.org)
+ - date published: 2024-02-08T17:49:32.421764+00:00
+ - user: None
+ - tags: []
+
+## HAProxy - The Reliable, High Perf. TCP/HTTP Load Balancer
+ - [https://www.haproxy.org](https://www.haproxy.org)
+ - date published: 2023-10-25T21:27:56.904932+00:00
+ - user: None
+ - tags: []
+
+## The Hare programming language
+ - [https://harelang.org](https://harelang.org)
+ - date published: 2023-12-02T19:30:49.096219+00:00
+ - user: None
+ - tags: []
+
+## Home | Harper's Magazine
+ - [https://harpers.org](https://harpers.org)
+ - date published: 2023-10-25T21:28:02.019118+00:00
+ - user: None
+ - tags: []
+
+## Harvard Design Magazine - Harvard Design Magazine
+ - [https://www.harvarddesignmagazine.org](https://www.harvarddesignmagazine.org)
+ - date published: 2024-01-24T20:56:12.264603+00:00
+ - user: None
+ - tags: []
+
+## Harvard Law Review
+ - [https://harvardlawreview.org](https://harvardlawreview.org)
+ - date published: 2024-02-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Haskell Community - Haskell
+ - [https://discourse.haskell.org](https://discourse.haskell.org)
+ - date published: 2023-10-25T21:28:05.125703+00:00
+ - user: None
+ - tags: []
+
+## Sign in · GitLab
+ - [https://gitlab.haskell.org](https://gitlab.haskell.org)
+ - date published: 2023-10-25T21:28:06.166974+00:00
+ - user: None
+ - tags: []
+
+## Fanis Hatzidakis
+ - [https://fanis.hatzidakis.org](https://fanis.hatzidakis.org)
+ - date published: 2024-01-04T19:56:20.383113+00:00
+ - user: None
+ - tags: ['personal']
+
+## Fanis Hatzidakis
+ - [http://fanis.hatzidakis.org](http://fanis.hatzidakis.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Haven: Host your own private blog
+ - [https://havenweb.org](https://havenweb.org)
+ - date published: 2023-10-25T21:28:07.014052+00:00
+ - user: None
+ - tags: []
+
+## The Hawai’i Seaglider Initiative | A New Approach to Travel Between the Islands
+ - [https://www.hawaiiseaglider.org](https://www.hawaiiseaglider.org)
+ - date published: 2024-01-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Harvard Business Review - Ideas and Advice for Leaders
+ - [https://hbr.org](https://hbr.org)
+ - date published: 2024-01-09T03:40:52.735325+00:00
+ - user: None
+ - tags: ['business news']
+
+## HCI Bibliography : Human-Computer Interaction Resources
+ - [https://hcibib.org](https://hcibib.org)
+ - date published: 2023-10-25T21:28:08.623566+00:00
+ - user: None
+ - tags: []
+
+## High Country News – Know the West
+ - [https://www.hcn.org](https://www.hcn.org)
+ - date published: 2023-10-25T21:28:11.840838+00:00
+ - user: None
+ - tags: []
+
+## HDMI Licensing Administrator, Inc.
+ - [https://www.hdmi.org](https://www.hdmi.org)
+ - date published: 2023-10-25T21:28:19.437472+00:00
+ - user: None
+ - tags: []
+
+## https://www.healthaffairs.org
+ - [https://www.healthaffairs.org](https://www.healthaffairs.org)
+ - date published: 2023-10-25T21:28:19.809492+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Institute for Health Metrics and Evaluation
+ - [https://www.healthdata.org](https://www.healthdata.org)
+ - date published: 2024-02-24T18:07:00.610470+00:00
+ - user: None
+ - tags: []
+
+## Scientific Reference to Reliable Health Information - Health Feedback
+ - [https://healthfeedback.org](https://healthfeedback.org)
+ - date published: 2023-10-25T21:28:21.366345+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the AHA/ASA Newsroom | American Heart Association
+ - [https://newsroom.heart.org](https://newsroom.heart.org)
+ - date published: 2023-10-25T21:28:23.483045+00:00
+ - user: None
+ - tags: []
+
+## American Heart Association | To be a relentless force for a world of longer, healthier lives
+ - [https://www.heart.org](https://www.heart.org)
+ - date published: 2023-10-25T21:28:27.272418+00:00
+ - user: None
+ - tags: []
+
+## Home - The Hechinger Report
+ - [https://hechingerreport.org](https://hechingerreport.org)
+ - date published: 2023-10-25T21:28:32.308583+00:00
+ - user: None
+ - tags: []
+
+## Héctor García – Author and thinker
+ - [https://hectorgarcia.org](https://hectorgarcia.org)
+ - date published: 2024-04-03T06:31:54.611099+00:00
+ - user: None
+ - tags: ['personal']
+
+## About     – HelenOS
+ - [http://www.helenos.org](http://www.helenos.org)
+ - date published: 2023-10-25T21:28:33.498042+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://heltec.org](https://heltec.org)
+ - date published: 2024-03-03T11:34:08.952267+00:00
+ - user: None
+ - tags: []
+
+## Philip Heltweg
+ - [https://heltweg.org](https://heltweg.org)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Philip Heltweg
+ - [https://www.heltweg.org](https://www.heltweg.org)
+ - date published: 2023-10-25T08:54:40.981603+00:00
+ - user: None
+ - tags: ['personal']
+
+## American Society of Hematology
+ - [https://www.hematology.org](https://www.hematology.org)
+ - date published: 2023-11-11T10:57:39.004357+00:00
+ - user: None
+ - tags: []
+
+## Pop Junctions: Reflections on Entertainment, Pop Culture, Activism, Media Literacy, Fandom and More
+ - [http://henryjenkins.org](http://henryjenkins.org)
+ - date published: 2024-04-03T06:38:49.837532+00:00
+ - user: None
+ - tags: []
+
+## hezmatt.org
+ - [https://www.hezmatt.org](https://www.hezmatt.org)
+ - date published: 2023-10-25T21:28:33.908256+00:00
+ - user: None
+ - tags: []
+
+## Home | AHA
+ - [https://www.historians.org](https://www.historians.org)
+ - date published: 2023-10-25T21:28:41.074702+00:00
+ - user: None
+ - tags: []
+
+## Web Hosting from HostPapa
+ - [https://www.historywiz.org](https://www.historywiz.org)
+ - date published: 2024-02-08T18:05:50.623678+00:00
+ - user: None
+ - tags: []
+
+## https://cme.h-its.org
+ - [https://cme.h-its.org](https://cme.h-its.org)
+ - date published: 2024-01-09T03:40:51.174343+00:00
+ - user: None
+ - tags: []
+
+## HLTV.org - The home of competitive Counter-Strike
+ - [https://www.hltv.org](https://www.hltv.org)
+ - date published: 2023-11-26T18:46:28.246706+00:00
+ - user: None
+ - tags: []
+
+## hmgs.org
+ - [https://www.hmgs.org](https://www.hmgs.org)
+ - date published: 2023-10-25T11:12:44.095189+00:00
+ - user: None
+ - tags: []
+
+## Hacker News RSS
+ - [https://hnrss.org](https://hnrss.org)
+ - date published: 2023-10-25T21:28:42.854542+00:00
+ - user: None
+ - tags: ['hacking news', 'tech news']
+
+## Honor Flight Nevada
+ - [https://www.honorflightnv.org](https://www.honorflightnv.org)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hoover Institution
+ - [https://www.hoover.org](https://www.hoover.org)
+ - date published: 2023-10-25T21:28:47.678884+00:00
+ - user: None
+ - tags: []
+
+## Johns Hopkins Medicine, based in Baltimore, Maryland
+ - [https://www.hopkinsmedicine.org](https://www.hopkinsmedicine.org)
+ - date published: 2023-10-25T21:28:49.403905+00:00
+ - user: None
+ - tags: []
+
+## Home | Humanitarian OpenStreetMap Team
+ - [https://www.hotosm.org](https://www.hotosm.org)
+ - date published: 2023-10-25T21:28:50.976793+00:00
+ - user: None
+ - tags: []
+
+## Houston Public Media
+ - [https://www.houstonpublicmedia.org](https://www.houstonpublicmedia.org)
+ - date published: 2023-11-28T01:41:11.168314+00:00
+ - user: None
+ - tags: []
+
+## Howardism
+ - [https://howardism.org](https://howardism.org)
+ - date published: 2023-10-25T21:28:53.869348+00:00
+ - user: None
+ - tags: []
+
+## HRDAG - Human Rights Data Analysis Group
+ - [https://hrdag.org](https://hrdag.org)
+ - date published: 2023-11-28T07:45:56+00:00
+ - user: None
+ - tags: ['organization']
+
+## Heart Research Institute UK • Donate to heart disease research charity • Heart Research Institute
+ - [https://www.hriuk.org](https://www.hriuk.org)
+ - date published: 2024-03-07T18:28:30.997182+00:00
+ - user: None
+ - tags: []
+
+## Human Rights Watch | Defending Human Rights Worldwide
+ - [https://www.hrw.org](https://www.hrw.org)
+ - date published: 2023-11-27T05:46:52.633414+00:00
+ - user: None
+ - tags: ['organization', 'human rights']
+
+## How to Design Programs
+ - [https://htdp.org](https://htdp.org)
+ - date published: 2023-10-25T21:28:54.381719+00:00
+ - user: None
+ - tags: []
+
+## HTML, the Programming Language
+ - [https://html-lang.org](https://html-lang.org)
+ - date published: 2023-12-04T16:57:24+00:00
+ - user: None
+ - tags: ['html', 'tutorial']
+
+## </> htmx - high power tools for html
+ - [https://htmx.org](https://htmx.org)
+ - date published: 2023-10-25T21:29:00.359686+00:00
+ - user: None
+ - tags: []
+
+## </> htmx - high power tools for html
+ - [https://v2-0v2-0.htmx.org](https://v2-0v2-0.htmx.org)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## HTTP Archive
  - [https://discuss.httparchive.org](https://discuss.httparchive.org)
  - date published: 2024-02-20T00:00:00+00:00
@@ -550,6 +1024,12 @@
  - user: None
  - tags: []
 
+## International Rivers | People, Water, Life
+ - [https://www.internationalrivers.org](https://www.internationalrivers.org)
+ - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Internet Hall of Fame: Celebrating Internet Visionaries
  - [https://www.internethalloffame.org](https://www.internethalloffame.org)
  - date published: 2024-04-01T00:00:00+00:00
@@ -861,7 +1341,7 @@ Welcome
  - [https://jewishcurrents.org](https://jewishcurrents.org)
  - date published: 2024-04-03T06:40:02.334368+00:00
  - user: None
- - tags: ['jewish news']
+ - tags: ['israel news']
 
 ## Home - JVP
  - [https://www.jewishvoiceforpeace.org](https://www.jewishvoiceforpeace.org)
@@ -1127,6 +1607,12 @@ Welcome
  - user: None
  - tags: []
 
+## Best JSON Formatter and JSON Validator: Online JSON Formatter
+ - [https://jsonformatter.org](https://jsonformatter.org)
+ - date published: 2024-04-05T13:59:41+00:00
+ - user: rumpel
+ - tags: ['online tool', 'pretty print']
+
 ## JSON-LD - JSON for Linking Data
  - [https://json-ld.org](https://json-ld.org)
  - date published: 2023-10-25T21:35:20.538149+00:00
@@ -1185,7 +1671,7 @@ Welcome
  - [https://www.jta.org](https://www.jta.org)
  - date published: 2023-11-21T01:59:22.551429+00:00
  - user: None
- - tags: ['israel']
+ - tags: ['israel news', 'israel']
 
 ## Juggling Lab
  - [https://jugglinglab.org](https://jugglinglab.org)
@@ -1502,16 +1988,16 @@ Hosted by Panix.com.
  - tags: []
 
 ## KEXP 90.3 FM - Where the Music Matters
- - [http://kexp.org](http://kexp.org)
- - date published: 2024-02-22T16:55:15.353701+00:00
- - user: None
- - tags: []
-
-## KEXP 90.3 FM - Where the Music Matters
  - [https://kexp.org](https://kexp.org)
  - date published: 2024-01-22T12:40:00+00:00
  - user: rumpel
  - tags: ['radio', 'music']
+
+## KEXP 90.3 FM - Where the Music Matters
+ - [http://kexp.org](http://kexp.org)
+ - date published: 2024-02-22T16:55:15.353701+00:00
+ - user: None
+ - tags: []
 
 ## Key to Harmony Online Al-Anon Meeting
  - [https://www.keytoharmony.org](https://www.keytoharmony.org)
@@ -2761,6 +3247,12 @@ Hosted by Panix.com.
  - user: None
  - tags: []
 
+## Measure of America: A Program of the Social Science Research Council
+ - [https://measureofamerica.org](https://measureofamerica.org)
+ - date published: 2024-04-05T18:56:37.951103+00:00
+ - user: None
+ - tags: []
+
 ## MECS Press
  - [https://www.mecs-press.org](https://www.mecs-press.org)
  - date published: 2024-03-03T14:00:43.953312+00:00
@@ -2948,16 +3440,16 @@ Hosted by Panix.com.
  - tags: []
 
 ## MHC Healthcare – Quality Healthcare with a Heart
- - [http://mhchealthcare.org](http://mhchealthcare.org)
- - date published: 2024-04-03T06:23:32.907036+00:00
- - user: None
- - tags: ['personal']
-
-## MHC Healthcare – Quality Healthcare with a Heart
  - [https://mhchealthcare.org](https://mhchealthcare.org)
  - date published: 2023-11-29T18:20:38.384729+00:00
  - user: None
  - tags: []
+
+## MHC Healthcare – Quality Healthcare with a Heart
+ - [http://mhchealthcare.org](http://mhchealthcare.org)
+ - date published: 2024-04-03T06:23:32.907036+00:00
+ - user: None
+ - tags: ['personal']
 
 ## https://www.michaeleisen.org
  - [https://www.michaeleisen.org](https://www.michaeleisen.org)
@@ -3192,16 +3684,16 @@ Common Weakness Enumeration
  - tags: []
 
 ## The Mod Archive v4.0b - A distinctive collection of modules
- - [https://modarchive.org](https://modarchive.org)
- - date published: 2023-10-28T19:01:07.809021+00:00
- - user: None
- - tags: ['chiptune', 'keygen', 'demoscene']
-
-## The Mod Archive v4.0b - A distinctive collection of modules
  - [http://modarchive.org](http://modarchive.org)
  - date published: 2024-02-15T01:59:58.310157+00:00
  - user: None
  - tags: []
+
+## The Mod Archive v4.0b - A distinctive collection of modules
+ - [https://modarchive.org](https://modarchive.org)
+ - date published: 2023-10-28T19:01:07.809021+00:00
+ - user: None
+ - tags: ['chiptune', 'keygen', 'demoscene']
 
 ## mojo.js - JavaScript real-time web framework
  - [https://mojojs.org](https://mojojs.org)
@@ -3563,6 +4055,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## Honda Winds Up a One-of-Kind Wind Tunnel
+ - [https://www.nam.org](https://www.nam.org)
+ - date published: 2024-04-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## From Nand to Tetris: Building a Modern Computer from First Principles
  - [https://www.nand2tetris.org](https://www.nand2tetris.org)
  - date published: 2023-12-22T15:31:59+00:00
@@ -3692,6 +4190,12 @@ Common Weakness Enumeration
 ## None
  - [https://www.ncset.org](https://www.ncset.org)
  - date published: 2024-02-08T17:36:05.398115+00:00
+ - user: None
+ - tags: []
+
+## Legislative News, Studies and Analysis | National Conference of State Legislatures
+ - [https://www.ncsl.org](https://www.ncsl.org)
+ - date published: 2024-04-05T18:54:22.813198+00:00
  - user: None
  - tags: []
 
@@ -5238,16 +5742,16 @@ Common Weakness Enumeration
  - tags: []
 
 ## Open RSS
- - [https://openrss.org](https://openrss.org)
- - date published: 2024-01-16T00:45:10.574589+00:00
- - user: None
- - tags: ['rss']
-
-## Open RSS
  - [http://openrss.org](http://openrss.org)
  - date published: 2024-02-26T09:41:50.635475+00:00
  - user: None
  - tags: []
+
+## Open RSS
+ - [https://openrss.org](https://openrss.org)
+ - date published: 2024-01-16T00:45:10.574589+00:00
+ - user: None
+ - tags: ['rss']
 
 ## A Grand Theft Auto III Re-Implementation
  - [https://openrw.org](https://openrw.org)
@@ -5316,16 +5820,16 @@ Common Weakness Enumeration
  - tags: ['open source']
 
 ## Open Source Research Institutue :: Main / HomePage
- - [https://opensourceresearchinstitute.org](https://opensourceresearchinstitute.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Open Source Research Institutue :: Main / HomePage
  - [http://opensourceresearchinstitute.org](http://opensourceresearchinstitute.org)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Open Source Research Institutue :: Main / HomePage
+ - [https://opensourceresearchinstitute.org](https://opensourceresearchinstitute.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## OpenSSF Best Practices Working Group (WG)
  - [https://best.openssf.org](https://best.openssf.org)
@@ -5499,510 +6003,6 @@ Common Weakness Enumeration
 ## Org Mode
  - [https://orgmode.org](https://orgmode.org)
  - date published: 2020-08-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Orion Magazine | Nature, Culture & Place
- - [https://orionmagazine.org](https://orionmagazine.org)
- - date published: 2023-10-25T21:54:59.353571+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.osborne-conant.org](https://www.osborne-conant.org)
- - date published: 2024-02-08T17:50:52.925851+00:00
- - user: None
- - tags: []
-
-## Orlando Science Center: A Hands-On Science Museum in Central Florida
- - [https://www.osc.org](https://www.osc.org)
- - date published: 2024-01-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Oscars.org | Academy of Motion Picture Arts and Sciences
- - [https://www.oscars.org](https://www.oscars.org)
- - date published: 2024-01-12T21:10:31+00:00
- - user: rumpel
- - tags: ['oscars']
-
-## Expanded Main Page - OSDev Wiki
- - [https://wiki.osdev.org](https://wiki.osdev.org)
- - date published: 2023-12-26T20:32:40.382941+00:00
- - user: None
- - tags: []
-
-## Rod's Slide Rules
- - [https://osgalleries.org](https://osgalleries.org)
- - date published: 2023-10-25T21:55:08.267829+00:00
- - user: None
- - tags: []
-
-## OS.js Web Desktop
- - [https://www.os-js.org](https://www.os-js.org)
- - date published: 2023-10-25T21:55:06.625725+00:00
- - user: None
- - tags: []
-
-## Osmapp – A Universal OpenStreetMap App
- - [https://osmapp.org](https://osmapp.org)
- - date published: 2023-12-28T17:05:25+00:00
- - user: None
- - tags: []
-
-## OSM Buildings
- - [https://osmbuildings.org](https://osmbuildings.org)
- - date published: 2023-12-24T08:15:03+00:00
- - user: rumpel
- - tags: ['service maps']
-
-## Open Source Mobile Communications
- - [https://projects.osmocom.org](https://projects.osmocom.org)
- - date published: 2023-10-25T21:55:10.623342+00:00
- - user: None
- - tags: []
-
-## Open Source Robotics Alliance: New Funding and Governance Model for ROS / Gazebo
- - [https://osralliance.org](https://osralliance.org)
- - date published: 2024-03-18T22:29:46+00:00
- - user: None
- - tags: []
-
-## Welcome to the Open Source Seed Initiative - Open Source Seed Initiative
- - [https://osseeds.org](https://osseeds.org)
- - date published: 2023-10-25T21:55:13.834590+00:00
- - user: None
- - tags: []
-
-## Show HN: Open-source alternatives to tools You pay for
- - [https://osssoftware.org](https://osssoftware.org)
- - date published: 2023-12-09T01:14:37+00:00
- - user: None
- - tags: []
-
-## Our World in Data
- - [https://ourworldindata.org](https://ourworldindata.org)
- - date published: 2023-10-25T21:55:14.796544+00:00
- - user: None
- - tags: ['data', 'statistics']
-
-## Avatar - Home Page
- - [https://www.outland.org](https://www.outland.org)
- - date published: 2024-03-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## We support journalism and multimedia storytelling about nuclear issues and climate change
- - [https://outrider.org](https://outrider.org)
- - date published: 2024-03-18T05:38:33.903336+00:00
- - user: None
- - tags: []
-
-## Earth Overshoot Day home - #MoveTheDate
- - [https://www.overshootday.org](https://www.overshootday.org)
- - date published: 2023-10-25T21:55:21.472858+00:00
- - user: None
- - tags: []
-
-## https://overthewire.org
- - [https://overthewire.org](https://overthewire.org)
- - date published: 2024-01-09T03:41:57.489375+00:00
- - user: None
- - tags: []
-
-## Overture Maps Foundation – Linux Foundation Project
- - [https://overturemaps.org](https://overturemaps.org)
- - date published: 2023-10-25T21:55:23.960595+00:00
- - user: None
- - tags: []
-
-## OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation
- - [https://owasp.org](https://owasp.org)
- - date published: 2023-10-25T21:55:25.406620+00:00
- - user: None
- - tags: ['security', 'cybersecurity']
-
-## Owl’s Portfolio
- - [https://www.owlfolio.org](https://www.owlfolio.org)
- - date published: 2023-10-25T21:55:28.509100+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.oxamyne.org](https://www.oxamyne.org)
- - date published: 2023-12-11T16:12:55.572072+00:00
- - user: None
- - tags: []
-
-## Home - Oxfam Policy & Practice
- - [https://policy-practice.oxfam.org](https://policy-practice.oxfam.org)
- - date published: 2024-02-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## The future is equal | Oxfam International
- - [https://www.oxfam.org](https://www.oxfam.org)
- - date published: 2023-10-25T21:55:30.733555+00:00
- - user: None
- - tags: []
-
-## Oxford American | Home
- - [https://main.oxfordamerican.org](https://main.oxfordamerican.org)
- - date published: 2023-10-25T21:55:33.395856+00:00
- - user: None
- - tags: []
-
-## Oxford American | Home
- - [https://oxfordamerican.org](https://oxfordamerican.org)
- - date published: 2023-10-25T21:55:35.228196+00:00
- - user: None
- - tags: []
-
-## Home | p2panda
- - [https://p2panda.org](https://p2panda.org)
- - date published: 2023-10-25T21:55:36.083870+00:00
- - user: None
- - tags: []
-
-## Hummus and Magnets
- - [https://h14s.p5r.org](https://h14s.p5r.org)
- - date published: 2023-10-25T21:55:43.963463+00:00
- - user: None
- - tags: []
-
-## pablotron.org
- - [https://pablotron.org](https://pablotron.org)
- - date published: 2023-10-25T21:55:47.144745+00:00
- - user: None
- - tags: []
-
-## PackagingCon 2023
- - [https://packaging-con.org](https://packaging-con.org)
- - date published: 2023-10-25T21:55:54.179386+00:00
- - user: None
- - tags: []
-
-## Welcome to the Population Approach Group in Europe
- - [https://www.page-meeting.org](https://www.page-meeting.org)
- - date published: 2024-02-08T16:45:08.680893+00:00
- - user: None
- - tags: []
-
-## Show HN: Pages CMS – A CMS for GitHub
- - [https://pagescms.org](https://pagescms.org)
- - date published: 2024-02-22T13:58:03+00:00
- - user: None
- - tags: []
-
-## The Palaeontological Association | Reg. Charity No. 1168330
- - [https://www.palass.org](https://www.palass.org)
- - date published: 2023-10-25T11:25:34.390632+00:00
- - user: None
- - tags: []
-
-## pamela fox's blog
- - [https://blog.pamelafox.org](https://blog.pamelafox.org)
- - date published: 2023-10-25T21:55:58.273502+00:00
- - user: None
- - tags: []
-
-## Pandemic Resilience Roadmap
- - [https://www.pandemictesting.org](https://www.pandemictesting.org)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pandoc - index
- - [https://pandoc.org](https://pandoc.org)
- - date published: 2023-10-25T21:55:59.781435+00:00
- - user: None
- - tags: []
-
-## Home | Panoptykon Foundation
- - [https://en.panoptykon.org](https://en.panoptykon.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['surveillance']
-
-## Strona główna | Fundacja Panoptykon
- - [https://panoptykon.org](https://panoptykon.org)
- - date published: 2023-10-25T21:56:01.636917+00:00
- - user: None
- - tags: ['surveillance']
-
-## Papers, Please! – The Identity Project
- - [https://papersplease.org](https://papersplease.org)
- - date published: 2023-10-25T21:56:07.417099+00:00
- - user: None
- - tags: []
-
-## paredit — parenthetical editing in Emacs
- - [https://paredit.org](https://paredit.org)
- - date published: 2023-10-25T21:56:08.422643+00:00
- - user: None
- - tags: []
-
-## Welcome!
- - [https://parentheticallyspeaking.org](https://parentheticallyspeaking.org)
- - date published: 2023-10-25T21:56:09.143442+00:00
- - user: None
- - tags: []
-
-## parsonsmatt.org
- - [https://www.parsonsmatt.org](https://www.parsonsmatt.org)
- - date published: 2023-10-25T21:56:09.832668+00:00
- - user: None
- - tags: []
-
-## Projects | Patchew
- - [https://patchew.org](https://patchew.org)
- - date published: 2024-03-28T20:27:49.825345+00:00
- - user: None
- - tags: []
-
-## PATL
- - [https://patl.org](https://patl.org)
- - date published: 2023-12-11T16:19:08.247036+00:00
- - user: None
- - tags: []
-
-## Patrick T. Brown, PhD | It’s easy to construct a persuasive argument, it’s much more difficult to figure out the truth…
- - [https://patricktbrown.org](https://patricktbrown.org)
- - date published: 2023-10-25T21:56:15.510577+00:00
- - user: None
- - tags: []
-
-## Paul Butler
- - [https://paulbutler.org](https://paulbutler.org)
- - date published: 2024-03-03T17:40:37.957621+00:00
- - user: None
- - tags: ['personal']
-
-## Paul Miller – Don't panic
- - [https://paulmiller.org](https://paulmiller.org)
- - date published: 2024-02-12T16:24:57.717444+00:00
- - user: None
- - tags: ['personal']
-
-## Andrew Payne | payne.org
- - [https://payne.org](https://payne.org)
- - date published: 2023-10-25T21:56:16.509535+00:00
- - user: None
- - tags: []
-
-## Physically Based Rendering: From Theory to Implementation
- - [https://pbr-book.org](https://pbr-book.org)
- - date published: 2023-11-02T10:40:48.951509+00:00
- - user: None
- - tags: []
-
-## PBS: Public Broadcasting Service
- - [https://www.pbs.org](https://www.pbs.org)
- - date published: 2023-10-25T10:24:08.998645+00:00
- - user: None
- - tags: []
-
-## PBS North Carolina
- - [https://www.pbsnc.org](https://www.pbsnc.org)
- - date published: 2023-11-19T19:54:33.463328+00:00
- - user: None
- - tags: []
-
-## PCG, A Family of Better Random Number Generators | PCG, A Better Random Number Generator
- - [https://www.pcg-random.org](https://www.pcg-random.org)
- - date published: 2023-10-25T21:56:20.672047+00:00
- - user: None
- - tags: []
-
-## PCjs Machines
- - [https://www.pcjs.org](https://www.pcjs.org)
- - date published: 2023-10-25T21:56:26.849904+00:00
- - user: None
- - tags: []
-
-## Physicians Committee for Responsible Medicine
- - [https://www.pcrm.org](https://www.pcrm.org)
- - date published: 2024-03-30T10:22:24.297095+00:00
- - user: None
- - tags: []
-
-## PDF Association – Home of the worldwide PDF technical community
- - [https://pdfa.org](https://pdfa.org)
- - date published: 2024-02-26T09:45:19.418694+00:00
- - user: None
- - tags: []
-
-## PDF Association – Home of the worldwide PDF technical community
- - [https://www.pdfa.org](https://www.pdfa.org)
- - date published: 2023-10-25T21:56:35.310113+00:00
- - user: None
- - tags: []
-
-## pdfgrep
- - [https://pdfgrep.org](https://pdfgrep.org)
- - date published: 2023-10-25T21:56:36.063095+00:00
- - user: None
- - tags: []
-
-## PDFTool: secure and seamless online PDF modifications
- - [https://www.pdftool.org](https://www.pdftool.org)
- - date published: 2023-10-25T21:56:37.161684+00:00
- - user: None
- - tags: []
-
-## Public Domain Operating System
- - [https://www.pdos.org](https://www.pdos.org)
- - date published: 2023-10-25T21:56:39.058423+00:00
- - user: None
- - tags: []
-
-## Peergos
- - [https://peergos.org](https://peergos.org)
- - date published: 2023-11-13T14:19:22.688197+00:00
- - user: None
- - tags: []
-
-## Pellucidar: The Burroughs Website from the Earth's Core
- - [https://www.pellucidar.org](https://www.pellucidar.org)
- - date published: 2024-02-08T16:21:16.817109+00:00
- - user: None
- - tags: []
-
-## PEN America
- - [https://pen.org](https://pen.org)
- - date published: 2023-10-25T21:56:42.955186+00:00
- - user: None
- - tags: []
-
-## https://www.pennmedicine.org
- - [https://www.pennmedicine.org](https://www.pennmedicine.org)
- - date published: 2023-11-08T17:46:33.639957+00:00
- - user: None
- - tags: []
-
-## Social Care | The People's Care Watchdog
- - [https://www.peoplescarewatchdog.org](https://www.peoplescarewatchdog.org)
- - date published: 2024-02-24T14:23:59.980894+00:00
- - user: None
- - tags: []
-
-## People's World
- - [https://peoplesworld.org](https://peoplesworld.org)
- - date published: 2023-11-04T02:47:57.842267+00:00
- - user: None
- - tags: []
-
-## People's World
- - [https://www.peoplesworld.org](https://www.peoplesworld.org)
- - date published: 2024-04-01T23:50:11.059748+00:00
- - user: None
- - tags: []
-
-## blogs.perl.org — blogging the onion
- - [https://blogs.perl.org](https://blogs.perl.org)
- - date published: 2023-10-25T21:56:44.273665+00:00
- - user: None
- - tags: []
-
-## Perl Documentation - Perldoc Browser
- - [https://perldoc.perl.org](https://perldoc.perl.org)
- - date published: 2023-10-25T21:56:51.003512+00:00
- - user: None
- - tags: []
-
-## The Perl Programming Language - www.perl.org
- - [https://www.perl.org](https://www.perl.org)
- - date published: 2024-04-04T11:23:25+00:00
- - user: rumpel
- - tags: ['programming language']
-
-## The Perl Foundation News
- - [https://news.perlfoundation.org](https://news.perlfoundation.org)
- - date published: 2023-10-25T21:56:58.087141+00:00
- - user: None
- - tags: []
-
-## Discover plants, swap seeds, plan gardens, share knowledge
- - [https://permapeople.org](https://permapeople.org)
- - date published: 2023-11-10T20:31:47+00:00
- - user: None
- - tags: []
-
-## Aiding the Persecuted Church
- - [https://www.persecution.org](https://www.persecution.org)
- - date published: 2023-11-27T12:13:05+00:00
- - user: rumpel
- - tags: ['catholicism', 'religion', 'christianity', 'persecution']
-
-## Pessimists Archive Newsletter | Substack
- - [https://newsletter.pessimistsarchive.org](https://newsletter.pessimistsarchive.org)
- - date published: 2023-10-25T21:57:00.476125+00:00
- - user: None
- - tags: []
-
-## Pessimists Archive
- - [https://pessimistsarchive.org](https://pessimistsarchive.org)
- - date published: 2023-11-04T23:05:27+00:00
- - user: None
- - tags: []
-
-## Peter Krautzberger
- - [https://www.peterkrautzberger.org](https://www.peterkrautzberger.org)
- - date published: 2024-01-26T02:22:06.209671+00:00
- - user: None
- - tags: []
-
-## PeterSmith.org
- - [https://petersmith.org](https://petersmith.org)
- - date published: 2024-04-03T12:48:39.127014+00:00
- - user: None
- - tags: ['personal']
-
-## People for the Ethical Treatment of Reinforcement Learners
- - [https://petrl.org](https://petrl.org)
- - date published: 2024-01-09T03:41:58.419634+00:00
- - user: None
- - tags: []
-
-## Pew Research Center | Nonpartisan, nonadvocacy, public opinion polling and data-driven social science research | Pew Research Center
- - [https://www.pewresearch.org](https://www.pewresearch.org)
- - date published: 2023-10-25T21:57:05.064047+00:00
- - user: None
- - tags: []
-
-## Simon Peyton Jones - Simon Peyton Jones
- - [https://simon.peytonjones.org](https://simon.peytonjones.org)
- - date published: 2023-10-25T21:57:06.231617+00:00
- - user: None
- - tags: []
-
-## The Post-Finasteride Syndrome Foundation – Dedicated to supporting research and finding treatments for PFS patients worldwide.
- - [https://www.pfsfoundation.org](https://www.pfsfoundation.org)
- - date published: 2024-03-17T11:41:08.128875+00:00
- - user: None
- - tags: []
-
-## pgAdmin - PostgreSQL Tools
- - [https://www.pgadmin.org](https://www.pgadmin.org)
- - date published: 2023-11-29T10:39:05.596079+00:00
- - user: None
- - tags: []
-
-## Postgres Lock Conflicts
- - [https://pglocks.org](https://pglocks.org)
- - date published: 2023-10-25T21:57:06.888982+00:00
- - user: None
- - tags: []
-
-## Pharo - Welcome to Pharo!
- - [https://pharo.org](https://pharo.org)
- - date published: 2023-10-25T21:57:07.584972+00:00
- - user: None
- - tags: []
-
-## Philanthropy News Digest
- - [https://philanthropynewsdigest.org](https://philanthropynewsdigest.org)
- - date published: 2023-10-25T21:57:14.951406+00:00
  - user: None
  - tags: []
 

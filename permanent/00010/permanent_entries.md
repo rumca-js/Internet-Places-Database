@@ -1,3 +1,190 @@
+## Nick Montfort’s site
+ - [https://nickm.com](https://nickm.com)
+ - date published: 2023-12-17T22:23:31.204427+00:00
+ - user: None
+ - tags: []
+
+## Nick Olinger's blog | Software Engineer
+ - [https://nickolinger.com](https://nickolinger.com)
+ - date published: 2023-10-25T16:19:01.749061+00:00
+ - user: None
+ - tags: []
+
+## The Cusp
+ - [https://nicksaraev.com](https://nicksaraev.com)
+ - date published: 2023-10-25T16:19:03.290919+00:00
+ - user: None
+ - tags: []
+
+## Nick Simson – Yet another personal feed.
+ - [https://www.nicksimson.com](https://www.nicksimson.com)
+ - date published: 2024-01-27T17:53:44.094931+00:00
+ - user: None
+ - tags: []
+
+## Nick Sweeney
+ - [https://nicksweeney.com](https://nicksweeney.com)
+ - date published: 2013-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nick Vitucci
+ - [https://nickvitucci.com](https://nickvitucci.com)
+ - date published: 2023-12-12T23:22:51.342722+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nick vs Networking | Telco Network Engineering
+ - [https://nickvsnetworking.com](https://nickvsnetworking.com)
+ - date published: 2023-10-25T16:19:06.491677+00:00
+ - user: None
+ - tags: []
+
+## Nicola Iarocci
+ - [https://nicolaiarocci.com](https://nicolaiarocci.com)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## nicola rushton - Product Designer
+ - [https://nicolarushton.com](https://nicolarushton.com)
+ - date published: 2024-01-09T02:44:58.408245+00:00
+ - user: None
+ - tags: ['personal']
+
+## nicola rushton - Product Designer
+ - [http://nicolarushton.com](http://nicolarushton.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Chronique d'Humeur de Nicolas Bermond 2005 – 2023 – Perspective
+ - [https://nicolas-bermond.com](https://nicolas-bermond.com)
+ - date published: 2024-01-09T08:53:40.855526+00:00
+ - user: None
+ - tags: []
+
+## Nicolas Bouliane
+ - [https://nicolasbouliane.com](https://nicolasbouliane.com)
+ - date published: 2023-10-25T16:19:07.747473+00:00
+ - user: None
+ - tags: []
+
+## Nicolas Bustamante | Substack
+ - [https://www.nicolasbustamante.com](https://www.nicolasbustamante.com)
+ - date published: 2023-10-25T16:19:09.861526+00:00
+ - user: None
+ - tags: []
+
+## Nicolas Collins
+ - [https://www.nicolascollins.com](https://www.nicolascollins.com)
+ - date published: 2023-10-25T16:19:16.764375+00:00
+ - user: None
+ - tags: []
+
+## Nicole Fu
+ - [https://nicolefu.com](https://nicolefu.com)
+ - date published: 2023-11-17T07:31:48.682236+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nicollet Investment Management
+ - [https://www.nicolletinvest.com](https://www.nicolletinvest.com)
+ - date published: 2023-10-25T16:19:18.473199+00:00
+ - user: None
+ - tags: []
+
+## nicolodavis.com
+ - [https://nicolodavis.com](https://nicolodavis.com)
+ - date published: 2023-10-25T16:19:20.241031+00:00
+ - user: None
+ - tags: []
+
+## Intelligent Investment Research - Nicoya Research
+ - [https://nicoyaresearch.com](https://nicoyaresearch.com)
+ - date published: 2023-10-25T16:19:22.899131+00:00
+ - user: None
+ - tags: []
+
+## Amanda Rose Gibson – Oregon Art Teacher – Portland Area
+ - [http://nicperry.com](http://nicperry.com)
+ - date published: 2023-11-29T14:24:08.326174+00:00
+ - user: None
+ - tags: ['personal']
+
+## http://nielsenhayden.com
+ - [http://nielsenhayden.com](http://nielsenhayden.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## nigamanth.com
+ - [https://www.nigamanth.com](https://www.nigamanth.com)
+ - date published: 2023-10-25T16:19:26.052125+00:00
+ - user: None
+ - tags: []
+
+## Nigel Rankin is coming soon
+ - [https://nigelrankin.com](https://nigelrankin.com)
+ - date published: 2023-12-02T10:26:29.150929+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://www.nigerienne-automobile.com](https://www.nigerienne-automobile.com)
+ - date published: 2023-12-11T15:57:45.781918+00:00
+ - user: None
+ - tags: []
+
+## Nightingale - Home
+ - [https://nightingaledvs.com](https://nightingaledvs.com)
+ - date published: 2023-10-25T16:19:50.390330+00:00
+ - user: None
+ - tags: []
+
+## NIGHTWISH :||: Official Website
+ - [https://www.nightwish.com](https://www.nightwish.com)
+ - date published: 2023-11-13T11:10:15.457559+00:00
+ - user: None
+ - tags: ['music band']
+
+## Artium Nihamkin's Blog
+ - [http://www.nihamkin.com](http://www.nihamkin.com)
+ - date published: 2023-10-25T16:19:55.061448+00:00
+ - user: None
+ - tags: []
+
+## nihar's page on the internet
+ - [https://nihars.com](https://nihars.com)
+ - date published: 2023-11-29T13:53:47.500938+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nihongo Lessons: Learn Japanese more efficiently than ever
+ - [https://lessons.nihongo-app.com](https://lessons.nihongo-app.com)
+ - date published: 2023-10-25T16:19:56.516233+00:00
+ - user: None
+ - tags: []
+
+## Nikhil Thota: Writing, Code, Newsletter, and More
+ - [https://nikhilthota.com](https://nikhilthota.com)
+ - date published: 2024-04-03T12:46:41.512746+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nikkei Asia
+                            - Business, Politics, Economy and Tech News & Analysis
+ - [https://asia.nikkei.com](https://asia.nikkei.com)
+ - date published: 2023-10-25T10:41:13.768215+00:00
+ - user: None
+ - tags: ['china news', 'india news']
+
+## https://info.asia.nikkei.com
+ - [https://info.asia.nikkei.com](https://info.asia.nikkei.com)
+ - date published: 2023-12-12T09:09:24.688480+00:00
+ - user: None
+ - tags: []
+
 ## 日経マーケティングポータル | 日本経済新聞社のメディアマーケティング、ソリューションサービス
  - [https://marketing.nikkei.com](https://marketing.nikkei.com)
  - date published: 2023-12-12T09:08:25.578470+00:00
@@ -581,13 +768,13 @@
  - tags: []
 
 ## Peter Norvig
- - [https://www.norvig.com](https://www.norvig.com)
+ - [http://www.norvig.com](http://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Peter Norvig
- - [http://www.norvig.com](http://www.norvig.com)
+ - [https://www.norvig.com](https://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -635,14 +822,14 @@
  - tags: []
 
 ## Notes & Photos
- - [https://www.notesandphotos.com](https://www.notesandphotos.com)
- - date published: 2023-12-20T21:30:54.650783+00:00
+ - [http://www.notesandphotos.com](http://www.notesandphotos.com)
+ - date published: 2024-04-03T12:46:22.033917+00:00
  - user: None
  - tags: ['personal']
 
 ## Notes & Photos
- - [http://www.notesandphotos.com](http://www.notesandphotos.com)
- - date published: 2024-04-03T12:46:22.033917+00:00
+ - [https://www.notesandphotos.com](https://www.notesandphotos.com)
+ - date published: 2023-12-20T21:30:54.650783+00:00
  - user: None
  - tags: ['personal']
 
@@ -751,6 +938,12 @@
 ## Nourish Your Mind – Your Personal Guide to Optimal Health
  - [https://nourishyourmind.com](https://nourishyourmind.com)
  - date published: 2023-12-30T10:51:26.177146+00:00
+ - user: None
+ - tags: []
+
+## world_sim: LLM prompted to act as a sentient CLI universe simulator
+ - [https://worldsim.nousresearch.com](https://worldsim.nousresearch.com)
+ - date published: 2024-04-05T21:55:01+00:00
  - user: None
  - tags: []
 
@@ -1015,6 +1208,12 @@ Answering Machine Greetings!
  - date published: 2023-10-25T16:23:37.700057+00:00
  - user: None
  - tags: []
+
+## Spectrum News NY1 | New York City
+ - [https://ny1.com](https://ny1.com)
+ - date published: 2024-04-05T15:04:22.566250+00:00
+ - user: None
+ - tags: ['new york news']
 
 ## Home | The New York Review of Books
  - [https://www.nybooks.com](https://www.nybooks.com)
@@ -1393,6 +1592,12 @@ Answering Machine Greetings!
  - date published: 2023-11-29T15:47:08.578315+00:00
  - user: None
  - tags: ['personal']
+
+## Oh No Robot: Comics search
+ - [https://www.ohnorobot.com](https://www.ohnorobot.com)
+ - date published: 2024-04-04T11:21:04+00:00
+ - user: None
+ - tags: []
 
 ## Crude Oil Prices Today | OilPrice.com
  - [https://oilprice.com](https://oilprice.com)
@@ -2487,6 +2692,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Midland Daily News: Midland MI News, Sports and Opinion
+ - [https://www.ourmidland.com](https://www.ourmidland.com)
+ - date published: 2024-04-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## OurNows: One page overview of what are you doing these days
  - [https://ournows.com](https://ournows.com)
  - date published: 2024-01-15T02:46:12.918819+00:00
@@ -3082,16 +3293,16 @@ Answering Machine Greetings!
  - tags: ['personal']
 
 ## Paperlike | Official Online Store
- - [http://paperlike.com](http://paperlike.com)
- - date published: 2024-02-24T09:57:05.617898+00:00
- - user: None
- - tags: ['screen protector']
-
-## Paperlike | Official Online Store
  - [https://paperlike.com](https://paperlike.com)
  - date published: 2024-03-07T19:36:45.060837+00:00
  - user: None
  - tags: []
+
+## Paperlike | Official Online Store
+ - [http://paperlike.com](http://paperlike.com)
+ - date published: 2024-02-24T09:57:05.617898+00:00
+ - user: None
+ - tags: ['screen protector']
 
 ## Paperpile Reference Manager
  - [https://paperpile.com](https://paperpile.com)
@@ -3357,17 +3568,17 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
-## Home — Patreon
- - [http://www.patreon.com](http://www.patreon.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Max  FitzGerald  | Patreon
  - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
  - date published: 2023-10-27T15:07:52+00:00
  - user: rumpel
  - tags: ['turnip28', 'tabletop games']
+
+## Home — Patreon
+ - [http://www.patreon.com](http://www.patreon.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Home — Patreon
  - [https://www.patreon.com](https://www.patreon.com)
@@ -4282,13 +4493,13 @@ Answering Machine Greetings!
  - tags: []
 
 ## Paul's Dev Notes
- - [https://www.pfrazee.com](https://www.pfrazee.com)
+ - [http://www.pfrazee.com](http://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Paul's Dev Notes
- - [http://www.pfrazee.com](http://www.pfrazee.com)
+ - [https://www.pfrazee.com](https://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -4659,6 +4870,12 @@ Answering Machine Greetings!
 ## EEG channels with low-cost PiEEG device
  - [https://pieeg.com](https://pieeg.com)
  - date published: 2024-03-29T19:49:51+00:00
+ - user: None
+ - tags: []
+
+## Pierce Manufacturing | Custom Fire Trucks, Apparatus & Innovations
+ - [https://www.piercemfg.com](https://www.piercemfg.com)
+ - date published: 2024-04-05T18:55:43.098196+00:00
  - user: None
  - tags: []
 
@@ -5787,222 +6004,6 @@ Answering Machine Greetings!
 ## mailman.powerdns.com Mailing Lists
  - [https://mailman.powerdns.com](https://mailman.powerdns.com)
  - date published: 2023-11-01T08:42:56.060079+00:00
- - user: None
- - tags: []
-
-## Power Industry And Energy News | Power Engineering
- - [https://www.power-eng.com](https://www.power-eng.com)
- - date published: 2023-10-25T16:38:51.262181+00:00
- - user: None
- - tags: []
-
-## Powerglove | Video Game and TV Theme Speed Metal Band!
- - [https://www.powergloveband.com](https://www.powergloveband.com)
- - date published: 2023-11-13T11:20:05.304896+00:00
- - user: None
- - tags: ['music band']
-
-## POWER Magazine :: Power generation news and jobs in coal, gas, nuclear, renewables
- - [https://www.powermag.com](https://www.powermag.com)
- - date published: 2023-12-20T20:45:05.389832+00:00
- - user: None
- - tags: []
-
-## Power Moby-Dick, the Online Annotation
- - [https://www.powermobydick.com](https://www.powermobydick.com)
- - date published: 2024-01-06T15:25:09.104106+00:00
- - user: None
- - tags: []
-
-## PowerNation TV
- - [https://www.powernationtv.com](https://www.powernationtv.com)
- - date published: 2024-03-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Power Technology | News on Renewable, Nuclear, Fossil, Technology, Market Data
- - [https://www.power-technology.com](https://www.power-technology.com)
- - date published: 2023-10-25T16:38:54.438081+00:00
- - user: None
- - tags: []
-
-## Poznańskie Kolędowanie
- - [https://poznanskiekoledowanie.com](https://poznanskiekoledowanie.com)
- - date published: 2023-12-28T11:23:42+00:00
- - user: rumpel
- - tags: ['christmas']
-
-## Prabros. - Maker Duo
- - [https://prabros.com](https://prabros.com)
- - date published: 2023-10-25T16:38:55.357789+00:00
- - user: None
- - tags: []
-
-## Practical betterments
- - [https://practicalbetterments.com](https://practicalbetterments.com)
- - date published: 2023-11-06T16:16:52.692314+00:00
- - user: None
- - tags: []
-
-## Practical Self Reliance – Your Practical Guide To Self Reliant Living
- - [https://practicalselfreliance.com](https://practicalselfreliance.com)
- - date published: 2023-10-25T16:38:58.139254+00:00
- - user: None
- - tags: []
-
-## Butterick’s Practical Typography
- - [https://practicaltypography.com](https://practicaltypography.com)
- - date published: 2023-10-25T16:39:01.191915+00:00
- - user: None
- - tags: []
-
-## Practicing Developer
- - [https://practicingdeveloper.com](https://practicingdeveloper.com)
- - date published: 2023-12-30T15:38:05.444569+00:00
- - user: None
- - tags: ['personal']
-
-## The Pragmatic Engineer - The Pragmatic Engineer
- - [https://blog.pragmaticengineer.com](https://blog.pragmaticengineer.com)
- - date published: 2023-10-25T16:39:04.240221+00:00
- - user: None
- - tags: []
-
-## The Pragmatic Engineer | Gergely Orosz | Substack
- - [https://newsletter.pragmaticengineer.com](https://newsletter.pragmaticengineer.com)
- - date published: 2023-10-25T16:39:06.934231+00:00
- - user: None
- - tags: []
-
-## Reaction Diffusion
- - [https://www.prajwalb.com](https://www.prajwalb.com)
- - date published: 2024-01-10T23:52:44.132520+00:00
- - user: None
- - tags: []
-
-## Prakhar Gupta - Home
- - [https://prakgupta.com](https://prakgupta.com)
- - date published: 2023-11-17T07:14:25.973919+00:00
- - user: None
- - tags: []
-
-## Introduction | Pranay Prateek
- - [https://pranay01.com](https://pranay01.com)
- - date published: 2024-01-13T04:53:16.090647+00:00
- - user: None
- - tags: []
-
-## Data Stories, by Pranshu
- - [https://yarn.pranshum.com](https://yarn.pranshum.com)
- - date published: 2023-10-25T16:39:07.583629+00:00
- - user: None
- - tags: []
-
-## Pravda EN
- - [https://pravda-en.com](https://pravda-en.com)
- - date published: 2023-12-26T14:55:54.232333+00:00
- - user: None
- - tags: []
-
-## About me - Pravesh Koirala
- - [https://praveshkoirala.com](https://praveshkoirala.com)
- - date published: 2023-10-25T16:39:09.571981+00:00
- - user: None
- - tags: []
-
-## Precursor—fast prototyping web app, makes collaboration easy.
- - [https://precursorapp.com](https://precursorapp.com)
- - date published: 2023-10-25T16:39:10.908990+00:00
- - user: None
- - tags: []
-
-## Predictable Designs is where electronics and entrepreneurship intersect
- - [https://predictabledesigns.com](https://predictabledesigns.com)
- - date published: 2023-10-25T16:39:14.616428+00:00
- - user: None
- - tags: []
-
-## @preethamrn - Preetham
- - [https://www.preethamrn.com](https://www.preethamrn.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Preferred Airparts, LLC - New Surplus and Used Aircraft Parts
- - [https://www.preferredairparts.com](https://www.preferredairparts.com)
- - date published: 2024-02-08T22:10:37.837839+00:00
- - user: None
- - tags: []
-
-## Prerna Pradeep
- - [http://www.prernapradeep.com](http://www.prernapradeep.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Presearch
- - [https://presearch.com](https://presearch.com)
- - date published: 2024-03-06T13:27:12+00:00
- - user: rumpel
- - tags: ['search engine']
-
-## Present&Correct – SUNDRIES FOR THE MODERN WORKSPACE
- - [http://blog.presentandcorrect.com](http://blog.presentandcorrect.com)
- - date published: 2023-10-25T16:39:22.105057+00:00
- - user: None
- - tags: []
-
-## Preshing on Programming
- - [https://preshing.com](https://preshing.com)
- - date published: 2023-10-25T16:39:24.657091+00:00
- - user: None
- - tags: []
-
-## Preshing on Programming
- - [http://preshing.com](http://preshing.com)
- - date published: 2021-03-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## PreSonus Software
- - [https://www.presonussoftware.com](https://www.presonussoftware.com)
- - date published: 2023-11-27T01:06:49.801011+00:00
- - user: None
- - tags: []
-
-## Shaun Gallagher - Author, Software Engineer, Fast Typer
- - [https://shaungallagher.pressbin.com](https://shaungallagher.pressbin.com)
- - date published: 2023-11-04T13:47:28.938025+00:00
- - user: None
- - tags: []
-
-## https://www.pressdemocrat.com
- - [https://www.pressdemocrat.com](https://www.pressdemocrat.com)
- - date published: 2023-11-01T08:42:56.938211+00:00
- - user: None
- - tags: []
-
-## Press Enterprise
- - [https://www.pressenterprise.com](https://www.pressenterprise.com)
- - date published: 2023-12-08T17:29:18.211069+00:00
- - user: None
- - tags: []
-
-## The Portland Press Herald - Maine Sunday Telegram
- - [https://www.pressherald.com](https://www.pressherald.com)
- - date published: 2023-10-25T16:39:39.509064+00:00
- - user: None
- - tags: []
-
-## Prestissimo Media
- - [https://prestissimo-guitar.com](https://prestissimo-guitar.com)
- - date published: 2023-12-03T23:31:18.327725+00:00
- - user: None
- - tags: ['personal']
-
-## Prestissimo Media
- - [http://prestissimo-guitar.com](http://prestissimo-guitar.com)
- - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

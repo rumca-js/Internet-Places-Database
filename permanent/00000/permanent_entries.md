@@ -62,7 +62,7 @@
  - [https://humaidq.ae](https://humaidq.ae)
  - date published: 2023-12-20T11:45:17.376653+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Welcome – Thomann United Arab Emirates
  - [https://www.thomann.ae](https://www.thomann.ae)
@@ -1283,13 +1283,13 @@
  - tags: []
 
 ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## http://hello.pi.ai/
- - [http://hello.pi.ai](http://hello.pi.ai)
+ - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -3091,6 +3091,12 @@
 ## SignTime
  - [https://www.signtime.apple](https://www.signtime.apple)
  - date published: 2023-10-25T11:51:39.950397+00:00
+ - user: None
+ - tags: []
+
+## nihar's page on the internet
+ - [https://nih.ar](https://nih.ar)
+ - date published: 2023-09-16T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5990,12 +5996,6 @@
 ## BNN Bloomberg - Canadian Business News, TSX Today, interest rates and Bank of Canada coverage
  - [https://www.bnnbloomberg.ca](https://www.bnnbloomberg.ca)
  - date published: 2023-10-25T12:03:55.221507+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.borden-carleton.ca](https://www.borden-carleton.ca)
- - date published: 2024-01-15T00:00:00+00:00
  - user: None
  - tags: []
 

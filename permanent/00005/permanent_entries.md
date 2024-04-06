@@ -1,3 +1,63 @@
+## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
+ - [https://www.djriko.com](https://www.djriko.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
+ - [http://www.djriko.com](http://www.djriko.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## News [D. Kriesel]
+ - [https://www.dkriesel.com](https://www.dkriesel.com)
+ - date published: 2023-10-25T13:55:02.953546+00:00
+ - user: None
+ - tags: []
+
+## What Is Up! - DLake Creates
+ - [https://dlakecreates.com](https://dlakecreates.com)
+ - date published: 2024-01-09T11:06:23.380054+00:00
+ - user: None
+ - tags: []
+
+## DL News
+ - [https://www.dlnews.com](https://www.dlnews.com)
+ - date published: 2024-02-15T23:41:08.152022+00:00
+ - user: None
+ - tags: []
+
+## D Magazine: Best Restaurants, Things to Do, and Local Dallas News
+ - [https://www.dmagazine.com](https://www.dmagazine.com)
+ - date published: 2023-10-25T13:55:08.601899+00:00
+ - user: None
+ - tags: []
+
+## Software Engineering and Stuff
+ - [https://dmathieu.com](https://dmathieu.com)
+ - date published: 2023-08-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DMCA.com - Protect Your Online Content and Brand with DMCA Takedown Services, Compliance Solutions, and Content Protection
+ - [https://www.dmca.com](https://www.dmca.com)
+ - date published: 2023-12-13T16:04:19.583920+00:00
+ - user: None
+ - tags: []
+
+## Center for Direct Marketing | Performance-based promotion
+ - [https://dmcenter.com](https://dmcenter.com)
+ - date published: 2024-01-12T18:46:07.435567+00:00
+ - user: None
+ - tags: []
+
+## about    [Dmitry Frank]
+ - [https://dmitryfrank.com](https://dmitryfrank.com)
+ - date published: 2023-10-25T13:55:11.237067+00:00
+ - user: None
+ - tags: []
+
 ## Dungeon Masters Guild -
  - [https://www.dmsguild.com](https://www.dmsguild.com)
  - date published: 2000-01-01T00:00:00+00:00
@@ -152,6 +212,18 @@
 ## Dog Tricks World - Teach Your Dog A New Trick
  - [https://dogtricksworld.com](https://dogtricksworld.com)
  - date published: 2023-11-20T14:44:21.971118+00:00
+ - user: None
+ - tags: []
+
+## Request Rejected
+ - [https://www.dollargeneral.com](https://www.dollargeneral.com)
+ - date published: 2024-04-05T18:57:01.855141+00:00
+ - user: None
+ - tags: []
+
+## DOLLAR GENERAL FOR SALE DIRECT FROM BUILDER
+ - [https://www.dollargeneralforsale.com](https://www.dollargeneralforsale.com)
+ - date published: 2024-04-05T18:57:06.055901+00:00
  - user: None
  - tags: []
 
@@ -791,15 +863,15 @@
  - user: None
  - tags: ['music', 'dj']
 
-## Drunk Pastor: Musings & Services of a Recovering Pastor
- - [http://drunkpastor.com](http://drunkpastor.com)
- - date published: 2024-02-10T16:19:49+00:00
- - user: None
- - tags: []
-
 ## Drunk Pastor
  - [https://drunkpastor.com](https://drunkpastor.com)
  - date published: 2023-11-29T15:32:18.653046+00:00
+ - user: None
+ - tags: []
+
+## Drunk Pastor: Musings & Services of a Recovering Pastor
+ - [http://drunkpastor.com](http://drunkpastor.com)
+ - date published: 2024-02-10T16:19:49+00:00
  - user: None
  - tags: []
 
@@ -1170,14 +1242,14 @@
  - tags: []
 
 ## Earl MacDonald – Composer, Jazz Pianist, Music Educator – “A magical, musical alchemist of hip hybrids."
- - [https://www.earlmacdonald.com](https://www.earlmacdonald.com)
- - date published: 2023-12-16T07:29:09.233696+00:00
+ - [http://www.earlmacdonald.com](http://www.earlmacdonald.com)
+ - date published: 2024-04-03T06:25:22.075271+00:00
  - user: None
  - tags: ['personal']
 
 ## Earl MacDonald – Composer, Jazz Pianist, Music Educator – “A magical, musical alchemist of hip hybrids."
- - [http://www.earlmacdonald.com](http://www.earlmacdonald.com)
- - date published: 2024-04-03T06:25:22.075271+00:00
+ - [https://www.earlmacdonald.com](https://www.earlmacdonald.com)
+ - date published: 2023-12-16T07:29:09.233696+00:00
  - user: None
  - tags: ['personal']
 
@@ -1682,6 +1754,12 @@
 ## Elad Blog | Substack
  - [https://blog.eladgil.com](https://blog.eladgil.com)
  - date published: 2023-10-25T14:04:25.142986+00:00
+ - user: None
+ - tags: []
+
+## Elara Nova
+ - [https://elaranova.com](https://elaranova.com)
+ - date published: 2024-03-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2549,6 +2627,12 @@
  - user: rumpel
  - tags: ['assets audio']
 
+## None
+ - [https://share.epidemicsound.com](https://share.epidemicsound.com)
+ - date published: 2024-04-05T12:38:37+00:00
+ - user: rumpel
+ - tags: []
+
 ## Royalty Free Music for Video Creators | Epidemic Sound
  - [https://www.epidemicsound.com](https://www.epidemicsound.com)
  - date published: 2024-02-17T12:45:44+00:00
@@ -2640,14 +2724,14 @@
  - tags: ['personal']
 
 ## The Official Website of Creative Entreprenuer Eric Beaty
- - [https://ericbeaty.com](https://ericbeaty.com)
- - date published: 2024-01-16T23:54:25.185150+00:00
+ - [http://ericbeaty.com](http://ericbeaty.com)
+ - date published: 2024-04-03T06:30:05.447054+00:00
  - user: None
  - tags: ['personal']
 
 ## The Official Website of Creative Entreprenuer Eric Beaty
- - [http://ericbeaty.com](http://ericbeaty.com)
- - date published: 2024-04-03T06:30:05.447054+00:00
+ - [https://ericbeaty.com](https://ericbeaty.com)
+ - date published: 2024-01-16T23:54:25.185150+00:00
  - user: None
  - tags: ['personal']
 
@@ -2802,16 +2886,16 @@
  - tags: []
 
 ## (no title)
- - [http://www.erinmhartshorn.com](http://www.erinmhartshorn.com)
- - date published: 2015-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## (no title)
  - [https://www.erinmhartshorn.com](https://www.erinmhartshorn.com)
  - date published: 2023-12-13T11:23:04.041081+00:00
  - user: None
  - tags: ['personal']
+
+## (no title)
+ - [http://www.erinmhartshorn.com](http://www.erinmhartshorn.com)
+ - date published: 2015-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Erin Research
  - [https://www.erinresearch.com](https://www.erinresearch.com)
@@ -3785,17 +3869,17 @@
  - user: rumpel
  - tags: ['facebook']
 
-## Log in or sign up to view
- - [http://www.facebook.com](http://www.facebook.com)
- - date published: 2024-02-24T09:54:20.558477+00:00
- - user: None
- - tags: []
-
 ## Facebook
  - [https://www.facebook.com](https://www.facebook.com)
  - date published: 2023-10-24T20:15:12+00:00
  - user: rumpel
  - tags: ['gatekeeper', 'social platform']
+
+## Log in or sign up to view
+ - [http://www.facebook.com](http://www.facebook.com)
+ - date published: 2024-02-24T09:54:20.558477+00:00
+ - user: None
+ - tags: []
 
 ## In re: Facebook, Inc. Consumer Privacy User Profile Litigation
  - [https://www.facebookuserprivacysettlement.com](https://www.facebookuserprivacysettlement.com)
@@ -3908,6 +3992,12 @@
 ## Family Echo - Free Online Family Tree Maker
  - [https://www.familyecho.com](https://www.familyecho.com)
  - date published: 2023-10-25T14:25:48.666891+00:00
+ - user: None
+ - tags: []
+
+## Fanack Chronicle of the Middle East & North Africa
+ - [https://fanack.com](https://fanack.com)
+ - date published: 2024-02-13T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4349,6 +4439,12 @@
  - user: None
  - tags: []
 
+## Faye Tan — in a nutshell
+ - [https://www.faye-tan.com](https://www.faye-tan.com)
+ - date published: 2024-04-05T01:37:10.365824+00:00
+ - user: None
+ - tags: ['personal']
+
 ## None
  - [https://sideprojects.fazier.com](https://sideprojects.fazier.com)
  - date published: 2024-01-09T02:36:30.172831+00:00
@@ -4745,6 +4841,24 @@
  - user: None
  - tags: []
 
+## File Format Docs
+ - [https://docs.fileformat.com](https://docs.fileformat.com)
+ - date published: 2017-02-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['file formats']
+
+## An Open-source File Format API Guide For Developers
+ - [https://fileformat.com](https://fileformat.com)
+ - date published: 2024-04-05T13:57:47+00:00
+ - user: rumpel
+ - tags: ['open source', 'file formats']
+
+## FileInfo.com - The File Format Database
+ - [https://fileinfo.com](https://fileinfo.com)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: rumpel
+ - tags: ['file formats']
+
 ## Fill & Flush - A Better Way to De-Plane
  - [https://www.fillandflush.com](https://www.fillandflush.com)
  - date published: 2023-10-25T14:30:36.229686+00:00
@@ -4865,6 +4979,18 @@
  - user: None
  - tags: []
 
+## The Latest in Fire Service News | Firefighter Nation
+ - [https://www.firefighternation.com](https://www.firefighternation.com)
+ - date published: 2024-04-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.firehouse.com](https://www.firehouse.com)
+ - date published: 2024-04-05T18:55:39.641854+00:00
+ - user: None
+ - tags: []
+
 ## Fire. Light. Love.
  - [https://firelightlove.com](https://firelightlove.com)
  - date published: 2024-02-25T20:18:12.410539+00:00
@@ -4880,6 +5006,12 @@
 ## FireMon.com – Improve Security Operations. Improve Security Outcomes.
  - [https://www.firemon.com](https://www.firemon.com)
  - date published: 2023-10-25T14:31:45.441785+00:00
+ - user: None
+ - tags: []
+
+## News, Training, Products for Firefighters, Fire Service Professionals
+ - [https://www.firerescue1.com](https://www.firerescue1.com)
+ - date published: 2024-04-05T18:55:35.353365+00:00
  - user: None
  - tags: []
 
@@ -5547,7 +5679,7 @@
  - [https://foreignpolicy.com](https://foreignpolicy.com)
  - date published: 2023-10-25T15:10:25.310637+00:00
  - user: None
- - tags: []
+ - tags: ['politics news']
 
 ## When it matters, say it on Forem — Forem
  - [https://forem.com](https://forem.com)
@@ -5864,138 +5996,6 @@
 ## FOX 7 Austin
  - [https://www.fox7austin.com](https://www.fox7austin.com)
  - date published: 2023-10-25T11:04:44.675389+00:00
- - user: None
- - tags: []
-
-## FOX 8 WVUE-TV in New Orleans
- - [https://www.fox8live.com](https://www.fox8live.com)
- - date published: 2023-12-22T03:35:05.796458+00:00
- - user: None
- - tags: []
-
-## FOX 9 Minneapolis-St. Paul
- - [https://www.fox9.com](https://www.fox9.com)
- - date published: 2023-10-25T11:04:58.976088+00:00
- - user: None
- - tags: []
-
-## Fox and Branch
- - [https://www.foxandbranch.com](https://www.foxandbranch.com)
- - date published: 2024-02-08T22:10:25.755945+00:00
- - user: None
- - tags: []
-
-## Foxandhoundsapts
- - [https://www.foxandhoundsapts.com](https://www.foxandhoundsapts.com)
- - date published: 2024-02-08T22:08:37.953647+00:00
- - user: None
- - tags: []
-
-## Baltimore News, Weather, Sports, Breaking News | WBFF
- - [https://foxbaltimore.com](https://foxbaltimore.com)
- - date published: 2023-12-24T01:41:32.188455+00:00
- - user: None
- - tags: []
-
-## None
- - [https://moxie.foxbusiness.com](https://moxie.foxbusiness.com)
- - date published: 2024-02-26T08:40:18.011910+00:00
- - user: None
- - tags: []
-
-## Fox Business | Business News &Stock Quotes - Saving & Investing
- - [https://www.foxbusiness.com](https://www.foxbusiness.com)
- - date published: 2023-10-25T10:57:40.272562+00:00
- - user: None
- - tags: []
-
-## FOX Carolina | South Carolina Local News, Weather, Sports | Greenville, SC | WHNS
- - [https://www.foxcarolina.com](https://www.foxcarolina.com)
- - date published: 2024-01-02T01:49:53.726085+00:00
- - user: None
- - tags: []
-
-## FOX 11 Los Angeles
- - [https://www.foxla.com](https://www.foxla.com)
- - date published: 2023-10-25T09:29:54.593194+00:00
- - user: None
- - tags: []
-
-## http://moxie.foxnews.com
- - [http://moxie.foxnews.com](http://moxie.foxnews.com)
- - date published: 2023-10-25T10:26:21.800868+00:00
- - user: None
- - tags: []
-
-## None
- - [https://moxie.foxnews.com](https://moxie.foxnews.com)
- - date published: 2024-02-26T08:40:13.620604+00:00
- - user: None
- - tags: []
-
-## Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos
- - [https://www.foxnews.com](https://www.foxnews.com)
- - date published: 2023-10-25T10:26:27.291309+00:00
- - user: None
- - tags: []
-
-## FOX Sports News, Scores, Schedules, Odds, Shows, Streams & Videos | FOX Sports
- - [https://www.foxsports.com](https://www.foxsports.com)
- - date published: 2024-03-06T02:26:20.963682+00:00
- - user: None
- - tags: []
-
-## FoxTrot Comics by Bill Amend
- - [http://www.foxtrot.com](http://www.foxtrot.com)
- - date published: 2024-03-24T15:04:15.149741+00:00
- - user: None
- - tags: []
-
-## Home Page - FP Complete
- - [https://www.fpcomplete.com](https://www.fpcomplete.com)
- - date published: 2023-10-25T14:37:06.434619+00:00
- - user: None
- - tags: []
-
-## Dashboard [Jenkins]
- - [https://build.fpgaarcade.com](https://build.fpgaarcade.com)
- - date published: 2023-12-11T17:28:17.596795+00:00
- - user: None
- - tags: []
-
-## FPGA Arcade
- - [https://docs.fpgaarcade.com](https://docs.fpgaarcade.com)
- - date published: 2023-12-11T17:29:08.892468+00:00
- - user: None
- - tags: []
-
-## FPGAArcade | Programmable Gaming Hardware
- - [https://fpgaarcade.com](https://fpgaarcade.com)
- - date published: 2023-12-11T17:29:13.446690+00:00
- - user: None
- - tags: []
-
-## FPGAArcade | Programmable Gaming Hardware
- - [https://www.fpgaarcade.com](https://www.fpgaarcade.com)
- - date published: 2024-02-06T00:00:00+00:00
- - user: None
- - tags: ['retro games', 'amiga', 'fpga']
-
-## FPGA Design and Tutorials - FPGA Developer
- - [https://www.fpgadeveloper.com](https://www.fpgadeveloper.com)
- - date published: 2023-10-25T14:37:09.642182+00:00
- - user: None
- - tags: ['fpga']
-
-## FPGAjobs - Jobs for Logic Designers!
- - [https://www.fpgajobs.com](https://www.fpgajobs.com)
- - date published: 2023-11-06T13:53:26.006456+00:00
- - user: None
- - tags: []
-
-## Felipe Vogel: Web developer and Rubyist blogging on my learning, coding, and career.
- - [https://fpsvogel.com](https://fpsvogel.com)
- - date published: 2024-03-27T11:49:56+00:00
  - user: None
  - tags: []
 
