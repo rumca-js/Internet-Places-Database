@@ -1,3 +1,165 @@
+## Netbeans
+ - [https://netbeans.apache.org](https://netbeans.apache.org)
+ - date published: 2023-12-02T09:10:29+00:00
+ - user: rumpel
+ - tags: ['programming ide']
+
+## The Apache Software Foundation Blog
+ - [https://news.apache.org](https://news.apache.org)
+ - date published: 2023-10-25T08:36:41.438322+00:00
+ - user: None
+ - tags: []
+
+## home.apache.org
+ - [https://people.apache.org](https://people.apache.org)
+ - date published: 2023-10-25T20:58:17.974296+00:00
+ - user: None
+ - tags: []
+
+## Apache Pinot™: Realtime distributed OLAP datastore | Apache Pinot™
+ - [https://pinot.apache.org](https://pinot.apache.org)
+ - date published: 2023-10-25T20:58:19.613396+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Apache Solr - Apache Solr
+ - [https://solr.apache.org](https://solr.apache.org)
+ - date published: 2023-10-25T20:58:20.722292+00:00
+ - user: None
+ - tags: []
+
+## Apache Subversion
+ - [https://subversion.apache.org](https://subversion.apache.org)
+ - date published: 2024-03-04T14:29:20+00:00
+ - user: rumpel
+ - tags: ['svn', 'vcs']
+
+## Apache Superset
+ - [https://superset.apache.org](https://superset.apache.org)
+ - date published: 2024-02-26T14:36:35+00:00
+ - user: None
+ - tags: ['big data', 'data visualisation']
+
+## Welcome to The Apache Software Foundation!
+ - [http://www.apache.org](http://www.apache.org)
+ - date published: 2024-03-26T16:13:49.125566+00:00
+ - user: None
+ - tags: []
+
+## Apartheid Museum
+ - [https://www.apartheidmuseum.org](https://www.apartheidmuseum.org)
+ - date published: 2023-11-13T13:41:16.309026+00:00
+ - user: None
+ - tags: ['museum']
+
+## The Internet Shutdown Game
+ - [https://shutdowngame.apc.org](https://shutdowngame.apc.org)
+ - date published: 2023-12-08T08:40:07+00:00
+ - user: None
+ - tags: []
+
+## Association for Progressive Communications | Internet for social justice and sustainable development
+ - [https://www.apc.org](https://www.apc.org)
+ - date published: 2023-12-08T12:42:22+00:00
+ - user: rumpel
+ - tags: ['human rights', 'social justice']
+
+## Special Projects from APM Reports
+ - [https://features.apmreports.org](https://features.apmreports.org)
+ - date published: 2023-10-25T20:58:27.503889+00:00
+ - user: None
+ - tags: []
+
+## Apollo in Real Time
+ - [https://apolloinrealtime.org](https://apolloinrealtime.org)
+ - date published: 2023-10-25T20:58:29.154906+00:00
+ - user: None
+ - tags: []
+
+## The App Fair Project | appfair.org
+ - [https://appfair.org](https://appfair.org)
+ - date published: 2023-10-25T20:58:30.062730+00:00
+ - user: None
+ - tags: []
+
+## APPG on Pandemic Response and Recovery
+ - [https://appgpandemic.org](https://appgpandemic.org)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## AppImage
+ - [https://appimage.org](https://appimage.org)
+ - date published: 2017-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['linux', 'program format']
+
+## Physical Review Journals
+ - [https://journals.aps.org](https://journals.aps.org)
+ - date published: 2023-10-25T20:58:32.037342+00:00
+ - user: None
+ - tags: []
+
+## Physics - spotlighting exceptional research
+ - [https://physics.aps.org](https://physics.aps.org)
+ - date published: 2023-10-25T20:58:34.154258+00:00
+ - user: None
+ - tags: []
+
+## APS Physics | American Physical Society
+ - [https://www.aps.org](https://www.aps.org)
+ - date published: 2023-10-25T20:58:37.121202+00:00
+ - user: None
+ - tags: []
+
+## APT Browse - Home
+ - [https://www.apt-browse.org](https://www.apt-browse.org)
+ - date published: 2023-10-25T20:58:43.373403+00:00
+ - user: None
+ - tags: []
+
+## Beijing Air Pollution: Real-time Air Quality Index
+ - [https://aqicn.org](https://aqicn.org)
+ - date published: 2023-10-25T20:58:48.998676+00:00
+ - user: None
+ - tags: []
+
+## Archaeology - Archaeology Magazine
+ - [https://www.archaeology.org](https://www.archaeology.org)
+ - date published: 2023-10-27T12:06:24.724348+00:00
+ - user: None
+ - tags: []
+
+## Internet Archive: Secret service
+ - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
+ - date published: 2023-10-27T14:37:50+00:00
+ - user: rumpel
+ - tags: ['retro', 'magazine']
+
+## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+ - [https://archive.org](https://archive.org)
+ - date published: 2023-10-25T09:29:04.093943+00:00
+ - user: None
+ - tags: ['internet archive', 'digital library']
+
+## Internet Archive Blogs | A blog from the team at archive.org
+ - [https://blog.archive.org](https://blog.archive.org)
+ - date published: 2023-10-25T09:29:16.005203+00:00
+ - user: None
+ - tags: []
+
+## The Great 78 Project – Community Preservation, Research, Discovery of 78rpm Records
+ - [https://great78.archive.org](https://great78.archive.org)
+ - date published: 2023-10-27T12:06:31.660655+00:00
+ - user: None
+ - tags: []
+
+## Directory listing for ia600700.us.archive.org
+ - [https://ia600700.us.archive.org](https://ia600700.us.archive.org)
+ - date published: 2023-10-25T20:59:13.402630+00:00
+ - user: None
+ - tags: []
+
 ## Directory listing for ia600707.us.archive.org
  - [https://ia600707.us.archive.org](https://ia600707.us.archive.org)
  - date published: 2024-04-03T06:38:59.395608+00:00
@@ -70,17 +232,17 @@
  - user: None
  - tags: []
 
-## Wayback Machine
- - [https://web.archive.org](https://web.archive.org)
- - date published: 2023-10-25T09:29:18.969501+00:00
- - user: None
- - tags: ['internet archive']
-
 ## Back2Roots
  - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
  - date published: 2023-11-02T10:36:12+00:00
  - user: rumpel
  - tags: []
+
+## Wayback Machine
+ - [https://web.archive.org](https://web.archive.org)
+ - date published: 2023-10-25T09:29:18.969501+00:00
+ - user: None
+ - tags: ['internet archive']
 
 ## Archive-It - 
   
@@ -105,14 +267,14 @@
  - tags: []
 
 ## Archiveteam
- - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
+ - date published: 2023-11-25T06:19:37.367056+00:00
  - user: None
  - tags: []
 
 ## Archiveteam
- - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
- - date published: 2023-11-25T06:19:37.367056+00:00
+ - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1635,14 +1797,14 @@
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [https://blog.cerowrt.org](https://blog.cerowrt.org)
- - date published: 2023-10-25T21:06:57.314728+00:00
+ - [http://blog.cerowrt.org](http://blog.cerowrt.org)
+ - date published: 2024-02-25T15:50:51.524978+00:00
  - user: None
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [http://blog.cerowrt.org](http://blog.cerowrt.org)
- - date published: 2024-02-25T15:50:51.524978+00:00
+ - [https://blog.cerowrt.org](https://blog.cerowrt.org)
+ - date published: 2023-10-25T21:06:57.314728+00:00
  - user: None
  - tags: []
 
@@ -2525,14 +2687,14 @@
  - tags: []
 
 ## Homepage - Creative Commons
- - [http://creativecommons.org](http://creativecommons.org)
- - date published: 2024-03-21T07:44:18.617797+00:00
+ - [https://creativecommons.org](https://creativecommons.org)
+ - date published: 2023-12-11T16:22:52.219620+00:00
  - user: None
  - tags: []
 
 ## Homepage - Creative Commons
- - [https://creativecommons.org](https://creativecommons.org)
- - date published: 2023-12-11T16:22:52.219620+00:00
+ - [http://creativecommons.org](http://creativecommons.org)
+ - date published: 2024-03-21T07:44:18.617797+00:00
  - user: None
  - tags: []
 
@@ -2711,16 +2873,16 @@
  - tags: []
 
 ## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
- - [https://cvsgui.org](https://cvsgui.org)
- - date published: 2024-03-04T12:06:02+00:00
- - user: rumpel
- - tags: ['control version system', 'program', 'vcs', 'open source']
-
-## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
  - [http://cvsgui.org](http://cvsgui.org)
  - date published: 2024-03-05T00:16:31.622060+00:00
  - user: None
  - tags: []
+
+## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
+ - [https://cvsgui.org](https://cvsgui.org)
+ - date published: 2024-03-04T12:06:02+00:00
+ - user: rumpel
+ - tags: ['control version system', 'program', 'vcs', 'open source']
 
 ## California Water Environment Association | Champions of Wastewater
  - [https://www.cwea.org](https://www.cwea.org)
@@ -3570,16 +3732,16 @@
  - tags: []
 
 ## Kohina Web Player
- - [https://kohina.duckdns.org](https://kohina.duckdns.org)
- - date published: 2024-02-15T22:13:24.519956+00:00
- - user: None
- - tags: ['demoscene']
-
-## Kohina Web Player
  - [http://kohina.duckdns.org](http://kohina.duckdns.org)
  - date published: 2024-02-11T14:38:28.495727+00:00
  - user: None
  - tags: []
+
+## Kohina Web Player
+ - [https://kohina.duckdns.org](https://kohina.duckdns.org)
+ - date published: 2024-02-15T22:13:24.519956+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Duck DNS
  - [https://www.duckdns.org](https://www.duckdns.org)
@@ -3692,6 +3854,12 @@
 ## Latest Resources - ecancer
  - [https://ecancer.org](https://ecancer.org)
  - date published: 2023-11-13T10:20:44.453606+00:00
+ - user: None
+ - tags: []
+
+## eC Programming Language
+ - [https://ec-lang.org](https://ec-lang.org)
+ - date published: 2024-04-06T14:34:36+00:00
  - user: None
  - tags: []
 
@@ -3960,6 +4128,12 @@
  - tags: []
 
 ## Hello from Emacs Docs | Emacs Docs
+ - [https://emacsdocs.org](https://emacsdocs.org)
+ - date published: 2024-04-06T06:24:10+00:00
+ - user: rumpel
+ - tags: []
+
+## Hello from Emacs Docs | Emacs Docs
  - [https://www.emacsdocs.org](https://www.emacsdocs.org)
  - date published: 2023-10-25T21:17:36.522307+00:00
  - user: None
@@ -4034,6 +4208,12 @@
 ## Enlightenment Main
  - [https://www.enlightenment.org](https://www.enlightenment.org)
  - date published: 2023-12-24T13:03:54.895999+00:00
+ - user: None
+ - tags: []
+
+## Enrico Zini
+ - [https://enricozini.org](https://enricozini.org)
+ - date published: 2024-04-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5739,16 +5919,16 @@
  - tags: ['gnome']
 
 ## GNOME Blogs – A blogging community for GNOME contributors
- - [https://blogs.gnome.org](https://blogs.gnome.org)
- - date published: 2023-10-25T21:25:31.296886+00:00
- - user: None
- - tags: ['blogs']
-
-## GNOME Blogs – A blogging community for GNOME contributors
  - [http://blogs.gnome.org](http://blogs.gnome.org)
  - date published: 2024-03-20T00:00:00+00:00
  - user: None
  - tags: []
+
+## GNOME Blogs – A blogging community for GNOME contributors
+ - [https://blogs.gnome.org](https://blogs.gnome.org)
+ - date published: 2023-10-25T21:25:31.296886+00:00
+ - user: None
+ - tags: ['blogs']
 
 ## GNOME Circle
  - [https://circle.gnome.org](https://circle.gnome.org)
@@ -5831,187 +6011,6 @@
 ## Home - GNOME Wiki!
  - [https://wiki.gnome.org](https://wiki.gnome.org)
  - date published: 2023-07-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## GNOME – Simple, beautiful, elegant.
- - [https://www.gnome.org](https://www.gnome.org)
- - date published: 2023-11-21T07:49:47+00:00
- - user: rumpel
- - tags: ['open source', 'gnome', 'linux desktop environment', 'linux']
-
-## Overview
- - [https://gnome-terminator.org](https://gnome-terminator.org)
- - date published: 2023-10-30T14:12:47.646665+00:00
- - user: None
- - tags: ['terminal']
-
-## The Gnosis Archive
- - [https://gnosis.org](https://gnosis.org)
- - date published: 2024-01-09T03:40:40.030236+00:00
- - user: None
- - tags: []
-
-## Audio/Video - GNU Project - Free-Software Foundation
- - [https://audio-video.gnu.org](https://audio-video.gnu.org)
- - date published: 2023-10-25T21:25:39.128462+00:00
- - user: None
- - tags: []
-
-## Index of /
- - [https://ftp.gnu.org](https://ftp.gnu.org)
- - date published: 2023-10-25T21:25:41.505440+00:00
- - user: None
- - tags: []
-
-## GCC, the GNU Compiler Collection
-- GNU Project
- - [https://gcc.gnu.org](https://gcc.gnu.org)
- - date published: 2023-10-25T21:25:44.167805+00:00
- - user: None
- - tags: ['compiler']
-
-## GNU Guix transactional package manager and distribution — GNU Guix
- - [https://guix.gnu.org](https://guix.gnu.org)
- - date published: 2023-10-25T21:25:47.790129+00:00
- - user: None
- - tags: ['operating system']
-
-## lists.gnu.org
- - [https://lists.gnu.org](https://lists.gnu.org)
- - date published: 2023-10-25T21:25:51.009984+00:00
- - user: None
- - tags: []
-
-## Planet GNU
- - [https://planet.gnu.org](https://planet.gnu.org)
- - date published: 2024-02-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## The GNU Operating System and the Free Software Movement
- - [https://www.gnu.org](https://www.gnu.org)
- - date published: 2023-10-25T11:25:37.259701+00:00
- - user: None
- - tags: ['open source']
-
-## GNUnet
- - [https://www.gnunet.org](https://www.gnunet.org)
- - date published: 2023-11-21T09:09:44.173185+00:00
- - user: None
- - tags: []
-
-## GNU Radio Events · GNU Radio Events (Indico)
- - [https://events.gnuradio.org](https://events.gnuradio.org)
- - date published: 2024-01-25T01:48:11.388883+00:00
- - user: None
- - tags: []
-
-## GoboLinux
- - [https://www.gobolinux.org](https://www.gobolinux.org)
- - date published: 2024-02-28T01:15:56+00:00
- - user: None
- - tags: ['operating system']
-
-## Compiler Explorer
- - [https://godbolt.org](https://godbolt.org)
- - date published: 2023-10-25T21:25:55.654816+00:00
- - user: None
- - tags: ['online tool', 'compiler']
-
-## Godot Docs – 4.1 branch — Godot Engine (stable) documentation in English
- - [https://docs.godotengine.org](https://docs.godotengine.org)
- - date published: 2023-10-25T21:26:38.077433+00:00
- - user: None
- - tags: []
-
-## Godot Development Fund
- - [https://fund.godotengine.org](https://fund.godotengine.org)
- - date published: 2023-10-25T08:39:29.413240+00:00
- - user: None
- - tags: []
-
-## Godot Engine - Free and open source 2D and 3D game engine
- - [https://godotengine.org](https://godotengine.org)
- - date published: 2023-10-25T08:33:45.047771+00:00
- - user: None
- - tags: ['open source', 'game engine']
-
-## Godot Forums
- - [https://godotforums.org](https://godotforums.org)
- - date published: 2023-10-25T21:26:41.786556+00:00
- - user: None
- - tags: []
-
-## None
- - [https://go-fed.org](https://go-fed.org)
- - date published: 2024-01-09T03:40:41.785422+00:00
- - user: None
- - tags: []
-
-## Gokrazy – Go Appliances
- - [https://gokrazy.org](https://gokrazy.org)
- - date published: 2023-12-19T05:23:20+00:00
- - user: None
- - tags: []
-
-## Gold Price
- - [https://goldprice.org](https://goldprice.org)
- - date published: 2024-01-01T10:24:05.664763+00:00
- - user: None
- - tags: []
-
-## Back in 5 mins | Ruby, loadsa bash, tweets and cats.
- - [https://jay.gooby.org](https://jay.gooby.org)
- - date published: 2023-10-25T21:26:49.689151+00:00
- - user: None
- - tags: []
-
-## https://www.goodenoughsprings.org
- - [https://www.goodenoughsprings.org](https://www.goodenoughsprings.org)
- - date published: 2024-02-08T18:01:04.995442+00:00
- - user: None
- - tags: []
-
-## Violation Tracker
- - [https://violationtracker.goodjobsfirst.org](https://violationtracker.goodjobsfirst.org)
- - date published: 2023-10-25T21:26:52.979652+00:00
- - user: None
- - tags: []
-
-## Homepage - Good Law Project
- - [https://goodlawproject.org](https://goodlawproject.org)
- - date published: 2024-01-07T17:49:35.261180+00:00
- - user: None
- - tags: []
-
-## Good News, Inspiring, Positive Stories - Good News Network
- - [https://www.goodnewsnetwork.org](https://www.goodnewsnetwork.org)
- - date published: 2023-10-25T21:27:00.650084+00:00
- - user: None
- - tags: []
-
-## GoodSpace.org - Alex
- - [https://goodspace.org](https://goodspace.org)
- - date published: 2024-04-03T06:22:37.142792+00:00
- - user: None
- - tags: ['personal']
-
-## PhoenixTales | Gothic Archive
- - [https://gothicarchive.org](https://gothicarchive.org)
- - date published: 2023-12-01T08:25:44+00:00
- - user: rumpel
- - tags: ['games', 'gothic']
-
-## Bible Questions Answered | GotQuestions.org
- - [https://www.gotquestions.org](https://www.gotquestions.org)
- - date published: 2002-04-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## GovLeaders.org - Growing Leaders for the Public Service
- - [https://govleaders.org](https://govleaders.org)
- - date published: 2023-10-25T21:27:03.116588+00:00
  - user: None
  - tags: []
 

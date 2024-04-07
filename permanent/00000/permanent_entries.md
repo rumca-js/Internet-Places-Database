@@ -1672,6 +1672,12 @@
  - user: None
  - tags: []
 
+## Uberduck | Make Music with AI Vocals
+ - [https://www.uberduck.ai](https://www.uberduck.ai)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## Undermind
  - [https://app.undermind.ai](https://app.undermind.ai)
  - date published: 2024-01-24T17:05:57.127775+00:00
@@ -2824,6 +2830,12 @@
  - user: None
  - tags: []
 
+## drawDB | Online database diagram editor and SQL generator
+ - [https://drawdb.vercel.app](https://drawdb.vercel.app)
+ - date published: 2024-04-06T23:11:41.234093+00:00
+ - user: None
+ - tags: []
+
 ## https://ffmpeg-online.vercel.app
  - [https://ffmpeg-online.vercel.app](https://ffmpeg-online.vercel.app)
  - date published: 2023-10-25T11:50:10.849371+00:00
@@ -3713,16 +3725,16 @@
  - tags: []
 
 ## Home
- - [http://kerrygrace.com.au](http://kerrygrace.com.au)
- - date published: 2024-04-03T06:27:02.750662+00:00
- - user: None
- - tags: ['personal']
-
-## Home
  - [https://kerrygrace.com.au](https://kerrygrace.com.au)
  - date published: 2024-01-09T21:36:51.535431+00:00
  - user: None
  - tags: []
+
+## Home
+ - [http://kerrygrace.com.au](http://kerrygrace.com.au)
+ - date published: 2024-04-03T06:27:02.750662+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Kotaku Australia | See Games Differently
  - [https://www.kotaku.com.au](https://www.kotaku.com.au)
@@ -3905,13 +3917,13 @@
  - tags: []
 
 ## About me - Write Approach Marketing
- - [https://writeapproach.com.au](https://writeapproach.com.au)
+ - [http://writeapproach.com.au](http://writeapproach.com.au)
  - date published: 2018-04-30T00:00:00+00:00
  - user: None
  - tags: []
 
 ## About me - Write Approach Marketing
- - [http://writeapproach.com.au](http://writeapproach.com.au)
+ - [https://writeapproach.com.au](https://writeapproach.com.au)
  - date published: 2018-04-30T00:00:00+00:00
  - user: None
  - tags: []
@@ -4409,16 +4421,16 @@
  - tags: []
 
 ## Denny Wong - Learn, think, write and do.
- - [http://dewo.be](http://dewo.be)
- - date published: 2018-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Denny Wong - Learn, think, write and do.
  - [https://dewo.be](https://dewo.be)
  - date published: 2023-11-29T14:18:04.127765+00:00
  - user: None
  - tags: ['personal']
+
+## Denny Wong - Learn, think, write and do.
+ - [http://dewo.be](http://dewo.be)
+ - date published: 2018-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Dries Depoorter – artist and speaker working with technology 🔥
  - [https://driesdepoorter.be](https://driesdepoorter.be)
@@ -4973,16 +4985,16 @@
  - tags: ['personal']
 
 ## Dagan.Blog – Education Futurist
- - [https://dagan.blog](https://dagan.blog)
- - date published: 2024-01-09T02:26:37.338771+00:00
- - user: None
- - tags: ['personal']
-
-## Dagan.Blog – Education Futurist
  - [http://dagan.blog](http://dagan.blog)
  - date published: 2024-02-25T19:34:43.972971+00:00
  - user: None
  - tags: []
+
+## Dagan.Blog – Education Futurist
+ - [https://dagan.blog](https://dagan.blog)
+ - date published: 2024-01-09T02:26:37.338771+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Deep Cuts in a Lovecraftian Vein
  - [https://deepcuts.blog](https://deepcuts.blog)
@@ -5078,6 +5090,12 @@
 ## Learn faster, Think better, and make Smart Decisions
  - [https://fs.blog](https://fs.blog)
  - date published: 2023-10-25T12:00:21.226812+00:00
+ - user: None
+ - tags: []
+
+## The Apple Theory
+ - [http://ganji.blog](http://ganji.blog)
+ - date published: 2024-04-06T20:42:48.291763+00:00
  - user: None
  - tags: []
 
@@ -5826,14 +5844,14 @@
  - tags: []
 
 ## Svarichevsky Mikhail
- - [http://3.14.by](http://3.14.by)
- - date published: 2024-02-26T13:20:29.028020+00:00
+ - [https://3.14.by](https://3.14.by)
+ - date published: 2024-01-16T06:21:34.423774+00:00
  - user: None
  - tags: []
 
 ## Svarichevsky Mikhail
- - [https://3.14.by](https://3.14.by)
- - date published: 2024-01-16T06:21:34.423774+00:00
+ - [http://3.14.by](http://3.14.by)
+ - date published: 2024-02-26T13:20:29.028020+00:00
  - user: None
  - tags: []
 
@@ -5913,7 +5931,7 @@
  - [https://www.amazon.ca](https://www.amazon.ca)
  - date published: 2024-02-28T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['amazon canada']
 
 ## Alberta Machine Intelligence Institute | AI for good and for all
  - [https://www.amii.ca](https://www.amii.ca)
@@ -5978,24 +5996,6 @@
 ## Home
  - [https://www.bellmedia.ca](https://www.bellmedia.ca)
  - date published: 2023-12-12T08:43:45.676684+00:00
- - user: None
- - tags: []
-
-## Best Buy: Shop Online For Deals & Save | Best Buy Canada
- - [https://www.bestbuy.ca](https://www.bestbuy.ca)
- - date published: 2024-02-23T22:51:25.927722+00:00
- - user: None
- - tags: ['shop']
-
-## Medieval Bestiary : Animals in the Middle Ages
- - [https://bestiary.ca](https://bestiary.ca)
- - date published: 2023-10-25T12:03:35.908634+00:00
- - user: None
- - tags: ['animals', 'history', 'medieval', 'bestiary']
-
-## BNN Bloomberg - Canadian Business News, TSX Today, interest rates and Bank of Canada coverage
- - [https://www.bnnbloomberg.ca](https://www.bnnbloomberg.ca)
- - date published: 2023-10-25T12:03:55.221507+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,105 @@
+## VETUSWARE.COM - the biggest free abandonware collection in the universe
+ - [https://vetusware.com](https://vetusware.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['abandonware']
+
+## VG247
+ - [https://www.vg247.com](https://www.vg247.com)
+ - date published: 2023-11-28T13:23:37.145498+00:00
+ - user: None
+ - tags: []
+
+## Videogame Questions and Answers
+ - [https://www.vgassist.com](https://www.vgassist.com)
+ - date published: 2023-12-13T16:15:17.027932+00:00
+ - user: None
+ - tags: []
+
+## Centova Cast
+ - [http://radio.vgmradio.com](http://radio.vgmradio.com)
+ - date published: 2006-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## VGM Radio
+ - [https://vgmradio.com](https://vgmradio.com)
+ - date published: 2012-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## VGMusic - 31806 Game Music MIDI files
+ - [http://www.vgmusic.com](http://www.vgmusic.com)
+ - date published: 1996-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Viam | Bring Any Smart Machine Project to Life
+ - [https://www.viam.com](https://www.viam.com)
+ - date published: 2023-10-25T17:56:12.612670+00:00
+ - user: None
+ - tags: []
+
+## VIBE.com
+ - [https://www.vibe.com](https://www.vibe.com)
+ - date published: 2023-11-22T23:43:52.120847+00:00
+ - user: None
+ - tags: []
+
+## viborc.com • Data-driven stories for bright minds
+ - [https://viborc.com](https://viborc.com)
+ - date published: 2023-10-25T17:56:14.934252+00:00
+ - user: None
+ - tags: []
+
+## VICE - VICE is the definitive guide to enlightening information.
+ - [https://www.vice.com](https://www.vice.com)
+ - date published: 2023-10-25T10:29:22.678604+00:00
+ - user: None
+ - tags: []
+
+## Tech Blog | ★❤✰ Vicki Boykis ★❤✰
+ - [https://vickiboykis.com](https://vickiboykis.com)
+ - date published: 2023-10-25T17:56:16.247870+00:00
+ - user: None
+ - tags: ['blog', 'personal']
+
+## Welcome to the Victoria News
+ - [https://www.vicnews.com](https://www.vicnews.com)
+ - date published: 2023-11-05T01:47:17.761566+00:00
+ - user: None
+ - tags: []
+
+## Home | Victor Brandalise
+ - [https://victorbrandalise.com](https://victorbrandalise.com)
+ - date published: 2023-10-25T17:56:19.318141+00:00
+ - user: None
+ - tags: []
+
+## Victoria Erickson
+ - [https://www.victoriaerickson.com](https://www.victoriaerickson.com)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## VictoriaMetrics: Simple & Reliable Monitoring for Everyone
+ - [https://victoriametrics.com](https://victoriametrics.com)
+ - date published: 2023-10-25T17:56:20.471667+00:00
+ - user: None
+ - tags: []
+
+## A fine set of rules, designed to ensure that all who post there may do so with the assurance that their comments will be met with approbation by those of a similar persuasion
+ - [https://victorianhackernews.com](https://victorianhackernews.com)
+ - date published: 2023-10-25T17:56:21.528971+00:00
+ - user: None
+ - tags: []
+
+## VictoriaNow | Victoria news and the stuff that matters
+ - [https://www.victorianow.com](https://www.victorianow.com)
+ - date published: 2023-11-16T08:28:10.924553+00:00
+ - user: None
+ - tags: []
+
 ## https://www.victoryofmesa.com
  - [https://www.victoryofmesa.com](https://www.victoryofmesa.com)
  - date published: 2024-02-08T16:27:24.117189+00:00
@@ -2508,14 +2610,14 @@
  - tags: []
 
 ## WinWorld: Welcome
- - [http://winworldpc.com](http://winworldpc.com)
- - date published: 2024-02-26T08:40:39.467757+00:00
+ - [https://winworldpc.com](https://winworldpc.com)
+ - date published: 2024-01-01T19:17:47.205122+00:00
  - user: None
  - tags: []
 
 ## WinWorld: Welcome
- - [https://winworldpc.com](https://winworldpc.com)
- - date published: 2024-01-01T19:17:47.205122+00:00
+ - [http://winworldpc.com](http://winworldpc.com)
+ - date published: 2024-02-26T08:40:39.467757+00:00
  - user: None
  - tags: []
 
@@ -2950,6 +3052,12 @@
  - date published: 2024-02-08T17:44:02.926930+00:00
  - user: None
  - tags: []
+
+## WooCommerce - Open Source ecommerce Platform
+ - [https://woo.com](https://woo.com)
+ - date published: 2024-04-03T00:00:00+00:00
+ - user: rumpel
+ - tags: ['wordpress']
 
 ## Wooden Brain Concepts Home
  - [https://www.woodenbrain.com](https://www.woodenbrain.com)
@@ -5513,11 +5621,11 @@
  - user: None
  - tags: []
 
-## YouTube Channel hipoonios
- - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
- - date published: 2023-11-02T10:41:50+00:00
+## Eta Prime YouTube Channel
+ - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
+ - date published: 2023-11-03T10:35:46+00:00
  - user: rumpel
- - tags: ['amiga']
+ - tags: ['youtuber', 'single-board', 'raspberry']
 
 ## Jeff Geerling YouTube Channel
  - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
@@ -5525,17 +5633,23 @@
  - user: rumpel
  - tags: ['youtuber', 'single-board', 'raspberry']
 
+## YouTube Channel hipoonios
+ - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
+ - date published: 2023-11-02T10:41:50+00:00
+ - user: rumpel
+ - tags: ['amiga']
+
+## Luetin09 YouTube Channel
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
+ - date published: 2023-11-08T09:33:03+00:00
+ - user: rumpel
+ - tags: ['wargames', 'tabletop games', 'warhammer']
+
 ## Squidmar Miniatures
  - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
  - date published: 2023-11-08T09:58:45+00:00
  - user: rumpel
  - tags: []
-
-## Eta Prime YouTube Channel
- - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
- - date published: 2023-11-03T10:35:46+00:00
- - user: rumpel
- - tags: ['youtuber', 'single-board', 'raspberry']
 
 ## Tabletop Minions
  - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
@@ -5543,17 +5657,11 @@
  - user: rumpel
  - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
 
-## LukHash YouTube Channel
- - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
- - date published: 2023-11-03T14:42:18+00:00
+## Louis Rossmann YouTube Channel
+ - [https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
+ - date published: 2023-11-03T10:37:58+00:00
  - user: rumpel
- - tags: []
-
-## Luetin09 YouTube Channel
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
- - date published: 2023-11-08T09:33:03+00:00
- - user: rumpel
- - tags: ['wargames', 'tabletop games', 'warhammer']
+ - tags: ['right to repair']
 
 ## Miniac
  - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
@@ -5573,27 +5681,27 @@
  - user: rumpel
  - tags: ['synthwave', 'new retro wave']
 
+## LukHash YouTube Channel
+ - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
+ - date published: 2023-11-03T14:42:18+00:00
+ - user: rumpel
+ - tags: []
+
 ## YouTube
  - [https://www.youtube.com](https://www.youtube.com)
  - date published: 2023-10-24T20:05:58.291792+00:00
  - user: None
  - tags: ['google', 'gatekeeper', 'video streaming']
 
-## Louis Rossmann YouTube Channel
- - [https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
- - date published: 2023-11-03T10:37:58+00:00
- - user: rumpel
- - tags: ['right to repair']
-
 ## YouTube
- - [https://youtube.com](https://youtube.com)
- - date published: 2023-11-14T01:45:17.978988+00:00
+ - [http://youtube.com](http://youtube.com)
+ - date published: 2024-03-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## YouTube
- - [http://youtube.com](http://youtube.com)
- - date published: 2024-03-06T00:00:00+00:00
+ - [https://youtube.com](https://youtube.com)
+ - date published: 2023-11-14T01:45:17.978988+00:00
  - user: None
  - tags: []
 
@@ -5891,112 +5999,4 @@
  - date published: 2024-02-07T00:00:00+00:00
  - user: None
  - tags: []
-
-## https://theathletic.zendesk.com
- - [https://theathletic.zendesk.com](https://theathletic.zendesk.com)
- - date published: 2023-11-04T23:17:18.597491+00:00
- - user: None
- - tags: []
-
-## Zenfetch Personal AI
- - [https://www.zenfetch.com](https://www.zenfetch.com)
- - date published: 2024-01-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## Zen Masta Flash
- - [https://zenmastaflash.com](https://zenmastaflash.com)
- - date published: 2024-01-04T08:12:55.578298+00:00
- - user: None
- - tags: []
-
-## Zen Rants
- - [https://www.zenrants.com](https://www.zenrants.com)
- - date published: 2023-11-29T15:44:09.787517+00:00
- - user: None
- - tags: ['personal']
-
-## https://www.zenrows.com
- - [https://www.zenrows.com](https://www.zenrows.com)
- - date published: 2023-10-25T18:24:53.180839+00:00
- - user: None
- - tags: []
-
-## ZeptoBars
- - [https://zeptobars.com](https://zeptobars.com)
- - date published: 2023-10-25T18:24:54.075440+00:00
- - user: None
- - tags: []
-
-## ZeptoBars
- - [http://zeptobars.com](http://zeptobars.com)
- - date published: 2024-02-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## zeptonaut
- - [https://www.zeptonaut.com](https://www.zeptonaut.com)
- - date published: 2023-10-25T18:25:01.191982+00:00
- - user: None
- - tags: []
-
-## Zero ASIC
- - [https://www.zeroasic.com](https://www.zeroasic.com)
- - date published: 2023-10-27T11:56:56.373630+00:00
- - user: None
- - tags: []
-
-## ZeroBanana: Software for Humans
- - [https://www.zerobanana.com](https://www.zerobanana.com)
- - date published: 2023-10-25T18:25:03.471194+00:00
- - user: None
- - tags: []
-
-## Home | Zero Day Initiative
- - [https://www.zerodayinitiative.com](https://www.zerodayinitiative.com)
- - date published: 2023-10-25T18:25:09.801572+00:00
- - user: None
- - tags: ['hacking', 'software vulnerabilities']
-
-## ZERODIUM - The Premium Exploit Acquisition Platform
- - [https://www.zerodium.com](https://www.zerodium.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Zerohedge
- - [https://www.zerohedge.com](https://www.zerohedge.com)
- - date published: 2023-10-25T18:25:12.953645+00:00
- - user: None
- - tags: []
-
-## Zero to Nix
- - [https://zero-to-nix.com](https://zero-to-nix.com)
- - date published: 2023-10-25T18:25:02.088596+00:00
- - user: None
- - tags: []
-
-## Zeta Alpha | The Neural Discovery Platform
- - [https://www.zeta-alpha.com](https://www.zeta-alpha.com)
- - date published: 2023-10-25T18:25:15.162782+00:00
- - user: None
- - tags: []
-
-## ZetCode - Go, C#, Python, Java, JavaScript programming
- - [https://zetcode.com](https://zetcode.com)
- - date published: 2024-01-21T21:06:27+00:00
- - user: rumpel
- - tags: ['tutorial']
-
-## Press Start Page - ZF
- - [https://press.zf.com](https://press.zf.com)
- - date published: 2023-10-25T18:25:23.791399+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.zgware.com](https://www.zgware.com)
- - date published: 2024-04-03T06:26:42.664594+00:00
- - user: None
- - tags: ['personal']
 

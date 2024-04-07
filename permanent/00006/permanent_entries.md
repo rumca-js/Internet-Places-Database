@@ -1,3 +1,51 @@
+## FOX 4 News Dallas-Fort Worth
+ - [https://www.fox4news.com](https://www.fox4news.com)
+ - date published: 2023-10-25T11:04:13.925923+00:00
+ - user: None
+ - tags: []
+
+## Fox 4 News | WFTX - Southwest Florida | Fox4Now.com - Home
+ - [https://www.fox4now.com](https://www.fox4now.com)
+ - date published: 2023-10-25T11:04:21.031601+00:00
+ - user: None
+ - tags: []
+
+## FOX 5 Atlanta
+ - [https://fox5atlanta.com](https://fox5atlanta.com)
+ - date published: 2024-03-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## FOX 5 Atlanta
+ - [https://www.fox5atlanta.com](https://www.fox5atlanta.com)
+ - date published: 2023-12-15T21:47:23.514757+00:00
+ - user: None
+ - tags: []
+
+## FOX 5 DC
+ - [https://www.fox5dc.com](https://www.fox5dc.com)
+ - date published: 2023-10-25T11:04:31.305284+00:00
+ - user: None
+ - tags: []
+
+## FOX 5 New York
+ - [https://www.fox5ny.com](https://www.fox5ny.com)
+ - date published: 2023-11-01T17:47:22.130538+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.fox5vegas.com](https://www.fox5vegas.com)
+ - date published: 2024-01-03T12:30:37.079630+00:00
+ - user: None
+ - tags: []
+
+## FOX 7 Austin
+ - [https://www.fox7austin.com](https://www.fox7austin.com)
+ - date published: 2023-10-25T11:04:44.675389+00:00
+ - user: None
+ - tags: []
+
 ## FOX 8 WVUE-TV in New Orleans
  - [https://www.fox8live.com](https://www.fox8live.com)
  - date published: 2023-12-22T03:35:05.796458+00:00
@@ -941,26 +989,20 @@
  - tags: []
 
 ## GameOver Music - Radio
- - [https://gameover-radio.com](https://gameover-radio.com)
- - date published: 2024-02-15T22:13:10.790152+00:00
- - user: None
- - tags: ['demoscene']
-
-## GameOver Music - Radio
  - [http://gameover-radio.com](http://gameover-radio.com)
  - date published: 2024-02-11T14:36:22.689452+00:00
  - user: None
  - tags: ['video game music']
 
+## GameOver Music - Radio
+ - [https://gameover-radio.com](https://gameover-radio.com)
+ - date published: 2024-02-15T22:13:10.790152+00:00
+ - user: None
+ - tags: ['demoscene']
+
 ## Streaming Video Game Music Radio - Gamepad Music
  - [https://www.gamepadmusic.com](https://www.gamepadmusic.com)
  - date published: 2024-02-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Leaguepedia | League of Legends Esports Wiki
- - [http://lol.gamepedia.com](http://lol.gamepedia.com)
- - date published: 2024-03-04T03:54:23.281525+00:00
  - user: None
  - tags: []
 
@@ -970,15 +1012,21 @@
  - user: None
  - tags: []
 
-## Game Programming Patterns
- - [http://gameprogrammingpatterns.com](http://gameprogrammingpatterns.com)
- - date published: 1999-01-01T00:00:00+00:00
+## Leaguepedia | League of Legends Esports Wiki
+ - [http://lol.gamepedia.com](http://lol.gamepedia.com)
+ - date published: 2024-03-04T03:54:23.281525+00:00
  - user: None
  - tags: []
 
 ## Game Programming Patterns
  - [https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com)
  - date published: 2024-02-21T07:23:55+00:00
+ - user: None
+ - tags: []
+
+## Game Programming Patterns
+ - [http://gameprogrammingpatterns.com](http://gameprogrammingpatterns.com)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2041,16 +2089,16 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Gioel Gio – Creative action researcher
- - [http://gioelgio.com](http://gioelgio.com)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gioel Gio – Creative action researcher
  - [https://gioelgio.com](https://gioelgio.com)
  - date published: 2024-01-15T08:33:12.975028+00:00
  - user: None
  - tags: ['personal']
+
+## Gioel Gio – Creative action researcher
+ - [http://gioelgio.com](http://gioelgio.com)
+ - date published: 2024-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Hi, I’m Giorgio. | Giorgio Pretto - UX Designer
  - [https://www.giorgiopretto.com](https://www.giorgiopretto.com)
@@ -2184,17 +2232,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['gatekeeper', 'software platform']
 
-## GitHub: Let’s build from here
- - [http://github.com](http://github.com)
- - date published: 2024-03-25T22:21:06.333550+00:00
- - user: None
- - tags: []
-
 ## Grimoire: Open-Source bookmark manager with extra features
  - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
  - date published: 2023-11-26T08:04:54+00:00
  - user: rumpel
  - tags: ['bookmark manager', 'open source']
+
+## GitHub: Let’s build from here
+ - [http://github.com](http://github.com)
+ - date published: 2024-03-25T22:21:06.333550+00:00
+ - user: None
+ - tags: []
 
 ## GitHub Pages
  - [https://pages.github.com](https://pages.github.com)
@@ -2286,17 +2334,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
-## The DevSecOps Platform
- - [http://gitlab.com](http://gitlab.com)
- - date published: 2024-02-26T15:11:59.290515+00:00
- - user: None
- - tags: []
-
 ## The DevSecOps Platform | GitLab
  - [https://gitlab.com](https://gitlab.com)
  - date published: 2023-10-25T14:45:19.469977+00:00
  - user: None
  - tags: ['code repository']
+
+## The DevSecOps Platform
+ - [http://gitlab.com](http://gitlab.com)
+ - date published: 2024-02-26T15:11:59.290515+00:00
+ - user: None
+ - tags: []
 
 ## GitLab System Status
  - [https://status.gitlab.com](https://status.gitlab.com)
@@ -4018,14 +4066,14 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## NSB Home page
- - [http://www.guppylake.com](http://www.guppylake.com)
- - date published: 2023-01-01T00:00:00+00:00
+ - [https://www.guppylake.com](https://www.guppylake.com)
+ - date published: 2023-12-22T07:17:34.852159+00:00
  - user: None
  - tags: []
 
 ## NSB Home page
- - [https://www.guppylake.com](https://www.guppylake.com)
- - date published: 2023-12-22T07:17:34.852159+00:00
+ - [http://www.guppylake.com](http://www.guppylake.com)
+ - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4324,16 +4372,16 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Hailley Griffis
- - [https://www.hailleygriffis.com](https://www.hailleygriffis.com)
- - date published: 2024-01-11T07:52:06.090610+00:00
- - user: None
- - tags: ['personal']
-
-## Hailley Griffis
  - [http://www.hailleygriffis.com](http://www.hailleygriffis.com)
  - date published: 2024-03-11T00:00:00+00:00
  - user: None
  - tags: []
+
+## Hailley Griffis
+ - [https://www.hailleygriffis.com](https://www.hailleygriffis.com)
+ - date published: 2024-01-11T07:52:06.090610+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Hai Robotics Homepage
  - [https://www.hairobotics.com](https://www.hairobotics.com)
@@ -4474,16 +4522,16 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
- - [https://www.hanselman.com](https://www.hanselman.com)
- - date published: 2023-10-25T09:20:35.173651+00:00
- - user: None
- - tags: ['personal']
-
-## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
  - [http://www.hanselman.com](http://www.hanselman.com)
  - date published: 2024-03-07T00:00:00+00:00
  - user: None
  - tags: []
+
+## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
+ - [https://www.hanselman.com](https://www.hanselman.com)
+ - date published: 2023-10-25T09:20:35.173651+00:00
+ - user: None
+ - tags: ['personal']
 
 ## James Bottomley's random Pages | A collection of information
  - [https://blog.hansenpartnership.com](https://blog.hansenpartnership.com)
@@ -5596,16 +5644,16 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: ['hobby', 'sculpting', 'miniatures']
 
 ## Kelly Hobkirk portfolio - Seattle graphic designer
- - [http://www.hobkirkdesign.com](http://www.hobkirkdesign.com)
- - date published: 2022-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Kelly Hobkirk portfolio - Seattle graphic designer
  - [https://www.hobkirkdesign.com](https://www.hobkirkdesign.com)
  - date published: 2023-11-29T14:23:31.668593+00:00
  - user: None
  - tags: ['personal']
+
+## Kelly Hobkirk portfolio - Seattle graphic designer
+ - [http://www.hobkirkdesign.com](http://www.hobkirkdesign.com)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Hodinkee
  - [https://www.hodinkee.com](https://www.hodinkee.com)
@@ -5952,54 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Houstonia Magazine
  - [https://www.houstoniamag.com](https://www.houstoniamag.com)
  - date published: 2024-03-18T19:23:42.085151+00:00
- - user: None
- - tags: []
-
-## How To Electronics | Engineering Projects & Tutorials
- - [https://how2electronics.com](https://how2electronics.com)
- - date published: 2023-10-25T11:15:04.572178+00:00
- - user: None
- - tags: []
-
-## How a Car Works - Guides to car mechanics and automotive engineering
- - [https://www.howacarworks.com](https://www.howacarworks.com)
- - date published: 2023-10-25T15:10:46.607296+00:00
- - user: None
- - tags: []
-
-## Howchoo - How-to and DIY Guides for Makers, Programmers, and Everyone
- - [https://howchoo.com](https://howchoo.com)
- - date published: 2023-10-25T15:10:53.189434+00:00
- - user: None
- - tags: []
-
-## Building a CPU from transistors
- - [https://howcpuworks.com](https://howcpuworks.com)
- - date published: 2023-10-25T15:10:59.536145+00:00
- - user: None
- - tags: []
-
-## Add your rent. Check rent prices
- - [https://www.howmuchrent.com](https://www.howmuchrent.com)
- - date published: 2023-10-25T15:11:00.822194+00:00
- - user: None
- - tags: []
-
-## Animals
- - [https://animals.howstuffworks.com](https://animals.howstuffworks.com)
- - date published: 2023-11-20T19:04:04.844377+00:00
- - user: None
- - tags: ['animals']
-
-## Auto
- - [https://auto.howstuffworks.com](https://auto.howstuffworks.com)
- - date published: 2006-01-29T05:00:00+00:00
- - user: None
- - tags: []
-
-## HowStuffWorks Syndication
- - [https://syndication.howstuffworks.com](https://syndication.howstuffworks.com)
- - date published: 2024-02-25T20:46:33.888170+00:00
  - user: None
  - tags: []
 

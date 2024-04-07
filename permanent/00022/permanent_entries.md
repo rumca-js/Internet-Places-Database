@@ -1,3 +1,166 @@
+## Noisy Deadlines
+ - [https://noisydeadlines.net](https://noisydeadlines.net)
+ - date published: 2023-11-29T19:26:35.623076+00:00
+ - user: None
+ - tags: ['personal']
+
+## Noisy Pixel - Gaming, Etc.
+ - [https://noisypixel.net](https://noisypixel.net)
+ - date published: 2021-01-04T10:20:48+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.noodl.net](https://www.noodl.net)
+ - date published: 2023-10-25T20:34:37.399098+00:00
+ - user: None
+ - tags: []
+
+## nosher.net
+ - [https://nosher.net](https://nosher.net)
+ - date published: 2023-10-25T20:34:43.515773+00:00
+ - user: None
+ - tags: []
+
+## awesome-nostr | A curated list of nostr projects and resources
+ - [https://www.nostr.net](https://www.nostr.net)
+ - date published: 2023-10-25T20:34:51.420678+00:00
+ - user: None
+ - tags: []
+
+## Notebook / Laptop Reviews and News - NotebookCheck.net
+ - [https://www.notebookcheck.net](https://www.notebookcheck.net)
+ - date published: 2023-10-25T09:37:15.967699+00:00
+ - user: None
+ - tags: ['tech news']
+
+## notgull – The world's \#1 source of notgull
+ - [https://notgull.net](https://notgull.net)
+ - date published: 2023-10-25T20:34:52.578516+00:00
+ - user: None
+ - tags: []
+
+## Noulakaz
+ - [https://www.noulakaz.net](https://www.noulakaz.net)
+ - date published: 2023-10-25T20:35:03.513894+00:00
+ - user: None
+ - tags: []
+
+## Nuitka the Python Compiler — Nuitka the Python Compiler  documentation
+ - [https://nuitka.net](https://nuitka.net)
+ - date published: 2023-10-25T20:35:04.312513+00:00
+ - user: None
+ - tags: []
+
+## nuxx.net – Making, baking, and (un-)breaking things in Southeast Michigan.
+ - [https://nuxx.net](https://nuxx.net)
+ - date published: 2023-10-25T20:35:07.367064+00:00
+ - user: None
+ - tags: []
+
+## https://oagd.net
+ - [https://oagd.net](https://oagd.net)
+ - date published: 2024-01-09T03:35:59.718961+00:00
+ - user: None
+ - tags: []
+
+## Markus Oberlehner - Web Developer, Blogger, Open Source Contributor
+ - [https://markus.oberlehner.net](https://markus.oberlehner.net)
+ - date published: 2023-12-31T20:01:40.128125+00:00
+ - user: None
+ - tags: []
+
+## Obsidian
+				 | Home
+ - [https://www.obsidian.net](https://www.obsidian.net)
+ - date published: 2023-11-01T09:06:55.954899+00:00
+ - user: None
+ - tags: ['fallout', 'company', 'video game developer']
+
+## OddBird CSS Sandbox
+ - [https://css.oddbird.net](https://css.oddbird.net)
+ - date published: 2024-02-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ohio Book Store, Cincinnati, Ohio
+ - [http://ohiobookstore.net](http://ohiobookstore.net)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ohio Marijuana Network - Cannabis News and Product Reviews
+ - [https://ohmj.net](https://ohmj.net)
+ - date published: 2023-11-08T12:30:51.325972+00:00
+ - user: None
+ - tags: []
+
+## Ole Begemann
+ - [https://oleb.net](https://oleb.net)
+ - date published: 2023-10-25T08:53:21.577420+00:00
+ - user: None
+ - tags: ['personal']
+
+## OnlineBusinessConsulting - Software, tools, digital & growth marketing guides, services & more
+ - [https://www.onlinebusinessconsultants.net](https://www.onlinebusinessconsultants.net)
+ - date published: 2023-12-07T17:36:58.221781+00:00
+ - user: None
+ - tags: ['personal']
+
+## onsclom
+ - [https://www.onsclom.net](https://www.onsclom.net)
+ - date published: 2023-10-25T20:35:08.097013+00:00
+ - user: None
+ - tags: []
+
+## Home | openDemocracy
+ - [https://www.opendemocracy.net](https://www.opendemocracy.net)
+ - date published: 2023-10-25T20:35:11.540676+00:00
+ - user: None
+ - tags: []
+
+## OpenHV Links
+ - [https://www.openhv.net](https://www.openhv.net)
+ - date published: 2023-10-25T20:35:12.078633+00:00
+ - user: None
+ - tags: []
+
+## Welcome! | OpenMarine
+ - [https://openmarine.net](https://openmarine.net)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Karl Seguin
+ - [https://www.openmymind.net](https://www.openmymind.net)
+ - date published: 2023-10-25T20:35:14.199065+00:00
+ - user: None
+ - tags: []
+
+## OpenRA - Classic strategy games rebuilt for the modern era
+ - [https://www.openra.net](https://www.openra.net)
+ - date published: 2023-10-25T20:35:15.188173+00:00
+ - user: None
+ - tags: ['open source', 'video game']
+
+## Venues | OpenReview
+ - [https://openreview.net](https://openreview.net)
+ - date published: 2023-10-25T20:35:16.564643+00:00
+ - user: None
+ - tags: []
+
+## Home - OpenSource.net
+ - [https://opensource.net](https://opensource.net)
+ - date published: 2023-11-19T06:48:48.853037+00:00
+ - user: None
+ - tags: ['tech news', 'open source']
+
+## The Opt Out Project
+ - [https://www.optoutproject.net](https://www.optoutproject.net)
+ - date published: 2023-10-25T20:35:18.928134+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://www.orangepixel.net](https://www.orangepixel.net)
  - date published: 2024-02-08T22:09:00.323482+00:00
@@ -341,14 +504,14 @@
  - tags: []
 
 ## play.net >> Where adventure finds you.
- - [http://www.play.net](http://www.play.net)
- - date published: 2024-03-27T20:46:31.499024+00:00
+ - [https://www.play.net](https://www.play.net)
+ - date published: 2024-03-27T20:52:27.939000+00:00
  - user: None
  - tags: ['mud game']
 
 ## play.net >> Where adventure finds you.
- - [https://www.play.net](https://www.play.net)
- - date published: 2024-03-27T20:52:27.939000+00:00
+ - [http://www.play.net](http://www.play.net)
+ - date published: 2024-03-27T20:46:31.499024+00:00
  - user: None
  - tags: ['mud game']
 
@@ -365,16 +528,16 @@
  - tags: ['cory doctorow', 'internet forum']
 
 ## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
- - [https://pluralistic.net](https://pluralistic.net)
- - date published: 2023-10-25T08:57:45.517375+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
  - [http://pluralistic.net](http://pluralistic.net)
  - date published: 2024-02-24T18:22:24.558627+00:00
  - user: None
  - tags: []
+
+## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
+ - [https://pluralistic.net](https://pluralistic.net)
+ - date published: 2023-10-25T08:57:45.517375+00:00
+ - user: None
+ - tags: ['personal', 'blog']
 
 ## Poc Network // Tech - Today's Tech News and Reviews
  - [https://www.pocnetwork.net](https://www.pocnetwork.net)
@@ -869,16 +1032,16 @@
  - tags: []
 
 ## Savage Pink
- - [https://www.savagepink.net](https://www.savagepink.net)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Savage Pink
  - [http://www.savagepink.net](http://www.savagepink.net)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Savage Pink
+ - [https://www.savagepink.net](https://www.savagepink.net)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Jamie Brandon
  - [https://www.scattered-thoughts.net](https://www.scattered-thoughts.net)
@@ -1307,16 +1470,16 @@
  - tags: []
 
 ## Compare, Download & Develop Open Source & Business Software - SourceForge
- - [http://sourceforge.net](http://sourceforge.net)
- - date published: 2024-02-26T13:07:23.973035+00:00
- - user: None
- - tags: []
-
-## Compare, Download & Develop Open Source & Business Software - SourceForge
  - [https://sourceforge.net](https://sourceforge.net)
  - date published: 2023-10-25T08:41:02.286459+00:00
  - user: rumpel
  - tags: ['software platform', 'open source']
+
+## Compare, Download & Develop Open Source & Business Software - SourceForge
+ - [http://sourceforge.net](http://sourceforge.net)
+ - date published: 2024-02-26T13:07:23.973035+00:00
+ - user: None
+ - tags: []
 
 ## Thinking Forth
  - [https://thinking-forth.sourceforge.net](https://thinking-forth.sourceforge.net)
@@ -1906,15 +2069,15 @@
  - user: rumpel
  - tags: ['file send']
 
-## Transputer.net
- - [https://transputer.net](https://transputer.net)
- - date published: 2024-01-07T14:41:29+00:00
- - user: None
- - tags: []
-
 ## Welcome to transputer.net
  - [http://transputer.net](http://transputer.net)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Transputer.net
+ - [https://transputer.net](https://transputer.net)
+ - date published: 2024-01-07T14:41:29+00:00
  - user: None
  - tags: []
 
@@ -2177,14 +2340,14 @@
  - tags: ['personal']
 
 ## Stefan Hajnoczi
- - [https://blog.vmsplice.net](https://blog.vmsplice.net)
- - date published: 2024-01-03T01:08:14.621014+00:00
+ - [http://blog.vmsplice.net](http://blog.vmsplice.net)
+ - date published: 2024-01-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Stefan Hajnoczi
- - [http://blog.vmsplice.net](http://blog.vmsplice.net)
- - date published: 2024-01-25T00:00:00+00:00
+ - [https://blog.vmsplice.net](https://blog.vmsplice.net)
+ - date published: 2024-01-03T01:08:14.621014+00:00
  - user: None
  - tags: []
 
@@ -3803,14 +3966,14 @@
  - tags: []
 
 ## INEVO: Eksperter på e-handel og digital markedsføring
- - [https://www.inevo.no](https://www.inevo.no)
- - date published: 2023-11-29T14:22:21.036592+00:00
+ - [http://www.inevo.no](http://www.inevo.no)
+ - date published: 2024-04-03T12:44:43.410441+00:00
  - user: None
  - tags: ['personal']
 
 ## INEVO: Eksperter på e-handel og digital markedsføring
- - [http://www.inevo.no](http://www.inevo.no)
- - date published: 2024-04-03T12:44:43.410441+00:00
+ - [https://www.inevo.no](https://www.inevo.no)
+ - date published: 2023-11-29T14:22:21.036592+00:00
  - user: None
  - tags: ['personal']
 
@@ -4908,14 +5071,14 @@ marginalia.nu
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
@@ -5835,167 +5998,5 @@ marginalia.nu
  - [https://maven.apache.org](https://maven.apache.org)
  - date published: 2023-12-08T15:53:15+00:00
  - user: rumpel
- - tags: []
-
-## Netbeans
- - [https://netbeans.apache.org](https://netbeans.apache.org)
- - date published: 2023-12-02T09:10:29+00:00
- - user: rumpel
- - tags: ['programming ide']
-
-## The Apache Software Foundation Blog
- - [https://news.apache.org](https://news.apache.org)
- - date published: 2023-10-25T08:36:41.438322+00:00
- - user: None
- - tags: []
-
-## home.apache.org
- - [https://people.apache.org](https://people.apache.org)
- - date published: 2023-10-25T20:58:17.974296+00:00
- - user: None
- - tags: []
-
-## Apache Pinot™: Realtime distributed OLAP datastore | Apache Pinot™
- - [https://pinot.apache.org](https://pinot.apache.org)
- - date published: 2023-10-25T20:58:19.613396+00:00
- - user: None
- - tags: []
-
-## Welcome to Apache Solr - Apache Solr
- - [https://solr.apache.org](https://solr.apache.org)
- - date published: 2023-10-25T20:58:20.722292+00:00
- - user: None
- - tags: []
-
-## Apache Subversion
- - [https://subversion.apache.org](https://subversion.apache.org)
- - date published: 2024-03-04T14:29:20+00:00
- - user: rumpel
- - tags: ['svn', 'vcs']
-
-## Apache Superset
- - [https://superset.apache.org](https://superset.apache.org)
- - date published: 2024-02-26T14:36:35+00:00
- - user: None
- - tags: ['big data', 'data visualisation']
-
-## Welcome to The Apache Software Foundation!
- - [http://www.apache.org](http://www.apache.org)
- - date published: 2024-03-26T16:13:49.125566+00:00
- - user: None
- - tags: []
-
-## Apartheid Museum
- - [https://www.apartheidmuseum.org](https://www.apartheidmuseum.org)
- - date published: 2023-11-13T13:41:16.309026+00:00
- - user: None
- - tags: ['museum']
-
-## The Internet Shutdown Game
- - [https://shutdowngame.apc.org](https://shutdowngame.apc.org)
- - date published: 2023-12-08T08:40:07+00:00
- - user: None
- - tags: []
-
-## Association for Progressive Communications | Internet for social justice and sustainable development
- - [https://www.apc.org](https://www.apc.org)
- - date published: 2023-12-08T12:42:22+00:00
- - user: rumpel
- - tags: ['human rights', 'social justice']
-
-## Special Projects from APM Reports
- - [https://features.apmreports.org](https://features.apmreports.org)
- - date published: 2023-10-25T20:58:27.503889+00:00
- - user: None
- - tags: []
-
-## Apollo in Real Time
- - [https://apolloinrealtime.org](https://apolloinrealtime.org)
- - date published: 2023-10-25T20:58:29.154906+00:00
- - user: None
- - tags: []
-
-## The App Fair Project | appfair.org
- - [https://appfair.org](https://appfair.org)
- - date published: 2023-10-25T20:58:30.062730+00:00
- - user: None
- - tags: []
-
-## APPG on Pandemic Response and Recovery
- - [https://appgpandemic.org](https://appgpandemic.org)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## AppImage
- - [https://appimage.org](https://appimage.org)
- - date published: 2017-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['linux', 'program format']
-
-## Physical Review Journals
- - [https://journals.aps.org](https://journals.aps.org)
- - date published: 2023-10-25T20:58:32.037342+00:00
- - user: None
- - tags: []
-
-## Physics - spotlighting exceptional research
- - [https://physics.aps.org](https://physics.aps.org)
- - date published: 2023-10-25T20:58:34.154258+00:00
- - user: None
- - tags: []
-
-## APS Physics | American Physical Society
- - [https://www.aps.org](https://www.aps.org)
- - date published: 2023-10-25T20:58:37.121202+00:00
- - user: None
- - tags: []
-
-## APT Browse - Home
- - [https://www.apt-browse.org](https://www.apt-browse.org)
- - date published: 2023-10-25T20:58:43.373403+00:00
- - user: None
- - tags: []
-
-## Beijing Air Pollution: Real-time Air Quality Index
- - [https://aqicn.org](https://aqicn.org)
- - date published: 2023-10-25T20:58:48.998676+00:00
- - user: None
- - tags: []
-
-## Archaeology - Archaeology Magazine
- - [https://www.archaeology.org](https://www.archaeology.org)
- - date published: 2023-10-27T12:06:24.724348+00:00
- - user: None
- - tags: []
-
-## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
- - [https://archive.org](https://archive.org)
- - date published: 2023-10-25T09:29:04.093943+00:00
- - user: None
- - tags: ['internet archive', 'digital library']
-
-## Internet Archive: Secret service
- - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
- - date published: 2023-10-27T14:37:50+00:00
- - user: rumpel
- - tags: ['retro', 'magazine']
-
-## Internet Archive Blogs | A blog from the team at archive.org
- - [https://blog.archive.org](https://blog.archive.org)
- - date published: 2023-10-25T09:29:16.005203+00:00
- - user: None
- - tags: []
-
-## The Great 78 Project – Community Preservation, Research, Discovery of 78rpm Records
- - [https://great78.archive.org](https://great78.archive.org)
- - date published: 2023-10-27T12:06:31.660655+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia600700.us.archive.org
- - [https://ia600700.us.archive.org](https://ia600700.us.archive.org)
- - date published: 2023-10-25T20:59:13.402630+00:00
- - user: None
  - tags: []
 

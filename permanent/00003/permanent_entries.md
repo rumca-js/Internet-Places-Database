@@ -1,3 +1,33 @@
+## Ben Oliver
+ - [https://www.bfoliver.com](https://www.bfoliver.com)
+ - date published: 2023-12-19T19:08:03.990555+00:00
+ - user: None
+ - tags: ['personal']
+
+## bgdailynews.com | Southcentral Kentucky's No. 1 Source for News
+ - [https://www.bgdailynews.com](https://www.bgdailynews.com)
+ - date published: 2024-02-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Bloomberg Government
+ - [https://news.bgov.com](https://news.bgov.com)
+ - date published: 2024-03-21T23:01:42.823295+00:00
+ - user: None
+ - tags: []
+
+## BGR | Tech & Entertainment News, Reviews, & Deals
+ - [https://bgr.com](https://bgr.com)
+ - date published: 2023-10-25T12:58:43.634023+00:00
+ - user: None
+ - tags: []
+
+## Next generation full body haptic suit - bHaptics TactSuit
+ - [https://www.bhaptics.com](https://www.bhaptics.com)
+ - date published: 2023-11-27T16:13:54+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
 ## https://www.bhphotovideo.com
  - [https://www.bhphotovideo.com](https://www.bhphotovideo.com)
  - date published: 2024-02-23T22:51:31.570107+00:00
@@ -179,14 +209,14 @@
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [http://billingsgazette.com](http://billingsgazette.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://billingsgazette.com](https://billingsgazette.com)
+ - date published: 2023-12-17T18:30:53.119094+00:00
  - user: None
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [https://billingsgazette.com](https://billingsgazette.com)
- - date published: 2023-12-17T18:30:53.119094+00:00
+ - [http://billingsgazette.com](http://billingsgazette.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1091,13 +1121,13 @@
  - tags: ['personal']
 
 ## The Axis of Eval
- - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
+ - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Axis of Eval
- - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
+ - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
@@ -1247,16 +1277,16 @@
  - tags: ['personal']
 
 ## Database Architects
- - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Database Architects
  - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
  - date published: 2023-10-25T09:08:09.774302+00:00
  - user: None
  - tags: ['personal']
+
+## Database Architects
+ - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Data Finnovation
  - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
@@ -1835,14 +1865,14 @@
  - tags: ['personal']
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
- - date published: 2024-01-04T00:00:00+00:00
+ - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
+ - date published: 2024-01-03T20:38:22.927557+00:00
  - user: None
  - tags: []
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
- - date published: 2024-01-03T20:38:22.927557+00:00
+ - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
+ - date published: 2024-01-04T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2267,14 +2297,14 @@
  - tags: []
 
 ## Bob Bertsch
- - [http://bobbertsch.com](http://bobbertsch.com)
- - date published: 2024-04-03T06:30:48.075523+00:00
+ - [https://bobbertsch.com](https://bobbertsch.com)
+ - date published: 2023-12-19T10:00:09.271295+00:00
  - user: None
  - tags: ['personal']
 
 ## Bob Bertsch
- - [https://bobbertsch.com](https://bobbertsch.com)
- - date published: 2023-12-19T10:00:09.271295+00:00
+ - [http://bobbertsch.com](http://bobbertsch.com)
+ - date published: 2024-04-03T06:30:48.075523+00:00
  - user: None
  - tags: ['personal']
 
@@ -2314,17 +2344,17 @@
  - user: None
  - tags: ['personal']
 
-## Bobzien.com – From the western edge of the Great Basin
- - [http://www.bobzien.com](http://www.bobzien.com)
- - date published: 2024-04-03T06:30:28.715784+00:00
- - user: None
- - tags: ['personal']
-
 ## Site not found · DreamHost
  - [https://www.bobzien.com](https://www.bobzien.com)
  - date published: 2024-01-15T13:59:16.442976+00:00
  - user: None
  - tags: []
+
+## Bobzien.com – From the western edge of the Great Basin
+ - [http://www.bobzien.com](http://www.bobzien.com)
+ - date published: 2024-04-03T06:30:28.715784+00:00
+ - user: None
+ - tags: ['personal']
 
 ## BodyLines.com™ :: Curves® breast enhancers | 100% Cashmere Scarves
  - [https://www.bodylines.com](https://www.bodylines.com)
@@ -2533,14 +2563,14 @@
  - tags: ['books']
 
 ## Bookreporter.com |
- - [http://www.bookreporter.com](http://www.bookreporter.com)
- - date published: 2024-03-01T19:06:27.394328+00:00
+ - [https://www.bookreporter.com](https://www.bookreporter.com)
+ - date published: 2023-11-07T16:06:19.097099+00:00
  - user: None
  - tags: []
 
 ## Bookreporter.com |
- - [https://www.bookreporter.com](https://www.bookreporter.com)
- - date published: 2023-11-07T16:06:19.097099+00:00
+ - [http://www.bookreporter.com](http://www.bookreporter.com)
+ - date published: 2024-03-01T19:06:27.394328+00:00
  - user: None
  - tags: []
 
@@ -3247,16 +3277,16 @@
  - tags: []
 
 ## Bridget Gordon
- - [https://bridgetgordon.com](https://bridgetgordon.com)
- - date published: 2024-01-09T08:54:11.942646+00:00
- - user: None
- - tags: ['personal']
-
-## Bridget Gordon
  - [http://bridgetgordon.com](http://bridgetgordon.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Bridget Gordon
+ - [https://bridgetgordon.com](https://bridgetgordon.com)
+ - date published: 2024-01-09T08:54:11.942646+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Bridget Hunt
  - [https://bridgethunt.com](https://bridgethunt.com)
@@ -3467,6 +3497,12 @@
  - date published: 2023-10-25T10:58:28.522482+00:00
  - user: None
  - tags: []
+
+## BRUTALIST HACKER NEWS
+ - [https://brutalisthackernews.com](https://brutalisthackernews.com)
+ - date published: 2024-04-06T19:30:46+00:00
+ - user: rumpel
+ - tags: ['hacker news']
 
 ## Electro Industrial Music Magazine | Brutal Resonance
  - [https://www.brutalresonance.com](https://www.brutalresonance.com)
@@ -4849,14 +4885,14 @@
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [http://sports.cctv.com](http://sports.cctv.com)
- - date published: 2024-03-21T02:07:49.559014+00:00
+ - [https://sports.cctv.com](https://sports.cctv.com)
+ - date published: 2023-12-09T12:18:44.730556+00:00
  - user: None
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [https://sports.cctv.com](https://sports.cctv.com)
- - date published: 2023-12-09T12:18:44.730556+00:00
+ - [http://sports.cctv.com](http://sports.cctv.com)
+ - date published: 2024-03-21T02:07:49.559014+00:00
  - user: None
  - tags: []
 
@@ -5077,14 +5113,14 @@
  - tags: []
 
 ## Chad Riden
- - [https://chadriden.com](https://chadriden.com)
- - date published: 2024-01-09T11:06:48.763243+00:00
+ - [http://chadriden.com](http://chadriden.com)
+ - date published: 2024-04-03T06:31:43.422186+00:00
  - user: None
  - tags: ['personal']
 
 ## Chad Riden
- - [http://chadriden.com](http://chadriden.com)
- - date published: 2024-04-03T06:31:43.422186+00:00
+ - [https://chadriden.com](https://chadriden.com)
+ - date published: 2024-01-09T11:06:48.763243+00:00
  - user: None
  - tags: ['personal']
 
@@ -5646,17 +5682,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://chrisjstott.com](http://chrisjstott.com)
- - date published: 2024-02-29T14:58:49.595292+00:00
- - user: None
- - tags: []
-
 ## http://chrisjstott.com
  - [https://chrisjstott.com](https://chrisjstott.com)
  - date published: 2024-01-24T08:01:05.864817+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [http://chrisjstott.com](http://chrisjstott.com)
+ - date published: 2024-02-29T14:58:49.595292+00:00
+ - user: None
+ - tags: []
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -5851,14 +5887,14 @@
  - tags: ['personal']
 
 ## Christoph Gruber
- - [http://www.christophgruber.com](http://www.christophgruber.com)
- - date published: 2024-04-03T06:25:56.066461+00:00
+ - [https://www.christophgruber.com](https://www.christophgruber.com)
+ - date published: 2024-01-17T04:43:22.299793+00:00
  - user: None
  - tags: ['personal']
 
 ## Christoph Gruber
- - [https://www.christophgruber.com](https://www.christophgruber.com)
- - date published: 2024-01-17T04:43:22.299793+00:00
+ - [http://www.christophgruber.com](http://www.christophgruber.com)
+ - date published: 2024-04-03T06:25:56.066461+00:00
  - user: None
  - tags: ['personal']
 
@@ -5969,40 +6005,4 @@
  - date published: 2023-12-24T18:31:00.190284+00:00
  - user: None
  - tags: ['personal']
-
-## Cinefantastique – Horror, Fantasy & Science Fiction Films
- - [http://blog.cinefantastiqueonline.com](http://blog.cinefantastiqueonline.com)
- - date published: 2024-02-24T18:06:05.300615+00:00
- - user: None
- - tags: []
-
-## The Latest Indian Movie News And Film Reviews | Cinema Express
- - [https://www.cinemaexpress.com](https://www.cinemaexpress.com)
- - date published: 2023-10-25T11:29:56.350559+00:00
- - user: None
- - tags: []
-
-## Cinema Sojourns
- - [https://cinemasojourns.com](https://cinemasojourns.com)
- - date published: 2024-03-12T21:03:09.440431+00:00
- - user: None
- - tags: []
-
-## Cinematography.com - Community, Education, News and Resources - Cinematography.com
- - [https://cinematography.com](https://cinematography.com)
- - date published: 2023-10-25T13:23:20.039978+00:00
- - user: None
- - tags: []
-
-## CIO | The voice of IT leadership
- - [https://www.cio.com](https://www.cio.com)
- - date published: 2023-10-25T13:23:27.607432+00:00
- - user: None
- - tags: []
-
-## Information and Enterprise Technology News | CIO Dive
- - [https://www.ciodive.com](https://www.ciodive.com)
- - date published: 2023-10-25T13:23:37.193248+00:00
- - user: None
- - tags: []
 

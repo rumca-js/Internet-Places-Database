@@ -1,3 +1,39 @@
+## Cinefantastique – Horror, Fantasy & Science Fiction Films
+ - [http://blog.cinefantastiqueonline.com](http://blog.cinefantastiqueonline.com)
+ - date published: 2024-02-24T18:06:05.300615+00:00
+ - user: None
+ - tags: []
+
+## The Latest Indian Movie News And Film Reviews | Cinema Express
+ - [https://www.cinemaexpress.com](https://www.cinemaexpress.com)
+ - date published: 2023-10-25T11:29:56.350559+00:00
+ - user: None
+ - tags: []
+
+## Cinema Sojourns
+ - [https://cinemasojourns.com](https://cinemasojourns.com)
+ - date published: 2024-03-12T21:03:09.440431+00:00
+ - user: None
+ - tags: []
+
+## Cinematography.com - Community, Education, News and Resources - Cinematography.com
+ - [https://cinematography.com](https://cinematography.com)
+ - date published: 2023-10-25T13:23:20.039978+00:00
+ - user: None
+ - tags: []
+
+## CIO | The voice of IT leadership
+ - [https://www.cio.com](https://www.cio.com)
+ - date published: 2023-10-25T13:23:27.607432+00:00
+ - user: None
+ - tags: []
+
+## Information and Enterprise Technology News | CIO Dive
+ - [https://www.ciodive.com](https://www.ciodive.com)
+ - date published: 2023-10-25T13:23:37.193248+00:00
+ - user: None
+ - tags: []
+
 ## CIO Influence | IT, Cloud Computing and InfoSec news
  - [https://cioinfluence.com](https://cioinfluence.com)
  - date published: 2023-10-25T13:23:43.397807+00:00
@@ -281,16 +317,16 @@
  - tags: []
 
 ## Help for Individual and Organization Job Related Burnout
- - [http://www.clarkgaither.com](http://www.clarkgaither.com)
- - date published: 2024-04-03T06:30:14.610057+00:00
- - user: None
- - tags: ['personal']
-
-## Help for Individual and Organization Job Related Burnout
  - [https://www.clarkgaither.com](https://www.clarkgaither.com)
  - date published: 2024-01-19T13:01:43.978500+00:00
  - user: None
  - tags: []
+
+## Help for Individual and Organization Job Related Burnout
+ - [http://www.clarkgaither.com](http://www.clarkgaither.com)
+ - date published: 2024-04-03T06:30:14.610057+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Audio Visual Rental for Conferences, Meetings and Events
  - [https://clarksav.com](https://clarksav.com)
@@ -1563,15 +1599,15 @@
  - user: None
  - tags: []
 
-## IT news, careers, business technology, reviews
- - [http://www.computerworld.com](http://www.computerworld.com)
- - date published: 2024-02-25T19:22:09.150165+00:00
- - user: None
- - tags: []
-
 ## IT news, careers, business technology, reviews | Computerworld
  - [https://www.computerworld.com](https://www.computerworld.com)
  - date published: 2023-10-25T09:32:24.152677+00:00
+ - user: None
+ - tags: []
+
+## IT news, careers, business technology, reviews
+ - [http://www.computerworld.com](http://www.computerworld.com)
+ - date published: 2024-02-25T19:22:09.150165+00:00
  - user: None
  - tags: []
 
@@ -1989,15 +2025,15 @@
  - user: None
  - tags: []
 
-## Cory Shaw
- - [http://coryshaw.com](http://coryshaw.com)
- - date published: 2024-04-03T06:25:46.463221+00:00
- - user: None
- - tags: ['personal']
-
 ## Cory Shaw | Cory Shaw
  - [https://coryshaw.com](https://coryshaw.com)
  - date published: 2024-01-08T15:36:54.508225+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cory Shaw
+ - [http://coryshaw.com](http://coryshaw.com)
+ - date published: 2024-04-03T06:25:46.463221+00:00
  - user: None
  - tags: ['personal']
 
@@ -2265,15 +2301,21 @@
  - user: None
  - tags: []
 
-## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [http://craphound.com](http://craphound.com)
- - date published: 2024-02-25T19:26:24.229621+00:00
- - user: None
- - tags: []
+## CrankySec
+ - [https://crankysec.com](https://crankysec.com)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: rumpel
+ - tags: ['cybersecurity']
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
  - [https://craphound.com](https://craphound.com)
  - date published: 2023-11-28T07:36:32+00:00
+ - user: None
+ - tags: []
+
+## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
+ - [http://craphound.com](http://craphound.com)
+ - date published: 2024-02-25T19:26:24.229621+00:00
  - user: None
  - tags: []
 
@@ -3197,14 +3239,14 @@
  - tags: []
 
 ## The Daily Caller
- - [https://dailycaller.com](https://dailycaller.com)
- - date published: 2023-10-25T13:41:19.635856+00:00
+ - [http://dailycaller.com](http://dailycaller.com)
+ - date published: 2024-02-26T13:39:38.331957+00:00
  - user: None
  - tags: []
 
 ## The Daily Caller
- - [http://dailycaller.com](http://dailycaller.com)
- - date published: 2024-02-26T13:39:38.331957+00:00
+ - [https://dailycaller.com](https://dailycaller.com)
+ - date published: 2023-10-25T13:41:19.635856+00:00
  - user: None
  - tags: []
 
@@ -3575,14 +3617,14 @@
  - tags: ['personal']
 
 ## agora.danielwildt.com
- - [http://agora.danielwildt.com](http://agora.danielwildt.com)
- - date published: 2024-04-03T06:29:35.599038+00:00
+ - [https://agora.danielwildt.com](https://agora.danielwildt.com)
+ - date published: 2024-01-06T17:57:51.669161+00:00
  - user: None
  - tags: ['personal']
 
 ## agora.danielwildt.com
- - [https://agora.danielwildt.com](https://agora.danielwildt.com)
- - date published: 2024-01-06T17:57:51.669161+00:00
+ - [http://agora.danielwildt.com](http://agora.danielwildt.com)
+ - date published: 2024-04-03T06:29:35.599038+00:00
  - user: None
  - tags: ['personal']
 
@@ -3682,15 +3724,15 @@
  - user: None
  - tags: ['personal']
 
-## https://www.danpalladinomusic.com
- - [https://www.danpalladinomusic.com](https://www.danpalladinomusic.com)
- - date published: 2024-01-04T03:32:32.543499+00:00
- - user: None
- - tags: ['personal']
-
 ## Dan Palladino Music
  - [http://www.danpalladinomusic.com](http://www.danpalladinomusic.com)
  - date published: 2024-04-03T06:32:27.082972+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.danpalladinomusic.com
+ - [https://www.danpalladinomusic.com](https://www.danpalladinomusic.com)
+ - date published: 2024-01-04T03:32:32.543499+00:00
  - user: None
  - tags: ['personal']
 
@@ -4193,14 +4235,14 @@
  - tags: []
 
 ## David John Kaye | Deeptech Grant Writer and Business Designer
- - [http://davidjohnkaye.com](http://davidjohnkaye.com)
- - date published: 2024-04-03T12:47:55.300289+00:00
+ - [https://davidjohnkaye.com](https://davidjohnkaye.com)
+ - date published: 2024-01-09T02:34:06.758516+00:00
  - user: None
  - tags: ['personal']
 
 ## David John Kaye | Deeptech Grant Writer and Business Designer
- - [https://davidjohnkaye.com](https://davidjohnkaye.com)
- - date published: 2024-01-09T02:34:06.758516+00:00
+ - [http://davidjohnkaye.com](http://davidjohnkaye.com)
+ - date published: 2024-04-03T12:47:55.300289+00:00
  - user: None
  - tags: ['personal']
 
@@ -4505,16 +4547,16 @@
  - tags: []
 
 ## Deborah Peacock Photography - Home
- - [http://www.deborahpeacock.com](http://www.deborahpeacock.com)
- - date published: 2024-04-03T06:24:15.192889+00:00
- - user: None
- - tags: ['personal']
-
-## Deborah Peacock Photography - Home
  - [https://www.deborahpeacock.com](https://www.deborahpeacock.com)
  - date published: 2024-01-13T04:52:40.631780+00:00
  - user: None
  - tags: []
+
+## Deborah Peacock Photography - Home
+ - [http://www.deborahpeacock.com](http://www.deborahpeacock.com)
+ - date published: 2024-04-03T06:24:15.192889+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Deborah Zhang
  - [https://deborahzhang.com](https://deborahzhang.com)
@@ -4871,14 +4913,14 @@
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [http://democratherald.com](http://democratherald.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://democratherald.com](https://democratherald.com)
+ - date published: 2023-11-04T05:50:19.542658+00:00
  - user: None
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [https://democratherald.com](https://democratherald.com)
- - date published: 2023-11-04T05:50:19.542658+00:00
+ - [http://democratherald.com](http://democratherald.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4913,14 +4955,14 @@
  - tags: []
 
 ## Denis Reis
- - [https://www.denisreis.com](https://www.denisreis.com)
- - date published: 2023-11-29T17:09:24.363537+00:00
+ - [http://www.denisreis.com](http://www.denisreis.com)
+ - date published: 2024-04-03T12:48:01.262493+00:00
  - user: None
  - tags: ['personal']
 
 ## Denis Reis
- - [http://www.denisreis.com](http://www.denisreis.com)
- - date published: 2024-04-03T12:48:01.262493+00:00
+ - [https://www.denisreis.com](https://www.denisreis.com)
+ - date published: 2023-11-29T17:09:24.363537+00:00
  - user: None
  - tags: ['personal']
 
@@ -5141,16 +5183,16 @@
  - tags: []
 
 ## Destination: zero bars
- - [http://destinationzerobars.com](http://destinationzerobars.com)
- - date published: 2013-07-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Destination: zero bars
  - [https://destinationzerobars.com](https://destinationzerobars.com)
  - date published: 2013-07-18T00:00:00+00:00
  - user: None
  - tags: ['personal']
+
+## Destination: zero bars
+ - [http://destinationzerobars.com](http://destinationzerobars.com)
+ - date published: 2013-07-18T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Destroy All Software
  - [https://www.destroyallsoftware.com](https://www.destroyallsoftware.com)
@@ -5272,15 +5314,15 @@
  - user: None
  - tags: []
 
-## Mazzle – A Pipelines as Code Tool
- - [https://devops-pipeline.com](https://devops-pipeline.com)
- - date published: 2023-12-31T11:15:08+00:00
- - user: None
- - tags: []
-
 ## introducing mazzle - a pipelines as code tool
  - [http://devops-pipeline.com](http://devops-pipeline.com)
  - date published: 2024-02-29T14:58:14.068438+00:00
+ - user: None
+ - tags: []
+
+## Mazzle – A Pipelines as Code Tool
+ - [https://devops-pipeline.com](https://devops-pipeline.com)
+ - date published: 2023-12-31T11:15:08+00:00
  - user: None
  - tags: []
 
@@ -5959,48 +6001,6 @@
 ## DJI FORUM
  - [https://forum.dji.com](https://forum.dji.com)
  - date published: 2023-10-25T13:55:00.388000+00:00
- - user: None
- - tags: []
-
-## DJI - Official Website
- - [https://www.dji.com](https://www.dji.com)
- - date published: 2023-10-25T08:39:58.225999+00:00
- - user: None
- - tags: []
-
-## D.J. Jacobson | Fantasy books for the bold adventurer.
- - [https://djjacobson.com](https://djjacobson.com)
- - date published: 2024-01-04T19:57:34.616515+00:00
- - user: None
- - tags: []
-
-## DJ Mag — living & breathing dance music
- - [https://djmag.com](https://djmag.com)
- - date published: 2023-10-25T10:17:22.278104+00:00
- - user: None
- - tags: []
-
-## DJ Nate Da Great
- - [https://djnatedagreat.com](https://djnatedagreat.com)
- - date published: 2011-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://djngo.com
- - [https://djngo.com](https://djngo.com)
- - date published: 2024-01-09T02:35:13.924109+00:00
- - user: None
- - tags: []
-
-## Jonathan Peacher
- - [https://www.djpeacher.com](https://www.djpeacher.com)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
- - [http://djriko.com](http://djriko.com)
- - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

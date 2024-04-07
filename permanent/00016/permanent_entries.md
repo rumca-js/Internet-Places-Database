@@ -1,3 +1,117 @@
+## https://theathletic.zendesk.com
+ - [https://theathletic.zendesk.com](https://theathletic.zendesk.com)
+ - date published: 2023-11-04T23:17:18.597491+00:00
+ - user: None
+ - tags: []
+
+## Zenfetch Personal AI
+ - [https://www.zenfetch.com](https://www.zenfetch.com)
+ - date published: 2024-01-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ZenGM - Basketball GM, Football GM, ZenGM Baseball, and ZenGM Hockey
+ - [https://zengm.com](https://zengm.com)
+ - date published: 2024-04-06T20:02:24.879084+00:00
+ - user: None
+ - tags: []
+
+## Zen Masta Flash
+ - [https://zenmastaflash.com](https://zenmastaflash.com)
+ - date published: 2024-01-04T08:12:55.578298+00:00
+ - user: None
+ - tags: []
+
+## Zen Rants
+ - [https://www.zenrants.com](https://www.zenrants.com)
+ - date published: 2023-11-29T15:44:09.787517+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.zenrows.com
+ - [https://www.zenrows.com](https://www.zenrows.com)
+ - date published: 2023-10-25T18:24:53.180839+00:00
+ - user: None
+ - tags: []
+
+## ZeptoBars
+ - [https://zeptobars.com](https://zeptobars.com)
+ - date published: 2023-10-25T18:24:54.075440+00:00
+ - user: None
+ - tags: []
+
+## ZeptoBars
+ - [http://zeptobars.com](http://zeptobars.com)
+ - date published: 2024-02-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## zeptonaut
+ - [https://www.zeptonaut.com](https://www.zeptonaut.com)
+ - date published: 2023-10-25T18:25:01.191982+00:00
+ - user: None
+ - tags: []
+
+## Zero ASIC
+ - [https://www.zeroasic.com](https://www.zeroasic.com)
+ - date published: 2023-10-27T11:56:56.373630+00:00
+ - user: None
+ - tags: []
+
+## ZeroBanana: Software for Humans
+ - [https://www.zerobanana.com](https://www.zerobanana.com)
+ - date published: 2023-10-25T18:25:03.471194+00:00
+ - user: None
+ - tags: []
+
+## Home | Zero Day Initiative
+ - [https://www.zerodayinitiative.com](https://www.zerodayinitiative.com)
+ - date published: 2023-10-25T18:25:09.801572+00:00
+ - user: None
+ - tags: ['hacking', 'software vulnerabilities']
+
+## ZERODIUM - The Premium Exploit Acquisition Platform
+ - [https://www.zerodium.com](https://www.zerodium.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Zerohedge
+ - [https://www.zerohedge.com](https://www.zerohedge.com)
+ - date published: 2023-10-25T18:25:12.953645+00:00
+ - user: None
+ - tags: []
+
+## Zero to Nix
+ - [https://zero-to-nix.com](https://zero-to-nix.com)
+ - date published: 2023-10-25T18:25:02.088596+00:00
+ - user: None
+ - tags: []
+
+## Zeta Alpha | The Neural Discovery Platform
+ - [https://www.zeta-alpha.com](https://www.zeta-alpha.com)
+ - date published: 2023-10-25T18:25:15.162782+00:00
+ - user: None
+ - tags: []
+
+## ZetCode - Go, C#, Python, Java, JavaScript programming
+ - [https://zetcode.com](https://zetcode.com)
+ - date published: 2024-01-21T21:06:27+00:00
+ - user: rumpel
+ - tags: ['tutorial']
+
+## Press Start Page - ZF
+ - [https://press.zf.com](https://press.zf.com)
+ - date published: 2023-10-25T18:25:23.791399+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.zgware.com](https://www.zgware.com)
+ - date published: 2024-04-03T06:26:42.664594+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Home
  - [https://zgware.com](https://zgware.com)
  - date published: 2023-12-30T09:53:23.848372+00:00
@@ -215,14 +329,14 @@
  - tags: []
 
 ## None
- - [https://abcnews.go.comhttps](https://abcnews.go.comhttps)
- - date published: 2024-02-02T08:24:31.883332+00:00
+ - [abcnews.go.comhttps](abcnews.go.comhttps)
+ - date published: 2024-01-09T02:55:46.479176+00:00
  - user: None
  - tags: []
 
 ## None
- - [abcnews.go.comhttps](abcnews.go.comhttps)
- - date published: 2024-01-09T02:55:46.479176+00:00
+ - [https://abcnews.go.comhttps](https://abcnews.go.comhttps)
+ - date published: 2024-02-02T08:24:31.883332+00:00
  - user: None
  - tags: []
 
@@ -275,14 +389,14 @@
  - tags: []
 
 ## Writing by Bob Doto
- - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
- - date published: 2024-01-09T02:55:47.919867+00:00
+ - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
+ - date published: 2024-02-26T14:37:32.413264+00:00
  - user: None
  - tags: []
 
 ## Writing by Bob Doto
- - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
- - date published: 2024-02-26T14:37:32.413264+00:00
+ - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
+ - date published: 2024-01-09T02:55:47.919867+00:00
  - user: None
  - tags: []
 
@@ -755,14 +869,14 @@
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [http://www.amiga-news.de](http://www.amiga-news.de)
- - date published: 2024-02-26T14:42:59.175744+00:00
+ - [https://www.amiga-news.de](https://www.amiga-news.de)
+ - date published: 2024-01-09T02:56:04.543993+00:00
  - user: None
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [https://www.amiga-news.de](https://www.amiga-news.de)
- - date published: 2024-01-09T02:56:04.543993+00:00
+ - [http://www.amiga-news.de](http://www.amiga-news.de)
+ - date published: 2024-02-26T14:42:59.175744+00:00
  - user: None
  - tags: []
 
@@ -1028,13 +1142,13 @@ home
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [http://www.classic-videogames.de](http://www.classic-videogames.de)
+ - [https://www.classic-videogames.de](https://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [https://www.classic-videogames.de](https://www.classic-videogames.de)
+ - [http://www.classic-videogames.de](http://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
@@ -1781,16 +1895,16 @@ Heinsohn
  - tags: []
 
 ## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
- - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
- - date published: 2024-02-15T02:00:01.330586+00:00
- - user: None
- - tags: ['video game music']
-
-## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
  - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
  - date published: 2024-02-15T22:13:44.143200+00:00
  - user: None
  - tags: ['demoscene']
+
+## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
+ - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
+ - date published: 2024-02-15T02:00:01.330586+00:00
+ - user: None
+ - tags: ['video game music']
 
 ## NeuroNagel : Neuroregulation, Neurofeedback, Biofeedback, Mentalsysteme und Mindmachines
  - [https://www.neuronagel.de](https://www.neuronagel.de)
@@ -1943,14 +2057,14 @@ Heinsohn
  - tags: ['video game music']
 
 ## Radio PARALAX
- - [https://www.radio-paralax.de](https://www.radio-paralax.de)
- - date published: 2024-02-15T22:31:37.332329+00:00
+ - [http://www.radio-paralax.de](http://www.radio-paralax.de)
+ - date published: 2024-02-15T22:12:22.414790+00:00
  - user: None
  - tags: ['demoscene']
 
 ## Radio PARALAX
- - [http://www.radio-paralax.de](http://www.radio-paralax.de)
- - date published: 2024-02-15T22:12:22.414790+00:00
+ - [https://www.radio-paralax.de](https://www.radio-paralax.de)
+ - date published: 2024-02-15T22:31:37.332329+00:00
  - user: None
  - tags: ['demoscene']
 
@@ -3966,6 +4080,12 @@ Heinsohn
  - user: None
  - tags: []
 
+## Wilson Husin
+ - [https://husin.dev](https://husin.dev)
+ - date published: 2024-04-06T13:22:27.195376+00:00
+ - user: None
+ - tags: []
+
 ## Free Open Source Tailwind CSS Components | HyperUI
  - [https://www.hyperui.dev](https://www.hyperui.dev)
  - date published: 2023-10-25T18:38:28.357080+00:00
@@ -4867,14 +4987,14 @@ Heinsohn
  - tags: []
 
 ## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date published: 2023-01-31T00:00:00+00:00
+ - [http://passkeys.dev](http://passkeys.dev)
+ - date published: 2024-02-25T19:46:12.112766+00:00
  - user: None
  - tags: []
 
 ## Passkey Developer Resources
- - [http://passkeys.dev](http://passkeys.dev)
- - date published: 2024-02-25T19:46:12.112766+00:00
+ - [https://passkeys.dev](https://passkeys.dev)
+ - date published: 2023-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5385,14 +5505,14 @@ Heinsohn
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5885,126 +6005,6 @@ Heinsohn
 ## https://readable_techcrunch.mvlab.workers.dev
  - [https://readable_techcrunch.mvlab.workers.dev](https://readable_techcrunch.mvlab.workers.dev)
  - date published: 2024-01-09T02:57:39.772632+00:00
- - user: None
- - tags: []
-
-## Thoughts for CTOs, Tech Leads and Software Architects
- - [https://www.workingsoftware.dev](https://www.workingsoftware.dev)
- - date published: 2023-10-25T18:44:29.024808+00:00
- - user: None
- - tags: []
-
-## WSCP's blog
- - [https://wscp.dev](https://wscp.dev)
- - date published: 2024-01-09T01:38:06.059471+00:00
- - user: None
- - tags: []
-
-## dotMorten | .NET Ramblings, XAML hacking and some GIS endeavors
- - [https://xaml.dev](https://xaml.dev)
- - date published: 2023-10-25T08:59:01.383042+00:00
- - user: None
- - tags: ['personal']
-
-## XD1 Log entries. Begin... Â· Hyprland crash course
- - [https://xd1.dev](https://xd1.dev)
- - date published: 2024-03-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## XINF
- - [https://xinf.dev](https://xinf.dev)
- - date published: 2023-10-25T18:44:30.785844+00:00
- - user: None
- - tags: []
-
-## Xr0
- - [https://xr0.dev](https://xr0.dev)
- - date published: 2024-03-28T23:52:22.644430+00:00
- - user: None
- - tags: ['ansi c', 'programming language']
-
-## xy2
- - [https://xy2.dev](https://xy2.dev)
- - date published: 2023-10-25T18:44:33.489903+00:00
- - user: None
- - tags: []
-
-## Yaky's
- - [https://yaky.dev](https://yaky.dev)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## None
- - [https://yobulk.dev](https://yobulk.dev)
- - date published: 2024-01-09T02:57:40.846844+00:00
- - user: None
- - tags: []
-
-## You don't need a modal window
- - [https://youdontneedamodalwindow.dev](https://youdontneedamodalwindow.dev)
- - date published: 2023-10-25T18:44:35.045129+00:00
- - user: None
- - tags: []
-
-## yuanchuan
- - [https://yuanchuan.dev](https://yuanchuan.dev)
- - date published: 2023-10-25T18:44:37.242773+00:00
- - user: None
- - tags: []
-
-## zackoverflow
- - [https://zackoverflow.dev](https://zackoverflow.dev)
- - date published: 2023-10-25T18:44:39.698343+00:00
- - user: None
- - tags: []
-
-## Welcome
- - [https://www.zarl.dev](https://www.zarl.dev)
- - date published: 2024-03-01T19:15:36.177869+00:00
- - user: None
- - tags: ['personal']
-
-## Zed - Code at the speed of thought
- - [https://zed.dev](https://zed.dev)
- - date published: 2023-10-25T18:44:46.883335+00:00
- - user: None
- - tags: []
-
-## Zellij
- - [https://zellij.dev](https://zellij.dev)
- - date published: 2023-10-25T18:44:48.356849+00:00
- - user: None
- - tags: []
-
-## Zlatko Đurić
- - [https://zlatko.dev](https://zlatko.dev)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Zoo: Home
- - [https://zoo.dev](https://zoo.dev)
- - date published: 2023-12-20T23:10:16.596825+00:00
- - user: None
- - tags: []
-
-## AI, automation and integrations as easy as pressing a button. | Connex Digital
- - [https://connex.digital](https://connex.digital)
- - date published: 2024-02-25T19:23:33.401138+00:00
- - user: None
- - tags: []
-
-## julian.digital
- - [https://julian.digital](https://julian.digital)
- - date published: 2023-10-25T18:44:50.401929+00:00
- - user: None
- - tags: []
-
-## RDTR01
- - [https://rdtr01.xl.digital](https://rdtr01.xl.digital)
- - date published: 2023-10-25T18:44:52.509130+00:00
  - user: None
  - tags: []
 

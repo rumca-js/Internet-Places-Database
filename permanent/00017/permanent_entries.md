@@ -1,3 +1,135 @@
+## Thoughts for CTOs, Tech Leads and Software Architects
+ - [https://www.workingsoftware.dev](https://www.workingsoftware.dev)
+ - date published: 2023-10-25T18:44:29.024808+00:00
+ - user: None
+ - tags: []
+
+## WSCP's blog
+ - [https://wscp.dev](https://wscp.dev)
+ - date published: 2024-01-09T01:38:06.059471+00:00
+ - user: None
+ - tags: []
+
+## dotMorten | .NET Ramblings, XAML hacking and some GIS endeavors
+ - [https://xaml.dev](https://xaml.dev)
+ - date published: 2023-10-25T08:59:01.383042+00:00
+ - user: None
+ - tags: ['personal']
+
+## XD1 Log entries. Begin... Â· Hyprland crash course
+ - [https://xd1.dev](https://xd1.dev)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## XINF
+ - [https://xinf.dev](https://xinf.dev)
+ - date published: 2023-10-25T18:44:30.785844+00:00
+ - user: None
+ - tags: []
+
+## Xr0
+ - [https://xr0.dev](https://xr0.dev)
+ - date published: 2024-03-28T23:52:22.644430+00:00
+ - user: None
+ - tags: ['ansi c', 'programming language']
+
+## xy2
+ - [https://xy2.dev](https://xy2.dev)
+ - date published: 2023-10-25T18:44:33.489903+00:00
+ - user: None
+ - tags: []
+
+## Yaky's
+ - [https://yaky.dev](https://yaky.dev)
+ - date published: 2024-01-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://yobulk.dev](https://yobulk.dev)
+ - date published: 2024-01-09T02:57:40.846844+00:00
+ - user: None
+ - tags: []
+
+## You don't need a modal window
+ - [https://youdontneedamodalwindow.dev](https://youdontneedamodalwindow.dev)
+ - date published: 2023-10-25T18:44:35.045129+00:00
+ - user: None
+ - tags: []
+
+## yuanchuan
+ - [https://yuanchuan.dev](https://yuanchuan.dev)
+ - date published: 2023-10-25T18:44:37.242773+00:00
+ - user: None
+ - tags: []
+
+## zackoverflow
+ - [https://zackoverflow.dev](https://zackoverflow.dev)
+ - date published: 2023-10-25T18:44:39.698343+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://www.zarl.dev](https://www.zarl.dev)
+ - date published: 2024-03-01T19:15:36.177869+00:00
+ - user: None
+ - tags: ['personal']
+
+## Zed - Code at the speed of thought
+ - [https://zed.dev](https://zed.dev)
+ - date published: 2023-10-25T18:44:46.883335+00:00
+ - user: None
+ - tags: []
+
+## Zellij
+ - [https://zellij.dev](https://zellij.dev)
+ - date published: 2023-10-25T18:44:48.356849+00:00
+ - user: None
+ - tags: []
+
+## Zlatko Đurić
+ - [https://zlatko.dev](https://zlatko.dev)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Zoo: Home
+ - [https://zoo.dev](https://zoo.dev)
+ - date published: 2023-12-20T23:10:16.596825+00:00
+ - user: None
+ - tags: []
+
+## Kyoo
+ - [https://kyoo.zoriya.dev](https://kyoo.zoriya.dev)
+ - date published: 2024-04-06T06:34:50+00:00
+ - user: rumpel
+ - tags: ['self host', 'video streaming app']
+
+## Zoe's blog
+ - [https://zoriya.dev](https://zoriya.dev)
+ - date published: 2024-04-06T06:35:30+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## AI, automation and integrations as easy as pressing a button. | Connex Digital
+ - [https://connex.digital](https://connex.digital)
+ - date published: 2024-02-25T19:23:33.401138+00:00
+ - user: None
+ - tags: []
+
+## julian.digital
+ - [https://julian.digital](https://julian.digital)
+ - date published: 2023-10-25T18:44:50.401929+00:00
+ - user: None
+ - tags: []
+
+## RDTR01
+ - [https://rdtr01.xl.digital](https://rdtr01.xl.digital)
+ - date published: 2023-10-25T18:44:52.509130+00:00
+ - user: None
+ - tags: []
+
 ## ooh.directory: a place to find good blogs that interest you
  - [https://ooh.directory](https://ooh.directory)
  - date published: 2023-10-25T18:44:56.352626+00:00
@@ -1126,14 +1258,14 @@
  - tags: []
 
 ## User Homepages @Drew University
- - [http://users.drew.edu](http://users.drew.edu)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://users.drew.edu](https://users.drew.edu)
+ - date published: 2023-11-14T23:58:00.601263+00:00
  - user: None
  - tags: []
 
 ## User Homepages @Drew University
- - [https://users.drew.edu](https://users.drew.edu)
- - date published: 2023-11-14T23:58:00.601263+00:00
+ - [http://users.drew.edu](http://users.drew.edu)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2725,14 +2857,14 @@
  - tags: []
 
 ## Stanford News
- - [https://news.stanford.edu](https://news.stanford.edu)
- - date published: 2023-10-25T18:58:41.013599+00:00
+ - [http://news.stanford.edu](http://news.stanford.edu)
+ - date published: 2024-02-26T13:11:04.090772+00:00
  - user: None
  - tags: []
 
 ## Stanford News
- - [http://news.stanford.edu](http://news.stanford.edu)
- - date published: 2024-02-26T13:11:04.090772+00:00
+ - [https://news.stanford.edu](https://news.stanford.edu)
+ - date published: 2023-10-25T18:58:41.013599+00:00
  - user: None
  - tags: []
 
@@ -4503,14 +4635,14 @@
  - tags: []
 
 ## Buttondown
- - [https://buttondown.email](https://buttondown.email)
- - date published: 2023-10-25T19:07:12.851726+00:00
+ - [http://buttondown.email](http://buttondown.email)
+ - date published: 2024-01-23T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Buttondown
- - [http://buttondown.email](http://buttondown.email)
- - date published: 2024-01-23T00:00:00+00:00
+ - [https://buttondown.email](https://buttondown.email)
+ - date published: 2023-10-25T19:07:12.851726+00:00
  - user: None
  - tags: []
 
@@ -4760,15 +4892,15 @@
  - user: None
  - tags: ['personal']
 
-## Lee Jones | Software Development, Product Design, Productivity
- - [http://leejon.es](http://leejon.es)
- - date published: 2024-03-31T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Exist
  - [https://leejon.es](https://leejon.es)
  - date published: 2024-01-31T18:44:31.519646+00:00
+ - user: None
+ - tags: []
+
+## Lee Jones | Software Development, Product Design, Productivity
+ - [http://leejon.es](http://leejon.es)
+ - date published: 2024-03-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5403,14 +5535,14 @@
  - tags: []
 
 ## NOYB enforces your right to privacy everyday
- - [http://noyb.eu](http://noyb.eu)
- - date published: 2024-02-26T15:02:23.923642+00:00
+ - [https://noyb.eu](https://noyb.eu)
+ - date published: 2023-10-25T11:24:53.335930+00:00
  - user: None
  - tags: []
 
 ## NOYB enforces your right to privacy everyday
- - [https://noyb.eu](https://noyb.eu)
- - date published: 2023-10-25T11:24:53.335930+00:00
+ - [http://noyb.eu](http://noyb.eu)
+ - date published: 2024-02-26T15:02:23.923642+00:00
  - user: None
  - tags: []
 
@@ -5879,138 +6011,6 @@
 ## None
  - [https://kaaosradio.fi](https://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## None
- - [http://kaaosradio.fi](http://kaaosradio.fi)
- - date published: 2021-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Icecast Streaming Media Server
- - [https://stream.kaaosradio.fi](https://stream.kaaosradio.fi)
- - date published: 2024-02-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## blog.liw.fi
- - [https://blog.liw.fi](https://blog.liw.fi)
- - date published: 2023-10-25T19:13:29.587685+00:00
- - user: None
- - tags: []
-
-## Lars Wirzenius
- - [https://liw.fi](https://liw.fi)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Oulun yliopisto
- - [https://www.oulu.fi](https://www.oulu.fi)
- - date published: 2023-11-24T11:44:02.061683+00:00
- - user: None
- - tags: []
-
-## petterikallio - Never Stop Learning
- - [https://www.petterikallio.fi](https://www.petterikallio.fi)
- - date published: 2023-12-30T05:22:24.492522+00:00
- - user: None
- - tags: ['personal']
-
-## Etusivu - Presidentti
- - [https://www.presidentti.fi](https://www.presidentti.fi)
- - date published: 2023-10-25T19:13:31.101604+00:00
- - user: None
- - tags: []
-
-## Spotify - Web Player: Music for everyone
- - [https://spoti.fi](https://spoti.fi)
- - date published: 2024-01-22T07:43:20.742120+00:00
- - user: None
- - tags: []
-
-## Spotify - Web Player: Music for everyone
- - [http://spoti.fi](http://spoti.fi)
- - date published: 2024-01-21T19:14:58.231822+00:00
- - user: None
- - tags: []
-
-## Henkilöasiakkaat - etusivu -         Tulli
- - [https://tulli.fi](https://tulli.fi)
- - date published: 2024-03-14T12:26:25.223228+00:00
- - user: None
- - tags: []
-
-## Etusivu - Trepo
- - [https://trepo.tuni.fi](https://trepo.tuni.fi)
- - date published: 2024-01-09T03:29:30.997301+00:00
- - user: None
- - tags: []
-
-## Itä-Suomen yliopisto
- - [https://www.uef.fi](https://www.uef.fi)
- - date published: 2023-10-25T19:13:38.462613+00:00
- - user: None
- - tags: []
-
-## Turun yliopisto
- - [https://www.utu.fi](https://www.utu.fi)
- - date published: 2023-10-25T19:13:40.412360+00:00
- - user: None
- - tags: []
-
-## Yle Areena – Enemmän kuin ehdit katsoa ja kuunnella
- - [https://areena.yle.fi](https://areena.yle.fi)
- - date published: 2012-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Yle.fi – hetkessä kiinni
- - [https://yle.fi](https://yle.fi)
- - date published: 2023-10-25T19:13:43.117883+00:00
- - user: None
- - tags: []
-
-## Conic Finance
- - [https://conic.finance](https://conic.finance)
- - date published: 2023-10-25T19:13:43.512906+00:00
- - user: None
- - tags: []
-
-## Amid Fish
- - [https://amid.fish](https://amid.fish)
- - date published: 2024-01-09T03:29:33.358182+00:00
- - user: None
- - tags: []
-
-## Blog | Payara
- - [https://blog.payara.fish](https://blog.payara.fish)
- - date published: 2023-10-25T19:13:49.856733+00:00
- - user: None
- - tags: []
-
-## Smaller Fish
- - [https://smaller.fish](https://smaller.fish)
- - date published: 2023-10-25T19:13:50.642656+00:00
- - user: None
- - tags: []
-
-## 8bit.fm Radio
- - [http://8bit.fm](http://8bit.fm)
- - date published: 2024-02-11T13:39:14.061314+00:00
- - user: None
- - tags: []
-
-## Spotify for Podcasters
- - [https://anchor.fm](https://anchor.fm)
- - date published: 2023-10-25T19:13:51.960255+00:00
- - user: None
- - tags: []
-
-## BeatBot
- - [https://beatbot.fm](https://beatbot.fm)
- - date published: 2023-10-25T19:13:52.441362+00:00
  - user: None
  - tags: []
 

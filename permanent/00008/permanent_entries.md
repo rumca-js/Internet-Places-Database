@@ -1,3 +1,63 @@
+## Authentic Educator – Trusted Leader – Unconventional Scholar
+ - [https://keithedwards.com](https://keithedwards.com)
+ - date published: 2024-02-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Authentic Educator – Trusted Leader – Unconventional Scholar
+ - [https://www.keithedwards.com](https://www.keithedwards.com)
+ - date published: 2024-01-09T02:41:04.418506+00:00
+ - user: None
+ - tags: ['personal']
+
+## Keith J Lang - Writer & Top 7 Billion Expert in a Few Things
+ - [https://keithjlang.com](https://keithjlang.com)
+ - date published: 2024-01-09T19:16:40.032796+00:00
+ - user: None
+ - tags: []
+
+## Keith Kritselis - Creative, Adaptive, Problem Solver
+ - [https://www.keithkritselis.com](https://www.keithkritselis.com)
+ - date published: 2024-02-10T21:33:58.540014+00:00
+ - user: None
+ - tags: ['personal']
+
+## Keith Kritselis - Creative, Adaptive, Problem Solver
+ - [http://www.keithkritselis.com](http://www.keithkritselis.com)
+ - date published: 2024-04-03T06:31:50.305602+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kellan Elliott-McCrea
+ - [https://kellanem.com](https://kellanem.com)
+ - date published: 2023-10-25T08:58:12.167205+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Brazil's Blog
+ - [https://blog.kellybrazil.com](https://blog.kellybrazil.com)
+ - date published: 2023-10-25T15:35:42.425437+00:00
+ - user: None
+ - tags: []
+
+## Kelly Hobkirk's Blog
+ - [https://kellyhobkirk.com](https://kellyhobkirk.com)
+ - date published: 2024-01-10T23:53:07.782781+00:00
+ - user: None
+ - tags: []
+
+## Kelly Shortridge
+ - [https://kellyshortridge.com](https://kellyshortridge.com)
+ - date published: 2023-12-13T23:14:24.360707+00:00
+ - user: None
+ - tags: []
+
+## Startup Win | Kelsus | Substack
+ - [https://startupwin.kelsus.com](https://startupwin.kelsus.com)
+ - date published: 2023-10-25T15:35:46+00:00
+ - user: rumpel
+ - tags: []
+
 ## /dev/lawyer
  - [https://writing.kemitchell.com](https://writing.kemitchell.com)
  - date published: 2023-10-25T15:35:58.761033+00:00
@@ -852,16 +912,16 @@
  - tags: ['demoscene']
 
 ## Kohina Web Player
- - [https://player.kohina.com](https://player.kohina.com)
- - date published: 2023-10-25T15:38:24.816845+00:00
- - user: None
- - tags: ['keygen', 'chiptune']
-
-## Kohina Web Player
  - [http://player.kohina.com](http://player.kohina.com)
  - date published: 2024-02-15T02:00:14.788563+00:00
  - user: None
  - tags: []
+
+## Kohina Web Player
+ - [https://player.kohina.com](https://player.kohina.com)
+ - date published: 2023-10-25T15:38:24.816845+00:00
+ - user: None
+ - tags: ['keygen', 'chiptune']
 
 ## Access Restricted
  - [https://www.koin.com](https://www.koin.com)
@@ -2431,14 +2491,14 @@ Chamber Music, Symphony
  - tags: ['personal']
 
 ## About Me - Leo Alexander Glowacki
- - [http://leoglowacki.com](http://leoglowacki.com)
- - date published: 2024-04-03T06:27:09.410241+00:00
+ - [https://leoglowacki.com](https://leoglowacki.com)
+ - date published: 2024-01-29T23:27:30.561916+00:00
  - user: None
  - tags: ['personal']
 
 ## About Me - Leo Alexander Glowacki
- - [https://leoglowacki.com](https://leoglowacki.com)
- - date published: 2024-01-29T23:27:30.561916+00:00
+ - [http://leoglowacki.com](http://leoglowacki.com)
+ - date published: 2024-04-03T06:27:09.410241+00:00
  - user: None
  - tags: ['personal']
 
@@ -4274,14 +4334,14 @@ diversions.
  - tags: []
 
 ## Lyndon Hill
- - [http://lyndonhill.com](http://lyndonhill.com)
- - date published: 2024-04-03T06:24:30.134485+00:00
+ - [https://lyndonhill.com](https://lyndonhill.com)
+ - date published: 2024-02-14T08:48:56.833040+00:00
  - user: None
  - tags: ['personal']
 
 ## Lyndon Hill
- - [https://lyndonhill.com](https://lyndonhill.com)
- - date published: 2024-02-14T08:48:56.833040+00:00
+ - [http://lyndonhill.com](http://lyndonhill.com)
+ - date published: 2024-04-03T06:24:30.134485+00:00
  - user: None
  - tags: ['personal']
 
@@ -4538,16 +4598,16 @@ diversions.
  - tags: ['cms']
 
 ## Maggie Appleton
- - [http://maggieappleton.com](http://maggieappleton.com)
- - date published: 2024-02-26T08:55:27.731076+00:00
- - user: None
- - tags: []
-
-## Maggie Appleton
  - [https://maggieappleton.com](https://maggieappleton.com)
  - date published: 2023-10-25T08:47:09.508828+00:00
  - user: None
  - tags: ['personal']
+
+## Maggie Appleton
+ - [http://maggieappleton.com](http://maggieappleton.com)
+ - date published: 2024-02-26T08:55:27.731076+00:00
+ - user: None
+ - tags: []
 
 ## Magic Earth - Free Navigation & Maps App for Android and iPhone
  - [https://www.magicearth.com](https://www.magicearth.com)
@@ -4766,14 +4826,14 @@ diversions.
  - tags: ['tech news', 'tech articles']
 
 ## Matter Unlimited - Award-Winning Social Impact Marketing Agency
- - [https://www.makethingsmatter.com](https://www.makethingsmatter.com)
- - date published: 2024-01-09T02:42:19.097936+00:00
+ - [http://www.makethingsmatter.com](http://www.makethingsmatter.com)
+ - date published: 2024-04-03T12:49:19.704754+00:00
  - user: None
  - tags: ['personal']
 
 ## Matter Unlimited - Award-Winning Social Impact Marketing Agency
- - [http://www.makethingsmatter.com](http://www.makethingsmatter.com)
- - date published: 2024-04-03T12:49:19.704754+00:00
+ - [https://www.makethingsmatter.com](https://www.makethingsmatter.com)
+ - date published: 2024-01-09T02:42:19.097936+00:00
  - user: None
  - tags: ['personal']
 
@@ -4790,14 +4850,14 @@ diversions.
  - tags: ['single-board', '3d printing', 'creators', 'tech']
 
 ## Making It with Chris G.
- - [http://www.makingitwithchrisg.com](http://www.makingitwithchrisg.com)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
+ - date published: 2023-11-29T17:12:52.483030+00:00
  - user: None
  - tags: []
 
 ## Making It with Chris G.
- - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
- - date published: 2023-11-29T17:12:52.483030+00:00
+ - [http://www.makingitwithchrisg.com](http://www.makingitwithchrisg.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5059,17 +5119,17 @@ diversions.
  - user: None
  - tags: ['personal']
 
-## Marc Gunn
- - [http://marcgunn.com](http://marcgunn.com)
- - date published: 2024-04-03T12:49:04.042322+00:00
- - user: None
- - tags: ['personal']
-
 ## Marc Gunn – Rhythm & Folk Celtic Music
  - [https://marcgunn.com](https://marcgunn.com)
  - date published: 2024-01-11T02:12:05.082052+00:00
  - user: None
  - tags: []
+
+## Marc Gunn
+ - [http://marcgunn.com](http://marcgunn.com)
+ - date published: 2024-04-03T12:49:04.042322+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Welcome to MARCHintosh
  - [https://www.marchintosh.com](https://www.marchintosh.com)
@@ -5504,6 +5564,12 @@ diversions.
  - user: None
  - tags: []
 
+## Martin Schuhmann
+ - [https://martinschuhmann.com](https://martinschuhmann.com)
+ - date published: 2024-04-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Martin Sketchley
  - [https://martinsketchley.com](https://martinsketchley.com)
  - date published: 2023-11-29T15:51:53.677176+00:00
@@ -5750,6 +5816,12 @@ diversions.
  - user: None
  - tags: []
 
+## Home
+ - [https://mathspp.com](https://mathspp.com)
+ - date published: 2024-04-06T13:22:26.244101+00:00
+ - user: None
+ - tags: []
+
 ## Notes and Musings
  - [https://mathsquirrel.com](https://mathsquirrel.com)
  - date published: 2024-04-03T06:22:39.421666+00:00
@@ -5927,78 +5999,6 @@ diversions.
 ## Matt Mazur
  - [https://mattmazur.com](https://mattmazur.com)
  - date published: 2023-10-25T15:58:27.234425+00:00
- - user: None
- - tags: []
-
-## Matt Megrue – Product Designer
- - [https://mattmegruedesign.com](https://mattmegruedesign.com)
- - date published: 2023-12-13T06:05:18.360177+00:00
- - user: None
- - tags: ['personal']
-
-## https://matt-rickard.com
- - [https://matt-rickard.com](https://matt-rickard.com)
- - date published: 2023-10-25T09:21:02.564765+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://www.mattroelle.com](https://www.mattroelle.com)
- - date published: 2024-01-09T02:43:15.722771+00:00
- - user: None
- - tags: []
-
-## Author and Author Services Provider Matthew Wayne Selznick
- - [https://www.mattselznick.com](https://www.mattselznick.com)
- - date published: 2023-12-07T17:37:46.378916+00:00
- - user: None
- - tags: ['personal']
-
-## Matt Stein
- - [https://mattstein.com](https://mattstein.com)
- - date published: 2023-12-20T11:45:06.855158+00:00
- - user: None
- - tags: ['personal']
-
-## Matt Stuchlik
- - [http://blog.mattstuchlik.com](http://blog.mattstuchlik.com)
- - date published: 2024-02-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Amber O’Hara – mature lady friend
- - [https://matureladyfriend.com](https://matureladyfriend.com)
- - date published: 2024-02-25T14:43:35.078157+00:00
- - user: None
- - tags: []
-
-## MatX | Faster chips for LLMs
- - [https://matx.com](https://matx.com)
- - date published: 2023-10-25T15:58:28.628172+00:00
- - user: None
- - tags: []
-
-## Mauricio Piña - Digital Marketing Consultant
- - [https://mauriciopina.com](https://mauriciopina.com)
- - date published: 2024-01-05T21:36:11.603459+00:00
- - user: None
- - tags: []
-
-## Mauricio Piña - Digital Marketing Consultant
- - [http://mauriciopina.com](http://mauriciopina.com)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Maurizio Leo
- - [https://maurizioleo.com](https://maurizioleo.com)
- - date published: 2024-02-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Maurizio Leo
- - [https://www.maurizioleo.com](https://www.maurizioleo.com)
- - date published: 2024-01-12T08:14:29.684139+00:00
  - user: None
  - tags: []
 

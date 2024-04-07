@@ -1,3 +1,99 @@
+## ScienceBlog
+ - [https://scienceblog.com](https://scienceblog.com)
+ - date published: 2024-03-09T20:33:04+00:00
+ - user: rumpel
+ - tags: ['science']
+
+## ScienceBlogs - Where the world discusses science.
+ - [https://scienceblogs.com](https://scienceblogs.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ScienceDaily: Your source for the latest research news
+ - [https://www.sciencedaily.com](https://www.sciencedaily.com)
+ - date published: 2023-10-25T10:10:58.373293+00:00
+ - user: None
+ - tags: ['science']
+
+## ScienceDirect
+ - [https://www.sciencedirect.com](https://www.sciencedirect.com)
+ - date published: 2023-10-25T10:10:59.662060+00:00
+ - user: None
+ - tags: ['science news']
+
+## BBC Science Focus Magazine - science, nature, technology, Q&As
+ - [https://www.sciencefocus.com](https://www.sciencefocus.com)
+ - date published: 2023-10-25T16:59:02.217981+00:00
+ - user: None
+ - tags: []
+
+## Science Friday
+ - [https://www.sciencefriday.com](https://www.sciencefriday.com)
+ - date published: 2023-10-25T16:59:05.373137+00:00
+ - user: None
+ - tags: []
+
+## Science Shot: Professional Insights, Unique Perspectives.
+ - [https://www.scienceshot.com](https://www.scienceshot.com)
+ - date published: 2023-12-29T20:02:33.354446+00:00
+ - user: None
+ - tags: []
+
+## ScienceSwitch – Exploring the Depths of Curiosity
+ - [https://scienceswitch.com](https://scienceswitch.com)
+ - date published: 2023-10-25T16:59:08.691306+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://intapi.sciendo.com](https://intapi.sciendo.com)
+ - date published: 2024-02-24T09:58:14.488510+00:00
+ - user: None
+ - tags: []
+
+## Scientific American Blog Network - Scientific American Blog Network
+ - [https://blogs.scientificamerican.com](https://blogs.scientificamerican.com)
+ - date published: 2023-10-25T16:59:13.314083+00:00
+ - user: None
+ - tags: []
+
+## Scientific American: Science News, Expert Analysis, Health Research - Scientific American
+ - [https://www.scientificamerican.com](https://www.scientificamerican.com)
+ - date published: 2023-10-25T10:11:03.956799+00:00
+ - user: None
+ - tags: []
+
+## The Scientific Coder
+ - [https://scientificcoder.com](https://scientificcoder.com)
+ - date published: 2023-10-25T16:59:14.570457+00:00
+ - user: None
+ - tags: []
+
+## Scientific Computing | Scientific Computing World
+ - [https://www.scientific-computing.com](https://www.scientific-computing.com)
+ - date published: 2023-10-25T16:59:10.313762+00:00
+ - user: None
+ - tags: []
+
+## Sci-fi interfaces
+ - [https://scifiinterfaces.com](https://scifiinterfaces.com)
+ - date published: 2023-12-14T07:38:40.007550+00:00
+ - user: None
+ - tags: []
+
+## SciProgramming - Home
+ - [https://sciprogramming.com](https://sciprogramming.com)
+ - date published: 2023-10-25T16:59:15.991666+00:00
+ - user: None
+ - tags: []
+
+## SciTechDaily - Science, Space and Technology News 2023
+ - [https://scitechdaily.com](https://scitechdaily.com)
+ - date published: 2023-10-25T10:11:08.449489+00:00
+ - user: None
+ - tags: []
+
 ## sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Desktop and Mobile Application
  - [https://sciter.com](https://sciter.com)
  - date published: 2023-10-25T16:59:18.546109+00:00
@@ -2321,15 +2417,15 @@
  - user: None
  - tags: ['smart home']
 
-## Smashing Magazine — For Web Designers And Developers
- - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
- - date published: 2023-10-25T17:07:11.338092+00:00
- - user: None
- - tags: []
-
 ## Smashing Magazine ‚Äî For Web Designers And Developers
  - [http://www.smashingmagazine.com](http://www.smashingmagazine.com)
  - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Smashing Magazine — For Web Designers And Developers
+ - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
+ - date published: 2023-10-25T17:07:11.338092+00:00
  - user: None
  - tags: []
 
@@ -3740,14 +3836,14 @@
  - tags: []
 
 ## Biology Stack Exchange
- - [http://biology.stackexchange.com](http://biology.stackexchange.com)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://biology.stackexchange.com](https://biology.stackexchange.com)
+ - date published: 2024-01-10T09:05:16.771549+00:00
  - user: None
  - tags: []
 
 ## Biology Stack Exchange
- - [https://biology.stackexchange.com](https://biology.stackexchange.com)
- - date published: 2024-01-10T09:05:16.771549+00:00
+ - [http://biology.stackexchange.com](http://biology.stackexchange.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3860,14 +3956,14 @@
  - tags: []
 
 ## Mathematics Stack Exchange
- - [http://math.stackexchange.com](http://math.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://math.stackexchange.com](https://math.stackexchange.com)
+ - date published: 2023-10-25T17:13:42.554988+00:00
  - user: None
  - tags: []
 
 ## Mathematics Stack Exchange
- - [https://math.stackexchange.com](https://math.stackexchange.com)
- - date published: 2023-10-25T17:13:42.554988+00:00
+ - [http://math.stackexchange.com](http://math.stackexchange.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3884,14 +3980,14 @@
  - tags: []
 
 ## Physics Stack Exchange
- - [https://physics.stackexchange.com](https://physics.stackexchange.com)
- - date published: 2023-10-25T17:13:56.651090+00:00
+ - [http://physics.stackexchange.com](http://physics.stackexchange.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Physics Stack Exchange
- - [http://physics.stackexchange.com](http://physics.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://physics.stackexchange.com](https://physics.stackexchange.com)
+ - date published: 2023-10-25T17:13:56.651090+00:00
  - user: None
  - tags: []
 
@@ -3992,14 +4088,14 @@
  - tags: []
 
 ## Unix & Linux Stack Exchange
- - [https://unix.stackexchange.com](https://unix.stackexchange.com)
- - date published: 2023-10-25T17:14:39.830149+00:00
+ - [http://unix.stackexchange.com](http://unix.stackexchange.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Unix & Linux Stack Exchange
- - [http://unix.stackexchange.com](http://unix.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://unix.stackexchange.com](https://unix.stackexchange.com)
+ - date published: 2023-10-25T17:14:39.830149+00:00
  - user: None
  - tags: []
 
@@ -4532,16 +4628,16 @@
  - tags: []
 
 ## Stephen Perlstein's Website
- - [https://www.stephenperlstein.com](https://www.stephenperlstein.com)
- - date published: 2023-11-29T15:47:25.794379+00:00
- - user: None
- - tags: ['personal']
-
-## Stephen Perlstein's Website
  - [http://www.stephenperlstein.com](http://www.stephenperlstein.com)
  - date published: 2024-04-02T00:00:00+00:00
  - user: None
  - tags: []
+
+## Stephen Perlstein's Website
+ - [https://www.stephenperlstein.com](https://www.stephenperlstein.com)
+ - date published: 2023-11-29T15:47:25.794379+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Stephen V. Smith
  - [https://www.stephenvsmith.com](https://www.stephenvsmith.com)
@@ -4723,15 +4819,15 @@
  - user: None
  - tags: []
 
-## stltoday.com | Read St. Louis, MO and Missouri breaking news. Get latest news, events and information on Missouri sports, weather, entertainment and lifestyles.
- - [http://www.stltoday.com](http://www.stltoday.com)
- - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
 ## St. Louis Post-Dispatch | Breaking News | | Read St. Louis, MO and Missouri breaking news. Get latest news, events and information on Missouri sports, weather, entertainment and lifestyles.
  - [https://www.stltoday.com](https://www.stltoday.com)
  - date published: 2023-10-25T17:17:29.361272+00:00
+ - user: None
+ - tags: []
+
+## stltoday.com | Read St. Louis, MO and Missouri breaking news. Get latest news, events and information on Missouri sports, weather, entertainment and lifestyles.
+ - [http://www.stltoday.com](http://www.stltoday.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5341,15 +5437,15 @@
  - user: None
  - tags: ['substack']
 
-## https://ameliatait.substack.com
- - [https://ameliatait.substack.com](https://ameliatait.substack.com)
- - date published: 2024-01-23T19:06:15.106114+00:00
- - user: None
- - tags: []
-
 ## The Waiting Room | Amelia Tait | Substack
  - [http://ameliatait.substack.com](http://ameliatait.substack.com)
  - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://ameliatait.substack.com
+ - [https://ameliatait.substack.com](https://ameliatait.substack.com)
+ - date published: 2024-01-23T19:06:15.106114+00:00
  - user: None
  - tags: []
 
@@ -5527,15 +5623,15 @@
  - user: None
  - tags: []
 
-## https://badnewsletter.substack.com
- - [https://badnewsletter.substack.com](https://badnewsletter.substack.com)
- - date published: 2024-01-21T18:29:58.388675+00:00
- - user: None
- - tags: []
-
 ## The Bad News Letter | Josh Drummond | Substack
  - [http://badnewsletter.substack.com](http://badnewsletter.substack.com)
  - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://badnewsletter.substack.com
+ - [https://badnewsletter.substack.com](https://badnewsletter.substack.com)
+ - date published: 2024-01-21T18:29:58.388675+00:00
  - user: None
  - tags: []
 
@@ -5744,14 +5840,14 @@
  - tags: []
 
 ## Viruses Must Die | Chris Buck | Substack
- - [http://cbuck.substack.com](http://cbuck.substack.com)
- - date published: 2024-02-26T14:25:29.368413+00:00
+ - [https://cbuck.substack.com](https://cbuck.substack.com)
+ - date published: 2024-01-04T07:23:25.565849+00:00
  - user: None
  - tags: []
 
 ## Viruses Must Die | Chris Buck | Substack
- - [https://cbuck.substack.com](https://cbuck.substack.com)
- - date published: 2024-01-04T07:23:25.565849+00:00
+ - [http://cbuck.substack.com](http://cbuck.substack.com)
+ - date published: 2024-02-26T14:25:29.368413+00:00
  - user: None
  - tags: []
 
@@ -5846,14 +5942,14 @@
  - tags: []
 
 ## Cloud Native Engineer | Giuseppe Santoro | Substack
- - [https://cloudnativeengineer.substack.com](https://cloudnativeengineer.substack.com)
- - date published: 2024-01-09T01:38:43.991719+00:00
+ - [http://cloudnativeengineer.substack.com](http://cloudnativeengineer.substack.com)
+ - date published: 2024-02-25T18:25:22.694607+00:00
  - user: None
  - tags: []
 
 ## Cloud Native Engineer | Giuseppe Santoro | Substack
- - [http://cloudnativeengineer.substack.com](http://cloudnativeengineer.substack.com)
- - date published: 2024-02-25T18:25:22.694607+00:00
+ - [https://cloudnativeengineer.substack.com](https://cloudnativeengineer.substack.com)
+ - date published: 2024-01-09T01:38:43.991719+00:00
  - user: None
  - tags: []
 
@@ -5904,100 +6000,4 @@
  - date published: 2024-01-09T01:38:49.317767+00:00
  - user: None
  - tags: []
-
-## Computer Ads from the Past | John Paul Wohlscheid | Substack
- - [http://computeradsfromthepast.substack.com](http://computeradsfromthepast.substack.com)
- - date published: 2024-02-25T19:21:33.362881+00:00
- - user: None
- - tags: []
-
-## Computer Ads from the Past | John Paul Wohlscheid | Substack
- - [https://computeradsfromthepast.substack.com](https://computeradsfromthepast.substack.com)
- - date published: 2024-01-09T01:38:51.718499+00:00
- - user: None
- - tags: []
-
-## Button Pusher | Connor A. Haskins | Substack
- - [https://connorahaskins.substack.com](https://connorahaskins.substack.com)
- - date published: 2024-03-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Console by CodeSee.io | Ana Mogul | Substack
- - [https://console.substack.com](https://console.substack.com)
- - date published: 2023-10-25T09:45:46.563026+00:00
- - user: None
- - tags: ['substack']
-
-## Construction Physics | Brian Potter | Substack
- - [https://constructionphysics.substack.com](https://constructionphysics.substack.com)
- - date published: 2023-10-25T09:45:48.661751+00:00
- - user: None
- - tags: ['substack']
-
-## Cosmos Institute | Substack
- - [https://cosmosinstitute.substack.com](https://cosmosinstitute.substack.com)
- - date published: 2024-01-07T21:32:09.636395+00:00
- - user: None
- - tags: []
-
-## Cosmos Institute | Substack
- - [http://cosmosinstitute.substack.com](http://cosmosinstitute.substack.com)
- - date published: 2024-01-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Counter Craft | Lincoln Michel | Substack
- - [https://countercraft.substack.com](https://countercraft.substack.com)
- - date published: 2023-10-25T09:45:50.861755+00:00
- - user: None
- - tags: ['substack']
-
-## https://covidunmasked.substack.com
- - [https://covidunmasked.substack.com](https://covidunmasked.substack.com)
- - date published: 2024-02-08T16:59:22.910724+00:00
- - user: None
- - tags: []
-
-## https://cpufun.substack.com
- - [https://cpufun.substack.com](https://cpufun.substack.com)
- - date published: 2024-01-12T10:26:19.876052+00:00
- - user: None
- - tags: []
-
-## CPU fun | Jim Cownie | Substack
- - [http://cpufun.substack.com](http://cpufun.substack.com)
- - date published: 2024-02-25T15:35:07.784044+00:00
- - user: None
- - tags: []
-
-## Chris’s Substack | Chris Walker | Substack
- - [https://cpwalker.substack.com](https://cpwalker.substack.com)
- - date published: 2024-01-09T01:38:53.764125+00:00
- - user: None
- - tags: []
-
-## Chris’s Substack | Chris Walker | Substack
- - [http://cpwalker.substack.com](http://cpwalker.substack.com)
- - date published: 2024-02-25T15:45:33.395973+00:00
- - user: None
- - tags: []
-
-## Cremieux Recueil | Substack
- - [https://cremieux.substack.com](https://cremieux.substack.com)
- - date published: 2023-10-25T09:46:00.855999+00:00
- - user: None
- - tags: ['substack']
-
-## 0xStacker's Newsletter | Sistine Research | Substack
- - [https://cryptostackers.substack.com](https://cryptostackers.substack.com)
- - date published: 2023-10-25T09:46:07.799448+00:00
- - user: None
- - tags: ['substack']
-
-## Curiosity Sink__ | John Raptis | Substack
- - [https://curiositysink.substack.com](https://curiositysink.substack.com)
- - date published: 2023-10-25T09:46:10.975835+00:00
- - user: None
- - tags: ['substack']
 

@@ -1,3 +1,87 @@
+## Brandon's Digital Garden
+ - [https://ngacho.com](https://ngacho.com)
+ - date published: 2024-03-26T18:21:07.279586+00:00
+ - user: None
+ - tags: []
+
+## Land a Job You Love in Record Time | NG Career Strategy
+ - [https://www.ngcareerstrategy.com](https://www.ngcareerstrategy.com)
+ - date published: 2022-07-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Advanced Load Balancer, Web Server, & Reverse Proxy - NGINX
+ - [https://www.nginx.com](https://www.nginx.com)
+ - date published: 2023-10-25T16:18:35.958680+00:00
+ - user: None
+ - tags: []
+
+## Nick Higham – Applied mathematics, numerical linear algebra and software.
+ - [https://nhigham.com](https://nhigham.com)
+ - date published: 2023-10-25T16:18:41.691573+00:00
+ - user: None
+ - tags: []
+
+## WarCraft 3 | Nibbits
+ - [http://wc3.nibbits.com](http://wc3.nibbits.com)
+ - date published: 2023-10-29T10:41:30.446641+00:00
+ - user: None
+ - tags: []
+
+## Niche Gamer - Video Game News, Community, Videos, & Reviews
+ - [https://nichegamer.com](https://nichegamer.com)
+ - date published: 2023-10-25T16:18:45.402324+00:00
+ - user: None
+ - tags: []
+
+## Nick Arner
+ - [https://nickarner.com](https://nickarner.com)
+ - date published: 2023-10-25T16:18:50.406162+00:00
+ - user: None
+ - tags: []
+
+## dankwiki, the wiki of nick black
+ - [https://nick-black.com](https://nick-black.com)
+ - date published: 2023-10-25T16:18:49.657215+00:00
+ - user: None
+ - tags: []
+
+## Nick Bostrom’s Home Page
+ - [https://nickbostrom.com](https://nickbostrom.com)
+ - date published: 2023-10-25T16:18:53.656941+00:00
+ - user: None
+ - tags: []
+
+## Projects by Nick Gravgaard
+ - [https://nickgravgaard.com](https://nickgravgaard.com)
+ - date published: 2023-10-27T11:55:26.819267+00:00
+ - user: None
+ - tags: []
+
+## From Development to Production — Nick Janetakis
+ - [https://nickjanetakis.com](https://nickjanetakis.com)
+ - date published: 2023-10-25T16:18:55.075225+00:00
+ - user: None
+ - tags: []
+
+## Nick LaToof - Fly Fishing & Splitboard Guide
+ - [https://nicklatoof.com](https://nicklatoof.com)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Front Page - Nick LaToof
+ - [https://www.nicklatoof.com](https://www.nicklatoof.com)
+ - date published: 2023-11-29T15:47:43.364763+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nick LaToof - Fly Fishing & Splitboard Guide
+ - [http://www.nicklatoof.com](http://www.nicklatoof.com)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Nick Montfort’s site
  - [https://nickm.com](https://nickm.com)
  - date published: 2023-12-17T22:23:31.204427+00:00
@@ -768,13 +852,13 @@
  - tags: []
 
 ## Peter Norvig
- - [http://www.norvig.com](http://www.norvig.com)
+ - [https://www.norvig.com](https://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Peter Norvig
- - [https://www.norvig.com](https://www.norvig.com)
+ - [http://www.norvig.com](http://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -822,14 +906,14 @@
  - tags: []
 
 ## Notes & Photos
- - [http://www.notesandphotos.com](http://www.notesandphotos.com)
- - date published: 2024-04-03T12:46:22.033917+00:00
+ - [https://www.notesandphotos.com](https://www.notesandphotos.com)
+ - date published: 2023-12-20T21:30:54.650783+00:00
  - user: None
  - tags: ['personal']
 
 ## Notes & Photos
- - [https://www.notesandphotos.com](https://www.notesandphotos.com)
- - date published: 2023-12-20T21:30:54.650783+00:00
+ - [http://www.notesandphotos.com](http://www.notesandphotos.com)
+ - date published: 2024-04-03T12:46:22.033917+00:00
  - user: None
  - tags: ['personal']
 
@@ -2451,15 +2535,15 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
-## Radar - O’Reilly
- - [http://radar.oreilly.com](http://radar.oreilly.com)
- - date published: 2024-03-11T20:56:21.645465+00:00
- - user: None
- - tags: []
-
 ## O'Reilly Media - Technology and Business Training
  - [https://radar.oreilly.com](https://radar.oreilly.com)
  - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Radar - O’Reilly
+ - [http://radar.oreilly.com](http://radar.oreilly.com)
+ - date published: 2024-03-11T20:56:21.645465+00:00
  - user: None
  - tags: []
 
@@ -3568,17 +3652,17 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
-## Max  FitzGerald  | Patreon
- - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
- - date published: 2023-10-27T15:07:52+00:00
- - user: rumpel
- - tags: ['turnip28', 'tabletop games']
-
 ## Home — Patreon
  - [http://www.patreon.com](http://www.patreon.com)
  - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
+
+## Max  FitzGerald  | Patreon
+ - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
+ - date published: 2023-10-27T15:07:52+00:00
+ - user: rumpel
+ - tags: ['turnip28', 'tabletop games']
 
 ## Home — Patreon
  - [https://www.patreon.com](https://www.patreon.com)
@@ -3819,6 +3903,12 @@ Answering Machine Greetings!
  - date published: 2023-10-25T08:26:54.739488+00:00
  - user: None
  - tags: []
+
+## Welcome to the Fellowship
+ - [https://pbfcomics.com](https://pbfcomics.com)
+ - date published: 2024-04-06T13:22:25.238344+00:00
+ - user: None
+ - tags: ['comics', 'personal', 'interesting']
 
 ## Paul Kafasis
  - [https://pbones.com](https://pbones.com)
@@ -4109,14 +4199,14 @@ Answering Machine Greetings!
  - tags: ['personal']
 
 ## Perfection Kills
- - [https://perfectionkills.com](https://perfectionkills.com)
- - date published: 2024-01-09T02:46:05.195684+00:00
+ - [http://perfectionkills.com](http://perfectionkills.com)
+ - date published: 2015-11-04T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Perfection Kills
- - [http://perfectionkills.com](http://perfectionkills.com)
- - date published: 2015-11-04T00:00:00+00:00
+ - [https://perfectionkills.com](https://perfectionkills.com)
+ - date published: 2024-01-09T02:46:05.195684+00:00
  - user: None
  - tags: []
 
@@ -4493,13 +4583,13 @@ Answering Machine Greetings!
  - tags: []
 
 ## Paul's Dev Notes
- - [http://www.pfrazee.com](http://www.pfrazee.com)
+ - [https://www.pfrazee.com](https://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Paul's Dev Notes
- - [https://www.pfrazee.com](https://www.pfrazee.com)
+ - [http://www.pfrazee.com](http://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -4766,14 +4856,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## phpied.com
- - [http://www.phpied.com](http://www.phpied.com)
- - date published: 2024-03-24T15:05:52.476257+00:00
+ - [https://www.phpied.com](https://www.phpied.com)
+ - date published: 2024-01-15T05:45:17.624527+00:00
  - user: None
  - tags: []
 
 ## phpied.com
- - [https://www.phpied.com](https://www.phpied.com)
- - date published: 2024-01-15T05:45:17.624527+00:00
+ - [http://www.phpied.com](http://www.phpied.com)
+ - date published: 2024-03-24T15:05:52.476257+00:00
  - user: None
  - tags: []
 
@@ -5243,7 +5333,7 @@ Answering Machine Greetings!
  - [https://www.planetminecraft.com](https://www.planetminecraft.com)
  - date published: 2023-10-25T11:17:02.235808+00:00
  - user: None
- - tags: []
+ - tags: ['minecraft']
 
 ## Planet of the Paul
  - [https://planetofthepaul.com](https://planetofthepaul.com)
@@ -5467,15 +5557,15 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
-## plumshell
- - [http://plumshell.com](http://plumshell.com)
- - date published: 2024-02-26T15:04:17.373885+00:00
- - user: None
- - tags: []
-
 ## 無効なURLです
  - [https://plumshell.com](https://plumshell.com)
  - date published: 2024-01-09T02:46:44.613598+00:00
+ - user: None
+ - tags: []
+
+## plumshell
+ - [http://plumshell.com](http://plumshell.com)
+ - date published: 2024-02-26T15:04:17.373885+00:00
  - user: None
  - tags: []
 
@@ -5642,14 +5732,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## De Angela L. Duff
- - [https://www.polishedsolid.com](https://www.polishedsolid.com)
- - date published: 2023-12-20T11:44:35.174499+00:00
+ - [http://www.polishedsolid.com](http://www.polishedsolid.com)
+ - date published: 2023-12-23T02:59:58.572062+00:00
  - user: None
  - tags: ['personal']
 
 ## De Angela L. Duff
- - [http://www.polishedsolid.com](http://www.polishedsolid.com)
- - date published: 2023-12-23T02:59:58.572062+00:00
+ - [https://www.polishedsolid.com](https://www.polishedsolid.com)
+ - date published: 2023-12-20T11:44:35.174499+00:00
  - user: None
  - tags: ['personal']
 
@@ -5702,13 +5792,13 @@ Answering Machine Greetings!
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -5914,96 +6004,6 @@ Answering Machine Greetings!
 ## All Things API: News, Tutorials & More | Postman Blog
  - [https://blog.postman.com](https://blog.postman.com)
  - date published: 2023-10-25T16:38:32.815814+00:00
- - user: None
- - tags: []
-
-## Postman Community
- - [https://community.postman.com](https://community.postman.com)
- - date published: 2023-10-25T16:38:37.493449+00:00
- - user: None
- - tags: []
-
-## Postman API Platform
- - [https://www.postman.com](https://www.postman.com)
- - date published: 2023-10-25T16:38:38.220740+00:00
- - user: None
- - tags: []
-
-## Post-Match Team
- - [https://postmatchteam.com](https://postmatchteam.com)
- - date published: 2023-12-17T17:30:48.280093+00:00
- - user: None
- - tags: []
-
-## brazil Posts English
- - [https://brazil.postsen.com](https://brazil.postsen.com)
- - date published: 2024-02-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Netherlands Posts English
- - [https://netherlands.postsen.com](https://netherlands.postsen.com)
- - date published: 2023-10-25T16:38:40.708972+00:00
- - user: None
- - tags: []
-
-## Sweden Posts English
- - [https://sweden.postsen.com](https://sweden.postsen.com)
- - date published: 2024-01-09T02:47:07.716226+00:00
- - user: None
- - tags: []
-
-## https://potetm.com
- - [https://potetm.com](https://potetm.com)
- - date published: 2024-01-09T02:47:10.639829+00:00
- - user: None
- - tags: []
-
-## PotHix
- - [https://pothix.com](https://pothix.com)
- - date published: 2023-12-08T09:38:14.623587+00:00
- - user: None
- - tags: ['personal']
-
-## Naser Poursalavati
- - [https://www.poursalavati.com](https://www.poursalavati.com)
- - date published: 2024-01-29T23:28:15.097595+00:00
- - user: None
- - tags: []
-
-## Derek Powazek
- - [https://powazek.com](https://powazek.com)
- - date published: 2024-01-30T18:41:01.579498+00:00
- - user: None
- - tags: []
-
-## Powell’s Books | The World’s Largest Independent Bookstore
- - [https://www.powells.com](https://www.powells.com)
- - date published: 2024-02-24T18:10:55.368408+00:00
- - user: None
- - tags: []
-
-## Power BI
- - [https://app.powerbi.com](https://app.powerbi.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['project management']
-
-## Power BI
- - [https://powerbi.com](https://powerbi.com)
- - date published: 2010-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['big data', 'data visualisation']
-
-## Home | PSMC
- - [https://www.powerchip.com](https://www.powerchip.com)
- - date published: 2024-03-18T13:43:35.678252+00:00
- - user: None
- - tags: []
-
-## mailman.powerdns.com Mailing Lists
- - [https://mailman.powerdns.com](https://mailman.powerdns.com)
- - date published: 2023-11-01T08:42:56.060079+00:00
  - user: None
  - tags: []
 

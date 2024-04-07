@@ -1,3 +1,21 @@
+## Best Buy: Shop Online For Deals & Save | Best Buy Canada
+ - [https://www.bestbuy.ca](https://www.bestbuy.ca)
+ - date published: 2024-02-23T22:51:25.927722+00:00
+ - user: None
+ - tags: ['shop']
+
+## Medieval Bestiary : Animals in the Middle Ages
+ - [https://bestiary.ca](https://bestiary.ca)
+ - date published: 2023-10-25T12:03:35.908634+00:00
+ - user: None
+ - tags: ['animals', 'history', 'medieval', 'bestiary']
+
+## BNN Bloomberg - Canadian Business News, TSX Today, interest rates and Bank of Canada coverage
+ - [https://www.bnnbloomberg.ca](https://www.bnnbloomberg.ca)
+ - date published: 2023-10-25T12:03:55.221507+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://www.borden-carleton.ca](https://www.borden-carleton.ca)
  - date published: 2024-01-15T00:00:00+00:00
@@ -791,14 +809,14 @@
  - tags: ['personal']
 
 ## Scott Redmond
- - [https://www.scottredmond.ca](https://www.scottredmond.ca)
- - date published: 2024-01-23T03:27:52.039443+00:00
+ - [http://www.scottredmond.ca](http://www.scottredmond.ca)
+ - date published: 2024-04-03T12:49:31.889702+00:00
  - user: None
  - tags: ['personal']
 
 ## Scott Redmond
- - [http://www.scottredmond.ca](http://www.scottredmond.ca)
- - date published: 2024-04-03T12:49:31.889702+00:00
+ - [https://www.scottredmond.ca](https://www.scottredmond.ca)
+ - date published: 2024-01-23T03:27:52.039443+00:00
  - user: None
  - tags: ['personal']
 
@@ -1122,16 +1140,16 @@
  - tags: ['personal']
 
 ## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
- - [http://wingfelder.ca](http://wingfelder.ca)
- - date published: 2024-04-03T12:43:01.979772+00:00
- - user: None
- - tags: ['personal']
-
-## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
  - [https://wingfelder.ca](https://wingfelder.ca)
  - date published: 2024-01-11T13:28:46.842673+00:00
  - user: None
  - tags: []
+
+## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
+ - [http://wingfelder.ca](http://wingfelder.ca)
+ - date published: 2024-04-03T12:43:01.979772+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Women of Influence –
  - [https://www.womenofinfluence.ca](https://www.womenofinfluence.ca)
@@ -1412,6 +1430,12 @@
 ## Better by Design | Patrick Morgan | Substack
  - [https://www.betterbydesign.cc](https://www.betterbydesign.cc)
  - date published: 2023-10-25T12:10:52.432204+00:00
+ - user: None
+ - tags: []
+
+## Hello | Ben's Blog
+ - [https://ben.bolte.cc](https://ben.bolte.cc)
+ - date published: 2024-03-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3415,14 +3439,14 @@
  - tags: []
 
 ## Nabeel S. Qureshi
- - [http://nabeelqu.co](http://nabeelqu.co)
- - date published: 2024-02-26T09:20:32.283903+00:00
+ - [https://nabeelqu.co](https://nabeelqu.co)
+ - date published: 2024-01-20T19:20:52.169397+00:00
  - user: None
  - tags: []
 
 ## Nabeel S. Qureshi
- - [https://nabeelqu.co](https://nabeelqu.co)
- - date published: 2024-01-20T19:20:52.169397+00:00
+ - [http://nabeelqu.co](http://nabeelqu.co)
+ - date published: 2024-02-26T09:20:32.283903+00:00
  - user: None
  - tags: []
 
@@ -3679,16 +3703,16 @@
  - tags: []
 
 ## Home
- - [http://shubhamjain.co](http://shubhamjain.co)
- - date published: 2024-02-26T12:57:53.139033+00:00
- - user: None
- - tags: []
-
-## Home
  - [https://shubhamjain.co](https://shubhamjain.co)
  - date published: 2023-10-25T09:07:56.781772+00:00
  - user: None
  - tags: ['personal']
+
+## Home
+ - [http://shubhamjain.co](http://shubhamjain.co)
+ - date published: 2024-02-26T12:57:53.139033+00:00
+ - user: None
+ - tags: []
 
 ## SCIENTIA
  - [https://skientia.co](https://skientia.co)
@@ -3889,14 +3913,14 @@
  - tags: []
 
 ## Travel Hungry: Great Tastes From Stuttgart & Beyond
- - [https://travelhungry.co](https://travelhungry.co)
- - date published: 2023-10-25T12:24:24.607320+00:00
+ - [http://travelhungry.co](http://travelhungry.co)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Travel Hungry: Great Tastes From Stuttgart & Beyond
- - [http://travelhungry.co](http://travelhungry.co)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://travelhungry.co](https://travelhungry.co)
+ - date published: 2023-10-25T12:24:24.607320+00:00
  - user: None
  - tags: []
 
@@ -4484,6 +4508,12 @@
  - user: None
  - tags: []
 
+## 37signals
+ - [https://37signals.com](https://37signals.com)
+ - date published: 2024-04-06T10:04:44.737797+00:00
+ - user: None
+ - tags: []
+
 ## 37signals Dev — How we do, what we do
  - [https://dev.37signals.com](https://dev.37signals.com)
  - date published: 2023-10-25T12:26:42.734764+00:00
@@ -4880,15 +4910,15 @@
  - user: None
  - tags: ['personal']
 
-## Aaron Swartz
- - [http://www.aaronsw.com](http://www.aaronsw.com)
- - date published: 2009-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
 ## None
  - [https://www.aaronsw.com](https://www.aaronsw.com)
  - date published: 2024-01-09T01:38:10.984994+00:00
+ - user: None
+ - tags: []
+
+## Aaron Swartz
+ - [http://www.aaronsw.com](http://www.aaronsw.com)
+ - date published: 2009-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4929,14 +4959,14 @@
  - tags: []
 
 ## Abandoned Realms Homepage
- - [http://abandonedrealms.com](http://abandonedrealms.com)
- - date published: 2024-03-27T20:46:21.299380+00:00
+ - [https://abandonedrealms.com](https://abandonedrealms.com)
+ - date published: 2024-03-27T20:46:56.678785+00:00
  - user: None
  - tags: ['mud game']
 
 ## Abandoned Realms Homepage
- - [https://abandonedrealms.com](https://abandonedrealms.com)
- - date published: 2024-03-27T20:46:56.678785+00:00
+ - [http://abandonedrealms.com](http://abandonedrealms.com)
+ - date published: 2024-03-27T20:46:21.299380+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5229,14 +5259,14 @@
  - tags: []
 
 ## Accidental Fire
- - [https://accidentalfire.com](https://accidentalfire.com)
- - date published: 2023-12-20T05:40:26.113068+00:00
+ - [http://accidentalfire.com](http://accidentalfire.com)
+ - date published: 2024-04-03T06:29:12.978441+00:00
  - user: None
  - tags: ['personal']
 
 ## Accidental Fire
- - [http://accidentalfire.com](http://accidentalfire.com)
- - date published: 2024-04-03T06:29:12.978441+00:00
+ - [https://accidentalfire.com](https://accidentalfire.com)
+ - date published: 2023-12-20T05:40:26.113068+00:00
  - user: None
  - tags: ['personal']
 
@@ -5451,14 +5481,14 @@
  - tags: []
 
 ## Hi, I’m Adam - Adam J. Doolittle
- - [https://www.adamdoolittle.com](https://www.adamdoolittle.com)
- - date published: 2024-01-19T13:00:38.013071+00:00
+ - [http://www.adamdoolittle.com](http://www.adamdoolittle.com)
+ - date published: 2024-04-03T06:22:38.206834+00:00
  - user: None
  - tags: ['personal']
 
 ## Hi, I’m Adam - Adam J. Doolittle
- - [http://www.adamdoolittle.com](http://www.adamdoolittle.com)
- - date published: 2024-04-03T06:22:38.206834+00:00
+ - [https://www.adamdoolittle.com](https://www.adamdoolittle.com)
+ - date published: 2024-01-19T13:00:38.013071+00:00
  - user: None
  - tags: ['personal']
 
@@ -5971,36 +6001,6 @@
 ## Home
  - [https://agedcode.com](https://agedcode.com)
  - date published: 2023-12-11T18:40:43.012535+00:00
- - user: None
- - tags: []
-
-## Aged Code Studio - Index page
- - [https://forum.agedcode.com](https://forum.agedcode.com)
- - date published: 2023-12-11T17:36:57.990843+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.ageekinjapan.com](https://www.ageekinjapan.com)
- - date published: 2024-01-05T16:52:51.955257+00:00
- - user: None
- - tags: []
-
-## Glide
- - [https://glide.agenticlabs.com](https://glide.agenticlabs.com)
- - date published: 2024-03-12T17:42:45.349590+00:00
- - user: None
- - tags: []
-
-## Home - Agenzia Nova
- - [https://www.agenzianova.com](https://www.agenzianova.com)
- - date published: 2023-12-25T09:27:40.052555+00:00
- - user: None
- - tags: []
-
-## Age of Miniatures Frontpage
- - [https://ageofminiatures.com](https://ageofminiatures.com)
- - date published: 2023-10-27T07:27:48.958410+00:00
  - user: None
  - tags: []
 

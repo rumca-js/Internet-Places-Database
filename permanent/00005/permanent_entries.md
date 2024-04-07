@@ -1,11 +1,53 @@
+## DJI - Official Website
+ - [https://www.dji.com](https://www.dji.com)
+ - date published: 2023-10-25T08:39:58.225999+00:00
+ - user: None
+ - tags: []
+
+## D.J. Jacobson | Fantasy books for the bold adventurer.
+ - [https://djjacobson.com](https://djjacobson.com)
+ - date published: 2024-01-04T19:57:34.616515+00:00
+ - user: None
+ - tags: []
+
+## DJ Mag — living & breathing dance music
+ - [https://djmag.com](https://djmag.com)
+ - date published: 2023-10-25T10:17:22.278104+00:00
+ - user: None
+ - tags: []
+
+## DJ Nate Da Great
+ - [https://djnatedagreat.com](https://djnatedagreat.com)
+ - date published: 2011-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://djngo.com
+ - [https://djngo.com](https://djngo.com)
+ - date published: 2024-01-09T02:35:13.924109+00:00
+ - user: None
+ - tags: []
+
+## Jonathan Peacher
+ - [https://www.djpeacher.com](https://www.djpeacher.com)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
- - [https://www.djriko.com](https://www.djriko.com)
+ - [http://djriko.com](http://djriko.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
  - [http://www.djriko.com](http://www.djriko.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
+ - [https://www.djriko.com](https://www.djriko.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -696,14 +738,14 @@
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [https://drinkag1.com](https://drinkag1.com)
- - date published: 2024-02-24T09:55:07.922857+00:00
+ - [http://drinkag1.com](http://drinkag1.com)
+ - date published: 2024-01-21T19:15:07.982155+00:00
  - user: None
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [http://drinkag1.com](http://drinkag1.com)
- - date published: 2024-01-21T19:15:07.982155+00:00
+ - [https://drinkag1.com](https://drinkag1.com)
+ - date published: 2024-02-24T09:55:07.922857+00:00
  - user: None
  - tags: []
 
@@ -1242,14 +1284,14 @@
  - tags: []
 
 ## Earl MacDonald – Composer, Jazz Pianist, Music Educator – “A magical, musical alchemist of hip hybrids."
- - [http://www.earlmacdonald.com](http://www.earlmacdonald.com)
- - date published: 2024-04-03T06:25:22.075271+00:00
+ - [https://www.earlmacdonald.com](https://www.earlmacdonald.com)
+ - date published: 2023-12-16T07:29:09.233696+00:00
  - user: None
  - tags: ['personal']
 
 ## Earl MacDonald – Composer, Jazz Pianist, Music Educator – “A magical, musical alchemist of hip hybrids."
- - [https://www.earlmacdonald.com](https://www.earlmacdonald.com)
- - date published: 2023-12-16T07:29:09.233696+00:00
+ - [http://www.earlmacdonald.com](http://www.earlmacdonald.com)
+ - date published: 2024-04-03T06:25:22.075271+00:00
  - user: None
  - tags: ['personal']
 
@@ -1968,14 +2010,14 @@
  - tags: []
 
 ## Elisa Doucette
- - [https://www.elisadoucette.com](https://www.elisadoucette.com)
- - date published: 2023-12-20T00:58:34.049564+00:00
+ - [http://www.elisadoucette.com](http://www.elisadoucette.com)
+ - date published: 2024-04-03T12:45:08.562645+00:00
  - user: None
  - tags: ['personal']
 
 ## Elisa Doucette
- - [http://www.elisadoucette.com](http://www.elisadoucette.com)
- - date published: 2024-04-03T12:45:08.562645+00:00
+ - [https://www.elisadoucette.com](https://www.elisadoucette.com)
+ - date published: 2023-12-20T00:58:34.049564+00:00
  - user: None
  - tags: ['personal']
 
@@ -2256,14 +2298,14 @@
  - tags: []
 
 ## Supercharge your mobile apps | Emerge Tools
- - [https://www.emergetools.com](https://www.emergetools.com)
- - date published: 2023-10-25T14:06:59.391184+00:00
+ - [http://www.emergetools.com](http://www.emergetools.com)
+ - date published: 2024-02-25T20:03:45.981322+00:00
  - user: None
  - tags: []
 
 ## Supercharge your mobile apps | Emerge Tools
- - [http://www.emergetools.com](http://www.emergetools.com)
- - date published: 2024-02-25T20:03:45.981322+00:00
+ - [https://www.emergetools.com](https://www.emergetools.com)
+ - date published: 2023-10-25T14:06:59.391184+00:00
  - user: None
  - tags: []
 
@@ -2724,14 +2766,14 @@
  - tags: ['personal']
 
 ## The Official Website of Creative Entreprenuer Eric Beaty
- - [http://ericbeaty.com](http://ericbeaty.com)
- - date published: 2024-04-03T06:30:05.447054+00:00
+ - [https://ericbeaty.com](https://ericbeaty.com)
+ - date published: 2024-01-16T23:54:25.185150+00:00
  - user: None
  - tags: ['personal']
 
 ## The Official Website of Creative Entreprenuer Eric Beaty
- - [https://ericbeaty.com](https://ericbeaty.com)
- - date published: 2024-01-16T23:54:25.185150+00:00
+ - [http://ericbeaty.com](http://ericbeaty.com)
+ - date published: 2024-04-03T06:30:05.447054+00:00
  - user: None
  - tags: ['personal']
 
@@ -2777,17 +2819,17 @@
  - user: None
  - tags: []
 
-## https://www.erickarjaluoto.com
- - [https://www.erickarjaluoto.com](https://www.erickarjaluoto.com)
- - date published: 2023-12-12T09:16:42+00:00
- - user: rumpel
- - tags: ['personal']
-
 ## Howdy – Eric Karjaluoto
  - [http://www.erickarjaluoto.com](http://www.erickarjaluoto.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## https://www.erickarjaluoto.com
+ - [https://www.erickarjaluoto.com](https://www.erickarjaluoto.com)
+ - date published: 2023-12-12T09:16:42+00:00
+ - user: rumpel
+ - tags: ['personal']
 
 ## Eric Jon Kassel - Designer, Director, Animator, Musician
  - [https://erickassel.com](https://erickassel.com)
@@ -3353,6 +3395,12 @@
  - user: None
  - tags: []
 
+## Eva Parish
+ - [https://evaparish.com](https://evaparish.com)
+ - date published: 2024-04-06T08:54:46.183242+00:00
+ - user: None
+ - tags: ['personal']
+
 ## EV EDITION - EV News, Media, Articles, And Insights.
  - [https://ev-edition.com](https://ev-edition.com)
  - date published: 2023-10-25T14:11:36.896821+00:00
@@ -3588,14 +3636,14 @@
  - tags: []
 
 ## Home Page -
- - [https://exhibita.com](https://exhibita.com)
- - date published: 2024-01-13T09:37:44.900869+00:00
+ - [http://exhibita.com](http://exhibita.com)
+ - date published: 2024-04-03T12:45:57.594873+00:00
  - user: None
  - tags: ['personal']
 
 ## Home Page -
- - [http://exhibita.com](http://exhibita.com)
- - date published: 2024-04-03T12:45:57.594873+00:00
+ - [https://exhibita.com](https://exhibita.com)
+ - date published: 2024-01-13T09:37:44.900869+00:00
  - user: None
  - tags: ['personal']
 
@@ -3840,14 +3888,14 @@
  - tags: []
 
 ## Log in or sign up to view
- - [https://facebook.com](https://facebook.com)
- - date published: 2023-12-11T16:53:43.180916+00:00
+ - [http://facebook.com](http://facebook.com)
+ - date published: 2024-02-24T09:56:45.941514+00:00
  - user: None
  - tags: []
 
 ## Log in or sign up to view
- - [http://facebook.com](http://facebook.com)
- - date published: 2024-02-24T09:56:45.941514+00:00
+ - [https://facebook.com](https://facebook.com)
+ - date published: 2023-12-11T16:53:43.180916+00:00
  - user: None
  - tags: []
 
@@ -3869,17 +3917,17 @@
  - user: rumpel
  - tags: ['facebook']
 
-## Facebook
- - [https://www.facebook.com](https://www.facebook.com)
- - date published: 2023-10-24T20:15:12+00:00
- - user: rumpel
- - tags: ['gatekeeper', 'social platform']
-
 ## Log in or sign up to view
  - [http://www.facebook.com](http://www.facebook.com)
  - date published: 2024-02-24T09:54:20.558477+00:00
  - user: None
  - tags: []
+
+## Facebook
+ - [https://www.facebook.com](https://www.facebook.com)
+ - date published: 2023-10-24T20:15:12+00:00
+ - user: rumpel
+ - tags: ['gatekeeper', 'social platform']
 
 ## In re: Facebook, Inc. Consumer Privacy User Profile Litigation
  - [https://www.facebookuserprivacysettlement.com](https://www.facebookuserprivacysettlement.com)
@@ -5064,16 +5112,16 @@
  - tags: []
 
 ## Nick Fitzgerald
- - [http://fitzgeraldnick.com](http://fitzgeraldnick.com)
- - date published: 2024-02-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nick Fitzgerald
  - [https://fitzgeraldnick.com](https://fitzgeraldnick.com)
  - date published: 2023-10-25T09:20:31.002593+00:00
  - user: None
  - tags: ['personal']
+
+## Nick Fitzgerald
+ - [http://fitzgeraldnick.com](http://fitzgeraldnick.com)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Five Books - The Best Books Recommended by Experts
  - [https://fivebooks.com](https://fivebooks.com)
@@ -5640,14 +5688,14 @@
  - tags: []
 
 ## None
- - [http://forbiddenplanet.com](http://forbiddenplanet.com)
- - date published: 2024-02-25T20:20:06.293093+00:00
+ - [https://forbiddenplanet.com](https://forbiddenplanet.com)
+ - date published: 2024-02-25T20:19:58.237177+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://forbiddenplanet.com](https://forbiddenplanet.com)
- - date published: 2024-02-25T20:19:58.237177+00:00
+ - [http://forbiddenplanet.com](http://forbiddenplanet.com)
+ - date published: 2024-02-25T20:20:06.293093+00:00
  - user: None
  - tags: []
 
@@ -5948,54 +5996,6 @@
 ## FOX 4 News Dallas-Fort Worth
  - [https://fox4news.com](https://fox4news.com)
  - date published: 2023-11-07T15:12:46.586235+00:00
- - user: None
- - tags: []
-
-## FOX 4 News Dallas-Fort Worth
- - [https://www.fox4news.com](https://www.fox4news.com)
- - date published: 2023-10-25T11:04:13.925923+00:00
- - user: None
- - tags: []
-
-## Fox 4 News | WFTX - Southwest Florida | Fox4Now.com - Home
- - [https://www.fox4now.com](https://www.fox4now.com)
- - date published: 2023-10-25T11:04:21.031601+00:00
- - user: None
- - tags: []
-
-## FOX 5 Atlanta
- - [https://fox5atlanta.com](https://fox5atlanta.com)
- - date published: 2024-03-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## FOX 5 Atlanta
- - [https://www.fox5atlanta.com](https://www.fox5atlanta.com)
- - date published: 2023-12-15T21:47:23.514757+00:00
- - user: None
- - tags: []
-
-## FOX 5 DC
- - [https://www.fox5dc.com](https://www.fox5dc.com)
- - date published: 2023-10-25T11:04:31.305284+00:00
- - user: None
- - tags: []
-
-## FOX 5 New York
- - [https://www.fox5ny.com](https://www.fox5ny.com)
- - date published: 2023-11-01T17:47:22.130538+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.fox5vegas.com](https://www.fox5vegas.com)
- - date published: 2024-01-03T12:30:37.079630+00:00
- - user: None
- - tags: []
-
-## FOX 7 Austin
- - [https://www.fox7austin.com](https://www.fox7austin.com)
- - date published: 2023-10-25T11:04:44.675389+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,196 @@
+## Open Source Research Institutue :: Main / HomePage
+ - [https://opensourceresearchinstitute.org](https://opensourceresearchinstitute.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## Open Source Research Institutue :: Main / HomePage
+ - [http://opensourceresearchinstitute.org](http://opensourceresearchinstitute.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## OpenSSF Best Practices Working Group (WG)
+ - [https://best.openssf.org](https://best.openssf.org)
+ - date published: 2023-12-01T12:40:53.021877+00:00
+ - user: None
+ - tags: []
+
+## Home - Open Source Security Foundation
+ - [https://openssf.org](https://openssf.org)
+ - date published: 2023-10-25T21:53:38.058024+00:00
+ - user: None
+ - tags: []
+
+## https://mta.openssl.org
+ - [https://mta.openssl.org](https://mta.openssl.org)
+ - date published: 2024-01-09T03:41:54.854164+00:00
+ - user: None
+ - tags: []
+
+## /index.html
+ - [https://www.openssl.org](https://www.openssl.org)
+ - date published: 2023-10-25T21:53:40.757319+00:00
+ - user: None
+ - tags: []
+
+## Open Standards
+ - [https://www.open-std.org](https://www.open-std.org)
+ - date published: 2023-10-25T21:52:16.128054+00:00
+ - user: None
+ - tags: []
+
+## Home | Open Steno Project
+ - [https://www.openstenoproject.org](https://www.openstenoproject.org)
+ - date published: 2023-10-25T21:53:42.685049+00:00
+ - user: None
+ - tags: []
+
+## OpenStreetMap Blog | Supporting the OpenStreetMap project
+ - [https://blog.openstreetmap.org](https://blog.openstreetmap.org)
+ - date published: 2023-10-25T21:54:00.090175+00:00
+ - user: None
+ - tags: []
+
+## OpenStreetMap Wiki
+ - [https://wiki.openstreetmap.org](https://wiki.openstreetmap.org)
+ - date published: 2024-02-14T11:16:27.221847+00:00
+ - user: None
+ - tags: []
+
+## OpenStreetMap
+ - [https://www.openstreetmap.org](https://www.openstreetmap.org)
+ - date published: 2023-10-25T08:25:21.448647+00:00
+ - user: None
+ - tags: ['open street maps', 'service maps', 'open source', 'maps']
+
+## Subtitles - download movie and TV Series subtitles
+ - [https://www.opensubtitles.org](https://www.opensubtitles.org)
+ - date published: 2024-02-26T15:02:52.454348+00:00
+ - user: None
+ - tags: []
+
+## Get openSUSE
+ - [https://get.opensuse.org](https://get.opensuse.org)
+ - date published: 2023-10-25T21:54:02.204473+00:00
+ - user: None
+ - tags: []
+
+## openSUSE News
+ - [https://news.opensuse.org](https://news.opensuse.org)
+ - date published: 2023-10-25T21:54:11.240130+00:00
+ - user: None
+ - tags: []
+
+## https://opentf.org
+ - [https://opentf.org](https://opentf.org)
+ - date published: 2023-10-25T21:54:12.348282+00:00
+ - user: None
+ - tags: []
+
+## OpenTofu
+ - [https://opentofu.org](https://opentofu.org)
+ - date published: 2023-10-25T21:54:15.162985+00:00
+ - user: None
+ - tags: []
+
+## Opalstack: no site here.... yet!
+ - [https://opentranscripts.org](https://opentranscripts.org)
+ - date published: 2024-01-09T03:41:56.346236+00:00
+ - user: None
+ - tags: []
+
+## Open Transcripts
+ - [http://opentranscripts.org](http://opentranscripts.org)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## OpenTTD | OpenTTD's Wiki
+ - [https://wiki.openttd.org](https://wiki.openttd.org)
+ - date published: 2023-10-25T21:54:22.399587+00:00
+ - user: None
+ - tags: []
+
+## OpenTTD | Home
+ - [https://www.openttd.org](https://www.openttd.org)
+ - date published: 2023-10-25T21:54:30.332521+00:00
+ - user: None
+ - tags: []
+
+## Open Web Advocacy
+ - [https://open-web-advocacy.org](https://open-web-advocacy.org)
+ - date published: 2024-03-06T00:00:00+00:00
+ - user: None
+ - tags: ['community', 'internet']
+
+## Open Web Docs
+ - [https://openwebdocs.org](https://openwebdocs.org)
+ - date published: 2023-10-25T21:54:33.151027+00:00
+ - user: None
+ - tags: []
+
+## OpenWrt Mailing Lists
+ - [https://lists.openwrt.org](https://lists.openwrt.org)
+ - date published: 2024-01-10T22:07:03.931154+00:00
+ - user: None
+ - tags: []
+
+## [OpenWrt Wiki] Welcome to the OpenWrt Project
+ - [https://openwrt.org](https://openwrt.org)
+ - date published: 2023-10-25T21:54:37.020038+00:00
+ - user: None
+ - tags: ['operating system', 'routers']
+
+## OPNsense® a true open source security platform and more - OPNsense® is a true open source firewall and more
+ - [https://opnsense.org](https://opnsense.org)
+ - date published: 2023-10-25T21:54:42.178862+00:00
+ - user: None
+ - tags: []
+
+## Optica Publishing Group
+ - [https://opg.optica.org](https://opg.optica.org)
+ - date published: 2023-10-25T21:54:45.913732+00:00
+ - user: None
+ - tags: []
+
+## Home | Optica
+ - [https://www.optica.org](https://www.optica.org)
+ - date published: 2023-10-25T21:54:49.744968+00:00
+ - user: None
+ - tags: []
+
+## Optuna – A Hyperparameter Optimization Framework
+ - [https://optuna.org](https://optuna.org)
+ - date published: 2024-04-06T08:26:48+00:00
+ - user: None
+ - tags: []
+
+## Opus Codec
+ - [https://opus-codec.org](https://opus-codec.org)
+ - date published: 2024-03-04T18:53:51.122979+00:00
+ - user: None
+ - tags: []
+
+## Orange Pi - Orange Pi official website - Orange Pi development board, open source hardware, open source
+        software, open source chip, computer keyboard
+ - [http://www.orangepi.org](http://www.orangepi.org)
+ - date published: 2023-10-25T21:54:52.162979+00:00
+ - user: None
+ - tags: []
+
+## Organiser Weekly - Voice of the Nation
+ - [https://organiser.org](https://organiser.org)
+ - date published: 2023-11-25T22:29:38.591315+00:00
+ - user: None
+ - tags: []
+
+## Org Mode
+ - [https://orgmode.org](https://orgmode.org)
+ - date published: 2020-08-07T00:00:00+00:00
+ - user: None
+ - tags: ['emacs']
+
 ## Orion Magazine | Nature, Culture & Place
  - [https://orionmagazine.org](https://orionmagazine.org)
  - date published: 2023-10-25T21:54:59.353571+00:00
@@ -989,14 +1182,14 @@
  - tags: ['personal']
 
 ## The Programming Journal
- - [https://programming-journal.org](https://programming-journal.org)
- - date published: 2023-10-25T21:59:59.828174+00:00
+ - [http://programming-journal.org](http://programming-journal.org)
+ - date published: 2024-06-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Programming Journal
- - [http://programming-journal.org](http://programming-journal.org)
- - date published: 2024-06-01T00:00:00+00:00
+ - [https://programming-journal.org](https://programming-journal.org)
+ - date published: 2023-10-25T21:59:59.828174+00:00
  - user: None
  - tags: []
 
@@ -3241,14 +3434,14 @@
  - tags: ['python library']
 
 ## SQLite Home Page
- - [https://sqlite.org](https://sqlite.org)
- - date published: 2023-10-25T08:34:11.917438+00:00
+ - [http://sqlite.org](http://sqlite.org)
+ - date published: 2024-01-30T00:00:00+00:00
  - user: None
  - tags: []
 
 ## SQLite Home Page
- - [http://sqlite.org](http://sqlite.org)
- - date published: 2024-01-30T00:00:00+00:00
+ - [https://sqlite.org](https://sqlite.org)
+ - date published: 2023-10-25T08:34:11.917438+00:00
  - user: None
  - tags: []
 
@@ -3673,14 +3866,14 @@
  - tags: ['taxes']
 
 ## tbray.org
- - [http://www.tbray.org](http://www.tbray.org)
- - date published: 2024-02-26T15:02:42.572365+00:00
+ - [https://www.tbray.org](https://www.tbray.org)
+ - date published: 2023-10-25T22:12:33.470881+00:00
  - user: None
  - tags: []
 
 ## tbray.org
- - [https://www.tbray.org](https://www.tbray.org)
- - date published: 2023-10-25T22:12:33.470881+00:00
+ - [http://www.tbray.org](http://www.tbray.org)
+ - date published: 2024-02-26T15:02:42.572365+00:00
  - user: None
  - tags: []
 
@@ -4039,14 +4232,14 @@
  - tags: []
 
 ## The Motte
- - [https://www.themotte.org](https://www.themotte.org)
- - date published: 2024-01-15T10:02:38.428422+00:00
+ - [http://www.themotte.org](http://www.themotte.org)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Motte
- - [http://www.themotte.org](http://www.themotte.org)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://www.themotte.org](https://www.themotte.org)
+ - date published: 2024-01-15T10:02:38.428422+00:00
  - user: None
  - tags: []
 
@@ -5180,14 +5373,14 @@
  - tags: []
 
 ## The Viridian Design Movement
- - [https://www.viridiandesign.org](https://www.viridiandesign.org)
- - date published: 2023-10-25T22:17:40.101109+00:00
+ - [http://www.viridiandesign.org](http://www.viridiandesign.org)
+ - date published: 2024-02-26T14:25:06.301684+00:00
  - user: None
  - tags: []
 
 ## The Viridian Design Movement
- - [http://www.viridiandesign.org](http://www.viridiandesign.org)
- - date published: 2024-02-26T14:25:06.301684+00:00
+ - [https://www.viridiandesign.org](https://www.viridiandesign.org)
+ - date published: 2023-10-25T22:17:40.101109+00:00
  - user: None
  - tags: []
 
@@ -5806,198 +5999,6 @@
 ## Wikipédia, l'encyclopédie libre
  - [https://fr.wikipedia.org](https://fr.wikipedia.org)
  - date published: 2023-12-11T16:21:57.471851+00:00
- - user: None
- - tags: []
-
-## Wikipedia, l'enciclopedia libera
- - [https://it.m.wikipedia.org](https://it.m.wikipedia.org)
- - date published: 2024-03-26T16:00:48.694648+00:00
- - user: None
- - tags: []
-
-## Wikipedia, wolna encyklopedia
- - [https://pl.m.wikipedia.org](https://pl.m.wikipedia.org)
- - date published: 2023-10-25T09:28:59.023034+00:00
- - user: None
- - tags: []
-
-## Wikipedia, wolna encyklopedia
- - [https://pl.wikipedia.org](https://pl.wikipedia.org)
- - date published: 2023-10-25T09:29:01.830546+00:00
- - user: None
- - tags: []
-
-## Википедия — свободная энциклопедия
- - [https://ru.wikipedia.org](https://ru.wikipedia.org)
- - date published: 2023-12-11T19:10:59.468908+00:00
- - user: None
- - tags: []
-
-## Вікіпедія
- - [https://uk.wikipedia.org](https://uk.wikipedia.org)
- - date published: 2024-02-23T23:28:25.673289+00:00
- - user: None
- - tags: []
-
-## Wikipedia
- - [https://www.wikipedia.org](https://www.wikipedia.org)
- - date published: 2023-10-25T13:32:36.498304+00:00
- - user: None
- - tags: ['encyclopedia']
-
-## Wikiquote
- - [https://wikiquote.org](https://wikiquote.org)
- - date published: 2023-11-28T19:06:23+00:00
- - user: rumpel
- - tags: ['wiki', 'quotes']
-
-## Wikisource, the free library
- - [https://en.wikisource.org](https://en.wikisource.org)
- - date published: 2023-10-25T22:21:09.335429+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://wikisummaries.org](https://wikisummaries.org)
- - date published: 2023-11-20T20:54:09.137088+00:00
- - user: None
- - tags: []
-
-## Wikiversity
- - [https://en.wikiversity.org](https://en.wikiversity.org)
- - date published: 2023-10-25T22:21:18.483834+00:00
- - user: None
- - tags: []
-
-## Wiktionary, the free dictionary
- - [https://en.wiktionary.org](https://en.wiktionary.org)
- - date published: 2023-10-25T22:21:25.676976+00:00
- - user: None
- - tags: []
-
-## The Wildlife Center of Virginia
- - [https://www.wildlifecenter.org](https://www.wildlifecenter.org)
- - date published: 2024-02-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Willow Specifications - Willow
- - [https://willowprotocol.org](https://willowprotocol.org)
- - date published: 2024-01-17T14:03:21.090496+00:00
- - user: None
- - tags: []
-
-## Explore groups · GitLab
- - [https://gitlab.winehq.org](https://gitlab.winehq.org)
- - date published: 2023-10-25T22:21:28.097147+00:00
- - user: None
- - tags: []
-
-## WineHQ - Run Windows applications on Linux, BSD, Solaris and macOS
- - [https://www.winehq.org](https://www.winehq.org)
- - date published: 2023-10-25T08:34:14.919530+00:00
- - user: None
- - tags: ['open source', 'emulator']
-
-## wingolog
- - [https://wingolog.org](https://wingolog.org)
- - date published: 2023-10-25T22:21:31.127284+00:00
- - user: None
- - tags: []
-
-## wingolog
- - [http://wingolog.org](http://wingolog.org)
- - date published: 2024-02-26T15:12:51.242858+00:00
- - user: None
- - tags: []
-
-## wingolog
- - [https://www.wingolog.org](https://www.wingolog.org)
- - date published: 2023-10-25T22:21:34.064097+00:00
- - user: None
- - tags: []
-
-## Winlator - Android app
- - [https://winlator.org](https://winlator.org)
- - date published: 2024-01-22T21:14:09.078239+00:00
- - user: None
- - tags: []
-
-## WinMerge - You will see the difference…
- - [https://winmerge.org](https://winmerge.org)
- - date published: 2024-03-02T11:27:31+00:00
- - user: rumpel
- - tags: ['program', 'open source', 'file compare']
-
-## EFNet #Winprog
- - [http://www.winprog.org](http://www.winprog.org)
- - date published: 2022-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['win32', 'winapi']
-
-## Show HN: WireHub – easily create and share WireGuard networks
- - [https://www.wirehub.org](https://www.wirehub.org)
- - date published: 2023-11-05T20:54:33+00:00
- - user: None
- - tags: []
-
-## Sniff free or die | The official Wireshark blog
- - [https://blog.wireshark.org](https://blog.wireshark.org)
- - date published: 2023-10-25T22:21:35.527623+00:00
- - user: None
- - tags: []
-
-## WLRN Homepage | WLRN
- - [https://www.wlrn.org](https://www.wlrn.org)
- - date published: 2023-12-17T16:48:32.373811+00:00
- - user: None
- - tags: []
-
-## Pageviews Analysis
- - [https://pageviews.wmcloud.org](https://pageviews.wmcloud.org)
- - date published: 2023-12-30T07:39:48.797012+00:00
- - user: None
- - tags: []
-
-## Facts-Based News for Christians | WORLD
- - [https://wng.org](https://wng.org)
- - date published: 2023-10-25T10:13:18.284192+00:00
- - user: None
- - tags: []
-
-## WNYC Studios | Podcasts
- - [https://www.wnycstudios.org](https://www.wnycstudios.org)
- - date published: 2024-02-26T18:23:23.727442+00:00
- - user: None
- - tags: []
-
-## WolfeDen.Org
- - [https://www.wolfeden.org](https://www.wolfeden.org)
- - date published: 2023-10-25T22:21:37.043037+00:00
- - user: None
- - tags: []
-
-## WolfMUD: Main Index
- - [https://www.wolfmud.org](https://www.wolfmud.org)
- - date published: 2023-10-25T22:21:38.012310+00:00
- - user: None
- - tags: ['game']
-
-## The Wolfram Physics Project: Finding the Fundamental Theory of Physics
- - [https://www.wolframphysics.org](https://www.wolframphysics.org)
- - date published: 2024-03-07T08:59:02.586685+00:00
- - user: None
- - tags: []
-
-## Woodcreek Property Owners Association.
- - [https://woodcreekmchenry.org](https://woodcreekmchenry.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## EnglishFrontPage - Greg's Wiki
- - [https://mywiki.wooledge.org](https://mywiki.wooledge.org)
- - date published: 2023-10-25T22:21:44.832786+00:00
  - user: None
  - tags: []
 

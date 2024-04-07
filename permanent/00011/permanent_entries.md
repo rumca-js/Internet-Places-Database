@@ -1,3 +1,93 @@
+## Postman Community
+ - [https://community.postman.com](https://community.postman.com)
+ - date published: 2023-10-25T16:38:37.493449+00:00
+ - user: None
+ - tags: []
+
+## Postman API Platform
+ - [https://www.postman.com](https://www.postman.com)
+ - date published: 2023-10-25T16:38:38.220740+00:00
+ - user: None
+ - tags: []
+
+## Post-Match Team
+ - [https://postmatchteam.com](https://postmatchteam.com)
+ - date published: 2023-12-17T17:30:48.280093+00:00
+ - user: None
+ - tags: []
+
+## brazil Posts English
+ - [https://brazil.postsen.com](https://brazil.postsen.com)
+ - date published: 2024-02-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Netherlands Posts English
+ - [https://netherlands.postsen.com](https://netherlands.postsen.com)
+ - date published: 2023-10-25T16:38:40.708972+00:00
+ - user: None
+ - tags: []
+
+## Sweden Posts English
+ - [https://sweden.postsen.com](https://sweden.postsen.com)
+ - date published: 2024-01-09T02:47:07.716226+00:00
+ - user: None
+ - tags: []
+
+## https://potetm.com
+ - [https://potetm.com](https://potetm.com)
+ - date published: 2024-01-09T02:47:10.639829+00:00
+ - user: None
+ - tags: []
+
+## PotHix
+ - [https://pothix.com](https://pothix.com)
+ - date published: 2023-12-08T09:38:14.623587+00:00
+ - user: None
+ - tags: ['personal']
+
+## Naser Poursalavati
+ - [https://www.poursalavati.com](https://www.poursalavati.com)
+ - date published: 2024-01-29T23:28:15.097595+00:00
+ - user: None
+ - tags: []
+
+## Derek Powazek
+ - [https://powazek.com](https://powazek.com)
+ - date published: 2024-01-30T18:41:01.579498+00:00
+ - user: None
+ - tags: []
+
+## Powell’s Books | The World’s Largest Independent Bookstore
+ - [https://www.powells.com](https://www.powells.com)
+ - date published: 2024-02-24T18:10:55.368408+00:00
+ - user: None
+ - tags: []
+
+## Power BI
+ - [https://app.powerbi.com](https://app.powerbi.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['project management']
+
+## Power BI
+ - [https://powerbi.com](https://powerbi.com)
+ - date published: 2010-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['big data', 'data visualisation']
+
+## Home | PSMC
+ - [https://www.powerchip.com](https://www.powerchip.com)
+ - date published: 2024-03-18T13:43:35.678252+00:00
+ - user: None
+ - tags: []
+
+## mailman.powerdns.com Mailing Lists
+ - [https://mailman.powerdns.com](https://mailman.powerdns.com)
+ - date published: 2023-11-01T08:42:56.060079+00:00
+ - user: None
+ - tags: []
+
 ## Power Industry And Energy News | Power Engineering
  - [https://www.power-eng.com](https://www.power-eng.com)
  - date published: 2023-10-25T16:38:51.262181+00:00
@@ -947,14 +1037,14 @@
  - tags: []
 
 ## Pushbullet Blog
- - [https://blog.pushbullet.com](https://blog.pushbullet.com)
- - date published: 2023-10-25T16:42:28.991402+00:00
+ - [http://blog.pushbullet.com](http://blog.pushbullet.com)
+ - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Pushbullet Blog
- - [http://blog.pushbullet.com](http://blog.pushbullet.com)
- - date published: 2022-01-01T00:00:00+00:00
+ - [https://blog.pushbullet.com](https://blog.pushbullet.com)
+ - date published: 2023-10-25T16:42:28.991402+00:00
  - user: None
  - tags: []
 
@@ -1509,14 +1599,14 @@
  - tags: []
 
 ## rachelbythebay
- - [http://rachelbythebay.com](http://rachelbythebay.com)
- - date published: 2024-03-25T10:02:53.023235+00:00
+ - [https://rachelbythebay.com](https://rachelbythebay.com)
+ - date published: 2023-10-25T08:47:38.309860+00:00
  - user: None
  - tags: ['personal']
 
 ## rachelbythebay
- - [https://rachelbythebay.com](https://rachelbythebay.com)
- - date published: 2023-10-25T08:47:38.309860+00:00
+ - [http://rachelbythebay.com](http://rachelbythebay.com)
+ - date published: 2024-03-25T10:02:53.023235+00:00
  - user: None
  - tags: ['personal']
 
@@ -1990,16 +2080,16 @@ More!
  - tags: []
 
 ## Home - ratfactor
- - [https://ratfactor.com](https://ratfactor.com)
- - date published: 2023-10-25T16:46:22.037973+00:00
- - user: None
- - tags: []
-
-## Home - ratfactor
  - [http://ratfactor.com](http://ratfactor.com)
  - date published: 2024-04-03T06:32:12.821956+00:00
  - user: None
  - tags: ['personal']
+
+## Home - ratfactor
+ - [https://ratfactor.com](https://ratfactor.com)
+ - date published: 2023-10-25T16:46:22.037973+00:00
+ - user: None
+ - tags: []
 
 ## rauljordan::blog
  - [https://rauljordan.com](https://rauljordan.com)
@@ -2325,6 +2415,12 @@ More!
  - user: None
  - tags: []
 
+## Welcome to Rebel's Guide to Project Management
+ - [https://rebelsguidetopm.com](https://rebelsguidetopm.com)
+ - date published: 2021-12-20T05:16:32+00:00
+ - user: None
+ - tags: []
+
 ## Rebooting The Arsenal of Democracy
  - [https://www.rebootingthearsenal.com](https://www.rebootingthearsenal.com)
  - date published: 2024-04-05T18:56:02.651631+00:00
@@ -2458,16 +2554,16 @@ More!
  - tags: []
 
 ## reddit
- - [https://reddit.com](https://reddit.com)
- - date published: 2023-10-24T20:12:40.083441+00:00
- - user: None
- - tags: ['gatekeeper', 'social platform']
-
-## reddit
  - [http://reddit.com](http://reddit.com)
  - date published: 2024-04-05T18:55:02.786881+00:00
  - user: None
  - tags: []
+
+## reddit
+ - [https://reddit.com](https://reddit.com)
+ - date published: 2023-10-24T20:12:40.083441+00:00
+ - user: None
+ - tags: ['gatekeeper', 'social platform']
 
 ## reddit
  - [https://sh.reddit.com](https://sh.reddit.com)
@@ -2554,14 +2650,14 @@ More!
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
+ - [http://www.reddit-stream.com](http://www.reddit-stream.com)
+ - date published: 2023-12-23T19:30:18.252561+00:00
  - user: None
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [http://www.reddit-stream.com](http://www.reddit-stream.com)
- - date published: 2023-12-23T19:30:18.252561+00:00
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
  - user: None
  - tags: []
 
@@ -3592,16 +3688,16 @@ More!
  - tags: []
 
 ## Ken Shirriff's blog
- - [https://www.righto.com](https://www.righto.com)
- - date published: 2023-10-25T16:51:33.313104+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## Ken Shirriff's blog
  - [http://www.righto.com](http://www.righto.com)
  - date published: 2024-02-25T00:44:48.796985+00:00
  - user: None
  - tags: []
+
+## Ken Shirriff's blog
+ - [https://www.righto.com](https://www.righto.com)
+ - date published: 2023-10-25T16:51:33.313104+00:00
+ - user: None
+ - tags: ['blog', 'personal']
 
 ## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
  - [https://www.rigzone.com](https://www.rigzone.com)
@@ -4504,14 +4600,14 @@ More!
  - tags: ['personal']
 
 ## my blog
- - [http://ronzhyn.com](http://ronzhyn.com)
- - date published: 2024-04-03T12:46:15.138808+00:00
+ - [https://ronzhyn.com](https://ronzhyn.com)
+ - date published: 2023-12-03T01:43:15.181104+00:00
  - user: None
  - tags: ['personal']
 
 ## my blog
- - [https://ronzhyn.com](https://ronzhyn.com)
- - date published: 2023-12-03T01:43:15.181104+00:00
+ - [http://ronzhyn.com](http://ronzhyn.com)
+ - date published: 2024-04-03T12:46:15.138808+00:00
  - user: None
  - tags: ['personal']
 
@@ -5374,14 +5470,14 @@ More!
  - tags: []
 
 ## Samsung Members Community
- - [http://r2.community.samsung.com](http://r2.community.samsung.com)
- - date published: 2024-02-26T14:44:02.734270+00:00
+ - [https://r2.community.samsung.com](https://r2.community.samsung.com)
+ - date published: 2024-01-20T05:57:49.133663+00:00
  - user: None
  - tags: []
 
 ## Samsung Members Community
- - [https://r2.community.samsung.com](https://r2.community.samsung.com)
- - date published: 2024-01-20T05:57:49.133663+00:00
+ - [http://r2.community.samsung.com](http://r2.community.samsung.com)
+ - date published: 2024-02-26T14:44:02.734270+00:00
  - user: None
  - tags: []
 
@@ -5910,102 +6006,6 @@ More!
 ## Josh Mitteldorf | Aging Matters
  - [https://joshmitteldorf.scienceblog.com](https://joshmitteldorf.scienceblog.com)
  - date published: 2023-10-25T16:58:58.341469+00:00
- - user: None
- - tags: []
-
-## ScienceBlog
- - [https://scienceblog.com](https://scienceblog.com)
- - date published: 2024-03-09T20:33:04+00:00
- - user: rumpel
- - tags: ['science']
-
-## ScienceBlogs - Where the world discusses science.
- - [https://scienceblogs.com](https://scienceblogs.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## ScienceDaily: Your source for the latest research news
- - [https://www.sciencedaily.com](https://www.sciencedaily.com)
- - date published: 2023-10-25T10:10:58.373293+00:00
- - user: None
- - tags: ['science']
-
-## ScienceDirect
- - [https://www.sciencedirect.com](https://www.sciencedirect.com)
- - date published: 2023-10-25T10:10:59.662060+00:00
- - user: None
- - tags: ['science news']
-
-## BBC Science Focus Magazine - science, nature, technology, Q&As
- - [https://www.sciencefocus.com](https://www.sciencefocus.com)
- - date published: 2023-10-25T16:59:02.217981+00:00
- - user: None
- - tags: []
-
-## Science Friday
- - [https://www.sciencefriday.com](https://www.sciencefriday.com)
- - date published: 2023-10-25T16:59:05.373137+00:00
- - user: None
- - tags: []
-
-## Science Shot: Professional Insights, Unique Perspectives.
- - [https://www.scienceshot.com](https://www.scienceshot.com)
- - date published: 2023-12-29T20:02:33.354446+00:00
- - user: None
- - tags: []
-
-## ScienceSwitch – Exploring the Depths of Curiosity
- - [https://scienceswitch.com](https://scienceswitch.com)
- - date published: 2023-10-25T16:59:08.691306+00:00
- - user: None
- - tags: []
-
-## None
- - [https://intapi.sciendo.com](https://intapi.sciendo.com)
- - date published: 2024-02-24T09:58:14.488510+00:00
- - user: None
- - tags: []
-
-## Scientific American Blog Network - Scientific American Blog Network
- - [https://blogs.scientificamerican.com](https://blogs.scientificamerican.com)
- - date published: 2023-10-25T16:59:13.314083+00:00
- - user: None
- - tags: []
-
-## Scientific American: Science News, Expert Analysis, Health Research - Scientific American
- - [https://www.scientificamerican.com](https://www.scientificamerican.com)
- - date published: 2023-10-25T10:11:03.956799+00:00
- - user: None
- - tags: []
-
-## The Scientific Coder
- - [https://scientificcoder.com](https://scientificcoder.com)
- - date published: 2023-10-25T16:59:14.570457+00:00
- - user: None
- - tags: []
-
-## Scientific Computing | Scientific Computing World
- - [https://www.scientific-computing.com](https://www.scientific-computing.com)
- - date published: 2023-10-25T16:59:10.313762+00:00
- - user: None
- - tags: []
-
-## Sci-fi interfaces
- - [https://scifiinterfaces.com](https://scifiinterfaces.com)
- - date published: 2023-12-14T07:38:40.007550+00:00
- - user: None
- - tags: []
-
-## SciProgramming - Home
- - [https://sciprogramming.com](https://sciprogramming.com)
- - date published: 2023-10-25T16:59:15.991666+00:00
- - user: None
- - tags: []
-
-## SciTechDaily - Science, Space and Technology News 2023
- - [https://scitechdaily.com](https://scitechdaily.com)
- - date published: 2023-10-25T10:11:08.449489+00:00
  - user: None
  - tags: []
 
