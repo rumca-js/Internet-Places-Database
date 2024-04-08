@@ -1,3 +1,39 @@
+## Afridigest | Ideas, analysis, & insight for business innovators across Africa & beyond.
+ - [https://afridigest.com](https://afridigest.com)
+ - date published: 2023-10-25T12:34:42.761602+00:00
+ - user: None
+ - tags: []
+
+## AfroTech
+ - [https://afrotech.com](https://afrotech.com)
+ - date published: 2023-10-25T12:34:47.438342+00:00
+ - user: None
+ - tags: []
+
+## A Frugal Doctor
+ - [https://www.afrugaldoctor.com](https://www.afrugaldoctor.com)
+ - date published: 2023-10-25T12:34:50.329559+00:00
+ - user: None
+ - tags: []
+
+## After Babel | Jon Haidt | Substack
+ - [https://www.afterbabel.com](https://www.afterbabel.com)
+ - date published: 2024-01-03T02:58:29.207167+00:00
+ - user: None
+ - tags: []
+
+## AFTVnews
+ - [https://www.aftvnews.com](https://www.aftvnews.com)
+ - date published: 2023-11-28T08:00:17+00:00
+ - user: None
+ - tags: ['tv hardware', 'television']
+
+## Home
+ - [https://agedcode.com](https://agedcode.com)
+ - date published: 2023-12-11T18:40:43.012535+00:00
+ - user: None
+ - tags: []
+
 ## Aged Code Studio - Index page
  - [https://forum.agedcode.com](https://forum.agedcode.com)
  - date published: 2023-12-11T17:36:57.990843+00:00
@@ -539,16 +575,16 @@
  - tags: ['personal']
 
 ## Alain Chautard – Alain's personal website
- - [http://www.alainchautard.com](http://www.alainchautard.com)
- - date published: 2024-03-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Alain Chautard – Alain's personal website
  - [https://www.alainchautard.com](https://www.alainchautard.com)
  - date published: 2024-02-09T14:01:11.712731+00:00
  - user: None
  - tags: ['personal']
+
+## Alain Chautard – Alain's personal website
+ - [http://www.alainchautard.com](http://www.alainchautard.com)
+ - date published: 2024-03-08T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Al Anany | Substack
  - [https://alanany.com](https://alanany.com)
@@ -669,6 +705,12 @@
  - date published: 2024-01-09T02:29:13.214195+00:00
  - user: None
  - tags: []
+
+## A Lesson Is Learned But The Damage Is Irreversible
+ - [http://www.alessonislearned.com](http://www.alessonislearned.com)
+ - date published: 2024-04-07T14:25:14.462998+00:00
+ - user: None
+ - tags: ['comics']
 
 ## Aletho News
  - [https://alethonews.com](https://alethonews.com)
@@ -941,16 +983,16 @@
  - tags: ['digital marketplace']
 
 ## Home -
- - [http://alifeunlived.com](http://alifeunlived.com)
- - date published: 2015-08-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home -
  - [https://alifeunlived.com](https://alifeunlived.com)
  - date published: 2023-12-22T17:50:45.863289+00:00
  - user: None
  - tags: ['personal']
+
+## Home -
+ - [http://alifeunlived.com](http://alifeunlived.com)
+ - date published: 2015-08-20T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Alin Panaitiu - Personal website
  - [https://alinpanaitiu.com](https://alinpanaitiu.com)
@@ -1619,14 +1661,14 @@
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
- - date published: 2018-01-01T00:00:00+00:00
+ - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
+ - date published: 2024-01-09T02:29:24.245847+00:00
  - user: None
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
- - date published: 2024-01-09T02:29:24.245847+00:00
+ - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
+ - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1817,16 +1859,16 @@
  - tags: ['personal']
 
 ## Anaël Verdier – Surfer d'imaginaires
- - [http://anaelverdier.com](http://anaelverdier.com)
- - date published: 2024-04-03T06:31:21.733136+00:00
- - user: None
- - tags: ['personal']
-
-## Anaël Verdier – Surfer d'imaginaires
  - [https://anaelverdier.com](https://anaelverdier.com)
  - date published: 2023-11-29T17:07:23.087184+00:00
  - user: None
  - tags: []
+
+## Anaël Verdier – Surfer d'imaginaires
+ - [http://anaelverdier.com](http://anaelverdier.com)
+ - date published: 2024-04-03T06:31:21.733136+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Mixed-signal and digital signal processing ICs | Analog Devices
  - [https://www.analog.com](https://www.analog.com)
@@ -1895,16 +1937,16 @@
  - tags: []
 
 ## AndersenSilva.com
- - [https://andersensilva.com](https://andersensilva.com)
- - date published: 2023-12-27T01:10:57.904709+00:00
- - user: None
- - tags: ['personal']
-
-## AndersenSilva.com
  - [http://andersensilva.com](http://andersensilva.com)
  - date published: 2022-05-05T00:00:00+00:00
  - user: None
  - tags: []
+
+## AndersenSilva.com
+ - [https://andersensilva.com](https://andersensilva.com)
+ - date published: 2023-12-27T01:10:57.904709+00:00
+ - user: None
+ - tags: ['personal']
 
 ## ShunyaEkam.com
  - [https://andersentobias.com](https://andersentobias.com)
@@ -2087,16 +2129,16 @@
  - tags: []
 
 ## Andrew Roussak website
- - [https://www.andrew-roussak.com](https://www.andrew-roussak.com)
- - date published: 2024-01-27T17:59:38.551672+00:00
- - user: None
- - tags: []
-
-## Andrew Roussak website
  - [http://www.andrew-roussak.com](http://www.andrew-roussak.com)
  - date published: 2024-04-03T06:23:08.552087+00:00
  - user: None
  - tags: ['personal']
+
+## Andrew Roussak website
+ - [https://www.andrew-roussak.com](https://www.andrew-roussak.com)
+ - date published: 2024-01-27T17:59:38.551672+00:00
+ - user: None
+ - tags: []
 
 ## Andrew Skotzko - Product leadership advisor - Make Things That Matter
  - [https://andrewskotzko.com](https://andrewskotzko.com)
@@ -2224,6 +2266,12 @@
  - user: None
  - tags: []
 
+## Andy Woodruff, cartographer
+ - [https://andywoodruff.com](https://andywoodruff.com)
+ - date published: 2024-04-07T22:28:41.770945+00:00
+ - user: None
+ - tags: []
+
 ## An Event Apart - Farewell
  - [https://www.aneventapart.com](https://www.aneventapart.com)
  - date published: 2023-10-25T12:41:26.679251+00:00
@@ -2302,15 +2350,15 @@
  - user: None
  - tags: ['personal']
 
-## Animated Knots by Grog | Learn how to tie knots with step-by-step animation
- - [https://www.animatedknots.com](https://www.animatedknots.com)
- - date published: 2023-10-25T12:41:38.429834+00:00
- - user: None
- - tags: []
-
 ## Home
  - [http://www.animatedknots.com](http://www.animatedknots.com)
  - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Animated Knots by Grog | Learn how to tie knots with step-by-step animation
+ - [https://www.animatedknots.com](https://www.animatedknots.com)
+ - date published: 2023-10-25T12:41:38.429834+00:00
  - user: None
  - tags: []
 
@@ -3011,14 +3059,14 @@
  - tags: []
 
 ## * arachnoid.com
- - [https://arachnoid.com](https://arachnoid.com)
- - date published: 2023-10-25T12:43:42.377144+00:00
+ - [http://arachnoid.com](http://arachnoid.com)
+ - date published: 2006-10-19T00:00:00+00:00
  - user: None
  - tags: []
 
 ## * arachnoid.com
- - [http://arachnoid.com](http://arachnoid.com)
- - date published: 2006-10-19T00:00:00+00:00
+ - [https://arachnoid.com](https://arachnoid.com)
+ - date published: 2023-10-25T12:43:42.377144+00:00
  - user: None
  - tags: []
 
@@ -3225,6 +3273,12 @@
  - date published: 2023-10-25T12:44:53.706425+00:00
  - user: None
  - tags: []
+
+## Unreal Tournament 4 : UT4 Pre Alpha - Arena FPS
+ - [https://arenafps.com](https://arenafps.com)
+ - date published: 2024-04-07T17:29:50+00:00
+ - user: rumpel
+ - tags: ['unreal tournament']
 
 ## Areo - Free Expression • Humanism • Culture • Politics • Human Rights • Science
  - [https://areomagazine.com](https://areomagazine.com)
@@ -4217,14 +4271,14 @@
  - tags: []
 
 ## Dystalgia - DYSTALGIA : Aurel Manea photography & visuals
- - [http://aurelm.com](http://aurelm.com)
- - date published: 2024-02-25T19:34:30.262488+00:00
+ - [https://aurelm.com](https://aurelm.com)
+ - date published: 2024-01-09T01:36:57.652800+00:00
  - user: None
  - tags: []
 
 ## Dystalgia - DYSTALGIA : Aurel Manea photography & visuals
- - [https://aurelm.com](https://aurelm.com)
- - date published: 2024-01-09T01:36:57.652800+00:00
+ - [http://aurelm.com](http://aurelm.com)
+ - date published: 2024-02-25T19:34:30.262488+00:00
  - user: None
  - tags: []
 
@@ -4655,14 +4709,14 @@
  - tags: []
 
 ## azdailysun.com | Serving Flagstaff and Northern Arizona
- - [http://azdailysun.com](http://azdailysun.com)
- - date published: 2024-02-19T00:00:00+00:00
+ - [https://azdailysun.com](https://azdailysun.com)
+ - date published: 2023-12-25T13:49:43.018410+00:00
  - user: None
  - tags: []
 
 ## azdailysun.com | Serving Flagstaff and Northern Arizona
- - [https://azdailysun.com](https://azdailysun.com)
- - date published: 2023-12-25T13:49:43.018410+00:00
+ - [http://azdailysun.com](http://azdailysun.com)
+ - date published: 2024-02-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4706,7 +4760,7 @@
  - [https://www.azzamods.com](https://www.azzamods.com)
  - date published: 2023-10-25T08:39:06.448809+00:00
  - user: None
- - tags: []
+ - tags: ['video game mods']
 
 ## B3TA : WE LOVE THE WEB
  - [https://b3ta.com](https://b3ta.com)
@@ -5369,14 +5423,14 @@
  - tags: []
 
 ## BeAble2
- - [http://beable2.com](http://beable2.com)
- - date published: 2024-04-03T06:23:37.542805+00:00
+ - [https://beable2.com](https://beable2.com)
+ - date published: 2023-12-26T06:32:14.747261+00:00
  - user: None
  - tags: ['personal']
 
 ## BeAble2
- - [https://beable2.com](https://beable2.com)
- - date published: 2023-12-26T06:32:14.747261+00:00
+ - [http://beable2.com](http://beable2.com)
+ - date published: 2024-04-03T06:23:37.542805+00:00
  - user: None
  - tags: ['personal']
 
@@ -5941,60 +5995,6 @@
 ## Better HouseKeeper
  - [https://betterhousekeeper.com](https://betterhousekeeper.com)
  - date published: 2024-02-08T17:01:58.909410+00:00
- - user: None
- - tags: []
-
-## https://www.betterleadersbetterschools.com
- - [https://www.betterleadersbetterschools.com](https://www.betterleadersbetterschools.com)
- - date published: 2023-12-27T18:11:37.780094+00:00
- - user: None
- - tags: ['personal']
-
-## Many developers don't speak to users or collaborate with the business
- - [https://bettersoftwarerequirements.com](https://bettersoftwarerequirements.com)
- - date published: 2024-03-27T22:01:45+00:00
- - user: None
- - tags: []
-
-## Better Stack: Spot, Resolve, and Prevent Downtime.
- - [https://betterstack.com](https://betterstack.com)
- - date published: 2024-01-13T17:50:35.249216+00:00
- - user: None
- - tags: []
-
-## Betty Brennan
- - [https://bettybrennan.com](https://bettybrennan.com)
- - date published: 2024-02-09T22:22:28.684639+00:00
- - user: None
- - tags: ['personal']
-
-## Show HN: BewCloud is a simpler alternative to Nextcloud written in TypeScript
- - [https://bewcloud.com](https://bewcloud.com)
- - date published: 2024-03-16T14:20:33+00:00
- - user: None
- - tags: []
-
-## About tweaking the fundamental settings of your brain
- - [http://bewelltuned.com](http://bewelltuned.com)
- - date published: 2024-03-16T22:47:31+00:00
- - user: None
- - tags: []
-
-## Be With Cassandra
- - [https://www.bewithcassandra.com](https://www.bewithcassandra.com)
- - date published: 2023-12-31T16:47:15.106831+00:00
- - user: None
- - tags: []
-
-## Beyond Loom
- - [https://beyondloom.com](https://beyondloom.com)
- - date published: 2023-10-25T12:58:31.094273+00:00
- - user: None
- - tags: []
-
-## BezPlanu.com
- - [https://bezplanu.com](https://bezplanu.com)
- - date published: 2023-10-24T20:05:33.587434+00:00
  - user: None
  - tags: []
 

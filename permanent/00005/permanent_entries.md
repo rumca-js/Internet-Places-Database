@@ -1,3 +1,147 @@
+## Disney Dining Reviews, Menus, and Disney Dining Plan Information
+ - [https://www.disneydining.com](https://www.disneydining.com)
+ - date published: 2023-10-25T13:54:06.573270+00:00
+ - user: None
+ - tags: ['restaurant']
+
+## Stream Disney, Pixar, Marvel, Star Wars, Nat Geo | Disney+
+ - [https://www.disneyplus.com](https://www.disneyplus.com)
+ - date published: 2023-10-24T20:05:38.486246+00:00
+ - user: None
+ - tags: ['star wars', 'gatekeeper', 'video streaming']
+
+## Disney Research Studios | Disney Research
+ - [https://studios.disneyresearch.com](https://studios.disneyresearch.com)
+ - date published: 2023-10-25T13:54:22.250069+00:00
+ - user: None
+ - tags: []
+
+## The Columbus Dispatch: Local News, Politics & Sports in Columbus, OH
+ - [https://www.dispatch.com](https://www.dispatch.com)
+ - date published: 2023-10-25T13:54:28.047932+00:00
+ - user: None
+ - tags: []
+
+## Home - Dispatches Magazine
+ - [https://dispatchesmag.com](https://dispatchesmag.com)
+ - date published: 2023-10-25T13:54:30.988917+00:00
+ - user: None
+ - tags: []
+
+## Log In | Disqus
+ - [http://elcgweb.disqus.com](http://elcgweb.disqus.com)
+ - date published: 2024-02-25T20:09:58.932711+00:00
+ - user: None
+ - tags: []
+
+## Frog Guy Rants | Blog
+ - [https://disrel.com](https://disrel.com)
+ - date published: 2023-10-25T13:54:33.654007+00:00
+ - user: None
+ - tags: []
+
+## Disrupting Japan: Startups and Innovation in Japan - What you need to know about startups and innovation in Japan
+ - [https://www.disruptingjapan.com](https://www.disruptingjapan.com)
+ - date published: 2023-10-25T13:54:37.997071+00:00
+ - user: None
+ - tags: []
+
+## Distinctive Quality
+ - [https://distinctivequality.com](https://distinctivequality.com)
+ - date published: 2024-02-20T09:04:15.735591+00:00
+ - user: None
+ - tags: []
+
+## https://distrokid.com
+ - [https://distrokid.com](https://distrokid.com)
+ - date published: 2024-02-24T09:58:09.319374+00:00
+ - user: None
+ - tags: []
+
+## Welcome To Distro.Tube
+ - [https://distrotube.com](https://distrotube.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['youtuber', 'celebrity']
+
+## DistroWatch.com: Put the fun back into computing. Use Linux, BSD.
+ - [https://distrowatch.com](https://distrowatch.com)
+ - date published: 2023-10-25T13:54:49.738191+00:00
+ - user: None
+ - tags: ['ranking', 'linux']
+
+## Disturbed | Official Website
+ - [https://www.disturbed1.com](https://www.disturbed1.com)
+ - date published: 2023-11-13T09:43:51.930037+00:00
+ - user: None
+ - tags: ['music band']
+
+## None
+ - [https://www.diybookbinding.com](https://www.diybookbinding.com)
+ - date published: 2024-01-09T02:35:07.019460+00:00
+ - user: None
+ - tags: []
+
+## DIYClassD is the DIY branch of Hypex Electronics BV for audiophile lovers.
+ - [https://www.diyclassd.com](https://www.diyclassd.com)
+ - date published: 2023-10-25T13:54:52.305532+00:00
+ - user: None
+ - tags: []
+
+## Home » DIY Usthad » Do It Yourself Projects & Tutorials
+ - [https://diyusthad.com](https://diyusthad.com)
+ - date published: 2023-10-28T20:14:14.711657+00:00
+ - user: None
+ - tags: ['scb', 'raspberry', 'arduino']
+
+## https://feeds.a.dj.com
+ - [https://feeds.a.dj.com](https://feeds.a.dj.com)
+ - date published: 2024-01-09T02:35:08.068719+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://djangochat.com](https://djangochat.com)
+ - date published: 2024-03-21T02:14:15.939205+00:00
+ - user: None
+ - tags: ['django', 'podcast']
+
+## Django
+ - [https://docs.djangoproject.com](https://docs.djangoproject.com)
+ - date published: 2023-11-01T08:41:54.093761+00:00
+ - user: None
+ - tags: []
+
+## The web framework for perfectionists with deadlines | Django
+ - [https://www.djangoproject.com](https://www.djangoproject.com)
+ - date published: 2023-10-25T13:54:54.319657+00:00
+ - user: None
+ - tags: []
+
+## - Abandoned Uranium Workings -
+ - [https://djcresswell.com](https://djcresswell.com)
+ - date published: 2023-12-11T18:31:04.732364+00:00
+ - user: None
+ - tags: []
+
+## Dan's Musings
+ - [https://blog.djhaskin.com](https://blog.djhaskin.com)
+ - date published: 2024-03-25T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## DJI Enterprise - Drone Solutions for Your Business - DJI
+ - [https://enterprise.dji.com](https://enterprise.dji.com)
+ - date published: 2023-10-25T13:54:58.289343+00:00
+ - user: None
+ - tags: []
+
+## DJI FORUM
+ - [https://forum.dji.com](https://forum.dji.com)
+ - date published: 2023-10-25T13:55:00.388000+00:00
+ - user: None
+ - tags: []
+
 ## DJI - Official Website
  - [https://www.dji.com](https://www.dji.com)
  - date published: 2023-10-25T08:39:58.225999+00:00
@@ -41,13 +185,13 @@
  - tags: []
 
 ## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
- - [http://www.djriko.com](http://www.djriko.com)
+ - [https://www.djriko.com](https://www.djriko.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
- - [https://www.djriko.com](https://www.djriko.com)
+ - [http://www.djriko.com](http://www.djriko.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -738,14 +882,14 @@
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [http://drinkag1.com](http://drinkag1.com)
- - date published: 2024-01-21T19:15:07.982155+00:00
+ - [https://drinkag1.com](https://drinkag1.com)
+ - date published: 2024-02-24T09:55:07.922857+00:00
  - user: None
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [https://drinkag1.com](https://drinkag1.com)
- - date published: 2024-02-24T09:55:07.922857+00:00
+ - [http://drinkag1.com](http://drinkag1.com)
+ - date published: 2024-01-21T19:15:07.982155+00:00
  - user: None
  - tags: []
 
@@ -905,15 +1049,15 @@
  - user: None
  - tags: ['music', 'dj']
 
-## Drunk Pastor
- - [https://drunkpastor.com](https://drunkpastor.com)
- - date published: 2023-11-29T15:32:18.653046+00:00
- - user: None
- - tags: []
-
 ## Drunk Pastor: Musings & Services of a Recovering Pastor
  - [http://drunkpastor.com](http://drunkpastor.com)
  - date published: 2024-02-10T16:19:49+00:00
+ - user: None
+ - tags: []
+
+## Drunk Pastor
+ - [https://drunkpastor.com](https://drunkpastor.com)
+ - date published: 2023-11-29T15:32:18.653046+00:00
  - user: None
  - tags: []
 
@@ -1955,6 +2099,12 @@
  - user: None
  - tags: ['amiga', 'personal', 'blog']
 
+## ElephantSQL - PostgreSQL as a Service
+ - [https://www.elephantsql.com](https://www.elephantsql.com)
+ - date published: 2024-04-07T08:02:07.237935+00:00
+ - user: None
+ - tags: []
+
 ## Elevator Saga - the elevator programming game
  - [https://play.elevatorsaga.com](https://play.elevatorsaga.com)
  - date published: 2023-10-25T14:05:22.236086+00:00
@@ -2298,14 +2448,14 @@
  - tags: []
 
 ## Supercharge your mobile apps | Emerge Tools
- - [http://www.emergetools.com](http://www.emergetools.com)
- - date published: 2024-02-25T20:03:45.981322+00:00
+ - [https://www.emergetools.com](https://www.emergetools.com)
+ - date published: 2023-10-25T14:06:59.391184+00:00
  - user: None
  - tags: []
 
 ## Supercharge your mobile apps | Emerge Tools
- - [https://www.emergetools.com](https://www.emergetools.com)
- - date published: 2023-10-25T14:06:59.391184+00:00
+ - [http://www.emergetools.com](http://www.emergetools.com)
+ - date published: 2024-02-25T20:03:45.981322+00:00
  - user: None
  - tags: []
 
@@ -3011,6 +3161,12 @@
  - user: None
  - tags: []
 
+## 403 Error | ESET
+ - [https://web-assets.esetstatic.com](https://web-assets.esetstatic.com)
+ - date published: 2024-04-07T20:28:41.921342+00:00
+ - user: None
+ - tags: []
+
 ## ESG Hound | Substack
  - [https://blog.esghound.com](https://blog.esghound.com)
  - date published: 2023-10-25T14:09:42.821345+00:00
@@ -3036,14 +3192,14 @@
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [http://www.espn.com](http://www.espn.com)
- - date published: 2024-02-25T16:13:57.477675+00:00
+ - [https://www.espn.com](https://www.espn.com)
+ - date published: 2023-10-25T10:09:24.738987+00:00
  - user: None
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [https://www.espn.com](https://www.espn.com)
- - date published: 2023-10-25T10:09:24.738987+00:00
+ - [http://www.espn.com](http://www.espn.com)
+ - date published: 2024-02-25T16:13:57.477675+00:00
  - user: None
  - tags: []
 
@@ -3551,6 +3707,12 @@
  - user: None
  - tags: []
 
+## Evil Inc
+ - [http://evil-comic.com](http://evil-comic.com)
+ - date published: 2024-04-07T14:12:06+00:00
+ - user: rumpel
+ - tags: []
+
 ## Evil Mad Scientist Laboratories | Making the world a better place, one Evil Mad Scientist at a time.
  - [https://www.evilmadscientist.com](https://www.evilmadscientist.com)
  - date published: 2024-04-03T06:39:08.727931+00:00
@@ -3828,14 +3990,14 @@
  - tags: []
 
 ## ezyang’s blog
- - [https://blog.ezyang.com](https://blog.ezyang.com)
- - date published: 2024-01-09T01:37:06.985730+00:00
+ - [http://blog.ezyang.com](http://blog.ezyang.com)
+ - date published: 2024-02-26T14:52:50.963348+00:00
  - user: None
  - tags: []
 
 ## ezyang’s blog
- - [http://blog.ezyang.com](http://blog.ezyang.com)
- - date published: 2024-02-26T14:52:50.963348+00:00
+ - [https://blog.ezyang.com](https://blog.ezyang.com)
+ - date published: 2024-01-09T01:37:06.985730+00:00
  - user: None
  - tags: []
 
@@ -3934,6 +4096,12 @@
  - date published: 2023-10-25T14:25:09.291666+00:00
  - user: None
  - tags: []
+
+## Garry's Mod — The physics sandbox game
+ - [https://gmod.facepunch.com](https://gmod.facepunch.com)
+ - date published: 2024-04-07T17:37:36+00:00
+ - user: rumpel
+ - tags: ['video game mod']
 
 ## Facili-station | Jose Manuel Redondo Lopera | Substack
  - [https://www.facilistation.com](https://www.facilistation.com)
@@ -4054,6 +4222,12 @@
  - date published: 2023-10-25T14:26:24.636690+00:00
  - user: None
  - tags: []
+
+## FanCons.com - Comic, Sci-Fi, Anime, and Pop-Culture Fan Conventions
+ - [https://fancons.com](https://fancons.com)
+ - date published: 2024-04-07T17:46:03+00:00
+ - user: rumpel
+ - tags: ['community events']
 
 ## Business-Class Web Hosting by (mt) Media Temple
  - [https://www.fancyparking.com](https://www.fancyparking.com)
@@ -5231,6 +5405,12 @@
  - user: rumpel
  - tags: ['youtuber']
 
+## Show HN: Flash Notes – Flashcards for Your Notes, LLM, iOS/macOS Sync
+ - [https://www.flashnotesapp.com](https://www.flashnotesapp.com)
+ - date published: 2024-04-07T17:54:31+00:00
+ - user: None
+ - tags: []
+
 ## Football Live Scores, Latest Football Results | Flashscore.com
  - [https://www.flashscore.com](https://www.flashscore.com)
  - date published: 2024-03-17T19:26:13.051988+00:00
@@ -5816,186 +5996,6 @@
 ## Ben Forta
  - [https://forta.com](https://forta.com)
  - date published: 2023-10-25T14:35:41.162914+00:00
- - user: None
- - tags: []
-
-## Home - Forte Labs
- - [https://fortelabs.com](https://fortelabs.com)
- - date published: 2023-10-25T14:35:48.567669+00:00
- - user: None
- - tags: []
-
-## Fortescue
- - [https://fortescue.com](https://fortescue.com)
- - date published: 2024-03-21T05:37:24.817629+00:00
- - user: None
- - tags: ['company']
-
-## software development systems & services
- - [https://www.forth.com](https://www.forth.com)
- - date published: 2023-10-25T14:35:54.553513+00:00
- - user: None
- - tags: []
-
-## For the Badge
- - [https://forthebadge.com](https://forthebadge.com)
- - date published: 2024-01-09T02:36:52.201173+00:00
- - user: None
- - tags: []
-
-## Global Leader of Cybersecurity Solutions and Services | Fortinet
- - [https://www.fortinet.com](https://www.fortinet.com)
- - date published: 2023-10-25T14:36:07.519364+00:00
- - user: None
- - tags: []
-
-## Fortnite
- - [https://www.fortnite.com](https://www.fortnite.com)
- - date published: 2024-03-16T17:22:20+00:00
- - user: rumpel
- - tags: ['video game']
-
-## Fortress of Doors
- - [https://www.fortressofdoors.com](https://www.fortressofdoors.com)
- - date published: 2023-10-25T14:36:09.294965+00:00
- - user: None
- - tags: []
-
-## Expert Daily Market Forecasts using Gann and Elliot Wave Principles • Fortucast
- - [https://www.fortucast.com](https://www.fortucast.com)
- - date published: 2024-02-08T22:07:51.868845+00:00
- - user: None
- - tags: []
-
-## Fortune - Fortune 500 Daily & Breaking Business News | Fortune
- - [https://fortune.com](https://fortune.com)
- - date published: 2023-10-25T14:36:22.071682+00:00
- - user: None
- - tags: []
-
-## News That Matters to American Jews – The Forward
- - [https://forward.com](https://forward.com)
- - date published: 2023-10-25T14:36:25.563672+00:00
- - user: None
- - tags: []
-
-## FOSSA: Audit-Grade Open Source Dependency Protection
- - [https://fossa.com](https://fossa.com)
- - date published: 2023-10-25T14:36:27.833673+00:00
- - user: None
- - tags: []
-
-## FOSS Force - Keeping tech free
- - [https://fossforce.com](https://fossforce.com)
- - date published: 2023-10-25T09:32:58.587105+00:00
- - user: None
- - tags: []
-
-## Market & Opportunity Explorer for Devs · Fossfox
- - [https://fossfox.com](https://fossfox.com)
- - date published: 2023-10-25T14:36:32.664186+00:00
- - user: None
- - tags: []
-
-## FOSS Patents
- - [http://www.fosspatents.com](http://www.fosspatents.com)
- - date published: 2023-10-25T14:36:39.372249+00:00
- - user: None
- - tags: []
-
-## Founder's Choice
- - [https://www.founderschoicevc.com](https://www.founderschoicevc.com)
- - date published: 2023-10-25T14:36:45.980846+00:00
- - user: None
- - tags: []
-
-## Founders' Co-op
- - [https://www.founderscoop.com](https://www.founderscoop.com)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Founding Fuel
- - [https://foundingfuel.com](https://foundingfuel.com)
- - date published: 2023-10-25T14:36:52.016854+00:00
- - user: None
- - tags: []
-
-## Four Bar Design
- - [https://www.fourbardesign.com](https://www.fourbardesign.com)
- - date published: 2023-10-25T14:36:55.657537+00:00
- - user: None
- - tags: []
-
-## Mobile News and Weather News Alabama | FOX10 News
- - [https://www.fox10tv.com](https://www.fox10tv.com)
- - date published: 2024-03-02T19:19:40.634365+00:00
- - user: None
- - tags: []
-
-## fox13memphis.com
- - [https://www.fox13memphis.com](https://www.fox13memphis.com)
- - date published: 2024-03-05T16:10:55.688631+00:00
- - user: None
- - tags: []
-
-## FOX 13 Tampa Bay
- - [https://www.fox13news.com](https://www.fox13news.com)
- - date published: 2023-11-09T20:23:39.042535+00:00
- - user: None
- - tags: []
-
-## FOX13 News | Seattle & Western Washington | Formerly Q13 News
- - [https://www.fox13seattle.com](https://www.fox13seattle.com)
- - date published: 2024-01-06T04:20:40.373713+00:00
- - user: None
- - tags: []
-
-## FOX19 | Cincinnati
- - [https://www.fox19.com](https://www.fox19.com)
- - date published: 2023-10-25T11:03:39.176612+00:00
- - user: None
- - tags: []
-
-## fox23.com
- - [https://www.fox23.com](https://www.fox23.com)
- - date published: 2024-02-24T10:08:37.266312+00:00
- - user: None
- - tags: []
-
-## FOX 26 Houston
- - [https://www.fox26houston.com](https://www.fox26houston.com)
- - date published: 2023-11-20T22:49:09.791736+00:00
- - user: None
- - tags: []
-
-## FOX 29 News Philadelphia
- - [https://www.fox29.com](https://www.fox29.com)
- - date published: 2024-01-05T15:12:18.227958+00:00
- - user: None
- - tags: []
-
-## FOX 2 Detroit
- - [https://www.fox2detroit.com](https://www.fox2detroit.com)
- - date published: 2023-10-25T11:03:56.232571+00:00
- - user: None
- - tags: []
-
-## FOX 35 Orlando
- - [https://www.fox35orlando.com](https://www.fox35orlando.com)
- - date published: 2023-11-27T20:50:59.160081+00:00
- - user: None
- - tags: []
-
-## Access Restricted
- - [https://fox4kc.com](https://fox4kc.com)
- - date published: 2024-02-26T06:26:29.702681+00:00
- - user: None
- - tags: []
-
-## FOX 4 News Dallas-Fort Worth
- - [https://fox4news.com](https://fox4news.com)
- - date published: 2023-11-07T15:12:46.586235+00:00
  - user: None
  - tags: []
 

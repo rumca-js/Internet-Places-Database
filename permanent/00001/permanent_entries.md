@@ -1,3 +1,21 @@
+## Bell Media Account
+ - [https://account.bellmedia.ca](https://account.bellmedia.ca)
+ - date published: 2023-12-12T09:04:24.261526+00:00
+ - user: None
+ - tags: []
+
+## https://recodata.shared-svc.bellmedia.ca
+ - [https://recodata.shared-svc.bellmedia.ca](https://recodata.shared-svc.bellmedia.ca)
+ - date published: 2023-12-12T08:41:51.384990+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.bellmedia.ca](https://www.bellmedia.ca)
+ - date published: 2023-12-12T08:43:45.676684+00:00
+ - user: None
+ - tags: []
+
 ## Best Buy: Shop Online For Deals & Save | Best Buy Canada
  - [https://www.bestbuy.ca](https://www.bestbuy.ca)
  - date published: 2024-02-23T22:51:25.927722+00:00
@@ -629,14 +647,14 @@
  - tags: []
 
 ## National Film Board of Canada
- - [https://www.nfb.ca](https://www.nfb.ca)
- - date published: 2023-10-25T12:06:29.183270+00:00
+ - [http://www.nfb.ca](http://www.nfb.ca)
+ - date published: 2024-02-26T12:35:45.332677+00:00
  - user: None
  - tags: []
 
 ## National Film Board of Canada
- - [http://www.nfb.ca](http://www.nfb.ca)
- - date published: 2024-02-26T12:35:45.332677+00:00
+ - [https://www.nfb.ca](https://www.nfb.ca)
+ - date published: 2023-10-25T12:06:29.183270+00:00
  - user: None
  - tags: []
 
@@ -1140,16 +1158,16 @@
  - tags: ['personal']
 
 ## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
- - [https://wingfelder.ca](https://wingfelder.ca)
- - date published: 2024-01-11T13:28:46.842673+00:00
- - user: None
- - tags: []
-
-## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
  - [http://wingfelder.ca](http://wingfelder.ca)
  - date published: 2024-04-03T12:43:01.979772+00:00
  - user: None
  - tags: ['personal']
+
+## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
+ - [https://wingfelder.ca](https://wingfelder.ca)
+ - date published: 2024-01-11T13:28:46.842673+00:00
+ - user: None
+ - tags: []
 
 ## Women of Influence –
  - [https://www.womenofinfluence.ca](https://www.womenofinfluence.ca)
@@ -3048,6 +3066,12 @@
  - user: None
  - tags: ['personal']
 
+## Game8｜The Top Gaming and App Walkthroughs Straight from Japan!
+ - [https://game8.co](https://game8.co)
+ - date published: 2024-04-07T17:55:50+00:00
+ - user: rumpel
+ - tags: ['video game walkthrough']
+
 ## Welcome to gbbns.co
  - [https://www.gbbns.co](https://www.gbbns.co)
  - date published: 2024-02-14T08:42:49.369808+00:00
@@ -3439,14 +3463,14 @@
  - tags: []
 
 ## Nabeel S. Qureshi
- - [https://nabeelqu.co](https://nabeelqu.co)
- - date published: 2024-01-20T19:20:52.169397+00:00
+ - [http://nabeelqu.co](http://nabeelqu.co)
+ - date published: 2024-02-26T09:20:32.283903+00:00
  - user: None
  - tags: []
 
 ## Nabeel S. Qureshi
- - [http://nabeelqu.co](http://nabeelqu.co)
- - date published: 2024-02-26T09:20:32.283903+00:00
+ - [https://nabeelqu.co](https://nabeelqu.co)
+ - date published: 2024-01-20T19:20:52.169397+00:00
  - user: None
  - tags: []
 
@@ -3864,6 +3888,12 @@
  - user: None
  - tags: []
 
+## The Handbasket
+ - [https://www.thehandbasket.co](https://www.thehandbasket.co)
+ - date published: 2024-04-06T00:00:00+00:00
+ - user: None
+ - tags: ['journalism']
+
 ## Subscribe to The Hustle Daily Newsletter - The Hustle
  - [https://thehustle.co](https://thehustle.co)
  - date published: 2023-10-25T12:23:50.924572+00:00
@@ -3913,14 +3943,14 @@
  - tags: []
 
 ## Travel Hungry: Great Tastes From Stuttgart & Beyond
- - [http://travelhungry.co](http://travelhungry.co)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://travelhungry.co](https://travelhungry.co)
+ - date published: 2023-10-25T12:24:24.607320+00:00
  - user: None
  - tags: []
 
 ## Travel Hungry: Great Tastes From Stuttgart & Beyond
- - [https://travelhungry.co](https://travelhungry.co)
- - date published: 2023-10-25T12:24:24.607320+00:00
+ - [http://travelhungry.co](http://travelhungry.co)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4797,14 +4827,14 @@
  - tags: []
 
 ## Aardwolf MUD - Home Page
- - [http://www.aardwolf.com](http://www.aardwolf.com)
- - date published: 2024-03-27T20:46:27.237579+00:00
+ - [https://www.aardwolf.com](https://www.aardwolf.com)
+ - date published: 2024-03-27T20:48:48.782050+00:00
  - user: None
  - tags: ['mud game']
 
 ## Aardwolf MUD - Home Page
- - [https://www.aardwolf.com](https://www.aardwolf.com)
- - date published: 2024-03-27T20:48:48.782050+00:00
+ - [http://www.aardwolf.com](http://www.aardwolf.com)
+ - date published: 2024-03-27T20:46:27.237579+00:00
  - user: None
  - tags: ['mud game']
 
@@ -4892,17 +4922,17 @@
  - user: None
  - tags: ['personal']
 
-## Coming Soon
- - [https://aaronshbeeb.com](https://aaronshbeeb.com)
- - date published: 2023-12-17T20:59:02.532105+00:00
- - user: None
- - tags: ['personal']
-
 ## Home - Aaron Shbeeb
  - [http://aaronshbeeb.com](http://aaronshbeeb.com)
  - date published: 2024-04-03T00:00:00+00:00
  - user: None
  - tags: []
+
+## Coming Soon
+ - [https://aaronshbeeb.com](https://aaronshbeeb.com)
+ - date published: 2023-12-17T20:59:02.532105+00:00
+ - user: None
+ - tags: ['personal']
 
 ## AaronStrick.com
  - [https://aaronstrick.com](https://aaronstrick.com)
@@ -4910,15 +4940,15 @@
  - user: None
  - tags: ['personal']
 
-## None
- - [https://www.aaronsw.com](https://www.aaronsw.com)
- - date published: 2024-01-09T01:38:10.984994+00:00
- - user: None
- - tags: []
-
 ## Aaron Swartz
  - [http://www.aaronsw.com](http://www.aaronsw.com)
  - date published: 2009-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.aaronsw.com](https://www.aaronsw.com)
+ - date published: 2024-01-09T01:38:10.984994+00:00
  - user: None
  - tags: []
 
@@ -5312,6 +5342,12 @@
  - user: None
  - tags: []
 
+## Simon Calls! (Pat's Father)
+ - [http://achewood.com](http://achewood.com)
+ - date published: 2024-04-07T14:13:46+00:00
+ - user: rumpel
+ - tags: ['comic strips']
+
 ## A CITY ON MARS
  - [https://www.acityonmars.com](https://www.acityonmars.com)
  - date published: 2024-01-19T15:56:08.894537+00:00
@@ -5505,14 +5541,14 @@
  - tags: []
 
 ## Adam Fisher
- - [http://adamfishertrumpet.com](http://adamfishertrumpet.com)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://adamfishertrumpet.com](https://adamfishertrumpet.com)
+ - date published: 2024-01-09T02:29:07.213553+00:00
  - user: None
  - tags: []
 
 ## Adam Fisher
- - [https://adamfishertrumpet.com](https://adamfishertrumpet.com)
- - date published: 2024-01-09T02:29:07.213553+00:00
+ - [http://adamfishertrumpet.com](http://adamfishertrumpet.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5965,42 +6001,6 @@
 ## African History Extra | isaac Samuel | Substack
  - [https://www.africanhistoryextra.com](https://www.africanhistoryextra.com)
  - date published: 2024-02-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Afridigest | Ideas, analysis, & insight for business innovators across Africa & beyond.
- - [https://afridigest.com](https://afridigest.com)
- - date published: 2023-10-25T12:34:42.761602+00:00
- - user: None
- - tags: []
-
-## AfroTech
- - [https://afrotech.com](https://afrotech.com)
- - date published: 2023-10-25T12:34:47.438342+00:00
- - user: None
- - tags: []
-
-## A Frugal Doctor
- - [https://www.afrugaldoctor.com](https://www.afrugaldoctor.com)
- - date published: 2023-10-25T12:34:50.329559+00:00
- - user: None
- - tags: []
-
-## After Babel | Jon Haidt | Substack
- - [https://www.afterbabel.com](https://www.afterbabel.com)
- - date published: 2024-01-03T02:58:29.207167+00:00
- - user: None
- - tags: []
-
-## AFTVnews
- - [https://www.aftvnews.com](https://www.aftvnews.com)
- - date published: 2023-11-28T08:00:17+00:00
- - user: None
- - tags: ['tv hardware', 'television']
-
-## Home
- - [https://agedcode.com](https://agedcode.com)
- - date published: 2023-12-11T18:40:43.012535+00:00
  - user: None
  - tags: []
 

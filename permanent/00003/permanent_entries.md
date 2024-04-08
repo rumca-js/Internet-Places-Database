@@ -1,3 +1,57 @@
+## https://www.betterleadersbetterschools.com
+ - [https://www.betterleadersbetterschools.com](https://www.betterleadersbetterschools.com)
+ - date published: 2023-12-27T18:11:37.780094+00:00
+ - user: None
+ - tags: ['personal']
+
+## Many developers don't speak to users or collaborate with the business
+ - [https://bettersoftwarerequirements.com](https://bettersoftwarerequirements.com)
+ - date published: 2024-03-27T22:01:45+00:00
+ - user: None
+ - tags: []
+
+## Better Stack: Spot, Resolve, and Prevent Downtime.
+ - [https://betterstack.com](https://betterstack.com)
+ - date published: 2024-01-13T17:50:35.249216+00:00
+ - user: None
+ - tags: []
+
+## Betty Brennan
+ - [https://bettybrennan.com](https://bettybrennan.com)
+ - date published: 2024-02-09T22:22:28.684639+00:00
+ - user: None
+ - tags: ['personal']
+
+## Show HN: BewCloud is a simpler alternative to Nextcloud written in TypeScript
+ - [https://bewcloud.com](https://bewcloud.com)
+ - date published: 2024-03-16T14:20:33+00:00
+ - user: None
+ - tags: []
+
+## About tweaking the fundamental settings of your brain
+ - [http://bewelltuned.com](http://bewelltuned.com)
+ - date published: 2024-03-16T22:47:31+00:00
+ - user: None
+ - tags: []
+
+## Be With Cassandra
+ - [https://www.bewithcassandra.com](https://www.bewithcassandra.com)
+ - date published: 2023-12-31T16:47:15.106831+00:00
+ - user: None
+ - tags: []
+
+## Beyond Loom
+ - [https://beyondloom.com](https://beyondloom.com)
+ - date published: 2023-10-25T12:58:31.094273+00:00
+ - user: None
+ - tags: []
+
+## BezPlanu.com
+ - [https://bezplanu.com](https://bezplanu.com)
+ - date published: 2023-10-24T20:05:33.587434+00:00
+ - user: None
+ - tags: []
+
 ## Ben Oliver
  - [https://www.bfoliver.com](https://www.bfoliver.com)
  - date published: 2023-12-19T19:08:03.990555+00:00
@@ -110,7 +164,7 @@
  - [https://www.bigmancomics.com](https://www.bigmancomics.com)
  - date published: 2024-03-02T19:56:13.497988+00:00
  - user: None
- - tags: []
+ - tags: ['comics author', 'personal']
 
 ## Big Medium | This Is Big Design
  - [https://bigmedium.com](https://bigmedium.com)
@@ -209,14 +263,14 @@
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [https://billingsgazette.com](https://billingsgazette.com)
- - date published: 2023-12-17T18:30:53.119094+00:00
+ - [http://billingsgazette.com](http://billingsgazette.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [http://billingsgazette.com](http://billingsgazette.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://billingsgazette.com](https://billingsgazette.com)
+ - date published: 2023-12-17T18:30:53.119094+00:00
  - user: None
  - tags: []
 
@@ -411,6 +465,12 @@
  - date published: 2023-10-25T13:00:38.354625+00:00
  - user: None
  - tags: []
+
+## BioNTech
+ - [https://www.biontech.com](https://www.biontech.com)
+ - date published: 2024-04-07T14:02:53.484407+00:00
+ - user: None
+ - tags: ['vaccines', 'mrna', 'covid']
 
 ## Endocrine Connections
  - [https://ec.bioscientifica.com](https://ec.bioscientifica.com)
@@ -958,6 +1018,12 @@
  - user: None
  - tags: ['community event']
 
+## Blizzplanet | News about World of Warcraf, Diablo 4, Diablo Immortal, and licensed products.
+ - [https://www.blizzplanet.com](https://www.blizzplanet.com)
+ - date published: 2024-04-07T18:04:34+00:00
+ - user: rumpel
+ - tags: ['blizzard', 'world of warcraft', 'diablo']
+
 ## Blockade Labs Skybox - AI-Generated 3D Worlds
  - [https://skybox.blockadelabs.com](https://skybox.blockadelabs.com)
  - date published: 2023-10-25T13:04:48.005443+00:00
@@ -1121,13 +1187,13 @@
  - tags: ['personal']
 
 ## The Axis of Eval
- - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
+ - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Axis of Eval
- - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
+ - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
@@ -1277,16 +1343,16 @@
  - tags: ['personal']
 
 ## Database Architects
- - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
- - date published: 2023-10-25T09:08:09.774302+00:00
- - user: None
- - tags: ['personal']
-
-## Database Architects
  - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
  - date published: 2024-02-19T00:00:00+00:00
  - user: None
  - tags: []
+
+## Database Architects
+ - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
+ - date published: 2023-10-25T09:08:09.774302+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Data Finnovation
  - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
@@ -1486,6 +1552,12 @@
  - user: None
  - tags: []
 
+## Helix Mod
+ - [https://helixmod.blogspot.com](https://helixmod.blogspot.com)
+ - date published: 2024-03-11T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
 ## Heron's Perch
  - [https://heronsperch.blogspot.com](https://heronsperch.blogspot.com)
  - date published: 2023-10-25T09:08:53.609378+00:00
@@ -1505,16 +1577,16 @@
  - tags: []
 
 ## Information Processing
- - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
- - date published: 2023-10-25T09:09:06.318517+00:00
- - user: None
- - tags: ['personal']
-
-## Information Processing
  - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
  - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
+
+## Information Processing
+ - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
+ - date published: 2023-10-25T09:09:06.318517+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Development of the trilogy & IV
  - [https://insiderockstarnorth.blogspot.com](https://insiderockstarnorth.blogspot.com)
@@ -1571,14 +1643,14 @@
  - tags: []
 
 ## Kiwi Hellenist
- - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
- - date published: 2023-11-28T20:46:36.488371+00:00
+ - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Kiwi Hellenist
- - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
+ - date published: 2023-11-28T20:46:36.488371+00:00
  - user: None
  - tags: []
 
@@ -1865,14 +1937,14 @@
  - tags: ['personal']
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
- - date published: 2024-01-03T20:38:22.927557+00:00
+ - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
+ - date published: 2024-01-04T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
- - date published: 2024-01-04T00:00:00+00:00
+ - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
+ - date published: 2024-01-03T20:38:22.927557+00:00
  - user: None
  - tags: []
 
@@ -2344,17 +2416,17 @@
  - user: None
  - tags: ['personal']
 
-## Site not found · DreamHost
- - [https://www.bobzien.com](https://www.bobzien.com)
- - date published: 2024-01-15T13:59:16.442976+00:00
- - user: None
- - tags: []
-
 ## Bobzien.com – From the western edge of the Great Basin
  - [http://www.bobzien.com](http://www.bobzien.com)
  - date published: 2024-04-03T06:30:28.715784+00:00
  - user: None
  - tags: ['personal']
+
+## Site not found · DreamHost
+ - [https://www.bobzien.com](https://www.bobzien.com)
+ - date published: 2024-01-15T13:59:16.442976+00:00
+ - user: None
+ - tags: []
 
 ## BodyLines.com™ :: Curves® breast enhancers | 100% Cashmere Scarves
  - [https://www.bodylines.com](https://www.bodylines.com)
@@ -2497,16 +2569,16 @@
  - tags: []
 
 ## Boodaism
- - [http://boodaism.com](http://boodaism.com)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Boodaism
  - [https://boodaism.com](https://boodaism.com)
  - date published: 2023-12-13T06:05:24.808329+00:00
  - user: None
  - tags: ['personal']
+
+## Boodaism
+ - [http://boodaism.com](http://boodaism.com)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Book reviews: Find the best new books
  - [https://www.bookbrowse.com](https://www.bookbrowse.com)
@@ -2563,14 +2635,14 @@
  - tags: ['books']
 
 ## Bookreporter.com |
- - [https://www.bookreporter.com](https://www.bookreporter.com)
- - date published: 2023-11-07T16:06:19.097099+00:00
+ - [http://www.bookreporter.com](http://www.bookreporter.com)
+ - date published: 2024-03-01T19:06:27.394328+00:00
  - user: None
  - tags: []
 
 ## Bookreporter.com |
- - [http://www.bookreporter.com](http://www.bookreporter.com)
- - date published: 2024-03-01T19:06:27.394328+00:00
+ - [https://www.bookreporter.com](https://www.bookreporter.com)
+ - date published: 2023-11-07T16:06:19.097099+00:00
  - user: None
  - tags: []
 
@@ -3024,6 +3096,12 @@
  - user: None
  - tags: ['personal']
 
+## Breck Yunits' Blog - All Posts
+ - [https://breckyunits.com](https://breckyunits.com)
+ - date published: 2024-04-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Breitbart News Network
  - [https://www.breitbart.com](https://www.breitbart.com)
  - date published: 2023-10-25T13:12:01.815080+00:00
@@ -3139,16 +3217,16 @@
  - tags: []
 
 ## Brian Kleiber - SEO Analyst & Content Marketing
- - [https://www.briankleiber.com](https://www.briankleiber.com)
- - date published: 2023-12-30T22:23:37.854421+00:00
- - user: None
- - tags: ['personal']
-
-## Brian Kleiber - SEO Analyst & Content Marketing
  - [http://www.briankleiber.com](http://www.briankleiber.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Brian Kleiber - SEO Analyst & Content Marketing
+ - [https://www.briankleiber.com](https://www.briankleiber.com)
+ - date published: 2023-12-30T22:23:37.854421+00:00
+ - user: None
+ - tags: ['personal']
 
 ## bkm
  - [https://www.briankm.com](https://www.briankm.com)
@@ -3745,14 +3823,14 @@
  - tags: []
 
 ## Business Owners Success Club
- - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
- - date published: 2024-04-03T06:24:35.974117+00:00
+ - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
+ - date published: 8211-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
 ## Business Owners Success Club
- - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
- - date published: 8211-01-01T00:00:00+00:00
+ - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
+ - date published: 2024-04-03T06:24:35.974117+00:00
  - user: None
  - tags: ['personal']
 
@@ -3867,6 +3945,12 @@
 ## Buzzsprout: Podcast Hosting, Promotion & Analytics
  - [https://www.buzzsprout.com](https://www.buzzsprout.com)
  - date published: 2024-04-03T06:41:21.578019+00:00
+ - user: None
+ - tags: []
+
+## nba直播-nba直播免费观看直播在线高清视频-1.84直播吧
+ - [https://bvsatyaram.com](https://bvsatyaram.com)
+ - date published: 2024-04-07T04:31:47.187877+00:00
  - user: None
  - tags: []
 
@@ -4698,6 +4782,12 @@
  - user: None
  - tags: []
 
+## Castlevania Crypt.com
+ - [https://www.castlevaniacrypt.com](https://www.castlevaniacrypt.com)
+ - date published: 2024-04-07T00:00:00+00:00
+ - user: rumpel
+ - tags: ['castlevania']
+
 ## Catalina Villegas
  - [https://www.catalinavillegas.com](https://www.catalinavillegas.com)
  - date published: 2008-01-01T00:00:00+00:00
@@ -4885,14 +4975,14 @@
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [https://sports.cctv.com](https://sports.cctv.com)
- - date published: 2023-12-09T12:18:44.730556+00:00
+ - [http://sports.cctv.com](http://sports.cctv.com)
+ - date published: 2024-03-21T02:07:49.559014+00:00
  - user: None
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [http://sports.cctv.com](http://sports.cctv.com)
- - date published: 2024-03-21T02:07:49.559014+00:00
+ - [https://sports.cctv.com](https://sports.cctv.com)
+ - date published: 2023-12-09T12:18:44.730556+00:00
  - user: None
  - tags: []
 
@@ -4967,6 +5057,12 @@
  - date published: 2023-10-25T09:19:38.270194+00:00
  - user: None
  - tags: ['personal']
+
+## Human fetal brain self-organizes into long-term expanding organoids
+ - [www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue](www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue)
+ - date published: 2024-01-10T19:20:45.384863+00:00
+ - user: None
+ - tags: []
 
 ## https://www.cell.com
  - [https://www.cell.com](https://www.cell.com)
@@ -5364,6 +5460,12 @@
  - user: None
  - tags: []
 
+## Cheaters Heaven
+ - [https://www.cheaters-heaven.com](https://www.cheaters-heaven.com)
+ - date published: 2024-04-07T18:03:48+00:00
+ - user: rumpel
+ - tags: ['game trainers']
+
 ## Car Accident Records Search and Check VIN  |  Vehicle History Reports  |  Junk and Salvage Records  |  Check Any VIN
  - [https://checkanyvin.com](https://checkanyvin.com)
  - date published: 2023-10-25T13:20:49.534387+00:00
@@ -5682,17 +5784,17 @@
  - user: None
  - tags: []
 
-## http://chrisjstott.com
- - [https://chrisjstott.com](https://chrisjstott.com)
- - date published: 2024-01-24T08:01:05.864817+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [http://chrisjstott.com](http://chrisjstott.com)
  - date published: 2024-02-29T14:58:49.595292+00:00
  - user: None
  - tags: []
+
+## http://chrisjstott.com
+ - [https://chrisjstott.com](https://chrisjstott.com)
+ - date published: 2024-01-24T08:01:05.864817+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -5887,14 +5989,14 @@
  - tags: ['personal']
 
 ## Christoph Gruber
- - [https://www.christophgruber.com](https://www.christophgruber.com)
- - date published: 2024-01-17T04:43:22.299793+00:00
+ - [http://www.christophgruber.com](http://www.christophgruber.com)
+ - date published: 2024-04-03T06:25:56.066461+00:00
  - user: None
  - tags: ['personal']
 
 ## Christoph Gruber
- - [http://www.christophgruber.com](http://www.christophgruber.com)
- - date published: 2024-04-03T06:25:56.066461+00:00
+ - [https://www.christophgruber.com](https://www.christophgruber.com)
+ - date published: 2024-01-17T04:43:22.299793+00:00
  - user: None
  - tags: ['personal']
 
@@ -5903,106 +6005,4 @@
  - date published: 2023-06-19T00:00:00+00:00
  - user: None
  - tags: []
-
-## Blog | Chris Warrick
- - [https://chriswarrick.com](https://chriswarrick.com)
- - date published: 2023-10-25T09:19:47.812882+00:00
- - user: None
- - tags: ['personal']
-
-## Blog | Chris Warrick
- - [http://chriswarrick.com](http://chriswarrick.com)
- - date published: 2024-02-25T15:45:10.545891+00:00
- - user: None
- - tags: []
-
-## Chris Zacharias
- - [https://blog.chriszacharias.com](https://blog.chriszacharias.com)
- - date published: 2023-10-25T13:22:45.023126+00:00
- - user: None
- - tags: []
-
-## Chris Zombik | Home
- - [https://www.chriszombik.com](https://www.chriszombik.com)
- - date published: 2024-01-05T10:28:39.158434+00:00
- - user: None
- - tags: []
-
-## Chrome for Developers
- - [https://developer.chrome.com](https://developer.chrome.com)
- - date published: 2023-10-25T13:22:57.046360+00:00
- - user: None
- - tags: []
-
-## Chrome Platform Status
- - [https://chromestatus.com](https://chromestatus.com)
- - date published: 2023-10-25T13:22:59.796806+00:00
- - user: None
- - tags: []
-
-## Chrome Unboxed | Chromebooks | Chromecast | Assistant | News
- - [https://chromeunboxed.com](https://chromeunboxed.com)
- - date published: 2023-10-25T13:23:05.320515+00:00
- - user: None
- - tags: []
-
-## Chron: Houston News, Sports, Weather, Food, Politics & Texas
- - [https://www.chron.com](https://www.chron.com)
- - date published: 2023-10-25T13:23:10.991817+00:00
- - user: None
- - tags: []
-
-## The Chronicle of Higher Education
- - [https://www.chronicle.com](https://www.chronicle.com)
- - date published: 2023-10-25T13:23:11+00:00
- - user: rumpel
- - tags: ['news']
-
-## Red Alert 2: Chrono Divide
- - [https://chronodivide.com](https://chronodivide.com)
- - date published: 2023-11-17T21:39:41+00:00
- - user: rumpel
- - tags: ['red alert']
-
-## Loading...  - Chronology Clock
- - [https://chronologyclock.com](https://chronologyclock.com)
- - date published: 2023-10-25T13:23:11.800564+00:00
- - user: None
- - tags: []
-
-## Chrultrabook Docs
- - [https://docs.chrultrabook.com](https://docs.chrultrabook.com)
- - date published: 2024-01-02T18:46:00+00:00
- - user: None
- - tags: []
-
-## Igor's index of metalworking and electrical manuals
- - [http://manuals.chudov.com](http://manuals.chudov.com)
- - date published: 2005-05-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dome's Blog
- - [https://blog.chybby.com](https://blog.chybby.com)
- - date published: 2024-01-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Cimetrics - BACnet Stack (BACstac), BACnet products, Analytika service
- - [https://www.cimetrics.com](https://www.cimetrics.com)
- - date published: 2024-02-08T16:36:35.173223+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.cincinnati.com](https://www.cincinnati.com)
- - date published: 2023-11-29T22:00:29.169909+00:00
- - user: None
- - tags: []
-
-## CINDY BRZOSTOWSKI
- - [https://www.cindybrz.com](https://www.cindybrz.com)
- - date published: 2023-12-24T18:31:00.190284+00:00
- - user: None
- - tags: ['personal']
 

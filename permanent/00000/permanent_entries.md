@@ -1676,7 +1676,7 @@
  - [https://www.uberduck.ai](https://www.uberduck.ai)
  - date published: 2024-02-08T00:00:00+00:00
  - user: rumpel
- - tags: ['artificial intelligence']
+ - tags: ['artificial intelligence', 'music generating']
 
 ## Undermind
  - [https://app.undermind.ai](https://app.undermind.ai)
@@ -2920,6 +2920,12 @@
  - user: None
  - tags: []
 
+## Neobrutalism components
+ - [https://neobrutalism-components.vercel.app](https://neobrutalism-components.vercel.app)
+ - date published: 2024-04-07T06:03:59+00:00
+ - user: rumpel
+ - tags: ['brutalist web']
+
 ## OctoArt
  - [https://octoart.vercel.app](https://octoart.vercel.app)
  - date published: 2023-10-30T18:59:23.812847+00:00
@@ -3082,6 +3088,12 @@
  - user: None
  - tags: []
 
+## Xemu: Original Xbox Emulator
+ - [https://xemu.app](https://xemu.app)
+ - date published: 2024-04-07T17:18:37+00:00
+ - user: None
+ - tags: ['xbox', 'emulator']
+
 ## Songkeys
  - [https://song.xlog.app](https://song.xlog.app)
  - date published: 2024-01-15T14:06:39.285330+00:00
@@ -3205,6 +3217,12 @@
 ## Masterworks
  - [https://www.masterworks.art](https://www.masterworks.art)
  - date published: 2024-01-24T20:54:06.806591+00:00
+ - user: None
+ - tags: []
+
+## Mastodon.ART
+ - [https://mastodon.art](https://mastodon.art)
+ - date published: 2024-04-07T14:24:47.816310+00:00
  - user: None
  - tags: []
 
@@ -3539,16 +3557,16 @@
  - tags: []
 
 ## Now - Adam Ashton
- - [https://www.adamashton.com.au](https://www.adamashton.com.au)
- - date published: 2024-01-10T18:10:16.445630+00:00
- - user: None
- - tags: []
-
-## Now - Adam Ashton
  - [http://www.adamashton.com.au](http://www.adamashton.com.au)
  - date published: 2024-04-03T12:46:14.376541+00:00
  - user: None
  - tags: ['personal']
+
+## Now - Adam Ashton
+ - [https://www.adamashton.com.au](https://www.adamashton.com.au)
+ - date published: 2024-01-10T18:10:16.445630+00:00
+ - user: None
+ - tags: []
 
 ## 404 Not Found
  - [https://www.adelaidenow.com.au](https://www.adelaidenow.com.au)
@@ -3725,16 +3743,16 @@
  - tags: []
 
 ## Home
- - [https://kerrygrace.com.au](https://kerrygrace.com.au)
- - date published: 2024-01-09T21:36:51.535431+00:00
- - user: None
- - tags: []
-
-## Home
  - [http://kerrygrace.com.au](http://kerrygrace.com.au)
  - date published: 2024-04-03T06:27:02.750662+00:00
  - user: None
  - tags: ['personal']
+
+## Home
+ - [https://kerrygrace.com.au](https://kerrygrace.com.au)
+ - date published: 2024-01-09T21:36:51.535431+00:00
+ - user: None
+ - tags: []
 
 ## Kotaku Australia | See Games Differently
  - [https://www.kotaku.com.au](https://www.kotaku.com.au)
@@ -4349,16 +4367,16 @@
  - tags: ['music band']
 
 ## Home – Zvi Band | Zvi Band
- - [https://zvi.band](https://zvi.band)
- - date published: 2017-09-27T10:32:32+00:00
- - user: None
- - tags: []
-
-## Home – Zvi Band | Zvi Band
  - [http://zvi.band](http://zvi.band)
  - date published: 2023-12-22T22:31:24.610066+00:00
  - user: None
  - tags: ['personal']
+
+## Home – Zvi Band | Zvi Band
+ - [https://zvi.band](https://zvi.band)
+ - date published: 2017-09-27T10:32:32+00:00
+ - user: None
+ - tags: []
 
 ## https://saucecode.bar
  - [https://saucecode.bar](https://saucecode.bar)
@@ -4421,16 +4439,16 @@
  - tags: []
 
 ## Denny Wong - Learn, think, write and do.
- - [https://dewo.be](https://dewo.be)
- - date published: 2023-11-29T14:18:04.127765+00:00
- - user: None
- - tags: ['personal']
-
-## Denny Wong - Learn, think, write and do.
  - [http://dewo.be](http://dewo.be)
  - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Denny Wong - Learn, think, write and do.
+ - [https://dewo.be](https://dewo.be)
+ - date published: 2023-11-29T14:18:04.127765+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Dries Depoorter – artist and speaker working with technology 🔥
  - [https://driesdepoorter.be](https://driesdepoorter.be)
@@ -5978,24 +5996,6 @@
 ## https://support.bell.ca
  - [https://support.bell.ca](https://support.bell.ca)
  - date published: 2023-12-12T08:40:26.006400+00:00
- - user: None
- - tags: []
-
-## Bell Media Account
- - [https://account.bellmedia.ca](https://account.bellmedia.ca)
- - date published: 2023-12-12T09:04:24.261526+00:00
- - user: None
- - tags: []
-
-## https://recodata.shared-svc.bellmedia.ca
- - [https://recodata.shared-svc.bellmedia.ca](https://recodata.shared-svc.bellmedia.ca)
- - date published: 2023-12-12T08:41:51.384990+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.bellmedia.ca](https://www.bellmedia.ca)
- - date published: 2023-12-12T08:43:45.676684+00:00
  - user: None
  - tags: []
 
