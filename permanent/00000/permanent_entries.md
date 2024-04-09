@@ -1252,6 +1252,18 @@
  - user: None
  - tags: []
 
+## What is Parea AI? - Parea AI
+ - [https://docs.parea.ai](https://docs.parea.ai)
+ - date published: 2024-04-08T18:21:57.413194+00:00
+ - user: None
+ - tags: []
+
+## Parea AI
+ - [https://parea.ai](https://parea.ai)
+ - date published: 2024-03-30T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
 ## AI-Driven API Performance Testing
  - [https://www.perfai.ai](https://www.perfai.ai)
  - date published: 2023-10-25T11:41:16.602552+00:00
@@ -1888,6 +1900,12 @@
  - user: None
  - tags: []
 
+## Welcome to 2FAuth Docs - 2FAuth Docs
+ - [https://docs.2fauth.app](https://docs.2fauth.app)
+ - date published: 2024-04-08T19:27:57.009071+00:00
+ - user: None
+ - tags: []
+
 ## DeArrow - A Browser Extension for Better Titles and Thumbnails - DeArrow
  - [https://dearrow.ajay.app](https://dearrow.ajay.app)
  - date published: 2023-10-25T11:45:29.402391+00:00
@@ -1923,6 +1941,12 @@
  - date published: 2024-02-24T10:01:24.175770+00:00
  - user: None
  - tags: []
+
+## Bar Assistant
+ - [https://barassistant.app](https://barassistant.app)
+ - date published: 2024-04-08T19:27:06.124403+00:00
+ - user: None
+ - tags: ['self host']
 
 ## bigWav.app - Free audio transcription | Private audio transcription & annotation
  - [https://bigwav.app](https://bigwav.app)
@@ -2098,6 +2122,12 @@
  - user: None
  - tags: []
 
+## Feedbase
+ - [https://feedbase.app](https://feedbase.app)
+ - date published: 2024-04-08T19:28:15.815682+00:00
+ - user: None
+ - tags: []
+
 ## figr.app - Your notepad calculator
  - [https://www.figr.app](https://www.figr.app)
  - date published: 2023-10-25T11:46:26.735024+00:00
@@ -2114,7 +2144,7 @@
  - [https://www.filestash.app](https://www.filestash.app)
  - date published: 2023-10-25T11:46:29.675741+00:00
  - user: None
- - tags: []
+ - tags: ['self host']
 
 ## https://floorp.app
  - [https://floorp.app](https://floorp.app)
@@ -2170,6 +2200,12 @@
  - user: None
  - tags: []
 
+## Hoarder
+ - [https://hoarder.app](https://hoarder.app)
+ - date published: 2024-04-08T19:28:56.756392+00:00
+ - user: None
+ - tags: []
+
 ## Holy Swift
  - [https://holyswift.app](https://holyswift.app)
  - date published: 2023-10-25T11:46:47.493330+00:00
@@ -2185,6 +2221,12 @@
 ## Iconbuddy — 180K+ open source icons
  - [https://iconbuddy.app](https://iconbuddy.app)
  - date published: 2023-10-25T11:46:58.974115+00:00
+ - user: None
+ - tags: []
+
+## Home | Immich
+ - [https://immich.app](https://immich.app)
+ - date published: 2024-04-08T19:28:59.912124+00:00
  - user: None
  - tags: []
 
@@ -2215,6 +2257,24 @@
 ## LinearMouse | The mouse and trackpad utility for Mac.
  - [https://linearmouse.app](https://linearmouse.app)
  - date published: 2023-10-25T08:37:25.135990+00:00
+ - user: None
+ - tags: []
+
+## Linkwarden
+ - [https://linkwarden.app](https://linkwarden.app)
+ - date published: 2024-04-08T19:29:29.155254+00:00
+ - user: None
+ - tags: []
+
+## listmonk - Free and open source self-hosted newsletter, mailing list manager, and transactional mails
+ - [https://listmonk.app](https://listmonk.app)
+ - date published: 2024-02-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## LunaSea – Self-Hosted Controller
+ - [https://www.lunasea.app](https://www.lunasea.app)
+ - date published: 2021-01-14T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2254,6 +2314,12 @@
  - user: None
  - tags: []
 
+## Manyfold
+ - [https://manyfold.app](https://manyfold.app)
+ - date published: 2024-04-08T19:29:35.002124+00:00
+ - user: None
+ - tags: []
+
 ## marimo | a next-generation Python notebook
  - [https://marimo.app](https://marimo.app)
  - date published: 2024-02-29T18:41:02.482986+00:00
@@ -2278,9 +2344,21 @@
  - user: None
  - tags: []
 
+## Miniflux - Minimalist and Opinionated Feed Reader
+ - [https://miniflux.app](https://miniflux.app)
+ - date published: 2024-04-08T19:29:50.205632+00:00
+ - user: None
+ - tags: []
+
 ## Minimal | Writing + Notes
  - [https://minimal.app](https://minimal.app)
  - date published: 2023-10-25T11:47:19.318703+00:00
+ - user: None
+ - tags: []
+
+## Self-hosted, Open Source Social Media Management - Mixpost
+ - [https://mixpost.app](https://mixpost.app)
+ - date published: 2024-04-08T19:29:51.366167+00:00
  - user: None
  - tags: []
 
@@ -2329,6 +2407,12 @@
 ## https://hnbadges.netlify.app
  - [https://hnbadges.netlify.app](https://hnbadges.netlify.app)
  - date published: 2024-01-09T02:23:31.108826+00:00
+ - user: None
+ - tags: []
+
+## Homer
+ - [https://homer-demo.netlify.app](https://homer-demo.netlify.app)
+ - date published: 2024-04-08T19:28:57.871886+00:00
  - user: None
  - tags: []
 
@@ -2452,6 +2536,12 @@
  - user: None
  - tags: []
 
+## OliveTin - give safe and simple access to predefined shell commands from a web interface
+ - [https://olivetin.app](https://olivetin.app)
+ - date published: 2024-04-08T19:30:03.148679+00:00
+ - user: None
+ - tags: []
+
 ## Omnivore
  - [https://omnivore.app](https://omnivore.app)
  - date published: 2023-10-25T11:48:07.019044+00:00
@@ -2548,6 +2638,12 @@
  - user: None
  - tags: []
 
+## Hello from ProxMobo | ProxMobo
+ - [https://www.proxmobo.app](https://www.proxmobo.app)
+ - date published: 2024-04-08T19:31:57.875634+00:00
+ - user: None
+ - tags: ['vm manager']
+
 ## Pulse Browser - A better Firefox fork
  - [https://pulsebrowser.app](https://pulsebrowser.app)
  - date published: 2023-10-25T11:48:31.094675+00:00
@@ -2607,6 +2703,12 @@
  - date published: 2024-01-29T18:03:28+00:00
  - user: rumpel
  - tags: ['rss']
+
+## Scrypted
+ - [https://scrypted.app](https://scrypted.app)
+ - date published: 2024-04-08T19:30:45.555957+00:00
+ - user: None
+ - tags: []
 
 ## Show HN: Seedling – A Decentralised Medium
  - [https://seedling-d.app](https://seedling-d.app)
@@ -2878,6 +2980,12 @@
  - user: None
  - tags: []
 
+## None
+ - [https://honeyy.vercel.app](https://honeyy.vercel.app)
+ - date published: 2024-04-08T19:28:58.472118+00:00
+ - user: None
+ - tags: []
+
 ## Jermanuts
  - [https://jermanuts.vercel.app](https://jermanuts.vercel.app)
  - date published: 2000-01-01T00:00:00+00:00
@@ -3070,6 +3178,12 @@
  - user: None
  - tags: []
 
+## Watcharr Docs | Watcharr Docs
+ - [https://watcharr.app](https://watcharr.app)
+ - date published: 2024-04-08T19:31:16.233648+00:00
+ - user: None
+ - tags: ['movie library', 'self host']
+
 ## Wavacity | Online Audio Editor Based on Audacity
  - [https://wavvy.app](https://wavvy.app)
  - date published: 2023-10-25T11:51:30.384343+00:00
@@ -3087,6 +3201,12 @@
  - date published: 2023-10-25T11:51:33.426412+00:00
  - user: None
  - tags: []
+
+## Home
+ - [https://xbackbone.app](https://xbackbone.app)
+ - date published: 2024-04-08T19:32:04.837665+00:00
+ - user: None
+ - tags: ['file manager', 'self host']
 
 ## Xemu: Original Xbox Emulator
  - [https://xemu.app](https://xemu.app)
@@ -3249,6 +3369,12 @@
  - date published: 2024-04-03T06:24:25.571383+00:00
  - user: None
  - tags: ['personal']
+
+## Stalwart Labs
+ - [https://stalw.art](https://stalw.art)
+ - date published: 2024-04-08T19:30:54.373072+00:00
+ - user: None
+ - tags: []
 
 ## ThioJoe - Digital Art Portfolio
  - [https://thiojoe.art](https://thiojoe.art)
@@ -3557,16 +3683,16 @@
  - tags: []
 
 ## Now - Adam Ashton
- - [http://www.adamashton.com.au](http://www.adamashton.com.au)
- - date published: 2024-04-03T12:46:14.376541+00:00
- - user: None
- - tags: ['personal']
-
-## Now - Adam Ashton
  - [https://www.adamashton.com.au](https://www.adamashton.com.au)
  - date published: 2024-01-10T18:10:16.445630+00:00
  - user: None
  - tags: []
+
+## Now - Adam Ashton
+ - [http://www.adamashton.com.au](http://www.adamashton.com.au)
+ - date published: 2024-04-03T12:46:14.376541+00:00
+ - user: None
+ - tags: ['personal']
 
 ## 404 Not Found
  - [https://www.adelaidenow.com.au](https://www.adelaidenow.com.au)
@@ -4300,6 +4426,12 @@
  - user: None
  - tags: []
 
+## Lidarr
+ - [http://lidarr.audio](http://lidarr.audio)
+ - date published: 2024-04-08T19:26:20.058206+00:00
+ - user: None
+ - tags: ['self host']
+
 ## Community | Home
  - [https://community.aws](https://community.aws)
  - date published: 2023-10-25T11:58:25.976473+00:00
@@ -4439,16 +4571,16 @@
  - tags: []
 
 ## Denny Wong - Learn, think, write and do.
- - [http://dewo.be](http://dewo.be)
- - date published: 2018-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Denny Wong - Learn, think, write and do.
  - [https://dewo.be](https://dewo.be)
  - date published: 2023-11-29T14:18:04.127765+00:00
  - user: None
  - tags: ['personal']
+
+## Denny Wong - Learn, think, write and do.
+ - [http://dewo.be](http://dewo.be)
+ - date published: 2018-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Dries Depoorter – artist and speaker working with technology 🔥
  - [https://driesdepoorter.be](https://driesdepoorter.be)
@@ -5862,140 +5994,8 @@
  - tags: []
 
 ## Svarichevsky Mikhail
- - [https://3.14.by](https://3.14.by)
- - date published: 2024-01-16T06:21:34.423774+00:00
- - user: None
- - tags: []
-
-## Svarichevsky Mikhail
  - [http://3.14.by](http://3.14.by)
  - date published: 2024-02-26T13:20:29.028020+00:00
- - user: None
- - tags: []
-
-## Ales Tsurko | Home
- - [https://alestsurko.by](https://alestsurko.by)
- - date published: 2023-10-25T09:02:09.768428+00:00
- - user: None
- - tags: ['personal']
-
-## Belarus News | Belarusian news | Belarus today | news in Belarus | Minsk news | BELTA
- - [https://eng.belta.by](https://eng.belta.by)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## VEG.BY — VEG's Blog
- - [https://veg.by](https://veg.by)
- - date published: 2023-11-26T12:56:13.830280+00:00
- - user: None
- - tags: []
-
-## -=:[ From the mind of Michael Walden ]:=-
- - [https://mw.rat.bz](https://mw.rat.bz)
- - date published: 2024-02-10T00:00:00+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## None
- - [https://www.reddit.c](https://www.reddit.c)
- - date published: 2024-01-08T13:04:16.215952+00:00
- - user: None
- - tags: []
-
-## Air Quality Subscription Service - BC Air Quality - Province of British Columbia
- - [https://aqss.nrs.gov.bc.ca](https://aqss.nrs.gov.bc.ca)
- - date published: 2024-02-08T17:46:08.256903+00:00
- - user: None
- - tags: []
-
-## George's Home Page
- - [https://48k.ca](https://48k.ca)
- - date published: 2024-01-09T01:38:09.555037+00:00
- - user: None
- - tags: []
-
-## The Call of the Open Sidewalk [The Call of the Open Sidewalk]
- - [https://articles.59.ca](https://articles.59.ca)
- - date published: 2023-10-25T12:03:06.077493+00:00
- - user: None
- - tags: []
-
-## Adam Pritchard's blog and miscellany
- - [https://adam-p.ca](https://adam-p.ca)
- - date published: 2023-12-23T19:22:49.802394+00:00
- - user: None
- - tags: []
-
-## https://ahelwer.ca
- - [https://ahelwer.ca](https://ahelwer.ca)
- - date published: 2023-10-25T12:03:10.516319+00:00
- - user: None
- - tags: []
-
-## Alan Trick’s Website
- - [https://alantrick.ca](https://alantrick.ca)
- - date published: 2023-10-25T08:42:53.134691+00:00
- - user: None
- - tags: ['personal']
-
-## Majd Alsado | Blog
- - [https://alsado.ca](https://alsado.ca)
- - date published: 2023-11-13T20:52:10.674159+00:00
- - user: None
- - tags: []
-
-## Amazon.ca: Low Prices – Fast Shipping – Millions of Items
- - [https://www.amazon.ca](https://www.amazon.ca)
- - date published: 2024-02-28T00:00:00+00:00
- - user: None
- - tags: ['amazon canada']
-
-## Alberta Machine Intelligence Institute | AI for good and for all
- - [https://www.amii.ca](https://www.amii.ca)
- - date published: 2023-10-25T12:03:17.667569+00:00
- - user: None
- - tags: []
-
-## anderegg.ca | Something (slightly) less boring than nothing.
- - [https://anderegg.ca](https://anderegg.ca)
- - date published: 2023-10-25T12:03:20.730751+00:00
- - user: None
- - tags: []
-
-## 202310 - apenwarr
- - [https://apenwarr.ca](https://apenwarr.ca)
- - date published: 2023-10-25T12:03:23.733666+00:00
- - user: None
- - tags: []
-
-## Atlantic Auto Sales
- - [https://atlanticautosales.ca](https://atlanticautosales.ca)
- - date published: 2024-02-08T17:57:36.647750+00:00
- - user: None
- - tags: []
-
-## Bank of Canada
- - [https://www.bankofcanada.ca](https://www.bankofcanada.ca)
- - date published: 2023-10-25T12:03:32.218847+00:00
- - user: None
- - tags: []
-
-## Bell Canada Enterprises | Corporate website | BCE Inc.
- - [https://www.bce.ca](https://www.bce.ca)
- - date published: 2023-12-12T09:06:56.066905+00:00
- - user: None
- - tags: []
-
-## ERROR: The requested URL could not be retrieved
- - [https://mkweb.bcgsc.ca](https://mkweb.bcgsc.ca)
- - date published: 2024-01-09T02:27:13.939554+00:00
- - user: None
- - tags: []
-
-## https://support.bell.ca
- - [https://support.bell.ca](https://support.bell.ca)
- - date published: 2023-12-12T08:40:26.006400+00:00
  - user: None
  - tags: []
 
