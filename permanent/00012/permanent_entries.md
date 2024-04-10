@@ -1,3 +1,99 @@
+## RSS Feed Extractor
+ - [https://rssfeedasap.com](https://rssfeedasap.com)
+ - date published: 2023-10-25T08:30:46.933111+00:00
+ - user: None
+ - tags: []
+
+## RSS Search Engine and RSS Feed Reader
+ - [https://www.rsssearchhub.com](https://www.rsssearchhub.com)
+ - date published: 2024-01-30T08:00:10+00:00
+ - user: rumpel
+ - tags: []
+
+## RT - Breaking News, Russia News, World News and Video
+ - [https://www.rt.com](https://www.rt.com)
+ - date published: 2023-10-25T10:12:55.826509+00:00
+ - user: None
+ - tags: []
+
+## R. Talsorian Games - We create worlds you can only imagine.
+ - [https://rtalsoriangames.com](https://rtalsoriangames.com)
+ - date published: 2023-11-01T19:34:54.050124+00:00
+ - user: None
+ - tags: ['ttrpg', 'cyberpunk', 'role playing games']
+
+## https://www.rtl-sdr.com
+ - [https://www.rtl-sdr.com](https://www.rtl-sdr.com)
+ - date published: 2024-01-09T02:48:22.088471+00:00
+ - user: None
+ - tags: []
+
+## Rubenerd
+ - [https://rubenerd.com](https://rubenerd.com)
+ - date published: 2023-10-25T16:55:20.911142+00:00
+ - user: None
+ - tags: []
+
+## rubenwardy's blog
+ - [https://blog.rubenwardy.com](https://blog.rubenwardy.com)
+ - date published: 2023-11-18T18:28:01.582764+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jade Rubick - Rubick.com
+ - [https://www.rubick.com](https://www.rubick.com)
+ - date published: 2023-10-25T08:47:51.358817+00:00
+ - user: None
+ - tags: ['personal']
+
+## renegat0x0 site
+ - [https://micro.rubiconproject.com](https://micro.rubiconproject.com)
+ - date published: 2024-01-09T02:48:25.552891+00:00
+ - user: None
+ - tags: []
+
+## RubyFlow
+ - [https://rubyflow.com](https://rubyflow.com)
+ - date published: 2024-01-22T09:50:17.612933+00:00
+ - user: None
+ - tags: []
+
+## Ruetir | Latest News, World News, Breaking News, Games, Business & Health
+ - [https://www.ruetir.com](https://www.ruetir.com)
+ - date published: 2023-10-25T16:55:26.559906+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Not sure you're talking to a human? Create a human check
+ - [https://r-u-human.com](https://r-u-human.com)
+ - date published: 2024-03-19T12:39:25+00:00
+ - user: None
+ - tags: []
+
+## Rui Zhi Dong - Writer
+ - [https://ruizhidong.com](https://ruizhidong.com)
+ - date published: 2023-12-22T17:48:27.466814+00:00
+ - user: None
+ - tags: ['personal']
+
+## Support Russell Brand
+ - [https://rb.rumble.com](https://rb.rumble.com)
+ - date published: 2024-01-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Rumble
+ - [https://rumble.com](https://rumble.com)
+ - date published: 2023-10-24T20:12:23.443415+00:00
+ - user: None
+ - tags: ['social platform']
+
+## Rune Quake - A QuakeC Modification for Quake and Quakeworld
+ - [http://www.runequake.com](http://www.runequake.com)
+ - date published: 2024-02-06T15:25:20.173572+00:00
+ - user: None
+ - tags: []
+
 ## RuneterraFire :: Legends of Runeterra Deck Building Community
  - [https://www.runeterrafire.com](https://www.runeterrafire.com)
  - date published: 2023-12-13T16:20:46.471947+00:00
@@ -464,7 +560,7 @@
  - [https://saltcorn.com](https://saltcorn.com)
  - date published: 2024-04-08T19:30:41.040390+00:00
  - user: None
- - tags: []
+ - tags: ['nocode', 'app building', 'open source']
 
 ## Salvatore Ganacci
  - [https://www.salvatoreganacci.com](https://www.salvatoreganacci.com)
@@ -791,16 +887,16 @@
  - tags: []
 
 ## - SarahMcCulloch.com | With Strength and Spirit
- - [https://www.sarahmcculloch.com](https://www.sarahmcculloch.com)
- - date published: 2024-02-25T18:59:28.441249+00:00
- - user: None
- - tags: []
-
-## - SarahMcCulloch.com | With Strength and Spirit
  - [http://www.sarahmcculloch.com](http://www.sarahmcculloch.com)
  - date published: 2023-12-24T08:15:55.915305+00:00
  - user: None
  - tags: ['personal']
+
+## - SarahMcCulloch.com | With Strength and Spirit
+ - [https://www.sarahmcculloch.com](https://www.sarahmcculloch.com)
+ - date published: 2024-02-25T18:59:28.441249+00:00
+ - user: None
+ - tags: []
 
 ## sara kingsley – YA :: FANTASY :: ROMANCE
  - [https://www.sarakingsley.com](https://www.sarakingsley.com)
@@ -1010,6 +1106,12 @@
  - [http://marmalade.scenesat.com](http://marmalade.scenesat.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
+ - tags: []
+
+## The Sound of SceneSat Volume 7, by Various Artists
+ - [https://music.scenesat.com](https://music.scenesat.com)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: rumpel
  - tags: []
 
 ## Welcome | SceneSat
@@ -1249,6 +1351,12 @@
 ## sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Desktop and Mobile Application
  - [https://sciter.com](https://sciter.com)
  - date published: 2023-10-25T16:59:18.546109+00:00
+ - user: None
+ - tags: []
+
+## SciURLs – A neat science news aggregator
+ - [https://sciurls.com](https://sciurls.com)
+ - date published: 2024-04-09T20:07:45.984325+00:00
  - user: None
  - tags: []
 
@@ -1556,7 +1664,7 @@
  - [http://seafile.com](http://seafile.com)
  - date published: 2024-04-08T19:26:28.445904+00:00
  - user: None
- - tags: ['open source', 'file sync', 'self host']
+ - tags: ['open source', 'file sync', 'self-host']
 
 ## Sean Bonner
  - [http://blog.seanbonner.com](http://blog.seanbonner.com)
@@ -1904,7 +2012,7 @@
  - [https://selfhostedhome.com](https://selfhostedhome.com)
  - date published: 2024-02-06T08:29:43+00:00
  - user: rumpel
- - tags: ['smart home', 'self host']
+ - tags: ['smart home', 'self-host']
 
 ## Home - Mark Dawson's Self Publishing Formula
  - [https://selfpublishingformula.com](https://selfpublishingformula.com)
@@ -2234,7 +2342,7 @@
  - [https://sftpgo.com](https://sftpgo.com)
  - date published: 2024-04-08T19:30:46.171666+00:00
  - user: None
- - tags: []
+ - tags: ['sftp server', 'self-host']
 
 ## San Francisco YIMBY
  - [https://sfyimby.com](https://sfyimby.com)
@@ -3208,6 +3316,12 @@
  - user: None
  - tags: []
 
+## Sixth Tone
+ - [https://www.sixthtone.com](https://www.sixthtone.com)
+ - date published: 2024-04-09T16:24:47.942854+00:00
+ - user: None
+ - tags: ['china news']
+
 ## The State Journal-Register: Local News, Politics & Sports in Springfield, IL
  - [https://www.sj-r.com](https://www.sj-r.com)
  - date published: 2023-10-27T11:55:41.059970+00:00
@@ -3272,7 +3386,7 @@
  - [https://www.skillshare.com](https://www.skillshare.com)
  - date published: 2023-10-24T20:19:37.469993+00:00
  - user: None
- - tags: ['tutorials']
+ - tags: ['creators', 'courses', 'tutorials']
 
 ## None
  - [https://www.skillztruth.com](https://www.skillztruth.com)
@@ -3599,15 +3713,15 @@
  - user: None
  - tags: ['smart home']
 
-## Smashing Magazine — For Web Designers And Developers
- - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
- - date published: 2023-10-25T17:07:11.338092+00:00
- - user: None
- - tags: []
-
 ## Smashing Magazine ‚Äî For Web Designers And Developers
  - [http://www.smashingmagazine.com](http://www.smashingmagazine.com)
  - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Smashing Magazine — For Web Designers And Developers
+ - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
+ - date published: 2023-10-25T17:07:11.338092+00:00
  - user: None
  - tags: []
 
@@ -3732,16 +3846,16 @@
  - tags: []
 
 ## Snarling Badger Studios
- - [http://www.snarlingbadger.com](http://www.snarlingbadger.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Snarling Badger Studios
  - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
  - date published: 2023-11-10T10:42:34.914133+00:00
  - user: None
  - tags: ['magazine', 'tabletop games', 'warhammer', 'wargames', 'zine']
+
+## Snarling Badger Studios
+ - [http://www.snarlingbadger.com](http://www.snarlingbadger.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Serge Nevsky
  - [https://snevsky.com](https://snevsky.com)
@@ -3753,7 +3867,7 @@
  - [https://snipeitapp.com](https://snipeitapp.com)
  - date published: 2024-04-08T19:30:52.510112+00:00
  - user: None
- - tags: []
+ - tags: ['management system', 'self-host', 'open source']
 
 ## Snopes.com | The definitive fact-checking site and reference source for urban legends, folklore, myths, rumors, and misinformation.
  - [https://www.snopes.com](https://www.snopes.com)
@@ -3933,7 +4047,7 @@
  - [https://soldat2.com](https://soldat2.com)
  - date published: 2023-10-26T18:44:37.477139+00:00
  - user: None
- - tags: ['game']
+ - tags: ['retro game', 'video game']
 
 ## https://www.solidjs.com
  - [https://www.solidjs.com](https://www.solidjs.com)
@@ -5054,14 +5168,14 @@
  - tags: []
 
 ## Biology Stack Exchange
- - [https://biology.stackexchange.com](https://biology.stackexchange.com)
- - date published: 2024-01-10T09:05:16.771549+00:00
+ - [http://biology.stackexchange.com](http://biology.stackexchange.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Biology Stack Exchange
- - [http://biology.stackexchange.com](http://biology.stackexchange.com)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://biology.stackexchange.com](https://biology.stackexchange.com)
+ - date published: 2024-01-10T09:05:16.771549+00:00
  - user: None
  - tags: []
 
@@ -5174,14 +5288,14 @@
  - tags: []
 
 ## Mathematics Stack Exchange
- - [http://math.stackexchange.com](http://math.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://math.stackexchange.com](https://math.stackexchange.com)
+ - date published: 2023-10-25T17:13:42.554988+00:00
  - user: None
  - tags: []
 
 ## Mathematics Stack Exchange
- - [https://math.stackexchange.com](https://math.stackexchange.com)
- - date published: 2023-10-25T17:13:42.554988+00:00
+ - [http://math.stackexchange.com](http://math.stackexchange.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5198,14 +5312,14 @@
  - tags: []
 
 ## Physics Stack Exchange
- - [http://physics.stackexchange.com](http://physics.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://physics.stackexchange.com](https://physics.stackexchange.com)
+ - date published: 2023-10-25T17:13:56.651090+00:00
  - user: None
  - tags: []
 
 ## Physics Stack Exchange
- - [https://physics.stackexchange.com](https://physics.stackexchange.com)
- - date published: 2023-10-25T17:13:56.651090+00:00
+ - [http://physics.stackexchange.com](http://physics.stackexchange.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5306,14 +5420,14 @@
  - tags: []
 
 ## Unix & Linux Stack Exchange
- - [http://unix.stackexchange.com](http://unix.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://unix.stackexchange.com](https://unix.stackexchange.com)
+ - date published: 2023-10-25T17:14:39.830149+00:00
  - user: None
  - tags: []
 
 ## Unix & Linux Stack Exchange
- - [https://unix.stackexchange.com](https://unix.stackexchange.com)
- - date published: 2023-10-25T17:14:39.830149+00:00
+ - [http://unix.stackexchange.com](http://unix.stackexchange.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5324,14 +5438,14 @@
  - tags: ['gui design', 'ux design']
 
 ## The Workplace Stack Exchange
- - [http://workplace.stackexchange.com](http://workplace.stackexchange.com)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://workplace.stackexchange.com](https://workplace.stackexchange.com)
+ - date published: 2023-10-25T17:14:43.195803+00:00
  - user: None
  - tags: []
 
 ## The Workplace Stack Exchange
- - [https://workplace.stackexchange.com](https://workplace.stackexchange.com)
- - date published: 2023-10-25T17:14:43.195803+00:00
+ - [http://workplace.stackexchange.com](http://workplace.stackexchange.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5446,6 +5560,12 @@
 ## The Stanford Daily | Breaking news from the Farm since 1892
  - [https://stanforddaily.com](https://stanforddaily.com)
  - date published: 2024-01-01T00:46:36.339932+00:00
+ - user: None
+ - tags: []
+
+## Custom Rare Earth Magnets and Magnetic Assemblies | Stanford Magnets
+ - [https://www.stanfordmagnets.com](https://www.stanfordmagnets.com)
+ - date published: 2024-02-18T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5852,16 +5972,16 @@
  - tags: []
 
 ## Stephen Perlstein's Website
- - [http://www.stephenperlstein.com](http://www.stephenperlstein.com)
- - date published: 2024-04-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stephen Perlstein's Website
  - [https://www.stephenperlstein.com](https://www.stephenperlstein.com)
  - date published: 2023-11-29T15:47:25.794379+00:00
  - user: None
  - tags: ['personal']
+
+## Stephen Perlstein's Website
+ - [http://www.stephenperlstein.com](http://www.stephenperlstein.com)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Stephen V. Smith
  - [https://www.stephenvsmith.com](https://www.stephenvsmith.com)
@@ -5884,126 +6004,6 @@
 ## Home Page | Stereophile.com
  - [https://www.stereophile.com](https://www.stereophile.com)
  - date published: 2023-10-25T17:16:49.062593+00:00
- - user: None
- - tags: []
-
-## Writing, Side-projects, Newsletter and More
- - [https://www.stevanpopovic.com](https://www.stevanpopovic.com)
- - date published: 2023-12-10T11:34:13.364658+00:00
- - user: None
- - tags: ['personal']
-
-## Steve Alvest – Creativity and Life
- - [https://stevealvest.com](https://stevealvest.com)
- - date published: 2023-12-15T21:43:58.449519+00:00
- - user: None
- - tags: ['personal']
-
-## Steve Blank Innovation and Entrepreneurship
- - [https://steveblank.com](https://steveblank.com)
- - date published: 2023-10-25T17:17:02.815342+00:00
- - user: None
- - tags: []
-
-## Make Something Wonderful | Steve Jobs
- - [https://book.stevejobsarchive.com](https://book.stevejobsarchive.com)
- - date published: 2023-10-25T17:17:04.834291+00:00
- - user: None
- - tags: []
-
-## The Steve Jobs Archive
- - [https://stevejobsarchive.com](https://stevejobsarchive.com)
- - date published: 2023-10-25T17:17:06.401941+00:00
- - user: None
- - tags: []
-
-## Steve Klabnik
- - [https://steveklabnik.com](https://steveklabnik.com)
- - date published: 2023-10-25T17:17:06.997594+00:00
- - user: None
- - tags: []
-
-## Steve Klabnik
- - [https://words.steveklabnik.com](https://words.steveklabnik.com)
- - date published: 2023-10-25T17:17:07.752738+00:00
- - user: None
- - tags: []
-
-## ABOUT | Stevekornicki
- - [https://www.stevekornicki.com](https://www.stevekornicki.com)
- - date published: 2024-02-08T16:57:33.058023+00:00
- - user: None
- - tags: []
-
-## LDLW
- - [https://steveledlow.com](https://steveledlow.com)
- - date published: 2023-11-29T17:10:07.717096+00:00
- - user: None
- - tags: ['personal']
-
-## Steve Losh
- - [https://stevelosh.com](https://stevelosh.com)
- - date published: 2023-10-25T17:17:08.584265+00:00
- - user: None
- - tags: []
-
-## stevenberlinjohnson
- - [https://stevenberlinjohnson.com](https://stevenberlinjohnson.com)
- - date published: 2023-10-25T17:17:13.232194+00:00
- - user: None
- - tags: []
-
-## Steven Buccini | Loading next level…
- - [https://www.stevenbuccini.com](https://www.stevenbuccini.com)
- - date published: 2023-10-25T17:17:14.635815+00:00
- - user: None
- - tags: []
-
-## Steven Cravis
- - [https://www.stevencravis.com](https://www.stevencravis.com)
- - date published: 2024-01-12T08:14:57.602614+00:00
- - user: None
- - tags: []
-
-## Steven Giesel
- - [https://steven-giesel.com](https://steven-giesel.com)
- - date published: 2023-10-25T08:48:00.221256+00:00
- - user: None
- - tags: ['personal']
-
-## Hi, I'm Steven Kneiser
- - [https://stevenkneiser.com](https://stevenkneiser.com)
- - date published: 2023-11-29T15:46:59.519818+00:00
- - user: None
- - tags: ['personal']
-
-## Steven Van Bael
- - [https://stevenvanbael.com](https://stevenvanbael.com)
- - date published: 2023-10-25T17:17:19.959851+00:00
- - user: None
- - tags: []
-
-## Steve O'Callaghan
- - [https://steveocallaghan.com](https://steveocallaghan.com)
- - date published: 2023-12-30T15:37:42.095852+00:00
- - user: None
- - tags: ['personal']
-
-## Steve Pavlina – Personal Development for Smart People
- - [https://stevepavlina.com](https://stevepavlina.com)
- - date published: 2024-03-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Steve Ridout
- - [https://steveridout.com](https://steveridout.com)
- - date published: 2023-10-25T17:17:20.743440+00:00
- - user: None
- - tags: []
-
-## https://www.stevestewartwilliams.com
- - [https://www.stevestewartwilliams.com](https://www.stevestewartwilliams.com)
- - date published: 2024-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

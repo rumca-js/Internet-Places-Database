@@ -1,3 +1,153 @@
+## the website of jyn
+ - [http://jyn.dev](http://jyn.dev)
+ - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The website of jyn
+ - [https://jyn.dev](https://jyn.dev)
+ - date published: 2023-10-25T18:38:50.121076+00:00
+ - user: None
+ - tags: []
+
+## Keep - Open-source alert management
+ - [https://www.keephq.dev](https://www.keephq.dev)
+ - date published: 2023-10-31T16:38:33.221838+00:00
+ - user: None
+ - tags: []
+
+## Wordpress and Magento Web Developer in Belfast, NI
+ - [https://keithgreer.dev](https://keithgreer.dev)
+ - date published: 2024-04-03T06:24:14.279907+00:00
+ - user: None
+ - tags: ['personal']
+
+## KeyDB - The Faster Redis Alternative
+ - [https://docs.keydb.dev](https://docs.keydb.dev)
+ - date published: 2023-10-25T18:38:51.996647+00:00
+ - user: None
+ - tags: []
+
+## Kash Goudarzi
+ - [https://kg.dev](https://kg.dev)
+ - date published: 2023-10-25T08:48:37.577143+00:00
+ - user: None
+ - tags: ['personal']
+
+## Articles & Experiments by Roman Komarov
+ - [https://kizu.dev](https://kizu.dev)
+ - date published: 2023-10-25T18:38:53.890565+00:00
+ - user: None
+ - tags: []
+
+## Ivan Klimchuk
+ - [https://klimchuk.dev](https://klimchuk.dev)
+ - date published: 2024-01-31T18:44:56.110018+00:00
+ - user: None
+ - tags: []
+
+## koch.dev
+ - [https://www.koch.dev](https://www.koch.dev)
+ - date published: 2024-01-24T08:01:45.057444+00:00
+ - user: None
+ - tags: []
+
+## chshersh aka Dmitrii Kovanikov
+ - [http://kodimensional.dev](http://kodimensional.dev)
+ - date published: 2023-10-25T18:38:58.685350+00:00
+ - user: None
+ - tags: []
+
+## Gitea
+ - [https://kolaente.dev](https://kolaente.dev)
+ - date published: 2024-04-08T19:29:17.559682+00:00
+ - user: None
+ - tags: ['self-host', 'git']
+
+## Kubernetes Contributors
+ - [https://www.kubernetes.dev](https://www.kubernetes.dev)
+ - date published: 2023-10-25T18:38:59.480703+00:00
+ - user: None
+ - tags: []
+
+## The Twenty Percent
+ - [https://kuenzi.dev](https://kuenzi.dev)
+ - date published: 2023-10-25T18:39:00.164249+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://kviklet.dev](https://kviklet.dev)
+ - date published: 2024-03-14T18:39:44.028892+00:00
+ - user: None
+ - tags: []
+
+## Kysely | Kysely
+ - [https://kysely.dev](https://kysely.dev)
+ - date published: 2023-10-25T08:33:04.457103+00:00
+ - user: None
+ - tags: []
+
+## The Ladybird browser project
+ - [https://ladybird.dev](https://ladybird.dev)
+ - date published: 2024-03-07T16:57:29+00:00
+ - user: rumpel
+ - tags: ['web browser']
+
+## LangChain Blog
+ - [https://blog.langchain.dev](https://blog.langchain.dev)
+ - date published: 2023-10-25T18:39:03.545219+00:00
+ - user: None
+ - tags: []
+
+## Lantern
+ - [https://lantern.dev](https://lantern.dev)
+ - date published: 2024-01-02T20:40:56.829203+00:00
+ - user: None
+ - tags: []
+
+## Lapce
+ - [https://lapce.dev](https://lapce.dev)
+ - date published: 2024-02-18T17:36:31+00:00
+ - user: None
+ - tags: []
+
+## lastmile ai — blog
+ - [https://blog.lastmileai.dev](https://blog.lastmileai.dev)
+ - date published: 2023-10-25T18:39:06.395794+00:00
+ - user: None
+ - tags: []
+
+## LastMile AI | The AI developer platform for engineering teams
+ - [https://lastmileai.dev](https://lastmileai.dev)
+ - date published: 2023-10-25T18:39:07.840038+00:00
+ - user: None
+ - tags: []
+
+## https://www.leapml.dev
+ - [https://www.leapml.dev](https://www.leapml.dev)
+ - date published: 2024-01-09T02:57:18.355700+00:00
+ - user: None
+ - tags: []
+
+## Introduction to Genomics for Engineers | Introduction to Genomics for Engineers
+ - [https://learngenomics.dev](https://learngenomics.dev)
+ - date published: 2023-10-25T18:39:08.432311+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://leots.dev](https://leots.dev)
+ - date published: 2023-12-15T11:15:24.587419+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Leptos
+ - [https://leptos.dev](https://leptos.dev)
+ - date published: 2023-10-25T18:39:09.955344+00:00
+ - user: None
+ - tags: []
+
 ## Home | LewisDale.dev
  - [https://lewisdale.dev](https://lewisdale.dev)
  - date published: 2024-02-05T00:00:00+00:00
@@ -524,7 +674,7 @@
  - [https://overseerr.dev](https://overseerr.dev)
  - date published: 2024-04-08T19:30:06.081189+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'plex']
 
 ## None
  - [https://ad8e.pages.dev](https://ad8e.pages.dev)
@@ -562,6 +712,12 @@
  - user: None
  - tags: []
 
+## Space Cards
+ - [https://space-card.pages.dev](https://space-card.pages.dev)
+ - date published: 2024-04-09T03:24:11.552963+00:00
+ - user: None
+ - tags: []
+
 ## TLS, byte by byte
  - [https://subtls.pages.dev](https://subtls.pages.dev)
  - date published: 2023-10-25T18:40:44.490273+00:00
@@ -587,14 +743,14 @@
  - tags: []
 
 ## Passkey Developer Resources
- - [http://passkeys.dev](http://passkeys.dev)
- - date published: 2024-02-25T19:46:12.112766+00:00
+ - [https://passkeys.dev](https://passkeys.dev)
+ - date published: 2023-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date published: 2023-01-31T00:00:00+00:00
+ - [http://passkeys.dev](http://passkeys.dev)
+ - date published: 2024-02-25T19:46:12.112766+00:00
  - user: None
  - tags: []
 
@@ -723,6 +879,12 @@
  - date published: 2024-04-08T19:28:27.177415+00:00
  - user: None
  - tags: []
+
+## | Ivan's blog
+ - [https://qdiv.dev](https://qdiv.dev)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Chris James - Learn Go with Tests reaches 20k stars
  - [https://quii.dev](https://quii.dev)
@@ -1065,7 +1227,7 @@
  - [https://demo.shotshare.dev](https://demo.shotshare.dev)
  - date published: 2024-04-08T19:27:50.836641+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'image sharing']
 
 ## Sideko
  - [https://hacker-news.sideko.dev](https://hacker-news.sideko.dev)
@@ -1123,14 +1285,14 @@
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1180,7 +1342,7 @@
  - [https://subvert.dev](https://subvert.dev)
  - date published: 2024-04-08T19:30:56.186910+00:00
  - user: None
- - tags: []
+ - tags: ['artificial intelligence', 'subtitles']
 
 ## surma.dev
  - [https://surma.dev](https://surma.dev)
@@ -1756,7 +1918,7 @@
  - [https://kyoo.zoriya.dev](https://kyoo.zoriya.dev)
  - date published: 2024-04-06T06:34:50+00:00
  - user: rumpel
- - tags: ['self host', 'video streaming app']
+ - tags: ['self-host', 'video streaming app']
 
 ## Zoe's blog
  - [https://zoriya.dev](https://zoriya.dev)
@@ -4371,14 +4533,14 @@
  - tags: []
 
 ## Stanford Artificial Intelligence Laboratory
- - [https://ai.stanford.edu](https://ai.stanford.edu)
- - date published: 2023-10-25T18:58:06.440600+00:00
+ - [http://ai.stanford.edu](http://ai.stanford.edu)
+ - date published: 2024-02-26T14:41:27.710205+00:00
  - user: None
  - tags: []
 
 ## Stanford Artificial Intelligence Laboratory
- - [http://ai.stanford.edu](http://ai.stanford.edu)
- - date published: 2024-02-26T14:41:27.710205+00:00
+ - [https://ai.stanford.edu](https://ai.stanford.edu)
+ - date published: 2023-10-25T18:58:06.440600+00:00
  - user: None
  - tags: []
 
@@ -5849,168 +6011,6 @@
 ## Accredited Online University
  - [https://www.waldenu.edu](https://www.waldenu.edu)
  - date published: 2024-01-09T19:16:48.326131+00:00
- - user: None
- - tags: []
-
-## Accredited Online University
- - [http://www.waldenu.edu](http://www.waldenu.edu)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## courses.cs.washington.edu
- - [https://courses.cs.washington.edu](https://courses.cs.washington.edu)
- - date published: 2023-10-25T19:05:57.896541+00:00
- - user: None
- - tags: []
-
-## UW Departments Web Server
- - [https://depts.washington.edu](https://depts.washington.edu)
- - date published: 2023-11-13T19:09:28.425970+00:00
- - user: None
- - tags: []
-
-## UW Faculty Web Server
- - [https://faculty.washington.edu](https://faculty.washington.edu)
- - date published: 2023-10-25T19:05:59.829333+00:00
- - user: None
- - tags: []
-
-## UW Interactive Data Lab
- - [https://idl.cs.washington.edu](https://idl.cs.washington.edu)
- - date published: 2023-10-26T06:39:53.394657+00:00
- - user: None
- - tags: []
-
-## City-Wide IMSI-Catcher Detection - SeaGlass
- - [https://seaglass.cs.washington.edu](https://seaglass.cs.washington.edu)
- - date published: 2023-10-25T19:06:04.694581+00:00
- - user: None
- - tags: []
-
-## UW Staff Web Server
- - [https://staff.washington.edu](https://staff.washington.edu)
- - date published: 2023-10-25T19:06:09.097286+00:00
- - user: None
- - tags: []
-
-## The Taskar Center for Accessible Technology – Designing for the fullness of human experience
- - [https://tcat.cs.washington.edu](https://tcat.cs.washington.edu)
- - date published: 2024-02-08T21:51:19.755775+00:00
- - user: None
- - tags: []
-
-## https://www.ark.cs.washington.edu
- - [https://www.ark.cs.washington.edu](https://www.ark.cs.washington.edu)
- - date published: 2024-02-08T16:27:35.485741+00:00
- - user: None
- - tags: []
-
-## UW Homepage
- - [https://www.washington.edu](https://www.washington.edu)
- - date published: 2023-10-25T19:06:16.518171+00:00
- - user: None
- - tags: ['university']
-
-## Word Warriors - Wayne State University
- - [https://wordwarriors.wayne.edu](https://wordwarriors.wayne.edu)
- - date published: 2023-10-25T19:06:22.803186+00:00
- - user: None
- - tags: []
-
-## https://apps.weber.edu
- - [https://apps.weber.edu](https://apps.weber.edu)
- - date published: 2024-01-09T03:28:57.379562+00:00
- - user: None
- - tags: []
-
-## 403 - Forbidden: Access is denied.
- - [https://faculty.weber.edu](https://faculty.weber.edu)
- - date published: 2023-10-25T19:06:32.887393+00:00
- - user: None
- - tags: []
-
-## Combating Terrorism Center – CTC at West Point
- - [https://ctc.westpoint.edu](https://ctc.westpoint.edu)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## The U.S. Military Academy at West Point | United States Military Academy West Point
- - [https://www.westpoint.edu](https://www.westpoint.edu)
- - date published: 2024-01-09T03:28:59.603602+00:00
- - user: None
- - tags: []
-
-## Home < Wake Forest University
- - [https://bulletin.wfu.edu](https://bulletin.wfu.edu)
- - date published: 2024-02-08T16:51:06.053971+00:00
- - user: None
- - tags: []
-
-## Whitman College
- - [https://www.whitman.edu](https://www.whitman.edu)
- - date published: 2024-02-16T07:45:43.452013+00:00
- - user: None
- - tags: []
-
-## Williams College
- - [https://web.williams.edu](https://web.williams.edu)
- - date published: 2023-11-13T10:00:02.994920+00:00
- - user: None
- - tags: []
-
-## Prof. Joshua San Miguel - STACS Lab - University of Wisconsin-Madison
- - [https://jsm.ece.wisc.edu](https://jsm.ece.wisc.edu)
- - date published: 2023-10-25T19:06:36.281424+00:00
- - user: None
- - tags: []
-
-## Missing in Action
- - [https://mia.biotech.wisc.edu](https://mia.biotech.wisc.edu)
- - date published: 2024-02-08T21:46:45.255457+00:00
- - user: None
- - tags: []
-
-## News from the University of Wisconsin–Madison
- - [https://news.wisc.edu](https://news.wisc.edu)
- - date published: 2023-11-12T12:01:17.297435+00:00
- - user: None
- - tags: []
-
-## UW Computer Sciences User Pages
- - [https://pages.cs.wisc.edu](https://pages.cs.wisc.edu)
- - date published: 2023-10-25T19:06:38.993669+00:00
- - user: None
- - tags: []
-
-## Invertebrate Paleontology course at The College of Wooster | The joy of fossils!
- - [https://paleontology.voices.wooster.edu](https://paleontology.voices.wooster.edu)
- - date published: 2024-02-08T22:20:02.381630+00:00
- - user: None
- - tags: []
-
-## Home – Sam J. Ervin, Jr. Library & Museum
- - [https://samervin.wpcc.edu](https://samervin.wpcc.edu)
- - date published: 2024-02-08T17:00:50.203687+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://dtc.wsu.edu](https://dtc.wsu.edu)
- - date published: 2024-02-08T16:47:51.235024+00:00
- - user: None
- - tags: []
-
-## WSU Insider
- - [https://news.wsu.edu](https://news.wsu.edu)
- - date published: 2023-12-15T11:10:21.420611+00:00
- - user: None
- - tags: []
-
-## West Texas A&M University | WTAMU
- - [https://www.wtamu.edu](https://www.wtamu.edu)
- - date published: 2023-10-25T19:06:41.753042+00:00
  - user: None
  - tags: []
 

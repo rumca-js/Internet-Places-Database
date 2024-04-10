@@ -1295,13 +1295,13 @@
  - tags: []
 
 ## http://hello.pi.ai/
- - [http://hello.pi.ai](http://hello.pi.ai)
+ - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -1852,6 +1852,12 @@
  - user: None
  - tags: []
 
+## Al's blog
+ - [https://blog.the.al](https://blog.the.al)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Jake Weidokal
  - [https://weidok.al](https://weidok.al)
  - date published: 2024-04-03T06:31:55.800090+00:00
@@ -1904,7 +1910,7 @@
  - [https://docs.2fauth.app](https://docs.2fauth.app)
  - date published: 2024-04-08T19:27:57.009071+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'one time passcode']
 
 ## DeArrow - A Browser Extension for Better Titles and Thumbnails - DeArrow
  - [https://dearrow.ajay.app](https://dearrow.ajay.app)
@@ -1946,7 +1952,7 @@
  - [https://barassistant.app](https://barassistant.app)
  - date published: 2024-04-08T19:27:06.124403+00:00
  - user: None
- - tags: ['self host']
+ - tags: ['self-host']
 
 ## bigWav.app - Free audio transcription | Private audio transcription & annotation
  - [https://bigwav.app](https://bigwav.app)
@@ -2144,7 +2150,7 @@
  - [https://www.filestash.app](https://www.filestash.app)
  - date published: 2023-10-25T11:46:29.675741+00:00
  - user: None
- - tags: ['self host']
+ - tags: ['self-host']
 
 ## https://floorp.app
  - [https://floorp.app](https://floorp.app)
@@ -2204,7 +2210,7 @@
  - [https://hoarder.app](https://hoarder.app)
  - date published: 2024-04-08T19:28:56.756392+00:00
  - user: None
- - tags: []
+ - tags: ['link aggregator', 'self-host']
 
 ## Holy Swift
  - [https://holyswift.app](https://holyswift.app)
@@ -2228,7 +2234,7 @@
  - [https://immich.app](https://immich.app)
  - date published: 2024-04-08T19:28:59.912124+00:00
  - user: None
- - tags: []
+ - tags: ['video library', 'self-host']
 
 ## Kimchi Reader
  - [https://kimchi-reader.app](https://kimchi-reader.app)
@@ -2264,7 +2270,7 @@
  - [https://linkwarden.app](https://linkwarden.app)
  - date published: 2024-04-08T19:29:29.155254+00:00
  - user: None
- - tags: []
+ - tags: ['link aggregator', 'self-host']
 
 ## listmonk - Free and open source self-hosted newsletter, mailing list manager, and transactional mails
  - [https://listmonk.app](https://listmonk.app)
@@ -2318,7 +2324,7 @@
  - [https://manyfold.app](https://manyfold.app)
  - date published: 2024-04-08T19:29:35.002124+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', '3d file library']
 
 ## marimo | a next-generation Python notebook
  - [https://marimo.app](https://marimo.app)
@@ -2348,7 +2354,7 @@
  - [https://miniflux.app](https://miniflux.app)
  - date published: 2024-04-08T19:29:50.205632+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'rss']
 
 ## Minimal | Writing + Notes
  - [https://minimal.app](https://minimal.app)
@@ -2360,7 +2366,7 @@
  - [https://mixpost.app](https://mixpost.app)
  - date published: 2024-04-08T19:29:51.366167+00:00
  - user: None
- - tags: []
+ - tags: ['social media', 'self-host']
 
 ## Монетал - Учет расходов
  - [https://monetal.app](https://monetal.app)
@@ -2414,7 +2420,7 @@
  - [https://homer-demo.netlify.app](https://homer-demo.netlify.app)
  - date published: 2024-04-08T19:28:57.871886+00:00
  - user: None
- - tags: []
+ - tags: ['docker', 'self-host', 'service manager']
 
 ## HTML with Superpowers | HTML with Superpowers
  - [https://htmlwithsuperpowers.netlify.app](https://htmlwithsuperpowers.netlify.app)
@@ -2540,7 +2546,7 @@
  - [https://olivetin.app](https://olivetin.app)
  - date published: 2024-04-08T19:30:03.148679+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'web interface', 'server management']
 
 ## Omnivore
  - [https://omnivore.app](https://omnivore.app)
@@ -2606,7 +2612,7 @@
  - [https://www.photoprism.app](https://www.photoprism.app)
  - date published: 2023-10-25T11:48:28.969069+00:00
  - user: None
- - tags: ['self host', 'image hosting']
+ - tags: ['self-host', 'image hosting']
 
 ## Phrasing: To Fluency & Beyond!
  - [https://phrasing.app](https://phrasing.app)
@@ -2708,7 +2714,7 @@
  - [https://scrypted.app](https://scrypted.app)
  - date published: 2024-04-08T19:30:45.555957+00:00
  - user: None
- - tags: []
+ - tags: ['alexa', 'smart home', 'video streaming', 'google home']
 
 ## Show HN: Seedling – A Decentralised Medium
  - [https://seedling-d.app](https://seedling-d.app)
@@ -3182,7 +3188,7 @@
  - [https://watcharr.app](https://watcharr.app)
  - date published: 2024-04-08T19:31:16.233648+00:00
  - user: None
- - tags: ['movie library', 'self host']
+ - tags: ['movie library', 'self-host']
 
 ## Wavacity | Online Audio Editor Based on Audacity
  - [https://wavvy.app](https://wavvy.app)
@@ -3206,7 +3212,7 @@
  - [https://xbackbone.app](https://xbackbone.app)
  - date published: 2024-04-08T19:32:04.837665+00:00
  - user: None
- - tags: ['file manager', 'self host']
+ - tags: ['file manager', 'self-host']
 
 ## Xemu: Original Xbox Emulator
  - [https://xemu.app](https://xemu.app)
@@ -3374,7 +3380,7 @@
  - [https://stalw.art](https://stalw.art)
  - date published: 2024-04-08T19:30:54.373072+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'e-mail server']
 
 ## ThioJoe - Digital Art Portfolio
  - [https://thiojoe.art](https://thiojoe.art)
@@ -3395,14 +3401,14 @@
  - tags: []
 
 ## César Ferradas
- - [https://ferrad.as](https://ferrad.as)
- - date published: 2024-02-09T00:13:34.119208+00:00
+ - [http://ferrad.as](http://ferrad.as)
+ - date published: 2024-04-03T06:23:10.101108+00:00
  - user: None
  - tags: ['personal']
 
 ## César Ferradas
- - [http://ferrad.as](http://ferrad.as)
- - date published: 2024-04-03T06:23:10.101108+00:00
+ - [https://ferrad.as](https://ferrad.as)
+ - date published: 2024-02-09T00:13:34.119208+00:00
  - user: None
  - tags: ['personal']
 
@@ -3869,16 +3875,16 @@
  - tags: []
 
 ## Home
- - [http://kerrygrace.com.au](http://kerrygrace.com.au)
- - date published: 2024-04-03T06:27:02.750662+00:00
- - user: None
- - tags: ['personal']
-
-## Home
  - [https://kerrygrace.com.au](https://kerrygrace.com.au)
  - date published: 2024-01-09T21:36:51.535431+00:00
  - user: None
  - tags: []
+
+## Home
+ - [http://kerrygrace.com.au](http://kerrygrace.com.au)
+ - date published: 2024-04-03T06:27:02.750662+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Kotaku Australia | See Games Differently
  - [https://www.kotaku.com.au](https://www.kotaku.com.au)
@@ -4061,13 +4067,13 @@
  - tags: []
 
 ## About me - Write Approach Marketing
- - [http://writeapproach.com.au](http://writeapproach.com.au)
+ - [https://writeapproach.com.au](https://writeapproach.com.au)
  - date published: 2018-04-30T00:00:00+00:00
  - user: None
  - tags: []
 
 ## About me - Write Approach Marketing
- - [https://writeapproach.com.au](https://writeapproach.com.au)
+ - [http://writeapproach.com.au](http://writeapproach.com.au)
  - date published: 2018-04-30T00:00:00+00:00
  - user: None
  - tags: []
@@ -4430,7 +4436,7 @@
  - [http://lidarr.audio](http://lidarr.audio)
  - date published: 2024-04-08T19:26:20.058206+00:00
  - user: None
- - tags: ['self host']
+ - tags: ['self-host']
 
 ## Community | Home
  - [https://community.aws](https://community.aws)
@@ -5990,12 +5996,6 @@
 ## the Free Movie
  - [https://thefreemovie.buzz](https://thefreemovie.buzz)
  - date published: 2023-10-25T12:03:03.337705+00:00
- - user: None
- - tags: []
-
-## Svarichevsky Mikhail
- - [http://3.14.by](http://3.14.by)
- - date published: 2024-02-26T13:20:29.028020+00:00
  - user: None
  - tags: []
 

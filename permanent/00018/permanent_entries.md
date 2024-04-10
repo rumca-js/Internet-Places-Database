@@ -1,3 +1,165 @@
+## Accredited Online University
+ - [https://www.waldenu.edu](https://www.waldenu.edu)
+ - date published: 2024-01-09T19:16:48.326131+00:00
+ - user: None
+ - tags: []
+
+## courses.cs.washington.edu
+ - [https://courses.cs.washington.edu](https://courses.cs.washington.edu)
+ - date published: 2023-10-25T19:05:57.896541+00:00
+ - user: None
+ - tags: []
+
+## UW Departments Web Server
+ - [https://depts.washington.edu](https://depts.washington.edu)
+ - date published: 2023-11-13T19:09:28.425970+00:00
+ - user: None
+ - tags: []
+
+## UW Faculty Web Server
+ - [https://faculty.washington.edu](https://faculty.washington.edu)
+ - date published: 2023-10-25T19:05:59.829333+00:00
+ - user: None
+ - tags: []
+
+## UW Interactive Data Lab
+ - [https://idl.cs.washington.edu](https://idl.cs.washington.edu)
+ - date published: 2023-10-26T06:39:53.394657+00:00
+ - user: None
+ - tags: []
+
+## City-Wide IMSI-Catcher Detection - SeaGlass
+ - [https://seaglass.cs.washington.edu](https://seaglass.cs.washington.edu)
+ - date published: 2023-10-25T19:06:04.694581+00:00
+ - user: None
+ - tags: []
+
+## UW Staff Web Server
+ - [https://staff.washington.edu](https://staff.washington.edu)
+ - date published: 2023-10-25T19:06:09.097286+00:00
+ - user: None
+ - tags: []
+
+## The Taskar Center for Accessible Technology – Designing for the fullness of human experience
+ - [https://tcat.cs.washington.edu](https://tcat.cs.washington.edu)
+ - date published: 2024-02-08T21:51:19.755775+00:00
+ - user: None
+ - tags: []
+
+## https://www.ark.cs.washington.edu
+ - [https://www.ark.cs.washington.edu](https://www.ark.cs.washington.edu)
+ - date published: 2024-02-08T16:27:35.485741+00:00
+ - user: None
+ - tags: []
+
+## UW Homepage
+ - [https://www.washington.edu](https://www.washington.edu)
+ - date published: 2023-10-25T19:06:16.518171+00:00
+ - user: None
+ - tags: ['university']
+
+## Word Warriors - Wayne State University
+ - [https://wordwarriors.wayne.edu](https://wordwarriors.wayne.edu)
+ - date published: 2023-10-25T19:06:22.803186+00:00
+ - user: None
+ - tags: []
+
+## https://apps.weber.edu
+ - [https://apps.weber.edu](https://apps.weber.edu)
+ - date published: 2024-01-09T03:28:57.379562+00:00
+ - user: None
+ - tags: []
+
+## 403 - Forbidden: Access is denied.
+ - [https://faculty.weber.edu](https://faculty.weber.edu)
+ - date published: 2023-10-25T19:06:32.887393+00:00
+ - user: None
+ - tags: []
+
+## Combating Terrorism Center – CTC at West Point
+ - [https://ctc.westpoint.edu](https://ctc.westpoint.edu)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The U.S. Military Academy at West Point | United States Military Academy West Point
+ - [https://www.westpoint.edu](https://www.westpoint.edu)
+ - date published: 2024-01-09T03:28:59.603602+00:00
+ - user: None
+ - tags: []
+
+## Home < Wake Forest University
+ - [https://bulletin.wfu.edu](https://bulletin.wfu.edu)
+ - date published: 2024-02-08T16:51:06.053971+00:00
+ - user: None
+ - tags: []
+
+## Whitman College
+ - [https://www.whitman.edu](https://www.whitman.edu)
+ - date published: 2024-02-16T07:45:43.452013+00:00
+ - user: None
+ - tags: []
+
+## Williams College
+ - [https://web.williams.edu](https://web.williams.edu)
+ - date published: 2023-11-13T10:00:02.994920+00:00
+ - user: None
+ - tags: []
+
+## Prof. Joshua San Miguel - STACS Lab - University of Wisconsin-Madison
+ - [https://jsm.ece.wisc.edu](https://jsm.ece.wisc.edu)
+ - date published: 2023-10-25T19:06:36.281424+00:00
+ - user: None
+ - tags: []
+
+## Missing in Action
+ - [https://mia.biotech.wisc.edu](https://mia.biotech.wisc.edu)
+ - date published: 2024-02-08T21:46:45.255457+00:00
+ - user: None
+ - tags: []
+
+## News from the University of Wisconsin–Madison
+ - [https://news.wisc.edu](https://news.wisc.edu)
+ - date published: 2023-11-12T12:01:17.297435+00:00
+ - user: None
+ - tags: []
+
+## UW Computer Sciences User Pages
+ - [https://pages.cs.wisc.edu](https://pages.cs.wisc.edu)
+ - date published: 2023-10-25T19:06:38.993669+00:00
+ - user: None
+ - tags: []
+
+## Invertebrate Paleontology course at The College of Wooster | The joy of fossils!
+ - [https://paleontology.voices.wooster.edu](https://paleontology.voices.wooster.edu)
+ - date published: 2024-02-08T22:20:02.381630+00:00
+ - user: None
+ - tags: []
+
+## Home – Sam J. Ervin, Jr. Library & Museum
+ - [https://samervin.wpcc.edu](https://samervin.wpcc.edu)
+ - date published: 2024-02-08T17:00:50.203687+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://dtc.wsu.edu](https://dtc.wsu.edu)
+ - date published: 2024-02-08T16:47:51.235024+00:00
+ - user: None
+ - tags: []
+
+## WSU Insider
+ - [https://news.wsu.edu](https://news.wsu.edu)
+ - date published: 2023-12-15T11:10:21.420611+00:00
+ - user: None
+ - tags: []
+
+## West Texas A&M University | WTAMU
+ - [https://www.wtamu.edu](https://www.wtamu.edu)
+ - date published: 2023-10-25T19:06:41.753042+00:00
+ - user: None
+ - tags: []
+
 ## Washington University School of Medicine in St. Louis
  - [https://medicine.wustl.edu](https://medicine.wustl.edu)
  - date published: 2023-10-25T19:06:46.132338+00:00
@@ -205,16 +367,16 @@
  - tags: []
 
 ## Linktree: Link everything you are
- - [https://linktr.ee](https://linktr.ee)
- - date published: 2023-10-31T16:18:01.056130+00:00
- - user: None
- - tags: ['social media reference', 'link service']
-
-## Linktree: Link everything you are
  - [http://linktr.ee](http://linktr.ee)
  - date published: 2024-02-29T14:58:08.693207+00:00
  - user: None
  - tags: []
+
+## Linktree: Link everything you are
+ - [https://linktr.ee](https://linktr.ee)
+ - date published: 2023-10-31T16:18:01.056130+00:00
+ - user: None
+ - tags: ['social media reference', 'link service']
 
 ## Mairedesign masinkudumise koolitus
  - [https://www.masinkudumine.ee](https://www.masinkudumine.ee)
@@ -298,7 +460,7 @@
  - [https://mailcow.email](https://mailcow.email)
  - date published: 2024-04-08T19:29:31.619479+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'e-mail server']
 
 ## Mail-in-a-Box
  - [https://mailinabox.email](https://mailinabox.email)
@@ -540,15 +702,15 @@
  - user: None
  - tags: ['personal']
 
-## Lee Jones | Software Development, Product Design, Productivity
- - [http://leejon.es](http://leejon.es)
- - date published: 2024-03-31T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Exist
  - [https://leejon.es](https://leejon.es)
  - date published: 2024-01-31T18:44:31.519646+00:00
+ - user: None
+ - tags: []
+
+## Lee Jones | Software Development, Product Design, Productivity
+ - [http://leejon.es](http://leejon.es)
+ - date published: 2024-03-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1168,7 +1330,7 @@
  - [https://microbin.eu](https://microbin.eu)
  - date published: 2024-04-08T19:29:47.203095+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'file sharing']
 
 ## Advanced Electronic Projects
  - [https://microengineer.eu](https://microengineer.eu)
@@ -1207,14 +1369,14 @@
  - tags: []
 
 ## NOYB enforces your right to privacy everyday
- - [https://noyb.eu](https://noyb.eu)
- - date published: 2023-10-25T11:24:53.335930+00:00
+ - [http://noyb.eu](http://noyb.eu)
+ - date published: 2024-02-26T15:02:23.923642+00:00
  - user: None
  - tags: []
 
 ## NOYB enforces your right to privacy everyday
- - [http://noyb.eu](http://noyb.eu)
- - date published: 2024-02-26T15:02:23.923642+00:00
+ - [https://noyb.eu](https://noyb.eu)
+ - date published: 2023-10-25T11:24:53.335930+00:00
  - user: None
  - tags: []
 
@@ -1471,16 +1633,16 @@
  - tags: []
 
 ## Nicole Express
- - [http://nicole.express](http://nicole.express)
- - date published: 2024-02-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nicole Express
  - [https://nicole.express](https://nicole.express)
  - date published: 2023-10-25T19:12:14.620553+00:00
  - user: None
  - tags: ['personal']
+
+## Nicole Express
+ - [http://nicole.express](http://nicole.express)
+ - date published: 2024-02-18T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Abort Retry Fail | Bradford Morgan White | Substack
  - [https://www.abortretry.fail](https://www.abortretry.fail)
@@ -1662,17 +1824,17 @@
  - user: None
  - tags: ['personal']
 
-## https://jope.fi
- - [https://jope.fi](https://jope.fi)
- - date published: 2024-01-11T00:42:53.136432+00:00
- - user: None
- - tags: []
-
 ## The X-Copy Shrine
  - [http://jope.fi/xcopy/index.html](http://jope.fi/xcopy/index.html)
  - date published: 2024-02-06T13:38:25.181349+00:00
  - user: rumpel
  - tags: ['amiga', 'x-copy']
+
+## https://jope.fi
+ - [https://jope.fi](https://jope.fi)
+ - date published: 2024-01-11T00:42:53.136432+00:00
+ - user: None
+ - tags: []
 
 ## Ville Jouppi
  - [http://jope.fi](http://jope.fi)
@@ -1687,13 +1849,13 @@
  - tags: []
 
 ## None
- - [http://kaaosradio.fi](http://kaaosradio.fi)
+ - [https://kaaosradio.fi](https://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://kaaosradio.fi](https://kaaosradio.fi)
+ - [http://kaaosradio.fi](http://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -1735,14 +1897,14 @@
  - tags: []
 
 ## Spotify - Web Player: Music for everyone
- - [http://spoti.fi](http://spoti.fi)
- - date published: 2024-01-21T19:14:58.231822+00:00
+ - [https://spoti.fi](https://spoti.fi)
+ - date published: 2024-01-22T07:43:20.742120+00:00
  - user: None
  - tags: []
 
 ## Spotify - Web Player: Music for everyone
- - [https://spoti.fi](https://spoti.fi)
- - date published: 2024-01-22T07:43:20.742120+00:00
+ - [http://spoti.fi](http://spoti.fi)
+ - date published: 2024-01-21T19:14:58.231822+00:00
  - user: None
  - tags: []
 
@@ -2967,14 +3129,14 @@
  - tags: []
 
 ## jade's www site
- - [http://jade.fyi](http://jade.fyi)
- - date published: 2024-01-27T00:00:00+00:00
+ - [https://jade.fyi](https://jade.fyi)
+ - date published: 2024-01-09T18:46:42.354724+00:00
  - user: None
  - tags: []
 
 ## jade's www site
- - [https://jade.fyi](https://jade.fyi)
- - date published: 2024-01-09T18:46:42.354724+00:00
+ - [http://jade.fyi](http://jade.fyi)
+ - date published: 2024-01-27T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3120,7 +3282,7 @@
  - [https://memories.gallery](https://memories.gallery)
  - date published: 2024-03-21T19:25:10+00:00
  - user: None
- - tags: ['self host']
+ - tags: ['self-host']
 
 ## Minimal Gallery – Website inspiration
  - [https://minimal.gallery](https://minimal.gallery)
@@ -3566,15 +3728,15 @@
  - user: None
  - tags: []
 
-## The Keyword
- - [http://blog.google](http://blog.google)
- - date published: 2024-02-21T00:00:00+00:00
- - user: None
- - tags: []
-
 ## The Keyword | Google Product and Technology News and Stories
  - [https://blog.google](https://blog.google)
  - date published: 2023-10-25T11:29:32.894232+00:00
+ - user: None
+ - tags: []
+
+## The Keyword
+ - [http://blog.google](http://blog.google)
+ - date published: 2024-02-21T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5841,168 +6003,6 @@
 ## Home - Writing.ie
  - [https://www.writing.ie](https://www.writing.ie)
  - date published: 2023-11-20T17:24:19.164149+00:00
- - user: None
- - tags: []
-
-## אוניברסיטת בן-גוריון בנגב - ברוכים הבאים וברוכות הבאות
- - [https://www.bgu.ac.il](https://www.bgu.ac.il)
- - date published: 2024-03-21T13:48:25.965232+00:00
- - user: None
- - tags: []
-
-## Jerusalem Journal of Archaeology
- - [https://jjar.huji.ac.il](https://jjar.huji.ac.il)
- - date published: 2023-10-25T19:29:26.869067+00:00
- - user: None
- - tags: []
-
-## Tel Aviv University | Tel Aviv University
- - [https://english.tau.ac.il](https://english.tau.ac.il)
- - date published: 2023-10-25T19:29:32.967224+00:00
- - user: None
- - tags: []
-
-## Weizmann Wonder Wander - News, Features and Discoveries from the Weizmann Institute of Science
- - [https://wis-wander.weizmann.ac.il](https://wis-wander.weizmann.ac.il)
- - date published: 2023-10-25T10:11:36.340185+00:00
- - user: None
- - tags: []
-
-## Первое радио 89.1FM
- - [https://www.891fm.co.il](https://www.891fm.co.il)
- - date published: 2024-02-08T21:49:59.501224+00:00
- - user: None
- - tags: []
-
-## דף הבית - ערן שטרן
- - [https://www.eranstern.co.il](https://www.eranstern.co.il)
- - date published: 2023-11-17T15:06:30+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Globes - Israel Business News
- - [https://en.globes.co.il](https://en.globes.co.il)
- - date published: 2024-02-27T00:00:00+00:00
- - user: None
- - tags: ['business news', 'israel news']
-
-## הארץ - חדשות, ידיעות מהארץ והעולם - עיתון הארץ
- - [https://img.haarets.co.il](https://img.haarets.co.il)
- - date published: 2023-12-04T15:32:28.521089+00:00
- - user: None
- - tags: []
-
-## חדשות, דעות, תרבות, ספורט, כלכלה מהארץ והעולם | ישראל היום
- - [https://www.israelhayom.co.il](https://www.israelhayom.co.il)
- - date published: 2023-12-09T19:39:09.657744+00:00
- - user: None
- - tags: []
-
-## Israeli Diamond Industry
- - [https://en.israelidiamond.co.il](https://en.israelidiamond.co.il)
- - date published: 2024-01-24T20:54:31.768580+00:00
- - user: None
- - tags: []
-
-## Israel Today - News & Commentary. Stay Informed, Pray Informed.
- - [https://www.israeltoday.co.il](https://www.israeltoday.co.il)
- - date published: 2023-11-09T09:15:33.642354+00:00
- - user: None
- - tags: ['israel news']
-
-## Teaching Python and data science around the world
- - [https://lerner.co.il](https://lerner.co.il)
- - date published: 2023-10-27T11:57:12.193154+00:00
- - user: None
- - tags: []
-
-## mako חדשות. בידור. טלוויזיה
- - [https://mako.co.il](https://mako.co.il)
- - date published: 2024-02-25T21:52:04+00:00
- - user: rumpel
- - tags: []
-
-## - האתר של ד"ר דודו - מגוון טיולי איכות פרטיים ברמה גבוהה בהתאמה אישית וכן מידע אישי רב ומעודכן על נושאים ואזורים שונים בתאילנד - חלקם לא מוכר לישראלים
- - [https://mythailand.co.il](https://mythailand.co.il)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## ynet - חדשות, כלכלה, ספורט ובריאות - דיווחים שוטפים מהארץ ומהעולם
- - [https://www.ynet.co.il](https://www.ynet.co.il)
- - date published: 2024-03-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## None
- - [https://supreme.court.gov.il](https://supreme.court.gov.il)
- - date published: 2024-01-09T03:32:15.467545+00:00
- - user: None
- - tags: []
-
-## https://www.idf.il
- - [https://www.idf.il](https://www.idf.il)
- - date published: 2023-11-13T20:52:27.483837+00:00
- - user: None
- - tags: []
-
-## https://en.idi.org.il
- - [https://en.idi.org.il](https://en.idi.org.il)
- - date published: 2023-12-31T18:32:18.786003+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.kan.org.il](https://www.kan.org.il)
- - date published: 2024-03-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Homepage - Steven Spielberg
- - [https://www.spielbergfilmarchive.org.il](https://www.spielbergfilmarchive.org.il)
- - date published: 2023-11-13T12:53:02.637342+00:00
- - user: None
- - tags: []
-
-## Avinash Sajjanshetty
- - [https://avi.im](https://avi.im)
- - date published: 2023-10-25T19:29:34.523543+00:00
- - user: None
- - tags: ['personal']
-
-## Blot – Turn a folder into a website
- - [https://blot.im](https://blot.im)
- - date published: 2023-12-29T19:59:39.820777+00:00
- - user: None
- - tags: []
-
-## ¡hola! 🐈 mi nombre es Fernanda Carvajal Gómez 👩🏻‍💻 - Fernanda Carvajal Gómez 🐈
- - [https://fernandacarvajal.blot.im](https://fernandacarvajal.blot.im)
- - date published: 2024-01-31T18:44:43.210925+00:00
- - user: None
- - tags: []
-
-## Lachlan Gray
- - [https://lachlangray.blot.im](https://lachlangray.blot.im)
- - date published: 2023-10-25T19:29:36.419354+00:00
- - user: None
- - tags: []
-
-## Chitchatter
- - [https://chitchatter.im](https://chitchatter.im)
- - date published: 2023-10-25T19:29:37.689121+00:00
- - user: None
- - tags: []
-
-## Dino. Communicating happiness.
- - [https://dino.im](https://dino.im)
- - date published: 2023-10-25T19:29:39.810980+00:00
- - user: None
- - tags: []
-
-## Embed.im
- - [https://embed.im](https://embed.im)
- - date published: 2023-10-25T19:29:47.571380+00:00
  - user: None
  - tags: []
 

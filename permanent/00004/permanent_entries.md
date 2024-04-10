@@ -1,3 +1,39 @@
+## Christopher Butler ☼
+ - [https://www.chrbutler.com](https://www.chrbutler.com)
+ - date published: 2024-01-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## chreke's blog
+ - [https://chreke.com](https://chreke.com)
+ - date published: 2023-10-25T13:22:21.390839+00:00
+ - user: None
+ - tags: []
+
+## The Homepage
+ - [https://chrisburnell.com](https://chrisburnell.com)
+ - date published: 2024-04-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Personal Development Coaching | ChrisCarlock.com
+ - [https://www.chriscarlock.com](https://www.chriscarlock.com)
+ - date published: 2024-01-16T03:19:41.058557+00:00
+ - user: None
+ - tags: []
+
+## Splashgrav – Chris Cornell
+ - [https://chriscornell.com](https://chriscornell.com)
+ - date published: 2023-11-13T10:33:39.756055+00:00
+ - user: None
+ - tags: ['music band', 'music artist']
+
+## Resources For Productive People - Chris Danilo
+ - [https://chrisdanilo.com](https://chrisdanilo.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Less Talk, More Do – Christopher Finke writes about things he has done: software, woodworking, and other creative endeavors.
  - [https://www.chrisfinke.com](https://www.chrisfinke.com)
  - date published: 2023-10-25T13:22:23.741521+00:00
@@ -257,16 +293,16 @@
  - tags: []
 
 ## Blog | Chris Warrick
- - [https://chriswarrick.com](https://chriswarrick.com)
- - date published: 2023-10-25T09:19:47.812882+00:00
- - user: None
- - tags: ['personal']
-
-## Blog | Chris Warrick
  - [http://chriswarrick.com](http://chriswarrick.com)
  - date published: 2024-02-25T15:45:10.545891+00:00
  - user: None
  - tags: []
+
+## Blog | Chris Warrick
+ - [https://chriswarrick.com](https://chriswarrick.com)
+ - date published: 2023-10-25T09:19:47.812882+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Chris Zacharias
  - [https://blog.chriszacharias.com](https://blog.chriszacharias.com)
@@ -331,6 +367,12 @@
 ## Igor's index of metalworking and electrical manuals
  - [http://manuals.chudov.com](http://manuals.chudov.com)
  - date published: 2005-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 向海外产品发起官方拼团 - 出海团
+ - [https://chuhaituan.com](https://chuhaituan.com)
+ - date published: 2024-04-09T03:24:10.216057+00:00
  - user: None
  - tags: []
 
@@ -632,7 +674,7 @@
  - [https://clarale.com](https://clarale.com)
  - date published: 2023-10-25T13:25:22.685810+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Claremont Review of Books
  - [https://claremontreviewofbooks.com](https://claremontreviewofbooks.com)
@@ -1399,7 +1441,7 @@
  - [https://coder.com](https://coder.com)
  - date published: 2024-04-08T19:27:29.860838+00:00
  - user: None
- - tags: ['remote development', 'self host']
+ - tags: ['remote development', 'self-host']
 
 ## CodeRed - Wagtail web development and hosting for businesses.
  - [https://www.coderedcorp.com](https://www.coderedcorp.com)
@@ -3358,10 +3400,10 @@
  - user: None
  - tags: []
 
-## https://www.curseforge.com
+## curseforge
  - [https://www.curseforge.com](https://www.curseforge.com)
- - date published: 2023-10-25T11:16:22.703970+00:00
- - user: None
+ - date published: 2023-10-25T11:16:22+00:00
+ - user: rumpel
  - tags: ['minecraft', 'mods']
 
 ## Find Answers | NVIDIA
@@ -4966,6 +5008,12 @@
  - user: None
  - tags: []
 
+## Home | debjitbanerjee
+ - [https://www.debjitbanerjee.com](https://www.debjitbanerjee.com)
+ - date published: 2024-04-09T22:15:45.296646+00:00
+ - user: None
+ - tags: []
+
 ## Deborah Peacock Photography - Home
  - [https://www.deborahpeacock.com](https://www.deborahpeacock.com)
  - date published: 2024-01-13T04:52:40.631780+00:00
@@ -5764,6 +5812,12 @@
  - user: None
  - tags: []
 
+## DevURLs – A neat developer news aggregator
+ - [https://devurls.com](https://devurls.com)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Dewan's Blog
  - [https://www.dewanahmed.com](https://www.dewanahmed.com)
  - date published: 2023-10-25T09:20:04.902852+00:00
@@ -5949,58 +6003,4 @@
  - date published: 2024-01-17T09:09:20+00:00
  - user: rumpel
  - tags: ['web scraping']
-
-## Diffbot | Knowledge Graph, AI Web Data Extraction and Crawling
- - [https://www.diffbot.com](https://www.diffbot.com)
- - date published: 2024-01-17T09:11:08+00:00
- - user: rumpel
- - tags: ['web scraping']
-
-## Diffchecker - Compare text online to find the difference between two text files
- - [https://www.diffchecker.com](https://www.diffchecker.com)
- - date published: 2023-10-25T13:51:38.632020+00:00
- - user: None
- - tags: []
-
-## Different Hub
- - [https://www.differenthub.com](https://www.differenthub.com)
- - date published: 2023-12-10T18:34:38.292217+00:00
- - user: None
- - tags: []
-
-## Digialps
- - [https://digialps.com](https://digialps.com)
- - date published: 2024-01-15T19:41:38.279790+00:00
- - user: None
- - tags: []
-
-## The DigiBarn Computer Museum
- - [https://digibarn.com](https://digibarn.com)
- - date published: 2023-10-25T13:51:40.855582+00:00
- - user: None
- - tags: []
-
-## The DigiBarn Computer Museum
- - [https://www.digibarn.com](https://www.digibarn.com)
- - date published: 2024-01-09T02:34:43.503935+00:00
- - user: None
- - tags: []
-
-## Digicam Finder · The most complete and accurate digital camera data source on the internet (1994 — 2024)
- - [https://digicamfinder.com](https://digicamfinder.com)
- - date published: 2024-01-09T02:34:44.757729+00:00
- - user: None
- - tags: []
-
-## Digiday — Digital Content, Digital Advertising, Digital Marketing
- - [https://digiday.com](https://digiday.com)
- - date published: 2023-10-25T13:51:52.945807+00:00
- - user: None
- - tags: []
-
-## DigiKey - Electronic Components Distributor
- - [https://www.digikey.com](https://www.digikey.com)
- - date published: 2023-10-25T13:52:05.828216+00:00
- - user: None
- - tags: []
 

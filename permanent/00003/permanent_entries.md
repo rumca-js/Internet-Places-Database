@@ -1,3 +1,27 @@
+## Home
+ - [https://benjaminreinhardt.com](https://benjaminreinhardt.com)
+ - date published: 2016-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Compass Rose | The territory is a map of the map.
+ - [http://benjaminrosshoffman.com](http://benjaminrosshoffman.com)
+ - date published: 2023-10-25T12:57:15.976304+00:00
+ - user: None
+ - tags: []
+
+## Ben Joffe
+ - [https://benjoffe.com](https://benjoffe.com)
+ - date published: 2023-10-25T09:05:18.406692+00:00
+ - user: None
+ - tags: ['personal']
+
+## Peter Jennings - Benlo Park
+ - [http://www.benlo.com](http://www.benlo.com)
+ - date published: 2018-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Ben Lorantfy
  - [https://www.benlorantfy.com](https://www.benlorantfy.com)
  - date published: 2023-10-25T08:45:04.064540+00:00
@@ -869,14 +893,14 @@
  - tags: []
 
 ## Bits in Flight
- - [http://bitsinflight.com](http://bitsinflight.com)
- - date published: 2024-04-03T12:49:20.656238+00:00
+ - [https://bitsinflight.com](https://bitsinflight.com)
+ - date published: 2023-12-21T03:31:11.484659+00:00
  - user: None
  - tags: ['personal']
 
 ## Bits in Flight
- - [https://bitsinflight.com](https://bitsinflight.com)
- - date published: 2023-12-21T03:31:11.484659+00:00
+ - [http://bitsinflight.com](http://bitsinflight.com)
+ - date published: 2024-04-03T12:49:20.656238+00:00
  - user: None
  - tags: ['personal']
 
@@ -1553,16 +1577,16 @@
  - tags: ['personal']
 
 ## Database Architects
- - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
- - date published: 2023-10-25T09:08:09.774302+00:00
- - user: None
- - tags: ['personal']
-
-## Database Architects
  - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
  - date published: 2024-02-19T00:00:00+00:00
  - user: None
  - tags: []
+
+## Database Architects
+ - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
+ - date published: 2023-10-25T09:08:09.774302+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Data Finnovation
  - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
@@ -2049,6 +2073,12 @@
  - date published: 2006-02-05T00:00:00+00:00
  - user: rumpel
  - tags: ['personal', 'blog', 'pharmacy']
+
+## oz.Typewriter
+ - [https://oztypewriter.blogspot.com](https://oztypewriter.blogspot.com)
+ - date published: 2024-04-09T02:01:22.033251+00:00
+ - user: None
+ - tags: ['personal', 'blog']
 
 ## this is mine
  - [https://paradoxslush.blogspot.com](https://paradoxslush.blogspot.com)
@@ -2591,14 +2621,14 @@
  - tags: []
 
 ## Bob Bertsch
- - [http://bobbertsch.com](http://bobbertsch.com)
- - date published: 2024-04-03T06:30:48.075523+00:00
+ - [https://bobbertsch.com](https://bobbertsch.com)
+ - date published: 2023-12-19T10:00:09.271295+00:00
  - user: None
  - tags: ['personal']
 
 ## Bob Bertsch
- - [https://bobbertsch.com](https://bobbertsch.com)
- - date published: 2023-12-19T10:00:09.271295+00:00
+ - [http://bobbertsch.com](http://bobbertsch.com)
+ - date published: 2024-04-03T06:30:48.075523+00:00
  - user: None
  - tags: ['personal']
 
@@ -2669,14 +2699,14 @@
  - tags: ['aviation', 'aerospace', 'avionics']
 
 ## Chris Aldrich | BoffoSocko
- - [https://boffosocko.com](https://boffosocko.com)
- - date published: 2024-01-02T00:00:00+00:00
+ - [http://boffosocko.com](http://boffosocko.com)
+ - date published: 2024-02-26T14:52:14.236002+00:00
  - user: None
  - tags: []
 
 ## Chris Aldrich | BoffoSocko
- - [http://boffosocko.com](http://boffosocko.com)
- - date published: 2024-02-26T14:52:14.236002+00:00
+ - [https://boffosocko.com](https://boffosocko.com)
+ - date published: 2024-01-02T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3445,16 +3475,16 @@
  - tags: []
 
 ## Brian Kleiber - SEO Analyst & Content Marketing
- - [https://www.briankleiber.com](https://www.briankleiber.com)
- - date published: 2023-12-30T22:23:37.854421+00:00
- - user: None
- - tags: ['personal']
-
-## Brian Kleiber - SEO Analyst & Content Marketing
  - [http://www.briankleiber.com](http://www.briankleiber.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Brian Kleiber - SEO Analyst & Content Marketing
+ - [https://www.briankleiber.com](https://www.briankleiber.com)
+ - date published: 2023-12-30T22:23:37.854421+00:00
+ - user: None
+ - tags: ['personal']
 
 ## bkm
  - [https://www.briankm.com](https://www.briankm.com)
@@ -3583,16 +3613,16 @@
  - tags: []
 
 ## Bridget Gordon
- - [https://bridgetgordon.com](https://bridgetgordon.com)
- - date published: 2024-01-09T08:54:11.942646+00:00
- - user: None
- - tags: ['personal']
-
-## Bridget Gordon
  - [http://bridgetgordon.com](http://bridgetgordon.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Bridget Gordon
+ - [https://bridgetgordon.com](https://bridgetgordon.com)
+ - date published: 2024-01-09T08:54:11.942646+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Bridget Hunt
  - [https://bridgethunt.com](https://bridgethunt.com)
@@ -4434,6 +4464,12 @@
  - user: None
  - tags: []
 
+## calibre - E-book management
+ - [https://calibre-ebook.com](https://calibre-ebook.com)
+ - date published: 2024-04-09T16:55:03+00:00
+ - user: rumpel
+ - tags: ['open source', 'ebook management']
+
 ## 国产色午夜,国产97色在线|日韩,在线观看91精品国产剧情免费,国产高清美女**毛片久久w-91porn
  - [https://calicogoodrich.com](https://calicogoodrich.com)
  - date published: 2024-01-07T22:19:51+00:00
@@ -5248,7 +5284,7 @@
  - [https://cdm-project.com](https://cdm-project.com)
  - date published: 2024-04-02T13:49:05+00:00
  - user: rumpel
- - tags: ['git', 'self host']
+ - tags: ['git', 'self-host']
 
 ## https://cdnsciencepub.com
  - [https://cdnsciencepub.com](https://cdnsciencepub.com)
@@ -5304,15 +5340,15 @@
  - user: None
  - tags: ['personal']
 
-## https://www.cell.com
- - [https://www.cell.com](https://www.cell.com)
- - date published: 2023-10-25T13:19:41.208125+00:00
- - user: None
- - tags: []
-
 ## Human fetal brain self-organizes into long-term expanding organoids
  - [www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue](www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue)
  - date published: 2024-01-10T19:20:45.384863+00:00
+ - user: None
+ - tags: []
+
+## https://www.cell.com
+ - [https://www.cell.com](https://www.cell.com)
+ - date published: 2023-10-25T13:19:41.208125+00:00
  - user: None
  - tags: []
 
@@ -5824,7 +5860,7 @@
  - [https://chevereto.com](https://chevereto.com)
  - date published: 2024-04-08T19:27:26.743620+00:00
  - user: None
- - tags: ['image hosting', 'self host']
+ - tags: ['image hosting', 'self-host']
 
 ## chiaracokieng.com
  - [https://www.chiaracokieng.com](https://www.chiaracokieng.com)
@@ -5967,42 +6003,6 @@
 ## 조선일보 - 1등 디지털뉴스
  - [https://www.chosun.com](https://www.chosun.com)
  - date published: 2024-02-25T10:21:17.599113+00:00
- - user: None
- - tags: []
-
-## Christopher Butler ☼
- - [https://www.chrbutler.com](https://www.chrbutler.com)
- - date published: 2024-01-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## chreke's blog
- - [https://chreke.com](https://chreke.com)
- - date published: 2023-10-25T13:22:21.390839+00:00
- - user: None
- - tags: []
-
-## The Homepage
- - [https://chrisburnell.com](https://chrisburnell.com)
- - date published: 2024-04-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Personal Development Coaching | ChrisCarlock.com
- - [https://www.chriscarlock.com](https://www.chriscarlock.com)
- - date published: 2024-01-16T03:19:41.058557+00:00
- - user: None
- - tags: []
-
-## Splashgrav – Chris Cornell
- - [https://chriscornell.com](https://chriscornell.com)
- - date published: 2023-11-13T10:33:39.756055+00:00
- - user: None
- - tags: ['music band', 'music artist']
-
-## Resources For Productive People - Chris Danilo
- - [https://chrisdanilo.com](https://chrisdanilo.com)
- - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,75 @@
+## PiCockpit
+ - [https://picockpit.com](https://picockpit.com)
+ - date published: 2023-10-25T16:34:27.996274+00:00
+ - user: None
+ - tags: []
+
+## PicoLisp Blog
+ - [https://picolisp-explored.com](https://picolisp-explored.com)
+ - date published: 2023-10-25T16:34:34.579154+00:00
+ - user: None
+ - tags: []
+
+## PICO Virtual Reality | Official Website | PICO Global
+ - [https://www.picoxr.com](https://www.picoxr.com)
+ - date published: 2023-10-31T13:12:33.032092+00:00
+ - user: None
+ - tags: ['virtual reality']
+
+## EEG channels with low-cost PiEEG device
+ - [https://pieeg.com](https://pieeg.com)
+ - date published: 2024-03-29T19:49:51+00:00
+ - user: None
+ - tags: []
+
+## Pierce Manufacturing | Custom Fire Trucks, Apparatus & Innovations
+ - [https://www.piercemfg.com](https://www.piercemfg.com)
+ - date published: 2024-04-05T18:55:43.098196+00:00
+ - user: None
+ - tags: []
+
+## Pietro Rea
+ - [https://pietrorea.com](https://pietrorea.com)
+ - date published: 2023-10-25T16:34:36.288257+00:00
+ - user: None
+ - tags: []
+
+## Pietro Rea
+ - [https://www.pietrorea.com](https://www.pietrorea.com)
+ - date published: 2023-10-25T16:34:45.291873+00:00
+ - user: None
+ - tags: []
+
+## ShanDong Tengyue Shangqingtai Agriculture And Animal Husbandry Machinery Technology Co., Ltd.
+ - [https://www.pigfarmequipments.com](https://www.pigfarmequipments.com)
+ - date published: 2023-11-22T11:04:42.133720+00:00
+ - user: None
+ - tags: []
+
+## Blog | Piglei
+ - [https://www.piglei.com](https://www.piglei.com)
+ - date published: 2024-02-23T17:03:53.747353+00:00
+ - user: None
+ - tags: ['personal']
+
+## Automate your marketing visuals using Figma
+ - [https://pikmaker.com](https://pikmaker.com)
+ - date published: 2023-10-25T16:34:47.831381+00:00
+ - user: None
+ - tags: []
+
+## Pikuma: Fundamentals of computer science and mathematics
+ - [https://pikuma.com](https://pikuma.com)
+ - date published: 2023-10-25T16:34:51.221525+00:00
+ - user: None
+ - tags: ['it courses']
+
+## Tech-Tutorials, Howtos and buying advice
+ - [https://pilabor.com](https://pilabor.com)
+ - date published: 2023-10-25T16:34:53.491317+00:00
+ - user: None
+ - tags: []
+
 ## The Pillar
  - [https://www.pillarcatholic.com](https://www.pillarcatholic.com)
  - date published: 2023-10-25T16:34:54.561047+00:00
@@ -725,14 +797,14 @@
  - tags: []
 
 ## De Angela L. Duff
- - [https://www.polishedsolid.com](https://www.polishedsolid.com)
- - date published: 2023-12-20T11:44:35.174499+00:00
+ - [http://www.polishedsolid.com](http://www.polishedsolid.com)
+ - date published: 2023-12-23T02:59:58.572062+00:00
  - user: None
  - tags: ['personal']
 
 ## De Angela L. Duff
- - [http://www.polishedsolid.com](http://www.polishedsolid.com)
- - date published: 2023-12-23T02:59:58.572062+00:00
+ - [https://www.polishedsolid.com](https://www.polishedsolid.com)
+ - date published: 2023-12-20T11:44:35.174499+00:00
  - user: None
  - tags: ['personal']
 
@@ -844,6 +916,12 @@
  - user: None
  - tags: ['music band']
 
+## Poorly Drawn Lines | A Comic
+ - [https://poorlydrawnlines.com](https://poorlydrawnlines.com)
+ - date published: 2024-04-09T04:31:34.006545+00:00
+ - user: None
+ - tags: ['personal', 'comic strips']
+
 ## Popcorn Computer
  - [https://shop.popcorncomputer.com](https://shop.popcorncomputer.com)
  - date published: 2023-10-25T16:37:46.302212+00:00
@@ -877,6 +955,12 @@
 ## Popular Mechanics - Product Reviews, How-To, Space, Military, Math, Science, and New Technology
  - [https://www.popularmechanics.com](https://www.popularmechanics.com)
  - date published: 2023-10-25T16:37:51.033102+00:00
+ - user: None
+ - tags: []
+
+## Upstract
+ - [http://popurls.com](http://popurls.com)
+ - date published: 2024-04-09T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1259,14 +1343,14 @@
  - tags: []
 
 ## Preshing on Programming
- - [http://preshing.com](http://preshing.com)
- - date published: 2021-03-15T00:00:00+00:00
+ - [https://preshing.com](https://preshing.com)
+ - date published: 2023-10-25T16:39:24.657091+00:00
  - user: None
  - tags: []
 
 ## Preshing on Programming
- - [https://preshing.com](https://preshing.com)
- - date published: 2023-10-25T16:39:24.657091+00:00
+ - [http://preshing.com](http://preshing.com)
+ - date published: 2021-03-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1327,6 +1411,12 @@
 ## Prevention.com - Health Advice, Nutrition Tips, Trusted Medical Information
  - [https://www.prevention.com](https://www.prevention.com)
  - date published: 2023-10-25T16:39:45.941407+00:00
+ - user: None
+ - tags: []
+
+## Show HN: We built PriceLevel to find out what companies pay for SaaS
+ - [https://www.pricelevel.com](https://www.pricelevel.com)
+ - date published: 2024-04-09T15:04:27+00:00
  - user: None
  - tags: []
 
@@ -1547,14 +1637,14 @@
  - tags: []
 
 ## programming is terrible
- - [https://programmingisterrible.com](https://programmingisterrible.com)
- - date published: 2023-10-25T16:40:51.213240+00:00
+ - [http://programmingisterrible.com](http://programmingisterrible.com)
+ - date published: 2022-09-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## programming is terrible
- - [http://programmingisterrible.com](http://programmingisterrible.com)
- - date published: 2022-09-22T00:00:00+00:00
+ - [https://programmingisterrible.com](https://programmingisterrible.com)
+ - date published: 2023-10-25T16:40:51.213240+00:00
  - user: None
  - tags: []
 
@@ -2051,14 +2141,14 @@
  - tags: []
 
 ## Pushbullet Blog
- - [http://blog.pushbullet.com](http://blog.pushbullet.com)
- - date published: 2022-01-01T00:00:00+00:00
+ - [https://blog.pushbullet.com](https://blog.pushbullet.com)
+ - date published: 2023-10-25T16:42:28.991402+00:00
  - user: None
  - tags: []
 
 ## Pushbullet Blog
- - [https://blog.pushbullet.com](https://blog.pushbullet.com)
- - date published: 2023-10-25T16:42:28.991402+00:00
+ - [http://blog.pushbullet.com](http://blog.pushbullet.com)
+ - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2072,7 +2162,7 @@
  - [https://puter.com](https://puter.com)
  - date published: 2023-10-25T16:42:29.575309+00:00
  - user: None
- - tags: ['smart home', 'self host']
+ - tags: ['smart home', 'self-host']
 
 ## Home – Put This On
  - [https://putthison.com](https://putthison.com)
@@ -2108,7 +2198,7 @@
  - [https://pwpush.com](https://pwpush.com)
  - date published: 2024-04-08T19:30:27.351515+00:00
  - user: None
- - tags: []
+ - tags: ['password service', 'self-host']
 
 ## Free Images & Free stock photos - PxHere
  - [https://pxhere.com](https://pxhere.com)
@@ -2132,7 +2222,7 @@
  - [https://pymedusa.com](https://pymedusa.com)
  - date published: 2024-04-08T19:30:28.997710+00:00
  - user: None
- - tags: []
+ - tags: ['video library manager', 'self-host']
 
 ## Pymnts.com
  - [https://www.pymnts.com](https://www.pymnts.com)
@@ -2649,14 +2739,14 @@
  - tags: []
 
 ## rachelbythebay
- - [https://rachelbythebay.com](https://rachelbythebay.com)
- - date published: 2023-10-25T08:47:38.309860+00:00
+ - [http://rachelbythebay.com](http://rachelbythebay.com)
+ - date published: 2024-03-25T10:02:53.023235+00:00
  - user: None
  - tags: ['personal']
 
 ## rachelbythebay
- - [http://rachelbythebay.com](http://rachelbythebay.com)
- - date published: 2024-03-25T10:02:53.023235+00:00
+ - [https://rachelbythebay.com](https://rachelbythebay.com)
+ - date published: 2023-10-25T08:47:38.309860+00:00
  - user: None
  - tags: ['personal']
 
@@ -2829,14 +2919,14 @@
  - tags: ['personal']
 
 ## Reginald Braithwaite
- - [http://raganwald.com](http://raganwald.com)
- - date published: 2016-01-01T00:00:00+00:00
+ - [https://raganwald.com](https://raganwald.com)
+ - date published: 2023-10-25T16:45:15.488174+00:00
  - user: None
  - tags: []
 
 ## Reginald Braithwaite
- - [https://raganwald.com](https://raganwald.com)
- - date published: 2023-10-25T16:45:15.488174+00:00
+ - [http://raganwald.com](http://raganwald.com)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2873,6 +2963,12 @@
 ## St. Thomas Ontario - Things to see and do in St. Thomas Ontario Canada
  - [https://www.railwaycitytourism.com](https://www.railwaycitytourism.com)
  - date published: 2023-10-25T16:45:24.751409+00:00
+ - user: None
+ - tags: []
+
+## AI Test Automation for SaaS Startups | Rainforest QA
+ - [https://www.rainforestqa.com](https://www.rainforestqa.com)
+ - date published: 2024-04-09T22:06:07.012294+00:00
  - user: None
  - tags: []
 
@@ -3136,16 +3232,16 @@ More!
  - tags: []
 
 ## Home - ratfactor
- - [http://ratfactor.com](http://ratfactor.com)
- - date published: 2024-04-03T06:32:12.821956+00:00
- - user: None
- - tags: ['personal']
-
-## Home - ratfactor
  - [https://ratfactor.com](https://ratfactor.com)
  - date published: 2023-10-25T16:46:22.037973+00:00
  - user: None
  - tags: []
+
+## Home - ratfactor
+ - [http://ratfactor.com](http://ratfactor.com)
+ - date published: 2024-04-03T06:32:12.821956+00:00
+ - user: None
+ - tags: ['personal']
 
 ## rauljordan::blog
  - [https://rauljordan.com](https://rauljordan.com)
@@ -3166,16 +3262,16 @@ More!
  - tags: []
 
 ## Ravenfeast
- - [https://www.ravenfeast.com](https://www.ravenfeast.com)
- - date published: 2024-03-01T09:41:52+00:00
- - user: rumpel
- - tags: ['tabletop games', 'wargames']
-
-## Ravenfeast
  - [http://www.ravenfeast.com](http://www.ravenfeast.com)
  - date published: 2024-03-01T18:35:27.406553+00:00
  - user: None
  - tags: []
+
+## Ravenfeast
+ - [https://www.ravenfeast.com](https://www.ravenfeast.com)
+ - date published: 2024-03-01T09:41:52+00:00
+ - user: rumpel
+ - tags: ['tabletop games', 'wargames']
 
 ## https://www.ravensoft.com
  - [https://www.ravensoft.com](https://www.ravensoft.com)
@@ -3313,7 +3409,7 @@ More!
  - [http://readarr.com](http://readarr.com)
  - date published: 2024-04-08T19:26:23.538940+00:00
  - user: None
- - tags: ['self host']
+ - tags: ['self-host']
 
 ## Home | Readex
  - [https://www.readex.com](https://www.readex.com)
@@ -3418,14 +3514,14 @@ More!
  - tags: ['company']
 
 ## Home | Realms of Despair
- - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
- - date published: 2024-03-27T20:46:33.188949+00:00
+ - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:52:28.838514+00:00
  - user: None
  - tags: ['mud game']
 
 ## Home | Realms of Despair
- - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
- - date published: 2024-03-27T20:52:28.838514+00:00
+ - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:46:33.188949+00:00
  - user: None
  - tags: ['mud game']
 
@@ -3529,7 +3625,7 @@ More!
  - [https://recipesage.com](https://recipesage.com)
  - date published: 2024-04-08T19:30:32.448845+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'meal', 'recipe']
 
 ## RecipeUI
  - [https://recipeui.com](https://recipeui.com)
@@ -3730,14 +3826,14 @@ More!
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [http://www.reddit-stream.com](http://www.reddit-stream.com)
- - date published: 2023-12-23T19:30:18.252561+00:00
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
  - user: None
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
+ - [http://www.reddit-stream.com](http://www.reddit-stream.com)
+ - date published: 2023-12-23T19:30:18.252561+00:00
  - user: None
  - tags: []
 
@@ -5710,14 +5806,14 @@ More!
  - tags: ['personal']
 
 ## my blog
- - [https://ronzhyn.com](https://ronzhyn.com)
- - date published: 2023-12-03T01:43:15.181104+00:00
+ - [http://ronzhyn.com](http://ronzhyn.com)
+ - date published: 2024-04-03T12:46:15.138808+00:00
  - user: None
  - tags: ['personal']
 
 ## my blog
- - [http://ronzhyn.com](http://ronzhyn.com)
- - date published: 2024-04-03T12:46:15.138808+00:00
+ - [https://ronzhyn.com](https://ronzhyn.com)
+ - date published: 2023-12-03T01:43:15.181104+00:00
  - user: None
  - tags: ['personal']
 
@@ -5906,100 +6002,4 @@ More!
  - date published: 2023-10-25T08:38:16.407947+00:00
  - user: None
  - tags: ['rss reader']
-
-## RSS Feed Extractor
- - [https://rssfeedasap.com](https://rssfeedasap.com)
- - date published: 2023-10-25T08:30:46.933111+00:00
- - user: None
- - tags: []
-
-## RSS Search Engine and RSS Feed Reader
- - [https://www.rsssearchhub.com](https://www.rsssearchhub.com)
- - date published: 2024-01-30T08:00:10+00:00
- - user: rumpel
- - tags: []
-
-## RT - Breaking News, Russia News, World News and Video
- - [https://www.rt.com](https://www.rt.com)
- - date published: 2023-10-25T10:12:55.826509+00:00
- - user: None
- - tags: []
-
-## R. Talsorian Games - We create worlds you can only imagine.
- - [https://rtalsoriangames.com](https://rtalsoriangames.com)
- - date published: 2023-11-01T19:34:54.050124+00:00
- - user: None
- - tags: ['ttrpg', 'cyberpunk', 'role playing games']
-
-## https://www.rtl-sdr.com
- - [https://www.rtl-sdr.com](https://www.rtl-sdr.com)
- - date published: 2024-01-09T02:48:22.088471+00:00
- - user: None
- - tags: []
-
-## Rubenerd
- - [https://rubenerd.com](https://rubenerd.com)
- - date published: 2023-10-25T16:55:20.911142+00:00
- - user: None
- - tags: []
-
-## rubenwardy's blog
- - [https://blog.rubenwardy.com](https://blog.rubenwardy.com)
- - date published: 2023-11-18T18:28:01.582764+00:00
- - user: None
- - tags: ['personal']
-
-## Jade Rubick - Rubick.com
- - [https://www.rubick.com](https://www.rubick.com)
- - date published: 2023-10-25T08:47:51.358817+00:00
- - user: None
- - tags: ['personal']
-
-## renegat0x0 site
- - [https://micro.rubiconproject.com](https://micro.rubiconproject.com)
- - date published: 2024-01-09T02:48:25.552891+00:00
- - user: None
- - tags: []
-
-## RubyFlow
- - [https://rubyflow.com](https://rubyflow.com)
- - date published: 2024-01-22T09:50:17.612933+00:00
- - user: None
- - tags: []
-
-## Ruetir | Latest News, World News, Breaking News, Games, Business & Health
- - [https://www.ruetir.com](https://www.ruetir.com)
- - date published: 2023-10-25T16:55:26.559906+00:00
- - user: None
- - tags: []
-
-## Show HN: Not sure you're talking to a human? Create a human check
- - [https://r-u-human.com](https://r-u-human.com)
- - date published: 2024-03-19T12:39:25+00:00
- - user: None
- - tags: []
-
-## Rui Zhi Dong - Writer
- - [https://ruizhidong.com](https://ruizhidong.com)
- - date published: 2023-12-22T17:48:27.466814+00:00
- - user: None
- - tags: ['personal']
-
-## Support Russell Brand
- - [https://rb.rumble.com](https://rb.rumble.com)
- - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Rumble
- - [https://rumble.com](https://rumble.com)
- - date published: 2023-10-24T20:12:23.443415+00:00
- - user: None
- - tags: ['social platform']
-
-## Rune Quake - A QuakeC Modification for Quake and Quakeworld
- - [http://www.runequake.com](http://www.runequake.com)
- - date published: 2024-02-06T15:25:20.173572+00:00
- - user: None
- - tags: []
 

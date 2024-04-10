@@ -1,3 +1,57 @@
+## Diffbot | Knowledge Graph, AI Web Data Extraction and Crawling
+ - [https://www.diffbot.com](https://www.diffbot.com)
+ - date published: 2024-01-17T09:11:08+00:00
+ - user: rumpel
+ - tags: ['web scraping']
+
+## Diffchecker - Compare text online to find the difference between two text files
+ - [https://www.diffchecker.com](https://www.diffchecker.com)
+ - date published: 2023-10-25T13:51:38.632020+00:00
+ - user: None
+ - tags: []
+
+## Different Hub
+ - [https://www.differenthub.com](https://www.differenthub.com)
+ - date published: 2023-12-10T18:34:38.292217+00:00
+ - user: None
+ - tags: []
+
+## Digialps
+ - [https://digialps.com](https://digialps.com)
+ - date published: 2024-01-15T19:41:38.279790+00:00
+ - user: None
+ - tags: []
+
+## The DigiBarn Computer Museum
+ - [https://digibarn.com](https://digibarn.com)
+ - date published: 2023-10-25T13:51:40.855582+00:00
+ - user: None
+ - tags: []
+
+## The DigiBarn Computer Museum
+ - [https://www.digibarn.com](https://www.digibarn.com)
+ - date published: 2024-01-09T02:34:43.503935+00:00
+ - user: None
+ - tags: []
+
+## Digicam Finder · The most complete and accurate digital camera data source on the internet (1994 — 2024)
+ - [https://digicamfinder.com](https://digicamfinder.com)
+ - date published: 2024-01-09T02:34:44.757729+00:00
+ - user: None
+ - tags: []
+
+## Digiday — Digital Content, Digital Advertising, Digital Marketing
+ - [https://digiday.com](https://digiday.com)
+ - date published: 2023-10-25T13:51:52.945807+00:00
+ - user: None
+ - tags: []
+
+## DigiKey - Electronic Components Distributor
+ - [https://www.digikey.com](https://www.digikey.com)
+ - date published: 2023-10-25T13:52:05.828216+00:00
+ - user: None
+ - tags: []
+
 ## Digilent – Start Smart, Build Brilliant.
  - [https://digilent.com](https://digilent.com)
  - date published: 2023-10-25T13:52:09.931723+00:00
@@ -368,7 +422,7 @@
  - [https://dittofeed.com](https://dittofeed.com)
  - date published: 2024-04-08T19:27:52.667715+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'e-commerce']
 
 ## None
  - [https://www.diybookbinding.com](https://www.diybookbinding.com)
@@ -1539,7 +1593,7 @@
  - [https://duplicacy.com](https://duplicacy.com)
  - date published: 2024-04-08T19:28:10.281383+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'backup manager']
 
 ## Duplicate Word Finder
  - [https://duplicateword.com](https://duplicateword.com)
@@ -1551,7 +1605,7 @@
  - [https://duplicati.com](https://duplicati.com)
  - date published: 2024-04-08T19:28:10.759862+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'backup manager']
 
 ## Duplicati
  - [https://www.duplicati.com](https://www.duplicati.com)
@@ -1629,7 +1683,7 @@
  - [https://www.dweebui.com](https://www.dweebui.com)
  - date published: 2024-04-08T19:31:34.310217+00:00
  - user: None
- - tags: ['docker ui', 'self host']
+ - tags: ['docker ui', 'self-host']
 
 ## Dwell House – Design Delivered to Your Backyard
  - [https://house.dwell.com](https://house.dwell.com)
@@ -2772,14 +2826,14 @@
  - tags: []
 
 ## Supercharge your mobile apps | Emerge Tools
- - [http://www.emergetools.com](http://www.emergetools.com)
- - date published: 2024-02-25T20:03:45.981322+00:00
+ - [https://www.emergetools.com](https://www.emergetools.com)
+ - date published: 2023-10-25T14:06:59.391184+00:00
  - user: None
  - tags: []
 
 ## Supercharge your mobile apps | Emerge Tools
- - [https://www.emergetools.com](https://www.emergetools.com)
- - date published: 2023-10-25T14:06:59.391184+00:00
+ - [http://www.emergetools.com](http://www.emergetools.com)
+ - date published: 2024-02-25T20:03:45.981322+00:00
  - user: None
  - tags: []
 
@@ -3627,7 +3681,7 @@
  - [https://www.etesync.com](https://www.etesync.com)
  - date published: 2024-04-08T19:31:35.568752+00:00
  - user: None
- - tags: ['open source', 'file sync', 'self host']
+ - tags: ['open source', 'file sync', 'self-host']
 
 ## Ethan Lalakea Alter
  - [https://www.ethanalter.com](https://www.ethanalter.com)
@@ -4392,14 +4446,14 @@
  - tags: []
 
 ## Log in or sign up to view
- - [https://facebook.com](https://facebook.com)
- - date published: 2023-12-11T16:53:43.180916+00:00
+ - [http://facebook.com](http://facebook.com)
+ - date published: 2024-02-24T09:56:45.941514+00:00
  - user: None
  - tags: []
 
 ## Log in or sign up to view
- - [http://facebook.com](http://facebook.com)
- - date published: 2024-02-24T09:56:45.941514+00:00
+ - [https://facebook.com](https://facebook.com)
+ - date published: 2023-12-11T16:53:43.180916+00:00
  - user: None
  - tags: []
 
@@ -4806,14 +4860,14 @@
  - tags: []
 
 ## Fang-Pen's coding note
- - [https://fangpenlin.com](https://fangpenlin.com)
- - date published: 2024-01-15T18:30:18.650651+00:00
+ - [http://fangpenlin.com](http://fangpenlin.com)
+ - date published: 2024-01-14T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Fang-Pen's coding note
- - [http://fangpenlin.com](http://fangpenlin.com)
- - date published: 2024-01-14T00:00:00+00:00
+ - [https://fangpenlin.com](https://fangpenlin.com)
+ - date published: 2024-01-15T18:30:18.650651+00:00
  - user: None
  - tags: []
 
@@ -5427,7 +5481,7 @@
  - [https://filerun.com](https://filerun.com)
  - date published: 2024-04-08T19:28:21.224942+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'file sharing']
 
 ## Fill & Flush - A Better Way to De-Plane
  - [https://www.fillandflush.com](https://www.fillandflush.com)
@@ -5942,60 +5996,6 @@
 ## FlowingData | Data Visualization and Statistics
  - [https://flowingdata.com](https://flowingdata.com)
  - date published: 2023-10-25T14:33:24.707976+00:00
- - user: None
- - tags: []
-
-## pywebview
- - [https://pywebview.flowrl.com](https://pywebview.flowrl.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## flox | Environments with wings
- - [https://floxdev.com](https://floxdev.com)
- - date published: 2023-10-25T14:33:26.329374+00:00
- - user: None
- - tags: []
-
-## Fluent C++ - Jonathan Boccara's blog
- - [https://www.fluentcpp.com](https://www.fluentcpp.com)
- - date published: 2023-10-25T14:33:29.625739+00:00
- - user: None
- - tags: []
-
-## Show HN: Learn Any Language with an AI Tutor at Your Own Pace
- - [https://www.fluffytutor.com](https://www.fluffytutor.com)
- - date published: 2024-03-26T05:45:17+00:00
- - user: None
- - tags: []
-
-## Fluid Reality
- - [https://www.fluidreality.com](https://www.fluidreality.com)
- - date published: 2024-01-09T02:36:40.798216+00:00
- - user: None
- - tags: []
-
-## Fluski
- - [https://fluski.com](https://fluski.com)
- - date published: 2023-10-25T14:33:33.683600+00:00
- - user: None
- - tags: []
-
-## https://www.flutebeaudin.com
- - [https://www.flutebeaudin.com](https://www.flutebeaudin.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Flux Keyboard
- - [https://fluxkeyboard.com](https://fluxkeyboard.com)
- - date published: 2023-10-25T14:33:40.690331+00:00
- - user: None
- - tags: []
-
-## Blog | FluxNinja Aperture
- - [https://blog.fluxninja.com](https://blog.fluxninja.com)
- - date published: 2023-10-25T14:33:48.460282+00:00
  - user: None
  - tags: []
 

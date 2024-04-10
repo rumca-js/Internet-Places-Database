@@ -1,3 +1,63 @@
+## Julius Gamanyi
+ - [https://juliusgamanyi.com](https://juliusgamanyi.com)
+ - date published: 2023-10-25T15:33:12.043575+00:00
+ - user: None
+ - tags: []
+
+## Clippings (Classified Ad Archive) - by June07
+ - [https://clippings.june07.com](https://clippings.june07.com)
+ - date published: 2023-10-25T15:33:12.584078+00:00
+ - user: None
+ - tags: []
+
+## JUNEAU COUNTY, WISCONSIN USA
+ - [https://www.juneaucounty.com](https://www.juneaucounty.com)
+ - date published: 2020-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Juneau Empire
+ - [https://www.juneauempire.com](https://www.juneauempire.com)
+ - date published: 2023-11-25T12:18:51.021696+00:00
+ - user: None
+ - tags: []
+
+## Junkee
+ - [https://junkee.com](https://junkee.com)
+ - date published: 2023-12-04T05:33:57.826699+00:00
+ - user: None
+ - tags: []
+
+## Jupe || Sheltering Housing for those displaced across Maui, Ukraine, Earth, & Beyond...
+ - [https://www.jupe.com](https://www.jupe.com)
+ - date published: 2023-10-25T15:33:13.896734+00:00
+ - user: None
+ - tags: []
+
+## Jurnal Anas - Software developer, builder, and amateur writer
+ - [https://www.jurnalanas.com](https://www.jurnalanas.com)
+ - date published: 2023-10-25T15:33:14.824301+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://feeds.justagwailo.com](http://feeds.justagwailo.com)
+ - date published: 2024-02-26T08:27:28.241338+00:00
+ - user: None
+ - tags: []
+
+## Just a Gwai Lo
+ - [https://justagwailo.com](https://justagwailo.com)
+ - date published: 2024-01-09T21:36:31.501917+00:00
+ - user: None
+ - tags: []
+
+## JustBeamIt - file transfer made easy
+ - [https://justbeamit.com](https://justbeamit.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['file send']
+
 ## Get Beep! Best Collaboration Tool for 4x Faster Online Communication
  - [https://www.justbeepit.com](https://www.justbeepit.com)
  - date published: 2023-10-25T15:33:32.299256+00:00
@@ -602,7 +662,7 @@
  - [http://www.kavitareader.com](http://www.kavitareader.com)
  - date published: 2024-04-08T19:26:41.680068+00:00
  - user: None
- - tags: ['file library', 'self host']
+ - tags: ['file library', 'self-host']
 
 ## Kawasaki Robotics - Industrial Robotics | HOME
  - [https://kawasakirobotics.com](https://kawasakirobotics.com)
@@ -1503,7 +1563,7 @@
  - [https://www.knowies.com](https://www.knowies.com)
  - date published: 2023-11-26T16:48:52+00:00
  - user: rumpel
- - tags: ['bookmark manager']
+ - tags: ['link aggregator', 'bookmark manager']
 
 ## Show HN: Known – Semi-smart plant labels
  - [https://www.knownplants.com](https://www.knownplants.com)
@@ -2116,6 +2176,12 @@
  - date published: 2023-10-25T15:40:15.724858+00:00
  - user: None
  - tags: []
+
+## Kelson Vibber
+ - [https://kvibber.com](https://kvibber.com)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Buy VST Plugins, Audio Units, AAX, Instruments and Effects, Download Free Plugins - KVR Audio Software
  - [https://www.kvraudio.com](https://www.kvraudio.com)
@@ -3508,7 +3574,7 @@ Chamber Music, Symphony
  - [https://librumreader.com](https://librumreader.com)
  - date published: 2024-04-08T19:29:23.142077+00:00
  - user: None
- - tags: []
+ - tags: ['ebook library', 'self-host']
 
 ## Advent of Computing
  - [https://adventofcomputing.libsyn.com](https://adventofcomputing.libsyn.com)
@@ -4012,7 +4078,7 @@ Chamber Music, Symphony
  - [https://lithub.com](https://lithub.com)
  - date published: 2023-10-25T10:35:52.495629+00:00
  - user: None
- - tags: []
+ - tags: ['book news', 'writing']
 
 ## Litographs - Books on T-shirts, Posters, and Tote Bags
  - [https://www.litographs.com](https://www.litographs.com)
@@ -4810,7 +4876,7 @@ Chamber Music, Symphony
  - [https://lubelogger.com](https://lubelogger.com)
  - date published: 2024-04-08T19:29:31.019570+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'car manager']
 
 ## Lucas F. Costa
  - [https://lucasfcosta.com](https://lucasfcosta.com)
@@ -5474,13 +5540,13 @@ diversions.
  - tags: []
 
 ## A blog by @makaroni4
- - [https://makaroni4.com](https://makaroni4.com)
+ - [http://makaroni4.com](http://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## A blog by @makaroni4
- - [http://makaroni4.com](http://makaroni4.com)
+ - [https://makaroni4.com](https://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -5564,14 +5630,14 @@ diversions.
  - tags: ['tech news', 'tech articles']
 
 ## Matter Unlimited - Award-Winning Social Impact Marketing Agency
- - [https://www.makethingsmatter.com](https://www.makethingsmatter.com)
- - date published: 2024-01-09T02:42:19.097936+00:00
+ - [http://www.makethingsmatter.com](http://www.makethingsmatter.com)
+ - date published: 2024-04-03T12:49:19.704754+00:00
  - user: None
  - tags: ['personal']
 
 ## Matter Unlimited - Award-Winning Social Impact Marketing Agency
- - [http://www.makethingsmatter.com](http://www.makethingsmatter.com)
- - date published: 2024-04-03T12:49:19.704754+00:00
+ - [https://www.makethingsmatter.com](https://www.makethingsmatter.com)
+ - date published: 2024-01-09T02:42:19.097936+00:00
  - user: None
  - tags: ['personal']
 
@@ -5588,14 +5654,14 @@ diversions.
  - tags: ['single-board', '3d printing', 'creators', 'tech']
 
 ## Making It with Chris G.
- - [http://www.makingitwithchrisg.com](http://www.makingitwithchrisg.com)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
+ - date published: 2023-11-29T17:12:52.483030+00:00
  - user: None
  - tags: []
 
 ## Making It with Chris G.
- - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
- - date published: 2023-11-29T17:12:52.483030+00:00
+ - [http://www.makingitwithchrisg.com](http://www.makingitwithchrisg.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5932,72 +5998,6 @@ diversions.
 ## Marek Narozniak's Homepage
  - [https://mareknarozniak.com](https://mareknarozniak.com)
  - date published: 2023-10-25T15:56:13.186989+00:00
- - user: None
- - tags: []
-
-## Marginal REVOLUTION - Small Steps Toward A Much Better World
- - [https://marginalrevolution.com](https://marginalrevolution.com)
- - date published: 2023-10-25T15:56:20.591120+00:00
- - user: None
- - tags: []
-
-## Maria Brophy - Create the career and life of your dreams
- - [https://mariabrophy.com](https://mariabrophy.com)
- - date published: 2024-04-03T12:49:25.311629+00:00
- - user: None
- - tags: ['personal']
-
-## MariaDB - Investor Relations
- - [https://investors.mariadb.com](https://investors.mariadb.com)
- - date published: 2023-10-25T15:56:22.248200+00:00
- - user: None
- - tags: []
-
-## Maria Erving | Transformational Teacher | Alignment | Flow of Life
- - [https://mariaerving.com](https://mariaerving.com)
- - date published: 2024-01-06T08:52:56.890384+00:00
- - user: None
- - tags: []
-
-## Maria Laura Skinner
- - [https://mariaskinner.com](https://mariaskinner.com)
- - date published: 2023-12-28T18:49:25.685557+00:00
- - user: None
- - tags: ['personal']
-
-## Performance | MarielisGarcia
- - [https://www.marielisgarcia.com](https://www.marielisgarcia.com)
- - date published: 2024-01-10T23:52:06.653575+00:00
- - user: None
- - tags: []
-
-## Marin Comics
- - [https://marincomics.com](https://marincomics.com)
- - date published: 2023-12-06T16:02:30.090519+00:00
- - user: None
- - tags: []
-
-## Marine Insight - The Maritime Industry Guide
- - [https://www.marineinsight.com](https://www.marineinsight.com)
- - date published: 2023-10-25T15:56:27.679998+00:00
- - user: None
- - tags: []
-
-## Mario Kart Wii Gecko Codes, Cheats, & Hacks
- - [https://mariokartwii.com](https://mariokartwii.com)
- - date published: 2024-01-16T07:52:53.046091+00:00
- - user: None
- - tags: []
-
-## Marion County RECORD
- - [http://marionrecord.com](http://marionrecord.com)
- - date published: 2024-02-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Marion County RECORD | Newspaper from Marion KS | Oct. 18, 2023
- - [https://marionrecord.com](https://marionrecord.com)
- - date published: 2023-10-25T15:56:29.822192+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,69 @@
+## NBC 7 San Diego
+ - [https://www.nbcsandiego.com](https://www.nbcsandiego.com)
+ - date published: 2024-03-13T21:06:05.363632+00:00
+ - user: None
+ - tags: []
+
+## NCC Group Research Blog | Making the world safer and more secure
+ - [https://research.nccgroup.com](https://research.nccgroup.com)
+ - date published: 2023-10-25T16:13:05.140594+00:00
+ - user: None
+ - tags: []
+
+## North Carolina Rabbit Hole | Jeremy Markovich | Substack
+ - [https://www.ncrabbithole.com](https://www.ncrabbithole.com)
+ - date published: 2023-10-25T16:13:08.969926+00:00
+ - user: None
+ - tags: []
+
+## NCZAS.COM | Najwyższy CZAS! Najnowsze informacje z Polski, Europy i Świata. Wolnościowe spojrzenie, bez poprawności politycznej
+ - [https://nczas.com](https://nczas.com)
+ - date published: 2023-10-25T10:14:32.674298+00:00
+ - user: None
+ - tags: []
+
+## Nicholas A. Danes, PhD · Nicholas A. Danes, PhD
+ - [https://ndanes.com](https://ndanes.com)
+ - date published: 2023-12-13T20:58:32.247509+00:00
+ - user: None
+ - tags: ['personal']
+
+## NDC Conferences
+ - [https://ndcconferences.com](https://ndcconferences.com)
+ - date published: 2024-01-20T09:05:28.470002+00:00
+ - user: None
+ - tags: []
+
+## NDC Porto 2024 | Conference for Software Developers
+ - [https://ndcporto.com](https://ndcporto.com)
+ - date published: 2024-01-20T09:05:35.144081+00:00
+ - user: None
+ - tags: []
+
+## NDepend Blog - Improve your .NET code quality with NDepend
+ - [https://blog.ndepend.com](https://blog.ndepend.com)
+ - date published: 2023-10-25T16:13:13.613302+00:00
+ - user: None
+ - tags: []
+
+## Get Latest News, India News, Breaking News, Today's News - NDTV.com
+ - [https://www.ndtv.com](https://www.ndtv.com)
+ - date published: 2023-10-25T16:13:21.078054+00:00
+ - user: None
+ - tags: []
+
+## Home - NDY
+ - [https://ndy.com](https://ndy.com)
+ - date published: 2024-01-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Neal Ungerleider
+ - [https://www.nealungerleider.com](https://www.nealungerleider.com)
+ - date published: 2023-12-10T11:33:52.726783+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Neatorama
  - [https://www.neatorama.com](https://www.neatorama.com)
  - date published: 2024-03-11T20:54:58.968559+00:00
@@ -494,7 +560,7 @@
  - [http://www.newsblur.com](http://www.newsblur.com)
  - date published: 2024-11-18T00:00:00+00:00
  - user: None
- - tags: ['self host']
+ - tags: ['self-host']
 
 ## renegat0x0 site
  - [https://www.newsbreak.com](https://www.newsbreak.com)
@@ -752,7 +818,7 @@
  - [https://nextcloud.com](https://nextcloud.com)
  - date published: 2023-10-25T16:18:09.462483+00:00
  - user: None
- - tags: ['open source', 'self host']
+ - tags: ['open source', 'self-host']
 
 ## NextcloudPi Documentation
  - [https://docs.nextcloudpi.com](https://docs.nextcloudpi.com)
@@ -872,7 +938,7 @@
  - [https://nginxproxymanager.com](https://nginxproxymanager.com)
  - date published: 2024-04-08T19:29:53.934884+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'ngnix']
 
 ## Nick Higham – Applied mathematics, numerical linear algebra and software.
  - [https://nhigham.com](https://nhigham.com)
@@ -928,17 +994,17 @@
  - user: None
  - tags: []
 
-## Nick LaToof - Fly Fishing & Splitboard Guide
- - [http://www.nicklatoof.com](http://www.nicklatoof.com)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Front Page - Nick LaToof
  - [https://www.nicklatoof.com](https://www.nicklatoof.com)
  - date published: 2023-11-29T15:47:43.364763+00:00
  - user: None
  - tags: ['personal']
+
+## Nick LaToof - Fly Fishing & Splitboard Guide
+ - [http://www.nicklatoof.com](http://www.nicklatoof.com)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Nick Montfort’s site
  - [https://nickm.com](https://nickm.com)
@@ -1307,15 +1373,15 @@
  - user: None
  - tags: ['music band']
 
-## [NFC: The Internet Nirvana Fan Club]
- - [https://www.nirvanaclub.com](https://www.nirvanaclub.com)
- - date published: 2023-10-25T14:19:53.039695+00:00
- - user: None
- - tags: []
-
 ## The Internet Nirvana Fan Club
  - [http://www.nirvanaclub.com](http://www.nirvanaclub.com)
  - date published: 2024-02-26T09:19:36.552314+00:00
+ - user: None
+ - tags: []
+
+## [NFC: The Internet Nirvana Fan Club]
+ - [https://www.nirvanaclub.com](https://www.nirvanaclub.com)
+ - date published: 2023-10-25T14:19:53.039695+00:00
  - user: None
  - tags: []
 
@@ -1728,13 +1794,13 @@
  - tags: []
 
 ## Peter Norvig
- - [https://www.norvig.com](https://www.norvig.com)
+ - [http://www.norvig.com](http://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Peter Norvig
- - [http://www.norvig.com](http://www.norvig.com)
+ - [https://www.norvig.com](https://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -1782,14 +1848,14 @@
  - tags: []
 
 ## Notes & Photos
- - [https://www.notesandphotos.com](https://www.notesandphotos.com)
- - date published: 2023-12-20T21:30:54.650783+00:00
+ - [http://www.notesandphotos.com](http://www.notesandphotos.com)
+ - date published: 2024-04-03T12:46:22.033917+00:00
  - user: None
  - tags: ['personal']
 
 ## Notes & Photos
- - [http://www.notesandphotos.com](http://www.notesandphotos.com)
- - date published: 2024-04-03T12:46:22.033917+00:00
+ - [https://www.notesandphotos.com](https://www.notesandphotos.com)
+ - date published: 2023-12-20T21:30:54.650783+00:00
  - user: None
  - tags: ['personal']
 
@@ -2281,7 +2347,7 @@ Answering Machine Greetings!
  - [https://nzb360.com](https://nzb360.com)
  - date published: 2024-04-08T19:30:00.974228+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'radarr', 'torrent', 'sonarr', 'usenet']
 
 ## Tying African economic growth to potential tech growth
  - [https://www.oafrica.com](https://www.oafrica.com)
@@ -2563,19 +2629,19 @@ Answering Machine Greetings!
  - [https://ohmyform.com](https://ohmyform.com)
  - date published: 2024-04-08T19:30:01.637954+00:00
  - user: None
- - tags: []
-
-## Oh No Robot: comics search
- - [http://www.ohnorobot.com](http://www.ohnorobot.com)
- - date published: 2024-04-07T14:25:15.412335+00:00
- - user: None
- - tags: []
+ - tags: ['self-host']
 
 ## Oh No Robot: Comics search
  - [https://www.ohnorobot.com](https://www.ohnorobot.com)
  - date published: 2024-04-04T11:21:04+00:00
  - user: None
  - tags: ['comics search engine', 'personal sites source']
+
+## Oh No Robot: comics search
+ - [http://www.ohnorobot.com](http://www.ohnorobot.com)
+ - date published: 2024-04-07T14:25:15.412335+00:00
+ - user: None
+ - tags: []
 
 ## Crude Oil Prices Today | OilPrice.com
  - [https://oilprice.com](https://oilprice.com)
@@ -3223,7 +3289,7 @@ Answering Machine Greetings!
  - [https://www.opensignlabs.com](https://www.opensignlabs.com)
  - date published: 2024-04-08T19:31:55.324546+00:00
  - user: None
- - tags: ['document signing', 'self host']
+ - tags: ['document signing', 'self-host']
 
 ## Search & AI - Solr,Elasticsearch,OpenSearch - Training & Consulting
  - [https://opensourceconnections.com](https://opensourceconnections.com)
@@ -3259,7 +3325,7 @@ Answering Machine Greetings!
  - [https://openstreamingplatform.com](https://openstreamingplatform.com)
  - date published: 2024-04-08T19:30:05.502737+00:00
  - user: None
- - tags: []
+ - tags: ['video streaming', 'self-host']
 
 ## Welcome - Open Subtitles Blog
  - [https://blog.opensubtitles.com](https://blog.opensubtitles.com)
@@ -3773,14 +3839,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## Outside Magazine
- - [http://www.outsideonline.com](http://www.outsideonline.com)
- - date published: 2024-03-23T00:00:00+00:00
+ - [https://www.outsideonline.com](https://www.outsideonline.com)
+ - date published: 2023-10-25T16:28:28.955211+00:00
  - user: None
  - tags: []
 
 ## Outside Magazine
- - [https://www.outsideonline.com](https://www.outsideonline.com)
- - date published: 2023-10-25T16:28:28.955211+00:00
+ - [http://www.outsideonline.com](http://www.outsideonline.com)
+ - date published: 2024-03-23T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4316,7 +4382,7 @@ Answering Machine Greetings!
  - [https://docs.paperless-ngx.com](https://docs.paperless-ngx.com)
  - date published: 2024-04-08T19:28:04.861390+00:00
  - user: None
- - tags: []
+ - tags: ['document library', 'self-host']
 
 ## Paperlike | Official Online Store
  - [http://paperlike.com](http://paperlike.com)
@@ -4334,7 +4400,7 @@ Answering Machine Greetings!
  - [https://papermerge.com](https://papermerge.com)
  - date published: 2024-04-08T19:30:13.568906+00:00
  - user: None
- - tags: []
+ - tags: ['document management system', 'self-host', 'ocr']
 
 ## Paperpile Reference Manager
  - [https://paperpile.com](https://paperpile.com)
@@ -4502,7 +4568,7 @@ Answering Machine Greetings!
  - [https://parseable.com](https://parseable.com)
  - date published: 2024-04-08T19:30:14.844367+00:00
  - user: None
- - tags: []
+ - tags: ['log analytics system', 'self-host']
 
 ## ParseHub | Free web scraping - The most powerful web scraper
  - [https://www.parsehub.com](https://www.parsehub.com)
@@ -4520,7 +4586,7 @@ Answering Machine Greetings!
  - [https://passbolt.com](https://passbolt.com)
  - date published: 2024-04-08T19:30:16.100325+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'password manager', 'open source']
 
 ## Error
  - [https://book.passkey.com](https://book.passkey.com)
@@ -4612,17 +4678,17 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
-## Home — Patreon
- - [http://www.patreon.com](http://www.patreon.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Max  FitzGerald  | Patreon
  - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
  - date published: 2023-10-27T15:07:52+00:00
  - user: rumpel
  - tags: ['turnip28', 'tabletop games']
+
+## Home — Patreon
+ - [http://www.patreon.com](http://www.patreon.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Home — Patreon
  - [https://www.patreon.com](https://www.patreon.com)
@@ -4667,14 +4733,14 @@ Answering Machine Greetings!
  - tags: ['personal']
 
 ## Patrick Yandell
- - [http://patrickyandell.com](http://patrickyandell.com)
- - date published: 2024-04-03T06:29:48.238438+00:00
+ - [https://patrickyandell.com](https://patrickyandell.com)
+ - date published: 2023-11-29T14:24:18.301040+00:00
  - user: None
  - tags: ['personal']
 
 ## Patrick Yandell
- - [https://patrickyandell.com](https://patrickyandell.com)
- - date published: 2023-11-29T14:24:18.301040+00:00
+ - [http://patrickyandell.com](http://patrickyandell.com)
+ - date published: 2024-04-03T06:29:48.238438+00:00
  - user: None
  - tags: ['personal']
 
@@ -4850,7 +4916,7 @@ Answering Machine Greetings!
  - [https://payloadcms.com](https://payloadcms.com)
  - date published: 2024-04-08T19:30:17.456388+00:00
  - user: None
- - tags: []
+ - tags: ['cms', 'self-host']
 
 ## Payload - We cover the business and policy of space.
  - [https://payloadspace.com](https://payloadspace.com)
@@ -4975,6 +5041,12 @@ Answering Machine Greetings!
 ## Easy to use free PDF tools online - pdfux
  - [https://pdfux.com](https://pdfux.com)
  - date published: 2023-10-25T16:31:51.991250+00:00
+ - user: None
+ - tags: []
+
+## Comment Castles
+ - [https://www.peachesnstink.com](https://www.peachesnstink.com)
+ - date published: 2024-04-02T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5579,13 +5651,13 @@ Answering Machine Greetings!
  - tags: []
 
 ## Paul's Dev Notes
- - [https://www.pfrazee.com](https://www.pfrazee.com)
+ - [http://www.pfrazee.com](http://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Paul's Dev Notes
- - [http://www.pfrazee.com](http://www.pfrazee.com)
+ - [https://www.pfrazee.com](https://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -5843,7 +5915,7 @@ Answering Machine Greetings!
  - [https://phpbb.com](https://phpbb.com)
  - date published: 2023-12-13T16:04:04.243437+00:00
  - user: None
- - tags: ['open source', 'selfhost', 'forum software']
+ - tags: ['open source', 'self-host', 'forum software']
 
 ## phpBB • Free and Open Source Forum Software
  - [https://www.phpbb.com](https://www.phpbb.com)
@@ -5852,14 +5924,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## phpied.com
- - [https://www.phpied.com](https://www.phpied.com)
- - date published: 2024-01-15T05:45:17.624527+00:00
+ - [http://www.phpied.com](http://www.phpied.com)
+ - date published: 2024-03-24T15:05:52.476257+00:00
  - user: None
  - tags: []
 
 ## phpied.com
- - [http://www.phpied.com](http://www.phpied.com)
- - date published: 2024-03-24T15:05:52.476257+00:00
+ - [https://www.phpied.com](https://www.phpied.com)
+ - date published: 2024-01-15T05:45:17.624527+00:00
  - user: None
  - tags: []
 
@@ -5934,76 +6006,4 @@ Answering Machine Greetings!
  - date published: 2023-12-27T01:10:03.415030+00:00
  - user: None
  - tags: ['personal']
-
-## PiCockpit
- - [https://picockpit.com](https://picockpit.com)
- - date published: 2023-10-25T16:34:27.996274+00:00
- - user: None
- - tags: []
-
-## PicoLisp Blog
- - [https://picolisp-explored.com](https://picolisp-explored.com)
- - date published: 2023-10-25T16:34:34.579154+00:00
- - user: None
- - tags: []
-
-## PICO Virtual Reality | Official Website | PICO Global
- - [https://www.picoxr.com](https://www.picoxr.com)
- - date published: 2023-10-31T13:12:33.032092+00:00
- - user: None
- - tags: ['virtual reality']
-
-## EEG channels with low-cost PiEEG device
- - [https://pieeg.com](https://pieeg.com)
- - date published: 2024-03-29T19:49:51+00:00
- - user: None
- - tags: []
-
-## Pierce Manufacturing | Custom Fire Trucks, Apparatus & Innovations
- - [https://www.piercemfg.com](https://www.piercemfg.com)
- - date published: 2024-04-05T18:55:43.098196+00:00
- - user: None
- - tags: []
-
-## Pietro Rea
- - [https://pietrorea.com](https://pietrorea.com)
- - date published: 2023-10-25T16:34:36.288257+00:00
- - user: None
- - tags: []
-
-## Pietro Rea
- - [https://www.pietrorea.com](https://www.pietrorea.com)
- - date published: 2023-10-25T16:34:45.291873+00:00
- - user: None
- - tags: []
-
-## ShanDong Tengyue Shangqingtai Agriculture And Animal Husbandry Machinery Technology Co., Ltd.
- - [https://www.pigfarmequipments.com](https://www.pigfarmequipments.com)
- - date published: 2023-11-22T11:04:42.133720+00:00
- - user: None
- - tags: []
-
-## Blog | Piglei
- - [https://www.piglei.com](https://www.piglei.com)
- - date published: 2024-02-23T17:03:53.747353+00:00
- - user: None
- - tags: ['personal']
-
-## Automate your marketing visuals using Figma
- - [https://pikmaker.com](https://pikmaker.com)
- - date published: 2023-10-25T16:34:47.831381+00:00
- - user: None
- - tags: []
-
-## Pikuma: Fundamentals of computer science and mathematics
- - [https://pikuma.com](https://pikuma.com)
- - date published: 2023-10-25T16:34:51.221525+00:00
- - user: None
- - tags: []
-
-## Tech-Tutorials, Howtos and buying advice
- - [https://pilabor.com](https://pilabor.com)
- - date published: 2023-10-25T16:34:53.491317+00:00
- - user: None
- - tags: []
 

@@ -1,4 +1,10 @@
 ## Svarichevsky Mikhail
+ - [http://3.14.by](http://3.14.by)
+ - date published: 2024-02-26T13:20:29.028020+00:00
+ - user: None
+ - tags: []
+
+## Svarichevsky Mikhail
  - [https://3.14.by](https://3.14.by)
  - date published: 2024-01-16T06:21:34.423774+00:00
  - user: None
@@ -442,6 +448,12 @@
  - user: None
  - tags: []
 
+## Embit - Signals from Technosphere
+ - [https://embit.ca](https://embit.ca)
+ - date published: 2024-04-09T20:06:35.143210+00:00
+ - user: None
+ - tags: ['tech news']
+
 ## Evan Jones - Software Engineer | Computer Scientist
  - [https://www.evanjones.ca](https://www.evanjones.ca)
  - date published: 2023-10-25T12:04:49.962005+00:00
@@ -802,15 +814,15 @@
  - user: None
  - tags: []
 
-## Novak Family
- - [http://novak.ca](http://novak.ca)
- - date published: 2024-04-03T06:29:56.862797+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [https://novak.ca](https://novak.ca)
  - date published: 2024-01-11T02:12:34.554251+00:00
+ - user: None
+ - tags: ['personal']
+
+## Novak Family
+ - [http://novak.ca](http://novak.ca)
+ - date published: 2024-04-03T06:29:56.862797+00:00
  - user: None
  - tags: ['personal']
 
@@ -965,14 +977,14 @@
  - tags: ['personal']
 
 ## Scott Redmond
- - [http://www.scottredmond.ca](http://www.scottredmond.ca)
- - date published: 2024-04-03T12:49:31.889702+00:00
+ - [https://www.scottredmond.ca](https://www.scottredmond.ca)
+ - date published: 2024-01-23T03:27:52.039443+00:00
  - user: None
  - tags: ['personal']
 
 ## Scott Redmond
- - [https://www.scottredmond.ca](https://www.scottredmond.ca)
- - date published: 2024-01-23T03:27:52.039443+00:00
+ - [http://www.scottredmond.ca](http://www.scottredmond.ca)
+ - date published: 2024-04-03T12:49:31.889702+00:00
  - user: None
  - tags: ['personal']
 
@@ -1631,11 +1643,11 @@
  - user: None
  - tags: []
 
-## None
+## Lodestone
  - [https://www.lodestone.cc](https://www.lodestone.cc)
- - date published: 2024-04-08T19:31:50.531597+00:00
- - user: None
- - tags: ['game hosting', 'minecraft', 'self host']
+ - date published: 2024-04-08T19:31:50+00:00
+ - user: rumpel
+ - tags: ['game hosting', 'minecraft', 'self-host']
 
 ## Lowpass
  - [https://www.lowpass.cc](https://www.lowpass.cc)
@@ -2755,14 +2767,14 @@
  - tags: []
 
 ## Hundred Rabbits
- - [http://100r.co](http://100r.co)
- - date published: 2024-02-25T20:48:03.755636+00:00
+ - [https://100r.co](https://100r.co)
+ - date published: 2023-10-25T12:16:22.299825+00:00
  - user: None
  - tags: []
 
 ## Hundred Rabbits
- - [https://100r.co](https://100r.co)
- - date published: 2023-10-25T12:16:22.299825+00:00
+ - [http://100r.co](http://100r.co)
+ - date published: 2024-02-25T20:48:03.755636+00:00
  - user: None
  - tags: []
 
@@ -3220,7 +3232,7 @@
  - [https://fractalnetworks.co](https://fractalnetworks.co)
  - date published: 2024-04-08T19:28:33.192713+00:00
  - user: None
- - tags: []
+ - tags: ['self host source']
 
 ## Guy Moorhouse — Design, branding, prototyping and build
  - [https://www.futurefabric.co](https://www.futurefabric.co)
@@ -3250,7 +3262,7 @@
  - [https://getdewey.co](https://getdewey.co)
  - date published: 2023-11-26T16:44:03+00:00
  - user: rumpel
- - tags: ['bookmark manager']
+ - tags: ['link aggregator', 'bookmark manager']
 
 ## https://help.getrevue.co
  - [https://help.getrevue.co](https://help.getrevue.co)
@@ -3391,14 +3403,14 @@
  - tags: []
 
 ## Jonny Miller
- - [http://www.jonnymiller.co](http://www.jonnymiller.co)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://www.jonnymiller.co](https://www.jonnymiller.co)
+ - date published: 2024-01-08T15:36:50.624044+00:00
  - user: None
  - tags: []
 
 ## Jonny Miller
- - [https://www.jonnymiller.co](https://www.jonnymiller.co)
- - date published: 2024-01-08T15:36:50.624044+00:00
+ - [http://www.jonnymiller.co](http://www.jonnymiller.co)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3445,14 +3457,14 @@
  - tags: []
 
 ## Learn With Me – A Resource for Mindful Living
- - [https://learnwithme.co](https://learnwithme.co)
- - date published: 2023-12-29T20:10:41.952123+00:00
+ - [http://learnwithme.co](http://learnwithme.co)
+ - date published: 2024-04-03T06:26:23.438321+00:00
  - user: None
  - tags: ['personal']
 
 ## Learn With Me – A Resource for Mindful Living
- - [http://learnwithme.co](http://learnwithme.co)
- - date published: 2024-04-03T06:26:23.438321+00:00
+ - [https://learnwithme.co](https://learnwithme.co)
+ - date published: 2023-12-29T20:10:41.952123+00:00
  - user: None
  - tags: ['personal']
 
@@ -3538,7 +3550,7 @@
  - [https://maybe.co](https://maybe.co)
  - date published: 2024-04-08T19:29:37.379194+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'retirement', 'financial planning']
 
 ## MD&A | Philo | Substack
  - [https://www.md-a.co](https://www.md-a.co)
@@ -3832,7 +3844,7 @@
  - [https://rallly.co](https://rallly.co)
  - date published: 2024-04-08T19:30:31.190492+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'polls']
 
 ## RankedVote: Online Ranked-Choice Voting Polls
  - [https://www.rankedvote.co](https://www.rankedvote.co)
@@ -4117,14 +4129,14 @@
  - tags: []
 
 ## Travel Hungry: Great Tastes From Stuttgart & Beyond
- - [http://travelhungry.co](http://travelhungry.co)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://travelhungry.co](https://travelhungry.co)
+ - date published: 2023-10-25T12:24:24.607320+00:00
  - user: None
  - tags: []
 
 ## Travel Hungry: Great Tastes From Stuttgart & Beyond
- - [https://travelhungry.co](https://travelhungry.co)
- - date published: 2023-10-25T12:24:24.607320+00:00
+ - [http://travelhungry.co](http://travelhungry.co)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5102,17 +5114,17 @@
  - user: None
  - tags: ['personal']
 
-## Coming Soon
- - [https://aaronshbeeb.com](https://aaronshbeeb.com)
- - date published: 2023-12-17T20:59:02.532105+00:00
- - user: None
- - tags: ['personal']
-
 ## Home - Aaron Shbeeb
  - [http://aaronshbeeb.com](http://aaronshbeeb.com)
  - date published: 2024-04-03T00:00:00+00:00
  - user: None
  - tags: []
+
+## Coming Soon
+ - [https://aaronshbeeb.com](https://aaronshbeeb.com)
+ - date published: 2023-12-17T20:59:02.532105+00:00
+ - user: None
+ - tags: ['personal']
 
 ## AaronStrick.com
  - [https://aaronstrick.com](https://aaronstrick.com)
@@ -5120,15 +5132,15 @@
  - user: None
  - tags: ['personal']
 
-## None
- - [https://www.aaronsw.com](https://www.aaronsw.com)
- - date published: 2024-01-09T01:38:10.984994+00:00
- - user: None
- - tags: []
-
 ## Aaron Swartz
  - [http://www.aaronsw.com](http://www.aaronsw.com)
  - date published: 2009-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.aaronsw.com](https://www.aaronsw.com)
+ - date published: 2024-01-09T01:38:10.984994+00:00
  - user: None
  - tags: []
 
@@ -5727,14 +5739,14 @@
  - tags: []
 
 ## Adam Fisher
- - [http://adamfishertrumpet.com](http://adamfishertrumpet.com)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://adamfishertrumpet.com](https://adamfishertrumpet.com)
+ - date published: 2024-01-09T02:29:07.213553+00:00
  - user: None
  - tags: []
 
 ## Adam Fisher
- - [https://adamfishertrumpet.com](https://adamfishertrumpet.com)
- - date published: 2024-01-09T02:29:07.213553+00:00
+ - [http://adamfishertrumpet.com](http://adamfishertrumpet.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5989,18 +6001,6 @@
 ## None
  - [https://www.adrianriv.com](https://www.adrianriv.com)
  - date published: 2024-02-22T13:05:19.514220+00:00
- - user: None
- - tags: []
-
-## Adrian Stobbe
- - [https://adrianstobbe.com](https://adrianstobbe.com)
- - date published: 2024-01-21T18:21:57.044810+00:00
- - user: None
- - tags: []
-
-## https://nutri.adrianstobbe.com
- - [https://nutri.adrianstobbe.com](https://nutri.adrianstobbe.com)
- - date published: 2000-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

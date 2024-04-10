@@ -1,3 +1,69 @@
+## Marginal REVOLUTION - Small Steps Toward A Much Better World
+ - [https://marginalrevolution.com](https://marginalrevolution.com)
+ - date published: 2023-10-25T15:56:20.591120+00:00
+ - user: None
+ - tags: []
+
+## Maria Brophy - Create the career and life of your dreams
+ - [https://mariabrophy.com](https://mariabrophy.com)
+ - date published: 2024-04-03T12:49:25.311629+00:00
+ - user: None
+ - tags: ['personal']
+
+## MariaDB - Investor Relations
+ - [https://investors.mariadb.com](https://investors.mariadb.com)
+ - date published: 2023-10-25T15:56:22.248200+00:00
+ - user: None
+ - tags: []
+
+## Maria Erving | Transformational Teacher | Alignment | Flow of Life
+ - [https://mariaerving.com](https://mariaerving.com)
+ - date published: 2024-01-06T08:52:56.890384+00:00
+ - user: None
+ - tags: []
+
+## Maria Laura Skinner
+ - [https://mariaskinner.com](https://mariaskinner.com)
+ - date published: 2023-12-28T18:49:25.685557+00:00
+ - user: None
+ - tags: ['personal']
+
+## Performance | MarielisGarcia
+ - [https://www.marielisgarcia.com](https://www.marielisgarcia.com)
+ - date published: 2024-01-10T23:52:06.653575+00:00
+ - user: None
+ - tags: []
+
+## Marin Comics
+ - [https://marincomics.com](https://marincomics.com)
+ - date published: 2023-12-06T16:02:30.090519+00:00
+ - user: None
+ - tags: []
+
+## Marine Insight - The Maritime Industry Guide
+ - [https://www.marineinsight.com](https://www.marineinsight.com)
+ - date published: 2023-10-25T15:56:27.679998+00:00
+ - user: None
+ - tags: []
+
+## Mario Kart Wii Gecko Codes, Cheats, & Hacks
+ - [https://mariokartwii.com](https://mariokartwii.com)
+ - date published: 2024-01-16T07:52:53.046091+00:00
+ - user: None
+ - tags: []
+
+## Marion County RECORD
+ - [http://marionrecord.com](http://marionrecord.com)
+ - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Marion County RECORD | Newspaper from Marion KS | Oct. 18, 2023
+ - [https://marionrecord.com](https://marionrecord.com)
+ - date published: 2023-10-25T15:56:29.822192+00:00
+ - user: None
+ - tags: []
+
 ## Mario Sangiorgio
  - [https://www.mariosangiorgio.com](https://www.mariosangiorgio.com)
  - date published: 2024-01-11T13:28:59.977327+00:00
@@ -2643,7 +2709,7 @@
  - [https://meshcentral.com](https://meshcentral.com)
  - date published: 2024-04-08T19:29:42.043439+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'iot management']
 
 ## The Meson Build system
  - [https://mesonbuild.com](https://mesonbuild.com)
@@ -2679,7 +2745,7 @@
  - [https://metabase.com](https://metabase.com)
  - date published: 2024-04-08T19:29:43.849738+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'sql analysis']
 
 ## μεταcole
  - [https://metacole.com](https://metacole.com)
@@ -3330,14 +3396,14 @@
  - tags: []
 
 ## Cloud-Based Medical Office Software & Billing Services
- - [https://www.microwize.com](https://www.microwize.com)
- - date published: 2024-01-10T14:29:04.664029+00:00
+ - [http://www.microwize.com](http://www.microwize.com)
+ - date published: 2024-04-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Cloud-Based Medical Office Software & Billing Services
- - [http://www.microwize.com](http://www.microwize.com)
- - date published: 2024-04-01T00:00:00+00:00
+ - [https://www.microwize.com](https://www.microwize.com)
+ - date published: 2024-01-10T14:29:04.664029+00:00
  - user: None
  - tags: []
 
@@ -3408,14 +3474,14 @@
  - tags: []
 
 ## Sprezzatura
- - [https://mikaelsyding.com](https://mikaelsyding.com)
- - date published: 2023-12-31T21:20:59.573845+00:00
+ - [http://mikaelsyding.com](http://mikaelsyding.com)
+ - date published: 2024-03-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Sprezzatura
- - [http://mikaelsyding.com](http://mikaelsyding.com)
- - date published: 2024-03-21T00:00:00+00:00
+ - [https://mikaelsyding.com](https://mikaelsyding.com)
+ - date published: 2023-12-31T21:20:59.573845+00:00
  - user: None
  - tags: []
 
@@ -3802,7 +3868,7 @@
  - [https://p2p.mirotalk.com](https://p2p.mirotalk.com)
  - date published: 2024-04-08T19:30:10.302707+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'video calls']
 
 ## Misalignment Museum
  - [https://misalignmentmuseum.com](https://misalignmentmuseum.com)
@@ -4168,7 +4234,7 @@
  - [https://modrinth.com](https://modrinth.com)
  - date published: 2023-10-25T11:16:51.066359+00:00
  - user: None
- - tags: []
+ - tags: ['minecraft', 'mods']
 
 ## Modular Docs
  - [https://docs.modular.com](https://docs.modular.com)
@@ -4810,7 +4876,7 @@
  - [https://mrcrayfish.com](https://mrcrayfish.com)
  - date published: 2023-10-25T11:16:52.437350+00:00
  - user: None
- - tags: []
+ - tags: ['minecraft', 'mods']
 
 ## Daniel Bourke
  - [https://www.mrdbourke.com](https://www.mrdbourke.com)
@@ -5260,7 +5326,7 @@
  - [https://mylarcomics.com](https://mylarcomics.com)
  - date published: 2024-04-08T19:29:52.705843+00:00
  - user: None
- - tags: []
+ - tags: ['comics library', 'self-host']
 
 ## Mango Mail - Email Hosting
  - [https://mymangomail.com](https://mymangomail.com)
@@ -5933,70 +5999,4 @@
  - date published: 2023-10-25T11:05:51.814430+00:00
  - user: None
  - tags: []
-
-## NBC 7 San Diego
- - [https://www.nbcsandiego.com](https://www.nbcsandiego.com)
- - date published: 2024-03-13T21:06:05.363632+00:00
- - user: None
- - tags: []
-
-## NCC Group Research Blog | Making the world safer and more secure
- - [https://research.nccgroup.com](https://research.nccgroup.com)
- - date published: 2023-10-25T16:13:05.140594+00:00
- - user: None
- - tags: []
-
-## North Carolina Rabbit Hole | Jeremy Markovich | Substack
- - [https://www.ncrabbithole.com](https://www.ncrabbithole.com)
- - date published: 2023-10-25T16:13:08.969926+00:00
- - user: None
- - tags: []
-
-## NCZAS.COM | Najwyższy CZAS! Najnowsze informacje z Polski, Europy i Świata. Wolnościowe spojrzenie, bez poprawności politycznej
- - [https://nczas.com](https://nczas.com)
- - date published: 2023-10-25T10:14:32.674298+00:00
- - user: None
- - tags: []
-
-## Nicholas A. Danes, PhD · Nicholas A. Danes, PhD
- - [https://ndanes.com](https://ndanes.com)
- - date published: 2023-12-13T20:58:32.247509+00:00
- - user: None
- - tags: ['personal']
-
-## NDC Conferences
- - [https://ndcconferences.com](https://ndcconferences.com)
- - date published: 2024-01-20T09:05:28.470002+00:00
- - user: None
- - tags: []
-
-## NDC Porto 2024 | Conference for Software Developers
- - [https://ndcporto.com](https://ndcporto.com)
- - date published: 2024-01-20T09:05:35.144081+00:00
- - user: None
- - tags: []
-
-## NDepend Blog - Improve your .NET code quality with NDepend
- - [https://blog.ndepend.com](https://blog.ndepend.com)
- - date published: 2023-10-25T16:13:13.613302+00:00
- - user: None
- - tags: []
-
-## Get Latest News, India News, Breaking News, Today's News - NDTV.com
- - [https://www.ndtv.com](https://www.ndtv.com)
- - date published: 2023-10-25T16:13:21.078054+00:00
- - user: None
- - tags: []
-
-## Home - NDY
- - [https://ndy.com](https://ndy.com)
- - date published: 2024-01-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Neal Ungerleider
- - [https://www.nealungerleider.com](https://www.nealungerleider.com)
- - date published: 2023-12-10T11:33:52.726783+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,165 @@
+## אוניברסיטת בן-גוריון בנגב - ברוכים הבאים וברוכות הבאות
+ - [https://www.bgu.ac.il](https://www.bgu.ac.il)
+ - date published: 2024-03-21T13:48:25.965232+00:00
+ - user: None
+ - tags: []
+
+## Jerusalem Journal of Archaeology
+ - [https://jjar.huji.ac.il](https://jjar.huji.ac.il)
+ - date published: 2023-10-25T19:29:26.869067+00:00
+ - user: None
+ - tags: []
+
+## Tel Aviv University | Tel Aviv University
+ - [https://english.tau.ac.il](https://english.tau.ac.il)
+ - date published: 2023-10-25T19:29:32.967224+00:00
+ - user: None
+ - tags: []
+
+## Weizmann Wonder Wander - News, Features and Discoveries from the Weizmann Institute of Science
+ - [https://wis-wander.weizmann.ac.il](https://wis-wander.weizmann.ac.il)
+ - date published: 2023-10-25T10:11:36.340185+00:00
+ - user: None
+ - tags: []
+
+## Первое радио 89.1FM
+ - [https://www.891fm.co.il](https://www.891fm.co.il)
+ - date published: 2024-02-08T21:49:59.501224+00:00
+ - user: None
+ - tags: []
+
+## דף הבית - ערן שטרן
+ - [https://www.eranstern.co.il](https://www.eranstern.co.il)
+ - date published: 2023-11-17T15:06:30+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Globes - Israel Business News
+ - [https://en.globes.co.il](https://en.globes.co.il)
+ - date published: 2024-02-27T00:00:00+00:00
+ - user: None
+ - tags: ['business news', 'israel news']
+
+## הארץ - חדשות, ידיעות מהארץ והעולם - עיתון הארץ
+ - [https://img.haarets.co.il](https://img.haarets.co.il)
+ - date published: 2023-12-04T15:32:28.521089+00:00
+ - user: None
+ - tags: []
+
+## חדשות, דעות, תרבות, ספורט, כלכלה מהארץ והעולם | ישראל היום
+ - [https://www.israelhayom.co.il](https://www.israelhayom.co.il)
+ - date published: 2023-12-09T19:39:09.657744+00:00
+ - user: None
+ - tags: []
+
+## Israeli Diamond Industry
+ - [https://en.israelidiamond.co.il](https://en.israelidiamond.co.il)
+ - date published: 2024-01-24T20:54:31.768580+00:00
+ - user: None
+ - tags: []
+
+## Israel Today - News & Commentary. Stay Informed, Pray Informed.
+ - [https://www.israeltoday.co.il](https://www.israeltoday.co.il)
+ - date published: 2023-11-09T09:15:33.642354+00:00
+ - user: None
+ - tags: ['israel news']
+
+## Teaching Python and data science around the world
+ - [https://lerner.co.il](https://lerner.co.il)
+ - date published: 2023-10-27T11:57:12.193154+00:00
+ - user: None
+ - tags: []
+
+## mako חדשות. בידור. טלוויזיה
+ - [https://mako.co.il](https://mako.co.il)
+ - date published: 2024-02-25T21:52:04+00:00
+ - user: rumpel
+ - tags: []
+
+## - האתר של ד"ר דודו - מגוון טיולי איכות פרטיים ברמה גבוהה בהתאמה אישית וכן מידע אישי רב ומעודכן על נושאים ואזורים שונים בתאילנד - חלקם לא מוכר לישראלים
+ - [https://mythailand.co.il](https://mythailand.co.il)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ynet - חדשות, כלכלה, ספורט ובריאות - דיווחים שוטפים מהארץ ומהעולם
+ - [https://www.ynet.co.il](https://www.ynet.co.il)
+ - date published: 2024-03-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://supreme.court.gov.il](https://supreme.court.gov.il)
+ - date published: 2024-01-09T03:32:15.467545+00:00
+ - user: None
+ - tags: []
+
+## https://www.idf.il
+ - [https://www.idf.il](https://www.idf.il)
+ - date published: 2023-11-13T20:52:27.483837+00:00
+ - user: None
+ - tags: []
+
+## https://en.idi.org.il
+ - [https://en.idi.org.il](https://en.idi.org.il)
+ - date published: 2023-12-31T18:32:18.786003+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.kan.org.il](https://www.kan.org.il)
+ - date published: 2024-03-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Steven Spielberg
+ - [https://www.spielbergfilmarchive.org.il](https://www.spielbergfilmarchive.org.il)
+ - date published: 2023-11-13T12:53:02.637342+00:00
+ - user: None
+ - tags: []
+
+## Avinash Sajjanshetty
+ - [https://avi.im](https://avi.im)
+ - date published: 2023-10-25T19:29:34.523543+00:00
+ - user: None
+ - tags: ['personal']
+
+## Blot – Turn a folder into a website
+ - [https://blot.im](https://blot.im)
+ - date published: 2023-12-29T19:59:39.820777+00:00
+ - user: None
+ - tags: []
+
+## ¡hola! 🐈 mi nombre es Fernanda Carvajal Gómez 👩🏻‍💻 - Fernanda Carvajal Gómez 🐈
+ - [https://fernandacarvajal.blot.im](https://fernandacarvajal.blot.im)
+ - date published: 2024-01-31T18:44:43.210925+00:00
+ - user: None
+ - tags: []
+
+## Lachlan Gray
+ - [https://lachlangray.blot.im](https://lachlangray.blot.im)
+ - date published: 2023-10-25T19:29:36.419354+00:00
+ - user: None
+ - tags: []
+
+## Chitchatter
+ - [https://chitchatter.im](https://chitchatter.im)
+ - date published: 2023-10-25T19:29:37.689121+00:00
+ - user: None
+ - tags: []
+
+## Dino. Communicating happiness.
+ - [https://dino.im](https://dino.im)
+ - date published: 2023-10-25T19:29:39.810980+00:00
+ - user: None
+ - tags: []
+
+## Embed.im
+ - [https://embed.im](https://embed.im)
+ - date published: 2023-10-25T19:29:47.571380+00:00
+ - user: None
+ - tags: []
+
 ## frantic.im / frantic.im
  - [https://frantic.im](https://frantic.im)
  - date published: 2023-10-25T19:29:49.742667+00:00
@@ -71,6 +233,12 @@
  - user: None
  - tags: []
 
+## talk with humans - sqwok
+ - [https://sqwok.im](https://sqwok.im)
+ - date published: 2024-04-09T20:07:53.679860+00:00
+ - user: None
+ - tags: []
+
 ## Peter Saint-Andre
  - [https://stpeter.im](https://stpeter.im)
  - date published: 2023-11-15T17:36:31.286138+00:00
@@ -86,6 +254,12 @@
 ## Amiga Informatics
  - [https://amigainformatics.co.in](https://amigainformatics.co.in)
  - date published: 2024-01-09T03:32:27.305771+00:00
+ - user: None
+ - tags: []
+
+## Get Latest CIO News from around the globe
+ - [https://cionews.co.in](https://cionews.co.in)
+ - date published: 2022-06-17T05:40:20+00:00
  - user: None
  - tags: []
 
@@ -374,6 +548,12 @@
 ## People Matters - Interstitial Site — People Matters
  - [https://www.peoplematters.in](https://www.peoplematters.in)
  - date published: 2023-12-30T10:51:03.411573+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Pinboard—Social bookmarking for introverts!
+ - [https://pinboard.in](https://pinboard.in)
+ - date published: 2024-04-09T20:07:42.260722+00:00
  - user: None
  - tags: []
 
@@ -981,7 +1161,7 @@
  - [https://www.mumble.info](https://www.mumble.info)
  - date published: 2024-04-08T19:31:53.032978+00:00
  - user: None
- - tags: ['chat application', 'self host']
+ - tags: ['chat application', 'self-host']
 
 ## index
  - [https://www.ndblist.info](https://www.ndblist.info)
@@ -1089,7 +1269,7 @@
  - [https://privatebin.info](https://privatebin.info)
  - date published: 2024-04-08T19:30:25.852506+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'pastebin']
 
 ## Eusebeia
  - [https://www.qfbox.info](https://www.qfbox.info)
@@ -1266,14 +1446,14 @@
  - tags: []
 
 ## TVP Info - najnowsze informacje z kraju i ze świata, wideo, transmisje on-line i relacje na żywo.
- - [http://www.tvp.info](http://www.tvp.info)
- - date published: 2024-02-26T13:23:41.448557+00:00
+ - [https://www.tvp.info](https://www.tvp.info)
+ - date published: 2023-10-25T19:35:11.469749+00:00
  - user: None
  - tags: []
 
 ## TVP Info - najnowsze informacje z kraju i ze świata, wideo, transmisje on-line i relacje na żywo.
- - [https://www.tvp.info](https://www.tvp.info)
- - date published: 2023-10-25T19:35:11.469749+00:00
+ - [http://www.tvp.info](http://www.tvp.info)
+ - date published: 2024-02-26T13:23:41.448557+00:00
  - user: None
  - tags: []
 
@@ -1356,14 +1536,14 @@
  - tags: []
 
 ## ∑ Xah Code
- - [https://xahlee.info](https://xahlee.info)
- - date published: 2024-01-29T11:11:38+00:00
+ - [http://xahlee.info](http://xahlee.info)
+ - date published: 2023-10-25T19:35:40.088312+00:00
  - user: rumpel
  - tags: []
 
 ## ∑ Xah Code
- - [http://xahlee.info](http://xahlee.info)
- - date published: 2023-10-25T19:35:40.088312+00:00
+ - [https://xahlee.info](https://xahlee.info)
+ - date published: 2024-01-29T11:11:38+00:00
  - user: rumpel
  - tags: []
 
@@ -1593,7 +1773,7 @@
  - [https://addy.io](https://addy.io)
  - date published: 2024-04-08T19:26:48.862216+00:00
  - user: None
- - tags: ['mail forwarding', 'self host']
+ - tags: ['mail forwarding', 'self-host']
 
 ## AdGuard DNS — ad-blocking DNS server
  - [https://adguard-dns.io](https://adguard-dns.io)
@@ -1674,14 +1854,14 @@
  - tags: []
 
 ## American Express Technology
- - [https://americanexpress.io](https://americanexpress.io)
- - date published: 2023-10-25T19:37:33.148951+00:00
+ - [http://americanexpress.io](http://americanexpress.io)
+ - date published: 2024-02-25T14:44:25.925967+00:00
  - user: None
  - tags: []
 
 ## American Express Technology
- - [http://americanexpress.io](http://americanexpress.io)
- - date published: 2024-02-25T14:44:25.925967+00:00
+ - [https://americanexpress.io](https://americanexpress.io)
+ - date published: 2023-10-25T19:37:33.148951+00:00
  - user: None
  - tags: []
 
@@ -1731,6 +1911,12 @@
  - [https://apihandyman.io](https://apihandyman.io)
  - date published: 2023-10-25T19:37:41.287684+00:00
  - user: None
+ - tags: []
+
+## Apollo for Reddit
+ - [https://apolloapp.io](https://apolloapp.io)
+ - date published: 2023-06-30T00:00:00+00:00
+ - user: rumpel
  - tags: []
 
 ## Rebrandly
@@ -1785,7 +1971,7 @@
  - [https://archivebox.io](https://archivebox.io)
  - date published: 2024-01-13T21:35:55.884727+00:00
  - user: None
- - tags: ['self host']
+ - tags: ['self-host', 'web archive']
 
 ## Open-source data curation platform for LLMs
  - [https://argilla.io](https://argilla.io)
@@ -1899,7 +2085,7 @@
  - [https://baserow.io](https://baserow.io)
  - date published: 2024-04-08T19:27:08.496507+00:00
  - user: None
- - tags: ['open source', 'database engine', 'self host']
+ - tags: ['open source', 'database engine', 'self-host']
 
 ## https://assets.bbhub.io
  - [https://assets.bbhub.io](https://assets.bbhub.io)
@@ -1971,7 +2157,7 @@
  - [https://gravity.beryju.io](https://gravity.beryju.io)
  - date published: 2024-04-08T19:28:43.478137+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'dhcp server', 'dns server']
 
 ## Hacker News Summary - by ChatGPT
  - [https://hackernews.betacat.io](https://hackernews.betacat.io)
@@ -2045,6 +2231,12 @@
  - user: None
  - tags: []
 
+## blogboard.io
+ - [https://blogboard.io](https://blogboard.io)
+ - date published: 2024-04-09T20:06:29.227927+00:00
+ - user: None
+ - tags: ['tech news']
+
 ## Matt Blewitt
  - [https://matt.blwt.io](https://matt.blwt.io)
  - date published: 2023-10-25T19:38:43.360921+00:00
@@ -2067,7 +2259,7 @@
  - [https://booky.io](https://booky.io)
  - date published: 2023-11-26T16:45:14+00:00
  - user: rumpel
- - tags: ['bookmark manager']
+ - tags: ['link aggregator', 'bookmark manager']
 
 ## Redirecting
  - [https://bpfman.io](https://bpfman.io)
@@ -2205,7 +2397,7 @@
  - [https://changedetection.io](https://changedetection.io)
  - date published: 2024-04-08T19:27:23.298005+00:00
  - user: None
- - tags: ['website checker', 'self host']
+ - tags: ['website checker', 'self-host']
 
 ## Chris Jones | chrisjones.io
  - [https://chrisjones.io](https://chrisjones.io)
@@ -2337,7 +2529,7 @@
  - [https://commento.io](https://commento.io)
  - date published: 2024-04-08T19:27:30.676516+00:00
  - user: None
- - tags: ['self host']
+ - tags: ['self-host']
 
 ## CommodityAI
  - [https://commodityai.io](https://commodityai.io)
@@ -2409,7 +2601,7 @@
  - [https://cosmos-cloud.io](https://cosmos-cloud.io)
  - date published: 2024-04-08T19:27:33.413763+00:00
  - user: None
- - tags: ['it cloud', 'self host']
+ - tags: ['it cloud', 'self-host']
 
 ## Cotten.IO
  - [https://blog.cotten.io](https://blog.cotten.io)
@@ -2859,7 +3051,7 @@
  - [https://evershop.io](https://evershop.io)
  - date published: 2024-04-08T19:28:14.615302+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'e-commerce']
 
 ## Everstrike Blog
  - [https://blog.everstrike.io](https://blog.everstrike.io)
@@ -3081,7 +3273,7 @@
  - [https://gatus.io](https://gatus.io)
  - date published: 2024-04-08T19:28:34.536516+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'application monitor']
 
 ## Projects | gbdev.io
  - [https://gbdev.io](https://gbdev.io)
@@ -4820,6 +5012,12 @@ through Composable Diffusion
  - tags: []
 
 ## Andrej Karpathy blog
+ - [http://karpathy.github.io](http://karpathy.github.io)
+ - date published: 2024-04-09T14:16:33.676719+00:00
+ - user: None
+ - tags: ['personal']
+
+## Andrej Karpathy blog
  - [https://karpathy.github.io](https://karpathy.github.io)
  - date published: 2023-10-25T19:47:36.949565+00:00
  - user: None
@@ -5635,15 +5833,15 @@ through Composable Diffusion
  - user: None
  - tags: []
 
-## Oasis | A Repository of Project Ideas
- - [http://oasis-of-ideas.github.io](http://oasis-of-ideas.github.io)
- - date published: 2024-02-29T14:58:25.399088+00:00
- - user: None
- - tags: []
-
 ## Show HN: Oasis – A Repository of Project Ideas
  - [https://oasis-of-ideas.github.io](https://oasis-of-ideas.github.io)
  - date published: 2023-11-29T20:46:27+00:00
+ - user: None
+ - tags: []
+
+## Oasis | A Repository of Project Ideas
+ - [http://oasis-of-ideas.github.io](http://oasis-of-ideas.github.io)
+ - date published: 2024-02-29T14:58:25.399088+00:00
  - user: None
  - tags: []
 
@@ -5783,7 +5981,7 @@ through Composable Diffusion
  - [https://photoview.github.io](https://photoview.github.io)
  - date published: 2024-04-08T19:30:20.339984+00:00
  - user: None
- - tags: []
+ - tags: ['photo library', 'self-host']
 
 ## Home
  - [https://pit-ray.github.io](https://pit-ray.github.io)
@@ -5800,204 +5998,6 @@ through Composable Diffusion
 ## Home | Piotr Kołaczkowski
  - [https://pkolaczk.github.io](https://pkolaczk.github.io)
  - date published: 2023-10-25T19:51:12.806431+00:00
- - user: None
- - tags: []
-
-## Parth Parikh
- - [https://pncnmnp.github.io](https://pncnmnp.github.io)
- - date published: 2023-10-25T19:51:14.101250+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://poignardazur.github.io](https://poignardazur.github.io)
- - date published: 2023-10-25T08:59:13.836226+00:00
- - user: None
- - tags: ['personal']
-
-## Polymer Legal Files
- - [https://polymer.github.io](https://polymer.github.io)
- - date published: 2024-01-09T03:32:54.098760+00:00
- - user: None
- - tags: []
-
-## Pomax.github.io
- - [https://pomax.github.io](https://pomax.github.io)
- - date published: 2023-10-25T19:51:15.362291+00:00
- - user: None
- - tags: []
-
-## Portavita Devblog
- - [https://portavita.github.io](https://portavita.github.io)
- - date published: 2023-10-29T06:20:24.653388+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://posit-dev.github.io](https://posit-dev.github.io)
- - date published: 2024-04-05T09:36:09.633164+00:00
- - user: None
- - tags: []
-
-## Tom Hulton-Harrop | A programming blog
- - [https://pr0g.github.io](https://pr0g.github.io)
- - date published: 2023-10-25T19:51:17.054227+00:00
- - user: None
- - tags: []
-
-## Redirecting to https://humantorch.github.io/
- - [https://prayingmadness.github.io](https://prayingmadness.github.io)
- - date published: 2024-01-16T23:54:06.566120+00:00
- - user: None
- - tags: []
-
-## precondition
- - [https://precondition.github.io](https://precondition.github.io)
- - date published: 2023-12-03T17:58:27.872171+00:00
- - user: None
- - tags: []
-
-## Premake
- - [https://premake.github.io](https://premake.github.io)
- - date published: 2024-03-07T13:00:31.309979+00:00
- - user: None
- - tags: []
-
-## Pretzel
- - [https://pretzelai.github.io](https://pretzelai.github.io)
- - date published: 2024-03-15T18:22:10.368503+00:00
- - user: None
- - tags: []
-
-## 🏠 Home
- - [https://prirai.github.io](https://prirai.github.io)
- - date published: 2023-10-25T19:51:18.689447+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://probablykam.github.io](https://probablykam.github.io)
- - date published: 2024-01-11T02:25:21.330455+00:00
- - user: None
- - tags: []
-
-## https://probml.github.io
- - [https://probml.github.io](https://probml.github.io)
- - date published: 2024-01-09T03:32:59.702707+00:00
- - user: None
- - tags: []
-
-## Xu Li - Software Developer & Data Scientist
- - [https://programmerasahi.github.io](https://programmerasahi.github.io)
- - date published: 2024-02-08T16:48:17.612676+00:00
- - user: None
- - tags: []
-
-## Inside thoughts
- - [https://pthorpe92.github.io](https://pthorpe92.github.io)
- - date published: 2023-11-11T16:04:42.813857+00:00
- - user: None
- - tags: []
-
-## None
- - [https://ptrkbrn.github.io](https://ptrkbrn.github.io)
- - date published: 2024-02-08T22:16:16.063522+00:00
- - user: None
- - tags: []
-
-## Puppy Linux Home
- - [https://puppylinux-woof-ce.github.io](https://puppylinux-woof-ce.github.io)
- - date published: 2024-02-26T20:38:39.644222+00:00
- - user: None
- - tags: ['operating system']
-
-## Blog | pvigier’s blog
- - [https://pvigier.github.io](https://pvigier.github.io)
- - date published: 2023-10-25T19:51:21.999014+00:00
- - user: None
- - tags: []
-
-## Show HN: PyKidos, Teach Your Kid Python in the Browser
- - [https://pykidos.github.io](https://pykidos.github.io)
- - date published: 2024-03-14T14:45:33+00:00
- - user: None
- - tags: []
-
-## pypackaging-native
- - [https://pypackaging-native.github.io](https://pypackaging-native.github.io)
- - date published: 2023-10-25T19:51:23.653265+00:00
- - user: None
- - tags: []
-
-## Qwen
- - [https://qwenlm.github.io](https://qwenlm.github.io)
- - date published: 2024-03-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://rackerlabs.github.io
- - [https://rackerlabs.github.io](https://rackerlabs.github.io)
- - date published: 2024-02-08T16:36:11.625420+00:00
- - user: None
- - tags: []
-
-## @radekmie’s take on IT and stuff
- - [https://radekmie.github.io](https://radekmie.github.io)
- - date published: 2023-10-25T19:51:26.585195+00:00
- - user: None
- - tags: []
-
-## Raft Consensus Algorithm
- - [https://raft.github.io](https://raft.github.io)
- - date published: 2023-10-25T19:51:29.605767+00:00
- - user: None
- - tags: []
-
-## Redirecting to https://rail.eecs.berkeley.edu/
- - [https://rail-berkeley.github.io](https://rail-berkeley.github.io)
- - date published: 2024-02-08T22:24:35.160516+00:00
- - user: None
- - tags: []
-
-## Raphael Sourty
- - [https://raphaelsty.github.io](https://raphaelsty.github.io)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Raph Levien’s blog | Blog of Raph Levien.
- - [https://raphlinus.github.io](https://raphlinus.github.io)
- - date published: 2023-10-25T19:51:36.478581+00:00
- - user: None
- - tags: []
-
-## ReAct: Synergizing Reasoning and Acting in Language Models
- - [https://react-lm.github.io](https://react-lm.github.io)
- - date published: 2023-10-25T19:51:37.875070+00:00
- - user: None
- - tags: []
-
-## RealFill
- - [https://realfill.github.io](https://realfill.github.io)
- - date published: 2023-10-25T19:51:39.362206+00:00
- - user: None
- - tags: []
-
-## Reanimate
- - [https://reanimate.github.io](https://reanimate.github.io)
- - date published: 2023-10-25T19:51:40.811373+00:00
- - user: None
- - tags: []
-
-## ReconFusion: 3D Reconstruction with Diffusion Priors
- - [https://reconfusion.github.io](https://reconfusion.github.io)
- - date published: 2023-12-08T16:44:34+00:00
- - user: None
- - tags: []
-
-## redex | Reason Package Index
- - [https://redex.github.io](https://redex.github.io)
- - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

@@ -1,18 +1,150 @@
+## Explore - Ubisoft Connect
+ - [https://ubisoftconnect.com](https://ubisoftconnect.com)
+ - date published: 2023-10-24T20:12:14.883217+00:00
+ - user: None
+ - tags: ['game store']
+
+## uBlock Origin - Free, open-source ad content blocker.
+ - [https://ublockorigin.com](https://ublockorigin.com)
+ - date published: 2023-11-01T08:43:18.943438+00:00
+ - user: None
+ - tags: ['open source', 'ad blocker']
+
+## Home
+ - [https://www.u-blox.com](https://www.u-blox.com)
+ - date published: 2022-01-09T22:19:30+00:00
+ - user: None
+ - tags: []
+
+## Ubuntu - Kernel Team Server
+ - [https://kernel.ubuntu.com](https://kernel.ubuntu.com)
+ - date published: 2023-12-06T11:16:27+00:00
+ - user: rumpel
+ - tags: []
+
+## Enterprise Open Source and Linux | Ubuntu
+ - [https://ubuntu.com](https://ubuntu.com)
+ - date published: 2023-10-25T08:31:54.631990+00:00
+ - user: None
+ - tags: ['operating system']
+
+## UbuntuPIT | Ubuntu Linux News, Tutorials and Apps
+ - [https://www.ubuntupit.com](https://www.ubuntupit.com)
+ - date published: 2023-10-25T09:36:30.703614+00:00
+ - user: None
+ - tags: ['tech news']
+
+## Catholic News Asia | Church, Features, Opinion, Gospel, Dioceses - UCA News
+ - [https://www.ucanews.com](https://www.ucanews.com)
+ - date published: 2023-11-27T12:16:44+00:00
+ - user: rumpel
+ - tags: ['religion', 'christianity', 'catholic']
+
+## udamonic.com - Home
+ - [https://udamonic.com](https://udamonic.com)
+ - date published: 2023-10-25T17:52:08.835786+00:00
+ - user: None
+ - tags: []
+
+## https://www.udemy.com
+ - [https://www.udemy.com](https://www.udemy.com)
+ - date published: 2023-10-24T20:19:37.720048+00:00
+ - user: None
+ - tags: ['tutorials', 'skills']
+
+## UDHARA DE SILVA
+ - [http://udharadesilva.com](http://udharadesilva.com)
+ - date published: 2024-04-03T06:24:04.772974+00:00
+ - user: None
+ - tags: ['personal']
+
+## UDHARA DE SILVA
+ - [https://udharadesilva.com](https://udharadesilva.com)
+ - date published: 2023-12-30T15:37:21.565432+00:00
+ - user: None
+ - tags: ['personal']
+
+## uDiscoverMusic: discover more about the world’s greatest music
+ - [https://www.udiscovermusic.com](https://www.udiscovermusic.com)
+ - date published: 2023-10-25T17:52:15.234962+00:00
+ - user: None
+ - tags: []
+
+## United Electronic Industries (UEI) – DAQ, Test, HIL
+ - [https://www.ueidaq.com](https://www.ueidaq.com)
+ - date published: 2023-11-08T11:27:00.057057+00:00
+ - user: None
+ - tags: ['aviation', 'aerospace', 'avionics']
+
+## UESTRPG | Unofficial Elder Scrolls Roleplaying Game
+ - [https://uestrpg.com](https://uestrpg.com)
+ - date published: 2024-04-08T14:05:35+00:00
+ - user: rumpel
+ - tags: ['role playing game', 'ttrpg', 'elder scrolls']
+
+## Umar Farooqi
+ - [https://ufarooqi.com](https://ufarooqi.com)
+ - date published: 2024-02-26T14:19:18.218453+00:00
+ - user: None
+ - tags: []
+
+## Umar Farooqi
+ - [https://www.ufarooqi.com](https://www.ufarooqi.com)
+ - date published: 2023-10-25T17:52:16.423224+00:00
+ - user: None
+ - tags: []
+
+## UGREEN Europe | Chargers, Cables, USB Hubs, Docking Stations, and More
+ - [https://eu.ugreen.com](https://eu.ugreen.com)
+ - date published: 2024-02-23T23:28:08.027754+00:00
+ - user: None
+ - tags: []
+
+## Ugrep – a more powerful, ultra fast, user-friendly, compatible grep
+ - [https://ugrep.com](https://ugrep.com)
+ - date published: 2023-12-30T21:17:56+00:00
+ - user: None
+ - tags: []
+
+## Ubiquiti Store United States
+ - [https://store.ui.com](https://store.ui.com)
+ - date published: 2024-01-08T23:25:27.575878+00:00
+ - user: None
+ - tags: ['computer hardware']
+
+## UniFi - Rethinking IT - Ubiquiti
+ - [https://ui.com](https://ui.com)
+ - date published: 2023-12-03T02:37:57.821475+00:00
+ - user: None
+ - tags: []
+
+## UI Breakfast: UI/UX and Product Strategy for SaaS Companies — UI Breakfast
+ - [https://uibreakfast.com](https://uibreakfast.com)
+ - date published: 2023-12-27T23:53:38.359100+00:00
+ - user: None
+ - tags: ['personal']
+
+## UIDesignDaily 4 years later, 1600 open-source designs
+ - [https://www.uidesigndaily.com](https://www.uidesigndaily.com)
+ - date published: 2024-01-06T21:06:08+00:00
+ - user: None
+ - tags: []
+
 ## UKClimbing
  - [http://www.ukclimbing.com](http://www.ukclimbing.com)
  - date published: 2024-03-24T15:07:09.670979+00:00
  - user: None
  - tags: ['climbing news']
 
-## UKGameshows
- - [http://www.ukgameshows.com](http://www.ukgameshows.com)
- - date published: 2024-01-30T23:42:05.779990+00:00
- - user: None
- - tags: []
-
 ## None
  - [https://www.ukgameshows.com](https://www.ukgameshows.com)
  - date published: 2024-02-02T08:48:00.905999+00:00
+ - user: None
+ - tags: []
+
+## UKGameshows
+ - [http://www.ukgameshows.com](http://www.ukgameshows.com)
+ - date published: 2024-01-30T23:42:05.779990+00:00
  - user: None
  - tags: []
 
@@ -110,7 +242,7 @@
  - [https://ultimatehomeserver.com](https://ultimatehomeserver.com)
  - date published: 2024-04-08T19:31:04.024594+00:00
  - user: None
- - tags: ['server management', 'self host']
+ - tags: ['server management', 'self-host']
 
 ## Ultimate Mister FPGA
  - [https://ultimatemister.com](https://ultimatemister.com)
@@ -235,6 +367,12 @@
 ## Unexpected Dino Lesson | online dinosaur education
  - [https://www.unexpecteddinolesson.com](https://www.unexpecteddinolesson.com)
  - date published: 2024-03-12T02:47:02.151198+00:00
+ - user: None
+ - tags: []
+
+## Unfeeder
+ - [https://unfeeder.com](https://unfeeder.com)
+ - date published: 2024-04-09T20:07:59.153410+00:00
  - user: None
  - tags: []
 
@@ -635,14 +773,14 @@
  - tags: []
 
 ## Product Reviews, Features, and Deals - Reviewed
- - [https://reviewed.usatoday.com](https://reviewed.usatoday.com)
- - date published: 2024-01-18T23:12:12.429216+00:00
+ - [http://reviewed.usatoday.com](http://reviewed.usatoday.com)
+ - date published: 2024-02-26T12:41:26.519684+00:00
  - user: None
  - tags: []
 
 ## Product Reviews, Features, and Deals - Reviewed
- - [http://reviewed.usatoday.com](http://reviewed.usatoday.com)
- - date published: 2024-02-26T12:41:26.519684+00:00
+ - [https://reviewed.usatoday.com](https://reviewed.usatoday.com)
+ - date published: 2024-01-18T23:12:12.429216+00:00
  - user: None
  - tags: []
 
@@ -741,7 +879,7 @@
  - [https://usememos.com](https://usememos.com)
  - date published: 2024-04-08T19:31:10.246286+00:00
  - user: None
- - tags: ['note app', 'open source', 'self host']
+ - tags: ['note app', 'open source', 'self-host']
 
 ## Show HN: Minimalist Calendars Generator
  - [https://useminimal.com](https://useminimal.com)
@@ -2014,7 +2152,7 @@
  - [https://voilib.com](https://voilib.com)
  - date published: 2024-04-08T19:31:13.869871+00:00
  - user: None
- - tags: ['search engine', 'self host']
+ - tags: ['search engine', 'self-host']
 
 ## Voiture Blog: It's all about cars
  - [https://www.voitureblog.com](https://www.voitureblog.com)
@@ -2032,7 +2170,7 @@
  - [https://voltaserve.com](https://voltaserve.com)
  - date published: 2024-04-08T19:31:14.667375+00:00
  - user: None
- - tags: ['self host', 'it cloud']
+ - tags: ['self-host', 'it cloud']
 
 ## Home - Volumio
  - [https://volumio.com](https://volumio.com)
@@ -2077,16 +2215,16 @@
  - tags: []
 
 ## Vox - Our world, explained
- - [http://www.vox.com](http://www.vox.com)
- - date published: 2024-02-26T14:26:24.139528+00:00
- - user: None
- - tags: []
-
-## Vox - Our world, explained
  - [https://www.vox.com](https://www.vox.com)
  - date published: 2023-10-25T10:39:39.512845+00:00
  - user: None
  - tags: ['news']
+
+## Vox - Our world, explained
+ - [http://www.vox.com](http://www.vox.com)
+ - date published: 2024-02-26T14:26:24.139528+00:00
+ - user: None
+ - tags: []
 
 ## Voxel51 // Open source computer vision tools for machine learning
  - [https://voxel51.com](https://voxel51.com)
@@ -2281,14 +2419,14 @@
  - tags: []
 
 ## قدم زدن در باغ عدن
- - [https://walkineden.com](https://walkineden.com)
- - date published: 2023-12-15T21:44:25.009160+00:00
+ - [http://walkineden.com](http://walkineden.com)
+ - date published: 2024-04-03T12:45:32.525067+00:00
  - user: None
  - tags: ['personal']
 
 ## قدم زدن در باغ عدن
- - [http://walkineden.com](http://walkineden.com)
- - date published: 2024-04-03T12:45:32.525067+00:00
+ - [https://walkineden.com](https://walkineden.com)
+ - date published: 2023-12-15T21:44:25.009160+00:00
  - user: None
  - tags: ['personal']
 
@@ -2665,16 +2803,16 @@
  - tags: ['self-driving cars']
 
 ## Home - Wayne Bennett
- - [https://www.waynebennettmusic.com](https://www.waynebennettmusic.com)
- - date published: 2024-01-03T01:13:03.177702+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Wayne Bennett
  - [http://www.waynebennettmusic.com](http://www.waynebennettmusic.com)
  - date published: 2024-02-23T00:00:00+00:00
  - user: None
  - tags: []
+
+## Home - Wayne Bennett
+ - [https://www.waynebennettmusic.com](https://www.waynebennettmusic.com)
+ - date published: 2024-01-03T01:13:03.177702+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Wayne Liew: Notes on Marketing and Personal Development
  - [https://www.wayneliew.com](https://www.wayneliew.com)
@@ -2863,13 +3001,13 @@
  - tags: []
 
 ## Webby Clare – Thoughts and other writings by Clare Conroy
- - [https://webbyclare.com](https://webbyclare.com)
+ - [http://webbyclare.com](http://webbyclare.com)
  - date published: 5538-01-03T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
 ## Webby Clare – Thoughts and other writings by Clare Conroy
- - [http://webbyclare.com](http://webbyclare.com)
+ - [https://webbyclare.com](https://webbyclare.com)
  - date published: 5538-01-03T00:00:00+00:00
  - user: None
  - tags: ['personal']
@@ -2915,6 +3053,12 @@
  - date published: 2024-01-17T09:16:08+00:00
  - user: rumpel
  - tags: ['web scraping']
+
+## Webmin
+ - [https://webmin.com](https://webmin.com)
+ - date published: 2024-03-24T00:00:00+00:00
+ - user: rumpel
+ - tags: ['self-host', 'server administration']
 
 ## WebRTC for the Curious
  - [https://webrtcforthecurious.com](https://webrtcforthecurious.com)
@@ -3133,14 +3277,14 @@
  - tags: ['personal']
 
 ## Wes Colton
- - [https://wescolton.com](https://wescolton.com)
- - date published: 2023-12-26T19:09:07.277282+00:00
+ - [http://wescolton.com](http://wescolton.com)
+ - date published: 2024-04-03T06:25:07.486525+00:00
  - user: None
  - tags: ['personal']
 
 ## Wes Colton
- - [http://wescolton.com](http://wescolton.com)
- - date published: 2024-04-03T06:25:07.486525+00:00
+ - [https://wescolton.com](https://wescolton.com)
+ - date published: 2023-12-26T19:09:07.277282+00:00
  - user: None
  - tags: ['personal']
 
@@ -3403,16 +3547,16 @@
  - tags: ['roms', 'amiga', 'emulation']
 
 ## Wheatdesign.com
- - [http://wheatdesign.com](http://wheatdesign.com)
- - date published: 2018-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Wheatdesign.com
  - [https://wheatdesign.com](https://wheatdesign.com)
  - date published: 2023-12-27T01:05:53.415461+00:00
  - user: None
  - tags: ['personal']
+
+## Wheatdesign.com
+ - [http://wheatdesign.com](http://wheatdesign.com)
+ - date published: 2018-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## News10NBC
  - [https://www.whec.com](https://www.whec.com)
@@ -3432,15 +3576,15 @@
  - user: None
  - tags: []
 
-## https://wheybags.com
- - [https://wheybags.com](https://wheybags.com)
- - date published: 2024-01-09T02:54:23.170380+00:00
- - user: None
- - tags: []
-
 ## None
  - [http://wheybags.com](http://wheybags.com)
  - date published: 2024-02-26T15:12:36.370939+00:00
+ - user: None
+ - tags: []
+
+## https://wheybags.com
+ - [https://wheybags.com](https://wheybags.com)
+ - date published: 2024-01-09T02:54:23.170380+00:00
  - user: None
  - tags: []
 
@@ -4039,14 +4183,14 @@
  - tags: []
 
 ## WinWorld: Welcome
- - [http://winworldpc.com](http://winworldpc.com)
- - date published: 2024-02-26T08:40:39.467757+00:00
+ - [https://winworldpc.com](https://winworldpc.com)
+ - date published: 2024-01-01T19:17:47.205122+00:00
  - user: None
  - tags: []
 
 ## WinWorld: Welcome
- - [https://winworldpc.com](https://winworldpc.com)
- - date published: 2024-01-01T19:17:47.205122+00:00
+ - [http://winworldpc.com](http://winworldpc.com)
+ - date published: 2024-02-26T08:40:39.467757+00:00
  - user: None
  - tags: []
 
@@ -5853,150 +5997,6 @@
 ## World Backup Day
  - [https://www.worldbackupday.com](https://www.worldbackupday.com)
  - date published: 2023-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## World Birds | Joy of nature
- - [https://worldbirds.com](https://worldbirds.com)
- - date published: 2023-10-25T18:18:45.443325+00:00
- - user: None
- - tags: []
-
-## World Book Day - World Book Day
- - [https://www.worldbookday.com](https://www.worldbookday.com)
- - date published: 2024-03-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Worldcrunch
- - [https://worldcrunch.com](https://worldcrunch.com)
- - date published: 2023-10-25T18:18:47.299504+00:00
- - user: None
- - tags: []
-
-## Game Magazine <-- WorldGameMag.com | WorldGameMag.com is your one stop for the latest video game news, reviews, previews, insights from Microsoft XBox 360, Sony PS3, PSP, PS Vita, Wii, Wii U, Nintendo DS, Nintendo 3DS and others.
- - [https://www.worldgamemag.com](https://www.worldgamemag.com)
- - date published: 2023-12-13T15:51:43.049140+00:00
- - user: None
- - tags: ['game news']
-
-## worldhuge.com -
- - [https://worldhuge.com](https://worldhuge.com)
- - date published: 2024-02-25T05:55:19.123794+00:00
- - user: None
- - tags: []
-
-## None
- - [https://worldnewsera.com](https://worldnewsera.com)
- - date published: 2024-01-09T02:55:01.463699+00:00
- - user: None
- - tags: []
-
-## World of Antra Science Fantasy
- - [https://www.worldofantra.com](https://www.worldofantra.com)
- - date published: 2024-03-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## WorldofMatthew
- - [https://worldofmatthew.com](https://worldofmatthew.com)
- - date published: 2023-10-25T18:18:48.375448+00:00
- - user: None
- - tags: []
-
-## World of Reel
- - [https://www.worldofreel.com](https://www.worldofreel.com)
- - date published: 2023-10-25T18:18:54.061802+00:00
- - user: None
- - tags: []
-
-## The Platform
- - [https://worldofthis.com](https://worldofthis.com)
- - date published: 2023-10-25T18:18:55.481023+00:00
- - user: None
- - tags: []
-
-## WorldRadioHistory: Radio Music Electronics Publications ALL FREE
- - [https://worldradiohistory.com](https://worldradiohistory.com)
- - date published: 2023-10-25T18:19:00.674033+00:00
- - user: None
- - tags: []
-
-## https://www.worldscientific.com
- - [https://www.worldscientific.com](https://www.worldscientific.com)
- - date published: 2023-11-05T06:28:18.690574+00:00
- - user: None
- - tags: []
-
-## World Sensorium / Conservancy
- - [https://worldsensorium.com](https://worldsensorium.com)
- - date published: 2023-10-25T18:19:09.609444+00:00
- - user: None
- - tags: []
-
-## world spirit sock puppet | Inclusive writings of Katja Grace
- - [https://worldspiritsockpuppet.com](https://worldspiritsockpuppet.com)
- - date published: 2023-10-25T18:19:12.049036+00:00
- - user: None
- - tags: []
-
-## Worlds Without End
- - [https://www.worldswithoutend.com](https://www.worldswithoutend.com)
- - date published: 2024-02-08T18:21:48.197973+00:00
- - user: None
- - tags: ['science-fiction', 'books']
-
-## Worlio Radio
- - [https://radio.worlio.com](https://radio.worlio.com)
- - date published: 2024-02-15T22:14:58.924637+00:00
- - user: None
- - tags: ['demoscene']
-
-## Bret Victor, beast of burden
- - [http://worrydream.com](http://worrydream.com)
- - date published: 2023-10-25T18:19:19.370299+00:00
- - user: None
- - tags: []
-
-## Worth Doing Badly | Programming experiments by @zhuowei.
- - [https://worthdoingbadly.com](https://worthdoingbadly.com)
- - date published: 2023-10-25T18:19:23.556489+00:00
- - user: None
- - tags: []
-
-## Home - Worthy Go - Find What's Worthy.
- - [https://worthygo.com](https://worthygo.com)
- - date published: 2024-01-05T10:28:13.218755+00:00
- - user: None
- - tags: []
-
-## Worthy Christian News
- - [https://www.worthynews.com](https://www.worthynews.com)
- - date published: 2023-11-10T02:33:14.187464+00:00
- - user: None
- - tags: ['news']
-
-## World of Warcraft Classic - Best in Slot
- - [https://www.wowclassicbis.com](https://www.wowclassicbis.com)
- - date published: 2023-12-13T16:17:13.572789+00:00
- - user: None
- - tags: []
-
-## WoW Classic Items, Quests and more
- - [https://wowclassicdb.com](https://wowclassicdb.com)
- - date published: 2023-12-13T16:15:46.186850+00:00
- - user: None
- - tags: []
-
-## None
- - [https://woweworld.com](https://woweworld.com)
- - date published: 2024-01-09T02:22:46.323409+00:00
- - user: None
- - tags: []
-
-## World of Warcraft News and Guides
- - [https://www.wowhead.com](https://www.wowhead.com)
- - date published: 2023-10-25T11:17:23.158608+00:00
  - user: None
  - tags: []
 
