@@ -1522,6 +1522,12 @@
  - user: None
  - tags: []
 
+## Show HN: Sonauto – a more controllable AI music creator
+ - [https://sonauto.ai](https://sonauto.ai)
+ - date published: 2024-04-10T16:48:01+00:00
+ - user: None
+ - tags: []
+
 ## Launch HN: Soundry AI (YC W24) – Music sample generator for music creators
  - [https://soundry.ai](https://soundry.ai)
  - date published: 2024-03-21T18:09:18+00:00
@@ -2035,6 +2041,12 @@
 ## Show HN: CodeRev.app – Code Review as Interview
  - [https://coderev.app](https://coderev.app)
  - date published: 2024-02-19T11:46:49+00:00
+ - user: None
+ - tags: []
+
+## Show HN: CompressX, my FFmpeg wrapper for macOS, made $9k in the last 4 months
+ - [https://compressx.app](https://compressx.app)
+ - date published: 2024-04-10T06:32:18+00:00
  - user: None
  - tags: []
 
@@ -5984,18 +5996,6 @@
 ## Miguel Piedrafita
  - [https://miguel.build](https://miguel.build)
  - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Index – Turbo
- - [https://turbo.build](https://turbo.build)
- - date published: 2023-10-25T12:02:59.657620+00:00
- - user: None
- - tags: []
-
-## the Free Movie
- - [https://thefreemovie.buzz](https://thefreemovie.buzz)
- - date published: 2023-10-25T12:03:03.337705+00:00
  - user: None
  - tags: []
 

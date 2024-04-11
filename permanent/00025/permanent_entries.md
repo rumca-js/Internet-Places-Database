@@ -1,3 +1,225 @@
+## Living New Deal | Living New Deal
+ - [https://livingnewdeal.org](https://livingnewdeal.org)
+ - date published: 2024-01-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## LKML.ORG - the Linux Kernel Mailing List Archive
+ - [https://lkml.org](https://lkml.org)
+ - date published: 2023-11-13T12:04:53.320666+00:00
+ - user: None
+ - tags: []
+
+## Universal and Transferable Attacks on Aligned Language Models
+ - [https://llm-attacks.org](https://llm-attacks.org)
+ - date published: 2023-10-25T21:39:17.051556+00:00
+ - user: None
+ - tags: []
+
+## GPU Utils ⚡️
+ - [https://gpus.llm-utils.org](https://gpus.llm-utils.org)
+ - date published: 2023-10-25T21:39:18.562208+00:00
+ - user: None
+ - tags: []
+
+## Home - LLM Utils
+ - [https://llm-utils.org](https://llm-utils.org)
+ - date published: 2023-10-25T21:39:20.535334+00:00
+ - user: None
+ - tags: []
+
+## The LLVM Project Blog
+ - [https://blog.llvm.org](https://blog.llvm.org)
+ - date published: 2023-12-12T23:37:43.090695+00:00
+ - user: None
+ - tags: []
+
+## LLVM Discussion Forums - Our community includes both users and developers of various compiler technologies within the LLVM project.
+ - [https://discourse.llvm.org](https://discourse.llvm.org)
+ - date published: 2023-10-25T21:39:24.567913+00:00
+ - user: None
+ - tags: []
+
+## The LLVM Compiler Infrastructure Project
+ - [https://llvm.org](https://llvm.org)
+ - date published: 2023-10-25T21:39:28.896311+00:00
+ - user: None
+ - tags: ['compiler']
+
+## Download LLVM releases
+ - [https://releases.llvm.org](https://releases.llvm.org)
+ - date published: 2023-10-25T21:39:30.474866+00:00
+ - user: None
+ - tags: []
+
+## Loża-Matka "Kopernik"
+ - [https://lmkopernik.org](https://lmkopernik.org)
+ - date published: 2023-12-05T15:16:55+00:00
+ - user: None
+ - tags: ['freemasonry']
+
+## Mistral AI launches Mixtral-Next
+ - [https://chat.lmsys.org](https://chat.lmsys.org)
+ - date published: 2024-02-17T03:46:24+00:00
+ - user: None
+ - tags: []
+
+## LMSYS Org
+ - [https://lmsys.org](https://lmsys.org)
+ - date published: 2023-10-25T21:39:31.970567+00:00
+ - user: None
+ - tags: []
+
+## Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality | LMSYS Org
+ - [https://vicuna.lmsys.org](https://vicuna.lmsys.org)
+ - date published: 2023-10-25T21:39:33.956719+00:00
+ - user: None
+ - tags: []
+
+## Home - Library of America
+ - [https://www.loa.org](https://www.loa.org)
+ - date published: 2024-02-06T12:42:50+00:00
+ - user: rumpel
+ - tags: ['books', 'reading']
+
+## LocalSend: Open-source, cross-platform file sharing to nearby devices
+ - [https://localsend.org](https://localsend.org)
+ - date published: 2024-03-10T21:38:06+00:00
+ - user: None
+ - tags: ['file send', 'open source']
+
+## Opening the target...
+ - [https://mw.lojban.org](https://mw.lojban.org)
+ - date published: 2023-10-25T21:39:36.643198+00:00
+ - user: None
+ - tags: []
+
+## LONG NOW — fostering long term thinking
+ - [https://longnow.org](https://longnow.org)
+ - date published: 2023-10-25T21:39:39.438749+00:00
+ - user: None
+ - tags: []
+
+## FDD's Long War Journal
+ - [https://www.longwarjournal.org](https://www.longwarjournal.org)
+ - date published: 2023-11-10T03:51:21.976358+00:00
+ - user: None
+ - tags: []
+
+## The Lost Cause | Cory Doctorow's craphound.com
+ - [http://lost-cause.org](http://lost-cause.org)
+ - date published: 2024-01-27T15:33:20.962470+00:00
+ - user: None
+ - tags: []
+
+## LÖVE - Free 2D Game Engine
+ - [https://love2d.org](https://love2d.org)
+ - date published: 2023-10-25T08:35:50.630389+00:00
+ - user: None
+ - tags: []
+
+## The Law and Political Economy Project
+ - [https://lpeproject.org](https://lpeproject.org)
+ - date published: 2024-02-24T18:19:33.317225+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.lpi.org](https://www.lpi.org)
+ - date published: 2024-01-09T03:41:18.717606+00:00
+ - user: None
+ - tags: []
+
+## Louisville Public Media
+ - [https://www.lpm.org](https://www.lpm.org)
+ - date published: 2023-11-06T14:35:50.495843+00:00
+ - user: None
+ - tags: []
+
+## https://lpython.org
+ - [https://lpython.org](https://lpython.org)
+ - date published: 2023-10-25T21:39:41.946449+00:00
+ - user: None
+ - tags: []
+
+## The Long Riders Guild Academic Foundation
+ - [https://www.lrgaf.org](https://www.lrgaf.org)
+ - date published: 2024-01-09T03:41:28.231971+00:00
+ - user: None
+ - tags: []
+
+## The L-Space Web - A Terry Pratchett / Discworld Web® Site
+ - [https://www.lspace.org](https://www.lspace.org)
+ - date published: 2023-11-16T07:01:44.475059+00:00
+ - user: None
+ - tags: ['discworld', 'terry pratchett', 'fantasy']
+
+## The Programming Language Lua
+ - [https://www.lua.org](https://www.lua.org)
+ - date published: 2023-10-25T21:39:44.587710+00:00
+ - user: None
+ - tags: []
+
+## Luke Harold Miles
+ - [https://lukemiles.org](https://lukemiles.org)
+ - date published: 2024-01-12T18:47:12.686223+00:00
+ - user: None
+ - tags: []
+
+## Home Page for David Drysdale
+ - [https://www.lurklurk.org](https://www.lurklurk.org)
+ - date published: 2023-10-25T21:39:48.617218+00:00
+ - user: None
+ - tags: []
+
+## LXDE
+ - [https://www.lxde.org](https://www.lxde.org)
+ - date published: 2024-03-19T12:31:58+00:00
+ - user: rumpel
+ - tags: ['linux desktop environment']
+
+## LXQt - The Lightweight Qt Desktop Environment
+ - [https://lxqt-project.org](https://lxqt-project.org)
+ - date published: 2024-03-18T20:28:55.233986+00:00
+ - user: None
+ - tags: ['linux desktop environment']
+
+## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
+ - [https://german.lymphoma-net.org](https://german.lymphoma-net.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Calculus: Modeling and Application
+ - [https://eulerarchive.maa.org](https://eulerarchive.maa.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Mathematical Association of America
+ - [https://maa.org](https://maa.org)
+ - date published: 2023-10-25T21:39:56.661675+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Mathematical Association of America
+ - [https://www.maa.org](https://www.maa.org)
+ - date published: 2023-10-25T21:40:08.149299+00:00
+ - user: None
+ - tags: []
+
+## Maasai Association | Kenya
+ - [https://maasai-association.org](https://maasai-association.org)
+ - date published: 2024-03-26T00:15:15.888429+00:00
+ - user: None
+ - tags: []
+
+## Macaulay Library
+ - [https://www.macaulaylibrary.org](https://www.macaulaylibrary.org)
+ - date published: 2023-12-07T00:42:18.929148+00:00
+ - user: None
+ - tags: []
+
 ## Macintosh Garden - Celebrating Macintosh Abandonware!
  - [https://macintoshgarden.org](https://macintoshgarden.org)
  - date published: 1999-01-01T00:00:00+00:00
@@ -137,16 +359,16 @@
  - tags: []
 
 ## Marco.org
- - [http://marco.org](http://marco.org)
- - date published: 2024-02-26T08:57:24.441371+00:00
- - user: None
- - tags: []
-
-## Marco.org
  - [https://marco.org](https://marco.org)
  - date published: 2023-10-25T08:55:03.700528+00:00
  - user: None
  - tags: ['personal']
+
+## Marco.org
+ - [http://marco.org](http://marco.org)
+ - date published: 2024-02-26T08:57:24.441371+00:00
+ - user: None
+ - tags: []
 
 ## Home - Marcosticks
  - [https://marcosticks.org](https://marcosticks.org)
@@ -442,6 +664,12 @@
  - user: None
  - tags: []
 
+## Great Internet Mersenne Prime Search - PrimeNet
+ - [https://www.mersenne.org](https://www.mersenne.org)
+ - date published: 2024-04-10T08:11:05.622810+00:00
+ - user: None
+ - tags: []
+
 ## mersenneforum.org
  - [https://mersenneforum.org](https://mersenneforum.org)
  - date published: 2023-10-25T21:41:28.576008+00:00
@@ -451,6 +679,12 @@
 ## mersenneforum.org
  - [https://www.mersenneforum.org](https://www.mersenneforum.org)
  - date published: 2023-10-25T21:41:34.285651+00:00
+ - user: None
+ - tags: []
+
+## mersenneforum.org
+ - [http://www.mersenneforum.org](http://www.mersenneforum.org)
+ - date published: 2024-04-05T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -539,16 +773,16 @@
  - tags: []
 
 ## MHC Healthcare – Quality Healthcare with a Heart
- - [https://mhchealthcare.org](https://mhchealthcare.org)
- - date published: 2023-11-29T18:20:38.384729+00:00
- - user: None
- - tags: []
-
-## MHC Healthcare – Quality Healthcare with a Heart
  - [http://mhchealthcare.org](http://mhchealthcare.org)
  - date published: 2024-04-03T06:23:32.907036+00:00
  - user: None
  - tags: ['personal']
+
+## MHC Healthcare – Quality Healthcare with a Heart
+ - [https://mhchealthcare.org](https://mhchealthcare.org)
+ - date published: 2023-11-29T18:20:38.384729+00:00
+ - user: None
+ - tags: []
 
 ## https://www.michaeleisen.org
  - [https://www.michaeleisen.org](https://www.michaeleisen.org)
@@ -789,16 +1023,16 @@ Common Weakness Enumeration
  - tags: []
 
 ## The Mod Archive v4.0b - A distinctive collection of modules
- - [http://modarchive.org](http://modarchive.org)
- - date published: 2024-02-15T01:59:58.310157+00:00
- - user: None
- - tags: []
-
-## The Mod Archive v4.0b - A distinctive collection of modules
  - [https://modarchive.org](https://modarchive.org)
  - date published: 2023-10-28T19:01:07.809021+00:00
  - user: None
  - tags: ['chiptune', 'keygen', 'demoscene']
+
+## The Mod Archive v4.0b - A distinctive collection of modules
+ - [http://modarchive.org](http://modarchive.org)
+ - date published: 2024-02-15T01:59:58.310157+00:00
+ - user: None
+ - tags: []
 
 ## mojo.js - JavaScript real-time web framework
  - [https://mojojs.org](https://mojojs.org)
@@ -1890,7 +2124,7 @@ Common Weakness Enumeration
  - [http://www.netbsd.org](http://www.netbsd.org)
  - date published: 2024-04-09T22:06:07.770938+00:00
  - user: None
- - tags: []
+ - tags: ['operating system']
 
 ## NetHack 3.6.7: NetHack Home Page
  - [https://www.nethack.org](https://www.nethack.org)
@@ -2895,16 +3129,16 @@ Common Weakness Enumeration
  - tags: []
 
 ## Open RSS
- - [https://openrss.org](https://openrss.org)
- - date published: 2024-01-16T00:45:10.574589+00:00
- - user: None
- - tags: ['rss']
-
-## Open RSS
  - [http://openrss.org](http://openrss.org)
  - date published: 2024-02-26T09:41:50.635475+00:00
  - user: None
  - tags: []
+
+## Open RSS
+ - [https://openrss.org](https://openrss.org)
+ - date published: 2024-01-16T00:45:10.574589+00:00
+ - user: None
+ - tags: ['rss']
 
 ## A Grand Theft Auto III Re-Implementation
  - [https://openrw.org](https://openrw.org)
@@ -2973,16 +3207,16 @@ Common Weakness Enumeration
  - tags: ['open source']
 
 ## Open Source Research Institutue :: Main / HomePage
- - [https://opensourceresearchinstitute.org](https://opensourceresearchinstitute.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Open Source Research Institutue :: Main / HomePage
  - [http://opensourceresearchinstitute.org](http://opensourceresearchinstitute.org)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Open Source Research Institutue :: Main / HomePage
+ - [https://opensourceresearchinstitute.org](https://opensourceresearchinstitute.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## OpenSSF Best Practices Working Group (WG)
  - [https://best.openssf.org](https://best.openssf.org)
@@ -3790,14 +4024,14 @@ Common Weakness Enumeration
  - tags: []
 
 ## Pikchr: Documentation
- - [https://pikchr.org](https://pikchr.org)
- - date published: 2023-10-25T21:57:44.338166+00:00
+ - [http://pikchr.org](http://pikchr.org)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Pikchr: Documentation
- - [http://pikchr.org](http://pikchr.org)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://pikchr.org](https://pikchr.org)
+ - date published: 2023-10-25T21:57:44.338166+00:00
  - user: None
  - tags: []
 
@@ -4959,15 +5193,15 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
-## Responsible Statecraft
- - [http://responsiblestatecraft.org](http://responsiblestatecraft.org)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Home - Responsible Statecraft
  - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
  - date published: 2023-10-25T22:03:17.450852+00:00
+ - user: None
+ - tags: []
+
+## Responsible Statecraft
+ - [http://responsiblestatecraft.org](http://responsiblestatecraft.org)
+ - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5766,240 +6000,6 @@ Common Weakness Enumeration
 ## SearQ
  - [https://searq.org](https://searq.org)
  - date published: 2023-10-25T22:07:40.367684+00:00
- - user: None
- - tags: []
-
-## THE JEWISH-AMERICAN HALL OF FAME – Fighting antisemitism since 1969
- - [https://seattlebecc.org](https://seattlebecc.org)
- - date published: 2024-02-08T17:50:22.278097+00:00
- - user: None
- - tags: []
-
-## SecLists.Org Security Mailing List Archive
- - [https://seclists.org](https://seclists.org)
- - date published: 2023-10-25T22:07:47.160027+00:00
- - user: None
- - tags: []
-
-## A SimCity Interactive Map of Chicago's Zoning
- - [https://secondcityzoning.org](https://secondcityzoning.org)
- - date published: 2023-12-27T00:02:10+00:00
- - user: None
- - tags: []
-
-## Home | Free Inquiry
- - [https://secularhumanism.org](https://secularhumanism.org)
- - date published: 2023-10-25T22:07:53.196476+00:00
- - user: None
- - tags: []
-
-## Share and accept documents securely
- - [https://securedrop.org](https://securedrop.org)
- - date published: 2023-10-25T22:07:55.571358+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.securetechalliance.org](https://www.securetechalliance.org)
- - date published: 2024-03-28T07:01:27.015682+00:00
- - user: None
- - tags: ['security organisation']
-
-## February 2024 Monthly Forecast : Security Council Report
- - [https://www.securitycouncilreport.org](https://www.securitycouncilreport.org)
- - date published: 2024-02-24T09:59:13.899271+00:00
- - user: None
- - tags: []
-
-## The Internet Con | Cory Doctorow's craphound.com
- - [http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org)
- - date published: 2024-01-25T00:48:59.722899+00:00
- - user: None
- - tags: []
-
-## The Internet Con | Cory Doctorow's craphound.com
- - [http://www.seizethemeansofcomputation.org](http://www.seizethemeansofcomputation.org)
- - date published: 2024-04-03T06:41:35.287061+00:00
- - user: None
- - tags: []
-
-## semantic-mediawiki.org
- - [https://www.semantic-mediawiki.org](https://www.semantic-mediawiki.org)
- - date published: 2023-10-25T22:07:57.119185+00:00
- - user: None
- - tags: []
-
-## Semantic Versioning 2.0.0 | Semantic Versioning
- - [https://semver.org](https://semver.org)
- - date published: 2023-10-25T22:07:58.320918+00:00
- - user: None
- - tags: []
-
-## sendaiben.org
- - [https://sendaiben.org](https://sendaiben.org)
- - date published: 2023-11-16T21:08:00.508002+00:00
- - user: None
- - tags: ['personal']
-
-## www.sensi.org
- - [https://sensi.org](https://sensi.org)
- - date published: 2024-01-09T03:42:26.850103+00:00
- - user: None
- - tags: []
-
-## SensorsIOT – All about sensors and IOT
- - [http://www.sensorsiot.org](http://www.sensorsiot.org)
- - date published: 2024-03-03T11:33:51.672020+00:00
- - user: None
- - tags: []
-
-## We change the way Americans think about crime and punishment
- - [https://www.sentencingproject.org](https://www.sentencingproject.org)
- - date published: 2024-02-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## SerenityOS
- - [https://serenityos.org](https://serenityos.org)
- - date published: 2023-10-25T22:07:59.140782+00:00
- - user: None
- - tags: []
-
-## Welcome to The Serial Port on RAQ
- - [https://raq.serialport.org](https://raq.serialport.org)
- - date published: 2024-01-09T03:42:30.617157+00:00
- - user: None
- - tags: []
-
-## Serial Reader | Classic Books in Daily Bits for iOS and Android
- - [https://www.serialreader.org](https://www.serialreader.org)
- - date published: 2023-10-25T22:08:05.962650+00:00
- - user: None
- - tags: []
-
-## Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
- - [https://servo.org](https://servo.org)
- - date published: 2023-10-25T22:08:07.109939+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.seti.org](https://www.seti.org)
- - date published: 2023-11-08T20:10:13.771332+00:00
- - user: None
- - tags: ['organization', 'science', 'space', 'universe']
-
-## Just another blog
- - [https://www.setphaserstostun.org](https://www.setphaserstostun.org)
- - date published: 2023-10-25T22:08:07.940698+00:00
- - user: None
- - tags: []
-
-## Software Freedom Conservancy
- - [https://sfconservancy.org](https://sfconservancy.org)
- - date published: 2023-10-25T22:08:09.665469+00:00
- - user: None
- - tags: []
-
-## SFI Press
- - [https://www.sfipress.org](https://www.sfipress.org)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## SF Memory
- - [https://sfmemory.org](https://sfmemory.org)
- - date published: 2023-10-25T22:08:11.097236+00:00
- - user: None
- - tags: []
-
-## San Francisco Museum of Modern Art
- - [https://www.sfmoma.org](https://www.sfmoma.org)
- - date published: 2023-11-13T13:47:47.040549+00:00
- - user: None
- - tags: ['museum']
-
-## San Francisco Public Library | Home | San Francisco Public Library
- - [https://sfpl.org](https://sfpl.org)
- - date published: 2024-03-06T14:47:02.119832+00:00
- - user: None
- - tags: []
-
-## Home - Shattered Kingdoms
- - [https://www.shatteredkingdoms.org](https://www.shatteredkingdoms.org)
- - date published: 2018-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Rupert Sheldrake – Author and Biologist
- - [https://www.sheldrake.org](https://www.sheldrake.org)
- - date published: 2024-03-29T02:12:08.455149+00:00
- - user: None
- - tags: ['personal']
-
-## The Shen Programming Language
- - [https://shenlanguage.org](https://shenlanguage.org)
- - date published: 2024-03-05T12:30:22+00:00
- - user: None
- - tags: []
-
-## Sherer Family Website .
- - [https://www.sherer.org](https://www.sherer.org)
- - date published: 2024-02-08T17:49:11.713948+00:00
- - user: None
- - tags: []
-
-## WELCOME! Official American Shih Tzu Club Website | American Shih Tzu Club
- - [https://shihtzu.org](https://shihtzu.org)
- - date published: 2024-02-08T16:46:09.764105+00:00
- - user: None
- - tags: []
-
-## Shotcut - Home
- - [https://shotcut.org](https://shotcut.org)
- - date published: 2024-03-28T21:45:17+00:00
- - user: rumpel
- - tags: ['video editor']
-
-## shreyans
- - [https://shreyans.org](https://shreyans.org)
- - date published: 2023-11-09T19:00:05.108858+00:00
- - user: None
- - tags: []
-
-## SHRM - The Voice of All Things Work
- - [https://www.shrm.org](https://www.shrm.org)
- - date published: 2023-10-25T22:08:14.306313+00:00
- - user: None
- - tags: []
-
-## Shtetl - Haredi Free Press
- - [https://www.shtetl.org](https://www.shtetl.org)
- - date published: 2023-10-25T10:53:52.750732+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://epubs.siam.org](https://epubs.siam.org)
- - date published: 2024-03-03T23:24:56.260599+00:00
- - user: None
- - tags: []
-
-## SIAM | Home
- - [https://siam.org](https://siam.org)
- - date published: 2024-03-04T07:21:24+00:00
- - user: rumpel
- - tags: ['math articles']
-
-## Сибирь.Реалии
- - [https://www.sibreal.org](https://www.sibreal.org)
- - date published: 2023-12-18T14:56:48.646089+00:00
- - user: None
- - tags: []
-
-## SIGARCH | The ACM Special Interest Group on Computer Architecture
- - [https://www.sigarch.org](https://www.sigarch.org)
- - date published: 2023-10-25T22:08:17.795553+00:00
  - user: None
  - tags: []
 

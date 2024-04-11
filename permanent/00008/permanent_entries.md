@@ -1,3 +1,63 @@
+## Bastian Halbach | jubari.com
+ - [https://www.jubari.com](https://www.jubari.com)
+ - date published: 2023-12-12T13:08:58.557951+00:00
+ - user: None
+ - tags: ['personal']
+
+## Climate Etc.
+ - [https://judithcurry.com](https://judithcurry.com)
+ - date published: 2023-10-25T15:32:43.494387+00:00
+ - user: None
+ - tags: []
+
+## JuiceFS - Open Source Distributed POSIX File System for Cloud
+ - [https://juicefs.com](https://juicefs.com)
+ - date published: 2023-10-25T15:32:52.234309+00:00
+ - user: None
+ - tags: []
+
+## Juicy Beast – Indie game studio based in Montreal
+ - [https://juicybeast.com](https://juicybeast.com)
+ - date published: 2023-10-25T15:32:55.182232+00:00
+ - user: None
+ - tags: []
+
+## Julian Shapiro
+ - [https://www.julian.com](https://www.julian.com)
+ - date published: 2023-10-25T15:33:01.258134+00:00
+ - user: None
+ - tags: []
+
+## Juliana Han | Pianist
+ - [https://www.julianahan.com](https://www.julianahan.com)
+ - date published: 2023-11-29T17:14:16.216702+00:00
+ - user: None
+ - tags: ['personal']
+
+## Julian Sonne Hansen
+ - [https://julianhansen.com](https://julianhansen.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## JuliaZoid
+ - [https://juliazoid.com](https://juliazoid.com)
+ - date published: 2023-10-25T15:33:09.377920+00:00
+ - user: None
+ - tags: []
+
+## I'm lovin' I.T. by Julien Sobczak
+ - [https://www.juliensobczak.com](https://www.juliensobczak.com)
+ - date published: 2023-10-25T15:33:10.910422+00:00
+ - user: None
+ - tags: []
+
+## Home Final
+ - [https://julieroys.com](https://julieroys.com)
+ - date published: 2024-04-03T06:39:22.671060+00:00
+ - user: None
+ - tags: []
+
 ## Julius Gamanyi
  - [https://juliusgamanyi.com](https://juliusgamanyi.com)
  - date published: 2023-10-25T15:33:12.043575+00:00
@@ -533,14 +593,14 @@
  - tags: ['personal']
 
 ## All posts
- - [http://katelynsills.com](http://katelynsills.com)
- - date published: 2024-01-08T00:00:00+00:00
+ - [https://katelynsills.com](https://katelynsills.com)
+ - date published: 2024-01-03T23:56:16.792993+00:00
  - user: None
  - tags: []
 
 ## All posts
- - [https://katelynsills.com](https://katelynsills.com)
- - date published: 2024-01-03T23:56:16.792993+00:00
+ - [http://katelynsills.com](http://katelynsills.com)
+ - date published: 2024-01-08T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2321,6 +2381,12 @@
  - user: rumpel
  - tags: ['music artist']
 
+## Welcome to Laemmle Theatres - Laemmle.com
+ - [https://www.laemmle.com](https://www.laemmle.com)
+ - date published: 2024-04-10T15:05:55.757425+00:00
+ - user: None
+ - tags: []
+
 ## La Femme | Official Website
  - [http://www.lafemmemusic.com](http://www.lafemmemusic.com)
  - date published: 2024-01-19T00:00:00+00:00
@@ -3115,13 +3181,13 @@ Chamber Music, Symphony
  - tags: ['entertainment news', 'movie news']
 
 ## Legends of Kallisti
- - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
+ - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Legends of Kallisti
- - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
+ - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
@@ -5402,16 +5468,16 @@ diversions.
  - tags: ['video game news']
 
 ## Maggie Appleton
- - [http://maggieappleton.com](http://maggieappleton.com)
- - date published: 2024-02-26T08:55:27.731076+00:00
- - user: None
- - tags: []
-
-## Maggie Appleton
  - [https://maggieappleton.com](https://maggieappleton.com)
  - date published: 2023-10-25T08:47:09.508828+00:00
  - user: None
  - tags: ['personal']
+
+## Maggie Appleton
+ - [http://maggieappleton.com](http://maggieappleton.com)
+ - date published: 2024-02-26T08:55:27.731076+00:00
+ - user: None
+ - tags: []
 
 ## Magic Earth - Free Navigation & Maps App for Android and iPhone
  - [https://www.magicearth.com](https://www.magicearth.com)
@@ -5540,13 +5606,13 @@ diversions.
  - tags: []
 
 ## A blog by @makaroni4
- - [http://makaroni4.com](http://makaroni4.com)
+ - [https://makaroni4.com](https://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## A blog by @makaroni4
- - [https://makaroni4.com](https://makaroni4.com)
+ - [http://makaroni4.com](http://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -5934,70 +6000,4 @@ diversions.
  - date published: 2024-04-03T12:49:04.042322+00:00
  - user: None
  - tags: ['personal']
-
-## Welcome to MARCHintosh
- - [https://www.marchintosh.com](https://www.marchintosh.com)
- - date published: 2024-03-06T08:40:14+00:00
- - user: None
- - tags: []
-
-## Marc Hoffman | Composer | Vocalist | Pianist
- - [https://www.marchoffman.com](https://www.marchoffman.com)
- - date published: 2024-01-15T22:20:21.341302+00:00
- - user: None
- - tags: ['personal']
-
-## Marc Koran - Skillstacking
- - [https://marckoran.com](https://marckoran.com)
- - date published: 2019-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Hello, I'm Marc Littlemore
- - [https://www.marclittlemore.com](https://www.marclittlemore.com)
- - date published: 2023-12-09T15:01:11.057762+00:00
- - user: None
- - tags: ['personal']
-
-## blog.marcocantu.com
- - [https://blog.marcocantu.com](https://blog.marcocantu.com)
- - date published: 2023-12-01T10:46:10.581631+00:00
- - user: None
- - tags: []
-
-## Marco Castorina Blog and Portfolio
- - [https://marcocastorina.com](https://marcocastorina.com)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Marco Cevoli
- - [https://marcocevoli.com](https://marcocevoli.com)
- - date published: 2023-11-29T14:53:51.157547+00:00
- - user: None
- - tags: ['personal']
-
-## https://www.marcoreeuwijk.com
- - [https://www.marcoreeuwijk.com](https://www.marcoreeuwijk.com)
- - date published: 2024-01-25T03:05:36.342834+00:00
- - user: None
- - tags: []
-
-## marcthorpe.com – the art of
- - [https://marcthorpe.com](https://marcthorpe.com)
- - date published: 2023-11-27T07:06:46.747488+00:00
- - user: None
- - tags: []
-
-## The MB Charlotte NC Travel and Leisure Website and Blog
- - [https://marcusbowden.com](https://marcusbowden.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Marek Narozniak's Homepage
- - [https://mareknarozniak.com](https://mareknarozniak.com)
- - date published: 2023-10-25T15:56:13.186989+00:00
- - user: None
- - tags: []
 

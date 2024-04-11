@@ -1,3 +1,117 @@
+## 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗 | Another ${RANDOM} sysadmin sharing his experiences of work at IT industry.
+ - [https://vermaden.wordpress.com](https://vermaden.wordpress.com)
+ - date published: 2023-10-25T18:18:04.756895+00:00
+ - user: None
+ - tags: []
+
+## #about.me
+ - [https://vitalyobukhov.wordpress.com](https://vitalyobukhov.wordpress.com)
+ - date published: 2024-04-03T12:42:15.914134+00:00
+ - user: None
+ - tags: ['personal']
+
+## Private Site
+ - [https://warfantasy.wordpress.com](https://warfantasy.wordpress.com)
+ - date published: 2023-10-25T18:18:05.375450+00:00
+ - user: None
+ - tags: []
+
+## If 42 is the answer, what is the question? | My sophomoric speculations on "Life, the Universe and Everything"
+ - [https://whatisthequestion.wordpress.com](https://whatisthequestion.wordpress.com)
+ - date published: 2023-10-25T18:18:13.172980+00:00
+ - user: None
+ - tags: []
+
+## I am Aranab
+ - [https://whynotdotcomcom.wordpress.com](https://whynotdotcomcom.wordpress.com)
+ - date published: 2024-02-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## WordPress, Your Way
+ - [https://wordpress.com](https://wordpress.com)
+ - date published: 2023-10-25T08:33:01.720475+00:00
+ - user: None
+ - tags: []
+
+## Private Site
+ - [https://writemz.wordpress.com](https://writemz.wordpress.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## XAML Brewer, by Diederik Krols | If you're not having fun, you're doing it wrong.
+ - [https://xamlbrewer.wordpress.com](https://xamlbrewer.wordpress.com)
+ - date published: 2023-10-25T18:18:27.707634+00:00
+ - user: None
+ - tags: []
+
+## WordReference Forums
+ - [https://forum.wordreference.com](https://forum.wordreference.com)
+ - date published: 2023-12-21T17:17:26.978086+00:00
+ - user: None
+ - tags: []
+
+## Workable
+ - [https://apply.workable.com](https://apply.workable.com)
+ - date published: 2023-10-25T18:18:31.082909+00:00
+ - user: None
+ - tags: []
+
+## Startup Jobs at YC Companies in Engineering, Product, Design, Remote and more | Y Combinator's Work at a Startup
+ - [https://www.workatastartup.com](https://www.workatastartup.com)
+ - date published: 2023-10-25T18:18:34.955309+00:00
+ - user: None
+ - tags: []
+
+## Work-Bites
+ - [https://www.work-bites.com](https://www.work-bites.com)
+ - date published: 2023-10-25T18:18:30.325248+00:00
+ - user: None
+ - tags: []
+
+## Work Chronicles - Webcomics
+ - [https://workchronicles.com](https://workchronicles.com)
+ - date published: 2023-10-25T18:18:38.617213+00:00
+ - user: None
+ - tags: []
+
+## A simpler way to organize your work - Workflowy
+ - [https://workflowy.com](https://workflowy.com)
+ - date published: 2023-12-13T11:22:54.148203+00:00
+ - user: None
+ - tags: ['personal']
+
+## Working Theorys | Anu Atluru | Substack
+ - [https://www.workingtheorys.com](https://www.workingtheorys.com)
+ - date published: 2024-01-17T18:11:38.349001+00:00
+ - user: None
+ - tags: []
+
+## Work.Life.Whatever.
+ - [https://worklifewhatever.com](https://worklifewhatever.com)
+ - date published: 2024-01-12T18:47:15.664867+00:00
+ - user: None
+ - tags: []
+
+## Workweek - A New Kind of Media Company
+ - [https://workweek.com](https://workweek.com)
+ - date published: 2023-10-25T18:18:41.778705+00:00
+ - user: None
+ - tags: []
+
+## World Map / World Atlas / Atlas of the World Including Geography Facts and Flags - WorldAtlas.com
+ - [https://www.worldatlas.com](https://www.worldatlas.com)
+ - date published: 2024-02-24T14:23:53.166295+00:00
+ - user: None
+ - tags: []
+
+## World Backup Day
+ - [https://www.worldbackupday.com](https://www.worldbackupday.com)
+ - date published: 2023-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## World Birds | Joy of nature
  - [https://worldbirds.com](https://worldbirds.com)
  - date published: 2023-10-25T18:18:45.443325+00:00
@@ -1204,6 +1318,18 @@
  - user: None
  - tags: []
 
+## Eta Prime YouTube Channel
+ - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
+ - date published: 2023-11-03T10:35:46+00:00
+ - user: rumpel
+ - tags: ['youtuber', 'single-board', 'raspberry']
+
+## YouTube Channel hipoonios
+ - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
+ - date published: 2023-11-02T10:41:50+00:00
+ - user: rumpel
+ - tags: ['amiga']
+
 ## Jeff Geerling YouTube Channel
  - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
  - date published: 2023-11-03T10:34:47+00:00
@@ -1216,17 +1342,23 @@
  - user: rumpel
  - tags: ['right to repair']
 
-## YouTube Channel hipoonios
- - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
- - date published: 2023-11-02T10:41:50+00:00
- - user: rumpel
- - tags: ['amiga']
+## YouTube
+ - [https://www.youtube.com](https://www.youtube.com)
+ - date published: 2023-10-24T20:05:58.291792+00:00
+ - user: None
+ - tags: ['google', 'gatekeeper', 'video streaming']
 
-## Eta Prime YouTube Channel
- - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
- - date published: 2023-11-03T10:35:46+00:00
+## Squidmar Miniatures
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
+ - date published: 2023-11-08T09:58:45+00:00
  - user: rumpel
- - tags: ['youtuber', 'single-board', 'raspberry']
+ - tags: []
+
+## Tabletop Minions
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
+ - date published: 2023-11-08T09:59:26+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
 
 ## LukHash YouTube Channel
  - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
@@ -1240,23 +1372,17 @@
  - user: None
  - tags: []
 
+## NewRetroWave YouTube Channel
+ - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
+ - date published: 2023-11-13T09:23:17+00:00
+ - user: rumpel
+ - tags: ['synthwave', 'new retro wave']
+
 ## Miniac
  - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
  - date published: 2023-11-08T10:01:11+00:00
  - user: rumpel
  - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
-
-## Tabletop Minions
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
- - date published: 2023-11-08T09:59:26+00:00
- - user: rumpel
- - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
-
-## Squidmar Miniatures
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
- - date published: 2023-11-08T09:58:45+00:00
- - user: rumpel
- - tags: []
 
 ## Luetin09 YouTube Channel
  - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
@@ -1264,27 +1390,15 @@
  - user: rumpel
  - tags: ['wargames', 'tabletop games', 'warhammer']
 
-## NewRetroWave YouTube Channel
- - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
- - date published: 2023-11-13T09:23:17+00:00
- - user: rumpel
- - tags: ['synthwave', 'new retro wave']
-
 ## YouTube
- - [https://www.youtube.com](https://www.youtube.com)
- - date published: 2023-10-24T20:05:58.291792+00:00
- - user: None
- - tags: ['google', 'gatekeeper', 'video streaming']
-
-## YouTube
- - [https://youtube.com](https://youtube.com)
- - date published: 2023-11-14T01:45:17.978988+00:00
+ - [http://youtube.com](http://youtube.com)
+ - date published: 2024-03-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## YouTube
- - [http://youtube.com](http://youtube.com)
- - date published: 2024-03-06T00:00:00+00:00
+ - [https://youtube.com](https://youtube.com)
+ - date published: 2023-11-14T01:45:17.978988+00:00
  - user: None
  - tags: []
 
@@ -1566,16 +1680,16 @@
  - tags: ['demoscene']
 
 ## Zeldman on Web and Interaction Design
- - [https://www.zeldman.com](https://www.zeldman.com)
- - date published: 2024-02-13T17:35:29.342852+00:00
- - user: None
- - tags: ['personal']
-
-## Zeldman on Web and Interaction Design
  - [http://www.zeldman.com](http://www.zeldman.com)
  - date published: 2024-03-24T15:07:23.649398+00:00
  - user: None
  - tags: []
+
+## Zeldman on Web and Interaction Design
+ - [https://www.zeldman.com](https://www.zeldman.com)
+ - date published: 2024-02-13T17:35:29.342852+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Lynn Haraldson, Author and Writing Mentor
  - [https://zenbaglady.com](https://zenbaglady.com)
@@ -1926,14 +2040,14 @@
  - tags: []
 
 ## None
- - [https://abcnews.go.comhttps](https://abcnews.go.comhttps)
- - date published: 2024-02-02T08:24:31.883332+00:00
+ - [abcnews.go.comhttps](abcnews.go.comhttps)
+ - date published: 2024-01-09T02:55:46.479176+00:00
  - user: None
  - tags: []
 
 ## None
- - [abcnews.go.comhttps](abcnews.go.comhttps)
- - date published: 2024-01-09T02:55:46.479176+00:00
+ - [https://abcnews.go.comhttps](https://abcnews.go.comhttps)
+ - date published: 2024-02-02T08:24:31.883332+00:00
  - user: None
  - tags: []
 
@@ -1986,14 +2100,14 @@
  - tags: []
 
 ## Writing by Bob Doto
- - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
- - date published: 2024-01-09T02:55:47.919867+00:00
+ - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
+ - date published: 2024-02-26T14:37:32.413264+00:00
  - user: None
  - tags: []
 
 ## Writing by Bob Doto
- - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
- - date published: 2024-02-26T14:37:32.413264+00:00
+ - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
+ - date published: 2024-01-09T02:55:47.919867+00:00
  - user: None
  - tags: []
 
@@ -2146,6 +2260,12 @@
  - date published: 2023-10-25T18:26:54.648487+00:00
  - user: None
  - tags: []
+
+## Show HN: Deco.cx – realtime TypeScript web editor
+ - [https://deco.cx](https://deco.cx)
+ - date published: 2024-04-10T11:30:46+00:00
+ - user: None
+ - tags: ['typescript', 'web editor']
 
 ## Chris McCormick - computer programming.
  - [https://mccormick.cx](https://mccormick.cx)
@@ -2567,6 +2687,12 @@
  - user: None
  - tags: []
 
+## Startseite
+ - [https://www.bafa.de](https://www.bafa.de)
+ - date published: 2024-04-10T15:07:02.059772+00:00
+ - user: None
+ - tags: []
+
 ## Baker Tilly. 4 Perspektiven. Eine Lösung. Weltweit.
  - [https://www.bakertilly.de](https://www.bakertilly.de)
  - date published: 2023-10-25T18:27:57.686783+00:00
@@ -2775,13 +2901,13 @@ home
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [http://www.classic-videogames.de](http://www.classic-videogames.de)
+ - [https://www.classic-videogames.de](https://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [https://www.classic-videogames.de](https://www.classic-videogames.de)
+ - [http://www.classic-videogames.de](http://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
@@ -3534,16 +3660,16 @@ Heinsohn
  - tags: []
 
 ## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
- - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
- - date published: 2024-02-15T22:13:44.143200+00:00
- - user: None
- - tags: ['demoscene']
-
-## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
  - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
  - date published: 2024-02-15T02:00:01.330586+00:00
  - user: None
  - tags: ['video game music']
+
+## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
+ - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
+ - date published: 2024-02-15T22:13:44.143200+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## NeuroNagel : Neuroregulation, Neurofeedback, Biofeedback, Mentalsysteme und Mindmachines
  - [https://www.neuronagel.de](https://www.neuronagel.de)
@@ -3576,16 +3702,16 @@ Heinsohn
  - tags: []
 
 ## Nupita - [nu:b i:ta]
- - [https://nupita.de](https://nupita.de)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Nupita - [nu:b i:ta]
  - [http://nupita.de](http://nupita.de)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Nupita - [nu:b i:ta]
+ - [https://nupita.de](https://nupita.de)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## OllyDbg v1.10
  - [https://www.ollydbg.de](https://www.ollydbg.de)
@@ -4194,16 +4320,16 @@ Heinsohn
  - tags: []
 
 ## WHDLoad
- - [http://www.whdload.de](http://www.whdload.de)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## WHDLoad
  - [https://www.whdload.de](https://www.whdload.de)
  - date published: 2024-01-23T00:00:00+00:00
  - user: None
  - tags: ['amiga']
+
+## WHDLoad
+ - [http://www.whdload.de](http://www.whdload.de)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Serialized Gedanken
  - [https://valentin.willscher.de](https://valentin.willscher.de)
@@ -4682,6 +4808,12 @@ Heinsohn
 ## axo blog - System dependencies are hard (so we made them easier)
  - [https://blog.axo.dev](https://blog.axo.dev)
  - date published: 2023-10-25T18:35:02.657023+00:00
+ - user: None
+ - tags: []
+
+## Badger Badger Badger Badger
+ - [https://badgerbadgerbadgerbadger.dev](https://badgerbadgerbadgerbadger.dev)
+ - date published: 2024-04-08T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5244,6 +5376,12 @@ Heinsohn
  - user: None
  - tags: []
 
+## README | Uncurled
+ - [https://un.curl.dev](https://un.curl.dev)
+ - date published: 2024-04-10T12:32:31.612144+00:00
+ - user: None
+ - tags: []
+
 ## Cypress and Playwright Dashboard. Debug, deflake and analyse CI tests in Cloud.
  - [https://currents.dev](https://currents.dev)
  - date published: 2023-10-25T18:37:07.754644+00:00
@@ -5450,14 +5588,14 @@ Heinsohn
  - tags: []
 
 ## endtimes.dev
- - [http://endtimes.dev](http://endtimes.dev)
- - date published: 2024-02-26T14:52:45.275010+00:00
+ - [https://endtimes.dev](https://endtimes.dev)
+ - date published: 2023-10-25T18:37:42.008452+00:00
  - user: None
  - tags: []
 
 ## endtimes.dev
- - [https://endtimes.dev](https://endtimes.dev)
- - date published: 2023-10-25T18:37:42.008452+00:00
+ - [http://endtimes.dev](http://endtimes.dev)
+ - date published: 2024-02-26T14:52:45.275010+00:00
  - user: None
  - tags: []
 
@@ -5866,144 +6004,6 @@ Heinsohn
 ## Immersive Web Developer Home
  - [https://immersiveweb.dev](https://immersiveweb.dev)
  - date published: 2023-10-25T18:38:38.836353+00:00
- - user: None
- - tags: []
-
-## Imre Csige's Digital Garden
- - [https://imrecsige.dev](https://imrecsige.dev)
- - date published: 2023-12-12T04:53:12.747632+00:00
- - user: None
- - tags: ['personal']
-
-## https://indiebackers.dev
- - [https://indiebackers.dev](https://indiebackers.dev)
- - date published: 2024-01-16T11:11:45.517650+00:00
- - user: None
- - tags: []
-
-## Nobody5050 | Homepage
- - [https://6502.is-a.dev](https://6502.is-a.dev)
- - date published: 2023-10-25T18:38:44.396878+00:00
- - user: None
- - tags: []
-
-## jahed.dev
- - [https://jahed.dev](https://jahed.dev)
- - date published: 2023-10-25T08:58:36.253575+00:00
- - user: None
- - tags: ['personal']
-
-## Jakob Serlier's Personal Site
- - [http://jakobs.dev](http://jakobs.dev)
- - date published: 2024-01-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jakob Serlier's Personal Site
- - [https://jakobs.dev](https://jakobs.dev)
- - date published: 2024-01-09T01:37:20.973191+00:00
- - user: None
- - tags: []
-
-## Jam | Build a bug-free product.
- - [https://jam.dev](https://jam.dev)
- - date published: 2023-10-25T18:38:45.366903+00:00
- - user: None
- - tags: []
-
-## Jamon Holmgren's Personal Website
- - [https://jamon.dev](https://jamon.dev)
- - date published: 2024-04-03T12:44:29.377860+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://jamsync.dev](https://jamsync.dev)
- - date published: 2023-10-25T18:38:46.533482+00:00
- - user: None
- - tags: []
-
-## Jonny Buchanan's website
- - [https://jbscript.dev](https://jbscript.dev)
- - date published: 2024-03-07T21:19:56.076040+00:00
- - user: None
- - tags: []
-
-## Ramblings from Jessie: Home
- - [https://jess.dev](https://jess.dev)
- - date published: 2023-10-25T09:21:42.264142+00:00
- - user: None
- - tags: ['personal']
-
-## John Freeman
- - [https://jfreeman.dev](https://jfreeman.dev)
- - date published: 2023-10-25T08:58:37.230030+00:00
- - user: None
- - tags: ['personal']
-
-## @jimmyislive
- - [https://jimmyislive.dev](https://jimmyislive.dev)
- - date published: 2023-10-25T09:21:43.382608+00:00
- - user: None
- - tags: ['personal']
-
-## Just in Time Webhooks | Jiter
- - [https://jiter.dev](https://jiter.dev)
- - date published: 2023-10-25T18:38:47.496168+00:00
- - user: None
- - tags: []
-
-## JJTech
- - [https://jjtech.dev](https://jjtech.dev)
- - date published: 2023-12-05T17:46:59.391002+00:00
- - user: None
- - tags: []
-
-## Julio Merino (jmmv.dev)
- - [https://jmmv.dev](https://jmmv.dev)
- - date published: 2023-10-25T08:58:38.049908+00:00
- - user: None
- - tags: ['personal']
-
-## John Morrice
- - [https://jmorrice.dev](https://jmorrice.dev)
- - date published: 2023-10-25T09:21:44.400786+00:00
- - user: None
- - tags: ['personal']
-
-## joev.dev: thoughts, engineering, art, life
- - [https://joev.dev](https://joev.dev)
- - date published: 2023-12-31T19:01:54.757850+00:00
- - user: None
- - tags: []
-
-## John O'Reilly
- - [https://johnoreilly.dev](https://johnoreilly.dev)
- - date published: 2024-01-11T05:09:58.589540+00:00
- - user: None
- - tags: []
-
-## Hi, I'm John. - Thoughts and Ideas
- - [https://md.jtmn.dev](https://md.jtmn.dev)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Just for Fun. No, Really.
- - [https://justforfunnoreally.dev](https://justforfunnoreally.dev)
- - date published: 2023-10-25T18:38:48.340384+00:00
- - user: None
- - tags: []
-
-## Justin's Blog
- - [https://justinphu.dev](https://justinphu.dev)
- - date published: 2024-01-14T17:11:36.340538+00:00
- - user: None
- - tags: []
-
-## Just Simply | Stop saying how simple things are in our docs
- - [https://justsimply.dev](https://justsimply.dev)
- - date published: 2023-10-25T18:38:49.030871+00:00
  - user: None
  - tags: []
 

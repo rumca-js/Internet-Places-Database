@@ -1,3 +1,111 @@
+## TCPAWorld – The World of the Telephone Consumer Protection Act
+ - [https://tcpaworld.com](https://tcpaworld.com)
+ - date published: 2023-10-25T17:23:43.563219+00:00
+ - user: None
+ - tags: []
+
+## TCT Magazine | Additive Manufacturing & 3D Printing Intelligence | News, Interviews, Features | Additive Manufacturing | Product Development Technology
+ - [https://www.tctmagazine.com](https://www.tctmagazine.com)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Thomas Derflinger Blog
+ - [https://tderflinger.com](https://tderflinger.com)
+ - date published: 2023-10-25T17:23:45.930231+00:00
+ - user: None
+ - tags: []
+
+## Tea and Tech Time – Tech projects to read over your afternoon tea
+ - [https://teaandtechtime.com](https://teaandtechtime.com)
+ - date published: 2023-10-25T17:23:51.944870+00:00
+ - user: None
+ - tags: []
+
+## Teachfloor: The leading social learning platform
+ - [https://www.teachfloor.com](https://www.teachfloor.com)
+ - date published: 2023-10-25T17:23:53.514633+00:00
+ - user: None
+ - tags: []
+
+## TeachMePhysiology - Making Physiology Simple
+ - [https://teachmephysiology.com](https://teachmephysiology.com)
+ - date published: 2024-02-24T20:43:25.591811+00:00
+ - user: None
+ - tags: []
+
+## Team17 | Indie Games developed by Independent Developers
+ - [https://www.team17.com](https://www.team17.com)
+ - date published: 2023-11-01T13:30:58.364849+00:00
+ - user: None
+ - tags: ['video game developer', 'company', 'amiga', 'retro games']
+
+## Team-BHP - India's Most Trusted Car Reviews & News
+ - [https://www.team-bhp.com](https://www.team-bhp.com)
+ - date published: 2023-10-25T17:23:57.686441+00:00
+ - user: None
+ - tags: []
+
+## Blind - The #1 Tech Career Community - Blind
+ - [https://www.teamblind.com](https://www.teamblind.com)
+ - date published: 2023-10-25T17:24:03.818771+00:00
+ - user: None
+ - tags: []
+
+## Team BRG | Gaming guides and coverage
+ - [https://teambrg.com](https://teambrg.com)
+ - date published: 2023-12-13T16:22:56.736564+00:00
+ - user: None
+ - tags: []
+
+## TeamDynamix Sign-In
+ - [https://miamioh.teamdynamix.com](https://miamioh.teamdynamix.com)
+ - date published: 2024-02-08T16:47:32.092581+00:00
+ - user: None
+ - tags: []
+
+## Team Fortress 2
+ - [https://teamfortress.com](https://teamfortress.com)
+ - date published: 2023-10-30T15:18:20.534310+00:00
+ - user: None
+ - tags: ['game']
+
+## Team Fortress 2
+ - [https://www.teamfortress.com](https://www.teamfortress.com)
+ - date published: 2024-02-26T13:22:03.056752+00:00
+ - user: None
+ - tags: ['valve']
+
+## Team Heretics - Tienda oficial
+ - [https://teamheretics.com](https://teamheretics.com)
+ - date published: 2023-12-09T18:59:20.127080+00:00
+ - user: None
+ - tags: []
+
+## Team Liquid | A Legacy Unrivaled in Esports
+ - [https://www.teamliquid.com](https://www.teamliquid.com)
+ - date published: 2024-03-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Team NINJA
+ - [https://www.teamninja-studio.com](https://www.teamninja-studio.com)
+ - date published: 2024-02-06T16:50:43+00:00
+ - user: rumpel
+ - tags: ['video game developer']
+
+## Team management for developers - Teamplify
+ - [https://teamplify.com](https://teamplify.com)
+ - date published: 2023-10-25T17:24:05.514376+00:00
+ - user: None
+ - tags: []
+
+## Tea with Tolkien
+ - [https://www.teawithtolkien.com](https://www.teawithtolkien.com)
+ - date published: 2023-10-25T13:56:06.179784+00:00
+ - user: None
+ - tags: ['lord of the rings', 'hobbit']
+
 ## TechAint – The New Staff From Technology
  - [https://techaint.com](https://techaint.com)
  - date published: 2023-10-25T17:24:18.770437+00:00
@@ -194,7 +302,7 @@
  - [https://techurls.com](https://techurls.com)
  - date published: 2024-04-09T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['tech news', 'link aggregator']
 
 ## EveryDayIsNewDay
  - [https://techwaltz.com](https://techwaltz.com)
@@ -269,14 +377,14 @@
  - tags: ['personal']
 
 ## flak
- - [https://flak.tedunangst.com](https://flak.tedunangst.com)
- - date published: 2023-10-25T17:26:08.173750+00:00
+ - [http://flak.tedunangst.com](http://flak.tedunangst.com)
+ - date published: 2024-01-19T00:00:00+00:00
  - user: None
  - tags: []
 
 ## flak
- - [http://flak.tedunangst.com](http://flak.tedunangst.com)
- - date published: 2024-01-19T00:00:00+00:00
+ - [https://flak.tedunangst.com](https://flak.tedunangst.com)
+ - date published: 2023-10-25T17:26:08.173750+00:00
  - user: None
  - tags: []
 
@@ -647,14 +755,14 @@
  - tags: []
 
 ## ASCII by Jason Scott
- - [http://ascii.textfiles.com](http://ascii.textfiles.com)
- - date published: 2024-02-02T00:00:00+00:00
+ - [https://ascii.textfiles.com](https://ascii.textfiles.com)
+ - date published: 2024-01-09T02:50:36.905624+00:00
  - user: None
  - tags: []
 
 ## ASCII by Jason Scott
- - [https://ascii.textfiles.com](https://ascii.textfiles.com)
- - date published: 2024-01-09T02:50:36.905624+00:00
+ - [http://ascii.textfiles.com](http://ascii.textfiles.com)
+ - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1207,16 +1315,16 @@
  - tags: ['comics']
 
 ## Rogues of Clwyd-Rhan - Overview
- - [http://rocr.thecomicseries.com](http://rocr.thecomicseries.com)
- - date published: 2024-04-07T14:24:32.167292+00:00
- - user: None
- - tags: []
-
-## Rogues of Clwyd-Rhan - Overview
  - [https://rocr.thecomicseries.com](https://rocr.thecomicseries.com)
  - date published: 2024-04-07T14:18:32+00:00
  - user: rumpel
  - tags: ['graphics', 'comics']
+
+## Rogues of Clwyd-Rhan - Overview
+ - [http://rocr.thecomicseries.com](http://rocr.thecomicseries.com)
+ - date published: 2024-04-07T14:24:32.167292+00:00
+ - user: None
+ - tags: []
 
 ## This webcomic was not found - Comic Fury Webcomic Hosting
  - [http://spunoff.thecomicseries.com](http://spunoff.thecomicseries.com)
@@ -1441,14 +1549,14 @@
  - tags: []
 
 ## The Entrepreneur Way
- - [http://theentrepreneurway.com](http://theentrepreneurway.com)
- - date published: 2024-04-03T06:25:55.591870+00:00
+ - [https://theentrepreneurway.com](https://theentrepreneurway.com)
+ - date published: 2023-11-29T14:41:41.566948+00:00
  - user: None
  - tags: ['personal']
 
 ## The Entrepreneur Way
- - [https://theentrepreneurway.com](https://theentrepreneurway.com)
- - date published: 2023-11-29T14:41:41.566948+00:00
+ - [http://theentrepreneurway.com](http://theentrepreneurway.com)
+ - date published: 2024-04-03T06:25:55.591870+00:00
  - user: None
  - tags: ['personal']
 
@@ -1585,14 +1693,14 @@
  - tags: ['news']
 
 ## Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
- - [https://www.thefreedictionary.com](https://www.thefreedictionary.com)
- - date published: 2023-10-25T09:28:50.951090+00:00
+ - [http://www.thefreedictionary.com](http://www.thefreedictionary.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
- - [http://www.thefreedictionary.com](http://www.thefreedictionary.com)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://www.thefreedictionary.com](https://www.thefreedictionary.com)
+ - date published: 2023-10-25T09:28:50.951090+00:00
  - user: None
  - tags: []
 
@@ -3748,14 +3856,14 @@
  - tags: []
 
 ## Home
- - [https://timgorichanaz.com](https://timgorichanaz.com)
- - date published: 2023-11-29T14:42:44.444226+00:00
+ - [http://timgorichanaz.com](http://timgorichanaz.com)
+ - date published: 1970-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Home
- - [http://timgorichanaz.com](http://timgorichanaz.com)
- - date published: 1970-01-01T00:00:00+00:00
+ - [https://timgorichanaz.com](https://timgorichanaz.com)
+ - date published: 2023-11-29T14:42:44.444226+00:00
  - user: None
  - tags: []
 
@@ -3910,14 +4018,14 @@
  - tags: []
 
 ## Tiny Subversions | Darius Kazemi
- - [https://tinysubversions.com](https://tinysubversions.com)
- - date published: 2023-10-25T17:43:12.693676+00:00
+ - [http://tinysubversions.com](http://tinysubversions.com)
+ - date published: 2024-02-26T14:09:56.377973+00:00
  - user: None
  - tags: []
 
 ## Tiny Subversions | Darius Kazemi
- - [http://tinysubversions.com](http://tinysubversions.com)
- - date published: 2024-02-26T14:09:56.377973+00:00
+ - [https://tinysubversions.com](https://tinysubversions.com)
+ - date published: 2023-10-25T17:43:12.693676+00:00
  - user: None
  - tags: []
 
@@ -4330,16 +4438,16 @@
  - tags: []
 
 ## Top Mud Sites - MUD and RPG Rankings - Mud Database, RPG & MUD Forums, MUD Articles, MUD Reviews
- - [https://www.topmudsites.com](https://www.topmudsites.com)
- - date published: 2024-03-27T20:46:19+00:00
- - user: rumpel
- - tags: ['mud game']
-
-## Top Mud Sites - MUD and RPG Rankings - Mud Database, RPG & MUD Forums, MUD Articles, MUD Reviews
  - [http://www.topmudsites.com](http://www.topmudsites.com)
  - date published: 2024-03-27T20:46:53.062376+00:00
  - user: None
  - tags: []
+
+## Top Mud Sites - MUD and RPG Rankings - Mud Database, RPG & MUD Forums, MUD Articles, MUD Reviews
+ - [https://www.topmudsites.com](https://www.topmudsites.com)
+ - date published: 2024-03-27T20:46:19+00:00
+ - user: rumpel
+ - tags: ['mud game']
 
 ## Navratilova Apartment in Prague (Czech Republic), top-pragueapartments.com - Photos
  - [https://navratilova-apartments.top-pragueapartments.com](https://navratilova-apartments.top-pragueapartments.com)
@@ -4830,14 +4938,14 @@
  - tags: []
 
 ## Trialfacts
- - [https://trialfacts.com](https://trialfacts.com)
- - date published: 2023-12-03T01:43:30.890601+00:00
+ - [http://trialfacts.com](http://trialfacts.com)
+ - date published: 2024-04-03T06:30:30.246581+00:00
  - user: None
  - tags: ['personal']
 
 ## Trialfacts
- - [http://trialfacts.com](http://trialfacts.com)
- - date published: 2024-04-03T06:30:30.246581+00:00
+ - [https://trialfacts.com](https://trialfacts.com)
+ - date published: 2023-12-03T01:43:30.890601+00:00
  - user: None
  - tags: ['personal']
 
@@ -5394,14 +5502,14 @@
  - tags: []
 
 ## Ri Science
- - [https://ri-science.tumblr.com](https://ri-science.tumblr.com)
- - date published: 2024-02-26T12:41:40.542943+00:00
+ - [http://ri-science.tumblr.com](http://ri-science.tumblr.com)
+ - date published: 2024-01-22T13:18:45.582843+00:00
  - user: None
  - tags: []
 
 ## Ri Science
- - [http://ri-science.tumblr.com](http://ri-science.tumblr.com)
- - date published: 2024-01-22T13:18:45.582843+00:00
+ - [https://ri-science.tumblr.com](https://ri-science.tumblr.com)
+ - date published: 2024-02-26T12:41:40.542943+00:00
  - user: None
  - tags: []
 
@@ -5687,27 +5795,27 @@
  - user: None
  - tags: []
 
-## None
- - [http://twitter.com](http://twitter.com)
- - date published: 2024-02-24T09:56:43.443371+00:00
- - user: None
- - tags: []
-
 ## https://twitter.com
  - [https://twitter.com](https://twitter.com)
  - date published: 2023-10-24T20:12:44.394161+00:00
  - user: None
  - tags: ['gatekeeper', 'social platform']
 
-## https://www.twitter.com
- - [https://www.twitter.com](https://www.twitter.com)
- - date published: 2023-11-02T10:41:01.683595+00:00
+## None
+ - [http://twitter.com](http://twitter.com)
+ - date published: 2024-02-24T09:56:43.443371+00:00
  - user: None
  - tags: []
 
 ## None
  - [http://www.twitter.com](http://www.twitter.com)
  - date published: 2024-02-24T10:09:05.748163+00:00
+ - user: None
+ - tags: []
+
+## https://www.twitter.com
+ - [https://www.twitter.com](https://www.twitter.com)
+ - date published: 2023-11-02T10:41:01.683595+00:00
  - user: None
  - tags: []
 
@@ -5896,112 +6004,4 @@
  - date published: 2023-10-25T17:51:48.270459+00:00
  - user: None
  - tags: []
-
-## https://laurencedelaferriere.typepad.com
- - [https://laurencedelaferriere.typepad.com](https://laurencedelaferriere.typepad.com)
- - date published: 2024-02-08T16:58:49.081083+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://sylloge.typepad.com](https://sylloge.typepad.com)
- - date published: 2024-03-15T17:17:22.634865+00:00
- - user: None
- - tags: []
-
-## https://twistedphysics.typepad.com
- - [https://twistedphysics.typepad.com](https://twistedphysics.typepad.com)
- - date published: 2023-10-25T17:51:48.512765+00:00
- - user: None
- - tags: []
-
-## https://vocalminority.typepad.com
- - [https://vocalminority.typepad.com](https://vocalminority.typepad.com)
- - date published: 2024-02-08T18:21:05.899560+00:00
- - user: None
- - tags: []
-
-## Varun Gandhi | writing, compilers, software engineering and minutae
- - [https://typesanitizer.com](https://typesanitizer.com)
- - date published: 2023-10-25T17:51:53.999121+00:00
- - user: None
- - tags: []
-
-## Type Scale - A Visual Calculator
- - [https://typescale.com](https://typescale.com)
- - date published: 2023-10-25T17:51:55.482502+00:00
- - user: None
- - tags: []
-
-## Type-Signature
- - [https://type-signature.com](https://type-signature.com)
- - date published: 2023-10-25T17:51:40.689549+00:00
- - user: None
- - tags: []
-
-## Type Theory Forall - Episodes
- - [https://www.typetheoryforall.com](https://www.typetheoryforall.com)
- - date published: 2023-10-25T17:51:57.326764+00:00
- - user: None
- - tags: []
-
-## Typical Programmer
- - [https://typicalprogrammer.com](https://typicalprogrammer.com)
- - date published: 2023-10-25T09:21:15.557044+00:00
- - user: None
- - tags: ['personal']
-
-## TypingMind — A better UI for ChatGPT
- - [https://www.typingmind.com](https://www.typingmind.com)
- - date published: 2023-10-25T17:51:57.929093+00:00
- - user: None
- - tags: []
-
-## None
- - [https://cloud.typography.com](https://cloud.typography.com)
- - date published: 2024-03-04T11:35:57.537663+00:00
- - user: None
- - tags: []
-
-## Typography for Lawyers
- - [https://typographyforlawyers.com](https://typographyforlawyers.com)
- - date published: 2023-10-25T17:52:00.702013+00:00
- - user: None
- - tags: []
-
-## Show HN: AI Generated (Not-Real) User Avatar Images for Development Needs
- - [https://avatars.tzador.com](https://avatars.tzador.com)
- - date published: 2024-02-17T10:20:22+00:00
- - user: None
- - tags: []
-
-## UAV Navigation | Cutting-edge Autopilots
- - [https://www.uavnavigation.com](https://www.uavnavigation.com)
- - date published: 2023-11-08T11:27:58.101729+00:00
- - user: None
- - tags: ['aviation', 'aerospace', 'avionics']
-
-## Zostań kierowcą i osiągaj przychody albo zamów przejazd | Uber Polska
- - [https://www.uber.com](https://www.uber.com)
- - date published: 2023-10-25T17:52:04.965059+00:00
- - user: None
- - tags: []
-
-## Uber Losses
- - [https://uberlosses.com](https://uberlosses.com)
- - date published: 2023-10-25T17:52:05.844245+00:00
- - user: None
- - tags: []
-
-## Ubicloud - Open and portable cloud
- - [https://www.ubicloud.com](https://www.ubicloud.com)
- - date published: 2023-12-15T11:11:48.637444+00:00
- - user: None
- - tags: []
-
-## Ubisoft | Welcome to the official Ubisoft website
- - [https://www.ubisoft.com](https://www.ubisoft.com)
- - date published: 2024-02-06T16:41:50.442188+00:00
- - user: None
- - tags: ['company', 'video game developer']
 

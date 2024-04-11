@@ -1,3 +1,213 @@
+## blog.davep.org
+ - [https://blog.davep.org](https://blog.davep.org)
+ - date published: 2024-01-01T12:05:05.774145+00:00
+ - user: None
+ - tags: []
+
+## Dave Peck
+ - [https://davepeck.org](https://davepeck.org)
+ - date published: 2024-01-04T22:41:55.591112+00:00
+ - user: None
+ - tags: []
+
+## DAViCal - DAViCal Home
+ - [https://www.davical.org](https://www.davical.org)
+ - date published: 2024-04-08T19:31:30.696145+00:00
+ - user: None
+ - tags: ['calendar', 'caldav', 'self-host']
+
+## David Cummings on Startups – 3,000+ posts on entrepreneurship and startups
+ - [https://davidcummings.org](https://davidcummings.org)
+ - date published: 2023-10-25T21:12:47.339422+00:00
+ - user: None
+ - tags: []
+
+## david galbraith
+ - [https://davidgalbraith.org](https://davidgalbraith.org)
+ - date published: 2023-10-25T21:12:51.395744+00:00
+ - user: None
+ - tags: []
+
+## David Smith, Independent iOS Developer
+ - [https://www.david-smith.org](https://www.david-smith.org)
+ - date published: 2023-10-25T21:12:44.390007+00:00
+ - user: None
+ - tags: []
+
+## Democracy for the Arab World Now - DAWN - Home
+ - [https://dawnmena.org](https://dawnmena.org)
+ - date published: 2023-10-25T21:12:58.207782+00:00
+ - user: None
+ - tags: []
+
+## home | dbinvest
+ - [https://dbinvest.org](https://dbinvest.org)
+ - date published: 2023-12-13T20:59:42.326354+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - DBpedia Association
+ - [https://www.dbpedia.org](https://www.dbpedia.org)
+ - date published: 2023-10-25T21:13:01.971237+00:00
+ - user: None
+ - tags: []
+
+## A Data-Centric Introduction to Computing
+ - [https://dcic-world.org](https://dcic-world.org)
+ - date published: 2023-10-25T21:13:03.296556+00:00
+ - user: None
+ - tags: []
+
+## https://dconf.org
+ - [https://dconf.org](https://dconf.org)
+ - date published: 2024-01-09T03:38:54.424034+00:00
+ - user: None
+ - tags: []
+
+## Dragon's Den – Online MUD running since 1990
+ - [https://dden.org](https://dden.org)
+ - date published: 2024-03-27T20:47:06.596397+00:00
+ - user: None
+ - tags: []
+
+## Dean Sas
+ - [https://deansas.org](https://deansas.org)
+ - date published: 2024-01-14T08:12:43.240733+00:00
+ - user: None
+ - tags: []
+
+## Death by Numbers
+ - [https://www.deathbynumbers.org](https://www.deathbynumbers.org)
+ - date published: 2024-01-31T17:31:00.173984+00:00
+ - user: None
+ - tags: []
+
+## Bits from Debian - Blog from the Debian Project
+ - [https://bits.debian.org](https://bits.debian.org)
+ - date published: 2023-10-25T21:13:16.611368+00:00
+ - user: None
+ - tags: []
+
+## Debian bug tracking system
+ - [https://bugs.debian.org](https://bugs.debian.org)
+ - date published: 2023-10-25T21:13:19.916026+00:00
+ - user: None
+ - tags: []
+
+## Debian on CDs/DVDs
+ - [https://cdimage.debian.org](https://cdimage.debian.org)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Debian Mailing Lists -- Index
+ - [https://lists.debian.org](https://lists.debian.org)
+ - date published: 2023-10-25T21:13:21.561311+00:00
+ - user: None
+ - tags: []
+
+## Debian -- Packages
+ - [https://packages.debian.org](https://packages.debian.org)
+ - date published: 2023-12-11T00:00:00+00:00
+ - user: rumpel
+ - tags: ['app store']
+
+## FrontPage - Debian Wiki
+ - [https://wiki.debian.org](https://wiki.debian.org)
+ - date published: 2023-10-25T21:13:23.896963+00:00
+ - user: None
+ - tags: []
+
+## Debian -- The Universal Operating System
+ - [https://www.debian.org](https://www.debian.org)
+ - date published: 2023-10-25T08:32:06.148094+00:00
+ - user: None
+ - tags: ['operating system', 'linux']
+
+## Decap CMS | Open-Source Content Management System
+ - [https://decapcms.org](https://decapcms.org)
+ - date published: 2024-02-22T15:20:54.347827+00:00
+ - user: None
+ - tags: []
+
+## Allconnect.com: Find Internet Providers Near You | 844-845-3968
+ - [https://decisiondata.org](https://decisiondata.org)
+ - date published: 2023-10-25T21:13:30.075023+00:00
+ - user: None
+ - tags: []
+
+## Declassified Australia
+ - [https://declassifiedaus.org](https://declassifiedaus.org)
+ - date published: 2023-10-25T21:13:35.111668+00:00
+ - user: None
+ - tags: []
+
+## Declassified UK
+ - [https://www.declassifieduk.org](https://www.declassifieduk.org)
+ - date published: 2024-01-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DECRUNCH 2024 demoparty. May 17th-19th, 2023. Czasoprzestrzeń, Tramwajowa 1-3, Wroclaw
+ - [https://decrunch.org](https://decrunch.org)
+ - date published: 2023-12-11T17:38:11.237785+00:00
+ - user: None
+ - tags: []
+
+## DECUServe on-line
+ - [https://eisner.decus.org](https://eisner.decus.org)
+ - date published: 2023-11-18T11:29:46.509000+00:00
+ - user: None
+ - tags: []
+
+## De-Dollarization Facts: Up-To-Date Facts About The U.S. Dollar In The World
+ - [https://www.de-dollarization.org](https://www.de-dollarization.org)
+ - date published: 2023-10-25T21:13:07.530962+00:00
+ - user: None
+ - tags: []
+
+## deepin  - 基于Linux的开源国产操作系统
+ - [https://www.deepin.org](https://www.deepin.org)
+ - date published: 2023-11-06T10:10:58.272990+00:00
+ - user: None
+ - tags: ['operating system', 'linux']
+
+## Welcome to the Deep State Blog
+ - [https://www.deepstateblog.org](https://www.deepstateblog.org)
+ - date published: 2023-10-25T21:13:44.064425+00:00
+ - user: None
+ - tags: []
+
+## Deep Synoptic Array (DSA)
+ - [https://www.deepsynoptic.org](https://www.deepsynoptic.org)
+ - date published: 2023-10-25T21:13:47.752146+00:00
+ - user: None
+ - tags: []
+
+## DEF CON Hacking Conference Home
+ - [https://defcon.org](https://defcon.org)
+ - date published: 2024-02-05T09:21:34+00:00
+ - user: rumpel
+ - tags: ['hacking', 'conference', 'community event']
+
+## forum.defcon.org
+ - [https://forum.defcon.org](https://forum.defcon.org)
+ - date published: 2024-02-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The DEF CON® Media Server - Archives of the conferences
+ - [https://media.defcon.org](https://media.defcon.org)
+ - date published: 2024-02-05T19:19:52.136849+00:00
+ - user: None
+ - tags: ['hacking']
+
+## DEF CON merchandise shop
+ - [https://shop.defcon.org](https://shop.defcon.org)
+ - date published: 2024-02-05T17:23:18.325780+00:00
+ - user: None
+ - tags: []
+
 ## DEF CON Security Training
  - [https://training.defcon.org](https://training.defcon.org)
  - date published: 2024-02-05T17:23:16.947188+00:00
@@ -293,14 +503,14 @@
  - tags: []
 
 ## Resolve a DOI Name
- - [http://dx.doi.org](http://dx.doi.org)
- - date published: 2024-02-27T01:04:33.113692+00:00
+ - [https://dx.doi.org](https://dx.doi.org)
+ - date published: 2023-12-03T01:17:58.110575+00:00
  - user: None
  - tags: []
 
 ## Resolve a DOI Name
- - [https://dx.doi.org](https://dx.doi.org)
- - date published: 2023-12-03T01:17:58.110575+00:00
+ - [http://dx.doi.org](http://dx.doi.org)
+ - date published: 2024-02-27T01:04:33.113692+00:00
  - user: None
  - tags: []
 
@@ -363,6 +573,12 @@
  - date published: 2023-10-25T21:15:11.977111+00:00
  - user: None
  - tags: []
+
+## DOUBLE MERSENNE PRIME | A distributed math search
+ - [http://www.doublemersennes.org](http://www.doublemersennes.org)
+ - date published: 2024-04-10T08:11:08.178949+00:00
+ - user: None
+ - tags: ['math']
 
 ## Welcome - Doug Engelbart Institute
  - [https://www.dougengelbart.org](https://www.dougengelbart.org)
@@ -1030,15 +1246,15 @@
  - user: None
  - tags: []
 
-## Thib's Home
- - [https://ergaster.org](https://ergaster.org)
- - date published: 2023-10-25T21:18:23.232043+00:00
- - user: None
- - tags: []
-
 ## Ergaster
  - [http://ergaster.org](http://ergaster.org)
  - date published: 2024-02-26T14:07:11.647181+00:00
+ - user: None
+ - tags: []
+
+## Thib's Home
+ - [https://ergaster.org](https://ergaster.org)
+ - date published: 2023-10-25T21:18:23.232043+00:00
  - user: None
  - tags: []
 
@@ -1491,6 +1707,12 @@
  - date published: 2023-10-25T21:20:28.648981+00:00
  - user: None
  - tags: []
+
+## :: F E R M A T S E A R C H . O R G :: Home page
+ - [http://www.fermatsearch.org](http://www.fermatsearch.org)
+ - date published: 2024-04-10T08:11:08.771529+00:00
+ - user: None
+ - tags: ['math', 'fermat number']
 
 ## Home of Feross Aboukhadijeh » Feross.org
  - [https://feross.org](https://feross.org)
@@ -2309,16 +2531,16 @@
  - tags: []
 
 ## Gamesboro Radio
- - [http://radio.gamesboro.org](http://radio.gamesboro.org)
- - date published: 2024-02-15T02:00:21.565467+00:00
- - user: None
- - tags: []
-
-## Gamesboro Radio
  - [https://radio.gamesboro.org](https://radio.gamesboro.org)
  - date published: 2024-02-15T22:13:54.975381+00:00
  - user: None
  - tags: ['demoscene']
+
+## Gamesboro Radio
+ - [http://radio.gamesboro.org](http://radio.gamesboro.org)
+ - date published: 2024-02-15T02:00:21.565467+00:00
+ - user: None
+ - tags: []
 
 ## Gamesboro Shoutcast
  - [http://shoutcast.gamesboro.org](http://shoutcast.gamesboro.org)
@@ -3735,16 +3957,16 @@
  - tags: []
 
 ## IEEE Spectrum
- - [https://spectrum.ieee.org](https://spectrum.ieee.org)
- - date published: 2023-10-25T09:37:30.327947+00:00
- - user: None
- - tags: ['tech news']
-
-## IEEE Spectrum
  - [http://spectrum.ieee.org](http://spectrum.ieee.org)
  - date published: 2024-02-25T20:49:03.401404+00:00
  - user: None
  - tags: []
+
+## IEEE Spectrum
+ - [https://spectrum.ieee.org](https://spectrum.ieee.org)
+ - date published: 2023-10-25T09:37:30.327947+00:00
+ - user: None
+ - tags: ['tech news']
 
 ## None
  - [https://ieeeia.org](https://ieeeia.org)
@@ -4564,14 +4786,14 @@ Welcome
  - tags: ['personal']
 
 ## Home
- - [http://jpc2.org](http://jpc2.org)
- - date published: 2023-12-24T08:16:31.320638+00:00
+ - [https://jpc2.org](https://jpc2.org)
+ - date published: 2024-04-03T12:49:04.549276+00:00
  - user: None
  - tags: ['personal']
 
 ## Home
- - [https://jpc2.org](https://jpc2.org)
- - date published: 2024-04-03T12:49:04.549276+00:00
+ - [http://jpc2.org](http://jpc2.org)
+ - date published: 2023-12-24T08:16:31.320638+00:00
  - user: None
  - tags: ['personal']
 
@@ -5772,236 +5994,14 @@ Hosted by Panix.com.
  - tags: []
 
 ## Living Code
- - [http://livingcode.org](http://livingcode.org)
- - date published: 2020-07-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Living Code
  - [https://livingcode.org](https://livingcode.org)
  - date published: 2020-07-20T00:00:00+00:00
  - user: None
  - tags: []
 
-## Living New Deal | Living New Deal
- - [https://livingnewdeal.org](https://livingnewdeal.org)
- - date published: 2024-01-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## LKML.ORG - the Linux Kernel Mailing List Archive
- - [https://lkml.org](https://lkml.org)
- - date published: 2023-11-13T12:04:53.320666+00:00
- - user: None
- - tags: []
-
-## Universal and Transferable Attacks on Aligned Language Models
- - [https://llm-attacks.org](https://llm-attacks.org)
- - date published: 2023-10-25T21:39:17.051556+00:00
- - user: None
- - tags: []
-
-## GPU Utils ⚡️
- - [https://gpus.llm-utils.org](https://gpus.llm-utils.org)
- - date published: 2023-10-25T21:39:18.562208+00:00
- - user: None
- - tags: []
-
-## Home - LLM Utils
- - [https://llm-utils.org](https://llm-utils.org)
- - date published: 2023-10-25T21:39:20.535334+00:00
- - user: None
- - tags: []
-
-## The LLVM Project Blog
- - [https://blog.llvm.org](https://blog.llvm.org)
- - date published: 2023-12-12T23:37:43.090695+00:00
- - user: None
- - tags: []
-
-## LLVM Discussion Forums - Our community includes both users and developers of various compiler technologies within the LLVM project.
- - [https://discourse.llvm.org](https://discourse.llvm.org)
- - date published: 2023-10-25T21:39:24.567913+00:00
- - user: None
- - tags: []
-
-## The LLVM Compiler Infrastructure Project
- - [https://llvm.org](https://llvm.org)
- - date published: 2023-10-25T21:39:28.896311+00:00
- - user: None
- - tags: ['compiler']
-
-## Download LLVM releases
- - [https://releases.llvm.org](https://releases.llvm.org)
- - date published: 2023-10-25T21:39:30.474866+00:00
- - user: None
- - tags: []
-
-## Loża-Matka "Kopernik"
- - [https://lmkopernik.org](https://lmkopernik.org)
- - date published: 2023-12-05T15:16:55+00:00
- - user: None
- - tags: ['freemasonry']
-
-## Mistral AI launches Mixtral-Next
- - [https://chat.lmsys.org](https://chat.lmsys.org)
- - date published: 2024-02-17T03:46:24+00:00
- - user: None
- - tags: []
-
-## LMSYS Org
- - [https://lmsys.org](https://lmsys.org)
- - date published: 2023-10-25T21:39:31.970567+00:00
- - user: None
- - tags: []
-
-## Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality | LMSYS Org
- - [https://vicuna.lmsys.org](https://vicuna.lmsys.org)
- - date published: 2023-10-25T21:39:33.956719+00:00
- - user: None
- - tags: []
-
-## Home - Library of America
- - [https://www.loa.org](https://www.loa.org)
- - date published: 2024-02-06T12:42:50+00:00
- - user: rumpel
- - tags: ['books', 'reading']
-
-## LocalSend: Open-source, cross-platform file sharing to nearby devices
- - [https://localsend.org](https://localsend.org)
- - date published: 2024-03-10T21:38:06+00:00
- - user: None
- - tags: ['file send', 'open source']
-
-## Opening the target...
- - [https://mw.lojban.org](https://mw.lojban.org)
- - date published: 2023-10-25T21:39:36.643198+00:00
- - user: None
- - tags: []
-
-## LONG NOW — fostering long term thinking
- - [https://longnow.org](https://longnow.org)
- - date published: 2023-10-25T21:39:39.438749+00:00
- - user: None
- - tags: []
-
-## FDD's Long War Journal
- - [https://www.longwarjournal.org](https://www.longwarjournal.org)
- - date published: 2023-11-10T03:51:21.976358+00:00
- - user: None
- - tags: []
-
-## The Lost Cause | Cory Doctorow's craphound.com
- - [http://lost-cause.org](http://lost-cause.org)
- - date published: 2024-01-27T15:33:20.962470+00:00
- - user: None
- - tags: []
-
-## LÖVE - Free 2D Game Engine
- - [https://love2d.org](https://love2d.org)
- - date published: 2023-10-25T08:35:50.630389+00:00
- - user: None
- - tags: []
-
-## The Law and Political Economy Project
- - [https://lpeproject.org](https://lpeproject.org)
- - date published: 2024-02-24T18:19:33.317225+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://www.lpi.org](https://www.lpi.org)
- - date published: 2024-01-09T03:41:18.717606+00:00
- - user: None
- - tags: []
-
-## Louisville Public Media
- - [https://www.lpm.org](https://www.lpm.org)
- - date published: 2023-11-06T14:35:50.495843+00:00
- - user: None
- - tags: []
-
-## https://lpython.org
- - [https://lpython.org](https://lpython.org)
- - date published: 2023-10-25T21:39:41.946449+00:00
- - user: None
- - tags: []
-
-## The Long Riders Guild Academic Foundation
- - [https://www.lrgaf.org](https://www.lrgaf.org)
- - date published: 2024-01-09T03:41:28.231971+00:00
- - user: None
- - tags: []
-
-## The L-Space Web - A Terry Pratchett / Discworld Web® Site
- - [https://www.lspace.org](https://www.lspace.org)
- - date published: 2023-11-16T07:01:44.475059+00:00
- - user: None
- - tags: ['discworld', 'terry pratchett', 'fantasy']
-
-## The Programming Language Lua
- - [https://www.lua.org](https://www.lua.org)
- - date published: 2023-10-25T21:39:44.587710+00:00
- - user: None
- - tags: []
-
-## Luke Harold Miles
- - [https://lukemiles.org](https://lukemiles.org)
- - date published: 2024-01-12T18:47:12.686223+00:00
- - user: None
- - tags: []
-
-## Home Page for David Drysdale
- - [https://www.lurklurk.org](https://www.lurklurk.org)
- - date published: 2023-10-25T21:39:48.617218+00:00
- - user: None
- - tags: []
-
-## LXDE
- - [https://www.lxde.org](https://www.lxde.org)
- - date published: 2024-03-19T12:31:58+00:00
- - user: rumpel
- - tags: ['linux desktop environment']
-
-## LXQt - The Lightweight Qt Desktop Environment
- - [https://lxqt-project.org](https://lxqt-project.org)
- - date published: 2024-03-18T20:28:55.233986+00:00
- - user: None
- - tags: ['linux desktop environment']
-
-## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://german.lymphoma-net.org](https://german.lymphoma-net.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Calculus: Modeling and Application
- - [https://eulerarchive.maa.org](https://eulerarchive.maa.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Homepage | Mathematical Association of America
- - [https://maa.org](https://maa.org)
- - date published: 2023-10-25T21:39:56.661675+00:00
- - user: None
- - tags: []
-
-## Homepage | Mathematical Association of America
- - [https://www.maa.org](https://www.maa.org)
- - date published: 2023-10-25T21:40:08.149299+00:00
- - user: None
- - tags: []
-
-## Maasai Association | Kenya
- - [https://maasai-association.org](https://maasai-association.org)
- - date published: 2024-03-26T00:15:15.888429+00:00
- - user: None
- - tags: []
-
-## Macaulay Library
- - [https://www.macaulaylibrary.org](https://www.macaulaylibrary.org)
- - date published: 2023-12-07T00:42:18.929148+00:00
+## Living Code
+ - [http://livingcode.org](http://livingcode.org)
+ - date published: 2020-07-20T00:00:00+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,111 @@
+## https://laurencedelaferriere.typepad.com
+ - [https://laurencedelaferriere.typepad.com](https://laurencedelaferriere.typepad.com)
+ - date published: 2024-02-08T16:58:49.081083+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [https://sylloge.typepad.com](https://sylloge.typepad.com)
+ - date published: 2024-03-15T17:17:22.634865+00:00
+ - user: None
+ - tags: []
+
+## https://twistedphysics.typepad.com
+ - [https://twistedphysics.typepad.com](https://twistedphysics.typepad.com)
+ - date published: 2023-10-25T17:51:48.512765+00:00
+ - user: None
+ - tags: []
+
+## https://vocalminority.typepad.com
+ - [https://vocalminority.typepad.com](https://vocalminority.typepad.com)
+ - date published: 2024-02-08T18:21:05.899560+00:00
+ - user: None
+ - tags: []
+
+## Varun Gandhi | writing, compilers, software engineering and minutae
+ - [https://typesanitizer.com](https://typesanitizer.com)
+ - date published: 2023-10-25T17:51:53.999121+00:00
+ - user: None
+ - tags: []
+
+## Type Scale - A Visual Calculator
+ - [https://typescale.com](https://typescale.com)
+ - date published: 2023-10-25T17:51:55.482502+00:00
+ - user: None
+ - tags: []
+
+## Type-Signature
+ - [https://type-signature.com](https://type-signature.com)
+ - date published: 2023-10-25T17:51:40.689549+00:00
+ - user: None
+ - tags: []
+
+## Type Theory Forall - Episodes
+ - [https://www.typetheoryforall.com](https://www.typetheoryforall.com)
+ - date published: 2023-10-25T17:51:57.326764+00:00
+ - user: None
+ - tags: []
+
+## Typical Programmer
+ - [https://typicalprogrammer.com](https://typicalprogrammer.com)
+ - date published: 2023-10-25T09:21:15.557044+00:00
+ - user: None
+ - tags: ['personal']
+
+## TypingMind — A better UI for ChatGPT
+ - [https://www.typingmind.com](https://www.typingmind.com)
+ - date published: 2023-10-25T17:51:57.929093+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://cloud.typography.com](https://cloud.typography.com)
+ - date published: 2024-03-04T11:35:57.537663+00:00
+ - user: None
+ - tags: []
+
+## Typography for Lawyers
+ - [https://typographyforlawyers.com](https://typographyforlawyers.com)
+ - date published: 2023-10-25T17:52:00.702013+00:00
+ - user: None
+ - tags: []
+
+## Show HN: AI Generated (Not-Real) User Avatar Images for Development Needs
+ - [https://avatars.tzador.com](https://avatars.tzador.com)
+ - date published: 2024-02-17T10:20:22+00:00
+ - user: None
+ - tags: []
+
+## UAV Navigation | Cutting-edge Autopilots
+ - [https://www.uavnavigation.com](https://www.uavnavigation.com)
+ - date published: 2023-11-08T11:27:58.101729+00:00
+ - user: None
+ - tags: ['aviation', 'aerospace', 'avionics']
+
+## Zostań kierowcą i osiągaj przychody albo zamów przejazd | Uber Polska
+ - [https://www.uber.com](https://www.uber.com)
+ - date published: 2023-10-25T17:52:04.965059+00:00
+ - user: None
+ - tags: []
+
+## Uber Losses
+ - [https://uberlosses.com](https://uberlosses.com)
+ - date published: 2023-10-25T17:52:05.844245+00:00
+ - user: None
+ - tags: []
+
+## Ubicloud - Open and portable cloud
+ - [https://www.ubicloud.com](https://www.ubicloud.com)
+ - date published: 2023-12-15T11:11:48.637444+00:00
+ - user: None
+ - tags: []
+
+## Ubisoft | Welcome to the official Ubisoft website
+ - [https://www.ubisoft.com](https://www.ubisoft.com)
+ - date published: 2024-02-06T16:41:50.442188+00:00
+ - user: None
+ - tags: ['company', 'video game developer']
+
 ## Explore - Ubisoft Connect
  - [https://ubisoftconnect.com](https://ubisoftconnect.com)
  - date published: 2023-10-24T20:12:14.883217+00:00
@@ -53,14 +161,14 @@
  - tags: ['tutorials', 'skills']
 
 ## UDHARA DE SILVA
- - [http://udharadesilva.com](http://udharadesilva.com)
- - date published: 2024-04-03T06:24:04.772974+00:00
+ - [https://udharadesilva.com](https://udharadesilva.com)
+ - date published: 2023-12-30T15:37:21.565432+00:00
  - user: None
  - tags: ['personal']
 
 ## UDHARA DE SILVA
- - [https://udharadesilva.com](https://udharadesilva.com)
- - date published: 2023-12-30T15:37:21.565432+00:00
+ - [http://udharadesilva.com](http://udharadesilva.com)
+ - date published: 2024-04-03T06:24:04.772974+00:00
  - user: None
  - tags: ['personal']
 
@@ -374,7 +482,7 @@
  - [https://unfeeder.com](https://unfeeder.com)
  - date published: 2024-04-09T20:07:59.153410+00:00
  - user: None
- - tags: []
+ - tags: ['facebook news']
 
 ## UnHerd | think again
  - [https://unherd.com](https://unherd.com)
@@ -1350,13 +1458,13 @@
  - tags: []
 
 ## Veranda Vikings
- - [http://www.verandavikings.com](http://www.verandavikings.com)
+ - [https://www.verandavikings.com](https://www.verandavikings.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Veranda Vikings
- - [https://www.verandavikings.com](https://www.verandavikings.com)
+ - [http://www.verandavikings.com](http://www.verandavikings.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -1469,15 +1577,15 @@
  - user: None
  - tags: ['personal']
 
-## Vessi | The World's First Waterproof Shoes
- - [https://vessi.com](https://vessi.com)
- - date published: 2024-01-27T04:08:30.911752+00:00
- - user: None
- - tags: []
-
 ## Vessi: Waterproof Shoes in Everyday and Seasonal Styles
  - [http://vessi.com](http://vessi.com)
  - date published: 2024-02-24T09:54:58.605913+00:00
+ - user: None
+ - tags: []
+
+## Vessi | The World's First Waterproof Shoes
+ - [https://vessi.com](https://vessi.com)
+ - date published: 2024-01-27T04:08:30.911752+00:00
  - user: None
  - tags: []
 
@@ -2215,16 +2323,16 @@
  - tags: []
 
 ## Vox - Our world, explained
- - [https://www.vox.com](https://www.vox.com)
- - date published: 2023-10-25T10:39:39.512845+00:00
- - user: None
- - tags: ['news']
-
-## Vox - Our world, explained
  - [http://www.vox.com](http://www.vox.com)
  - date published: 2024-02-26T14:26:24.139528+00:00
  - user: None
  - tags: []
+
+## Vox - Our world, explained
+ - [https://www.vox.com](https://www.vox.com)
+ - date published: 2023-10-25T10:39:39.512845+00:00
+ - user: None
+ - tags: ['news']
 
 ## Voxel51 // Open source computer vision tools for machine learning
  - [https://voxel51.com](https://voxel51.com)
@@ -2803,16 +2911,16 @@
  - tags: ['self-driving cars']
 
 ## Home - Wayne Bennett
- - [http://www.waynebennettmusic.com](http://www.waynebennettmusic.com)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Wayne Bennett
  - [https://www.waynebennettmusic.com](https://www.waynebennettmusic.com)
  - date published: 2024-01-03T01:13:03.177702+00:00
  - user: None
  - tags: ['personal']
+
+## Home - Wayne Bennett
+ - [http://www.waynebennettmusic.com](http://www.waynebennettmusic.com)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Wayne Liew: Notes on Marketing and Personal Development
  - [https://www.wayneliew.com](https://www.wayneliew.com)
@@ -3001,13 +3109,13 @@
  - tags: []
 
 ## Webby Clare – Thoughts and other writings by Clare Conroy
- - [http://webbyclare.com](http://webbyclare.com)
+ - [https://webbyclare.com](https://webbyclare.com)
  - date published: 5538-01-03T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
 ## Webby Clare – Thoughts and other writings by Clare Conroy
- - [https://webbyclare.com](https://webbyclare.com)
+ - [http://webbyclare.com](http://webbyclare.com)
  - date published: 5538-01-03T00:00:00+00:00
  - user: None
  - tags: ['personal']
@@ -3277,14 +3385,14 @@
  - tags: ['personal']
 
 ## Wes Colton
- - [http://wescolton.com](http://wescolton.com)
- - date published: 2024-04-03T06:25:07.486525+00:00
+ - [https://wescolton.com](https://wescolton.com)
+ - date published: 2023-12-26T19:09:07.277282+00:00
  - user: None
  - tags: ['personal']
 
 ## Wes Colton
- - [https://wescolton.com](https://wescolton.com)
- - date published: 2023-12-26T19:09:07.277282+00:00
+ - [http://wescolton.com](http://wescolton.com)
+ - date published: 2024-04-03T06:25:07.486525+00:00
  - user: None
  - tags: ['personal']
 
@@ -3576,15 +3684,15 @@
  - user: None
  - tags: []
 
-## None
- - [http://wheybags.com](http://wheybags.com)
- - date published: 2024-02-26T15:12:36.370939+00:00
- - user: None
- - tags: []
-
 ## https://wheybags.com
  - [https://wheybags.com](https://wheybags.com)
  - date published: 2024-01-09T02:54:23.170380+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://wheybags.com](http://wheybags.com)
+ - date published: 2024-02-26T15:12:36.370939+00:00
  - user: None
  - tags: []
 
@@ -4183,14 +4291,14 @@
  - tags: []
 
 ## WinWorld: Welcome
- - [https://winworldpc.com](https://winworldpc.com)
- - date published: 2024-01-01T19:17:47.205122+00:00
+ - [http://winworldpc.com](http://winworldpc.com)
+ - date published: 2024-02-26T08:40:39.467757+00:00
  - user: None
  - tags: []
 
 ## WinWorld: Welcome
- - [http://winworldpc.com](http://winworldpc.com)
- - date published: 2024-02-26T08:40:39.467757+00:00
+ - [https://winworldpc.com](https://winworldpc.com)
+ - date published: 2024-01-01T19:17:47.205122+00:00
  - user: None
  - tags: []
 
@@ -4575,6 +4683,12 @@
 ## Wolfram Blog: News, Views and Insights from Wolfram
  - [https://blog.wolfram.com](https://blog.wolfram.com)
  - date published: 2024-03-26T01:40:45.674853+00:00
+ - user: None
+ - tags: []
+
+## Wolfram MathWorld: The Web's Most Extensive Mathematics Resource
+ - [https://mathworld.wolfram.com](https://mathworld.wolfram.com)
+ - date published: 2024-04-05T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5883,120 +5997,6 @@
 ## A Programmers Place | Observations, Reviews, and Essays
  - [https://vanemden.wordpress.com](https://vanemden.wordpress.com)
  - date published: 2023-10-25T18:17:55.236218+00:00
- - user: None
- - tags: []
-
-## 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗 | Another ${RANDOM} sysadmin sharing his experiences of work at IT industry.
- - [https://vermaden.wordpress.com](https://vermaden.wordpress.com)
- - date published: 2023-10-25T18:18:04.756895+00:00
- - user: None
- - tags: []
-
-## #about.me
- - [https://vitalyobukhov.wordpress.com](https://vitalyobukhov.wordpress.com)
- - date published: 2024-04-03T12:42:15.914134+00:00
- - user: None
- - tags: ['personal']
-
-## Private Site
- - [https://warfantasy.wordpress.com](https://warfantasy.wordpress.com)
- - date published: 2023-10-25T18:18:05.375450+00:00
- - user: None
- - tags: []
-
-## If 42 is the answer, what is the question? | My sophomoric speculations on "Life, the Universe and Everything"
- - [https://whatisthequestion.wordpress.com](https://whatisthequestion.wordpress.com)
- - date published: 2023-10-25T18:18:13.172980+00:00
- - user: None
- - tags: []
-
-## I am Aranab
- - [https://whynotdotcomcom.wordpress.com](https://whynotdotcomcom.wordpress.com)
- - date published: 2024-02-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## WordPress, Your Way
- - [https://wordpress.com](https://wordpress.com)
- - date published: 2023-10-25T08:33:01.720475+00:00
- - user: None
- - tags: []
-
-## Private Site
- - [https://writemz.wordpress.com](https://writemz.wordpress.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## XAML Brewer, by Diederik Krols | If you're not having fun, you're doing it wrong.
- - [https://xamlbrewer.wordpress.com](https://xamlbrewer.wordpress.com)
- - date published: 2023-10-25T18:18:27.707634+00:00
- - user: None
- - tags: []
-
-## WordReference Forums
- - [https://forum.wordreference.com](https://forum.wordreference.com)
- - date published: 2023-12-21T17:17:26.978086+00:00
- - user: None
- - tags: []
-
-## Workable
- - [https://apply.workable.com](https://apply.workable.com)
- - date published: 2023-10-25T18:18:31.082909+00:00
- - user: None
- - tags: []
-
-## Startup Jobs at YC Companies in Engineering, Product, Design, Remote and more | Y Combinator's Work at a Startup
- - [https://www.workatastartup.com](https://www.workatastartup.com)
- - date published: 2023-10-25T18:18:34.955309+00:00
- - user: None
- - tags: []
-
-## Work-Bites
- - [https://www.work-bites.com](https://www.work-bites.com)
- - date published: 2023-10-25T18:18:30.325248+00:00
- - user: None
- - tags: []
-
-## Work Chronicles - Webcomics
- - [https://workchronicles.com](https://workchronicles.com)
- - date published: 2023-10-25T18:18:38.617213+00:00
- - user: None
- - tags: []
-
-## A simpler way to organize your work - Workflowy
- - [https://workflowy.com](https://workflowy.com)
- - date published: 2023-12-13T11:22:54.148203+00:00
- - user: None
- - tags: ['personal']
-
-## Working Theorys | Anu Atluru | Substack
- - [https://www.workingtheorys.com](https://www.workingtheorys.com)
- - date published: 2024-01-17T18:11:38.349001+00:00
- - user: None
- - tags: []
-
-## Work.Life.Whatever.
- - [https://worklifewhatever.com](https://worklifewhatever.com)
- - date published: 2024-01-12T18:47:15.664867+00:00
- - user: None
- - tags: []
-
-## Workweek - A New Kind of Media Company
- - [https://workweek.com](https://workweek.com)
- - date published: 2023-10-25T18:18:41.778705+00:00
- - user: None
- - tags: []
-
-## World Map / World Atlas / Atlas of the World Including Geography Facts and Flags - WorldAtlas.com
- - [https://www.worldatlas.com](https://www.worldatlas.com)
- - date published: 2024-02-24T14:23:53.166295+00:00
- - user: None
- - tags: []
-
-## World Backup Day
- - [https://www.worldbackupday.com](https://www.worldbackupday.com)
- - date published: 2023-04-03T00:00:00+00:00
  - user: None
  - tags: []
 

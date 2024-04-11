@@ -1,3 +1,81 @@
+## Naz Avó's Pit | Tech, nomadic lifestyle, and financial independence
+ - [https://nazavo.com](https://nazavo.com)
+ - date published: 2023-12-14T06:55:11.795416+00:00
+ - user: None
+ - tags: ['personal']
+
+## The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com
+ - [http://www.nba.com](http://www.nba.com)
+ - date published: 2024-03-30T05:22:12.807955+00:00
+ - user: None
+ - tags: []
+
+## NBC Bay Area – Bay Area News, Local News, Weather, Traffic, Entertainment, Breaking News
+ - [https://www.nbcbayarea.com](https://www.nbcbayarea.com)
+ - date published: 2023-10-25T11:05:29.767118+00:00
+ - user: None
+ - tags: []
+
+## NBC Boston
+ - [https://www.nbcboston.com](https://www.nbcboston.com)
+ - date published: 2023-11-18T16:44:26.976480+00:00
+ - user: None
+ - tags: ['news']
+
+## NBC Chicago
+ - [https://www.nbcchicago.com](https://www.nbcchicago.com)
+ - date published: 2023-12-06T11:49:40.873102+00:00
+ - user: None
+ - tags: []
+
+## NBC Connecticut
+ - [https://www.nbcconnecticut.com](https://www.nbcconnecticut.com)
+ - date published: 2023-12-31T13:24:50.551838+00:00
+ - user: None
+ - tags: []
+
+## NBC 5 Dallas-Fort Worth
+ - [https://www.nbcdfw.com](https://www.nbcdfw.com)
+ - date published: 2023-11-17T07:14:58.587632+00:00
+ - user: None
+ - tags: []
+
+## NBC Los Angeles – Los Angeles News, Local News, Weather, Traffic, Entertainment, Breaking News
+ - [https://www.nbclosangeles.com](https://www.nbclosangeles.com)
+ - date published: 2023-10-25T11:05:35.602882+00:00
+ - user: None
+ - tags: []
+
+## NBC 6 South Florida – NBC 6 South Florida | NBC 6 South Florida – Local News, Weather, Traffic, Entertainment, Events, Breaking News
+ - [https://www.nbcmiami.com](https://www.nbcmiami.com)
+ - date published: 2023-10-25T10:18:24.865109+00:00
+ - user: None
+ - tags: []
+
+## https://feeds.nbcnews.com
+ - [https://feeds.nbcnews.com](https://feeds.nbcnews.com)
+ - date published: 2024-01-09T01:46:49.827916+00:00
+ - user: None
+ - tags: []
+
+## NBC News - Breaking News & Top Stories - Latest World, US & Local News | NBC News
+ - [https://www.nbcnews.com](https://www.nbcnews.com)
+ - date published: 2023-10-25T10:27:02.197696+00:00
+ - user: None
+ - tags: []
+
+## NBC New York – New York News, Local News, Weather, Traffic, Entertainment, Breaking News
+ - [https://www.nbcnewyork.com](https://www.nbcnewyork.com)
+ - date published: 2023-10-25T11:05:45.889334+00:00
+ - user: None
+ - tags: []
+
+## NBC10 Philadelphia – Philadelphia News, Local News, Weather, Traffic, Entertainment, and Breaking News
+ - [https://www.nbcphiladelphia.com](https://www.nbcphiladelphia.com)
+ - date published: 2023-10-25T11:05:51.814430+00:00
+ - user: None
+ - tags: []
+
 ## NBC 7 San Diego
  - [https://www.nbcsandiego.com](https://www.nbcsandiego.com)
  - date published: 2024-03-13T21:06:05.363632+00:00
@@ -695,14 +773,14 @@
  - tags: []
 
 ## NewssMex
- - [https://www.newssmex.com](https://www.newssmex.com)
- - date published: 2024-02-27T12:34:22.767672+00:00
+ - [http://www.newssmex.com](http://www.newssmex.com)
+ - date published: 2024-02-27T12:33:40.005835+00:00
  - user: None
  - tags: []
 
 ## NewssMex
- - [http://www.newssmex.com](http://www.newssmex.com)
- - date published: 2024-02-27T12:33:40.005835+00:00
+ - [https://www.newssmex.com](https://www.newssmex.com)
+ - date published: 2024-02-27T12:34:22.767672+00:00
  - user: None
  - tags: []
 
@@ -1373,15 +1451,15 @@
  - user: None
  - tags: ['music band']
 
-## The Internet Nirvana Fan Club
- - [http://www.nirvanaclub.com](http://www.nirvanaclub.com)
- - date published: 2024-02-26T09:19:36.552314+00:00
- - user: None
- - tags: []
-
 ## [NFC: The Internet Nirvana Fan Club]
  - [https://www.nirvanaclub.com](https://www.nirvanaclub.com)
  - date published: 2023-10-25T14:19:53.039695+00:00
+ - user: None
+ - tags: []
+
+## The Internet Nirvana Fan Club
+ - [http://www.nirvanaclub.com](http://www.nirvanaclub.com)
+ - date published: 2024-02-26T09:19:36.552314+00:00
  - user: None
  - tags: []
 
@@ -1794,13 +1872,13 @@
  - tags: []
 
 ## Peter Norvig
- - [http://www.norvig.com](http://www.norvig.com)
+ - [https://www.norvig.com](https://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Peter Norvig
- - [https://www.norvig.com](https://www.norvig.com)
+ - [http://www.norvig.com](http://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -1848,14 +1926,14 @@
  - tags: []
 
 ## Notes & Photos
- - [http://www.notesandphotos.com](http://www.notesandphotos.com)
- - date published: 2024-04-03T12:46:22.033917+00:00
+ - [https://www.notesandphotos.com](https://www.notesandphotos.com)
+ - date published: 2023-12-20T21:30:54.650783+00:00
  - user: None
  - tags: ['personal']
 
 ## Notes & Photos
- - [https://www.notesandphotos.com](https://www.notesandphotos.com)
- - date published: 2023-12-20T21:30:54.650783+00:00
+ - [http://www.notesandphotos.com](http://www.notesandphotos.com)
+ - date published: 2024-04-03T12:46:22.033917+00:00
  - user: None
  - tags: ['personal']
 
@@ -3604,14 +3682,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## The OS/2 Museum
- - [http://www.os2museum.com](http://www.os2museum.com)
- - date published: 2024-02-25T18:55:49.882025+00:00
+ - [https://www.os2museum.com](https://www.os2museum.com)
+ - date published: 2023-10-25T16:27:40.415903+00:00
  - user: None
  - tags: []
 
 ## The OS/2 Museum
- - [https://www.os2museum.com](https://www.os2museum.com)
- - date published: 2023-10-25T16:27:40.415903+00:00
+ - [http://www.os2museum.com](http://www.os2museum.com)
+ - date published: 2024-02-25T18:55:49.882025+00:00
  - user: None
  - tags: []
 
@@ -4385,16 +4463,16 @@ Answering Machine Greetings!
  - tags: ['document library', 'self-host']
 
 ## Paperlike | Official Online Store
- - [http://paperlike.com](http://paperlike.com)
- - date published: 2024-02-24T09:57:05.617898+00:00
- - user: None
- - tags: ['screen protector']
-
-## Paperlike | Official Online Store
  - [https://paperlike.com](https://paperlike.com)
  - date published: 2024-03-07T19:36:45.060837+00:00
  - user: None
  - tags: []
+
+## Paperlike | Official Online Store
+ - [http://paperlike.com](http://paperlike.com)
+ - date published: 2024-02-24T09:57:05.617898+00:00
+ - user: None
+ - tags: ['screen protector']
 
 ## Papermerge DMS with OCR
  - [https://papermerge.com](https://papermerge.com)
@@ -4678,17 +4756,17 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
-## Max  FitzGerald  | Patreon
- - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
- - date published: 2023-10-27T15:07:52+00:00
- - user: rumpel
- - tags: ['turnip28', 'tabletop games']
-
 ## Home — Patreon
  - [http://www.patreon.com](http://www.patreon.com)
  - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
+
+## Max  FitzGerald  | Patreon
+ - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
+ - date published: 2023-10-27T15:07:52+00:00
+ - user: rumpel
+ - tags: ['turnip28', 'tabletop games']
 
 ## Home — Patreon
  - [https://www.patreon.com](https://www.patreon.com)
@@ -4721,14 +4799,14 @@ Answering Machine Greetings!
  - tags: ['3d artist', 'personal']
 
 ## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
- - date published: 2023-12-23T07:30:12.092026+00:00
+ - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
+ - date published: 2023-12-21T08:24:19.074982+00:00
  - user: None
  - tags: ['personal']
 
 ## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
- - date published: 2023-12-21T08:24:19.074982+00:00
+ - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
+ - date published: 2023-12-23T07:30:12.092026+00:00
  - user: None
  - tags: ['personal']
 
@@ -5711,14 +5789,14 @@ Answering Machine Greetings!
  - tags: ['music band', 'music artist']
 
 ## Phil D.
- - [https://phildenman.com](https://phildenman.com)
- - date published: 2023-12-27T23:55:08.862914+00:00
+ - [http://phildenman.com](http://phildenman.com)
+ - date published: 2024-04-03T06:25:43.319001+00:00
  - user: None
  - tags: ['personal']
 
 ## Phil D.
- - [http://phildenman.com](http://phildenman.com)
- - date published: 2024-04-03T06:25:43.319001+00:00
+ - [https://phildenman.com](https://phildenman.com)
+ - date published: 2023-12-27T23:55:08.862914+00:00
  - user: None
  - tags: ['personal']
 
@@ -5924,86 +6002,8 @@ Answering Machine Greetings!
  - tags: []
 
 ## phpied.com
- - [http://www.phpied.com](http://www.phpied.com)
- - date published: 2024-03-24T15:05:52.476257+00:00
- - user: None
- - tags: []
-
-## phpied.com
  - [https://www.phpied.com](https://www.phpied.com)
  - date published: 2024-01-15T05:45:17.624527+00:00
  - user: None
  - tags: []
-
-## PHP: The Right Way
- - [https://phptherightway.com](https://phptherightway.com)
- - date published: 2024-04-03T22:52:41+00:00
- - user: None
- - tags: ['programming', 'php', 'tutorials']
-
-## Phronemophobic's Blog
- - [https://blog.phronemophobic.com](https://blog.phronemophobic.com)
- - date published: 2023-10-25T16:34:18.995437+00:00
- - user: None
- - tags: []
-
-## Philipp Uhl
- - [https://ph-uhl.com](https://ph-uhl.com)
- - date published: 2023-10-25T08:47:31.001721+00:00
- - user: None
- - tags: ['personal']
-
-## Physics & Maths Tutor
- - [https://www.physicsandmathstutor.com](https://www.physicsandmathstutor.com)
- - date published: 2023-10-25T16:34:25.911179+00:00
- - user: None
- - tags: []
-
-## Blog By Physics-Astronomy
- - [https://blog.physics-astronomy.com](https://blog.physics-astronomy.com)
- - date published: 2023-10-25T16:34:22.769337+00:00
- - user: None
- - tags: []
-
-## Homepage | Physics-Astronomy
- - [https://www.physics-astronomy.com](https://www.physics-astronomy.com)
- - date published: 2024-01-01T22:21:48.330748+00:00
- - user: None
- - tags: []
-
-## Home – Physics World
- - [https://physicsworld.com](https://physicsworld.com)
- - date published: 2024-03-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://physiqonomics.com](https://physiqonomics.com)
- - date published: 2024-01-10T19:41:14.953087+00:00
- - user: None
- - tags: []
-
-## Private Internet Access: The Best VPN Service For 10+ Years
- - [https://www.piavpn.com](https://www.piavpn.com)
- - date published: 2024-03-27T12:00:54.483886+00:00
- - user: None
- - tags: ['vpn service']
-
-## Piazza • Ask. Answer. Explore. Whenever.
- - [https://piazza.com](https://piazza.com)
- - date published: 2024-03-27T10:11:02.144579+00:00
- - user: None
- - tags: []
-
-## Pick a Direction - How do you expect to finish if you never start?
- - [http://pickadirection.com](http://pickadirection.com)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pick a Direction - How do you expect to finish if you never start?
- - [https://pickadirection.com](https://pickadirection.com)
- - date published: 2023-12-27T01:10:03.415030+00:00
- - user: None
- - tags: ['personal']
 

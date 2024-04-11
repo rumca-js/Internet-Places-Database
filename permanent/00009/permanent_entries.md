@@ -1,3 +1,69 @@
+## Welcome to MARCHintosh
+ - [https://www.marchintosh.com](https://www.marchintosh.com)
+ - date published: 2024-03-06T08:40:14+00:00
+ - user: None
+ - tags: []
+
+## Marc Hoffman | Composer | Vocalist | Pianist
+ - [https://www.marchoffman.com](https://www.marchoffman.com)
+ - date published: 2024-01-15T22:20:21.341302+00:00
+ - user: None
+ - tags: ['personal']
+
+## Marc Koran - Skillstacking
+ - [https://marckoran.com](https://marckoran.com)
+ - date published: 2019-05-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hello, I'm Marc Littlemore
+ - [https://www.marclittlemore.com](https://www.marclittlemore.com)
+ - date published: 2023-12-09T15:01:11.057762+00:00
+ - user: None
+ - tags: ['personal']
+
+## blog.marcocantu.com
+ - [https://blog.marcocantu.com](https://blog.marcocantu.com)
+ - date published: 2023-12-01T10:46:10.581631+00:00
+ - user: None
+ - tags: []
+
+## Marco Castorina Blog and Portfolio
+ - [https://marcocastorina.com](https://marcocastorina.com)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Marco Cevoli
+ - [https://marcocevoli.com](https://marcocevoli.com)
+ - date published: 2023-11-29T14:53:51.157547+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.marcoreeuwijk.com
+ - [https://www.marcoreeuwijk.com](https://www.marcoreeuwijk.com)
+ - date published: 2024-01-25T03:05:36.342834+00:00
+ - user: None
+ - tags: []
+
+## marcthorpe.com – the art of
+ - [https://marcthorpe.com](https://marcthorpe.com)
+ - date published: 2023-11-27T07:06:46.747488+00:00
+ - user: None
+ - tags: []
+
+## The MB Charlotte NC Travel and Leisure Website and Blog
+ - [https://marcusbowden.com](https://marcusbowden.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Marek Narozniak's Homepage
+ - [https://mareknarozniak.com](https://mareknarozniak.com)
+ - date published: 2023-10-25T15:56:13.186989+00:00
+ - user: None
+ - tags: []
+
 ## Marginal REVOLUTION - Small Steps Toward A Much Better World
  - [https://marginalrevolution.com](https://marginalrevolution.com)
  - date published: 2023-10-25T15:56:20.591120+00:00
@@ -596,6 +662,12 @@
 ## matheusmoreira.com
  - [https://www.matheusmoreira.com](https://www.matheusmoreira.com)
  - date published: 2023-10-25T08:47:12.843961+00:00
+ - user: None
+ - tags: ['personal']
+
+## About · Matheus Portela
+ - [https://matheusportela.com](https://matheusportela.com)
+ - date published: 2024-04-10T12:32:32.397281+00:00
  - user: None
  - tags: ['personal']
 
@@ -3396,14 +3468,14 @@
  - tags: []
 
 ## Cloud-Based Medical Office Software & Billing Services
- - [http://www.microwize.com](http://www.microwize.com)
- - date published: 2024-04-01T00:00:00+00:00
+ - [https://www.microwize.com](https://www.microwize.com)
+ - date published: 2024-01-10T14:29:04.664029+00:00
  - user: None
  - tags: []
 
 ## Cloud-Based Medical Office Software & Billing Services
- - [https://www.microwize.com](https://www.microwize.com)
- - date published: 2024-01-10T14:29:04.664029+00:00
+ - [http://www.microwize.com](http://www.microwize.com)
+ - date published: 2024-04-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3456,14 +3528,14 @@
  - tags: []
 
 ## miguelgrinberg.com
- - [http://blog.miguelgrinberg.com](http://blog.miguelgrinberg.com)
- - date published: 2024-02-26T14:54:29.319980+00:00
+ - [https://blog.miguelgrinberg.com](https://blog.miguelgrinberg.com)
+ - date published: 2023-10-25T16:03:44.577554+00:00
  - user: None
  - tags: []
 
 ## miguelgrinberg.com
- - [https://blog.miguelgrinberg.com](https://blog.miguelgrinberg.com)
- - date published: 2023-10-25T16:03:44.577554+00:00
+ - [http://blog.miguelgrinberg.com](http://blog.miguelgrinberg.com)
+ - date published: 2024-02-26T14:54:29.319980+00:00
  - user: None
  - tags: []
 
@@ -3474,14 +3546,14 @@
  - tags: []
 
 ## Sprezzatura
- - [http://mikaelsyding.com](http://mikaelsyding.com)
- - date published: 2024-03-21T00:00:00+00:00
+ - [https://mikaelsyding.com](https://mikaelsyding.com)
+ - date published: 2023-12-31T21:20:59.573845+00:00
  - user: None
  - tags: []
 
 ## Sprezzatura
- - [https://mikaelsyding.com](https://mikaelsyding.com)
- - date published: 2023-12-31T21:20:59.573845+00:00
+ - [http://mikaelsyding.com](http://mikaelsyding.com)
+ - date published: 2024-03-21T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3913,16 +3985,16 @@
  - tags: []
 
 ## In the solution
- - [https://www.mitchellfriedman.com](https://www.mitchellfriedman.com)
- - date published: 2024-01-08T15:37:32.858228+00:00
- - user: None
- - tags: []
-
-## In the solution
  - [http://www.mitchellfriedman.com](http://www.mitchellfriedman.com)
  - date published: 2024-04-03T12:42:45.432338+00:00
  - user: None
  - tags: ['personal']
+
+## In the solution
+ - [https://www.mitchellfriedman.com](https://www.mitchellfriedman.com)
+ - date published: 2024-01-08T15:37:32.858228+00:00
+ - user: None
+ - tags: []
 
 ## Mitchell Hashimoto
  - [https://mitchellh.com](https://mitchellh.com)
@@ -4201,14 +4273,14 @@
  - tags: []
 
 ## Modernizr: the feature detection library for HTML5/CSS3
- - [http://modernizr.com](http://modernizr.com)
- - date published: 2024-02-26T09:38:41.875406+00:00
+ - [https://modernizr.com](https://modernizr.com)
+ - date published: 2024-01-09T02:44:07.641831+00:00
  - user: None
  - tags: []
 
 ## Modernizr: the feature detection library for HTML5/CSS3
- - [https://modernizr.com](https://modernizr.com)
- - date published: 2024-01-09T02:44:07.641831+00:00
+ - [http://modernizr.com](http://modernizr.com)
+ - date published: 2024-02-26T09:38:41.875406+00:00
  - user: None
  - tags: []
 
@@ -4920,6 +4992,12 @@
  - user: None
  - tags: []
 
+## Tianji = Website Analytics + Uptime Monitor + Server Status | Tianji
+ - [https://tianji.msgbyte.com](https://tianji.msgbyte.com)
+ - date published: 2024-04-10T06:44:58.452426+00:00
+ - user: None
+ - tags: []
+
 ## | Shivaprakash Muruganandham
  - [https://www.mshivaprakash.com](https://www.mshivaprakash.com)
  - date published: 2024-04-06T20:41:56.187988+00:00
@@ -4969,14 +5047,14 @@
  - tags: []
 
 ## mtstandard.com | Read Butte, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles
- - [http://mtstandard.com](http://mtstandard.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://mtstandard.com](https://mtstandard.com)
+ - date published: 2023-11-27T17:10:46.469072+00:00
  - user: None
  - tags: []
 
 ## mtstandard.com | Read Butte, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles
- - [https://mtstandard.com](https://mtstandard.com)
- - date published: 2023-11-27T17:10:46.469072+00:00
+ - [http://mtstandard.com](http://mtstandard.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5919,84 +5997,6 @@
 ## Navy Times - Independent News For Sailors | Navy Times
  - [https://www.navytimes.com](https://www.navytimes.com)
  - date published: 2023-10-25T10:17:10.551232+00:00
- - user: None
- - tags: []
-
-## Naz Avó's Pit | Tech, nomadic lifestyle, and financial independence
- - [https://nazavo.com](https://nazavo.com)
- - date published: 2023-12-14T06:55:11.795416+00:00
- - user: None
- - tags: ['personal']
-
-## The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com
- - [http://www.nba.com](http://www.nba.com)
- - date published: 2024-03-30T05:22:12.807955+00:00
- - user: None
- - tags: []
-
-## NBC Bay Area – Bay Area News, Local News, Weather, Traffic, Entertainment, Breaking News
- - [https://www.nbcbayarea.com](https://www.nbcbayarea.com)
- - date published: 2023-10-25T11:05:29.767118+00:00
- - user: None
- - tags: []
-
-## NBC Boston
- - [https://www.nbcboston.com](https://www.nbcboston.com)
- - date published: 2023-11-18T16:44:26.976480+00:00
- - user: None
- - tags: ['news']
-
-## NBC Chicago
- - [https://www.nbcchicago.com](https://www.nbcchicago.com)
- - date published: 2023-12-06T11:49:40.873102+00:00
- - user: None
- - tags: []
-
-## NBC Connecticut
- - [https://www.nbcconnecticut.com](https://www.nbcconnecticut.com)
- - date published: 2023-12-31T13:24:50.551838+00:00
- - user: None
- - tags: []
-
-## NBC 5 Dallas-Fort Worth
- - [https://www.nbcdfw.com](https://www.nbcdfw.com)
- - date published: 2023-11-17T07:14:58.587632+00:00
- - user: None
- - tags: []
-
-## NBC Los Angeles – Los Angeles News, Local News, Weather, Traffic, Entertainment, Breaking News
- - [https://www.nbclosangeles.com](https://www.nbclosangeles.com)
- - date published: 2023-10-25T11:05:35.602882+00:00
- - user: None
- - tags: []
-
-## NBC 6 South Florida – NBC 6 South Florida | NBC 6 South Florida – Local News, Weather, Traffic, Entertainment, Events, Breaking News
- - [https://www.nbcmiami.com](https://www.nbcmiami.com)
- - date published: 2023-10-25T10:18:24.865109+00:00
- - user: None
- - tags: []
-
-## https://feeds.nbcnews.com
- - [https://feeds.nbcnews.com](https://feeds.nbcnews.com)
- - date published: 2024-01-09T01:46:49.827916+00:00
- - user: None
- - tags: []
-
-## NBC News - Breaking News & Top Stories - Latest World, US & Local News | NBC News
- - [https://www.nbcnews.com](https://www.nbcnews.com)
- - date published: 2023-10-25T10:27:02.197696+00:00
- - user: None
- - tags: []
-
-## NBC New York – New York News, Local News, Weather, Traffic, Entertainment, Breaking News
- - [https://www.nbcnewyork.com](https://www.nbcnewyork.com)
- - date published: 2023-10-25T11:05:45.889334+00:00
- - user: None
- - tags: []
-
-## NBC10 Philadelphia – Philadelphia News, Local News, Weather, Traffic, Entertainment, and Breaking News
- - [https://www.nbcphiladelphia.com](https://www.nbcphiladelphia.com)
- - date published: 2023-10-25T11:05:51.814430+00:00
  - user: None
  - tags: []
 

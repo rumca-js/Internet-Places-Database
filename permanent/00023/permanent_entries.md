@@ -1,3 +1,213 @@
+## hypr.ninja
+ - [https://hypr.ninja](https://hypr.ninja)
+ - date published: 2024-01-14T10:24:23.057410+00:00
+ - user: None
+ - tags: []
+
+## Krypton
+ - [https://krypton.ninja](https://krypton.ninja)
+ - date published: 2023-12-22T17:49:55.486967+00:00
+ - user: None
+ - tags: ['personal']
+
+## Marco's Blog
+ - [https://blog.marco.ninja](https://blog.marco.ninja)
+ - date published: 2024-01-12T07:29:19.691096+00:00
+ - user: None
+ - tags: []
+
+## Welcome to ax3l's Webserver
+ - [https://plasma.ninja](https://plasma.ninja)
+ - date published: 2024-02-08T16:59:24.602613+00:00
+ - user: None
+ - tags: []
+
+## Learn. Create. Curate. - Renaissance Ninja
+ - [https://renaissance.ninja](https://renaissance.ninja)
+ - date published: 2024-04-03T12:48:14.857151+00:00
+ - user: None
+ - tags: ['personal']
+
+## Official Merchandise Collection from LukHash
+ - [https://synthwave.ninja](https://synthwave.ninja)
+ - date published: 2023-12-11T17:55:03.562457+00:00
+ - user: None
+ - tags: ['merch store']
+
+## UNICORN RIOT - Your Alternative Media
+ - [https://unicornriot.ninja](https://unicornriot.ninja)
+ - date published: 2023-10-25T20:43:47.381363+00:00
+ - user: None
+ - tags: []
+
+## Mianzhi Wang
+ - [https://research.wmz.ninja](https://research.wmz.ninja)
+ - date published: 2023-10-25T20:43:49.197052+00:00
+ - user: None
+ - tags: []
+
+## A Day In The Life Of...
+ - [https://adayinthelifeof.nl](https://adayinthelifeof.nl)
+ - date published: 2023-10-25T20:44:04.291967+00:00
+ - user: None
+ - tags: []
+
+## Me, myself and I · And nothing else
+ - [https://www.ahles.nl](https://www.ahles.nl)
+ - date published: 2023-11-29T17:18:42.263892+00:00
+ - user: None
+ - tags: []
+
+## Designer
+ - [https://aljanscholtens.nl](https://aljanscholtens.nl)
+ - date published: 2023-11-29T15:51:31.773471+00:00
+ - user: None
+ - tags: ['personal']
+
+## Amphion Cultuurbedrijf | Amphion
+ - [https://www.amphion.nl](https://www.amphion.nl)
+ - date published: 2024-02-08T22:06:18.354747+00:00
+ - user: None
+ - tags: []
+
+## Annemieke Verhoeff
+ - [https://www.annemiekeverhoeff.nl](https://www.annemiekeverhoeff.nl)
+ - date published: 2023-11-29T14:53:33.579053+00:00
+ - user: None
+ - tags: ['personal']
+
+## Avisynth wiki
+ - [http://avisynth.nl](http://avisynth.nl)
+ - date published: 2024-03-28T21:43:53+00:00
+ - user: rumpel
+ - tags: ['video editor']
+
+## Barbara Wesselingh
+ - [https://www.barbarawesselingh.nl](https://www.barbarawesselingh.nl)
+ - date published: 2024-01-15T08:35:00.502722+00:00
+ - user: None
+ - tags: []
+
+## Welkom
+ - [https://basvogel.nl](https://basvogel.nl)
+ - date published: 2024-01-14T17:12:11.567826+00:00
+ - user: None
+ - tags: []
+
+## Bits&Chips
+ - [https://bits-chips.nl](https://bits-chips.nl)
+ - date published: 2023-10-25T20:44:12.182832+00:00
+ - user: None
+ - tags: []
+
+## Bjorn Franke - Het leukste dat je kunt worden is jezelf
+ - [https://www.bjornfranke.nl](https://www.bjornfranke.nl)
+ - date published: 2024-01-05T01:05:09.979594+00:00
+ - user: None
+ - tags: []
+
+## Bram Willemse - Product owner (ad interim)
+ - [https://bramwillemse.nl](https://bramwillemse.nl)
+ - date published: 2024-02-09T14:07:02.684664+00:00
+ - user: None
+ - tags: ['personal']
+
+## BrixIT Blog
+ - [https://blog.brixit.nl](https://blog.brixit.nl)
+ - date published: 2023-10-25T20:44:19.211483+00:00
+ - user: None
+ - tags: []
+
+## Business Insider Nederland
+ - [https://www.businessinsider.nl](https://www.businessinsider.nl)
+ - date published: 2023-10-25T20:44:24.300905+00:00
+ - user: None
+ - tags: []
+
+## Personenauto's en bedrijfswagens van Citroën | Citroën NL
+ - [https://www.citroen.nl](https://www.citroen.nl)
+ - date published: 2023-12-11T15:58:27.782079+00:00
+ - user: None
+ - tags: []
+
+## Enabling the execution of formulas stored in database fields.
+ - [https://www.colbert.nl](https://www.colbert.nl)
+ - date published: 2024-03-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ministerie van Defensie | Defensie.nl
+ - [https://www.defensie.nl](https://www.defensie.nl)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Digiater.nl
+ - [https://www.digiater.nl](https://www.digiater.nl)
+ - date published: 2023-12-24T20:29:17.576541+00:00
+ - user: None
+ - tags: []
+
+## djcbsoftware
+ - [https://www.djcbsoftware.nl](https://www.djcbsoftware.nl)
+ - date published: 2023-12-26T03:27:26.121552+00:00
+ - user: None
+ - tags: []
+
+## https://myprivacy.dpgmedia.nl
+ - [https://myprivacy.dpgmedia.nl](https://myprivacy.dpgmedia.nl)
+ - date published: 2024-01-09T03:37:31.001724+00:00
+ - user: None
+ - tags: []
+
+## Amsterdam Tourist Information - The no-nonsense travel guide to Amsterdam, Holland
+ - [https://www.dutchamsterdam.nl](https://www.dutchamsterdam.nl)
+ - date published: 2023-10-25T20:44:27.660139+00:00
+ - user: None
+ - tags: []
+
+## DutchNews.nl
+ - [https://www.dutchnews.nl](https://www.dutchnews.nl)
+ - date published: 2024-01-08T11:55:17.835072+00:00
+ - user: None
+ - tags: []
+
+## Ebony Vrouwen | Zwarte amateurs daten
+ - [https://www.ebonyvrouwen.nl](https://www.ebonyvrouwen.nl)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SURF Mastodon Pilot
+ - [https://social.edu.nl](https://social.edu.nl)
+ - date published: 2023-10-24T20:13:22.892168+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Hoofdpagina - Eftepedia - alles over de Efteling
+ - [https://www.eftepedia.nl](https://www.eftepedia.nl)
+ - date published: 2024-02-02T08:47:55.368283+00:00
+ - user: None
+ - tags: []
+
+## Chris Eidhof
+ - [https://chris.eidhof.nl](https://chris.eidhof.nl)
+ - date published: 2023-10-25T08:54:21.499298+00:00
+ - user: None
+ - tags: ['personal']
+
+## Chris Eidhof
+ - [http://chris.eidhof.nl](http://chris.eidhof.nl)
+ - date published: 2024-02-25T15:44:49.625453+00:00
+ - user: None
+ - tags: []
+
+## Besluiten waarmee je groeit in impact op mens en omgeving
+ - [https://ernohannink.nl](https://ernohannink.nl)
+ - date published: 2023-12-31T21:20:23.800264+00:00
+ - user: None
+ - tags: []
+
 ## fanfare
  - [https://fanfarefanfare.nl](https://fanfarefanfare.nl)
  - date published: 2024-02-08T22:19:27.687231+00:00
@@ -575,14 +785,14 @@
  - tags: []
 
 ## INEVO: Eksperter på e-handel og digital markedsføring
- - [https://www.inevo.no](https://www.inevo.no)
- - date published: 2023-11-29T14:22:21.036592+00:00
+ - [http://www.inevo.no](http://www.inevo.no)
+ - date published: 2024-04-03T12:44:43.410441+00:00
  - user: None
  - tags: ['personal']
 
 ## INEVO: Eksperter på e-handel og digital markedsføring
- - [http://www.inevo.no](http://www.inevo.no)
- - date published: 2024-04-03T12:44:43.410441+00:00
+ - [https://www.inevo.no](https://www.inevo.no)
+ - date published: 2023-11-29T14:22:21.036592+00:00
  - user: None
  - tags: ['personal']
 
@@ -1692,14 +1902,14 @@ marginalia.nu
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
@@ -2777,17 +2987,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Internet Archive: Secret service
- - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
- - date published: 2023-10-27T14:37:50+00:00
- - user: rumpel
- - tags: ['retro', 'magazine']
-
 ## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
  - [https://archive.org](https://archive.org)
  - date published: 2023-10-25T09:29:04.093943+00:00
  - user: None
  - tags: ['internet archive', 'digital library']
+
+## Internet Archive: Secret service
+ - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
+ - date published: 2023-10-27T14:37:50+00:00
+ - user: rumpel
+ - tags: ['retro', 'magazine']
 
 ## Internet Archive Blogs | A blog from the team at archive.org
  - [https://blog.archive.org](https://blog.archive.org)
@@ -2914,14 +3124,14 @@ marginalia.nu
  - tags: []
 
 ## Archiveteam
- - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
- - date published: 2023-11-25T06:19:37.367056+00:00
+ - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Archiveteam
- - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
+ - date published: 2023-11-25T06:19:37.367056+00:00
  - user: None
  - tags: []
 
@@ -4492,14 +4702,14 @@ marginalia.nu
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [https://blog.cerowrt.org](https://blog.cerowrt.org)
- - date published: 2023-10-25T21:06:57.314728+00:00
+ - [http://blog.cerowrt.org](http://blog.cerowrt.org)
+ - date published: 2024-02-25T15:50:51.524978+00:00
  - user: None
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [http://blog.cerowrt.org](http://blog.cerowrt.org)
- - date published: 2024-02-25T15:50:51.524978+00:00
+ - [https://blog.cerowrt.org](https://blog.cerowrt.org)
+ - date published: 2023-10-25T21:06:57.314728+00:00
  - user: None
  - tags: []
 
@@ -5586,16 +5796,16 @@ marginalia.nu
  - tags: []
 
 ## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
- - [https://cvsgui.org](https://cvsgui.org)
- - date published: 2024-03-04T12:06:02+00:00
- - user: rumpel
- - tags: ['control version system', 'program', 'vcs', 'open source']
-
-## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
  - [http://cvsgui.org](http://cvsgui.org)
  - date published: 2024-03-05T00:16:31.622060+00:00
  - user: None
  - tags: []
+
+## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
+ - [https://cvsgui.org](https://cvsgui.org)
+ - date published: 2024-03-04T12:06:02+00:00
+ - user: rumpel
+ - tags: ['control version system', 'program', 'vcs', 'open source']
 
 ## California Water Environment Association | Champions of Wastewater
  - [https://www.cwea.org](https://www.cwea.org)
@@ -5801,214 +6011,4 @@ marginalia.nu
  - date published: 2023-12-30T09:53:04.566113+00:00
  - user: None
  - tags: ['personal']
-
-## blog.davep.org
- - [https://blog.davep.org](https://blog.davep.org)
- - date published: 2024-01-01T12:05:05.774145+00:00
- - user: None
- - tags: []
-
-## Dave Peck
- - [https://davepeck.org](https://davepeck.org)
- - date published: 2024-01-04T22:41:55.591112+00:00
- - user: None
- - tags: []
-
-## DAViCal - DAViCal Home
- - [https://www.davical.org](https://www.davical.org)
- - date published: 2024-04-08T19:31:30.696145+00:00
- - user: None
- - tags: ['calendar', 'caldav', 'self-host']
-
-## David Cummings on Startups – 3,000+ posts on entrepreneurship and startups
- - [https://davidcummings.org](https://davidcummings.org)
- - date published: 2023-10-25T21:12:47.339422+00:00
- - user: None
- - tags: []
-
-## david galbraith
- - [https://davidgalbraith.org](https://davidgalbraith.org)
- - date published: 2023-10-25T21:12:51.395744+00:00
- - user: None
- - tags: []
-
-## David Smith, Independent iOS Developer
- - [https://www.david-smith.org](https://www.david-smith.org)
- - date published: 2023-10-25T21:12:44.390007+00:00
- - user: None
- - tags: []
-
-## Democracy for the Arab World Now - DAWN - Home
- - [https://dawnmena.org](https://dawnmena.org)
- - date published: 2023-10-25T21:12:58.207782+00:00
- - user: None
- - tags: []
-
-## home | dbinvest
- - [https://dbinvest.org](https://dbinvest.org)
- - date published: 2023-12-13T20:59:42.326354+00:00
- - user: None
- - tags: ['personal']
-
-## Home - DBpedia Association
- - [https://www.dbpedia.org](https://www.dbpedia.org)
- - date published: 2023-10-25T21:13:01.971237+00:00
- - user: None
- - tags: []
-
-## A Data-Centric Introduction to Computing
- - [https://dcic-world.org](https://dcic-world.org)
- - date published: 2023-10-25T21:13:03.296556+00:00
- - user: None
- - tags: []
-
-## https://dconf.org
- - [https://dconf.org](https://dconf.org)
- - date published: 2024-01-09T03:38:54.424034+00:00
- - user: None
- - tags: []
-
-## Dragon's Den – Online MUD running since 1990
- - [https://dden.org](https://dden.org)
- - date published: 2024-03-27T20:47:06.596397+00:00
- - user: None
- - tags: []
-
-## Dean Sas
- - [https://deansas.org](https://deansas.org)
- - date published: 2024-01-14T08:12:43.240733+00:00
- - user: None
- - tags: []
-
-## Death by Numbers
- - [https://www.deathbynumbers.org](https://www.deathbynumbers.org)
- - date published: 2024-01-31T17:31:00.173984+00:00
- - user: None
- - tags: []
-
-## Bits from Debian - Blog from the Debian Project
- - [https://bits.debian.org](https://bits.debian.org)
- - date published: 2023-10-25T21:13:16.611368+00:00
- - user: None
- - tags: []
-
-## Debian bug tracking system
- - [https://bugs.debian.org](https://bugs.debian.org)
- - date published: 2023-10-25T21:13:19.916026+00:00
- - user: None
- - tags: []
-
-## Debian on CDs/DVDs
- - [https://cdimage.debian.org](https://cdimage.debian.org)
- - date published: 2024-02-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Debian Mailing Lists -- Index
- - [https://lists.debian.org](https://lists.debian.org)
- - date published: 2023-10-25T21:13:21.561311+00:00
- - user: None
- - tags: []
-
-## Debian -- Packages
- - [https://packages.debian.org](https://packages.debian.org)
- - date published: 2023-12-11T00:00:00+00:00
- - user: rumpel
- - tags: ['app store']
-
-## FrontPage - Debian Wiki
- - [https://wiki.debian.org](https://wiki.debian.org)
- - date published: 2023-10-25T21:13:23.896963+00:00
- - user: None
- - tags: []
-
-## Debian -- The Universal Operating System
- - [https://www.debian.org](https://www.debian.org)
- - date published: 2023-10-25T08:32:06.148094+00:00
- - user: None
- - tags: ['operating system', 'linux']
-
-## Decap CMS | Open-Source Content Management System
- - [https://decapcms.org](https://decapcms.org)
- - date published: 2024-02-22T15:20:54.347827+00:00
- - user: None
- - tags: []
-
-## Allconnect.com: Find Internet Providers Near You | 844-845-3968
- - [https://decisiondata.org](https://decisiondata.org)
- - date published: 2023-10-25T21:13:30.075023+00:00
- - user: None
- - tags: []
-
-## Declassified Australia
- - [https://declassifiedaus.org](https://declassifiedaus.org)
- - date published: 2023-10-25T21:13:35.111668+00:00
- - user: None
- - tags: []
-
-## Declassified UK
- - [https://www.declassifieduk.org](https://www.declassifieduk.org)
- - date published: 2024-01-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## DECRUNCH 2024 demoparty. May 17th-19th, 2023. Czasoprzestrzeń, Tramwajowa 1-3, Wroclaw
- - [https://decrunch.org](https://decrunch.org)
- - date published: 2023-12-11T17:38:11.237785+00:00
- - user: None
- - tags: []
-
-## DECUServe on-line
- - [https://eisner.decus.org](https://eisner.decus.org)
- - date published: 2023-11-18T11:29:46.509000+00:00
- - user: None
- - tags: []
-
-## De-Dollarization Facts: Up-To-Date Facts About The U.S. Dollar In The World
- - [https://www.de-dollarization.org](https://www.de-dollarization.org)
- - date published: 2023-10-25T21:13:07.530962+00:00
- - user: None
- - tags: []
-
-## deepin  - 基于Linux的开源国产操作系统
- - [https://www.deepin.org](https://www.deepin.org)
- - date published: 2023-11-06T10:10:58.272990+00:00
- - user: None
- - tags: ['operating system', 'linux']
-
-## Welcome to the Deep State Blog
- - [https://www.deepstateblog.org](https://www.deepstateblog.org)
- - date published: 2023-10-25T21:13:44.064425+00:00
- - user: None
- - tags: []
-
-## Deep Synoptic Array (DSA)
- - [https://www.deepsynoptic.org](https://www.deepsynoptic.org)
- - date published: 2023-10-25T21:13:47.752146+00:00
- - user: None
- - tags: []
-
-## DEF CON Hacking Conference Home
- - [https://defcon.org](https://defcon.org)
- - date published: 2024-02-05T09:21:34+00:00
- - user: rumpel
- - tags: ['hacking', 'conference', 'community event']
-
-## forum.defcon.org
- - [https://forum.defcon.org](https://forum.defcon.org)
- - date published: 2024-02-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## The DEF CON® Media Server - Archives of the conferences
- - [https://media.defcon.org](https://media.defcon.org)
- - date published: 2024-02-05T19:19:52.136849+00:00
- - user: None
- - tags: ['hacking']
-
-## DEF CON merchandise shop
- - [https://shop.defcon.org](https://shop.defcon.org)
- - date published: 2024-02-05T17:23:18.325780+00:00
- - user: None
- - tags: []
 

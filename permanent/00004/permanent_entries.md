@@ -1,3 +1,27 @@
+## Christian Hollinger
+ - [https://chollinger.com](https://chollinger.com)
+ - date published: 2023-10-25T08:45:21.585578+00:00
+ - user: None
+ - tags: ['personal']
+
+## ChooseYourBoss : annonce d’emplois des métiers du numérique
+ - [https://www.chooseyourboss.com](https://www.chooseyourboss.com)
+ - date published: 2023-12-18T17:18:12.643424+00:00
+ - user: None
+ - tags: []
+
+## Choosing Therapy | Find a Life-Changing Therapist
+ - [https://www.choosingtherapy.com](https://www.choosingtherapy.com)
+ - date published: 2023-10-25T13:22:20.583825+00:00
+ - user: None
+ - tags: []
+
+## 조선일보 - 1등 디지털뉴스
+ - [https://www.chosun.com](https://www.chosun.com)
+ - date published: 2024-02-25T10:21:17.599113+00:00
+ - user: None
+ - tags: []
+
 ## Christopher Butler ☼
  - [https://www.chrbutler.com](https://www.chrbutler.com)
  - date published: 2024-01-06T00:00:00+00:00
@@ -2752,14 +2776,14 @@
  - tags: ['cybersecurity']
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [https://craphound.com](https://craphound.com)
- - date published: 2023-11-28T07:36:32+00:00
+ - [http://craphound.com](http://craphound.com)
+ - date published: 2024-02-25T19:26:24.229621+00:00
  - user: None
  - tags: []
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [http://craphound.com](http://craphound.com)
- - date published: 2024-02-25T19:26:24.229621+00:00
+ - [https://craphound.com](https://craphound.com)
+ - date published: 2023-11-28T07:36:32+00:00
  - user: None
  - tags: []
 
@@ -5012,7 +5036,7 @@
  - [https://www.debjitbanerjee.com](https://www.debjitbanerjee.com)
  - date published: 2024-04-09T22:15:45.296646+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Deborah Peacock Photography - Home
  - [https://www.deborahpeacock.com](https://www.deborahpeacock.com)
@@ -5794,15 +5818,15 @@
  - user: None
  - tags: []
 
-## introducing mazzle - a pipelines as code tool
- - [http://devops-pipeline.com](http://devops-pipeline.com)
- - date published: 2024-02-29T14:58:14.068438+00:00
- - user: None
- - tags: []
-
 ## Mazzle – A Pipelines as Code Tool
  - [https://devops-pipeline.com](https://devops-pipeline.com)
  - date published: 2023-12-31T11:15:08+00:00
+ - user: None
+ - tags: []
+
+## introducing mazzle - a pipelines as code tool
+ - [http://devops-pipeline.com](http://devops-pipeline.com)
+ - date published: 2024-02-29T14:58:14.068438+00:00
  - user: None
  - tags: []
 
@@ -5979,28 +6003,4 @@
  - date published: 2023-10-25T09:28:45.890389+00:00
  - user: None
  - tags: ['dictionary']
-
-## The Dictionary of Obscure Sorrows
- - [https://www.dictionaryofobscuresorrows.com](https://www.dictionaryofobscuresorrows.com)
- - date published: 2023-10-25T13:51:36.270823+00:00
- - user: None
- - tags: []
-
-## Die or Not | Is this food spicy ? 🔥
- - [https://dieornot.com](https://dieornot.com)
- - date published: 2024-01-09T02:34:41.997582+00:00
- - user: None
- - tags: []
-
-## Lightweight justice for your SBC!
- - [https://dietpi.com](https://dietpi.com)
- - date published: 2023-10-25T08:31:40.105924+00:00
- - user: None
- - tags: ['operating system', 'odroid', 'raspberry pi', 'pine64']
-
-## Turn Websites Into Data in Seconds
- - [https://crawly.diffbot.com](https://crawly.diffbot.com)
- - date published: 2024-01-17T09:09:20+00:00
- - user: rumpel
- - tags: ['web scraping']
 
