@@ -1,3 +1,183 @@
+## Graphite - How the fastest developers ship code
+ - [https://graphite.dev](https://graphite.dev)
+ - date published: 2023-10-25T18:38:11.254763+00:00
+ - user: None
+ - tags: []
+
+## Grifel
+ - [https://grifel.dev](https://grifel.dev)
+ - date published: 2023-10-25T18:38:11.797740+00:00
+ - user: None
+ - tags: []
+
+## Strona główna - semipythonic
+ - [https://gronkiewicz.dev](https://gronkiewicz.dev)
+ - date published: 2024-01-06T22:17:07.896380+00:00
+ - user: None
+ - tags: []
+
+## The Grug Brained Developer
+ - [https://grugbrain.dev](https://grugbrain.dev)
+ - date published: 2024-01-09T02:57:17.142416+00:00
+ - user: None
+ - tags: []
+
+## Guru Das Srinagesh
+ - [https://gurudas.dev](https://gurudas.dev)
+ - date published: 2024-02-09T00:21:14.311084+00:00
+ - user: None
+ - tags: ['personal']
+
+## Gut - Ease your journey with Git
+ - [https://gut-cli.dev](https://gut-cli.dev)
+ - date published: 2023-10-25T18:38:12.352081+00:00
+ - user: None
+ - tags: []
+
+## The Container Security Platform | gVisor
+ - [https://gvisor.dev](https://gvisor.dev)
+ - date published: 2023-10-25T18:38:13.344166+00:00
+ - user: None
+ - tags: []
+
+## Hamel’s Blog
+ - [https://hamel.dev](https://hamel.dev)
+ - date published: 2023-10-25T08:58:29.383909+00:00
+ - user: None
+ - tags: ['personal']
+
+## Harris Jose
+ - [https://harrisjose.dev](https://harrisjose.dev)
+ - date published: 2023-12-12T13:08:55.908400+00:00
+ - user: None
+ - tags: ['personal']
+
+## Harry Llewelyn - Developer
+ - [https://harry.dev](https://harry.dev)
+ - date published: 2023-12-28T22:26:50.855629+00:00
+ - user: None
+ - tags: ['personal']
+
+## Abid Moon
+ - [https://abidmoon.hashnode.dev](https://abidmoon.hashnode.dev)
+ - date published: 2023-10-25T18:38:19.386013+00:00
+ - user: None
+ - tags: []
+
+## Dan Dan Da Developer Man
+ - [https://danfitdegree.hashnode.dev](https://danfitdegree.hashnode.dev)
+ - date published: 2023-10-25T18:38:20.191019+00:00
+ - user: None
+ - tags: []
+
+## Steel Rods
+ - [https://steelrods.hashnode.dev](https://steelrods.hashnode.dev)
+ - date published: 2023-11-12T13:46:14.283644+00:00
+ - user: None
+ - tags: []
+
+## Hathora
+ - [https://blog.hathora.dev](https://blog.hathora.dev)
+ - date published: 2024-03-16T00:26:26.846171+00:00
+ - user: None
+ - tags: []
+
+## Henrique Vicente
+ - [https://henvic.dev](https://henvic.dev)
+ - date published: 2023-10-25T09:21:40.457532+00:00
+ - user: None
+ - tags: ['personal']
+
+## Intro
+ - [https://hiranyey.dev](https://hiranyey.dev)
+ - date published: 2023-10-25T18:38:20.773984+00:00
+ - user: None
+ - tags: []
+
+## Histoire | Histoire
+ - [https://histoire.dev](https://histoire.dev)
+ - date published: 2023-10-25T18:38:21.786006+00:00
+ - user: None
+ - tags: []
+
+## Hocus | Automated Self-Hosted Dev Environments
+ - [https://hocus.dev](https://hocus.dev)
+ - date published: 2023-10-25T18:38:23.102654+00:00
+ - user: None
+ - tags: ['self-host']
+
+## Homarr documentation
+ - [https://homarr.dev](https://homarr.dev)
+ - date published: 2024-04-08T19:28:57.512411+00:00
+ - user: None
+ - tags: ['self-host', 'server administration']
+
+## hoop.dev - Protect access to customer data. Anywhere.
+ - [https://hoop.dev](https://hoop.dev)
+ - date published: 2023-10-25T18:38:24.467829+00:00
+ - user: None
+ - tags: []
+
+## Strada: Create high fidelity native interactions driven by your web app.
+ - [https://strada.hotwired.dev](https://strada.hotwired.dev)
+ - date published: 2023-10-25T18:38:25.376940+00:00
+ - user: None
+ - tags: []
+
+## Markup from hell - HTMHell
+ - [https://www.htmhell.dev](https://www.htmhell.dev)
+ - date published: 2023-12-02T12:10:35.500652+00:00
+ - user: None
+ - tags: ['html', 'tutorial', 'funny']
+
+## Hurl - Run and Test HTTP Requests
+ - [https://hurl.dev](https://hurl.dev)
+ - date published: 2023-10-25T18:38:27.301484+00:00
+ - user: None
+ - tags: []
+
+## Wilson Husin
+ - [https://husin.dev](https://husin.dev)
+ - date published: 2024-04-06T13:22:27.195376+00:00
+ - user: None
+ - tags: []
+
+## Free Open Source Tailwind CSS Components | HyperUI
+ - [https://www.hyperui.dev](https://www.hyperui.dev)
+ - date published: 2023-10-25T18:38:28.357080+00:00
+ - user: None
+ - tags: []
+
+## PDF debugger
+ - [https://pdf.hyzyla.dev](https://pdf.hyzyla.dev)
+ - date published: 2023-10-25T18:38:28.976599+00:00
+ - user: None
+ - tags: []
+
+## Project IDX
+ - [https://idx.dev](https://idx.dev)
+ - date published: 2023-10-25T18:38:29.860040+00:00
+ - user: None
+ - tags: []
+
+## Gamedev Guide
+ - [https://ikrima.dev](https://ikrima.dev)
+ - date published: 2023-10-25T18:38:36.586289+00:00
+ - user: None
+ - tags: []
+
+## Daniel Imfeld
+ - [https://imfeld.dev](https://imfeld.dev)
+ - date published: 2023-10-25T08:58:35.606412+00:00
+ - user: None
+ - tags: ['personal']
+
+## Immersive Web Developer Home
+ - [https://immersiveweb.dev](https://immersiveweb.dev)
+ - date published: 2023-10-25T18:38:38.836353+00:00
+ - user: None
+ - tags: []
+
 ## Imre Csige's Digital Garden
  - [https://imrecsige.dev](https://imrecsige.dev)
  - date published: 2023-12-12T04:53:12.747632+00:00
@@ -23,14 +203,14 @@
  - tags: ['personal']
 
 ## Jakob Serlier's Personal Site
- - [http://jakobs.dev](http://jakobs.dev)
- - date published: 2024-01-15T00:00:00+00:00
+ - [https://jakobs.dev](https://jakobs.dev)
+ - date published: 2024-01-09T01:37:20.973191+00:00
  - user: None
  - tags: []
 
 ## Jakob Serlier's Personal Site
- - [https://jakobs.dev](https://jakobs.dev)
- - date published: 2024-01-09T01:37:20.973191+00:00
+ - [http://jakobs.dev](http://jakobs.dev)
+ - date published: 2024-01-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -136,15 +316,15 @@
  - user: None
  - tags: []
 
-## the website of jyn
- - [http://jyn.dev](http://jyn.dev)
- - date published: 2024-01-16T00:00:00+00:00
- - user: None
- - tags: []
-
 ## The website of jyn
  - [https://jyn.dev](https://jyn.dev)
  - date published: 2023-10-25T18:38:50.121076+00:00
+ - user: None
+ - tags: []
+
+## the website of jyn
+ - [http://jyn.dev](http://jyn.dev)
+ - date published: 2024-01-16T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -881,14 +1061,14 @@
  - tags: []
 
 ## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date published: 2023-01-31T00:00:00+00:00
+ - [http://passkeys.dev](http://passkeys.dev)
+ - date published: 2024-02-25T19:46:12.112766+00:00
  - user: None
  - tags: []
 
 ## Passkey Developer Resources
- - [http://passkeys.dev](http://passkeys.dev)
- - date published: 2024-02-25T19:46:12.112766+00:00
+ - [https://passkeys.dev](https://passkeys.dev)
+ - date published: 2023-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1423,14 +1603,14 @@
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3335,6 +3515,12 @@
  - user: None
  - tags: []
 
+## Vortex: OpenCL Compatible RISC-V Gpgpu
+ - [https://vortex.cc.gatech.edu](https://vortex.cc.gatech.edu)
+ - date published: 2024-04-11T16:19:20+00:00
+ - user: None
+ - tags: []
+
 ## College of Computing | Involvement, Innovation and Impact
  - [https://www.cc.gatech.edu](https://www.cc.gatech.edu)
  - date published: 2023-11-26T01:05:44.391396+00:00
@@ -4677,14 +4863,14 @@
  - tags: []
 
 ## Stanford Artificial Intelligence Laboratory
- - [http://ai.stanford.edu](http://ai.stanford.edu)
- - date published: 2024-02-26T14:41:27.710205+00:00
+ - [https://ai.stanford.edu](https://ai.stanford.edu)
+ - date published: 2023-10-25T18:58:06.440600+00:00
  - user: None
  - tags: []
 
 ## Stanford Artificial Intelligence Laboratory
- - [https://ai.stanford.edu](https://ai.stanford.edu)
- - date published: 2023-10-25T18:58:06.440600+00:00
+ - [http://ai.stanford.edu](http://ai.stanford.edu)
+ - date published: 2024-02-26T14:41:27.710205+00:00
  - user: None
  - tags: []
 
@@ -5825,192 +6011,6 @@
 ## Penn Today
  - [https://penntoday.upenn.edu](https://penntoday.upenn.edu)
  - date published: 2023-10-25T19:04:12.509293+00:00
- - user: None
- - tags: []
-
-## Software Foundations
- - [https://softwarefoundations.cis.upenn.edu](https://softwarefoundations.cis.upenn.edu)
- - date published: 2023-10-25T19:04:13.197515+00:00
- - user: None
- - tags: []
-
-## web.sas.upenn.edu
- - [https://web.sas.upenn.edu](https://web.sas.upenn.edu)
- - date published: 2023-10-25T19:04:14.935075+00:00
- - user: None
- - tags: []
-
-## Computer and Information Science | A Department of the School of Engineering and Applied Science
- - [https://www.cis.upenn.edu](https://www.cis.upenn.edu)
- - date published: 2023-10-25T19:04:17.867275+00:00
- - user: None
- - tags: []
-
-## Department of Linguistics - Home | Department of Linguistics
- - [https://www.ling.upenn.edu](https://www.ling.upenn.edu)
- - date published: 2023-10-25T19:04:20.730527+00:00
- - user: None
- - tags: []
-
-## Universitat Pompeu Fabra
- - [https://www.upf.edu](https://www.upf.edu)
- - date published: 2023-11-03T12:11:03.206459+00:00
- - user: None
- - tags: []
-
-## PHL @ UPR Arecibo
- - [https://phl.upr.edu](https://phl.upr.edu)
- - date published: 2024-02-24T18:05:06.332906+00:00
- - user: None
- - tags: []
-
-## The University of Rhode Island
- - [https://www.uri.edu](https://www.uri.edu)
- - date published: 2023-12-05T11:07:16.002679+00:00
- - user: None
- - tags: []
-
-## DigitalCommons@Ursinus
- - [https://digitalcommons.ursinus.edu](https://digitalcommons.ursinus.edu)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## USC Dana and David Dornsife College of Letters, Arts and Sciences
- - [https://dornsife.usc.edu](https://dornsife.usc.edu)
- - date published: 2023-10-25T19:04:25.118739+00:00
- - user: None
- - tags: []
-
-## USC Schaeffer
- - [https://healthpolicy.usc.edu](https://healthpolicy.usc.edu)
- - date published: 2023-12-15T11:10:14.582512+00:00
- - user: None
- - tags: []
-
-## Keck School of Medicine Home
- - [https://keck2.usc.edu](https://keck2.usc.edu)
- - date published: 2023-12-10T11:37:34.314465+00:00
- - user: None
- - tags: []
-
-## Keck School of Medicine of USC | Leaders in medical education, research and patient care
- - [https://keck.usc.edu](https://keck.usc.edu)
- - date published: 2023-10-25T19:04:31.455123+00:00
- - user: None
- - tags: []
-
-## Home - Research and Innovation
- - [https://research.usc.edu](https://research.usc.edu)
- - date published: 2023-10-25T19:04:35.017898+00:00
- - user: None
- - tags: []
-
-## USC Today Home Page
- - [https://today.usc.edu](https://today.usc.edu)
- - date published: 2023-12-12T13:04:47.507405+00:00
- - user: None
- - tags: []
-
-## USC Viterbi School of Engineering
- - [https://viterbischool.usc.edu](https://viterbischool.usc.edu)
- - date published: 2023-10-25T19:04:40.599249+00:00
- - user: None
- - tags: []
-
-## Health News Florida - Homepage | Health News Florida
- - [https://health.wusf.usf.edu](https://health.wusf.usf.edu)
- - date published: 2023-12-04T16:16:09.264309+00:00
- - user: None
- - tags: []
-
-## CONTENTdm
- - [https://digitalarchives.usi.edu](https://digitalarchives.usi.edu)
- - date published: 1972-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Aquila Digital Community
- - [https://aquila.usm.edu](https://aquila.usm.edu)
- - date published: 2023-10-25T19:04:42.854167+00:00
- - user: None
- - tags: []
-
-## Modern War Institute -
- - [https://mwi.usma.edu](https://mwi.usma.edu)
- - date published: 2023-10-25T19:04:45.262357+00:00
- - user: None
- - tags: []
-
-## DigitalCommons@USU | Utah State University Research
- - [https://digitalcommons.usu.edu](https://digitalcommons.usu.edu)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## ACES – The University of Texas at Arlington – Abacus Cloud and Edge Systems
- - [https://aceslab.uta.edu](https://aceslab.uta.edu)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Internships - College of Social and Behavioral Science - The University of Utah
- - [https://internships.csbs.utah.edu](https://internships.csbs.utah.edu)
- - date published: 2024-02-08T17:51:53.015372+00:00
- - user: None
- - tags: []
-
-## Kahlert School of Computing
- - [https://users.cs.utah.edu](https://users.cs.utah.edu)
- - date published: 2024-01-12T03:16:30.394085+00:00
- - user: None
- - tags: []
-
-## Kahlert School of Computing – School of Computing at The University of Utah
- - [https://www.cs.utah.edu](https://www.cs.utah.edu)
- - date published: 2023-10-25T19:04:49.477291+00:00
- - user: None
- - tags: []
-
-## Math - The University of Utah
- - [https://www.math.utah.edu](https://www.math.utah.edu)
- - date published: 2023-10-25T19:04:53.006400+00:00
- - user: None
- - tags: []
-
-## Kahlert School of Computing
- - [https://www-old.cs.utah.edu](https://www-old.cs.utah.edu)
- - date published: 2024-02-26T08:29:12.519678+00:00
- - user: None
- - tags: []
-
-## News Homepage
- - [https://news.utdallas.edu](https://news.utdallas.edu)
- - date published: 2023-12-10T12:18:35.847710+00:00
- - user: None
- - tags: []
-
-## Service - UTD Hosted Personal Webpages
- - [https://personal.utdallas.edu](https://personal.utdallas.edu)
- - date published: 2023-10-25T19:05:03.834184+00:00
- - user: None
- - tags: []
-
-## The University of Texas at El Paso - UTEP
- - [https://www.utep.edu](https://www.utep.edu)
- - date published: 2023-10-25T19:05:08.331077+00:00
- - user: None
- - tags: []
-
-## UT Cockrell School of Engineering
- - [https://cockrell.utexas.edu](https://cockrell.utexas.edu)
- - date published: 2023-10-25T19:05:12.024214+00:00
- - user: None
- - tags: []
-
-## Welcome
- - [https://golem.ph.utexas.edu](https://golem.ph.utexas.edu)
- - date published: 2023-10-25T19:05:13.177282+00:00
  - user: None
  - tags: []
 

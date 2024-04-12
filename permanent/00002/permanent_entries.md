@@ -1,3 +1,21 @@
+## React Spectrum Libraries
+ - [https://react-spectrum.adobe.com](https://react-spectrum.adobe.com)
+ - date published: 2023-10-25T12:33:22.838073+00:00
+ - user: None
+ - tags: []
+
+## Adobe: Creative, marketing and document management solutions
+ - [https://www.adobe.com](https://www.adobe.com)
+ - date published: 2023-10-25T12:33:24.758155+00:00
+ - user: None
+ - tags: ['acrobat reader', 'company', 'photoshop']
+
+## https://assets.adobedtm.com
+ - [https://assets.adobedtm.com](https://assets.adobedtm.com)
+ - date published: 2023-12-12T08:41:15.675193+00:00
+ - user: None
+ - tags: []
+
 ## Projects - Adrian Courrèges
  - [http://www.adriancourreges.com](http://www.adriancourreges.com)
  - date published: 2016-01-01T00:00:00+00:00
@@ -71,14 +89,14 @@
  - tags: []
 
 ## Home - Adventure Hermit Travel
- - [https://adventurehermit.com](https://adventurehermit.com)
- - date published: 2024-01-06T08:54:27.239976+00:00
+ - [http://adventurehermit.com](http://adventurehermit.com)
+ - date published: 2020-05-19T07:46:57+00:00
  - user: None
  - tags: []
 
 ## Home - Adventure Hermit Travel
- - [http://adventurehermit.com](http://adventurehermit.com)
- - date published: 2020-05-19T07:46:57+00:00
+ - [https://adventurehermit.com](https://adventurehermit.com)
+ - date published: 2024-01-06T08:54:27.239976+00:00
  - user: None
  - tags: []
 
@@ -338,7 +356,7 @@
  - [https://forum.agoraroad.com](https://forum.agoraroad.com)
  - date published: 2023-10-24T20:12:27.718591+00:00
  - user: None
- - tags: []
+ - tags: ['philosophy', 'vapourwave', 'paranormal', 'interesting']
 
 ## A Graphics Guy's Note
  - [https://agraphicsguynotes.com](https://agraphicsguynotes.com)
@@ -1811,14 +1829,14 @@
  - tags: []
 
 ## AmiBay
- - [https://amibay.com](https://amibay.com)
- - date published: 2024-01-09T02:29:20.397814+00:00
+ - [http://amibay.com](http://amibay.com)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
 ## AmiBay
- - [http://amibay.com](http://amibay.com)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://amibay.com](https://amibay.com)
+ - date published: 2024-01-09T02:29:20.397814+00:00
  - user: None
  - tags: []
 
@@ -1883,14 +1901,14 @@
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
- - date published: 2024-01-09T02:29:24.245847+00:00
+ - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
+ - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
- - date published: 2018-01-01T00:00:00+00:00
+ - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
+ - date published: 2024-01-09T02:29:24.245847+00:00
  - user: None
  - tags: []
 
@@ -2201,16 +2219,16 @@
  - tags: ['personal']
 
 ## Andrea Feucht: IFS Practitioner
- - [https://andreafeucht.com](https://andreafeucht.com)
- - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Andrea Feucht: IFS Practitioner
  - [http://andreafeucht.com](http://andreafeucht.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
+
+## Andrea Feucht: IFS Practitioner
+ - [https://andreafeucht.com](https://andreafeucht.com)
+ - date published: 2024-01-29T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Andrea Leopardi
  - [https://andrealeopardi.com](https://andrealeopardi.com)
@@ -2351,16 +2369,16 @@
  - tags: []
 
 ## Andrew Roussak website
- - [https://www.andrew-roussak.com](https://www.andrew-roussak.com)
- - date published: 2024-01-27T17:59:38.551672+00:00
- - user: None
- - tags: []
-
-## Andrew Roussak website
  - [http://www.andrew-roussak.com](http://www.andrew-roussak.com)
  - date published: 2024-04-03T06:23:08.552087+00:00
  - user: None
  - tags: ['personal']
+
+## Andrew Roussak website
+ - [https://www.andrew-roussak.com](https://www.andrew-roussak.com)
+ - date published: 2024-01-27T17:59:38.551672+00:00
+ - user: None
+ - tags: []
 
 ## Andrew Skotzko - Product leadership advisor - Make Things That Matter
  - [https://andrewskotzko.com](https://andrewskotzko.com)
@@ -5597,14 +5615,14 @@
  - tags: []
 
 ## Bay 12 Games: Dwarf Fortress
- - [https://www.bay12games.com](https://www.bay12games.com)
- - date published: 2023-10-25T11:08:28.145829+00:00
+ - [http://www.bay12games.com](http://www.bay12games.com)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Bay 12 Games: Dwarf Fortress
- - [http://www.bay12games.com](http://www.bay12games.com)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://www.bay12games.com](https://www.bay12games.com)
+ - date published: 2023-10-25T11:08:28.145829+00:00
  - user: None
  - tags: []
 
@@ -5979,22 +5997,4 @@
  - date published: 2024-01-11T17:08:58.451572+00:00
  - user: None
  - tags: []
-
-## Ben Detalle
- - [https://bendetalle.com](https://bendetalle.com)
- - date published: 2023-11-29T14:23:21.989583+00:00
- - user: None
- - tags: ['personal']
-
-## Benedict Evans
- - [https://www.ben-evans.com](https://www.ben-evans.com)
- - date published: 2023-12-12T08:35:22.223621+00:00
- - user: None
- - tags: []
-
-## Ben Hoyt
- - [https://benhoyt.com](https://benhoyt.com)
- - date published: 2023-10-25T08:45:03.337226+00:00
- - user: None
- - tags: ['personal']
 

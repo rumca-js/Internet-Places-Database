@@ -1,3 +1,21 @@
+## Ben Detalle
+ - [https://bendetalle.com](https://bendetalle.com)
+ - date published: 2023-11-29T14:23:21.989583+00:00
+ - user: None
+ - tags: ['personal']
+
+## Benedict Evans
+ - [https://www.ben-evans.com](https://www.ben-evans.com)
+ - date published: 2023-12-12T08:35:22.223621+00:00
+ - user: None
+ - tags: []
+
+## Ben Hoyt
+ - [https://benhoyt.com](https://benhoyt.com)
+ - date published: 2023-10-25T08:45:03.337226+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Benjamin Boman
  - [https://benjaminboman.com](https://benjaminboman.com)
  - date published: 2023-11-29T16:22:12.763525+00:00
@@ -39,6 +57,12 @@
  - date published: 2023-10-25T09:05:18.406692+00:00
  - user: None
  - tags: ['personal']
+
+## Ben Landau-Taylor | Substack
+ - [https://www.benlandautaylor.com](https://www.benlandautaylor.com)
+ - date published: 2024-04-10T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Peter Jennings - Benlo Park
  - [http://www.benlo.com](http://www.benlo.com)
@@ -279,6 +303,12 @@
  - date published: 2024-02-09T22:22:28.684639+00:00
  - user: None
  - tags: ['personal']
+
+## Betty Junod
+ - [https://www.bettyjunod.com](https://www.bettyjunod.com)
+ - date published: 2024-04-11T20:55:37.390257+00:00
+ - user: None
+ - tags: []
 
 ## Show HN: BewCloud is a simpler alternative to Nextcloud written in TypeScript
  - [https://bewcloud.com](https://bewcloud.com)
@@ -521,14 +551,14 @@
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [https://billingsgazette.com](https://billingsgazette.com)
- - date published: 2023-12-17T18:30:53.119094+00:00
+ - [http://billingsgazette.com](http://billingsgazette.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [http://billingsgazette.com](http://billingsgazette.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://billingsgazette.com](https://billingsgazette.com)
+ - date published: 2023-12-17T18:30:53.119094+00:00
  - user: None
  - tags: []
 
@@ -1258,6 +1288,12 @@
  - user: None
  - tags: []
 
+## World of Warcraft
+ - [https://worldofwarcraft.blizzard.com](https://worldofwarcraft.blizzard.com)
+ - date published: 2024-04-10T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
 ## Blizzard Entertainment
  - [https://www.blizzard.com](https://www.blizzard.com)
  - date published: 2023-10-25T11:26:31.588113+00:00
@@ -1841,16 +1877,16 @@
  - tags: []
 
 ## Information Processing
- - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
- - date published: 2023-10-25T09:09:06.318517+00:00
- - user: None
- - tags: ['personal']
-
-## Information Processing
  - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
  - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
+
+## Information Processing
+ - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
+ - date published: 2023-10-25T09:09:06.318517+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Development of the trilogy & IV
  - [https://insiderockstarnorth.blogspot.com](https://insiderockstarnorth.blogspot.com)
@@ -2207,14 +2243,14 @@
  - tags: ['personal']
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
- - date published: 2024-01-04T00:00:00+00:00
+ - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
+ - date published: 2024-01-03T20:38:22.927557+00:00
  - user: None
  - tags: []
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
- - date published: 2024-01-03T20:38:22.927557+00:00
+ - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
+ - date published: 2024-01-04T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3637,16 +3673,16 @@
  - tags: []
 
 ## Bridget Gordon
- - [http://bridgetgordon.com](http://bridgetgordon.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Bridget Gordon
  - [https://bridgetgordon.com](https://bridgetgordon.com)
  - date published: 2024-01-09T08:54:11.942646+00:00
  - user: None
  - tags: ['personal']
+
+## Bridget Gordon
+ - [http://bridgetgordon.com](http://bridgetgordon.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Bridget Hunt
  - [https://bridgethunt.com](https://bridgethunt.com)
@@ -4117,14 +4153,14 @@
  - tags: []
 
 ## Business Owners Success Club
- - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
- - date published: 2024-04-03T06:24:35.974117+00:00
+ - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
+ - date published: 8211-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
 ## Business Owners Success Club
- - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
- - date published: 8211-01-01T00:00:00+00:00
+ - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
+ - date published: 2024-04-03T06:24:35.974117+00:00
  - user: None
  - tags: ['personal']
 
@@ -4492,7 +4528,7 @@
  - [https://calibre-ebook.com](https://calibre-ebook.com)
  - date published: 2024-04-09T16:55:03+00:00
  - user: rumpel
- - tags: ['open source', 'ebook management']
+ - tags: ['ebook reader', 'open source', 'ebook management']
 
 ## 国产色午夜,国产97色在线|日韩,在线观看91精品国产剧情免费,国产高清美女**毛片久久w-91porn
  - [https://calicogoodrich.com](https://calicogoodrich.com)
@@ -4879,14 +4915,14 @@
  - tags: ['site building']
 
 ## None
- - [http://www.caribpress.com](http://www.caribpress.com)
- - date published: 2024-02-25T15:38:05.095360+00:00
+ - [https://www.caribpress.com](https://www.caribpress.com)
+ - date published: 2024-01-09T02:31:43.727437+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://www.caribpress.com](https://www.caribpress.com)
- - date published: 2024-01-09T02:31:43.727437+00:00
+ - [http://www.caribpress.com](http://www.caribpress.com)
+ - date published: 2024-02-25T15:38:05.095360+00:00
  - user: None
  - tags: []
 
@@ -5610,6 +5646,12 @@
  - user: rumpel
  - tags: ['ttrpg']
 
+## ChapterOneAI Blog - Covering Everthing Resume Related
+ - [https://blog.chapteroneai.com](https://blog.chapteroneai.com)
+ - date published: 2024-04-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Character Home, LLC
  - [https://characterhome.com](https://characterhome.com)
  - date published: 2024-01-19T13:01:28.344914+00:00
@@ -5961,48 +6003,6 @@
 ## ChinaCarHistory
  - [https://chinacarhistory.com](https://chinacarhistory.com)
  - date published: 2023-10-25T13:22:13.022336+00:00
- - user: None
- - tags: []
-
-## Chips and Cheese – The Devil is in the Details
- - [https://chipsandcheese.com](https://chipsandcheese.com)
- - date published: 2023-10-25T09:32:20.539268+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.chiptune.com](https://www.chiptune.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Redirecting to https://blog.turso.tech/
- - [https://blog.chiselstrike.com](https://blog.chiselstrike.com)
- - date published: 2023-10-25T13:22:15.246863+00:00
- - user: None
- - tags: []
-
-## CHITUBOX丨All-in-one SLA/DLP/LCD Slicer丨3D printing preprocessing software-
- - [https://www.chitubox.com](https://www.chitubox.com)
- - date published: 2024-03-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Chocolate and Vodka — bubbling enthusiasm for $arbitrary_topic
- - [https://chocolateandvodka.com](https://chocolateandvodka.com)
- - date published: 2023-10-31T19:57:41.846110+00:00
- - user: None
- - tags: []
-
-## (no title)
- - [https://chokepointcapitalism.com](https://chokepointcapitalism.com)
- - date published: 2024-01-21T19:17:18.280193+00:00
- - user: None
- - tags: ['cory doctorow']
-
-## Chollet Films - Video Production in Chico
- - [https://cholletfilms.com](https://cholletfilms.com)
- - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

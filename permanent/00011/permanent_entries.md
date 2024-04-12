@@ -1,6 +1,141 @@
+## Reversing entropy, locally
+ - [https://philoserf.com](https://philoserf.com)
+ - date published: 2023-12-03T01:43:34.806253+00:00
+ - user: None
+ - tags: ['personal']
+
+## Philosophy Bro
+ - [https://www.philosophybro.com](https://www.philosophybro.com)
+ - date published: 2023-10-25T16:34:04.305344+00:00
+ - user: None
+ - tags: []
+
+## Philstar.com | Latest Philippine news and multimedia
+ - [https://www.philstar.com](https://www.philstar.com)
+ - date published: 2024-02-24T10:01:50.682731+00:00
+ - user: None
+ - tags: []
+
+## Phil Stephens
+ - [https://philstephens.com](https://philstephens.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Risk & Cybersecurity
+ - [https://www.philvenables.com](https://www.philvenables.com)
+ - date published: 2023-10-25T16:34:06.256000+00:00
+ - user: None
+ - tags: []
+
+## Phil Zimmermann's Home Page
+ - [https://www.philzimmermann.com](https://www.philzimmermann.com)
+ - date published: 2023-10-25T08:47:32.129006+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://phind.com
+ - [https://phind.com](https://phind.com)
+ - date published: 2023-10-25T16:34:07.856025+00:00
+ - user: None
+ - tags: []
+
+## https://www.phind.com
+ - [https://www.phind.com](https://www.phind.com)
+ - date published: 2023-10-25T16:34:08.146703+00:00
+ - user: None
+ - tags: []
+
+## Phoenix New Times | The Leading Independent News Source in Phoenix, Arizona
+ - [https://www.phoenixnewtimes.com](https://www.phoenixnewtimes.com)
+ - date published: 2023-11-23T22:14:37.035277+00:00
+ - user: None
+ - tags: []
+
+## Phoenix and Elixir for Ruby on Rails developers
+ · Phoenix on Rails
+ - [https://phoenixonrails.com](https://phoenixonrails.com)
+ - date published: 2023-10-25T16:34:09.532839+00:00
+ - user: None
+ - tags: []
+
+## Phoenix Systems - Home
+ - [https://phoenix-rtos.com](https://phoenix-rtos.com)
+ - date published: 2024-01-10T00:00:00+00:00
+ - user: rumpel
+ - tags: ['real time operating system', 'rtos']
+
+## PhoneArena | Phone News, Reviews, Deals and Specs
+ - [https://www.phonearena.com](https://www.phonearena.com)
+ - date published: 2023-10-25T10:14:53.382529+00:00
+ - user: None
+ - tags: []
+
+## Phone Scoop
+ - [https://www.phonescoop.com](https://www.phonescoop.com)
+ - date published: 2023-10-25T16:34:12.198914+00:00
+ - user: None
+ - tags: []
+
+## Linux Hardware Reviews & Performance Benchmarks, Open-Source News - Phoronix
+ - [https://www.phoronix.com](https://www.phoronix.com)
+ - date published: 2023-10-25T09:34:52.687128+00:00
+ - user: None
+ - tags: ['linux', 'open source', 'tech news']
+
+## Linux Hardware Reviews & Performance Benchmarks, Open-Source News - Phoronix
+ - [http://www.phoronix.com](http://www.phoronix.com)
+ - date published: 2024-02-26T09:49:49.232286+00:00
+ - user: None
+ - tags: []
+
+## Photopea | Online Photo Editor
+ - [https://www.photopea.com](https://www.photopea.com)
+ - date published: 2023-10-25T16:34:13.576672+00:00
+ - user: None
+ - tags: []
+
+## The Photographer's Newsletter
+    
+         - Information & Inspiration For Photogs
+ - [https://www.photoroo.com](https://www.photoroo.com)
+ - date published: 2023-10-25T16:34:15.007380+00:00
+ - user: None
+ - tags: []
+
+## AI Photo Editing: Remove Background & Create Product Pics | PhotoRoom
+ - [https://www.photoroom.com](https://www.photoroom.com)
+ - date published: 2023-10-25T16:34:17.644739+00:00
+ - user: None
+ - tags: []
+
+## PhotoSync – Photo Transfer and Backup App | For iOS & Android - PhotoSync
+ - [https://www.photosync-app.com](https://www.photosync-app.com)
+ - date published: 2024-04-01T20:56:48+00:00
+ - user: rumpel
+ - tags: ['nas storage sync']
+
+## phpBB • Free and Open Source Forum Software
+ - [https://phpbb.com](https://phpbb.com)
+ - date published: 2023-12-13T16:04:04.243437+00:00
+ - user: None
+ - tags: ['open source', 'self-host', 'forum software']
+
+## phpBB • Free and Open Source Forum Software
+ - [https://www.phpbb.com](https://www.phpbb.com)
+ - date published: 2023-10-25T08:30:34.828095+00:00
+ - user: None
+ - tags: []
+
 ## phpied.com
  - [https://www.phpied.com](https://www.phpied.com)
  - date published: 2024-01-15T05:45:17.624527+00:00
+ - user: None
+ - tags: []
+
+## phpied.com
+ - [http://www.phpied.com](http://www.phpied.com)
+ - date published: 2024-03-24T15:05:52.476257+00:00
  - user: None
  - tags: []
 
@@ -935,13 +1070,13 @@
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -1421,14 +1556,14 @@
  - tags: []
 
 ## Preshing on Programming
- - [https://preshing.com](https://preshing.com)
- - date published: 2023-10-25T16:39:24.657091+00:00
+ - [http://preshing.com](http://preshing.com)
+ - date published: 2021-03-15T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Preshing on Programming
- - [http://preshing.com](http://preshing.com)
- - date published: 2021-03-15T00:00:00+00:00
+ - [https://preshing.com](https://preshing.com)
+ - date published: 2023-10-25T16:39:24.657091+00:00
  - user: None
  - tags: []
 
@@ -2225,14 +2360,14 @@
  - tags: []
 
 ## Pushbullet Blog
- - [https://blog.pushbullet.com](https://blog.pushbullet.com)
- - date published: 2023-10-25T16:42:28.991402+00:00
+ - [http://blog.pushbullet.com](http://blog.pushbullet.com)
+ - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Pushbullet Blog
- - [http://blog.pushbullet.com](http://blog.pushbullet.com)
- - date published: 2022-01-01T00:00:00+00:00
+ - [https://blog.pushbullet.com](https://blog.pushbullet.com)
+ - date published: 2023-10-25T16:42:28.991402+00:00
  - user: None
  - tags: []
 
@@ -2870,17 +3005,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://rachelwestbooks.com](http://rachelwestbooks.com)
- - date published: 2024-02-29T14:58:43.538321+00:00
- - user: None
- - tags: []
-
 ## http://rachelwestbooks.com
  - [https://rachelwestbooks.com](https://rachelwestbooks.com)
  - date published: 2024-02-09T00:19:01.129739+00:00
  - user: None
  - tags: ['poetry', 'book', 'personal']
+
+## None
+ - [http://rachelwestbooks.com](http://rachelwestbooks.com)
+ - date published: 2024-02-29T14:58:43.538321+00:00
+ - user: None
+ - tags: []
 
 ## Rachel Zampino | Website Wizard - Rachel Zampino
  - [https://rachelzampino.com](https://rachelzampino.com)
@@ -3598,14 +3733,14 @@ More!
  - tags: ['company']
 
 ## Home | Realms of Despair
- - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
- - date published: 2024-03-27T20:46:33.188949+00:00
+ - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:52:28.838514+00:00
  - user: None
  - tags: ['mud game']
 
 ## Home | Realms of Despair
- - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
- - date published: 2024-03-27T20:52:28.838514+00:00
+ - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:46:33.188949+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5870,136 +6005,4 @@ More!
  - date published: 2024-01-13T22:53:21.904627+00:00
  - user: None
  - tags: []
-
-## Jet Beetle
- - [https://www.ronpatrickstuff.com](https://www.ronpatrickstuff.com)
- - date published: 2023-10-25T08:47:50.285670+00:00
- - user: None
- - tags: ['personal']
-
-## https://aiquiz.ronsor.com
- - [https://aiquiz.ronsor.com](https://aiquiz.ronsor.com)
- - date published: 2024-01-09T02:48:16.377059+00:00
- - user: None
- - tags: []
-
-## About | Undeleted Files
- - [https://undeleted.ronsor.com](https://undeleted.ronsor.com)
- - date published: 2023-10-25T16:54:29.700415+00:00
- - user: None
- - tags: []
-
-## http://timothywasike.ronzag.com
- - [http://timothywasike.ronzag.com](http://timothywasike.ronzag.com)
- - date published: 2023-12-10T16:59:19.722167+00:00
- - user: None
- - tags: ['personal']
-
-## my blog
- - [http://ronzhyn.com](http://ronzhyn.com)
- - date published: 2024-04-03T12:46:15.138808+00:00
- - user: None
- - tags: ['personal']
-
-## my blog
- - [https://ronzhyn.com](https://ronzhyn.com)
- - date published: 2023-12-03T01:43:15.181104+00:00
- - user: None
- - tags: ['personal']
-
-## RootedCON
- - [https://www.rootedcon.com](https://www.rootedcon.com)
- - date published: 2024-03-19T14:37:15.716206+00:00
- - user: None
- - tags: ['community event']
-
-## RorVsWild - All-in-one server monitoring for Ruby on Rails applications
- - [https://www.rorvswild.com](https://www.rorvswild.com)
- - date published: 2023-12-07T14:48:44.621698+00:00
- - user: None
- - tags: []
-
-## MacBook Repair Austin | (347) 552-2258 | Rossmann Repair Group
- - [https://www.rossmanngroup.com](https://www.rossmanngroup.com)
- - date published: 2023-11-03T10:37:01.928688+00:00
- - user: None
- - tags: ['louis rossmann']
-
-## Ross Zeiger - Software, Video, Business, Life Abroad
- - [https://rosszeiger.com](https://rosszeiger.com)
- - date published: 2023-11-29T17:18:54.650056+00:00
- - user: None
- - tags: ['personal']
-
-## Rotaboxes - the daily photo puzzle game
- - [https://rotaboxes.com](https://rotaboxes.com)
- - date published: 2023-10-25T16:54:35.233146+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.rotarywoofer.com](https://www.rotarywoofer.com)
- - date published: 2024-01-09T02:48:20.061558+00:00
- - user: None
- - tags: []
-
-## Rotating Sandwiches – that's it
- - [https://rotatingsandwiches.com](https://rotatingsandwiches.com)
- - date published: 2023-10-25T16:54:37.119990+00:00
- - user: None
- - tags: []
-
-## Rotten Tomatoes: Movies | TV Shows | Movie Trailers | Reviews - Rotten Tomatoes
- - [https://www.rottentomatoes.com](https://www.rottentomatoes.com)
- - date published: 2023-10-25T16:43:03.779236+00:00
- - user: None
- - tags: ['movies', 'ranking']
-
-## Rouven Fries
- - [https://roufri.com](https://roufri.com)
- - date published: 2024-04-03T06:27:58.024763+00:00
- - user: None
- - tags: ['personal']
-
-## Rough.js: Create graphics with a hand-drawn, sketchy, appearance
- - [https://roughjs.com](https://roughjs.com)
- - date published: 2023-12-22T08:06:23+00:00
- - user: None
- - tags: []
-
-## ROUGH TYPE | Nicholas Carr's blog
- - [https://www.roughtype.com](https://www.roughtype.com)
- - date published: 2023-10-25T16:54:46.815167+00:00
- - user: None
- - tags: []
-
-## Routledge - Publisher of Professional & Academic Books
- - [https://www.routledge.com](https://www.routledge.com)
- - date published: 2023-10-25T16:54:48.988309+00:00
- - user: None
- - tags: []
-
-## Rowan Zellers' Homepage
- - [https://rowanzellers.com](https://rowanzellers.com)
- - date published: 2023-10-25T16:54:51.440050+00:00
- - user: None
- - tags: []
-
-## Rowena Morais - Helping you build more influence
- - [https://rowenamorais.com](https://rowenamorais.com)
- - date published: 2024-01-04T01:14:16.801526+00:00
- - user: None
- - tags: []
-
-## Rows
- - [https://rows.com](https://rows.com)
- - date published: 2023-10-25T16:54:52.043447+00:00
- - user: None
- - tags: []
-
-## Roxine Kee
- - [https://www.roxinekee.com](https://www.roxinekee.com)
- - date published: 2023-12-13T06:03:32.244926+00:00
- - user: None
- - tags: ['personal']
 

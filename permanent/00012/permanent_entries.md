@@ -1,3 +1,135 @@
+## Jet Beetle
+ - [https://www.ronpatrickstuff.com](https://www.ronpatrickstuff.com)
+ - date published: 2023-10-25T08:47:50.285670+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://aiquiz.ronsor.com
+ - [https://aiquiz.ronsor.com](https://aiquiz.ronsor.com)
+ - date published: 2024-01-09T02:48:16.377059+00:00
+ - user: None
+ - tags: []
+
+## About | Undeleted Files
+ - [https://undeleted.ronsor.com](https://undeleted.ronsor.com)
+ - date published: 2023-10-25T16:54:29.700415+00:00
+ - user: None
+ - tags: []
+
+## http://timothywasike.ronzag.com
+ - [http://timothywasike.ronzag.com](http://timothywasike.ronzag.com)
+ - date published: 2023-12-10T16:59:19.722167+00:00
+ - user: None
+ - tags: ['personal']
+
+## my blog
+ - [http://ronzhyn.com](http://ronzhyn.com)
+ - date published: 2024-04-03T12:46:15.138808+00:00
+ - user: None
+ - tags: ['personal']
+
+## my blog
+ - [https://ronzhyn.com](https://ronzhyn.com)
+ - date published: 2023-12-03T01:43:15.181104+00:00
+ - user: None
+ - tags: ['personal']
+
+## RootedCON
+ - [https://www.rootedcon.com](https://www.rootedcon.com)
+ - date published: 2024-03-19T14:37:15.716206+00:00
+ - user: None
+ - tags: ['community event']
+
+## RorVsWild - All-in-one server monitoring for Ruby on Rails applications
+ - [https://www.rorvswild.com](https://www.rorvswild.com)
+ - date published: 2023-12-07T14:48:44.621698+00:00
+ - user: None
+ - tags: []
+
+## MacBook Repair Austin | (347) 552-2258 | Rossmann Repair Group
+ - [https://www.rossmanngroup.com](https://www.rossmanngroup.com)
+ - date published: 2023-11-03T10:37:01.928688+00:00
+ - user: None
+ - tags: ['louis rossmann']
+
+## Ross Zeiger - Software, Video, Business, Life Abroad
+ - [https://rosszeiger.com](https://rosszeiger.com)
+ - date published: 2023-11-29T17:18:54.650056+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rotaboxes - the daily photo puzzle game
+ - [https://rotaboxes.com](https://rotaboxes.com)
+ - date published: 2023-10-25T16:54:35.233146+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.rotarywoofer.com](https://www.rotarywoofer.com)
+ - date published: 2024-01-09T02:48:20.061558+00:00
+ - user: None
+ - tags: []
+
+## Rotating Sandwiches – that's it
+ - [https://rotatingsandwiches.com](https://rotatingsandwiches.com)
+ - date published: 2023-10-25T16:54:37.119990+00:00
+ - user: None
+ - tags: []
+
+## Rotten Tomatoes: Movies | TV Shows | Movie Trailers | Reviews - Rotten Tomatoes
+ - [https://www.rottentomatoes.com](https://www.rottentomatoes.com)
+ - date published: 2023-10-25T16:43:03.779236+00:00
+ - user: None
+ - tags: ['movies', 'ranking']
+
+## Rouven Fries
+ - [https://roufri.com](https://roufri.com)
+ - date published: 2024-04-03T06:27:58.024763+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rough.js: Create graphics with a hand-drawn, sketchy, appearance
+ - [https://roughjs.com](https://roughjs.com)
+ - date published: 2023-12-22T08:06:23+00:00
+ - user: None
+ - tags: []
+
+## ROUGH TYPE | Nicholas Carr's blog
+ - [https://www.roughtype.com](https://www.roughtype.com)
+ - date published: 2023-10-25T16:54:46.815167+00:00
+ - user: None
+ - tags: []
+
+## Routledge - Publisher of Professional & Academic Books
+ - [https://www.routledge.com](https://www.routledge.com)
+ - date published: 2023-10-25T16:54:48.988309+00:00
+ - user: None
+ - tags: []
+
+## Rowan Zellers' Homepage
+ - [https://rowanzellers.com](https://rowanzellers.com)
+ - date published: 2023-10-25T16:54:51.440050+00:00
+ - user: None
+ - tags: []
+
+## Rowena Morais - Helping you build more influence
+ - [https://rowenamorais.com](https://rowenamorais.com)
+ - date published: 2024-01-04T01:14:16.801526+00:00
+ - user: None
+ - tags: []
+
+## Rows
+ - [https://rows.com](https://rows.com)
+ - date published: 2023-10-25T16:54:52.043447+00:00
+ - user: None
+ - tags: []
+
+## Roxine Kee
+ - [https://www.roxinekee.com](https://www.roxinekee.com)
+ - date published: 2023-12-13T06:03:32.244926+00:00
+ - user: None
+ - tags: ['personal']
+
 ## | ROXLU
  - [https://www.roxlu.com](https://www.roxlu.com)
  - date published: 2023-10-25T16:54:53.567514+00:00
@@ -461,14 +593,14 @@
  - tags: []
 
 ## Home :: Sacha Chua
- - [https://sachachua.com](https://sachachua.com)
- - date published: 2024-01-06T02:24:05.322702+00:00
+ - [http://sachachua.com](http://sachachua.com)
+ - date published: 2024-01-05T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Home :: Sacha Chua
- - [http://sachachua.com](http://sachachua.com)
- - date published: 2024-01-05T00:00:00+00:00
+ - [https://sachachua.com](https://sachachua.com)
+ - date published: 2024-01-06T02:24:05.322702+00:00
  - user: None
  - tags: []
 
@@ -2819,14 +2951,14 @@
  - tags: []
 
 ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
- - [https://shorer.com](https://shorer.com)
- - date published: 2023-11-29T14:25:19.463201+00:00
+ - [http://shorer.com](http://shorer.com)
+ - date published: 2024-04-03T06:29:33.681658+00:00
  - user: None
  - tags: ['personal']
 
 ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
- - [http://shorer.com](http://shorer.com)
- - date published: 2024-04-03T06:29:33.681658+00:00
+ - [https://shorer.com](https://shorer.com)
+ - date published: 2023-11-29T14:25:19.463201+00:00
  - user: None
  - tags: ['personal']
 
@@ -2944,17 +3076,17 @@
  - user: None
  - tags: ['personal']
 
-## https://siddhantpyasi.com
- - [https://siddhantpyasi.com](https://siddhantpyasi.com)
- - date published: 2024-01-08T07:27:25.364006+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [http://siddhantpyasi.com](http://siddhantpyasi.com)
  - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## https://siddhantpyasi.com
+ - [https://siddhantpyasi.com](https://siddhantpyasi.com)
+ - date published: 2024-01-08T07:27:25.364006+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Cash Prices for Medical Procedures | Sidecar Health Care Calculator
  - [https://cost.sidecarhealth.com](https://cost.sidecarhealth.com)
@@ -3803,15 +3935,15 @@
  - user: None
  - tags: ['smart home']
 
-## Smashing Magazine — For Web Designers And Developers
- - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
- - date published: 2023-10-25T17:07:11.338092+00:00
- - user: None
- - tags: []
-
 ## Smashing Magazine ‚Äî For Web Designers And Developers
  - [http://www.smashingmagazine.com](http://www.smashingmagazine.com)
  - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Smashing Magazine — For Web Designers And Developers
+ - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
+ - date published: 2023-10-25T17:07:11.338092+00:00
  - user: None
  - tags: []
 
@@ -3942,16 +4074,16 @@
  - tags: []
 
 ## Snarling Badger Studios
- - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
- - date published: 2023-11-10T10:42:34.914133+00:00
- - user: None
- - tags: ['magazine', 'tabletop games', 'warhammer', 'wargames', 'zine']
-
-## Snarling Badger Studios
  - [http://www.snarlingbadger.com](http://www.snarlingbadger.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Snarling Badger Studios
+ - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
+ - date published: 2023-11-10T10:42:34.914133+00:00
+ - user: None
+ - tags: ['magazine', 'tabletop games', 'warhammer', 'wargames', 'zine']
 
 ## Serge Nevsky
  - [https://snevsky.com](https://snevsky.com)
@@ -4795,8 +4927,8 @@
 
 ## Spikey Bits
  - [https://spikeybits.com](https://spikeybits.com)
- - date published: 2024-01-21T18:33:27.393488+00:00
- - user: None
+ - date published: 2024-01-21T18:33:27+00:00
+ - user: rumpel
  - tags: ['warhammer', 'star wars', 'tabletop games', 'news']
 
 ## SPIN - Music News, Album Reviews, Concert Photos, Videos and More
@@ -5063,7 +5195,7 @@
  - [https://vilzgg.squarespace.com](https://vilzgg.squarespace.com)
  - date published: 2024-04-10T22:55:34.787556+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Website Builder — Create a Website in Minutes — Squarespace
  - [https://www.squarespace.com](https://www.squarespace.com)
@@ -5270,14 +5402,14 @@
  - tags: []
 
 ## Biology Stack Exchange
- - [https://biology.stackexchange.com](https://biology.stackexchange.com)
- - date published: 2024-01-10T09:05:16.771549+00:00
+ - [http://biology.stackexchange.com](http://biology.stackexchange.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Biology Stack Exchange
- - [http://biology.stackexchange.com](http://biology.stackexchange.com)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://biology.stackexchange.com](https://biology.stackexchange.com)
+ - date published: 2024-01-10T09:05:16.771549+00:00
  - user: None
  - tags: []
 
@@ -5414,14 +5546,14 @@
  - tags: []
 
 ## Physics Stack Exchange
- - [https://physics.stackexchange.com](https://physics.stackexchange.com)
- - date published: 2023-10-25T17:13:56.651090+00:00
+ - [http://physics.stackexchange.com](http://physics.stackexchange.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Physics Stack Exchange
- - [http://physics.stackexchange.com](http://physics.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://physics.stackexchange.com](https://physics.stackexchange.com)
+ - date published: 2023-10-25T17:13:56.651090+00:00
  - user: None
  - tags: []
 
@@ -5872,138 +6004,6 @@
 ## Home - Statistically Relevant
  - [https://statisticallyrelevant.com](https://statisticallyrelevant.com)
  - date published: 2023-10-25T17:15:58.229909+00:00
- - user: None
- - tags: []
-
-## STAT - Reporting from the frontiers of health and medicine
- - [https://www.statnews.com](https://www.statnews.com)
- - date published: 2023-10-25T10:46:15.019573+00:00
- - user: None
- - tags: []
-
-## Stat Significant | Daniel Parris | Substack
- - [https://www.statsignificant.com](https://www.statsignificant.com)
- - date published: 2023-12-07T14:48:35.612575+00:00
- - user: None
- - tags: []
-
-## Stats, Maps n Pix
- - [https://www.statsmapsnpix.com](https://www.statsmapsnpix.com)
- - date published: 2023-10-25T17:16:02.812082+00:00
- - user: None
- - tags: []
-
-## Show HN: I built a tool to get "Your app was approved/rejected " alerts on Slack
- - [https://statused.com](https://statused.com)
- - date published: 2023-11-09T09:51:26+00:00
- - user: None
- - tags: []
-
-## Stay SaaSy | Keeping it SaaSy
- - [https://staysaasy.com](https://staysaasy.com)
- - date published: 2023-10-25T17:16:04.075504+00:00
- - user: None
- - tags: []
-
-## https://www.steadipulse.com
- - [https://www.steadipulse.com](https://www.steadipulse.com)
- - date published: 2023-10-25T17:16:04.897773+00:00
- - user: None
- - tags: []
-
-## Steam Community
- - [https://steamcommunity.com](https://steamcommunity.com)
- - date published: 2023-11-05T19:13:40.009701+00:00
- - user: None
- - tags: []
-
-## Steam Deck
- - [https://www.steamdeck.com](https://www.steamdeck.com)
- - date published: 2023-10-27T12:54:20.650329+00:00
- - user: None
- - tags: ['product']
-
-## Steam Store
- - [https://store.steampowered.com](https://store.steampowered.com)
- - date published: 2023-10-24T20:12:11.678324+00:00
- - user: None
- - tags: ['gatekeeper', 'game store']
-
-## Steamship
- - [https://www.steamship.com](https://www.steamship.com)
- - date published: 2023-10-25T17:16:11.048919+00:00
- - user: None
- - tags: ['artificial intelligence']
-
-## https://cdn.cloudflare.steamstatic.com
- - [https://cdn.cloudflare.steamstatic.com](https://cdn.cloudflare.steamstatic.com)
- - date published: 2024-01-09T02:49:27.393282+00:00
- - user: None
- - tags: []
-
-## Simplified EDI, now with flat pricing - Stedi
- - [https://www.stedi.com](https://www.stedi.com)
- - date published: 2023-10-25T17:16:12.750079+00:00
- - user: None
- - tags: []
-
-## Steemit
- - [https://steemit.com](https://steemit.com)
- - date published: 2023-10-25T17:16:19.491738+00:00
- - user: None
- - tags: []
-
-## Stefan Abi-Karam
- - [https://stefanabikaram.com](https://stefanabikaram.com)
- - date published: 2023-10-25T17:16:20.232528+00:00
- - user: None
- - tags: []
-
-## Stefanie Hetjens – Enabling People to flourish
- - [https://www.stefanie-hetjens.com](https://www.stefanie-hetjens.com)
- - date published: 2024-02-14T08:47:58.812696+00:00
- - user: None
- - tags: ['personal']
-
-## Developer, writer and speaker | Stefan Judis Web Development
- - [https://www.stefanjudis.com](https://www.stefanjudis.com)
- - date published: 2023-10-25T17:16:21.789433+00:00
- - user: None
- - tags: []
-
-## Stefan Koopmanschap
- - [https://stefankoopmanschap.com](https://stefankoopmanschap.com)
- - date published: 2024-01-15T14:06:24.517252+00:00
- - user: None
- - tags: []
-
-## Hello, I’m Ste Grainer. » SteGrainer.com
- - [https://stegrainer.com](https://stegrainer.com)
- - date published: 2023-12-13T20:59:04.125988+00:00
- - user: None
- - tags: ['personal']
-
-## steipete's blog
- - [https://steipete.com](https://steipete.com)
- - date published: 2023-10-25T17:16:23.057157+00:00
- - user: None
- - tags: []
-
-## Stella Biderman
- - [https://www.stellabiderman.com](https://www.stellabiderman.com)
- - date published: 2024-03-13T15:21:23.532487+00:00
- - user: None
- - tags: ['personal']
-
-## Official Global Website
- - [https://www.stellantis.com](https://www.stellantis.com)
- - date published: 2023-12-11T16:09:49.916021+00:00
- - user: None
- - tags: []
-
-## Steno Research - The Independent Macro Research Platform
- - [https://stenoresearch.com](https://stenoresearch.com)
- - date published: 2023-10-25T17:16:30.954448+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,45 @@
+## Chips and Cheese – The Devil is in the Details
+ - [https://chipsandcheese.com](https://chipsandcheese.com)
+ - date published: 2023-10-25T09:32:20.539268+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.chiptune.com](https://www.chiptune.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Redirecting to https://blog.turso.tech/
+ - [https://blog.chiselstrike.com](https://blog.chiselstrike.com)
+ - date published: 2023-10-25T13:22:15.246863+00:00
+ - user: None
+ - tags: []
+
+## CHITUBOX丨All-in-one SLA/DLP/LCD Slicer丨3D printing preprocessing software-
+ - [https://www.chitubox.com](https://www.chitubox.com)
+ - date published: 2024-03-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Chocolate and Vodka — bubbling enthusiasm for $arbitrary_topic
+ - [https://chocolateandvodka.com](https://chocolateandvodka.com)
+ - date published: 2023-10-31T19:57:41.846110+00:00
+ - user: None
+ - tags: []
+
+## (no title)
+ - [https://chokepointcapitalism.com](https://chokepointcapitalism.com)
+ - date published: 2024-01-21T19:17:18.280193+00:00
+ - user: None
+ - tags: ['cory doctorow']
+
+## Chollet Films - Video Production in Chico
+ - [https://cholletfilms.com](https://cholletfilms.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Christian Hollinger
  - [https://chollinger.com](https://chollinger.com)
  - date published: 2023-10-25T08:45:21.585578+00:00
@@ -94,17 +136,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://chrisjstott.com](http://chrisjstott.com)
- - date published: 2024-02-29T14:58:49.595292+00:00
- - user: None
- - tags: []
-
 ## http://chrisjstott.com
  - [https://chrisjstott.com](https://chrisjstott.com)
  - date published: 2024-01-24T08:01:05.864817+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [http://chrisjstott.com](http://chrisjstott.com)
+ - date published: 2024-02-29T14:58:49.595292+00:00
+ - user: None
+ - tags: []
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -317,16 +359,16 @@
  - tags: []
 
 ## Blog | Chris Warrick
- - [http://chriswarrick.com](http://chriswarrick.com)
- - date published: 2024-02-25T15:45:10.545891+00:00
- - user: None
- - tags: []
-
-## Blog | Chris Warrick
  - [https://chriswarrick.com](https://chriswarrick.com)
  - date published: 2023-10-25T09:19:47.812882+00:00
  - user: None
  - tags: ['personal']
+
+## Blog | Chris Warrick
+ - [http://chriswarrick.com](http://chriswarrick.com)
+ - date published: 2024-02-25T15:45:10.545891+00:00
+ - user: None
+ - tags: []
 
 ## Chris Zacharias
  - [https://blog.chriszacharias.com](https://blog.chriszacharias.com)
@@ -5961,46 +6003,4 @@
  - date published: 2023-11-13T05:32:47+00:00
  - user: None
  - tags: []
-
-## Diaries of Note – On this day in diary entries
- - [https://diariesofnote.com](https://diariesofnote.com)
- - date published: 2023-10-25T13:51:24.637589+00:00
- - user: None
- - tags: []
-
-## Diaryland members area
- - [https://members.diaryland.com](https://members.diaryland.com)
- - date published: 2023-10-25T13:51:29.144226+00:00
- - user: None
- - tags: []
-
-## Dicebreaker
- - [https://www.dicebreaker.com](https://www.dicebreaker.com)
- - date published: 2023-10-25T11:11:12.489415+00:00
- - user: None
- - tags: ['wargames', 'magic the gathering', 'board games', 'board game news', 'warhammer', 'tabletop games']
-
-## Home – Dice Paper Miniatures – Fantasy Art Miniatures Hobby Games
- - [https://dicepaperminis.com](https://dicepaperminis.com)
- - date published: 2023-11-01T18:15:18.533183+00:00
- - user: None
- - tags: ['miniatures', 'warhammer', 'necromunda']
-
-## DiceRight
- - [https://www.diceright.com](https://www.diceright.com)
- - date published: 2023-10-25T13:51:30.991439+00:00
- - user: None
- - tags: []
-
-## Dickson Neoh - Personal Portfolio
- - [https://dicksonneoh.com](https://dicksonneoh.com)
- - date published: 2023-10-25T13:51:33.339476+00:00
- - user: None
- - tags: []
-
-## Dictionary.com | Meanings & Definitions of English Words
- - [https://www.dictionary.com](https://www.dictionary.com)
- - date published: 2023-10-25T09:28:45.890389+00:00
- - user: None
- - tags: ['dictionary']
 

@@ -1,3 +1,273 @@
+## Global news, analysis and opinion on energy storage innovation and technologies - Energy-Storage.News
+ - [https://www.energy-storage.news](https://www.energy-storage.news)
+ - date published: 2023-10-25T20:42:39.410552+00:00
+ - user: None
+ - tags: []
+
+## https://www.forth.news
+ - [https://www.forth.news](https://www.forth.news)
+ - date published: 2023-10-25T20:42:40.486870+00:00
+ - user: None
+ - tags: []
+
+## Your Source for Trusted and Unbiased News - The Messenger
+ - [https://www.grid.news](https://www.grid.news)
+ - date published: 2023-10-25T20:42:43.995084+00:00
+ - user: None
+ - tags: []
+
+## Ground News
+ - [https://ground.news](https://ground.news)
+ - date published: 2024-02-17T00:00:00+00:00
+ - user: rumpel
+ - tags: ['news']
+
+## Haskell Weekly
+ - [https://haskellweekly.news](https://haskellweekly.news)
+ - date published: 2023-10-25T20:42:45.054681+00:00
+ - user: None
+ - tags: []
+
+## Heatmap News
+ - [https://heatmap.news](https://heatmap.news)
+ - date published: 2023-10-25T10:54:47.126489+00:00
+ - user: None
+ - tags: []
+
+## 500 Server Error
+ - [https://here.news](https://here.news)
+ - date published: 2023-10-25T10:16:53.490443+00:00
+ - user: None
+ - tags: []
+
+## Show HN: No-bs "HN: Who is Hiring?" job picks straight to your inbox
+ - [https://hnrecap.news](https://hnrecap.news)
+ - date published: 2024-04-05T12:30:01+00:00
+ - user: None
+ - tags: []
+
+## Hyundai Europe
+ - [https://www.hyundai.news](https://www.hyundai.news)
+ - date published: 2023-12-12T14:08:13.098131+00:00
+ - user: None
+ - tags: []
+
+## Johnnys.News
+ - [https://johnnys.news](https://johnnys.news)
+ - date published: 2023-10-25T20:42:45.586603+00:00
+ - user: None
+ - tags: []
+
+## Kanekoa News | Substack
+ - [https://www.kanekoa.news](https://www.kanekoa.news)
+ - date published: 2024-02-26T08:29:39.596243+00:00
+ - user: None
+ - tags: []
+
+## Keyboard Builders' Digest
+ - [https://kbd.news](https://kbd.news)
+ - date published: 2023-12-30T01:36:51+00:00
+ - user: None
+ - tags: []
+
+## Local News Today - Breaking News & Top Stories
+ - [https://localtoday.news](https://localtoday.news)
+ - date published: 2023-10-25T11:07:16.883371+00:00
+ - user: None
+ - tags: []
+
+## modernity
+ - [https://modernity.news](https://modernity.news)
+ - date published: 2024-02-20T21:06:22+00:00
+ - user: rumpel
+ - tags: ['the right wing']
+
+## Not Yet News
+ - [https://www.notyet.news](https://www.notyet.news)
+ - date published: 2023-10-25T20:42:46.888810+00:00
+ - user: None
+ - tags: []
+
+## The Omg Lol Times · St. Jude Fundraiser Report
+ - [https://omglol.news](https://omglol.news)
+ - date published: 2023-10-25T20:42:48.905677+00:00
+ - user: None
+ - tags: []
+
+## Platformer | Casey Newton | Substack
+ - [https://www.platformer.news](https://www.platformer.news)
+ - date published: 2023-10-25T20:42:52.117652+00:00
+ - user: None
+ - tags: []
+
+## Positive News | Good journalism about good things - Positive News
+ - [https://www.positive.news](https://www.positive.news)
+ - date published: 2023-10-25T20:42:54.838847+00:00
+ - user: None
+ - tags: []
+
+## Post
+ - [https://post.news](https://post.news)
+ - date published: 2023-10-25T20:43:00.854072+00:00
+ - user: None
+ - tags: []
+
+## Racket News | Matt Taibbi | Substack
+ - [https://www.racket.news](https://www.racket.news)
+ - date published: 2023-10-25T20:43:04.969237+00:00
+ - user: None
+ - tags: []
+
+## Rekt - Home
+ - [https://rekt.news](https://rekt.news)
+ - date published: 2023-10-25T20:43:07.706883+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://rmx.news](https://rmx.news)
+ - date published: 2023-10-25T10:39:52.865910+00:00
+ - user: None
+ - tags: []
+
+## Runtime
+ - [https://www.runtime.news](https://www.runtime.news)
+ - date published: 2024-03-30T05:22:15.398938+00:00
+ - user: None
+ - tags: []
+
+## Sci.News: Breaking Science News
+ - [https://www.sci.news](https://www.sci.news)
+ - date published: 2023-10-25T10:11:45.286879+00:00
+ - user: None
+ - tags: []
+
+## Home - Stonks News
+ - [https://stonks.news](https://stonks.news)
+ - date published: 2023-10-25T20:43:11.649456+00:00
+ - user: None
+ - tags: []
+
+## Summit News - News From The Summit
+ - [https://summit.news](https://summit.news)
+ - date published: 2023-10-25T10:39:55.843611+00:00
+ - user: None
+ - tags: []
+
+## Supervised | Matthew Lynley | Substack
+ - [https://www.supervised.news](https://www.supervised.news)
+ - date published: 2023-10-25T10:08:38.358107+00:00
+ - user: None
+ - tags: ['substack']
+
+## Technocracy News & Trends
+ - [https://www.technocracy.news](https://www.technocracy.news)
+ - date published: 2023-10-25T09:37:25.423842+00:00
+ - user: None
+ - tags: []
+
+## The Bureau | Sam Cooper | Substack
+ - [https://www.thebureau.news](https://www.thebureau.news)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Gauntlet | Julia Doubleday | Substack
+ - [https://www.thegauntlet.news](https://www.thegauntlet.news)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## tilde news
+ - [https://tilde.news](https://tilde.news)
+ - date published: 2023-10-25T20:43:14.869847+00:00
+ - user: None
+ - tags: []
+
+## True North | Breaking Canadian News and Opinion
+ - [https://tnc.news](https://tnc.news)
+ - date published: 2023-10-25T20:43:19.101154+00:00
+ - user: None
+ - tags: []
+
+## Web Platform News
+ - [https://webplatform.news](https://webplatform.news)
+ - date published: 2023-10-25T20:43:23.872213+00:00
+ - user: None
+ - tags: []
+
+## westernstandard.news | The independent voice of the New West
+ - [https://www.westernstandard.news](https://www.westernstandard.news)
+ - date published: 2023-12-04T22:07:35+00:00
+ - user: rumpel
+ - tags: ['news']
+
+## WorkLife — Authority on how modern work is changing people’s lives
+ - [https://www.worklife.news](https://www.worklife.news)
+ - date published: 2023-10-25T20:43:26.647990+00:00
+ - user: None
+ - tags: []
+
+## The Works in Progress Newsletter | Substack
+ - [https://www.worksinprogress.news](https://www.worksinprogress.news)
+ - date published: 2023-10-25T20:43:29.879565+00:00
+ - user: None
+ - tags: []
+
+## Zig NEWS
+ - [https://zig.news](https://zig.news)
+ - date published: 2023-10-25T20:43:39.498351+00:00
+ - user: None
+ - tags: []
+
+## The Times Nigeria Newspaper | TheTimes.com.ng
+ - [https://www.thetimes.com.ng](https://www.thetimes.com.ng)
+ - date published: 2023-10-25T20:43:43.215777+00:00
+ - user: None
+ - tags: []
+
+## Anchor | JUPEB-REGISTER
+ - [https://jupeb.aul.edu.ng](https://jupeb.aul.edu.ng)
+ - date published: 2024-02-08T18:02:41.371594+00:00
+ - user: None
+ - tags: []
+
+## Home | EMC
+ - [https://emc.ui.edu.ng](https://emc.ui.edu.ng)
+ - date published: 2024-02-08T16:47:24.793762+00:00
+ - user: None
+ - tags: []
+
+## Welcome - University Advancement Centre
+ - [https://uac.unn.edu.ng](https://uac.unn.edu.ng)
+ - date published: 2023-12-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to my digital space — Phuoc Nguyen
+ - [https://phuoc.ng](https://phuoc.ng)
+ - date published: 2023-11-06T14:12:19.315700+00:00
+ - user: None
+ - tags: []
+
+## rev.ng
+ - [https://rev.ng](https://rev.ng)
+ - date published: 2024-03-29T01:02:11.217150+00:00
+ - user: None
+ - tags: ['decompiler']
+
+## Home | TheCable
+ - [https://www.thecable.ng](https://www.thecable.ng)
+ - date published: 2023-11-04T18:28:54.971018+00:00
+ - user: None
+ - tags: []
+
+## Home - 『混沌とした 忍者』
+ - [https://chaotic.ninja](https://chaotic.ninja)
+ - date published: 2023-10-26T06:39:30.397007+00:00
+ - user: None
+ - tags: []
+
 ## hypr.ninja
  - [https://hypr.ninja](https://hypr.ninja)
  - date published: 2024-01-14T10:24:23.057410+00:00
@@ -191,16 +461,16 @@
  - tags: []
 
 ## Chris Eidhof
- - [https://chris.eidhof.nl](https://chris.eidhof.nl)
- - date published: 2023-10-25T08:54:21.499298+00:00
- - user: None
- - tags: ['personal']
-
-## Chris Eidhof
  - [http://chris.eidhof.nl](http://chris.eidhof.nl)
  - date published: 2024-02-25T15:44:49.625453+00:00
  - user: None
  - tags: []
+
+## Chris Eidhof
+ - [https://chris.eidhof.nl](https://chris.eidhof.nl)
+ - date published: 2023-10-25T08:54:21.499298+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Besluiten waarmee je groeit in impact op mens en omgeving
  - [https://ernohannink.nl](https://ernohannink.nl)
@@ -785,14 +1055,14 @@
  - tags: []
 
 ## INEVO: Eksperter på e-handel og digital markedsføring
- - [http://www.inevo.no](http://www.inevo.no)
- - date published: 2024-04-03T12:44:43.410441+00:00
+ - [https://www.inevo.no](https://www.inevo.no)
+ - date published: 2023-11-29T14:22:21.036592+00:00
  - user: None
  - tags: ['personal']
 
 ## INEVO: Eksperter på e-handel og digital markedsføring
- - [https://www.inevo.no](https://www.inevo.no)
- - date published: 2023-11-29T14:22:21.036592+00:00
+ - [http://www.inevo.no](http://www.inevo.no)
+ - date published: 2024-04-03T12:44:43.410441+00:00
  - user: None
  - tags: ['personal']
 
@@ -1902,14 +2172,14 @@ marginalia.nu
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2352,16 +2622,16 @@ marginalia.nu
  - tags: []
 
 ## AlxQ
- - [http://alxq.org](http://alxq.org)
- - date published: 2024-02-11T13:39:19.641138+00:00
- - user: None
- - tags: []
-
-## AlxQ
  - [https://alxq.org](https://alxq.org)
  - date published: 2024-02-15T22:12:28.937827+00:00
  - user: None
  - tags: ['demoscene']
+
+## AlxQ
+ - [http://alxq.org](http://alxq.org)
+ - date published: 2024-02-11T13:39:19.641138+00:00
+ - user: None
+ - tags: []
 
 ## Alys Stephens Center - Home
  - [https://www.alysstephens.org](https://www.alysstephens.org)
@@ -3955,7 +4225,7 @@ marginalia.nu
  - [https://qr.blinry.org](https://qr.blinry.org)
  - date published: 2024-01-22T10:59:05.126432+00:00
  - user: None
- - tags: []
+ - tags: ['qr codes']
 
 ## James Bennett
  - [https://www.b-list.org](https://www.b-list.org)
@@ -4702,14 +4972,14 @@ marginalia.nu
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [http://blog.cerowrt.org](http://blog.cerowrt.org)
- - date published: 2024-02-25T15:50:51.524978+00:00
+ - [https://blog.cerowrt.org](https://blog.cerowrt.org)
+ - date published: 2023-10-25T21:06:57.314728+00:00
  - user: None
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [https://blog.cerowrt.org](https://blog.cerowrt.org)
- - date published: 2023-10-25T21:06:57.314728+00:00
+ - [http://blog.cerowrt.org](http://blog.cerowrt.org)
+ - date published: 2024-02-25T15:50:51.524978+00:00
  - user: None
  - tags: []
 
@@ -5604,14 +5874,14 @@ marginalia.nu
  - tags: []
 
 ## Homepage - Creative Commons
- - [https://creativecommons.org](https://creativecommons.org)
- - date published: 2023-12-11T16:22:52.219620+00:00
+ - [http://creativecommons.org](http://creativecommons.org)
+ - date published: 2024-03-21T07:44:18.617797+00:00
  - user: None
  - tags: []
 
 ## Homepage - Creative Commons
- - [http://creativecommons.org](http://creativecommons.org)
- - date published: 2024-03-21T07:44:18.617797+00:00
+ - [https://creativecommons.org](https://creativecommons.org)
+ - date published: 2023-12-11T16:22:52.219620+00:00
  - user: None
  - tags: []
 
@@ -5740,275 +6010,4 @@ marginalia.nu
  - date published: 2023-12-06T11:59:51+00:00
  - user: rumpel
  - tags: ['hackers', 'cybersecurity', 'dark design']
-
-## CTIF - International Association of Fire Services for Safer Citizens through Skilled Firefighters
- - [https://ctif.org](https://ctif.org)
- - date published: 2023-10-25T21:11:51.392667+00:00
- - user: None
- - tags: []
-
-## CT Mirror: Connecticut News and In-Depth Reporting
- - [https://ctmirror.org](https://ctmirror.org)
- - date published: 2023-12-21T22:13:27.100706+00:00
- - user: None
- - tags: []
-
-## Connecticut Public | Media for the curious | Connecticut Public
- - [https://www.ctpublic.org](https://www.ctpublic.org)
- - date published: 2024-02-24T18:22:21.769110+00:00
- - user: None
- - tags: []
-
-## Society for Cultural Anthropology
- - [https://culanth.org](https://culanth.org)
- - date published: 2023-12-23T09:03:58.603298+00:00
- - user: None
- - tags: []
-
-## Cultures visuelles
- - [https://culturesvisuelles.org](https://culturesvisuelles.org)
- - date published: 2023-12-11T16:12:21.079518+00:00
- - user: None
- - tags: []
-
-## Curlie
- - [https://curlie.org](https://curlie.org)
- - date published: 2024-02-23T09:04:59+00:00
- - user: rumpel
- - tags: ['web1', 'internet', 'personal sites source', 'classic web']
-
-## Current - For people in public media
- - [https://current.org](https://current.org)
- - date published: 2023-10-25T21:12:00.535305+00:00
- - user: None
- - tags: []
-
-## Home ❧ Current Affairs
- - [https://www.currentaffairs.org](https://www.currentaffairs.org)
- - date published: 2023-11-09T22:43:56.697894+00:00
- - user: None
- - tags: []
-
-## cve-website
- - [https://www.cve.org](https://www.cve.org)
- - date published: 2024-02-24T22:12:49.863169+00:00
- - user: None
- - tags: []
-
-## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
- - [http://cvsgui.org](http://cvsgui.org)
- - date published: 2024-03-05T00:16:31.622060+00:00
- - user: None
- - tags: []
-
-## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
- - [https://cvsgui.org](https://cvsgui.org)
- - date published: 2024-03-04T12:06:02+00:00
- - user: rumpel
- - tags: ['control version system', 'program', 'vcs', 'open source']
-
-## California Water Environment Association | Champions of Wastewater
- - [https://www.cwea.org](https://www.cwea.org)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.cybercollective.org](https://www.cybercollective.org)
- - date published: 2024-01-14T17:10:11.879530+00:00
- - user: None
- - tags: []
-
-## Catherine Daze's Blog â€“ sewing my own clothes
- - [https://blog.cyberdaze.org](https://blog.cyberdaze.org)
- - date published: 2024-02-25T13:34:40.092050+00:00
- - user: None
- - tags: []
-
-## https://www.cyberdemon.org
- - [https://www.cyberdemon.org](https://www.cyberdemon.org)
- - date published: 2023-10-25T21:12:02.225294+00:00
- - user: None
- - tags: []
-
-## https://cyberplayground.org
- - [https://cyberplayground.org](https://cyberplayground.org)
- - date published: 2024-01-05T10:37:16.022792+00:00
- - user: None
- - tags: []
-
-## cypherspace
- - [http://www.cypherspace.org](http://www.cypherspace.org)
- - date published: 2023-10-25T21:12:03.701108+00:00
- - user: None
- - tags: []
-
-## Диабло България - Новини
- - [https://d3bg.org](https://d3bg.org)
- - date published: 2024-02-25T19:46:26.959697+00:00
- - user: None
- - tags: []
-
-## Диабло България - Новини
- - [https://www.d3bg.org](https://www.d3bg.org)
- - date published: 2023-12-13T16:21:26.331638+00:00
- - user: None
- - tags: []
-
-## Dada, an Experiement by the Creators of Rust
- - [https://dada-lang.org](https://dada-lang.org)
- - date published: 2024-03-06T10:31:02+00:00
- - user: None
- - tags: []
-
-## Daedal Macabre MUD - telnet daedal-macabre.org 9000
- - [https://daedal-macabre.org](https://daedal-macabre.org)
- - date published: 2024-03-27T20:47:03.430309+00:00
- - user: None
- - tags: ['mud game']
-
-## The Daily Californian | Berkeley's News
- - [https://www.dailycal.org](https://www.dailycal.org)
- - date published: 2023-10-25T21:12:09.133140+00:00
- - user: None
- - tags: []
-
-## The Daily Sceptic
- - [https://dailysceptic.org](https://dailysceptic.org)
- - date published: 2023-10-25T10:18:01.741807+00:00
- - user: None
- - tags: ['disinformation', 'misinformation']
-
-## Federal Reserve Bank of Dallas -
-        Dallasfed.org
- - [https://www.dallasfed.org](https://www.dallasfed.org)
- - date published: 2023-10-25T21:12:12.982710+00:00
- - user: None
- - tags: []
-
-## Damn Small Linux 2024
- - [https://www.damnsmalllinux.org](https://www.damnsmalllinux.org)
- - date published: 2024-02-01T14:48:47.692514+00:00
- - user: None
- - tags: []
-
-## Association of State Dam Safety
- - [https://damsafety.org](https://damsafety.org)
- - date published: 2024-04-05T18:56:52.997802+00:00
- - user: None
- - tags: []
-
-## danah boyd
- - [http://www.danah.org](http://www.danah.org)
- - date published: 2024-01-23T19:08:51.911270+00:00
- - user: None
- - tags: []
-
-## Home | DanceSafe
- - [https://dancesafe.org](https://dancesafe.org)
- - date published: 2023-10-25T21:12:23.473262+00:00
- - user: None
- - tags: []
-
-## Dan Cohen – Vice Provost, Dean, and Professor at Northeastern University
- - [https://dancohen.org](https://dancohen.org)
- - date published: 2024-01-30T17:18:12.589463+00:00
- - user: None
- - tags: []
-
-## Daniel Tedesco
- - [https://danieltedesco.org](https://danieltedesco.org)
- - date published: 2024-01-12T22:14:07.360803+00:00
- - user: None
- - tags: []
-
-## Experimental chill – a random walk through Software Engineering
- - [https://danlark.org](https://danlark.org)
- - date published: 2023-10-25T21:12:26.450742+00:00
- - user: None
- - tags: []
-
-## danmcquillan.org
- - [https://danmcquillan.org](https://danmcquillan.org)
- - date published: 2023-12-23T23:34:26.238338+00:00
- - user: None
- - tags: []
-
-## Dann Berg: blog, newsletter, shop, and more
- - [https://dannb.org](https://dannb.org)
- - date published: 2023-10-25T08:54:34.964396+00:00
- - user: None
- - tags: ['personal']
-
-## Introduction - DarkWind
- - [https://www.darkwind.org](https://www.darkwind.org)
- - date published: 2024-03-27T20:50:07.325366+00:00
- - user: None
- - tags: ['mud game']
-
-## Darling Development Blog
- - [https://blog.darlinghq.org](https://blog.darlinghq.org)
- - date published: 2023-10-25T21:12:33.218511+00:00
- - user: None
- - tags: []
-
-## Darling: Run macOS Software on Linux
- - [https://www.darlinghq.org](https://www.darlinghq.org)
- - date published: 2023-11-26T17:52:46+00:00
- - user: None
- - tags: []
-
-## daScript - The High Performance Programming Language
- - [https://dascript.org](https://dascript.org)
- - date published: 2023-11-03T08:29:51.010996+00:00
- - user: None
- - tags: []
-
-## Data Broker Watch | DataBrokersWatch.org
- - [https://databrokerswatch.org](https://databrokerswatch.org)
- - date published: 2024-01-15T03:08:59.518792+00:00
- - user: None
- - tags: []
-
-## Data Colada - Thinking about evidence and vice versa
- - [https://datacolada.org](https://datacolada.org)
- - date published: 2023-10-25T21:12:37.004872+00:00
- - user: None
- - tags: []
-
-## Data Physicalization - Data Physicalization Wiki
- - [http://dataphys.org](http://dataphys.org)
- - date published: 2023-10-25T21:12:38.813690+00:00
- - user: None
- - tags: []
-
-## The Professional Data Science Manifesto
- - [https://datasciencemanifesto.org](https://datasciencemanifesto.org)
- - date published: 2024-01-09T03:38:48.799474+00:00
- - user: None
- - tags: []
-
-## dataswamp.org
- - [https://dataswamp.org](https://dataswamp.org)
- - date published: 2023-10-25T21:12:41.913989+00:00
- - user: None
- - tags: []
-
-## Data-Vocabulary.org
- - [https://data-vocabulary.org](https://data-vocabulary.org)
- - date published: 2023-12-13T16:06:19.374927+00:00
- - user: None
- - tags: []
-
-## Adult Dating Sites - All The Truth About Adult Sites | DatingPeak
- - [https://datingpeak.org](https://datingpeak.org)
- - date published: 2022-09-20T00:00:00+00:00
- - user: rumpel
- - tags: ['nudity']
-
-## dave everitt | home |
- - [https://daveeveritt.org](https://daveeveritt.org)
- - date published: 2023-12-30T09:53:04.566113+00:00
- - user: None
- - tags: ['personal']
 

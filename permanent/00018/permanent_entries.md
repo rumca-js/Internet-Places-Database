@@ -1,3 +1,189 @@
+## Software Foundations
+ - [https://softwarefoundations.cis.upenn.edu](https://softwarefoundations.cis.upenn.edu)
+ - date published: 2023-10-25T19:04:13.197515+00:00
+ - user: None
+ - tags: []
+
+## web.sas.upenn.edu
+ - [https://web.sas.upenn.edu](https://web.sas.upenn.edu)
+ - date published: 2023-10-25T19:04:14.935075+00:00
+ - user: None
+ - tags: []
+
+## Computer and Information Science | A Department of the School of Engineering and Applied Science
+ - [https://www.cis.upenn.edu](https://www.cis.upenn.edu)
+ - date published: 2023-10-25T19:04:17.867275+00:00
+ - user: None
+ - tags: []
+
+## Department of Linguistics - Home | Department of Linguistics
+ - [https://www.ling.upenn.edu](https://www.ling.upenn.edu)
+ - date published: 2023-10-25T19:04:20.730527+00:00
+ - user: None
+ - tags: []
+
+## Universitat Pompeu Fabra
+ - [https://www.upf.edu](https://www.upf.edu)
+ - date published: 2023-11-03T12:11:03.206459+00:00
+ - user: None
+ - tags: []
+
+## PHL @ UPR Arecibo
+ - [https://phl.upr.edu](https://phl.upr.edu)
+ - date published: 2024-02-24T18:05:06.332906+00:00
+ - user: None
+ - tags: []
+
+## The University of Rhode Island
+ - [https://www.uri.edu](https://www.uri.edu)
+ - date published: 2023-12-05T11:07:16.002679+00:00
+ - user: None
+ - tags: []
+
+## DigitalCommons@Ursinus
+ - [https://digitalcommons.ursinus.edu](https://digitalcommons.ursinus.edu)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## USC Dana and David Dornsife College of Letters, Arts and Sciences
+ - [https://dornsife.usc.edu](https://dornsife.usc.edu)
+ - date published: 2023-10-25T19:04:25.118739+00:00
+ - user: None
+ - tags: []
+
+## USC Schaeffer
+ - [https://healthpolicy.usc.edu](https://healthpolicy.usc.edu)
+ - date published: 2023-12-15T11:10:14.582512+00:00
+ - user: None
+ - tags: []
+
+## Keck School of Medicine Home
+ - [https://keck2.usc.edu](https://keck2.usc.edu)
+ - date published: 2023-12-10T11:37:34.314465+00:00
+ - user: None
+ - tags: []
+
+## Keck School of Medicine of USC | Leaders in medical education, research and patient care
+ - [https://keck.usc.edu](https://keck.usc.edu)
+ - date published: 2023-10-25T19:04:31.455123+00:00
+ - user: None
+ - tags: []
+
+## Home - Research and Innovation
+ - [https://research.usc.edu](https://research.usc.edu)
+ - date published: 2023-10-25T19:04:35.017898+00:00
+ - user: None
+ - tags: []
+
+## USC Today Home Page
+ - [https://today.usc.edu](https://today.usc.edu)
+ - date published: 2023-12-12T13:04:47.507405+00:00
+ - user: None
+ - tags: []
+
+## USC Viterbi School of Engineering
+ - [https://viterbischool.usc.edu](https://viterbischool.usc.edu)
+ - date published: 2023-10-25T19:04:40.599249+00:00
+ - user: None
+ - tags: []
+
+## Health News Florida - Homepage | Health News Florida
+ - [https://health.wusf.usf.edu](https://health.wusf.usf.edu)
+ - date published: 2023-12-04T16:16:09.264309+00:00
+ - user: None
+ - tags: []
+
+## CONTENTdm
+ - [https://digitalarchives.usi.edu](https://digitalarchives.usi.edu)
+ - date published: 1972-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Aquila Digital Community
+ - [https://aquila.usm.edu](https://aquila.usm.edu)
+ - date published: 2023-10-25T19:04:42.854167+00:00
+ - user: None
+ - tags: []
+
+## Modern War Institute -
+ - [https://mwi.usma.edu](https://mwi.usma.edu)
+ - date published: 2023-10-25T19:04:45.262357+00:00
+ - user: None
+ - tags: []
+
+## DigitalCommons@USU | Utah State University Research
+ - [https://digitalcommons.usu.edu](https://digitalcommons.usu.edu)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ACES – The University of Texas at Arlington – Abacus Cloud and Edge Systems
+ - [https://aceslab.uta.edu](https://aceslab.uta.edu)
+ - date published: 2020-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Internships - College of Social and Behavioral Science - The University of Utah
+ - [https://internships.csbs.utah.edu](https://internships.csbs.utah.edu)
+ - date published: 2024-02-08T17:51:53.015372+00:00
+ - user: None
+ - tags: []
+
+## Kahlert School of Computing
+ - [https://users.cs.utah.edu](https://users.cs.utah.edu)
+ - date published: 2024-01-12T03:16:30.394085+00:00
+ - user: None
+ - tags: []
+
+## Kahlert School of Computing – School of Computing at The University of Utah
+ - [https://www.cs.utah.edu](https://www.cs.utah.edu)
+ - date published: 2023-10-25T19:04:49.477291+00:00
+ - user: None
+ - tags: []
+
+## Math - The University of Utah
+ - [https://www.math.utah.edu](https://www.math.utah.edu)
+ - date published: 2023-10-25T19:04:53.006400+00:00
+ - user: None
+ - tags: []
+
+## Kahlert School of Computing
+ - [https://www-old.cs.utah.edu](https://www-old.cs.utah.edu)
+ - date published: 2024-02-26T08:29:12.519678+00:00
+ - user: None
+ - tags: []
+
+## News Homepage
+ - [https://news.utdallas.edu](https://news.utdallas.edu)
+ - date published: 2023-12-10T12:18:35.847710+00:00
+ - user: None
+ - tags: []
+
+## Service - UTD Hosted Personal Webpages
+ - [https://personal.utdallas.edu](https://personal.utdallas.edu)
+ - date published: 2023-10-25T19:05:03.834184+00:00
+ - user: None
+ - tags: []
+
+## The University of Texas at El Paso - UTEP
+ - [https://www.utep.edu](https://www.utep.edu)
+ - date published: 2023-10-25T19:05:08.331077+00:00
+ - user: None
+ - tags: []
+
+## UT Cockrell School of Engineering
+ - [https://cockrell.utexas.edu](https://cockrell.utexas.edu)
+ - date published: 2023-10-25T19:05:12.024214+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://golem.ph.utexas.edu](https://golem.ph.utexas.edu)
+ - date published: 2023-10-25T19:05:13.177282+00:00
+ - user: None
+ - tags: []
+
 ## LBJ School | The University of Texas at Austin | LBJ School of Public Affairs
  - [https://lbj.utexas.edu](https://lbj.utexas.edu)
  - date published: 2023-11-19T15:39:17.659158+00:00
@@ -517,16 +703,16 @@
  - tags: []
 
 ## Linktree: Link everything you are
- - [https://linktr.ee](https://linktr.ee)
- - date published: 2023-10-31T16:18:01.056130+00:00
- - user: None
- - tags: ['social media reference', 'link service']
-
-## Linktree: Link everything you are
  - [http://linktr.ee](http://linktr.ee)
  - date published: 2024-02-29T14:58:08.693207+00:00
  - user: None
  - tags: []
+
+## Linktree: Link everything you are
+ - [https://linktr.ee](https://linktr.ee)
+ - date published: 2023-10-31T16:18:01.056130+00:00
+ - user: None
+ - tags: ['social media reference', 'link service']
 
 ## Mairedesign masinkudumise koolitus
  - [https://www.masinkudumine.ee](https://www.masinkudumine.ee)
@@ -583,14 +769,14 @@
  - tags: []
 
 ## Buttondown
- - [https://buttondown.email](https://buttondown.email)
- - date published: 2023-10-25T19:07:12.851726+00:00
+ - [http://buttondown.email](http://buttondown.email)
+ - date published: 2024-01-23T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Buttondown
- - [http://buttondown.email](http://buttondown.email)
- - date published: 2024-01-23T00:00:00+00:00
+ - [https://buttondown.email](https://buttondown.email)
+ - date published: 2023-10-25T19:07:12.851726+00:00
  - user: None
  - tags: []
 
@@ -1519,14 +1705,14 @@
  - tags: []
 
 ## NOYB enforces your right to privacy everyday
- - [https://noyb.eu](https://noyb.eu)
- - date published: 2023-10-25T11:24:53.335930+00:00
+ - [http://noyb.eu](http://noyb.eu)
+ - date published: 2024-02-26T15:02:23.923642+00:00
  - user: None
  - tags: []
 
 ## NOYB enforces your right to privacy everyday
- - [http://noyb.eu](http://noyb.eu)
- - date published: 2024-02-26T15:02:23.923642+00:00
+ - [https://noyb.eu](https://noyb.eu)
+ - date published: 2023-10-25T11:24:53.335930+00:00
  - user: None
  - tags: []
 
@@ -2005,13 +2191,13 @@
  - tags: []
 
 ## None
- - [http://kaaosradio.fi](http://kaaosradio.fi)
+ - [https://kaaosradio.fi](https://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://kaaosradio.fi](https://kaaosradio.fi)
+ - [http://kaaosradio.fi](http://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -2166,17 +2352,17 @@
  - user: rumpel
  - tags: ['events']
 
-## https://fabriq.fm
- - [https://fabriq.fm](https://fabriq.fm)
- - date published: 2024-01-17T04:43:29.675014+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [http://fabriq.fm](http://fabriq.fm)
  - date published: 2024-04-03T00:00:00+00:00
  - user: None
  - tags: []
+
+## https://fabriq.fm
+ - [https://fabriq.fm](https://fabriq.fm)
+ - date published: 2024-01-17T04:43:29.675014+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Fastmail | We Respect Your Privacy & Put You in Control
  - [https://fastmail.fm](https://fastmail.fm)
@@ -3303,14 +3489,14 @@
  - tags: []
 
 ## jade's www site
- - [https://jade.fyi](https://jade.fyi)
- - date published: 2024-01-09T18:46:42.354724+00:00
+ - [http://jade.fyi](http://jade.fyi)
+ - date published: 2024-01-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## jade's www site
- - [http://jade.fyi](http://jade.fyi)
- - date published: 2024-01-27T00:00:00+00:00
+ - [https://jade.fyi](https://jade.fyi)
+ - date published: 2024-01-09T18:46:42.354724+00:00
  - user: None
  - tags: []
 
@@ -3686,6 +3872,12 @@
  - user: None
  - tags: ['discord']
 
+## Attention Required! | Cloudflare
+ - [https://dyno.gg](https://dyno.gg)
+ - date published: 2024-04-11T13:18:30.395687+00:00
+ - user: None
+ - tags: ['discord bot']
+
 ## EIP Gaming - Video Game Walkthroughs, News, & Reviews
  - [https://eip.gg](https://eip.gg)
  - date published: 2023-12-13T16:15:56.959477+00:00
@@ -3902,15 +4094,15 @@
  - user: None
  - tags: []
 
-## The Keyword | Google Product and Technology News and Stories
- - [https://blog.google](https://blog.google)
- - date published: 2023-10-25T11:29:32.894232+00:00
- - user: None
- - tags: []
-
 ## The Keyword
  - [http://blog.google](http://blog.google)
  - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Keyword | Google Product and Technology News and Stories
+ - [https://blog.google](https://blog.google)
+ - date published: 2023-10-25T11:29:32.894232+00:00
  - user: None
  - tags: []
 
@@ -3921,16 +4113,16 @@
  - tags: []
 
 ## Google DeepMind
- - [https://deepmind.google](https://deepmind.google)
- - date published: 2023-11-14T16:38:56.541975+00:00
- - user: None
- - tags: ['artificial intelligence']
-
-## Google DeepMind
  - [http://deepmind.google](http://deepmind.google)
  - date published: 2024-02-21T00:00:00+00:00
  - user: None
  - tags: []
+
+## Google DeepMind
+ - [https://deepmind.google](https://deepmind.google)
+ - date published: 2023-11-14T16:38:56.541975+00:00
+ - user: None
+ - tags: ['artificial intelligence']
 
 ## Google Domains | Official Site – Google Domains
  - [https://domains.google](https://domains.google)
@@ -5811,198 +6003,6 @@
 ## linkhut
  - [https://ln.ht](https://ln.ht)
  - date published: 2024-01-10T05:07:53.720715+00:00
- - user: None
- - tags: []
-
-## Generative Voice AI News and Research by PlayHT
- - [https://news.play.ht](https://news.play.ht)
- - date published: 2023-10-25T19:28:24.482195+00:00
- - user: None
- - tags: []
-
-## git.sr.ht
- - [https://git.sr.ht](https://git.sr.ht)
- - date published: 2023-12-31T14:27:47.547611+00:00
- - user: None
- - tags: []
-
-## lists.sr.ht
- - [https://lists.sr.ht](https://lists.sr.ht)
- - date published: 2023-10-25T19:28:25.248561+00:00
- - user: None
- - tags: []
-
-## Statement regarding the ongoing SourceHut outage
- - [https://outage.sr.ht](https://outage.sr.ht)
- - date published: 2024-01-12T10:26:28.064983+00:00
- - user: None
- - tags: []
-
-## sourcehut hub
- - [https://sr.ht](https://sr.ht)
- - date published: 2023-10-25T19:28:26.035376+00:00
- - user: None
- - tags: []
-
-## about me
- - [https://thelig.ht](https://thelig.ht)
- - date published: 2023-10-25T09:21:57.537936+00:00
- - user: None
- - tags: ['personal']
-
-## The Flo Control Project (2000)
- - [web.archive.org/web/20000229222350/http://www.quantumpicture.com/flo_control/flo_control.htm](web.archive.org/web/20000229222350/http://www.quantumpicture.com/flo_control/flo_control.htm)
- - date published: 2024-01-10T20:25:37.056520+00:00
- - user: None
- - tags: []
-
-## 20Y
- - [https://20y.hu](https://20y.hu)
- - date published: 2024-02-22T13:05:20.229433+00:00
- - user: None
- - tags: []
-
-## amigaspirit.hu
- - [http://www.amigaspirit.hu](http://www.amigaspirit.hu)
- - date published: 2023-12-11T18:55:28.039900+00:00
- - user: None
- - tags: []
-
-## https://www.benyovszky.hu
- - [https://www.benyovszky.hu](https://www.benyovszky.hu)
- - date published: 2024-02-08T17:57:51.449601+00:00
- - user: None
- - tags: []
-
-## Numlock Holmes
- - [https://numlockholmes.blog.hu](https://numlockholmes.blog.hu)
- - date published: 2024-02-03T00:00:00+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Új autók | Személygépkocsik és haszongépjárművek | Szerviz | Citroën
- - [https://www.citroen.hu](https://www.citroen.hu)
- - date published: 2023-12-11T16:02:04.779070+00:00
- - user: None
- - tags: []
-
-## Random thoughts of Peter 'CzP' Czanik
- - [https://peter.czanik.hu](https://peter.czanik.hu)
- - date published: 2023-10-25T19:28:27.255307+00:00
- - user: None
- - tags: []
-
-## frank zhu
- - [https://frankz.hu](https://frankz.hu)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## HVG.hu
- - [https://hvg.hu](https://hvg.hu)
- - date published: 2024-04-07T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Home
- - [https://joshua.hu](https://joshua.hu)
- - date published: 2023-10-25T08:59:04.037423+00:00
- - user: None
- - tags: ['personal']
-
-## mndl.hu
- - [https://www.mndl.hu](https://www.mndl.hu)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://nepszava.hu
- - [https://nepszava.hu](https://nepszava.hu)
- - date published: 2023-12-18T10:02:11.561136+00:00
- - user: None
- - tags: []
-
-## telex
- - [https://telex.hu](https://telex.hu)
- - date published: 2023-11-22T17:38:44.501720+00:00
- - user: None
- - tags: []
-
-## Services
- - [https://voidcomputing.hu](https://voidcomputing.hu)
- - date published: 2024-03-13T17:39:46.172552+00:00
- - user: None
- - tags: []
-
-## goose.icu
- - [https://goose.icu](https://goose.icu)
- - date published: 2023-10-27T20:10:59.917422+00:00
- - user: None
- - tags: []
-
-## Snippets
- - [https://snippets.icu](https://snippets.icu)
- - date published: 2024-03-17T14:52:53.279122+00:00
- - user: None
- - tags: ['personal']
-
-## TheSauna
- - [https://the-sauna.icu](https://the-sauna.icu)
- - date published: 2023-12-19T10:05:35.430811+00:00
- - user: None
- - tags: ['personal']
-
-## Wayfarer - The MorphOS' WebKit Browser
- - [https://wayfarer.icu](https://wayfarer.icu)
- - date published: 2023-12-11T17:41:50.652090+00:00
- - user: None
- - tags: []
-
-## Jurnal Ilmu Komputer dan Informasi
- - [https://jiki.cs.ui.ac.id](https://jiki.cs.ui.ac.id)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Preloved - Jual-Beli Baju Vintage di Thrift Shop Online
- - [https://preloved.co.id](https://preloved.co.id)
- - date published: 2023-10-25T19:28:30.280862+00:00
- - user: None
- - tags: []
-
-## By Benny
- - [https://benny.id](https://benny.id)
- - date published: 2024-01-08T07:26:12.846132+00:00
- - user: None
- - tags: []
-
-## Home - Humaid Alqasimi
- - [https://huma.id](https://huma.id)
- - date published: 2024-04-05T07:46:33.942260+00:00
- - user: None
- - tags: ['personal']
-
-## Jakarta Globe - breaking news today | Your City, Your World, Your Indonesia
- - [https://jakartaglobe.id](https://jakartaglobe.id)
- - date published: 2024-03-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mainkit.ID
- - [https://www.mainkit.id](https://www.mainkit.id)
- - date published: 2023-12-29T03:11:59.838466+00:00
- - user: None
- - tags: ['personal']
-
-## Passwordless Authentication Powered by Passkeys | Passage by 1Password
- - [https://passage.id](https://passage.id)
- - date published: 2023-10-25T19:28:32.133386+00:00
- - user: None
- - tags: []
-
-## Retr0id
- - [https://retr0.id](https://retr0.id)
- - date published: 2023-10-25T19:28:32.529500+00:00
  - user: None
  - tags: []
 

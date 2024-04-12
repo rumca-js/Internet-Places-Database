@@ -1,3 +1,105 @@
+## Native Neil
+ - [https://nativeneil.com](https://nativeneil.com)
+ - date published: 2023-12-27T01:09:25.252474+00:00
+ - user: None
+ - tags: ['personal']
+
+## NativePHP | Baking Delicious Native Apps
+ - [https://nativephp.com](https://nativephp.com)
+ - date published: 2023-10-25T16:12:10.571354+00:00
+ - user: None
+ - tags: []
+
+## Legal News & Business Law News | The National Law Review
+ - [https://www.natlawreview.com](https://www.natlawreview.com)
+ - date published: 2023-11-01T08:42:43.779371+00:00
+ - user: None
+ - tags: []
+
+## Natural Health News - Holistic Medicine - Homeopathic Remedies - Food Freedom
+ - [https://www.naturalblaze.com](https://www.naturalblaze.com)
+ - date published: 2023-10-25T16:12:15.256265+00:00
+ - user: None
+ - tags: []
+
+## Natural Language Playlist
+ - [https://www.naturallanguageplaylist.com](https://www.naturallanguageplaylist.com)
+ - date published: 2023-10-25T16:12:17.879048+00:00
+ - user: None
+ - tags: []
+
+## NaturalNews.com
+ - [https://naturalnews.com](https://naturalnews.com)
+ - date published: 2023-10-25T16:12:29.777505+00:00
+ - user: None
+ - tags: []
+
+## Nature
+ - [https://nature.com](https://nature.com)
+ - date published: 2024-02-10T06:10:34.846203+00:00
+ - user: None
+ - tags: []
+
+## Nature
+ - [https://www.nature.com](https://www.nature.com)
+ - date published: 2023-10-25T10:10:29.099676+00:00
+ - user: None
+ - tags: ['news', 'science']
+
+## The Nature of Code
+ - [https://natureofcode.com](https://natureofcode.com)
+ - date published: 2023-10-25T16:12:31.246360+00:00
+ - user: None
+ - tags: []
+
+## Naughty Dog
+ - [https://www.naughtydog.com](https://www.naughtydog.com)
+ - date published: 2023-10-30T18:27:44.301408+00:00
+ - user: None
+ - tags: ['video game developer', 'company']
+
+## Naval News - Global Naval Defense News Coverage
+ - [https://www.navalnews.com](https://www.navalnews.com)
+ - date published: 2024-03-10T13:47:21.874089+00:00
+ - user: None
+ - tags: []
+
+## Naval Technology | Naval Defence News & Views Updated Daily
+ - [https://www.naval-technology.com](https://www.naval-technology.com)
+ - date published: 2023-10-25T16:12:37.001678+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://tag.navdmp.com](https://tag.navdmp.com)
+ - date published: 2024-01-09T02:44:42.639837+00:00
+ - user: None
+ - tags: []
+
+## 네이버 포스트
+ - [https://m.post.naver.com](https://m.post.naver.com)
+ - date published: 2023-10-25T16:12:48.876193+00:00
+ - user: None
+ - tags: []
+
+## DUSt3R: Geometric 3D Vision Made Easy
+ - [https://dust3r.europe.naverlabs.com](https://dust3r.europe.naverlabs.com)
+ - date published: 2024-03-03T14:33:19+00:00
+ - user: None
+ - tags: []
+
+## Navy Lookout
+ - [https://www.navylookout.com](https://www.navylookout.com)
+ - date published: 2023-12-16T12:57:58.995896+00:00
+ - user: None
+ - tags: []
+
+## Navy Times - Independent News For Sailors | Navy Times
+ - [https://www.navytimes.com](https://www.navytimes.com)
+ - date published: 2023-10-25T10:17:10.551232+00:00
+ - user: None
+ - tags: []
+
 ## Naz Avó's Pit | Tech, nomadic lifestyle, and financial independence
  - [https://nazavo.com](https://nazavo.com)
  - date published: 2023-12-14T06:55:11.795416+00:00
@@ -418,15 +520,15 @@
  - user: None
  - tags: []
 
-## Welcome to Network World.com
- - [https://www.networkworld.com](https://www.networkworld.com)
- - date published: 2023-10-25T16:16:06.342935+00:00
- - user: None
- - tags: []
-
 ## Network World
  - [http://www.networkworld.com](http://www.networkworld.com)
  - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Network World.com
+ - [https://www.networkworld.com](https://www.networkworld.com)
+ - date published: 2023-10-25T16:16:06.342935+00:00
  - user: None
  - tags: []
 
@@ -1926,14 +2028,14 @@
  - tags: []
 
 ## Notes & Photos
- - [https://www.notesandphotos.com](https://www.notesandphotos.com)
- - date published: 2023-12-20T21:30:54.650783+00:00
+ - [http://www.notesandphotos.com](http://www.notesandphotos.com)
+ - date published: 2024-04-03T12:46:22.033917+00:00
  - user: None
  - tags: ['personal']
 
 ## Notes & Photos
- - [http://www.notesandphotos.com](http://www.notesandphotos.com)
- - date published: 2024-04-03T12:46:22.033917+00:00
+ - [https://www.notesandphotos.com](https://www.notesandphotos.com)
+ - date published: 2023-12-20T21:30:54.650783+00:00
  - user: None
  - tags: ['personal']
 
@@ -2269,6 +2371,12 @@ Answering Machine Greetings!
  - [https://developer.nvidia.com](https://developer.nvidia.com)
  - date published: 2023-10-25T11:32:38.712146+00:00
  - user: None
+ - tags: []
+
+## NVIDIA Docs Hub
+ - [https://docs.nvidia.com](https://docs.nvidia.com)
+ - date published: 2024-04-11T04:25:00.684061+00:00
+ - user: rumpel
  - tags: []
 
 ## Home | NVIDIA Newsroom
@@ -2709,17 +2817,17 @@ Answering Machine Greetings!
  - user: None
  - tags: ['self-host']
 
-## Oh No Robot: Comics search
- - [https://www.ohnorobot.com](https://www.ohnorobot.com)
- - date published: 2024-04-04T11:21:04+00:00
- - user: None
- - tags: ['comics search engine', 'personal sites source']
-
 ## Oh No Robot: comics search
  - [http://www.ohnorobot.com](http://www.ohnorobot.com)
  - date published: 2024-04-07T14:25:15.412335+00:00
  - user: None
  - tags: []
+
+## Oh No Robot: Comics search
+ - [https://www.ohnorobot.com](https://www.ohnorobot.com)
+ - date published: 2024-04-04T11:21:04+00:00
+ - user: None
+ - tags: ['comics search engine', 'personal sites source']
 
 ## Crude Oil Prices Today | OilPrice.com
  - [https://oilprice.com](https://oilprice.com)
@@ -2800,16 +2908,16 @@ Answering Machine Greetings!
  - tags: []
 
 ## Old'aVista
- - [https://oldavista.com](https://oldavista.com)
- - date published: 1988-01-01T00:00:00+00:00
- - user: None
- - tags: ['retro internet']
-
-## Old'aVista
  - [http://oldavista.com](http://oldavista.com)
  - date published: 1988-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Old'aVista
+ - [https://oldavista.com](https://oldavista.com)
+ - date published: 1988-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['retro internet']
 
 ## Old Bridge Music index page
  - [https://www.oldbridgemusic.com](https://www.oldbridgemusic.com)
@@ -3519,6 +3627,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Homepage - Optometry Advisor
+ - [https://www.optometryadvisor.com](https://www.optometryadvisor.com)
+ - date published: 2024-04-11T09:10:14.315990+00:00
+ - user: None
+ - tags: []
+
 ## Opusmodus: Common Lisp Music Composition System
  - [https://opusmodus.com](https://opusmodus.com)
  - date published: 2023-11-08T10:57:11+00:00
@@ -3546,6 +3660,12 @@ Answering Machine Greetings!
 ## Orange Juice Liberation Front | Uli’s blog on programming, game development, pop culture and other boring things.
  - [https://orangejuiceliberationfront.com](https://orangejuiceliberationfront.com)
  - date published: 2023-10-25T16:27:20.212216+00:00
+ - user: None
+ - tags: []
+
+## OranLooney.com
+ - [https://www.oranlooney.com](https://www.oranlooney.com)
+ - date published: 2024-04-08T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3682,14 +3802,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## The OS/2 Museum
- - [https://www.os2museum.com](https://www.os2museum.com)
- - date published: 2023-10-25T16:27:40.415903+00:00
+ - [http://www.os2museum.com](http://www.os2museum.com)
+ - date published: 2024-02-25T18:55:49.882025+00:00
  - user: None
  - tags: []
 
 ## The OS/2 Museum
- - [http://www.os2museum.com](http://www.os2museum.com)
- - date published: 2024-02-25T18:55:49.882025+00:00
+ - [https://www.os2museum.com](https://www.os2museum.com)
+ - date published: 2023-10-25T16:27:40.415903+00:00
  - user: None
  - tags: []
 
@@ -3917,14 +4037,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## Outside Magazine
- - [https://www.outsideonline.com](https://www.outsideonline.com)
- - date published: 2023-10-25T16:28:28.955211+00:00
+ - [http://www.outsideonline.com](http://www.outsideonline.com)
+ - date published: 2024-03-23T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Outside Magazine
- - [http://www.outsideonline.com](http://www.outsideonline.com)
- - date published: 2024-03-23T00:00:00+00:00
+ - [https://www.outsideonline.com](https://www.outsideonline.com)
+ - date published: 2023-10-25T16:28:28.955211+00:00
  - user: None
  - tags: []
 
@@ -4109,14 +4229,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## Home - Oz Rhodes
- - [https://www.ozrhodes.com](https://www.ozrhodes.com)
- - date published: 2023-12-20T00:59:19.143915+00:00
+ - [http://www.ozrhodes.com](http://www.ozrhodes.com)
+ - date published: 2024-04-03T12:44:50.762069+00:00
  - user: None
  - tags: ['personal']
 
 ## Home - Oz Rhodes
- - [http://www.ozrhodes.com](http://www.ozrhodes.com)
- - date published: 2024-04-03T12:44:50.762069+00:00
+ - [https://www.ozrhodes.com](https://www.ozrhodes.com)
+ - date published: 2023-12-20T00:59:19.143915+00:00
  - user: None
  - tags: ['personal']
 
@@ -4799,26 +4919,26 @@ Answering Machine Greetings!
  - tags: ['3d artist', 'personal']
 
 ## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
- - date published: 2023-12-21T08:24:19.074982+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
  - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
  - date published: 2023-12-23T07:30:12.092026+00:00
  - user: None
  - tags: ['personal']
 
-## Patrick Yandell
- - [https://patrickyandell.com](https://patrickyandell.com)
- - date published: 2023-11-29T14:24:18.301040+00:00
+## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
+ - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
+ - date published: 2023-12-21T08:24:19.074982+00:00
  - user: None
  - tags: ['personal']
 
 ## Patrick Yandell
  - [http://patrickyandell.com](http://patrickyandell.com)
  - date published: 2024-04-03T06:29:48.238438+00:00
+ - user: None
+ - tags: ['personal']
+
+## Patrick Yandell
+ - [https://patrickyandell.com](https://patrickyandell.com)
+ - date published: 2023-11-29T14:24:18.301040+00:00
  - user: None
  - tags: ['personal']
 
@@ -4839,6 +4959,12 @@ Answering Machine Greetings!
  - date published: 2024-01-09T01:38:20.790691+00:00
  - user: None
  - tags: []
+
+## Paul Bupe, Jr
+ - [https://paulbupejr.com](https://paulbupejr.com)
+ - date published: 2024-04-11T16:35:27.808569+00:00
+ - user: None
+ - tags: ['personal']
 
 ## https://tools.paulcalvano.com
  - [https://tools.paulcalvano.com](https://tools.paulcalvano.com)
@@ -5101,6 +5227,12 @@ Answering Machine Greetings!
 ## The Starman's Realm
  - [https://thestarman.pcministry.com](https://thestarman.pcministry.com)
  - date published: 2023-10-25T16:31:49.593366+00:00
+ - user: None
+ - tags: []
+
+## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://pcpartpicker.com](https://pcpartpicker.com)
+ - date published: 2024-04-11T00:30:08.486980+00:00
  - user: None
  - tags: []
 
@@ -5729,13 +5861,13 @@ Answering Machine Greetings!
  - tags: []
 
 ## Paul's Dev Notes
- - [http://www.pfrazee.com](http://www.pfrazee.com)
+ - [https://www.pfrazee.com](https://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Paul's Dev Notes
- - [https://www.pfrazee.com](https://www.pfrazee.com)
+ - [http://www.pfrazee.com](http://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -5869,141 +6001,6 @@ Answering Machine Greetings!
 ## Home
  - [https://www.philonomist.com](https://www.philonomist.com)
  - date published: 2024-01-29T16:57:47.405435+00:00
- - user: None
- - tags: []
-
-## Reversing entropy, locally
- - [https://philoserf.com](https://philoserf.com)
- - date published: 2023-12-03T01:43:34.806253+00:00
- - user: None
- - tags: ['personal']
-
-## Philosophy Bro
- - [https://www.philosophybro.com](https://www.philosophybro.com)
- - date published: 2023-10-25T16:34:04.305344+00:00
- - user: None
- - tags: []
-
-## Philstar.com | Latest Philippine news and multimedia
- - [https://www.philstar.com](https://www.philstar.com)
- - date published: 2024-02-24T10:01:50.682731+00:00
- - user: None
- - tags: []
-
-## Phil Stephens
- - [https://philstephens.com](https://philstephens.com)
- - date published: 2024-01-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Risk & Cybersecurity
- - [https://www.philvenables.com](https://www.philvenables.com)
- - date published: 2023-10-25T16:34:06.256000+00:00
- - user: None
- - tags: []
-
-## Phil Zimmermann's Home Page
- - [https://www.philzimmermann.com](https://www.philzimmermann.com)
- - date published: 2023-10-25T08:47:32.129006+00:00
- - user: None
- - tags: ['personal']
-
-## https://phind.com
- - [https://phind.com](https://phind.com)
- - date published: 2023-10-25T16:34:07.856025+00:00
- - user: None
- - tags: []
-
-## https://www.phind.com
- - [https://www.phind.com](https://www.phind.com)
- - date published: 2023-10-25T16:34:08.146703+00:00
- - user: None
- - tags: []
-
-## Phoenix New Times | The Leading Independent News Source in Phoenix, Arizona
- - [https://www.phoenixnewtimes.com](https://www.phoenixnewtimes.com)
- - date published: 2023-11-23T22:14:37.035277+00:00
- - user: None
- - tags: []
-
-## Phoenix and Elixir for Ruby on Rails developers
- · Phoenix on Rails
- - [https://phoenixonrails.com](https://phoenixonrails.com)
- - date published: 2023-10-25T16:34:09.532839+00:00
- - user: None
- - tags: []
-
-## Phoenix Systems - Home
- - [https://phoenix-rtos.com](https://phoenix-rtos.com)
- - date published: 2024-01-10T00:00:00+00:00
- - user: rumpel
- - tags: ['real time operating system', 'rtos']
-
-## PhoneArena | Phone News, Reviews, Deals and Specs
- - [https://www.phonearena.com](https://www.phonearena.com)
- - date published: 2023-10-25T10:14:53.382529+00:00
- - user: None
- - tags: []
-
-## Phone Scoop
- - [https://www.phonescoop.com](https://www.phonescoop.com)
- - date published: 2023-10-25T16:34:12.198914+00:00
- - user: None
- - tags: []
-
-## Linux Hardware Reviews & Performance Benchmarks, Open-Source News - Phoronix
- - [https://www.phoronix.com](https://www.phoronix.com)
- - date published: 2023-10-25T09:34:52.687128+00:00
- - user: None
- - tags: ['linux', 'open source', 'tech news']
-
-## Linux Hardware Reviews & Performance Benchmarks, Open-Source News - Phoronix
- - [http://www.phoronix.com](http://www.phoronix.com)
- - date published: 2024-02-26T09:49:49.232286+00:00
- - user: None
- - tags: []
-
-## Photopea | Online Photo Editor
- - [https://www.photopea.com](https://www.photopea.com)
- - date published: 2023-10-25T16:34:13.576672+00:00
- - user: None
- - tags: []
-
-## The Photographer's Newsletter
-    
-         - Information & Inspiration For Photogs
- - [https://www.photoroo.com](https://www.photoroo.com)
- - date published: 2023-10-25T16:34:15.007380+00:00
- - user: None
- - tags: []
-
-## AI Photo Editing: Remove Background & Create Product Pics | PhotoRoom
- - [https://www.photoroom.com](https://www.photoroom.com)
- - date published: 2023-10-25T16:34:17.644739+00:00
- - user: None
- - tags: []
-
-## PhotoSync – Photo Transfer and Backup App | For iOS & Android - PhotoSync
- - [https://www.photosync-app.com](https://www.photosync-app.com)
- - date published: 2024-04-01T20:56:48+00:00
- - user: rumpel
- - tags: ['nas storage sync']
-
-## phpBB • Free and Open Source Forum Software
- - [https://phpbb.com](https://phpbb.com)
- - date published: 2023-12-13T16:04:04.243437+00:00
- - user: None
- - tags: ['open source', 'self-host', 'forum software']
-
-## phpBB • Free and Open Source Forum Software
- - [https://www.phpbb.com](https://www.phpbb.com)
- - date published: 2023-10-25T08:30:34.828095+00:00
- - user: None
- - tags: []
-
-## phpied.com
- - [https://www.phpied.com](https://www.phpied.com)
- - date published: 2024-01-15T05:45:17.624527+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,195 @@
+## Generative Voice AI News and Research by PlayHT
+ - [https://news.play.ht](https://news.play.ht)
+ - date published: 2023-10-25T19:28:24.482195+00:00
+ - user: None
+ - tags: []
+
+## git.sr.ht
+ - [https://git.sr.ht](https://git.sr.ht)
+ - date published: 2023-12-31T14:27:47.547611+00:00
+ - user: None
+ - tags: []
+
+## lists.sr.ht
+ - [https://lists.sr.ht](https://lists.sr.ht)
+ - date published: 2023-10-25T19:28:25.248561+00:00
+ - user: None
+ - tags: []
+
+## Statement regarding the ongoing SourceHut outage
+ - [https://outage.sr.ht](https://outage.sr.ht)
+ - date published: 2024-01-12T10:26:28.064983+00:00
+ - user: None
+ - tags: []
+
+## sourcehut hub
+ - [https://sr.ht](https://sr.ht)
+ - date published: 2023-10-25T19:28:26.035376+00:00
+ - user: None
+ - tags: []
+
+## about me
+ - [https://thelig.ht](https://thelig.ht)
+ - date published: 2023-10-25T09:21:57.537936+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Flo Control Project (2000)
+ - [web.archive.org/web/20000229222350/http://www.quantumpicture.com/flo_control/flo_control.htm](web.archive.org/web/20000229222350/http://www.quantumpicture.com/flo_control/flo_control.htm)
+ - date published: 2024-01-10T20:25:37.056520+00:00
+ - user: None
+ - tags: []
+
+## 20Y
+ - [https://20y.hu](https://20y.hu)
+ - date published: 2024-02-22T13:05:20.229433+00:00
+ - user: None
+ - tags: []
+
+## amigaspirit.hu
+ - [http://www.amigaspirit.hu](http://www.amigaspirit.hu)
+ - date published: 2023-12-11T18:55:28.039900+00:00
+ - user: None
+ - tags: []
+
+## https://www.benyovszky.hu
+ - [https://www.benyovszky.hu](https://www.benyovszky.hu)
+ - date published: 2024-02-08T17:57:51.449601+00:00
+ - user: None
+ - tags: []
+
+## Numlock Holmes
+ - [https://numlockholmes.blog.hu](https://numlockholmes.blog.hu)
+ - date published: 2024-02-03T00:00:00+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Új autók | Személygépkocsik és haszongépjárművek | Szerviz | Citroën
+ - [https://www.citroen.hu](https://www.citroen.hu)
+ - date published: 2023-12-11T16:02:04.779070+00:00
+ - user: None
+ - tags: []
+
+## Random thoughts of Peter 'CzP' Czanik
+ - [https://peter.czanik.hu](https://peter.czanik.hu)
+ - date published: 2023-10-25T19:28:27.255307+00:00
+ - user: None
+ - tags: []
+
+## frank zhu
+ - [https://frankz.hu](https://frankz.hu)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## HVG.hu
+ - [https://hvg.hu](https://hvg.hu)
+ - date published: 2024-04-07T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
+## Home
+ - [https://joshua.hu](https://joshua.hu)
+ - date published: 2023-10-25T08:59:04.037423+00:00
+ - user: None
+ - tags: ['personal']
+
+## mndl.hu
+ - [https://www.mndl.hu](https://www.mndl.hu)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://nepszava.hu
+ - [https://nepszava.hu](https://nepszava.hu)
+ - date published: 2023-12-18T10:02:11.561136+00:00
+ - user: None
+ - tags: []
+
+## telex
+ - [https://telex.hu](https://telex.hu)
+ - date published: 2023-11-22T17:38:44.501720+00:00
+ - user: None
+ - tags: []
+
+## Services
+ - [https://voidcomputing.hu](https://voidcomputing.hu)
+ - date published: 2024-03-13T17:39:46.172552+00:00
+ - user: None
+ - tags: []
+
+## goose.icu
+ - [https://goose.icu](https://goose.icu)
+ - date published: 2023-10-27T20:10:59.917422+00:00
+ - user: None
+ - tags: []
+
+## Snippets
+ - [https://snippets.icu](https://snippets.icu)
+ - date published: 2024-03-17T14:52:53.279122+00:00
+ - user: None
+ - tags: ['personal']
+
+## TheSauna
+ - [https://the-sauna.icu](https://the-sauna.icu)
+ - date published: 2023-12-19T10:05:35.430811+00:00
+ - user: None
+ - tags: ['personal']
+
+## Wayfarer - The MorphOS' WebKit Browser
+ - [https://wayfarer.icu](https://wayfarer.icu)
+ - date published: 2023-12-11T17:41:50.652090+00:00
+ - user: None
+ - tags: []
+
+## Jurnal Ilmu Komputer dan Informasi
+ - [https://jiki.cs.ui.ac.id](https://jiki.cs.ui.ac.id)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Preloved - Jual-Beli Baju Vintage di Thrift Shop Online
+ - [https://preloved.co.id](https://preloved.co.id)
+ - date published: 2023-10-25T19:28:30.280862+00:00
+ - user: None
+ - tags: []
+
+## By Benny
+ - [https://benny.id](https://benny.id)
+ - date published: 2024-01-08T07:26:12.846132+00:00
+ - user: None
+ - tags: []
+
+## Home - Humaid Alqasimi
+ - [https://huma.id](https://huma.id)
+ - date published: 2024-04-05T07:46:33.942260+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jakarta Globe - breaking news today | Your City, Your World, Your Indonesia
+ - [https://jakartaglobe.id](https://jakartaglobe.id)
+ - date published: 2024-03-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mainkit.ID
+ - [https://www.mainkit.id](https://www.mainkit.id)
+ - date published: 2023-12-29T03:11:59.838466+00:00
+ - user: None
+ - tags: ['personal']
+
+## Passwordless Authentication Powered by Passkeys | Passage by 1Password
+ - [https://passage.id](https://passage.id)
+ - date published: 2023-10-25T19:28:32.133386+00:00
+ - user: None
+ - tags: []
+
+## Retr0id
+ - [https://retr0.id](https://retr0.id)
+ - date published: 2023-10-25T19:28:32.529500+00:00
+ - user: None
+ - tags: []
+
 ## Home | xavd.id
  - [https://xavd.id](https://xavd.id)
  - date published: 2023-10-25T19:28:33.367988+00:00
@@ -1110,14 +1302,14 @@
  - tags: []
 
 ## Erthalion
- - [https://erthalion.info](https://erthalion.info)
- - date published: 2023-10-25T19:33:09.948190+00:00
+ - [http://erthalion.info](http://erthalion.info)
+ - date published: 2024-02-25T15:21:46.039163+00:00
  - user: None
  - tags: []
 
 ## Erthalion
- - [http://erthalion.info](http://erthalion.info)
- - date published: 2024-02-25T15:21:46.039163+00:00
+ - [https://erthalion.info](https://erthalion.info)
+ - date published: 2023-10-25T19:33:09.948190+00:00
  - user: None
  - tags: []
 
@@ -1552,6 +1744,12 @@
  - date published: 2023-12-19T08:58:26.415650+00:00
  - user: None
  - tags: []
+
+## SMPlayer - Free media player for your PC
+ - [https://www.smplayer.info](https://www.smplayer.info)
+ - date published: 2024-04-11T19:04:42+00:00
+ - user: rumpel
+ - tags: ['video player']
 
 ## SteamDB
  - [https://steamdb.info](https://steamdb.info)
@@ -2028,14 +2226,14 @@
  - tags: []
 
 ## American Express Technology
- - [https://americanexpress.io](https://americanexpress.io)
- - date published: 2023-10-25T19:37:33.148951+00:00
+ - [http://americanexpress.io](http://americanexpress.io)
+ - date published: 2024-02-25T14:44:25.925967+00:00
  - user: None
  - tags: []
 
 ## American Express Technology
- - [http://americanexpress.io](http://americanexpress.io)
- - date published: 2024-02-25T14:44:25.925967+00:00
+ - [https://americanexpress.io](https://americanexpress.io)
+ - date published: 2023-10-25T19:37:33.148951+00:00
  - user: None
  - tags: []
 
@@ -2260,6 +2458,12 @@
  - date published: 2024-04-08T19:27:08.496507+00:00
  - user: None
  - tags: ['open source', 'database engine', 'self-host']
+
+## Baserow
+ - [https://community.baserow.io](https://community.baserow.io)
+ - date published: 2024-04-11T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## https://assets.bbhub.io
  - [https://assets.bbhub.io](https://assets.bbhub.io)
@@ -2602,6 +2806,12 @@
  - date published: 2023-12-27T19:10:26+00:00
  - user: None
  - tags: []
+
+## Blog - Koin - Cloud-Inject.io
+ - [https://blog.cloud-inject.io](https://blog.cloud-inject.io)
+ - date published: 2024-04-11T04:50:06.073991+00:00
+ - user: None
+ - tags: ['kotlin framework']
 
 ## CloudNativePG - PostgreSQL Operator for Kubernetes
  - [https://cloudnative-pg.io](https://cloudnative-pg.io)
@@ -3028,6 +3238,12 @@
  - date published: 2023-10-25T19:41:35.635759+00:00
  - user: None
  - tags: ['dead internet', 'personal', 'blog']
+
+## Domain Portfolio Management - Domain.io
+ - [https://domain.io](https://domain.io)
+ - date published: 2024-04-11T22:50:43.181451+00:00
+ - user: None
+ - tags: []
 
 ## Welcome – dominikbraun.io
  - [https://dominikbraun.io](https://dominikbraun.io)
@@ -5192,16 +5408,16 @@ through Composable Diffusion
  - tags: []
 
 ## Andrej Karpathy blog
- - [http://karpathy.github.io](http://karpathy.github.io)
- - date published: 2024-04-09T14:16:33.676719+00:00
- - user: None
- - tags: ['personal']
-
-## Andrej Karpathy blog
  - [https://karpathy.github.io](https://karpathy.github.io)
  - date published: 2023-10-25T19:47:36.949565+00:00
  - user: None
  - tags: []
+
+## Andrej Karpathy blog
+ - [http://karpathy.github.io](http://karpathy.github.io)
+ - date published: 2024-04-09T14:16:33.676719+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Konstantinos Chousos
  - [https://kchousos.github.io](https://kchousos.github.io)
@@ -5782,222 +5998,6 @@ through Composable Diffusion
 ## Mnpn
  - [https://mnpn.github.io](https://mnpn.github.io)
  - date published: 2023-10-25T19:49:53.566169+00:00
- - user: None
- - tags: []
-
-## Learning bimanual mobile manipulation with low-cost whole-body teleoperation
- - [https://mobile-aloha.github.io](https://mobile-aloha.github.io)
- - date published: 2024-01-05T03:42:01+00:00
- - user: None
- - tags: []
-
-## Mobius Labs
- - [https://mobiusml.github.io](https://mobiusml.github.io)
- - date published: 2024-03-29T17:02:24.753439+00:00
- - user: None
- - tags: []
-
-## https://mode80.github.io
- - [https://mode80.github.io](https://mode80.github.io)
- - date published: 2024-01-09T03:32:52.514211+00:00
- - user: None
- - tags: []
-
-## Moonthoughts
- - [https://moonthought.github.io](https://moonthought.github.io)
- - date published: 2023-10-25T08:49:24.474212+00:00
- - user: None
- - tags: ['personal']
-
-## Moral Foundations Test
- - [https://moralfoundations.github.io](https://moralfoundations.github.io)
- - date published: 2017-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Morten Rieger Hannemose
- - [https://mortenhannemose.github.io](https://mortenhannemose.github.io)
- - date published: 2023-10-25T19:49:56.748812+00:00
- - user: None
- - tags: []
-
-## Jingxiang Sun (孙景翔)'s Homepage
- - [https://mrtornado24.github.io](https://mrtornado24.github.io)
- - date published: 2023-10-27T15:10:51.824415+00:00
- - user: None
- - tags: []
-
-## | Shivaprakash Muruganandham
- - [https://mshiv.github.io](https://mshiv.github.io)
- - date published: 2023-12-27T23:54:42.096390+00:00
- - user: None
- - tags: ['personal']
-
-## Mutt0-ds Notes
- - [https://mutt0-ds.github.io](https://mutt0-ds.github.io)
- - date published: 2023-10-25T19:49:59.363681+00:00
- - user: None
- - tags: []
-
-## Manuel Vigo
- - [https://mvigo.github.io](https://mvigo.github.io)
- - date published: 2024-01-27T17:54:27.622192+00:00
- - user: None
- - tags: []
-
-## Welcome
- - [https://mystist.github.io](https://mystist.github.io)
- - date published: 2023-12-02T13:41:19.182393+00:00
- - user: None
- - tags: []
-
-## Welcome
- - [http://mystist.github.io](http://mystist.github.io)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Blog · Me think, why waste time say lot word, when few word do trick
- - [https://nashby.github.io](https://nashby.github.io)
- - date published: 2024-01-16T16:06:37.893524+00:00
- - user: None
- - tags: []
-
-## Nathan Rooy
- - [https://nathanrooy.github.io](https://nathanrooy.github.io)
- - date published: 2023-10-25T19:50:08.197904+00:00
- - user: None
- - tags: []
-
-## None
- - [https://nbittich.github.io](https://nbittich.github.io)
- - date published: 2024-02-10T16:00:05.776267+00:00
- - user: None
- - tags: []
-
-## The Neat Language — Neat  documentation
- - [https://neat-lang.github.io](https://neat-lang.github.io)
- - date published: 2023-10-25T19:50:11.219633+00:00
- - user: None
- - tags: []
-
-## Nebuchadnezzar | Practically-exploitable Cryptographic Vulnerabilities in Matrix
- - [https://nebuchadnezzar-megolm.github.io](https://nebuchadnezzar-megolm.github.io)
- - date published: 2023-10-25T19:50:12.879107+00:00
- - user: None
- - tags: []
-
-## 🏡 Neil's Place
- - [https://neilbostian.github.io](https://neilbostian.github.io)
- - date published: 2023-10-25T19:50:14.329695+00:00
- - user: None
- - tags: []
-
-## n-eq · Nabil Elqatib's blog
- - [https://n-eq.github.io](https://n-eq.github.io)
- - date published: 2023-10-25T19:50:01.556221+00:00
- - user: None
- - tags: []
-
-## Netflix Open Source Software Center
- - [https://netflix.github.io](https://netflix.github.io)
- - date published: 2024-01-08T16:57:34.320975+00:00
- - user: None
- - tags: []
-
-## nfultz.github.io
- - [https://nfultz.github.io](https://nfultz.github.io)
- - date published: 2023-11-29T14:24:53.953723+00:00
- - user: None
- - tags: ['personal']
-
-## Eight million pixels and counting
- - [https://nical.github.io](https://nical.github.io)
- - date published: 2023-10-25T19:50:15.945525+00:00
- - user: None
- - tags: []
-
-## Nick Desaulniers
- - [https://nickdesaulniers.github.io](https://nickdesaulniers.github.io)
- - date published: 2023-10-25T19:50:17.713377+00:00
- - user: None
- - tags: []
-
-## Something Something Programming | Mostly thoughts about programming. Maybe other stuff too.
- - [https://nickdrozd.github.io](https://nickdrozd.github.io)
- - date published: 2023-10-25T19:50:19.845694+00:00
- - user: None
- - tags: []
-
-## Dyskryminacja mężczyzn i „dyskryminacja” kobiet w Polsce
- - [https://nieczekam107lat.github.io](https://nieczekam107lat.github.io)
- - date published: 2023-10-25T19:50:21.360497+00:00
- - user: None
- - tags: []
-
-## https://niespodd.github.io
- - [https://niespodd.github.io](https://niespodd.github.io)
- - date published: 2024-01-09T03:32:53.013438+00:00
- - user: None
- - tags: []
-
-## nigeltao.github.io
- - [https://nigeltao.github.io](https://nigeltao.github.io)
- - date published: 2023-10-25T19:50:29.342774+00:00
- - user: None
- - tags: []
-
-## Nilesh Suriyarachchi
- - [https://nileshsuri.github.io](https://nileshsuri.github.io)
- - date published: 2024-02-08T16:32:21.764550+00:00
- - user: None
- - tags: []
-
-## niplav
- - [https://niplav.github.io](https://niplav.github.io)
- - date published: 2024-01-01T17:21:29.307277+00:00
- - user: None
- - tags: []
-
-## Bits and Paradoxes
- - [https://nish1001.github.io](https://nish1001.github.io)
- - date published: 2023-12-11T23:18:51.580288+00:00
- - user: None
- - tags: ['personal']
-
-## Nicholas Nethercote | Be kind and be useful.
- - [https://nnethercote.github.io](https://nnethercote.github.io)
- - date published: 2023-10-25T19:50:30.882872+00:00
- - user: None
- - tags: []
-
-## Noise2Music
- - [https://noise2music.github.io](https://noise2music.github.io)
- - date published: 2023-10-25T19:50:32.288101+00:00
- - user: None
- - tags: []
-
-## All posts | Note's on software
- - [https://note89.github.io](https://note89.github.io)
- - date published: 2023-10-25T19:50:35.276107+00:00
- - user: None
- - tags: []
-
-## notgull – The world's \#1 source of notgull
- - [https://notgull.github.io](https://notgull.github.io)
- - date published: 2023-10-25T19:50:36.988312+00:00
- - user: None
- - tags: []
-
-## https://not-just-memorization.github.io
- - [https://not-just-memorization.github.io](https://not-just-memorization.github.io)
- - date published: 2023-11-29T17:19:34.609423+00:00
- - user: None
- - tags: []
-
-## not-matthias
- - [https://not-matthias.github.io](https://not-matthias.github.io)
- - date published: 2023-10-25T19:50:33.780319+00:00
  - user: None
  - tags: []
 
