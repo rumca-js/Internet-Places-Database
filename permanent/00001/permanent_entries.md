@@ -29,14 +29,14 @@
  - tags: []
 
 ## Svarichevsky Mikhail
- - [http://3.14.by](http://3.14.by)
- - date published: 2024-02-26T13:20:29.028020+00:00
+ - [https://3.14.by](https://3.14.by)
+ - date published: 2024-01-16T06:21:34.423774+00:00
  - user: None
  - tags: []
 
 ## Svarichevsky Mikhail
- - [https://3.14.by](https://3.14.by)
- - date published: 2024-01-16T06:21:34.423774+00:00
+ - [http://3.14.by](http://3.14.by)
+ - date published: 2024-02-26T13:20:29.028020+00:00
  - user: None
  - tags: []
 
@@ -1013,14 +1013,14 @@
  - tags: ['personal']
 
 ## Scott Redmond
- - [https://www.scottredmond.ca](https://www.scottredmond.ca)
- - date published: 2024-01-23T03:27:52.039443+00:00
+ - [http://www.scottredmond.ca](http://www.scottredmond.ca)
+ - date published: 2024-04-03T12:49:31.889702+00:00
  - user: None
  - tags: ['personal']
 
 ## Scott Redmond
- - [http://www.scottredmond.ca](http://www.scottredmond.ca)
- - date published: 2024-04-03T12:49:31.889702+00:00
+ - [https://www.scottredmond.ca](https://www.scottredmond.ca)
+ - date published: 2024-01-23T03:27:52.039443+00:00
  - user: None
  - tags: ['personal']
 
@@ -2553,6 +2553,12 @@
 ## Graal Stack
  - [https://www.graal.cloud](https://www.graal.cloud)
  - date published: 2023-10-25T12:15:24.653632+00:00
+ - user: None
+ - tags: []
+
+## Karim Shehadeh's Personal Site
+ - [https://karim.cloud](https://karim.cloud)
+ - date published: 2024-03-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5995,12 +6001,6 @@
 ## Adobe Landing Pages
  - [https://pages.adobe.com](https://pages.adobe.com)
  - date published: 2023-10-25T12:33:18.873394+00:00
- - user: None
- - tags: []
-
-## Adobe Podcast | AI audio recording and editing, all on the web
- - [https://podcast.adobe.com](https://podcast.adobe.com)
- - date published: 2023-10-25T12:33:19.421794+00:00
  - user: None
  - tags: []
 

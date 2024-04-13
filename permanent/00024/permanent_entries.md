@@ -1,3 +1,213 @@
+## CoWasm: Collaborative WebAssembly for Servers and Browsers
+ - [https://cowasm.org](https://cowasm.org)
+ - date published: 2023-10-25T21:10:37.899251+00:00
+ - user: None
+ - tags: []
+
+## Coyote Cartography
+ - [https://micro.coyotetracks.org](https://micro.coyotetracks.org)
+ - date published: 2023-10-25T21:10:44.276462+00:00
+ - user: None
+ - tags: []
+
+## CozoDB v0.7
+ - [https://docs.cozodb.org](https://docs.cozodb.org)
+ - date published: 2023-10-25T21:10:46.284600+00:00
+ - user: None
+ - tags: []
+
+## CPDP Computers, Privacy and Data Protection conference
+ - [https://www.cpdpconferences.org](https://www.cpdpconferences.org)
+ - date published: 2024-02-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Clear Physics
+ - [https://www.cphysics.org](https://www.cphysics.org)
+ - date published: 2023-10-25T21:10:48.724655+00:00
+ - user: None
+ - tags: []
+
+## Committee to Protect Journalists – Defending Journalists Worldwide. - Committee to Protect Journalists
+ - [https://cpj.org](https://cpj.org)
+ - date published: 2023-10-25T21:10:54.852143+00:00
+ - user: None
+ - tags: []
+
+## CppCon | The C++ Conference
+ - [https://cppcon.org](https://cppcon.org)
+ - date published: 2023-10-25T21:10:58.474003+00:00
+ - user: None
+ - tags: []
+
+## Colorado Public Radio - Colorado News You Trust
+ - [https://www.cpr.org](https://www.cpr.org)
+ - date published: 2023-12-02T17:30:47.028570+00:00
+ - user: None
+ - tags: []
+
+## First Transcontinental Railroad - Central Pacific Railroad Photographic History Museum
+ - [https://cprr.org](https://cprr.org)
+ - date published: 2024-01-09T03:38:43.521507+00:00
+ - user: None
+ - tags: []
+
+## Lists.pglaf.org redirect
+ - [https://lists.cpunks.org](https://lists.cpunks.org)
+ - date published: 2023-10-25T21:10:59.366823+00:00
+ - user: None
+ - tags: []
+
+## cr0 blog
+ - [https://blog.cr0.org](https://blog.cr0.org)
+ - date published: 2023-10-25T09:23:55.156396+00:00
+ - user: None
+ - tags: ['personal']
+
+## CrabLang
+ - [https://crablang.org](https://crablang.org)
+ - date published: 2023-10-25T21:11:04.727468+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Creative Commons
+ - [https://creativecommons.org](https://creativecommons.org)
+ - date published: 2023-12-11T16:22:52.219620+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Creative Commons
+ - [http://creativecommons.org](http://creativecommons.org)
+ - date published: 2024-03-21T07:44:18.617797+00:00
+ - user: None
+ - tags: []
+
+## Creative Commons license buttons
+ - [https://i.creativecommons.org](https://i.creativecommons.org)
+ - date published: 2024-01-09T03:38:46.932760+00:00
+ - user: None
+ - tags: []
+
+## https://www.creditslips.org
+ - [https://www.creditslips.org](https://www.creditslips.org)
+ - date published: 2024-01-02T06:40:10.678724+00:00
+ - user: None
+ - tags: []
+
+## Home - Crime Museum
+ - [https://www.crimemuseum.org](https://www.crimemuseum.org)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Crooked Timber — Out of the crooked timber of humanity, no straight thing was ever made
+ - [https://crookedtimber.org](https://crookedtimber.org)
+ - date published: 2023-10-25T21:11:11.664607+00:00
+ - user: None
+ - tags: []
+
+## Home 2022
+ - [https://www.crosslabs.org](https://www.crosslabs.org)
+ - date published: 2023-10-25T21:11:13.410986+00:00
+ - user: None
+ - tags: []
+
+## Cryptomator - Free Cloud Encryption for Dropbox & Co
+ - [https://cryptomator.org](https://cryptomator.org)
+ - date published: 2024-02-23T08:47:16.229646+00:00
+ - user: None
+ - tags: []
+
+## Cryptome
+ - [https://cryptome.org](https://cryptome.org)
+ - date published: 2023-10-25T21:11:22.912914+00:00
+ - user: None
+ - tags: []
+
+## CryptPad Blog
+ - [https://blog.cryptpad.org](https://blog.cryptpad.org)
+ - date published: 2024-02-16T16:03:09.352093+00:00
+ - user: None
+ - tags: []
+
+## CryptPad.org
+ - [https://cryptpad.org](https://cryptpad.org)
+ - date published: 2024-04-08T19:27:39.829729+00:00
+ - user: None
+ - tags: ['self-host', 'office suite']
+
+## The Crystal Programming Language
+ - [https://crystal-lang.org](https://crystal-lang.org)
+ - date published: 2023-10-25T21:11:24.443668+00:00
+ - user: None
+ - tags: []
+
+## CSA-IOT - Connectivity Standards Alliance
+ - [https://csa-iot.org](https://csa-iot.org)
+ - date published: 2023-10-25T17:24:26.444239+00:00
+ - user: None
+ - tags: ['standards', 'zigbee']
+
+## https://beyondparallel.csis.org
+ - [https://beyondparallel.csis.org](https://beyondparallel.csis.org)
+ - date published: 2023-10-25T21:11:34.001427+00:00
+ - user: None
+ - tags: []
+
+## CSIS | Center for Strategic and International Studies
+ - [https://www.csis.org](https://www.csis.org)
+ - date published: 2023-10-25T21:11:40.174391+00:00
+ - user: None
+ - tags: []
+
+## C-SPAN.org | National Politics | History | Nonfiction Books
+ - [https://www.c-span.org](https://www.c-span.org)
+ - date published: 2023-11-14T19:59:38.588118+00:00
+ - user: None
+ - tags: []
+
+## Center for Science in the Public Interest
+ - [https://www.cspinet.org](https://www.cspinet.org)
+ - date published: 2024-03-04T19:41:04.092757+00:00
+ - user: None
+ - tags: []
+
+## CT State Police | CSP News | United States
+ - [https://www.cspnews.org](https://www.cspnews.org)
+ - date published: 2023-11-08T06:18:08.421428+00:00
+ - user: None
+ - tags: []
+
+## CSS Working Group Wiki    [CSS Working Group Wiki]
+ - [https://wiki.csswg.org](https://wiki.csswg.org)
+ - date published: 2023-11-21T15:09:54.779186+00:00
+ - user: None
+ - tags: []
+
+## CTAN: Comprehensive TeX Archive Network
+ - [https://ctan.org](https://ctan.org)
+ - date published: 2023-10-25T21:11:42.198733+00:00
+ - user: None
+ - tags: []
+
+## CTAN: Comprehensive TeX Archive Network
+ - [https://www.ctan.org](https://www.ctan.org)
+ - date published: 2024-02-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Regional Chapters
+ - [https://global.ctbuh.org](https://global.ctbuh.org)
+ - date published: 2024-01-24T20:55:23.515561+00:00
+ - user: None
+ - tags: []
+
+## CTFtime.org / All about CTF (Capture The Flag)
+ - [https://ctftime.org](https://ctftime.org)
+ - date published: 2023-12-06T11:59:51+00:00
+ - user: rumpel
+ - tags: ['hackers', 'cybersecurity', 'dark design']
+
 ## CTIF - International Association of Fire Services for Safer Citizens through Skilled Firefighters
  - [https://ctif.org](https://ctif.org)
  - date published: 2023-10-25T21:11:51.392667+00:00
@@ -53,16 +263,16 @@
  - tags: []
 
 ## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
- - [http://cvsgui.org](http://cvsgui.org)
- - date published: 2024-03-05T00:16:31.622060+00:00
- - user: None
- - tags: []
-
-## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
  - [https://cvsgui.org](https://cvsgui.org)
  - date published: 2024-03-04T12:06:02+00:00
  - user: rumpel
  - tags: ['control version system', 'program', 'vcs', 'open source']
+
+## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
+ - [http://cvsgui.org](http://cvsgui.org)
+ - date published: 2024-03-05T00:16:31.622060+00:00
+ - user: None
+ - tags: []
 
 ## California Water Environment Association | Champions of Wastewater
  - [https://www.cwea.org](https://www.cwea.org)
@@ -774,14 +984,14 @@
  - tags: []
 
 ## Resolve a DOI Name
- - [http://dx.doi.org](http://dx.doi.org)
- - date published: 2024-02-27T01:04:33.113692+00:00
+ - [https://dx.doi.org](https://dx.doi.org)
+ - date published: 2023-12-03T01:17:58.110575+00:00
  - user: None
  - tags: []
 
 ## Resolve a DOI Name
- - [https://dx.doi.org](https://dx.doi.org)
- - date published: 2023-12-03T01:17:58.110575+00:00
+ - [http://dx.doi.org](http://dx.doi.org)
+ - date published: 2024-02-27T01:04:33.113692+00:00
  - user: None
  - tags: []
 
@@ -1517,15 +1727,15 @@
  - user: None
  - tags: []
 
-## Thib's Home
- - [https://ergaster.org](https://ergaster.org)
- - date published: 2023-10-25T21:18:23.232043+00:00
- - user: None
- - tags: []
-
 ## Ergaster
  - [http://ergaster.org](http://ergaster.org)
  - date published: 2024-02-26T14:07:11.647181+00:00
+ - user: None
+ - tags: []
+
+## Thib's Home
+ - [https://ergaster.org](https://ergaster.org)
+ - date published: 2023-10-25T21:18:23.232043+00:00
  - user: None
  - tags: []
 
@@ -3754,16 +3964,16 @@
  - tags: []
 
 ## Fanis Hatzidakis
- - [http://fanis.hatzidakis.org](http://fanis.hatzidakis.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Fanis Hatzidakis
  - [https://fanis.hatzidakis.org](https://fanis.hatzidakis.org)
  - date published: 2024-01-04T19:56:20.383113+00:00
  - user: None
  - tags: ['personal']
+
+## Fanis Hatzidakis
+ - [http://fanis.hatzidakis.org](http://fanis.hatzidakis.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Haven: Host your own private blog
  - [https://havenweb.org](https://havenweb.org)
@@ -3830,6 +4040,12 @@
  - date published: 2023-10-25T21:28:27.272418+00:00
  - user: None
  - tags: []
+
+## An open source initiative to share and compare heat pump performance data
+ - [https://heatpumpmonitor.org](https://heatpumpmonitor.org)
+ - date published: 2024-04-12T08:53:16+00:00
+ - user: None
+ - tags: ['heat pumps']
 
 ## Home - The Hechinger Report
  - [https://hechingerreport.org](https://hechingerreport.org)
@@ -4480,16 +4696,16 @@
  - tags: []
 
 ## Draw Freely | Inkscape
- - [https://www.inkscape.org](https://www.inkscape.org)
- - date published: 2023-12-12T09:13:16+00:00
- - user: None
- - tags: ['vector graphics']
-
-## Draw Freely | Inkscape
  - [http://www.inkscape.org](http://www.inkscape.org)
  - date published: 2024-02-26T09:27:07.298333+00:00
  - user: None
  - tags: []
+
+## Draw Freely | Inkscape
+ - [https://www.inkscape.org](https://www.inkscape.org)
+ - date published: 2023-12-12T09:13:16+00:00
+ - user: None
+ - tags: ['vector graphics']
 
 ## Ink/Stitch: An open-source machine embroidery design platform based on Inkscape
  - [https://inkstitch.org](https://inkstitch.org)
@@ -5057,14 +5273,14 @@ Welcome
  - tags: ['personal']
 
 ## Home
- - [https://jpc2.org](https://jpc2.org)
- - date published: 2024-04-03T12:49:04.549276+00:00
+ - [http://jpc2.org](http://jpc2.org)
+ - date published: 2023-12-24T08:16:31.320638+00:00
  - user: None
  - tags: ['personal']
 
 ## Home
- - [http://jpc2.org](http://jpc2.org)
- - date published: 2023-12-24T08:16:31.320638+00:00
+ - [https://jpc2.org](https://jpc2.org)
+ - date published: 2024-04-03T12:49:04.549276+00:00
  - user: None
  - tags: ['personal']
 
@@ -5527,16 +5743,16 @@ Hosted by Panix.com.
  - tags: []
 
 ## KEXP 90.3 FM - Where the Music Matters
- - [http://kexp.org](http://kexp.org)
- - date published: 2024-02-22T16:55:15.353701+00:00
- - user: None
- - tags: []
-
-## KEXP 90.3 FM - Where the Music Matters
  - [https://kexp.org](https://kexp.org)
  - date published: 2024-01-22T12:40:00+00:00
  - user: rumpel
  - tags: ['radio', 'music']
+
+## KEXP 90.3 FM - Where the Music Matters
+ - [http://kexp.org](http://kexp.org)
+ - date published: 2024-02-22T16:55:15.353701+00:00
+ - user: None
+ - tags: []
 
 ## Keycloak
  - [https://www.keycloak.org](https://www.keycloak.org)
@@ -5787,222 +6003,6 @@ Hosted by Panix.com.
 ## KUOW - KUOW Public Radio
  - [https://kuow.org](https://kuow.org)
  - date published: 2023-10-25T21:37:47.724694+00:00
- - user: None
- - tags: []
-
-## KUOW Public Radio
- - [https://www.kuow.org](https://www.kuow.org)
- - date published: 2023-11-15T11:19:14.665369+00:00
- - user: None
- - tags: []
-
-## kuro5hin.org
- - [http://www.kuro5hin.org](http://www.kuro5hin.org)
- - date published: 2024-04-09T20:06:28.075384+00:00
- - user: None
- - tags: []
-
-## KUT Homepage | KUT Radio, Austin's NPR Station
- - [https://www.kut.org](https://www.kut.org)
- - date published: 2023-10-25T21:37:51.868361+00:00
- - user: None
- - tags: []
-
-## Remix.Kwed.Org | The Def Guide to C64 MP3 remixes
- - [https://remix.kwed.org](https://remix.kwed.org)
- - date published: 2024-02-15T22:14:00.417683+00:00
- - user: None
- - tags: ['demoscene']
-
-## Home - Kentucky Center for Economic Policy
- - [https://kypolicy.org](https://kypolicy.org)
- - date published: 2024-02-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## X-Files
- - [https://doc.lagout.org](https://doc.lagout.org)
- - date published: 2023-10-25T21:37:53.135655+00:00
- - user: None
- - tags: []
-
-## Ashton Wiersdorf | Lambda Land
- - [https://lambdaland.org](https://lambdaland.org)
- - date published: 2023-10-25T21:38:00.130658+00:00
- - user: None
- - tags: []
-
-## Lambda the Ultimate | Programming Languages Weblog
- - [http://lambda-the-ultimate.org](http://lambda-the-ultimate.org)
- - date published: 2023-10-25T21:37:59.339898+00:00
- - user: None
- - tags: []
-
-## Land Camp
- - [https://www.landcamp.org](https://www.landcamp.org)
- - date published: 2023-10-25T21:38:02.232316+00:00
- - user: None
- - tags: []
-
-## Landon Fuller
- - [https://landonf.org](https://landonf.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Robert Lansing Institute
- - [https://lansinginstitute.org](https://lansinginstitute.org)
- - date published: 2024-01-05T17:32:05.468082+00:00
- - user: None
- - tags: []
-
-## | Lapham’s Quarterly
- - [https://www.laphamsquarterly.org](https://www.laphamsquarterly.org)
- - date published: 2023-10-25T10:45:33.434280+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://lapublicpress.org](https://lapublicpress.org)
- - date published: 2024-02-24T18:21:10.687426+00:00
- - user: None
- - tags: []
-
-## Brian Foote
- - [http://www.laputan.org](http://www.laputan.org)
- - date published: 2023-10-25T08:54:53.702441+00:00
- - user: None
- - tags: ['personal']
-
-## Los Angeles Review of Books
- - [https://lareviewofbooks.org](https://lareviewofbooks.org)
- - date published: 2023-10-25T21:38:04.444325+00:00
- - user: None
- - tags: []
-
-## Home | Mysite
- - [https://www.larschristensen.org](https://www.larschristensen.org)
- - date published: 2023-12-24T02:31:31.930385+00:00
- - user: None
- - tags: ['personal']
-
-## Last Chance to Fix eIDAS (Mozilla)
- - [https://last-chance-for-eidas.org](https://last-chance-for-eidas.org)
- - date published: 2023-11-02T05:57:42+00:00
- - user: None
- - tags: ['eidas', 'privacy', 'surveillance', 'mozilla']
-
-## LaTeX - A document preparation system
- - [https://www.latex-project.org](https://www.latex-project.org)
- - date published: 2023-11-27T03:27:19.003390+00:00
- - user: None
- - tags: ['documentation software']
-
-## Mastodon
- - [https://mastodon.laurenweinstein.org](https://mastodon.laurenweinstein.org)
- - date published: 2023-10-25T21:38:06.486264+00:00
- - user: None
- - tags: []
-
-## https://www.lawfaremedia.org
- - [https://www.lawfaremedia.org](https://www.lawfaremedia.org)
- - date published: 2023-10-30T04:52:46.101056+00:00
- - user: None
- - tags: []
-
-## Law & Liberty, part of the Liberty Fund Network
- - [https://lawliberty.org](https://lawliberty.org)
- - date published: 2023-10-25T21:38:09.051770+00:00
- - user: None
- - tags: []
-
-## Lazarus Homepage
- - [https://www.lazarus-ide.org](https://www.lazarus-ide.org)
- - date published: 2023-12-02T15:50:53.126305+00:00
- - user: None
- - tags: []
-
-## 🚀 Getting Started | LazyVim
- - [https://www.lazyvim.org](https://www.lazyvim.org)
- - date published: 2023-10-25T08:35:28.988360+00:00
- - user: None
- - tags: []
-
-## LEADx: Scale and Sustain Leadership Development
- - [https://leadx.org](https://leadx.org)
- - date published: 2024-01-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Learn About Electronics - Home Page
- - [https://learnabout-electronics.org](https://learnabout-electronics.org)
- - date published: 2023-10-25T21:38:15.033617+00:00
- - user: None
- - tags: []
-
-## BCHS software stack: BSD, C, httpd, SQLite
- - [https://learnbchs.org](https://learnbchs.org)
- - date published: 2023-12-28T20:47:24+00:00
- - user: None
- - tags: []
-
-## Learn Datalog Today!
- - [https://www.learndatalogtoday.org](https://www.learndatalogtoday.org)
- - date published: 2013-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## LegendMUD
- - [https://www.legendmud.org](https://www.legendmud.org)
- - date published: 2024-03-27T20:51:05.843611+00:00
- - user: None
- - tags: ['mud game']
-
-## LENFEST INSTITUTE -
- - [https://www.lenfestinstitute.org](https://www.lenfestinstitute.org)
- - date published: 2023-10-25T21:38:16.663488+00:00
- - user: None
- - tags: []
-
-## Let Grow - When Adults Step Back, Kids Step Up.
- - [https://letgrow.org](https://letgrow.org)
- - date published: 2023-10-25T21:38:20.621745+00:00
- - user: None
- - tags: []
-
-## Let's Encrypt Community Support
- - [https://community.letsencrypt.org](https://community.letsencrypt.org)
- - date published: 2023-10-25T21:38:30.513053+00:00
- - user: None
- - tags: []
-
-## Let's Encrypt
- - [https://letsencrypt.org](https://letsencrypt.org)
- - date published: 2023-10-25T08:33:56.588669+00:00
- - user: None
- - tags: []
-
-## Lets-Plot: open-source plotting library for statistical data
- - [https://lets-plot.org](https://lets-plot.org)
- - date published: 2023-10-25T21:38:26.790873+00:00
- - user: None
- - tags: []
-
-## Lev Lazinskiy
- - [https://levlaz.org](https://levlaz.org)
- - date published: 2024-01-20T17:36:08.936473+00:00
- - user: None
- - tags: []
-
-## Home - CS Lewis Society of California
- - [https://www.lewissociety.org](https://www.lewissociety.org)
- - date published: 2023-12-19T16:13:45.261148+00:00
- - user: None
- - tags: []
-
-## https://lfortran.org
- - [https://lfortran.org](https://lfortran.org)
- - date published: 2023-10-25T21:38:31.696970+00:00
  - user: None
  - tags: []
 

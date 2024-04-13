@@ -1,3 +1,225 @@
+## docs.ruby-lang.org
+ - [https://docs.ruby-lang.org](https://docs.ruby-lang.org)
+ - date published: 2023-10-25T22:04:45.654923+00:00
+ - user: None
+ - tags: []
+
+## Ruby Programming Language
+ - [https://www.ruby-lang.org](https://www.ruby-lang.org)
+ - date published: 2023-10-25T22:04:46.800323+00:00
+ - user: None
+ - tags: ['programming language']
+
+## Ruby on Rails
+ - [https://rubyonrails.org](https://rubyonrails.org)
+ - date published: 2023-10-25T08:31:28.729010+00:00
+ - user: None
+ - tags: ['ruby on rails', 'programming framework', 'ruby']
+
+## Rundeck Runbook Automation
+ - [http://rundeck.org](http://rundeck.org)
+ - date published: 2024-04-08T19:26:25.617209+00:00
+ - user: None
+ - tags: []
+
+## Rockefeller University Press
+ - [https://rupress.org](https://rupress.org)
+ - date published: 2024-03-31T18:42:33.134423+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.rusi.org](https://www.rusi.org)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## RSF
+ - [https://www.russellsage.org](https://www.russellsage.org)
+ - date published: 2023-10-25T22:04:52.238484+00:00
+ - user: None
+ - tags: []
+
+## cs4414: Operating Systems
+ - [https://rust-class.org](https://rust-class.org)
+ - date published: 2023-11-08T19:28:02.140877+00:00
+ - user: None
+ - tags: []
+
+## The Rust Programming Language Blog
+ - [https://blog.rust-lang.org](https://blog.rust-lang.org)
+ - date published: 2023-10-25T22:04:57.445467+00:00
+ - user: None
+ - tags: []
+
+## Rust Magazine
+ - [https://rustmagazine.org](https://rustmagazine.org)
+ - date published: 2023-10-25T22:05:06.434628+00:00
+ - user: None
+ - tags: []
+
+## About – Alex Rutar
+ - [https://rutar.org](https://rutar.org)
+ - date published: 2023-10-25T22:05:07.183562+00:00
+ - user: None
+ - tags: []
+
+## The Rutherford Institute :: Home |
+ - [https://www.rutherford.org](https://www.rutherford.org)
+ - date published: 2023-10-25T22:05:08.700126+00:00
+ - user: None
+ - tags: []
+
+## RVspace Forum
+ - [https://forum.rvspace.org](https://forum.rvspace.org)
+ - date published: 2023-10-25T22:05:11.836037+00:00
+ - user: None
+ - tags: []
+
+## Ryujinx - Blog
+ - [https://blog.ryujinx.org](https://blog.ryujinx.org)
+ - date published: 2023-10-25T22:05:13.302746+00:00
+ - user: None
+ - tags: []
+
+## Ryujinx - Nintendo Switch Emulator
+ - [https://ryujinx.org](https://ryujinx.org)
+ - date published: 2023-10-25T08:36:23.207142+00:00
+ - user: None
+ - tags: []
+
+## Sabrina Jewson
+ - [https://sabrinajewson.org](https://sabrinajewson.org)
+ - date published: 2023-10-25T22:05:13.957543+00:00
+ - user: None
+ - tags: []
+
+## The Mission of SAE International is to advance mobility knowledge and solutions
+ - [https://www.sae.org](https://www.sae.org)
+ - date published: 2023-10-25T22:05:23.612089+00:00
+ - user: None
+ - tags: []
+
+## Safecast Open Radiation and Air Quality Map
+ - [https://map.safecast.org](https://map.safecast.org)
+ - date published: 2024-03-23T23:46:37+00:00
+ - user: None
+ - tags: []
+
+## Saint11
+ - [http://saint11.org](http://saint11.org)
+ - date published: 2023-07-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## San Antonio Report - Nonprofit journalism for an informed community
+ - [https://sanantonioreport.org](https://sanantonioreport.org)
+ - date published: 2023-10-25T22:05:42.245865+00:00
+ - user: None
+ - tags: []
+
+## Sandstorm
+ - [https://sandstorm.org](https://sandstorm.org)
+ - date published: 2023-12-05T17:06:48.511885+00:00
+ - user: None
+ - tags: []
+
+## SAPIENS – Anthropology Magazine
+ - [https://www.sapiens.org](https://www.sapiens.org)
+ - date published: 2023-10-25T22:05:54.397882+00:00
+ - user: None
+ - tags: []
+
+## SAT Competitions
+ - [http://www.satcompetition.org](http://www.satcompetition.org)
+ - date published: 2023-10-25T22:06:06.919026+00:00
+ - user: None
+ - tags: []
+
+## TELEPHONE
+ - [https://telephone.satellitecollective.org](https://telephone.satellitecollective.org)
+ - date published: 2014-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Sat Saheb
+ - [https://www.satsaheb.org](https://www.satsaheb.org)
+ - date published: 2023-11-19T16:19:23.198165+00:00
+ - user: None
+ - tags: []
+
+## saurabhs.org
+ - [https://saurabhs.org](https://saurabhs.org)
+ - date published: 2023-10-25T22:06:08.304854+00:00
+ - user: None
+ - tags: []
+
+## Charity Organization for Children
+ - [https://www.savethechildren.org](https://www.savethechildren.org)
+ - date published: 2023-10-30T12:42:11.141123+00:00
+ - user: None
+ - tags: []
+
+## About - Steel Bank Common Lisp
+ - [https://sbcl.org](https://sbcl.org)
+ - date published: 2023-10-25T22:06:10.407198+00:00
+ - user: None
+ - tags: []
+
+## About - Steel Bank Common Lisp
+ - [https://www.sbcl.org](https://www.sbcl.org)
+ - date published: 2023-10-25T22:06:12.372280+00:00
+ - user: None
+ - tags: []
+
+## Master Agen SBOBET – Judi Bola | Live Casino Online Asia | Cara Daftar Sbobet Wap
+ - [https://sbobetaa.org](https://sbobetaa.org)
+ - date published: 2024-02-08T22:07:38.048356+00:00
+ - user: None
+ - tags: []
+
+## https://sbp-brims.org
+ - [https://sbp-brims.org](https://sbp-brims.org)
+ - date published: 2024-01-09T03:42:26.106566+00:00
+ - user: None
+ - tags: []
+
+## Steve Williams
+ - [https://sbw.org](https://sbw.org)
+ - date published: 2023-12-24T18:30:06.033340+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Scala Programming Language
+ - [https://www.scala-lang.org](https://www.scala-lang.org)
+ - date published: 2023-10-25T22:06:15.979197+00:00
+ - user: None
+ - tags: []
+
+## SC Judicial Branch
+ - [https://www.sccourts.org](https://www.sccourts.org)
+ - date published: 2024-02-08T16:36:30.861319+00:00
+ - user: None
+ - tags: []
+
+## SCENE.ORG WILL BE BACK SOON
+ - [https://www.scene.org](https://www.scene.org)
+ - date published: 2023-10-27T14:45:56.505689+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Schema.org - Schema.org
+ - [https://schema.org](https://schema.org)
+ - date published: 2023-12-11T16:10:24.484319+00:00
+ - user: None
+ - tags: ['standards']
+
+## Walidator znaczników schema.org
+ - [https://validator.schema.org](https://validator.schema.org)
+ - date published: 2024-01-19T11:30:11+00:00
+ - user: rumpel
+ - tags: ['standards', 'online validation', 'online tool']
+
 ## Schema.org - Schema.org
  - [https://www.schema.org](https://www.schema.org)
  - date published: 2023-12-13T16:05:38.117286+00:00
@@ -803,14 +1025,14 @@
  - tags: []
 
 ## Sri Lanka Guardian
- - [http://slguardian.org](http://slguardian.org)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://slguardian.org](https://slguardian.org)
+ - date published: 2024-01-10T21:40:19.047783+00:00
  - user: None
  - tags: []
 
 ## Sri Lanka Guardian
- - [https://slguardian.org](https://slguardian.org)
- - date published: 2024-01-10T21:40:19.047783+00:00
+ - [http://slguardian.org](http://slguardian.org)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -954,6 +1176,12 @@
  - user: None
  - tags: []
 
+## Space Telescope Live
+ - [https://spacetelescopelive.org](https://spacetelescopelive.org)
+ - date published: 2024-04-12T09:05:01.741923+00:00
+ - user: None
+ - tags: ['astronomy', 'hubble', '.cosmos', 'spacer', 'james webb']
+
 ## Church of the Flying Spaghetti Monster – The world's fastest growing religion
  - [https://www.spaghettimonster.org](https://www.spaghettimonster.org)
  - date published: 2023-10-25T11:33:27.690487+00:00
@@ -1021,13 +1249,19 @@
  - tags: ['python library']
 
 ## SQLite Home Page
+ - [http://sqlite.org](http://sqlite.org)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SQLite Home Page
  - [https://sqlite.org](https://sqlite.org)
  - date published: 2023-10-25T08:34:11.917438+00:00
  - user: None
  - tags: []
 
 ## SQLite Home Page
- - [http://sqlite.org](http://sqlite.org)
+ - [http://www.sqlite.org](http://www.sqlite.org)
  - date published: 2024-01-30T00:00:00+00:00
  - user: None
  - tags: []
@@ -1037,12 +1271,6 @@
  - date published: 2023-10-25T08:30:44.493063+00:00
  - user: None
  - tags: ['open source']
-
-## SQLite Home Page
- - [http://www.sqlite.org](http://www.sqlite.org)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
 
 ## sqlpkg - SQLite Package Manager and Registry
  - [https://sqlpkg.org](https://sqlpkg.org)
@@ -1465,14 +1693,14 @@
  - tags: ['taxes']
 
 ## tbray.org
- - [http://www.tbray.org](http://www.tbray.org)
- - date published: 2024-02-26T15:02:42.572365+00:00
+ - [https://www.tbray.org](https://www.tbray.org)
+ - date published: 2023-10-25T22:12:33.470881+00:00
  - user: None
  - tags: []
 
 ## tbray.org
- - [https://www.tbray.org](https://www.tbray.org)
- - date published: 2023-10-25T22:12:33.470881+00:00
+ - [http://www.tbray.org](http://www.tbray.org)
+ - date published: 2024-02-26T15:02:42.572365+00:00
  - user: None
  - tags: []
 
@@ -1843,14 +2071,14 @@
  - tags: []
 
 ## The Motte
- - [https://www.themotte.org](https://www.themotte.org)
- - date published: 2024-01-15T10:02:38.428422+00:00
+ - [http://www.themotte.org](http://www.themotte.org)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Motte
- - [http://www.themotte.org](http://www.themotte.org)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://www.themotte.org](https://www.themotte.org)
+ - date published: 2024-01-15T10:02:38.428422+00:00
  - user: None
  - tags: []
 
@@ -3038,14 +3266,14 @@
  - tags: []
 
 ## The Viridian Design Movement
- - [https://www.viridiandesign.org](https://www.viridiandesign.org)
- - date published: 2023-10-25T22:17:40.101109+00:00
+ - [http://www.viridiandesign.org](http://www.viridiandesign.org)
+ - date published: 2024-02-26T14:25:06.301684+00:00
  - user: None
  - tags: []
 
 ## The Viridian Design Movement
- - [http://www.viridiandesign.org](http://www.viridiandesign.org)
- - date published: 2024-02-26T14:25:06.301684+00:00
+ - [https://www.viridiandesign.org](https://www.viridiandesign.org)
+ - date published: 2023-10-25T22:17:40.101109+00:00
  - user: None
  - tags: []
 
@@ -4286,14 +4514,14 @@
  - tags: []
 
 ## zephoria
- - [https://www.zephoria.org](https://www.zephoria.org)
- - date published: 2024-01-29T00:09:01.945068+00:00
+ - [http://www.zephoria.org](http://www.zephoria.org)
+ - date published: 2024-01-23T19:05:01.547444+00:00
  - user: None
  - tags: []
 
 ## zephoria
- - [http://www.zephoria.org](http://www.zephoria.org)
- - date published: 2024-01-23T19:05:01.547444+00:00
+ - [https://www.zephoria.org](https://www.zephoria.org)
+ - date published: 2024-01-29T00:09:01.945068+00:00
  - user: None
  - tags: []
 
@@ -4447,6 +4675,12 @@ Zig Programming Language
  - date published: 2023-12-11T16:24:10.764815+00:00
  - user: None
  - tags: []
+
+## contrapunctus' homepage
+ - [https://contrapunctus.codeberg.page](https://contrapunctus.codeberg.page)
+ - date published: 2024-04-12T09:05:02.606655+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Daudix
  - [https://daudix.codeberg.page](https://daudix.codeberg.page)
@@ -5768,238 +6002,4 @@ is forbidden
  - date published: 2023-10-25T11:16:07.459983+00:00
  - user: None
  - tags: ['electronic parts', 'raspberry']
-
-## Main Home - L.U.C.
- - [https://eluce.pl](https://eluce.pl)
- - date published: 2023-10-30T13:37:08.582551+00:00
- - user: None
- - tags: ['music band']
-
-## cyber_Folks - logowanie do panelu administratora
- - [https://www.embeddeddev.pl](https://www.embeddeddev.pl)
- - date published: 2020-01-01T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Enklawa Network - Gry RPG, gry MMORPG, gry strategiczne, fantastyka, konwenty.
- - [https://enklawanetwork.pl](https://enklawanetwork.pl)
- - date published: 2023-10-27T13:53:39.500995+00:00
- - user: None
- - tags: ['game news', 'fantasy']
-
-## epoznan.pl - pierwszy portal Poznania
- - [https://epoznan.pl](https://epoznan.pl)
- - date published: 2023-10-25T10:14:12.175401+00:00
- - user: None
- - tags: []
-
-## Ubezpieczenia indywidualne i dla firm – ERGO Hestia
- - [https://www.ergohestia.pl](https://www.ergohestia.pl)
- - date published: 2024-03-04T15:37:00+00:00
- - user: rumpel
- - tags: ['insurance']
-
-## Radio ESKA: Hity na czasie! - ESKA.pl
- - [https://www.eska.pl](https://www.eska.pl)
- - date published: 2023-10-25T10:30:54.777063+00:00
- - user: None
- - tags: []
-
-## Estrada i Studio - serwis dla muzyków i producentów
- - [https://estradaistudio.pl](https://estradaistudio.pl)
- - date published: 2023-10-28T20:08:29.693117+00:00
- - user: None
- - tags: ['audio news']
-
-## EURACTIV.pl
- - [https://www.euractiv.pl](https://www.euractiv.pl)
- - date published: 2023-12-02T02:06:18.332350+00:00
- - user: None
- - tags: []
-
-## Eventim Bilety na Koncerty, Bilety na Imprezy
- - [https://www.eventim.pl](https://www.eventim.pl)
- - date published: 2023-10-25T15:02:30.121028+00:00
- - user: None
- - tags: []
-
-## Amiga aktualności - AmigaOS, Amiga Classic, AmigaOne, programy, gry, porady, forum
- - [https://exec.pl](https://exec.pl)
- - date published: 2024-01-09T03:44:09.912391+00:00
- - user: None
- - tags: []
-
-## Amiga aktualności - AmigaOS, Amiga Classic, AmigaOne, programy, gry, porady, forum
- - [https://www.exec.pl](https://www.exec.pl)
- - date published: 2023-10-30T10:10:51.905899+00:00
- - user: None
- - tags: ['amiga']
-
-## stare gry do pobrania - stare gry to nasza pasja - eXtragry.pl
- - [https://www.extragry.pl](https://www.extragry.pl)
- - date published: 2024-01-09T03:44:11.335073+00:00
- - user: None
- - tags: []
-
-## Fakt.pl – Wiadomości, Wydarzenia, Informacje
- - [https://www.fakt.pl](https://www.fakt.pl)
- - date published: 2024-03-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Fallout Corner
- - [https://fallout-corner.pl](https://fallout-corner.pl)
- - date published: 2024-04-07T18:48:18+00:00
- - user: rumpel
- - tags: ['fallout game']
-
-## Farmer.pl - portal rolniczy: hodowla, uprawa, maszyny, dopłaty
- - [https://www.farmer.pl](https://www.farmer.pl)
- - date published: 2024-02-23T23:28:29.312339+00:00
- - user: None
- - tags: []
-
-## Filmweb - filmy takie jak Ty!
- - [https://www.filmweb.pl](https://www.filmweb.pl)
- - date published: 2023-10-27T13:25:39.706562+00:00
- - user: None
- - tags: ['ranking', 'movies']
-
-## FISZ EMADE - TWORZYWO
- - [https://fiszemade.pl](https://fiszemade.pl)
- - date published: 2024-01-09T03:44:12.023195+00:00
- - user: None
- - tags: []
-
-## FISZ EMADE TWORZYWO
- - [https://sklep.fiszemade.pl](https://sklep.fiszemade.pl)
- - date published: 2023-10-29T15:32:44.993626+00:00
- - user: None
- - tags: []
-
-## Budowa domu, remont mieszkania, meble na wymiar Fixly.pl
- - [https://fixly.pl](https://fixly.pl)
- - date published: 2023-11-13T09:42:24.591486+00:00
- - user: None
- - tags: ['services']
-
-## FL STUDIO - FL STUDIO - POLSKIE CENTRUM
- - [https://flstudio.pl](https://flstudio.pl)
- - date published: 2023-10-28T20:08:12.231521+00:00
- - user: None
- - tags: []
-
-## Turystyka medyczna. Przeszczepy włosów, zabiegi stomatologiczne i chirurgia plastyczna w Turcji
- - [https://flydoctor.pl](https://flydoctor.pl)
- - date published: 2023-11-27T14:52:39.953922+00:00
- - user: None
- - tags: []
-
-## Forbot
- - [https://forbot.pl](https://forbot.pl)
- - date published: 2023-11-01T06:48:34.843254+00:00
- - user: None
- - tags: ['electronic news']
-
-## Forsal.pl – Biznes, Gospodarka, Świat
- - [https://forsal.pl](https://forsal.pl)
- - date published: 2023-10-25T10:31:03.680126+00:00
- - user: None
- - tags: []
-
-## None
- - [https://rss.forsal.pl](https://rss.forsal.pl)
- - date published: 2024-01-09T03:44:12.545694+00:00
- - user: None
- - tags: []
-
-## None
- - [http://rss.forsal.pl](http://rss.forsal.pl)
- - date published: 2024-02-25T20:20:10.985054+00:00
- - user: None
- - tags: []
-
-## FORUM EKONOMICZNE
- - [https://www.forum-ekonomiczne.pl](https://www.forum-ekonomiczne.pl)
- - date published: 2024-04-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nowości świata fotografii zawsze najszybciej na Fotopolis.pl
- - [https://www.fotopolis.pl](https://www.fotopolis.pl)
- - date published: 2023-12-13T14:59:00.143744+00:00
- - user: None
- - tags: ['photography']
-
-## Fronda - strona główna | Fronda.pl
- - [https://www.fronda.pl](https://www.fronda.pl)
- - date published: 2023-10-25T22:27:20.822064+00:00
- - user: None
- - tags: []
-
-## A Certain Magical Index
- - [https://pop.fsck.pl](https://pop.fsck.pl)
- - date published: 2023-12-06T08:54:14.512570+00:00
- - user: None
- - tags: ['personal', 'hardware']
-
-## Rozdział 1 Wstęp | Teoria Współczesnych Systemów Monetarnych
- - [https://mmt.fundacjalipinskiego.pl](https://mmt.fundacjalipinskiego.pl)
- - date published: 2023-05-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## FUTUREBEAT.pl
- - [https://futurebeat.pl](https://futurebeat.pl)
- - date published: 2023-11-27T17:47:00+00:00
- - user: rumpel
- - tags: ['tech news']
-
-## Futurex Gdynia - sklep online
- - [https://futurex.pl](https://futurex.pl)
- - date published: 2023-11-01T19:13:40.420967+00:00
- - user: None
- - tags: ['wargames', 'shop', 'tabletop games']
-
-## Forex Kursy walut Akcje Giełda Waluty Kryptowaluty | FXMAG INWESTOR
- - [https://www.fxmag.pl](https://www.fxmag.pl)
- - date published: 2024-01-09T03:44:13.910462+00:00
- - user: None
- - tags: []
-
-## Poznań Game Arena | 6-8 października 2023 | Tu Bije Serce Gamingu
- - [https://gamearena.pl](https://gamearena.pl)
- - date published: 2023-11-01T08:41:25.764766+00:00
- - user: None
- - tags: []
-
-## Zwiastuny, Livestreamy i Wywiady | Gamereactor Polska
- - [https://www.gamereactor.pl](https://www.gamereactor.pl)
- - date published: 2023-11-17T21:45:33+00:00
- - user: None
- - tags: ['game news']
-
-## Film, seriale, muzyka - Kultura.Gazeta.pl
- - [https://kultura.gazeta.pl](https://kultura.gazeta.pl)
- - date published: 2023-12-04T12:48:18.132743+00:00
- - user: None
- - tags: []
-
-## Next Gazeta.pl - Biznes, Nowe Technologie i Pieniądze
- - [https://next.gazeta.pl](https://next.gazeta.pl)
- - date published: 2023-10-25T10:31:14.489308+00:00
- - user: None
- - tags: []
-
-## Weekend w Gazeta.pl trwa ca³y tydzieñ
- - [https://weekend.gazeta.pl](https://weekend.gazeta.pl)
- - date published: 2023-10-25T22:27:32.339026+00:00
- - user: None
- - tags: []
-
-## Wiadomo¶ci - Gazeta.pl
- - [https://wiadomosci.gazeta.pl](https://wiadomosci.gazeta.pl)
- - date published: 2023-10-25T10:31:23.272215+00:00
- - user: None
- - tags: []
 

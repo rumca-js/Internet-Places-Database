@@ -1,3 +1,225 @@
+## KUOW Public Radio
+ - [https://www.kuow.org](https://www.kuow.org)
+ - date published: 2023-11-15T11:19:14.665369+00:00
+ - user: None
+ - tags: []
+
+## kuro5hin.org
+ - [http://www.kuro5hin.org](http://www.kuro5hin.org)
+ - date published: 2024-04-09T20:06:28.075384+00:00
+ - user: None
+ - tags: []
+
+## KUT Homepage | KUT Radio, Austin's NPR Station
+ - [https://www.kut.org](https://www.kut.org)
+ - date published: 2023-10-25T21:37:51.868361+00:00
+ - user: None
+ - tags: []
+
+## Remix.Kwed.Org | The Def Guide to C64 MP3 remixes
+ - [https://remix.kwed.org](https://remix.kwed.org)
+ - date published: 2024-02-15T22:14:00.417683+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Home - Kentucky Center for Economic Policy
+ - [https://kypolicy.org](https://kypolicy.org)
+ - date published: 2024-02-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Labor Notes
+ - [https://labornotes.org](https://labornotes.org)
+ - date published: 2024-04-12T19:13:39.202895+00:00
+ - user: None
+ - tags: ['labor', 'unions']
+
+## X-Files
+ - [https://doc.lagout.org](https://doc.lagout.org)
+ - date published: 2023-10-25T21:37:53.135655+00:00
+ - user: None
+ - tags: []
+
+## Ashton Wiersdorf | Lambda Land
+ - [https://lambdaland.org](https://lambdaland.org)
+ - date published: 2023-10-25T21:38:00.130658+00:00
+ - user: None
+ - tags: []
+
+## Lambda the Ultimate | Programming Languages Weblog
+ - [http://lambda-the-ultimate.org](http://lambda-the-ultimate.org)
+ - date published: 2023-10-25T21:37:59.339898+00:00
+ - user: None
+ - tags: []
+
+## Land Camp
+ - [https://www.landcamp.org](https://www.landcamp.org)
+ - date published: 2023-10-25T21:38:02.232316+00:00
+ - user: None
+ - tags: []
+
+## Landon Fuller
+ - [https://landonf.org](https://landonf.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Robert Lansing Institute
+ - [https://lansinginstitute.org](https://lansinginstitute.org)
+ - date published: 2024-01-05T17:32:05.468082+00:00
+ - user: None
+ - tags: []
+
+## | Lapham’s Quarterly
+ - [https://www.laphamsquarterly.org](https://www.laphamsquarterly.org)
+ - date published: 2023-10-25T10:45:33.434280+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [https://lapublicpress.org](https://lapublicpress.org)
+ - date published: 2024-02-24T18:21:10.687426+00:00
+ - user: None
+ - tags: []
+
+## Brian Foote
+ - [http://www.laputan.org](http://www.laputan.org)
+ - date published: 2023-10-25T08:54:53.702441+00:00
+ - user: None
+ - tags: ['personal']
+
+## Los Angeles Review of Books
+ - [https://lareviewofbooks.org](https://lareviewofbooks.org)
+ - date published: 2023-10-25T21:38:04.444325+00:00
+ - user: None
+ - tags: []
+
+## Home | Mysite
+ - [https://www.larschristensen.org](https://www.larschristensen.org)
+ - date published: 2023-12-24T02:31:31.930385+00:00
+ - user: None
+ - tags: ['personal']
+
+## Last Chance to Fix eIDAS (Mozilla)
+ - [https://last-chance-for-eidas.org](https://last-chance-for-eidas.org)
+ - date published: 2023-11-02T05:57:42+00:00
+ - user: None
+ - tags: ['eidas', 'privacy', 'surveillance', 'mozilla']
+
+## LaTeX - A document preparation system
+ - [https://www.latex-project.org](https://www.latex-project.org)
+ - date published: 2023-11-27T03:27:19.003390+00:00
+ - user: None
+ - tags: ['documentation software']
+
+## Mastodon
+ - [https://mastodon.laurenweinstein.org](https://mastodon.laurenweinstein.org)
+ - date published: 2023-10-25T21:38:06.486264+00:00
+ - user: None
+ - tags: []
+
+## https://www.lawfaremedia.org
+ - [https://www.lawfaremedia.org](https://www.lawfaremedia.org)
+ - date published: 2023-10-30T04:52:46.101056+00:00
+ - user: None
+ - tags: []
+
+## Law & Liberty, part of the Liberty Fund Network
+ - [https://lawliberty.org](https://lawliberty.org)
+ - date published: 2023-10-25T21:38:09.051770+00:00
+ - user: None
+ - tags: []
+
+## Lazarus Homepage
+ - [https://www.lazarus-ide.org](https://www.lazarus-ide.org)
+ - date published: 2023-12-02T15:50:53.126305+00:00
+ - user: None
+ - tags: []
+
+## 🚀 Getting Started | LazyVim
+ - [https://www.lazyvim.org](https://www.lazyvim.org)
+ - date published: 2023-10-25T08:35:28.988360+00:00
+ - user: None
+ - tags: []
+
+## LEADx: Scale and Sustain Leadership Development
+ - [https://leadx.org](https://leadx.org)
+ - date published: 2024-01-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Learn About Electronics - Home Page
+ - [https://learnabout-electronics.org](https://learnabout-electronics.org)
+ - date published: 2023-10-25T21:38:15.033617+00:00
+ - user: None
+ - tags: []
+
+## BCHS software stack: BSD, C, httpd, SQLite
+ - [https://learnbchs.org](https://learnbchs.org)
+ - date published: 2023-12-28T20:47:24+00:00
+ - user: None
+ - tags: []
+
+## Learn Datalog Today!
+ - [https://www.learndatalogtoday.org](https://www.learndatalogtoday.org)
+ - date published: 2013-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## LegendMUD
+ - [https://www.legendmud.org](https://www.legendmud.org)
+ - date published: 2024-03-27T20:51:05.843611+00:00
+ - user: None
+ - tags: ['mud game']
+
+## LENFEST INSTITUTE -
+ - [https://www.lenfestinstitute.org](https://www.lenfestinstitute.org)
+ - date published: 2023-10-25T21:38:16.663488+00:00
+ - user: None
+ - tags: []
+
+## Let Grow - When Adults Step Back, Kids Step Up.
+ - [https://letgrow.org](https://letgrow.org)
+ - date published: 2023-10-25T21:38:20.621745+00:00
+ - user: None
+ - tags: []
+
+## Let's Encrypt Community Support
+ - [https://community.letsencrypt.org](https://community.letsencrypt.org)
+ - date published: 2023-10-25T21:38:30.513053+00:00
+ - user: None
+ - tags: []
+
+## Let's Encrypt
+ - [https://letsencrypt.org](https://letsencrypt.org)
+ - date published: 2023-10-25T08:33:56.588669+00:00
+ - user: None
+ - tags: []
+
+## Lets-Plot: open-source plotting library for statistical data
+ - [https://lets-plot.org](https://lets-plot.org)
+ - date published: 2023-10-25T21:38:26.790873+00:00
+ - user: None
+ - tags: []
+
+## Lev Lazinskiy
+ - [https://levlaz.org](https://levlaz.org)
+ - date published: 2024-01-20T17:36:08.936473+00:00
+ - user: None
+ - tags: []
+
+## Home - CS Lewis Society of California
+ - [https://www.lewissociety.org](https://www.lewissociety.org)
+ - date published: 2023-12-19T16:13:45.261148+00:00
+ - user: None
+ - tags: []
+
+## https://lfortran.org
+ - [https://lfortran.org](https://lfortran.org)
+ - date published: 2023-10-25T21:38:31.696970+00:00
+ - user: None
+ - tags: []
+
 ## libcamera.org git repository browser
  - [https://git.libcamera.org](https://git.libcamera.org)
  - date published: 2023-10-25T21:38:32.187144+00:00
@@ -629,16 +851,16 @@
  - tags: []
 
 ## Marco.org
- - [https://marco.org](https://marco.org)
- - date published: 2023-10-25T08:55:03.700528+00:00
- - user: None
- - tags: ['personal']
-
-## Marco.org
  - [http://marco.org](http://marco.org)
  - date published: 2024-02-26T08:57:24.441371+00:00
  - user: None
  - tags: []
+
+## Marco.org
+ - [https://marco.org](https://marco.org)
+ - date published: 2023-10-25T08:55:03.700528+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home - Marcosticks
  - [https://marcosticks.org](https://marcosticks.org)
@@ -1293,16 +1515,16 @@ Common Weakness Enumeration
  - tags: []
 
 ## The Mod Archive v4.0b - A distinctive collection of modules
- - [http://modarchive.org](http://modarchive.org)
- - date published: 2024-02-15T01:59:58.310157+00:00
- - user: None
- - tags: []
-
-## The Mod Archive v4.0b - A distinctive collection of modules
  - [https://modarchive.org](https://modarchive.org)
  - date published: 2023-10-28T19:01:07.809021+00:00
  - user: None
  - tags: ['chiptune', 'keygen', 'demoscene']
+
+## The Mod Archive v4.0b - A distinctive collection of modules
+ - [http://modarchive.org](http://modarchive.org)
+ - date published: 2024-02-15T01:59:58.310157+00:00
+ - user: None
+ - tags: []
 
 ## mojo.js - JavaScript real-time web framework
  - [https://mojojs.org](https://mojojs.org)
@@ -1502,17 +1724,17 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
-## Pocket | Discover, Capture and Savor Content That Fascinates You
- - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
- - date published: 2023-11-13T13:38:32+00:00
- - user: rumpel
- - tags: ['bookmark manager', 'link aggregation']
-
 ## Internet for people, not profit — Mozilla (US)
  - [https://www.mozilla.org](https://www.mozilla.org)
  - date published: 2023-10-25T09:27:30.838308+00:00
  - user: None
  - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
+
+## Pocket | Discover, Capture and Savor Content That Fascinates You
+ - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
+ - date published: 2023-11-13T13:38:32+00:00
+ - user: rumpel
+ - tags: ['bookmark manager', 'link aggregation']
 
 ## MozillaZine Knowledge Base
  - [http://kb.mozillazine.org](http://kb.mozillazine.org)
@@ -3483,16 +3705,16 @@ Common Weakness Enumeration
  - tags: ['open source']
 
 ## Open Source Research Institutue :: Main / HomePage
- - [https://opensourceresearchinstitute.org](https://opensourceresearchinstitute.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Open Source Research Institutue :: Main / HomePage
  - [http://opensourceresearchinstitute.org](http://opensourceresearchinstitute.org)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Open Source Research Institutue :: Main / HomePage
+ - [https://opensourceresearchinstitute.org](https://opensourceresearchinstitute.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## OpenSSF Best Practices Working Group (WG)
  - [https://best.openssf.org](https://best.openssf.org)
@@ -4708,14 +4930,14 @@ Common Weakness Enumeration
  - tags: ['personal']
 
 ## The Programming Journal
- - [https://programming-journal.org](https://programming-journal.org)
- - date published: 2023-10-25T21:59:59.828174+00:00
+ - [http://programming-journal.org](http://programming-journal.org)
+ - date published: 2024-06-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Programming Journal
- - [http://programming-journal.org](http://programming-journal.org)
- - date published: 2024-06-01T00:00:00+00:00
+ - [https://programming-journal.org](https://programming-journal.org)
+ - date published: 2023-10-25T21:59:59.828174+00:00
  - user: None
  - tags: []
 
@@ -5475,15 +5697,15 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
-## Responsible Statecraft
- - [http://responsiblestatecraft.org](http://responsiblestatecraft.org)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Home - Responsible Statecraft
  - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
  - date published: 2023-10-25T22:03:17.450852+00:00
+ - user: None
+ - tags: []
+
+## Responsible Statecraft
+ - [http://responsiblestatecraft.org](http://responsiblestatecraft.org)
+ - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5780,226 +6002,4 @@ Common Weakness Enumeration
  - date published: 2024-04-05T18:51:43+00:00
  - user: rumpel
  - tags: ['package manager']
-
-## docs.ruby-lang.org
- - [https://docs.ruby-lang.org](https://docs.ruby-lang.org)
- - date published: 2023-10-25T22:04:45.654923+00:00
- - user: None
- - tags: []
-
-## Ruby Programming Language
- - [https://www.ruby-lang.org](https://www.ruby-lang.org)
- - date published: 2023-10-25T22:04:46.800323+00:00
- - user: None
- - tags: ['programming language']
-
-## Ruby on Rails
- - [https://rubyonrails.org](https://rubyonrails.org)
- - date published: 2023-10-25T08:31:28.729010+00:00
- - user: None
- - tags: ['ruby on rails', 'programming framework', 'ruby']
-
-## Rundeck Runbook Automation
- - [http://rundeck.org](http://rundeck.org)
- - date published: 2024-04-08T19:26:25.617209+00:00
- - user: None
- - tags: []
-
-## Rockefeller University Press
- - [https://rupress.org](https://rupress.org)
- - date published: 2024-03-31T18:42:33.134423+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://www.rusi.org](https://www.rusi.org)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## RSF
- - [https://www.russellsage.org](https://www.russellsage.org)
- - date published: 2023-10-25T22:04:52.238484+00:00
- - user: None
- - tags: []
-
-## cs4414: Operating Systems
- - [https://rust-class.org](https://rust-class.org)
- - date published: 2023-11-08T19:28:02.140877+00:00
- - user: None
- - tags: []
-
-## The Rust Programming Language Blog
- - [https://blog.rust-lang.org](https://blog.rust-lang.org)
- - date published: 2023-10-25T22:04:57.445467+00:00
- - user: None
- - tags: []
-
-## Rust Magazine
- - [https://rustmagazine.org](https://rustmagazine.org)
- - date published: 2023-10-25T22:05:06.434628+00:00
- - user: None
- - tags: []
-
-## About – Alex Rutar
- - [https://rutar.org](https://rutar.org)
- - date published: 2023-10-25T22:05:07.183562+00:00
- - user: None
- - tags: []
-
-## The Rutherford Institute :: Home |
- - [https://www.rutherford.org](https://www.rutherford.org)
- - date published: 2023-10-25T22:05:08.700126+00:00
- - user: None
- - tags: []
-
-## RVspace Forum
- - [https://forum.rvspace.org](https://forum.rvspace.org)
- - date published: 2023-10-25T22:05:11.836037+00:00
- - user: None
- - tags: []
-
-## Ryujinx - Blog
- - [https://blog.ryujinx.org](https://blog.ryujinx.org)
- - date published: 2023-10-25T22:05:13.302746+00:00
- - user: None
- - tags: []
-
-## Ryujinx - Nintendo Switch Emulator
- - [https://ryujinx.org](https://ryujinx.org)
- - date published: 2023-10-25T08:36:23.207142+00:00
- - user: None
- - tags: []
-
-## Sabrina Jewson
- - [https://sabrinajewson.org](https://sabrinajewson.org)
- - date published: 2023-10-25T22:05:13.957543+00:00
- - user: None
- - tags: []
-
-## The Mission of SAE International is to advance mobility knowledge and solutions
- - [https://www.sae.org](https://www.sae.org)
- - date published: 2023-10-25T22:05:23.612089+00:00
- - user: None
- - tags: []
-
-## Safecast Open Radiation and Air Quality Map
- - [https://map.safecast.org](https://map.safecast.org)
- - date published: 2024-03-23T23:46:37+00:00
- - user: None
- - tags: []
-
-## Saint11
- - [http://saint11.org](http://saint11.org)
- - date published: 2023-07-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## San Antonio Report - Nonprofit journalism for an informed community
- - [https://sanantonioreport.org](https://sanantonioreport.org)
- - date published: 2023-10-25T22:05:42.245865+00:00
- - user: None
- - tags: []
-
-## Sandstorm
- - [https://sandstorm.org](https://sandstorm.org)
- - date published: 2023-12-05T17:06:48.511885+00:00
- - user: None
- - tags: []
-
-## SAPIENS – Anthropology Magazine
- - [https://www.sapiens.org](https://www.sapiens.org)
- - date published: 2023-10-25T22:05:54.397882+00:00
- - user: None
- - tags: []
-
-## SAT Competitions
- - [http://www.satcompetition.org](http://www.satcompetition.org)
- - date published: 2023-10-25T22:06:06.919026+00:00
- - user: None
- - tags: []
-
-## TELEPHONE
- - [https://telephone.satellitecollective.org](https://telephone.satellitecollective.org)
- - date published: 2014-04-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Sat Saheb
- - [https://www.satsaheb.org](https://www.satsaheb.org)
- - date published: 2023-11-19T16:19:23.198165+00:00
- - user: None
- - tags: []
-
-## saurabhs.org
- - [https://saurabhs.org](https://saurabhs.org)
- - date published: 2023-10-25T22:06:08.304854+00:00
- - user: None
- - tags: []
-
-## Charity Organization for Children
- - [https://www.savethechildren.org](https://www.savethechildren.org)
- - date published: 2023-10-30T12:42:11.141123+00:00
- - user: None
- - tags: []
-
-## About - Steel Bank Common Lisp
- - [https://sbcl.org](https://sbcl.org)
- - date published: 2023-10-25T22:06:10.407198+00:00
- - user: None
- - tags: []
-
-## About - Steel Bank Common Lisp
- - [https://www.sbcl.org](https://www.sbcl.org)
- - date published: 2023-10-25T22:06:12.372280+00:00
- - user: None
- - tags: []
-
-## Master Agen SBOBET – Judi Bola | Live Casino Online Asia | Cara Daftar Sbobet Wap
- - [https://sbobetaa.org](https://sbobetaa.org)
- - date published: 2024-02-08T22:07:38.048356+00:00
- - user: None
- - tags: []
-
-## https://sbp-brims.org
- - [https://sbp-brims.org](https://sbp-brims.org)
- - date published: 2024-01-09T03:42:26.106566+00:00
- - user: None
- - tags: []
-
-## Steve Williams
- - [https://sbw.org](https://sbw.org)
- - date published: 2023-12-24T18:30:06.033340+00:00
- - user: None
- - tags: ['personal']
-
-## The Scala Programming Language
- - [https://www.scala-lang.org](https://www.scala-lang.org)
- - date published: 2023-10-25T22:06:15.979197+00:00
- - user: None
- - tags: []
-
-## SC Judicial Branch
- - [https://www.sccourts.org](https://www.sccourts.org)
- - date published: 2024-02-08T16:36:30.861319+00:00
- - user: None
- - tags: []
-
-## SCENE.ORG WILL BE BACK SOON
- - [https://www.scene.org](https://www.scene.org)
- - date published: 2023-10-27T14:45:56.505689+00:00
- - user: None
- - tags: ['demoscene']
-
-## Schema.org - Schema.org
- - [https://schema.org](https://schema.org)
- - date published: 2023-12-11T16:10:24.484319+00:00
- - user: None
- - tags: ['standards']
-
-## Walidator znaczników schema.org
- - [https://validator.schema.org](https://validator.schema.org)
- - date published: 2024-01-19T11:30:11+00:00
- - user: rumpel
- - tags: ['standards', 'online validation', 'online tool']
 

@@ -1,3 +1,183 @@
+## Home
+ - [https://invido.it](https://invido.it)
+ - date published: 2024-01-10T21:33:38.025402+00:00
+ - user: None
+ - tags: []
+
+## Italian poetry for English speakers | Italian Poetry
+ - [https://italianpoetry.it](https://italianpoetry.it)
+ - date published: 2023-10-25T20:15:03.303270+00:00
+ - user: None
+ - tags: []
+
+## G̶i̶a̶c̶o̶m̶o̶ ̶M̶i̶c̶e̶l̶i̶
+ - [https://jamez.it](https://jamez.it)
+ - date published: 2024-04-12T18:03:44.005046+00:00
+ - user: None
+ - tags: ['personal']
+
+## G̶i̶a̶c̶o̶m̶o̶ ̶M̶i̶c̶e̶l̶i̶
+ - [https://www.jamez.it](https://www.jamez.it)
+ - date published: 2023-10-25T20:15:05.579397+00:00
+ - user: None
+ - tags: []
+
+## JustPaste.it - paste text and share with your friends
+ - [https://justpaste.it](https://justpaste.it)
+ - date published: 2024-01-08T16:56:49.864753+00:00
+ - user: None
+ - tags: []
+
+## Loris Cro's Personal Website
+ - [https://kristoff.it](https://kristoff.it)
+ - date published: 2023-10-25T20:15:11.394567+00:00
+ - user: None
+ - tags: []
+
+## Let's Block It! :: letsblock.it
+ - [https://letsblock.it](https://letsblock.it)
+ - date published: 2023-10-25T20:15:12.362251+00:00
+ - user: None
+ - tags: []
+
+## lettuce.it
+ - [https://lettuce.it](https://lettuce.it)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Linux.it
+ - [https://www.linux.it](https://www.linux.it)
+ - date published: 2023-10-25T20:15:13.230291+00:00
+ - user: None
+ - tags: []
+
+## Mariano Tomatis Wonder Injector
+ - [https://www.marianotomatis.it](https://www.marianotomatis.it)
+ - date published: 2024-03-11T21:08:45.054531+00:00
+ - user: None
+ - tags: []
+
+## Mondo Ferroviario - Il blog per viaggiare informati
+ - [https://www.mondoferroviario.it](https://www.mondoferroviario.it)
+ - date published: 2024-02-08T18:07:01.922999+00:00
+ - user: None
+ - tags: []
+
+## Mostre - Museo Galileo
+ - [https://mostre.museogalileo.it](https://mostre.museogalileo.it)
+ - date published: 2024-03-03T09:52:28.143754+00:00
+ - user: None
+ - tags: []
+
+## Luigi Mozzillo
+ - [https://mzll.it](https://mzll.it)
+ - date published: 2024-01-15T22:21:22.287791+00:00
+ - user: None
+ - tags: []
+
+## nitter.it
+ - [https://nitter.it](https://nitter.it)
+ - date published: 2023-11-22T06:56:02+00:00
+ - user: rumpel
+ - tags: ['twitter', 'x']
+
+## GTranslate - Error 402: Payment Required
+ - [https://en.oppohub.it](https://en.oppohub.it)
+ - date published: 2023-10-25T20:15:13.671922+00:00
+ - user: None
+ - tags: []
+
+## OPPOHub
+ - [https://www.oppohub.it](https://www.oppohub.it)
+ - date published: 2024-02-26T09:34:57.422919+00:00
+ - user: None
+ - tags: []
+
+## Welcome on www.pasqualegallo.it
+ - [https://pasqualegallo.it](https://pasqualegallo.it)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Penna Blu - Scrivere per guadagnare lettori e clienti
+ - [https://pennablu.it](https://pennablu.it)
+ - date published: 2024-01-15T02:47:15.594279+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://we.phorge.it](https://we.phorge.it)
+ - date published: 2023-10-25T20:15:19.719274+00:00
+ - user: None
+ - tags: []
+
+## Pinterest
+ - [https://pin.it](https://pin.it)
+ - date published: 2024-01-15T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
+## PlaneShift - A 3D Fantasy MMORPG
+ - [https://www.planeshift.it](https://www.planeshift.it)
+ - date published: 2024-03-27T19:07:28+00:00
+ - user: rumpel
+ - tags: ['mmorpg']
+
+## RaiPlay, Molto più di quanto immagini
+ - [https://www.raiplay.it](https://www.raiplay.it)
+ - date published: 2024-03-21T02:07:55.436329+00:00
+ - user: None
+ - tags: []
+
+## Home | RCS
+ - [https://rcslab.it](https://rcslab.it)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['spyware vendor']
+
+## https://external-preview.redd.it/
+ - [https://external-preview.redd.it](https://external-preview.redd.it)
+ - date published: 2023-10-30T12:22:01.044585+00:00
+ - user: None
+ - tags: []
+
+## Reddit - Dive into anything
+ - [https://i.redd.it](https://i.redd.it)
+ - date published: 2023-10-25T20:15:21.079184+00:00
+ - user: None
+ - tags: []
+
+## Reddit - Dive into anything
+ - [https://preview.redd.it](https://preview.redd.it)
+ - date published: 2023-10-25T20:15:22.724650+00:00
+ - user: None
+ - tags: []
+
+## reddit
+ - [https://redd.it](https://redd.it)
+ - date published: 2023-12-11T19:25:05.732440+00:00
+ - user: None
+ - tags: []
+
+## https://v.redd.it
+ - [https://v.redd.it](https://v.redd.it)
+ - date published: 2023-10-30T12:42:19.101470+00:00
+ - user: None
+ - tags: []
+
+## Replit: The software creation platform. IDE, AI, and Deployments
+ - [https://repl.it](https://repl.it)
+ - date published: 2023-12-11T12:25:08+00:00
+ - user: rumpel
+ - tags: ['code sandbox']
+
+## la Repubblica - News in tempo reale - Le notizie e i video di politica, cronaca, economia, sport
+ - [https://www.repubblica.it](https://www.repubblica.it)
+ - date published: 2024-04-04T13:27:32.869193+00:00
+ - user: None
+ - tags: []
+
 ## Home - Retro-Gamers.it
  - [https://www.retro-gamers.it](https://www.retro-gamers.it)
  - date published: 2023-12-11T18:59:38.730308+00:00
@@ -1084,17 +1264,17 @@
  - user: None
  - tags: []
 
-## Tomatoes on a Vine
- - [http://www.vvna.live](http://www.vvna.live)
- - date published: 2024-04-03T06:31:52.939646+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [https://www.vvna.live](https://www.vvna.live)
  - date published: 2024-01-07T08:44:46.606393+00:00
  - user: None
  - tags: []
+
+## Tomatoes on a Vine
+ - [http://www.vvna.live](http://www.vvna.live)
+ - date published: 2024-04-03T06:31:52.939646+00:00
+ - user: None
+ - tags: ['personal']
 
 ## win32 - Main Index
  - [https://win32subsystem.live](https://win32subsystem.live)
@@ -2495,15 +2675,15 @@
  - user: None
  - tags: ['personal']
 
-## Manoj Ranaweera – The man who built Manchester's Tech Startup Ecosystem
- - [https://manojranaweera.me](https://manojranaweera.me)
- - date published: 2024-01-07T22:19:45.375154+00:00
- - user: None
- - tags: ['personal']
-
 ## Manoj Ranaweera – The man who built Manchester’s Tech Startup Ecosystem
  - [http://manojranaweera.me](http://manojranaweera.me)
  - date published: 2024-04-03T12:42:38.568400+00:00
+ - user: None
+ - tags: ['personal']
+
+## Manoj Ranaweera – The man who built Manchester's Tech Startup Ecosystem
+ - [https://manojranaweera.me](https://manojranaweera.me)
+ - date published: 2024-01-07T22:19:45.375154+00:00
  - user: None
  - tags: ['personal']
 
@@ -2526,16 +2706,16 @@
  - tags: ['personal']
 
 ## Mes productions de podcast et participations - maune.me
- - [http://www.maune.me](http://www.maune.me)
- - date published: 2023-12-22T22:30:51.890778+00:00
- - user: None
- - tags: ['personal']
-
-## Mes productions de podcast et participations - maune.me
  - [https://www.maune.me](https://www.maune.me)
  - date published: 2024-01-15T00:00:00+00:00
  - user: None
  - tags: []
+
+## Mes productions de podcast et participations - maune.me
+ - [http://www.maune.me](http://www.maune.me)
+ - date published: 2023-12-22T22:30:51.890778+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Max Greenwald
  - [https://maxgreenwald.me](https://maxgreenwald.me)
@@ -3924,16 +4104,16 @@
  - tags: []
 
 ## David Walsh Blog
- - [https://davidwalsh.name](https://davidwalsh.name)
- - date published: 2024-02-06T00:00:00+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## David Walsh Blog
  - [http://davidwalsh.name](http://davidwalsh.name)
  - date published: 2024-03-18T00:00:00+00:00
  - user: None
  - tags: []
+
+## David Walsh Blog
+ - [https://davidwalsh.name](https://davidwalsh.name)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: ['blog', 'personal']
 
 ## Neil Fraser
  - [https://neil.fraser.name](https://neil.fraser.name)
@@ -3942,14 +4122,14 @@
  - tags: ['personal']
 
 ## Nathan Ho
- - [http://nathan.ho.name](http://nathan.ho.name)
- - date published: 2024-02-26T09:21:39.752260+00:00
+ - [https://nathan.ho.name](https://nathan.ho.name)
+ - date published: 2023-12-20T22:45:42.744081+00:00
  - user: None
  - tags: []
 
 ## Nathan Ho
- - [https://nathan.ho.name](https://nathan.ho.name)
- - date published: 2023-12-20T22:45:42.744081+00:00
+ - [http://nathan.ho.name](http://nathan.ho.name)
+ - date published: 2024-02-26T09:21:39.752260+00:00
  - user: None
  - tags: []
 
@@ -3984,14 +4164,14 @@
  - tags: []
 
 ## Mackenzie Morgan
- - [http://mackenzie.morgan.name](http://mackenzie.morgan.name)
- - date published: 2024-04-03T06:22:47.388814+00:00
+ - [https://mackenzie.morgan.name](https://mackenzie.morgan.name)
+ - date published: 2023-11-29T17:07:05.410622+00:00
  - user: None
  - tags: ['personal']
 
 ## Mackenzie Morgan
- - [https://mackenzie.morgan.name](https://mackenzie.morgan.name)
- - date published: 2023-11-29T17:07:05.410622+00:00
+ - [http://mackenzie.morgan.name](http://mackenzie.morgan.name)
+ - date published: 2024-04-03T06:22:47.388814+00:00
  - user: None
  - tags: ['personal']
 
@@ -4536,16 +4716,16 @@
  - tags: []
 
 ## Amigaworld.net - The Amiga Computer Community Portal Website
- - [http://amigaworld.net](http://amigaworld.net)
- - date published: 2024-02-25T14:45:32.614877+00:00
- - user: None
- - tags: []
-
-## Amigaworld.net - The Amiga Computer Community Portal Website
  - [https://amigaworld.net](https://amigaworld.net)
  - date published: 2023-10-27T14:32:09.267109+00:00
  - user: None
  - tags: ['retro news', 'amiga']
+
+## Amigaworld.net - The Amiga Computer Community Portal Website
+ - [http://amigaworld.net](http://amigaworld.net)
+ - date published: 2024-02-25T14:45:32.614877+00:00
+ - user: None
+ - tags: []
 
 ## Amigaworld.net - The Amiga Computer Community Portal Website
  - [http://www.amigaworld.net](http://www.amigaworld.net)
@@ -4602,14 +4782,14 @@
  - tags: []
 
 ## Aminet - Latest packages, last 14 days
- - [http://os4.aminet.net](http://os4.aminet.net)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://os4.aminet.net](https://os4.aminet.net)
+ - date published: 2023-12-13T15:07:30.007257+00:00
  - user: None
  - tags: []
 
 ## Aminet - Latest packages, last 14 days
- - [https://os4.aminet.net](https://os4.aminet.net)
- - date published: 2023-12-13T15:07:30.007257+00:00
+ - [http://os4.aminet.net](http://os4.aminet.net)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4632,16 +4812,16 @@
  - tags: []
 
 ## Aminet - Latest packages, last 14 days
- - [https://www.aminet.net](https://www.aminet.net)
- - date published: 2023-10-27T14:28:24.858893+00:00
- - user: None
- - tags: ['roms', 'amiga', 'emulation']
-
-## Aminet - Latest packages, last 14 days
  - [http://www.aminet.net](http://www.aminet.net)
  - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
+
+## Aminet - Latest packages, last 14 days
+ - [https://www.aminet.net](https://www.aminet.net)
+ - date published: 2023-10-27T14:28:24.858893+00:00
+ - user: None
+ - tags: ['roms', 'amiga', 'emulation']
 
 ## @amit
  - [https://amitg.net](https://amitg.net)
@@ -4698,16 +4878,16 @@
  - tags: []
 
 ## Andrés Bianciotto
- - [https://andresb.net](https://andresb.net)
- - date published: 2023-12-20T11:44:54.548934+00:00
- - user: None
- - tags: ['personal']
-
-## Andrés Bianciotto
  - [http://andresb.net](http://andresb.net)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Andrés Bianciotto
+ - [https://andresb.net](https://andresb.net)
+ - date published: 2023-12-20T11:44:54.548934+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Andrew Lock | .NET Escapades
  - [https://andrewlock.net](https://andrewlock.net)
@@ -4791,7 +4971,7 @@
  - [https://arc.net](https://arc.net)
  - date published: 2023-10-25T20:25:33.979061+00:00
  - user: None
- - tags: ['search engine', 'web browser']
+ - tags: ['web browser']
 
 ## https://www.argmin.net
  - [https://www.argmin.net](https://www.argmin.net)
@@ -4862,6 +5042,12 @@
 ## Quechuas.net
  - [https://aschmann.net](https://aschmann.net)
  - date published: 2023-10-25T20:26:08.164212+00:00
+ - user: None
+ - tags: []
+
+## ASP.NET Core | Open-source web framework for .NET
+ - [https://asp.net](https://asp.net)
+ - date published: 2024-04-12T02:45:42.419515+00:00
  - user: None
  - tags: []
 
@@ -5254,6 +5440,12 @@
  - date published: 2023-10-25T20:26:55.453359+00:00
  - user: None
  - tags: []
+
+## Insectoid's Web Page at budwin.net
+ - [http://insectoid.budwin.net](http://insectoid.budwin.net)
+ - date published: 2024-04-12T00:20:52.118756+00:00
+ - user: None
+ - tags: ['interesting', 'personal']
 
 ## Built St. Louis - Historic St. Louis Architecture -
 Historic Preservation, Demolition, Restoration and Abandonment of Old
@@ -5762,14 +5954,14 @@ Buildings in Saint Louis, Missouri
  - tags: []
 
 ## Welcome - CVGM.net - Chiptune, Retro & Video Game Music
- - [https://radio.cvgm.net](https://radio.cvgm.net)
- - date published: 2023-01-01T00:00:00+00:00
+ - [http://radio.cvgm.net](http://radio.cvgm.net)
+ - date published: 2024-02-15T02:00:20.008732+00:00
  - user: None
  - tags: []
 
 ## Welcome - CVGM.net - Chiptune, Retro & Video Game Music
- - [http://radio.cvgm.net](http://radio.cvgm.net)
- - date published: 2024-02-15T02:00:20.008732+00:00
+ - [https://radio.cvgm.net](https://radio.cvgm.net)
+ - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5806,198 +5998,6 @@ Buildings in Saint Louis, Missouri
 ## Diablo 2 Trade and Price Check - D2Trader.net
  - [https://d2trader.net](https://d2trader.net)
  - date published: 2023-12-13T16:04:52.160703+00:00
- - user: None
- - tags: []
-
-## daemonology.net
- - [https://www.daemonology.net](https://www.daemonology.net)
- - date published: 2023-10-25T20:28:33.979177+00:00
- - user: None
- - tags: []
-
-## daemonology.net
- - [http://www.daemonology.net](http://www.daemonology.net)
- - date published: 2024-02-25T19:34:32.110343+00:00
- - user: None
- - tags: []
-
-## Irresponsible Disclosure
- - [https://blog.daknob.net](https://blog.daknob.net)
- - date published: 2024-04-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dangerous Minds
- - [https://dangerousminds.net](https://dangerousminds.net)
- - date published: 2023-10-25T20:28:38.333425+00:00
- - user: None
- - tags: []
-
-## Start - Daniel Hauck
- - [https://danielhauck.net](https://danielhauck.net)
- - date published: 2023-11-29T18:21:12.256604+00:00
- - user: None
- - tags: ['personal']
-
-## Dan North & Associates Ltd
- - [https://dannorth.net](https://dannorth.net)
- - date published: 2023-10-25T20:28:39.620762+00:00
- - user: None
- - tags: []
-
-## Jeremy Danyow
- - [https://danyow.net](https://danyow.net)
- - date published: 2023-10-25T09:22:54.534593+00:00
- - user: None
- - tags: ['personal']
-
-## All articles
- - [https://daoudclarke.net](https://daoudclarke.net)
- - date published: 2023-10-25T20:28:40.312551+00:00
- - user: None
- - tags: []
-
-## Daring Fireball
- - [https://daringfireball.net](https://daringfireball.net)
- - date published: 2023-10-25T09:22:57.001340+00:00
- - user: None
- - tags: ['personal']
-
-## Graham King
- - [https://darkcoding.net](https://darkcoding.net)
- - date published: 2023-10-25T09:00:26.309032+00:00
- - user: None
- - tags: ['personal']
-
-## Dark Sky Blog
- - [https://blog.darksky.net](https://blog.darksky.net)
- - date published: 2023-10-25T08:36:50.268335+00:00
- - user: None
- - tags: []
-
-## Darren Burns - Blog
- - [https://darrenburns.net](https://darrenburns.net)
- - date published: 2023-10-25T09:00:33.936983+00:00
- - user: None
- - tags: ['personal']
-
-## Darryl Bayliss | Darryl Bayliss’s Blog Random musings about Software Engineering
- - [https://www.darrylbayliss.net](https://www.darrylbayliss.net)
- - date published: 2023-10-25T20:28:41.093332+00:00
- - user: None
- - tags: []
-
-## Darths & Droids
- - [http://darthsanddroids.net](http://darthsanddroids.net)
- - date published: 2024-04-07T14:25:18.607796+00:00
- - user: None
- - tags: ['comic strips']
-
-## Amiga Music Preservation - //home////
- - [https://amp.dascene.net](https://amp.dascene.net)
- - date published: 2023-11-02T09:54:32.119187+00:00
- - user: None
- - tags: ['amiga']
-
-## DataBreaches.net: The Office of Inadequate Security
- - [https://www.databreaches.net](https://www.databreaches.net)
- - date published: 2023-10-25T20:28:42.463972+00:00
- - user: None
- - tags: []
-
-## Data & Society
- - [https://datasociety.net](https://datasociety.net)
- - date published: 2024-03-06T14:45:04.343595+00:00
- - user: None
- - tags: []
-
-## DataTables | Javascript table library
- - [http://www.datatables.net](http://www.datatables.net)
- - date published: 2024-02-25T19:37:22.168750+00:00
- - user: None
- - tags: []
-
-## Global Potplayer
- - [https://potplayer.daum.net](https://potplayer.daum.net)
- - date published: 2024-04-11T19:02:22+00:00
- - user: rumpel
- - tags: ['video player']
-
-## David Benjamin
- - [https://davidben.net](https://davidben.net)
- - date published: 2024-01-16T22:15:02.503596+00:00
- - user: None
- - tags: []
-
-## davidbordwell.net : home
- - [https://www.davidbordwell.net](https://www.davidbordwell.net)
- - date published: 2023-10-25T20:28:44.980999+00:00
- - user: None
- - tags: []
-
-## Dav Chana
- - [https://davinder.net](https://davinder.net)
- - date published: 2023-12-22T22:30:08.197155+00:00
- - user: None
- - tags: ['personal']
-
-## Dragon Ball Nao im. Akiry Toriyamy - polski serwis o DB, Z, GT, Kai, Super
- - [https://dbnao.net](https://dbnao.net)
- - date published: 2024-01-25T17:54:51+00:00
- - user: rumpel
- - tags: []
-
-## dcreager.net
- - [https://dcreager.net](https://dcreager.net)
- - date published: 2024-01-06T00:18:54.926806+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://ddclient.net](https://ddclient.net)
- - date published: 2024-04-08T19:27:49.638262+00:00
- - user: None
- - tags: ['self-host', 'server administration', 'networking']
-
-## None
- - [https://renegat0x0.ddns.net/apps/places/sources-json](https://renegat0x0.ddns.net/apps/places/sources-json)
- - date published: 2024-02-24T21:12:17.050206+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://renegat0x0.ddns.net](https://renegat0x0.ddns.net)
- - date published: 2023-10-25T08:52:16.878263+00:00
- - user: None
- - tags: ['personal']
-
-## Telnet BBS
- - [https://shsbbs.ddns.net](https://shsbbs.ddns.net)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Telnet BBS
- - [http://shsbbs.ddns.net](http://shsbbs.ddns.net)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dead Man's Switch
- - [https://www.deadmansswitch.net](https://www.deadmansswitch.net)
- - date published: 2024-03-24T08:33:23+00:00
- - user: None
- - tags: []
-
-## Retro cracking and art underground | Defacto2
- - [https://defacto2.net](https://defacto2.net)
- - date published: 2023-10-25T20:28:49.622968+00:00
- - user: None
- - tags: []
-
-## Defined Networking
- - [https://defined.net](https://defined.net)
- - date published: 2024-02-25T15:21:54.459839+00:00
  - user: None
  - tags: []
 

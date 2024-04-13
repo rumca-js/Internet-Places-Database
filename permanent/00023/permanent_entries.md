@@ -1,3 +1,207 @@
+## None
+ - [https://zenhack.net](https://zenhack.net)
+ - date published: 2024-01-09T03:37:11.826272+00:00
+ - user: None
+ - tags: []
+
+## Zen Backpacking Stoves - Home of the Alcohol Stove
+ - [http://zenstoves.net](http://zenstoves.net)
+ - date published: 2024-03-24T15:07:25.706870+00:00
+ - user: None
+ - tags: []
+
+## Zero Width Joiner (U+200D)
+ - [https://zerowidthjoiner.net](https://zerowidthjoiner.net)
+ - date published: 2023-10-25T09:26:38.037667+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dave Sieg Homepage
+ - [http://dave.zfxinc.net](http://dave.zfxinc.net)
+ - date published: 2023-10-25T20:41:31.277214+00:00
+ - user: None
+ - tags: []
+
+## Zimmers.Net by Bo Zimmerman
+ - [https://www.zimmers.net](https://www.zimmers.net)
+ - date published: 2024-01-09T03:37:27.436995+00:00
+ - user: None
+ - tags: []
+
+## zlib Home Site
+ - [https://zlib.net](https://zlib.net)
+ - date published: 2023-10-25T20:41:39.094360+00:00
+ - user: None
+ - tags: []
+
+## Zophar's Domain
+ - [https://www.zophar.net](https://www.zophar.net)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 2600.network Dialup Service
+ - [https://2600.network](https://2600.network)
+ - date published: 2024-03-17T19:47:14+00:00
+ - user: None
+ - tags: []
+
+## Asia News Network - Bringing Asia CloserAsia News Network – Bringing Asia Closer
+ - [https://asianews.network](https://asianews.network)
+ - date published: 2023-10-25T20:41:56.157112+00:00
+ - user: None
+ - tags: []
+
+## BNN Breaking - Headlines, World News
+ - [https://bnn.network](https://bnn.network)
+ - date published: 2023-11-06T17:00:05.252506+00:00
+ - user: None
+ - tags: []
+
+## Cosmos: The Internet of Blockchains
+ - [https://cosmos.network](https://cosmos.network)
+ - date published: 2018-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['blockchain']
+
+## EIC
+ - [https://eic.network](https://eic.network)
+ - date published: 2024-02-11T19:06:27+00:00
+ - user: rumpel
+ - tags: []
+
+## Gamer Network
+ - [https://gamer.network](https://gamer.network)
+ - date published: 2024-04-08T08:33:23.982906+00:00
+ - user: None
+ - tags: ['journalism company']
+
+## Pavel's blog about underlying Internet technologies
+ - [https://pavel.network](https://pavel.network)
+ - date published: 2023-10-25T20:41:58.656186+00:00
+ - user: None
+ - tags: []
+
+## Pretendo Network
+ - [https://pretendo.network](https://pretendo.network)
+ - date published: 2023-10-25T20:42:02.363661+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://a.pub.network](https://a.pub.network)
+ - date published: 2024-01-09T03:37:28.087712+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://d.pub.network](https://d.pub.network)
+ - date published: 2024-01-09T03:37:28.666003+00:00
+ - user: None
+ - tags: []
+
+## Cyberpunk Radio - Free 24/7 Live Streaming | Rekt FM
+ - [https://rekt.network](https://rekt.network)
+ - date published: 2023-10-25T20:42:05.141539+00:00
+ - user: None
+ - tags: ['audio streaming', 'radio']
+
+## The TTRPG network - a site dedicated to TTRPG discussion, memes, news, etc.
+ - [https://ttrpg.network](https://ttrpg.network)
+ - date published: 2024-03-04T00:00:00+00:00
+ - user: rumpel
+ - tags: ['ttrpg']
+
+## marimo | a next-generation Python notebook
+ - [https://marimo.new](https://marimo.new)
+ - date published: 2024-02-29T18:41:05.652368+00:00
+ - user: None
+ - tags: []
+
+## 68k.news: Headlines From the Future
+ - [https://68k.news](https://68k.news)
+ - date published: 2024-01-09T03:37:29.968899+00:00
+ - user: None
+ - tags: []
+
+## AI PANIC  | Nirit Weiss-Blatt | Substack
+ - [https://www.aipanic.news](https://www.aipanic.news)
+ - date published: 2023-11-18T01:49:17.235532+00:00
+ - user: None
+ - tags: ['substack', 'artificial intelligence']
+
+## From the Desk of Alicia Kennedy | Substack
+ - [https://www.aliciakennedy.news](https://www.aliciakennedy.news)
+ - date published: 2023-10-25T20:42:12.893955+00:00
+ - user: None
+ - tags: []
+
+## alnasr.news
+ - [https://en.alnasr.news](https://en.alnasr.news)
+ - date published: 2024-01-01T05:28:42.256100+00:00
+ - user: None
+ - tags: []
+
+## Apple News
+ - [https://apple.news](https://apple.news)
+ - date published: 2024-03-25T16:45:42.150123+00:00
+ - user: None
+ - tags: ['news']
+
+## Boulder Beat - Covering City Council and Sundry, with flair
+ - [https://boulderbeat.news](https://boulderbeat.news)
+ - date published: 2023-10-25T20:42:22.165490+00:00
+ - user: None
+ - tags: []
+
+## Brief
+ - [https://www.brief.news](https://www.brief.news)
+ - date published: 2023-11-03T16:52:58.968294+00:00
+ - user: None
+ - tags: []
+
+## Brookline.News
+ - [https://brookline.news](https://brookline.news)
+ - date published: 2024-02-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Citation Needed
+ - [https://citationneeded.news](https://citationneeded.news)
+ - date published: 2024-01-17T02:36:13.021258+00:00
+ - user: None
+ - tags: []
+
+## Citation Needed
+ - [https://www.citationneeded.news](https://www.citationneeded.news)
+ - date published: 2024-02-24T18:23:33.009331+00:00
+ - user: None
+ - tags: []
+
+## CNE.news
+ - [https://cne.news](https://cne.news)
+ - date published: 2023-10-25T10:13:15.031338+00:00
+ - user: None
+ - tags: []
+
+## The Free Press
+ - [https://www.commonsense.news](https://www.commonsense.news)
+ - date published: 2023-10-25T20:42:27.993523+00:00
+ - user: None
+ - tags: []
+
+## Crypto News - Latest Cryptocurrency News
+ - [https://crypto.news](https://crypto.news)
+ - date published: 2023-10-25T10:53:40.383937+00:00
+ - user: None
+ - tags: []
+
+## Newsroom | DoorDash
+ - [https://doordash.news](https://doordash.news)
+ - date published: 2023-10-25T20:42:33.072348+00:00
+ - user: None
+ - tags: []
+
 ## Global news, analysis and opinion on energy storage innovation and technologies - Energy-Storage.News
  - [https://www.energy-storage.news](https://www.energy-storage.news)
  - date published: 2023-10-25T20:42:39.410552+00:00
@@ -140,7 +344,7 @@
  - [https://www.sci.news](https://www.sci.news)
  - date published: 2023-10-25T10:11:45.286879+00:00
  - user: None
- - tags: []
+ - tags: ['astronomy', 'science']
 
 ## Home - Stonks News
  - [https://stonks.news](https://stonks.news)
@@ -461,16 +665,16 @@
  - tags: []
 
 ## Chris Eidhof
- - [http://chris.eidhof.nl](http://chris.eidhof.nl)
- - date published: 2024-02-25T15:44:49.625453+00:00
- - user: None
- - tags: []
-
-## Chris Eidhof
  - [https://chris.eidhof.nl](https://chris.eidhof.nl)
  - date published: 2023-10-25T08:54:21.499298+00:00
  - user: None
  - tags: ['personal']
+
+## Chris Eidhof
+ - [http://chris.eidhof.nl](http://chris.eidhof.nl)
+ - date published: 2024-02-25T15:44:49.625453+00:00
+ - user: None
+ - tags: []
 
 ## Besluiten waarmee je groeit in impact op mens en omgeving
  - [https://ernohannink.nl](https://ernohannink.nl)
@@ -2172,14 +2376,14 @@ marginalia.nu
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
@@ -2349,6 +2553,12 @@ marginalia.nu
  - [https://adoptingerlang.org](https://adoptingerlang.org)
  - date published: 2024-02-19T17:36:28.445535+00:00
  - user: None
+ - tags: []
+
+## American Economic Assossiation
+ - [https://pubs.aeaweb.org](https://pubs.aeaweb.org)
+ - date published: 2024-04-12T13:35:03+00:00
+ - user: rumpel
  - tags: []
 
 ## American Economic Association
@@ -3359,17 +3569,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Back2Roots
- - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
- - date published: 2023-11-02T10:36:12+00:00
- - user: rumpel
- - tags: []
-
 ## Wayback Machine
  - [https://web.archive.org](https://web.archive.org)
  - date published: 2023-10-25T09:29:18.969501+00:00
  - user: None
  - tags: ['internet archive']
+
+## Back2Roots
+ - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
+ - date published: 2023-11-02T10:36:12+00:00
+ - user: rumpel
+ - tags: []
 
 ## Archive-It - 
   
@@ -3844,13 +4054,13 @@ marginalia.nu
  - tags: ['web browser']
 
 ## BatMUD
- - [http://www.bat.org](http://www.bat.org)
+ - [https://www.bat.org](https://www.bat.org)
  - date published: 1990-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## BatMUD
- - [https://www.bat.org](https://www.bat.org)
+ - [http://www.bat.org](http://www.bat.org)
  - date published: 1990-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -4972,14 +5182,14 @@ marginalia.nu
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [https://blog.cerowrt.org](https://blog.cerowrt.org)
- - date published: 2023-10-25T21:06:57.314728+00:00
+ - [http://blog.cerowrt.org](http://blog.cerowrt.org)
+ - date published: 2024-02-25T15:50:51.524978+00:00
  - user: None
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [http://blog.cerowrt.org](http://blog.cerowrt.org)
- - date published: 2024-02-25T15:50:51.524978+00:00
+ - [https://blog.cerowrt.org](https://blog.cerowrt.org)
+ - date published: 2023-10-25T21:06:57.314728+00:00
  - user: None
  - tags: []
 
@@ -5800,214 +6010,4 @@ marginalia.nu
  - date published: 2023-10-25T21:10:37.446578+00:00
  - user: None
  - tags: []
-
-## CoWasm: Collaborative WebAssembly for Servers and Browsers
- - [https://cowasm.org](https://cowasm.org)
- - date published: 2023-10-25T21:10:37.899251+00:00
- - user: None
- - tags: []
-
-## Coyote Cartography
- - [https://micro.coyotetracks.org](https://micro.coyotetracks.org)
- - date published: 2023-10-25T21:10:44.276462+00:00
- - user: None
- - tags: []
-
-## CozoDB v0.7
- - [https://docs.cozodb.org](https://docs.cozodb.org)
- - date published: 2023-10-25T21:10:46.284600+00:00
- - user: None
- - tags: []
-
-## CPDP Computers, Privacy and Data Protection conference
- - [https://www.cpdpconferences.org](https://www.cpdpconferences.org)
- - date published: 2024-02-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Clear Physics
- - [https://www.cphysics.org](https://www.cphysics.org)
- - date published: 2023-10-25T21:10:48.724655+00:00
- - user: None
- - tags: []
-
-## Committee to Protect Journalists – Defending Journalists Worldwide. - Committee to Protect Journalists
- - [https://cpj.org](https://cpj.org)
- - date published: 2023-10-25T21:10:54.852143+00:00
- - user: None
- - tags: []
-
-## CppCon | The C++ Conference
- - [https://cppcon.org](https://cppcon.org)
- - date published: 2023-10-25T21:10:58.474003+00:00
- - user: None
- - tags: []
-
-## Colorado Public Radio - Colorado News You Trust
- - [https://www.cpr.org](https://www.cpr.org)
- - date published: 2023-12-02T17:30:47.028570+00:00
- - user: None
- - tags: []
-
-## First Transcontinental Railroad - Central Pacific Railroad Photographic History Museum
- - [https://cprr.org](https://cprr.org)
- - date published: 2024-01-09T03:38:43.521507+00:00
- - user: None
- - tags: []
-
-## Lists.pglaf.org redirect
- - [https://lists.cpunks.org](https://lists.cpunks.org)
- - date published: 2023-10-25T21:10:59.366823+00:00
- - user: None
- - tags: []
-
-## cr0 blog
- - [https://blog.cr0.org](https://blog.cr0.org)
- - date published: 2023-10-25T09:23:55.156396+00:00
- - user: None
- - tags: ['personal']
-
-## CrabLang
- - [https://crablang.org](https://crablang.org)
- - date published: 2023-10-25T21:11:04.727468+00:00
- - user: None
- - tags: []
-
-## Homepage - Creative Commons
- - [http://creativecommons.org](http://creativecommons.org)
- - date published: 2024-03-21T07:44:18.617797+00:00
- - user: None
- - tags: []
-
-## Homepage - Creative Commons
- - [https://creativecommons.org](https://creativecommons.org)
- - date published: 2023-12-11T16:22:52.219620+00:00
- - user: None
- - tags: []
-
-## Creative Commons license buttons
- - [https://i.creativecommons.org](https://i.creativecommons.org)
- - date published: 2024-01-09T03:38:46.932760+00:00
- - user: None
- - tags: []
-
-## https://www.creditslips.org
- - [https://www.creditslips.org](https://www.creditslips.org)
- - date published: 2024-01-02T06:40:10.678724+00:00
- - user: None
- - tags: []
-
-## Home - Crime Museum
- - [https://www.crimemuseum.org](https://www.crimemuseum.org)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Crooked Timber — Out of the crooked timber of humanity, no straight thing was ever made
- - [https://crookedtimber.org](https://crookedtimber.org)
- - date published: 2023-10-25T21:11:11.664607+00:00
- - user: None
- - tags: []
-
-## Home 2022
- - [https://www.crosslabs.org](https://www.crosslabs.org)
- - date published: 2023-10-25T21:11:13.410986+00:00
- - user: None
- - tags: []
-
-## Cryptomator - Free Cloud Encryption for Dropbox & Co
- - [https://cryptomator.org](https://cryptomator.org)
- - date published: 2024-02-23T08:47:16.229646+00:00
- - user: None
- - tags: []
-
-## Cryptome
- - [https://cryptome.org](https://cryptome.org)
- - date published: 2023-10-25T21:11:22.912914+00:00
- - user: None
- - tags: []
-
-## CryptPad Blog
- - [https://blog.cryptpad.org](https://blog.cryptpad.org)
- - date published: 2024-02-16T16:03:09.352093+00:00
- - user: None
- - tags: []
-
-## CryptPad.org
- - [https://cryptpad.org](https://cryptpad.org)
- - date published: 2024-04-08T19:27:39.829729+00:00
- - user: None
- - tags: ['self-host', 'office suite']
-
-## The Crystal Programming Language
- - [https://crystal-lang.org](https://crystal-lang.org)
- - date published: 2023-10-25T21:11:24.443668+00:00
- - user: None
- - tags: []
-
-## CSA-IOT - Connectivity Standards Alliance
- - [https://csa-iot.org](https://csa-iot.org)
- - date published: 2023-10-25T17:24:26.444239+00:00
- - user: None
- - tags: ['standards', 'zigbee']
-
-## https://beyondparallel.csis.org
- - [https://beyondparallel.csis.org](https://beyondparallel.csis.org)
- - date published: 2023-10-25T21:11:34.001427+00:00
- - user: None
- - tags: []
-
-## CSIS | Center for Strategic and International Studies
- - [https://www.csis.org](https://www.csis.org)
- - date published: 2023-10-25T21:11:40.174391+00:00
- - user: None
- - tags: []
-
-## C-SPAN.org | National Politics | History | Nonfiction Books
- - [https://www.c-span.org](https://www.c-span.org)
- - date published: 2023-11-14T19:59:38.588118+00:00
- - user: None
- - tags: []
-
-## Center for Science in the Public Interest
- - [https://www.cspinet.org](https://www.cspinet.org)
- - date published: 2024-03-04T19:41:04.092757+00:00
- - user: None
- - tags: []
-
-## CT State Police | CSP News | United States
- - [https://www.cspnews.org](https://www.cspnews.org)
- - date published: 2023-11-08T06:18:08.421428+00:00
- - user: None
- - tags: []
-
-## CSS Working Group Wiki    [CSS Working Group Wiki]
- - [https://wiki.csswg.org](https://wiki.csswg.org)
- - date published: 2023-11-21T15:09:54.779186+00:00
- - user: None
- - tags: []
-
-## CTAN: Comprehensive TeX Archive Network
- - [https://ctan.org](https://ctan.org)
- - date published: 2023-10-25T21:11:42.198733+00:00
- - user: None
- - tags: []
-
-## CTAN: Comprehensive TeX Archive Network
- - [https://www.ctan.org](https://www.ctan.org)
- - date published: 2024-02-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Regional Chapters
- - [https://global.ctbuh.org](https://global.ctbuh.org)
- - date published: 2024-01-24T20:55:23.515561+00:00
- - user: None
- - tags: []
-
-## CTFtime.org / All about CTF (Capture The Flag)
- - [https://ctftime.org](https://ctftime.org)
- - date published: 2023-12-06T11:59:51+00:00
- - user: rumpel
- - tags: ['hackers', 'cybersecurity', 'dark design']
 

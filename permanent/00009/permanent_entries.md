@@ -1,3 +1,75 @@
+## Get Good at Delivering Software™️
+ - [https://blog.mangoteque.com](https://blog.mangoteque.com)
+ - date published: 2023-10-25T15:55:14.397259+00:00
+ - user: None
+ - tags: []
+
+## Manifest AI
+ - [https://manifestai.com](https://manifestai.com)
+ - date published: 2024-01-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Manifold
+ - [http://manifold1.com](http://manifold1.com)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Manish R Jain
+ - [https://manishrjain.com](https://manishrjain.com)
+ - date published: 2023-10-25T15:55:17.260053+00:00
+ - user: None
+ - tags: []
+
+## Howie Mann - Startup Strategy
+ - [https://mannhowie.com](https://mannhowie.com)
+ - date published: 2023-10-25T15:55:21.301915+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [https://manscaped.com](https://manscaped.com)
+ - date published: 2024-02-24T09:54:44.689214+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [http://manscaped.com](http://manscaped.com)
+ - date published: 2024-03-28T18:12:57.255409+00:00
+ - user: None
+ - tags: []
+
+## Mantic Companion
+ - [https://companion.manticgames.com](https://companion.manticgames.com)
+ - date published: 2024-03-15T09:23:24+00:00
+ - user: rumpel
+ - tags: ['army list builder', 'kings of war', 'firefight', 'armada', 'deadzone']
+
+## Home
+ - [https://manticgames.com](https://manticgames.com)
+ - date published: 2024-03-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['wargames', 'tabletop games producer', 'kings of war', 'firefight', 'armada', 'deadzone']
+
+## Mantic Games
+ - [https://www.manticgames.com](https://www.manticgames.com)
+ - date published: 2024-02-07T00:00:00+00:00
+ - user: rumpel
+ - tags: ['wargames', 'kings of war', 'armada', 'tabletop game producer', 'firefight', 'miniatures', 'warhammer', 'deadzone']
+
+## Manticore Search
+ - [https://manticoresearch.com](https://manticoresearch.com)
+ - date published: 2023-10-25T15:55:23.433035+00:00
+ - user: None
+ - tags: []
+
+## Manuel Lamas
+ - [https://manuellamas.com](https://manuellamas.com)
+ - date published: 2023-11-29T19:26:31.952527+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Manu – I write
  - [https://manuelmoreale.com](https://manuelmoreale.com)
  - date published: 2023-10-25T15:55:29.728049+00:00
@@ -294,14 +366,14 @@
  - tags: []
 
 ## Mark Gukov – Software engineer 👨🏻‍💻 with over a decade of experience, primarily in e-commerce 🛒 and payments 💳
- - [https://markgukov.com](https://markgukov.com)
- - date published: 2024-01-11T07:51:55.652234+00:00
+ - [http://markgukov.com](http://markgukov.com)
+ - date published: 2015-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Mark Gukov – Software engineer 👨🏻‍💻 with over a decade of experience, primarily in e-commerce 🛒 and payments 💳
- - [http://markgukov.com](http://markgukov.com)
- - date published: 2015-01-01T00:00:00+00:00
+ - [https://markgukov.com](https://markgukov.com)
+ - date published: 2024-01-11T07:51:55.652234+00:00
  - user: None
  - tags: []
 
@@ -564,14 +636,14 @@
  - tags: ['disney', 'iron man', 'movie studio', 'captain america']
 
 ## vi360 photography/video/digital imaging
- - [http://www.marxdesign.com](http://www.marxdesign.com)
- - date published: 2023-12-22T21:24:02.738903+00:00
+ - [https://www.marxdesign.com](https://www.marxdesign.com)
+ - date published: 2023-12-22T00:41:17.350208+00:00
  - user: None
  - tags: []
 
 ## vi360 photography/video/digital imaging
- - [https://www.marxdesign.com](https://www.marxdesign.com)
- - date published: 2023-12-22T00:41:17.350208+00:00
+ - [http://www.marxdesign.com](http://www.marxdesign.com)
+ - date published: 2023-12-22T21:24:02.738903+00:00
  - user: None
  - tags: []
 
@@ -1188,14 +1260,14 @@
  - tags: []
 
 ## - Mazie Bones
- - [http://maziebones.com](http://maziebones.com)
- - date published: 2024-04-03T12:48:27.169760+00:00
+ - [https://maziebones.com](https://maziebones.com)
+ - date published: 2024-01-11T12:23:16.751882+00:00
  - user: None
  - tags: ['personal']
 
 ## - Mazie Bones
- - [https://maziebones.com](https://maziebones.com)
- - date published: 2024-01-11T12:23:16.751882+00:00
+ - [http://maziebones.com](http://maziebones.com)
+ - date published: 2024-04-03T12:48:27.169760+00:00
  - user: None
  - tags: ['personal']
 
@@ -2240,6 +2312,12 @@
 ## Andrei R | Mr Fireside – Medium
  - [https://mrfireside.medium.com](https://mrfireside.medium.com)
  - date published: 2023-10-25T10:21:55.362809+00:00
+ - user: None
+ - tags: []
+
+## Mark Risher – Medium
+ - [https://mrisher.medium.com](https://mrisher.medium.com)
+ - date published: 2024-04-12T14:44:06.887250+00:00
  - user: None
  - tags: []
 
@@ -3624,14 +3702,14 @@
  - tags: []
 
 ## miguelgrinberg.com
- - [http://blog.miguelgrinberg.com](http://blog.miguelgrinberg.com)
- - date published: 2024-02-26T14:54:29.319980+00:00
+ - [https://blog.miguelgrinberg.com](https://blog.miguelgrinberg.com)
+ - date published: 2023-10-25T16:03:44.577554+00:00
  - user: None
  - tags: []
 
 ## miguelgrinberg.com
- - [https://blog.miguelgrinberg.com](https://blog.miguelgrinberg.com)
- - date published: 2023-10-25T16:03:44.577554+00:00
+ - [http://blog.miguelgrinberg.com](http://blog.miguelgrinberg.com)
+ - date published: 2024-02-26T14:54:29.319980+00:00
  - user: None
  - tags: []
 
@@ -4081,16 +4159,16 @@
  - tags: []
 
 ## In the solution
- - [http://www.mitchellfriedman.com](http://www.mitchellfriedman.com)
- - date published: 2024-04-03T12:42:45.432338+00:00
- - user: None
- - tags: ['personal']
-
-## In the solution
  - [https://www.mitchellfriedman.com](https://www.mitchellfriedman.com)
  - date published: 2024-01-08T15:37:32.858228+00:00
  - user: None
  - tags: []
+
+## In the solution
+ - [http://www.mitchellfriedman.com](http://www.mitchellfriedman.com)
+ - date published: 2024-04-03T12:42:45.432338+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Mitchell Hashimoto
  - [https://mitchellh.com](https://mitchellh.com)
@@ -4369,14 +4447,14 @@
  - tags: []
 
 ## Modernizr: the feature detection library for HTML5/CSS3
- - [http://modernizr.com](http://modernizr.com)
- - date published: 2024-02-26T09:38:41.875406+00:00
+ - [https://modernizr.com](https://modernizr.com)
+ - date published: 2024-01-09T02:44:07.641831+00:00
  - user: None
  - tags: []
 
 ## Modernizr: the feature detection library for HTML5/CSS3
- - [https://modernizr.com](https://modernizr.com)
- - date published: 2024-01-09T02:44:07.641831+00:00
+ - [http://modernizr.com](http://modernizr.com)
+ - date published: 2024-02-26T09:38:41.875406+00:00
  - user: None
  - tags: []
 
@@ -4494,17 +4572,17 @@
  - user: None
  - tags: []
 
-## Mona Haraty
- - [http://www.monaharaty.com](http://www.monaharaty.com)
- - date published: 2016-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Belmont Ammunition | Belmont Ammunition
  - [https://www.monaharaty.com](https://www.monaharaty.com)
  - date published: 2023-12-17T20:59:14.047846+00:00
  - user: None
  - tags: ['personal']
+
+## Mona Haraty
+ - [http://www.monaharaty.com](http://www.monaharaty.com)
+ - date published: 2016-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## George Monbiot
  - [https://www.monbiot.com](https://www.monbiot.com)
@@ -5412,6 +5490,12 @@
  - user: None
  - tags: []
 
+## Max Stoiber (@mxstbr) - JavaScript Engineer
+ - [https://mxstbr.com](https://mxstbr.com)
+ - date published: 2024-04-12T16:58:35.952257+00:00
+ - user: None
+ - tags: ['personal']
+
 ## My 90's TV!
  - [https://my90stv.com](https://my90stv.com)
  - date published: 2023-10-25T16:09:42.269232+00:00
@@ -5551,14 +5635,14 @@
  - tags: []
 
 ## My Proactive Life – One Man's desire to change, one step at a time
- - [http://myproactivelife.com](http://myproactivelife.com)
- - date published: 2024-04-03T06:25:14.458379+00:00
+ - [https://myproactivelife.com](https://myproactivelife.com)
+ - date published: 2024-01-09T02:44:35.810001+00:00
  - user: None
  - tags: ['personal']
 
 ## My Proactive Life – One Man's desire to change, one step at a time
- - [https://myproactivelife.com](https://myproactivelife.com)
- - date published: 2024-01-09T02:44:35.810001+00:00
+ - [http://myproactivelife.com](http://myproactivelife.com)
+ - date published: 2024-04-03T06:25:14.458379+00:00
  - user: None
  - tags: ['personal']
 
@@ -5913,90 +5997,6 @@
 ## Nathan Peck
  - [https://nathanpeck.com](https://nathanpeck.com)
  - date published: 2023-10-25T16:11:12.511630+00:00
- - user: None
- - tags: []
-
-## Writing
- - [https://nathansnelgrove.com](https://nathansnelgrove.com)
- - date published: 2024-01-20T12:59:47.469924+00:00
- - user: None
- - tags: []
-
-## Nathan Upchurch
- - [https://nathanupchurch.com](https://nathanupchurch.com)
- - date published: 2024-01-11T12:23:08.483628+00:00
- - user: None
- - tags: []
-
-## Nat Henry
- - [https://nathenry.com](https://nathenry.com)
- - date published: 2023-10-25T16:11:15.803624+00:00
- - user: None
- - tags: []
-
-## Home | National Affairs
- - [https://nationalaffairs.com](https://nationalaffairs.com)
- - date published: 2023-10-25T16:11:19.497717+00:00
- - user: None
- - tags: []
-
-## Home | National Affairs
- - [https://www.nationalaffairs.com](https://www.nationalaffairs.com)
- - date published: 2023-10-25T16:11:25.921422+00:00
- - user: None
- - tags: []
-
-## National File
- - [https://nationalfile.com](https://nationalfile.com)
- - date published: 2023-10-25T16:11:33.651688+00:00
- - user: None
- - tags: []
-
-## https://pmdvod.nationalgeographic.com
- - [https://pmdvod.nationalgeographic.com](https://pmdvod.nationalgeographic.com)
- - date published: 2024-01-09T02:44:42.172690+00:00
- - user: None
- - tags: []
-
-## National Geographic
- - [https://www.nationalgeographic.com](https://www.nationalgeographic.com)
- - date published: 2024-02-05T00:00:00+00:00
- - user: None
- - tags: ['nature', 'culture', 'articles', 'science']
-
-## National Grid
- - [https://www.nationalgrid.com](https://www.nationalgrid.com)
- - date published: 2023-12-29T17:09:33.416207+00:00
- - user: None
- - tags: []
-
-## National Journal
- - [https://www.nationaljournal.com](https://www.nationaljournal.com)
- - date published: 2023-11-10T19:58:41.389822+00:00
- - user: None
- - tags: []
-
-## Canada's National Observer: News & Analysis
- - [https://www.nationalobserver.com](https://www.nationalobserver.com)
- - date published: 2023-10-25T16:11:50.828726+00:00
- - user: None
- - tags: ['canada news']
-
-## Home | The National Post Home Page | National Post
- - [https://nationalpost.com](https://nationalpost.com)
- - date published: 2023-10-25T16:12:03.903762+00:00
- - user: None
- - tags: ['news']
-
-## National Review: Conservative News, Opinion, Politics, Policy, & Current Events
- - [https://www.nationalreview.com](https://www.nationalreview.com)
- - date published: 2023-10-25T10:26:54.464697+00:00
- - user: None
- - tags: []
-
-## Nation World News | Get Latest Breaking News Update
- - [https://nationworldnews.com](https://nationworldnews.com)
- - date published: 2023-10-25T16:12:09.375654+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,75 @@
+## JPMARTIN | Jose Paul Martin - Investor, Trader & Author
+ - [https://jpmartin.com](https://jpmartin.com)
+ - date published: 2024-01-26T15:29:08.643538+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://am.jpmorgan.com](https://am.jpmorgan.com)
+ - date published: 2023-10-25T15:32:15.746314+00:00
+ - user: None
+ - tags: []
+
+## Jiri Pospisil
+ - [https://jpospisil.com](https://jpospisil.com)
+ - date published: 2023-12-30T14:51:41.678761+00:00
+ - user: None
+ - tags: []
+
+## Middle East and Israel News | All Breaking News | The Jerusalem Post
+ - [https://jpost.com](https://jpost.com)
+ - date published: 2023-10-30T13:20:42.742067+00:00
+ - user: None
+ - tags: []
+
+## Middle East and Israel News | All Breaking News | The Jerusalem Post
+ - [https://m.jpost.com](https://m.jpost.com)
+ - date published: 2023-10-25T11:47:33.957970+00:00
+ - user: None
+ - tags: []
+
+## Middle East and Israel News | All Breaking News | The Jerusalem Post
+ - [https://www.jpost.com](https://www.jpost.com)
+ - date published: 2023-10-25T10:42:19.438893+00:00
+ - user: None
+ - tags: ['israel news']
+
+## Jeff’s Place v5
+ - [https://www.jpr62.com](https://www.jpr62.com)
+ - date published: 2023-12-11T19:31:19.195049+00:00
+ - user: None
+ - tags: []
+
+## Official jQuery Blog | New Wave Javascript
+ - [https://blog.jquery.com](https://blog.jquery.com)
+ - date published: 2023-10-25T15:32:22.937325+00:00
+ - user: None
+ - tags: []
+
+## jQuery CDN
+ - [https://code.jquery.com](https://code.jquery.com)
+ - date published: 2023-12-11T18:29:47.227941+00:00
+ - user: None
+ - tags: []
+
+## jQuery
+ - [https://jquery.com](https://jquery.com)
+ - date published: 2023-11-01T08:42:23.287841+00:00
+ - user: None
+ - tags: []
+
+## J.Q. Whitcomb – trumpet
+ - [https://jqwhitcomb.com](https://jqwhitcomb.com)
+ - date published: 2024-01-20T13:00:25.112541+00:00
+ - user: None
+ - tags: []
+
+## GTT Radio
+ - [https://gtt.jrjrtech.com](https://gtt.jrjrtech.com)
+ - date published: 2024-02-15T22:12:54.989949+00:00
+ - user: None
+ - tags: ['demoscene']
+
 ## James Sinclair
  - [https://jrsinclair.com](https://jrsinclair.com)
  - date published: 2023-10-25T15:32:26.809287+00:00
@@ -2388,14 +2460,14 @@
  - tags: ['personal']
 
 ## Kyle Halladay - Home Page
- - [https://kylehalladay.com](https://kylehalladay.com)
- - date published: 2024-01-09T02:41:26.783231+00:00
+ - [http://kylehalladay.com](http://kylehalladay.com)
+ - date published: 2021-07-14T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Kyle Halladay - Home Page
- - [http://kylehalladay.com](http://kylehalladay.com)
- - date published: 2021-07-14T00:00:00+00:00
+ - [https://kylehalladay.com](https://kylehalladay.com)
+ - date published: 2024-01-09T02:41:26.783231+00:00
  - user: None
  - tags: []
 
@@ -2466,16 +2538,16 @@
  - tags: []
 
 ## La Femme | Official Website
- - [https://www.lafemmemusic.com](https://www.lafemmemusic.com)
- - date published: 2024-01-19T00:00:00+00:00
- - user: rumpel
- - tags: ['music band']
-
-## La Femme | Official Website
  - [http://www.lafemmemusic.com](http://www.lafemmemusic.com)
  - date published: 2024-01-19T00:00:00+00:00
  - user: None
  - tags: []
+
+## La Femme | Official Website
+ - [https://www.lafemmemusic.com](https://www.lafemmemusic.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['music band']
 
 ## Lagged - Free Online Games on Lagged.com
  - [https://lagged.com](https://lagged.com)
@@ -3265,13 +3337,13 @@ Chamber Music, Symphony
  - tags: ['entertainment news', 'movie news']
 
 ## Legends of Kallisti
- - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
+ - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Legends of Kallisti
- - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
+ - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
@@ -3421,14 +3493,14 @@ Chamber Music, Symphony
  - tags: ['personal']
 
 ## About Me - Leo Alexander Glowacki
- - [https://leoglowacki.com](https://leoglowacki.com)
- - date published: 2024-01-29T23:27:30.561916+00:00
+ - [http://leoglowacki.com](http://leoglowacki.com)
+ - date published: 2024-04-03T06:27:09.410241+00:00
  - user: None
  - tags: ['personal']
 
 ## About Me - Leo Alexander Glowacki
- - [http://leoglowacki.com](http://leoglowacki.com)
- - date published: 2024-04-03T06:27:09.410241+00:00
+ - [https://leoglowacki.com](https://leoglowacki.com)
+ - date published: 2024-01-29T23:27:30.561916+00:00
  - user: None
  - tags: ['personal']
 
@@ -5696,13 +5768,13 @@ diversions.
  - tags: []
 
 ## A blog by @makaroni4
- - [http://makaroni4.com](http://makaroni4.com)
+ - [https://makaroni4.com](https://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## A blog by @makaroni4
- - [https://makaroni4.com](https://makaroni4.com)
+ - [http://makaroni4.com](http://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -5928,76 +6000,4 @@ diversions.
  - date published: 2023-12-19T00:00:00+00:00
  - user: rumpel
  - tags: ['music band']
-
-## Get Good at Delivering Software™️
- - [https://blog.mangoteque.com](https://blog.mangoteque.com)
- - date published: 2023-10-25T15:55:14.397259+00:00
- - user: None
- - tags: []
-
-## Manifest AI
- - [https://manifestai.com](https://manifestai.com)
- - date published: 2024-01-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## Manifold
- - [http://manifold1.com](http://manifold1.com)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Manish R Jain
- - [https://manishrjain.com](https://manishrjain.com)
- - date published: 2023-10-25T15:55:17.260053+00:00
- - user: None
- - tags: []
-
-## Howie Mann - Startup Strategy
- - [https://mannhowie.com](https://mannhowie.com)
- - date published: 2023-10-25T15:55:21.301915+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://manscaped.com](https://manscaped.com)
- - date published: 2024-02-24T09:54:44.689214+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [http://manscaped.com](http://manscaped.com)
- - date published: 2024-03-28T18:12:57.255409+00:00
- - user: None
- - tags: []
-
-## Mantic Companion
- - [https://companion.manticgames.com](https://companion.manticgames.com)
- - date published: 2024-03-15T09:23:24+00:00
- - user: rumpel
- - tags: ['army list builder', 'kings of war', 'firefight', 'armada', 'deadzone']
-
-## Home
- - [https://manticgames.com](https://manticgames.com)
- - date published: 2024-03-09T00:00:00+00:00
- - user: rumpel
- - tags: ['wargames', 'tabletop games producer', 'kings of war', 'firefight', 'armada', 'deadzone']
-
-## Mantic Games
- - [https://www.manticgames.com](https://www.manticgames.com)
- - date published: 2024-02-07T00:00:00+00:00
- - user: rumpel
- - tags: ['wargames', 'kings of war', 'armada', 'tabletop game producer', 'firefight', 'miniatures', 'warhammer', 'deadzone']
-
-## Manticore Search
- - [https://manticoresearch.com](https://manticoresearch.com)
- - date published: 2023-10-25T15:55:23.433035+00:00
- - user: None
- - tags: []
-
-## Manuel Lamas
- - [https://manuellamas.com](https://manuellamas.com)
- - date published: 2023-11-29T19:26:31.952527+00:00
- - user: None
- - tags: ['personal']
 

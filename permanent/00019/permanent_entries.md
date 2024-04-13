@@ -1,3 +1,153 @@
+## https://lyra.horse
+ - [https://lyra.horse](https://lyra.horse)
+ - date published: 2024-01-06T10:04:23.683116+00:00
+ - user: None
+ - tags: []
+
+## the uncolouring book
+ - [https://lines.potato.horse](https://lines.potato.horse)
+ - date published: 2023-10-25T19:28:03.445035+00:00
+ - user: None
+ - tags: []
+
+## Sheep.Horse - The Blog of Andrew Stephens
+ - [https://sheep.horse](https://sheep.horse)
+ - date published: 2023-10-25T19:28:04.559800+00:00
+ - user: None
+ - tags: []
+
+## Gnet is the fastest networking framework in Go
+ - [https://gnet.host](https://gnet.host)
+ - date published: 2024-03-14T19:14:12+00:00
+ - user: None
+ - tags: []
+
+## Financial Services - Just another Oxygen Design Sets site
+ - [https://financial.oxy.host](https://financial.oxy.host)
+ - date published: 2023-12-11T18:58:45.988317+00:00
+ - user: None
+ - tags: []
+
+## Random Bits
+ - [https://blog.randombits.host](https://blog.randombits.host)
+ - date published: 2023-10-25T19:28:05.304724+00:00
+ - user: None
+ - tags: []
+
+## Allium House
+ - [https://allium.house](https://allium.house)
+ - date published: 2024-03-01T10:14:49.687453+00:00
+ - user: None
+ - tags: ['personal']
+
+## Runhouse | Programmable Remote Compute and Data
+ - [https://www.run.house](https://www.run.house)
+ - date published: 2023-10-25T19:28:07.838403+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://abby.how](https://abby.how)
+ - date published: 2024-01-09T03:31:50.062520+00:00
+ - user: None
+ - tags: []
+
+## Is It Toxic To? | Check if a plant is toxic to an animal
+ - [https://iitt.chester.how](https://iitt.chester.how)
+ - date published: 2024-01-09T03:31:51.181707+00:00
+ - user: None
+ - tags: []
+
+## Decentralized publishing for the web
+ - [https://www.nostr.how](https://www.nostr.how)
+ - date published: 2023-10-25T19:28:09.438206+00:00
+ - user: None
+ - tags: []
+
+## this.how index
+ - [https://this.how](https://this.how)
+ - date published: 2023-10-25T19:28:11.834590+00:00
+ - user: None
+ - tags: []
+
+## %DOC_TITLE%Ivy
+ - [https://deep-ivy-ltd.breezy.hr](https://deep-ivy-ltd.breezy.hr)
+ - date published: 2023-10-25T19:28:13.386126+00:00
+ - user: None
+ - tags: []
+
+## Grow With Us
+ - [https://givecampus.breezy.hr](https://givecampus.breezy.hr)
+ - date published: 2024-02-08T18:15:48.045927+00:00
+ - user: None
+ - tags: []
+
+## %DOC_TITLE%HiOperator
+ - [https://hioperator.breezy.hr](https://hioperator.breezy.hr)
+ - date published: 2023-10-25T19:28:14.989325+00:00
+ - user: None
+ - tags: []
+
+## %DOC_TITLE%Manara
+ - [https://manara.breezy.hr](https://manara.breezy.hr)
+ - date published: 2023-10-25T19:28:16.673859+00:00
+ - user: None
+ - tags: []
+
+## %DOC_TITLE%Optery
+ - [https://optery.breezy.hr](https://optery.breezy.hr)
+ - date published: 2023-10-25T19:28:18.453398+00:00
+ - user: None
+ - tags: []
+
+## Osobna vozila | Gospodarska vozila | Citroën
+ - [https://www.citroen.hr](https://www.citroen.hr)
+ - date published: 2023-12-11T16:02:20.579873+00:00
+ - user: None
+ - tags: []
+
+## Emisije na zahtjev - HRT
+ - [https://enz.hrt.hr](https://enz.hrt.hr)
+ - date published: 2024-02-22T21:01:22.502514+00:00
+ - user: None
+ - tags: []
+
+## Hrvatski radio - HRT
+ - [https://radio.hrt.hr](https://radio.hrt.hr)
+ - date published: 2024-01-04T14:59:28.124402+00:00
+ - user: None
+ - tags: []
+
+## Početna
+ - [https://n1info.hr](https://n1info.hr)
+ - date published: 2023-11-07T20:56:46.124743+00:00
+ - user: None
+ - tags: []
+
+## Making software better without sacrificing user experience.
+ - [https://bt.ht](https://bt.ht)
+ - date published: 2023-10-25T19:28:21.149097+00:00
+ - user: None
+ - tags: []
+
+## Shinobi Website | A text-based, RSS focused blogging "system"
+ - [https://shinobi.bt.ht](https://shinobi.bt.ht)
+ - date published: 2023-10-25T19:28:22.061141+00:00
+ - user: None
+ - tags: []
+
+## GitHoot: blogging as simple as creating a GitHub gist
+ - [https://git.ht](https://git.ht)
+ - date published: 2023-10-25T19:28:22.898103+00:00
+ - user: None
+ - tags: []
+
+## linkhut
+ - [https://ln.ht](https://ln.ht)
+ - date published: 2024-01-10T05:07:53.720715+00:00
+ - user: None
+ - tags: []
+
 ## Generative Voice AI News and Research by PlayHT
  - [https://news.play.ht](https://news.play.ht)
  - date published: 2023-10-25T19:28:24.482195+00:00
@@ -105,6 +255,12 @@
  - date published: 2023-12-18T10:02:11.561136+00:00
  - user: None
  - tags: []
+
+## Tibor Szász
+ - [https://tibor.szasz.hu](https://tibor.szasz.hu)
+ - date published: 2024-04-12T18:03:41.267303+00:00
+ - user: None
+ - tags: ['personal']
 
 ## telex
  - [https://telex.hu](https://telex.hu)
@@ -1302,14 +1458,14 @@
  - tags: []
 
 ## Erthalion
- - [http://erthalion.info](http://erthalion.info)
- - date published: 2024-02-25T15:21:46.039163+00:00
+ - [https://erthalion.info](https://erthalion.info)
+ - date published: 2023-10-25T19:33:09.948190+00:00
  - user: None
  - tags: []
 
 ## Erthalion
- - [https://erthalion.info](https://erthalion.info)
- - date published: 2023-10-25T19:33:09.948190+00:00
+ - [http://erthalion.info](http://erthalion.info)
+ - date published: 2024-02-25T15:21:46.039163+00:00
  - user: None
  - tags: []
 
@@ -1955,6 +2111,12 @@
  - user: None
  - tags: []
 
+## augment
+ - [https://www.augment.ink](https://www.augment.ink)
+ - date published: 2024-04-12T04:35:49.566329+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Capsule | Share a link, tell a story.
  - [https://www.capsulel.ink](https://www.capsulel.ink)
  - date published: 2023-10-27T11:57:16.396518+00:00
@@ -2226,14 +2388,14 @@
  - tags: []
 
 ## American Express Technology
- - [http://americanexpress.io](http://americanexpress.io)
- - date published: 2024-02-25T14:44:25.925967+00:00
+ - [https://americanexpress.io](https://americanexpress.io)
+ - date published: 2023-10-25T19:37:33.148951+00:00
  - user: None
  - tags: []
 
 ## American Express Technology
- - [https://americanexpress.io](https://americanexpress.io)
- - date published: 2023-10-25T19:37:33.148951+00:00
+ - [http://americanexpress.io](http://americanexpress.io)
+ - date published: 2024-02-25T14:44:25.925967+00:00
  - user: None
  - tags: []
 
@@ -3292,6 +3454,12 @@
  - date published: 2023-11-29T17:06:29.812448+00:00
  - user: None
  - tags: ['personal']
+
+## Dronedesk - drone operations management and flight planning
+ - [https://dronedesk.io](https://dronedesk.io)
+ - date published: 2024-04-12T14:45:45.897524+00:00
+ - user: None
+ - tags: []
 
 ## Dropbase | Build internal apps with SQL and Python in minutes
  - [https://www.dropbase.io](https://www.dropbase.io)
@@ -5408,16 +5576,16 @@ through Composable Diffusion
  - tags: []
 
 ## Andrej Karpathy blog
- - [https://karpathy.github.io](https://karpathy.github.io)
- - date published: 2023-10-25T19:47:36.949565+00:00
- - user: None
- - tags: []
-
-## Andrej Karpathy blog
  - [http://karpathy.github.io](http://karpathy.github.io)
  - date published: 2024-04-09T14:16:33.676719+00:00
  - user: None
  - tags: ['personal']
+
+## Andrej Karpathy blog
+ - [https://karpathy.github.io](https://karpathy.github.io)
+ - date published: 2023-10-25T19:47:36.949565+00:00
+ - user: None
+ - tags: []
 
 ## Konstantinos Chousos
  - [https://kchousos.github.io](https://kchousos.github.io)
@@ -5830,174 +5998,6 @@ through Composable Diffusion
 ## Make Source Not Code!
  - [https://makesourcenotcode.github.io](https://makesourcenotcode.github.io)
  - date published: 2023-10-25T19:49:19.134099+00:00
- - user: None
- - tags: []
-
-## Marc Khoury
- - [https://marckhoury.github.io](https://marckhoury.github.io)
- - date published: 2023-10-25T19:49:20.531403+00:00
- - user: None
- - tags: []
-
-## Clearly Erroneous
- - [https://martinapugliese.github.io](https://martinapugliese.github.io)
- - date published: 2024-01-13T09:37:18.480108+00:00
- - user: None
- - tags: []
-
-## matklad
- - [https://matklad.github.io](https://matklad.github.io)
- - date published: 2023-10-25T08:59:11.538366+00:00
- - user: None
- - tags: ['personal']
-
-## max-bittker
- - [https://maxbittker.github.io](https://maxbittker.github.io)
- - date published: 2023-10-25T19:49:22.435813+00:00
- - user: None
- - tags: []
-
-## Max Halford
- - [https://maxhalford.github.io](https://maxhalford.github.io)
- - date published: 2023-10-25T19:49:24.332431+00:00
- - user: None
- - tags: []
-
-## TL;DR
- - [https://mazzzystar.github.io](https://mazzzystar.github.io)
- - date published: 2023-10-25T19:49:26.116164+00:00
- - user: None
- - tags: []
-
-## Michael Chang
- - [https://mbchang.github.io](https://mbchang.github.io)
- - date published: 2007-02-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## About me - Matthew N. Bernstein
- - [https://mbernste.github.io](https://mbernste.github.io)
- - date published: 2023-10-25T19:49:29.242200+00:00
- - user: None
- - tags: []
-
-## Main Page | mcraiha.github.io
- - [https://mcraiha.github.io](https://mcraiha.github.io)
- - date published: 2023-10-25T19:49:31.004901+00:00
- - user: None
- - tags: []
-
-## Materials Design and Informatics Group
- - [https://mdi-group.github.io](https://mdi-group.github.io)
- - date published: 2024-02-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## memN0ps | Home
- - [https://memn0ps.github.io](https://memn0ps.github.io)
- - date published: 2023-10-25T19:49:32.657873+00:00
- - user: None
- - tags: []
-
-## Faizan Muhammad
- - [https://mfaizan.github.io](https://mfaizan.github.io)
- - date published: 2023-10-25T19:49:34.141989+00:00
- - user: None
- - tags: []
-
-## mfkl
- - [https://mfkl.github.io](https://mfkl.github.io)
- - date published: 2024-01-12T07:51:25.057588+00:00
- - user: None
- - tags: []
-
-## Micro - Home
- - [https://micro-editor.github.io](https://micro-editor.github.io)
- - date published: 2023-10-25T19:49:35.768499+00:00
- - user: None
- - tags: []
-
-## Microsoft on GitHub
- - [https://microsoft.github.io](https://microsoft.github.io)
- - date published: 2023-10-25T19:49:36.893262+00:00
- - user: None
- - tags: []
-
-## Åsbjørnsson-Stensland
- - [https://mikaei.github.io](https://mikaei.github.io)
- - date published: 2023-10-25T08:59:12.188442+00:00
- - user: None
- - tags: ['personal']
-
-## Mindustry: Open-source automation tower defense game
- - [https://mindustrygame.github.io](https://mindustrygame.github.io)
- - date published: 2023-12-22T09:32:07+00:00
- - user: None
- - tags: []
-
-## MinD-Vis
- - [https://mind-vis.github.io](https://mind-vis.github.io)
- - date published: 2023-10-25T19:49:38.256010+00:00
- - user: None
- - tags: []
-
-## Minigpt-4
- - [https://minigpt-4.github.io](https://minigpt-4.github.io)
- - date published: 2023-10-25T19:49:44.882724+00:00
- - user: None
- - tags: []
-
-## Page Redirection
- - [https://mister-devel.github.io](https://mister-devel.github.io)
- - date published: 2023-10-25T19:49:51.049608+00:00
- - user: None
- - tags: []
-
-## Mist
- - [https://mist-project.github.io](https://mist-project.github.io)
- - date published: 2023-10-25T19:49:50.638949+00:00
- - user: None
- - tags: []
-
-## None
- - [https://mitenmit.github.io](https://mitenmit.github.io)
- - date published: 2024-02-02T08:24:44.653241+00:00
- - user: None
- - tags: []
-
-## Max Kreminski
- - [https://mkremins.github.io](https://mkremins.github.io)
- - date published: 2024-01-31T06:27:13.874780+00:00
- - user: None
- - tags: []
-
-## Repositories
- - [https://mlochbaum.github.io](https://mlochbaum.github.io)
- - date published: 2023-10-25T19:49:51.923737+00:00
- - user: None
- - tags: []
-
-## Visual Explanations of Core Machine Learning Concepts
- - [https://mlu-explain.github.io](https://mlu-explain.github.io)
- - date published: 2024-03-03T12:29:40+00:00
- - user: None
- - tags: []
-
-## Sirius Business
- - [https://mmalmi.github.io](https://mmalmi.github.io)
- - date published: 2021-09-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## home
- - [https://mnky9800n.github.io](https://mnky9800n.github.io)
- - date published: 2023-10-25T08:49:23.910775+00:00
- - user: None
- - tags: ['personal']
-
-## Mnpn
- - [https://mnpn.github.io](https://mnpn.github.io)
- - date published: 2023-10-25T19:49:53.566169+00:00
  - user: None
  - tags: []
 

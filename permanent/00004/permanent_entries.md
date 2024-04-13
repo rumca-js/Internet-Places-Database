@@ -1,3 +1,33 @@
+## Chidi Williams
+ - [https://chidiwilliams.com](https://chidiwilliams.com)
+ - date published: 2023-10-25T09:19:46.454066+00:00
+ - user: None
+ - tags: ['personal']
+
+## ChillRain
+ - [https://i.chillrain.com](https://i.chillrain.com)
+ - date published: 2023-12-19T04:58:40.083586+00:00
+ - user: None
+ - tags: []
+
+## Chime
+ - [https://www.chimehq.com](https://www.chimehq.com)
+ - date published: 2023-10-25T13:22:06.549511+00:00
+ - user: None
+ - tags: []
+
+## China Books Review
+ - [https://chinabooksreview.com](https://chinabooksreview.com)
+ - date published: 2024-03-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ChinaCarHistory
+ - [https://chinacarhistory.com](https://chinacarhistory.com)
+ - date published: 2023-10-25T13:22:13.022336+00:00
+ - user: None
+ - tags: []
+
 ## Chips and Cheese – The Devil is in the Details
  - [https://chipsandcheese.com](https://chipsandcheese.com)
  - date published: 2023-10-25T09:32:20.539268+00:00
@@ -341,14 +371,14 @@
  - tags: ['personal']
 
 ## Christoph Gruber
- - [http://www.christophgruber.com](http://www.christophgruber.com)
- - date published: 2024-04-03T06:25:56.066461+00:00
+ - [https://www.christophgruber.com](https://www.christophgruber.com)
+ - date published: 2024-01-17T04:43:22.299793+00:00
  - user: None
  - tags: ['personal']
 
 ## Christoph Gruber
- - [https://www.christophgruber.com](https://www.christophgruber.com)
- - date published: 2024-01-17T04:43:22.299793+00:00
+ - [http://www.christophgruber.com](http://www.christophgruber.com)
+ - date published: 2024-04-03T06:25:56.066461+00:00
  - user: None
  - tags: ['personal']
 
@@ -359,16 +389,16 @@
  - tags: []
 
 ## Blog | Chris Warrick
- - [https://chriswarrick.com](https://chriswarrick.com)
- - date published: 2023-10-25T09:19:47.812882+00:00
- - user: None
- - tags: ['personal']
-
-## Blog | Chris Warrick
  - [http://chriswarrick.com](http://chriswarrick.com)
  - date published: 2024-02-25T15:45:10.545891+00:00
  - user: None
  - tags: []
+
+## Blog | Chris Warrick
+ - [https://chriswarrick.com](https://chriswarrick.com)
+ - date published: 2023-10-25T09:19:47.812882+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Chris Zacharias
  - [https://blog.chriszacharias.com](https://blog.chriszacharias.com)
@@ -505,6 +535,12 @@
 ## CIO Influence | IT, Cloud Computing and InfoSec news
  - [https://cioinfluence.com](https://cioinfluence.com)
  - date published: 2023-10-25T13:23:43.397807+00:00
+ - user: None
+ - tags: []
+
+## Cipherleaks is the first demonstrated attack against AMD SEV-SNP
+ - [https://cipherleaks.com](https://cipherleaks.com)
+ - date published: 2024-04-12T19:02:08+00:00
  - user: None
  - tags: []
 
@@ -2818,14 +2854,14 @@
  - tags: ['cybersecurity']
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [http://craphound.com](http://craphound.com)
- - date published: 2024-02-25T19:26:24.229621+00:00
+ - [https://craphound.com](https://craphound.com)
+ - date published: 2023-11-28T07:36:32+00:00
  - user: None
  - tags: []
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [https://craphound.com](https://craphound.com)
- - date published: 2023-11-28T07:36:32+00:00
+ - [http://craphound.com](http://craphound.com)
+ - date published: 2024-02-25T19:26:24.229621+00:00
  - user: None
  - tags: []
 
@@ -3746,7 +3782,7 @@
  - [https://www.dagusa.com](https://www.dagusa.com)
  - date published: 2023-10-25T13:41:15.121541+00:00
  - user: None
- - tags: []
+ - tags: ['wtf', 'funny']
 
 ## DailyAI | Exploring the World of Artificial Intelligence
  - [https://dailyai.com](https://dailyai.com)
@@ -4072,17 +4108,17 @@
  - user: None
  - tags: []
 
-## Daniel Hoang
- - [http://danielhoang.com](http://danielhoang.com)
- - date published: 2024-04-03T06:29:29.746239+00:00
- - user: None
- - tags: ['personal']
-
 ## Daniel Hoang – Experienced management consultant x creative. Xennial bridging analog with digital at the intersection of humanity and machine. Scrappy, creative, and fast.
  - [https://danielhoang.com](https://danielhoang.com)
  - date published: 2023-12-12T09:24:31.582869+00:00
  - user: None
  - tags: []
+
+## Daniel Hoang
+ - [http://danielhoang.com](http://danielhoang.com)
+ - date published: 2024-04-03T06:29:29.746239+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Daniel Hoang
  - [https://www.danielhoang.com](https://www.danielhoang.com)
@@ -5860,15 +5896,15 @@
  - user: None
  - tags: []
 
-## Mazzle – A Pipelines as Code Tool
- - [https://devops-pipeline.com](https://devops-pipeline.com)
- - date published: 2023-12-31T11:15:08+00:00
- - user: None
- - tags: []
-
 ## introducing mazzle - a pipelines as code tool
  - [http://devops-pipeline.com](http://devops-pipeline.com)
  - date published: 2024-02-29T14:58:14.068438+00:00
+ - user: None
+ - tags: []
+
+## Mazzle – A Pipelines as Code Tool
+ - [https://devops-pipeline.com](https://devops-pipeline.com)
+ - date published: 2023-12-31T11:15:08+00:00
  - user: None
  - tags: []
 
@@ -5965,42 +6001,6 @@
 ## DiabloFans
  - [https://diablofans.com](https://diablofans.com)
  - date published: 2023-12-13T16:24:32.064227+00:00
- - user: None
- - tags: []
-
-## DiabloFans
- - [https://www.diablofans.com](https://www.diablofans.com)
- - date published: 2023-10-25T11:33:40.789530+00:00
- - user: None
- - tags: []
-
-## DiabloNext
- - [https://www.diablonext.com](https://www.diablonext.com)
- - date published: 2023-12-13T16:15:25.367889+00:00
- - user: None
- - tags: []
-
-## Greater Rift Solo ::  DiabloProgress - Diablo 3 Rankings
- - [https://diabloprogress.com](https://diabloprogress.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Greater Rift Solo ::  DiabloProgress - Diablo 3 Rankings
- - [https://www.diabloprogress.com](https://www.diabloprogress.com)
- - date published: 2023-12-13T16:22:21.729613+00:00
- - user: None
- - tags: []
-
-## Diablo Tavern - Diablo Guides & Tools
- - [https://diablotavern.com](https://diablotavern.com)
- - date published: 2023-10-25T11:08:39.992217+00:00
- - user: None
- - tags: []
-
-## Diamonds Suck
- - [https://diamondssuck.com](https://diamondssuck.com)
- - date published: 2023-11-13T05:32:47+00:00
  - user: None
  - tags: []
 

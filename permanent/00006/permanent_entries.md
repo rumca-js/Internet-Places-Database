@@ -1,3 +1,51 @@
+## The Supply Chain Logistics Platform | Flexport
+ - [https://flexport.com](https://flexport.com)
+ - date published: 2023-10-25T14:33:04.432186+00:00
+ - user: None
+ - tags: []
+
+## Find your inspiration. | Flickr
+ - [https://www.flickr.com](https://www.flickr.com)
+ - date published: 2023-10-25T14:33:07.840624+00:00
+ - user: None
+ - tags: []
+
+## FlightGlobal | Pioneering aviation news and insight
+ - [https://www.flightglobal.com](https://www.flightglobal.com)
+ - date published: 2023-10-25T11:49:06.277131+00:00
+ - user: None
+ - tags: []
+
+## Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24
+ - [https://www.flightradar24.com](https://www.flightradar24.com)
+ - date published: 2023-10-25T14:33:08.473156+00:00
+ - user: None
+ - tags: []
+
+## DJI drone flight log viewer | Flight Reader
+ - [https://www.flightreader.com](https://www.flightreader.com)
+ - date published: 2023-10-25T14:33:09.805978+00:00
+ - user: None
+ - tags: []
+
+## FLiNG Trainer
+ - [https://flingtrainer.com](https://flingtrainer.com)
+ - date published: 2023-10-28T20:43:39.122151+00:00
+ - user: None
+ - tags: ['game trainers']
+
+## FlingUp
+ - [https://flingup.com](https://flingup.com)
+ - date published: 2023-10-25T14:33:10.205659+00:00
+ - user: None
+ - tags: []
+
+## Flipboard: Your Social Magazine
+ - [https://flipboard.com](https://flipboard.com)
+ - date published: 2023-12-11T19:33:15.316023+00:00
+ - user: None
+ - tags: []
+
 ## FlipCoords
  - [https://flipcoords.com](https://flipcoords.com)
  - date published: 2023-10-25T14:33:10.779599+00:00
@@ -359,14 +407,14 @@
  - tags: []
 
 ## None
- - [http://forbiddenplanet.com](http://forbiddenplanet.com)
- - date published: 2024-02-25T20:20:06.293093+00:00
+ - [https://forbiddenplanet.com](https://forbiddenplanet.com)
+ - date published: 2024-02-25T20:19:58.237177+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://forbiddenplanet.com](https://forbiddenplanet.com)
- - date published: 2024-02-25T20:19:58.237177+00:00
+ - [http://forbiddenplanet.com](http://forbiddenplanet.com)
+ - date published: 2024-02-25T20:20:06.293093+00:00
  - user: None
  - tags: []
 
@@ -1733,14 +1781,14 @@
  - tags: []
 
 ## Game Programming Patterns
- - [https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com)
- - date published: 2024-02-21T07:23:55+00:00
+ - [http://gameprogrammingpatterns.com](http://gameprogrammingpatterns.com)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Game Programming Patterns
- - [http://gameprogrammingpatterns.com](http://gameprogrammingpatterns.com)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com)
+ - date published: 2024-02-21T07:23:55+00:00
  - user: None
  - tags: []
 
@@ -2988,17 +3036,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['code sandbox']
 
-## Grimoire: Open-Source bookmark manager with extra features
- - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
- - date published: 2023-11-26T08:04:54+00:00
- - user: rumpel
- - tags: ['bookmark manager', 'open source']
-
 ## GitHub: Let’s build from here · GitHub
  - [https://github.com](https://github.com)
  - date published: 2023-10-25T14:42:43.938249+00:00
  - user: None
  - tags: ['gatekeeper', 'software platform']
+
+## Grimoire: Open-Source bookmark manager with extra features
+ - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
+ - date published: 2023-11-26T08:04:54+00:00
+ - user: rumpel
+ - tags: ['bookmark manager', 'open source']
 
 ## GitHub: Let’s build from here
  - [http://github.com](http://github.com)
@@ -4437,6 +4485,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Green's Dictionary of Slang
+ - [https://greensdictofslang.com](https://greensdictofslang.com)
+ - date published: 2024-04-12T19:45:40+00:00
+ - user: None
+ - tags: []
+
 ## Philip Greenspun's home page
  - [https://philip.greenspun.com](https://philip.greenspun.com)
  - date published: 2023-11-19T01:48:48.082052+00:00
@@ -4521,15 +4575,21 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
-## Mike Cardwell - Grepular
- - [http://www.grepular.com](http://www.grepular.com)
- - date published: 2024-02-25T20:34:46.182983+00:00
+## Greptime: Cloud-Native TSDB. Anywhere, Any Scale
+ - [https://www.greptime.com](https://www.greptime.com)
+ - date published: 2024-04-12T07:55:49.546271+00:00
  - user: None
  - tags: []
 
 ## Mike Cardwell - Grepular
  - [https://www.grepular.com](https://www.grepular.com)
  - date published: 2024-01-14T20:30:07.543187+00:00
+ - user: None
+ - tags: []
+
+## Mike Cardwell - Grepular
+ - [http://www.grepular.com](http://www.grepular.com)
+ - date published: 2024-02-25T20:34:46.182983+00:00
  - user: None
  - tags: []
 
@@ -5942,64 +6002,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T14:58:30.195792+00:00
  - user: None
  - tags: ['personal']
-
-## Here is Oregon - hereisoregon.com
- - [https://www.hereisoregon.com](https://www.hereisoregon.com)
- - date published: 2024-03-15T00:22:11.592569+00:00
- - user: None
- - tags: []
-
-## Hereket
- - [https://hereket.com](https://hereket.com)
- - date published: 2024-03-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## HeritageDaily - Archaeology News | Latest archaeology news, archaeological discoveries from across the globe
- - [https://www.heritagedaily.com](https://www.heritagedaily.com)
- - date published: 2023-10-25T14:58:36.549810+00:00
- - user: None
- - tags: []
-
-## Herman Miller Store | Shop Iconic Designs for Home and Office
- - [https://store.hermanmiller.com](https://store.hermanmiller.com)
- - date published: 2024-02-23T23:22:04.434290+00:00
- - user: None
- - tags: []
-
-## Silver Repair, Restoration, Silver Conservation, Preservation, and Silver Polishing
- - [https://www.hermansilver.com](https://www.hermansilver.com)
- - date published: 2023-10-25T14:58:39.464535+00:00
- - user: None
- - tags: []
-
-## HeroesFire :: Heroes of the Storm (HotS) Builds and Guides for Every Hero
- - [https://www.heroesfire.com](https://www.heroesfire.com)
- - date published: 2023-12-13T16:19:18.235213+00:00
- - user: None
- - tags: []
-
-## Hero Forge Custom Miniatures
- - [https://www.heroforge.com](https://www.heroforge.com)
- - date published: 2023-10-27T07:55:17.345776+00:00
- - user: None
- - tags: ['miniatures', 'shop', 'tabletop games']
-
-## Heroic Games Launcher
- - [https://heroicgameslauncher.com](https://heroicgameslauncher.com)
- - date published: 2023-10-25T08:35:38.409049+00:00
- - user: None
- - tags: ['game launcher']
-
-## Heroku Status
- - [https://status.heroku.com](https://status.heroku.com)
- - date published: 2023-10-25T14:58:40.059197+00:00
- - user: None
- - tags: []
-
-## Retirement : How Fucked are you?
- - [https://how-f-cked-are-you-98ab6cdc8944.herokuapp.com](https://how-f-cked-are-you-98ab6cdc8944.herokuapp.com)
- - date published: 2023-10-25T08:34:37.665445+00:00
- - user: None
- - tags: []
 
