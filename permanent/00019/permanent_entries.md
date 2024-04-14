@@ -1,3 +1,159 @@
+## FFmpeg.guide - One stop solution to all things FFmpeg
+ - [https://ffmpeg.guide](https://ffmpeg.guide)
+ - date published: 2024-01-09T03:31:46.199295+00:00
+ - user: None
+ - tags: []
+
+## Show HN: IP Guide – info on IP addresses, Networks, and ASNs
+ - [https://ip.guide](https://ip.guide)
+ - date published: 2023-11-24T22:37:16+00:00
+ - user: None
+ - tags: []
+
+## Janet for Mortals
+ - [https://janet.guide](https://janet.guide)
+ - date published: 2023-10-25T19:27:47.704736+00:00
+ - user: None
+ - tags: []
+
+## Programming.Guide
+ - [https://programming.guide](https://programming.guide)
+ - date published: 2023-10-25T19:27:49.280845+00:00
+ - user: None
+ - tags: []
+
+## Introduction - The Marketplace Guide
+ - [https://themarketplace.guide](https://themarketplace.guide)
+ - date published: 2023-10-25T19:27:51.233231+00:00
+ - user: None
+ - tags: []
+
+## Guide to Web Authentication
+ - [https://webauthn.guide](https://webauthn.guide)
+ - date published: 2024-01-24T09:42:32+00:00
+ - user: rumpel
+ - tags: ['passkeys']
+
+## Hexagon's Blog
+ - [https://dev.hexagon.56k.guru](https://dev.hexagon.56k.guru)
+ - date published: 2023-10-25T09:21:56.086882+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nightcap Guru
+ - [https://www.nightcap.guru](https://www.nightcap.guru)
+ - date published: 2023-10-25T19:27:52.113533+00:00
+ - user: None
+ - tags: []
+
+## SuperMemo Guru - supermemo.guru
+ - [https://supermemo.guru](https://supermemo.guru)
+ - date published: 2024-01-09T03:31:47.346129+00:00
+ - user: None
+ - tags: []
+
+## Watcher Guru - Fastest Finance & Crypto News
+ - [https://watcher.guru](https://watcher.guru)
+ - date published: 2023-10-25T19:27:53.247909+00:00
+ - user: None
+ - tags: []
+
+## Ian Wold | Software Engineer, Architect, and Team Leader
+ - [https://ian.wold.guru](https://ian.wold.guru)
+ - date published: 2024-04-03T12:49:01.199465+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://app.y.gy](https://app.y.gy)
+ - date published: 2024-03-01T20:33:20.614440+00:00
+ - user: None
+ - tags: []
+
+## 404 Not Found
+ - [http://blog.deckc.hair](http://blog.deckc.hair)
+ - date published: 2023-10-25T19:27:53.491662+00:00
+ - user: None
+ - tags: []
+
+## Haihaus
+ - [https://www.hai.haus](https://www.hai.haus)
+ - date published: 2024-01-09T03:31:48.037056+00:00
+ - user: None
+ - tags: []
+
+## RamenHaus — Homepage
+ - [https://ramen.haus](https://ramen.haus)
+ - date published: 2024-04-05T23:54:35.153096+00:00
+ - user: None
+ - tags: ['interesting', 'ramen']
+
+## Vineyard - Free Shell Accounts for MUDs, talkers, web pages, and more.
+ - [https://vineyard.haus](https://vineyard.haus)
+ - date published: 2024-03-27T20:49:10+00:00
+ - user: rumpel
+ - tags: ['mud game']
+
+## Radiant Chat | Your medical reference bot
+ - [https://chat.radiantai.health](https://chat.radiantai.health)
+ - date published: 2023-10-25T19:27:56.604094+00:00
+ - user: None
+ - tags: []
+
+## Turquoise Health Blog
+ - [https://blog.turquoise.health](https://blog.turquoise.health)
+ - date published: 2023-10-25T19:27:58.234456+00:00
+ - user: None
+ - tags: []
+
+## The Wellness Company
+ - [http://www.twc.health](http://www.twc.health)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## City University of Hong Kong
+ - [https://www.cityu.edu.hk](https://www.cityu.edu.hk)
+ - date published: 2023-11-12T14:24:15.942518+00:00
+ - user: None
+ - tags: []
+
+## jon.hk
+ - [https://jon.hk](https://jon.hk)
+ - date published: 2023-10-25T19:28:01.121455+00:00
+ - user: None
+ - tags: []
+
+## wootwoot.hk
+ - [https://wootwoot.hk](https://wootwoot.hk)
+ - date published: 2024-01-05T10:28:54.623061+00:00
+ - user: None
+ - tags: []
+
+## blogs.hn
+ - [https://blogs.hn](https://blogs.hn)
+ - date published: 2023-12-18T15:10:33+00:00
+ - user: rumpel
+ - tags: ['blogs', 'personal', 'personal sites source']
+
+## Hacker News Blogroll
+ - [https://dm.hn](https://dm.hn)
+ - date published: 2023-10-25T19:28:02.288614+00:00
+ - user: None
+ - tags: []
+
+## Honda Motor Co.,Ltd.｜Honda Global Corporate Website
+ - [https://global.honda](https://global.honda)
+ - date published: 2023-11-04T02:27:34.117726+00:00
+ - user: None
+ - tags: []
+
+## hooooooooooooooooooooooooooooooooooooooooooooooooooooooooorse
+ - [https://endless.horse](https://endless.horse)
+ - date published: 2024-01-09T03:31:49.202260+00:00
+ - user: None
+ - tags: []
+
 ## https://lyra.horse
  - [https://lyra.horse](https://lyra.horse)
  - date published: 2024-01-06T10:04:23.683116+00:00
@@ -759,7 +915,7 @@
  - [https://sqwok.im](https://sqwok.im)
  - date published: 2024-04-09T20:07:53.679860+00:00
  - user: None
- - tags: ['social platform', 'link aggregator']
+ - tags: []
 
 ## Peter Saint-Andre
  - [https://stpeter.im](https://stpeter.im)
@@ -1458,14 +1614,14 @@
  - tags: []
 
 ## Erthalion
- - [https://erthalion.info](https://erthalion.info)
- - date published: 2023-10-25T19:33:09.948190+00:00
+ - [http://erthalion.info](http://erthalion.info)
+ - date published: 2024-02-25T15:21:46.039163+00:00
  - user: None
  - tags: []
 
 ## Erthalion
- - [http://erthalion.info](http://erthalion.info)
- - date published: 2024-02-25T15:21:46.039163+00:00
+ - [https://erthalion.info](https://erthalion.info)
+ - date published: 2023-10-25T19:33:09.948190+00:00
  - user: None
  - tags: []
 
@@ -1974,14 +2130,14 @@
  - tags: []
 
 ## TVP Info - najnowsze informacje z kraju i ze świata, wideo, transmisje on-line i relacje na żywo.
- - [http://www.tvp.info](http://www.tvp.info)
- - date published: 2024-02-26T13:23:41.448557+00:00
+ - [https://www.tvp.info](https://www.tvp.info)
+ - date published: 2023-10-25T19:35:11.469749+00:00
  - user: None
  - tags: []
 
 ## TVP Info - najnowsze informacje z kraju i ze świata, wideo, transmisje on-line i relacje na żywo.
- - [https://www.tvp.info](https://www.tvp.info)
- - date published: 2023-10-25T19:35:11.469749+00:00
+ - [http://www.tvp.info](http://www.tvp.info)
+ - date published: 2024-02-26T13:23:41.448557+00:00
  - user: None
  - tags: []
 
@@ -2388,14 +2544,14 @@
  - tags: []
 
 ## American Express Technology
- - [https://americanexpress.io](https://americanexpress.io)
- - date published: 2023-10-25T19:37:33.148951+00:00
+ - [http://americanexpress.io](http://americanexpress.io)
+ - date published: 2024-02-25T14:44:25.925967+00:00
  - user: None
  - tags: []
 
 ## American Express Technology
- - [http://americanexpress.io](http://americanexpress.io)
- - date published: 2024-02-25T14:44:25.925967+00:00
+ - [https://americanexpress.io](https://americanexpress.io)
+ - date published: 2023-10-25T19:37:33.148951+00:00
  - user: None
  - tags: []
 
@@ -3387,7 +3543,7 @@
  - [https://directus.io](https://directus.io)
  - date published: 2023-10-25T19:41:31.635966+00:00
  - user: None
- - tags: []
+ - tags: ['self-host']
 
 ## Discipline.io
  - [https://discipline.io](https://discipline.io)
@@ -5842,162 +5998,6 @@ through Composable Diffusion
 ## Leslie Liu
  - [https://liuleslie.github.io](https://liuleslie.github.io)
  - date published: 2024-01-01T03:38:18.927680+00:00
- - user: None
- - tags: []
-
-## Liz Izhikevich
- - [https://lizizhikevich.github.io](https://lizizhikevich.github.io)
- - date published: 2023-10-25T19:48:30.756392+00:00
- - user: None
- - tags: []
-
-## LLaVA
- - [https://llava-vl.github.io](https://llava-vl.github.io)
- - date published: 2023-10-25T19:48:32.431642+00:00
- - user: None
- - tags: []
-
-## https://llsoftsec.github.io
- - [https://llsoftsec.github.io](https://llsoftsec.github.io)
- - date published: 2024-01-09T03:32:51.422172+00:00
- - user: None
- - tags: []
-
-## Progressively Optimized Local Radiance Fields for Robust View Synthesis
- - [https://localrf.github.io](https://localrf.github.io)
- - date published: 2023-10-25T19:48:35.131299+00:00
- - user: None
- - tags: []
-
-## LOLBAS
- - [https://lolbas-project.github.io](https://lolbas-project.github.io)
- - date published: 2023-10-25T19:48:44.144156+00:00
- - user: None
- - tags: []
-
-## LostFileArchives
- - [https://lostfilearchives.github.io](https://lostfilearchives.github.io)
- - date published: 2018-08-31T00:00:00+00:00
- - user: None
- - tags: ['hacking', 'securom']
-
-## Home
- - [https://lottie.github.io](https://lottie.github.io)
- - date published: 2024-04-04T20:18:15.339546+00:00
- - user: None
- - tags: []
-
-## Lucas Seiki Oshiro
- - [https://lucasoshiro.github.io](https://lucasoshiro.github.io)
- - date published: 2024-01-03T00:44:29.284892+00:00
- - user: None
- - tags: []
-
-## m's blog · We're all different. This is the only thing we have in common.
- - [https://ludovicianul.github.io](https://ludovicianul.github.io)
- - date published: 2023-10-25T19:48:47.066057+00:00
- - user: None
- - tags: []
-
-## Luke Salamone's Blog
- - [https://lukesalamone.github.io](https://lukesalamone.github.io)
- - date published: 2023-10-25T19:48:48.519413+00:00
- - user: None
- - tags: []
-
-## Lumiere - Google Research
- - [https://lumiere-video.github.io](https://lumiere-video.github.io)
- - date published: 2024-01-24T09:11:07.776816+00:00
- - user: None
- - tags: []
-
-## Lup Yuen LEE
- - [https://lupyuen.github.io](https://lupyuen.github.io)
- - date published: 2023-10-25T19:49:05.483685+00:00
- - user: None
- - tags: []
-
-## https://lutzroeder.github.io
- - [https://lutzroeder.github.io](https://lutzroeder.github.io)
- - date published: 2024-01-09T03:32:51.896314+00:00
- - user: None
- - tags: []
-
-## LWSS Blog – Basement Dweller
- - [https://lwss.github.io](https://lwss.github.io)
- - date published: 2023-10-25T19:49:06.795269+00:00
- - user: None
- - tags: []
-
-## Lychee — Self-hosted photo-management done right
- - [https://lycheeorg.github.io](https://lycheeorg.github.io)
- - date published: 2023-10-25T19:49:07.538122+00:00
- - user: None
- - tags: []
-
-## Redirecting…
- - [https://m680x0.github.io](https://m680x0.github.io)
- - date published: 2023-10-25T19:49:07.954208+00:00
- - user: None
- - tags: []
-
-## Machines Reading Maps | Unlocking unique information from large collections of historical maps using AI
- - [https://machines-reading-maps.github.io](https://machines-reading-maps.github.io)
- - date published: 2023-10-25T19:49:08.905340+00:00
- - user: None
- - tags: []
-
-## Articles | Madaidan's Insecurities
- - [https://madaidans-insecurities.github.io](https://madaidans-insecurities.github.io)
- - date published: 2023-10-25T19:49:09.552990+00:00
- - user: None
- - tags: []
-
-## MADICES 2024
- - [https://madices.github.io](https://madices.github.io)
- - date published: 2024-02-08T17:01:55.216107+00:00
- - user: None
- - tags: []
-
-## MagicEdit: High-Fidelity Temporally Coherent Video Editing
- - [https://magic-edit.github.io](https://magic-edit.github.io)
- - date published: 2023-10-25T19:49:15.486474+00:00
- - user: None
- - tags: []
-
-## MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation
- - [https://magicvideov2.github.io](https://magicvideov2.github.io)
- - date published: 2024-01-12T07:51:20.397106+00:00
- - user: None
- - tags: []
-
-## Maik Klein
- - [https://maikklein.github.io](https://maikklein.github.io)
- - date published: 2023-10-25T19:49:16.084796+00:00
- - user: None
- - tags: []
-
-## Text-To-4D Dynamic Scene Generation
- - [https://make-a-video3d.github.io](https://make-a-video3d.github.io)
- - date published: 2023-10-25T19:49:16.845049+00:00
- - user: None
- - tags: []
-
-## https://makelinux.github.io
- - [https://makelinux.github.io](https://makelinux.github.io)
- - date published: 2023-10-25T19:49:17.988414+00:00
- - user: None
- - tags: []
-
-## Make Pixels Dance: High-Dynamic Video Generation
- - [https://makepixelsdance.github.io](https://makepixelsdance.github.io)
- - date published: 2023-11-21T11:32:18+00:00
- - user: None
- - tags: []
-
-## Make Source Not Code!
- - [https://makesourcenotcode.github.io](https://makesourcenotcode.github.io)
- - date published: 2023-10-25T19:49:19.134099+00:00
  - user: None
  - tags: []
 

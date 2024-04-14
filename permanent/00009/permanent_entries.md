@@ -1,3 +1,69 @@
+## Mallory Paige – Storyteller & Adventurer
+ - [http://mallorypaige.com](http://mallorypaige.com)
+ - date published: 2024-04-03T06:23:36.885138+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cyber Security Software & Anti-Malware | Malwarebytes
+ - [https://www.malwarebytes.com](https://www.malwarebytes.com)
+ - date published: 2023-10-25T15:54:59.336261+00:00
+ - user: None
+ - tags: ['corporation', 'tech services']
+
+## Mama Source |
+ - [https://www.mamasource.com](https://www.mamasource.com)
+ - date published: 2024-02-08T16:59:49.293285+00:00
+ - user: None
+ - tags: []
+
+## MambaOnline - Gay South Africa online
+ - [https://www.mambaonline.com](https://www.mambaonline.com)
+ - date published: 2023-11-26T08:46:20.848115+00:00
+ - user: None
+ - tags: ['homosexuality', 'lgbt']
+
+## https://mamoniem.com
+ - [https://mamoniem.com](https://mamoniem.com)
+ - date published: 2024-01-09T02:42:31.807324+00:00
+ - user: None
+ - tags: []
+
+## The Market for Magic Cards | Mana Pool
+ - [https://manapool.com](https://manapool.com)
+ - date published: 2023-10-25T15:55:00.570677+00:00
+ - user: None
+ - tags: []
+
+## Mana Pop
+ - [https://manapop.com](https://manapop.com)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Senselessness
+ - [https://blog.mand3l.com](https://blog.mand3l.com)
+ - date published: 2023-10-25T15:55:08.960526+00:00
+ - user: None
+ - tags: []
+
+## Chiropractor Mandan, Bismarck ND
+ - [https://www.mandanchiro.com](https://www.mandanchiro.com)
+ - date published: 2024-02-08T16:58:31.356074+00:00
+ - user: None
+ - tags: []
+
+## Threat Intelligence Solutions | Cyber Security Services & Training
+ - [https://www.mandiant.com](https://www.mandiant.com)
+ - date published: 2023-10-25T15:55:12.774419+00:00
+ - user: None
+ - tags: ['cybersecurity']
+
+## Måneskin - Official Website
+ - [https://maneskin.com](https://maneskin.com)
+ - date published: 2023-12-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['music band']
+
 ## Get Good at Delivering Software™️
  - [https://blog.mangoteque.com](https://blog.mangoteque.com)
  - date published: 2023-10-25T15:55:14.397259+00:00
@@ -366,14 +432,14 @@
  - tags: []
 
 ## Mark Gukov – Software engineer 👨🏻‍💻 with over a decade of experience, primarily in e-commerce 🛒 and payments 💳
- - [http://markgukov.com](http://markgukov.com)
- - date published: 2015-01-01T00:00:00+00:00
+ - [https://markgukov.com](https://markgukov.com)
+ - date published: 2024-01-11T07:51:55.652234+00:00
  - user: None
  - tags: []
 
 ## Mark Gukov – Software engineer 👨🏻‍💻 with over a decade of experience, primarily in e-commerce 🛒 and payments 💳
- - [https://markgukov.com](https://markgukov.com)
- - date published: 2024-01-11T07:51:55.652234+00:00
+ - [http://markgukov.com](http://markgukov.com)
+ - date published: 2015-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -915,7 +981,7 @@
  - [https://mattermost.com](https://mattermost.com)
  - date published: 2024-02-26T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['self-host']
 
 ## Matter Unlimited - Award-Winning Social Impact Marketing Agency
  - [https://matterunlimited.com](https://matterunlimited.com)
@@ -2931,7 +2997,7 @@
  - [https://www.merriam-webster.com](https://www.merriam-webster.com)
  - date published: 2023-10-25T09:28:48.521022+00:00
  - user: None
- - tags: []
+ - tags: ['dictionary']
 
 ## merthurturk.com
  - [https://merthurturk.com](https://merthurturk.com)
@@ -2992,6 +3058,12 @@
  - date published: 2024-04-08T19:29:43.849738+00:00
  - user: None
  - tags: ['self-host', 'sql analysis']
+
+## Metabase | Business Intelligence, Dashboards, and Data Visualization
+ - [https://www.metabase.com](https://www.metabase.com)
+ - date published: 2024-04-13T17:21:36+00:00
+ - user: rumpel
+ - tags: ['self-host', 'big data']
 
 ## μεταcole
  - [https://metacole.com](https://metacole.com)
@@ -3642,14 +3714,14 @@
  - tags: []
 
 ## Cloud-Based Medical Office Software & Billing Services
- - [https://www.microwize.com](https://www.microwize.com)
- - date published: 2024-01-10T14:29:04.664029+00:00
+ - [http://www.microwize.com](http://www.microwize.com)
+ - date published: 2024-04-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Cloud-Based Medical Office Software & Billing Services
- - [http://www.microwize.com](http://www.microwize.com)
- - date published: 2024-04-01T00:00:00+00:00
+ - [https://www.microwize.com](https://www.microwize.com)
+ - date published: 2024-01-10T14:29:04.664029+00:00
  - user: None
  - tags: []
 
@@ -3719,15 +3791,21 @@
  - user: None
  - tags: []
 
-## Sprezzatura
- - [https://mikaelsyding.com](https://mikaelsyding.com)
- - date published: 2023-12-31T21:20:59.573845+00:00
+## None
+ - [https://mihirchronicles.com](https://mihirchronicles.com)
+ - date published: 2024-04-13T19:19:40.403736+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Sprezzatura
  - [http://mikaelsyding.com](http://mikaelsyding.com)
  - date published: 2024-03-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sprezzatura
+ - [https://mikaelsyding.com](https://mikaelsyding.com)
+ - date published: 2023-12-31T21:20:59.573845+00:00
  - user: None
  - tags: []
 
@@ -4572,17 +4650,17 @@
  - user: None
  - tags: []
 
-## Belmont Ammunition | Belmont Ammunition
- - [https://www.monaharaty.com](https://www.monaharaty.com)
- - date published: 2023-12-17T20:59:14.047846+00:00
- - user: None
- - tags: ['personal']
-
 ## Mona Haraty
  - [http://www.monaharaty.com](http://www.monaharaty.com)
  - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Belmont Ammunition | Belmont Ammunition
+ - [https://www.monaharaty.com](https://www.monaharaty.com)
+ - date published: 2023-12-17T20:59:14.047846+00:00
+ - user: None
+ - tags: ['personal']
 
 ## George Monbiot
  - [https://www.monbiot.com](https://www.monbiot.com)
@@ -5184,6 +5262,12 @@
  - user: None
  - tags: []
 
+## MSI Global
+ - [https://www.msi.com](https://www.msi.com)
+ - date published: 2024-04-13T18:21:46+00:00
+ - user: rumpel
+ - tags: ['gaming hardware']
+
 ## MSN
  - [https://www.msn.com](https://www.msn.com)
  - date published: 2023-10-25T10:26:37.266048+00:00
@@ -5635,14 +5719,14 @@
  - tags: []
 
 ## My Proactive Life – One Man's desire to change, one step at a time
- - [https://myproactivelife.com](https://myproactivelife.com)
- - date published: 2024-01-09T02:44:35.810001+00:00
+ - [http://myproactivelife.com](http://myproactivelife.com)
+ - date published: 2024-04-03T06:25:14.458379+00:00
  - user: None
  - tags: ['personal']
 
 ## My Proactive Life – One Man's desire to change, one step at a time
- - [http://myproactivelife.com](http://myproactivelife.com)
- - date published: 2024-04-03T06:25:14.458379+00:00
+ - [https://myproactivelife.com](https://myproactivelife.com)
+ - date published: 2024-01-09T02:44:35.810001+00:00
  - user: None
  - tags: ['personal']
 
@@ -5913,90 +5997,6 @@
 ## Cloudflare
  - [https://nassimsoftware.com](https://nassimsoftware.com)
  - date published: 2023-10-25T16:10:46.275013+00:00
- - user: None
- - tags: []
-
-## Natecation · from Nathan H. Leung
- - [https://www.natecation.com](https://www.natecation.com)
- - date published: 2023-10-25T16:10:48.264572+00:00
- - user: None
- - tags: []
-
-## Nate Hoffelder
- - [https://natehoffelder.com](https://natehoffelder.com)
- - date published: 2023-10-25T16:10:56.376597+00:00
- - user: None
- - tags: []
-
-## System Failure | Nathan Knopp | Substack
- - [https://www.nateknopp.com](https://www.nateknopp.com)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nat Eliason's Newsletter | Substack
- - [https://blog.nateliason.com](https://blog.nateliason.com)
- - date published: 2023-10-25T16:11:04.110312+00:00
- - user: None
- - tags: []
-
-## Nat Eliason: Blog, Book Notes, Newsletter, and More
- - [https://www.nateliason.com](https://www.nateliason.com)
- - date published: 2024-01-06T08:53:03.977149+00:00
- - user: None
- - tags: []
-
-## NateMerrill [dot] com
- - [https://www.natemerrill.com](https://www.natemerrill.com)
- - date published: 2024-01-01T17:21:02.778781+00:00
- - user: None
- - tags: ['personal']
-
-## nate's website
- - [https://www.nateranda.com](https://www.nateranda.com)
- - date published: 2023-10-25T16:11:06.408957+00:00
- - user: None
- - tags: []
-
-## Adventure Travel & Nature Tours | Natural Habitat Adventures
- - [https://www.nathab.com](https://www.nathab.com)
- - date published: 2024-02-24T18:06:06.741969+00:00
- - user: None
- - tags: []
-
-## Nathanael Haggard
- - [https://nathanaelhaggard.com](https://nathanaelhaggard.com)
- - date published: 2023-12-20T00:58:45.930055+00:00
- - user: None
- - tags: ['personal']
-
-## Nathan Agin | Wearer of Many Hats
- - [https://nathanagin.com](https://nathanagin.com)
- - date published: 2024-01-10T22:42:57.976324+00:00
- - user: None
- - tags: []
-
-## Nathan Craddock
- - [https://nathancraddock.com](https://nathancraddock.com)
- - date published: 2023-10-25T16:11:07.784296+00:00
- - user: None
- - tags: []
-
-## Nathan Lustig – Staying out of the Cubicle
- - [https://www.nathanlustig.com](https://www.nathanlustig.com)
- - date published: 2023-12-13T06:04:31.022737+00:00
- - user: None
- - tags: ['personal']
-
-## Nathan Otterness' Page
- - [https://nathanotterness.com](https://nathanotterness.com)
- - date published: 2023-10-25T16:11:10.707029+00:00
- - user: None
- - tags: []
-
-## Nathan Peck
- - [https://nathanpeck.com](https://nathanpeck.com)
- - date published: 2023-10-25T16:11:12.511630+00:00
  - user: None
  - tags: []
 

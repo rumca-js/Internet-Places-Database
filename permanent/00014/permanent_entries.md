@@ -1,3 +1,135 @@
+## Tailwind UI - Official Tailwind CSS Components & Templates
+ - [https://tailwindui.com](https://tailwindui.com)
+ - date published: 2023-12-21T02:40:19.158554+00:00
+ - user: None
+ - tags: []
+
+## Taipei Times
+ - [https://www.taipeitimes.com](https://www.taipeitimes.com)
+ - date published: 2023-10-25T17:22:29.237857+00:00
+ - user: None
+ - tags: []
+
+## TaiwanPlus – Bringing Taiwan to the World
+ - [https://www.taiwanplus.com](https://www.taiwanplus.com)
+ - date published: 2023-10-25T17:22:31.513306+00:00
+ - user: None
+ - tags: []
+
+## Win In Business and Life - Takis Athanassiou
+ - [https://takisathanassiou.com](https://takisathanassiou.com)
+ - date published: 2023-11-29T17:12:10.305840+00:00
+ - user: None
+ - tags: ['personal']
+
+## TalentGrow LLC: Leadership development, workplace communication workshops, team-building facilitation, and speaking
+ - [https://www.talentgrow.com](https://www.talentgrow.com)
+ - date published: 2023-11-29T17:06:32.716696+00:00
+ - user: None
+ - tags: ['personal']
+
+## TalentSignals - Find Great Software Developers
+ - [https://talentsignals.com](https://talentsignals.com)
+ - date published: 2023-10-25T17:22:31.949866+00:00
+ - user: None
+ - tags: []
+
+## Tale of Painters
+ - [https://taleofpainters.com](https://taleofpainters.com)
+ - date published: 2024-01-20T00:00:00+00:00
+ - user: None
+ - tags: ['tabletop games', 'wargames', 'warhammer']
+
+## Tales from the Ops Side
+ - [https://www.talesfromtheopsside.com](https://www.talesfromtheopsside.com)
+ - date published: 2024-03-01T08:15:45.378599+00:00
+ - user: None
+ - tags: []
+
+## Tales Of Syn
+ - [https://talesofsyn.com](https://talesofsyn.com)
+ - date published: 2023-10-25T17:22:33.589120+00:00
+ - user: None
+ - tags: []
+
+## Tales of Times Forgotten - Making the Distant Past Relevant to the Present Day
+ - [https://talesoftimesforgotten.com](https://talesoftimesforgotten.com)
+ - date published: 2023-10-25T17:22:37.814478+00:00
+ - user: None
+ - tags: []
+
+## Tal Hoffman
+ - [https://www.talhoffman.com](https://www.talhoffman.com)
+ - date published: 2023-10-25T17:22:38.579791+00:00
+ - user: None
+ - tags: []
+
+## Morning Memo | TPM | Substack
+ - [https://morningmemo.talkingpointsmemo.com](https://morningmemo.talkingpointsmemo.com)
+ - date published: 2024-02-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## TPM: Talking Points Memo
+ - [https://talkingpointsmemo.com](https://talkingpointsmemo.com)
+ - date published: 2023-11-01T15:44:10.527184+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Talk Paper Scissors
+ - [https://talkpaperscissors.com](https://talkpaperscissors.com)
+ - date published: 2023-12-23T16:16:54+00:00
+ - user: None
+ - tags: []
+
+## Tallahassee - Home
+ - [https://www.tallahassee.com](https://www.tallahassee.com)
+ - date published: 2023-12-04T15:58:10.872316+00:00
+ - user: None
+ - tags: []
+
+## Cisco Talos Blog
+ - [https://blog.talosintelligence.com](https://blog.talosintelligence.com)
+ - date published: 2023-10-25T17:22:39.954604+00:00
+ - user: None
+ - tags: ['cybersecurity news', 'tech news']
+
+## Talospace
+ - [https://www.talospace.com](https://www.talospace.com)
+ - date published: 2023-10-25T17:22:48.088595+00:00
+ - user: None
+ - tags: []
+
+## Tampa Bay, Florida news | Tampa Bay Times/St. Pete Times | Tampa Bay Times
+ - [http://www.tampabay.com](http://www.tampabay.com)
+ - date published: 2024-02-24T09:59:55.862386+00:00
+ - user: None
+ - tags: []
+
+## Tampa Bay, Florida news | Tampa Bay Times/St. Pete Times
+ - [https://www.tampabay.com](https://www.tampabay.com)
+ - date published: 2023-10-25T17:22:55.890764+00:00
+ - user: None
+ - tags: []
+
+## Top-Rated Roof Cleaning Tampa | FREE Estimates!
+ - [https://tampabayroofcleaningservices.com](https://tampabayroofcleaningservices.com)
+ - date published: 2019-01-25T07:42:54+00:00
+ - user: None
+ - tags: []
+
+## tamvodopad: main
+ - [https://tamvodopad.com](https://tamvodopad.com)
+ - date published: 2023-12-23T03:00:32.569803+00:00
+ - user: None
+ - tags: ['personal']
+
+## Trial & Error -J-POP, Rock, アニメソング, 音楽配信, 作曲依頼-
+ - [http://www.tandess.com](http://www.tandess.com)
+ - date published: 2024-02-23T08:17:36+00:00
+ - user: rumpel
+ - tags: ['music assets']
+
 ## https://www.tandfonline.com
  - [https://www.tandfonline.com](https://www.tandfonline.com)
  - date published: 2023-10-25T17:23:01.206050+00:00
@@ -1807,14 +1939,14 @@
  - tags: []
 
 ## The Entrepreneur Way
- - [https://theentrepreneurway.com](https://theentrepreneurway.com)
- - date published: 2023-11-29T14:41:41.566948+00:00
+ - [http://theentrepreneurway.com](http://theentrepreneurway.com)
+ - date published: 2024-04-03T06:25:55.591870+00:00
  - user: None
  - tags: ['personal']
 
 ## The Entrepreneur Way
- - [http://theentrepreneurway.com](http://theentrepreneurway.com)
- - date published: 2024-04-03T06:25:55.591870+00:00
+ - [https://theentrepreneurway.com](https://theentrepreneurway.com)
+ - date published: 2023-11-29T14:41:41.566948+00:00
  - user: None
  - tags: ['personal']
 
@@ -1954,13 +2086,13 @@
  - [http://www.thefreedictionary.com](http://www.thefreedictionary.com)
  - date published: 2024-02-25T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['dictionary']
 
 ## Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
  - [https://www.thefreedictionary.com](https://www.thefreedictionary.com)
  - date published: 2023-10-25T09:28:50.951090+00:00
  - user: None
- - tags: []
+ - tags: ['dictionary']
 
 ## thefreethoughtproject.com
  - [https://thefreethoughtproject.com](https://thefreethoughtproject.com)
@@ -2814,6 +2946,12 @@
  - user: None
  - tags: []
 
+## Waterloo orbituary record
+ - [https://obituaries.therecord.com](https://obituaries.therecord.com)
+ - date published: 2024-04-13T14:11:39+00:00
+ - user: rumpel
+ - tags: []
+
 ## The Red Hand Files - You can ask me anything. There will be no moderator. This will be between you and me. Let's see what happens. Much love, Nick : The Red Hand Files
  - [https://www.theredhandfiles.com](https://www.theredhandfiles.com)
  - date published: 2023-10-25T17:38:41.558338+00:00
@@ -3205,16 +3343,16 @@
  - tags: ['personal']
 
 ## The Verge
- - [https://www.theverge.com](https://www.theverge.com)
- - date published: 2023-10-25T10:29:09.149200+00:00
- - user: None
- - tags: ['news']
-
-## The Verge
  - [http://www.theverge.com](http://www.theverge.com)
  - date published: 2024-02-26T14:01:17.871855+00:00
  - user: None
  - tags: []
+
+## The Verge
+ - [https://www.theverge.com](https://www.theverge.com)
+ - date published: 2023-10-25T10:29:09.149200+00:00
+ - user: None
+ - tags: ['news']
 
 ## About
  - [https://blog.thevinter.com](https://blog.thevinter.com)
@@ -3626,16 +3764,16 @@
  - tags: ['personal']
 
 ## Thought Of Art
- - [http://www.thoughtofart.com](http://www.thoughtofart.com)
- - date published: 2023-12-23T19:26:51.192455+00:00
- - user: None
- - tags: ['personal']
-
-## Thought Of Art
  - [https://www.thoughtofart.com](https://www.thoughtofart.com)
  - date published: 2023-12-03T01:43:10.562711+00:00
  - user: None
  - tags: []
+
+## Thought Of Art
+ - [http://www.thoughtofart.com](http://www.thoughtofart.com)
+ - date published: 2023-12-23T19:26:51.192455+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Digital Experience Monitoring | ThousandEyes
  - [https://www.thousandeyes.com](https://www.thousandeyes.com)
@@ -3982,14 +4120,14 @@
  - tags: ['personal']
 
 ## TimDbg
- - [http://www.timdbg.com](http://www.timdbg.com)
- - date published: 2024-01-18T00:00:00+00:00
+ - [https://www.timdbg.com](https://www.timdbg.com)
+ - date published: 2023-10-25T17:42:00.344194+00:00
  - user: None
  - tags: []
 
 ## TimDbg
- - [https://www.timdbg.com](https://www.timdbg.com)
- - date published: 2023-10-25T17:42:00.344194+00:00
+ - [http://www.timdbg.com](http://www.timdbg.com)
+ - date published: 2024-01-18T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4252,14 +4390,14 @@
  - tags: ['personal']
 
 ## Blog do Tino Gomes
- - [https://blog.tinogomes.com](https://blog.tinogomes.com)
- - date published: 2023-12-17T05:07:31.704120+00:00
+ - [http://blog.tinogomes.com](http://blog.tinogomes.com)
+ - date published: 2024-04-03T06:24:29.843795+00:00
  - user: None
  - tags: ['personal']
 
 ## Blog do Tino Gomes
- - [http://blog.tinogomes.com](http://blog.tinogomes.com)
- - date published: 2024-04-03T06:24:29.843795+00:00
+ - [https://blog.tinogomes.com](https://blog.tinogomes.com)
+ - date published: 2023-12-17T05:07:31.704120+00:00
  - user: None
  - tags: ['personal']
 
@@ -5214,14 +5352,14 @@
  - tags: []
 
 ## Trialfacts
- - [https://trialfacts.com](https://trialfacts.com)
- - date published: 2023-12-03T01:43:30.890601+00:00
+ - [http://trialfacts.com](http://trialfacts.com)
+ - date published: 2024-04-03T06:30:30.246581+00:00
  - user: None
  - tags: ['personal']
 
 ## Trialfacts
- - [http://trialfacts.com](http://trialfacts.com)
- - date published: 2024-04-03T06:30:30.246581+00:00
+ - [https://trialfacts.com](https://trialfacts.com)
+ - date published: 2023-12-03T01:43:30.890601+00:00
  - user: None
  - tags: ['personal']
 
@@ -5778,14 +5916,14 @@
  - tags: []
 
 ## Ri Science
- - [http://ri-science.tumblr.com](http://ri-science.tumblr.com)
- - date published: 2024-01-22T13:18:45.582843+00:00
+ - [https://ri-science.tumblr.com](https://ri-science.tumblr.com)
+ - date published: 2024-02-26T12:41:40.542943+00:00
  - user: None
  - tags: []
 
 ## Ri Science
- - [https://ri-science.tumblr.com](https://ri-science.tumblr.com)
- - date published: 2024-02-26T12:41:40.542943+00:00
+ - [http://ri-science.tumblr.com](http://ri-science.tumblr.com)
+ - date published: 2024-01-22T13:18:45.582843+00:00
  - user: None
  - tags: []
 
@@ -5864,144 +6002,6 @@
 ## turbofuture.com
  - [https://turbofuture.com](https://turbofuture.com)
  - date published: 2024-03-04T19:41:10.073146+00:00
- - user: None
- - tags: []
-
-## turbopuffer
- - [https://turbopuffer.com](https://turbopuffer.com)
- - date published: 2023-10-27T11:56:11.893704+00:00
- - user: None
- - tags: []
-
-## turn and work - home - turn and work
- - [https://www.turnandwork.com](https://www.turnandwork.com)
- - date published: 2024-04-05T23:54:34.549848+00:00
- - user: None
- - tags: ['personal']
-
-## Turok Sanctum
- - [https://turoksanctum.com](https://turoksanctum.com)
- - date published: 2023-10-30T15:42:53.162805+00:00
- - user: None
- - tags: []
-
-## Secure email: Tuta free encrypted email.
- - [https://tuta.com](https://tuta.com)
- - date published: 2023-11-14T11:08:15.033743+00:00
- - user: None
- - tags: ['email server', 'privacy']
-
-## Secure email: Tutanota free encrypted email.
- - [https://tutanota.com](https://tutanota.com)
- - date published: 2023-10-25T08:25:36.402149+00:00
- - user: None
- - tags: []
-
-## https://www.tuvsud.com
- - [https://www.tuvsud.com](https://www.tuvsud.com)
- - date published: 2023-12-25T09:44:01.489281+00:00
- - user: None
- - tags: ['certicite', 'automotive']
-
-## TUXEDO Computers
- - [https://www.tuxedocomputers.com](https://www.tuxedocomputers.com)
- - date published: 2023-10-25T17:50:14.276119+00:00
- - user: None
- - tags: ['linux', 'laptop']
-
-## TuxPhones - Linux phones, tablets and portable devices
- - [https://tuxphones.com](https://tuxphones.com)
- - date published: 2023-10-25T17:50:19.263654+00:00
- - user: None
- - tags: []
-
-## Brain Dump — Geoff's Technical Notebook
- - [https://geoff.tuxpup.com](https://geoff.tuxpup.com)
- - date published: 2023-10-25T17:50:20.921936+00:00
- - user: None
- - tags: []
-
-## TV BRICS | Официальный сайт международной сети ТВ БРИКС
- - [https://tvbrics.com](https://tvbrics.com)
- - date published: 2023-12-24T11:27:46.849586+00:00
- - user: None
- - tags: []
-
-## TV news, Movie News, Actor Facts, Things You Didn’t Know | TVovermind
- - [https://tvovermind.com](https://tvovermind.com)
- - date published: 2023-10-25T10:52:12.025157+00:00
- - user: None
- - tags: []
-
-## TVP World - Poland and World breaking, daily & top news
- - [https://tvpworld.com](https://tvpworld.com)
- - date published: 2023-10-25T17:50:22.771972+00:00
- - user: None
- - tags: []
-
-## Show HN: I made TV Sort, a web-based game for ranking TV show episodes
- - [https://tvsort.com](https://tvsort.com)
- - date published: 2024-01-01T13:14:57+00:00
- - user: None
- - tags: []
-
-## TweakTown: Latest Worldwide Tech News & Game Reviews
- - [https://www.tweaktown.com](https://www.tweaktown.com)
- - date published: 2023-10-25T09:36:28.596286+00:00
- - user: None
- - tags: []
-
-## Twilio Help Center
- - [https://help.twilio.com](https://help.twilio.com)
- - date published: 2024-02-13T18:58:14.032110+00:00
- - user: None
- - tags: []
-
-## Twilio - Overview
- - [https://investors.twilio.com](https://investors.twilio.com)
- - date published: 2024-01-08T15:36:01.777491+00:00
- - user: None
- - tags: []
-
-## Twilio Status
- - [https://status.twilio.com](https://status.twilio.com)
- - date published: 2023-10-25T17:50:32.780446+00:00
- - user: None
- - tags: []
-
-## https://support.twilio.com
- - [https://support.twilio.com](https://support.twilio.com)
- - date published: 2023-10-25T17:50:33.910951+00:00
- - user: None
- - tags: []
-
-## Communication APIs for SMS, Voice, Video & Authentication | Twilio
- - [https://www.twilio.com](https://www.twilio.com)
- - date published: 2023-10-25T17:50:37.163414+00:00
- - user: None
- - tags: []
-
-## None
- - [https://pbs.twimg.com](https://pbs.twimg.com)
- - date published: 2024-02-24T18:05:38.254769+00:00
- - user: None
- - tags: []
-
-## The Website Intelligence Platform | Advanced Web Statistics, Visitor Behavior Analytics & Communication
- - [https://www.twipla.com](https://www.twipla.com)
- - date published: 2023-10-25T17:50:39.118540+00:00
- - user: None
- - tags: []
-
-## Twisted Fields community - farm tech and love
- - [https://community.twistedfields.com](https://community.twistedfields.com)
- - date published: 2023-10-25T17:50:42.481255+00:00
- - user: None
- - tags: []
-
-## TwistedSifter
- - [https://twistedsifter.com](https://twistedsifter.com)
- - date published: 2023-10-25T17:50:50.255727+00:00
  - user: None
  - tags: []
 

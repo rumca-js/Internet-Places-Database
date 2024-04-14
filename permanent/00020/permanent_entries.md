@@ -1,3 +1,159 @@
+## Liz Izhikevich
+ - [https://lizizhikevich.github.io](https://lizizhikevich.github.io)
+ - date published: 2023-10-25T19:48:30.756392+00:00
+ - user: None
+ - tags: []
+
+## LLaVA
+ - [https://llava-vl.github.io](https://llava-vl.github.io)
+ - date published: 2023-10-25T19:48:32.431642+00:00
+ - user: None
+ - tags: []
+
+## https://llsoftsec.github.io
+ - [https://llsoftsec.github.io](https://llsoftsec.github.io)
+ - date published: 2024-01-09T03:32:51.422172+00:00
+ - user: None
+ - tags: []
+
+## Progressively Optimized Local Radiance Fields for Robust View Synthesis
+ - [https://localrf.github.io](https://localrf.github.io)
+ - date published: 2023-10-25T19:48:35.131299+00:00
+ - user: None
+ - tags: []
+
+## LOLBAS
+ - [https://lolbas-project.github.io](https://lolbas-project.github.io)
+ - date published: 2023-10-25T19:48:44.144156+00:00
+ - user: None
+ - tags: []
+
+## LostFileArchives
+ - [https://lostfilearchives.github.io](https://lostfilearchives.github.io)
+ - date published: 2018-08-31T00:00:00+00:00
+ - user: None
+ - tags: ['hacking', 'securom']
+
+## Home
+ - [https://lottie.github.io](https://lottie.github.io)
+ - date published: 2024-04-04T20:18:15.339546+00:00
+ - user: None
+ - tags: []
+
+## Lucas Seiki Oshiro
+ - [https://lucasoshiro.github.io](https://lucasoshiro.github.io)
+ - date published: 2024-01-03T00:44:29.284892+00:00
+ - user: None
+ - tags: []
+
+## m's blog · We're all different. This is the only thing we have in common.
+ - [https://ludovicianul.github.io](https://ludovicianul.github.io)
+ - date published: 2023-10-25T19:48:47.066057+00:00
+ - user: None
+ - tags: []
+
+## Luke Salamone's Blog
+ - [https://lukesalamone.github.io](https://lukesalamone.github.io)
+ - date published: 2023-10-25T19:48:48.519413+00:00
+ - user: None
+ - tags: []
+
+## Lumiere - Google Research
+ - [https://lumiere-video.github.io](https://lumiere-video.github.io)
+ - date published: 2024-01-24T09:11:07.776816+00:00
+ - user: None
+ - tags: []
+
+## Lup Yuen LEE
+ - [https://lupyuen.github.io](https://lupyuen.github.io)
+ - date published: 2023-10-25T19:49:05.483685+00:00
+ - user: None
+ - tags: []
+
+## https://lutzroeder.github.io
+ - [https://lutzroeder.github.io](https://lutzroeder.github.io)
+ - date published: 2024-01-09T03:32:51.896314+00:00
+ - user: None
+ - tags: []
+
+## LWSS Blog – Basement Dweller
+ - [https://lwss.github.io](https://lwss.github.io)
+ - date published: 2023-10-25T19:49:06.795269+00:00
+ - user: None
+ - tags: []
+
+## Lychee — Self-hosted photo-management done right
+ - [https://lycheeorg.github.io](https://lycheeorg.github.io)
+ - date published: 2023-10-25T19:49:07.538122+00:00
+ - user: None
+ - tags: []
+
+## Redirecting…
+ - [https://m680x0.github.io](https://m680x0.github.io)
+ - date published: 2023-10-25T19:49:07.954208+00:00
+ - user: None
+ - tags: []
+
+## Machines Reading Maps | Unlocking unique information from large collections of historical maps using AI
+ - [https://machines-reading-maps.github.io](https://machines-reading-maps.github.io)
+ - date published: 2023-10-25T19:49:08.905340+00:00
+ - user: None
+ - tags: []
+
+## Articles | Madaidan's Insecurities
+ - [https://madaidans-insecurities.github.io](https://madaidans-insecurities.github.io)
+ - date published: 2023-10-25T19:49:09.552990+00:00
+ - user: None
+ - tags: []
+
+## MADICES 2024
+ - [https://madices.github.io](https://madices.github.io)
+ - date published: 2024-02-08T17:01:55.216107+00:00
+ - user: None
+ - tags: []
+
+## MagicEdit: High-Fidelity Temporally Coherent Video Editing
+ - [https://magic-edit.github.io](https://magic-edit.github.io)
+ - date published: 2023-10-25T19:49:15.486474+00:00
+ - user: None
+ - tags: []
+
+## MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation
+ - [https://magicvideov2.github.io](https://magicvideov2.github.io)
+ - date published: 2024-01-12T07:51:20.397106+00:00
+ - user: None
+ - tags: []
+
+## Maik Klein
+ - [https://maikklein.github.io](https://maikklein.github.io)
+ - date published: 2023-10-25T19:49:16.084796+00:00
+ - user: None
+ - tags: []
+
+## Text-To-4D Dynamic Scene Generation
+ - [https://make-a-video3d.github.io](https://make-a-video3d.github.io)
+ - date published: 2023-10-25T19:49:16.845049+00:00
+ - user: None
+ - tags: []
+
+## https://makelinux.github.io
+ - [https://makelinux.github.io](https://makelinux.github.io)
+ - date published: 2023-10-25T19:49:17.988414+00:00
+ - user: None
+ - tags: []
+
+## Make Pixels Dance: High-Dynamic Video Generation
+ - [https://makepixelsdance.github.io](https://makepixelsdance.github.io)
+ - date published: 2023-11-21T11:32:18+00:00
+ - user: None
+ - tags: []
+
+## Make Source Not Code!
+ - [https://makesourcenotcode.github.io](https://makesourcenotcode.github.io)
+ - date published: 2023-10-25T19:49:19.134099+00:00
+ - user: None
+ - tags: []
+
 ## Marc Khoury
  - [https://marckhoury.github.io](https://marckhoury.github.io)
  - date published: 2023-10-25T19:49:20.531403+00:00
@@ -433,6 +589,12 @@
 ## Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere
  - [https://ok-robot.github.io](https://ok-robot.github.io)
  - date published: 2024-02-23T17:23:23+00:00
+ - user: None
+ - tags: []
+
+## OpenEQA: Embodied Question Answering in the Era of Foundation Models
+ - [https://open-eqa.github.io](https://open-eqa.github.io)
+ - date published: 2024-04-12T23:42:08+00:00
  - user: None
  - tags: []
 
@@ -1181,14 +1343,14 @@
  - tags: []
 
 ## Xinye Tao
- - [https://tabokie.github.io](https://tabokie.github.io)
- - date published: 2024-01-14T17:10:57.682317+00:00
+ - [http://tabokie.github.io](http://tabokie.github.io)
+ - date published: 2024-02-25T21:00:42.459387+00:00
  - user: None
  - tags: []
 
 ## Xinye Tao
- - [http://tabokie.github.io](http://tabokie.github.io)
- - date published: 2024-02-25T21:00:42.459387+00:00
+ - [https://tabokie.github.io](https://tabokie.github.io)
+ - date published: 2024-01-14T17:10:57.682317+00:00
  - user: None
  - tags: []
 
@@ -1333,6 +1495,12 @@
 ## https://tschatzl.github.io
  - [https://tschatzl.github.io](https://tschatzl.github.io)
  - date published: 2024-01-09T03:33:02.519471+00:00
+ - user: None
+ - tags: []
+
+## Taeksang Peter Kim
+ - [https://tspeterkim.github.io](https://tspeterkim.github.io)
+ - date published: 2024-04-10T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2083,6 +2251,12 @@
 ## We Analyzed 425,909 Favicons
  - [https://iconmap.io](https://iconmap.io)
  - date published: 2023-10-25T19:57:09.705620+00:00
+ - user: None
+ - tags: []
+
+## IDnow: Seamless identity verification solutions.
+ - [https://www.idnow.io](https://www.idnow.io)
+ - date published: 2024-03-28T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3090,6 +3264,12 @@
  - user: None
  - tags: []
 
+## Mikoto
+ - [https://blog.mikoto.io](https://blog.mikoto.io)
+ - date published: 2024-04-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Milk-V | Embracing RISC-V with us
  - [https://milkv.io](https://milkv.io)
  - date published: 2023-10-25T20:00:53.948439+00:00
@@ -3226,7 +3406,7 @@
  - [https://n8n.io](https://n8n.io)
  - date published: 2023-10-25T20:01:53.839424+00:00
  - user: None
- - tags: []
+ - tags: ['self-host']
 
 ## naii.io - Passionate Writer. Professional Editor.
  - [https://naii.io](https://naii.io)
@@ -3235,16 +3415,16 @@
  - tags: ['personal']
 
 ## NCS (NoCopyrightSounds) - Free Music for Creators
- - [https://ncs.io](https://ncs.io)
- - date published: 2023-11-13T13:39:14.863107+00:00
- - user: None
- - tags: ['music', 'assets audio']
-
-## NCS (NoCopyrightSounds) - Free Music for Creators
  - [http://ncs.io](http://ncs.io)
  - date published: 2024-02-24T09:55:13.681583+00:00
  - user: None
  - tags: []
+
+## NCS (NoCopyrightSounds) - Free Music for Creators
+ - [https://ncs.io](https://ncs.io)
+ - date published: 2023-11-13T13:39:14.863107+00:00
+ - user: None
+ - tags: ['music', 'assets audio']
 
 ## Daniel Nechtan
  - [https://nechtan.io](https://nechtan.io)
@@ -3329,6 +3509,12 @@
  - date published: 2023-10-25T20:02:22.261059+00:00
  - user: None
  - tags: []
+
+## Nomad by HashiCorp
+ - [https://www.nomadproject.io](https://www.nomadproject.io)
+ - date published: 2024-04-13T13:26:37.660159+00:00
+ - user: None
+ - tags: ['it containers', 'it cloud']
 
 ## Nonio
  - [https://non.io](https://non.io)
@@ -4116,6 +4302,12 @@
  - user: None
  - tags: []
 
+## Reverse DNS Lookup - Instant IPv4 & IPv6 Reverse Check | ReverseDNS.io
+ - [https://reversedns.io](https://reversedns.io)
+ - date published: 2024-04-13T17:18:54+00:00
+ - user: rumpel
+ - tags: ['dns']
+
 ## RightToLeft Consulting
  - [https://www.righttoleft.io](https://www.righttoleft.io)
  - date published: 2023-10-25T20:05:31.144841+00:00
@@ -4297,15 +4489,15 @@
  - user: None
  - tags: []
 
-## Home | Product Blog • Sentry
- - [https://blog.sentry.io](https://blog.sentry.io)
- - date published: 2023-10-25T20:06:25.081412+00:00
- - user: None
- - tags: []
-
 ## Home
  - [http://blog.sentry.io](http://blog.sentry.io)
  - date published: 2024-02-26T12:55:57.482127+00:00
+ - user: None
+ - tags: []
+
+## Home | Product Blog • Sentry
+ - [https://blog.sentry.io](https://blog.sentry.io)
+ - date published: 2023-10-25T20:06:25.081412+00:00
  - user: None
  - tags: []
 
@@ -5004,7 +5196,7 @@
  - [https://tonyxu.io](https://tonyxu.io)
  - date published: 2024-01-10T19:22:40.898114+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Andree's Musings
  - [https://toonk.io](https://toonk.io)
@@ -5061,15 +5253,15 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
-## Software Innovation Lab - Tweag
- - [https://www.tweag.io](https://www.tweag.io)
- - date published: 2023-10-25T20:12:02.408852+00:00
- - user: None
- - tags: []
-
 ## Software Innovation Lab
  - [http://www.tweag.io](http://www.tweag.io)
  - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Software Innovation Lab - Tweag
+ - [https://www.tweag.io](https://www.tweag.io)
+ - date published: 2023-10-25T20:12:02.408852+00:00
  - user: None
  - tags: []
 
@@ -5810,198 +6002,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Time.is - exact time, any time zone
  - [https://time.is](https://time.is)
  - date published: 2023-10-25T20:14:35.850640+00:00
- - user: None
- - tags: []
-
-## timing blog
- - [https://blog.timing.is](https://blog.timing.is)
- - date published: 2023-10-25T20:14:37.573106+00:00
- - user: None
- - tags: []
-
-## tot.is - tiny original thoughts
- - [https://tot.is](https://tot.is)
- - date published: 2023-11-26T21:56:30.710870+00:00
- - user: None
- - tags: ['personal']
-
-## Umami
- - [https://umami.is](https://umami.is)
- - date published: 2024-04-08T19:31:04.401640+00:00
- - user: None
- - tags: ['open source', 'web analytics', 'self-host']
-
-## Forsíða - Vísir
- - [https://www.visir.is](https://www.visir.is)
- - date published: 2023-12-19T00:38:08.555606+00:00
- - user: None
- - tags: []
-
-## Open visual  development for the open web
- - [https://webstudio.is](https://webstudio.is)
- - date published: 2023-10-25T20:14:38.592018+00:00
- - user: None
- - tags: []
-
-## gavart.ist — 🌱 digital garden  🗂  work repository
- - [https://gavart.ist](https://gavart.ist)
- - date published: 2023-12-20T00:59:57.888289+00:00
- - user: None
- - tags: ['personal']
-
-## Madhan Kanagavel - Kaizenist
- - [https://www.kaizen.ist](https://www.kaizen.ist)
- - date published: 2024-02-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Amiga.it: le risorse Amiga in Italia
- - [https://www.amiga.it](https://www.amiga.it)
- - date published: 2024-01-09T03:33:34.657525+00:00
- - user: None
- - tags: []
-
-## Amigapage - Sito italiano dedicato ad Amiga
- - [https://www.amigapage.it](https://www.amigapage.it)
- - date published: 2023-11-02T09:47:56.546618+00:00
- - user: None
- - tags: ['amiga']
-
-## Agenzia ANSA: ultime notizie di cronaca, politica e sport - ANSA
- - [https://www.ansa.it](https://www.ansa.it)
- - date published: 2023-10-25T20:14:45.151180+00:00
- - user: None
- - tags: []
-
-## Aurelio De Rosa
- - [https://www.audero.it](https://www.audero.it)
- - date published: 2023-10-25T20:14:45.892675+00:00
- - user: None
- - tags: []
-
-## Bergamonews - Quotidiano online di Bergamo e Provincia
- - [https://www.bergamonews.it](https://www.bergamonews.it)
- - date published: 2024-02-08T16:44:10.606214+00:00
- - user: None
- - tags: []
-
-## Homepage - Biennale Tecnologia
- - [https://www.biennaletecnologia.it](https://www.biennaletecnologia.it)
- - date published: 2024-03-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Wifi & Bed
- - [https://bitslap.it](https://bitslap.it)
- - date published: 2023-10-25T20:14:46.393122+00:00
- - user: None
- - tags: []
-
-## Can I Stream It?
- - [https://www.canistream.it](https://www.canistream.it)
- - date published: 2023-11-27T11:29:05+00:00
- - user: rumpel
- - tags: ['video streaming filter']
-
-## Charanjit Chana, Associate Director & Head of Development
- - [https://charanj.it](https://charanj.it)
- - date published: 2024-01-02T03:37:07.145151+00:00
- - user: None
- - tags: []
-
-## Daniele's personal web site
- - [https://www.danielediminica.it](https://www.danielediminica.it)
- - date published: 2024-01-14T17:11:51.209804+00:00
- - user: None
- - tags: []
-
-## Davide Quaranta
- - [https://davquar.it](https://davquar.it)
- - date published: 2023-10-25T20:14:47.000469+00:00
- - user: None
- - tags: []
-
-## Trapped inside a tölva
- - [https://edoput.it](https://edoput.it)
- - date published: 2023-10-25T20:14:48.397571+00:00
- - user: None
- - tags: []
-
-## Trapped inside a tölva
- - [http://edoput.it](http://edoput.it)
- - date published: 2023-11-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Eliseo Martelli
- - [https://www.eliseomartelli.it](https://www.eliseomartelli.it)
- - date published: 2023-10-25T08:49:49.023316+00:00
- - user: None
- - tags: ['personal']
-
-## Enrico Bassetti
- - [https://www.enricobassetti.it](https://www.enricobassetti.it)
- - date published: 2023-10-25T20:14:54.222338+00:00
- - user: None
- - tags: []
-
-## Baldarn's
- - [https://lorenzo.farnararo.it](https://lorenzo.farnararo.it)
- - date published: 2024-04-03T06:30:00.002113+00:00
- - user: None
- - tags: ['personal']
-
-## Francesca Zambon art
- - [https://www.francescazambon.it](https://www.francescazambon.it)
- - date published: 2024-03-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Near future
- - [https://en.futuroprossimo.it](https://en.futuroprossimo.it)
- - date published: 2024-03-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Test page: GaiaTool CGI map server
- - [https://www.gaia-gis.it](https://www.gaia-gis.it)
- - date published: 2024-01-28T16:02:30.100601+00:00
- - user: None
- - tags: []
-
-## Home - Garante Privacy
- - [https://www.garanteprivacy.it](https://www.garanteprivacy.it)
- - date published: 2023-10-25T20:14:57.663434+00:00
- - user: None
- - tags: []
-
-## morsechat - an online morse code radio
- - [https://morse.halb.it](https://morse.halb.it)
- - date published: 2023-10-25T20:14:58.101342+00:00
- - user: None
- - tags: []
-
-## None
- - [https://haystack.it](https://haystack.it)
- - date published: 2024-01-09T03:33:35.326586+00:00
- - user: None
- - tags: []
-
-## Home | { Hoelzel.IT }
- - [https://www.hoelzel.it](https://www.hoelzel.it)
- - date published: 2023-10-25T20:14:58.999999+00:00
- - user: None
- - tags: []
-
-## IAI Istituto Affari Internazionali
- - [https://www.iai.it](https://www.iai.it)
- - date published: 2023-10-25T20:15:02.462616+00:00
- - user: None
- - tags: []
-
-## Ötzi, l'Uomo venuto dal ghiaccio
- - [https://www.iceman.it](https://www.iceman.it)
- - date published: 2024-03-22T10:38:43.538641+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,243 @@
+## Breaking News & Views for the Progressive Community | Common Dreams
+ - [https://www.commondreams.org](https://www.commondreams.org)
+ - date published: 2023-10-25T10:39:59.954835+00:00
+ - user: None
+ - tags: []
+
+## Common Edge
+ - [https://commonedge.org](https://commonedge.org)
+ - date published: 2023-10-25T11:25:25.464212+00:00
+ - user: None
+ - tags: []
+
+## CommonMark
+ - [https://commonmark.org](https://commonmark.org)
+ - date published: 2023-10-25T21:08:49.047103+00:00
+ - user: None
+ - tags: []
+
+## Commonweal Magazine | Religion, Politics, Culture
+ - [https://www.commonwealmagazine.org](https://www.commonwealmagazine.org)
+ - date published: 2023-10-25T21:08:58.637923+00:00
+ - user: None
+ - tags: []
+
+## COMMUNIA Association
+ - [https://communia-association.org](https://communia-association.org)
+ - date published: 2024-03-11T20:55:22.730086+00:00
+ - user: None
+ - tags: []
+
+## CommunityWiki: Front Page
+ - [https://communitywiki.org](https://communitywiki.org)
+ - date published: 2023-10-25T21:09:04.403232+00:00
+ - user: None
+ - tags: []
+
+## Compassion & Choices | End-of-Life Resources
+ - [https://www.compassionandchoices.org](https://www.compassionandchoices.org)
+ - date published: 2023-10-25T21:09:12.683102+00:00
+ - user: None
+ - tags: []
+
+## The Changelog | Comments on family, technology, and society
+ - [https://changelog.complete.org](https://changelog.complete.org)
+ - date published: 2023-10-25T21:09:18.866235+00:00
+ - user: None
+ - tags: []
+
+## www.complete.org
+ - [https://www.complete.org](https://www.complete.org)
+ - date published: 2023-10-25T21:09:19.979371+00:00
+ - user: None
+ - tags: []
+
+## Compoze
+ - [https://www.compoze.org](https://www.compoze.org)
+ - date published: 2023-10-25T21:09:21.237236+00:00
+ - user: None
+ - tags: []
+
+## Computational Complexity
+ - [https://blog.computationalcomplexity.org](https://blog.computationalcomplexity.org)
+ - date published: 2023-10-25T21:09:31.458721+00:00
+ - user: None
+ - tags: []
+
+## IEEE Computer Society
+ - [https://www.computer.org](https://www.computer.org)
+ - date published: 2023-10-25T21:09:38.026804+00:00
+ - user: None
+ - tags: []
+
+## Home - CHM
+ - [https://computerhistory.org](https://computerhistory.org)
+ - date published: 2023-10-25T21:09:43.375622+00:00
+ - user: None
+ - tags: []
+
+## facebook-f icon
+ - [https://info.computerhistory.org](https://info.computerhistory.org)
+ - date published: 2023-10-25T21:09:49.791311+00:00
+ - user: None
+ - tags: []
+
+## https://s3data.computerhistory.org
+ - [https://s3data.computerhistory.org](https://s3data.computerhistory.org)
+ - date published: 2024-01-09T03:38:41.051342+00:00
+ - user: None
+ - tags: []
+
+## Home - CHM
+ - [https://www.computerhistory.org](https://www.computerhistory.org)
+ - date published: 2023-10-25T21:09:57.418860+00:00
+ - user: None
+ - tags: []
+
+## I'm getting some serious “Darmok and Jalad at Tanagra” vibes from this card magic book - The Boston Diaries - Captain Napalm
+ - [https://boston.conman.org](https://boston.conman.org)
+ - date published: 2023-10-25T21:10:01.402711+00:00
+ - user: None
+ - tags: ['personal']
+
+## Conservative Institute
+ - [https://conservativeinstitute.org](https://conservativeinstitute.org)
+ - date published: 2023-10-25T21:10:09.601436+00:00
+ - user: None
+ - tags: []
+
+## The National Constitution Center
+ - [https://constitutioncenter.org](https://constitutioncenter.org)
+ - date published: 2023-10-25T21:10:11.326457+00:00
+ - user: None
+ - tags: []
+
+## Innovation at Consumer Reports
+ - [https://digital-lab.consumerreports.org](https://digital-lab.consumerreports.org)
+ - date published: 2023-10-25T21:10:14.257493+00:00
+ - user: None
+ - tags: []
+
+## Product Reviews and Ratings - Consumer Reports
+ - [https://www.consumerreports.org](https://www.consumerreports.org)
+ - date published: 2023-10-25T10:13:05.232572+00:00
+ - user: None
+ - tags: []
+
+## Home - Contemporary Psychotherapy
+ - [https://www.contemporarypsychotherapy.org](https://www.contemporarypsychotherapy.org)
+ - date published: 2023-10-25T21:10:16.379674+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.contraflowscifi.org](https://www.contraflowscifi.org)
+ - date published: 2024-02-08T17:49:09.362304+00:00
+ - user: None
+ - tags: []
+
+## Cooklang: recipe markup language
+ - [https://cooklang.org](https://cooklang.org)
+ - date published: 2023-10-25T21:10:17.107498+00:00
+ - user: None
+ - tags: []
+
+## BG - Recent
+ - [https://bg.copernicus.org](https://bg.copernicus.org)
+ - date published: 2024-01-07T16:43:01.877631+00:00
+ - user: None
+ - tags: []
+
+## Copernicus.org - About us
+ - [https://copernicus.org](https://copernicus.org)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: rumpel
+ - tags: ['science articles']
+
+## CP - Recent
+ - [https://cp.copernicus.org](https://cp.copernicus.org)
+ - date published: 2023-11-15T07:47:50.212658+00:00
+ - user: None
+ - tags: []
+
+## GMD - Recent
+ - [https://gmd.copernicus.org](https://gmd.copernicus.org)
+ - date published: 2024-01-05T19:35:31.677543+00:00
+ - user: None
+ - tags: []
+
+## JM - Recent
+ - [https://jm.copernicus.org](https://jm.copernicus.org)
+ - date published: 2023-12-23T16:46:09.558293+00:00
+ - user: None
+ - tags: []
+
+## WCD - Recent
+ - [https://wcd.copernicus.org](https://wcd.copernicus.org)
+ - date published: 2024-02-28T08:52:28.952543+00:00
+ - user: None
+ - tags: ['scientific articles']
+
+## The Copetti site | Rodrigo Copetti
+ - [https://www.copetti.org](https://www.copetti.org)
+ - date published: 2023-10-25T08:54:33.181982+00:00
+ - user: None
+ - tags: ['xbox', 'personal', 'consoles', 'playstation']
+
+## Amiga Hardware Programming | Coppershade
+ - [http://coppershade.org](http://coppershade.org)
+ - date published: 2023-11-02T11:02:31.779250+00:00
+ - user: None
+ - tags: ['programming', 'personal', 'amiga']
+
+## Home
+ - [https://copyrightalliance.org](https://copyrightalliance.org)
+ - date published: 2020-09-21T05:21:51+00:00
+ - user: None
+ - tags: []
+
+## Home | Corporate Europe Observatory
+ - [https://corporateeurope.org](https://corporateeurope.org)
+ - date published: 2023-10-25T21:10:18.379127+00:00
+ - user: None
+ - tags: []
+
+## About CorpWatch | corpwatch
+ - [https://www.corpwatch.org](https://www.corpwatch.org)
+ - date published: 2023-10-25T21:10:20.522811+00:00
+ - user: None
+ - tags: []
+
+## corsix.org
+ - [https://www.corsix.org](https://www.corsix.org)
+ - date published: 2023-10-25T21:10:23.384582+00:00
+ - user: None
+ - tags: []
+
+## Counterexamples in Type Systems - Counterexamples in Type Systems
+ - [https://counterexamples.org](https://counterexamples.org)
+ - date published: 2023-10-25T21:10:24.650321+00:00
+ - user: None
+ - tags: []
+
+## Countle - Daily Math Puzzle
+ - [https://www.countle.org](https://www.countle.org)
+ - date published: 2023-10-25T21:10:30.023116+00:00
+ - user: None
+ - tags: []
+
+## Coursera | Degrees, Certificates, & Free Online Courses
+ - [https://www.coursera.org](https://www.coursera.org)
+ - date published: 2023-10-25T21:10:36.489801+00:00
+ - user: None
+ - tags: []
+
+## The Coutant Microphone Site
+ - [https://coutant.org](https://coutant.org)
+ - date published: 2023-10-25T21:10:37.446578+00:00
+ - user: None
+ - tags: []
+
 ## CoWasm: Collaborative WebAssembly for Servers and Browsers
  - [https://cowasm.org](https://cowasm.org)
  - date published: 2023-10-25T21:10:37.899251+00:00
@@ -71,14 +311,14 @@
  - tags: []
 
 ## Homepage - Creative Commons
- - [https://creativecommons.org](https://creativecommons.org)
- - date published: 2023-12-11T16:22:52.219620+00:00
+ - [http://creativecommons.org](http://creativecommons.org)
+ - date published: 2024-03-21T07:44:18.617797+00:00
  - user: None
  - tags: []
 
 ## Homepage - Creative Commons
- - [http://creativecommons.org](http://creativecommons.org)
- - date published: 2024-03-21T07:44:18.617797+00:00
+ - [https://creativecommons.org](https://creativecommons.org)
+ - date published: 2023-12-11T16:22:52.219620+00:00
  - user: None
  - tags: []
 
@@ -815,6 +1055,12 @@
  - user: None
  - tags: []
 
+## HOME - Dimitri Lascaris: Activist Journalist Lawyer
+ - [https://dimitrilascaris.org](https://dimitrilascaris.org)
+ - date published: 2020-11-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Dinosaur Images & Facts - The Online Database
  - [https://dinosaurpictures.org](https://dinosaurpictures.org)
  - date published: 2023-10-25T21:14:21.679378+00:00
@@ -922,6 +1168,12 @@
  - date published: 2024-01-09T03:38:57.166834+00:00
  - user: None
  - tags: []
+
+## DNS Checker - DNS Check Propagation Tool
+ - [https://dnschecker.org](https://dnschecker.org)
+ - date published: 2024-04-13T17:18:06+00:00
+ - user: rumpel
+ - tags: ['online tool', 'dns verification']
 
 ## DNS Service Discovery (DNS-SD)
  - [http://www.dns-sd.org](http://www.dns-sd.org)
@@ -1157,6 +1409,12 @@
  - user: None
  - tags: ['cms']
 
+## DSHR's Blog
+ - [https://blog.dshr.org](https://blog.dshr.org)
+ - date published: 2024-04-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## DSLinux - Linux for the Nintendo DS
  - [https://www.dslinux.org](https://www.dslinux.org)
  - date published: 2023-10-25T08:32:08.225858+00:00
@@ -1176,16 +1434,16 @@
  - tags: []
 
 ## Kohina Web Player
- - [https://kohina.duckdns.org](https://kohina.duckdns.org)
- - date published: 2024-02-15T22:13:24.519956+00:00
- - user: None
- - tags: ['demoscene']
-
-## Kohina Web Player
  - [http://kohina.duckdns.org](http://kohina.duckdns.org)
  - date published: 2024-02-11T14:38:28.495727+00:00
  - user: None
  - tags: []
+
+## Kohina Web Player
+ - [https://kohina.duckdns.org](https://kohina.duckdns.org)
+ - date published: 2024-02-15T22:13:24.519956+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Duck DNS
  - [https://www.duckdns.org](https://www.duckdns.org)
@@ -1402,6 +1660,12 @@
  - date published: 2023-12-03T05:38:04.247574+00:00
  - user: None
  - tags: []
+
+## Edubuntu
+ - [https://www.edubuntu.org](https://www.edubuntu.org)
+ - date published: 2024-04-13T18:23:28+00:00
+ - user: rumpel
+ - tags: ['operating system']
 
 ## Educated Guesswork
  - [https://educatedguesswork.org](https://educatedguesswork.org)
@@ -3012,16 +3276,16 @@
  - tags: []
 
 ## Gamesboro Radio
- - [http://radio.gamesboro.org](http://radio.gamesboro.org)
- - date published: 2024-02-15T02:00:21.565467+00:00
- - user: None
- - tags: []
-
-## Gamesboro Radio
  - [https://radio.gamesboro.org](https://radio.gamesboro.org)
  - date published: 2024-02-15T22:13:54.975381+00:00
  - user: None
  - tags: ['demoscene']
+
+## Gamesboro Radio
+ - [http://radio.gamesboro.org](http://radio.gamesboro.org)
+ - date published: 2024-02-15T02:00:21.565467+00:00
+ - user: None
+ - tags: []
 
 ## Gamesboro Shoutcast
  - [http://shoutcast.gamesboro.org](http://shoutcast.gamesboro.org)
@@ -5273,14 +5537,14 @@ Welcome
  - tags: ['personal']
 
 ## Home
- - [http://jpc2.org](http://jpc2.org)
- - date published: 2023-12-24T08:16:31.320638+00:00
+ - [https://jpc2.org](https://jpc2.org)
+ - date published: 2024-04-03T12:49:04.549276+00:00
  - user: None
  - tags: ['personal']
 
 ## Home
- - [https://jpc2.org](https://jpc2.org)
- - date published: 2024-04-03T12:49:04.549276+00:00
+ - [http://jpc2.org](http://jpc2.org)
+ - date published: 2023-12-24T08:16:31.320638+00:00
  - user: None
  - tags: ['personal']
 
@@ -5739,270 +6003,6 @@ Hosted by Panix.com.
 ## WordPress › Error
  - [http://blog.kevtris.org](http://blog.kevtris.org)
  - date published: 2023-10-25T21:36:37.992822+00:00
- - user: None
- - tags: []
-
-## KEXP 90.3 FM - Where the Music Matters
- - [https://kexp.org](https://kexp.org)
- - date published: 2024-01-22T12:40:00+00:00
- - user: rumpel
- - tags: ['radio', 'music']
-
-## KEXP 90.3 FM - Where the Music Matters
- - [http://kexp.org](http://kexp.org)
- - date published: 2024-02-22T16:55:15.353701+00:00
- - user: None
- - tags: []
-
-## Keycloak
- - [https://www.keycloak.org](https://www.keycloak.org)
- - date published: 2024-04-08T19:31:41.264672+00:00
- - user: None
- - tags: ['open source', 'identity management', 'self-host']
-
-## Key to Harmony Online Al-Anon Meeting
- - [https://www.keytoharmony.org](https://www.keytoharmony.org)
- - date published: 2024-02-08T18:02:29.783200+00:00
- - user: None
- - tags: []
-
-## KFF Health News
- - [https://kffhealthnews.org](https://kffhealthnews.org)
- - date published: 2023-12-03T18:38:29.362939+00:00
- - user: None
- - tags: []
-
-## KGOU - Homepage | KGOU
- - [https://www.kgou.org](https://www.kgou.org)
- - date published: 2024-04-01T15:13:29.185721+00:00
- - user: None
- - tags: []
-
-## Права людини в Україні — сайт Харківської правозахисної групи
- - [https://khpg.org](https://khpg.org)
- - date published: 2023-12-19T08:14:20.221086+00:00
- - user: None
- - tags: []
-
-## The Khronos Group Inc
- - [https://www.khronos.org](https://www.khronos.org)
- - date published: 2023-10-25T21:36:40.765055+00:00
- - user: None
- - tags: []
-
-## KIANMENG.ORG
- - [https://www.kianmeng.org](https://www.kianmeng.org)
- - date published: 2024-01-27T17:53:19.855192+00:00
- - user: None
- - tags: []
-
-## Documentation | KiCad
- - [https://docs.kicad.org](https://docs.kicad.org)
- - date published: 2023-10-25T21:36:41.762036+00:00
- - user: None
- - tags: []
-
-## KiCad EDA - Schematic Capture & PCB Design Software
- - [https://www.kicad.org](https://www.kicad.org)
- - date published: 2023-10-25T21:36:43.199325+00:00
- - user: None
- - tags: []
-
-## Kick In The Head | Read your Best Life Stories
- - [http://kickinthehead.org](http://kickinthehead.org)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Detexify LaTeX handwritten symbol recognition
- - [https://detexify.kirelabs.org](https://detexify.kirelabs.org)
- - date published: 2023-11-15T01:02:24.623426+00:00
- - user: None
- - tags: []
-
-## KitchenOwl
- - [https://kitchenowl.org](https://kitchenowl.org)
- - date published: 2024-04-08T19:29:16.948926+00:00
- - user: None
- - tags: ['self-host', 'grocery manager']
-
-## Explore Offline Wikipedia and Educational Content with Kiwix- Kiwix
- - [https://kiwix.org](https://kiwix.org)
- - date published: 2024-02-23T00:00:00+00:00
- - user: rumpel
- - tags: ['digital library', 'internet archive']
-
-## Welcome to Kiwix Server
- - [https://library.kiwix.org](https://library.kiwix.org)
- - date published: 2023-10-25T21:36:43.855326+00:00
- - user: None
- - tags: []
-
-## Kevin Kelly – Over the long term, the future is decided by optimists
- - [https://kk.org](https://kk.org)
- - date published: 2023-10-25T21:36:46.122026+00:00
- - user: None
- - tags: []
-
-## WebGPU GPT Model Demo
- - [https://www.kmeans.org](https://www.kmeans.org)
- - date published: 2023-10-25T21:36:46.471227+00:00
- - user: None
- - tags: []
-
-## Mark J. Nelson
- - [https://www.kmjn.org](https://www.kmjn.org)
- - date published: 2023-10-25T21:36:47.730721+00:00
- - user: None
- - tags: []
-
-## KMUW - Homepage | KMUW
- - [https://www.kmuw.org](https://www.kmuw.org)
- - date published: 2023-11-09T13:45:32.889287+00:00
- - user: None
- - tags: []
-
-## | Knight First Amendment Institute
- - [https://knightcolumbia.org](https://knightcolumbia.org)
- - date published: 2023-10-25T21:36:54.362080+00:00
- - user: None
- - tags: []
-
-## Knight Foundation
- - [https://knightfoundation.org](https://knightfoundation.org)
- - date published: 2023-10-25T21:37:00.753387+00:00
- - user: None
- - tags: []
-
-## KNKX Public Radio | Jazz, Blues & NPR News | KNKX Public Radio
- - [https://www.knkx.org](https://www.knkx.org)
- - date published: 2023-10-25T21:37:06.340326+00:00
- - user: None
- - tags: []
-
-## Knowable Magazine
- - [https://knowablemagazine.org](https://knowablemagazine.org)
- - date published: 2023-10-25T21:37:11.035991+00:00
- - user: None
- - tags: []
-
-## Knowing Machines
- - [https://knowingmachines.org](https://knowingmachines.org)
- - date published: 2023-10-30T22:57:52.177182+00:00
- - user: None
- - tags: []
-
-## The Gorilla Foundation – Conservation Through Communication
- - [https://www.koko.org](https://www.koko.org)
- - date published: 2024-02-24T18:06:10.787734+00:00
- - user: None
- - tags: []
-
-## Free and open source comics/mangas media server | Komga
- - [https://komga.org](https://komga.org)
- - date published: 2024-04-09T16:56:49+00:00
- - user: rumpel
- - tags: ['comics library', 'manga library', 'self-host']
-
-## Home Page of Marat Fayzullin
- - [https://fms.komkon.org](https://fms.komkon.org)
- - date published: 2023-10-25T21:37:12.156811+00:00
- - user: None
- - tags: []
-
-## Konilo: A personal computing system in Forth
- - [http://konilo.org](http://konilo.org)
- - date published: 2024-03-02T06:25:29+00:00
- - user: None
- - tags: []
-
-## Origami by Michał Kosmulski
- - [https://origami.kosmulski.org](https://origami.kosmulski.org)
- - date published: 2023-10-25T21:37:13.563028+00:00
- - user: None
- - tags: []
-
-## Kotlin Programming Language
- - [https://kotlinlang.org](https://kotlinlang.org)
- - date published: 2023-12-11T12:12:45+00:00
- - user: rumpel
- - tags: ['programming language', 'kotlin']
-
-## kottke.org feeds
- - [http://feeds.kottke.org](http://feeds.kottke.org)
- - date published: 2024-02-26T14:57:12.364327+00:00
- - user: None
- - tags: []
-
-## kottke.org - home of fine hypertext products
- - [https://kottke.org](https://kottke.org)
- - date published: 2023-10-25T09:24:05.372537+00:00
- - user: None
- - tags: ['personal']
-
-## KPBS Homepage | KPBS Public Media
- - [https://www.kpbs.org](https://www.kpbs.org)
- - date published: 2023-10-25T21:37:17.991746+00:00
- - user: None
- - tags: []
-
-## KQED | News, Radio, Podcasts, TV | Public Media for Northern California
- - [https://www.kqed.org](https://www.kqed.org)
- - date published: 2023-10-25T21:37:32.208784+00:00
- - user: None
- - tags: []
-
-## KRCL | Home
- - [https://krcl.org](https://krcl.org)
- - date published: 2024-02-24T18:10:58.378179+00:00
- - user: None
- - tags: []
-
-## Krita Fund | Digital Painting. Creative Freedom.
- - [https://fund.krita.org](https://fund.krita.org)
- - date published: 2023-10-25T21:37:38.421533+00:00
- - user: None
- - tags: []
-
-## Krita
- - [https://krita.org](https://krita.org)
- - date published: 2023-10-25T08:33:48.431626+00:00
- - user: None
- - tags: []
-
-## Krusader - Twin panel file management for your desktop
- - [https://krusader.org](https://krusader.org)
- - date published: 2023-10-30T13:59:36.700036+00:00
- - user: None
- - tags: ['krusader', 'open source', 'program']
-
-## KSUT Homepage | KSUT Public Radio
- - [https://www.ksut.org](https://www.ksut.org)
- - date published: 2024-02-17T15:56:25.359714+00:00
- - user: None
- - tags: []
-
-## Kubuntu | Friendly Computing
- - [https://kubuntu.org](https://kubuntu.org)
- - date published: 2023-11-06T10:07:58.071509+00:00
- - user: None
- - tags: ['operating system', 'linux']
-
-## NPR Utah
- - [https://www.kuer.org](https://www.kuer.org)
- - date published: 2023-11-02T09:42:18.848119+00:00
- - user: None
- - tags: []
-
-## KUNR Public Radio: Northern Nevada and the Eastern Sierra
- - [https://www.kunr.org](https://www.kunr.org)
- - date published: 2023-10-25T21:37:42.573020+00:00
- - user: None
- - tags: []
-
-## KUOW - KUOW Public Radio
- - [https://kuow.org](https://kuow.org)
- - date published: 2023-10-25T21:37:47.724694+00:00
  - user: None
  - tags: []
 

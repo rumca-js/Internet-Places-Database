@@ -1,3 +1,21 @@
+## Adobe Help Center
+ - [https://helpx.adobe.com](https://helpx.adobe.com)
+ - date published: 2023-10-25T12:33:18.128561+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://kuler.adobe.com](http://kuler.adobe.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Adobe Landing Pages
+ - [https://pages.adobe.com](https://pages.adobe.com)
+ - date published: 2023-10-25T12:33:18.873394+00:00
+ - user: None
+ - tags: []
+
 ## Adobe Podcast | AI audio recording and editing, all on the web
  - [https://podcast.adobe.com](https://podcast.adobe.com)
  - date published: 2023-10-25T12:33:19.421794+00:00
@@ -95,14 +113,14 @@
  - tags: []
 
 ## Home - Adventure Hermit Travel
- - [http://adventurehermit.com](http://adventurehermit.com)
- - date published: 2020-05-19T07:46:57+00:00
+ - [https://adventurehermit.com](https://adventurehermit.com)
+ - date published: 2024-01-06T08:54:27.239976+00:00
  - user: None
  - tags: []
 
 ## Home - Adventure Hermit Travel
- - [https://adventurehermit.com](https://adventurehermit.com)
- - date published: 2024-01-06T08:54:27.239976+00:00
+ - [http://adventurehermit.com](http://adventurehermit.com)
+ - date published: 2020-05-19T07:46:57+00:00
  - user: None
  - tags: []
 
@@ -1235,16 +1253,16 @@
  - tags: ['digital marketplace']
 
 ## Home -
- - [http://alifeunlived.com](http://alifeunlived.com)
- - date published: 2015-08-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home -
  - [https://alifeunlived.com](https://alifeunlived.com)
  - date published: 2023-12-22T17:50:45.863289+00:00
  - user: None
  - tags: ['personal']
+
+## Home -
+ - [http://alifeunlived.com](http://alifeunlived.com)
+ - date published: 2015-08-20T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Alin Panaitiu - Personal website
  - [https://alinpanaitiu.com](https://alinpanaitiu.com)
@@ -2602,15 +2620,15 @@
  - user: None
  - tags: ['personal']
 
-## Animated Knots by Grog | Learn how to tie knots with step-by-step animation
- - [https://www.animatedknots.com](https://www.animatedknots.com)
- - date published: 2023-10-25T12:41:38.429834+00:00
- - user: None
- - tags: []
-
 ## Home
  - [http://www.animatedknots.com](http://www.animatedknots.com)
  - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Animated Knots by Grog | Learn how to tie knots with step-by-step animation
+ - [https://www.animatedknots.com](https://www.animatedknots.com)
+ - date published: 2023-10-25T12:41:38.429834+00:00
  - user: None
  - tags: []
 
@@ -2848,15 +2866,15 @@
  - user: None
  - tags: []
 
-## List of posts - <antirez>
- - [http://antirez.com](http://antirez.com)
- - date published: 2024-02-25T14:05:17.604190+00:00
- - user: None
- - tags: []
-
 ## None
  - [https://antirez.com](https://antirez.com)
  - date published: 2024-01-02T12:33:10.039907+00:00
+ - user: None
+ - tags: []
+
+## List of posts - <antirez>
+ - [http://antirez.com](http://antirez.com)
+ - date published: 2024-02-25T14:05:17.604190+00:00
  - user: None
  - tags: []
 
@@ -3002,13 +3020,13 @@
  - [https://www.apkmirror.com](https://www.apkmirror.com)
  - date published: 2023-10-24T20:11:16.961757+00:00
  - user: None
- - tags: ['app store']
+ - tags: ['app store', 'apk downloader']
 
 ## Download APK on Android with Free Online APK Downloader - APKPure
  - [https://apkpure.com](https://apkpure.com)
  - date published: 2023-10-24T20:11:28.883069+00:00
  - user: None
- - tags: ['app store']
+ - tags: ['app store', 'apk downloader']
 
 ## Download APK on Android with Free Online APK Downloader - APKPure
  - [https://m.apkpure.com](https://m.apkpure.com)
@@ -5627,14 +5645,14 @@
  - tags: []
 
 ## Bay 12 Games: Dwarf Fortress
- - [http://www.bay12games.com](http://www.bay12games.com)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://www.bay12games.com](https://www.bay12games.com)
+ - date published: 2023-10-25T11:08:28.145829+00:00
  - user: None
  - tags: []
 
 ## Bay 12 Games: Dwarf Fortress
- - [https://www.bay12games.com](https://www.bay12games.com)
- - date published: 2023-10-25T11:08:28.145829+00:00
+ - [http://www.bay12games.com](http://www.bay12games.com)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5977,24 +5995,6 @@
 ## Home - Belt Magazine
  - [https://beltmag.com](https://beltmag.com)
  - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Simplify Your Life
- - [https://bemorewithless.com](https://bemorewithless.com)
- - date published: 2023-12-29T20:11:42.020820+00:00
- - user: None
- - tags: ['personal']
-
-## Be My Eyes - See the world together
- - [https://www.bemyeyes.com](https://www.bemyeyes.com)
- - date published: 2023-10-25T12:56:56.367181+00:00
- - user: None
- - tags: []
-
-## Benard Makaa | Electrical Engineer, Writer, Lecturer, Programmer
- - [https://www.benardmakaa.com](https://www.benardmakaa.com)
- - date published: 2024-01-05T01:04:54.810679+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,21 @@
+## Simplify Your Life
+ - [https://bemorewithless.com](https://bemorewithless.com)
+ - date published: 2023-12-29T20:11:42.020820+00:00
+ - user: None
+ - tags: ['personal']
+
+## Be My Eyes - See the world together
+ - [https://www.bemyeyes.com](https://www.bemyeyes.com)
+ - date published: 2023-10-25T12:56:56.367181+00:00
+ - user: None
+ - tags: []
+
+## Benard Makaa | Electrical Engineer, Writer, Lecturer, Programmer
+ - [https://www.benardmakaa.com](https://www.benardmakaa.com)
+ - date published: 2024-01-05T01:04:54.810679+00:00
+ - user: None
+ - tags: []
+
 ## Ben Burwell
  - [https://www.benburwell.com](https://www.benburwell.com)
  - date published: 2023-11-01T08:41:33.680868+00:00
@@ -137,16 +155,16 @@
  - tags: []
 
 ## Benjamin Wechsler: Change Agent | Executive Coach | Teacher | Strategist | Organizational & Leadership Development
- - [http://benwechsler.com](http://benwechsler.com)
- - date published: 2024-04-03T06:28:00.961565+00:00
- - user: None
- - tags: ['personal']
-
-## Benjamin Wechsler: Change Agent | Executive Coach | Teacher | Strategist | Organizational & Leadership Development
  - [https://benwechsler.com](https://benwechsler.com)
  - date published: 2024-01-19T13:01:49.988029+00:00
  - user: None
  - tags: []
+
+## Benjamin Wechsler: Change Agent | Executive Coach | Teacher | Strategist | Organizational & Leadership Development
+ - [http://benwechsler.com](http://benwechsler.com)
+ - date published: 2024-04-03T06:28:00.961565+00:00
+ - user: None
+ - tags: ['personal']
 
 ## blog.benwinding
  - [https://blog.benwinding.com](https://blog.benwinding.com)
@@ -2135,14 +2153,14 @@
  - tags: []
 
 ## Old Vintage Computing Research
- - [http://oldvcr.blogspot.com](http://oldvcr.blogspot.com)
- - date published: 2023-12-24T04:49:39.230080+00:00
+ - [https://oldvcr.blogspot.com](https://oldvcr.blogspot.com)
+ - date published: 2023-10-25T13:06:06.842647+00:00
  - user: None
  - tags: []
 
 ## Old Vintage Computing Research
- - [https://oldvcr.blogspot.com](https://oldvcr.blogspot.com)
- - date published: 2023-10-25T13:06:06.842647+00:00
+ - [http://oldvcr.blogspot.com](http://oldvcr.blogspot.com)
+ - date published: 2023-12-24T04:49:39.230080+00:00
  - user: None
  - tags: []
 
@@ -2699,14 +2717,14 @@
  - tags: []
 
 ## Bob Bertsch
- - [https://bobbertsch.com](https://bobbertsch.com)
- - date published: 2023-12-19T10:00:09.271295+00:00
+ - [http://bobbertsch.com](http://bobbertsch.com)
+ - date published: 2024-04-03T06:30:48.075523+00:00
  - user: None
  - tags: ['personal']
 
 ## Bob Bertsch
- - [http://bobbertsch.com](http://bobbertsch.com)
- - date published: 2024-04-03T06:30:48.075523+00:00
+ - [https://bobbertsch.com](https://bobbertsch.com)
+ - date published: 2023-12-19T10:00:09.271295+00:00
  - user: None
  - tags: ['personal']
 
@@ -2752,17 +2770,17 @@
  - user: None
  - tags: ['personal']
 
-## Bobzien.com – From the western edge of the Great Basin
- - [http://www.bobzien.com](http://www.bobzien.com)
- - date published: 2024-04-03T06:30:28.715784+00:00
- - user: None
- - tags: ['personal']
-
 ## Site not found · DreamHost
  - [https://www.bobzien.com](https://www.bobzien.com)
  - date published: 2024-01-15T13:59:16.442976+00:00
  - user: None
  - tags: []
+
+## Bobzien.com – From the western edge of the Great Basin
+ - [http://www.bobzien.com](http://www.bobzien.com)
+ - date published: 2024-04-03T06:30:28.715784+00:00
+ - user: None
+ - tags: ['personal']
 
 ## BodyLines.com™ :: Curves® breast enhancers | 100% Cashmere Scarves
  - [https://www.bodylines.com](https://www.bodylines.com)
@@ -2971,14 +2989,14 @@
  - tags: ['books']
 
 ## Bookreporter.com |
- - [https://www.bookreporter.com](https://www.bookreporter.com)
- - date published: 2023-11-07T16:06:19.097099+00:00
+ - [http://www.bookreporter.com](http://www.bookreporter.com)
+ - date published: 2024-03-01T19:06:27.394328+00:00
  - user: None
  - tags: []
 
 ## Bookreporter.com |
- - [http://www.bookreporter.com](http://www.bookreporter.com)
- - date published: 2024-03-01T19:06:27.394328+00:00
+ - [https://www.bookreporter.com](https://www.bookreporter.com)
+ - date published: 2023-11-07T16:06:19.097099+00:00
  - user: None
  - tags: []
 
@@ -4939,14 +4957,14 @@
  - tags: ['site building']
 
 ## None
- - [https://www.caribpress.com](https://www.caribpress.com)
- - date published: 2024-01-09T02:31:43.727437+00:00
+ - [http://www.caribpress.com](http://www.caribpress.com)
+ - date published: 2024-02-25T15:38:05.095360+00:00
  - user: None
  - tags: []
 
 ## None
- - [http://www.caribpress.com](http://www.caribpress.com)
- - date published: 2024-02-25T15:38:05.095360+00:00
+ - [https://www.caribpress.com](https://www.caribpress.com)
+ - date published: 2024-01-09T02:31:43.727437+00:00
  - user: None
  - tags: []
 
@@ -5341,14 +5359,14 @@
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [https://sports.cctv.com](https://sports.cctv.com)
- - date published: 2023-12-09T12:18:44.730556+00:00
+ - [http://sports.cctv.com](http://sports.cctv.com)
+ - date published: 2024-03-21T02:07:49.559014+00:00
  - user: None
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [http://sports.cctv.com](http://sports.cctv.com)
- - date published: 2024-03-21T02:07:49.559014+00:00
+ - [https://sports.cctv.com](https://sports.cctv.com)
+ - date published: 2023-12-09T12:18:44.730556+00:00
  - user: None
  - tags: []
 
@@ -5424,15 +5442,15 @@
  - user: None
  - tags: ['personal']
 
-## https://www.cell.com
- - [https://www.cell.com](https://www.cell.com)
- - date published: 2023-10-25T13:19:41.208125+00:00
- - user: None
- - tags: []
-
 ## Human fetal brain self-organizes into long-term expanding organoids
  - [www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue](www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue)
  - date published: 2024-01-10T19:20:45.384863+00:00
+ - user: None
+ - tags: []
+
+## https://www.cell.com
+ - [https://www.cell.com](https://www.cell.com)
+ - date published: 2023-10-25T13:19:41.208125+00:00
  - user: None
  - tags: []
 
@@ -5575,14 +5593,14 @@
  - tags: []
 
 ## Chad Riden
- - [https://chadriden.com](https://chadriden.com)
- - date published: 2024-01-09T11:06:48.763243+00:00
+ - [http://chadriden.com](http://chadriden.com)
+ - date published: 2024-04-03T06:31:43.422186+00:00
  - user: None
  - tags: ['personal']
 
 ## Chad Riden
- - [http://chadriden.com](http://chadriden.com)
- - date published: 2024-04-03T06:31:43.422186+00:00
+ - [https://chadriden.com](https://chadriden.com)
+ - date published: 2024-01-09T11:06:48.763243+00:00
  - user: None
  - tags: ['personal']
 
@@ -5944,7 +5962,7 @@
  - [https://chestofbooks.com](https://chestofbooks.com)
  - date published: 2024-04-12T05:42:16.397127+00:00
  - user: None
- - tags: ['e-books']
+ - tags: ['ebooks']
 
 ## The Cheswicks' web pages
  - [https://cheswick.com](https://cheswick.com)
@@ -5985,24 +6003,6 @@
 ## Chicago Public Square
  - [https://www.chicagopublicsquare.com](https://www.chicagopublicsquare.com)
  - date published: 2024-03-12T17:41:37.700789+00:00
- - user: None
- - tags: []
-
-## Chicago Reader
- - [https://chicagoreader.com](https://chicagoreader.com)
- - date published: 2023-10-25T13:22:02.366112+00:00
- - user: None
- - tags: []
-
-## Chicago Tribune: Chicago news, sports, weather, entertainment - Chicago Tribune
- - [https://www.chicagotribune.com](https://www.chicagotribune.com)
- - date published: 2023-10-25T10:37:22.041466+00:00
- - user: None
- - tags: []
-
-## Chicken Sandwiches, Waffle Potato Fries, Salads & More | Chick-fil-A
- - [https://www.chick-fil-a.com](https://www.chick-fil-a.com)
- - date published: 2023-10-25T13:22:05.954894+00:00
  - user: None
  - tags: []
 

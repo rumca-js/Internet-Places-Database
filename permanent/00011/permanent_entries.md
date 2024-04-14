@@ -1,3 +1,93 @@
+## Petra Palusova
+ - [https://petrapalusova.com](https://petrapalusova.com)
+ - date published: 2024-01-15T13:59:36.448000+00:00
+ - user: None
+ - tags: []
+
+## Petra Wille - Product Leadership Coach
+ - [https://www.petra-wille.com](https://www.petra-wille.com)
+ - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [https://www.pexels.com](https://www.pexels.com)
+ - date published: 2023-10-27T10:12:59.070431+00:00
+ - user: None
+ - tags: ['assets images', 'wallpapers']
+
+## PEZ Artwork
+ - [http://www.pez-artwork.com](http://www.pez-artwork.com)
+ - date published: 2024-03-24T15:05:50.379363+00:00
+ - user: None
+ - tags: []
+
+## PFAFF Home English (United States)
+ - [https://www.pfaff.com](https://www.pfaff.com)
+ - date published: 2024-02-08T22:19:39.830262+00:00
+ - user: None
+ - tags: []
+
+## https://www.pfizer.com
+ - [https://www.pfizer.com](https://www.pfizer.com)
+ - date published: 2023-11-01T08:42:53.876422+00:00
+ - user: None
+ - tags: []
+
+## Paul's Dev Notes
+ - [https://pfrazee.com](https://pfrazee.com)
+ - date published: 2024-01-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Paul's Dev Notes
+ - [https://www.pfrazee.com](https://www.pfrazee.com)
+ - date published: 2024-01-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Paul's Dev Notes
+ - [http://www.pfrazee.com](http://www.pfrazee.com)
+ - date published: 2024-01-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Postgres performance at any scale | PostgreSQL Tuning - pganalyze
+ - [https://pganalyze.com](https://pganalyze.com)
+ - date published: 2023-10-25T16:33:32.420093+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.pge.com](https://www.pge.com)
+ - date published: 2024-02-21T19:04:52.433469+00:00
+ - user: None
+ - tags: []
+
+## Show HN: pgxman - npm for Postgres extensions
+ - [https://pgxman.com](https://pgxman.com)
+ - date published: 2023-11-29T19:08:15+00:00
+ - user: None
+ - tags: []
+
+## Phantogram
+ - [https://www.phantogram.com](https://www.phantogram.com)
+ - date published: 2023-11-13T10:22:07.294247+00:00
+ - user: None
+ - tags: ['music band']
+
+## PhaseLLM
+ - [https://phasellm.com](https://phasellm.com)
+ - date published: 2023-10-25T16:33:35.710834+00:00
+ - user: None
+ - tags: []
+
+## Philipp Hauer's Blog - Engineering Management, Java Ecosystem, Kotlin, Sociology of Software Development
+ - [https://phauer.com](https://phauer.com)
+ - date published: 2023-10-25T16:33:36.753715+00:00
+ - user: None
+ - tags: []
+
 ## Phil Cal√ßado
  - [http://philcalcado.com](http://philcalcado.com)
  - date published: 2023-07-21T00:00:00+00:00
@@ -11,14 +101,14 @@
  - tags: ['music band', 'music artist']
 
 ## Phil D.
- - [http://phildenman.com](http://phildenman.com)
- - date published: 2024-04-03T06:25:43.319001+00:00
+ - [https://phildenman.com](https://phildenman.com)
+ - date published: 2023-12-27T23:55:08.862914+00:00
  - user: None
  - tags: ['personal']
 
 ## Phil D.
- - [https://phildenman.com](https://phildenman.com)
- - date published: 2023-12-27T23:55:08.862914+00:00
+ - [http://phildenman.com](http://phildenman.com)
+ - date published: 2024-04-03T06:25:43.319001+00:00
  - user: None
  - tags: ['personal']
 
@@ -224,14 +314,14 @@
  - tags: []
 
 ## phpied.com
- - [https://www.phpied.com](https://www.phpied.com)
- - date published: 2024-01-15T05:45:17.624527+00:00
+ - [http://www.phpied.com](http://www.phpied.com)
+ - date published: 2024-03-24T15:05:52.476257+00:00
  - user: None
  - tags: []
 
 ## phpied.com
- - [http://www.phpied.com](http://www.phpied.com)
- - date published: 2024-03-24T15:05:52.476257+00:00
+ - [https://www.phpied.com](https://www.phpied.com)
+ - date published: 2024-01-15T05:45:17.624527+00:00
  - user: None
  - tags: []
 
@@ -606,6 +696,12 @@
  - date published: 2023-12-01T11:39:33+00:00
  - user: rumpel
  - tags: ['artists', 'designers', 'merch']
+
+## Home
+ - [https://pixeljets.com](https://pixeljets.com)
+ - date published: 2024-04-13T12:36:41.261005+00:00
+ - user: None
+ - tags: ['personal', 'devlog']
 
 ## Pixelmator Pro
  - [https://www.pixelmator.com](https://www.pixelmator.com)
@@ -1172,13 +1268,13 @@
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -1332,6 +1428,18 @@
  - date published: 2024-02-08T00:00:00+00:00
  - user: None
  - tags: []
+
+## positive-intentions
+ - [http://chat.positive-intentions.com](http://chat.positive-intentions.com)
+ - date published: 2024-04-13T11:33:10.096587+00:00
+ - user: None
+ - tags: []
+
+## Welcome to positive-intentions | Welcome to positive-intentions
+ - [http://positive-intentions.com](http://positive-intentions.com)
+ - date published: 2024-04-13T11:33:09.435812+00:00
+ - user: None
+ - tags: ['p2p', 'chat app']
 
 ## Positivity Stories - A Personal Development Blog
  - [https://positivitystories.com](https://positivitystories.com)
@@ -2462,14 +2570,14 @@
  - tags: []
 
 ## Pushbullet Blog
- - [http://blog.pushbullet.com](http://blog.pushbullet.com)
- - date published: 2022-01-01T00:00:00+00:00
+ - [https://blog.pushbullet.com](https://blog.pushbullet.com)
+ - date published: 2023-10-25T16:42:28.991402+00:00
  - user: None
  - tags: []
 
 ## Pushbullet Blog
- - [https://blog.pushbullet.com](https://blog.pushbullet.com)
- - date published: 2023-10-25T16:42:28.991402+00:00
+ - [http://blog.pushbullet.com](http://blog.pushbullet.com)
+ - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3107,17 +3215,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://rachelwestbooks.com](http://rachelwestbooks.com)
- - date published: 2024-02-29T14:58:43.538321+00:00
- - user: None
- - tags: []
-
 ## http://rachelwestbooks.com
  - [https://rachelwestbooks.com](https://rachelwestbooks.com)
  - date published: 2024-02-09T00:19:01.129739+00:00
  - user: None
  - tags: ['poetry', 'book', 'personal']
+
+## None
+ - [http://rachelwestbooks.com](http://rachelwestbooks.com)
+ - date published: 2024-02-29T14:58:43.538321+00:00
+ - user: None
+ - tags: []
 
 ## Rachel Zampino | Website Wizard - Rachel Zampino
  - [https://rachelzampino.com](https://rachelzampino.com)
@@ -3553,16 +3661,16 @@ More!
  - tags: []
 
 ## Home - ratfactor
- - [http://ratfactor.com](http://ratfactor.com)
- - date published: 2024-04-03T06:32:12.821956+00:00
- - user: None
- - tags: ['personal']
-
-## Home - ratfactor
  - [https://ratfactor.com](https://ratfactor.com)
  - date published: 2023-10-25T16:46:22.037973+00:00
  - user: None
  - tags: []
+
+## Home - ratfactor
+ - [http://ratfactor.com](http://ratfactor.com)
+ - date published: 2024-04-03T06:32:12.821956+00:00
+ - user: None
+ - tags: ['personal']
 
 ## rauljordan::blog
  - [https://rauljordan.com](https://rauljordan.com)
@@ -3583,16 +3691,16 @@ More!
  - tags: []
 
 ## Ravenfeast
- - [http://www.ravenfeast.com](http://www.ravenfeast.com)
- - date published: 2024-03-01T18:35:27.406553+00:00
- - user: None
- - tags: []
-
-## Ravenfeast
  - [https://www.ravenfeast.com](https://www.ravenfeast.com)
  - date published: 2024-03-01T09:41:52+00:00
  - user: rumpel
  - tags: ['tabletop games', 'wargames']
+
+## Ravenfeast
+ - [http://www.ravenfeast.com](http://www.ravenfeast.com)
+ - date published: 2024-03-01T18:35:27.406553+00:00
+ - user: None
+ - tags: []
 
 ## https://www.ravensoft.com
  - [https://www.ravensoft.com](https://www.ravensoft.com)
@@ -4027,14 +4135,14 @@ More!
  - tags: ['command and conquer']
 
 ## Red Blob Games
- - [http://www.redblobgames.com](http://www.redblobgames.com)
- - date published: 2024-03-24T15:05:53.916412+00:00
+ - [https://www.redblobgames.com](https://www.redblobgames.com)
+ - date published: 2023-10-25T16:47:32.544748+00:00
  - user: None
  - tags: []
 
 ## Red Blob Games
- - [https://www.redblobgames.com](https://www.redblobgames.com)
- - date published: 2023-10-25T16:47:32.544748+00:00
+ - [http://www.redblobgames.com](http://www.redblobgames.com)
+ - date published: 2024-03-24T15:05:53.916412+00:00
  - user: None
  - tags: []
 
@@ -4153,14 +4261,14 @@ More!
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
+ - [http://www.reddit-stream.com](http://www.reddit-stream.com)
+ - date published: 2023-12-23T19:30:18.252561+00:00
  - user: None
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [http://www.reddit-stream.com](http://www.reddit-stream.com)
- - date published: 2023-12-23T19:30:18.252561+00:00
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
  - user: None
  - tags: []
 
@@ -4510,7 +4618,7 @@ More!
  - [https://remarkable.com](https://remarkable.com)
  - date published: 2023-10-25T16:49:24.798927+00:00
  - user: None
- - tags: []
+ - tags: ['ebook reader']
 
 ## Remedy Entertainment
  - [https://www.remedygames.com](https://www.remedygames.com)
@@ -5221,16 +5329,16 @@ More!
  - tags: []
 
 ## Ken Shirriff's blog
- - [https://www.righto.com](https://www.righto.com)
- - date published: 2023-10-25T16:51:33.313104+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## Ken Shirriff's blog
  - [http://www.righto.com](http://www.righto.com)
  - date published: 2024-02-25T00:44:48.796985+00:00
  - user: None
  - tags: []
+
+## Ken Shirriff's blog
+ - [https://www.righto.com](https://www.righto.com)
+ - date published: 2023-10-25T16:51:33.313104+00:00
+ - user: None
+ - tags: ['blog', 'personal']
 
 ## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
  - [https://www.rigzone.com](https://www.rigzone.com)
@@ -5897,112 +6005,4 @@ More!
  - date published: 2023-11-29T18:20:49.678962+00:00
  - user: None
  - tags: ['personal']
-
-## Jason Rodriguez
- - [https://rodriguezcommaj.com](https://rodriguezcommaj.com)
- - date published: 2023-10-25T08:47:49.289045+00:00
- - user: None
- - tags: ['personal']
-
-## Roel van der Ven
- - [https://roelvanderven.com](https://roelvanderven.com)
- - date published: 2024-01-11T02:12:26.108964+00:00
- - user: None
- - tags: []
-
-## Rogan Murley
- - [https://roganmurley.com](https://roganmurley.com)
- - date published: 2024-01-05T15:17:03.373517+00:00
- - user: None
- - tags: []
-
-## Movie reviews and ratings by Film Critic Roger Ebert | Roger Ebert
- - [https://www.rogerebert.com](https://www.rogerebert.com)
- - date published: 2023-10-27T14:18:10.449564+00:00
- - user: None
- - tags: ['movies']
-
-## Roger Schank
- - [https://www.rogerschank.com](https://www.rogerschank.com)
- - date published: 2023-10-25T16:53:33.728783+00:00
- - user: None
- - tags: []
-
-## Personal site of Roger Stringer | Roger Stringer
- - [https://rogerstringer.com](https://rogerstringer.com)
- - date published: 2024-01-15T14:06:35.096845+00:00
- - user: None
- - tags: []
-
-## Digital product innovation in charities | Roger Swannell
- - [https://rogerswannell.com](https://rogerswannell.com)
- - date published: 2023-12-31T21:21:28.894147+00:00
- - user: None
- - tags: []
-
-## Rogue Amoeba - Under the Microscope
- - [https://weblog.rogueamoeba.com](https://weblog.rogueamoeba.com)
- - date published: 2023-10-25T16:53:36.308176+00:00
- - user: None
- - tags: []
-
-## RogueBasin
- - [https://www.roguebasin.com](https://www.roguebasin.com)
- - date published: 2023-10-25T16:53:39.345258+00:00
- - user: None
- - tags: []
-
-## Temple of The Roguelike
- - [https://blog.roguetemple.com](https://blog.roguetemple.com)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Temple of The Roguelike – Preserving the spirit of classic roguelikes
- - [https://roguetemple.com](https://roguetemple.com)
- - date published: 2023-10-25T16:53:45.225348+00:00
- - user: None
- - tags: []
-
-## Rogue VHS
- - [https://roguevhs.com](https://roguevhs.com)
- - date published: 2024-02-12T13:43:40+00:00
- - user: rumpel
- - tags: ['music artist', 'synthwave']
-
-## Rogule - a dungeon a day keeps the Balrog away
- - [https://rogule.com](https://rogule.com)
- - date published: 2023-10-25T16:53:50.312363+00:00
- - user: None
- - tags: []
-
-## Rohdesign
- - [https://rohdesign.com](https://rohdesign.com)
- - date published: 2023-12-09T14:59:37.930775+00:00
- - user: None
- - tags: ['personal']
-
-## Rohit Farmer's Personal Website
- - [https://rohitfarmer.com](https://rohitfarmer.com)
- - date published: 2024-02-01T03:07:26.250335+00:00
- - user: None
- - tags: ['personal']
-
-## About
- - [https://rohitpaulk.com](https://rohitpaulk.com)
- - date published: 2023-11-29T16:18:54.093413+00:00
- - user: None
- - tags: ['personal']
-
-## 403 Forbidden
- - [https://www.roi-nj.com](https://www.roi-nj.com)
- - date published: 2023-12-10T00:14:16.296424+00:00
- - user: None
- - tags: []
-
-## Roku Community Support | Fast Responses | Roku Community
- - [https://community.roku.com](https://community.roku.com)
- - date published: 2023-10-25T16:54:01.511231+00:00
- - user: None
- - tags: []
 

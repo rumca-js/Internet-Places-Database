@@ -1,3 +1,333 @@
+## Dimitrije's Website
+ - [https://dimitrije.website](https://dimitrije.website)
+ - date published: 2023-10-25T23:00:52.022931+00:00
+ - user: None
+ - tags: []
+
+## Make your website editable
+ - [https://editable.website](https://editable.website)
+ - date published: 2023-10-25T23:00:54.922068+00:00
+ - user: None
+ - tags: []
+
+## Eric Bailey – Inclusive design advocate, writer, developer, and speaker
+ - [https://ericwbailey.website](https://ericwbailey.website)
+ - date published: 2023-10-25T23:00:57.223545+00:00
+ - user: None
+ - tags: []
+
+## The Idea Vault
+ - [https://ideavault.framer.website](https://ideavault.framer.website)
+ - date published: 2024-01-11T16:51:13.147520+00:00
+ - user: None
+ - tags: []
+
+## this godforsaken website
+ - [https://godforsaken.website](https://godforsaken.website)
+ - date published: 2023-11-28T03:20:50.728837+00:00
+ - user: None
+ - tags: []
+
+## Godly — Astronomically good web design inspiration
+ - [https://godly.website](https://godly.website)
+ - date published: 2023-10-25T23:01:00.460094+00:00
+ - user: None
+ - tags: []
+
+## Grumpy Website
+ - [https://grumpy.website](https://grumpy.website)
+ - date published: 2023-10-25T23:01:02.945875+00:00
+ - user: None
+ - tags: []
+
+## Misty's Internet Website
+ - [https://www.mistys-internet.website](https://www.mistys-internet.website)
+ - date published: 2023-12-11T07:38:24.477769+00:00
+ - user: None
+ - tags: []
+
+## noclip
+ - [https://noclip.website](https://noclip.website)
+ - date published: 2023-10-25T23:01:04.702229+00:00
+ - user: None
+ - tags: []
+
+## Omar Rizwan
+ - [https://omar.website](https://omar.website)
+ - date published: 2023-10-25T08:56:54.340403+00:00
+ - user: None
+ - tags: ['personal']
+
+## RomM - A beautiful, powerful, self-hosted rom manager. | RomM self-hosted rom manager
+ - [https://romm.website](https://romm.website)
+ - date published: 2024-04-08T19:30:37.115752+00:00
+ - user: None
+ - tags: ['self-host', 'rom library']
+
+## Index
+ - [https://www.zinzy.website](https://www.zinzy.website)
+ - date published: 2023-12-17T20:58:36.540887+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://caffeine.wiki](https://caffeine.wiki)
+ - date published: 2024-04-03T06:27:18.528683+00:00
+ - user: None
+ - tags: ['personal']
+
+## Caps Wiki
+ - [https://caps.wiki](https://caps.wiki)
+ - date published: 2023-10-25T23:01:07.461536+00:00
+ - user: None
+ - tags: []
+
+## Independent Fallout Wiki
+ - [https://fallout.wiki](https://fallout.wiki)
+ - date published: 2023-10-25T11:18:53.570144+00:00
+ - user: None
+ - tags: []
+
+## HomDGCat Wiki
+ - [https://homdgcat.wiki](https://homdgcat.wiki)
+ - date published: 2024-03-19T10:14:01.581556+00:00
+ - user: None
+ - tags: []
+
+## Wiki.js
+ - [https://js.wiki](https://js.wiki)
+ - date published: 2024-04-08T19:29:11.954255+00:00
+ - user: None
+ - tags: ['self-host', 'wiki server']
+
+## Home - Plex Meta Manager Wiki
+ - [https://metamanager.wiki](https://metamanager.wiki)
+ - date published: 2024-04-08T19:29:46.526245+00:00
+ - user: None
+ - tags: ['self-host', 'plex']
+
+## https://minecraft.wiki
+ - [https://minecraft.wiki](https://minecraft.wiki)
+ - date published: 2023-10-25T08:39:47.923091+00:00
+ - user: None
+ - tags: []
+
+## NixOS Wiki
+ - [https://nixos.wiki](https://nixos.wiki)
+ - date published: 2023-10-25T23:01:15.047322+00:00
+ - user: None
+ - tags: []
+
+## Roger Zurawicki · Roger Zurawicki
+ - [https://zura.wiki](https://zura.wiki)
+ - date published: 2023-10-25T09:24:59.328829+00:00
+ - user: None
+ - tags: ['personal']
+
+## Based.win – An online store that doesn't track you.
+ - [https://based.win](https://based.win)
+ - date published: 2024-02-03T08:24:24+00:00
+ - user: rumpel
+ - tags: ['youtuber merch']
+
+## https://cantsayanything.win
+ - [https://cantsayanything.win](https://cantsayanything.win)
+ - date published: 2024-01-09T03:48:48.150168+00:00
+ - user: None
+ - tags: []
+
+## Joe Winter Design
+ - [https://www.joemoe.win](https://www.joemoe.win)
+ - date published: 2023-12-15T21:42:17.937493+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sebastian Neef - 0day.work
+ - [https://0day.work](https://0day.work)
+ - date published: 2023-10-25T23:01:17.513284+00:00
+ - user: None
+ - tags: []
+
+## Bailey Kursar
+ - [https://bailey.work](https://bailey.work)
+ - date published: 2024-01-14T08:13:12.363849+00:00
+ - user: None
+ - tags: []
+
+## Brain pls work
+ - [https://brainpls.work](https://brainpls.work)
+ - date published: 2024-01-09T03:48:48.682019+00:00
+ - user: None
+ - tags: []
+
+## Jobs | Bonsai
+ - [https://bonsai.crew.work](https://bonsai.crew.work)
+ - date published: 2023-10-25T23:01:29.802155+00:00
+ - user: None
+ - tags: []
+
+## littledivy
+ - [https://divy.work](https://divy.work)
+ - date published: 2024-03-25T15:41:03.147668+00:00
+ - user: None
+ - tags: []
+
+## fractional.work | Sanjay Saraf | Substack
+ - [https://www.fractional.work](https://www.fractional.work)
+ - date published: 2023-10-25T10:08:52.365132+00:00
+ - user: None
+ - tags: ['substack']
+
+## Framework Community - Discussion and support for Framework products
+ - [https://community.frame.work](https://community.frame.work)
+ - date published: 2023-10-25T23:01:33.003425+00:00
+ - user: None
+ - tags: []
+
+## Framework Laptop 16 pre-orders are now open
+ - [https://frame.work](https://frame.work)
+ - date published: 2023-10-25T08:38:20.129233+00:00
+ - user: None
+ - tags: []
+
+## kade killary
+ - [https://kadekillary.work](https://kadekillary.work)
+ - date published: 2023-10-25T09:25:00.374655+00:00
+ - user: None
+ - tags: ['personal']
+
+## louis.work
+ - [https://louis.work](https://louis.work)
+ - date published: 2024-04-06T21:16:15.489696+00:00
+ - user: None
+ - tags: []
+
+## LWIClassic.Com: Learn, Grow, & Change!
+ - [https://lwiclassic.work](https://lwiclassic.work)
+ - date published: 2024-02-26T08:38:23.092718+00:00
+ - user: None
+ - tags: []
+
+## Lawyer-Made HR Documents  | goHeather
+ - [http://tally.work](http://tally.work)
+ - date published: 2023-10-25T23:01:38.366632+00:00
+ - user: None
+ - tags: []
+
+## Hi, I'm kmille
+ - [https://debugging.works](https://debugging.works)
+ - date published: 2023-10-25T08:56:55.059280+00:00
+ - user: None
+ - tags: ['personal']
+
+## epicenter.works - epicenter.works
+ - [https://epicenter.works](https://epicenter.works)
+ - date published: 2023-11-08T07:36:01.480803+00:00
+ - user: None
+ - tags: []
+
+## Home | My name is Olek. I write about what matters to me.
+ - [https://olek.works](https://olek.works)
+ - date published: 2023-12-12T23:24:43.805393+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | My name is Olek. I write about what matters to me.
+ - [http://olek.works](http://olek.works)
+ - date published: 2024-04-03T06:26:05.665297+00:00
+ - user: None
+ - tags: ['personal']
+
+## 3D Animation and Automated Rigging | Anything World
+ - [https://anything.world](https://anything.world)
+ - date published: 2023-10-25T23:01:41.604403+00:00
+ - user: None
+ - tags: []
+
+## Feedle: A search engine for blogs and podcasts
+ - [https://feedle.world](https://feedle.world)
+ - date published: 2024-03-23T13:23:06+00:00
+ - user: None
+ - tags: ['search engine']
+
+## From the New World | Brian Chau | Substack
+ - [https://www.fromthenew.world](https://www.fromthenew.world)
+ - date published: 2023-11-19T23:54:22.493481+00:00
+ - user: None
+ - tags: []
+
+## The Great Gender Divergence | Alice Evans | Substack
+ - [https://www.ggd.world](https://www.ggd.world)
+ - date published: 2024-03-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Lane's World! - the homepage of Lane Goldman
+ - [https://lanes.world](https://lanes.world)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Lemmy.World - A generic Lemmy server for everyone to use.
+ - [https://lemmy.world](https://lemmy.world)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mastodon.world Blog
+ - [https://blog.mastodon.world](https://blog.mastodon.world)
+ - date published: 2023-10-24T20:14:48.458879+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Mastodon
+ - [https://mastodon.world](https://mastodon.world)
+ - date published: 2023-10-24T20:14:49.692344+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Prashanth Sadasivan – The Chief Questions Officer 💻🍳☕️
+ - [https://prashanth.world](https://prashanth.world)
+ - date published: 2023-10-25T09:25:01.568735+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Reasons to be Cheerful
+ - [https://reasonstobecheerful.world](https://reasonstobecheerful.world)
+ - date published: 2023-10-25T23:01:47.023181+00:00
+ - user: None
+ - tags: []
+
+## Soundscape
+ - [https://soundscape.world](https://soundscape.world)
+ - date published: 2024-01-22T09:51:55+00:00
+ - user: rumpel
+ - tags: []
+
+## SPLACE. A World of Communities.
+ - [https://www.splace.world](https://www.splace.world)
+ - date published: 2023-12-11T15:48:59.406277+00:00
+ - user: None
+ - tags: []
+
+## The Dial
+ - [https://www.thedial.world](https://www.thedial.world)
+ - date published: 2023-10-25T23:01:53.554444+00:00
+ - user: None
+ - tags: []
+
+## NixOS & Flakes Book | Home Page
+ - [https://nixos-and-flakes.thiscute.world](https://nixos-and-flakes.thiscute.world)
+ - date published: 2023-10-25T23:01:55.768732+00:00
+ - user: None
+ - tags: []
+
+## Wikis World
+ - [https://wikis.world](https://wikis.world)
+ - date published: 2023-10-24T20:14:51.048903+00:00
+ - user: None
+ - tags: ['mastodon']
+
 ## Wiwo World
  - [https://www.wiwo.world](https://www.wiwo.world)
  - date published: 2024-02-21T22:25:08.824882+00:00
@@ -169,6 +499,12 @@
 ## Ben Kettle
  - [https://benkettle.xyz](https://benkettle.xyz)
  - date published: 2023-10-25T08:56:55.771554+00:00
+ - user: None
+ - tags: ['personal']
+
+## Betty
+ - [https://bettychang.xyz](https://bettychang.xyz)
+ - date published: 2024-04-13T15:58:20.970572+00:00
  - user: None
  - tags: ['personal']
 
@@ -1068,6 +1404,12 @@
  - user: None
  - tags: []
 
+## Ian's notes
+ - [https://ivdl.co.za](https://ivdl.co.za)
+ - date published: 2024-04-13T22:47:10.372023+00:00
+ - user: None
+ - tags: []
+
 ## https://www.mattcroxon.co.za
  - [https://www.mattcroxon.co.za](https://www.mattcroxon.co.za)
  - date published: 2024-01-24T19:36:46.260318+00:00
@@ -1165,16 +1507,16 @@
  - tags: []
 
 ## manu
- - [http://manu.zone](http://manu.zone)
- - date published: 1980-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## manu
  - [https://manu.zone](https://manu.zone)
  - date published: 2023-10-25T09:25:17.649037+00:00
  - user: None
  - tags: ['personal']
+
+## manu
+ - [http://manu.zone](http://manu.zone)
+ - date published: 1980-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## 403 Forbidden
  - [https://morph.zone](https://morph.zone)
@@ -1213,14 +1555,14 @@
  - tags: ['mastodon']
 
 ## The Zimbabwe Sphere
- - [https://www.zimsphere.co.zw](https://www.zimsphere.co.zw)
- - date published: 2024-01-09T03:49:05.321457+00:00
+ - [http://www.zimsphere.co.zw](http://www.zimsphere.co.zw)
+ - date published: 2024-02-26T14:04:23.431504+00:00
  - user: None
  - tags: []
 
 ## The Zimbabwe Sphere
- - [http://www.zimsphere.co.zw](http://www.zimsphere.co.zw)
- - date published: 2024-02-26T14:04:23.431504+00:00
+ - [https://www.zimsphere.co.zw](https://www.zimsphere.co.zw)
+ - date published: 2024-01-09T03:49:05.321457+00:00
  - user: None
  - tags: []
 

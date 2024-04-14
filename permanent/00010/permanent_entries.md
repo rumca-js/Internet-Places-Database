@@ -1,3 +1,87 @@
+## Natecation · from Nathan H. Leung
+ - [https://www.natecation.com](https://www.natecation.com)
+ - date published: 2023-10-25T16:10:48.264572+00:00
+ - user: None
+ - tags: []
+
+## Nate Hoffelder
+ - [https://natehoffelder.com](https://natehoffelder.com)
+ - date published: 2023-10-25T16:10:56.376597+00:00
+ - user: None
+ - tags: []
+
+## System Failure | Nathan Knopp | Substack
+ - [https://www.nateknopp.com](https://www.nateknopp.com)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Nat Eliason's Newsletter | Substack
+ - [https://blog.nateliason.com](https://blog.nateliason.com)
+ - date published: 2023-10-25T16:11:04.110312+00:00
+ - user: None
+ - tags: []
+
+## Nat Eliason: Blog, Book Notes, Newsletter, and More
+ - [https://www.nateliason.com](https://www.nateliason.com)
+ - date published: 2024-01-06T08:53:03.977149+00:00
+ - user: None
+ - tags: []
+
+## NateMerrill [dot] com
+ - [https://www.natemerrill.com](https://www.natemerrill.com)
+ - date published: 2024-01-01T17:21:02.778781+00:00
+ - user: None
+ - tags: ['personal']
+
+## nate's website
+ - [https://www.nateranda.com](https://www.nateranda.com)
+ - date published: 2023-10-25T16:11:06.408957+00:00
+ - user: None
+ - tags: []
+
+## Adventure Travel & Nature Tours | Natural Habitat Adventures
+ - [https://www.nathab.com](https://www.nathab.com)
+ - date published: 2024-02-24T18:06:06.741969+00:00
+ - user: None
+ - tags: []
+
+## Nathanael Haggard
+ - [https://nathanaelhaggard.com](https://nathanaelhaggard.com)
+ - date published: 2023-12-20T00:58:45.930055+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nathan Agin | Wearer of Many Hats
+ - [https://nathanagin.com](https://nathanagin.com)
+ - date published: 2024-01-10T22:42:57.976324+00:00
+ - user: None
+ - tags: []
+
+## Nathan Craddock
+ - [https://nathancraddock.com](https://nathancraddock.com)
+ - date published: 2023-10-25T16:11:07.784296+00:00
+ - user: None
+ - tags: []
+
+## Nathan Lustig – Staying out of the Cubicle
+ - [https://www.nathanlustig.com](https://www.nathanlustig.com)
+ - date published: 2023-12-13T06:04:31.022737+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nathan Otterness' Page
+ - [https://nathanotterness.com](https://nathanotterness.com)
+ - date published: 2023-10-25T16:11:10.707029+00:00
+ - user: None
+ - tags: []
+
+## Nathan Peck
+ - [https://nathanpeck.com](https://nathanpeck.com)
+ - date published: 2023-10-25T16:11:12.511630+00:00
+ - user: None
+ - tags: []
+
 ## Writing
  - [https://nathansnelgrove.com](https://nathansnelgrove.com)
  - date published: 2024-01-20T12:59:47.469924+00:00
@@ -959,14 +1043,14 @@
  - tags: []
 
 ## NewssMex
- - [http://www.newssmex.com](http://www.newssmex.com)
- - date published: 2024-02-27T12:33:40.005835+00:00
+ - [https://www.newssmex.com](https://www.newssmex.com)
+ - date published: 2024-02-27T12:34:22.767672+00:00
  - user: None
  - tags: []
 
 ## NewssMex
- - [https://www.newssmex.com](https://www.newssmex.com)
- - date published: 2024-02-27T12:34:22.767672+00:00
+ - [http://www.newssmex.com](http://www.newssmex.com)
+ - date published: 2024-02-27T12:33:40.005835+00:00
  - user: None
  - tags: []
 
@@ -2064,13 +2148,13 @@
  - tags: []
 
 ## Peter Norvig
- - [https://www.norvig.com](https://www.norvig.com)
+ - [http://www.norvig.com](http://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Peter Norvig
- - [http://www.norvig.com](http://www.norvig.com)
+ - [https://www.norvig.com](https://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -2907,17 +2991,17 @@ Answering Machine Greetings!
  - user: None
  - tags: ['self-host']
 
-## Oh No Robot: Comics search
- - [https://www.ohnorobot.com](https://www.ohnorobot.com)
- - date published: 2024-04-04T11:21:04+00:00
- - user: None
- - tags: ['comics search engine', 'personal sites source']
-
 ## Oh No Robot: comics search
  - [http://www.ohnorobot.com](http://www.ohnorobot.com)
  - date published: 2024-04-07T14:25:15.412335+00:00
  - user: None
  - tags: []
+
+## Oh No Robot: Comics search
+ - [https://www.ohnorobot.com](https://www.ohnorobot.com)
+ - date published: 2024-04-04T11:21:04+00:00
+ - user: None
+ - tags: ['comics search engine', 'personal sites source']
 
 ## Crude Oil Prices Today | OilPrice.com
  - [https://oilprice.com](https://oilprice.com)
@@ -3397,7 +3481,7 @@ Answering Machine Greetings!
  - [https://onyxboox.com](https://onyxboox.com)
  - date published: 2023-11-01T08:41:23.046907+00:00
  - user: None
- - tags: []
+ - tags: ['ebook reader']
 
 ## Design Patterns
  - [http://www.oodesign.com](http://www.oodesign.com)
@@ -3486,6 +3570,12 @@ Answering Machine Greetings!
 ## OpenCage blog - what's new at OpenCage
  - [https://blog.opencagedata.com](https://blog.opencagedata.com)
  - date published: 2023-10-25T16:26:29.828123+00:00
+ - user: None
+ - tags: []
+
+## Open Circuits Book
+ - [https://opencircuitsbook.com](https://opencircuitsbook.com)
+ - date published: 2024-04-13T21:05:12+00:00
  - user: None
  - tags: []
 
@@ -3813,15 +3903,15 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
-## Radar - O’Reilly
- - [http://radar.oreilly.com](http://radar.oreilly.com)
- - date published: 2024-03-11T20:56:21.645465+00:00
- - user: None
- - tags: []
-
 ## O'Reilly Media - Technology and Business Training
  - [https://radar.oreilly.com](https://radar.oreilly.com)
  - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Radar - O’Reilly
+ - [http://radar.oreilly.com](http://radar.oreilly.com)
+ - date published: 2024-03-11T20:56:21.645465+00:00
  - user: None
  - tags: []
 
@@ -3892,14 +3982,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## The OS/2 Museum
- - [http://www.os2museum.com](http://www.os2museum.com)
- - date published: 2024-02-25T18:55:49.882025+00:00
+ - [https://www.os2museum.com](https://www.os2museum.com)
+ - date published: 2023-10-25T16:27:40.415903+00:00
  - user: None
  - tags: []
 
 ## The OS/2 Museum
- - [https://www.os2museum.com](https://www.os2museum.com)
- - date published: 2023-10-25T16:27:40.415903+00:00
+ - [http://www.os2museum.com](http://www.os2museum.com)
+ - date published: 2024-02-25T18:55:49.882025+00:00
  - user: None
  - tags: []
 
@@ -4127,14 +4217,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## Outside Magazine
- - [https://www.outsideonline.com](https://www.outsideonline.com)
- - date published: 2023-10-25T16:28:28.955211+00:00
+ - [http://www.outsideonline.com](http://www.outsideonline.com)
+ - date published: 2024-03-23T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Outside Magazine
- - [http://www.outsideonline.com](http://www.outsideonline.com)
- - date published: 2024-03-23T00:00:00+00:00
+ - [https://www.outsideonline.com](https://www.outsideonline.com)
+ - date published: 2023-10-25T16:28:28.955211+00:00
  - user: None
  - tags: []
 
@@ -4319,14 +4409,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## Home - Oz Rhodes
- - [http://www.ozrhodes.com](http://www.ozrhodes.com)
- - date published: 2024-04-03T12:44:50.762069+00:00
+ - [https://www.ozrhodes.com](https://www.ozrhodes.com)
+ - date published: 2023-12-20T00:59:19.143915+00:00
  - user: None
  - tags: ['personal']
 
 ## Home - Oz Rhodes
- - [https://www.ozrhodes.com](https://www.ozrhodes.com)
- - date published: 2023-12-20T00:59:19.143915+00:00
+ - [http://www.ozrhodes.com](http://www.ozrhodes.com)
+ - date published: 2024-04-03T12:44:50.762069+00:00
  - user: None
  - tags: ['personal']
 
@@ -5015,14 +5105,14 @@ Answering Machine Greetings!
  - tags: ['3d artist', 'personal']
 
 ## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
- - date published: 2023-12-21T08:24:19.074982+00:00
+ - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
+ - date published: 2023-12-23T07:30:12.092026+00:00
  - user: None
  - tags: ['personal']
 
 ## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
- - date published: 2023-12-23T07:30:12.092026+00:00
+ - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
+ - date published: 2023-12-21T08:24:19.074982+00:00
  - user: None
  - tags: ['personal']
 
@@ -5537,14 +5627,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## Pera Barrett - Dad, Shoebox Christmas founder, author, musician, doer.
- - [https://www.perabarrett.com](https://www.perabarrett.com)
- - date published: 2024-01-12T22:14:14.873814+00:00
+ - [http://www.perabarrett.com](http://www.perabarrett.com)
+ - date published: 2024-04-03T12:42:43.429862+00:00
  - user: None
  - tags: ['personal']
 
 ## Pera Barrett - Dad, Shoebox Christmas founder, author, musician, doer.
- - [http://www.perabarrett.com](http://www.perabarrett.com)
- - date published: 2024-04-03T12:42:43.429862+00:00
+ - [https://www.perabarrett.com](https://www.perabarrett.com)
+ - date published: 2024-01-12T22:14:14.873814+00:00
  - user: None
  - tags: ['personal']
 
@@ -5573,14 +5663,14 @@ Answering Machine Greetings!
  - tags: ['personal']
 
 ## Perfection Kills
- - [http://perfectionkills.com](http://perfectionkills.com)
- - date published: 2015-11-04T00:00:00+00:00
+ - [https://perfectionkills.com](https://perfectionkills.com)
+ - date published: 2024-01-09T02:46:05.195684+00:00
  - user: None
  - tags: []
 
 ## Perfection Kills
- - [https://perfectionkills.com](https://perfectionkills.com)
- - date published: 2024-01-09T02:46:05.195684+00:00
+ - [http://perfectionkills.com](http://perfectionkills.com)
+ - date published: 2015-11-04T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5911,96 +6001,6 @@ Answering Machine Greetings!
 ## Pet Project
  - [https://petprojectblog.com](https://petprojectblog.com)
  - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Petra Palusova
- - [https://petrapalusova.com](https://petrapalusova.com)
- - date published: 2024-01-15T13:59:36.448000+00:00
- - user: None
- - tags: []
-
-## Petra Wille - Product Leadership Coach
- - [https://www.petra-wille.com](https://www.petra-wille.com)
- - date published: 2024-01-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://www.pexels.com](https://www.pexels.com)
- - date published: 2023-10-27T10:12:59.070431+00:00
- - user: None
- - tags: ['assets images', 'wallpapers']
-
-## PEZ Artwork
- - [http://www.pez-artwork.com](http://www.pez-artwork.com)
- - date published: 2024-03-24T15:05:50.379363+00:00
- - user: None
- - tags: []
-
-## PFAFF Home English (United States)
- - [https://www.pfaff.com](https://www.pfaff.com)
- - date published: 2024-02-08T22:19:39.830262+00:00
- - user: None
- - tags: []
-
-## https://www.pfizer.com
- - [https://www.pfizer.com](https://www.pfizer.com)
- - date published: 2023-11-01T08:42:53.876422+00:00
- - user: None
- - tags: []
-
-## Paul's Dev Notes
- - [https://pfrazee.com](https://pfrazee.com)
- - date published: 2024-01-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Paul's Dev Notes
- - [http://www.pfrazee.com](http://www.pfrazee.com)
- - date published: 2024-01-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Paul's Dev Notes
- - [https://www.pfrazee.com](https://www.pfrazee.com)
- - date published: 2024-01-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Postgres performance at any scale | PostgreSQL Tuning - pganalyze
- - [https://pganalyze.com](https://pganalyze.com)
- - date published: 2023-10-25T16:33:32.420093+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.pge.com](https://www.pge.com)
- - date published: 2024-02-21T19:04:52.433469+00:00
- - user: None
- - tags: []
-
-## Show HN: pgxman - npm for Postgres extensions
- - [https://pgxman.com](https://pgxman.com)
- - date published: 2023-11-29T19:08:15+00:00
- - user: None
- - tags: []
-
-## Phantogram
- - [https://www.phantogram.com](https://www.phantogram.com)
- - date published: 2023-11-13T10:22:07.294247+00:00
- - user: None
- - tags: ['music band']
-
-## PhaseLLM
- - [https://phasellm.com](https://phasellm.com)
- - date published: 2023-10-25T16:33:35.710834+00:00
- - user: None
- - tags: []
-
-## Philipp Hauer's Blog - Engineering Management, Java Ecosystem, Kotlin, Sociology of Software Development
- - [https://phauer.com](https://phauer.com)
- - date published: 2023-10-25T16:33:36.753715+00:00
  - user: None
  - tags: []
 

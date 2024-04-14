@@ -1,3 +1,51 @@
+## Henry Stanley
+ - [https://www.henrystanley.com](https://www.henrystanley.com)
+ - date published: 2024-01-17T04:42:59.112520+00:00
+ - user: None
+ - tags: []
+
+## Scotland News, Politics, Sport, Events and Comment - The Herald
+ - [https://www.heraldscotland.com](https://www.heraldscotland.com)
+ - date published: 2024-03-01T02:34:20.307501+00:00
+ - user: None
+ - tags: ['scotland news']
+
+## Sarasota Herald-Tribune: Local News, Politics & Sports in Sarasota, FL
+ - [https://www.heraldtribune.com](https://www.heraldtribune.com)
+ - date published: 2023-10-25T14:58:17.400791+00:00
+ - user: None
+ - tags: []
+
+## Herb Caudill | Words
+ - [https://herbcaudill.com](https://herbcaudill.com)
+ - date published: 2023-10-25T14:58:20.467859+00:00
+ - user: None
+ - tags: []
+
+## Herbert Bay
+ - [https://herbertbay.com](https://herbertbay.com)
+ - date published: 2023-12-03T15:55:40.583123+00:00
+ - user: None
+ - tags: ['personal']
+
+## @hgraca
+ - [https://herbertograca.com](https://herbertograca.com)
+ - date published: 2023-10-25T14:58:23.339271+00:00
+ - user: None
+ - tags: []
+
+## Herb Gardening | Grow your own fresh herbs in any place or climate.
+ - [https://herbgardening.com](https://herbgardening.com)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sutter’s Mill – Herb Sutter on software development
+ - [https://herbsutter.com](https://herbsutter.com)
+ - date published: 2023-10-25T14:58:30.195792+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Here is Oregon - hereisoregon.com
  - [https://www.hereisoregon.com](https://www.hereisoregon.com)
  - date published: 2024-03-15T00:22:11.592569+00:00
@@ -533,14 +581,14 @@
  - tags: []
 
 ## Hodinkee
- - [http://www.hodinkee.com](http://www.hodinkee.com)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://www.hodinkee.com](https://www.hodinkee.com)
+ - date published: 2023-10-25T15:00:20.442749+00:00
  - user: None
  - tags: []
 
 ## Hodinkee
- - [https://www.hodinkee.com](https://www.hodinkee.com)
- - date published: 2023-10-25T15:00:20.442749+00:00
+ - [http://www.hodinkee.com](http://www.hodinkee.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -945,6 +993,12 @@
  - date published: 2024-01-24T14:45:29+00:00
  - user: rumpel
  - tags: ['emulator', 'retro games']
+
+## %%sitename%%
+ - [https://www.hoya.com](https://www.hoya.com)
+ - date published: 2024-04-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## None
  - [https://upload-os-bbs.hoyolab.com](https://upload-os-bbs.hoyolab.com)
@@ -1745,14 +1799,14 @@
  - tags: []
 
 ## If This Be Treason
- - [https://ifthisbetreason.com](https://ifthisbetreason.com)
- - date published: 2024-01-09T02:39:21.575222+00:00
+ - [http://ifthisbetreason.com](http://ifthisbetreason.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## If This Be Treason
- - [http://ifthisbetreason.com](http://ifthisbetreason.com)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://ifthisbetreason.com](https://ifthisbetreason.com)
+ - date published: 2024-01-09T02:39:21.575222+00:00
  - user: None
  - tags: []
 
@@ -2411,16 +2465,16 @@
  - tags: ['information company', 'india']
 
 ## InfoWorld - Technology insight for the enterprise
- - [https://www.infoworld.com](https://www.infoworld.com)
- - date published: 2023-10-25T09:33:30.464349+00:00
- - user: None
- - tags: ['tech news']
-
-## InfoWorld - Technology insight for the enterprise
  - [http://www.infoworld.com](http://www.infoworld.com)
  - date published: 2024-02-25T20:55:36.520873+00:00
  - user: None
  - tags: []
+
+## InfoWorld - Technology insight for the enterprise
+ - [https://www.infoworld.com](https://www.infoworld.com)
+ - date published: 2023-10-25T09:33:30.464349+00:00
+ - user: None
+ - tags: ['tech news']
 
 ## Infrastructure as Code
  - [https://infrastructure-as-code.com](https://infrastructure-as-code.com)
@@ -2609,14 +2663,14 @@
  - tags: []
 
 ## Instagram
- - [https://instagram.com](https://instagram.com)
- - date published: 2023-12-11T17:25:16.403261+00:00
+ - [http://instagram.com](http://instagram.com)
+ - date published: 2024-02-24T09:56:41.123503+00:00
  - user: None
  - tags: []
 
 ## Instagram
- - [http://instagram.com](http://instagram.com)
- - date published: 2024-02-24T09:56:41.123503+00:00
+ - [https://instagram.com](https://instagram.com)
+ - date published: 2023-12-11T17:25:16.403261+00:00
  - user: None
  - tags: []
 
@@ -3203,16 +3257,16 @@
  - tags: []
 
 ## Ahmad Shadeed
- - [https://ishadeed.com](https://ishadeed.com)
- - date published: 2023-10-25T08:46:12.299056+00:00
- - user: None
- - tags: ['personal']
-
-## Ahmad Shadeed
  - [http://ishadeed.com](http://ishadeed.com)
  - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
+
+## Ahmad Shadeed
+ - [https://ishadeed.com](https://ishadeed.com)
+ - date published: 2023-10-25T08:46:12.299056+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Ishkur's Guide to Electronic Music
  - [https://music.ishkur.com](https://music.ishkur.com)
@@ -4343,16 +4397,16 @@
  - tags: []
 
 ## Juraj's Blog
- - [https://jborza.com](https://jborza.com)
- - date published: 2023-10-25T08:58:08.654807+00:00
- - user: None
- - tags: ['personal']
-
-## Juraj's Blog
  - [http://jborza.com](http://jborza.com)
  - date published: 2024-02-26T08:26:59.359158+00:00
  - user: None
  - tags: []
+
+## Juraj's Blog
+ - [https://jborza.com](https://jborza.com)
+ - date published: 2023-10-25T08:58:08.654807+00:00
+ - user: None
+ - tags: ['personal']
 
 ## J. Brown Yoga
  - [https://www.jbrownyoga.com](https://www.jbrownyoga.com)
@@ -5525,16 +5579,16 @@
  - tags: []
 
 ## Your Privacy is our Business
- - [https://joindeleteme.com](https://joindeleteme.com)
- - date published: 2022-12-23T16:20:20+00:00
- - user: None
- - tags: []
-
-## Your Privacy is our Business
  - [http://joindeleteme.com](http://joindeleteme.com)
  - date published: 2022-12-23T16:20:20+00:00
  - user: None
  - tags: ['privacy']
+
+## Your Privacy is our Business
+ - [https://joindeleteme.com](https://joindeleteme.com)
+ - date published: 2022-12-23T16:20:20+00:00
+ - user: None
+ - tags: []
 
 ## Join me for the ride - Thoughts on how we live
  - [https://joinmefortheride.com](https://joinmefortheride.com)
@@ -5941,60 +5995,6 @@
 ## Josh Walsh - Strategic advisory services for marketing technology.
  - [https://www.joshwalsh.com](https://www.joshwalsh.com)
  - date published: 2024-01-12T21:01:26.329884+00:00
- - user: None
- - tags: []
-
-## Josh W Comeau
- - [https://joshwcomeau.com](https://joshwcomeau.com)
- - date published: 2023-10-25T15:31:29.843409+00:00
- - user: None
- - tags: []
-
-## Josh W Comeau
- - [https://www.joshwcomeau.com](https://www.joshwcomeau.com)
- - date published: 2023-10-25T15:31:36.471038+00:00
- - user: None
- - tags: []
-
-## Josh Worth Art & Design – Creative direction for the interactive age
- - [https://joshworth.com](https://joshworth.com)
- - date published: 2023-10-25T15:31:46.347840+00:00
- - user: None
- - tags: []
-
-## Actualités, nouvelles et chroniques | Le Journal de Montréal
- - [https://www.journaldemontreal.com](https://www.journaldemontreal.com)
- - date published: 2023-10-25T15:31:54.327037+00:00
- - user: None
- - tags: []
-
-## DNS resolution error | www.joyfulpessimism.com | Cloudflare
- - [http://www.joyfulpessimism.com](http://www.joyfulpessimism.com)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Joyful Pessimism: Sex, Mental Illness, and Philosophy | Michael Ellsberg | Substack
- - [https://www.joyfulpessimism.com](https://www.joyfulpessimism.com)
- - date published: 2024-01-07T05:12:18.416843+00:00
- - user: None
- - tags: []
-
-## JP Camara
- - [https://jpcamara.com](https://jpcamara.com)
- - date published: 2023-10-25T15:32:02.482701+00:00
- - user: None
- - tags: []
-
-## JPC van Heijst | Aviation - Aerial - Travel Photography | jpcvanheijst.com
- - [https://jpcvanheijst.com](https://jpcvanheijst.com)
- - date published: 2023-10-25T15:32:13.512617+00:00
- - user: None
- - tags: []
-
-## Business Growth & Operations Consulting | J Paul Hendricks
- - [https://www.jphendricks.com](https://www.jphendricks.com)
- - date published: 2019-09-02T15:36:53+00:00
  - user: None
  - tags: []
 

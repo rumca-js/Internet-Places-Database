@@ -1,3 +1,147 @@
+## Normal Deviate
+ - [https://normaldeviate.wordpress.com](https://normaldeviate.wordpress.com)
+ - date published: 2023-10-25T18:14:19.640711+00:00
+ - user: None
+ - tags: []
+
+## NTDEV
+ - [https://ntdotdev.wordpress.com](https://ntdotdev.wordpress.com)
+ - date published: 2023-10-25T18:14:23.669956+00:00
+ - user: None
+ - tags: []
+
+## North Texas Foster
+ - [https://ntexfoster.wordpress.com](https://ntexfoster.wordpress.com)
+ - date published: 2024-01-04T01:13:04.389192+00:00
+ - user: None
+ - tags: []
+
+## Nuclear Diner | Nuclear information for everyone.
+ - [https://nucleardiner.wordpress.com](https://nucleardiner.wordpress.com)
+ - date published: 2023-10-25T18:14:33.856263+00:00
+ - user: None
+ - tags: []
+
+## Nur Nachman
+ - [https://nurnachman.wordpress.com](https://nurnachman.wordpress.com)
+ - date published: 2024-01-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Old School Game Blog
+ - [https://oldschoolgameblog.files.wordpress.com](https://oldschoolgameblog.files.wordpress.com)
+ - date published: 2023-12-11T16:30:39.558329+00:00
+ - user: None
+ - tags: []
+
+## Old School Game Blog
+ - [https://oldschoolgameblog.wordpress.com](https://oldschoolgameblog.wordpress.com)
+ - date published: 2023-12-11T16:33:04.540046+00:00
+ - user: None
+ - tags: []
+
+## Omar Ortiz
+ - [http://omarortiz.wordpress.com](http://omarortiz.wordpress.com)
+ - date published: 2024-03-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## A Useful Fiction – Just another WordPress.com site
+ - [https://onehundredpages.wordpress.com](https://onehundredpages.wordpress.com)
+ - date published: 2023-10-25T18:14:39.984312+00:00
+ - user: None
+ - tags: []
+
+## On Luminous Grounds
+ - [https://onluminousgrounds.wordpress.com](https://onluminousgrounds.wordpress.com)
+ - date published: 2023-10-25T18:14:44.913575+00:00
+ - user: None
+ - tags: []
+
+## The Pageman in Kabul
+ - [https://pageman.wordpress.com](https://pageman.wordpress.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ACParucker
+ - [https://parucker.wordpress.com](https://parucker.wordpress.com)
+ - date published: 2024-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Paul W. Rankin
+ - [https://paulrankin.wordpress.com](https://paulrankin.wordpress.com)
+ - date published: 2024-02-08T16:57:53.153788+00:00
+ - user: None
+ - tags: []
+
+## PAXsims
+ - [https://paxsims.wordpress.com](https://paxsims.wordpress.com)
+ - date published: 2024-03-05T23:01:23.488715+00:00
+ - user: None
+ - tags: []
+
+## Pete Morin
+ - [https://petemorin.wordpress.com](https://petemorin.wordpress.com)
+ - date published: 2024-01-30T19:31:10.858778+00:00
+ - user: None
+ - tags: []
+
+## Pawlicker's Pleroma Experiment Blog
+ - [https://pleromanonx86.wordpress.com](https://pleromanonx86.wordpress.com)
+ - date published: 2023-11-23T05:04:00.178360+00:00
+ - user: None
+ - tags: []
+
+## Polskie Muzeum Cyfrowe
+ - [https://polskiemc.wordpress.com](https://polskiemc.wordpress.com)
+ - date published: 2024-01-17T10:16:31+00:00
+ - user: None
+ - tags: ['internet archive']
+
+## Possibly Wrong
+ - [https://possiblywrong.wordpress.com](https://possiblywrong.wordpress.com)
+ - date published: 2024-03-13T19:55:59.919955+00:00
+ - user: None
+ - tags: []
+
+## Pratt Courses
+ - [https://prattcourses.wordpress.com](https://prattcourses.wordpress.com)
+ - date published: 2024-02-08T16:35:17.664852+00:00
+ - user: None
+ - tags: []
+
+## PRDeving – typeof  FUN
+ - [https://prdeving.wordpress.com](https://prdeving.wordpress.com)
+ - date published: 2023-10-25T18:14:52.804446+00:00
+ - user: None
+ - tags: []
+
+## Protons for Breakfast
+ - [https://protonsforbreakfast.wordpress.com](https://protonsforbreakfast.wordpress.com)
+ - date published: 2023-10-25T18:15:13.262892+00:00
+ - user: None
+ - tags: []
+
+## REST API Resources
+ - [https://public-api.wordpress.com](https://public-api.wordpress.com)
+ - date published: 2023-12-11T16:36:56.191259+00:00
+ - user: None
+ - tags: []
+
+## Queendom Blog | Insight at your fingertips – www.queendom.com
+ - [https://queendomblog.wordpress.com](https://queendomblog.wordpress.com)
+ - date published: 2023-10-25T18:15:26.032988+00:00
+ - user: None
+ - tags: []
+
+## Quick. Concept.
+ - [https://quickconcept.wordpress.com](https://quickconcept.wordpress.com)
+ - date published: 2024-01-12T10:32:14.301346+00:00
+ - user: None
+ - tags: []
+
 ## (no title)
  - [https://racheldominica.wordpress.com](https://racheldominica.wordpress.com)
  - date published: 2024-02-08T16:49:44.688152+00:00
@@ -1060,17 +1204,17 @@
  - user: None
  - tags: []
 
-## Xiomaro is an internationally exhibited photographer and artist
- - [http://xiomaro.com](http://xiomaro.com)
- - date published: 2024-04-03T06:31:28.811800+00:00
- - user: None
- - tags: ['personal']
-
 ## Xiomaro | Art Studio | New York
  - [https://xiomaro.com](https://xiomaro.com)
  - date published: 2024-01-09T02:55:12.811983+00:00
  - user: None
  - tags: []
+
+## Xiomaro is an internationally exhibited photographer and artist
+ - [http://xiomaro.com](http://xiomaro.com)
+ - date published: 2024-04-03T06:31:28.811800+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Comet Ice
  - [https://what-if.xkcd.com](https://what-if.xkcd.com)
@@ -1642,23 +1786,23 @@
  - user: rumpel
  - tags: ['amiga']
 
-## Louis Rossmann YouTube Channel
- - [https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
- - date published: 2023-11-03T10:37:58+00:00
+## LukHash YouTube Channel
+ - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
+ - date published: 2023-11-03T14:42:18+00:00
  - user: rumpel
- - tags: ['right to repair']
-
-## YouTube
- - [http://www.youtube.com](http://www.youtube.com)
- - date published: 2024-03-06T00:00:00+00:00
- - user: None
  - tags: []
 
-## Tabletop Minions
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
- - date published: 2023-11-08T09:59:26+00:00
+## Squidmar Miniatures
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
+ - date published: 2023-11-08T09:58:45+00:00
  - user: rumpel
- - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
+ - tags: ['warhammer', 'wargames', 'miniatures']
+
+## Luetin09 YouTube Channel
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
+ - date published: 2023-11-08T09:33:03+00:00
+ - user: rumpel
+ - tags: ['wargames', 'tabletop games', 'warhammer']
 
 ## Miniac
  - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
@@ -1672,23 +1816,23 @@
  - user: rumpel
  - tags: ['synthwave', 'new retro wave']
 
-## LukHash YouTube Channel
- - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
- - date published: 2023-11-03T14:42:18+00:00
- - user: rumpel
+## YouTube
+ - [http://www.youtube.com](http://www.youtube.com)
+ - date published: 2024-03-06T00:00:00+00:00
+ - user: None
  - tags: []
 
-## Luetin09 YouTube Channel
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
- - date published: 2023-11-08T09:33:03+00:00
+## Tabletop Minions
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
+ - date published: 2023-11-08T09:59:26+00:00
  - user: rumpel
- - tags: ['wargames', 'tabletop games', 'warhammer']
+ - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
 
-## Squidmar Miniatures
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
- - date published: 2023-11-08T09:58:45+00:00
+## Louis Rossmann YouTube Channel
+ - [https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
+ - date published: 2023-11-03T10:37:58+00:00
  - user: rumpel
- - tags: ['warhammer', 'wargames', 'miniatures']
+ - tags: ['right to repair']
 
 ## YouTube
  - [https://www.youtube.com](https://www.youtube.com)
@@ -1697,14 +1841,14 @@
  - tags: ['google', 'gatekeeper', 'video streaming']
 
 ## YouTube
- - [http://youtube.com](http://youtube.com)
- - date published: 2024-03-06T00:00:00+00:00
+ - [https://youtube.com](https://youtube.com)
+ - date published: 2023-11-14T01:45:17.978988+00:00
  - user: None
  - tags: []
 
 ## YouTube
- - [https://youtube.com](https://youtube.com)
- - date published: 2023-11-14T01:45:17.978988+00:00
+ - [http://youtube.com](http://youtube.com)
+ - date published: 2024-03-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1841,16 +1985,16 @@
  - tags: []
 
 ## ZacharyShahan.com
- - [http://zacharyshahan.com](http://zacharyshahan.com)
- - date published: 2024-04-03T06:22:56.266169+00:00
- - user: None
- - tags: ['personal']
-
-## ZacharyShahan.com
  - [https://zacharyshahan.com](https://zacharyshahan.com)
  - date published: 2024-01-20T05:27:08.408690+00:00
  - user: None
  - tags: []
+
+## ZacharyShahan.com
+ - [http://zacharyshahan.com](http://zacharyshahan.com)
+ - date published: 2024-04-03T06:22:56.266169+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Zach Barocas / Brooklyn Diasporist
 		- Zach Barocas / Brooklyn Diasporist
@@ -2090,7 +2234,7 @@
 ## Using Google Sheets as the back end/APIs of your app
  - [https://www.zerosheets.com](https://www.zerosheets.com)
  - date published: 2024-04-12T16:29:01+00:00
- - user: None
+ - user: rumpel
  - tags: []
 
 ## Zero to Nix
@@ -2412,14 +2556,14 @@
  - tags: []
 
 ## Writing by Bob Doto
- - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
- - date published: 2024-02-26T14:37:32.413264+00:00
+ - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
+ - date published: 2024-01-09T02:55:47.919867+00:00
  - user: None
  - tags: []
 
 ## Writing by Bob Doto
- - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
- - date published: 2024-01-09T02:55:47.919867+00:00
+ - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
+ - date published: 2024-02-26T14:37:32.413264+00:00
  - user: None
  - tags: []
 
@@ -2859,7 +3003,7 @@
  - [https://shikakuofthe.day](https://shikakuofthe.day)
  - date published: 2024-04-12T19:50:55+00:00
  - user: None
- - tags: []
+ - tags: ['project', 'online game']
 
 ## dade
  - [https://0xda.de](https://0xda.de)
@@ -2910,26 +3054,26 @@
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [https://amiga-news.de](https://amiga-news.de)
- - date published: 2023-10-25T11:01:48.109047+00:00
- - user: None
- - tags: []
-
-## amiga-news.de - Amiga-News auf den Punkt gebracht
  - [http://amiga-news.de](http://amiga-news.de)
  - date published: 2024-02-26T14:42:58.001349+00:00
  - user: None
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [https://www.amiga-news.de](https://www.amiga-news.de)
- - date published: 2024-01-09T02:56:04.543993+00:00
+ - [https://amiga-news.de](https://amiga-news.de)
+ - date published: 2023-10-25T11:01:48.109047+00:00
  - user: None
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
  - [http://www.amiga-news.de](http://www.amiga-news.de)
  - date published: 2024-02-26T14:42:59.175744+00:00
+ - user: None
+ - tags: []
+
+## amiga-news.de - Amiga-News auf den Punkt gebracht
+ - [https://www.amiga-news.de](https://www.amiga-news.de)
+ - date published: 2024-01-09T02:56:04.543993+00:00
  - user: None
  - tags: []
 
@@ -3219,13 +3363,13 @@ home
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [http://www.classic-videogames.de](http://www.classic-videogames.de)
+ - [https://www.classic-videogames.de](https://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [https://www.classic-videogames.de](https://www.classic-videogames.de)
+ - [http://www.classic-videogames.de](http://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
@@ -4020,16 +4164,16 @@ Heinsohn
  - tags: []
 
 ## Nupita - [nu:b i:ta]
- - [https://nupita.de](https://nupita.de)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Nupita - [nu:b i:ta]
  - [http://nupita.de](http://nupita.de)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Nupita - [nu:b i:ta]
+ - [https://nupita.de](https://nupita.de)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## OllyDbg v1.10
  - [https://www.ollydbg.de](https://www.ollydbg.de)
@@ -4041,7 +4185,7 @@ Heinsohn
  - [https://raccoon.onyxbits.de](https://raccoon.onyxbits.de)
  - date published: 2023-10-25T18:32:24.624846+00:00
  - user: None
- - tags: []
+ - tags: ['apk downloader']
 
 ## Georg Lukas :: Homepage
  - [https://op-co.de](https://op-co.de)
@@ -4146,14 +4290,14 @@ Heinsohn
  - tags: ['video game music']
 
 ## Radio PARALAX
- - [https://www.radio-paralax.de](https://www.radio-paralax.de)
- - date published: 2024-02-15T22:31:37.332329+00:00
+ - [http://www.radio-paralax.de](http://www.radio-paralax.de)
+ - date published: 2024-02-15T22:12:22.414790+00:00
  - user: None
  - tags: ['demoscene']
 
 ## Radio PARALAX
- - [http://www.radio-paralax.de](http://www.radio-paralax.de)
- - date published: 2024-02-15T22:12:22.414790+00:00
+ - [https://www.radio-paralax.de](https://www.radio-paralax.de)
+ - date published: 2024-02-15T22:31:37.332329+00:00
  - user: None
  - tags: ['demoscene']
 
@@ -4466,6 +4610,12 @@ Heinsohn
 ## Andreas Zwinkau
  - [https://beza1e1.tuxen.de](https://beza1e1.tuxen.de)
  - date published: 2023-10-25T18:33:06.452394+00:00
+ - user: None
+ - tags: []
+
+## Andreas Zwinkau
+ - [http://beza1e1.tuxen.de](http://beza1e1.tuxen.de)
+ - date published: 2020-05-23T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5853,157 +6003,6 @@ Heinsohn
 ## Earthly - Make Builds Super Simple
  - [https://earthly.dev](https://earthly.dev)
  - date published: 2023-10-25T18:37:27.899029+00:00
- - user: None
- - tags: []
-
-## echoserver: A simple echo server for testing HTTP clients.
- - [https://echoserver.dev](https://echoserver.dev)
- - date published: 2023-10-25T18:37:29.344617+00:00
- - user: None
- - tags: []
-
-## Ecostack —
-        a developer blog
- - [https://ecostack.dev](https://ecostack.dev)
- - date published: 2023-10-25T18:37:30.969613+00:00
- - user: None
- - tags: []
-
-## None
- - [https://blog.edfloreshz.dev](https://blog.edfloreshz.dev)
- - date published: 2024-01-09T02:57:13.936356+00:00
- - user: None
- - tags: []
-
-## Elijah Potter
- - [https://elijahpotter.dev](https://elijahpotter.dev)
- - date published: 2022-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Embrasure
- - [https://embrasure.dev](https://embrasure.dev)
- - date published: 2019-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://emnudge.dev](https://emnudge.dev)
- - date published: 2023-10-25T18:37:32.803436+00:00
- - user: None
- - tags: []
-
-## Emoji Kitchen
- - [https://emojikitchen.dev](https://emojikitchen.dev)
- - date published: 2023-10-25T18:37:39.002696+00:00
- - user: None
- - tags: []
-
-## Encore — Escape your backend development burdens
- - [https://encore.dev](https://encore.dev)
- - date published: 2023-11-23T13:54:15.244923+00:00
- - user: None
- - tags: []
-
-## Matthias Endler
- - [https://endler.dev](https://endler.dev)
- - date published: 2023-10-25T18:37:40.403164+00:00
- - user: None
- - tags: []
-
-## endtimes.dev
- - [https://endtimes.dev](https://endtimes.dev)
- - date published: 2023-10-25T18:37:42.008452+00:00
- - user: None
- - tags: []
-
-## endtimes.dev
- - [http://endtimes.dev](http://endtimes.dev)
- - date published: 2024-02-26T14:52:45.275010+00:00
- - user: None
- - tags: []
-
-## Enhance
- - [https://enhance.dev](https://enhance.dev)
- - date published: 2023-10-25T18:37:45.413755+00:00
- - user: None
- - tags: []
-
-## Ship Modern Full-Stack Web Applications
- - [https://www.epicweb.dev](https://www.epicweb.dev)
- - date published: 2023-10-27T12:49:23.689681+00:00
- - user: None
- - tags: []
-
-## Ergomake | Environments-as-a-Service
- - [https://ergomake.dev](https://ergomake.dev)
- - date published: 2024-01-09T02:57:14.773368+00:00
- - user: None
- - tags: []
-
-## Oxidizing corner
- - [https://blog.erk.dev](https://blog.erk.dev)
- - date published: 2023-10-25T18:37:48.559995+00:00
- - user: None
- - tags: []
-
-## Educational Sensational Inspirational Foundational
- - [https://esif.dev](https://esif.dev)
- - date published: 2023-10-25T18:37:55.517883+00:00
- - user: None
- - tags: []
-
-## Show HN: Etcha – Infinite scale, serverless config management
- - [https://etcha.dev](https://etcha.dev)
- - date published: 2023-11-18T15:39:55+00:00
- - user: None
- - tags: []
-
-## Evidence - Business Intelligence as Code
- - [https://evidence.dev](https://evidence.dev)
- - date published: 2023-10-25T18:37:57.379219+00:00
- - user: None
- - tags: []
-
-## https://farlow.dev
- - [https://farlow.dev](https://farlow.dev)
- - date published: 2024-01-09T02:57:15.429770+00:00
- - user: None
- - tags: []
-
-## Home - FED Mentor
- - [https://fedmentor.dev](https://fedmentor.dev)
- - date published: 2023-10-25T18:37:59.320927+00:00
- - user: None
- - tags: []
-
-## Feep! search
- - [https://search.feep.dev](https://search.feep.dev)
- - date published: 2023-10-25T18:38:00.233684+00:00
- - user: None
- - tags: []
-
-## The Hippocratic License: An Ethical License for Open Source
- - [https://firstdonoharm.dev](https://firstdonoharm.dev)
- - date published: 2021-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Flawless - Durable Execution Engine
- - [https://flawless.dev](https://flawless.dev)
- - date published: 2023-12-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Flecs
- - [https://www.flecs.dev](https://www.flecs.dev)
- - date published: 2023-10-25T18:38:01.033831+00:00
- - user: None
- - tags: []
-
-## Flightcontrol Jobs
- - [https://jobs.flightcontrol.dev](https://jobs.flightcontrol.dev)
- - date published: 2023-10-25T18:38:01.725933+00:00
  - user: None
  - tags: []
 

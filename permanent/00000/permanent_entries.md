@@ -4,12 +4,6 @@
  - user: None
  - tags: []
 
-## マリウス
- - [https://xn--gckvb8fzb.com.](https://xn--gckvb8fzb.com.)
- - date published: 2024-08-29T00:00:00+00:00
- - user: None
- - tags: []
-
 ## 1.1.1.1 — The free app that makes your Internet faster.
  - [http://1.1.1.1](http://1.1.1.1)
  - date published: 2024-04-11T02:30:03.805708+00:00
@@ -969,6 +963,12 @@
  - date published: 2024-02-26T08:45:29.164699+00:00
  - user: None
  - tags: []
+
+## LibreChat
+ - [https://librechat.ai](https://librechat.ai)
+ - date published: 2024-04-13T17:25:08+00:00
+ - user: rumpel
+ - tags: ['self-host', 'artificial intelligence bot']
 
 ## Dr Alan D. Thompson – Life Architect
  - [https://lifearchitect.ai](https://lifearchitect.ai)
@@ -2306,7 +2306,7 @@
  - [https://listmonk.app](https://listmonk.app)
  - date published: 2024-02-04T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['self-host', 'open source']
 
 ## LunaSea – Self-Hosted Controller
  - [https://www.lunasea.app](https://www.lunasea.app)
@@ -5327,6 +5327,12 @@
  - user: None
  - tags: ['personal']
 
+## Harper Reed's Blog
+ - [https://harper.blog](https://harper.blog)
+ - date published: 2024-04-13T15:58:22.195168+00:00
+ - user: None
+ - tags: ['personal']
+
 ## DonDagen
  - [https://dondagen.home.blog](https://dondagen.home.blog)
  - date published: 2023-12-14T06:53:35.668494+00:00
@@ -5632,6 +5638,12 @@
  - date published: 2023-10-25T12:01:16.273400+00:00
  - user: None
  - tags: []
+
+## Semantically Secure
+ - [https://scottarc.blog](https://scottarc.blog)
+ - date published: 2024-04-13T07:41:59.654361+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Seth's Blog
  - [https://seths.blog](https://seths.blog)
@@ -5984,18 +5996,6 @@
 ## https://www.bahamas.gov.bs
  - [https://www.bahamas.gov.bs](https://www.bahamas.gov.bs)
  - date published: 2024-02-08T17:59:29.118171+00:00
- - user: None
- - tags: []
-
-## Astro
- - [https://astro.build](https://astro.build)
- - date published: 2023-10-25T12:02:53.334268+00:00
- - user: None
- - tags: []
-
-## Buf
- - [https://buf.build](https://buf.build)
- - date published: 2023-10-25T12:02:56.971684+00:00
  - user: None
  - tags: []
 

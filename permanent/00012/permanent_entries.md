@@ -1,3 +1,111 @@
+## Jason Rodriguez
+ - [https://rodriguezcommaj.com](https://rodriguezcommaj.com)
+ - date published: 2023-10-25T08:47:49.289045+00:00
+ - user: None
+ - tags: ['personal']
+
+## Roel van der Ven
+ - [https://roelvanderven.com](https://roelvanderven.com)
+ - date published: 2024-01-11T02:12:26.108964+00:00
+ - user: None
+ - tags: []
+
+## Rogan Murley
+ - [https://roganmurley.com](https://roganmurley.com)
+ - date published: 2024-01-05T15:17:03.373517+00:00
+ - user: None
+ - tags: []
+
+## Movie reviews and ratings by Film Critic Roger Ebert | Roger Ebert
+ - [https://www.rogerebert.com](https://www.rogerebert.com)
+ - date published: 2023-10-27T14:18:10.449564+00:00
+ - user: None
+ - tags: ['movies']
+
+## Roger Schank
+ - [https://www.rogerschank.com](https://www.rogerschank.com)
+ - date published: 2023-10-25T16:53:33.728783+00:00
+ - user: None
+ - tags: []
+
+## Personal site of Roger Stringer | Roger Stringer
+ - [https://rogerstringer.com](https://rogerstringer.com)
+ - date published: 2024-01-15T14:06:35.096845+00:00
+ - user: None
+ - tags: []
+
+## Digital product innovation in charities | Roger Swannell
+ - [https://rogerswannell.com](https://rogerswannell.com)
+ - date published: 2023-12-31T21:21:28.894147+00:00
+ - user: None
+ - tags: []
+
+## Rogue Amoeba - Under the Microscope
+ - [https://weblog.rogueamoeba.com](https://weblog.rogueamoeba.com)
+ - date published: 2023-10-25T16:53:36.308176+00:00
+ - user: None
+ - tags: []
+
+## RogueBasin
+ - [https://www.roguebasin.com](https://www.roguebasin.com)
+ - date published: 2023-10-25T16:53:39.345258+00:00
+ - user: None
+ - tags: []
+
+## Temple of The Roguelike
+ - [https://blog.roguetemple.com](https://blog.roguetemple.com)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Temple of The Roguelike – Preserving the spirit of classic roguelikes
+ - [https://roguetemple.com](https://roguetemple.com)
+ - date published: 2023-10-25T16:53:45.225348+00:00
+ - user: None
+ - tags: []
+
+## Rogue VHS
+ - [https://roguevhs.com](https://roguevhs.com)
+ - date published: 2024-02-12T13:43:40+00:00
+ - user: rumpel
+ - tags: ['music artist', 'synthwave']
+
+## Rogule - a dungeon a day keeps the Balrog away
+ - [https://rogule.com](https://rogule.com)
+ - date published: 2023-10-25T16:53:50.312363+00:00
+ - user: None
+ - tags: []
+
+## Rohdesign
+ - [https://rohdesign.com](https://rohdesign.com)
+ - date published: 2023-12-09T14:59:37.930775+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rohit Farmer's Personal Website
+ - [https://rohitfarmer.com](https://rohitfarmer.com)
+ - date published: 2024-02-01T03:07:26.250335+00:00
+ - user: None
+ - tags: ['personal']
+
+## About
+ - [https://rohitpaulk.com](https://rohitpaulk.com)
+ - date published: 2023-11-29T16:18:54.093413+00:00
+ - user: None
+ - tags: ['personal']
+
+## 403 Forbidden
+ - [https://www.roi-nj.com](https://www.roi-nj.com)
+ - date published: 2023-12-10T00:14:16.296424+00:00
+ - user: None
+ - tags: []
+
+## Roku Community Support | Fast Responses | Roku Community
+ - [https://community.roku.com](https://community.roku.com)
+ - date published: 2023-10-25T16:54:01.511231+00:00
+ - user: None
+ - tags: []
+
 ## Roku
  - [https://docs.roku.com](https://docs.roku.com)
  - date published: 2024-02-25T21:17:55.796599+00:00
@@ -1432,6 +1540,12 @@
  - user: None
  - tags: ['music band']
 
+## Stephen's Site
+ - [https://www.scd31.com](https://www.scd31.com)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Apache2 Ubuntu Default Page: It works
  - [http://marmalade.scenesat.com](http://marmalade.scenesat.com)
  - date published: 1999-01-01T00:00:00+00:00
@@ -2410,6 +2524,12 @@
  - user: None
  - tags: []
 
+## Tom Jennings
+ - [https://www.sensitiveresearch.com](https://www.sensitiveresearch.com)
+ - date published: 2024-04-13T14:11:40.405724+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Sensor Tower - Market-Leading Digital Intelligence
  - [https://sensortower.com](https://sensortower.com)
  - date published: 2024-02-28T11:03:13.623469+00:00
@@ -3065,14 +3185,14 @@
  - tags: []
 
 ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
- - [https://shorer.com](https://shorer.com)
- - date published: 2023-11-29T14:25:19.463201+00:00
+ - [http://shorer.com](http://shorer.com)
+ - date published: 2024-04-03T06:29:33.681658+00:00
  - user: None
  - tags: ['personal']
 
 ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
- - [http://shorer.com](http://shorer.com)
- - date published: 2024-04-03T06:29:33.681658+00:00
+ - [https://shorer.com](https://shorer.com)
+ - date published: 2023-11-29T14:25:19.463201+00:00
  - user: None
  - tags: ['personal']
 
@@ -3196,17 +3316,17 @@
  - user: None
  - tags: ['personal']
 
-## https://siddhantpyasi.com
- - [https://siddhantpyasi.com](https://siddhantpyasi.com)
- - date published: 2024-01-08T07:27:25.364006+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [http://siddhantpyasi.com](http://siddhantpyasi.com)
  - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## https://siddhantpyasi.com
+ - [https://siddhantpyasi.com](https://siddhantpyasi.com)
+ - date published: 2024-01-08T07:27:25.364006+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Cash Prices for Medical Procedures | Sidecar Health Care Calculator
  - [https://cost.sidecarhealth.com](https://cost.sidecarhealth.com)
@@ -3431,14 +3551,14 @@
  - tags: []
 
 ## Simon Hedley | Strategic Alchemist | The Strategic Consultant – Helping Good People Do Great Things
- - [http://simonhedley.com](http://simonhedley.com)
- - date published: 2024-04-03T12:49:49.008939+00:00
+ - [https://simonhedley.com](https://simonhedley.com)
+ - date published: 2024-01-13T04:53:05.503923+00:00
  - user: None
  - tags: ['personal']
 
 ## Simon Hedley | Strategic Alchemist | The Strategic Consultant – Helping Good People Do Great Things
- - [https://simonhedley.com](https://simonhedley.com)
- - date published: 2024-01-13T04:53:05.503923+00:00
+ - [http://simonhedley.com](http://simonhedley.com)
+ - date published: 2024-04-03T12:49:49.008939+00:00
  - user: None
  - tags: ['personal']
 
@@ -4055,15 +4175,15 @@
  - user: None
  - tags: ['smart home']
 
-## Smashing Magazine — For Web Designers And Developers
- - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
- - date published: 2023-10-25T17:07:11.338092+00:00
- - user: None
- - tags: []
-
 ## Smashing Magazine ‚Äî For Web Designers And Developers
  - [http://www.smashingmagazine.com](http://www.smashingmagazine.com)
  - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Smashing Magazine — For Web Designers And Developers
+ - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
+ - date published: 2023-10-25T17:07:11.338092+00:00
  - user: None
  - tags: []
 
@@ -5642,14 +5762,14 @@
  - tags: []
 
 ## Mathematics Stack Exchange
- - [http://math.stackexchange.com](http://math.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://math.stackexchange.com](https://math.stackexchange.com)
+ - date published: 2023-10-25T17:13:42.554988+00:00
  - user: None
  - tags: []
 
 ## Mathematics Stack Exchange
- - [https://math.stackexchange.com](https://math.stackexchange.com)
- - date published: 2023-10-25T17:13:42.554988+00:00
+ - [http://math.stackexchange.com](http://math.stackexchange.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5666,14 +5786,14 @@
  - tags: []
 
 ## Physics Stack Exchange
- - [http://physics.stackexchange.com](http://physics.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://physics.stackexchange.com](https://physics.stackexchange.com)
+ - date published: 2023-10-25T17:13:56.651090+00:00
  - user: None
  - tags: []
 
 ## Physics Stack Exchange
- - [https://physics.stackexchange.com](https://physics.stackexchange.com)
- - date published: 2023-10-25T17:13:56.651090+00:00
+ - [http://physics.stackexchange.com](http://physics.stackexchange.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5774,14 +5894,14 @@
  - tags: []
 
 ## Unix & Linux Stack Exchange
- - [http://unix.stackexchange.com](http://unix.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://unix.stackexchange.com](https://unix.stackexchange.com)
+ - date published: 2023-10-25T17:14:39.830149+00:00
  - user: None
  - tags: []
 
 ## Unix & Linux Stack Exchange
- - [https://unix.stackexchange.com](https://unix.stackexchange.com)
- - date published: 2023-10-25T17:14:39.830149+00:00
+ - [http://unix.stackexchange.com](http://unix.stackexchange.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5885,125 +6005,5 @@
  - [https://stamara.com](https://stamara.com)
  - date published: 2001-01-01T00:00:00+00:00
  - user: rumpel
- - tags: []
-
-## Stamen | Data Visualization Design Agency & Cartography Firm
- - [https://stamen.com](https://stamen.com)
- - date published: 2023-10-25T17:15:09.970317+00:00
- - user: None
- - tags: []
-
-## Stan Bright's Notes
- - [https://stanbright.com](https://stanbright.com)
- - date published: 2021-11-25T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Decrypted | Standard Notes
- - [https://blog.standardnotes.com](https://blog.standardnotes.com)
- - date published: 2023-10-25T17:15:17.057873+00:00
- - user: None
- - tags: []
-
-## Standard Notes | End-To-End Encrypted Notes App
- - [https://standardnotes.com](https://standardnotes.com)
- - date published: 2023-10-25T17:15:18.077449+00:00
- - user: None
- - tags: []
-
-## The Stanford Daily | Breaking news from the Farm since 1892
- - [https://stanforddaily.com](https://stanforddaily.com)
- - date published: 2024-01-01T00:46:36.339932+00:00
- - user: None
- - tags: []
-
-## Custom Rare Earth Magnets and Magnetic Assemblies | Stanford Magnets
- - [https://www.stanfordmagnets.com](https://www.stanfordmagnets.com)
- - date published: 2024-02-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Stanley Parable: Ultra Deluxe
- - [https://www.stanleyparable.com](https://www.stanleyparable.com)
- - date published: 2023-10-27T11:52:46.954868+00:00
- - user: None
- - tags: ['game']
-
-## Stant Litore - Books, Classes, Tyrannosaurs, Wild Adventure
- - [https://stantlitore.com](https://stantlitore.com)
- - date published: 2024-03-29T01:02:12.877858+00:00
- - user: None
- - tags: ['personal', 'book writer']
-
-## Honolulu Star-Advertiser
- - [https://www.staradvertiser.com](https://www.staradvertiser.com)
- - date published: 2024-03-13T03:58:15.340619+00:00
- - user: None
- - tags: []
-
-## Starfield Db | The ultimate destination for Starfield, the next RPG from Bethesda Game Studios
- - [https://www.starfielddb.com](https://www.starfielddb.com)
- - date published: 2023-11-13T11:59:08.022363+00:00
- - user: None
- - tags: []
-
-## Starfish & Coffee Official Merchandise
- - [https://www.starfishandcoffeeofficial.com](https://www.starfishandcoffeeofficial.com)
- - date published: 2023-10-25T17:15:25.182161+00:00
- - user: None
- - tags: ['merchandise']
-
-## 首页
- - [https://www.starfivetech.com](https://www.starfivetech.com)
- - date published: 2023-10-25T17:15:27.917895+00:00
- - user: None
- - tags: []
-
-## Home - Starlink - Direct to Cell
- - [https://direct.starlink.com](https://direct.starlink.com)
- - date published: 2023-10-25T17:15:29.991528+00:00
- - user: None
- - tags: []
-
-## Starlink
- - [https://starlink.com](https://starlink.com)
- - date published: 2020-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['internet service provider']
-
-## Starlink
- - [https://www.starlink.com](https://www.starlink.com)
- - date published: 2023-10-27T13:17:14.300712+00:00
- - user: None
- - tags: []
-
-## Starmourn
- - [https://www.starmourn.com](https://www.starmourn.com)
- - date published: 2024-03-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Wilmington Star-News: Local News, Politics & Sports in Wilmington, NC
- - [https://www.starnewsonline.com](https://www.starnewsonline.com)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.starrylemonlime.com](https://www.starrylemonlime.com)
- - date published: 2017-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Start a Fucking Blog
- - [https://startafuckingblog.com](https://startafuckingblog.com)
- - date published: 2023-10-25T17:15:30.754300+00:00
- - user: None
- - tags: []
-
-## Starter Story: Learn How People Are Starting Successful Businesses
- - [https://www.starterstory.com](https://www.starterstory.com)
- - date published: 2023-10-25T17:15:33.599452+00:00
- - user: None
  - tags: []
 
