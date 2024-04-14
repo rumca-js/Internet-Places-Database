@@ -3,7 +3,7 @@
 This is a database of Internet places. Mostly domains. Sometimes other things. Think of it as Internet meta database. This repository contains link metadata: title, description, publish date, etc.
 
 
-![](https://raw.githubusercontent.com/rumca-js/Internet-Places-Database/main/screenshots/its_easy_internet_on_internet.png)
+![](https://github.com/rumca-js/Internet-Places-Database/blob/main/images/its_easy_internet_on_internet.png?raw=true)
 
 Acceptable link types:
  - domains
