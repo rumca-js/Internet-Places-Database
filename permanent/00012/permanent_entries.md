@@ -1,3 +1,117 @@
+## Roche - Doing now what patients need next
+ - [https://www.roche.com](https://www.roche.com)
+ - date published: 2023-10-25T11:28:31.400112+00:00
+ - user: None
+ - tags: []
+
+## Climbing Magazine | Bouldering, Trad, Alpine, and Sport Climbing
+ - [http://www.rockandice.com](http://www.rockandice.com)
+ - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Rock and Null
+ - [https://www.rockandnull.com](https://www.rockandnull.com)
+ - date published: 2023-10-25T09:35:02.949216+00:00
+ - user: None
+ - tags: []
+
+## https://www.rockefellercenter.com
+ - [https://www.rockefellercenter.com](https://www.rockefellercenter.com)
+ - date published: 2024-02-09T07:42:27+00:00
+ - user: rumpel
+ - tags: ['tourism']
+
+## Rocket 9 Labs
+ - [https://rocket9labs.com](https://rocket9labs.com)
+ - date published: 2023-10-25T09:26:03.860837+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rocket Money - Take control of your money
+ - [https://rocketmoney.com](https://rocketmoney.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://rockfax.com](https://rockfax.com)
+ - date published: 2024-03-24T15:06:02.967870+00:00
+ - user: None
+ - tags: []
+
+## Rock Informer - Rock Music News, Reviews, Videos
+ - [https://rockinformer.com](https://rockinformer.com)
+ - date published: 2023-12-24T18:53:19.977744+00:00
+ - user: None
+ - tags: ['music']
+
+## Rock Paper Shotgun
+ - [https://www.rockpapershotgun.com](https://www.rockpapershotgun.com)
+ - date published: 2023-10-25T10:50:04+00:00
+ - user: None
+ - tags: ['video game news']
+
+## RockStar energy drink
+ - [https://www.rockstarenergy.com](https://www.rockstarenergy.com)
+ - date published: 2024-02-23T17:47:03+00:00
+ - user: rumpel
+ - tags: []
+
+## Rockstar Games
+ - [https://www.rockstargames.com](https://www.rockstargames.com)
+ - date published: 2023-10-25T11:28:32.034616+00:00
+ - user: None
+ - tags: ['red dead redemption', 'grand theft auto', 'company']
+
+## Rocksteady | Creators of the Arkham franchise
+ - [https://rocksteadyltd.com](https://rocksteadyltd.com)
+ - date published: 2023-11-27T12:52:26+00:00
+ - user: rumpel
+ - tags: ['batman', 'video game developer']
+
+## Rocky Bergen
+ - [https://rockybergen.com](https://rockybergen.com)
+ - date published: 2023-10-25T16:53:25.983733+00:00
+ - user: None
+ - tags: []
+
+## Rocky Bergen
+ - [http://rockybergen.com](http://rockybergen.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Inbound Marketing for Engineering & Software Services - RocLogic
+ - [https://roclogicmarketing.com](https://roclogicmarketing.com)
+ - date published: 2023-12-22T22:29:30.216990+00:00
+ - user: None
+ - tags: ['personal']
+
+## RODAKpress - niepoprawny politycznie magazyn internetowy Ruchu Rodaków - mieszkańców świata
+ - [http://www.rodaknet.com](http://www.rodaknet.com)
+ - date published: 2023-10-25T16:53:30.195626+00:00
+ - user: None
+ - tags: []
+
+## Rodney Brooks – Robots, AI, and other stuff
+ - [https://rodneybrooks.com](https://rodneybrooks.com)
+ - date published: 2023-10-25T16:53:31.841027+00:00
+ - user: None
+ - tags: []
+
+## https://www.rodrigofranco.com
+ - [https://www.rodrigofranco.com](https://www.rodrigofranco.com)
+ - date published: 2024-01-12T21:01:46.147308+00:00
+ - user: None
+ - tags: []
+
+## Home - Rodrigo Tassinari
+ - [https://rodrigotassinari.com](https://rodrigotassinari.com)
+ - date published: 2023-11-29T18:20:49.678962+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Jason Rodriguez
  - [https://rodriguezcommaj.com](https://rodriguezcommaj.com)
  - date published: 2023-10-25T08:47:49.289045+00:00
@@ -809,14 +923,14 @@
  - tags: []
 
 ## Home :: Sacha Chua
- - [http://sachachua.com](http://sachachua.com)
- - date published: 2024-01-05T00:00:00+00:00
+ - [https://sachachua.com](https://sachachua.com)
+ - date published: 2024-01-06T02:24:05.322702+00:00
  - user: None
  - tags: []
 
 ## Home :: Sacha Chua
- - [https://sachachua.com](https://sachachua.com)
- - date published: 2024-01-06T02:24:05.322702+00:00
+ - [http://sachachua.com](http://sachachua.com)
+ - date published: 2024-01-05T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1377,6 +1491,12 @@
  - date published: 2024-02-09T00:14:34.539434+00:00
  - user: None
  - tags: ['personal']
+
+## Satellite Tracker 3D
+ - [https://satellitetracker3d.com](https://satellitetracker3d.com)
+ - date published: 2024-04-14T06:27:38+00:00
+ - user: rumpel
+ - tags: ['astronomy', 'cosmos', 'satellite data']
 
 ## The Saturday Evening Post | Home of The Saturday Evening Post
  - [https://www.saturdayeveningpost.com](https://www.saturdayeveningpost.com)
@@ -3244,6 +3364,12 @@
  - user: None
  - tags: []
 
+## Shreyas
+ - [https://www.shreyasprakash.com](https://www.shreyasprakash.com)
+ - date published: 2024-04-14T00:37:55.227148+00:00
+ - user: None
+ - tags: ['personal']
+
 ## James Sheriff | shrff.com
  - [https://www.shrff.com](https://www.shrff.com)
  - date published: 2000-01-01T00:00:00+00:00
@@ -4187,15 +4313,15 @@
  - user: None
  - tags: []
 
-## Saturday Morning Breakfast Cereal - Lesser
- - [http://smbc-comics.com](http://smbc-comics.com)
- - date published: 2024-04-07T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Saturday Morning Breakfast Cereal - Why
  - [https://smbc-comics.com](https://smbc-comics.com)
  - date published: 2024-04-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Saturday Morning Breakfast Cereal - Lesser
+ - [http://smbc-comics.com](http://smbc-comics.com)
+ - date published: 2024-04-07T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4314,16 +4440,16 @@
  - tags: []
 
 ## Snarling Badger Studios
- - [http://www.snarlingbadger.com](http://www.snarlingbadger.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Snarling Badger Studios
  - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
  - date published: 2023-11-10T10:42:34.914133+00:00
  - user: None
  - tags: ['magazine', 'tabletop games', 'warhammer', 'wargames', 'zine']
+
+## Snarling Badger Studios
+ - [http://www.snarlingbadger.com](http://www.snarlingbadger.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Serge Nevsky
  - [https://snevsky.com](https://snevsky.com)
@@ -5593,6 +5719,12 @@
  - user: None
  - tags: []
 
+## Stack
+ - [https://stack-auth.com](https://stack-auth.com)
+ - date published: 2024-04-14T18:32:14.319309+00:00
+ - user: None
+ - tags: ['nodejs', 'user authentication', 'javascript library']
+
 ## Stack Builders - Software Consultancy company
  - [https://www.stackbuilders.com](https://www.stackbuilders.com)
  - date published: 2023-12-27T22:37:04.603102+00:00
@@ -5642,14 +5774,14 @@
  - tags: []
 
 ## Biology Stack Exchange
- - [https://biology.stackexchange.com](https://biology.stackexchange.com)
- - date published: 2024-01-10T09:05:16.771549+00:00
+ - [http://biology.stackexchange.com](http://biology.stackexchange.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Biology Stack Exchange
- - [http://biology.stackexchange.com](http://biology.stackexchange.com)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://biology.stackexchange.com](https://biology.stackexchange.com)
+ - date published: 2024-01-10T09:05:16.771549+00:00
  - user: None
  - tags: []
 
@@ -5762,14 +5894,14 @@
  - tags: []
 
 ## Mathematics Stack Exchange
- - [https://math.stackexchange.com](https://math.stackexchange.com)
- - date published: 2023-10-25T17:13:42.554988+00:00
+ - [http://math.stackexchange.com](http://math.stackexchange.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Mathematics Stack Exchange
- - [http://math.stackexchange.com](http://math.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://math.stackexchange.com](https://math.stackexchange.com)
+ - date published: 2023-10-25T17:13:42.554988+00:00
  - user: None
  - tags: []
 
@@ -5786,14 +5918,14 @@
  - tags: []
 
 ## Physics Stack Exchange
- - [https://physics.stackexchange.com](https://physics.stackexchange.com)
- - date published: 2023-10-25T17:13:56.651090+00:00
+ - [http://physics.stackexchange.com](http://physics.stackexchange.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Physics Stack Exchange
- - [http://physics.stackexchange.com](http://physics.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://physics.stackexchange.com](https://physics.stackexchange.com)
+ - date published: 2023-10-25T17:13:56.651090+00:00
  - user: None
  - tags: []
 
@@ -5873,137 +6005,5 @@
  - [https://stats.stackexchange.com](https://stats.stackexchange.com)
  - date published: 2024-02-18T00:00:00+00:00
  - user: None
- - tags: []
-
-## Substrate and Polkadot Stack Exchange
- - [https://substrate.stackexchange.com](https://substrate.stackexchange.com)
- - date published: 2023-10-25T17:14:27.990996+00:00
- - user: None
- - tags: []
-
-## Sustainable Living Stack Exchange
- - [https://sustainability.stackexchange.com](https://sustainability.stackexchange.com)
- - date published: 2024-03-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Travel Stack Exchange
- - [https://travel.stackexchange.com](https://travel.stackexchange.com)
- - date published: 2023-10-25T17:14:31.765614+00:00
- - user: None
- - tags: []
-
-## Unix & Linux Stack Exchange
- - [https://unix.stackexchange.com](https://unix.stackexchange.com)
- - date published: 2023-10-25T17:14:39.830149+00:00
- - user: None
- - tags: []
-
-## Unix & Linux Stack Exchange
- - [http://unix.stackexchange.com](http://unix.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## User Experience Stack Exchange
- - [https://ux.stackexchange.com](https://ux.stackexchange.com)
- - date published: 2024-02-04T00:00:00+00:00
- - user: None
- - tags: ['gui design', 'ux design']
-
-## The Workplace Stack Exchange
- - [http://workplace.stackexchange.com](http://workplace.stackexchange.com)
- - date published: 2024-02-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Workplace Stack Exchange
- - [https://workplace.stackexchange.com](https://workplace.stackexchange.com)
- - date published: 2023-10-25T17:14:43.195803+00:00
- - user: None
- - tags: []
-
-## Worldbuilding Stack Exchange
- - [https://worldbuilding.stackexchange.com](https://worldbuilding.stackexchange.com)
- - date published: 2023-12-24T19:38:56.919466+00:00
- - user: None
- - tags: []
-
-## Meta Stack Overflow
- - [https://meta.stackoverflow.com](https://meta.stackoverflow.com)
- - date published: 2023-10-25T17:14:47.678996+00:00
- - user: None
- - tags: []
-
-## Stack Overflow - Where Developers Learn, Share, & Build Careers
- - [https://stackoverflow.com](https://stackoverflow.com)
- - date published: 2023-10-24T20:16:48.479485+00:00
- - user: None
- - tags: ['social platform']
-
-## Stack Overflowed - Where Developers Vent
- - [https://stackoverflowed.com](https://stackoverflowed.com)
- - date published: 2023-10-25T17:14:48.341607+00:00
- - user: None
- - tags: []
-
-## StackStorm – IFTTT for Ops
- - [https://stackstorm.com](https://stackstorm.com)
- - date published: 2023-11-05T09:32:01+00:00
- - user: None
- - tags: []
-
-## Home | Stacy Karyn
- - [https://stacykaryn.com](https://stacykaryn.com)
- - date published: 2024-01-05T16:52:29.932878+00:00
- - user: None
- - tags: []
-
-## Krizmi
- - [https://www.stadai.com](https://www.stadai.com)
- - date published: 2023-10-25T17:14:49.261880+00:00
- - user: None
- - tags: []
-
-## Community - Stadia Community
- - [https://community.stadia.com](https://community.stadia.com)
- - date published: 2023-10-25T17:14:53.188546+00:00
- - user: None
- - tags: []
-
-## Cloud Dosage - Cloud Gaming News, Stats and Community
- - [https://stadiadosage.com](https://stadiadosage.com)
- - date published: 2023-10-25T17:15:02.831617+00:00
- - user: None
- - tags: []
-
-## Staggering Beauty
- - [http://www.staggeringbeauty.com](http://www.staggeringbeauty.com)
- - date published: 2023-10-27T10:52:14.870047+00:00
- - user: None
- - tags: ['wtf']
-
-## Stairways Software: Excellence In Software – Only with a Mac
- - [https://www.stairways.com](https://www.stairways.com)
- - date published: 2023-10-26T06:39:49.777154+00:00
- - user: None
- - tags: []
-
-## Stake Ventures
- - [https://blog.stakeventures.com](https://blog.stakeventures.com)
- - date published: 2023-12-31T16:48:37.961452+00:00
- - user: None
- - tags: []
-
-## André Staltz
- - [https://staltz.com](https://staltz.com)
- - date published: 2023-10-25T08:47:54.035732+00:00
- - user: None
- - tags: ['personal']
-
-## Hello, this domain has been purchased at Hostpoint
- - [https://stamara.com](https://stamara.com)
- - date published: 2001-01-01T00:00:00+00:00
- - user: rumpel
  - tags: []
 

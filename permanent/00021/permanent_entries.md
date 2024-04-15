@@ -1,3 +1,171 @@
+## Ian Smith – Software Development, Electronics, and 3D Printing
+ - [https://www.iansmith.is](https://www.iansmith.is)
+ - date published: 2023-11-17T07:30:16.055744+00:00
+ - user: None
+ - tags: ['personal']
+
+## ipapi.is
+ - [https://ipapi.is](https://ipapi.is)
+ - date published: 2023-10-25T20:14:12.692518+00:00
+ - user: None
+ - tags: []
+
+## Ísland.is
+ - [https://island.is](https://island.is)
+ - date published: 2023-10-25T20:14:16.567535+00:00
+ - user: None
+ - tags: []
+
+## Horseback riding tours in Iceland - The best riding tours owned by farmers
+ - [https://islandshestar.is](https://islandshestar.is)
+ - date published: 2024-01-30T20:52:26.566196+00:00
+ - user: None
+ - tags: []
+
+## Jake Jarvis – Front-End Web Developer in Boston, MA
+ - [https://jarv.is](https://jarv.is)
+ - date published: 2023-10-25T20:14:22.428117+00:00
+ - user: None
+ - tags: []
+
+## Joel Gascoigne
+ - [https://joel.is](https://joel.is)
+ - date published: 2024-01-12T22:14:31.768252+00:00
+ - user: None
+ - tags: []
+
+## Jonah is… - Jonah is…
+ - [https://jonah.is](https://jonah.is)
+ - date published: 2024-01-06T17:57:57.609829+00:00
+ - user: None
+ - tags: []
+
+## Kenny Grants Personal Website
+ - [https://kenny.is](https://kenny.is)
+ - date published: 2024-01-07T11:03:19.555237+00:00
+ - user: None
+ - tags: []
+
+## | a.programming.blog
+ - [https://who.ldelossa.is](https://who.ldelossa.is)
+ - date published: 2023-10-25T20:14:23.039703+00:00
+ - user: None
+ - tags: []
+
+## Library Genesis
+ - [https://libgen.is](https://libgen.is)
+ - date published: 2023-10-25T20:14:24.181142+00:00
+ - user: None
+ - tags: []
+
+## Library Genesis
+ - [https://www.libgen.is](https://www.libgen.is)
+ - date published: 2024-01-04T12:01:56+00:00
+ - user: rumpel
+ - tags: ['digital library']
+
+## George Mandis • Full stack web developer and creative technologist
+ - [https://george.mand.is](https://george.mand.is)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mannlíf.is | Beittur og lifandi fréttavefur
+ - [https://www.mannlif.is](https://www.mannlif.is)
+ - date published: 2024-01-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Iceland Monitor - monitor.is
+ - [https://icelandmonitor.mbl.is](https://icelandmonitor.mbl.is)
+ - date published: 2023-11-14T14:17:41.442172+00:00
+ - user: None
+ - tags: []
+
+## ultreia me - Page
+ - [https://mikka.is](https://mikka.is)
+ - date published: 2024-02-26T15:00:43.525617+00:00
+ - user: None
+ - tags: []
+
+## Professor Steven J. Murdoch
+ - [https://murdoch.is](https://murdoch.is)
+ - date published: 2023-10-25T20:14:25.931346+00:00
+ - user: None
+ - tags: []
+
+## pratik.is/
+ - [https://pratik.is](https://pratik.is)
+ - date published: 2023-10-25T20:14:27.508195+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://ben.robertson.is](https://ben.robertson.is)
+ - date published: 2024-01-11T13:45:34.420578+00:00
+ - user: None
+ - tags: []
+
+## Robin is... Home
+ - [https://robin.is](https://robin.is)
+ - date published: 2024-04-07T04:31:41.299439+00:00
+ - user: None
+ - tags: ['personal']
+
+## Robin is... Home
+ - [https://www.robin.is](https://www.robin.is)
+ - date published: 2024-01-19T01:54:26.064868+00:00
+ - user: None
+ - tags: []
+
+## RÚV.is
+ - [https://www.ruv.is](https://www.ruv.is)
+ - date published: 2023-11-11T03:29:34.003690+00:00
+ - user: None
+ - tags: []
+
+## Timi Wahalahti | Backend developer and WordPress enthusiast
+ - [https://sipp.is](https://sipp.is)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Your story estimation can be lightweight and efficient
+ - [https://smartguess.is](https://smartguess.is)
+ - date published: 2023-11-01T08:43:48.191532+00:00
+ - user: None
+ - tags: []
+
+## Lincoln is...blue
+ - [https://lincoln.swaine-moore.is](https://lincoln.swaine-moore.is)
+ - date published: 2024-01-09T03:33:33.087300+00:00
+ - user: None
+ - tags: []
+
+## Jasper is (╯°□°）╯︵ ┻━┻
+ - [https://jasper.tandy.is](https://jasper.tandy.is)
+ - date published: 2023-11-29T14:25:42.608019+00:00
+ - user: None
+ - tags: ['personal']
+
+## The (Site of) Davis
+ - [https://thedav.is](https://thedav.is)
+ - date published: 2023-10-25T20:14:33.148978+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://rss.time.is](https://rss.time.is)
+ - date published: 2024-02-26T14:09:15.836123+00:00
+ - user: None
+ - tags: []
+
+## Time.is - exact time, any time zone
+ - [https://time.is](https://time.is)
+ - date published: 2023-10-25T20:14:35.850640+00:00
+ - user: None
+ - tags: []
+
 ## timing blog
  - [https://blog.timing.is](https://blog.timing.is)
  - date published: 2023-10-25T20:14:37.573106+00:00
@@ -27,6 +195,12 @@
  - date published: 2023-10-25T20:14:38.592018+00:00
  - user: None
  - tags: []
+
+## blomqu.ist
+ - [https://blomqu.ist](https://blomqu.ist)
+ - date published: 2024-04-14T19:33:50.702135+00:00
+ - user: None
+ - tags: ['personal']
 
 ## gavart.ist — 🌱 digital garden  🗂  work repository
  - [https://gavart.ist](https://gavart.ist)
@@ -634,15 +808,15 @@
  - user: None
  - tags: []
 
-## News on Japan, Business News, Opinion, Sports, Entertainment and More
- - [http://www.japantimes.co.jp](http://www.japantimes.co.jp)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
 ## The Japan Times - News On Japan, Business News, Opinion, Sports, Entertainment And More
  - [https://www.japantimes.co.jp](https://www.japantimes.co.jp)
  - date published: 2023-10-25T10:41:22.679546+00:00
+ - user: None
+ - tags: []
+
+## News on Japan, Business News, Opinion, Sports, Entertainment and More
+ - [http://www.japantimes.co.jp](http://www.japantimes.co.jp)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1408,6 +1582,12 @@
  - user: None
  - tags: []
 
+## ⚡️ Electricity prices Europe
+ - [https://euenergy.live](https://euenergy.live)
+ - date published: 2024-04-14T06:27:06.292765+00:00
+ - user: None
+ - tags: ['europe statistics']
+
 ## Live Video Chat With Your Website Visitors · Joyyo
  - [https://hibox.live](https://hibox.live)
  - date published: 2023-10-25T20:18:45.413550+00:00
@@ -1462,17 +1642,17 @@
  - user: None
  - tags: []
 
-## None
- - [https://www.vvna.live](https://www.vvna.live)
- - date published: 2024-01-07T08:44:46.606393+00:00
- - user: None
- - tags: []
-
 ## Tomatoes on a Vine
  - [http://www.vvna.live](http://www.vvna.live)
  - date published: 2024-04-03T06:31:52.939646+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [https://www.vvna.live](https://www.vvna.live)
+ - date published: 2024-01-07T08:44:46.606393+00:00
+ - user: None
+ - tags: []
 
 ## win32 - Main Index
  - [https://win32subsystem.live](https://win32subsystem.live)
@@ -2357,16 +2537,16 @@
  - tags: ['search engine']
 
 ## dlaa.me - David Anson
- - [http://dlaa.me](http://dlaa.me)
- - date published: 2024-02-26T14:05:55.252261+00:00
- - user: None
- - tags: []
-
-## dlaa.me - David Anson
  - [https://dlaa.me](https://dlaa.me)
  - date published: 2023-10-25T09:22:08.811953+00:00
  - user: None
  - tags: ['personal']
+
+## dlaa.me - David Anson
+ - [http://dlaa.me](http://dlaa.me)
+ - date published: 2024-02-26T14:05:55.252261+00:00
+ - user: None
+ - tags: []
 
 ## Doumer's Blog
  - [https://doumer.me](https://doumer.me)
@@ -2459,14 +2639,14 @@
  - tags: []
 
 ## FeedPress
- - [https://feedpress.me](https://feedpress.me)
- - date published: 2024-02-25T20:19:45.730277+00:00
+ - [http://feedpress.me](http://feedpress.me)
+ - date published: 2024-02-26T13:00:22.007137+00:00
  - user: None
  - tags: []
 
 ## FeedPress
- - [http://feedpress.me](http://feedpress.me)
- - date published: 2024-02-26T13:00:22.007137+00:00
+ - [https://feedpress.me](https://feedpress.me)
+ - date published: 2024-02-25T20:19:45.730277+00:00
  - user: None
  - tags: []
 
@@ -2681,14 +2861,14 @@
  - tags: ['personal']
 
 ## Hi, I'm Jonathan - Jonathan Berkowitz
- - [https://blog.jonathanberkowitz.me](https://blog.jonathanberkowitz.me)
- - date published: 2023-12-12T12:11:55.702590+00:00
+ - [http://blog.jonathanberkowitz.me](http://blog.jonathanberkowitz.me)
+ - date published: 2024-02-26T08:25:28.978112+00:00
  - user: None
  - tags: []
 
 ## Hi, I'm Jonathan - Jonathan Berkowitz
- - [http://blog.jonathanberkowitz.me](http://blog.jonathanberkowitz.me)
- - date published: 2024-02-26T08:25:28.978112+00:00
+ - [https://blog.jonathanberkowitz.me](https://blog.jonathanberkowitz.me)
+ - date published: 2023-12-12T12:11:55.702590+00:00
  - user: None
  - tags: []
 
@@ -3851,6 +4031,12 @@
  - user: None
  - tags: []
 
+## kolektiva.media
+ - [https://kolektiva.media](https://kolektiva.media)
+ - date published: 2024-04-14T04:14:07.900052+00:00
+ - user: None
+ - tags: ['peretube', 'video streaming']
+
 ## Mezha.Media • новини IT та огляди
  - [https://mezha.media](https://mezha.media)
  - date published: 2023-10-25T20:22:07.948757+00:00
@@ -4374,14 +4560,14 @@
  - tags: []
 
 ## Mackenzie Morgan
- - [http://mackenzie.morgan.name](http://mackenzie.morgan.name)
- - date published: 2024-04-03T06:22:47.388814+00:00
+ - [https://mackenzie.morgan.name](https://mackenzie.morgan.name)
+ - date published: 2023-11-29T17:07:05.410622+00:00
  - user: None
  - tags: ['personal']
 
 ## Mackenzie Morgan
- - [https://mackenzie.morgan.name](https://mackenzie.morgan.name)
- - date published: 2023-11-29T17:07:05.410622+00:00
+ - [http://mackenzie.morgan.name](http://mackenzie.morgan.name)
+ - date published: 2024-04-03T06:22:47.388814+00:00
  - user: None
  - tags: ['personal']
 
@@ -4926,26 +5112,26 @@
  - tags: []
 
 ## Amigaworld.net - The Amiga Computer Community Portal Website
- - [http://amigaworld.net](http://amigaworld.net)
- - date published: 2024-02-25T14:45:32.614877+00:00
- - user: None
- - tags: []
-
-## Amigaworld.net - The Amiga Computer Community Portal Website
  - [https://amigaworld.net](https://amigaworld.net)
  - date published: 2023-10-27T14:32:09.267109+00:00
  - user: None
  - tags: ['retro news', 'amiga']
 
 ## Amigaworld.net - The Amiga Computer Community Portal Website
- - [https://www.amigaworld.net](https://www.amigaworld.net)
- - date published: 2024-01-09T03:34:56.633393+00:00
+ - [http://amigaworld.net](http://amigaworld.net)
+ - date published: 2024-02-25T14:45:32.614877+00:00
  - user: None
  - tags: []
 
 ## Amigaworld.net - The Amiga Computer Community Portal Website
  - [http://www.amigaworld.net](http://www.amigaworld.net)
  - date published: 2024-02-25T14:45:35.125644+00:00
+ - user: None
+ - tags: []
+
+## Amigaworld.net - The Amiga Computer Community Portal Website
+ - [https://www.amigaworld.net](https://www.amigaworld.net)
+ - date published: 2024-01-09T03:34:56.633393+00:00
  - user: None
  - tags: []
 
@@ -5022,16 +5208,16 @@
  - tags: []
 
 ## Aminet - Latest packages, last 14 days
- - [http://www.aminet.net](http://www.aminet.net)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Aminet - Latest packages, last 14 days
  - [https://www.aminet.net](https://www.aminet.net)
  - date published: 2023-10-27T14:28:24.858893+00:00
  - user: None
  - tags: ['roms', 'amiga', 'emulation']
+
+## Aminet - Latest packages, last 14 days
+ - [http://www.aminet.net](http://www.aminet.net)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## @amit
  - [https://amitg.net](https://amitg.net)
@@ -5088,16 +5274,16 @@
  - tags: []
 
 ## Andrés Bianciotto
- - [http://andresb.net](http://andresb.net)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Andrés Bianciotto
  - [https://andresb.net](https://andresb.net)
  - date published: 2023-12-20T11:44:54.548934+00:00
  - user: None
  - tags: ['personal']
+
+## Andrés Bianciotto
+ - [http://andresb.net](http://andresb.net)
+ - date published: 2020-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Andrew Lock | .NET Escapades
  - [https://andrewlock.net](https://andrewlock.net)
@@ -5645,6 +5831,12 @@
  - user: None
  - tags: []
 
+## Bruno Guastalla
+ - [https://brunoguastalla.net](https://brunoguastalla.net)
+ - date published: 2024-04-14T15:17:17.504965+00:00
+ - user: None
+ - tags: ['art', 'personal']
+
 ## The Open Buddhist University @ A website dedicated to providing free, online courses and bibliographies in Buddhist Studies.
  - [https://buddhistuniversity.net](https://buddhistuniversity.net)
  - date published: 2023-10-25T20:26:55.453359+00:00
@@ -5806,198 +5998,6 @@ Buildings in Saint Louis, Missouri
 ## Цензор.НЕТ – Останні новини України та світу – читати свіжі новини дня онлайн | Цензор.НЕТ
  - [https://static.censor.net](https://static.censor.net)
  - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Center for Economic and Policy Research -
- - [https://cepr.net](https://cepr.net)
- - date published: 2023-10-25T20:27:25.290529+00:00
- - user: None
- - tags: []
-
-## Homepage | Cerebras
- - [https://www.cerebras.net](https://www.cerebras.net)
- - date published: 2023-10-25T20:27:33.645111+00:00
- - user: None
- - tags: []
-
-## The cfarm compile farm project
- - [https://portal.cfarm.net](https://portal.cfarm.net)
- - date published: 2023-12-10T19:31:41+00:00
- - user: None
- - tags: []
-
-## Gaurav Chandrashekar
- - [https://cggaurav.net](https://cggaurav.net)
- - date published: 2023-12-20T00:58:27.977592+00:00
- - user: None
- - tags: ['personal']
-
-## Chad‚Äôs blog
- - [https://chadmoore.net](https://chadmoore.net)
- - date published: 2024-04-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## chair6.net
- - [https://chair6.net](https://chair6.net)
- - date published: 2023-10-25T20:27:34.720205+00:00
- - user: None
- - tags: []
-
-## Show HN: Checkmate Champ – a training tool for chess tactics
- - [https://www.checkmatechamp.net](https://www.checkmatechamp.net)
- - date published: 2024-01-20T20:41:59+00:00
- - user: None
- - tags: []
-
-## Dave Cheney | The acme of foolishness
- - [https://dave.cheney.net](https://dave.cheney.net)
- - date published: 2023-11-05T13:31:03.029366+00:00
- - user: None
- - tags: []
-
-## Chiara Girardelli | Full stack developer and consultant
- - [https://www.chiaragirardelli.net](https://www.chiaragirardelli.net)
- - date published: 2024-01-09T03:35:16.952482+00:00
- - user: None
- - tags: []
-
-## Chiara Pasquini
- - [https://chiarapasquini.net](https://chiarapasquini.net)
- - date published: 2023-11-29T16:21:37.244497+00:00
- - user: None
- - tags: ['personal']
-
-## China Dialogue | China environment and climate news
- - [https://chinadialogue.net](https://chinadialogue.net)
- - date published: 2023-10-25T10:55:40.772242+00:00
- - user: None
- - tags: ['china news']
-
-## Adam Chlipala
- - [http://adam.chlipala.net](http://adam.chlipala.net)
- - date published: 2023-10-25T20:27:36.669215+00:00
- - user: None
- - tags: []
-
-## About me
- - [https://chojecki.net](https://chojecki.net)
- - date published: 2024-04-03T06:27:35.420864+00:00
- - user: None
- - tags: ['personal']
-
-## Chris Coyier – Web craftsman, blogger, author, speaker.
- - [https://chriscoyier.net](https://chriscoyier.net)
- - date published: 2023-10-25T20:27:38.910964+00:00
- - user: None
- - tags: []
-
-## Christian Christiansen.
- - [https://christianchristiansen.net](https://christianchristiansen.net)
- - date published: 2024-03-24T11:12:15.811695+00:00
- - user: None
- - tags: ['personal']
-
-## Christopher Nolan Fans - What Can We Learn from Him
- - [https://www.christophernolan.net](https://www.christophernolan.net)
- - date published: 2023-11-13T12:51:35.108400+00:00
- - user: None
- - tags: ['movies']
-
-## Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite
- - [https://chyrplite.net](https://chyrplite.net)
- - date published: 2024-03-12T20:36:36+00:00
- - user: None
- - tags: []
-
-## Clawhammer
- - [https://social.clawhammer.net](https://social.clawhammer.net)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## CLiki: the common lisp wiki
- - [https://www.cliki.net](https://www.cliki.net)
- - date published: 2023-10-25T20:27:45.899688+00:00
- - user: None
- - tags: []
-
-## Watching the World Go Bye – Eliot Jacobson's Collapse of Everything Blog
- - [https://climatecasino.net](https://climatecasino.net)
- - date published: 2023-10-25T20:27:48.329723+00:00
- - user: None
- - tags: []
-
-## climateprediction.net | The world's largest climate modelling experiment for the 21st century
- - [https://www.climateprediction.net](https://www.climateprediction.net)
- - date published: 2023-10-25T20:27:56.776773+00:00
- - user: None
- - tags: ['climate change']
-
-## CloudTabs
- - [https://browse.cloudtabs.net](https://browse.cloudtabs.net)
- - date published: 2024-04-04T17:01:43.196566+00:00
- - user: None
- - tags: []
-
-## cmyr.net
- - [http://www.cmyr.net](http://www.cmyr.net)
- - date published: 2024-02-26T14:49:26.885827+00:00
- - user: None
- - tags: []
-
-## cmyr.net
- - [https://www.cmyr.net](https://www.cmyr.net)
- - date published: 2023-10-25T20:27:57.868244+00:00
- - user: None
- - tags: []
-
-## Codebox Software
- - [https://codebox.net](https://codebox.net)
- - date published: 2024-04-06T08:54:47.943068+00:00
- - user: None
- - tags: []
-
-## Home - Colin McGinn
- - [https://www.colinmcginn.net](https://www.colinmcginn.net)
- - date published: 2023-12-09T06:19:16.060955+00:00
- - user: None
- - tags: []
-
-## Colin McLear
- - [https://www.colinmclear.net](https://www.colinmclear.net)
- - date published: 2023-10-25T08:52:10.955172+00:00
- - user: None
- - tags: ['personal']
-
-## Bienvenue – colin@colino.net
- - [https://www.colino.net](https://www.colino.net)
- - date published: 2023-10-25T20:27:59.680602+00:00
- - user: None
- - tags: []
-
-## Welcome to Common-Lisp.net!
- - [https://common-lisp.net](https://common-lisp.net)
- - date published: 2022-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## WWW.COMMORADIO.NET - Authentic sound of Commodore 64 and Commodore Amiga
- - [https://www.commoradio.net](https://www.commoradio.net)
- - date published: 2024-02-15T22:15:06.873499+00:00
- - user: None
- - tags: ['demoscene']
-
-## Conal Elliott's home page
- - [http://conal.net](http://conal.net)
- - date published: 2023-10-25T20:28:06.492345+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://cdn.confiant-integrations.net](https://cdn.confiant-integrations.net)
- - date published: 2024-01-09T03:35:17.410844+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,203 @@
+## Kanban Project Management Software - Kanboard
+ - [https://kanboard.org](https://kanboard.org)
+ - date published: 2023-10-25T21:35:59.351365+00:00
+ - user: None
+ - tags: []
+
+## KanColl: The Kansas Collection Welcome Page
+ - [https://www.kancoll.org](https://www.kancoll.org)
+ - date published: 2023-11-15T17:44:31.559724+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kart
+ - [https://kartproject.org](https://kartproject.org)
+ - date published: 2024-01-09T03:41:10.946630+00:00
+ - user: None
+ - tags: []
+
+## KaTeX – The fastest math typesetting library for the web
+ - [https://katex.org](https://katex.org)
+ - date published: 2023-10-25T21:36:00.014489+00:00
+ - user: None
+ - tags: []
+
+## KAXE - Homepage | KAXE
+ - [https://www.kaxe.org](https://www.kaxe.org)
+ - date published: 2024-03-01T07:05:48.774297+00:00
+ - user: None
+ - tags: []
+
+## KCUR | KCUR - Kansas City news and NPR
+ - [https://www.kcur.org](https://www.kcur.org)
+ - date published: 2023-11-04T18:28:47.889014+00:00
+ - user: None
+ - tags: []
+
+## KDE Bugtracking System Main Page
+ - [https://bugs.kde.org](https://bugs.kde.org)
+ - date published: 2024-02-01T21:35:21.710668+00:00
+ - user: None
+ - tags: []
+
+## KDE Community Wiki
+ - [https://community.kde.org](https://community.kde.org)
+ - date published: 2024-03-12T21:03:10.494551+00:00
+ - user: None
+ - tags: []
+
+## KDE Discuss - KDE Community
+ - [https://discuss.kde.org](https://discuss.kde.org)
+ - date published: 2023-10-25T21:36:01.965434+00:00
+ - user: None
+ - tags: []
+
+## KDE Eco
+ - [https://eco.kde.org](https://eco.kde.org)
+ - date published: 2023-10-25T21:36:03.672195+00:00
+ - user: None
+ - tags: []
+
+## Explore groups · GitLab
+ - [https://invent.kde.org](https://invent.kde.org)
+ - date published: 2023-10-25T21:36:04.476762+00:00
+ - user: None
+ - tags: []
+
+## Home - KDE Community
+ - [https://kde.org](https://kde.org)
+ - date published: 2023-10-25T21:36:06.463462+00:00
+ - user: None
+ - tags: ['kde', 'open source', 'linux desktop environment', 'linux']
+
+## KDE Mailing Lists - KDE Community
+ - [https://mail.kde.org](https://mail.kde.org)
+ - date published: 2023-10-25T21:36:08.509574+00:00
+ - user: None
+ - tags: []
+
+## Browse  Latest | https://store.kde.org/browse/
+ - [https://store.kde.org](https://store.kde.org)
+ - date published: 2023-11-05T10:28:13.360219+00:00
+ - user: None
+ - tags: []
+
+## Kdenlive - Video Editing Freedom
+ - [https://kdenlive.org](https://kdenlive.org)
+ - date published: 2024-03-09T00:00:00+00:00
+ - user: None
+ - tags: ['open source', 'video editor']
+
+## KeePassXC Password Manager
+ - [https://keepassxc.org](https://keepassxc.org)
+ - date published: 2023-10-25T21:36:09.258338+00:00
+ - user: None
+ - tags: ['password manager', 'open source']
+
+## Knowledge Ecology International - Attending and mending the knowledge ecosystem
+ - [https://www.keionline.org](https://www.keionline.org)
+ - date published: 2023-10-25T21:36:12.622310+00:00
+ - user: None
+ - tags: []
+
+## Kelake
+ - [https://kelake.org](https://kelake.org)
+ - date published: 2024-02-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## KFF - Home Page
+ - [https://kellerfamilyfoundation.org](https://kellerfamilyfoundation.org)
+ - date published: 2024-02-08T16:20:58.418318+00:00
+ - user: None
+ - tags: []
+
+## KERA - Homepage | KERA News
+ - [https://www.keranews.org](https://www.keranews.org)
+ - date published: 2023-11-20T11:24:52.643626+00:00
+ - user: None
+ - tags: []
+
+## K5Wiki
+ - [https://k5wiki.kerberos.org](https://k5wiki.kerberos.org)
+ - date published: 2024-02-08T16:52:03.370831+00:00
+ - user: None
+ - tags: []
+
+## Open-Source Kermit Project -
+Free, Portable, Scriptable, Transport-Independent Communications Software.
+Hosted by Panix.com.
+ - [https://www.kermitproject.org](https://www.kermitproject.org)
+ - date published: 2023-10-25T21:36:15.806979+00:00
+ - user: None
+ - tags: []
+
+## Kernel.org Bugzilla Main Page
+ - [https://bugzilla.kernel.org](https://bugzilla.kernel.org)
+ - date published: 2023-10-25T21:36:18.126215+00:00
+ - user: None
+ - tags: []
+
+## The Linux Kernel documentation — The Linux Kernel  documentation
+ - [https://docs.kernel.org](https://docs.kernel.org)
+ - date published: 2024-03-30T18:57:17.410313+00:00
+ - user: None
+ - tags: []
+
+## Kernel.org git repositories
+ - [https://git.kernel.org](https://git.kernel.org)
+ - date published: 2023-10-25T21:36:22.264353+00:00
+ - user: None
+ - tags: []
+
+## The Linux Kernel Archives
+ - [https://kernel.org](https://kernel.org)
+ - date published: 2023-11-06T10:02:37.263414+00:00
+ - user: None
+ - tags: ['linux']
+
+## public-inbox listing
+ - [https://lore.kernel.org](https://lore.kernel.org)
+ - date published: 2023-10-25T21:36:24.705702+00:00
+ - user: None
+ - tags: []
+
+## mirrors.kernel.org
+ - [https://mirrors.edge.kernel.org](https://mirrors.edge.kernel.org)
+ - date published: 2023-10-25T21:36:25.751314+00:00
+ - user: None
+ - tags: []
+
+## people.kernel.org Reader
+ - [https://people.kernel.org](https://people.kernel.org)
+ - date published: 2023-10-25T21:36:30.389450+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://kernel-recipes.org](https://kernel-recipes.org)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## A kernel-based root solution for Android | KernelSU
+ - [https://kernelsu.org](https://kernelsu.org)
+ - date published: 2023-10-25T21:36:36.612083+00:00
+ - user: None
+ - tags: []
+
+## kevinspencer.org
+ - [https://kevinspencer.org](https://kevinspencer.org)
+ - date published: 2024-02-06T09:06:31.790460+00:00
+ - user: None
+ - tags: []
+
+## WordPress › Error
+ - [http://blog.kevtris.org](http://blog.kevtris.org)
+ - date published: 2023-10-25T21:36:37.992822+00:00
+ - user: None
+ - tags: []
+
 ## KEXP 90.3 FM - Where the Music Matters
  - [https://kexp.org](https://kexp.org)
  - date published: 2024-01-22T12:40:00+00:00
@@ -1791,16 +1991,22 @@ Common Weakness Enumeration
  - tags: []
 
 ## The Mod Archive v4.0b - A distinctive collection of modules
+ - [https://modarchive.org](https://modarchive.org)
+ - date published: 2023-10-28T19:01:07.809021+00:00
+ - user: None
+ - tags: ['chiptune', 'keygen', 'demoscene']
+
+## The Mod Archive v4.0b - A distinctive collection of modules
  - [http://modarchive.org](http://modarchive.org)
  - date published: 2024-02-15T01:59:58.310157+00:00
  - user: None
  - tags: []
 
-## The Mod Archive v4.0b - A distinctive collection of modules
- - [https://modarchive.org](https://modarchive.org)
- - date published: 2023-10-28T19:01:07.809021+00:00
+## Modoboa
+ - [https://modoboa.org](https://modoboa.org)
+ - date published: 2024-04-14T02:48:13.938885+00:00
  - user: None
- - tags: ['chiptune', 'keygen', 'demoscene']
+ - tags: ['self-host', 'e-mail server']
 
 ## mojo.js - JavaScript real-time web framework
  - [https://mojojs.org](https://mojojs.org)
@@ -2000,17 +2206,17 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
-## Pocket | Discover, Capture and Savor Content That Fascinates You
- - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
- - date published: 2023-11-13T13:38:32+00:00
- - user: rumpel
- - tags: ['bookmark manager', 'link aggregation']
-
 ## Internet for people, not profit — Mozilla (US)
  - [https://www.mozilla.org](https://www.mozilla.org)
  - date published: 2023-10-25T09:27:30.838308+00:00
  - user: None
  - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
+
+## Pocket | Discover, Capture and Savor Content That Fascinates You
+ - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
+ - date published: 2023-11-13T13:38:32+00:00
+ - user: rumpel
+ - tags: ['bookmark manager', 'link aggregation']
 
 ## MozillaZine Knowledge Base
  - [http://kb.mozillazine.org](http://kb.mozillazine.org)
@@ -3648,7 +3854,7 @@ Common Weakness Enumeration
  - [https://www.openbsd.org](https://www.openbsd.org)
  - date published: 2023-10-25T21:52:26.569830+00:00
  - user: None
- - tags: []
+ - tags: ['operating system', 'unix']
 
 ## Open Campus
  - [https://www.opencampusmedia.org](https://www.opencampusmedia.org)
@@ -3987,16 +4193,16 @@ Common Weakness Enumeration
  - tags: ['open source']
 
 ## Open Source Research Institutue :: Main / HomePage
- - [http://opensourceresearchinstitute.org](http://opensourceresearchinstitute.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Open Source Research Institutue :: Main / HomePage
  - [https://opensourceresearchinstitute.org](https://opensourceresearchinstitute.org)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
+
+## Open Source Research Institutue :: Main / HomePage
+ - [http://opensourceresearchinstitute.org](http://opensourceresearchinstitute.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## OpenSSF Best Practices Working Group (WG)
  - [https://best.openssf.org](https://best.openssf.org)
@@ -4804,14 +5010,14 @@ Common Weakness Enumeration
  - tags: []
 
 ## Pikchr: Documentation
- - [http://pikchr.org](http://pikchr.org)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://pikchr.org](https://pikchr.org)
+ - date published: 2023-10-25T21:57:44.338166+00:00
  - user: None
  - tags: []
 
 ## Pikchr: Documentation
- - [https://pikchr.org](https://pikchr.org)
- - date published: 2023-10-25T21:57:44.338166+00:00
+ - [http://pikchr.org](http://pikchr.org)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5798,208 +6004,4 @@ Common Weakness Enumeration
  - date published: 2023-10-25T22:02:29.476274+00:00
  - user: None
  - tags: []
-
-## Reporters Committee for Freedom of the Press - Home
- - [https://www.rcfp.org](https://www.rcfp.org)
- - date published: 2023-10-25T22:02:31.122985+00:00
- - user: None
- - tags: []
-
-## rclone forum
- - [https://forum.rclone.org](https://forum.rclone.org)
- - date published: 2023-10-25T22:02:33.460676+00:00
- - user: None
- - tags: []
-
-## Rclone
- - [https://rclone.org](https://rclone.org)
- - date published: 2024-01-27T04:11:01.135952+00:00
- - user: None
- - tags: []
-
-## levels and maps by spirit -- maps.rcmd.org
- - [https://maps.rcmd.org](https://maps.rcmd.org)
- - date published: 2023-10-28T20:34:18.070153+00:00
- - user: None
- - tags: ['quake']
-
-## Richard Crowley
- - [https://rcrowley.org](https://rcrowley.org)
- - date published: 2023-10-25T22:02:34.293829+00:00
- - user: None
- - tags: []
-
-## The Retro-Computing Society of RI, Inc.
- - [https://rcsri.org](https://rcsri.org)
- - date published: 2023-12-25T03:44:07.035284+00:00
- - user: None
- - tags: []
-
-## Front Page | ReactOS Project
- - [https://reactos.org](https://reactos.org)
- - date published: 2023-10-25T22:02:35.485454+00:00
- - user: None
- - tags: ['open source', 'operating system']
-
-## Home
- - [https://readeck.org](https://readeck.org)
- - date published: 2024-04-08T19:30:32.069530+00:00
- - user: None
- - tags: ['self-host', 'link aggregator']
-
-## Reading Rainbow
- - [https://www.readingrainbow.org](https://www.readingrainbow.org)
- - date published: 2024-01-31T22:17:20.397841+00:00
- - user: None
- - tags: []
-
-## realclearenergy.org
- - [https://www.realclearenergy.org](https://www.realclearenergy.org)
- - date published: 2023-10-25T22:02:36.663158+00:00
- - user: None
- - tags: []
-
-## Modern Monetary Theory for the People
- - [https://realprogressives.org](https://realprogressives.org)
- - date published: 2024-04-03T06:38:55.386853+00:00
- - user: None
- - tags: []
-
-## The data behind the news - Realtime
- - [https://realtime.org](https://realtime.org)
- - date published: 2024-04-11T15:30:26.080272+00:00
- - user: None
- - tags: []
-
-## reb00ted | reb00ted
- - [https://reb00ted.org](https://reb00ted.org)
- - date published: 2023-10-25T22:02:38.955071+00:00
- - user: None
- - tags: []
-
-## Reclaim The Net - Restore Individual Liberty Online
- - [https://reclaimthenet.org](https://reclaimthenet.org)
- - date published: 2023-10-25T10:15:05.217370+00:00
- - user: None
- - tags: []
-
-## Red Programming Language
- - [https://www.red-lang.org](https://www.red-lang.org)
- - date published: 2023-10-25T22:02:45.229562+00:00
- - user: None
- - tags: []
-
-## Overview - Redmine
- - [https://www.redmine.org](https://www.redmine.org)
- - date published: 2023-10-25T22:02:47.206923+00:00
- - user: None
- - tags: []
-
-## Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS
- - [https://www.redox-os.org](https://www.redox-os.org)
- - date published: 2023-10-25T22:02:49.026357+00:00
- - user: None
- - tags: []
-
-## Embedded in Academia – John Regehr, Professor of Computer Science, University of Utah, USA
- - [https://blog.regehr.org](https://blog.regehr.org)
- - date published: 2023-10-25T22:02:51.074554+00:00
- - user: None
- - tags: []
-
-## Regex Licensing
- - [https://regexlicensing.org](https://regexlicensing.org)
- - date published: 2023-10-25T22:02:53.291382+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://religiondispatches.org](https://religiondispatches.org)
- - date published: 2023-12-29T16:01:25.369746+00:00
- - user: None
- - tags: []
-
-## Remo Uherek
- - [https://remo.org](https://remo.org)
- - date published: 2023-12-16T07:28:39.578253+00:00
- - user: None
- - tags: ['personal']
-
-## Remote Jobs - Developer, designer, marketing, sales jobs, and more | RemoteJobs.org
- - [https://remotejobs.org](https://remotejobs.org)
- - date published: 2023-10-25T22:02:55.614939+00:00
- - user: None
- - tags: []
-
-## RenderDoc
- - [https://renderdoc.org](https://renderdoc.org)
- - date published: 2024-03-07T13:00:30.397273+00:00
- - user: None
- - tags: []
-
-## The Repair Association
- - [https://www.repair.org](https://www.repair.org)
- - date published: 2023-11-03T10:39:08.955951+00:00
- - user: None
- - tags: []
-
-## Show HN: Report Phone Spam – Shut down robocallers and text spammers
- - [https://reportphonespam.org](https://reportphonespam.org)
- - date published: 2023-12-03T14:49:51+00:00
- - user: None
- - tags: []
-
-## Republic Report
- - [https://www.republicreport.org](https://www.republicreport.org)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Resident Evil Forums
- - [https://residentevil.org](https://residentevil.org)
- - date published: 2024-03-26T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Resilience
- - [https://www.resilience.org](https://www.resilience.org)
- - date published: 2023-10-25T22:03:05.665315+00:00
- - user: None
- - tags: []
-
-## Resolution Foundation • Analysis and action on living standards
- - [https://www.resolutionfoundation.org](https://www.resolutionfoundation.org)
- - date published: 2023-10-25T22:03:08.429417+00:00
- - user: None
- - tags: []
-
-## Official.Resource.Org
- - [https://official.resource.org](https://official.resource.org)
- - date published: 2023-10-25T22:03:09.381581+00:00
- - user: None
- - tags: []
-
-## Responsible Statecraft
- - [http://responsiblestatecraft.org](http://responsiblestatecraft.org)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Responsible Statecraft
- - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
- - date published: 2023-10-25T22:03:17.450852+00:00
- - user: None
- - tags: []
-
-## Rest of World - Reporting Global Tech Stories
- - [https://restofworld.org](https://restofworld.org)
- - date published: 2023-10-25T22:03:21.741352+00:00
- - user: None
- - tags: []
-
-## restorativland
- - [https://restorativland.org](https://restorativland.org)
- - date published: 2023-12-18T15:11:14+00:00
- - user: rumpel
- - tags: ['personal']
 

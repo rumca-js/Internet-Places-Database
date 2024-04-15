@@ -1,3 +1,63 @@
+## DevURLs – A neat developer news aggregator
+ - [https://devurls.com](https://devurls.com)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dewan's Blog
+ - [https://www.dewanahmed.com](https://www.dewanahmed.com)
+ - date published: 2023-10-25T09:20:04.902852+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dewane Mutunga
+ - [https://dewanemutunga.com](https://dewanemutunga.com)
+ - date published: 2024-01-16T03:19:44.409768+00:00
+ - user: None
+ - tags: []
+
+## Dexerto: Esports, Gaming & Influencer News, Interviews and Analysis
+ - [https://www.dexerto.com](https://www.dexerto.com)
+ - date published: 2023-10-25T10:47:44.289737+00:00
+ - user: None
+ - tags: []
+
+## Dezeen | architecture and design magazine
+ - [https://www.dezeen.com](https://www.dezeen.com)
+ - date published: 2023-10-25T13:51:22.239944+00:00
+ - user: None
+ - tags: []
+
+## Home - Better you & co in no-time.
+ - [https://www.dezsopapp.com](https://www.dezsopapp.com)
+ - date published: 2019-09-14T23:00:00+00:00
+ - user: None
+ - tags: []
+
+## Don't Forget To Be Awesome
+ - [https://store.dftba.com](https://store.dftba.com)
+ - date published: 2024-03-07T16:29:28.280691+00:00
+ - user: None
+ - tags: []
+
+## Dejan Gajsek – Content Marketing and Growth Studies
+ - [https://dgajsek.com](https://dgajsek.com)
+ - date published: 2024-02-25T18:41:42.153914+00:00
+ - user: None
+ - tags: []
+
+## Dejan Gajsek – Content Marketing and Growth Studies
+ - [https://www.dgajsek.com](https://www.dgajsek.com)
+ - date published: 2024-01-05T10:27:37.786318+00:00
+ - user: None
+ - tags: []
+
+## Vitamin D3 and the Great Biology Reset - FREE Ebook
+ - [https://dgreatbiologyreset.com](https://dgreatbiologyreset.com)
+ - date published: 2022-03-01T07:20:23+00:00
+ - user: None
+ - tags: []
+
 ## Elias MÃ¥rtenson
  - [https://blog.dhsdevelopments.com](https://blog.dhsdevelopments.com)
  - date published: 2024-02-25T00:00:00+00:00
@@ -1367,6 +1427,12 @@
  - user: None
  - tags: ['personal']
 
+## Dribbble - Discover the World’s Top Designers & Creative Professionals
+ - [https://dribbble.com](https://dribbble.com)
+ - date published: 2024-04-14T16:29:07+00:00
+ - user: rumpel
+ - tags: ['design', 'social platform']
+
 ## DRIE-D Mechanical Motion - Composite Bearing and Friction Technology
  - [https://drie-d.com](https://drie-d.com)
  - date published: 2024-01-30T01:06:56.259872+00:00
@@ -1386,14 +1452,14 @@
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [https://drinkag1.com](https://drinkag1.com)
- - date published: 2024-02-24T09:55:07.922857+00:00
+ - [http://drinkag1.com](http://drinkag1.com)
+ - date published: 2024-01-21T19:15:07.982155+00:00
  - user: None
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [http://drinkag1.com](http://drinkag1.com)
- - date published: 2024-01-21T19:15:07.982155+00:00
+ - [https://drinkag1.com](https://drinkag1.com)
+ - date published: 2024-02-24T09:55:07.922857+00:00
  - user: None
  - tags: []
 
@@ -2988,14 +3054,14 @@
  - tags: []
 
 ## Supercharge your mobile apps | Emerge Tools
- - [https://www.emergetools.com](https://www.emergetools.com)
- - date published: 2023-10-25T14:06:59.391184+00:00
+ - [http://www.emergetools.com](http://www.emergetools.com)
+ - date published: 2024-02-25T20:03:45.981322+00:00
  - user: None
  - tags: []
 
 ## Supercharge your mobile apps | Emerge Tools
- - [http://www.emergetools.com](http://www.emergetools.com)
- - date published: 2024-02-25T20:03:45.981322+00:00
+ - [https://www.emergetools.com](https://www.emergetools.com)
+ - date published: 2023-10-25T14:06:59.391184+00:00
  - user: None
  - tags: []
 
@@ -3732,14 +3798,14 @@
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [http://www.espn.com](http://www.espn.com)
- - date published: 2024-02-25T16:13:57.477675+00:00
+ - [https://www.espn.com](https://www.espn.com)
+ - date published: 2023-10-25T10:09:24.738987+00:00
  - user: None
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [https://www.espn.com](https://www.espn.com)
- - date published: 2023-10-25T10:09:24.738987+00:00
+ - [http://www.espn.com](http://www.espn.com)
+ - date published: 2024-02-25T16:13:57.477675+00:00
  - user: None
  - tags: []
 
@@ -4322,6 +4388,12 @@
 ## Examiner-Enterprise: Local News, Politics & Sports in Bartlesville, OK
  - [https://eu.examiner-enterprise.com](https://eu.examiner-enterprise.com)
  - date published: 2023-10-25T14:13:11.356781+00:00
+ - user: None
+ - tags: []
+
+## Example Domain
+ - [https://example.com](https://example.com)
+ - date published: 2024-04-14T02:48:15.573601+00:00
  - user: None
  - tags: []
 
@@ -5028,14 +5100,14 @@
  - tags: []
 
 ## Fang-Pen's coding note
- - [https://fangpenlin.com](https://fangpenlin.com)
- - date published: 2024-01-15T18:30:18.650651+00:00
+ - [http://fangpenlin.com](http://fangpenlin.com)
+ - date published: 2024-01-14T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Fang-Pen's coding note
- - [http://fangpenlin.com](http://fangpenlin.com)
- - date published: 2024-01-14T00:00:00+00:00
+ - [https://fangpenlin.com](https://fangpenlin.com)
+ - date published: 2024-01-15T18:30:18.650651+00:00
  - user: None
  - tags: []
 
@@ -5357,15 +5429,15 @@
  - user: None
  - tags: []
 
-## Error 404 (Not Found)!!1
- - [https://feeds.feedburner.com](https://feeds.feedburner.com)
- - date published: 2024-01-09T02:36:30.505752+00:00
- - user: None
- - tags: []
-
 ## None
  - [http://feeds.feedburner.com](http://feeds.feedburner.com)
  - date published: 2024-02-25T14:03:04.041505+00:00
+ - user: None
+ - tags: []
+
+## Error 404 (Not Found)!!1
+ - [https://feeds.feedburner.com](https://feeds.feedburner.com)
+ - date published: 2024-01-09T02:36:30.505752+00:00
  - user: None
  - tags: []
 
@@ -5924,78 +5996,6 @@
 ## Flagsmith - Open Source Feature Flag & Remote Config Service
  - [https://www.flagsmith.com](https://www.flagsmith.com)
  - date published: 2023-10-25T14:32:36.006141+00:00
- - user: None
- - tags: []
-
-## FlakeHub
- - [https://flakehub.com](https://flakehub.com)
- - date published: 2023-10-25T14:32:36.676696+00:00
- - user: None
- - tags: []
-
-## Flamed Fury
- - [https://flamedfury.com](https://flamedfury.com)
- - date published: 2023-11-15T17:59:09.730156+00:00
- - user: None
- - tags: ['personal']
-
-## Flames Of War
- - [https://www.flamesofwar.com](https://www.flamesofwar.com)
- - date published: 2023-12-13T15:39:09.793839+00:00
- - user: None
- - tags: ['tabletop games', 'miniatures']
-
-## Flanders Scientific
- - [https://flandersscientific.com](https://flandersscientific.com)
- - date published: 2024-02-23T22:51:22.775927+00:00
- - user: None
- - tags: []
-
-## Flappers And Fiction
- - [https://flappersandfiction.com](https://flappersandfiction.com)
- - date published: 2024-01-05T10:23:36.798469+00:00
- - user: None
- - tags: []
-
-## Flappy Birdle - Flappy Bird meets Wordle by AE Studio
- - [https://flappybirdle.com](https://flappybirdle.com)
- - date published: 2023-10-25T14:32:37.111728+00:00
- - user: None
- - tags: []
-
-## Flashbak - Everything Old Is New Again
- - [https://flashbak.com](https://flashbak.com)
- - date published: 2023-10-25T14:32:41.113559+00:00
- - user: None
- - tags: []
-
-## HOME | flashgitz
- - [https://www.flashgitz.com](https://www.flashgitz.com)
- - date published: 2023-12-12T08:27:35+00:00
- - user: rumpel
- - tags: ['youtuber']
-
-## Show HN: Flash Notes – Flashcards for Your Notes, LLM, iOS/macOS Sync
- - [https://www.flashnotesapp.com](https://www.flashnotesapp.com)
- - date published: 2024-04-07T17:54:31+00:00
- - user: None
- - tags: []
-
-## Football Live Scores, Latest Football Results | Flashscore.com
- - [https://www.flashscore.com](https://www.flashscore.com)
- - date published: 2024-03-17T19:26:13.051988+00:00
- - user: None
- - tags: []
-
-## FlatFootFox
- - [https://flatfootfox.com](https://flatfootfox.com)
- - date published: 2023-10-25T14:32:43.375704+00:00
- - user: None
- - tags: []
-
-## None
- - [https://cdn-icons-png.flaticon.com](https://cdn-icons-png.flaticon.com)
- - date published: 2024-04-11T10:10:10.137919+00:00
  - user: None
  - tags: []
 

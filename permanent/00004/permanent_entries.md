@@ -1,3 +1,27 @@
+## Home
+ - [https://chicagocrusader.com](https://chicagocrusader.com)
+ - date published: 2024-01-06T04:56:24.963086+00:00
+ - user: None
+ - tags: []
+
+## Chicago Hypnosis and Hypnotherapy of Northbrook & Buffalo Grove - Welcome
+ - [http://chicago-hypnosis.com](http://chicago-hypnosis.com)
+ - date published: 2024-04-03T12:42:10.512435+00:00
+ - user: None
+ - tags: ['personal']
+
+## Chicago Magazine
+ - [https://www.chicagomag.com](https://www.chicagomag.com)
+ - date published: 2023-10-25T13:21:56.030020+00:00
+ - user: None
+ - tags: []
+
+## Chicago Public Square
+ - [https://www.chicagopublicsquare.com](https://www.chicagopublicsquare.com)
+ - date published: 2024-03-12T17:41:37.700789+00:00
+ - user: None
+ - tags: []
+
 ## Chicago Reader
  - [https://chicagoreader.com](https://chicagoreader.com)
  - date published: 2023-10-25T13:22:02.366112+00:00
@@ -407,16 +431,16 @@
  - tags: []
 
 ## Blog | Chris Warrick
- - [https://chriswarrick.com](https://chriswarrick.com)
- - date published: 2023-10-25T09:19:47.812882+00:00
- - user: None
- - tags: ['personal']
-
-## Blog | Chris Warrick
  - [http://chriswarrick.com](http://chriswarrick.com)
  - date published: 2024-02-25T15:45:10.545891+00:00
  - user: None
  - tags: []
+
+## Blog | Chris Warrick
+ - [https://chriswarrick.com](https://chriswarrick.com)
+ - date published: 2023-10-25T09:19:47.812882+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Chris Zacharias
  - [https://blog.chriszacharias.com](https://blog.chriszacharias.com)
@@ -1538,6 +1562,12 @@
  - date published: 2024-03-24T15:07:30.542559+00:00
  - user: None
  - tags: []
+
+## All Posts
+ - [https://www.codemzy.com](https://www.codemzy.com)
+ - date published: 2024-04-14T20:30:41.714823+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Code Of Honor - Game design, programming and more
  - [https://www.codeofhonor.com](https://www.codeofhonor.com)
@@ -2878,14 +2908,14 @@
  - tags: ['cybersecurity']
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [https://craphound.com](https://craphound.com)
- - date published: 2023-11-28T07:36:32+00:00
+ - [http://craphound.com](http://craphound.com)
+ - date published: 2024-02-25T19:26:24.229621+00:00
  - user: None
  - tags: []
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [http://craphound.com](http://craphound.com)
- - date published: 2024-02-25T19:26:24.229621+00:00
+ - [https://craphound.com](https://craphound.com)
+ - date published: 2023-11-28T07:36:32+00:00
  - user: None
  - tags: []
 
@@ -4270,6 +4300,12 @@
  - user: None
  - tags: []
 
+## Danny Guo
+ - [https://www.dannyguo.com](https://www.dannyguo.com)
+ - date published: 2024-04-14T21:45:35.447830+00:00
+ - user: None
+ - tags: []
+
 ## Danny Mekić – speaker, internet-, technology- & innovation expert
  - [https://dannymekic.com](https://dannymekic.com)
  - date published: 2023-10-25T13:43:06.954538+00:00
@@ -4798,6 +4834,18 @@
  - user: None
  - tags: []
 
+## Davide Wiest
+ - [https://davidewiest.com](https://davidewiest.com)
+ - date published: 2024-04-14T16:36:17+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Reader
+ - [https://reader.davidewiest.com](https://reader.davidewiest.com)
+ - date published: 2024-04-14T16:18:56.078543+00:00
+ - user: None
+ - tags: []
+
 ## David Gary Wood
  - [https://davidgarywood.com](https://davidgarywood.com)
  - date published: 2024-01-12T21:01:35.169651+00:00
@@ -5147,16 +5195,16 @@
  - tags: ['personal']
 
 ## Deborah Peacock Photography - Home
- - [http://www.deborahpeacock.com](http://www.deborahpeacock.com)
- - date published: 2024-04-03T06:24:15.192889+00:00
- - user: None
- - tags: ['personal']
-
-## Deborah Peacock Photography - Home
  - [https://www.deborahpeacock.com](https://www.deborahpeacock.com)
  - date published: 2024-01-13T04:52:40.631780+00:00
  - user: None
  - tags: []
+
+## Deborah Peacock Photography - Home
+ - [http://www.deborahpeacock.com](http://www.deborahpeacock.com)
+ - date published: 2024-04-03T06:24:15.192889+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Deborah Zhang
  - [https://deborahzhang.com](https://deborahzhang.com)
@@ -5535,6 +5583,12 @@
  - date published: 2024-04-07T16:16:23+00:00
  - user: rumpel
  - tags: ['personal', 'comics']
+
+## Show HN: I made a site that lets you make interactive demos for free
+ - [https://www.demopond.com](https://www.demopond.com)
+ - date published: 2024-04-14T09:26:58+00:00
+ - user: None
+ - tags: []
 
 ## DemoTime. Magic highlights after every demo!
  - [https://demotime.com](https://demotime.com)
@@ -5938,69 +5992,15 @@
  - user: None
  - tags: []
 
+## DevsForDevs
+ - [https://www.devsfordevs.com](https://www.devsfordevs.com)
+ - date published: 2024-04-14T16:19:02.763044+00:00
+ - user: None
+ - tags: ['social platform']
+
 ## Devtalk - Dev forum at Devtalk - the forum for developers!
  - [https://forum.devtalk.com](https://forum.devtalk.com)
  - date published: 2023-10-25T13:51:13.186555+00:00
- - user: None
- - tags: []
-
-## DevURLs – A neat developer news aggregator
- - [https://devurls.com](https://devurls.com)
- - date published: 2024-04-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dewan's Blog
- - [https://www.dewanahmed.com](https://www.dewanahmed.com)
- - date published: 2023-10-25T09:20:04.902852+00:00
- - user: None
- - tags: ['personal']
-
-## Dewane Mutunga
- - [https://dewanemutunga.com](https://dewanemutunga.com)
- - date published: 2024-01-16T03:19:44.409768+00:00
- - user: None
- - tags: []
-
-## Dexerto: Esports, Gaming & Influencer News, Interviews and Analysis
- - [https://www.dexerto.com](https://www.dexerto.com)
- - date published: 2023-10-25T10:47:44.289737+00:00
- - user: None
- - tags: []
-
-## Dezeen | architecture and design magazine
- - [https://www.dezeen.com](https://www.dezeen.com)
- - date published: 2023-10-25T13:51:22.239944+00:00
- - user: None
- - tags: []
-
-## Home - Better you & co in no-time.
- - [https://www.dezsopapp.com](https://www.dezsopapp.com)
- - date published: 2019-09-14T23:00:00+00:00
- - user: None
- - tags: []
-
-## Don't Forget To Be Awesome
- - [https://store.dftba.com](https://store.dftba.com)
- - date published: 2024-03-07T16:29:28.280691+00:00
- - user: None
- - tags: []
-
-## Dejan Gajsek – Content Marketing and Growth Studies
- - [https://dgajsek.com](https://dgajsek.com)
- - date published: 2024-02-25T18:41:42.153914+00:00
- - user: None
- - tags: []
-
-## Dejan Gajsek – Content Marketing and Growth Studies
- - [https://www.dgajsek.com](https://www.dgajsek.com)
- - date published: 2024-01-05T10:27:37.786318+00:00
- - user: None
- - tags: []
-
-## Vitamin D3 and the Great Biology Reset - FREE Ebook
- - [https://dgreatbiologyreset.com](https://dgreatbiologyreset.com)
- - date published: 2022-03-01T07:20:23+00:00
  - user: None
  - tags: []
 

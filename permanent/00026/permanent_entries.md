@@ -1,3 +1,207 @@
+## Reporters Committee for Freedom of the Press - Home
+ - [https://www.rcfp.org](https://www.rcfp.org)
+ - date published: 2023-10-25T22:02:31.122985+00:00
+ - user: None
+ - tags: []
+
+## rclone forum
+ - [https://forum.rclone.org](https://forum.rclone.org)
+ - date published: 2023-10-25T22:02:33.460676+00:00
+ - user: None
+ - tags: []
+
+## Rclone
+ - [https://rclone.org](https://rclone.org)
+ - date published: 2024-01-27T04:11:01.135952+00:00
+ - user: None
+ - tags: []
+
+## levels and maps by spirit -- maps.rcmd.org
+ - [https://maps.rcmd.org](https://maps.rcmd.org)
+ - date published: 2023-10-28T20:34:18.070153+00:00
+ - user: None
+ - tags: ['quake']
+
+## Richard Crowley
+ - [https://rcrowley.org](https://rcrowley.org)
+ - date published: 2023-10-25T22:02:34.293829+00:00
+ - user: None
+ - tags: []
+
+## The Retro-Computing Society of RI, Inc.
+ - [https://rcsri.org](https://rcsri.org)
+ - date published: 2023-12-25T03:44:07.035284+00:00
+ - user: None
+ - tags: []
+
+## Front Page | ReactOS Project
+ - [https://reactos.org](https://reactos.org)
+ - date published: 2023-10-25T22:02:35.485454+00:00
+ - user: None
+ - tags: ['open source', 'operating system']
+
+## Home
+ - [https://readeck.org](https://readeck.org)
+ - date published: 2024-04-08T19:30:32.069530+00:00
+ - user: None
+ - tags: ['self-host', 'link aggregator']
+
+## Reading Rainbow
+ - [https://www.readingrainbow.org](https://www.readingrainbow.org)
+ - date published: 2024-01-31T22:17:20.397841+00:00
+ - user: None
+ - tags: []
+
+## realclearenergy.org
+ - [https://www.realclearenergy.org](https://www.realclearenergy.org)
+ - date published: 2023-10-25T22:02:36.663158+00:00
+ - user: None
+ - tags: []
+
+## Modern Monetary Theory for the People
+ - [https://realprogressives.org](https://realprogressives.org)
+ - date published: 2024-04-03T06:38:55.386853+00:00
+ - user: None
+ - tags: []
+
+## The data behind the news - Realtime
+ - [https://realtime.org](https://realtime.org)
+ - date published: 2024-04-11T15:30:26.080272+00:00
+ - user: None
+ - tags: []
+
+## reb00ted | reb00ted
+ - [https://reb00ted.org](https://reb00ted.org)
+ - date published: 2023-10-25T22:02:38.955071+00:00
+ - user: None
+ - tags: []
+
+## Reclaim The Net - Restore Individual Liberty Online
+ - [https://reclaimthenet.org](https://reclaimthenet.org)
+ - date published: 2023-10-25T10:15:05.217370+00:00
+ - user: None
+ - tags: []
+
+## Red Programming Language
+ - [https://www.red-lang.org](https://www.red-lang.org)
+ - date published: 2023-10-25T22:02:45.229562+00:00
+ - user: None
+ - tags: []
+
+## Overview - Redmine
+ - [https://www.redmine.org](https://www.redmine.org)
+ - date published: 2023-10-25T22:02:47.206923+00:00
+ - user: None
+ - tags: []
+
+## Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS
+ - [https://www.redox-os.org](https://www.redox-os.org)
+ - date published: 2023-10-25T22:02:49.026357+00:00
+ - user: None
+ - tags: []
+
+## Embedded in Academia – John Regehr, Professor of Computer Science, University of Utah, USA
+ - [https://blog.regehr.org](https://blog.regehr.org)
+ - date published: 2023-10-25T22:02:51.074554+00:00
+ - user: None
+ - tags: []
+
+## Regex Licensing
+ - [https://regexlicensing.org](https://regexlicensing.org)
+ - date published: 2023-10-25T22:02:53.291382+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://religiondispatches.org](https://religiondispatches.org)
+ - date published: 2023-12-29T16:01:25.369746+00:00
+ - user: None
+ - tags: []
+
+## Remo Uherek
+ - [https://remo.org](https://remo.org)
+ - date published: 2023-12-16T07:28:39.578253+00:00
+ - user: None
+ - tags: ['personal']
+
+## Remote Jobs - Developer, designer, marketing, sales jobs, and more | RemoteJobs.org
+ - [https://remotejobs.org](https://remotejobs.org)
+ - date published: 2023-10-25T22:02:55.614939+00:00
+ - user: None
+ - tags: []
+
+## RenderDoc
+ - [https://renderdoc.org](https://renderdoc.org)
+ - date published: 2024-03-07T13:00:30.397273+00:00
+ - user: None
+ - tags: []
+
+## The Repair Association
+ - [https://www.repair.org](https://www.repair.org)
+ - date published: 2023-11-03T10:39:08.955951+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Report Phone Spam – Shut down robocallers and text spammers
+ - [https://reportphonespam.org](https://reportphonespam.org)
+ - date published: 2023-12-03T14:49:51+00:00
+ - user: None
+ - tags: []
+
+## Republic Report
+ - [https://www.republicreport.org](https://www.republicreport.org)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Resident Evil Forums
+ - [https://residentevil.org](https://residentevil.org)
+ - date published: 2024-03-26T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
+## Resilience
+ - [https://www.resilience.org](https://www.resilience.org)
+ - date published: 2023-10-25T22:03:05.665315+00:00
+ - user: None
+ - tags: []
+
+## Resolution Foundation • Analysis and action on living standards
+ - [https://www.resolutionfoundation.org](https://www.resolutionfoundation.org)
+ - date published: 2023-10-25T22:03:08.429417+00:00
+ - user: None
+ - tags: []
+
+## Official.Resource.Org
+ - [https://official.resource.org](https://official.resource.org)
+ - date published: 2023-10-25T22:03:09.381581+00:00
+ - user: None
+ - tags: []
+
+## Responsible Statecraft
+ - [http://responsiblestatecraft.org](http://responsiblestatecraft.org)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Responsible Statecraft
+ - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
+ - date published: 2023-10-25T22:03:17.450852+00:00
+ - user: None
+ - tags: []
+
+## Rest of World - Reporting Global Tech Stories
+ - [https://restofworld.org](https://restofworld.org)
+ - date published: 2023-10-25T22:03:21.741352+00:00
+ - user: None
+ - tags: []
+
+## restorativland
+ - [https://restorativland.org](https://restorativland.org)
+ - date published: 2023-12-18T15:11:14+00:00
+ - user: rumpel
+ - tags: ['personal']
+
 ## Unleash the Science of Learning – Retrieval Practice
  - [https://www.retrievalpractice.org](https://www.retrievalpractice.org)
  - date published: 2023-10-25T22:03:23.382603+00:00
@@ -1537,13 +1741,19 @@
  - tags: ['python library']
 
 ## SQLite Home Page
+ - [http://sqlite.org](http://sqlite.org)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SQLite Home Page
  - [https://sqlite.org](https://sqlite.org)
  - date published: 2023-10-25T08:34:11.917438+00:00
  - user: None
  - tags: []
 
 ## SQLite Home Page
- - [http://sqlite.org](http://sqlite.org)
+ - [http://www.sqlite.org](http://www.sqlite.org)
  - date published: 2024-01-30T00:00:00+00:00
  - user: None
  - tags: []
@@ -1553,12 +1763,6 @@
  - date published: 2023-10-25T08:30:44.493063+00:00
  - user: None
  - tags: ['open source']
-
-## SQLite Home Page
- - [http://www.sqlite.org](http://www.sqlite.org)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
 
 ## sqlpkg - SQLite Package Manager and Registry
  - [https://sqlpkg.org](https://sqlpkg.org)
@@ -1993,14 +2197,14 @@
  - tags: ['taxes']
 
 ## tbray.org
- - [https://www.tbray.org](https://www.tbray.org)
- - date published: 2023-10-25T22:12:33.470881+00:00
+ - [http://www.tbray.org](http://www.tbray.org)
+ - date published: 2024-02-26T15:02:42.572365+00:00
  - user: None
  - tags: []
 
 ## tbray.org
- - [http://www.tbray.org](http://www.tbray.org)
- - date published: 2024-02-26T15:02:42.572365+00:00
+ - [https://www.tbray.org](https://www.tbray.org)
+ - date published: 2023-10-25T22:12:33.470881+00:00
  - user: None
  - tags: []
 
@@ -2371,14 +2575,14 @@
  - tags: []
 
 ## The Motte
- - [http://www.themotte.org](http://www.themotte.org)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://www.themotte.org](https://www.themotte.org)
+ - date published: 2024-01-15T10:02:38.428422+00:00
  - user: None
  - tags: []
 
 ## The Motte
- - [https://www.themotte.org](https://www.themotte.org)
- - date published: 2024-01-15T10:02:38.428422+00:00
+ - [http://www.themotte.org](http://www.themotte.org)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2783,6 +2987,12 @@
  - date published: 2023-10-31T12:01:44.737036+00:00
  - user: None
  - tags: ['program', 'vcs', 'open source']
+
+## The Oceanography Society | The Oceanography Society
+ - [https://tos.org](https://tos.org)
+ - date published: 2024-04-14T16:19:12.846464+00:00
+ - user: None
+ - tags: ['organisation', 'oceanography']
 
 ## Frontpage -- Terms of Service; Didn't Read
  - [https://tosdr.org](https://tosdr.org)
@@ -3566,14 +3776,14 @@
  - tags: []
 
 ## The Viridian Design Movement
- - [https://www.viridiandesign.org](https://www.viridiandesign.org)
- - date published: 2023-10-25T22:17:40.101109+00:00
+ - [http://www.viridiandesign.org](http://www.viridiandesign.org)
+ - date published: 2024-02-26T14:25:06.301684+00:00
  - user: None
  - tags: []
 
 ## The Viridian Design Movement
- - [http://www.viridiandesign.org](http://www.viridiandesign.org)
- - date published: 2024-02-26T14:25:06.301684+00:00
+ - [https://www.viridiandesign.org](https://www.viridiandesign.org)
+ - date published: 2023-10-25T22:17:40.101109+00:00
  - user: None
  - tags: []
 
@@ -4292,14 +4502,14 @@
  - tags: ['open source', 'emulator']
 
 ## wingolog
- - [http://wingolog.org](http://wingolog.org)
- - date published: 2024-02-26T15:12:51.242858+00:00
+ - [https://wingolog.org](https://wingolog.org)
+ - date published: 2023-10-25T22:21:31.127284+00:00
  - user: None
  - tags: []
 
 ## wingolog
- - [https://wingolog.org](https://wingolog.org)
- - date published: 2023-10-25T22:21:31.127284+00:00
+ - [http://wingolog.org](http://wingolog.org)
+ - date published: 2024-02-26T15:12:51.242858+00:00
  - user: None
  - tags: []
 
@@ -4412,16 +4622,16 @@
  - tags: []
 
 ## Blog Tool, Publishing Platform, and CMS - WordPress.org
- - [https://wordpress.org](https://wordpress.org)
- - date published: 2023-12-08T13:17:28+00:00
- - user: rumpel
- - tags: ['cms', 'wordpress']
-
-## Blog Tool, Publishing Platform, and CMS - WordPress.org
  - [http://wordpress.org](http://wordpress.org)
  - date published: 2024-02-26T14:34:42.711216+00:00
  - user: None
  - tags: []
+
+## Blog Tool, Publishing Platform, and CMS - WordPress.org
+ - [https://wordpress.org](https://wordpress.org)
+ - date published: 2023-12-08T13:17:28+00:00
+ - user: rumpel
+ - tags: ['cms', 'wordpress']
 
 ## Blog Tool, Publishing Platform, and CMS - WordPress.org
  - [https://www.wordpress.org](https://www.wordpress.org)
@@ -4995,14 +5205,14 @@ Zig Programming Language
  - tags: []
 
 ## Lup Yuen LEE
- - [https://lupyuen.codeberg.page](https://lupyuen.codeberg.page)
- - date published: 2023-10-25T22:24:23.126536+00:00
+ - [http://lupyuen.codeberg.page](http://lupyuen.codeberg.page)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Lup Yuen LEE
- - [http://lupyuen.codeberg.page](http://lupyuen.codeberg.page)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://lupyuen.codeberg.page](https://lupyuen.codeberg.page)
+ - date published: 2023-10-25T22:24:23.126536+00:00
  - user: None
  - tags: []
 
@@ -5792,214 +6002,4 @@ is forbidden
  - date published: 2023-11-13T10:29:17.821704+00:00
  - user: None
  - tags: ['music band']
-
-## Aktualności - LAO CHE - Oficjalna strona zespołu
- - [https://laoche.art.pl](https://laoche.art.pl)
- - date published: 2024-01-09T03:43:57.133820+00:00
- - user: None
- - tags: []
-
-## Happysad - official website
- - [https://www.happysad.art.pl](https://www.happysad.art.pl)
- - date published: 2023-11-13T10:28:59.677916+00:00
- - user: None
- - tags: ['music band']
-
-## Museum of Modern Art in Warsaw
- - [https://artmuseum.pl](https://artmuseum.pl)
- - date published: 2023-10-25T22:25:43.556262+00:00
- - user: None
- - tags: []
-
-## Shared IP
- - [https://blog.asobczak.pl](https://blog.asobczak.pl)
- - date published: 2024-01-09T03:44:03.097833+00:00
- - user: None
- - tags: []
-
-## Caesar's blog – Raspberry Pi, Domoticz, Smart home, Retro Gaming
- - [http://blog.asobczak.pl](http://blog.asobczak.pl)
- - date published: 2024-02-25T15:35:57.090493+00:00
- - user: None
- - tags: []
-
-## ATLAS FOR MEN - UBRANIA I AKCESORIA OUTDOOR
- - [https://atlasformen.pl](https://atlasformen.pl)
- - date published: 2023-12-02T11:39:11+00:00
- - user: rumpel
- - tags: ['clothes', 'shop']
-
-## Autokult Elektromobilność - strona główna
- - [https://e.autokult.pl](https://e.autokult.pl)
- - date published: 2023-12-09T06:39:55.893874+00:00
- - user: None
- - tags: []
-
-## AutomatykaB2B - Portal branżowy dla Automatyków
- - [https://automatykab2b.pl](https://automatykab2b.pl)
- - date published: 2023-12-13T14:57:47.696661+00:00
- - user: None
- - tags: ['automatics']
-
-## Fundacja AVLab.pl dla Cyberbezpieczeństwa
- - [https://avlab.pl](https://avlab.pl)
- - date published: 2023-10-25T22:25:46.610794+00:00
- - user: None
- - tags: []
-
-## Wydawnictwo AVT - tworzymy z pasją
- - [https://avt.pl](https://avt.pl)
- - date published: 2023-12-13T14:58:41.817221+00:00
- - user: None
- - tags: []
-
-## Internetowy Sklep Elektroniczny - Sklep AVT z Elektroniką
- - [https://sklep.avt.pl](https://sklep.avt.pl)
- - date published: 2023-12-13T14:59:13.012287+00:00
- - user: None
- - tags: []
-
-## Bankier.pl – Portal Finansowy – Rynki, Twoje finanse, Biznes
- - [https://www.bankier.pl](https://www.bankier.pl)
- - date published: 2023-10-25T10:30:49.929229+00:00
- - user: None
- - tags: []
-
-## Klienci Indywidualni - Konta, pożyczki, kredyty mieszkaniowe, karty, lokaty - Bank Millennium
- - [https://www.bankmillennium.pl](https://www.bankmillennium.pl)
- - date published: 2023-10-25T11:29:36.503555+00:00
- - user: None
- - tags: []
-
-## Blog podróżniczy Bartekwpodrozy.pl / Piszę i opowiadam o podróżach
- - [https://bartekwpodrozy.pl](https://bartekwpodrozy.pl)
- - date published: 2024-03-19T18:27:36+00:00
- - user: rumpel
- - tags: ['personal', 'travel', 'blog']
-
-## benchmark.pl | recenzje, testy, newsy, rankingi
- - [https://www.benchmark.pl](https://www.benchmark.pl)
- - date published: 2023-10-25T09:37:41.453957+00:00
- - user: None
- - tags: []
-
-## Bezprawnik - prawo, biznes, finanse, eCommerce
- - [https://bezprawnik.pl](https://bezprawnik.pl)
- - date published: 2023-10-25T22:25:53.965245+00:00
- - user: None
- - tags: []
-
-## BIG CYC - oficjalny serwis internetowy zespołu
- - [https://www.bigcyc.pl](https://www.bigcyc.pl)
- - date published: 2023-11-13T10:27:04.357594+00:00
- - user: None
- - tags: ['music band']
-
-## Bilety24 - wydarzenia: koncerty, kino, teatr, filharmonia, kabaret
- - [https://www.bilety24.pl](https://www.bilety24.pl)
- - date published: 2024-02-23T16:34:03+00:00
- - user: rumpel
- - tags: ['tickets']
-
-## Bitcoin.pl - Bitcoin, kryptowaluty i technologia blockchain
- - [https://bitcoin.pl](https://bitcoin.pl)
- - date published: 2023-10-29T15:13:20.134080+00:00
- - user: None
- - tags: []
-
-## BiznesAlert.pl - Portal informacyjny poświęcony energetyce, infrastrukturze i bezpieczeństwu
- - [https://biznesalert.pl](https://biznesalert.pl)
- - date published: 2023-10-25T22:25:56.810285+00:00
- - user: None
- - tags: []
-
-## Bogaty Ojciec
- - [https://www.bogatyojciec.pl](https://www.bogatyojciec.pl)
- - date published: 2024-04-04T19:55:07+00:00
- - user: rumpel
- - tags: ['robert kiyosaki']
-
-## BOLTER.pl
- - [https://bolter.pl](https://bolter.pl)
- - date published: 2023-10-27T08:00:40.271425+00:00
- - user: None
- - tags: ['board games', 'tabletop games']
-
-## BOMEGA | To serwis internetowy z ogromną dawką wiarygodnych informacji, poświęcony dla tych, którzy lubią znać prawdę. Każdy z nas tworzy własną rzeczywistość, i każdy z nas chce wypełniać swój dzień pozytywną dawką dziennych informacji. Sam zdecyduj, jakimi wiadomościami z Polski oraz Świata chcesz się otaczać, dzięki zaawansowanym filtrom, dobierz tematy, które najbardziej Cię interesują.
- - [https://bomega.pl](https://bomega.pl)
- - date published: 2023-10-25T22:26:10.720989+00:00
- - user: None
- - tags: []
-
-## Boże Krówki
- - [https://bozekrowki.pl](https://bozekrowki.pl)
- - date published: 2023-12-04T17:42:45+00:00
- - user: rumpel
- - tags: ['catholic', 'charity', 'religion']
-
-## Home - brd24.pl
- - [https://www.brd24.pl](https://www.brd24.pl)
- - date published: 2023-10-31T16:18:06.350280+00:00
- - user: None
- - tags: ['news']
-
-## Budujemy Dom
- - [https://budujemydom.pl](https://budujemydom.pl)
- - date published: 2023-12-13T14:59:39.198025+00:00
- - user: None
- - tags: ['home articles']
-
-## Projekty domów - gotowe projekty 2023 | Projekty BD
- - [https://projekty.budujemydom.pl](https://projekty.budujemydom.pl)
- - date published: 2023-12-13T14:58:11.556097+00:00
- - user: None
- - tags: ['home articles']
-
-## Bulldogjob - Think IT
- - [https://bulldogjob.pl](https://bulldogjob.pl)
- - date published: 2023-10-25T22:26:18.519501+00:00
- - user: None
- - tags: []
-
-## Calcoolator.pl - Kalkulatory online
- - [https://calcoolator.pl](https://calcoolator.pl)
- - date published: 2023-10-25T22:26:23.368301+00:00
- - user: None
- - tags: []
-
-## Sklepy Castorama to sieć marketów z materiałami budowlanymi, remontowymi, dekoracyjnymi i ogrodniczymi.
- - [https://www.castorama.pl](https://www.castorama.pl)
- - date published: 2023-10-26T08:34:33.606484+00:00
- - user: None
- - tags: ['shop']
-
-## CDA - Społeczność cda.pl
- - [https://www.cda.pl](https://www.cda.pl)
- - date published: 2023-10-25T11:30:26.520324+00:00
- - user: None
- - tags: ['file sharing', 'video streaming', 'piracy']
-
-## CD-Action – Strona główna
- - [https://cdaction.pl](https://cdaction.pl)
- - date published: 2023-10-25T09:29:32.142014+00:00
- - user: None
- - tags: ['video game news']
-
-## CDRinfo.pl - Serwis poświęcony archiwizacji danych. Nagrywarki, dyski twarde, NAS - CDRinfo.pl
- - [https://www.cdrinfo.pl](https://www.cdrinfo.pl)
- - date published: 2024-01-28T16:08:00+00:00
- - user: rumpel
- - tags: []
-
-## Ceneo - porównanie cen, sklepy, perfumy, agd, rtv, komputery
- - [https://www.ceneo.pl](https://www.ceneo.pl)
- - date published: 2023-10-24T20:20:37.877202+00:00
- - user: None
- - tags: ['ranking']
-
-## CERT Polska
- - [https://cert.pl](https://cert.pl)
- - date published: 2023-10-25T22:26:24.449840+00:00
- - user: None
- - tags: ['cybersecurity', 'security']
 

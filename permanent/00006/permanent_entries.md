@@ -1,3 +1,75 @@
+## FlakeHub
+ - [https://flakehub.com](https://flakehub.com)
+ - date published: 2023-10-25T14:32:36.676696+00:00
+ - user: None
+ - tags: []
+
+## Flamed Fury
+ - [https://flamedfury.com](https://flamedfury.com)
+ - date published: 2023-11-15T17:59:09.730156+00:00
+ - user: None
+ - tags: ['personal']
+
+## Flames Of War
+ - [https://www.flamesofwar.com](https://www.flamesofwar.com)
+ - date published: 2023-12-13T15:39:09.793839+00:00
+ - user: None
+ - tags: ['tabletop games', 'miniatures']
+
+## Flanders Scientific
+ - [https://flandersscientific.com](https://flandersscientific.com)
+ - date published: 2024-02-23T22:51:22.775927+00:00
+ - user: None
+ - tags: []
+
+## Flappers And Fiction
+ - [https://flappersandfiction.com](https://flappersandfiction.com)
+ - date published: 2024-01-05T10:23:36.798469+00:00
+ - user: None
+ - tags: []
+
+## Flappy Birdle - Flappy Bird meets Wordle by AE Studio
+ - [https://flappybirdle.com](https://flappybirdle.com)
+ - date published: 2023-10-25T14:32:37.111728+00:00
+ - user: None
+ - tags: []
+
+## Flashbak - Everything Old Is New Again
+ - [https://flashbak.com](https://flashbak.com)
+ - date published: 2023-10-25T14:32:41.113559+00:00
+ - user: None
+ - tags: []
+
+## HOME | flashgitz
+ - [https://www.flashgitz.com](https://www.flashgitz.com)
+ - date published: 2023-12-12T08:27:35+00:00
+ - user: rumpel
+ - tags: ['youtuber']
+
+## Show HN: Flash Notes – Flashcards for Your Notes, LLM, iOS/macOS Sync
+ - [https://www.flashnotesapp.com](https://www.flashnotesapp.com)
+ - date published: 2024-04-07T17:54:31+00:00
+ - user: None
+ - tags: []
+
+## Football Live Scores, Latest Football Results | Flashscore.com
+ - [https://www.flashscore.com](https://www.flashscore.com)
+ - date published: 2024-03-17T19:26:13.051988+00:00
+ - user: None
+ - tags: []
+
+## FlatFootFox
+ - [https://flatfootfox.com](https://flatfootfox.com)
+ - date published: 2023-10-25T14:32:43.375704+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://cdn-icons-png.flaticon.com](https://cdn-icons-png.flaticon.com)
+ - date published: 2024-04-11T10:10:10.137919+00:00
+ - user: None
+ - tags: []
+
 ## FlatpanelsHD - Guide to TVs, media streamers & monitors
  - [https://www.flatpanelshd.com](https://www.flatpanelshd.com)
  - date published: 2023-10-25T14:32:47.410407+00:00
@@ -443,14 +515,14 @@
  - tags: []
 
 ## None
- - [https://forbiddenplanet.com](https://forbiddenplanet.com)
- - date published: 2024-02-25T20:19:58.237177+00:00
+ - [http://forbiddenplanet.com](http://forbiddenplanet.com)
+ - date published: 2024-02-25T20:20:06.293093+00:00
  - user: None
  - tags: []
 
 ## None
- - [http://forbiddenplanet.com](http://forbiddenplanet.com)
- - date published: 2024-02-25T20:20:06.293093+00:00
+ - [https://forbiddenplanet.com](https://forbiddenplanet.com)
+ - date published: 2024-02-25T20:19:58.237177+00:00
  - user: None
  - tags: []
 
@@ -465,6 +537,12 @@
  - date published: 2023-11-01T08:42:08.838585+00:00
  - user: None
  - tags: []
+
+## FordAuthority
+ - [https://fordauthority.com](https://fordauthority.com)
+ - date published: 2024-04-14T00:57:14+00:00
+ - user: rumpel
+ - tags: ['car news', 'ford']
 
 ## Foreign Affairs Magazine
  - [https://www.foreignaffairs.com](https://www.foreignaffairs.com)
@@ -1121,14 +1199,14 @@
  - tags: []
 
 ## FreeRDP
- - [http://www.freerdp.com](http://www.freerdp.com)
- - date published: 2024-02-25T20:21:51.447114+00:00
+ - [https://www.freerdp.com](https://www.freerdp.com)
+ - date published: 2023-10-25T14:37:51.172396+00:00
  - user: None
  - tags: []
 
 ## FreeRDP
- - [https://www.freerdp.com](https://www.freerdp.com)
- - date published: 2023-10-25T14:37:51.172396+00:00
+ - [http://www.freerdp.com](http://www.freerdp.com)
+ - date published: 2024-02-25T20:21:51.447114+00:00
  - user: None
  - tags: []
 
@@ -1787,16 +1865,16 @@
  - tags: []
 
 ## GameOver Music - Radio
- - [https://gameover-radio.com](https://gameover-radio.com)
- - date published: 2024-02-15T22:13:10.790152+00:00
- - user: None
- - tags: ['demoscene']
-
-## GameOver Music - Radio
  - [http://gameover-radio.com](http://gameover-radio.com)
  - date published: 2024-02-11T14:36:22.689452+00:00
  - user: None
  - tags: ['video game music']
+
+## GameOver Music - Radio
+ - [https://gameover-radio.com](https://gameover-radio.com)
+ - date published: 2024-02-15T22:13:10.790152+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Streaming Video Game Music Radio - Gamepad Music
  - [https://www.gamepadmusic.com](https://www.gamepadmusic.com)
@@ -3078,17 +3156,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['code sandbox']
 
-## Grimoire: Open-Source bookmark manager with extra features
- - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
- - date published: 2023-11-26T08:04:54+00:00
- - user: rumpel
- - tags: ['bookmark manager', 'open source']
-
 ## GitHub: Let’s build from here · GitHub
  - [https://github.com](https://github.com)
  - date published: 2023-10-25T14:42:43.938249+00:00
  - user: None
  - tags: ['gatekeeper', 'software platform']
+
+## Grimoire: Open-Source bookmark manager with extra features
+ - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
+ - date published: 2023-11-26T08:04:54+00:00
+ - user: rumpel
+ - tags: ['bookmark manager', 'open source']
 
 ## GitHub: Let’s build from here
  - [http://github.com](http://github.com)
@@ -3349,14 +3427,14 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Global Table Adventure | Bringing the World to your Kitchen
- - [http://globaltableadventure.com](http://globaltableadventure.com)
- - date published: 2024-04-03T06:32:06.444945+00:00
+ - [https://globaltableadventure.com](https://globaltableadventure.com)
+ - date published: 2023-11-17T07:29:02.885266+00:00
  - user: None
  - tags: ['personal']
 
 ## Global Table Adventure | Bringing the World to your Kitchen
- - [https://globaltableadventure.com](https://globaltableadventure.com)
- - date published: 2023-11-17T07:29:02.885266+00:00
+ - [http://globaltableadventure.com](http://globaltableadventure.com)
+ - date published: 2024-04-03T06:32:06.444945+00:00
  - user: None
  - tags: ['personal']
 
@@ -3924,17 +4002,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
-## Google flights
- - [https://www.google.com/travel/flights](https://www.google.com/travel/flights)
- - date published: 2024-01-02T07:35:30+00:00
- - user: rumpel
- - tags: []
-
 ## Google
  - [https://www.google.com](https://www.google.com)
  - date published: 2023-10-25T08:28:06.744876+00:00
  - user: None
  - tags: ['gatekeeper', 'search engine']
+
+## Google flights
+ - [https://www.google.com/travel/flights](https://www.google.com/travel/flights)
+ - date published: 2024-01-02T07:35:30+00:00
+ - user: rumpel
+ - tags: []
 
 ## Hosted Libraries  |  Google for Developers
  - [https://ajax.googleapis.com](https://ajax.googleapis.com)
@@ -5284,16 +5362,16 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Hailley Griffis
- - [https://www.hailleygriffis.com](https://www.hailleygriffis.com)
- - date published: 2024-01-11T07:52:06.090610+00:00
- - user: None
- - tags: ['personal']
-
-## Hailley Griffis
  - [http://www.hailleygriffis.com](http://www.hailleygriffis.com)
  - date published: 2024-03-11T00:00:00+00:00
  - user: None
  - tags: []
+
+## Hailley Griffis
+ - [https://www.hailleygriffis.com](https://www.hailleygriffis.com)
+ - date published: 2024-01-11T07:52:06.090610+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Hai Robotics Homepage
  - [https://www.hairobotics.com](https://www.hairobotics.com)
@@ -5924,82 +6002,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2024-01-17T09:12:59+00:00
  - user: rumpel
  - tags: ['web scraping']
-
-## Helix
- - [https://helix-editor.com](https://helix-editor.com)
- - date published: 2023-10-25T14:57:50.430189+00:00
- - user: None
- - tags: []
-
-## Homepage - Hell Gate
- - [https://hellgatenyc.com](https://hellgatenyc.com)
- - date published: 2023-10-25T14:58:01.228377+00:00
- - user: None
- - tags: []
-
-## HelloTech
- - [https://engineering.hellofresh.com](https://engineering.hellofresh.com)
- - date published: 2023-10-27T14:52:37.731822+00:00
- - user: None
- - tags: []
-
-## Helium Mobile - The Future of Mobile is YOU.
- - [https://hellohelium.com](https://hellohelium.com)
- - date published: 2023-10-25T14:58:07.382033+00:00
- - user: None
- - tags: []
-
-## Mayuko Inoue
- - [https://www.hellomayuko.com](https://www.hellomayuko.com)
- - date published: 2023-10-25T09:20:36.342152+00:00
- - user: None
- - tags: ['personal']
-
-## Hello Merch - Band Merch | Web Stores | Fulfillment | Screen Printing
- - [https://www.hellomerch.com](https://www.hellomerch.com)
- - date published: 2023-12-11T15:36:31.900497+00:00
- - user: None
- - tags: ['merchandise']
-
-## HelpFully IT - IT Support Consultancy
- - [https://helpfullyit.com](https://helpfullyit.com)
- - date published: 2020-08-21T13:01:59+00:00
- - user: None
- - tags: []
-
-## Heyeyeyayay - What's Going On?!
- - [https://hemansings.com](https://hemansings.com)
- - date published: 2023-10-27T11:03:44.917154+00:00
- - user: None
- - tags: ['wtf']
-
-## Fume Hoods | Casework | Enclosures | Safety Showers by HEMCO
- - [https://www.hemcocorp.com](https://www.hemcocorp.com)
- - date published: 2024-02-08T22:52:39.066480+00:00
- - user: None
- - tags: []
-
-## Residence and Citizenship by Investment | Henley & Partners
- - [https://www.henleyglobal.com](https://www.henleyglobal.com)
- - date published: 2023-10-25T14:58:09.969986+00:00
- - user: None
- - tags: []
-
-## Home Page - Henning | Official Website
- - [https://henningmusic.com](https://henningmusic.com)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Henrik Warne's blog | Thoughts on programming…
- - [https://henrikwarne.com](https://henrikwarne.com)
- - date published: 2023-10-25T14:58:14.243762+00:00
- - user: None
- - tags: []
-
-## || h e n r y m o l o f s k y ||
- - [https://henrymolofsky.com](https://henrymolofsky.com)
- - date published: 2023-11-29T17:11:10.218055+00:00
- - user: None
- - tags: ['personal']
 

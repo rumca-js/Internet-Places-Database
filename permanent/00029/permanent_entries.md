@@ -1,3 +1,214 @@
+## News from the Vatican - News about the Church - Vatican News
+ - [https://www.vaticannews.va](https://www.vaticannews.va)
+ - date published: 2023-10-25T09:29:37.580864+00:00
+ - user: None
+ - tags: ['vatican', 'christianity', 'catholic', 'religion', 'news']
+
+## Netherlands Professional Home Page | Vanguard Netherlands Professional
+ - [https://www.nl.vanguard](https://www.nl.vanguard)
+ - date published: 2024-02-05T08:33:27.017661+00:00
+ - user: None
+ - tags: []
+
+## Domain Seized by Law Enforcement
+ - [https://breached.vc](https://breached.vc)
+ - date published: 2024-01-09T03:48:40.987692+00:00
+ - user: None
+ - tags: []
+
+## Home
+ | Pierce Freeman
+ - [https://freeman.vc](https://freeman.vc)
+ - date published: 2023-10-25T23:00:00.756924+00:00
+ - user: None
+ - tags: []
+
+## HOME - Hivemind Ventures
+ - [https://hivemind.vc](https://hivemind.vc)
+ - date published: 2023-10-25T23:00:05.653730+00:00
+ - user: None
+ - tags: []
+
+## Incisive Ventures – Your partner for growth
+ - [https://incisive.vc](https://incisive.vc)
+ - date published: 2023-10-25T23:00:10.873492+00:00
+ - user: None
+ - tags: []
+
+## inFERENCe - a machine learning blog
+ - [https://www.inference.vc](https://www.inference.vc)
+ - date published: 2023-10-25T23:00:14.102745+00:00
+ - user: None
+ - tags: []
+
+## It's Magit! A Git Porcelain inside Emacs
+ - [https://magit.vc](https://magit.vc)
+ - date published: 2023-10-25T23:00:23.133712+00:00
+ - user: None
+ - tags: []
+
+## MatthewBall.vc
+ - [https://www.matthewball.vc](https://www.matthewball.vc)
+ - date published: 2023-10-25T23:00:27.289546+00:00
+ - user: None
+ - tags: []
+
+## Document
+ - [https://rmf.vc](https://rmf.vc)
+ - date published: 2024-01-09T01:37:49.507523+00:00
+ - user: None
+ - tags: []
+
+## YAK Ventures - The Personal Website of Sean Hayes
+ - [https://yak.ventures](https://yak.ventures)
+ - date published: 2023-12-14T09:18:04.765049+00:00
+ - user: None
+ - tags: ['personal']
+
+## Open RuneScape Classic
+ - [https://rsc.vet](https://rsc.vet)
+ - date published: 2023-10-25T23:00:30.748398+00:00
+ - user: None
+ - tags: []
+
+## Read-Only Memory
+ - [https://readonlymemory.vg](https://readonlymemory.vg)
+ - date published: 2023-10-25T23:00:35.745338+00:00
+ - user: None
+ - tags: ['games', 'retro games', 'amiga']
+
+## Webbed Briefs
+ - [https://briefs.video](https://briefs.video)
+ - date published: 2023-10-25T23:00:37.509398+00:00
+ - user: None
+ - tags: []
+
+## E-Planning
+ - [https://hls.e-planning.video](https://hls.e-planning.video)
+ - date published: 2024-01-09T03:48:41.830478+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://ut.e-planning.video](https://ut.e-planning.video)
+ - date published: 2024-01-09T03:48:42.292740+00:00
+ - user: None
+ - tags: []
+
+## Frigate: Open-source network video recorder with real-time AI object detection
+ - [https://frigate.video](https://frigate.video)
+ - date published: 2023-11-18T16:44:44+00:00
+ - user: None
+ - tags: ['frigate', 'open source']
+
+## Phenaki
+ - [https://phenaki.video](https://phenaki.video)
+ - date published: 2023-10-25T23:00:39.241102+00:00
+ - user: None
+ - tags: []
+
+## Piped
+ - [https://cf.piped.video](https://cf.piped.video)
+ - date published: 2023-10-25T08:23:52.591229+00:00
+ - user: None
+ - tags: []
+
+## Media over QUIC
+ - [https://quic.video](https://quic.video)
+ - date published: 2023-10-30T18:59:35.555348+00:00
+ - user: None
+ - tags: []
+
+## Radarr
+ - [https://radarr.video](https://radarr.video)
+ - date published: 2024-04-08T19:30:30.028106+00:00
+ - user: None
+ - tags: []
+
+## Shinobi
+ - [http://shinobi.video](http://shinobi.video)
+ - date published: 2024-04-08T19:26:29.798723+00:00
+ - user: None
+ - tags: ['open source', 'video recording', 'self-host']
+
+## A game about staring into the eyes of a stranger
+ - [https://stranger.video](https://stranger.video)
+ - date published: 2023-11-17T16:30:07+00:00
+ - user: None
+ - tags: []
+
+## Home | Libre.vin
+ - [https://libre.vin](https://libre.vin)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Vivin
+ - [https://vi.vin](https://vi.vin)
+ - date published: 2024-02-26T14:25:43.434934+00:00
+ - user: None
+ - tags: []
+
+## Vivin
+ - [https://www.vi.vin](https://www.vi.vin)
+ - date published: 2023-12-29T19:01:39.135163+00:00
+ - user: None
+ - tags: ['personal']
+
+## LuckyBird social sweepstakes casino | play to earn | unlimited faucet
+ - [https://luckybird.vip](https://luckybird.vip)
+ - date published: 2023-12-25T14:43:15.910885+00:00
+ - user: None
+ - tags: []
+
+## AmigaVision
+ - [https://amiga.vision](https://amiga.vision)
+ - date published: 2024-01-19T18:35:31+00:00
+ - user: None
+ - tags: ['amiga']
+
+## https://archive.vn
+ - [https://archive.vn](https://archive.vn)
+ - date published: 2023-12-06T10:22:38+00:00
+ - user: rumpel
+ - tags: []
+
+## Home - Pencil Project
+ - [https://pencil.evolus.vn](https://pencil.evolus.vn)
+ - date published: 2023-10-25T23:00:42.854613+00:00
+ - user: None
+ - tags: []
+
+## Vietnam+ (VietnamPlus)
+ - [https://en.vietnamplus.vn](https://en.vietnamplus.vn)
+ - date published: 2023-10-25T23:00:48.090083+00:00
+ - user: None
+ - tags: []
+
+## Longest Voyage
+ - [https://longest.voyage](https://longest.voyage)
+ - date published: 2024-01-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Digital Watch Observatory
+ - [https://dig.watch](https://dig.watch)
+ - date published: 2023-11-02T11:40:33.995779+00:00
+ - user: None
+ - tags: []
+
+## Christopher Johnson's ASCII Art Collection
+ - [https://asciiart.website](https://asciiart.website)
+ - date published: 2023-10-30T13:47:03.869709+00:00
+ - user: None
+ - tags: []
+
+## Diagram Website – An internet map
+ - [https://diagram.website](https://diagram.website)
+ - date published: 2024-03-24T14:55:20+00:00
+ - user: rumpel
+ - tags: ['personal sites source']
+
 ## Dimitrije's Website
  - [https://dimitrije.website](https://dimitrije.website)
  - date published: 2023-10-25T23:00:52.022931+00:00
@@ -227,14 +438,14 @@
  - tags: []
 
 ## Home | My name is Olek. I write about what matters to me.
- - [https://olek.works](https://olek.works)
- - date published: 2023-12-12T23:24:43.805393+00:00
+ - [http://olek.works](http://olek.works)
+ - date published: 2024-04-03T06:26:05.665297+00:00
  - user: None
  - tags: ['personal']
 
 ## Home | My name is Olek. I write about what matters to me.
- - [http://olek.works](http://olek.works)
- - date published: 2024-04-03T06:26:05.665297+00:00
+ - [https://olek.works](https://olek.works)
+ - date published: 2023-12-12T23:24:43.805393+00:00
  - user: None
  - tags: ['personal']
 
@@ -551,16 +762,16 @@
  - tags: []
 
 ## Brodie's Soon To Be Blog
- - [https://brodierobertson.xyz](https://brodierobertson.xyz)
- - date published: 2023-12-21T21:44:33+00:00
- - user: rumpel
- - tags: ['personal', 'youtuber', 'linux']
-
-## Brodie's Soon To Be Blog
  - [http://brodierobertson.xyz](http://brodierobertson.xyz)
  - date published: 2024-03-09T09:00:18.555741+00:00
  - user: None
  - tags: ['youtuber', 'personal']
+
+## Brodie's Soon To Be Blog
+ - [https://brodierobertson.xyz](https://brodierobertson.xyz)
+ - date published: 2023-12-21T21:44:33+00:00
+ - user: rumpel
+ - tags: ['personal', 'youtuber', 'linux']
 
 ## Bryce Vandegrift's Website
  - [https://brycevandegrift.xyz](https://brycevandegrift.xyz)
@@ -1408,7 +1619,7 @@
  - [https://ivdl.co.za](https://ivdl.co.za)
  - date published: 2024-04-13T22:47:10.372023+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## https://www.mattcroxon.co.za
  - [https://www.mattcroxon.co.za](https://www.mattcroxon.co.za)
@@ -1555,14 +1766,14 @@
  - tags: ['mastodon']
 
 ## The Zimbabwe Sphere
- - [http://www.zimsphere.co.zw](http://www.zimsphere.co.zw)
- - date published: 2024-02-26T14:04:23.431504+00:00
+ - [https://www.zimsphere.co.zw](https://www.zimsphere.co.zw)
+ - date published: 2024-01-09T03:49:05.321457+00:00
  - user: None
  - tags: []
 
 ## The Zimbabwe Sphere
- - [https://www.zimsphere.co.zw](https://www.zimsphere.co.zw)
- - date published: 2024-01-09T03:49:05.321457+00:00
+ - [http://www.zimsphere.co.zw](http://www.zimsphere.co.zw)
+ - date published: 2024-02-26T14:04:23.431504+00:00
  - user: None
  - tags: []
 

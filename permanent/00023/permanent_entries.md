@@ -1,3 +1,195 @@
+## vladh's microblog
+ - [https://microblog.vladh.net](https://microblog.vladh.net)
+ - date published: 2023-10-25T09:23:38.370223+00:00
+ - user: None
+ - tags: ['personal']
+
+## Vlad Iliescu
+ - [https://vladiliescu.net](https://vladiliescu.net)
+ - date published: 2023-10-25T09:00:57.859909+00:00
+ - user: None
+ - tags: ['personal']
+
+## Stefan Hajnoczi
+ - [https://blog.vmsplice.net](https://blog.vmsplice.net)
+ - date published: 2024-01-03T01:08:14.621014+00:00
+ - user: None
+ - tags: []
+
+## Stefan Hajnoczi
+ - [http://blog.vmsplice.net](http://blog.vmsplice.net)
+ - date published: 2024-01-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## voussoir.net
+ - [https://voussoir.net](https://voussoir.net)
+ - date published: 2014-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## vslira's blog
+ - [https://blog.vslira.net](https://blog.vslira.net)
+ - date published: 2023-10-25T09:23:40.989576+00:00
+ - user: None
+ - tags: ['personal']
+
+## About VUSec - vusec
+ - [https://download.vusec.net](https://download.vusec.net)
+ - date published: 2023-10-25T20:40:04.401939+00:00
+ - user: None
+ - tags: []
+
+## About VUSec - vusec
+ - [https://www.vusec.net](https://www.vusec.net)
+ - date published: 2024-03-15T21:51:48.973747+00:00
+ - user: None
+ - tags: []
+
+## Wargames Illustrated - Home
+ - [https://www.wargamesillustrated.net](https://www.wargamesillustrated.net)
+ - date published: 2023-11-01T18:45:51.294813+00:00
+ - user: None
+ - tags: ['wargames', 'tabletop games']
+
+## Wargaming.net games — the full list of games available for players on the official website
+ - [https://wargaming.net](https://wargaming.net)
+ - date published: 2024-01-24T17:44:17+00:00
+ - user: rumpel
+ - tags: ['master of orion', 'world of tanks']
+
+## Home
+ - [https://aphextwin.warp.net](https://aphextwin.warp.net)
+ - date published: 2024-01-30T14:52:17+00:00
+ - user: rumpel
+ - tags: ['music band']
+
+## Warsow
+ - [https://warsow.net](https://warsow.net)
+ - date published: 2023-10-29T13:03:28.304457+00:00
+ - user: None
+ - tags: ['quake', 'open source', 'game']
+
+## Watch The Watchers
+ - [https://watchthewatchers.net](https://watchthewatchers.net)
+ - date published: 2023-10-25T20:40:05.454416+00:00
+ - user: None
+ - tags: []
+
+## Wax: The Word Processor for the Web
+ - [https://waxjs.net](https://waxjs.net)
+ - date published: 2024-02-26T22:50:50+00:00
+ - user: None
+ - tags: []
+
+## https://web.wctel.net
+ - [https://web.wctel.net](https://web.wctel.net)
+ - date published: 2024-02-08T22:05:43.346330+00:00
+ - user: None
+ - tags: []
+
+## webfft.github.io
+ - [https://webfft.net](https://webfft.net)
+ - date published: 2023-10-25T20:40:06.019612+00:00
+ - user: None
+ - tags: []
+
+## Webrecorder
+ - [https://webrecorder.net](https://webrecorder.net)
+ - date published: 2023-10-25T20:40:07.346760+00:00
+ - user: None
+ - tags: []
+
+## webtrees
+ - [https://webtrees.net](https://webtrees.net)
+ - date published: 2024-04-08T19:31:20.793649+00:00
+ - user: None
+ - tags: []
+
+## Well Ordered Wiki
+ - [https://wiki.wellorder.net](https://wiki.wellorder.net)
+ - date published: 2023-10-25T20:40:09.598022+00:00
+ - user: None
+ - tags: []
+
+## Wesley Moore
+ - [https://www.wezm.net](https://www.wezm.net)
+ - date published: 2024-02-19T23:18:25.941945+00:00
+ - user: None
+ - tags: []
+
+## Whale Lines - Always Be Orienting and may Fate find us Prepared and Active.
+ - [https://whalelines.net](https://whalelines.net)
+ - date published: 2024-02-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | WhiteHoodHacker
+ - [https://whitehoodhacker.net](https://whitehoodhacker.net)
+ - date published: 2023-10-25T20:40:11.671154+00:00
+ - user: None
+ - tags: []
+
+## Wicked Engine – 3D engine with modern graphics
+ - [https://wickedengine.net](https://wickedengine.net)
+ - date published: 2023-10-25T20:40:16.013864+00:00
+ - user: None
+ - tags: []
+
+## Wifx IoT - Professional indoor and outdoor LoRaWAN® IoT gateways
+ - [https://iot.wifx.net](https://iot.wifx.net)
+ - date published: 2022-06-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## WiGLE: Wireless Network Mapping
+ - [https://wigle.net](https://wigle.net)
+ - date published: 2024-02-26T14:32:42.119901+00:00
+ - user: None
+ - tags: []
+
+## WiGLE: Wireless Network Mapping
+ - [https://www.wigle.net](https://www.wigle.net)
+ - date published: 2023-10-25T20:40:18.661378+00:00
+ - user: None
+ - tags: []
+
+## Wikimedia Status
+ - [https://www.wikimediastatus.net](https://www.wikimediastatus.net)
+ - date published: 2023-10-25T20:40:20.841816+00:00
+ - user: None
+ - tags: []
+
+## Jan Wildeboer’s Blog
+ - [https://jan.wildeboer.net](https://jan.wildeboer.net)
+ - date published: 2023-10-25T08:54:15.941153+00:00
+ - user: None
+ - tags: ['personal']
+
+## social.wildeboer.net
+ - [https://social.wildeboer.net](https://social.wildeboer.net)
+ - date published: 2023-10-25T20:40:22.649243+00:00
+ - user: None
+ - tags: []
+
+## Will Crichton
+ - [https://willcrichton.net](https://willcrichton.net)
+ - date published: 2023-11-01T08:44:06.806218+00:00
+ - user: None
+ - tags: []
+
+## Will Richardson
+ - [https://willhbr.net](https://willhbr.net)
+ - date published: 2024-01-27T08:43:30.630612+00:00
+ - user: None
+ - tags: []
+
+## William Colgan, Ph.D.
+ - [https://williamcolgan.net](https://williamcolgan.net)
+ - date published: 2023-10-25T20:40:24.776417+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Will's blog
  - [https://blog.williammanley.net](https://blog.williammanley.net)
  - date published: 2023-10-25T20:40:26.463182+00:00
@@ -573,6 +765,12 @@
  - date published: 2023-10-25T10:11:45.286879+00:00
  - user: None
  - tags: ['astronomy', 'science']
+
+## The Spacebar
+ - [https://www.spacebar.news](https://www.spacebar.news)
+ - date published: 2024-04-14T20:38:28+00:00
+ - user: rumpel
+ - tags: ['tech news']
 
 ## Home - Stonks News
  - [https://stonks.news](https://stonks.news)
@@ -2604,14 +2802,14 @@ marginalia.nu
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3408,16 +3606,16 @@ marginalia.nu
  - tags: []
 
 ## Antipope!
- - [http://www.antipope.org](http://www.antipope.org)
- - date published: 2024-04-03T06:39:03.448310+00:00
- - user: None
- - tags: ['personal']
-
-## Antipope!
  - [https://www.antipope.org](https://www.antipope.org)
  - date published: 2023-10-25T20:57:17.170460+00:00
  - user: None
  - tags: []
+
+## Antipope!
+ - [http://www.antipope.org](http://www.antipope.org)
+ - date published: 2024-04-03T06:39:03.448310+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Anti-Slavery International | Fighting for Freedom from Slavery
  - [https://www.antislavery.org](https://www.antislavery.org)
@@ -3838,14 +4036,14 @@ marginalia.nu
  - tags: []
 
 ## Archiveteam
- - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
- - date published: 2023-11-25T06:19:37.367056+00:00
+ - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Archiveteam
- - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
+ - date published: 2023-11-25T06:19:37.367056+00:00
  - user: None
  - tags: []
 
@@ -4288,13 +4486,13 @@ marginalia.nu
  - tags: ['web browser']
 
 ## BatMUD
- - [http://www.bat.org](http://www.bat.org)
+ - [https://www.bat.org](https://www.bat.org)
  - date published: 1990-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## BatMUD
- - [https://www.bat.org](https://www.bat.org)
+ - [http://www.bat.org](http://www.bat.org)
  - date published: 1990-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -5812,202 +6010,4 @@ marginalia.nu
  - date published: 2024-02-21T00:00:00+00:00
  - user: None
  - tags: []
-
-## Private Jet Emissions - ClimateJets
- - [https://climatejets.org](https://climatejets.org)
- - date published: 2023-10-25T21:07:55.534132+00:00
- - user: None
- - tags: []
-
-## Climate Reanalyzer
- - [https://climatereanalyzer.org](https://climatereanalyzer.org)
- - date published: 2023-10-25T21:07:56.503114+00:00
- - user: None
- - tags: []
-
-## Home – Centre for Climate Reporting
- - [https://climate-reporting.org](https://climate-reporting.org)
- - date published: 2023-11-27T14:57:21.654177+00:00
- - user: None
- - tags: ['climate change']
-
-## Climb to the Stars
- - [https://climbtothestars.org](https://climbtothestars.org)
- - date published: 2023-12-16T07:29:16.507400+00:00
- - user: None
- - tags: ['personal']
-
-## Clinical Correlations – The NYU Langone Online Journal of Medicine
- - [https://www.clinicalcorrelations.org](https://www.clinicalcorrelations.org)
- - date published: 2023-11-26T20:41:22.924885+00:00
- - user: None
- - tags: []
-
-## Climate Intelligence (CLINTEL) climate change and climate policy
- - [https://clintel.org](https://clintel.org)
- - date published: 2023-10-25T21:07:59.294966+00:00
- - user: None
- - tags: []
-
-## Clojure
- - [https://clojure.org](https://clojure.org)
- - date published: 2023-10-25T21:08:00.189323+00:00
- - user: None
- - tags: []
-
-## The Cloud Appreciation Society - Cloud Appreciation Society
- - [https://cloudappreciationsociety.org](https://cloudappreciationsociety.org)
- - date published: 2023-10-25T21:08:02.476071+00:00
- - user: None
- - tags: []
-
-## CloudNativeFolks Community
- - [https://blog.cloudnativefolks.org](https://blog.cloudnativefolks.org)
- - date published: 2023-10-25T21:08:05.587610+00:00
- - user: None
- - tags: []
-
-## Homepage - Club of Rome
- - [https://www.clubofrome.org](https://www.clubofrome.org)
- - date published: 2023-10-25T21:08:08.943550+00:00
- - user: None
- - tags: ['depopulation', 'environment', 'sustainable future']
-
-## Command & Conquer Online - CnCNet
- - [https://cncnet.org](https://cncnet.org)
- - date published: 2023-11-17T21:37:56+00:00
- - user: rumpel
- - tags: ['retro games', 'red alert']
-
-## CNU
- - [https://www.cnu.org](https://www.cnu.org)
- - date published: 2023-11-21T21:54:59.568176+00:00
- - user: None
- - tags: []
-
-## Current & Historical Carbon Dioxide (CO2) Levels Graph
- - [https://www.co2levels.org](https://www.co2levels.org)
- - date published: 2024-01-09T03:38:35.859795+00:00
- - user: None
- - tags: []
-
-## 澳门尼斯人娱乐网站(中国)有限公司
- - [http://www.coalpha.org](http://www.coalpha.org)
- - date published: 2023-10-25T21:08:11.357157+00:00
- - user: None
- - tags: []
-
-## Cockpit Project — Cockpit Project
- - [https://cockpit-project.org](https://cockpit-project.org)
- - date published: 2023-10-25T21:08:15.983483+00:00
- - user: None
- - tags: ['self-host', 'server administration', 'application']
-
-## codapi: Embeddable code playgrounds
- - [https://codapi.org](https://codapi.org)
- - date published: 2023-12-16T18:16:43.112708+00:00
- - user: None
- - tags: []
-
-## Code Beautify and Code Formatter For Developers - to Beautify, Validate, Minify, JSON, XML, JavaScript, CSS, HTML, Excel and more
- - [https://codebeautify.org](https://codebeautify.org)
- - date published: 2024-04-05T14:01:06+00:00
- - user: rumpel
- - tags: ['pretty print']
-
-## Codeberg News
- - [https://blog.codeberg.org](https://blog.codeberg.org)
- - date published: 2023-10-25T21:08:17.151581+00:00
- - user: None
- - tags: []
-
-## Codeberg.org
- - [https://codeberg.org](https://codeberg.org)
- - date published: 2023-10-25T21:08:17.885638+00:00
- - user: None
- - tags: []
-
-## CodeBuy
- - [https://codebuy.org](https://codebuy.org)
- - date published: 2024-01-09T03:38:38.042950+00:00
- - user: None
- - tags: []
-
-## CodeLite • A free, Open Source, Cross Platform C,C++,PHP and Node.js IDE
- - [https://codelite.org](https://codelite.org)
- - date published: 2023-10-25T08:33:37.426532+00:00
- - user: None
- - tags: ['programming ide']
-
-## CoffeeScript
- - [https://coffeescript.org](https://coffeescript.org)
- - date published: 2023-10-30T13:47:40.656535+00:00
- - user: None
- - tags: ['javascript']
-
-## cohost!
- - [https://cohost.org](https://cohost.org)
- - date published: 2023-10-25T21:08:19.011517+00:00
- - user: None
- - tags: []
-
-## News and Press Releases - Newsroom | College Board
- - [https://newsroom.collegeboard.org](https://newsroom.collegeboard.org)
- - date published: 2023-10-25T21:08:21.056798+00:00
- - user: None
- - tags: []
-
-## https://histmed.collegeofphysicians.org
- - [https://histmed.collegeofphysicians.org](https://histmed.collegeofphysicians.org)
- - date published: 2023-10-25T21:08:24.028256+00:00
- - user: None
- - tags: []
-
-## Columbia Law Review -
- - [https://columbialawreview.org](https://columbialawreview.org)
- - date published: 2023-10-25T21:08:25.935513+00:00
- - user: None
- - tags: []
-
-## Columbia Department of Radiology
- - [https://www.columbiaradiology.org](https://www.columbiaradiology.org)
- - date published: 2023-12-03T16:18:33.647399+00:00
- - user: None
- - tags: []
-
-## Homepage - Comic-Con International
- - [https://www.comic-con.org](https://www.comic-con.org)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: ['comics']
-
-## Comic Strip Library - Digital Collection of Classic Comic Strips
- - [http://comicstriplibrary.org](http://comicstriplibrary.org)
- - date published: 2014-06-07T00:00:00+00:00
- - user: rumpel
- - tags: ['comic strip']
-
-## Home - Comment Magazine
- - [https://comment.org](https://comment.org)
- - date published: 2023-10-25T21:08:30.947601+00:00
- - user: None
- - tags: []
-
-## Commentary Magazine - conservative Jewish thought & opinion
- - [https://www.commentary.org](https://www.commentary.org)
- - date published: 2023-10-25T21:08:33.471629+00:00
- - user: None
- - tags: ['news', 'america', 'israel', 'israel news']
-
-## Home - Fairplay
- - [https://commercialfreechildhood.org](https://commercialfreechildhood.org)
- - date published: 2023-10-25T21:08:43.347861+00:00
- - user: None
- - tags: []
-
-## Common Crawl - Open Repository of Web Crawl Data
- - [https://commoncrawl.org](https://commoncrawl.org)
- - date published: 2024-01-17T09:08:05+00:00
- - user: rumpel
- - tags: ['web scraping', 'internet archive']
 

@@ -1,3 +1,201 @@
+## Private Jet Emissions - ClimateJets
+ - [https://climatejets.org](https://climatejets.org)
+ - date published: 2023-10-25T21:07:55.534132+00:00
+ - user: None
+ - tags: []
+
+## Climate Reanalyzer
+ - [https://climatereanalyzer.org](https://climatereanalyzer.org)
+ - date published: 2023-10-25T21:07:56.503114+00:00
+ - user: None
+ - tags: []
+
+## Home – Centre for Climate Reporting
+ - [https://climate-reporting.org](https://climate-reporting.org)
+ - date published: 2023-11-27T14:57:21.654177+00:00
+ - user: None
+ - tags: ['climate change']
+
+## Climb to the Stars
+ - [https://climbtothestars.org](https://climbtothestars.org)
+ - date published: 2023-12-16T07:29:16.507400+00:00
+ - user: None
+ - tags: ['personal']
+
+## Clinical Correlations – The NYU Langone Online Journal of Medicine
+ - [https://www.clinicalcorrelations.org](https://www.clinicalcorrelations.org)
+ - date published: 2023-11-26T20:41:22.924885+00:00
+ - user: None
+ - tags: []
+
+## Climate Intelligence (CLINTEL) climate change and climate policy
+ - [https://clintel.org](https://clintel.org)
+ - date published: 2023-10-25T21:07:59.294966+00:00
+ - user: None
+ - tags: []
+
+## Clojure
+ - [https://clojure.org](https://clojure.org)
+ - date published: 2023-10-25T21:08:00.189323+00:00
+ - user: None
+ - tags: []
+
+## The Cloud Appreciation Society - Cloud Appreciation Society
+ - [https://cloudappreciationsociety.org](https://cloudappreciationsociety.org)
+ - date published: 2023-10-25T21:08:02.476071+00:00
+ - user: None
+ - tags: []
+
+## CloudNativeFolks Community
+ - [https://blog.cloudnativefolks.org](https://blog.cloudnativefolks.org)
+ - date published: 2023-10-25T21:08:05.587610+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Club of Rome
+ - [https://www.clubofrome.org](https://www.clubofrome.org)
+ - date published: 2023-10-25T21:08:08.943550+00:00
+ - user: None
+ - tags: ['depopulation', 'environment', 'sustainable future']
+
+## Command & Conquer Online - CnCNet
+ - [https://cncnet.org](https://cncnet.org)
+ - date published: 2023-11-17T21:37:56+00:00
+ - user: rumpel
+ - tags: ['retro games', 'red alert']
+
+## CNU
+ - [https://www.cnu.org](https://www.cnu.org)
+ - date published: 2023-11-21T21:54:59.568176+00:00
+ - user: None
+ - tags: []
+
+## Current & Historical Carbon Dioxide (CO2) Levels Graph
+ - [https://www.co2levels.org](https://www.co2levels.org)
+ - date published: 2024-01-09T03:38:35.859795+00:00
+ - user: None
+ - tags: []
+
+## 澳门尼斯人娱乐网站(中国)有限公司
+ - [http://www.coalpha.org](http://www.coalpha.org)
+ - date published: 2023-10-25T21:08:11.357157+00:00
+ - user: None
+ - tags: []
+
+## Cockpit Project — Cockpit Project
+ - [https://cockpit-project.org](https://cockpit-project.org)
+ - date published: 2023-10-25T21:08:15.983483+00:00
+ - user: None
+ - tags: ['web server panel', 'server administration', 'self-host', 'application']
+
+## codapi: Embeddable code playgrounds
+ - [https://codapi.org](https://codapi.org)
+ - date published: 2023-12-16T18:16:43.112708+00:00
+ - user: None
+ - tags: []
+
+## Code Beautify and Code Formatter For Developers - to Beautify, Validate, Minify, JSON, XML, JavaScript, CSS, HTML, Excel and more
+ - [https://codebeautify.org](https://codebeautify.org)
+ - date published: 2024-04-05T14:01:06+00:00
+ - user: rumpel
+ - tags: ['pretty print']
+
+## Codeberg News
+ - [https://blog.codeberg.org](https://blog.codeberg.org)
+ - date published: 2023-10-25T21:08:17.151581+00:00
+ - user: None
+ - tags: []
+
+## Codeberg.org
+ - [https://codeberg.org](https://codeberg.org)
+ - date published: 2023-10-25T21:08:17.885638+00:00
+ - user: None
+ - tags: []
+
+## CodeBuy
+ - [https://codebuy.org](https://codebuy.org)
+ - date published: 2024-01-09T03:38:38.042950+00:00
+ - user: None
+ - tags: []
+
+## CodeLite • A free, Open Source, Cross Platform C,C++,PHP and Node.js IDE
+ - [https://codelite.org](https://codelite.org)
+ - date published: 2023-10-25T08:33:37.426532+00:00
+ - user: None
+ - tags: ['programming ide']
+
+## CoffeeScript
+ - [https://coffeescript.org](https://coffeescript.org)
+ - date published: 2023-10-30T13:47:40.656535+00:00
+ - user: None
+ - tags: ['javascript']
+
+## cohost!
+ - [https://cohost.org](https://cohost.org)
+ - date published: 2023-10-25T21:08:19.011517+00:00
+ - user: None
+ - tags: []
+
+## News and Press Releases - Newsroom | College Board
+ - [https://newsroom.collegeboard.org](https://newsroom.collegeboard.org)
+ - date published: 2023-10-25T21:08:21.056798+00:00
+ - user: None
+ - tags: []
+
+## https://histmed.collegeofphysicians.org
+ - [https://histmed.collegeofphysicians.org](https://histmed.collegeofphysicians.org)
+ - date published: 2023-10-25T21:08:24.028256+00:00
+ - user: None
+ - tags: []
+
+## Columbia Law Review -
+ - [https://columbialawreview.org](https://columbialawreview.org)
+ - date published: 2023-10-25T21:08:25.935513+00:00
+ - user: None
+ - tags: []
+
+## Columbia Department of Radiology
+ - [https://www.columbiaradiology.org](https://www.columbiaradiology.org)
+ - date published: 2023-12-03T16:18:33.647399+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Comic-Con International
+ - [https://www.comic-con.org](https://www.comic-con.org)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: ['comics']
+
+## Comic Strip Library - Digital Collection of Classic Comic Strips
+ - [http://comicstriplibrary.org](http://comicstriplibrary.org)
+ - date published: 2014-06-07T00:00:00+00:00
+ - user: rumpel
+ - tags: ['comic strip']
+
+## Home - Comment Magazine
+ - [https://comment.org](https://comment.org)
+ - date published: 2023-10-25T21:08:30.947601+00:00
+ - user: None
+ - tags: []
+
+## Commentary Magazine - conservative Jewish thought & opinion
+ - [https://www.commentary.org](https://www.commentary.org)
+ - date published: 2023-10-25T21:08:33.471629+00:00
+ - user: None
+ - tags: ['news', 'america', 'israel', 'israel news']
+
+## Home - Fairplay
+ - [https://commercialfreechildhood.org](https://commercialfreechildhood.org)
+ - date published: 2023-10-25T21:08:43.347861+00:00
+ - user: None
+ - tags: []
+
+## Common Crawl - Open Repository of Web Crawl Data
+ - [https://commoncrawl.org](https://commoncrawl.org)
+ - date published: 2024-01-17T09:08:05+00:00
+ - user: rumpel
+ - tags: ['web scraping', 'internet archive']
+
 ## Breaking News & Views for the Progressive Community | Common Dreams
  - [https://www.commondreams.org](https://www.commondreams.org)
  - date published: 2023-10-25T10:39:59.954835+00:00
@@ -1434,16 +1632,16 @@
  - tags: []
 
 ## Kohina Web Player
- - [http://kohina.duckdns.org](http://kohina.duckdns.org)
- - date published: 2024-02-11T14:38:28.495727+00:00
- - user: None
- - tags: []
-
-## Kohina Web Player
  - [https://kohina.duckdns.org](https://kohina.duckdns.org)
  - date published: 2024-02-15T22:13:24.519956+00:00
  - user: None
  - tags: ['demoscene']
+
+## Kohina Web Player
+ - [http://kohina.duckdns.org](http://kohina.duckdns.org)
+ - date published: 2024-02-11T14:38:28.495727+00:00
+ - user: None
+ - tags: []
 
 ## Duck DNS
  - [https://www.duckdns.org](https://www.duckdns.org)
@@ -1991,15 +2189,15 @@
  - user: None
  - tags: []
 
-## Ergaster
- - [http://ergaster.org](http://ergaster.org)
- - date published: 2024-02-26T14:07:11.647181+00:00
- - user: None
- - tags: []
-
 ## Thib's Home
  - [https://ergaster.org](https://ergaster.org)
  - date published: 2023-10-25T21:18:23.232043+00:00
+ - user: None
+ - tags: []
+
+## Ergaster
+ - [http://ergaster.org](http://ergaster.org)
+ - date published: 2024-02-26T14:07:11.647181+00:00
  - user: None
  - tags: []
 
@@ -3735,14 +3933,14 @@
  - tags: []
 
 ## GNOME Release Notes
- - [http://release.gnome.org](http://release.gnome.org)
- - date published: 2024-03-21T07:44:19.473641+00:00
+ - [https://release.gnome.org](https://release.gnome.org)
+ - date published: 2024-03-20T18:08:17.213656+00:00
  - user: None
  - tags: []
 
 ## GNOME Release Notes
- - [https://release.gnome.org](https://release.gnome.org)
- - date published: 2024-03-20T18:08:17.213656+00:00
+ - [http://release.gnome.org](http://release.gnome.org)
+ - date published: 2024-03-21T07:44:19.473641+00:00
  - user: None
  - tags: []
 
@@ -4708,16 +4906,16 @@
  - tags: []
 
 ## IEEE Spectrum
- - [http://spectrum.ieee.org](http://spectrum.ieee.org)
- - date published: 2024-02-25T20:49:03.401404+00:00
- - user: None
- - tags: []
-
-## IEEE Spectrum
  - [https://spectrum.ieee.org](https://spectrum.ieee.org)
  - date published: 2023-10-25T09:37:30.327947+00:00
  - user: None
  - tags: ['tech news']
+
+## IEEE Spectrum
+ - [http://spectrum.ieee.org](http://spectrum.ieee.org)
+ - date published: 2024-02-25T20:49:03.401404+00:00
+ - user: None
+ - tags: []
 
 ## None
  - [https://ieeeia.org](https://ieeeia.org)
@@ -5537,14 +5735,14 @@ Welcome
  - tags: ['personal']
 
 ## Home
- - [https://jpc2.org](https://jpc2.org)
- - date published: 2024-04-03T12:49:04.549276+00:00
+ - [http://jpc2.org](http://jpc2.org)
+ - date published: 2023-12-24T08:16:31.320638+00:00
  - user: None
  - tags: ['personal']
 
 ## Home
- - [http://jpc2.org](http://jpc2.org)
- - date published: 2023-12-24T08:16:31.320638+00:00
+ - [https://jpc2.org](https://jpc2.org)
+ - date published: 2024-04-03T12:49:04.549276+00:00
  - user: None
  - tags: ['personal']
 
@@ -5803,206 +6001,6 @@ Welcome
 ## Kamby Language
  - [https://kamby.org](https://kamby.org)
  - date published: 2023-10-25T21:35:58.399472+00:00
- - user: None
- - tags: []
-
-## Kanban Project Management Software - Kanboard
- - [https://kanboard.org](https://kanboard.org)
- - date published: 2023-10-25T21:35:59.351365+00:00
- - user: None
- - tags: []
-
-## KanColl: The Kansas Collection Welcome Page
- - [https://www.kancoll.org](https://www.kancoll.org)
- - date published: 2023-11-15T17:44:31.559724+00:00
- - user: None
- - tags: ['personal']
-
-## Kart
- - [https://kartproject.org](https://kartproject.org)
- - date published: 2024-01-09T03:41:10.946630+00:00
- - user: None
- - tags: []
-
-## KaTeX – The fastest math typesetting library for the web
- - [https://katex.org](https://katex.org)
- - date published: 2023-10-25T21:36:00.014489+00:00
- - user: None
- - tags: []
-
-## KAXE - Homepage | KAXE
- - [https://www.kaxe.org](https://www.kaxe.org)
- - date published: 2024-03-01T07:05:48.774297+00:00
- - user: None
- - tags: []
-
-## KCUR | KCUR - Kansas City news and NPR
- - [https://www.kcur.org](https://www.kcur.org)
- - date published: 2023-11-04T18:28:47.889014+00:00
- - user: None
- - tags: []
-
-## KDE Bugtracking System Main Page
- - [https://bugs.kde.org](https://bugs.kde.org)
- - date published: 2024-02-01T21:35:21.710668+00:00
- - user: None
- - tags: []
-
-## KDE Community Wiki
- - [https://community.kde.org](https://community.kde.org)
- - date published: 2024-03-12T21:03:10.494551+00:00
- - user: None
- - tags: []
-
-## KDE Discuss - KDE Community
- - [https://discuss.kde.org](https://discuss.kde.org)
- - date published: 2023-10-25T21:36:01.965434+00:00
- - user: None
- - tags: []
-
-## KDE Eco
- - [https://eco.kde.org](https://eco.kde.org)
- - date published: 2023-10-25T21:36:03.672195+00:00
- - user: None
- - tags: []
-
-## Explore groups · GitLab
- - [https://invent.kde.org](https://invent.kde.org)
- - date published: 2023-10-25T21:36:04.476762+00:00
- - user: None
- - tags: []
-
-## Home - KDE Community
- - [https://kde.org](https://kde.org)
- - date published: 2023-10-25T21:36:06.463462+00:00
- - user: None
- - tags: ['kde', 'open source', 'linux desktop environment', 'linux']
-
-## KDE Mailing Lists - KDE Community
- - [https://mail.kde.org](https://mail.kde.org)
- - date published: 2023-10-25T21:36:08.509574+00:00
- - user: None
- - tags: []
-
-## Browse  Latest | https://store.kde.org/browse/
- - [https://store.kde.org](https://store.kde.org)
- - date published: 2023-11-05T10:28:13.360219+00:00
- - user: None
- - tags: []
-
-## Kdenlive - Video Editing Freedom
- - [https://kdenlive.org](https://kdenlive.org)
- - date published: 2024-03-09T00:00:00+00:00
- - user: None
- - tags: ['open source', 'video editor']
-
-## KeePassXC Password Manager
- - [https://keepassxc.org](https://keepassxc.org)
- - date published: 2023-10-25T21:36:09.258338+00:00
- - user: None
- - tags: ['password manager', 'open source']
-
-## Knowledge Ecology International - Attending and mending the knowledge ecosystem
- - [https://www.keionline.org](https://www.keionline.org)
- - date published: 2023-10-25T21:36:12.622310+00:00
- - user: None
- - tags: []
-
-## Kelake
- - [https://kelake.org](https://kelake.org)
- - date published: 2024-02-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## KFF - Home Page
- - [https://kellerfamilyfoundation.org](https://kellerfamilyfoundation.org)
- - date published: 2024-02-08T16:20:58.418318+00:00
- - user: None
- - tags: []
-
-## KERA - Homepage | KERA News
- - [https://www.keranews.org](https://www.keranews.org)
- - date published: 2023-11-20T11:24:52.643626+00:00
- - user: None
- - tags: []
-
-## K5Wiki
- - [https://k5wiki.kerberos.org](https://k5wiki.kerberos.org)
- - date published: 2024-02-08T16:52:03.370831+00:00
- - user: None
- - tags: []
-
-## Open-Source Kermit Project -
-Free, Portable, Scriptable, Transport-Independent Communications Software.
-Hosted by Panix.com.
- - [https://www.kermitproject.org](https://www.kermitproject.org)
- - date published: 2023-10-25T21:36:15.806979+00:00
- - user: None
- - tags: []
-
-## Kernel.org Bugzilla Main Page
- - [https://bugzilla.kernel.org](https://bugzilla.kernel.org)
- - date published: 2023-10-25T21:36:18.126215+00:00
- - user: None
- - tags: []
-
-## The Linux Kernel documentation — The Linux Kernel  documentation
- - [https://docs.kernel.org](https://docs.kernel.org)
- - date published: 2024-03-30T18:57:17.410313+00:00
- - user: None
- - tags: []
-
-## Kernel.org git repositories
- - [https://git.kernel.org](https://git.kernel.org)
- - date published: 2023-10-25T21:36:22.264353+00:00
- - user: None
- - tags: []
-
-## The Linux Kernel Archives
- - [https://kernel.org](https://kernel.org)
- - date published: 2023-11-06T10:02:37.263414+00:00
- - user: None
- - tags: ['linux']
-
-## public-inbox listing
- - [https://lore.kernel.org](https://lore.kernel.org)
- - date published: 2023-10-25T21:36:24.705702+00:00
- - user: None
- - tags: []
-
-## mirrors.kernel.org
- - [https://mirrors.edge.kernel.org](https://mirrors.edge.kernel.org)
- - date published: 2023-10-25T21:36:25.751314+00:00
- - user: None
- - tags: []
-
-## people.kernel.org Reader
- - [https://people.kernel.org](https://people.kernel.org)
- - date published: 2023-10-25T21:36:30.389450+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://kernel-recipes.org](https://kernel-recipes.org)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## A kernel-based root solution for Android | KernelSU
- - [https://kernelsu.org](https://kernelsu.org)
- - date published: 2023-10-25T21:36:36.612083+00:00
- - user: None
- - tags: []
-
-## kevinspencer.org
- - [https://kevinspencer.org](https://kevinspencer.org)
- - date published: 2024-02-06T09:06:31.790460+00:00
- - user: None
- - tags: []
-
-## WordPress › Error
- - [http://blog.kevtris.org](http://blog.kevtris.org)
- - date published: 2023-10-25T21:36:37.992822+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,147 @@
+## 404 - Not Found
+ - [https://playlists.dags.dev](https://playlists.dags.dev)
+ - date published: 2024-01-09T02:56:57.228309+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://app.daily.dev](https://app.daily.dev)
+ - date published: 2024-04-11T15:15:32.032815+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Darwin – Automate Your GitHub Project with AI
+ - [https://darwin-ai.dev](https://darwin-ai.dev)
+ - date published: 2024-02-26T17:33:06+00:00
+ - user: None
+ - tags: []
+
+## dbdev | The Database Package Manager
+ - [https://database.dev](https://database.dev)
+ - date published: 2023-10-25T18:37:10.874218+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://davidamos.dev](https://davidamos.dev)
+ - date published: 2024-01-09T02:57:06.453997+00:00
+ - user: None
+ - tags: []
+
+## David Capper
+ - [https://davidcapper.dev](https://davidcapper.dev)
+ - date published: 2024-01-08T13:02:44.729428+00:00
+ - user: None
+ - tags: []
+
+## ~/.didev
+ - [https://davidisaksson.dev](https://davidisaksson.dev)
+ - date published: 2023-10-25T08:58:27.129547+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Nguyen
+ - [https://davidnguyen.dev](https://davidnguyen.dev)
+ - date published: 2023-12-03T09:19:51.549979+00:00
+ - user: None
+ - tags: ['personal']
+
+## RoR Debugbar
+ - [https://debugbar.dev](https://debugbar.dev)
+ - date published: 2024-02-18T16:39:57+00:00
+ - user: None
+ - tags: []
+
+## Hi, I'm Den :wave:
+ - [https://den.dev](https://den.dev)
+ - date published: 2023-10-25T08:58:28.132514+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Sherret
+ - [https://david.deno.dev](https://david.deno.dev)
+ - date published: 2024-02-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Writing | denvaar's Site
+ - [https://denvaar.dev](https://denvaar.dev)
+ - date published: 2023-11-16T09:28:41.834997+00:00
+ - user: None
+ - tags: []
+
+## Depot
+ - [https://depot.dev](https://depot.dev)
+ - date published: 2023-10-25T18:37:13.920387+00:00
+ - user: None
+ - tags: []
+
+## https://desislav.dev
+ - [https://desislav.dev](https://desislav.dev)
+ - date published: 2024-01-09T02:57:13.240861+00:00
+ - user: None
+ - tags: []
+
+## The Developing Dev | Ryan Peterman | Substack
+ - [https://www.developing.dev](https://www.developing.dev)
+ - date published: 2023-10-25T18:37:18.745268+00:00
+ - user: None
+ - tags: []
+
+## DevOps.dev
+ - [https://blog.devops.dev](https://blog.devops.dev)
+ - date published: 2023-10-25T18:37:21.821387+00:00
+ - user: None
+ - tags: []
+
+## Differential: Type safe RPC that feels like local functions
+ - [https://www.differential.dev](https://www.differential.dev)
+ - date published: 2024-03-09T03:15:16+00:00
+ - user: None
+ - tags: []
+
+## Digger.dev
+ - [https://blog.digger.dev](https://blog.digger.dev)
+ - date published: 2024-01-04T16:43:27.471043+00:00
+ - user: None
+ - tags: []
+
+## Disane.dev - Personal tech blog
+ - [https://blog.disane.dev](https://blog.disane.dev)
+ - date published: 2024-01-02T05:20:52.454570+00:00
+ - user: None
+ - tags: []
+
+## djhworld - thoughts
+ - [https://djharper.dev](https://djharper.dev)
+ - date published: 2023-10-25T18:37:23.198428+00:00
+ - user: None
+ - tags: []
+
+## Hristiyan Dodov: Full-Stack Developer at Oblik Studio
+ - [https://dodov.dev](https://dodov.dev)
+ - date published: 2023-10-25T18:37:24.848610+00:00
+ - user: None
+ - tags: []
+
+## Dokemon - Docker Container Management GUI
+ - [https://dokemon.dev](https://dokemon.dev)
+ - date published: 2024-04-08T19:28:07.698026+00:00
+ - user: None
+ - tags: ['self-host', 'docker manager']
+
+## Home | Dozzle
+ - [https://dozzle.dev](https://dozzle.dev)
+ - date published: 2024-04-08T19:28:08.511106+00:00
+ - user: None
+ - tags: ['self-host', 'docker log viewer']
+
+## Earthly - Make Builds Super Simple
+ - [https://earthly.dev](https://earthly.dev)
+ - date published: 2023-10-25T18:37:27.899029+00:00
+ - user: None
+ - tags: []
+
 ## echoserver: A simple echo server for testing HTTP clients.
  - [https://echoserver.dev](https://echoserver.dev)
  - date published: 2023-10-25T18:37:29.344617+00:00
@@ -54,14 +198,14 @@
  - tags: []
 
 ## endtimes.dev
- - [http://endtimes.dev](http://endtimes.dev)
- - date published: 2024-02-26T14:52:45.275010+00:00
+ - [https://endtimes.dev](https://endtimes.dev)
+ - date published: 2023-10-25T18:37:42.008452+00:00
  - user: None
  - tags: []
 
 ## endtimes.dev
- - [https://endtimes.dev](https://endtimes.dev)
- - date published: 2023-10-25T18:37:42.008452+00:00
+ - [http://endtimes.dev](http://endtimes.dev)
+ - date published: 2024-02-26T14:52:45.275010+00:00
  - user: None
  - tags: []
 
@@ -129,7 +273,7 @@
  - [https://www.firecrawl.dev](https://www.firecrawl.dev)
  - date published: 2024-04-13T22:32:54+00:00
  - user: None
- - tags: []
+ - tags: ['web crawler']
 
 ## The Hippocratic License: An Ethical License for Open Source
  - [https://firstdonoharm.dev](https://firstdonoharm.dev)
@@ -251,10 +395,10 @@
  - user: None
  - tags: []
 
-## Redirecting
+## HomePage
  - [https://gethomepage.dev](https://gethomepage.dev)
- - date published: 2024-04-08T19:28:36.232902+00:00
- - user: None
+ - date published: 2024-04-08T19:28:36+00:00
+ - user: rumpel
  - tags: ['dashboard', 'self-host', 'server management', 'home page']
 
 ## Lynx
@@ -1289,6 +1433,12 @@
  - user: None
  - tags: []
 
+## Dennis Schubert
+ - [https://overengineer.dev](https://overengineer.dev)
+ - date published: 2024-04-14T20:39:43+00:00
+ - user: rumpel
+ - tags: ['personal']
+
 ## Overseerr
  - [https://overseerr.dev](https://overseerr.dev)
  - date published: 2024-04-08T19:30:06.081189+00:00
@@ -1904,14 +2054,14 @@
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1962,6 +2112,12 @@
  - date published: 2024-04-08T19:30:56.186910+00:00
  - user: None
  - tags: ['artificial intelligence', 'subtitles']
+
+## sudorandom.dev — Depth-first search into networking, programming, random tech topics.
+ - [https://sudorandom.dev](https://sudorandom.dev)
+ - date published: 2024-04-14T07:37:07.121941+00:00
+ - user: None
+ - tags: ['personal']
 
 ## surma.dev
  - [https://surma.dev](https://surma.dev)
@@ -5164,14 +5320,14 @@
  - tags: []
 
 ## Stanford Artificial Intelligence Laboratory
- - [http://ai.stanford.edu](http://ai.stanford.edu)
- - date published: 2024-02-26T14:41:27.710205+00:00
+ - [https://ai.stanford.edu](https://ai.stanford.edu)
+ - date published: 2023-10-25T18:58:06.440600+00:00
  - user: None
  - tags: []
 
 ## Stanford Artificial Intelligence Laboratory
- - [https://ai.stanford.edu](https://ai.stanford.edu)
- - date published: 2023-10-25T18:58:06.440600+00:00
+ - [http://ai.stanford.edu](http://ai.stanford.edu)
+ - date published: 2024-02-26T14:41:27.710205+00:00
  - user: None
  - tags: []
 
@@ -5302,14 +5458,14 @@
  - tags: []
 
 ## Stanford News
- - [https://news.stanford.edu](https://news.stanford.edu)
- - date published: 2023-10-25T18:58:41.013599+00:00
+ - [http://news.stanford.edu](http://news.stanford.edu)
+ - date published: 2024-02-26T13:11:04.090772+00:00
  - user: None
  - tags: []
 
 ## Stanford News
- - [http://news.stanford.edu](http://news.stanford.edu)
- - date published: 2024-02-26T13:11:04.090772+00:00
+ - [https://news.stanford.edu](https://news.stanford.edu)
+ - date published: 2023-10-25T18:58:41.013599+00:00
  - user: None
  - tags: []
 
@@ -5856,162 +6012,6 @@
 ## Home
  - [https://gradweb.ucumberlands.edu](https://gradweb.ucumberlands.edu)
  - date published: 2024-02-08T17:58:04.593788+00:00
- - user: None
- - tags: []
-
-## University of Delaware
- - [https://udel.edu](https://udel.edu)
- - date published: 2023-12-23T17:33:38.138635+00:00
- - user: None
- - tags: []
-
-## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
- - [https://cam.mbi.ufl.edu](https://cam.mbi.ufl.edu)
- - date published: 2023-10-25T19:01:26.632166+00:00
- - user: None
- - tags: []
-
-## Liao Lab »  » University of Florida
- - [https://liao.acb.med.ufl.edu](https://liao.acb.med.ufl.edu)
- - date published: 2024-02-08T16:20:48.739035+00:00
- - user: None
- - tags: []
-
-## Home - News - University of Florida
- - [https://news.ufl.edu](https://news.ufl.edu)
- - date published: 2024-01-04T17:18:14.446846+00:00
- - user: None
- - tags: []
-
-## http://plaza.ufl.edu
- - [http://plaza.ufl.edu](http://plaza.ufl.edu)
- - date published: 2023-10-25T19:01:27.333883+00:00
- - user: None
- - tags: []
-
-## Florida Museum
- - [https://www.floridamuseum.ufl.edu](https://www.floridamuseum.ufl.edu)
- - date published: 2023-11-09T19:00:22.567256+00:00
- - user: None
- - tags: []
-
-## https://digilab.libs.uga.edu
- - [https://digilab.libs.uga.edu](https://digilab.libs.uga.edu)
- - date published: 2024-01-09T03:28:33.119214+00:00
- - user: None
- - tags: []
-
-## National Center for Home Food Preservation
- - [https://nchfp.uga.edu](https://nchfp.uga.edu)
- - date published: 2023-11-01T08:43:32.942121+00:00
- - user: None
- - tags: []
-
-## TinyUGA - link shortener for University of Georgia websites
- - [https://t.uga.edu](https://t.uga.edu)
- - date published: 2023-11-07T14:54:18.985053+00:00
- - user: None
- - tags: []
-
-## The Engines of Our Ingenuity
- - [https://engines.egr.uh.edu](https://engines.egr.uh.edu)
- - date published: 2024-03-08T09:51:49.224941+00:00
- - user: None
- - tags: ['personal']
-
-## Stories - University of Houston
- - [https://stories.uh.edu](https://stories.uh.edu)
- - date published: 2023-10-25T19:01:29.577878+00:00
- - user: None
- - tags: []
-
-## University of Houston
- - [https://uh.edu](https://uh.edu)
- - date published: 2023-10-25T19:01:32.158915+00:00
- - user: None
- - tags: ['university']
-
-## UIC today
- - [https://today.uic.edu](https://today.uic.edu)
- - date published: 2023-10-25T19:01:36.433328+00:00
- - user: None
- - tags: []
-
-## Yannick Meurice | The University of Iowa
- - [https://meurice.sites.uiowa.edu](https://meurice.sites.uiowa.edu)
- - date published: 2024-02-08T17:59:53.820467+00:00
- - user: None
- - tags: []
-
-## Iowa Now | The University of Iowa
- - [https://now.uiowa.edu](https://now.uiowa.edu)
- - date published: 2023-11-19T05:08:59.202397+00:00
- - user: None
- - tags: []
-
-## The Aggregate
- - [http://aggregate.ee.engr.uky.edu](http://aggregate.ee.engr.uky.edu)
- - date published: 2023-10-25T19:01:38.933454+00:00
- - user: None
- - tags: []
-
-## Family & Consumer Sciences Extension
- - [https://fcs-hes.ca.uky.edu](https://fcs-hes.ca.uky.edu)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | University of Kentucky College of Arts & Sciences
- - [https://wrd.as.uky.edu](https://wrd.as.uky.edu)
- - date published: 2023-10-25T19:01:42.368454+00:00
- - user: None
- - tags: []
-
-## Home | University of Kentucky Research
- - [https://www.research.uky.edu](https://www.research.uky.edu)
- - date published: 2024-03-07T18:28:27.352122+00:00
- - user: None
- - tags: []
-
-## UMass Amherst – Educational blogs from our community
- - [https://blogs.umass.edu](https://blogs.umass.edu)
- - date published: 2024-02-24T18:07:22.063916+00:00
- - user: None
- - tags: []
-
-## Department of Earth, Geographic, and Climate Sciences | Programs in Earth, Geographic, and Climate Sciences
- - [https://eclogite.geo.umass.edu](https://eclogite.geo.umass.edu)
- - date published: 2024-02-08T17:01:53.198569+00:00
- - user: None
- - tags: []
-
-## Manning College of Information and Computer Sciences | UMass Amherst
- - [https://web.cs.umass.edu](https://web.cs.umass.edu)
- - date published: 2023-10-25T19:01:52.332060+00:00
- - user: None
- - tags: []
-
-## Manning College of Information & Computer Sciences
- - [https://www.cics.umass.edu](https://www.cics.umass.edu)
- - date published: 2024-02-26T08:56:15.973474+00:00
- - user: None
- - tags: []
-
-## UMass Amherst
- - [https://www.umass.edu](https://www.umass.edu)
- - date published: 2023-10-25T19:01:54.548019+00:00
- - user: None
- - tags: []
-
-## UMass Chan Medical School
- - [https://www.umassmed.edu](https://www.umassmed.edu)
- - date published: 2024-01-05T12:16:22.119217+00:00
- - user: None
- - tags: []
-
-## Welcome To UMBC - UMBC: University Of Maryland, Baltimore County
- - [https://umbc.edu](https://umbc.edu)
- - date published: 2023-11-02T22:08:17.285186+00:00
  - user: None
  - tags: []
 

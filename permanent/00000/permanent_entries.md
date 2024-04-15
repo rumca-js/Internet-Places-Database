@@ -1252,6 +1252,12 @@
  - user: None
  - tags: []
 
+## Orifice.ai
+ - [https://orifice.ai](https://orifice.ai)
+ - date published: 2024-04-14T14:19:34+00:00
+ - user: None
+ - tags: []
+
 ## AI Content Checker and Plagiarism Check | GPT-4 | ChatGPT
  - [https://originality.ai](https://originality.ai)
  - date published: 2023-10-25T11:41:12.986427+00:00
@@ -1307,13 +1313,13 @@
  - tags: []
 
 ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## http://hello.pi.ai/
- - [http://hello.pi.ai](http://hello.pi.ai)
+ - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -3040,6 +3046,12 @@
  - user: None
  - tags: []
 
+## Show HN: I made a tool to clean and convert any webpage to Markdown
+ - [https://markdowndown.vercel.app](https://markdowndown.vercel.app)
+ - date published: 2024-04-14T19:03:58+00:00
+ - user: None
+ - tags: []
+
 ## Martin di Martino-Marriott | Front-end Web Developer, Nottingham
  - [https://martindm-uk.vercel.app](https://martindm-uk.vercel.app)
  - date published: 2024-01-07T17:48:29.845931+00:00
@@ -3719,16 +3731,16 @@
  - tags: []
 
 ## Now - Adam Ashton
- - [http://www.adamashton.com.au](http://www.adamashton.com.au)
- - date published: 2024-04-03T12:46:14.376541+00:00
- - user: None
- - tags: ['personal']
-
-## Now - Adam Ashton
  - [https://www.adamashton.com.au](https://www.adamashton.com.au)
  - date published: 2024-01-10T18:10:16.445630+00:00
  - user: None
  - tags: []
+
+## Now - Adam Ashton
+ - [http://www.adamashton.com.au](http://www.adamashton.com.au)
+ - date published: 2024-04-03T12:46:14.376541+00:00
+ - user: None
+ - tags: ['personal']
 
 ## 404 Not Found
  - [https://www.adelaidenow.com.au](https://www.adelaidenow.com.au)
@@ -3905,16 +3917,16 @@
  - tags: []
 
 ## Home
- - [http://kerrygrace.com.au](http://kerrygrace.com.au)
- - date published: 2024-04-03T06:27:02.750662+00:00
- - user: None
- - tags: ['personal']
-
-## Home
  - [https://kerrygrace.com.au](https://kerrygrace.com.au)
  - date published: 2024-01-09T21:36:51.535431+00:00
  - user: None
  - tags: []
+
+## Home
+ - [http://kerrygrace.com.au](http://kerrygrace.com.au)
+ - date published: 2024-04-03T06:27:02.750662+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Kotaku Australia | See Games Differently
  - [https://www.kotaku.com.au](https://www.kotaku.com.au)
@@ -4607,16 +4619,16 @@
  - tags: []
 
 ## Denny Wong - Learn, think, write and do.
- - [https://dewo.be](https://dewo.be)
- - date published: 2023-11-29T14:18:04.127765+00:00
- - user: None
- - tags: ['personal']
-
-## Denny Wong - Learn, think, write and do.
  - [http://dewo.be](http://dewo.be)
  - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Denny Wong - Learn, think, write and do.
+ - [https://dewo.be](https://dewo.be)
+ - date published: 2023-11-29T14:18:04.127765+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Dries Depoorter – artist and speaker working with technology 🔥
  - [https://driesdepoorter.be](https://driesdepoorter.be)
@@ -5984,18 +5996,6 @@
 ## Ruralômetro 2022 - Ferramenta ajuda a escolher deputados
  - [https://ruralometro2022.reporterbrasil.org.br](https://ruralometro2022.reporterbrasil.org.br)
  - date published: 2023-12-11T19:31:35.115572+00:00
- - user: None
- - tags: []
-
-## SHOUTcast Server
- - [https://nos.radio.br](https://nos.radio.br)
- - date published: 2017-08-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://www.bahamas.gov.bs
- - [https://www.bahamas.gov.bs](https://www.bahamas.gov.bs)
- - date published: 2024-02-08T17:59:29.118171+00:00
  - user: None
  - tags: []
 

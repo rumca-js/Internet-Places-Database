@@ -1,3 +1,21 @@
+## Nokia Bell Labs - Nokia Bell Labs
+ - [https://www.bell-labs.com](https://www.bell-labs.com)
+ - date published: 2023-10-25T12:56:49.854172+00:00
+ - user: None
+ - tags: []
+
+## Electric and Automatic Commercial Coffee Roaster | Bellwether Coffee
+ - [https://bellwethercoffee.com](https://bellwethercoffee.com)
+ - date published: 2023-10-25T12:56:52.055674+00:00
+ - user: None
+ - tags: []
+
+## Home - Belt Magazine
+ - [https://beltmag.com](https://beltmag.com)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Simplify Your Life
  - [https://bemorewithless.com](https://bemorewithless.com)
  - date published: 2023-12-29T20:11:42.020820+00:00
@@ -581,14 +599,14 @@
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [http://billingsgazette.com](http://billingsgazette.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://billingsgazette.com](https://billingsgazette.com)
+ - date published: 2023-12-17T18:30:53.119094+00:00
  - user: None
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [https://billingsgazette.com](https://billingsgazette.com)
- - date published: 2023-12-17T18:30:53.119094+00:00
+ - [http://billingsgazette.com](http://billingsgazette.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1667,16 +1685,16 @@
  - tags: ['personal']
 
 ## Database Architects
- - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
- - date published: 2023-10-25T09:08:09.774302+00:00
- - user: None
- - tags: ['personal']
-
-## Database Architects
  - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
  - date published: 2024-02-19T00:00:00+00:00
  - user: None
  - tags: []
+
+## Database Architects
+ - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
+ - date published: 2023-10-25T09:08:09.774302+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Data Finnovation
  - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
@@ -1907,16 +1925,16 @@
  - tags: []
 
 ## Information Processing
- - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
- - date published: 2023-10-25T09:09:06.318517+00:00
- - user: None
- - tags: ['personal']
-
-## Information Processing
  - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
  - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
+
+## Information Processing
+ - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
+ - date published: 2023-10-25T09:09:06.318517+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Development of the trilogy & IV
  - [https://insiderockstarnorth.blogspot.com](https://insiderockstarnorth.blogspot.com)
@@ -1973,14 +1991,14 @@
  - tags: []
 
 ## Kiwi Hellenist
- - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
+ - date published: 2023-11-28T20:46:36.488371+00:00
  - user: None
  - tags: []
 
 ## Kiwi Hellenist
- - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
- - date published: 2023-11-28T20:46:36.488371+00:00
+ - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2153,14 +2171,14 @@
  - tags: []
 
 ## Old Vintage Computing Research
- - [https://oldvcr.blogspot.com](https://oldvcr.blogspot.com)
- - date published: 2023-10-25T13:06:06.842647+00:00
+ - [http://oldvcr.blogspot.com](http://oldvcr.blogspot.com)
+ - date published: 2023-12-24T04:49:39.230080+00:00
  - user: None
  - tags: []
 
 ## Old Vintage Computing Research
- - [http://oldvcr.blogspot.com](http://oldvcr.blogspot.com)
- - date published: 2023-12-24T04:49:39.230080+00:00
+ - [https://oldvcr.blogspot.com](https://oldvcr.blogspot.com)
+ - date published: 2023-10-25T13:06:06.842647+00:00
  - user: None
  - tags: []
 
@@ -2337,6 +2355,12 @@
  - date published: 2024-04-03T06:38:53.475731+00:00
  - user: None
  - tags: ['personal']
+
+## The Little Engineer That Could
+ - [http://thelittleengineerthatcould.blogspot.com](http://thelittleengineerthatcould.blogspot.com)
+ - date published: 2024-04-13T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## The Little Engineer That Could
  - [https://thelittleengineerthatcould.blogspot.com](https://thelittleengineerthatcould.blogspot.com)
@@ -2717,14 +2741,14 @@
  - tags: []
 
 ## Bob Bertsch
- - [http://bobbertsch.com](http://bobbertsch.com)
- - date published: 2024-04-03T06:30:48.075523+00:00
+ - [https://bobbertsch.com](https://bobbertsch.com)
+ - date published: 2023-12-19T10:00:09.271295+00:00
  - user: None
  - tags: ['personal']
 
 ## Bob Bertsch
- - [https://bobbertsch.com](https://bobbertsch.com)
- - date published: 2023-12-19T10:00:09.271295+00:00
+ - [http://bobbertsch.com](http://bobbertsch.com)
+ - date published: 2024-04-03T06:30:48.075523+00:00
  - user: None
  - tags: ['personal']
 
@@ -2795,14 +2819,14 @@
  - tags: ['aviation', 'aerospace', 'avionics']
 
 ## Chris Aldrich | BoffoSocko
- - [http://boffosocko.com](http://boffosocko.com)
- - date published: 2024-02-26T14:52:14.236002+00:00
+ - [https://boffosocko.com](https://boffosocko.com)
+ - date published: 2024-01-02T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Chris Aldrich | BoffoSocko
- - [https://boffosocko.com](https://boffosocko.com)
- - date published: 2024-01-02T00:00:00+00:00
+ - [http://boffosocko.com](http://boffosocko.com)
+ - date published: 2024-02-26T14:52:14.236002+00:00
  - user: None
  - tags: []
 
@@ -4195,14 +4219,14 @@
  - tags: []
 
 ## Business Owners Success Club
- - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
- - date published: 8211-01-01T00:00:00+00:00
+ - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
+ - date published: 2024-04-03T06:24:35.974117+00:00
  - user: None
  - tags: ['personal']
 
 ## Business Owners Success Club
- - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
- - date published: 2024-04-03T06:24:35.974117+00:00
+ - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
+ - date published: 8211-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
@@ -5359,14 +5383,14 @@
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [http://sports.cctv.com](http://sports.cctv.com)
- - date published: 2024-03-21T02:07:49.559014+00:00
+ - [https://sports.cctv.com](https://sports.cctv.com)
+ - date published: 2023-12-09T12:18:44.730556+00:00
  - user: None
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [https://sports.cctv.com](https://sports.cctv.com)
- - date published: 2023-12-09T12:18:44.730556+00:00
+ - [http://sports.cctv.com](http://sports.cctv.com)
+ - date published: 2024-03-21T02:07:49.559014+00:00
  - user: None
  - tags: []
 
@@ -5979,30 +6003,6 @@
 ## chiaracokieng.com
  - [https://www.chiaracokieng.com](https://www.chiaracokieng.com)
  - date published: 2024-01-10T23:52:41.513399+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://chicagocrusader.com](https://chicagocrusader.com)
- - date published: 2024-01-06T04:56:24.963086+00:00
- - user: None
- - tags: []
-
-## Chicago Hypnosis and Hypnotherapy of Northbrook & Buffalo Grove - Welcome
- - [http://chicago-hypnosis.com](http://chicago-hypnosis.com)
- - date published: 2024-04-03T12:42:10.512435+00:00
- - user: None
- - tags: ['personal']
-
-## Chicago Magazine
- - [https://www.chicagomag.com](https://www.chicagomag.com)
- - date published: 2023-10-25T13:21:56.030020+00:00
- - user: None
- - tags: []
-
-## Chicago Public Square
- - [https://www.chicagopublicsquare.com](https://www.chicagopublicsquare.com)
- - date published: 2024-03-12T17:41:37.700789+00:00
  - user: None
  - tags: []
 

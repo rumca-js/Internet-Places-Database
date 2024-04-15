@@ -1,3 +1,195 @@
+## Center for Economic and Policy Research -
+ - [https://cepr.net](https://cepr.net)
+ - date published: 2023-10-25T20:27:25.290529+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Cerebras
+ - [https://www.cerebras.net](https://www.cerebras.net)
+ - date published: 2023-10-25T20:27:33.645111+00:00
+ - user: None
+ - tags: []
+
+## The cfarm compile farm project
+ - [https://portal.cfarm.net](https://portal.cfarm.net)
+ - date published: 2023-12-10T19:31:41+00:00
+ - user: None
+ - tags: []
+
+## Gaurav Chandrashekar
+ - [https://cggaurav.net](https://cggaurav.net)
+ - date published: 2023-12-20T00:58:27.977592+00:00
+ - user: None
+ - tags: ['personal']
+
+## Chad‚Äôs blog
+ - [https://chadmoore.net](https://chadmoore.net)
+ - date published: 2024-04-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## chair6.net
+ - [https://chair6.net](https://chair6.net)
+ - date published: 2023-10-25T20:27:34.720205+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Checkmate Champ – a training tool for chess tactics
+ - [https://www.checkmatechamp.net](https://www.checkmatechamp.net)
+ - date published: 2024-01-20T20:41:59+00:00
+ - user: None
+ - tags: []
+
+## Dave Cheney | The acme of foolishness
+ - [https://dave.cheney.net](https://dave.cheney.net)
+ - date published: 2023-11-05T13:31:03.029366+00:00
+ - user: None
+ - tags: []
+
+## Chiara Girardelli | Full stack developer and consultant
+ - [https://www.chiaragirardelli.net](https://www.chiaragirardelli.net)
+ - date published: 2024-01-09T03:35:16.952482+00:00
+ - user: None
+ - tags: []
+
+## Chiara Pasquini
+ - [https://chiarapasquini.net](https://chiarapasquini.net)
+ - date published: 2023-11-29T16:21:37.244497+00:00
+ - user: None
+ - tags: ['personal']
+
+## China Dialogue | China environment and climate news
+ - [https://chinadialogue.net](https://chinadialogue.net)
+ - date published: 2023-10-25T10:55:40.772242+00:00
+ - user: None
+ - tags: ['china news']
+
+## Adam Chlipala
+ - [http://adam.chlipala.net](http://adam.chlipala.net)
+ - date published: 2023-10-25T20:27:36.669215+00:00
+ - user: None
+ - tags: []
+
+## About me
+ - [https://chojecki.net](https://chojecki.net)
+ - date published: 2024-04-03T06:27:35.420864+00:00
+ - user: None
+ - tags: ['personal']
+
+## Chris Coyier – Web craftsman, blogger, author, speaker.
+ - [https://chriscoyier.net](https://chriscoyier.net)
+ - date published: 2023-10-25T20:27:38.910964+00:00
+ - user: None
+ - tags: []
+
+## Christian Christiansen.
+ - [https://christianchristiansen.net](https://christianchristiansen.net)
+ - date published: 2024-03-24T11:12:15.811695+00:00
+ - user: None
+ - tags: ['personal']
+
+## Christopher Nolan Fans - What Can We Learn from Him
+ - [https://www.christophernolan.net](https://www.christophernolan.net)
+ - date published: 2023-11-13T12:51:35.108400+00:00
+ - user: None
+ - tags: ['movies']
+
+## Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite
+ - [https://chyrplite.net](https://chyrplite.net)
+ - date published: 2024-03-12T20:36:36+00:00
+ - user: None
+ - tags: []
+
+## Clawhammer
+ - [https://social.clawhammer.net](https://social.clawhammer.net)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CLiki: the common lisp wiki
+ - [https://www.cliki.net](https://www.cliki.net)
+ - date published: 2023-10-25T20:27:45.899688+00:00
+ - user: None
+ - tags: []
+
+## Watching the World Go Bye – Eliot Jacobson's Collapse of Everything Blog
+ - [https://climatecasino.net](https://climatecasino.net)
+ - date published: 2023-10-25T20:27:48.329723+00:00
+ - user: None
+ - tags: []
+
+## climateprediction.net | The world's largest climate modelling experiment for the 21st century
+ - [https://www.climateprediction.net](https://www.climateprediction.net)
+ - date published: 2023-10-25T20:27:56.776773+00:00
+ - user: None
+ - tags: ['climate change']
+
+## CloudTabs
+ - [https://browse.cloudtabs.net](https://browse.cloudtabs.net)
+ - date published: 2024-04-04T17:01:43.196566+00:00
+ - user: None
+ - tags: []
+
+## cmyr.net
+ - [https://www.cmyr.net](https://www.cmyr.net)
+ - date published: 2023-10-25T20:27:57.868244+00:00
+ - user: None
+ - tags: []
+
+## cmyr.net
+ - [http://www.cmyr.net](http://www.cmyr.net)
+ - date published: 2024-02-26T14:49:26.885827+00:00
+ - user: None
+ - tags: []
+
+## Codebox Software
+ - [https://codebox.net](https://codebox.net)
+ - date published: 2024-04-06T08:54:47.943068+00:00
+ - user: None
+ - tags: []
+
+## Home - Colin McGinn
+ - [https://www.colinmcginn.net](https://www.colinmcginn.net)
+ - date published: 2023-12-09T06:19:16.060955+00:00
+ - user: None
+ - tags: []
+
+## Colin McLear
+ - [https://www.colinmclear.net](https://www.colinmclear.net)
+ - date published: 2023-10-25T08:52:10.955172+00:00
+ - user: None
+ - tags: ['personal']
+
+## Bienvenue – colin@colino.net
+ - [https://www.colino.net](https://www.colino.net)
+ - date published: 2023-10-25T20:27:59.680602+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Common-Lisp.net!
+ - [https://common-lisp.net](https://common-lisp.net)
+ - date published: 2022-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## WWW.COMMORADIO.NET - Authentic sound of Commodore 64 and Commodore Amiga
+ - [https://www.commoradio.net](https://www.commoradio.net)
+ - date published: 2024-02-15T22:15:06.873499+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Conal Elliott's home page
+ - [http://conal.net](http://conal.net)
+ - date published: 2023-10-25T20:28:06.492345+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://cdn.confiant-integrations.net](https://cdn.confiant-integrations.net)
+ - date published: 2024-01-09T03:35:17.410844+00:00
+ - user: None
+ - tags: []
+
 ## All posts
  - [https://conorbroderick.net](https://conorbroderick.net)
  - date published: 2023-10-25T09:00:18.327557+00:00
@@ -148,15 +340,15 @@
  - user: None
  - tags: []
 
-## Sergiu's Homepage - Hi! I'm Sergiu Calborean.
- - [http://www.csergiu.net](http://www.csergiu.net)
- - date published: 2016-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
 ## None
  - [https://www.csergiu.net](https://www.csergiu.net)
  - date published: 2023-12-31T13:22:46.078902+00:00
+ - user: None
+ - tags: []
+
+## Sergiu's Homepage - Hi! I'm Sergiu Calborean.
+ - [http://www.csergiu.net](http://www.csergiu.net)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -431,14 +623,14 @@
  - tags: []
 
 ## Shen DeShayne
- - [http://shen.deshayne.net](http://shen.deshayne.net)
- - date published: 2024-04-03T06:25:24.475530+00:00
+ - [https://shen.deshayne.net](https://shen.deshayne.net)
+ - date published: 2023-11-29T14:24:51.956102+00:00
  - user: None
  - tags: ['personal']
 
 ## Shen DeShayne
- - [https://shen.deshayne.net](https://shen.deshayne.net)
- - date published: 2023-11-29T14:24:51.956102+00:00
+ - [http://shen.deshayne.net](http://shen.deshayne.net)
+ - date published: 2024-04-03T06:25:24.475530+00:00
  - user: None
  - tags: ['personal']
 
@@ -1481,14 +1673,14 @@
  - tags: []
 
 ## HEXUS.net - Definitive Technology News and Reviews
- - [http://hexus.net](http://hexus.net)
- - date published: 2024-02-25T20:35:33.294351+00:00
+ - [https://hexus.net](https://hexus.net)
+ - date published: 2023-10-25T20:31:28.683808+00:00
  - user: None
  - tags: []
 
 ## HEXUS.net - Definitive Technology News and Reviews
- - [https://hexus.net](https://hexus.net)
- - date published: 2023-10-25T20:31:28.683808+00:00
+ - [http://hexus.net](http://hexus.net)
+ - date published: 2024-02-25T20:35:33.294351+00:00
  - user: None
  - tags: []
 
@@ -1606,15 +1798,15 @@
  - user: None
  - tags: []
 
-## Home – iA
- - [https://ia.net](https://ia.net)
- - date published: 2023-10-25T20:31:41.939052+00:00
- - user: None
- - tags: []
-
 ## iA - Home
  - [http://ia.net](http://ia.net)
  - date published: 2024-02-26T14:54:49.326176+00:00
+ - user: None
+ - tags: []
+
+## Home – iA
+ - [https://ia.net](https://ia.net)
+ - date published: 2023-10-25T20:31:41.939052+00:00
  - user: None
  - tags: []
 
@@ -2164,15 +2356,15 @@
  - user: None
  - tags: ['personal']
 
-## None
- - [http://knowledgebottle.net](http://knowledgebottle.net)
- - date published: 2024-02-29T12:14:03.250410+00:00
- - user: None
- - tags: []
-
 ## http://knowledgebottle.net
  - [https://knowledgebottle.net](https://knowledgebottle.net)
  - date published: 2024-01-27T06:34:46.775964+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://knowledgebottle.net](http://knowledgebottle.net)
+ - date published: 2024-02-29T12:14:03.250410+00:00
  - user: None
  - tags: []
 
@@ -3197,15 +3389,15 @@
  - user: None
  - tags: []
 
-## Site not found · DreamHost
- - [https://www.naylandblake.net](https://www.naylandblake.net)
- - date published: 2024-01-11T07:53:05.911668+00:00
- - user: None
- - tags: ['personal']
-
 ## naylandblake.net
  - [http://www.naylandblake.net](http://www.naylandblake.net)
  - date published: 2024-04-03T06:27:17.544507+00:00
+ - user: None
+ - tags: ['personal']
+
+## Site not found · DreamHost
+ - [https://www.naylandblake.net](https://www.naylandblake.net)
+ - date published: 2024-01-11T07:53:05.911668+00:00
  - user: None
  - tags: ['personal']
 
@@ -4359,14 +4551,14 @@
  - tags: []
 
 ## Russ Bishop
- - [http://russbishop.net](http://russbishop.net)
- - date published: 2024-02-26T12:47:27.767429+00:00
+ - [https://russbishop.net](https://russbishop.net)
+ - date published: 2024-01-09T03:36:09.716665+00:00
  - user: None
  - tags: []
 
 ## Russ Bishop
- - [https://russbishop.net](https://russbishop.net)
- - date published: 2024-01-09T03:36:09.716665+00:00
+ - [http://russbishop.net](http://russbishop.net)
+ - date published: 2024-02-26T12:47:27.767429+00:00
  - user: None
  - tags: []
 
@@ -4377,14 +4569,14 @@
  - tags: ['substack']
 
 ## Writing | Ryan Glover
- - [https://www.ryanglover.net](https://www.ryanglover.net)
- - date published: 2021-01-01T00:00:00+00:00
+ - [http://www.ryanglover.net](http://www.ryanglover.net)
+ - date published: 2024-04-03T12:42:51.044178+00:00
  - user: None
  - tags: ['personal']
 
 ## Writing | Ryan Glover
- - [http://www.ryanglover.net](http://www.ryanglover.net)
- - date published: 2024-04-03T12:42:51.044178+00:00
+ - [https://www.ryanglover.net](https://www.ryanglover.net)
+ - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
@@ -4431,16 +4623,16 @@
  - tags: []
 
 ## Savage Pink
- - [http://www.savagepink.net](http://www.savagepink.net)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Savage Pink
  - [https://www.savagepink.net](https://www.savagepink.net)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
+
+## Savage Pink
+ - [http://www.savagepink.net](http://www.savagepink.net)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## SentenceTransformers Documentation — Sentence-Transformers  documentation
  - [https://www.sbert.net](https://www.sbert.net)
@@ -4455,16 +4647,16 @@
  - tags: ['personal']
 
 ## Welcome - Nectarine
- - [http://scenestream.net](http://scenestream.net)
- - date published: 2024-02-15T22:05:35.556226+00:00
- - user: None
- - tags: ['demoscene']
-
-## Welcome - Nectarine
  - [https://scenestream.net](https://scenestream.net)
  - date published: 2024-04-09T07:38:04+00:00
  - user: rumpel
  - tags: ['keygen', 'chiptune', 'demoscene', 'radio']
+
+## Welcome - Nectarine
+ - [http://scenestream.net](http://scenestream.net)
+ - date published: 2024-02-15T22:05:35.556226+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Welcome - Nectarine
  - [https://www.scenestream.net](https://www.scenestream.net)
@@ -4893,16 +5085,16 @@
  - tags: []
 
 ## Compare, Download & Develop Open Source & Business Software - SourceForge
- - [https://sourceforge.net](https://sourceforge.net)
- - date published: 2023-10-25T08:41:02.286459+00:00
- - user: rumpel
- - tags: ['software platform', 'open source']
-
-## Compare, Download & Develop Open Source & Business Software - SourceForge
  - [http://sourceforge.net](http://sourceforge.net)
  - date published: 2024-02-26T13:07:23.973035+00:00
  - user: None
  - tags: []
+
+## Compare, Download & Develop Open Source & Business Software - SourceForge
+ - [https://sourceforge.net](https://sourceforge.net)
+ - date published: 2023-10-25T08:41:02.286459+00:00
+ - user: rumpel
+ - tags: ['software platform', 'open source']
 
 ## Thinking Forth
  - [https://thinking-forth.sourceforge.net](https://thinking-forth.sourceforge.net)
@@ -5403,13 +5595,13 @@
  - tags: ['rss reader', 'email client']
 
 ## Hello World_
- - [http://tianglim.net](http://tianglim.net)
+ - [https://tianglim.net](https://tianglim.net)
  - date published: 2024-01-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Hello World_
- - [https://tianglim.net](https://tianglim.net)
+ - [http://tianglim.net](http://tianglim.net)
  - date published: 2024-01-06T00:00:00+00:00
  - user: None
  - tags: []
@@ -5809,196 +6001,4 @@
  - date published: 2023-10-25T20:40:02.582018+00:00
  - user: None
  - tags: []
-
-## vladh's microblog
- - [https://microblog.vladh.net](https://microblog.vladh.net)
- - date published: 2023-10-25T09:23:38.370223+00:00
- - user: None
- - tags: ['personal']
-
-## Vlad Iliescu
- - [https://vladiliescu.net](https://vladiliescu.net)
- - date published: 2023-10-25T09:00:57.859909+00:00
- - user: None
- - tags: ['personal']
-
-## Stefan Hajnoczi
- - [https://blog.vmsplice.net](https://blog.vmsplice.net)
- - date published: 2024-01-03T01:08:14.621014+00:00
- - user: None
- - tags: []
-
-## Stefan Hajnoczi
- - [http://blog.vmsplice.net](http://blog.vmsplice.net)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## voussoir.net
- - [https://voussoir.net](https://voussoir.net)
- - date published: 2014-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## vslira's blog
- - [https://blog.vslira.net](https://blog.vslira.net)
- - date published: 2023-10-25T09:23:40.989576+00:00
- - user: None
- - tags: ['personal']
-
-## About VUSec - vusec
- - [https://download.vusec.net](https://download.vusec.net)
- - date published: 2023-10-25T20:40:04.401939+00:00
- - user: None
- - tags: []
-
-## About VUSec - vusec
- - [https://www.vusec.net](https://www.vusec.net)
- - date published: 2024-03-15T21:51:48.973747+00:00
- - user: None
- - tags: []
-
-## Wargames Illustrated - Home
- - [https://www.wargamesillustrated.net](https://www.wargamesillustrated.net)
- - date published: 2023-11-01T18:45:51.294813+00:00
- - user: None
- - tags: ['wargames', 'tabletop games']
-
-## Wargaming.net games — the full list of games available for players on the official website
- - [https://wargaming.net](https://wargaming.net)
- - date published: 2024-01-24T17:44:17+00:00
- - user: rumpel
- - tags: ['master of orion', 'world of tanks']
-
-## Home
- - [https://aphextwin.warp.net](https://aphextwin.warp.net)
- - date published: 2024-01-30T14:52:17+00:00
- - user: rumpel
- - tags: ['music band']
-
-## Warsow
- - [https://warsow.net](https://warsow.net)
- - date published: 2023-10-29T13:03:28.304457+00:00
- - user: None
- - tags: ['quake', 'open source', 'game']
-
-## Watch The Watchers
- - [https://watchthewatchers.net](https://watchthewatchers.net)
- - date published: 2023-10-25T20:40:05.454416+00:00
- - user: None
- - tags: []
-
-## Wax: The Word Processor for the Web
- - [https://waxjs.net](https://waxjs.net)
- - date published: 2024-02-26T22:50:50+00:00
- - user: None
- - tags: []
-
-## https://web.wctel.net
- - [https://web.wctel.net](https://web.wctel.net)
- - date published: 2024-02-08T22:05:43.346330+00:00
- - user: None
- - tags: []
-
-## webfft.github.io
- - [https://webfft.net](https://webfft.net)
- - date published: 2023-10-25T20:40:06.019612+00:00
- - user: None
- - tags: []
-
-## Webrecorder
- - [https://webrecorder.net](https://webrecorder.net)
- - date published: 2023-10-25T20:40:07.346760+00:00
- - user: None
- - tags: []
-
-## webtrees
- - [https://webtrees.net](https://webtrees.net)
- - date published: 2024-04-08T19:31:20.793649+00:00
- - user: None
- - tags: []
-
-## Well Ordered Wiki
- - [https://wiki.wellorder.net](https://wiki.wellorder.net)
- - date published: 2023-10-25T20:40:09.598022+00:00
- - user: None
- - tags: []
-
-## Wesley Moore
- - [https://www.wezm.net](https://www.wezm.net)
- - date published: 2024-02-19T23:18:25.941945+00:00
- - user: None
- - tags: []
-
-## Whale Lines - Always Be Orienting and may Fate find us Prepared and Active.
- - [https://whalelines.net](https://whalelines.net)
- - date published: 2024-02-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | WhiteHoodHacker
- - [https://whitehoodhacker.net](https://whitehoodhacker.net)
- - date published: 2023-10-25T20:40:11.671154+00:00
- - user: None
- - tags: []
-
-## Wicked Engine – 3D engine with modern graphics
- - [https://wickedengine.net](https://wickedengine.net)
- - date published: 2023-10-25T20:40:16.013864+00:00
- - user: None
- - tags: []
-
-## Wifx IoT - Professional indoor and outdoor LoRaWAN® IoT gateways
- - [https://iot.wifx.net](https://iot.wifx.net)
- - date published: 2022-06-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## WiGLE: Wireless Network Mapping
- - [https://wigle.net](https://wigle.net)
- - date published: 2024-02-26T14:32:42.119901+00:00
- - user: None
- - tags: []
-
-## WiGLE: Wireless Network Mapping
- - [https://www.wigle.net](https://www.wigle.net)
- - date published: 2023-10-25T20:40:18.661378+00:00
- - user: None
- - tags: []
-
-## Wikimedia Status
- - [https://www.wikimediastatus.net](https://www.wikimediastatus.net)
- - date published: 2023-10-25T20:40:20.841816+00:00
- - user: None
- - tags: []
-
-## Jan Wildeboer’s Blog
- - [https://jan.wildeboer.net](https://jan.wildeboer.net)
- - date published: 2023-10-25T08:54:15.941153+00:00
- - user: None
- - tags: ['personal']
-
-## social.wildeboer.net
- - [https://social.wildeboer.net](https://social.wildeboer.net)
- - date published: 2023-10-25T20:40:22.649243+00:00
- - user: None
- - tags: []
-
-## Will Crichton
- - [https://willcrichton.net](https://willcrichton.net)
- - date published: 2023-11-01T08:44:06.806218+00:00
- - user: None
- - tags: []
-
-## Will Richardson
- - [https://willhbr.net](https://willhbr.net)
- - date published: 2024-01-27T08:43:30.630612+00:00
- - user: None
- - tags: []
-
-## William Colgan, Ph.D.
- - [https://williamcolgan.net](https://williamcolgan.net)
- - date published: 2023-10-25T20:40:24.776417+00:00
- - user: None
- - tags: ['personal']
 
