@@ -1,3 +1,165 @@
+## Home | Mia
+ - [https://mia.perfil.com](https://mia.perfil.com)
+ - date published: 2024-01-09T02:46:21.202546+00:00
+ - user: None
+ - tags: []
+
+## Entender cambia la vida | Noticias
+ - [https://noticias.perfil.com](https://noticias.perfil.com)
+ - date published: 2023-12-12T08:11:22.772537+00:00
+ - user: None
+ - tags: []
+
+## Home | Parabrisas
+ - [https://parabrisas.perfil.com](https://parabrisas.perfil.com)
+ - date published: 2024-01-09T02:46:25.615174+00:00
+ - user: None
+ - tags: []
+
+## Supercampo | Perfil.com
+ - [https://supercampo.perfil.com](https://supercampo.perfil.com)
+ - date published: 2024-01-09T02:46:30.075147+00:00
+ - user: None
+ - tags: []
+
+## Home | Weekend
+ - [https://weekend.perfil.com](https://weekend.perfil.com)
+ - date published: 2023-12-12T08:13:14.768938+00:00
+ - user: None
+ - tags: []
+
+## Perfil | Ultimas noticias de Argentina y el mundo
+ - [https://www.perfil.com](https://www.perfil.com)
+ - date published: 2023-12-12T08:11:12.321772+00:00
+ - user: None
+ - tags: ['argentina news']
+
+## https://player.performgroup.com
+ - [https://player.performgroup.com](https://player.performgroup.com)
+ - date published: 2023-12-12T08:11:33.040293+00:00
+ - user: None
+ - tags: []
+
+## Web Performance Calendar » 2022
+ - [https://calendar.perfplanet.com](https://calendar.perfplanet.com)
+ - date published: 2023-10-25T16:33:00.123109+00:00
+ - user: None
+ - tags: []
+
+## Periodic Table of Tools
+ - [https://periodictableoftools.com](https://periodictableoftools.com)
+ - date published: 2023-11-26T13:56:09.113605+00:00
+ - user: None
+ - tags: []
+
+## React App
+ - [https://info.perjesi.com](https://info.perjesi.com)
+ - date published: 2024-01-19T17:20:09.592216+00:00
+ - user: None
+ - tags: []
+
+## Permission Slip by CR
+ - [https://permissionslipcr.com](https://permissionslipcr.com)
+ - date published: 2023-10-25T16:33:04.167505+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://cdn.permutive.com](https://cdn.permutive.com)
+ - date published: 2024-01-09T02:46:30.830674+00:00
+ - user: None
+ - tags: []
+
+## Perrett Laver: Vacancies
+ - [https://candidates.perrettlaver.com](https://candidates.perrettlaver.com)
+ - date published: 2023-10-25T16:33:07.284281+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://blog.perrysun.com](https://blog.perrysun.com)
+ - date published: 2024-01-09T02:46:32.016185+00:00
+ - user: None
+ - tags: []
+
+## The Voice of the Martyrs
+ - [https://www.persecution.com](https://www.persecution.com)
+ - date published: 2023-11-27T12:15:11+00:00
+ - user: rumpel
+ - tags: ['persecution', 'religion', 'christianity']
+
+## Jobs at Bloop AI Limited
+ - [https://bloop.jobs.personio.com](https://bloop.jobs.personio.com)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## PerThirtySix
+ - [https://perthirtysix.com](https://perthirtysix.com)
+ - date published: 2023-10-25T16:33:09.219386+00:00
+ - user: None
+ - tags: []
+
+## PerThirtySix
+ - [https://www.perthirtysix.com](https://www.perthirtysix.com)
+ - date published: 2023-10-25T16:33:11.230738+00:00
+ - user: None
+ - tags: []
+
+## Home - PESTEC Germany
+ - [https://www.pes-tec.com](https://www.pes-tec.com)
+ - date published: 1981-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## PESTE
+ - [https://www.pestemag.com](https://www.pestemag.com)
+ - date published: 2023-10-25T16:33:12.996870+00:00
+ - user: None
+ - tags: []
+
+## PetaPixel | Photography and Camera News, Reviews, and Inspiration
+ - [https://petapixel.com](https://petapixel.com)
+ - date published: 2023-10-25T10:14:49.031072+00:00
+ - user: None
+ - tags: []
+
+## Petar Bojinov
+ - [https://petarbojinov.com](https://petarbojinov.com)
+ - date published: 2023-11-29T14:41:28.119293+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://petargyurov.com](https://petargyurov.com)
+ - date published: 2024-01-14T13:41:13.321383+00:00
+ - user: None
+ - tags: []
+
+## Pete Ashton's website
+ - [https://peteashton.com](https://peteashton.com)
+ - date published: 2020-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pete Freitag - ColdFusion, Java & Web Blog
+ - [https://www.petefreitag.com](https://www.petefreitag.com)
+ - date published: 2023-11-12T00:21:12.930083+00:00
+ - user: None
+ - tags: []
+
+## Pete Millspaugh
+ - [https://www.petemillspaugh.com](https://www.petemillspaugh.com)
+ - date published: 2023-11-04T01:47:29.221107+00:00
+ - user: None
+ - tags: []
+
+## Home - Peter Attia
+ - [https://peterattiamd.com](https://peterattiamd.com)
+ - date published: 2023-10-25T16:33:17.835551+00:00
+ - user: None
+ - tags: []
+
 ## Peterbe.com - Stuff in Peter's head
  - [https://www.peterbe.com](https://www.peterbe.com)
  - date published: 2023-10-25T16:33:20.306318+00:00
@@ -149,13 +311,13 @@
  - tags: []
 
 ## Paul's Dev Notes
- - [http://www.pfrazee.com](http://www.pfrazee.com)
+ - [https://www.pfrazee.com](https://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Paul's Dev Notes
- - [https://www.pfrazee.com](https://www.pfrazee.com)
+ - [http://www.pfrazee.com](http://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -209,14 +371,14 @@
  - tags: ['music band', 'music artist']
 
 ## Phil D.
- - [http://phildenman.com](http://phildenman.com)
- - date published: 2024-04-03T06:25:43.319001+00:00
+ - [https://phildenman.com](https://phildenman.com)
+ - date published: 2023-12-27T23:55:08.862914+00:00
  - user: None
  - tags: ['personal']
 
 ## Phil D.
- - [https://phildenman.com](https://phildenman.com)
- - date published: 2023-12-27T23:55:08.862914+00:00
+ - [http://phildenman.com](http://phildenman.com)
+ - date published: 2024-04-03T06:25:43.319001+00:00
  - user: None
  - tags: ['personal']
 
@@ -422,14 +584,14 @@
  - tags: []
 
 ## phpied.com
- - [https://www.phpied.com](https://www.phpied.com)
- - date published: 2024-01-15T05:45:17.624527+00:00
+ - [http://www.phpied.com](http://www.phpied.com)
+ - date published: 2024-03-24T15:05:52.476257+00:00
  - user: None
  - tags: []
 
 ## phpied.com
- - [http://www.phpied.com](http://www.phpied.com)
- - date published: 2024-03-24T15:05:52.476257+00:00
+ - [https://www.phpied.com](https://www.phpied.com)
+ - date published: 2024-01-15T05:45:17.624527+00:00
  - user: None
  - tags: []
 
@@ -1316,14 +1478,14 @@
  - tags: []
 
 ## De Angela L. Duff
- - [https://www.polishedsolid.com](https://www.polishedsolid.com)
- - date published: 2023-12-20T11:44:35.174499+00:00
+ - [http://www.polishedsolid.com](http://www.polishedsolid.com)
+ - date published: 2023-12-23T02:59:58.572062+00:00
  - user: None
  - tags: ['personal']
 
 ## De Angela L. Duff
- - [http://www.polishedsolid.com](http://www.polishedsolid.com)
- - date published: 2023-12-23T02:59:58.572062+00:00
+ - [https://www.polishedsolid.com](https://www.polishedsolid.com)
+ - date published: 2023-12-20T11:44:35.174499+00:00
  - user: None
  - tags: ['personal']
 
@@ -1376,13 +1538,13 @@
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -2678,14 +2840,14 @@
  - tags: []
 
 ## Pushbullet Blog
- - [http://blog.pushbullet.com](http://blog.pushbullet.com)
- - date published: 2022-01-01T00:00:00+00:00
+ - [https://blog.pushbullet.com](https://blog.pushbullet.com)
+ - date published: 2023-10-25T16:42:28.991402+00:00
  - user: None
  - tags: []
 
 ## Pushbullet Blog
- - [https://blog.pushbullet.com](https://blog.pushbullet.com)
- - date published: 2023-10-25T16:42:28.991402+00:00
+ - [http://blog.pushbullet.com](http://blog.pushbullet.com)
+ - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2892,6 +3054,30 @@
  - date published: 2023-12-11T10:53:25+00:00
  - user: rumpel
  - tags: ['rss reader']
+
+## Portal serwisowy - QNAP
+ - [https://service.qnap.com](https://service.qnap.com)
+ - date published: 2024-04-15T19:53:58+00:00
+ - user: rumpel
+ - tags: []
+
+## QNAP Software Store
+ - [https://software.qnap.com](https://software.qnap.com)
+ - date published: 2024-04-15T19:54:35+00:00
+ - user: rumpel
+ - tags: []
+
+## QNAP Online Store USA
+ - [https://store.qnap.com](https://store.qnap.com)
+ - date published: 2024-04-15T19:54:20+00:00
+ - user: rumpel
+ - tags: []
+
+## Serwery NAS firmy QNAP - oficjalna strona w Polsce (NAS)
+ - [https://www.qnap.com](https://www.qnap.com)
+ - date published: 2024-04-15T19:53:09+00:00
+ - user: rumpel
+ - tags: ['nas drives']
 
 ## Q R P e r | QRP radios, product announcements, reviews, news and more. Low power amateur radio fun!
  - [https://qrper.com](https://qrper.com)
@@ -3276,14 +3462,14 @@
  - tags: []
 
 ## rachelbythebay
- - [https://rachelbythebay.com](https://rachelbythebay.com)
- - date published: 2023-10-25T08:47:38.309860+00:00
+ - [http://rachelbythebay.com](http://rachelbythebay.com)
+ - date published: 2024-03-25T10:02:53.023235+00:00
  - user: None
  - tags: ['personal']
 
 ## rachelbythebay
- - [http://rachelbythebay.com](http://rachelbythebay.com)
- - date published: 2024-03-25T10:02:53.023235+00:00
+ - [https://rachelbythebay.com](https://rachelbythebay.com)
+ - date published: 2023-10-25T08:47:38.309860+00:00
  - user: None
  - tags: ['personal']
 
@@ -3605,6 +3791,12 @@ More!
  - date published: 2024-02-19T02:39:12+00:00
  - user: None
  - tags: []
+
+## Innovate Everywhere
+ - [https://rancher.com](https://rancher.com)
+ - date published: 2024-04-15T07:59:13.852090+00:00
+ - user: None
+ - tags: ['kubernetes']
 
 ## Innovate Everywhere
  - [https://www.rancher.com](https://www.rancher.com)
@@ -4051,14 +4243,14 @@ More!
  - tags: ['company']
 
 ## Home | Realms of Despair
- - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
- - date published: 2024-03-27T20:46:33.188949+00:00
+ - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:52:28.838514+00:00
  - user: None
  - tags: ['mud game']
 
 ## Home | Realms of Despair
- - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
- - date published: 2024-03-27T20:52:28.838514+00:00
+ - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:46:33.188949+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5437,16 +5629,16 @@ More!
  - tags: []
 
 ## Ken Shirriff's blog
- - [http://www.righto.com](http://www.righto.com)
- - date published: 2024-02-25T00:44:48.796985+00:00
- - user: None
- - tags: []
-
-## Ken Shirriff's blog
  - [https://www.righto.com](https://www.righto.com)
  - date published: 2023-10-25T16:51:33.313104+00:00
  - user: None
  - tags: ['blog', 'personal']
+
+## Ken Shirriff's blog
+ - [http://www.righto.com](http://www.righto.com)
+ - date published: 2024-02-25T00:44:48.796985+00:00
+ - user: None
+ - tags: []
 
 ## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
  - [https://www.rigzone.com](https://www.rigzone.com)
@@ -5813,196 +6005,4 @@ More!
  - date published: 2023-10-30T18:59:37.293132+00:00
  - user: None
  - tags: []
-
-## Roberts Space Industries | Follow the development of Star Citizen and Squadron 42
- - [https://robertsspaceindustries.com](https://robertsspaceindustries.com)
- - date published: 2023-10-25T16:52:40.913384+00:00
- - user: None
- - tags: []
-
-## Robert Wojciechowski - 3D Motion Designer & Art Director
- - [https://robertvoy.com](https://robertvoy.com)
- - date published: 2023-11-29T17:09:42.313119+00:00
- - user: None
- - tags: ['personal']
-
-## Robert Pearce
- - [https://robertwpearce.com](https://robertwpearce.com)
- - date published: 2023-10-25T16:52:43.442261+00:00
- - user: None
- - tags: []
-
-## Rob Esposito
- - [https://robesposito.com](https://robesposito.com)
- - date published: 2024-01-05T21:36:20.934744+00:00
- - user: None
- - tags: []
-
-## Redirecting…
- - [https://robhaisfield.com](https://robhaisfield.com)
- - date published: 2023-10-25T16:52:48.799236+00:00
- - user: None
- - tags: []
-
-## robinharford.com
- - [https://robinharford.com](https://robinharford.com)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## robinharford.com
- - [https://www.robinharford.com](https://www.robinharford.com)
- - date published: 2024-01-11T02:12:42.593479+00:00
- - user: None
- - tags: []
-
-## GB Renewables Map
- - [https://renewables-map.robinhawkes.com](https://renewables-map.robinhawkes.com)
- - date published: 2023-10-25T16:52:49.273771+00:00
- - user: None
- - tags: []
-
-## Robin Linacre's blog
- - [https://www.robinlinacre.com](https://www.robinlinacre.com)
- - date published: 2023-10-25T16:52:50.526236+00:00
- - user: None
- - tags: []
-
-## Robin Métral
- - [https://robinmetral.com](https://robinmetral.com)
- - date published: 2023-10-25T16:52:51.045669+00:00
- - user: None
- - tags: []
-
-## Robin Rendle — Designer and writer.
- - [https://robinrendle.com](https://robinrendle.com)
- - date published: 2024-03-24T17:45:23+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Robin Rendle — Designer and writer.
- - [https://www.robinrendle.com](https://www.robinrendle.com)
- - date published: 2023-10-25T16:52:55.330889+00:00
- - user: None
- - tags: []
-
-## Robin Sloan
- - [https://www.robinsloan.com](https://www.robinsloan.com)
- - date published: 2023-10-25T16:52:56.469800+00:00
- - user: None
- - tags: []
-
-## Welcome to Hands-on Heritage! - Hands-on Heritage
- - [https://robinvanauken.com](https://robinvanauken.com)
- - date published: 2024-01-09T02:48:10.021665+00:00
- - user: None
- - tags: []
-
-## Home | Robin Wils's website
- - [https://www.robinwils.com](https://www.robinwils.com)
- - date published: 2023-11-29T16:21:45.198386+00:00
- - user: None
- - tags: ['personal']
-
-## Rob Henderson's Newsletter | Substack
- - [https://www.robkhenderson.com](https://www.robkhenderson.com)
- - date published: 2023-10-25T16:52:59.118312+00:00
- - user: None
- - tags: []
-
-## Metal Abstract Sculptures | Public | Corporate | Residential
- - [https://roblorensonsculpture.com](https://roblorensonsculpture.com)
- - date published: 2021-01-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Roblox Blog - All the latest news direct from Roblox employees.
- - [https://blog.roblox.com](https://blog.roblox.com)
- - date published: 2023-10-25T16:53:01.002506+00:00
- - user: None
- - tags: []
-
-## Roblox
- - [https://roblox.com](https://roblox.com)
- - date published: 2023-10-25T11:09:56.980219+00:00
- - user: None
- - tags: ['game']
-
-## Rob Mensching | FireGiant CEO and WiX Toolset benevolent dictator
- - [https://robmensching.com](https://robmensching.com)
- - date published: 2024-03-31T08:22:41.455488+00:00
- - user: None
- - tags: []
-
-## Robo News From RoboDaily.Com
- - [https://www.robodaily.com](https://www.robodaily.com)
- - date published: 2023-10-25T16:53:03.982109+00:00
- - user: None
- - tags: []
-
-## Roboflow Blog
- - [https://blog.roboflow.com](https://blog.roboflow.com)
- - date published: 2023-10-25T16:53:06.727936+00:00
- - user: None
- - tags: []
-
-## Roboflow: Give your software the power to see objects in images and video
- - [https://roboflow.com](https://roboflow.com)
- - date published: 2023-10-25T16:53:10.075984+00:00
- - user: None
- - tags: []
-
-## Welcome to Robotics 24/7
- - [https://www.robotics247.com](https://www.robotics247.com)
- - date published: 2024-02-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Robotics & Automation News
- - [https://roboticsandautomationnews.com](https://roboticsandautomationnews.com)
- - date published: 2023-10-28T20:26:19.183824+00:00
- - user: None
- - tags: ['science news', 'tech news']
-
-## Robotistan | Elektronik Malzeme Marketi Online Satış
- - [https://www.robotistan.com](https://www.robotistan.com)
- - date published: 2023-10-28T20:23:27.625647+00:00
- - user: None
- - tags: []
-
-## Robots In Plain English
- - [https://robotsinplainenglish.com](https://robotsinplainenglish.com)
- - date published: 2023-10-25T16:53:16.564590+00:00
- - user: None
- - tags: []
-
-## Rob Tatman
- - [https://www.robtatman.com](https://www.robtatman.com)
- - date published: 2024-02-08T05:45:03.430818+00:00
- - user: None
- - tags: ['personal']
-
-## Rob Tatman
- - [http://www.robtatman.com](http://www.robtatman.com)
- - date published: 2024-04-03T12:48:16.476704+00:00
- - user: None
- - tags: ['personal']
-
-## Rob Weidner | Low-Code Systems and Automation Specialist
- - [https://www.robweidner.com](https://www.robweidner.com)
- - date published: 2024-01-07T11:03:26.562479+00:00
- - user: None
- - tags: []
-
-## Robyn Weekes
- - [https://robynweekes.com](https://robynweekes.com)
- - date published: 2024-04-14T00:38:38.602945+00:00
- - user: None
- - tags: ['personal']
-
-## Rob Zombie | The Official Rob Zombie Website
- - [https://www.robzombie.com](https://www.robzombie.com)
- - date published: 2023-11-13T10:44:05.077165+00:00
- - user: None
- - tags: ['music band']
 

@@ -988,6 +988,12 @@
  - user: None
  - tags: []
 
+## Limitless: Personalized AI powered by what you've seen, said, and heard
+ - [https://www.limitless.ai](https://www.limitless.ai)
+ - date published: 2024-04-15T13:04:34+00:00
+ - user: None
+ - tags: []
+
 ## Hacker News in Slow Italian - AI-generated podcast (with code)
  - [https://hn.lingually.ai](https://hn.lingually.ai)
  - date published: 2023-10-25T11:39:53.272458+00:00
@@ -3731,16 +3737,16 @@
  - tags: []
 
 ## Now - Adam Ashton
- - [https://www.adamashton.com.au](https://www.adamashton.com.au)
- - date published: 2024-01-10T18:10:16.445630+00:00
- - user: None
- - tags: []
-
-## Now - Adam Ashton
  - [http://www.adamashton.com.au](http://www.adamashton.com.au)
  - date published: 2024-04-03T12:46:14.376541+00:00
  - user: None
  - tags: ['personal']
+
+## Now - Adam Ashton
+ - [https://www.adamashton.com.au](https://www.adamashton.com.au)
+ - date published: 2024-01-10T18:10:16.445630+00:00
+ - user: None
+ - tags: []
 
 ## 404 Not Found
  - [https://www.adelaidenow.com.au](https://www.adelaidenow.com.au)
@@ -4039,6 +4045,12 @@
 ## Tabletop Games | Board Games in Australia – Tabletop Games Pty Ltd
  - [https://tabletopgames.com.au](https://tabletopgames.com.au)
  - date published: 2023-10-25T11:11:07.596236+00:00
+ - user: None
+ - tags: []
+
+## Embedded Computing, Displays and RF Solutions | Tekdis
+ - [http://tekdis.com.au](http://tekdis.com.au)
+ - date published: 2024-01-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5984,18 +5996,6 @@
 ## Nome aos Bois – Reporter Brasil
  - [https://nomeaosbois.reporterbrasil.org.br](https://nomeaosbois.reporterbrasil.org.br)
  - date published: 2023-12-11T19:34:47.478056+00:00
- - user: None
- - tags: []
-
-## Repórter Brasil
- - [https://reporterbrasil.org.br](https://reporterbrasil.org.br)
- - date published: 2023-11-14T17:00:02.121596+00:00
- - user: None
- - tags: []
-
-## Ruralômetro 2022 - Ferramenta ajuda a escolher deputados
- - [https://ruralometro2022.reporterbrasil.org.br](https://ruralometro2022.reporterbrasil.org.br)
- - date published: 2023-12-11T19:31:35.115572+00:00
  - user: None
  - tags: []
 

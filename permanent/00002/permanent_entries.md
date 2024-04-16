@@ -1,3 +1,21 @@
+## Admin Hacks
+ - [https://adminhacks.com](https://adminhacks.com)
+ - date published: 2023-10-25T12:32:45.243933+00:00
+ - user: None
+ - tags: []
+
+## Anchorage Daily News: Alaska News, Politics, Outdoors, Science and Events - Anchorage Daily News
+ - [https://www.adn.com](https://www.adn.com)
+ - date published: 2023-10-25T12:32:55.678833+00:00
+ - user: None
+ - tags: []
+
+## ADN América
+ - [https://adnamerica.com](https://adnamerica.com)
+ - date published: 2023-10-25T12:33:03.332537+00:00
+ - user: None
+ - tags: []
+
 ## Welcome to the Adobe Blog
  - [https://blog.adobe.com](https://blog.adobe.com)
  - date published: 2023-10-25T12:33:04.951350+00:00
@@ -683,16 +701,16 @@
  - tags: []
 
 ## Ajay Rajani
- - [https://www.ajayrajani.com](https://www.ajayrajani.com)
- - date published: 2024-01-06T17:58:15.245405+00:00
- - user: None
- - tags: ['personal']
-
-## Ajay Rajani
  - [http://www.ajayrajani.com](http://www.ajayrajani.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Ajay Rajani
+ - [https://www.ajayrajani.com](https://www.ajayrajani.com)
+ - date published: 2024-01-06T17:58:15.245405+00:00
+ - user: None
+ - tags: ['personal']
 
 ## 人妻精品久久无码专区,色综合色鬼一本到综合久久88,久久精品免费
  - [https://www.ajbvideography.com](https://www.ajbvideography.com)
@@ -1145,14 +1163,14 @@
  - tags: []
 
 ## Alex Eaton - Writer & Photographer
- - [http://www.alexreaton.com](http://www.alexreaton.com)
- - date published: 2024-04-03T06:26:38.936322+00:00
+ - [https://www.alexreaton.com](https://www.alexreaton.com)
+ - date published: 2024-02-09T00:12:37.874010+00:00
  - user: None
  - tags: ['personal']
 
 ## Alex Eaton - Writer & Photographer
- - [https://www.alexreaton.com](https://www.alexreaton.com)
- - date published: 2024-02-09T00:12:37.874010+00:00
+ - [http://www.alexreaton.com](http://www.alexreaton.com)
+ - date published: 2024-04-03T06:26:38.936322+00:00
  - user: None
  - tags: ['personal']
 
@@ -1193,16 +1211,16 @@
  - tags: []
 
 ## About - Alfred Megally
- - [http://alfredmegally.com](http://alfredmegally.com)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## About - Alfred Megally
  - [https://alfredmegally.com](https://alfredmegally.com)
  - date published: 2024-01-09T08:53:49.175773+00:00
  - user: None
  - tags: ['personal']
+
+## About - Alfred Megally
+ - [http://alfredmegally.com](http://alfredmegally.com)
+ - date published: 2024-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Home - Algemeiner.com
  - [https://www.algemeiner.com](https://www.algemeiner.com)
@@ -1271,16 +1289,16 @@
  - tags: ['digital marketplace']
 
 ## Home -
- - [https://alifeunlived.com](https://alifeunlived.com)
- - date published: 2023-12-22T17:50:45.863289+00:00
- - user: None
- - tags: ['personal']
-
-## Home -
  - [http://alifeunlived.com](http://alifeunlived.com)
  - date published: 2015-08-20T00:00:00+00:00
  - user: None
  - tags: []
+
+## Home -
+ - [https://alifeunlived.com](https://alifeunlived.com)
+ - date published: 2023-12-22T17:50:45.863289+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Alin Panaitiu - Personal website
  - [https://alinpanaitiu.com](https://alinpanaitiu.com)
@@ -1459,6 +1477,12 @@
 ## All That's Interesting, Something Interesting To Read Every Day
  - [https://allthatsinteresting.com](https://allthatsinteresting.com)
  - date published: 2023-10-25T12:39:04.776656+00:00
+ - user: None
+ - tags: []
+
+## Destinations in My Universe - All Things Andy
+ - [https://allthingsandy.com](https://allthingsandy.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1949,14 +1973,14 @@
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
- - date published: 2024-01-09T02:29:24.245847+00:00
+ - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
+ - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
- - date published: 2018-01-01T00:00:00+00:00
+ - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
+ - date published: 2024-01-09T02:29:24.245847+00:00
  - user: None
  - tags: []
 
@@ -2015,16 +2039,16 @@
  - tags: ['amiga']
 
 ## The biggest repository for remixes of old Amiga tracks from games and demos.
- - [http://www.amigaremix.com](http://www.amigaremix.com)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## The biggest repository for remixes of old Amiga tracks from games and demos.
  - [https://www.amigaremix.com](https://www.amigaremix.com)
  - date published: 2024-02-13T00:00:00+00:00
  - user: None
  - tags: ['keygen', 'demoscene', 'amiga', 'chiptune']
+
+## The biggest repository for remixes of old Amiga tracks from games and demos.
+ - [http://www.amigaremix.com](http://www.amigaremix.com)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## A Mighty Girl: Home | A Mighty Girl
  - [https://www.amightygirl.com](https://www.amightygirl.com)
@@ -2638,15 +2662,15 @@
  - user: None
  - tags: ['personal']
 
-## Animated Knots by Grog | Learn how to tie knots with step-by-step animation
- - [https://www.animatedknots.com](https://www.animatedknots.com)
- - date published: 2023-10-25T12:41:38.429834+00:00
- - user: None
- - tags: []
-
 ## Home
  - [http://www.animatedknots.com](http://www.animatedknots.com)
  - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Animated Knots by Grog | Learn how to tie knots with step-by-step animation
+ - [https://www.animatedknots.com](https://www.animatedknots.com)
+ - date published: 2023-10-25T12:41:38.429834+00:00
  - user: None
  - tags: []
 
@@ -4738,6 +4762,12 @@
  - user: None
  - tags: []
 
+## Automotive News Europe
+ - [https://europe.autonews.com](https://europe.autonews.com)
+ - date published: 2020-03-16T18:30:01+00:00
+ - user: None
+ - tags: []
+
 ## https://www.autonews.com
  - [https://www.autonews.com](https://www.autonews.com)
  - date published: 2023-12-12T20:08:47.035005+00:00
@@ -5741,14 +5771,14 @@
  - tags: []
 
 ## BeAble2
- - [https://beable2.com](https://beable2.com)
- - date published: 2023-12-26T06:32:14.747261+00:00
+ - [http://beable2.com](http://beable2.com)
+ - date published: 2024-04-03T06:23:37.542805+00:00
  - user: None
  - tags: ['personal']
 
 ## BeAble2
- - [http://beable2.com](http://beable2.com)
- - date published: 2024-04-03T06:23:37.542805+00:00
+ - [https://beable2.com](https://beable2.com)
+ - date published: 2023-12-26T06:32:14.747261+00:00
  - user: None
  - tags: ['personal']
 
@@ -5950,6 +5980,12 @@
  - user: None
  - tags: []
 
+## The Loesch Letter
+ - [https://tll.beehiiv.com](https://tll.beehiiv.com)
+ - date published: 2024-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## https://blog.beeper.com
  - [https://blog.beeper.com](https://blog.beeper.com)
  - date published: 2023-12-05T15:26:45.775261+00:00
@@ -5959,42 +5995,6 @@
 ## Show HN: Beeper Mini – iMessage Client for Android
  - [https://www.beeper.com](https://www.beeper.com)
  - date published: 2023-12-05T15:06:21+00:00
- - user: None
- - tags: []
-
-## BeeTrove – OpenAI GPTs Open-Source Dataset
- - [https://beetrove.com](https://beetrove.com)
- - date published: 2024-04-05T17:43:52+00:00
- - user: None
- - tags: []
-
-## befores & afters - VFX magazine
- - [https://beforesandafters.com](https://beforesandafters.com)
- - date published: 2023-10-25T12:56:37.675468+00:00
- - user: None
- - tags: []
-
-## Begin — The Cloud Platform for Functional Web Apps
- - [https://begin.com](https://begin.com)
- - date published: 2023-10-25T12:56:41.405376+00:00
- - user: None
- - tags: []
-
-## Belay the C++ – A blog talking about (usually bad) practices in C++
- - [https://belaycpp.com](https://belaycpp.com)
- - date published: 2023-10-25T12:56:44.895499+00:00
- - user: None
- - tags: []
-
-## Belkadan Software
- - [https://belkadan.com](https://belkadan.com)
- - date published: 2023-10-25T12:56:48.049005+00:00
- - user: None
- - tags: []
-
-## bellingcat - the home of online investigations
- - [https://www.bellingcat.com](https://www.bellingcat.com)
- - date published: 2023-11-05T19:13:31.558970+00:00
  - user: None
  - tags: []
 

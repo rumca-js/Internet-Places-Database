@@ -1,3 +1,99 @@
+## Joseph Andrew lafond
+ - [https://josephandrewlafond.com](https://josephandrewlafond.com)
+ - date published: 2023-11-29T14:19:21.939663+00:00
+ - user: None
+ - tags: ['personal']
+
+## Joseph Bronski | Substack
+ - [https://www.josephbronski.com](https://www.josephbronski.com)
+ - date published: 2024-04-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Seph
+ - [https://josephg.com](https://josephg.com)
+ - date published: 2023-10-25T15:31:24.014626+00:00
+ - user: None
+ - tags: []
+
+## joseph of iowa
+ - [https://blog.josephofiowa.com](https://blog.josephofiowa.com)
+ - date published: 2023-11-08T21:31:37.242452+00:00
+ - user: None
+ - tags: []
+
+## Home | JOSEPH PIDALA
+ - [https://josephpidala.com](https://josephpidala.com)
+ - date published: 2024-02-25T18:50:40.303380+00:00
+ - user: None
+ - tags: []
+
+## Home | JOSEPH PIDALA
+ - [https://www.josephpidala.com](https://www.josephpidala.com)
+ - date published: 2024-01-03T01:13:27.460205+00:00
+ - user: None
+ - tags: []
+
+## Very Serious | Josh Barro | Substack
+ - [https://www.joshbarro.com](https://www.joshbarro.com)
+ - date published: 2024-01-06T18:29:26.380590+00:00
+ - user: None
+ - tags: []
+
+## JOSH BICKNELL
+ - [http://joshbicknell.com](http://joshbicknell.com)
+ - date published: 2024-04-03T06:31:38.790426+00:00
+ - user: None
+ - tags: ['personal']
+
+## JOSH BICKNELL
+ - [https://joshbicknell.com](https://joshbicknell.com)
+ - date published: 2024-01-09T02:40:54.271568+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Site of Joshua Blais
+ - [https://joshblais.com](https://joshblais.com)
+ - date published: 2023-12-23T19:27:35.755531+00:00
+ - user: None
+ - tags: ['personal']
+
+## JoshCanHelp - Software, Digtial Identity, Mindfulness, Focus, and Personal Improvement
+ - [https://www.joshcanhelp.com](https://www.joshcanhelp.com)
+ - date published: 2024-01-15T02:46:43.309779+00:00
+ - user: None
+ - tags: []
+
+## Josh Collinsworth
+ - [https://joshcollinsworth.com](https://joshcollinsworth.com)
+ - date published: 2023-10-25T08:46:42.529511+00:00
+ - user: None
+ - tags: ['personal']
+
+## The "Blog" of Dr. Josh C. Simmons
+ - [https://joshcsimmons.com](https://joshcsimmons.com)
+ - date published: 2023-10-25T15:31:26.704913+00:00
+ - user: None
+ - tags: []
+
+## The "Blog" of Dr. Josh C. Simmons
+ - [https://www.joshcsimmons.com](https://www.joshcsimmons.com)
+ - date published: 2023-10-25T15:31:27.895461+00:00
+ - user: None
+ - tags: []
+
+## Josh Galt | Frontier-based artist, athlete, & entopreneur perpetually chasing sunshine & h2o
+ - [https://joshgalt.com](https://joshgalt.com)
+ - date published: 2024-01-13T22:53:15.698734+00:00
+ - user: None
+ - tags: []
+
+## Josh Galt is chasing sunshine & h2o
+ - [http://joshgalt.com](http://joshgalt.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Josh Haden
  - [https://joshhaden.com](https://joshhaden.com)
  - date published: 2024-02-08T05:46:21.735522+00:00
@@ -11,16 +107,16 @@
  - tags: ['personal']
 
 ## Josh Levent
- - [http://www.joshlevent.com](http://www.joshlevent.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Josh Levent
  - [https://www.joshlevent.com](https://www.joshlevent.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
+
+## Josh Levent
+ - [http://www.joshlevent.com](http://www.joshlevent.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Josh Lu
  - [https://www.joshlu.com](https://www.joshlu.com)
@@ -134,7 +230,7 @@
  - [https://www.jpaerospace.com](https://www.jpaerospace.com)
  - date published: 2024-04-14T23:57:15.704852+00:00
  - user: None
- - tags: []
+ - tags: ['cosmos', 'aerospace']
 
 ## JP Camara
  - [https://jpcamara.com](https://jpcamara.com)
@@ -893,14 +989,14 @@
  - tags: ['personal']
 
 ## All posts
- - [https://katelynsills.com](https://katelynsills.com)
- - date published: 2024-01-03T23:56:16.792993+00:00
+ - [http://katelynsills.com](http://katelynsills.com)
+ - date published: 2024-01-08T00:00:00+00:00
  - user: None
  - tags: []
 
 ## All posts
- - [http://katelynsills.com](http://katelynsills.com)
- - date published: 2024-01-08T00:00:00+00:00
+ - [https://katelynsills.com](https://katelynsills.com)
+ - date published: 2024-01-03T23:56:16.792993+00:00
  - user: None
  - tags: []
 
@@ -1703,6 +1799,12 @@
  - user: None
  - tags: []
 
+## Kingston – największy niezależny producent pamięci na świecie - Kingston Technology
+ - [https://www.kingston.com](https://www.kingston.com)
+ - date published: 2024-04-15T20:10:16+00:00
+ - user: rumpel
+ - tags: ['ssd', 'sd cards', 'memory producer']
+
 ## Movie trailers, news and more
  - [https://kinocheck.com](https://kinocheck.com)
  - date published: 2024-02-22T16:56:14.012101+00:00
@@ -1714,6 +1816,18 @@
  - date published: 2023-10-25T15:37:30.397385+00:00
  - user: None
  - tags: []
+
+## KIOXIA Europe GmbH – Home | KIOXIA - Europe (English)
+ - [https://europe.kioxia.com](https://europe.kioxia.com)
+ - date published: 2024-04-15T20:01:28+00:00
+ - user: rumpel
+ - tags: ['hard drives']
+
+## KIOXIA Corporation Home | KIOXIA - Japan (English)
+ - [https://kioxia.com](https://kioxia.com)
+ - date published: 2024-04-15T20:02:07+00:00
+ - user: rumpel
+ - tags: ['hard drives']
 
 ## Kip Hakes
  - [https://www.kiphakes.com](https://www.kiphakes.com)
@@ -2963,6 +3077,12 @@
  - user: None
  - tags: []
 
+## Lars Wander
+ - [https://larswander.com](https://larswander.com)
+ - date published: 2024-04-15T03:15:00.250356+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Lasse Laursen – Lasse Laursen's project portfolio and development blog.
  - [https://www.lasselaursen.com](https://www.lasselaursen.com)
  - date published: 2023-10-25T15:41:32.904514+00:00
@@ -3499,13 +3619,13 @@ Chamber Music, Symphony
  - tags: ['entertainment news', 'movie news']
 
 ## Legends of Kallisti
- - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
+ - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Legends of Kallisti
- - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
+ - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
@@ -3912,6 +4032,12 @@ Chamber Music, Symphony
  - user: None
  - tags: []
 
+## LibHunt - Trending open-source projects and their alternatives
+ - [https://www.libhunt.com](https://www.libhunt.com)
+ - date published: 2024-04-15T18:27:37+00:00
+ - user: rumpel
+ - tags: ['open source', 'ranking page']
+
 ## liblab blog | liblab Blog
  - [https://blog.liblab.com](https://blog.liblab.com)
  - date published: 2023-10-25T15:46:12.108456+00:00
@@ -4133,6 +4259,12 @@ Chamber Music, Symphony
  - date published: 2023-10-25T09:33:48.782855+00:00
  - user: None
  - tags: ['raspberry', 'smartphones', 'tech news', 'notebooks', 'abc', 'tablets']
+
+## Lilium Air Mobility - Lilium
+ - [https://lilium.com](https://lilium.com)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: rumpel
+ - tags: ['evtol']
 
 ## Investors | Eli Lilly and Company
  - [https://investor.lilly.com](https://investor.lilly.com)
@@ -4782,6 +4914,12 @@ Chamber Music, Symphony
  - user: None
  - tags: ['fantasy', 'science-fiction', 'books']
 
+## None
+ - [https://poll.voting.locusmag.com](https://poll.voting.locusmag.com)
+ - date published: 2024-04-15T13:54:14.759582+00:00
+ - user: None
+ - tags: []
+
 ## Locus Online
  - [https://www.locusmag.com](https://www.locusmag.com)
  - date published: 2024-03-03T17:35:04.901007+00:00
@@ -5250,17 +5388,17 @@ Chamber Music, Symphony
  - user: None
  - tags: []
 
-## LTTStore
- - [http://www.lttstore.com](http://www.lttstore.com)
- - date published: 2024-02-03T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Linus Tech Tips Store
  - [https://www.lttstore.com](https://www.lttstore.com)
  - date published: 2023-12-21T17:45:27+00:00
  - user: rumpel
  - tags: ['merchendise', 'tech']
+
+## LTTStore
+ - [http://www.lttstore.com](http://www.lttstore.com)
+ - date published: 2024-02-03T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Whale LAN
  - [https://www.ltxexpo.com](https://www.ltxexpo.com)
@@ -5635,6 +5773,12 @@ diversions.
  - user: None
  - tags: []
 
+## The Mac Observer
+ - [https://www.macobserver.com](https://www.macobserver.com)
+ - date published: 2024-04-15T22:18:58.162633+00:00
+ - user: None
+ - tags: []
+
 ## Macon Breaking News & Crime | Macon Telegraph
  - [https://www.macon.com](https://www.macon.com)
  - date published: 2023-10-25T15:53:29.296276+00:00
@@ -5856,148 +6000,4 @@ diversions.
  - date published: 2024-02-09T14:09:20.115113+00:00
  - user: None
  - tags: ['personal']
-
-## The Mail Archive
- - [https://www.mail-archive.com](https://www.mail-archive.com)
- - date published: 2023-10-25T15:54:23.776186+00:00
- - user: None
- - tags: []
-
-## Marketing, Automation & Email Platform | Mailchimp
- - [https://mailchimp.com](https://mailchimp.com)
- - date published: 2023-10-25T15:54:35.137582+00:00
- - user: None
- - tags: []
-
-## Create Email Marketing Your Audience Will Love - MailerLite
- - [https://static.mailerlite.com](https://static.mailerlite.com)
- - date published: 2023-12-13T14:56:54.663028+00:00
- - user: None
- - tags: []
-
-## Transactional Email Delivery Made Easy
- - [https://maileroo.com](https://maileroo.com)
- - date published: 2023-12-16T05:53:51+00:00
- - user: None
- - tags: []
-
-## Transactional Email API Service For Developers | Mailgun
- - [https://www.mailgun.com](https://www.mailgun.com)
- - date published: 2024-01-10T03:28:10.263497+00:00
- - user: None
- - tags: []
-
-## Harden your email - Mailhardener
- - [https://www.mailhardener.com](https://www.mailhardener.com)
- - date published: 2023-10-25T15:54:36.141918+00:00
- - user: None
- - tags: []
-
-## Show HN: I built a tool to send 10k emails for $1 via AWS
- - [https://maillayer.com](https://maillayer.com)
- - date published: 2024-01-07T12:35:00+00:00
- - user: None
- - tags: []
-
-## maimounayoussef.com | 523: Origin is unreachable
- - [https://maimounayoussef.com](https://maimounayoussef.com)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://maingear.com](https://maingear.com)
- - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mainly Miles
- - [https://mainlymiles.com](https://mainlymiles.com)
- - date published: 2024-03-04T11:59:32.294710+00:00
- - user: None
- - tags: []
-
-## Mainmatter
- - [https://mainmatter.com](https://mainmatter.com)
- - date published: 2023-10-25T15:54:37.268613+00:00
- - user: None
- - tags: []
-
-## Voyage sur mesure, circuit et sejour - Les Maisons du Voyage
- - [https://www.maisonsduvoyage.com](https://www.maisonsduvoyage.com)
- - date published: 2023-12-18T17:19:14.453560+00:00
- - user: None
- - tags: []
-
-## The Iteration | Kenn Costales | Substack
- - [https://iteration.maiwriter.com](https://iteration.maiwriter.com)
- - date published: 2023-11-05T11:29:59.648908+00:00
- - user: None
- - tags: []
-
-## A blog by @makaroni4
- - [http://makaroni4.com](http://makaroni4.com)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## A blog by @makaroni4
- - [https://makaroni4.com](https://makaroni4.com)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Make America Walkable Again
- - [https://makeamericawalkable.com](https://makeamericawalkable.com)
- - date published: 2023-10-25T15:54:41.558574+00:00
- - user: None
- - tags: []
-
-## Make Art with Python
- - [https://www.makeartwithpython.com](https://www.makeartwithpython.com)
- - date published: 2023-10-25T15:54:43.070926+00:00
- - user: None
- - tags: ['programming', 'python']
-
-## The magic button — Make Everything OK
- - [https://make-everything-ok.com](https://make-everything-ok.com)
- - date published: 2023-12-12T12:07:19+00:00
- - user: rumpel
- - tags: []
-
-## Makefile Tutorial By Example
- - [https://makefiletutorial.com](https://makefiletutorial.com)
- - date published: 2023-10-25T15:54:44.493732+00:00
- - user: None
- - tags: []
-
-## MakeItFrom.com: Material Properties Database
- - [https://www.makeitfrom.com](https://www.makeitfrom.com)
- - date published: 2023-10-25T15:54:45.799547+00:00
- - user: None
- - tags: []
-
-## MakeitMania.
- - [https://makeitmania.com](https://makeitmania.com)
- - date published: 2024-03-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Makerdiary Wiki
- - [https://wiki.makerdiary.com](https://wiki.makerdiary.com)
- - date published: 2023-10-25T15:54:46.717561+00:00
- - user: None
- - tags: []
-
-## Maker Faire |
- - [https://makerfaire.com](https://makerfaire.com)
- - date published: 2023-10-25T15:54:51.642732+00:00
- - user: None
- - tags: []
-
-## Welcome to Maker Hacks
- - [https://www.makerhacks.com](https://www.makerhacks.com)
- - date published: 2023-12-11T17:52:35.069448+00:00
- - user: None
- - tags: ['hardware tinkering', 'hardware hacking']
 

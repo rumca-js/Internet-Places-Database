@@ -1,3 +1,81 @@
+## Fitch Ratings: Credit Ratings & Analysis For Financial Markets
+ - [https://www.fitchratings.com](https://www.fitchratings.com)
+ - date published: 2023-10-25T14:32:25.986796+00:00
+ - user: None
+ - tags: []
+
+## Nick Fitzgerald
+ - [https://fitzgeraldnick.com](https://fitzgeraldnick.com)
+ - date published: 2023-10-25T09:20:31.002593+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nick Fitzgerald
+ - [http://fitzgeraldnick.com](http://fitzgeraldnick.com)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Five Books - The Best Books Recommended by Experts
+ - [https://fivebooks.com](https://fivebooks.com)
+ - date published: 2023-10-25T11:19:21.486882+00:00
+ - user: None
+ - tags: []
+
+## Five Hundred Words
+ - [https://www.fivehundredwordsaday.com](https://www.fivehundredwordsaday.com)
+ - date published: 2023-10-25T14:32:27.735334+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://go.fiverr.com](https://go.fiverr.com)
+ - date published: 2024-03-01T18:35:12.346347+00:00
+ - user: None
+ - tags: []
+
+## Find the best global talent.
+ - [https://www.fiverr.com](https://www.fiverr.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: rumpel
+ - tags: ['service marketplace']
+
+## Five-Star Comics
+ - [https://www.five-star.com](https://www.five-star.com)
+ - date published: 2024-01-09T02:36:32.143202+00:00
+ - user: None
+ - tags: []
+
+## 538 — Election Polls, Politics, and Analysis - ABC News
+ - [https://fivethirtyeight.com](https://fivethirtyeight.com)
+ - date published: 2023-10-25T14:32:31.373663+00:00
+ - user: None
+ - tags: []
+
+## FiWEH Books
+ - [https://fiweh.com](https://fiweh.com)
+ - date published: 2023-11-19T11:59:19.146085+00:00
+ - user: None
+ - tags: []
+
+## Do It Yourself Blind Repair
+ - [https://fixmyblinds.com](https://fixmyblinds.com)
+ - date published: 2024-01-02T17:31:45+00:00
+ - user: None
+ - tags: []
+
+## Frankfurt Kurnit Klein & Selz
+ - [https://fkks.com](https://fkks.com)
+ - date published: 2023-10-25T14:32:33.167969+00:00
+ - user: None
+ - tags: []
+
+## Flagsmith - Open Source Feature Flag & Remote Config Service
+ - [https://www.flagsmith.com](https://www.flagsmith.com)
+ - date published: 2023-10-25T14:32:36.006141+00:00
+ - user: None
+ - tags: []
+
 ## FlakeHub
  - [https://flakehub.com](https://flakehub.com)
  - date published: 2023-10-25T14:32:36.676696+00:00
@@ -1865,16 +1943,16 @@
  - tags: []
 
 ## GameOver Music - Radio
- - [http://gameover-radio.com](http://gameover-radio.com)
- - date published: 2024-02-11T14:36:22.689452+00:00
- - user: None
- - tags: ['video game music']
-
-## GameOver Music - Radio
  - [https://gameover-radio.com](https://gameover-radio.com)
  - date published: 2024-02-15T22:13:10.790152+00:00
  - user: None
  - tags: ['demoscene']
+
+## GameOver Music - Radio
+ - [http://gameover-radio.com](http://gameover-radio.com)
+ - date published: 2024-02-11T14:36:22.689452+00:00
+ - user: None
+ - tags: ['video game music']
 
 ## Streaming Video Game Music Radio - Gamepad Music
  - [https://www.gamepadmusic.com](https://www.gamepadmusic.com)
@@ -3156,17 +3234,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['code sandbox']
 
-## GitHub: Let’s build from here · GitHub
- - [https://github.com](https://github.com)
- - date published: 2023-10-25T14:42:43.938249+00:00
- - user: None
- - tags: ['gatekeeper', 'software platform']
-
 ## Grimoire: Open-Source bookmark manager with extra features
  - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
  - date published: 2023-11-26T08:04:54+00:00
  - user: rumpel
  - tags: ['bookmark manager', 'open source']
+
+## GitHub: Let’s build from here · GitHub
+ - [https://github.com](https://github.com)
+ - date published: 2023-10-25T14:42:43.938249+00:00
+ - user: None
+ - tags: ['gatekeeper', 'software platform']
 
 ## GitHub: Let’s build from here
  - [http://github.com](http://github.com)
@@ -4002,17 +4080,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
-## Google
- - [https://www.google.com](https://www.google.com)
- - date published: 2023-10-25T08:28:06.744876+00:00
- - user: None
- - tags: ['gatekeeper', 'search engine']
-
 ## Google flights
  - [https://www.google.com/travel/flights](https://www.google.com/travel/flights)
  - date published: 2024-01-02T07:35:30+00:00
  - user: rumpel
  - tags: []
+
+## Google
+ - [https://www.google.com](https://www.google.com)
+ - date published: 2023-10-25T08:28:06.744876+00:00
+ - user: None
+ - tags: ['gatekeeper', 'search engine']
 
 ## Hosted Libraries  |  Google for Developers
  - [https://ajax.googleapis.com](https://ajax.googleapis.com)
@@ -4593,6 +4671,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## GreenIsTheNewRed.com
+ - [http://www.greenisthenewred.com](http://www.greenisthenewred.com)
+ - date published: 2024-04-15T13:54:12.259074+00:00
+ - user: None
+ - tags: ['news']
+
 ## Green Jihad – Your source that tells the truth about the environmentalist movement's holy war against mankind
  - [https://greenjihad.com](https://greenjihad.com)
  - date published: 2023-10-25T14:51:36.960006+00:00
@@ -4664,6 +4748,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T14:51:45.550672+00:00
  - user: None
  - tags: []
+
+## Gregory Szorc's Digital Home
+ - [https://gregoryszorc.com](https://gregoryszorc.com)
+ - date published: 2024-04-15T17:49:41.672548+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Greg S. Roche
  - [https://www.gregsroche.com](https://www.gregsroche.com)
@@ -5912,94 +6002,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2024-01-09T02:38:02.630562+00:00
  - user: None
  - tags: []
-
-## Healthy, Wealthy & Wise
- - [https://healthywealthyandwiseuk.com](https://healthywealthyandwiseuk.com)
- - date published: 2023-12-12T08:09:13.144219+00:00
- - user: None
- - tags: ['personal']
-
-## HearthPwn
- - [https://www.hearthpwn.com](https://www.hearthpwn.com)
- - date published: 2023-12-13T16:21:07.279132+00:00
- - user: None
- - tags: []
-
-## Heather Buchel
- - [https://heather-buchel.com](https://heather-buchel.com)
- - date published: 2023-10-25T14:57:29.528719+00:00
- - user: None
- - tags: []
-
-## Copyleft Currents – A blog about open source software licensing
- - [https://heathermeeker.com](https://heathermeeker.com)
- - date published: 2023-10-25T14:57:31.837073+00:00
- - user: None
- - tags: []
-
-## Shop | heathkit.com
- - [https://shop.heathkit.com](https://shop.heathkit.com)
- - date published: 2023-10-25T14:57:36.157562+00:00
- - user: None
- - tags: []
-
-## Heavybit is the leading investor in developer-first startups | Heavybit
- - [https://www.heavybit.com](https://www.heavybit.com)
- - date published: 2023-10-25T14:57:37.413572+00:00
- - user: None
- - tags: []
-
-## Hard Rock and Heavy Metal Discography Database: Bands Starting With Letter A - Heavy Harmonies
- - [https://heavyharmonies.com](https://heavyharmonies.com)
- - date published: 2023-11-13T11:07:28.629470+00:00
- - user: None
- - tags: []
-
-## Hedgehog Librarian – Tales of a Prickly, Nocturnal Infodiva
- - [https://hedgehoglibrarian.com](https://hedgehoglibrarian.com)
- - date published: 2023-10-25T14:57:41.067827+00:00
- - user: None
- - tags: []
-
-## The Hedgehog Review
- - [https://hedgehogreview.com](https://hedgehogreview.com)
- - date published: 2023-10-25T14:57:43.562537+00:00
- - user: None
- - tags: []
-
-## Hedgeye
- - [https://app.hedgeye.com](https://app.hedgeye.com)
- - date published: 2023-10-25T14:57:45.662221+00:00
- - user: None
- - tags: []
-
-## Heirloom
- - [https://www.heirloomcarbon.com](https://www.heirloomcarbon.com)
- - date published: 2023-10-25T14:57:46.868713+00:00
- - user: None
- - tags: []
-
-## Helen van Baal
- - [https://www.helenvanbaal.com](https://www.helenvanbaal.com)
- - date published: 2023-11-29T15:16:08.505690+00:00
- - user: None
- - tags: ['personal']
-
-## Monodraw
- - [https://monodraw.helftone.com](https://monodraw.helftone.com)
- - date published: 2024-03-09T14:33:02+00:00
- - user: None
- - tags: []
-
-## Helion | Building the world's first fusion power plant
- - [https://www.helionenergy.com](https://www.helionenergy.com)
- - date published: 2023-10-25T14:57:48.790889+00:00
- - user: None
- - tags: []
-
-## Web Scraper | Helium Scraper
- - [https://www.heliumscraper.com](https://www.heliumscraper.com)
- - date published: 2024-01-17T09:12:59+00:00
- - user: rumpel
- - tags: ['web scraping']
 

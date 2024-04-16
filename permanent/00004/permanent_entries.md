@@ -1,3 +1,51 @@
+## Chess News | ChessBase
+ - [https://en.chessbase.com](https://en.chessbase.com)
+ - date published: 2023-10-25T13:21:28.502428+00:00
+ - user: None
+ - tags: []
+
+## Chessdom - Chess, chess news, live chess games
+ - [https://www.chessdom.com](https://www.chessdom.com)
+ - date published: 2023-10-25T13:21:41.450959+00:00
+ - user: None
+ - tags: []
+
+## ChessMonitor.com - Analytics for Chess Players
+ - [https://www.chessmonitor.com](https://www.chessmonitor.com)
+ - date published: 2023-10-25T13:21:47.807179+00:00
+ - user: None
+ - tags: []
+
+## Chester Grant
+ - [https://www.chestergrant.com](https://www.chestergrant.com)
+ - date published: 2023-10-25T09:19:45.648985+00:00
+ - user: None
+ - tags: ['personal']
+
+## ChestofBooks.com: Read Books Online for Free
+ - [https://chestofbooks.com](https://chestofbooks.com)
+ - date published: 2024-04-12T05:42:16.397127+00:00
+ - user: None
+ - tags: ['ebooks']
+
+## The Cheswicks' web pages
+ - [https://cheswick.com](https://cheswick.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## Chevereto - Image Hosting Software
+ - [https://chevereto.com](https://chevereto.com)
+ - date published: 2024-04-08T19:27:26.743620+00:00
+ - user: None
+ - tags: ['image hosting', 'self-host']
+
+## chiaracokieng.com
+ - [https://www.chiaracokieng.com](https://www.chiaracokieng.com)
+ - date published: 2024-01-10T23:52:41.513399+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://chicagocrusader.com](https://chicagocrusader.com)
  - date published: 2024-01-06T04:56:24.963086+00:00
@@ -208,17 +256,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://chrisjstott.com](http://chrisjstott.com)
- - date published: 2024-02-29T14:58:49.595292+00:00
- - user: None
- - tags: []
-
 ## http://chrisjstott.com
  - [https://chrisjstott.com](https://chrisjstott.com)
  - date published: 2024-01-24T08:01:05.864817+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [http://chrisjstott.com](http://chrisjstott.com)
+ - date published: 2024-02-29T14:58:49.595292+00:00
+ - user: None
+ - tags: []
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -1162,6 +1210,12 @@
  - user: None
  - tags: []
 
+## Cloudflare Turnstile
+ - [https://challenges.cloudflare.com](https://challenges.cloudflare.com)
+ - date published: 2024-04-15T19:49:26.211222+00:00
+ - user: None
+ - tags: []
+
 ## https://community.cloudflare.com
  - [https://community.cloudflare.com](https://community.cloudflare.com)
  - date published: 2023-10-25T13:26:48.405370+00:00
@@ -1611,6 +1665,12 @@
  - user: None
  - tags: []
 
+## codersnotes.com
+ - [http://www.codersnotes.com](http://www.codersnotes.com)
+ - date published: 2024-04-15T12:51:08+00:00
+ - user: rumpel
+ - tags: ['programming', 'tech', 'personal']
+
 ## codeshaunted | code’s haunted
  - [https://codeshaunted.com](https://codeshaunted.com)
  - date published: 2023-10-25T13:28:26.229731+00:00
@@ -1844,6 +1904,12 @@
  - date published: 2023-10-25T13:30:13.903706+00:00
  - user: None
  - tags: []
+
+## Colin O'Flynn – Embedded Security, Electronics & More!
+ - [https://colinoflynn.com](https://colinoflynn.com)
+ - date published: 2024-04-15T03:14:51.948528+00:00
+ - user: None
+ - tags: ['embedded circuits', 'personal']
 
 ## » nature photography / natural history / misc
  - [https://colinpurrington.com](https://colinpurrington.com)
@@ -2601,6 +2667,12 @@
  - user: None
  - tags: []
 
+## Corporate Crime Reporter
+ - [https://www.corporatecrimereporter.com](https://www.corporatecrimereporter.com)
+ - date published: 2024-04-15T13:53:35.692400+00:00
+ - user: None
+ - tags: ['newspaper', 'news']
+
 ## Corridor Digital
  - [https://www.corridordigital.com](https://www.corridordigital.com)
  - date published: 2024-03-14T10:39:51+00:00
@@ -2908,14 +2980,14 @@
  - tags: ['cybersecurity']
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [http://craphound.com](http://craphound.com)
- - date published: 2024-02-25T19:26:24.229621+00:00
+ - [https://craphound.com](https://craphound.com)
+ - date published: 2023-11-28T07:36:32+00:00
  - user: None
  - tags: []
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [https://craphound.com](https://craphound.com)
- - date published: 2023-11-28T07:36:32+00:00
+ - [http://craphound.com](http://craphound.com)
+ - date published: 2024-02-25T19:26:24.229621+00:00
  - user: None
  - tags: []
 
@@ -3170,6 +3242,12 @@
  - date published: 2023-10-25T13:37:08.444119+00:00
  - user: None
  - tags: ['crowdfunding']
+
+## DRAM, Solid State Drive (SSD) & Memory Upgrades
+ - [https://www.crucial.com](https://www.crucial.com)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: rumpel
+ - tags: []
 
 ## crul
  - [https://www.crul.com](https://www.crul.com)
@@ -4162,17 +4240,17 @@
  - user: None
  - tags: []
 
-## Daniel Hoang – Experienced management consultant x creative. Xennial bridging analog with digital at the intersection of humanity and machine. Scrappy, creative, and fast.
- - [https://danielhoang.com](https://danielhoang.com)
- - date published: 2023-12-12T09:24:31.582869+00:00
- - user: None
- - tags: []
-
 ## Daniel Hoang
  - [http://danielhoang.com](http://danielhoang.com)
  - date published: 2024-04-03T06:29:29.746239+00:00
  - user: None
  - tags: ['personal']
+
+## Daniel Hoang – Experienced management consultant x creative. Xennial bridging analog with digital at the intersection of humanity and machine. Scrappy, creative, and fast.
+ - [https://danielhoang.com](https://danielhoang.com)
+ - date published: 2023-12-12T09:24:31.582869+00:00
+ - user: None
+ - tags: []
 
 ## Daniel Hoang
  - [https://www.danielhoang.com](https://www.danielhoang.com)
@@ -4304,7 +4382,7 @@
  - [https://www.dannyguo.com](https://www.dannyguo.com)
  - date published: 2024-04-14T21:45:35.447830+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Danny Mekić – speaker, internet-, technology- & innovation expert
  - [https://dannymekic.com](https://dannymekic.com)
@@ -5195,16 +5273,16 @@
  - tags: ['personal']
 
 ## Deborah Peacock Photography - Home
- - [https://www.deborahpeacock.com](https://www.deborahpeacock.com)
- - date published: 2024-01-13T04:52:40.631780+00:00
- - user: None
- - tags: []
-
-## Deborah Peacock Photography - Home
  - [http://www.deborahpeacock.com](http://www.deborahpeacock.com)
  - date published: 2024-04-03T06:24:15.192889+00:00
  - user: None
  - tags: ['personal']
+
+## Deborah Peacock Photography - Home
+ - [https://www.deborahpeacock.com](https://www.deborahpeacock.com)
+ - date published: 2024-01-13T04:52:40.631780+00:00
+ - user: None
+ - tags: []
 
 ## Deborah Zhang
  - [https://deborahzhang.com](https://deborahzhang.com)
@@ -5923,84 +6001,6 @@
 ## Development Simply Put | Software Engineering Hub
  - [https://www.developmentsimplyput.com](https://www.developmentsimplyput.com)
  - date published: 2023-12-28T04:56:24.867354+00:00
- - user: None
- - tags: []
-
-## devex.com
- - [https://www.devex.com](https://www.devex.com)
- - date published: 2023-10-25T13:51:02.062974+00:00
- - user: None
- - tags: []
-
-## DeviantArt - The Largest Online Art Gallery and Community
- - [https://www.deviantart.com](https://www.deviantart.com)
- - date published: 2023-10-25T11:19:55.257967+00:00
- - user: None
- - tags: []
-
-## デヴィエーションゲーム
- - [https://deviationgame.com](https://deviationgame.com)
- - date published: 2023-10-25T13:51:04.144622+00:00
- - user: None
- - tags: []
-
-## Dev Fern | Devinfernandez.com
- - [https://www.devinfernandez.com](https://www.devinfernandez.com)
- - date published: 2023-10-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## /dev/nonsense
- - [https://dev-nonsense.com](https://dev-nonsense.com)
- - date published: 2023-10-25T13:50:39.258445+00:00
- - user: None
- - tags: []
-
-## /dev/nonsense
- - [https://devnonsense.com](https://devnonsense.com)
- - date published: 2023-10-25T13:51:05.256311+00:00
- - user: None
- - tags: []
-
-## devonzuegel.com
- - [https://devonzuegel.com](https://devonzuegel.com)
- - date published: 2023-10-25T13:51:08.835756+00:00
- - user: None
- - tags: []
-
-## DevOps - The Web's Largest Collection of DevOps Content
- - [https://devops.com](https://devops.com)
- - date published: 2023-10-25T09:32:41.467092+00:00
- - user: None
- - tags: []
-
-## None
- - [https://devopscycle.com](https://devopscycle.com)
- - date published: 2024-01-14T11:06:38.802801+00:00
- - user: None
- - tags: []
-
-## Mazzle – A Pipelines as Code Tool
- - [https://devops-pipeline.com](https://devops-pipeline.com)
- - date published: 2023-12-31T11:15:08+00:00
- - user: None
- - tags: []
-
-## introducing mazzle - a pipelines as code tool
- - [http://devops-pipeline.com](http://devops-pipeline.com)
- - date published: 2024-02-29T14:58:14.068438+00:00
- - user: None
- - tags: []
-
-## DevsForDevs
- - [https://www.devsfordevs.com](https://www.devsfordevs.com)
- - date published: 2024-04-14T16:19:02.763044+00:00
- - user: None
- - tags: ['social platform']
-
-## Devtalk - Dev forum at Devtalk - the forum for developers!
- - [https://forum.devtalk.com](https://forum.devtalk.com)
- - date published: 2023-10-25T13:51:13.186555+00:00
  - user: None
  - tags: []
 

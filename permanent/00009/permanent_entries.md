@@ -1,3 +1,147 @@
+## The Mail Archive
+ - [https://www.mail-archive.com](https://www.mail-archive.com)
+ - date published: 2023-10-25T15:54:23.776186+00:00
+ - user: None
+ - tags: []
+
+## Marketing, Automation & Email Platform | Mailchimp
+ - [https://mailchimp.com](https://mailchimp.com)
+ - date published: 2023-10-25T15:54:35.137582+00:00
+ - user: None
+ - tags: []
+
+## Create Email Marketing Your Audience Will Love - MailerLite
+ - [https://static.mailerlite.com](https://static.mailerlite.com)
+ - date published: 2023-12-13T14:56:54.663028+00:00
+ - user: None
+ - tags: []
+
+## Transactional Email Delivery Made Easy
+ - [https://maileroo.com](https://maileroo.com)
+ - date published: 2023-12-16T05:53:51+00:00
+ - user: None
+ - tags: []
+
+## Transactional Email API Service For Developers | Mailgun
+ - [https://www.mailgun.com](https://www.mailgun.com)
+ - date published: 2024-01-10T03:28:10.263497+00:00
+ - user: None
+ - tags: []
+
+## Harden your email - Mailhardener
+ - [https://www.mailhardener.com](https://www.mailhardener.com)
+ - date published: 2023-10-25T15:54:36.141918+00:00
+ - user: None
+ - tags: []
+
+## Show HN: I built a tool to send 10k emails for $1 via AWS
+ - [https://maillayer.com](https://maillayer.com)
+ - date published: 2024-01-07T12:35:00+00:00
+ - user: None
+ - tags: []
+
+## maimounayoussef.com | 523: Origin is unreachable
+ - [https://maimounayoussef.com](https://maimounayoussef.com)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://maingear.com](https://maingear.com)
+ - date published: 2024-01-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mainly Miles
+ - [https://mainlymiles.com](https://mainlymiles.com)
+ - date published: 2024-03-04T11:59:32.294710+00:00
+ - user: None
+ - tags: []
+
+## Mainmatter
+ - [https://mainmatter.com](https://mainmatter.com)
+ - date published: 2023-10-25T15:54:37.268613+00:00
+ - user: None
+ - tags: []
+
+## Voyage sur mesure, circuit et sejour - Les Maisons du Voyage
+ - [https://www.maisonsduvoyage.com](https://www.maisonsduvoyage.com)
+ - date published: 2023-12-18T17:19:14.453560+00:00
+ - user: None
+ - tags: []
+
+## The Iteration | Kenn Costales | Substack
+ - [https://iteration.maiwriter.com](https://iteration.maiwriter.com)
+ - date published: 2023-11-05T11:29:59.648908+00:00
+ - user: None
+ - tags: []
+
+## A blog by @makaroni4
+ - [https://makaroni4.com](https://makaroni4.com)
+ - date published: 2020-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## A blog by @makaroni4
+ - [http://makaroni4.com](http://makaroni4.com)
+ - date published: 2020-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Make America Walkable Again
+ - [https://makeamericawalkable.com](https://makeamericawalkable.com)
+ - date published: 2023-10-25T15:54:41.558574+00:00
+ - user: None
+ - tags: []
+
+## Make Art with Python
+ - [https://www.makeartwithpython.com](https://www.makeartwithpython.com)
+ - date published: 2023-10-25T15:54:43.070926+00:00
+ - user: None
+ - tags: ['programming', 'python']
+
+## The magic button — Make Everything OK
+ - [https://make-everything-ok.com](https://make-everything-ok.com)
+ - date published: 2023-12-12T12:07:19+00:00
+ - user: rumpel
+ - tags: []
+
+## Makefile Tutorial By Example
+ - [https://makefiletutorial.com](https://makefiletutorial.com)
+ - date published: 2023-10-25T15:54:44.493732+00:00
+ - user: None
+ - tags: []
+
+## MakeItFrom.com: Material Properties Database
+ - [https://www.makeitfrom.com](https://www.makeitfrom.com)
+ - date published: 2023-10-25T15:54:45.799547+00:00
+ - user: None
+ - tags: []
+
+## MakeitMania.
+ - [https://makeitmania.com](https://makeitmania.com)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Makerdiary Wiki
+ - [https://wiki.makerdiary.com](https://wiki.makerdiary.com)
+ - date published: 2023-10-25T15:54:46.717561+00:00
+ - user: None
+ - tags: []
+
+## Maker Faire |
+ - [https://makerfaire.com](https://makerfaire.com)
+ - date published: 2023-10-25T15:54:51.642732+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Maker Hacks
+ - [https://www.makerhacks.com](https://www.makerhacks.com)
+ - date published: 2023-12-11T17:52:35.069448+00:00
+ - user: None
+ - tags: ['hardware tinkering', 'hardware hacking']
+
 ## DIY | Makers Mashup
  - [https://www.makersmashup.com](https://www.makersmashup.com)
  - date published: 2023-10-27T10:17:04.972576+00:00
@@ -47,14 +191,14 @@
  - tags: ['single-board', '3d printing', 'creators', 'tech']
 
 ## Making It with Chris G.
- - [http://www.makingitwithchrisg.com](http://www.makingitwithchrisg.com)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
+ - date published: 2023-11-29T17:12:52.483030+00:00
  - user: None
  - tags: []
 
 ## Making It with Chris G.
- - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
- - date published: 2023-11-29T17:12:52.483030+00:00
+ - [http://www.makingitwithchrisg.com](http://www.makingitwithchrisg.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1428,14 +1572,14 @@
  - tags: []
 
 ## - Mazie Bones
- - [http://maziebones.com](http://maziebones.com)
- - date published: 2024-04-03T12:48:27.169760+00:00
+ - [https://maziebones.com](https://maziebones.com)
+ - date published: 2024-01-11T12:23:16.751882+00:00
  - user: None
  - tags: ['personal']
 
 ## - Mazie Bones
- - [https://maziebones.com](https://maziebones.com)
- - date published: 2024-01-11T12:23:16.751882+00:00
+ - [http://maziebones.com](http://maziebones.com)
+ - date published: 2024-04-03T12:48:27.169760+00:00
  - user: None
  - tags: ['personal']
 
@@ -3816,14 +3960,14 @@
  - tags: []
 
 ## Cloud-Based Medical Office Software & Billing Services
- - [http://www.microwize.com](http://www.microwize.com)
- - date published: 2024-04-01T00:00:00+00:00
+ - [https://www.microwize.com](https://www.microwize.com)
+ - date published: 2024-01-10T14:29:04.664029+00:00
  - user: None
  - tags: []
 
 ## Cloud-Based Medical Office Software & Billing Services
- - [https://www.microwize.com](https://www.microwize.com)
- - date published: 2024-01-10T14:29:04.664029+00:00
+ - [http://www.microwize.com](http://www.microwize.com)
+ - date published: 2024-04-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3876,14 +4020,14 @@
  - tags: []
 
 ## miguelgrinberg.com
- - [http://blog.miguelgrinberg.com](http://blog.miguelgrinberg.com)
- - date published: 2024-02-26T14:54:29.319980+00:00
+ - [https://blog.miguelgrinberg.com](https://blog.miguelgrinberg.com)
+ - date published: 2023-10-25T16:03:44.577554+00:00
  - user: None
  - tags: []
 
 ## miguelgrinberg.com
- - [https://blog.miguelgrinberg.com](https://blog.miguelgrinberg.com)
- - date published: 2023-10-25T16:03:44.577554+00:00
+ - [http://blog.miguelgrinberg.com](http://blog.miguelgrinberg.com)
+ - date published: 2024-02-26T14:54:29.319980+00:00
  - user: None
  - tags: []
 
@@ -4339,16 +4483,16 @@
  - tags: []
 
 ## In the solution
- - [https://www.mitchellfriedman.com](https://www.mitchellfriedman.com)
- - date published: 2024-01-08T15:37:32.858228+00:00
- - user: None
- - tags: []
-
-## In the solution
  - [http://www.mitchellfriedman.com](http://www.mitchellfriedman.com)
  - date published: 2024-04-03T12:42:45.432338+00:00
  - user: None
  - tags: ['personal']
+
+## In the solution
+ - [https://www.mitchellfriedman.com](https://www.mitchellfriedman.com)
+ - date published: 2024-01-08T15:37:32.858228+00:00
+ - user: None
+ - tags: []
 
 ## Mitchell Hashimoto
  - [https://mitchellh.com](https://mitchellh.com)
@@ -4530,6 +4674,12 @@
  - user: None
  - tags: []
 
+## MobileRead Forums
+ - [https://www.mobileread.com](https://www.mobileread.com)
+ - date published: 2024-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://mobilesyrup.com](https://mobilesyrup.com)
  - date published: 2023-11-13T04:39:37.774142+00:00
@@ -4654,7 +4804,7 @@
  - [https://www.modplug.com](https://www.modplug.com)
  - date published: 2024-02-04T12:24:38+00:00
  - user: rumpel
- - tags: ['modplug tracker']
+ - tags: ['modplug tracker', 'keygen', 'chiptune', 'music tracker']
 
 ## Modrinth
  - [https://modrinth.com](https://modrinth.com)
@@ -5413,14 +5563,14 @@
  - tags: []
 
 ## mtstandard.com | Read Butte, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles
- - [https://mtstandard.com](https://mtstandard.com)
- - date published: 2023-11-27T17:10:46.469072+00:00
+ - [http://mtstandard.com](http://mtstandard.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
 ## mtstandard.com | Read Butte, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles
- - [http://mtstandard.com](http://mtstandard.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://mtstandard.com](https://mtstandard.com)
+ - date published: 2023-11-27T17:10:46.469072+00:00
  - user: None
  - tags: []
 
@@ -5718,6 +5868,12 @@
  - user: None
  - tags: []
 
+## Western Digital
+ - [https://www.mycloud.com](https://www.mycloud.com)
+ - date published: 2024-04-15T19:58:55+00:00
+ - user: rumpel
+ - tags: ['cloud storage', 'western digital']
+
 ## CoPilot
  - [https://go.mycopilot.com](https://go.mycopilot.com)
  - date published: 2024-03-17T18:21:08.037560+00:00
@@ -5842,161 +5998,5 @@
  - [https://www.mysanantonio.com](https://www.mysanantonio.com)
  - date published: 2023-11-15T19:11:19.944384+00:00
  - user: None
- - tags: []
-
-## Post | MyScale | Blog
- - [https://blog.myscale.com](https://blog.myscale.com)
- - date published: 2023-10-25T16:10:09.126066+00:00
- - user: None
- - tags: []
-
-## Flagrant Triggers
- - [https://flagranttriggers.myshopify.com](https://flagranttriggers.myshopify.com)
- - date published: 2024-03-30T03:52:26.281699+00:00
- - user: None
- - tags: []
-
-## My Sketch Journal
- - [https://mysketchjournal.com](https://mysketchjournal.com)
- - date published: 2023-11-01T18:52:28.828959+00:00
- - user: None
- - tags: ['hobby', 'drawing']
-
-## MySQL
- - [http://www.mysql.com](http://www.mysql.com)
- - date published: 2024-04-08T19:26:43.396263+00:00
- - user: None
- - tags: []
-
-## mystery-o-matic
- - [https://mystery-o-matic.com](https://mystery-o-matic.com)
- - date published: 2023-10-25T16:10:10.975410+00:00
- - user: None
- - tags: []
-
-## MysticWicks Online Pagan Community and Spiritual Sanctuary
- - [https://www.mysticwicks.com](https://www.mysticwicks.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Your access to this site has been limited by the site owner
- - [https://www.mytechexperts.com](https://www.mytechexperts.com)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://www.myth2ipod.com
- - [https://www.myth2ipod.com](https://www.myth2ipod.com)
- - date published: 2024-02-08T18:45:39.942015+00:00
- - user: None
- - tags: []
-
-## Mythical Type – Zines and creative projects
- - [https://mythicaltype.com](https://mythicaltype.com)
- - date published: 2023-11-29T17:11:37.801675+00:00
- - user: None
- - tags: ['personal']
-
-## My Twenty Cents | Entrepreneuriat et Investissement
- - [https://mytwentycents.com](https://mytwentycents.com)
- - date published: 2023-12-19T09:59:06.167232+00:00
- - user: None
- - tags: ['personal']
-
-## My Twenty Cents | Entrepreneuriat et Investissement
- - [https://www.mytwentycents.com](https://www.mytwentycents.com)
- - date published: 2022-06-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## myVesta
- - [https://www.myvestacp.com](https://www.myvestacp.com)
- - date published: 2024-04-14T02:48:14.599308+00:00
- - user: None
- - tags: ['web server panel', 'server administration', 'self-host', 'open source']
-
-## Automation with n8n
- - [https://n8n-automation.com](https://n8n-automation.com)
- - date published: 2024-01-11T19:46:20.041454+00:00
- - user: None
- - tags: []
-
-## nachoespino.com
- - [https://nachoespino.com](https://nachoespino.com)
- - date published: 2021-09-20T09:38:52+00:00
- - user: None
- - tags: []
-
-## nadia payan 𓇚 leadership coach, speaker, author and montessori educator
- - [https://nadiapayan.com](https://nadiapayan.com)
- - date published: 2023-12-31T16:47:41.945766+00:00
- - user: None
- - tags: []
-
-## NAKAMURAZA - NAKAMURAZA เว็บไซด์แนะนำภาพยนตร์ สปอยหนัง รีวิวหนัง
- - [https://nakamuraza.com](https://nakamuraza.com)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Songwriters / Recording Artists Naked Blue | Naked Blue Music
- - [https://www.nakedblue.com](https://www.nakedblue.com)
- - date published: 2024-01-11T02:11:59.253774+00:00
- - user: None
- - tags: []
-
-## 502 Bad Gateway
- - [https://www.nakedcapitalism.com](https://www.nakedcapitalism.com)
- - date published: 2023-10-25T16:10:12.031538+00:00
- - user: None
- - tags: []
-
-## Buy a domain name - Register cheap domain names from $0.99 - Namecheap
- - [https://www.namecheap.com](https://www.namecheap.com)
- - date published: 2023-10-25T16:10:18.001858+00:00
- - user: None
- - tags: ['domain store']
-
-## NamePros
- - [https://www.namepros.com](https://www.namepros.com)
- - date published: 2024-01-14T20:05:28.927071+00:00
- - user: None
- - tags: []
-
-## Name that nation
- - [https://www.namethatnation.com](https://www.namethatnation.com)
- - date published: 2024-02-06T09:18:19.185479+00:00
- - user: None
- - tags: []
-
-## News | Nancy Ruth
- - [https://www.nancyruth.com](https://www.nancyruth.com)
- - date published: 2024-01-05T10:27:10.689759+00:00
- - user: None
- - tags: []
-
-## Nandología
- - [https://nandologia.com](https://nandologia.com)
- - date published: 2023-11-20T01:41:25.949856+00:00
- - user: None
- - tags: []
-
-## NannyML - Estimating model performance, drift detection and more...
- - [https://www.nannyml.com](https://www.nannyml.com)
- - date published: 2023-10-25T16:10:21.787934+00:00
- - user: None
- - tags: []
-
-## Oxford Nanopore Technologies
- - [https://nanoporetech.com](https://nanoporetech.com)
- - date published: 2023-11-28T06:40:57.895158+00:00
- - user: None
- - tags: []
-
-## Kleindiek Nanotechnik: Home
- - [https://nanotechnik.com](https://nanotechnik.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: rumpel
  - tags: []
 

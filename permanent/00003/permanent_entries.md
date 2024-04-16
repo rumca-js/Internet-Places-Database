@@ -1,3 +1,39 @@
+## BeeTrove – OpenAI GPTs Open-Source Dataset
+ - [https://beetrove.com](https://beetrove.com)
+ - date published: 2024-04-05T17:43:52+00:00
+ - user: None
+ - tags: []
+
+## befores & afters - VFX magazine
+ - [https://beforesandafters.com](https://beforesandafters.com)
+ - date published: 2023-10-25T12:56:37.675468+00:00
+ - user: None
+ - tags: []
+
+## Begin — The Cloud Platform for Functional Web Apps
+ - [https://begin.com](https://begin.com)
+ - date published: 2023-10-25T12:56:41.405376+00:00
+ - user: None
+ - tags: []
+
+## Belay the C++ – A blog talking about (usually bad) practices in C++
+ - [https://belaycpp.com](https://belaycpp.com)
+ - date published: 2023-10-25T12:56:44.895499+00:00
+ - user: None
+ - tags: []
+
+## Belkadan Software
+ - [https://belkadan.com](https://belkadan.com)
+ - date published: 2023-10-25T12:56:48.049005+00:00
+ - user: None
+ - tags: []
+
+## bellingcat - the home of online investigations
+ - [https://www.bellingcat.com](https://www.bellingcat.com)
+ - date published: 2023-11-05T19:13:31.558970+00:00
+ - user: None
+ - tags: []
+
 ## Nokia Bell Labs - Nokia Bell Labs
  - [https://www.bell-labs.com](https://www.bell-labs.com)
  - date published: 2023-10-25T12:56:49.854172+00:00
@@ -173,16 +209,16 @@
  - tags: []
 
 ## Benjamin Wechsler: Change Agent | Executive Coach | Teacher | Strategist | Organizational & Leadership Development
- - [https://benwechsler.com](https://benwechsler.com)
- - date published: 2024-01-19T13:01:49.988029+00:00
- - user: None
- - tags: []
-
-## Benjamin Wechsler: Change Agent | Executive Coach | Teacher | Strategist | Organizational & Leadership Development
  - [http://benwechsler.com](http://benwechsler.com)
  - date published: 2024-04-03T06:28:00.961565+00:00
  - user: None
  - tags: ['personal']
+
+## Benjamin Wechsler: Change Agent | Executive Coach | Teacher | Strategist | Organizational & Leadership Development
+ - [https://benwechsler.com](https://benwechsler.com)
+ - date published: 2024-01-19T13:01:49.988029+00:00
+ - user: None
+ - tags: []
 
 ## blog.benwinding
  - [https://blog.benwinding.com](https://blog.benwinding.com)
@@ -995,14 +1031,14 @@
  - tags: []
 
 ## Bits in Flight
- - [https://bitsinflight.com](https://bitsinflight.com)
- - date published: 2023-12-21T03:31:11.484659+00:00
+ - [http://bitsinflight.com](http://bitsinflight.com)
+ - date published: 2024-04-03T12:49:20.656238+00:00
  - user: None
  - tags: ['personal']
 
 ## Bits in Flight
- - [http://bitsinflight.com](http://bitsinflight.com)
- - date published: 2024-04-03T12:49:20.656238+00:00
+ - [https://bitsinflight.com](https://bitsinflight.com)
+ - date published: 2023-12-21T03:31:11.484659+00:00
  - user: None
  - tags: ['personal']
 
@@ -2297,14 +2333,14 @@
  - tags: ['personal']
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
- - date published: 2024-01-03T20:38:22.927557+00:00
+ - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
+ - date published: 2024-01-04T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
- - date published: 2024-01-04T00:00:00+00:00
+ - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
+ - date published: 2024-01-03T20:38:22.927557+00:00
  - user: None
  - tags: []
 
@@ -2357,16 +2393,16 @@
  - tags: ['personal']
 
 ## The Little Engineer That Could
- - [http://thelittleengineerthatcould.blogspot.com](http://thelittleengineerthatcould.blogspot.com)
- - date published: 2024-04-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Little Engineer That Could
  - [https://thelittleengineerthatcould.blogspot.com](https://thelittleengineerthatcould.blogspot.com)
  - date published: 2023-10-25T09:18:26.159190+00:00
  - user: None
  - tags: ['personal']
+
+## The Little Engineer That Could
+ - [http://thelittleengineerthatcould.blogspot.com](http://thelittleengineerthatcould.blogspot.com)
+ - date published: 2024-04-13T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## The Programmer's Paradox
  - [https://theprogrammersparadox.blogspot.com](https://theprogrammersparadox.blogspot.com)
@@ -2794,17 +2830,17 @@
  - user: None
  - tags: ['personal']
 
-## Site not found · DreamHost
- - [https://www.bobzien.com](https://www.bobzien.com)
- - date published: 2024-01-15T13:59:16.442976+00:00
- - user: None
- - tags: []
-
 ## Bobzien.com – From the western edge of the Great Basin
  - [http://www.bobzien.com](http://www.bobzien.com)
  - date published: 2024-04-03T06:30:28.715784+00:00
  - user: None
  - tags: ['personal']
+
+## Site not found · DreamHost
+ - [https://www.bobzien.com](https://www.bobzien.com)
+ - date published: 2024-01-15T13:59:16.442976+00:00
+ - user: None
+ - tags: []
 
 ## BodyLines.com™ :: Curves® breast enhancers | 100% Cashmere Scarves
  - [https://www.bodylines.com](https://www.bodylines.com)
@@ -3178,6 +3214,18 @@
  - [https://bostonclassicalreview.com](https://bostonclassicalreview.com)
  - date published: 2024-02-10T03:35:33.361466+00:00
  - user: None
+ - tags: []
+
+## Home | Boston Dynamics
+ - [https://www.bostondynamics.com](https://www.bostondynamics.com)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: rumpel
+ - tags: ['robots', 'robotics']
+
+## Home | Boston Dynamics
+ - [http://www.bostondynamics.com](http://www.bostondynamics.com)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: rumpel
  - tags: []
 
 ## The Boston Globe
@@ -3595,16 +3643,16 @@
  - tags: []
 
 ## Brian Kleiber - SEO Analyst & Content Marketing
- - [http://www.briankleiber.com](http://www.briankleiber.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Brian Kleiber - SEO Analyst & Content Marketing
  - [https://www.briankleiber.com](https://www.briankleiber.com)
  - date published: 2023-12-30T22:23:37.854421+00:00
  - user: None
  - tags: ['personal']
+
+## Brian Kleiber - SEO Analyst & Content Marketing
+ - [http://www.briankleiber.com](http://www.briankleiber.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## bkm
  - [https://www.briankm.com](https://www.briankm.com)
@@ -4219,14 +4267,14 @@
  - tags: []
 
 ## Business Owners Success Club
- - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
- - date published: 2024-04-03T06:24:35.974117+00:00
+ - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
+ - date published: 8211-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
 ## Business Owners Success Club
- - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
- - date published: 8211-01-01T00:00:00+00:00
+ - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
+ - date published: 2024-04-03T06:24:35.974117+00:00
  - user: None
  - tags: ['personal']
 
@@ -4981,14 +5029,14 @@
  - tags: ['site building']
 
 ## None
- - [http://www.caribpress.com](http://www.caribpress.com)
- - date published: 2024-02-25T15:38:05.095360+00:00
+ - [https://www.caribpress.com](https://www.caribpress.com)
+ - date published: 2024-01-09T02:31:43.727437+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://www.caribpress.com](https://www.caribpress.com)
- - date published: 2024-01-09T02:31:43.727437+00:00
+ - [http://www.caribpress.com](http://www.caribpress.com)
+ - date published: 2024-02-25T15:38:05.095360+00:00
  - user: None
  - tags: []
 
@@ -5466,15 +5514,15 @@
  - user: None
  - tags: ['personal']
 
-## Human fetal brain self-organizes into long-term expanding organoids
- - [www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue](www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue)
- - date published: 2024-01-10T19:20:45.384863+00:00
- - user: None
- - tags: []
-
 ## https://www.cell.com
  - [https://www.cell.com](https://www.cell.com)
  - date published: 2023-10-25T13:19:41.208125+00:00
+ - user: None
+ - tags: []
+
+## Human fetal brain self-organizes into long-term expanding organoids
+ - [www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue](www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue)
+ - date published: 2024-01-10T19:20:45.384863+00:00
  - user: None
  - tags: []
 
@@ -5617,14 +5665,14 @@
  - tags: []
 
 ## Chad Riden
- - [http://chadriden.com](http://chadriden.com)
- - date published: 2024-04-03T06:31:43.422186+00:00
+ - [https://chadriden.com](https://chadriden.com)
+ - date published: 2024-01-09T11:06:48.763243+00:00
  - user: None
  - tags: ['personal']
 
 ## Chad Riden
- - [https://chadriden.com](https://chadriden.com)
- - date published: 2024-01-09T11:06:48.763243+00:00
+ - [http://chadriden.com](http://chadriden.com)
+ - date published: 2024-04-03T06:31:43.422186+00:00
  - user: None
  - tags: ['personal']
 
@@ -5635,14 +5683,14 @@
  - tags: ['personal']
 
 ## Open Path by Chad Whitacre
- - [http://openpath.chadwhitacre.com](http://openpath.chadwhitacre.com)
- - date published: 2024-02-26T09:41:25.750324+00:00
+ - [https://openpath.chadwhitacre.com](https://openpath.chadwhitacre.com)
+ - date published: 2024-01-22T07:17:07.392204+00:00
  - user: None
  - tags: []
 
 ## Open Path by Chad Whitacre
- - [https://openpath.chadwhitacre.com](https://openpath.chadwhitacre.com)
- - date published: 2024-01-22T07:17:07.392204+00:00
+ - [http://openpath.chadwhitacre.com](http://openpath.chadwhitacre.com)
+ - date published: 2024-02-26T09:41:25.750324+00:00
  - user: None
  - tags: []
 
@@ -5955,54 +6003,6 @@
 ## chess24 wall
  - [https://new.chess24.com](https://new.chess24.com)
  - date published: 2023-10-25T13:21:26.844592+00:00
- - user: None
- - tags: []
-
-## Chess News | ChessBase
- - [https://en.chessbase.com](https://en.chessbase.com)
- - date published: 2023-10-25T13:21:28.502428+00:00
- - user: None
- - tags: []
-
-## Chessdom - Chess, chess news, live chess games
- - [https://www.chessdom.com](https://www.chessdom.com)
- - date published: 2023-10-25T13:21:41.450959+00:00
- - user: None
- - tags: []
-
-## ChessMonitor.com - Analytics for Chess Players
- - [https://www.chessmonitor.com](https://www.chessmonitor.com)
- - date published: 2023-10-25T13:21:47.807179+00:00
- - user: None
- - tags: []
-
-## Chester Grant
- - [https://www.chestergrant.com](https://www.chestergrant.com)
- - date published: 2023-10-25T09:19:45.648985+00:00
- - user: None
- - tags: ['personal']
-
-## ChestofBooks.com: Read Books Online for Free
- - [https://chestofbooks.com](https://chestofbooks.com)
- - date published: 2024-04-12T05:42:16.397127+00:00
- - user: None
- - tags: ['ebooks']
-
-## The Cheswicks' web pages
- - [https://cheswick.com](https://cheswick.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Chevereto - Image Hosting Software
- - [https://chevereto.com](https://chevereto.com)
- - date published: 2024-04-08T19:27:26.743620+00:00
- - user: None
- - tags: ['image hosting', 'self-host']
-
-## chiaracokieng.com
- - [https://www.chiaracokieng.com](https://www.chiaracokieng.com)
- - date published: 2024-01-10T23:52:41.513399+00:00
  - user: None
  - tags: []
 

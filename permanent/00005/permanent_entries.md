@@ -1,3 +1,81 @@
+## devex.com
+ - [https://www.devex.com](https://www.devex.com)
+ - date published: 2023-10-25T13:51:02.062974+00:00
+ - user: None
+ - tags: []
+
+## DeviantArt - The Largest Online Art Gallery and Community
+ - [https://www.deviantart.com](https://www.deviantart.com)
+ - date published: 2023-10-25T11:19:55.257967+00:00
+ - user: None
+ - tags: []
+
+## デヴィエーションゲーム
+ - [https://deviationgame.com](https://deviationgame.com)
+ - date published: 2023-10-25T13:51:04.144622+00:00
+ - user: None
+ - tags: []
+
+## Dev Fern | Devinfernandez.com
+ - [https://www.devinfernandez.com](https://www.devinfernandez.com)
+ - date published: 2023-10-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## /dev/nonsense
+ - [https://dev-nonsense.com](https://dev-nonsense.com)
+ - date published: 2023-10-25T13:50:39.258445+00:00
+ - user: None
+ - tags: []
+
+## /dev/nonsense
+ - [https://devnonsense.com](https://devnonsense.com)
+ - date published: 2023-10-25T13:51:05.256311+00:00
+ - user: None
+ - tags: []
+
+## devonzuegel.com
+ - [https://devonzuegel.com](https://devonzuegel.com)
+ - date published: 2023-10-25T13:51:08.835756+00:00
+ - user: None
+ - tags: []
+
+## DevOps - The Web's Largest Collection of DevOps Content
+ - [https://devops.com](https://devops.com)
+ - date published: 2023-10-25T09:32:41.467092+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://devopscycle.com](https://devopscycle.com)
+ - date published: 2024-01-14T11:06:38.802801+00:00
+ - user: None
+ - tags: []
+
+## Mazzle – A Pipelines as Code Tool
+ - [https://devops-pipeline.com](https://devops-pipeline.com)
+ - date published: 2023-12-31T11:15:08+00:00
+ - user: None
+ - tags: []
+
+## introducing mazzle - a pipelines as code tool
+ - [http://devops-pipeline.com](http://devops-pipeline.com)
+ - date published: 2024-02-29T14:58:14.068438+00:00
+ - user: None
+ - tags: []
+
+## DevsForDevs
+ - [https://www.devsfordevs.com](https://www.devsfordevs.com)
+ - date published: 2024-04-14T16:19:02.763044+00:00
+ - user: None
+ - tags: ['social platform']
+
+## Devtalk - Dev forum at Devtalk - the forum for developers!
+ - [https://forum.devtalk.com](https://forum.devtalk.com)
+ - date published: 2023-10-25T13:51:13.186555+00:00
+ - user: None
+ - tags: []
+
 ## DevURLs – A neat developer news aggregator
  - [https://devurls.com](https://devurls.com)
  - date published: 2024-04-09T00:00:00+00:00
@@ -524,7 +602,7 @@
  - [https://diskprices.com](https://diskprices.com)
  - date published: 2023-10-25T13:53:58.546141+00:00
  - user: None
- - tags: []
+ - tags: ['rank page']
 
 ## Disney.com | The official home for all things Disney
  - [https://www.disney.com](https://www.disney.com)
@@ -1625,15 +1703,15 @@
  - user: None
  - tags: ['music', 'dj']
 
-## Drunk Pastor
- - [https://drunkpastor.com](https://drunkpastor.com)
- - date published: 2023-11-29T15:32:18.653046+00:00
- - user: None
- - tags: []
-
 ## Drunk Pastor: Musings & Services of a Recovering Pastor
  - [http://drunkpastor.com](http://drunkpastor.com)
  - date published: 2024-02-10T16:19:49+00:00
+ - user: None
+ - tags: []
+
+## Drunk Pastor
+ - [https://drunkpastor.com](https://drunkpastor.com)
+ - date published: 2023-11-29T15:32:18.653046+00:00
  - user: None
  - tags: []
 
@@ -3798,14 +3876,14 @@
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [https://www.espn.com](https://www.espn.com)
- - date published: 2023-10-25T10:09:24.738987+00:00
+ - [http://www.espn.com](http://www.espn.com)
+ - date published: 2024-02-25T16:13:57.477675+00:00
  - user: None
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [http://www.espn.com](http://www.espn.com)
- - date published: 2024-02-25T16:13:57.477675+00:00
+ - [https://www.espn.com](https://www.espn.com)
+ - date published: 2023-10-25T10:09:24.738987+00:00
  - user: None
  - tags: []
 
@@ -4680,14 +4758,14 @@
  - tags: []
 
 ## Log in or sign up to view
- - [https://facebook.com](https://facebook.com)
- - date published: 2023-12-11T16:53:43.180916+00:00
+ - [http://facebook.com](http://facebook.com)
+ - date published: 2024-02-24T09:56:45.941514+00:00
  - user: None
  - tags: []
 
 ## Log in or sign up to view
- - [http://facebook.com](http://facebook.com)
- - date published: 2024-02-24T09:56:45.941514+00:00
+ - [https://facebook.com](https://facebook.com)
+ - date published: 2023-12-11T16:53:43.180916+00:00
  - user: None
  - tags: []
 
@@ -5429,15 +5507,15 @@
  - user: None
  - tags: []
 
-## None
- - [http://feeds.feedburner.com](http://feeds.feedburner.com)
- - date published: 2024-02-25T14:03:04.041505+00:00
- - user: None
- - tags: []
-
 ## Error 404 (Not Found)!!1
  - [https://feeds.feedburner.com](https://feeds.feedburner.com)
  - date published: 2024-01-09T02:36:30.505752+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://feeds.feedburner.com](http://feeds.feedburner.com)
+ - date published: 2024-02-25T14:03:04.041505+00:00
  - user: None
  - tags: []
 
@@ -5918,84 +5996,6 @@
 ## https://www.fishmanafnewsletter.com
  - [https://www.fishmanafnewsletter.com](https://www.fishmanafnewsletter.com)
  - date published: 2024-01-24T03:10:27.641136+00:00
- - user: None
- - tags: []
-
-## Fitch Ratings: Credit Ratings & Analysis For Financial Markets
- - [https://www.fitchratings.com](https://www.fitchratings.com)
- - date published: 2023-10-25T14:32:25.986796+00:00
- - user: None
- - tags: []
-
-## Nick Fitzgerald
- - [https://fitzgeraldnick.com](https://fitzgeraldnick.com)
- - date published: 2023-10-25T09:20:31.002593+00:00
- - user: None
- - tags: ['personal']
-
-## Nick Fitzgerald
- - [http://fitzgeraldnick.com](http://fitzgeraldnick.com)
- - date published: 2024-02-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Five Books - The Best Books Recommended by Experts
- - [https://fivebooks.com](https://fivebooks.com)
- - date published: 2023-10-25T11:19:21.486882+00:00
- - user: None
- - tags: []
-
-## Five Hundred Words
- - [https://www.fivehundredwordsaday.com](https://www.fivehundredwordsaday.com)
- - date published: 2023-10-25T14:32:27.735334+00:00
- - user: None
- - tags: []
-
-## None
- - [https://go.fiverr.com](https://go.fiverr.com)
- - date published: 2024-03-01T18:35:12.346347+00:00
- - user: None
- - tags: []
-
-## Find the best global talent.
- - [https://www.fiverr.com](https://www.fiverr.com)
- - date published: 2024-01-17T00:00:00+00:00
- - user: rumpel
- - tags: ['service marketplace']
-
-## Five-Star Comics
- - [https://www.five-star.com](https://www.five-star.com)
- - date published: 2024-01-09T02:36:32.143202+00:00
- - user: None
- - tags: []
-
-## 538 — Election Polls, Politics, and Analysis - ABC News
- - [https://fivethirtyeight.com](https://fivethirtyeight.com)
- - date published: 2023-10-25T14:32:31.373663+00:00
- - user: None
- - tags: []
-
-## FiWEH Books
- - [https://fiweh.com](https://fiweh.com)
- - date published: 2023-11-19T11:59:19.146085+00:00
- - user: None
- - tags: []
-
-## Do It Yourself Blind Repair
- - [https://fixmyblinds.com](https://fixmyblinds.com)
- - date published: 2024-01-02T17:31:45+00:00
- - user: None
- - tags: []
-
-## Frankfurt Kurnit Klein & Selz
- - [https://fkks.com](https://fkks.com)
- - date published: 2023-10-25T14:32:33.167969+00:00
- - user: None
- - tags: []
-
-## Flagsmith - Open Source Feature Flag & Remote Config Service
- - [https://www.flagsmith.com](https://www.flagsmith.com)
- - date published: 2023-10-25T14:32:36.006141+00:00
  - user: None
  - tags: []
 
