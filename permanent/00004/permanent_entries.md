@@ -1,3 +1,57 @@
+## Check Point Blog - Cyber Security News, Research & Trends
+ - [https://blog.checkpoint.com](https://blog.checkpoint.com)
+ - date published: 2023-10-25T13:21:03.502709+00:00
+ - user: None
+ - tags: []
+
+## CPR - Check Point Research
+ - [https://research.checkpoint.com](https://research.checkpoint.com)
+ - date published: 2023-10-25T13:21:06.052525+00:00
+ - user: None
+ - tags: []
+
+## Cheeptrims.com - Quality Wholesale Lace and Trim Products
+ - [https://www.cheeptrims.com](https://www.cheeptrims.com)
+ - date published: 2024-02-08T17:51:58.511456+00:00
+ - user: None
+ - tags: []
+
+## The Cheese Professor | The Class You Always Wanted To Take
+ - [https://www.cheeseprofessor.com](https://www.cheeseprofessor.com)
+ - date published: 2023-10-25T13:21:10.552300+00:00
+ - user: None
+ - tags: []
+
+## Chelsea Troy
+ - [https://chelseatroy.com](https://chelseatroy.com)
+ - date published: 2023-10-25T13:21:13.217018+00:00
+ - user: None
+ - tags: []
+
+## Chemistry news, research and opinions | Chemistry World
+ - [https://www.chemistryworld.com](https://www.chemistryworld.com)
+ - date published: 2023-10-25T13:21:20.243948+00:00
+ - user: None
+ - tags: []
+
+## Chess.com - Play Chess Online - Free Games
+ - [https://www.chess.com](https://www.chess.com)
+ - date published: 2023-10-25T13:21:22.359293+00:00
+ - user: None
+ - tags: []
+
+## Chess - Play, Learn & Watch Live Tournaments - chess24 | chess24.com
+ - [https://chess24.com](https://chess24.com)
+ - date published: 2023-10-25T13:21:24.370913+00:00
+ - user: None
+ - tags: []
+
+## chess24 wall
+ - [https://new.chess24.com](https://new.chess24.com)
+ - date published: 2023-10-25T13:21:26.844592+00:00
+ - user: None
+ - tags: []
+
 ## Chess News | ChessBase
  - [https://en.chessbase.com](https://en.chessbase.com)
  - date published: 2023-10-25T13:21:28.502428+00:00
@@ -256,17 +310,17 @@
  - user: None
  - tags: []
 
-## http://chrisjstott.com
- - [https://chrisjstott.com](https://chrisjstott.com)
- - date published: 2024-01-24T08:01:05.864817+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [http://chrisjstott.com](http://chrisjstott.com)
  - date published: 2024-02-29T14:58:49.595292+00:00
  - user: None
  - tags: []
+
+## http://chrisjstott.com
+ - [https://chrisjstott.com](https://chrisjstott.com)
+ - date published: 2024-01-24T08:01:05.864817+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -479,16 +533,16 @@
  - tags: []
 
 ## Blog | Chris Warrick
- - [http://chriswarrick.com](http://chriswarrick.com)
- - date published: 2024-02-25T15:45:10.545891+00:00
- - user: None
- - tags: []
-
-## Blog | Chris Warrick
  - [https://chriswarrick.com](https://chriswarrick.com)
  - date published: 2023-10-25T09:19:47.812882+00:00
  - user: None
  - tags: ['personal']
+
+## Blog | Chris Warrick
+ - [http://chriswarrick.com](http://chriswarrick.com)
+ - date published: 2024-02-25T15:45:10.545891+00:00
+ - user: None
+ - tags: []
 
 ## Chris Zacharias
  - [https://blog.chriszacharias.com](https://blog.chriszacharias.com)
@@ -591,6 +645,12 @@
  - date published: 2024-02-24T18:06:05.300615+00:00
  - user: None
  - tags: []
+
+## CinemaCon - 8-11 April 2024 at Caesars Palace in Las Vegas
+ - [https://cinemacon.com](https://cinemacon.com)
+ - date published: 2024-04-11T00:00:00+00:00
+ - user: rumpel
+ - tags: ['community event', 'cinema']
 
 ## The Latest Indian Movie News And Film Reviews | Cinema Express
  - [https://www.cinemaexpress.com](https://www.cinemaexpress.com)
@@ -1189,6 +1249,12 @@
 ## The visual CMS that gives content teams full autonomy | CloudCannon
  - [https://cloudcannon.com](https://cloudcannon.com)
  - date published: 2023-12-11T19:35:21.638088+00:00
+ - user: None
+ - tags: []
+
+## Show HN: CloudCruise (YC W24) – Graph-Based Workflow Builder for Web Agents
+ - [https://cloudcruise.com](https://cloudcruise.com)
+ - date published: 2024-04-16T14:57:50+00:00
  - user: None
  - tags: []
 
@@ -4186,6 +4252,12 @@
  - user: None
  - tags: ['personal']
 
+## Dan Gillmor
+ - [https://dangillmor.com](https://dangillmor.com)
+ - date published: 2024-04-16T12:22:32.173682+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Danheim | Official Page – Viking Music from the cold north
  - [https://danheimmusic.com](https://danheimmusic.com)
  - date published: 2023-11-13T11:11:25.660964+00:00
@@ -5931,76 +6003,4 @@
  - date published: 2013-07-18T00:00:00+00:00
  - user: None
  - tags: ['personal']
-
-## Destination: zero bars
- - [http://destinationzerobars.com](http://destinationzerobars.com)
- - date published: 2013-07-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Destroy All Software
- - [https://www.destroyallsoftware.com](https://www.destroyallsoftware.com)
- - date published: 2023-10-25T13:50:36.567326+00:00
- - user: None
- - tags: []
-
-## Destructoid
- - [https://www.destructoid.com](https://www.destructoid.com)
- - date published: 2006-02-07T00:00:00+00:00
- - user: rumpel
- - tags: ['video game news']
-
-## Detroit News - Home
- - [https://www.detroitnews.com](https://www.detroitnews.com)
- - date published: 2023-10-25T13:50:38.587182+00:00
- - user: None
- - tags: []
-
-## Evidence-based medicine | Deva Boone, MD
- - [https://www.devaboone.com](https://www.devaboone.com)
- - date published: 2024-03-18T16:03:48.224318+00:00
- - user: None
- - tags: []
-
-## Home • DEVCLASS
- - [https://devclass.com](https://devclass.com)
- - date published: 2023-10-25T13:50:42.438218+00:00
- - user: None
- - tags: []
-
-## DevCycle | Feature Flag Management for Developers
- - [https://devcycle.com](https://devcycle.com)
- - date published: 2023-10-25T13:50:46.064161+00:00
- - user: None
- - tags: []
-
-## Dev Community - DevDojo
- - [https://devdojo.com](https://devdojo.com)
- - date published: 2023-10-25T13:50:50.978170+00:00
- - user: None
- - tags: []
-
-## Home | Developer Pitstop
- - [https://developerpitstop.com](https://developerpitstop.com)
- - date published: 2023-10-25T13:50:57.547624+00:00
- - user: None
- - tags: []
-
-## Developer Tech News | Latest App Developer News & Insights
- - [https://www.developer-tech.com](https://www.developer-tech.com)
- - date published: 2023-10-25T10:13:59.122086+00:00
- - user: None
- - tags: []
-
-## Development Friendly – Coding and web development advice for all.
- - [https://developmentfriendly.com](https://developmentfriendly.com)
- - date published: 2023-10-25T13:51:00.761063+00:00
- - user: None
- - tags: []
-
-## Development Simply Put | Software Engineering Hub
- - [https://www.developmentsimplyput.com](https://www.developmentsimplyput.com)
- - date published: 2023-12-28T04:56:24.867354+00:00
- - user: None
- - tags: []
 

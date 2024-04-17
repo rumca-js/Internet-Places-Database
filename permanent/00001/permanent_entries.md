@@ -65,14 +65,14 @@
  - tags: []
 
 ## Svarichevsky Mikhail
- - [http://3.14.by](http://3.14.by)
- - date published: 2024-02-26T13:20:29.028020+00:00
+ - [https://3.14.by](https://3.14.by)
+ - date published: 2024-01-16T06:21:34.423774+00:00
  - user: None
  - tags: []
 
 ## Svarichevsky Mikhail
- - [https://3.14.by](https://3.14.by)
- - date published: 2024-01-16T06:21:34.423774+00:00
+ - [http://3.14.by](http://3.14.by)
+ - date published: 2024-02-26T13:20:29.028020+00:00
  - user: None
  - tags: []
 
@@ -653,13 +653,13 @@
  - tags: []
 
 ## iter.ca
- - [http://iter.ca](http://iter.ca)
+ - [https://iter.ca](https://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## iter.ca
- - [https://iter.ca](https://iter.ca)
+ - [http://iter.ca](http://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -2268,6 +2268,12 @@
  - user: None
  - tags: ['personal']
 
+## MDTURP | MDTURP
+ - [https://blog.mdturp.ch](https://blog.mdturp.ch)
+ - date published: 2024-04-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Multiplayer Online Science
  - [http://mmos.ch](http://mmos.ch)
  - date published: 2023-12-28T20:56:18+00:00
@@ -3553,14 +3559,14 @@
  - tags: []
 
 ## Learn With Me – A Resource for Mindful Living
- - [http://learnwithme.co](http://learnwithme.co)
- - date published: 2024-04-03T06:26:23.438321+00:00
+ - [https://learnwithme.co](https://learnwithme.co)
+ - date published: 2023-12-29T20:10:41.952123+00:00
  - user: None
  - tags: ['personal']
 
 ## Learn With Me – A Resource for Mindful Living
- - [https://learnwithme.co](https://learnwithme.co)
- - date published: 2023-12-29T20:10:41.952123+00:00
+ - [http://learnwithme.co](http://learnwithme.co)
+ - date published: 2024-04-03T06:26:23.438321+00:00
  - user: None
  - tags: ['personal']
 
@@ -5995,12 +6001,6 @@
 ## Home | Adiuvo Engineering
  - [https://www.adiuvoengineering.com](https://www.adiuvoengineering.com)
  - date published: 2023-10-25T12:32:43.380851+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://app.adjust.com](https://app.adjust.com)
- - date published: 2023-12-18T17:19:03.571546+00:00
  - user: None
  - tags: []
 

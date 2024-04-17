@@ -1,3 +1,99 @@
+## jonmircha 🦊
+ - [https://jonmircha.com](https://jonmircha.com)
+ - date published: 2023-12-25T22:13:04.284730+00:00
+ - user: None
+ - tags: ['personal']
+
+## JonPaulUritis.com
+ - [https://jonpauluritis.com](https://jonpauluritis.com)
+ - date published: 2023-10-25T15:31:13.129837+00:00
+ - user: None
+ - tags: []
+
+## Code & Sundry
+ - [https://blog.jonstodle.com](https://blog.jonstodle.com)
+ - date published: 2023-10-25T15:31:14.644491+00:00
+ - user: None
+ - tags: []
+
+## jonstokes.com | Jon Stokes | Substack
+ - [https://www.jonstokes.com](https://www.jonstokes.com)
+ - date published: 2023-10-25T15:31:18.894851+00:00
+ - user: None
+ - tags: []
+
+## Jorcus – Best Remote Work Forum
+ - [https://jorcus.com](https://jorcus.com)
+ - date published: 2024-01-09T02:40:50.508257+00:00
+ - user: None
+ - tags: []
+
+## Home | Jordan Peterson
+ - [https://www.jordanbpeterson.com](https://www.jordanbpeterson.com)
+ - date published: 2023-10-25T08:46:41.267780+00:00
+ - user: None
+ - tags: ['psychologist', 'personal']
+
+## About / Jordan Eldredge
+ - [https://jordaneldredge.com](https://jordaneldredge.com)
+ - date published: 2009-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Jorge Sancho Muñoz
+ - [https://jorgesm.com](https://jorgesm.com)
+ - date published: 2023-11-17T15:06:23+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Dad Sends Sweaters
+ - [https://josearenado.com](https://josearenado.com)
+ - date published: 2018-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## Josef Erben's Blog
+ - [https://www.joseferben.com](https://www.joseferben.com)
+ - date published: 2023-10-25T15:31:22.326088+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jose Munoz | Product Designer
+ - [https://www.josemunozmatos.com](https://www.josemunozmatos.com)
+ - date published: 2023-12-11T23:18:46.523295+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jose Munoz | Product Designer
+ - [http://www.josemunozmatos.com](http://www.josemunozmatos.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Joseon
+ - [https://www.joseon.com](https://www.joseon.com)
+ - date published: 2023-10-26T11:09:14.356479+00:00
+ - user: None
+ - tags: []
+
+## joseph aleo
+ - [https://josephaleo.com](https://josephaleo.com)
+ - date published: 2023-12-30T05:22:46.207312+00:00
+ - user: None
+ - tags: ['personal']
+
+## joseph aleo
+ - [http://josephaleo.com](http://josephaleo.com)
+ - date published: 2024-04-03T12:50:07.690616+00:00
+ - user: None
+ - tags: ['personal']
+
+## Joseph A. McCullough – Writer & Games Designer
+ - [https://www.josephamccullough.com](https://www.josephamccullough.com)
+ - date published: 2023-10-27T07:26:53.904248+00:00
+ - user: None
+ - tags: ['frostgrave', 'personal', 'tabletop games']
+
 ## Joseph Andrew lafond
  - [https://josephandrewlafond.com](https://josephandrewlafond.com)
  - date published: 2023-11-29T14:19:21.939663+00:00
@@ -41,14 +137,14 @@
  - tags: []
 
 ## JOSH BICKNELL
- - [http://joshbicknell.com](http://joshbicknell.com)
- - date published: 2024-04-03T06:31:38.790426+00:00
+ - [https://joshbicknell.com](https://joshbicknell.com)
+ - date published: 2024-01-09T02:40:54.271568+00:00
  - user: None
  - tags: ['personal']
 
 ## JOSH BICKNELL
- - [https://joshbicknell.com](https://joshbicknell.com)
- - date published: 2024-01-09T02:40:54.271568+00:00
+ - [http://joshbicknell.com](http://joshbicknell.com)
+ - date published: 2024-04-03T06:31:38.790426+00:00
  - user: None
  - tags: ['personal']
 
@@ -107,16 +203,16 @@
  - tags: ['personal']
 
 ## Josh Levent
- - [https://www.joshlevent.com](https://www.joshlevent.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Josh Levent
  - [http://www.joshlevent.com](http://www.joshlevent.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Josh Levent
+ - [https://www.joshlevent.com](https://www.joshlevent.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Josh Lu
  - [https://www.joshlu.com](https://www.joshlu.com)
@@ -2160,16 +2256,16 @@
  - tags: ['demoscene']
 
 ## Kohina Web Player
- - [https://player.kohina.com](https://player.kohina.com)
- - date published: 2023-10-25T15:38:24.816845+00:00
- - user: None
- - tags: ['keygen', 'chiptune']
-
-## Kohina Web Player
  - [http://player.kohina.com](http://player.kohina.com)
  - date published: 2024-02-15T02:00:14.788563+00:00
  - user: None
  - tags: []
+
+## Kohina Web Player
+ - [https://player.kohina.com](https://player.kohina.com)
+ - date published: 2023-10-25T15:38:24.816845+00:00
+ - user: None
+ - tags: ['keygen', 'chiptune']
 
 ## Access Restricted
  - [https://www.koin.com](https://www.koin.com)
@@ -2814,16 +2910,16 @@
  - tags: []
 
 ## La Femme | Official Website
- - [http://www.lafemmemusic.com](http://www.lafemmemusic.com)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## La Femme | Official Website
  - [https://www.lafemmemusic.com](https://www.lafemmemusic.com)
  - date published: 2024-01-19T00:00:00+00:00
  - user: rumpel
  - tags: ['music band']
+
+## La Femme | Official Website
+ - [http://www.lafemmemusic.com](http://www.lafemmemusic.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Lagged - Free Online Games on Lagged.com
  - [https://lagged.com](https://lagged.com)
@@ -2908,6 +3004,12 @@
  - date published: 2024-03-01T11:40:36.078640+00:00
  - user: None
  - tags: ['personal']
+
+## Lamptron | Gaming PC Hardware
+ - [http://www.lamptron.com](http://www.lamptron.com)
+ - date published: 2024-04-16T12:34:25+00:00
+ - user: rumpel
+ - tags: ['pc parts']
 
 ## lancasteronline.com | Lancaster County's leading source of news and information
  - [https://lancasteronline.com](https://lancasteronline.com)
@@ -3619,13 +3721,13 @@ Chamber Music, Symphony
  - tags: ['entertainment news', 'movie news']
 
 ## Legends of Kallisti
- - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
+ - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Legends of Kallisti
- - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
+ - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
@@ -5777,7 +5879,7 @@ diversions.
  - [https://www.macobserver.com](https://www.macobserver.com)
  - date published: 2024-04-15T22:18:58.162633+00:00
  - user: None
- - tags: []
+ - tags: ['apple news', 'tech news']
 
 ## Macon Breaking News & Crime | Macon Telegraph
  - [https://www.macon.com](https://www.macon.com)
@@ -5898,106 +6000,4 @@ diversions.
  - date published: 2023-10-25T15:53:58.634735+00:00
  - user: None
  - tags: []
-
-## Home
- - [https://madlions.com](https://madlions.com)
- - date published: 2023-09-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mad Micas | Premium Mica and Colorants for Makers
- - [https://www.madmicas.com](https://www.madmicas.com)
- - date published: 2023-10-25T15:54:08.960044+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.madscientistsclub.com](https://www.madscientistsclub.com)
- - date published: 2024-01-16T16:31:23.121368+00:00
- - user: None
- - tags: []
-
-## Maersk | Integrated Container Logistics & Supply Chain Services
- - [https://www.maersk.com](https://www.maersk.com)
- - date published: 2023-10-25T15:54:10.540638+00:00
- - user: None
- - tags: []
-
-## Magari Poa
- - [https://www.magaripoa.com](https://www.magaripoa.com)
- - date published: 2024-03-10T02:17:31.132740+00:00
- - user: None
- - tags: []
-
-## Magento, now Adobe Commerce | eCommerce Software
- - [https://magento.com](https://magento.com)
- - date published: 2024-03-28T06:55:22+00:00
- - user: rumpel
- - tags: ['cms']
-
-## MagGamer.com
- - [https://maggamer.com](https://maggamer.com)
- - date published: 2024-04-08T00:00:00+00:00
- - user: rumpel
- - tags: ['video game news']
-
-## Maggie Appleton
- - [http://maggieappleton.com](http://maggieappleton.com)
- - date published: 2024-02-26T08:55:27.731076+00:00
- - user: None
- - tags: []
-
-## Maggie Appleton
- - [https://maggieappleton.com](https://maggieappleton.com)
- - date published: 2023-10-25T08:47:09.508828+00:00
- - user: None
- - tags: ['personal']
-
-## Magic Earth - Free Navigation & Maps App for Android and iPhone
- - [https://www.magicearth.com](https://www.magicearth.com)
- - date published: 2023-10-25T08:24:50.926584+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://www.magicleap.com](https://www.magicleap.com)
- - date published: 2024-01-09T02:42:14.951941+00:00
- - user: None
- - tags: []
-
-## Maginative
- - [https://www.maginative.com](https://www.maginative.com)
- - date published: 2024-02-18T18:22:36.600888+00:00
- - user: None
- - tags: []
-
-## Magma Partners venture capital firm
- - [https://www.magmapartners.com](https://www.magmapartners.com)
- - date published: 2024-01-14T08:13:22.897327+00:00
- - user: None
- - tags: []
-
-## Magma Partners venture capital firm
- - [http://www.magmapartners.com](http://www.magmapartners.com)
- - date published: 2024-04-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Solutions & efficiency for Mining, Cement, Aggregates, Power stations
- - [https://www.magotteaux.com](https://www.magotteaux.com)
- - date published: 2024-02-08T16:59:31.141818+00:00
- - user: None
- - tags: []
-
-## Magrathea Metals
- - [https://magratheametals.com](https://magratheametals.com)
- - date published: 2023-10-25T15:54:22.803149+00:00
- - user: None
- - tags: []
-
-## Mahesh Rijal
- - [https://maheshrijal.com](https://maheshrijal.com)
- - date published: 2024-02-09T14:09:20.115113+00:00
- - user: None
- - tags: ['personal']
 

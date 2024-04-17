@@ -1,3 +1,135 @@
+## POCIT. Telling the stories and thoughts of people of color in tech.
+ - [https://peopleofcolorintech.com](https://peopleofcolorintech.com)
+ - date published: 2023-10-25T16:32:25.934361+00:00
+ - user: None
+ - tags: []
+
+## Home - Pepperidge Farm
+ - [https://www.pepperidgefarm.com](https://www.pepperidgefarm.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## PepperInk.com – Chalk Art, Illustrations, Digital Painting, and Cartoons by Artist Eric Maruscak
+ - [http://www.pepperink.com](http://www.pepperink.com)
+ - date published: 2024-03-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Samuel Pepys: Diary, Letters, Family Tree, Maps, Encyclopedia, Discussion and more
+ - [https://www.pepysdiary.com](https://www.pepysdiary.com)
+ - date published: 2023-10-25T16:32:28.890530+00:00
+ - user: None
+ - tags: []
+
+## Pera Barrett - Dad, Shoebox Christmas founder, author, musician, doer.
+ - [https://www.perabarrett.com](https://www.perabarrett.com)
+ - date published: 2024-01-12T22:14:14.873814+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pera Barrett - Dad, Shoebox Christmas founder, author, musician, doer.
+ - [http://www.perabarrett.com](http://www.perabarrett.com)
+ - date published: 2024-04-03T12:42:43.429862+00:00
+ - user: None
+ - tags: ['personal']
+
+## Open Source Database Software Support & Services | Percona
+ - [https://www.percona.com](https://www.percona.com)
+ - date published: 2023-10-25T16:32:31.939924+00:00
+ - user: None
+ - tags: []
+
+## Hi, I'm David Perell.
+ - [https://perell.com](https://perell.com)
+ - date published: 2023-10-25T16:32:35.600204+00:00
+ - user: None
+ - tags: []
+
+## Music Technology & Synthesizers - Perfect Circuit
+ - [https://www.perfectcircuit.com](https://www.perfectcircuit.com)
+ - date published: 2023-12-24T20:04:00.092369+00:00
+ - user: None
+ - tags: []
+
+## https://perfectdarkmode.com
+ - [https://perfectdarkmode.com](https://perfectdarkmode.com)
+ - date published: 2023-12-12T08:09:19.439269+00:00
+ - user: None
+ - tags: ['personal']
+
+## Perfection Kills
+ - [https://perfectionkills.com](https://perfectionkills.com)
+ - date published: 2024-01-09T02:46:05.195684+00:00
+ - user: None
+ - tags: []
+
+## Perfection Kills
+ - [http://perfectionkills.com](http://perfectionkills.com)
+ - date published: 2015-11-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## perfectpacman.com – Under new management
+ - [https://perfectpacman.com](https://perfectpacman.com)
+ - date published: 2023-10-25T16:32:46.875034+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game
+ - [https://www.perfectpitchpuzzle.com](https://www.perfectpitchpuzzle.com)
+ - date published: 2023-11-24T20:54:17+00:00
+ - user: None
+ - tags: []
+
+## PerfectRec: Personalized Product Recommendations
+ - [https://www.perfectrec.com](https://www.perfectrec.com)
+ - date published: 2023-10-25T16:32:57.052562+00:00
+ - user: None
+ - tags: []
+
+## Caras
+ - [https://caras.perfil.com](https://caras.perfil.com)
+ - date published: 2023-12-12T08:12:00.628623+00:00
+ - user: None
+ - tags: []
+
+## Fortuna
+ - [https://fortuna.perfil.com](https://fortuna.perfil.com)
+ - date published: 2023-12-12T08:13:20.618148+00:00
+ - user: None
+ - tags: []
+
+## https://fotos.perfil.com
+ - [https://fotos.perfil.com](https://fotos.perfil.com)
+ - date published: 2023-12-12T08:12:06.680313+00:00
+ - user: None
+ - tags: []
+
+## Hombre | Home
+ - [https://hombre.perfil.com](https://hombre.perfil.com)
+ - date published: 2024-01-09T02:46:08.677075+00:00
+ - user: None
+ - tags: []
+
+## https://look.perfil.com
+ - [https://look.perfil.com](https://look.perfil.com)
+ - date published: 2024-01-09T02:46:16.189403+00:00
+ - user: None
+ - tags: []
+
+## Luz | Revista Luz | Perfil
+ - [https://luz.perfil.com](https://luz.perfil.com)
+ - date published: 2024-01-09T02:46:17.954080+00:00
+ - user: None
+ - tags: []
+
+## Home | Marie Claire
+ - [https://marieclaire.perfil.com](https://marieclaire.perfil.com)
+ - date published: 2023-12-12T08:11:47.328348+00:00
+ - user: None
+ - tags: []
+
 ## Home | Mia
  - [https://mia.perfil.com](https://mia.perfil.com)
  - date published: 2024-01-09T02:46:21.202546+00:00
@@ -371,14 +503,14 @@
  - tags: ['music band', 'music artist']
 
 ## Phil D.
- - [https://phildenman.com](https://phildenman.com)
- - date published: 2023-12-27T23:55:08.862914+00:00
+ - [http://phildenman.com](http://phildenman.com)
+ - date published: 2024-04-03T06:25:43.319001+00:00
  - user: None
  - tags: ['personal']
 
 ## Phil D.
- - [http://phildenman.com](http://phildenman.com)
- - date published: 2024-04-03T06:25:43.319001+00:00
+ - [https://phildenman.com](https://phildenman.com)
+ - date published: 2023-12-27T23:55:08.862914+00:00
  - user: None
  - tags: ['personal']
 
@@ -1109,6 +1241,12 @@
  - [https://plarium.com](https://plarium.com)
  - date published: 2024-03-18T13:55:57.808176+00:00
  - user: None
+ - tags: ['mobile games developer']
+
+## Spring Hunt
+ - [https://springhunt.plarium.com](https://springhunt.plarium.com)
+ - date published: 2024-04-16T17:48:51.420547+00:00
+ - user: None
  - tags: []
 
 ## Platformonomics
@@ -1478,14 +1616,14 @@
  - tags: []
 
 ## De Angela L. Duff
- - [http://www.polishedsolid.com](http://www.polishedsolid.com)
- - date published: 2023-12-23T02:59:58.572062+00:00
+ - [https://www.polishedsolid.com](https://www.polishedsolid.com)
+ - date published: 2023-12-20T11:44:35.174499+00:00
  - user: None
  - tags: ['personal']
 
 ## De Angela L. Duff
- - [https://www.polishedsolid.com](https://www.polishedsolid.com)
- - date published: 2023-12-20T11:44:35.174499+00:00
+ - [http://www.polishedsolid.com](http://www.polishedsolid.com)
+ - date published: 2023-12-23T02:59:58.572062+00:00
  - user: None
  - tags: ['personal']
 
@@ -1766,14 +1904,14 @@
  - tags: []
 
 ## PostHog - The open source Product OS
- - [https://posthog.com](https://posthog.com)
- - date published: 2023-10-25T16:38:22.584209+00:00
+ - [http://posthog.com](http://posthog.com)
+ - date published: 2024-02-26T09:54:45.800568+00:00
  - user: None
  - tags: []
 
 ## PostHog - The open source Product OS
- - [http://posthog.com](http://posthog.com)
- - date published: 2024-02-26T09:54:45.800568+00:00
+ - [https://posthog.com](https://posthog.com)
+ - date published: 2023-10-25T16:38:22.584209+00:00
  - user: None
  - tags: []
 
@@ -1828,6 +1966,12 @@
 ## PotHix
  - [https://pothix.com](https://pothix.com)
  - date published: 2023-12-08T09:38:14.623587+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://www.potloodgum.com](https://www.potloodgum.com)
+ - date published: 2024-04-16T14:13:34.669084+00:00
  - user: None
  - tags: ['personal']
 
@@ -2036,14 +2180,14 @@
  - tags: []
 
 ## Preshing on Programming
- - [https://preshing.com](https://preshing.com)
- - date published: 2023-10-25T16:39:24.657091+00:00
+ - [http://preshing.com](http://preshing.com)
+ - date published: 2021-03-15T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Preshing on Programming
- - [http://preshing.com](http://preshing.com)
- - date published: 2021-03-15T00:00:00+00:00
+ - [https://preshing.com](https://preshing.com)
+ - date published: 2023-10-25T16:39:24.657091+00:00
  - user: None
  - tags: []
 
@@ -2330,14 +2474,14 @@
  - tags: []
 
 ## programming is terrible
- - [https://programmingisterrible.com](https://programmingisterrible.com)
- - date published: 2023-10-25T16:40:51.213240+00:00
+ - [http://programmingisterrible.com](http://programmingisterrible.com)
+ - date published: 2022-09-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## programming is terrible
- - [http://programmingisterrible.com](http://programmingisterrible.com)
- - date published: 2022-09-22T00:00:00+00:00
+ - [https://programmingisterrible.com](https://programmingisterrible.com)
+ - date published: 2023-10-25T16:40:51.213240+00:00
  - user: None
  - tags: []
 
@@ -2940,6 +3084,12 @@
  - date published: 2023-10-25T16:42:53.338256+00:00
  - user: None
  - tags: []
+
+## Python Graph Gallery | The Python Graph Gallery
+ - [https://python-graph-gallery.com](https://python-graph-gallery.com)
+ - date published: 2024-04-16T12:37:20.236899+00:00
+ - user: None
+ - tags: ['programming', 'code snippets', 'python']
 
 ## Python GUIs – Create GUI applications with Python and Qt
  - [https://www.pythonguis.com](https://www.pythonguis.com)
@@ -3991,16 +4141,16 @@ More!
  - tags: []
 
 ## Ravenfeast
- - [http://www.ravenfeast.com](http://www.ravenfeast.com)
- - date published: 2024-03-01T18:35:27.406553+00:00
- - user: None
- - tags: []
-
-## Ravenfeast
  - [https://www.ravenfeast.com](https://www.ravenfeast.com)
  - date published: 2024-03-01T09:41:52+00:00
  - user: rumpel
  - tags: ['tabletop games', 'wargames']
+
+## Ravenfeast
+ - [http://www.ravenfeast.com](http://www.ravenfeast.com)
+ - date published: 2024-03-01T18:35:27.406553+00:00
+ - user: None
+ - tags: []
 
 ## https://www.ravensoft.com
  - [https://www.ravensoft.com](https://www.ravensoft.com)
@@ -4270,7 +4420,7 @@ More!
  - [https://www.realvnc.com](https://www.realvnc.com)
  - date published: 2023-10-25T08:36:55.279787+00:00
  - user: None
- - tags: []
+ - tags: ['vnc', 'remote desktop']
 
 ## Fully Work From Anywhere Jobs in Engineering, Marketing, Sales, Design, and more.
  - [https://www.realworkfromanywhere.com](https://www.realworkfromanywhere.com)
@@ -4489,14 +4639,14 @@ More!
  - tags: []
 
 ## reddit
- - [http://www.reddit.com](http://www.reddit.com)
- - date published: 2024-02-20T00:00:00+00:00
+ - [https://www.reddit.com](https://www.reddit.com)
+ - date published: 2023-10-24T20:16:46.235665+00:00
  - user: None
  - tags: []
 
 ## reddit
- - [https://www.reddit.com](https://www.reddit.com)
- - date published: 2023-10-24T20:16:46.235665+00:00
+ - [http://www.reddit.com](http://www.reddit.com)
+ - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4561,14 +4711,14 @@ More!
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
+ - [http://www.reddit-stream.com](http://www.reddit-stream.com)
+ - date published: 2023-12-23T19:30:18.252561+00:00
  - user: None
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [http://www.reddit-stream.com](http://www.reddit-stream.com)
- - date published: 2023-12-23T19:30:18.252561+00:00
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
  - user: None
  - tags: []
 
@@ -5629,16 +5779,16 @@ More!
  - tags: []
 
 ## Ken Shirriff's blog
- - [https://www.righto.com](https://www.righto.com)
- - date published: 2023-10-25T16:51:33.313104+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## Ken Shirriff's blog
  - [http://www.righto.com](http://www.righto.com)
  - date published: 2024-02-25T00:44:48.796985+00:00
  - user: None
  - tags: []
+
+## Ken Shirriff's blog
+ - [https://www.righto.com](https://www.righto.com)
+ - date published: 2023-10-25T16:51:33.313104+00:00
+ - user: None
+ - tags: ['blog', 'personal']
 
 ## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
  - [https://www.rigzone.com](https://www.rigzone.com)
@@ -5853,156 +6003,6 @@ More!
 ## Bow Valley News - Powered by Rocky Mountain Outlook
  - [https://www.rmoutlook.com](https://www.rmoutlook.com)
  - date published: 2023-11-05T16:12:44.302581+00:00
- - user: None
- - tags: []
-
-## | Rebecca Murphey
- - [http://rmurphey.com](http://rmurphey.com)
- - date published: 2021-12-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nikhil. R
- - [https://rnikhil.com](https://rnikhil.com)
- - date published: 2024-01-01T09:04:56.855200+00:00
- - user: None
- - tags: []
-
-## Road & Track: Auto News, Reviews, and Car Culture
- - [https://www.roadandtrack.com](https://www.roadandtrack.com)
- - date published: 2023-10-25T10:55:46.397695+00:00
- - user: None
- - tags: []
-
-## Road Less Tested
- - [https://roadlesstested.com](https://roadlesstested.com)
- - date published: 2023-11-29T17:15:06.571585+00:00
- - user: None
- - tags: ['personal']
-
-## Roads - Discover the Future of Audio
- - [https://roadsaudio.com](https://roadsaudio.com)
- - date published: 2023-10-25T16:52:18.699605+00:00
- - user: None
- - tags: []
-
-## Road to VR - Virtual Reality News
- - [https://www.roadtovr.com](https://www.roadtovr.com)
- - date published: 2023-12-06T11:04:13+00:00
- - user: None
- - tags: ['virtual reality', 'tech news']
-
-## Verdict Traffic - The leading site for news and procurement in the road traffic management industry
- - [https://www.roadtraffic-technology.com](https://www.roadtraffic-technology.com)
- - date published: 2024-02-24T10:09:06.858697+00:00
- - user: None
- - tags: []
-
-## Roaming Down Under: home
- - [https://www.roamingdownunder.com](https://www.roamingdownunder.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Roar Electra - Stranger in a Strange Band
- - [https://roarelectra.com](https://roarelectra.com)
- - date published: 2023-12-02T10:26:09.288449+00:00
- - user: None
- - tags: ['personal']
-
-## Robb Report – The Best Luxury Cars, Jets, Yachts, Travel, Watches
- - [https://robbreport.com](https://robbreport.com)
- - date published: 2023-10-25T16:52:27.034462+00:00
- - user: None
- - tags: []
-
-## Rob Cubbon
- - [https://robcubbon.com](https://robcubbon.com)
- - date published: 2023-12-12T08:09:27.153050+00:00
- - user: None
- - tags: ['personal']
-
-## Robel Yemane
- - [https://robelyemane.com](https://robelyemane.com)
- - date published: 2023-11-29T15:51:07.676620+00:00
- - user: None
- - tags: ['personal']
-
-## RoberDam.com
- - [https://roberdam.com](https://roberdam.com)
- - date published: 2023-10-25T16:52:36.682376+00:00
- - user: None
- - tags: []
-
-## Roberta Schultz
- - [https://robertaschultz.com](https://robertaschultz.com)
- - date published: 2023-12-20T19:14:56.429805+00:00
- - user: None
- - tags: ['personal']
-
-## Robert Cazacu - Game Developer
- - [https://www.robertcazacu.com](https://www.robertcazacu.com)
- - date published: 2023-11-29T16:22:52.591993+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://robertfiorentino.com](https://robertfiorentino.com)
- - date published: 2023-12-29T20:12:00.000799+00:00
- - user: None
- - tags: ['personal']
-
-## 
- - [http://robertfiorentino.com](http://robertfiorentino.com)
- - date published: 2024-04-03T06:23:52.004548+00:00
- - user: None
- - tags: ['personal']
-
-## Robert Heaton
- - [https://robertheaton.com](https://robertheaton.com)
- - date published: 2023-10-25T16:52:38.686002+00:00
- - user: None
- - tags: []
-
-## Robert Henke
- - [https://roberthenke.com](https://roberthenke.com)
- - date published: 2024-01-06T17:07:27.532001+00:00
- - user: None
- - tags: []
-
-## Robert Jelenic
- - [https://www.robertjelenic.com](https://www.robertjelenic.com)
- - date published: 2024-04-03T06:26:27.714130+00:00
- - user: None
- - tags: ['personal']
-
-## Robert J. McCarter
- - [https://robertjmccarter.com](https://robertjmccarter.com)
- - date published: 2024-01-09T00:11:14.245458+00:00
- - user: None
- - tags: []
-
-## Robert Kennedy III – | Your Words Deserve To Be Heard
- - [https://robertkennedy3.com](https://robertkennedy3.com)
- - date published: 2024-02-26T12:44:48.940776+00:00
- - user: None
- - tags: []
-
-## Robert Kennedy III – | Your Words Deserve To Be Heard
- - [https://www.robertkennedy3.com](https://www.robertkennedy3.com)
- - date published: 2023-11-29T16:20:35.874809+00:00
- - user: None
- - tags: ['personal']
-
-## Robert Kingett – A fabulously blind romance author.
- - [https://robertkingett.com](https://robertkingett.com)
- - date published: 2024-01-22T17:43:37.103650+00:00
- - user: None
- - tags: []
-
-## All posts
- - [https://robertovitillo.com](https://robertovitillo.com)
- - date published: 2023-10-30T18:59:37.293132+00:00
  - user: None
  - tags: []
 

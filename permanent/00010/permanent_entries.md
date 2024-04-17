@@ -1,3 +1,123 @@
+## Mycroft
+ - [https://mycroftproject.com](https://mycroftproject.com)
+ - date published: 2023-12-05T19:53:37+00:00
+ - user: None
+ - tags: []
+
+## Mydbops: Expert Open Source Database Solutions
+ - [https://www.mydbops.com](https://www.mydbops.com)
+ - date published: 2024-02-18T16:02:31.501074+00:00
+ - user: None
+ - tags: []
+
+## Dear Sabrina
+ - [https://mydearsabrina.com](https://mydearsabrina.com)
+ - date published: 2023-12-03T09:19:33.315226+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cloudflare Captcha Page
+ - [http://www.mydomain.com](http://www.mydomain.com)
+ - date published: 2024-04-16T17:18:47.027736+00:00
+ - user: None
+ - tags: ['website builder']
+
+## Columbus News, Weather, Sports, Breaking News | WTTE
+ - [https://myfox28columbus.com](https://myfox28columbus.com)
+ - date published: 2023-12-22T15:48:21.919825+00:00
+ - user: None
+ - tags: []
+
+## Japanese Green Tea
+ - [https://www.myjapanesegreentea.com](https://www.myjapanesegreentea.com)
+ - date published: 2023-10-25T16:09:48.957754+00:00
+ - user: None
+ - tags: []
+
+## Board Games, TTRPGs & TCGs!
+ - [https://mykindofmeeple.com](https://mykindofmeeple.com)
+ - date published: 2024-03-21T00:00:00+00:00
+ - user: rumpel
+ - tags: ['board games', 'personal', 'tabletop games']
+
+## will england :: home
+ - [https://will.mylanders.com](https://will.mylanders.com)
+ - date published: 2023-12-03T01:44:00.361357+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mylar3 | Mylar3
+ - [https://mylarcomics.com](https://mylarcomics.com)
+ - date published: 2024-04-08T19:29:52.705843+00:00
+ - user: None
+ - tags: ['comics library', 'self-host']
+
+## Mango Mail - Email Hosting
+ - [https://mymangomail.com](https://mymangomail.com)
+ - date published: 2023-10-25T16:09:51.519785+00:00
+ - user: None
+ - tags: []
+
+## Discover STL files for 3D printing ideas and high-quality 3D printer models. | MyMiniFactory
+ - [https://www.myminifactory.com](https://www.myminifactory.com)
+ - date published: 2023-10-27T07:43:49.625978+00:00
+ - user: None
+ - tags: ['3d printing']
+
+## My Modern Met – The Big City That Celebrates Creative Ideas
+ - [https://mymodernmet.com](https://mymodernmet.com)
+ - date published: 2023-10-25T16:09:59.227066+00:00
+ - user: None
+ - tags: []
+
+## My Nintendo News - Nintendo News
+ - [https://mynintendonews.com](https://mynintendonews.com)
+ - date published: 2023-10-25T10:49:12.686518+00:00
+ - user: None
+ - tags: []
+
+## MyNixOS
+ - [https://mynixos.com](https://mynixos.com)
+ - date published: 2023-10-25T16:10:01.100682+00:00
+ - user: None
+ - tags: []
+
+## MyNorthwest - Seattle news, sports, weather, traffic, talk - MyNorthwest.com
+ - [https://mynorthwest.com](https://mynorthwest.com)
+ - date published: 2023-10-25T16:10:06.967219+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.mynwfl.com](https://www.mynwfl.com)
+ - date published: 2024-01-09T02:22:04.382434+00:00
+ - user: None
+ - tags: []
+
+## My Proactive Life – One Man's desire to change, one step at a time
+ - [http://myproactivelife.com](http://myproactivelife.com)
+ - date published: 2024-04-03T06:25:14.458379+00:00
+ - user: None
+ - tags: ['personal']
+
+## My Proactive Life – One Man's desire to change, one step at a time
+ - [https://myproactivelife.com](https://myproactivelife.com)
+ - date published: 2024-01-09T02:44:35.810001+00:00
+ - user: None
+ - tags: ['personal']
+
+## Myrtle Beach SC Breaking News & More | Myrtle Beach Sun News
+ - [https://www.myrtlebeachonline.com](https://www.myrtlebeachonline.com)
+ - date published: 2024-03-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MySA: San Antonio News, Food, Sports, Entertainment and Travel
+ - [https://www.mysanantonio.com](https://www.mysanantonio.com)
+ - date published: 2023-11-15T19:11:19.944384+00:00
+ - user: None
+ - tags: []
+
 ## Post | MyScale | Blog
  - [https://blog.myscale.com](https://blog.myscale.com)
  - date published: 2023-10-25T16:10:09.126066+00:00
@@ -1667,16 +1787,16 @@
  - tags: ['personal']
 
 ## nicola rushton - Product Designer
- - [http://nicolarushton.com](http://nicolarushton.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## nicola rushton - Product Designer
  - [https://nicolarushton.com](https://nicolarushton.com)
  - date published: 2024-01-09T02:44:58.408245+00:00
  - user: None
  - tags: ['personal']
+
+## nicola rushton - Product Designer
+ - [http://nicolarushton.com](http://nicolarushton.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Chronique d'Humeur de Nicolas Bermond 2005 – 2023 – Perspective
  - [https://nicolas-bermond.com](https://nicolas-bermond.com)
@@ -2412,13 +2532,13 @@
  - tags: []
 
 ## Peter Norvig
- - [http://www.norvig.com](http://www.norvig.com)
+ - [https://www.norvig.com](https://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Peter Norvig
- - [https://www.norvig.com](https://www.norvig.com)
+ - [http://www.norvig.com](http://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -4173,15 +4293,15 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
-## O'Reilly Media - Technology and Business Training
- - [https://radar.oreilly.com](https://radar.oreilly.com)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Radar - O’Reilly
  - [http://radar.oreilly.com](http://radar.oreilly.com)
  - date published: 2024-03-11T20:56:21.645465+00:00
+ - user: None
+ - tags: []
+
+## O'Reilly Media - Technology and Business Training
+ - [https://radar.oreilly.com](https://radar.oreilly.com)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4252,14 +4372,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## The OS/2 Museum
- - [http://www.os2museum.com](http://www.os2museum.com)
- - date published: 2024-02-25T18:55:49.882025+00:00
+ - [https://www.os2museum.com](https://www.os2museum.com)
+ - date published: 2023-10-25T16:27:40.415903+00:00
  - user: None
  - tags: []
 
 ## The OS/2 Museum
- - [https://www.os2museum.com](https://www.os2museum.com)
- - date published: 2023-10-25T16:27:40.415903+00:00
+ - [http://www.os2museum.com](http://www.os2museum.com)
+ - date published: 2024-02-25T18:55:49.882025+00:00
  - user: None
  - tags: []
 
@@ -4308,6 +4428,12 @@ Answering Machine Greetings!
 ## OSnews  -  Exploring the Future of Computing
  - [https://www.osnews.com](https://www.osnews.com)
  - date published: 2023-10-25T09:34:29.424722+00:00
+ - user: None
+ - tags: []
+
+## Oso: Authorization as a Service
+ - [https://www.osohq.com](https://www.osohq.com)
+ - date published: 2024-04-16T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4679,14 +4805,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## Home - Oz Rhodes
- - [https://www.ozrhodes.com](https://www.ozrhodes.com)
- - date published: 2023-12-20T00:59:19.143915+00:00
+ - [http://www.ozrhodes.com](http://www.ozrhodes.com)
+ - date published: 2024-04-03T12:44:50.762069+00:00
  - user: None
  - tags: ['personal']
 
 ## Home - Oz Rhodes
- - [http://www.ozrhodes.com](http://www.ozrhodes.com)
- - date published: 2024-04-03T12:44:50.762069+00:00
+ - [https://www.ozrhodes.com](https://www.ozrhodes.com)
+ - date published: 2023-12-20T00:59:19.143915+00:00
  - user: None
  - tags: ['personal']
 
@@ -5291,14 +5417,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## PJK's Blog
- - [https://www.patjk.com](https://www.patjk.com)
- - date published: 2023-12-15T21:43:37.233324+00:00
+ - [http://www.patjk.com](http://www.patjk.com)
+ - date published: 2024-04-03T06:29:54.946071+00:00
  - user: None
  - tags: ['personal']
 
 ## PJK's Blog
- - [http://www.patjk.com](http://www.patjk.com)
- - date published: 2024-04-03T06:29:54.946071+00:00
+ - [https://www.patjk.com](https://www.patjk.com)
+ - date published: 2023-12-15T21:43:37.233324+00:00
  - user: None
  - tags: ['personal']
 
@@ -5332,17 +5458,17 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
-## Max  FitzGerald  | Patreon
- - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
- - date published: 2023-10-27T15:07:52+00:00
- - user: rumpel
- - tags: ['turnip28', 'tabletop games']
-
 ## Home — Patreon
  - [http://www.patreon.com](http://www.patreon.com)
  - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
+
+## Max  FitzGerald  | Patreon
+ - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
+ - date published: 2023-10-27T15:07:52+00:00
+ - user: rumpel
+ - tags: ['turnip28', 'tabletop games']
 
 ## Home — Patreon
  - [https://www.patreon.com](https://www.patreon.com)
@@ -5387,14 +5513,14 @@ Answering Machine Greetings!
  - tags: ['personal']
 
 ## Patrick Yandell
- - [https://patrickyandell.com](https://patrickyandell.com)
- - date published: 2023-11-29T14:24:18.301040+00:00
+ - [http://patrickyandell.com](http://patrickyandell.com)
+ - date published: 2024-04-03T06:29:48.238438+00:00
  - user: None
  - tags: ['personal']
 
 ## Patrick Yandell
- - [http://patrickyandell.com](http://patrickyandell.com)
- - date published: 2024-04-03T06:29:48.238438+00:00
+ - [https://patrickyandell.com](https://patrickyandell.com)
+ - date published: 2023-11-29T14:24:18.301040+00:00
  - user: None
  - tags: ['personal']
 
@@ -5842,6 +5968,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Cyber Security Consulting & Testing | Pen Test Partners
+ - [https://www.pentestpartners.com](https://www.pentestpartners.com)
+ - date published: 2024-04-16T12:22:43.976949+00:00
+ - user: None
+ - tags: []
+
 ## Penetration testing toolkit, ready to use
  - [https://pentest-tools.com](https://pentest-tools.com)
  - date published: 2024-03-19T14:36:57.361231+00:00
@@ -5871,136 +6003,4 @@ Answering Machine Greetings!
  - date published: 2023-11-29T13:54:27.816636+00:00
  - user: None
  - tags: ['personal']
-
-## POCIT. Telling the stories and thoughts of people of color in tech.
- - [https://peopleofcolorintech.com](https://peopleofcolorintech.com)
- - date published: 2023-10-25T16:32:25.934361+00:00
- - user: None
- - tags: []
-
-## Home - Pepperidge Farm
- - [https://www.pepperidgefarm.com](https://www.pepperidgefarm.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## PepperInk.com – Chalk Art, Illustrations, Digital Painting, and Cartoons by Artist Eric Maruscak
- - [http://www.pepperink.com](http://www.pepperink.com)
- - date published: 2024-03-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Samuel Pepys: Diary, Letters, Family Tree, Maps, Encyclopedia, Discussion and more
- - [https://www.pepysdiary.com](https://www.pepysdiary.com)
- - date published: 2023-10-25T16:32:28.890530+00:00
- - user: None
- - tags: []
-
-## Pera Barrett - Dad, Shoebox Christmas founder, author, musician, doer.
- - [https://www.perabarrett.com](https://www.perabarrett.com)
- - date published: 2024-01-12T22:14:14.873814+00:00
- - user: None
- - tags: ['personal']
-
-## Pera Barrett - Dad, Shoebox Christmas founder, author, musician, doer.
- - [http://www.perabarrett.com](http://www.perabarrett.com)
- - date published: 2024-04-03T12:42:43.429862+00:00
- - user: None
- - tags: ['personal']
-
-## Open Source Database Software Support & Services | Percona
- - [https://www.percona.com](https://www.percona.com)
- - date published: 2023-10-25T16:32:31.939924+00:00
- - user: None
- - tags: []
-
-## Hi, I'm David Perell.
- - [https://perell.com](https://perell.com)
- - date published: 2023-10-25T16:32:35.600204+00:00
- - user: None
- - tags: []
-
-## Music Technology & Synthesizers - Perfect Circuit
- - [https://www.perfectcircuit.com](https://www.perfectcircuit.com)
- - date published: 2023-12-24T20:04:00.092369+00:00
- - user: None
- - tags: []
-
-## https://perfectdarkmode.com
- - [https://perfectdarkmode.com](https://perfectdarkmode.com)
- - date published: 2023-12-12T08:09:19.439269+00:00
- - user: None
- - tags: ['personal']
-
-## Perfection Kills
- - [https://perfectionkills.com](https://perfectionkills.com)
- - date published: 2024-01-09T02:46:05.195684+00:00
- - user: None
- - tags: []
-
-## Perfection Kills
- - [http://perfectionkills.com](http://perfectionkills.com)
- - date published: 2015-11-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## perfectpacman.com – Under new management
- - [https://perfectpacman.com](https://perfectpacman.com)
- - date published: 2023-10-25T16:32:46.875034+00:00
- - user: None
- - tags: []
-
-## Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game
- - [https://www.perfectpitchpuzzle.com](https://www.perfectpitchpuzzle.com)
- - date published: 2023-11-24T20:54:17+00:00
- - user: None
- - tags: []
-
-## PerfectRec: Personalized Product Recommendations
- - [https://www.perfectrec.com](https://www.perfectrec.com)
- - date published: 2023-10-25T16:32:57.052562+00:00
- - user: None
- - tags: []
-
-## Caras
- - [https://caras.perfil.com](https://caras.perfil.com)
- - date published: 2023-12-12T08:12:00.628623+00:00
- - user: None
- - tags: []
-
-## Fortuna
- - [https://fortuna.perfil.com](https://fortuna.perfil.com)
- - date published: 2023-12-12T08:13:20.618148+00:00
- - user: None
- - tags: []
-
-## https://fotos.perfil.com
- - [https://fotos.perfil.com](https://fotos.perfil.com)
- - date published: 2023-12-12T08:12:06.680313+00:00
- - user: None
- - tags: []
-
-## Hombre | Home
- - [https://hombre.perfil.com](https://hombre.perfil.com)
- - date published: 2024-01-09T02:46:08.677075+00:00
- - user: None
- - tags: []
-
-## https://look.perfil.com
- - [https://look.perfil.com](https://look.perfil.com)
- - date published: 2024-01-09T02:46:16.189403+00:00
- - user: None
- - tags: []
-
-## Luz | Revista Luz | Perfil
- - [https://luz.perfil.com](https://luz.perfil.com)
- - date published: 2024-01-09T02:46:17.954080+00:00
- - user: None
- - tags: []
-
-## Home | Marie Claire
- - [https://marieclaire.perfil.com](https://marieclaire.perfil.com)
- - date published: 2023-12-12T08:11:47.328348+00:00
- - user: None
- - tags: []
 

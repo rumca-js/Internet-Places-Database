@@ -1,3 +1,273 @@
+## Hi there! :: Thomas Pain
+ - [https://www.tdpain.net](https://www.tdpain.net)
+ - date published: 2023-10-25T08:54:09.435702+00:00
+ - user: None
+ - tags: ['personal']
+
+## We create unforgettable experiences
+ - [https://techland.net](https://techland.net)
+ - date published: 2023-10-30T18:26:25.030539+00:00
+ - user: None
+ - tags: ['video game developer', 'company']
+
+## TechRaptor - Gaming News and Reviews
+ - [https://techraptor.net](https://techraptor.net)
+ - date published: 2023-10-25T10:50:24.885098+00:00
+ - user: None
+ - tags: []
+
+## Techworm - The Tech Hub
+ - [https://www.techworm.net](https://www.techworm.net)
+ - date published: 2023-10-25T20:38:30.945323+00:00
+ - user: None
+ - tags: []
+
+## teleSUR English
+ - [https://www.telesurenglish.net](https://www.telesurenglish.net)
+ - date published: 2023-12-17T00:55:01.088525+00:00
+ - user: None
+ - tags: []
+
+## The web, design, and accessibility
+ - [https://www.tempertemper.net](https://www.tempertemper.net)
+ - date published: 2024-01-05T21:36:23.273816+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Adventures Unlimited | Text Based, MUD, RPG
+ - [https://www.tharel.net](https://www.tharel.net)
+ - date published: 2024-03-27T20:53:47.836294+00:00
+ - user: None
+ - tags: ['mud game']
+
+## The web site of The 64th Sanctum
+ - [https://the64thsanctum.net](https://the64thsanctum.net)
+ - date published: 2024-01-30T19:30:31.980187+00:00
+ - user: None
+ - tags: ['personal', 'interesting page']
+
+## None
+ - [http://www.the-algorithm.net](http://www.the-algorithm.net)
+ - date published: 2024-04-16T10:39:47+00:00
+ - user: rumpel
+ - tags: []
+
+## thebandys.net
+ - [https://thebandys.net](https://thebandys.net)
+ - date published: 2024-01-02T18:29:48.879505+00:00
+ - user: None
+ - tags: []
+
+## Batman Comic Reviews, Movies, Video Games, Merch & More | The Batman Universe
+ - [https://thebatmanuniverse.net](https://thebatmanuniverse.net)
+ - date published: 2023-11-27T12:53:37+00:00
+ - user: None
+ - tags: ['batman', 'comics']
+
+## Home - Believer Magazine
+ - [https://www.thebeliever.net](https://www.thebeliever.net)
+ - date published: 2023-10-25T20:38:35.687502+00:00
+ - user: None
+ - tags: []
+
+## redirect
+ - [https://tsunami.thebigwave.net](https://tsunami.thebigwave.net)
+ - date published: 2024-03-27T20:48:35.802992+00:00
+ - user: None
+ - tags: []
+
+## redirect
+ - [https://www.thebigwave.net](https://www.thebigwave.net)
+ - date published: 2024-03-27T20:51:33+00:00
+ - user: rumpel
+ - tags: ['mud game']
+
+## The Brontës
+ - [https://www.thebrontes.net](https://www.thebrontes.net)
+ - date published: 2024-01-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## TheForce.net: Home Page
+ - [http://www.theforce.net](http://www.theforce.net)
+ - date published: 2024-04-07T17:43:34+00:00
+ - user: rumpel
+ - tags: ['star wars news']
+
+## Eli Bendersky's website
+ - [http://eli.thegreenplace.net](http://eli.thegreenplace.net)
+ - date published: 2024-03-24T15:02:50.783691+00:00
+ - user: None
+ - tags: ['personal']
+
+## Eli Bendersky's website
+ - [https://eli.thegreenplace.net](https://eli.thegreenplace.net)
+ - date published: 2023-10-25T20:38:36.946214+00:00
+ - user: None
+ - tags: []
+
+## Ohio County, Marshall County Middle School Robotics Teams Qualify For VEX World Championships
+ - [https://www.theintelligencer.net](https://www.theintelligencer.net)
+ - date published: 2024-03-13T01:37:55.857349+00:00
+ - user: None
+ - tags: []
+
+## The Knife are 20 in 2020
+ - [https://theknife.net](https://theknife.net)
+ - date published: 2023-11-13T10:43:46.417240+00:00
+ - user: None
+ - tags: ['music band']
+
+## The Life Engine
+ - [https://thelifeengine.net](https://thelifeengine.net)
+ - date published: 2023-10-25T20:38:37.474424+00:00
+ - user: None
+ - tags: []
+
+## Legacy of Kain: The Lost Worlds
+ - [https://www.thelostworlds.net](https://www.thelostworlds.net)
+ - date published: 1999-04-14T00:00:00+00:00
+ - user: rumpel
+ - tags: ['legacy of kain']
+
+## The Nicest Place
+ - [https://thenicestplace.net](https://thenicestplace.net)
+ - date published: 2024-03-30T21:01:04+00:00
+ - user: rumpel
+ - tags: ['funny', 'interesting']
+
+## The Observational
+ - [https://www.theobservational.net](https://www.theobservational.net)
+ - date published: 2023-11-29T14:41:29.451267+00:00
+ - user: None
+ - tags: ['personal']
+
+## Lord of the Rings on Prime News and Info - The One Ring .net
+ - [https://theonering.net](https://theonering.net)
+ - date published: 1999-10-25T13:57:49+00:00
+ - user: rumpel
+ - tags: ['tolkien']
+
+## Lord of the Rings on Prime News and Info - The One Ring .net
+ - [https://www.theonering.net](https://www.theonering.net)
+ - date published: 1999-01-23T09:35:10+00:00
+ - user: None
+ - tags: ['lord of the rings', 'tolkien']
+
+## The Path Not Taken | Thomas Prosser | Substack
+ - [https://www.thepathnottaken.net](https://www.thepathnottaken.net)
+ - date published: 2023-11-14T11:53:38.062486+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://thepenmuse.net](https://thepenmuse.net)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: ['book reviews']
+
+## The Rumpus.net
+ - [https://therumpus.net](https://therumpus.net)
+ - date published: 2023-10-25T20:38:43.833561+00:00
+ - user: None
+ - tags: []
+
+## &> /dev/null
+ - [https://www.thirtythreeforty.net](https://www.thirtythreeforty.net)
+ - date published: 2023-10-25T20:38:44.287752+00:00
+ - user: None
+ - tags: []
+
+## This is important
+ - [https://thisisimportant.net](https://thisisimportant.net)
+ - date published: 2024-01-01T21:50:14.658453+00:00
+ - user: None
+ - tags: ['personal']
+
+## Threads
+ - [https://threads.net](https://threads.net)
+ - date published: 2024-02-06T14:11:13.766310+00:00
+ - user: None
+ - tags: ['social media']
+
+## Threads
+ - [https://www.threads.net](https://www.threads.net)
+ - date published: 2023-10-25T20:38:45.571181+00:00
+ - user: None
+ - tags: ['social platform']
+
+## https://threeplanes.net
+ - [https://threeplanes.net](https://threeplanes.net)
+ - date published: 2024-02-08T22:18:53.483749+00:00
+ - user: None
+ - tags: []
+
+## The Thunderbird Blog -
+ - [https://blog.thunderbird.net](https://blog.thunderbird.net)
+ - date published: 2023-10-25T20:38:52.705273+00:00
+ - user: None
+ - tags: []
+
+## Thunderbird — Free Your Inbox.
+ - [https://www.thunderbird.net](https://www.thunderbird.net)
+ - date published: 2023-10-25T08:36:29.384393+00:00
+ - user: None
+ - tags: ['rss reader', 'email client']
+
+## Hello World_
+ - [https://tianglim.net](https://tianglim.net)
+ - date published: 2024-01-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hello World_
+ - [http://tianglim.net](http://tianglim.net)
+ - date published: 2024-01-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## TI-99/4A Game Shelf
+ - [https://tigameshelf.net](https://tigameshelf.net)
+ - date published: 2023-10-25T20:38:54.509707+00:00
+ - user: None
+ - tags: []
+
+## Tildes
+ - [https://tildes.net](https://tildes.net)
+ - date published: 2024-01-12T19:27:22.052529+00:00
+ - user: None
+ - tags: []
+
+## Home - Tim Corpus
+ - [https://timcorpus.net](https://timcorpus.net)
+ - date published: 2023-11-29T14:18:36.924591+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tim Errickson
+ - [https://www.timerrickson.net](https://www.timerrickson.net)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## timschumi’s low-traffic blog
+ - [https://blog.timschumi.net](https://blog.timschumi.net)
+ - date published: 2024-01-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Tiny Awards
+ - [https://tinyawards.net](https://tinyawards.net)
+ - date published: 2023-10-25T20:39:01.634307+00:00
+ - user: None
+ - tags: []
+
+## tinyBots.net
+ - [https://tinybots.net](https://tinybots.net)
+ - date published: 2023-12-17T22:23:15.235947+00:00
+ - user: None
+ - tags: []
+
 ## Tiny Core Linux, Micro Core Linux, 12MB Linux GUI Desktop, Live, Frugal, Extendable
  - [http://tinycorelinux.net](http://tinycorelinux.net)
  - date published: 2024-04-13T20:18:18+00:00
@@ -1126,6 +1396,12 @@
  - user: None
  - tags: ['astronomy', 'science']
 
+## Show HN: Search HN for interesting comment sections
+ - [https://www.searchhacker.news](https://www.searchhacker.news)
+ - date published: 2024-04-16T13:19:18+00:00
+ - user: None
+ - tags: []
+
 ## The Spacebar
  - [https://www.spacebar.news](https://www.spacebar.news)
  - date published: 2024-04-14T20:38:28+00:00
@@ -2051,14 +2327,14 @@
  - tags: []
 
 ## INEVO: Eksperter på e-handel og digital markedsføring
- - [https://www.inevo.no](https://www.inevo.no)
- - date published: 2023-11-29T14:22:21.036592+00:00
+ - [http://www.inevo.no](http://www.inevo.no)
+ - date published: 2024-04-03T12:44:43.410441+00:00
  - user: None
  - tags: ['personal']
 
 ## INEVO: Eksperter på e-handel og digital markedsføring
- - [http://www.inevo.no](http://www.inevo.no)
- - date published: 2024-04-03T12:44:43.410441+00:00
+ - [https://www.inevo.no](https://www.inevo.no)
+ - date published: 2023-11-29T14:22:21.036592+00:00
  - user: None
  - tags: ['personal']
 
@@ -3174,14 +3450,14 @@ marginalia.nu
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
@@ -4420,14 +4696,14 @@ marginalia.nu
  - tags: []
 
 ## Archiveteam
- - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
+ - date published: 2023-11-25T06:19:37.367056+00:00
  - user: None
  - tags: []
 
 ## Archiveteam
- - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
- - date published: 2023-11-25T06:19:37.367056+00:00
+ - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4689,6 +4965,12 @@ marginalia.nu
  - user: None
  - tags: ['chiptune', 'keygen']
 
+## ATARI.ORG / Home / The Definitive Atari Resource on the Internet
+ - [http://atari.org](http://atari.org)
+ - date published: 2024-04-16T11:04:09+00:00
+ - user: rumpel
+ - tags: []
+
 ## AtariArchives.org - archiving vintage computer books, information, and software
  - [https://www.atariarchives.org](https://www.atariarchives.org)
  - date published: 2024-01-09T03:38:23+00:00
@@ -4870,13 +5152,13 @@ marginalia.nu
  - tags: ['web browser']
 
 ## BatMUD
- - [http://www.bat.org](http://www.bat.org)
+ - [https://www.bat.org](https://www.bat.org)
  - date published: 1990-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## BatMUD
- - [https://www.bat.org](https://www.bat.org)
+ - [http://www.bat.org](http://www.bat.org)
  - date published: 1990-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -5452,16 +5734,16 @@ marginalia.nu
  - tags: []
 
 ## loi.cx
- - [http://loic.breathful.org](http://loic.breathful.org)
- - date published: 2024-04-03T06:27:31.339748+00:00
- - user: None
- - tags: ['personal']
-
-## loi.cx
  - [https://loic.breathful.org](https://loic.breathful.org)
  - date published: 2024-02-08T11:56:36.228954+00:00
  - user: None
  - tags: []
+
+## loi.cx
+ - [http://loic.breathful.org](http://loic.breathful.org)
+ - date published: 2024-04-03T06:27:31.339748+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Breezy Version Control System
  - [https://www.breezy-vcs.org](https://www.breezy-vcs.org)
@@ -5718,288 +6000,6 @@ marginalia.nu
 ## CABINET / Homepage
  - [https://www.cabinetmagazine.org](https://www.cabinetmagazine.org)
  - date published: 2023-10-25T21:04:55.968628+00:00
- - user: None
- - tags: []
-
-## Cachix Blog
- - [https://blog.cachix.org](https://blog.cachix.org)
- - date published: 2023-10-25T21:04:57.090665+00:00
- - user: None
- - tags: []
-
-## Calculus Made Easy
- - [https://calculusmadeeasy.org](https://calculusmadeeasy.org)
- - date published: 2024-01-09T03:38:32.459592+00:00
- - user: None
- - tags: []
-
-## California Policy Center
- - [https://californiapolicycenter.org](https://californiapolicycenter.org)
- - date published: 2023-10-25T21:05:06.939673+00:00
- - user: None
- - tags: []
-
-## Call-A.P.P.L.E. – Worlds Largest Apple User Group – Since 1978
- - [https://www.callapple.org](https://www.callapple.org)
- - date published: 2023-10-25T21:05:17.584675+00:00
- - user: None
- - tags: []
-
-## CalMatters - California Politics, Policy, and Political News
- - [https://calmatters.org](https://calmatters.org)
- - date published: 2023-10-25T21:05:28.336887+00:00
- - user: None
- - tags: []
-
-## Cambridge Dictionary | English Dictionary, Translations & Thesaurus
- - [https://dictionary.cambridge.org](https://dictionary.cambridge.org)
- - date published: 2023-10-25T09:28:53.881071+00:00
- - user: None
- - tags: ['dictionary']
-
-## Home | Cambridge University Press & Assessment
- - [https://www.cambridge.org](https://www.cambridge.org)
- - date published: 2023-10-25T11:20:49.686300+00:00
- - user: None
- - tags: []
-
-## Campaign against Climate Change |
- - [https://www.campaigncc.org](https://www.campaigncc.org)
- - date published: 2023-10-25T21:05:30.647817+00:00
- - user: None
- - tags: []
-
-## Campaign For Nature
- - [https://www.campaignfornature.org](https://www.campaignfornature.org)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Campus Reform the #1 Source for College News
- - [https://www.campusreform.org](https://www.campusreform.org)
- - date published: 2023-10-25T21:05:35.423675+00:00
- - user: None
- - tags: []
-
-## Home - Cancer Research UK - Cancer News
- - [https://news.cancerresearchuk.org](https://news.cancerresearchuk.org)
- - date published: 2024-03-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://canonical.org
- - [https://canonical.org](https://canonical.org)
- - date published: 2024-01-09T02:23:09.369067+00:00
- - user: None
- - tags: []
-
-## Capital Research Center
- - [https://capitalresearch.org](https://capitalresearch.org)
- - date published: 2023-10-25T21:05:39.115851+00:00
- - user: None
- - tags: []
-
-## Cap'n Proto: Introduction
- - [https://capnproto.org](https://capnproto.org)
- - date published: 2023-10-25T21:05:41.035442+00:00
- - user: None
- - tags: []
-
-## Home - Carbon Brief
- - [https://www.carbonbrief.org](https://www.carbonbrief.org)
- - date published: 2023-11-27T12:24:38.485428+00:00
- - user: None
- - tags: ['climate change news']
-
-## CARE - Fighting Global Poverty and World Hunger
- - [https://www.care.org](https://www.care.org)
- - date published: 2023-11-22T01:14:20.947848+00:00
- - user: None
- - tags: []
-
-## Charlie Arehart Server Troubleshooting Tuning Configuration Support
- - [https://www.carehart.org](https://www.carehart.org)
- - date published: 2023-10-25T21:05:43.266786+00:00
- - user: None
- - tags: []
-
-## Carnegie Endowment for International Peace
- - [https://carnegieendowment.org](https://carnegieendowment.org)
- - date published: 2024-04-01T11:37:35.387443+00:00
- - user: None
- - tags: []
-
-## The Carter Center | Waging Peace, Fighting Disease & Building Hope
- - [https://www.cartercenter.org](https://www.cartercenter.org)
- - date published: 2023-10-25T21:05:47.773483+00:00
- - user: None
- - tags: []
-
-## Joe Casabona - Podcast Coach
- - [https://casabona.org](https://casabona.org)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Trusted Casino & Sportsbook Guide for 25 Years - Casino.org
- - [https://www.casino.org](https://www.casino.org)
- - date published: 2023-10-25T21:05:55.534104+00:00
- - user: None
- - tags: []
-
-## The Cassandra Dispatch
- - [https://cassandradispatch.org](https://cassandradispatch.org)
- - date published: 2023-10-25T21:05:57.295512+00:00
- - user: None
- - tags: []
-
-## Castopod by Ad Aures | Your Free & Open-source Podcast Host
- - [https://castopod.org](https://castopod.org)
- - date published: 2023-10-25T21:06:03.752582+00:00
- - user: None
- - tags: []
-
-## Cataclysm: Dark Days Ahead
- - [https://cataclysmdda.org](https://cataclysmdda.org)
- - date published: 2023-10-25T21:06:06.264019+00:00
- - user: None
- - tags: []
-
-## catb.org site page
- - [https://catb.org](https://catb.org)
- - date published: 2024-01-09T03:38:33.676764+00:00
- - user: None
- - tags: []
-
-## catb.org site page
- - [https://www.catb.org](https://www.catb.org)
- - date published: 2024-01-09T01:37:45.347428+00:00
- - user: None
- - tags: []
-
-## Home - CatholicVote org
- - [https://catholicvote.org](https://catholicvote.org)
- - date published: 2023-10-25T21:06:11.167042+00:00
- - user: None
- - tags: []
-
-## https://www.cato.org
- - [https://www.cato.org](https://www.cato.org)
- - date published: 2023-11-27T12:23:04+00:00
- - user: rumpel
- - tags: []
-
-## Cato Unbound
- - [https://www.cato-unbound.org](https://www.cato-unbound.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Document archive
- - [https://doc.cat-v.org](https://doc.cat-v.org)
- - date published: 2023-10-25T21:06:05.415579+00:00
- - user: None
- - tags: []
-
-## cblgh — alexander cobleigh / cblgh.org
- - [https://cblgh.org](https://cblgh.org)
- - date published: 2023-12-10T09:32:39.053237+00:00
- - user: None
- - tags: ['personal']
-
-## Homepage | Center on Budget and Policy Priorities
- - [https://www.cbpp.org](https://www.cbpp.org)
- - date published: 2023-10-25T21:06:23.147057+00:00
- - user: None
- - tags: []
-
-## Catholic Community Foundation of Minnesota
- - [https://www.ccf-mn.org](https://www.ccf-mn.org)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.c-data.org](https://www.c-data.org)
- - date published: 2023-12-27T18:12:07.727727+00:00
- - user: None
- - tags: ['personal']
-
-## C'Dent - A Portable Module Programming Language
- - [https://cdent.org](https://cdent.org)
- - date published: 2024-01-09T03:38:34.492434+00:00
- - user: None
- - tags: []
-
-## cdixon | home
- - [https://cdixon.org](https://cdixon.org)
- - date published: 2023-10-25T21:06:24.893004+00:00
- - user: None
- - tags: []
-
-## Cédric Bonhomme's website
- - [https://www.cedricbonhomme.org](https://www.cedricbonhomme.org)
- - date published: 2023-11-29T14:22:40.544756+00:00
- - user: None
- - tags: ['personal']
-
-## Celebratio Mathematica
- - [https://celebratio.org](https://celebratio.org)
- - date published: 2023-10-25T21:06:28.716375+00:00
- - user: None
- - tags: []
-
-## Centauri Dreams – Imagining and Planning Interstellar Exploration
- - [https://www.centauri-dreams.org](https://www.centauri-dreams.org)
- - date published: 2023-10-25T21:06:41.664630+00:00
- - user: None
- - tags: []
-
-## Center for Building in North America
- - [https://www.centerforbuilding.org](https://www.centerforbuilding.org)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## USC Center for Health Journalism
- - [https://centerforhealthjournalism.org](https://centerforhealthjournalism.org)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Johns Hopkins Center for Health Security
- - [https://www.centerforhealthsecurity.org](https://www.centerforhealthsecurity.org)
- - date published: 2023-10-25T21:06:44.275121+00:00
- - user: None
- - tags: []
-
-## lists.centos.org Mailing Lists
- - [https://lists.centos.org](https://lists.centos.org)
- - date published: 2023-10-25T21:06:46.268573+00:00
- - user: None
- - tags: []
-
-## The CentOS Project
- - [https://www.centos.org](https://www.centos.org)
- - date published: 2023-11-06T10:09:56.671715+00:00
- - user: None
- - tags: ['operating system', 'linux']
-
-## CenturyLife.Org
- - [https://www.centurylife.org](https://www.centurylife.org)
- - date published: 2023-12-17T22:22:58.924278+00:00
- - user: None
- - tags: []
-
-## Center for European Policy Analysis (CEPA) - CEPA
- - [https://cepa.org](https://cepa.org)
- - date published: 2023-10-25T21:06:48.710710+00:00
- - user: None
- - tags: []
-
-## Home | CEPR
- - [https://cepr.org](https://cepr.org)
- - date published: 2023-10-25T21:06:56.328532+00:00
  - user: None
  - tags: []
 

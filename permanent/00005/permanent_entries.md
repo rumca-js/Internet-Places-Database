@@ -1,3 +1,75 @@
+## Destination: zero bars
+ - [http://destinationzerobars.com](http://destinationzerobars.com)
+ - date published: 2013-07-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Destroy All Software
+ - [https://www.destroyallsoftware.com](https://www.destroyallsoftware.com)
+ - date published: 2023-10-25T13:50:36.567326+00:00
+ - user: None
+ - tags: []
+
+## Destructoid
+ - [https://www.destructoid.com](https://www.destructoid.com)
+ - date published: 2006-02-07T00:00:00+00:00
+ - user: rumpel
+ - tags: ['video game news']
+
+## Detroit News - Home
+ - [https://www.detroitnews.com](https://www.detroitnews.com)
+ - date published: 2023-10-25T13:50:38.587182+00:00
+ - user: None
+ - tags: []
+
+## Evidence-based medicine | Deva Boone, MD
+ - [https://www.devaboone.com](https://www.devaboone.com)
+ - date published: 2024-03-18T16:03:48.224318+00:00
+ - user: None
+ - tags: []
+
+## Home • DEVCLASS
+ - [https://devclass.com](https://devclass.com)
+ - date published: 2023-10-25T13:50:42.438218+00:00
+ - user: None
+ - tags: []
+
+## DevCycle | Feature Flag Management for Developers
+ - [https://devcycle.com](https://devcycle.com)
+ - date published: 2023-10-25T13:50:46.064161+00:00
+ - user: None
+ - tags: []
+
+## Dev Community - DevDojo
+ - [https://devdojo.com](https://devdojo.com)
+ - date published: 2023-10-25T13:50:50.978170+00:00
+ - user: None
+ - tags: []
+
+## Home | Developer Pitstop
+ - [https://developerpitstop.com](https://developerpitstop.com)
+ - date published: 2023-10-25T13:50:57.547624+00:00
+ - user: None
+ - tags: []
+
+## Developer Tech News | Latest App Developer News & Insights
+ - [https://www.developer-tech.com](https://www.developer-tech.com)
+ - date published: 2023-10-25T10:13:59.122086+00:00
+ - user: None
+ - tags: []
+
+## Development Friendly – Coding and web development advice for all.
+ - [https://developmentfriendly.com](https://developmentfriendly.com)
+ - date published: 2023-10-25T13:51:00.761063+00:00
+ - user: None
+ - tags: []
+
+## Development Simply Put | Software Engineering Hub
+ - [https://www.developmentsimplyput.com](https://www.developmentsimplyput.com)
+ - date published: 2023-12-28T04:56:24.867354+00:00
+ - user: None
+ - tags: []
+
 ## devex.com
  - [https://www.devex.com](https://www.devex.com)
  - date published: 2023-10-25T13:51:02.062974+00:00
@@ -1530,14 +1602,14 @@
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [http://drinkag1.com](http://drinkag1.com)
- - date published: 2024-01-21T19:15:07.982155+00:00
+ - [https://drinkag1.com](https://drinkag1.com)
+ - date published: 2024-02-24T09:55:07.922857+00:00
  - user: None
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [https://drinkag1.com](https://drinkag1.com)
- - date published: 2024-02-24T09:55:07.922857+00:00
+ - [http://drinkag1.com](http://drinkag1.com)
+ - date published: 2024-01-21T19:15:07.982155+00:00
  - user: None
  - tags: []
 
@@ -4692,14 +4764,14 @@
  - tags: []
 
 ## ezyang’s blog
- - [https://blog.ezyang.com](https://blog.ezyang.com)
- - date published: 2024-01-09T01:37:06.985730+00:00
+ - [http://blog.ezyang.com](http://blog.ezyang.com)
+ - date published: 2024-02-26T14:52:50.963348+00:00
  - user: None
  - tags: []
 
 ## ezyang’s blog
- - [http://blog.ezyang.com](http://blog.ezyang.com)
- - date published: 2024-02-26T14:52:50.963348+00:00
+ - [https://blog.ezyang.com](https://blog.ezyang.com)
+ - date published: 2024-01-09T01:37:06.985730+00:00
  - user: None
  - tags: []
 
@@ -4758,14 +4830,14 @@
  - tags: []
 
 ## Log in or sign up to view
- - [http://facebook.com](http://facebook.com)
- - date published: 2024-02-24T09:56:45.941514+00:00
+ - [https://facebook.com](https://facebook.com)
+ - date published: 2023-12-11T16:53:43.180916+00:00
  - user: None
  - tags: []
 
 ## Log in or sign up to view
- - [https://facebook.com](https://facebook.com)
- - date published: 2023-12-11T16:53:43.180916+00:00
+ - [http://facebook.com](http://facebook.com)
+ - date published: 2024-02-24T09:56:45.941514+00:00
  - user: None
  - tags: []
 
@@ -4787,17 +4859,17 @@
  - user: rumpel
  - tags: ['facebook']
 
-## Log in or sign up to view
- - [http://www.facebook.com](http://www.facebook.com)
- - date published: 2024-02-24T09:54:20.558477+00:00
- - user: None
- - tags: []
-
 ## Facebook
  - [https://www.facebook.com](https://www.facebook.com)
  - date published: 2023-10-24T20:15:12+00:00
  - user: rumpel
  - tags: ['gatekeeper', 'social platform']
+
+## Log in or sign up to view
+ - [http://www.facebook.com](http://www.facebook.com)
+ - date published: 2024-02-24T09:54:20.558477+00:00
+ - user: None
+ - tags: []
 
 ## In re: Facebook, Inc. Consumer Privacy User Profile Litigation
  - [https://www.facebookuserprivacysettlement.com](https://www.facebookuserprivacysettlement.com)
@@ -5178,14 +5250,14 @@
  - tags: []
 
 ## Fang-Pen's coding note
- - [http://fangpenlin.com](http://fangpenlin.com)
- - date published: 2024-01-14T00:00:00+00:00
+ - [https://fangpenlin.com](https://fangpenlin.com)
+ - date published: 2024-01-15T18:30:18.650651+00:00
  - user: None
  - tags: []
 
 ## Fang-Pen's coding note
- - [https://fangpenlin.com](https://fangpenlin.com)
- - date published: 2024-01-15T18:30:18.650651+00:00
+ - [http://fangpenlin.com](http://fangpenlin.com)
+ - date published: 2024-01-14T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5507,15 +5579,15 @@
  - user: None
  - tags: []
 
-## Error 404 (Not Found)!!1
- - [https://feeds.feedburner.com](https://feeds.feedburner.com)
- - date published: 2024-01-09T02:36:30.505752+00:00
- - user: None
- - tags: []
-
 ## None
  - [http://feeds.feedburner.com](http://feeds.feedburner.com)
  - date published: 2024-02-25T14:03:04.041505+00:00
+ - user: None
+ - tags: []
+
+## Error 404 (Not Found)!!1
+ - [https://feeds.feedburner.com](https://feeds.feedburner.com)
+ - date published: 2024-01-09T02:36:30.505752+00:00
  - user: None
  - tags: []
 
@@ -5924,78 +5996,6 @@
 ## The Latest in Fire Service News | Firefighter Nation
  - [https://www.firefighternation.com](https://www.firefighternation.com)
  - date published: 2024-04-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.firehouse.com](https://www.firehouse.com)
- - date published: 2024-04-05T18:55:39.641854+00:00
- - user: None
- - tags: []
-
-## Fire. Light. Love.
- - [https://firelightlove.com](https://firelightlove.com)
- - date published: 2024-02-25T20:18:12.410539+00:00
- - user: None
- - tags: []
-
-## Fire. Light. Love.
- - [https://www.firelightlove.com](https://www.firelightlove.com)
- - date published: 2024-01-04T03:33:59.148413+00:00
- - user: None
- - tags: []
-
-## FireMon.com – Improve Security Operations. Improve Security Outcomes.
- - [https://www.firemon.com](https://www.firemon.com)
- - date published: 2023-10-25T14:31:45.441785+00:00
- - user: None
- - tags: []
-
-## News, Training, Products for Firefighters, Fire Service Professionals
- - [https://www.firerescue1.com](https://www.firerescue1.com)
- - date published: 2024-04-05T18:55:35.353365+00:00
- - user: None
- - tags: []
-
-## Studio Firlefanzski by Ashley Winkler
- - [https://www.firlefanzski.com](https://www.firlefanzski.com)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## KMOV | Missouri Local News, Weather, Sports | St. Louis, MO
- - [https://www.firstalert4.com](https://www.firstalert4.com)
- - date published: 2023-12-12T19:48:50.469222+00:00
- - user: None
- - tags: []
-
-## LIVE updates, Latest News, Breaking News, World News, Sports News, Bollywood News, Business, Entertainment, Tech, Political News and more – Firstpost
- - [https://www.firstpost.com](https://www.firstpost.com)
- - date published: 2023-10-25T14:31:52.571721+00:00
- - user: None
- - tags: []
-
-## Investor Relations | First Republic Bank
- - [https://ir.firstrepublic.com](https://ir.firstrepublic.com)
- - date published: 2023-10-25T14:32:00.740860+00:00
- - user: None
- - tags: []
-
-## First Round Review
- - [https://review.firstround.com](https://review.firstround.com)
- - date published: 2023-10-25T14:32:10.606183+00:00
- - user: None
- - tags: []
-
-## First Things | America’s Most Influential Journal of Religion & Public Life
- - [https://www.firstthings.com](https://www.firstthings.com)
- - date published: 2023-10-25T14:32:18.847989+00:00
- - user: None
- - tags: []
-
-## https://www.fishmanafnewsletter.com
- - [https://www.fishmanafnewsletter.com](https://www.fishmanafnewsletter.com)
- - date published: 2024-01-24T03:10:27.641136+00:00
  - user: None
  - tags: []
 

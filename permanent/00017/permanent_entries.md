@@ -1,3 +1,225 @@
+## Thoughts on Software
+ - [https://gordonc.bearblog.dev](https://gordonc.bearblog.dev)
+ - date published: 2023-10-25T18:35:17.641679+00:00
+ - user: None
+ - tags: []
+
+## ᕕ( ᐛ )ᕗ Herman's blog
+ - [https://herman.bearblog.dev](https://herman.bearblog.dev)
+ - date published: 2023-10-25T09:21:35.599140+00:00
+ - user: None
+ - tags: ['personal']
+
+## Isaac's Blog
+ - [https://isultan.bearblog.dev](https://isultan.bearblog.dev)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 404
+ - [https://joshuamo876.bearblog.dev](https://joshuamo876.bearblog.dev)
+ - date published: 2024-01-09T02:56:51.096941+00:00
+ - user: None
+ - tags: []
+
+## Thoughtless Acts
+ - [https://klint.bearblog.dev](https://klint.bearblog.dev)
+ - date published: 2023-10-25T18:35:18.290671+00:00
+ - user: None
+ - tags: []
+
+## Labskausleben
+ - [https://labskausleben.bearblog.dev](https://labskausleben.bearblog.dev)
+ - date published: 2023-10-25T18:35:19.024762+00:00
+ - user: None
+ - tags: []
+
+## (map #(discard %) opinions)
+ - [https://lrios.bearblog.dev](https://lrios.bearblog.dev)
+ - date published: 2023-10-25T18:35:20.262209+00:00
+ - user: None
+ - tags: []
+
+## maybecoding
+ - [https://maybecoding.bearblog.dev](https://maybecoding.bearblog.dev)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Meadow
+ - [https://meadow.bearblog.dev](https://meadow.bearblog.dev)
+ - date published: 2024-01-15T21:40:18.730489+00:00
+ - user: None
+ - tags: []
+
+## Nicky's Blog
+ - [https://nicky.bearblog.dev](https://nicky.bearblog.dev)
+ - date published: 2023-10-25T09:21:36.275587+00:00
+ - user: None
+ - tags: ['personal']
+
+## 📚 Austin Merrick’s Blog
+ - [https://onsclom.bearblog.dev](https://onsclom.bearblog.dev)
+ - date published: 2023-10-25T09:21:36.944070+00:00
+ - user: None
+ - tags: ['personal']
+
+## Roger González Gutiérrez
+ - [https://rogermexico.bearblog.dev](https://rogermexico.bearblog.dev)
+ - date published: 2023-10-25T09:21:37.575707+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rough Drafts
+ - [https://sebastian.bearblog.dev](https://sebastian.bearblog.dev)
+ - date published: 2023-10-25T18:35:21.788286+00:00
+ - user: None
+ - tags: []
+
+## 404
+ - [https://thoughtsbyaashiq.bearblog.dev](https://thoughtsbyaashiq.bearblog.dev)
+ - date published: 2024-01-09T02:56:51.899029+00:00
+ - user: None
+ - tags: []
+
+## yours, tiramisú
+ - [https://tiramisu.bearblog.dev](https://tiramisu.bearblog.dev)
+ - date published: 2023-10-25T18:35:24.282963+00:00
+ - user: None
+ - tags: []
+
+## Mellow Root
+ - [https://tmp.bearblog.dev](https://tmp.bearblog.dev)
+ - date published: 2023-10-25T18:35:27.261202+00:00
+ - user: None
+ - tags: []
+
+## <(^.^)> tsuki
+ - [https://tsk.bearblog.dev](https://tsk.bearblog.dev)
+ - date published: 2023-10-25T18:35:30.893321+00:00
+ - user: None
+ - tags: ['personal']
+
+## Vladar's Blog
+ - [https://vladar.bearblog.dev](https://vladar.bearblog.dev)
+ - date published: 2023-10-25T08:48:22.451942+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ben Greenberg | Developer Advocate
+ - [https://www.bengreenberg.dev](https://www.bengreenberg.dev)
+ - date published: 2023-10-25T08:48:23.203398+00:00
+ - user: None
+ - tags: ['personal']
+
+## Benthos Studio
+ - [https://studio.benthos.dev](https://studio.benthos.dev)
+ - date published: 2023-10-25T18:35:33.542869+00:00
+ - user: None
+ - tags: []
+
+## Bernd Verst :: Tech Blog :: bernd.dev
+ - [https://bernd.dev](https://bernd.dev)
+ - date published: 2023-10-25T08:58:24.131675+00:00
+ - user: None
+ - tags: ['personal']
+
+## Biome
+ - [https://biomejs.dev](https://biomejs.dev)
+ - date published: 2024-01-22T15:38:41.550455+00:00
+ - user: None
+ - tags: []
+
+## 🏠 | Viacheslav Biriukov
+ - [https://biriukov.dev](https://biriukov.dev)
+ - date published: 2023-10-25T18:35:35.222794+00:00
+ - user: None
+ - tags: []
+
+## Bite code! | Substack
+ - [https://www.bitecode.dev](https://www.bitecode.dev)
+ - date published: 2023-10-25T18:35:39.112584+00:00
+ - user: None
+ - tags: []
+
+## Adrian's Blog
+ - [https://blog.bithole.dev](https://blog.bithole.dev)
+ - date published: 2023-10-25T09:21:38.855563+00:00
+ - user: None
+ - tags: ['personal']
+
+## bitsapien
+ - [https://blog.bitsapien.dev](https://blog.bitsapien.dev)
+ - date published: 2023-12-28T18:49:19.642977+00:00
+ - user: None
+ - tags: ['personal']
+
+## Brendan O'Leary
+ - [https://blog.boleary.dev](https://blog.boleary.dev)
+ - date published: 2023-10-25T08:48:25.484900+00:00
+ - user: None
+ - tags: ['personal']
+
+## Brendan O'Leary
+ - [https://boleary.dev](https://boleary.dev)
+ - date published: 2024-02-25T15:29:26.724139+00:00
+ - user: None
+ - tags: []
+
+## Boot.dev Blog
+ - [https://blog.boot.dev](https://blog.boot.dev)
+ - date published: 2023-10-25T18:35:42.140501+00:00
+ - user: None
+ - tags: []
+
+## Bottlerocket
+ - [https://bottlerocket.dev](https://bottlerocket.dev)
+ - date published: 2023-10-25T08:31:56.153110+00:00
+ - user: None
+ - tags: []
+
+## Box of Cables
+ - [https://boxofcables.dev](https://boxofcables.dev)
+ - date published: 2023-10-25T18:35:44.718688+00:00
+ - user: None
+ - tags: []
+
+## Breakneck
+ - [https://www.breakneck.dev](https://www.breakneck.dev)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Getting started
+ - [https://brev.dev](https://brev.dev)
+ - date published: 2023-10-25T18:35:47.063696+00:00
+ - user: None
+ - tags: []
+
+## Bulletproof PHP
+ - [https://bulletproofphp.dev](https://bulletproofphp.dev)
+ - date published: 2023-10-25T18:35:49.168688+00:00
+ - user: None
+ - tags: []
+
+## Kevin Burke | The golden age is before us, not behind us
+ - [https://kevin.burke.dev](https://kevin.burke.dev)
+ - date published: 2023-10-25T18:35:57.306361+00:00
+ - user: None
+ - tags: []
+
+## Apps SDK documentation - Canva Apps SDK Documentation
+ - [https://www.canva.dev](https://www.canva.dev)
+ - date published: 2023-10-25T18:35:59.119954+00:00
+ - user: None
+ - tags: []
+
+## Cassey Lottman
+ - [https://www.cassey.dev](https://www.cassey.dev)
+ - date published: 2024-02-08T20:27:06.906375+00:00
+ - user: None
+ - tags: []
+
 ## Home | Gilles Castel
  - [https://castel.dev](https://castel.dev)
  - date published: 2023-10-25T18:36:01.301678+00:00
@@ -469,14 +691,14 @@
  - tags: []
 
 ## endtimes.dev
- - [http://endtimes.dev](http://endtimes.dev)
- - date published: 2024-02-26T14:52:45.275010+00:00
+ - [https://endtimes.dev](https://endtimes.dev)
+ - date published: 2023-10-25T18:37:42.008452+00:00
  - user: None
  - tags: []
 
 ## endtimes.dev
- - [https://endtimes.dev](https://endtimes.dev)
- - date published: 2023-10-25T18:37:42.008452+00:00
+ - [http://endtimes.dev](http://endtimes.dev)
+ - date published: 2024-02-26T14:52:45.275010+00:00
  - user: None
  - tags: []
 
@@ -947,6 +1169,12 @@
  - date published: 2023-10-25T18:38:46.533482+00:00
  - user: None
  - tags: []
+
+## Jaz's Blog · A space where I rant about computers
+ - [https://jazco.dev](https://jazco.dev)
+ - date published: 2024-04-16T09:22:23.261674+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Jonny Buchanan's website
  - [https://jbscript.dev](https://jbscript.dev)
@@ -1789,14 +2017,14 @@
  - tags: []
 
 ## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date published: 2023-01-31T00:00:00+00:00
+ - [http://passkeys.dev](http://passkeys.dev)
+ - date published: 2024-02-25T19:46:12.112766+00:00
  - user: None
  - tags: []
 
 ## Passkey Developer Resources
- - [http://passkeys.dev](http://passkeys.dev)
- - date published: 2024-02-25T19:46:12.112766+00:00
+ - [https://passkeys.dev](https://passkeys.dev)
+ - date published: 2023-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2331,14 +2559,14 @@
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2375,6 +2603,12 @@
 ## SQLSync
  - [https://sqlsync.dev](https://sqlsync.dev)
  - date published: 2023-12-01T17:37:45.763365+00:00
+ - user: None
+ - tags: []
+
+## Sedat Kapanoglu – Medium
+ - [https://ssg.dev](https://ssg.dev)
+ - date published: 2024-04-16T11:32:34.726324+00:00
  - user: None
  - tags: []
 
@@ -2585,6 +2819,12 @@
 ## TSDocs.dev: type docs for any javascript library
  - [https://tsdocs.dev](https://tsdocs.dev)
  - date published: 2023-12-19T16:34:15+00:00
+ - user: None
+ - tags: []
+
+## Tvix – A New Implementation of Nix
+ - [https://tvix.dev](https://tvix.dev)
+ - date published: 2024-04-16T21:51:27+00:00
  - user: None
  - tags: []
 
@@ -5735,14 +5975,14 @@
  - tags: []
 
 ## Stanford News
- - [https://news.stanford.edu](https://news.stanford.edu)
- - date published: 2023-10-25T18:58:41.013599+00:00
+ - [http://news.stanford.edu](http://news.stanford.edu)
+ - date published: 2024-02-26T13:11:04.090772+00:00
  - user: None
  - tags: []
 
 ## Stanford News
- - [http://news.stanford.edu](http://news.stanford.edu)
- - date published: 2024-02-26T13:11:04.090772+00:00
+ - [https://news.stanford.edu](https://news.stanford.edu)
+ - date published: 2023-10-25T18:58:41.013599+00:00
  - user: None
  - tags: []
 
@@ -5767,246 +6007,6 @@
 ## RelBench: Relational Deep Learning Benchmark
  - [https://relbench.stanford.edu](https://relbench.stanford.edu)
  - date published: 2023-11-28T17:41:50.517585+00:00
- - user: None
- - tags: []
-
-## Sebastian Thrun – Home
- - [http://robots.stanford.edu](http://robots.stanford.edu)
- - date published: 2023-10-25T18:58:43.127336+00:00
- - user: None
- - tags: []
-
-## Scope | Stanford Medicine's blog - Scope
- - [https://scopeblog.stanford.edu](https://scopeblog.stanford.edu)
- - date published: 2023-10-25T18:58:46.447141+00:00
- - user: None
- - tags: []
-
-## Stacks
- - [https://stacks.stanford.edu](https://stacks.stanford.edu)
- - date published: 2023-10-25T18:58:47.620111+00:00
- - user: None
- - tags: []
-
-## Home - Stanford Medicine Magazine
- - [https://stanmed.stanford.edu](https://stanmed.stanford.edu)
- - date published: 2023-10-25T18:58:50.836757+00:00
- - user: None
- - tags: []
-
-## Stanford University
- - [https://web.stanford.edu](https://web.stanford.edu)
- - date published: 2023-10-25T11:23:29.593797+00:00
- - user: None
- - tags: ['university']
-
-## Computer Science
- - [https://www-cs-faculty.stanford.edu](https://www-cs-faculty.stanford.edu)
- - date published: 2023-10-25T11:23:38.340991+00:00
- - user: None
- - tags: []
-
-## Student Information
- - [http://www-cs-students.stanford.edu](http://www-cs-students.stanford.edu)
- - date published: 2024-03-24T15:03:46.903814+00:00
- - user: None
- - tags: []
-
-## Formal Reasoning Group
- - [https://www-formal.stanford.edu](https://www-formal.stanford.edu)
- - date published: 2023-10-25T18:59:01.363669+00:00
- - user: None
- - tags: []
-
-## Stanford Graduate School of Business
- - [https://www.gsb.stanford.edu](https://www.gsb.stanford.edu)
- - date published: 2023-10-25T18:59:13.500246+00:00
- - user: None
- - tags: []
-
-## Stanford Secure Computer Systems Group
- - [https://www.scs.stanford.edu](https://www.scs.stanford.edu)
- - date published: 2023-10-25T18:59:15.431486+00:00
- - user: None
- - tags: []
-
-## Stevens Institute of Technology
- - [https://www.stevens.edu](https://www.stevens.edu)
- - date published: 2023-11-02T13:02:30.527891+00:00
- - user: None
- - tags: []
-
-## St. John's Law Scholarship Repository | St. John's University School of Law Research
- - [https://scholarship.law.stjohns.edu](https://scholarship.law.stjohns.edu)
- - date published: 2024-03-01T13:48:16.671327+00:00
- - user: None
- - tags: []
-
-## A House of Priestly Formation and Theological Education | St. Mary Seminary
- - [https://stmarysem.edu](https://stmarysem.edu)
- - date published: 2024-02-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## News and Success Stories | University of St. Thomas Houston
- - [https://news.stthom.edu](https://news.stthom.edu)
- - date published: 2024-02-08T17:00:17.906342+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://www.cs.swarthmore.edu](https://www.cs.swarthmore.edu)
- - date published: 2016-06-28T19:44:24+00:00
- - user: None
- - tags: []
-
-## Home - Campus Framework – Syracuse University
- - [https://campusframework.syr.edu](https://campusframework.syr.edu)
- - date published: 2024-02-08T22:03:40.531573+00:00
- - user: None
- - tags: []
-
-## Center for Autism Research in Electrophysiology (CARE) Lab - CARE Lab – Syracuse University
- - [https://nrusso.expressions.syr.edu](https://nrusso.expressions.syr.edu)
- - date published: 2024-02-08T22:51:18.069903+00:00
- - user: None
- - tags: []
-
-## Engineering People Site
- - [https://people.engr.tamu.edu](https://people.engr.tamu.edu)
- - date published: 2023-10-25T18:59:20.825012+00:00
- - user: None
- - tags: []
-
-## Ring Dance – Texas A&M University
- - [https://ringdance.tamu.edu](https://ringdance.tamu.edu)
- - date published: 2024-02-08T16:48:50.209704+00:00
- - user: None
- - tags: []
-
-## Texas A&M Today - News from Texas A&M University
- - [https://today.tamu.edu](https://today.tamu.edu)
- - date published: 2023-10-25T18:59:22.810212+00:00
- - user: None
- - tags: []
-
-## Open Earable
- - [https://open-earable.teco.edu](https://open-earable.teco.edu)
- - date published: 2023-10-25T18:59:23.641652+00:00
- - user: None
- - tags: []
-
-## Department of Computer & Information Sciences | College of Science and Technology
- - [https://cis.temple.edu](https://cis.temple.edu)
- - date published: 2023-10-25T18:59:25.283156+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science, University of Toronto
- - [https://www.cs.toronto.edu](https://www.cs.toronto.edu)
- - date published: 2023-10-25T18:59:33.196200+00:00
- - user: None
- - tags: []
-
-## Welcome to Tufts Now
- - [https://now.tufts.edu](https://now.tufts.edu)
- - date published: 2024-02-24T18:07:27.412563+00:00
- - user: None
- - tags: []
-
-## Homepage | Department of Computer Science
- - [https://www.cs.tufts.edu](https://www.cs.tufts.edu)
- - date published: 2023-10-25T18:59:37.817720+00:00
- - user: None
- - tags: []
-
-## Tulane News
- - [https://news.tulane.edu](https://news.tulane.edu)
- - date published: 2023-10-25T18:59:42.065237+00:00
- - user: None
- - tags: []
-
-## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
- - [https://crimsonhistorical.ua.edu](https://crimsonhistorical.ua.edu)
- - date published: 2024-02-08T18:16:42.939005+00:00
- - user: None
- - tags: []
-
-## eop.ua.edu – Equal Opportunity | The University of Alabama
- - [https://eop.ua.edu](https://eop.ua.edu)
- - date published: 2024-02-08T22:03:09.704384+00:00
- - user: None
- - tags: []
-
-## The University of Alabama at Birmingham | UAB
- - [https://www.uab.edu](https://www.uab.edu)
- - date published: 2024-03-17T17:11:05.424790+00:00
- - user: None
- - tags: []
-
-## UAF Home | University of Alaska Fairbanks
- - [https://www.uaf.edu](https://www.uaf.edu)
- - date published: 2024-01-22T18:01:55.229298+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.uc.edu](https://www.uc.edu)
- - date published: 2023-11-03T10:54:50.239840+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://cs.ucdavis.edu](https://cs.ucdavis.edu)
- - date published: 2024-02-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## UC Davis Health | University of California, Davis
- - [https://health.ucdavis.edu](https://health.ucdavis.edu)
- - date published: 2024-02-24T10:01:59.909607+00:00
- - user: None
- - tags: []
-
-## UC Davis College of Letters and Science
- - [https://lettersandscience.ucdavis.edu](https://lettersandscience.ucdavis.edu)
- - date published: 2023-11-03T19:14:18.151008+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://web.cs.ucdavis.edu](https://web.cs.ucdavis.edu)
- - date published: 2023-10-25T18:59:47.853350+00:00
- - user: None
- - tags: []
-
-## UC Davis | California's College Town
- - [https://www.ucdavis.edu](https://www.ucdavis.edu)
- - date published: 2023-10-25T18:59:54.439947+00:00
- - user: None
- - tags: []
-
-## Autonomous and Intelligent Systems – Just another WordPress site
- - [https://eecs.ucf.edu](https://eecs.ucf.edu)
- - date published: 2024-01-09T03:28:03.267934+00:00
- - user: None
- - tags: []
-
-## Becker Friedman Institute for Economics at University of Chicago — Frontier Research, Global Impact. | BFI
- - [https://bfi.uchicago.edu](https://bfi.uchicago.edu)
- - date published: 2023-10-25T18:59:59.078924+00:00
- - user: None
- - tags: []
-
-## Biological Sciences Division at the University of Chicago
- - [https://biologicalsciences.uchicago.edu](https://biologicalsciences.uchicago.edu)
- - date published: 2023-11-27T16:10:30.419743+00:00
- - user: None
- - tags: []
-
-## Geophysical Sciences
- - [https://geosci.uchicago.edu](https://geosci.uchicago.edu)
- - date published: 2023-10-25T19:00:02.742597+00:00
  - user: None
  - tags: []
 

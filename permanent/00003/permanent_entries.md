@@ -1,3 +1,27 @@
+## The Simulation Strategists
+ - [https://the-simulation-strategists.beehiiv.com](https://the-simulation-strategists.beehiiv.com)
+ - date published: 2024-03-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Loesch Letter
+ - [https://tll.beehiiv.com](https://tll.beehiiv.com)
+ - date published: 2024-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://blog.beeper.com
+ - [https://blog.beeper.com](https://blog.beeper.com)
+ - date published: 2023-12-05T15:26:45.775261+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Beeper Mini – iMessage Client for Android
+ - [https://www.beeper.com](https://www.beeper.com)
+ - date published: 2023-12-05T15:06:21+00:00
+ - user: None
+ - tags: []
+
 ## BeeTrove – OpenAI GPTs Open-Source Dataset
  - [https://beetrove.com](https://beetrove.com)
  - date published: 2024-04-05T17:43:52+00:00
@@ -209,16 +233,16 @@
  - tags: []
 
 ## Benjamin Wechsler: Change Agent | Executive Coach | Teacher | Strategist | Organizational & Leadership Development
- - [http://benwechsler.com](http://benwechsler.com)
- - date published: 2024-04-03T06:28:00.961565+00:00
- - user: None
- - tags: ['personal']
-
-## Benjamin Wechsler: Change Agent | Executive Coach | Teacher | Strategist | Organizational & Leadership Development
  - [https://benwechsler.com](https://benwechsler.com)
  - date published: 2024-01-19T13:01:49.988029+00:00
  - user: None
  - tags: []
+
+## Benjamin Wechsler: Change Agent | Executive Coach | Teacher | Strategist | Organizational & Leadership Development
+ - [http://benwechsler.com](http://benwechsler.com)
+ - date published: 2024-04-03T06:28:00.961565+00:00
+ - user: None
+ - tags: ['personal']
 
 ## blog.benwinding
  - [https://blog.benwinding.com](https://blog.benwinding.com)
@@ -635,14 +659,14 @@
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [https://billingsgazette.com](https://billingsgazette.com)
- - date published: 2023-12-17T18:30:53.119094+00:00
+ - [http://billingsgazette.com](http://billingsgazette.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [http://billingsgazette.com](http://billingsgazette.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://billingsgazette.com](https://billingsgazette.com)
+ - date published: 2023-12-17T18:30:53.119094+00:00
  - user: None
  - tags: []
 
@@ -1222,6 +1246,12 @@
  - user: None
  - tags: ['music band']
 
+## Creating and producing exceptional stories | Blackstone Publishing
+ - [https://www.blackstonepublishing.com](https://www.blackstonepublishing.com)
+ - date published: 2024-04-16T12:22:36.656394+00:00
+ - user: None
+ - tags: ['bookshop']
+
 ## Black Swan Street
  - [https://www.blackswanstreet.com](https://www.blackswanstreet.com)
  - date published: 2023-10-25T13:04:16.289564+00:00
@@ -1757,14 +1787,14 @@
  - tags: ['personal']
 
 ## Twin methods in OpenMx
- - [https://dbtemp.blogspot.com](https://dbtemp.blogspot.com)
- - date published: 2023-11-19T21:54:21.568274+00:00
+ - [http://dbtemp.blogspot.com](http://dbtemp.blogspot.com)
+ - date published: 2024-02-25T15:50:25.877373+00:00
  - user: None
  - tags: []
 
 ## Twin methods in OpenMx
- - [http://dbtemp.blogspot.com](http://dbtemp.blogspot.com)
- - date published: 2024-02-25T15:50:25.877373+00:00
+ - [https://dbtemp.blogspot.com](https://dbtemp.blogspot.com)
+ - date published: 2023-11-19T21:54:21.568274+00:00
  - user: None
  - tags: []
 
@@ -1799,14 +1829,14 @@
  - tags: []
 
 ## Donald Clark       Plan B
- - [https://donaldclarkplanb.blogspot.com](https://donaldclarkplanb.blogspot.com)
- - date published: 2024-02-12T00:00:00+00:00
+ - [http://donaldclarkplanb.blogspot.com](http://donaldclarkplanb.blogspot.com)
+ - date published: 2024-04-05T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Donald Clark       Plan B
- - [http://donaldclarkplanb.blogspot.com](http://donaldclarkplanb.blogspot.com)
- - date published: 2024-04-05T00:00:00+00:00
+ - [https://donaldclarkplanb.blogspot.com](https://donaldclarkplanb.blogspot.com)
+ - date published: 2024-02-12T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2284,6 +2314,12 @@
  - user: None
  - tags: ['personal']
 
+## Realm of Chaos 80s
+ - [http://realmofchaos80s.blogspot.com](http://realmofchaos80s.blogspot.com)
+ - date published: 2024-04-16T17:06:50+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'miniatures', 'wargames']
+
 ## Public Rants
  - [https://recursive-public-rants.blogspot.com](https://recursive-public-rants.blogspot.com)
  - date published: 2023-10-25T09:10:45.681581+00:00
@@ -2393,16 +2429,16 @@
  - tags: ['personal']
 
 ## The Little Engineer That Could
- - [https://thelittleengineerthatcould.blogspot.com](https://thelittleengineerthatcould.blogspot.com)
- - date published: 2023-10-25T09:18:26.159190+00:00
- - user: None
- - tags: ['personal']
-
-## The Little Engineer That Could
  - [http://thelittleengineerthatcould.blogspot.com](http://thelittleengineerthatcould.blogspot.com)
  - date published: 2024-04-13T00:00:00+00:00
  - user: None
  - tags: []
+
+## The Little Engineer That Could
+ - [https://thelittleengineerthatcould.blogspot.com](https://thelittleengineerthatcould.blogspot.com)
+ - date published: 2023-10-25T09:18:26.159190+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Programmer's Paradox
  - [https://theprogrammersparadox.blogspot.com](https://theprogrammersparadox.blogspot.com)
@@ -2830,17 +2866,17 @@
  - user: None
  - tags: ['personal']
 
-## Bobzien.com – From the western edge of the Great Basin
- - [http://www.bobzien.com](http://www.bobzien.com)
- - date published: 2024-04-03T06:30:28.715784+00:00
- - user: None
- - tags: ['personal']
-
 ## Site not found · DreamHost
  - [https://www.bobzien.com](https://www.bobzien.com)
  - date published: 2024-01-15T13:59:16.442976+00:00
  - user: None
  - tags: []
+
+## Bobzien.com – From the western edge of the Great Basin
+ - [http://www.bobzien.com](http://www.bobzien.com)
+ - date published: 2024-04-03T06:30:28.715784+00:00
+ - user: None
+ - tags: ['personal']
 
 ## BodyLines.com™ :: Curves® breast enhancers | 100% Cashmere Scarves
  - [https://www.bodylines.com](https://www.bodylines.com)
@@ -2855,14 +2891,14 @@
  - tags: ['aviation', 'aerospace', 'avionics']
 
 ## Chris Aldrich | BoffoSocko
- - [https://boffosocko.com](https://boffosocko.com)
- - date published: 2024-01-02T00:00:00+00:00
+ - [http://boffosocko.com](http://boffosocko.com)
+ - date published: 2024-02-26T14:52:14.236002+00:00
  - user: None
  - tags: []
 
 ## Chris Aldrich | BoffoSocko
- - [http://boffosocko.com](http://boffosocko.com)
- - date published: 2024-02-26T14:52:14.236002+00:00
+ - [https://boffosocko.com](https://boffosocko.com)
+ - date published: 2024-01-02T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3781,16 +3817,16 @@
  - tags: []
 
 ## Bridget Gordon
- - [https://bridgetgordon.com](https://bridgetgordon.com)
- - date published: 2024-01-09T08:54:11.942646+00:00
- - user: None
- - tags: ['personal']
-
-## Bridget Gordon
  - [http://bridgetgordon.com](http://bridgetgordon.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Bridget Gordon
+ - [https://bridgetgordon.com](https://bridgetgordon.com)
+ - date published: 2024-01-09T08:54:11.942646+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Bridget Hunt
  - [https://bridgethunt.com](https://bridgethunt.com)
@@ -3971,6 +4007,12 @@
  - date published: 2015-01-01T00:00:00+00:00
  - user: rumpel
  - tags: ['personal', 'book reviews']
+
+## Most Reliable App & Cross Browser Testing Platform
+ - [https://www.browserstack.com](https://www.browserstack.com)
+ - date published: 2024-04-04T00:00:00+00:00
+ - user: rumpel
+ - tags: ['browser tool', 'verification', 'internet']
 
 ## Browsertech Digest
  - [https://digest.browsertech.com](https://digest.browsertech.com)
@@ -4860,6 +4902,12 @@
  - user: None
  - tags: []
 
+## Can I use... Support tables for HTML5, CSS3, etc
+ - [https://caniuse.com](https://caniuse.com)
+ - date published: 2024-04-07T00:00:00+00:00
+ - user: rumpel
+ - tags: ['browser tool', 'online tool', 'verification']
+
 ## Can's blog
  - [https://canolcer.com](https://canolcer.com)
  - date published: 2023-10-25T09:19:35.940458+00:00
@@ -5297,6 +5345,12 @@
  - date published: 2024-01-16T04:21:53.831563+00:00
  - user: None
  - tags: []
+
+## Home | Cate Sandstrom
+ - [https://www.catesandstrom.com](https://www.catesandstrom.com)
+ - date published: 2024-04-16T14:13:34.145070+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Catherine Andrews
  - [http://catherinedandrews.com](http://catherinedandrews.com)
@@ -5949,60 +6003,6 @@
 ## Checkmate 19" IPS Retro Monitor
  - [https://www.checkmate1500plus.com](https://www.checkmate1500plus.com)
  - date published: 2023-12-05T18:39:42+00:00
- - user: None
- - tags: []
-
-## Check Point Blog - Cyber Security News, Research & Trends
- - [https://blog.checkpoint.com](https://blog.checkpoint.com)
- - date published: 2023-10-25T13:21:03.502709+00:00
- - user: None
- - tags: []
-
-## CPR - Check Point Research
- - [https://research.checkpoint.com](https://research.checkpoint.com)
- - date published: 2023-10-25T13:21:06.052525+00:00
- - user: None
- - tags: []
-
-## Cheeptrims.com - Quality Wholesale Lace and Trim Products
- - [https://www.cheeptrims.com](https://www.cheeptrims.com)
- - date published: 2024-02-08T17:51:58.511456+00:00
- - user: None
- - tags: []
-
-## The Cheese Professor | The Class You Always Wanted To Take
- - [https://www.cheeseprofessor.com](https://www.cheeseprofessor.com)
- - date published: 2023-10-25T13:21:10.552300+00:00
- - user: None
- - tags: []
-
-## Chelsea Troy
- - [https://chelseatroy.com](https://chelseatroy.com)
- - date published: 2023-10-25T13:21:13.217018+00:00
- - user: None
- - tags: []
-
-## Chemistry news, research and opinions | Chemistry World
- - [https://www.chemistryworld.com](https://www.chemistryworld.com)
- - date published: 2023-10-25T13:21:20.243948+00:00
- - user: None
- - tags: []
-
-## Chess.com - Play Chess Online - Free Games
- - [https://www.chess.com](https://www.chess.com)
- - date published: 2023-10-25T13:21:22.359293+00:00
- - user: None
- - tags: []
-
-## Chess - Play, Learn & Watch Live Tournaments - chess24 | chess24.com
- - [https://chess24.com](https://chess24.com)
- - date published: 2023-10-25T13:21:24.370913+00:00
- - user: None
- - tags: []
-
-## chess24 wall
- - [https://new.chess24.com](https://new.chess24.com)
- - date published: 2023-10-25T13:21:26.844592+00:00
  - user: None
  - tags: []
 
