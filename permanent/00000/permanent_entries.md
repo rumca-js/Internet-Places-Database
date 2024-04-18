@@ -10,6 +10,12 @@
  - user: None
  - tags: ['dns resolver', 'cloudflare']
 
+## None
+ - [https://194.242.2.2](https://194.242.2.2)
+ - date published: 2024-04-17T20:21:21.847086+00:00
+ - user: None
+ - tags: []
+
 ## Kern Type
  - [https://type.method.ac](https://type.method.ac)
  - date published: 2023-10-25T08:31:02.163535+00:00
@@ -349,6 +355,12 @@
 ## character.ai
  - [https://beta.character.ai](https://beta.character.ai)
  - date published: 2023-10-25T11:37:07.833010+00:00
+ - user: None
+ - tags: []
+
+## 🌶️ Chilli
+ - [https://www.chilli.ai](https://www.chilli.ai)
+ - date published: 2024-04-13T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1256,7 +1268,7 @@
  - [https://openpm.ai](https://openpm.ai)
  - date published: 2023-10-25T11:41:10.268374+00:00
  - user: None
- - tags: []
+ - tags: ['artificial intelligence api']
 
 ## Orifice.ai
  - [https://orifice.ai](https://orifice.ai)
@@ -4121,13 +4133,13 @@
  - tags: []
 
 ## About me - Write Approach Marketing
- - [https://writeapproach.com.au](https://writeapproach.com.au)
+ - [http://writeapproach.com.au](http://writeapproach.com.au)
  - date published: 2018-04-30T00:00:00+00:00
  - user: None
  - tags: []
 
 ## About me - Write Approach Marketing
- - [http://writeapproach.com.au](http://writeapproach.com.au)
+ - [https://writeapproach.com.au](https://writeapproach.com.au)
  - date published: 2018-04-30T00:00:00+00:00
  - user: None
  - tags: []
@@ -4706,7 +4718,7 @@
  - [https://www.liero.be](https://www.liero.be)
  - date published: 2023-10-26T18:32:21.331231+00:00
  - user: None
- - tags: ['retro game', 'game']
+ - tags: ['open source', 'game', 'retro game']
 
 ## Original Sling'n'shoot Worms Game
  - [http://www.liero.be](http://www.liero.be)
@@ -5984,18 +5996,6 @@
 ## Mapa da Água: O que sai da sua torneira?
  - [https://mapadaagua.reporterbrasil.org.br](https://mapadaagua.reporterbrasil.org.br)
  - date published: 2023-12-11T19:32:28.275445+00:00
- - user: None
- - tags: []
-
-## Narcogarimpos – Especial – Narcogarimpos
- - [https://narcogarimpos.reporterbrasil.org.br](https://narcogarimpos.reporterbrasil.org.br)
- - date published: 2023-12-11T19:34:35.359408+00:00
- - user: None
- - tags: []
-
-## Nome aos Bois – Reporter Brasil
- - [https://nomeaosbois.reporterbrasil.org.br](https://nomeaosbois.reporterbrasil.org.br)
- - date published: 2023-12-11T19:34:47.478056+00:00
  - user: None
  - tags: []
 

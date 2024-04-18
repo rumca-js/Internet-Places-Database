@@ -1,3 +1,45 @@
+## LeanerCloud News
+ - [https://leanercloud.beehiiv.com](https://leanercloud.beehiiv.com)
+ - date published: 2023-10-25T12:56:04.212888+00:00
+ - user: None
+ - tags: []
+
+## The Lindy Newsletter
+ - [https://lindynewsletter.beehiiv.com](https://lindynewsletter.beehiiv.com)
+ - date published: 2023-10-25T12:56:19.031748+00:00
+ - user: None
+ - tags: []
+
+## Just Ship It | Newsletter for Solopreneurs
+ - [https://marclou.beehiiv.com](https://marclou.beehiiv.com)
+ - date published: 2023-12-23T17:08:36.935130+00:00
+ - user: None
+ - tags: []
+
+## Open Source Watch
+ - [https://opensourcewatch.beehiiv.com](https://opensourcewatch.beehiiv.com)
+ - date published: 2023-10-25T12:56:25.295654+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://rss.beehiiv.com](https://rss.beehiiv.com)
+ - date published: 2024-02-25T19:34:51.734306+00:00
+ - user: None
+ - tags: []
+
+## Statecraft
+ - [https://statecraft.beehiiv.com](https://statecraft.beehiiv.com)
+ - date published: 2023-10-25T12:56:29.279394+00:00
+ - user: None
+ - tags: []
+
+## The Disruptors
+ - [https://thedisruptors.beehiiv.com](https://thedisruptors.beehiiv.com)
+ - date published: 2023-10-25T12:56:33.285763+00:00
+ - user: None
+ - tags: []
+
 ## The Simulation Strategists
  - [https://the-simulation-strategists.beehiiv.com](https://the-simulation-strategists.beehiiv.com)
  - date published: 2024-03-26T00:00:00+00:00
@@ -1055,14 +1097,14 @@
  - tags: []
 
 ## Bits in Flight
- - [http://bitsinflight.com](http://bitsinflight.com)
- - date published: 2024-04-03T12:49:20.656238+00:00
+ - [https://bitsinflight.com](https://bitsinflight.com)
+ - date published: 2023-12-21T03:31:11.484659+00:00
  - user: None
  - tags: ['personal']
 
 ## Bits in Flight
- - [https://bitsinflight.com](https://bitsinflight.com)
- - date published: 2023-12-21T03:31:11.484659+00:00
+ - [http://bitsinflight.com](http://bitsinflight.com)
+ - date published: 2024-04-03T12:49:20.656238+00:00
  - user: None
  - tags: ['personal']
 
@@ -2057,14 +2099,14 @@
  - tags: []
 
 ## Kiwi Hellenist
- - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
- - date published: 2023-11-28T20:46:36.488371+00:00
+ - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Kiwi Hellenist
- - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
+ - date published: 2023-11-28T20:46:36.488371+00:00
  - user: None
  - tags: []
 
@@ -2236,6 +2278,12 @@
  - user: None
  - tags: []
 
+## Chronicles of Miss Miseria
+ - [https://oizyswrites.blogspot.com](https://oizyswrites.blogspot.com)
+ - date published: 2024-04-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Old Vintage Computing Research
  - [http://oldvcr.blogspot.com](http://oldvcr.blogspot.com)
  - date published: 2023-12-24T04:49:39.230080+00:00
@@ -2369,14 +2417,14 @@
  - tags: ['personal']
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
- - date published: 2024-01-04T00:00:00+00:00
+ - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
+ - date published: 2024-01-03T20:38:22.927557+00:00
  - user: None
  - tags: []
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
- - date published: 2024-01-03T20:38:22.927557+00:00
+ - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
+ - date published: 2024-01-04T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2866,17 +2914,17 @@
  - user: None
  - tags: ['personal']
 
-## Site not found · DreamHost
- - [https://www.bobzien.com](https://www.bobzien.com)
- - date published: 2024-01-15T13:59:16.442976+00:00
- - user: None
- - tags: []
-
 ## Bobzien.com – From the western edge of the Great Basin
  - [http://www.bobzien.com](http://www.bobzien.com)
  - date published: 2024-04-03T06:30:28.715784+00:00
  - user: None
  - tags: ['personal']
+
+## Site not found · DreamHost
+ - [https://www.bobzien.com](https://www.bobzien.com)
+ - date published: 2024-01-15T13:59:16.442976+00:00
+ - user: None
+ - tags: []
 
 ## BodyLines.com™ :: Curves® breast enhancers | 100% Cashmere Scarves
  - [https://www.bodylines.com](https://www.bodylines.com)
@@ -3019,16 +3067,16 @@
  - tags: []
 
 ## Boodaism
- - [http://boodaism.com](http://boodaism.com)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Boodaism
  - [https://boodaism.com](https://boodaism.com)
  - date published: 2023-12-13T06:05:24.808329+00:00
  - user: None
  - tags: ['personal']
+
+## Boodaism
+ - [http://boodaism.com](http://boodaism.com)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Book reviews: Find the best new books
  - [https://www.bookbrowse.com](https://www.bookbrowse.com)
@@ -3085,14 +3133,14 @@
  - tags: ['books']
 
 ## Bookreporter.com |
- - [http://www.bookreporter.com](http://www.bookreporter.com)
- - date published: 2024-03-01T19:06:27.394328+00:00
+ - [https://www.bookreporter.com](https://www.bookreporter.com)
+ - date published: 2023-11-07T16:06:19.097099+00:00
  - user: None
  - tags: []
 
 ## Bookreporter.com |
- - [https://www.bookreporter.com](https://www.bookreporter.com)
- - date published: 2023-11-07T16:06:19.097099+00:00
+ - [http://www.bookreporter.com](http://www.bookreporter.com)
+ - date published: 2024-03-01T19:06:27.394328+00:00
  - user: None
  - tags: []
 
@@ -3253,16 +3301,22 @@
  - tags: []
 
 ## Home | Boston Dynamics
- - [https://www.bostondynamics.com](https://www.bostondynamics.com)
- - date published: 2024-03-28T00:00:00+00:00
- - user: rumpel
- - tags: ['robots', 'robotics']
+ - [https://bostondynamics.com](https://bostondynamics.com)
+ - date published: 2024-04-17T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Home | Boston Dynamics
  - [http://www.bostondynamics.com](http://www.bostondynamics.com)
  - date published: 2024-03-28T00:00:00+00:00
  - user: rumpel
  - tags: []
+
+## Home | Boston Dynamics
+ - [https://www.bostondynamics.com](https://www.bostondynamics.com)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: rumpel
+ - tags: ['robots', 'robotics']
 
 ## The Boston Globe
  - [https://www.bostonglobe.com](https://www.bostonglobe.com)
@@ -3679,16 +3733,16 @@
  - tags: []
 
 ## Brian Kleiber - SEO Analyst & Content Marketing
- - [https://www.briankleiber.com](https://www.briankleiber.com)
- - date published: 2023-12-30T22:23:37.854421+00:00
- - user: None
- - tags: ['personal']
-
-## Brian Kleiber - SEO Analyst & Content Marketing
  - [http://www.briankleiber.com](http://www.briankleiber.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Brian Kleiber - SEO Analyst & Content Marketing
+ - [https://www.briankleiber.com](https://www.briankleiber.com)
+ - date published: 2023-12-30T22:23:37.854421+00:00
+ - user: None
+ - tags: ['personal']
 
 ## bkm
  - [https://www.briankm.com](https://www.briankm.com)
@@ -4008,6 +4062,12 @@
  - user: rumpel
  - tags: ['personal', 'book reviews']
 
+## Browse Happy
+ - [https://browsehappy.com](https://browsehappy.com)
+ - date published: 2024-04-17T16:52:40+00:00
+ - user: rumpel
+ - tags: ['activism', 'browser']
+
 ## Most Reliable App & Cross Browser Testing Platform
  - [https://www.browserstack.com](https://www.browserstack.com)
  - date published: 2024-04-04T00:00:00+00:00
@@ -4125,6 +4185,12 @@
 ## Buddy Pond
  - [https://buddypond.com](https://buddypond.com)
  - date published: 2023-10-25T08:37:35.139877+00:00
+ - user: None
+ - tags: []
+
+## Save with best car rental rates
+ - [http://budget.com](http://budget.com)
+ - date published: 2024-04-17T04:52:48.720739+00:00
  - user: None
  - tags: []
 
@@ -4510,13 +4576,13 @@
  - [http://www.c64.com](http://www.c64.com)
  - date published: 2024-02-15T22:11:41.229677+00:00
  - user: None
- - tags: ['demoscene']
+ - tags: ['commodore', 'demoscene']
 
 ## C64 Forever - All-in-One C64 Emulator, Games, Demoscene and Support
  - [https://www.c64forever.com](https://www.c64forever.com)
  - date published: 2023-12-11T18:40:47.917304+00:00
  - user: None
- - tags: []
+ - tags: ['commodore', 'emulation', 'demoscene']
 
 ## Do amazing things with the Commodore 64, with ease. | C64 OS
  - [https://c64os.com](https://c64os.com)
@@ -4534,7 +4600,7 @@
  - [http://c64radio.com](http://c64radio.com)
  - date published: 2024-02-11T14:28:15.567603+00:00
  - user: None
- - tags: ['chiptune', 'keygen']
+ - tags: ['commodore', 'chiptune', 'keygen']
 
 ## cabel.com – A blog from Cabel Sasser
  - [https://cabel.com](https://cabel.com)
@@ -5077,14 +5143,14 @@
  - tags: ['site building']
 
 ## None
- - [https://www.caribpress.com](https://www.caribpress.com)
- - date published: 2024-01-09T02:31:43.727437+00:00
+ - [http://www.caribpress.com](http://www.caribpress.com)
+ - date published: 2024-02-25T15:38:05.095360+00:00
  - user: None
  - tags: []
 
 ## None
- - [http://www.caribpress.com](http://www.caribpress.com)
- - date published: 2024-02-25T15:38:05.095360+00:00
+ - [https://www.caribpress.com](https://www.caribpress.com)
+ - date published: 2024-01-09T02:31:43.727437+00:00
  - user: None
  - tags: []
 
@@ -5485,14 +5551,14 @@
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [https://sports.cctv.com](https://sports.cctv.com)
- - date published: 2023-12-09T12:18:44.730556+00:00
+ - [http://sports.cctv.com](http://sports.cctv.com)
+ - date published: 2024-03-21T02:07:49.559014+00:00
  - user: None
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [http://sports.cctv.com](http://sports.cctv.com)
- - date published: 2024-03-21T02:07:49.559014+00:00
+ - [https://sports.cctv.com](https://sports.cctv.com)
+ - date published: 2023-12-09T12:18:44.730556+00:00
  - user: None
  - tags: []
 
@@ -5719,14 +5785,14 @@
  - tags: []
 
 ## Chad Riden
- - [https://chadriden.com](https://chadriden.com)
- - date published: 2024-01-09T11:06:48.763243+00:00
+ - [http://chadriden.com](http://chadriden.com)
+ - date published: 2024-04-03T06:31:43.422186+00:00
  - user: None
  - tags: ['personal']
 
 ## Chad Riden
- - [http://chadriden.com](http://chadriden.com)
- - date published: 2024-04-03T06:31:43.422186+00:00
+ - [https://chadriden.com](https://chadriden.com)
+ - date published: 2024-01-09T11:06:48.763243+00:00
  - user: None
  - tags: ['personal']
 
@@ -5737,14 +5803,14 @@
  - tags: ['personal']
 
 ## Open Path by Chad Whitacre
- - [https://openpath.chadwhitacre.com](https://openpath.chadwhitacre.com)
- - date published: 2024-01-22T07:17:07.392204+00:00
+ - [http://openpath.chadwhitacre.com](http://openpath.chadwhitacre.com)
+ - date published: 2024-02-26T09:41:25.750324+00:00
  - user: None
  - tags: []
 
 ## Open Path by Chad Whitacre
- - [http://openpath.chadwhitacre.com](http://openpath.chadwhitacre.com)
- - date published: 2024-02-26T09:41:25.750324+00:00
+ - [https://openpath.chadwhitacre.com](https://openpath.chadwhitacre.com)
+ - date published: 2024-01-22T07:17:07.392204+00:00
  - user: None
  - tags: []
 
@@ -5939,70 +6005,4 @@
  - date published: 2023-11-29T17:06:09.031824+00:00
  - user: None
  - tags: ['personal']
-
-## ChatBA: Generative AI for Slides ✨
- - [https://www.chatbcg.com](https://www.chatbcg.com)
- - date published: 2023-10-25T13:20:40.648474+00:00
- - user: None
- - tags: []
-
-## ChatBotKit
- - [https://chatbotkit.com](https://chatbotkit.com)
- - date published: 2023-10-25T13:20:41.975572+00:00
- - user: None
- - tags: []
-
-## ChatGPT Online - No Login Needed!
- - [https://chatgptbay.com](https://chatgptbay.com)
- - date published: 2023-10-25T13:20:42.654731+00:00
- - user: None
- - tags: []
-
-## ChatGPT on Telegram | Access ChatGPT anywhere on Telegram
- - [https://chatgptontelegram.com](https://chatgptontelegram.com)
- - date published: 2023-10-25T13:20:43.958030+00:00
- - user: None
- - tags: []
-
-## ChatPDF - Chat with any PDF!
- - [https://www.chatpdf.com](https://www.chatpdf.com)
- - date published: 2023-10-25T13:20:44.651673+00:00
- - user: None
- - tags: []
-
-## Ratika Deshpande – Learning + doing + sharing
- - [https://chavanniclass.com](https://chavanniclass.com)
- - date published: 2023-10-25T13:20:46.419776+00:00
- - user: None
- - tags: []
-
-## CHCollins - You Are What You Create
- - [https://chcollins.com](https://chcollins.com)
- - date published: 2023-10-25T13:20:47.748663+00:00
- - user: None
- - tags: []
-
-## Cheaters Heaven
- - [https://www.cheaters-heaven.com](https://www.cheaters-heaven.com)
- - date published: 2024-04-07T18:03:48+00:00
- - user: rumpel
- - tags: ['game trainers']
-
-## Car Accident Records Search and Check VIN  |  Vehicle History Reports  |  Junk and Salvage Records  |  Check Any VIN
- - [https://checkanyvin.com](https://checkanyvin.com)
- - date published: 2023-10-25T13:20:49.534387+00:00
- - user: None
- - tags: []
-
-## Application Security Testing Company | Software Security Testing Solutions | Checkmarx
- - [https://checkmarx.com](https://checkmarx.com)
- - date published: 2023-10-25T13:20:53.896133+00:00
- - user: None
- - tags: []
-
-## Checkmate 19" IPS Retro Monitor
- - [https://www.checkmate1500plus.com](https://www.checkmate1500plus.com)
- - date published: 2023-12-05T18:39:42+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,135 @@
+## Music Gear, Equipment, News, Tutorials & Reviews | MusicRadar
+ - [https://www.musicradar.com](https://www.musicradar.com)
+ - date published: 2023-10-25T11:13:46.875557+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://musictech.com](https://musictech.com)
+ - date published: 2023-10-28T18:49:40.424751+00:00
+ - user: None
+ - tags: []
+
+## MusicXML
+ - [https://www.musicxml.com](https://www.musicxml.com)
+ - date published: 2023-11-29T13:13:49+00:00
+ - user: None
+ - tags: []
+
+## The Internet's video infrastructure | Mux
+ - [https://mux.com](https://mux.com)
+ - date published: 2023-10-25T16:09:05.771772+00:00
+ - user: None
+ - tags: []
+
+## The Internet's video infrastructure | Mux
+ - [https://www.mux.com](https://www.mux.com)
+ - date published: 2023-10-25T16:09:22.904159+00:00
+ - user: None
+ - tags: []
+
+## Muxup - Adventures in collaborative open source development
+ - [https://muxup.com](https://muxup.com)
+ - date published: 2023-10-25T16:09:26.038159+00:00
+ - user: None
+ - tags: []
+
+## Stan Stewart - aka @muz4now - the muse is present
+ - [https://muz4now.com](https://muz4now.com)
+ - date published: 2023-12-30T22:23:47.478481+00:00
+ - user: None
+ - tags: ['personal']
+
+## Muzzug
+ - [https://blog.muzzug.com](https://blog.muzzug.com)
+ - date published: 2023-11-29T15:45:30.166689+00:00
+ - user: None
+ - tags: ['personal']
+
+## mvariety.com | Fair • Balanced • Independent
+ - [https://www.mvariety.com](https://www.mvariety.com)
+ - date published: 2024-03-28T11:14:39.287571+00:00
+ - user: None
+ - tags: []
+
+## Mountain View Voice
+ - [https://mv-voice.com](https://mv-voice.com)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## | Mountain View Online |
+ - [https://www.mv-voice.com](https://www.mv-voice.com)
+ - date published: 2023-10-25T16:09:34.714338+00:00
+ - user: None
+ - tags: []
+
+## Blog · Max Gorin
+ - [https://mxgrn.com](https://mxgrn.com)
+ - date published: 2023-10-25T16:09:39.374278+00:00
+ - user: None
+ - tags: []
+
+## Max Stoiber (@mxstbr) - JavaScript Engineer
+ - [https://mxstbr.com](https://mxstbr.com)
+ - date published: 2024-04-12T16:58:35.952257+00:00
+ - user: None
+ - tags: ['personal']
+
+## My 90's TV!
+ - [https://my90stv.com](https://my90stv.com)
+ - date published: 2023-10-25T16:09:42.269232+00:00
+ - user: None
+ - tags: []
+
+## My Abandonware - Download Old Video Games
+ - [https://www.myabandonware.com](https://www.myabandonware.com)
+ - date published: 2023-10-25T16:35:49.568489+00:00
+ - user: None
+ - tags: []
+
+## GameLinked Portal » dbrand
+ - [https://mybossisveryshort.com](https://mybossisveryshort.com)
+ - date published: 2024-02-16T07:52:35+00:00
+ - user: rumpel
+ - tags: []
+
+## My Brightest Diamond
+ - [https://www.mybrightestdiamond.com](https://www.mybrightestdiamond.com)
+ - date published: 2024-02-08T22:10:41.696866+00:00
+ - user: None
+ - tags: []
+
+## Motion Twin
+ - [https://sergeant-cid.mybrute.com](https://sergeant-cid.mybrute.com)
+ - date published: 2024-02-08T17:32:34.935917+00:00
+ - user: None
+ - tags: []
+
+## https://status.mycloud.com
+ - [https://status.mycloud.com](https://status.mycloud.com)
+ - date published: 2024-01-09T02:44:32.133560+00:00
+ - user: None
+ - tags: []
+
+## Western Digital
+ - [https://www.mycloud.com](https://www.mycloud.com)
+ - date published: 2024-04-15T19:58:55+00:00
+ - user: rumpel
+ - tags: ['cloud storage', 'western digital']
+
+## CoPilot
+ - [https://go.mycopilot.com](https://go.mycopilot.com)
+ - date published: 2024-03-17T18:21:08.037560+00:00
+ - user: None
+ - tags: []
+
+## CoPilot Fitness | Step-by-step workouts tailored to you by an expert coach
+ - [https://mycopilot.com](https://mycopilot.com)
+ - date published: 2024-03-15T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
 ## Mycroft
  - [https://mycroftproject.com](https://mycroftproject.com)
  - date published: 2023-12-05T19:53:37+00:00
@@ -95,14 +227,14 @@
  - tags: []
 
 ## My Proactive Life – One Man's desire to change, one step at a time
- - [http://myproactivelife.com](http://myproactivelife.com)
- - date published: 2024-04-03T06:25:14.458379+00:00
+ - [https://myproactivelife.com](https://myproactivelife.com)
+ - date published: 2024-01-09T02:44:35.810001+00:00
  - user: None
  - tags: ['personal']
 
 ## My Proactive Life – One Man's desire to change, one step at a time
- - [https://myproactivelife.com](https://myproactivelife.com)
- - date published: 2024-01-09T02:44:35.810001+00:00
+ - [http://myproactivelife.com](http://myproactivelife.com)
+ - date published: 2024-04-03T06:25:14.458379+00:00
  - user: None
  - tags: ['personal']
 
@@ -1156,6 +1288,12 @@
  - user: None
  - tags: []
 
+## Never Was
+ - [https://neverwasmag.com](https://neverwasmag.com)
+ - date published: 2024-04-17T21:30:47.048086+00:00
+ - user: None
+ - tags: []
+
 ## Home Page |The New Arab
  - [https://www.newarab.com](https://www.newarab.com)
  - date published: 2023-10-25T10:13:43.068959+00:00
@@ -1787,16 +1925,16 @@
  - tags: ['personal']
 
 ## nicola rushton - Product Designer
- - [https://nicolarushton.com](https://nicolarushton.com)
- - date published: 2024-01-09T02:44:58.408245+00:00
- - user: None
- - tags: ['personal']
-
-## nicola rushton - Product Designer
  - [http://nicolarushton.com](http://nicolarushton.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## nicola rushton - Product Designer
+ - [https://nicolarushton.com](https://nicolarushton.com)
+ - date published: 2024-01-09T02:44:58.408245+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Chronique d'Humeur de Nicolas Bermond 2005 – 2023 – Perspective
  - [https://nicolas-bermond.com](https://nicolas-bermond.com)
@@ -1909,6 +2047,12 @@
 ## Nikhil Thota: Writing, Code, Newsletter, and More
  - [https://nikhilthota.com](https://nikhilthota.com)
  - date published: 2024-04-03T12:46:41.512746+00:00
+ - user: None
+ - tags: ['personal']
+
+## Niki Torres - Growth marketer and writer
+ - [https://nikitorres.com](https://nikitorres.com)
+ - date published: 2024-04-17T02:33:57.805864+00:00
  - user: None
  - tags: ['personal']
 
@@ -2105,15 +2249,15 @@
  - user: None
  - tags: ['music band']
 
-## [NFC: The Internet Nirvana Fan Club]
- - [https://www.nirvanaclub.com](https://www.nirvanaclub.com)
- - date published: 2023-10-25T14:19:53.039695+00:00
- - user: None
- - tags: []
-
 ## The Internet Nirvana Fan Club
  - [http://www.nirvanaclub.com](http://www.nirvanaclub.com)
  - date published: 2024-02-26T09:19:36.552314+00:00
+ - user: None
+ - tags: []
+
+## [NFC: The Internet Nirvana Fan Club]
+ - [https://www.nirvanaclub.com](https://www.nirvanaclub.com)
+ - date published: 2023-10-25T14:19:53.039695+00:00
  - user: None
  - tags: []
 
@@ -2532,13 +2676,13 @@
  - tags: []
 
 ## Peter Norvig
- - [https://www.norvig.com](https://www.norvig.com)
+ - [http://www.norvig.com](http://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Peter Norvig
- - [http://www.norvig.com](http://www.norvig.com)
+ - [https://www.norvig.com](https://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -4372,14 +4516,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## The OS/2 Museum
- - [https://www.os2museum.com](https://www.os2museum.com)
- - date published: 2023-10-25T16:27:40.415903+00:00
+ - [http://www.os2museum.com](http://www.os2museum.com)
+ - date published: 2024-02-25T18:55:49.882025+00:00
  - user: None
  - tags: []
 
 ## The OS/2 Museum
- - [http://www.os2museum.com](http://www.os2museum.com)
- - date published: 2024-02-25T18:55:49.882025+00:00
+ - [https://www.os2museum.com](https://www.os2museum.com)
+ - date published: 2023-10-25T16:27:40.415903+00:00
  - user: None
  - tags: []
 
@@ -4435,7 +4579,7 @@ Answering Machine Greetings!
  - [https://www.osohq.com](https://www.osohq.com)
  - date published: 2024-04-16T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['authorization']
 
 ## All Projects
     - OSSRank
@@ -4805,14 +4949,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## Home - Oz Rhodes
- - [http://www.ozrhodes.com](http://www.ozrhodes.com)
- - date published: 2024-04-03T12:44:50.762069+00:00
+ - [https://www.ozrhodes.com](https://www.ozrhodes.com)
+ - date published: 2023-12-20T00:59:19.143915+00:00
  - user: None
  - tags: ['personal']
 
 ## Home - Oz Rhodes
- - [https://www.ozrhodes.com](https://www.ozrhodes.com)
- - date published: 2023-12-20T00:59:19.143915+00:00
+ - [http://www.ozrhodes.com](http://www.ozrhodes.com)
+ - date published: 2024-04-03T12:44:50.762069+00:00
  - user: None
  - tags: ['personal']
 
@@ -5165,16 +5309,16 @@ Answering Machine Greetings!
  - tags: ['document library', 'self-host']
 
 ## Paperlike | Official Online Store
- - [http://paperlike.com](http://paperlike.com)
- - date published: 2024-02-24T09:57:05.617898+00:00
- - user: None
- - tags: ['screen protector']
-
-## Paperlike | Official Online Store
  - [https://paperlike.com](https://paperlike.com)
  - date published: 2024-03-07T19:36:45.060837+00:00
  - user: None
  - tags: []
+
+## Paperlike | Official Online Store
+ - [http://paperlike.com](http://paperlike.com)
+ - date published: 2024-02-24T09:57:05.617898+00:00
+ - user: None
+ - tags: ['screen protector']
 
 ## Papermerge DMS with OCR
  - [https://papermerge.com](https://papermerge.com)
@@ -5458,17 +5602,17 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
-## Home — Patreon
- - [http://www.patreon.com](http://www.patreon.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Max  FitzGerald  | Patreon
  - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
  - date published: 2023-10-27T15:07:52+00:00
  - user: rumpel
  - tags: ['turnip28', 'tabletop games']
+
+## Home — Patreon
+ - [http://www.patreon.com](http://www.patreon.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Home — Patreon
  - [https://www.patreon.com](https://www.patreon.com)
@@ -5513,14 +5657,14 @@ Answering Machine Greetings!
  - tags: ['personal']
 
 ## Patrick Yandell
- - [http://patrickyandell.com](http://patrickyandell.com)
- - date published: 2024-04-03T06:29:48.238438+00:00
+ - [https://patrickyandell.com](https://patrickyandell.com)
+ - date published: 2023-11-29T14:24:18.301040+00:00
  - user: None
  - tags: ['personal']
 
 ## Patrick Yandell
- - [https://patrickyandell.com](https://patrickyandell.com)
- - date published: 2023-11-29T14:24:18.301040+00:00
+ - [http://patrickyandell.com](http://patrickyandell.com)
+ - date published: 2024-04-03T06:29:48.238438+00:00
  - user: None
  - tags: ['personal']
 
@@ -5788,15 +5932,15 @@ Answering Machine Greetings!
  - user: None
  - tags: ['personal']
 
-## PCMag UK
- - [http://uk.pcmag.com](http://uk.pcmag.com)
- - date published: 2024-02-26T09:45:15.403718+00:00
- - user: None
- - tags: []
-
 ## PCMag.com - Technology Product Reviews, News, Prices & Tips
  - [https://uk.pcmag.com](https://uk.pcmag.com)
  - date published: 2023-10-25T09:34:32.882984+00:00
+ - user: None
+ - tags: []
+
+## PCMag UK
+ - [http://uk.pcmag.com](http://uk.pcmag.com)
+ - date published: 2024-02-26T09:45:15.403718+00:00
  - user: None
  - tags: []
 
@@ -5859,148 +6003,4 @@ Answering Machine Greetings!
  - date published: 2023-10-25T16:31:53.681955+00:00
  - user: None
  - tags: []
-
-## Pearl Jam - Home
- - [https://pearljam.com](https://pearljam.com)
- - date published: 2023-11-13T11:08:31.956919+00:00
- - user: None
- - tags: ['music band']
-
-## Pears | Unleash the Power of P2P
- - [https://pears.com](https://pears.com)
- - date published: 2024-02-14T21:17:06.928870+00:00
- - user: None
- - tags: []
-
-## Pearson | The World’s Leading Education Provider
- - [https://www.pearson.com](https://www.pearson.com)
- - date published: 2023-10-25T16:31:59.807682+00:00
- - user: None
- - tags: []
-
-## Pedestrian Observations
- - [https://pedestrianobservations.com](https://pedestrianobservations.com)
- - date published: 2024-01-09T02:45:49.923910+00:00
- - user: None
- - tags: []
-
-## PeerJ
- - [https://peerj.com](https://peerj.com)
- - date published: 2023-11-02T17:53:38.956577+00:00
- - user: None
- - tags: []
-
-## Book update.  Now includes recent work on best fit solutions. - Peeter Joot's Blog
- - [https://peeterjoot.com](https://peeterjoot.com)
- - date published: 2023-10-25T08:57:37.286572+00:00
- - user: None
- - tags: ['personal']
-
-## Pegasus Games
- - [https://pegasusgames.com](https://pegasusgames.com)
- - date published: 2023-10-30T12:01:37.114574+00:00
- - user: None
- - tags: []
-
-## PELock Software Protection & Software License Key System
- - [https://www.pelock.com](https://www.pelock.com)
- - date published: 2024-03-19T15:09:07+00:00
- - user: rumpel
- - tags: ['reverse engineering']
-
-## PelotonCal
- - [https://pelotoncal.com](https://pelotoncal.com)
- - date published: 2023-10-25T16:32:06.386585+00:00
- - user: None
- - tags: []
-
-## None
- - [https://peltarion.com](https://peltarion.com)
- - date published: 2024-01-09T02:45:52.860446+00:00
- - user: None
- - tags: []
-
-## PENDULUM - Official Website
- - [https://pendulum.com](https://pendulum.com)
- - date published: 2023-11-13T10:44:23.595750+00:00
- - user: None
- - tags: ['music band']
-
-## Penguinjaa
- - [https://www.penguinjaa.com](https://www.penguinjaa.com)
- - date published: 2024-01-09T02:45:54.096725+00:00
- - user: None
- - tags: []
-
-## Penguin Random House
- - [https://www.penguinrandomhouse.com](https://www.penguinrandomhouse.com)
- - date published: 2024-02-15T22:32:33.341645+00:00
- - user: None
- - tags: []
-
-## Penmachine - Derek K. Miller
- - [https://www.penmachine.com](https://www.penmachine.com)
- - date published: 2023-10-25T16:32:10.562369+00:00
- - user: None
- - tags: []
-
-## Central PA Local News, Breaking News, Sports & Weather
- - [https://www.pennlive.com](https://www.pennlive.com)
- - date published: 2023-11-04T15:48:22.366123+00:00
- - user: None
- - tags: []
-
-## Home - Penny Arcade
- - [http://penny-arcade.com](http://penny-arcade.com)
- - date published: 2024-03-24T15:03:18.672244+00:00
- - user: None
- - tags: []
-
-## Tom Francis
- - [https://www.pentadact.com](https://www.pentadact.com)
- - date published: 2023-10-25T09:21:08.810960+00:00
- - user: None
- - tags: ['personal']
-
-## CyberSecurity Developer (API) Portal - PENTESTON - Stay secure
- - [https://developer.penteston.com](https://developer.penteston.com)
- - date published: 2024-01-09T02:46:02.810283+00:00
- - user: None
- - tags: []
-
-## Cyber Security Consulting & Testing | Pen Test Partners
- - [https://www.pentestpartners.com](https://www.pentestpartners.com)
- - date published: 2024-04-16T12:22:43.976949+00:00
- - user: None
- - tags: []
-
-## Penetration testing toolkit, ready to use
- - [https://pentest-tools.com](https://pentest-tools.com)
- - date published: 2024-03-19T14:36:57.361231+00:00
- - user: None
- - tags: []
-
-## People.com | Celebrity News, Exclusives, Photos and Videos
- - [https://people.com](https://people.com)
- - date published: 2023-10-25T10:52:09.683787+00:00
- - user: None
- - tags: []
-
-## https://people2people.com
- - [https://people2people.com](https://people2people.com)
- - date published: 2024-02-08T16:31:07.870510+00:00
- - user: None
- - tags: []
-
-## People and Blogs
- - [https://peopleandblogs.com](https://peopleandblogs.com)
- - date published: 2023-10-25T16:32:21.821382+00:00
- - user: None
- - tags: []
-
-## Join Flourish! A newsletter to navigate business and life
- - [https://peopleloveprojects.com](https://peopleloveprojects.com)
- - date published: 2023-11-29T13:54:27.816636+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,129 @@
+## The Mac Observer
+ - [https://www.macobserver.com](https://www.macobserver.com)
+ - date published: 2024-04-15T22:18:58.162633+00:00
+ - user: None
+ - tags: ['apple news', 'tech news']
+
+## Macon Breaking News & Crime | Macon Telegraph
+ - [https://www.macon.com](https://www.macon.com)
+ - date published: 2023-10-25T15:53:29.296276+00:00
+ - user: None
+ - tags: []
+
+## macOS Automation
+ - [https://www.macosxautomation.com](https://www.macosxautomation.com)
+ - date published: 2023-10-25T15:53:32.819790+00:00
+ - user: None
+ - tags: []
+
+## Mac Pierce
+ - [https://www.macpierce.com](https://www.macpierce.com)
+ - date published: 2023-10-25T15:53:34.169750+00:00
+ - user: None
+ - tags: []
+
+## SIGPIPE 13
+ - [https://sigpipe.macromates.com](https://sigpipe.macromates.com)
+ - date published: 2023-10-25T15:53:36.166580+00:00
+ - user: None
+ - tags: []
+
+## macroticker
+ - [https://macroticker.com](https://macroticker.com)
+ - date published: 2024-03-08T11:33:48.926937+00:00
+ - user: None
+ - tags: []
+
+## MacRumors: Mac News and Rumors - All Stories
+ - [https://feeds.macrumors.com](https://feeds.macrumors.com)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MacRumors Forums
+ - [https://forums.macrumors.com](https://forums.macrumors.com)
+ - date published: 2023-10-25T15:53:41.865723+00:00
+ - user: None
+ - tags: []
+
+## MacRumors: Apple News and Rumors
+ - [https://www.macrumors.com](https://www.macrumors.com)
+ - date published: 2023-10-25T09:34:00.797658+00:00
+ - user: None
+ - tags: []
+
+## Macworld - News, Tips & Reviews from the Apple Experts
+ - [https://www.macworld.com](https://www.macworld.com)
+ - date published: 2023-10-25T09:34:02.695903+00:00
+ - user: None
+ - tags: []
+
+## macwright.com
+ - [https://macwright.com](https://macwright.com)
+ - date published: 2024-01-02T03:36:28.516471+00:00
+ - user: None
+ - tags: []
+
+## Maddyness - Le média pour comprendre l'économie de demain
+ - [https://www.maddyness.com](https://www.maddyness.com)
+ - date published: 2023-10-25T15:53:45.055388+00:00
+ - user: None
+ - tags: []
+
+## Made by Evan
+ - [https://madebyevan.com](https://madebyevan.com)
+ - date published: 2023-10-25T15:53:46.773357+00:00
+ - user: None
+ - tags: []
+
+## Mistâ€“a one-man studio
+ - [https://madebymist.com](https://madebymist.com)
+ - date published: 2024-02-09T22:27:38.363514+00:00
+ - user: None
+ - tags: ['personal']
+
+## Made By Nathan
+ - [https://madebynathan.com](https://madebynathan.com)
+ - date published: 2023-10-25T15:53:47.605821+00:00
+ - user: None
+ - tags: []
+
+## madhadron
+ - [https://madhadron.com](https://madhadron.com)
+ - date published: 2023-10-25T15:53:47.981055+00:00
+ - user: None
+ - tags: []
+
+## Madhur’s Writings | Madhur Shrimal | Substack
+ - [https://newsletter.madhurshrimal.com](https://newsletter.madhurshrimal.com)
+ - date published: 2024-02-26T08:54:54.839612+00:00
+ - user: None
+ - tags: []
+
+## Mad in America - Science, Psychiatry and Social Justice
+ - [https://www.madinamerica.com](https://www.madinamerica.com)
+ - date published: 2023-10-25T15:53:54.658657+00:00
+ - user: None
+ - tags: []
+
+## madison.com | Read Madison, WI and Wisconsin breaking news. Get latest news, events and information on Wisconsin sports, weather, entertainment and lifestyles.
+ - [https://madison.com](https://madison.com)
+ - date published: 2023-11-11T17:19:47.528171+00:00
+ - user: None
+ - tags: []
+
+## madison.com | Read Madison, WI and Wisconsin breaking news. Get latest news, events and information on Wisconsin sports, weather, entertainment and lifestyles.
+ - [http://madison.com](http://madison.com)
+ - date published: 2024-01-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Choose the Best Self-Directed IRA Company and Get Control of Your Retirement Investments
+ - [https://www.madisontrust.com](https://www.madisontrust.com)
+ - date published: 2023-10-25T15:53:58.634735+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://madlions.com](https://madlions.com)
  - date published: 2023-09-25T00:00:00+00:00
@@ -41,16 +167,16 @@
  - tags: ['video game news']
 
 ## Maggie Appleton
- - [https://maggieappleton.com](https://maggieappleton.com)
- - date published: 2023-10-25T08:47:09.508828+00:00
- - user: None
- - tags: ['personal']
-
-## Maggie Appleton
  - [http://maggieappleton.com](http://maggieappleton.com)
  - date published: 2024-02-26T08:55:27.731076+00:00
  - user: None
  - tags: []
+
+## Maggie Appleton
+ - [https://maggieappleton.com](https://maggieappleton.com)
+ - date published: 2023-10-25T08:47:09.508828+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Magic Earth - Free Navigation & Maps App for Android and iPhone
  - [https://www.magicearth.com](https://www.magicearth.com)
@@ -530,7 +656,7 @@
  - [https://maphappenings.com](https://maphappenings.com)
  - date published: 2024-04-16T03:52:31.929439+00:00
  - user: None
- - tags: []
+ - tags: ['geoinformation']
 
 ## Matthew Plant's home page
  - [https://maplant.com](https://maplant.com)
@@ -1031,17 +1157,17 @@
  - user: None
  - tags: ['personal']
 
-## Martin the Wanderer
- - [http://www.martin-the-wanderer.com](http://www.martin-the-wanderer.com)
- - date published: 2024-03-19T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Martin the Wanderer – Think different. Live different.
  - [https://www.martin-the-wanderer.com](https://www.martin-the-wanderer.com)
  - date published: 2023-12-13T06:05:45.388172+00:00
  - user: None
  - tags: ['personal']
+
+## Martin the Wanderer
+ - [http://www.martin-the-wanderer.com](http://www.martin-the-wanderer.com)
+ - date published: 2024-03-19T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Martin Vigo - Personal hacking projects, writeups and tools
  - [https://www.martinvigo.com](https://www.martinvigo.com)
@@ -1062,14 +1188,14 @@
  - tags: ['disney', 'iron man', 'movie studio', 'captain america']
 
 ## vi360 photography/video/digital imaging
- - [http://www.marxdesign.com](http://www.marxdesign.com)
- - date published: 2023-12-22T21:24:02.738903+00:00
+ - [https://www.marxdesign.com](https://www.marxdesign.com)
+ - date published: 2023-12-22T00:41:17.350208+00:00
  - user: None
  - tags: []
 
 ## vi360 photography/video/digital imaging
- - [https://www.marxdesign.com](https://www.marxdesign.com)
- - date published: 2023-12-22T00:41:17.350208+00:00
+ - [http://www.marxdesign.com](http://www.marxdesign.com)
+ - date published: 2023-12-22T21:24:02.738903+00:00
  - user: None
  - tags: []
 
@@ -3395,6 +3521,12 @@
  - user: None
  - tags: ['social communicator', 'gatekeeper']
 
+## Messy Nessy Chic
+ - [https://www.messynessychic.com](https://www.messynessychic.com)
+ - date published: 2024-04-17T17:53:29+00:00
+ - user: rumpel
+ - tags: ['personal']
+
 ## Error
  - [https://ai.meta.com](https://ai.meta.com)
  - date published: 2023-12-05T18:26:53.355058+00:00
@@ -4597,16 +4729,16 @@
  - tags: []
 
 ## In the solution
- - [https://www.mitchellfriedman.com](https://www.mitchellfriedman.com)
- - date published: 2024-01-08T15:37:32.858228+00:00
- - user: None
- - tags: []
-
-## In the solution
  - [http://www.mitchellfriedman.com](http://www.mitchellfriedman.com)
  - date published: 2024-04-03T12:42:45.432338+00:00
  - user: None
  - tags: ['personal']
+
+## In the solution
+ - [https://www.mitchellfriedman.com](https://www.mitchellfriedman.com)
+ - date published: 2024-01-08T15:37:32.858228+00:00
+ - user: None
+ - tags: []
 
 ## Mitchell Hashimoto
  - [https://mitchellh.com](https://mitchellh.com)
@@ -4891,14 +5023,14 @@
  - tags: []
 
 ## Modernizr: the feature detection library for HTML5/CSS3
- - [http://modernizr.com](http://modernizr.com)
- - date published: 2024-02-26T09:38:41.875406+00:00
+ - [https://modernizr.com](https://modernizr.com)
+ - date published: 2024-01-09T02:44:07.641831+00:00
  - user: None
  - tags: []
 
 ## Modernizr: the feature detection library for HTML5/CSS3
- - [https://modernizr.com](https://modernizr.com)
- - date published: 2024-01-09T02:44:07.641831+00:00
+ - [http://modernizr.com](http://modernizr.com)
+ - date published: 2024-02-26T09:38:41.875406+00:00
  - user: None
  - tags: []
 
@@ -5677,14 +5809,14 @@
  - tags: []
 
 ## mtstandard.com | Read Butte, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles
- - [https://mtstandard.com](https://mtstandard.com)
- - date published: 2023-11-27T17:10:46.469072+00:00
+ - [http://mtstandard.com](http://mtstandard.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
 ## mtstandard.com | Read Butte, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles
- - [http://mtstandard.com](http://mtstandard.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://mtstandard.com](https://mtstandard.com)
+ - date published: 2023-11-27T17:10:46.469072+00:00
  - user: None
  - tags: []
 
@@ -5866,137 +5998,5 @@
  - [https://forums.musicplayer.com](https://forums.musicplayer.com)
  - date published: 2024-02-24T00:00:00+00:00
  - user: None
- - tags: []
-
-## Music Gear, Equipment, News, Tutorials & Reviews | MusicRadar
- - [https://www.musicradar.com](https://www.musicradar.com)
- - date published: 2023-10-25T11:13:46.875557+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://musictech.com](https://musictech.com)
- - date published: 2023-10-28T18:49:40.424751+00:00
- - user: None
- - tags: []
-
-## MusicXML
- - [https://www.musicxml.com](https://www.musicxml.com)
- - date published: 2023-11-29T13:13:49+00:00
- - user: None
- - tags: []
-
-## The Internet's video infrastructure | Mux
- - [https://mux.com](https://mux.com)
- - date published: 2023-10-25T16:09:05.771772+00:00
- - user: None
- - tags: []
-
-## The Internet's video infrastructure | Mux
- - [https://www.mux.com](https://www.mux.com)
- - date published: 2023-10-25T16:09:22.904159+00:00
- - user: None
- - tags: []
-
-## Muxup - Adventures in collaborative open source development
- - [https://muxup.com](https://muxup.com)
- - date published: 2023-10-25T16:09:26.038159+00:00
- - user: None
- - tags: []
-
-## Stan Stewart - aka @muz4now - the muse is present
- - [https://muz4now.com](https://muz4now.com)
- - date published: 2023-12-30T22:23:47.478481+00:00
- - user: None
- - tags: ['personal']
-
-## Muzzug
- - [https://blog.muzzug.com](https://blog.muzzug.com)
- - date published: 2023-11-29T15:45:30.166689+00:00
- - user: None
- - tags: ['personal']
-
-## mvariety.com | Fair • Balanced • Independent
- - [https://www.mvariety.com](https://www.mvariety.com)
- - date published: 2024-03-28T11:14:39.287571+00:00
- - user: None
- - tags: []
-
-## Mountain View Voice
- - [https://mv-voice.com](https://mv-voice.com)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## | Mountain View Online |
- - [https://www.mv-voice.com](https://www.mv-voice.com)
- - date published: 2023-10-25T16:09:34.714338+00:00
- - user: None
- - tags: []
-
-## Blog · Max Gorin
- - [https://mxgrn.com](https://mxgrn.com)
- - date published: 2023-10-25T16:09:39.374278+00:00
- - user: None
- - tags: []
-
-## Max Stoiber (@mxstbr) - JavaScript Engineer
- - [https://mxstbr.com](https://mxstbr.com)
- - date published: 2024-04-12T16:58:35.952257+00:00
- - user: None
- - tags: ['personal']
-
-## My 90's TV!
- - [https://my90stv.com](https://my90stv.com)
- - date published: 2023-10-25T16:09:42.269232+00:00
- - user: None
- - tags: []
-
-## My Abandonware - Download Old Video Games
- - [https://www.myabandonware.com](https://www.myabandonware.com)
- - date published: 2023-10-25T16:35:49.568489+00:00
- - user: None
- - tags: []
-
-## GameLinked Portal » dbrand
- - [https://mybossisveryshort.com](https://mybossisveryshort.com)
- - date published: 2024-02-16T07:52:35+00:00
- - user: rumpel
- - tags: []
-
-## My Brightest Diamond
- - [https://www.mybrightestdiamond.com](https://www.mybrightestdiamond.com)
- - date published: 2024-02-08T22:10:41.696866+00:00
- - user: None
- - tags: []
-
-## Motion Twin
- - [https://sergeant-cid.mybrute.com](https://sergeant-cid.mybrute.com)
- - date published: 2024-02-08T17:32:34.935917+00:00
- - user: None
- - tags: []
-
-## https://status.mycloud.com
- - [https://status.mycloud.com](https://status.mycloud.com)
- - date published: 2024-01-09T02:44:32.133560+00:00
- - user: None
- - tags: []
-
-## Western Digital
- - [https://www.mycloud.com](https://www.mycloud.com)
- - date published: 2024-04-15T19:58:55+00:00
- - user: rumpel
- - tags: ['cloud storage', 'western digital']
-
-## CoPilot
- - [https://go.mycopilot.com](https://go.mycopilot.com)
- - date published: 2024-03-17T18:21:08.037560+00:00
- - user: None
- - tags: []
-
-## CoPilot Fitness | Step-by-step workouts tailored to you by an expert coach
- - [https://mycopilot.com](https://mycopilot.com)
- - date published: 2024-03-15T00:00:00+00:00
- - user: rumpel
  - tags: []
 

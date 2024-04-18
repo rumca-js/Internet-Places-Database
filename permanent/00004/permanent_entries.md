@@ -1,3 +1,69 @@
+## ChatBA: Generative AI for Slides ✨
+ - [https://www.chatbcg.com](https://www.chatbcg.com)
+ - date published: 2023-10-25T13:20:40.648474+00:00
+ - user: None
+ - tags: []
+
+## ChatBotKit
+ - [https://chatbotkit.com](https://chatbotkit.com)
+ - date published: 2023-10-25T13:20:41.975572+00:00
+ - user: None
+ - tags: []
+
+## ChatGPT Online - No Login Needed!
+ - [https://chatgptbay.com](https://chatgptbay.com)
+ - date published: 2023-10-25T13:20:42.654731+00:00
+ - user: None
+ - tags: []
+
+## ChatGPT on Telegram | Access ChatGPT anywhere on Telegram
+ - [https://chatgptontelegram.com](https://chatgptontelegram.com)
+ - date published: 2023-10-25T13:20:43.958030+00:00
+ - user: None
+ - tags: []
+
+## ChatPDF - Chat with any PDF!
+ - [https://www.chatpdf.com](https://www.chatpdf.com)
+ - date published: 2023-10-25T13:20:44.651673+00:00
+ - user: None
+ - tags: []
+
+## Ratika Deshpande – Learning + doing + sharing
+ - [https://chavanniclass.com](https://chavanniclass.com)
+ - date published: 2023-10-25T13:20:46.419776+00:00
+ - user: None
+ - tags: []
+
+## CHCollins - You Are What You Create
+ - [https://chcollins.com](https://chcollins.com)
+ - date published: 2023-10-25T13:20:47.748663+00:00
+ - user: None
+ - tags: []
+
+## Cheaters Heaven
+ - [https://www.cheaters-heaven.com](https://www.cheaters-heaven.com)
+ - date published: 2024-04-07T18:03:48+00:00
+ - user: rumpel
+ - tags: ['game trainers']
+
+## Car Accident Records Search and Check VIN  |  Vehicle History Reports  |  Junk and Salvage Records  |  Check Any VIN
+ - [https://checkanyvin.com](https://checkanyvin.com)
+ - date published: 2023-10-25T13:20:49.534387+00:00
+ - user: None
+ - tags: []
+
+## Application Security Testing Company | Software Security Testing Solutions | Checkmarx
+ - [https://checkmarx.com](https://checkmarx.com)
+ - date published: 2023-10-25T13:20:53.896133+00:00
+ - user: None
+ - tags: []
+
+## Checkmate 19" IPS Retro Monitor
+ - [https://www.checkmate1500plus.com](https://www.checkmate1500plus.com)
+ - date published: 2023-12-05T18:39:42+00:00
+ - user: None
+ - tags: []
+
 ## Check Point Blog - Cyber Security News, Research & Trends
  - [https://blog.checkpoint.com](https://blog.checkpoint.com)
  - date published: 2023-10-25T13:21:03.502709+00:00
@@ -310,17 +376,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://chrisjstott.com](http://chrisjstott.com)
- - date published: 2024-02-29T14:58:49.595292+00:00
- - user: None
- - tags: []
-
 ## http://chrisjstott.com
  - [https://chrisjstott.com](https://chrisjstott.com)
  - date published: 2024-01-24T08:01:05.864817+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [http://chrisjstott.com](http://chrisjstott.com)
+ - date published: 2024-02-29T14:58:49.595292+00:00
+ - user: None
+ - tags: []
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -533,16 +599,16 @@
  - tags: []
 
 ## Blog | Chris Warrick
- - [https://chriswarrick.com](https://chriswarrick.com)
- - date published: 2023-10-25T09:19:47.812882+00:00
- - user: None
- - tags: ['personal']
-
-## Blog | Chris Warrick
  - [http://chriswarrick.com](http://chriswarrick.com)
  - date published: 2024-02-25T15:45:10.545891+00:00
  - user: None
  - tags: []
+
+## Blog | Chris Warrick
+ - [https://chriswarrick.com](https://chriswarrick.com)
+ - date published: 2023-10-25T09:19:47.812882+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Chris Zacharias
  - [https://blog.chriszacharias.com](https://blog.chriszacharias.com)
@@ -1256,7 +1322,7 @@
  - [https://cloudcruise.com](https://cloudcruise.com)
  - date published: 2024-04-16T14:57:50+00:00
  - user: None
- - tags: []
+ - tags: ['browser extension']
 
 ## Cloud Dosage
  - [https://clouddosage.com](https://clouddosage.com)
@@ -2197,7 +2263,7 @@
  - [https://www.commodore-news.com](https://www.commodore-news.com)
  - date published: 2023-12-11T16:54:21.159985+00:00
  - user: None
- - tags: []
+ - tags: ['commodore']
 
 ## Commoncog
  - [https://commoncog.com](https://commoncog.com)
@@ -3046,14 +3112,14 @@
  - tags: ['cybersecurity']
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [https://craphound.com](https://craphound.com)
- - date published: 2023-11-28T07:36:32+00:00
+ - [http://craphound.com](http://craphound.com)
+ - date published: 2024-02-25T19:26:24.229621+00:00
  - user: None
  - tags: []
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [http://craphound.com](http://craphound.com)
- - date published: 2024-02-25T19:26:24.229621+00:00
+ - [https://craphound.com](https://craphound.com)
+ - date published: 2023-11-28T07:36:32+00:00
  - user: None
  - tags: []
 
@@ -4168,6 +4234,12 @@
  - user: None
  - tags: []
 
+## daMaia
+ - [https://www.damaia.com](https://www.damaia.com)
+ - date published: 2024-04-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Software Engineering
  - [https://damienbod.com](https://damienbod.com)
  - date published: 2024-01-09T05:07:20.296639+00:00
@@ -4312,17 +4384,17 @@
  - user: None
  - tags: []
 
-## Daniel Hoang
- - [http://danielhoang.com](http://danielhoang.com)
- - date published: 2024-04-03T06:29:29.746239+00:00
- - user: None
- - tags: ['personal']
-
 ## Daniel Hoang – Experienced management consultant x creative. Xennial bridging analog with digital at the intersection of humanity and machine. Scrappy, creative, and fast.
  - [https://danielhoang.com](https://danielhoang.com)
  - date published: 2023-12-12T09:24:31.582869+00:00
  - user: None
  - tags: []
+
+## Daniel Hoang
+ - [http://danielhoang.com](http://danielhoang.com)
+ - date published: 2024-04-03T06:29:29.746239+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Daniel Hoang
  - [https://www.danielhoang.com](https://www.danielhoang.com)
@@ -4969,6 +5041,12 @@
 ## Welcome to nginx!
  - [https://davidegallesi.com](https://davidegallesi.com)
  - date published: 2023-12-05T14:38:12.497300+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Eisinger
+ - [https://davideisinger.com](https://davideisinger.com)
+ - date published: 2024-04-17T04:51:57.162243+00:00
  - user: None
  - tags: ['personal']
 
@@ -5925,82 +6003,4 @@
  - date published: 2023-10-25T13:50:14.647949+00:00
  - user: None
  - tags: []
-
-## Graphic Tees, Cool T Shirt Designs For Men And Women - DesignByHumans
- - [https://www.designbyhumans.com](https://www.designbyhumans.com)
- - date published: 2023-12-13T15:37:22.113867+00:00
- - user: None
- - tags: []
-
-## Design Epic Life – Self Mastery and Life Design for High Achievers
- - [https://designepiclife.com](https://designepiclife.com)
- - date published: 2018-05-19T03:20:18+00:00
- - user: None
- - tags: []
-
-## Design Made in Japan
- - [https://designmadeinjapan.com](https://designmadeinjapan.com)
- - date published: 2024-01-09T02:34:32.514694+00:00
- - user: None
- - tags: []
-
-## Design And Reuse, The System-On-Chip Design Resource - IP, Core, SoC
- - [https://www.design-reuse.com](https://www.design-reuse.com)
- - date published: 2023-10-25T13:50:05.038562+00:00
- - user: None
- - tags: []
-
-## Show HN: Possibly the most comprehensive design system collection
- - [https://www.designsystemhunt.com](https://www.designsystemhunt.com)
- - date published: 2024-01-05T03:23:31+00:00
- - user: None
- - tags: []
-
-## Design You Trust
- - [https://designyoutrust.com](https://designyoutrust.com)
- - date published: 2023-10-25T13:50:22.315830+00:00
- - user: None
- - tags: []
-
-## Home - desimslaughter
- - [https://desimslaughter.com](https://desimslaughter.com)
- - date published: 2024-04-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## DeSmog
- - [https://www.desmog.com](https://www.desmog.com)
- - date published: 2024-01-09T02:21:59.409554+00:00
- - user: None
- - tags: ['fact check']
-
-## Home
- - [https://www.desmoinesregister.com](https://www.desmoinesregister.com)
- - date published: 2024-01-05T01:39:55.710157+00:00
- - user: None
- - tags: []
-
-## Desmos Engineering
- - [https://engineering.desmos.com](https://engineering.desmos.com)
- - date published: 2023-10-25T13:50:26.275795+00:00
- - user: None
- - tags: []
-
-## Desmos | Let's learn together.
- - [https://www.desmos.com](https://www.desmos.com)
- - date published: 2023-10-25T13:50:34.193461+00:00
- - user: None
- - tags: []
-
-## despair labs
- - [https://despairlabs.com](https://despairlabs.com)
- - date published: 2023-12-26T10:22:28.435042+00:00
- - user: None
- - tags: []
-
-## Destination: zero bars
- - [https://destinationzerobars.com](https://destinationzerobars.com)
- - date published: 2013-07-18T00:00:00+00:00
- - user: None
- - tags: ['personal']
 

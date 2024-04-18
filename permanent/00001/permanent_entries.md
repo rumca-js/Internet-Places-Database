@@ -1,3 +1,15 @@
+## Narcogarimpos – Especial – Narcogarimpos
+ - [https://narcogarimpos.reporterbrasil.org.br](https://narcogarimpos.reporterbrasil.org.br)
+ - date published: 2023-12-11T19:34:35.359408+00:00
+ - user: None
+ - tags: []
+
+## Nome aos Bois – Reporter Brasil
+ - [https://nomeaosbois.reporterbrasil.org.br](https://nomeaosbois.reporterbrasil.org.br)
+ - date published: 2023-12-11T19:34:47.478056+00:00
+ - user: None
+ - tags: []
+
 ## Repórter Brasil
  - [https://reporterbrasil.org.br](https://reporterbrasil.org.br)
  - date published: 2023-11-14T17:00:02.121596+00:00
@@ -65,14 +77,14 @@
  - tags: []
 
 ## Svarichevsky Mikhail
- - [https://3.14.by](https://3.14.by)
- - date published: 2024-01-16T06:21:34.423774+00:00
+ - [http://3.14.by](http://3.14.by)
+ - date published: 2024-02-26T13:20:29.028020+00:00
  - user: None
  - tags: []
 
 ## Svarichevsky Mikhail
- - [http://3.14.by](http://3.14.by)
- - date published: 2024-02-26T13:20:29.028020+00:00
+ - [https://3.14.by](https://3.14.by)
+ - date published: 2024-01-16T06:21:34.423774+00:00
  - user: None
  - tags: []
 
@@ -1386,16 +1398,16 @@
  - tags: ['personal']
 
 ## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
- - [http://wingfelder.ca](http://wingfelder.ca)
- - date published: 2024-04-03T12:43:01.979772+00:00
- - user: None
- - tags: ['personal']
-
-## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
  - [https://wingfelder.ca](https://wingfelder.ca)
  - date published: 2024-01-11T13:28:46.842673+00:00
  - user: None
  - tags: []
+
+## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
+ - [http://wingfelder.ca](http://wingfelder.ca)
+ - date published: 2024-04-03T12:43:01.979772+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Women of Influence –
  - [https://www.womenofinfluence.ca](https://www.womenofinfluence.ca)
@@ -2322,6 +2334,12 @@
  - user: None
  - tags: []
 
+## Alle Public Eye Reportagen
+ - [https://stories.publiceye.ch](https://stories.publiceye.ch)
+ - date published: 2024-04-17T18:04:28.301107+00:00
+ - user: None
+ - tags: []
+
 ## Quartierblog | QV Oerlikon
  - [https://www.qv-oerlikon.ch](https://www.qv-oerlikon.ch)
  - date published: 2024-02-08T18:02:00.718065+00:00
@@ -2675,6 +2693,12 @@
  - date published: 2023-12-27T23:51:24+00:00
  - user: None
  - tags: []
+
+## Show HN: Learn 3 words today with Gemini 1.5 Pro
+ - [https://wordlab.cloud](https://wordlab.cloud)
+ - date published: 2024-04-17T13:03:54+00:00
+ - user: None
+ - tags: ['artificial intelligence bot']
 
 ## Azerbaijan Cloud Service Provider - YER Hosted Service Provider (xSP)
  - [https://yer.cloud](https://yer.cloud)
@@ -3745,14 +3769,14 @@
  - tags: []
 
 ## Nabeel S. Qureshi
- - [http://nabeelqu.co](http://nabeelqu.co)
- - date published: 2024-02-26T09:20:32.283903+00:00
+ - [https://nabeelqu.co](https://nabeelqu.co)
+ - date published: 2024-01-20T19:20:52.169397+00:00
  - user: None
  - tags: []
 
 ## Nabeel S. Qureshi
- - [https://nabeelqu.co](https://nabeelqu.co)
- - date published: 2024-01-20T19:20:52.169397+00:00
+ - [http://nabeelqu.co](http://nabeelqu.co)
+ - date published: 2024-02-26T09:20:32.283903+00:00
  - user: None
  - tags: []
 
@@ -5121,14 +5145,14 @@
  - tags: []
 
 ## Aardwolf MUD - Home Page
- - [https://www.aardwolf.com](https://www.aardwolf.com)
- - date published: 2024-03-27T20:48:48.782050+00:00
+ - [http://www.aardwolf.com](http://www.aardwolf.com)
+ - date published: 2024-03-27T20:46:27.237579+00:00
  - user: None
  - tags: ['mud game']
 
 ## Aardwolf MUD - Home Page
- - [http://www.aardwolf.com](http://www.aardwolf.com)
- - date published: 2024-03-27T20:46:27.237579+00:00
+ - [https://www.aardwolf.com](https://www.aardwolf.com)
+ - date published: 2024-03-27T20:48:48.782050+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5283,14 +5307,14 @@
  - tags: []
 
 ## Abandoned Realms Homepage
- - [https://abandonedrealms.com](https://abandonedrealms.com)
- - date published: 2024-03-27T20:46:56.678785+00:00
+ - [http://abandonedrealms.com](http://abandonedrealms.com)
+ - date published: 2024-03-27T20:46:21.299380+00:00
  - user: None
  - tags: ['mud game']
 
 ## Abandoned Realms Homepage
- - [http://abandonedrealms.com](http://abandonedrealms.com)
- - date published: 2024-03-27T20:46:21.299380+00:00
+ - [https://abandonedrealms.com](https://abandonedrealms.com)
+ - date published: 2024-03-27T20:46:56.678785+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5841,14 +5865,14 @@
  - tags: []
 
 ## Adam Fisher
- - [https://adamfishertrumpet.com](https://adamfishertrumpet.com)
- - date published: 2024-01-09T02:29:07.213553+00:00
+ - [http://adamfishertrumpet.com](http://adamfishertrumpet.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Adam Fisher
- - [http://adamfishertrumpet.com](http://adamfishertrumpet.com)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://adamfishertrumpet.com](https://adamfishertrumpet.com)
+ - date published: 2024-01-09T02:29:07.213553+00:00
  - user: None
  - tags: []
 
@@ -5977,30 +6001,6 @@
 ## Show HN: ADHD STASH. A curated collection of ADHD friendly products and services
  - [https://www.adhdstash.com](https://www.adhdstash.com)
  - date published: 2024-03-14T17:13:32+00:00
- - user: None
- - tags: []
-
-## adhiv dhar
- - [https://adhiv.com](https://adhiv.com)
- - date published: 2023-12-22T17:47:47.976155+00:00
- - user: None
- - tags: ['personal']
-
-## Adib Fricke · Words, Art, and Language | The Word Company®
- - [https://adibfricke.com](https://adibfricke.com)
- - date published: 2023-12-03T01:43:49.025664+00:00
- - user: None
- - tags: ['personal']
-
-## Adi's Thoughts
- - [https://www.adityabaradwaj.com](https://www.adityabaradwaj.com)
- - date published: 2023-10-25T08:44:06.720224+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Adiuvo Engineering
- - [https://www.adiuvoengineering.com](https://www.adiuvoengineering.com)
- - date published: 2023-10-25T12:32:43.380851+00:00
  - user: None
  - tags: []
 

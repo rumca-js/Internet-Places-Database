@@ -1,3 +1,147 @@
+## Pearl Jam - Home
+ - [https://pearljam.com](https://pearljam.com)
+ - date published: 2023-11-13T11:08:31.956919+00:00
+ - user: None
+ - tags: ['music band']
+
+## Pears | Unleash the Power of P2P
+ - [https://pears.com](https://pears.com)
+ - date published: 2024-02-14T21:17:06.928870+00:00
+ - user: None
+ - tags: []
+
+## Pearson | The World’s Leading Education Provider
+ - [https://www.pearson.com](https://www.pearson.com)
+ - date published: 2023-10-25T16:31:59.807682+00:00
+ - user: None
+ - tags: []
+
+## Pedestrian Observations
+ - [https://pedestrianobservations.com](https://pedestrianobservations.com)
+ - date published: 2024-01-09T02:45:49.923910+00:00
+ - user: None
+ - tags: []
+
+## PeerJ
+ - [https://peerj.com](https://peerj.com)
+ - date published: 2023-11-02T17:53:38.956577+00:00
+ - user: None
+ - tags: []
+
+## Book update.  Now includes recent work on best fit solutions. - Peeter Joot's Blog
+ - [https://peeterjoot.com](https://peeterjoot.com)
+ - date published: 2023-10-25T08:57:37.286572+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pegasus Games
+ - [https://pegasusgames.com](https://pegasusgames.com)
+ - date published: 2023-10-30T12:01:37.114574+00:00
+ - user: None
+ - tags: []
+
+## PELock Software Protection & Software License Key System
+ - [https://www.pelock.com](https://www.pelock.com)
+ - date published: 2024-03-19T15:09:07+00:00
+ - user: rumpel
+ - tags: ['reverse engineering']
+
+## PelotonCal
+ - [https://pelotoncal.com](https://pelotoncal.com)
+ - date published: 2023-10-25T16:32:06.386585+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://peltarion.com](https://peltarion.com)
+ - date published: 2024-01-09T02:45:52.860446+00:00
+ - user: None
+ - tags: []
+
+## PENDULUM - Official Website
+ - [https://pendulum.com](https://pendulum.com)
+ - date published: 2023-11-13T10:44:23.595750+00:00
+ - user: None
+ - tags: ['music band']
+
+## Penguinjaa
+ - [https://www.penguinjaa.com](https://www.penguinjaa.com)
+ - date published: 2024-01-09T02:45:54.096725+00:00
+ - user: None
+ - tags: []
+
+## Penguin Random House
+ - [https://www.penguinrandomhouse.com](https://www.penguinrandomhouse.com)
+ - date published: 2024-02-15T22:32:33.341645+00:00
+ - user: None
+ - tags: []
+
+## Penmachine - Derek K. Miller
+ - [https://www.penmachine.com](https://www.penmachine.com)
+ - date published: 2023-10-25T16:32:10.562369+00:00
+ - user: None
+ - tags: []
+
+## Central PA Local News, Breaking News, Sports & Weather
+ - [https://www.pennlive.com](https://www.pennlive.com)
+ - date published: 2023-11-04T15:48:22.366123+00:00
+ - user: None
+ - tags: []
+
+## Home - Penny Arcade
+ - [http://penny-arcade.com](http://penny-arcade.com)
+ - date published: 2024-03-24T15:03:18.672244+00:00
+ - user: None
+ - tags: []
+
+## Tom Francis
+ - [https://www.pentadact.com](https://www.pentadact.com)
+ - date published: 2023-10-25T09:21:08.810960+00:00
+ - user: None
+ - tags: ['personal']
+
+## CyberSecurity Developer (API) Portal - PENTESTON - Stay secure
+ - [https://developer.penteston.com](https://developer.penteston.com)
+ - date published: 2024-01-09T02:46:02.810283+00:00
+ - user: None
+ - tags: []
+
+## Cyber Security Consulting & Testing | Pen Test Partners
+ - [https://www.pentestpartners.com](https://www.pentestpartners.com)
+ - date published: 2024-04-16T12:22:43.976949+00:00
+ - user: None
+ - tags: []
+
+## Penetration testing toolkit, ready to use
+ - [https://pentest-tools.com](https://pentest-tools.com)
+ - date published: 2024-03-19T14:36:57.361231+00:00
+ - user: None
+ - tags: []
+
+## People.com | Celebrity News, Exclusives, Photos and Videos
+ - [https://people.com](https://people.com)
+ - date published: 2023-10-25T10:52:09.683787+00:00
+ - user: None
+ - tags: []
+
+## https://people2people.com
+ - [https://people2people.com](https://people2people.com)
+ - date published: 2024-02-08T16:31:07.870510+00:00
+ - user: None
+ - tags: []
+
+## People and Blogs
+ - [https://peopleandblogs.com](https://peopleandblogs.com)
+ - date published: 2023-10-25T16:32:21.821382+00:00
+ - user: None
+ - tags: []
+
+## Join Flourish! A newsletter to navigate business and life
+ - [https://peopleloveprojects.com](https://peopleloveprojects.com)
+ - date published: 2023-11-29T13:54:27.816636+00:00
+ - user: None
+ - tags: ['personal']
+
 ## POCIT. Telling the stories and thoughts of people of color in tech.
  - [https://peopleofcolorintech.com](https://peopleofcolorintech.com)
  - date published: 2023-10-25T16:32:25.934361+00:00
@@ -23,14 +167,14 @@
  - tags: []
 
 ## Pera Barrett - Dad, Shoebox Christmas founder, author, musician, doer.
- - [https://www.perabarrett.com](https://www.perabarrett.com)
- - date published: 2024-01-12T22:14:14.873814+00:00
+ - [http://www.perabarrett.com](http://www.perabarrett.com)
+ - date published: 2024-04-03T12:42:43.429862+00:00
  - user: None
  - tags: ['personal']
 
 ## Pera Barrett - Dad, Shoebox Christmas founder, author, musician, doer.
- - [http://www.perabarrett.com](http://www.perabarrett.com)
- - date published: 2024-04-03T12:42:43.429862+00:00
+ - [https://www.perabarrett.com](https://www.perabarrett.com)
+ - date published: 2024-01-12T22:14:14.873814+00:00
  - user: None
  - tags: ['personal']
 
@@ -713,7 +857,7 @@
  - [https://www.phpbb.com](https://www.phpbb.com)
  - date published: 2023-10-25T08:30:34.828095+00:00
  - user: None
- - tags: []
+ - tags: ['open source', 'forum']
 
 ## phpied.com
  - [http://www.phpied.com](http://www.phpied.com)
@@ -1042,6 +1186,12 @@
 ## Pirate Wires | Mike Solana | Substack
  - [https://www.piratewires.com](https://www.piratewires.com)
  - date published: 2023-10-25T16:35:27.813777+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Pistol Shrimp Games - Pistol Shrimp
+ - [https://pistolshrimpgames.com](https://pistolshrimpgames.com)
+ - date published: 2022-11-11T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1435,15 +1585,15 @@
  - user: None
  - tags: []
 
-## plumshell
- - [http://plumshell.com](http://plumshell.com)
- - date published: 2024-02-26T15:04:17.373885+00:00
- - user: None
- - tags: []
-
 ## 無効なURLです
  - [https://plumshell.com](https://plumshell.com)
  - date published: 2024-01-09T02:46:44.613598+00:00
+ - user: None
+ - tags: []
+
+## plumshell
+ - [http://plumshell.com](http://plumshell.com)
+ - date published: 2024-02-26T15:04:17.373885+00:00
  - user: None
  - tags: []
 
@@ -1676,13 +1826,13 @@
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -2029,6 +2179,12 @@
  - user: None
  - tags: ['music band']
 
+## Sam Barros' PowerLabs
+ - [https://power-labs.com](https://power-labs.com)
+ - date published: 2024-04-17T04:30:57+00:00
+ - user: rumpel
+ - tags: ['personal', 'interesting', 'technology', 'science']
+
 ## POWER Magazine :: Power generation news and jobs in coal, gas, nuclear, renewables
  - [https://www.powermag.com](https://www.powermag.com)
  - date published: 2023-12-20T20:45:05.389832+00:00
@@ -2180,14 +2336,14 @@
  - tags: []
 
 ## Preshing on Programming
- - [http://preshing.com](http://preshing.com)
- - date published: 2021-03-15T00:00:00+00:00
+ - [https://preshing.com](https://preshing.com)
+ - date published: 2023-10-25T16:39:24.657091+00:00
  - user: None
  - tags: []
 
 ## Preshing on Programming
- - [https://preshing.com](https://preshing.com)
- - date published: 2023-10-25T16:39:24.657091+00:00
+ - [http://preshing.com](http://preshing.com)
+ - date published: 2021-03-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2449,6 +2605,12 @@
  - user: None
  - tags: []
 
+## Of Particular Significance
+ - [https://profmattstrassler.com](https://profmattstrassler.com)
+ - date published: 2024-04-17T11:44:37.027845+00:00
+ - user: None
+ - tags: ['personal']
+
 ## The Program audio series
  - [https://programaudioseries.com](https://programaudioseries.com)
  - date published: 2023-10-25T16:40:39.618952+00:00
@@ -2474,14 +2636,14 @@
  - tags: []
 
 ## programming is terrible
- - [http://programmingisterrible.com](http://programmingisterrible.com)
- - date published: 2022-09-22T00:00:00+00:00
+ - [https://programmingisterrible.com](https://programmingisterrible.com)
+ - date published: 2023-10-25T16:40:51.213240+00:00
  - user: None
  - tags: []
 
 ## programming is terrible
- - [https://programmingisterrible.com](https://programmingisterrible.com)
- - date published: 2023-10-25T16:40:51.213240+00:00
+ - [http://programmingisterrible.com](http://programmingisterrible.com)
+ - date published: 2022-09-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3612,14 +3774,14 @@
  - tags: []
 
 ## rachelbythebay
- - [http://rachelbythebay.com](http://rachelbythebay.com)
- - date published: 2024-03-25T10:02:53.023235+00:00
+ - [https://rachelbythebay.com](https://rachelbythebay.com)
+ - date published: 2023-10-25T08:47:38.309860+00:00
  - user: None
  - tags: ['personal']
 
 ## rachelbythebay
- - [https://rachelbythebay.com](https://rachelbythebay.com)
- - date published: 2023-10-25T08:47:38.309860+00:00
+ - [http://rachelbythebay.com](http://rachelbythebay.com)
+ - date published: 2024-03-25T10:02:53.023235+00:00
  - user: None
  - tags: ['personal']
 
@@ -3792,14 +3954,14 @@
  - tags: ['personal']
 
 ## Reginald Braithwaite
- - [https://raganwald.com](https://raganwald.com)
- - date published: 2023-10-25T16:45:15.488174+00:00
+ - [http://raganwald.com](http://raganwald.com)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Reginald Braithwaite
- - [http://raganwald.com](http://raganwald.com)
- - date published: 2016-01-01T00:00:00+00:00
+ - [https://raganwald.com](https://raganwald.com)
+ - date published: 2023-10-25T16:45:15.488174+00:00
  - user: None
  - tags: []
 
@@ -4141,16 +4303,16 @@ More!
  - tags: []
 
 ## Ravenfeast
- - [https://www.ravenfeast.com](https://www.ravenfeast.com)
- - date published: 2024-03-01T09:41:52+00:00
- - user: rumpel
- - tags: ['tabletop games', 'wargames']
-
-## Ravenfeast
  - [http://www.ravenfeast.com](http://www.ravenfeast.com)
  - date published: 2024-03-01T18:35:27.406553+00:00
  - user: None
  - tags: []
+
+## Ravenfeast
+ - [https://www.ravenfeast.com](https://www.ravenfeast.com)
+ - date published: 2024-03-01T09:41:52+00:00
+ - user: rumpel
+ - tags: ['tabletop games', 'wargames']
 
 ## https://www.ravensoft.com
  - [https://www.ravensoft.com](https://www.ravensoft.com)
@@ -4393,14 +4555,14 @@ More!
  - tags: ['company']
 
 ## Home | Realms of Despair
- - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
- - date published: 2024-03-27T20:52:28.838514+00:00
+ - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:46:33.188949+00:00
  - user: None
  - tags: ['mud game']
 
 ## Home | Realms of Despair
- - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
- - date published: 2024-03-27T20:46:33.188949+00:00
+ - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:52:28.838514+00:00
  - user: None
  - tags: ['mud game']
 
@@ -4615,16 +4777,16 @@ More!
  - tags: []
 
 ## reddit
- - [https://reddit.com](https://reddit.com)
- - date published: 2023-10-24T20:12:40.083441+00:00
- - user: None
- - tags: ['gatekeeper', 'social platform']
-
-## reddit
  - [http://reddit.com](http://reddit.com)
  - date published: 2024-04-05T18:55:02.786881+00:00
  - user: None
  - tags: []
+
+## reddit
+ - [https://reddit.com](https://reddit.com)
+ - date published: 2023-10-24T20:12:40.083441+00:00
+ - user: None
+ - tags: ['gatekeeper', 'social platform']
 
 ## reddit
  - [https://sh.reddit.com](https://sh.reddit.com)
@@ -4711,14 +4873,14 @@ More!
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [http://www.reddit-stream.com](http://www.reddit-stream.com)
- - date published: 2023-12-23T19:30:18.252561+00:00
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
  - user: None
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
+ - [http://www.reddit-stream.com](http://www.reddit-stream.com)
+ - date published: 2023-12-23T19:30:18.252561+00:00
  - user: None
  - tags: []
 
@@ -4768,7 +4930,7 @@ More!
  - [https://www.redhat.com](https://www.redhat.com)
  - date published: 2023-10-25T16:48:17.285585+00:00
  - user: None
- - tags: []
+ - tags: ['open source', 'company']
 
 ## Red Hot Chili Peppers
  - [https://redhotchilipeppers.com](https://redhotchilipeppers.com)
@@ -5086,7 +5248,7 @@ More!
  - [https://remi-raher.com](https://remi-raher.com)
  - date published: 2024-01-07T11:02:52.112756+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Remix64.com: C64 and Amiga Music Remix Community
  - [https://remix64.com](https://remix64.com)
@@ -5779,16 +5941,16 @@ More!
  - tags: []
 
 ## Ken Shirriff's blog
- - [http://www.righto.com](http://www.righto.com)
- - date published: 2024-02-25T00:44:48.796985+00:00
- - user: None
- - tags: []
-
-## Ken Shirriff's blog
  - [https://www.righto.com](https://www.righto.com)
  - date published: 2023-10-25T16:51:33.313104+00:00
  - user: None
  - tags: ['blog', 'personal']
+
+## Ken Shirriff's blog
+ - [http://www.righto.com](http://www.righto.com)
+ - date published: 2024-02-25T00:44:48.796985+00:00
+ - user: None
+ - tags: []
 
 ## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
  - [https://www.rigzone.com](https://www.rigzone.com)
@@ -5841,168 +6003,6 @@ More!
 ## Latest News from Rimac – Rimac Newsroom
  - [https://www.rimac-newsroom.com](https://www.rimac-newsroom.com)
  - date published: 2023-10-25T16:51:41.401391+00:00
- - user: None
- - tags: []
-
-## Rimenes Ribeiro
- - [https://rimenesribeiro.com](https://rimenesribeiro.com)
- - date published: 2023-12-30T22:23:58.013629+00:00
- - user: None
- - tags: ['personal']
-
-## RimWorld - Sci-Fi Colony Sim
- - [https://rimworldgame.com](https://rimworldgame.com)
- - date published: 2023-10-25T16:51:42.834278+00:00
- - user: None
- - tags: []
-
-## Rinaldo Hopf
- - [https://www.rinaldohopf.com](https://www.rinaldohopf.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ring.com Status
- - [https://status.ring.com](https://status.ring.com)
- - date published: 2023-10-25T16:51:44.473538+00:00
- - user: None
- - tags: []
-
-## Ringer
- - [https://www.ringerhq.com](https://www.ringerhq.com)
- - date published: 2023-10-25T16:51:53.579899+00:00
- - user: None
- - tags: []
-
-## Riot Games. Developer of League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, and Wild Rift. Creators of Arcane. Home of LOL and VALORANT Esports.
- - [https://www.riotgames.com](https://www.riotgames.com)
- - date published: 2024-01-23T00:59:39.503692+00:00
- - user: None
- - tags: ['video game developer']
-
-## Home
- - [https://www.riotimesonline.com](https://www.riotimesonline.com)
- - date published: 2023-12-06T19:21:30.188407+00:00
- - user: None
- - tags: []
-
-## Ripley's Believe It or Not! | Aquariums, Attractions, and Weird News
- - [https://www.ripleys.com](https://www.ripleys.com)
- - date published: 2023-10-25T16:51:58.390818+00:00
- - user: None
- - tags: []
-
-## Rippaverse - Rippaverse®
- - [https://rippaverse.com](https://rippaverse.com)
- - date published: 2023-03-25T16:55:51+00:00
- - user: None
- - tags: []
-
-## Oven Career Opportunities
- - [https://oven.rippling-ats.com](https://oven.rippling-ats.com)
- - date published: 2023-10-25T16:51:59.432468+00:00
- - user: None
- - tags: []
-
-## Learn programming languages with books and examples
- - [https://riptutorial.com](https://riptutorial.com)
- - date published: 2024-01-21T21:07:11+00:00
- - user: rumpel
- - tags: ['tutorial']
-
-## Rishikesh Sreehari - Redefining Probabilities
- - [https://rishikeshs.com](https://rishikeshs.com)
- - date published: 2023-12-09T15:00:20.435644+00:00
- - user: None
- - tags: ['personal']
-
-## RisingWave: Open-Source Streaming Database
- - [https://risingwave.com](https://risingwave.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## RisingWave: Open-Source Streaming Database
- - [https://www.risingwave.com](https://www.risingwave.com)
- - date published: 2023-10-25T16:52:03.481553+00:00
- - user: None
- - tags: []
-
-## RisingWave: Open-Source Streaming Database
- - [https://www.risingwave-labs.com](https://www.risingwave-labs.com)
- - date published: 2023-10-25T16:52:06.777687+00:00
- - user: None
- - tags: []
-
-## RiskInsight
- - [https://www.riskinsight-wavestone.com](https://www.riskinsight-wavestone.com)
- - date published: 2024-01-09T02:48:03.956238+00:00
- - user: None
- - tags: []
-
-## Ritam Digital English - Latest News, Political News, Live Updates
- - [https://ritamdigital.com](https://ritamdigital.com)
- - date published: 2024-03-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://www.riveducha.com](https://www.riveducha.com)
- - date published: 2023-10-25T16:52:07.967889+00:00
- - user: None
- - tags: []
-
-## St. Louis Riverfront Times
- - [https://www.riverfronttimes.com](https://www.riverfronttimes.com)
- - date published: 2023-11-03T11:36:25.413238+00:00
- - user: None
- - tags: []
-
-## RiverGlide Ideas
- - [https://ideas.riverglide.com](https://ideas.riverglide.com)
- - date published: 2023-10-25T16:52:12.023700+00:00
- - user: None
- - tags: []
-
-## Rivian - Electric Adventure Vehicles
- - [https://rivian.com](https://rivian.com)
- - date published: 2024-03-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home page for Robert Willey
- - [https://www.rkwilley.com](https://www.rkwilley.com)
- - date published: 2024-04-03T12:46:51.325979+00:00
- - user: None
- - tags: ['personal']
-
-## Raivo Laanemets - Recent posts
- - [https://rlaanemets.com](https://rlaanemets.com)
- - date published: 2023-12-15T21:43:25.823623+00:00
- - user: None
- - tags: ['personal']
-
-## rlimit.com – rate-limiting made easy
- - [https://rlimit.com](https://rlimit.com)
- - date published: 2024-03-11T01:56:58+00:00
- - user: None
- - tags: []
-
-## Hammock-Led Engineering
- - [https://rlopzc.com](https://rlopzc.com)
- - date published: 2023-10-25T16:52:12.715133+00:00
- - user: None
- - tags: []
-
-## Custom Electronics, PWM Circuits, Induction Heating, and DIY Science Projects - RMCybernetics
- - [https://www.rmcybernetics.com](https://www.rmcybernetics.com)
- - date published: 2023-10-25T16:52:17.665472+00:00
- - user: None
- - tags: []
-
-## Bow Valley News - Powered by Rocky Mountain Outlook
- - [https://www.rmoutlook.com](https://www.rmoutlook.com)
- - date published: 2023-11-05T16:12:44.302581+00:00
  - user: None
  - tags: []
 

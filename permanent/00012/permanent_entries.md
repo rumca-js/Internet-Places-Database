@@ -1,3 +1,165 @@
+## Rimenes Ribeiro
+ - [https://rimenesribeiro.com](https://rimenesribeiro.com)
+ - date published: 2023-12-30T22:23:58.013629+00:00
+ - user: None
+ - tags: ['personal']
+
+## RimWorld - Sci-Fi Colony Sim
+ - [https://rimworldgame.com](https://rimworldgame.com)
+ - date published: 2023-10-25T16:51:42.834278+00:00
+ - user: None
+ - tags: []
+
+## Rinaldo Hopf
+ - [https://www.rinaldohopf.com](https://www.rinaldohopf.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ring.com Status
+ - [https://status.ring.com](https://status.ring.com)
+ - date published: 2023-10-25T16:51:44.473538+00:00
+ - user: None
+ - tags: []
+
+## Ringer
+ - [https://www.ringerhq.com](https://www.ringerhq.com)
+ - date published: 2023-10-25T16:51:53.579899+00:00
+ - user: None
+ - tags: []
+
+## Riot Games. Developer of League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, and Wild Rift. Creators of Arcane. Home of LOL and VALORANT Esports.
+ - [https://www.riotgames.com](https://www.riotgames.com)
+ - date published: 2024-01-23T00:59:39.503692+00:00
+ - user: None
+ - tags: ['video game developer']
+
+## Home
+ - [https://www.riotimesonline.com](https://www.riotimesonline.com)
+ - date published: 2023-12-06T19:21:30.188407+00:00
+ - user: None
+ - tags: []
+
+## Ripley's Believe It or Not! | Aquariums, Attractions, and Weird News
+ - [https://www.ripleys.com](https://www.ripleys.com)
+ - date published: 2023-10-25T16:51:58.390818+00:00
+ - user: None
+ - tags: []
+
+## Rippaverse - Rippaverse®
+ - [https://rippaverse.com](https://rippaverse.com)
+ - date published: 2023-03-25T16:55:51+00:00
+ - user: None
+ - tags: []
+
+## Oven Career Opportunities
+ - [https://oven.rippling-ats.com](https://oven.rippling-ats.com)
+ - date published: 2023-10-25T16:51:59.432468+00:00
+ - user: None
+ - tags: []
+
+## Learn programming languages with books and examples
+ - [https://riptutorial.com](https://riptutorial.com)
+ - date published: 2024-01-21T21:07:11+00:00
+ - user: rumpel
+ - tags: ['tutorial']
+
+## Rishikesh Sreehari - Redefining Probabilities
+ - [https://rishikeshs.com](https://rishikeshs.com)
+ - date published: 2023-12-09T15:00:20.435644+00:00
+ - user: None
+ - tags: ['personal']
+
+## RisingWave: Open-Source Streaming Database
+ - [https://risingwave.com](https://risingwave.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## RisingWave: Open-Source Streaming Database
+ - [https://www.risingwave.com](https://www.risingwave.com)
+ - date published: 2023-10-25T16:52:03.481553+00:00
+ - user: None
+ - tags: []
+
+## RisingWave: Open-Source Streaming Database
+ - [https://www.risingwave-labs.com](https://www.risingwave-labs.com)
+ - date published: 2023-10-25T16:52:06.777687+00:00
+ - user: None
+ - tags: []
+
+## RiskInsight
+ - [https://www.riskinsight-wavestone.com](https://www.riskinsight-wavestone.com)
+ - date published: 2024-01-09T02:48:03.956238+00:00
+ - user: None
+ - tags: []
+
+## Ritam Digital English - Latest News, Political News, Live Updates
+ - [https://ritamdigital.com](https://ritamdigital.com)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.riveducha.com](https://www.riveducha.com)
+ - date published: 2023-10-25T16:52:07.967889+00:00
+ - user: None
+ - tags: []
+
+## St. Louis Riverfront Times
+ - [https://www.riverfronttimes.com](https://www.riverfronttimes.com)
+ - date published: 2023-11-03T11:36:25.413238+00:00
+ - user: None
+ - tags: []
+
+## RiverGlide Ideas
+ - [https://ideas.riverglide.com](https://ideas.riverglide.com)
+ - date published: 2023-10-25T16:52:12.023700+00:00
+ - user: None
+ - tags: []
+
+## Rivian - Electric Adventure Vehicles
+ - [https://rivian.com](https://rivian.com)
+ - date published: 2024-03-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home page for Robert Willey
+ - [https://www.rkwilley.com](https://www.rkwilley.com)
+ - date published: 2024-04-03T12:46:51.325979+00:00
+ - user: None
+ - tags: ['personal']
+
+## Raivo Laanemets - Recent posts
+ - [https://rlaanemets.com](https://rlaanemets.com)
+ - date published: 2023-12-15T21:43:25.823623+00:00
+ - user: None
+ - tags: ['personal']
+
+## rlimit.com – rate-limiting made easy
+ - [https://rlimit.com](https://rlimit.com)
+ - date published: 2024-03-11T01:56:58+00:00
+ - user: None
+ - tags: []
+
+## Hammock-Led Engineering
+ - [https://rlopzc.com](https://rlopzc.com)
+ - date published: 2023-10-25T16:52:12.715133+00:00
+ - user: None
+ - tags: []
+
+## Custom Electronics, PWM Circuits, Induction Heating, and DIY Science Projects - RMCybernetics
+ - [https://www.rmcybernetics.com](https://www.rmcybernetics.com)
+ - date published: 2023-10-25T16:52:17.665472+00:00
+ - user: None
+ - tags: []
+
+## Bow Valley News - Powered by Rocky Mountain Outlook
+ - [https://www.rmoutlook.com](https://www.rmoutlook.com)
+ - date published: 2023-11-05T16:12:44.302581+00:00
+ - user: None
+ - tags: []
+
 ## | Rebecca Murphey
  - [http://rmurphey.com](http://rmurphey.com)
  - date published: 2021-12-23T00:00:00+00:00
@@ -1265,14 +1427,14 @@
  - tags: []
 
 ## Home :: Sacha Chua
- - [http://sachachua.com](http://sachachua.com)
- - date published: 2024-01-05T00:00:00+00:00
+ - [https://sachachua.com](https://sachachua.com)
+ - date published: 2024-01-06T02:24:05.322702+00:00
  - user: None
  - tags: []
 
 ## Home :: Sacha Chua
- - [https://sachachua.com](https://sachachua.com)
- - date published: 2024-01-06T02:24:05.322702+00:00
+ - [http://sachachua.com](http://sachachua.com)
+ - date published: 2024-01-05T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2320,6 +2482,12 @@
  - user: None
  - tags: []
 
+## renegat0x0 site
+ - [https://scorecardresearch.com](https://scorecardresearch.com)
+ - date published: 2024-04-17T18:24:30.032241+00:00
+ - user: None
+ - tags: []
+
 ## Scosche Tech Accessories | #1 Mount Brand in US & Canada
  - [https://www.scosche.com](https://www.scosche.com)
  - date published: 2024-02-08T16:27:30.475871+00:00
@@ -2648,7 +2816,7 @@
  - [https://www.searchenginejournal.com](https://www.searchenginejournal.com)
  - date published: 2023-10-25T09:35:20.638084+00:00
  - user: None
- - tags: ['seo']
+ - tags: ['seo', 'search engines']
 
 ## Search Engine Land - News, Search Engine Optimization (SEO), Pay-Per-Click (PPC)
  - [https://searchengineland.com](https://searchengineland.com)
@@ -3479,14 +3647,14 @@
  - tags: []
 
 ## Home
- - [https://www.shawnewallace.com](https://www.shawnewallace.com)
- - date published: 2024-01-04T08:11:38.097898+00:00
+ - [http://www.shawnewallace.com](http://www.shawnewallace.com)
+ - date published: 2024-02-26T12:56:59.057504+00:00
  - user: None
  - tags: []
 
 ## Home
- - [http://www.shawnewallace.com](http://www.shawnewallace.com)
- - date published: 2024-02-26T12:56:59.057504+00:00
+ - [https://www.shawnewallace.com](https://www.shawnewallace.com)
+ - date published: 2024-01-04T08:11:38.097898+00:00
  - user: None
  - tags: []
 
@@ -3653,14 +3821,14 @@
  - tags: []
 
 ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
- - [http://shorer.com](http://shorer.com)
- - date published: 2024-04-03T06:29:33.681658+00:00
+ - [https://shorer.com](https://shorer.com)
+ - date published: 2023-11-29T14:25:19.463201+00:00
  - user: None
  - tags: ['personal']
 
 ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
- - [https://shorer.com](https://shorer.com)
- - date published: 2023-11-29T14:25:19.463201+00:00
+ - [http://shorer.com](http://shorer.com)
+ - date published: 2024-04-03T06:29:33.681658+00:00
  - user: None
  - tags: ['personal']
 
@@ -3790,17 +3958,17 @@
  - user: None
  - tags: ['personal']
 
-## None
- - [http://siddhantpyasi.com](http://siddhantpyasi.com)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
 ## https://siddhantpyasi.com
  - [https://siddhantpyasi.com](https://siddhantpyasi.com)
  - date published: 2024-01-08T07:27:25.364006+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [http://siddhantpyasi.com](http://siddhantpyasi.com)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Cash Prices for Medical Procedures | Sidecar Health Care Calculator
  - [https://cost.sidecarhealth.com](https://cost.sidecarhealth.com)
@@ -4649,15 +4817,15 @@
  - user: None
  - tags: ['smart home']
 
-## Smashing Magazine — For Web Designers And Developers
- - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
- - date published: 2023-10-25T17:07:11.338092+00:00
- - user: None
- - tags: []
-
 ## Smashing Magazine ‚Äî For Web Designers And Developers
  - [http://www.smashingmagazine.com](http://www.smashingmagazine.com)
  - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Smashing Magazine — For Web Designers And Developers
+ - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
+ - date published: 2023-10-25T17:07:11.338092+00:00
  - user: None
  - tags: []
 
@@ -5838,172 +6006,4 @@
  - date published: 2024-02-15T22:14:12.221633+00:00
  - user: None
  - tags: ['demoscene']
-
-## SpriteLayer Video Game Radio
- - [https://www.spritelayerradio.com](https://www.spritelayerradio.com)
- - date published: 2024-02-15T22:31:43.329681+00:00
- - user: None
- - tags: ['demoscene']
-
-## The Spriters Resource
- - [https://www.spriters-resource.com](https://www.spriters-resource.com)
- - date published: 2023-10-25T11:35:11.849563+00:00
- - user: None
- - tags: ['assets sprites']
-
-## Sprites mods - Welcome - Welcome!
- - [https://spritesmods.com](https://spritesmods.com)
- - date published: 2023-10-25T17:11:19.992109+00:00
- - user: None
- - tags: []
-
-## spurredgirl
- - [https://spurredgirl.com](https://spurredgirl.com)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## SPY – Men's Style, Health, Grooming, Tech, Sports
- - [https://spy.com](https://spy.com)
- - date published: 2023-10-25T17:11:25.023835+00:00
- - user: None
- - tags: []
-
-## Beepy by SQFMI x Beeper | Beepy
- - [https://beepberry.sqfmi.com](https://beepberry.sqfmi.com)
- - date published: 2024-01-09T02:49:24.589380+00:00
- - user: None
- - tags: []
-
-## SQLforDevs.com - Database Tips & Tricks
- - [https://sqlfordevs.com](https://sqlfordevs.com)
- - date published: 2023-10-25T17:11:28.657539+00:00
- - user: None
- - tags: []
-
-## Show HN: SQL Workbench in the Browser
- - [https://sql-workbench.com](https://sql-workbench.com)
- - date published: 2024-02-28T13:44:57+00:00
- - user: None
- - tags: []
-
-## Solar Car City Car for daily Urban Mobility
- - [https://www.squadmobility.com](https://www.squadmobility.com)
- - date published: 2023-10-25T17:11:30.184077+00:00
- - user: None
- - tags: []
-
-## Squarespace / Engineering
- - [https://engineering.squarespace.com](https://engineering.squarespace.com)
- - date published: 2023-10-25T17:11:31.582819+00:00
- - user: None
- - tags: []
-
-## The Official Squarespace Newsroom
- - [https://newsroom.squarespace.com](https://newsroom.squarespace.com)
- - date published: 2023-10-25T17:11:33.322378+00:00
- - user: None
- - tags: []
-
-## AMIGA
- - [https://olive-dove-amhz.squarespace.com](https://olive-dove-amhz.squarespace.com)
- - date published: 2023-12-11T18:34:11.976151+00:00
- - user: None
- - tags: []
-
-## Website Builder — Create a Website in Minutes — Squarespace
- - [https://squarespace.com](https://squarespace.com)
- - date published: 2024-03-11T00:00:00+00:00
- - user: None
- - tags: ['online tool', 'website builder']
-
-## 404 Not Found
- - [https://static1.squarespace.com](https://static1.squarespace.com)
- - date published: 2024-01-09T02:49:25.627185+00:00
- - user: None
- - tags: []
-
-## Samuel Vilz
- - [https://vilzgg.squarespace.com](https://vilzgg.squarespace.com)
- - date published: 2024-04-10T22:55:34.787556+00:00
- - user: None
- - tags: ['personal']
-
-## Website Builder — Create a Website in Minutes — Squarespace
- - [https://www.squarespace.com](https://www.squarespace.com)
- - date published: 2023-10-25T08:24:15.197115+00:00
- - user: None
- - tags: []
-
-## https://images.squarespace-cdn.com
- - [https://images.squarespace-cdn.com](https://images.squarespace-cdn.com)
- - date published: 2023-12-11T18:34:20.574903+00:00
- - user: None
- - tags: []
-
-## Power your entire business | Square
- - [https://squareup.com](https://squareup.com)
- - date published: 2023-10-25T17:11:36.693918+00:00
- - user: None
- - tags: []
-
-## Squidgeefish
- - [https://squidgeefish.com](https://squidgeefish.com)
- - date published: 2023-10-25T17:11:37.299993+00:00
- - user: None
- - tags: []
-
-## AGE OF SQUIDMAR
- - [https://www.squidmar.com](https://www.squidmar.com)
- - date published: 2023-10-25T11:11:44.653780+00:00
- - user: None
- - tags: ['youtuber']
-
-## Фотографии, биография звезд, моделей и просто красивых девушек!
- - [https://sqwera.com](https://sqwera.com)
- - date published: 2023-10-25T17:11:38.934790+00:00
- - user: None
- - tags: []
-
-## SR1 HD Remaster
- - [https://www.sr1hdremaster.com](https://www.sr1hdremaster.com)
- - date published: 2024-04-07T18:40:54+00:00
- - user: rumpel
- - tags: ['legacy of kain', 'soul reaver']
-
-## Source & Binary
- - [https://src-bin.com](https://src-bin.com)
- - date published: 2023-10-25T17:11:39.487909+00:00
- - user: None
- - tags: []
-
-## srgower dot com
- - [https://srgower.com](https://srgower.com)
- - date published: 2024-04-03T12:42:37.599563+00:00
- - user: None
- - tags: ['personal']
-
-## SRI International - American Nonprofit Research Institute
- - [https://www.sri.com](https://www.sri.com)
- - date published: 2023-10-25T17:11:43.284336+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.srilankan.com](https://www.srilankan.com)
- - date published: 2024-04-02T14:31:13+00:00
- - user: rumpel
- - tags: ['airline']
-
-## Sriram P H | Product Designer
- - [https://sriramph.com](https://sriramph.com)
- - date published: 2023-11-29T14:23:04.280934+00:00
- - user: None
- - tags: ['personal']
-
-## SRP | Arizona electric power and water utility company
- - [https://www.srpnet.com](https://www.srpnet.com)
- - date published: 2024-04-02T18:06:55.217701+00:00
- - user: None
- - tags: []
 
