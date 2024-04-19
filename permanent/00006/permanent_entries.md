@@ -1,3 +1,93 @@
+## Fight © Trolls
+ - [https://fightcopyrighttrolls.com](https://fightcopyrighttrolls.com)
+ - date published: 2024-01-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Figma: The Collaborative Interface Design Tool
+ - [https://figma.com](https://figma.com)
+ - date published: 2023-10-25T14:30:07.343705+00:00
+ - user: None
+ - tags: []
+
+## Figma Community Forum
+ - [https://forum.figma.com](https://forum.figma.com)
+ - date published: 2024-03-06T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
+## Figma: The Collaborative Interface Design Tool
+ - [https://www.figma.com](https://www.figma.com)
+ - date published: 2023-10-25T14:30:12.788670+00:00
+ - user: None
+ - tags: []
+
+## Filament - Accelerated Laravel development framework: admin panel, form builder, table builder and more
+ - [https://filamentphp.com](https://filamentphp.com)
+ - date published: 2023-10-25T14:30:20.221791+00:00
+ - user: None
+ - tags: []
+
+## File 770 - Mike Glyer's news of science fiction fandom
+ - [https://file770.com](https://file770.com)
+ - date published: 2023-10-25T14:30:32.720358+00:00
+ - user: None
+ - tags: []
+
+## File Format Docs
+ - [https://docs.fileformat.com](https://docs.fileformat.com)
+ - date published: 2017-02-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['file formats']
+
+## An Open-source File Format API Guide For Developers
+ - [https://fileformat.com](https://fileformat.com)
+ - date published: 2024-04-05T13:57:47+00:00
+ - user: rumpel
+ - tags: ['open source', 'file formats']
+
+## FileInfo.com - The File Format Database
+ - [https://fileinfo.com](https://fileinfo.com)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: rumpel
+ - tags: ['file formats']
+
+## FileRun - Selfhosted File Sync and Share - Just like Drive or Box, but private and under your control.
+ - [https://filerun.com](https://filerun.com)
+ - date published: 2024-04-08T19:28:21.224942+00:00
+ - user: None
+ - tags: ['self-host', 'file sharing']
+
+## Fill & Flush - A Better Way to De-Plane
+ - [https://www.fillandflush.com](https://www.fillandflush.com)
+ - date published: 2023-10-25T14:30:36.229686+00:00
+ - user: None
+ - tags: []
+
+## Colossus - Your Guide to Movies
+ - [https://filmcolossus.com](https://filmcolossus.com)
+ - date published: 2023-10-25T14:30:39.555722+00:00
+ - user: None
+ - tags: []
+
+## Film-Tech
+ - [http://www.film-tech.com](http://www.film-tech.com)
+ - date published: 2024-01-23T19:06:20.308842+00:00
+ - user: None
+ - tags: []
+
+## Filson | American Heritage Outerwear, Clothing, Bags & More
+ - [https://www.filson.com](https://www.filson.com)
+ - date published: 2023-10-25T14:30:48.727661+00:00
+ - user: None
+ - tags: []
+
+## Home | Financial Post Home Page | Financial Post
+ - [https://financialpost.com](https://financialpost.com)
+ - date published: 2023-10-25T14:31:03.740854+00:00
+ - user: None
+ - tags: []
+
 ## Finbold - Live Finance News, Crypto News, Stock News
  - [https://finbold.com](https://finbold.com)
  - date published: 2023-10-25T14:31:17.613846+00:00
@@ -179,16 +269,16 @@
  - tags: []
 
 ## Nick Fitzgerald
- - [https://fitzgeraldnick.com](https://fitzgeraldnick.com)
- - date published: 2023-10-25T09:20:31.002593+00:00
- - user: None
- - tags: ['personal']
-
-## Nick Fitzgerald
  - [http://fitzgeraldnick.com](http://fitzgeraldnick.com)
  - date published: 2024-02-06T00:00:00+00:00
  - user: None
  - tags: []
+
+## Nick Fitzgerald
+ - [https://fitzgeraldnick.com](https://fitzgeraldnick.com)
+ - date published: 2023-10-25T09:20:31.002593+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Five Books - The Best Books Recommended by Experts
  - [https://fivebooks.com](https://fivebooks.com)
@@ -617,16 +707,16 @@
  - tags: ['scarlett', 'audio equipment']
 
 ## - Justin Foeppel
- - [https://foeppel.com](https://foeppel.com)
- - date published: 2024-01-02T18:30:14.463579+00:00
- - user: None
- - tags: ['personal']
-
-## - Justin Foeppel
  - [http://foeppel.com](http://foeppel.com)
  - date published: 2024-04-03T00:00:00+00:00
  - user: None
  - tags: []
+
+## - Justin Foeppel
+ - [https://foeppel.com](https://foeppel.com)
+ - date published: 2024-01-02T18:30:14.463579+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Fogknife
  - [https://fogknife.com](https://fogknife.com)
@@ -767,14 +857,14 @@
  - tags: []
 
 ## None
- - [https://forbiddenplanet.com](https://forbiddenplanet.com)
- - date published: 2024-02-25T20:19:58.237177+00:00
+ - [http://forbiddenplanet.com](http://forbiddenplanet.com)
+ - date published: 2024-02-25T20:20:06.293093+00:00
  - user: None
  - tags: []
 
 ## None
- - [http://forbiddenplanet.com](http://forbiddenplanet.com)
- - date published: 2024-02-25T20:20:06.293093+00:00
+ - [https://forbiddenplanet.com](https://forbiddenplanet.com)
+ - date published: 2024-02-25T20:19:58.237177+00:00
  - user: None
  - tags: []
 
@@ -1220,7 +1310,7 @@
  - [http://www.foxtrot.com](http://www.foxtrot.com)
  - date published: 2024-03-24T15:04:15.149741+00:00
  - user: None
- - tags: []
+ - tags: ['personal', 'comic strip']
 
 ## Home Page - FP Complete
  - [https://www.fpcomplete.com](https://www.fpcomplete.com)
@@ -2147,14 +2237,14 @@
  - tags: []
 
 ## Leaguepedia | League of Legends Esports Wiki
- - [https://lol.gamepedia.com](https://lol.gamepedia.com)
- - date published: 2023-11-02T10:40:59.813503+00:00
+ - [http://lol.gamepedia.com](http://lol.gamepedia.com)
+ - date published: 2024-03-04T03:54:23.281525+00:00
  - user: None
  - tags: []
 
 ## Leaguepedia | League of Legends Esports Wiki
- - [http://lol.gamepedia.com](http://lol.gamepedia.com)
- - date published: 2024-03-04T03:54:23.281525+00:00
+ - [https://lol.gamepedia.com](https://lol.gamepedia.com)
+ - date published: 2023-11-02T10:40:59.813503+00:00
  - user: None
  - tags: []
 
@@ -2524,6 +2614,12 @@
  - user: None
  - tags: ['personal']
 
+## GBox - GMS GBox
+ - [https://gboxlab.com](https://gboxlab.com)
+ - date published: 2024-01-31T00:00:00+00:00
+ - user: rumpel
+ - tags: ['apk', 'google services', 'mobile']
+
 ## GBurghoorn
  - [https://gburghoorn.com](https://gburghoorn.com)
  - date published: 2023-10-25T08:45:50.786825+00:00
@@ -2614,6 +2710,12 @@
  - date published: 2023-11-02T05:02:44.382001+00:00
  - user: None
  - tags: []
+
+## Geekbench 6 - Cross-Platform Benchmark
+ - [https://www.geekbench.com](https://www.geekbench.com)
+ - date published: 2024-04-18T11:13:29+00:00
+ - user: rumpel
+ - tags: ['pc benchmark']
 
 ## Geek Grind Coffee and Tea
  - [https://geekgrindcoffee.com](https://geekgrindcoffee.com)
@@ -3009,7 +3111,7 @@
  - [https://www.getic.com](https://www.getic.com)
  - date published: 2024-04-19T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['it company']
 
 ## Show HN: Inbox Zero – open-source email assistant
  - [https://www.getinboxzero.com](https://www.getinboxzero.com)
@@ -3240,15 +3342,15 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['personal']
 
-## Coming Soon
- - [https://gilles-snowcat.com](https://gilles-snowcat.com)
- - date published: 2024-01-09T00:12:02.177651+00:00
- - user: None
- - tags: ['personal']
-
 ## Gilles Snowcat - 雪猫ジル
  - [http://gilles-snowcat.com](http://gilles-snowcat.com)
  - date published: 2024-04-03T06:28:55.795515+00:00
+ - user: None
+ - tags: ['personal']
+
+## Coming Soon
+ - [https://gilles-snowcat.com](https://gilles-snowcat.com)
+ - date published: 2024-01-09T00:12:02.177651+00:00
  - user: None
  - tags: ['personal']
 
@@ -3283,16 +3385,16 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Gioel Gio – Creative action researcher
- - [https://gioelgio.com](https://gioelgio.com)
- - date published: 2024-01-15T08:33:12.975028+00:00
- - user: None
- - tags: ['personal']
-
-## Gioel Gio – Creative action researcher
  - [http://gioelgio.com](http://gioelgio.com)
  - date published: 2024-04-03T00:00:00+00:00
  - user: None
  - tags: []
+
+## Gioel Gio – Creative action researcher
+ - [https://gioelgio.com](https://gioelgio.com)
+ - date published: 2024-01-15T08:33:12.975028+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Hi, I’m Giorgio. | Giorgio Pretto - UX Designer
  - [https://www.giorgiopretto.com](https://www.giorgiopretto.com)
@@ -3528,17 +3630,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
-## The DevSecOps Platform | GitLab
- - [https://gitlab.com](https://gitlab.com)
- - date published: 2023-10-25T14:45:19.469977+00:00
- - user: None
- - tags: ['code repository']
-
 ## The DevSecOps Platform
  - [http://gitlab.com](http://gitlab.com)
  - date published: 2024-02-26T15:11:59.290515+00:00
  - user: None
  - tags: []
+
+## The DevSecOps Platform | GitLab
+ - [https://gitlab.com](https://gitlab.com)
+ - date published: 2023-10-25T14:45:19.469977+00:00
+ - user: None
+ - tags: ['code repository']
 
 ## GitLab System Status
  - [https://status.gitlab.com](https://status.gitlab.com)
@@ -3630,6 +3732,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Homepage
+ - [https://www.gl-inet.com](https://www.gl-inet.com)
+ - date published: 2024-04-18T10:50:04.950177+00:00
+ - user: None
+ - tags: []
+
 ## 404: Not Found
  - [https://pastes.glitchwrks.com](https://pastes.glitchwrks.com)
  - date published: 2024-01-09T02:37:34.189755+00:00
@@ -3670,7 +3778,7 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - [https://www.globalnerdy.com](https://www.globalnerdy.com)
  - date published: 2024-02-23T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Global Player | Radio, Podcasts, Playlists and Videos
  - [https://www.globalplayer.com](https://www.globalplayer.com)
@@ -5332,14 +5440,14 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## NSB Home page
- - [https://www.guppylake.com](https://www.guppylake.com)
- - date published: 2023-12-22T07:17:34.852159+00:00
+ - [http://www.guppylake.com](http://www.guppylake.com)
+ - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## NSB Home page
- - [http://www.guppylake.com](http://www.guppylake.com)
- - date published: 2023-01-01T00:00:00+00:00
+ - [https://www.guppylake.com](https://www.guppylake.com)
+ - date published: 2023-12-22T07:17:34.852159+00:00
  - user: None
  - tags: []
 
@@ -5644,16 +5752,16 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Hailley Griffis
- - [https://www.hailleygriffis.com](https://www.hailleygriffis.com)
- - date published: 2024-01-11T07:52:06.090610+00:00
- - user: None
- - tags: ['personal']
-
-## Hailley Griffis
  - [http://www.hailleygriffis.com](http://www.hailleygriffis.com)
  - date published: 2024-03-11T00:00:00+00:00
  - user: None
  - tags: []
+
+## Hailley Griffis
+ - [https://www.hailleygriffis.com](https://www.hailleygriffis.com)
+ - date published: 2024-01-11T07:52:06.090610+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Hai Robotics Homepage
  - [https://www.hairobotics.com](https://www.hairobotics.com)
@@ -5806,14 +5914,14 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
- - [http://www.hanselman.com](http://www.hanselman.com)
- - date published: 2024-03-07T00:00:00+00:00
+ - [https://www.hanselman.com](https://www.hanselman.com)
+ - date published: 2023-10-25T09:20:35.173651+00:00
  - user: None
  - tags: ['personal']
 
 ## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
- - [https://www.hanselman.com](https://www.hanselman.com)
- - date published: 2023-10-25T09:20:35.173651+00:00
+ - [http://www.hanselman.com](http://www.hanselman.com)
+ - date published: 2024-03-07T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
@@ -5892,114 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## HardwareTeams.com - The #1 job board and blog for electrical and computer engineers.
  - [https://hardwareteams.com](https://hardwareteams.com)
  - date published: 2024-02-25T20:37:58.224668+00:00
- - user: None
- - tags: []
-
-## https://hardwary.com
- - [https://hardwary.com](https://hardwary.com)
- - date published: 2024-01-09T02:37:53.571458+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.harlowair.com](https://www.harlowair.com)
- - date published: 2024-04-02T13:02:08+00:00
- - user: rumpel
- - tags: ['avionic', 'aerospace']
-
-## Harold Treen
- - [https://haroldtreen.com](https://haroldtreen.com)
- - date published: 2023-11-29T17:08:02.817144+00:00
- - user: None
- - tags: ['personal']
-
-## Cierpliwości...
- - [https://www.harpercollins.com](https://www.harpercollins.com)
- - date published: 2024-02-24T18:23:45.116255+00:00
- - user: None
- - tags: []
-
-## Harris Sliwoski LLP (Formerly Harris Bricken)
- - [https://harrisbricken.com](https://harrisbricken.com)
- - date published: 2023-10-25T14:56:11.880636+00:00
- - user: None
- - tags: []
-
-## Career Advice | Jobs | Employment
- - [https://www.harrisonbarnes.com](https://www.harrisonbarnes.com)
- - date published: 2024-02-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home · Harrison Broadbent
- - [https://harrisonbroadbent.com](https://harrisonbroadbent.com)
- - date published: 2023-12-29T20:11:33.212756+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://www.harrisvotes.com](https://www.harrisvotes.com)
- - date published: 2023-12-09T15:58:44.055385+00:00
- - user: None
- - tags: []
-
-## Harry Potter Fan Zone — J.K. Rowling Fan Site Award Winner
- - [https://www.harrypotterfanzone.com](https://www.harrypotterfanzone.com)
- - date published: 2023-10-25T14:09:22.101338+00:00
- - user: None
- - tags: []
-
-## Harry Taussig
- - [https://harrytaussig.com](https://harrytaussig.com)
- - date published: 2024-01-07T22:19:23.150875+00:00
- - user: None
- - tags: []
-
-## Home | Harshal Patil | Product Management Consultant and Entrepreneur
- - [https://www.harshal-patil.com](https://www.harshal-patil.com)
- - date published: 2023-10-25T14:56:18.986945+00:00
- - user: None
- - tags: []
-
-## Harshveen Kalsi.
- - [https://www.harshveenkalsi.com](https://www.harshveenkalsi.com)
- - date published: 2024-01-14T17:11:33.346647+00:00
- - user: None
- - tags: []
-
-## Hartley Brody's Adventure Blog
- - [https://adventures.hartleybrody.com](https://adventures.hartleybrody.com)
- - date published: 2024-03-24T15:07:28.348669+00:00
- - user: None
- - tags: ['personal']
-
-## The Hartmann Report | Thom Hartmann | Substack
- - [https://hartmannreport.com](https://hartmannreport.com)
- - date published: 2023-10-25T14:56:24.361036+00:00
- - user: None
- - tags: []
-
-## HartzellBaird.com
- - [https://www.hartzellbaird.com](https://www.hartzellbaird.com)
- - date published: 2024-04-03T12:42:32.179986+00:00
- - user: None
- - tags: ['personal']
-
-## Homepage | Harvard Magazine
- - [https://www.harvardmagazine.com](https://www.harvardmagazine.com)
- - date published: 2024-01-15T02:35:12.433989+00:00
- - user: None
- - tags: []
-
-## https://harvardpolitics.com
- - [https://harvardpolitics.com](https://harvardpolitics.com)
- - date published: 2023-10-25T14:56:25.725954+00:00
- - user: None
- - tags: []
-
-## HashiCorp Discuss
- - [https://discuss.hashicorp.com](https://discuss.hashicorp.com)
- - date published: 2023-10-25T14:56:28.325423+00:00
  - user: None
  - tags: []
 

@@ -1,20 +1,8 @@
-## renegat0x0 site
- - [http://localhost](http://localhost)
- - date published: 2024-04-11T08:15:04.319059+00:00
- - user: None
- - tags: []
-
 ## 1.1.1.1 — The free app that makes your Internet faster.
  - [http://1.1.1.1](http://1.1.1.1)
  - date published: 2024-04-11T02:30:03.805708+00:00
  - user: None
  - tags: ['dns resolver', 'cloudflare']
-
-## None
- - [https://194.242.2.2](https://194.242.2.2)
- - date published: 2024-04-17T20:21:21.847086+00:00
- - user: None
- - tags: []
 
 ## Kern Type
  - [https://type.method.ac](https://type.method.ac)
@@ -1072,6 +1060,12 @@
  - user: None
  - tags: []
 
+## Meta AI
+ - [https://www.meta.ai](https://www.meta.ai)
+ - date published: 2024-04-18T18:18:08+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## Blog - Metaphysic.ai
  - [https://blog.metaphysic.ai](https://blog.metaphysic.ai)
  - date published: 2023-11-28T13:23:04.184625+00:00
@@ -1331,13 +1325,13 @@
  - tags: []
 
 ## http://hello.pi.ai/
- - [http://hello.pi.ai](http://hello.pi.ai)
+ - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -1562,13 +1556,13 @@
  - [https://sonauto.ai](https://sonauto.ai)
  - date published: 2024-04-10T16:48:01+00:00
  - user: None
- - tags: []
+ - tags: ['generating music', 'artificial intelligence']
 
 ## Launch HN: Soundry AI (YC W24) – Music sample generator for music creators
  - [https://soundry.ai](https://soundry.ai)
  - date published: 2024-03-21T18:09:18+00:00
  - user: None
- - tags: []
+ - tags: ['generating music', 'artificial intelligence']
 
 ## Sourcery | Automatically Improve Code Quality
  - [https://sourcery.ai](https://sourcery.ai)
@@ -1767,6 +1761,12 @@
  - date published: 2023-10-25T11:44:45.723617+00:00
  - user: None
  - tags: []
+
+## Vapi
+ - [https://blog.vapi.ai](https://blog.vapi.ai)
+ - date published: 2024-04-18T20:32:41.201360+00:00
+ - user: None
+ - tags: ['artificial intelligence', 'voice assistant']
 
 ## VectorArt.ai - Unlimited AI Generated Vector Images
  - [https://vectorart.ai](https://vectorart.ai)
@@ -3358,6 +3358,12 @@
  - user: None
  - tags: ['personal']
 
+## Dave Bauer | Maker / Artist - Dave Bauer - Web Nerd/Maker/Artist
+ - [https://davebauer.art](https://davebauer.art)
+ - date published: 2024-04-18T13:58:34.979672+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Emilia Frias
  - [https://demilurii.art](https://demilurii.art)
  - date published: 2024-02-28T07:43:05.211230+00:00
@@ -3461,14 +3467,14 @@
  - tags: []
 
 ## César Ferradas
- - [http://ferrad.as](http://ferrad.as)
- - date published: 2024-04-03T06:23:10.101108+00:00
+ - [https://ferrad.as](https://ferrad.as)
+ - date published: 2024-02-09T00:13:34.119208+00:00
  - user: None
  - tags: ['personal']
 
 ## César Ferradas
- - [https://ferrad.as](https://ferrad.as)
- - date published: 2024-02-09T00:13:34.119208+00:00
+ - [http://ferrad.as](http://ferrad.as)
+ - date published: 2024-04-03T06:23:10.101108+00:00
  - user: None
  - tags: ['personal']
 
@@ -3749,16 +3755,16 @@
  - tags: []
 
 ## Now - Adam Ashton
- - [http://www.adamashton.com.au](http://www.adamashton.com.au)
- - date published: 2024-04-03T12:46:14.376541+00:00
- - user: None
- - tags: ['personal']
-
-## Now - Adam Ashton
  - [https://www.adamashton.com.au](https://www.adamashton.com.au)
  - date published: 2024-01-10T18:10:16.445630+00:00
  - user: None
  - tags: []
+
+## Now - Adam Ashton
+ - [http://www.adamashton.com.au](http://www.adamashton.com.au)
+ - date published: 2024-04-03T12:46:14.376541+00:00
+ - user: None
+ - tags: ['personal']
 
 ## 404 Not Found
  - [https://www.adelaidenow.com.au](https://www.adelaidenow.com.au)
@@ -4133,13 +4139,13 @@
  - tags: []
 
 ## About me - Write Approach Marketing
- - [http://writeapproach.com.au](http://writeapproach.com.au)
+ - [https://writeapproach.com.au](https://writeapproach.com.au)
  - date published: 2018-04-30T00:00:00+00:00
  - user: None
  - tags: []
 
 ## About me - Write Approach Marketing
- - [https://writeapproach.com.au](https://writeapproach.com.au)
+ - [http://writeapproach.com.au](http://writeapproach.com.au)
  - date published: 2018-04-30T00:00:00+00:00
  - user: None
  - tags: []
@@ -4643,16 +4649,16 @@
  - tags: []
 
 ## Denny Wong - Learn, think, write and do.
- - [http://dewo.be](http://dewo.be)
- - date published: 2018-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Denny Wong - Learn, think, write and do.
  - [https://dewo.be](https://dewo.be)
  - date published: 2023-11-29T14:18:04.127765+00:00
  - user: None
  - tags: ['personal']
+
+## Denny Wong - Learn, think, write and do.
+ - [http://dewo.be](http://dewo.be)
+ - date published: 2018-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Dries Depoorter – artist and speaker working with technology 🔥
  - [https://driesdepoorter.be](https://driesdepoorter.be)
@@ -4714,17 +4720,17 @@
  - user: None
  - tags: []
 
-## Liero - Official website
- - [https://www.liero.be](https://www.liero.be)
- - date published: 2023-10-26T18:32:21.331231+00:00
- - user: None
- - tags: ['open source', 'game', 'retro game']
-
 ## Original Sling'n'shoot Worms Game
  - [http://www.liero.be](http://www.liero.be)
  - date published: 2023-12-28T18:40:30+00:00
  - user: None
  - tags: []
+
+## Liero - Official website
+ - [https://www.liero.be](https://www.liero.be)
+ - date published: 2023-10-26T18:32:21.331231+00:00
+ - user: None
+ - tags: ['open source', 'game', 'retro game']
 
 ## Home
  - [https://www.mjvanhee.be](https://www.mjvanhee.be)
@@ -4781,16 +4787,16 @@
  - tags: []
 
 ## Home: New - Shakalaka
- - [http://shakalaka.be](http://shakalaka.be)
- - date published: 2023-12-22T22:29:41.716940+00:00
- - user: None
- - tags: ['personal']
-
-## Home: New - Shakalaka
  - [https://shakalaka.be](https://shakalaka.be)
  - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
+
+## Home: New - Shakalaka
+ - [http://shakalaka.be](http://shakalaka.be)
+ - date published: 2023-12-22T22:29:41.716940+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Steffest - web developer
  - [https://www.stef.be](https://www.stef.be)
@@ -5116,15 +5122,15 @@
  - user: None
  - tags: []
 
-## Brian Birtles’ Blog
- - [https://birtles.blog](https://birtles.blog)
- - date published: 2024-01-07T12:52:11.923527+00:00
- - user: None
- - tags: []
-
 ## Brian Birtles‚Äô Blog
  - [http://birtles.blog](http://birtles.blog)
  - date published: 2024-01-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Brian Birtles’ Blog
+ - [https://birtles.blog](https://birtles.blog)
+ - date published: 2024-01-07T12:52:11.923527+00:00
  - user: None
  - tags: []
 
@@ -5210,7 +5216,7 @@
  - [http://dagan.blog](http://dagan.blog)
  - date published: 2024-02-25T19:34:43.972971+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Dagan.Blog – Education Futurist
  - [https://dagan.blog](https://dagan.blog)
@@ -5990,12 +5996,6 @@
 ## Comunicar para Mudar
  - [https://comunicarparamudar.reporterbrasil.org.br](https://comunicarparamudar.reporterbrasil.org.br)
  - date published: 2024-01-09T02:27:01.376800+00:00
- - user: None
- - tags: []
-
-## Mapa da Água: O que sai da sua torneira?
- - [https://mapadaagua.reporterbrasil.org.br](https://mapadaagua.reporterbrasil.org.br)
- - date published: 2023-12-11T19:32:28.275445+00:00
  - user: None
  - tags: []
 

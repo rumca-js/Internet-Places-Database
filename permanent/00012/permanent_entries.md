@@ -1,3 +1,177 @@
+## Rich Keeble – Actor, voiceover artist, comedian, musician, man
+ - [http://www.richkeeble.com](http://www.richkeeble.com)
+ - date published: 2024-04-03T12:48:29.183856+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rich PalmerVoice actor, narrator, storyteller, audio producer.
+ - [https://richpalmer.com](https://richpalmer.com)
+ - date published: 2024-01-09T02:47:56.721503+00:00
+ - user: None
+ - tags: []
+
+## Rich Tabor - Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress.
+ - [https://richtabor.com](https://richtabor.com)
+ - date published: 2023-12-19T09:59:46.789011+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rick Carabba - Home of BrainBank
+ - [https://www.rickcarabba.com](https://www.rickcarabba.com)
+ - date published: 2024-01-15T13:59:06.069303+00:00
+ - user: None
+ - tags: []
+
+## The Blog of Rick Carlino
+ - [https://rickcarlino.com](https://rickcarlino.com)
+ - date published: 2024-01-15T22:21:01.483442+00:00
+ - user: None
+ - tags: []
+
+## rickconsole.com | 502: Bad gateway
+ - [https://rickconsole.com](https://rickconsole.com)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## rick@console:/
+ - [https://staging.rickconsole.com](https://staging.rickconsole.com)
+ - date published: 2023-10-25T16:51:19.430482+00:00
+ - user: None
+ - tags: []
+
+## Rick Umali's Home Page
+ - [https://rickumali.com](https://rickumali.com)
+ - date published: 2023-12-03T15:55:26.247597+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rick Umali's Home Page
+ - [http://rickumali.com](http://rickumali.com)
+ - date published: 2024-04-03T06:27:10.056290+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rick's Tech Talk | All Tech Talk, Most of the Time
+ - [http://tech.rickumali.com](http://tech.rickumali.com)
+ - date published: 2020-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Rico Sta. Cruz
+ - [https://ricostacruz.com](https://ricostacruz.com)
+ - date published: 2024-03-24T15:07:54.147066+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ricos y Libres
+ - [https://www.ricosylibres.com](https://www.ricosylibres.com)
+ - date published: 2024-01-09T08:54:05.454224+00:00
+ - user: None
+ - tags: []
+
+## Ric Stultz - 2023
+ - [http://ricstultz.com](http://ricstultz.com)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ride Report: The platform to manage mobility
+ - [https://www.ridereport.com](https://www.ridereport.com)
+ - date published: 2023-10-25T16:51:25.938785+00:00
+ - user: None
+ - tags: []
+
+## RIDGE - ESSENTIALS DESIGNED FOR EVERYDAY
+ - [https://www.ridge.com](https://www.ridge.com)
+ - date published: 2024-02-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Rifat Najmi | Visual Artist and Designer based in Jakarta
+ - [https://rifatnajmi.com](https://rifatnajmi.com)
+ - date published: 2024-01-13T22:53:38.949880+00:00
+ - user: None
+ - tags: []
+
+## RIFE2 Framework : Full-stack, no-declaration, framework to quickly and effortlessly create web applications with modern Java.
+ - [https://rife2.com](https://rife2.com)
+ - date published: 2023-10-25T16:51:26.581095+00:00
+ - user: None
+ - tags: []
+
+## Riffusion
+ - [https://www.riffusion.com](https://www.riffusion.com)
+ - date published: 2023-10-25T16:51:27.329208+00:00
+ - user: None
+ - tags: []
+
+## Ken Shirriff's blog
+ - [http://www.righto.com](http://www.righto.com)
+ - date published: 2024-02-25T00:44:48.796985+00:00
+ - user: None
+ - tags: []
+
+## Ken Shirriff's blog
+ - [https://www.righto.com](https://www.righto.com)
+ - date published: 2023-10-25T16:51:33.313104+00:00
+ - user: None
+ - tags: ['blog', 'personal']
+
+## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
+ - [https://www.rigzone.com](https://www.rigzone.com)
+ - date published: 2023-10-25T16:51:39.145136+00:00
+ - user: None
+ - tags: []
+
+## Rihanna - Rihanna
+ - [https://www.rihannanow.com](https://www.rihannanow.com)
+ - date published: 2023-11-13T10:35:34.882090+00:00
+ - user: None
+ - tags: ['music band']
+
+## Rihards Steinbergs
+ - [https://rihards.com](https://rihards.com)
+ - date published: 2024-01-12T10:32:04.930603+00:00
+ - user: None
+ - tags: []
+
+## Maui Artist Rik Fitch
+ - [https://rikfitch.com](https://rikfitch.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Rik Lewis
+ - [https://www.riklewis.com](https://www.riklewis.com)
+ - date published: 2024-02-26T12:42:08.808056+00:00
+ - user: None
+ - tags: []
+
+## Home | Riley Soloner
+ - [https://www.rileysoloner.com](https://www.rileysoloner.com)
+ - date published: 2024-02-09T00:20:48.880920+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://ui.rilldata.com
+ - [https://ui.rilldata.com](https://ui.rilldata.com)
+ - date published: 2024-01-09T02:48:01.435862+00:00
+ - user: None
+ - tags: []
+
+## Home - Rimac Automobili
+ - [https://www.rimac-automobili.com](https://www.rimac-automobili.com)
+ - date published: 2024-01-09T02:48:02.433622+00:00
+ - user: None
+ - tags: []
+
+## Latest News from Rimac – Rimac Newsroom
+ - [https://www.rimac-newsroom.com](https://www.rimac-newsroom.com)
+ - date published: 2023-10-25T16:51:41.401391+00:00
+ - user: None
+ - tags: []
+
 ## Rimenes Ribeiro
  - [https://rimenesribeiro.com](https://rimenesribeiro.com)
  - date published: 2023-12-30T22:23:58.013629+00:00
@@ -880,6 +1054,12 @@
  - user: None
  - tags: []
 
+## Home | ROSSMANN
+ - [https://www.rossmann.com](https://www.rossmann.com)
+ - date published: 2024-04-18T08:21:40+00:00
+ - user: rumpel
+ - tags: ['e-commerce', 'company']
+
 ## MacBook Repair Austin | (347) 552-2258 | Rossmann Repair Group
  - [https://www.rossmanngroup.com](https://www.rossmanngroup.com)
  - date published: 2023-11-03T10:37:01.928688+00:00
@@ -1268,7 +1448,7 @@
  - [https://www.ryanckulp.com](https://www.ryanckulp.com)
  - date published: 2024-01-30T14:46:23.121943+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Ryan Estrada: Artist, Author and Adventurer!
  - [https://www.ryanestrada.com](https://www.ryanestrada.com)
@@ -2546,7 +2726,7 @@
  - [https://scottmathson.com](https://scottmathson.com)
  - date published: 2024-01-11T07:53:22.649850+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Scott Santens' Universal Basic Income Guide
  - [https://www.scottsantens.com](https://www.scottsantens.com)
@@ -2793,6 +2973,12 @@
  - date published: 2023-10-25T17:00:49.391284+00:00
  - user: None
  - tags: []
+
+## Sean Moriarity
+ - [https://seanmoriarity.com](https://seanmoriarity.com)
+ - date published: 2024-04-18T06:24:10.611340+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Welcome - Sean P Twomey.com
  - [https://seanptwomey.com](https://seanptwomey.com)
@@ -3647,14 +3833,14 @@
  - tags: []
 
 ## Home
- - [http://www.shawnewallace.com](http://www.shawnewallace.com)
- - date published: 2024-02-26T12:56:59.057504+00:00
+ - [https://www.shawnewallace.com](https://www.shawnewallace.com)
+ - date published: 2024-01-04T08:11:38.097898+00:00
  - user: None
  - tags: []
 
 ## Home
- - [https://www.shawnewallace.com](https://www.shawnewallace.com)
- - date published: 2024-01-04T08:11:38.097898+00:00
+ - [http://www.shawnewallace.com](http://www.shawnewallace.com)
+ - date published: 2024-02-26T12:56:59.057504+00:00
  - user: None
  - tags: []
 
@@ -3821,14 +4007,14 @@
  - tags: []
 
 ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
- - [https://shorer.com](https://shorer.com)
- - date published: 2023-11-29T14:25:19.463201+00:00
+ - [http://shorer.com](http://shorer.com)
+ - date published: 2024-04-03T06:29:33.681658+00:00
  - user: None
  - tags: ['personal']
 
 ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
- - [http://shorer.com](http://shorer.com)
- - date published: 2024-04-03T06:29:33.681658+00:00
+ - [https://shorer.com](https://shorer.com)
+ - date published: 2023-11-29T14:25:19.463201+00:00
  - user: None
  - tags: ['personal']
 
@@ -3958,17 +4144,17 @@
  - user: None
  - tags: ['personal']
 
-## https://siddhantpyasi.com
- - [https://siddhantpyasi.com](https://siddhantpyasi.com)
- - date published: 2024-01-08T07:27:25.364006+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [http://siddhantpyasi.com](http://siddhantpyasi.com)
  - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## https://siddhantpyasi.com
+ - [https://siddhantpyasi.com](https://siddhantpyasi.com)
+ - date published: 2024-01-08T07:27:25.364006+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Cash Prices for Medical Procedures | Sidecar Health Care Calculator
  - [https://cost.sidecarhealth.com](https://cost.sidecarhealth.com)
@@ -4178,7 +4364,7 @@
  - [https://simonetomirotti.com](https://simonetomirotti.com)
  - date published: 2024-01-20T17:36:14.698625+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Simon Grimm
  - [https://www.simongrimm.com](https://www.simongrimm.com)
@@ -4288,6 +4474,12 @@
  - user: None
  - tags: []
 
+## Simpler Machines
+ - [https://www.simplermachines.com](https://www.simplermachines.com)
+ - date published: 2024-04-18T17:16:32.649694+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Simple Syllabus
  - [https://harvard.simplesyllabus.com](https://harvard.simplesyllabus.com)
  - date published: 2023-10-25T17:04:47.126115+00:00
@@ -4382,7 +4574,7 @@
  - [https://sirupsen.com](https://sirupsen.com)
  - date published: 2023-10-25T17:05:08.760756+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Sit Breathe Meditate
  - [https://sitbreathemeditate.com](https://sitbreathemeditate.com)
@@ -4670,7 +4862,7 @@
  - [http://www.slide20xx.com](http://www.slide20xx.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Show HN: SlideSynth
  - [https://slidesynth.com](https://slidesynth.com)
@@ -4817,27 +5009,27 @@
  - user: None
  - tags: ['smart home']
 
-## Smashing Magazine ‚Äî For Web Designers And Developers
- - [http://www.smashingmagazine.com](http://www.smashingmagazine.com)
- - date published: 2024-03-22T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Smashing Magazine — For Web Designers And Developers
  - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
  - date published: 2023-10-25T17:07:11.338092+00:00
  - user: None
  - tags: []
 
-## Saturday Morning Breakfast Cereal - Why
- - [https://smbc-comics.com](https://smbc-comics.com)
- - date published: 2024-04-09T00:00:00+00:00
+## Smashing Magazine ‚Äî For Web Designers And Developers
+ - [http://www.smashingmagazine.com](http://www.smashingmagazine.com)
+ - date published: 2024-03-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Saturday Morning Breakfast Cereal - Lesser
  - [http://smbc-comics.com](http://smbc-comics.com)
  - date published: 2024-04-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Saturday Morning Breakfast Cereal - Why
+ - [https://smbc-comics.com](https://smbc-comics.com)
+ - date published: 2024-04-09T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5812,198 +6004,4 @@
  - date published: 2024-01-05T10:37:07.949209+00:00
  - user: None
  - tags: []
-
-## spiked - humanity is underrated
- - [https://www.spiked-online.com](https://www.spiked-online.com)
- - date published: 2023-10-25T17:10:30.358271+00:00
- - user: None
- - tags: []
-
-## Spikey Bits
- - [https://spikeybits.com](https://spikeybits.com)
- - date published: 2024-01-21T18:33:27+00:00
- - user: rumpel
- - tags: ['warhammer', 'star wars', 'tabletop games', 'news']
-
-## SPIN - Music News, Album Reviews, Concert Photos, Videos and More
- - [https://www.spin.com](https://www.spin.com)
- - date published: 2023-11-13T12:42:43.730941+00:00
- - user: None
- - tags: ['music news']
-
-## Home
- - [https://www.spinebookstorecafe.com](https://www.spinebookstorecafe.com)
- - date published: 2023-12-04T13:08:28.054449+00:00
- - user: None
- - tags: []
-
-## Spinfuel Magazine
- - [https://spinfuel.com](https://spinfuel.com)
- - date published: 2023-10-25T17:10:35.537230+00:00
- - user: None
- - tags: []
-
-## Spinnin' Records | World's leading dance label and community.
- - [https://spinninrecords.com](https://spinninrecords.com)
- - date published: 2024-02-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sign in - Google Accounts
- - [https://www.spiritualabuseresources.com](https://www.spiritualabuseresources.com)
- - date published: 2024-02-24T18:04:55.792588+00:00
- - user: None
- - tags: []
-
-## Global maritime, shipping and offshore news - Splash 24/7
- - [https://splash247.com](https://splash247.com)
- - date published: 2024-01-04T12:43:29.828881+00:00
- - user: None
- - tags: []
-
-## Home - Splash Damage
- - [https://www.splashdamage.com](https://www.splashdamage.com)
- - date published: 2024-02-06T15:25:34.239432+00:00
- - user: None
- - tags: []
-
-## Royalty-Free Sounds, FX, Presets & More | Splice
- - [https://splice.com](https://splice.com)
- - date published: 2024-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['sample library', 'assets audio', 'royality free']
-
-## Splinter | The Truth Hurts
- - [https://splinternews.com](https://splinternews.com)
- - date published: 1970-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Splunk | The Key to Enterprise Resilience
- - [https://www.splunk.com](https://www.splunk.com)
- - date published: 2023-10-25T17:10:39.211445+00:00
- - user: None
- - tags: []
-
-## The Spokesman-Review | Local News, Business, Entertainment, Sports & Weather for Eastern Washington
- - [https://www.spokesman.com](https://www.spokesman.com)
- - date published: 2023-10-25T17:10:45.399309+00:00
- - user: None
- - tags: []
-
-## Spoon & Tamago | japanese art, design and culture
- - [https://www.spoon-tamago.com](https://www.spoon-tamago.com)
- - date published: 2023-10-25T17:10:53.324617+00:00
- - user: None
- - tags: []
-
-## Sportskeeda - Sports News, Live Scores, Gaming, Fantasy and Wrestling News
- - [https://www.sportskeeda.com](https://www.sportskeeda.com)
- - date published: 2023-10-25T17:11:10.338467+00:00
- - user: None
- - tags: []
-
-## Home - The Spotify Community
- - [https://community.spotify.com](https://community.spotify.com)
- - date published: 2023-10-25T17:11:13.595614+00:00
- - user: None
- - tags: []
-
-## Spotify — For the Record
- - [https://newsroom.spotify.com](https://newsroom.spotify.com)
- - date published: 2023-10-24T20:06:18.415946+00:00
- - user: None
- - tags: []
-
-## Spotify - Web Player: Music for everyone
- - [https://open.spotify.com](https://open.spotify.com)
- - date published: 2023-10-25T13:14:14.516318+00:00
- - user: None
- - tags: ['audio streaming']
-
-## Spotify - Web Player: Music for everyone
- - [https://play.spotify.com](https://play.spotify.com)
- - date published: 2023-12-11T17:54:34.969815+00:00
- - user: None
- - tags: []
-
-## Spotify for Podcasters
- - [https://podcasters.spotify.com](https://podcasters.spotify.com)
- - date published: 2023-12-11T16:55:59.488790+00:00
- - user: None
- - tags: []
-
-## Spotify - Web Player: Music for everyone
- - [https://www.spotify.com](https://www.spotify.com)
- - date published: 2023-10-24T20:06:19.517755+00:00
- - user: None
- - tags: ['audio streaming']
-
-## Spotlight: Sentry for Development
- - [https://spotlightjs.com](https://spotlightjs.com)
- - date published: 2023-12-06T17:03:27+00:00
- - user: None
- - tags: []
-
-## Pet Insurance Plans For Dogs & Cats - Top Ranked Pet Insurance Plans | Spot®
- - [https://spotpetins.com](https://spotpetins.com)
- - date published: 2024-02-23T17:46:50.090667+00:00
- - user: None
- - tags: []
-
-## Spot | Virtual office for teams
- - [https://www.spotvirtual.com](https://www.spotvirtual.com)
- - date published: 2023-10-25T17:11:14.472863+00:00
- - user: None
- - tags: []
-
-## The Sprawl | In-depth Calgary journalism.
- - [https://www.sprawlcalgary.com](https://www.sprawlcalgary.com)
- - date published: 2024-03-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Spread Privacy
- - [https://spreadprivacy.com](https://spreadprivacy.com)
- - date published: 2023-10-25T17:11:16.811041+00:00
- - user: None
- - tags: ['duckduckgo']
-
-## Listen to the Best Podcasts, For Free - Spreaker
- - [https://www.spreaker.com](https://www.spreaker.com)
- - date published: 2024-02-14T15:18:11+00:00
- - user: rumpel
- - tags: ['podcasts']
-
-## Home | SpringerLink
- - [https://link.springer.com](https://link.springer.com)
- - date published: 2023-10-25T17:11:18.919117+00:00
- - user: None
- - tags: []
-
-## Springer - International Publisher Science, Technology, Medicine |
-      
-      Springer — International Publisher
- - [https://www.springer.com](https://www.springer.com)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## International Journal of Educational Technology in Higher Education
- - [https://educationaltechnologyjournal.springeropen.com](https://educationaltechnologyjournal.springeropen.com)
- - date published: 2024-03-25T11:10:44.882870+00:00
- - user: None
- - tags: []
-
-## None
- - [https://sprcdn-assets.sprinklr.com](https://sprcdn-assets.sprinklr.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## SpriteLayer Video Game Radio
- - [https://spritelayerradio.com](https://spritelayerradio.com)
- - date published: 2024-02-15T22:14:12.221633+00:00
- - user: None
- - tags: ['demoscene']
 

@@ -1,3 +1,69 @@
+## https://charliejackson.com
+ - [https://charliejackson.com](https://charliejackson.com)
+ - date published: 2024-01-29T09:25:17.461411+00:00
+ - user: None
+ - tags: []
+
+## https://charliepecoraro.com
+ - [https://charliepecoraro.com](https://charliepecoraro.com)
+ - date published: 2024-01-12T22:14:30.496627+00:00
+ - user: None
+ - tags: ['personal']
+
+## Charlotte Eiffel Lilith Buff | Official Homepage
+ - [https://charlottebuff.com](https://charlottebuff.com)
+ - date published: 2023-10-25T13:20:31.888241+00:00
+ - user: None
+ - tags: []
+
+## Charlotte Breaking News, Sports & Crime |  Charlotte Observer
+ - [https://www.charlotteobserver.com](https://www.charlotteobserver.com)
+ - date published: 2023-12-28T13:51:54.119648+00:00
+ - user: None
+ - tags: []
+
+## Charlotte Rogg
+ - [https://www.charlotterogg.com](https://www.charlotterogg.com)
+ - date published: 2023-11-29T14:22:50.814357+00:00
+ - user: None
+ - tags: ['personal']
+
+## Charlotte's Web™ CBD Oil, CBD Gummies and Cream Official Site
+ - [https://www.charlottesweb.com](https://www.charlottesweb.com)
+ - date published: 2024-04-05T18:56:35.990630+00:00
+ - user: None
+ - tags: []
+
+## Charmaine Lee
+ - [https://www.charmaineklee.com](https://www.charmaineklee.com)
+ - date published: 2023-10-25T09:19:42.820729+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Charming Science
+ - [https://charmingscience.com](https://charmingscience.com)
+ - date published: 2023-10-25T13:20:36.046950+00:00
+ - user: None
+ - tags: []
+
+## Credit Card, Mortgage, Banking, Auto | Chase Online | Chase.com
+ - [https://www.chase.com](https://www.chase.com)
+ - date published: 2023-10-25T13:20:38.268897+00:00
+ - user: None
+ - tags: []
+
+## Chase λ
+ - [https://blog.chaselambda.com](https://blog.chaselambda.com)
+ - date published: 2023-10-25T13:20:40.077289+00:00
+ - user: None
+ - tags: []
+
+## i: a man named chase
+ - [https://chasewildly.com](https://chasewildly.com)
+ - date published: 2023-11-29T17:06:09.031824+00:00
+ - user: None
+ - tags: ['personal']
+
 ## ChatBA: Generative AI for Slides ✨
  - [https://www.chatbcg.com](https://www.chatbcg.com)
  - date published: 2023-10-25T13:20:40.648474+00:00
@@ -376,17 +442,17 @@
  - user: None
  - tags: []
 
-## http://chrisjstott.com
- - [https://chrisjstott.com](https://chrisjstott.com)
- - date published: 2024-01-24T08:01:05.864817+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [http://chrisjstott.com](http://chrisjstott.com)
  - date published: 2024-02-29T14:58:49.595292+00:00
  - user: None
  - tags: []
+
+## http://chrisjstott.com
+ - [https://chrisjstott.com](https://chrisjstott.com)
+ - date published: 2024-01-24T08:01:05.864817+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -581,14 +647,14 @@
  - tags: ['personal']
 
 ## Christoph Gruber
- - [https://www.christophgruber.com](https://www.christophgruber.com)
- - date published: 2024-01-17T04:43:22.299793+00:00
+ - [http://www.christophgruber.com](http://www.christophgruber.com)
+ - date published: 2024-04-03T06:25:56.066461+00:00
  - user: None
  - tags: ['personal']
 
 ## Christoph Gruber
- - [http://www.christophgruber.com](http://www.christophgruber.com)
- - date published: 2024-04-03T06:25:56.066461+00:00
+ - [https://www.christophgruber.com](https://www.christophgruber.com)
+ - date published: 2024-01-17T04:43:22.299793+00:00
  - user: None
  - tags: ['personal']
 
@@ -974,7 +1040,7 @@
  - [https://clagnut.com](https://clagnut.com)
  - date published: 2023-10-25T13:25:19.677369+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Claim Depot - Claim Your Lawsuit Funds Today
  - [https://www.claimdepot.com](https://www.claimdepot.com)
@@ -1906,16 +1972,16 @@
  - tags: []
 
 ## Coffee For The Brain
- - [https://coffeeforthebrain.com](https://coffeeforthebrain.com)
- - date published: 2023-12-03T15:55:03.673637+00:00
- - user: None
- - tags: ['personal']
-
-## Coffee For The Brain
  - [http://coffeeforthebrain.com](http://coffeeforthebrain.com)
  - date published: 2024-03-26T00:00:00+00:00
  - user: None
  - tags: []
+
+## Coffee For The Brain
+ - [https://coffeeforthebrain.com](https://coffeeforthebrain.com)
+ - date published: 2023-12-03T15:55:03.673637+00:00
+ - user: None
+ - tags: ['personal']
 
 ## CogDogBlog – Alan Levine barks about and plays with stuff here
  - [https://cogdogblog.com](https://cogdogblog.com)
@@ -2391,15 +2457,15 @@
  - user: None
  - tags: []
 
-## IT news, careers, business technology, reviews | Computerworld
- - [https://www.computerworld.com](https://www.computerworld.com)
- - date published: 2023-10-25T09:32:24.152677+00:00
- - user: None
- - tags: []
-
 ## IT news, careers, business technology, reviews
  - [http://www.computerworld.com](http://www.computerworld.com)
  - date published: 2024-02-25T19:22:09.150165+00:00
+ - user: None
+ - tags: []
+
+## IT news, careers, business technology, reviews | Computerworld
+ - [https://www.computerworld.com](https://www.computerworld.com)
+ - date published: 2023-10-25T09:32:24.152677+00:00
  - user: None
  - tags: []
 
@@ -3081,15 +3147,15 @@
  - user: None
  - tags: []
 
-## None
- - [https://craigwickesser.com](https://craigwickesser.com)
- - date published: 2023-12-27T18:11:54.496669+00:00
- - user: None
- - tags: ['personal']
-
 ## craig wickesser
  - [http://craigwickesser.com](http://craigwickesser.com)
  - date published: 2024-04-03T06:23:00.035755+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://craigwickesser.com](https://craigwickesser.com)
+ - date published: 2023-12-27T18:11:54.496669+00:00
  - user: None
  - tags: ['personal']
 
@@ -3379,7 +3445,7 @@
  - [https://www.crucial.com](https://www.crucial.com)
  - date published: 2024-04-09T00:00:00+00:00
  - user: rumpel
- - tags: []
+ - tags: ['company', 'pc memory', 'hard drives']
 
 ## crul
  - [https://www.crul.com](https://www.crul.com)
@@ -4061,14 +4127,14 @@
  - tags: []
 
 ## The Daily Caller
- - [http://dailycaller.com](http://dailycaller.com)
- - date published: 2024-02-26T13:39:38.331957+00:00
+ - [https://dailycaller.com](https://dailycaller.com)
+ - date published: 2023-10-25T13:41:19.635856+00:00
  - user: None
  - tags: []
 
 ## The Daily Caller
- - [https://dailycaller.com](https://dailycaller.com)
- - date published: 2023-10-25T13:41:19.635856+00:00
+ - [http://dailycaller.com](http://dailycaller.com)
+ - date published: 2024-02-26T13:39:38.331957+00:00
  - user: None
  - tags: []
 
@@ -4564,15 +4630,15 @@
  - user: None
  - tags: ['personal']
 
-## Dan Palladino Music
- - [http://www.danpalladinomusic.com](http://www.danpalladinomusic.com)
- - date published: 2024-04-03T06:32:27.082972+00:00
- - user: None
- - tags: ['personal']
-
 ## https://www.danpalladinomusic.com
  - [https://www.danpalladinomusic.com](https://www.danpalladinomusic.com)
  - date published: 2024-01-04T03:32:32.543499+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dan Palladino Music
+ - [http://www.danpalladinomusic.com](http://www.danpalladinomusic.com)
+ - date published: 2024-04-03T06:32:27.082972+00:00
  - user: None
  - tags: ['personal']
 
@@ -5120,7 +5186,7 @@
  - [https://www.davidlamotte.com](https://www.davidlamotte.com)
  - date published: 2024-01-04T22:42:04.799905+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## David Nebinski
  - [https://www.davidnebinski.com](https://www.davidnebinski.com)
@@ -5408,7 +5474,7 @@
  - [https://www.debate-devil.com](https://www.debate-devil.com)
  - date published: 2024-01-09T02:34:11.195175+00:00
  - user: None
- - tags: []
+ - tags: ['artificial intelligence bot']
 
 ## All posts | Archy de Berker
  - [https://archy.deberker.com](https://archy.deberker.com)
@@ -5789,14 +5855,14 @@
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [http://democratherald.com](http://democratherald.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://democratherald.com](https://democratherald.com)
+ - date published: 2023-11-04T05:50:19.542658+00:00
  - user: None
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [https://democratherald.com](https://democratherald.com)
- - date published: 2023-11-04T05:50:19.542658+00:00
+ - [http://democratherald.com](http://democratherald.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5937,70 +6003,4 @@
  - date published: 2024-03-04T09:39:26.593720+00:00
  - user: None
  - tags: ['programming articles']
-
-## Vintage Computing
- - [https://deramp.com](https://deramp.com)
- - date published: 2024-01-01T18:26:34+00:00
- - user: None
- - tags: []
-
-## Derek Houck
- - [https://derekhouck.com](https://derekhouck.com)
- - date published: 2023-12-19T02:59:18.608346+00:00
- - user: None
- - tags: ['personal']
-
-## Derek Goodwin Photography | Headshot & Branding Photographer
- - [https://www.derekpashupagoodwin.com](https://www.derekpashupagoodwin.com)
- - date published: 2023-11-29T17:08:37.949199+00:00
- - user: None
- - tags: ['personal']
-
-## Derek Shirk / Design Leader
- - [https://derekshirk.com](https://derekshirk.com)
- - date published: 2024-01-10T19:22:30.953376+00:00
- - user: None
- - tags: []
-
-## Derek Yu's Home on the Web
- - [https://derekyu.com](https://derekyu.com)
- - date published: 2023-10-25T13:49:29.295325+00:00
- - user: None
- - tags: []
-
-## dergigi.com
- - [https://dergigi.com](https://dergigi.com)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dermatology Times and Multimedia Medical, LLC
- - [https://www.dermatologytimes.com](https://www.dermatologytimes.com)
- - date published: 2024-03-06T21:11:40.002363+00:00
- - user: None
- - tags: []
-
-## Deseret News
- - [https://www.deseret.com](https://www.deseret.com)
- - date published: 2023-10-25T13:49:44.338672+00:00
- - user: None
- - tags: ['utah news']
-
-## Home
- - [https://www.desertsun.com](https://www.desertsun.com)
- - date published: 2024-01-09T02:34:25.445218+00:00
- - user: None
- - tags: []
-
-## Desiderata - Desiderata Poem - Desiderata Prints
- - [https://www.desiderata.com](https://www.desiderata.com)
- - date published: 2023-10-25T13:49:58.782774+00:00
- - user: None
- - tags: []
-
-## designboom magazine | your first source for architecture, design & art news
- - [https://www.designboom.com](https://www.designboom.com)
- - date published: 2023-10-25T13:50:14.647949+00:00
- - user: None
- - tags: []
 

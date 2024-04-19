@@ -1,3 +1,51 @@
+## Ben's Bites
+ - [https://bensbites.beehiiv.com](https://bensbites.beehiiv.com)
+ - date published: 2023-10-25T12:55:28.977663+00:00
+ - user: None
+ - tags: []
+
+## But What For?
+ - [https://butwhatfor.beehiiv.com](https://butwhatfor.beehiiv.com)
+ - date published: 2023-10-25T12:55:34.496023+00:00
+ - user: None
+ - tags: []
+
+## Easily Amused
+ - [https://easilyamused.beehiiv.com](https://easilyamused.beehiiv.com)
+ - date published: 2023-10-25T12:55:37.997353+00:00
+ - user: None
+ - tags: []
+
+## FOSS Weekly
+ - [https://fossweekly.beehiiv.com](https://fossweekly.beehiiv.com)
+ - date published: 2023-10-25T12:55:43.086938+00:00
+ - user: None
+ - tags: []
+
+## Health Brief
+ - [https://healthbrief.beehiiv.com](https://healthbrief.beehiiv.com)
+ - date published: 2023-11-15T09:58:50.981130+00:00
+ - user: None
+ - tags: []
+
+## IdeaHub
+ - [https://ideahub.beehiiv.com](https://ideahub.beehiiv.com)
+ - date published: 2023-10-25T12:55:48.185995+00:00
+ - user: None
+ - tags: []
+
+## Ironic Sans
+ - [https://ironicsans.beehiiv.com](https://ironicsans.beehiiv.com)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## One Thing Better
+ - [https://jasonfeifer.beehiiv.com](https://jasonfeifer.beehiiv.com)
+ - date published: 2023-10-25T12:55:54.736691+00:00
+ - user: None
+ - tags: []
+
 ## LeanerCloud News
  - [https://leanercloud.beehiiv.com](https://leanercloud.beehiiv.com)
  - date published: 2023-10-25T12:56:04.212888+00:00
@@ -154,6 +202,12 @@
  - user: None
  - tags: ['personal']
 
+## Ben Dodson — Freelance App Developer for iPhone, iPad, Mac, Apple TV, and Apple Watch
+ - [https://bendodson.com](https://bendodson.com)
+ - date published: 2024-04-18T06:24:09.690101+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Benedict Evans
  - [https://www.ben-evans.com](https://www.ben-evans.com)
  - date published: 2023-12-12T08:35:22.223621+00:00
@@ -200,7 +254,7 @@
  - [http://benjaminrosshoffman.com](http://benjaminrosshoffman.com)
  - date published: 2023-10-25T12:57:15.976304+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Ben Joffe
  - [https://benjoffe.com](https://benjoffe.com)
@@ -275,16 +329,16 @@
  - tags: []
 
 ## Benjamin Wechsler: Change Agent | Executive Coach | Teacher | Strategist | Organizational & Leadership Development
- - [https://benwechsler.com](https://benwechsler.com)
- - date published: 2024-01-19T13:01:49.988029+00:00
- - user: None
- - tags: []
-
-## Benjamin Wechsler: Change Agent | Executive Coach | Teacher | Strategist | Organizational & Leadership Development
  - [http://benwechsler.com](http://benwechsler.com)
  - date published: 2024-04-03T06:28:00.961565+00:00
  - user: None
  - tags: ['personal']
+
+## Benjamin Wechsler: Change Agent | Executive Coach | Teacher | Strategist | Organizational & Leadership Development
+ - [https://benwechsler.com](https://benwechsler.com)
+ - date published: 2024-01-19T13:01:49.988029+00:00
+ - user: None
+ - tags: []
 
 ## blog.benwinding
  - [https://blog.benwinding.com](https://blog.benwinding.com)
@@ -590,7 +644,7 @@
  - [https://biggieblog.com](https://biggieblog.com)
  - date published: 2023-12-23T03:02:38.126818+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## The Biglaw Investor
  - [https://www.biglawinvestor.com](https://www.biglawinvestor.com)
@@ -1559,14 +1613,14 @@
  - tags: []
 
 ## ADD / XOR / ROL
- - [https://addxorrol.blogspot.com](https://addxorrol.blogspot.com)
- - date published: 2024-01-09T02:30:36.134136+00:00
+ - [http://addxorrol.blogspot.com](http://addxorrol.blogspot.com)
+ - date published: 2024-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
 ## ADD / XOR / ROL
- - [http://addxorrol.blogspot.com](http://addxorrol.blogspot.com)
- - date published: 2024-01-31T00:00:00+00:00
+ - [https://addxorrol.blogspot.com](https://addxorrol.blogspot.com)
+ - date published: 2024-01-09T02:30:36.134136+00:00
  - user: None
  - tags: []
 
@@ -1829,26 +1883,26 @@
  - tags: ['personal']
 
 ## Twin methods in OpenMx
- - [http://dbtemp.blogspot.com](http://dbtemp.blogspot.com)
- - date published: 2024-02-25T15:50:25.877373+00:00
- - user: None
- - tags: []
-
-## Twin methods in OpenMx
  - [https://dbtemp.blogspot.com](https://dbtemp.blogspot.com)
  - date published: 2023-11-19T21:54:21.568274+00:00
  - user: None
  - tags: []
 
-## BishopBlog
- - [https://deevybee.blogspot.com](https://deevybee.blogspot.com)
- - date published: 2023-11-19T21:54:20.334258+00:00
+## Twin methods in OpenMx
+ - [http://dbtemp.blogspot.com](http://dbtemp.blogspot.com)
+ - date published: 2024-02-25T15:50:25.877373+00:00
  - user: None
  - tags: []
 
 ## BishopBlog
  - [http://deevybee.blogspot.com](http://deevybee.blogspot.com)
  - date published: 2024-02-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## BishopBlog
+ - [https://deevybee.blogspot.com](https://deevybee.blogspot.com)
+ - date published: 2023-11-19T21:54:20.334258+00:00
  - user: None
  - tags: []
 
@@ -2033,16 +2087,16 @@
  - tags: []
 
 ## Information Processing
- - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Information Processing
  - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
  - date published: 2023-10-25T09:09:06.318517+00:00
  - user: None
  - tags: ['personal']
+
+## Information Processing
+ - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Development of the trilogy & IV
  - [https://insiderockstarnorth.blogspot.com](https://insiderockstarnorth.blogspot.com)
@@ -2078,7 +2132,7 @@
  - [http://jlouisramblings.blogspot.com](http://jlouisramblings.blogspot.com)
  - date published: 2024-02-20T19:40:51.773282+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## The Grumpy Economist
  - [https://johnhcochrane.blogspot.com](https://johnhcochrane.blogspot.com)
@@ -2099,14 +2153,14 @@
  - tags: []
 
 ## Kiwi Hellenist
- - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
+ - date published: 2023-11-28T20:46:36.488371+00:00
  - user: None
  - tags: []
 
 ## Kiwi Hellenist
- - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
- - date published: 2023-11-28T20:46:36.488371+00:00
+ - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2168,7 +2222,7 @@
  - [http://mathtourist.blogspot.com](http://mathtourist.blogspot.com)
  - date published: 2004-03-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## HellRideHellYeah
  - [https://mavoui.blogspot.com](https://mavoui.blogspot.com)
@@ -2417,14 +2471,14 @@
  - tags: ['personal']
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
- - date published: 2024-01-03T20:38:22.927557+00:00
+ - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
+ - date published: 2024-01-04T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
- - date published: 2024-01-04T00:00:00+00:00
+ - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
+ - date published: 2024-01-03T20:38:22.927557+00:00
  - user: None
  - tags: []
 
@@ -2597,14 +2651,14 @@
  - tags: []
 
 ## Eye of Hydra
- - [https://zenorogue.blogspot.com](https://zenorogue.blogspot.com)
- - date published: 2023-12-27T19:21:24.521478+00:00
+ - [http://zenorogue.blogspot.com](http://zenorogue.blogspot.com)
+ - date published: 2024-02-25T20:09:57.614507+00:00
  - user: None
  - tags: []
 
 ## Eye of Hydra
- - [http://zenorogue.blogspot.com](http://zenorogue.blogspot.com)
- - date published: 2024-02-25T20:09:57.614507+00:00
+ - [https://zenorogue.blogspot.com](https://zenorogue.blogspot.com)
+ - date published: 2023-12-27T19:21:24.521478+00:00
  - user: None
  - tags: []
 
@@ -2792,7 +2846,7 @@
  - [https://www.bmj.com](https://www.bmj.com)
  - date published: 2023-10-25T10:37:05.210940+00:00
  - user: None
- - tags: []
+ - tags: ['science journal']
 
 ## BMT Systems, Inc.
  - [https://bmt-systems.com](https://bmt-systems.com)
@@ -2882,7 +2936,7 @@
  - [https://www.bobbywlindsey.com](https://www.bobbywlindsey.com)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Bob Copeland's Web Page
  - [https://bobcopeland.com](https://bobcopeland.com)
@@ -2914,17 +2968,17 @@
  - user: None
  - tags: ['personal']
 
-## Bobzien.com – From the western edge of the Great Basin
- - [http://www.bobzien.com](http://www.bobzien.com)
- - date published: 2024-04-03T06:30:28.715784+00:00
- - user: None
- - tags: ['personal']
-
 ## Site not found · DreamHost
  - [https://www.bobzien.com](https://www.bobzien.com)
  - date published: 2024-01-15T13:59:16.442976+00:00
  - user: None
  - tags: []
+
+## Bobzien.com – From the western edge of the Great Basin
+ - [http://www.bobzien.com](http://www.bobzien.com)
+ - date published: 2024-04-03T06:30:28.715784+00:00
+ - user: None
+ - tags: ['personal']
 
 ## BodyLines.com™ :: Curves® breast enhancers | 100% Cashmere Scarves
  - [https://www.bodylines.com](https://www.bodylines.com)
@@ -2939,16 +2993,16 @@
  - tags: ['aviation', 'aerospace', 'avionics']
 
 ## Chris Aldrich | BoffoSocko
- - [http://boffosocko.com](http://boffosocko.com)
- - date published: 2024-02-26T14:52:14.236002+00:00
- - user: None
- - tags: []
-
-## Chris Aldrich | BoffoSocko
  - [https://boffosocko.com](https://boffosocko.com)
  - date published: 2024-01-02T00:00:00+00:00
  - user: None
  - tags: []
+
+## Chris Aldrich | BoffoSocko
+ - [http://boffosocko.com](http://boffosocko.com)
+ - date published: 2024-02-26T14:52:14.236002+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Chris Aldrich | BoffoSocko
  - [https://www.boffosocko.com](https://www.boffosocko.com)
@@ -3067,16 +3121,16 @@
  - tags: []
 
 ## Boodaism
- - [https://boodaism.com](https://boodaism.com)
- - date published: 2023-12-13T06:05:24.808329+00:00
- - user: None
- - tags: ['personal']
-
-## Boodaism
  - [http://boodaism.com](http://boodaism.com)
  - date published: 2024-01-24T00:00:00+00:00
  - user: None
  - tags: []
+
+## Boodaism
+ - [https://boodaism.com](https://boodaism.com)
+ - date published: 2023-12-13T06:05:24.808329+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Book reviews: Find the best new books
  - [https://www.bookbrowse.com](https://www.bookbrowse.com)
@@ -3228,6 +3282,12 @@
  - user: None
  - tags: []
 
+## Bored Panda
+ - [https://boredpanda.com](https://boredpanda.com)
+ - date published: 2024-04-18T10:08:17+00:00
+ - user: rumpel
+ - tags: ['memes', 'gossip']
+
 ## Bored Panda - The Only Magazine For Pandas
  - [https://www.boredpanda.com](https://www.boredpanda.com)
  - date published: 2023-10-25T13:08:32.094722+00:00
@@ -3307,16 +3367,16 @@
  - tags: []
 
 ## Home | Boston Dynamics
- - [http://www.bostondynamics.com](http://www.bostondynamics.com)
- - date published: 2024-03-28T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Home | Boston Dynamics
  - [https://www.bostondynamics.com](https://www.bostondynamics.com)
  - date published: 2024-03-28T00:00:00+00:00
  - user: rumpel
  - tags: ['robots', 'robotics']
+
+## Home | Boston Dynamics
+ - [http://www.bostondynamics.com](http://www.bostondynamics.com)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: rumpel
+ - tags: []
 
 ## The Boston Globe
  - [https://www.bostonglobe.com](https://www.bostonglobe.com)
@@ -3733,16 +3793,16 @@
  - tags: []
 
 ## Brian Kleiber - SEO Analyst & Content Marketing
- - [http://www.briankleiber.com](http://www.briankleiber.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Brian Kleiber - SEO Analyst & Content Marketing
  - [https://www.briankleiber.com](https://www.briankleiber.com)
  - date published: 2023-12-30T22:23:37.854421+00:00
  - user: None
  - tags: ['personal']
+
+## Brian Kleiber - SEO Analyst & Content Marketing
+ - [http://www.briankleiber.com](http://www.briankleiber.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## bkm
  - [https://www.briankm.com](https://www.briankm.com)
@@ -3871,16 +3931,16 @@
  - tags: []
 
 ## Bridget Gordon
- - [http://bridgetgordon.com](http://bridgetgordon.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Bridget Gordon
  - [https://bridgetgordon.com](https://bridgetgordon.com)
  - date published: 2024-01-09T08:54:11.942646+00:00
  - user: None
  - tags: ['personal']
+
+## Bridget Gordon
+ - [http://bridgetgordon.com](http://bridgetgordon.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Bridget Hunt
  - [https://bridgethunt.com](https://bridgethunt.com)
@@ -3983,6 +4043,12 @@
  - date published: 2024-02-08T16:35:50.021419+00:00
  - user: None
  - tags: []
+
+## BRITRISH.COM
+ - [https://britrish.com](https://britrish.com)
+ - date published: 2024-04-18T14:00:32.841750+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Britshas - Share Your Stories | Britshas
  - [https://britshas.com](https://britshas.com)
@@ -4375,14 +4441,14 @@
  - tags: []
 
 ## Business Owners Success Club
- - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
- - date published: 8211-01-01T00:00:00+00:00
+ - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
+ - date published: 2024-04-03T06:24:35.974117+00:00
  - user: None
  - tags: ['personal']
 
 ## Business Owners Success Club
- - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
- - date published: 2024-04-03T06:24:35.974117+00:00
+ - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
+ - date published: 8211-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
@@ -5551,14 +5617,14 @@
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [http://sports.cctv.com](http://sports.cctv.com)
- - date published: 2024-03-21T02:07:49.559014+00:00
+ - [https://sports.cctv.com](https://sports.cctv.com)
+ - date published: 2023-12-09T12:18:44.730556+00:00
  - user: None
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [https://sports.cctv.com](https://sports.cctv.com)
- - date published: 2023-12-09T12:18:44.730556+00:00
+ - [http://sports.cctv.com](http://sports.cctv.com)
+ - date published: 2024-03-21T02:07:49.559014+00:00
  - user: None
  - tags: []
 
@@ -5634,15 +5700,15 @@
  - user: None
  - tags: ['personal']
 
-## https://www.cell.com
- - [https://www.cell.com](https://www.cell.com)
- - date published: 2023-10-25T13:19:41.208125+00:00
- - user: None
- - tags: []
-
 ## Human fetal brain self-organizes into long-term expanding organoids
  - [www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue](www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue)
  - date published: 2024-01-10T19:20:45.384863+00:00
+ - user: None
+ - tags: []
+
+## https://www.cell.com
+ - [https://www.cell.com](https://www.cell.com)
+ - date published: 2023-10-25T13:19:41.208125+00:00
  - user: None
  - tags: []
 
@@ -5803,14 +5869,14 @@
  - tags: ['personal']
 
 ## Open Path by Chad Whitacre
- - [http://openpath.chadwhitacre.com](http://openpath.chadwhitacre.com)
- - date published: 2024-02-26T09:41:25.750324+00:00
+ - [https://openpath.chadwhitacre.com](https://openpath.chadwhitacre.com)
+ - date published: 2024-01-22T07:17:07.392204+00:00
  - user: None
  - tags: []
 
 ## Open Path by Chad Whitacre
- - [https://openpath.chadwhitacre.com](https://openpath.chadwhitacre.com)
- - date published: 2024-01-22T07:17:07.392204+00:00
+ - [http://openpath.chadwhitacre.com](http://openpath.chadwhitacre.com)
+ - date published: 2024-02-26T09:41:25.750324+00:00
  - user: None
  - tags: []
 
@@ -5937,72 +6003,6 @@
 ## Charlie Harrington
  - [https://charlieharrington.com](https://charlieharrington.com)
  - date published: 2023-10-25T09:19:41.271593+00:00
- - user: None
- - tags: ['personal']
-
-## https://charliejackson.com
- - [https://charliejackson.com](https://charliejackson.com)
- - date published: 2024-01-29T09:25:17.461411+00:00
- - user: None
- - tags: []
-
-## https://charliepecoraro.com
- - [https://charliepecoraro.com](https://charliepecoraro.com)
- - date published: 2024-01-12T22:14:30.496627+00:00
- - user: None
- - tags: ['personal']
-
-## Charlotte Eiffel Lilith Buff | Official Homepage
- - [https://charlottebuff.com](https://charlottebuff.com)
- - date published: 2023-10-25T13:20:31.888241+00:00
- - user: None
- - tags: []
-
-## Charlotte Breaking News, Sports & Crime |  Charlotte Observer
- - [https://www.charlotteobserver.com](https://www.charlotteobserver.com)
- - date published: 2023-12-28T13:51:54.119648+00:00
- - user: None
- - tags: []
-
-## Charlotte Rogg
- - [https://www.charlotterogg.com](https://www.charlotterogg.com)
- - date published: 2023-11-29T14:22:50.814357+00:00
- - user: None
- - tags: ['personal']
-
-## Charlotte's Web™ CBD Oil, CBD Gummies and Cream Official Site
- - [https://www.charlottesweb.com](https://www.charlottesweb.com)
- - date published: 2024-04-05T18:56:35.990630+00:00
- - user: None
- - tags: []
-
-## Charmaine Lee
- - [https://www.charmaineklee.com](https://www.charmaineklee.com)
- - date published: 2023-10-25T09:19:42.820729+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Charming Science
- - [https://charmingscience.com](https://charmingscience.com)
- - date published: 2023-10-25T13:20:36.046950+00:00
- - user: None
- - tags: []
-
-## Credit Card, Mortgage, Banking, Auto | Chase Online | Chase.com
- - [https://www.chase.com](https://www.chase.com)
- - date published: 2023-10-25T13:20:38.268897+00:00
- - user: None
- - tags: []
-
-## Chase λ
- - [https://blog.chaselambda.com](https://blog.chaselambda.com)
- - date published: 2023-10-25T13:20:40.077289+00:00
- - user: None
- - tags: []
-
-## i: a man named chase
- - [https://chasewildly.com](https://chasewildly.com)
- - date published: 2023-11-29T17:06:09.031824+00:00
  - user: None
  - tags: ['personal']
 

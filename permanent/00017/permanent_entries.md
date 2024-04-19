@@ -1,3 +1,225 @@
+## FAST
+ - [https://www.fast.design](https://www.fast.design)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## feedme.design
+ - [https://www.feedme.design](https://www.feedme.design)
+ - date published: 2023-12-24T10:58:53.703752+00:00
+ - user: None
+ - tags: []
+
+## femke.design / Femke van Schoonhoven
+ - [https://www.femke.design](https://www.femke.design)
+ - date published: 2023-10-25T09:21:33.094419+00:00
+ - user: None
+ - tags: ['personal']
+
+## UX Design Portfolio of Gary Bacon - Home
+ - [https://gary.design](https://gary.design)
+ - date published: 2024-01-12T02:34:44.601604+00:00
+ - user: None
+ - tags: []
+
+## UX Design Portfolio of Gary Bacon - Home
+ - [http://gary.design](http://gary.design)
+ - date published: 2023-12-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Growth.Design — Better Products, Better Growth.
+ - [https://growth.design](https://growth.design)
+ - date published: 2023-10-25T18:34:22.781659+00:00
+ - user: None
+ - tags: []
+
+## Julie Chabin
+ - [https://www.julie.design](https://www.julie.design)
+ - date published: 2023-10-25T09:21:34.151926+00:00
+ - user: None
+ - tags: ['personal']
+
+## A mechanical keyboard with programmable knobs and full color screen panel
+ - [https://knob.design](https://knob.design)
+ - date published: 2024-02-29T19:38:07+00:00
+ - user: None
+ - tags: []
+
+## mastodon.design
+ - [https://mastodon.design](https://mastodon.design)
+ - date published: 2023-12-11T16:19:14.967288+00:00
+ - user: None
+ - tags: []
+
+## Medium.design
+ - [https://medium.design](https://medium.design)
+ - date published: 2024-03-22T15:04:13.826927+00:00
+ - user: None
+ - tags: []
+
+## MESHLESS DESIGN
+ - [https://meshless.design](https://meshless.design)
+ - date published: 2024-03-07T19:36:39.228012+00:00
+ - user: None
+ - tags: []
+
+## Home - Fluent 2 Design System
+ - [https://fluent2.microsoft.design](https://fluent2.microsoft.design)
+ - date published: 2023-10-25T18:34:24.950370+00:00
+ - user: None
+ - tags: []
+
+## Miris Whispers
+ - [https://blog.miris.design](https://blog.miris.design)
+ - date published: 2023-10-25T18:34:31.450280+00:00
+ - user: None
+ - tags: []
+
+## Reconstrained Design
+ - [https://reconstrained.design](https://reconstrained.design)
+ - date published: 2023-12-11T16:18:13.316990+00:00
+ - user: None
+ - tags: []
+
+## @rolle / Full Stack Developer = Front-end developer, designer, sysadmin
+ - [https://rolle.design](https://rolle.design)
+ - date published: 2023-12-19T02:59:27.788104+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ron Bronson
+ - [https://www.ronbronson.design](https://www.ronbronson.design)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Slack Design
+ - [https://slack.design](https://slack.design)
+ - date published: 2023-11-02T16:39:18.847159+00:00
+ - user: None
+ - tags: []
+
+## Steve Polito is a full stack web developer in the Boston Area
+ - [https://stevepolito.design](https://stevepolito.design)
+ - date published: 2023-10-25T18:34:32.217038+00:00
+ - user: None
+ - tags: []
+
+## Wise Design
+ - [https://wise.design](https://wise.design)
+ - date published: 2023-10-25T18:34:32.784058+00:00
+ - user: None
+ - tags: []
+
+## 0x7D0
+ - [https://blog.0x7d0.dev](https://blog.0x7d0.dev)
+ - date published: 2023-10-25T18:34:34.220775+00:00
+ - user: None
+ - tags: []
+
+## 0x7f Inc.
+ - [https://0x7f.dev](https://0x7f.dev)
+ - date published: 2023-10-25T18:34:34.827334+00:00
+ - user: None
+ - tags: []
+
+## Eleventy is a simpler static site generator
+ - [https://www.11ty.dev](https://www.11ty.dev)
+ - date published: 2024-04-08T19:31:23.831073+00:00
+ - user: None
+ - tags: ['static website', 'self-host']
+
+## A world where people pay for software
+ - [https://1sub.dev](https://1sub.dev)
+ - date published: 2023-10-25T18:34:35.457611+00:00
+ - user: None
+ - tags: []
+
+## It works
+ - [https://blog.aawadia.dev](https://blog.aawadia.dev)
+ - date published: 2023-10-25T18:34:36.448442+00:00
+ - user: None
+ - tags: []
+
+## Aerolite Studios
+ - [https://aerolite.dev](https://aerolite.dev)
+ - date published: 2023-10-25T18:34:37.299684+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.ahart.dev](https://www.ahart.dev)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Aha Stack
+ - [https://ahastack.dev](https://ahastack.dev)
+ - date published: 2024-01-03T14:54:40+00:00
+ - user: None
+ - tags: []
+
+## Airplane | The developer platform for internal tools
+ - [https://www.airplane.dev](https://www.airplane.dev)
+ - date published: 2023-10-25T18:34:38.548749+00:00
+ - user: None
+ - tags: []
+
+## AksDev
+ - [https://www.akselmo.dev](https://www.akselmo.dev)
+ - date published: 2023-10-25T18:34:39.206217+00:00
+ - user: None
+ - tags: []
+
+## Alex Saveau | https://alexsaveau.dev
+ - [https://alexsaveau.dev](https://alexsaveau.dev)
+ - date published: 2023-10-25T18:34:44.776986+00:00
+ - user: None
+ - tags: []
+
+## Adrian Alic - Blogging about High-Performance Systems
+ - [https://alic.dev](https://alic.dev)
+ - date published: 2023-10-25T08:48:21.706613+00:00
+ - user: None
+ - tags: ['personal']
+
+## Alpine.js
+ - [https://alpinejs.dev](https://alpinejs.dev)
+ - date published: 2023-10-25T18:34:45.599743+00:00
+ - user: None
+ - tags: []
+
+## Technical blog by Alexander Ameye.
+ - [https://ameye.dev](https://ameye.dev)
+ - date published: 2023-10-25T18:34:46.760527+00:00
+ - user: None
+ - tags: []
+
+## Amoenus Dev
+ - [https://amoenus.dev](https://amoenus.dev)
+ - date published: 2023-12-07T17:36:20.416462+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://www.amolas.dev](https://www.amolas.dev)
+ - date published: 2024-01-09T02:56:39.751957+00:00
+ - user: None
+ - tags: []
+
+## Amr Diab - Web Developer
+ - [https://www.amrdiab.dev](https://www.amrdiab.dev)
+ - date published: 2023-12-29T18:59:56.823678+00:00
+ - user: None
+ - tags: ['personal']
+
+## Show HN: Anchor – developer-friendly private CAs for internal TLS
+ - [https://anchor.dev](https://anchor.dev)
+ - date published: 2023-11-01T14:17:14+00:00
+ - user: None
+ - tags: []
+
 ## Effortless Encryption
  - [https://blog.anchor.dev](https://blog.anchor.dev)
  - date published: 2023-11-01T14:43:17.307157+00:00
@@ -321,6 +543,12 @@
  - date published: 2023-10-25T08:48:22.451942+00:00
  - user: None
  - tags: ['personal']
+
+## Bencher - Continuous Benchmarking
+ - [https://bencher.dev](https://bencher.dev)
+ - date published: 2024-04-18T10:45:41.379356+00:00
+ - user: None
+ - tags: ['proprietary', 'benchmarks']
 
 ## Ben Greenberg | Developer Advocate
  - [https://www.bengreenberg.dev](https://www.bengreenberg.dev)
@@ -907,14 +1135,14 @@
  - tags: []
 
 ## endtimes.dev
- - [http://endtimes.dev](http://endtimes.dev)
- - date published: 2024-02-26T14:52:45.275010+00:00
+ - [https://endtimes.dev](https://endtimes.dev)
+ - date published: 2023-10-25T18:37:42.008452+00:00
  - user: None
  - tags: []
 
 ## endtimes.dev
- - [https://endtimes.dev](https://endtimes.dev)
- - date published: 2023-10-25T18:37:42.008452+00:00
+ - [http://endtimes.dev](http://endtimes.dev)
+ - date published: 2024-02-26T14:52:45.275010+00:00
  - user: None
  - tags: []
 
@@ -1228,7 +1456,7 @@
  - [https://steelrods.hashnode.dev](https://steelrods.hashnode.dev)
  - date published: 2023-11-12T13:46:14.283644+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Hathora
  - [https://blog.hathora.dev](https://blog.hathora.dev)
@@ -1357,14 +1585,14 @@
  - tags: ['personal']
 
 ## Jakob Serlier's Personal Site
- - [https://jakobs.dev](https://jakobs.dev)
- - date published: 2024-01-09T01:37:20.973191+00:00
+ - [http://jakobs.dev](http://jakobs.dev)
+ - date published: 2024-01-15T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Jakob Serlier's Personal Site
- - [http://jakobs.dev](http://jakobs.dev)
- - date published: 2024-01-15T00:00:00+00:00
+ - [https://jakobs.dev](https://jakobs.dev)
+ - date published: 2024-01-09T01:37:20.973191+00:00
  - user: None
  - tags: []
 
@@ -1476,15 +1704,15 @@
  - user: None
  - tags: []
 
-## the website of jyn
- - [http://jyn.dev](http://jyn.dev)
- - date published: 2024-01-16T00:00:00+00:00
- - user: None
- - tags: []
-
 ## The website of jyn
  - [https://jyn.dev](https://jyn.dev)
  - date published: 2023-10-25T18:38:50.121076+00:00
+ - user: None
+ - tags: []
+
+## the website of jyn
+ - [http://jyn.dev](http://jyn.dev)
+ - date published: 2024-01-16T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1876,7 +2104,7 @@
  - [https://mhdm.dev](https://mhdm.dev)
  - date published: 2023-10-25T18:39:43.340614+00:00
  - user: None
- - tags: []
+ - tags: ['personal', 'tech', 'microcontrollers']
 
 ## Micro | A Platform built for developers
  - [https://micro.dev](https://micro.dev)
@@ -2239,14 +2467,14 @@
  - tags: []
 
 ## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date published: 2023-01-31T00:00:00+00:00
+ - [http://passkeys.dev](http://passkeys.dev)
+ - date published: 2024-02-25T19:46:12.112766+00:00
  - user: None
  - tags: []
 
 ## Passkey Developer Resources
- - [http://passkeys.dev](http://passkeys.dev)
- - date published: 2024-02-25T19:46:12.112766+00:00
+ - [https://passkeys.dev](https://passkeys.dev)
+ - date published: 2023-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2781,14 +3009,14 @@
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5779,234 +6007,6 @@
 ## Home | Math
  - [https://web.math.princeton.edu](https://web.math.princeton.edu)
  - date published: 2023-10-25T18:56:57.474310+00:00
- - user: None
- - tags: []
-
-## Computer Science Department at Princeton University
- - [https://www.cs.princeton.edu](https://www.cs.princeton.edu)
- - date published: 2023-10-25T18:56:59.790460+00:00
- - user: None
- - tags: []
-
-## Home | Princeton University
- - [https://www.princeton.edu](https://www.princeton.edu)
- - date published: 2023-10-25T18:57:02.402538+00:00
- - user: None
- - tags: ['university']
-
-## CiteSeerX
- - [https://citeseerx.ist.psu.edu](https://citeseerx.ist.psu.edu)
- - date published: 2023-10-25T18:57:04.773829+00:00
- - user: None
- - tags: []
-
-## Sites at Penn State | Create websites easily with WordPress
- - [https://sites.psu.edu](https://sites.psu.edu)
- - date published: 2023-10-25T18:57:08.218702+00:00
- - user: None
- - tags: []
-
-## Penn State College of Earth and Mineral Sciences
- - [https://www.ems.psu.edu](https://www.ems.psu.edu)
- - date published: 2024-03-21T17:17:43.722779+00:00
- - user: None
- - tags: []
-
-## Penn State University
- - [https://www.psu.edu](https://www.psu.edu)
- - date published: 2023-11-01T07:44:07.480002+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://engineering.purdue.edu](https://engineering.purdue.edu)
- - date published: 2023-12-04T12:08:09.866347+00:00
- - user: None
- - tags: []
-
-## Purdue University
- - [https://www.purdue.edu](https://www.purdue.edu)
- - date published: 2023-11-06T05:55:24.051315+00:00
- - user: None
- - tags: []
-
-## Rice News | News and Media Relations | Rice University
- - [https://news.rice.edu](https://news.rice.edu)
- - date published: 2023-10-25T09:29:39.683713+00:00
- - user: None
- - tags: []
-
-## Rice
- - [https://rice.edu](https://rice.edu)
- - date published: 2023-10-27T13:02:00.219008+00:00
- - user: None
- - tags: ['university']
-
-## Rice University
- - [https://www.clear.rice.edu](https://www.clear.rice.edu)
- - date published: 2023-10-25T11:22:50.744610+00:00
- - user: None
- - tags: []
-
-## Rice CS
- - [https://www.cs.rice.edu](https://www.cs.rice.edu)
- - date published: 2024-01-21T02:57:02.989746+00:00
- - user: None
- - tags: []
-
-## University of Richmond Writing Center & WAC Program
- - [http://writing2.richmond.edu](http://writing2.richmond.edu)
- - date published: 2024-03-07T17:56:47.784966+00:00
- - user: None
- - tags: []
-
-## - Involved@RISD
- - [https://involved.risd.edu](https://involved.risd.edu)
- - date published: 2024-04-01T15:14:15.340595+00:00
- - user: None
- - tags: []
-
-## Rochester Institute of Technology | RIT
- - [https://www.rit.edu](https://www.rit.edu)
- - date published: 2023-10-25T18:57:15.262189+00:00
- - user: None
- - tags: []
-
-## Pages - RLC Forms: Covid-19 Testing | Vax Status | Book Order forms
- - [https://rlcforms.rlc.edu](https://rlcforms.rlc.edu)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science : University of Rochester
- - [https://www.cs.rochester.edu](https://www.cs.rochester.edu)
- - date published: 2023-10-25T11:22:54.164400+00:00
- - user: None
- - tags: []
-
-## University of Rochester
- - [https://www.rochester.edu](https://www.rochester.edu)
- - date published: 2023-10-25T11:22:58.003643+00:00
- - user: None
- - tags: []
-
-## The Rockefeller University
- - [https://www.rockefeller.edu](https://www.rockefeller.edu)
- - date published: 2023-10-25T11:23:02.452486+00:00
- - user: None
- - tags: []
-
-## Rowan Today | Rowan University
- - [https://today.rowan.edu](https://today.rowan.edu)
- - date published: 2023-10-25T18:57:18.671620+00:00
- - user: None
- - tags: []
-
-## Rensselaer News | News & Events
- - [https://news.rpi.edu](https://news.rpi.edu)
- - date published: 2023-10-24T20:05:28.211262+00:00
- - user: None
- - tags: []
-
-## Career Center - Career Center
- - [https://careercenter.camden.rutgers.edu](https://careercenter.camden.rutgers.edu)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome
- - [https://cwgl.rutgers.edu](https://cwgl.rutgers.edu)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## NJCERN at Rutgers – NJCERN – New Jersey Clean Energy Resource Network
- - [https://njcern.rutgers.edu](https://njcern.rutgers.edu)
- - date published: 2024-02-08T17:01:37.397829+00:00
- - user: None
- - tags: []
-
-## SASN Home
- - [https://sasn.rutgers.edu](https://sasn.rutgers.edu)
- - date published: 2024-03-29T18:07:25.503729+00:00
- - user: None
- - tags: []
-
-## Mathematics Department - Welcome
- - [https://sites.math.rutgers.edu](https://sites.math.rutgers.edu)
- - date published: 2023-10-25T18:57:21.555977+00:00
- - user: None
- - tags: []
-
-## Rutgers University
- - [https://www.rutgers.edu](https://www.rutgers.edu)
- - date published: 2023-10-25T11:23:06.491659+00:00
- - user: None
- - tags: []
-
-## University of San Diego Home Pages
- - [https://home.sandiego.edu](https://home.sandiego.edu)
- - date published: 2023-10-25T11:23:10.865084+00:00
- - user: None
- - tags: []
-
-## SANS.edu Internet Storm Center - SANS Internet Storm Center
- - [https://isc.sans.edu](https://isc.sans.edu)
- - date published: 2023-10-25T18:57:24.482790+00:00
- - user: None
- - tags: []
-
-## Home | Santa Fe Institute
- - [https://santafe.edu](https://santafe.edu)
- - date published: 2023-12-02T04:06:17.286147+00:00
- - user: None
- - tags: []
-
-## Home | Santa Fe Institute
- - [https://www.santafe.edu](https://www.santafe.edu)
- - date published: 2023-10-25T18:57:32.428032+00:00
- - user: None
- - tags: []
-
-## Scripps Research
- - [https://www.scripps.edu](https://www.scripps.edu)
- - date published: 2024-01-06T17:19:10.654645+00:00
- - user: None
- - tags: []
-
-## Santa Clara University: The Jesuit University in Silicon Valley
- - [https://www.scu.edu](https://www.scu.edu)
- - date published: 2023-11-21T17:24:48.452481+00:00
- - user: None
- - tags: []
-
-## https://edoras.sdsu.edu
- - [https://edoras.sdsu.edu](https://edoras.sdsu.edu)
- - date published: 2024-01-09T03:27:54.033795+00:00
- - user: None
- - tags: []
-
-## Homepage | National Air and Space Museum
- - [https://airandspace.si.edu](https://airandspace.si.edu)
- - date published: 2023-11-13T13:53:14.274573+00:00
- - user: None
- - tags: ['museum', 'aerospace', 'aviation']
-
-## Home | National Museum of American History
- - [https://americanhistory.si.edu](https://americanhistory.si.edu)
- - date published: 2023-10-25T18:57:48.749072+00:00
- - user: None
- - tags: []
-
-## Chandra X-ray Observatory - NASA's flagship X-ray telescope
- - [https://chandra.si.edu](https://chandra.si.edu)
- - date published: 2023-10-25T18:57:53.939009+00:00
- - user: None
- - tags: []
-
-## Lemelson Center for the Study of Invention and Innovation
- - [https://invention.si.edu](https://invention.si.edu)
- - date published: 2024-03-04T19:41:26.731968+00:00
  - user: None
  - tags: []
 

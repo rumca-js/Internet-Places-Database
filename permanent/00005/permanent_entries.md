@@ -1,3 +1,69 @@
+## Vintage Computing
+ - [https://deramp.com](https://deramp.com)
+ - date published: 2024-01-01T18:26:34+00:00
+ - user: None
+ - tags: []
+
+## Derek Houck
+ - [https://derekhouck.com](https://derekhouck.com)
+ - date published: 2023-12-19T02:59:18.608346+00:00
+ - user: None
+ - tags: ['personal']
+
+## Derek Goodwin Photography | Headshot & Branding Photographer
+ - [https://www.derekpashupagoodwin.com](https://www.derekpashupagoodwin.com)
+ - date published: 2023-11-29T17:08:37.949199+00:00
+ - user: None
+ - tags: ['personal']
+
+## Derek Shirk / Design Leader
+ - [https://derekshirk.com](https://derekshirk.com)
+ - date published: 2024-01-10T19:22:30.953376+00:00
+ - user: None
+ - tags: []
+
+## Derek Yu's Home on the Web
+ - [https://derekyu.com](https://derekyu.com)
+ - date published: 2023-10-25T13:49:29.295325+00:00
+ - user: None
+ - tags: []
+
+## dergigi.com
+ - [https://dergigi.com](https://dergigi.com)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dermatology Times and Multimedia Medical, LLC
+ - [https://www.dermatologytimes.com](https://www.dermatologytimes.com)
+ - date published: 2024-03-06T21:11:40.002363+00:00
+ - user: None
+ - tags: []
+
+## Deseret News
+ - [https://www.deseret.com](https://www.deseret.com)
+ - date published: 2023-10-25T13:49:44.338672+00:00
+ - user: None
+ - tags: ['utah news']
+
+## Home
+ - [https://www.desertsun.com](https://www.desertsun.com)
+ - date published: 2024-01-09T02:34:25.445218+00:00
+ - user: None
+ - tags: []
+
+## Desiderata - Desiderata Poem - Desiderata Prints
+ - [https://www.desiderata.com](https://www.desiderata.com)
+ - date published: 2023-10-25T13:49:58.782774+00:00
+ - user: None
+ - tags: []
+
+## designboom magazine | your first source for architecture, design & art news
+ - [https://www.designboom.com](https://www.designboom.com)
+ - date published: 2023-10-25T13:50:14.647949+00:00
+ - user: None
+ - tags: []
+
 ## Graphic Tees, Cool T Shirt Designs For Men And Women - DesignByHumans
  - [https://www.designbyhumans.com](https://www.designbyhumans.com)
  - date published: 2023-12-13T15:37:22.113867+00:00
@@ -850,6 +916,12 @@
  - user: None
  - tags: ['self-host', 'e-commerce']
 
+## Introduction - Dittofeed
+ - [https://docs.dittofeed.com](https://docs.dittofeed.com)
+ - date published: 2024-04-18T17:46:36.419360+00:00
+ - user: None
+ - tags: ['open source']
+
 ## None
  - [https://www.diybookbinding.com](https://www.diybookbinding.com)
  - date published: 2024-01-09T02:35:07.019460+00:00
@@ -959,13 +1031,13 @@
  - tags: []
 
 ## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
- - [http://www.djriko.com](http://www.djriko.com)
+ - [https://www.djriko.com](https://www.djriko.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
- - [https://www.djriko.com](https://www.djriko.com)
+ - [http://www.djriko.com](http://www.djriko.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -1095,7 +1167,7 @@
  - [https://hub.docker.com](https://hub.docker.com)
  - date published: 2024-04-17T20:21:22.362099+00:00
  - user: None
- - tags: []
+ - tags: ['virtualization']
 
 ## Docker: Accelerated Container Application Development
  - [https://web.docker.com](https://web.docker.com)
@@ -1698,14 +1770,14 @@
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [https://drinkag1.com](https://drinkag1.com)
- - date published: 2024-02-24T09:55:07.922857+00:00
+ - [http://drinkag1.com](http://drinkag1.com)
+ - date published: 2024-01-21T19:15:07.982155+00:00
  - user: None
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [http://drinkag1.com](http://drinkag1.com)
- - date published: 2024-01-21T19:15:07.982155+00:00
+ - [https://drinkag1.com](https://drinkag1.com)
+ - date published: 2024-02-24T09:55:07.922857+00:00
  - user: None
  - tags: []
 
@@ -2268,14 +2340,14 @@
  - tags: []
 
 ## Earl MacDonald – Composer, Jazz Pianist, Music Educator – “A magical, musical alchemist of hip hybrids."
- - [https://www.earlmacdonald.com](https://www.earlmacdonald.com)
- - date published: 2023-12-16T07:29:09.233696+00:00
+ - [http://www.earlmacdonald.com](http://www.earlmacdonald.com)
+ - date published: 2024-04-03T06:25:22.075271+00:00
  - user: None
  - tags: ['personal']
 
 ## Earl MacDonald – Composer, Jazz Pianist, Music Educator – “A magical, musical alchemist of hip hybrids."
- - [http://www.earlmacdonald.com](http://www.earlmacdonald.com)
- - date published: 2024-04-03T06:25:22.075271+00:00
+ - [https://www.earlmacdonald.com](https://www.earlmacdonald.com)
+ - date published: 2023-12-16T07:29:09.233696+00:00
  - user: None
  - tags: ['personal']
 
@@ -3012,14 +3084,14 @@
  - tags: []
 
 ## Elisa Doucette
- - [http://www.elisadoucette.com](http://www.elisadoucette.com)
- - date published: 2024-04-03T12:45:08.562645+00:00
+ - [https://www.elisadoucette.com](https://www.elisadoucette.com)
+ - date published: 2023-12-20T00:58:34.049564+00:00
  - user: None
  - tags: ['personal']
 
 ## Elisa Doucette
- - [https://www.elisadoucette.com](https://www.elisadoucette.com)
- - date published: 2023-12-20T00:58:34.049564+00:00
+ - [http://www.elisadoucette.com](http://www.elisadoucette.com)
+ - date published: 2024-04-03T12:45:08.562645+00:00
  - user: None
  - tags: ['personal']
 
@@ -3370,6 +3442,12 @@
  - date published: 2023-10-25T14:07:01.831705+00:00
  - user: None
  - tags: []
+
+## Empik.com | 5 000 000 produktów i pomysłów na prezent | Dostawa za 0 zł z Empik Premium
+ - [https://www.empik.com](https://www.empik.com)
+ - date published: 2024-04-18T08:19:40+00:00
+ - user: rumpel
+ - tags: ['comics', 'company', 'e-commerce', 'bookshop']
 
 ## EmptyCrate.com: Recent Posts
  - [https://articles.emptycrate.com](https://articles.emptycrate.com)
@@ -3821,29 +3899,29 @@
  - user: None
  - tags: []
 
-## Howdy – Eric Karjaluoto
- - [http://www.erickarjaluoto.com](http://www.erickarjaluoto.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
 ## https://www.erickarjaluoto.com
  - [https://www.erickarjaluoto.com](https://www.erickarjaluoto.com)
  - date published: 2023-12-12T09:16:42+00:00
  - user: rumpel
  - tags: ['personal']
 
+## Howdy – Eric Karjaluoto
+ - [http://www.erickarjaluoto.com](http://www.erickarjaluoto.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Eric Jon Kassel - Designer, Director, Animator, Musician
  - [https://erickassel.com](https://erickassel.com)
  - date published: 2024-01-07T04:14:32.322306+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Eric Jon Kassel - Designer, Director, Animator, Musician
  - [https://www.erickassel.com](https://www.erickassel.com)
  - date published: 2024-03-20T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Fabulous adventures in coding | Eric Lippert's blog
  - [https://ericlippert.com](https://ericlippert.com)
@@ -4037,6 +4115,12 @@
  - user: None
  - tags: []
 
+## Eskimo North | Your Home on the Internet +1 206 812-0051
+ - [http://www.eskimo.com](http://www.eskimo.com)
+ - date published: 2024-04-18T08:35:31+00:00
+ - user: rumpel
+ - tags: ['isp']
+
 ## esoxjem
  - [https://esoxjem.com](https://esoxjem.com)
  - date published: 2000-01-01T00:00:00+00:00
@@ -4044,14 +4128,14 @@
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [https://www.espn.com](https://www.espn.com)
- - date published: 2023-10-25T10:09:24.738987+00:00
+ - [http://www.espn.com](http://www.espn.com)
+ - date published: 2024-02-25T16:13:57.477675+00:00
  - user: None
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [http://www.espn.com](http://www.espn.com)
- - date published: 2024-02-25T16:13:57.477675+00:00
+ - [https://www.espn.com](https://www.espn.com)
+ - date published: 2023-10-25T10:09:24.738987+00:00
  - user: None
  - tags: []
 
@@ -4569,7 +4653,7 @@
  - [http://evil-comic.com](http://evil-comic.com)
  - date published: 2024-04-07T14:12:06+00:00
  - user: rumpel
- - tags: []
+ - tags: ['comic strip', 'personal']
 
 ## Evil Mad Scientist Laboratories | Making the world a better place, one Evil Mad Scientist at a time.
  - [https://www.evilmadscientist.com](https://www.evilmadscientist.com)
@@ -4668,14 +4752,14 @@
  - tags: []
 
 ## Home Page -
- - [http://exhibita.com](http://exhibita.com)
- - date published: 2024-04-03T12:45:57.594873+00:00
+ - [https://exhibita.com](https://exhibita.com)
+ - date published: 2024-01-13T09:37:44.900869+00:00
  - user: None
  - tags: ['personal']
 
 ## Home Page -
- - [https://exhibita.com](https://exhibita.com)
- - date published: 2024-01-13T09:37:44.900869+00:00
+ - [http://exhibita.com](http://exhibita.com)
+ - date published: 2024-04-03T12:45:57.594873+00:00
  - user: None
  - tags: ['personal']
 
@@ -4860,14 +4944,14 @@
  - tags: []
 
 ## ezyang’s blog
- - [http://blog.ezyang.com](http://blog.ezyang.com)
- - date published: 2024-02-26T14:52:50.963348+00:00
+ - [https://blog.ezyang.com](https://blog.ezyang.com)
+ - date published: 2024-01-09T01:37:06.985730+00:00
  - user: None
  - tags: []
 
 ## ezyang’s blog
- - [https://blog.ezyang.com](https://blog.ezyang.com)
- - date published: 2024-01-09T01:37:06.985730+00:00
+ - [http://blog.ezyang.com](http://blog.ezyang.com)
+ - date published: 2024-02-26T14:52:50.963348+00:00
  - user: None
  - tags: []
 
@@ -4926,14 +5010,14 @@
  - tags: []
 
 ## Log in or sign up to view
- - [https://facebook.com](https://facebook.com)
- - date published: 2023-12-11T16:53:43.180916+00:00
+ - [http://facebook.com](http://facebook.com)
+ - date published: 2024-02-24T09:56:45.941514+00:00
  - user: None
  - tags: []
 
 ## Log in or sign up to view
- - [http://facebook.com](http://facebook.com)
- - date published: 2024-02-24T09:56:45.941514+00:00
+ - [https://facebook.com](https://facebook.com)
+ - date published: 2023-12-11T16:53:43.180916+00:00
  - user: None
  - tags: []
 
@@ -5062,6 +5146,12 @@
  - date published: 2023-11-09T14:01:46.526866+00:00
  - user: None
  - tags: ['smartphone', 'right to repair', 'fairphone']
+
+## Fairwinds | Make Kubernetes Easy for Developers
+ - [https://www.fairwinds.com](https://www.fairwinds.com)
+ - date published: 2024-04-18T15:00:30.830604+00:00
+ - user: None
+ - tags: []
 
 ## Fake Hacker News
  - [https://www.fakehn.com](https://www.fakehn.com)
@@ -5675,15 +5765,15 @@
  - user: None
  - tags: []
 
-## Error 404 (Not Found)!!1
- - [https://feeds.feedburner.com](https://feeds.feedburner.com)
- - date published: 2024-01-09T02:36:30.505752+00:00
- - user: None
- - tags: []
-
 ## None
  - [http://feeds.feedburner.com](http://feeds.feedburner.com)
  - date published: 2024-02-25T14:03:04.041505+00:00
+ - user: None
+ - tags: []
+
+## Error 404 (Not Found)!!1
+ - [https://feeds.feedburner.com](https://feeds.feedburner.com)
+ - date published: 2024-01-09T02:36:30.505752+00:00
  - user: None
  - tags: []
 
@@ -5906,96 +5996,6 @@
 ## Play Figgie at Jane Street
  - [https://figgie.com](https://figgie.com)
  - date published: 2023-12-18T09:46:04.792293+00:00
- - user: None
- - tags: []
-
-## Fight © Trolls
- - [https://fightcopyrighttrolls.com](https://fightcopyrighttrolls.com)
- - date published: 2024-01-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Figma: The Collaborative Interface Design Tool
- - [https://figma.com](https://figma.com)
- - date published: 2023-10-25T14:30:07.343705+00:00
- - user: None
- - tags: []
-
-## Figma Community Forum
- - [https://forum.figma.com](https://forum.figma.com)
- - date published: 2024-03-06T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Figma: The Collaborative Interface Design Tool
- - [https://www.figma.com](https://www.figma.com)
- - date published: 2023-10-25T14:30:12.788670+00:00
- - user: None
- - tags: []
-
-## Filament - Accelerated Laravel development framework: admin panel, form builder, table builder and more
- - [https://filamentphp.com](https://filamentphp.com)
- - date published: 2023-10-25T14:30:20.221791+00:00
- - user: None
- - tags: []
-
-## File 770 - Mike Glyer's news of science fiction fandom
- - [https://file770.com](https://file770.com)
- - date published: 2023-10-25T14:30:32.720358+00:00
- - user: None
- - tags: []
-
-## File Format Docs
- - [https://docs.fileformat.com](https://docs.fileformat.com)
- - date published: 2017-02-01T00:00:00+00:00
- - user: rumpel
- - tags: ['file formats']
-
-## An Open-source File Format API Guide For Developers
- - [https://fileformat.com](https://fileformat.com)
- - date published: 2024-04-05T13:57:47+00:00
- - user: rumpel
- - tags: ['open source', 'file formats']
-
-## FileInfo.com - The File Format Database
- - [https://fileinfo.com](https://fileinfo.com)
- - date published: 2024-04-02T00:00:00+00:00
- - user: rumpel
- - tags: ['file formats']
-
-## FileRun - Selfhosted File Sync and Share - Just like Drive or Box, but private and under your control.
- - [https://filerun.com](https://filerun.com)
- - date published: 2024-04-08T19:28:21.224942+00:00
- - user: None
- - tags: ['self-host', 'file sharing']
-
-## Fill & Flush - A Better Way to De-Plane
- - [https://www.fillandflush.com](https://www.fillandflush.com)
- - date published: 2023-10-25T14:30:36.229686+00:00
- - user: None
- - tags: []
-
-## Colossus - Your Guide to Movies
- - [https://filmcolossus.com](https://filmcolossus.com)
- - date published: 2023-10-25T14:30:39.555722+00:00
- - user: None
- - tags: []
-
-## Film-Tech
- - [http://www.film-tech.com](http://www.film-tech.com)
- - date published: 2024-01-23T19:06:20.308842+00:00
- - user: None
- - tags: []
-
-## Filson | American Heritage Outerwear, Clothing, Bags & More
- - [https://www.filson.com](https://www.filson.com)
- - date published: 2023-10-25T14:30:48.727661+00:00
- - user: None
- - tags: []
-
-## Home | Financial Post Home Page | Financial Post
- - [https://financialpost.com](https://financialpost.com)
- - date published: 2023-10-25T14:31:03.740854+00:00
  - user: None
  - tags: []
 

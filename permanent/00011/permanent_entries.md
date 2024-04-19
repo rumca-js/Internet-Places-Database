@@ -1,3 +1,153 @@
+## Cierpliwości...
+ - [https://paymentdepot.com](https://paymentdepot.com)
+ - date published: 2024-03-28T07:01:16.127490+00:00
+ - user: None
+ - tags: []
+
+## PayneReactor
+ - [https://paynereactor.com](https://paynereactor.com)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
+## E-płatności, wysyłaj pieniądze i akceptuj płatności | PayPal PL
+ - [https://www.paypal.com](https://www.paypal.com)
+ - date published: 2023-10-25T08:26:52.063948+00:00
+ - user: None
+ - tags: ['banking']
+
+## 403
+ - [https://www.paypalobjects.com](https://www.paypalobjects.com)
+ - date published: 2023-10-25T16:31:48.214530+00:00
+ - user: None
+ - tags: []
+
+## PayPal Status Page
+ - [https://www.paypal-status.com](https://www.paypal-status.com)
+ - date published: 2023-10-25T08:26:54.739488+00:00
+ - user: None
+ - tags: []
+
+## System płatności online dla Twojego biznesu | PayU Poland
+ - [https://payu.com](https://payu.com)
+ - date published: 2024-04-07T14:20:46+00:00
+ - user: rumpel
+ - tags: ['payment system']
+
+## Konto PayU
+ - [https://secure.payu.com](https://secure.payu.com)
+ - date published: 2024-04-07T14:02:43.730295+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the Fellowship
+ - [https://pbfcomics.com](https://pbfcomics.com)
+ - date published: 2024-04-06T13:22:25.238344+00:00
+ - user: None
+ - tags: ['comics', 'personal', 'interesting']
+
+## Paul Kafasis
+ - [https://pbones.com](https://pbones.com)
+ - date published: 2023-12-23T07:30:37.057666+00:00
+ - user: None
+ - tags: ['personal']
+
+## PC Builder AI
+ - [https://www.pcbuilderai.com](https://www.pcbuilderai.com)
+ - date published: 2023-10-25T16:31:48.907547+00:00
+ - user: None
+ - tags: []
+
+## PC Gamer
+ - [https://www.pcgamer.com](https://www.pcgamer.com)
+ - date published: 2023-10-25T10:49:45.933777+00:00
+ - user: None
+ - tags: ['video game news']
+
+## PCGamesN | PC gaming news, reviews, and guides
+ - [https://www.pcgamesn.com](https://www.pcgamesn.com)
+ - date published: 2023-10-25T10:49:52.311261+00:00
+ - user: None
+ - tags: ['game news']
+
+## Intro: P.C. Maffey
+ - [https://pcmaffey.com](https://pcmaffey.com)
+ - date published: 2023-10-25T08:47:24.013987+00:00
+ - user: None
+ - tags: ['personal']
+
+## PCMag UK
+ - [http://uk.pcmag.com](http://uk.pcmag.com)
+ - date published: 2024-02-26T09:45:15.403718+00:00
+ - user: None
+ - tags: []
+
+## PCMag.com - Technology Product Reviews, News, Prices & Tips
+ - [https://uk.pcmag.com](https://uk.pcmag.com)
+ - date published: 2023-10-25T09:34:32.882984+00:00
+ - user: None
+ - tags: []
+
+## The Latest Technology Product Reviews, News, Tips, and Deals | PCMag
+ - [https://www.pcmag.com](https://www.pcmag.com)
+ - date published: 2023-10-25T09:34:47.167027+00:00
+ - user: None
+ - tags: []
+
+## The Starman's Realm
+ - [https://thestarman.pcministry.com](https://thestarman.pcministry.com)
+ - date published: 2023-10-25T16:31:49.593366+00:00
+ - user: None
+ - tags: []
+
+## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://pcpartpicker.com](https://pcpartpicker.com)
+ - date published: 2024-04-11T00:30:08.486980+00:00
+ - user: None
+ - tags: []
+
+## PCWorld
+ - [https://www.pcworld.com](https://www.pcworld.com)
+ - date published: 2023-10-25T09:34:49.726201+00:00
+ - user: None
+ - tags: []
+
+## PDF Differ — Compare the differences between two pdfs
+ - [https://pdfdiffer.com](https://pdfdiffer.com)
+ - date published: 2023-10-25T16:31:51.020705+00:00
+ - user: None
+ - tags: []
+
+## Easy to use free PDF tools online - pdfux
+ - [https://pdfux.com](https://pdfux.com)
+ - date published: 2023-10-25T16:31:51.991250+00:00
+ - user: None
+ - tags: []
+
+## Comment Castles
+ - [https://www.peachesnstink.com](https://www.peachesnstink.com)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Unavailable In Your Region
+ - [https://www.peacocktv.com](https://www.peacocktv.com)
+ - date published: 2023-11-03T17:34:06.995031+00:00
+ - user: None
+ - tags: []
+
+## Home 2021
+ - [https://pearceonearth.com](https://pearceonearth.com)
+ - date published: 2023-11-29T17:13:01.550218+00:00
+ - user: None
+ - tags: ['personal']
+
+## PEARL, Inc. Homepage
+ - [https://www.pearl-hifi.com](https://www.pearl-hifi.com)
+ - date published: 2023-10-25T16:31:53.681955+00:00
+ - user: None
+ - tags: []
+
 ## Pearl Jam - Home
  - [https://pearljam.com](https://pearljam.com)
  - date published: 2023-11-13T11:08:31.956919+00:00
@@ -167,14 +317,14 @@
  - tags: []
 
 ## Pera Barrett - Dad, Shoebox Christmas founder, author, musician, doer.
- - [http://www.perabarrett.com](http://www.perabarrett.com)
- - date published: 2024-04-03T12:42:43.429862+00:00
+ - [https://www.perabarrett.com](https://www.perabarrett.com)
+ - date published: 2024-01-12T22:14:14.873814+00:00
  - user: None
  - tags: ['personal']
 
 ## Pera Barrett - Dad, Shoebox Christmas founder, author, musician, doer.
- - [https://www.perabarrett.com](https://www.perabarrett.com)
- - date published: 2024-01-12T22:14:14.873814+00:00
+ - [http://www.perabarrett.com](http://www.perabarrett.com)
+ - date published: 2024-04-03T12:42:43.429862+00:00
  - user: None
  - tags: ['personal']
 
@@ -647,14 +797,14 @@
  - tags: ['music band', 'music artist']
 
 ## Phil D.
- - [http://phildenman.com](http://phildenman.com)
- - date published: 2024-04-03T06:25:43.319001+00:00
+ - [https://phildenman.com](https://phildenman.com)
+ - date published: 2023-12-27T23:55:08.862914+00:00
  - user: None
  - tags: ['personal']
 
 ## Phil D.
- - [https://phildenman.com](https://phildenman.com)
- - date published: 2023-12-27T23:55:08.862914+00:00
+ - [http://phildenman.com](http://phildenman.com)
+ - date published: 2024-04-03T06:25:43.319001+00:00
  - user: None
  - tags: ['personal']
 
@@ -1075,6 +1225,18 @@
  - user: None
  - tags: []
 
+## Pinduoduo - Together, More Savings, More Fun
+ - [https://en.pinduoduo.com](https://en.pinduoduo.com)
+ - date published: 2024-04-18T08:12:54+00:00
+ - user: rumpel
+ - tags: ['company', 'e-commerce']
+
+## Pinduoduo - Together, More Savings, More Fun
+ - [https://pinduoduo.com](https://pinduoduo.com)
+ - date published: 2024-04-18T08:14:05+00:00
+ - user: rumpel
+ - tags: ['company', 'e-commerce']
+
 ## Pineberry Pi
  - [https://pineberrypi.com](https://pineberrypi.com)
  - date published: 2024-01-23T16:06:02+00:00
@@ -1457,7 +1619,7 @@
  - [https://www.playrole.com](https://www.playrole.com)
  - date published: 2024-03-27T22:03:43+00:00
  - user: rumpel
- - tags: []
+ - tags: ['ttrpg']
 
 ## Show HN: Spindle, a cross between Wordle and a Rubik's Cube made in PHP
  - [https://playspindle.com](https://playspindle.com)
@@ -1826,13 +1988,13 @@
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -3025,6 +3187,18 @@
  - user: None
  - tags: []
 
+## Test Page for the Apache HTTP Server
+ - [http://blogs.publishersweekly.com](http://blogs.publishersweekly.com)
+ - date published: 2024-04-18T07:13:24+00:00
+ - user: rumpel
+ - tags: []
+
+## Book Reviews, Bestselling Books & Publishing Business News | Publishers Weekly
+ - [https://publishersweekly.com](https://publishersweekly.com)
+ - date published: 2024-04-18T07:14:00+00:00
+ - user: rumpel
+ - tags: ['book reviews', 'book publishing']
+
 ## Book Reviews, Bestselling Books & Publishing Business News | Publishers Weekly
  - [https://www.publishersweekly.com](https://www.publishersweekly.com)
  - date published: 2023-10-31T20:17:32.697765+00:00
@@ -3774,14 +3948,14 @@
  - tags: []
 
 ## rachelbythebay
- - [https://rachelbythebay.com](https://rachelbythebay.com)
- - date published: 2023-10-25T08:47:38.309860+00:00
+ - [http://rachelbythebay.com](http://rachelbythebay.com)
+ - date published: 2024-03-25T10:02:53.023235+00:00
  - user: None
  - tags: ['personal']
 
 ## rachelbythebay
- - [http://rachelbythebay.com](http://rachelbythebay.com)
- - date published: 2024-03-25T10:02:53.023235+00:00
+ - [https://rachelbythebay.com](https://rachelbythebay.com)
+ - date published: 2023-10-25T08:47:38.309860+00:00
  - user: None
  - tags: ['personal']
 
@@ -3821,17 +3995,17 @@
  - user: None
  - tags: []
 
-## http://rachelwestbooks.com
- - [https://rachelwestbooks.com](https://rachelwestbooks.com)
- - date published: 2024-02-09T00:19:01.129739+00:00
- - user: None
- - tags: ['poetry', 'book', 'personal']
-
 ## None
  - [http://rachelwestbooks.com](http://rachelwestbooks.com)
  - date published: 2024-02-29T14:58:43.538321+00:00
  - user: None
  - tags: []
+
+## http://rachelwestbooks.com
+ - [https://rachelwestbooks.com](https://rachelwestbooks.com)
+ - date published: 2024-02-09T00:19:01.129739+00:00
+ - user: None
+ - tags: ['poetry', 'book', 'personal']
 
 ## Rachel Zampino | Website Wizard - Rachel Zampino
  - [https://rachelzampino.com](https://rachelzampino.com)
@@ -3954,14 +4128,14 @@
  - tags: ['personal']
 
 ## Reginald Braithwaite
- - [http://raganwald.com](http://raganwald.com)
- - date published: 2016-01-01T00:00:00+00:00
+ - [https://raganwald.com](https://raganwald.com)
+ - date published: 2023-10-25T16:45:15.488174+00:00
  - user: None
  - tags: []
 
 ## Reginald Braithwaite
- - [https://raganwald.com](https://raganwald.com)
- - date published: 2023-10-25T16:45:15.488174+00:00
+ - [http://raganwald.com](http://raganwald.com)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4204,7 +4378,7 @@ More!
  - [https://www.raphkoster.com](https://www.raphkoster.com)
  - date published: 2023-10-25T16:45:52.753949+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Rapid7 - Practitioner-First Cybersecurity Solutions
  - [https://www.rapid7.com](https://www.rapid7.com)
@@ -4777,16 +4951,16 @@ More!
  - tags: []
 
 ## reddit
- - [http://reddit.com](http://reddit.com)
- - date published: 2024-04-05T18:55:02.786881+00:00
- - user: None
- - tags: []
-
-## reddit
  - [https://reddit.com](https://reddit.com)
  - date published: 2023-10-24T20:12:40.083441+00:00
  - user: None
  - tags: ['gatekeeper', 'social platform']
+
+## reddit
+ - [http://reddit.com](http://reddit.com)
+ - date published: 2024-04-05T18:55:02.786881+00:00
+ - user: None
+ - tags: []
 
 ## reddit
  - [https://sh.reddit.com](https://sh.reddit.com)
@@ -5158,7 +5332,7 @@ More!
  - [https://reinderdijkhuis.com](https://reinderdijkhuis.com)
  - date published: 2024-04-07T14:24:50.203996+00:00
  - user: None
- - tags: []
+ - tags: ['comics strips', 'cartoon', 'personal']
 
 ## Comics, writing and music by Reinder Dijkhuis.
  - [http://www.reinderdijkhuis.com](http://www.reinderdijkhuis.com)
@@ -5829,180 +6003,6 @@ More!
 ## Rich Keeble – Actor, voiceover artist, comedian, musician, man
  - [https://www.richkeeble.com](https://www.richkeeble.com)
  - date published: 2024-01-21T13:31:19.816138+00:00
- - user: None
- - tags: []
-
-## Rich Keeble – Actor, voiceover artist, comedian, musician, man
- - [http://www.richkeeble.com](http://www.richkeeble.com)
- - date published: 2024-04-03T12:48:29.183856+00:00
- - user: None
- - tags: ['personal']
-
-## Rich PalmerVoice actor, narrator, storyteller, audio producer.
- - [https://richpalmer.com](https://richpalmer.com)
- - date published: 2024-01-09T02:47:56.721503+00:00
- - user: None
- - tags: []
-
-## Rich Tabor - Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress.
- - [https://richtabor.com](https://richtabor.com)
- - date published: 2023-12-19T09:59:46.789011+00:00
- - user: None
- - tags: ['personal']
-
-## Rick Carabba - Home of BrainBank
- - [https://www.rickcarabba.com](https://www.rickcarabba.com)
- - date published: 2024-01-15T13:59:06.069303+00:00
- - user: None
- - tags: []
-
-## The Blog of Rick Carlino
- - [https://rickcarlino.com](https://rickcarlino.com)
- - date published: 2024-01-15T22:21:01.483442+00:00
- - user: None
- - tags: []
-
-## rickconsole.com | 502: Bad gateway
- - [https://rickconsole.com](https://rickconsole.com)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## rick@console:/
- - [https://staging.rickconsole.com](https://staging.rickconsole.com)
- - date published: 2023-10-25T16:51:19.430482+00:00
- - user: None
- - tags: []
-
-## Rick Umali's Home Page
- - [https://rickumali.com](https://rickumali.com)
- - date published: 2023-12-03T15:55:26.247597+00:00
- - user: None
- - tags: ['personal']
-
-## Rick Umali's Home Page
- - [http://rickumali.com](http://rickumali.com)
- - date published: 2024-04-03T06:27:10.056290+00:00
- - user: None
- - tags: ['personal']
-
-## Rick's Tech Talk | All Tech Talk, Most of the Time
- - [http://tech.rickumali.com](http://tech.rickumali.com)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Rico Sta. Cruz
- - [https://ricostacruz.com](https://ricostacruz.com)
- - date published: 2024-03-24T15:07:54.147066+00:00
- - user: None
- - tags: ['personal']
-
-## Ricos y Libres
- - [https://www.ricosylibres.com](https://www.ricosylibres.com)
- - date published: 2024-01-09T08:54:05.454224+00:00
- - user: None
- - tags: []
-
-## Ric Stultz - 2023
- - [http://ricstultz.com](http://ricstultz.com)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ride Report: The platform to manage mobility
- - [https://www.ridereport.com](https://www.ridereport.com)
- - date published: 2023-10-25T16:51:25.938785+00:00
- - user: None
- - tags: []
-
-## RIDGE - ESSENTIALS DESIGNED FOR EVERYDAY
- - [https://www.ridge.com](https://www.ridge.com)
- - date published: 2024-02-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Rifat Najmi | Visual Artist and Designer based in Jakarta
- - [https://rifatnajmi.com](https://rifatnajmi.com)
- - date published: 2024-01-13T22:53:38.949880+00:00
- - user: None
- - tags: []
-
-## RIFE2 Framework : Full-stack, no-declaration, framework to quickly and effortlessly create web applications with modern Java.
- - [https://rife2.com](https://rife2.com)
- - date published: 2023-10-25T16:51:26.581095+00:00
- - user: None
- - tags: []
-
-## Riffusion
- - [https://www.riffusion.com](https://www.riffusion.com)
- - date published: 2023-10-25T16:51:27.329208+00:00
- - user: None
- - tags: []
-
-## Ken Shirriff's blog
- - [https://www.righto.com](https://www.righto.com)
- - date published: 2023-10-25T16:51:33.313104+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## Ken Shirriff's blog
- - [http://www.righto.com](http://www.righto.com)
- - date published: 2024-02-25T00:44:48.796985+00:00
- - user: None
- - tags: []
-
-## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
- - [https://www.rigzone.com](https://www.rigzone.com)
- - date published: 2023-10-25T16:51:39.145136+00:00
- - user: None
- - tags: []
-
-## Rihanna - Rihanna
- - [https://www.rihannanow.com](https://www.rihannanow.com)
- - date published: 2023-11-13T10:35:34.882090+00:00
- - user: None
- - tags: ['music band']
-
-## Rihards Steinbergs
- - [https://rihards.com](https://rihards.com)
- - date published: 2024-01-12T10:32:04.930603+00:00
- - user: None
- - tags: []
-
-## Maui Artist Rik Fitch
- - [https://rikfitch.com](https://rikfitch.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Rik Lewis
- - [https://www.riklewis.com](https://www.riklewis.com)
- - date published: 2024-02-26T12:42:08.808056+00:00
- - user: None
- - tags: []
-
-## Home | Riley Soloner
- - [https://www.rileysoloner.com](https://www.rileysoloner.com)
- - date published: 2024-02-09T00:20:48.880920+00:00
- - user: None
- - tags: ['personal']
-
-## https://ui.rilldata.com
- - [https://ui.rilldata.com](https://ui.rilldata.com)
- - date published: 2024-01-09T02:48:01.435862+00:00
- - user: None
- - tags: []
-
-## Home - Rimac Automobili
- - [https://www.rimac-automobili.com](https://www.rimac-automobili.com)
- - date published: 2024-01-09T02:48:02.433622+00:00
- - user: None
- - tags: []
-
-## Latest News from Rimac – Rimac Newsroom
- - [https://www.rimac-newsroom.com](https://www.rimac-newsroom.com)
- - date published: 2023-10-25T16:51:41.401391+00:00
  - user: None
  - tags: []
 

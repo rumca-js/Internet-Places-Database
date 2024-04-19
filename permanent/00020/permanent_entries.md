@@ -1,3 +1,249 @@
+## The Crescendo Multi-Turn LLM Jailbreak Attack
+ - [https://crescendo-the-multiturn-jailbreak.github.io](https://crescendo-the-multiturn-jailbreak.github.io)
+ - date published: 2024-04-04T21:37:00+00:00
+ - user: None
+ - tags: []
+
+## https://crowsonkb.github.io
+ - [https://crowsonkb.github.io](https://crowsonkb.github.io)
+ - date published: 2024-01-23T20:07:38.415806+00:00
+ - user: None
+ - tags: []
+
+## CTurt
+ - [https://cturt.github.io](https://cturt.github.io)
+ - date published: 2023-10-25T19:44:52.061450+00:00
+ - user: None
+ - tags: []
+
+## \\cube0x0\
+ - [https://cube0x0.github.io](https://cube0x0.github.io)
+ - date published: 2023-10-25T19:44:52.992321+00:00
+ - user: None
+ - tags: []
+
+## CudaText - Home
+ - [https://cudatext.github.io](https://cudatext.github.io)
+ - date published: 2020-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wherein The Chicken
+ - [https://cushychicken.github.io](https://cushychicken.github.io)
+ - date published: 2023-10-25T19:44:53.696442+00:00
+ - user: None
+ - tags: []
+
+## Site not found · GitHub Pages
+ - [https://daduckmsft.github.io](https://daduckmsft.github.io)
+ - date published: 2023-12-31T17:16:39.038947+00:00
+ - user: None
+ - tags: []
+
+## Daniel Geng
+ - [https://dangeng.github.io](https://dangeng.github.io)
+ - date published: 2023-12-01T10:46:14.463296+00:00
+ - user: None
+ - tags: []
+
+## Daniel Mejía Raigosa
+ - [https://daniel-m.github.io](https://daniel-m.github.io)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## Find HN Candidates
+ - [https://darighost.github.io](https://darighost.github.io)
+ - date published: 2024-01-02T19:34:22.824261+00:00
+ - user: None
+ - tags: []
+
+## DatenLord
+ - [https://datenlord.github.io](https://datenlord.github.io)
+ - date published: 2023-10-30T20:37:53.162449+00:00
+ - user: None
+ - tags: []
+
+## David Turner says…
+ - [https://davecturner.github.io](https://davecturner.github.io)
+ - date published: 2023-12-25T20:07:12.208878+00:00
+ - user: None
+ - tags: []
+
+## David Laprade | Blog
+ - [https://davidlaprade.github.io](https://davidlaprade.github.io)
+ - date published: 2023-10-25T19:44:54.555331+00:00
+ - user: None
+ - tags: []
+
+## David Lattimore’s open-source projects
+ - [https://davidlattimore.github.io](https://davidlattimore.github.io)
+ - date published: 2023-10-25T19:44:55.086464+00:00
+ - user: None
+ - tags: []
+
+## Posts | David Muller
+ - [https://davidmuller.github.io](https://davidmuller.github.io)
+ - date published: 2023-10-25T19:44:55.761535+00:00
+ - user: None
+ - tags: []
+
+## DBOS | A Database-Oriented Operating System
+ - [https://dbos-project.github.io](https://dbos-project.github.io)
+ - date published: 2023-10-25T19:44:56.758451+00:00
+ - user: None
+ - tags: []
+
+## DeepSeek Coder
+ - [https://deepseekcoder.github.io](https://deepseekcoder.github.io)
+ - date published: 2024-01-31T22:10:32.880677+00:00
+ - user: None
+ - tags: []
+
+## https://dendiz.github.io
+ - [https://dendiz.github.io](https://dendiz.github.io)
+ - date published: 2024-01-07T04:15:57.292799+00:00
+ - user: None
+ - tags: []
+
+## Depth Anything
+ - [https://depth-anything.github.io](https://depth-anything.github.io)
+ - date published: 2024-02-13T20:51:43.263199+00:00
+ - user: None
+ - tags: []
+
+## Development containers
+ - [https://devcontainers.github.io](https://devcontainers.github.io)
+ - date published: 2024-02-25T19:46:07.849487+00:00
+ - user: None
+ - tags: []
+
+## Martijn de Vos
+ - [https://devos50.github.io](https://devos50.github.io)
+ - date published: 2023-10-25T19:44:58.236322+00:00
+ - user: None
+ - tags: []
+
+## Moving rocks around | Diego Quintana's blog
+ - [https://diegoquintanav.github.io](https://diegoquintanav.github.io)
+ - date published: 2023-12-30T15:36:36.876681+00:00
+ - user: None
+ - tags: ['personal']
+
+## TokenFlow: Consistent Diffusion Features for Consistent Video Editing
+ - [https://diffusion-tokenflow.github.io](https://diffusion-tokenflow.github.io)
+ - date published: 2023-10-25T19:44:59.018850+00:00
+ - user: None
+ - tags: []
+
+## Dependency Injection in Scala using MacWire · DI in Scala: guide
+ - [https://di-in-scala.github.io](https://di-in-scala.github.io)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dillo Website
+ - [https://dillo-browser.github.io](https://dillo-browser.github.io)
+ - date published: 2024-01-02T21:55:08+00:00
+ - user: None
+ - tags: []
+
+## Dean Markwick | Personal website for Dean Markwick. If you like stats, sports and rambling, you’ve come to the right place. All rights reserved.
+ - [https://dm13450.github.io](https://dm13450.github.io)
+ - date published: 2023-10-25T19:45:00.641641+00:00
+ - user: None
+ - tags: []
+
+## dmicz devblog
+ - [https://dmicz.github.io](https://dmicz.github.io)
+ - date published: 2024-01-13T01:12:24.497491+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://dmytry.github.io](https://dmytry.github.io)
+ - date published: 2024-02-05T20:54:57.738988+00:00
+ - user: None
+ - tags: []
+
+## Dennis Muensterer
+ - [https://dnnsmnstrr.github.io](https://dnnsmnstrr.github.io)
+ - date published: 2024-01-04T08:12:41.237152+00:00
+ - user: None
+ - tags: []
+
+## Personal Website of Dorian Quelle
+ - [https://dorianquelle.github.io](https://dorianquelle.github.io)
+ - date published: 2023-11-26T19:21:24.102261+00:00
+ - user: None
+ - tags: []
+
+## SystemDotRun – Dorian Cussen's Super Blog
+ - [https://doridori.github.io](https://doridori.github.io)
+ - date published: 2023-10-25T19:45:02.011170+00:00
+ - user: None
+ - tags: []
+
+## Jinbo Xing
+ - [https://doubiiu.github.io](https://doubiiu.github.io)
+ - date published: 2023-12-16T17:16:57.452135+00:00
+ - user: None
+ - tags: []
+
+## https://dougsillars.github.io
+ - [https://dougsillars.github.io](https://dougsillars.github.io)
+ - date published: 2017-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dragon863 - Home
+ - [https://dragon863.github.io](https://dragon863.github.io)
+ - date published: 2023-10-25T19:45:02.523780+00:00
+ - user: None
+ - tags: []
+
+## DreamFusion: Text-to-3D using 2D Diffusion
+ - [https://dreamfusion3d.github.io](https://dreamfusion3d.github.io)
+ - date published: 2023-10-25T19:45:03.516388+00:00
+ - user: None
+ - tags: []
+
+## DreamFusion: Text-to-3D using 2D Diffusion
+ - [https://dreamfusionpaper.github.io](https://dreamfusionpaper.github.io)
+ - date published: 2023-10-25T19:45:04.399489+00:00
+ - user: None
+ - tags: []
+
+## Personal Github Page
+ - [https://drhyperion451.github.io](https://drhyperion451.github.io)
+ - date published: 2023-12-05T23:27:28.485029+00:00
+ - user: None
+ - tags: []
+
+## Dr. Tomás Aragón - Population Health Blog
+ - [https://drtomasaragon.github.io](https://drtomasaragon.github.io)
+ - date published: 2023-10-25T19:45:05.485671+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://dsego.github.io](http://dsego.github.io)
+ - date published: 2023-10-25T19:45:10.046408+00:00
+ - user: None
+ - tags: []
+
+## DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion
+ - [https://ds-fusion.github.io](https://ds-fusion.github.io)
+ - date published: 2023-10-25T19:45:06.310901+00:00
+ - user: None
+ - tags: []
+
+## Redirecting to https://dsharpplus.github.io/DSharpPlus/
+ - [https://dsharpplus.github.io](https://dsharpplus.github.io)
+ - date published: 2024-02-08T16:44:06.170475+00:00
+ - user: None
+ - tags: []
+
 ## dtinth.github.io
  - [https://dtinth.github.io](https://dtinth.github.io)
  - date published: 2023-10-25T19:45:10.444392+00:00
@@ -32,7 +278,7 @@
  - [https://enkimute.github.io](https://enkimute.github.io)
  - date published: 2024-02-28T22:18:21.820469+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## epage
  - [https://epage.github.io](https://epage.github.io)
@@ -939,7 +1185,7 @@
  - [https://liorsinai.github.io](https://liorsinai.github.io)
  - date published: 2023-10-25T19:48:27.648718+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## lisyarus.github.io
  - [https://lisyarus.github.io](https://lisyarus.github.io)
@@ -1511,15 +1757,15 @@
  - user: None
  - tags: []
 
-## Oasis | A Repository of Project Ideas
- - [http://oasis-of-ideas.github.io](http://oasis-of-ideas.github.io)
- - date published: 2024-02-29T14:58:25.399088+00:00
- - user: None
- - tags: []
-
 ## Show HN: Oasis – A Repository of Project Ideas
  - [https://oasis-of-ideas.github.io](https://oasis-of-ideas.github.io)
  - date published: 2023-11-29T20:46:27+00:00
+ - user: None
+ - tags: []
+
+## Oasis | A Repository of Project Ideas
+ - [http://oasis-of-ideas.github.io](http://oasis-of-ideas.github.io)
+ - date published: 2024-02-29T14:58:25.399088+00:00
  - user: None
  - tags: []
 
@@ -2304,14 +2550,14 @@
  - tags: []
 
 ## Xinye Tao
- - [http://tabokie.github.io](http://tabokie.github.io)
- - date published: 2024-02-25T21:00:42.459387+00:00
+ - [https://tabokie.github.io](https://tabokie.github.io)
+ - date published: 2024-01-14T17:10:57.682317+00:00
  - user: None
  - tags: []
 
 ## Xinye Tao
- - [https://tabokie.github.io](https://tabokie.github.io)
- - date published: 2024-01-14T17:10:57.682317+00:00
+ - [http://tabokie.github.io](http://tabokie.github.io)
+ - date published: 2024-02-25T21:00:42.459387+00:00
  - user: None
  - tags: []
 
@@ -2739,7 +2985,7 @@
  - [https://zulko.github.io](https://zulko.github.io)
  - date published: 2023-10-25T19:55:20.629671+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Zachary Yedidia
  - [https://zyedidia.github.io](https://zyedidia.github.io)
@@ -2859,7 +3105,7 @@
  - [https://theevilskeleton.gitlab.io](https://theevilskeleton.gitlab.io)
  - date published: 2023-10-25T19:55:30.314837+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Learn to use email with git!
  - [https://git-send-email.io](https://git-send-email.io)
@@ -2913,7 +3159,7 @@
  - [https://gohugo.io](https://gohugo.io)
  - date published: 2023-10-25T08:35:22.384926+00:00
  - user: None
- - tags: []
+ - tags: ['static website', 'website builder']
 
 ## Complete List
  - [https://themes.gohugo.io](https://themes.gohugo.io)
@@ -4397,7 +4643,7 @@
  - [http://ncs.io](http://ncs.io)
  - date published: 2024-02-24T09:55:13.681583+00:00
  - user: None
- - tags: []
+ - tags: ['music assets']
 
 ## NCS (NoCopyrightSounds) - Free Music for Creators
  - [https://ncs.io](https://ncs.io)
@@ -5532,7 +5778,7 @@
  - [https://shellhub.io](https://shellhub.io)
  - date published: 2024-04-08T19:30:50.056897+00:00
  - user: None
- - tags: []
+ - tags: ['propietary', 'ssh server']
 
 ## Shields.io | Shields.io
  - [https://img.shields.io](https://img.shields.io)
@@ -5754,252 +6000,6 @@
 ## Maxima, a Computer Algebra System
  - [https://maxima.sourceforge.io](https://maxima.sourceforge.io)
  - date published: 2023-10-25T20:07:19.918161+00:00
- - user: None
- - tags: []
-
-## XL: An Extensible Programming Language
- - [https://xlr.sourceforge.io](https://xlr.sourceforge.io)
- - date published: 2024-02-21T12:39:12+00:00
- - user: None
- - tags: []
-
-## SŌZU - HTTP Reverse Proxy in Rust for Immutable Infrastructures
- - [https://www.sozu.io](https://www.sozu.io)
- - date published: 2023-10-25T20:07:20.588505+00:00
- - user: None
- - tags: []
-
-## Spacelift: The Most Flexible IaC Management Platform
- - [https://spacelift.io](https://spacelift.io)
- - date published: 2023-10-25T20:07:25.497473+00:00
- - user: None
- - tags: []
-
-## SpaceTraders API
- - [https://spacetraders.io](https://spacetraders.io)
- - date published: 2023-10-25T20:07:26.291150+00:00
- - user: None
- - tags: []
-
-## Spack - Spack
- - [https://spack.io](https://spack.io)
- - date published: 2023-10-25T20:07:27.164756+00:00
- - user: None
- - tags: []
-
-## Advanced NLP with spaCy · A free online course
- - [https://course.spacy.io](https://course.spacy.io)
- - date published: 2023-10-25T20:07:33.542479+00:00
- - user: None
- - tags: []
-
-## https://sprocketfox.io
- - [https://sprocketfox.io](https://sprocketfox.io)
- - date published: 2023-12-29T07:20:04.383650+00:00
- - user: None
- - tags: []
-
-## SQLite Cloud
- - [https://blog.sqlitecloud.io](https://blog.sqlitecloud.io)
- - date published: 2023-10-25T20:07:34.803434+00:00
- - user: None
- - tags: []
-
-## SQLite Cloud Documentation
- - [https://docs.sqlitecloud.io](https://docs.sqlitecloud.io)
- - date published: 2024-03-05T16:11:00.223448+00:00
- - user: None
- - tags: []
-
-## Show HN: Astro App
- - [https://astro.sshh.io](https://astro.sshh.io)
- - date published: 2024-03-04T15:24:35+00:00
- - user: None
- - tags: []
-
-## Let's Encrypt Status
- - [https://letsencrypt.status.io](https://letsencrypt.status.io)
- - date published: 2023-10-25T20:07:35.624064+00:00
- - user: None
- - tags: []
-
-## Status.io - Hosted Status Pages
- - [https://status.io](https://status.io)
- - date published: 2024-02-08T18:05:58.663012+00:00
- - user: None
- - tags: []
-
-## Statusduck
- - [https://statusduck.io](https://statusduck.io)
- - date published: 2024-02-13T17:40:24.219862+00:00
- - user: None
- - tags: ['down detector']
-
-## reddit Status
- - [https://reddit.statuspage.io](https://reddit.statuspage.io)
- - date published: 2023-10-25T20:07:37.533135+00:00
- - user: None
- - tags: []
-
-## No-Bullshit Games
- - [https://nobsgames.stavros.io](https://nobsgames.stavros.io)
- - date published: 2023-11-27T06:59:49+00:00
- - user: None
- - tags: []
-
-## https://phantasmagoria.stavros.io
- - [https://phantasmagoria.stavros.io](https://phantasmagoria.stavros.io)
- - date published: 2023-10-25T20:07:44.067474+00:00
- - user: None
- - tags: []
-
-## Stealth Security
- - [https://stealthsecurity.io](https://stealthsecurity.io)
- - date published: 2023-10-25T20:07:45.435227+00:00
- - user: None
- - tags: []
-
-## Steambase
- - [https://steambase.io](https://steambase.io)
- - date published: 2023-11-13T19:48:31.691442+00:00
- - user: None
- - tags: []
-
-## Steampipe | select * from cloud;
- - [https://steampipe.io](https://steampipe.io)
- - date published: 2023-10-25T20:07:52.520453+00:00
- - user: None
- - tags: []
-
-## STENDEC
- - [https://stendec.io](https://stendec.io)
- - date published: 2023-10-25T20:07:54.044015+00:00
- - user: None
- - tags: []
-
-## Steph | Smith
- - [https://blog.stephsmith.io](https://blog.stephsmith.io)
- - date published: 2023-12-18T20:13:34.554340+00:00
- - user: None
- - tags: []
-
-## Blog - stitcher.io
- - [https://stitcher.io](https://stitcher.io)
- - date published: 2023-10-25T20:07:58.151576+00:00
- - user: None
- - tags: []
-
-## Stepan Parunashvili
- - [https://stopa.io](https://stopa.io)
- - date published: 2023-10-25T20:08:00.512572+00:00
- - user: None
- - tags: []
-
-## Globally Distributed Cloud Object Storage
- - [https://www.storj.io](https://www.storj.io)
- - date published: 2023-10-25T20:08:04.187915+00:00
- - user: None
- - tags: []
-
-## Streambatch.io NDVI API
- - [https://www.streambatch.io](https://www.streambatch.io)
- - date published: 2023-10-25T20:08:06.092524+00:00
- - user: None
- - tags: []
-
-## Blog on Building & Sharing Data Apps | Streamlit Blog
- - [https://blog.streamlit.io](https://blog.streamlit.io)
- - date published: 2023-10-25T20:08:08.074530+00:00
- - user: None
- - tags: []
-
-## https://share.streamlit.io
- - [https://share.streamlit.io](https://share.streamlit.io)
- - date published: 2023-12-20T16:28:43.015391+00:00
- - user: None
- - tags: []
-
-## StreamNative | Apache Pulsar & Cloud-Native Messaging
- - [https://streamnative.io](https://streamnative.io)
- - date published: 2023-10-25T20:08:12.433385+00:00
- - user: None
- - tags: []
-
-## JavaScript Barcode Scanning Library
- - [https://strich.io](https://strich.io)
- - date published: 2023-10-25T20:08:19.288564+00:00
- - user: None
- - tags: []
-
-## Subsection.io
- - [https://subsection.io](https://subsection.io)
- - date published: 2023-10-25T20:08:21.016966+00:00
- - user: None
- - tags: []
-
-## Sudhir Jonathan
- - [https://sudhir.io](https://sudhir.io)
- - date published: 2024-01-29T23:02:33.678980+00:00
- - user: None
- - tags: []
-
-## sunshowers
- - [https://sunshowers.io](https://sunshowers.io)
- - date published: 2023-10-25T20:08:22.475120+00:00
- - user: None
- - tags: []
-
-## Coding Stephan
- - [https://svrooij.io](https://svrooij.io)
- - date published: 2023-10-25T20:08:24.094901+00:00
- - user: None
- - tags: []
-
-## Swan - The easiest way to embed banking features
- - [https://www.swan.io](https://www.swan.io)
- - date published: 2023-10-25T20:08:26.926477+00:00
- - user: None
- - tags: []
-
-## Show HN: Swift Mail. Fastmail's modern mail standard delivered natively on macOS
- - [https://www.swiftmail.io](https://www.swiftmail.io)
- - date published: 2024-02-20T17:18:21+00:00
- - user: None
- - tags: []
-
-## Latent Space | swyx | Substack
- - [https://lspace.swyx.io](https://lspace.swyx.io)
- - date published: 2023-10-25T20:08:37.542967+00:00
- - user: None
- - tags: []
-
-## swyx's site
- - [https://www.swyx.io](https://www.swyx.io)
- - date published: 2023-10-25T20:11:08.959268+00:00
- - user: None
- - tags: []
-
-## Synq | Deliver reliable models and metrics | Synq
- - [https://www.synq.io](https://www.synq.io)
- - date published: 2023-10-25T20:11:10.050394+00:00
- - user: None
- - tags: []
-
-## System and Service Manager
- - [https://systemd.io](https://systemd.io)
- - date published: 2023-11-21T07:48:30+00:00
- - user: rumpel
- - tags: ['linux', 'systemd', 'open source']
-
-## T2M.IO is a Branded Custom Domain - Powered by T2M URL Shortener | Branded short URLs, Custom Links & Link Management
- - [https://t2m.io](https://t2m.io)
- - date published: 2024-02-24T09:56:33.286556+00:00
- - user: None
- - tags: []
-
-## TACHYONS - Css Toolkit
- - [https://tachyons.io](https://tachyons.io)
- - date published: 2023-10-25T20:11:11.800274+00:00
  - user: None
  - tags: []
 

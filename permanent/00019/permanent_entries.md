@@ -1,3 +1,239 @@
+## FDIC: Federal Deposit Insurance Corporation
+ - [https://www.fdic.gov](https://www.fdic.gov)
+ - date published: 2023-10-25T19:21:19.392966+00:00
+ - user: None
+ - tags: []
+
+## Federal Register
+       :: 
+      Home - Wednesday, October 25th
+ - [https://www.federalregister.gov](https://www.federalregister.gov)
+ - date published: 2023-10-25T19:21:22.351422+00:00
+ - user: None
+ - tags: ['federal documents']
+
+## Federal Reserve Board - Home
+ - [https://www.federalreserve.gov](https://www.federalreserve.gov)
+ - date published: 2023-10-25T19:21:25.826382+00:00
+ - user: None
+ - tags: []
+
+## FEMA.gov
+ - [https://www.fema.gov](https://www.fema.gov)
+ - date published: 2023-10-25T19:21:33.460504+00:00
+ - user: None
+ - tags: []
+
+## United States Department of the Treasury Financial Crimes Enforcement Network | FinCEN.gov
+ - [https://www.fincen.gov](https://www.fincen.gov)
+ - date published: 2023-10-25T19:21:37.717717+00:00
+ - user: None
+ - tags: []
+
+## Florida Department of Health
+ - [https://www.floridahealth.gov](https://www.floridahealth.gov)
+ - date published: 2023-10-25T19:21:43.397423+00:00
+ - user: None
+ - tags: []
+
+## Newsroom
+ - [https://news.fnal.gov](https://news.fnal.gov)
+ - date published: 2023-10-25T19:21:48.635515+00:00
+ - user: None
+ - tags: []
+
+## FOIAonline :: Decommissioned
+ - [https://foiaonline.gov](https://foiaonline.gov)
+ - date published: 2023-10-25T19:21:50.776367+00:00
+ - user: None
+ - tags: []
+
+## Federal Trade Commission | Protecting America's Consumers
+ - [https://www.ftc.gov](https://www.ftc.gov)
+ - date published: 2023-10-25T19:21:54.571295+00:00
+ - user: None
+ - tags: []
+
+## U.S. Government Accountability Office (U.S. GAO)
+ - [https://www.gao.gov](https://www.gao.gov)
+ - date published: 2023-11-27T15:17:10+00:00
+ - user: rumpel
+ - tags: []
+
+## GovInfo
+ - [https://www.govinfo.gov](https://www.govinfo.gov)
+ - date published: 2024-04-05T18:55:44.538688+00:00
+ - user: None
+ - tags: []
+
+## GPS: The Global Positioning System
+ - [https://www.gps.gov](https://www.gps.gov)
+ - date published: 2023-10-25T19:21:57.216221+00:00
+ - user: None
+ - tags: []
+
+## Real Property Disposition
+ - [https://disposal.gsa.gov](https://disposal.gsa.gov)
+ - date published: 2023-10-25T19:22:04.790414+00:00
+ - user: None
+ - tags: []
+
+## Home | GSA
+ - [https://www.gsa.gov](https://www.gsa.gov)
+ - date published: 2023-10-25T19:22:12.181356+00:00
+ - user: None
+ - tags: []
+
+## ASPR | Homepage
+ - [https://aspr.hhs.gov](https://aspr.hhs.gov)
+ - date published: 2023-10-25T19:22:17.545788+00:00
+ - user: None
+ - tags: []
+
+## HIV and AIDS Resources | HIV.gov
+ - [https://www.hiv.gov](https://www.hiv.gov)
+ - date published: 2023-10-25T19:22:20.398924+00:00
+ - user: None
+ - tags: []
+
+## House Judiciary Committee Republicans |
+ - [https://judiciary.house.gov](https://judiciary.house.gov)
+ - date published: 2023-10-25T19:22:23.234554+00:00
+ - user: None
+ - tags: []
+
+## Congressman Ro Khanna |
+ - [https://khanna.house.gov](https://khanna.house.gov)
+ - date published: 2023-10-25T19:22:25.514559+00:00
+ - user: None
+ - tags: []
+
+## House Committee on Oversight and Reform
+ - [https://oversightdemocrats.house.gov](https://oversightdemocrats.house.gov)
+ - date published: 2023-11-28T18:21:20.465630+00:00
+ - user: None
+ - tags: []
+
+## United States House Committee on Oversight and Accountability -
+ - [https://oversight.house.gov](https://oversight.house.gov)
+ - date published: 2023-10-25T19:22:27.238039+00:00
+ - user: None
+ - tags: []
+
+## House of Representatives Committee on Rules
+ - [https://rules.house.gov](https://rules.house.gov)
+ - date published: 2023-11-14T19:59:35.907324+00:00
+ - user: None
+ - tags: []
+
+## Select Committee on the CCP
+ - [https://selectcommitteeontheccp.house.gov](https://selectcommitteeontheccp.house.gov)
+ - date published: 2023-11-27T12:22:06+00:00
+ - user: rumpel
+ - tags: ['america', 'china']
+
+## Internet Crime Complaint Center(IC3) | Home Page
+ - [https://www.ic3.gov](https://www.ic3.gov)
+ - date published: 2023-10-25T11:20:35.175486+00:00
+ - user: None
+ - tags: ['internet crime complaint', 'fbi']
+
+## None
+ - [https://ilga.gov](https://ilga.gov)
+ - date published: 2024-01-09T03:30:40.556731+00:00
+ - user: None
+ - tags: []
+
+## Attention Required! | Cloudflare
+ - [https://events.in.gov](https://events.in.gov)
+ - date published: 2023-10-25T19:22:27.576944+00:00
+ - user: None
+ - tags: []
+
+## Internal Revenue Service | An official website of the United States government
+ - [https://www.irs.gov](https://www.irs.gov)
+ - date published: 2023-10-25T19:22:30.651654+00:00
+ - user: None
+ - tags: []
+
+## ERROR: The request could not be satisfied
+ - [https://www.jobcorps.gov](https://www.jobcorps.gov)
+ - date published: 2023-10-25T19:22:31.466539+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://oig.justice.gov](https://oig.justice.gov)
+ - date published: 2024-01-09T03:30:58.690663+00:00
+ - user: None
+ - tags: []
+
+## Department of Justice |  Homepage | United States Department of Justice
+ - [https://www.justice.gov](https://www.justice.gov)
+ - date published: 2023-10-25T19:22:33.543403+00:00
+ - user: None
+ - tags: ['u.s. department of justice']
+
+## Home - Governor of the State of Kansas
+ - [https://governor.kansas.gov](https://governor.kansas.gov)
+ - date published: 2024-03-20T00:43:01.854430+00:00
+ - user: None
+ - tags: []
+
+## Kansas Department of Commerce
+ - [https://www.kansascommerce.gov](https://www.kansascommerce.gov)
+ - date published: 2023-10-25T19:22:38.214597+00:00
+ - user: None
+ - tags: []
+
+## Los Angeles County District Attorney's Office
+ - [https://da.lacounty.gov](https://da.lacounty.gov)
+ - date published: 2023-10-25T19:22:42.028055+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://locator.lacounty.gov](https://locator.lacounty.gov)
+ - date published: 2024-02-08T22:53:06.181643+00:00
+ - user: None
+ - tags: []
+
+## LANL Research Library
+ - [https://lib-www.lanl.gov](https://lib-www.lanl.gov)
+ - date published: 2023-10-25T19:22:43.331654+00:00
+ - user: None
+ - tags: []
+
+## Off-Site Source Recovery Program (OSRP) | Sealed Sources Recovery | Los Alamos National Lab |
+ - [https://osrp.lanl.gov](https://osrp.lanl.gov)
+ - date published: 2023-10-25T19:22:45.215778+00:00
+ - user: None
+ - tags: []
+
+## ALS - Advanced Light Source
+ - [https://als.lbl.gov](https://als.lbl.gov)
+ - date published: 2023-10-25T19:22:49.152965+00:00
+ - user: None
+ - tags: []
+
+## Berkeley Lab EH&S – Environment, Health & Safety
+ - [https://ehs.lbl.gov](https://ehs.lbl.gov)
+ - date published: 2024-03-31T08:22:37.104232+00:00
+ - user: None
+ - tags: []
+
+## Home – Berkeley Lab News Center
+ - [https://newscenter.lbl.gov](https://newscenter.lbl.gov)
+ - date published: 2023-10-25T19:22:51.346360+00:00
+ - user: None
+ - tags: []
+
+## Lawrence Livermore National Laboratory
+ - [https://www.llnl.gov](https://www.llnl.gov)
+ - date published: 2023-12-21T08:15:12.940138+00:00
+ - user: None
+ - tags: []
+
 ## Library of Congress Blogs | Blogs from the Library of Congress
  - [https://blogs.loc.gov](https://blogs.loc.gov)
  - date published: 2023-10-25T19:22:55.285850+00:00
@@ -247,7 +483,7 @@
 ## Home
  - [https://www.ninds.nih.gov](https://www.ninds.nih.gov)
  - date published: 2024-04-19T00:00:00+00:00
- - user: None
+ - user: rumpel
  - tags: []
 
 ## NIST Computer Security Resource Center | CSRC
@@ -2075,7 +2311,7 @@
  - [https://joph.in](https://joph.in)
  - date published: 2024-02-26T08:25:34.178010+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Jophin Mathai – Personal Site
  - [http://www.joph.in](http://www.joph.in)
@@ -4303,6 +4539,12 @@
  - user: None
  - tags: []
 
+## Customer.io Platform: Automation, Data, Content Creation
+ - [http://customer.io](http://customer.io)
+ - date published: 2024-04-18T17:46:34.534528+00:00
+ - user: None
+ - tags: ['proprietary', 'monetization']
+
 ## CutiePi tablet - Raspberry Pi, Untethered
  - [https://cutiepi.io](https://cutiepi.io)
  - date published: 2023-10-25T08:33:13.077918+00:00
@@ -4793,11 +5035,17 @@
  - [https://www.fastdownload.io](https://www.fastdownload.io)
  - date published: 2024-04-17T21:03:16+00:00
  - user: None
- - tags: []
+ - tags: ['video downloader']
 
 ## Favoree - Discover quality channels from YouTube
  - [https://www.favoree.io](https://www.favoree.io)
  - date published: 2023-10-25T19:42:22.471809+00:00
+ - user: None
+ - tags: []
+
+## Collect Audio and Video testimonials
+ - [https://www.feedspace.io](https://www.feedspace.io)
+ - date published: 2024-04-09T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4823,7 +5071,7 @@
  - [https://blog.filippo.io](https://blog.filippo.io)
  - date published: 2023-10-25T19:42:34.529201+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Filippo Valsorda
  - [https://filippo.io](https://filippo.io)
@@ -5411,7 +5659,7 @@
  - [https://arogozhnikov.github.io](https://arogozhnikov.github.io)
  - date published: 2023-10-25T19:44:05.292498+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Artsy Engineering
  - [https://artsy.github.io](https://artsy.github.io)
@@ -5753,252 +6001,6 @@ through Composable Diffusion
 ## CoTracker: It is Better to Track Together
  - [https://co-tracker.github.io](https://co-tracker.github.io)
  - date published: 2023-10-25T19:44:42.584023+00:00
- - user: None
- - tags: []
-
-## The Crescendo Multi-Turn LLM Jailbreak Attack
- - [https://crescendo-the-multiturn-jailbreak.github.io](https://crescendo-the-multiturn-jailbreak.github.io)
- - date published: 2024-04-04T21:37:00+00:00
- - user: None
- - tags: []
-
-## https://crowsonkb.github.io
- - [https://crowsonkb.github.io](https://crowsonkb.github.io)
- - date published: 2024-01-23T20:07:38.415806+00:00
- - user: None
- - tags: []
-
-## CTurt
- - [https://cturt.github.io](https://cturt.github.io)
- - date published: 2023-10-25T19:44:52.061450+00:00
- - user: None
- - tags: []
-
-## \\cube0x0\
- - [https://cube0x0.github.io](https://cube0x0.github.io)
- - date published: 2023-10-25T19:44:52.992321+00:00
- - user: None
- - tags: []
-
-## CudaText - Home
- - [https://cudatext.github.io](https://cudatext.github.io)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Wherein The Chicken
- - [https://cushychicken.github.io](https://cushychicken.github.io)
- - date published: 2023-10-25T19:44:53.696442+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://daduckmsft.github.io](https://daduckmsft.github.io)
- - date published: 2023-12-31T17:16:39.038947+00:00
- - user: None
- - tags: []
-
-## Daniel Geng
- - [https://dangeng.github.io](https://dangeng.github.io)
- - date published: 2023-12-01T10:46:14.463296+00:00
- - user: None
- - tags: []
-
-## Daniel Mejía Raigosa
- - [https://daniel-m.github.io](https://daniel-m.github.io)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Find HN Candidates
- - [https://darighost.github.io](https://darighost.github.io)
- - date published: 2024-01-02T19:34:22.824261+00:00
- - user: None
- - tags: []
-
-## DatenLord
- - [https://datenlord.github.io](https://datenlord.github.io)
- - date published: 2023-10-30T20:37:53.162449+00:00
- - user: None
- - tags: []
-
-## David Turner says…
- - [https://davecturner.github.io](https://davecturner.github.io)
- - date published: 2023-12-25T20:07:12.208878+00:00
- - user: None
- - tags: []
-
-## David Laprade | Blog
- - [https://davidlaprade.github.io](https://davidlaprade.github.io)
- - date published: 2023-10-25T19:44:54.555331+00:00
- - user: None
- - tags: []
-
-## David Lattimore’s open-source projects
- - [https://davidlattimore.github.io](https://davidlattimore.github.io)
- - date published: 2023-10-25T19:44:55.086464+00:00
- - user: None
- - tags: []
-
-## Posts | David Muller
- - [https://davidmuller.github.io](https://davidmuller.github.io)
- - date published: 2023-10-25T19:44:55.761535+00:00
- - user: None
- - tags: []
-
-## DBOS | A Database-Oriented Operating System
- - [https://dbos-project.github.io](https://dbos-project.github.io)
- - date published: 2023-10-25T19:44:56.758451+00:00
- - user: None
- - tags: []
-
-## DeepSeek Coder
- - [https://deepseekcoder.github.io](https://deepseekcoder.github.io)
- - date published: 2024-01-31T22:10:32.880677+00:00
- - user: None
- - tags: []
-
-## https://dendiz.github.io
- - [https://dendiz.github.io](https://dendiz.github.io)
- - date published: 2024-01-07T04:15:57.292799+00:00
- - user: None
- - tags: []
-
-## Depth Anything
- - [https://depth-anything.github.io](https://depth-anything.github.io)
- - date published: 2024-02-13T20:51:43.263199+00:00
- - user: None
- - tags: []
-
-## Development containers
- - [https://devcontainers.github.io](https://devcontainers.github.io)
- - date published: 2024-02-25T19:46:07.849487+00:00
- - user: None
- - tags: []
-
-## Martijn de Vos
- - [https://devos50.github.io](https://devos50.github.io)
- - date published: 2023-10-25T19:44:58.236322+00:00
- - user: None
- - tags: []
-
-## Moving rocks around | Diego Quintana's blog
- - [https://diegoquintanav.github.io](https://diegoquintanav.github.io)
- - date published: 2023-12-30T15:36:36.876681+00:00
- - user: None
- - tags: ['personal']
-
-## TokenFlow: Consistent Diffusion Features for Consistent Video Editing
- - [https://diffusion-tokenflow.github.io](https://diffusion-tokenflow.github.io)
- - date published: 2023-10-25T19:44:59.018850+00:00
- - user: None
- - tags: []
-
-## Dependency Injection in Scala using MacWire · DI in Scala: guide
- - [https://di-in-scala.github.io](https://di-in-scala.github.io)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dillo Website
- - [https://dillo-browser.github.io](https://dillo-browser.github.io)
- - date published: 2024-01-02T21:55:08+00:00
- - user: None
- - tags: []
-
-## Dean Markwick | Personal website for Dean Markwick. If you like stats, sports and rambling, you’ve come to the right place. All rights reserved.
- - [https://dm13450.github.io](https://dm13450.github.io)
- - date published: 2023-10-25T19:45:00.641641+00:00
- - user: None
- - tags: []
-
-## dmicz devblog
- - [https://dmicz.github.io](https://dmicz.github.io)
- - date published: 2024-01-13T01:12:24.497491+00:00
- - user: None
- - tags: []
-
-## None
- - [https://dmytry.github.io](https://dmytry.github.io)
- - date published: 2024-02-05T20:54:57.738988+00:00
- - user: None
- - tags: []
-
-## Dennis Muensterer
- - [https://dnnsmnstrr.github.io](https://dnnsmnstrr.github.io)
- - date published: 2024-01-04T08:12:41.237152+00:00
- - user: None
- - tags: []
-
-## Personal Website of Dorian Quelle
- - [https://dorianquelle.github.io](https://dorianquelle.github.io)
- - date published: 2023-11-26T19:21:24.102261+00:00
- - user: None
- - tags: []
-
-## SystemDotRun – Dorian Cussen's Super Blog
- - [https://doridori.github.io](https://doridori.github.io)
- - date published: 2023-10-25T19:45:02.011170+00:00
- - user: None
- - tags: []
-
-## Jinbo Xing
- - [https://doubiiu.github.io](https://doubiiu.github.io)
- - date published: 2023-12-16T17:16:57.452135+00:00
- - user: None
- - tags: []
-
-## https://dougsillars.github.io
- - [https://dougsillars.github.io](https://dougsillars.github.io)
- - date published: 2017-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dragon863 - Home
- - [https://dragon863.github.io](https://dragon863.github.io)
- - date published: 2023-10-25T19:45:02.523780+00:00
- - user: None
- - tags: []
-
-## DreamFusion: Text-to-3D using 2D Diffusion
- - [https://dreamfusion3d.github.io](https://dreamfusion3d.github.io)
- - date published: 2023-10-25T19:45:03.516388+00:00
- - user: None
- - tags: []
-
-## DreamFusion: Text-to-3D using 2D Diffusion
- - [https://dreamfusionpaper.github.io](https://dreamfusionpaper.github.io)
- - date published: 2023-10-25T19:45:04.399489+00:00
- - user: None
- - tags: []
-
-## Personal Github Page
- - [https://drhyperion451.github.io](https://drhyperion451.github.io)
- - date published: 2023-12-05T23:27:28.485029+00:00
- - user: None
- - tags: []
-
-## Dr. Tomás Aragón - Population Health Blog
- - [https://drtomasaragon.github.io](https://drtomasaragon.github.io)
- - date published: 2023-10-25T19:45:05.485671+00:00
- - user: None
- - tags: []
-
-## None
- - [http://dsego.github.io](http://dsego.github.io)
- - date published: 2023-10-25T19:45:10.046408+00:00
- - user: None
- - tags: []
-
-## DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion
- - [https://ds-fusion.github.io](https://ds-fusion.github.io)
- - date published: 2023-10-25T19:45:06.310901+00:00
- - user: None
- - tags: []
-
-## Redirecting to https://dsharpplus.github.io/DSharpPlus/
- - [https://dsharpplus.github.io](https://dsharpplus.github.io)
- - date published: 2024-02-08T16:44:06.170475+00:00
  - user: None
  - tags: []
 

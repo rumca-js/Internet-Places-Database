@@ -1,3 +1,9 @@
+## Mapa da Água: O que sai da sua torneira?
+ - [https://mapadaagua.reporterbrasil.org.br](https://mapadaagua.reporterbrasil.org.br)
+ - date published: 2023-12-11T19:32:28.275445+00:00
+ - user: None
+ - tags: []
+
 ## Narcogarimpos – Especial – Narcogarimpos
  - [https://narcogarimpos.reporterbrasil.org.br](https://narcogarimpos.reporterbrasil.org.br)
  - date published: 2023-12-11T19:34:35.359408+00:00
@@ -77,14 +83,14 @@
  - tags: []
 
 ## Svarichevsky Mikhail
- - [http://3.14.by](http://3.14.by)
- - date published: 2024-02-26T13:20:29.028020+00:00
+ - [https://3.14.by](https://3.14.by)
+ - date published: 2024-01-16T06:21:34.423774+00:00
  - user: None
  - tags: []
 
 ## Svarichevsky Mikhail
- - [https://3.14.by](https://3.14.by)
- - date published: 2024-01-16T06:21:34.423774+00:00
+ - [http://3.14.by](http://3.14.by)
+ - date published: 2024-02-26T13:20:29.028020+00:00
  - user: None
  - tags: []
 
@@ -689,14 +695,14 @@
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [https://jenniferashton.ca](https://jenniferashton.ca)
- - date published: 2023-12-20T19:14:23.669927+00:00
+ - [http://jenniferashton.ca](http://jenniferashton.ca)
+ - date published: 2023-12-25T04:56:31.047100+00:00
  - user: None
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [http://jenniferashton.ca](http://jenniferashton.ca)
- - date published: 2023-12-25T04:56:31.047100+00:00
+ - [https://jenniferashton.ca](https://jenniferashton.ca)
+ - date published: 2023-12-20T19:14:23.669927+00:00
  - user: None
  - tags: ['personal']
 
@@ -1067,14 +1073,14 @@
  - tags: ['personal']
 
 ## Scott Redmond
- - [https://www.scottredmond.ca](https://www.scottredmond.ca)
- - date published: 2024-01-23T03:27:52.039443+00:00
+ - [http://www.scottredmond.ca](http://www.scottredmond.ca)
+ - date published: 2024-04-03T12:49:31.889702+00:00
  - user: None
  - tags: ['personal']
 
 ## Scott Redmond
- - [http://www.scottredmond.ca](http://www.scottredmond.ca)
- - date published: 2024-04-03T12:49:31.889702+00:00
+ - [https://www.scottredmond.ca](https://www.scottredmond.ca)
+ - date published: 2024-01-23T03:27:52.039443+00:00
  - user: None
  - tags: ['personal']
 
@@ -1398,16 +1404,16 @@
  - tags: ['personal']
 
 ## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
- - [https://wingfelder.ca](https://wingfelder.ca)
- - date published: 2024-01-11T13:28:46.842673+00:00
- - user: None
- - tags: []
-
-## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
  - [http://wingfelder.ca](http://wingfelder.ca)
  - date published: 2024-04-03T12:43:01.979772+00:00
  - user: None
  - tags: ['personal']
+
+## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
+ - [https://wingfelder.ca](https://wingfelder.ca)
+ - date published: 2024-01-11T13:28:46.842673+00:00
+ - user: None
+ - tags: []
 
 ## Women of Influence –
  - [https://www.womenofinfluence.ca](https://www.womenofinfluence.ca)
@@ -1695,7 +1701,7 @@
  - [https://ben.bolte.cc](https://ben.bolte.cc)
  - date published: 2024-03-26T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## NVIDIA Deep Imagination Research
  - [https://deepimagination.cc](https://deepimagination.cc)
@@ -2023,16 +2029,16 @@
  - tags: ['personal']
 
 ## Gregors Blog
- - [http://www.blog-gregor.ch](http://www.blog-gregor.ch)
- - date published: 2024-03-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gregors Blog
  - [https://www.blog-gregor.ch](https://www.blog-gregor.ch)
  - date published: 2023-12-27T23:55:45.885819+00:00
  - user: None
  - tags: ['personal']
+
+## Gregors Blog
+ - [http://www.blog-gregor.ch](http://www.blog-gregor.ch)
+ - date published: 2024-03-09T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## CernVM
  - [https://cernvm.cern.ch](https://cernvm.cern.ch)
@@ -2527,6 +2533,12 @@
  - tags: []
 
 ## Rocket.Chat: Communications Platform You Can Fully Trust
+ - [http://rocket.chat](http://rocket.chat)
+ - date published: 2024-04-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Rocket.Chat: Communications Platform You Can Fully Trust
  - [https://rocket.chat](https://rocket.chat)
  - date published: 2024-04-08T00:00:00+00:00
  - user: None
@@ -2923,14 +2935,14 @@
  - tags: []
 
 ## Aeon | a world of ideas
- - [https://aeon.co](https://aeon.co)
- - date published: 2023-10-25T12:16:27.025696+00:00
+ - [http://aeon.co](http://aeon.co)
+ - date published: 2024-02-25T14:29:33.578105+00:00
  - user: None
  - tags: []
 
 ## Aeon | a world of ideas
- - [http://aeon.co](http://aeon.co)
- - date published: 2024-02-25T14:29:33.578105+00:00
+ - [https://aeon.co](https://aeon.co)
+ - date published: 2023-10-25T12:16:27.025696+00:00
  - user: None
  - tags: []
 
@@ -3097,14 +3109,14 @@
  - tags: []
 
 ## Cassidy's blog
- - [https://blog.cassidoo.co](https://blog.cassidoo.co)
- - date published: 2024-01-15T00:55:12.125155+00:00
+ - [http://blog.cassidoo.co](http://blog.cassidoo.co)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Cassidy's blog
- - [http://blog.cassidoo.co](http://blog.cassidoo.co)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://blog.cassidoo.co](https://blog.cassidoo.co)
+ - date published: 2024-01-15T00:55:12.125155+00:00
  - user: None
  - tags: []
 
@@ -3324,6 +3336,12 @@
  - user: None
  - tags: []
 
+## Home - ereaderclub.co
+ - [https://ereaderclub.co](https://ereaderclub.co)
+ - date published: 2018-02-25T17:58:42+00:00
+ - user: rumpel
+ - tags: ['reader', 'ebook']
+
 ## What are countries neighbouring the Baltic Sea doing to counteract the energy crisis? - EU Reporter
  - [https://www.eureporter.co](https://www.eureporter.co)
  - date published: 2024-01-16T00:00:00+00:00
@@ -3529,14 +3547,14 @@
  - tags: []
 
 ## Jonny Miller
- - [http://www.jonnymiller.co](http://www.jonnymiller.co)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://www.jonnymiller.co](https://www.jonnymiller.co)
+ - date published: 2024-01-08T15:36:50.624044+00:00
  - user: None
  - tags: []
 
 ## Jonny Miller
- - [https://www.jonnymiller.co](https://www.jonnymiller.co)
- - date published: 2024-01-08T15:36:50.624044+00:00
+ - [http://www.jonnymiller.co](http://www.jonnymiller.co)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3580,7 +3598,7 @@
  - [https://klangmag.co](https://klangmag.co)
  - date published: 2023-10-25T11:13:33.897425+00:00
  - user: None
- - tags: []
+ - tags: ['sound magazine', 'hobby', 'interesting']
 
 ## Learn With Me – A Resource for Mindful Living
  - [https://learnwithme.co](https://learnwithme.co)
@@ -3637,14 +3655,14 @@
  - tags: []
 
 ## lqb2 & co. — Home
- - [https://lqb2.co](https://lqb2.co)
- - date published: 2024-01-15T13:59:10.818821+00:00
+ - [http://lqb2.co](http://lqb2.co)
+ - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## lqb2 & co. — Home
- - [http://lqb2.co](http://lqb2.co)
- - date published: 2022-01-01T00:00:00+00:00
+ - [https://lqb2.co](https://lqb2.co)
+ - date published: 2024-01-15T13:59:10.818821+00:00
  - user: None
  - tags: []
 
@@ -3769,14 +3787,14 @@
  - tags: []
 
 ## Nabeel S. Qureshi
- - [https://nabeelqu.co](https://nabeelqu.co)
- - date published: 2024-01-20T19:20:52.169397+00:00
+ - [http://nabeelqu.co](http://nabeelqu.co)
+ - date published: 2024-02-26T09:20:32.283903+00:00
  - user: None
  - tags: []
 
 ## Nabeel S. Qureshi
- - [http://nabeelqu.co](http://nabeelqu.co)
- - date published: 2024-02-26T09:20:32.283903+00:00
+ - [https://nabeelqu.co](https://nabeelqu.co)
+ - date published: 2024-01-20T19:20:52.169397+00:00
  - user: None
  - tags: []
 
@@ -4039,16 +4057,16 @@
  - tags: []
 
 ## Home
- - [http://shubhamjain.co](http://shubhamjain.co)
- - date published: 2024-02-26T12:57:53.139033+00:00
- - user: None
- - tags: []
-
-## Home
  - [https://shubhamjain.co](https://shubhamjain.co)
  - date published: 2023-10-25T09:07:56.781772+00:00
  - user: None
  - tags: ['personal']
+
+## Home
+ - [http://shubhamjain.co](http://shubhamjain.co)
+ - date published: 2024-02-26T12:57:53.139033+00:00
+ - user: None
+ - tags: []
 
 ## SCIENTIA
  - [https://skientia.co](https://skientia.co)
@@ -4574,6 +4592,12 @@
  - user: None
  - tags: []
 
+## I Code 4 Coffee
+ - [https://icode4.coffee](https://icode4.coffee)
+ - date published: 2024-04-18T15:00:28.441433+00:00
+ - user: None
+ - tags: ['tech', 'personal']
+
 ## Daniel Graziotin
  - [https://ineed.coffee](https://ineed.coffee)
  - date published: 2024-01-09T00:00:00+00:00
@@ -4867,6 +4891,12 @@
  - date published: 2023-10-25T12:27:01.181622+00:00
  - user: None
  - tags: []
+
+## 3DMark.com - Share and compare scores from UL Solutions' benchmarks
+ - [https://www.3dmark.com](https://www.3dmark.com)
+ - date published: 2024-04-18T11:15:21+00:00
+ - user: rumpel
+ - tags: ['pc benchmark']
 
 ## 3D Printing Industry-The Authority on 3D Printing & Additive Manufacturing
  - [https://3dprintingindustry.com](https://3dprintingindustry.com)
@@ -5258,15 +5288,15 @@
  - user: None
  - tags: ['personal']
 
-## None
- - [https://www.aaronsw.com](https://www.aaronsw.com)
- - date published: 2024-01-09T01:38:10.984994+00:00
- - user: None
- - tags: []
-
 ## Aaron Swartz
  - [http://www.aaronsw.com](http://www.aaronsw.com)
  - date published: 2009-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.aaronsw.com](https://www.aaronsw.com)
+ - date published: 2024-01-09T01:38:10.984994+00:00
  - user: None
  - tags: []
 
@@ -5774,15 +5804,15 @@
  - user: None
  - tags: []
 
-## Adafruit Industries – Makers, hackers, artists, designers and engineers!
- - [https://blog.adafruit.com](https://blog.adafruit.com)
- - date published: 2023-10-25T12:31:55.789084+00:00
- - user: None
- - tags: []
-
 ## Adafruit Industries - Makers, hackers, artists, designers and engineers!
  - [http://blog.adafruit.com](http://blog.adafruit.com)
  - date published: 2024-02-25T14:26:38.171328+00:00
+ - user: None
+ - tags: []
+
+## Adafruit Industries – Makers, hackers, artists, designers and engineers!
+ - [https://blog.adafruit.com](https://blog.adafruit.com)
+ - date published: 2023-10-25T12:31:55.789084+00:00
  - user: None
  - tags: []
 
@@ -5841,14 +5871,14 @@
  - tags: []
 
 ## Hi, I’m Adam - Adam J. Doolittle
- - [https://www.adamdoolittle.com](https://www.adamdoolittle.com)
- - date published: 2024-01-19T13:00:38.013071+00:00
+ - [http://www.adamdoolittle.com](http://www.adamdoolittle.com)
+ - date published: 2024-04-03T06:22:38.206834+00:00
  - user: None
  - tags: ['personal']
 
 ## Hi, I’m Adam - Adam J. Doolittle
- - [http://www.adamdoolittle.com](http://www.adamdoolittle.com)
- - date published: 2024-04-03T06:22:38.206834+00:00
+ - [https://www.adamdoolittle.com](https://www.adamdoolittle.com)
+ - date published: 2024-01-19T13:00:38.013071+00:00
  - user: None
  - tags: ['personal']
 
@@ -5971,36 +6001,6 @@
 ## Home - Addis Standard
  - [https://addisstandard.com](https://addisstandard.com)
  - date published: 2023-10-25T12:32:22.406834+00:00
- - user: None
- - tags: []
-
-## AddyOsmani.com
- - [https://addyosmani.com](https://addyosmani.com)
- - date published: 2023-10-25T12:32:27.930354+00:00
- - user: None
- - tags: ['personal']
-
-## Hi there! | Miko Ademagic
- - [https://miko.ademagic.com](https://miko.ademagic.com)
- - date published: 2024-01-15T06:17:51.993825+00:00
- - user: None
- - tags: []
-
-## AdGuard — World's most advanced adblocker!
- - [https://adguard.com](https://adguard.com)
- - date published: 2023-10-25T12:32:34.038564+00:00
- - user: None
- - tags: ['ad block']
-
-## AdGuard VPN for your privacy and security
- - [https://adguard-vpn.com](https://adguard-vpn.com)
- - date published: 2023-10-25T12:32:39.988761+00:00
- - user: None
- - tags: []
-
-## Show HN: ADHD STASH. A curated collection of ADHD friendly products and services
- - [https://www.adhdstash.com](https://www.adhdstash.com)
- - date published: 2024-03-14T17:13:32+00:00
  - user: None
  - tags: []
 
