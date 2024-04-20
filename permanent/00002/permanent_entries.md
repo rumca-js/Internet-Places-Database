@@ -1,9 +1,3 @@
-## AddyOsmani.com
- - [https://addyosmani.com](https://addyosmani.com)
- - date published: 2023-10-25T12:32:27.930354+00:00
- - user: None
- - tags: ['personal']
-
 ## Hi there! | Miko Ademagic
  - [https://miko.ademagic.com](https://miko.ademagic.com)
  - date published: 2024-01-15T06:17:51.993825+00:00
@@ -49,12 +43,6 @@
 ## Home | Adiuvo Engineering
  - [https://www.adiuvoengineering.com](https://www.adiuvoengineering.com)
  - date published: 2023-10-25T12:32:43.380851+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://app.adjust.com](https://app.adjust.com)
- - date published: 2023-12-18T17:19:03.571546+00:00
  - user: None
  - tags: []
 
@@ -171,12 +159,6 @@
  - date published: 2023-12-20T05:39:48.509303+00:00
  - user: None
  - tags: ['personal']
-
-## renegat0x0 site
- - [https://static.ads-twitter.com](https://static.ads-twitter.com)
- - date published: 2024-01-09T02:29:08.575202+00:00
- - user: None
- - tags: []
 
 ## Adult Swim
  - [https://www.adultswim.com](https://www.adultswim.com)
@@ -1208,7 +1190,7 @@
  - [https://alexharri.com](https://alexharri.com)
  - date published: 2023-10-25T12:38:01.183324+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Alex Hyett | Software Developer | YouTuber | Writer
  - [https://www.alexhyett.com](https://www.alexhyett.com)
@@ -1259,14 +1241,14 @@
  - tags: []
 
 ## Alex Eaton - Writer & Photographer
- - [https://www.alexreaton.com](https://www.alexreaton.com)
- - date published: 2024-02-09T00:12:37.874010+00:00
+ - [http://www.alexreaton.com](http://www.alexreaton.com)
+ - date published: 2024-04-03T06:26:38.936322+00:00
  - user: None
  - tags: ['personal']
 
 ## Alex Eaton - Writer & Photographer
- - [http://www.alexreaton.com](http://www.alexreaton.com)
- - date published: 2024-04-03T06:26:38.936322+00:00
+ - [https://www.alexreaton.com](https://www.alexreaton.com)
+ - date published: 2024-02-09T00:12:37.874010+00:00
  - user: None
  - tags: ['personal']
 
@@ -1372,12 +1354,6 @@
  - user: None
  - tags: []
 
-## renegat0x0 site
- - [https://s.click.aliexpress.com](https://s.click.aliexpress.com)
- - date published: 2024-03-03T11:31:32.180603+00:00
- - user: None
- - tags: []
-
 ## AliExpress – kupuj online produkty najwyższej jakości w niskich cenach prosto z Chin - AliExpress
  - [https://www.aliexpress.com](https://www.aliexpress.com)
  - date published: 2023-10-24T20:19:53.605037+00:00
@@ -1400,7 +1376,7 @@
  - [https://alinpanaitiu.com](https://alinpanaitiu.com)
  - date published: 2023-10-25T12:38:29.860110+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Notes and ramblings — Alin Panaitiu
  - [https://notes.alinpanaitiu.com](https://notes.alinpanaitiu.com)
@@ -2075,14 +2051,14 @@
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
- - date published: 2024-01-09T02:29:24.245847+00:00
+ - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
+ - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
- - date published: 2018-01-01T00:00:00+00:00
+ - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
+ - date published: 2024-01-09T02:29:24.245847+00:00
  - user: None
  - tags: []
 
@@ -2260,6 +2236,12 @@
  - user: None
  - tags: ['personal']
 
+## Amy Mantis
+ - [https://www.amymantis.com](https://www.amymantis.com)
+ - date published: 2024-04-19T14:24:59.844970+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Diseñadora de negocio digital - Ana Cirujano | Diseño web
  - [https://anacirujano.com](https://anacirujano.com)
  - date published: 2024-04-03T12:44:55.936284+00:00
@@ -2351,16 +2333,16 @@
  - tags: []
 
 ## AndersenSilva.com
- - [http://andersensilva.com](http://andersensilva.com)
- - date published: 2022-05-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## AndersenSilva.com
  - [https://andersensilva.com](https://andersensilva.com)
  - date published: 2023-12-27T01:10:57.904709+00:00
  - user: None
  - tags: ['personal']
+
+## AndersenSilva.com
+ - [http://andersensilva.com](http://andersensilva.com)
+ - date published: 2022-05-05T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## ShunyaEkam.com
  - [https://andersentobias.com](https://andersentobias.com)
@@ -2549,16 +2531,16 @@
  - tags: []
 
 ## Andrew Roussak website
- - [https://www.andrew-roussak.com](https://www.andrew-roussak.com)
- - date published: 2024-01-27T17:59:38.551672+00:00
- - user: None
- - tags: []
-
-## Andrew Roussak website
  - [http://www.andrew-roussak.com](http://www.andrew-roussak.com)
  - date published: 2024-04-03T06:23:08.552087+00:00
  - user: None
  - tags: ['personal']
+
+## Andrew Roussak website
+ - [https://www.andrew-roussak.com](https://www.andrew-roussak.com)
+ - date published: 2024-01-27T17:59:38.551672+00:00
+ - user: None
+ - tags: []
 
 ## Andrew Skotzko - Product leadership advisor - Make Things That Matter
  - [https://andrewskotzko.com](https://andrewskotzko.com)
@@ -2770,15 +2752,15 @@
  - user: None
  - tags: ['personal']
 
-## Home
- - [http://www.animatedknots.com](http://www.animatedknots.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Animated Knots by Grog | Learn how to tie knots with step-by-step animation
  - [https://www.animatedknots.com](https://www.animatedknots.com)
  - date published: 2023-10-25T12:41:38.429834+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [http://www.animatedknots.com](http://www.animatedknots.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3485,14 +3467,14 @@
  - tags: []
 
 ## * arachnoid.com
- - [https://arachnoid.com](https://arachnoid.com)
- - date published: 2023-10-25T12:43:42.377144+00:00
+ - [http://arachnoid.com](http://arachnoid.com)
+ - date published: 2006-10-19T00:00:00+00:00
  - user: None
  - tags: []
 
 ## * arachnoid.com
- - [http://arachnoid.com](http://arachnoid.com)
- - date published: 2006-10-19T00:00:00+00:00
+ - [https://arachnoid.com](https://arachnoid.com)
+ - date published: 2023-10-25T12:43:42.377144+00:00
  - user: None
  - tags: []
 
@@ -3869,14 +3851,14 @@
  - tags: ['semiconductors']
 
 ## Armantas Zvirgzdas
- - [https://armantas.com](https://armantas.com)
- - date published: 2024-01-07T11:03:45.565786+00:00
+ - [http://armantas.com](http://armantas.com)
+ - date published: 2024-02-10T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Armantas Zvirgzdas
- - [http://armantas.com](http://armantas.com)
- - date published: 2024-02-10T00:00:00+00:00
+ - [https://armantas.com](https://armantas.com)
+ - date published: 2024-01-07T11:03:45.565786+00:00
  - user: None
  - tags: []
 
@@ -4709,14 +4691,14 @@
  - tags: []
 
 ## Dystalgia - DYSTALGIA : Aurel Manea photography & visuals
- - [http://aurelm.com](http://aurelm.com)
- - date published: 2024-02-25T19:34:30.262488+00:00
+ - [https://aurelm.com](https://aurelm.com)
+ - date published: 2024-01-09T01:36:57.652800+00:00
  - user: None
  - tags: []
 
 ## Dystalgia - DYSTALGIA : Aurel Manea photography & visuals
- - [https://aurelm.com](https://aurelm.com)
- - date published: 2024-01-09T01:36:57.652800+00:00
+ - [http://aurelm.com](http://aurelm.com)
+ - date published: 2024-02-25T19:34:30.262488+00:00
  - user: None
  - tags: []
 
@@ -5159,14 +5141,14 @@
  - tags: []
 
 ## azdailysun.com | Serving Flagstaff and Northern Arizona
- - [https://azdailysun.com](https://azdailysun.com)
- - date published: 2023-12-25T13:49:43.018410+00:00
+ - [http://azdailysun.com](http://azdailysun.com)
+ - date published: 2024-02-19T00:00:00+00:00
  - user: None
  - tags: []
 
 ## azdailysun.com | Serving Flagstaff and Northern Arizona
- - [http://azdailysun.com](http://azdailysun.com)
- - date published: 2024-02-19T00:00:00+00:00
+ - [https://azdailysun.com](https://azdailysun.com)
+ - date published: 2023-12-25T13:49:43.018410+00:00
  - user: None
  - tags: []
 
@@ -5885,14 +5867,14 @@
  - tags: []
 
 ## BeAble2
- - [http://beable2.com](http://beable2.com)
- - date published: 2024-04-03T06:23:37.542805+00:00
+ - [https://beable2.com](https://beable2.com)
+ - date published: 2023-12-26T06:32:14.747261+00:00
  - user: None
  - tags: ['personal']
 
 ## BeAble2
- - [https://beable2.com](https://beable2.com)
- - date published: 2023-12-26T06:32:14.747261+00:00
+ - [http://beable2.com](http://beable2.com)
+ - date published: 2024-04-03T06:23:37.542805+00:00
  - user: None
  - tags: ['personal']
 
@@ -5995,6 +5977,24 @@
 ## 5to9
  - [https://5to9.beehiiv.com](https://5to9.beehiiv.com)
  - date published: 2024-01-09T02:30:13.006207+00:00
+ - user: None
+ - tags: []
+
+## Ben's Bites
+ - [https://bensbites.beehiiv.com](https://bensbites.beehiiv.com)
+ - date published: 2023-10-25T12:55:28.977663+00:00
+ - user: None
+ - tags: []
+
+## But What For?
+ - [https://butwhatfor.beehiiv.com](https://butwhatfor.beehiiv.com)
+ - date published: 2023-10-25T12:55:34.496023+00:00
+ - user: None
+ - tags: []
+
+## Easily Amused
+ - [https://easilyamused.beehiiv.com](https://easilyamused.beehiiv.com)
+ - date published: 2023-10-25T12:55:37.997353+00:00
  - user: None
  - tags: []
 

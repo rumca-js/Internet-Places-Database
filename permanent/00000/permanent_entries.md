@@ -1768,6 +1768,12 @@
  - user: None
  - tags: ['artificial intelligence', 'voice assistant']
 
+## Vapi
+ - [https://vapi.ai](https://vapi.ai)
+ - date published: 2024-04-19T04:41:28+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'voice assistant']
+
 ## VectorArt.ai - Unlimited AI Generated Vector Images
  - [https://vectorart.ai](https://vectorart.ai)
  - date published: 2023-10-25T11:44:51.285364+00:00
@@ -1935,12 +1941,6 @@
  - date published: 2024-04-11T19:49:17+00:00
  - user: rumpel
  - tags: ['web spam']
-
-## renegat0x0 site
- - [https://tru.am](https://tru.am)
- - date published: 2024-01-09T02:23:27.268293+00:00
- - user: None
- - tags: []
 
 ## Homepage - Citroën Angola
  - [https://www.citroen.co.ao](https://www.citroen.co.ao)
@@ -3730,6 +3730,12 @@
  - user: None
  - tags: ['personal']
 
+## Nathan.Woodburn/
+ - [https://nathan.woodburn.au](https://nathan.woodburn.au)
+ - date published: 2024-04-19T02:17:47.194615+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Latest breaking news headlines | 7NEWS.com.au
  - [https://7news.com.au](https://7news.com.au)
  - date published: 2024-02-25T00:00:00+00:00
@@ -3941,16 +3947,16 @@
  - tags: []
 
 ## Home
- - [https://kerrygrace.com.au](https://kerrygrace.com.au)
- - date published: 2024-01-09T21:36:51.535431+00:00
- - user: None
- - tags: []
-
-## Home
  - [http://kerrygrace.com.au](http://kerrygrace.com.au)
  - date published: 2024-04-03T06:27:02.750662+00:00
  - user: None
  - tags: ['personal']
+
+## Home
+ - [https://kerrygrace.com.au](https://kerrygrace.com.au)
+ - date published: 2024-01-09T21:36:51.535431+00:00
+ - user: None
+ - tags: []
 
 ## Kotaku Australia | See Games Differently
  - [https://www.kotaku.com.au](https://www.kotaku.com.au)
@@ -4003,12 +4009,6 @@
 ## Optus - Mobile Phones, nbn, Home Internet, Entertainment and Sport
  - [https://www.optus.com.au](https://www.optus.com.au)
  - date published: 2023-10-25T11:55:30.728146+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://ww38.parasail.com.au](https://ww38.parasail.com.au)
- - date published: 2024-02-08T17:33:30.474818+00:00
  - user: None
  - tags: []
 
@@ -4577,16 +4577,16 @@
  - tags: ['music band']
 
 ## Home – Zvi Band | Zvi Band
- - [http://zvi.band](http://zvi.band)
- - date published: 2023-12-22T22:31:24.610066+00:00
- - user: None
- - tags: ['personal']
-
-## Home – Zvi Band | Zvi Band
  - [https://zvi.band](https://zvi.band)
  - date published: 2017-09-27T10:32:32+00:00
  - user: None
  - tags: []
+
+## Home – Zvi Band | Zvi Band
+ - [http://zvi.band](http://zvi.band)
+ - date published: 2023-12-22T22:31:24.610066+00:00
+ - user: None
+ - tags: ['personal']
 
 ## https://saucecode.bar
  - [https://saucecode.bar](https://saucecode.bar)

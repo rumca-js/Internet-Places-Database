@@ -1,63 +1,3 @@
-## Silent Lunch, The David Zweig Newsletter | Substack
- - [https://www.silentlunch.net](https://www.silentlunch.net)
- - date published: 2023-10-25T20:37:30.571541+00:00
- - user: None
- - tags: []
-
-## Simia
- - [https://simia.net](https://simia.net)
- - date published: 2024-01-09T03:36:14.548312+00:00
- - user: None
- - tags: []
-
-## Simon Duff – Big Data Specialist
- - [https://simonduff.net](https://simonduff.net)
- - date published: 2023-12-02T10:26:37.230407+00:00
- - user: None
- - tags: ['personal']
-
-## Simon Ong | Architect – Architect. Filipino. Awesome.
- - [https://simonong.net](https://simonong.net)
- - date published: 2023-12-03T23:31:04.542735+00:00
- - user: None
- - tags: ['personal']
-
-## Mastodon
- - [https://fedi.simonwillison.net](https://fedi.simonwillison.net)
- - date published: 2024-03-08T22:47:20.591022+00:00
- - user: None
- - tags: ['mastodon']
-
-## Simon Willison’s Weblog
- - [https://simonwillison.net](https://simonwillison.net)
- - date published: 2023-10-25T08:41:17.781731+00:00
- - user: None
- - tags: ['personal']
-
-## Simon Willison: TIL
- - [https://til.simonwillison.net](https://til.simonwillison.net)
- - date published: 2023-10-25T09:23:30.769942+00:00
- - user: None
- - tags: ['personal']
-
-## tools
- - [https://tools.simonwillison.net](https://tools.simonwillison.net)
- - date published: 2024-03-30T20:59:32.558643+00:00
- - user: None
- - tags: []
-
-## Simson Garfinkel
- - [https://simson.net](https://simson.net)
- - date published: 2023-10-25T08:54:01.938085+00:00
- - user: None
- - tags: ['personal']
-
-## Sinfest
- - [http://www.sinfest.net](http://www.sinfest.net)
- - date published: 2024-03-24T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Home | Skalpel
  - [https://skalpel.net](https://skalpel.net)
  - date published: 2023-11-13T10:24:37.435322+00:00
@@ -100,7 +40,7 @@
  - user: None
  - tags: []
 
-## None
+## Snapdrop
  - [https://snapdrop.net](https://snapdrop.net)
  - date published: 2024-02-17T19:05:28+00:00
  - user: rumpel
@@ -304,12 +244,6 @@
  - user: None
  - tags: []
 
-## renegat0x0 site
- - [https://a.spolecznosci.net](https://a.spolecznosci.net)
- - date published: 2024-01-09T03:36:23.568106+00:00
- - user: None
- - tags: []
-
 ## Sprite Database
  - [https://spritedatabase.net](https://spritedatabase.net)
  - date published: 2024-04-08T18:00:25+00:00
@@ -370,7 +304,7 @@
  - user: None
  - tags: []
 
-## None
+## cyber_Folks - logowanie do panelu administratora
  - [https://www.staregierki.net](https://www.staregierki.net)
  - date published: 2024-01-09T03:36:44.091476+00:00
  - user: None
@@ -916,15 +850,15 @@
  - user: rumpel
  - tags: ['file send']
 
-## Transputer.net
- - [https://transputer.net](https://transputer.net)
- - date published: 2024-01-07T14:41:29+00:00
- - user: None
- - tags: []
-
 ## Welcome to transputer.net
  - [http://transputer.net](http://transputer.net)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Transputer.net
+ - [https://transputer.net](https://transputer.net)
+ - date published: 2024-01-07T14:41:29+00:00
  - user: None
  - tags: []
 
@@ -1693,18 +1627,6 @@
 ## Pretendo Network
  - [https://pretendo.network](https://pretendo.network)
  - date published: 2023-10-25T20:42:02.363661+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://a.pub.network](https://a.pub.network)
- - date published: 2024-01-09T03:37:28.087712+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://d.pub.network](https://d.pub.network)
- - date published: 2024-01-09T03:37:28.666003+00:00
  - user: None
  - tags: []
 
@@ -4488,16 +4410,16 @@ marginalia.nu
  - tags: []
 
 ## AlxQ
- - [http://alxq.org](http://alxq.org)
- - date published: 2024-02-11T13:39:19.641138+00:00
- - user: None
- - tags: []
-
-## AlxQ
  - [https://alxq.org](https://alxq.org)
  - date published: 2024-02-15T22:12:28.937827+00:00
  - user: None
  - tags: ['demoscene']
+
+## AlxQ
+ - [http://alxq.org](http://alxq.org)
+ - date published: 2024-02-11T13:39:19.641138+00:00
+ - user: None
+ - tags: []
 
 ## Alys Stephens Center - Home
  - [https://www.alysstephens.org](https://www.alysstephens.org)
@@ -4836,16 +4758,16 @@ marginalia.nu
  - tags: []
 
 ## Antipope!
- - [http://www.antipope.org](http://www.antipope.org)
- - date published: 2024-04-03T06:39:03.448310+00:00
- - user: None
- - tags: ['personal']
-
-## Antipope!
  - [https://www.antipope.org](https://www.antipope.org)
  - date published: 2023-10-25T20:57:17.170460+00:00
  - user: None
  - tags: []
+
+## Antipope!
+ - [http://www.antipope.org](http://www.antipope.org)
+ - date published: 2024-04-03T06:39:03.448310+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Anti-Slavery International | Fighting for Freedom from Slavery
  - [https://www.antislavery.org](https://www.antislavery.org)
@@ -5225,17 +5147,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Back2Roots
- - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
- - date published: 2023-11-02T10:36:12+00:00
- - user: rumpel
- - tags: []
-
 ## Wayback Machine
  - [https://web.archive.org](https://web.archive.org)
  - date published: 2023-10-25T09:29:18.969501+00:00
  - user: None
  - tags: ['internet archive']
+
+## Back2Roots
+ - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
+ - date published: 2023-11-02T10:36:12+00:00
+ - user: rumpel
+ - tags: []
 
 ## Archive-It - 
   
@@ -5791,7 +5713,7 @@ marginalia.nu
  - [https://bearssl.org](https://bearssl.org)
  - date published: 2023-10-25T21:01:39.618430+00:00
  - user: None
- - tags: []
+ - tags: ['open source', 'ssl', 'tls']
 
 ## Beast Philanthropy Official Site - Help End Hunger
  - [https://www.beastphilanthropy.org](https://www.beastphilanthropy.org)
@@ -6002,4 +5924,82 @@ marginalia.nu
  - date published: 2023-10-25T08:41:07.091610+00:00
  - user: None
  - tags: ['code repository']
+
+## Bitcoin - Open source P2P money
+ - [https://bitcoin.org](https://bitcoin.org)
+ - date published: 2023-10-29T15:13:34.530679+00:00
+ - user: None
+ - tags: ['crypto']
+
+## BitFellas: Main
+ - [http://www.bitfellas.org](http://www.bitfellas.org)
+ - date published: 2024-02-15T22:11:40.414749+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## The bitsavers main page
+ - [https://bitsavers.org](https://bitsavers.org)
+ - date published: 2023-10-25T21:02:29.463650+00:00
+ - user: None
+ - tags: []
+
+## The bitsavers main page
+ - [https://www.bitsavers.org](https://www.bitsavers.org)
+ - date published: 2024-01-09T03:38:25.148934+00:00
+ - user: None
+ - tags: []
+
+## bitsgalore.org
+ - [https://www.bitsgalore.org](https://www.bitsgalore.org)
+ - date published: 2023-10-25T21:02:36.496344+00:00
+ - user: None
+ - tags: []
+
+## Bitsplitting.org | Chasing the impossible with Daniel Jalkut
+ - [https://bitsplitting.org](https://bitsplitting.org)
+ - date published: 2023-10-25T21:02:44.465812+00:00
+ - user: None
+ - tags: []
+
+## https://bitvm.org
+ - [https://bitvm.org](https://bitvm.org)
+ - date published: 2023-10-25T21:02:45.523247+00:00
+ - user: None
+ - tags: []
+
+## BarryK's Home — All categories
+ - [https://bkhome.org](https://bkhome.org)
+ - date published: 2023-10-25T21:02:47.631425+00:00
+ - user: None
+ - tags: []
+
+## Brooklyn Public Library
+ - [https://www.bklynlibrary.org](https://www.bklynlibrary.org)
+ - date published: 2023-10-25T21:02:53.786581+00:00
+ - user: None
+ - tags: []
+
+## Developer Blog - code.blender.org
+ - [https://code.blender.org](https://code.blender.org)
+ - date published: 2023-10-25T21:02:57.177492+00:00
+ - user: None
+ - tags: []
+
+## Developer Forum
+ - [https://devtalk.blender.org](https://devtalk.blender.org)
+ - date published: 2023-10-25T21:02:59.659020+00:00
+ - user: None
+ - tags: []
+
+## Blender Projects
+ - [https://projects.blender.org](https://projects.blender.org)
+ - date published: 2023-10-25T21:03:01.728947+00:00
+ - user: None
+ - tags: []
+
+## Blender Studio
+ - [https://studio.blender.org](https://studio.blender.org)
+ - date published: 2024-02-27T11:28:37.893684+00:00
+ - user: None
+ - tags: []
 

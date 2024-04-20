@@ -1,9 +1,3 @@
-## Fight © Trolls
- - [https://fightcopyrighttrolls.com](https://fightcopyrighttrolls.com)
- - date published: 2024-01-23T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Figma: The Collaborative Interface Design Tool
  - [https://figma.com](https://figma.com)
  - date published: 2023-10-25T14:30:07.343705+00:00
@@ -269,16 +263,16 @@
  - tags: []
 
 ## Nick Fitzgerald
- - [http://fitzgeraldnick.com](http://fitzgeraldnick.com)
- - date published: 2024-02-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nick Fitzgerald
  - [https://fitzgeraldnick.com](https://fitzgeraldnick.com)
  - date published: 2023-10-25T09:20:31.002593+00:00
  - user: None
  - tags: ['personal']
+
+## Nick Fitzgerald
+ - [http://fitzgeraldnick.com](http://fitzgeraldnick.com)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Five Books - The Best Books Recommended by Experts
  - [https://fivebooks.com](https://fivebooks.com)
@@ -707,16 +701,16 @@
  - tags: ['scarlett', 'audio equipment']
 
 ## - Justin Foeppel
- - [http://foeppel.com](http://foeppel.com)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## - Justin Foeppel
  - [https://foeppel.com](https://foeppel.com)
  - date published: 2024-01-02T18:30:14.463579+00:00
  - user: None
  - tags: ['personal']
+
+## - Justin Foeppel
+ - [http://foeppel.com](http://foeppel.com)
+ - date published: 2024-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Fogknife
  - [https://fogknife.com](https://fogknife.com)
@@ -1570,17 +1564,17 @@
  - user: None
  - tags: []
 
-## Freethink - Move the World
- - [https://www.freethink.com](https://www.freethink.com)
- - date published: 2023-10-25T14:38:09.460936+00:00
- - user: None
- - tags: []
-
 ## Move the World
  - [http://www.freethink.com](http://www.freethink.com)
  - date published: 2024-04-17T14:35:36.205414+00:00
  - user: None
  - tags: ['science news']
+
+## Freethink - Move the World
+ - [https://www.freethink.com](https://www.freethink.com)
+ - date published: 2023-10-25T14:38:09.460936+00:00
+ - user: None
+ - tags: []
 
 ## Supply Chain, Logistics, and Trucking News & Data - FreightWaves
  - [https://www.freightwaves.com](https://www.freightwaves.com)
@@ -1892,7 +1886,7 @@
  - [https://www.futilitycloset.com](https://www.futilitycloset.com)
  - date published: 2023-11-10T09:07:41.167861+00:00
  - user: None
- - tags: []
+ - tags: ['literature', 'history', 'art', 'funny', 'language']
 
 ## Future | Understand the Future and How to Build It
  - [https://future.com](https://future.com)
@@ -2086,6 +2080,12 @@
  - user: None
  - tags: []
 
+## Gajus blog
+ - [https://gajus.com](https://gajus.com)
+ - date published: 2024-04-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## The Galactic Senate - Index page
  - [https://www.galacticsenate.com](https://www.galacticsenate.com)
  - date published: 2024-02-15T22:31:54.736521+00:00
@@ -2237,14 +2237,14 @@
  - tags: []
 
 ## Leaguepedia | League of Legends Esports Wiki
- - [http://lol.gamepedia.com](http://lol.gamepedia.com)
- - date published: 2024-03-04T03:54:23.281525+00:00
+ - [https://lol.gamepedia.com](https://lol.gamepedia.com)
+ - date published: 2023-11-02T10:40:59.813503+00:00
  - user: None
  - tags: []
 
 ## Leaguepedia | League of Legends Esports Wiki
- - [https://lol.gamepedia.com](https://lol.gamepedia.com)
- - date published: 2023-11-02T10:40:59.813503+00:00
+ - [http://lol.gamepedia.com](http://lol.gamepedia.com)
+ - date published: 2024-03-04T03:54:23.281525+00:00
  - user: None
  - tags: []
 
@@ -3342,15 +3342,15 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['personal']
 
-## Gilles Snowcat - 雪猫ジル
- - [http://gilles-snowcat.com](http://gilles-snowcat.com)
- - date published: 2024-04-03T06:28:55.795515+00:00
- - user: None
- - tags: ['personal']
-
 ## Coming Soon
  - [https://gilles-snowcat.com](https://gilles-snowcat.com)
  - date published: 2024-01-09T00:12:02.177651+00:00
+ - user: None
+ - tags: ['personal']
+
+## Gilles Snowcat - 雪猫ジル
+ - [http://gilles-snowcat.com](http://gilles-snowcat.com)
+ - date published: 2024-04-03T06:28:55.795515+00:00
  - user: None
  - tags: ['personal']
 
@@ -3385,16 +3385,16 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Gioel Gio – Creative action researcher
- - [http://gioelgio.com](http://gioelgio.com)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gioel Gio – Creative action researcher
  - [https://gioelgio.com](https://gioelgio.com)
  - date published: 2024-01-15T08:33:12.975028+00:00
  - user: None
  - tags: ['personal']
+
+## Gioel Gio – Creative action researcher
+ - [http://gioelgio.com](http://gioelgio.com)
+ - date published: 2024-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Hi, I’m Giorgio. | Giorgio Pretto - UX Designer
  - [https://www.giorgiopretto.com](https://www.giorgiopretto.com)
@@ -3630,17 +3630,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
-## The DevSecOps Platform
- - [http://gitlab.com](http://gitlab.com)
- - date published: 2024-02-26T15:11:59.290515+00:00
- - user: None
- - tags: []
-
 ## The DevSecOps Platform | GitLab
  - [https://gitlab.com](https://gitlab.com)
  - date published: 2023-10-25T14:45:19.469977+00:00
  - user: None
  - tags: ['code repository']
+
+## The DevSecOps Platform
+ - [http://gitlab.com](http://gitlab.com)
+ - date published: 2024-02-26T15:11:59.290515+00:00
+ - user: None
+ - tags: []
 
 ## GitLab System Status
  - [https://status.gitlab.com](https://status.gitlab.com)
@@ -4116,12 +4116,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
-## renegat0x0 site
- - [https://ads.google.com](https://ads.google.com)
- - date published: 2024-01-09T02:37:37.140211+00:00
- - user: None
- - tags: []
-
 ## Google for Developers - from AI and Cloud to Mobile and Web
  - [https://apis.google.com](https://apis.google.com)
  - date published: 2023-12-11T16:51:37.859216+00:00
@@ -4380,17 +4374,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
-## Google
- - [https://www.google.com](https://www.google.com)
- - date published: 2023-10-25T08:28:06.744876+00:00
- - user: None
- - tags: ['gatekeeper', 'search engine']
-
 ## Google flights
  - [https://www.google.com/travel/flights](https://www.google.com/travel/flights)
  - date published: 2024-01-02T07:35:30+00:00
  - user: rumpel
  - tags: []
+
+## Google
+ - [https://www.google.com](https://www.google.com)
+ - date published: 2023-10-25T08:28:06.744876+00:00
+ - user: None
+ - tags: ['gatekeeper', 'search engine']
 
 ## Hosted Libraries  |  Google for Developers
  - [https://ajax.googleapis.com](https://ajax.googleapis.com)
@@ -5092,14 +5086,14 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Mike Cardwell - Grepular
- - [http://www.grepular.com](http://www.grepular.com)
- - date published: 2024-02-25T20:34:46.182983+00:00
+ - [https://www.grepular.com](https://www.grepular.com)
+ - date published: 2024-01-14T20:30:07.543187+00:00
  - user: None
  - tags: []
 
 ## Mike Cardwell - Grepular
- - [https://www.grepular.com](https://www.grepular.com)
- - date published: 2024-01-14T20:30:07.543187+00:00
+ - [http://www.grepular.com](http://www.grepular.com)
+ - date published: 2024-02-25T20:34:46.182983+00:00
  - user: None
  - tags: []
 
@@ -5440,14 +5434,14 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## NSB Home page
- - [http://www.guppylake.com](http://www.guppylake.com)
- - date published: 2023-01-01T00:00:00+00:00
+ - [https://www.guppylake.com](https://www.guppylake.com)
+ - date published: 2023-12-22T07:17:34.852159+00:00
  - user: None
  - tags: []
 
 ## NSB Home page
- - [https://www.guppylake.com](https://www.guppylake.com)
- - date published: 2023-12-22T07:17:34.852159+00:00
+ - [http://www.guppylake.com](http://www.guppylake.com)
+ - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5914,14 +5908,14 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
- - [https://www.hanselman.com](https://www.hanselman.com)
- - date published: 2023-10-25T09:20:35.173651+00:00
+ - [http://www.hanselman.com](http://www.hanselman.com)
+ - date published: 2024-03-07T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
 ## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
- - [http://www.hanselman.com](http://www.hanselman.com)
- - date published: 2024-03-07T00:00:00+00:00
+ - [https://www.hanselman.com](https://www.hanselman.com)
+ - date published: 2023-10-25T09:20:35.173651+00:00
  - user: None
  - tags: ['personal']
 
@@ -6000,6 +5994,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## HardwareTeams.com - The #1 job board and blog for electrical and computer engineers.
  - [https://hardwareteams.com](https://hardwareteams.com)
  - date published: 2024-02-25T20:37:58.224668+00:00
+ - user: None
+ - tags: []
+
+## https://hardwary.com
+ - [https://hardwary.com](https://hardwary.com)
+ - date published: 2024-01-09T02:37:53.571458+00:00
  - user: None
  - tags: []
 

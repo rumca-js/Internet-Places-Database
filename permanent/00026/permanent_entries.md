@@ -1,57 +1,3 @@
-## PBS: Public Broadcasting Service
- - [https://www.pbs.org](https://www.pbs.org)
- - date published: 2023-10-25T10:24:08.998645+00:00
- - user: None
- - tags: []
-
-## PBS North Carolina
- - [https://www.pbsnc.org](https://www.pbsnc.org)
- - date published: 2023-11-19T19:54:33.463328+00:00
- - user: None
- - tags: []
-
-## PCG, A Family of Better Random Number Generators | PCG, A Better Random Number Generator
- - [https://www.pcg-random.org](https://www.pcg-random.org)
- - date published: 2023-10-25T21:56:20.672047+00:00
- - user: None
- - tags: []
-
-## PCjs Machines
- - [https://www.pcjs.org](https://www.pcjs.org)
- - date published: 2023-10-25T21:56:26.849904+00:00
- - user: None
- - tags: []
-
-## Physicians Committee for Responsible Medicine
- - [https://www.pcrm.org](https://www.pcrm.org)
- - date published: 2024-03-30T10:22:24.297095+00:00
- - user: None
- - tags: []
-
-## PDF Association – Home of the worldwide PDF technical community
- - [https://pdfa.org](https://pdfa.org)
- - date published: 2024-02-26T09:45:19.418694+00:00
- - user: None
- - tags: []
-
-## PDF Association – Home of the worldwide PDF technical community
- - [https://www.pdfa.org](https://www.pdfa.org)
- - date published: 2023-10-25T21:56:35.310113+00:00
- - user: None
- - tags: []
-
-## pdfgrep
- - [https://pdfgrep.org](https://pdfgrep.org)
- - date published: 2023-10-25T21:56:36.063095+00:00
- - user: None
- - tags: []
-
-## PDFTool: secure and seamless online PDF modifications
- - [https://www.pdftool.org](https://www.pdftool.org)
- - date published: 2023-10-25T21:56:37.161684+00:00
- - user: None
- - tags: []
-
 ## Public Domain Operating System
  - [https://www.pdos.org](https://www.pdos.org)
  - date published: 2023-10-25T21:56:39.058423+00:00
@@ -323,14 +269,14 @@
  - tags: []
 
 ## Pikchr: Documentation
- - [https://pikchr.org](https://pikchr.org)
- - date published: 2023-10-25T21:57:44.338166+00:00
+ - [http://pikchr.org](http://pikchr.org)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Pikchr: Documentation
- - [http://pikchr.org](http://pikchr.org)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://pikchr.org](https://pikchr.org)
+ - date published: 2023-10-25T21:57:44.338166+00:00
  - user: None
  - tags: []
 
@@ -1504,15 +1450,15 @@
  - user: None
  - tags: []
 
-## Home - Responsible Statecraft
- - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
- - date published: 2023-10-25T22:03:17.450852+00:00
- - user: None
- - tags: []
-
 ## Responsible Statecraft
  - [http://responsiblestatecraft.org](http://responsiblestatecraft.org)
  - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Responsible Statecraft
+ - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
+ - date published: 2023-10-25T22:03:17.450852+00:00
  - user: None
  - tags: []
 
@@ -2301,6 +2247,12 @@
  - date published: 2023-11-16T00:00:00+00:00
  - user: None
  - tags: []
+
+## SeaMonkey All-in-One Internet Application Suite
+ - [https://www.seamonkey-project.org](https://www.seamonkey-project.org)
+ - date published: 2024-04-19T00:55:11+00:00
+ - user: None
+ - tags: ['open source', 'e-mail', 'application suite', 'rss client', 'irc client']
 
 ## Sean Mullan
  - [https://seanjmullan.org](https://seanjmullan.org)
@@ -3097,16 +3049,16 @@
  - tags: []
 
 ## SQLite Home Page
- - [https://www.sqlite.org](https://www.sqlite.org)
- - date published: 2023-10-25T08:30:44.493063+00:00
- - user: None
- - tags: ['open source']
-
-## SQLite Home Page
  - [http://www.sqlite.org](http://www.sqlite.org)
  - date published: 2024-01-30T00:00:00+00:00
  - user: None
  - tags: []
+
+## SQLite Home Page
+ - [https://www.sqlite.org](https://www.sqlite.org)
+ - date published: 2023-10-25T08:30:44.493063+00:00
+ - user: None
+ - tags: ['open source']
 
 ## sqlpkg - SQLite Package Manager and Registry
  - [https://sqlpkg.org](https://sqlpkg.org)
@@ -3165,6 +3117,12 @@
 ## The Stanford Review
  - [https://stanfordreview.org](https://stanfordreview.org)
  - date published: 2023-11-17T20:05:24.177437+00:00
+ - user: None
+ - tags: []
+
+## VoRS: Vo(IP) Simple Alternative to Mumble
+ - [http://www.vors.stargrave.org](http://www.vors.stargrave.org)
+ - date published: 2024-04-19T05:16:37+00:00
  - user: None
  - tags: []
 
@@ -3547,14 +3505,14 @@
  - tags: ['taxes']
 
 ## tbray.org
- - [http://www.tbray.org](http://www.tbray.org)
- - date published: 2024-02-26T15:02:42.572365+00:00
+ - [https://www.tbray.org](https://www.tbray.org)
+ - date published: 2023-10-25T22:12:33.470881+00:00
  - user: None
  - tags: []
 
 ## tbray.org
- - [https://www.tbray.org](https://www.tbray.org)
- - date published: 2023-10-25T22:12:33.470881+00:00
+ - [http://www.tbray.org](http://www.tbray.org)
+ - date published: 2024-02-26T15:02:42.572365+00:00
  - user: None
  - tags: []
 
@@ -3925,14 +3883,14 @@
  - tags: []
 
 ## The Motte
- - [http://www.themotte.org](http://www.themotte.org)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://www.themotte.org](https://www.themotte.org)
+ - date published: 2024-01-15T10:02:38.428422+00:00
  - user: None
  - tags: []
 
 ## The Motte
- - [https://www.themotte.org](https://www.themotte.org)
- - date published: 2024-01-15T10:02:38.428422+00:00
+ - [http://www.themotte.org](http://www.themotte.org)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4461,12 +4419,6 @@
 ## Truthout | Fearless Independent Journalism
  - [https://truthout.org](https://truthout.org)
  - date published: 2023-10-25T22:15:42.168983+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://tsoding.org](https://tsoding.org)
- - date published: 2024-01-09T03:42:47.080474+00:00
  - user: None
  - tags: []
 
@@ -5181,14 +5133,14 @@
  - tags: ['music band']
 
 ## viXra.org open e-Print archive
- - [https://vixra.org](https://vixra.org)
- - date published: 2023-10-25T22:17:44.457600+00:00
+ - [http://vixra.org](http://vixra.org)
+ - date published: 2019-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## viXra.org open e-Print archive
- - [http://vixra.org](http://vixra.org)
- - date published: 2019-01-01T00:00:00+00:00
+ - [https://vixra.org](https://vixra.org)
+ - date published: 2023-10-25T22:17:44.457600+00:00
  - user: None
  - tags: []
 
@@ -5708,6 +5660,12 @@
  - user: None
  - tags: []
 
+## Wikifier
+ - [https://wikifier.org](https://wikifier.org)
+ - date published: 2024-04-19T17:39:12.949899+00:00
+ - user: None
+ - tags: []
+
 ## WikiIndex
  - [https://wikiindex.org](https://wikiindex.org)
  - date published: 2023-10-25T22:20:32.639179+00:00
@@ -5769,16 +5727,16 @@
  - tags: []
 
 ## Wikipedia, the free encyclopedia
- - [https://en.wikipedia.org](https://en.wikipedia.org)
- - date published: 2023-10-25T09:28:43.251880+00:00
- - user: None
- - tags: ['demoscene']
-
-## Wikipedia, the free encyclopedia
  - [http://en.wikipedia.org](http://en.wikipedia.org)
  - date published: 2024-02-26T14:33:11.388403+00:00
  - user: None
  - tags: []
+
+## Wikipedia, the free encyclopedia
+ - [https://en.wikipedia.org](https://en.wikipedia.org)
+ - date published: 2023-10-25T09:28:43.251880+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Wikipédia, l'encyclopédie libre
  - [https://fr.wikipedia.org](https://fr.wikipedia.org)
@@ -6007,4 +5965,46 @@
  - date published: 2023-12-08T13:17:28+00:00
  - user: rumpel
  - tags: ['cms', 'wordpress']
+
+## Blog Tool, Publishing Platform, and CMS - WordPress.org
+ - [https://www.wordpress.org](https://www.wordpress.org)
+ - date published: 2024-01-09T03:43:14.112422+00:00
+ - user: None
+ - tags: ['open source', 'cms']
+
+## Emergency Workplace Organizing Committee
+ - [https://workerorganizing.org](https://workerorganizing.org)
+ - date published: 2023-10-25T22:21:54.504677+00:00
+ - user: None
+ - tags: []
+
+## World Bank Open Data
+ - [https://data.worldbank.org](https://data.worldbank.org)
+ - date published: 2024-03-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## World Bank Group - International Development, Poverty, & Sustainability
+ - [https://www.worldbank.org](https://www.worldbank.org)
+ - date published: 2023-10-25T22:22:01.340001+00:00
+ - user: None
+ - tags: []
+
+## World BEYOND War - World BEYOND War
+ - [https://worldbeyondwar.org](https://worldbeyondwar.org)
+ - date published: 2023-10-25T22:22:10.341829+00:00
+ - user: None
+ - tags: []
+
+## For every human
+ - [https://worldcoin.org](https://worldcoin.org)
+ - date published: 2023-10-25T22:22:11.918693+00:00
+ - user: None
+ - tags: []
+
+## Worldcon
+ - [https://www.worldcon.org](https://www.worldcon.org)
+ - date published: 2024-01-23T15:48:44+00:00
+ - user: None
+ - tags: ['fantasy', 'science-fiction']
 

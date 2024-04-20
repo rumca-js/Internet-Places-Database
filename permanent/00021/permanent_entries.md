@@ -1,63 +1,3 @@
-## XL: An Extensible Programming Language
- - [https://xlr.sourceforge.io](https://xlr.sourceforge.io)
- - date published: 2024-02-21T12:39:12+00:00
- - user: None
- - tags: []
-
-## SŌZU - HTTP Reverse Proxy in Rust for Immutable Infrastructures
- - [https://www.sozu.io](https://www.sozu.io)
- - date published: 2023-10-25T20:07:20.588505+00:00
- - user: None
- - tags: []
-
-## Spacelift: The Most Flexible IaC Management Platform
- - [https://spacelift.io](https://spacelift.io)
- - date published: 2023-10-25T20:07:25.497473+00:00
- - user: None
- - tags: []
-
-## SpaceTraders API
- - [https://spacetraders.io](https://spacetraders.io)
- - date published: 2023-10-25T20:07:26.291150+00:00
- - user: None
- - tags: []
-
-## Spack - Spack
- - [https://spack.io](https://spack.io)
- - date published: 2023-10-25T20:07:27.164756+00:00
- - user: None
- - tags: []
-
-## Advanced NLP with spaCy · A free online course
- - [https://course.spacy.io](https://course.spacy.io)
- - date published: 2023-10-25T20:07:33.542479+00:00
- - user: None
- - tags: []
-
-## https://sprocketfox.io
- - [https://sprocketfox.io](https://sprocketfox.io)
- - date published: 2023-12-29T07:20:04.383650+00:00
- - user: None
- - tags: []
-
-## SQLite Cloud
- - [https://blog.sqlitecloud.io](https://blog.sqlitecloud.io)
- - date published: 2023-10-25T20:07:34.803434+00:00
- - user: None
- - tags: []
-
-## SQLite Cloud Documentation
- - [https://docs.sqlitecloud.io](https://docs.sqlitecloud.io)
- - date published: 2024-03-05T16:11:00.223448+00:00
- - user: None
- - tags: []
-
-## Show HN: Astro App
- - [https://astro.sshh.io](https://astro.sshh.io)
- - date published: 2024-03-04T15:24:35+00:00
- - user: None
- - tags: []
-
 ## Let's Encrypt Status
  - [https://letsencrypt.status.io](https://letsencrypt.status.io)
  - date published: 2023-10-25T20:07:35.624064+00:00
@@ -485,15 +425,15 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
-## Software Innovation Lab - Tweag
- - [https://www.tweag.io](https://www.tweag.io)
- - date published: 2023-10-25T20:12:02.408852+00:00
- - user: None
- - tags: []
-
 ## Software Innovation Lab
  - [http://www.tweag.io](http://www.tweag.io)
  - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Software Innovation Lab - Tweag
+ - [https://www.tweag.io](https://www.tweag.io)
+ - date published: 2023-10-25T20:12:02.408852+00:00
  - user: None
  - tags: []
 
@@ -926,14 +866,14 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: []
 
 ## LITCAVE
- - [http://litcave.rudi.ir](http://litcave.rudi.ir)
- - date published: 2024-01-20T22:40:49.049038+00:00
+ - [https://litcave.rudi.ir](https://litcave.rudi.ir)
+ - date published: 2024-01-20T22:40:50.165298+00:00
  - user: None
  - tags: []
 
 ## LITCAVE
- - [https://litcave.rudi.ir](https://litcave.rudi.ir)
- - date published: 2024-01-20T22:40:50.165298+00:00
+ - [http://litcave.rudi.ir](http://litcave.rudi.ir)
+ - date published: 2024-01-20T22:40:49.049038+00:00
  - user: None
  - tags: []
 
@@ -1343,7 +1283,7 @@ End-to-end typesafe APIs made easy. | tRPC
  - [https://www.danielediminica.it](https://www.danielediminica.it)
  - date published: 2024-01-14T17:11:51.209804+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Davide Quaranta
  - [https://davquar.it](https://davquar.it)
@@ -1471,11 +1411,17 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
+## Videoteca di Tele Kenobit
+ - [https://videoteca.kenobit.it](https://videoteca.kenobit.it)
+ - date published: 2024-04-19T13:04:48+00:00
+ - user: rumpel
+ - tags: []
+
 ## Loris Cro's Personal Website
  - [https://kristoff.it](https://kristoff.it)
  - date published: 2023-10-25T20:15:11.394567+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Let's Block It! :: letsblock.it
  - [https://letsblock.it](https://letsblock.it)
@@ -1879,15 +1825,15 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
-## News on Japan, Business News, Opinion, Sports, Entertainment and More
- - [http://www.japantimes.co.jp](http://www.japantimes.co.jp)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
 ## The Japan Times - News On Japan, Business News, Opinion, Sports, Entertainment And More
  - [https://www.japantimes.co.jp](https://www.japantimes.co.jp)
  - date published: 2023-10-25T10:41:22.679546+00:00
+ - user: None
+ - tags: []
+
+## News on Japan, Business News, Opinion, Sports, Entertainment and More
+ - [http://www.japantimes.co.jp](http://www.japantimes.co.jp)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2575,12 +2521,6 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: ['chiptune', 'audio news', 'audio eqipment', 'keygen']
 
-## renegat0x0 site
- - [https://www.c-r.link](https://www.c-r.link)
- - date published: 2024-02-24T14:39:38.678105+00:00
- - user: None
- - tags: []
-
 ## Free Video Hosting Made Easy - Dubz Platform
  - [https://dubz.link](https://dubz.link)
  - date published: 2023-11-05T07:07:53.519389+00:00
@@ -2719,17 +2659,17 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
-## None
- - [https://www.vvna.live](https://www.vvna.live)
- - date published: 2024-01-07T08:44:46.606393+00:00
- - user: None
- - tags: []
-
 ## Tomatoes on a Vine
  - [http://www.vvna.live](http://www.vvna.live)
  - date published: 2024-04-03T06:31:52.939646+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [https://www.vvna.live](https://www.vvna.live)
+ - date published: 2024-01-07T08:44:46.606393+00:00
+ - user: None
+ - tags: []
 
 ## win32 - Main Index
  - [https://win32subsystem.live](https://win32subsystem.live)
@@ -3734,14 +3674,14 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: []
 
 ## FeedPress
- - [https://feedpress.me](https://feedpress.me)
- - date published: 2024-02-25T20:19:45.730277+00:00
+ - [http://feedpress.me](http://feedpress.me)
+ - date published: 2024-02-26T13:00:22.007137+00:00
  - user: None
  - tags: []
 
 ## FeedPress
- - [http://feedpress.me](http://feedpress.me)
- - date published: 2024-02-26T13:00:22.007137+00:00
+ - [https://feedpress.me](https://feedpress.me)
+ - date published: 2024-02-25T20:19:45.730277+00:00
  - user: None
  - tags: []
 
@@ -4154,15 +4094,15 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: ['personal']
 
-## Manoj Ranaweera – The man who built Manchester’s Tech Startup Ecosystem
- - [http://manojranaweera.me](http://manojranaweera.me)
- - date published: 2024-04-03T12:42:38.568400+00:00
- - user: None
- - tags: ['personal']
-
 ## Manoj Ranaweera – The man who built Manchester's Tech Startup Ecosystem
  - [https://manojranaweera.me](https://manojranaweera.me)
  - date published: 2024-01-07T22:19:45.375154+00:00
+ - user: None
+ - tags: ['personal']
+
+## Manoj Ranaweera – The man who built Manchester’s Tech Startup Ecosystem
+ - [http://manojranaweera.me](http://manojranaweera.me)
+ - date published: 2024-04-03T12:42:38.568400+00:00
  - user: None
  - tags: ['personal']
 
@@ -4278,7 +4218,7 @@ End-to-end typesafe APIs made easy. | tRPC
  - [https://muhammadraza.me](https://muhammadraza.me)
  - date published: 2023-10-25T20:20:43.774048+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## মুরাদুল ইসলাম
  - [https://muradulislam.me](https://muradulislam.me)
@@ -4343,6 +4283,12 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Nick's Blog – Projects in Math, Science and Programming
  - [https://nickmcd.me](https://nickmcd.me)
  - date published: 2023-12-30T15:38:19.710290+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nic Lake
+ - [https://niclake.me](https://niclake.me)
+ - date published: 2024-04-20T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
@@ -4556,17 +4502,17 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: ['personal']
 
-## Proton — Privacy by default
- - [https://proton.me](https://proton.me)
- - date published: 2023-10-25T08:25:39.070341+00:00
- - user: None
- - tags: ['email server', 'vpn service', 'privacy']
-
 ## Proton: Privacy by default
  - [http://proton.me](http://proton.me)
  - date published: 2024-02-26T13:55:55.575306+00:00
  - user: None
  - tags: []
+
+## Proton — Privacy by default
+ - [https://proton.me](https://proton.me)
+ - date published: 2023-10-25T08:25:39.070341+00:00
+ - user: None
+ - tags: ['email server', 'vpn service', 'privacy']
 
 ## Rauno Freiberg
  - [https://rauno.me](https://rauno.me)
@@ -5301,14 +5247,14 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: []
 
 ## Lemmy - A community of privacy and FOSS enthusiasts, run by Lemmy’s developers
- - [https://lemmy.ml](https://lemmy.ml)
- - date published: 2023-10-24T20:14:58.384075+00:00
+ - [http://lemmy.ml](http://lemmy.ml)
+ - date published: 2024-03-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Lemmy - A community of privacy and FOSS enthusiasts, run by Lemmy’s developers
- - [http://lemmy.ml](http://lemmy.ml)
- - date published: 2024-03-21T00:00:00+00:00
+ - [https://lemmy.ml](https://lemmy.ml)
+ - date published: 2023-10-24T20:14:58.384075+00:00
  - user: None
  - tags: []
 
@@ -5816,12 +5762,6 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
-## renegat0x0 site
- - [https://bestbuy.7tiv.net](https://bestbuy.7tiv.net)
- - date published: 2024-02-23T22:51:24.092595+00:00
- - user: None
- - tags: []
-
 ## 80/20 Aluminum T-slot Building Systems | 80/20 Aluminum Extrusions
  - [https://8020.net](https://8020.net)
  - date published: 2023-10-25T20:23:45.365100+00:00
@@ -5999,6 +5939,66 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Activism.net
  - [https://www.activism.net](https://www.activism.net)
  - date published: 2023-12-31T23:48:43.301910+00:00
+ - user: None
+ - tags: []
+
+## Advanced Systems Home page
+ - [http://advsys.net](http://advsys.net)
+ - date published: 2023-11-15T17:31:47.448086+00:00
+ - user: None
+ - tags: ['personal']
+
+## Aerolith
+ - [https://aerolith.net](https://aerolith.net)
+ - date published: 2023-12-10T11:34:38.477841+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ages of Despair LpMud - Medieval Fantasy Multi-User Dungeon Adventure Game
+ - [https://www.agesofdespair.net](https://www.agesofdespair.net)
+ - date published: 2024-03-27T20:48:57.334149+00:00
+ - user: None
+ - tags: ['mud game']
+
+## https://paradox.agweber.net
+ - [https://paradox.agweber.net](https://paradox.agweber.net)
+ - date published: 2023-12-13T16:06:15.257551+00:00
+ - user: None
+ - tags: []
+
+## aicracy – governed by algorithms, finally.
+ - [https://www.aicracy.net](https://www.aicracy.net)
+ - date published: 2023-10-25T20:24:04.381842+00:00
+ - user: None
+ - tags: []
+
+## aike lab
+ - [https://aikelab.net](https://aikelab.net)
+ - date published: 2023-10-25T20:24:06.201910+00:00
+ - user: None
+ - tags: []
+
+## https://www.aircargonews.net
+ - [https://www.aircargonews.net](https://www.aircargonews.net)
+ - date published: 2023-10-25T20:24:09.325660+00:00
+ - user: None
+ - tags: []
+
+## Airliners.net | Aviation Photography, Discussion Forums & News
+ - [https://www.airliners.net](https://www.airliners.net)
+ - date published: 2024-01-20T21:52:33.137177+00:00
+ - user: None
+ - tags: []
+
+## AIRLIVE
+ - [https://airlive.net](https://airlive.net)
+ - date published: 2024-02-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## AIRLIVE
+ - [https://www.airlive.net](https://www.airlive.net)
+ - date published: 2023-10-25T20:24:18.392419+00:00
  - user: None
  - tags: []
 

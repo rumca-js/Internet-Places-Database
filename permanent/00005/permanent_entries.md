@@ -1,15 +1,3 @@
-## Vintage Computing
- - [https://deramp.com](https://deramp.com)
- - date published: 2024-01-01T18:26:34+00:00
- - user: None
- - tags: []
-
-## Derek Houck
- - [https://derekhouck.com](https://derekhouck.com)
- - date published: 2023-12-19T02:59:18.608346+00:00
- - user: None
- - tags: ['personal']
-
 ## Derek Goodwin Photography | Headshot & Branding Photographer
  - [https://www.derekpashupagoodwin.com](https://www.derekpashupagoodwin.com)
  - date published: 2023-11-29T17:08:37.949199+00:00
@@ -452,7 +440,7 @@
  - [https://dicksonneoh.com](https://dicksonneoh.com)
  - date published: 2023-10-25T13:51:33.339476+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Dictionary.com | Meanings & Definitions of English Words
  - [https://www.dictionary.com](https://www.dictionary.com)
@@ -1770,14 +1758,14 @@
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [http://drinkag1.com](http://drinkag1.com)
- - date published: 2024-01-21T19:15:07.982155+00:00
+ - [https://drinkag1.com](https://drinkag1.com)
+ - date published: 2024-02-24T09:55:07.922857+00:00
  - user: None
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [https://drinkag1.com](https://drinkag1.com)
- - date published: 2024-02-24T09:55:07.922857+00:00
+ - [http://drinkag1.com](http://drinkag1.com)
+ - date published: 2024-01-21T19:15:07.982155+00:00
  - user: None
  - tags: []
 
@@ -1797,7 +1785,7 @@
  - [https://drinklesslivebetter.com](https://drinklesslivebetter.com)
  - date published: 2024-01-07T04:13:54.065014+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home - Drinks Digest
  - [https://drinksdigest.com](https://drinksdigest.com)
@@ -1943,15 +1931,15 @@
  - user: None
  - tags: ['music', 'dj']
 
-## Drunk Pastor: Musings & Services of a Recovering Pastor
- - [http://drunkpastor.com](http://drunkpastor.com)
- - date published: 2024-02-10T16:19:49+00:00
- - user: None
- - tags: []
-
 ## Drunk Pastor
  - [https://drunkpastor.com](https://drunkpastor.com)
  - date published: 2023-11-29T15:32:18.653046+00:00
+ - user: None
+ - tags: []
+
+## Drunk Pastor: Musings & Services of a Recovering Pastor
+ - [http://drunkpastor.com](http://drunkpastor.com)
+ - date published: 2024-02-10T16:19:49+00:00
  - user: None
  - tags: []
 
@@ -2340,14 +2328,14 @@
  - tags: []
 
 ## Earl MacDonald – Composer, Jazz Pianist, Music Educator – “A magical, musical alchemist of hip hybrids."
- - [http://www.earlmacdonald.com](http://www.earlmacdonald.com)
- - date published: 2024-04-03T06:25:22.075271+00:00
+ - [https://www.earlmacdonald.com](https://www.earlmacdonald.com)
+ - date published: 2023-12-16T07:29:09.233696+00:00
  - user: None
  - tags: ['personal']
 
 ## Earl MacDonald – Composer, Jazz Pianist, Music Educator – “A magical, musical alchemist of hip hybrids."
- - [https://www.earlmacdonald.com](https://www.earlmacdonald.com)
- - date published: 2023-12-16T07:29:09.233696+00:00
+ - [http://www.earlmacdonald.com](http://www.earlmacdonald.com)
+ - date published: 2024-04-03T06:25:22.075271+00:00
  - user: None
  - tags: ['personal']
 
@@ -3084,14 +3072,14 @@
  - tags: []
 
 ## Elisa Doucette
- - [https://www.elisadoucette.com](https://www.elisadoucette.com)
- - date published: 2023-12-20T00:58:34.049564+00:00
+ - [http://www.elisadoucette.com](http://www.elisadoucette.com)
+ - date published: 2024-04-03T12:45:08.562645+00:00
  - user: None
  - tags: ['personal']
 
 ## Elisa Doucette
- - [http://www.elisadoucette.com](http://www.elisadoucette.com)
- - date published: 2024-04-03T12:45:08.562645+00:00
+ - [https://www.elisadoucette.com](https://www.elisadoucette.com)
+ - date published: 2023-12-20T00:58:34.049564+00:00
  - user: None
  - tags: ['personal']
 
@@ -3899,17 +3887,17 @@
  - user: None
  - tags: []
 
-## https://www.erickarjaluoto.com
- - [https://www.erickarjaluoto.com](https://www.erickarjaluoto.com)
- - date published: 2023-12-12T09:16:42+00:00
- - user: rumpel
- - tags: ['personal']
-
 ## Howdy – Eric Karjaluoto
  - [http://www.erickarjaluoto.com](http://www.erickarjaluoto.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## https://www.erickarjaluoto.com
+ - [https://www.erickarjaluoto.com](https://www.erickarjaluoto.com)
+ - date published: 2023-12-12T09:16:42+00:00
+ - user: rumpel
+ - tags: ['personal']
 
 ## Eric Jon Kassel - Designer, Director, Animator, Musician
  - [https://erickassel.com](https://erickassel.com)
@@ -4128,14 +4116,14 @@
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [http://www.espn.com](http://www.espn.com)
- - date published: 2024-02-25T16:13:57.477675+00:00
+ - [https://www.espn.com](https://www.espn.com)
+ - date published: 2023-10-25T10:09:24.738987+00:00
  - user: None
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [https://www.espn.com](https://www.espn.com)
- - date published: 2023-10-25T10:09:24.738987+00:00
+ - [http://www.espn.com](http://www.espn.com)
+ - date published: 2024-02-25T16:13:57.477675+00:00
  - user: None
  - tags: []
 
@@ -4457,6 +4445,12 @@
  - user: None
  - tags: []
 
+## Eurozine
+ - [https://www.eurozine.com](https://www.eurozine.com)
+ - date published: 2024-04-19T18:40:34.409873+00:00
+ - user: None
+ - tags: ['europe magazine']
+
 ## EvangelosSciFi
  - [https://www.evangelosscifi.com](https://www.evangelosscifi.com)
  - date published: 2023-10-25T14:11:45.721572+00:00
@@ -4752,14 +4746,14 @@
  - tags: []
 
 ## Home Page -
- - [https://exhibita.com](https://exhibita.com)
- - date published: 2024-01-13T09:37:44.900869+00:00
+ - [http://exhibita.com](http://exhibita.com)
+ - date published: 2024-04-03T12:45:57.594873+00:00
  - user: None
  - tags: ['personal']
 
 ## Home Page -
- - [http://exhibita.com](http://exhibita.com)
- - date published: 2024-04-03T12:45:57.594873+00:00
+ - [https://exhibita.com](https://exhibita.com)
+ - date published: 2024-01-13T09:37:44.900869+00:00
  - user: None
  - tags: ['personal']
 
@@ -4944,14 +4938,14 @@
  - tags: []
 
 ## ezyang’s blog
- - [https://blog.ezyang.com](https://blog.ezyang.com)
- - date published: 2024-01-09T01:37:06.985730+00:00
+ - [http://blog.ezyang.com](http://blog.ezyang.com)
+ - date published: 2024-02-26T14:52:50.963348+00:00
  - user: None
  - tags: []
 
 ## ezyang’s blog
- - [http://blog.ezyang.com](http://blog.ezyang.com)
- - date published: 2024-02-26T14:52:50.963348+00:00
+ - [https://blog.ezyang.com](https://blog.ezyang.com)
+ - date published: 2024-01-09T01:37:06.985730+00:00
  - user: None
  - tags: []
 
@@ -5039,17 +5033,17 @@
  - user: rumpel
  - tags: ['facebook']
 
-## Facebook
- - [https://www.facebook.com](https://www.facebook.com)
- - date published: 2023-10-24T20:15:12+00:00
- - user: rumpel
- - tags: ['gatekeeper', 'social platform']
-
 ## Log in or sign up to view
  - [http://www.facebook.com](http://www.facebook.com)
  - date published: 2024-02-24T09:54:20.558477+00:00
  - user: None
  - tags: []
+
+## Facebook
+ - [https://www.facebook.com](https://www.facebook.com)
+ - date published: 2023-10-24T20:15:12+00:00
+ - user: rumpel
+ - tags: ['gatekeeper', 'social platform']
 
 ## In re: Facebook, Inc. Consumer Privacy User Profile Litigation
  - [https://www.facebookuserprivacysettlement.com](https://www.facebookuserprivacysettlement.com)
@@ -5765,15 +5759,15 @@
  - user: None
  - tags: []
 
-## None
- - [http://feeds.feedburner.com](http://feeds.feedburner.com)
- - date published: 2024-02-25T14:03:04.041505+00:00
- - user: None
- - tags: []
-
 ## Error 404 (Not Found)!!1
  - [https://feeds.feedburner.com](https://feeds.feedburner.com)
  - date published: 2024-01-09T02:36:30.505752+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://feeds.feedburner.com](http://feeds.feedburner.com)
+ - date published: 2024-02-25T14:03:04.041505+00:00
  - user: None
  - tags: []
 
@@ -5996,6 +5990,12 @@
 ## Play Figgie at Jane Street
  - [https://figgie.com](https://figgie.com)
  - date published: 2023-12-18T09:46:04.792293+00:00
+ - user: None
+ - tags: []
+
+## Fight © Trolls
+ - [https://fightcopyrighttrolls.com](https://fightcopyrighttrolls.com)
+ - date published: 2024-01-23T00:00:00+00:00
  - user: None
  - tags: []
 

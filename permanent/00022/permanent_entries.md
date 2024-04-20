@@ -1,63 +1,3 @@
-## Advanced Systems Home page
- - [http://advsys.net](http://advsys.net)
- - date published: 2023-11-15T17:31:47.448086+00:00
- - user: None
- - tags: ['personal']
-
-## Aerolith
- - [https://aerolith.net](https://aerolith.net)
- - date published: 2023-12-10T11:34:38.477841+00:00
- - user: None
- - tags: ['personal']
-
-## Ages of Despair LpMud - Medieval Fantasy Multi-User Dungeon Adventure Game
- - [https://www.agesofdespair.net](https://www.agesofdespair.net)
- - date published: 2024-03-27T20:48:57.334149+00:00
- - user: None
- - tags: ['mud game']
-
-## https://paradox.agweber.net
- - [https://paradox.agweber.net](https://paradox.agweber.net)
- - date published: 2023-12-13T16:06:15.257551+00:00
- - user: None
- - tags: []
-
-## aicracy – governed by algorithms, finally.
- - [https://www.aicracy.net](https://www.aicracy.net)
- - date published: 2023-10-25T20:24:04.381842+00:00
- - user: None
- - tags: []
-
-## aike lab
- - [https://aikelab.net](https://aikelab.net)
- - date published: 2023-10-25T20:24:06.201910+00:00
- - user: None
- - tags: []
-
-## https://www.aircargonews.net
- - [https://www.aircargonews.net](https://www.aircargonews.net)
- - date published: 2023-10-25T20:24:09.325660+00:00
- - user: None
- - tags: []
-
-## Airliners.net | Aviation Photography, Discussion Forums & News
- - [https://www.airliners.net](https://www.airliners.net)
- - date published: 2024-01-20T21:52:33.137177+00:00
- - user: None
- - tags: []
-
-## AIRLIVE
- - [https://airlive.net](https://airlive.net)
- - date published: 2024-02-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## AIRLIVE
- - [https://www.airlive.net](https://www.airlive.net)
- - date published: 2023-10-25T20:24:18.392419+00:00
- - user: None
- - tags: []
-
 ## Sameer Ajmani
  - [https://ajmani.net](https://ajmani.net)
  - date published: 2024-03-12T15:26:51.286200+00:00
@@ -227,26 +167,26 @@
  - tags: []
 
 ## Amigaworld.net - The Amiga Computer Community Portal Website
- - [https://amigaworld.net](https://amigaworld.net)
- - date published: 2023-10-27T14:32:09.267109+00:00
- - user: None
- - tags: ['retro news', 'amiga']
-
-## Amigaworld.net - The Amiga Computer Community Portal Website
  - [http://amigaworld.net](http://amigaworld.net)
  - date published: 2024-02-25T14:45:32.614877+00:00
  - user: None
  - tags: []
 
 ## Amigaworld.net - The Amiga Computer Community Portal Website
- - [https://www.amigaworld.net](https://www.amigaworld.net)
- - date published: 2024-01-09T03:34:56.633393+00:00
+ - [https://amigaworld.net](https://amigaworld.net)
+ - date published: 2023-10-27T14:32:09.267109+00:00
  - user: None
- - tags: []
+ - tags: ['retro news', 'amiga']
 
 ## Amigaworld.net - The Amiga Computer Community Portal Website
  - [http://www.amigaworld.net](http://www.amigaworld.net)
  - date published: 2024-02-25T14:45:35.125644+00:00
+ - user: None
+ - tags: []
+
+## Amigaworld.net - The Amiga Computer Community Portal Website
+ - [https://www.amigaworld.net](https://www.amigaworld.net)
+ - date published: 2024-01-09T03:34:56.633393+00:00
  - user: None
  - tags: []
 
@@ -293,14 +233,14 @@
  - tags: []
 
 ## Aminet - Latest packages, last 14 days
- - [https://os4.aminet.net](https://os4.aminet.net)
- - date published: 2023-12-13T15:07:30.007257+00:00
+ - [http://os4.aminet.net](http://os4.aminet.net)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Aminet - Latest packages, last 14 days
- - [http://os4.aminet.net](http://os4.aminet.net)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://os4.aminet.net](https://os4.aminet.net)
+ - date published: 2023-12-13T15:07:30.007257+00:00
  - user: None
  - tags: []
 
@@ -377,14 +317,14 @@
  - tags: ['personal']
 
 ## andreinc
- - [http://www.andreinc.net](http://www.andreinc.net)
- - date published: 2024-02-26T14:43:20.222033+00:00
+ - [https://www.andreinc.net](https://www.andreinc.net)
+ - date published: 2023-10-25T20:24:41.741120+00:00
  - user: None
  - tags: []
 
 ## andreinc
- - [https://www.andreinc.net](https://www.andreinc.net)
- - date published: 2023-10-25T20:24:41.741120+00:00
+ - [http://www.andreinc.net](http://www.andreinc.net)
+ - date published: 2024-02-26T14:43:20.222033+00:00
  - user: None
  - tags: []
 
@@ -1170,6 +1110,12 @@ Buildings in Saint Louis, Missouri
  - user: None
  - tags: []
 
+## Quantum Algorithms for Lattice Problems – Update on April 18
+ - [http://www.chenyilei.net](http://www.chenyilei.net)
+ - date published: 2024-04-19T10:58:13+00:00
+ - user: None
+ - tags: []
+
 ## Chiara Girardelli | Full stack developer and consultant
  - [https://www.chiaragirardelli.net](https://www.chiaragirardelli.net)
  - date published: 2024-01-09T03:35:16.952482+00:00
@@ -1305,12 +1251,6 @@ Buildings in Saint Louis, Missouri
 ## Conal Elliott's home page
  - [http://conal.net](http://conal.net)
  - date published: 2023-10-25T20:28:06.492345+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://cdn.confiant-integrations.net](https://cdn.confiant-integrations.net)
- - date published: 2024-01-09T03:35:17.410844+00:00
  - user: None
  - tags: []
 
@@ -1525,14 +1465,14 @@ Buildings in Saint Louis, Missouri
  - tags: []
 
 ## daemonology.net
- - [https://www.daemonology.net](https://www.daemonology.net)
- - date published: 2023-10-25T20:28:33.979177+00:00
+ - [http://www.daemonology.net](http://www.daemonology.net)
+ - date published: 2024-02-25T19:34:32.110343+00:00
  - user: None
  - tags: []
 
 ## daemonology.net
- - [http://www.daemonology.net](http://www.daemonology.net)
- - date published: 2024-02-25T19:34:32.110343+00:00
+ - [https://www.daemonology.net](https://www.daemonology.net)
+ - date published: 2023-10-25T20:28:33.979177+00:00
  - user: None
  - tags: []
 
@@ -1674,17 +1614,17 @@ Buildings in Saint Louis, Missouri
  - user: None
  - tags: ['self-host', 'server administration', 'networking']
 
-## renegat0x0 site
- - [https://renegat0x0.ddns.net](https://renegat0x0.ddns.net)
- - date published: 2023-10-25T08:52:16.878263+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [https://renegat0x0.ddns.net/apps/places/sources-json](https://renegat0x0.ddns.net/apps/places/sources-json)
  - date published: 2024-02-24T21:12:17.050206+00:00
  - user: None
  - tags: []
+
+## renegat0x0 site
+ - [https://renegat0x0.ddns.net](https://renegat0x0.ddns.net)
+ - date published: 2023-10-25T08:52:16.878263+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Telnet BBS
  - [http://shsbbs.ddns.net](http://shsbbs.ddns.net)
@@ -1753,14 +1693,14 @@ Buildings in Saint Louis, Missouri
  - tags: []
 
 ## Shen DeShayne
- - [http://shen.deshayne.net](http://shen.deshayne.net)
- - date published: 2024-04-03T06:25:24.475530+00:00
+ - [https://shen.deshayne.net](https://shen.deshayne.net)
+ - date published: 2023-11-29T14:24:51.956102+00:00
  - user: None
  - tags: ['personal']
 
 ## Shen DeShayne
- - [https://shen.deshayne.net](https://shen.deshayne.net)
- - date published: 2023-11-29T14:24:51.956102+00:00
+ - [http://shen.deshayne.net](http://shen.deshayne.net)
+ - date published: 2024-04-03T06:25:24.475530+00:00
  - user: None
  - tags: ['personal']
 
@@ -1891,14 +1831,14 @@ Buildings in Saint Louis, Missouri
  - tags: []
 
 ## Łona i Webber / Dobrzewiesz Nagrania
- - [http://dobrzewiesz.net](http://dobrzewiesz.net)
- - date published: 2024-02-26T15:15:04.444335+00:00
+ - [https://dobrzewiesz.net](https://dobrzewiesz.net)
+ - date published: 2024-01-09T03:35:23.233699+00:00
  - user: None
  - tags: []
 
 ## Łona i Webber / Dobrzewiesz Nagrania
- - [https://dobrzewiesz.net](https://dobrzewiesz.net)
- - date published: 2024-01-09T03:35:23.233699+00:00
+ - [http://dobrzewiesz.net](http://dobrzewiesz.net)
+ - date published: 2024-02-26T15:15:04.444335+00:00
  - user: None
  - tags: []
 
@@ -2077,14 +2017,14 @@ Buildings in Saint Louis, Missouri
  - tags: ['javascript']
 
 ## J David Smith | emallson.net
- - [https://emallson.net](https://emallson.net)
- - date published: 2024-01-06T14:44:40.109071+00:00
+ - [http://emallson.net](http://emallson.net)
+ - date published: 2024-02-26T14:52:41.699985+00:00
  - user: None
  - tags: []
 
 ## J David Smith | emallson.net
- - [http://emallson.net](http://emallson.net)
- - date published: 2024-02-26T14:52:41.699985+00:00
+ - [https://emallson.net](https://emallson.net)
+ - date published: 2024-01-06T14:44:40.109071+00:00
  - user: None
  - tags: []
 
@@ -2179,16 +2119,16 @@ Buildings in Saint Louis, Missouri
  - tags: ['game trainers']
 
 ## Fabien Sanglard's Website
- - [https://fabiensanglard.net](https://fabiensanglard.net)
- - date published: 2023-10-25T09:23:07.412311+00:00
- - user: None
- - tags: ['diablo', 'street figher', 'doom', 'quake', 'personal']
-
-## Fabien Sanglard's Website
  - [http://fabiensanglard.net](http://fabiensanglard.net)
  - date published: 2024-02-25T20:15:26.239827+00:00
  - user: None
  - tags: []
+
+## Fabien Sanglard's Website
+ - [https://fabiensanglard.net](https://fabiensanglard.net)
+ - date published: 2023-10-25T09:23:07.412311+00:00
+ - user: None
+ - tags: ['diablo', 'street figher', 'doom', 'quake', 'personal']
 
 ## Fabric
  - [https://fabricmc.net](https://fabricmc.net)
@@ -2512,7 +2452,7 @@ Buildings in Saint Louis, Missouri
  - [https://news.gandi.net](https://news.gandi.net)
  - date published: 2023-10-25T20:30:32.130954+00:00
  - user: None
- - tags: []
+ - tags: ['web hosting', 'ssl certyficate']
 
 ## Ganesha games |Fast and Fun Tabletop games|Song of Blades and Heroes
  - [https://www.ganeshagames.net](https://www.ganeshagames.net)
@@ -2595,12 +2535,6 @@ Buildings in Saint Louis, Missouri
 ## gofoss.net - Digital freedom for all
  - [https://gofoss.net](https://gofoss.net)
  - date published: 2023-10-25T20:30:55.230223+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://s.go-mpulse.net](https://s.go-mpulse.net)
- - date published: 2024-01-09T03:35:34.035829+00:00
  - user: None
  - tags: []
 
@@ -2940,15 +2874,15 @@ Buildings in Saint Louis, Missouri
  - user: None
  - tags: []
 
-## iA - Home
- - [http://ia.net](http://ia.net)
- - date published: 2024-02-26T14:54:49.326176+00:00
- - user: None
- - tags: []
-
 ## Home – iA
  - [https://ia.net](https://ia.net)
  - date published: 2023-10-25T20:31:41.939052+00:00
+ - user: None
+ - tags: []
+
+## iA - Home
+ - [http://ia.net](http://ia.net)
+ - date published: 2024-02-26T14:54:49.326176+00:00
  - user: None
  - tags: []
 
@@ -3728,14 +3662,14 @@ Buildings in Saint Louis, Missouri
  - tags: []
 
 ## linusakesson.net
- - [https://www.linusakesson.net](https://www.linusakesson.net)
- - date published: 2023-10-25T20:33:01.198358+00:00
+ - [http://www.linusakesson.net](http://www.linusakesson.net)
+ - date published: 2024-02-26T15:13:06.998772+00:00
  - user: None
  - tags: []
 
 ## linusakesson.net
- - [http://www.linusakesson.net](http://www.linusakesson.net)
- - date published: 2024-02-26T15:13:06.998772+00:00
+ - [https://www.linusakesson.net](https://www.linusakesson.net)
+ - date published: 2023-10-25T20:33:01.198358+00:00
  - user: None
  - tags: []
 
@@ -3752,28 +3686,28 @@ Buildings in Saint Louis, Missouri
  - tags: ['demoscene']
 
 ## [Liquid DooM]
- - [https://liquiddoom.net](https://liquiddoom.net)
- - date published: 2024-02-15T22:13:28.553273+00:00
- - user: None
- - tags: ['demoscene']
-
-## [Liquid DooM]
  - [http://liquiddoom.net](http://liquiddoom.net)
  - date published: 2024-02-11T14:38:30.795082+00:00
  - user: None
  - tags: ['doom', 'video game music']
 
-## Liquipedia
- - [http://liquipedia.net](http://liquipedia.net)
- - date published: 2024-03-04T03:54:24.553156+00:00
+## [Liquid DooM]
+ - [https://liquiddoom.net](https://liquiddoom.net)
+ - date published: 2024-02-15T22:13:28.553273+00:00
  - user: None
- - tags: ['esport']
+ - tags: ['demoscene']
 
 ## Liquipedia
  - [https://liquipedia.net](https://liquipedia.net)
  - date published: 2023-10-25T11:48:20.723694+00:00
  - user: None
  - tags: []
+
+## Liquipedia
+ - [http://liquipedia.net](http://liquipedia.net)
+ - date published: 2024-03-04T03:54:24.553156+00:00
+ - user: None
+ - tags: ['esport']
 
 ## KeepCoding | KeepCoding
  - [https://en.liujiacai.net](https://en.liujiacai.net)
@@ -4543,15 +4477,15 @@ Buildings in Saint Louis, Missouri
  - user: None
  - tags: []
 
-## Site not found · DreamHost
- - [https://www.naylandblake.net](https://www.naylandblake.net)
- - date published: 2024-01-11T07:53:05.911668+00:00
- - user: None
- - tags: ['personal']
-
 ## naylandblake.net
  - [http://www.naylandblake.net](http://www.naylandblake.net)
  - date published: 2024-04-03T06:27:17.544507+00:00
+ - user: None
+ - tags: ['personal']
+
+## Site not found · DreamHost
+ - [https://www.naylandblake.net](https://www.naylandblake.net)
+ - date published: 2024-01-11T07:53:05.911668+00:00
  - user: None
  - tags: ['personal']
 
@@ -4627,17 +4561,17 @@ Buildings in Saint Louis, Missouri
  - user: None
  - tags: ['personal']
 
-## None
- - [https://nickswan.net](https://nickswan.net)
- - date published: 2024-01-05T16:52:03.371750+00:00
- - user: None
- - tags: []
-
 ## Nick Swan's Blog – The harder I work, the luckier I get
  - [http://nickswan.net](http://nickswan.net)
  - date published: 2024-04-03T06:25:34.584970+00:00
  - user: None
  - tags: ['personal']
+
+## Nick Swan's Blog – The harder I work, the luckier I get
+ - [https://nickswan.net](https://nickswan.net)
+ - date published: 2024-01-05T16:52:03.371750+00:00
+ - user: None
+ - tags: []
 
 ## Nicolas Nova
  - [https://www.nicolasnova.net](https://www.nicolasnova.net)
@@ -4690,6 +4624,12 @@ Buildings in Saint Louis, Missouri
 ## Home
  - [https://www.noodl.net](https://www.noodl.net)
  - date published: 2023-10-25T20:34:37.399098+00:00
+ - user: None
+ - tags: []
+
+## write the dreams down!
+ - [https://noodledesk.net](https://noodledesk.net)
+ - date published: 2023-01-02T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5205,14 +5145,14 @@ Buildings in Saint Louis, Missouri
  - tags: []
 
 ## play.net >> Where adventure finds you.
- - [http://www.play.net](http://www.play.net)
- - date published: 2024-03-27T20:46:31.499024+00:00
+ - [https://www.play.net](https://www.play.net)
+ - date published: 2024-03-27T20:52:27.939000+00:00
  - user: None
  - tags: ['mud game']
 
 ## play.net >> Where adventure finds you.
- - [https://www.play.net](https://www.play.net)
- - date published: 2024-03-27T20:52:27.939000+00:00
+ - [http://www.play.net](http://www.play.net)
+ - date published: 2024-03-27T20:46:31.499024+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5750,7 +5690,7 @@ Buildings in Saint Louis, Missouri
  - [https://www.ryanglover.net](https://www.ryanglover.net)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## RyotaK's Blog
  - [https://blog.ryotak.net](https://blog.ryotak.net)
@@ -5819,16 +5759,16 @@ Buildings in Saint Louis, Missouri
  - tags: ['personal']
 
 ## Welcome - Nectarine
- - [https://scenestream.net](https://scenestream.net)
- - date published: 2024-04-09T07:38:04+00:00
- - user: rumpel
- - tags: ['keygen', 'chiptune', 'demoscene', 'radio']
-
-## Welcome - Nectarine
  - [http://scenestream.net](http://scenestream.net)
  - date published: 2024-02-15T22:05:35.556226+00:00
  - user: None
  - tags: ['demoscene']
+
+## Welcome - Nectarine
+ - [https://scenestream.net](https://scenestream.net)
+ - date published: 2024-04-09T07:38:04+00:00
+ - user: rumpel
+ - tags: ['keygen', 'chiptune', 'demoscene', 'radio']
 
 ## Welcome - Nectarine
  - [https://www.scenestream.net](https://www.scenestream.net)
@@ -6003,4 +5943,64 @@ Buildings in Saint Louis, Missouri
  - date published: 2023-11-13T09:53:58.683069+00:00
  - user: None
  - tags: ['music band']
+
+## Silent Lunch, The David Zweig Newsletter | Substack
+ - [https://www.silentlunch.net](https://www.silentlunch.net)
+ - date published: 2023-10-25T20:37:30.571541+00:00
+ - user: None
+ - tags: []
+
+## Simia
+ - [https://simia.net](https://simia.net)
+ - date published: 2024-01-09T03:36:14.548312+00:00
+ - user: None
+ - tags: []
+
+## Simon Duff – Big Data Specialist
+ - [https://simonduff.net](https://simonduff.net)
+ - date published: 2023-12-02T10:26:37.230407+00:00
+ - user: None
+ - tags: ['personal']
+
+## Simon Ong | Architect – Architect. Filipino. Awesome.
+ - [https://simonong.net](https://simonong.net)
+ - date published: 2023-12-03T23:31:04.542735+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mastodon
+ - [https://fedi.simonwillison.net](https://fedi.simonwillison.net)
+ - date published: 2024-03-08T22:47:20.591022+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Simon Willison’s Weblog
+ - [https://simonwillison.net](https://simonwillison.net)
+ - date published: 2023-10-25T08:41:17.781731+00:00
+ - user: None
+ - tags: ['personal']
+
+## Simon Willison: TIL
+ - [https://til.simonwillison.net](https://til.simonwillison.net)
+ - date published: 2023-10-25T09:23:30.769942+00:00
+ - user: None
+ - tags: ['personal']
+
+## tools
+ - [https://tools.simonwillison.net](https://tools.simonwillison.net)
+ - date published: 2024-03-30T20:59:32.558643+00:00
+ - user: None
+ - tags: []
+
+## Simson Garfinkel
+ - [https://simson.net](https://simson.net)
+ - date published: 2023-10-25T08:54:01.938085+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sinfest
+ - [http://www.sinfest.net](http://www.sinfest.net)
+ - date published: 2024-03-24T00:00:00+00:00
+ - user: None
+ - tags: []
 

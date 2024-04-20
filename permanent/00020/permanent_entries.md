@@ -1,63 +1,3 @@
-## The Crescendo Multi-Turn LLM Jailbreak Attack
- - [https://crescendo-the-multiturn-jailbreak.github.io](https://crescendo-the-multiturn-jailbreak.github.io)
- - date published: 2024-04-04T21:37:00+00:00
- - user: None
- - tags: []
-
-## https://crowsonkb.github.io
- - [https://crowsonkb.github.io](https://crowsonkb.github.io)
- - date published: 2024-01-23T20:07:38.415806+00:00
- - user: None
- - tags: []
-
-## CTurt
- - [https://cturt.github.io](https://cturt.github.io)
- - date published: 2023-10-25T19:44:52.061450+00:00
- - user: None
- - tags: []
-
-## \\cube0x0\
- - [https://cube0x0.github.io](https://cube0x0.github.io)
- - date published: 2023-10-25T19:44:52.992321+00:00
- - user: None
- - tags: []
-
-## CudaText - Home
- - [https://cudatext.github.io](https://cudatext.github.io)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Wherein The Chicken
- - [https://cushychicken.github.io](https://cushychicken.github.io)
- - date published: 2023-10-25T19:44:53.696442+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://daduckmsft.github.io](https://daduckmsft.github.io)
- - date published: 2023-12-31T17:16:39.038947+00:00
- - user: None
- - tags: []
-
-## Daniel Geng
- - [https://dangeng.github.io](https://dangeng.github.io)
- - date published: 2023-12-01T10:46:14.463296+00:00
- - user: None
- - tags: []
-
-## Daniel Mejía Raigosa
- - [https://daniel-m.github.io](https://daniel-m.github.io)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Find HN Candidates
- - [https://darighost.github.io](https://darighost.github.io)
- - date published: 2024-01-02T19:34:22.824261+00:00
- - user: None
- - tags: []
-
 ## DatenLord
  - [https://datenlord.github.io](https://datenlord.github.io)
  - date published: 2023-10-30T20:37:53.162449+00:00
@@ -152,7 +92,7 @@
  - [https://dm13450.github.io](https://dm13450.github.io)
  - date published: 2023-10-25T19:45:00.641641+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## dmicz devblog
  - [https://dmicz.github.io](https://dmicz.github.io)
@@ -272,7 +212,7 @@
  - [https://elc.github.io](https://elc.github.io)
  - date published: 2023-10-25T19:45:12.215543+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Enki's blog â€“ Math, Graphics, Programming.
  - [https://enkimute.github.io](https://enkimute.github.io)
@@ -936,16 +876,16 @@
  - tags: []
 
 ## Andrej Karpathy blog
- - [https://karpathy.github.io](https://karpathy.github.io)
- - date published: 2023-10-25T19:47:36.949565+00:00
- - user: None
- - tags: []
-
-## Andrej Karpathy blog
  - [http://karpathy.github.io](http://karpathy.github.io)
  - date published: 2024-04-09T14:16:33.676719+00:00
  - user: None
  - tags: ['personal']
+
+## Andrej Karpathy blog
+ - [https://karpathy.github.io](https://karpathy.github.io)
+ - date published: 2023-10-25T19:47:36.949565+00:00
+ - user: None
+ - tags: []
 
 ## Konstantinos Chousos
  - [https://kchousos.github.io](https://kchousos.github.io)
@@ -2550,14 +2490,14 @@
  - tags: []
 
 ## Xinye Tao
- - [https://tabokie.github.io](https://tabokie.github.io)
- - date published: 2024-01-14T17:10:57.682317+00:00
+ - [http://tabokie.github.io](http://tabokie.github.io)
+ - date published: 2024-02-25T21:00:42.459387+00:00
  - user: None
  - tags: []
 
 ## Xinye Tao
- - [http://tabokie.github.io](http://tabokie.github.io)
- - date published: 2024-02-25T21:00:42.459387+00:00
+ - [https://tabokie.github.io](https://tabokie.github.io)
+ - date published: 2024-01-14T17:10:57.682317+00:00
  - user: None
  - tags: []
 
@@ -4325,7 +4265,7 @@
  - [https://mailu.io](https://mailu.io)
  - date published: 2023-04-03T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['open source', 'e-mail server', 'self-host']
 
 ## Major Hayden
  - [https://major.io](https://major.io)
@@ -4640,16 +4580,16 @@
  - tags: ['personal']
 
 ## NCS (NoCopyrightSounds) - Free Music for Creators
- - [http://ncs.io](http://ncs.io)
- - date published: 2024-02-24T09:55:13.681583+00:00
- - user: None
- - tags: ['music assets']
-
-## NCS (NoCopyrightSounds) - Free Music for Creators
  - [https://ncs.io](https://ncs.io)
  - date published: 2023-11-13T13:39:14.863107+00:00
  - user: None
  - tags: ['music', 'assets audio']
+
+## NCS (NoCopyrightSounds) - Free Music for Creators
+ - [http://ncs.io](http://ncs.io)
+ - date published: 2024-02-24T09:55:13.681583+00:00
+ - user: None
+ - tags: ['music assets']
 
 ## Daniel Nechtan
  - [https://nechtan.io](https://nechtan.io)
@@ -6000,6 +5940,66 @@
 ## Maxima, a Computer Algebra System
  - [https://maxima.sourceforge.io](https://maxima.sourceforge.io)
  - date published: 2023-10-25T20:07:19.918161+00:00
+ - user: None
+ - tags: []
+
+## XL: An Extensible Programming Language
+ - [https://xlr.sourceforge.io](https://xlr.sourceforge.io)
+ - date published: 2024-02-21T12:39:12+00:00
+ - user: None
+ - tags: []
+
+## SŌZU - HTTP Reverse Proxy in Rust for Immutable Infrastructures
+ - [https://www.sozu.io](https://www.sozu.io)
+ - date published: 2023-10-25T20:07:20.588505+00:00
+ - user: None
+ - tags: []
+
+## Spacelift: The Most Flexible IaC Management Platform
+ - [https://spacelift.io](https://spacelift.io)
+ - date published: 2023-10-25T20:07:25.497473+00:00
+ - user: None
+ - tags: []
+
+## SpaceTraders API
+ - [https://spacetraders.io](https://spacetraders.io)
+ - date published: 2023-10-25T20:07:26.291150+00:00
+ - user: None
+ - tags: []
+
+## Spack - Spack
+ - [https://spack.io](https://spack.io)
+ - date published: 2023-10-25T20:07:27.164756+00:00
+ - user: None
+ - tags: []
+
+## Advanced NLP with spaCy · A free online course
+ - [https://course.spacy.io](https://course.spacy.io)
+ - date published: 2023-10-25T20:07:33.542479+00:00
+ - user: None
+ - tags: []
+
+## https://sprocketfox.io
+ - [https://sprocketfox.io](https://sprocketfox.io)
+ - date published: 2023-12-29T07:20:04.383650+00:00
+ - user: None
+ - tags: []
+
+## SQLite Cloud
+ - [https://blog.sqlitecloud.io](https://blog.sqlitecloud.io)
+ - date published: 2023-10-25T20:07:34.803434+00:00
+ - user: None
+ - tags: []
+
+## SQLite Cloud Documentation
+ - [https://docs.sqlitecloud.io](https://docs.sqlitecloud.io)
+ - date published: 2024-03-05T16:11:00.223448+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Astro App
+ - [https://astro.sshh.io](https://astro.sshh.io)
+ - date published: 2024-03-04T15:24:35+00:00
  - user: None
  - tags: []
 

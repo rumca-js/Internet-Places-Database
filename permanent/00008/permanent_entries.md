@@ -1,15 +1,3 @@
-## Johnny Cash Has Been Everywhere (Man)! - Music Hack Day London 2012 - Iain Mullan
- - [https://www.johnnycashhasbeeneverywhere.com](https://www.johnnycashhasbeeneverywhere.com)
- - date published: 2023-10-25T11:07:59.661696+00:00
- - user: None
- - tags: ['animation', 'funny']
-
-## 11.01 Introduction║J•D
- - [https://johnnydecimal.com](https://johnnydecimal.com)
- - date published: 2023-10-25T15:30:19.537551+00:00
- - user: None
- - tags: []
-
 ## johnnyreilly | johnnyreilly
  - [https://johnnyreilly.com](https://johnnyreilly.com)
  - date published: 2023-10-25T15:30:28.366557+00:00
@@ -28,7 +16,7 @@
  - user: None
  - tags: ['personal']
 
-## None
+## JohnPaul Baric
  - [https://johnpaulbaric.com](https://johnpaulbaric.com)
  - date published: 2023-12-31T21:20:13.421240+00:00
  - user: None
@@ -299,16 +287,16 @@
  - tags: ['personal']
 
 ## Jose Munoz | Product Designer
- - [http://www.josemunozmatos.com](http://www.josemunozmatos.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jose Munoz | Product Designer
  - [https://www.josemunozmatos.com](https://www.josemunozmatos.com)
  - date published: 2023-12-11T23:18:46.523295+00:00
  - user: None
  - tags: ['personal']
+
+## Jose Munoz | Product Designer
+ - [http://www.josemunozmatos.com](http://www.josemunozmatos.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Joseon
  - [https://www.joseon.com](https://www.joseon.com)
@@ -377,14 +365,14 @@
  - tags: []
 
 ## JOSH BICKNELL
- - [https://joshbicknell.com](https://joshbicknell.com)
- - date published: 2024-01-09T02:40:54.271568+00:00
+ - [http://joshbicknell.com](http://joshbicknell.com)
+ - date published: 2024-04-03T06:31:38.790426+00:00
  - user: None
  - tags: ['personal']
 
 ## JOSH BICKNELL
- - [http://joshbicknell.com](http://joshbicknell.com)
- - date published: 2024-04-03T06:31:38.790426+00:00
+ - [https://joshbicknell.com](https://joshbicknell.com)
+ - date published: 2024-01-09T02:40:54.271568+00:00
  - user: None
  - tags: ['personal']
 
@@ -550,15 +538,15 @@
  - user: None
  - tags: []
 
-## DNS resolution error | www.joyfulpessimism.com | Cloudflare
- - [http://www.joyfulpessimism.com](http://www.joyfulpessimism.com)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Joyful Pessimism: Sex, Mental Illness, and Philosophy | Michael Ellsberg | Substack
  - [https://www.joyfulpessimism.com](https://www.joyfulpessimism.com)
  - date published: 2024-01-07T05:12:18.416843+00:00
+ - user: None
+ - tags: []
+
+## DNS resolution error | www.joyfulpessimism.com | Cloudflare
+ - [http://www.joyfulpessimism.com](http://www.joyfulpessimism.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -892,7 +880,7 @@
  - user: None
  - tags: []
 
-## None
+## Justine Angelis
  - [https://justineangelis.com](https://justineangelis.com)
  - date published: 2024-01-05T10:28:28.567869+00:00
  - user: None
@@ -1571,14 +1559,14 @@
  - tags: []
 
 ## Keith Kritselis - Creative, Adaptive, Problem Solver
- - [http://www.keithkritselis.com](http://www.keithkritselis.com)
- - date published: 2024-04-03T06:31:50.305602+00:00
+ - [https://www.keithkritselis.com](https://www.keithkritselis.com)
+ - date published: 2024-02-10T21:33:58.540014+00:00
  - user: None
  - tags: ['personal']
 
 ## Keith Kritselis - Creative, Adaptive, Problem Solver
- - [https://www.keithkritselis.com](https://www.keithkritselis.com)
- - date published: 2024-02-10T21:33:58.540014+00:00
+ - [http://www.keithkritselis.com](http://www.keithkritselis.com)
+ - date published: 2024-04-03T06:31:50.305602+00:00
  - user: None
  - tags: ['personal']
 
@@ -2684,12 +2672,6 @@
 ## Home
  - [https://www.kptv.com](https://www.kptv.com)
  - date published: 2023-10-25T15:38:57.920289+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://www.kqzyfj.com](https://www.kqzyfj.com)
- - date published: 2024-02-24T04:35:51.383375+00:00
  - user: None
  - tags: []
 
@@ -3979,13 +3961,13 @@ Chamber Music, Symphony
  - tags: ['entertainment news', 'movie news']
 
 ## Legends of Kallisti
- - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
+ - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Legends of Kallisti
- - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
+ - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
@@ -4012,7 +3994,7 @@ Chamber Music, Symphony
  - [https://www.legocerthub.com](https://www.legocerthub.com)
  - date published: 2024-04-08T19:31:45.114253+00:00
  - user: None
- - tags: []
+ - tags: ['cert warden', 'acme certificate management']
 
 ## The Lego Mirror
  - [https://blog.legoktm.com](https://blog.legoktm.com)
@@ -4135,14 +4117,14 @@ Chamber Music, Symphony
  - tags: ['personal']
 
 ## About Me - Leo Alexander Glowacki
- - [http://leoglowacki.com](http://leoglowacki.com)
- - date published: 2024-04-03T06:27:09.410241+00:00
+ - [https://leoglowacki.com](https://leoglowacki.com)
+ - date published: 2024-01-29T23:27:30.561916+00:00
  - user: None
  - tags: ['personal']
 
 ## About Me - Leo Alexander Glowacki
- - [https://leoglowacki.com](https://leoglowacki.com)
- - date published: 2024-01-29T23:27:30.561916+00:00
+ - [http://leoglowacki.com](http://leoglowacki.com)
+ - date published: 2024-04-03T06:27:09.410241+00:00
  - user: None
  - tags: ['personal']
 
@@ -5998,6 +5980,24 @@ diversions.
 ## Lyft Engineering
  - [https://eng.lyft.com](https://eng.lyft.com)
  - date published: 2023-10-25T15:52:56.040719+00:00
+ - user: None
+ - tags: []
+
+## Lyft: A ride whenever you need one
+ - [https://www.lyft.com](https://www.lyft.com)
+ - date published: 2023-10-25T15:53:08.852973+00:00
+ - user: None
+ - tags: []
+
+## Borys - Home
+ - [https://www.lykahb.com](https://www.lykahb.com)
+ - date published: 2023-10-25T15:53:09.438218+00:00
+ - user: None
+ - tags: []
+
+## Lý Minh Nhật
+ - [https://lyminhnhat.com](https://lyminhnhat.com)
+ - date published: 2024-01-22T10:09:57.842731+00:00
  - user: None
  - tags: []
 

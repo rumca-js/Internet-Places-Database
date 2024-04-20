@@ -442,17 +442,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://chrisjstott.com](http://chrisjstott.com)
- - date published: 2024-02-29T14:58:49.595292+00:00
- - user: None
- - tags: []
-
 ## http://chrisjstott.com
  - [https://chrisjstott.com](https://chrisjstott.com)
  - date published: 2024-01-24T08:01:05.864817+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [http://chrisjstott.com](http://chrisjstott.com)
+ - date published: 2024-02-29T14:58:49.595292+00:00
+ - user: None
+ - tags: []
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -647,14 +647,14 @@
  - tags: ['personal']
 
 ## Christoph Gruber
- - [http://www.christophgruber.com](http://www.christophgruber.com)
- - date published: 2024-04-03T06:25:56.066461+00:00
+ - [https://www.christophgruber.com](https://www.christophgruber.com)
+ - date published: 2024-01-17T04:43:22.299793+00:00
  - user: None
  - tags: ['personal']
 
 ## Christoph Gruber
- - [https://www.christophgruber.com](https://www.christophgruber.com)
- - date published: 2024-01-17T04:43:22.299793+00:00
+ - [http://www.christophgruber.com](http://www.christophgruber.com)
+ - date published: 2024-04-03T06:25:56.066461+00:00
  - user: None
  - tags: ['personal']
 
@@ -665,16 +665,16 @@
  - tags: []
 
 ## Blog | Chris Warrick
- - [http://chriswarrick.com](http://chriswarrick.com)
- - date published: 2024-02-25T15:45:10.545891+00:00
- - user: None
- - tags: []
-
-## Blog | Chris Warrick
  - [https://chriswarrick.com](https://chriswarrick.com)
  - date published: 2023-10-25T09:19:47.812882+00:00
  - user: None
  - tags: ['personal']
+
+## Blog | Chris Warrick
+ - [http://chriswarrick.com](http://chriswarrick.com)
+ - date published: 2024-02-25T15:45:10.545891+00:00
+ - user: None
+ - tags: []
 
 ## Chris Zacharias
  - [https://blog.chriszacharias.com](https://blog.chriszacharias.com)
@@ -1208,12 +1208,6 @@
  - [https://claytonjohnson.com](https://claytonjohnson.com)
  - date published: 2024-01-22T18:19:01.467874+00:00
  - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://link.cldkid.com](https://link.cldkid.com)
- - date published: 2024-01-22T18:43:04.866147+00:00
- - user: rumpel
  - tags: []
 
 ## Cleantech News — #1 In EV, Solar, Wind, Tesla News
@@ -1903,7 +1897,7 @@
  - [https://www.codewithjason.com](https://www.codewithjason.com)
  - date published: 2023-10-25T13:28:40.388558+00:00
  - user: None
- - tags: []
+ - tags: ['ruby', 'personal', 'rails', 'tutorials']
 
 ## CodeWritePlay – Game Development, Tech, Humor
  - [https://codewriteplay.com](https://codewriteplay.com)
@@ -1972,16 +1966,16 @@
  - tags: []
 
 ## Coffee For The Brain
- - [http://coffeeforthebrain.com](http://coffeeforthebrain.com)
- - date published: 2024-03-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Coffee For The Brain
  - [https://coffeeforthebrain.com](https://coffeeforthebrain.com)
  - date published: 2023-12-03T15:55:03.673637+00:00
  - user: None
  - tags: ['personal']
+
+## Coffee For The Brain
+ - [http://coffeeforthebrain.com](http://coffeeforthebrain.com)
+ - date published: 2024-03-26T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## CogDogBlog – Alan Levine barks about and plays with stuff here
  - [https://cogdogblog.com](https://cogdogblog.com)
@@ -2457,15 +2451,15 @@
  - user: None
  - tags: []
 
-## IT news, careers, business technology, reviews
- - [http://www.computerworld.com](http://www.computerworld.com)
- - date published: 2024-02-25T19:22:09.150165+00:00
- - user: None
- - tags: []
-
 ## IT news, careers, business technology, reviews | Computerworld
  - [https://www.computerworld.com](https://www.computerworld.com)
  - date published: 2023-10-25T09:32:24.152677+00:00
+ - user: None
+ - tags: []
+
+## IT news, careers, business technology, reviews
+ - [http://www.computerworld.com](http://www.computerworld.com)
+ - date published: 2024-02-25T19:22:09.150165+00:00
  - user: None
  - tags: []
 
@@ -2599,7 +2593,7 @@
  - [https://containercve.com](https://containercve.com)
  - date published: 2023-12-30T02:16:21+00:00
  - user: None
- - tags: []
+ - tags: ['verification', 'docker', 'online tool']
 
 ## Best Free AI Copywriting & SEO Content Generation Tool | ContentEdge
  - [https://www.contentedge.com](https://www.contentedge.com)
@@ -2895,15 +2889,15 @@
  - user: None
  - tags: []
 
-## Cory Shaw
- - [http://coryshaw.com](http://coryshaw.com)
- - date published: 2024-04-03T06:25:46.463221+00:00
- - user: None
- - tags: ['personal']
-
 ## Cory Shaw | Cory Shaw
  - [https://coryshaw.com](https://coryshaw.com)
  - date published: 2024-01-08T15:36:54.508225+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cory Shaw
+ - [http://coryshaw.com](http://coryshaw.com)
+ - date published: 2024-04-03T06:25:46.463221+00:00
  - user: None
  - tags: ['personal']
 
@@ -3147,15 +3141,15 @@
  - user: None
  - tags: []
 
-## craig wickesser
- - [http://craigwickesser.com](http://craigwickesser.com)
- - date published: 2024-04-03T06:23:00.035755+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [https://craigwickesser.com](https://craigwickesser.com)
  - date published: 2023-12-27T18:11:54.496669+00:00
+ - user: None
+ - tags: ['personal']
+
+## craig wickesser
+ - [http://craigwickesser.com](http://craigwickesser.com)
+ - date published: 2024-04-03T06:23:00.035755+00:00
  - user: None
  - tags: ['personal']
 
@@ -3368,12 +3362,6 @@
  - date published: 2023-12-08T08:32:11.970323+00:00
  - user: None
  - tags: ['personal']
-
-## renegat0x0 site
- - [https://bidder.criteo.com](https://bidder.criteo.com)
- - date published: 2024-01-09T02:33:07.736974+00:00
- - user: None
- - tags: []
 
 ## The Criterion Collection
  - [https://www.criterion.com](https://www.criterion.com)
@@ -4127,14 +4115,14 @@
  - tags: []
 
 ## The Daily Caller
- - [https://dailycaller.com](https://dailycaller.com)
- - date published: 2023-10-25T13:41:19.635856+00:00
+ - [http://dailycaller.com](http://dailycaller.com)
+ - date published: 2024-02-26T13:39:38.331957+00:00
  - user: None
  - tags: []
 
 ## The Daily Caller
- - [http://dailycaller.com](http://dailycaller.com)
- - date published: 2024-02-26T13:39:38.331957+00:00
+ - [https://dailycaller.com](https://dailycaller.com)
+ - date published: 2023-10-25T13:41:19.635856+00:00
  - user: None
  - tags: []
 
@@ -4450,17 +4438,17 @@
  - user: None
  - tags: []
 
-## Daniel Hoang – Experienced management consultant x creative. Xennial bridging analog with digital at the intersection of humanity and machine. Scrappy, creative, and fast.
- - [https://danielhoang.com](https://danielhoang.com)
- - date published: 2023-12-12T09:24:31.582869+00:00
- - user: None
- - tags: []
-
 ## Daniel Hoang
  - [http://danielhoang.com](http://danielhoang.com)
  - date published: 2024-04-03T06:29:29.746239+00:00
  - user: None
  - tags: ['personal']
+
+## Daniel Hoang – Experienced management consultant x creative. Xennial bridging analog with digital at the intersection of humanity and machine. Scrappy, creative, and fast.
+ - [https://danielhoang.com](https://danielhoang.com)
+ - date published: 2023-12-12T09:24:31.582869+00:00
+ - user: None
+ - tags: []
 
 ## Daniel Hoang
  - [https://www.danielhoang.com](https://www.danielhoang.com)
@@ -4630,15 +4618,15 @@
  - user: None
  - tags: ['personal']
 
-## https://www.danpalladinomusic.com
- - [https://www.danpalladinomusic.com](https://www.danpalladinomusic.com)
- - date published: 2024-01-04T03:32:32.543499+00:00
- - user: None
- - tags: ['personal']
-
 ## Dan Palladino Music
  - [http://www.danpalladinomusic.com](http://www.danpalladinomusic.com)
  - date published: 2024-04-03T06:32:27.082972+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.danpalladinomusic.com
+ - [https://www.danpalladinomusic.com](https://www.danpalladinomusic.com)
+ - date published: 2024-01-04T03:32:32.543499+00:00
  - user: None
  - tags: ['personal']
 
@@ -5489,16 +5477,16 @@
  - tags: ['personal']
 
 ## Deborah Peacock Photography - Home
- - [http://www.deborahpeacock.com](http://www.deborahpeacock.com)
- - date published: 2024-04-03T06:24:15.192889+00:00
- - user: None
- - tags: ['personal']
-
-## Deborah Peacock Photography - Home
  - [https://www.deborahpeacock.com](https://www.deborahpeacock.com)
  - date published: 2024-01-13T04:52:40.631780+00:00
  - user: None
  - tags: []
+
+## Deborah Peacock Photography - Home
+ - [http://www.deborahpeacock.com](http://www.deborahpeacock.com)
+ - date published: 2024-04-03T06:24:15.192889+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Deborah Zhang
  - [https://deborahzhang.com](https://deborahzhang.com)
@@ -5855,14 +5843,14 @@
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [https://democratherald.com](https://democratherald.com)
- - date published: 2023-11-04T05:50:19.542658+00:00
+ - [http://democratherald.com](http://democratherald.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [http://democratherald.com](http://democratherald.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://democratherald.com](https://democratherald.com)
+ - date published: 2023-11-04T05:50:19.542658+00:00
  - user: None
  - tags: []
 
@@ -6003,4 +5991,16 @@
  - date published: 2024-03-04T09:39:26.593720+00:00
  - user: None
  - tags: ['programming articles']
+
+## Vintage Computing
+ - [https://deramp.com](https://deramp.com)
+ - date published: 2024-01-01T18:26:34+00:00
+ - user: None
+ - tags: []
+
+## Derek Houck
+ - [https://derekhouck.com](https://derekhouck.com)
+ - date published: 2023-12-19T02:59:18.608346+00:00
+ - user: None
+ - tags: ['personal']
 

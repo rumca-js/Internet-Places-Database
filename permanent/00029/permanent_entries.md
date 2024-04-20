@@ -1,30 +1,6 @@
-## Leading Negotiation Training & Consultancy | Scotwork UK
- - [https://www.scotwork.co.uk](https://www.scotwork.co.uk)
- - date published: 2023-11-25T17:09:14.277304+00:00
- - user: None
- - tags: []
-
-## https://www.sharondale.co.uk
- - [https://www.sharondale.co.uk](https://www.sharondale.co.uk)
- - date published: 2024-01-11T20:48:51.845842+00:00
- - user: None
- - tags: ['personal']
-
-## Premium Miniature Painting - Siege Studios
- - [https://siegestudios.co.uk](https://siegestudios.co.uk)
- - date published: 2024-01-22T08:55:36+00:00
- - user: rumpel
- - tags: ['wargames', 'tabletop games', 'warhammer']
-
 ## Solipsys Limited
  - [http://www.solipsys.co.uk](http://www.solipsys.co.uk)
  - date published: 2024-02-26T10:07:02.334796+00:00
- - user: None
- - tags: []
-
-## Solipsys Limited
- - [https://www.solipsys.co.uk](https://www.solipsys.co.uk)
- - date published: 2023-10-25T22:54:54.092544+00:00
  - user: None
  - tags: []
 
@@ -1572,12 +1548,6 @@
  - user: None
  - tags: []
 
-## renegat0x0 site
- - [https://ut.e-planning.video](https://ut.e-planning.video)
- - date published: 2024-01-09T03:48:42.292740+00:00
- - user: None
- - tags: []
-
 ## Frigate: Open-source network video recorder with real-time AI object detection
  - [https://frigate.video](https://frigate.video)
  - date published: 2023-11-18T16:44:44+00:00
@@ -2496,6 +2466,12 @@
  - user: None
  - tags: []
 
+## Hirad
+ - [https://www.hirad.xyz](https://www.hirad.xyz)
+ - date published: 2024-04-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## India Dispatch - Aggregating and commenting on essential news on Indian startups and VC and PE investments.
  - [https://indiadispatch.xyz](https://indiadispatch.xyz)
  - date published: 2024-03-18T05:38:35.325377+00:00
@@ -2966,6 +2942,12 @@
  - user: None
  - tags: []
 
+## webls: ./
+ - [https://webls.x4204.xyz](https://webls.x4204.xyz)
+ - date published: 2024-04-19T23:19:09.711178+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: Zaranova – A game where you must pretend you are an AI
  - [https://zaranova.xyz](https://zaranova.xyz)
  - date published: 2023-12-22T19:00:22+00:00
@@ -3213,16 +3195,16 @@
  - tags: []
 
 ## manu
- - [http://manu.zone](http://manu.zone)
- - date published: 1980-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## manu
  - [https://manu.zone](https://manu.zone)
  - date published: 2023-10-25T09:25:17.649037+00:00
  - user: None
  - tags: ['personal']
+
+## manu
+ - [http://manu.zone](http://manu.zone)
+ - date published: 1980-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## 403 Forbidden
  - [https://morph.zone](https://morph.zone)
@@ -3261,14 +3243,14 @@
  - tags: ['mastodon']
 
 ## The Zimbabwe Sphere
- - [https://www.zimsphere.co.zw](https://www.zimsphere.co.zw)
- - date published: 2024-01-09T03:49:05.321457+00:00
+ - [http://www.zimsphere.co.zw](http://www.zimsphere.co.zw)
+ - date published: 2024-02-26T14:04:23.431504+00:00
  - user: None
  - tags: []
 
 ## The Zimbabwe Sphere
- - [http://www.zimsphere.co.zw](http://www.zimsphere.co.zw)
- - date published: 2024-02-26T14:04:23.431504+00:00
+ - [https://www.zimsphere.co.zw](https://www.zimsphere.co.zw)
+ - date published: 2024-01-09T03:49:05.321457+00:00
  - user: None
  - tags: []
 

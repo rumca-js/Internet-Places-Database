@@ -1,75 +1,3 @@
-## Fun With The Cloud | Yehuda Cohen | Substack
- - [https://yehudacohen.substack.com](https://yehudacohen.substack.com)
- - date published: 2023-10-25T10:07:41.995878+00:00
- - user: None
- - tags: ['substack']
-
-## Yassine Meskhout | Substack
- - [https://ymeskhout.substack.com](https://ymeskhout.substack.com)
- - date published: 2024-01-09T01:46:07.746464+00:00
- - user: None
- - tags: []
-
-## Yassine Meskhout | Substack
- - [http://ymeskhout.substack.com](http://ymeskhout.substack.com)
- - date published: 2024-02-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Simon's Blog | Simon Farshid | Substack
- - [https://yonom.substack.com](https://yonom.substack.com)
- - date published: 2024-01-09T01:46:10.208730+00:00
- - user: None
- - tags: []
-
-## Simon's Blog | Simon Farshid | Substack
- - [http://yonom.substack.com](http://yonom.substack.com)
- - date published: 2024-02-26T12:59:31.184768+00:00
- - user: None
- - tags: []
-
-## Your Local Epidemiologist | Katelyn Jetelina | Substack
- - [http://yourlocalepidemiologist.substack.com](http://yourlocalepidemiologist.substack.com)
- - date published: 2024-02-26T14:40:09.365548+00:00
- - user: None
- - tags: []
-
-## Your Local Epidemiologist | Katelyn Jetelina | Substack
- - [https://yourlocalepidemiologist.substack.com](https://yourlocalepidemiologist.substack.com)
- - date published: 2024-01-09T01:46:11.980363+00:00
- - user: None
- - tags: []
-
-## In The Long Run | Zachary D. Carter | Substack
- - [https://zacharydcarter.substack.com](https://zacharydcarter.substack.com)
- - date published: 2023-10-25T10:07:50.275708+00:00
- - user: None
- - tags: ['substack']
-
-## Leading Developers | Anton Zaides | Substack
- - [https://zaidesanton.substack.com](https://zaidesanton.substack.com)
- - date published: 2024-01-01T18:35:56.304888+00:00
- - user: None
- - tags: []
-
-## Leading Developers | Anton Zaides | Substack
- - [http://zaidesanton.substack.com](http://zaidesanton.substack.com)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Insight Axis | Zan Tafakari | Substack
- - [https://zantafakari.substack.com](https://zantafakari.substack.com)
- - date published: 2024-01-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://zeneca33.substack.com
- - [https://zeneca33.substack.com](https://zeneca33.substack.com)
- - date published: 2024-02-08T22:03:02.225518+00:00
- - user: None
- - tags: []
-
 ## Zero Day | Kim Zetter | Substack
  - [https://zetter.substack.com](https://zetter.substack.com)
  - date published: 2023-10-25T10:07:53.099694+00:00
@@ -88,15 +16,15 @@
  - user: None
  - tags: []
 
-## zverok on lucid code | Victor Shepelev aka zverok | Substack
- - [http://zverok.substack.com](http://zverok.substack.com)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
 ## https://zverok.substack.com
  - [https://zverok.substack.com](https://zverok.substack.com)
  - date published: 2024-01-23T03:19:16.516653+00:00
+ - user: None
+ - tags: []
+
+## zverok on lucid code | Victor Shepelev aka zverok | Substack
+ - [http://zverok.substack.com](http://zverok.substack.com)
+ - date published: 2024-01-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -862,18 +790,6 @@
  - user: None
  - tags: ['tabletop models', 'tabletop games', 'miniatures']
 
-## renegat0x0 site
- - [https://cdn.taboola.com](https://cdn.taboola.com)
- - date published: 2023-12-18T17:19:26.211579+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://trc.taboola.com](https://trc.taboola.com)
- - date published: 2023-12-18T17:16:54.076202+00:00
- - user: None
- - tags: []
-
 ## Home - Tachyon Publications
  - [https://tachyonpublications.com](https://tachyonpublications.com)
  - date published: 2024-04-03T00:00:00+00:00
@@ -991,6 +907,12 @@
 ## Show HN: Talk Paper Scissors
  - [https://talkpaperscissors.com](https://talkpaperscissors.com)
  - date published: 2023-12-23T16:16:54+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Talk to Me Human – my game about social persuasion
+ - [https://talktomehuman.com](https://talktomehuman.com)
+ - date published: 2024-04-19T20:03:45+00:00
  - user: None
  - tags: []
 
@@ -2176,6 +2098,12 @@
  - user: None
  - tags: ['personal']
 
+## That Park Place
+ - [https://thatparkplace.com](https://thatparkplace.com)
+ - date published: 2024-04-12T00:00:00+00:00
+ - user: None
+ - tags: ['theme parks']
+
 ## The finger, deal with it.
  - [https://thatsthefinger.com](https://thatsthefinger.com)
  - date published: 2023-10-27T10:40:28.736495+00:00
@@ -2315,14 +2243,14 @@
  - tags: []
 
 ## World Edition - The Atlantic
- - [http://www.theatlantic.com](http://www.theatlantic.com)
- - date published: 2024-02-25T15:17:02.964527+00:00
+ - [https://www.theatlantic.com](https://www.theatlantic.com)
+ - date published: 2023-10-25T10:28:51.647818+00:00
  - user: None
  - tags: []
 
 ## World Edition - The Atlantic
- - [https://www.theatlantic.com](https://www.theatlantic.com)
- - date published: 2023-10-25T10:28:51.647818+00:00
+ - [http://www.theatlantic.com](http://www.theatlantic.com)
+ - date published: 2024-02-25T15:17:02.964527+00:00
  - user: None
  - tags: []
 
@@ -2357,16 +2285,16 @@
  - tags: []
 
 ## Construction's Leading Video Channel - The B1M
- - [https://www.theb1m.com](https://www.theb1m.com)
- - date published: 2023-11-20T12:43:48.423603+00:00
- - user: None
- - tags: ['architecture', 'engineering', 'construction']
-
-## Construction's Leading Video Channel - The B1M
  - [http://www.theb1m.com](http://www.theb1m.com)
  - date published: 2024-02-21T00:00:00+00:00
  - user: None
  - tags: []
+
+## Construction's Leading Video Channel - The B1M
+ - [https://www.theb1m.com](https://www.theb1m.com)
+ - date published: 2023-11-20T12:43:48.423603+00:00
+ - user: None
+ - tags: ['architecture', 'engineering', 'construction']
 
 ## The Baffler—The Journal That Blunts the Cutting Edge
  - [https://thebaffler.com](https://thebaffler.com)
@@ -3888,15 +3816,15 @@
  - user: None
  - tags: []
 
-## Enterprise Technology News and Analysis
- - [http://www.theregister.com](http://www.theregister.com)
- - date published: 2024-02-26T13:56:43.064822+00:00
- - user: None
- - tags: []
-
 ## The Register: Enterprise Technology News and Analysis
  - [https://www.theregister.com](https://www.theregister.com)
  - date published: 2023-10-25T10:29:03.269877+00:00
+ - user: None
+ - tags: []
+
+## Enterprise Technology News and Analysis
+ - [http://www.theregister.com](http://www.theregister.com)
+ - date published: 2024-02-26T13:56:43.064822+00:00
  - user: None
  - tags: []
 
@@ -4700,16 +4628,16 @@
  - tags: ['personal']
 
 ## Thought Of Art
- - [https://www.thoughtofart.com](https://www.thoughtofart.com)
- - date published: 2023-12-03T01:43:10.562711+00:00
- - user: None
- - tags: []
-
-## Thought Of Art
  - [http://www.thoughtofart.com](http://www.thoughtofart.com)
  - date published: 2023-12-23T19:26:51.192455+00:00
  - user: None
  - tags: ['personal']
+
+## Thought Of Art
+ - [https://www.thoughtofart.com](https://www.thoughtofart.com)
+ - date published: 2023-12-03T01:43:10.562711+00:00
+ - user: None
+ - tags: []
 
 ## Digital Experience Monitoring | ThousandEyes
  - [https://www.thousandeyes.com](https://www.thousandeyes.com)
@@ -4861,15 +4789,15 @@
  - user: None
  - tags: []
 
-## Tibia - Free Massively Multiplayer Online Role-Playing Game - MMORPG
- - [https://www.tibia.com](https://www.tibia.com)
- - date published: 2023-10-25T17:41:36.567476+00:00
- - user: None
- - tags: []
-
 ## Tibia - Free Multiplayer Online Role Playing Game
  - [http://www.tibia.com](http://www.tibia.com)
  - date published: 2016-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Tibia - Free Massively Multiplayer Online Role-Playing Game - MMORPG
+ - [https://www.tibia.com](https://www.tibia.com)
+ - date published: 2023-10-25T17:41:36.567476+00:00
  - user: None
  - tags: []
 
@@ -5056,14 +4984,14 @@
  - tags: ['personal']
 
 ## TimDbg
- - [http://www.timdbg.com](http://www.timdbg.com)
- - date published: 2024-01-18T00:00:00+00:00
+ - [https://www.timdbg.com](https://www.timdbg.com)
+ - date published: 2023-10-25T17:42:00.344194+00:00
  - user: None
  - tags: []
 
 ## TimDbg
- - [https://www.timdbg.com](https://www.timdbg.com)
- - date published: 2023-10-25T17:42:00.344194+00:00
+ - [http://www.timdbg.com](http://www.timdbg.com)
+ - date published: 2024-01-18T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5188,14 +5116,14 @@
  - tags: []
 
 ## Home
- - [https://timgorichanaz.com](https://timgorichanaz.com)
- - date published: 2023-11-29T14:42:44.444226+00:00
+ - [http://timgorichanaz.com](http://timgorichanaz.com)
+ - date published: 1970-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Home
- - [http://timgorichanaz.com](http://timgorichanaz.com)
- - date published: 1970-01-01T00:00:00+00:00
+ - [https://timgorichanaz.com](https://timgorichanaz.com)
+ - date published: 2023-11-29T14:42:44.444226+00:00
  - user: None
  - tags: []
 
@@ -5326,14 +5254,14 @@
  - tags: ['personal']
 
 ## Blog do Tino Gomes
- - [https://blog.tinogomes.com](https://blog.tinogomes.com)
- - date published: 2023-12-17T05:07:31.704120+00:00
+ - [http://blog.tinogomes.com](http://blog.tinogomes.com)
+ - date published: 2024-04-03T06:24:29.843795+00:00
  - user: None
  - tags: ['personal']
 
 ## Blog do Tino Gomes
- - [http://blog.tinogomes.com](http://blog.tinogomes.com)
- - date published: 2024-04-03T06:24:29.843795+00:00
+ - [https://blog.tinogomes.com](https://blog.tinogomes.com)
+ - date published: 2023-12-17T05:07:31.704120+00:00
  - user: None
  - tags: ['personal']
 
@@ -5350,14 +5278,14 @@
  - tags: []
 
 ## Tiny Subversions | Darius Kazemi
- - [https://tinysubversions.com](https://tinysubversions.com)
- - date published: 2023-10-25T17:43:12.693676+00:00
+ - [http://tinysubversions.com](http://tinysubversions.com)
+ - date published: 2024-02-26T14:09:56.377973+00:00
  - user: None
  - tags: []
 
 ## Tiny Subversions | Darius Kazemi
- - [http://tinysubversions.com](http://tinysubversions.com)
- - date published: 2024-02-26T14:09:56.377973+00:00
+ - [https://tinysubversions.com](https://tinysubversions.com)
+ - date published: 2023-10-25T17:43:12.693676+00:00
  - user: None
  - tags: []
 
@@ -5388,12 +5316,6 @@
 ## Unreal Engine 5 multi-threaded rendering in the browser with WASM
  - [https://temple.tiwsamples.com](https://temple.tiwsamples.com)
  - date published: 2024-04-03T18:11:03+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://www.tkqlhce.com](https://www.tkqlhce.com)
- - date published: 2024-02-24T09:55:44.860880+00:00
  - user: None
  - tags: []
 
@@ -6002,4 +5924,82 @@
  - date published: 2023-10-25T08:48:10.913316+00:00
  - user: None
  - tags: ['personal']
+
+## Trader Joe's Prices
+ - [https://traderjoesprices.com](https://traderjoesprices.com)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## TradeWinds | Latest shipping and maritime news
+ - [https://www.tradewindsnews.com](https://www.tradewindsnews.com)
+ - date published: 2023-11-09T07:16:51.924656+00:00
+ - user: None
+ - tags: ['maritime news', 'logistics', 'news']
+
+## https://www.tradientblog.com
+ - [https://www.tradientblog.com](https://www.tradientblog.com)
+ - date published: 2024-01-09T02:51:43.277125+00:00
+ - user: None
+ - tags: []
+
+## TradingView: siga todos los mercados
+ - [https://es.tradingview.com](https://es.tradingview.com)
+ - date published: 2024-04-11T04:25:43.504031+00:00
+ - user: None
+ - tags: []
+
+## TradingView — Track All Markets
+ - [https://tradingview.com](https://tradingview.com)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
+## Echoes of Somewhere - Generative AI assisted experimental freeware 2.5D point and click adventure game research project
+ - [https://www.traffickinggame.com](https://www.traffickinggame.com)
+ - date published: 2023-10-25T17:45:30.023614+00:00
+ - user: None
+ - tags: []
+
+## Traffic Technology Today | Planning | Safety | Data Modeling | Smart Cities
+ - [https://www.traffictechnologytoday.com](https://www.traffictechnologytoday.com)
+ - date published: 2024-01-11T04:50:21.137124+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Trailhead Technology Partners
+ - [https://trailheadtechnology.com](https://trailheadtechnology.com)
+ - date published: 2023-10-25T17:45:32.800756+00:00
+ - user: None
+ - tags: []
+
+## The bitsavers main page
+ - [http://bitsavers.trailing-edge.com](http://bitsavers.trailing-edge.com)
+ - date published: 2023-10-25T17:45:33.848628+00:00
+ - user: None
+ - tags: []
+
+## Trail of Bits Blog
+ - [https://blog.trailofbits.com](https://blog.trailofbits.com)
+ - date published: 2023-10-25T17:45:39.302092+00:00
+ - user: None
+ - tags: []
+
+## Trail Runners Club
+ - [https://trailrunnersclub.com](https://trailrunnersclub.com)
+ - date published: 2024-02-08T16:50:10.764018+00:00
+ - user: None
+ - tags: []
+
+## Cheats, codes, solutions and trainers for PC Games, consoles and smartphones
+ - [https://trainerscity.com](https://trainerscity.com)
+ - date published: 2024-03-19T15:56:20+00:00
+ - user: rumpel
+ - tags: ['game trainers']
+
+## Home - Trains
+ - [https://www.trains.com](https://www.trains.com)
+ - date published: 2023-10-25T11:10:31.427688+00:00
+ - user: None
+ - tags: []
 

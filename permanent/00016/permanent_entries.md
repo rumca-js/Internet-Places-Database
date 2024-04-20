@@ -1,81 +1,3 @@
-## Error
- - [https://johnjosephkessel.wixsite.com](https://johnjosephkessel.wixsite.com)
- - date published: 2024-04-17T14:37:42.323502+00:00
- - user: None
- - tags: ['error']
-
-## Error
- - [https://robertjameshanrahan.wixsite.com](https://robertjameshanrahan.wixsite.com)
- - date published: 2024-04-03T06:24:22.904912+00:00
- - user: None
- - tags: ['personal']
-
-## Wix UX
- - [https://wix-ux.com](https://wix-ux.com)
- - date published: 2023-10-25T18:08:04.082110+00:00
- - user: None
- - tags: []
-
-## Wizarding World: The Official Home of Harry Potter
- - [https://www.wizardingworld.com](https://www.wizardingworld.com)
- - date published: 2023-10-25T14:07:20.273222+00:00
- - user: None
- - tags: ['harry potter', 'fantasy']
-
-## Wizard Of Trading | Learn to Trade Forex | Tradeology
- - [https://www.wizardoftrading.com](https://www.wizardoftrading.com)
- - date published: 2020-08-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dungeons & Dragons | Official Home of the World's Greatest Roleplaying Game
- - [https://dnd.wizards.com](https://dnd.wizards.com)
- - date published: 2023-10-25T14:21:12.029966+00:00
- - user: None
- - tags: ['dungeons and dragons', 'role playing games']
-
-## Magic: The Gathering | Official site for MTG news, sets, and events
- - [https://magic.wizards.com](https://magic.wizards.com)
- - date published: 2023-10-25T14:21:19.809601+00:00
- - user: None
- - tags: ['magic the gathering', 'card games']
-
-## Implement DNS in a weekend
- - [https://implement-dns.wizardzines.com](https://implement-dns.wizardzines.com)
- - date published: 2023-10-25T18:08:06.154837+00:00
- - user: None
- - tags: []
-
-## wizard zines
- - [https://wizardzines.com](https://wizardzines.com)
- - date published: 2023-11-25T03:59:34.755914+00:00
- - user: None
- - tags: []
-
-## Free Security Awareness Training, Phishing Simulation and Gamification
- - [https://www.wizer-training.com](https://www.wizer-training.com)
- - date published: 2023-10-25T18:08:09.120291+00:00
- - user: None
- - tags: []
-
-## WIZZ – Dream more. Live more. Be more.
- - [https://wizzair.com](https://wizzair.com)
- - date published: 2024-04-03T00:00:00+00:00
- - user: rumpel
- - tags: ['airline']
-
-## WJHG | News, Weather, Sports | Panama City, FL
- - [https://www.wjhg.com](https://www.wjhg.com)
- - date published: 2023-11-28T20:08:07.258023+00:00
- - user: None
- - tags: []
-
-## Arlington News, Weather, Sports, Breaking News | WJLA
- - [https://wjla.com](https://wjla.com)
- - date published: 2023-10-25T18:08:13.273867+00:00
- - user: None
- - tags: []
-
 ## Access Restricted
  - [https://www.wjtv.com](https://www.wjtv.com)
  - date published: 2024-01-09T02:54:32.978690+00:00
@@ -219,6 +141,12 @@
  - date published: 2024-03-05T00:00:00+00:00
  - user: None
  - tags: []
+
+## Women Who Code - Empowering women to excel in tech careers
+ - [https://womenwhocode.com](https://womenwhocode.com)
+ - date published: 2024-04-19T01:01:24.265453+00:00
+ - user: None
+ - tags: ['activism']
 
 ## Womp: Free 3D design software
  - [https://www.womp.com](https://www.womp.com)
@@ -1804,12 +1732,6 @@
  - user: None
  - tags: []
 
-## renegat0x0 site
- - [https://pixel.wp.com](https://pixel.wp.com)
- - date published: 2023-12-11T16:32:43.947809+00:00
- - user: None
- - tags: []
-
 ## WordPress, Your Way
  - [https://s0.wp.com](https://s0.wp.com)
  - date published: 2023-12-11T16:33:51.495054+00:00
@@ -1825,12 +1747,6 @@
 ## WordPress, Your Way
  - [https://s2.wp.com](https://s2.wp.com)
  - date published: 2023-12-11T16:33:20.299075+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://stats.wp.com](https://stats.wp.com)
- - date published: 2023-12-11T16:24:14.127852+00:00
  - user: None
  - tags: []
 
@@ -2278,17 +2194,17 @@
  - user: None
  - tags: []
 
-## Orbital Argument
- - [http://xkcd.com](http://xkcd.com)
- - date published: 2024-02-26T15:13:51.426193+00:00
- - user: None
- - tags: []
-
 ## xkcd: Daylight Saving Choice
  - [https://xkcd.com](https://xkcd.com)
  - date published: 2023-10-25T18:21:57.309268+00:00
  - user: None
  - tags: ['memes', 'funny images', 'comics']
+
+## Orbital Argument
+ - [http://xkcd.com](http://xkcd.com)
+ - date published: 2024-02-26T15:13:51.426193+00:00
+ - user: None
+ - tags: []
 
 ## x mod 2 | Kirk Thaker | Substack
  - [https://www.xmodtwo.com](https://www.xmodtwo.com)
@@ -2566,17 +2482,23 @@
  - user: None
  - tags: []
 
-## Hacker News
- - [https://news.ycombinator.com](https://news.ycombinator.com)
- - date published: 2023-10-25T18:22:31.665387+00:00
+## Apply to Y Combinator
+ - [https://apply.ycombinator.com](https://apply.ycombinator.com)
+ - date published: 2024-04-19T20:59:14.731220+00:00
  - user: None
- - tags: ['hacker']
+ - tags: []
 
 ## Hacker News
  - [http://news.ycombinator.com](http://news.ycombinator.com)
  - date published: 2024-03-23T00:00:00+00:00
  - user: None
  - tags: []
+
+## Hacker News
+ - [https://news.ycombinator.com](https://news.ycombinator.com)
+ - date published: 2023-10-25T18:22:31.665387+00:00
+ - user: None
+ - tags: ['hacker']
 
 ## Y Combinator
  - [https://www.ycombinator.com](https://www.ycombinator.com)
@@ -2824,29 +2746,11 @@
  - user: None
  - tags: []
 
-## NewRetroWave YouTube Channel
- - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
- - date published: 2023-11-13T09:23:17+00:00
+## Jeff Geerling YouTube Channel
+ - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
+ - date published: 2023-11-03T10:34:47+00:00
  - user: rumpel
- - tags: ['synthwave', 'new retro wave']
-
-## Miniac
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
- - date published: 2023-11-08T10:01:11+00:00
- - user: rumpel
- - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
-
-## Tabletop Minions
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
- - date published: 2023-11-08T09:59:26+00:00
- - user: rumpel
- - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
-
-## Luetin09 YouTube Channel
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
- - date published: 2023-11-08T09:33:03+00:00
- - user: rumpel
- - tags: ['wargames', 'tabletop games', 'warhammer']
+ - tags: ['youtuber', 'single-board', 'raspberry']
 
 ## Squidmar Miniatures
  - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
@@ -2854,17 +2758,11 @@
  - user: rumpel
  - tags: ['warhammer', 'wargames', 'miniatures']
 
-## Eta Prime YouTube Channel
- - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
- - date published: 2023-11-03T10:35:46+00:00
+## Luetin09 YouTube Channel
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
+ - date published: 2023-11-08T09:33:03+00:00
  - user: rumpel
- - tags: ['youtuber', 'single-board', 'raspberry']
-
-## Jeff Geerling YouTube Channel
- - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
- - date published: 2023-11-03T10:34:47+00:00
- - user: rumpel
- - tags: ['youtuber', 'single-board', 'raspberry']
+ - tags: ['wargames', 'tabletop games', 'warhammer']
 
 ## YouTube Channel hipoonios
  - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
@@ -2872,17 +2770,41 @@
  - user: rumpel
  - tags: ['amiga']
 
-## LukHash YouTube Channel
- - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
- - date published: 2023-11-03T14:42:18+00:00
+## Eta Prime YouTube Channel
+ - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
+ - date published: 2023-11-03T10:35:46+00:00
  - user: rumpel
- - tags: []
+ - tags: ['youtuber', 'single-board', 'raspberry']
+
+## Miniac
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
+ - date published: 2023-11-08T10:01:11+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
+
+## NewRetroWave YouTube Channel
+ - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
+ - date published: 2023-11-13T09:23:17+00:00
+ - user: rumpel
+ - tags: ['synthwave', 'new retro wave']
 
 ## YouTube
  - [http://www.youtube.com](http://www.youtube.com)
  - date published: 2024-03-06T00:00:00+00:00
  - user: None
  - tags: []
+
+## LukHash YouTube Channel
+ - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
+ - date published: 2023-11-03T14:42:18+00:00
+ - user: rumpel
+ - tags: []
+
+## Tabletop Minions
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
+ - date published: 2023-11-08T09:59:26+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
 
 ## YouTube
  - [https://www.youtube.com](https://www.youtube.com)
@@ -3186,16 +3108,16 @@
  - tags: ['demoscene']
 
 ## Zeldman on Web and Interaction Design
- - [http://www.zeldman.com](http://www.zeldman.com)
- - date published: 2024-03-24T15:07:23.649398+00:00
- - user: None
- - tags: []
-
-## Zeldman on Web and Interaction Design
  - [https://www.zeldman.com](https://www.zeldman.com)
  - date published: 2024-02-13T17:35:29.342852+00:00
  - user: None
  - tags: ['personal']
+
+## Zeldman on Web and Interaction Design
+ - [http://www.zeldman.com](http://www.zeldman.com)
+ - date published: 2024-03-24T15:07:23.649398+00:00
+ - user: None
+ - tags: []
 
 ## Lynn Haraldson, Author and Writing Mentor
  - [https://zenbaglady.com](https://zenbaglady.com)
@@ -3552,14 +3474,14 @@
  - tags: []
 
 ## None
- - [abcnews.go.comhttps](abcnews.go.comhttps)
- - date published: 2024-01-09T02:55:46.479176+00:00
+ - [https://abcnews.go.comhttps](https://abcnews.go.comhttps)
+ - date published: 2024-02-02T08:24:31.883332+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://abcnews.go.comhttps](https://abcnews.go.comhttps)
- - date published: 2024-02-02T08:24:31.883332+00:00
+ - [abcnews.go.comhttps](abcnews.go.comhttps)
+ - date published: 2024-01-09T02:55:46.479176+00:00
  - user: None
  - tags: []
 
@@ -3612,14 +3534,14 @@
  - tags: []
 
 ## Writing by Bob Doto
- - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
- - date published: 2024-02-26T14:37:32.413264+00:00
+ - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
+ - date published: 2024-01-09T02:55:47.919867+00:00
  - user: None
  - tags: []
 
 ## Writing by Bob Doto
- - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
- - date published: 2024-01-09T02:55:47.919867+00:00
+ - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
+ - date published: 2024-02-26T14:37:32.413264+00:00
  - user: None
  - tags: []
 
@@ -3657,7 +3579,7 @@
  - [https://neil.computer](https://neil.computer)
  - date published: 2023-10-25T18:26:32.134105+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Dot by New Computer
  - [https://new.computer](https://new.computer)
@@ -3933,7 +3855,7 @@
  - [https://blog.mlich.cz](https://blog.mlich.cz)
  - date published: 2024-02-23T02:32:09.898834+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Časopisy Masarykovy univerzity
  - [https://journals.muni.cz](https://journals.muni.cz)
@@ -4110,26 +4032,26 @@
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [http://amiga-news.de](http://amiga-news.de)
- - date published: 2024-02-26T14:42:58.001349+00:00
- - user: None
- - tags: []
-
-## amiga-news.de - Amiga-News auf den Punkt gebracht
  - [https://amiga-news.de](https://amiga-news.de)
  - date published: 2023-10-25T11:01:48.109047+00:00
  - user: None
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [https://www.amiga-news.de](https://www.amiga-news.de)
- - date published: 2024-01-09T02:56:04.543993+00:00
+ - [http://amiga-news.de](http://amiga-news.de)
+ - date published: 2024-02-26T14:42:58.001349+00:00
  - user: None
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
  - [http://www.amiga-news.de](http://www.amiga-news.de)
  - date published: 2024-02-26T14:42:59.175744+00:00
+ - user: None
+ - tags: []
+
+## amiga-news.de - Amiga-News auf den Punkt gebracht
+ - [https://www.amiga-news.de](https://www.amiga-news.de)
+ - date published: 2024-01-09T02:56:04.543993+00:00
  - user: None
  - tags: []
 
@@ -4367,6 +4289,13 @@
  - user: None
  - tags: []
 
+## media.ccc.de -
+home
+ - [https://media.ccc.de](https://media.ccc.de)
+ - date published: 2023-10-25T18:28:41.208202+00:00
+ - user: None
+ - tags: ['chaos computer club', 'hackers']
+
 ## home
 
 - media.ccc.de
@@ -4374,13 +4303,6 @@
  - date published: 2024-02-14T00:00:00+00:00
  - user: None
  - tags: []
-
-## media.ccc.de -
-home
- - [https://media.ccc.de](https://media.ccc.de)
- - date published: 2023-10-25T18:28:41.208202+00:00
- - user: None
- - tags: ['chaos computer club', 'hackers']
 
 ## See you soon … somewhere else! – C3VOC Streaming
  - [https://streaming.media.ccc.de](https://streaming.media.ccc.de)
@@ -4425,13 +4347,13 @@ home
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [http://www.classic-videogames.de](http://www.classic-videogames.de)
+ - [https://www.classic-videogames.de](https://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [https://www.classic-videogames.de](https://www.classic-videogames.de)
+ - [http://www.classic-videogames.de](http://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
@@ -5184,16 +5106,16 @@ Heinsohn
  - tags: []
 
 ## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
- - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
- - date published: 2024-02-15T02:00:01.330586+00:00
- - user: None
- - tags: ['video game music']
-
-## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
  - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
  - date published: 2024-02-15T22:13:44.143200+00:00
  - user: None
  - tags: ['demoscene']
+
+## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
+ - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
+ - date published: 2024-02-15T02:00:01.330586+00:00
+ - user: None
+ - tags: ['video game music']
 
 ## NeuroNagel : Neuroregulation, Neurofeedback, Biofeedback, Mentalsysteme und Mindmachines
  - [https://www.neuronagel.de](https://www.neuronagel.de)
@@ -5850,16 +5772,16 @@ Heinsohn
  - tags: []
 
 ## WHDLoad
- - [http://www.whdload.de](http://www.whdload.de)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## WHDLoad
  - [https://www.whdload.de](https://www.whdload.de)
  - date published: 2024-01-23T00:00:00+00:00
  - user: None
  - tags: ['amiga']
+
+## WHDLoad
+ - [http://www.whdload.de](http://www.whdload.de)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Serialized Gedanken
  - [https://valentin.willscher.de](https://valentin.willscher.de)
@@ -6002,6 +5924,84 @@ Heinsohn
 ## École supérieure d’art et de design d’Amiens / design | accueil
  - [https://esad-amiens.design](https://esad-amiens.design)
  - date published: 2023-12-11T16:19:11.537933+00:00
+ - user: None
+ - tags: []
+
+## FAST
+ - [https://www.fast.design](https://www.fast.design)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## feedme.design
+ - [https://www.feedme.design](https://www.feedme.design)
+ - date published: 2023-12-24T10:58:53.703752+00:00
+ - user: None
+ - tags: []
+
+## femke.design / Femke van Schoonhoven
+ - [https://www.femke.design](https://www.femke.design)
+ - date published: 2023-10-25T09:21:33.094419+00:00
+ - user: None
+ - tags: ['personal']
+
+## UX Design Portfolio of Gary Bacon - Home
+ - [https://gary.design](https://gary.design)
+ - date published: 2024-01-12T02:34:44.601604+00:00
+ - user: None
+ - tags: []
+
+## UX Design Portfolio of Gary Bacon - Home
+ - [http://gary.design](http://gary.design)
+ - date published: 2023-12-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Growth.Design — Better Products, Better Growth.
+ - [https://growth.design](https://growth.design)
+ - date published: 2023-10-25T18:34:22.781659+00:00
+ - user: None
+ - tags: []
+
+## Julie Chabin
+ - [https://www.julie.design](https://www.julie.design)
+ - date published: 2023-10-25T09:21:34.151926+00:00
+ - user: None
+ - tags: ['personal']
+
+## A mechanical keyboard with programmable knobs and full color screen panel
+ - [https://knob.design](https://knob.design)
+ - date published: 2024-02-29T19:38:07+00:00
+ - user: None
+ - tags: []
+
+## mastodon.design
+ - [https://mastodon.design](https://mastodon.design)
+ - date published: 2023-12-11T16:19:14.967288+00:00
+ - user: None
+ - tags: []
+
+## Medium.design
+ - [https://medium.design](https://medium.design)
+ - date published: 2024-03-22T15:04:13.826927+00:00
+ - user: None
+ - tags: []
+
+## MESHLESS DESIGN
+ - [https://meshless.design](https://meshless.design)
+ - date published: 2024-03-07T19:36:39.228012+00:00
+ - user: None
+ - tags: []
+
+## Home - Fluent 2 Design System
+ - [https://fluent2.microsoft.design](https://fluent2.microsoft.design)
+ - date published: 2023-10-25T18:34:24.950370+00:00
+ - user: None
+ - tags: []
+
+## Miris Whispers
+ - [https://blog.miris.design](https://blog.miris.design)
+ - date published: 2023-10-25T18:34:31.450280+00:00
  - user: None
  - tags: []
 

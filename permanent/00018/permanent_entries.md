@@ -1,75 +1,3 @@
-## Computer Science Department at Princeton University
- - [https://www.cs.princeton.edu](https://www.cs.princeton.edu)
- - date published: 2023-10-25T18:56:59.790460+00:00
- - user: None
- - tags: []
-
-## Home | Princeton University
- - [https://www.princeton.edu](https://www.princeton.edu)
- - date published: 2023-10-25T18:57:02.402538+00:00
- - user: None
- - tags: ['university']
-
-## CiteSeerX
- - [https://citeseerx.ist.psu.edu](https://citeseerx.ist.psu.edu)
- - date published: 2023-10-25T18:57:04.773829+00:00
- - user: None
- - tags: []
-
-## Sites at Penn State | Create websites easily with WordPress
- - [https://sites.psu.edu](https://sites.psu.edu)
- - date published: 2023-10-25T18:57:08.218702+00:00
- - user: None
- - tags: []
-
-## Penn State College of Earth and Mineral Sciences
- - [https://www.ems.psu.edu](https://www.ems.psu.edu)
- - date published: 2024-03-21T17:17:43.722779+00:00
- - user: None
- - tags: []
-
-## Penn State University
- - [https://www.psu.edu](https://www.psu.edu)
- - date published: 2023-11-01T07:44:07.480002+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://engineering.purdue.edu](https://engineering.purdue.edu)
- - date published: 2023-12-04T12:08:09.866347+00:00
- - user: None
- - tags: []
-
-## Purdue University
- - [https://www.purdue.edu](https://www.purdue.edu)
- - date published: 2023-11-06T05:55:24.051315+00:00
- - user: None
- - tags: []
-
-## Rice News | News and Media Relations | Rice University
- - [https://news.rice.edu](https://news.rice.edu)
- - date published: 2023-10-25T09:29:39.683713+00:00
- - user: None
- - tags: []
-
-## Rice
- - [https://rice.edu](https://rice.edu)
- - date published: 2023-10-27T13:02:00.219008+00:00
- - user: None
- - tags: ['university']
-
-## Rice University
- - [https://www.clear.rice.edu](https://www.clear.rice.edu)
- - date published: 2023-10-25T11:22:50.744610+00:00
- - user: None
- - tags: []
-
-## Rice CS
- - [https://www.cs.rice.edu](https://www.cs.rice.edu)
- - date published: 2024-01-21T02:57:02.989746+00:00
- - user: None
- - tags: []
-
 ## University of Richmond Writing Center & WAC Program
  - [http://writing2.richmond.edu](http://writing2.richmond.edu)
  - date published: 2024-03-07T17:56:47.784966+00:00
@@ -413,14 +341,14 @@
  - tags: []
 
 ## Stanford News
- - [https://news.stanford.edu](https://news.stanford.edu)
- - date published: 2023-10-25T18:58:41.013599+00:00
+ - [http://news.stanford.edu](http://news.stanford.edu)
+ - date published: 2024-02-26T13:11:04.090772+00:00
  - user: None
  - tags: []
 
 ## Stanford News
- - [http://news.stanford.edu](http://news.stanford.edu)
- - date published: 2024-02-26T13:11:04.090772+00:00
+ - [https://news.stanford.edu](https://news.stanford.edu)
+ - date published: 2023-10-25T18:58:41.013599+00:00
  - user: None
  - tags: []
 
@@ -2197,14 +2125,14 @@
  - tags: []
 
 ## Buttondown
- - [https://buttondown.email](https://buttondown.email)
- - date published: 2023-10-25T19:07:12.851726+00:00
+ - [http://buttondown.email](http://buttondown.email)
+ - date published: 2024-01-23T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Buttondown
- - [http://buttondown.email](http://buttondown.email)
- - date published: 2024-01-23T00:00:00+00:00
+ - [https://buttondown.email](https://buttondown.email)
+ - date published: 2023-10-25T19:07:12.851726+00:00
  - user: None
  - tags: []
 
@@ -2466,15 +2394,15 @@
  - user: None
  - tags: ['personal']
 
-## Exist
- - [https://leejon.es](https://leejon.es)
- - date published: 2024-01-31T18:44:31.519646+00:00
- - user: None
- - tags: []
-
 ## Lee Jones | Software Development, Product Design, Productivity
  - [http://leejon.es](http://leejon.es)
  - date published: 2024-03-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Exist
+ - [https://leejon.es](https://leejon.es)
+ - date published: 2024-01-31T18:44:31.519646+00:00
  - user: None
  - tags: []
 
@@ -3151,14 +3079,14 @@
  - tags: []
 
 ## NOYB enforces your right to privacy everyday
- - [http://noyb.eu](http://noyb.eu)
- - date published: 2024-02-26T15:02:23.923642+00:00
+ - [https://noyb.eu](https://noyb.eu)
+ - date published: 2023-10-25T11:24:53.335930+00:00
  - user: None
  - tags: []
 
 ## NOYB enforces your right to privacy everyday
- - [https://noyb.eu](https://noyb.eu)
- - date published: 2023-10-25T11:24:53.335930+00:00
+ - [http://noyb.eu](http://noyb.eu)
+ - date published: 2024-02-26T15:02:23.923642+00:00
  - user: None
  - tags: []
 
@@ -3490,7 +3418,7 @@
  - [https://patrick.georgi.family](https://patrick.georgi.family)
  - date published: 2023-10-25T19:12:38.756579+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Unleash the power of web3 with Myth
  - [https://myth.fans](https://myth.fans)
@@ -3618,17 +3546,17 @@
  - user: None
  - tags: ['personal']
 
-## https://jope.fi
- - [https://jope.fi](https://jope.fi)
- - date published: 2024-01-11T00:42:53.136432+00:00
- - user: None
- - tags: []
-
 ## The X-Copy Shrine
  - [http://jope.fi/xcopy/index.html](http://jope.fi/xcopy/index.html)
  - date published: 2024-02-06T13:38:25.181349+00:00
  - user: rumpel
  - tags: ['amiga', 'x-copy']
+
+## https://jope.fi
+ - [https://jope.fi](https://jope.fi)
+ - date published: 2024-01-11T00:42:53.136432+00:00
+ - user: None
+ - tags: []
 
 ## Ville Jouppi
  - [http://jope.fi](http://jope.fi)
@@ -3643,13 +3571,13 @@
  - tags: []
 
 ## None
- - [http://kaaosradio.fi](http://kaaosradio.fi)
+ - [https://kaaosradio.fi](https://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://kaaosradio.fi](https://kaaosradio.fi)
+ - [http://kaaosradio.fi](http://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -4905,14 +4833,14 @@
  - tags: []
 
 ## brr
- - [http://brr.fyi](http://brr.fyi)
- - date published: 2024-01-18T00:00:00+00:00
+ - [https://brr.fyi](https://brr.fyi)
+ - date published: 2023-10-25T19:15:50.754055+00:00
  - user: None
  - tags: []
 
 ## brr
- - [https://brr.fyi](https://brr.fyi)
- - date published: 2023-10-25T19:15:50.754055+00:00
+ - [http://brr.fyi](http://brr.fyi)
+ - date published: 2024-01-18T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4959,14 +4887,14 @@
  - tags: []
 
 ## jade's www site
- - [http://jade.fyi](http://jade.fyi)
- - date published: 2024-01-27T00:00:00+00:00
+ - [https://jade.fyi](https://jade.fyi)
+ - date published: 2024-01-09T18:46:42.354724+00:00
  - user: None
  - tags: []
 
 ## jade's www site
- - [https://jade.fyi](https://jade.fyi)
- - date published: 2024-01-09T18:46:42.354724+00:00
+ - [http://jade.fyi](http://jade.fyi)
+ - date published: 2024-01-27T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5219,6 +5147,12 @@
 ## david wolfpaw – digital citizen
  - [https://david.garden](https://david.garden)
  - date published: 2024-02-25T19:11:26.871726+00:00
+ - user: None
+ - tags: []
+
+## Home | dead.garden
+ - [https://dead.garden](https://dead.garden)
+ - date published: 2024-04-13T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5564,15 +5498,15 @@
  - user: None
  - tags: []
 
-## The Keyword | Google Product and Technology News and Stories
- - [https://blog.google](https://blog.google)
- - date published: 2023-10-25T11:29:32.894232+00:00
- - user: None
- - tags: []
-
 ## The Keyword
  - [http://blog.google](http://blog.google)
  - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Keyword | Google Product and Technology News and Stories
+ - [https://blog.google](https://blog.google)
+ - date published: 2023-10-25T11:29:32.894232+00:00
  - user: None
  - tags: []
 
@@ -6005,6 +5939,74 @@
 ## U.S. Food and Drug Administration
  - [https://www.fda.gov](https://www.fda.gov)
  - date published: 2023-10-25T19:21:05.422596+00:00
+ - user: None
+ - tags: []
+
+## FDIC: Federal Deposit Insurance Corporation
+ - [https://www.fdic.gov](https://www.fdic.gov)
+ - date published: 2023-10-25T19:21:19.392966+00:00
+ - user: None
+ - tags: []
+
+## Federal Register
+       :: 
+      Home - Wednesday, October 25th
+ - [https://www.federalregister.gov](https://www.federalregister.gov)
+ - date published: 2023-10-25T19:21:22.351422+00:00
+ - user: None
+ - tags: ['federal documents']
+
+## Federal Reserve Board - Home
+ - [https://www.federalreserve.gov](https://www.federalreserve.gov)
+ - date published: 2023-10-25T19:21:25.826382+00:00
+ - user: None
+ - tags: []
+
+## FEMA.gov
+ - [https://www.fema.gov](https://www.fema.gov)
+ - date published: 2023-10-25T19:21:33.460504+00:00
+ - user: None
+ - tags: []
+
+## United States Department of the Treasury Financial Crimes Enforcement Network | FinCEN.gov
+ - [https://www.fincen.gov](https://www.fincen.gov)
+ - date published: 2023-10-25T19:21:37.717717+00:00
+ - user: None
+ - tags: []
+
+## Florida Department of Health
+ - [https://www.floridahealth.gov](https://www.floridahealth.gov)
+ - date published: 2023-10-25T19:21:43.397423+00:00
+ - user: None
+ - tags: []
+
+## Newsroom
+ - [https://news.fnal.gov](https://news.fnal.gov)
+ - date published: 2023-10-25T19:21:48.635515+00:00
+ - user: None
+ - tags: []
+
+## FOIAonline :: Decommissioned
+ - [https://foiaonline.gov](https://foiaonline.gov)
+ - date published: 2023-10-25T19:21:50.776367+00:00
+ - user: None
+ - tags: []
+
+## Federal Trade Commission | Protecting America's Consumers
+ - [https://www.ftc.gov](https://www.ftc.gov)
+ - date published: 2023-10-25T19:21:54.571295+00:00
+ - user: None
+ - tags: []
+
+## U.S. Government Accountability Office (U.S. GAO)
+ - [https://www.gao.gov](https://www.gao.gov)
+ - date published: 2023-11-27T15:17:10+00:00
+ - user: rumpel
+ - tags: []
+
+## GovInfo
+ - [https://www.govinfo.gov](https://www.govinfo.gov)
+ - date published: 2024-04-05T18:55:44.538688+00:00
  - user: None
  - tags: []
 

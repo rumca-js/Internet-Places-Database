@@ -1,57 +1,3 @@
-## Cierpliwości...
- - [https://paymentdepot.com](https://paymentdepot.com)
- - date published: 2024-03-28T07:01:16.127490+00:00
- - user: None
- - tags: []
-
-## PayneReactor
- - [https://paynereactor.com](https://paynereactor.com)
- - date published: 2024-02-08T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## E-płatności, wysyłaj pieniądze i akceptuj płatności | PayPal PL
- - [https://www.paypal.com](https://www.paypal.com)
- - date published: 2023-10-25T08:26:52.063948+00:00
- - user: None
- - tags: ['banking']
-
-## 403
- - [https://www.paypalobjects.com](https://www.paypalobjects.com)
- - date published: 2023-10-25T16:31:48.214530+00:00
- - user: None
- - tags: []
-
-## PayPal Status Page
- - [https://www.paypal-status.com](https://www.paypal-status.com)
- - date published: 2023-10-25T08:26:54.739488+00:00
- - user: None
- - tags: []
-
-## System płatności online dla Twojego biznesu | PayU Poland
- - [https://payu.com](https://payu.com)
- - date published: 2024-04-07T14:20:46+00:00
- - user: rumpel
- - tags: ['payment system']
-
-## Konto PayU
- - [https://secure.payu.com](https://secure.payu.com)
- - date published: 2024-04-07T14:02:43.730295+00:00
- - user: None
- - tags: []
-
-## Welcome to the Fellowship
- - [https://pbfcomics.com](https://pbfcomics.com)
- - date published: 2024-04-06T13:22:25.238344+00:00
- - user: None
- - tags: ['comics', 'personal', 'interesting']
-
-## Paul Kafasis
- - [https://pbones.com](https://pbones.com)
- - date published: 2023-12-23T07:30:37.057666+00:00
- - user: None
- - tags: ['personal']
-
 ## PC Builder AI
  - [https://www.pcbuilderai.com](https://www.pcbuilderai.com)
  - date published: 2023-10-25T16:31:48.907547+00:00
@@ -487,12 +433,6 @@
 ## Permission Slip by CR
  - [https://permissionslipcr.com](https://permissionslipcr.com)
  - date published: 2023-10-25T16:33:04.167505+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://cdn.permutive.com](https://cdn.permutive.com)
- - date published: 2024-01-09T02:46:30.830674+00:00
  - user: None
  - tags: []
 
@@ -1673,7 +1613,7 @@
  - [https://plbrault.com](https://plbrault.com)
  - date published: 2023-10-25T16:36:30.389683+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## pldb.com
  - [https://pldb.com](https://pldb.com)
@@ -1747,15 +1687,15 @@
  - user: None
  - tags: []
 
-## 無効なURLです
- - [https://plumshell.com](https://plumshell.com)
- - date published: 2024-01-09T02:46:44.613598+00:00
- - user: None
- - tags: []
-
 ## plumshell
  - [http://plumshell.com](http://plumshell.com)
  - date published: 2024-02-26T15:04:17.373885+00:00
+ - user: None
+ - tags: []
+
+## 無効なURLです
+ - [https://plumshell.com](https://plumshell.com)
+ - date published: 2024-01-09T02:46:44.613598+00:00
  - user: None
  - tags: []
 
@@ -1928,14 +1868,14 @@
  - tags: []
 
 ## De Angela L. Duff
- - [https://www.polishedsolid.com](https://www.polishedsolid.com)
- - date published: 2023-12-20T11:44:35.174499+00:00
+ - [http://www.polishedsolid.com](http://www.polishedsolid.com)
+ - date published: 2023-12-23T02:59:58.572062+00:00
  - user: None
  - tags: ['personal']
 
 ## De Angela L. Duff
- - [http://www.polishedsolid.com](http://www.polishedsolid.com)
- - date published: 2023-12-23T02:59:58.572062+00:00
+ - [https://www.polishedsolid.com](https://www.polishedsolid.com)
+ - date published: 2023-12-20T11:44:35.174499+00:00
  - user: None
  - tags: ['personal']
 
@@ -2498,14 +2438,14 @@
  - tags: []
 
 ## Preshing on Programming
- - [https://preshing.com](https://preshing.com)
- - date published: 2023-10-25T16:39:24.657091+00:00
+ - [http://preshing.com](http://preshing.com)
+ - date published: 2021-03-15T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Preshing on Programming
- - [http://preshing.com](http://preshing.com)
- - date published: 2021-03-15T00:00:00+00:00
+ - [https://preshing.com](https://preshing.com)
+ - date published: 2023-10-25T16:39:24.657091+00:00
  - user: None
  - tags: []
 
@@ -3839,6 +3779,12 @@
  - user: None
  - tags: []
 
+## Quill v2 – Rich text editor
+ - [https://quilljs.com](https://quilljs.com)
+ - date published: 2024-04-19T17:17:29+00:00
+ - user: None
+ - tags: ['text editor']
+
 ## QUINE Foundation Blog
  - [http://blog.quinefoundation.com](http://blog.quinefoundation.com)
  - date published: 2023-10-25T16:43:54.008176+00:00
@@ -4022,6 +3968,12 @@
 ## rackhackers
  - [https://rackhackers.com](https://rackhackers.com)
  - date published: 2023-10-25T16:44:26.014513+00:00
+ - user: None
+ - tags: []
+
+## RackNerd - Introducing Infrastructure Stability
+ - [https://racknerd.com](https://racknerd.com)
+ - date published: 2024-04-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4270,7 +4222,7 @@ More!
  - [https://www.ramrajv.com](https://www.ramrajv.com)
  - date published: 2023-10-25T16:45:35.093200+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Show HN: RAM Prices
  - [https://ramstickprices.com](https://ramstickprices.com)
@@ -4477,16 +4429,16 @@ More!
  - tags: []
 
 ## Ravenfeast
- - [http://www.ravenfeast.com](http://www.ravenfeast.com)
- - date published: 2024-03-01T18:35:27.406553+00:00
- - user: None
- - tags: []
-
-## Ravenfeast
  - [https://www.ravenfeast.com](https://www.ravenfeast.com)
  - date published: 2024-03-01T09:41:52+00:00
  - user: rumpel
  - tags: ['tabletop games', 'wargames']
+
+## Ravenfeast
+ - [http://www.ravenfeast.com](http://www.ravenfeast.com)
+ - date published: 2024-03-01T18:35:27.406553+00:00
+ - user: None
+ - tags: []
 
 ## https://www.ravensoft.com
  - [https://www.ravensoft.com](https://www.ravensoft.com)
@@ -5047,14 +4999,14 @@ More!
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
+ - [http://www.reddit-stream.com](http://www.reddit-stream.com)
+ - date published: 2023-12-23T19:30:18.252561+00:00
  - user: None
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [http://www.reddit-stream.com](http://www.reddit-stream.com)
- - date published: 2023-12-23T19:30:18.252561+00:00
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
  - user: None
  - tags: []
 
@@ -6005,4 +5957,52 @@ More!
  - date published: 2024-01-21T13:31:19.816138+00:00
  - user: None
  - tags: []
+
+## Rich Keeble – Actor, voiceover artist, comedian, musician, man
+ - [http://www.richkeeble.com](http://www.richkeeble.com)
+ - date published: 2024-04-03T12:48:29.183856+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rich PalmerVoice actor, narrator, storyteller, audio producer.
+ - [https://richpalmer.com](https://richpalmer.com)
+ - date published: 2024-01-09T02:47:56.721503+00:00
+ - user: None
+ - tags: []
+
+## Rich Tabor - Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress.
+ - [https://richtabor.com](https://richtabor.com)
+ - date published: 2023-12-19T09:59:46.789011+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rick Carabba - Home of BrainBank
+ - [https://www.rickcarabba.com](https://www.rickcarabba.com)
+ - date published: 2024-01-15T13:59:06.069303+00:00
+ - user: None
+ - tags: []
+
+## The Blog of Rick Carlino
+ - [https://rickcarlino.com](https://rickcarlino.com)
+ - date published: 2024-01-15T22:21:01.483442+00:00
+ - user: None
+ - tags: []
+
+## rickconsole.com | 502: Bad gateway
+ - [https://rickconsole.com](https://rickconsole.com)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## rick@console:/
+ - [https://staging.rickconsole.com](https://staging.rickconsole.com)
+ - date published: 2023-10-25T16:51:19.430482+00:00
+ - user: None
+ - tags: []
+
+## Rick Umali's Home Page
+ - [https://rickumali.com](https://rickumali.com)
+ - date published: 2023-12-03T15:55:26.247597+00:00
+ - user: None
+ - tags: ['personal']
 

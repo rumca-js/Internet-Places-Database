@@ -1,63 +1,3 @@
-## The Humane Society of the United States| End suffering for all animals
- - [https://www.humanesociety.org](https://www.humanesociety.org)
- - date published: 2023-10-25T21:29:17.708287+00:00
- - user: None
- - tags: []
-
-## Humans TXT: We Are People, Not Machines.
- - [https://humanstxt.org](https://humanstxt.org)
- - date published: 2023-10-25T21:29:19.630955+00:00
- - user: None
- - tags: []
-
-## Bread & Circuits
- - [https://blog.humphd.org](https://blog.humphd.org)
- - date published: 2023-10-25T21:29:21.631841+00:00
- - user: None
- - tags: []
-
-## None
- - [http://www.humprog.org](http://www.humprog.org)
- - date published: 2023-10-25T21:29:35.001353+00:00
- - user: None
- - tags: []
-
-## The Hy Manual — hy 0.27.0 documentation
- - [https://docs.hylang.org](https://docs.hylang.org)
- - date published: 2023-10-25T21:29:39.020853+00:00
- - user: None
- - tags: []
-
-## Hyperview · Native mobile apps, as easy as creating a web site
- - [https://hyperview.org](https://hyperview.org)
- - date published: 2023-10-25T21:29:42.395442+00:00
- - user: None
- - tags: []
-
-## Hyprland - A wayland compositor that doesn't sacrifice on its looks!
- - [https://hyprland.org](https://hyprland.org)
- - date published: 2023-10-25T21:29:43.958993+00:00
- - user: None
- - tags: []
-
-## Cryptology ePrint Archive
- - [https://eprint.iacr.org](https://eprint.iacr.org)
- - date published: 2023-10-25T21:29:46.021630+00:00
- - user: None
- - tags: []
-
-## International Atomic Energy Agency | Atoms for Peace and Development
- - [https://www.iaea.org](https://www.iaea.org)
- - date published: 2024-03-03T21:04:41.188707+00:00
- - user: None
- - tags: []
-
-## Internet Assigned Numbers Authority
- - [https://www.iana.org](https://www.iana.org)
- - date published: 2023-10-25T21:29:48.306690+00:00
- - user: None
- - tags: []
-
 ## Ian Bicking: a home page
  - [https://ianbicking.org](https://ianbicking.org)
  - date published: 2023-10-25T21:29:50.096372+00:00
@@ -185,16 +125,16 @@
  - tags: []
 
 ## IEEE Spectrum
- - [http://spectrum.ieee.org](http://spectrum.ieee.org)
- - date published: 2024-02-25T20:49:03.401404+00:00
- - user: None
- - tags: []
-
-## IEEE Spectrum
  - [https://spectrum.ieee.org](https://spectrum.ieee.org)
  - date published: 2023-10-25T09:37:30.327947+00:00
  - user: None
  - tags: ['tech news']
+
+## IEEE Spectrum
+ - [http://spectrum.ieee.org](http://spectrum.ieee.org)
+ - date published: 2024-02-25T20:49:03.401404+00:00
+ - user: None
+ - tags: []
 
 ## None
  - [https://ieeeia.org](https://ieeeia.org)
@@ -1955,7 +1895,7 @@ Hosted by Panix.com.
  - [https://letsencrypt.org](https://letsencrypt.org)
  - date published: 2023-10-25T08:33:56.588669+00:00
  - user: None
- - tags: []
+ - tags: ['ssl', 'cybersecurity']
 
 ## Lets-Plot: open-source plotting library for statistical data
  - [https://lets-plot.org](https://lets-plot.org)
@@ -2387,7 +2327,7 @@ Hosted by Panix.com.
  - [https://www.lpi.org](https://www.lpi.org)
  - date published: 2024-01-09T03:41:18.717606+00:00
  - user: None
- - tags: []
+ - tags: ['organisation', 'open source', 'linux']
 
 ## Louisville Public Media
  - [https://www.lpm.org](https://www.lpm.org)
@@ -2618,16 +2558,16 @@ Hosted by Panix.com.
  - tags: []
 
 ## Marco.org
- - [https://marco.org](https://marco.org)
- - date published: 2023-10-25T08:55:03.700528+00:00
- - user: None
- - tags: ['personal']
-
-## Marco.org
  - [http://marco.org](http://marco.org)
  - date published: 2024-02-26T08:57:24.441371+00:00
  - user: None
  - tags: []
+
+## Marco.org
+ - [https://marco.org](https://marco.org)
+ - date published: 2023-10-25T08:55:03.700528+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home - Marcosticks
  - [https://marcosticks.org](https://marcosticks.org)
@@ -2666,14 +2606,14 @@ Hosted by Panix.com.
  - tags: ['personal']
 
 ## MarTech
- - [https://martech.org](https://martech.org)
- - date published: 2024-01-09T05:07:40.902644+00:00
+ - [http://martech.org](http://martech.org)
+ - date published: 2024-02-26T08:57:00.132467+00:00
  - user: None
  - tags: []
 
 ## MarTech
- - [http://martech.org](http://martech.org)
- - date published: 2024-02-26T08:57:00.132467+00:00
+ - [https://martech.org](https://martech.org)
+ - date published: 2024-01-09T05:07:40.902644+00:00
  - user: None
  - tags: []
 
@@ -3282,16 +3222,16 @@ Common Weakness Enumeration
  - tags: []
 
 ## The Mod Archive v4.0b - A distinctive collection of modules
- - [https://modarchive.org](https://modarchive.org)
- - date published: 2023-10-28T19:01:07.809021+00:00
- - user: None
- - tags: ['chiptune', 'keygen', 'demoscene']
-
-## The Mod Archive v4.0b - A distinctive collection of modules
  - [http://modarchive.org](http://modarchive.org)
  - date published: 2024-02-15T01:59:58.310157+00:00
  - user: None
  - tags: []
+
+## The Mod Archive v4.0b - A distinctive collection of modules
+ - [https://modarchive.org](https://modarchive.org)
+ - date published: 2023-10-28T19:01:07.809021+00:00
+ - user: None
+ - tags: ['chiptune', 'keygen', 'demoscene']
 
 ## Modoboa
  - [https://modoboa.org](https://modoboa.org)
@@ -3497,17 +3437,17 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
-## Internet for people, not profit — Mozilla (US)
- - [https://www.mozilla.org](https://www.mozilla.org)
- - date published: 2023-10-25T09:27:30.838308+00:00
- - user: None
- - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
-
 ## Pocket | Discover, Capture and Savor Content That Fascinates You
  - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
  - date published: 2023-11-13T13:38:32+00:00
  - user: rumpel
  - tags: ['bookmark manager', 'link aggregation']
+
+## Internet for people, not profit — Mozilla (US)
+ - [https://www.mozilla.org](https://www.mozilla.org)
+ - date published: 2023-10-25T09:27:30.838308+00:00
+ - user: None
+ - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
 
 ## MozillaZine Knowledge Base
  - [http://kb.mozillazine.org](http://kb.mozillazine.org)
@@ -4240,6 +4180,12 @@ Common Weakness Enumeration
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## the archives
+ - [https://caesthoffe.neocities.org](https://caesthoffe.neocities.org)
+ - date published: 2024-04-19T14:25:06.442476+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Coby Cat's Abode
  - [https://cobycat.neocities.org](https://cobycat.neocities.org)
@@ -5541,7 +5487,7 @@ Common Weakness Enumeration
  - [https://www.openssl.org](https://www.openssl.org)
  - date published: 2023-10-25T21:53:40.757319+00:00
  - user: None
- - tags: []
+ - tags: ['open source', 'ssl']
 
 ## Open Standards
  - [https://www.open-std.org](https://www.open-std.org)
@@ -6003,6 +5949,60 @@ Common Weakness Enumeration
 ## Physically Based Rendering: From Theory to Implementation
  - [https://pbr-book.org](https://pbr-book.org)
  - date published: 2023-11-02T10:40:48.951509+00:00
+ - user: None
+ - tags: []
+
+## PBS: Public Broadcasting Service
+ - [https://www.pbs.org](https://www.pbs.org)
+ - date published: 2023-10-25T10:24:08.998645+00:00
+ - user: None
+ - tags: []
+
+## PBS North Carolina
+ - [https://www.pbsnc.org](https://www.pbsnc.org)
+ - date published: 2023-11-19T19:54:33.463328+00:00
+ - user: None
+ - tags: []
+
+## PCG, A Family of Better Random Number Generators | PCG, A Better Random Number Generator
+ - [https://www.pcg-random.org](https://www.pcg-random.org)
+ - date published: 2023-10-25T21:56:20.672047+00:00
+ - user: None
+ - tags: []
+
+## PCjs Machines
+ - [https://www.pcjs.org](https://www.pcjs.org)
+ - date published: 2023-10-25T21:56:26.849904+00:00
+ - user: None
+ - tags: []
+
+## Physicians Committee for Responsible Medicine
+ - [https://www.pcrm.org](https://www.pcrm.org)
+ - date published: 2024-03-30T10:22:24.297095+00:00
+ - user: None
+ - tags: []
+
+## PDF Association – Home of the worldwide PDF technical community
+ - [https://pdfa.org](https://pdfa.org)
+ - date published: 2024-02-26T09:45:19.418694+00:00
+ - user: None
+ - tags: []
+
+## PDF Association – Home of the worldwide PDF technical community
+ - [https://www.pdfa.org](https://www.pdfa.org)
+ - date published: 2023-10-25T21:56:35.310113+00:00
+ - user: None
+ - tags: []
+
+## pdfgrep
+ - [https://pdfgrep.org](https://pdfgrep.org)
+ - date published: 2023-10-25T21:56:36.063095+00:00
+ - user: None
+ - tags: []
+
+## PDFTool: secure and seamless online PDF modifications
+ - [https://www.pdftool.org](https://www.pdftool.org)
+ - date published: 2023-10-25T21:56:37.161684+00:00
  - user: None
  - tags: []
 

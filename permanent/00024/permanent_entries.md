@@ -1,81 +1,3 @@
-## Bitcoin - Open source P2P money
- - [https://bitcoin.org](https://bitcoin.org)
- - date published: 2023-10-29T15:13:34.530679+00:00
- - user: None
- - tags: ['crypto']
-
-## BitFellas: Main
- - [http://www.bitfellas.org](http://www.bitfellas.org)
- - date published: 2024-02-15T22:11:40.414749+00:00
- - user: None
- - tags: ['demoscene']
-
-## The bitsavers main page
- - [https://bitsavers.org](https://bitsavers.org)
- - date published: 2023-10-25T21:02:29.463650+00:00
- - user: None
- - tags: []
-
-## The bitsavers main page
- - [https://www.bitsavers.org](https://www.bitsavers.org)
- - date published: 2024-01-09T03:38:25.148934+00:00
- - user: None
- - tags: []
-
-## bitsgalore.org
- - [https://www.bitsgalore.org](https://www.bitsgalore.org)
- - date published: 2023-10-25T21:02:36.496344+00:00
- - user: None
- - tags: []
-
-## Bitsplitting.org | Chasing the impossible with Daniel Jalkut
- - [https://bitsplitting.org](https://bitsplitting.org)
- - date published: 2023-10-25T21:02:44.465812+00:00
- - user: None
- - tags: []
-
-## https://bitvm.org
- - [https://bitvm.org](https://bitvm.org)
- - date published: 2023-10-25T21:02:45.523247+00:00
- - user: None
- - tags: []
-
-## BarryK's Home — All categories
- - [https://bkhome.org](https://bkhome.org)
- - date published: 2023-10-25T21:02:47.631425+00:00
- - user: None
- - tags: []
-
-## Brooklyn Public Library
- - [https://www.bklynlibrary.org](https://www.bklynlibrary.org)
- - date published: 2023-10-25T21:02:53.786581+00:00
- - user: None
- - tags: []
-
-## Developer Blog - code.blender.org
- - [https://code.blender.org](https://code.blender.org)
- - date published: 2023-10-25T21:02:57.177492+00:00
- - user: None
- - tags: []
-
-## Developer Forum
- - [https://devtalk.blender.org](https://devtalk.blender.org)
- - date published: 2023-10-25T21:02:59.659020+00:00
- - user: None
- - tags: []
-
-## Blender Projects
- - [https://projects.blender.org](https://projects.blender.org)
- - date published: 2023-10-25T21:03:01.728947+00:00
- - user: None
- - tags: []
-
-## Blender Studio
- - [https://studio.blender.org](https://studio.blender.org)
- - date published: 2024-02-27T11:28:37.893684+00:00
- - user: None
- - tags: []
-
 ## Blender Developer Wiki
  - [https://wiki.blender.org](https://wiki.blender.org)
  - date published: 2023-10-25T21:03:03.560868+00:00
@@ -305,16 +227,16 @@
  - tags: []
 
 ## loi.cx
- - [https://loic.breathful.org](https://loic.breathful.org)
- - date published: 2024-02-08T11:56:36.228954+00:00
- - user: None
- - tags: []
-
-## loi.cx
  - [http://loic.breathful.org](http://loic.breathful.org)
  - date published: 2024-04-03T06:27:31.339748+00:00
  - user: None
  - tags: ['personal']
+
+## loi.cx
+ - [https://loic.breathful.org](https://loic.breathful.org)
+ - date published: 2024-02-08T11:56:36.228954+00:00
+ - user: None
+ - tags: []
 
 ## Breezy Version Control System
  - [https://www.breezy-vcs.org](https://www.breezy-vcs.org)
@@ -1224,6 +1146,12 @@
  - user: None
  - tags: []
 
+## Cleveland Historical
+ - [https://clevelandhistorical.org](https://clevelandhistorical.org)
+ - date published: 2024-04-19T19:49:15.778571+00:00
+ - user: None
+ - tags: []
+
 ## Clever Creations | Your Hub for 3D Printing, Laser Cutting, and 3D Scanning
  - [https://clevercreations.org](https://clevercreations.org)
  - date published: 2023-10-25T11:20:10.803835+00:00
@@ -1759,14 +1687,14 @@
  - tags: []
 
 ## Homepage - Creative Commons
- - [https://creativecommons.org](https://creativecommons.org)
- - date published: 2023-12-11T16:22:52.219620+00:00
+ - [http://creativecommons.org](http://creativecommons.org)
+ - date published: 2024-03-21T07:44:18.617797+00:00
  - user: None
  - tags: []
 
 ## Homepage - Creative Commons
- - [http://creativecommons.org](http://creativecommons.org)
- - date published: 2024-03-21T07:44:18.617797+00:00
+ - [https://creativecommons.org](https://creativecommons.org)
+ - date published: 2023-12-11T16:22:52.219620+00:00
  - user: None
  - tags: []
 
@@ -1951,16 +1879,16 @@
  - tags: []
 
 ## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
- - [http://cvsgui.org](http://cvsgui.org)
- - date published: 2024-03-05T00:16:31.622060+00:00
- - user: None
- - tags: []
-
-## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
  - [https://cvsgui.org](https://cvsgui.org)
  - date published: 2024-03-04T12:06:02+00:00
  - user: rumpel
  - tags: ['control version system', 'program', 'vcs', 'open source']
+
+## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
+ - [http://cvsgui.org](http://cvsgui.org)
+ - date published: 2024-03-05T00:16:31.622060+00:00
+ - user: None
+ - tags: []
 
 ## California Water Environment Association | Champions of Wastewater
  - [https://www.cwea.org](https://www.cwea.org)
@@ -2442,6 +2370,12 @@
  - date published: 2024-03-26T00:15:03.470692+00:00
  - user: None
  - tags: []
+
+## Design for web • A handbook for aspiring web designers
+ - [https://designforweb.org](https://designforweb.org)
+ - date published: 2024-04-19T08:19:26.351170+00:00
+ - user: None
+ - tags: ['gui tutorial']
 
 ## design manifestos .org
  - [https://designmanifestos.org](https://designmanifestos.org)
@@ -3138,6 +3072,12 @@
  - date published: 2024-03-20T07:42:47.065649+00:00
  - user: None
  - tags: []
+
+## Certbot
+ - [https://certbot.eff.org](https://certbot.eff.org)
+ - date published: 2024-04-19T05:02:13+00:00
+ - user: rumpel
+ - tags: ['ssl', 'cybersecurity']
 
 ## Test browser for web tracking – EFF
  - [https://coveryourtracks.eff.org](https://coveryourtracks.eff.org)
@@ -4754,16 +4694,16 @@
  - tags: []
 
 ## Gamesboro Radio
- - [https://radio.gamesboro.org](https://radio.gamesboro.org)
- - date published: 2024-02-15T22:13:54.975381+00:00
- - user: None
- - tags: ['demoscene']
-
-## Gamesboro Radio
  - [http://radio.gamesboro.org](http://radio.gamesboro.org)
  - date published: 2024-02-15T02:00:21.565467+00:00
  - user: None
  - tags: []
+
+## Gamesboro Radio
+ - [https://radio.gamesboro.org](https://radio.gamesboro.org)
+ - date published: 2024-02-15T22:13:54.975381+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Gamesboro Shoutcast
  - [http://shoutcast.gamesboro.org](http://shoutcast.gamesboro.org)
@@ -5129,14 +5069,14 @@
  - tags: []
 
 ## Welcome to GMPG
- - [http://gmpg.org](http://gmpg.org)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://gmpg.org](https://gmpg.org)
+ - date published: 2023-12-11T15:48:25.754545+00:00
  - user: None
  - tags: []
 
 ## Welcome to GMPG
- - [https://gmpg.org](https://gmpg.org)
- - date published: 2023-12-11T15:48:25.754545+00:00
+ - [http://gmpg.org](http://gmpg.org)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5219,14 +5159,14 @@
  - tags: []
 
 ## GNOME Release Notes
- - [https://release.gnome.org](https://release.gnome.org)
- - date published: 2024-03-20T18:08:17.213656+00:00
+ - [http://release.gnome.org](http://release.gnome.org)
+ - date published: 2024-03-21T07:44:19.473641+00:00
  - user: None
  - tags: []
 
 ## GNOME Release Notes
- - [http://release.gnome.org](http://release.gnome.org)
- - date published: 2024-03-21T07:44:19.473641+00:00
+ - [https://release.gnome.org](https://release.gnome.org)
+ - date published: 2024-03-20T18:08:17.213656+00:00
  - user: None
  - tags: []
 
@@ -6008,6 +5948,66 @@
 ## Magnus Hultberg - hultberg.org
  - [https://hultberg.org](https://hultberg.org)
  - date published: 2024-01-11T20:47:44.802753+00:00
+ - user: None
+ - tags: []
+
+## The Humane Society of the United States| End suffering for all animals
+ - [https://www.humanesociety.org](https://www.humanesociety.org)
+ - date published: 2023-10-25T21:29:17.708287+00:00
+ - user: None
+ - tags: []
+
+## Humans TXT: We Are People, Not Machines.
+ - [https://humanstxt.org](https://humanstxt.org)
+ - date published: 2023-10-25T21:29:19.630955+00:00
+ - user: None
+ - tags: []
+
+## Bread & Circuits
+ - [https://blog.humphd.org](https://blog.humphd.org)
+ - date published: 2023-10-25T21:29:21.631841+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://www.humprog.org](http://www.humprog.org)
+ - date published: 2023-10-25T21:29:35.001353+00:00
+ - user: None
+ - tags: []
+
+## The Hy Manual — hy 0.27.0 documentation
+ - [https://docs.hylang.org](https://docs.hylang.org)
+ - date published: 2023-10-25T21:29:39.020853+00:00
+ - user: None
+ - tags: []
+
+## Hyperview · Native mobile apps, as easy as creating a web site
+ - [https://hyperview.org](https://hyperview.org)
+ - date published: 2023-10-25T21:29:42.395442+00:00
+ - user: None
+ - tags: []
+
+## Hyprland - A wayland compositor that doesn't sacrifice on its looks!
+ - [https://hyprland.org](https://hyprland.org)
+ - date published: 2023-10-25T21:29:43.958993+00:00
+ - user: None
+ - tags: []
+
+## Cryptology ePrint Archive
+ - [https://eprint.iacr.org](https://eprint.iacr.org)
+ - date published: 2023-10-25T21:29:46.021630+00:00
+ - user: None
+ - tags: []
+
+## International Atomic Energy Agency | Atoms for Peace and Development
+ - [https://www.iaea.org](https://www.iaea.org)
+ - date published: 2024-03-03T21:04:41.188707+00:00
+ - user: None
+ - tags: []
+
+## Internet Assigned Numbers Authority
+ - [https://www.iana.org](https://www.iana.org)
+ - date published: 2023-10-25T21:29:48.306690+00:00
  - user: None
  - tags: []
 

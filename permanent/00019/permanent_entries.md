@@ -1,71 +1,3 @@
-## FDIC: Federal Deposit Insurance Corporation
- - [https://www.fdic.gov](https://www.fdic.gov)
- - date published: 2023-10-25T19:21:19.392966+00:00
- - user: None
- - tags: []
-
-## Federal Register
-       :: 
-      Home - Wednesday, October 25th
- - [https://www.federalregister.gov](https://www.federalregister.gov)
- - date published: 2023-10-25T19:21:22.351422+00:00
- - user: None
- - tags: ['federal documents']
-
-## Federal Reserve Board - Home
- - [https://www.federalreserve.gov](https://www.federalreserve.gov)
- - date published: 2023-10-25T19:21:25.826382+00:00
- - user: None
- - tags: []
-
-## FEMA.gov
- - [https://www.fema.gov](https://www.fema.gov)
- - date published: 2023-10-25T19:21:33.460504+00:00
- - user: None
- - tags: []
-
-## United States Department of the Treasury Financial Crimes Enforcement Network | FinCEN.gov
- - [https://www.fincen.gov](https://www.fincen.gov)
- - date published: 2023-10-25T19:21:37.717717+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health
- - [https://www.floridahealth.gov](https://www.floridahealth.gov)
- - date published: 2023-10-25T19:21:43.397423+00:00
- - user: None
- - tags: []
-
-## Newsroom
- - [https://news.fnal.gov](https://news.fnal.gov)
- - date published: 2023-10-25T19:21:48.635515+00:00
- - user: None
- - tags: []
-
-## FOIAonline :: Decommissioned
- - [https://foiaonline.gov](https://foiaonline.gov)
- - date published: 2023-10-25T19:21:50.776367+00:00
- - user: None
- - tags: []
-
-## Federal Trade Commission | Protecting America's Consumers
- - [https://www.ftc.gov](https://www.ftc.gov)
- - date published: 2023-10-25T19:21:54.571295+00:00
- - user: None
- - tags: []
-
-## U.S. Government Accountability Office (U.S. GAO)
- - [https://www.gao.gov](https://www.gao.gov)
- - date published: 2023-11-27T15:17:10+00:00
- - user: rumpel
- - tags: []
-
-## GovInfo
- - [https://www.govinfo.gov](https://www.govinfo.gov)
- - date published: 2024-04-05T18:55:44.538688+00:00
- - user: None
- - tags: []
-
 ## GPS: The Global Positioning System
  - [https://www.gps.gov](https://www.gps.gov)
  - date published: 2023-10-25T19:21:57.216221+00:00
@@ -2341,7 +2273,7 @@
  - [https://kylerank.in](https://kylerank.in)
  - date published: 2023-10-25T19:31:12.489609+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Miscellaneous
  - [https://misc.l3m.in](https://misc.l3m.in)
@@ -2377,7 +2309,7 @@
  - [https://nadh.in](https://nadh.in)
  - date published: 2023-10-25T19:31:25.015479+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Newsmeter  | Latest Regional breaking news from Telangana and Andhra Pradesh
  - [https://newsmeter.in](https://newsmeter.in)
@@ -2782,14 +2714,14 @@
  - tags: []
 
 ## Erthalion
- - [http://erthalion.info](http://erthalion.info)
- - date published: 2024-02-25T15:21:46.039163+00:00
+ - [https://erthalion.info](https://erthalion.info)
+ - date published: 2023-10-25T19:33:09.948190+00:00
  - user: None
  - tags: []
 
 ## Erthalion
- - [https://erthalion.info](https://erthalion.info)
- - date published: 2023-10-25T19:33:09.948190+00:00
+ - [http://erthalion.info](http://erthalion.info)
+ - date published: 2024-02-25T15:21:46.039163+00:00
  - user: None
  - tags: []
 
@@ -3394,14 +3326,14 @@
  - tags: []
 
 ## ∑ Xah Code
- - [http://xahlee.info](http://xahlee.info)
- - date published: 2023-10-25T19:35:40.088312+00:00
+ - [https://xahlee.info](https://xahlee.info)
+ - date published: 2024-01-29T11:11:38+00:00
  - user: rumpel
  - tags: []
 
 ## ∑ Xah Code
- - [https://xahlee.info](https://xahlee.info)
- - date published: 2024-01-29T11:11:38+00:00
+ - [http://xahlee.info](http://xahlee.info)
+ - date published: 2023-10-25T19:35:40.088312+00:00
  - user: rumpel
  - tags: []
 
@@ -3718,14 +3650,14 @@
  - tags: []
 
 ## American Express Technology
- - [http://americanexpress.io](http://americanexpress.io)
- - date published: 2024-02-25T14:44:25.925967+00:00
+ - [https://americanexpress.io](https://americanexpress.io)
+ - date published: 2023-10-25T19:37:33.148951+00:00
  - user: None
  - tags: []
 
 ## American Express Technology
- - [https://americanexpress.io](https://americanexpress.io)
- - date published: 2023-10-25T19:37:33.148951+00:00
+ - [http://americanexpress.io](http://americanexpress.io)
+ - date published: 2024-02-25T14:44:25.925967+00:00
  - user: None
  - tags: []
 
@@ -4224,6 +4156,12 @@
 ## Code. Simply. Clearly. Calmly.
  - [https://calmcode.io](https://calmcode.io)
  - date published: 2023-10-25T19:39:22.006027+00:00
+ - user: None
+ - tags: []
+
+## Reader Feedback
+ - [https://reader.canny.io](https://reader.canny.io)
+ - date published: 2024-04-16T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5494,14 +5432,14 @@
  - tags: []
 
 ## Alex Anderson
- - [https://alexanderganderson.github.io](https://alexanderganderson.github.io)
- - date published: 2023-10-25T19:43:55.830822+00:00
+ - [http://alexanderganderson.github.io](http://alexanderganderson.github.io)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Alex Anderson
- - [http://alexanderganderson.github.io](http://alexanderganderson.github.io)
- - date published: 2016-01-01T00:00:00+00:00
+ - [https://alexanderganderson.github.io](https://alexanderganderson.github.io)
+ - date published: 2023-10-25T19:43:55.830822+00:00
  - user: None
  - tags: []
 
@@ -5593,7 +5531,7 @@
  - [https://antonilo.github.io](https://antonilo.github.io)
  - date published: 2023-10-25T19:44:02.367860+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## ~/ Anurag Peshne
  - [https://anuragpeshne.github.io](https://anuragpeshne.github.io)
@@ -5767,7 +5705,7 @@
  - [https://bijanbwb.github.io](https://bijanbwb.github.io)
  - date published: 2024-01-22T04:01:56.827175+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Bounded Rationality
  - [https://bjlkeng.github.io](https://bjlkeng.github.io)
@@ -6001,6 +5939,66 @@ through Composable Diffusion
 ## CoTracker: It is Better to Track Together
  - [https://co-tracker.github.io](https://co-tracker.github.io)
  - date published: 2023-10-25T19:44:42.584023+00:00
+ - user: None
+ - tags: []
+
+## The Crescendo Multi-Turn LLM Jailbreak Attack
+ - [https://crescendo-the-multiturn-jailbreak.github.io](https://crescendo-the-multiturn-jailbreak.github.io)
+ - date published: 2024-04-04T21:37:00+00:00
+ - user: None
+ - tags: []
+
+## https://crowsonkb.github.io
+ - [https://crowsonkb.github.io](https://crowsonkb.github.io)
+ - date published: 2024-01-23T20:07:38.415806+00:00
+ - user: None
+ - tags: []
+
+## CTurt
+ - [https://cturt.github.io](https://cturt.github.io)
+ - date published: 2023-10-25T19:44:52.061450+00:00
+ - user: None
+ - tags: []
+
+## \\cube0x0\
+ - [https://cube0x0.github.io](https://cube0x0.github.io)
+ - date published: 2023-10-25T19:44:52.992321+00:00
+ - user: None
+ - tags: []
+
+## CudaText - Home
+ - [https://cudatext.github.io](https://cudatext.github.io)
+ - date published: 2020-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wherein The Chicken
+ - [https://cushychicken.github.io](https://cushychicken.github.io)
+ - date published: 2023-10-25T19:44:53.696442+00:00
+ - user: None
+ - tags: []
+
+## Site not found · GitHub Pages
+ - [https://daduckmsft.github.io](https://daduckmsft.github.io)
+ - date published: 2023-12-31T17:16:39.038947+00:00
+ - user: None
+ - tags: []
+
+## Daniel Geng
+ - [https://dangeng.github.io](https://dangeng.github.io)
+ - date published: 2023-12-01T10:46:14.463296+00:00
+ - user: None
+ - tags: []
+
+## Daniel Mejía Raigosa
+ - [https://daniel-m.github.io](https://daniel-m.github.io)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## Find HN Candidates
+ - [https://darighost.github.io](https://darighost.github.io)
+ - date published: 2024-01-02T19:34:22.824261+00:00
  - user: None
  - tags: []
 

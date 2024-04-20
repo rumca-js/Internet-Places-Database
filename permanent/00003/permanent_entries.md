@@ -1,21 +1,3 @@
-## Ben's Bites
- - [https://bensbites.beehiiv.com](https://bensbites.beehiiv.com)
- - date published: 2023-10-25T12:55:28.977663+00:00
- - user: None
- - tags: []
-
-## But What For?
- - [https://butwhatfor.beehiiv.com](https://butwhatfor.beehiiv.com)
- - date published: 2023-10-25T12:55:34.496023+00:00
- - user: None
- - tags: []
-
-## Easily Amused
- - [https://easilyamused.beehiiv.com](https://easilyamused.beehiiv.com)
- - date published: 2023-10-25T12:55:37.997353+00:00
- - user: None
- - tags: []
-
 ## FOSS Weekly
  - [https://fossweekly.beehiiv.com](https://fossweekly.beehiiv.com)
  - date published: 2023-10-25T12:55:43.086938+00:00
@@ -249,6 +231,12 @@
  - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Benjamin Rivers
+ - [https://blog.benjaminrivers.com](https://blog.benjaminrivers.com)
+ - date published: 2024-04-19T14:25:05.218512+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Compass Rose | The territory is a map of the map.
  - [http://benjaminrosshoffman.com](http://benjaminrosshoffman.com)
@@ -755,14 +743,14 @@
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [http://billingsgazette.com](http://billingsgazette.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://billingsgazette.com](https://billingsgazette.com)
+ - date published: 2023-12-17T18:30:53.119094+00:00
  - user: None
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [https://billingsgazette.com](https://billingsgazette.com)
- - date published: 2023-12-17T18:30:53.119094+00:00
+ - [http://billingsgazette.com](http://billingsgazette.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1691,13 +1679,13 @@
  - tags: ['personal']
 
 ## The Axis of Eval
- - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
+ - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Axis of Eval
- - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
+ - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
@@ -1895,14 +1883,14 @@
  - tags: []
 
 ## BishopBlog
- - [http://deevybee.blogspot.com](http://deevybee.blogspot.com)
- - date published: 2024-02-09T00:00:00+00:00
+ - [https://deevybee.blogspot.com](https://deevybee.blogspot.com)
+ - date published: 2023-11-19T21:54:20.334258+00:00
  - user: None
  - tags: []
 
 ## BishopBlog
- - [https://deevybee.blogspot.com](https://deevybee.blogspot.com)
- - date published: 2023-11-19T21:54:20.334258+00:00
+ - [http://deevybee.blogspot.com](http://deevybee.blogspot.com)
+ - date published: 2024-02-09T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2044,6 +2032,12 @@
  - user: None
  - tags: []
 
+## Grog's Gamut
+ - [http://grogsgamut.blogspot.com](http://grogsgamut.blogspot.com)
+ - date published: 2024-04-19T17:39:09.488926+00:00
+ - user: None
+ - tags: ['personal']
+
 ## HaggardHawks
  - [https://haggardhawksblog.blogspot.com](https://haggardhawksblog.blogspot.com)
  - date published: 2023-10-25T09:08:48.506429+00:00
@@ -2153,14 +2147,14 @@
  - tags: []
 
 ## Kiwi Hellenist
- - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
- - date published: 2023-11-28T20:46:36.488371+00:00
+ - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Kiwi Hellenist
- - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
+ - date published: 2023-11-28T20:46:36.488371+00:00
  - user: None
  - tags: []
 
@@ -2471,14 +2465,14 @@
  - tags: ['personal']
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
- - date published: 2024-01-04T00:00:00+00:00
+ - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
+ - date published: 2024-01-03T20:38:22.927557+00:00
  - user: None
  - tags: []
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
- - date published: 2024-01-03T20:38:22.927557+00:00
+ - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
+ - date published: 2024-01-04T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2531,16 +2525,16 @@
  - tags: ['personal']
 
 ## The Little Engineer That Could
- - [http://thelittleengineerthatcould.blogspot.com](http://thelittleengineerthatcould.blogspot.com)
- - date published: 2024-04-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Little Engineer That Could
  - [https://thelittleengineerthatcould.blogspot.com](https://thelittleengineerthatcould.blogspot.com)
  - date published: 2023-10-25T09:18:26.159190+00:00
  - user: None
  - tags: ['personal']
+
+## The Little Engineer That Could
+ - [http://thelittleengineerthatcould.blogspot.com](http://thelittleengineerthatcould.blogspot.com)
+ - date published: 2024-04-13T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## The Programmer's Paradox
  - [https://theprogrammersparadox.blogspot.com](https://theprogrammersparadox.blogspot.com)
@@ -2781,6 +2775,12 @@
  - date published: 2023-10-25T13:07:11.003553+00:00
  - user: None
  - tags: []
+
+## Add Depth of Field to Screenshots
+ - [https://www.blurmatic.com](https://www.blurmatic.com)
+ - date published: 2024-04-19T13:47:02+00:00
+ - user: None
+ - tags: ['screeshots']
 
 ## Discover Bluwr.
  - [https://bluwr.com](https://bluwr.com)
@@ -3793,16 +3793,16 @@
  - tags: []
 
 ## Brian Kleiber - SEO Analyst & Content Marketing
- - [https://www.briankleiber.com](https://www.briankleiber.com)
- - date published: 2023-12-30T22:23:37.854421+00:00
- - user: None
- - tags: ['personal']
-
-## Brian Kleiber - SEO Analyst & Content Marketing
  - [http://www.briankleiber.com](http://www.briankleiber.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Brian Kleiber - SEO Analyst & Content Marketing
+ - [https://www.briankleiber.com](https://www.briankleiber.com)
+ - date published: 2023-12-30T22:23:37.854421+00:00
+ - user: None
+ - tags: ['personal']
 
 ## bkm
  - [https://www.briankm.com](https://www.briankm.com)
@@ -3931,16 +3931,16 @@
  - tags: []
 
 ## Bridget Gordon
- - [https://bridgetgordon.com](https://bridgetgordon.com)
- - date published: 2024-01-09T08:54:11.942646+00:00
- - user: None
- - tags: ['personal']
-
-## Bridget Gordon
  - [http://bridgetgordon.com](http://bridgetgordon.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Bridget Gordon
+ - [https://bridgetgordon.com](https://bridgetgordon.com)
+ - date published: 2024-01-09T08:54:11.942646+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Bridget Hunt
  - [https://bridgethunt.com](https://bridgethunt.com)
@@ -4441,14 +4441,14 @@
  - tags: []
 
 ## Business Owners Success Club
- - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
- - date published: 2024-04-03T06:24:35.974117+00:00
+ - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
+ - date published: 8211-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
 ## Business Owners Success Club
- - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
- - date published: 8211-01-01T00:00:00+00:00
+ - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
+ - date published: 2024-04-03T06:24:35.974117+00:00
  - user: None
  - tags: ['personal']
 
@@ -5869,14 +5869,14 @@
  - tags: ['personal']
 
 ## Open Path by Chad Whitacre
- - [https://openpath.chadwhitacre.com](https://openpath.chadwhitacre.com)
- - date published: 2024-01-22T07:17:07.392204+00:00
+ - [http://openpath.chadwhitacre.com](http://openpath.chadwhitacre.com)
+ - date published: 2024-02-26T09:41:25.750324+00:00
  - user: None
  - tags: []
 
 ## Open Path by Chad Whitacre
- - [http://openpath.chadwhitacre.com](http://openpath.chadwhitacre.com)
- - date published: 2024-02-26T09:41:25.750324+00:00
+ - [https://openpath.chadwhitacre.com](https://openpath.chadwhitacre.com)
+ - date published: 2024-01-22T07:17:07.392204+00:00
  - user: None
  - tags: []
 
