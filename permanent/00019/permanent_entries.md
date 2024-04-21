@@ -1,3 +1,137 @@
+## Home | arpa-e.energy.gov
+ - [https://arpa-e.energy.gov](https://arpa-e.energy.gov)
+ - date published: 2024-04-08T02:53:34.873809+00:00
+ - user: None
+ - tags: []
+
+## Department of Energy
+ - [https://www.energy.gov](https://www.energy.gov)
+ - date published: 2023-10-25T19:20:40.502538+00:00
+ - user: None
+ - tags: []
+
+## U.S. Environmental Protection Agency | US EPA
+ - [https://www.epa.gov](https://www.epa.gov)
+ - date published: 2023-10-25T19:20:46.144373+00:00
+ - user: None
+ - tags: []
+
+## Federal Aviation Administration
+ - [https://www.faa.gov](https://www.faa.gov)
+ - date published: 2023-10-25T11:20:33.122723+00:00
+ - user: None
+ - tags: ['aviation', 'avionics', 'do-178c', 'aerospace', 'do-178b']
+
+## https://www.fly.faa.gov
+ - [https://www.fly.faa.gov](https://www.fly.faa.gov)
+ - date published: 2024-01-09T03:30:25.266620+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://fatherhood.gov](https://fatherhood.gov)
+ - date published: 2023-12-29T00:50:12.445423+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the LEB website — LEB
+ - [https://leb.fbi.gov](https://leb.fbi.gov)
+ - date published: 2023-10-25T10:47:03.596512+00:00
+ - user: None
+ - tags: []
+
+## Welcome to fbi.gov — FBI
+ - [https://www.fbi.gov](https://www.fbi.gov)
+ - date published: 2023-10-25T19:20:52.514388+00:00
+ - user: None
+ - tags: ['fbi', 'government', 'crime']
+
+## 403 Forbidden
+ - [https://docs.fcc.gov](https://docs.fcc.gov)
+ - date published: 2023-10-25T19:20:53.694947+00:00
+ - user: None
+ - tags: []
+
+## Federal Communications Commission | The United States of America
+ - [https://www.fcc.gov](https://www.fcc.gov)
+ - date published: 2023-10-25T19:21:01.719932+00:00
+ - user: None
+ - tags: []
+
+## U.S. Food and Drug Administration
+ - [https://www.fda.gov](https://www.fda.gov)
+ - date published: 2023-10-25T19:21:05.422596+00:00
+ - user: None
+ - tags: []
+
+## FDIC: Federal Deposit Insurance Corporation
+ - [https://www.fdic.gov](https://www.fdic.gov)
+ - date published: 2023-10-25T19:21:19.392966+00:00
+ - user: None
+ - tags: []
+
+## Federal Register
+       :: 
+      Home - Wednesday, October 25th
+ - [https://www.federalregister.gov](https://www.federalregister.gov)
+ - date published: 2023-10-25T19:21:22.351422+00:00
+ - user: None
+ - tags: ['federal documents']
+
+## Federal Reserve Board - Home
+ - [https://www.federalreserve.gov](https://www.federalreserve.gov)
+ - date published: 2023-10-25T19:21:25.826382+00:00
+ - user: None
+ - tags: []
+
+## FEMA.gov
+ - [https://www.fema.gov](https://www.fema.gov)
+ - date published: 2023-10-25T19:21:33.460504+00:00
+ - user: None
+ - tags: []
+
+## United States Department of the Treasury Financial Crimes Enforcement Network | FinCEN.gov
+ - [https://www.fincen.gov](https://www.fincen.gov)
+ - date published: 2023-10-25T19:21:37.717717+00:00
+ - user: None
+ - tags: []
+
+## Florida Department of Health
+ - [https://www.floridahealth.gov](https://www.floridahealth.gov)
+ - date published: 2023-10-25T19:21:43.397423+00:00
+ - user: None
+ - tags: []
+
+## Newsroom
+ - [https://news.fnal.gov](https://news.fnal.gov)
+ - date published: 2023-10-25T19:21:48.635515+00:00
+ - user: None
+ - tags: []
+
+## FOIAonline :: Decommissioned
+ - [https://foiaonline.gov](https://foiaonline.gov)
+ - date published: 2023-10-25T19:21:50.776367+00:00
+ - user: None
+ - tags: []
+
+## Federal Trade Commission | Protecting America's Consumers
+ - [https://www.ftc.gov](https://www.ftc.gov)
+ - date published: 2023-10-25T19:21:54.571295+00:00
+ - user: None
+ - tags: []
+
+## U.S. Government Accountability Office (U.S. GAO)
+ - [https://www.gao.gov](https://www.gao.gov)
+ - date published: 2023-11-27T15:17:10+00:00
+ - user: rumpel
+ - tags: []
+
+## GovInfo
+ - [https://www.govinfo.gov](https://www.govinfo.gov)
+ - date published: 2024-04-05T18:55:44.538688+00:00
+ - user: None
+ - tags: []
+
 ## GPS: The Global Positioning System
  - [https://www.gps.gov](https://www.gps.gov)
  - date published: 2023-10-25T19:21:57.216221+00:00
@@ -2714,14 +2848,14 @@
  - tags: []
 
 ## Erthalion
- - [https://erthalion.info](https://erthalion.info)
- - date published: 2023-10-25T19:33:09.948190+00:00
+ - [http://erthalion.info](http://erthalion.info)
+ - date published: 2024-02-25T15:21:46.039163+00:00
  - user: None
  - tags: []
 
 ## Erthalion
- - [http://erthalion.info](http://erthalion.info)
- - date published: 2024-02-25T15:21:46.039163+00:00
+ - [https://erthalion.info](https://erthalion.info)
+ - date published: 2023-10-25T19:33:09.948190+00:00
  - user: None
  - tags: []
 
@@ -5221,6 +5355,12 @@
  - user: None
  - tags: []
 
+## Reasoning Tokens
+ - [https://reasoning-tokens.ghost.io](https://reasoning-tokens.ghost.io)
+ - date published: 2024-04-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Ghostfolio – Open Source Wealth Management Software
  - [https://ghostfol.io](https://ghostfol.io)
  - date published: 2023-10-25T19:43:23.662694+00:00
@@ -5432,14 +5572,14 @@
  - tags: []
 
 ## Alex Anderson
- - [http://alexanderganderson.github.io](http://alexanderganderson.github.io)
- - date published: 2016-01-01T00:00:00+00:00
+ - [https://alexanderganderson.github.io](https://alexanderganderson.github.io)
+ - date published: 2023-10-25T19:43:55.830822+00:00
  - user: None
  - tags: []
 
 ## Alex Anderson
- - [https://alexanderganderson.github.io](https://alexanderganderson.github.io)
- - date published: 2023-10-25T19:43:55.830822+00:00
+ - [http://alexanderganderson.github.io](http://alexanderganderson.github.io)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5862,143 +6002,4 @@
  - date published: 2023-11-29T15:45:13.460255+00:00
  - user: None
  - tags: ['personal']
-
-## Site not found · GitHub Pages
- - [https://clay-foundation.github.io](https://clay-foundation.github.io)
- - date published: 2024-01-17T01:00:45.142224+00:00
- - user: None
- - tags: []
-
-## Clayton's Website
- - [https://claytonwramsey.github.io](https://claytonwramsey.github.io)
- - date published: 2023-10-25T19:44:41.848803+00:00
- - user: None
- - tags: []
-
-## Matthew C. Davis
- - [https://cmumatt.github.io](https://cmumatt.github.io)
- - date published: 2023-10-25T08:49:15.702993+00:00
- - user: None
- - tags: ['personal']
-
-## Pythonicity
- - [https://coady.github.io](https://coady.github.io)
- - date published: 2023-11-25T03:39:41.735379+00:00
- - user: None
- - tags: []
-
-## Patai Gergely
- - [https://cobbpg.github.io](https://cobbpg.github.io)
- - date published: 2023-11-16T00:32:47.215451+00:00
- - user: None
- - tags: []
-
-## CoDi: Generate Anything from Anything All At Once
-through Composable Diffusion
- - [https://codi-gen.github.io](https://codi-gen.github.io)
- - date published: 2023-10-25T19:44:43.372332+00:00
- - user: None
- - tags: []
-
-## Home - colah's blog
- - [https://colah.github.io](https://colah.github.io)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## One second code: Do YOU know how much your computer can do in a second?
- - [https://computers-are-fast.github.io](https://computers-are-fast.github.io)
- - date published: 2023-10-25T19:44:43.854261+00:00
- - user: None
- - tags: []
-
-## Conor Lamb
- - [https://conorcorp.github.io](https://conorcorp.github.io)
- - date published: 2023-10-25T19:44:44.971410+00:00
- - user: None
- - tags: []
-
-## Silent’s Blog | A blog and portfolio of Silent
- - [https://cookieplmonster.github.io](https://cookieplmonster.github.io)
- - date published: 2023-10-25T19:44:45.892632+00:00
- - user: None
- - tags: []
-
-## https://cor3ntin.github.io
- - [https://cor3ntin.github.io](https://cor3ntin.github.io)
- - date published: 2023-10-25T19:44:46.571111+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://cornell-relaxml.github.io](https://cornell-relaxml.github.io)
- - date published: 2024-01-09T03:32:47.781446+00:00
- - user: None
- - tags: []
-
-## CoTracker: It is Better to Track Together
- - [https://co-tracker.github.io](https://co-tracker.github.io)
- - date published: 2023-10-25T19:44:42.584023+00:00
- - user: None
- - tags: []
-
-## The Crescendo Multi-Turn LLM Jailbreak Attack
- - [https://crescendo-the-multiturn-jailbreak.github.io](https://crescendo-the-multiturn-jailbreak.github.io)
- - date published: 2024-04-04T21:37:00+00:00
- - user: None
- - tags: []
-
-## https://crowsonkb.github.io
- - [https://crowsonkb.github.io](https://crowsonkb.github.io)
- - date published: 2024-01-23T20:07:38.415806+00:00
- - user: None
- - tags: []
-
-## CTurt
- - [https://cturt.github.io](https://cturt.github.io)
- - date published: 2023-10-25T19:44:52.061450+00:00
- - user: None
- - tags: []
-
-## \\cube0x0\
- - [https://cube0x0.github.io](https://cube0x0.github.io)
- - date published: 2023-10-25T19:44:52.992321+00:00
- - user: None
- - tags: []
-
-## CudaText - Home
- - [https://cudatext.github.io](https://cudatext.github.io)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Wherein The Chicken
- - [https://cushychicken.github.io](https://cushychicken.github.io)
- - date published: 2023-10-25T19:44:53.696442+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://daduckmsft.github.io](https://daduckmsft.github.io)
- - date published: 2023-12-31T17:16:39.038947+00:00
- - user: None
- - tags: []
-
-## Daniel Geng
- - [https://dangeng.github.io](https://dangeng.github.io)
- - date published: 2023-12-01T10:46:14.463296+00:00
- - user: None
- - tags: []
-
-## Daniel Mejía Raigosa
- - [https://daniel-m.github.io](https://daniel-m.github.io)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Find HN Candidates
- - [https://darighost.github.io](https://darighost.github.io)
- - date published: 2024-01-02T19:34:22.824261+00:00
- - user: None
- - tags: []
 

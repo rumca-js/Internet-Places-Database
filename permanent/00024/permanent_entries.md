@@ -1,3 +1,165 @@
+## Biblical Archaeology Society
+ - [https://www.biblicalarchaeology.org](https://www.biblicalarchaeology.org)
+ - date published: 2024-03-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Beth Israel Deaconess Medical Center | BIDMC of Boston
+ - [https://www.bidmc.org](https://www.bidmc.org)
+ - date published: 2024-04-02T13:37:05.292897+00:00
+ - user: None
+ - tags: []
+
+## https://mark.biek.org
+ - [https://mark.biek.org](https://mark.biek.org)
+ - date published: 2024-01-04T01:13:10.818210+00:00
+ - user: None
+ - tags: []
+
+## Virtual Classroom Software | BigBlueButton
+ - [https://bigbluebutton.org](https://bigbluebutton.org)
+ - date published: 2024-03-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Big Local News
+ - [https://biglocalnews.org](https://biglocalnews.org)
+ - date published: 2024-03-30T20:59:22.669524+00:00
+ - user: None
+ - tags: []
+
+## Home - Berlin Institute of Health at Charité
+ - [https://www.bihealth.org](https://www.bihealth.org)
+ - date published: 2023-10-25T21:02:23.690868+00:00
+ - user: None
+ - tags: []
+
+## ISDS Platform | Home
+ - [https://isds.bilaterals.org](https://isds.bilaterals.org)
+ - date published: 2024-03-27T20:06:29.877612+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.bilderbergmeetings.org](https://www.bilderbergmeetings.org)
+ - date published: 2024-02-15T09:02:57+00:00
+ - user: rumpel
+ - tags: ['new world order']
+
+## ELIAS
+ - [https://www.elias.bilikita.org](https://www.elias.bilikita.org)
+ - date published: 2024-02-08T18:16:56.443974+00:00
+ - user: None
+ - tags: []
+
+## llimllib notes
+ - [https://notes.billmill.org](https://notes.billmill.org)
+ - date published: 2023-11-28T04:40:54.869762+00:00
+ - user: None
+ - tags: []
+
+## Home Page of Professor William Mitchell - www.billmitchell.org
+ - [https://billmitchell.org](https://billmitchell.org)
+ - date published: 2024-03-28T23:52:25.120905+00:00
+ - user: None
+ - tags: ['personal']
+
+## bioRxiv.org - the preprint server for Biology
+ - [https://www.biorxiv.org](https://www.biorxiv.org)
+ - date published: 2023-10-25T21:02:25.856718+00:00
+ - user: None
+ - tags: []
+
+## Biscuit
+ - [https://www.biscuitsec.org](https://www.biscuitsec.org)
+ - date published: 2023-10-25T21:02:27.841277+00:00
+ - user: None
+ - tags: []
+
+## Bitbucket | Git solution for teams using Jira
+ - [https://bitbucket.org](https://bitbucket.org)
+ - date published: 2023-10-25T08:41:07.091610+00:00
+ - user: None
+ - tags: ['code repository']
+
+## Bitcoin - Open source P2P money
+ - [https://bitcoin.org](https://bitcoin.org)
+ - date published: 2023-10-29T15:13:34.530679+00:00
+ - user: None
+ - tags: ['crypto']
+
+## BitFellas: Main
+ - [http://www.bitfellas.org](http://www.bitfellas.org)
+ - date published: 2024-02-15T22:11:40.414749+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## The bitsavers main page
+ - [https://bitsavers.org](https://bitsavers.org)
+ - date published: 2023-10-25T21:02:29.463650+00:00
+ - user: None
+ - tags: []
+
+## The bitsavers main page
+ - [https://www.bitsavers.org](https://www.bitsavers.org)
+ - date published: 2024-01-09T03:38:25.148934+00:00
+ - user: None
+ - tags: []
+
+## bitsgalore.org
+ - [https://www.bitsgalore.org](https://www.bitsgalore.org)
+ - date published: 2023-10-25T21:02:36.496344+00:00
+ - user: None
+ - tags: []
+
+## Bitsplitting.org | Chasing the impossible with Daniel Jalkut
+ - [https://bitsplitting.org](https://bitsplitting.org)
+ - date published: 2023-10-25T21:02:44.465812+00:00
+ - user: None
+ - tags: []
+
+## https://bitvm.org
+ - [https://bitvm.org](https://bitvm.org)
+ - date published: 2023-10-25T21:02:45.523247+00:00
+ - user: None
+ - tags: []
+
+## BarryK's Home — All categories
+ - [https://bkhome.org](https://bkhome.org)
+ - date published: 2023-10-25T21:02:47.631425+00:00
+ - user: None
+ - tags: []
+
+## Brooklyn Public Library
+ - [https://www.bklynlibrary.org](https://www.bklynlibrary.org)
+ - date published: 2023-10-25T21:02:53.786581+00:00
+ - user: None
+ - tags: []
+
+## Developer Blog - code.blender.org
+ - [https://code.blender.org](https://code.blender.org)
+ - date published: 2023-10-25T21:02:57.177492+00:00
+ - user: None
+ - tags: []
+
+## Developer Forum
+ - [https://devtalk.blender.org](https://devtalk.blender.org)
+ - date published: 2023-10-25T21:02:59.659020+00:00
+ - user: None
+ - tags: []
+
+## Blender Projects
+ - [https://projects.blender.org](https://projects.blender.org)
+ - date published: 2023-10-25T21:03:01.728947+00:00
+ - user: None
+ - tags: []
+
+## Blender Studio
+ - [https://studio.blender.org](https://studio.blender.org)
+ - date published: 2024-02-27T11:28:37.893684+00:00
+ - user: None
+ - tags: []
+
 ## Blender Developer Wiki
  - [https://wiki.blender.org](https://wiki.blender.org)
  - date published: 2023-10-25T21:03:03.560868+00:00
@@ -227,16 +389,16 @@
  - tags: []
 
 ## loi.cx
- - [http://loic.breathful.org](http://loic.breathful.org)
- - date published: 2024-04-03T06:27:31.339748+00:00
- - user: None
- - tags: ['personal']
-
-## loi.cx
  - [https://loic.breathful.org](https://loic.breathful.org)
  - date published: 2024-02-08T11:56:36.228954+00:00
  - user: None
  - tags: []
+
+## loi.cx
+ - [http://loic.breathful.org](http://loic.breathful.org)
+ - date published: 2024-04-03T06:27:31.339748+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Breezy Version Control System
  - [https://www.breezy-vcs.org](https://www.breezy-vcs.org)
@@ -1150,7 +1312,7 @@
  - [https://clevelandhistorical.org](https://clevelandhistorical.org)
  - date published: 2024-04-19T19:49:15.778571+00:00
  - user: None
- - tags: []
+ - tags: ['mobile app', 'history', 'cleveland']
 
 ## Clever Creations | Your Hub for 3D Printing, Laser Cutting, and 3D Scanning
  - [https://clevercreations.org](https://clevercreations.org)
@@ -1287,6 +1449,12 @@
 ## Codeberg.org
  - [https://codeberg.org](https://codeberg.org)
  - date published: 2023-10-25T21:08:17.885638+00:00
+ - user: None
+ - tags: []
+
+## Codeberg Service Status
+ - [https://status.codeberg.org](https://status.codeberg.org)
+ - date published: 2024-04-20T20:29:11.714597+00:00
  - user: None
  - tags: []
 
@@ -1858,7 +2026,7 @@
  - [https://curlie.org](https://curlie.org)
  - date published: 2024-02-23T09:04:59+00:00
  - user: rumpel
- - tags: ['web1', 'internet', 'personal sites source', 'classic web']
+ - tags: []
 
 ## Current - For people in public media
  - [https://current.org](https://current.org)
@@ -2816,16 +2984,16 @@
  - tags: []
 
 ## Kohina Web Player
- - [https://kohina.duckdns.org](https://kohina.duckdns.org)
- - date published: 2024-02-15T22:13:24.519956+00:00
- - user: None
- - tags: ['demoscene']
-
-## Kohina Web Player
  - [http://kohina.duckdns.org](http://kohina.duckdns.org)
  - date published: 2024-02-11T14:38:28.495727+00:00
  - user: None
  - tags: []
+
+## Kohina Web Player
+ - [https://kohina.duckdns.org](https://kohina.duckdns.org)
+ - date published: 2024-02-15T22:13:24.519956+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Duck DNS
  - [https://www.duckdns.org](https://www.duckdns.org)
@@ -4694,16 +4862,16 @@
  - tags: []
 
 ## Gamesboro Radio
- - [http://radio.gamesboro.org](http://radio.gamesboro.org)
- - date published: 2024-02-15T02:00:21.565467+00:00
- - user: None
- - tags: []
-
-## Gamesboro Radio
  - [https://radio.gamesboro.org](https://radio.gamesboro.org)
  - date published: 2024-02-15T22:13:54.975381+00:00
  - user: None
  - tags: ['demoscene']
+
+## Gamesboro Radio
+ - [http://radio.gamesboro.org](http://radio.gamesboro.org)
+ - date published: 2024-02-15T02:00:21.565467+00:00
+ - user: None
+ - tags: []
 
 ## Gamesboro Shoutcast
  - [http://shoutcast.gamesboro.org](http://shoutcast.gamesboro.org)
@@ -5069,14 +5237,14 @@
  - tags: []
 
 ## Welcome to GMPG
- - [https://gmpg.org](https://gmpg.org)
- - date published: 2023-12-11T15:48:25.754545+00:00
+ - [http://gmpg.org](http://gmpg.org)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Welcome to GMPG
- - [http://gmpg.org](http://gmpg.org)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://gmpg.org](https://gmpg.org)
+ - date published: 2023-12-11T15:48:25.754545+00:00
  - user: None
  - tags: []
 
@@ -5159,14 +5327,14 @@
  - tags: []
 
 ## GNOME Release Notes
- - [http://release.gnome.org](http://release.gnome.org)
- - date published: 2024-03-21T07:44:19.473641+00:00
+ - [https://release.gnome.org](https://release.gnome.org)
+ - date published: 2024-03-20T18:08:17.213656+00:00
  - user: None
  - tags: []
 
 ## GNOME Release Notes
- - [https://release.gnome.org](https://release.gnome.org)
- - date published: 2024-03-20T18:08:17.213656+00:00
+ - [http://release.gnome.org](http://release.gnome.org)
+ - date published: 2024-03-21T07:44:19.473641+00:00
  - user: None
  - tags: []
 
@@ -5658,16 +5826,16 @@
  - tags: ['digital library', 'public domain']
 
 ## Fanis Hatzidakis
- - [http://fanis.hatzidakis.org](http://fanis.hatzidakis.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Fanis Hatzidakis
  - [https://fanis.hatzidakis.org](https://fanis.hatzidakis.org)
  - date published: 2024-01-04T19:56:20.383113+00:00
  - user: None
  - tags: ['personal']
+
+## Fanis Hatzidakis
+ - [http://fanis.hatzidakis.org](http://fanis.hatzidakis.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Haven: Host your own private blog
  - [https://havenweb.org](https://havenweb.org)
@@ -5840,174 +6008,6 @@
 ## Honor Flight Nevada
  - [https://www.honorflightnv.org](https://www.honorflightnv.org)
  - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Hoover Institution
- - [https://www.hoover.org](https://www.hoover.org)
- - date published: 2023-10-25T21:28:47.678884+00:00
- - user: None
- - tags: []
-
-## Johns Hopkins Medicine, based in Baltimore, Maryland
- - [https://www.hopkinsmedicine.org](https://www.hopkinsmedicine.org)
- - date published: 2023-10-25T21:28:49.403905+00:00
- - user: None
- - tags: []
-
-## Home | Humanitarian OpenStreetMap Team
- - [https://www.hotosm.org](https://www.hotosm.org)
- - date published: 2023-10-25T21:28:50.976793+00:00
- - user: None
- - tags: []
-
-## Houston Public Media
- - [https://www.houstonpublicmedia.org](https://www.houstonpublicmedia.org)
- - date published: 2023-11-28T01:41:11.168314+00:00
- - user: None
- - tags: []
-
-## Howardism
- - [https://howardism.org](https://howardism.org)
- - date published: 2023-10-25T21:28:53.869348+00:00
- - user: None
- - tags: []
-
-## HRDAG - Human Rights Data Analysis Group
- - [https://hrdag.org](https://hrdag.org)
- - date published: 2023-11-28T07:45:56+00:00
- - user: None
- - tags: ['organization']
-
-## Heart Research Institute UK • Donate to heart disease research charity • Heart Research Institute
- - [https://www.hriuk.org](https://www.hriuk.org)
- - date published: 2024-03-07T18:28:30.997182+00:00
- - user: None
- - tags: []
-
-## Human Rights Watch | Defending Human Rights Worldwide
- - [https://www.hrw.org](https://www.hrw.org)
- - date published: 2023-11-27T05:46:52.633414+00:00
- - user: None
- - tags: ['organization', 'human rights']
-
-## How to Design Programs
- - [https://htdp.org](https://htdp.org)
- - date published: 2023-10-25T21:28:54.381719+00:00
- - user: None
- - tags: []
-
-## HTML, the Programming Language
- - [https://html-lang.org](https://html-lang.org)
- - date published: 2023-12-04T16:57:24+00:00
- - user: None
- - tags: ['html', 'tutorial']
-
-## </> htmx - high power tools for html
- - [https://htmx.org](https://htmx.org)
- - date published: 2023-10-25T21:29:00.359686+00:00
- - user: None
- - tags: []
-
-## </> htmx - high power tools for html
- - [https://v2-0v2-0.htmx.org](https://v2-0v2-0.htmx.org)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## HTTP Archive
- - [https://discuss.httparchive.org](https://discuss.httparchive.org)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## The HTTP Archive
- - [https://httparchive.org](https://httparchive.org)
- - date published: 2018-05-08T00:00:00+00:00
- - user: rumpel
- - tags: ['open source', 'internet analysis', 'database']
-
-## IETF HTTP Working Group
- - [https://httpwg.org](https://httpwg.org)
- - date published: 2023-10-25T21:29:01.274615+00:00
- - user: None
- - tags: []
-
-## Hubble Home
- - [https://hubblesite.org](https://hubblesite.org)
- - date published: 2023-10-25T21:29:08.287960+00:00
- - user: None
- - tags: []
-
-## Hudson Crossing Park
- - [https://www.hudsoncrossingpark.org](https://www.hudsoncrossingpark.org)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Magnus Hultberg - hultberg.org
- - [https://hultberg.org](https://hultberg.org)
- - date published: 2024-01-11T20:47:44.802753+00:00
- - user: None
- - tags: []
-
-## The Humane Society of the United States| End suffering for all animals
- - [https://www.humanesociety.org](https://www.humanesociety.org)
- - date published: 2023-10-25T21:29:17.708287+00:00
- - user: None
- - tags: []
-
-## Humans TXT: We Are People, Not Machines.
- - [https://humanstxt.org](https://humanstxt.org)
- - date published: 2023-10-25T21:29:19.630955+00:00
- - user: None
- - tags: []
-
-## Bread & Circuits
- - [https://blog.humphd.org](https://blog.humphd.org)
- - date published: 2023-10-25T21:29:21.631841+00:00
- - user: None
- - tags: []
-
-## None
- - [http://www.humprog.org](http://www.humprog.org)
- - date published: 2023-10-25T21:29:35.001353+00:00
- - user: None
- - tags: []
-
-## The Hy Manual — hy 0.27.0 documentation
- - [https://docs.hylang.org](https://docs.hylang.org)
- - date published: 2023-10-25T21:29:39.020853+00:00
- - user: None
- - tags: []
-
-## Hyperview · Native mobile apps, as easy as creating a web site
- - [https://hyperview.org](https://hyperview.org)
- - date published: 2023-10-25T21:29:42.395442+00:00
- - user: None
- - tags: []
-
-## Hyprland - A wayland compositor that doesn't sacrifice on its looks!
- - [https://hyprland.org](https://hyprland.org)
- - date published: 2023-10-25T21:29:43.958993+00:00
- - user: None
- - tags: []
-
-## Cryptology ePrint Archive
- - [https://eprint.iacr.org](https://eprint.iacr.org)
- - date published: 2023-10-25T21:29:46.021630+00:00
- - user: None
- - tags: []
-
-## International Atomic Energy Agency | Atoms for Peace and Development
- - [https://www.iaea.org](https://www.iaea.org)
- - date published: 2024-03-03T21:04:41.188707+00:00
- - user: None
- - tags: []
-
-## Internet Assigned Numbers Authority
- - [https://www.iana.org](https://www.iana.org)
- - date published: 2023-10-25T21:29:48.306690+00:00
  - user: None
  - tags: []
 

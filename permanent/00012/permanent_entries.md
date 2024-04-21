@@ -1,3 +1,93 @@
+## https://richardthames.com
+ - [https://richardthames.com](https://richardthames.com)
+ - date published: 2023-12-02T10:25:48.205930+00:00
+ - user: None
+ - tags: ['personal']
+
+## Richard Towers | Home
+ - [https://www.richard-towers.com](https://www.richard-towers.com)
+ - date published: 2023-10-25T16:51:17.775661+00:00
+ - user: None
+ - tags: []
+
+## richbowdler.com - Ta strona jest na sprzedaż! - richbowdler Zasoby i informacje.
+ - [https://richbowdler.com](https://richbowdler.com)
+ - date published: 2023-12-30T22:21:45.238245+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rich Dad Poor Dad: The #1 Best-Selling Personal Finance Book Ever
+ - [https://www.richdad.com](https://www.richdad.com)
+ - date published: 2014-12-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Stumbling Over Diamonds – The Music of Rich DeVore
+ - [https://www.richdevore.com](https://www.richdevore.com)
+ - date published: 2024-01-24T17:15:30.142004+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rich Gee High-Performance Coaching
+ - [https://richgee.com](https://richgee.com)
+ - date published: 2023-12-02T10:25:43.025735+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rich Keeble – Actor, voiceover artist, comedian, musician, man
+ - [https://www.richkeeble.com](https://www.richkeeble.com)
+ - date published: 2024-01-21T13:31:19.816138+00:00
+ - user: None
+ - tags: []
+
+## Rich Keeble – Actor, voiceover artist, comedian, musician, man
+ - [http://www.richkeeble.com](http://www.richkeeble.com)
+ - date published: 2024-04-03T12:48:29.183856+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rich PalmerVoice actor, narrator, storyteller, audio producer.
+ - [https://richpalmer.com](https://richpalmer.com)
+ - date published: 2024-01-09T02:47:56.721503+00:00
+ - user: None
+ - tags: []
+
+## Rich Tabor - Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress.
+ - [https://richtabor.com](https://richtabor.com)
+ - date published: 2023-12-19T09:59:46.789011+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rick Carabba - Home of BrainBank
+ - [https://www.rickcarabba.com](https://www.rickcarabba.com)
+ - date published: 2024-01-15T13:59:06.069303+00:00
+ - user: None
+ - tags: []
+
+## The Blog of Rick Carlino
+ - [https://rickcarlino.com](https://rickcarlino.com)
+ - date published: 2024-01-15T22:21:01.483442+00:00
+ - user: None
+ - tags: []
+
+## rickconsole.com | 502: Bad gateway
+ - [https://rickconsole.com](https://rickconsole.com)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## rick@console:/
+ - [https://staging.rickconsole.com](https://staging.rickconsole.com)
+ - date published: 2023-10-25T16:51:19.430482+00:00
+ - user: None
+ - tags: []
+
+## Rick Umali's Home Page
+ - [https://rickumali.com](https://rickumali.com)
+ - date published: 2023-12-03T15:55:26.247597+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Rick Umali's Home Page
  - [http://rickumali.com](http://rickumali.com)
  - date published: 2024-04-03T06:27:10.056290+00:00
@@ -59,16 +149,16 @@
  - tags: []
 
 ## Ken Shirriff's blog
- - [http://www.righto.com](http://www.righto.com)
- - date published: 2024-02-25T00:44:48.796985+00:00
- - user: None
- - tags: []
-
-## Ken Shirriff's blog
  - [https://www.righto.com](https://www.righto.com)
  - date published: 2023-10-25T16:51:33.313104+00:00
  - user: None
  - tags: ['blog', 'personal']
+
+## Ken Shirriff's blog
+ - [http://www.righto.com](http://www.righto.com)
+ - date published: 2024-02-25T00:44:48.796985+00:00
+ - user: None
+ - tags: []
 
 ## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
  - [https://www.rigzone.com](https://www.rigzone.com)
@@ -727,6 +817,12 @@
 ## Rodney Brooks – Robots, AI, and other stuff
  - [https://rodneybrooks.com](https://rodneybrooks.com)
  - date published: 2023-10-25T16:53:31.841027+00:00
+ - user: None
+ - tags: []
+
+## Blog | Rodolfo Berrios
+ - [https://rodolfoberrios.com](https://rodolfoberrios.com)
+ - date published: 2024-04-20T21:05:35.862993+00:00
  - user: None
  - tags: []
 
@@ -3749,14 +3845,14 @@
  - tags: []
 
 ## Home
- - [https://www.shawnewallace.com](https://www.shawnewallace.com)
- - date published: 2024-01-04T08:11:38.097898+00:00
+ - [http://www.shawnewallace.com](http://www.shawnewallace.com)
+ - date published: 2024-02-26T12:56:59.057504+00:00
  - user: None
  - tags: []
 
 ## Home
- - [http://www.shawnewallace.com](http://www.shawnewallace.com)
- - date published: 2024-02-26T12:56:59.057504+00:00
+ - [https://www.shawnewallace.com](https://www.shawnewallace.com)
+ - date published: 2024-01-04T08:11:38.097898+00:00
  - user: None
  - tags: []
 
@@ -3929,14 +4025,14 @@
  - tags: []
 
 ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
- - [http://shorer.com](http://shorer.com)
- - date published: 2024-04-03T06:29:33.681658+00:00
+ - [https://shorer.com](https://shorer.com)
+ - date published: 2023-11-29T14:25:19.463201+00:00
  - user: None
  - tags: ['personal']
 
 ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
- - [https://shorer.com](https://shorer.com)
- - date published: 2023-11-29T14:25:19.463201+00:00
+ - [http://shorer.com](http://shorer.com)
+ - date published: 2024-04-03T06:29:33.681658+00:00
  - user: None
  - tags: ['personal']
 
@@ -3953,13 +4049,13 @@
  - tags: []
 
 ## Broadcast and Monetize Your Station with SHOUTcast
- - [http://directory.shoutcast.com](http://directory.shoutcast.com)
+ - [https://directory.shoutcast.com](https://directory.shoutcast.com)
  - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Broadcast and Monetize Your Station with SHOUTcast
- - [https://directory.shoutcast.com](https://directory.shoutcast.com)
+ - [http://directory.shoutcast.com](http://directory.shoutcast.com)
  - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -4301,14 +4397,14 @@
  - tags: []
 
 ## Simon Hedley | Strategic Alchemist | The Strategic Consultant – Helping Good People Do Great Things
- - [https://simonhedley.com](https://simonhedley.com)
- - date published: 2024-01-13T04:53:05.503923+00:00
+ - [http://simonhedley.com](http://simonhedley.com)
+ - date published: 2024-04-03T12:49:49.008939+00:00
  - user: None
  - tags: ['personal']
 
 ## Simon Hedley | Strategic Alchemist | The Strategic Consultant – Helping Good People Do Great Things
- - [http://simonhedley.com](http://simonhedley.com)
- - date published: 2024-04-03T12:49:49.008939+00:00
+ - [https://simonhedley.com](https://simonhedley.com)
+ - date published: 2024-01-13T04:53:05.503923+00:00
  - user: None
  - tags: ['personal']
 
@@ -4925,15 +5021,15 @@
  - user: None
  - tags: ['smart home']
 
-## Smashing Magazine ‚Äî For Web Designers And Developers
- - [http://www.smashingmagazine.com](http://www.smashingmagazine.com)
- - date published: 2024-03-22T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Smashing Magazine — For Web Designers And Developers
  - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
  - date published: 2023-10-25T17:07:11.338092+00:00
+ - user: None
+ - tags: []
+
+## Smashing Magazine ‚Äî For Web Designers And Developers
+ - [http://www.smashingmagazine.com](http://www.smashingmagazine.com)
+ - date published: 2024-03-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4996,6 +5092,18 @@
  - date published: 2023-10-25T17:07:13.653217+00:00
  - user: None
  - tags: []
+
+## None
+ - [http://mail.smtp2go.com](http://mail.smtp2go.com)
+ - date published: 2024-04-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SMTP2GO: Reliable & Scalable Email Delivery Service
+ - [https://smtp2go.com](https://smtp2go.com)
+ - date published: 2018-04-26T00:00:00+00:00
+ - user: rumpel
+ - tags: ['proprietary', 'monetization', 'email']
 
 ## The Smurfs - New TV Series - The Smurfs
  - [https://www.smurf.com](https://www.smurf.com)
@@ -5070,16 +5178,16 @@
  - tags: []
 
 ## Snarling Badger Studios
- - [http://www.snarlingbadger.com](http://www.snarlingbadger.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Snarling Badger Studios
  - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
  - date published: 2023-11-10T10:42:34.914133+00:00
  - user: None
  - tags: ['magazine', 'tabletop games', 'warhammer', 'wargames', 'zine']
+
+## Snarling Badger Studios
+ - [http://www.snarlingbadger.com](http://www.snarlingbadger.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Serge Nevsky
  - [https://snevsky.com](https://snevsky.com)
@@ -5894,114 +6002,6 @@
 ## spf13
  - [https://spf13.com](https://spf13.com)
  - date published: 2023-10-25T17:10:00.325400+00:00
- - user: None
- - tags: []
-
-## Spherical Cow Consulting - Translating geek to human
- - [https://sphericalcowconsulting.com](https://sphericalcowconsulting.com)
- - date published: 2023-10-25T17:10:09.453631+00:00
- - user: None
- - tags: []
-
-## TVアニメ『狼と香辛料 MERCHANT MEETS THE WISE WOLF』
- - [https://spice-and-wolf.com](https://spice-and-wolf.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Business and Industry News, Analysis and Expert Insights - Spiceworks
- - [https://www.spiceworks.com](https://www.spiceworks.com)
- - date published: 2023-10-25T17:10:27.438171+00:00
- - user: None
- - tags: ['news']
-
-## Home - Spiezz Digital
- - [https://www.spiezz.com](https://www.spiezz.com)
- - date published: 2024-01-05T10:37:07.949209+00:00
- - user: None
- - tags: []
-
-## spiked - humanity is underrated
- - [https://www.spiked-online.com](https://www.spiked-online.com)
- - date published: 2023-10-25T17:10:30.358271+00:00
- - user: None
- - tags: []
-
-## Spikey Bits
- - [https://spikeybits.com](https://spikeybits.com)
- - date published: 2024-01-21T18:33:27+00:00
- - user: rumpel
- - tags: ['warhammer', 'star wars', 'tabletop games', 'news']
-
-## SPIN - Music News, Album Reviews, Concert Photos, Videos and More
- - [https://www.spin.com](https://www.spin.com)
- - date published: 2023-11-13T12:42:43.730941+00:00
- - user: None
- - tags: ['music news']
-
-## Home
- - [https://www.spinebookstorecafe.com](https://www.spinebookstorecafe.com)
- - date published: 2023-12-04T13:08:28.054449+00:00
- - user: None
- - tags: []
-
-## Spinfuel Magazine
- - [https://spinfuel.com](https://spinfuel.com)
- - date published: 2023-10-25T17:10:35.537230+00:00
- - user: None
- - tags: []
-
-## Spinnin' Records | World's leading dance label and community.
- - [https://spinninrecords.com](https://spinninrecords.com)
- - date published: 2024-02-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sign in - Google Accounts
- - [https://www.spiritualabuseresources.com](https://www.spiritualabuseresources.com)
- - date published: 2024-02-24T18:04:55.792588+00:00
- - user: None
- - tags: []
-
-## Global maritime, shipping and offshore news - Splash 24/7
- - [https://splash247.com](https://splash247.com)
- - date published: 2024-01-04T12:43:29.828881+00:00
- - user: None
- - tags: []
-
-## Home - Splash Damage
- - [https://www.splashdamage.com](https://www.splashdamage.com)
- - date published: 2024-02-06T15:25:34.239432+00:00
- - user: None
- - tags: []
-
-## Royalty-Free Sounds, FX, Presets & More | Splice
- - [https://splice.com](https://splice.com)
- - date published: 2024-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['sample library', 'assets audio', 'royality free']
-
-## Splinter | The Truth Hurts
- - [https://splinternews.com](https://splinternews.com)
- - date published: 1970-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Splunk | The Key to Enterprise Resilience
- - [https://www.splunk.com](https://www.splunk.com)
- - date published: 2023-10-25T17:10:39.211445+00:00
- - user: None
- - tags: []
-
-## The Spokesman-Review | Local News, Business, Entertainment, Sports & Weather for Eastern Washington
- - [https://www.spokesman.com](https://www.spokesman.com)
- - date published: 2023-10-25T17:10:45.399309+00:00
- - user: None
- - tags: []
-
-## Spoon & Tamago | japanese art, design and culture
- - [https://www.spoon-tamago.com](https://www.spoon-tamago.com)
- - date published: 2023-10-25T17:10:53.324617+00:00
  - user: None
  - tags: []
 

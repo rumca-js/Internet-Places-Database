@@ -1,3 +1,51 @@
+## Denver News, Sports & Business | Denver Gazette, N
+ - [https://denvergazette.com](https://denvergazette.com)
+ - date published: 2023-10-25T13:49:22.527421+00:00
+ - user: None
+ - tags: []
+
+## Denverite, the Denver site!
+ - [https://denverite.com](https://denverite.com)
+ - date published: 2023-10-25T13:49:27.465378+00:00
+ - user: None
+ - tags: []
+
+## The Denver Post – Colorado breaking news, sports, business, weather, entertainment.
+ - [https://www.denverpost.com](https://www.denverpost.com)
+ - date published: 2023-10-25T11:03:04.845006+00:00
+ - user: None
+ - tags: []
+
+## Royalty-free Images, Photo Stock, Video & Music | Depositphotos
+ - [https://depositphotos.com](https://depositphotos.com)
+ - date published: 2024-03-01T09:12:52.967908+00:00
+ - user: None
+ - tags: ['assets images']
+
+## Show HN: Made a forum for depressed founders to confide
+ - [https://www.depressedfounders.com](https://www.depressedfounders.com)
+ - date published: 2023-12-17T06:21:25+00:00
+ - user: None
+ - tags: []
+
+## De Programmatica Ipsum – A magazine about programmers, code, and society. Written by humans since 2018.
+ - [https://deprogrammaticaipsum.com](https://deprogrammaticaipsum.com)
+ - date published: 2024-03-04T09:39:26.593720+00:00
+ - user: None
+ - tags: ['programming articles']
+
+## Vintage Computing
+ - [https://deramp.com](https://deramp.com)
+ - date published: 2024-01-01T18:26:34+00:00
+ - user: None
+ - tags: []
+
+## Derek Houck
+ - [https://derekhouck.com](https://derekhouck.com)
+ - date published: 2023-12-19T02:59:18.608346+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Derek Goodwin Photography | Headshot & Branding Photographer
  - [https://www.derekpashupagoodwin.com](https://www.derekpashupagoodwin.com)
  - date published: 2023-11-29T17:08:37.949199+00:00
@@ -1019,13 +1067,13 @@
  - tags: []
 
 ## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
- - [https://www.djriko.com](https://www.djriko.com)
+ - [http://www.djriko.com](http://www.djriko.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## DJ Riko - Mashups, Mixes, Mishaps, Mayhem
- - [http://www.djriko.com](http://www.djriko.com)
+ - [https://www.djriko.com](https://www.djriko.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -3797,6 +3845,12 @@
  - user: None
  - tags: []
 
+## Erdos Problems Collection
+ - [https://www.erdosproblems.com](https://www.erdosproblems.com)
+ - date published: 2024-04-19T22:26:18+00:00
+ - user: None
+ - tags: ['math', 'equations']
+
 ## Welcome to Ereads.com!
  - [https://www.ereads.com](https://www.ereads.com)
  - date published: 2023-10-25T11:19:14.702687+00:00
@@ -4643,6 +4697,12 @@
  - user: None
  - tags: []
 
+## Evie Magazine
+ - [https://www.eviemagazine.com](https://www.eviemagazine.com)
+ - date published: 2024-04-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Evil Inc
  - [http://evil-comic.com](http://evil-comic.com)
  - date published: 2024-04-07T14:12:06+00:00
@@ -5004,14 +5064,14 @@
  - tags: []
 
 ## Log in or sign up to view
- - [http://facebook.com](http://facebook.com)
- - date published: 2024-02-24T09:56:45.941514+00:00
+ - [https://facebook.com](https://facebook.com)
+ - date published: 2023-12-11T16:53:43.180916+00:00
  - user: None
  - tags: []
 
 ## Log in or sign up to view
- - [https://facebook.com](https://facebook.com)
- - date published: 2023-12-11T16:53:43.180916+00:00
+ - [http://facebook.com](http://facebook.com)
+ - date published: 2024-02-24T09:56:45.941514+00:00
  - user: None
  - tags: []
 
@@ -5759,15 +5819,15 @@
  - user: None
  - tags: []
 
-## Error 404 (Not Found)!!1
- - [https://feeds.feedburner.com](https://feeds.feedburner.com)
- - date published: 2024-01-09T02:36:30.505752+00:00
- - user: None
- - tags: []
-
 ## None
  - [http://feeds.feedburner.com](http://feeds.feedburner.com)
  - date published: 2024-02-25T14:03:04.041505+00:00
+ - user: None
+ - tags: []
+
+## Error 404 (Not Found)!!1
+ - [https://feeds.feedburner.com](https://feeds.feedburner.com)
+ - date published: 2024-01-09T02:36:30.505752+00:00
  - user: None
  - tags: []
 
@@ -5936,66 +5996,6 @@
 ## FIAT® USA Official Site | Crossovers and Cars
  - [https://www.fiatusa.com](https://www.fiatusa.com)
  - date published: 2023-11-01T08:42:07.784887+00:00
- - user: None
- - tags: []
-
-## Fiberplane - Collaborative Notebooks for debugging your infrastructure
- - [https://fiberplane.com](https://fiberplane.com)
- - date published: 2023-10-25T14:29:43.652740+00:00
- - user: None
- - tags: []
-
-## Fidelity International Usage Agreement
- - [https://www.fidelity.com](https://www.fidelity.com)
- - date published: 2023-11-04T01:07:36.664889+00:00
- - user: None
- - tags: []
-
-## www.fieggen.com – Welcome To My Website!
- - [https://www.fieggen.com](https://www.fieggen.com)
- - date published: 2023-10-25T08:45:46.864817+00:00
- - user: None
- - tags: ['personal']
-
-## Field & Stream: How to Hunt, Fish, Camp, and Survive | Field & Stream
- - [https://www.fieldandstream.com](https://www.fieldandstream.com)
- - date published: 2023-10-25T14:29:50.103816+00:00
- - user: None
- - tags: []
-
-## Fierce Biotech | Fierce Biotech
- - [https://www.fiercebiotech.com](https://www.fiercebiotech.com)
- - date published: 2023-10-25T14:29:54.614952+00:00
- - user: None
- - tags: []
-
-## Fierce Pharma | Fierce Pharma
- - [https://www.fiercepharma.com](https://www.fiercepharma.com)
- - date published: 2023-10-25T14:29:57.976970+00:00
- - user: None
- - tags: []
-
-## Fierce Telecom | Fierce Telecom
- - [https://www.fiercetelecom.com](https://www.fiercetelecom.com)
- - date published: 2023-10-25T14:30:00.941607+00:00
- - user: None
- - tags: []
-
-## Fifty Years News | Substack
- - [https://substack.fiftyyears.com](https://substack.fiftyyears.com)
- - date published: 2023-10-25T09:40:09.439242+00:00
- - user: None
- - tags: ['substack']
-
-## Play Figgie at Jane Street
- - [https://figgie.com](https://figgie.com)
- - date published: 2023-12-18T09:46:04.792293+00:00
- - user: None
- - tags: []
-
-## Fight © Trolls
- - [https://fightcopyrighttrolls.com](https://fightcopyrighttrolls.com)
- - date published: 2024-01-23T00:00:00+00:00
  - user: None
  - tags: []
 

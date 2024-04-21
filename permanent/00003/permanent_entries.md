@@ -1,3 +1,27 @@
+## 5to9
+ - [https://5to9.beehiiv.com](https://5to9.beehiiv.com)
+ - date published: 2024-01-09T02:30:13.006207+00:00
+ - user: None
+ - tags: []
+
+## Ben's Bites
+ - [https://bensbites.beehiiv.com](https://bensbites.beehiiv.com)
+ - date published: 2023-10-25T12:55:28.977663+00:00
+ - user: None
+ - tags: []
+
+## But What For?
+ - [https://butwhatfor.beehiiv.com](https://butwhatfor.beehiiv.com)
+ - date published: 2023-10-25T12:55:34.496023+00:00
+ - user: None
+ - tags: []
+
+## Easily Amused
+ - [https://easilyamused.beehiiv.com](https://easilyamused.beehiiv.com)
+ - date published: 2023-10-25T12:55:37.997353+00:00
+ - user: None
+ - tags: []
+
 ## FOSS Weekly
  - [https://fossweekly.beehiiv.com](https://fossweekly.beehiiv.com)
  - date published: 2023-10-25T12:55:43.086938+00:00
@@ -1835,16 +1859,16 @@
  - tags: ['personal']
 
 ## Database Architects
- - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Database Architects
  - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
  - date published: 2023-10-25T09:08:09.774302+00:00
  - user: None
  - tags: ['personal']
+
+## Database Architects
+ - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Data Finnovation
  - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
@@ -2081,16 +2105,16 @@
  - tags: []
 
 ## Information Processing
- - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
- - date published: 2023-10-25T09:09:06.318517+00:00
- - user: None
- - tags: ['personal']
-
-## Information Processing
  - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
  - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
+
+## Information Processing
+ - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
+ - date published: 2023-10-25T09:09:06.318517+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Development of the trilogy & IV
  - [https://insiderockstarnorth.blogspot.com](https://insiderockstarnorth.blogspot.com)
@@ -2143,6 +2167,12 @@
 ## LAW PROF on the LOOSE
  - [https://jsiegel.blogspot.com](https://jsiegel.blogspot.com)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## KA7OEI's blog
+ - [http://ka7oei.blogspot.com](http://ka7oei.blogspot.com)
+ - date published: 2024-03-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3600,6 +3630,12 @@
  - user: None
  - tags: ['web browser']
 
+## Brave Community
+ - [https://community.brave.com](https://community.brave.com)
+ - date published: 2024-04-20T22:37:26.441591+00:00
+ - user: None
+ - tags: []
+
 ## Brave Search
  - [https://search.brave.com](https://search.brave.com)
  - date published: 2023-10-30T12:58:01.536939+00:00
@@ -3793,16 +3829,16 @@
  - tags: []
 
 ## Brian Kleiber - SEO Analyst & Content Marketing
- - [http://www.briankleiber.com](http://www.briankleiber.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Brian Kleiber - SEO Analyst & Content Marketing
  - [https://www.briankleiber.com](https://www.briankleiber.com)
  - date published: 2023-12-30T22:23:37.854421+00:00
  - user: None
  - tags: ['personal']
+
+## Brian Kleiber - SEO Analyst & Content Marketing
+ - [http://www.briankleiber.com](http://www.briankleiber.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## bkm
  - [https://www.briankm.com](https://www.briankm.com)
@@ -5617,14 +5653,14 @@
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [https://sports.cctv.com](https://sports.cctv.com)
- - date published: 2023-12-09T12:18:44.730556+00:00
+ - [http://sports.cctv.com](http://sports.cctv.com)
+ - date published: 2024-03-21T02:07:49.559014+00:00
  - user: None
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [http://sports.cctv.com](http://sports.cctv.com)
- - date published: 2024-03-21T02:07:49.559014+00:00
+ - [https://sports.cctv.com](https://sports.cctv.com)
+ - date published: 2023-12-09T12:18:44.730556+00:00
  - user: None
  - tags: []
 
@@ -5700,15 +5736,15 @@
  - user: None
  - tags: ['personal']
 
-## Human fetal brain self-organizes into long-term expanding organoids
- - [www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue](www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue)
- - date published: 2024-01-10T19:20:45.384863+00:00
- - user: None
- - tags: []
-
 ## https://www.cell.com
  - [https://www.cell.com](https://www.cell.com)
  - date published: 2023-10-25T13:19:41.208125+00:00
+ - user: None
+ - tags: []
+
+## Human fetal brain self-organizes into long-term expanding organoids
+ - [www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue](www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue)
+ - date published: 2024-01-10T19:20:45.384863+00:00
  - user: None
  - tags: []
 
@@ -5969,40 +6005,4 @@
  - date published: 2023-10-25T13:20:24.713725+00:00
  - user: None
  - tags: []
-
-## Sales Advisor & Speaker | Charlene Ignites
- - [https://www.charleneignites.com](https://www.charleneignites.com)
- - date published: 2023-11-29T17:15:02.416177+00:00
- - user: None
- - tags: ['personal']
-
-## Welcome to Charles Atlas LTD.
- - [https://www.charlesatlas.com](https://www.charlesatlas.com)
- - date published: 2023-10-25T13:20:30.485142+00:00
- - user: None
- - tags: []
-
-## Charles Kunken
- - [https://www.charleskunken.com](https://www.charleskunken.com)
- - date published: 2024-01-05T01:04:32.750147+00:00
- - user: None
- - tags: []
-
-## Charles Petzold
- - [https://www.charlespetzold.com](https://www.charlespetzold.com)
- - date published: 2023-10-25T09:19:39.959226+00:00
- - user: None
- - tags: ['personal']
-
-## Charlie Chaplin : Official Website
- - [https://www.charliechaplin.com](https://www.charliechaplin.com)
- - date published: 2023-12-17T16:43:05.369405+00:00
- - user: None
- - tags: []
-
-## Charlie Harrington
- - [https://charlieharrington.com](https://charlieharrington.com)
- - date published: 2023-10-25T09:19:41.271593+00:00
- - user: None
- - tags: ['personal']
 
