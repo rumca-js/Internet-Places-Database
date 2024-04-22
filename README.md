@@ -12,6 +12,18 @@ This is a database of Internet places. Mostly domains. Sometimes other things. T
  - repository links. For example [https://github.com/rumca-js/Internet-Places-Database](https://github.com/rumca-js/Internet-Places-Database)
  - user spaces. Might be youtube channel link: [Linus Tech Tips YouTube Channel](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw). Might be X/Twitter user account.
 
+# Not acceptable link types
+
+ - content farms
+ - malware sites
+ - porn, casino, etc.
+ - it infrastructure domains, CDN domains
+ - analytic domains that are used for user surveillance, not to provide data
+
+Relues obviously can be changed. Sometimes I make exceptions for some domains.
+
+Some sites are allowed to be in database, but are downvoted.
+
 # Sources of data
 
 Obtained by the [Django-link-archive](https://github.com/rumca-js/Django-link-archive) web crawler.
@@ -21,8 +33,9 @@ Sources:
  - [https://nownownow.com/](https://nownownow.com/)
  - [https://searchmysite.net/](https://searchmysite.net/)
  - [https://downloads.marginalia.nu/](https://downloads.marginalia.nu/)
+ - [https://aboutideasnow.com/](https://aboutideasnow.com/)
  - hacker front page entries
- - some reddit channels
+ - some reddit channels [r/selfhosted](https://www.reddit.com/r/selfhosted/.rss)
 
 # Files
 
@@ -33,7 +46,10 @@ Each link contains a set of attributes, like:
  - description
  - page rating
  - date of creation
+ - date of last seen
  - etc.
+
+Content ranking is established by the [Django link archive](https://github.com/rumca-js/Django-link-archive) project.
 
 # Tags
 
@@ -46,8 +62,20 @@ Each entry can be tagged. Most notable examples of tags
  - university, museum, etc - if entry provides details about a univeristy, museum, etc.
  - disinformation / misinformation - self explanatory
  - news - if it is "news" content farm. Might be also "game news", "tech news", etc.
- - propaganda
+ - amiga - anything amiga related
+ - wtf - for really interesting finds
+ - link service - bitly or other services that provide shortened versions of links
+
+# Notes
+
+ - Not all domains have to be stored here. I think it would be best to have valuable domains. Certainly we do not want content farms. We do not need sites that do not contribute anything useful to the society, to the reader
+ - The distinction is not that clear-cut, but more lenient rules apply toward personal sites
+ - I am not that interested in marking substack, or medium as "personal" sites, as I do not feel that it should be tagged as such
  
 # Demo database
 
 Might not be working. Used for development: [https://renegat0x0.ddns.net/apps/places/](https://renegat0x0.ddns.net/apps/places/)
+
+<div align="center">
+  <img alt="Meme" src="images/bender.png">
+</div>
