@@ -1,3 +1,81 @@
+## Home
+ - [https://www.rgj.com](https://www.rgj.com)
+ - date published: 2023-11-21T18:14:02.751824+00:00
+ - user: None
+ - tags: []
+
+## Bug's Entrypoint
+ - [https://blog.rgsilva.com](https://blog.rgsilva.com)
+ - date published: 2023-12-02T15:51:16.421337+00:00
+ - user: None
+ - tags: []
+
+## Der integrierte internationale Technologiekonzern  | Rheinmetall
+ - [https://www.rheinmetall.com](https://www.rheinmetall.com)
+ - date published: 2023-10-25T16:51:08.413247+00:00
+ - user: None
+ - tags: []
+
+## Enterprise NoSQL Database | Scalable Database Solutions | Riak
+ - [https://riak.com](https://riak.com)
+ - date published: 2023-10-25T16:51:09.866070+00:00
+ - user: None
+ - tags: []
+
+## Ribbonfarm Studio | Venkatesh Rao | Substack
+ - [https://studio.ribbonfarm.com](https://studio.ribbonfarm.com)
+ - date published: 2023-10-25T16:51:12.705518+00:00
+ - user: None
+ - tags: []
+
+## ribbonfarm
+ - [https://www.ribbonfarm.com](https://www.ribbonfarm.com)
+ - date published: 2023-10-25T16:51:14.885911+00:00
+ - user: None
+ - tags: []
+
+## Ribbon Health partners with innovators across the healthcare ecosystem
+ - [https://www.ribbonhealth.com](https://www.ribbonhealth.com)
+ - date published: 2023-10-25T16:51:16.455485+00:00
+ - user: None
+ - tags: []
+
+## rand[om] - med ∩ ml
+ - [https://ricardoanderegg.com](https://ricardoanderegg.com)
+ - date published: 2023-10-25T16:51:16.979088+00:00
+ - user: None
+ - tags: []
+
+## Riccardo Giorato: Blog, Experiments, Remote work, Newsletter and more!
+ - [https://riccardogiorato.com](https://riccardogiorato.com)
+ - date published: 1920-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Bézier Curves - and the logic behind them | Richard Ekwonye
+ - [https://blog.richardekwonye.com](https://blog.richardekwonye.com)
+ - date published: 2023-10-25T16:51:18.543659+00:00
+ - user: None
+ - tags: []
+
+## Homepage | RichardHerring.com
+ - [https://www.richardherring.com](https://www.richardherring.com)
+ - date published: 2024-02-13T17:35:46.763245+00:00
+ - user: None
+ - tags: ['personal']
+
+## HelpFully IT - IT Support Consultancy
+ - [https://richardhickson.com](https://richardhickson.com)
+ - date published: 2024-01-11T07:52:49.571068+00:00
+ - user: None
+ - tags: []
+
+## Richard Lucas
+ - [https://www.richardlucas.com](https://www.richardlucas.com)
+ - date published: 2024-01-02T10:19:40.499602+00:00
+ - user: None
+ - tags: []
+
 ## https://richardthames.com
  - [https://richardthames.com](https://richardthames.com)
  - date published: 2023-12-02T10:25:48.205930+00:00
@@ -149,16 +227,16 @@
  - tags: []
 
 ## Ken Shirriff's blog
- - [https://www.righto.com](https://www.righto.com)
- - date published: 2023-10-25T16:51:33.313104+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## Ken Shirriff's blog
  - [http://www.righto.com](http://www.righto.com)
  - date published: 2024-02-25T00:44:48.796985+00:00
  - user: None
  - tags: []
+
+## Ken Shirriff's blog
+ - [https://www.righto.com](https://www.righto.com)
+ - date published: 2023-10-25T16:51:33.313104+00:00
+ - user: None
+ - tags: ['blog', 'personal']
 
 ## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
  - [https://www.rigzone.com](https://www.rigzone.com)
@@ -824,7 +902,7 @@
  - [https://rodolfoberrios.com](https://rodolfoberrios.com)
  - date published: 2024-04-20T21:05:35.862993+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## https://www.rodrigofranco.com
  - [https://www.rodrigofranco.com](https://www.rodrigofranco.com)
@@ -889,6 +967,12 @@
 ## RogueBasin
  - [https://www.roguebasin.com](https://www.roguebasin.com)
  - date published: 2023-10-25T16:53:39.345258+00:00
+ - user: None
+ - tags: []
+
+## roguelynn
+ - [https://www.roguelynn.com](https://www.roguelynn.com)
+ - date published: 2024-04-11T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1079,14 +1163,14 @@
  - tags: ['personal']
 
 ## my blog
- - [https://ronzhyn.com](https://ronzhyn.com)
- - date published: 2023-12-03T01:43:15.181104+00:00
+ - [http://ronzhyn.com](http://ronzhyn.com)
+ - date published: 2024-04-03T12:46:15.138808+00:00
  - user: None
  - tags: ['personal']
 
 ## my blog
- - [http://ronzhyn.com](http://ronzhyn.com)
- - date published: 2024-04-03T12:46:15.138808+00:00
+ - [https://ronzhyn.com](https://ronzhyn.com)
+ - date published: 2023-12-03T01:43:15.181104+00:00
  - user: None
  - tags: ['personal']
 
@@ -3845,14 +3929,14 @@
  - tags: []
 
 ## Home
- - [http://www.shawnewallace.com](http://www.shawnewallace.com)
- - date published: 2024-02-26T12:56:59.057504+00:00
+ - [https://www.shawnewallace.com](https://www.shawnewallace.com)
+ - date published: 2024-01-04T08:11:38.097898+00:00
  - user: None
  - tags: []
 
 ## Home
- - [https://www.shawnewallace.com](https://www.shawnewallace.com)
- - date published: 2024-01-04T08:11:38.097898+00:00
+ - [http://www.shawnewallace.com](http://www.shawnewallace.com)
+ - date published: 2024-02-26T12:56:59.057504+00:00
  - user: None
  - tags: []
 
@@ -4025,14 +4109,14 @@
  - tags: []
 
 ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
- - [https://shorer.com](https://shorer.com)
- - date published: 2023-11-29T14:25:19.463201+00:00
+ - [http://shorer.com](http://shorer.com)
+ - date published: 2024-04-03T06:29:33.681658+00:00
  - user: None
  - tags: ['personal']
 
 ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
- - [http://shorer.com](http://shorer.com)
- - date published: 2024-04-03T06:29:33.681658+00:00
+ - [https://shorer.com](https://shorer.com)
+ - date published: 2023-11-29T14:25:19.463201+00:00
  - user: None
  - tags: ['personal']
 
@@ -5178,16 +5262,16 @@
  - tags: []
 
 ## Snarling Badger Studios
- - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
- - date published: 2023-11-10T10:42:34.914133+00:00
- - user: None
- - tags: ['magazine', 'tabletop games', 'warhammer', 'wargames', 'zine']
-
-## Snarling Badger Studios
  - [http://www.snarlingbadger.com](http://www.snarlingbadger.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Snarling Badger Studios
+ - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
+ - date published: 2023-11-10T10:42:34.914133+00:00
+ - user: None
+ - tags: ['magazine', 'tabletop games', 'warhammer', 'wargames', 'zine']
 
 ## Serge Nevsky
  - [https://snevsky.com](https://snevsky.com)
@@ -5918,90 +6002,6 @@
 ## SparkNotes: Today's Most Popular Study Guides
  - [https://www.sparknotes.com](https://www.sparknotes.com)
  - date published: 2023-12-26T17:33:03.148611+00:00
- - user: None
- - tags: []
-
-## Sparring Mind: Creative Work and Human Behavior
- - [https://www.sparringmind.com](https://www.sparringmind.com)
- - date published: 2023-10-25T17:09:40.935104+00:00
- - user: None
- - tags: []
-
-## Spartan Esquire
- - [https://spartanesquire.com](https://spartanesquire.com)
- - date published: 2023-12-17T16:41:22.145388+00:00
- - user: None
- - tags: ['personal']
-
-## Speaker Deck | Easily Share Your Presentations Online
- - [https://speakerdeck.com](https://speakerdeck.com)
- - date published: 2023-10-25T17:09:48.220637+00:00
- - user: None
- - tags: []
-
-## Speculative Branches
- - [https://specbranch.com](https://specbranch.com)
- - date published: 2023-10-25T17:09:49.340220+00:00
- - user: None
- - tags: []
-
-## The Spectator
- - [https://spectatorworld.com](https://spectatorworld.com)
- - date published: 2023-10-25T17:09:52.971452+00:00
- - user: None
- - tags: []
-
-## https://spectrumlocalnews.com
- - [https://spectrumlocalnews.com](https://spectrumlocalnews.com)
- - date published: 2024-01-09T02:49:17.613649+00:00
- - user: None
- - tags: []
-
-## Speech Meter - Analyze your accent and improve your pronunciation
- - [https://speechmeter.com](https://speechmeter.com)
- - date published: 2023-10-25T17:09:54.893442+00:00
- - user: None
- - tags: []
-
-## SpeedCurve | Website Performance Monitoring
- - [https://www.speedcurve.com](https://www.speedcurve.com)
- - date published: 2023-10-25T17:09:59.183470+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.speedofdark-thebook.com](https://www.speedofdark-thebook.com)
- - date published: 2024-02-08T16:36:04.135504+00:00
- - user: None
- - tags: []
-
-## Spellbrush
- - [https://spellbrush.com](https://spellbrush.com)
- - date published: 2023-12-06T21:32:46.624790+00:00
- - user: None
- - tags: []
-
-## Spencer Dixon
- - [https://www.spencerdixon.com](https://www.spencerdixon.com)
- - date published: 2024-01-03T01:12:12.725734+00:00
- - user: None
- - tags: []
-
-## Articles
- - [https://spencermortensen.com](https://spencermortensen.com)
- - date published: 2023-11-22T15:19:29.713479+00:00
- - user: None
- - tags: []
-
-## Spencer Pope
- - [https://www.spenpo.com](https://www.spenpo.com)
- - date published: 2024-04-03T06:23:29.052820+00:00
- - user: None
- - tags: ['personal']
-
-## spf13
- - [https://spf13.com](https://spf13.com)
- - date published: 2023-10-25T17:10:00.325400+00:00
  - user: None
  - tags: []
 

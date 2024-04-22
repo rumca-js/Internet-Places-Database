@@ -1,3 +1,135 @@
+## Sam Curry - Web Application Security Researcher
+ - [https://samcurry.net](https://samcurry.net)
+ - date published: 2023-10-25T20:36:44.539361+00:00
+ - user: None
+ - tags: []
+
+## Sami Lehtinen
+ - [https://www.sami-lehtinen.net](https://www.sami-lehtinen.net)
+ - date published: 2023-10-25T08:53:50.161813+00:00
+ - user: None
+ - tags: ['personal']
+
+## www.satchell.net Index
+ - [https://www.satchell.net](https://www.satchell.net)
+ - date published: 2023-10-25T20:36:45.679413+00:00
+ - user: None
+ - tags: []
+
+## Savage Pink
+ - [http://www.savagepink.net](http://www.savagepink.net)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Savage Pink
+ - [https://www.savagepink.net](https://www.savagepink.net)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## SentenceTransformers Documentation — Sentence-Transformers  documentation
+ - [https://www.sbert.net](https://www.sbert.net)
+ - date published: 2024-04-07T12:32:10.570322+00:00
+ - user: None
+ - tags: ['python framework']
+
+## Jamie Brandon
+ - [https://www.scattered-thoughts.net](https://www.scattered-thoughts.net)
+ - date published: 2023-10-25T08:53:57.855626+00:00
+ - user: None
+ - tags: ['personal']
+
+## Welcome - Nectarine
+ - [http://scenestream.net](http://scenestream.net)
+ - date published: 2024-02-15T22:05:35.556226+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Welcome - Nectarine
+ - [https://scenestream.net](https://scenestream.net)
+ - date published: 2024-04-09T07:38:04+00:00
+ - user: rumpel
+ - tags: ['keygen', 'chiptune', 'demoscene', 'radio']
+
+## Welcome - Nectarine
+ - [https://www.scenestream.net](https://www.scenestream.net)
+ - date published: 2024-02-15T22:31:41.557540+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Schedium
+ - [https://www.schedium.net](https://www.schedium.net)
+ - date published: 2023-10-25T20:36:53.225004+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Science|Business | Science|Business
+ - [https://sciencebusiness.net](https://sciencebusiness.net)
+ - date published: 2024-04-18T13:59:54.214066+00:00
+ - user: None
+ - tags: ['politics news']
+
+## Scope of Work
+ - [https://www.scopeofwork.net](https://www.scopeofwork.net)
+ - date published: 2023-10-25T20:36:54.662120+00:00
+ - user: None
+ - tags: []
+
+## The Scottish Games Network
+ - [https://scottishgames.net](https://scottishgames.net)
+ - date published: 2024-02-16T00:50:38.355747+00:00
+ - user: None
+ - tags: []
+
+## scottnesbitt.net
+ - [https://scottnesbitt.net](https://scottnesbitt.net)
+ - date published: 2023-11-29T18:20:55.928886+00:00
+ - user: None
+ - tags: ['personal']
+
+## ScreenGeek
+ - [https://www.screengeek.net](https://www.screengeek.net)
+ - date published: 2023-10-25T10:17:57.016680+00:00
+ - user: None
+ - tags: []
+
+## SeanBreslin.jp
+ - [https://seanbreslin.net](https://seanbreslin.net)
+ - date published: 2024-01-22T03:53:51.909011+00:00
+ - user: None
+ - tags: []
+
+## Blog for searchmysite.net
+ - [https://blog.searchmysite.net](https://blog.searchmysite.net)
+ - date published: 2023-10-25T20:37:01.552823+00:00
+ - user: None
+ - tags: []
+
+## Search My Site - Open source search engine and search as a service for personal and independent websites
+ - [https://searchmysite.net](https://searchmysite.net)
+ - date published: 2023-10-25T08:53:58.774335+00:00
+ - user: None
+ - tags: ['blog', 'personal', 'personal sites source']
+
+## Coming Soon
+ - [https://sg2plcpnl0010.prod.sin2.secureserver.net](https://sg2plcpnl0010.prod.sin2.secureserver.net)
+ - date published: 2023-12-11T17:42:51.665533+00:00
+ - user: None
+ - tags: []
+
+## seebs.net
+ - [https://www.seebs.net](https://www.seebs.net)
+ - date published: 2023-10-25T20:37:02.387998+00:00
+ - user: None
+ - tags: []
+
+## Human Verification
+ - [https://imadakin1.seesaa.net](https://imadakin1.seesaa.net)
+ - date published: 2024-02-08T17:50:35.696687+00:00
+ - user: None
+ - tags: []
+
 ## Senko Rašić
  - [https://blog.senko.net](https://blog.senko.net)
  - date published: 2023-10-25T20:37:05.334158+00:00
@@ -1006,15 +1138,15 @@
  - user: rumpel
  - tags: ['file send']
 
-## Transputer.net
- - [https://transputer.net](https://transputer.net)
- - date published: 2024-01-07T14:41:29+00:00
- - user: None
- - tags: []
-
 ## Welcome to transputer.net
  - [http://transputer.net](http://transputer.net)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Transputer.net
+ - [https://transputer.net](https://transputer.net)
+ - date published: 2024-01-07T14:41:29+00:00
  - user: None
  - tags: []
 
@@ -2375,16 +2507,16 @@
  - tags: []
 
 ## Chris Eidhof
- - [https://chris.eidhof.nl](https://chris.eidhof.nl)
- - date published: 2023-10-25T08:54:21.499298+00:00
- - user: None
- - tags: ['personal']
-
-## Chris Eidhof
  - [http://chris.eidhof.nl](http://chris.eidhof.nl)
  - date published: 2024-02-25T15:44:49.625453+00:00
  - user: None
  - tags: []
+
+## Chris Eidhof
+ - [https://chris.eidhof.nl](https://chris.eidhof.nl)
+ - date published: 2023-10-25T08:54:21.499298+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Besluiten waarmee je groeit in impact op mens en omgeving
  - [https://ernohannink.nl](https://ernohannink.nl)
@@ -2981,14 +3113,14 @@
  - tags: []
 
 ## INEVO: Eksperter på e-handel og digital markedsføring
- - [https://www.inevo.no](https://www.inevo.no)
- - date published: 2023-11-29T14:22:21.036592+00:00
+ - [http://www.inevo.no](http://www.inevo.no)
+ - date published: 2024-04-03T12:44:43.410441+00:00
  - user: None
  - tags: ['personal']
 
 ## INEVO: Eksperter på e-handel og digital markedsføring
- - [http://www.inevo.no](http://www.inevo.no)
- - date published: 2024-04-03T12:44:43.410441+00:00
+ - [https://www.inevo.no](https://www.inevo.no)
+ - date published: 2023-11-29T14:22:21.036592+00:00
  - user: None
  - tags: ['personal']
 
@@ -4104,14 +4236,14 @@ marginalia.nu
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4572,16 +4704,16 @@ marginalia.nu
  - tags: []
 
 ## AlxQ
- - [http://alxq.org](http://alxq.org)
- - date published: 2024-02-11T13:39:19.641138+00:00
- - user: None
- - tags: []
-
-## AlxQ
  - [https://alxq.org](https://alxq.org)
  - date published: 2024-02-15T22:12:28.937827+00:00
  - user: None
  - tags: ['demoscene']
+
+## AlxQ
+ - [http://alxq.org](http://alxq.org)
+ - date published: 2024-02-11T13:39:19.641138+00:00
+ - user: None
+ - tags: []
 
 ## Alys Stephens Center - Home
  - [https://www.alysstephens.org](https://www.alysstephens.org)
@@ -4920,16 +5052,16 @@ marginalia.nu
  - tags: []
 
 ## Antipope!
- - [https://www.antipope.org](https://www.antipope.org)
- - date published: 2023-10-25T20:57:17.170460+00:00
- - user: None
- - tags: []
-
-## Antipope!
  - [http://www.antipope.org](http://www.antipope.org)
  - date published: 2024-04-03T06:39:03.448310+00:00
  - user: None
  - tags: ['personal']
+
+## Antipope!
+ - [https://www.antipope.org](https://www.antipope.org)
+ - date published: 2023-10-25T20:57:17.170460+00:00
+ - user: None
+ - tags: []
 
 ## Anti-Slavery International | Fighting for Freedom from Slavery
  - [https://www.antislavery.org](https://www.antislavery.org)
@@ -5207,17 +5339,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
- - [https://archive.org](https://archive.org)
- - date published: 2023-10-25T09:29:04.093943+00:00
- - user: None
- - tags: ['internet archive', 'digital library']
-
 ## Internet Archive: Secret service
  - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
  - date published: 2023-10-27T14:37:50+00:00
  - user: rumpel
  - tags: ['retro', 'magazine']
+
+## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+ - [https://archive.org](https://archive.org)
+ - date published: 2023-10-25T09:29:04.093943+00:00
+ - user: None
+ - tags: ['internet archive', 'digital library']
 
 ## Internet Archive Blogs | A blog from the team at archive.org
  - [https://blog.archive.org](https://blog.archive.org)
@@ -5309,17 +5441,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Wayback Machine
- - [https://web.archive.org](https://web.archive.org)
- - date published: 2023-10-25T09:29:18.969501+00:00
- - user: None
- - tags: ['internet archive']
-
 ## Back2Roots
  - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
  - date published: 2023-11-02T10:36:12+00:00
  - user: rumpel
  - tags: []
+
+## Wayback Machine
+ - [https://web.archive.org](https://web.archive.org)
+ - date published: 2023-10-25T09:29:18.969501+00:00
+ - user: None
+ - tags: ['internet archive']
 
 ## Archive-It - 
   
@@ -5350,14 +5482,14 @@ marginalia.nu
  - tags: []
 
 ## Archiveteam
- - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
+ - date published: 2023-11-25T06:19:37.367056+00:00
  - user: None
  - tags: []
 
 ## Archiveteam
- - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
- - date published: 2023-11-25T06:19:37.367056+00:00
+ - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5868,138 +6000,6 @@ marginalia.nu
 ## BeagleBoard - open hardware computers for makers, educators and professionals
  - [https://www.beagleboard.org](https://www.beagleboard.org)
  - date published: 2023-10-25T21:01:37.390014+00:00
- - user: None
- - tags: []
-
-## BearSSL - Main
- - [https://bearssl.org](https://bearssl.org)
- - date published: 2023-10-25T21:01:39.618430+00:00
- - user: None
- - tags: ['open source', 'ssl', 'tls']
-
-## Beast Philanthropy Official Site - Help End Hunger
- - [https://www.beastphilanthropy.org](https://www.beastphilanthropy.org)
- - date published: 2024-02-24T09:57:53.889879+00:00
- - user: None
- - tags: []
-
-## Michael Stillwell
- - [https://beebo.org](https://beebo.org)
- - date published: 2023-10-25T21:01:41.134020+00:00
- - user: None
- - tags: []
-
-## Beehaw - Aspiring to be(e) a safe, friendly and diverse place.
- - [https://beehaw.org](https://beehaw.org)
- - date published: 2023-10-25T21:01:45.404252+00:00
- - user: None
- - tags: []
-
-## BEEP Core protocol central, RFC 3080, RFC 3081, and related BEEP profiles, BEEP implementation, BEEP Protocol, BEEP, Blocks Extensible Exchange Protocol
- - [https://www.beepcore.org](https://www.beepcore.org)
- - date published: 8859-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## BeeRef | A Simple Reference Image Viewer
- - [https://beeref.org](https://beeref.org)
- - date published: 2023-10-25T21:01:46.977040+00:00
- - user: None
- - tags: []
-
-## Write once. Deploy everywhere.— BeeWare
- - [https://beeware.org](https://beeware.org)
- - date published: 2024-04-02T02:38:49.307489+00:00
- - user: None
- - tags: []
-
-## Before "I Do" - What Do Premarital Experiences Have to Do with Marital Quality Among Today's Young Adults?
- - [https://before-i-do.org](https://before-i-do.org)
- - date published: 3000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Behavioral Scientist
- - [https://behavioralscientist.org](https://behavioralscientist.org)
- - date published: 2024-01-15T21:46:33.566415+00:00
- - user: None
- - tags: []
-
-## The Belfer Center for Science and International Affairs
- - [https://www.belfercenter.org](https://www.belfercenter.org)
- - date published: 2023-10-25T21:01:52.834975+00:00
- - user: None
- - tags: []
-
-## Fabrice Bellard's Home Page
- - [https://bellard.org](https://bellard.org)
- - date published: 2023-10-25T21:01:54.552942+00:00
- - user: None
- - tags: []
-
-## Benedum .
- - [https://benedum.org](https://benedum.org)
- - date published: 2023-10-25T21:01:59.450208+00:00
- - user: None
- - tags: []
-
-## www.benshoof.org
- - [https://www.benshoof.org](https://www.benshoof.org)
- - date published: 2023-10-25T21:02:01.475660+00:00
- - user: None
- - tags: []
-
-## Bentham’s Gaze
- - [https://www.benthamsgaze.org](https://www.benthamsgaze.org)
- - date published: 2024-01-04T15:49:03.573788+00:00
- - user: None
- - tags: []
-
-## bertrand fan
- - [https://bert.org](https://bert.org)
- - date published: 2023-10-25T21:02:04.793992+00:00
- - user: None
- - tags: []
-
-## Better Markets | Transparency. Accountability. Oversight.
- - [https://bettermarkets.org](https://bettermarkets.org)
- - date published: 2023-10-25T21:02:12.687358+00:00
- - user: None
- - tags: []
-
-## Locus Science Fiction Foundation on BetterWorld
- - [https://locus.betterworld.org](https://locus.betterworld.org)
- - date published: 2024-03-14T16:24:00.790702+00:00
- - user: None
- - tags: []
-
-## beuke.org
- - [https://beuke.org](https://beuke.org)
- - date published: 2024-03-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Bevy Engine
- - [https://bevyengine.org](https://bevyengine.org)
- - date published: 2023-10-25T21:02:14.400715+00:00
- - user: None
- - tags: []
-
-## Beyondlogic – Electronics Hardware – Embedded Linux – Internet of Things
- - [https://www.beyondlogic.org](https://www.beyondlogic.org)
- - date published: 2024-03-03T22:14:20.021326+00:00
- - user: None
- - tags: ['embedded linux', 'single board computers', 'electronics hardware', 'internet of things']
-
-## Beyond Skyrim | The province collaboration
- - [https://beyondskyrim.org](https://beyondskyrim.org)
- - date published: 2023-11-11T00:00:00+00:00
- - user: rumpel
- - tags: ['elder scrolls', 'skyrim']
-
-## Bezos Earth Fund
- - [https://www.bezosearthfund.org](https://www.bezosearthfund.org)
- - date published: 2023-10-25T21:02:21.240501+00:00
  - user: None
  - tags: []
 

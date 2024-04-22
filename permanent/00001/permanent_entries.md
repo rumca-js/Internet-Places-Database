@@ -1,3 +1,9 @@
+## Instituto Ricardo Brennand
+ - [https://www.institutoricardobrennand.org.br](https://www.institutoricardobrennand.org.br)
+ - date published: 2023-11-13T13:53:50.117261+00:00
+ - user: None
+ - tags: ['museum']
+
 ## MASP
  - [https://masp.org.br](https://masp.org.br)
  - date published: 2023-11-13T13:41:34.414087+00:00
@@ -707,14 +713,14 @@
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [https://jenniferashton.ca](https://jenniferashton.ca)
- - date published: 2023-12-20T19:14:23.669927+00:00
+ - [http://jenniferashton.ca](http://jenniferashton.ca)
+ - date published: 2023-12-25T04:56:31.047100+00:00
  - user: None
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [http://jenniferashton.ca](http://jenniferashton.ca)
- - date published: 2023-12-25T04:56:31.047100+00:00
+ - [https://jenniferashton.ca](https://jenniferashton.ca)
+ - date published: 2023-12-20T19:14:23.669927+00:00
  - user: None
  - tags: ['personal']
 
@@ -1079,14 +1085,14 @@
  - tags: ['personal']
 
 ## Scott Redmond
- - [http://www.scottredmond.ca](http://www.scottredmond.ca)
- - date published: 2024-04-03T12:49:31.889702+00:00
+ - [https://www.scottredmond.ca](https://www.scottredmond.ca)
+ - date published: 2024-01-23T03:27:52.039443+00:00
  - user: None
  - tags: ['personal']
 
 ## Scott Redmond
- - [https://www.scottredmond.ca](https://www.scottredmond.ca)
- - date published: 2024-01-23T03:27:52.039443+00:00
+ - [http://www.scottredmond.ca](http://www.scottredmond.ca)
+ - date published: 2024-04-03T12:49:31.889702+00:00
  - user: None
  - tags: ['personal']
 
@@ -1235,14 +1241,14 @@
  - tags: ['personal']
 
 ## Timur Ochakovsky | Web Developer
- - [http://www.timur.ca](http://www.timur.ca)
- - date published: 2002-01-01T00:00:00+00:00
+ - [https://www.timur.ca](https://www.timur.ca)
+ - date published: 2023-11-29T14:23:08.617547+00:00
  - user: None
  - tags: []
 
 ## Timur Ochakovsky | Web Developer
- - [https://www.timur.ca](https://www.timur.ca)
- - date published: 2023-11-29T14:23:08.617547+00:00
+ - [http://www.timur.ca](http://www.timur.ca)
+ - date published: 2002-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1410,16 +1416,16 @@
  - tags: ['personal']
 
 ## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
- - [http://wingfelder.ca](http://wingfelder.ca)
- - date published: 2024-04-03T12:43:01.979772+00:00
- - user: None
- - tags: ['personal']
-
-## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
  - [https://wingfelder.ca](https://wingfelder.ca)
  - date published: 2024-01-11T13:28:46.842673+00:00
  - user: None
  - tags: []
+
+## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
+ - [http://wingfelder.ca](http://wingfelder.ca)
+ - date published: 2024-04-03T12:43:01.979772+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Women of Influence –
  - [https://www.womenofinfluence.ca](https://www.womenofinfluence.ca)
@@ -2545,14 +2551,14 @@
  - tags: []
 
 ## Rocket.Chat: Communications Platform You Can Fully Trust
- - [http://rocket.chat](http://rocket.chat)
- - date published: 2024-04-17T00:00:00+00:00
+ - [https://rocket.chat](https://rocket.chat)
+ - date published: 2024-04-08T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Rocket.Chat: Communications Platform You Can Fully Trust
- - [https://rocket.chat](https://rocket.chat)
- - date published: 2024-04-08T00:00:00+00:00
+ - [http://rocket.chat](http://rocket.chat)
+ - date published: 2024-04-17T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2911,14 +2917,14 @@
  - tags: []
 
 ## Hundred Rabbits
- - [https://100r.co](https://100r.co)
- - date published: 2023-10-25T12:16:22.299825+00:00
+ - [http://100r.co](http://100r.co)
+ - date published: 2024-02-25T20:48:03.755636+00:00
  - user: None
  - tags: []
 
 ## Hundred Rabbits
- - [http://100r.co](http://100r.co)
- - date published: 2024-02-25T20:48:03.755636+00:00
+ - [https://100r.co](https://100r.co)
+ - date published: 2023-10-25T12:16:22.299825+00:00
  - user: None
  - tags: []
 
@@ -3613,14 +3619,14 @@
  - tags: ['sound magazine', 'hobby', 'interesting']
 
 ## Learn With Me – A Resource for Mindful Living
- - [https://learnwithme.co](https://learnwithme.co)
- - date published: 2023-12-29T20:10:41.952123+00:00
+ - [http://learnwithme.co](http://learnwithme.co)
+ - date published: 2024-04-03T06:26:23.438321+00:00
  - user: None
  - tags: ['personal']
 
 ## Learn With Me – A Resource for Mindful Living
- - [http://learnwithme.co](http://learnwithme.co)
- - date published: 2024-04-03T06:26:23.438321+00:00
+ - [https://learnwithme.co](https://learnwithme.co)
+ - date published: 2023-12-29T20:10:41.952123+00:00
  - user: None
  - tags: ['personal']
 
@@ -3667,14 +3673,14 @@
  - tags: []
 
 ## lqb2 & co. — Home
- - [http://lqb2.co](http://lqb2.co)
- - date published: 2022-01-01T00:00:00+00:00
+ - [https://lqb2.co](https://lqb2.co)
+ - date published: 2024-01-15T13:59:10.818821+00:00
  - user: None
  - tags: []
 
 ## lqb2 & co. — Home
- - [https://lqb2.co](https://lqb2.co)
- - date published: 2024-01-15T13:59:10.818821+00:00
+ - [http://lqb2.co](http://lqb2.co)
+ - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4069,16 +4075,16 @@
  - tags: []
 
 ## Home
- - [https://shubhamjain.co](https://shubhamjain.co)
- - date published: 2023-10-25T09:07:56.781772+00:00
- - user: None
- - tags: ['personal']
-
-## Home
  - [http://shubhamjain.co](http://shubhamjain.co)
  - date published: 2024-02-26T12:57:53.139033+00:00
  - user: None
  - tags: []
+
+## Home
+ - [https://shubhamjain.co](https://shubhamjain.co)
+ - date published: 2023-10-25T09:07:56.781772+00:00
+ - user: None
+ - tags: ['personal']
 
 ## SCIENTIA
  - [https://skientia.co](https://skientia.co)
@@ -4159,14 +4165,14 @@
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [https://stateofthenation.co](https://stateofthenation.co)
- - date published: 2023-10-25T12:23:13.580451+00:00
+ - [http://stateofthenation.co](http://stateofthenation.co)
+ - date published: 2024-02-26T12:49:19.790593+00:00
  - user: None
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [http://stateofthenation.co](http://stateofthenation.co)
- - date published: 2024-02-26T12:49:19.790593+00:00
+ - [https://stateofthenation.co](https://stateofthenation.co)
+ - date published: 2023-10-25T12:23:13.580451+00:00
  - user: None
  - tags: []
 
@@ -5288,17 +5294,17 @@
  - user: None
  - tags: ['personal']
 
-## Coming Soon
- - [https://aaronshbeeb.com](https://aaronshbeeb.com)
- - date published: 2023-12-17T20:59:02.532105+00:00
- - user: None
- - tags: ['personal']
-
 ## Home - Aaron Shbeeb
  - [http://aaronshbeeb.com](http://aaronshbeeb.com)
  - date published: 2024-04-03T00:00:00+00:00
  - user: None
  - tags: []
+
+## Coming Soon
+ - [https://aaronshbeeb.com](https://aaronshbeeb.com)
+ - date published: 2023-12-17T20:59:02.532105+00:00
+ - user: None
+ - tags: ['personal']
 
 ## AaronStrick.com
  - [https://aaronstrick.com](https://aaronstrick.com)
@@ -5355,14 +5361,14 @@
  - tags: []
 
 ## Abandoned Realms Homepage
- - [http://abandonedrealms.com](http://abandonedrealms.com)
- - date published: 2024-03-27T20:46:21.299380+00:00
+ - [https://abandonedrealms.com](https://abandonedrealms.com)
+ - date published: 2024-03-27T20:46:56.678785+00:00
  - user: None
  - tags: ['mud game']
 
 ## Abandoned Realms Homepage
- - [https://abandonedrealms.com](https://abandonedrealms.com)
- - date published: 2024-03-27T20:46:56.678785+00:00
+ - [http://abandonedrealms.com](http://abandonedrealms.com)
+ - date published: 2024-03-27T20:46:21.299380+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5487,14 +5493,14 @@
  - tags: []
 
 ## Abhinav Bhatt
- - [https://abhinavbhatt.com](https://abhinavbhatt.com)
- - date published: 2024-01-13T22:54:15.913288+00:00
+ - [http://abhinavbhatt.com](http://abhinavbhatt.com)
+ - date published: 2024-04-03T12:49:59.456600+00:00
  - user: None
  - tags: ['personal']
 
 ## Abhinav Bhatt
- - [http://abhinavbhatt.com](http://abhinavbhatt.com)
- - date published: 2024-04-03T12:49:59.456600+00:00
+ - [https://abhinavbhatt.com](https://abhinavbhatt.com)
+ - date published: 2024-01-13T22:54:15.913288+00:00
  - user: None
  - tags: ['personal']
 
@@ -5995,10 +6001,4 @@
  - date published: 2024-01-13T09:37:38.534463+00:00
  - user: None
  - tags: []
-
-## Adam Weigand
- - [https://adamweigand.com](https://adamweigand.com)
- - date published: 2023-12-30T09:52:07.005007+00:00
- - user: None
- - tags: ['personal']
 

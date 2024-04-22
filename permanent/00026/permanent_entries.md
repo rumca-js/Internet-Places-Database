@@ -1,3 +1,171 @@
+## None
+ - [https://www.osborne-conant.org](https://www.osborne-conant.org)
+ - date published: 2024-02-08T17:50:52.925851+00:00
+ - user: None
+ - tags: []
+
+## Orlando Science Center: A Hands-On Science Museum in Central Florida
+ - [https://www.osc.org](https://www.osc.org)
+ - date published: 2024-01-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Oscars.org | Academy of Motion Picture Arts and Sciences
+ - [https://www.oscars.org](https://www.oscars.org)
+ - date published: 2024-01-12T21:10:31+00:00
+ - user: rumpel
+ - tags: ['oscars']
+
+## Expanded Main Page - OSDev Wiki
+ - [https://wiki.osdev.org](https://wiki.osdev.org)
+ - date published: 2023-12-26T20:32:40.382941+00:00
+ - user: None
+ - tags: []
+
+## Rod's Slide Rules
+ - [https://osgalleries.org](https://osgalleries.org)
+ - date published: 2023-10-25T21:55:08.267829+00:00
+ - user: None
+ - tags: []
+
+## OS.js Web Desktop
+ - [https://www.os-js.org](https://www.os-js.org)
+ - date published: 2023-10-25T21:55:06.625725+00:00
+ - user: None
+ - tags: []
+
+## Osmapp – A Universal OpenStreetMap App
+ - [https://osmapp.org](https://osmapp.org)
+ - date published: 2023-12-28T17:05:25+00:00
+ - user: None
+ - tags: []
+
+## OSM Buildings
+ - [https://osmbuildings.org](https://osmbuildings.org)
+ - date published: 2023-12-24T08:15:03+00:00
+ - user: rumpel
+ - tags: ['service maps']
+
+## Open Source Mobile Communications
+ - [https://projects.osmocom.org](https://projects.osmocom.org)
+ - date published: 2023-10-25T21:55:10.623342+00:00
+ - user: None
+ - tags: []
+
+## Open Source Robotics Alliance: New Funding and Governance Model for ROS / Gazebo
+ - [https://osralliance.org](https://osralliance.org)
+ - date published: 2024-03-18T22:29:46+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the Open Source Seed Initiative - Open Source Seed Initiative
+ - [https://osseeds.org](https://osseeds.org)
+ - date published: 2023-10-25T21:55:13.834590+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Open-source alternatives to tools You pay for
+ - [https://osssoftware.org](https://osssoftware.org)
+ - date published: 2023-12-09T01:14:37+00:00
+ - user: None
+ - tags: []
+
+## Our World in Data
+ - [https://ourworldindata.org](https://ourworldindata.org)
+ - date published: 2023-10-25T21:55:14.796544+00:00
+ - user: None
+ - tags: ['data', 'statistics']
+
+## Avatar - Home Page
+ - [https://www.outland.org](https://www.outland.org)
+ - date published: 2024-03-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## We support journalism and multimedia storytelling about nuclear issues and climate change
+ - [https://outrider.org](https://outrider.org)
+ - date published: 2024-03-18T05:38:33.903336+00:00
+ - user: None
+ - tags: []
+
+## Earth Overshoot Day home - #MoveTheDate
+ - [https://www.overshootday.org](https://www.overshootday.org)
+ - date published: 2023-10-25T21:55:21.472858+00:00
+ - user: None
+ - tags: []
+
+## https://overthewire.org
+ - [https://overthewire.org](https://overthewire.org)
+ - date published: 2024-01-09T03:41:57.489375+00:00
+ - user: None
+ - tags: []
+
+## Overture Maps Foundation – Linux Foundation Project
+ - [https://overturemaps.org](https://overturemaps.org)
+ - date published: 2023-10-25T21:55:23.960595+00:00
+ - user: None
+ - tags: []
+
+## Your Matchmaker Between GitHub Projects And Talented Contributors
+ - [https://ovio.org](https://ovio.org)
+ - date published: 2024-04-15T18:28:43+00:00
+ - user: rumpel
+ - tags: ['open source', 'social platform']
+
+## OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation
+ - [https://owasp.org](https://owasp.org)
+ - date published: 2023-10-25T21:55:25.406620+00:00
+ - user: None
+ - tags: ['security', 'cybersecurity']
+
+## Owl’s Portfolio
+ - [https://www.owlfolio.org](https://www.owlfolio.org)
+ - date published: 2023-10-25T21:55:28.509100+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.oxamyne.org](https://www.oxamyne.org)
+ - date published: 2023-12-11T16:12:55.572072+00:00
+ - user: None
+ - tags: []
+
+## Home - Oxfam Policy & Practice
+ - [https://policy-practice.oxfam.org](https://policy-practice.oxfam.org)
+ - date published: 2024-02-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The future is equal | Oxfam International
+ - [https://www.oxfam.org](https://www.oxfam.org)
+ - date published: 2023-10-25T21:55:30.733555+00:00
+ - user: None
+ - tags: []
+
+## Oxford American | Home
+ - [https://main.oxfordamerican.org](https://main.oxfordamerican.org)
+ - date published: 2023-10-25T21:55:33.395856+00:00
+ - user: None
+ - tags: []
+
+## Oxford American | Home
+ - [https://oxfordamerican.org](https://oxfordamerican.org)
+ - date published: 2023-10-25T21:55:35.228196+00:00
+ - user: None
+ - tags: []
+
+## Home | p2panda
+ - [https://p2panda.org](https://p2panda.org)
+ - date published: 2023-10-25T21:55:36.083870+00:00
+ - user: None
+ - tags: []
+
+## Hummus and Magnets
+ - [https://h14s.p5r.org](https://h14s.p5r.org)
+ - date published: 2023-10-25T21:55:43.963463+00:00
+ - user: None
+ - tags: []
+
 ## pablotron.org
  - [https://pablotron.org](https://pablotron.org)
  - date published: 2023-10-25T21:55:47.144745+00:00
@@ -449,14 +617,14 @@
  - tags: []
 
 ## Pikchr: Documentation
- - [http://pikchr.org](http://pikchr.org)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://pikchr.org](https://pikchr.org)
+ - date published: 2023-10-25T21:57:44.338166+00:00
  - user: None
  - tags: []
 
 ## Pikchr: Documentation
- - [https://pikchr.org](https://pikchr.org)
- - date published: 2023-10-25T21:57:44.338166+00:00
+ - [http://pikchr.org](http://pikchr.org)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -863,14 +1031,14 @@
  - tags: ['personal']
 
 ## The Programming Journal
- - [https://programming-journal.org](https://programming-journal.org)
- - date published: 2023-10-25T21:59:59.828174+00:00
+ - [http://programming-journal.org](http://programming-journal.org)
+ - date published: 2024-06-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Programming Journal
- - [http://programming-journal.org](http://programming-journal.org)
- - date published: 2024-06-01T00:00:00+00:00
+ - [https://programming-journal.org](https://programming-journal.org)
+ - date published: 2023-10-25T21:59:59.828174+00:00
  - user: None
  - tags: []
 
@@ -1366,6 +1534,12 @@
  - user: None
  - tags: []
 
+## Racket Language
+ - [https://racket-lang.org](https://racket-lang.org)
+ - date published: 2024-04-21T03:18:05+00:00
+ - user: None
+ - tags: ['programming language']
+
 ## RacketScript Playground
  - [http://racketscript.org](http://racketscript.org)
  - date published: 2023-10-25T22:02:22.780541+00:00
@@ -1630,15 +1804,15 @@
  - user: None
  - tags: []
 
-## Home - Responsible Statecraft
- - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
- - date published: 2023-10-25T22:03:17.450852+00:00
- - user: None
- - tags: []
-
 ## Responsible Statecraft
  - [http://responsiblestatecraft.org](http://responsiblestatecraft.org)
  - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Responsible Statecraft
+ - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
+ - date published: 2023-10-25T22:03:17.450852+00:00
  - user: None
  - tags: []
 
@@ -3229,16 +3403,16 @@
  - tags: []
 
 ## SQLite Home Page
- - [https://www.sqlite.org](https://www.sqlite.org)
- - date published: 2023-10-25T08:30:44.493063+00:00
- - user: None
- - tags: ['open source']
-
-## SQLite Home Page
  - [http://www.sqlite.org](http://www.sqlite.org)
  - date published: 2024-01-30T00:00:00+00:00
  - user: None
  - tags: []
+
+## SQLite Home Page
+ - [https://www.sqlite.org](https://www.sqlite.org)
+ - date published: 2023-10-25T08:30:44.493063+00:00
+ - user: None
+ - tags: ['open source']
 
 ## sqlpkg - SQLite Package Manager and Registry
  - [https://sqlpkg.org](https://sqlpkg.org)
@@ -4063,14 +4237,14 @@
  - tags: []
 
 ## The Motte
- - [http://www.themotte.org](http://www.themotte.org)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://www.themotte.org](https://www.themotte.org)
+ - date published: 2024-01-15T10:02:38.428422+00:00
  - user: None
  - tags: []
 
 ## The Motte
- - [https://www.themotte.org](https://www.themotte.org)
- - date published: 2024-01-15T10:02:38.428422+00:00
+ - [http://www.themotte.org](http://www.themotte.org)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4085,6 +4259,18 @@
  - date published: 2023-10-25T22:14:19.999816+00:00
  - user: None
  - tags: []
+
+## The New Oil
+ - [https://blog.thenewoil.org](https://blog.thenewoil.org)
+ - date published: 2024-04-21T11:01:09.369893+00:00
+ - user: None
+ - tags: ['data privacy', 'cybersecurity']
+
+## The New Oil | Home
+ - [https://thenewoil.org](https://thenewoil.org)
+ - date published: 2024-04-21T18:24:27+00:00
+ - user: rumpel
+ - tags: ['education', 'data privacy', 'cybersecurity']
 
 ## Theorem of the Day
  - [https://www.theoremoftheday.org](https://www.theoremoftheday.org)
@@ -5271,14 +5457,14 @@
  - tags: []
 
 ## The Viridian Design Movement
- - [http://www.viridiandesign.org](http://www.viridiandesign.org)
- - date published: 2024-02-26T14:25:06.301684+00:00
+ - [https://www.viridiandesign.org](https://www.viridiandesign.org)
+ - date published: 2023-10-25T22:17:40.101109+00:00
  - user: None
  - tags: []
 
 ## The Viridian Design Movement
- - [https://www.viridiandesign.org](https://www.viridiandesign.org)
- - date published: 2023-10-25T22:17:40.101109+00:00
+ - [http://www.viridiandesign.org](http://www.viridiandesign.org)
+ - date published: 2024-02-26T14:25:06.301684+00:00
  - user: None
  - tags: []
 
@@ -5819,192 +6005,6 @@
 ## Wikibooks
  - [https://en.wikibooks.org](https://en.wikibooks.org)
  - date published: 2023-10-25T22:20:17.247729+00:00
- - user: None
- - tags: []
-
-## WikiChip Fuse – Your Chips and Semi News
- - [https://fuse.wikichip.org](https://fuse.wikichip.org)
- - date published: 2023-10-25T22:20:29.115014+00:00
- - user: None
- - tags: []
-
-## Wikidata
- - [https://wikidata.org](https://wikidata.org)
- - date published: 2023-11-17T16:44:51+00:00
- - user: rumpel
- - tags: ['knowledge database', 'internet archive']
-
-## Wikidata
- - [https://www.wikidata.org](https://www.wikidata.org)
- - date published: 2024-01-09T03:43:03.451523+00:00
- - user: None
- - tags: []
-
-## Wikifier
- - [https://wikifier.org](https://wikifier.org)
- - date published: 2024-04-19T17:39:12.949899+00:00
- - user: None
- - tags: []
-
-## WikiIndex
- - [https://wikiindex.org](https://wikiindex.org)
- - date published: 2023-10-25T22:20:32.639179+00:00
- - user: None
- - tags: []
-
-## 504 Gateway Time-out
- - [https://wikileaks.org](https://wikileaks.org)
- - date published: 2023-10-25T22:20:33.161903+00:00
- - user: None
- - tags: []
-
-## Wikimedia Commons
- - [https://commons.wikimedia.org](https://commons.wikimedia.org)
- - date published: 2023-10-25T22:20:40.800608+00:00
- - user: None
- - tags: []
-
-## Diff – News from across the Wikimedia movement
- - [https://diff.wikimedia.org](https://diff.wikimedia.org)
- - date published: 2023-10-25T22:20:44.837722+00:00
- - user: None
- - tags: []
-
-## List Index - lists.wikimedia.org
- - [https://lists.wikimedia.org](https://lists.wikimedia.org)
- - date published: 2024-01-09T03:43:10.640760+00:00
- - user: None
- - tags: []
-
-## Main Page - Meta
- - [https://meta.wikimedia.org](https://meta.wikimedia.org)
- - date published: 2023-10-25T22:21:00.290462+00:00
- - user: None
- - tags: []
-
-## Wikimedia Commons
- - [https://upload.wikimedia.org](https://upload.wikimedia.org)
- - date published: 2023-12-02T22:11:10.036720+00:00
- - user: None
- - tags: []
-
-## Home – Wikimedia Foundation
- - [https://wikimediafoundation.org](https://wikimediafoundation.org)
- - date published: 2023-10-25T22:21:03.787447+00:00
- - user: None
- - tags: []
-
-## Wikipedia – Die freie Enzyklopädie
- - [https://de.wikipedia.org](https://de.wikipedia.org)
- - date published: 2023-11-01T15:44:21.604213+00:00
- - user: None
- - tags: []
-
-## Wikipedia, the free encyclopedia
- - [https://en.m.wikipedia.org](https://en.m.wikipedia.org)
- - date published: 2023-10-25T09:28:56.379569+00:00
- - user: None
- - tags: []
-
-## Wikipedia, the free encyclopedia
- - [https://en.wikipedia.org](https://en.wikipedia.org)
- - date published: 2023-10-25T09:28:43.251880+00:00
- - user: None
- - tags: ['demoscene']
-
-## Wikipedia, the free encyclopedia
- - [http://en.wikipedia.org](http://en.wikipedia.org)
- - date published: 2024-02-26T14:33:11.388403+00:00
- - user: None
- - tags: []
-
-## Wikipédia, l'encyclopédie libre
- - [https://fr.wikipedia.org](https://fr.wikipedia.org)
- - date published: 2023-12-11T16:21:57.471851+00:00
- - user: None
- - tags: []
-
-## Wikipedia, l'enciclopedia libera
- - [https://it.m.wikipedia.org](https://it.m.wikipedia.org)
- - date published: 2024-03-26T16:00:48.694648+00:00
- - user: None
- - tags: []
-
-## Wikipedia, wolna encyklopedia
- - [https://pl.m.wikipedia.org](https://pl.m.wikipedia.org)
- - date published: 2023-10-25T09:28:59.023034+00:00
- - user: None
- - tags: []
-
-## Wikipedia, wolna encyklopedia
- - [https://pl.wikipedia.org](https://pl.wikipedia.org)
- - date published: 2023-10-25T09:29:01.830546+00:00
- - user: None
- - tags: []
-
-## Википедия — свободная энциклопедия
- - [https://ru.wikipedia.org](https://ru.wikipedia.org)
- - date published: 2023-12-11T19:10:59.468908+00:00
- - user: None
- - tags: []
-
-## Вікіпедія
- - [https://uk.wikipedia.org](https://uk.wikipedia.org)
- - date published: 2024-02-23T23:28:25.673289+00:00
- - user: None
- - tags: []
-
-## Wikipedia
- - [https://www.wikipedia.org](https://www.wikipedia.org)
- - date published: 2023-10-25T13:32:36.498304+00:00
- - user: None
- - tags: ['encyclopedia']
-
-## Wikiquote
- - [https://wikiquote.org](https://wikiquote.org)
- - date published: 2023-11-28T19:06:23+00:00
- - user: rumpel
- - tags: ['wiki', 'quotes']
-
-## Wikisource, the free library
- - [https://en.wikisource.org](https://en.wikisource.org)
- - date published: 2023-10-25T22:21:09.335429+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://wikisummaries.org](https://wikisummaries.org)
- - date published: 2023-11-20T20:54:09.137088+00:00
- - user: None
- - tags: []
-
-## Wikiversity
- - [https://en.wikiversity.org](https://en.wikiversity.org)
- - date published: 2023-10-25T22:21:18.483834+00:00
- - user: None
- - tags: []
-
-## Wiktionary, the free dictionary
- - [https://en.wiktionary.org](https://en.wiktionary.org)
- - date published: 2023-10-25T22:21:25.676976+00:00
- - user: None
- - tags: []
-
-## The Wildlife Center of Virginia
- - [https://www.wildlifecenter.org](https://www.wildlifecenter.org)
- - date published: 2024-02-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Willow Specifications - Willow
- - [https://willowprotocol.org](https://willowprotocol.org)
- - date published: 2024-01-17T14:03:21.090496+00:00
- - user: None
- - tags: []
-
-## Explore groups · GitLab
- - [https://gitlab.winehq.org](https://gitlab.winehq.org)
- - date published: 2023-10-25T22:21:28.097147+00:00
  - user: None
  - tags: []
 

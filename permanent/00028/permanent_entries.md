@@ -1,3 +1,189 @@
+## Gleam: a type safe language on the Erlang VM
+ - [https://gleam.run](https://gleam.run)
+ - date published: 2023-11-07T21:53:29+00:00
+ - user: None
+ - tags: []
+
+## Introduction to Hatchet – Nextra
+ - [https://docs.hatchet.run](https://docs.hatchet.run)
+ - date published: 2024-04-18T19:28:21.835419+00:00
+ - user: None
+ - tags: ['open source']
+
+## Hatchet
+ - [https://hatchet.run](https://hatchet.run)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
+## iNet
+ - [https://inet.run](https://inet.run)
+ - date published: 2023-10-25T08:31:33.654821+00:00
+ - user: None
+ - tags: []
+
+## Running In Production With Scissors | Techniques, stories, and rants about DevOps and site reliability engineering
+ - [https://productionwithscissors.run](https://productionwithscissors.run)
+ - date published: 2023-10-25T22:36:31.413982+00:00
+ - user: None
+ - tags: []
+
+## Learn Playwright
+ - [https://ray.run](https://ray.run)
+ - date published: 2023-10-25T22:36:37.080179+00:00
+ - user: None
+ - tags: []
+
+## Remix - Build Better Websites
+ - [https://remix.run](https://remix.run)
+ - date published: 2023-10-25T22:36:43.381365+00:00
+ - user: None
+ - tags: []
+
+## Symphony
+ - [https://www.symphony.run](https://www.symphony.run)
+ - date published: 2023-10-25T22:36:43.948261+00:00
+ - user: None
+ - tags: []
+
+## Tart
+ - [https://tart.run](https://tart.run)
+ - date published: 2024-01-19T18:52:09.435304+00:00
+ - user: None
+ - tags: []
+
+## Tier - Pricing as Code
+ - [https://www.tier.run](https://www.tier.run)
+ - date published: 2023-10-25T22:36:46.674697+00:00
+ - user: None
+ - tags: []
+
+## Saudi Gazette/ Home Page
+ - [https://saudigazette.com.sa](https://saudigazette.com.sa)
+ - date published: 2023-11-12T01:39:02.623959+00:00
+ - user: None
+ - tags: []
+
+## Research Compliance
+ - [https://researchcompliance.kaust.edu.sa](https://researchcompliance.kaust.edu.sa)
+ - date published: 2024-02-08T18:21:37.757716+00:00
+ - user: None
+ - tags: []
+
+## IPv4
+ - [https://ipv4.dev.sarl](https://ipv4.dev.sarl)
+ - date published: 2023-10-25T22:36:47.359030+00:00
+ - user: None
+ - tags: []
+
+## The Trading & Investment Specialist
+ - [https://www.home.saxo](https://www.home.saxo)
+ - date published: 2024-01-01T10:31:43.499754+00:00
+ - user: None
+ - tags: []
+
+## https://m.sc
+ - [https://m.sc](https://m.sc)
+ - date published: 2024-02-08T16:51:58.865083+00:00
+ - user: None
+ - tags: []
+
+## Lightshot — screenshot tool for Mac & Win
+ - [https://prnt.sc](https://prnt.sc)
+ - date published: 2024-03-12T07:16:44.418562+00:00
+ - user: None
+ - tags: []
+
+## Amazon Science homepage
+ - [https://www.amazon.science](https://www.amazon.science)
+ - date published: 2023-10-25T22:36:50.957929+00:00
+ - user: None
+ - tags: []
+
+## Homepage - International Science Council - International Science Council
+ - [https://council.science](https://council.science)
+ - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Gonzales.Science
+ - [https://gonzales.science](https://gonzales.science)
+ - date published: 2023-10-25T22:36:52.362938+00:00
+ - user: None
+ - tags: []
+
+## Home - Archive ouverte HAL
+ - [https://hal.science](https://hal.science)
+ - date published: 2023-10-25T22:36:53.471421+00:00
+ - user: None
+ - tags: []
+
+## index - Inria - Institut national de recherche en sciences et technologies du numérique
+ - [https://inria.hal.science](https://inria.hal.science)
+ - date published: 2023-10-25T22:36:55.663290+00:00
+ - user: None
+ - tags: []
+
+## Matt's Blog
+ - [https://matthew.science](https://matthew.science)
+ - date published: 2023-11-13T18:48:07.453796+00:00
+ - user: None
+ - tags: []
+
+## mstdn.science
+ - [https://mstdn.science](https://mstdn.science)
+ - date published: 2023-10-24T20:13:37.539089+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## mstdn.science
+ - [http://mstdn.science](http://mstdn.science)
+ - date published: 2024-02-29T14:57:49.612640+00:00
+ - user: None
+ - tags: []
+
+## The Ferret | Good journalism changes things
+ - [https://theferret.scot](https://theferret.scot)
+ - date published: 2023-10-25T22:37:03.833636+00:00
+ - user: None
+ - tags: []
+
+## The National | Latest Scottish News, Politics, Opinion, Sport and more
+ - [https://www.thenational.scot](https://www.thenational.scot)
+ - date published: 2023-11-22T14:04:39.684711+00:00
+ - user: None
+ - tags: []
+
+## Nyheter från Sveriges största nyhetssajt
+ - [https://www.aftonbladet.se](https://www.aftonbladet.se)
+ - date published: 2023-11-16T07:40:26.151210+00:00
+ - user: None
+ - tags: []
+
+## Safir - Nyheter
+ - [https://safir.amigaos.se](https://safir.amigaos.se)
+ - date published: 2024-01-09T03:46:31.075082+00:00
+ - user: None
+ - tags: []
+
+## Anders Björk - webbstrategi, interaktionsdesign, SEO med mera
+ - [https://www.anders-bjork.se](https://www.anders-bjork.se)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## bzero.se
+ - [https://www.bzero.se](https://www.bzero.se)
+ - date published: 2023-12-29T15:34:40.092154+00:00
+ - user: None
+ - tags: []
+
+## Chalmers tekniska högskola
+ - [https://www.chalmers.se](https://www.chalmers.se)
+ - date published: 2023-10-25T11:23:40.727663+00:00
+ - user: None
+ - tags: []
+
 ## Välkommen till CITROËN - Modeller och Kampanjer - Citroën.se
  - [https://www.citroen.se](https://www.citroen.se)
  - date published: 2023-12-11T15:49:51.168031+00:00
@@ -890,6 +1076,12 @@ Art Product Supply
  - user: None
  - tags: ['docker', 'self-host']
 
+## Welcome To Yacht | Yacht
+ - [http://yacht.sh](http://yacht.sh)
+ - date published: 2024-04-21T10:51:14.389772+00:00
+ - user: None
+ - tags: []
+
 ## ebooksource
  - [https://ebooksource.shop](https://ebooksource.shop)
  - date published: 2023-11-24T16:04:22.899236+00:00
@@ -1223,6 +1415,12 @@ Art Product Supply
 ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
  - [https://taxproper.notion.site](https://taxproper.notion.site)
  - date published: 2023-10-25T22:40:08.100234+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://tonoko.notion.site](https://tonoko.notion.site)
+ - date published: 2024-04-21T14:21:20.209987+00:00
  - user: None
  - tags: []
 
@@ -2463,15 +2661,15 @@ conflicts of interest and restore Community Trust.
  - user: None
  - tags: []
 
-## pdx.su
- - [http://pdx.su](http://pdx.su)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Jeff Sandberg's Blog
  - [https://pdx.su](https://pdx.su)
  - date published: 2023-10-25T22:43:21.559860+00:00
+ - user: None
+ - tags: []
+
+## pdx.su
+ - [http://pdx.su](http://pdx.su)
+ - date published: 2024-01-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3034,6 +3232,12 @@ conflicts of interest and restore Community Trust.
  - date published: 2000-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Show HN: I made a website that converts YT videos into step-by-step guides
+ - [https://stepify.tech](https://stepify.tech)
+ - date published: 2024-04-21T10:52:25+00:00
+ - user: None
+ - tags: ['youtube', 'artificial intelligence', 'transcript']
 
 ## : maker of AdequateLife, Gained InSite, TechSplained, et al.
  - [https://stucky.tech](https://stucky.tech)
@@ -4856,14 +5060,14 @@ Introduction
  - tags: []
 
 ## Autocar | Car News and Car Reviews
- - [http://www.autocar.co.uk](http://www.autocar.co.uk)
- - date published: 2024-02-25T15:06:11.005240+00:00
+ - [https://www.autocar.co.uk](https://www.autocar.co.uk)
+ - date published: 2023-10-25T22:50:42.741657+00:00
  - user: None
  - tags: []
 
 ## Autocar | Car News and Car Reviews
- - [https://www.autocar.co.uk](https://www.autocar.co.uk)
- - date published: 2023-10-25T22:50:42.741657+00:00
+ - [http://www.autocar.co.uk](http://www.autocar.co.uk)
+ - date published: 2024-02-25T15:06:11.005240+00:00
  - user: None
  - tags: []
 
@@ -5802,208 +6006,4 @@ Introduction
  - date published: 2024-01-05T16:52:08.620134+00:00
  - user: None
  - tags: []
-
-## The Bag N Box Man - The Wholesale Packaging Specialists
- - [https://meanwell-packaging.co.uk](https://meanwell-packaging.co.uk)
- - date published: 2024-03-25T17:37:41.237842+00:00
- - user: None
- - tags: []
-
-## Latest Medical News, UK Guidelines, UK Drugs | Medscape UK
- - [https://www.medscape.co.uk](https://www.medscape.co.uk)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Metro.co.uk: News, Sport, Showbiz, Celebrities from Metro
- - [https://metro.co.uk](https://metro.co.uk)
- - date published: 2023-10-25T22:53:43.314595+00:00
- - user: None
- - tags: ['news']
-
-## Metronomy
- - [https://metronomy.co.uk](https://metronomy.co.uk)
- - date published: 2024-02-14T11:24:46+00:00
- - user: rumpel
- - tags: ['music band']
-
-## Home
- - [https://shop.metronomy.co.uk](https://shop.metronomy.co.uk)
- - date published: 2022-02-18T00:00:00+00:00
- - user: rumpel
- - tags: ['music band']
-
-## Mark Hurrell
- - [https://mhurrell.co.uk](https://mhurrell.co.uk)
- - date published: 2024-02-07T18:15:29.898432+00:00
- - user: None
- - tags: []
-
-## Michal Paszkiewicz
- - [https://www.michalpaszkiewicz.co.uk](https://www.michalpaszkiewicz.co.uk)
- - date published: 2023-10-25T08:56:39.816691+00:00
- - user: None
- - tags: ['personal']
-
-## MikeCann.co.uk
- - [https://mikecann.co.uk](https://mikecann.co.uk)
- - date published: 2023-10-25T22:53:44.853427+00:00
- - user: None
- - tags: []
-
-## mikejsavage.co.uk
- - [https://mikejsavage.co.uk](https://mikejsavage.co.uk)
- - date published: 2023-12-07T10:42:12.677819+00:00
- - user: None
- - tags: ['personal']
-
-## Minutes to Midnight - Personal website of Simone Silvestroni
- - [https://minutestomidnight.co.uk](https://minutestomidnight.co.uk)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Mirror: The Heart of Britain
- - [https://www.mirror.co.uk](https://www.mirror.co.uk)
- - date published: 2023-10-25T22:53:59.279643+00:00
- - user: None
- - tags: []
-
-## Home | MK Family Funeral Services
- - [https://www.mkffs.co.uk](https://www.mkffs.co.uk)
- - date published: 2024-02-23T14:10:18.473919+00:00
- - user: None
- - tags: []
-
-## Mobile Europe | The leading B2B title for the telecoms industry
- - [https://www.mobileeurope.co.uk](https://www.mobileeurope.co.uk)
- - date published: 2023-10-25T22:54:02.637264+00:00
- - user: None
- - tags: []
-
-## Bad credit mortgage advice | Money Nest
- - [https://www.moneynest.co.uk](https://www.moneynest.co.uk)
- - date published: 2023-11-17T13:10:10.249253+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Monkeon
- - [https://www.monkeon.co.uk](https://www.monkeon.co.uk)
- - date published: 2023-10-25T22:54:03.287422+00:00
- - user: None
- - tags: []
-
-## Motability | Mobility Car Offers | MotaClarity
- - [https://www.motaclarity.co.uk](https://www.motaclarity.co.uk)
- - date published: 2023-10-25T22:54:08.521452+00:00
- - user: None
- - tags: []
-
-## Richard Bartle Consultancy
- - [https://mud.co.uk](https://mud.co.uk)
- - date published: 2023-10-25T22:54:09.263860+00:00
- - user: None
- - tags: []
-
-## Mukul's Personal Website
- - [https://mukulrathi.co.uk](https://mukulrathi.co.uk)
- - date published: 2023-10-25T08:56:41.020309+00:00
- - user: None
- - tags: ['personal']
-
-## MWA Software - Home
- - [https://www.mwasoftware.co.uk](https://www.mwasoftware.co.uk)
- - date published: 2023-11-13T17:47:40.298272+00:00
- - user: None
- - tags: []
-
-## MWN Helpline UK
- - [https://www.mwnhelpline.co.uk](https://www.mwnhelpline.co.uk)
- - date published: 2024-02-08T18:21:16.287633+00:00
- - user: None
- - tags: []
-
-## http://leethomson.myzen.co.uk
- - [http://leethomson.myzen.co.uk](http://leethomson.myzen.co.uk)
- - date published: 2023-10-25T22:54:09.559679+00:00
- - user: None
- - tags: []
-
-## Homepage | National Geographic
- - [https://www.nationalgeographic.co.uk](https://www.nationalgeographic.co.uk)
- - date published: 2023-10-25T22:54:12.162652+00:00
- - user: None
- - tags: []
-
-## Newcastle Sacred Harp
- - [https://newcastlesacredharp.co.uk](https://newcastlesacredharp.co.uk)
- - date published: 2024-02-08T22:03:33.664303+00:00
- - user: None
- - tags: []
-
-## welcome
- - [https://nicolafisherwriter.co.uk](https://nicolafisherwriter.co.uk)
- - date published: 2024-02-07T02:42:19.373182+00:00
- - user: None
- - tags: []
-
-## Home - NoFacedJuJu.co.uk
- - [https://nofacedjuju.co.uk](https://nofacedjuju.co.uk)
- - date published: 2024-01-07T22:19:36.158285+00:00
- - user: None
- - tags: []
-
-## There Is No Such Thing As A Free Lunch | Tinstaafl
- - [https://www.nofreelunch.co.uk](https://www.nofreelunch.co.uk)
- - date published: 2024-01-02T09:58:00.701360+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.obantimes.co.uk](https://www.obantimes.co.uk)
- - date published: 2024-02-08T16:50:18.105455+00:00
- - user: None
- - tags: []
-
-## OMG! Ubuntu - Ubuntu Linux News, Apps, and More
- - [https://www.omgubuntu.co.uk](https://www.omgubuntu.co.uk)
- - date published: 2023-10-25T09:38:48.808981+00:00
- - user: None
- - tags: ['linux news']
-
-## Orbit Books | Hachette UK
- - [https://www.orbit-books.co.uk](https://www.orbit-books.co.uk)
- - date published: 2023-10-25T22:54:17.957675+00:00
- - user: None
- - tags: []
-
-## Ordnance Survey | See A Better Place
- - [http://www.ordnancesurvey.co.uk](http://www.ordnancesurvey.co.uk)
- - date published: 2024-03-24T15:05:41.431531+00:00
- - user: None
- - tags: []
-
-## Oxford News, Sport, Events | Oxford Mail
- - [https://www.oxfordmail.co.uk](https://www.oxfordmail.co.uk)
- - date published: 2023-10-25T22:54:22.081707+00:00
- - user: None
- - tags: []
-
-## Parallel Parliament
- - [https://www.parallelparliament.co.uk](https://www.parallelparliament.co.uk)
- - date published: 2023-12-04T16:36:55.317804+00:00
- - user: None
- - tags: ['open data']
-
-## Penguin Books UK | Official Website
- - [https://www.penguin.co.uk](https://www.penguin.co.uk)
- - date published: 2023-11-12T19:08:10.285698+00:00
- - user: None
- - tags: []
-
-## https://www.petshopboys.co.uk
- - [https://www.petshopboys.co.uk](https://www.petshopboys.co.uk)
- - date published: 2023-11-13T10:41:52.792592+00:00
- - user: None
- - tags: ['music band']
 

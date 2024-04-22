@@ -1,3 +1,87 @@
+## Unbound | Walter Kirn | Substack
+ - [https://walterkirn.substack.com](https://walterkirn.substack.com)
+ - date published: 2023-12-28T03:21:31.503169+00:00
+ - user: None
+ - tags: []
+
+## Startup Real Talk | Waseem Daher | Substack
+ - [https://waseem.substack.com](https://waseem.substack.com)
+ - date published: 2024-01-09T01:45:56.159960+00:00
+ - user: None
+ - tags: []
+
+## Startup Real Talk | Waseem Daher | Substack
+ - [http://waseem.substack.com](http://waseem.substack.com)
+ - date published: 2024-02-26T15:21:50.673334+00:00
+ - user: None
+ - tags: []
+
+## Weekly PHP | Víctor Falcón 🤟 | Substack
+ - [https://weeklyphp.substack.com](https://weeklyphp.substack.com)
+ - date published: 2023-10-25T10:07:21.630667+00:00
+ - user: None
+ - tags: ['substack']
+
+## weird medieval guys  | Substack
+ - [https://weirdmedievalguys.substack.com](https://weirdmedievalguys.substack.com)
+ - date published: 2024-01-09T01:45:57.742248+00:00
+ - user: None
+ - tags: []
+
+## weird medieval guys  | Substack
+ - [http://weirdmedievalguys.substack.com](http://weirdmedievalguys.substack.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wheel’s Substack | Wheel Reinventor | Substack
+ - [http://wheelreinventor.substack.com](http://wheelreinventor.substack.com)
+ - date published: 2024-02-26T14:32:02.884558+00:00
+ - user: None
+ - tags: []
+
+## Wheel’s Substack | Wheel Reinventor | Substack
+ - [https://wheelreinventor.substack.com](https://wheelreinventor.substack.com)
+ - date published: 2024-01-09T01:45:59.747302+00:00
+ - user: None
+ - tags: []
+
+## Why is this interesting? | Noah Brier | Substack
+ - [http://whyisthisinteresting.substack.com](http://whyisthisinteresting.substack.com)
+ - date published: 2024-02-26T14:32:37.052331+00:00
+ - user: None
+ - tags: []
+
+## Why is this interesting? | Noah Brier | Substack
+ - [https://whyisthisinteresting.substack.com](https://whyisthisinteresting.substack.com)
+ - date published: 2024-01-09T01:46:02.416332+00:00
+ - user: None
+ - tags: []
+
+## Cosy Moments | William Poulos | Substack
+ - [https://williampoulos.substack.com](https://williampoulos.substack.com)
+ - date published: 2023-12-14T01:32:56.687154+00:00
+ - user: None
+ - tags: []
+
+## Great CTOs Focus on Outcomes  | Daniel Walters | Substack
+ - [https://wioota.substack.com](https://wioota.substack.com)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wittgenfine’s Word | Substack
+ - [http://wittgenfine.substack.com](http://wittgenfine.substack.com)
+ - date published: 2024-02-26T14:34:19.819393+00:00
+ - user: None
+ - tags: []
+
+## Wittgenfine’s Word | Substack
+ - [https://wittgenfine.substack.com](https://wittgenfine.substack.com)
+ - date published: 2024-01-09T01:46:04.050317+00:00
+ - user: None
+ - tags: []
+
 ## Wayne's Earth | L Wayne Mathison | Substack
  - [https://wmathison.substack.com](https://wmathison.substack.com)
  - date published: 2024-01-12T00:00:00+00:00
@@ -59,26 +143,26 @@
  - tags: []
 
 ## Simon's Blog | Simon Farshid | Substack
- - [http://yonom.substack.com](http://yonom.substack.com)
- - date published: 2024-02-26T12:59:31.184768+00:00
- - user: None
- - tags: []
-
-## Simon's Blog | Simon Farshid | Substack
  - [https://yonom.substack.com](https://yonom.substack.com)
  - date published: 2024-01-09T01:46:10.208730+00:00
  - user: None
  - tags: []
 
-## Your Local Epidemiologist | Katelyn Jetelina | Substack
- - [http://yourlocalepidemiologist.substack.com](http://yourlocalepidemiologist.substack.com)
- - date published: 2024-02-26T14:40:09.365548+00:00
+## Simon's Blog | Simon Farshid | Substack
+ - [http://yonom.substack.com](http://yonom.substack.com)
+ - date published: 2024-02-26T12:59:31.184768+00:00
  - user: None
  - tags: []
 
 ## Your Local Epidemiologist | Katelyn Jetelina | Substack
  - [https://yourlocalepidemiologist.substack.com](https://yourlocalepidemiologist.substack.com)
  - date published: 2024-01-09T01:46:11.980363+00:00
+ - user: None
+ - tags: []
+
+## Your Local Epidemiologist | Katelyn Jetelina | Substack
+ - [http://yourlocalepidemiologist.substack.com](http://yourlocalepidemiologist.substack.com)
+ - date published: 2024-02-26T14:40:09.365548+00:00
  - user: None
  - tags: []
 
@@ -130,15 +214,15 @@
  - user: None
  - tags: []
 
-## zverok on lucid code | Victor Shepelev aka zverok | Substack
- - [http://zverok.substack.com](http://zverok.substack.com)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
 ## https://zverok.substack.com
  - [https://zverok.substack.com](https://zverok.substack.com)
  - date published: 2024-01-23T03:19:16.516653+00:00
+ - user: None
+ - tags: []
+
+## zverok on lucid code | Victor Shepelev aka zverok | Substack
+ - [http://zverok.substack.com](http://zverok.substack.com)
+ - date published: 2024-01-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -263,14 +347,14 @@
  - tags: []
 
 ## Supabase | The Open Source Firebase Alternative
- - [http://supabase.com](http://supabase.com)
- - date published: 2024-02-25T15:22:27.364013+00:00
+ - [https://supabase.com](https://supabase.com)
+ - date published: 2023-10-25T17:19:31.509105+00:00
  - user: None
  - tags: []
 
 ## Supabase | The Open Source Firebase Alternative
- - [https://supabase.com](https://supabase.com)
- - date published: 2023-10-25T17:19:31.509105+00:00
+ - [http://supabase.com](http://supabase.com)
+ - date published: 2024-02-25T15:22:27.364013+00:00
  - user: None
  - tags: []
 
@@ -929,16 +1013,16 @@
  - tags: []
 
 ## Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.
- - [https://tailwindcss.com](https://tailwindcss.com)
- - date published: 2023-10-25T17:22:25.981083+00:00
- - user: None
- - tags: ['css library']
-
-## Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.
  - [http://tailwindcss.com](http://tailwindcss.com)
  - date published: 2024-02-26T13:24:25.152616+00:00
  - user: None
  - tags: []
+
+## Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.
+ - [https://tailwindcss.com](https://tailwindcss.com)
+ - date published: 2023-10-25T17:22:25.981083+00:00
+ - user: None
+ - tags: ['css library']
 
 ## Tailwind UI - Official Tailwind CSS Components & Templates
  - [https://tailwindui.com](https://tailwindui.com)
@@ -1048,15 +1132,15 @@
  - user: None
  - tags: []
 
-## Tampa Bay, Florida news | Tampa Bay Times/St. Pete Times
- - [https://www.tampabay.com](https://www.tampabay.com)
- - date published: 2023-10-25T17:22:55.890764+00:00
- - user: None
- - tags: []
-
 ## Tampa Bay, Florida news | Tampa Bay Times/St. Pete Times | Tampa Bay Times
  - [http://www.tampabay.com](http://www.tampabay.com)
  - date published: 2024-02-24T09:59:55.862386+00:00
+ - user: None
+ - tags: []
+
+## Tampa Bay, Florida news | Tampa Bay Times/St. Pete Times
+ - [https://www.tampabay.com](https://www.tampabay.com)
+ - date published: 2023-10-25T17:22:55.890764+00:00
  - user: None
  - tags: []
 
@@ -1727,14 +1811,14 @@
  - tags: ['personal']
 
 ## flak
- - [https://flak.tedunangst.com](https://flak.tedunangst.com)
- - date published: 2023-10-25T17:26:08.173750+00:00
+ - [http://flak.tedunangst.com](http://flak.tedunangst.com)
+ - date published: 2024-01-19T00:00:00+00:00
  - user: None
  - tags: []
 
 ## flak
- - [http://flak.tedunangst.com](http://flak.tedunangst.com)
- - date published: 2024-01-19T00:00:00+00:00
+ - [https://flak.tedunangst.com](https://flak.tedunangst.com)
+ - date published: 2023-10-25T17:26:08.173750+00:00
  - user: None
  - tags: []
 
@@ -2357,14 +2441,14 @@
  - tags: []
 
 ## World Edition - The Atlantic
- - [https://www.theatlantic.com](https://www.theatlantic.com)
- - date published: 2023-10-25T10:28:51.647818+00:00
+ - [http://www.theatlantic.com](http://www.theatlantic.com)
+ - date published: 2024-02-25T15:17:02.964527+00:00
  - user: None
  - tags: []
 
 ## World Edition - The Atlantic
- - [http://www.theatlantic.com](http://www.theatlantic.com)
- - date published: 2024-02-25T15:17:02.964527+00:00
+ - [https://www.theatlantic.com](https://www.theatlantic.com)
+ - date published: 2023-10-25T10:28:51.647818+00:00
  - user: None
  - tags: []
 
@@ -2677,16 +2761,16 @@
  - tags: ['comics']
 
 ## Rogues of Clwyd-Rhan - Overview
- - [https://rocr.thecomicseries.com](https://rocr.thecomicseries.com)
- - date published: 2024-04-07T14:18:32+00:00
- - user: rumpel
- - tags: ['graphics', 'comics']
-
-## Rogues of Clwyd-Rhan - Overview
  - [http://rocr.thecomicseries.com](http://rocr.thecomicseries.com)
  - date published: 2024-04-07T14:24:32.167292+00:00
  - user: None
  - tags: []
+
+## Rogues of Clwyd-Rhan - Overview
+ - [https://rocr.thecomicseries.com](https://rocr.thecomicseries.com)
+ - date published: 2024-04-07T14:18:32+00:00
+ - user: rumpel
+ - tags: ['graphics', 'comics']
 
 ## This webcomic was not found - Comic Fury Webcomic Hosting
  - [http://spunoff.thecomicseries.com](http://spunoff.thecomicseries.com)
@@ -2911,14 +2995,14 @@
  - tags: []
 
 ## The Entrepreneur Way
- - [https://theentrepreneurway.com](https://theentrepreneurway.com)
- - date published: 2023-11-29T14:41:41.566948+00:00
+ - [http://theentrepreneurway.com](http://theentrepreneurway.com)
+ - date published: 2024-04-03T06:25:55.591870+00:00
  - user: None
  - tags: ['personal']
 
 ## The Entrepreneur Way
- - [http://theentrepreneurway.com](http://theentrepreneurway.com)
- - date published: 2024-04-03T06:25:55.591870+00:00
+ - [https://theentrepreneurway.com](https://theentrepreneurway.com)
+ - date published: 2023-11-29T14:41:41.566948+00:00
  - user: None
  - tags: ['personal']
 
@@ -3930,15 +4014,15 @@
  - user: None
  - tags: []
 
-## The Register: Enterprise Technology News and Analysis
- - [https://www.theregister.com](https://www.theregister.com)
- - date published: 2023-10-25T10:29:03.269877+00:00
- - user: None
- - tags: []
-
 ## Enterprise Technology News and Analysis
  - [http://www.theregister.com](http://www.theregister.com)
  - date published: 2024-02-26T13:56:43.064822+00:00
+ - user: None
+ - tags: []
+
+## The Register: Enterprise Technology News and Analysis
+ - [https://www.theregister.com](https://www.theregister.com)
+ - date published: 2023-10-25T10:29:03.269877+00:00
  - user: None
  - tags: []
 
@@ -4321,16 +4405,16 @@
  - tags: ['personal']
 
 ## The Verge
- - [https://www.theverge.com](https://www.theverge.com)
- - date published: 2023-10-25T10:29:09.149200+00:00
- - user: None
- - tags: ['news']
-
-## The Verge
  - [http://www.theverge.com](http://www.theverge.com)
  - date published: 2024-02-26T14:01:17.871855+00:00
  - user: None
  - tags: []
+
+## The Verge
+ - [https://www.theverge.com](https://www.theverge.com)
+ - date published: 2023-10-25T10:29:09.149200+00:00
+ - user: None
+ - tags: ['news']
 
 ## About
  - [https://blog.thevinter.com](https://blog.thevinter.com)
@@ -4903,15 +4987,15 @@
  - user: None
  - tags: []
 
-## Tibia - Free Multiplayer Online Role Playing Game
- - [http://www.tibia.com](http://www.tibia.com)
- - date published: 2016-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Tibia - Free Massively Multiplayer Online Role-Playing Game - MMORPG
  - [https://www.tibia.com](https://www.tibia.com)
  - date published: 2023-10-25T17:41:36.567476+00:00
+ - user: None
+ - tags: []
+
+## Tibia - Free Multiplayer Online Role Playing Game
+ - [http://www.tibia.com](http://www.tibia.com)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5230,14 +5314,14 @@
  - tags: []
 
 ## Home
- - [https://timgorichanaz.com](https://timgorichanaz.com)
- - date published: 2023-11-29T14:42:44.444226+00:00
+ - [http://timgorichanaz.com](http://timgorichanaz.com)
+ - date published: 1970-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Home
- - [http://timgorichanaz.com](http://timgorichanaz.com)
- - date published: 1970-01-01T00:00:00+00:00
+ - [https://timgorichanaz.com](https://timgorichanaz.com)
+ - date published: 2023-11-29T14:42:44.444226+00:00
  - user: None
  - tags: []
 
@@ -5392,14 +5476,14 @@
  - tags: []
 
 ## Tiny Subversions | Darius Kazemi
- - [https://tinysubversions.com](https://tinysubversions.com)
- - date published: 2023-10-25T17:43:12.693676+00:00
+ - [http://tinysubversions.com](http://tinysubversions.com)
+ - date published: 2024-02-26T14:09:56.377973+00:00
  - user: None
  - tags: []
 
 ## Tiny Subversions | Darius Kazemi
- - [http://tinysubversions.com](http://tinysubversions.com)
- - date published: 2024-02-26T14:09:56.377973+00:00
+ - [https://tinysubversions.com](https://tinysubversions.com)
+ - date published: 2023-10-25T17:43:12.693676+00:00
  - user: None
  - tags: []
 
@@ -5916,90 +6000,6 @@
 ## Professional TypeScript Training by Matt Pocock  | Total TypeScript
  - [https://www.totaltypescript.com](https://www.totaltypescript.com)
  - date published: 2023-10-25T17:45:05.114856+00:00
- - user: None
- - tags: []
-
-## Touch Pianist - Magical Piano App
- - [https://touchpianist.com](https://touchpianist.com)
- - date published: 2023-10-25T08:35:08.517593+00:00
- - user: None
- - tags: []
-
-## Destination Rennes - Office de Tourisme
- - [https://www.tourisme-rennes.com](https://www.tourisme-rennes.com)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## tourmobile.com
- - [https://www.tourmobile.com](https://www.tourmobile.com)
- - date published: 2024-02-08T17:43:32.216272+00:00
- - user: None
- - tags: []
-
-## The Tournament of Books
- - [https://www.tournamentofbooks.com](https://www.tournamentofbooks.com)
- - date published: 2023-12-12T22:25:24.005775+00:00
- - user: None
- - tags: []
-
-## tovima.com - Breaking News, Analysis and Opinion from To Vima’s International Edition
- - [https://www.tovima.com](https://www.tovima.com)
- - date published: 2023-12-06T01:26:17.958785+00:00
- - user: None
- - tags: []
-
-## Towards Data Science
- - [https://towardsdatascience.com](https://towardsdatascience.com)
- - date published: 2023-10-25T17:45:08.870699+00:00
- - user: None
- - tags: []
-
-## Luxury Style, Travel, and Leisure - Town & Country Magazine
- - [https://www.townandcountrymag.com](https://www.townandcountrymag.com)
- - date published: 2023-10-25T17:45:12.913567+00:00
- - user: None
- - tags: []
-
-## TownFlex » latest entertainment news, breaking news, celebrity gossip, music
- - [https://townflex.com](https://townflex.com)
- - date published: 2023-10-25T17:45:16.808230+00:00
- - user: None
- - tags: []
-
-## Townhall :  Conservative News, Cartoons, Top Stories & Commentary
- - [https://townhall.com](https://townhall.com)
- - date published: 2023-10-25T17:45:24.004199+00:00
- - user: None
- - tags: []
-
-## Townsourced Tech Blog
- - [https://tech.townsourced.com](https://tech.townsourced.com)
- - date published: 2023-10-25T17:45:25.254459+00:00
- - user: None
- - tags: []
-
-## New Cars, Trucks, SUVs & Hybrids | Toyota Official Site
- - [https://www.toyota.com](https://www.toyota.com)
- - date published: 2023-11-01T09:01:55.012316+00:00
- - user: None
- - tags: ['car producer', 'company']
-
-## TPGi - Your Digital Accessibility Solutions Partner!
- - [https://www.tpgi.com](https://www.tpgi.com)
- - date published: 2024-04-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## TP-Link Polska – Rozwiązania Wi-Fi dla domu i biznesu
- - [https://www.tp-link.com](https://www.tp-link.com)
- - date published: 2024-04-04T13:50:06+00:00
- - user: rumpel
- - tags: ['network hardware']
-
-## Wastewater & Water Treatment Plant Information and Products | Treatment Plant Operator
- - [https://www.tpomag.com](https://www.tpomag.com)
- - date published: 2024-01-24T20:56:39.204804+00:00
  - user: None
  - tags: []
 

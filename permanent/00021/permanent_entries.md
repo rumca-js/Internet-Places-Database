@@ -1,3 +1,130 @@
+## Shields.io | Shields.io
+ - [https://shields.io](https://shields.io)
+ - date published: 2024-04-14T11:13:39+00:00
+ - user: rumpel
+ - tags: ['repository badges', 'programming']
+
+## Shift Moonwalkers | The World's Fastest Shoes
+ – Shift Robotics
+ - [https://shiftrobotics.io](https://shiftrobotics.io)
+ - date published: 2023-10-25T20:06:34.026329+00:00
+ - user: None
+ - tags: []
+
+## Painless NixOS server management - Shipnix
+ - [https://shipnix.io](https://shipnix.io)
+ - date published: 2023-10-25T20:06:35.314253+00:00
+ - user: None
+ - tags: []
+
+## Shlink — The URL shortener
+ - [https://shlink.io](https://shlink.io)
+ - date published: 2024-04-08T19:30:50.641619+00:00
+ - user: None
+ - tags: ['self-host', 'link service']
+
+## Shoutout - collect testimonials
+ - [https://shoutout.io](https://shoutout.io)
+ - date published: 2024-01-15T14:46:52.441500+00:00
+ - user: None
+ - tags: []
+
+## Shrinkflation Index
+ - [https://www.shrinkflation.io](https://www.shrinkflation.io)
+ - date published: 2023-10-25T20:06:36.659360+00:00
+ - user: None
+ - tags: []
+
+## Shield Security | The Only WordPress Security Plugin You Need
+ - [https://shsec.io](https://shsec.io)
+ - date published: 2023-12-11T16:54:09.280326+00:00
+ - user: None
+ - tags: []
+
+## Sigma's Blog – Quite informative, somewhat entertaining
+ - [https://blog.sigma-star.io](https://blog.sigma-star.io)
+ - date published: 2024-02-01T00:37:39.970842+00:00
+ - user: None
+ - tags: []
+
+## Open-Source Observability | SigNoz
+ - [https://signoz.io](https://signoz.io)
+ - date published: 2023-10-25T20:06:38.921907+00:00
+ - user: None
+ - tags: []
+
+## Open-Source Observability | SigNoz
+ - [http://signoz.io](http://signoz.io)
+ - date published: 2024-02-26T12:58:06.768259+00:00
+ - user: None
+ - tags: []
+
+## SiLogy App
+ - [https://dash.silogy.io](https://dash.silogy.io)
+ - date published: 2024-03-07T19:19:21.381519+00:00
+ - user: None
+ - tags: []
+
+## Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud
+ - [https://silogy.io](https://silogy.io)
+ - date published: 2024-03-07T18:38:22+00:00
+ - user: None
+ - tags: []
+
+## flurries of latent creativity
+ - [https://blog.singleton.io](https://blog.singleton.io)
+ - date published: 2023-10-25T20:07:00.018068+00:00
+ - user: None
+ - tags: []
+
+## Introduction | Skytable
+ - [https://docs.skytable.io](https://docs.skytable.io)
+ - date published: 2023-12-10T17:32:52.132297+00:00
+ - user: None
+ - tags: []
+
+## Skytable: A database to build powerful real-time experiences
+ - [https://skytable.io](https://skytable.io)
+ - date published: 2023-12-10T17:32:48.789069+00:00
+ - user: None
+ - tags: []
+
+## Sledgeworx Software – Software, Projects, Consulting
+ - [https://www.sledgeworx.io](https://www.sledgeworx.io)
+ - date published: 2023-10-25T20:07:08.120522+00:00
+ - user: None
+ - tags: []
+
+## Slidebook | Investor presentations and pitch decks
+ - [https://www.slidebook.io](https://www.slidebook.io)
+ - date published: 2023-10-25T20:07:10.512304+00:00
+ - user: None
+ - tags: []
+
+## Show HN: SlideCross – a combination of a crossword and Rubik's Cube
+ - [https://slidecross.io](https://slidecross.io)
+ - date published: 2024-02-15T18:41:12+00:00
+ - user: None
+ - tags: []
+
+## s l o w  r o a d s
+ - [https://slowroads.io](https://slowroads.io)
+ - date published: 2023-10-25T20:07:10.898082+00:00
+ - user: None
+ - tags: []
+
+## Play Snake Online | Snake.io
+ - [https://snake.io](https://snake.io)
+ - date published: 2023-10-26T18:24:53.730685+00:00
+ - user: None
+ - tags: ['games']
+
+## snapcraft.io
+ - [https://forum.snapcraft.io](https://forum.snapcraft.io)
+ - date published: 2023-10-25T20:07:13.368379+00:00
+ - user: None
+ - tags: []
+
 ## Snapcraft - Snaps are universal Linux packages
  - [https://snapcraft.io](https://snapcraft.io)
  - date published: 2023-10-25T20:07:15.468194+00:00
@@ -575,15 +702,15 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
-## Software Innovation Lab - Tweag
- - [https://www.tweag.io](https://www.tweag.io)
- - date published: 2023-10-25T20:12:02.408852+00:00
- - user: None
- - tags: []
-
 ## Software Innovation Lab
  - [http://www.tweag.io](http://www.tweag.io)
  - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Software Innovation Lab - Tweag
+ - [https://www.tweag.io](https://www.tweag.io)
+ - date published: 2023-10-25T20:12:02.408852+00:00
  - user: None
  - tags: []
 
@@ -608,6 +735,12 @@ End-to-end typesafe APIs made easy. | tRPC
 ## None
  - [https://www.unionx.io](https://www.unionx.io)
  - date published: 2024-01-09T03:33:24.804484+00:00
+ - user: None
+ - tags: []
+
+## Unstructured | The Unstructured Data ETL for Your LLM
+ - [https://unstructured.io](https://unstructured.io)
+ - date published: 2024-04-21T18:51:15.877188+00:00
  - user: None
  - tags: []
 
@@ -1094,16 +1227,16 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: []
 
 ## Chuck Carroll
- - [https://chuck.is](https://chuck.is)
- - date published: 2023-12-25T21:22:14.875998+00:00
- - user: None
- - tags: []
-
-## Chuck Carroll
  - [http://chuck.is](http://chuck.is)
  - date published: 2024-04-03T06:30:03.076817+00:00
  - user: None
  - tags: ['personal']
+
+## Chuck Carroll
+ - [https://chuck.is](https://chuck.is)
+ - date published: 2023-12-25T21:22:14.875998+00:00
+ - user: None
+ - tags: []
 
 ## Citroën á Íslandi | Citroën umboðið | Brimborg
  - [https://www.citroen.is](https://www.citroen.is)
@@ -1808,16 +1941,16 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: []
 
 ## upbeat.it - upbeat.it
- - [https://www.upbeat.it](https://www.upbeat.it)
- - date published: 2023-12-03T15:55:21.887131+00:00
- - user: None
- - tags: ['personal']
-
-## upbeat.it - upbeat.it
  - [http://www.upbeat.it](http://www.upbeat.it)
  - date published: 2019-01-31T00:00:00+00:00
  - user: None
  - tags: []
+
+## upbeat.it - upbeat.it
+ - [https://www.upbeat.it](https://www.upbeat.it)
+ - date published: 2023-12-03T15:55:21.887131+00:00
+ - user: None
+ - tags: ['personal']
 
 ## vexl – Medium
  - [https://blog.vexl.it](https://blog.vexl.it)
@@ -1975,15 +2108,15 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
-## The Japan Times - News On Japan, Business News, Opinion, Sports, Entertainment And More
- - [https://www.japantimes.co.jp](https://www.japantimes.co.jp)
- - date published: 2023-10-25T10:41:22.679546+00:00
- - user: None
- - tags: []
-
 ## News on Japan, Business News, Opinion, Sports, Entertainment and More
  - [http://www.japantimes.co.jp](http://www.japantimes.co.jp)
  - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Japan Times - News On Japan, Business News, Opinion, Sports, Entertainment And More
+ - [https://www.japantimes.co.jp](https://www.japantimes.co.jp)
+ - date published: 2023-10-25T10:41:22.679546+00:00
  - user: None
  - tags: []
 
@@ -3722,16 +3855,16 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: ['search engine']
 
 ## dlaa.me - David Anson
- - [http://dlaa.me](http://dlaa.me)
- - date published: 2024-02-26T14:05:55.252261+00:00
- - user: None
- - tags: []
-
-## dlaa.me - David Anson
  - [https://dlaa.me](https://dlaa.me)
  - date published: 2023-10-25T09:22:08.811953+00:00
  - user: None
  - tags: ['personal']
+
+## dlaa.me - David Anson
+ - [http://dlaa.me](http://dlaa.me)
+ - date published: 2024-02-26T14:05:55.252261+00:00
+ - user: None
+ - tags: []
 
 ## Doumer's Blog
  - [https://doumer.me](https://doumer.me)
@@ -4244,15 +4377,15 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: ['personal']
 
-## Manoj Ranaweera – The man who built Manchester's Tech Startup Ecosystem
- - [https://manojranaweera.me](https://manojranaweera.me)
- - date published: 2024-01-07T22:19:45.375154+00:00
- - user: None
- - tags: ['personal']
-
 ## Manoj Ranaweera – The man who built Manchester’s Tech Startup Ecosystem
  - [http://manojranaweera.me](http://manojranaweera.me)
  - date published: 2024-04-03T12:42:38.568400+00:00
+ - user: None
+ - tags: ['personal']
+
+## Manoj Ranaweera – The man who built Manchester's Tech Startup Ecosystem
+ - [https://manojranaweera.me](https://manojranaweera.me)
+ - date published: 2024-01-07T22:19:45.375154+00:00
  - user: None
  - tags: ['personal']
 
@@ -5721,16 +5854,16 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: []
 
 ## David Walsh Blog
- - [http://davidwalsh.name](http://davidwalsh.name)
- - date published: 2024-03-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## David Walsh Blog
  - [https://davidwalsh.name](https://davidwalsh.name)
  - date published: 2024-02-06T00:00:00+00:00
  - user: None
  - tags: ['blog', 'personal']
+
+## David Walsh Blog
+ - [http://davidwalsh.name](http://davidwalsh.name)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Neil Fraser
  - [https://neil.fraser.name](https://neil.fraser.name)
@@ -5739,16 +5872,16 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: ['personal']
 
 ## Nathan Ho
- - [http://nathan.ho.name](http://nathan.ho.name)
- - date published: 2024-02-26T09:21:39.752260+00:00
- - user: None
- - tags: []
-
-## Nathan Ho
  - [https://nathan.ho.name](https://nathan.ho.name)
  - date published: 2023-12-20T22:45:42.744081+00:00
  - user: None
  - tags: ['personal']
+
+## Nathan Ho
+ - [http://nathan.ho.name](http://nathan.ho.name)
+ - date published: 2024-02-26T09:21:39.752260+00:00
+ - user: None
+ - tags: []
 
 ## Joey Hess
  - [https://joeyh.name](https://joeyh.name)
@@ -5781,14 +5914,14 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: []
 
 ## Mackenzie Morgan
- - [http://mackenzie.morgan.name](http://mackenzie.morgan.name)
- - date published: 2024-04-03T06:22:47.388814+00:00
+ - [https://mackenzie.morgan.name](https://mackenzie.morgan.name)
+ - date published: 2023-11-29T17:07:05.410622+00:00
  - user: None
  - tags: ['personal']
 
 ## Mackenzie Morgan
- - [https://mackenzie.morgan.name](https://mackenzie.morgan.name)
- - date published: 2023-11-29T17:07:05.410622+00:00
+ - [http://mackenzie.morgan.name](http://mackenzie.morgan.name)
+ - date published: 2024-04-03T06:22:47.388814+00:00
  - user: None
  - tags: ['personal']
 
@@ -5867,138 +6000,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Amigan Software: Site Map
  - [https://amigan.1emu.net](https://amigan.1emu.net)
  - date published: 2024-01-09T03:34:35.504778+00:00
- - user: None
- - tags: []
-
-## 1NT3R.NET
- - [https://1nt3r.net](https://1nt3r.net)
- - date published: 2023-10-25T20:23:34.374364+00:00
- - user: None
- - tags: []
-
-## Computer Graphics & Programming with Pekka Väänänen - 30fps.net
- - [https://30fps.net](https://30fps.net)
- - date published: 2023-10-25T20:23:35.503700+00:00
- - user: None
- - tags: []
-
-## Stock 360° Panoramic Images and Videos for VR and More | 360Cities
- - [https://www.360cities.net](https://www.360cities.net)
- - date published: 2024-01-23T19:06:18.316203+00:00
- - user: None
- - tags: ['virtual reality']
-
-## Online 3D Viewer
- - [https://3dviewer.net](https://3dviewer.net)
- - date published: 2023-10-25T20:23:36.608327+00:00
- - user: None
- - tags: ['open source', '3d viewer']
-
-## Domain Seized
- - [https://3lib.net](https://3lib.net)
- - date published: 2024-01-09T03:34:36.962873+00:00
- - user: None
- - tags: []
-
-## Programowanie: serwis dla programistów
- - [https://4programmers.net](https://4programmers.net)
- - date published: 2023-11-01T08:43:51.447999+00:00
- - user: None
- - tags: ['cpp', 'programming', 'c#', 'java', 'c++']
-
-## 512 Pixels
- - [https://512pixels.net](https://512pixels.net)
- - date published: 2023-10-25T20:23:40.952223+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.69find.net](https://www.69find.net)
- - date published: 2024-02-08T16:45:07.077935+00:00
- - user: None
- - tags: []
-
-## 80/20 Aluminum T-slot Building Systems | 80/20 Aluminum Extrusions
- - [https://8020.net](https://8020.net)
- - date published: 2023-10-25T20:23:45.365100+00:00
- - user: None
- - tags: []
-
-## Emulator of retro x86-based machines
- - [https://86box.net](https://86box.net)
- - date published: 2023-10-25T08:36:11.618732+00:00
- - user: None
- - tags: []
-
-## Andy Sloane's site
- - [https://www.a1k0n.net](https://www.a1k0n.net)
- - date published: 2023-10-25T09:00:08.655486+00:00
- - user: None
- - tags: ['personal']
-
-## AAPLinvestors
- - [https://aaplinvestors.net](https://aaplinvestors.net)
- - date published: 2023-10-25T20:23:48.550785+00:00
- - user: None
- - tags: []
-
-## Abandonware Games - Download old video games
- - [https://abandonwaregames.net](https://abandonwaregames.net)
- - date published: 2023-10-25T16:36:32.440847+00:00
- - user: None
- - tags: []
-
-## Befriend Your Body Guide
- - [https://www.abbyhouston.net](https://www.abbyhouston.net)
- - date published: 2023-11-29T13:53:57.050891+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://abhinavsarkar.net](https://abhinavsarkar.net)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Hall Of Light - The database of Amiga games
- - [https://abime.net](https://abime.net)
- - date published: 2023-11-02T09:50:39.300225+00:00
- - user: None
- - tags: []
-
-## Amiga Game Factory - new games for your amiga
- - [https://agf.abime.net](https://agf.abime.net)
- - date published: 2024-01-09T03:34:37.819322+00:00
- - user: None
- - tags: []
-
-## Hall Of Light - The database of Amiga games
- - [https://agtw.abime.net](https://agtw.abime.net)
- - date published: 2024-01-09T03:34:39.604083+00:00
- - user: None
- - tags: []
-
-## Hall Of Light - The database of Amiga games
- - [https://amiga.abime.net](https://amiga.abime.net)
- - date published: 2023-10-29T13:11:08.478725+00:00
- - user: None
- - tags: []
-
-## Amiga Magazine Rack - The ultimate Amiga magazines resource
- - [https://amr.abime.net](https://amr.abime.net)
- - date published: 2023-10-27T14:37:03.553448+00:00
- - user: None
- - tags: ['magazine', 'amiga']
-
-## Hall Of Light - The database of Amiga games
- - [https://apov.abime.net](https://apov.abime.net)
- - date published: 2024-01-09T03:34:42.395249+00:00
- - user: None
- - tags: []
-
-## Classic Amiga Workbench
- - [https://classicwb.abime.net](https://classicwb.abime.net)
- - date published: 2023-11-02T10:51:51.905152+00:00
  - user: None
  - tags: []
 

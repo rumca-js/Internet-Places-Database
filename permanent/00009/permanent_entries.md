@@ -1,3 +1,76 @@
+## Luke Bechtel
+ - [https://lukebechtel.com](https://lukebechtel.com)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Anti-Mimetic | Luke Burgis | Substack
+ - [https://read.lukeburgis.com](https://read.lukeburgis.com)
+ - date published: 2023-10-25T15:52:17.870193+00:00
+ - user: None
+ - tags: []
+
+## LukeW Ideation + Design | Digital Product Strategy & Design
+ - [https://www.lukew.com](https://www.lukew.com)
+ - date published: 2024-01-13T17:03:08.832689+00:00
+ - user: None
+ - tags: []
+
+## LUKHASH | www.lukhash.com
+ - [https://lukhash.com](https://lukhash.com)
+ - date published: 2023-10-30T13:31:43.558214+00:00
+ - user: None
+ - tags: ['music band', 'news retro wave', 'chiptune']
+
+## LUKHASH | www.lukhash.com
+ - [https://www.lukhash.com](https://www.lukhash.com)
+ - date published: 2023-10-25T08:46:51.148308+00:00
+ - user: None
+ - tags: ['chiptune', 'demoscene', 'keygen', 'personal', 'amiga']
+
+## Lumafield | Industrial CT and AI inspection for engineers
+ - [https://www.lumafield.com](https://www.lumafield.com)
+ - date published: 2023-10-25T15:52:20.330084+00:00
+ - user: None
+ - tags: []
+
+## Lumina Decision Systems - Analytics Software - Visual Modeling
+ - [https://lumina.com](https://lumina.com)
+ - date published: 2023-10-25T15:52:25.040973+00:00
+ - user: None
+ - tags: []
+
+## Lung Cancer Answers | Compensation & Resources for Lung Cancer Victims
+ - [https://www.lung-cancer.com](https://www.lung-cancer.com)
+ - date published: 2023-10-25T15:52:34.810836+00:00
+ - user: None
+ - tags: []
+
+## Lushprojects.com - A feast of electronic fun, education and
+diversions.
+ - [https://lushprojects.com](https://lushprojects.com)
+ - date published: 2023-10-25T15:52:37.140335+00:00
+ - user: None
+ - tags: []
+
+## Lusternia: Join Text-Based Fantasy RPG World of Lusternia
+ - [https://www.lusternia.com](https://www.lusternia.com)
+ - date published: 2024-03-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Lutra Security
+ - [https://lutrasecurity.com](https://lutrasecurity.com)
+ - date published: 2024-04-04T12:34:53.899926+00:00
+ - user: None
+ - tags: []
+
+## We Want it All. - Lux Magazine
+ - [https://lux-magazine.com](https://lux-magazine.com)
+ - date published: 2023-10-25T15:52:39.543863+00:00
+ - user: None
+ - tags: []
+
 ## Luxury World Traveler
  - [https://www.luxwt.com](https://www.luxwt.com)
  - date published: 2008-01-01T00:00:00+00:00
@@ -359,16 +432,16 @@
  - tags: ['video game news']
 
 ## Maggie Appleton
- - [http://maggieappleton.com](http://maggieappleton.com)
- - date published: 2024-02-26T08:55:27.731076+00:00
- - user: None
- - tags: []
-
-## Maggie Appleton
  - [https://maggieappleton.com](https://maggieappleton.com)
  - date published: 2023-10-25T08:47:09.508828+00:00
  - user: None
  - tags: ['personal']
+
+## Maggie Appleton
+ - [http://maggieappleton.com](http://maggieappleton.com)
+ - date published: 2024-02-26T08:55:27.731076+00:00
+ - user: None
+ - tags: []
 
 ## Magic Earth - Free Navigation & Maps App for Android and iPhone
  - [https://www.magicearth.com](https://www.magicearth.com)
@@ -497,13 +570,13 @@
  - tags: []
 
 ## A blog by @makaroni4
- - [https://makaroni4.com](https://makaroni4.com)
+ - [http://makaroni4.com](http://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## A blog by @makaroni4
- - [http://makaroni4.com](http://makaroni4.com)
+ - [https://makaroni4.com](https://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -611,14 +684,14 @@
  - tags: ['single-board', '3d printing', 'creators', 'tech']
 
 ## Making It with Chris G.
- - [http://www.makingitwithchrisg.com](http://www.makingitwithchrisg.com)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
+ - date published: 2023-11-29T17:12:52.483030+00:00
  - user: None
  - tags: []
 
 ## Making It with Chris G.
- - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
- - date published: 2023-11-29T17:12:52.483030+00:00
+ - [http://www.makingitwithchrisg.com](http://www.makingitwithchrisg.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -892,15 +965,15 @@
  - user: None
  - tags: ['personal']
 
-## Marc Gunn
- - [http://marcgunn.com](http://marcgunn.com)
- - date published: 2024-04-03T12:49:04.042322+00:00
- - user: None
- - tags: ['personal']
-
 ## Marc Gunn – Rhythm & Folk Celtic Music
  - [https://marcgunn.com](https://marcgunn.com)
  - date published: 2024-01-11T02:12:05.082052+00:00
+ - user: None
+ - tags: ['personal']
+
+## Marc Gunn
+ - [http://marcgunn.com](http://marcgunn.com)
+ - date published: 2024-04-03T12:49:04.042322+00:00
  - user: None
  - tags: ['personal']
 
@@ -1380,14 +1453,14 @@
  - tags: ['disney', 'iron man', 'movie studio', 'captain america']
 
 ## vi360 photography/video/digital imaging
- - [https://www.marxdesign.com](https://www.marxdesign.com)
- - date published: 2023-12-22T00:41:17.350208+00:00
+ - [http://www.marxdesign.com](http://www.marxdesign.com)
+ - date published: 2023-12-22T21:24:02.738903+00:00
  - user: None
  - tags: []
 
 ## vi360 photography/video/digital imaging
- - [http://www.marxdesign.com](http://www.marxdesign.com)
- - date published: 2023-12-22T21:24:02.738903+00:00
+ - [https://www.marxdesign.com](https://www.marxdesign.com)
+ - date published: 2023-12-22T00:41:17.350208+00:00
  - user: None
  - tags: []
 
@@ -2004,14 +2077,14 @@
  - tags: []
 
 ## - Mazie Bones
- - [http://maziebones.com](http://maziebones.com)
- - date published: 2024-04-03T12:48:27.169760+00:00
+ - [https://maziebones.com](https://maziebones.com)
+ - date published: 2024-01-11T12:23:16.751882+00:00
  - user: None
  - tags: ['personal']
 
 ## - Mazie Bones
- - [https://maziebones.com](https://maziebones.com)
- - date published: 2024-01-11T12:23:16.751882+00:00
+ - [http://maziebones.com](http://maziebones.com)
+ - date published: 2024-04-03T12:48:27.169760+00:00
  - user: None
  - tags: ['personal']
 
@@ -4398,14 +4471,14 @@
  - tags: []
 
 ## Cloud-Based Medical Office Software & Billing Services
- - [https://www.microwize.com](https://www.microwize.com)
- - date published: 2024-01-10T14:29:04.664029+00:00
+ - [http://www.microwize.com](http://www.microwize.com)
+ - date published: 2024-04-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Cloud-Based Medical Office Software & Billing Services
- - [http://www.microwize.com](http://www.microwize.com)
- - date published: 2024-04-01T00:00:00+00:00
+ - [https://www.microwize.com](https://www.microwize.com)
+ - date published: 2024-01-10T14:29:04.664029+00:00
  - user: None
  - tags: []
 
@@ -4482,14 +4555,14 @@
  - tags: ['personal']
 
 ## Sprezzatura
- - [https://mikaelsyding.com](https://mikaelsyding.com)
- - date published: 2023-12-31T21:20:59.573845+00:00
+ - [http://mikaelsyding.com](http://mikaelsyding.com)
+ - date published: 2024-03-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Sprezzatura
- - [http://mikaelsyding.com](http://mikaelsyding.com)
- - date published: 2024-03-21T00:00:00+00:00
+ - [https://mikaelsyding.com](https://mikaelsyding.com)
+ - date published: 2023-12-31T21:20:59.573845+00:00
  - user: None
  - tags: []
 
@@ -4921,16 +4994,16 @@
  - tags: []
 
 ## In the solution
- - [http://www.mitchellfriedman.com](http://www.mitchellfriedman.com)
- - date published: 2024-04-03T12:42:45.432338+00:00
- - user: None
- - tags: ['personal']
-
-## In the solution
  - [https://www.mitchellfriedman.com](https://www.mitchellfriedman.com)
  - date published: 2024-01-08T15:37:32.858228+00:00
  - user: None
  - tags: []
+
+## In the solution
+ - [http://www.mitchellfriedman.com](http://www.mitchellfriedman.com)
+ - date published: 2024-04-03T12:42:45.432338+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Mitchell Hashimoto
  - [https://mitchellh.com](https://mitchellh.com)
@@ -4957,14 +5030,14 @@
  - tags: ['personal']
 
 ## mitxela.com
- - [http://mitxela.com](http://mitxela.com)
- - date published: 2024-02-26T14:58:30.424321+00:00
+ - [https://mitxela.com](https://mitxela.com)
+ - date published: 2023-10-25T16:05:18.840474+00:00
  - user: None
  - tags: []
 
 ## mitxela.com
- - [https://mitxela.com](https://mitxela.com)
- - date published: 2023-10-25T16:05:18.840474+00:00
+ - [http://mitxela.com](http://mitxela.com)
+ - date published: 2024-02-26T14:58:30.424321+00:00
  - user: None
  - tags: []
 
@@ -5340,17 +5413,17 @@
  - user: None
  - tags: []
 
-## Belmont Ammunition | Belmont Ammunition
- - [https://www.monaharaty.com](https://www.monaharaty.com)
- - date published: 2023-12-17T20:59:14.047846+00:00
- - user: None
- - tags: ['personal']
-
 ## Mona Haraty
  - [http://www.monaharaty.com](http://www.monaharaty.com)
  - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Belmont Ammunition | Belmont Ammunition
+ - [https://www.monaharaty.com](https://www.monaharaty.com)
+ - date published: 2023-12-17T20:59:14.047846+00:00
+ - user: None
+ - tags: ['personal']
 
 ## George Monbiot
  - [https://www.monbiot.com](https://www.monbiot.com)
@@ -5925,78 +5998,6 @@
 ## MrScraper, a visual and dead-simple web scraper.
  - [https://mrscraper.com](https://mrscraper.com)
  - date published: 2023-10-25T16:08:15.862672+00:00
- - user: None
- - tags: []
-
-## – Things I wish I knew when I started (mrsteinberg.com/)
- - [https://mrsteinberg.com](https://mrsteinberg.com)
- - date published: 2023-10-25T16:08:17.444015+00:00
- - user: None
- - tags: []
-
-## Tianji = Website Analytics + Uptime Monitor + Server Status | Tianji
- - [https://tianji.msgbyte.com](https://tianji.msgbyte.com)
- - date published: 2024-04-10T06:44:58.452426+00:00
- - user: None
- - tags: []
-
-## | Shivaprakash Muruganandham
- - [https://www.mshivaprakash.com](https://www.mshivaprakash.com)
- - date published: 2024-04-06T20:41:56.187988+00:00
- - user: None
- - tags: []
-
-## MSI Global
- - [https://www.msi.com](https://www.msi.com)
- - date published: 2024-04-13T18:21:46+00:00
- - user: rumpel
- - tags: ['gaming hardware']
-
-## MSN
- - [https://www.msn.com](https://www.msn.com)
- - date published: 2023-10-25T10:26:37.266048+00:00
- - user: None
- - tags: []
-
-## MSNBC News - Breaking News and News Today | Latest News
- - [https://msnbc.com](https://msnbc.com)
- - date published: 2023-11-05T15:29:41.824039+00:00
- - user: None
- - tags: []
-
-## MSNBC News - Breaking News and News Today | Latest News
- - [https://www.msnbc.com](https://www.msnbc.com)
- - date published: 2023-10-25T10:26:52.780038+00:00
- - user: None
- - tags: ['news']
-
-## Home - MSPoweruser
- - [https://mspoweruser.com](https://mspoweruser.com)
- - date published: 2023-10-25T16:08:22.790856+00:00
- - user: None
- - tags: []
-
-## MTG Rocks - Magic The Gathering Decks, Spoilers, Strategy & More!
- - [https://mtgrocks.com](https://mtgrocks.com)
- - date published: 2023-10-25T16:08:30.301225+00:00
- - user: None
- - tags: []
-
-## MTG Salvation
- - [https://www.mtgsalvation.com](https://www.mtgsalvation.com)
- - date published: 2023-12-13T16:20:24.925034+00:00
- - user: None
- - tags: []
-
-## MT-Propeller - Home
- - [https://www.mt-propeller.com](https://www.mt-propeller.com)
- - date published: 2023-10-25T16:08:24.716570+00:00
- - user: None
- - tags: []
-
-## mtstandard.com | Read Butte, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles
- - [http://mtstandard.com](http://mtstandard.com)
- - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 

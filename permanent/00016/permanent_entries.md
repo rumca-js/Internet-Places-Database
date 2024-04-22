@@ -1,3 +1,93 @@
+## Coherence — The Integrated Developer Platform for your own cloud account
+ - [https://www.withcoherence.com](https://www.withcoherence.com)
+ - date published: 2023-10-25T18:07:16.180638+00:00
+ - user: None
+ - tags: []
+
+## Compound Planning | Modern Wealth & Investment Management
+ - [https://withcompound.com](https://withcompound.com)
+ - date published: 2023-10-25T18:07:21.872974+00:00
+ - user: None
+ - tags: []
+
+## Diode — Build, program, and simulate hardware
+ - [https://www.withdiode.com](https://www.withdiode.com)
+ - date published: 2024-01-09T02:54:27.368367+00:00
+ - user: None
+ - tags: []
+
+## Nonobvious | Edge | Substack
+ - [https://blog.withedge.com](https://blog.withedge.com)
+ - date published: 2023-10-25T18:07:38.413246+00:00
+ - user: None
+ - tags: []
+
+## Google's latest experiments in Labs
+ - [https://labs.withgoogle.com](https://labs.withgoogle.com)
+ - date published: 2023-10-25T18:07:40.867814+00:00
+ - user: None
+ - tags: []
+
+## https://learnkubernetes.withgoogle.com
+ - [https://learnkubernetes.withgoogle.com](https://learnkubernetes.withgoogle.com)
+ - date published: 2024-01-09T02:54:28.714253+00:00
+ - user: None
+ - tags: []
+
+## People + AI Research
+ - [https://pair.withgoogle.com](https://pair.withgoogle.com)
+ - date published: 2023-10-25T18:07:44.673354+00:00
+ - user: None
+ - tags: []
+
+## Home | Google Summer of Code
+ - [https://summerofcode.withgoogle.com](https://summerofcode.withgoogle.com)
+ - date published: 2023-10-25T18:07:48.328715+00:00
+ - user: None
+ - tags: []
+
+## Project Sunroof
+ - [https://sunroof.withgoogle.com](https://sunroof.withgoogle.com)
+ - date published: 2023-10-25T18:07:51.710648+00:00
+ - user: None
+ - tags: []
+
+## Google Teachable Machine
+ - [https://teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com)
+ - date published: 2024-01-07T03:20:02+00:00
+ - user: None
+ - tags: ['machine learning']
+
+## TextFX
+ - [https://textfx.withgoogle.com](https://textfx.withgoogle.com)
+ - date published: 2023-10-25T18:07:53.024899+00:00
+ - user: None
+ - tags: []
+
+## Google - The Web Can Do What!?
+ - [https://thewebshowcase.withgoogle.com](https://thewebshowcase.withgoogle.com)
+ - date published: 2023-12-06T20:50:01.109390+00:00
+ - user: None
+ - tags: []
+
+## Within Temptation Music Store
+ - [https://www.within-temptation.com](https://www.within-temptation.com)
+ - date published: 2023-11-13T11:10:55.031197+00:00
+ - user: None
+ - tags: ['music band']
+
+## Home | WithSecure™ Labs
+ - [https://labs.withsecure.com](https://labs.withsecure.com)
+ - date published: 2023-10-25T18:07:54.930284+00:00
+ - user: None
+ - tags: []
+
+## WITN | Eastern North Carolina | News, Sports, Weather
+ - [https://www.witn.com](https://www.witn.com)
+ - date published: 2024-02-27T08:03:37.701513+00:00
+ - user: None
+ - tags: []
+
 ## Access Restricted
  - [https://www.wivb.com](https://www.wivb.com)
  - date published: 2024-01-09T02:54:30.871469+00:00
@@ -1714,6 +1804,12 @@
  - user: None
  - tags: []
 
+## World Population by Country 2024 (Live)
+ - [https://worldpopulationreview.com](https://worldpopulationreview.com)
+ - date published: 2024-04-21T01:04:32.286812+00:00
+ - user: None
+ - tags: ['statistics', 'population']
+
 ## WorldRadioHistory: Radio Music Electronics Publications ALL FREE
  - [https://worldradiohistory.com](https://worldradiohistory.com)
  - date published: 2023-10-25T18:19:00.674033+00:00
@@ -2860,24 +2956,6 @@
  - user: None
  - tags: []
 
-## Eta Prime YouTube Channel
- - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
- - date published: 2023-11-03T10:35:46+00:00
- - user: rumpel
- - tags: ['youtuber', 'single-board', 'raspberry']
-
-## YouTube Channel hipoonios
- - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
- - date published: 2023-11-02T10:41:50+00:00
- - user: rumpel
- - tags: ['amiga']
-
-## Jeff Geerling YouTube Channel
- - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
- - date published: 2023-11-03T10:34:47+00:00
- - user: rumpel
- - tags: ['youtuber', 'single-board', 'raspberry']
-
 ## Louis Rossmann YouTube Channel
  - [https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
  - date published: 2023-11-03T10:37:58+00:00
@@ -2885,10 +2963,10 @@
  - tags: ['right to repair']
 
 ## YouTube
- - [https://www.youtube.com](https://www.youtube.com)
- - date published: 2023-10-24T20:05:58.291792+00:00
+ - [http://www.youtube.com](http://www.youtube.com)
+ - date published: 2024-03-06T00:00:00+00:00
  - user: None
- - tags: ['google', 'gatekeeper', 'video streaming']
+ - tags: []
 
 ## Luetin09 YouTube Channel
  - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
@@ -2902,17 +2980,23 @@
  - user: rumpel
  - tags: ['warhammer', 'wargames', 'miniatures']
 
+## LukHash YouTube Channel
+ - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
+ - date published: 2023-11-03T14:42:18+00:00
+ - user: rumpel
+ - tags: []
+
 ## Tabletop Minions
  - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
  - date published: 2023-11-08T09:59:26+00:00
  - user: rumpel
  - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
 
-## YouTube
- - [http://www.youtube.com](http://www.youtube.com)
- - date published: 2024-03-06T00:00:00+00:00
- - user: None
- - tags: []
+## Miniac
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
+ - date published: 2023-11-08T10:01:11+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
 
 ## NewRetroWave YouTube Channel
  - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
@@ -2920,17 +3004,29 @@
  - user: rumpel
  - tags: ['synthwave', 'new retro wave']
 
-## LukHash YouTube Channel
- - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
- - date published: 2023-11-03T14:42:18+00:00
+## Eta Prime YouTube Channel
+ - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
+ - date published: 2023-11-03T10:35:46+00:00
  - user: rumpel
- - tags: []
+ - tags: ['youtuber', 'single-board', 'raspberry']
 
-## Miniac
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
- - date published: 2023-11-08T10:01:11+00:00
+## Jeff Geerling YouTube Channel
+ - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
+ - date published: 2023-11-03T10:34:47+00:00
  - user: rumpel
- - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
+ - tags: ['youtuber', 'single-board', 'raspberry']
+
+## YouTube Channel hipoonios
+ - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
+ - date published: 2023-11-02T10:41:50+00:00
+ - user: rumpel
+ - tags: ['amiga']
+
+## YouTube
+ - [https://www.youtube.com](https://www.youtube.com)
+ - date published: 2023-10-24T20:05:58.291792+00:00
+ - user: None
+ - tags: ['google', 'gatekeeper', 'video streaming']
 
 ## YouTube
  - [http://youtube.com](http://youtube.com)
@@ -3077,16 +3173,16 @@
  - tags: []
 
 ## ZacharyShahan.com
- - [http://zacharyshahan.com](http://zacharyshahan.com)
- - date published: 2024-04-03T06:22:56.266169+00:00
- - user: None
- - tags: ['personal']
-
-## ZacharyShahan.com
  - [https://zacharyshahan.com](https://zacharyshahan.com)
  - date published: 2024-01-20T05:27:08.408690+00:00
  - user: None
  - tags: []
+
+## ZacharyShahan.com
+ - [http://zacharyshahan.com](http://zacharyshahan.com)
+ - date published: 2024-04-03T06:22:56.266169+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Zach Barocas / Brooklyn Diasporist
 		- Zach Barocas / Brooklyn Diasporist
@@ -3222,16 +3318,16 @@
  - tags: ['demoscene']
 
 ## Zeldman on Web and Interaction Design
- - [https://www.zeldman.com](https://www.zeldman.com)
- - date published: 2024-02-13T17:35:29.342852+00:00
- - user: None
- - tags: ['personal']
-
-## Zeldman on Web and Interaction Design
  - [http://www.zeldman.com](http://www.zeldman.com)
  - date published: 2024-03-24T15:07:23.649398+00:00
  - user: None
  - tags: []
+
+## Zeldman on Web and Interaction Design
+ - [https://www.zeldman.com](https://www.zeldman.com)
+ - date published: 2024-02-13T17:35:29.342852+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Lynn Haraldson, Author and Writing Mentor
  - [https://zenbaglady.com](https://zenbaglady.com)
@@ -3588,14 +3684,14 @@
  - tags: []
 
 ## None
- - [https://abcnews.go.comhttps](https://abcnews.go.comhttps)
- - date published: 2024-02-02T08:24:31.883332+00:00
+ - [abcnews.go.comhttps](abcnews.go.comhttps)
+ - date published: 2024-01-09T02:55:46.479176+00:00
  - user: None
  - tags: []
 
 ## None
- - [abcnews.go.comhttps](abcnews.go.comhttps)
- - date published: 2024-01-09T02:55:46.479176+00:00
+ - [https://abcnews.go.comhttps](https://abcnews.go.comhttps)
+ - date published: 2024-02-02T08:24:31.883332+00:00
  - user: None
  - tags: []
 
@@ -4403,6 +4499,13 @@
  - user: None
  - tags: []
 
+## media.ccc.de -
+home
+ - [https://media.ccc.de](https://media.ccc.de)
+ - date published: 2023-10-25T18:28:41.208202+00:00
+ - user: None
+ - tags: ['chaos computer club', 'hackers']
+
 ## home
 
 - media.ccc.de
@@ -4410,13 +4513,6 @@
  - date published: 2024-02-14T00:00:00+00:00
  - user: None
  - tags: []
-
-## media.ccc.de -
-home
- - [https://media.ccc.de](https://media.ccc.de)
- - date published: 2023-10-25T18:28:41.208202+00:00
- - user: None
- - tags: ['chaos computer club', 'hackers']
 
 ## See you soon … somewhere else! – C3VOC Streaming
  - [https://streaming.media.ccc.de](https://streaming.media.ccc.de)
@@ -4461,13 +4557,13 @@ home
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [https://www.classic-videogames.de](https://www.classic-videogames.de)
+ - [http://www.classic-videogames.de](http://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [http://www.classic-videogames.de](http://www.classic-videogames.de)
+ - [https://www.classic-videogames.de](https://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
@@ -5220,16 +5316,16 @@ Heinsohn
  - tags: []
 
 ## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
- - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
- - date published: 2024-02-15T22:13:44.143200+00:00
- - user: None
- - tags: ['demoscene']
-
-## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
  - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
  - date published: 2024-02-15T02:00:01.330586+00:00
  - user: None
  - tags: ['video game music']
+
+## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
+ - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
+ - date published: 2024-02-15T22:13:44.143200+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## NeuroNagel : Neuroregulation, Neurofeedback, Biofeedback, Mentalsysteme und Mindmachines
  - [https://www.neuronagel.de](https://www.neuronagel.de)
@@ -5262,16 +5358,16 @@ Heinsohn
  - tags: []
 
 ## Nupita - [nu:b i:ta]
- - [https://nupita.de](https://nupita.de)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Nupita - [nu:b i:ta]
  - [http://nupita.de](http://nupita.de)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Nupita - [nu:b i:ta]
+ - [https://nupita.de](https://nupita.de)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## OllyDbg v1.10
  - [https://www.ollydbg.de](https://www.ollydbg.de)
@@ -5886,16 +5982,16 @@ Heinsohn
  - tags: []
 
 ## WHDLoad
- - [https://www.whdload.de](https://www.whdload.de)
- - date published: 2024-01-23T00:00:00+00:00
- - user: None
- - tags: ['amiga']
-
-## WHDLoad
  - [http://www.whdload.de](http://www.whdload.de)
  - date published: 2024-02-23T00:00:00+00:00
  - user: None
  - tags: []
+
+## WHDLoad
+ - [https://www.whdload.de](https://www.whdload.de)
+ - date published: 2024-01-23T00:00:00+00:00
+ - user: None
+ - tags: ['amiga']
 
 ## Serialized Gedanken
  - [https://valentin.willscher.de](https://valentin.willscher.de)
@@ -5906,102 +6002,6 @@ Heinsohn
 ## Wunder der Prärie | Care City — Internationales Live-Art Festival30. Sep – 10. Okt 2021 / Hafenstrasse 68, Mannheim
  - [https://www.wunderderpraerie.de](https://www.wunderderpraerie.de)
  - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ode to capitalism
- - [https://blog.xa0.de](https://blog.xa0.de)
- - date published: 2023-10-25T18:33:54.731626+00:00
- - user: None
- - tags: []
-
-## Konrad Zuse
- - [http://www.xn--plankalkl-x9a.de](http://www.xn--plankalkl-x9a.de)
- - date published: 2024-04-02T17:44:22+00:00
- - user: None
- - tags: []
-
-## Xyllomer: The Mud Concept
- - [https://www.xyllomer.de](https://www.xyllomer.de)
- - date published: 2024-03-27T20:54:09.317532+00:00
- - user: None
- - tags: ['mud game']
-
-## YAML CSS Framework — for truly flexible, accessible and responsive websites
- - [https://www.yaml.de](https://www.yaml.de)
- - date published: 2024-01-09T02:56:27.311542+00:00
- - user: None
- - tags: []
-
-## ZDFmediathek
- - [https://www.zdf.de](https://www.zdf.de)
- - date published: 2024-03-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## ZEIT ONLINE | Nachrichten, News, Hintergründe und Debatten
- - [https://newsfeed.zeit.de](https://newsfeed.zeit.de)
- - date published: 2024-02-26T14:40:39.110166+00:00
- - user: None
- - tags: []
-
-## ZEIT ONLINE | Nachrichten, News, Hintergründe und Debatten
- - [https://www.zeit.de](https://www.zeit.de)
- - date published: 2023-10-25T18:34:07.682068+00:00
- - user: None
- - tags: []
-
-## zufallsheld
- - [https://www.zufallsheld.de](https://www.zufallsheld.de)
- - date published: 2024-02-22T13:05:21.693897+00:00
- - user: None
- - tags: []
-
-## https://zukunft-der-sub.de
- - [https://zukunft-der-sub.de](https://zukunft-der-sub.de)
- - date published: 2024-01-09T02:56:28.461043+00:00
- - user: None
- - tags: []
-
-## Jelly Deals
- - [https://www.jelly.deals](https://www.jelly.deals)
- - date published: 2023-12-13T15:40:49.601884+00:00
- - user: None
- - tags: []
-
-## Surfshark: secure online VPN service & more
- - [https://surfshark.deals](https://surfshark.deals)
- - date published: 2024-02-24T09:57:36.415179+00:00
- - user: None
- - tags: []
-
-## Explore - git.meli.delivery
- - [https://git.meli.delivery](https://git.meli.delivery)
- - date published: 2023-10-25T18:34:11.386923+00:00
- - user: None
- - tags: []
-
-## Alessandro De Simone - Software Engineer - London
- - [https://alessandro.desi](https://alessandro.desi)
- - date published: 2023-12-19T09:58:57.272282+00:00
- - user: None
- - tags: ['personal']
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://www.1984.design](https://www.1984.design)
- - date published: 2023-10-25T18:34:13.186299+00:00
- - user: None
- - tags: []
-
-## archives.design
- - [https://archives.design](https://archives.design)
- - date published: 2023-10-25T18:34:15.291934+00:00
- - user: None
- - tags: []
-
-## Bingham Design | Digital Marketing for Your Cause
- - [https://bingham.design](https://bingham.design)
- - date published: 2024-01-11T13:29:06.035129+00:00
  - user: None
  - tags: []
 

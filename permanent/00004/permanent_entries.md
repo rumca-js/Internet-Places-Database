@@ -1,3 +1,27 @@
+## ChapterOneAI Blog - Covering Everthing Resume Related
+ - [https://blog.chapteroneai.com](https://blog.chapteroneai.com)
+ - date published: 2024-04-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Character Home, LLC
+ - [https://characterhome.com](https://characterhome.com)
+ - date published: 2024-01-19T13:01:28.344914+00:00
+ - user: None
+ - tags: []
+
+## Chargeback Prevention for Software Companies | ChargebackStop
+ - [https://chargebackstop.com](https://chargebackstop.com)
+ - date published: 2023-10-25T13:20:24.056373+00:00
+ - user: None
+ - tags: []
+
+## CHARL-E: Make art with AI on your Mac
+ - [https://www.charl-e.com](https://www.charl-e.com)
+ - date published: 2023-10-25T13:20:24.713725+00:00
+ - user: None
+ - tags: []
+
 ## Sales Advisor & Speaker | Charlene Ignites
  - [https://www.charleneignites.com](https://www.charleneignites.com)
  - date published: 2023-11-29T17:15:02.416177+00:00
@@ -272,7 +296,7 @@
  - [https://v4-docs.chevereto.com](https://v4-docs.chevereto.com)
  - date published: 2024-04-20T21:05:34.126566+00:00
  - user: None
- - tags: []
+ - tags: ['self-host']
 
 ## chiaracokieng.com
  - [https://www.chiaracokieng.com](https://www.chiaracokieng.com)
@@ -1815,6 +1839,12 @@
  - user: None
  - tags: []
 
+## Digital Solutions that Matter · Codegram
+ - [https://www.codegram.com](https://www.codegram.com)
+ - date published: 2024-04-21T04:11:16.506320+00:00
+ - user: None
+ - tags: []
+
 ## CodeGuppy | Free coding platform and projects for middle school and high school students
  - [https://codeguppy.com](https://codeguppy.com)
  - date published: 2023-10-25T13:28:20.545811+00:00
@@ -3069,6 +3099,12 @@
  - user: None
  - tags: []
 
+## Hosting Platform of Choice
+ - [https://www.cpanel.com](https://www.cpanel.com)
+ - date published: 2024-04-21T06:17:03+00:00
+ - user: rumpel
+ - tags: ['proprietary', 'web hosting platform']
+
 ## Data Protection, Privacy and Cyber Security Leaders - CPO Magazine
  - [https://www.cpomagazine.com](https://www.cpomagazine.com)
  - date published: 2023-10-25T13:35:29.368739+00:00
@@ -3220,14 +3256,14 @@
  - tags: ['cybersecurity']
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [http://craphound.com](http://craphound.com)
- - date published: 2024-02-25T19:26:24.229621+00:00
+ - [https://craphound.com](https://craphound.com)
+ - date published: 2023-11-28T07:36:32+00:00
  - user: None
  - tags: []
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [https://craphound.com](https://craphound.com)
- - date published: 2023-11-28T07:36:32+00:00
+ - [http://craphound.com](http://craphound.com)
+ - date published: 2024-02-25T19:26:24.229621+00:00
  - user: None
  - tags: []
 
@@ -4486,17 +4522,17 @@
  - user: None
  - tags: []
 
-## Daniel Hoang – Experienced management consultant x creative. Xennial bridging analog with digital at the intersection of humanity and machine. Scrappy, creative, and fast.
- - [https://danielhoang.com](https://danielhoang.com)
- - date published: 2023-12-12T09:24:31.582869+00:00
- - user: None
- - tags: []
-
 ## Daniel Hoang
  - [http://danielhoang.com](http://danielhoang.com)
  - date published: 2024-04-03T06:29:29.746239+00:00
  - user: None
  - tags: ['personal']
+
+## Daniel Hoang – Experienced management consultant x creative. Xennial bridging analog with digital at the intersection of humanity and machine. Scrappy, creative, and fast.
+ - [https://danielhoang.com](https://danielhoang.com)
+ - date published: 2023-12-12T09:24:31.582869+00:00
+ - user: None
+ - tags: []
 
 ## Daniel Hoang
  - [https://www.danielhoang.com](https://www.danielhoang.com)
@@ -5500,6 +5536,12 @@
  - user: None
  - tags: []
 
+## Death by abstraction
+ - [https://www.deathbyabstraction.com](https://www.deathbyabstraction.com)
+ - date published: 2024-03-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Death by AI
  - [https://deathbyai.com](https://deathbyai.com)
  - date published: 2023-10-25T13:46:58.127418+00:00
@@ -5961,46 +6003,4 @@
  - date published: 2024-04-03T12:48:01.262493+00:00
  - user: None
  - tags: ['personal']
-
-## Deniz Akşimşek
- - [https://denizaksimsek.com](https://denizaksimsek.com)
- - date published: 2023-10-25T13:49:01.779557+00:00
- - user: None
- - tags: []
-
-## Harmonica Entertainer Dennis M. Cooper
- - [https://dennis-cooper.com](https://dennis-cooper.com)
- - date published: 2024-02-08T16:57:42.445755+00:00
- - user: None
- - tags: []
-
-## Dennis Stoelwinder | Decoding What Makes Us Human
- - [https://dennisstoelwinder.com](https://dennisstoelwinder.com)
- - date published: 2023-12-13T20:58:34.316192+00:00
- - user: None
- - tags: ['personal']
-
-## Deno, The next-generation JavaScript runtime
- - [https://deno.com](https://deno.com)
- - date published: 2023-10-25T13:49:13.631224+00:00
- - user: None
- - tags: []
-
-## Den of Geek | The Best in TV, Movies, Games, Comics, and More!
- - [https://www.denofgeek.com](https://www.denofgeek.com)
- - date published: 2023-10-25T10:51:12.729993+00:00
- - user: None
- - tags: ['news', 'games', 'fantasy', 'movies']
-
-## dentonjacobs.com
- - [https://www.dentonjacobs.com](https://www.dentonjacobs.com)
- - date published: 2023-12-27T23:56:18.327605+00:00
- - user: None
- - tags: ['personal']
-
-## Homepage
- - [https://www.denver7.com](https://www.denver7.com)
- - date published: 2023-11-06T03:55:12.502837+00:00
- - user: None
- - tags: []
 

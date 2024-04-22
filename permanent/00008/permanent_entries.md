@@ -1,3 +1,69 @@
+## Johnathan at Limbo
+ - [https://johnathanbi.com](https://johnathanbi.com)
+ - date published: 2023-10-25T15:30:08.552189+00:00
+ - user: None
+ - tags: []
+
+## Johnathan Nader
+ - [https://johnathannader.com](https://johnathannader.com)
+ - date published: 2023-10-25T15:30:10.394938+00:00
+ - user: None
+ - tags: []
+
+## Bald Faced Truth by John Canzano | Substack
+ - [https://www.johncanzano.com](https://www.johncanzano.com)
+ - date published: 2023-12-06T19:21:06.131877+00:00
+ - user: None
+ - tags: []
+
+## John Cleese Live Tour
+ - [https://www.johncleeselive.com](https://www.johncleeselive.com)
+ - date published: 2023-10-30T10:56:21.749252+00:00
+ - user: None
+ - tags: ['comedy', 'satire']
+
+## Expert consulting in applied mathematics & data privacy
+ - [https://www.johndcook.com](https://www.johndcook.com)
+ - date published: 2023-10-25T15:30:12.313572+00:00
+ - user: None
+ - tags: []
+
+## Work - John D. Nilles
+ - [https://johndnilles.com](https://johndnilles.com)
+ - date published: 2024-04-10T04:34:52.841798+00:00
+ - user: None
+ - tags: ['personal', 'filmmaker']
+
+## Work - John D. Nilles
+ - [https://www.johndnilles.com](https://www.johndnilles.com)
+ - date published: 2024-02-04T09:30:03.880250+00:00
+ - user: None
+ - tags: []
+
+## John Doherty
+ - [https://www.johnfdoherty.com](https://www.johnfdoherty.com)
+ - date published: 2023-12-17T20:59:27.398614+00:00
+ - user: None
+ - tags: ['personal']
+
+## John Fial – Software Engineer, Developer, Human
+ - [https://www.johnfial.com](https://www.johnfial.com)
+ - date published: 2024-01-16T17:04:24.566102+00:00
+ - user: None
+ - tags: []
+
+## John Garvens - Salesforce Revenue Cloud Expert & Salesforce Career Coach
+ - [https://www.johngarvens.com](https://www.johngarvens.com)
+ - date published: 2024-01-02T03:35:31.713348+00:00
+ - user: None
+ - tags: []
+
+## John Higgs – Author of Love And Let Die, William Blake Vs The World, Watling Street and The KLF
+ - [https://johnhiggs.com](https://johnhiggs.com)
+ - date published: 2023-10-25T15:30:16.620693+00:00
+ - user: None
+ - tags: []
+
 ## John's home page
  - [https://www.johnhpanos.com](https://www.johnhpanos.com)
  - date published: 2024-02-08T18:00:53.343749+00:00
@@ -767,14 +833,14 @@
  - tags: []
 
 ## Juan and Joe Comedy
- - [https://www.juanandjoecomedy.com](https://www.juanandjoecomedy.com)
- - date published: 2023-11-29T17:08:42.429078+00:00
+ - [http://www.juanandjoecomedy.com](http://www.juanandjoecomedy.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Juan and Joe Comedy
- - [http://www.juanandjoecomedy.com](http://www.juanandjoecomedy.com)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://www.juanandjoecomedy.com](https://www.juanandjoecomedy.com)
+ - date published: 2023-11-29T17:08:42.429078+00:00
  - user: None
  - tags: []
 
@@ -1839,6 +1905,12 @@
  - date published: 2024-01-20T04:45:45.094611+00:00
  - user: None
  - tags: []
+
+## KEVIN DORST
+ - [https://www.kevindorst.com](https://www.kevindorst.com)
+ - date published: 2024-04-21T16:36:11.113198+00:00
+ - user: None
+ - tags: ['personal']
 
 ## kevingal.com
  - [https://kevingal.com](https://kevingal.com)
@@ -3216,16 +3288,16 @@
  - tags: []
 
 ## La Femme | Official Website
- - [http://www.lafemmemusic.com](http://www.lafemmemusic.com)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## La Femme | Official Website
  - [https://www.lafemmemusic.com](https://www.lafemmemusic.com)
  - date published: 2024-01-19T00:00:00+00:00
  - user: rumpel
  - tags: ['music band']
+
+## La Femme | Official Website
+ - [http://www.lafemmemusic.com](http://www.lafemmemusic.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Lagged - Free Online Games on Lagged.com
  - [https://lagged.com](https://lagged.com)
@@ -4027,13 +4099,13 @@ Chamber Music, Symphony
  - tags: ['entertainment news', 'movie news']
 
 ## Legends of Kallisti
- - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
+ - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Legends of Kallisti
- - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
+ - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
@@ -4183,14 +4255,14 @@ Chamber Music, Symphony
  - tags: ['personal']
 
 ## About Me - Leo Alexander Glowacki
- - [https://leoglowacki.com](https://leoglowacki.com)
- - date published: 2024-01-29T23:27:30.561916+00:00
+ - [http://leoglowacki.com](http://leoglowacki.com)
+ - date published: 2024-04-03T06:27:09.410241+00:00
  - user: None
  - tags: ['personal']
 
 ## About Me - Leo Alexander Glowacki
- - [http://leoglowacki.com](http://leoglowacki.com)
- - date published: 2024-04-03T06:27:09.410241+00:00
+ - [https://leoglowacki.com](https://leoglowacki.com)
+ - date published: 2024-01-29T23:27:30.561916+00:00
  - user: None
  - tags: ['personal']
 
@@ -5927,77 +5999,4 @@ Chamber Music, Symphony
  - date published: 2023-12-12T23:24:40.676809+00:00
  - user: None
  - tags: ['personal']
-
-## Luke Bechtel
- - [https://lukebechtel.com](https://lukebechtel.com)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Anti-Mimetic | Luke Burgis | Substack
- - [https://read.lukeburgis.com](https://read.lukeburgis.com)
- - date published: 2023-10-25T15:52:17.870193+00:00
- - user: None
- - tags: []
-
-## LukeW Ideation + Design | Digital Product Strategy & Design
- - [https://www.lukew.com](https://www.lukew.com)
- - date published: 2024-01-13T17:03:08.832689+00:00
- - user: None
- - tags: []
-
-## LUKHASH | www.lukhash.com
- - [https://lukhash.com](https://lukhash.com)
- - date published: 2023-10-30T13:31:43.558214+00:00
- - user: None
- - tags: ['music band', 'news retro wave', 'chiptune']
-
-## LUKHASH | www.lukhash.com
- - [https://www.lukhash.com](https://www.lukhash.com)
- - date published: 2023-10-25T08:46:51.148308+00:00
- - user: None
- - tags: ['chiptune', 'demoscene', 'keygen', 'personal', 'amiga']
-
-## Lumafield | Industrial CT and AI inspection for engineers
- - [https://www.lumafield.com](https://www.lumafield.com)
- - date published: 2023-10-25T15:52:20.330084+00:00
- - user: None
- - tags: []
-
-## Lumina Decision Systems - Analytics Software - Visual Modeling
- - [https://lumina.com](https://lumina.com)
- - date published: 2023-10-25T15:52:25.040973+00:00
- - user: None
- - tags: []
-
-## Lung Cancer Answers | Compensation & Resources for Lung Cancer Victims
- - [https://www.lung-cancer.com](https://www.lung-cancer.com)
- - date published: 2023-10-25T15:52:34.810836+00:00
- - user: None
- - tags: []
-
-## Lushprojects.com - A feast of electronic fun, education and
-diversions.
- - [https://lushprojects.com](https://lushprojects.com)
- - date published: 2023-10-25T15:52:37.140335+00:00
- - user: None
- - tags: []
-
-## Lusternia: Join Text-Based Fantasy RPG World of Lusternia
- - [https://www.lusternia.com](https://www.lusternia.com)
- - date published: 2024-03-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Lutra Security
- - [https://lutrasecurity.com](https://lutrasecurity.com)
- - date published: 2024-04-04T12:34:53.899926+00:00
- - user: None
- - tags: []
-
-## We Want it All. - Lux Magazine
- - [https://lux-magazine.com](https://lux-magazine.com)
- - date published: 2023-10-25T15:52:39.543863+00:00
- - user: None
- - tags: []
 

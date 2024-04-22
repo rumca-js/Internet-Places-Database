@@ -1,3 +1,135 @@
+## BearSSL - Main
+ - [https://bearssl.org](https://bearssl.org)
+ - date published: 2023-10-25T21:01:39.618430+00:00
+ - user: None
+ - tags: ['open source', 'ssl', 'tls']
+
+## Beast Philanthropy Official Site - Help End Hunger
+ - [https://www.beastphilanthropy.org](https://www.beastphilanthropy.org)
+ - date published: 2024-02-24T09:57:53.889879+00:00
+ - user: None
+ - tags: []
+
+## Michael Stillwell
+ - [https://beebo.org](https://beebo.org)
+ - date published: 2023-10-25T21:01:41.134020+00:00
+ - user: None
+ - tags: []
+
+## Beehaw - Aspiring to be(e) a safe, friendly and diverse place.
+ - [https://beehaw.org](https://beehaw.org)
+ - date published: 2023-10-25T21:01:45.404252+00:00
+ - user: None
+ - tags: []
+
+## BEEP Core protocol central, RFC 3080, RFC 3081, and related BEEP profiles, BEEP implementation, BEEP Protocol, BEEP, Blocks Extensible Exchange Protocol
+ - [https://www.beepcore.org](https://www.beepcore.org)
+ - date published: 8859-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## BeeRef | A Simple Reference Image Viewer
+ - [https://beeref.org](https://beeref.org)
+ - date published: 2023-10-25T21:01:46.977040+00:00
+ - user: None
+ - tags: []
+
+## Write once. Deploy everywhere.— BeeWare
+ - [https://beeware.org](https://beeware.org)
+ - date published: 2024-04-02T02:38:49.307489+00:00
+ - user: None
+ - tags: []
+
+## Before "I Do" - What Do Premarital Experiences Have to Do with Marital Quality Among Today's Young Adults?
+ - [https://before-i-do.org](https://before-i-do.org)
+ - date published: 3000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Behavioral Scientist
+ - [https://behavioralscientist.org](https://behavioralscientist.org)
+ - date published: 2024-01-15T21:46:33.566415+00:00
+ - user: None
+ - tags: []
+
+## The Belfer Center for Science and International Affairs
+ - [https://www.belfercenter.org](https://www.belfercenter.org)
+ - date published: 2023-10-25T21:01:52.834975+00:00
+ - user: None
+ - tags: []
+
+## Fabrice Bellard's Home Page
+ - [https://bellard.org](https://bellard.org)
+ - date published: 2023-10-25T21:01:54.552942+00:00
+ - user: None
+ - tags: []
+
+## Benedum .
+ - [https://benedum.org](https://benedum.org)
+ - date published: 2023-10-25T21:01:59.450208+00:00
+ - user: None
+ - tags: []
+
+## www.benshoof.org
+ - [https://www.benshoof.org](https://www.benshoof.org)
+ - date published: 2023-10-25T21:02:01.475660+00:00
+ - user: None
+ - tags: []
+
+## Bentham’s Gaze
+ - [https://www.benthamsgaze.org](https://www.benthamsgaze.org)
+ - date published: 2024-01-04T15:49:03.573788+00:00
+ - user: None
+ - tags: []
+
+## bertrand fan
+ - [https://bert.org](https://bert.org)
+ - date published: 2023-10-25T21:02:04.793992+00:00
+ - user: None
+ - tags: []
+
+## Better Markets | Transparency. Accountability. Oversight.
+ - [https://bettermarkets.org](https://bettermarkets.org)
+ - date published: 2023-10-25T21:02:12.687358+00:00
+ - user: None
+ - tags: []
+
+## Locus Science Fiction Foundation on BetterWorld
+ - [https://locus.betterworld.org](https://locus.betterworld.org)
+ - date published: 2024-03-14T16:24:00.790702+00:00
+ - user: None
+ - tags: []
+
+## beuke.org
+ - [https://beuke.org](https://beuke.org)
+ - date published: 2024-03-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Bevy Engine
+ - [https://bevyengine.org](https://bevyengine.org)
+ - date published: 2023-10-25T21:02:14.400715+00:00
+ - user: None
+ - tags: []
+
+## Beyondlogic – Electronics Hardware – Embedded Linux – Internet of Things
+ - [https://www.beyondlogic.org](https://www.beyondlogic.org)
+ - date published: 2024-03-03T22:14:20.021326+00:00
+ - user: None
+ - tags: ['embedded linux', 'single board computers', 'electronics hardware', 'internet of things']
+
+## Beyond Skyrim | The province collaboration
+ - [https://beyondskyrim.org](https://beyondskyrim.org)
+ - date published: 2023-11-11T00:00:00+00:00
+ - user: rumpel
+ - tags: ['elder scrolls', 'skyrim']
+
+## Bezos Earth Fund
+ - [https://www.bezosearthfund.org](https://www.bezosearthfund.org)
+ - date published: 2023-10-25T21:02:21.240501+00:00
+ - user: None
+ - tags: []
+
 ## Biblical Archaeology Society
  - [https://www.biblicalarchaeology.org](https://www.biblicalarchaeology.org)
  - date published: 2024-03-07T00:00:00+00:00
@@ -1450,7 +1582,7 @@
  - [https://codeberg.org](https://codeberg.org)
  - date published: 2023-10-25T21:08:17.885638+00:00
  - user: None
- - tags: []
+ - tags: ['open source organisation']
 
 ## Codeberg Service Status
  - [https://status.codeberg.org](https://status.codeberg.org)
@@ -1569,6 +1701,12 @@
 ## COMMUNIA Association
  - [https://communia-association.org](https://communia-association.org)
  - date published: 2024-03-11T20:55:22.730086+00:00
+ - user: None
+ - tags: []
+
+## | Welcome to Community Networks
+ - [https://communitynets.org](https://communitynets.org)
+ - date published: 2024-04-21T18:51:17.868808+00:00
  - user: None
  - tags: []
 
@@ -1853,6 +1991,12 @@
  - date published: 2023-10-25T21:11:04.727468+00:00
  - user: None
  - tags: []
+
+## Blog by Marco
+ - [https://crapts.org](https://crapts.org)
+ - date published: 2024-04-21T15:27:32.723574+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Homepage - Creative Commons
  - [http://creativecommons.org](http://creativecommons.org)
@@ -2833,7 +2977,7 @@
  - user: None
  - tags: ['courses', 'writing', 'tutorials', 'drawing']
 
-## None
+## Home
  - [https://donellameadows.org](https://donellameadows.org)
  - date published: 2023-12-24T03:19:42.866506+00:00
  - user: None
@@ -2984,16 +3128,16 @@
  - tags: []
 
 ## Kohina Web Player
- - [http://kohina.duckdns.org](http://kohina.duckdns.org)
- - date published: 2024-02-11T14:38:28.495727+00:00
- - user: None
- - tags: []
-
-## Kohina Web Player
  - [https://kohina.duckdns.org](https://kohina.duckdns.org)
  - date published: 2024-02-15T22:13:24.519956+00:00
  - user: None
  - tags: ['demoscene']
+
+## Kohina Web Player
+ - [http://kohina.duckdns.org](http://kohina.duckdns.org)
+ - date published: 2024-02-11T14:38:28.495727+00:00
+ - user: None
+ - tags: []
 
 ## Duck DNS
  - [https://www.duckdns.org](https://www.duckdns.org)
@@ -5038,7 +5182,7 @@
  - user: None
  - tags: []
 
-## None
+## Lazarus IDE Home
  - [https://www.getlazarus.org](https://www.getlazarus.org)
  - date published: 2024-01-09T03:40:30.679697+00:00
  - user: None
@@ -5237,14 +5381,14 @@
  - tags: []
 
 ## Welcome to GMPG
- - [http://gmpg.org](http://gmpg.org)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://gmpg.org](https://gmpg.org)
+ - date published: 2023-12-11T15:48:25.754545+00:00
  - user: None
  - tags: []
 
 ## Welcome to GMPG
- - [https://gmpg.org](https://gmpg.org)
- - date published: 2023-12-11T15:48:25.754545+00:00
+ - [http://gmpg.org](http://gmpg.org)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5327,14 +5471,14 @@
  - tags: []
 
 ## GNOME Release Notes
- - [https://release.gnome.org](https://release.gnome.org)
- - date published: 2024-03-20T18:08:17.213656+00:00
+ - [http://release.gnome.org](http://release.gnome.org)
+ - date published: 2024-03-21T07:44:19.473641+00:00
  - user: None
  - tags: []
 
 ## GNOME Release Notes
- - [http://release.gnome.org](http://release.gnome.org)
- - date published: 2024-03-21T07:44:19.473641+00:00
+ - [https://release.gnome.org](https://release.gnome.org)
+ - date published: 2024-03-20T18:08:17.213656+00:00
  - user: None
  - tags: []
 
@@ -5864,150 +6008,6 @@
 ## High Country News – Know the West
  - [https://www.hcn.org](https://www.hcn.org)
  - date published: 2023-10-25T21:28:11.840838+00:00
- - user: None
- - tags: []
-
-## HDMI Licensing Administrator, Inc.
- - [https://www.hdmi.org](https://www.hdmi.org)
- - date published: 2023-10-25T21:28:19.437472+00:00
- - user: None
- - tags: []
-
-## https://www.healthaffairs.org
- - [https://www.healthaffairs.org](https://www.healthaffairs.org)
- - date published: 2023-10-25T21:28:19.809492+00:00
- - user: None
- - tags: []
-
-## Homepage | Institute for Health Metrics and Evaluation
- - [https://www.healthdata.org](https://www.healthdata.org)
- - date published: 2024-02-24T18:07:00.610470+00:00
- - user: None
- - tags: []
-
-## Scientific Reference to Reliable Health Information - Health Feedback
- - [https://healthfeedback.org](https://healthfeedback.org)
- - date published: 2023-10-25T21:28:21.366345+00:00
- - user: None
- - tags: []
-
-## Welcome to the AHA/ASA Newsroom | American Heart Association
- - [https://newsroom.heart.org](https://newsroom.heart.org)
- - date published: 2023-10-25T21:28:23.483045+00:00
- - user: None
- - tags: []
-
-## American Heart Association | To be a relentless force for a world of longer, healthier lives
- - [https://www.heart.org](https://www.heart.org)
- - date published: 2023-10-25T21:28:27.272418+00:00
- - user: None
- - tags: []
-
-## An open source initiative to share and compare heat pump performance data
- - [https://heatpumpmonitor.org](https://heatpumpmonitor.org)
- - date published: 2024-04-12T08:53:16+00:00
- - user: None
- - tags: ['heat pumps']
-
-## Home - The Hechinger Report
- - [https://hechingerreport.org](https://hechingerreport.org)
- - date published: 2023-10-25T21:28:32.308583+00:00
- - user: None
- - tags: []
-
-## Héctor García – Author and thinker
- - [https://hectorgarcia.org](https://hectorgarcia.org)
- - date published: 2024-04-03T06:31:54.611099+00:00
- - user: None
- - tags: ['personal']
-
-## HedgeDoc - Ideas grow better together
- - [https://hedgedoc.org](https://hedgedoc.org)
- - date published: 2024-04-08T19:28:48.081283+00:00
- - user: None
- - tags: ['self-host', 'markdown editor', 'open source']
-
-## About     – HelenOS
- - [http://www.helenos.org](http://www.helenos.org)
- - date published: 2023-10-25T21:28:33.498042+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://heltec.org](https://heltec.org)
- - date published: 2024-03-03T11:34:08.952267+00:00
- - user: None
- - tags: []
-
-## Philip Heltweg
- - [https://heltweg.org](https://heltweg.org)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Philip Heltweg
- - [https://www.heltweg.org](https://www.heltweg.org)
- - date published: 2023-10-25T08:54:40.981603+00:00
- - user: None
- - tags: ['personal']
-
-## American Society of Hematology
- - [https://www.hematology.org](https://www.hematology.org)
- - date published: 2023-11-11T10:57:39.004357+00:00
- - user: None
- - tags: []
-
-## Pop Junctions: Reflections on Entertainment, Pop Culture, Activism, Media Literacy, Fandom and More
- - [http://henryjenkins.org](http://henryjenkins.org)
- - date published: 2024-04-03T06:38:49.837532+00:00
- - user: None
- - tags: []
-
-## hezmatt.org
- - [https://www.hezmatt.org](https://www.hezmatt.org)
- - date published: 2023-10-25T21:28:33.908256+00:00
- - user: None
- - tags: []
-
-## Home | AHA
- - [https://www.historians.org](https://www.historians.org)
- - date published: 2023-10-25T21:28:41.074702+00:00
- - user: None
- - tags: []
-
-## Web Hosting from HostPapa
- - [https://www.historywiz.org](https://www.historywiz.org)
- - date published: 2024-02-08T18:05:50.623678+00:00
- - user: None
- - tags: []
-
-## https://cme.h-its.org
- - [https://cme.h-its.org](https://cme.h-its.org)
- - date published: 2024-01-09T03:40:51.174343+00:00
- - user: None
- - tags: []
-
-## HLTV.org - The home of competitive Counter-Strike
- - [https://www.hltv.org](https://www.hltv.org)
- - date published: 2023-11-26T18:46:28.246706+00:00
- - user: None
- - tags: []
-
-## hmgs.org
- - [https://www.hmgs.org](https://www.hmgs.org)
- - date published: 2023-10-25T11:12:44.095189+00:00
- - user: None
- - tags: []
-
-## Hacker News RSS
- - [https://hnrss.org](https://hnrss.org)
- - date published: 2023-10-25T21:28:42.854542+00:00
- - user: None
- - tags: ['hacking news', 'tech news']
-
-## Honor Flight Nevada
- - [https://www.honorflightnv.org](https://www.honorflightnv.org)
- - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

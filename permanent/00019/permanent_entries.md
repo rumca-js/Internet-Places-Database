@@ -1,3 +1,111 @@
+## U.S. Copyright Office | U.S. Copyright Office
+ - [https://www.copyright.gov](https://www.copyright.gov)
+ - date published: 2023-11-01T08:43:34.224069+00:00
+ - user: None
+ - tags: []
+
+## CPSC.gov
+ - [https://www.cpsc.gov](https://www.cpsc.gov)
+ - date published: 2023-10-25T19:19:28.555283+00:00
+ - user: None
+ - tags: []
+
+## Home | DEA.gov
+ - [https://www.dea.gov](https://www.dea.gov)
+ - date published: 2024-04-04T02:34:26.560996+00:00
+ - user: None
+ - tags: ['government', 'dea']
+
+## Chief Information Officer - U.S. Department of Defense
+ - [https://dodcio.defense.gov](https://dodcio.defense.gov)
+ - date published: 2024-01-09T03:30:24.563437+00:00
+ - user: None
+ - tags: []
+
+## U.S. Department of Defense
+ - [https://media.defense.gov](https://media.defense.gov)
+ - date published: 2023-10-25T19:19:33.802662+00:00
+ - user: None
+ - tags: []
+
+## U.S. Department of Defense
+ - [https://www.defense.gov](https://www.defense.gov)
+ - date published: 2023-10-25T19:19:38.874037+00:00
+ - user: None
+ - tags: ['military', 'security intelligence']
+
+## Home - Delaware General Assembly
+ - [https://legis.delaware.gov](https://legis.delaware.gov)
+ - date published: 2023-10-25T19:19:49.711045+00:00
+ - user: None
+ - tags: []
+
+## Delta County
+ - [https://deltacountymi.gov](https://deltacountymi.gov)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Homeland Security
+ - [https://www.dhs.gov](https://www.dhs.gov)
+ - date published: 2023-10-25T19:19:55.186821+00:00
+ - user: None
+ - tags: []
+
+## USWDS: The United States Web Design System | U.S. Web Design System (USWDS)
+ - [https://designsystem.digital.gov](https://designsystem.digital.gov)
+ - date published: 2023-10-25T19:20:02.198655+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.dni.gov](https://www.dni.gov)
+ - date published: 2023-10-25T19:20:05.412646+00:00
+ - user: None
+ - tags: []
+
+## BIS Website
+ - [https://www.bis.doc.gov](https://www.bis.doc.gov)
+ - date published: 2023-10-25T19:20:19.432638+00:00
+ - user: None
+ - tags: []
+
+## Home | U.S. Department of Labor
+ - [https://www.dol.gov](https://www.dol.gov)
+ - date published: 2023-10-25T19:20:24.712207+00:00
+ - user: None
+ - tags: []
+
+## Federal Highway Administration
+ - [https://highways.dot.gov](https://highways.dot.gov)
+ - date published: 2023-10-25T19:20:28.006537+00:00
+ - user: None
+ - tags: []
+
+## Federal Highway Administration
+ - [https://www.fhwa.dot.gov](https://www.fhwa.dot.gov)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Federal Transit Administration
+ - [https://www.transit.dot.gov](https://www.transit.dot.gov)
+ - date published: 2024-04-05T18:55:53.475581+00:00
+ - user: None
+ - tags: []
+
+## ERIC - Education Resources Information Center
+ - [https://files.eric.ed.gov](https://files.eric.ed.gov)
+ - date published: 2023-10-25T19:20:29.057582+00:00
+ - user: None
+ - tags: []
+
+## Homepage - U.S. Energy Information Administration (EIA)
+ - [https://www.eia.gov](https://www.eia.gov)
+ - date published: 2023-10-25T19:20:38.108192+00:00
+ - user: None
+ - tags: []
+
 ## Home | arpa-e.energy.gov
  - [https://arpa-e.energy.gov](https://arpa-e.energy.gov)
  - date published: 2024-04-08T02:53:34.873809+00:00
@@ -2848,14 +2956,14 @@
  - tags: []
 
 ## Erthalion
- - [http://erthalion.info](http://erthalion.info)
- - date published: 2024-02-25T15:21:46.039163+00:00
+ - [https://erthalion.info](https://erthalion.info)
+ - date published: 2023-10-25T19:33:09.948190+00:00
  - user: None
  - tags: []
 
 ## Erthalion
- - [https://erthalion.info](https://erthalion.info)
- - date published: 2023-10-25T19:33:09.948190+00:00
+ - [http://erthalion.info](http://erthalion.info)
+ - date published: 2024-02-25T15:21:46.039163+00:00
  - user: None
  - tags: []
 
@@ -5847,6 +5955,12 @@
  - user: None
  - tags: ['personal']
 
+## billwear.github.io
+ - [https://billwear.github.io](https://billwear.github.io)
+ - date published: 2024-04-21T18:33:21+00:00
+ - user: rumpel
+ - tags: ['personal']
+
 ## Bounded Rationality
  - [https://bjlkeng.github.io](https://bjlkeng.github.io)
  - date published: 2023-10-25T19:44:31.020798+00:00
@@ -5888,118 +6002,4 @@
  - date published: 2024-03-24T15:02:15.234051+00:00
  - user: None
  - tags: []
-
-## Patrik J. Braun
- - [http://bpatrik.github.io](http://bpatrik.github.io)
- - date published: 2024-04-08T19:26:16.442231+00:00
- - user: None
- - tags: ['personal']
-
-## Blog O' Braheezy
- - [https://braheezy.github.io](https://braheezy.github.io)
- - date published: 2023-10-25T08:59:08.009471+00:00
- - user: None
- - tags: ['personal']
-
-## https://brandonspark.github.io
- - [https://brandonspark.github.io](https://brandonspark.github.io)
- - date published: 2023-11-20T19:04:01.531859+00:00
- - user: None
- - tags: []
-
-## {} | Bryan Wang
- - [https://bryanwbear.github.io](https://bryanwbear.github.io)
- - date published: 2023-10-25T19:44:37.520496+00:00
- - user: None
- - tags: []
-
-## Bernardo Subercaseaux <i>(he/him/his)</i> | about
- - [https://bsubercaseaux.github.io](https://bsubercaseaux.github.io)
- - date published: 2024-01-09T01:37:35.815578+00:00
- - user: None
- - tags: []
-
-## https://btco.github.io
- - [https://btco.github.io](https://btco.github.io)
- - date published: 2023-10-25T19:44:38.089132+00:00
- - user: None
- - tags: []
-
-## /root
- - [https://buredoranna.github.io](https://buredoranna.github.io)
- - date published: 2024-01-08T05:08:08.728993+00:00
- - user: None
- - tags: []
-
-## My Octopress Blog
- - [https://butlerx.github.io](https://butlerx.github.io)
- - date published: 2024-04-08T19:27:20.101121+00:00
- - user: None
- - tags: []
-
-## github:buttons
- - [https://buttons.github.io](https://buttons.github.io)
- - date published: 2023-12-11T19:35:06.408108+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://cachemon.github.io](https://cachemon.github.io)
- - date published: 2024-01-03T07:21:47.641951+00:00
- - user: None
- - tags: []
-
-## The Cairo Programming Language - The Cairo Programming Language
- - [https://cairo-book.github.io](https://cairo-book.github.io)
- - date published: 2023-10-25T19:44:39.830616+00:00
- - user: None
- - tags: []
-
-## About Me - Andrew Lee
- - [https://candrewlee14.github.io](https://candrewlee14.github.io)
- - date published: 2023-10-25T19:44:40.542809+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://captain-of-coit.github.io](https://captain-of-coit.github.io)
- - date published: 2023-12-20T00:38:21.856528+00:00
- - user: None
- - tags: []
-
-## Carolina Scarton
- - [https://carolscarton.github.io](https://carolscarton.github.io)
- - date published: 2016-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## invoke::thought()
- - [https://cdacamar.github.io](https://cdacamar.github.io)
- - date published: 2023-10-25T19:44:41.325612+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://charlieroberts.github.io](https://charlieroberts.github.io)
- - date published: 2024-01-02T19:33:20.285527+00:00
- - user: None
- - tags: []
-
-## Chase Roycroft
- - [https://chaseroycroft.github.io](https://chaseroycroft.github.io)
- - date published: 2016-09-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Chunyi
- - [https://chuny1.github.io](https://chuny1.github.io)
- - date published: 2023-12-22T05:12:34.200449+00:00
- - user: None
- - tags: []
-
-## Stefano Cianciulli
- - [https://cianciustyles.github.io](https://cianciustyles.github.io)
- - date published: 2023-11-29T15:45:13.460255+00:00
- - user: None
- - tags: ['personal']
 

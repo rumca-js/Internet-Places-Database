@@ -1,3 +1,9 @@
+## Adam Weigand
+ - [https://adamweigand.com](https://adamweigand.com)
+ - date published: 2023-12-30T09:52:07.005007+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Home
         |
         Ad Astra :: Star Trek Fanfiction Archive
@@ -1093,6 +1099,12 @@
  - tags: []
 
 ## Aleksandr Hovhannisyan
+ - [https://aleksandrhovhannisyan.com](https://aleksandrhovhannisyan.com)
+ - date published: 2024-04-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Aleksandr Hovhannisyan
  - [https://www.aleksandrhovhannisyan.com](https://www.aleksandrhovhannisyan.com)
  - date published: 2023-10-25T12:37:33.866549+00:00
  - user: None
@@ -2077,14 +2089,14 @@
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
- - date published: 2018-01-01T00:00:00+00:00
+ - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
+ - date published: 2024-01-09T02:29:24.245847+00:00
  - user: None
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
- - date published: 2024-01-09T02:29:24.245847+00:00
+ - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
+ - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2143,16 +2155,16 @@
  - tags: ['amiga']
 
 ## The biggest repository for remixes of old Amiga tracks from games and demos.
- - [https://www.amigaremix.com](https://www.amigaremix.com)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: ['keygen', 'demoscene', 'amiga', 'chiptune']
-
-## The biggest repository for remixes of old Amiga tracks from games and demos.
  - [http://www.amigaremix.com](http://www.amigaremix.com)
  - date published: 2024-02-13T00:00:00+00:00
  - user: None
  - tags: []
+
+## The biggest repository for remixes of old Amiga tracks from games and demos.
+ - [https://www.amigaremix.com](https://www.amigaremix.com)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: ['keygen', 'demoscene', 'amiga', 'chiptune']
 
 ## A Mighty Girl: Home | A Mighty Girl
  - [https://www.amightygirl.com](https://www.amightygirl.com)
@@ -2359,16 +2371,16 @@
  - tags: []
 
 ## AndersenSilva.com
- - [https://andersensilva.com](https://andersensilva.com)
- - date published: 2023-12-27T01:10:57.904709+00:00
- - user: None
- - tags: ['personal']
-
-## AndersenSilva.com
  - [http://andersensilva.com](http://andersensilva.com)
  - date published: 2022-05-05T00:00:00+00:00
  - user: None
  - tags: []
+
+## AndersenSilva.com
+ - [https://andersensilva.com](https://andersensilva.com)
+ - date published: 2023-12-27T01:10:57.904709+00:00
+ - user: None
+ - tags: ['personal']
 
 ## ShunyaEkam.com
  - [https://andersentobias.com](https://andersentobias.com)
@@ -2401,16 +2413,16 @@
  - tags: ['personal']
 
 ## Andrea Feucht: IFS Practitioner
- - [https://andreafeucht.com](https://andreafeucht.com)
- - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Andrea Feucht: IFS Practitioner
  - [http://andreafeucht.com](http://andreafeucht.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
+
+## Andrea Feucht: IFS Practitioner
+ - [https://andreafeucht.com](https://andreafeucht.com)
+ - date published: 2024-01-29T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Andrea Leopardi
  - [https://andrealeopardi.com](https://andrealeopardi.com)
@@ -2557,16 +2569,16 @@
  - tags: []
 
 ## Andrew Roussak website
- - [https://www.andrew-roussak.com](https://www.andrew-roussak.com)
- - date published: 2024-01-27T17:59:38.551672+00:00
- - user: None
- - tags: []
-
-## Andrew Roussak website
  - [http://www.andrew-roussak.com](http://www.andrew-roussak.com)
  - date published: 2024-04-03T06:23:08.552087+00:00
  - user: None
  - tags: ['personal']
+
+## Andrew Roussak website
+ - [https://www.andrew-roussak.com](https://www.andrew-roussak.com)
+ - date published: 2024-01-27T17:59:38.551672+00:00
+ - user: None
+ - tags: []
 
 ## Andrew Skotzko - Product leadership advisor - Make Things That Matter
  - [https://andrewskotzko.com](https://andrewskotzko.com)
@@ -2935,16 +2947,16 @@
  - tags: []
 
 ## Home - That Joe Scott
- - [http://www.answerswithjoe.com](http://www.answerswithjoe.com)
- - date published: 2024-02-23T01:16:31.865369+00:00
- - user: None
- - tags: []
-
-## Home - That Joe Scott
  - [https://www.answerswithjoe.com](https://www.answerswithjoe.com)
  - date published: 2024-02-22T16:48:46+00:00
  - user: rumpel
  - tags: ['youtuber', 'merchendise']
+
+## Home - That Joe Scott
+ - [http://www.answerswithjoe.com](http://www.answerswithjoe.com)
+ - date published: 2024-02-23T01:16:31.865369+00:00
+ - user: None
+ - tags: []
 
 ## https://www.antennalaunchers.com
  - [https://www.antennalaunchers.com](https://www.antennalaunchers.com)
@@ -3024,15 +3036,15 @@
  - user: None
  - tags: []
 
-## List of posts - <antirez>
- - [http://antirez.com](http://antirez.com)
- - date published: 2024-02-25T14:05:17.604190+00:00
- - user: None
- - tags: []
-
 ## None
  - [https://antirez.com](https://antirez.com)
  - date published: 2024-01-02T12:33:10.039907+00:00
+ - user: None
+ - tags: []
+
+## List of posts - <antirez>
+ - [http://antirez.com](http://antirez.com)
+ - date published: 2024-02-25T14:05:17.604190+00:00
  - user: None
  - tags: []
 
@@ -3877,14 +3889,14 @@
  - tags: ['semiconductors']
 
 ## Armantas Zvirgzdas
- - [http://armantas.com](http://armantas.com)
- - date published: 2024-02-10T00:00:00+00:00
+ - [https://armantas.com](https://armantas.com)
+ - date published: 2024-01-07T11:03:45.565786+00:00
  - user: None
  - tags: []
 
 ## Armantas Zvirgzdas
- - [https://armantas.com](https://armantas.com)
- - date published: 2024-01-07T11:03:45.565786+00:00
+ - [http://armantas.com](http://armantas.com)
+ - date published: 2024-02-10T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4717,14 +4729,14 @@
  - tags: []
 
 ## Dystalgia - DYSTALGIA : Aurel Manea photography & visuals
- - [https://aurelm.com](https://aurelm.com)
- - date published: 2024-01-09T01:36:57.652800+00:00
+ - [http://aurelm.com](http://aurelm.com)
+ - date published: 2024-02-25T19:34:30.262488+00:00
  - user: None
  - tags: []
 
 ## Dystalgia - DYSTALGIA : Aurel Manea photography & visuals
- - [http://aurelm.com](http://aurelm.com)
- - date published: 2024-02-25T19:34:30.262488+00:00
+ - [https://aurelm.com](https://aurelm.com)
+ - date published: 2024-01-09T01:36:57.652800+00:00
  - user: None
  - tags: []
 
@@ -5893,14 +5905,14 @@
  - tags: []
 
 ## BeAble2
- - [https://beable2.com](https://beable2.com)
- - date published: 2023-12-26T06:32:14.747261+00:00
+ - [http://beable2.com](http://beable2.com)
+ - date published: 2024-04-03T06:23:37.542805+00:00
  - user: None
  - tags: ['personal']
 
 ## BeAble2
- - [http://beable2.com](http://beable2.com)
- - date published: 2024-04-03T06:23:37.542805+00:00
+ - [https://beable2.com](https://beable2.com)
+ - date published: 2023-12-26T06:32:14.747261+00:00
  - user: None
  - tags: ['personal']
 
@@ -5986,17 +5998,5 @@
  - [https://www.beckershospitalreview.com](https://www.beckershospitalreview.com)
  - date published: 2023-10-25T12:55:13.587124+00:00
  - user: None
- - tags: []
-
-## Ben Edelstein
- - [https://www.bedelstein.com](https://www.bedelstein.com)
- - date published: 2023-10-25T12:55:18.081066+00:00
- - user: None
- - tags: []
-
-## Minecraft Marketplace Partners - Minecraft Marketplace (via bedrockexplorer.com)
- - [https://www.bedrockexplorer.com](https://www.bedrockexplorer.com)
- - date published: 2024-02-20T21:22:16+00:00
- - user: rumpel
  - tags: []
 
