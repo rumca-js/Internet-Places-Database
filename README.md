@@ -20,9 +20,7 @@ This is a database of Internet places. Mostly domains. Sometimes other things. T
  - it infrastructure domains, CDN domains
  - analytic domains that are used for user surveillance, not to provide data
 
-Rules obviously can be changed. Sometimes I make exceptions for some domains.
-
-Some sites are allowed to be in database, but are down-voted.
+I do not always follow these rules strictly. There are exceptions for some domains. Some sites are allowed to be in database, but are down-voted.
 
 # Sources of data
 
