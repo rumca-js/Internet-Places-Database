@@ -1,4 +1,4 @@
-# Overview
+﻿# Overview
 
 This is a database of Internet places. Mostly domains. Sometimes other things. Think of it as Internet meta database. This repository contains link metadata: title, description, publish date, etc.
 
@@ -20,9 +20,9 @@ This is a database of Internet places. Mostly domains. Sometimes other things. T
  - it infrastructure domains, CDN domains
  - analytic domains that are used for user surveillance, not to provide data
 
-Relues obviously can be changed. Sometimes I make exceptions for some domains.
+Rules obviously can be changed. Sometimes I make exceptions for some domains.
 
-Some sites are allowed to be in database, but are downvoted.
+Some sites are allowed to be in database, but are down-voted.
 
 # Sources of data
 
@@ -59,7 +59,7 @@ Each entry can be tagged. Most notable examples of tags
  - personal - if it seems to be a personal website
  - self-host - software that can be self-hosted
  - company - if entry exists just to provide information about company
- - university, museum, etc - if entry provides details about a univeristy, museum, etc.
+ - university, museum, etc - if entry provides details about a university, museum, etc.
  - disinformation / misinformation - self explanatory
  - news - if it is "news" content farm. Might be also "game news", "tech news", etc.
  - amiga - anything amiga related
