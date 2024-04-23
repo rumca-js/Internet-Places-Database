@@ -1,3 +1,63 @@
+## Joe Matzzie
+ - [https://joematzzie.com](https://joematzzie.com)
+ - date published: 2023-11-29T15:49:24.713588+00:00
+ - user: None
+ - tags: ['personal']
+
+## JoeBlogs | Joe Posnanski | Substack
+ - [https://joeblogs.joeposnanski.com](https://joeblogs.joeposnanski.com)
+ - date published: 2024-02-26T08:23:20.680116+00:00
+ - user: None
+ - tags: []
+
+## Joe Previte's Site
+ - [https://joeprevite.com](https://joeprevite.com)
+ - date published: 2023-10-25T15:29:51.059464+00:00
+ - user: None
+ - tags: []
+
+## Joe Regenstein, CPA, FPAC
+ - [https://joereg4.com](https://joereg4.com)
+ - date published: 2024-01-05T10:37:48.225445+00:00
+ - user: None
+ - tags: []
+
+## Joe rogan
+ - [https://www.joerogan.com](https://www.joerogan.com)
+ - date published: 2023-11-01T08:42:22.375231+00:00
+ - user: None
+ - tags: []
+
+## Jose's Sketchbook – A personal collection of ideas, programming and shiny stuff
+ - [https://www.joesfer.com](https://www.joesfer.com)
+ - date published: 2023-10-25T15:29:56.370927+00:00
+ - user: None
+ - tags: []
+
+## The Adventures of Accordion Guy in the 21st Century
+ - [https://www.joeydevilla.com](https://www.joeydevilla.com)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jo Freeman: Feminist Scholar and Author
+ - [https://www.jofreeman.com](https://www.jofreeman.com)
+ - date published: 2024-01-09T02:40:43.568798+00:00
+ - user: None
+ - tags: []
+
+## Johannes Haage
+ - [https://www.johanneshaage.com](https://www.johanneshaage.com)
+ - date published: 2024-01-10T23:53:13.723781+00:00
+ - user: None
+ - tags: []
+
+## The artwork of Johan Potma
+ - [http://www.johanpotma.com](http://www.johanpotma.com)
+ - date published: 1998-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Johnathan at Limbo
  - [https://johnathanbi.com](https://johnathanbi.com)
  - date published: 2023-10-25T15:30:08.552189+00:00
@@ -215,16 +275,16 @@
  - tags: []
 
 ## Your Privacy is our Business
- - [https://joindeleteme.com](https://joindeleteme.com)
- - date published: 2022-12-23T16:20:20+00:00
- - user: None
- - tags: []
-
-## Your Privacy is our Business
  - [http://joindeleteme.com](http://joindeleteme.com)
  - date published: 2022-12-23T16:20:20+00:00
  - user: None
  - tags: ['privacy']
+
+## Your Privacy is our Business
+ - [https://joindeleteme.com](https://joindeleteme.com)
+ - date published: 2022-12-23T16:20:20+00:00
+ - user: None
+ - tags: []
 
 ## Join me for the ride - Thoughts on how we live
  - [https://joinmefortheride.com](https://joinmefortheride.com)
@@ -260,7 +320,7 @@
  - [https://joltmailer.com](https://joltmailer.com)
  - date published: 2023-11-10T11:04:46.045640+00:00
  - user: None
- - tags: ['self-host']
+ - tags: ['email marketing', 'self-host']
 
 ## Jonah Aragon
  - [https://www.jonaharagon.com](https://www.jonaharagon.com)
@@ -413,16 +473,16 @@
  - tags: ['personal']
 
 ## Jose Munoz | Product Designer
- - [http://www.josemunozmatos.com](http://www.josemunozmatos.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jose Munoz | Product Designer
  - [https://www.josemunozmatos.com](https://www.josemunozmatos.com)
  - date published: 2023-12-11T23:18:46.523295+00:00
  - user: None
  - tags: ['personal']
+
+## Jose Munoz | Product Designer
+ - [http://www.josemunozmatos.com](http://www.josemunozmatos.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Joseon
  - [https://www.joseon.com](https://www.joseon.com)
@@ -833,14 +893,14 @@
  - tags: []
 
 ## Juan and Joe Comedy
- - [http://www.juanandjoecomedy.com](http://www.juanandjoecomedy.com)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://www.juanandjoecomedy.com](https://www.juanandjoecomedy.com)
+ - date published: 2023-11-29T17:08:42.429078+00:00
  - user: None
  - tags: []
 
 ## Juan and Joe Comedy
- - [https://www.juanandjoecomedy.com](https://www.juanandjoecomedy.com)
- - date published: 2023-11-29T17:08:42.429078+00:00
+ - [http://www.juanandjoecomedy.com](http://www.juanandjoecomedy.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1445,14 +1505,14 @@
  - tags: ['personal']
 
 ## All posts
- - [http://katelynsills.com](http://katelynsills.com)
- - date published: 2024-01-08T00:00:00+00:00
+ - [https://katelynsills.com](https://katelynsills.com)
+ - date published: 2024-01-03T23:56:16.792993+00:00
  - user: None
  - tags: []
 
 ## All posts
- - [https://katelynsills.com](https://katelynsills.com)
- - date published: 2024-01-03T23:56:16.792993+00:00
+ - [http://katelynsills.com](http://katelynsills.com)
+ - date published: 2024-01-08T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1576,6 +1636,12 @@
  - user: None
  - tags: ['file library', 'self-host']
 
+## Kavita
+ - [https://www.kavitareader.com](https://www.kavitareader.com)
+ - date published: 2024-04-22T21:57:43.376984+00:00
+ - user: None
+ - tags: []
+
 ## Kawasaki Robotics - Industrial Robotics | HOME
  - [https://kawasakirobotics.com](https://kawasakirobotics.com)
  - date published: 2023-11-27T15:32:22+00:00
@@ -1663,6 +1729,12 @@
 ## Homepage
  - [https://www.keengamer.com](https://www.keengamer.com)
  - date published: 2023-11-12T05:39:10.831693+00:00
+ - user: None
+ - tags: []
+
+## Keith Donegan - Web Developer
+ - [https://keithdonegan.com](https://keithdonegan.com)
+ - date published: 2020-04-17T15:48:06+00:00
  - user: None
  - tags: []
 
@@ -4099,13 +4171,13 @@ Chamber Music, Symphony
  - tags: ['entertainment news', 'movie news']
 
 ## Legends of Kallisti
- - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
+ - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Legends of Kallisti
- - [http://www.legendsofkallisti.com](http://www.legendsofkallisti.com)
+ - [https://www.legendsofkallisti.com](https://www.legendsofkallisti.com)
  - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
@@ -4255,14 +4327,14 @@ Chamber Music, Symphony
  - tags: ['personal']
 
 ## About Me - Leo Alexander Glowacki
- - [http://leoglowacki.com](http://leoglowacki.com)
- - date published: 2024-04-03T06:27:09.410241+00:00
+ - [https://leoglowacki.com](https://leoglowacki.com)
+ - date published: 2024-01-29T23:27:30.561916+00:00
  - user: None
  - tags: ['personal']
 
 ## About Me - Leo Alexander Glowacki
- - [https://leoglowacki.com](https://leoglowacki.com)
- - date published: 2024-01-29T23:27:30.561916+00:00
+ - [http://leoglowacki.com](http://leoglowacki.com)
+ - date published: 2024-04-03T06:27:09.410241+00:00
  - user: None
  - tags: ['personal']
 
@@ -5346,6 +5418,12 @@ Chamber Music, Symphony
  - user: rumpel
  - tags: ['the right wing']
 
+## locals
+ - [https://locals.com](https://locals.com)
+ - date published: 2024-04-22T20:42:06+00:00
+ - user: rumpel
+ - tags: ['social media', 'monetization']
+
 ## Attention Required! | Cloudflare
  - [https://lunduke.locals.com](https://lunduke.locals.com)
  - date published: 2023-10-27T11:55:26.064550+00:00
@@ -5838,6 +5916,12 @@ Chamber Music, Symphony
  - user: None
  - tags: []
 
+## LowEndBox
+ - [http://lowendbox.com](http://lowendbox.com)
+ - date published: 2024-04-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Low End Mac: Make the most of your Apple gear
  - [https://lowendmac.com](https://lowendmac.com)
  - date published: 2023-10-25T15:51:51.330055+00:00
@@ -5915,88 +5999,4 @@ Chamber Music, Symphony
  - date published: 2023-11-13T12:54:57.302300+00:00
  - user: None
  - tags: ['movie studio']
-
-## Random thoughts from Lucas Kostka
- - [https://lucaskostka.com](https://lucaskostka.com)
- - date published: 2023-10-25T15:51:58.719723+00:00
- - user: None
- - tags: []
-
-## Lucas' Blog
- - [https://lucaspauker.com](https://lucaspauker.com)
- - date published: 2023-10-25T15:51:59.452646+00:00
- - user: None
- - tags: []
-
-## Lucas Schiavini | ルスキラ
- - [https://lucas-schiavini.com](https://lucas-schiavini.com)
- - date published: 2023-12-12T04:53:17.195643+00:00
- - user: None
- - tags: ['personal']
-
-## https://blog.luccasiau.com
- - [https://blog.luccasiau.com](https://blog.luccasiau.com)
- - date published: 2024-01-20T22:40:46.364035+00:00
- - user: None
- - tags: []
-
-## Lucidity
- - [https://luciditysystems.com](https://luciditysystems.com)
- - date published: 2023-10-25T15:52:03.701234+00:00
- - user: None
- - tags: []
-
-## Investor Relations | Lucid Group, Inc.
- - [https://ir.lucidmotors.com](https://ir.lucidmotors.com)
- - date published: 2023-10-25T15:52:13.846409+00:00
- - user: None
- - tags: []
-
-## Ahoy!
- - [https://lucybellwood.com](https://lucybellwood.com)
- - date published: 2016-10-07T21:54:11+00:00
- - user: None
- - tags: ['personal']
-
-## Nicholas Fraser
- - [https://ludocode.com](https://ludocode.com)
- - date published: 2023-10-25T15:52:14.415437+00:00
- - user: None
- - tags: []
-
-## Book tickets online now and fly out into the world
- - [https://www.lufthansa.com](https://www.lufthansa.com)
- - date published: 2024-04-02T14:24:27+00:00
- - user: rumpel
- - tags: ['airline']
-
-## Luísa Baltazar
- - [https://luisabaltazar.com](https://luisabaltazar.com)
- - date published: 2023-08-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Lujendra Ojha
- - [https://www.lujendraojha.com](https://www.lujendraojha.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Luka Peharda - PHP and JS developer
- - [https://lukapeharda.com](https://lukapeharda.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Lukáš Kubánek
- - [https://lukaskubanek.com](https://lukaskubanek.com)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Lukas Malkmus
- - [https://lukasmalkmus.com](https://lukasmalkmus.com)
- - date published: 2023-12-12T23:24:40.676809+00:00
- - user: None
- - tags: ['personal']
 

@@ -1325,13 +1325,13 @@
  - tags: []
 
 ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## http://hello.pi.ai/
- - [http://hello.pi.ai](http://hello.pi.ai)
+ - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -1419,6 +1419,12 @@
  - date published: 2023-10-25T11:41:43.521292+00:00
  - user: None
  - tags: []
+
+## Red Bumerang | AI-Powered Web Research Agent
+ - [https://www.redbumerang.ai](https://www.redbumerang.ai)
+ - date published: 2024-04-22T19:26:33+00:00
+ - user: rumpel
+ - tags: ['proprietary', 'web scraping']
 
 ## Powerful AI coding assistant that combines completion, refactoring, chat, and more - Refact.ai
  - [https://refact.ai](https://refact.ai)
@@ -2396,7 +2402,7 @@
  - [https://mikage.app](https://mikage.app)
  - date published: 2024-03-06T20:59:32.532890+00:00
  - user: None
- - tags: []
+ - tags: ['3ds', 'emulator']
 
 ## minidemo
  - [https://www.minidemo.app](https://www.minidemo.app)
@@ -2420,7 +2426,7 @@
  - [https://minimalgpt.app](https://minimalgpt.app)
  - date published: 2024-04-21T20:46:14.448048+00:00
  - user: None
- - tags: []
+ - tags: ['llm', 'artificial intelligence bot', 'open source']
 
 ## Self-hosted, Open Source Social Media Management - Mixpost
  - [https://mixpost.app](https://mixpost.app)
@@ -3485,14 +3491,14 @@
  - tags: []
 
 ## César Ferradas
- - [http://ferrad.as](http://ferrad.as)
- - date published: 2024-04-03T06:23:10.101108+00:00
+ - [https://ferrad.as](https://ferrad.as)
+ - date published: 2024-02-09T00:13:34.119208+00:00
  - user: None
  - tags: ['personal']
 
 ## César Ferradas
- - [https://ferrad.as](https://ferrad.as)
- - date published: 2024-02-09T00:13:34.119208+00:00
+ - [http://ferrad.as](http://ferrad.as)
+ - date published: 2024-04-03T06:23:10.101108+00:00
  - user: None
  - tags: ['personal']
 
@@ -4157,13 +4163,13 @@
  - tags: []
 
 ## About me - Write Approach Marketing
- - [https://writeapproach.com.au](https://writeapproach.com.au)
+ - [http://writeapproach.com.au](http://writeapproach.com.au)
  - date published: 2018-04-30T00:00:00+00:00
  - user: None
  - tags: []
 
 ## About me - Write Approach Marketing
- - [http://writeapproach.com.au](http://writeapproach.com.au)
+ - [https://writeapproach.com.au](https://writeapproach.com.au)
  - date published: 2018-04-30T00:00:00+00:00
  - user: None
  - tags: []
@@ -4667,16 +4673,16 @@
  - tags: []
 
 ## Denny Wong - Learn, think, write and do.
- - [https://dewo.be](https://dewo.be)
- - date published: 2023-11-29T14:18:04.127765+00:00
- - user: None
- - tags: ['personal']
-
-## Denny Wong - Learn, think, write and do.
  - [http://dewo.be](http://dewo.be)
  - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Denny Wong - Learn, think, write and do.
+ - [https://dewo.be](https://dewo.be)
+ - date published: 2023-11-29T14:18:04.127765+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Dries Depoorter – artist and speaker working with technology 🔥
  - [https://driesdepoorter.be](https://driesdepoorter.be)
@@ -4805,16 +4811,16 @@
  - tags: []
 
 ## Home: New - Shakalaka
- - [https://shakalaka.be](https://shakalaka.be)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home: New - Shakalaka
  - [http://shakalaka.be](http://shakalaka.be)
  - date published: 2023-12-22T22:29:41.716940+00:00
  - user: None
  - tags: ['personal']
+
+## Home: New - Shakalaka
+ - [https://shakalaka.be](https://shakalaka.be)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Steffest - web developer
  - [https://www.stef.be](https://www.stef.be)
@@ -5992,10 +5998,4 @@
  - date published: 2024-01-09T02:26:57.139425+00:00
  - user: None
  - tags: []
-
-## Home - Inhotim
- - [https://www.inhotim.org.br](https://www.inhotim.org.br)
- - date published: 2023-11-13T13:54:33.035629+00:00
- - user: None
- - tags: ['museum']
 

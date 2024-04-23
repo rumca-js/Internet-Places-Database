@@ -1,3 +1,9 @@
+## Home - Inhotim
+ - [https://www.inhotim.org.br](https://www.inhotim.org.br)
+ - date published: 2023-11-13T13:54:33.035629+00:00
+ - user: None
+ - tags: ['museum']
+
 ## Instituto Ricardo Brennand
  - [https://www.institutoricardobrennand.org.br](https://www.institutoricardobrennand.org.br)
  - date published: 2023-11-13T13:53:50.117261+00:00
@@ -689,13 +695,13 @@
  - tags: []
 
 ## iter.ca
- - [http://iter.ca](http://iter.ca)
+ - [https://iter.ca](https://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## iter.ca
- - [https://iter.ca](https://iter.ca)
+ - [http://iter.ca](http://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -713,14 +719,14 @@
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [http://jenniferashton.ca](http://jenniferashton.ca)
- - date published: 2023-12-25T04:56:31.047100+00:00
+ - [https://jenniferashton.ca](https://jenniferashton.ca)
+ - date published: 2023-12-20T19:14:23.669927+00:00
  - user: None
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [https://jenniferashton.ca](https://jenniferashton.ca)
- - date published: 2023-12-20T19:14:23.669927+00:00
+ - [http://jenniferashton.ca](http://jenniferashton.ca)
+ - date published: 2023-12-25T04:56:31.047100+00:00
  - user: None
  - tags: ['personal']
 
@@ -928,15 +934,15 @@
  - user: None
  - tags: []
 
-## Novak Family
- - [http://novak.ca](http://novak.ca)
- - date published: 2024-04-03T06:29:56.862797+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [https://novak.ca](https://novak.ca)
  - date published: 2024-01-11T02:12:34.554251+00:00
+ - user: None
+ - tags: ['personal']
+
+## Novak Family
+ - [http://novak.ca](http://novak.ca)
+ - date published: 2024-04-03T06:29:56.862797+00:00
  - user: None
  - tags: ['personal']
 
@@ -1416,16 +1422,16 @@
  - tags: ['personal']
 
 ## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
- - [https://wingfelder.ca](https://wingfelder.ca)
- - date published: 2024-01-11T13:28:46.842673+00:00
- - user: None
- - tags: []
-
-## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
  - [http://wingfelder.ca](http://wingfelder.ca)
  - date published: 2024-04-03T12:43:01.979772+00:00
  - user: None
  - tags: ['personal']
+
+## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
+ - [https://wingfelder.ca](https://wingfelder.ca)
+ - date published: 2024-01-11T13:28:46.842673+00:00
+ - user: None
+ - tags: []
 
 ## Women of Influence –
  - [https://www.womenofinfluence.ca](https://www.womenofinfluence.ca)
@@ -2041,16 +2047,16 @@
  - tags: ['personal']
 
 ## Gregors Blog
- - [http://www.blog-gregor.ch](http://www.blog-gregor.ch)
- - date published: 2024-03-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gregors Blog
  - [https://www.blog-gregor.ch](https://www.blog-gregor.ch)
  - date published: 2023-12-27T23:55:45.885819+00:00
  - user: None
  - tags: ['personal']
+
+## Gregors Blog
+ - [http://www.blog-gregor.ch](http://www.blog-gregor.ch)
+ - date published: 2024-03-09T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## CernVM
  - [https://cernvm.cern.ch](https://cernvm.cern.ch)
@@ -2854,7 +2860,7 @@
  - [https://substack.thewebscraping.club](https://substack.thewebscraping.club)
  - date published: 2023-10-25T12:16:16.183663+00:00
  - user: None
- - tags: []
+ - tags: ['news', 'web scraping']
 
 ## The Web Scraping Club
  - [https://thewebscraping.club](https://thewebscraping.club)
@@ -2917,14 +2923,14 @@
  - tags: []
 
 ## Hundred Rabbits
- - [http://100r.co](http://100r.co)
- - date published: 2024-02-25T20:48:03.755636+00:00
+ - [https://100r.co](https://100r.co)
+ - date published: 2023-10-25T12:16:22.299825+00:00
  - user: None
  - tags: []
 
 ## Hundred Rabbits
- - [https://100r.co](https://100r.co)
- - date published: 2023-10-25T12:16:22.299825+00:00
+ - [http://100r.co](http://100r.co)
+ - date published: 2024-02-25T20:48:03.755636+00:00
  - user: None
  - tags: []
 
@@ -3565,14 +3571,14 @@
  - tags: []
 
 ## Jonny Miller
- - [http://www.jonnymiller.co](http://www.jonnymiller.co)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://www.jonnymiller.co](https://www.jonnymiller.co)
+ - date published: 2024-01-08T15:36:50.624044+00:00
  - user: None
  - tags: []
 
 ## Jonny Miller
- - [https://www.jonnymiller.co](https://www.jonnymiller.co)
- - date published: 2024-01-08T15:36:50.624044+00:00
+ - [http://www.jonnymiller.co](http://www.jonnymiller.co)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3673,14 +3679,14 @@
  - tags: []
 
 ## lqb2 & co. — Home
- - [https://lqb2.co](https://lqb2.co)
- - date published: 2024-01-15T13:59:10.818821+00:00
+ - [http://lqb2.co](http://lqb2.co)
+ - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## lqb2 & co. — Home
- - [http://lqb2.co](http://lqb2.co)
- - date published: 2022-01-01T00:00:00+00:00
+ - [https://lqb2.co](https://lqb2.co)
+ - date published: 2024-01-15T13:59:10.818821+00:00
  - user: None
  - tags: []
 
@@ -5199,14 +5205,14 @@
  - tags: []
 
 ## Aardwolf MUD - Home Page
- - [https://www.aardwolf.com](https://www.aardwolf.com)
- - date published: 2024-03-27T20:48:48.782050+00:00
+ - [http://www.aardwolf.com](http://www.aardwolf.com)
+ - date published: 2024-03-27T20:46:27.237579+00:00
  - user: None
  - tags: ['mud game']
 
 ## Aardwolf MUD - Home Page
- - [http://www.aardwolf.com](http://www.aardwolf.com)
- - date published: 2024-03-27T20:46:27.237579+00:00
+ - [https://www.aardwolf.com](https://www.aardwolf.com)
+ - date published: 2024-03-27T20:48:48.782050+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5294,17 +5300,17 @@
  - user: None
  - tags: ['personal']
 
-## Home - Aaron Shbeeb
- - [http://aaronshbeeb.com](http://aaronshbeeb.com)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Coming Soon
  - [https://aaronshbeeb.com](https://aaronshbeeb.com)
  - date published: 2023-12-17T20:59:02.532105+00:00
  - user: None
  - tags: ['personal']
+
+## Home - Aaron Shbeeb
+ - [http://aaronshbeeb.com](http://aaronshbeeb.com)
+ - date published: 2024-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## AaronStrick.com
  - [https://aaronstrick.com](https://aaronstrick.com)
@@ -5312,15 +5318,15 @@
  - user: None
  - tags: ['personal']
 
-## None
- - [https://www.aaronsw.com](https://www.aaronsw.com)
- - date published: 2024-01-09T01:38:10.984994+00:00
- - user: None
- - tags: []
-
 ## Aaron Swartz
  - [http://www.aaronsw.com](http://www.aaronsw.com)
  - date published: 2009-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.aaronsw.com](https://www.aaronsw.com)
+ - date published: 2024-01-09T01:38:10.984994+00:00
  - user: None
  - tags: []
 
@@ -5361,14 +5367,14 @@
  - tags: []
 
 ## Abandoned Realms Homepage
- - [https://abandonedrealms.com](https://abandonedrealms.com)
- - date published: 2024-03-27T20:46:56.678785+00:00
+ - [http://abandonedrealms.com](http://abandonedrealms.com)
+ - date published: 2024-03-27T20:46:21.299380+00:00
  - user: None
  - tags: ['mud game']
 
 ## Abandoned Realms Homepage
- - [http://abandonedrealms.com](http://abandonedrealms.com)
- - date published: 2024-03-27T20:46:21.299380+00:00
+ - [https://abandonedrealms.com](https://abandonedrealms.com)
+ - date published: 2024-03-27T20:46:56.678785+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5493,14 +5499,14 @@
  - tags: []
 
 ## Abhinav Bhatt
- - [http://abhinavbhatt.com](http://abhinavbhatt.com)
- - date published: 2024-04-03T12:49:59.456600+00:00
+ - [https://abhinavbhatt.com](https://abhinavbhatt.com)
+ - date published: 2024-01-13T22:54:15.913288+00:00
  - user: None
  - tags: ['personal']
 
 ## Abhinav Bhatt
- - [https://abhinavbhatt.com](https://abhinavbhatt.com)
- - date published: 2024-01-13T22:54:15.913288+00:00
+ - [http://abhinavbhatt.com](http://abhinavbhatt.com)
+ - date published: 2024-04-03T12:49:59.456600+00:00
  - user: None
  - tags: ['personal']
 
@@ -5919,14 +5925,14 @@
  - tags: []
 
 ## Adam Fisher
- - [http://adamfishertrumpet.com](http://adamfishertrumpet.com)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://adamfishertrumpet.com](https://adamfishertrumpet.com)
+ - date published: 2024-01-09T02:29:07.213553+00:00
  - user: None
  - tags: []
 
 ## Adam Fisher
- - [https://adamfishertrumpet.com](https://adamfishertrumpet.com)
- - date published: 2024-01-09T02:29:07.213553+00:00
+ - [http://adamfishertrumpet.com](http://adamfishertrumpet.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5995,10 +6001,4 @@
  - date published: 2023-11-16T21:06:42.760162+00:00
  - user: None
  - tags: ['personal']
-
-## Articles about bootstrapping a business in tech, web development, and leadership. | Adam Waselnuk
- - [https://www.adamwaselnuk.com](https://www.adamwaselnuk.com)
- - date published: 2024-01-13T09:37:38.534463+00:00
- - user: None
- - tags: []
 

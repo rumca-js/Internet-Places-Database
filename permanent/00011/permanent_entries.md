@@ -1,3 +1,99 @@
+## Patrick Yandell
+ - [https://patrickyandell.com](https://patrickyandell.com)
+ - date published: 2023-11-29T14:24:18.301040+00:00
+ - user: None
+ - tags: ['personal']
+
+## Patrick Yandell
+ - [http://patrickyandell.com](http://patrickyandell.com)
+ - date published: 2024-04-03T06:29:48.238438+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://www.paudal.com](https://www.paudal.com)
+ - date published: 2023-12-22T12:44:01.911776+00:00
+ - user: None
+ - tags: []
+
+## Stone Oakvalley's Amiga Music Collection (SOAMC=) - www.paula8364.com - Download MP3/FLAC files of AMIGA recordings
+ - [https://www.paula8364.com](https://www.paula8364.com)
+ - date published: 2024-02-15T22:31:28.371188+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Networks and Value by Paul Bohm | Substack
+ - [https://blog.paulbohm.com](https://blog.paulbohm.com)
+ - date published: 2024-01-09T01:38:20.790691+00:00
+ - user: None
+ - tags: []
+
+## Paul Bupe, Jr
+ - [https://paulbupejr.com](https://paulbupejr.com)
+ - date published: 2024-04-11T16:35:27.808569+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://tools.paulcalvano.com
+ - [https://tools.paulcalvano.com](https://tools.paulcalvano.com)
+ - date published: 2024-01-09T02:45:45.126988+00:00
+ - user: None
+ - tags: []
+
+## Paul Chato | Hello denizens of the internet.
+ - [https://www.paulchato.com](https://www.paulchato.com)
+ - date published: 2024-02-01T15:37:03+00:00
+ - user: rumpel
+ - tags: ['youtuber', 'personal']
+
+## Paul Gazzillo
+ - [https://paulgazzillo.com](https://paulgazzillo.com)
+ - date published: 2024-03-09T12:30:14.689571+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Graham
+ - [https://paulgraham.com](https://paulgraham.com)
+ - date published: 2024-01-09T02:45:46.595965+00:00
+ - user: None
+ - tags: []
+
+## Paul Graham
+ - [https://www.paulgraham.com](https://www.paulgraham.com)
+ - date published: 2024-01-09T02:45:47.953966+00:00
+ - user: None
+ - tags: []
+
+## Paul Graham AI
+ - [https://www.paulgrahamai.com](https://www.paulgrahamai.com)
+ - date published: 2023-10-25T16:31:25.983543+00:00
+ - user: None
+ - tags: []
+
+## | Paul Halme |
+ - [https://paulhalme.com](https://paulhalme.com)
+ - date published: 2023-12-24T02:30:12.909224+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paulina
+ - [https://paulinasaez.com](https://paulinasaez.com)
+ - date published: 2024-01-10T22:40:44.953068+00:00
+ - user: None
+ - tags: []
+
+## Paul Irish
+ - [https://www.paulirish.com](https://www.paulirish.com)
+ - date published: 2023-10-25T09:26:01.615259+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paulo Matsui
+ - [https://www.paulomatsui.com](https://www.paulomatsui.com)
+ - date published: 2023-12-19T03:01:56.181563+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Paul Onteri
  - [https://paulonteri.com](https://paulonteri.com)
  - date published: 2023-12-12T07:04:24.427551+00:00
@@ -178,15 +274,15 @@
  - user: None
  - tags: ['personal']
 
-## PCMag.com - Technology Product Reviews, News, Prices & Tips
- - [https://uk.pcmag.com](https://uk.pcmag.com)
- - date published: 2023-10-25T09:34:32.882984+00:00
- - user: None
- - tags: []
-
 ## PCMag UK
  - [http://uk.pcmag.com](http://uk.pcmag.com)
  - date published: 2024-02-26T09:45:15.403718+00:00
+ - user: None
+ - tags: []
+
+## PCMag.com - Technology Product Reviews, News, Prices & Tips
+ - [https://uk.pcmag.com](https://uk.pcmag.com)
+ - date published: 2023-10-25T09:34:32.882984+00:00
  - user: None
  - tags: []
 
@@ -893,14 +989,14 @@
  - tags: ['music band', 'music artist']
 
 ## Phil D.
- - [https://phildenman.com](https://phildenman.com)
- - date published: 2023-12-27T23:55:08.862914+00:00
+ - [http://phildenman.com](http://phildenman.com)
+ - date published: 2024-04-03T06:25:43.319001+00:00
  - user: None
  - tags: ['personal']
 
 ## Phil D.
- - [http://phildenman.com](http://phildenman.com)
- - date published: 2024-04-03T06:25:43.319001+00:00
+ - [https://phildenman.com](https://phildenman.com)
+ - date published: 2023-12-27T23:55:08.862914+00:00
  - user: None
  - tags: ['personal']
 
@@ -1106,14 +1202,14 @@
  - tags: ['open source', 'forum']
 
 ## phpied.com
- - [https://www.phpied.com](https://www.phpied.com)
- - date published: 2024-01-15T05:45:17.624527+00:00
+ - [http://www.phpied.com](http://www.phpied.com)
+ - date published: 2024-03-24T15:05:52.476257+00:00
  - user: None
  - tags: []
 
 ## phpied.com
- - [http://www.phpied.com](http://www.phpied.com)
- - date published: 2024-03-24T15:05:52.476257+00:00
+ - [https://www.phpied.com](https://www.phpied.com)
+ - date published: 2024-01-15T05:45:17.624527+00:00
  - user: None
  - tags: []
 
@@ -2600,14 +2696,14 @@
  - tags: []
 
 ## Preshing on Programming
- - [https://preshing.com](https://preshing.com)
- - date published: 2023-10-25T16:39:24.657091+00:00
+ - [http://preshing.com](http://preshing.com)
+ - date published: 2021-03-15T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Preshing on Programming
- - [http://preshing.com](http://preshing.com)
- - date published: 2021-03-15T00:00:00+00:00
+ - [https://preshing.com](https://preshing.com)
+ - date published: 2023-10-25T16:39:24.657091+00:00
  - user: None
  - tags: []
 
@@ -2900,14 +2996,14 @@
  - tags: []
 
 ## programming is terrible
- - [https://programmingisterrible.com](https://programmingisterrible.com)
- - date published: 2023-10-25T16:40:51.213240+00:00
+ - [http://programmingisterrible.com](http://programmingisterrible.com)
+ - date published: 2022-09-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## programming is terrible
- - [http://programmingisterrible.com](http://programmingisterrible.com)
- - date published: 2022-09-22T00:00:00+00:00
+ - [https://programmingisterrible.com](https://programmingisterrible.com)
+ - date published: 2023-10-25T16:40:51.213240+00:00
  - user: None
  - tags: []
 
@@ -3422,14 +3518,14 @@
  - tags: []
 
 ## Pushbullet Blog
- - [http://blog.pushbullet.com](http://blog.pushbullet.com)
- - date published: 2022-01-01T00:00:00+00:00
+ - [https://blog.pushbullet.com](https://blog.pushbullet.com)
+ - date published: 2023-10-25T16:42:28.991402+00:00
  - user: None
  - tags: []
 
 ## Pushbullet Blog
- - [https://blog.pushbullet.com](https://blog.pushbullet.com)
- - date published: 2023-10-25T16:42:28.991402+00:00
+ - [http://blog.pushbullet.com](http://blog.pushbullet.com)
+ - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4242,14 +4338,14 @@
  - tags: ['personal']
 
 ## Reginald Braithwaite
- - [http://raganwald.com](http://raganwald.com)
- - date published: 2016-01-01T00:00:00+00:00
+ - [https://raganwald.com](https://raganwald.com)
+ - date published: 2023-10-25T16:45:15.488174+00:00
  - user: None
  - tags: []
 
 ## Reginald Braithwaite
- - [https://raganwald.com](https://raganwald.com)
- - date published: 2023-10-25T16:45:15.488174+00:00
+ - [http://raganwald.com](http://raganwald.com)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4591,16 +4687,16 @@ More!
  - tags: []
 
 ## Ravenfeast
- - [https://www.ravenfeast.com](https://www.ravenfeast.com)
- - date published: 2024-03-01T09:41:52+00:00
- - user: rumpel
- - tags: ['tabletop games', 'wargames']
-
-## Ravenfeast
  - [http://www.ravenfeast.com](http://www.ravenfeast.com)
  - date published: 2024-03-01T18:35:27.406553+00:00
  - user: None
  - tags: []
+
+## Ravenfeast
+ - [https://www.ravenfeast.com](https://www.ravenfeast.com)
+ - date published: 2024-03-01T09:41:52+00:00
+ - user: rumpel
+ - tags: ['tabletop games', 'wargames']
 
 ## https://www.ravensoft.com
  - [https://www.ravensoft.com](https://www.ravensoft.com)
@@ -4843,14 +4939,14 @@ More!
  - tags: ['company']
 
 ## Home | Realms of Despair
- - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
- - date published: 2024-03-27T20:46:33.188949+00:00
+ - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:52:28.838514+00:00
  - user: None
  - tags: ['mud game']
 
 ## Home | Realms of Despair
- - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
- - date published: 2024-03-27T20:52:28.838514+00:00
+ - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:46:33.188949+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5161,14 +5257,14 @@ More!
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [http://www.reddit-stream.com](http://www.reddit-stream.com)
- - date published: 2023-12-23T19:30:18.252561+00:00
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
  - user: None
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
+ - [http://www.reddit-stream.com](http://www.reddit-stream.com)
+ - date published: 2023-12-23T19:30:18.252561+00:00
  - user: None
  - tags: []
 
@@ -5907,102 +6003,6 @@ More!
 ## Reuters | Breaking International News & Views
  - [https://www.reuters.com](https://www.reuters.com)
  - date published: 2023-10-25T10:38:41.639140+00:00
- - user: None
- - tags: []
-
-## International News Agency | Multimedia News Provider | Reuters
- - [https://www.reutersagency.com](https://www.reutersagency.com)
- - date published: 2023-10-25T16:50:47.197541+00:00
- - user: None
- - tags: []
-
-## Rev | AI Speech to Text Transcription Service
- - [https://www.rev.com](https://www.rev.com)
- - date published: 2023-11-27T13:30:27+00:00
- - user: rumpel
- - tags: ['transcript', 'artificial intelligence']
-
-## Charlie Revett (@revcd) • Software Engineer
- - [https://revcd.com](https://revcd.com)
- - date published: 2024-01-13T18:26:52.208850+00:00
- - user: None
- - tags: []
-
-## Home | Reverb Machine
- - [https://reverbmachine.com](https://reverbmachine.com)
- - date published: 2023-10-25T16:50:50.350568+00:00
- - user: None
- - tags: []
-
-## Reversemode
- - [https://www.reversemode.com](https://www.reversemode.com)
- - date published: 2023-10-25T16:50:52.011927+00:00
- - user: None
- - tags: []
-
-## Software Supply Chain Security & Threat Intelligence  | ReversingLabs
- - [https://www.reversinglabs.com](https://www.reversinglabs.com)
- - date published: 2023-10-25T16:50:55.808121+00:00
- - user: None
- - tags: []
-
-## Las Vegas News | Breaking News & Headlines | Las Vegas Review-Journal
- - [https://www.reviewjournal.com](https://www.reviewjournal.com)
- - date published: 2023-10-25T10:38:52.009999+00:00
- - user: None
- - tags: []
-
-## ReviewNB - Jupyter Notebook Code Reviews & Collaboration
- - [https://www.reviewnb.com](https://www.reviewnb.com)
- - date published: 2023-10-25T16:50:57.986129+00:00
- - user: None
- - tags: []
-
-## Revive Machines
- - [https://revive-machines.com](https://revive-machines.com)
- - date published: 2023-10-25T16:50:58.488773+00:00
- - user: None
- - tags: []
-
-## Revolut | All-in-one Finance App for your Money | Revolut
- - [https://www.revolut.com](https://www.revolut.com)
- - date published: 2023-10-25T14:49:03.844755+00:00
- - user: None
- - tags: ['banking']
-
-## https://blog.revolutionanalytics.com
- - [https://blog.revolutionanalytics.com](https://blog.revolutionanalytics.com)
- - date published: 2023-10-25T16:50:58.906287+00:00
- - user: None
- - tags: []
-
-## Hack Music Theory
- - [https://revolutionharmony.com](https://revolutionharmony.com)
- - date published: 2023-11-29T14:43:42.648215+00:00
- - user: None
- - tags: ['personal']
-
-## Présentation de la revue
- - [https://tsi.revuesonline.com](https://tsi.revuesonline.com)
- - date published: 2024-02-08T18:21:04.027898+00:00
- - user: None
- - tags: []
-
-## DJ Rewerb | Dein virtueller DJ Mentor mit Tipps zum DJing
- - [https://rewerb.com](https://rewerb.com)
- - date published: 2023-11-29T15:50:57.132805+00:00
- - user: None
- - tags: ['personal']
-
-## https://rexresearch.com
- - [https://rexresearch.com](https://rexresearch.com)
- - date published: 2024-01-09T02:47:54.239076+00:00
- - user: None
- - tags: []
-
-## Hidden Grove | Ryan Fleury | Substack
- - [https://www.rfleury.com](https://www.rfleury.com)
- - date published: 2024-03-13T02:48:12.650067+00:00
  - user: None
  - tags: []
 

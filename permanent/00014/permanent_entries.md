@@ -1,3 +1,135 @@
+## Contemplations on the Tree of Woe | Substack
+ - [https://treeofwoe.substack.com](https://treeofwoe.substack.com)
+ - date published: 2023-10-25T10:06:49.846572+00:00
+ - user: None
+ - tags: ['substack']
+
+## Trevor Klee’s Newsletter | Substack
+ - [https://trevorklee.substack.com](https://trevorklee.substack.com)
+ - date published: 2023-10-25T10:06:52.536361+00:00
+ - user: None
+ - tags: ['substack']
+
+## Truth on the Streets by Kevin Dahlgren  | Substack
+ - [https://truthonthestreets.substack.com](https://truthonthestreets.substack.com)
+ - date published: 2023-10-25T10:06:54.506330+00:00
+ - user: None
+ - tags: ['substack']
+
+## Turing Talks | Manish Shivanandhan | Substack
+ - [https://turingtalks.substack.com](https://turingtalks.substack.com)
+ - date published: 2024-01-02T08:43:07.890129+00:00
+ - user: None
+ - tags: []
+
+## Tyler’s Substack | Tyler Glaiel | Substack
+ - [https://tylerglaiel.substack.com](https://tylerglaiel.substack.com)
+ - date published: 2023-10-25T10:06:56.239008+00:00
+ - user: None
+ - tags: ['substack']
+
+## Type Classes | Chris Martin | Substack
+ - [https://typeclasses.substack.com](https://typeclasses.substack.com)
+ - date published: 2023-10-25T10:06:58.858555+00:00
+ - user: None
+ - tags: ['substack']
+
+## https://u4all.substack.com
+ - [https://u4all.substack.com](https://u4all.substack.com)
+ - date published: 2024-02-08T18:06:49.384939+00:00
+ - user: None
+ - tags: []
+
+## Unfashionable | Sven Schnieders | Substack
+ - [https://unfashionable.substack.com](https://unfashionable.substack.com)
+ - date published: 2023-10-25T10:07:06.313221+00:00
+ - user: None
+ - tags: ['substack']
+
+## https://usefulfictions.substack.com
+ - [https://usefulfictions.substack.com](https://usefulfictions.substack.com)
+ - date published: 2024-01-13T15:01:08.490019+00:00
+ - user: None
+ - tags: []
+
+## Useful Fictions | Substack
+ - [http://usefulfictions.substack.com](http://usefulfictions.substack.com)
+ - date published: 2024-01-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://userinsight.substack.com
+ - [https://userinsight.substack.com](https://userinsight.substack.com)
+ - date published: 2024-02-08T17:00:46.530379+00:00
+ - user: None
+ - tags: []
+
+## Val's Pals | Valerie | Substack
+ - [http://valspals.substack.com](http://valspals.substack.com)
+ - date published: 2024-02-26T14:22:47.867596+00:00
+ - user: None
+ - tags: []
+
+## Val's Pals | Valerie | Substack
+ - [https://valspals.substack.com](https://valspals.substack.com)
+ - date published: 2024-01-09T01:45:44.588975+00:00
+ - user: None
+ - tags: []
+
+## Public Experiments | Varun | Substack
+ - [https://varunshenoy.substack.com](https://varunshenoy.substack.com)
+ - date published: 2023-10-25T10:07:10.677121+00:00
+ - user: None
+ - tags: ['substack']
+
+## Very Distant Lands Newsletter | Adam Fleming Petty | Substack
+ - [https://verydistantlands.substack.com](https://verydistantlands.substack.com)
+ - date published: 2023-11-14T19:01:26.764845+00:00
+ - user: None
+ - tags: []
+
+## Vigneshwarar’s Newsletter | Substack
+ - [https://vigneshwarar.substack.com](https://vigneshwarar.substack.com)
+ - date published: 2023-10-25T10:07:12.438218+00:00
+ - user: None
+ - tags: ['substack']
+
+## visa's voltaic verses ⚡️ | visakan veerasamy | Substack
+ - [https://visakanv.substack.com](https://visakanv.substack.com)
+ - date published: 2024-01-09T00:13:02.520095+00:00
+ - user: None
+ - tags: []
+
+## visa's voltaic verses ⚡️ | visakan veerasamy | Substack
+ - [http://visakanv.substack.com](http://visakanv.substack.com)
+ - date published: 2024-01-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Void Papers | Tobi | Substack
+ - [https://voidpapers.substack.com](https://voidpapers.substack.com)
+ - date published: 2023-10-25T10:07:14.153042+00:00
+ - user: None
+ - tags: ['substack']
+
+## Volted: Electrify your Life | Jeff Eiden | Substack
+ - [https://volted.substack.com](https://volted.substack.com)
+ - date published: 2024-01-09T01:45:46.968262+00:00
+ - user: None
+ - tags: []
+
+## Volted: Electrify your Life | Jeff Eiden | Substack
+ - [http://volted.substack.com](http://volted.substack.com)
+ - date published: 2024-02-26T14:26:13.459345+00:00
+ - user: None
+ - tags: []
+
+## Chris Arnade Walks the World  | Substack
+ - [https://walkingtheworld.substack.com](https://walkingtheworld.substack.com)
+ - date published: 2024-01-09T01:45:54.486490+00:00
+ - user: None
+ - tags: []
+
 ## Unbound | Walter Kirn | Substack
  - [https://walterkirn.substack.com](https://walterkirn.substack.com)
  - date published: 2023-12-28T03:21:31.503169+00:00
@@ -5,14 +137,14 @@
  - tags: []
 
 ## Startup Real Talk | Waseem Daher | Substack
- - [https://waseem.substack.com](https://waseem.substack.com)
- - date published: 2024-01-09T01:45:56.159960+00:00
+ - [http://waseem.substack.com](http://waseem.substack.com)
+ - date published: 2024-02-26T15:21:50.673334+00:00
  - user: None
  - tags: []
 
 ## Startup Real Talk | Waseem Daher | Substack
- - [http://waseem.substack.com](http://waseem.substack.com)
- - date published: 2024-02-26T15:21:50.673334+00:00
+ - [https://waseem.substack.com](https://waseem.substack.com)
+ - date published: 2024-01-09T01:45:56.159960+00:00
  - user: None
  - tags: []
 
@@ -143,26 +275,26 @@
  - tags: []
 
 ## Simon's Blog | Simon Farshid | Substack
- - [https://yonom.substack.com](https://yonom.substack.com)
- - date published: 2024-01-09T01:46:10.208730+00:00
- - user: None
- - tags: []
-
-## Simon's Blog | Simon Farshid | Substack
  - [http://yonom.substack.com](http://yonom.substack.com)
  - date published: 2024-02-26T12:59:31.184768+00:00
  - user: None
  - tags: []
 
-## Your Local Epidemiologist | Katelyn Jetelina | Substack
- - [https://yourlocalepidemiologist.substack.com](https://yourlocalepidemiologist.substack.com)
- - date published: 2024-01-09T01:46:11.980363+00:00
+## Simon's Blog | Simon Farshid | Substack
+ - [https://yonom.substack.com](https://yonom.substack.com)
+ - date published: 2024-01-09T01:46:10.208730+00:00
  - user: None
  - tags: []
 
 ## Your Local Epidemiologist | Katelyn Jetelina | Substack
  - [http://yourlocalepidemiologist.substack.com](http://yourlocalepidemiologist.substack.com)
  - date published: 2024-02-26T14:40:09.365548+00:00
+ - user: None
+ - tags: []
+
+## Your Local Epidemiologist | Katelyn Jetelina | Substack
+ - [https://yourlocalepidemiologist.substack.com](https://yourlocalepidemiologist.substack.com)
+ - date published: 2024-01-09T01:46:11.980363+00:00
  - user: None
  - tags: []
 
@@ -347,14 +479,14 @@
  - tags: []
 
 ## Supabase | The Open Source Firebase Alternative
- - [https://supabase.com](https://supabase.com)
- - date published: 2023-10-25T17:19:31.509105+00:00
+ - [http://supabase.com](http://supabase.com)
+ - date published: 2024-02-25T15:22:27.364013+00:00
  - user: None
  - tags: []
 
 ## Supabase | The Open Source Firebase Alternative
- - [http://supabase.com](http://supabase.com)
- - date published: 2024-02-25T15:22:27.364013+00:00
+ - [https://supabase.com](https://supabase.com)
+ - date published: 2023-10-25T17:19:31.509105+00:00
  - user: None
  - tags: []
 
@@ -645,6 +777,12 @@
  - date published: 2024-02-23T00:00:00+00:00
  - user: None
  - tags: []
+
+## swiftInsta • Best and Fast Instagram Scraper API Provider
+ - [https://swiftinsta.com](https://swiftinsta.com)
+ - date published: 2024-04-22T19:22:31+00:00
+ - user: rumpel
+ - tags: ['web scraping']
 
 ## Swift Publisher — Desktop Publishing and Page Layout Software for Mac
  - [https://www.swiftpublisher.com](https://www.swiftpublisher.com)
@@ -1294,6 +1432,12 @@
  - user: None
  - tags: []
 
+## TASS Russian News Agency
+ - [https://tass.com](https://tass.com)
+ - date published: 2024-04-22T15:56:36+00:00
+ - user: rumpel
+ - tags: ['russia news']
+
 ## Tasshin
  - [https://tasshin.com](https://tasshin.com)
  - date published: 2023-10-25T17:23:31.495484+00:00
@@ -1916,7 +2060,7 @@
  - [https://www.telerik.com](https://www.telerik.com)
  - date published: 2023-10-25T17:26:36.939420+00:00
  - user: None
- - tags: []
+ - tags: ['proprietary']
 
 ## Teller Report
  - [https://www.tellerreport.com](https://www.tellerreport.com)
@@ -2483,16 +2627,16 @@
  - tags: []
 
 ## Construction's Leading Video Channel - The B1M
- - [https://www.theb1m.com](https://www.theb1m.com)
- - date published: 2023-11-20T12:43:48.423603+00:00
- - user: None
- - tags: ['architecture', 'engineering', 'construction']
-
-## Construction's Leading Video Channel - The B1M
  - [http://www.theb1m.com](http://www.theb1m.com)
  - date published: 2024-02-21T00:00:00+00:00
  - user: None
  - tags: []
+
+## Construction's Leading Video Channel - The B1M
+ - [https://www.theb1m.com](https://www.theb1m.com)
+ - date published: 2023-11-20T12:43:48.423603+00:00
+ - user: None
+ - tags: ['architecture', 'engineering', 'construction']
 
 ## The Baffler—The Journal That Blunts the Cutting Edge
  - [https://thebaffler.com](https://thebaffler.com)
@@ -3139,14 +3283,14 @@
  - tags: ['news']
 
 ## Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
- - [http://www.thefreedictionary.com](http://www.thefreedictionary.com)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://www.thefreedictionary.com](https://www.thefreedictionary.com)
+ - date published: 2023-10-25T09:28:50.951090+00:00
  - user: None
  - tags: ['dictionary']
 
 ## Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
- - [https://www.thefreedictionary.com](https://www.thefreedictionary.com)
- - date published: 2023-10-25T09:28:50.951090+00:00
+ - [http://www.thefreedictionary.com](http://www.thefreedictionary.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: ['dictionary']
 
@@ -4405,16 +4549,16 @@
  - tags: ['personal']
 
 ## The Verge
- - [http://www.theverge.com](http://www.theverge.com)
- - date published: 2024-02-26T14:01:17.871855+00:00
- - user: None
- - tags: []
-
-## The Verge
  - [https://www.theverge.com](https://www.theverge.com)
  - date published: 2023-10-25T10:29:09.149200+00:00
  - user: None
  - tags: ['news']
+
+## The Verge
+ - [http://www.theverge.com](http://www.theverge.com)
+ - date published: 2024-02-26T14:01:17.871855+00:00
+ - user: None
+ - tags: []
 
 ## About
  - [https://blog.thevinter.com](https://blog.thevinter.com)
@@ -4987,15 +5131,15 @@
  - user: None
  - tags: []
 
-## Tibia - Free Massively Multiplayer Online Role-Playing Game - MMORPG
- - [https://www.tibia.com](https://www.tibia.com)
- - date published: 2023-10-25T17:41:36.567476+00:00
- - user: None
- - tags: []
-
 ## Tibia - Free Multiplayer Online Role Playing Game
  - [http://www.tibia.com](http://www.tibia.com)
  - date published: 2016-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Tibia - Free Massively Multiplayer Online Role-Playing Game - MMORPG
+ - [https://www.tibia.com](https://www.tibia.com)
+ - date published: 2023-10-25T17:41:36.567476+00:00
  - user: None
  - tags: []
 
@@ -5182,14 +5326,14 @@
  - tags: ['personal']
 
 ## TimDbg
- - [http://www.timdbg.com](http://www.timdbg.com)
- - date published: 2024-01-18T00:00:00+00:00
+ - [https://www.timdbg.com](https://www.timdbg.com)
+ - date published: 2023-10-25T17:42:00.344194+00:00
  - user: None
  - tags: []
 
 ## TimDbg
- - [https://www.timdbg.com](https://www.timdbg.com)
- - date published: 2023-10-25T17:42:00.344194+00:00
+ - [http://www.timdbg.com](http://www.timdbg.com)
+ - date published: 2024-01-18T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5452,14 +5596,14 @@
  - tags: ['personal']
 
 ## Blog do Tino Gomes
- - [http://blog.tinogomes.com](http://blog.tinogomes.com)
- - date published: 2024-04-03T06:24:29.843795+00:00
+ - [https://blog.tinogomes.com](https://blog.tinogomes.com)
+ - date published: 2023-12-17T05:07:31.704120+00:00
  - user: None
  - tags: ['personal']
 
 ## Blog do Tino Gomes
- - [https://blog.tinogomes.com](https://blog.tinogomes.com)
- - date published: 2023-12-17T05:07:31.704120+00:00
+ - [http://blog.tinogomes.com](http://blog.tinogomes.com)
+ - date published: 2024-04-03T06:24:29.843795+00:00
  - user: None
  - tags: ['personal']
 
@@ -5476,14 +5620,14 @@
  - tags: []
 
 ## Tiny Subversions | Darius Kazemi
- - [http://tinysubversions.com](http://tinysubversions.com)
- - date published: 2024-02-26T14:09:56.377973+00:00
+ - [https://tinysubversions.com](https://tinysubversions.com)
+ - date published: 2023-10-25T17:43:12.693676+00:00
  - user: None
  - tags: []
 
 ## Tiny Subversions | Darius Kazemi
- - [https://tinysubversions.com](https://tinysubversions.com)
- - date published: 2023-10-25T17:43:12.693676+00:00
+ - [http://tinysubversions.com](http://tinysubversions.com)
+ - date published: 2024-02-26T14:09:56.377973+00:00
  - user: None
  - tags: []
 
@@ -5856,150 +6000,6 @@
 ## Barley Yields from Wide-Form Data
  - [https://www.toolofthought.com](https://www.toolofthought.com)
  - date published: 2023-11-26T00:45:42.871246+00:00
- - user: None
- - tags: []
-
-## Andy Hunt's Toolshed Technologies Home Page
- - [https://toolshed.com](https://toolshed.com)
- - date published: 2023-12-24T02:31:25.107056+00:00
- - user: None
- - tags: ['personal']
-
-## Tooth Artifacts | Human teeth jewelry | Real teeth jewelry
- - [https://www.toothantique.com](https://www.toothantique.com)
- - date published: 2023-10-25T17:44:27.660101+00:00
- - user: None
- - tags: []
-
-## None
- - [https://topagree.com](https://topagree.com)
- - date published: 2024-01-09T02:51:40.592780+00:00
- - user: None
- - tags: []
-
-## https://www.topdrumgear.com
- - [https://www.topdrumgear.com](https://www.topdrumgear.com)
- - date published: 2024-01-16T23:53:18.254793+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.topgear.com](https://www.topgear.com)
- - date published: 2023-12-06T14:02:30.746280+00:00
- - user: None
- - tags: []
-
-## Top Mud Sites - MUD and RPG Rankings - Mud Database, RPG & MUD Forums, MUD Articles, MUD Reviews
- - [https://www.topmudsites.com](https://www.topmudsites.com)
- - date published: 2024-03-27T20:46:19+00:00
- - user: rumpel
- - tags: ['mud game']
-
-## Top Mud Sites - MUD and RPG Rankings - Mud Database, RPG & MUD Forums, MUD Articles, MUD Reviews
- - [http://www.topmudsites.com](http://www.topmudsites.com)
- - date published: 2024-03-27T20:46:53.062376+00:00
- - user: None
- - tags: []
-
-## Navratilova Apartment in Prague (Czech Republic), top-pragueapartments.com - Photos
- - [https://navratilova-apartments.top-pragueapartments.com](https://navratilova-apartments.top-pragueapartments.com)
- - date published: 2024-02-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.topspeed.com](https://www.topspeed.com)
- - date published: 2024-01-09T02:51:41.114038+00:00
- - user: None
- - tags: []
-
-## Tor.com | Science fiction. Fantasy. The universe. And related subjects.
- - [https://www.tor.com](https://www.tor.com)
- - date published: 2023-10-25T17:44:34.590867+00:00
- - user: None
- - tags: ['fantasy news']
-
-## Tor/Forge Blog - Science Fiction, Fantasy, Horror, Mystery, Thriller & Suspense, and Other Speculative Fiction
- - [https://www.torforgeblog.com](https://www.torforgeblog.com)
- - date published: 2024-02-24T18:23:46.528923+00:00
- - user: None
- - tags: []
-
-## toronto.com | Latest Daily Breaking News Stories
- - [https://www.toronto.com](https://www.toronto.com)
- - date published: 2023-11-11T20:00:21.025764+00:00
- - user: None
- - tags: []
-
-## toronto.com | Latest Daily Breaking News Stories
- - [http://www.toronto.com](http://www.toronto.com)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Toronto Life
- - [https://torontolife.com](https://torontolife.com)
- - date published: 2023-10-25T17:44:44.016018+00:00
- - user: None
- - tags: []
-
-## Home | Toronto Sun Home Page | Toronto Sun
- - [https://torontosun.com](https://torontosun.com)
- - date published: 2023-10-25T17:44:56.380706+00:00
- - user: None
- - tags: []
-
-## TorrentFreak - News
- - [https://torrentfreak.com](https://torrentfreak.com)
- - date published: 2023-10-25T17:44:57.688554+00:00
- - user: None
- - tags: ['privacy', 'news']
-
-## Home - Torrington Telegram
- - [https://www.torringtontelegram.com](https://www.torringtontelegram.com)
- - date published: 2024-03-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Tortoise
- - [https://www.tortoisemedia.com](https://www.tortoisemedia.com)
- - date published: 2023-10-31T04:18:45.594409+00:00
- - user: None
- - tags: ['news', 'politic news']
-
-## home
- - [https://tosatur.com](https://tosatur.com)
- - date published: 2024-01-28T23:15:50.482487+00:00
- - user: None
- - tags: []
-
-## Tosbourn – Belfast based Ruby developers
- - [https://tosbourn.com](https://tosbourn.com)
- - date published: 2024-01-06T08:56:21.590129+00:00
- - user: None
- - tags: []
-
-## ToS Notify
- - [https://tosnotify.com](https://tosnotify.com)
- - date published: 2023-10-25T17:44:58.740805+00:00
- - user: None
- - tags: []
-
-## Totality of Evidence Home
- - [https://totalityofevidence.com](https://totalityofevidence.com)
- - date published: 2023-10-25T17:45:02.485633+00:00
- - user: None
- - tags: []
-
-## JavaScript libraries and components for web development - Total.js Platform
- - [https://www.totaljs.com](https://www.totaljs.com)
- - date published: 2023-10-25T17:45:03.509721+00:00
- - user: None
- - tags: []
-
-## Professional TypeScript Training by Matt Pocock  | Total TypeScript
- - [https://www.totaltypescript.com](https://www.totaltypescript.com)
- - date published: 2023-10-25T17:45:05.114856+00:00
  - user: None
  - tags: []
 

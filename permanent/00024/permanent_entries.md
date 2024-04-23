@@ -1,3 +1,303 @@
+## Ask a Manager
+ - [https://www.askamanager.org](https://www.askamanager.org)
+ - date published: 2023-10-25T21:00:28.272656+00:00
+ - user: None
+ - tags: []
+
+## American Society for Microbiology
+ - [https://asm.org](https://asm.org)
+ - date published: 2023-12-10T10:55:47.423978+00:00
+ - user: None
+ - tags: ['microbiology', 'organization']
+
+## https://journals.asm.org
+ - [https://journals.asm.org](https://journals.asm.org)
+ - date published: 2023-11-13T10:20:42.113220+00:00
+ - user: None
+ - tags: []
+
+## asmBB ForumThreads list /
+ - [https://asmbb.org](https://asmbb.org)
+ - date published: 2024-01-13T20:20:38.168478+00:00
+ - user: None
+ - tags: []
+
+## Home - ASM International
+ - [https://www.asminternational.org](https://www.asminternational.org)
+ - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## AssemblyScript
+ - [https://www.assemblyscript.org](https://www.assemblyscript.org)
+ - date published: 2023-10-25T21:00:34.720207+00:00
+ - user: None
+ - tags: []
+
+## astrobites | the astro-ph reader's digest
+ - [https://astrobites.org](https://astrobites.org)
+ - date published: 2023-10-25T21:00:38.772984+00:00
+ - user: None
+ - tags: []
+
+## Atari SAP Music Archive
+ - [http://asma.atari.org](http://asma.atari.org)
+ - date published: 2024-02-11T13:39:23.327694+00:00
+ - user: None
+ - tags: ['chiptune', 'keygen']
+
+## ATARI.ORG / Home / The Definitive Atari Resource on the Internet
+ - [http://atari.org](http://atari.org)
+ - date published: 2024-04-16T11:04:09+00:00
+ - user: rumpel
+ - tags: []
+
+## AtariArchives.org - archiving vintage computer books, information, and software
+ - [https://www.atariarchives.org](https://www.atariarchives.org)
+ - date published: 2024-01-09T03:38:23+00:00
+ - user: rumpel
+ - tags: ['retro games', 'atari']
+
+## Atlantic Council - Shaping the global future together
+ - [https://www.atlanticcouncil.org](https://www.atlanticcouncil.org)
+ - date published: 2023-10-25T21:00:45.775086+00:00
+ - user: None
+ - tags: []
+
+## Atlas of Surveillance
+ - [https://atlasofsurveillance.org](https://atlasofsurveillance.org)
+ - date published: 2023-10-25T21:00:52.536001+00:00
+ - user: None
+ - tags: []
+
+## Nuclear Museum
+ - [https://www.atomicheritage.org](https://www.atomicheritage.org)
+ - date published: 2023-10-25T21:00:56.284988+00:00
+ - user: None
+ - tags: []
+
+## Notes
+ - [https://notes.atomutek.org](https://notes.atomutek.org)
+ - date published: 2020-04-17T00:00:00+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## AttorneyHelp.org: attorney finder, attorney at law, lawyers and law firms
+ - [https://www.attorneyhelp.org](https://www.attorneyhelp.org)
+ - date published: 2023-10-25T21:00:59.206451+00:00
+ - user: None
+ - tags: []
+
+## Audacity ® | Free, open source, cross-platform audio software for multi-track recording and editing.
+ - [https://www.audacityteam.org](https://www.audacityteam.org)
+ - date published: 2023-10-27T15:11:33.412728+00:00
+ - user: None
+ - tags: ['program', 'open source', 'audio editor']
+
+## audiobookshelf
+ - [https://audiobookshelf.org](https://audiobookshelf.org)
+ - date published: 2024-04-08T19:27:04.583626+00:00
+ - user: None
+ - tags: ['self-host']
+
+## audiobookshelf
+ - [https://www.audiobookshelf.org](https://www.audiobookshelf.org)
+ - date published: 2024-04-17T18:25:11.118660+00:00
+ - user: None
+ - tags: ['open source', 'self-host']
+
+## National Audubon Society
+ - [https://www.audubon.org](https://www.audubon.org)
+ - date published: 2024-04-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## AUMAAN
+ - [https://www.aumaan.org](https://www.aumaan.org)
+ - date published: 2024-04-08T10:07:32+00:00
+ - user: rumpel
+ - tags: ['metal gear solid']
+
+## Aurora Store - Download Aurora Store Apk for Android {4.1.1}
+ - [https://aurorastore.org](https://aurorastore.org)
+ - date published: 2023-10-24T20:10:48.155491+00:00
+ - user: None
+ - tags: ['app store']
+
+## The Austral Programming Language
+ - [https://austral-lang.org](https://austral-lang.org)
+ - date published: 2023-10-25T21:01:00.378599+00:00
+ - user: None
+ - tags: []
+
+## Authlib 1.2.1 documentation
+ - [https://docs.authlib.org](https://docs.authlib.org)
+ - date published: 2023-10-25T21:01:03.202811+00:00
+ - user: None
+ - tags: []
+
+## Support Authors Who Write to Be Read
+ - [https://www.authorsalliance.org](https://www.authorsalliance.org)
+ - date published: 2024-03-20T18:08:12.640906+00:00
+ - user: None
+ - tags: []
+
+## Home - Auto Inflammatory Diseases
+ - [https://autoinflammatorydiseases.org](https://autoinflammatorydiseases.org)
+ - date published: 2024-02-10T21:26:41.452236+00:00
+ - user: None
+ - tags: ['personal']
+
+## Automad / A Flat-File CMS and Template Engine
+ - [https://automad.org](https://automad.org)
+ - date published: 2024-04-08T19:27:05.275708+00:00
+ - user: None
+ - tags: ['content management system', 'self-host']
+
+## Automerge CRDT | Automerge CRDT
+ - [https://automerge.org](https://automerge.org)
+ - date published: 2023-10-25T21:01:03.984023+00:00
+ - user: None
+ - tags: []
+
+## AutoML | Home
+ - [https://www.automl.org](https://www.automl.org)
+ - date published: 2023-10-25T21:01:07.662664+00:00
+ - user: None
+ - tags: []
+
+## https://avidemux.org
+ - [https://avidemux.org](https://avidemux.org)
+ - date published: 2023-10-27T15:09:51.491446+00:00
+ - user: None
+ - tags: ['video editor', 'program']
+
+## The Awesome Foundation
+ - [https://www.awesomefoundation.org](https://www.awesomefoundation.org)
+ - date published: 2024-03-13T15:24:26.070241+00:00
+ - user: None
+ - tags: []
+
+## Axrt.org - Home of AxRuntime
+ - [https://axrt.org](https://axrt.org)
+ - date published: 2023-12-11T19:00:28.480909+00:00
+ - user: None
+ - tags: []
+
+## Andrew Zich — Index
+ - [https://azich.org](https://azich.org)
+ - date published: 2024-01-28T06:37:10.619277+00:00
+ - user: None
+ - tags: []
+
+## Cronkite News
+ - [https://cronkitenews.azpbs.org](https://cronkitenews.azpbs.org)
+ - date published: 2023-10-25T21:01:12.611551+00:00
+ - user: None
+ - tags: []
+
+## Project Bacalhau | Substack
+ - [https://blog.bacalhau.org](https://blog.bacalhau.org)
+ - date published: 2023-11-02T19:49:28.605024+00:00
+ - user: None
+ - tags: []
+
+## Cosma's Home Page
+ - [http://bactra.org](http://bactra.org)
+ - date published: 2023-12-24T22:49:06.589211+00:00
+ - user: None
+ - tags: []
+
+## British and Irish Legal Information Institute
+ - [https://www.bailii.org](https://www.bailii.org)
+ - date published: 2023-12-16T09:56:11.836456+00:00
+ - user: None
+ - tags: []
+
+## https://ballotpedia.org
+ - [https://ballotpedia.org](https://ballotpedia.org)
+ - date published: 2023-11-07T14:32:58.201410+00:00
+ - user: None
+ - tags: []
+
+## Balzhur Mud
+ - [https://www.balzhur.org](https://www.balzhur.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Bandcamp United - Home
+ - [https://www.bandcampunited.org](https://www.bandcampunited.org)
+ - date published: 2023-10-25T21:01:13.837050+00:00
+ - user: None
+ - tags: []
+
+## Basilisk web browser
+ - [https://www.basilisk-browser.org](https://www.basilisk-browser.org)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['web browser']
+
+## BatMUD
+ - [http://www.bat.org](http://www.bat.org)
+ - date published: 1990-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## BatMUD
+ - [https://www.bat.org](https://www.bat.org)
+ - date published: 1990-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## American Battlefield Trust | Preserving Hallowed Battlegrounds
+ - [https://www.battlefields.org](https://www.battlefields.org)
+ - date published: 2023-10-25T21:01:20.247116+00:00
+ - user: None
+ - tags: []
+
+## Daniil Baturin
+ - [https://baturin.org](https://baturin.org)
+ - date published: 2023-10-25T21:01:27.335713+00:00
+ - user: None
+ - tags: []
+
+## Bay Nature Magazine Home
+ - [https://baynature.org](https://baynature.org)
+ - date published: 2023-10-25T10:17:13.593504+00:00
+ - user: None
+ - tags: []
+
+## bbPress.org
+ - [https://bbpress.org](https://bbpress.org)
+ - date published: 2023-10-25T08:30:41.324417+00:00
+ - user: None
+ - tags: []
+
+## bcachefs
+ - [https://bcachefs.org](https://bcachefs.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Beacon Press: Home Page
+ - [https://www.beacon.org](https://www.beacon.org)
+ - date published: 2024-04-05T14:39:34.622932+00:00
+ - user: None
+ - tags: []
+
+## BeagleBoard - open hardware computers for makers, educators and professionals
+ - [https://beagleboard.org](https://beagleboard.org)
+ - date published: 2023-10-25T21:01:32.681324+00:00
+ - user: None
+ - tags: []
+
+## BeagleBoard - open hardware computers for makers, educators and professionals
+ - [https://www.beagleboard.org](https://www.beagleboard.org)
+ - date published: 2023-10-25T21:01:37.390014+00:00
+ - user: None
+ - tags: []
+
 ## BearSSL - Main
  - [https://bearssl.org](https://bearssl.org)
  - date published: 2023-10-25T21:01:39.618430+00:00
@@ -1750,7 +2050,7 @@
  - [https://www.computer.org](https://www.computer.org)
  - date published: 2023-10-25T21:09:38.026804+00:00
  - user: None
- - tags: []
+ - tags: ['computer organisation']
 
 ## Home - CHM
  - [https://computerhistory.org](https://computerhistory.org)
@@ -1999,14 +2299,14 @@
  - tags: ['personal']
 
 ## Homepage - Creative Commons
- - [http://creativecommons.org](http://creativecommons.org)
- - date published: 2024-03-21T07:44:18.617797+00:00
+ - [https://creativecommons.org](https://creativecommons.org)
+ - date published: 2023-12-11T16:22:52.219620+00:00
  - user: None
  - tags: []
 
 ## Homepage - Creative Commons
- - [https://creativecommons.org](https://creativecommons.org)
- - date published: 2023-12-11T16:22:52.219620+00:00
+ - [http://creativecommons.org](http://creativecommons.org)
+ - date published: 2024-03-21T07:44:18.617797+00:00
  - user: None
  - tags: []
 
@@ -3128,16 +3428,16 @@
  - tags: []
 
 ## Kohina Web Player
- - [https://kohina.duckdns.org](https://kohina.duckdns.org)
- - date published: 2024-02-15T22:13:24.519956+00:00
- - user: None
- - tags: ['demoscene']
-
-## Kohina Web Player
  - [http://kohina.duckdns.org](http://kohina.duckdns.org)
  - date published: 2024-02-11T14:38:28.495727+00:00
  - user: None
  - tags: []
+
+## Kohina Web Player
+ - [https://kohina.duckdns.org](https://kohina.duckdns.org)
+ - date published: 2024-02-15T22:13:24.519956+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Duck DNS
  - [https://www.duckdns.org](https://www.duckdns.org)
@@ -3599,7 +3899,7 @@
  - [https://emulationstation.org](https://emulationstation.org)
  - date published: 2023-10-25T08:33:41.083763+00:00
  - user: None
- - tags: ['emulation']
+ - tags: ['emulation', 'emulator frontend']
 
 ## Centre for Research on Energy and Clean Air
  - [https://energyandcleanair.org](https://energyandcleanair.org)
@@ -3971,7 +4271,7 @@
  - [https://f4pga.org](https://f4pga.org)
  - date published: 2023-10-25T21:19:57.352430+00:00
  - user: None
- - tags: []
+ - tags: ['fpga', 'tool chain', 'open source']
 
 ## Home
  - [https://www.facs.org](https://www.facs.org)
@@ -5006,16 +5306,16 @@
  - tags: []
 
 ## Gamesboro Radio
- - [https://radio.gamesboro.org](https://radio.gamesboro.org)
- - date published: 2024-02-15T22:13:54.975381+00:00
- - user: None
- - tags: ['demoscene']
-
-## Gamesboro Radio
  - [http://radio.gamesboro.org](http://radio.gamesboro.org)
  - date published: 2024-02-15T02:00:21.565467+00:00
  - user: None
  - tags: []
+
+## Gamesboro Radio
+ - [https://radio.gamesboro.org](https://radio.gamesboro.org)
+ - date published: 2024-02-15T22:13:54.975381+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Gamesboro Shoutcast
  - [http://shoutcast.gamesboro.org](http://shoutcast.gamesboro.org)
@@ -5381,14 +5681,14 @@
  - tags: []
 
 ## Welcome to GMPG
- - [https://gmpg.org](https://gmpg.org)
- - date published: 2023-12-11T15:48:25.754545+00:00
+ - [http://gmpg.org](http://gmpg.org)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Welcome to GMPG
- - [http://gmpg.org](http://gmpg.org)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://gmpg.org](https://gmpg.org)
+ - date published: 2023-12-11T15:48:25.754545+00:00
  - user: None
  - tags: []
 
@@ -5471,14 +5771,14 @@
  - tags: []
 
 ## GNOME Release Notes
- - [http://release.gnome.org](http://release.gnome.org)
- - date published: 2024-03-21T07:44:19.473641+00:00
+ - [https://release.gnome.org](https://release.gnome.org)
+ - date published: 2024-03-20T18:08:17.213656+00:00
  - user: None
  - tags: []
 
 ## GNOME Release Notes
- - [https://release.gnome.org](https://release.gnome.org)
- - date published: 2024-03-20T18:08:17.213656+00:00
+ - [http://release.gnome.org](http://release.gnome.org)
+ - date published: 2024-03-21T07:44:19.473641+00:00
  - user: None
  - tags: []
 
@@ -5708,306 +6008,6 @@
 ## Bible Questions Answered | GotQuestions.org
  - [https://www.gotquestions.org](https://www.gotquestions.org)
  - date published: 2002-04-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## GovLeaders.org - Growing Leaders for the Public Service
- - [https://govleaders.org](https://govleaders.org)
- - date published: 2023-10-25T21:27:03.116588+00:00
- - user: None
- - tags: []
-
-## Gilly Runs a Marathon || If you've lost your faith in love and music, the end won't be long / Because if it's gone for you, well, I too may lose it and that would be wrong.
- - [https://gpacheco.org](https://gpacheco.org)
- - date published: 2023-12-22T22:28:40.835872+00:00
- - user: None
- - tags: ['personal']
-
-## GPlates: Open-source software for interactive visualisation of plate tectonics
- - [https://www.gplates.org](https://www.gplates.org)
- - date published: 2024-02-16T23:10:24+00:00
- - user: None
- - tags: []
-
-## GPSJAM GPS/GNSS Interference Map
- - [https://gpsjam.org](https://gpsjam.org)
- - date published: 2023-10-25T21:27:04.103247+00:00
- - user: None
- - tags: []
-
-## GraalVM
- - [https://www.graalvm.org](https://www.graalvm.org)
- - date published: 2023-10-25T21:27:05.271343+00:00
- - user: None
- - tags: []
-
-## grain.org
- - [https://grain.org](https://grain.org)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Grand Egyptian Museum – Estimated opening: Late-2023 or Early-2024
- - [https://grandegyptianmuseum.org](https://grandegyptianmuseum.org)
- - date published: 2023-10-27T13:05:42.702945+00:00
- - user: None
- - tags: ['museum']
-
-## GrapheneOS: the private and secure mobile OS
- - [https://grapheneos.org](https://grapheneos.org)
- - date published: 2023-10-30T16:18:44.734101+00:00
- - user: None
- - tags: ['operating system', 'android', 'open source']
-
-## GrapheneOS: the private and secure mobile OS
- - [https://staging.grapheneos.org](https://staging.grapheneos.org)
- - date published: 2014-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Grand Rapids Children's Museum
- - [https://www.grcm.org](https://www.grcm.org)
- - date published: 2024-02-08T22:52:06.549629+00:00
- - user: None
- - tags: []
-
-## Investigative journalism from Greenpeace UK
- - [https://unearthed.greenpeace.org](https://unearthed.greenpeace.org)
- - date published: 2024-01-09T03:40:43.553871+00:00
- - user: None
- - tags: []
-
-## Greenpeace
- - [https://www.greenpeace.org](https://www.greenpeace.org)
- - date published: 2023-10-25T21:27:06.203930+00:00
- - user: None
- - tags: []
-
-## Personal website of Gregory S. Donner
- - [https://www.gregdonner.org](https://www.gregdonner.org)
- - date published: 2023-11-02T10:50:28.897514+00:00
- - user: None
- - tags: ['amiga', 'personal']
-
-## Gren
- - [https://gren-lang.org](https://gren-lang.org)
- - date published: 2023-10-25T21:27:06.909825+00:00
- - user: None
- - tags: []
-
-## Welcome to Grex: Public Access Unix (Legacy Site)
- - [https://grex.org](https://grex.org)
- - date published: 2023-10-25T21:27:12.688248+00:00
- - user: None
- - tags: []
-
-## Pavel Grinfeld
- - [https://grinfeld.org](https://grinfeld.org)
- - date published: 2023-10-25T21:27:14.153144+00:00
- - user: None
- - tags: []
-
-## GripTape Challenge - Learn How and What You Want
- - [https://www.griptape.org](https://www.griptape.org)
- - date published: 2023-10-25T21:27:16.108644+00:00
- - user: None
- - tags: []
-
-## Grist.org: Climate. Justice. Solutions. | Grist
- - [https://grist.org](https://grist.org)
- - date published: 2023-10-25T21:27:20.287221+00:00
- - user: None
- - tags: []
-
-## Grml Blog
- - [https://blog.grml.org](https://blog.grml.org)
- - date published: 2023-10-25T08:32:20.640698+00:00
- - user: None
- - tags: []
-
-## GTK Development Blog – All things GTK
- - [https://blog.gtk.org](https://blog.gtk.org)
- - date published: 2024-01-29T15:52:56.244750+00:00
- - user: None
- - tags: []
-
-## GTK Development Blog – All things GTK
- - [http://blog.gtk.org](http://blog.gtk.org)
- - date published: 2024-03-21T07:44:16.242776+00:00
- - user: None
- - tags: []
-
-## The GTK Project - A free and open-source cross-platform widget toolkit
- - [https://gtk.org](https://gtk.org)
- - date published: 2024-03-21T07:45:22+00:00
- - user: rumpel
- - tags: ['open source', 'graphical framework']
-
-## The GTK Project - A free and open-source cross-platform widget toolkit
- - [https://www.gtk.org](https://www.gtk.org)
- - date published: 2023-10-30T14:05:25.417060+00:00
- - user: None
- - tags: ['gtk', 'programming framework', 'open source']
-
-## GUIdebook: Graphical User Interface gallery
- - [https://guidebookgallery.org](https://guidebookgallery.org)
- - date published: 2023-10-25T21:27:21.314042+00:00
- - user: None
- - tags: []
-
-## Free eBooks | Project Gutenberg
- - [https://gutenberg.org](https://gutenberg.org)
- - date published: 2023-10-25T21:27:22.828743+00:00
- - user: None
- - tags: []
-
-## Free eBooks | Project Gutenberg
- - [https://www.gutenberg.org](https://www.gutenberg.org)
- - date published: 2023-10-25T09:29:03.291223+00:00
- - user: None
- - tags: ['ebooks', 'library']
-
-## Haiku Community
- - [https://discuss.haiku-os.org](https://discuss.haiku-os.org)
- - date published: 2023-10-25T21:27:25.896496+00:00
- - user: None
- - tags: []
-
-## Home | Haiku Project
- - [https://www.haiku-os.org](https://www.haiku-os.org)
- - date published: 2023-10-25T21:27:27.267272+00:00
- - user: None
- - tags: []
-
-## hails.org
- - [https://hails.org](https://hails.org)
- - date published: 2023-10-25T21:27:29.684298+00:00
- - user: None
- - tags: []
-
-## Halopedia
- - [https://www.halopedia.org](https://www.halopedia.org)
- - date published: 2024-03-02T02:33:16+00:00
- - user: rumpel
- - tags: ['halo game']
-
-## Joel David Hamkins | mathematics and philosophy of the infinite
- - [https://jdh.hamkins.org](https://jdh.hamkins.org)
- - date published: 2023-10-25T21:27:46.698687+00:00
- - user: None
- - tags: ['personal']
-
-## Hanami | The web, with simplicity
- - [https://hanamirb.org](https://hanamirb.org)
- - date published: 2023-10-25T21:27:52.118904+00:00
- - user: None
- - tags: []
-
-## Notes on Designing, Building, and Operating Model Railroads
- - [https://designbuildop.hansmanns.org](https://designbuildop.hansmanns.org)
- - date published: 2024-02-08T17:49:32.421764+00:00
- - user: None
- - tags: []
-
-## HAProxy - The Reliable, High Perf. TCP/HTTP Load Balancer
- - [https://www.haproxy.org](https://www.haproxy.org)
- - date published: 2023-10-25T21:27:56.904932+00:00
- - user: None
- - tags: []
-
-## The Hare programming language
- - [https://harelang.org](https://harelang.org)
- - date published: 2023-12-02T19:30:49.096219+00:00
- - user: None
- - tags: []
-
-## Home | Harper's Magazine
- - [https://harpers.org](https://harpers.org)
- - date published: 2023-10-25T21:28:02.019118+00:00
- - user: None
- - tags: []
-
-## Harvard Design Magazine - Harvard Design Magazine
- - [https://www.harvarddesignmagazine.org](https://www.harvarddesignmagazine.org)
- - date published: 2024-01-24T20:56:12.264603+00:00
- - user: None
- - tags: []
-
-## Harvard Law Review
- - [https://harvardlawreview.org](https://harvardlawreview.org)
- - date published: 2024-02-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Haskell Community - Haskell
- - [https://discourse.haskell.org](https://discourse.haskell.org)
- - date published: 2023-10-25T21:28:05.125703+00:00
- - user: None
- - tags: []
-
-## Sign in · GitLab
- - [https://gitlab.haskell.org](https://gitlab.haskell.org)
- - date published: 2023-10-25T21:28:06.166974+00:00
- - user: None
- - tags: []
-
-## Haskell Language
- - [https://haskell.org](https://haskell.org)
- - date published: 2024-04-07T10:53:38+00:00
- - user: rumpel
- - tags: ['programming language']
-
-## HaskellWiki
- - [https://wiki.haskell.org](https://wiki.haskell.org)
- - date published: 2024-04-07T06:56:27.229889+00:00
- - user: None
- - tags: []
-
-## Collections | HathiTrust Digital Library
- - [https://babel.hathitrust.org](https://babel.hathitrust.org)
- - date published: 2024-04-17T02:57:10.928073+00:00
- - user: None
- - tags: ['digital library', 'public domain']
-
-## Fanis Hatzidakis
- - [https://fanis.hatzidakis.org](https://fanis.hatzidakis.org)
- - date published: 2024-01-04T19:56:20.383113+00:00
- - user: None
- - tags: ['personal']
-
-## Fanis Hatzidakis
- - [http://fanis.hatzidakis.org](http://fanis.hatzidakis.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Haven: Host your own private blog
- - [https://havenweb.org](https://havenweb.org)
- - date published: 2023-10-25T21:28:07.014052+00:00
- - user: None
- - tags: []
-
-## The Hawai’i Seaglider Initiative | A New Approach to Travel Between the Islands
- - [https://www.hawaiiseaglider.org](https://www.hawaiiseaglider.org)
- - date published: 2024-01-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Harvard Business Review - Ideas and Advice for Leaders
- - [https://hbr.org](https://hbr.org)
- - date published: 2024-01-09T03:40:52.735325+00:00
- - user: None
- - tags: ['business news']
-
-## HCI Bibliography : Human-Computer Interaction Resources
- - [https://hcibib.org](https://hcibib.org)
- - date published: 2023-10-25T21:28:08.623566+00:00
- - user: None
- - tags: []
-
-## High Country News – Know the West
- - [https://www.hcn.org](https://www.hcn.org)
- - date published: 2023-10-25T21:28:11.840838+00:00
  - user: None
  - tags: []
 

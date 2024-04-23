@@ -1,3 +1,33 @@
+## Channel 4 | Stream & Watch Live TV
+ - [https://www.channel4.com](https://www.channel4.com)
+ - date published: 2023-10-30T21:58:20.006710+00:00
+ - user: None
+ - tags: []
+
+## CNA: Breaking News, Singapore News, World and Asia
+ - [https://www.channelnewsasia.com](https://www.channelnewsasia.com)
+ - date published: 2023-10-25T11:00:41.576145+00:00
+ - user: None
+ - tags: []
+
+## Channels Television - Breaking Nigerian News
+ - [https://www.channelstv.com](https://www.channelstv.com)
+ - date published: 2023-11-12T22:06:26.227303+00:00
+ - user: None
+ - tags: []
+
+## Chaos Dwarfs Online
+ - [https://discourse.chaos-dwarfs.com](https://discourse.chaos-dwarfs.com)
+ - date published: 2024-04-08T13:53:26+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'tabletop games']
+
+## Chaosium, Inc.
+ - [https://www.chaosium.com](https://www.chaosium.com)
+ - date published: 2024-03-27T00:00:00+00:00
+ - user: rumpel
+ - tags: ['ttrpg']
+
 ## ChapterOneAI Blog - Covering Everthing Resume Related
  - [https://blog.chapteroneai.com](https://blog.chapteroneai.com)
  - date published: 2024-04-11T00:00:00+00:00
@@ -199,6 +229,12 @@
 ## CPR - Check Point Research
  - [https://research.checkpoint.com](https://research.checkpoint.com)
  - date published: 2023-10-25T13:21:06.052525+00:00
+ - user: None
+ - tags: []
+
+## Checkr – Employee Background Screening for Companies
+ - [https://checkr.com](https://checkr.com)
+ - date published: 2024-04-18T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3256,14 +3292,14 @@
  - tags: ['cybersecurity']
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [https://craphound.com](https://craphound.com)
- - date published: 2023-11-28T07:36:32+00:00
+ - [http://craphound.com](http://craphound.com)
+ - date published: 2024-02-25T19:26:24.229621+00:00
  - user: None
  - tags: []
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [http://craphound.com](http://craphound.com)
- - date published: 2024-02-25T19:26:24.229621+00:00
+ - [https://craphound.com](https://craphound.com)
+ - date published: 2023-11-28T07:36:32+00:00
  - user: None
  - tags: []
 
@@ -3278,6 +3314,12 @@
  - date published: 2024-01-13T11:51:22.083085+00:00
  - user: None
  - tags: []
+
+## Web scraping and crawling anonymously | Crawlbase
+ - [https://crawlbase.com](https://crawlbase.com)
+ - date published: 2024-04-22T19:23:47+00:00
+ - user: rumpel
+ - tags: ['online tool', 'web scraping']
 
 ## Cloud based SEO reporting software, view performance, monitoring to improve SEO rankings. | CrawlMonster Crawl Monster
  - [https://www.crawlmonster.com](https://www.crawlmonster.com)
@@ -4888,6 +4930,12 @@
  - user: None
  - tags: []
 
+## Buy and Sell web-scraped data
+ - [https://www.databoutique.com](https://www.databoutique.com)
+ - date published: 2024-04-22T00:00:00+00:00
+ - user: rumpel
+ - tags: ['web scraping', 'data market place']
+
 ## Data Lakehouse Architecture and AI Company | Databricks
  - [https://www.databricks.com](https://www.databricks.com)
  - date published: 2023-10-25T13:43:30.770115+00:00
@@ -5955,52 +6003,4 @@
  - date published: 2024-04-07T16:16:23+00:00
  - user: rumpel
  - tags: ['personal', 'comics']
-
-## Show HN: I made a site that lets you make interactive demos for free
- - [https://www.demopond.com](https://www.demopond.com)
- - date published: 2024-04-14T09:26:58+00:00
- - user: None
- - tags: []
-
-## DemoTime. Magic highlights after every demo!
- - [https://demotime.com](https://demotime.com)
- - date published: 2023-10-25T13:49:00.328092+00:00
- - user: None
- - tags: []
-
-## Larry Denenberg's Home Page
- - [http://www.larry.denenberg.com](http://www.larry.denenberg.com)
- - date published: 2003-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Denis Defreyne
- - [https://denisdefreyne.com](https://denisdefreyne.com)
- - date published: 2024-04-07T04:31:42.968152+00:00
- - user: None
- - tags: []
-
-## Denise Cornell - Customer Marketing
- - [https://www.denisecornell.com](https://www.denisecornell.com)
- - date published: 2023-12-05T14:38:38.929100+00:00
- - user: None
- - tags: ['personal']
-
-## https://denisewakeman.com
- - [https://denisewakeman.com](https://denisewakeman.com)
- - date published: 2024-01-20T04:56:52.324928+00:00
- - user: None
- - tags: []
-
-## Denis Reis
- - [https://www.denisreis.com](https://www.denisreis.com)
- - date published: 2023-11-29T17:09:24.363537+00:00
- - user: None
- - tags: ['personal']
-
-## Denis Reis
- - [http://www.denisreis.com](http://www.denisreis.com)
- - date published: 2024-04-03T12:48:01.262493+00:00
- - user: None
- - tags: ['personal']
 

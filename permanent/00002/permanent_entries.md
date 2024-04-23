@@ -1,3 +1,9 @@
+## Articles about bootstrapping a business in tech, web development, and leadership. | Adam Waselnuk
+ - [https://www.adamwaselnuk.com](https://www.adamwaselnuk.com)
+ - date published: 2024-01-13T09:37:38.534463+00:00
+ - user: None
+ - tags: []
+
 ## Adam Weigand
  - [https://adamweigand.com](https://adamweigand.com)
  - date published: 2023-12-30T09:52:07.005007+00:00
@@ -223,14 +229,14 @@
  - tags: []
 
 ## Home - Adventure Hermit Travel
- - [http://adventurehermit.com](http://adventurehermit.com)
- - date published: 2020-05-19T07:46:57+00:00
+ - [https://adventurehermit.com](https://adventurehermit.com)
+ - date published: 2024-01-06T08:54:27.239976+00:00
  - user: None
  - tags: []
 
 ## Home - Adventure Hermit Travel
- - [https://adventurehermit.com](https://adventurehermit.com)
- - date published: 2024-01-06T08:54:27.239976+00:00
+ - [http://adventurehermit.com](http://adventurehermit.com)
+ - date published: 2020-05-19T07:46:57+00:00
  - user: None
  - tags: []
 
@@ -793,16 +799,16 @@
  - tags: []
 
 ## Ajay Rajani
- - [http://www.ajayrajani.com](http://www.ajayrajani.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ajay Rajani
  - [https://www.ajayrajani.com](https://www.ajayrajani.com)
  - date published: 2024-01-06T17:58:15.245405+00:00
  - user: None
  - tags: ['personal']
+
+## Ajay Rajani
+ - [http://www.ajayrajani.com](http://www.ajayrajani.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## 人妻精品久久无码专区,色综合色鬼一本到综合久久88,久久精品免费
  - [https://www.ajbvideography.com](https://www.ajbvideography.com)
@@ -967,16 +973,16 @@
  - tags: ['personal']
 
 ## Alain Chautard – Alain's personal website
- - [http://www.alainchautard.com](http://www.alainchautard.com)
- - date published: 2024-03-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Alain Chautard – Alain's personal website
  - [https://www.alainchautard.com](https://www.alainchautard.com)
  - date published: 2024-02-09T14:01:11.712731+00:00
  - user: None
  - tags: ['personal']
+
+## Alain Chautard – Alain's personal website
+ - [http://www.alainchautard.com](http://www.alainchautard.com)
+ - date published: 2024-03-08T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Al Anany | Substack
  - [https://alanany.com](https://alanany.com)
@@ -1399,16 +1405,16 @@
  - tags: ['digital marketplace']
 
 ## Home -
- - [https://alifeunlived.com](https://alifeunlived.com)
- - date published: 2023-12-22T17:50:45.863289+00:00
- - user: None
- - tags: ['personal']
-
-## Home -
  - [http://alifeunlived.com](http://alifeunlived.com)
  - date published: 2015-08-20T00:00:00+00:00
  - user: None
  - tags: []
+
+## Home -
+ - [https://alifeunlived.com](https://alifeunlived.com)
+ - date published: 2023-12-22T17:50:45.863289+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Alin Panaitiu - Personal website
  - [https://alinpanaitiu.com](https://alinpanaitiu.com)
@@ -2038,7 +2044,7 @@
  - [https://amiberry.com](https://amiberry.com)
  - date published: 2023-11-02T10:54:13.941845+00:00
  - user: None
- - tags: ['amiga']
+ - tags: ['amiga', 'emulator']
 
 ## Amiga
  - [https://amiga.com](https://amiga.com)
@@ -2089,14 +2095,14 @@
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
- - date published: 2024-01-09T02:29:24.245847+00:00
+ - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
+ - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
- - date published: 2018-01-01T00:00:00+00:00
+ - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
+ - date published: 2024-01-09T02:29:24.245847+00:00
  - user: None
  - tags: []
 
@@ -2293,16 +2299,16 @@
  - tags: ['personal']
 
 ## Anaël Verdier – Surfer d'imaginaires
- - [http://anaelverdier.com](http://anaelverdier.com)
- - date published: 2024-04-03T06:31:21.733136+00:00
- - user: None
- - tags: ['personal']
-
-## Anaël Verdier – Surfer d'imaginaires
  - [https://anaelverdier.com](https://anaelverdier.com)
  - date published: 2023-11-29T17:07:23.087184+00:00
  - user: None
  - tags: []
+
+## Anaël Verdier – Surfer d'imaginaires
+ - [http://anaelverdier.com](http://anaelverdier.com)
+ - date published: 2024-04-03T06:31:21.733136+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Mixed-signal and digital signal processing ICs | Analog Devices
  - [https://www.analog.com](https://www.analog.com)
@@ -2371,16 +2377,16 @@
  - tags: []
 
 ## AndersenSilva.com
- - [http://andersensilva.com](http://andersensilva.com)
- - date published: 2022-05-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## AndersenSilva.com
  - [https://andersensilva.com](https://andersensilva.com)
  - date published: 2023-12-27T01:10:57.904709+00:00
  - user: None
  - tags: ['personal']
+
+## AndersenSilva.com
+ - [http://andersensilva.com](http://andersensilva.com)
+ - date published: 2022-05-05T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## ShunyaEkam.com
  - [https://andersentobias.com](https://andersentobias.com)
@@ -2569,16 +2575,16 @@
  - tags: []
 
 ## Andrew Roussak website
- - [http://www.andrew-roussak.com](http://www.andrew-roussak.com)
- - date published: 2024-04-03T06:23:08.552087+00:00
- - user: None
- - tags: ['personal']
-
-## Andrew Roussak website
  - [https://www.andrew-roussak.com](https://www.andrew-roussak.com)
  - date published: 2024-01-27T17:59:38.551672+00:00
  - user: None
  - tags: []
+
+## Andrew Roussak website
+ - [http://www.andrew-roussak.com](http://www.andrew-roussak.com)
+ - date published: 2024-04-03T06:23:08.552087+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Andrew Skotzko - Product leadership advisor - Make Things That Matter
  - [https://andrewskotzko.com](https://andrewskotzko.com)
@@ -3036,7 +3042,7 @@
  - user: None
  - tags: []
 
-## None
+## Redis - The Real-time Data Platform
  - [https://antirez.com](https://antirez.com)
  - date published: 2024-01-02T12:33:10.039907+00:00
  - user: None
@@ -3174,6 +3180,12 @@
  - user: None
  - tags: []
 
+## Apify Console
+ - [https://console.apify.com](https://console.apify.com)
+ - date published: 2024-04-22T19:25:21+00:00
+ - user: rumpel
+ - tags: ['web scraping']
+
 ## Home
  - [https://apiiro.com](https://apiiro.com)
  - date published: 2024-02-27T00:00:00+00:00
@@ -3216,7 +3228,7 @@
  - user: None
  - tags: ['music band']
 
-## None
+## Apollo Academy - Apollo Academy
  - [https://apolloacademy.com](https://apolloacademy.com)
  - date published: 2024-01-09T13:02:16.965527+00:00
  - user: None
@@ -3360,15 +3372,15 @@
  - user: None
  - tags: []
 
-## apple-history.com / specs for every apple computer, established 1996
- - [https://apple-history.com](https://apple-history.com)
- - date published: 2024-01-09T02:29:45.944627+00:00
- - user: None
- - tags: []
-
 ## apple-history.com
  - [http://apple-history.com](http://apple-history.com)
  - date published: 2024-02-26T14:43:28.639176+00:00
+ - user: None
+ - tags: []
+
+## apple-history.com / specs for every apple computer, established 1996
+ - [https://apple-history.com](https://apple-history.com)
+ - date published: 2024-01-09T02:29:45.944627+00:00
  - user: None
  - tags: []
 
@@ -3858,6 +3870,12 @@
  - user: None
  - tags: []
 
+## Arkime
+ - [https://arkime.com](https://arkime.com)
+ - date published: 2024-04-22T09:20:00+00:00
+ - user: rumpel
+ - tags: ['network tool', 'open source']
+
 ## Arkansas Times • Arkansas news, politics, opinion, restaurants, music, movies and art
  - [https://arktimes.com](https://arktimes.com)
  - date published: 2023-11-26T19:46:32.219657+00:00
@@ -4222,7 +4240,7 @@
  - [https://askdeepr.com](https://askdeepr.com)
  - date published: 2023-12-22T17:50:04.948259+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Ask God's words in different religions with AI
  - [https://askreligion.com](https://askreligion.com)
@@ -5482,7 +5500,7 @@
  - [https://bandcamp.com](https://bandcamp.com)
  - date published: 2023-11-13T09:21:59.175085+00:00
  - user: None
- - tags: ['crowdfunding', 'music', 'creator platform']
+ - tags: ['monetization', 'crowdfunding', 'creator platform', 'music', 'social media']
 
 ## Music | Championne
  - [https://championne.bandcamp.com](https://championne.bandcamp.com)
@@ -5827,16 +5845,16 @@
  - tags: []
 
 ## Bay 12 Games: Dwarf Fortress
- - [http://www.bay12games.com](http://www.bay12games.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Bay 12 Games: Dwarf Fortress
  - [https://www.bay12games.com](https://www.bay12games.com)
  - date published: 2023-10-25T11:08:28.145829+00:00
  - user: None
  - tags: ['video game', 'dwarf fortress']
+
+## Bay 12 Games: Dwarf Fortress
+ - [http://www.bay12games.com](http://www.bay12games.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Ryan Orrock's Tantra – Resources for Spirituality and Sexuality
  - [https://www.bayraba.com](https://www.bayraba.com)
@@ -5979,24 +5997,6 @@
 ## Beautiful Racket by Matthew Butterick
  - [https://beautifulracket.com](https://beautifulracket.com)
  - date published: 2023-10-25T12:54:59.402813+00:00
- - user: None
- - tags: []
-
-## Beaver Notes
- - [https://www.beavernotes.com](https://www.beavernotes.com)
- - date published: 2023-10-25T12:55:01.905590+00:00
- - user: None
- - tags: []
-
-## Becker News - Truly Independent Journalism.
- - [https://beckernews.com](https://beckernews.com)
- - date published: 2023-10-25T12:55:06.516634+00:00
- - user: None
- - tags: []
-
-## Becker's Hospital Review - Healthcare News
- - [https://www.beckershospitalreview.com](https://www.beckershospitalreview.com)
- - date published: 2023-10-25T12:55:13.587124+00:00
  - user: None
  - tags: []
 

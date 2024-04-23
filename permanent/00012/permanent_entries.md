@@ -1,3 +1,99 @@
+## International News Agency | Multimedia News Provider | Reuters
+ - [https://www.reutersagency.com](https://www.reutersagency.com)
+ - date published: 2023-10-25T16:50:47.197541+00:00
+ - user: None
+ - tags: []
+
+## Rev | AI Speech to Text Transcription Service
+ - [https://www.rev.com](https://www.rev.com)
+ - date published: 2023-11-27T13:30:27+00:00
+ - user: rumpel
+ - tags: ['transcript', 'artificial intelligence']
+
+## Charlie Revett (@revcd) • Software Engineer
+ - [https://revcd.com](https://revcd.com)
+ - date published: 2024-01-13T18:26:52.208850+00:00
+ - user: None
+ - tags: []
+
+## Home | Reverb Machine
+ - [https://reverbmachine.com](https://reverbmachine.com)
+ - date published: 2023-10-25T16:50:50.350568+00:00
+ - user: None
+ - tags: []
+
+## Reversemode
+ - [https://www.reversemode.com](https://www.reversemode.com)
+ - date published: 2023-10-25T16:50:52.011927+00:00
+ - user: None
+ - tags: []
+
+## Software Supply Chain Security & Threat Intelligence  | ReversingLabs
+ - [https://www.reversinglabs.com](https://www.reversinglabs.com)
+ - date published: 2023-10-25T16:50:55.808121+00:00
+ - user: None
+ - tags: []
+
+## Las Vegas News | Breaking News & Headlines | Las Vegas Review-Journal
+ - [https://www.reviewjournal.com](https://www.reviewjournal.com)
+ - date published: 2023-10-25T10:38:52.009999+00:00
+ - user: None
+ - tags: []
+
+## ReviewNB - Jupyter Notebook Code Reviews & Collaboration
+ - [https://www.reviewnb.com](https://www.reviewnb.com)
+ - date published: 2023-10-25T16:50:57.986129+00:00
+ - user: None
+ - tags: []
+
+## Revive Machines
+ - [https://revive-machines.com](https://revive-machines.com)
+ - date published: 2023-10-25T16:50:58.488773+00:00
+ - user: None
+ - tags: []
+
+## Revolut | All-in-one Finance App for your Money | Revolut
+ - [https://www.revolut.com](https://www.revolut.com)
+ - date published: 2023-10-25T14:49:03.844755+00:00
+ - user: None
+ - tags: ['banking']
+
+## https://blog.revolutionanalytics.com
+ - [https://blog.revolutionanalytics.com](https://blog.revolutionanalytics.com)
+ - date published: 2023-10-25T16:50:58.906287+00:00
+ - user: None
+ - tags: []
+
+## Hack Music Theory
+ - [https://revolutionharmony.com](https://revolutionharmony.com)
+ - date published: 2023-11-29T14:43:42.648215+00:00
+ - user: None
+ - tags: ['personal']
+
+## Présentation de la revue
+ - [https://tsi.revuesonline.com](https://tsi.revuesonline.com)
+ - date published: 2024-02-08T18:21:04.027898+00:00
+ - user: None
+ - tags: []
+
+## DJ Rewerb | Dein virtueller DJ Mentor mit Tipps zum DJing
+ - [https://rewerb.com](https://rewerb.com)
+ - date published: 2023-11-29T15:50:57.132805+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://rexresearch.com
+ - [https://rexresearch.com](https://rexresearch.com)
+ - date published: 2024-01-09T02:47:54.239076+00:00
+ - user: None
+ - tags: []
+
+## Hidden Grove | Ryan Fleury | Substack
+ - [https://www.rfleury.com](https://www.rfleury.com)
+ - date published: 2024-03-13T02:48:12.650067+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://www.rgj.com](https://www.rgj.com)
  - date published: 2023-11-21T18:14:02.751824+00:00
@@ -21,6 +117,12 @@
  - date published: 2023-10-25T16:51:09.866070+00:00
  - user: None
  - tags: []
+
+## Rian van der Merwe
+ - [https://rianvdm.com](https://rianvdm.com)
+ - date published: 2024-04-22T03:37:46.088456+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Ribbonfarm Studio | Venkatesh Rao | Substack
  - [https://studio.ribbonfarm.com](https://studio.ribbonfarm.com)
@@ -1163,14 +1265,14 @@
  - tags: ['personal']
 
 ## my blog
- - [http://ronzhyn.com](http://ronzhyn.com)
- - date published: 2024-04-03T12:46:15.138808+00:00
+ - [https://ronzhyn.com](https://ronzhyn.com)
+ - date published: 2023-12-03T01:43:15.181104+00:00
  - user: None
  - tags: ['personal']
 
 ## my blog
- - [https://ronzhyn.com](https://ronzhyn.com)
- - date published: 2023-12-03T01:43:15.181104+00:00
+ - [http://ronzhyn.com](http://ronzhyn.com)
+ - date published: 2024-04-03T12:46:15.138808+00:00
  - user: None
  - tags: ['personal']
 
@@ -2063,14 +2165,14 @@
  - tags: []
 
 ## Samsung Members Community
- - [http://r2.community.samsung.com](http://r2.community.samsung.com)
- - date published: 2024-02-26T14:44:02.734270+00:00
+ - [https://r2.community.samsung.com](https://r2.community.samsung.com)
+ - date published: 2024-01-20T05:57:49.133663+00:00
  - user: None
  - tags: []
 
 ## Samsung Members Community
- - [https://r2.community.samsung.com](https://r2.community.samsung.com)
- - date published: 2024-01-20T05:57:49.133663+00:00
+ - [http://r2.community.samsung.com](http://r2.community.samsung.com)
+ - date published: 2024-02-26T14:44:02.734270+00:00
  - user: None
  - tags: []
 
@@ -2249,16 +2351,16 @@
  - tags: []
 
 ## - SarahMcCulloch.com | With Strength and Spirit
- - [http://www.sarahmcculloch.com](http://www.sarahmcculloch.com)
- - date published: 2023-12-24T08:15:55.915305+00:00
- - user: None
- - tags: ['personal']
-
-## - SarahMcCulloch.com | With Strength and Spirit
  - [https://www.sarahmcculloch.com](https://www.sarahmcculloch.com)
  - date published: 2024-02-25T18:59:28.441249+00:00
  - user: None
  - tags: []
+
+## - SarahMcCulloch.com | With Strength and Spirit
+ - [http://www.sarahmcculloch.com](http://www.sarahmcculloch.com)
+ - date published: 2023-12-24T08:15:55.915305+00:00
+ - user: None
+ - tags: ['personal']
 
 ## sara kingsley – YA :: FANTASY :: ROMANCE
  - [https://www.sarakingsley.com](https://www.sarakingsley.com)
@@ -2752,6 +2854,12 @@
  - user: None
  - tags: []
 
+## Breaking China, Asia, HK News, Opinions and Insights | South China Morning Post
+ - [https://scmp.com](https://scmp.com)
+ - date published: 2024-04-22T11:29:03+00:00
+ - user: rumpel
+ - tags: []
+
 ## HK, China, Asia news & opinion from SCMP’s global edition | South China Morning Post
  - [https://www.scmp.com](https://www.scmp.com)
  - date published: 2023-10-25T10:55:24.006811+00:00
@@ -2876,13 +2984,13 @@
  - [https://www.scrapehero.com](https://www.scrapehero.com)
  - date published: 2024-01-17T09:15:02+00:00
  - user: None
- - tags: ['web scraping']
+ - tags: ['proprietary', 'web scraping']
 
 ## ScrapingBee, the best web scraping API.
  - [https://www.scrapingbee.com](https://www.scrapingbee.com)
  - date published: 2023-10-25T16:59:56.121936+00:00
  - user: None
- - tags: []
+ - tags: ['proprietary', 'web scraping']
 
 ## Scratchapixel 4.0, Learn Computer Graphics Programming
  - [https://www.scratchapixel.com](https://www.scratchapixel.com)
@@ -3019,6 +3127,12 @@
 ## Seacoastonline.com: Local News, Politics & Sports in Portsmouth, NH
  - [https://www.seacoastonline.com](https://www.seacoastonline.com)
  - date published: 2024-01-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Seafile Community Forum
+ - [https://forum.seafile.com](https://forum.seafile.com)
+ - date published: 2024-04-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4246,17 +4360,17 @@
  - user: None
  - tags: ['personal']
 
-## None
- - [http://siddhantpyasi.com](http://siddhantpyasi.com)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
 ## https://siddhantpyasi.com
  - [https://siddhantpyasi.com](https://siddhantpyasi.com)
  - date published: 2024-01-08T07:27:25.364006+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [http://siddhantpyasi.com](http://siddhantpyasi.com)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Cash Prices for Medical Procedures | Sidecar Health Care Calculator
  - [https://cost.sidecarhealth.com](https://cost.sidecarhealth.com)
@@ -4481,14 +4595,14 @@
  - tags: []
 
 ## Simon Hedley | Strategic Alchemist | The Strategic Consultant – Helping Good People Do Great Things
- - [http://simonhedley.com](http://simonhedley.com)
- - date published: 2024-04-03T12:49:49.008939+00:00
+ - [https://simonhedley.com](https://simonhedley.com)
+ - date published: 2024-01-13T04:53:05.503923+00:00
  - user: None
  - tags: ['personal']
 
 ## Simon Hedley | Strategic Alchemist | The Strategic Consultant – Helping Good People Do Great Things
- - [https://simonhedley.com](https://simonhedley.com)
- - date published: 2024-01-13T04:53:05.503923+00:00
+ - [http://simonhedley.com](http://simonhedley.com)
+ - date published: 2024-04-03T12:49:49.008939+00:00
  - user: None
  - tags: ['personal']
 
@@ -4509,6 +4623,12 @@
  - date published: 2023-10-31T19:57:41.845940+00:00
  - user: None
  - tags: []
+
+## simonsafar.com
+ - [https://simonsafar.com](https://simonsafar.com)
+ - date published: 2024-04-22T15:46:16.758431+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Map is Mostly Water | Simon Sarris | Substack
  - [https://map.simonsarris.com](https://map.simonsarris.com)
@@ -5117,15 +5237,15 @@
  - user: None
  - tags: []
 
-## Saturday Morning Breakfast Cereal - Why
- - [https://smbc-comics.com](https://smbc-comics.com)
- - date published: 2024-04-09T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Saturday Morning Breakfast Cereal - Lesser
  - [http://smbc-comics.com](http://smbc-comics.com)
  - date published: 2024-04-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Saturday Morning Breakfast Cereal - Why
+ - [https://smbc-comics.com](https://smbc-comics.com)
+ - date published: 2024-04-09T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5884,124 +6004,4 @@
  - date published: 2023-11-15T17:45:21.257199+00:00
  - user: None
  - tags: ['personal']
-
-## Home - SpaceNews
- - [https://spacenews.com](https://spacenews.com)
- - date published: 2023-10-25T10:11:21.607203+00:00
- - user: None
- - tags: []
-
-## SpacePolicyOnline.com – Your first stop for news, information and analysis about civil, military and commercial space programs
- - [https://spacepolicyonline.com](https://spacepolicyonline.com)
- - date published: 2023-10-25T17:09:11.721721+00:00
- - user: None
- - tags: []
-
-## Home - SpaceRef
- - [https://spaceref.com](https://spaceref.com)
- - date published: 2023-10-25T17:09:14.536126+00:00
- - user: None
- - tags: []
-
-## SpacetimeDB
- - [https://spacetimedb.com](https://spacetimedb.com)
- - date published: 2023-12-06T17:42:57.628237+00:00
- - user: None
- - tags: []
-
-## Space Tourism, Space Transport and Space Exploration News
- - [https://www.space-travel.com](https://www.space-travel.com)
- - date published: 2023-10-25T17:08:56.413677+00:00
- - user: None
- - tags: []
-
-## SpaceVIP | Your Gateway to the Cosmos
- - [https://www.spacevip.com](https://www.spacevip.com)
- - date published: 2024-03-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Spaceweather.com
- - [https://spaceweatherarchive.com](https://spaceweatherarchive.com)
- - date published: 2023-10-25T17:09:20.403477+00:00
- - user: None
- - tags: []
-
-## SPACEX - ISS Docking Simulator
- - [https://iss-sim.spacex.com](https://iss-sim.spacex.com)
- - date published: 2023-10-25T17:09:21.103392+00:00
- - user: None
- - tags: []
-
-## SpaceX
- - [https://www.spacex.com](https://www.spacex.com)
- - date published: 2023-10-25T17:09:21.854731+00:00
- - user: None
- - tags: []
-
-## TOUR 2023 | SPAG HEDDY 2023
- - [https://www.spagheddy.com](https://www.spagheddy.com)
- - date published: 2023-11-13T09:56:19.744929+00:00
- - user: None
- - tags: ['music band']
-
-## Latest Spanish News, Events and Sport - Spain in English
- - [https://www.spainenglish.com](https://www.spainenglish.com)
- - date published: 2023-12-05T17:27:59.715997+00:00
- - user: None
- - tags: []
-
-## Zero Credibility | Slava Akhmechet | Substack
- - [https://www.spakhm.com](https://www.spakhm.com)
- - date published: 2023-10-25T17:09:24.192822+00:00
- - user: None
- - tags: []
-
-## Spandidos Publications
- - [https://www.spandidos-publications.com](https://www.spandidos-publications.com)
- - date published: 2023-12-03T06:58:09.412844+00:00
- - user: None
- - tags: []
-
-## Spannr - Longevity News & Insights
- - [https://spannr.com](https://spannr.com)
- - date published: 2023-10-25T17:09:26.064802+00:00
- - user: None
- - tags: []
-
-## Learn at SparkFun Electronics - SparkFun Learn
- - [https://learn.sparkfun.com](https://learn.sparkfun.com)
- - date published: 2023-10-25T17:09:28.626320+00:00
- - user: None
- - tags: []
-
-## SparkFun Electronics
- - [https://www.sparkfun.com](https://www.sparkfun.com)
- - date published: 2023-10-25T17:09:37.100830+00:00
- - user: None
- - tags: []
-
-## Spark Framework: An expressive web framework for Kotlin and Java
- - [https://sparkjava.com](https://sparkjava.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## The travels of Mary Loosemore
- - [https://www.sparklytrainers.com](https://www.sparklytrainers.com)
- - date published: 2024-02-13T17:35:57.123911+00:00
- - user: None
- - tags: ['personal']
-
-## Spark Mail — Smart. Focused. Email.
- - [https://sparkmailapp.com](https://sparkmailapp.com)
- - date published: 2023-10-25T17:09:39.568079+00:00
- - user: None
- - tags: []
-
-## SparkNotes: Today's Most Popular Study Guides
- - [https://www.sparknotes.com](https://www.sparknotes.com)
- - date published: 2023-12-26T17:33:03.148611+00:00
- - user: None
- - tags: []
 
