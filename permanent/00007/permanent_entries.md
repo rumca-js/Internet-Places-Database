@@ -1,3 +1,177 @@
+## Show HN: Build your startup or side project faster with these SaaS templates
+ - [https://hackerstartup.com](https://hackerstartup.com)
+ - date published: 2024-01-02T03:50:49+00:00
+ - user: None
+ - tags: []
+
+## Hacker Stations
+ - [https://hackerstations.com](https://hackerstations.com)
+ - date published: 2023-10-25T14:54:56.900783+00:00
+ - user: None
+ - tags: []
+
+## HackerTyper: Use This Site To Prank Your Friends With Your Coding Skills :)
+ - [https://hackertyper.com](https://hackertyper.com)
+ - date published: 2023-10-27T10:55:53.612524+00:00
+ - user: None
+ - tags: ['wtf']
+
+## Hacker Warehouse - Your one stop computer security shop.
+ - [https://hackerwarehouse.com](https://hackerwarehouse.com)
+ - date published: 2023-11-22T17:22:12+00:00
+ - user: None
+ - tags: ['shop', 'electronics']
+
+## Hacking, but Legal | Jackie Singh | Substack
+ - [https://www.hackingbutlegal.com](https://www.hackingbutlegal.com)
+ - date published: 2023-10-25T14:55:00.627683+00:00
+ - user: None
+ - tags: []
+
+## Hacking with Swift – learn to code iPhone and iPad apps with free Swift tutorials
+ - [https://www.hackingwithswift.com](https://www.hackingwithswift.com)
+ - date published: 2023-10-25T14:55:13.491770+00:00
+ - user: None
+ - tags: []
+
+## HackMag – Security, malware, coding, devops
+ - [https://hackmag.com](https://hackmag.com)
+ - date published: 2024-03-19T15:12:10+00:00
+ - user: rumpel
+ - tags: ['tech news', 'hacking news', 'cybersecurity news']
+
+## - Hackread - Latest Cybersecurity News, Press Releases & Technology Today
+ - [https://hackread.com](https://hackread.com)
+ - date published: 2023-10-25T14:55:18.836218+00:00
+ - user: None
+ - tags: []
+
+## - Hackread - Latest Cybersecurity News, Press Releases & Technology Today
+ - [https://www.hackread.com](https://www.hackread.com)
+ - date published: 2023-10-25T09:33:28.459782+00:00
+ - user: None
+ - tags: []
+
+## Hackreels
+ - [https://www.hackreels.com](https://www.hackreels.com)
+ - date published: 2023-11-01T08:42:11.529233+00:00
+ - user: None
+ - tags: []
+
+## Hacktoberfest 2023
+ - [https://hacktoberfest.com](https://hacktoberfest.com)
+ - date published: 2023-10-25T14:55:20.590544+00:00
+ - user: None
+ - tags: []
+
+## HackYourNews
+ - [https://hackyournews.com](https://hackyournews.com)
+ - date published: 2023-10-25T11:00:54.478394+00:00
+ - user: None
+ - tags: []
+
+## Home | Hadar's Website
+ - [https://www.hadardor.com](https://www.hadardor.com)
+ - date published: 2024-02-11T05:03:45.731384+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hagerty | Classic Car Insurance For People Who Love Cars
+ - [https://www.hagerty.com](https://www.hagerty.com)
+ - date published: 2023-10-25T14:55:22.855356+00:00
+ - user: None
+ - tags: []
+
+## Make Your Own Passover Haggadah
+ - [https://www.haggadot.com](https://www.haggadot.com)
+ - date published: 2023-10-25T14:55:27.685060+00:00
+ - user: None
+ - tags: []
+
+## Hailley Griffis
+ - [https://www.hailleygriffis.com](https://www.hailleygriffis.com)
+ - date published: 2024-01-11T07:52:06.090610+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hailley Griffis
+ - [http://www.hailleygriffis.com](http://www.hailleygriffis.com)
+ - date published: 2024-03-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hai Robotics Homepage
+ - [https://www.hairobotics.com](https://www.hairobotics.com)
+ - date published: 2023-11-27T15:47:03+00:00
+ - user: rumpel
+ - tags: []
+
+## Hakai Magazine
+ - [https://hakaimagazine.com](https://hakaimagazine.com)
+ - date published: 2023-10-25T14:55:31.115622+00:00
+ - user: None
+ - tags: []
+
+## Hakai Offensive Security
+ - [https://labs.hakaioffsec.com](https://labs.hakaioffsec.com)
+ - date published: 2023-10-25T14:55:34.276021+00:00
+ - user: None
+ - tags: []
+
+## Welcome! | Haki Benita
+ - [https://hakibenita.com](https://hakibenita.com)
+ - date published: 2023-10-25T14:55:36.856940+00:00
+ - user: None
+ - tags: []
+
+## Halalco Supermarket, Books & Gifts
+ - [https://halalco.com](https://halalco.com)
+ - date published: 2024-02-08T22:15:48.080107+00:00
+ - user: None
+ - tags: []
+
+## Tom's Home Page
+ - [https://halfhill.com](https://halfhill.com)
+ - date published: 2024-03-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Half-Life
+ - [https://www.half-life.com](https://www.half-life.com)
+ - date published: 2023-11-17T19:04:24.870102+00:00
+ - user: None
+ - tags: ['valve', 'half life', 'game']
+
+## Half-Life 2: VR Mod
+ - [https://halflife2vr.com](https://halflife2vr.com)
+ - date published: 2023-10-30T15:50:50.492955+00:00
+ - user: None
+ - tags: ['game mod']
+
+## Half Mystic
+ - [https://www.halfmystic.com](https://www.halfmystic.com)
+ - date published: 2023-11-05T04:28:25.437727+00:00
+ - user: None
+ - tags: []
+
+## 5angel's Halfquake Amen Tribute
+ - [https://5angel.halfquake.com](https://5angel.halfquake.com)
+ - date published: 2007-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## HR's halfVAST Blog
+ - [https://blog.halfvast.com](https://blog.halfvast.com)
+ - date published: 2023-11-29T14:20:35.078591+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hallow: #1 Catholic Prayer and Meditation App
+ - [https://hallow.com](https://hallow.com)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: None
+ - tags: ['catholic', 'religion']
+
 ## HaloFanForLife | A site by a Halo fan for Halo fans
  - [https://halofanforlife.com](https://halofanforlife.com)
  - date published: 2024-03-24T00:00:00+00:00
@@ -3953,16 +4127,16 @@
  - tags: []
 
 ## Ahmad Shadeed
- - [http://ishadeed.com](http://ishadeed.com)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ahmad Shadeed
  - [https://ishadeed.com](https://ishadeed.com)
  - date published: 2023-10-25T08:46:12.299056+00:00
  - user: None
  - tags: ['personal']
+
+## Ahmad Shadeed
+ - [http://ishadeed.com](http://ishadeed.com)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Ishkur's Guide to Electronic Music
  - [https://music.ishkur.com](https://music.ishkur.com)
@@ -4571,16 +4745,16 @@
  - tags: []
 
 ## Jakob Schwichtenberg - Jakob Schwichtenberg
- - [https://jakobschwichtenberg.com](https://jakobschwichtenberg.com)
- - date published: 2024-01-03T01:12:35.583920+00:00
- - user: None
- - tags: []
-
-## Jakob Schwichtenberg - Jakob Schwichtenberg
  - [http://jakobschwichtenberg.com](http://jakobschwichtenberg.com)
  - date published: 2024-04-03T12:50:06.480482+00:00
  - user: None
  - tags: ['personal']
+
+## Jakob Schwichtenberg - Jakob Schwichtenberg
+ - [https://jakobschwichtenberg.com](https://jakobschwichtenberg.com)
+ - date published: 2024-01-03T01:12:35.583920+00:00
+ - user: None
+ - tags: []
 
 ## Jalopnik | Obsessed With The Culture Of Cars
  - [https://jalopnik.com](https://jalopnik.com)
@@ -4820,7 +4994,7 @@
  - [https://janwillemverstraten.com](https://janwillemverstraten.com)
  - date published: 2023-11-16T21:08:15.834187+00:00
  - user: None
- - tags: []
+ - tags: ['personal', 'blog']
 
 ## Learn Japanese Online. Get started for free with the swiftest and most efficient system ever devised.
  - [https://japanesecomplete.com](https://japanesecomplete.com)
@@ -4868,13 +5042,13 @@
  - [https://jaredigms.com](https://jaredigms.com)
  - date published: 2024-02-09T22:23:13.032097+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Jared Ramsey
  - [https://jaredramsey.com](https://jaredramsey.com)
  - date published: 2023-10-25T09:20:49.239478+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Jared White: Expressively publishing on the open web since 1996. Entranced by Portland, Oregon since 2017.
  - [https://jaredwhite.com](https://jaredwhite.com)
@@ -5018,7 +5192,7 @@
  - [https://java-playground.com](https://java-playground.com)
  - date published: 2023-10-25T15:27:20.226781+00:00
  - user: None
- - tags: ['online tool']
+ - tags: []
 
 ## Learn JavaScript Online - Courses for Beginners - javascript.com
  - [https://www.javascript.com](https://www.javascript.com)
@@ -5324,7 +5498,7 @@
  - [https://jekyllrb.com](https://jekyllrb.com)
  - date published: 2024-04-08T19:29:08.084081+00:00
  - user: None
- - tags: ['static website', 'self-host']
+ - tags: ['self-host', 'static websites']
 
 ## Jellylade
  - [https://app.jellylade.com](https://app.jellylade.com)
@@ -5823,178 +5997,4 @@
  - date published: 2023-10-25T15:29:28.593016+00:00
  - user: None
  - tags: []
-
-## jneidel.com
- - [https://jneidel.com](https://jneidel.com)
- - date published: 2024-01-11T12:23:06.500517+00:00
- - user: None
- - tags: []
-
-## Store currently Offline
- - [https://palantirgear.jniwebshop.com](https://palantirgear.jniwebshop.com)
- - date published: 2024-02-07T17:00:04.841555+00:00
- - user: None
- - tags: []
-
-## Johnson & Johnson
- - [https://www.jnj.com](https://www.jnj.com)
- - date published: 2023-11-01T08:42:21.909273+00:00
- - user: None
- - tags: []
-
-## https://www.jntrnr.com
- - [https://www.jntrnr.com](https://www.jntrnr.com)
- - date published: 2023-10-25T15:29:29.920596+00:00
- - user: None
- - tags: []
-
-## Joan Jett and the Blackhearts
- - [https://www.joanjett.com](https://www.joanjett.com)
- - date published: 2024-01-15T10:42:00+00:00
- - user: rumpel
- - tags: ['music band']
-
-## Joanne Jacobs on Education and Parenting
- - [https://www.joannejacobs.com](https://www.joannejacobs.com)
- - date published: 2023-10-25T15:29:32.835787+00:00
- - user: None
- - tags: ['personal']
-
-## Tech + Economics + Humans
- - [https://joanwestenberg.com](https://joanwestenberg.com)
- - date published: 2023-10-30T12:42:03.697617+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://joaodlf.com](https://joaodlf.com)
- - date published: 2023-10-25T15:29:35.649022+00:00
- - user: None
- - tags: []
-
-## INICIO - Joaquín Sánchez Gil
- - [https://joaquinsanchezgil.com](https://joaquinsanchezgil.com)
- - date published: 2024-03-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://jobmarketanalytics.com
- - [https://jobmarketanalytics.com](https://jobmarketanalytics.com)
- - date published: 2024-01-09T02:40:38.746085+00:00
- - user: None
- - tags: []
-
-## Jobsort · Find jobs in top startups
- - [https://jobsort.com](https://jobsort.com)
- - date published: 2023-10-25T15:29:37.310595+00:00
- - user: None
- - tags: []
-
-## Joby Aviation | Joby
- - [https://www.jobyaviation.com](https://www.jobyaviation.com)
- - date published: 2024-03-18T22:26:19.101769+00:00
- - user: None
- - tags: ['evtol', 'aviation']
-
-## Journal of Commerce
- - [https://www.joc.com](https://www.joc.com)
- - date published: 2024-03-27T19:40:30.319329+00:00
- - user: None
- - tags: []
-
-## Jodie Cook
- - [https://jodiecook.com](https://jodiecook.com)
- - date published: 2024-04-06T21:16:12.158028+00:00
- - user: None
- - tags: []
-
-## Jodie Cook
- - [https://www.jodiecook.com](https://www.jodiecook.com)
- - date published: 2024-01-11T17:10:27.205427+00:00
- - user: None
- - tags: []
-
-## Jody Whitesides Music – Get to know musician / producer Jody Whitesides inside & out
- - [https://jodywhitesides.com](https://jodywhitesides.com)
- - date published: 2024-01-08T07:25:56.945403+00:00
- - user: None
- - tags: []
-
-## Joe Antonakakis - Eng @ Notion
- - [https://www.joeantonakakis.com](https://www.joeantonakakis.com)
- - date published: 2023-10-25T15:29:38.688326+00:00
- - user: None
- - tags: []
-
-## On the Web
- - [https://joeblu.com](https://joeblu.com)
- - date published: 2023-10-25T08:57:49.719476+00:00
- - user: None
- - tags: ['personal']
-
-## Joe Crabtree - VIP Drum Lessons
- - [https://www.joecrabtree.com](https://www.joecrabtree.com)
- - date published: 2024-01-03T01:13:44.574682+00:00
- - user: None
- - tags: []
-
-## None
- - [https://joegonwa.com](https://joegonwa.com)
- - date published: 2024-04-03T12:48:36.674925+00:00
- - user: None
- - tags: []
-
-## About - joel bein
- - [https://joelbein.com](https://joelbein.com)
- - date published: 2023-12-09T14:59:11.250800+00:00
- - user: None
- - tags: ['personal']
-
-## Coming Soon
- - [https://joelcrabb.com](https://joelcrabb.com)
- - date published: 2024-01-09T02:40:40.359405+00:00
- - user: None
- - tags: []
-
-## Joel Dare
- - [https://joeldare.com](https://joeldare.com)
- - date published: 2023-10-25T15:29:49.328434+00:00
- - user: None
- - tags: []
-
-## Neat CSS
- - [https://neat.joeldare.com](https://neat.joeldare.com)
- - date published: 2023-10-25T15:29:50.003390+00:00
- - user: None
- - tags: []
-
-## Joel Hans
- - [https://joelhans.com](https://joelhans.com)
- - date published: 2024-01-11T02:12:21.664162+00:00
- - user: None
- - tags: []
-
-## Joe Lonsdale  | Substack
- - [https://blog.joelonsdale.com](https://blog.joelonsdale.com)
- - date published: 2023-10-25T09:40:12.500751+00:00
- - user: None
- - tags: ['substack']
-
-## Joel on Software
- - [https://www.joelonsoftware.com](https://www.joelonsoftware.com)
- - date published: 2023-10-25T08:46:38.077970+00:00
- - user: None
- - tags: ['personal']
-
-## Joel Auterson
- - [https://www.joelotter.com](https://www.joelotter.com)
- - date published: 2024-02-06T10:21:53.837820+00:00
- - user: None
- - tags: []
-
-## Joel Tok
- - [https://www.joeltok.com](https://www.joeltok.com)
- - date published: 2023-11-29T17:07:53.683809+00:00
- - user: None
- - tags: ['personal']
 

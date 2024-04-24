@@ -1,3 +1,201 @@
+## Resend
+ - [https://resend.com](https://resend.com)
+ - date published: 2023-10-25T16:50:10.173228+00:00
+ - user: None
+ - tags: []
+
+## Resident Contrarian | Substack
+ - [https://www.residentcontrarian.com](https://www.residentcontrarian.com)
+ - date published: 2023-10-25T16:50:13.160491+00:00
+ - user: None
+ - tags: []
+
+## Resolume
+ - [https://www.resolume.com](https://www.resolume.com)
+ - date published: 2024-03-14T04:47:45+00:00
+ - user: None
+ - tags: []
+
+## Responscious Creative Studio
+ - [https://www.responscious.com](https://www.responscious.com)
+ - date published: 2024-01-07T04:14:46.975734+00:00
+ - user: None
+ - tags: []
+
+## Building a starter pack for an API-as-a-Service
+ - [https://www.resteasyapi.com](https://www.resteasyapi.com)
+ - date published: 2023-11-20T20:12:06+00:00
+ - user: None
+ - tags: []
+
+## RestorePrivacy | Your online privacy resource center
+ - [https://restoreprivacy.com](https://restoreprivacy.com)
+ - date published: 2023-10-25T16:50:18.686824+00:00
+ - user: None
+ - tags: []
+
+## The Best Free Online Resume Builder - ResumeBuilder.com
+ - [https://www.resumebuilder.com](https://www.resumebuilder.com)
+ - date published: 2023-10-25T16:50:20.501887+00:00
+ - user: None
+ - tags: []
+
+## RetailWire - Insights & Trends from Retail Industry Experts
+ - [https://retailwire.com](https://retailwire.com)
+ - date published: 2024-01-09T02:47:48.716736+00:00
+ - user: None
+ - tags: []
+
+## Retell AI - Conversational speech API for your LLM
+ - [https://www.retellai.com](https://www.retellai.com)
+ - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Retool | The fastest way to develop effective software.
+ - [https://retool.com](https://retool.com)
+ - date published: 2023-10-25T16:50:27.329954+00:00
+ - user: None
+ - tags: []
+
+## https://retractionwatch.com
+ - [https://retractionwatch.com](https://retractionwatch.com)
+ - date published: 2023-12-13T03:59:08.828047+00:00
+ - user: None
+ - tags: []
+
+## Retro32 | Amiga | Commodore | Retro Gaming Store Shop | 3D Printing
+ - [https://www.retro32.com](https://www.retro32.com)
+ - date published: 2023-10-25T11:15:21.579596+00:00
+ - user: None
+ - tags: ['shop']
+
+## Welcome to RETROCMP
+ - [https://retrocmp.com](https://retrocmp.com)
+ - date published: 2024-02-08T16:50:41.843398+00:00
+ - user: None
+ - tags: []
+
+## Retro Dodo - Retro Gaming Reviews & News
+ - [https://retrododo.com](https://retrododo.com)
+ - date published: 2023-10-25T10:46:34.000501+00:00
+ - user: None
+ - tags: ['game news', 'retro game']
+
+## Retro entre Amigos
+ - [https://www.retroentreamigos.com](https://www.retroentreamigos.com)
+ - date published: 2023-11-02T09:46:17.486897+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://retrogamecoders.com](https://retrogamecoders.com)
+ - date published: 2023-11-02T11:00:22.902914+00:00
+ - user: None
+ - tags: ['amiga', 'retro games']
+
+## Retro Gaming Crew - Das retro Gaming Magazin
+ - [https://www.retrogamingcrew.com](https://www.retrogamingcrew.com)
+ - date published: 2023-12-11T19:06:24.467363+00:00
+ - user: None
+ - tags: []
+
+## RetroKingPin - Retro Gaming News & Reviews
+ - [https://www.retrokingpin.com](https://www.retrokingpin.com)
+ - date published: 2023-10-26T18:55:54.590808+00:00
+ - user: None
+ - tags: ['game news']
+
+## Los mejores juegos retro para descargar gratis - Retrolorian
+ - [https://www.retrolorian.com](https://www.retrolorian.com)
+ - date published: 2023-11-17T21:44:04+00:00
+ - user: rumpel
+ - tags: ['retro games']
+
+## Retromags
+ - [https://www.retromags.com](https://www.retromags.com)
+ - date published: 2024-02-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Retro Otaku - My nerdy video gaming soapbox...
+ - [https://www.retro-otaku.com](https://www.retro-otaku.com)
+ - date published: 2023-10-27T14:43:31.465677+00:00
+ - user: None
+ - tags: ['retro games']
+
+## About the Retro-Printer Module | RetroPrinter.com
+ - [https://www.retroprinter.com](https://www.retroprinter.com)
+ - date published: 2023-10-25T16:50:29.050727+00:00
+ - user: None
+ - tags: []
+
+## Adam's Vintage Computer Restorations
+ - [https://retrorepairsandrefurbs.com](https://retrorepairsandrefurbs.com)
+ - date published: 2023-10-25T08:47:47.426248+00:00
+ - user: None
+ - tags: ['personal']
+
+## Retro Reverse Engineering · RetroReversing
+ - [https://www.retroreversing.com](https://www.retroreversing.com)
+ - date published: 2023-10-25T16:50:34.097785+00:00
+ - user: None
+ - tags: ['reverse engineering']
+
+## RetroRGB |
+ - [https://www.retrorgb.com](https://www.retrorgb.com)
+ - date published: 2024-01-19T18:38:43+00:00
+ - user: None
+ - tags: ['retro games']
+
+## Retro Synthwave – Outrun
+ - [https://www.retro-synthwave.com](https://www.retro-synthwave.com)
+ - date published: 2023-11-13T10:27:34.345834+00:00
+ - user: None
+ - tags: ['synthwave']
+
+## retrotechnology.com, retrotechnology.net
+ - [https://www.retrotechnology.com](https://www.retrotechnology.com)
+ - date published: 2023-10-25T08:47:48.567953+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | RetroTINK LLC
+ - [https://www.retrotink.com](https://www.retrotink.com)
+ - date published: 2024-01-19T18:33:04+00:00
+ - user: None
+ - tags: ['retro games', 'hardware']
+
+## PowerShark for your Amiga is coming!
+ - [https://retrousbpower.com](https://retrousbpower.com)
+ - date published: 2024-02-02T07:10:46.302196+00:00
+ - user: None
+ - tags: ['amiga', 'hardware']
+
+## Return to Monkey Island | Available now on PC, Nintendo Swtich, PS5, and Xbox S/X
+ - [https://returntomonkeyisland.com](https://returntomonkeyisland.com)
+ - date published: 2023-10-25T16:50:39.735294+00:00
+ - user: None
+ - tags: []
+
+## The Lord of the Rings: Return to Moria™
+ - [https://www.returntomoria.com](https://www.returntomoria.com)
+ - date published: 2023-10-25T13:56:54.054723+00:00
+ - user: None
+ - tags: ['tolkien']
+
+## Return To Office Mandates
+ - [https://returntoofficemandate.com](https://returntoofficemandate.com)
+ - date published: 2024-03-18T15:01:05+00:00
+ - user: rumpel
+ - tags: ['work']
+
+## Reuters | Breaking International News & Views
+ - [https://www.reuters.com](https://www.reuters.com)
+ - date published: 2023-10-25T10:38:41.639140+00:00
+ - user: None
+ - tags: []
+
 ## International News Agency | Multimedia News Provider | Reuters
  - [https://www.reutersagency.com](https://www.reutersagency.com)
  - date published: 2023-10-25T16:50:47.197541+00:00
@@ -495,6 +693,12 @@
  - date published: 2024-03-28T00:00:00+00:00
  - user: None
  - tags: []
+
+## The Big Picture
+ - [https://ritholtz.com](https://ritholtz.com)
+ - date published: 2024-04-23T04:07:42.872254+00:00
+ - user: None
+ - tags: ['blog', 'asset management firm', 'personal', 'financial planning']
 
 ## Homepage
  - [https://www.riveducha.com](https://www.riveducha.com)
@@ -1265,14 +1469,14 @@
  - tags: ['personal']
 
 ## my blog
- - [https://ronzhyn.com](https://ronzhyn.com)
- - date published: 2023-12-03T01:43:15.181104+00:00
+ - [http://ronzhyn.com](http://ronzhyn.com)
+ - date published: 2024-04-03T12:46:15.138808+00:00
  - user: None
  - tags: ['personal']
 
 ## my blog
- - [http://ronzhyn.com](http://ronzhyn.com)
- - date published: 2024-04-03T12:46:15.138808+00:00
+ - [https://ronzhyn.com](https://ronzhyn.com)
+ - date published: 2023-12-03T01:43:15.181104+00:00
  - user: None
  - tags: ['personal']
 
@@ -1835,14 +2039,14 @@
  - tags: []
 
 ## Home :: Sacha Chua
- - [http://sachachua.com](http://sachachua.com)
- - date published: 2024-01-05T00:00:00+00:00
+ - [https://sachachua.com](https://sachachua.com)
+ - date published: 2024-01-06T02:24:05.322702+00:00
  - user: None
  - tags: []
 
 ## Home :: Sacha Chua
- - [https://sachachua.com](https://sachachua.com)
- - date published: 2024-01-06T02:24:05.322702+00:00
+ - [http://sachachua.com](http://sachachua.com)
+ - date published: 2024-01-05T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2165,14 +2369,14 @@
  - tags: []
 
 ## Samsung Members Community
- - [https://r2.community.samsung.com](https://r2.community.samsung.com)
- - date published: 2024-01-20T05:57:49.133663+00:00
+ - [http://r2.community.samsung.com](http://r2.community.samsung.com)
+ - date published: 2024-02-26T14:44:02.734270+00:00
  - user: None
  - tags: []
 
 ## Samsung Members Community
- - [http://r2.community.samsung.com](http://r2.community.samsung.com)
- - date published: 2024-02-26T14:44:02.734270+00:00
+ - [https://r2.community.samsung.com](https://r2.community.samsung.com)
+ - date published: 2024-01-20T05:57:49.133663+00:00
  - user: None
  - tags: []
 
@@ -2351,16 +2555,16 @@
  - tags: []
 
 ## - SarahMcCulloch.com | With Strength and Spirit
- - [https://www.sarahmcculloch.com](https://www.sarahmcculloch.com)
- - date published: 2024-02-25T18:59:28.441249+00:00
- - user: None
- - tags: []
-
-## - SarahMcCulloch.com | With Strength and Spirit
  - [http://www.sarahmcculloch.com](http://www.sarahmcculloch.com)
  - date published: 2023-12-24T08:15:55.915305+00:00
  - user: None
  - tags: ['personal']
+
+## - SarahMcCulloch.com | With Strength and Spirit
+ - [https://www.sarahmcculloch.com](https://www.sarahmcculloch.com)
+ - date published: 2024-02-25T18:59:28.441249+00:00
+ - user: None
+ - tags: []
 
 ## sara kingsley – YA :: FANTASY :: ROMANCE
  - [https://www.sarakingsley.com](https://www.sarakingsley.com)
@@ -3224,7 +3428,7 @@
  - [https://www.searchenginejournal.com](https://www.searchenginejournal.com)
  - date published: 2023-10-25T09:35:20.638084+00:00
  - user: None
- - tags: ['seo', 'search engines']
+ - tags: ['search engines', 'seo', 'news']
 
 ## Search Engine Land - News, Search Engine Optimization (SEO), Pay-Per-Click (PPC)
  - [https://searchengineland.com](https://searchengineland.com)
@@ -4223,14 +4427,14 @@
  - tags: []
 
 ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
- - [http://shorer.com](http://shorer.com)
- - date published: 2024-04-03T06:29:33.681658+00:00
+ - [https://shorer.com](https://shorer.com)
+ - date published: 2023-11-29T14:25:19.463201+00:00
  - user: None
  - tags: ['personal']
 
 ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
- - [https://shorer.com](https://shorer.com)
- - date published: 2023-11-29T14:25:19.463201+00:00
+ - [http://shorer.com](http://shorer.com)
+ - date published: 2024-04-03T06:29:33.681658+00:00
  - user: None
  - tags: ['personal']
 
@@ -4360,17 +4564,17 @@
  - user: None
  - tags: ['personal']
 
-## https://siddhantpyasi.com
- - [https://siddhantpyasi.com](https://siddhantpyasi.com)
- - date published: 2024-01-08T07:27:25.364006+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [http://siddhantpyasi.com](http://siddhantpyasi.com)
  - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## https://siddhantpyasi.com
+ - [https://siddhantpyasi.com](https://siddhantpyasi.com)
+ - date published: 2024-01-08T07:27:25.364006+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Cash Prices for Medical Procedures | Sidecar Health Care Calculator
  - [https://cost.sidecarhealth.com](https://cost.sidecarhealth.com)
@@ -4595,14 +4799,14 @@
  - tags: []
 
 ## Simon Hedley | Strategic Alchemist | The Strategic Consultant – Helping Good People Do Great Things
- - [https://simonhedley.com](https://simonhedley.com)
- - date published: 2024-01-13T04:53:05.503923+00:00
+ - [http://simonhedley.com](http://simonhedley.com)
+ - date published: 2024-04-03T12:49:49.008939+00:00
  - user: None
  - tags: ['personal']
 
 ## Simon Hedley | Strategic Alchemist | The Strategic Consultant – Helping Good People Do Great Things
- - [http://simonhedley.com](http://simonhedley.com)
- - date published: 2024-04-03T12:49:49.008939+00:00
+ - [https://simonhedley.com](https://simonhedley.com)
+ - date published: 2024-01-13T04:53:05.503923+00:00
  - user: None
  - tags: ['personal']
 
@@ -5382,16 +5586,16 @@
  - tags: []
 
 ## Snarling Badger Studios
- - [http://www.snarlingbadger.com](http://www.snarlingbadger.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Snarling Badger Studios
  - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
  - date published: 2023-11-10T10:42:34.914133+00:00
  - user: None
  - tags: ['magazine', 'tabletop games', 'warhammer', 'wargames', 'zine']
+
+## Snarling Badger Studios
+ - [http://www.snarlingbadger.com](http://www.snarlingbadger.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Serge Nevsky
  - [https://snevsky.com](https://snevsky.com)
@@ -5800,208 +6004,4 @@
  - date published: 2023-11-25T19:34:17.452870+00:00
  - user: None
  - tags: []
-
-## Fine Art, Jewels, Watches, Wine Auctions & Sales | Sotheby's
- - [https://www.sothebys.com](https://www.sothebys.com)
- - date published: 2023-10-25T17:08:32.046840+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.soul-network.com](https://www.soul-network.com)
- - date published: 2024-01-09T02:49:16.227547+00:00
- - user: None
- - tags: []
-
-## SoundAntiques: Unusual and Rare Musical Instruments.
- - [https://www.soundantiques.com](https://www.soundantiques.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Connect with SoundCloud
- - [https://connect.soundcloud.com](https://connect.soundcloud.com)
- - date published: 2024-01-21T01:43:23.820319+00:00
- - user: None
- - tags: []
-
-## SoundCloud Developers
- - [https://developers.soundcloud.com](https://developers.soundcloud.com)
- - date published: 2018-01-01T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Stream and listen to music online for free with SoundCloud
- - [https://soundcloud.com](https://soundcloud.com)
- - date published: 2023-11-17T14:24:09+00:00
- - user: rumpel
- - tags: ['social platform', 'audio streaming', 'music', 'creator platform']
-
-## Something went wrong - SoundCloud
- - [https://w.soundcloud.com](https://w.soundcloud.com)
- - date published: 2024-01-21T01:43:24.442315+00:00
- - user: None
- - tags: []
-
-## Official website for Soundgarden
- - [https://www.soundgardenworld.com](https://www.soundgardenworld.com)
- - date published: 2023-11-13T10:33:12.109005+00:00
- - user: None
- - tags: ['music band']
-
-## Sound On Sound | The World's Premier Music Recording Technology Magazine
- - [https://www.soundonsound.com](https://www.soundonsound.com)
- - date published: 2023-10-25T17:08:36.679583+00:00
- - user: None
- - tags: []
-
-## SoundStage! Solo | SoundStageSolo.com - Home
- - [https://www.soundstagesolo.com](https://www.soundstagesolo.com)
- - date published: 2023-11-23T21:54:42.557761+00:00
- - user: None
- - tags: []
-
-## Sourcegraph | Code AI platform
- - [https://about.sourcegraph.com](https://about.sourcegraph.com)
- - date published: 2023-10-25T17:08:38.987824+00:00
- - user: None
- - tags: []
-
-## Sourcegraph | Code AI platform
- - [https://sourcegraph.com](https://sourcegraph.com)
- - date published: 2023-11-21T17:24:45.481835+00:00
- - user: None
- - tags: []
-
-## Design Patterns and Refactoring
- - [http://sourcemaking.com](http://sourcemaking.com)
- - date published: 2024-03-24T15:03:42.330655+00:00
- - user: None
- - tags: []
-
-## Sourcetree | Free Git GUI for Mac and Windows
- - [https://www.sourcetreeapp.com](https://www.sourcetreeapp.com)
- - date published: 2024-03-04T11:36:30.888341+00:00
- - user: None
- - tags: ['programming ide']
-
-## South Central Illinois' News, Sports and Weather Station
- - [https://southernillinoisnow.com](https://southernillinoisnow.com)
- - date published: 2023-10-25T17:08:42.571432+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://southfloridagaynews.com](https://southfloridagaynews.com)
- - date published: 2023-10-25T17:08:46.864761+00:00
- - user: None
- - tags: []
-
-## Florida Hospital News and Healthcare Report - Your Source For Healthcare Business News
- - [https://southfloridahospitalnews.com](https://southfloridahospitalnews.com)
- - date published: 2024-01-03T14:42:03.119361+00:00
- - user: None
- - tags: []
-
-## Drug and Alcohol Outpatient Treatment Center In Austin, TX
- - [https://southmeadowsrecovery.com](https://southmeadowsrecovery.com)
- - date published: 2023-12-12T08:10:05.855660+00:00
- - user: None
- - tags: ['personal']
-
-## South Park Commons
- - [https://blog.southparkcommons.com](https://blog.southparkcommons.com)
- - date published: 2023-10-25T17:08:48.298136+00:00
- - user: None
- - tags: []
-
-## South Park  -  Satirical Animated  TV Show | Watch Free Episodes | South Park Studios Global
- - [https://www.southparkstudios.com](https://www.southparkstudios.com)
- - date published: 2023-10-25T11:51:28.267947+00:00
- - user: None
- - tags: ['video streaming']
-
-## South Seattle Emerald | Amplifying the Authentic Narratives of South Seattle
- - [https://southseattleemerald.com](https://southseattleemerald.com)
- - date published: 2023-10-25T17:08:53.460751+00:00
- - user: None
- - tags: []
-
-## So You Want To Watch Figure Skating
- - [https://www.soyouwanttowatchfs.com](https://www.soyouwanttowatchfs.com)
- - date published: 2023-12-09T12:19:17.092710+00:00
- - user: None
- - tags: []
-
-## Space.com: NASA, Space Exploration and Astronomy News
- - [https://www.space.com](https://www.space.com)
- - date published: 2023-10-25T10:09:39.737329+00:00
- - user: None
- - tags: ['space news']
-
-## Home - Astronomy's Space & Beyond Box Bring the universe to your door!
- - [https://spaceandbeyondbox.com](https://spaceandbeyondbox.com)
- - date published: 2023-11-26T11:31:05.798047+00:00
- - user: None
- - tags: []
-
-## SpaceBattles
- - [https://forums.spacebattles.com](https://forums.spacebattles.com)
- - date published: 2023-10-25T17:08:58.795934+00:00
- - user: None
- - tags: []
-
-## SpaceChatter - Houston, We have some Chatter
- - [https://www.spacechatter.com](https://www.spacechatter.com)
- - date published: 2023-10-26T17:02:39.838269+00:00
- - user: None
- - tags: []
-
-## Space News From SpaceDaily.Com
- - [https://www.spacedaily.com](https://www.spacedaily.com)
- - date published: 2023-10-25T17:09:01.895784+00:00
- - user: None
- - tags: []
-
-## Spacedimp
- - [https://spacedimp.com](https://spacedimp.com)
- - date published: 2023-10-25T17:09:02.393709+00:00
- - user: None
- - tags: []
-
-## Spacedrive — A file manager from the future.
- - [https://www.spacedrive.com](https://www.spacedrive.com)
- - date published: 2023-10-27T11:55:43.614175+00:00
- - user: None
- - tags: []
-
-## NEODyS
- - [https://newton.spacedys.com](https://newton.spacedys.com)
- - date published: 2023-10-25T17:09:03.246191+00:00
- - user: None
- - tags: []
-
-## Spaceflight101 – Space News and Beyond
- - [https://spaceflight101.com](https://spaceflight101.com)
- - date published: 2023-10-25T17:09:05.078240+00:00
- - user: None
- - tags: []
-
-## Spaceflight Now – The leading source for online space news
- - [https://spaceflightnow.com](https://spaceflightnow.com)
- - date published: 2023-11-05T04:49:57.688623+00:00
- - user: None
- - tags: []
-
-## Space Intel Report - Intelligence report for the space industry
- - [https://www.spaceintelreport.com](https://www.spaceintelreport.com)
- - date published: 2023-10-25T17:09:09.148488+00:00
- - user: None
- - tags: []
-
-## SpaceKate
- - [https://spacekate.com](https://spacekate.com)
- - date published: 2023-11-15T17:45:21.257199+00:00
- - user: None
- - tags: ['personal']
 

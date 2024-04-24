@@ -1,3 +1,237 @@
+## Home | Sovereign Tech Fund
+ - [https://www.sovereigntechfund.de](https://www.sovereigntechfund.de)
+ - date published: 2023-12-16T05:56:10.685928+00:00
+ - user: None
+ - tags: []
+
+## Spark Innovation – Martin Ferfers
+ - [https://www.spark-innovation.de](https://www.spark-innovation.de)
+ - date published: 2023-12-22T17:51:37.712266+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tagebücher der Wissenschaft » SciLogs - Wissenschaftsblogs
+ - [https://scilogs.spektrum.de](https://scilogs.spektrum.de)
+ - date published: 2023-10-25T18:32:38.955822+00:00
+ - user: None
+ - tags: []
+
+## DER SPIEGEL | Online-Nachrichten
+ - [https://www.spiegel.de](https://www.spiegel.de)
+ - date published: 2023-11-06T15:41:57.887667+00:00
+ - user: None
+ - tags: ['germany', 'news']
+
+## Spiegelburg Onlineshop | Ungewöhnlich anders & voller Überraschungen
+ - [https://www.spiegelburg-shop.de](https://www.spiegelburg-shop.de)
+ - date published: 2023-12-28T11:09:44.236543+00:00
+ - user: None
+ - tags: []
+
+## Sportschau - Sport-News, Live-Ticker, Videos, Ergebnisse und Tabellen
+ - [https://www.sportschau.de](https://www.sportschau.de)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## sst13 - Quake3 Maps
+ - [https://sst13.de](https://sst13.de)
+ - date published: 2023-10-28T20:30:23.101250+00:00
+ - user: None
+ - tags: ['quake']
+
+## https://digital.staatsbibliothek-berlin.de
+ - [https://digital.staatsbibliothek-berlin.de](https://digital.staatsbibliothek-berlin.de)
+ - date published: 2023-10-25T18:32:39.387140+00:00
+ - user: None
+ - tags: []
+
+## Stefan-Marr.de · personal and research notes
+ - [https://stefan-marr.de](https://stefan-marr.de)
+ - date published: 2023-10-25T18:32:40.817597+00:00
+ - user: None
+ - tags: []
+
+## Thomas Stensitzki
+ - [https://www.stensitzki.de](https://www.stensitzki.de)
+ - date published: 2024-01-03T01:12:18.386735+00:00
+ - user: None
+ - tags: ['personal']
+
+## Aktuelle Nachrichten und Kommentare - SZ.de
+ - [https://www.sueddeutsche.de](https://www.sueddeutsche.de)
+ - date published: 2023-10-25T18:32:54.580719+00:00
+ - user: None
+ - tags: []
+
+## Südwestrundfunk | SWR.de
+ - [https://www.swr.de](https://www.swr.de)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SymbOS – Crazy Preemptive Multitasking OS for Z80
+ - [http://www.symbos.de](http://www.symbos.de)
+ - date published: 2023-12-22T16:57:22+00:00
+ - user: None
+ - tags: []
+
+## t3n | Das Magazin für digitales Business
+ - [https://t3n.de](https://t3n.de)
+ - date published: 2023-12-27T19:01:46.731365+00:00
+ - user: None
+ - tags: []
+
+## tagesschau.de - die erste Adresse für Nachrichten und Information
+ - [https://www.tagesschau.de](https://www.tagesschau.de)
+ - date published: 2024-04-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## taz.de - taz.de
+ - [https://taz.de](https://taz.de)
+ - date published: 2024-03-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hi there, Friend! : tchncs.de
+ - [https://tchncs.de](https://tchncs.de)
+ - date published: 2023-10-25T18:32:56.483309+00:00
+ - user: None
+ - tags: []
+
+## tele-TASK
+ - [https://www.tele-task.de](https://www.tele-task.de)
+ - date published: 2023-11-24T16:44:19.800399+00:00
+ - user: None
+ - tags: []
+
+## TEXTE ZUR KUNST
+ - [https://www.textezurkunst.de](https://www.textezurkunst.de)
+ - date published: 2024-02-24T18:07:51.031322+00:00
+ - user: None
+ - tags: []
+
+## The Local Germany - News and practical guides in English
+ - [https://www.thelocal.de](https://www.thelocal.de)
+ - date published: 2023-12-30T10:05:50.800353+00:00
+ - user: None
+ - tags: ['german news']
+
+## thenybble.de
+ - [https://thenybble.de](https://thenybble.de)
+ - date published: 2023-10-25T18:32:57.087216+00:00
+ - user: None
+ - tags: []
+
+## Tims blog
+ - [https://timbuening.de](https://timbuening.de)
+ - date published: 2024-01-07T11:02:58.507889+00:00
+ - user: None
+ - tags: []
+
+## Timo Maul
+ - [https://timo-maul.de](https://timo-maul.de)
+ - date published: 2024-04-03T06:28:08.028555+00:00
+ - user: None
+ - tags: ['personal']
+
+## Timo Zander — Cologne-based Software Developer
+ - [https://timozander.de](https://timozander.de)
+ - date published: 2023-10-25T18:32:57.895419+00:00
+ - user: None
+ - tags: []
+
+## HP-15C: A Simulator for Windows, Linux and macOS
+ - [https://hp-15c.homepage.t-online.de](https://hp-15c.homepage.t-online.de)
+ - date published: 2023-10-25T18:32:55.137051+00:00
+ - user: None
+ - tags: []
+
+## Tony Schmich
+ - [https://www.tonyschmich.de](https://www.tonyschmich.de)
+ - date published: 2024-03-02T19:17:58.861284+00:00
+ - user: None
+ - tags: ['personal']
+
+## transmediale
+ - [https://transmediale.de](https://transmediale.de)
+ - date published: 2024-01-20T21:52:31.006351+00:00
+ - user: None
+ - tags: []
+
+## Henning Koch
+ - [https://triskweline.de](https://triskweline.de)
+ - date published: 2024-01-09T02:56:23.463055+00:00
+ - user: None
+ - tags: []
+
+## Home - Leibniz-Institut für Troposphärenforschung e.V. (TROPOS)
+ - [https://www.tropos.de](https://www.tropos.de)
+ - date published: 2023-12-21T15:45:59.681751+00:00
+ - user: None
+ - tags: []
+
+## www.user.tu-berlin.de
+ - [https://www.user.tu-berlin.de](https://www.user.tu-berlin.de)
+ - date published: 2023-10-25T18:33:04.460538+00:00
+ - user: None
+ - tags: []
+
+## https://www2.in.tu-clausthal.de
+ - [https://www2.in.tu-clausthal.de](https://www2.in.tu-clausthal.de)
+ - date published: 2024-02-08T17:32:43.255374+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.tu-darmstadt.de](https://www.tu-darmstadt.de)
+ - date published: 2023-12-02T05:46:14.228323+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science - TUM School of Computation, Information and Technology - Department of Computer Science
+ - [https://www.cs.cit.tum.de](https://www.cs.cit.tum.de)
+ - date published: 2023-10-25T18:33:05.751862+00:00
+ - user: None
+ - tags: []
+
+## The Entrepreneurial University - TUM
+ - [https://www.tum.de](https://www.tum.de)
+ - date published: 2023-12-12T22:22:55.827588+00:00
+ - user: None
+ - tags: []
+
+## Tunkl.de  |  IT-Consulting – SEA, E-Commerce und Online Marketing Consulting
+ - [https://tunkl.de](https://tunkl.de)
+ - date published: 2024-01-01T03:39:24.415411+00:00
+ - user: None
+ - tags: []
+
+## Andreas Zwinkau
+ - [https://beza1e1.tuxen.de](https://beza1e1.tuxen.de)
+ - date published: 2023-10-25T18:33:06.452394+00:00
+ - user: None
+ - tags: []
+
+## Andreas Zwinkau
+ - [http://beza1e1.tuxen.de](http://beza1e1.tuxen.de)
+ - date published: 2020-05-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Helmholtz-Centre for Environmental Research
+ - [https://www.ufz.de](https://www.ufz.de)
+ - date published: 2024-03-20T19:12:24.334536+00:00
+ - user: None
+ - tags: ['environment', 'climate change']
+
+## Umweltbundesamt | Für Mensch und Umwelt
+ - [https://www.umweltbundesamt.de](https://www.umweltbundesamt.de)
+ - date published: 2023-10-25T18:33:10.971958+00:00
+ - user: None
+ - tags: []
+
 ## https://jsxgraph.uni-bayreuth.de
  - [https://jsxgraph.uni-bayreuth.de](https://jsxgraph.uni-bayreuth.de)
  - date published: 2023-10-26T13:42:48.938099+00:00
@@ -440,7 +674,7 @@
  - [https://www.11ty.dev](https://www.11ty.dev)
  - date published: 2024-04-08T19:31:23.831073+00:00
  - user: None
- - tags: ['static website', 'self-host']
+ - tags: ['self-host', 'static websites']
 
 ## A world where people pay for software
  - [https://1sub.dev](https://1sub.dev)
@@ -453,6 +687,12 @@
  - date published: 2023-10-25T18:34:36.448442+00:00
  - user: None
  - tags: []
+
+## Alire -
+ - [https://alire.ada.dev](https://alire.ada.dev)
+ - date published: 2024-04-23T15:17:38.643084+00:00
+ - user: None
+ - tags: ['libraries', 'ada', 'programming language']
 
 ## Aerolite Studios
  - [https://aerolite.dev](https://aerolite.dev)
@@ -1103,6 +1343,12 @@
  - user: None
  - tags: []
 
+## Index – Next Cloudinary
+ - [https://next.cloudinary.dev](https://next.cloudinary.dev)
+ - date published: 2024-04-23T19:52:00+00:00
+ - user: rumpel
+ - tags: ['image processing', 'next.js library']
+
 ## Cobalt
  - [https://cobalt.dev](https://cobalt.dev)
  - date published: 2023-10-25T18:36:32.246177+00:00
@@ -1447,14 +1693,14 @@
  - tags: []
 
 ## endtimes.dev
- - [https://endtimes.dev](https://endtimes.dev)
- - date published: 2023-10-25T18:37:42.008452+00:00
+ - [http://endtimes.dev](http://endtimes.dev)
+ - date published: 2024-02-26T14:52:45.275010+00:00
  - user: None
  - tags: []
 
 ## endtimes.dev
- - [http://endtimes.dev](http://endtimes.dev)
- - date published: 2024-02-26T14:52:45.275010+00:00
+ - [https://endtimes.dev](https://endtimes.dev)
+ - date published: 2023-10-25T18:37:42.008452+00:00
  - user: None
  - tags: []
 
@@ -1624,7 +1870,7 @@
  - [https://www.franken-ui.dev](https://www.franken-ui.dev)
  - date published: 2024-04-22T22:18:42+00:00
  - user: None
- - tags: []
+ - tags: ['ui components', 'html', 'open source']
 
 ## Fuchsia
  - [https://fuchsia.dev](https://fuchsia.dev)
@@ -1647,6 +1893,18 @@
 ## GB Studio
  - [https://www.gbstudio.dev](https://www.gbstudio.dev)
  - date published: 2023-10-25T18:38:08.261818+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Getada: rustup-like installer for Ada's toolchain/package manager
+ - [https://getada.dev](https://getada.dev)
+ - date published: 2024-04-23T14:26:26+00:00
+ - user: None
+ - tags: ['ada', 'programming language']
+
+## Get Ada installed on your computer today - GetAda
+ - [https://www.getada.dev](https://www.getada.dev)
+ - date published: 2024-04-23T15:17:37.976359+00:00
  - user: None
  - tags: []
 
@@ -1776,11 +2034,23 @@
  - user: None
  - tags: ['personal']
 
+## Show HN: Hashquery, a Python library for defining reusable analysis
+ - [https://hashquery.dev](https://hashquery.dev)
+ - date published: 2024-04-23T14:31:12+00:00
+ - user: None
+ - tags: []
+
 ## Hathora
  - [https://blog.hathora.dev](https://blog.hathora.dev)
  - date published: 2024-03-16T00:26:26.846171+00:00
  - user: None
  - tags: []
+
+## Hathora | Server Orchestration for Multiplayer Games
+ - [https://hathora.dev](https://hathora.dev)
+ - date published: 2024-04-23T10:08:25+00:00
+ - user: rumpel
+ - tags: ['server hosting', 'online service']
 
 ## Henrique Vicente
  - [https://henvic.dev](https://henvic.dev)
@@ -1903,14 +2173,14 @@
  - tags: ['personal']
 
 ## Jakob Serlier's Personal Site
- - [http://jakobs.dev](http://jakobs.dev)
- - date published: 2024-01-15T00:00:00+00:00
+ - [https://jakobs.dev](https://jakobs.dev)
+ - date published: 2024-01-09T01:37:20.973191+00:00
  - user: None
  - tags: []
 
 ## Jakob Serlier's Personal Site
- - [https://jakobs.dev](https://jakobs.dev)
- - date published: 2024-01-09T01:37:20.973191+00:00
+ - [http://jakobs.dev](http://jakobs.dev)
+ - date published: 2024-01-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2791,14 +3061,14 @@
  - tags: []
 
 ## Passkey Developer Resources
- - [http://passkeys.dev](http://passkeys.dev)
- - date published: 2024-02-25T19:46:12.112766+00:00
+ - [https://passkeys.dev](https://passkeys.dev)
+ - date published: 2023-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date published: 2023-01-31T00:00:00+00:00
+ - [http://passkeys.dev](http://passkeys.dev)
+ - date published: 2024-02-25T19:46:12.112766+00:00
  - user: None
  - tags: []
 
@@ -2837,6 +3107,12 @@
  - date published: 2024-01-12T10:31:39.595981+00:00
  - user: None
  - tags: []
+
+## Photobox
+ - [https://www.photobox.dev](https://www.photobox.dev)
+ - date published: 2024-04-23T19:53:33+00:00
+ - user: rumpel
+ - tags: ['self-host', 'photo library', 'image library', 'open source']
 
 ## Pierre Couy’s tech corner | Freelance developper, computer science teacher, passionate about programming. I enjoy sharing my work with the world.
  - [https://pierre-couy.dev](https://pierre-couy.dev)
@@ -3345,14 +3621,14 @@
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
@@ -3697,6 +3973,12 @@
  - date published: 2023-10-25T18:43:16.107391+00:00
  - user: None
  - tags: ['javascript', 'webassembly', 'open source']
+
+## Douglas Vaghetti
+ - [https://vaghetti.dev](https://vaghetti.dev)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Vala Programming Language
  - [https://vala.dev](https://vala.dev)
@@ -5725,288 +6007,6 @@
 ## Commencement –  | Kalamazoo College
  - [https://commencement.kzoo.edu](https://commencement.kzoo.edu)
  - date published: 2024-02-08T17:31:34.676457+00:00
- - user: None
- - tags: []
-
-## None
- - [https://idioms.languagesystems.edu](https://idioms.languagesystems.edu)
- - date published: 2024-02-08T17:32:14.922710+00:00
- - user: None
- - tags: []
-
-## WeBWorK
- - [https://webwork.latech.edu](https://webwork.latech.edu)
- - date published: 2024-02-08T16:50:39.557450+00:00
- - user: None
- - tags: []
-
-## https://cs.lmu.edu
- - [https://cs.lmu.edu](https://cs.lmu.edu)
- - date published: 2024-01-09T02:59:22.375629+00:00
- - user: None
- - tags: []
-
-## Online Tech Bootcamps | Louisiana State University
- - [https://bootcamp.online.lsu.edu](https://bootcamp.online.lsu.edu)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Electrical & Computer Engineering, Division of
- - [https://www.ece.lsu.edu](https://www.ece.lsu.edu)
- - date published: 2023-10-25T11:24:20.932943+00:00
- - user: None
- - tags: []
-
-## An Introduction to Computer Networks
- - [https://intronetworks.cs.luc.edu](https://intronetworks.cs.luc.edu)
- - date published: 2023-10-25T18:53:42.818300+00:00
- - user: None
- - tags: []
-
-## Mayo Clinic QHS Apps Home Page
- - [https://rtools.mayo.edu](https://rtools.mayo.edu)
- - date published: 2024-02-08T17:32:56.480098+00:00
- - user: None
- - tags: []
-
-## Official Miami Dade College Homepage
- - [https://www.mdc.edu](https://www.mdc.edu)
- - date published: 2023-10-25T11:22:46.236242+00:00
- - user: None
- - tags: []
-
-## Home / EMS
- - [https://minnstate.bookitadmin.minnstate.edu](https://minnstate.bookitadmin.minnstate.edu)
- - date published: 2024-02-08T16:36:57.109155+00:00
- - user: None
- - tags: []
-
-## Show Me Mizzou // University of Missouri
- - [https://showme.missouri.edu](https://showme.missouri.edu)
- - date published: 2024-02-08T18:02:26.036563+00:00
- - user: None
- - tags: []
-
-## aera
- - [https://aera.mit.edu](https://aera.mit.edu)
- - date published: 2023-10-25T18:53:43.612659+00:00
- - user: None
- - tags: []
-
-## MIT MAS.S68 | Generative AI for Constructive Communication
- - [https://ai4comm.media.mit.edu](https://ai4comm.media.mit.edu)
- - date published: 2023-10-25T18:53:45.427456+00:00
- - user: None
- - tags: []
-
-## Home | Architecture
- - [https://architecture.mit.edu](https://architecture.mit.edu)
- - date published: 2024-02-08T22:04:29.437169+00:00
- - user: None
- - tags: []
-
-## Yuan Cao's Homepage
- - [https://caoyuan.scripts.mit.edu](https://caoyuan.scripts.mit.edu)
- - date published: 2024-01-09T01:37:28.741983+00:00
- - user: None
- - tags: []
-
-## Home | MIT Climate Portal
- - [https://climate.mit.edu](https://climate.mit.edu)
- - date published: 2023-10-25T18:53:47.317024+00:00
- - user: None
- - tags: []
-
-## courses.csail.mit.edu
- - [https://courses.csail.mit.edu](https://courses.csail.mit.edu)
- - date published: 2023-10-25T18:53:48.768679+00:00
- - user: None
- - tags: []
-
-## Introduction to Data-Centric AI
- - [https://dcai.csail.mit.edu](https://dcai.csail.mit.edu)
- - date published: 2023-10-25T18:53:49.969803+00:00
- - user: None
- - tags: []
-
-## MIT Press
- - [https://direct.mit.edu](https://direct.mit.edu)
- - date published: 2023-10-25T18:53:52.060229+00:00
- - user: None
- - tags: []
-
-## DSpace@MIT Home
- - [https://dspace.mit.edu](https://dspace.mit.edu)
- - date published: 2023-10-25T18:53:53.742765+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://energy.mit.edu](https://energy.mit.edu)
- - date published: 2024-01-07T21:07:19.748100+00:00
- - user: None
- - tags: []
-
-## Fab Central
- - [https://fab.cba.mit.edu](https://fab.cba.mit.edu)
- - date published: 2023-10-25T18:53:54.780890+00:00
- - user: None
- - tags: []
-
-## Research | MIT CSAIL
- - [https://groups.csail.mit.edu](https://groups.csail.mit.edu)
- - date published: 2023-11-25T21:49:19.475927+00:00
- - user: None
- - tags: []
-
-## Living Wage Calculator
- - [https://livingwage.mit.edu](https://livingwage.mit.edu)
- - date published: 2023-10-25T18:53:56.639883+00:00
- - user: None
- - tags: []
-
-## MIT Mathematics
- - [https://math.mit.edu](https://math.mit.edu)
- - date published: 2023-10-25T18:54:09.948920+00:00
- - user: None
- - tags: []
-
-## MITx MicroMasters
- - [https://micromasters.mit.edu](https://micromasters.mit.edu)
- - date published: 2024-01-15T18:04:13.077285+00:00
- - user: None
- - tags: []
-
-## The Missing Semester of Your CS Education
- - [https://missing.csail.mit.edu](https://missing.csail.mit.edu)
- - date published: 2023-10-25T18:54:11.265361+00:00
- - user: None
- - tags: []
-
-## Home Page - MIT Press
- - [https://mitpress.mit.edu](https://mitpress.mit.edu)
- - date published: 2023-10-25T18:54:21.358865+00:00
- - user: None
- - tags: []
-
-## MIT Sloan
- - [https://mitsloan.mit.edu](https://mitsloan.mit.edu)
- - date published: 2023-10-25T18:54:22.918721+00:00
- - user: None
- - tags: []
-
-## MITx Online
- - [https://mitxonline.mit.edu](https://mitxonline.mit.edu)
- - date published: 2023-10-25T18:54:25.878690+00:00
- - user: None
- - tags: []
-
-## MIT News | Massachusetts Institute of Technology
- - [https://news.mit.edu](https://news.mit.edu)
- - date published: 2023-10-25T11:20:44.709795+00:00
- - user: None
- - tags: []
-
-## MIT OpenCourseWare | Free Online Course Materials
- - [https://ocw.mit.edu](https://ocw.mit.edu)
- - date published: 2023-10-25T18:54:28.607293+00:00
- - user: None
- - tags: []
-
-## MIT Open Learning Library | Open Learning
- - [https://openlearninglibrary.mit.edu](https://openlearninglibrary.mit.edu)
- - date published: 2024-03-26T19:30:53.109672+00:00
- - user: None
- - tags: ['digital library', 'internet archive']
-
-## The Art and Science of PCB Design
- - [https://pcb.mit.edu](https://pcb.mit.edu)
- - date published: 2023-12-30T01:59:09+00:00
- - user: None
- - tags: []
-
-## MIT CSAIL Parallel and Distributed Operating Systems Group
- - [https://pdos.csail.mit.edu](https://pdos.csail.mit.edu)
- - date published: 2023-10-25T18:54:29.573498+00:00
- - user: None
- - tags: []
-
-## People | MIT CSAIL
- - [https://people.csail.mit.edu](https://people.csail.mit.edu)
- - date published: 2023-10-25T18:54:31.453216+00:00
- - user: None
- - tags: []
-
-## Home - MIT PE
- - [https://physicaleducationandwellness.mit.edu](https://physicaleducationandwellness.mit.edu)
- - date published: 2023-10-25T18:54:34.032158+00:00
- - user: None
- - tags: []
-
-## The Picower Institute for Learning and Memory | Neuroscience & Brain Research
- - [https://picower.mit.edu](https://picower.mit.edu)
- - date published: 2024-03-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## MIT Office of the President | MIT - Massachusetts Institute of Technology
- - [https://president.mit.edu](https://president.mit.edu)
- - date published: 2023-10-25T18:54:35.562240+00:00
- - user: None
- - tags: []
-
-## Home Page | MIT CSAIL
- - [https://projects.csail.mit.edu](https://projects.csail.mit.edu)
- - date published: 2023-10-25T18:54:37.343144+00:00
- - user: None
- - tags: []
-
-## MIT School of Science
- - [https://science.mit.edu](https://science.mit.edu)
- - date published: 2023-10-25T18:54:41.430859+00:00
- - user: None
- - tags: []
-
-## Scratch - Imagine, Program, Share
- - [https://scratch.mit.edu](https://scratch.mit.edu)
- - date published: 2023-10-25T18:54:41.797954+00:00
- - user: None
- - tags: ['programming language']
-
-## Self-Assembly Lab
- - [https://selfassemblylab.mit.edu](https://selfassemblylab.mit.edu)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## MIT Senseable City Lab
- - [https://senseable.mit.edu](https://senseable.mit.edu)
- - date published: 2024-01-09T02:59:24.170978+00:00
- - user: None
- - tags: []
-
-## MIT Sloan Management Review
- - [https://sloanreview.mit.edu](https://sloanreview.mit.edu)
- - date published: 2023-10-25T18:54:48.399246+00:00
- - user: None
- - tags: []
-
-## stuff.mit.edu: students' portal
- - [https://stuff.mit.edu](https://stuff.mit.edu)
- - date published: 2024-02-21T20:09:52.594239+00:00
- - user: None
- - tags: []
-
-## Telecom Digest and Archives
- - [http://telecom.csail.mit.edu](http://telecom.csail.mit.edu)
- - date published: 2023-10-25T18:54:50.229504+00:00
- - user: None
- - tags: []
-
-## The MIT Press Reader
- - [https://thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu)
- - date published: 2023-10-25T10:39:41.389672+00:00
  - user: None
  - tags: []
 

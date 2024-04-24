@@ -1,3 +1,201 @@
+## Parkiet – portal finansowy z najważniejszymi wiadomościami - parkiet.com
+ - [https://www.parkiet.com](https://www.parkiet.com)
+ - date published: 2023-10-25T10:58:13.846289+00:00
+ - user: None
+ - tags: []
+
+## Parler 3.0
+ - [https://parler.com](https://parler.com)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MOONLIGHT LOVE AFFAIR
+ - [https://www.parovstelar.com](https://www.parovstelar.com)
+ - date published: 2023-10-30T15:45:25.629658+00:00
+ - user: None
+ - tags: ['music band', 'parov stellar']
+
+## Pars Defense
+ - [https://parsdefense.com](https://parsdefense.com)
+ - date published: 2024-02-06T11:07:59+00:00
+ - user: rumpel
+ - tags: ['spyware vendor']
+
+## Parseable - Log analytics stack, built for developers
+ - [https://parseable.com](https://parseable.com)
+ - date published: 2024-04-08T19:30:14.844367+00:00
+ - user: None
+ - tags: ['log analytics system', 'self-host']
+
+## ParseHub | Free web scraping - The most powerful web scraper
+ - [https://www.parsehub.com](https://www.parsehub.com)
+ - date published: 2024-01-17T09:05:15+00:00
+ - user: rumpel
+ - tags: ['web scraping']
+
+## Le blog de Pascal Andy
+ - [https://pascalandy.com](https://pascalandy.com)
+ - date published: 2024-01-13T04:52:48.069302+00:00
+ - user: None
+ - tags: []
+
+## Passbolt: The Open Source Password Manager For Teams
+ - [https://passbolt.com](https://passbolt.com)
+ - date published: 2024-04-08T19:30:16.100325+00:00
+ - user: None
+ - tags: ['self-host', 'password manager', 'open source']
+
+## Error
+ - [https://book.passkey.com](https://book.passkey.com)
+ - date published: 2024-02-05T17:23:43.653453+00:00
+ - user: None
+ - tags: []
+
+## PassMark Software - PC Benchmark and Test Software
+ - [https://www.passmark.com](https://www.passmark.com)
+ - date published: 2024-04-18T11:12:54+00:00
+ - user: rumpel
+ - tags: ['pc benchmark']
+
+## Live Your Dream
+ - [https://passportjoy.com](https://passportjoy.com)
+ - date published: 2023-12-10T11:35:05.409561+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pastebin.com - #1 paste tool since 2002!
+ - [https://pastebin.com](https://pastebin.com)
+ - date published: 2023-10-24T20:19:33.932082+00:00
+ - user: None
+ - tags: ['internet service']
+
+## Patagonia Outdoor Clothing & Gear
+ - [https://www.patagonia.com](https://www.patagonia.com)
+ - date published: 2023-10-25T16:30:56.435107+00:00
+ - user: None
+ - tags: []
+
+## Inpics Gadget Repair Services - InPics Solutions
+ - [https://patersontech.com](https://patersontech.com)
+ - date published: 2023-10-25T16:30:59.777009+00:00
+ - user: None
+ - tags: []
+
+## Pathfinder Infinite -
+ - [https://www.pathfinderinfinite.com](https://www.pathfinderinfinite.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['shop', 'magazines']
+
+## Path of Exile
+ - [https://www.pathofexile.com](https://www.pathofexile.com)
+ - date published: 2023-10-25T08:39:41.111324+00:00
+ - user: None
+ - tags: ['game']
+
+## Path-Sensitive
+ - [https://www.pathsensitive.com](https://www.pathsensitive.com)
+ - date published: 2023-10-25T16:31:04.472557+00:00
+ - user: None
+ - tags: []
+
+## PJK's Blog
+ - [https://www.patjk.com](https://www.patjk.com)
+ - date published: 2023-12-15T21:43:37.233324+00:00
+ - user: None
+ - tags: ['personal']
+
+## PJK's Blog
+ - [http://www.patjk.com](http://www.patjk.com)
+ - date published: 2024-04-03T06:29:54.946071+00:00
+ - user: None
+ - tags: ['personal']
+
+## ~patmaddox: Home
+ - [https://patmaddox.com](https://patmaddox.com)
+ - date published: 2023-12-04T06:13:53.079304+00:00
+ - user: None
+ - tags: []
+
+## patorjk.com
+ - [https://patorjk.com](https://patorjk.com)
+ - date published: 2023-12-08T13:07:39+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Patreon | News | Home
+ - [https://blog.patreon.com](https://blog.patreon.com)
+ - date published: 2023-10-25T11:32:44.994110+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://c6.patreon.com](https://c6.patreon.com)
+ - date published: 2024-02-26T15:23:53.559834+00:00
+ - user: None
+ - tags: []
+
+## Home — Patreon
+ - [https://patreon.com](https://patreon.com)
+ - date published: 2023-12-11T17:25:04.928912+00:00
+ - user: None
+ - tags: []
+
+## Home — Patreon
+ - [http://www.patreon.com](http://www.patreon.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Max  FitzGerald  | Patreon
+ - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
+ - date published: 2023-10-27T15:07:52+00:00
+ - user: rumpel
+ - tags: ['turnip28', 'tabletop games']
+
+## Home — Patreon
+ - [https://www.patreon.com](https://www.patreon.com)
+ - date published: 2023-10-25T11:34:19.134811+00:00
+ - user: None
+ - tags: ['crowdfunding']
+
+## Home
+ - [https://patriciabt.com](https://patriciabt.com)
+ - date published: 2021-03-20T13:59:17+00:00
+ - user: None
+ - tags: []
+
+## Home · Patrick Collison
+ - [https://patrickcollison.com](https://patrickcollison.com)
+ - date published: 2023-10-25T08:47:23.257678+00:00
+ - user: None
+ - tags: ['personal']
+
+## Patrick Conway
+ - [https://patrickconway.com](https://patrickconway.com)
+ - date published: 2023-11-29T16:18:59.190945+00:00
+ - user: None
+ - tags: ['personal']
+
+## Patrick Evrard
+ - [https://www.patrickevrard.com](https://www.patrickevrard.com)
+ - date published: 2024-04-08T10:12:27+00:00
+ - user: rumpel
+ - tags: ['3d artist', 'personal']
+
+## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
+ - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
+ - date published: 2023-12-21T08:24:19.074982+00:00
+ - user: None
+ - tags: ['personal']
+
+## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
+ - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
+ - date published: 2023-12-23T07:30:12.092026+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Patrick Yandell
  - [https://patrickyandell.com](https://patrickyandell.com)
  - date published: 2023-11-29T14:24:18.301040+00:00
@@ -274,15 +472,15 @@
  - user: None
  - tags: ['personal']
 
-## PCMag UK
- - [http://uk.pcmag.com](http://uk.pcmag.com)
- - date published: 2024-02-26T09:45:15.403718+00:00
- - user: None
- - tags: []
-
 ## PCMag.com - Technology Product Reviews, News, Prices & Tips
  - [https://uk.pcmag.com](https://uk.pcmag.com)
  - date published: 2023-10-25T09:34:32.882984+00:00
+ - user: None
+ - tags: []
+
+## PCMag UK
+ - [http://uk.pcmag.com](http://uk.pcmag.com)
+ - date published: 2024-02-26T09:45:15.403718+00:00
  - user: None
  - tags: []
 
@@ -929,13 +1127,13 @@
  - tags: []
 
 ## Paul's Dev Notes
- - [http://www.pfrazee.com](http://www.pfrazee.com)
+ - [https://www.pfrazee.com](https://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Paul's Dev Notes
- - [https://www.pfrazee.com](https://www.pfrazee.com)
+ - [http://www.pfrazee.com](http://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -2186,13 +2384,13 @@
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -2414,14 +2612,14 @@
  - tags: []
 
 ## PostHog - The open source Product OS
- - [https://posthog.com](https://posthog.com)
- - date published: 2023-10-25T16:38:22.584209+00:00
+ - [http://posthog.com](http://posthog.com)
+ - date published: 2024-02-26T09:54:45.800568+00:00
  - user: None
  - tags: []
 
 ## PostHog - The open source Product OS
- - [http://posthog.com](http://posthog.com)
- - date published: 2024-02-26T09:54:45.800568+00:00
+ - [https://posthog.com](https://posthog.com)
+ - date published: 2023-10-25T16:38:22.584209+00:00
  - user: None
  - tags: []
 
@@ -2696,14 +2894,14 @@
  - tags: []
 
 ## Preshing on Programming
- - [http://preshing.com](http://preshing.com)
- - date published: 2021-03-15T00:00:00+00:00
+ - [https://preshing.com](https://preshing.com)
+ - date published: 2023-10-25T16:39:24.657091+00:00
  - user: None
  - tags: []
 
 ## Preshing on Programming
- - [https://preshing.com](https://preshing.com)
- - date published: 2023-10-25T16:39:24.657091+00:00
+ - [http://preshing.com](http://preshing.com)
+ - date published: 2021-03-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5257,14 +5455,14 @@ More!
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
+ - [http://www.reddit-stream.com](http://www.reddit-stream.com)
+ - date published: 2023-12-23T19:30:18.252561+00:00
  - user: None
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [http://www.reddit-stream.com](http://www.reddit-stream.com)
- - date published: 2023-12-23T19:30:18.252561+00:00
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
  - user: None
  - tags: []
 
@@ -5805,204 +6003,6 @@ More!
 ## Homepage - Research Professional News
  - [https://www.researchprofessionalnews.com](https://www.researchprofessionalnews.com)
  - date published: 2023-10-25T16:50:04.201997+00:00
- - user: None
- - tags: []
-
-## Resend
- - [https://resend.com](https://resend.com)
- - date published: 2023-10-25T16:50:10.173228+00:00
- - user: None
- - tags: []
-
-## Resident Contrarian | Substack
- - [https://www.residentcontrarian.com](https://www.residentcontrarian.com)
- - date published: 2023-10-25T16:50:13.160491+00:00
- - user: None
- - tags: []
-
-## Resolume
- - [https://www.resolume.com](https://www.resolume.com)
- - date published: 2024-03-14T04:47:45+00:00
- - user: None
- - tags: []
-
-## Responscious Creative Studio
- - [https://www.responscious.com](https://www.responscious.com)
- - date published: 2024-01-07T04:14:46.975734+00:00
- - user: None
- - tags: []
-
-## Building a starter pack for an API-as-a-Service
- - [https://www.resteasyapi.com](https://www.resteasyapi.com)
- - date published: 2023-11-20T20:12:06+00:00
- - user: None
- - tags: []
-
-## RestorePrivacy | Your online privacy resource center
- - [https://restoreprivacy.com](https://restoreprivacy.com)
- - date published: 2023-10-25T16:50:18.686824+00:00
- - user: None
- - tags: []
-
-## The Best Free Online Resume Builder - ResumeBuilder.com
- - [https://www.resumebuilder.com](https://www.resumebuilder.com)
- - date published: 2023-10-25T16:50:20.501887+00:00
- - user: None
- - tags: []
-
-## RetailWire - Insights & Trends from Retail Industry Experts
- - [https://retailwire.com](https://retailwire.com)
- - date published: 2024-01-09T02:47:48.716736+00:00
- - user: None
- - tags: []
-
-## Retell AI - Conversational speech API for your LLM
- - [https://www.retellai.com](https://www.retellai.com)
- - date published: 2024-02-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Retool | The fastest way to develop effective software.
- - [https://retool.com](https://retool.com)
- - date published: 2023-10-25T16:50:27.329954+00:00
- - user: None
- - tags: []
-
-## https://retractionwatch.com
- - [https://retractionwatch.com](https://retractionwatch.com)
- - date published: 2023-12-13T03:59:08.828047+00:00
- - user: None
- - tags: []
-
-## Retro32 | Amiga | Commodore | Retro Gaming Store Shop | 3D Printing
- - [https://www.retro32.com](https://www.retro32.com)
- - date published: 2023-10-25T11:15:21.579596+00:00
- - user: None
- - tags: ['shop']
-
-## Welcome to RETROCMP
- - [https://retrocmp.com](https://retrocmp.com)
- - date published: 2024-02-08T16:50:41.843398+00:00
- - user: None
- - tags: []
-
-## Retro Dodo - Retro Gaming Reviews & News
- - [https://retrododo.com](https://retrododo.com)
- - date published: 2023-10-25T10:46:34.000501+00:00
- - user: None
- - tags: ['game news', 'retro game']
-
-## Retro entre Amigos
- - [https://www.retroentreamigos.com](https://www.retroentreamigos.com)
- - date published: 2023-11-02T09:46:17.486897+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://retrogamecoders.com](https://retrogamecoders.com)
- - date published: 2023-11-02T11:00:22.902914+00:00
- - user: None
- - tags: ['amiga', 'retro games']
-
-## Retro Gaming Crew - Das retro Gaming Magazin
- - [https://www.retrogamingcrew.com](https://www.retrogamingcrew.com)
- - date published: 2023-12-11T19:06:24.467363+00:00
- - user: None
- - tags: []
-
-## RetroKingPin - Retro Gaming News & Reviews
- - [https://www.retrokingpin.com](https://www.retrokingpin.com)
- - date published: 2023-10-26T18:55:54.590808+00:00
- - user: None
- - tags: ['game news']
-
-## Los mejores juegos retro para descargar gratis - Retrolorian
- - [https://www.retrolorian.com](https://www.retrolorian.com)
- - date published: 2023-11-17T21:44:04+00:00
- - user: rumpel
- - tags: ['retro games']
-
-## Retromags
- - [https://www.retromags.com](https://www.retromags.com)
- - date published: 2024-02-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Retro Otaku - My nerdy video gaming soapbox...
- - [https://www.retro-otaku.com](https://www.retro-otaku.com)
- - date published: 2023-10-27T14:43:31.465677+00:00
- - user: None
- - tags: ['retro games']
-
-## About the Retro-Printer Module | RetroPrinter.com
- - [https://www.retroprinter.com](https://www.retroprinter.com)
- - date published: 2023-10-25T16:50:29.050727+00:00
- - user: None
- - tags: []
-
-## Adam's Vintage Computer Restorations
- - [https://retrorepairsandrefurbs.com](https://retrorepairsandrefurbs.com)
- - date published: 2023-10-25T08:47:47.426248+00:00
- - user: None
- - tags: ['personal']
-
-## Retro Reverse Engineering · RetroReversing
- - [https://www.retroreversing.com](https://www.retroreversing.com)
- - date published: 2023-10-25T16:50:34.097785+00:00
- - user: None
- - tags: ['reverse engineering']
-
-## RetroRGB |
- - [https://www.retrorgb.com](https://www.retrorgb.com)
- - date published: 2024-01-19T18:38:43+00:00
- - user: None
- - tags: ['retro games']
-
-## Retro Synthwave – Outrun
- - [https://www.retro-synthwave.com](https://www.retro-synthwave.com)
- - date published: 2023-11-13T10:27:34.345834+00:00
- - user: None
- - tags: ['synthwave']
-
-## retrotechnology.com, retrotechnology.net
- - [https://www.retrotechnology.com](https://www.retrotechnology.com)
- - date published: 2023-10-25T08:47:48.567953+00:00
- - user: None
- - tags: ['personal']
-
-## Home | RetroTINK LLC
- - [https://www.retrotink.com](https://www.retrotink.com)
- - date published: 2024-01-19T18:33:04+00:00
- - user: None
- - tags: ['retro games', 'hardware']
-
-## PowerShark for your Amiga is coming!
- - [https://retrousbpower.com](https://retrousbpower.com)
- - date published: 2024-02-02T07:10:46.302196+00:00
- - user: None
- - tags: ['amiga', 'hardware']
-
-## Return to Monkey Island | Available now on PC, Nintendo Swtich, PS5, and Xbox S/X
- - [https://returntomonkeyisland.com](https://returntomonkeyisland.com)
- - date published: 2023-10-25T16:50:39.735294+00:00
- - user: None
- - tags: []
-
-## The Lord of the Rings: Return to Moria™
- - [https://www.returntomoria.com](https://www.returntomoria.com)
- - date published: 2023-10-25T13:56:54.054723+00:00
- - user: None
- - tags: ['tolkien']
-
-## Return To Office Mandates
- - [https://returntoofficemandate.com](https://returntoofficemandate.com)
- - date published: 2024-03-18T15:01:05+00:00
- - user: rumpel
- - tags: ['work']
-
-## Reuters | Breaking International News & Views
- - [https://www.reuters.com](https://www.reuters.com)
- - date published: 2023-10-25T10:38:41.639140+00:00
  - user: None
  - tags: []
 

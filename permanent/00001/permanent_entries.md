@@ -1,3 +1,33 @@
+## Notícias de hoje do Brasil e do Mundo | Folha de S.Paulo
+ - [https://www1.folha.uol.com.br](https://www1.folha.uol.com.br)
+ - date published: 2023-11-18T08:17:46.153355+00:00
+ - user: None
+ - tags: []
+
+## GOV.BR
+ - [https://www.gov.br](https://www.gov.br)
+ - date published: 2023-12-11T19:33:23.992575+00:00
+ - user: None
+ - tags: ['government']
+
+## Resultados Oficial
+ - [https://resultados.tse.jus.br](https://resultados.tse.jus.br)
+ - date published: 2023-10-25T12:02:51.440167+00:00
+ - user: None
+ - tags: []
+
+## Escravo, nem pensar!
+ - [https://escravonempensar.org.br](https://escravonempensar.org.br)
+ - date published: 2024-01-09T02:26:51.999598+00:00
+ - user: None
+ - tags: []
+
+## Escravo, nem pensar!
+ - [https://www.escravonempensar.org.br](https://www.escravonempensar.org.br)
+ - date published: 2024-01-09T02:26:57.139425+00:00
+ - user: None
+ - tags: []
+
 ## Home - Inhotim
  - [https://www.inhotim.org.br](https://www.inhotim.org.br)
  - date published: 2023-11-13T13:54:33.035629+00:00
@@ -368,7 +398,7 @@
  - [https://calgary.citynews.ca](https://calgary.citynews.ca)
  - date published: 2024-01-14T14:56:16.599498+00:00
  - user: None
- - tags: []
+ - tags: ['canada', 'news']
 
 ## Breaking News | Top Local Stories | CityNews Montreal
  - [https://montreal.citynews.ca](https://montreal.citynews.ca)
@@ -652,6 +682,12 @@
  - user: None
  - tags: ['personal']
 
+## Network visualization of 50k blogs and links
+ - [https://graph.henryn.ca](https://graph.henryn.ca)
+ - date published: 2024-04-23T19:33:21+00:00
+ - user: None
+ - tags: []
+
 ## Home - Highgo Software Inc.
  - [https://www.highgo.ca](https://www.highgo.ca)
  - date published: 2023-12-18T21:53:17.162282+00:00
@@ -719,14 +755,14 @@
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [https://jenniferashton.ca](https://jenniferashton.ca)
- - date published: 2023-12-20T19:14:23.669927+00:00
+ - [http://jenniferashton.ca](http://jenniferashton.ca)
+ - date published: 2023-12-25T04:56:31.047100+00:00
  - user: None
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [http://jenniferashton.ca](http://jenniferashton.ca)
- - date published: 2023-12-25T04:56:31.047100+00:00
+ - [https://jenniferashton.ca](https://jenniferashton.ca)
+ - date published: 2023-12-20T19:14:23.669927+00:00
  - user: None
  - tags: ['personal']
 
@@ -917,14 +953,14 @@
  - tags: []
 
 ## National Film Board of Canada
- - [https://www.nfb.ca](https://www.nfb.ca)
- - date published: 2023-10-25T12:06:29.183270+00:00
+ - [http://www.nfb.ca](http://www.nfb.ca)
+ - date published: 2024-02-26T12:35:45.332677+00:00
  - user: None
  - tags: []
 
 ## National Film Board of Canada
- - [http://www.nfb.ca](http://www.nfb.ca)
- - date published: 2024-02-26T12:35:45.332677+00:00
+ - [https://www.nfb.ca](https://www.nfb.ca)
+ - date published: 2023-10-25T12:06:29.183270+00:00
  - user: None
  - tags: []
 
@@ -934,15 +970,21 @@
  - user: None
  - tags: []
 
-## None
- - [https://novak.ca](https://novak.ca)
- - date published: 2024-01-11T02:12:34.554251+00:00
- - user: None
+## Nathaniel Johnston
+ - [https://njohnston.ca](https://njohnston.ca)
+ - date published: 2024-04-23T14:36:52+00:00
+ - user: rumpel
  - tags: ['personal']
 
 ## Novak Family
  - [http://novak.ca](http://novak.ca)
  - date published: 2024-04-03T06:29:56.862797+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://novak.ca](https://novak.ca)
+ - date published: 2024-01-11T02:12:34.554251+00:00
  - user: None
  - tags: ['personal']
 
@@ -1091,14 +1133,14 @@
  - tags: ['personal']
 
 ## Scott Redmond
- - [https://www.scottredmond.ca](https://www.scottredmond.ca)
- - date published: 2024-01-23T03:27:52.039443+00:00
+ - [http://www.scottredmond.ca](http://www.scottredmond.ca)
+ - date published: 2024-04-03T12:49:31.889702+00:00
  - user: None
  - tags: ['personal']
 
 ## Scott Redmond
- - [http://www.scottredmond.ca](http://www.scottredmond.ca)
- - date published: 2024-04-03T12:49:31.889702+00:00
+ - [https://www.scottredmond.ca](https://www.scottredmond.ca)
+ - date published: 2024-01-23T03:27:52.039443+00:00
  - user: None
  - tags: ['personal']
 
@@ -2058,6 +2100,12 @@
  - user: None
  - tags: []
 
+## Sergio Camalich | Maker of Stuff
+ - [https://www.camali.ch](https://www.camali.ch)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## CernVM
  - [https://cernvm.cern.ch](https://cernvm.cern.ch)
  - date published: 2023-10-25T12:13:02.528440+00:00
@@ -2557,14 +2605,14 @@
  - tags: []
 
 ## Rocket.Chat: Communications Platform You Can Fully Trust
- - [https://rocket.chat](https://rocket.chat)
- - date published: 2024-04-08T00:00:00+00:00
+ - [http://rocket.chat](http://rocket.chat)
+ - date published: 2024-04-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Rocket.Chat: Communications Platform You Can Fully Trust
- - [http://rocket.chat](http://rocket.chat)
- - date published: 2024-04-17T00:00:00+00:00
+ - [https://rocket.chat](https://rocket.chat)
+ - date published: 2024-04-08T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2801,6 +2849,12 @@
  - date published: 2023-10-25T12:15:55.482462+00:00
  - user: None
  - tags: []
+
+## lowercase - design and development done different
+ - [https://www.lowercase.club](https://www.lowercase.club)
+ - date published: 2024-04-23T05:14:30+00:00
+ - user: rumpel
+ - tags: ['software developer', 'company']
 
 ## No CSS Club
  - [https://nocss.club](https://nocss.club)
@@ -3396,6 +3450,12 @@
  - user: None
  - tags: ['video game music']
 
+## The Garden of Forking Paths | Brian Klaas | Substack
+ - [https://www.forkingpaths.co](https://www.forkingpaths.co)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Launch a Fractal HomeServer | Fractal Networks
  - [https://fractalnetworks.co](https://fractalnetworks.co)
  - date published: 2024-04-08T19:28:33.192713+00:00
@@ -3571,14 +3631,14 @@
  - tags: []
 
 ## Jonny Miller
- - [https://www.jonnymiller.co](https://www.jonnymiller.co)
- - date published: 2024-01-08T15:36:50.624044+00:00
+ - [http://www.jonnymiller.co](http://www.jonnymiller.co)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Jonny Miller
- - [http://www.jonnymiller.co](http://www.jonnymiller.co)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://www.jonnymiller.co](https://www.jonnymiller.co)
+ - date published: 2024-01-08T15:36:50.624044+00:00
  - user: None
  - tags: []
 
@@ -3811,14 +3871,14 @@
  - tags: []
 
 ## Nabeel S. Qureshi
- - [http://nabeelqu.co](http://nabeelqu.co)
- - date published: 2024-02-26T09:20:32.283903+00:00
+ - [https://nabeelqu.co](https://nabeelqu.co)
+ - date published: 2024-01-20T19:20:52.169397+00:00
  - user: None
  - tags: []
 
 ## Nabeel S. Qureshi
- - [https://nabeelqu.co](https://nabeelqu.co)
- - date published: 2024-01-20T19:20:52.169397+00:00
+ - [http://nabeelqu.co](http://nabeelqu.co)
+ - date published: 2024-02-26T09:20:32.283903+00:00
  - user: None
  - tags: []
 
@@ -4171,14 +4231,14 @@
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [http://stateofthenation.co](http://stateofthenation.co)
- - date published: 2024-02-26T12:49:19.790593+00:00
+ - [https://stateofthenation.co](https://stateofthenation.co)
+ - date published: 2023-10-25T12:23:13.580451+00:00
  - user: None
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [https://stateofthenation.co](https://stateofthenation.co)
- - date published: 2023-10-25T12:23:13.580451+00:00
+ - [http://stateofthenation.co](http://stateofthenation.co)
+ - date published: 2024-02-26T12:49:19.790593+00:00
  - user: None
  - tags: []
 
@@ -5300,17 +5360,17 @@
  - user: None
  - tags: ['personal']
 
-## Coming Soon
- - [https://aaronshbeeb.com](https://aaronshbeeb.com)
- - date published: 2023-12-17T20:59:02.532105+00:00
- - user: None
- - tags: ['personal']
-
 ## Home - Aaron Shbeeb
  - [http://aaronshbeeb.com](http://aaronshbeeb.com)
  - date published: 2024-04-03T00:00:00+00:00
  - user: None
  - tags: []
+
+## Coming Soon
+ - [https://aaronshbeeb.com](https://aaronshbeeb.com)
+ - date published: 2023-12-17T20:59:02.532105+00:00
+ - user: None
+ - tags: ['personal']
 
 ## AaronStrick.com
  - [https://aaronstrick.com](https://aaronstrick.com)
@@ -5499,14 +5559,14 @@
  - tags: []
 
 ## Abhinav Bhatt
- - [https://abhinavbhatt.com](https://abhinavbhatt.com)
- - date published: 2024-01-13T22:54:15.913288+00:00
+ - [http://abhinavbhatt.com](http://abhinavbhatt.com)
+ - date published: 2024-04-03T12:49:59.456600+00:00
  - user: None
  - tags: ['personal']
 
 ## Abhinav Bhatt
- - [http://abhinavbhatt.com](http://abhinavbhatt.com)
- - date published: 2024-04-03T12:49:59.456600+00:00
+ - [https://abhinavbhatt.com](https://abhinavbhatt.com)
+ - date published: 2024-01-13T22:54:15.913288+00:00
  - user: None
  - tags: ['personal']
 
@@ -5822,6 +5882,12 @@
  - user: None
  - tags: []
 
+## “learn.adacore.com"
+ - [https://learn.adacore.com](https://learn.adacore.com)
+ - date published: 2024-04-23T15:49:20+00:00
+ - user: rumpel
+ - tags: []
+
 ## Commercial software solutions for Ada, C and C++ | AdaCore
  - [https://www.adacore.com](https://www.adacore.com)
  - date published: 2023-10-25T11:27:07.163203+00:00
@@ -5857,6 +5923,12 @@
  - date published: 2023-10-25T12:31:57.417942+00:00
  - user: None
  - tags: []
+
+## Ada Programming Language
+ - [https://www.ada-language.com](https://www.ada-language.com)
+ - date published: 2024-04-23T15:57:10+00:00
+ - user: rumpel
+ - tags: ['ada', 'programming language']
 
 ## Adam Albrecht - Full Stack Developer in Columbus, Ohio
  - [https://www.adamalbrecht.com](https://www.adamalbrecht.com)
@@ -5925,80 +5997,8 @@
  - tags: []
 
 ## Adam Fisher
- - [https://adamfishertrumpet.com](https://adamfishertrumpet.com)
- - date published: 2024-01-09T02:29:07.213553+00:00
- - user: None
- - tags: []
-
-## Adam Fisher
  - [http://adamfishertrumpet.com](http://adamfishertrumpet.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
-
-## AdamFortuna.com
- - [https://adamfortuna.com](https://adamfortuna.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Adam Fuhrer | Frontend Engineer
- - [https://adamfuhrer.com](https://adamfuhrer.com)
- - date published: 2023-10-25T12:32:10.321239+00:00
- - user: None
- - tags: []
-
-## Adam Horne Creative Services — Stockholm, Sweden
- - [https://adamhorne.com](https://adamhorne.com)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Adam Lee Rosenfeld
- - [https://adamleerosenfeld.com](https://adamleerosenfeld.com)
- - date published: 2023-11-29T14:22:29.279710+00:00
- - user: None
- - tags: ['personal']
-
-## Adam Levin - Cybersecurity News, Opinions, and Analysis from Leading Experts AdamLevin
- - [https://adamlevin.com](https://adamlevin.com)
- - date published: 2024-03-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Adam Mattis - Technology & Operations Exec
- - [https://www.adammattis.com](https://www.adammattis.com)
- - date published: 2024-01-19T13:01:04.477003+00:00
- - user: None
- - tags: []
-
-## Adam Metropolis
- - [https://www.adammetropolis.com](https://www.adammetropolis.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Adam Obeng
- - [https://adamobeng.com](https://adamobeng.com)
- - date published: 2024-02-18T10:32:24.481706+00:00
- - user: None
- - tags: []
-
-## Adam Pangelinan
- - [https://adampangelinan.com](https://adampangelinan.com)
- - date published: 2023-11-29T16:20:04.807567+00:00
- - user: None
- - tags: ['personal']
-
-## Adam Stoner
- - [https://adamstoner.com](https://adamstoner.com)
- - date published: 2023-12-30T22:22:54.403935+00:00
- - user: None
- - tags: ['personal']
-
-## adamtcroft.com
- - [https://adamtcroft.com](https://adamtcroft.com)
- - date published: 2023-11-16T21:06:42.760162+00:00
- - user: None
- - tags: ['personal']
 

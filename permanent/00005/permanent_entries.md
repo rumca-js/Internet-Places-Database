@@ -1,3 +1,153 @@
+## DefenseScoop | Breaking US Military Tech News, Modern Defense News
+ - [https://defensescoop.com](https://defensescoop.com)
+ - date published: 2023-10-25T13:48:19.117494+00:00
+ - user: None
+ - tags: []
+
+## Defiant America – Home Page
+ - [https://defiantamerica.com](https://defiantamerica.com)
+ - date published: 2023-10-25T13:48:23.084019+00:00
+ - user: None
+ - tags: []
+
+## Home - Radiant Life Counselling
+ - [https://www.deganwalters.com](https://www.deganwalters.com)
+ - date published: 2022-12-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Degenerate Conic
+ - [https://degenerateconic.com](https://degenerateconic.com)
+ - date published: 2023-10-25T13:48:30.999460+00:00
+ - user: None
+ - tags: []
+
+## Degrees What?
+ - [https://degreeswhat.com](https://degreeswhat.com)
+ - date published: 2023-10-25T13:48:31.539045+00:00
+ - user: None
+ - tags: []
+
+## De Gruyter
+ - [https://www.degruyter.com](https://www.degruyter.com)
+ - date published: 2024-03-03T23:24:53.753850+00:00
+ - user: None
+ - tags: []
+
+## DEHILOYCROCHET
+ - [https://dehiloycrochet.com](https://dehiloycrochet.com)
+ - date published: 2024-01-03T04:06:02.634909+00:00
+ - user: None
+ - tags: []
+
+## Power efficiency
+ - [https://www.deif.com](https://www.deif.com)
+ - date published: 2023-10-25T13:48:34.616072+00:00
+ - user: None
+ - tags: []
+
+## RIP Google Groups Dejanews.com Archive
+ - [http://dejanews.com](http://dejanews.com)
+ - date published: 2023-11-12T09:43:15+00:00
+ - user: None
+ - tags: []
+
+## SEO & Digital Marketing Agency - DEJAN ™
+ - [https://dejanmarketing.com](https://dejanmarketing.com)
+ - date published: 2023-10-25T13:48:37.761453+00:00
+ - user: None
+ - tags: []
+
+## Deka Research and Development Corp.
+ - [https://www.dekaresearch.com](https://www.dekaresearch.com)
+ - date published: 2022-07-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Delaware Business Times Home Page - Delaware Business Times
+ - [https://delawarebusinesstimes.com](https://delawarebusinesstimes.com)
+ - date published: 2023-10-25T13:48:43.296680+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.delawareonline.com](https://www.delawareonline.com)
+ - date published: 2024-04-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Laptops, Monitors, Computers & Storage Solutions | Dell Polska
+ - [https://www.dell.com](https://www.dell.com)
+ - date published: 2023-10-25T11:51:35.934416+00:00
+ - user: None
+ - tags: []
+
+## Delorean Motor Company
+ - [https://delorean.com](https://delorean.com)
+ - date published: 2023-10-25T13:48:49.685212+00:00
+ - user: None
+ - tags: []
+
+## delorie software
+ - [https://www.delorie.com](https://www.delorie.com)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['djgpp']
+
+## Delphine McClelland
+ - [https://delphinemcclelland.com](https://delphinemcclelland.com)
+ - date published: 2023-11-29T16:21:10.733735+00:00
+ - user: None
+ - tags: ['personal']
+
+## Delta Air Lines | Flights & Plane Tickets + Hotels & Rental Cars
+ - [https://www.delta.com](https://www.delta.com)
+ - date published: 2024-04-02T14:29:12+00:00
+ - user: rumpel
+ - tags: ['airline']
+
+## Before you continue to YouTube
+ - [https://www.deltadreams.com](https://www.deltadreams.com)
+ - date published: 2023-12-26T06:31:21.923157+00:00
+ - user: None
+ - tags: ['personal']
+
+## SEO Platform for Enterprises & Agencies - DemandSphere
+ - [https://www.demandsphere.com](https://www.demandsphere.com)
+ - date published: 2023-10-25T13:48:54.822392+00:00
+ - user: None
+ - tags: []
+
+## Democracy Docket
+ - [https://www.democracydocket.com](https://www.democracydocket.com)
+ - date published: 2024-03-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
+ - [http://democratherald.com](http://democratherald.com)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
+ - [https://democratherald.com](https://democratherald.com)
+ - date published: 2023-11-04T05:50:19.542658+00:00
+ - user: None
+ - tags: []
+
+## Demodesk | The sales meeting platform
+ - [https://demodesk.com](https://demodesk.com)
+ - date published: 2023-10-25T13:48:59.749649+00:00
+ - user: None
+ - tags: []
+
+## Demonac.com
+ - [https://www.demonac.com](https://www.demonac.com)
+ - date published: 2024-04-07T16:16:23+00:00
+ - user: rumpel
+ - tags: ['personal', 'comics']
+
 ## Show HN: I made a site that lets you make interactive demos for free
  - [https://www.demopond.com](https://www.demopond.com)
  - date published: 2024-04-14T09:26:58+00:00
@@ -394,15 +544,15 @@
  - user: None
  - tags: []
 
-## introducing mazzle - a pipelines as code tool
- - [http://devops-pipeline.com](http://devops-pipeline.com)
- - date published: 2024-02-29T14:58:14.068438+00:00
- - user: None
- - tags: []
-
 ## Mazzle – A Pipelines as Code Tool
  - [https://devops-pipeline.com](https://devops-pipeline.com)
  - date published: 2023-12-31T11:15:08+00:00
+ - user: None
+ - tags: []
+
+## introducing mazzle - a pipelines as code tool
+ - [http://devops-pipeline.com](http://devops-pipeline.com)
+ - date published: 2024-02-29T14:58:14.068438+00:00
  - user: None
  - tags: []
 
@@ -1617,7 +1767,7 @@
  - [https://dougbelshaw.com](https://dougbelshaw.com)
  - date published: 2023-12-22T17:47:45.891466+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## DOUGLAS BALMAIN
  - [http://douglasbalmain.com](http://douglasbalmain.com)
@@ -1896,14 +2046,14 @@
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [https://drinkag1.com](https://drinkag1.com)
- - date published: 2024-02-24T09:55:07.922857+00:00
+ - [http://drinkag1.com](http://drinkag1.com)
+ - date published: 2024-01-21T19:15:07.982155+00:00
  - user: None
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [http://drinkag1.com](http://drinkag1.com)
- - date published: 2024-01-21T19:15:07.982155+00:00
+ - [https://drinkag1.com](https://drinkag1.com)
+ - date published: 2024-02-24T09:55:07.922857+00:00
  - user: None
  - tags: []
 
@@ -3447,7 +3597,7 @@
  - [https://embeddedartistry.com](https://embeddedartistry.com)
  - date published: 2023-10-25T14:06:31.554945+00:00
  - user: None
- - tags: []
+ - tags: ['embeded systemem', 'programming']
 
 ## Burkhard Stubert – The Specialist in Smart User Interfaces for Industrial Machinery
  - [https://embeddeduse.com](https://embeddeduse.com)
@@ -3498,14 +3648,14 @@
  - tags: []
 
 ## Supercharge your mobile apps | Emerge Tools
- - [https://www.emergetools.com](https://www.emergetools.com)
- - date published: 2023-10-25T14:06:59.391184+00:00
+ - [http://www.emergetools.com](http://www.emergetools.com)
+ - date published: 2024-02-25T20:03:45.981322+00:00
  - user: None
  - tags: []
 
 ## Supercharge your mobile apps | Emerge Tools
- - [http://www.emergetools.com](http://www.emergetools.com)
- - date published: 2024-02-25T20:03:45.981322+00:00
+ - [https://www.emergetools.com](https://www.emergetools.com)
+ - date published: 2023-10-25T14:06:59.391184+00:00
  - user: None
  - tags: []
 
@@ -4260,14 +4410,14 @@
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [https://www.espn.com](https://www.espn.com)
- - date published: 2023-10-25T10:09:24.738987+00:00
+ - [http://www.espn.com](http://www.espn.com)
+ - date published: 2024-02-25T16:13:57.477675+00:00
  - user: None
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [http://www.espn.com](http://www.espn.com)
- - date published: 2024-02-25T16:13:57.477675+00:00
+ - [https://www.espn.com](https://www.espn.com)
+ - date published: 2023-10-25T10:09:24.738987+00:00
  - user: None
  - tags: []
 
@@ -5154,14 +5304,14 @@
  - tags: []
 
 ## Log in or sign up to view
- - [http://facebook.com](http://facebook.com)
- - date published: 2024-02-24T09:56:45.941514+00:00
+ - [https://facebook.com](https://facebook.com)
+ - date published: 2023-12-11T16:53:43.180916+00:00
  - user: None
  - tags: []
 
 ## Log in or sign up to view
- - [https://facebook.com](https://facebook.com)
- - date published: 2023-12-11T16:53:43.180916+00:00
+ - [http://facebook.com](http://facebook.com)
+ - date published: 2024-02-24T09:56:45.941514+00:00
  - user: None
  - tags: []
 
@@ -5183,17 +5333,17 @@
  - user: rumpel
  - tags: ['facebook']
 
-## Log in or sign up to view
- - [http://www.facebook.com](http://www.facebook.com)
- - date published: 2024-02-24T09:54:20.558477+00:00
- - user: None
- - tags: []
-
 ## Facebook
  - [https://www.facebook.com](https://www.facebook.com)
  - date published: 2023-10-24T20:15:12+00:00
  - user: rumpel
  - tags: ['gatekeeper', 'social platform']
+
+## Log in or sign up to view
+ - [http://www.facebook.com](http://www.facebook.com)
+ - date published: 2024-02-24T09:54:20.558477+00:00
+ - user: None
+ - tags: []
 
 ## In re: Facebook, Inc. Consumer Privacy User Profile Litigation
  - [https://www.facebookuserprivacysettlement.com](https://www.facebookuserprivacysettlement.com)
@@ -5586,16 +5736,22 @@
  - tags: []
 
 ## Fang-Pen's coding note
+ - [http://fangpenlin.com](http://fangpenlin.com)
+ - date published: 2024-01-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Fang-Pen's coding note
  - [https://fangpenlin.com](https://fangpenlin.com)
  - date published: 2024-01-15T18:30:18.650651+00:00
  - user: None
  - tags: []
 
-## Fang-Pen's coding note
- - [http://fangpenlin.com](http://fangpenlin.com)
- - date published: 2024-01-14T00:00:00+00:00
+## FanGraphs Baseball | Baseball Statistics and Analysis
+ - [https://www.fangraphs.com](https://www.fangraphs.com)
+ - date published: 2024-04-23T17:31:38.824633+00:00
  - user: None
- - tags: []
+ - tags: ['baseball statistics']
 
 ## Private Site
  - [https://fangya18.com](https://fangya18.com)
@@ -5840,162 +5996,6 @@
 ## Fck Oatly
  - [https://fckoatly.com](https://fckoatly.com)
  - date published: 2023-10-25T14:28:16.635829+00:00
- - user: None
- - tags: []
-
-## FearLess Cheat Engine - Index page
- - [https://fearlessrevolution.com](https://fearlessrevolution.com)
- - date published: 2024-03-19T00:00:00+00:00
- - user: rumpel
- - tags: ['game trainers']
-
-## Fear of Landing
- - [https://fearoflanding.com](https://fearoflanding.com)
- - date published: 2023-10-25T14:28:18.898214+00:00
- - user: None
- - tags: []
-
-## Fear of Oblivion
- - [https://www.fearofoblivion.com](https://www.fearofoblivion.com)
- - date published: 2023-10-25T14:28:20.783552+00:00
- - user: None
- - tags: []
-
-## Feather – Simply beautiful open source icons
- - [https://feathericons.com](https://feathericons.com)
- - date published: 2023-10-25T14:28:27.109754+00:00
- - user: None
- - tags: []
-
-## Featurevisor - Feature management for developers with GitOps
- - [https://featurevisor.com](https://featurevisor.com)
- - date published: 2023-10-25T14:28:27.860814+00:00
- - user: None
- - tags: []
-
-## Febspot - Monetize Your Videos
- - [https://www.febspot.com](https://www.febspot.com)
- - date published: 2024-03-17T02:25:50.005466+00:00
- - user: None
- - tags: []
-
-## Federal News Network | Breaking Federal News & Information | Helping feds meet their mission.
- - [https://federalnewsnetwork.com](https://federalnewsnetwork.com)
- - date published: 2023-10-25T14:28:37.827433+00:00
- - user: None
- - tags: []
-
-## FedEx Global Home - Select Your Location
- - [https://www.fedex.com](https://www.fedex.com)
- - date published: 2023-11-01T08:42:05.834694+00:00
- - user: None
- - tags: []
-
-## Joseph Wang - money to macro
- - [https://fedguy.com](https://fedguy.com)
- - date published: 2023-10-25T14:28:40.203160+00:00
- - user: None
- - tags: []
-
-## CFedi — FediList
- - [http://demo.fedilist.com](http://demo.fedilist.com)
- - date published: 2023-10-25T14:28:44.764060+00:00
- - user: None
- - tags: []
-
-## FedScoop | Federal Government Tech News, Breaking Govt IT News
- - [https://fedscoop.com](https://fedscoop.com)
- - date published: 2023-10-25T14:28:53.042098+00:00
- - user: None
- - tags: []
-
-## None
- - [http://feeds2.feedburner.com](http://feeds2.feedburner.com)
- - date published: 2024-02-25T14:42:11.446535+00:00
- - user: None
- - tags: []
-
-## Error 404 (Not Found)!!1
- - [https://feeds.feedburner.com](https://feeds.feedburner.com)
- - date published: 2024-01-09T02:36:30.505752+00:00
- - user: None
- - tags: []
-
-## None
- - [http://feeds.feedburner.com](http://feeds.feedburner.com)
- - date published: 2024-02-25T14:03:04.041505+00:00
- - user: None
- - tags: []
-
-## Stay ahead of the curve with Feedly AI
- - [https://feedly.com](https://feedly.com)
- - date published: 2023-12-11T11:19:12+00:00
- - user: rumpel
- - tags: ['rss reader']
-
-## FeedSpot for Bloggers
- - [https://blog-cdn.feedspot.com](https://blog-cdn.feedspot.com)
- - date published: 2023-12-11T16:51:51.955904+00:00
- - user: None
- - tags: []
-
-## FeedSpot for Bloggers
- - [https://blog.feedspot.com](https://blog.feedspot.com)
- - date published: 2023-12-11T16:52:20.205883+00:00
- - user: None
- - tags: []
-
-## Feedstuffs, your source for animal agriculture news
- - [https://www.feedstuffs.com](https://www.feedstuffs.com)
- - date published: 2024-03-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Feel Brave
- - [https://www.feelbrave.com](https://www.feelbrave.com)
- - date published: 2023-12-27T18:13:17.084773+00:00
- - user: None
- - tags: ['personal']
-
-## https://feertech.com
- - [https://feertech.com](https://feertech.com)
- - date published: 2024-01-05T15:16:55.318676+00:00
- - user: None
- - tags: []
-
-## Brad Feld
- - [https://feld.com](https://feld.com)
- - date published: 2023-10-25T14:28:55.922376+00:00
- - user: None
- - tags: []
-
-## Felicia Lasmana
- - [https://felicialasmana.com](https://felicialasmana.com)
- - date published: 2023-12-18T22:38:19.349143+00:00
- - user: None
- - tags: ['personal']
-
-## Felicis
- - [https://www.felicis.com](https://www.felicis.com)
- - date published: 2023-10-25T14:28:57.322341+00:00
- - user: None
- - tags: []
-
-## Your Homepage
- - [https://felipefarinon.com](https://felipefarinon.com)
- - date published: 2023-12-15T11:15:24.587549+00:00
- - user: None
- - tags: ['personal']
-
-## Felipe Kinoshita
- - [https://felipekinoshita.com](https://felipekinoshita.com)
- - date published: 2024-01-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Felix Jacomino
- - [https://felixjacomino.com](https://felixjacomino.com)
- - date published: 2024-01-12T18:46:53.062586+00:00
  - user: None
  - tags: []
 

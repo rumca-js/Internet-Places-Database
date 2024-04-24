@@ -166,6 +166,18 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://3lc.ai](https://3lc.ai)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: rumpel
+ - tags: ['machine learning']
+
+## None
+ - [https://docs.3lc.ai](https://docs.3lc.ai)
+ - date published: 2024-04-23T15:17:41.819605+00:00
+ - user: None
+ - tags: ['machine learning']
+
 ## The Abacus.AI Blog
  - [https://blog.abacus.ai](https://blog.abacus.ai)
  - date published: 2023-10-25T11:36:29.098403+00:00
@@ -1325,13 +1337,13 @@
  - tags: []
 
 ## http://hello.pi.ai/
- - [http://hello.pi.ai](http://hello.pi.ai)
+ - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -1990,6 +2002,12 @@
  - user: None
  - tags: []
 
+## ampcast
+ - [https://ampcast.app](https://ampcast.app)
+ - date published: 2024-04-23T17:16:23.055449+00:00
+ - user: None
+ - tags: ['music player', 'plex']
+
 ## Angelfish • Private & Secure Personal Finance App For People Who Want Financial Freedom | Private & Secure Personal Finance App For People Who Want Financial Freedom!
  - [https://angelfish.app](https://angelfish.app)
  - date published: 2023-10-25T11:45:39.444875+00:00
@@ -2620,6 +2638,12 @@
  - user: None
  - tags: ['self-host', 'web interface', 'server management']
 
+## Main Page | Omnipedia
+ - [https://omnipedia.app](https://omnipedia.app)
+ - date published: 2024-04-23T15:25:28+00:00
+ - user: rumpel
+ - tags: ['fiction encyclopedia']
+
 ## Omnivore
  - [https://omnivore.app](https://omnivore.app)
  - date published: 2023-10-25T11:48:07.019044+00:00
@@ -2828,7 +2852,7 @@
  - [https://soupault.app](https://soupault.app)
  - date published: 2024-03-23T02:19:13+00:00
  - user: None
- - tags: ['static website']
+ - tags: ['static websites']
 
 ## Spectrolite
  - [https://spectrolite.app](https://spectrolite.app)
@@ -2888,7 +2912,7 @@
  - [https://tauri.app](https://tauri.app)
  - date published: 2023-10-25T11:49:16.037626+00:00
  - user: None
- - tags: []
+ - tags: ['software development platform']
 
 ## teachyourselfmath
  - [https://teachyourselfmath.app](https://teachyourselfmath.app)
@@ -3971,16 +3995,16 @@
  - tags: []
 
 ## Home
- - [http://kerrygrace.com.au](http://kerrygrace.com.au)
- - date published: 2024-04-03T06:27:02.750662+00:00
- - user: None
- - tags: ['personal']
-
-## Home
  - [https://kerrygrace.com.au](https://kerrygrace.com.au)
  - date published: 2024-01-09T21:36:51.535431+00:00
  - user: None
  - tags: []
+
+## Home
+ - [http://kerrygrace.com.au](http://kerrygrace.com.au)
+ - date published: 2024-04-03T06:27:02.750662+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Kotaku Australia | See Games Differently
  - [https://www.kotaku.com.au](https://www.kotaku.com.au)
@@ -4163,13 +4187,13 @@
  - tags: []
 
 ## About me - Write Approach Marketing
- - [http://writeapproach.com.au](http://writeapproach.com.au)
+ - [https://writeapproach.com.au](https://writeapproach.com.au)
  - date published: 2018-04-30T00:00:00+00:00
  - user: None
  - tags: []
 
 ## About me - Write Approach Marketing
- - [https://writeapproach.com.au](https://writeapproach.com.au)
+ - [http://writeapproach.com.au](http://writeapproach.com.au)
  - date published: 2018-04-30T00:00:00+00:00
  - user: None
  - tags: []
@@ -4673,16 +4697,16 @@
  - tags: []
 
 ## Denny Wong - Learn, think, write and do.
- - [http://dewo.be](http://dewo.be)
- - date published: 2018-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Denny Wong - Learn, think, write and do.
  - [https://dewo.be](https://dewo.be)
  - date published: 2023-11-29T14:18:04.127765+00:00
  - user: None
  - tags: ['personal']
+
+## Denny Wong - Learn, think, write and do.
+ - [http://dewo.be](http://dewo.be)
+ - date published: 2018-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Dries Depoorter – artist and speaker working with technology 🔥
  - [https://driesdepoorter.be](https://driesdepoorter.be)
@@ -4744,17 +4768,17 @@
  - user: None
  - tags: []
 
-## Liero - Official website
- - [https://www.liero.be](https://www.liero.be)
- - date published: 2023-10-26T18:32:21.331231+00:00
- - user: None
- - tags: ['open source', 'game', 'retro game']
-
 ## Original Sling'n'shoot Worms Game
  - [http://www.liero.be](http://www.liero.be)
  - date published: 2023-12-28T18:40:30+00:00
  - user: None
  - tags: []
+
+## Liero - Official website
+ - [https://www.liero.be](https://www.liero.be)
+ - date published: 2023-10-26T18:32:21.331231+00:00
+ - user: None
+ - tags: ['open source', 'game', 'retro game']
 
 ## Home
  - [https://www.mjvanhee.be](https://www.mjvanhee.be)
@@ -4811,16 +4835,16 @@
  - tags: []
 
 ## Home: New - Shakalaka
- - [http://shakalaka.be](http://shakalaka.be)
- - date published: 2023-12-22T22:29:41.716940+00:00
- - user: None
- - tags: ['personal']
-
-## Home: New - Shakalaka
  - [https://shakalaka.be](https://shakalaka.be)
  - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
+
+## Home: New - Shakalaka
+ - [http://shakalaka.be](http://shakalaka.be)
+ - date published: 2023-12-22T22:29:41.716940+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Steffest - web developer
  - [https://www.stef.be](https://www.stef.be)
@@ -5693,6 +5717,12 @@
  - user: None
  - tags: ['personal']
 
+## Richard Bloomfield's Blog • Technology, church music, bicycles, and life in Ireland
+ - [https://richardbloomfield.blog](https://richardbloomfield.blog)
+ - date published: 2024-04-23T10:12:37.646980+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Riley Harris
  - [https://rileyharris.blog](https://rileyharris.blog)
  - date published: 2024-01-19T13:02:00.009123+00:00
@@ -5966,36 +5996,6 @@
 ## None
  - [https://radionos.com.br](https://radionos.com.br)
  - date published: 2024-02-15T22:13:55.833092+00:00
- - user: None
- - tags: ['demoscene']
-
-## Notícias de hoje do Brasil e do Mundo | Folha de S.Paulo
- - [https://www1.folha.uol.com.br](https://www1.folha.uol.com.br)
- - date published: 2023-11-18T08:17:46.153355+00:00
- - user: None
- - tags: []
-
-## GOV.BR
- - [https://www.gov.br](https://www.gov.br)
- - date published: 2023-12-11T19:33:23.992575+00:00
- - user: None
- - tags: ['government']
-
-## Resultados Oficial
- - [https://resultados.tse.jus.br](https://resultados.tse.jus.br)
- - date published: 2023-10-25T12:02:51.440167+00:00
- - user: None
- - tags: []
-
-## Escravo, nem pensar!
- - [https://escravonempensar.org.br](https://escravonempensar.org.br)
- - date published: 2024-01-09T02:26:51.999598+00:00
- - user: None
- - tags: []
-
-## Escravo, nem pensar!
- - [https://www.escravonempensar.org.br](https://www.escravonempensar.org.br)
- - date published: 2024-01-09T02:26:57.139425+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,189 @@
+## Morocco World News - Morocco Now - Morocco Latest News
+ - [https://www.moroccoworldnews.com](https://www.moroccoworldnews.com)
+ - date published: 2023-10-25T16:07:11.896750+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.morphosppc.com](https://www.morphosppc.com)
+ - date published: 2024-01-09T02:44:14.805757+00:00
+ - user: None
+ - tags: []
+
+## Mortal Kombat games, fan site!
+ - [https://www.mortal-kombat.com](https://www.mortal-kombat.com)
+ - date published: 2024-04-08T05:12:55+00:00
+ - user: rumpel
+ - tags: ['video game', 'mortal kombat', 'fan page']
+
+## Mortal Kombat 11 Ultimate
+ - [https://mk11.mortalkombat.com](https://mk11.mortalkombat.com)
+ - date published: 2023-11-01T08:42:40.063578+00:00
+ - user: None
+ - tags: []
+
+## 1
+ - [https://mortalkombat.com](https://mortalkombat.com)
+ - date published: 2024-04-08T05:21:57+00:00
+ - user: rumpel
+ - tags: []
+
+## 1
+ - [https://www.mortalkombat.com](https://www.mortalkombat.com)
+ - date published: 2023-11-01T08:42:41.715550+00:00
+ - user: None
+ - tags: []
+
+## Mortal Kombat Online
+ - [https://www.mortalkombatonline.com](https://www.mortalkombatonline.com)
+ - date published: 2024-04-04T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
+## Mortal Kombat Warehouse
+ - [https://www.mortalkombatwarehouse.com](https://www.mortalkombatwarehouse.com)
+ - date published: 2024-04-08T05:15:20+00:00
+ - user: rumpel
+ - tags: []
+
+## Morten Vistisen | Ramblings about Tech and making Internet Money
+ - [https://mortenvistisen.com](https://mortenvistisen.com)
+ - date published: 2023-10-25T16:07:12.653400+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://mosaicmagazine.com](https://mosaicmagazine.com)
+ - date published: 2023-10-27T12:49:31.579848+00:00
+ - user: None
+ - tags: []
+
+## MosaicML | Home
+ - [https://www.mosaicml.com](https://www.mosaicml.com)
+ - date published: 2023-10-25T16:07:15.073011+00:00
+ - user: None
+ - tags: []
+
+## Moserware
+ - [https://www.moserware.com](https://www.moserware.com)
+ - date published: 2023-10-25T16:07:21.129599+00:00
+ - user: None
+ - tags: []
+
+## Mostly metrics | CJ Gustafson | Substack
+ - [https://www.mostlymetrics.com](https://www.mostlymetrics.com)
+ - date published: 2023-10-25T16:07:25.793429+00:00
+ - user: None
+ - tags: []
+
+## Mostly Python | Eric Matthes | Substack
+ - [https://www.mostlypython.com](https://www.mostlypython.com)
+ - date published: 2024-01-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MotherDuck: Serverless Data Analytics with DuckDB
+ - [https://motherduck.com](https://motherduck.com)
+ - date published: 2023-10-25T16:07:29.673636+00:00
+ - user: None
+ - tags: []
+
+## Motherfucking Website
+ - [https://motherfuckingwebsite.com](https://motherfuckingwebsite.com)
+ - date published: 2023-11-17T18:03:41+00:00
+ - user: rumpel
+ - tags: ['internet', 'wtf', 'funny']
+
+## Mother Jones – Smart, fearless journalism
+ - [https://www.motherjones.com](https://www.motherjones.com)
+ - date published: 2023-10-25T16:07:37.660102+00:00
+ - user: None
+ - tags: []
+
+## Mother Turtle | Mother Turtle Music
+ - [https://www.motherturtle.com](https://www.motherturtle.com)
+ - date published: 2024-01-14T17:12:17.714596+00:00
+ - user: None
+ - tags: []
+
+## Ergonomic Standing Desks Canada - MotionGrey
+ - [https://motiongrey.com](https://motiongrey.com)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Car News and Information | Motor1.com
+ - [https://www.motor1.com](https://www.motor1.com)
+ - date published: 2023-11-08T00:56:14.804673+00:00
+ - user: None
+ - tags: []
+
+## MotorBiscuit
+ - [https://www.motorbiscuit.com](https://www.motorbiscuit.com)
+ - date published: 2024-01-20T14:57:31.992792+00:00
+ - user: None
+ - tags: []
+
+## motorola Polska | Smartfony z systemem Android & Razr
+ - [https://www.motorola.com](https://www.motorola.com)
+ - date published: 2023-10-25T11:26:01.181427+00:00
+ - user: None
+ - tags: []
+
+## MotorTrend: New Cars - Car News and Expert Reviews
+ - [https://www.motortrend.com](https://www.motortrend.com)
+ - date published: 2023-10-25T16:07:43.987801+00:00
+ - user: None
+ - tags: []
+
+## https://www.mountaindew.com
+ - [https://www.mountaindew.com](https://www.mountaindew.com)
+ - date published: 2023-12-05T15:09:24.014750+00:00
+ - user: None
+ - tags: []
+
+## Electronic Components Distributor - Mouser Electronics Europe
+ - [https://www.mouser.com](https://www.mouser.com)
+ - date published: 2024-04-19T13:05:23.434710+00:00
+ - user: None
+ - tags: ['electronic parts']
+
+## Under Construction
+ - [https://www.mousevision.com](https://www.mousevision.com)
+ - date published: 2024-02-08T17:51:34.525805+00:00
+ - user: None
+ - tags: []
+
+## Video Editor 2024 and Other Cool Programs from Movavi – Download for Free
+ - [https://www.movavi.com](https://www.movavi.com)
+ - date published: 2024-04-11T19:05:28+00:00
+ - user: rumpel
+ - tags: ['video player', 'video editor']
+
+## None
+ - [https://movieweb.com](https://movieweb.com)
+ - date published: 2024-01-02T15:03:09.368391+00:00
+ - user: None
+ - tags: []
+
+## MovingLake
+ - [https://app.movinglake.com](https://app.movinglake.com)
+ - date published: 2023-10-25T16:07:54.313990+00:00
+ - user: None
+ - tags: []
+
+## Moving the Limit
+ - [https://movingthelimit.com](https://movingthelimit.com)
+ - date published: 2023-10-25T16:07:55.366690+00:00
+ - user: None
+ - tags: []
+
+## ShowMeYourHotKeys
+ - [https://showmeyourhotkeys.moxadventu.com](https://showmeyourhotkeys.moxadventu.com)
+ - date published: 2023-10-25T16:07:57.215743+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://www.mozenda.com](https://www.mozenda.com)
  - date published: 2024-01-17T09:04:40+00:00
@@ -2279,16 +2465,16 @@
  - tags: ['personal']
 
 ## nicola rushton - Product Designer
- - [http://nicolarushton.com](http://nicolarushton.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## nicola rushton - Product Designer
  - [https://nicolarushton.com](https://nicolarushton.com)
  - date published: 2024-01-09T02:44:58.408245+00:00
  - user: None
  - tags: ['personal']
+
+## nicola rushton - Product Designer
+ - [http://nicolarushton.com](http://nicolarushton.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Chronique d'Humeur de Nicolas Bermond 2005 – 2023 – Perspective
  - [https://nicolas-bermond.com](https://nicolas-bermond.com)
@@ -3030,13 +3216,13 @@
  - tags: []
 
 ## Peter Norvig
- - [http://www.norvig.com](http://www.norvig.com)
+ - [https://www.norvig.com](https://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Peter Norvig
- - [https://www.norvig.com](https://www.norvig.com)
+ - [http://www.norvig.com](http://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -3879,17 +4065,17 @@ Answering Machine Greetings!
  - user: None
  - tags: ['self-host']
 
-## Oh No Robot: comics search
- - [http://www.ohnorobot.com](http://www.ohnorobot.com)
- - date published: 2024-04-07T14:25:15.412335+00:00
- - user: None
- - tags: []
-
 ## Oh No Robot: Comics search
  - [https://www.ohnorobot.com](https://www.ohnorobot.com)
  - date published: 2024-04-04T11:21:04+00:00
  - user: None
  - tags: ['comics search engine', 'personal sites source']
+
+## Oh No Robot: comics search
+ - [http://www.ohnorobot.com](http://www.ohnorobot.com)
+ - date published: 2024-04-07T14:25:15.412335+00:00
+ - user: None
+ - tags: []
 
 ## Crude Oil Prices Today | OilPrice.com
  - [https://oilprice.com](https://oilprice.com)
@@ -4160,6 +4346,12 @@ Answering Machine Greetings!
  - date published: 2023-10-25T16:25:38.795372+00:00
  - user: None
  - tags: []
+
+## OneCompiler - Write, run and share code online | Free online compiler with 60+ languages and databases
+ - [https://onecompiler.com](https://onecompiler.com)
+ - date published: 2024-04-23T15:53:11+00:00
+ - user: rumpel
+ - tags: ['online compiler', 'online tool']
 
 ## One Day You’ll Find Yourself
  - [https://www.onedayyoullfindyourself.com](https://www.onedayyoullfindyourself.com)
@@ -4454,6 +4646,12 @@ Answering Machine Greetings!
  - date published: 2024-04-13T21:05:12+00:00
  - user: None
  - tags: ['electronic', 'book']
+
+## Earn Money, Rebates, and Vouchers - Cash in on Class Action Settlements and Class Action Lawsuits
+ - [https://openclassaction.com](https://openclassaction.com)
+ - date published: 2024-07-15T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Open Collective
  - [https://blog.opencollective.com](https://blog.opencollective.com)
@@ -5803,204 +6001,6 @@ Answering Machine Greetings!
 ## Parker Klein | Personal Website
  - [https://www.parkerklein.com](https://www.parkerklein.com)
  - date published: 2023-11-29T20:43:18.758476+00:00
- - user: None
- - tags: ['personal']
-
-## Parkiet – portal finansowy z najważniejszymi wiadomościami - parkiet.com
- - [https://www.parkiet.com](https://www.parkiet.com)
- - date published: 2023-10-25T10:58:13.846289+00:00
- - user: None
- - tags: []
-
-## Parler 3.0
- - [https://parler.com](https://parler.com)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## MOONLIGHT LOVE AFFAIR
- - [https://www.parovstelar.com](https://www.parovstelar.com)
- - date published: 2023-10-30T15:45:25.629658+00:00
- - user: None
- - tags: ['music band', 'parov stellar']
-
-## Pars Defense
- - [https://parsdefense.com](https://parsdefense.com)
- - date published: 2024-02-06T11:07:59+00:00
- - user: rumpel
- - tags: ['spyware vendor']
-
-## Parseable - Log analytics stack, built for developers
- - [https://parseable.com](https://parseable.com)
- - date published: 2024-04-08T19:30:14.844367+00:00
- - user: None
- - tags: ['log analytics system', 'self-host']
-
-## ParseHub | Free web scraping - The most powerful web scraper
- - [https://www.parsehub.com](https://www.parsehub.com)
- - date published: 2024-01-17T09:05:15+00:00
- - user: rumpel
- - tags: ['web scraping']
-
-## Le blog de Pascal Andy
- - [https://pascalandy.com](https://pascalandy.com)
- - date published: 2024-01-13T04:52:48.069302+00:00
- - user: None
- - tags: []
-
-## Passbolt: The Open Source Password Manager For Teams
- - [https://passbolt.com](https://passbolt.com)
- - date published: 2024-04-08T19:30:16.100325+00:00
- - user: None
- - tags: ['self-host', 'password manager', 'open source']
-
-## Error
- - [https://book.passkey.com](https://book.passkey.com)
- - date published: 2024-02-05T17:23:43.653453+00:00
- - user: None
- - tags: []
-
-## PassMark Software - PC Benchmark and Test Software
- - [https://www.passmark.com](https://www.passmark.com)
- - date published: 2024-04-18T11:12:54+00:00
- - user: rumpel
- - tags: ['pc benchmark']
-
-## Live Your Dream
- - [https://passportjoy.com](https://passportjoy.com)
- - date published: 2023-12-10T11:35:05.409561+00:00
- - user: None
- - tags: ['personal']
-
-## Pastebin.com - #1 paste tool since 2002!
- - [https://pastebin.com](https://pastebin.com)
- - date published: 2023-10-24T20:19:33.932082+00:00
- - user: None
- - tags: ['internet service']
-
-## Patagonia Outdoor Clothing & Gear
- - [https://www.patagonia.com](https://www.patagonia.com)
- - date published: 2023-10-25T16:30:56.435107+00:00
- - user: None
- - tags: []
-
-## Inpics Gadget Repair Services - InPics Solutions
- - [https://patersontech.com](https://patersontech.com)
- - date published: 2023-10-25T16:30:59.777009+00:00
- - user: None
- - tags: []
-
-## Pathfinder Infinite -
- - [https://www.pathfinderinfinite.com](https://www.pathfinderinfinite.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['shop', 'magazines']
-
-## Path of Exile
- - [https://www.pathofexile.com](https://www.pathofexile.com)
- - date published: 2023-10-25T08:39:41.111324+00:00
- - user: None
- - tags: ['game']
-
-## Path-Sensitive
- - [https://www.pathsensitive.com](https://www.pathsensitive.com)
- - date published: 2023-10-25T16:31:04.472557+00:00
- - user: None
- - tags: []
-
-## PJK's Blog
- - [https://www.patjk.com](https://www.patjk.com)
- - date published: 2023-12-15T21:43:37.233324+00:00
- - user: None
- - tags: ['personal']
-
-## PJK's Blog
- - [http://www.patjk.com](http://www.patjk.com)
- - date published: 2024-04-03T06:29:54.946071+00:00
- - user: None
- - tags: ['personal']
-
-## ~patmaddox: Home
- - [https://patmaddox.com](https://patmaddox.com)
- - date published: 2023-12-04T06:13:53.079304+00:00
- - user: None
- - tags: []
-
-## patorjk.com
- - [https://patorjk.com](https://patorjk.com)
- - date published: 2023-12-08T13:07:39+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Patreon | News | Home
- - [https://blog.patreon.com](https://blog.patreon.com)
- - date published: 2023-10-25T11:32:44.994110+00:00
- - user: None
- - tags: []
-
-## None
- - [https://c6.patreon.com](https://c6.patreon.com)
- - date published: 2024-02-26T15:23:53.559834+00:00
- - user: None
- - tags: []
-
-## Home — Patreon
- - [https://patreon.com](https://patreon.com)
- - date published: 2023-12-11T17:25:04.928912+00:00
- - user: None
- - tags: []
-
-## Home — Patreon
- - [http://www.patreon.com](http://www.patreon.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Max  FitzGerald  | Patreon
- - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
- - date published: 2023-10-27T15:07:52+00:00
- - user: rumpel
- - tags: ['turnip28', 'tabletop games']
-
-## Home — Patreon
- - [https://www.patreon.com](https://www.patreon.com)
- - date published: 2023-10-25T11:34:19.134811+00:00
- - user: None
- - tags: ['crowdfunding']
-
-## Home
- - [https://patriciabt.com](https://patriciabt.com)
- - date published: 2021-03-20T13:59:17+00:00
- - user: None
- - tags: []
-
-## Home · Patrick Collison
- - [https://patrickcollison.com](https://patrickcollison.com)
- - date published: 2023-10-25T08:47:23.257678+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Conway
- - [https://patrickconway.com](https://patrickconway.com)
- - date published: 2023-11-29T16:18:59.190945+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Evrard
- - [https://www.patrickevrard.com](https://www.patrickevrard.com)
- - date published: 2024-04-08T10:12:27+00:00
- - user: rumpel
- - tags: ['3d artist', 'personal']
-
-## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
- - date published: 2023-12-21T08:24:19.074982+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
- - date published: 2023-12-23T07:30:12.092026+00:00
  - user: None
  - tags: ['personal']
 
