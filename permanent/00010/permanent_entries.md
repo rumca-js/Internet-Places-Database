@@ -1,3 +1,87 @@
+## None
+ - [https://www.moorethought.com](https://www.moorethought.com)
+ - date published: 2024-01-10T22:42:50.250561+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://moorinsightsstrategy.com](https://moorinsightsstrategy.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Email Marketing Automation Platform for Thriving Businesses
+ - [https://moosend.com](https://moosend.com)
+ - date published: 2024-02-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## moralestapia.com
+ - [https://www.moralestapia.com](https://www.moralestapia.com)
+ - date published: 2023-11-29T15:49:04.258610+00:00
+ - user: None
+ - tags: ['personal']
+
+## More Pablo
+ - [https://morepablo.com](https://morepablo.com)
+ - date published: 2023-10-25T16:06:48.588242+00:00
+ - user: None
+ - tags: []
+
+## More Than Coding
+ - [https://morethancoding.com](https://morethancoding.com)
+ - date published: 2024-02-16T17:08:08.687324+00:00
+ - user: None
+ - tags: ['personal']
+
+## More To That
+ - [https://moretothat.com](https://moretothat.com)
+ - date published: 2023-10-25T16:06:52.787774+00:00
+ - user: None
+ - tags: []
+
+## Freelance web developer & designer
+ - [https://morganfeeney.com](https://morganfeeney.com)
+ - date published: 2023-11-29T14:42:17.810644+00:00
+ - user: None
+ - tags: ['personal']
+
+## Morgan Hill Times | Morgan Hill, San Martin, CA | Home of the Morgan Hill Times
+ - [https://morganhilltimes.com](https://morganhilltimes.com)
+ - date published: 2023-10-25T16:06:57.200736+00:00
+ - user: None
+ - tags: []
+
+## MÖRK BORG
+ - [https://morkborg.com](https://morkborg.com)
+ - date published: 2024-01-26T15:17:50+00:00
+ - user: rumpel
+ - tags: ['role playing game']
+
+## welcome to mormoroi
+ - [https://mormoroi.com](https://mormoroi.com)
+ - date published: 2024-01-21T12:29:18.131870+00:00
+ - user: None
+ - tags: []
+
+## MorningChores - Build Your Self-Sufficient Life
+ - [https://morningchores.com](https://morningchores.com)
+ - date published: 2023-10-28T17:39:06.396407+00:00
+ - user: None
+ - tags: ['homesteading']
+
+## Morningstar | Empowering Investor Success
+ - [https://www.morningstar.com](https://www.morningstar.com)
+ - date published: 2023-10-25T16:07:11.198196+00:00
+ - user: None
+ - tags: []
+
+## Web Design • Tech Support • Podcasts
+ - [https://www.morningtempo.com](https://www.morningtempo.com)
+ - date published: 2023-12-21T03:33:32.560180+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Morocco World News - Morocco Now - Morocco Latest News
  - [https://www.moroccoworldnews.com](https://www.moroccoworldnews.com)
  - date published: 2023-10-25T16:07:11.896750+00:00
@@ -80,7 +164,7 @@
  - [https://www.mostlypython.com](https://www.mostlypython.com)
  - date published: 2024-01-23T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal', 'python', 'programming']
 
 ## MotherDuck: Serverless Data Analytics with DuckDB
  - [https://motherduck.com](https://motherduck.com)
@@ -821,6 +905,12 @@
  - tags: ['hobby', 'drawing']
 
 ## MySQL
+ - [https://www.mysql.com](https://www.mysql.com)
+ - date published: 2024-04-24T06:04:02+00:00
+ - user: rumpel
+ - tags: ['database system']
+
+## MySQL
  - [http://www.mysql.com](http://www.mysql.com)
  - date published: 2024-04-08T19:26:43.396263+00:00
  - user: None
@@ -866,6 +956,36 @@
  - [https://www.mytwentycents.com](https://www.mytwentycents.com)
  - date published: 2022-06-01T00:00:00+00:00
  - user: None
+ - tags: []
+
+## None
+ - [http://jellyfin.myurl.com](http://jellyfin.myurl.com)
+ - date published: 2024-04-24T01:11:06.096945+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://jellyseerr.myurl.com](http://jellyseerr.myurl.com)
+ - date published: 2024-04-24T01:11:03.216200+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://myurl.com](https://myurl.com)
+ - date published: 2024-04-24T05:26:55+00:00
+ - user: rumpel
+ - tags: []
+
+## None
+ - [http://radarr.myurl.com](http://radarr.myurl.com)
+ - date published: 2024-04-24T01:11:07.139598+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://myurls.com](https://myurls.com)
+ - date published: 2024-04-24T05:28:49+00:00
+ - user: rumpel
  - tags: []
 
 ## myVesta
@@ -2465,16 +2585,16 @@
  - tags: ['personal']
 
 ## nicola rushton - Product Designer
- - [https://nicolarushton.com](https://nicolarushton.com)
- - date published: 2024-01-09T02:44:58.408245+00:00
- - user: None
- - tags: ['personal']
-
-## nicola rushton - Product Designer
  - [http://nicolarushton.com](http://nicolarushton.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## nicola rushton - Product Designer
+ - [https://nicolarushton.com](https://nicolarushton.com)
+ - date published: 2024-01-09T02:44:58.408245+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Chronique d'Humeur de Nicolas Bermond 2005 – 2023 – Perspective
  - [https://nicolas-bermond.com](https://nicolas-bermond.com)
@@ -3270,14 +3390,14 @@
  - tags: []
 
 ## Notes & Photos
- - [http://www.notesandphotos.com](http://www.notesandphotos.com)
- - date published: 2024-04-03T12:46:22.033917+00:00
+ - [https://www.notesandphotos.com](https://www.notesandphotos.com)
+ - date published: 2023-12-20T21:30:54.650783+00:00
  - user: None
  - tags: ['personal']
 
 ## Notes & Photos
- - [https://www.notesandphotos.com](https://www.notesandphotos.com)
- - date published: 2023-12-20T21:30:54.650783+00:00
+ - [http://www.notesandphotos.com](http://www.notesandphotos.com)
+ - date published: 2024-04-03T12:46:22.033917+00:00
  - user: None
  - tags: ['personal']
 
@@ -3927,6 +4047,18 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Oculus Developer Center | Overview
+ - [https://developer.oculus.com](https://developer.oculus.com)
+ - date published: 2024-04-24T07:12:11+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
+## Gogle VR Meta Quest, gry i wyposażenie | Meta Quest
+ - [https://oculus.com](https://oculus.com)
+ - date published: 2024-03-21T00:00:00+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
 ## Error
  - [https://www.oculus.com](https://www.oculus.com)
  - date published: 2023-10-31T13:13:01.625587+00:00
@@ -4065,17 +4197,17 @@ Answering Machine Greetings!
  - user: None
  - tags: ['self-host']
 
-## Oh No Robot: Comics search
- - [https://www.ohnorobot.com](https://www.ohnorobot.com)
- - date published: 2024-04-04T11:21:04+00:00
- - user: None
- - tags: ['comics search engine', 'personal sites source']
-
 ## Oh No Robot: comics search
  - [http://www.ohnorobot.com](http://www.ohnorobot.com)
  - date published: 2024-04-07T14:25:15.412335+00:00
  - user: None
  - tags: []
+
+## Oh No Robot: Comics search
+ - [https://www.ohnorobot.com](https://www.ohnorobot.com)
+ - date published: 2024-04-04T11:21:04+00:00
+ - user: None
+ - tags: ['comics search engine', 'personal sites source']
 
 ## Crude Oil Prices Today | OilPrice.com
  - [https://oilprice.com](https://oilprice.com)
@@ -5062,14 +5194,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## The OS/2 Museum
- - [https://www.os2museum.com](https://www.os2museum.com)
- - date published: 2023-10-25T16:27:40.415903+00:00
+ - [http://www.os2museum.com](http://www.os2museum.com)
+ - date published: 2024-02-25T18:55:49.882025+00:00
  - user: None
  - tags: []
 
 ## The OS/2 Museum
- - [http://www.os2museum.com](http://www.os2museum.com)
- - date published: 2024-02-25T18:55:49.882025+00:00
+ - [https://www.os2museum.com](https://www.os2museum.com)
+ - date published: 2023-10-25T16:27:40.415903+00:00
  - user: None
  - tags: []
 
@@ -5871,136 +6003,4 @@ Answering Machine Greetings!
  - date published: 2023-11-01T08:42:53.570173+00:00
  - user: None
  - tags: []
-
-## Cloud GPUs & Hosting for AI | Paperspace
- - [https://www.paperspace.com](https://www.paperspace.com)
- - date published: 2023-10-25T16:30:30.437808+00:00
- - user: None
- - tags: []
-
-## The latest in Machine Learning | Papers With Code
- - [https://paperswithcode.com](https://paperswithcode.com)
- - date published: 2023-10-25T16:30:32.725669+00:00
- - user: None
- - tags: []
-
-## collection of sébastien de ganay, paper toilet .com by rafaël rozendaal, 2006
- - [https://papertoilet.com](https://papertoilet.com)
- - date published: 2023-10-27T10:58:53.737739+00:00
- - user: None
- - tags: ['wtf']
-
-## Paper. Work. Doing life.
- - [https://www.paperworkblog.com](https://www.paperworkblog.com)
- - date published: 2023-11-15T21:25:52.617486+00:00
- - user: None
- - tags: []
-
-## Paper. Work. Doing life.
- - [http://www.paperworkblog.com](http://www.paperworkblog.com)
- - date published: 2024-02-26T09:46:27.121413+00:00
- - user: None
- - tags: []
-
-## Para Bellum Magazine – Si Vis Pacem Para Bellum
- - [https://www.parabellum-magazine.com](https://www.parabellum-magazine.com)
- - date published: 2024-01-19T09:33:42+00:00
- - user: rumpel
- - tags: ['magazine', 'wargames', 'tabletop games', 'zine']
-
-## parade.com
- - [https://parade.com](https://parade.com)
- - date published: 2023-11-28T20:15:07+00:00
- - user: rumpel
- - tags: ['entertainment']
-
-## Welcome to ParadeDB - ParadeDB
- - [https://docs.paradedb.com](https://docs.paradedb.com)
- - date published: 2023-10-25T16:30:38.822701+00:00
- - user: None
- - tags: []
-
-## Home - Paradigm Imaging Group
- - [https://www.paradigmimaging.com](https://www.paradigmimaging.com)
- - date published: 2024-02-08T16:32:37.192500+00:00
- - user: None
- - tags: []
-
-## Paradox Interactive
- - [https://www.paradoxinteractive.com](https://www.paradoxinteractive.com)
- - date published: 2023-11-01T19:36:55.276204+00:00
- - user: None
- - tags: ['role playing games', 'vampire masquarade']
-
-## Paradox Interactive Forums
- - [https://forum.paradoxplaza.com](https://forum.paradoxplaza.com)
- - date published: 2024-03-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Parag Pallav Talks | Blog Over Latest Technology, SEO, Content and more
- - [https://paragpallavsingh.com](https://paragpallavsingh.com)
- - date published: 2024-04-03T12:44:33.984519+00:00
- - user: None
- - tags: ['personal']
-
-## Growing Products — weekly essays for founders and startup teams
- - [https://growing-products.paralect.com](https://growing-products.paralect.com)
- - date published: 2023-10-25T16:30:41.101886+00:00
- - user: None
- - tags: []
-
-## Show HN: Parallel Arabic, Arabic reading and writing practice
- - [https://parallel-arabic.com](https://parallel-arabic.com)
- - date published: 2024-04-01T15:23:58+00:00
- - user: None
- - tags: []
-
-## Parallel Economy | A Censor-Resistant Ecosystem
- - [https://www.paralleleconomy.com](https://www.paralleleconomy.com)
- - date published: 2023-10-25T16:30:43.965679+00:00
- - user: None
- - tags: []
-
-## Parand
- - [https://www.parand.com](https://www.parand.com)
- - date published: 2023-10-25T16:30:46.136740+00:00
- - user: None
- - tags: []
-
-## https://static.parastorage.com
- - [https://static.parastorage.com](https://static.parastorage.com)
- - date published: 2023-12-11T16:56:44.679132+00:00
- - user: None
- - tags: []
-
-## Parin Patel
- - [https://www.parinpatel.com](https://www.parinpatel.com)
- - date published: 2023-11-29T17:08:55.692393+00:00
- - user: None
- - tags: ['personal']
-
-## Paris Transatlantic: global coverage of avant-garde music & art
- - [https://www.paristransatlantic.com](https://www.paristransatlantic.com)
- - date published: 2024-02-08T17:52:04.347548+00:00
- - user: None
- - tags: []
-
-## Paris Vega – Digital Marketer & Podcast Host
- - [https://parisvega.com](https://parisvega.com)
- - date published: 2024-01-13T04:52:58.487519+00:00
- - user: None
- - tags: []
-
-## Parker Dewey
- - [https://app.parkerdewey.com](https://app.parkerdewey.com)
- - date published: 2024-02-08T16:21:09.993188+00:00
- - user: None
- - tags: []
-
-## Parker Klein | Personal Website
- - [https://www.parkerklein.com](https://www.parkerklein.com)
- - date published: 2023-11-29T20:43:18.758476+00:00
- - user: None
- - tags: ['personal']
 

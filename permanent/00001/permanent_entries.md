@@ -143,14 +143,14 @@
  - tags: []
 
 ## Svarichevsky Mikhail
- - [https://3.14.by](https://3.14.by)
- - date published: 2024-01-16T06:21:34.423774+00:00
+ - [http://3.14.by](http://3.14.by)
+ - date published: 2024-02-26T13:20:29.028020+00:00
  - user: None
  - tags: []
 
 ## Svarichevsky Mikhail
- - [http://3.14.by](http://3.14.by)
- - date published: 2024-02-26T13:20:29.028020+00:00
+ - [https://3.14.by](https://3.14.by)
+ - date published: 2024-01-16T06:21:34.423774+00:00
  - user: None
  - tags: []
 
@@ -644,7 +644,7 @@
  - [https://gadanidis.ca](https://gadanidis.ca)
  - date published: 2023-10-25T08:42:54.581662+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## National Gallery of Canada
  - [https://www.gallery.ca](https://www.gallery.ca)
@@ -688,6 +688,12 @@
  - user: None
  - tags: []
 
+## Henry Nguyen's Website
+ - [https://henryn.ca](https://henryn.ca)
+ - date published: 2024-04-24T08:33:58+00:00
+ - user: rumpel
+ - tags: ['personal']
+
 ## Home - Highgo Software Inc.
  - [https://www.highgo.ca](https://www.highgo.ca)
  - date published: 2023-12-18T21:53:17.162282+00:00
@@ -698,7 +704,7 @@
  - [https://hirad.ca](https://hirad.ca)
  - date published: 2023-12-27T18:12:30.676212+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## hypatia dot ca – Leigh Honeywell's Blog
  - [https://hypatia.ca](https://hypatia.ca)
@@ -731,13 +737,13 @@
  - tags: []
 
 ## iter.ca
- - [https://iter.ca](https://iter.ca)
+ - [http://iter.ca](http://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## iter.ca
- - [http://iter.ca](http://iter.ca)
+ - [https://iter.ca](https://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -755,14 +761,14 @@
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [http://jenniferashton.ca](http://jenniferashton.ca)
- - date published: 2023-12-25T04:56:31.047100+00:00
+ - [https://jenniferashton.ca](https://jenniferashton.ca)
+ - date published: 2023-12-20T19:14:23.669927+00:00
  - user: None
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [https://jenniferashton.ca](https://jenniferashton.ca)
- - date published: 2023-12-20T19:14:23.669927+00:00
+ - [http://jenniferashton.ca](http://jenniferashton.ca)
+ - date published: 2023-12-25T04:56:31.047100+00:00
  - user: None
  - tags: ['personal']
 
@@ -976,15 +982,15 @@
  - user: rumpel
  - tags: ['personal']
 
-## Novak Family
- - [http://novak.ca](http://novak.ca)
- - date published: 2024-04-03T06:29:56.862797+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [https://novak.ca](https://novak.ca)
  - date published: 2024-01-11T02:12:34.554251+00:00
+ - user: None
+ - tags: []
+
+## Novak Family
+ - [http://novak.ca](http://novak.ca)
+ - date published: 2024-04-03T06:29:56.862797+00:00
  - user: None
  - tags: ['personal']
 
@@ -1289,14 +1295,14 @@
  - tags: ['personal']
 
 ## Timur Ochakovsky | Web Developer
- - [https://www.timur.ca](https://www.timur.ca)
- - date published: 2023-11-29T14:23:08.617547+00:00
+ - [http://www.timur.ca](http://www.timur.ca)
+ - date published: 2002-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Timur Ochakovsky | Web Developer
- - [http://www.timur.ca](http://www.timur.ca)
- - date published: 2002-01-01T00:00:00+00:00
+ - [https://www.timur.ca](https://www.timur.ca)
+ - date published: 2023-11-29T14:23:08.617547+00:00
  - user: None
  - tags: []
 
@@ -1556,6 +1562,12 @@
 ## Backend Cafe
  - [https://backend.cafe](https://backend.cafe)
  - date published: 2023-10-25T12:09:49.850684+00:00
+ - user: None
+ - tags: []
+
+## BinaryDigit's Now Page
+ - [https://now.binarydigit.cafe](https://now.binarydigit.cafe)
+ - date published: 2024-01-09T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3574,7 +3586,7 @@
  - [https://huggingface.co](https://huggingface.co)
  - date published: 2023-10-25T12:19:04.902604+00:00
  - user: None
- - tags: ['artificial intelligence']
+ - tags: ['machine learning', 'artificial intelligence', 'company']
 
 ## Restoring Trust in Digital
  - [https://hu-manity.co](https://hu-manity.co)
@@ -3631,14 +3643,14 @@
  - tags: []
 
 ## Jonny Miller
- - [http://www.jonnymiller.co](http://www.jonnymiller.co)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://www.jonnymiller.co](https://www.jonnymiller.co)
+ - date published: 2024-01-08T15:36:50.624044+00:00
  - user: None
  - tags: []
 
 ## Jonny Miller
- - [https://www.jonnymiller.co](https://www.jonnymiller.co)
- - date published: 2024-01-08T15:36:50.624044+00:00
+ - [http://www.jonnymiller.co](http://www.jonnymiller.co)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4141,16 +4153,16 @@
  - tags: []
 
 ## Home
- - [http://shubhamjain.co](http://shubhamjain.co)
- - date published: 2024-02-26T12:57:53.139033+00:00
- - user: None
- - tags: []
-
-## Home
  - [https://shubhamjain.co](https://shubhamjain.co)
  - date published: 2023-10-25T09:07:56.781772+00:00
  - user: None
  - tags: ['personal']
+
+## Home
+ - [http://shubhamjain.co](http://shubhamjain.co)
+ - date published: 2024-02-26T12:57:53.139033+00:00
+ - user: None
+ - tags: []
 
 ## SCIENTIA
  - [https://skientia.co](https://skientia.co)
@@ -5265,14 +5277,14 @@
  - tags: []
 
 ## Aardwolf MUD - Home Page
- - [http://www.aardwolf.com](http://www.aardwolf.com)
- - date published: 2024-03-27T20:46:27.237579+00:00
+ - [https://www.aardwolf.com](https://www.aardwolf.com)
+ - date published: 2024-03-27T20:48:48.782050+00:00
  - user: None
  - tags: ['mud game']
 
 ## Aardwolf MUD - Home Page
- - [https://www.aardwolf.com](https://www.aardwolf.com)
- - date published: 2024-03-27T20:48:48.782050+00:00
+ - [http://www.aardwolf.com](http://www.aardwolf.com)
+ - date published: 2024-03-27T20:46:27.237579+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5360,17 +5372,17 @@
  - user: None
  - tags: ['personal']
 
-## Home - Aaron Shbeeb
- - [http://aaronshbeeb.com](http://aaronshbeeb.com)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Coming Soon
  - [https://aaronshbeeb.com](https://aaronshbeeb.com)
  - date published: 2023-12-17T20:59:02.532105+00:00
  - user: None
  - tags: ['personal']
+
+## Home - Aaron Shbeeb
+ - [http://aaronshbeeb.com](http://aaronshbeeb.com)
+ - date published: 2024-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## AaronStrick.com
  - [https://aaronstrick.com](https://aaronstrick.com)
@@ -5987,18 +5999,6 @@
 ## Adam Drake
  - [https://adamdrake.com](https://adamdrake.com)
  - date published: 2019-08-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## adamfallon.com
- - [https://adamfallon.com](https://adamfallon.com)
- - date published: 2023-10-25T12:32:07.492619+00:00
- - user: None
- - tags: []
-
-## Adam Fisher
- - [http://adamfishertrumpet.com](http://adamfishertrumpet.com)
- - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

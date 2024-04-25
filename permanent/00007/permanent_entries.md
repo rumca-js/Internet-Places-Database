@@ -1,3 +1,63 @@
+## hackcompute
+ - [https://hackcompute.com](https://hackcompute.com)
+ - date published: 2023-10-25T14:54:20.857205+00:00
+ - user: None
+ - tags: []
+
+## Hacker Factor: Home Page
+ - [https://www.hackerfactor.com](https://www.hackerfactor.com)
+ - date published: 2023-10-25T14:54:32.697578+00:00
+ - user: None
+ - tags: []
+
+## Hacker FM
+ - [https://hackerfm.com](https://hackerfm.com)
+ - date published: 2023-10-25T14:54:35.925362+00:00
+ - user: None
+ - tags: []
+
+## Not Found
+ - [https://media.hackerfm.com](https://media.hackerfm.com)
+ - date published: 2024-02-25T20:36:33.881481+00:00
+ - user: None
+ - tags: []
+
+## Home - Hacker History Podcast
+ - [https://hackerhistory.com](https://hackerhistory.com)
+ - date published: 2023-10-26T16:02:58.214513+00:00
+ - user: None
+ - tags: []
+
+## Hacker Jobs - Technology Jobs from the monthly Hacker News Who is hiring threads
+ - [https://www.hacker-jobs.com](https://www.hacker-jobs.com)
+ - date published: 2023-10-25T14:54:31.881421+00:00
+ - user: None
+ - tags: []
+
+## HackerNoon - read, write and learn about any technology
+ - [https://hackernoon.com](https://hackernoon.com)
+ - date published: 2023-10-25T14:54:43.557045+00:00
+ - user: None
+ - tags: ['tech news']
+
+## HackerOne | #1 Trusted Security Platform and Hacker Program
+ - [https://hackerone.com](https://hackerone.com)
+ - date published: 2023-10-25T14:54:51.021089+00:00
+ - user: None
+ - tags: []
+
+## HackerOne | #1 Trusted Security Platform and Hacker Program
+ - [https://www.hackerone.com](https://www.hackerone.com)
+ - date published: 2023-10-25T14:54:52.834191+00:00
+ - user: None
+ - tags: []
+
+## HackerRank - Online Coding Tests and Technical Interviews
+ - [https://www.hackerrank.com](https://www.hackerrank.com)
+ - date published: 2023-10-25T14:54:54.856781+00:00
+ - user: None
+ - tags: ['programming tutorials']
+
 ## Show HN: Build your startup or side project faster with these SaaS templates
  - [https://hackerstartup.com](https://hackerstartup.com)
  - date published: 2024-01-02T03:50:49+00:00
@@ -1490,7 +1550,7 @@
  - [https://www.hollywoodreporter.com](https://www.hollywoodreporter.com)
  - date published: 2023-10-25T10:51:28.356602+00:00
  - user: None
- - tags: []
+ - tags: ['movie news']
 
 ## The Hollywood Reporter
  - [http://www.hollywoodreporter.com](http://www.hollywoodreporter.com)
@@ -1617,6 +1677,12 @@
  - date published: 2023-10-25T15:00:45.723324+00:00
  - user: None
  - tags: []
+
+## Create any Deepfake with Hoodem™, the unlimited deepfake creator
+ - [https://hoodem.com](https://hoodem.com)
+ - date published: 2024-04-24T10:29:45+00:00
+ - user: rumpel
+ - tags: ['deep fake']
 
 ## Originally Reported, Hyperlocal Neighborhood News | Hoodline
  - [https://hoodline.com](https://hoodline.com)
@@ -2444,7 +2510,7 @@
  - [https://iar.com](https://iar.com)
  - date published: 1983-01-01T00:00:00+00:00
  - user: rumpel
- - tags: ['embeded programming']
+ - tags: ['embedded programming']
 
 ## Iowa State University Digital Press
  - [https://www.iastatedigitalpress.com](https://www.iastatedigitalpress.com)
@@ -2639,14 +2705,14 @@
  - tags: []
 
 ## If This Be Treason
- - [https://ifthisbetreason.com](https://ifthisbetreason.com)
- - date published: 2024-01-09T02:39:21.575222+00:00
+ - [http://ifthisbetreason.com](http://ifthisbetreason.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## If This Be Treason
- - [http://ifthisbetreason.com](http://ifthisbetreason.com)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://ifthisbetreason.com](https://ifthisbetreason.com)
+ - date published: 2024-01-09T02:39:21.575222+00:00
  - user: None
  - tags: []
 
@@ -2684,7 +2750,7 @@
  - [https://www.ign.com](https://www.ign.com)
  - date published: 2023-10-25T10:49:03.237738+00:00
  - user: None
- - tags: ['video games']
+ - tags: ['video game news', 'video games']
 
 ## Entries
  - [https://blog.ignaciobrasca.com](https://blog.ignaciobrasca.com)
@@ -2817,6 +2883,12 @@
  - date published: 2023-12-19T19:08:13.064200+00:00
  - user: None
  - tags: ['personal']
+
+## General Xxaxx The Artist
+ - [http://www.imag3.com](http://www.imag3.com)
+ - date published: 2024-04-24T08:00:35.079137+00:00
+ - user: None
+ - tags: ['personal', 'art']
 
 ## Create Your Best Music | FL STUDIO
  - [https://www.image-line.com](https://www.image-line.com)
@@ -3515,14 +3587,14 @@
  - tags: []
 
 ## Instagram
- - [https://instagram.com](https://instagram.com)
- - date published: 2023-12-11T17:25:16.403261+00:00
+ - [http://instagram.com](http://instagram.com)
+ - date published: 2024-02-24T09:56:41.123503+00:00
  - user: None
  - tags: []
 
 ## Instagram
- - [http://instagram.com](http://instagram.com)
- - date published: 2024-02-24T09:56:41.123503+00:00
+ - [https://instagram.com](https://instagram.com)
+ - date published: 2023-12-11T17:25:16.403261+00:00
  - user: None
  - tags: []
 
@@ -4127,16 +4199,16 @@
  - tags: []
 
 ## Ahmad Shadeed
- - [https://ishadeed.com](https://ishadeed.com)
- - date published: 2023-10-25T08:46:12.299056+00:00
- - user: None
- - tags: ['personal']
-
-## Ahmad Shadeed
  - [http://ishadeed.com](http://ishadeed.com)
  - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
+
+## Ahmad Shadeed
+ - [https://ishadeed.com](https://ishadeed.com)
+ - date published: 2023-10-25T08:46:12.299056+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Ishkur's Guide to Electronic Music
  - [https://music.ishkur.com](https://music.ishkur.com)
@@ -4321,6 +4393,12 @@
 ## Technical How-to's, Tips, and Tricks | ITIGIC
  - [https://itigic.com](https://itigic.com)
  - date published: 2023-10-25T15:24:32.675709+00:00
+ - user: None
+ - tags: []
+
+## IT Logs
+ - [https://itlogs.com](https://itlogs.com)
+ - date published: 2024-04-23T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5273,16 +5351,16 @@
  - tags: []
 
 ## Juraj's Blog
- - [https://jborza.com](https://jborza.com)
- - date published: 2023-10-25T08:58:08.654807+00:00
- - user: None
- - tags: ['personal']
-
-## Juraj's Blog
  - [http://jborza.com](http://jborza.com)
  - date published: 2024-02-26T08:26:59.359158+00:00
  - user: None
  - tags: []
+
+## Juraj's Blog
+ - [https://jborza.com](https://jborza.com)
+ - date published: 2023-10-25T08:58:08.654807+00:00
+ - user: None
+ - tags: ['personal']
 
 ## J. Brown Yoga
  - [https://www.jbrownyoga.com](https://www.jbrownyoga.com)
@@ -5919,82 +5997,4 @@
  - date published: 2024-04-07T14:25:01.312954+00:00
  - user: None
  - tags: ['comics']
-
-## Joseph Jude - Coach • CTO • Podcast Host
- - [https://jjude.com](https://jjude.com)
- - date published: 2023-12-05T14:37:52.987095+00:00
- - user: None
- - tags: ['personal']
-
-## Jonathan Katz
- - [https://jkatz05.com](https://jkatz05.com)
- - date published: 2023-10-25T15:29:21.287258+00:00
- - user: None
- - tags: []
-
-## Jaso'n k'Leinberg is still here | jkleinberg.com
- - [https://jkleinberg.com](https://jkleinberg.com)
- - date published: 2024-01-10T23:53:20.981430+00:00
- - user: None
- - tags: ['personal']
-
-## Jaso'n k'Leinberg is still here | jkleinberg.com
- - [http://jkleinberg.com](http://jkleinberg.com)
- - date published: 2024-04-03T06:28:43.499135+00:00
- - user: None
- - tags: ['personal']
-
-## Home - J.K. Rowling
- - [https://www.jkrowling.com](https://www.jkrowling.com)
- - date published: 2024-02-06T12:30:19+00:00
- - user: rumpel
- - tags: ['fantasy books', 'book author']
-
-## Jon Kulton
- - [https://jkulton.com](https://jkulton.com)
- - date published: 2023-10-25T15:29:22.992517+00:00
- - user: None
- - tags: []
-
-## Jon Quixote | In which the author considers whether a community is more like a giant or more like a windmill.
- - [https://jlericson.com](https://jlericson.com)
- - date published: 2023-10-25T15:29:25.754618+00:00
- - user: None
- - tags: []
-
-## James Long - blog & knowledge graph
- - [https://jlongster.com](https://jlongster.com)
- - date published: 2023-10-25T15:29:27.238133+00:00
- - user: None
- - tags: []
-
-## JL Peridot
- - [https://jlperidot.com](https://jlperidot.com)
- - date published: 2024-01-07T08:43:35.103723+00:00
- - user: None
- - tags: []
-
-## Jed Margolin Web Site
- - [https://www.jmargolin.com](https://www.jmargolin.com)
- - date published: 2024-03-11T15:16:57.344672+00:00
- - user: None
- - tags: []
-
-## Applied Cartography
- - [https://jmduke.com](https://jmduke.com)
- - date published: 2024-01-17T00:00:00+00:00
- - user: rumpel
- - tags: ['personal']
-
-## jM Galleries: Everyday Fine Art, Portraits, Weddings, Real Estate and Lifestyle Photography by j.McCarthy
- - [https://jmgalleries.com](https://jmgalleries.com)
- - date published: 2023-12-28T18:51:11.146539+00:00
- - user: None
- - tags: ['personal']
-
-## A sonic soul with a relentless drive to make & learn - JmsDnns
- - [https://jmsdnns.com](https://jmsdnns.com)
- - date published: 2023-10-25T15:29:28.593016+00:00
- - user: None
- - tags: []
 

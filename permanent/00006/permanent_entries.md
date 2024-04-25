@@ -1,3 +1,57 @@
+## None
+ - [https://sideprojects.fazier.com](https://sideprojects.fazier.com)
+ - date published: 2024-01-09T02:36:30.172831+00:00
+ - user: None
+ - tags: []
+
+## Facebook
+ - [https://about.fb.com](https://about.fb.com)
+ - date published: 2023-10-25T14:28:10.356594+00:00
+ - user: None
+ - tags: []
+
+## Engineering at Meta - Engineering at Meta Blog
+ - [https://engineering.fb.com](https://engineering.fb.com)
+ - date published: 2023-10-25T14:28:11.988492+00:00
+ - user: None
+ - tags: []
+
+## Log in or sign up to view
+ - [https://fb.com](https://fb.com)
+ - date published: 2023-12-11T18:59:06.777172+00:00
+ - user: None
+ - tags: []
+
+## Meta - Home
+ - [https://investor.fb.com](https://investor.fb.com)
+ - date published: 2023-10-25T14:28:14.546794+00:00
+ - user: None
+ - tags: []
+
+## Messenger News
+ - [https://messengernews.fb.com](https://messengernews.fb.com)
+ - date published: 2023-12-07T03:25:57.598327+00:00
+ - user: None
+ - tags: []
+
+## Transparency Center
+ - [https://transparency.fb.com](https://transparency.fb.com)
+ - date published: 2023-11-28T20:54:26+00:00
+ - user: rumpel
+ - tags: ['facebook', 'meta']
+
+## Facebook
+ - [https://www.fb.com](https://www.fb.com)
+ - date published: 2023-11-28T20:55:32+00:00
+ - user: rumpel
+ - tags: ['facebook', 'meta']
+
+## Fck Oatly
+ - [https://fckoatly.com](https://fckoatly.com)
+ - date published: 2023-10-25T14:28:16.635829+00:00
+ - user: None
+ - tags: []
+
 ## FearLess Cheat Engine - Index page
  - [https://fearlessrevolution.com](https://fearlessrevolution.com)
  - date published: 2024-03-19T00:00:00+00:00
@@ -70,15 +124,15 @@
  - user: None
  - tags: []
 
-## None
- - [http://feeds.feedburner.com](http://feeds.feedburner.com)
- - date published: 2024-02-25T14:03:04.041505+00:00
- - user: None
- - tags: []
-
 ## Error 404 (Not Found)!!1
  - [https://feeds.feedburner.com](https://feeds.feedburner.com)
  - date published: 2024-01-09T02:36:30.505752+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://feeds.feedburner.com](http://feeds.feedburner.com)
+ - date published: 2024-02-25T14:03:04.041505+00:00
  - user: None
  - tags: []
 
@@ -1169,14 +1223,14 @@
  - tags: []
 
 ## None
- - [http://forbiddenplanet.com](http://forbiddenplanet.com)
- - date published: 2024-02-25T20:20:06.293093+00:00
+ - [https://forbiddenplanet.com](https://forbiddenplanet.com)
+ - date published: 2024-02-25T20:19:58.237177+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://forbiddenplanet.com](https://forbiddenplanet.com)
- - date published: 2024-02-25T20:19:58.237177+00:00
+ - [http://forbiddenplanet.com](http://forbiddenplanet.com)
+ - date published: 2024-02-25T20:20:06.293093+00:00
  - user: None
  - tags: []
 
@@ -2410,6 +2464,12 @@
  - user: None
  - tags: ['star wars']
 
+## Home Page Galaxy Website Design
+ - [http://www.galaxywebsitedesign.com](http://www.galaxywebsitedesign.com)
+ - date published: 2024-04-24T08:00:27.058726+00:00
+ - user: None
+ - tags: []
+
 ## Unbiased news powered by public opinion research and analysis of human behavior around the world
  - [https://news.gallup.com](https://news.gallup.com)
  - date published: 2024-01-09T02:37:00.202847+00:00
@@ -2537,16 +2597,16 @@
  - tags: []
 
 ## GameOver Music - Radio
- - [http://gameover-radio.com](http://gameover-radio.com)
- - date published: 2024-02-11T14:36:22.689452+00:00
- - user: None
- - tags: ['video game music']
-
-## GameOver Music - Radio
  - [https://gameover-radio.com](https://gameover-radio.com)
  - date published: 2024-02-15T22:13:10.790152+00:00
  - user: None
  - tags: ['demoscene']
+
+## GameOver Music - Radio
+ - [http://gameover-radio.com](http://gameover-radio.com)
+ - date published: 2024-02-11T14:36:22.689452+00:00
+ - user: None
+ - tags: ['video game music']
 
 ## Streaming Video Game Music Radio - Gamepad Music
  - [https://www.gamepadmusic.com](https://www.gamepadmusic.com)
@@ -2636,7 +2696,7 @@
  - [https://www.gamespot.com](https://www.gamespot.com)
  - date published: 2023-10-25T10:48:12.023848+00:00
  - user: None
- - tags: ['video games', 'game news']
+ - tags: ['video game news', 'video games']
 
 ## None
  - [https://planetquake.gamespy.com](https://planetquake.gamespy.com)
@@ -2744,7 +2804,7 @@
  - [https://www.gamingonlinux.com](https://www.gamingonlinux.com)
  - date published: 2023-10-25T10:48:57.032223+00:00
  - user: None
- - tags: ['game news', 'linux']
+ - tags: ['video game news', 'linux']
 
 ## Gaming Pastime
  - [https://gamingpastime.com](https://gamingpastime.com)
@@ -3852,17 +3912,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['code sandbox']
 
-## GitHub: Let’s build from here · GitHub
- - [https://github.com](https://github.com)
- - date published: 2023-10-25T14:42:43.938249+00:00
- - user: None
- - tags: ['gatekeeper', 'software platform']
-
 ## Grimoire: Open-Source bookmark manager with extra features
  - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
  - date published: 2023-11-26T08:04:54+00:00
  - user: rumpel
  - tags: ['bookmark manager', 'open source']
+
+## GitHub: Let’s build from here · GitHub
+ - [https://github.com](https://github.com)
+ - date published: 2023-10-25T14:42:43.938249+00:00
+ - user: None
+ - tags: ['gatekeeper', 'software platform']
 
 ## GitHub: Let’s build from here
  - [http://github.com](http://github.com)
@@ -5942,64 +6002,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T14:54:19.680950+00:00
  - user: None
  - tags: []
-
-## hackcompute
- - [https://hackcompute.com](https://hackcompute.com)
- - date published: 2023-10-25T14:54:20.857205+00:00
- - user: None
- - tags: []
-
-## Hacker Factor: Home Page
- - [https://www.hackerfactor.com](https://www.hackerfactor.com)
- - date published: 2023-10-25T14:54:32.697578+00:00
- - user: None
- - tags: []
-
-## Hacker FM
- - [https://hackerfm.com](https://hackerfm.com)
- - date published: 2023-10-25T14:54:35.925362+00:00
- - user: None
- - tags: []
-
-## Not Found
- - [https://media.hackerfm.com](https://media.hackerfm.com)
- - date published: 2024-02-25T20:36:33.881481+00:00
- - user: None
- - tags: []
-
-## Home - Hacker History Podcast
- - [https://hackerhistory.com](https://hackerhistory.com)
- - date published: 2023-10-26T16:02:58.214513+00:00
- - user: None
- - tags: []
-
-## Hacker Jobs - Technology Jobs from the monthly Hacker News Who is hiring threads
- - [https://www.hacker-jobs.com](https://www.hacker-jobs.com)
- - date published: 2023-10-25T14:54:31.881421+00:00
- - user: None
- - tags: []
-
-## HackerNoon - read, write and learn about any technology
- - [https://hackernoon.com](https://hackernoon.com)
- - date published: 2023-10-25T14:54:43.557045+00:00
- - user: None
- - tags: ['tech news']
-
-## HackerOne | #1 Trusted Security Platform and Hacker Program
- - [https://hackerone.com](https://hackerone.com)
- - date published: 2023-10-25T14:54:51.021089+00:00
- - user: None
- - tags: []
-
-## HackerOne | #1 Trusted Security Platform and Hacker Program
- - [https://www.hackerone.com](https://www.hackerone.com)
- - date published: 2023-10-25T14:54:52.834191+00:00
- - user: None
- - tags: []
-
-## HackerRank - Online Coding Tests and Technical Interviews
- - [https://www.hackerrank.com](https://www.hackerrank.com)
- - date published: 2023-10-25T14:54:54.856781+00:00
- - user: None
- - tags: ['programming tutorials']
 

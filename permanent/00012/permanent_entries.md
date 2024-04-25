@@ -1,3 +1,135 @@
+## Cloud Application Hosting for Developers | Render
+ - [https://render.com](https://render.com)
+ - date published: 2023-10-25T16:49:28.079973+00:00
+ - user: None
+ - tags: []
+
+## Render Status
+ - [https://status.render.com](https://status.render.com)
+ - date published: 2023-10-25T16:49:32.937774+00:00
+ - user: None
+ - tags: []
+
+## Renée Yoxon - Trans Voice Teacher
+ - [https://www.reneeyoxon.com](https://www.reneeyoxon.com)
+ - date published: 2023-12-14T01:26:51.015164+00:00
+ - user: None
+ - tags: ['personal']
+
+## Renegade Otter Software
+ - [https://renegadeotter.com](https://renegadeotter.com)
+ - date published: 2023-10-25T08:47:39.799499+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rene Herse Cycles
+ - [https://www.renehersecycles.com](https://www.renehersecycles.com)
+ - date published: 2023-10-25T16:49:35.784693+00:00
+ - user: None
+ - tags: []
+
+## Renesas Electronics Corporation
+ - [https://www.renesas.com](https://www.renesas.com)
+ - date published: 2024-02-15T22:32:50.899645+00:00
+ - user: None
+ - tags: []
+
+## Renewable energy news & research | Renewables Now
+ - [https://renewablesnow.com](https://renewablesnow.com)
+ - date published: 2024-02-12T20:51:45+00:00
+ - user: rumpel
+ - tags: ['climate change', 'renewable energy news']
+
+## Home | Renoise
+ - [https://www.renoise.com](https://www.renoise.com)
+ - date published: 2023-10-28T18:43:27.880974+00:00
+ - user: None
+ - tags: []
+
+## New T-Shirts Have Arrived - Come Back Later Today To Get Yours!
+ - [https://rentahitman.com](https://rentahitman.com)
+ - date published: 2024-04-20T04:50:54+00:00
+ - user: rumpel
+ - tags: ['funny', 'satire', 'comedy']
+
+## https://www.rentcafe.com
+ - [https://www.rentcafe.com](https://www.rentcafe.com)
+ - date published: 2023-11-14T01:04:03.281266+00:00
+ - user: None
+ - tags: []
+
+## Explore - Repables
+ - [https://repables.com](https://repables.com)
+ - date published: 2023-10-27T10:31:30.534866+00:00
+ - user: None
+ - tags: ['3d printing', 'assets models']
+
+## Repairer Driven News
+ - [https://www.repairerdrivennews.com](https://www.repairerdrivennews.com)
+ - date published: 2024-03-12T17:41:32.294797+00:00
+ - user: None
+ - tags: []
+
+## Replicate – Run open-source machine learning models with a cloud API
+ - [https://replicate.com](https://replicate.com)
+ - date published: 2023-10-25T16:49:37.539506+00:00
+ - user: None
+ - tags: []
+
+## Replit - Blog
+ - [https://blog.replit.com](https://blog.replit.com)
+ - date published: 2023-10-25T16:49:47.879635+00:00
+ - user: None
+ - tags: []
+
+## Replit: the collaborative browser based IDE - Replit
+ - [https://replit.com](https://replit.com)
+ - date published: 2023-10-25T16:49:49.955967+00:00
+ - user: None
+ - tags: []
+
+## Repography: Make your GitHub repo beautiful
+ - [https://repography.com](https://repography.com)
+ - date published: 2023-10-25T16:49:50.660347+00:00
+ - user: None
+ - tags: []
+
+## ReportMill - The Best Java Reporting Software and Tools
+ - [https://reportmill.com](https://reportmill.com)
+ - date published: 2024-02-08T16:00:34.896769+00:00
+ - user: None
+ - tags: []
+
+## RepRage
+ - [https://reprage.com](https://reprage.com)
+ - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Request Metrics
+ - [https://requestmetrics.com](https://requestmetrics.com)
+ - date published: 2023-10-25T16:49:51.790104+00:00
+ - user: None
+ - tags: []
+
+## ReRender AI - Instant Renders for Architectures. Enhance your AutoCAD/Blender/Sketchup results!
+ - [https://rerenderai.com](https://rerenderai.com)
+ - date published: 2023-10-25T16:49:53.163297+00:00
+ - user: None
+ - tags: []
+
+## ResearchHub | Open Science Community
+ - [https://www.researchhub.com](https://www.researchhub.com)
+ - date published: 2023-10-25T16:49:54.114014+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Research Professional News
+ - [https://www.researchprofessionalnews.com](https://www.researchprofessionalnews.com)
+ - date published: 2023-10-25T16:50:04.201997+00:00
+ - user: None
+ - tags: []
+
 ## Resend
  - [https://resend.com](https://resend.com)
  - date published: 2023-10-25T16:50:10.173228+00:00
@@ -80,7 +212,7 @@
  - [https://retrododo.com](https://retrododo.com)
  - date published: 2023-10-25T10:46:34.000501+00:00
  - user: None
- - tags: ['game news', 'retro game']
+ - tags: ['video game news', 'retro games']
 
 ## Retro entre Amigos
  - [https://www.retroentreamigos.com](https://www.retroentreamigos.com)
@@ -527,16 +659,16 @@
  - tags: []
 
 ## Ken Shirriff's blog
- - [http://www.righto.com](http://www.righto.com)
- - date published: 2024-02-25T00:44:48.796985+00:00
- - user: None
- - tags: []
-
-## Ken Shirriff's blog
  - [https://www.righto.com](https://www.righto.com)
  - date published: 2023-10-25T16:51:33.313104+00:00
  - user: None
  - tags: ['blog', 'personal']
+
+## Ken Shirriff's blog
+ - [http://www.righto.com](http://www.righto.com)
+ - date published: 2024-02-25T00:44:48.796985+00:00
+ - user: None
+ - tags: []
 
 ## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
  - [https://www.rigzone.com](https://www.rigzone.com)
@@ -914,7 +1046,7 @@
  - [https://robertsspaceindustries.com](https://robertsspaceindustries.com)
  - date published: 2023-10-25T16:52:40.913384+00:00
  - user: None
- - tags: []
+ - tags: ['star citizen', 'video game']
 
 ## Robert Wojciechowski - 3D Motion Designer & Art Director
  - [https://robertvoy.com](https://robertvoy.com)
@@ -1469,14 +1601,14 @@
  - tags: ['personal']
 
 ## my blog
- - [http://ronzhyn.com](http://ronzhyn.com)
- - date published: 2024-04-03T12:46:15.138808+00:00
+ - [https://ronzhyn.com](https://ronzhyn.com)
+ - date published: 2023-12-03T01:43:15.181104+00:00
  - user: None
  - tags: ['personal']
 
 ## my blog
- - [https://ronzhyn.com](https://ronzhyn.com)
- - date published: 2023-12-03T01:43:15.181104+00:00
+ - [http://ronzhyn.com](http://ronzhyn.com)
+ - date published: 2024-04-03T12:46:15.138808+00:00
  - user: None
  - tags: ['personal']
 
@@ -2039,14 +2171,14 @@
  - tags: []
 
 ## Home :: Sacha Chua
- - [https://sachachua.com](https://sachachua.com)
- - date published: 2024-01-06T02:24:05.322702+00:00
+ - [http://sachachua.com](http://sachachua.com)
+ - date published: 2024-01-05T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Home :: Sacha Chua
- - [http://sachachua.com](http://sachachua.com)
- - date published: 2024-01-05T00:00:00+00:00
+ - [https://sachachua.com](https://sachachua.com)
+ - date published: 2024-01-06T02:24:05.322702+00:00
  - user: None
  - tags: []
 
@@ -3074,7 +3206,7 @@
  - [https://scmscx.com](https://scmscx.com)
  - date published: 2023-10-25T11:51:08.396681+00:00
  - user: None
- - tags: []
+ - tags: ['maps', 'starcraft']
 
 ## https://www.scootcolumbus.com
  - [https://www.scootcolumbus.com](https://www.scootcolumbus.com)
@@ -4666,6 +4798,12 @@
  - user: None
  - tags: []
 
+## SignUpGenius - Free Online Sign Up Forms
+ - [http://signupgenius.com](http://signupgenius.com)
+ - date published: 2024-04-24T18:38:52.904972+00:00
+ - user: None
+ - tags: ['online forms', 'online polls']
+
 ## Sigur Rós - Official Website
  - [https://sigurros.com](https://sigurros.com)
  - date published: 2023-11-13T11:09:43.078448+00:00
@@ -4799,14 +4937,14 @@
  - tags: []
 
 ## Simon Hedley | Strategic Alchemist | The Strategic Consultant – Helping Good People Do Great Things
- - [http://simonhedley.com](http://simonhedley.com)
- - date published: 2024-04-03T12:49:49.008939+00:00
+ - [https://simonhedley.com](https://simonhedley.com)
+ - date published: 2024-01-13T04:53:05.503923+00:00
  - user: None
  - tags: ['personal']
 
 ## Simon Hedley | Strategic Alchemist | The Strategic Consultant – Helping Good People Do Great Things
- - [https://simonhedley.com](https://simonhedley.com)
- - date published: 2024-01-13T04:53:05.503923+00:00
+ - [http://simonhedley.com](http://simonhedley.com)
+ - date published: 2024-04-03T12:49:49.008939+00:00
  - user: None
  - tags: ['personal']
 
@@ -5429,15 +5567,15 @@
  - user: None
  - tags: ['smart home']
 
-## Smashing Magazine — For Web Designers And Developers
- - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
- - date published: 2023-10-25T17:07:11.338092+00:00
- - user: None
- - tags: []
-
 ## Smashing Magazine ‚Äî For Web Designers And Developers
  - [http://www.smashingmagazine.com](http://www.smashingmagazine.com)
  - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Smashing Magazine — For Web Designers And Developers
+ - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
+ - date published: 2023-10-25T17:07:11.338092+00:00
  - user: None
  - tags: []
 
@@ -5625,7 +5763,7 @@
  - [https://www.snowflake.com](https://www.snowflake.com)
  - date published: 2023-10-25T17:07:28.475972+00:00
  - user: None
- - tags: []
+ - tags: ['database system']
 
 ## Snowpine - Writing about wildflowers
  - [https://snowingpine.com](https://snowingpine.com)
@@ -5864,144 +6002,6 @@
 ## Something or other, whatever!
  - [https://somethingorotherwhatever.com](https://somethingorotherwhatever.com)
  - date published: 2023-10-25T17:08:02.730300+00:00
- - user: None
- - tags: []
-
-## Sometimes Interesting -
- - [https://sometimes-interesting.com](https://sometimes-interesting.com)
- - date published: 2023-10-25T17:08:09.993313+00:00
- - user: None
- - tags: []
-
-## Clean Code Tools for Writing Clear, Readable & Understandable Secure Quality Code
- - [https://www.sonarsource.com](https://www.sonarsource.com)
- - date published: 2024-02-19T16:26:29.693743+00:00
- - user: None
- - tags: []
-
-## Song Meanings at Songfacts
- - [https://www.songfacts.com](https://www.songfacts.com)
- - date published: 2023-12-26T16:32:47.901464+00:00
- - user: None
- - tags: []
-
-## Songs of Syx - The fantasy city-state simulator
- - [https://songsofsyx.com](https://songsofsyx.com)
- - date published: 2024-04-16T19:38:20+00:00
- - user: rumpel
- - tags: ['video game', 'fantasy city-state simulator']
-
-## Songtell
- - [https://www.songtell.com](https://www.songtell.com)
- - date published: 2023-10-25T17:08:13.907903+00:00
- - user: None
- - tags: []
-
-## Songwhip - Free music links to all platforms
- - [https://songwhip.com](https://songwhip.com)
- - date published: 2024-02-26T18:35:40+00:00
- - user: rumpel
- - tags: ['social media reference']
-
-## Sonic Fan Games HQ
- - [https://sonicfangameshq.com](https://sonicfangameshq.com)
- - date published: 2024-04-07T19:00:41+00:00
- - user: rumpel
- - tags: ['video game']
-
-## HOME - Sonic the Hedgehog
- - [https://www.sonicthehedgehog.com](https://www.sonicthehedgehog.com)
- - date published: 2023-08-29T22:08:50+00:00
- - user: rumpel
- - tags: ['sonic']
-
-## Sonic World
- - [https://sonicworldfangame.com](https://sonicworldfangame.com)
- - date published: 2024-04-07T19:02:09+00:00
- - user: rumpel
- - tags: ['open source']
-
-## Sony Group Portal - Home
- - [https://www.sony.com](https://www.sony.com)
- - date published: 2023-10-25T11:28:44.351859+00:00
- - user: None
- - tags: ['company']
-
-## Sony Pictures Classics | Home
- - [https://sonyclassics.com](https://sonyclassics.com)
- - date published: 2024-01-13T15:00:43.773619+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://sonyinteractive.com](https://sonyinteractive.com)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sony Semiconductor Solutions Group
- - [https://www.sony-semicon.com](https://www.sony-semicon.com)
- - date published: 2023-10-25T17:08:19.816230+00:00
- - user: None
- - tags: []
-
-## 
- - [https://www.sophiajt.com](https://www.sophiajt.com)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Naked Security – Sophos News
- - [https://nakedsecurity.sophos.com](https://nakedsecurity.sophos.com)
- - date published: 2023-10-25T17:08:21.418653+00:00
- - user: None
- - tags: []
-
-## Sophos News
- - [https://news.sophos.com](https://news.sophos.com)
- - date published: 2024-02-26T13:07:07.891211+00:00
- - user: None
- - tags: []
-
-## SoraNews24 -Japan News-
- - [https://soranews24.com](https://soranews24.com)
- - date published: 2023-10-27T11:54:48.691383+00:00
- - user: None
- - tags: []
-
-## So Raven
- - [https://soraven.com](https://soraven.com)
- - date published: 2023-10-25T17:08:25.074516+00:00
- - user: None
- - tags: []
-
-## About · Soren Bjornstad
- - [https://sorenbjornstad.com](https://sorenbjornstad.com)
- - date published: 2023-12-28T22:26:38.786014+00:00
- - user: None
- - tags: ['personal']
-
-## Engineering Marketing
- - [https://sorinp.com](https://sorinp.com)
- - date published: 2024-01-12T21:01:50.860080+00:00
- - user: None
- - tags: []
-
-## Engineering Marketing
- - [https://www.sorinp.com](https://www.sorinp.com)
- - date published: 2024-02-25T20:04:58.267941+00:00
- - user: None
- - tags: []
-
-## Sortabase | Collaborative, visual databases by communities
- - [https://www.sortabase.com](https://www.sortabase.com)
- - date published: 2023-10-25T17:08:25.672322+00:00
- - user: None
- - tags: []
-
-## Sorting and Searching
- - [https://sortingsearching.com](https://sortingsearching.com)
- - date published: 2023-11-25T19:34:17.452870+00:00
  - user: None
  - tags: []
 

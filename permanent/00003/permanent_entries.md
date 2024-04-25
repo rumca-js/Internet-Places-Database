@@ -1,3 +1,21 @@
+## Fully documented source code for Elite on the BBC Micro - Elite on the BBC Micro and NES
+ - [https://www.bbcelite.com](https://www.bbcelite.com)
+ - date published: 2023-10-25T12:54:32.058561+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Good Food
+ - [https://www.bbcgoodfood.com](https://www.bbcgoodfood.com)
+ - date published: 2024-03-24T15:07:58.959176+00:00
+ - user: None
+ - tags: []
+
+## BBS: The Documentary
+ - [http://www.bbsdocumentary.com](http://www.bbsdocumentary.com)
+ - date published: 2023-12-23T17:45:17+00:00
+ - user: None
+ - tags: []
+
 ## Homepage
  - [https://b-compservices.com](https://b-compservices.com)
  - date published: 2024-01-24T00:00:00+00:00
@@ -23,14 +41,14 @@
  - tags: []
 
 ## BeAble2
- - [https://beable2.com](https://beable2.com)
- - date published: 2023-12-26T06:32:14.747261+00:00
+ - [http://beable2.com](http://beable2.com)
+ - date published: 2024-04-03T06:23:37.542805+00:00
  - user: None
  - tags: ['personal']
 
 ## BeAble2
- - [http://beable2.com](http://beable2.com)
- - date published: 2024-04-03T06:23:37.542805+00:00
+ - [https://beable2.com](https://beable2.com)
+ - date published: 2023-12-26T06:32:14.747261+00:00
  - user: None
  - tags: ['personal']
 
@@ -824,7 +842,7 @@
  - [https://www.bigscreenvr.com](https://www.bigscreenvr.com)
  - date published: 2023-12-19T22:02:45+00:00
  - user: rumpel
- - tags: ['virtual reality']
+ - tags: ['home theater', 'virtual reality']
 
 ## Big Technology | Alex Kantrowitz | Substack
  - [https://www.bigtechnology.com](https://www.bigtechnology.com)
@@ -899,14 +917,14 @@
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [http://billingsgazette.com](http://billingsgazette.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://billingsgazette.com](https://billingsgazette.com)
+ - date published: 2023-12-17T18:30:53.119094+00:00
  - user: None
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [https://billingsgazette.com](https://billingsgazette.com)
- - date published: 2023-12-17T18:30:53.119094+00:00
+ - [http://billingsgazette.com](http://billingsgazette.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1640,7 +1658,7 @@
  - [https://news.blizzard.com](https://news.blizzard.com)
  - date published: 2023-10-29T10:40:53.223640+00:00
  - user: None
- - tags: ['game news']
+ - tags: ['video game news']
 
 ## https://us.forums.blizzard.com
  - [https://us.forums.blizzard.com](https://us.forums.blizzard.com)
@@ -1658,7 +1676,7 @@
  - [https://www.blizzard.com](https://www.blizzard.com)
  - date published: 2023-10-25T11:26:31.588113+00:00
  - user: None
- - tags: ['company', 'warcraft', 'overwatch', 'diablo', 'starcraft']
+ - tags: ['company', 'diablo', 'overwatch', 'starcraft', 'world of warcraft']
 
 ## Blizzbrush - the best toothbrush in the world.
  - [https://blizzbrush.com](https://blizzbrush.com)
@@ -1775,16 +1793,16 @@
  - tags: []
 
 ## Agile Otter Blog
- - [https://agileotter.blogspot.com](https://agileotter.blogspot.com)
- - date published: 2023-10-25T09:05:30.845699+00:00
- - user: None
- - tags: ['personal']
-
-## Agile Otter Blog
  - [http://agileotter.blogspot.com](http://agileotter.blogspot.com)
  - date published: 2024-02-27T00:00:00+00:00
  - user: None
  - tags: []
+
+## Agile Otter Blog
+ - [https://agileotter.blogspot.com](https://agileotter.blogspot.com)
+ - date published: 2023-10-25T09:05:30.845699+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Dave Airlie Linux Graphics blog
  - [https://airlied.blogspot.com](https://airlied.blogspot.com)
@@ -2003,16 +2021,16 @@
  - tags: ['personal']
 
 ## Database Architects
- - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Database Architects
  - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
  - date published: 2023-10-25T09:08:09.774302+00:00
  - user: None
  - tags: ['personal']
+
+## Database Architects
+ - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Data Finnovation
  - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
@@ -2255,16 +2273,16 @@
  - tags: []
 
 ## Information Processing
- - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Information Processing
  - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
  - date published: 2023-10-25T09:09:06.318517+00:00
  - user: None
  - tags: ['personal']
+
+## Information Processing
+ - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Development of the trilogy & IV
  - [https://insiderockstarnorth.blogspot.com](https://insiderockstarnorth.blogspot.com)
@@ -2327,14 +2345,14 @@
  - tags: []
 
 ## Kiwi Hellenist
- - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
- - date published: 2023-11-28T20:46:36.488371+00:00
+ - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Kiwi Hellenist
- - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
+ - date published: 2023-11-28T20:46:36.488371+00:00
  - user: None
  - tags: []
 
@@ -2546,7 +2564,7 @@
  - [https://postapokalipsa.blogspot.com](https://postapokalipsa.blogspot.com)
  - date published: 2023-12-13T15:11:58.113245+00:00
  - user: None
- - tags: ['fallout', 'hobby']
+ - tags: ['hobby', 'fallout game']
 
 ## The Prestigious Internet
  - [https://prestigiousinternet.blogspot.com](https://prestigiousinternet.blogspot.com)
@@ -3185,16 +3203,16 @@
  - tags: ['aviation', 'aerospace', 'avionics']
 
 ## Chris Aldrich | BoffoSocko
- - [http://boffosocko.com](http://boffosocko.com)
- - date published: 2024-02-26T14:52:14.236002+00:00
- - user: None
- - tags: ['personal']
-
-## Chris Aldrich | BoffoSocko
  - [https://boffosocko.com](https://boffosocko.com)
  - date published: 2024-01-02T00:00:00+00:00
  - user: None
  - tags: []
+
+## Chris Aldrich | BoffoSocko
+ - [http://boffosocko.com](http://boffosocko.com)
+ - date published: 2024-02-26T14:52:14.236002+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Chris Aldrich | BoffoSocko
  - [https://www.boffosocko.com](https://www.boffosocko.com)
@@ -3313,16 +3331,16 @@
  - tags: []
 
 ## Boodaism
- - [http://boodaism.com](http://boodaism.com)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Boodaism
  - [https://boodaism.com](https://boodaism.com)
  - date published: 2023-12-13T06:05:24.808329+00:00
  - user: None
  - tags: ['personal']
+
+## Boodaism
+ - [http://boodaism.com](http://boodaism.com)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Book reviews: Find the best new books
  - [https://www.bookbrowse.com](https://www.bookbrowse.com)
@@ -3559,16 +3577,16 @@
  - tags: []
 
 ## Home | Boston Dynamics
- - [http://www.bostondynamics.com](http://www.bostondynamics.com)
- - date published: 2024-03-28T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Home | Boston Dynamics
  - [https://www.bostondynamics.com](https://www.bostondynamics.com)
  - date published: 2024-03-28T00:00:00+00:00
  - user: rumpel
  - tags: ['robots', 'robotics']
+
+## Home | Boston Dynamics
+ - [http://www.bostondynamics.com](http://www.bostondynamics.com)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: rumpel
+ - tags: []
 
 ## The Boston Globe
  - [https://www.bostonglobe.com](https://www.bostonglobe.com)
@@ -3997,16 +4015,16 @@
  - tags: []
 
 ## Brian Kleiber - SEO Analyst & Content Marketing
- - [https://www.briankleiber.com](https://www.briankleiber.com)
- - date published: 2023-12-30T22:23:37.854421+00:00
- - user: None
- - tags: ['personal']
-
-## Brian Kleiber - SEO Analyst & Content Marketing
  - [http://www.briankleiber.com](http://www.briankleiber.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Brian Kleiber - SEO Analyst & Content Marketing
+ - [https://www.briankleiber.com](https://www.briankleiber.com)
+ - date published: 2023-12-30T22:23:37.854421+00:00
+ - user: None
+ - tags: ['personal']
 
 ## bkm
  - [https://www.briankm.com](https://www.briankm.com)
@@ -5356,7 +5374,7 @@
  - [https://www.captoglove.com](https://www.captoglove.com)
  - date published: 2023-11-27T16:17:26+00:00
  - user: rumpel
- - tags: []
+ - tags: ['virtual reality']
 
 ## CAR-2-EUROPE : The temporary transit (TT) offer of the manufacturers
  - [https://www.car2europe.com](https://www.car2europe.com)
@@ -5910,15 +5928,15 @@
  - user: None
  - tags: ['personal']
 
-## https://www.cell.com
- - [https://www.cell.com](https://www.cell.com)
- - date published: 2023-10-25T13:19:41.208125+00:00
- - user: None
- - tags: []
-
 ## Human fetal brain self-organizes into long-term expanding organoids
  - [www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue](www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue)
  - date published: 2024-01-10T19:20:45.384863+00:00
+ - user: None
+ - tags: []
+
+## https://www.cell.com
+ - [https://www.cell.com](https://www.cell.com)
+ - date published: 2023-10-25T13:19:41.208125+00:00
  - user: None
  - tags: []
 
@@ -5985,24 +6003,6 @@
 ## Environmental Science | CERES-Science
  - [https://www.ceres-science.com](https://www.ceres-science.com)
  - date published: 2023-10-25T13:20:00.076730+00:00
- - user: None
- - tags: []
-
-## Manuel Cerón – A blog mostly about programming languages
- - [https://ceronman.com](https://ceronman.com)
- - date published: 2023-10-25T13:20:05.254140+00:00
- - user: None
- - tags: []
-
-## César Lemus
- - [https://cesarlemus.com](https://cesarlemus.com)
- - date published: 2024-01-05T16:53:34.024968+00:00
- - user: None
- - tags: []
-
-## CFAO GROUP - With Africa For Africa
- - [https://www.cfaogroup.com](https://www.cfaogroup.com)
- - date published: 2023-12-11T16:09:55.234732+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,81 @@
+## Joseph Jude - Coach • CTO • Podcast Host
+ - [https://jjude.com](https://jjude.com)
+ - date published: 2023-12-05T14:37:52.987095+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jonathan Katz
+ - [https://jkatz05.com](https://jkatz05.com)
+ - date published: 2023-10-25T15:29:21.287258+00:00
+ - user: None
+ - tags: []
+
+## Jaso'n k'Leinberg is still here | jkleinberg.com
+ - [https://jkleinberg.com](https://jkleinberg.com)
+ - date published: 2024-01-10T23:53:20.981430+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jaso'n k'Leinberg is still here | jkleinberg.com
+ - [http://jkleinberg.com](http://jkleinberg.com)
+ - date published: 2024-04-03T06:28:43.499135+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - J.K. Rowling
+ - [https://www.jkrowling.com](https://www.jkrowling.com)
+ - date published: 2024-02-06T12:30:19+00:00
+ - user: rumpel
+ - tags: ['fantasy books', 'book author']
+
+## Jon Kulton
+ - [https://jkulton.com](https://jkulton.com)
+ - date published: 2023-10-25T15:29:22.992517+00:00
+ - user: None
+ - tags: []
+
+## Jon Quixote | In which the author considers whether a community is more like a giant or more like a windmill.
+ - [https://jlericson.com](https://jlericson.com)
+ - date published: 2023-10-25T15:29:25.754618+00:00
+ - user: None
+ - tags: []
+
+## James Long - blog & knowledge graph
+ - [https://jlongster.com](https://jlongster.com)
+ - date published: 2023-10-25T15:29:27.238133+00:00
+ - user: None
+ - tags: []
+
+## JL Peridot
+ - [https://jlperidot.com](https://jlperidot.com)
+ - date published: 2024-01-07T08:43:35.103723+00:00
+ - user: None
+ - tags: []
+
+## Jed Margolin Web Site
+ - [https://www.jmargolin.com](https://www.jmargolin.com)
+ - date published: 2024-03-11T15:16:57.344672+00:00
+ - user: None
+ - tags: []
+
+## Applied Cartography
+ - [https://jmduke.com](https://jmduke.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## jM Galleries: Everyday Fine Art, Portraits, Weddings, Real Estate and Lifestyle Photography by j.McCarthy
+ - [https://jmgalleries.com](https://jmgalleries.com)
+ - date published: 2023-12-28T18:51:11.146539+00:00
+ - user: None
+ - tags: ['personal']
+
+## A sonic soul with a relentless drive to make & learn - JmsDnns
+ - [https://jmsdnns.com](https://jmsdnns.com)
+ - date published: 2023-10-25T15:29:28.593016+00:00
+ - user: None
+ - tags: []
+
 ## jneidel.com
  - [https://jneidel.com](https://jneidel.com)
  - date published: 2024-01-11T12:23:06.500517+00:00
@@ -200,7 +278,7 @@
  - [https://www.joerogan.com](https://www.joerogan.com)
  - date published: 2023-11-01T08:42:22.375231+00:00
  - user: None
- - tags: []
+ - tags: ['podcasts', 'youtuber']
 
 ## Jose's Sketchbook – A personal collection of ideas, programming and shiny stuff
  - [https://www.joesfer.com](https://www.joesfer.com)
@@ -449,16 +527,16 @@
  - tags: []
 
 ## Your Privacy is our Business
- - [https://joindeleteme.com](https://joindeleteme.com)
- - date published: 2022-12-23T16:20:20+00:00
- - user: None
- - tags: []
-
-## Your Privacy is our Business
  - [http://joindeleteme.com](http://joindeleteme.com)
  - date published: 2022-12-23T16:20:20+00:00
  - user: None
  - tags: ['privacy']
+
+## Your Privacy is our Business
+ - [https://joindeleteme.com](https://joindeleteme.com)
+ - date published: 2022-12-23T16:20:20+00:00
+ - user: None
+ - tags: []
 
 ## Join me for the ride - Thoughts on how we live
  - [https://joinmefortheride.com](https://joinmefortheride.com)
@@ -620,7 +698,7 @@
  - [https://www.jordanbpeterson.com](https://www.jordanbpeterson.com)
  - date published: 2023-10-25T08:46:41.267780+00:00
  - user: None
- - tags: ['psychologist', 'personal']
+ - tags: ['personal', 'psychologist', 'youtuber']
 
 ## About / Jordan Eldredge
  - [https://jordaneldredge.com](https://jordaneldredge.com)
@@ -647,16 +725,16 @@
  - tags: ['personal']
 
 ## Jose Munoz | Product Designer
- - [http://www.josemunozmatos.com](http://www.josemunozmatos.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jose Munoz | Product Designer
  - [https://www.josemunozmatos.com](https://www.josemunozmatos.com)
  - date published: 2023-12-11T23:18:46.523295+00:00
  - user: None
  - tags: ['personal']
+
+## Jose Munoz | Product Designer
+ - [http://www.josemunozmatos.com](http://www.josemunozmatos.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Joseon
  - [https://www.joseon.com](https://www.joseon.com)
@@ -710,7 +788,7 @@
  - [https://josephpidala.com](https://josephpidala.com)
  - date published: 2024-02-25T18:50:40.303380+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home | JOSEPH PIDALA
  - [https://www.josephpidala.com](https://www.josephpidala.com)
@@ -898,15 +976,15 @@
  - user: None
  - tags: []
 
-## DNS resolution error | www.joyfulpessimism.com | Cloudflare
- - [http://www.joyfulpessimism.com](http://www.joyfulpessimism.com)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Joyful Pessimism: Sex, Mental Illness, and Philosophy | Michael Ellsberg | Substack
  - [https://www.joyfulpessimism.com](https://www.joyfulpessimism.com)
  - date published: 2024-01-07T05:12:18.416843+00:00
+ - user: None
+ - tags: []
+
+## DNS resolution error | www.joyfulpessimism.com | Cloudflare
+ - [http://www.joyfulpessimism.com](http://www.joyfulpessimism.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1067,14 +1145,14 @@
  - tags: []
 
 ## Juan and Joe Comedy
- - [https://www.juanandjoecomedy.com](https://www.juanandjoecomedy.com)
- - date published: 2023-11-29T17:08:42.429078+00:00
+ - [http://www.juanandjoecomedy.com](http://www.juanandjoecomedy.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Juan and Joe Comedy
- - [http://www.juanandjoecomedy.com](http://www.juanandjoecomedy.com)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://www.juanandjoecomedy.com](https://www.juanandjoecomedy.com)
+ - date published: 2023-11-29T17:08:42.429078+00:00
  - user: None
  - tags: []
 
@@ -1679,14 +1757,14 @@
  - tags: ['personal']
 
 ## All posts
- - [https://katelynsills.com](https://katelynsills.com)
- - date published: 2024-01-03T23:56:16.792993+00:00
+ - [http://katelynsills.com](http://katelynsills.com)
+ - date published: 2024-01-08T00:00:00+00:00
  - user: None
  - tags: []
 
 ## All posts
- - [http://katelynsills.com](http://katelynsills.com)
- - date published: 2024-01-08T00:00:00+00:00
+ - [https://katelynsills.com](https://katelynsills.com)
+ - date published: 2024-01-03T23:56:16.792993+00:00
  - user: None
  - tags: []
 
@@ -1772,7 +1850,7 @@
  - [https://www.katsnyderux.com](https://www.katsnyderux.com)
  - date published: 2023-10-25T15:35:22.405683+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Little Rock News, Weather, Sports, Breaking News | KATV
  - [https://katv.com](https://katv.com)
@@ -1805,16 +1883,16 @@
  - tags: ['music band']
 
 ## Kavita
- - [http://www.kavitareader.com](http://www.kavitareader.com)
- - date published: 2024-04-08T19:26:41.680068+00:00
- - user: None
- - tags: ['file library', 'self-host']
-
-## Kavita
  - [https://www.kavitareader.com](https://www.kavitareader.com)
  - date published: 2024-04-22T21:57:43.376984+00:00
  - user: None
  - tags: ['self-host', 'book library', 'comics library']
+
+## Kavita
+ - [http://www.kavitareader.com](http://www.kavitareader.com)
+ - date published: 2024-04-08T19:26:41.680068+00:00
+ - user: None
+ - tags: ['file library', 'self-host']
 
 ## Kawasaki Robotics - Industrial Robotics | HOME
  - [https://kawasakirobotics.com](https://kawasakirobotics.com)
@@ -2523,7 +2601,7 @@
  - [https://kinocheck.com](https://kinocheck.com)
  - date published: 2024-02-22T16:56:14.012101+00:00
  - user: None
- - tags: []
+ - tags: ['movie news']
 
 ## Kinsta® Cloud Hosting - All Your Projects in One Platform
  - [https://kinsta.com](https://kinsta.com)
@@ -2886,16 +2964,16 @@
  - tags: ['demoscene']
 
 ## Kohina Web Player
- - [http://player.kohina.com](http://player.kohina.com)
- - date published: 2024-02-15T02:00:14.788563+00:00
- - user: None
- - tags: []
-
-## Kohina Web Player
  - [https://player.kohina.com](https://player.kohina.com)
  - date published: 2023-10-25T15:38:24.816845+00:00
  - user: None
  - tags: ['keygen', 'chiptune']
+
+## Kohina Web Player
+ - [http://player.kohina.com](http://player.kohina.com)
+ - date published: 2024-02-15T02:00:14.788563+00:00
+ - user: None
+ - tags: []
 
 ## Access Restricted
  - [https://www.koin.com](https://www.koin.com)
@@ -3603,7 +3681,7 @@
  - [https://www.lamarod.com](https://www.lamarod.com)
  - date published: 2024-04-25T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['yoga', 'personal', 'buddism']
 
 ## Lambda Funk
  - [https://lambdafunk.com](https://lambdafunk.com)
@@ -3682,6 +3760,12 @@
  - date published: 2023-10-25T15:40:59.811350+00:00
  - user: None
  - tags: []
+
+## Show HN: LangCSS – An AI Assistant for Tailwind
+ - [https://langcss.com](https://langcss.com)
+ - date published: 2024-04-24T12:20:32+00:00
+ - user: None
+ - tags: ['artificial intelligence', 'web development']
 
 ## Langfuse
  - [https://langfuse.com](https://langfuse.com)
@@ -4507,14 +4591,14 @@ Chamber Music, Symphony
  - tags: ['personal']
 
 ## About Me - Leo Alexander Glowacki
- - [http://leoglowacki.com](http://leoglowacki.com)
- - date published: 2024-04-03T06:27:09.410241+00:00
+ - [https://leoglowacki.com](https://leoglowacki.com)
+ - date published: 2024-01-29T23:27:30.561916+00:00
  - user: None
  - tags: ['personal']
 
 ## About Me - Leo Alexander Glowacki
- - [https://leoglowacki.com](https://leoglowacki.com)
- - date published: 2024-01-29T23:27:30.561916+00:00
+ - [http://leoglowacki.com](http://leoglowacki.com)
+ - date published: 2024-04-03T06:27:09.410241+00:00
  - user: None
  - tags: ['personal']
 
@@ -5913,90 +5997,6 @@ Chamber Music, Symphony
 ## LoopNet: #1 in Commercial Real Estate for Sale & Lease
  - [https://www.loopnet.com](https://www.loopnet.com)
  - date published: 2024-04-05T18:57:04.276593+00:00
- - user: None
- - tags: []
-
-## Loop Caribbean News
- - [https://caribbean.loopnews.com](https://caribbean.loopnews.com)
- - date published: 2023-12-08T08:34:19.144955+00:00
- - user: None
- - tags: []
-
-## Product Reviews | Explore and compare the most popular products
- - [https://looria.com](https://looria.com)
- - date published: 2023-10-25T15:50:30.521041+00:00
- - user: None
- - tags: []
-
-## Byte Tank - Pedro Lopes Blog
- - [https://lopespm.com](https://lopespm.com)
- - date published: 2023-10-25T15:50:31.704031+00:00
- - user: None
- - tags: []
-
-## Loris Stavrinides - Freelance Creative/Art Director, Interactive & UI Designer, Digital Artist
- - [https://www.loris-stavrinides.com](https://www.loris-stavrinides.com)
- - date published: 2023-11-29T14:18:50.653950+00:00
- - user: None
- - tags: ['personal']
-
-## https://www.losangelesblade.com
- - [https://www.losangelesblade.com](https://www.losangelesblade.com)
- - date published: 2023-11-12T23:05:23.798766+00:00
- - user: None
- - tags: []
-
-## Lose the Very
- - [https://www.losethevery.com](https://www.losethevery.com)
- - date published: 2023-10-25T15:50:37.735136+00:00
- - user: None
- - tags: []
-
-## Lost Art Press
- - [https://blog.lostartpress.com](https://blog.lostartpress.com)
- - date published: 2023-10-25T15:50:45.522545+00:00
- - user: None
- - tags: []
-
-## Lost Coast Outpost | Humboldt County News
- - [https://lostcoastoutpost.com](https://lostcoastoutpost.com)
- - date published: 2023-10-25T15:50:49.363173+00:00
- - user: None
- - tags: []
-
-## · Los Techies
- - [https://lostechies.com](https://lostechies.com)
- - date published: 2024-03-24T15:07:38.533995+00:00
- - user: None
- - tags: []
-
-## https://lostinecattlecompany.com
- - [https://lostinecattlecompany.com](https://lostinecattlecompany.com)
- - date published: 2024-02-08T22:01:37.666760+00:00
- - user: None
- - tags: []
-
-## Lost Kingdom Miniatures
- - [https://www.lostkingdomminiatures.com](https://www.lostkingdomminiatures.com)
- - date published: 2023-11-01T18:36:38.479697+00:00
- - user: None
- - tags: ['shop']
-
-## Florida's Lost Tourist attractions
- - [http://www.lostparks.com](http://www.lostparks.com)
- - date published: 2024-01-09T13:32:10+00:00
- - user: rumpel
- - tags: []
-
-## Lost Pixel - holistic Visual Regression Testing cloud
- - [https://lost-pixel.com](https://lost-pixel.com)
- - date published: 2023-10-25T15:50:38.858700+00:00
- - user: None
- - tags: []
-
-## Lost Retro Tapes
- - [https://www.lostretrotapes.com](https://www.lostretrotapes.com)
- - date published: 2023-10-25T15:50:50.741520+00:00
  - user: None
  - tags: []
 

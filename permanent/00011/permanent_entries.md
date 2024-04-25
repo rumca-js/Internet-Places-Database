@@ -1,3 +1,135 @@
+## Cloud GPUs & Hosting for AI | Paperspace
+ - [https://www.paperspace.com](https://www.paperspace.com)
+ - date published: 2023-10-25T16:30:30.437808+00:00
+ - user: None
+ - tags: []
+
+## The latest in Machine Learning | Papers With Code
+ - [https://paperswithcode.com](https://paperswithcode.com)
+ - date published: 2023-10-25T16:30:32.725669+00:00
+ - user: None
+ - tags: []
+
+## collection of sébastien de ganay, paper toilet .com by rafaël rozendaal, 2006
+ - [https://papertoilet.com](https://papertoilet.com)
+ - date published: 2023-10-27T10:58:53.737739+00:00
+ - user: None
+ - tags: ['wtf']
+
+## Paper. Work. Doing life.
+ - [https://www.paperworkblog.com](https://www.paperworkblog.com)
+ - date published: 2023-11-15T21:25:52.617486+00:00
+ - user: None
+ - tags: []
+
+## Paper. Work. Doing life.
+ - [http://www.paperworkblog.com](http://www.paperworkblog.com)
+ - date published: 2024-02-26T09:46:27.121413+00:00
+ - user: None
+ - tags: []
+
+## Para Bellum Magazine – Si Vis Pacem Para Bellum
+ - [https://www.parabellum-magazine.com](https://www.parabellum-magazine.com)
+ - date published: 2024-01-19T09:33:42+00:00
+ - user: rumpel
+ - tags: ['magazine', 'wargames', 'tabletop games', 'zine']
+
+## parade.com
+ - [https://parade.com](https://parade.com)
+ - date published: 2023-11-28T20:15:07+00:00
+ - user: rumpel
+ - tags: ['entertainment']
+
+## Welcome to ParadeDB - ParadeDB
+ - [https://docs.paradedb.com](https://docs.paradedb.com)
+ - date published: 2023-10-25T16:30:38.822701+00:00
+ - user: None
+ - tags: []
+
+## Home - Paradigm Imaging Group
+ - [https://www.paradigmimaging.com](https://www.paradigmimaging.com)
+ - date published: 2024-02-08T16:32:37.192500+00:00
+ - user: None
+ - tags: []
+
+## Paradox Interactive
+ - [https://www.paradoxinteractive.com](https://www.paradoxinteractive.com)
+ - date published: 2023-11-01T19:36:55.276204+00:00
+ - user: None
+ - tags: ['role playing games', 'vampire masquarade']
+
+## Paradox Interactive Forums
+ - [https://forum.paradoxplaza.com](https://forum.paradoxplaza.com)
+ - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Parag Pallav Talks | Blog Over Latest Technology, SEO, Content and more
+ - [https://paragpallavsingh.com](https://paragpallavsingh.com)
+ - date published: 2024-04-03T12:44:33.984519+00:00
+ - user: None
+ - tags: ['personal']
+
+## Growing Products — weekly essays for founders and startup teams
+ - [https://growing-products.paralect.com](https://growing-products.paralect.com)
+ - date published: 2023-10-25T16:30:41.101886+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Parallel Arabic, Arabic reading and writing practice
+ - [https://parallel-arabic.com](https://parallel-arabic.com)
+ - date published: 2024-04-01T15:23:58+00:00
+ - user: None
+ - tags: []
+
+## Parallel Economy | A Censor-Resistant Ecosystem
+ - [https://www.paralleleconomy.com](https://www.paralleleconomy.com)
+ - date published: 2023-10-25T16:30:43.965679+00:00
+ - user: None
+ - tags: []
+
+## Parand
+ - [https://www.parand.com](https://www.parand.com)
+ - date published: 2023-10-25T16:30:46.136740+00:00
+ - user: None
+ - tags: []
+
+## https://static.parastorage.com
+ - [https://static.parastorage.com](https://static.parastorage.com)
+ - date published: 2023-12-11T16:56:44.679132+00:00
+ - user: None
+ - tags: []
+
+## Parin Patel
+ - [https://www.parinpatel.com](https://www.parinpatel.com)
+ - date published: 2023-11-29T17:08:55.692393+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paris Transatlantic: global coverage of avant-garde music & art
+ - [https://www.paristransatlantic.com](https://www.paristransatlantic.com)
+ - date published: 2024-02-08T17:52:04.347548+00:00
+ - user: None
+ - tags: []
+
+## Paris Vega – Digital Marketer & Podcast Host
+ - [https://parisvega.com](https://parisvega.com)
+ - date published: 2024-01-13T04:52:58.487519+00:00
+ - user: None
+ - tags: []
+
+## Parker Dewey
+ - [https://app.parkerdewey.com](https://app.parkerdewey.com)
+ - date published: 2024-02-08T16:21:09.993188+00:00
+ - user: None
+ - tags: []
+
+## Parker Klein | Personal Website
+ - [https://www.parkerklein.com](https://www.parkerklein.com)
+ - date published: 2023-11-29T20:43:18.758476+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Parkiet – portal finansowy z najważniejszymi wiadomościami - parkiet.com
  - [https://www.parkiet.com](https://www.parkiet.com)
  - date published: 2023-10-25T10:58:13.846289+00:00
@@ -142,17 +274,17 @@
  - user: None
  - tags: []
 
-## Home — Patreon
- - [http://www.patreon.com](http://www.patreon.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Max  FitzGerald  | Patreon
  - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
  - date published: 2023-10-27T15:07:52+00:00
  - user: rumpel
  - tags: ['turnip28', 'tabletop games']
+
+## Home — Patreon
+ - [http://www.patreon.com](http://www.patreon.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Home — Patreon
  - [https://www.patreon.com](https://www.patreon.com)
@@ -472,15 +604,15 @@
  - user: None
  - tags: ['personal']
 
-## PCMag.com - Technology Product Reviews, News, Prices & Tips
- - [https://uk.pcmag.com](https://uk.pcmag.com)
- - date published: 2023-10-25T09:34:32.882984+00:00
- - user: None
- - tags: []
-
 ## PCMag UK
  - [http://uk.pcmag.com](http://uk.pcmag.com)
  - date published: 2024-02-26T09:45:15.403718+00:00
+ - user: None
+ - tags: []
+
+## PCMag.com - Technology Product Reviews, News, Prices & Tips
+ - [https://uk.pcmag.com](https://uk.pcmag.com)
+ - date published: 2023-10-25T09:34:32.882984+00:00
  - user: None
  - tags: []
 
@@ -1127,13 +1259,13 @@
  - tags: []
 
 ## Paul's Dev Notes
- - [https://www.pfrazee.com](https://www.pfrazee.com)
+ - [http://www.pfrazee.com](http://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Paul's Dev Notes
- - [http://www.pfrazee.com](http://www.pfrazee.com)
+ - [https://www.pfrazee.com](https://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -1403,7 +1535,7 @@
  - [http://www.phpied.com](http://www.phpied.com)
  - date published: 2024-03-24T15:05:52.476257+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## phpied.com
  - [https://www.phpied.com](https://www.phpied.com)
@@ -2027,7 +2159,7 @@
  - [https://www.playstation.com](https://www.playstation.com)
  - date published: 2023-10-25T11:26:16.295711+00:00
  - user: None
- - tags: []
+ - tags: ['sony', 'playstation']
 
 ## Playstation couch Your ultimate destination for all things video games
  - [https://playstationcouch.com](https://playstationcouch.com)
@@ -2324,14 +2456,14 @@
  - tags: []
 
 ## De Angela L. Duff
- - [http://www.polishedsolid.com](http://www.polishedsolid.com)
- - date published: 2023-12-23T02:59:58.572062+00:00
+ - [https://www.polishedsolid.com](https://www.polishedsolid.com)
+ - date published: 2023-12-20T11:44:35.174499+00:00
  - user: None
  - tags: ['personal']
 
 ## De Angela L. Duff
- - [https://www.polishedsolid.com](https://www.polishedsolid.com)
- - date published: 2023-12-20T11:44:35.174499+00:00
+ - [http://www.polishedsolid.com](http://www.polishedsolid.com)
+ - date published: 2023-12-23T02:59:58.572062+00:00
  - user: None
  - tags: ['personal']
 
@@ -3194,14 +3326,14 @@
  - tags: []
 
 ## programming is terrible
- - [http://programmingisterrible.com](http://programmingisterrible.com)
- - date published: 2022-09-22T00:00:00+00:00
+ - [https://programmingisterrible.com](https://programmingisterrible.com)
+ - date published: 2023-10-25T16:40:51.213240+00:00
  - user: None
  - tags: []
 
 ## programming is terrible
- - [https://programmingisterrible.com](https://programmingisterrible.com)
- - date published: 2023-10-25T16:40:51.213240+00:00
+ - [http://programmingisterrible.com](http://programmingisterrible.com)
+ - date published: 2022-09-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3677,7 +3809,7 @@
  - [https://purediablo.com](https://purediablo.com)
  - date published: 2023-12-13T16:10:55.678273+00:00
  - user: None
- - tags: []
+ - tags: ['diablo']
 
 ## Diablo 4, Diablo 2, Wiki, Forums, News, Guides and more.
  - [https://www.purediablo.com](https://www.purediablo.com)
@@ -3689,7 +3821,7 @@
  - [https://www.purexbox.com](https://www.purexbox.com)
  - date published: 2023-12-13T15:42:10.158947+00:00
  - user: None
- - tags: ['xbox', 'game news']
+ - tags: ['video game news', 'xbox']
 
 ## Purple Hoisin - Exploring the Techy Arts
  - [https://purplehoisin.com](https://purplehoisin.com)
@@ -3716,14 +3848,14 @@
  - tags: []
 
 ## Pushbullet Blog
- - [https://blog.pushbullet.com](https://blog.pushbullet.com)
- - date published: 2023-10-25T16:42:28.991402+00:00
+ - [http://blog.pushbullet.com](http://blog.pushbullet.com)
+ - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Pushbullet Blog
- - [http://blog.pushbullet.com](http://blog.pushbullet.com)
- - date published: 2022-01-01T00:00:00+00:00
+ - [https://blog.pushbullet.com](https://blog.pushbullet.com)
+ - date published: 2023-10-25T16:42:28.991402+00:00
  - user: None
  - tags: []
 
@@ -5137,14 +5269,14 @@ More!
  - tags: ['company']
 
 ## Home | Realms of Despair
- - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
- - date published: 2024-03-27T20:52:28.838514+00:00
+ - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:46:33.188949+00:00
  - user: None
  - tags: ['mud game']
 
 ## Home | Realms of Despair
- - [http://www.realmsofdespair.com](http://www.realmsofdespair.com)
- - date published: 2024-03-27T20:46:33.188949+00:00
+ - [https://www.realmsofdespair.com](https://www.realmsofdespair.com)
+ - date published: 2024-03-27T20:52:28.838514+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5383,14 +5515,14 @@ More!
  - tags: []
 
 ## reddit
- - [https://www.reddit.com](https://www.reddit.com)
- - date published: 2023-10-24T20:16:46.235665+00:00
+ - [http://www.reddit.com](http://www.reddit.com)
+ - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
 
 ## reddit
- - [http://www.reddit.com](http://www.reddit.com)
- - date published: 2024-02-20T00:00:00+00:00
+ - [https://www.reddit.com](https://www.reddit.com)
+ - date published: 2023-10-24T20:16:46.235665+00:00
  - user: None
  - tags: []
 
@@ -5871,138 +6003,6 @@ More!
 ## Renaissance Life
  - [https://www.renaissancelife.com](https://www.renaissancelife.com)
  - date published: 2024-02-26T12:37:16.931537+00:00
- - user: None
- - tags: []
-
-## Cloud Application Hosting for Developers | Render
- - [https://render.com](https://render.com)
- - date published: 2023-10-25T16:49:28.079973+00:00
- - user: None
- - tags: []
-
-## Render Status
- - [https://status.render.com](https://status.render.com)
- - date published: 2023-10-25T16:49:32.937774+00:00
- - user: None
- - tags: []
-
-## Renée Yoxon - Trans Voice Teacher
- - [https://www.reneeyoxon.com](https://www.reneeyoxon.com)
- - date published: 2023-12-14T01:26:51.015164+00:00
- - user: None
- - tags: ['personal']
-
-## Renegade Otter Software
- - [https://renegadeotter.com](https://renegadeotter.com)
- - date published: 2023-10-25T08:47:39.799499+00:00
- - user: None
- - tags: ['personal']
-
-## Rene Herse Cycles
- - [https://www.renehersecycles.com](https://www.renehersecycles.com)
- - date published: 2023-10-25T16:49:35.784693+00:00
- - user: None
- - tags: []
-
-## Renesas Electronics Corporation
- - [https://www.renesas.com](https://www.renesas.com)
- - date published: 2024-02-15T22:32:50.899645+00:00
- - user: None
- - tags: []
-
-## Renewable energy news & research | Renewables Now
- - [https://renewablesnow.com](https://renewablesnow.com)
- - date published: 2024-02-12T20:51:45+00:00
- - user: rumpel
- - tags: ['climate change', 'renewable energy news']
-
-## Home | Renoise
- - [https://www.renoise.com](https://www.renoise.com)
- - date published: 2023-10-28T18:43:27.880974+00:00
- - user: None
- - tags: []
-
-## New T-Shirts Have Arrived - Come Back Later Today To Get Yours!
- - [https://rentahitman.com](https://rentahitman.com)
- - date published: 2024-04-20T04:50:54+00:00
- - user: rumpel
- - tags: ['funny', 'satire', 'comedy']
-
-## https://www.rentcafe.com
- - [https://www.rentcafe.com](https://www.rentcafe.com)
- - date published: 2023-11-14T01:04:03.281266+00:00
- - user: None
- - tags: []
-
-## Explore - Repables
- - [https://repables.com](https://repables.com)
- - date published: 2023-10-27T10:31:30.534866+00:00
- - user: None
- - tags: ['3d printing', 'assets models']
-
-## Repairer Driven News
- - [https://www.repairerdrivennews.com](https://www.repairerdrivennews.com)
- - date published: 2024-03-12T17:41:32.294797+00:00
- - user: None
- - tags: []
-
-## Replicate – Run open-source machine learning models with a cloud API
- - [https://replicate.com](https://replicate.com)
- - date published: 2023-10-25T16:49:37.539506+00:00
- - user: None
- - tags: []
-
-## Replit - Blog
- - [https://blog.replit.com](https://blog.replit.com)
- - date published: 2023-10-25T16:49:47.879635+00:00
- - user: None
- - tags: []
-
-## Replit: the collaborative browser based IDE - Replit
- - [https://replit.com](https://replit.com)
- - date published: 2023-10-25T16:49:49.955967+00:00
- - user: None
- - tags: []
-
-## Repography: Make your GitHub repo beautiful
- - [https://repography.com](https://repography.com)
- - date published: 2023-10-25T16:49:50.660347+00:00
- - user: None
- - tags: []
-
-## ReportMill - The Best Java Reporting Software and Tools
- - [https://reportmill.com](https://reportmill.com)
- - date published: 2024-02-08T16:00:34.896769+00:00
- - user: None
- - tags: []
-
-## RepRage
- - [https://reprage.com](https://reprage.com)
- - date published: 2024-03-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Request Metrics
- - [https://requestmetrics.com](https://requestmetrics.com)
- - date published: 2023-10-25T16:49:51.790104+00:00
- - user: None
- - tags: []
-
-## ReRender AI - Instant Renders for Architectures. Enhance your AutoCAD/Blender/Sketchup results!
- - [https://rerenderai.com](https://rerenderai.com)
- - date published: 2023-10-25T16:49:53.163297+00:00
- - user: None
- - tags: []
-
-## ResearchHub | Open Science Community
- - [https://www.researchhub.com](https://www.researchhub.com)
- - date published: 2023-10-25T16:49:54.114014+00:00
- - user: None
- - tags: []
-
-## Homepage - Research Professional News
- - [https://www.researchprofessionalnews.com](https://www.researchprofessionalnews.com)
- - date published: 2023-10-25T16:50:04.201997+00:00
  - user: None
  - tags: []
 

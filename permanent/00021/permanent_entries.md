@@ -1,3 +1,225 @@
+## 403 Forbidden
+ - [https://ss.pcj.io](https://ss.pcj.io)
+ - date published: 2023-12-09T22:43:54.273209+00:00
+ - user: None
+ - tags: []
+
+## PeerDB Blog
+ - [https://blog.peerdb.io](https://blog.peerdb.io)
+ - date published: 2023-11-06T20:41:48.742787+00:00
+ - user: None
+ - tags: []
+
+## People Who Code
+ - [https://www.peoplewhocode.io](https://www.peoplewhocode.io)
+ - date published: 2023-11-04T00:46:38.201829+00:00
+ - user: None
+ - tags: []
+
+## Perception Point: Advanced Threat Protection
+ - [https://perception-point.io](https://perception-point.io)
+ - date published: 2024-03-19T06:45:58+00:00
+ - user: rumpel
+ - tags: ['cybersecurity']
+
+## Never Build Permissions Again | Permit.io
+ - [https://www.permit.io](https://www.permit.io)
+ - date published: 2023-10-25T20:03:24.839582+00:00
+ - user: None
+ - tags: []
+
+## Pete Codes - founder, developer and Twitter ghost writer
+ - [https://www.petecodes.io](https://www.petecodes.io)
+ - date published: 2023-10-25T20:03:25.835529+00:00
+ - user: None
+ - tags: []
+
+## Formation °
+ - [https://formation.phobon.io](https://formation.phobon.io)
+ - date published: 2023-11-26T11:07:00+00:00
+ - user: None
+ - tags: []
+
+## Phylum | Research Blog
+ - [https://blog.phylum.io](https://blog.phylum.io)
+ - date published: 2023-10-25T20:03:31.720870+00:00
+ - user: None
+ - tags: []
+
+## Loading...
+ - [https://app.pickcode.io](https://app.pickcode.io)
+ - date published: 2023-10-25T20:03:32.494754+00:00
+ - user: None
+ - tags: []
+
+## Show HN: New visual language for teaching kids to code
+ - [https://pickcode.io](https://pickcode.io)
+ - date published: 2023-11-21T16:16:38+00:00
+ - user: None
+ - tags: []
+
+## Pigsty
+ - [https://pigsty.io](https://pigsty.io)
+ - date published: 2024-03-19T20:29:08.482033+00:00
+ - user: None
+ - tags: []
+
+## Vector Database for Vector Search | Pinecone
+ - [https://www.pinecone.io](https://www.pinecone.io)
+ - date published: 2023-10-25T20:03:33.943883+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://androidblog.a.pinggy.io](https://androidblog.a.pinggy.io)
+ - date published: 2024-01-09T03:33:22.344023+00:00
+ - user: None
+ - tags: []
+
+## Pinggy - Simple Localhost Tunnels
+ - [https://pinggy.io](https://pinggy.io)
+ - date published: 2023-10-25T20:03:35.145373+00:00
+ - user: None
+ - tags: []
+
+## Next-gen banking and cards technology | Pismo
+ - [https://www.pismo.io](https://www.pismo.io)
+ - date published: 2023-10-25T20:03:39.023569+00:00
+ - user: None
+ - tags: []
+
+## SOD - An Embedded, Modern Computer Vision and Machine Learning Library
+ - [https://sod.pixlab.io](https://sod.pixlab.io)
+ - date published: 2023-10-25T20:03:41.510835+00:00
+ - user: None
+ - tags: []
+
+## Plato — Build flexible internal tools
+ - [https://www.plato.io](https://www.plato.io)
+ - date published: 2023-10-25T20:03:42.780392+00:00
+ - user: None
+ - tags: []
+
+## Plausible Analytics | Simple, privacy-friendly Google Analytics alternative
+ - [https://plausible.io](https://plausible.io)
+ - date published: 2023-10-25T20:03:43.751068+00:00
+ - user: None
+ - tags: []
+
+## Ploomber
+ - [https://ploomber.io](https://ploomber.io)
+ - date published: 2023-10-25T20:03:45.681664+00:00
+ - user: None
+ - tags: []
+
+## Plutopia News Network - We talk to interesting people via podcast and weekly livestream.
+ - [https://plutopia.io](https://plutopia.io)
+ - date published: 2024-04-03T06:40:58.483304+00:00
+ - user: None
+ - tags: []
+
+## Fast, disk space efficient package manager | pnpm
+ - [https://pnpm.io](https://pnpm.io)
+ - date published: 2023-10-25T20:03:46.671519+00:00
+ - user: None
+ - tags: ['package manager']
+
+## Pocketbase: Open-source back end in one file
+ - [https://pocketbase.io](https://pocketbase.io)
+ - date published: 2024-01-07T06:08:56+00:00
+ - user: None
+ - tags: []
+
+## Der INNOQ Podcast
+ - [https://innoq.podigee.io](https://innoq.podigee.io)
+ - date published: 2024-02-25T20:49:08.634490+00:00
+ - user: None
+ - tags: []
+
+## This is Artificial Intelligence by Thales
+ - [https://thalesgroup.podigee.io](https://thalesgroup.podigee.io)
+ - date published: 2024-02-26T14:07:32.925507+00:00
+ - user: None
+ - tags: []
+
+## https://blog.podman.io
+ - [https://blog.podman.io](https://blog.podman.io)
+ - date published: 2023-10-25T20:03:48.916968+00:00
+ - user: None
+ - tags: []
+
+## Podman Desktop - Containers and Kubernetes | Podman Desktop
+ - [https://podman-desktop.io](https://podman-desktop.io)
+ - date published: 2023-10-25T20:03:50.143321+00:00
+ - user: None
+ - tags: []
+
+## Polyfill.io
+ - [https://polyfill.io](https://polyfill.io)
+ - date published: 2023-12-11T17:24:55.365553+00:00
+ - user: None
+ - tags: []
+
+## Polygon.io - Stock Market API
+ - [https://polygon.io](https://polygon.io)
+ - date published: 2023-10-25T20:03:56.042539+00:00
+ - user: None
+ - tags: []
+
+## Pomodoro Timer Online - Pomofocus
+ - [https://pomofocus.io](https://pomofocus.io)
+ - date published: 2023-10-25T20:04:01.694532+00:00
+ - user: None
+ - tags: []
+
+## Population.io
+ - [https://mobile.population.io](https://mobile.population.io)
+ - date published: 2023-10-25T20:04:02.367298+00:00
+ - user: None
+ - tags: []
+
+## Portainer: Container Management Software for Kubernetes and Docker
+ - [https://www.portainer.io](https://www.portainer.io)
+ - date published: 2023-10-25T20:04:06.866855+00:00
+ - user: None
+ - tags: ['docker', 'self-host']
+
+## Postal - an open source mail delivery platform
+ - [https://postalserver.io](https://postalserver.io)
+ - date published: 2024-04-08T19:30:25.070262+00:00
+ - user: None
+ - tags: ['self-host', 'e-mail server', 'open source']
+
+## Poste.io ~ complete mail server
+ - [https://poste.io](https://poste.io)
+ - date published: 2023-10-25T20:04:07.655712+00:00
+ - user: None
+ - tags: []
+
+## Prettier · Opinionated Code Formatter
+ - [https://prettier.io](https://prettier.io)
+ - date published: 2023-11-27T17:10:32.200743+00:00
+ - user: None
+ - tags: []
+
+## Prisma | Next-generation ORM for Node.js & TypeScript
+ - [https://www.prisma.io](https://www.prisma.io)
+ - date published: 2023-10-25T20:04:09.781971+00:00
+ - user: None
+ - tags: []
+
+## Prodvana
+ - [https://www.prodvana.io](https://www.prodvana.io)
+ - date published: 2023-10-25T20:04:13.832046+00:00
+ - user: None
+ - tags: []
+
+## Project Atomic
+ - [https://www.projectatomic.io](https://www.projectatomic.io)
+ - date published: 2024-04-15T07:59:15.141364+00:00
+ - user: None
+ - tags: []
+
 ## Bluefin
  - [https://projectbluefin.io](https://projectbluefin.io)
  - date published: 2024-01-09T03:33:22.907630+00:00
@@ -21,6 +243,12 @@
  - date published: 2024-03-13T17:55:37+00:00
  - user: None
  - tags: []
+
+## Prosopo - Bot Protection, Abuse Prevention. Procaptcha Human Verification.
+ - [https://prosopo.io](https://prosopo.io)
+ - date published: 2024-04-24T18:18:47.506914+00:00
+ - user: None
+ - tags: ['captcha', 'cybersecurity', 'bot protection']
 
 ## Home - Poseidon Labs
  - [https://www.psdn.io](https://www.psdn.io)
@@ -786,6 +1014,12 @@
  - user: None
  - tags: []
 
+## BeeBase, a programmable relational database with graphical user interface
+ - [https://beebase.sourceforge.io](https://beebase.sourceforge.io)
+ - date published: 2024-04-24T01:44:47+00:00
+ - user: None
+ - tags: ['database system']
+
 ## Ditto clipboard manager
  - [https://ditto-cp.sourceforge.io](https://ditto-cp.sourceforge.io)
  - date published: 2023-11-02T08:30:30.045007+00:00
@@ -1037,6 +1271,12 @@
  - date published: 2023-10-25T20:11:10.050394+00:00
  - user: None
  - tags: []
+
+## Synthesia - Create studio-quality AI videos from text
+ - [https://synthesia.io](https://synthesia.io)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: rumpel
+ - tags: ['deep fakes']
 
 ## System and Service Manager
  - [https://systemd.io](https://systemd.io)
@@ -1750,14 +1990,14 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: []
 
 ## LITCAVE
- - [https://litcave.rudi.ir](https://litcave.rudi.ir)
- - date published: 2024-01-20T22:40:50.165298+00:00
+ - [http://litcave.rudi.ir](http://litcave.rudi.ir)
+ - date published: 2024-01-20T22:40:49.049038+00:00
  - user: None
  - tags: []
 
 ## LITCAVE
- - [http://litcave.rudi.ir](http://litcave.rudi.ir)
- - date published: 2024-01-20T22:40:49.049038+00:00
+ - [https://litcave.rudi.ir](https://litcave.rudi.ir)
+ - date published: 2024-01-20T22:40:50.165298+00:00
  - user: None
  - tags: []
 
@@ -2715,15 +2955,15 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
-## The Japan Times - News On Japan, Business News, Opinion, Sports, Entertainment And More
- - [https://www.japantimes.co.jp](https://www.japantimes.co.jp)
- - date published: 2023-10-25T10:41:22.679546+00:00
- - user: None
- - tags: []
-
 ## News on Japan, Business News, Opinion, Sports, Entertainment and More
  - [http://www.japantimes.co.jp](http://www.japantimes.co.jp)
  - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Japan Times - News On Japan, Business News, Opinion, Sports, Entertainment And More
+ - [https://www.japantimes.co.jp](https://www.japantimes.co.jp)
+ - date published: 2023-10-25T10:41:22.679546+00:00
  - user: None
  - tags: []
 
@@ -4767,6 +5007,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: ['personal']
 
+## Jii
+ - [https://blog.jiiyoo.me](https://blog.jiiyoo.me)
+ - date published: 2024-04-24T22:59:28.196726+00:00
+ - user: None
+ - tags: []
+
 ## J. Nemitz
  - [https://jnem.me](https://jnem.me)
  - date published: 2024-04-03T06:23:10.522178+00:00
@@ -5033,16 +5279,16 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: ['personal']
 
 ## Mes productions de podcast et participations - maune.me
- - [http://www.maune.me](http://www.maune.me)
- - date published: 2023-12-22T22:30:51.890778+00:00
- - user: None
- - tags: ['personal']
-
-## Mes productions de podcast et participations - maune.me
  - [https://www.maune.me](https://www.maune.me)
  - date published: 2024-01-15T00:00:00+00:00
  - user: None
  - tags: []
+
+## Mes productions de podcast et participations - maune.me
+ - [http://www.maune.me](http://www.maune.me)
+ - date published: 2023-12-22T22:30:51.890778+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Max Greenwald
  - [https://maxgreenwald.me](https://maxgreenwald.me)
@@ -5229,6 +5475,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - date published: 2024-04-20T03:39:14.471301+00:00
  - user: None
  - tags: ['personal']
+
+## Open Graph protocol
+ - [http://ogp.me](http://ogp.me)
+ - date published: 2024-04-24T08:00:18.364945+00:00
+ - user: None
+ - tags: ['open source', 'meta data', 'standart', 'web standard', 'internet']
 
 ## Open Graph protocol
  - [https://ogp.me](https://ogp.me)
@@ -5751,256 +6003,4 @@ End-to-end typesafe APIs made easy. | tRPC
  - date published: 2023-10-25T10:08:00.355305+00:00
  - user: None
  - tags: ['substack']
-
-## Hacker News Startup Ideas
- - [https://hn-ideas.tjcx.me](https://hn-ideas.tjcx.me)
- - date published: 2023-10-25T20:21:21.018665+00:00
- - user: None
- - tags: []
-
-## Tobias Schmidt
- - [https://tobiasschmidt.me](https://tobiasschmidt.me)
- - date published: 2023-11-29T20:43:33.302518+00:00
- - user: None
- - tags: ['personal']
-
-## Homepage
- - [https://toby3d.me](https://toby3d.me)
- - date published: 2024-03-27T13:09:21.354603+00:00
- - user: None
- - tags: ['personal']
-
-## Blog
- - [https://tonsky.me](https://tonsky.me)
- - date published: 2023-10-25T08:51:14.857368+00:00
- - user: None
- - tags: ['gui design', 'personal', 'ux design']
-
-## todo: findname
- - [https://traxys.me](https://traxys.me)
- - date published: 2024-04-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tom's Homepage
- - [https://ttntm.me](https://ttntm.me)
- - date published: 2024-01-02T18:28:28.158891+00:00
- - user: None
- - tags: []
-
-## Russell Turner
- - [https://turner.me](https://turner.me)
- - date published: 2024-01-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Oleksii Holub
- - [https://tyrrrz.me](https://tyrrrz.me)
- - date published: 2023-10-25T08:51:16.110382+00:00
- - user: None
- - tags: ['personal']
-
-## Toby Law
- - [https://www.tzcl.me](https://www.tzcl.me)
- - date published: 2023-10-25T08:51:17.497845+00:00
- - user: None
- - tags: ['personal']
-
-## About
- - [https://univalence.me](https://univalence.me)
- - date published: 2023-10-25T09:00:04.426204+00:00
- - user: None
- - tags: ['personal']
-
-## UnKnoWnCheaTs - Multiplayer Game Hacking and Cheats
- - [https://www.unknowncheats.me](https://www.unknowncheats.me)
- - date published: 2000-03-19T14:38:58+00:00
- - user: rumpel
- - tags: ['game hacking']
-
-## https://unschooler.me
- - [https://unschooler.me](https://unschooler.me)
- - date published: 2024-01-09T03:34:18.004431+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.upendra.me](https://www.upendra.me)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Latest and Most Common User Agents List (Updated Weekly)
- - [https://www.useragents.me](https://www.useragents.me)
- - date published: 2023-10-25T20:21:25.088929+00:00
- - user: None
- - tags: []
-
-## Home • Lea Verou
- - [https://lea.verou.me](https://lea.verou.me)
- - date published: 2023-10-25T08:51:19.673236+00:00
- - user: None
- - tags: ['personal']
-
-## Home • Lea Verou
- - [http://lea.verou.me](http://lea.verou.me)
- - date published: 2024-03-24T15:03:06.644248+00:00
- - user: None
- - tags: ['personal']
-
-## Theia Vogel's website & blog
- - [https://vgel.me](https://vgel.me)
- - date published: 2023-10-25T08:51:21.160541+00:00
- - user: None
- - tags: ['personal']
-
-## Victor Mota
- - [https://vimota.me](https://vimota.me)
- - date published: 2023-10-25T08:51:22.371547+00:00
- - user: None
- - tags: ['personal']
-
-## Venkkatesh Sekar
- - [https://vsekar.me](https://vsekar.me)
- - date published: 2023-11-19T12:38:58.925737+00:00
- - user: None
- - tags: ['personal']
-
-## Weights & Biases: The AI Developer Platform
- - [https://wandb.me](https://wandb.me)
- - date published: 2023-10-25T20:21:35.519973+00:00
- - user: None
- - tags: []
-
-## Home - Warhammer
- - [https://warhammer.me](https://warhammer.me)
- - date published: 2024-02-28T15:27:20+00:00
- - user: rumpel
- - tags: []
-
-## Daniel's Notes
- - [https://wentsch.me](https://wentsch.me)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## wiwi blog
- - [https://blog.whiona.me](https://blog.whiona.me)
- - date published: 2023-11-03T00:47:50+00:00
- - user: None
- - tags: []
-
-## Wiby - Search Engine for the Classic Web
- - [https://wiby.me](https://wiby.me)
- - date published: 2023-10-25T08:29:23.355198+00:00
- - user: None
- - tags: ['web1', 'search engine', 'personal sites source', 'personal']
-
-## WIRED Middle East - Technology, culture, science, gadgets, and business in the Middle East
- - [https://wired.me](https://wired.me)
- - date published: 2023-10-25T20:21:44.182813+00:00
- - user: None
- - tags: []
-
-## WordPress, Your Way
- - [https://wp.me](https://wp.me)
- - date published: 2023-12-11T16:30:47.089030+00:00
- - user: None
- - tags: []
-
-## #1 WordPress Caching Plugin | WP Rocket
- - [https://wp-rocket.me](https://wp-rocket.me)
- - date published: 2023-12-11T17:44:53.434876+00:00
- - user: None
- - tags: []
-
-## bugs.xdavidhu.me - David Schütz's bug bounty writeups
- - [https://bugs.xdavidhu.me](https://bugs.xdavidhu.me)
- - date published: 2023-10-25T20:21:45.732787+00:00
- - user: None
- - tags: []
-
-## xnacly - blog
- - [https://xnacly.me](https://xnacly.me)
- - date published: 2023-10-25T09:00:05.042896+00:00
- - user: None
- - tags: ['personal']
-
-## Yordi Verkroost
- - [https://yordi.me](https://yordi.me)
- - date published: 2024-01-10T18:09:51.117975+00:00
- - user: None
- - tags: []
-
-## Welcome! — Wenting's Web Page
- - [https://www.zephray.me](https://www.zephray.me)
- - date published: 2023-10-25T20:21:52.856939+00:00
- - user: None
- - tags: []
-
-## Zhiming Chen – Growing culture with play
- - [https://zhiming.me](https://zhiming.me)
- - date published: 2023-12-12T13:08:15.230615+00:00
- - user: None
- - tags: ['personal']
-
-## Hasht-e Subh Daily
- - [https://8am.media](https://8am.media)
- - date published: 2023-12-22T01:06:51.292810+00:00
- - user: None
- - tags: []
-
-## Bazarr
- - [https://www.bazarr.media](https://www.bazarr.media)
- - date published: 2024-04-08T19:31:29.336362+00:00
- - user: None
- - tags: ['subtitle program', 'self-host']
-
-## ChinaTalk | Jordan Schneider | Substack
- - [https://www.chinatalk.media](https://www.chinatalk.media)
- - date published: 2023-10-25T10:08:05.206493+00:00
- - user: None
- - tags: ['substack']
-
-## None
- - [https://cld.media](https://cld.media)
- - date published: 2024-04-23T19:51:16+00:00
- - user: rumpel
- - tags: ['private resource']
-
-## Emby
- - [https://emby.media](https://emby.media)
- - date published: 2022-04-05T03:08:09.291000+00:00
- - user: None
- - tags: []
-
-## Infusionmedia – Professional book publishing, design, and marketing
- - [https://infusion.media](https://infusion.media)
- - date published: 2023-10-25T20:21:56.655300+00:00
- - user: None
- - tags: []
-
-## Insight News: Insightful News and Analytic Articles on Ukraine and EU
- - [https://insightnews.media](https://insightnews.media)
- - date published: 2023-10-25T09:29:41.200467+00:00
- - user: None
- - tags: []
-
-## Home - International Press Institute
- - [https://ipi.media](https://ipi.media)
- - date published: 2023-10-25T20:22:02.576652+00:00
- - user: None
- - tags: []
-
-## kolektiva.media
- - [https://kolektiva.media](https://kolektiva.media)
- - date published: 2024-04-14T04:14:07.900052+00:00
- - user: None
- - tags: ['peretube', 'video streaming']
-
-## Mezha.Media • новини IT та огляди
- - [https://mezha.media](https://mezha.media)
- - date published: 2023-10-25T20:22:07.948757+00:00
- - user: None
- - tags: []
 

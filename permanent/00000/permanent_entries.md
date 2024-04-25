@@ -1337,13 +1337,13 @@
  - tags: []
 
 ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## http://hello.pi.ai/
- - [http://hello.pi.ai](http://hello.pi.ai)
+ - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -4625,16 +4625,16 @@
  - tags: ['music band']
 
 ## Home – Zvi Band | Zvi Band
- - [https://zvi.band](https://zvi.band)
- - date published: 2017-09-27T10:32:32+00:00
- - user: None
- - tags: []
-
-## Home – Zvi Band | Zvi Band
  - [http://zvi.band](http://zvi.band)
  - date published: 2023-12-22T22:31:24.610066+00:00
  - user: None
  - tags: ['personal']
+
+## Home – Zvi Band | Zvi Band
+ - [https://zvi.band](https://zvi.band)
+ - date published: 2017-09-27T10:32:32+00:00
+ - user: None
+ - tags: []
 
 ## https://saucecode.bar
  - [https://saucecode.bar](https://saucecode.bar)
@@ -4697,16 +4697,16 @@
  - tags: []
 
 ## Denny Wong - Learn, think, write and do.
- - [https://dewo.be](https://dewo.be)
- - date published: 2023-11-29T14:18:04.127765+00:00
- - user: None
- - tags: ['personal']
-
-## Denny Wong - Learn, think, write and do.
  - [http://dewo.be](http://dewo.be)
  - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Denny Wong - Learn, think, write and do.
+ - [https://dewo.be](https://dewo.be)
+ - date published: 2023-11-29T14:18:04.127765+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Dries Depoorter – artist and speaker working with technology 🔥
  - [https://driesdepoorter.be](https://driesdepoorter.be)
@@ -4796,7 +4796,7 @@
  - [https://nibbler.be](https://nibbler.be)
  - date published: 2020-10-29T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['podcast']
 
 ## De Oosterweelverbinding doet 't Stad herademen | De Oosterweelverbinding
  - [https://www.oosterweelverbinding.be](https://www.oosterweelverbinding.be)
@@ -4835,16 +4835,16 @@
  - tags: []
 
 ## Home: New - Shakalaka
- - [https://shakalaka.be](https://shakalaka.be)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home: New - Shakalaka
  - [http://shakalaka.be](http://shakalaka.be)
  - date published: 2023-12-22T22:29:41.716940+00:00
  - user: None
  - tags: ['personal']
+
+## Home: New - Shakalaka
+ - [https://shakalaka.be](https://shakalaka.be)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Steffest - web developer
  - [https://www.stef.be](https://www.stef.be)

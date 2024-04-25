@@ -1,3 +1,195 @@
+## OS4Welt - Foren-Übersicht
+ - [https://www.os4welt.de](https://www.os4welt.de)
+ - date published: 2023-12-11T19:04:49.663471+00:00
+ - user: None
+ - tags: []
+
+## Home - Otherland Booskstore Berlin
+ - [https://www.otherland-berlin.de](https://www.otherland-berlin.de)
+ - date published: 2024-01-22T08:33:40.956697+00:00
+ - user: None
+ - tags: []
+
+## The Patches Scrolls | Home
+ - [https://www.patches-scrolls.de](https://www.patches-scrolls.de)
+ - date published: 2024-04-08T06:18:02+00:00
+ - user: rumpel
+ - tags: ['video games']
+
+## Schreiben, Marketing, Billard und alles mögliche - Patrick Baumann
+ - [https://www.patrick-baumann.de](https://www.patrick-baumann.de)
+ - date published: 2023-12-13T20:59:36.150037+00:00
+ - user: None
+ - tags: ['personal']
+
+## Patrick Breyer – Digitaler Freiheitskämpfer und Europaabgeordneter
+ - [https://www.patrick-breyer.de](https://www.patrick-breyer.de)
+ - date published: 2023-10-25T18:32:28.196653+00:00
+ - user: None
+ - tags: []
+
+## PC Games Hardware (PCGH): Computer, IT Gaming, PC-Spiele
+ - [https://www.pcgameshardware.de](https://www.pcgameshardware.de)
+ - date published: 2024-02-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## P.T.C.
+ - [https://peateasea.de](https://peateasea.de)
+ - date published: 2024-03-25T19:01:26.365808+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pegasus Spiele
+ - [https://pegasus.de](https://pegasus.de)
+ - date published: 2023-10-30T12:01:05.937311+00:00
+ - user: None
+ - tags: []
+
+## Per Guth
+ - [https://perguth.de](https://perguth.de)
+ - date published: 2024-02-17T19:06:00+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## phryneas.de
+ - [https://phryneas.de](https://phryneas.de)
+ - date published: 2023-10-25T18:32:28.870643+00:00
+ - user: None
+ - tags: []
+
+## Pinterest
+ - [https://www.pinterest.de](https://www.pinterest.de)
+ - date published: 2024-01-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## PSI Software SE - Software für Energieversorger, Industrieunternehmen und Infrastrukturbetreiber
+ - [https://www.psi.de](https://www.psi.de)
+ - date published: 2023-10-25T11:28:57.913466+00:00
+ - user: None
+ - tags: []
+
+## Qantara.de - Dialogue with the Islamic World |
+ - [https://en.qantara.de](https://en.qantara.de)
+ - date published: 2023-10-25T18:32:31.147423+00:00
+ - user: None
+ - tags: []
+
+## Radio PARALAX
+ - [http://radio-paralax.de](http://radio-paralax.de)
+ - date published: 2024-02-15T02:00:18.210400+00:00
+ - user: None
+ - tags: ['video game music']
+
+## Radio PARALAX
+ - [http://www.radio-paralax.de](http://www.radio-paralax.de)
+ - date published: 2024-02-15T22:12:22.414790+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Radio PARALAX
+ - [https://www.radio-paralax.de](https://www.radio-paralax.de)
+ - date published: 2024-02-15T22:31:37.332329+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## ralfj.de
+ - [https://www.ralfj.de](https://www.ralfj.de)
+ - date published: 2023-10-25T18:32:31.634686+00:00
+ - user: None
+ - tags: []
+
+## https://www.rammstein.de
+ - [https://www.rammstein.de](https://www.rammstein.de)
+ - date published: 2023-10-25T13:45:45.378120+00:00
+ - user: None
+ - tags: ['music band']
+
+## RedTeam Pentesting - Blog
+ - [https://blog.redteam-pentesting.de](https://blog.redteam-pentesting.de)
+ - date published: 2024-01-03T15:25:30.538368+00:00
+ - user: None
+ - tags: []
+
+## retrocmp / retro computing
+ - [https://retrocmp.de](https://retrocmp.de)
+ - date published: 2023-10-25T11:15:38.287955+00:00
+ - user: None
+ - tags: []
+
+## RWieruch
+ - [https://www.robinwieruch.de](https://www.robinwieruch.de)
+ - date published: 2023-10-25T18:32:32.464114+00:00
+ - user: None
+ - tags: []
+
+## root42 - Arne's Homepage
+ - [https://www.root42.de](https://www.root42.de)
+ - date published: 2023-10-25T18:32:33.188691+00:00
+ - user: None
+ - tags: []
+
+## rsadowski.de
+ - [https://rsadowski.de](https://rsadowski.de)
+ - date published: 2024-01-08T18:34:59.214173+00:00
+ - user: None
+ - tags: []
+
+## Newsportal - Ruhr-Universität Bochum
+ - [https://news.rub.de](https://news.rub.de)
+ - date published: 2023-10-30T21:58:13.353774+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.rumil.de](https://www.rumil.de)
+ - date published: 2024-02-08T18:00:02.343997+00:00
+ - user: None
+ - tags: []
+
+## Homepage von Andreas und Marie-Theres Saremba
+ - [http://www.saremba.de](http://www.saremba.de)
+ - date published: 2023-10-25T18:32:33.526919+00:00
+ - user: None
+ - tags: []
+
+## Positionierung stärkt Selbständige | Sascha Theobald
+ - [https://www.sascha-theobald.de](https://www.sascha-theobald.de)
+ - date published: 2023-12-23T07:29:45.118390+00:00
+ - user: None
+ - tags: ['personal']
+
+## Beyond the Frame
+ - [https://schmud.de](https://schmud.de)
+ - date published: 2023-11-15T17:42:13.603677+00:00
+ - user: None
+ - tags: ['blog', 'personal']
+
+## Sebastian Holstein
+ - [https://sebastian-holstein.de](https://sebastian-holstein.de)
+ - date published: 2023-10-25T18:32:34.240038+00:00
+ - user: None
+ - tags: []
+
+## Seedbox Guide: Seedbox Providers Comparison
+ - [https://seedboxgui.de](https://seedboxgui.de)
+ - date published: 2024-03-14T21:17:04+00:00
+ - user: rumpel
+ - tags: ['piracy', 'seedbox', 'file hosting']
+
+## SID-Spieler
+ - [http://www.sidspieler.de](http://www.sidspieler.de)
+ - date published: 2024-02-15T22:12:23.997316+00:00
+ - user: None
+ - tags: ['chiptune', 'demoscene']
+
+## Simon schreibt.
+ - [https://simonschreibt.de](https://simonschreibt.de)
+ - date published: 2023-10-25T18:32:36.399916+00:00
+ - user: None
+ - tags: []
+
 ## Home | Sovereign Tech Fund
  - [https://www.sovereigntechfund.de](https://www.sovereigntechfund.de)
  - date published: 2023-12-16T05:56:10.685928+00:00
@@ -1437,7 +1629,7 @@
  - [https://coryd.dev](https://coryd.dev)
  - date published: 2023-10-25T18:37:02.718460+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Counter: Simple Web Analytics
  - [https://counter.dev](https://counter.dev)
@@ -1693,14 +1885,14 @@
  - tags: []
 
 ## endtimes.dev
- - [http://endtimes.dev](http://endtimes.dev)
- - date published: 2024-02-26T14:52:45.275010+00:00
+ - [https://endtimes.dev](https://endtimes.dev)
+ - date published: 2023-10-25T18:37:42.008452+00:00
  - user: None
  - tags: []
 
 ## endtimes.dev
- - [https://endtimes.dev](https://endtimes.dev)
- - date published: 2023-10-25T18:37:42.008452+00:00
+ - [http://endtimes.dev](http://endtimes.dev)
+ - date published: 2024-02-26T14:52:45.275010+00:00
  - user: None
  - tags: []
 
@@ -1745,6 +1937,12 @@
  - date published: 2023-10-25T18:37:57.379219+00:00
  - user: None
  - tags: []
+
+## Welcome - Faceswap
+ - [https://faceswap.dev](https://faceswap.dev)
+ - date published: 2024-03-22T00:00:00+00:00
+ - user: rumpel
+ - tags: ['open source', 'deep fake']
 
 ## https://farlow.dev
  - [https://farlow.dev](https://farlow.dev)
@@ -1864,7 +2062,7 @@
  - [https://frankenphp.dev](https://frankenphp.dev)
  - date published: 2023-10-25T18:38:06.820817+00:00
  - user: None
- - tags: []
+ - tags: ['app server', 'php']
 
 ## HTML-first, framework-agnostic implementation of shadcn/UI – franken/UI
  - [https://www.franken-ui.dev](https://www.franken-ui.dev)
@@ -2292,15 +2490,15 @@
  - user: None
  - tags: []
 
-## The website of jyn
- - [https://jyn.dev](https://jyn.dev)
- - date published: 2023-10-25T18:38:50.121076+00:00
- - user: None
- - tags: []
-
 ## the website of jyn
  - [http://jyn.dev](http://jyn.dev)
  - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The website of jyn
+ - [https://jyn.dev](https://jyn.dev)
+ - date published: 2023-10-25T18:38:50.121076+00:00
  - user: None
  - tags: []
 
@@ -2898,6 +3096,12 @@
  - user: None
  - tags: []
 
+## nutjs.dev
+ - [https://nutjs.dev](https://nutjs.dev)
+ - date published: 2024-04-24T03:45:23.857591+00:00
+ - user: None
+ - tags: ['open source', 'desktop automation']
+
 ## Nx: Smart Monorepos ¬∑ Fast CI
  - [https://nx.dev](https://nx.dev)
  - date published: 2024-02-22T11:56:06.815784+00:00
@@ -3061,14 +3265,14 @@
  - tags: []
 
 ## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date published: 2023-01-31T00:00:00+00:00
+ - [http://passkeys.dev](http://passkeys.dev)
+ - date published: 2024-02-25T19:46:12.112766+00:00
  - user: None
  - tags: []
 
 ## Passkey Developer Resources
- - [http://passkeys.dev](http://passkeys.dev)
- - date published: 2024-02-25T19:46:12.112766+00:00
+ - [https://passkeys.dev](https://passkeys.dev)
+ - date published: 2023-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3621,14 +3825,14 @@
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5801,212 +6005,6 @@
 ## PON - Program on Negotiation at Harvard Law School
  - [https://www.pon.harvard.edu](https://www.pon.harvard.edu)
  - date published: 2023-10-25T18:52:14.185371+00:00
- - user: None
- - tags: []
-
-## University of Hawaii System
- - [https://www.hawaii.edu](https://www.hawaii.edu)
- - date published: 2023-12-15T21:51:08.655676+00:00
- - user: None
- - tags: []
-
-## HBS Working Knowledge – Harvard Business School Faculty Research
- - [https://hbswk.hbs.edu](https://hbswk.hbs.edu)
- - date published: 2023-10-25T18:52:16.527569+00:00
- - user: None
- - tags: []
-
-## Center for International Education
- - [https://international.hccfl.edu](https://international.hccfl.edu)
- - date published: 2024-02-08T22:24:58.075754+00:00
- - user: None
- - tags: []
-
-## Home | Hillsdale in D.C.
- - [https://dc.hillsdale.edu](https://dc.hillsdale.edu)
- - date published: 2023-10-25T18:52:19.460793+00:00
- - user: None
- - tags: []
-
-## Institute for Advanced Study
- - [https://www.ias.edu](https://www.ias.edu)
- - date published: 2023-10-25T18:52:27.675140+00:00
- - user: None
- - tags: []
-
-## Department of Electrical and Computer Engineering – College of Engineering, Iowa State University
- - [https://www.ece.iastate.edu](https://www.ece.iastate.edu)
- - date published: 2024-04-23T00:00:00+00:00
- - user: None
- - tags: ['university']
-
-## Illinois Institute of Technology
- - [https://professionallearning.catalog.iit.edu](https://professionallearning.catalog.iit.edu)
- - date published: 2024-02-08T22:08:52.323949+00:00
- - user: None
- - tags: []
-
-## Home | ACES | UIUC
- - [https://aces.illinois.edu](https://aces.illinois.edu)
- - date published: 2024-02-24T10:02:10.954053+00:00
- - user: None
- - tags: []
-
-## Course Websites | The Grainger College of Engineering | UIUC
- - [https://courses.physics.illinois.edu](https://courses.physics.illinois.edu)
- - date published: 2023-10-25T18:53:00.332561+00:00
- - user: None
- - tags: []
-
-## https://dpj.cs.illinois.edu
- - [https://dpj.cs.illinois.edu](https://dpj.cs.illinois.edu)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jeff Erickson
- - [https://jeffe.cs.illinois.edu](https://jeffe.cs.illinois.edu)
- - date published: 2023-11-13T19:48:15.697958+00:00
- - user: None
- - tags: []
-
-## Margaret M. Fleck
- - [https://mfleck.cs.illinois.edu](https://mfleck.cs.illinois.edu)
- - date published: 2023-10-25T18:53:02.929808+00:00
- - user: None
- - tags: []
-
-## News Bureau | ILLINOIS
- - [https://news.illinois.edu](https://news.illinois.edu)
- - date published: 2023-10-25T18:53:10.492770+00:00
- - user: None
- - tags: []
-
-## Pi Tau Sigma
- - [https://pitausigma.mechse.illinois.edu](https://pitausigma.mechse.illinois.edu)
- - date published: 2024-02-08T16:48:21.457271+00:00
- - user: None
- - tags: []
-
-## None
- - [https://legacy.cs.indiana.edu](https://legacy.cs.indiana.edu)
- - date published: 2024-02-18T22:06:38.959795+00:00
- - user: None
- - tags: []
-
-## Information Sciences Institute
- - [https://www.isi.edu](https://www.isi.edu)
- - date published: 2023-10-25T18:53:13.988342+00:00
- - user: None
- - tags: []
-
-## Indiana University
- - [https://iu.edu](https://iu.edu)
- - date published: 2024-03-18T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Page Title
- - [https://lkml.iu.edu](https://lkml.iu.edu)
- - date published: 2023-10-25T18:53:15.506203+00:00
- - user: None
- - tags: []
-
-## News at IU: Indiana University
- - [https://news.iu.edu](https://news.iu.edu)
- - date published: 2023-11-16T10:46:18.918497+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://engineering.jhu.edu](https://engineering.jhu.edu)
- - date published: 2024-02-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
-        
-       | Hub
- - [https://hub.jhu.edu](https://hub.jhu.edu)
- - date published: 2023-10-25T18:53:19.413125+00:00
- - user: None
- - tags: []
-
-## Project MUSE
- - [https://muse.jhu.edu](https://muse.jhu.edu)
- - date published: 2023-12-23T15:28:40.919614+00:00
- - user: None
- - tags: []
-
-## Homepage | Hopkins Press
- - [https://press.jhu.edu](https://press.jhu.edu)
- - date published: 2024-02-24T18:07:40.925099+00:00
- - user: None
- - tags: []
-
-## Johns Hopkins Bloomberg School of Public Health
- - [https://publichealth.jhu.edu](https://publichealth.jhu.edu)
- - date published: 2024-03-17T10:35:42.688827+00:00
- - user: None
- - tags: []
-
-## Homepage | Hopkins Press
- - [https://www.press.jhu.edu](https://www.press.jhu.edu)
- - date published: 2023-10-25T18:53:23.816743+00:00
- - user: None
- - tags: []
-
-## Home | SKCTC
- - [https://southeast.kctcs.edu](https://southeast.kctcs.edu)
- - date published: 2024-02-08T16:51:39.792081+00:00
- - user: None
- - tags: []
-
-## Kent Campus | Kent State University Kent State, one of Ohio’s leading public universities
- - [https://www.kent.edu](https://www.kent.edu)
- - date published: 2023-10-25T11:22:42.294245+00:00
- - user: None
- - tags: []
-
-## Chicago-Kent College of Law | Chicago-Kent College of Law
- - [http://www.kentlaw.edu](http://www.kentlaw.edu)
- - date published: 2024-03-24T16:57:37.545830+00:00
- - user: None
- - tags: []
-
-## People
- - [https://people.cs.ksu.edu](https://people.cs.ksu.edu)
- - date published: 2023-10-25T18:53:27.215934+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://en.ktu.edu](https://en.ktu.edu)
- - date published: 2023-12-25T16:53:53.461151+00:00
- - user: None
- - tags: []
-
-## Journals@KU
- - [https://journals.ku.edu](https://journals.ku.edu)
- - date published: 2024-02-17T15:56:43.422549+00:00
- - user: None
- - tags: []
-
-## Featured news and headlines | KU News
- - [https://news.ku.edu](https://news.ku.edu)
- - date published: 2024-02-24T10:01:56.501520+00:00
- - user: None
- - tags: []
-
-## KU Today | The University of Kansas
- - [https://today.ku.edu](https://today.ku.edu)
- - date published: 2023-10-25T18:53:30.550703+00:00
- - user: None
- - tags: []
-
-## Commencement –  | Kalamazoo College
- - [https://commencement.kzoo.edu](https://commencement.kzoo.edu)
- - date published: 2024-02-08T17:31:34.676457+00:00
  - user: None
  - tags: []
 

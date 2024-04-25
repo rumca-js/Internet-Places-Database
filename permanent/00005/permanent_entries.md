@@ -1,3 +1,27 @@
+## Home
+ - [https://www.defensehere.com](https://www.defensehere.com)
+ - date published: 2022-01-12T15:32:07+00:00
+ - user: None
+ - tags: []
+
+## 100 Most Influential | Defense News, News about defense programs, business, and technology
+ - [https://people.defensenews.com](https://people.defensenews.com)
+ - date published: 2024-04-05T18:56:04.180759+00:00
+ - user: None
+ - tags: []
+
+## Defense News, Covering the politics, business and technology of defense | Defense News
+ - [https://www.defensenews.com](https://www.defensenews.com)
+ - date published: 2023-10-31T05:18:09.856934+00:00
+ - user: None
+ - tags: ['military news']
+
+## Defense One
+ - [https://www.defenseone.com](https://www.defenseone.com)
+ - date published: 2023-10-25T13:48:12.931984+00:00
+ - user: None
+ - tags: []
+
 ## DefenseScoop | Breaking US Military Tech News, Modern Defense News
  - [https://defensescoop.com](https://defensescoop.com)
  - date published: 2023-10-25T13:48:19.117494+00:00
@@ -544,15 +568,15 @@
  - user: None
  - tags: []
 
-## Mazzle – A Pipelines as Code Tool
- - [https://devops-pipeline.com](https://devops-pipeline.com)
- - date published: 2023-12-31T11:15:08+00:00
- - user: None
- - tags: []
-
 ## introducing mazzle - a pipelines as code tool
  - [http://devops-pipeline.com](http://devops-pipeline.com)
  - date published: 2024-02-29T14:58:14.068438+00:00
+ - user: None
+ - tags: []
+
+## Mazzle – A Pipelines as Code Tool
+ - [https://devops-pipeline.com](https://devops-pipeline.com)
+ - date published: 2023-12-31T11:15:08+00:00
  - user: None
  - tags: []
 
@@ -650,7 +674,7 @@
  - [https://www.diablo3gemcalculator.com](https://www.diablo3gemcalculator.com)
  - date published: 2023-12-13T16:24:42.861001+00:00
  - user: None
- - tags: []
+ - tags: ['diablo']
 
 ## DiabloFans
  - [https://diablofans.com](https://diablofans.com)
@@ -686,7 +710,13 @@
  - [https://diablotavern.com](https://diablotavern.com)
  - date published: 2023-10-25T11:08:39.992217+00:00
  - user: None
- - tags: []
+ - tags: ['diablo']
+
+## Diabotical
+ - [https://www.diabotical.com](https://www.diabotical.com)
+ - date published: 2024-04-24T08:10:28+00:00
+ - user: rumpel
+ - tags: ['video game']
 
 ## Diamonds Suck
  - [https://diamondssuck.com](https://diamondssuck.com)
@@ -2219,15 +2249,15 @@
  - user: None
  - tags: ['music', 'dj']
 
-## Drunk Pastor
- - [https://drunkpastor.com](https://drunkpastor.com)
- - date published: 2023-11-29T15:32:18.653046+00:00
- - user: None
- - tags: []
-
 ## Drunk Pastor: Musings & Services of a Recovering Pastor
  - [http://drunkpastor.com](http://drunkpastor.com)
  - date published: 2024-02-10T16:19:49+00:00
+ - user: None
+ - tags: []
+
+## Drunk Pastor
+ - [https://drunkpastor.com](https://drunkpastor.com)
+ - date published: 2023-11-29T15:32:18.653046+00:00
  - user: None
  - tags: []
 
@@ -3597,7 +3627,13 @@
  - [https://embeddedartistry.com](https://embeddedartistry.com)
  - date published: 2023-10-25T14:06:31.554945+00:00
  - user: None
- - tags: ['embeded systemem', 'programming']
+ - tags: ['embedded systemem', 'programming']
+
+## EmbeddedRelated.com - All About Embedded Systems
+ - [https://www.embeddedrelated.com](https://www.embeddedrelated.com)
+ - date published: 2024-04-24T12:50:36.313655+00:00
+ - user: None
+ - tags: ['embedded systems']
 
 ## Burkhard Stubert – The Specialist in Smart User Interfaces for Industrial Machinery
  - [https://embeddeduse.com](https://embeddeduse.com)
@@ -3648,14 +3684,14 @@
  - tags: []
 
 ## Supercharge your mobile apps | Emerge Tools
- - [http://www.emergetools.com](http://www.emergetools.com)
- - date published: 2024-02-25T20:03:45.981322+00:00
+ - [https://www.emergetools.com](https://www.emergetools.com)
+ - date published: 2023-10-25T14:06:59.391184+00:00
  - user: None
  - tags: []
 
 ## Supercharge your mobile apps | Emerge Tools
- - [https://www.emergetools.com](https://www.emergetools.com)
- - date published: 2023-10-25T14:06:59.391184+00:00
+ - [http://www.emergetools.com](http://www.emergetools.com)
+ - date published: 2024-02-25T20:03:45.981322+00:00
  - user: None
  - tags: []
 
@@ -3670,6 +3706,12 @@
  - date published: 2024-01-02T18:03:30.591011+00:00
  - user: None
  - tags: []
+
+## Emil Dziewanowski - Technical Artist
+ - [https://emildziewanowski.com](https://emildziewanowski.com)
+ - date published: 2024-04-24T03:45:24.622027+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Just Emil Kirkegaard Things | Emil O. W. Kirkegaard | Substack
  - [https://www.emilkirkegaard.com](https://www.emilkirkegaard.com)
@@ -4829,6 +4871,12 @@
  - user: None
  - tags: []
 
+## EVE Online | The #1 Free Space MMORPG | Play here now!
+ - [https://www.eveonline.com](https://www.eveonline.com)
+ - date published: 2024-04-24T20:30:04+00:00
+ - user: rumpel
+ - tags: ['eve online', 'mmorpg', 'video game']
+
 ## Home - Evergreen Off-Grid
  - [https://evergreenoffgrid.com](https://evergreenoffgrid.com)
  - date published: 2023-10-25T14:12:15.348595+00:00
@@ -5072,6 +5120,12 @@
 ## Blackhawk 3 Pro: American-made drone for consumers
  - [https://blackhawk3.exodrones.com](https://blackhawk3.exodrones.com)
  - date published: 2023-11-28T05:04:43+00:00
+ - user: None
+ - tags: []
+
+## The Home of Exponential Investors
+ - [https://exoswan.com](https://exoswan.com)
+ - date published: 2024-04-23T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5333,17 +5387,17 @@
  - user: rumpel
  - tags: ['facebook']
 
-## Facebook
- - [https://www.facebook.com](https://www.facebook.com)
- - date published: 2023-10-24T20:15:12+00:00
- - user: rumpel
- - tags: ['gatekeeper', 'social platform']
-
 ## Log in or sign up to view
  - [http://www.facebook.com](http://www.facebook.com)
  - date published: 2024-02-24T09:54:20.558477+00:00
  - user: None
  - tags: []
+
+## Facebook
+ - [https://www.facebook.com](https://www.facebook.com)
+ - date published: 2023-10-24T20:15:12+00:00
+ - user: rumpel
+ - tags: ['gatekeeper', 'social platform']
 
 ## In re: Facebook, Inc. Consumer Privacy User Profile Litigation
  - [https://www.facebookuserprivacysettlement.com](https://www.facebookuserprivacysettlement.com)
@@ -5944,58 +5998,4 @@
  - date published: 2024-04-05T01:37:10.365824+00:00
  - user: None
  - tags: ['personal']
-
-## None
- - [https://sideprojects.fazier.com](https://sideprojects.fazier.com)
- - date published: 2024-01-09T02:36:30.172831+00:00
- - user: None
- - tags: []
-
-## Facebook
- - [https://about.fb.com](https://about.fb.com)
- - date published: 2023-10-25T14:28:10.356594+00:00
- - user: None
- - tags: []
-
-## Engineering at Meta - Engineering at Meta Blog
- - [https://engineering.fb.com](https://engineering.fb.com)
- - date published: 2023-10-25T14:28:11.988492+00:00
- - user: None
- - tags: []
-
-## Log in or sign up to view
- - [https://fb.com](https://fb.com)
- - date published: 2023-12-11T18:59:06.777172+00:00
- - user: None
- - tags: []
-
-## Meta - Home
- - [https://investor.fb.com](https://investor.fb.com)
- - date published: 2023-10-25T14:28:14.546794+00:00
- - user: None
- - tags: []
-
-## Messenger News
- - [https://messengernews.fb.com](https://messengernews.fb.com)
- - date published: 2023-12-07T03:25:57.598327+00:00
- - user: None
- - tags: []
-
-## Transparency Center
- - [https://transparency.fb.com](https://transparency.fb.com)
- - date published: 2023-11-28T20:54:26+00:00
- - user: rumpel
- - tags: ['facebook', 'meta']
-
-## Facebook
- - [https://www.fb.com](https://www.fb.com)
- - date published: 2023-11-28T20:55:32+00:00
- - user: rumpel
- - tags: ['facebook', 'meta']
-
-## Fck Oatly
- - [https://fckoatly.com](https://fckoatly.com)
- - date published: 2023-10-25T14:28:16.635829+00:00
- - user: None
- - tags: []
 

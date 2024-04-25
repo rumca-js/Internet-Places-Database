@@ -1,3 +1,279 @@
+## Venues | OpenReview
+ - [https://openreview.net](https://openreview.net)
+ - date published: 2023-10-25T20:35:16.564643+00:00
+ - user: None
+ - tags: []
+
+## Home - OpenSource.net
+ - [https://opensource.net](https://opensource.net)
+ - date published: 2023-11-19T06:48:48.853037+00:00
+ - user: None
+ - tags: ['tech news', 'open source']
+
+## The Opt Out Project
+ - [https://www.optoutproject.net](https://www.optoutproject.net)
+ - date published: 2023-10-25T20:35:18.928134+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.orangepixel.net](https://www.orangepixel.net)
+ - date published: 2024-02-08T22:09:00.323482+00:00
+ - user: None
+ - tags: []
+
+## Orchard & Vine Magazine - Serving the Fruit and Wine Industry for Over 60 Years
+ - [https://orchardandvine.net](https://orchardandvine.net)
+ - date published: 2024-02-26T09:42:39.944203+00:00
+ - user: None
+ - tags: []
+
+## Orchard & Vine Magazine - Serving the Fruit and Wine Industry for Over 60 Years - orchardandvine.net
+ - [https://www.orchardandvine.net](https://www.orchardandvine.net)
+ - date published: 2023-10-25T20:35:21.150438+00:00
+ - user: None
+ - tags: []
+
+## OREN RAAB DOT NET | Hi.
+ - [https://orenraab.net](https://orenraab.net)
+ - date published: 2023-12-27T18:12:57.241181+00:00
+ - user: None
+ - tags: ['personal']
+
+## About Me | orlp.net
+ - [https://orlp.net](https://orlp.net)
+ - date published: 2023-10-25T08:53:22.922551+00:00
+ - user: None
+ - tags: ['personal']
+
+## ornx's blog
+ - [https://blog.ornx.net](https://blog.ornx.net)
+ - date published: 2023-10-28T18:53:44.617752+00:00
+ - user: None
+ - tags: []
+
+## OS4 Coding
+ - [https://os4coding.net](https://os4coding.net)
+ - date published: 2024-01-09T03:36:01.651223+00:00
+ - user: None
+ - tags: []
+
+## bugs - OS4Depot bug tracking
+ - [http://bugs.os4depot.net](http://bugs.os4depot.net)
+ - date published: 2023-12-11T17:27:05.361545+00:00
+ - user: None
+ - tags: []
+
+## crashlog - OS4Depot crashlog resource
+ - [http://crashlog.os4depot.net](http://crashlog.os4depot.net)
+ - date published: 2023-12-11T17:26:42.380782+00:00
+ - user: None
+ - tags: []
+
+## OS4Depot - Your one stop for AmigaOS4 files
+ - [http://os4depot.net](http://os4depot.net)
+ - date published: 2023-10-27T14:30:03.739230+00:00
+ - user: None
+ - tags: ['roms', 'amiga', 'emulation']
+
+## OS4Depot - Your one stop for AmigaOS4 files
+ - [http://www.os4depot.net](http://www.os4depot.net)
+ - date published: 2023-12-11T18:56:13.994405+00:00
+ - user: None
+ - tags: []
+
+## osa1 - index
+ - [https://osa1.net](https://osa1.net)
+ - date published: 2023-10-25T20:35:22.261530+00:00
+ - user: None
+ - tags: []
+
+## Open Tech
+ - [https://blog.osm-ai.net](https://blog.osm-ai.net)
+ - date published: 2023-11-25T23:50:43.074287+00:00
+ - user: None
+ - tags: []
+
+## OsmAnd | OsmAnd
+ - [https://osmand.net](https://osmand.net)
+ - date published: 2023-10-25T20:35:23.322374+00:00
+ - user: None
+ - tags: []
+
+## ∘.computer junk
+ - [https://outerproduct.net](https://outerproduct.net)
+ - date published: 2023-10-25T20:35:24.051922+00:00
+ - user: None
+ - tags: []
+
+## Contando Estrelas
+ - [https://www.outono.net](https://www.outono.net)
+ - date published: 2023-12-19T04:46:04.584574+00:00
+ - user: None
+ - tags: []
+
+## Gonçalo Valério – Thoughts, projects and some other stuff
+ - [https://blog.ovalerio.net](https://blog.ovalerio.net)
+ - date published: 2023-10-25T09:23:27.626857+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - OC3D
+ - [https://overclock3d.net](https://overclock3d.net)
+ - date published: 2024-01-07T18:37:07.069193+00:00
+ - user: None
+ - tags: []
+
+## Yvette's [site archive from 08 APR 2010]
+ - [https://yvettesbridalformal.p1r8.net](https://yvettesbridalformal.p1r8.net)
+ - date published: 2023-10-25T20:35:25.928092+00:00
+ - user: None
+ - tags: []
+
+## Creek  |  Pagwe Cloud
+ - [https://creek.pagwe.net](https://creek.pagwe.net)
+ - date published: 2023-11-24T11:04:06.856004+00:00
+ - user: None
+ - tags: []
+
+## PairDrop
+ - [https://pairdrop.net](https://pairdrop.net)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['file send']
+
+## Pakistan Observer - Latest News, Pakistan News, and World News
+ - [https://pakobserver.net](https://pakobserver.net)
+ - date published: 2023-10-25T10:15:15.857044+00:00
+ - user: None
+ - tags: []
+
+## Najnowsze
+ - [https://palikowski.net](https://palikowski.net)
+ - date published: 2023-10-19T10:53:28+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## ParanoidPenguin.net
+ - [https://blog.paranoidpenguin.net](https://blog.paranoidpenguin.net)
+ - date published: 2023-10-25T20:35:26.788487+00:00
+ - user: None
+ - tags: []
+
+## Platform Home • Particular Software
+ - [https://particular.net](https://particular.net)
+ - date published: 2023-10-25T20:35:27.856284+00:00
+ - user: None
+ - tags: []
+
+## Pasindu Ranasinghe
+ - [https://pasindu.net](https://pasindu.net)
+ - date published: 2023-12-07T17:38:43.325363+00:00
+ - user: None
+ - tags: ['personal']
+
+## pastly@home
+ - [https://blog.pastly.net](https://blog.pastly.net)
+ - date published: 2023-10-25T20:35:28.909525+00:00
+ - user: None
+ - tags: []
+
+## Rhoneisms – by Patrick Rhone
+ - [https://www.patrickrhone.net](https://www.patrickrhone.net)
+ - date published: 2023-11-29T17:13:15.425157+00:00
+ - user: None
+ - tags: ['personal']
+
+## Patrick Weaver
+ - [https://www.patrickweaver.net](https://www.patrickweaver.net)
+ - date published: 2023-10-25T08:53:33.269400+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Bourke - Personal Pages
+ - [https://paulbourke.net](https://paulbourke.net)
+ - date published: 2023-10-25T08:53:36.813252+00:00
+ - user: None
+ - tags: ['personal']
+
+## Directory Index Denied
+ - [https://paulfraser.net](https://paulfraser.net)
+ - date published: 2024-01-03T01:13:16.474015+00:00
+ - user: None
+ - tags: []
+
+## Paul Romer
+ - [https://paulromer.net](https://paulromer.net)
+ - date published: 2023-10-25T08:53:38.142626+00:00
+ - user: None
+ - tags: ['personal']
+
+## serhii.net
+ - [https://www.pchr8.net](https://www.pchr8.net)
+ - date published: 2024-01-01T17:20:46.301131+00:00
+ - user: None
+ - tags: []
+
+## Home | PCSX2
+ - [https://pcsx2.net](https://pcsx2.net)
+ - date published: 2023-10-25T08:36:12.474221+00:00
+ - user: None
+ - tags: ['playstation', 'emulator', 'open source']
+
+## Home EN
+ - [https://astrophotography.pekdar.net](https://astrophotography.pekdar.net)
+ - date published: 2023-11-02T09:49:06.169903+00:00
+ - user: None
+ - tags: []
+
+## Penfolds in Auxvasse, Missouri
+ - [https://penfolds.net](https://penfolds.net)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Journal of Hymenoptera Research
+ - [https://jhr.pensoft.net](https://jhr.pensoft.net)
+ - date published: 2023-11-01T09:54:59.386853+00:00
+ - user: None
+ - tags: []
+
+## ZooKeys
+ - [https://zookeys.pensoft.net](https://zookeys.pensoft.net)
+ - date published: 2023-10-25T20:35:37.058956+00:00
+ - user: None
+ - tags: []
+
+## permacomputing
+ - [https://permacomputing.net](https://permacomputing.net)
+ - date published: 2023-12-18T15:12:04+00:00
+ - user: rumpel
+ - tags: []
+
+## Peter Cammeraat
+ - [https://petercammeraat.net](https://petercammeraat.net)
+ - date published: 2024-01-20T04:55:45.456023+00:00
+ - user: None
+ - tags: []
+
+## Peter Kraft
+ - [https://petereliaskraft.net](https://petereliaskraft.net)
+ - date published: 2023-10-25T08:53:42.795063+00:00
+ - user: None
+ - tags: ['personal']
+
+## Peter's DevLog
+ - [https://peterme.net](https://peterme.net)
+ - date published: 2023-10-25T09:00:50.585029+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Gross’s Blog
+ - [https://www.pgrs.net](https://www.pgrs.net)
+ - date published: 2024-02-07T16:50:40.489333+00:00
+ - user: None
+ - tags: []
+
 ## phaazon.net
  - [https://phaazon.net](https://phaazon.net)
  - date published: 2023-10-25T20:35:37.939784+00:00
@@ -1009,16 +1285,16 @@
  - tags: []
 
 ## Matthias Monroy
- - [http://digit.so36.net](http://digit.so36.net)
- - date published: 2024-02-25T19:37:06.416405+00:00
- - user: None
- - tags: []
-
-## Matthias Monroy
  - [https://digit.so36.net](https://digit.so36.net)
  - date published: 2023-10-25T08:54:06.996729+00:00
  - user: None
  - tags: ['personal']
+
+## Matthias Monroy
+ - [http://digit.so36.net](http://digit.so36.net)
+ - date published: 2024-02-25T19:37:06.416405+00:00
+ - user: None
+ - tags: []
 
 ## SoByte
  - [https://www.sobyte.net](https://www.sobyte.net)
@@ -1240,7 +1516,7 @@
  - [https://www.starcraftwire.net](https://www.starcraftwire.net)
  - date published: 2023-10-25T11:51:20.910250+00:00
  - user: None
- - tags: []
+ - tags: ['starcraft']
 
 ## Stardew Valley
  - [https://www.stardewvalley.net](https://www.stardewvalley.net)
@@ -1858,7 +2134,7 @@
  - [https://trzynasty-schron.net](https://trzynasty-schron.net)
  - date published: 2023-10-25T13:48:00.691485+00:00
  - user: None
- - tags: ['fallout']
+ - tags: ['fallout game']
 
 ## Tuan-Anh Tran
  - [https://tuananh.net](https://tuananh.net)
@@ -3169,16 +3445,16 @@
  - tags: []
 
 ## Chris Eidhof
- - [http://chris.eidhof.nl](http://chris.eidhof.nl)
- - date published: 2024-02-25T15:44:49.625453+00:00
- - user: None
- - tags: []
-
-## Chris Eidhof
  - [https://chris.eidhof.nl](https://chris.eidhof.nl)
  - date published: 2023-10-25T08:54:21.499298+00:00
  - user: None
  - tags: ['personal']
+
+## Chris Eidhof
+ - [http://chris.eidhof.nl](http://chris.eidhof.nl)
+ - date published: 2024-02-25T15:44:49.625453+00:00
+ - user: None
+ - tags: []
 
 ## Besluiten waarmee je groeit in impact op mens en omgeving
  - [https://ernohannink.nl](https://ernohannink.nl)
@@ -3775,14 +4051,14 @@
  - tags: []
 
 ## INEVO: Eksperter på e-handel og digital markedsføring
- - [https://www.inevo.no](https://www.inevo.no)
- - date published: 2023-11-29T14:22:21.036592+00:00
+ - [http://www.inevo.no](http://www.inevo.no)
+ - date published: 2024-04-03T12:44:43.410441+00:00
  - user: None
  - tags: ['personal']
 
 ## INEVO: Eksperter på e-handel og digital markedsføring
- - [http://www.inevo.no](http://www.inevo.no)
- - date published: 2024-04-03T12:44:43.410441+00:00
+ - [https://www.inevo.no](https://www.inevo.no)
+ - date published: 2023-11-29T14:22:21.036592+00:00
  - user: None
  - tags: ['personal']
 
@@ -5722,282 +5998,6 @@ marginalia.nu
 ## Annals of Family Medicine
  - [https://www.annfammed.org](https://www.annfammed.org)
  - date published: 2024-03-28T11:39:03.119773+00:00
- - user: None
- - tags: []
-
-## Annuaire Amiga Francophone
- - [https://www.annuaire-amiga.org](https://www.annuaire-amiga.org)
- - date published: 2024-01-09T03:38:16.692454+00:00
- - user: None
- - tags: []
-
-## Ante
- - [https://antelang.org](https://antelang.org)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Anthropocene Magazine from Future Earth
- - [https://www.anthropocenemagazine.org](https://www.anthropocenemagazine.org)
- - date published: 2023-10-25T20:57:16.695647+00:00
- - user: None
- - tags: []
-
-## Antipope!
- - [https://www.antipope.org](https://www.antipope.org)
- - date published: 2023-10-25T20:57:17.170460+00:00
- - user: None
- - tags: []
-
-## Antipope!
- - [http://www.antipope.org](http://www.antipope.org)
- - date published: 2024-04-03T06:39:03.448310+00:00
- - user: None
- - tags: ['personal']
-
-## Anti-Slavery International | Fighting for Freedom from Slavery
- - [https://www.antislavery.org](https://www.antislavery.org)
- - date published: 2023-11-27T12:07:17+00:00
- - user: None
- - tags: ['organization', 'human rights']
-
-## American Antitrust Institute
- - [https://www.antitrustinstitute.org](https://www.antitrustinstitute.org)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Anton Zhiyanov
- - [https://antonz.org](https://antonz.org)
- - date published: 2023-10-25T08:57:18.278632+00:00
- - user: None
- - tags: ['personal']
-
-## https://journals.aom.org
- - [https://journals.aom.org](https://journals.aom.org)
- - date published: 2023-10-25T20:57:17.610772+00:00
- - user: None
- - tags: []
-
-## Your Freedom to Fly - AOPA
- - [https://www.aopa.org](https://www.aopa.org)
- - date published: 2023-10-25T20:57:21.351039+00:00
- - user: None
- - tags: []
-
-## Redirecting…
- - [https://aosabook.org](https://aosabook.org)
- - date published: 2023-10-25T20:57:22.012703+00:00
- - user: None
- - tags: []
-
-## APA PsycNet
- - [https://psycnet.apa.org](https://psycnet.apa.org)
- - date published: 2023-10-31T10:17:55.540747+00:00
- - user: None
- - tags: []
-
-## American Psychological Association (APA)
- - [https://www.apa.org](https://www.apa.org)
- - date published: 2023-10-25T20:57:26.386566+00:00
- - user: None
- - tags: []
-
-## https://www.apacalifornia.org
- - [https://www.apacalifornia.org](https://www.apacalifornia.org)
- - date published: 2024-02-08T19:57:31.961208+00:00
- - user: None
- - tags: []
-
-## Welcome to The Apache Software Foundation!
- - [https://apache.org](https://apache.org)
- - date published: 2023-12-08T15:54:41+00:00
- - user: rumpel
- - tags: []
-
-## Apache APISIX® -- Cloud-Native API Gateway
- - [https://apisix.apache.org](https://apisix.apache.org)
- - date published: 2023-10-25T20:57:27.495040+00:00
- - user: None
- - tags: []
-
-## Apache Arrow | Apache Arrow
- - [https://arrow.apache.org](https://arrow.apache.org)
- - date published: 2023-10-25T20:57:33.670630+00:00
- - user: None
- - tags: []
-
-## Apache Baremaps - Apache Baremaps
- - [https://baremaps.apache.org](https://baremaps.apache.org)
- - date published: 2023-10-25T20:57:39.542922+00:00
- - user: None
- - tags: []
-
-## Blogs Archive | This is an archive of the Roller blogs that were previously hosted on blogs.apache.org
- - [https://blogs.apache.org](https://blogs.apache.org)
- - date published: 2023-10-25T20:58:07.343179+00:00
- - user: None
- - tags: []
-
-## Dashboard - Apache Software Foundation
- - [https://cwiki.apache.org](https://cwiki.apache.org)
- - date published: 2023-10-25T20:58:13.723236+00:00
- - user: None
- - tags: []
-
-## Apache Doris: Open-Source Real-Time Data Warehouse - Apache Doris
- - [https://doris.apache.org](https://doris.apache.org)
- - date published: 2023-10-25T20:58:16.050231+00:00
- - user: None
- - tags: []
-
-## Apache Guacamole: a clientless remote desktop gateway
- - [https://guacamole.apache.org](https://guacamole.apache.org)
- - date published: 2024-03-29T18:59:50+00:00
- - user: None
- - tags: []
-
-## Apache Hadoop
- - [https://hadoop.apache.org](https://hadoop.apache.org)
- - date published: 2023-06-23T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Welcome! - The Apache HTTP Server Project
- - [https://httpd.apache.org](https://httpd.apache.org)
- - date published: 2023-10-25T08:35:23.292622+00:00
- - user: None
- - tags: []
-
-## Hello from Apache Hudi | Apache Hudi
- - [https://hudi.apache.org](https://hudi.apache.org)
- - date published: 2024-01-18T07:35:20+00:00
- - user: None
- - tags: ['big data']
-
-## Apache Iceberg
- - [https://iceberg.apache.org](https://iceberg.apache.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['big data']
-
-## Apache Logging Services
- - [https://logging.apache.org](https://logging.apache.org)
- - date published: 2023-10-25T20:58:16.999501+00:00
- - user: None
- - tags: []
-
-## Welcome to Apache Lucene
- - [https://lucene.apache.org](https://lucene.apache.org)
- - date published: 2024-01-28T08:12:17+00:00
- - user: rumpel
- - tags: ['self-host', 'search engine', 'open source']
-
-## Maven – Welcome to Apache Maven
- - [https://maven.apache.org](https://maven.apache.org)
- - date published: 2023-12-08T15:53:15+00:00
- - user: rumpel
- - tags: []
-
-## Netbeans
- - [https://netbeans.apache.org](https://netbeans.apache.org)
- - date published: 2023-12-02T09:10:29+00:00
- - user: rumpel
- - tags: ['programming ide']
-
-## The Apache Software Foundation Blog
- - [https://news.apache.org](https://news.apache.org)
- - date published: 2023-10-25T08:36:41.438322+00:00
- - user: None
- - tags: []
-
-## home.apache.org
- - [https://people.apache.org](https://people.apache.org)
- - date published: 2023-10-25T20:58:17.974296+00:00
- - user: None
- - tags: []
-
-## Apache Pinot™: Realtime distributed OLAP datastore | Apache Pinot™
- - [https://pinot.apache.org](https://pinot.apache.org)
- - date published: 2023-10-25T20:58:19.613396+00:00
- - user: None
- - tags: []
-
-## Welcome to Apache Solr - Apache Solr
- - [https://solr.apache.org](https://solr.apache.org)
- - date published: 2023-10-25T20:58:20.722292+00:00
- - user: None
- - tags: []
-
-## Apache Subversion
- - [https://subversion.apache.org](https://subversion.apache.org)
- - date published: 2024-03-04T14:29:20+00:00
- - user: rumpel
- - tags: ['svn', 'vcs']
-
-## Apache Superset
- - [https://superset.apache.org](https://superset.apache.org)
- - date published: 2024-02-26T14:36:35+00:00
- - user: None
- - tags: ['big data', 'data visualisation']
-
-## Welcome to The Apache Software Foundation!
- - [http://www.apache.org](http://www.apache.org)
- - date published: 2024-03-26T16:13:49.125566+00:00
- - user: None
- - tags: []
-
-## Apartheid Museum
- - [https://www.apartheidmuseum.org](https://www.apartheidmuseum.org)
- - date published: 2023-11-13T13:41:16.309026+00:00
- - user: None
- - tags: ['museum']
-
-## The Internet Shutdown Game
- - [https://shutdowngame.apc.org](https://shutdowngame.apc.org)
- - date published: 2023-12-08T08:40:07+00:00
- - user: None
- - tags: []
-
-## Association for Progressive Communications | Internet for social justice and sustainable development
- - [https://www.apc.org](https://www.apc.org)
- - date published: 2023-12-08T12:42:22+00:00
- - user: rumpel
- - tags: ['human rights', 'social justice']
-
-## Special Projects from APM Reports
- - [https://features.apmreports.org](https://features.apmreports.org)
- - date published: 2023-10-25T20:58:27.503889+00:00
- - user: None
- - tags: []
-
-## Apollo in Real Time
- - [https://apolloinrealtime.org](https://apolloinrealtime.org)
- - date published: 2023-10-25T20:58:29.154906+00:00
- - user: None
- - tags: []
-
-## The App Fair Project | appfair.org
- - [https://appfair.org](https://appfair.org)
- - date published: 2023-10-25T20:58:30.062730+00:00
- - user: None
- - tags: []
-
-## APPG on Pandemic Response and Recovery
- - [https://appgpandemic.org](https://appgpandemic.org)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## AppImage
- - [https://appimage.org](https://appimage.org)
- - date published: 2017-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['linux', 'program format']
-
-## Physical Review Journals
- - [https://journals.aps.org](https://journals.aps.org)
- - date published: 2023-10-25T20:58:32.037342+00:00
  - user: None
  - tags: []
 

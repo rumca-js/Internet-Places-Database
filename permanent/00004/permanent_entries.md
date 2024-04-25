@@ -1,3 +1,21 @@
+## Manuel Cerón – A blog mostly about programming languages
+ - [https://ceronman.com](https://ceronman.com)
+ - date published: 2023-10-25T13:20:05.254140+00:00
+ - user: None
+ - tags: []
+
+## César Lemus
+ - [https://cesarlemus.com](https://cesarlemus.com)
+ - date published: 2024-01-05T16:53:34.024968+00:00
+ - user: None
+ - tags: []
+
+## CFAO GROUP - With Africa For Africa
+ - [https://www.cfaogroup.com](https://www.cfaogroup.com)
+ - date published: 2023-12-11T16:09:55.234732+00:00
+ - user: None
+ - tags: []
+
 ## Carlos Fenollosa
  - [https://cfenollosa.com](https://cfenollosa.com)
  - date published: 2023-10-25T13:20:11.729770+00:00
@@ -3430,14 +3448,14 @@
  - tags: ['cybersecurity']
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [https://craphound.com](https://craphound.com)
- - date published: 2023-11-28T07:36:32+00:00
+ - [http://craphound.com](http://craphound.com)
+ - date published: 2024-02-25T19:26:24.229621+00:00
  - user: None
  - tags: []
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [http://craphound.com](http://craphound.com)
- - date published: 2024-02-25T19:26:24.229621+00:00
+ - [https://craphound.com](https://craphound.com)
+ - date published: 2023-11-28T07:36:32+00:00
  - user: None
  - tags: []
 
@@ -4298,7 +4316,7 @@
  - [https://d2runewizard.com](https://d2runewizard.com)
  - date published: 2023-10-30T15:21:18.226777+00:00
  - user: None
- - tags: []
+ - tags: ['diablo']
 
 ## Diablo 3 - AnDre#2616 pl
  - [https://www.d3andre.com](https://www.d3andre.com)
@@ -5468,7 +5486,7 @@
  - [https://www.davidnegrin.com](https://www.davidnegrin.com)
  - date published: 2024-01-13T18:26:25.594627+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## DAVID PALMER STUDIO | Los Angeles artist David Palmer
  - [https://davidpalmerstudio.com](https://davidpalmerstudio.com)
@@ -5890,6 +5908,12 @@
  - user: rumpel
  - tags: ['journals']
 
+## Make Your Own Deepfakes [Online App]
+ - [https://deepfakesweb.com](https://deepfakesweb.com)
+ - date published: 2024-04-24T10:31:43+00:00
+ - user: rumpel
+ - tags: ['deep fakes']
+
 ## Resources and Tools Created to Inspire | Deepgram
  - [https://blog.deepgram.com](https://blog.deepgram.com)
  - date published: 2023-10-25T13:47:45.305982+00:00
@@ -5977,30 +6001,6 @@
 ## Defense Express - Ukraine military industry, technology, equipment
  - [https://en.defence-ua.com](https://en.defence-ua.com)
  - date published: 2023-12-25T22:35:54.461715+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.defensehere.com](https://www.defensehere.com)
- - date published: 2022-01-12T15:32:07+00:00
- - user: None
- - tags: []
-
-## 100 Most Influential | Defense News, News about defense programs, business, and technology
- - [https://people.defensenews.com](https://people.defensenews.com)
- - date published: 2024-04-05T18:56:04.180759+00:00
- - user: None
- - tags: []
-
-## Defense News, Covering the politics, business and technology of defense | Defense News
- - [https://www.defensenews.com](https://www.defensenews.com)
- - date published: 2023-10-31T05:18:09.856934+00:00
- - user: None
- - tags: ['military news']
-
-## Defense One
- - [https://www.defenseone.com](https://www.defenseone.com)
- - date published: 2023-10-25T13:48:12.931984+00:00
  - user: None
  - tags: []
 

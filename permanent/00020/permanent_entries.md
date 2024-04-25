@@ -1,3 +1,219 @@
+## Filippo Valsorda
+ - [https://filippo.io](https://filippo.io)
+ - date published: 2023-10-25T19:42:35.382816+00:00
+ - user: None
+ - tags: ['personal']
+
+## Filippo Valsorda
+ - [https://words.filippo.io](https://words.filippo.io)
+ - date published: 2023-10-25T08:59:06.743488+00:00
+ - user: None
+ - tags: ['personal']
+
+## Filtra
+ - [https://filtra.io](https://filtra.io)
+ - date published: 2023-10-31T13:18:58.615018+00:00
+ - user: None
+ - tags: []
+
+## FindMyCat - The Open-Source Pet Tracker
+ - [https://www.findmycat.io](https://www.findmycat.io)
+ - date published: 2023-10-25T19:42:41.070101+00:00
+ - user: None
+ - tags: ['hardware tracker', 'open hardware']
+
+## Fireship - Learn to Code Faster
+ - [https://fireship.io](https://fireship.io)
+ - date published: 2023-10-25T19:42:41.631253+00:00
+ - user: None
+ - tags: []
+
+## Fly.io
+ - [https://community.fly.io](https://community.fly.io)
+ - date published: 2023-10-25T19:42:46.027252+00:00
+ - user: None
+ - tags: []
+
+## Deploy app servers close to your users · Fly
+ - [https://fly.io](https://fly.io)
+ - date published: 2023-10-25T19:42:47.102257+00:00
+ - user: None
+ - tags: []
+
+## FoAz - Frontend-Only-AuthZ | FoAz
+ - [https://foaz.io](https://foaz.io)
+ - date published: 2023-10-25T19:42:48.088096+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Forwarder – FOSS MITM proxy written in Go
+ - [https://forwarder-proxy.io](https://forwarder-proxy.io)
+ - date published: 2023-12-20T15:30:47+00:00
+ - user: None
+ - tags: []
+
+## Foxy.io | Flexible Ecommerce for Your Website
+ - [https://www.foxy.io](https://www.foxy.io)
+ - date published: 2023-10-25T19:42:49.688772+00:00
+ - user: None
+ - tags: []
+
+## Luc Didry
+ - [https://luc.frama.io](https://luc.frama.io)
+ - date published: 2016-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## FreeTube - The Private YouTube Client
+ - [https://freetubeapp.io](https://freetubeapp.io)
+ - date published: 2023-10-25T08:30:25.633576+00:00
+ - user: None
+ - tags: ['youtube']
+
+## Freshpaint | Healthcare Privacy Platform To Manage Your Data And Meet HIPAA Regulations
+ - [https://www.freshpaint.io](https://www.freshpaint.io)
+ - date published: 2023-10-25T19:42:56.058009+00:00
+ - user: None
+ - tags: []
+
+## frontstuff
+ - [https://frontstuff.io](https://frontstuff.io)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## FusionAuth: Auth. Built for Devs, by Devs
+ - [https://fusionauth.io](https://fusionauth.io)
+ - date published: 2023-10-27T16:12:10.629678+00:00
+ - user: None
+ - tags: []
+
+## futurecoder: learn python from scratch
+ - [https://futurecoder.io](https://futurecoder.io)
+ - date published: 2023-10-25T19:42:57.568016+00:00
+ - user: None
+ - tags: []
+
+## Make 2D Games With GameMaker | Free Video Game Maker
+ - [https://gamemaker.io](https://gamemaker.io)
+ - date published: 2023-11-21T15:29:41.097407+00:00
+ - user: None
+ - tags: []
+
+## Paul Ganssle
+ - [https://blog.ganssle.io](https://blog.ganssle.io)
+ - date published: 2023-10-25T19:43:02.935158+00:00
+ - user: None
+ - tags: []
+
+## Gantry | Build AI your users trust
+ - [https://gantry.io](https://gantry.io)
+ - date published: 2023-10-25T19:43:06.618863+00:00
+ - user: None
+ - tags: []
+
+## Garden - The DevOps automation tool for K8s
+ - [https://garden.io](https://garden.io)
+ - date published: 2023-10-25T19:43:09.096788+00:00
+ - user: None
+ - tags: []
+
+## garnix | the nix CI
+ - [https://garnix.io](https://garnix.io)
+ - date published: 2024-03-14T05:31:01.357887+00:00
+ - user: None
+ - tags: []
+
+## Status Page On Demand | Gatus
+ - [https://gatus.io](https://gatus.io)
+ - date published: 2024-04-08T19:28:34.536516+00:00
+ - user: None
+ - tags: ['self-host', 'application monitor']
+
+## Projects | gbdev.io
+ - [https://gbdev.io](https://gbdev.io)
+ - date published: 2023-11-23T13:34:21.914417+00:00
+ - user: None
+ - tags: []
+
+## 2D and 3D Game-Making App | Free and Easy to Use | GDevelop
+ - [https://gdevelop.io](https://gdevelop.io)
+ - date published: 2023-10-25T19:43:11.960036+00:00
+ - user: None
+ - tags: []
+
+## Generals.io – Capture enemy generals to defeat them
+ - [https://generals.io](https://generals.io)
+ - date published: 2023-12-24T09:38:09+00:00
+ - user: None
+ - tags: []
+
+## geojson.io | powered by Mapbox
+ - [https://geojson.io](https://geojson.io)
+ - date published: 2024-03-22T22:31:54.673910+00:00
+ - user: None
+ - tags: ['online tool', 'maps']
+
+## Convoy
+ - [https://getconvoy.io](https://getconvoy.io)
+ - date published: 2023-10-25T19:43:14.580849+00:00
+ - user: None
+ - tags: []
+
+## Daft Blog | Sammy Sidhu | Substack
+ - [https://blog.getdaft.io](https://blog.getdaft.io)
+ - date published: 2023-10-25T19:43:16.770689+00:00
+ - user: None
+ - tags: []
+
+## Daft: The Distributed Python Dataframe — getdaft.io  documentation
+ - [https://getdaft.io](https://getdaft.io)
+ - date published: 2024-02-26T10:13:17.723557+00:00
+ - user: None
+ - tags: []
+
+## POLAR - Read. Learn. Never Forget. | POLAR - Read. Learn. Never Forget.
+ - [https://getpolarized.io](https://getpolarized.io)
+ - date published: 1100-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Scalable Feeds & Chat - Powerful APIs and Components by Stream
+ - [https://getstream.io](https://getstream.io)
+ - date published: 2023-10-25T19:43:19.021581+00:00
+ - user: None
+ - tags: []
+
+## About the docs | Unleash
+ - [https://docs.getunleash.io](https://docs.getunleash.io)
+ - date published: 2023-10-25T19:43:20.921880+00:00
+ - user: None
+ - tags: []
+
+## GitHub: Let’s build from here
+ - [https://gh.io](https://gh.io)
+ - date published: 2024-01-20T12:00:38.408924+00:00
+ - user: None
+ - tags: []
+
+## FOREVER WARS
+ - [https://foreverwars.ghost.io](https://foreverwars.ghost.io)
+ - date published: 2024-03-08T22:47:25.357059+00:00
+ - user: None
+ - tags: []
+
+## One from Nippon
+ - [https://one-from-nippon.ghost.io](https://one-from-nippon.ghost.io)
+ - date published: 2023-10-25T19:43:22.404656+00:00
+ - user: None
+ - tags: []
+
+## Reasoning Tokens
+ - [https://reasoning-tokens.ghost.io](https://reasoning-tokens.ghost.io)
+ - date published: 2024-04-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Ghostfolio – Open Source Wealth Management Software
  - [https://ghostfol.io](https://ghostfol.io)
  - date published: 2023-10-25T19:43:23.662694+00:00
@@ -209,14 +425,14 @@
  - tags: []
 
 ## Alex Anderson
- - [https://alexanderganderson.github.io](https://alexanderganderson.github.io)
- - date published: 2023-10-25T19:43:55.830822+00:00
+ - [http://alexanderganderson.github.io](http://alexanderganderson.github.io)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Alex Anderson
- - [http://alexanderganderson.github.io](http://alexanderganderson.github.io)
- - date published: 2016-01-01T00:00:00+00:00
+ - [https://alexanderganderson.github.io](https://alexanderganderson.github.io)
+ - date published: 2023-10-25T19:43:55.830822+00:00
  - user: None
  - tags: []
 
@@ -1681,16 +1897,16 @@ through Composable Diffusion
  - tags: []
 
 ## Andrej Karpathy blog
- - [https://karpathy.github.io](https://karpathy.github.io)
- - date published: 2023-10-25T19:47:36.949565+00:00
- - user: None
- - tags: []
-
-## Andrej Karpathy blog
  - [http://karpathy.github.io](http://karpathy.github.io)
  - date published: 2024-04-09T14:16:33.676719+00:00
  - user: None
  - tags: ['personal']
+
+## Andrej Karpathy blog
+ - [https://karpathy.github.io](https://karpathy.github.io)
+ - date published: 2023-10-25T19:47:36.949565+00:00
+ - user: None
+ - tags: []
 
 ## Konstantinos Chousos
  - [https://kchousos.github.io](https://kchousos.github.io)
@@ -3507,6 +3723,12 @@ through Composable Diffusion
 ## Vertette's Blog
  - [https://vertette.github.io](https://vertette.github.io)
  - date published: 2023-10-28T07:51:18.208706+00:00
+ - user: None
+ - tags: []
+
+## VideoGigaGAN: Towards Detail-Rich Video Super-Resolution
+ - [https://videogigagan.github.io](https://videogigagan.github.io)
+ - date published: 2024-04-24T14:04:36+00:00
  - user: None
  - tags: []
 
@@ -5421,16 +5643,16 @@ through Composable Diffusion
  - tags: ['personal']
 
 ## NCS (NoCopyrightSounds) - Free Music for Creators
- - [http://ncs.io](http://ncs.io)
- - date published: 2024-02-24T09:55:13.681583+00:00
- - user: None
- - tags: ['music assets']
-
-## NCS (NoCopyrightSounds) - Free Music for Creators
  - [https://ncs.io](https://ncs.io)
  - date published: 2023-11-13T13:39:14.863107+00:00
  - user: None
  - tags: ['music', 'assets audio']
+
+## NCS (NoCopyrightSounds) - Free Music for Creators
+ - [http://ncs.io](http://ncs.io)
+ - date published: 2024-02-24T09:55:13.681583+00:00
+ - user: None
+ - tags: ['music assets']
 
 ## Daniel Nechtan
  - [https://nechtan.io](https://nechtan.io)
@@ -5777,228 +5999,6 @@ through Composable Diffusion
 ## pboyd.io
  - [https://pboyd.io](https://pboyd.io)
  - date published: 2023-10-25T20:03:22.972100+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [https://ss.pcj.io](https://ss.pcj.io)
- - date published: 2023-12-09T22:43:54.273209+00:00
- - user: None
- - tags: []
-
-## PeerDB Blog
- - [https://blog.peerdb.io](https://blog.peerdb.io)
- - date published: 2023-11-06T20:41:48.742787+00:00
- - user: None
- - tags: []
-
-## People Who Code
- - [https://www.peoplewhocode.io](https://www.peoplewhocode.io)
- - date published: 2023-11-04T00:46:38.201829+00:00
- - user: None
- - tags: []
-
-## Perception Point: Advanced Threat Protection
- - [https://perception-point.io](https://perception-point.io)
- - date published: 2024-03-19T06:45:58+00:00
- - user: rumpel
- - tags: ['cybersecurity']
-
-## Never Build Permissions Again | Permit.io
- - [https://www.permit.io](https://www.permit.io)
- - date published: 2023-10-25T20:03:24.839582+00:00
- - user: None
- - tags: []
-
-## Pete Codes - founder, developer and Twitter ghost writer
- - [https://www.petecodes.io](https://www.petecodes.io)
- - date published: 2023-10-25T20:03:25.835529+00:00
- - user: None
- - tags: []
-
-## Formation °
- - [https://formation.phobon.io](https://formation.phobon.io)
- - date published: 2023-11-26T11:07:00+00:00
- - user: None
- - tags: []
-
-## Phylum | Research Blog
- - [https://blog.phylum.io](https://blog.phylum.io)
- - date published: 2023-10-25T20:03:31.720870+00:00
- - user: None
- - tags: []
-
-## Loading...
- - [https://app.pickcode.io](https://app.pickcode.io)
- - date published: 2023-10-25T20:03:32.494754+00:00
- - user: None
- - tags: []
-
-## Show HN: New visual language for teaching kids to code
- - [https://pickcode.io](https://pickcode.io)
- - date published: 2023-11-21T16:16:38+00:00
- - user: None
- - tags: []
-
-## Pigsty
- - [https://pigsty.io](https://pigsty.io)
- - date published: 2024-03-19T20:29:08.482033+00:00
- - user: None
- - tags: []
-
-## Vector Database for Vector Search | Pinecone
- - [https://www.pinecone.io](https://www.pinecone.io)
- - date published: 2023-10-25T20:03:33.943883+00:00
- - user: None
- - tags: []
-
-## None
- - [https://androidblog.a.pinggy.io](https://androidblog.a.pinggy.io)
- - date published: 2024-01-09T03:33:22.344023+00:00
- - user: None
- - tags: []
-
-## Pinggy - Simple Localhost Tunnels
- - [https://pinggy.io](https://pinggy.io)
- - date published: 2023-10-25T20:03:35.145373+00:00
- - user: None
- - tags: []
-
-## Next-gen banking and cards technology | Pismo
- - [https://www.pismo.io](https://www.pismo.io)
- - date published: 2023-10-25T20:03:39.023569+00:00
- - user: None
- - tags: []
-
-## SOD - An Embedded, Modern Computer Vision and Machine Learning Library
- - [https://sod.pixlab.io](https://sod.pixlab.io)
- - date published: 2023-10-25T20:03:41.510835+00:00
- - user: None
- - tags: []
-
-## Plato — Build flexible internal tools
- - [https://www.plato.io](https://www.plato.io)
- - date published: 2023-10-25T20:03:42.780392+00:00
- - user: None
- - tags: []
-
-## Plausible Analytics | Simple, privacy-friendly Google Analytics alternative
- - [https://plausible.io](https://plausible.io)
- - date published: 2023-10-25T20:03:43.751068+00:00
- - user: None
- - tags: []
-
-## Ploomber
- - [https://ploomber.io](https://ploomber.io)
- - date published: 2023-10-25T20:03:45.681664+00:00
- - user: None
- - tags: []
-
-## Plutopia News Network - We talk to interesting people via podcast and weekly livestream.
- - [https://plutopia.io](https://plutopia.io)
- - date published: 2024-04-03T06:40:58.483304+00:00
- - user: None
- - tags: []
-
-## Fast, disk space efficient package manager | pnpm
- - [https://pnpm.io](https://pnpm.io)
- - date published: 2023-10-25T20:03:46.671519+00:00
- - user: None
- - tags: ['package manager']
-
-## Pocketbase: Open-source back end in one file
- - [https://pocketbase.io](https://pocketbase.io)
- - date published: 2024-01-07T06:08:56+00:00
- - user: None
- - tags: []
-
-## Der INNOQ Podcast
- - [https://innoq.podigee.io](https://innoq.podigee.io)
- - date published: 2024-02-25T20:49:08.634490+00:00
- - user: None
- - tags: []
-
-## This is Artificial Intelligence by Thales
- - [https://thalesgroup.podigee.io](https://thalesgroup.podigee.io)
- - date published: 2024-02-26T14:07:32.925507+00:00
- - user: None
- - tags: []
-
-## https://blog.podman.io
- - [https://blog.podman.io](https://blog.podman.io)
- - date published: 2023-10-25T20:03:48.916968+00:00
- - user: None
- - tags: []
-
-## Podman Desktop - Containers and Kubernetes | Podman Desktop
- - [https://podman-desktop.io](https://podman-desktop.io)
- - date published: 2023-10-25T20:03:50.143321+00:00
- - user: None
- - tags: []
-
-## Polyfill.io
- - [https://polyfill.io](https://polyfill.io)
- - date published: 2023-12-11T17:24:55.365553+00:00
- - user: None
- - tags: []
-
-## Polygon.io - Stock Market API
- - [https://polygon.io](https://polygon.io)
- - date published: 2023-10-25T20:03:56.042539+00:00
- - user: None
- - tags: []
-
-## Pomodoro Timer Online - Pomofocus
- - [https://pomofocus.io](https://pomofocus.io)
- - date published: 2023-10-25T20:04:01.694532+00:00
- - user: None
- - tags: []
-
-## Population.io
- - [https://mobile.population.io](https://mobile.population.io)
- - date published: 2023-10-25T20:04:02.367298+00:00
- - user: None
- - tags: []
-
-## Portainer: Container Management Software for Kubernetes and Docker
- - [https://www.portainer.io](https://www.portainer.io)
- - date published: 2023-10-25T20:04:06.866855+00:00
- - user: None
- - tags: ['docker', 'self-host']
-
-## Postal - an open source mail delivery platform
- - [https://postalserver.io](https://postalserver.io)
- - date published: 2024-04-08T19:30:25.070262+00:00
- - user: None
- - tags: ['self-host', 'e-mail server', 'open source']
-
-## Poste.io ~ complete mail server
- - [https://poste.io](https://poste.io)
- - date published: 2023-10-25T20:04:07.655712+00:00
- - user: None
- - tags: []
-
-## Prettier · Opinionated Code Formatter
- - [https://prettier.io](https://prettier.io)
- - date published: 2023-11-27T17:10:32.200743+00:00
- - user: None
- - tags: []
-
-## Prisma | Next-generation ORM for Node.js & TypeScript
- - [https://www.prisma.io](https://www.prisma.io)
- - date published: 2023-10-25T20:04:09.781971+00:00
- - user: None
- - tags: []
-
-## Prodvana
- - [https://www.prodvana.io](https://www.prodvana.io)
- - date published: 2023-10-25T20:04:13.832046+00:00
- - user: None
- - tags: []
-
-## Project Atomic
- - [https://www.projectatomic.io](https://www.projectatomic.io)
- - date published: 2024-04-15T07:59:15.141364+00:00
  - user: None
  - tags: []
 

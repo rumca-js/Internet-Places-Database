@@ -1,3 +1,87 @@
+## Loop Caribbean News
+ - [https://caribbean.loopnews.com](https://caribbean.loopnews.com)
+ - date published: 2023-12-08T08:34:19.144955+00:00
+ - user: None
+ - tags: []
+
+## Product Reviews | Explore and compare the most popular products
+ - [https://looria.com](https://looria.com)
+ - date published: 2023-10-25T15:50:30.521041+00:00
+ - user: None
+ - tags: []
+
+## Byte Tank - Pedro Lopes Blog
+ - [https://lopespm.com](https://lopespm.com)
+ - date published: 2023-10-25T15:50:31.704031+00:00
+ - user: None
+ - tags: []
+
+## Loris Stavrinides - Freelance Creative/Art Director, Interactive & UI Designer, Digital Artist
+ - [https://www.loris-stavrinides.com](https://www.loris-stavrinides.com)
+ - date published: 2023-11-29T14:18:50.653950+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.losangelesblade.com
+ - [https://www.losangelesblade.com](https://www.losangelesblade.com)
+ - date published: 2023-11-12T23:05:23.798766+00:00
+ - user: None
+ - tags: []
+
+## Lose the Very
+ - [https://www.losethevery.com](https://www.losethevery.com)
+ - date published: 2023-10-25T15:50:37.735136+00:00
+ - user: None
+ - tags: []
+
+## Lost Art Press
+ - [https://blog.lostartpress.com](https://blog.lostartpress.com)
+ - date published: 2023-10-25T15:50:45.522545+00:00
+ - user: None
+ - tags: []
+
+## Lost Coast Outpost | Humboldt County News
+ - [https://lostcoastoutpost.com](https://lostcoastoutpost.com)
+ - date published: 2023-10-25T15:50:49.363173+00:00
+ - user: None
+ - tags: []
+
+## · Los Techies
+ - [https://lostechies.com](https://lostechies.com)
+ - date published: 2024-03-24T15:07:38.533995+00:00
+ - user: None
+ - tags: []
+
+## https://lostinecattlecompany.com
+ - [https://lostinecattlecompany.com](https://lostinecattlecompany.com)
+ - date published: 2024-02-08T22:01:37.666760+00:00
+ - user: None
+ - tags: []
+
+## Lost Kingdom Miniatures
+ - [https://www.lostkingdomminiatures.com](https://www.lostkingdomminiatures.com)
+ - date published: 2023-11-01T18:36:38.479697+00:00
+ - user: None
+ - tags: ['shop']
+
+## Florida's Lost Tourist attractions
+ - [http://www.lostparks.com](http://www.lostparks.com)
+ - date published: 2024-01-09T13:32:10+00:00
+ - user: rumpel
+ - tags: []
+
+## Lost Pixel - holistic Visual Regression Testing cloud
+ - [https://lost-pixel.com](https://lost-pixel.com)
+ - date published: 2023-10-25T15:50:38.858700+00:00
+ - user: None
+ - tags: []
+
+## Lost Retro Tapes
+ - [https://www.lostretrotapes.com](https://www.lostretrotapes.com)
+ - date published: 2023-10-25T15:50:50.741520+00:00
+ - user: None
+ - tags: []
+
 ## LOT Polish Airlines | Airline Tickets | lot.com
  - [https://www.lot.com](https://www.lot.com)
  - date published: 2024-02-23T00:00:00+00:00
@@ -248,7 +332,7 @@
  - [https://lukapeharda.com](https://lukapeharda.com)
  - date published: 2000-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Lukáš Kubánek
  - [https://lukaskubanek.com](https://lukaskubanek.com)
@@ -420,14 +504,14 @@ diversions.
  - tags: []
 
 ## Lyndon Hill
- - [https://lyndonhill.com](https://lyndonhill.com)
- - date published: 2024-02-14T08:48:56.833040+00:00
+ - [http://lyndonhill.com](http://lyndonhill.com)
+ - date published: 2024-04-03T06:24:30.134485+00:00
  - user: None
  - tags: ['personal']
 
 ## Lyndon Hill
- - [http://lyndonhill.com](http://lyndonhill.com)
- - date published: 2024-04-03T06:24:30.134485+00:00
+ - [https://lyndonhill.com](https://lyndonhill.com)
+ - date published: 2024-02-14T08:48:56.833040+00:00
  - user: None
  - tags: ['personal']
 
@@ -696,16 +780,16 @@ diversions.
  - tags: ['video game news']
 
 ## Maggie Appleton
- - [http://maggieappleton.com](http://maggieappleton.com)
- - date published: 2024-02-26T08:55:27.731076+00:00
- - user: None
- - tags: []
-
-## Maggie Appleton
  - [https://maggieappleton.com](https://maggieappleton.com)
  - date published: 2023-10-25T08:47:09.508828+00:00
  - user: None
  - tags: ['personal']
+
+## Maggie Appleton
+ - [http://maggieappleton.com](http://maggieappleton.com)
+ - date published: 2024-02-26T08:55:27.731076+00:00
+ - user: None
+ - tags: []
 
 ## Magic Earth - Free Navigation & Maps App for Android and iPhone
  - [https://www.magicearth.com](https://www.magicearth.com)
@@ -726,14 +810,14 @@ diversions.
  - tags: []
 
 ## Magma Partners venture capital firm
- - [https://www.magmapartners.com](https://www.magmapartners.com)
- - date published: 2024-01-14T08:13:22.897327+00:00
+ - [http://www.magmapartners.com](http://www.magmapartners.com)
+ - date published: 2024-04-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Magma Partners venture capital firm
- - [http://www.magmapartners.com](http://www.magmapartners.com)
- - date published: 2024-04-01T00:00:00+00:00
+ - [https://www.magmapartners.com](https://www.magmapartners.com)
+ - date published: 2024-01-14T08:13:22.897327+00:00
  - user: None
  - tags: []
 
@@ -834,13 +918,13 @@ diversions.
  - tags: []
 
 ## A blog by @makaroni4
- - [http://makaroni4.com](http://makaroni4.com)
+ - [https://makaroni4.com](https://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## A blog by @makaroni4
- - [https://makaroni4.com](https://makaroni4.com)
+ - [http://makaroni4.com](http://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -948,14 +1032,14 @@ diversions.
  - tags: ['single-board', '3d printing', 'creators', 'tech']
 
 ## Making It with Chris G.
- - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
- - date published: 2023-11-29T17:12:52.483030+00:00
+ - [http://www.makingitwithchrisg.com](http://www.makingitwithchrisg.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Making It with Chris G.
- - [http://www.makingitwithchrisg.com](http://www.makingitwithchrisg.com)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
+ - date published: 2023-11-29T17:12:52.483030+00:00
  - user: None
  - tags: []
 
@@ -1717,14 +1801,14 @@ diversions.
  - tags: ['disney', 'iron man', 'movie studio', 'captain america']
 
 ## vi360 photography/video/digital imaging
- - [https://www.marxdesign.com](https://www.marxdesign.com)
- - date published: 2023-12-22T00:41:17.350208+00:00
+ - [http://www.marxdesign.com](http://www.marxdesign.com)
+ - date published: 2023-12-22T21:24:02.738903+00:00
  - user: None
  - tags: []
 
 ## vi360 photography/video/digital imaging
- - [http://www.marxdesign.com](http://www.marxdesign.com)
- - date published: 2023-12-22T21:24:02.738903+00:00
+ - [https://www.marxdesign.com](https://www.marxdesign.com)
+ - date published: 2023-12-22T00:41:17.350208+00:00
  - user: None
  - tags: []
 
@@ -4795,14 +4879,14 @@ diversions.
  - tags: []
 
 ## miguelgrinberg.com
- - [http://blog.miguelgrinberg.com](http://blog.miguelgrinberg.com)
- - date published: 2024-02-26T14:54:29.319980+00:00
+ - [https://blog.miguelgrinberg.com](https://blog.miguelgrinberg.com)
+ - date published: 2023-10-25T16:03:44.577554+00:00
  - user: None
  - tags: []
 
 ## miguelgrinberg.com
- - [https://blog.miguelgrinberg.com](https://blog.miguelgrinberg.com)
- - date published: 2023-10-25T16:03:44.577554+00:00
+ - [http://blog.miguelgrinberg.com](http://blog.miguelgrinberg.com)
+ - date published: 2024-02-26T14:54:29.319980+00:00
  - user: None
  - tags: []
 
@@ -4819,14 +4903,14 @@ diversions.
  - tags: ['personal']
 
 ## Sprezzatura
- - [http://mikaelsyding.com](http://mikaelsyding.com)
- - date published: 2024-03-21T00:00:00+00:00
+ - [https://mikaelsyding.com](https://mikaelsyding.com)
+ - date published: 2023-12-31T21:20:59.573845+00:00
  - user: None
  - tags: []
 
 ## Sprezzatura
- - [https://mikaelsyding.com](https://mikaelsyding.com)
- - date published: 2023-12-31T21:20:59.573845+00:00
+ - [http://mikaelsyding.com](http://mikaelsyding.com)
+ - date published: 2024-03-21T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5048,16 +5132,16 @@ diversions.
  - tags: ['news']
 
 ## Home
- - [http://www.mindfulpolyglot.com](http://www.mindfulpolyglot.com)
- - date published: 2016-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
  - [https://www.mindfulpolyglot.com](https://www.mindfulpolyglot.com)
  - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
+
+## Home
+ - [http://www.mindfulpolyglot.com](http://www.mindfulpolyglot.com)
+ - date published: 2016-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Mindful tester | Sharing knowledge about testing and other things on my mind
  - [https://mindfultester.com](https://mindfultester.com)
@@ -5300,14 +5384,14 @@ diversions.
  - tags: ['personal']
 
 ## mitxela.com
- - [https://mitxela.com](https://mitxela.com)
- - date published: 2023-10-25T16:05:18.840474+00:00
+ - [http://mitxela.com](http://mitxela.com)
+ - date published: 2024-02-26T14:58:30.424321+00:00
  - user: None
  - tags: []
 
 ## mitxela.com
- - [http://mitxela.com](http://mitxela.com)
- - date published: 2024-02-26T14:58:30.424321+00:00
+ - [https://mitxela.com](https://mitxela.com)
+ - date published: 2023-10-25T16:05:18.840474+00:00
  - user: None
  - tags: []
 
@@ -5429,7 +5513,7 @@ diversions.
  - [https://www.mmorpg.com](https://www.mmorpg.com)
  - date published: 2023-12-13T16:19:05.456659+00:00
  - user: None
- - tags: []
+ - tags: ['video game news', 'mmorpg']
 
 ## M. NICOLE NAZZARO
  - [http://www.mnicolenazzaro.com](http://www.mnicolenazzaro.com)
@@ -5564,14 +5648,14 @@ diversions.
  - tags: []
 
 ## Modernizr: the feature detection library for HTML5/CSS3
- - [http://modernizr.com](http://modernizr.com)
- - date published: 2024-02-26T09:38:41.875406+00:00
+ - [https://modernizr.com](https://modernizr.com)
+ - date published: 2024-01-09T02:44:07.641831+00:00
  - user: None
  - tags: []
 
 ## Modernizr: the feature detection library for HTML5/CSS3
- - [https://modernizr.com](https://modernizr.com)
- - date published: 2024-01-09T02:44:07.641831+00:00
+ - [http://modernizr.com](http://modernizr.com)
+ - date published: 2024-02-26T09:38:41.875406+00:00
  - user: None
  - tags: []
 
@@ -5916,88 +6000,4 @@ diversions.
  - date published: 2023-12-18T16:28:30.195738+00:00
  - user: None
  - tags: []
-
-## None
- - [https://www.moorethought.com](https://www.moorethought.com)
- - date published: 2024-01-10T22:42:50.250561+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://moorinsightsstrategy.com](https://moorinsightsstrategy.com)
- - date published: 2024-01-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Email Marketing Automation Platform for Thriving Businesses
- - [https://moosend.com](https://moosend.com)
- - date published: 2024-02-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## moralestapia.com
- - [https://www.moralestapia.com](https://www.moralestapia.com)
- - date published: 2023-11-29T15:49:04.258610+00:00
- - user: None
- - tags: ['personal']
-
-## More Pablo
- - [https://morepablo.com](https://morepablo.com)
- - date published: 2023-10-25T16:06:48.588242+00:00
- - user: None
- - tags: []
-
-## More Than Coding
- - [https://morethancoding.com](https://morethancoding.com)
- - date published: 2024-02-16T17:08:08.687324+00:00
- - user: None
- - tags: ['personal']
-
-## More To That
- - [https://moretothat.com](https://moretothat.com)
- - date published: 2023-10-25T16:06:52.787774+00:00
- - user: None
- - tags: []
-
-## Freelance web developer & designer
- - [https://morganfeeney.com](https://morganfeeney.com)
- - date published: 2023-11-29T14:42:17.810644+00:00
- - user: None
- - tags: ['personal']
-
-## Morgan Hill Times | Morgan Hill, San Martin, CA | Home of the Morgan Hill Times
- - [https://morganhilltimes.com](https://morganhilltimes.com)
- - date published: 2023-10-25T16:06:57.200736+00:00
- - user: None
- - tags: []
-
-## MÖRK BORG
- - [https://morkborg.com](https://morkborg.com)
- - date published: 2024-01-26T15:17:50+00:00
- - user: rumpel
- - tags: ['role playing game']
-
-## welcome to mormoroi
- - [https://mormoroi.com](https://mormoroi.com)
- - date published: 2024-01-21T12:29:18.131870+00:00
- - user: None
- - tags: []
-
-## MorningChores - Build Your Self-Sufficient Life
- - [https://morningchores.com](https://morningchores.com)
- - date published: 2023-10-28T17:39:06.396407+00:00
- - user: None
- - tags: ['homesteading']
-
-## Morningstar | Empowering Investor Success
- - [https://www.morningstar.com](https://www.morningstar.com)
- - date published: 2023-10-25T16:07:11.198196+00:00
- - user: None
- - tags: []
-
-## Web Design • Tech Support • Podcasts
- - [https://www.morningtempo.com](https://www.morningtempo.com)
- - date published: 2023-12-21T03:33:32.560180+00:00
- - user: None
- - tags: ['personal']
 
