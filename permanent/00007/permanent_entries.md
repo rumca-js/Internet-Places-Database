@@ -1,3 +1,177 @@
+## Gunshow - Thanks bye.
+ - [http://gunshowcomic.com](http://gunshowcomic.com)
+ - date published: 2024-03-24T15:02:54.975888+00:00
+ - user: None
+ - tags: []
+
+## Home | Márton Gunyhó
+ - [https://marci.gunyho.com](https://marci.gunyho.com)
+ - date published: 2023-10-25T14:53:05.026206+00:00
+ - user: None
+ - tags: []
+
+## NSB Home page
+ - [https://www.guppylake.com](https://www.guppylake.com)
+ - date published: 2023-12-22T07:17:34.852159+00:00
+ - user: None
+ - tags: []
+
+## NSB Home page
+ - [http://www.guppylake.com](http://www.guppylake.com)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## GurtyBeats.com
+ - [https://www.gurtybeats.com](https://www.gurtybeats.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Gurudutt Perichetla
+ - [https://www.guruduttperi.com](https://www.guruduttperi.com)
+ - date published: 2023-11-29T14:25:54.607780+00:00
+ - user: None
+ - tags: ['personal']
+
+## Gusto Engineering
+ - [https://engineering.gusto.com](https://engineering.gusto.com)
+ - date published: 2023-12-01T10:46:17.766998+00:00
+ - user: None
+ - tags: []
+
+## https://guthib.com
+ - [https://guthib.com](https://guthib.com)
+ - date published: 2024-01-09T02:37:52.827675+00:00
+ - user: None
+ - tags: []
+
+## Home - Guyana Times
+ - [https://guyanatimesgy.com](https://guyanatimesgy.com)
+ - date published: 2023-12-01T10:45:26.947763+00:00
+ - user: None
+ - tags: []
+
+## Nature Bats Last – Our days are numbered. Passionately pursue a life of excellence.
+ - [https://guymcpherson.com](https://guymcpherson.com)
+ - date published: 2023-12-19T01:18:12.330948+00:00
+ - user: None
+ - tags: []
+
+## Now - Guy Spier
+ - [https://www.guyspier.com](https://www.guyspier.com)
+ - date published: 2023-12-28T18:50:42.021281+00:00
+ - user: None
+ - tags: ['personal']
+
+## Alexey Guzey
+ - [https://guzey.com](https://guzey.com)
+ - date published: 2023-10-25T08:45:55.019483+00:00
+ - user: None
+ - tags: ['personal']
+
+## Gabriel Volpe
+ - [https://gvolpe.com](https://gvolpe.com)
+ - date published: 2023-10-25T14:53:06.576497+00:00
+ - user: None
+ - tags: []
+
+## Gyazo · Screen Recorder: Share Screenshots and Videos Easily
+ - [https://i.gyazo.com](https://i.gyazo.com)
+ - date published: 2023-12-18T18:38:18.747579+00:00
+ - user: None
+ - tags: []
+
+## Phil Gyford’s website
+ - [https://www.gyford.com](https://www.gyford.com)
+ - date published: 2023-12-07T10:42:12.677694+00:00
+ - user: None
+ - tags: ['personal']
+
+## HTMX and the Rule of Least Power
+ - [https://blog.gypsydave5.com](https://blog.gypsydave5.com)
+ - date published: 2024-04-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Gyrovague – vaguely heretical musings on travel and technology
+ - [https://gyrovague.com](https://gyrovague.com)
+ - date published: 2023-10-25T14:53:20.309862+00:00
+ - user: None
+ - tags: []
+
+## Home - H3RALD
+ - [https://h3rald.com](https://h3rald.com)
+ - date published: 2023-12-12T08:09:22.645287+00:00
+ - user: None
+ - tags: ['personal']
+
+## Domain gesperrt
+ - [http://www.haage-partner.com](http://www.haage-partner.com)
+ - date published: 2023-12-11T19:30:25.828724+00:00
+ - user: None
+ - tags: []
+
+## De Haakse Zeedijk – Plan voor klimaatbestendig Nederland
+ - [https://haaksezeedijk.com](https://haaksezeedijk.com)
+ - date published: 2023-10-25T14:53:22.801703+00:00
+ - user: None
+ - tags: []
+
+## Haaretz | Israel News, the Middle East and the Jewish World - Haaretz.com
+ - [https://www.haaretz.com](https://www.haaretz.com)
+ - date published: 2023-10-25T10:41:43.834801+00:00
+ - user: None
+ - tags: ['israel news']
+
+## Hello | Haasie
+ - [https://haasie.com](https://haasie.com)
+ - date published: 2023-10-25T14:53:24.109225+00:00
+ - user: None
+ - tags: []
+
+## Habitat Chronicles
+ - [http://habitatchronicles.com](http://habitatchronicles.com)
+ - date published: 2023-10-25T14:53:33.579168+00:00
+ - user: None
+ - tags: []
+
+## All articles in a row / Habr
+ - [https://habr.com](https://habr.com)
+ - date published: 2023-10-25T14:53:46.346796+00:00
+ - user: None
+ - tags: ['link aggregator']
+
+## Home - Henrique Dias
+ - [https://hacdias.com](https://hacdias.com)
+ - date published: 2024-01-13T18:26:29.176764+00:00
+ - user: None
+ - tags: []
+
+## Hachette Book Group
+ - [https://hachettebookgroup.com](https://hachettebookgroup.com)
+ - date published: 2023-12-22T05:41:14.903666+00:00
+ - user: None
+ - tags: []
+
+## Hachette Book Group
+ - [https://www.hachettebookgroup.com](https://www.hachettebookgroup.com)
+ - date published: 2023-10-25T14:54:05.574098+00:00
+ - user: None
+ - tags: []
+
+## Hackaday | Fresh Hacks Every Day
+ - [https://hackaday.com](https://hackaday.com)
+ - date published: 2023-10-25T14:54:12.251133+00:00
+ - user: None
+ - tags: ['blog', 'tech news']
+
+## A Home for High School Hackers – Hack Club
+ - [https://hackclub.com](https://hackclub.com)
+ - date published: 2023-10-25T14:54:19.680950+00:00
+ - user: None
+ - tags: []
+
 ## hackcompute
  - [https://hackcompute.com](https://hackcompute.com)
  - date published: 2023-10-25T14:54:20.857205+00:00
@@ -149,16 +323,16 @@
  - tags: []
 
 ## Hailley Griffis
- - [https://www.hailleygriffis.com](https://www.hailleygriffis.com)
- - date published: 2024-01-11T07:52:06.090610+00:00
- - user: None
- - tags: ['personal']
-
-## Hailley Griffis
  - [http://www.hailleygriffis.com](http://www.hailleygriffis.com)
  - date published: 2024-03-11T00:00:00+00:00
  - user: None
  - tags: []
+
+## Hailley Griffis
+ - [https://www.hailleygriffis.com](https://www.hailleygriffis.com)
+ - date published: 2024-01-11T07:52:06.090610+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Hai Robotics Homepage
  - [https://www.hairobotics.com](https://www.hairobotics.com)
@@ -794,7 +968,7 @@
  - [https://www.heliumscraper.com](https://www.heliumscraper.com)
  - date published: 2024-01-17T09:12:59+00:00
  - user: rumpel
- - tags: ['web scraping']
+ - tags: ['web scraping service']
 
 ## Helix
  - [https://helix-editor.com](https://helix-editor.com)
@@ -1576,6 +1750,12 @@
  - user: None
  - tags: ['personal']
 
+## Holt Integrated Circuits
+ - [https://holtic.com](https://holtic.com)
+ - date published: 2024-04-25T13:06:46+00:00
+ - user: rumpel
+ - tags: ['arinc', 'avionics', 'electronic parts']
+
 ## Monty Python and the Holy Grail in Cinemas
  - [https://holygrailincinemas.com](https://holygrailincinemas.com)
  - date published: 2023-11-14T20:29:17+00:00
@@ -2099,6 +2279,12 @@
  - tags: []
 
 ## Creative Pen Displays & Tablets for Drawing - Huion
+ - [https://huion.com](https://huion.com)
+ - date published: 2024-04-25T18:32:41+00:00
+ - user: rumpel
+ - tags: ['drawing', 'hardware', 'drawing tablet']
+
+## Creative Pen Displays & Tablets for Drawing - Huion
  - [https://www.huion.com](https://www.huion.com)
  - date published: 2023-10-27T13:57:53.151855+00:00
  - user: None
@@ -2115,6 +2301,12 @@
  - date published: 2023-10-24T20:05:41.898756+00:00
  - user: rumpel
  - tags: []
+
+## Ai Pin - Wearable Ai | Humane
+ - [https://humane.com](https://humane.com)
+ - date published: 2024-04-25T21:13:05+00:00
+ - user: rumpel
+ - tags: ['wearable', 'artificial intelligence']
 
 ## Humanloop: LLM Application Platform
  - [https://humanloop.com](https://humanloop.com)
@@ -2805,6 +2997,12 @@
  - date published: 2024-01-09T02:38:21.147122+00:00
  - user: None
  - tags: []
+
+## Icehouseoffroad - Home Page
+ - [https://ihor4x4.com](https://ihor4x4.com)
+ - date published: 2024-04-25T09:53:46.376335+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The New York Times - Breaking News, US News, World News and Videos
  - [http://www.iht.com](http://www.iht.com)
@@ -5608,17 +5806,17 @@
  - user: None
  - tags: []
 
-## https://www.jenniferrossehamm.com
- - [https://www.jenniferrossehamm.com](https://www.jenniferrossehamm.com)
- - date published: 2024-01-10T22:40:55.887100+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [http://www.jenniferrossehamm.com](http://www.jenniferrossehamm.com)
  - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## https://www.jenniferrossehamm.com
+ - [https://www.jenniferrossehamm.com](https://www.jenniferrossehamm.com)
+ - date published: 2024-01-10T22:40:55.887100+00:00
+ - user: None
+ - tags: ['personal']
 
 ## JERAD HILL - DIGITAL MARKETER, YOUTUBER, CREATOR, HUSBAND, FATHER, PILOT, AMERICAN 🇺🇸
  - [https://jeradhill.com](https://jeradhill.com)
@@ -5799,202 +5997,4 @@
  - date published: 2023-10-25T15:28:24.345752+00:00
  - user: None
  - tags: []
-
-## Ramblings from Jessie: Home
- - [https://blog.jessfraz.com](https://blog.jessfraz.com)
- - date published: 2024-01-06T20:27:29.148885+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://jessicalaurenvine.com](https://jessicalaurenvine.com)
- - date published: 2023-11-29T14:25:37.115227+00:00
- - user: None
- - tags: ['personal']
-
-## Jessitron – symmathecist, in the medium of code
- - [https://jessitron.com](https://jessitron.com)
- - date published: 2023-10-25T15:28:28.652075+00:00
- - user: None
- - tags: ['personal']
-
-## foreXiv
- - [https://blog.jessriedel.com](https://blog.jessriedel.com)
- - date published: 2024-04-03T19:49:39.336943+00:00
- - user: None
- - tags: ['personal', 'intellectual']
-
-## C. Jess Riedel
- - [https://jessriedel.com](https://jessriedel.com)
- - date published: 2013-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## JetBrains Account
- - [https://account.jetbrains.com](https://account.jetbrains.com)
- - date published: 2023-12-12T09:09:43.184363+00:00
- - user: None
- - tags: []
-
-## JetBrains Blog: The Drive to Develop
- - [https://blog.jetbrains.com](https://blog.jetbrains.com)
- - date published: 2023-10-25T08:37:43.300846+00:00
- - user: None
- - tags: []
-
-## Administration
- - [https://hub.jetbrains.com](https://hub.jetbrains.com)
- - date published: 2023-12-12T09:05:46+00:00
- - user: rumpel
- - tags: []
-
-## JetBrains: Essential tools for software developers and teams
- - [https://lp.jetbrains.com](https://lp.jetbrains.com)
- - date published: 2023-12-12T09:09:56.188947+00:00
- - user: None
- - tags: []
-
-## JetBrains Marketplace
- - [https://plugins.jetbrains.com](https://plugins.jetbrains.com)
- - date published: 2023-12-12T09:09:59.760112+00:00
- - user: None
- - tags: []
-
-## https://resources.jetbrains.com
- - [https://resources.jetbrains.com](https://resources.jetbrains.com)
- - date published: 2023-12-12T09:10:06.381602+00:00
- - user: None
- - tags: []
-
-## https://sales.jetbrains.com
- - [https://sales.jetbrains.com](https://sales.jetbrains.com)
- - date published: 2023-12-12T09:09:48.760487+00:00
- - user: None
- - tags: []
-
-## JetBrains: Essential tools for software developers and teams
- - [https://www.jetbrains.com](https://www.jetbrains.com)
- - date published: 2023-10-25T11:28:02.006390+00:00
- - user: None
- - tags: ['webstorm', 'clion', 'intellij', 'pycharm', 'programming ide']
-
-## https://youtrack.jetbrains.com
- - [https://youtrack.jetbrains.com](https://youtrack.jetbrains.com)
- - date published: 2023-12-12T09:04:30+00:00
- - user: rumpel
- - tags: []
-
-## JETNET | World Leader in Aviation Market Intelligence
- - [https://www.jetnet.com](https://www.jetnet.com)
- - date published: 2023-10-25T15:28:36.142271+00:00
- - user: None
- - tags: []
-
-## JetPens - The Best Pens & Stationery From Japan & Beyond
- - [https://www.jetpens.com](https://www.jetpens.com)
- - date published: 2023-10-25T15:28:45.728960+00:00
- - user: None
- - tags: []
-
-## Jett Hays
- - [https://jetthays.com](https://jetthays.com)
- - date published: 2024-01-10T18:10:55.728176+00:00
- - user: None
- - tags: []
-
-## Jewish Journal
- - [https://jewishjournal.com](https://jewishjournal.com)
- - date published: 2024-03-21T00:00:00+00:00
- - user: rumpel
- - tags: ['israel news']
-
-## The Jewish Press - JewishPress.com
- - [https://www.jewishpress.com](https://www.jewishpress.com)
- - date published: 2023-12-07T15:14:09.328558+00:00
- - user: None
- - tags: ['israel', 'israel news']
-
-## Jezen Thomas | Haskell, Unix, Minimalism, and Entrepreneurship.
- - [https://jezenthomas.com](https://jezenthomas.com)
- - date published: 2023-10-25T15:28:46.503280+00:00
- - user: None
- - tags: []
-
-## Thriller author J.F.Penn
- - [https://jfpenn.com](https://jfpenn.com)
- - date published: 2024-01-08T07:27:33.171213+00:00
- - user: None
- - tags: []
-
-## Software Supply Chain Platform for DevOps & Security | JFrog
- - [https://jfrog.com](https://jfrog.com)
- - date published: 2023-10-25T15:29:02.160628+00:00
- - user: None
- - tags: []
-
-## jgallant's Indie Game Developer Homepage
- - [https://www.jgallant.com](https://www.jgallant.com)
- - date published: 2023-10-25T15:29:05.166800+00:00
- - user: None
- - tags: []
-
-## https://riscv.jghuff.com
- - [https://riscv.jghuff.com](https://riscv.jghuff.com)
- - date published: 2024-01-09T02:40:36.995426+00:00
- - user: None
- - tags: []
-
-## Ji'hyn's Webbed Site – Thinkin' 'bout stuff
- - [https://jihyn.com](https://jihyn.com)
- - date published: 2023-11-09T19:01:08.263803+00:00
- - user: None
- - tags: []
-
-## Jillian Kaye Art
- - [https://www.jilliankayeart.com](https://www.jilliankayeart.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jim Clair – Blog
- - [https://jimclair.com](https://jimclair.com)
- - date published: 2023-10-25T15:29:13.208321+00:00
- - user: None
- - tags: []
-
-## Jimmy Keane
- - [https://jimmykeane.com](https://jimmykeane.com)
- - date published: 2023-11-29T17:12:38.002816+00:00
- - user: None
- - tags: ['personal']
-
-## Jim Nielsen’s Blog
- - [https://blog.jim-nielsen.com](https://blog.jim-nielsen.com)
- - date published: 2023-10-25T15:29:09.082962+00:00
- - user: None
- - tags: ['personal']
-
-## The Jim Rutt Show
- - [https://www.jimruttshow.com](https://www.jimruttshow.com)
- - date published: 2024-03-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jingnan Shi
- - [https://jingnanshi.com](https://jingnanshi.com)
- - date published: 2023-10-25T15:29:17.944385+00:00
- - user: None
- - tags: []
-
-## JITX - Software-defined electronics
- - [https://www.jitx.com](https://www.jitx.com)
- - date published: 2023-10-25T15:29:20.014336+00:00
- - user: None
- - tags: []
-
-## Jeffrey Rowland's Internet Comics
- - [http://jjrowland.com](http://jjrowland.com)
- - date published: 2024-04-07T14:25:01.312954+00:00
- - user: None
- - tags: ['comics']
 

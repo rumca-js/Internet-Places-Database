@@ -1,3 +1,81 @@
+## (think)
+ - [https://batsov.com](https://batsov.com)
+ - date published: 2023-10-25T12:52:45.171392+00:00
+ - user: None
+ - tags: []
+
+## Battle for Libraries
+ - [https://www.battleforlibraries.com](https://www.battleforlibraries.com)
+ - date published: 2023-10-25T12:52:46.273749+00:00
+ - user: None
+ - tags: []
+
+## BattlePenguin
+ - [https://battlepenguin.com](https://battlepenguin.com)
+ - date published: 2023-10-25T12:52:47.433510+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://blog.battlesnake.com](https://blog.battlesnake.com)
+ - date published: 2024-01-09T02:30:05.335999+00:00
+ - user: None
+ - tags: []
+
+## BattleTech | The Game of Armored Combat
+ - [https://www.battletech.com](https://www.battletech.com)
+ - date published: 2024-02-17T15:07:58+00:00
+ - user: rumpel
+ - tags: ['miniatures', 'tabletop game', 'wargames']
+
+## Greg Baugues
+ - [https://www.baugues.com](https://www.baugues.com)
+ - date published: 2023-10-25T12:52:54.281024+00:00
+ - user: None
+ - tags: []
+
+## http://www.bay12forums.com
+ - [http://www.bay12forums.com](http://www.bay12forums.com)
+ - date published: 2023-10-25T12:52:56.305899+00:00
+ - user: None
+ - tags: []
+
+## Bay 12 Games: Dwarf Fortress
+ - [https://www.bay12games.com](https://www.bay12games.com)
+ - date published: 2023-10-25T11:08:28.145829+00:00
+ - user: None
+ - tags: ['video game', 'dwarf fortress']
+
+## Bay 12 Games: Dwarf Fortress
+ - [http://www.bay12games.com](http://www.bay12games.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ryan Orrock's Tantra – Resources for Spirituality and Sexuality
+ - [https://www.bayraba.com](https://www.bayraba.com)
+ - date published: 2024-01-01T17:22:29+00:00
+ - user: rumpel
+ - tags: []
+
+## Brad Barrows' Blog
+ - [https://bbarrows.com](https://bbarrows.com)
+ - date published: 2023-10-25T09:05:16.650245+00:00
+ - user: None
+ - tags: ['personal']
+
+## BBC - Homepage
+ - [https://bbc.com](https://bbc.com)
+ - date published: 2023-12-28T16:56:04.755096+00:00
+ - user: None
+ - tags: []
+
+## BBC - Homepage
+ - [https://www.bbc.com](https://www.bbc.com)
+ - date published: 2023-10-25T10:24:45.520647+00:00
+ - user: None
+ - tags: []
+
 ## Fully documented source code for Elite on the BBC Micro - Elite on the BBC Micro and NES
  - [https://www.bbcelite.com](https://www.bbcelite.com)
  - date published: 2023-10-25T12:54:32.058561+00:00
@@ -917,14 +995,14 @@
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [https://billingsgazette.com](https://billingsgazette.com)
- - date published: 2023-12-17T18:30:53.119094+00:00
+ - [http://billingsgazette.com](http://billingsgazette.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [http://billingsgazette.com](http://billingsgazette.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://billingsgazette.com](https://billingsgazette.com)
+ - date published: 2023-12-17T18:30:53.119094+00:00
  - user: None
  - tags: []
 
@@ -1319,14 +1397,14 @@
  - tags: []
 
 ## Bits in Flight
- - [https://bitsinflight.com](https://bitsinflight.com)
- - date published: 2023-12-21T03:31:11.484659+00:00
+ - [http://bitsinflight.com](http://bitsinflight.com)
+ - date published: 2024-04-03T12:49:20.656238+00:00
  - user: None
  - tags: ['personal']
 
 ## Bits in Flight
- - [http://bitsinflight.com](http://bitsinflight.com)
- - date published: 2024-04-03T12:49:20.656238+00:00
+ - [https://bitsinflight.com](https://bitsinflight.com)
+ - date published: 2023-12-21T03:31:11.484659+00:00
  - user: None
  - tags: ['personal']
 
@@ -1793,16 +1871,16 @@
  - tags: []
 
 ## Agile Otter Blog
- - [http://agileotter.blogspot.com](http://agileotter.blogspot.com)
- - date published: 2024-02-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Agile Otter Blog
  - [https://agileotter.blogspot.com](https://agileotter.blogspot.com)
  - date published: 2023-10-25T09:05:30.845699+00:00
  - user: None
  - tags: ['personal']
+
+## Agile Otter Blog
+ - [http://agileotter.blogspot.com](http://agileotter.blogspot.com)
+ - date published: 2024-02-27T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Dave Airlie Linux Graphics blog
  - [https://airlied.blogspot.com](https://airlied.blogspot.com)
@@ -1865,13 +1943,13 @@
  - tags: ['personal']
 
 ## The Axis of Eval
- - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
+ - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Axis of Eval
- - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
+ - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
@@ -2021,16 +2099,16 @@
  - tags: ['personal']
 
 ## Database Architects
- - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
- - date published: 2023-10-25T09:08:09.774302+00:00
- - user: None
- - tags: ['personal']
-
-## Database Architects
  - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
  - date published: 2024-02-19T00:00:00+00:00
  - user: None
  - tags: []
+
+## Database Architects
+ - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
+ - date published: 2023-10-25T09:08:09.774302+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Data Finnovation
  - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
@@ -2069,14 +2147,14 @@
  - tags: []
 
 ## BishopBlog
- - [https://deevybee.blogspot.com](https://deevybee.blogspot.com)
- - date published: 2023-11-19T21:54:20.334258+00:00
+ - [http://deevybee.blogspot.com](http://deevybee.blogspot.com)
+ - date published: 2024-02-09T00:00:00+00:00
  - user: None
  - tags: []
 
 ## BishopBlog
- - [http://deevybee.blogspot.com](http://deevybee.blogspot.com)
- - date published: 2024-02-09T00:00:00+00:00
+ - [https://deevybee.blogspot.com](https://deevybee.blogspot.com)
+ - date published: 2023-11-19T21:54:20.334258+00:00
  - user: None
  - tags: []
 
@@ -2099,14 +2177,14 @@
  - tags: []
 
 ## Donald Clark       Plan B
- - [http://donaldclarkplanb.blogspot.com](http://donaldclarkplanb.blogspot.com)
- - date published: 2024-04-05T00:00:00+00:00
+ - [https://donaldclarkplanb.blogspot.com](https://donaldclarkplanb.blogspot.com)
+ - date published: 2024-02-12T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Donald Clark       Plan B
- - [https://donaldclarkplanb.blogspot.com](https://donaldclarkplanb.blogspot.com)
- - date published: 2024-02-12T00:00:00+00:00
+ - [http://donaldclarkplanb.blogspot.com](http://donaldclarkplanb.blogspot.com)
+ - date published: 2024-04-05T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2273,16 +2351,16 @@
  - tags: []
 
 ## Information Processing
- - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
- - date published: 2023-10-25T09:09:06.318517+00:00
- - user: None
- - tags: ['personal']
-
-## Information Processing
  - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
  - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
+
+## Information Processing
+ - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
+ - date published: 2023-10-25T09:09:06.318517+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Development of the trilogy & IV
  - [https://insiderockstarnorth.blogspot.com](https://insiderockstarnorth.blogspot.com)
@@ -3203,16 +3281,16 @@
  - tags: ['aviation', 'aerospace', 'avionics']
 
 ## Chris Aldrich | BoffoSocko
- - [https://boffosocko.com](https://boffosocko.com)
- - date published: 2024-01-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Chris Aldrich | BoffoSocko
  - [http://boffosocko.com](http://boffosocko.com)
  - date published: 2024-02-26T14:52:14.236002+00:00
  - user: None
  - tags: ['personal']
+
+## Chris Aldrich | BoffoSocko
+ - [https://boffosocko.com](https://boffosocko.com)
+ - date published: 2024-01-02T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Chris Aldrich | BoffoSocko
  - [https://www.boffosocko.com](https://www.boffosocko.com)
@@ -3397,14 +3475,14 @@
  - tags: ['books']
 
 ## Bookreporter.com |
- - [http://www.bookreporter.com](http://www.bookreporter.com)
- - date published: 2024-03-01T19:06:27.394328+00:00
+ - [https://www.bookreporter.com](https://www.bookreporter.com)
+ - date published: 2023-11-07T16:06:19.097099+00:00
  - user: None
  - tags: []
 
 ## Bookreporter.com |
- - [https://www.bookreporter.com](https://www.bookreporter.com)
- - date published: 2023-11-07T16:06:19.097099+00:00
+ - [http://www.bookreporter.com](http://www.bookreporter.com)
+ - date published: 2024-03-01T19:06:27.394328+00:00
  - user: None
  - tags: []
 
@@ -3552,6 +3630,12 @@
  - user: None
  - tags: []
 
+## Bosch Semiconductors for Automotive
+ - [https://bosch-semiconductors.com](https://bosch-semiconductors.com)
+ - date published: 2024-03-06T00:00:00+00:00
+ - user: rumpel
+ - tags: ['semiconductors', 'bosch', 'automotive', 'company']
+
 ## Boston.com: Local breaking news, sports, weather, and things to do
  - [https://www.boston.com](https://www.boston.com)
  - date published: 2023-10-25T13:09:10.115588+00:00
@@ -3577,16 +3661,16 @@
  - tags: []
 
 ## Home | Boston Dynamics
- - [https://www.bostondynamics.com](https://www.bostondynamics.com)
- - date published: 2024-03-28T00:00:00+00:00
- - user: rumpel
- - tags: ['robots', 'robotics']
-
-## Home | Boston Dynamics
  - [http://www.bostondynamics.com](http://www.bostondynamics.com)
  - date published: 2024-03-28T00:00:00+00:00
  - user: rumpel
  - tags: []
+
+## Home | Boston Dynamics
+ - [https://www.bostondynamics.com](https://www.bostondynamics.com)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: rumpel
+ - tags: ['robots', 'robotics']
 
 ## The Boston Globe
  - [https://www.bostonglobe.com](https://www.bostonglobe.com)
@@ -4015,16 +4099,16 @@
  - tags: []
 
 ## Brian Kleiber - SEO Analyst & Content Marketing
- - [http://www.briankleiber.com](http://www.briankleiber.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Brian Kleiber - SEO Analyst & Content Marketing
  - [https://www.briankleiber.com](https://www.briankleiber.com)
  - date published: 2023-12-30T22:23:37.854421+00:00
  - user: None
  - tags: ['personal']
+
+## Brian Kleiber - SEO Analyst & Content Marketing
+ - [http://www.briankleiber.com](http://www.briankleiber.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## bkm
  - [https://www.briankm.com](https://www.briankm.com)
@@ -4153,16 +4237,16 @@
  - tags: []
 
 ## Bridget Gordon
- - [http://bridgetgordon.com](http://bridgetgordon.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Bridget Gordon
  - [https://bridgetgordon.com](https://bridgetgordon.com)
  - date published: 2024-01-09T08:54:11.942646+00:00
  - user: None
  - tags: ['personal']
+
+## Bridget Gordon
+ - [http://bridgetgordon.com](http://bridgetgordon.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Bridget Hunt
  - [https://bridgethunt.com](https://bridgethunt.com)
@@ -4379,6 +4463,12 @@
  - date published: 2023-11-29T19:26:48.375792+00:00
  - user: None
  - tags: ['personal']
+
+## Bruno Simon - Creative developer
+ - [https://bruno-simon.com](https://bruno-simon.com)
+ - date published: 2024-04-25T21:21:19.869738+00:00
+ - user: None
+ - tags: []
 
 ## Simone Brunozzi
  - [http://brunozzi.com](http://brunozzi.com)
@@ -4828,7 +4918,7 @@
  - [https://www.bytecone.com](https://www.bytecone.com)
  - date published: 2024-04-22T19:28:20+00:00
  - user: rumpel
- - tags: ['proprietary', 'web scraping']
+ - tags: ['web scraping service']
 
 ## Byte Pursuits
  - [https://bytepursuits.com](https://bytepursuits.com)
@@ -5845,14 +5935,14 @@
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [https://sports.cctv.com](https://sports.cctv.com)
- - date published: 2023-12-09T12:18:44.730556+00:00
+ - [http://sports.cctv.com](http://sports.cctv.com)
+ - date published: 2024-03-21T02:07:49.559014+00:00
  - user: None
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [http://sports.cctv.com](http://sports.cctv.com)
- - date published: 2024-03-21T02:07:49.559014+00:00
+ - [https://sports.cctv.com](https://sports.cctv.com)
+ - date published: 2023-12-09T12:18:44.730556+00:00
  - user: None
  - tags: []
 
@@ -5913,96 +6003,6 @@
 ## Celebrity Private Jet Flights & Environmental Impact | CelebrityFlight
  - [https://celebrityflight.com](https://celebrityflight.com)
  - date published: 2023-10-25T13:19:38.895120+00:00
- - user: None
- - tags: []
-
-## CelerData | Enterprise Real-Time Analytics on StarRocks
- - [https://celerdata.com](https://celerdata.com)
- - date published: 2023-10-25T13:19:40.897775+00:00
- - user: None
- - tags: []
-
-## Celestine Yeh
- - [https://www.celestineyeh.com](https://www.celestineyeh.com)
- - date published: 2023-10-25T09:19:38.270194+00:00
- - user: None
- - tags: ['personal']
-
-## Human fetal brain self-organizes into long-term expanding organoids
- - [www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue](www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue)
- - date published: 2024-01-10T19:20:45.384863+00:00
- - user: None
- - tags: []
-
-## https://www.cell.com
- - [https://www.cell.com](https://www.cell.com)
- - date published: 2023-10-25T13:19:41.208125+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://cellebrite.com](https://cellebrite.com)
- - date published: 2023-10-30T12:02:28.412650+00:00
- - user: None
- - tags: ['espionage', 'pegasus software', 'israel']
-
-## CelloJoe
- - [https://cellojoe.com](https://cellojoe.com)
- - date published: 2024-01-12T22:14:42.319164+00:00
- - user: None
- - tags: []
-
-## celsiusnetworth - Blockchain - tecnología del futuro
- - [https://celsiusnetworth.com](https://celsiusnetworth.com)
- - date published: 2023-10-25T13:19:52.333896+00:00
- - user: None
- - tags: []
-
-## CJ Cenizal
- - [https://www.cenizal.com](https://www.cenizal.com)
- - date published: 2023-10-25T13:19:56.379754+00:00
- - user: None
- - tags: []
-
-## censorine
- - [https://censorine.com](https://censorine.com)
- - date published: 2023-12-11T23:17:34.594077+00:00
- - user: None
- - tags: ['personal']
-
-## State College Breaking News & Sports | Centre Daily Times
- - [https://www.centredaily.com](https://www.centredaily.com)
- - date published: 2023-10-25T10:35:34.800217+00:00
- - user: None
- - tags: []
-
-## The Century of Biology | Elliot Hershberg | Substack
- - [https://centuryofbio.com](https://centuryofbio.com)
- - date published: 2024-02-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Cephalofair - Epic Strategy Awaits
- - [https://cephalofair.com](https://cephalofair.com)
- - date published: 2024-01-17T00:00:00+00:00
- - user: rumpel
- - tags: ['board games', 'forge war', 'gloomhaven', 'tabletop games', 'frostahaven']
-
-## Joshua Cerdenia, Composer
- - [https://cerdenia.com](https://cerdenia.com)
- - date published: 2023-11-29T16:21:34.257033+00:00
- - user: None
- - tags: ['personal']
-
-## Open Brains
- - [https://cerebralab.com](https://cerebralab.com)
- - date published: 2023-10-25T13:19:58.310239+00:00
- - user: None
- - tags: []
-
-## Environmental Science | CERES-Science
- - [https://www.ceres-science.com](https://www.ceres-science.com)
- - date published: 2023-10-25T13:20:00.076730+00:00
  - user: None
  - tags: []
 

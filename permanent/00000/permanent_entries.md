@@ -16,6 +16,12 @@
  - user: None
  - tags: ['archive program', 'program', 'open source']
 
+## The Bash Guide
+ - [https://guide.bash.academy](https://guide.bash.academy)
+ - date published: 2024-04-25T10:50:47+00:00
+ - user: rumpel
+ - tags: ['bash']
+
 ## About · Game Hacking Academy
  - [https://gamehacking.academy](https://gamehacking.academy)
  - date published: 2024-02-12T00:00:00+00:00
@@ -1024,6 +1030,12 @@
  - user: None
  - tags: []
 
+## None
+ - [https://www.locofy.ai](https://www.locofy.ai)
+ - date published: 2024-04-25T21:21:22.657949+00:00
+ - user: None
+ - tags: []
+
 ## Luma AI
  - [https://lumalabs.ai](https://lumalabs.ai)
  - date published: 2023-10-25T11:39:54.133649+00:00
@@ -1045,6 +1057,12 @@
 ## Lumona
  - [https://lumona.ai](https://lumona.ai)
  - date published: 2024-03-29T20:12:06.449920+00:00
+ - user: None
+ - tags: []
+
+## LunarTech - Empowering Tomorrow's Innovators
+ - [https://lunartech.ai](https://lunartech.ai)
+ - date published: 2024-04-25T21:21:17.760872+00:00
  - user: None
  - tags: []
 
@@ -1337,13 +1355,13 @@
  - tags: []
 
 ## http://hello.pi.ai/
- - [http://hello.pi.ai](http://hello.pi.ai)
+ - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -1436,7 +1454,7 @@
  - [https://www.redbumerang.ai](https://www.redbumerang.ai)
  - date published: 2024-04-22T19:26:33+00:00
  - user: rumpel
- - tags: ['proprietary', 'web scraping']
+ - tags: ['web scraping service']
 
 ## Powerful AI coding assistant that combines completion, refactoring, chat, and more - Refact.ai
  - [https://refact.ai](https://refact.ai)
@@ -2062,6 +2080,12 @@
  - user: None
  - tags: ['social platform']
 
+## capitalyse-website-nuxtjs
+ - [http://capitalyse.app](http://capitalyse.app)
+ - date published: 2024-04-25T08:13:45.023998+00:00
+ - user: None
+ - tags: []
+
 ## https://carina.app
  - [https://carina.app](https://carina.app)
  - date published: 2023-10-25T11:45:43.807234+00:00
@@ -2461,6 +2485,12 @@
 ## MonsterWriter - A Pleasant Way to Write a Thesis or Article
  - [https://www.monsterwriter.app](https://www.monsterwriter.app)
  - date published: 2023-10-25T11:47:21.821251+00:00
+ - user: None
+ - tags: []
+
+## ADHD Diagnosis in the Browser
+ - [https://adhdtest.moodmap.app](https://adhdtest.moodmap.app)
+ - date published: 2024-04-25T14:08:42.212683+00:00
  - user: None
  - tags: []
 
@@ -3809,16 +3839,16 @@
  - tags: []
 
 ## Now - Adam Ashton
- - [https://www.adamashton.com.au](https://www.adamashton.com.au)
- - date published: 2024-01-10T18:10:16.445630+00:00
- - user: None
- - tags: []
-
-## Now - Adam Ashton
  - [http://www.adamashton.com.au](http://www.adamashton.com.au)
  - date published: 2024-04-03T12:46:14.376541+00:00
  - user: None
  - tags: ['personal']
+
+## Now - Adam Ashton
+ - [https://www.adamashton.com.au](https://www.adamashton.com.au)
+ - date published: 2024-01-10T18:10:16.445630+00:00
+ - user: None
+ - tags: []
 
 ## 404 Not Found
  - [https://www.adelaidenow.com.au](https://www.adelaidenow.com.au)
@@ -4768,17 +4798,17 @@
  - user: None
  - tags: []
 
-## Original Sling'n'shoot Worms Game
- - [http://www.liero.be](http://www.liero.be)
- - date published: 2023-12-28T18:40:30+00:00
- - user: None
- - tags: []
-
 ## Liero - Official website
  - [https://www.liero.be](https://www.liero.be)
  - date published: 2023-10-26T18:32:21.331231+00:00
  - user: None
  - tags: ['open source', 'game', 'retro game']
+
+## Original Sling'n'shoot Worms Game
+ - [http://www.liero.be](http://www.liero.be)
+ - date published: 2023-12-28T18:40:30+00:00
+ - user: None
+ - tags: []
 
 ## Home
  - [https://www.mjvanhee.be](https://www.mjvanhee.be)
@@ -5933,6 +5963,12 @@
  - user: None
  - tags: ['personal']
 
+## RadASM assembler IDE
+ - [http://www.assembly.com.br](http://www.assembly.com.br)
+ - date published: 2024-04-25T18:39:26.645719+00:00
+ - user: None
+ - tags: ['programming ide', 'assembly']
+
 ## Citroën Home
  - [https://www.citroen.com.br](https://www.citroen.com.br)
  - date published: 2023-12-11T16:02:47.705230+00:00
@@ -5962,40 +5998,4 @@
  - date published: 2024-03-27T20:50:41.342565+00:00
  - user: None
  - tags: ['mud game']
-
-## LkSvn
- - [https://lksvn.com.br](https://lksvn.com.br)
- - date published: 2021-04-30T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Nord Investimentos - Research, Asset e Wealth Management
- - [https://www.nordinvestimentos.com.br](https://www.nordinvestimentos.com.br)
- - date published: 2023-12-06T00:28:58.772642+00:00
- - user: None
- - tags: []
-
-## Building Nubank
- - [https://building.nubank.com.br](https://building.nubank.com.br)
- - date published: 2023-10-25T12:02:22.743302+00:00
- - user: None
- - tags: []
-
-## Playpixel - Miniature Collection
- - [https://www.playpixel.com.br](https://www.playpixel.com.br)
- - date published: 2024-02-15T22:31:33.376128+00:00
- - user: None
- - tags: ['demoscene']
-
-## Poder360 | Notícias do poder e da política.
- - [https://www.poder360.com.br](https://www.poder360.com.br)
- - date published: 2023-10-25T12:02:34.873341+00:00
- - user: None
- - tags: []
-
-## None
- - [https://radionos.com.br](https://radionos.com.br)
- - date published: 2024-02-15T22:13:55.833092+00:00
- - user: None
- - tags: []
 

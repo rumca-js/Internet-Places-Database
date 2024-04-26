@@ -1,3 +1,39 @@
+## LkSvn
+ - [https://lksvn.com.br](https://lksvn.com.br)
+ - date published: 2021-04-30T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nord Investimentos - Research, Asset e Wealth Management
+ - [https://www.nordinvestimentos.com.br](https://www.nordinvestimentos.com.br)
+ - date published: 2023-12-06T00:28:58.772642+00:00
+ - user: None
+ - tags: []
+
+## Building Nubank
+ - [https://building.nubank.com.br](https://building.nubank.com.br)
+ - date published: 2023-10-25T12:02:22.743302+00:00
+ - user: None
+ - tags: []
+
+## Playpixel - Miniature Collection
+ - [https://www.playpixel.com.br](https://www.playpixel.com.br)
+ - date published: 2024-02-15T22:31:33.376128+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Poder360 | Notícias do poder e da política.
+ - [https://www.poder360.com.br](https://www.poder360.com.br)
+ - date published: 2023-10-25T12:02:34.873341+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://radionos.com.br](https://radionos.com.br)
+ - date published: 2024-02-15T22:13:55.833092+00:00
+ - user: None
+ - tags: []
+
 ## Notícias de hoje do Brasil e do Mundo | Folha de S.Paulo
  - [https://www1.folha.uol.com.br](https://www1.folha.uol.com.br)
  - date published: 2023-11-18T08:17:46.153355+00:00
@@ -143,14 +179,14 @@
  - tags: []
 
 ## Svarichevsky Mikhail
- - [http://3.14.by](http://3.14.by)
- - date published: 2024-02-26T13:20:29.028020+00:00
+ - [https://3.14.by](https://3.14.by)
+ - date published: 2024-01-16T06:21:34.423774+00:00
  - user: None
  - tags: []
 
 ## Svarichevsky Mikhail
- - [https://3.14.by](https://3.14.by)
- - date published: 2024-01-16T06:21:34.423774+00:00
+ - [http://3.14.by](http://3.14.by)
+ - date published: 2024-02-26T13:20:29.028020+00:00
  - user: None
  - tags: []
 
@@ -1295,14 +1331,14 @@
  - tags: ['personal']
 
 ## Timur Ochakovsky | Web Developer
- - [http://www.timur.ca](http://www.timur.ca)
- - date published: 2002-01-01T00:00:00+00:00
+ - [https://www.timur.ca](https://www.timur.ca)
+ - date published: 2023-11-29T14:23:08.617547+00:00
  - user: None
  - tags: []
 
 ## Timur Ochakovsky | Web Developer
- - [https://www.timur.ca](https://www.timur.ca)
- - date published: 2023-11-29T14:23:08.617547+00:00
+ - [http://www.timur.ca](http://www.timur.ca)
+ - date published: 2002-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2617,14 +2653,14 @@
  - tags: []
 
 ## Rocket.Chat: Communications Platform You Can Fully Trust
- - [http://rocket.chat](http://rocket.chat)
- - date published: 2024-04-17T00:00:00+00:00
+ - [https://rocket.chat](https://rocket.chat)
+ - date published: 2024-04-08T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Rocket.Chat: Communications Platform You Can Fully Trust
- - [https://rocket.chat](https://rocket.chat)
- - date published: 2024-04-08T00:00:00+00:00
+ - [http://rocket.chat](http://rocket.chat)
+ - date published: 2024-04-17T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3342,6 +3378,12 @@
  - user: None
  - tags: []
 
+## DigitalOcean — The developer cloud
+ - [https://m.do.co](https://m.do.co)
+ - date published: 2024-04-25T21:21:19.031577+00:00
+ - user: None
+ - tags: []
+
 ## DocuSeal – Open-source Document Signing
  - [https://www.docuseal.co](https://www.docuseal.co)
  - date published: 2023-12-21T07:48:10+00:00
@@ -3435,6 +3477,12 @@
 ## What are countries neighbouring the Baltic Sea doing to counteract the energy crisis? - EU Reporter
  - [https://www.eureporter.co](https://www.eureporter.co)
  - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cloud Computing Certification Training Courses - ExamPro
+ - [https://www.exampro.co](https://www.exampro.co)
+ - date published: 2024-04-25T21:21:14.182399+00:00
  - user: None
  - tags: []
 
@@ -3643,14 +3691,14 @@
  - tags: []
 
 ## Jonny Miller
- - [https://www.jonnymiller.co](https://www.jonnymiller.co)
- - date published: 2024-01-08T15:36:50.624044+00:00
+ - [http://www.jonnymiller.co](http://www.jonnymiller.co)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Jonny Miller
- - [http://www.jonnymiller.co](http://www.jonnymiller.co)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://www.jonnymiller.co](https://www.jonnymiller.co)
+ - date published: 2024-01-08T15:36:50.624044+00:00
  - user: None
  - tags: []
 
@@ -3697,14 +3745,14 @@
  - tags: ['sound magazine', 'hobby', 'interesting']
 
 ## Learn With Me – A Resource for Mindful Living
- - [http://learnwithme.co](http://learnwithme.co)
- - date published: 2024-04-03T06:26:23.438321+00:00
+ - [https://learnwithme.co](https://learnwithme.co)
+ - date published: 2023-12-29T20:10:41.952123+00:00
  - user: None
  - tags: ['personal']
 
 ## Learn With Me – A Resource for Mindful Living
- - [https://learnwithme.co](https://learnwithme.co)
- - date published: 2023-12-29T20:10:41.952123+00:00
+ - [http://learnwithme.co](http://learnwithme.co)
+ - date published: 2024-04-03T06:26:23.438321+00:00
  - user: None
  - tags: ['personal']
 
@@ -4243,14 +4291,14 @@
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [https://stateofthenation.co](https://stateofthenation.co)
- - date published: 2023-10-25T12:23:13.580451+00:00
+ - [http://stateofthenation.co](http://stateofthenation.co)
+ - date published: 2024-02-26T12:49:19.790593+00:00
  - user: None
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [http://stateofthenation.co](http://stateofthenation.co)
- - date published: 2024-02-26T12:49:19.790593+00:00
+ - [https://stateofthenation.co](https://stateofthenation.co)
+ - date published: 2023-10-25T12:23:13.580451+00:00
  - user: None
  - tags: []
 
@@ -4397,6 +4445,12 @@
  - date published: 2023-10-25T12:24:34.308441+00:00
  - user: None
  - tags: []
+
+## unDraw - Open source illustrations for any idea
+ - [https://undraw.co](https://undraw.co)
+ - date published: 2024-04-25T18:26:44+00:00
+ - user: rumpel
+ - tags: ['image assets', 'open source']
 
 ## Untranslatable
  - [https://untranslatable.co](https://untranslatable.co)
@@ -5372,17 +5426,17 @@
  - user: None
  - tags: ['personal']
 
-## Coming Soon
- - [https://aaronshbeeb.com](https://aaronshbeeb.com)
- - date published: 2023-12-17T20:59:02.532105+00:00
- - user: None
- - tags: ['personal']
-
 ## Home - Aaron Shbeeb
  - [http://aaronshbeeb.com](http://aaronshbeeb.com)
  - date published: 2024-04-03T00:00:00+00:00
  - user: None
  - tags: []
+
+## Coming Soon
+ - [https://aaronshbeeb.com](https://aaronshbeeb.com)
+ - date published: 2023-12-17T20:59:02.532105+00:00
+ - user: None
+ - tags: ['personal']
 
 ## AaronStrick.com
  - [https://aaronstrick.com](https://aaronstrick.com)
@@ -5745,14 +5799,14 @@
  - tags: []
 
 ## Accidental Fire
- - [http://accidentalfire.com](http://accidentalfire.com)
- - date published: 2024-04-03T06:29:12.978441+00:00
+ - [https://accidentalfire.com](https://accidentalfire.com)
+ - date published: 2023-12-20T05:40:26.113068+00:00
  - user: None
  - tags: ['personal']
 
 ## Accidental Fire
- - [https://accidentalfire.com](https://accidentalfire.com)
- - date published: 2023-12-20T05:40:26.113068+00:00
+ - [http://accidentalfire.com](http://accidentalfire.com)
+ - date published: 2024-04-03T06:29:12.978441+00:00
  - user: None
  - tags: ['personal']
 
@@ -5928,7 +5982,7 @@
  - [https://www.adafruit.com](https://www.adafruit.com)
  - date published: 2023-10-25T11:14:43.308029+00:00
  - user: None
- - tags: []
+ - tags: ['single board computers', 'hardware parts', 'electronic parts']
 
 ## https://adage.com
  - [https://adage.com](https://adage.com)
@@ -5945,60 +5999,6 @@
 ## Adam Albrecht - Full Stack Developer in Columbus, Ohio
  - [https://www.adamalbrecht.com](https://www.adamalbrecht.com)
  - date published: 2024-01-07T04:14:41.712373+00:00
- - user: None
- - tags: []
-
-## Adama Platform
- - [https://www.adama-platform.com](https://www.adama-platform.com)
- - date published: 2023-10-25T12:31:58.924577+00:00
- - user: None
- - tags: []
-
-## http://adamard.com
- - [http://adamard.com](http://adamard.com)
- - date published: 2023-10-25T12:31:59.675953+00:00
- - user: None
- - tags: []
-
-## Adam Bader
- - [https://adambader.com](https://adambader.com)
- - date published: 2023-12-18T01:33:53.856774+00:00
- - user: None
- - tags: ['personal']
-
-## https://www.adamblades.com
- - [https://www.adamblades.com](https://www.adamblades.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Adam Caudill
- - [https://adamcaudill.com](https://adamcaudill.com)
- - date published: 2023-10-25T12:32:03.058600+00:00
- - user: None
- - tags: []
-
-## Adam Chalmers
- - [https://blog.adamchalmers.com](https://blog.adamchalmers.com)
- - date published: 2023-10-25T12:32:05.936257+00:00
- - user: None
- - tags: []
-
-## Hi, I’m Adam - Adam J. Doolittle
- - [http://www.adamdoolittle.com](http://www.adamdoolittle.com)
- - date published: 2024-04-03T06:22:38.206834+00:00
- - user: None
- - tags: ['personal']
-
-## Hi, I’m Adam - Adam J. Doolittle
- - [https://www.adamdoolittle.com](https://www.adamdoolittle.com)
- - date published: 2024-01-19T13:00:38.013071+00:00
- - user: None
- - tags: ['personal']
-
-## Adam Drake
- - [https://adamdrake.com](https://adamdrake.com)
- - date published: 2019-08-16T00:00:00+00:00
  - user: None
  - tags: []
 

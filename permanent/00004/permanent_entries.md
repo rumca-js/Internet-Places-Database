@@ -1,3 +1,93 @@
+## CelerData | Enterprise Real-Time Analytics on StarRocks
+ - [https://celerdata.com](https://celerdata.com)
+ - date published: 2023-10-25T13:19:40.897775+00:00
+ - user: None
+ - tags: []
+
+## Celestine Yeh
+ - [https://www.celestineyeh.com](https://www.celestineyeh.com)
+ - date published: 2023-10-25T09:19:38.270194+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.cell.com
+ - [https://www.cell.com](https://www.cell.com)
+ - date published: 2023-10-25T13:19:41.208125+00:00
+ - user: None
+ - tags: []
+
+## Human fetal brain self-organizes into long-term expanding organoids
+ - [www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue](www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue)
+ - date published: 2024-01-10T19:20:45.384863+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://cellebrite.com](https://cellebrite.com)
+ - date published: 2023-10-30T12:02:28.412650+00:00
+ - user: None
+ - tags: ['espionage', 'pegasus software', 'israel']
+
+## CelloJoe
+ - [https://cellojoe.com](https://cellojoe.com)
+ - date published: 2024-01-12T22:14:42.319164+00:00
+ - user: None
+ - tags: []
+
+## celsiusnetworth - Blockchain - tecnología del futuro
+ - [https://celsiusnetworth.com](https://celsiusnetworth.com)
+ - date published: 2023-10-25T13:19:52.333896+00:00
+ - user: None
+ - tags: []
+
+## CJ Cenizal
+ - [https://www.cenizal.com](https://www.cenizal.com)
+ - date published: 2023-10-25T13:19:56.379754+00:00
+ - user: None
+ - tags: []
+
+## censorine
+ - [https://censorine.com](https://censorine.com)
+ - date published: 2023-12-11T23:17:34.594077+00:00
+ - user: None
+ - tags: ['personal']
+
+## State College Breaking News & Sports | Centre Daily Times
+ - [https://www.centredaily.com](https://www.centredaily.com)
+ - date published: 2023-10-25T10:35:34.800217+00:00
+ - user: None
+ - tags: []
+
+## The Century of Biology | Elliot Hershberg | Substack
+ - [https://centuryofbio.com](https://centuryofbio.com)
+ - date published: 2024-02-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cephalofair - Epic Strategy Awaits
+ - [https://cephalofair.com](https://cephalofair.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: rumpel
+ - tags: ['board games', 'forge war', 'gloomhaven', 'tabletop games', 'frostahaven']
+
+## Joshua Cerdenia, Composer
+ - [https://cerdenia.com](https://cerdenia.com)
+ - date published: 2023-11-29T16:21:34.257033+00:00
+ - user: None
+ - tags: ['personal']
+
+## Open Brains
+ - [https://cerebralab.com](https://cerebralab.com)
+ - date published: 2023-10-25T13:19:58.310239+00:00
+ - user: None
+ - tags: []
+
+## Environmental Science | CERES-Science
+ - [https://www.ceres-science.com](https://www.ceres-science.com)
+ - date published: 2023-10-25T13:20:00.076730+00:00
+ - user: None
+ - tags: []
+
 ## Manuel Cerón – A blog mostly about programming languages
  - [https://ceronman.com](https://ceronman.com)
  - date published: 2023-10-25T13:20:05.254140+00:00
@@ -89,14 +179,14 @@
  - tags: ['personal']
 
 ## Open Path by Chad Whitacre
- - [http://openpath.chadwhitacre.com](http://openpath.chadwhitacre.com)
- - date published: 2024-02-26T09:41:25.750324+00:00
+ - [https://openpath.chadwhitacre.com](https://openpath.chadwhitacre.com)
+ - date published: 2024-01-22T07:17:07.392204+00:00
  - user: None
  - tags: []
 
 ## Open Path by Chad Whitacre
- - [https://openpath.chadwhitacre.com](https://openpath.chadwhitacre.com)
- - date published: 2024-01-22T07:17:07.392204+00:00
+ - [http://openpath.chadwhitacre.com](http://openpath.chadwhitacre.com)
+ - date published: 2024-02-26T09:41:25.750324+00:00
  - user: None
  - tags: []
 
@@ -688,17 +778,17 @@
  - user: None
  - tags: []
 
-## http://chrisjstott.com
- - [https://chrisjstott.com](https://chrisjstott.com)
- - date published: 2024-01-24T08:01:05.864817+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [http://chrisjstott.com](http://chrisjstott.com)
  - date published: 2024-02-29T14:58:49.595292+00:00
  - user: None
  - tags: []
+
+## http://chrisjstott.com
+ - [https://chrisjstott.com](https://chrisjstott.com)
+ - date published: 2024-01-24T08:01:05.864817+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -893,14 +983,14 @@
  - tags: ['personal']
 
 ## Christoph Gruber
- - [https://www.christophgruber.com](https://www.christophgruber.com)
- - date published: 2024-01-17T04:43:22.299793+00:00
+ - [http://www.christophgruber.com](http://www.christophgruber.com)
+ - date published: 2024-04-03T06:25:56.066461+00:00
  - user: None
  - tags: ['personal']
 
 ## Christoph Gruber
- - [http://www.christophgruber.com](http://www.christophgruber.com)
- - date published: 2024-04-03T06:25:56.066461+00:00
+ - [https://www.christophgruber.com](https://www.christophgruber.com)
+ - date published: 2024-01-17T04:43:22.299793+00:00
  - user: None
  - tags: ['personal']
 
@@ -911,16 +1001,16 @@
  - tags: []
 
 ## Blog | Chris Warrick
- - [http://chriswarrick.com](http://chriswarrick.com)
- - date published: 2024-02-25T15:45:10.545891+00:00
- - user: None
- - tags: []
-
-## Blog | Chris Warrick
  - [https://chriswarrick.com](https://chriswarrick.com)
  - date published: 2023-10-25T09:19:47.812882+00:00
  - user: None
  - tags: ['personal']
+
+## Blog | Chris Warrick
+ - [http://chriswarrick.com](http://chriswarrick.com)
+ - date published: 2024-02-25T15:45:10.545891+00:00
+ - user: None
+ - tags: []
 
 ## Chris Zacharias
  - [https://blog.chriszacharias.com](https://blog.chriszacharias.com)
@@ -1441,6 +1531,12 @@
 ## yet another tech-blog - made in Switzerland
  - [https://www.claudiokuenzler.com](https://www.claudiokuenzler.com)
  - date published: 2023-10-25T13:25:46.623422+00:00
+ - user: None
+ - tags: []
+
+## claudio – Designer. Maker of Things.
+ - [https://claudiorimann.com](https://claudiorimann.com)
+ - date published: 2024-03-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2445,6 +2541,12 @@
  - user: None
  - tags: []
 
+## AEROSPACE REDEFINED
+ - [https://www.collinsaerospace.com](https://www.collinsaerospace.com)
+ - date published: 2024-04-25T13:01:55+00:00
+ - user: rumpel
+ - tags: ['collins aerospace', 'avionics', 'company']
+
 ## Colombia Reports
  - [https://colombiareports.com](https://colombiareports.com)
  - date published: 2023-11-10T11:04:46.934107+00:00
@@ -3063,6 +3165,24 @@
  - user: None
  - tags: ['video game developer']
 
+## Corel Graphics, Digital Media & Productivity Software
+ - [https://corel.com](https://corel.com)
+ - date published: 2024-04-25T18:23:35+00:00
+ - user: rumpel
+ - tags: ['graphical program', 'coreldraw', 'corel']
+
+## Corel Community
+ - [https://product.corel.com](https://product.corel.com)
+ - date published: 2024-04-25T18:23:08+00:00
+ - user: rumpel
+ - tags: []
+
+## CorelDRAW Graphics Suite | Free Trial
+ - [https://www.coreldraw.com](https://www.coreldraw.com)
+ - date published: 2024-04-25T18:21:35+00:00
+ - user: rumpel
+ - tags: ['graphics', 'coreldraw', 'program']
+
 ## Corelight: Evidence-Based NDR and Threat Hunting Platform
  - [https://corelight.com](https://corelight.com)
  - date published: 2023-10-25T13:33:52.481729+00:00
@@ -3475,7 +3595,7 @@
  - [https://crawlbase.com](https://crawlbase.com)
  - date published: 2024-04-22T19:23:47+00:00
  - user: rumpel
- - tags: ['online tool', 'web scraping']
+ - tags: ['web scraping service']
 
 ## Cloud based SEO reporting software, view performance, monitoring to improve SEO rankings. | CrawlMonster Crawl Monster
  - [https://www.crawlmonster.com](https://www.crawlmonster.com)
@@ -3921,6 +4041,12 @@
  - user: None
  - tags: []
 
+## CSS Artist
+ - [https://www.cssartist.com](https://www.cssartist.com)
+ - date published: 2024-04-25T21:21:21.367151+00:00
+ - user: None
+ - tags: []
+
 ## CSS Dig
  - [https://www.cssdig.com](https://www.cssdig.com)
  - date published: 2023-10-25T13:38:42.950691+00:00
@@ -4209,6 +4335,12 @@
  - date published: 2024-03-29T05:46:57+00:00
  - user: rumpel
  - tags: ['video editor']
+
+## Cybernetist
+ - [https://cybernetist.com](https://cybernetist.com)
+ - date published: 2024-04-25T17:45:39.855740+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Cyber News
  - [https://cybernews.com](https://cybernews.com)
@@ -5656,6 +5788,12 @@
  - user: None
  - tags: []
 
+## Attention Required! | Cloudflare
+ - [https://ddc-web.com](https://ddc-web.com)
+ - date published: 2024-04-25T13:03:16+00:00
+ - user: rumpel
+ - tags: ['data device corporation', 'company']
+
 ## Daniel D. McKinnon
  - [https://www.ddmckinnon.com](https://www.ddmckinnon.com)
  - date published: 2024-01-26T01:12:23.544977+00:00
@@ -5703,6 +5841,12 @@
  - date published: 2023-12-25T17:18:21.336759+00:00
  - user: None
  - tags: ['personal']
+
+## Dealavo | Price Monitoring | Dynamic Pricing | for brands & e-stores
+ - [https://dealavo.com](https://dealavo.com)
+ - date published: 2024-03-08T00:00:00+00:00
+ - user: rumpel
+ - tags: ['tracking service', 'deals', 'promotions']
 
 ## Western Shores Marketing - Affordable Marketing for Small Businesses
  - [http://www.deancalin.com](http://www.deancalin.com)
@@ -5857,150 +6001,6 @@
 ## Decode39 - Decode39
  - [https://decode39.com](https://decode39.com)
  - date published: 2024-01-06T14:01:43.023731+00:00
- - user: None
- - tags: []
-
-## Apache HTTP Server Test Page powered by CentOS
- - [https://www.decodesystems.com](https://www.decodesystems.com)
- - date published: 2024-01-09T02:34:14.258095+00:00
- - user: None
- - tags: []
-
-## Decode Today
- - [https://decodetoday.com](https://decodetoday.com)
- - date published: 2024-01-04T09:27:47.278321+00:00
- - user: None
- - tags: []
-
-## Allison Posts
- - [https://posts.decontextualize.com](https://posts.decontextualize.com)
- - date published: 2023-10-25T13:47:27.737564+00:00
- - user: None
- - tags: []
-
-## de🔸digger find public files in Google Drive
- - [https://www.dedigger.com](https://www.dedigger.com)
- - date published: 2023-10-25T13:47:29.059381+00:00
- - user: None
- - tags: []
-
-## Dedoimedo - A Place to Learn a Lot About a Lot
- - [https://www.dedoimedo.com](https://www.dedoimedo.com)
- - date published: 2023-10-25T13:47:31.851633+00:00
- - user: None
- - tags: []
-
-## DEDWARE
- - [https://dedware.com](https://dedware.com)
- - date published: 2023-11-15T17:57:31.700400+00:00
- - user: None
- - tags: ['art', 'personal']
-
-## Deepak Gulati's blog
- - [https://www.deepakg.com](https://www.deepakg.com)
- - date published: 2023-10-25T13:47:34.103740+00:00
- - user: None
- - tags: []
-
-## DeepDyve - Instant access to the journals you need.
- - [https://www.deepdyve.com](https://www.deepdyve.com)
- - date published: 2024-03-18T13:47:49+00:00
- - user: rumpel
- - tags: ['journals']
-
-## Make Your Own Deepfakes [Online App]
- - [https://deepfakesweb.com](https://deepfakesweb.com)
- - date published: 2024-04-24T10:31:43+00:00
- - user: rumpel
- - tags: ['deep fakes']
-
-## Resources and Tools Created to Inspire | Deepgram
- - [https://blog.deepgram.com](https://blog.deepgram.com)
- - date published: 2023-10-25T13:47:45.305982+00:00
- - user: None
- - tags: []
-
-## DeepL Translate: The world's most accurate translator
- - [https://www.deepl.com](https://www.deepl.com)
- - date published: 2023-10-25T09:27:57.362550+00:00
- - user: None
- - tags: []
-
-## DeepMake
- - [https://deepmake.com](https://deepmake.com)
- - date published: 2023-12-09T00:22:25.769168+00:00
- - user: None
- - tags: []
-
-## AlphaCode
- - [https://alphacode.deepmind.com](https://alphacode.deepmind.com)
- - date published: 2023-10-25T13:47:52.658441+00:00
- - user: None
- - tags: []
-
-## Google DeepMind
- - [https://www.deepmind.com](https://www.deepmind.com)
- - date published: 2023-10-25T13:47:54.689117+00:00
- - user: None
- - tags: ['artificial intelligence']
-
-## Deepnote: Analytics and data science notebook for teams.
- - [https://deepnote.com](https://deepnote.com)
- - date published: 2023-10-25T13:47:56.980147+00:00
- - user: None
- - tags: []
-
-## Deepti Kannapan - Fiction writer, painter, and engineer
- - [https://www.deeptikannapan.com](https://www.deeptikannapan.com)
- - date published: 2023-12-31T16:46:51.630086+00:00
- - user: None
- - tags: []
-
-## DEEP VOODOO
- - [https://www.deepvoodoo.com](https://www.deepvoodoo.com)
- - date published: 2023-10-25T13:47:58.271089+00:00
- - user: None
- - tags: []
-
-## John Deere US | Products & Services Information
- - [https://www.deere.com](https://www.deere.com)
- - date published: 2024-01-30T17:02:42.432506+00:00
- - user: None
- - tags: ['agricultural machinery']
-
-## Deeter Cesler is your favorite person | strategist, software engineer, marketer
- - [https://deetercesler.com](https://deetercesler.com)
- - date published: 2024-01-22T18:18:53.973365+00:00
- - user: None
- - tags: []
-
-## Deezer plans | Compare Deezer's offer prices
- - [https://www.deezer.com](https://www.deezer.com)
- - date published: 2023-12-11T16:11:25.147244+00:00
- - user: None
- - tags: []
-
-## DEF CON Hacking Conference Online
- - [https://www.defcononline.com](https://www.defcononline.com)
- - date published: 2024-02-05T19:20:30.491695+00:00
- - user: rumpel
- - tags: ['hacking']
-
-## Defector | The last good website.
- - [https://defector.com](https://defector.com)
- - date published: 2023-10-25T13:48:09.544452+00:00
- - user: None
- - tags: []
-
-## Defence Blog
- - [https://defence-blog.com](https://defence-blog.com)
- - date published: 2023-06-27T15:28:10+00:00
- - user: None
- - tags: []
-
-## Defense Express - Ukraine military industry, technology, equipment
- - [https://en.defence-ua.com](https://en.defence-ua.com)
- - date published: 2023-12-25T22:35:54.461715+00:00
  - user: None
  - tags: []
 

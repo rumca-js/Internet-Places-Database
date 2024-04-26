@@ -1,3 +1,147 @@
+## Apache HTTP Server Test Page powered by CentOS
+ - [https://www.decodesystems.com](https://www.decodesystems.com)
+ - date published: 2024-01-09T02:34:14.258095+00:00
+ - user: None
+ - tags: []
+
+## Decode Today
+ - [https://decodetoday.com](https://decodetoday.com)
+ - date published: 2024-01-04T09:27:47.278321+00:00
+ - user: None
+ - tags: []
+
+## Allison Posts
+ - [https://posts.decontextualize.com](https://posts.decontextualize.com)
+ - date published: 2023-10-25T13:47:27.737564+00:00
+ - user: None
+ - tags: []
+
+## de🔸digger find public files in Google Drive
+ - [https://www.dedigger.com](https://www.dedigger.com)
+ - date published: 2023-10-25T13:47:29.059381+00:00
+ - user: None
+ - tags: []
+
+## Dedoimedo - A Place to Learn a Lot About a Lot
+ - [https://www.dedoimedo.com](https://www.dedoimedo.com)
+ - date published: 2023-10-25T13:47:31.851633+00:00
+ - user: None
+ - tags: []
+
+## DEDWARE
+ - [https://dedware.com](https://dedware.com)
+ - date published: 2023-11-15T17:57:31.700400+00:00
+ - user: None
+ - tags: ['art', 'personal']
+
+## Deepak Gulati's blog
+ - [https://www.deepakg.com](https://www.deepakg.com)
+ - date published: 2023-10-25T13:47:34.103740+00:00
+ - user: None
+ - tags: []
+
+## DeepDyve - Instant access to the journals you need.
+ - [https://www.deepdyve.com](https://www.deepdyve.com)
+ - date published: 2024-03-18T13:47:49+00:00
+ - user: rumpel
+ - tags: ['journals']
+
+## Make Your Own Deepfakes [Online App]
+ - [https://deepfakesweb.com](https://deepfakesweb.com)
+ - date published: 2024-04-24T10:31:43+00:00
+ - user: rumpel
+ - tags: ['deep fakes']
+
+## Resources and Tools Created to Inspire | Deepgram
+ - [https://blog.deepgram.com](https://blog.deepgram.com)
+ - date published: 2023-10-25T13:47:45.305982+00:00
+ - user: None
+ - tags: []
+
+## DeepL Translate: The world's most accurate translator
+ - [https://www.deepl.com](https://www.deepl.com)
+ - date published: 2023-10-25T09:27:57.362550+00:00
+ - user: None
+ - tags: []
+
+## DeepMake
+ - [https://deepmake.com](https://deepmake.com)
+ - date published: 2023-12-09T00:22:25.769168+00:00
+ - user: None
+ - tags: []
+
+## AlphaCode
+ - [https://alphacode.deepmind.com](https://alphacode.deepmind.com)
+ - date published: 2023-10-25T13:47:52.658441+00:00
+ - user: None
+ - tags: []
+
+## Google DeepMind
+ - [https://www.deepmind.com](https://www.deepmind.com)
+ - date published: 2023-10-25T13:47:54.689117+00:00
+ - user: None
+ - tags: ['artificial intelligence']
+
+## Deepnote: Analytics and data science notebook for teams.
+ - [https://deepnote.com](https://deepnote.com)
+ - date published: 2023-10-25T13:47:56.980147+00:00
+ - user: None
+ - tags: []
+
+## Deepti Kannapan - Fiction writer, painter, and engineer
+ - [https://www.deeptikannapan.com](https://www.deeptikannapan.com)
+ - date published: 2023-12-31T16:46:51.630086+00:00
+ - user: None
+ - tags: []
+
+## DEEP VOODOO
+ - [https://www.deepvoodoo.com](https://www.deepvoodoo.com)
+ - date published: 2023-10-25T13:47:58.271089+00:00
+ - user: None
+ - tags: []
+
+## John Deere US | Products & Services Information
+ - [https://www.deere.com](https://www.deere.com)
+ - date published: 2024-01-30T17:02:42.432506+00:00
+ - user: None
+ - tags: ['agricultural machinery']
+
+## Deeter Cesler is your favorite person | strategist, software engineer, marketer
+ - [https://deetercesler.com](https://deetercesler.com)
+ - date published: 2024-01-22T18:18:53.973365+00:00
+ - user: None
+ - tags: []
+
+## Deezer plans | Compare Deezer's offer prices
+ - [https://www.deezer.com](https://www.deezer.com)
+ - date published: 2023-12-11T16:11:25.147244+00:00
+ - user: None
+ - tags: []
+
+## DEF CON Hacking Conference Online
+ - [https://www.defcononline.com](https://www.defcononline.com)
+ - date published: 2024-02-05T19:20:30.491695+00:00
+ - user: rumpel
+ - tags: ['hacking']
+
+## Defector | The last good website.
+ - [https://defector.com](https://defector.com)
+ - date published: 2023-10-25T13:48:09.544452+00:00
+ - user: None
+ - tags: []
+
+## Defence Blog
+ - [https://defence-blog.com](https://defence-blog.com)
+ - date published: 2023-06-27T15:28:10+00:00
+ - user: None
+ - tags: []
+
+## Defense Express - Ukraine military industry, technology, equipment
+ - [https://en.defence-ua.com](https://en.defence-ua.com)
+ - date published: 2023-12-25T22:35:54.461715+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://www.defensehere.com](https://www.defensehere.com)
  - date published: 2022-01-12T15:32:07+00:00
@@ -136,6 +280,12 @@
  - user: None
  - tags: ['personal']
 
+## Delta Emulator on iPhone FREE - Official Download (Now✔️)
+ - [https://deltaemulatorapp.com](https://deltaemulatorapp.com)
+ - date published: 2024-04-25T09:07:06+00:00
+ - user: rumpel
+ - tags: ['delta emulator']
+
 ## SEO Platform for Enterprises & Agencies - DemandSphere
  - [https://www.demandsphere.com](https://www.demandsphere.com)
  - date published: 2023-10-25T13:48:54.822392+00:00
@@ -149,14 +299,14 @@
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [http://democratherald.com](http://democratherald.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://democratherald.com](https://democratherald.com)
+ - date published: 2023-11-04T05:50:19.542658+00:00
  - user: None
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [https://democratherald.com](https://democratherald.com)
- - date published: 2023-11-04T05:50:19.542658+00:00
+ - [http://democratherald.com](http://democratherald.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -568,15 +718,15 @@
  - user: None
  - tags: []
 
-## introducing mazzle - a pipelines as code tool
- - [http://devops-pipeline.com](http://devops-pipeline.com)
- - date published: 2024-02-29T14:58:14.068438+00:00
- - user: None
- - tags: []
-
 ## Mazzle – A Pipelines as Code Tool
  - [https://devops-pipeline.com](https://devops-pipeline.com)
  - date published: 2023-12-31T11:15:08+00:00
+ - user: None
+ - tags: []
+
+## introducing mazzle - a pipelines as code tool
+ - [http://devops-pipeline.com](http://devops-pipeline.com)
+ - date published: 2024-02-29T14:58:14.068438+00:00
  - user: None
  - tags: []
 
@@ -1725,7 +1875,7 @@
  - [https://www.dosbox.com](https://www.dosbox.com)
  - date published: 2023-10-25T08:36:09.156025+00:00
  - user: None
- - tags: ['emulator']
+ - tags: ['emulator', 'dosbox']
 
 ## doscher.com
  - [https://www.doscher.com](https://www.doscher.com)
@@ -2613,7 +2763,7 @@
  - [https://dzidas.com](https://dzidas.com)
  - date published: 2023-10-25T14:00:31.747355+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## # Chris Dzombak
  - [https://www.dzombak.com](https://www.dzombak.com)
@@ -2961,7 +3111,7 @@
  - [https://www.edn.com](https://www.edn.com)
  - date published: 2023-10-25T14:03:44.549661+00:00
  - user: None
- - tags: []
+ - tags: ['articles', 'engineering', 'electronic']
 
 ## Comment gagner de l'argent : les véritables méthodes
  - [https://www.eduargent.com](https://www.eduargent.com)
@@ -3621,7 +3771,7 @@
  - [https://www.embarcadero.com](https://www.embarcadero.com)
  - date published: 2023-10-25T14:06:28.486531+00:00
  - user: None
- - tags: []
+ - tags: ['company', 'programming ide']
 
 ## Home - Embedded Artistry
  - [https://embeddedartistry.com](https://embeddedartistry.com)
@@ -4452,14 +4602,14 @@
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [http://www.espn.com](http://www.espn.com)
- - date published: 2024-02-25T16:13:57.477675+00:00
+ - [https://www.espn.com](https://www.espn.com)
+ - date published: 2023-10-25T10:09:24.738987+00:00
  - user: None
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [https://www.espn.com](https://www.espn.com)
- - date published: 2023-10-25T10:09:24.738987+00:00
+ - [http://www.espn.com](http://www.espn.com)
+ - date published: 2024-02-25T16:13:57.477675+00:00
  - user: None
  - tags: []
 
@@ -4677,7 +4827,7 @@
  - [https://eugeneyan.com](https://eugeneyan.com)
  - date published: 2023-10-25T14:10:14.129450+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Eukaryote Writes Blog | Risk, research, and life as a membrane-bound organism
  - [https://eukaryotewritesblog.com](https://eukaryotewritesblog.com)
@@ -5037,7 +5187,7 @@
  - [https://www.exactmetrics.com](https://www.exactmetrics.com)
  - date published: 2023-12-12T09:07:24.969158+00:00
  - user: None
- - tags: ['analytics']
+ - tags: ['wordpress', 'analytics']
 
 ## exaequOS
  - [https://www.exaequos.com](https://www.exaequos.com)
@@ -5292,14 +5442,14 @@
  - tags: []
 
 ## ezyang’s blog
- - [https://blog.ezyang.com](https://blog.ezyang.com)
- - date published: 2024-01-09T01:37:06.985730+00:00
+ - [http://blog.ezyang.com](http://blog.ezyang.com)
+ - date published: 2024-02-26T14:52:50.963348+00:00
  - user: None
  - tags: []
 
 ## ezyang’s blog
- - [http://blog.ezyang.com](http://blog.ezyang.com)
- - date published: 2024-02-26T14:52:50.963348+00:00
+ - [https://blog.ezyang.com](https://blog.ezyang.com)
+ - date published: 2024-01-09T01:37:06.985730+00:00
  - user: None
  - tags: []
 
@@ -5358,14 +5508,14 @@
  - tags: []
 
 ## Log in or sign up to view
- - [https://facebook.com](https://facebook.com)
- - date published: 2023-12-11T16:53:43.180916+00:00
+ - [http://facebook.com](http://facebook.com)
+ - date published: 2024-02-24T09:56:45.941514+00:00
  - user: None
  - tags: []
 
 ## Log in or sign up to view
- - [http://facebook.com](http://facebook.com)
- - date published: 2024-02-24T09:56:45.941514+00:00
+ - [https://facebook.com](https://facebook.com)
+ - date published: 2023-12-11T16:53:43.180916+00:00
  - user: None
  - tags: []
 
@@ -5790,14 +5940,14 @@
  - tags: []
 
 ## Fang-Pen's coding note
- - [http://fangpenlin.com](http://fangpenlin.com)
- - date published: 2024-01-14T00:00:00+00:00
+ - [https://fangpenlin.com](https://fangpenlin.com)
+ - date published: 2024-01-15T18:30:18.650651+00:00
  - user: None
  - tags: []
 
 ## Fang-Pen's coding note
- - [https://fangpenlin.com](https://fangpenlin.com)
- - date published: 2024-01-15T18:30:18.650651+00:00
+ - [http://fangpenlin.com](http://fangpenlin.com)
+ - date published: 2024-01-14T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5846,156 +5996,6 @@
 ## Far & Wise
  - [https://farandwise.com](https://farandwise.com)
  - date published: 2023-11-29T14:41:57.026153+00:00
- - user: None
- - tags: ['personal']
-
-## Marek Farebny
- - [https://farebny.com](https://farebny.com)
- - date published: 2024-01-08T15:37:20.897617+00:00
- - user: None
- - tags: []
-
-## Farida Adventures - Farida Adventures
- - [https://www.faridaadventures.com](https://www.faridaadventures.com)
- - date published: 2024-02-08T22:08:06.220610+00:00
- - user: None
- - tags: []
-
-## FarisZR
- - [https://fariszr.com](https://fariszr.com)
- - date published: 2023-10-25T14:27:04.259446+00:00
- - user: None
- - tags: []
-
-## Drew Curtis' FARK.com
- - [https://www.fark.com](https://www.fark.com)
- - date published: 2023-10-25T14:27:12.540081+00:00
- - user: None
- - tags: []
-
-## Far Manager Official Site : main
- - [https://www.farmanager.com](https://www.farmanager.com)
- - date published: 2023-10-25T14:27:13.447438+00:00
- - user: None
- - tags: []
-
-## Learn faster, Think better, and make Smart Decisions
- - [https://www.farnamstreetblog.com](https://www.farnamstreetblog.com)
- - date published: 2024-02-25T20:16:14.894269+00:00
- - user: None
- - tags: []
-
-## Welcome to Farnell Global | Global Electronic Component Distributor
- - [https://farnell.com](https://farnell.com)
- - date published: 2024-01-09T02:22:27.067058+00:00
- - user: None
- - tags: []
-
-## Farnell  - podzespoły elektroniczne
- - [https://pl.farnell.com](https://pl.farnell.com)
- - date published: 2023-10-25T11:14:57.081474+00:00
- - user: None
- - tags: ['electronic parts', 'raspberry']
-
-## fastcompany.com
- - [https://www.fastcompany.com](https://www.fastcompany.com)
- - date published: 2023-10-25T09:32:54.680145+00:00
- - user: None
- - tags: []
-
-## Fast Company Middle East: Latest News & Updates in Business, Technology & Design
- - [https://fastcompanyme.com](https://fastcompanyme.com)
- - date published: 2023-10-25T14:27:18.555483+00:00
- - user: None
- - tags: []
-
-## Fast Company Middle East: Latest News & Updates in Business, Technology & Design
- - [https://www.fastcompanyme.com](https://www.fastcompanyme.com)
- - date published: 2023-10-25T14:27:35.357244+00:00
- - user: None
- - tags: []
-
-## Home Minnesota WordPress Developer - Fast Fix Web Design
- - [https://fastfixwebdesign.com](https://fastfixwebdesign.com)
- - date published: 2024-02-08T22:02:41.437862+00:00
- - user: None
- - tags: []
-
-## Stop paying for expensive tuition and start saving money today.
- - [https://fastflowchart.com](https://fastflowchart.com)
- - date published: 2023-10-25T14:27:35.987764+00:00
- - user: None
- - tags: []
-
-## Causality for Machine Learning
- - [https://ff13.fastforwardlabs.com](https://ff13.fastforwardlabs.com)
- - date published: 2023-10-25T14:27:42.587796+00:00
- - user: None
- - tags: []
-
-## The edge cloud platform behind the best of the web | Fastly
- - [https://www.fastly.com](https://www.fastly.com)
- - date published: 2023-10-25T14:27:45.158485+00:00
- - user: None
- - tags: []
-
-## Fastmail | We Respect Your Privacy & Put You in Control
- - [https://www.fastmail.com](https://www.fastmail.com)
- - date published: 2023-10-25T14:27:47.232402+00:00
- - user: None
- - tags: []
-
-## Fastmail - Status
- - [https://fastmailstatus.com](https://fastmailstatus.com)
- - date published: 2023-10-25T14:27:49.382788+00:00
- - user: None
- - tags: []
-
-## Fastmail - Status
- - [https://www.fastmailstatus.com](https://www.fastmailstatus.com)
- - date published: 2023-10-25T14:27:50.680975+00:00
- - user: None
- - tags: []
-
-## Enhanced PostgreSQL for enterprise applications | Fujitsu
- - [https://www.postgresql.fastware.com](https://www.postgresql.fastware.com)
- - date published: 2023-10-25T14:27:54.131539+00:00
- - user: None
- - tags: []
-
-## Fatherly
- - [https://www.fatherly.com](https://www.fatherly.com)
- - date published: 2023-10-25T14:28:00.474199+00:00
- - user: None
- - tags: []
-
-## Fathers.com - National Center for Fathering
- - [https://fathers.com](https://fathers.com)
- - date published: 2023-10-25T14:28:06.222344+00:00
- - user: None
- - tags: []
-
-## Hot Rod Suspension | Fat Man Fabrications | Mint Hill
- - [https://www.fatmanfab.com](https://www.fatmanfab.com)
- - date published: 2024-02-08T21:48:56.352318+00:00
- - user: None
- - tags: []
-
-## https://faultlore.com
- - [https://faultlore.com](https://faultlore.com)
- - date published: 2024-01-09T02:36:29.891906+00:00
- - user: None
- - tags: []
-
-## Fauna | The distributed serverless database
- - [https://fauna.com](https://fauna.com)
- - date published: 2023-10-25T08:37:18.101548+00:00
- - user: None
- - tags: []
-
-## Faye Tan — in a nutshell
- - [https://www.faye-tan.com](https://www.faye-tan.com)
- - date published: 2024-04-05T01:37:10.365824+00:00
  - user: None
  - tags: ['personal']
 
