@@ -1,3 +1,123 @@
+## Synthwave Wiki | Fandom
+ - [https://synthwave.fandom.com](https://synthwave.fandom.com)
+ - date published: 2023-10-25T16:39:26.500542+00:00
+ - user: None
+ - tags: []
+
+## Teen Titans Go! Wiki
+ - [https://teen-titans-go.fandom.com](https://teen-titans-go.fandom.com)
+ - date published: 2024-02-08T19:57:11.367756+00:00
+ - user: None
+ - tags: []
+
+## Ultimate Pop Culture Wiki
+ - [https://ultimatepopculture.fandom.com](https://ultimatepopculture.fandom.com)
+ - date published: 2023-10-28T18:49:18.011319+00:00
+ - user: None
+ - tags: []
+
+## Warhammer 40k Wiki
+ - [https://warhammer40k.fandom.com](https://warhammer40k.fandom.com)
+ - date published: 2023-10-27T07:46:33.110234+00:00
+ - user: None
+ - tags: ['warhammer', 'tabletop games']
+
+## Warhammer Wiki
+ - [https://warhammerfantasy.fandom.com](https://warhammerfantasy.fandom.com)
+ - date published: 2023-10-27T07:27:31.367723+00:00
+ - user: None
+ - tags: []
+
+## Witcher Wiki | Fandom
+ - [https://witcher.fandom.com](https://witcher.fandom.com)
+ - date published: 2023-10-25T14:22:40.384454+00:00
+ - user: None
+ - tags: []
+
+## Wowpedia, the World of Warcraft wiki encyclopedia
+ - [https://wowpedia.fandom.com](https://wowpedia.fandom.com)
+ - date published: 2023-10-25T11:08:57.197894+00:00
+ - user: None
+ - tags: []
+
+## Wikitubia | Fandom
+ - [https://youtube.fandom.com](https://youtube.fandom.com)
+ - date published: 2023-10-25T14:26:53.856313+00:00
+ - user: None
+ - tags: []
+
+## FandomSpot
+ - [https://www.fandomspot.com](https://www.fandomspot.com)
+ - date published: 2023-10-25T11:16:25.035308+00:00
+ - user: None
+ - tags: []
+
+## FandomWire - #1 Source for All Things Entertainment
+ - [https://fandomwire.com](https://fandomwire.com)
+ - date published: 2023-12-09T10:18:19.951990+00:00
+ - user: None
+ - tags: []
+
+## Fang-Pen's coding note
+ - [https://fangpenlin.com](https://fangpenlin.com)
+ - date published: 2024-01-15T18:30:18.650651+00:00
+ - user: None
+ - tags: []
+
+## Fang-Pen's coding note
+ - [http://fangpenlin.com](http://fangpenlin.com)
+ - date published: 2024-01-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## FanGraphs Baseball | Baseball Statistics and Analysis
+ - [https://www.fangraphs.com](https://www.fangraphs.com)
+ - date published: 2024-04-23T17:31:38.824633+00:00
+ - user: None
+ - tags: ['baseball statistics']
+
+## Private Site
+ - [https://fangya18.com](https://fangya18.com)
+ - date published: 2023-12-30T09:52:26.070111+00:00
+ - user: None
+ - tags: ['personal']
+
+## Single-Family Homepage | Fannie Mae
+ - [https://singlefamily.fanniemae.com](https://singlefamily.fanniemae.com)
+ - date published: 2023-10-25T14:26:57.305682+00:00
+ - user: None
+ - tags: []
+
+## FansOfBatman.com - The Ultimate Batman Fansite
+ - [https://fansofbatman.com](https://fansofbatman.com)
+ - date published: 2023-11-27T12:53:57+00:00
+ - user: rumpel
+ - tags: []
+
+## Fantastic Anachronism
+ - [https://fantasticanachronism.com](https://fantasticanachronism.com)
+ - date published: 2023-10-25T14:27:02.677030+00:00
+ - user: None
+ - tags: []
+
+## Fantasy name generators. Names for all your fantasy characters.
+ - [https://www.fantasynamegenerators.com](https://www.fantasynamegenerators.com)
+ - date published: 2024-03-13T08:22:15+00:00
+ - user: rumpel
+ - tags: []
+
+## Fantization Miniatures
+ - [https://www.fantization.com](https://www.fantization.com)
+ - date published: 2023-10-27T07:55:56.306538+00:00
+ - user: None
+ - tags: []
+
+## Far & Wise
+ - [https://farandwise.com](https://farandwise.com)
+ - date published: 2023-11-29T14:41:57.026153+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Marek Farebny
  - [https://farebny.com](https://farebny.com)
  - date published: 2024-01-08T15:37:20.897617+00:00
@@ -280,15 +400,15 @@
  - user: None
  - tags: []
 
-## Error 404 (Not Found)!!1
- - [https://feeds.feedburner.com](https://feeds.feedburner.com)
- - date published: 2024-01-09T02:36:30.505752+00:00
- - user: None
- - tags: []
-
 ## None
  - [http://feeds.feedburner.com](http://feeds.feedburner.com)
  - date published: 2024-02-25T14:03:04.041505+00:00
+ - user: None
+ - tags: []
+
+## Error 404 (Not Found)!!1
+ - [https://feeds.feedburner.com](https://feeds.feedburner.com)
+ - date published: 2024-01-09T02:36:30.505752+00:00
  - user: None
  - tags: []
 
@@ -1364,7 +1484,7 @@
  - [https://www.forbes.com](https://www.forbes.com)
  - date published: 2023-10-25T10:26:08.645541+00:00
  - user: None
- - tags: []
+ - tags: ['media company']
 
 ## Forbes Africa
  - [https://www.forbesafrica.com](https://www.forbesafrica.com)
@@ -1385,14 +1505,14 @@
  - tags: []
 
 ## None
- - [http://forbiddenplanet.com](http://forbiddenplanet.com)
- - date published: 2024-02-25T20:20:06.293093+00:00
+ - [https://forbiddenplanet.com](https://forbiddenplanet.com)
+ - date published: 2024-02-25T20:19:58.237177+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://forbiddenplanet.com](https://forbiddenplanet.com)
- - date published: 2024-02-25T20:19:58.237177+00:00
+ - [http://forbiddenplanet.com](http://forbiddenplanet.com)
+ - date published: 2024-02-25T20:20:06.293093+00:00
  - user: None
  - tags: []
 
@@ -2795,14 +2915,14 @@
  - tags: []
 
 ## Game Programming Patterns
- - [https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com)
- - date published: 2024-02-21T07:23:55+00:00
+ - [http://gameprogrammingpatterns.com](http://gameprogrammingpatterns.com)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Game Programming Patterns
- - [http://gameprogrammingpatterns.com](http://gameprogrammingpatterns.com)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com)
+ - date published: 2024-02-21T07:23:55+00:00
  - user: None
  - tags: []
 
@@ -3159,6 +3279,12 @@
  - date published: 2024-04-08T09:33:38.532050+00:00
  - user: None
  - tags: ['personal']
+
+## GBFans.com - The Largest Ghostbusters Fan Community & Ghostbusters Wiki
+ - [https://www.gbfans.com](https://www.gbfans.com)
+ - date published: 2024-04-26T18:10:47+00:00
+ - user: rumpel
+ - tags: ['movie', 'ghostbusters']
 
 ## GBox - GMS GBox
  - [https://gboxlab.com](https://gboxlab.com)
@@ -3803,6 +3929,12 @@
  - user: None
  - tags: ['total commander', 'program']
 
+## Ghostbusters: Frozen Empire | Official Website | Sony Pictures
+ - [https://www.ghostbusters.com](https://www.ghostbusters.com)
+ - date published: 2024-04-26T18:09:53+00:00
+ - user: rumpel
+ - tags: ['movie']
+
 ## Three Sigma
  - [http://www.ghostextension.com](http://www.ghostextension.com)
  - date published: 2023-10-25T14:43:48.430661+00:00
@@ -4375,14 +4507,14 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Global Table Adventure | Bringing the World to your Kitchen
- - [https://globaltableadventure.com](https://globaltableadventure.com)
- - date published: 2023-11-17T07:29:02.885266+00:00
+ - [http://globaltableadventure.com](http://globaltableadventure.com)
+ - date published: 2024-04-03T06:32:06.444945+00:00
  - user: None
  - tags: ['personal']
 
 ## Global Table Adventure | Bringing the World to your Kitchen
- - [http://globaltableadventure.com](http://globaltableadventure.com)
- - date published: 2024-04-03T06:32:06.444945+00:00
+ - [https://globaltableadventure.com](https://globaltableadventure.com)
+ - date published: 2023-11-17T07:29:02.885266+00:00
  - user: None
  - tags: ['personal']
 
@@ -5668,14 +5800,14 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## Mike Cardwell - Grepular
- - [http://www.grepular.com](http://www.grepular.com)
- - date published: 2024-02-25T20:34:46.182983+00:00
+ - [https://www.grepular.com](https://www.grepular.com)
+ - date published: 2024-01-14T20:30:07.543187+00:00
  - user: None
  - tags: []
 
 ## Mike Cardwell - Grepular
- - [https://www.grepular.com](https://www.grepular.com)
- - date published: 2024-01-14T20:30:07.543187+00:00
+ - [http://www.grepular.com](http://www.grepular.com)
+ - date published: 2024-02-25T20:34:46.182983+00:00
  - user: None
  - tags: []
 
@@ -5868,138 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## GTAMods
  - [https://gtamods.com](https://gtamods.com)
  - date published: 2023-10-30T15:30:57.544169+00:00
- - user: None
- - tags: []
-
-## Glamorous Toolkit
- - [https://gtoolkit.com](https://gtoolkit.com)
- - date published: 2023-10-25T14:52:42.048850+00:00
- - user: None
- - tags: []
-
-## GTrainers - Game Trainers, Cheats and Savegames
- - [https://gtrainers.com](https://gtrainers.com)
- - date published: 2024-03-19T16:01:23+00:00
- - user: rumpel
- - tags: ['game trainers']
-
-## Game That Tune Radio
- - [https://gttradio.com](https://gttradio.com)
- - date published: 2024-02-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Guan Jie - an outlet of expression
- - [https://guanjiefung.com](https://guanjiefung.com)
- - date published: 2024-01-02T18:29:28.205874+00:00
- - user: None
- - tags: []
-
-## Guerilla Programmer
- - [https://guerillaprogrammer.com](https://guerillaprogrammer.com)
- - date published: 2023-12-18T01:35:55.800837+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Guernsey Press
- - [https://guernseypress.com](https://guernseypress.com)
- - date published: 2023-10-25T14:52:45.193590+00:00
- - user: None
- - tags: []
-
-## GuidedHacking - Learn Reverse Engineering & Game Hacking
- - [https://guidedhacking.com](https://guidedhacking.com)
- - date published: 2024-03-19T14:36:25+00:00
- - user: rumpel
- - tags: ['game hacking']
-
-## Guide Fari
- - [https://www.guidefari.com](https://www.guidefari.com)
- - date published: 2024-01-11T20:48:58.229124+00:00
- - user: None
- - tags: []
-
-## HN: I built a tool to create interactive demo in seconds for SaaS
- - [https://www.guideflow.com](https://www.guideflow.com)
- - date published: 2023-11-09T09:56:39+00:00
- - user: None
- - tags: []
-
-## https://www.guidepointsecurity.com
- - [https://www.guidepointsecurity.com](https://www.guidepointsecurity.com)
- - date published: 2024-01-09T02:37:52.275667+00:00
- - user: None
- - tags: []
-
-## The life and times of Guillermo A. Fisher
- - [https://guillermoandraefisher.com](https://guillermoandraefisher.com)
- - date published: 2023-12-26T19:09:34.798175+00:00
- - user: None
- - tags: ['personal']
-
-## Guillermo Latorre | Web personal
- - [https://guillermolatorre.com](https://guillermolatorre.com)
- - date published: 2023-11-29T13:54:54.576178+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Guinness World Records
- - [https://www.guinnessworldrecords.com](https://www.guinnessworldrecords.com)
- - date published: 2023-10-25T14:52:52.190698+00:00
- - user: None
- - tags: []
-
-## Guitar World
- - [https://www.guitarworld.com](https://www.guitarworld.com)
- - date published: 2023-10-25T14:53:00.754500+00:00
- - user: None
- - tags: []
-
-## Gulf Business - The Latest Middle Eastern & Arabian News
- - [https://gulfbusiness.com](https://gulfbusiness.com)
- - date published: 2020-07-17T12:03:34+00:00
- - user: None
- - tags: []
-
-## Gulf Insider - News, Opinions and Business in GCC
- - [https://www.gulf-insider.com](https://www.gulf-insider.com)
- - date published: 2023-10-25T10:12:42.660917+00:00
- - user: None
- - tags: []
-
-## Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema
- - [https://gulfnews.com](https://gulfnews.com)
- - date published: 2023-12-24T18:02:28.290664+00:00
- - user: None
- - tags: []
-
-## Gumlet - One-Stop Video Hosting and Video Streaming Solution
- - [https://www.gumlet.com](https://www.gumlet.com)
- - date published: 2023-10-25T08:37:04.991709+00:00
- - user: None
- - tags: []
-
-## Gumroad – Sell what you know and see what sticks
- - [https://gumroad.com](https://gumroad.com)
- - date published: 2024-04-07T06:00:14+00:00
- - user: rumpel
- - tags: ['digital marketplace']
-
-## Trevor Flowers at Transmutable
- - [https://transmutable.gumroad.com](https://transmutable.gumroad.com)
- - date published: 2023-10-25T14:53:01.739690+00:00
- - user: None
- - tags: []
-
-## Machato
- - [https://untimelyunicorn.gumroad.com](https://untimelyunicorn.gumroad.com)
- - date published: 2023-10-25T14:53:02.889118+00:00
- - user: None
- - tags: []
-
-## gumtrends
- - [https://gumtrends.com](https://gumtrends.com)
- - date published: 2023-10-25T14:53:03.883013+00:00
  - user: None
  - tags: []
 

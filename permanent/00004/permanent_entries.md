@@ -1,3 +1,57 @@
+## Home
+ - [https://cdevroe.com](https://cdevroe.com)
+ - date published: 2023-12-28T13:02:55+00:00
+ - user: None
+ - tags: ['personal']
+
+## The CDM-Project
+ - [https://cdm-project.com](https://cdm-project.com)
+ - date published: 2024-04-02T13:49:05+00:00
+ - user: rumpel
+ - tags: ['git', 'self-host']
+
+## https://cdnsciencepub.com
+ - [https://cdnsciencepub.com](https://cdnsciencepub.com)
+ - date published: 2023-11-24T05:43:49.617319+00:00
+ - user: None
+ - tags: []
+
+## Home - CD PROJEKT
+ - [https://www.cdprojekt.com](https://www.cdprojekt.com)
+ - date published: 2023-10-25T14:21:50.256113+00:00
+ - user: None
+ - tags: ['witcher', 'cyberpunk']
+
+## CD PROJEKT RED - Award-winning creators of story-driven role-playing games.
+ - [https://www.cdprojektred.com](https://www.cdprojektred.com)
+ - date published: 2023-10-30T18:25:46.679662+00:00
+ - user: None
+ - tags: ['video game developer', 'company']
+
+## Carbon dioxide removal API
+ - [https://docs.cdrplatform.com](https://docs.cdrplatform.com)
+ - date published: 2023-10-25T13:19:36.142531+00:00
+ - user: None
+ - tags: []
+
+## Cedar Language Playground
+ - [https://www.cedarpolicy.com](https://www.cedarpolicy.com)
+ - date published: 2023-10-25T13:19:37.088830+00:00
+ - user: None
+ - tags: []
+
+## Cedric Charly's Blog
+ - [https://blog.cedriccharly.com](https://blog.cedriccharly.com)
+ - date published: 2023-10-25T09:19:37.116006+00:00
+ - user: None
+ - tags: ['personal']
+
+## Celebrity Private Jet Flights & Environmental Impact | CelebrityFlight
+ - [https://celebrityflight.com](https://celebrityflight.com)
+ - date published: 2023-10-25T13:19:38.895120+00:00
+ - user: None
+ - tags: []
+
 ## CelerData | Enterprise Real-Time Analytics on StarRocks
  - [https://celerdata.com](https://celerdata.com)
  - date published: 2023-10-25T13:19:40.897775+00:00
@@ -179,14 +233,14 @@
  - tags: ['personal']
 
 ## Open Path by Chad Whitacre
- - [https://openpath.chadwhitacre.com](https://openpath.chadwhitacre.com)
- - date published: 2024-01-22T07:17:07.392204+00:00
+ - [http://openpath.chadwhitacre.com](http://openpath.chadwhitacre.com)
+ - date published: 2024-02-26T09:41:25.750324+00:00
  - user: None
  - tags: []
 
 ## Open Path by Chad Whitacre
- - [http://openpath.chadwhitacre.com](http://openpath.chadwhitacre.com)
- - date published: 2024-02-26T09:41:25.750324+00:00
+ - [https://openpath.chadwhitacre.com](https://openpath.chadwhitacre.com)
+ - date published: 2024-01-22T07:17:07.392204+00:00
  - user: None
  - tags: []
 
@@ -1001,16 +1055,16 @@
  - tags: []
 
 ## Blog | Chris Warrick
- - [https://chriswarrick.com](https://chriswarrick.com)
- - date published: 2023-10-25T09:19:47.812882+00:00
- - user: None
- - tags: ['personal']
-
-## Blog | Chris Warrick
  - [http://chriswarrick.com](http://chriswarrick.com)
  - date published: 2024-02-25T15:45:10.545891+00:00
  - user: None
  - tags: []
+
+## Blog | Chris Warrick
+ - [https://chriswarrick.com](https://chriswarrick.com)
+ - date published: 2023-10-25T09:19:47.812882+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Chris Zacharias
  - [https://blog.chriszacharias.com](https://blog.chriszacharias.com)
@@ -1636,15 +1690,21 @@
  - user: None
  - tags: []
 
-## Cliffle
- - [https://cliffle.com](https://cliffle.com)
- - date published: 2023-10-25T13:26:33.249479+00:00
+## Privacy-friendly Website Analytics | GDPR-compliant, Real-time, Google Analytics alternative | Clicky
+ - [https://clicky.com](https://clicky.com)
+ - date published: 2024-01-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Cliffle
  - [http://cliffle.com](http://cliffle.com)
  - date published: 2024-02-25T18:23:52.604762+00:00
+ - user: None
+ - tags: []
+
+## Cliffle
+ - [https://cliffle.com](https://cliffle.com)
+ - date published: 2023-10-25T13:26:33.249479+00:00
  - user: None
  - tags: []
 
@@ -2246,6 +2306,12 @@
  - date published: 2023-10-25T13:28:40.388558+00:00
  - user: None
  - tags: ['ruby', 'personal', 'rails', 'tutorials']
+
+## Code With Tomi
+ - [https://codewithtomi.com](https://codewithtomi.com)
+ - date published: 2024-04-26T10:30:59+00:00
+ - user: rumpel
+ - tags: ['python', 'personal']
 
 ## CodeWritePlay – Game Development, Tech, Humor
  - [https://codewriteplay.com](https://codewriteplay.com)
@@ -3279,15 +3345,15 @@
  - user: None
  - tags: []
 
-## Cory Shaw | Cory Shaw
- - [https://coryshaw.com](https://coryshaw.com)
- - date published: 2024-01-08T15:36:54.508225+00:00
- - user: None
- - tags: ['personal']
-
 ## Cory Shaw
  - [http://coryshaw.com](http://coryshaw.com)
  - date published: 2024-04-03T06:25:46.463221+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cory Shaw | Cory Shaw
+ - [https://coryshaw.com](https://coryshaw.com)
+ - date published: 2024-01-08T15:36:54.508225+00:00
  - user: None
  - tags: ['personal']
 
@@ -3717,6 +3783,12 @@
  - user: None
  - tags: []
 
+## Free credit scores and tools to make financial progress
+ - [https://www.creditkarma.com](https://www.creditkarma.com)
+ - date published: 2024-04-26T18:52:13.281169+00:00
+ - user: None
+ - tags: []
+
 ## Poland
  - [https://www.credit-suisse.com](https://www.credit-suisse.com)
  - date published: 2024-03-16T18:26:55.762222+00:00
@@ -3885,6 +3957,12 @@
  - user: None
  - tags: ['anime', 'video streaming']
 
+## CrushFTP - Enterprise Grade File Transfer for Everyone
+ - [https://www.crushftp.com](https://www.crushftp.com)
+ - date published: 2024-04-26T14:25:55+00:00
+ - user: rumpel
+ - tags: ['ftp', 'file server']
+
 ## Crux | Taking the Catholic Pulse
  - [https://cruxnow.com](https://cruxnow.com)
  - date published: 2023-10-25T13:37:31.700192+00:00
@@ -4045,7 +4123,7 @@
  - [https://www.cssartist.com](https://www.cssartist.com)
  - date published: 2024-04-25T21:21:21.367151+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## CSS Dig
  - [https://www.cssdig.com](https://www.cssdig.com)
@@ -4122,6 +4200,12 @@
 ## Show HN: Cujobay – A Modern Alternative to Crunchbase
  - [https://www.cujobay.com](https://www.cujobay.com)
  - date published: 2023-12-07T13:22:16+00:00
+ - user: None
+ - tags: []
+
+## cDc communications | CULT OF THE DEAD COW | Hacktivismo | Ninja Strike Force
+ - [https://cultdeadcow.com](https://cultdeadcow.com)
+ - date published: 2023-08-11T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4585,6 +4669,12 @@
 ## Daily Kos
  - [https://www.dailykos.com](https://www.dailykos.com)
  - date published: 2024-01-23T19:07:08.621253+00:00
+ - user: None
+ - tags: []
+
+## Dailymotion
+ - [https://www.dailymotion.com](https://www.dailymotion.com)
+ - date published: 2024-04-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5913,94 +6003,4 @@
  - date published: 2024-01-09T02:34:11.195175+00:00
  - user: None
  - tags: ['artificial intelligence bot']
-
-## All posts | Archy de Berker
- - [https://archy.deberker.com](https://archy.deberker.com)
- - date published: 2023-10-25T13:47:02.854781+00:00
- - user: None
- - tags: []
-
-## Home | debjitbanerjee
- - [https://www.debjitbanerjee.com](https://www.debjitbanerjee.com)
- - date published: 2024-04-09T22:15:45.296646+00:00
- - user: None
- - tags: ['personal']
-
-## Deborah Peacock Photography - Home
- - [https://www.deborahpeacock.com](https://www.deborahpeacock.com)
- - date published: 2024-01-13T04:52:40.631780+00:00
- - user: None
- - tags: []
-
-## Deborah Peacock Photography - Home
- - [http://www.deborahpeacock.com](http://www.deborahpeacock.com)
- - date published: 2024-04-03T06:24:15.192889+00:00
- - user: None
- - tags: ['personal']
-
-## Deborah Zhang
- - [https://deborahzhang.com](https://deborahzhang.com)
- - date published: 2024-01-09T01:38:17.640286+00:00
- - user: None
- - tags: []
-
-## Java, Debugging, DevOps & Open Source
- - [https://debugagent.com](https://debugagent.com)
- - date published: 2023-10-25T13:47:06.814636+00:00
- - user: None
- - tags: []
-
-## Decathlon | Move people through the wonders of sport | Decathlon
- - [https://www.decathlon.com](https://www.decathlon.com)
- - date published: 2023-10-25T13:47:16.336867+00:00
- - user: None
- - tags: []
-
-## decaturdaily.com | The Independent Voice of the Tennessee Valley since 1912
- - [https://www.decaturdaily.com](https://www.decaturdaily.com)
- - date published: 2023-11-05T17:32:42.494420+00:00
- - user: None
- - tags: []
-
-## Latest News Today: Breaking News and Top Headlines from India, Politics, Bengaluru, Entertainment, Business and Sports
- - [https://www.deccanherald.com](https://www.deccanherald.com)
- - date published: 2023-10-25T13:47:18.731813+00:00
- - user: None
- - tags: []
-
-## Besluiten waarmee je groeit in impact op mens en omgeving
- - [https://decideforimpact.com](https://decideforimpact.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Decider
- - [https://decider.com](https://decider.com)
- - date published: 2023-11-27T11:27:44+00:00
- - user: None
- - tags: ['video streaming filter']
-
-## Decipad — Make sense of numbers
- - [https://www.decipad.com](https://www.decipad.com)
- - date published: 2023-10-25T13:47:20.389396+00:00
- - user: None
- - tags: []
-
-## https://www.decisionproblem.com
- - [https://www.decisionproblem.com](https://www.decisionproblem.com)
- - date published: 2024-01-09T02:34:12.826076+00:00
- - user: None
- - tags: []
-
-## Account Suspended
- - [https://www.decodame.com](https://www.decodame.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Decode39 - Decode39
- - [https://decode39.com](https://decode39.com)
- - date published: 2024-01-06T14:01:43.023731+00:00
- - user: None
- - tags: []
 

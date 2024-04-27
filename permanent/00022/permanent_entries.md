@@ -1,3 +1,454 @@
+## Home
+ - [https://jontillman.me](https://jontillman.me)
+ - date published: 2024-03-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Joost Jansen
+ - [https://joostjansen.me](https://joostjansen.me)
+ - date published: 2023-10-25T20:20:26.328305+00:00
+ - user: None
+ - tags: []
+
+## Joseph Tame in Tokyo | ジョセフ・テイム |
+ - [https://josephta.me](https://josephta.me)
+ - date published: 2024-01-02T10:20:08.926321+00:00
+ - user: None
+ - tags: []
+
+## Josh Anderson
+ - [https://joshanderson.me](https://joshanderson.me)
+ - date published: 2023-10-25T08:50:31.529094+00:00
+ - user: None
+ - tags: ['personal']
+
+## Josh Beard
+ - [https://joshbeard.me](https://joshbeard.me)
+ - date published: 2024-01-05T01:04:28.973590+00:00
+ - user: None
+ - tags: []
+
+## Jazmine (JT) Green
+ - [https://www.jtgreen.me](https://www.jtgreen.me)
+ - date published: 2024-04-03T06:29:08.739940+00:00
+ - user: None
+ - tags: ['personal']
+
+## HN - Recommendation
+ - [https://hn-recommend.julienc.me](https://hn-recommend.julienc.me)
+ - date published: 2023-10-25T20:20:26.855778+00:00
+ - user: None
+ - tags: []
+
+## Jamie Tanna | Software Engineer
+ · Jamie Tanna | Software Engineer
+ - [https://www.jvt.me](https://www.jvt.me)
+ - date published: 2023-10-25T08:50:33.488748+00:00
+ - user: None
+ - tags: ['personal']
+
+## Index | katafrakt's garden
+ - [https://katafrakt.me](https://katafrakt.me)
+ - date published: 2023-10-25T08:50:34.441819+00:00
+ - user: None
+ - tags: ['personal']
+
+## 可乐周报 | happy xiao | Substack
+ - [https://www.kele.me](https://www.kele.me)
+ - date published: 2024-04-03T06:30:55.348686+00:00
+ - user: None
+ - tags: ['personal']
+
+## Marketing Advisor, Mentor, & Educator
+ - [https://kevin.me](https://kevin.me)
+ - date published: 2024-01-21T04:57:47.011935+00:00
+ - user: None
+ - tags: []
+
+## Keyvan Kambakhsh
+ - [https://keyvan.me](https://keyvan.me)
+ - date published: 2024-02-01T22:55:36.282572+00:00
+ - user: None
+ - tags: []
+
+## Modern Web Development with Chrome
+ - [https://paul.kinlan.me](https://paul.kinlan.me)
+ - date published: 2023-10-25T20:20:27.860589+00:00
+ - user: None
+ - tags: []
+
+## Klafyvel's personal page
+ - [https://klafyvel.me](https://klafyvel.me)
+ - date published: 2023-10-25T08:50:35.431083+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kevin Norman
+ - [https://kn100.me](https://kn100.me)
+ - date published: 2024-04-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Knowledge Ecologist
+ - [https://www.knowledgeecologist.me](https://www.knowledgeecologist.me)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## KYCNOT.me Blog
+ - [https://blog.kycnot.me](https://blog.kycnot.me)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Kyle’s Tech Korner
+ - [https://www.kylereddoch.me](https://www.kylereddoch.me)
+ - date published: 2024-02-02T01:33:53.349222+00:00
+ - user: None
+ - tags: []
+
+## About
+ - [https://laplab.me](https://laplab.me)
+ - date published: 2023-10-25T08:50:36.037865+00:00
+ - user: None
+ - tags: ['personal']
+
+## Management Coach & Trainer for the Tech Industry | Lara Hogan
+ - [https://larahogan.me](https://larahogan.me)
+ - date published: 2016-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Daniel Lemire's blog
+ - [https://lemire.me](https://lemire.me)
+ - date published: 2023-10-25T08:57:12.664570+00:00
+ - user: None
+ - tags: ['personal']
+
+## aooohan - Overview
+ - [https://lhan.me](https://lhan.me)
+ - date published: 2024-04-22T15:15:21+00:00
+ - user: rumpel
+ - tags: []
+
+## vfox | The Multiple SDK Version Manager
+ - [https://vfox.lhan.me](https://vfox.lhan.me)
+ - date published: 2024-04-22T13:31:16.868970+00:00
+ - user: None
+ - tags: ['sdk version manager', 'open source']
+
+## Blog
+ - [https://blog.liallen.me](https://blog.liallen.me)
+ - date published: 2024-01-14T08:12:58.144221+00:00
+ - user: None
+ - tags: []
+
+## 静水铭室 Silent Water and Curved Mountain
+ - [https://liuliu.me](https://liuliu.me)
+ - date published: 2023-10-25T20:20:32.015989+00:00
+ - user: None
+ - tags: []
+
+## 静水铭室 Silent Water and Curved Mountain
+ - [http://liuliu.me](http://liuliu.me)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome - impact punk
+ - [https://lnz.me](https://lnz.me)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## I'm Alex MacArthur
+ - [https://macarthur.me](https://macarthur.me)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## I'm Alex MacArthur
+ - [https://www.macarthur.me](https://www.macarthur.me)
+ - date published: 2023-10-25T08:50:37.022613+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://macoy.me](https://macoy.me)
+ - date published: 2023-10-25T20:20:33.858057+00:00
+ - user: None
+ - tags: []
+
+## Madelen
+ - [https://blog.madelen.me](https://blog.madelen.me)
+ - date published: 2024-04-03T06:22:50.383080+00:00
+ - user: None
+ - tags: ['personal']
+
+## Manoj Ranaweera – The man who built Manchester’s Tech Startup Ecosystem
+ - [http://manojranaweera.me](http://manojranaweera.me)
+ - date published: 2024-04-03T12:42:38.568400+00:00
+ - user: None
+ - tags: ['personal']
+
+## Manoj Ranaweera – The man who built Manchester's Tech Startup Ecosystem
+ - [https://manojranaweera.me](https://manojranaweera.me)
+ - date published: 2024-01-07T22:19:45.375154+00:00
+ - user: None
+ - tags: ['personal']
+
+## MaskRay
+ - [https://maskray.me](https://maskray.me)
+ - date published: 2023-10-25T08:59:54.363115+00:00
+ - user: None
+ - tags: ['personal']
+
+## Matthieu's blog
+ - [https://blog.matthieud.me](https://blog.matthieud.me)
+ - date published: 2023-10-25T08:59:55.198007+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://mattyv.me
+ - [https://mattyv.me](https://mattyv.me)
+ - date published: 2024-01-01T17:22:42.346756+00:00
+ - user: None
+ - tags: []
+
+## Mes productions de podcast et participations - maune.me
+ - [https://www.maune.me](https://www.maune.me)
+ - date published: 2024-01-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mes productions de podcast et participations - maune.me
+ - [http://www.maune.me](http://www.maune.me)
+ - date published: 2023-12-22T22:30:51.890778+00:00
+ - user: None
+ - tags: ['personal']
+
+## Max Greenwald
+ - [https://maxgreenwald.me](https://maxgreenwald.me)
+ - date published: 2023-10-25T08:50:38.396994+00:00
+ - user: None
+ - tags: ['personal']
+
+## ABOUT ME  | Peter A McDowell
+ - [https://www.mcdoogle.me](https://www.mcdoogle.me)
+ - date published: 2024-01-10T22:41:29.774768+00:00
+ - user: None
+ - tags: []
+
+## https://mgregory22.me
+ - [https://mgregory22.me](https://mgregory22.me)
+ - date published: 2023-10-27T12:05:23.328151+00:00
+ - user: None
+ - tags: []
+
+## Mihai Olteanu
+ - [https://mihaiolteanu.me](https://mihaiolteanu.me)
+ - date published: 2023-10-25T20:20:34.685721+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Mike Smith
+ - [https://www.mikesmith.me](https://www.mikesmith.me)
+ - date published: 2024-02-14T08:42:26.523809+00:00
+ - user: None
+ - tags: ['personal']
+
+## milen.me — About
+ - [https://milen.me](https://milen.me)
+ - date published: 2023-10-25T20:20:35.555910+00:00
+ - user: None
+ - tags: []
+
+## Matt's Headroom
+ - [https://blog.millerti.me](https://blog.millerti.me)
+ - date published: 2023-10-25T08:59:55.745324+00:00
+ - user: None
+ - tags: ['personal']
+
+## Misframe - Home
+ - [https://misfra.me](https://misfra.me)
+ - date published: 2023-10-25T20:20:39.309810+00:00
+ - user: None
+ - tags: []
+
+## Yury Molodtsov
+ - [https://molodtsov.me](https://molodtsov.me)
+ - date published: 2023-10-25T09:22:27.300795+00:00
+ - user: None
+ - tags: ['personal']
+
+## Monica Giambitto
+ - [https://monicag.me](https://monicag.me)
+ - date published: 2023-11-29T15:51:06.075857+00:00
+ - user: None
+ - tags: ['personal']
+
+## Riccardo Mori | Writer & Translator
+ - [https://morrick.me](https://morrick.me)
+ - date published: 2023-10-25T20:20:42.075379+00:00
+ - user: None
+ - tags: []
+
+## { mrsk mE }
+ - [https://vez.mrsk.me](https://vez.mrsk.me)
+ - date published: 2023-10-25T20:20:42.804549+00:00
+ - user: None
+ - tags: []
+
+## Mudkip Mud Sport
+ - [https://mudkip.me](https://mudkip.me)
+ - date published: 2024-03-27T17:20:53.821105+00:00
+ - user: None
+ - tags: []
+
+## Muhammad | Personal Blog where I write about things I learn or discover.
+ - [https://muhammadraza.me](https://muhammadraza.me)
+ - date published: 2023-10-25T20:20:43.774048+00:00
+ - user: None
+ - tags: ['personal']
+
+## মুরাদুল ইসলাম
+ - [https://muradulislam.me](https://muradulislam.me)
+ - date published: 2023-11-29T14:18:24.389418+00:00
+ - user: None
+ - tags: ['personal']
+
+## a blog by biggiemac42
+ - [https://btm.qva.mybluehost.me](https://btm.qva.mybluehost.me)
+ - date published: 2023-10-25T09:22:31.896364+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://wkk.usa.mybluehost.me
+ - [https://wkk.usa.mybluehost.me](https://wkk.usa.mybluehost.me)
+ - date published: 2024-01-09T03:34:17.212869+00:00
+ - user: None
+ - tags: []
+
+## nadreck.me
+ - [https://nadreck.me](https://nadreck.me)
+ - date published: 2024-02-09T21:40:28.411438+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nate's Notes
+ - [https://natedunn.me](https://natedunn.me)
+ - date published: 2023-11-29T17:13:27.372479+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Nathan Rose
+ - [https://nathanrose.me](https://nathanrose.me)
+ - date published: 2020-11-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Navendu Pottekkat
+ - [https://navendu.me](https://navendu.me)
+ - date published: 2023-10-25T08:59:57.701859+00:00
+ - user: None
+ - tags: ['personal']
+
+## It's Nicky Case!
+ - [https://ncase.me](https://ncase.me)
+ - date published: 2023-10-25T08:50:40.025023+00:00
+ - user: None
+ - tags: ['personal']
+
+## Show HN: NeedleDrop – Guess the movie from a song
+ - [https://www.needledrop.me](https://www.needledrop.me)
+ - date published: 2024-03-05T14:59:29+00:00
+ - user: None
+ - tags: []
+
+## Nick Gerakines
+ - [https://ngerakines.me](https://ngerakines.me)
+ - date published: 2023-12-23T19:28:08.759580+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nick's Blog – Projects in Math, Science and Programming
+ - [https://nickmcd.me](https://nickmcd.me)
+ - date published: 2023-12-30T15:38:19.710290+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nic Lake
+ - [https://niclake.me](https://niclake.me)
+ - date published: 2024-04-20T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## njump - the nostr static gateway
+ - [https://njump.me](https://njump.me)
+ - date published: 2023-12-21T11:05:09.550900+00:00
+ - user: None
+ - tags: []
+
+## CGM UKScene Radio - PC, Amiga, C64 & Spectrum Demoscene music
+ - [http://cgm-stream.noip.me](http://cgm-stream.noip.me)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CGM UKScene Radio (Pi)
+ - [http://cgmuksceneradio-pi.noip.me](http://cgmuksceneradio-pi.noip.me)
+ - date published: 2024-02-11T14:28:17.972960+00:00
+ - user: None
+ - tags: ['chiptune', 'keygen', 'demoscene']
+
+## Nova Skin - Minecraft Skin Editor
+ - [https://minecraft.novaskin.me](https://minecraft.novaskin.me)
+ - date published: 2023-10-30T15:19:59.219664+00:00
+ - user: None
+ - tags: ['minecraft online tool']
+
+## Dolphin, now on iOS! - DolphiniOS
+ - [https://dolphinios.oatmealdome.me](https://dolphinios.oatmealdome.me)
+ - date published: 2024-04-26T13:20:30+00:00
+ - user: rumpel
+ - tags: ['dolphinios', 'gamecube', 'dolphin', 'emulator']
+
+## oatmealdome.me
+ - [https://oatmealdome.me](https://oatmealdome.me)
+ - date published: 2024-04-20T03:39:14.471301+00:00
+ - user: None
+ - tags: ['personal']
+
+## Open Graph protocol
+ - [http://ogp.me](http://ogp.me)
+ - date published: 2024-04-24T08:00:18.364945+00:00
+ - user: None
+ - tags: ['open source', 'meta data', 'standart', 'web standard', 'internet']
+
+## Open Graph protocol
+ - [https://ogp.me](https://ogp.me)
+ - date published: 2023-12-11T16:53:52.586635+00:00
+ - user: None
+ - tags: []
+
+## okJuan
+ - [https://okjuan.me](https://okjuan.me)
+ - date published: 2024-03-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Oleg Kutkov personal blog – Programming, electronics and diy projects
+ - [https://olegkutkov.me](https://olegkutkov.me)
+ - date published: 2024-02-29T16:26:29.855589+00:00
+ - user: None
+ - tags: ['personal']
+
+## Automate this — blog about AI, Management and Engineering
+ - [https://olegtarasov.me](https://olegtarasov.me)
+ - date published: 2024-04-13T06:31:56.611599+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Omar Shehata
  - [https://omarshehata.me](https://omarshehata.me)
  - date published: 2023-10-25T08:50:42.172246+00:00
@@ -995,16 +1446,16 @@
  - tags: []
 
 ## Griffin Moe - Hello!
- - [https://griffin.moe](https://griffin.moe)
- - date published: 2023-10-25T08:51:27.477820+00:00
- - user: None
- - tags: ['personal']
-
-## Griffin Moe - Hello!
  - [http://griffin.moe](http://griffin.moe)
  - date published: 1939-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Griffin Moe - Hello!
+ - [https://griffin.moe](https://griffin.moe)
+ - date published: 2023-10-25T08:51:27.477820+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Paper Chan hideout
  - [https://paper-chan.moe](https://paper-chan.moe)
@@ -1289,14 +1740,14 @@
  - tags: []
 
 ## Mackenzie Morgan
- - [http://mackenzie.morgan.name](http://mackenzie.morgan.name)
- - date published: 2024-04-03T06:22:47.388814+00:00
+ - [https://mackenzie.morgan.name](https://mackenzie.morgan.name)
+ - date published: 2023-11-29T17:07:05.410622+00:00
  - user: None
  - tags: ['personal']
 
 ## Mackenzie Morgan
- - [https://mackenzie.morgan.name](https://mackenzie.morgan.name)
- - date published: 2023-11-29T17:07:05.410622+00:00
+ - [http://mackenzie.morgan.name](http://mackenzie.morgan.name)
+ - date published: 2024-04-03T06:22:47.388814+00:00
  - user: None
  - tags: ['personal']
 
@@ -1871,14 +2322,14 @@
  - tags: []
 
 ## Aminet - Latest packages, last 14 days
- - [https://aminet.net](https://aminet.net)
- - date published: 2023-12-11T17:38:05.809988+00:00
+ - [http://aminet.net](http://aminet.net)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Aminet - Latest packages, last 14 days
- - [http://aminet.net](http://aminet.net)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://aminet.net](https://aminet.net)
+ - date published: 2023-12-11T17:38:05.809988+00:00
  - user: None
  - tags: []
 
@@ -1913,14 +2364,14 @@
  - tags: []
 
 ## Aminet - Latest packages, last 14 days
- - [https://os4.aminet.net](https://os4.aminet.net)
- - date published: 2023-12-13T15:07:30.007257+00:00
+ - [http://os4.aminet.net](http://os4.aminet.net)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Aminet - Latest packages, last 14 days
- - [http://os4.aminet.net](http://os4.aminet.net)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://os4.aminet.net](https://os4.aminet.net)
+ - date published: 2023-12-13T15:07:30.007257+00:00
  - user: None
  - tags: []
 
@@ -1997,14 +2448,14 @@
  - tags: ['personal']
 
 ## andreinc
- - [http://www.andreinc.net](http://www.andreinc.net)
- - date published: 2024-02-26T14:43:20.222033+00:00
+ - [https://www.andreinc.net](https://www.andreinc.net)
+ - date published: 2023-10-25T20:24:41.741120+00:00
  - user: None
  - tags: []
 
 ## andreinc
- - [https://www.andreinc.net](https://www.andreinc.net)
- - date published: 2023-10-25T20:24:41.741120+00:00
+ - [http://www.andreinc.net](http://www.andreinc.net)
+ - date published: 2024-02-26T14:43:20.222033+00:00
  - user: None
  - tags: []
 
@@ -2192,7 +2643,7 @@
  - [https://asp.net](https://asp.net)
  - date published: 2024-04-12T02:45:42.419515+00:00
  - user: None
- - tags: []
+ - tags: ['.net', 'open source']
 
 ## AtaDistance
  - [https://atadistance.net](https://atadistance.net)
@@ -2911,14 +3362,14 @@ Buildings in Saint Louis, Missouri
  - tags: []
 
 ## cmyr.net
- - [https://www.cmyr.net](https://www.cmyr.net)
- - date published: 2023-10-25T20:27:57.868244+00:00
+ - [http://www.cmyr.net](http://www.cmyr.net)
+ - date published: 2024-02-26T14:49:26.885827+00:00
  - user: None
  - tags: []
 
 ## cmyr.net
- - [http://www.cmyr.net](http://www.cmyr.net)
- - date published: 2024-02-26T14:49:26.885827+00:00
+ - [https://www.cmyr.net](https://www.cmyr.net)
+ - date published: 2023-10-25T20:27:57.868244+00:00
  - user: None
  - tags: []
 
@@ -3115,26 +3566,26 @@ Buildings in Saint Louis, Missouri
  - tags: []
 
 ## Sergiu's Homepage - Hi! I'm Sergiu Calborean.
- - [https://www.csergiu.net](https://www.csergiu.net)
- - date published: 2023-12-31T13:22:46.078902+00:00
- - user: None
- - tags: []
-
-## Sergiu's Homepage - Hi! I'm Sergiu Calborean.
  - [http://www.csergiu.net](http://www.csergiu.net)
  - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
-## Welcome - CVGM.net - Chiptune, Retro & Video Game Music
- - [https://radio.cvgm.net](https://radio.cvgm.net)
- - date published: 2023-01-01T00:00:00+00:00
+## Sergiu's Homepage - Hi! I'm Sergiu Calborean.
+ - [https://www.csergiu.net](https://www.csergiu.net)
+ - date published: 2023-12-31T13:22:46.078902+00:00
  - user: None
  - tags: []
 
 ## Welcome - CVGM.net - Chiptune, Retro & Video Game Music
  - [http://radio.cvgm.net](http://radio.cvgm.net)
  - date published: 2024-02-15T02:00:20.008732+00:00
+ - user: None
+ - tags: []
+
+## Welcome - CVGM.net - Chiptune, Retro & Video Game Music
+ - [https://radio.cvgm.net](https://radio.cvgm.net)
+ - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3175,14 +3626,14 @@ Buildings in Saint Louis, Missouri
  - tags: []
 
 ## daemonology.net
- - [http://www.daemonology.net](http://www.daemonology.net)
- - date published: 2024-02-25T19:34:32.110343+00:00
+ - [https://www.daemonology.net](https://www.daemonology.net)
+ - date published: 2023-10-25T20:28:33.979177+00:00
  - user: None
  - tags: []
 
 ## daemonology.net
- - [https://www.daemonology.net](https://www.daemonology.net)
- - date published: 2023-10-25T20:28:33.979177+00:00
+ - [http://www.daemonology.net](http://www.daemonology.net)
+ - date published: 2024-02-25T19:34:32.110343+00:00
  - user: None
  - tags: []
 
@@ -3343,13 +3794,13 @@ Buildings in Saint Louis, Missouri
  - tags: ['personal']
 
 ## Telnet BBS
- - [https://shsbbs.ddns.net](https://shsbbs.ddns.net)
+ - [http://shsbbs.ddns.net](http://shsbbs.ddns.net)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Telnet BBS
- - [http://shsbbs.ddns.net](http://shsbbs.ddns.net)
+ - [https://shsbbs.ddns.net](https://shsbbs.ddns.net)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -3805,16 +4256,16 @@ Buildings in Saint Louis, Missouri
  - tags: []
 
 ## Eurogamer.net
- - [http://www.eurogamer.net](http://www.eurogamer.net)
- - date published: 2024-03-24T15:04:08.963405+00:00
- - user: None
- - tags: []
-
-## Eurogamer.net
  - [https://www.eurogamer.net](https://www.eurogamer.net)
  - date published: 1999-10-25T10:50:22+00:00
  - user: None
  - tags: ['video game news']
+
+## Eurogamer.net
+ - [http://www.eurogamer.net](http://www.eurogamer.net)
+ - date published: 2024-03-24T15:04:08.963405+00:00
+ - user: None
+ - tags: []
 
 ## Eve Silver - Bio, Contact, and More
  - [https://www.evesilver.net](https://www.evesilver.net)
@@ -4477,14 +4928,14 @@ Buildings in Saint Louis, Missouri
  - tags: []
 
 ## HEXUS.net - Definitive Technology News and Reviews
- - [https://hexus.net](https://hexus.net)
- - date published: 2023-10-25T20:31:28.683808+00:00
+ - [http://hexus.net](http://hexus.net)
+ - date published: 2024-02-25T20:35:33.294351+00:00
  - user: None
  - tags: []
 
 ## HEXUS.net - Definitive Technology News and Reviews
- - [http://hexus.net](http://hexus.net)
- - date published: 2024-02-25T20:35:33.294351+00:00
+ - [https://hexus.net](https://hexus.net)
+ - date published: 2023-10-25T20:31:28.683808+00:00
  - user: None
  - tags: []
 
@@ -4602,15 +5053,15 @@ Buildings in Saint Louis, Missouri
  - user: None
  - tags: []
 
-## Home – iA
- - [https://ia.net](https://ia.net)
- - date published: 2023-10-25T20:31:41.939052+00:00
- - user: None
- - tags: []
-
 ## iA - Home
  - [http://ia.net](http://ia.net)
  - date published: 2024-02-26T14:54:49.326176+00:00
+ - user: None
+ - tags: []
+
+## Home – iA
+ - [https://ia.net](https://ia.net)
+ - date published: 2023-10-25T20:31:41.939052+00:00
  - user: None
  - tags: []
 
@@ -5094,17 +5545,17 @@ Buildings in Saint Louis, Missouri
  - user: None
  - tags: []
 
-## Mike's Blog — Technologist at Large
- - [https://blog.karliner.net](https://blog.karliner.net)
- - date published: 2023-10-25T09:23:11.406124+00:00
- - user: None
- - tags: ['personal']
-
 ## Mike's Blog
  - [http://blog.karliner.net](http://blog.karliner.net)
  - date published: 2000-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Mike's Blog — Technologist at Large
+ - [https://blog.karliner.net](https://blog.karliner.net)
+ - date published: 2023-10-25T09:23:11.406124+00:00
+ - user: None
+ - tags: ['personal']
 
 ## I build websites, software products and electronic devices.
  - [https://kaspars.net](https://kaspars.net)
@@ -5420,16 +5871,16 @@ Buildings in Saint Louis, Missouri
  - tags: ['demoscene']
 
 ## [Liquid DooM]
- - [https://liquiddoom.net](https://liquiddoom.net)
- - date published: 2024-02-15T22:13:28.553273+00:00
- - user: None
- - tags: ['demoscene']
-
-## [Liquid DooM]
  - [http://liquiddoom.net](http://liquiddoom.net)
  - date published: 2024-02-11T14:38:30.795082+00:00
  - user: None
  - tags: ['doom', 'video game music']
+
+## [Liquid DooM]
+ - [https://liquiddoom.net](https://liquiddoom.net)
+ - date published: 2024-02-15T22:13:28.553273+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Liquipedia
  - [https://liquipedia.net](https://liquipedia.net)
@@ -5550,454 +6001,4 @@ Buildings in Saint Louis, Missouri
  - date published: 2023-12-14T01:20:17.921823+00:00
  - user: None
  - tags: ['personal']
-
-## Lutris - Open Gaming Platform
- - [https://lutris.net](https://lutris.net)
- - date published: 2023-10-25T08:35:41.232931+00:00
- - user: None
- - tags: ['game launcher', 'open source']
-
-## Luxagraf: thoughts on ecology, culture, travel, photography, walking and other ephemera
- - [https://luxagraf.net](https://luxagraf.net)
- - date published: 2024-01-09T11:07:21.549562+00:00
- - user: None
- - tags: []
-
-## Welcome to LWN.net [LWN.net]
- - [https://lwn.net](https://lwn.net)
- - date published: 2023-10-25T20:33:18.171971+00:00
- - user: None
- - tags: ['news', 'linux', 'articles']
-
-## www.eklektix.com/lwn
- - [https://static.lwn.net](https://static.lwn.net)
- - date published: 2024-03-02T19:19:16.367743+00:00
- - user: None
- - tags: []
-
-## Amiga Graphics Archive
- - [https://amiga.lychesis.net](https://amiga.lychesis.net)
- - date published: 2023-10-30T10:13:32.873579+00:00
- - user: None
- - tags: ['retro games', 'amiga']
-
-## Home - Lyonsden Blog
- - [https://lyonsden.net](https://lyonsden.net)
- - date published: 2023-10-25T11:19:07.342674+00:00
- - user: None
- - tags: []
-
-## Introducing Cheetah: A Lightweight Virtual Machine Manager for macOS | Cheetah
- - [https://macspot.net](https://macspot.net)
- - date published: 2023-10-25T20:33:19.344039+00:00
- - user: None
- - tags: []
-
-## MacStories
- - [https://www.macstories.net](https://www.macstories.net)
- - date published: 2024-03-04T17:44:50.912332+00:00
- - user: None
- - tags: []
-
-## Mad Camp! (coming 2024 stay tuned)
- - [https://madcamp.net](https://madcamp.net)
- - date published: 2024-02-26T08:54:34.515761+00:00
- - user: None
- - tags: []
-
-## Mad Camp! (coming 2024 stay tuned)
- - [https://www.madcamp.net](https://www.madcamp.net)
- - date published: 2023-12-20T09:12:49.749827+00:00
- - user: None
- - tags: []
-
-## MADEBYAL
- - [https://www.madebyal.net](https://www.madebyal.net)
- - date published: 2023-11-29T14:44:40.937041+00:00
- - user: None
- - tags: ['personal']
-
-## MADEBYAL
- - [http://www.madebyal.net](http://www.madebyal.net)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://mannyvallarino.net](https://mannyvallarino.net)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.mannyvallarino.net](https://www.mannyvallarino.net)
- - date published: 2023-12-14T01:27:54.207135+00:00
- - user: None
- - tags: ['personal']
-
-## Man Things
- - [https://manthings.net](https://manthings.net)
- - date published: 2024-01-04T03:32:56.183567+00:00
- - user: None
- - tags: []
-
-## The Map of the Universe
- - [https://mapoftheuniverse.net](https://mapoftheuniverse.net)
- - date published: 2023-10-25T08:25:19.111191+00:00
- - user: None
- - tags: []
-
-## N=1 (marcua’s blog) | I’m the Co-Founder and CTO of B12, where we’re building a better future of creative and analytical work. Before that, I was Director of Data at Locu, a startup that was acquired by GoDaddy. I went to grad school at MIT’s CSAIL. One time in Jerusalem I ate a whole tub of hummus on my own. I don’t regret that day.
- - [https://blog.marcua.net](https://blog.marcua.net)
- - date published: 2023-10-25T20:33:20.374918+00:00
- - user: None
- - tags: []
-
-## Marijuana Moment - All your cannabis news, in one place
- - [https://www.marijuanamoment.net](https://www.marijuanamoment.net)
- - date published: 2023-10-25T20:33:26.925572+00:00
- - user: None
- - tags: []
-
-## Mark Carrigan
- - [https://markcarrigan.net](https://markcarrigan.net)
- - date published: 2023-11-21T11:09:36.282019+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## Mark Smart
- - [http://www.marksmart.net](http://www.marksmart.net)
- - date published: 2023-11-15T17:40:13.256468+00:00
- - user: None
- - tags: ['personal']
-
-## The No-9to5-Guy Austria > Remote work and flexible lifestyle!
- - [https://www.markusraab.net](https://www.markusraab.net)
- - date published: 2023-11-29T14:41:21.924083+00:00
- - user: None
- - tags: ['personal']
-
-## Maryse's Book Blog - Following my heart, one book at a time...
- - [https://www.maryse.net](https://www.maryse.net)
- - date published: 2024-01-23T13:42:58+00:00
- - user: None
- - tags: ['book reviews']
-
-## MathOverflow
- - [https://mathoverflow.net](https://mathoverflow.net)
- - date published: 2023-10-25T20:33:30.026920+00:00
- - user: None
- - tags: []
-
-## Recent Discussions - Matrix Fans Official Forum
- - [https://forums.matrixfans.net](https://forums.matrixfans.net)
- - date published: 2023-10-25T16:24:25.044961+00:00
- - user: None
- - tags: []
-
-## Matrix Fans - The Matrix Resurrections News, Trailers, Posters
- - [https://www.matrixfans.net](https://www.matrixfans.net)
- - date published: 2023-10-25T16:23:48.175925+00:00
- - user: None
- - tags: []
-
-## Matt Mahoney's Home Page
- - [http://mattmahoney.net](http://mattmahoney.net)
- - date published: 2003-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Piano Lessons in Austin TX, Musician, and Coffee Enthusiast
- - [https://mattmclaughlin.net](https://mattmclaughlin.net)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Matt Wynne
- - [https://mattwynne.net](https://mattwynne.net)
- - date published: 2023-10-25T08:53:05.442698+00:00
- - user: None
- - tags: ['personal']
-
-## Maze Generator
- - [https://mazegenerator.net](https://mazegenerator.net)
- - date published: 2023-12-22T09:11:08+00:00
- - user: None
- - tags: []
-
-## McQN.net
- - [https://www.mcqn.net](https://www.mcqn.net)
- - date published: 2003-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## McSweeney’s Internet Tendency
- - [https://www.mcsweeneys.net](https://www.mcsweeneys.net)
- - date published: 2023-10-25T20:33:32.469274+00:00
- - user: None
- - tags: []
-
-## MCToon
- - [https://mctoon.net](https://mctoon.net)
- - date published: 2023-10-25T20:33:39.743559+00:00
- - user: None
- - tags: ['flat earth']
-
-## An Untitled Blog
- - [https://nate.mecca1.net](https://nate.mecca1.net)
- - date published: 2024-03-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## mediageek
- - [https://mediageek.net](https://mediageek.net)
- - date published: 2024-04-03T06:26:16.410922+00:00
- - user: None
- - tags: ['personal']
-
-## Medievalists.net - Where the Middle Ages Begin
- - [https://www.medievalists.net](https://www.medievalists.net)
- - date published: 2023-10-25T20:33:42.220747+00:00
- - user: None
- - tags: []
-
-## Men Rights India - Fight against Legal Terrorism
- - [https://menrightsindia.net](https://menrightsindia.net)
- - date published: 2023-10-25T20:33:43.991054+00:00
- - user: None
- - tags: []
-
-## MenuetOS
- - [https://menuetos.net](https://menuetos.net)
- - date published: 2023-10-25T08:32:01.277687+00:00
- - user: None
- - tags: []
-
-## MenuetOS
- - [https://www.menuetos.net](https://www.menuetos.net)
- - date published: 2023-10-29T22:06:17.393907+00:00
- - user: None
- - tags: []
-
-## Home page of George B. Mertzios
- - [https://mertzios.net](https://mertzios.net)
- - date published: 2024-02-08T22:00:58.386525+00:00
- - user: None
- - tags: []
-
-## mess with dns
- - [https://messwithdns.net](https://messwithdns.net)
- - date published: 2023-10-25T20:33:44.669726+00:00
- - user: None
- - tags: []
-
-## Lincoln Cannon | Technological Evolution and Postsecular Religion
- - [https://lincoln.metacannon.net](https://lincoln.metacannon.net)
- - date published: 2024-02-08T17:46:04.752806+00:00
- - user: None
- - tags: []
-
-## Heavy Metal News, Music Videos, Tour Dates - Metal Injection
- - [https://metalinjection.net](https://metalinjection.net)
- - date published: 2023-11-02T09:14:46.967961+00:00
- - user: None
- - tags: []
-
-## Metal Storm
- - [https://metalstorm.net](https://metalstorm.net)
- - date published: 2023-11-02T09:15:21.901367+00:00
- - user: None
- - tags: []
-
-## https://metaltoilet.net
- - [https://metaltoilet.net](https://metaltoilet.net)
- - date published: 2023-10-25T20:33:45.878115+00:00
- - user: None
- - tags: []
-
-## Meziantou's blog
- - [https://www.meziantou.net](https://www.meziantou.net)
- - date published: 2023-10-25T09:23:16.052241+00:00
- - user: None
- - tags: ['personal']
-
-## Posts
- - [https://mfiano.net](https://mfiano.net)
- - date published: 2023-10-25T20:33:46.763605+00:00
- - user: None
- - tags: []
-
-## Michael Altfield's Tech Blog - Technology, Science, and the pursuit of Enlightenment
- - [https://tech.michaelaltfield.net](https://tech.michaelaltfield.net)
- - date published: 2023-10-25T20:33:49.526354+00:00
- - user: None
- - tags: []
-
-## Michael Burns Home Page
- - [https://www.michaelburns.net](https://www.michaelburns.net)
- - date published: 2023-10-25T20:33:52.485316+00:00
- - user: None
- - tags: []
-
-## Homepage Redeal Grid - Microadia: Coupons, Promo Codes, Offers, Deals & Discounts
- - [https://microadia.net](https://microadia.net)
- - date published: 2023-11-27T06:26:58.233134+00:00
- - user: None
- - tags: []
-
-## Middle East Eye: News, Opinion, and Analysis | Middle East Eye
- - [https://www.middleeasteye.net](https://www.middleeasteye.net)
- - date published: 2023-10-25T20:33:56.885428+00:00
- - user: None
- - tags: []
-
-## Matt Might
- - [https://matt.might.net](https://matt.might.net)
- - date published: 2023-10-25T09:23:18.396889+00:00
- - user: None
- - tags: ['personal']
-
-## Matt Might
- - [http://matt.might.net](http://matt.might.net)
- - date published: 2016-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nemanja Mijailovic's Blog
- - [https://mijailovic.net](https://mijailovic.net)
- - date published: 2023-10-25T09:23:24.318126+00:00
- - user: None
- - tags: ['personal']
-
-## Michael Kohn - Home
- - [https://www.mikekohn.net](https://www.mikekohn.net)
- - date published: 2023-10-25T20:33:58.454003+00:00
- - user: None
- - tags: []
-
-## Czech/in/Japan
- - [https://www.milanvit.net](https://www.milanvit.net)
- - date published: 2023-10-25T08:53:15.153678+00:00
- - user: None
- - tags: ['personal']
-
-## Welcome to the Minecraft Official Site
- - [https://www.minecraft.net](https://www.minecraft.net)
- - date published: 2023-10-25T08:39:46.892619+00:00
- - user: None
- - tags: ['game']
-
-## Minecraft Forge downloads
- - [https://files.minecraftforge.net](https://files.minecraftforge.net)
- - date published: 2024-02-10T09:13:04+00:00
- - user: rumpel
- - tags: []
-
-## Minecraft Forge Forums Homepage
- - [https://minecraftforge.net](https://minecraftforge.net)
- - date published: 2024-02-10T00:00:00+00:00
- - user: rumpel
- - tags: ['mods', 'minecraft']
-
-## Minecraft Forum
- - [https://www.minecraftforum.net](https://www.minecraftforum.net)
- - date published: 2023-12-13T16:20:11.653452+00:00
- - user: None
- - tags: []
-
-## Minetest | Open source voxel game engine
- - [https://www.minetest.net](https://www.minetest.net)
- - date published: 2023-10-25T20:33:59.488993+00:00
- - user: None
- - tags: ['game', 'open source', 'minecraft']
-
-## Error | Drupal
- - [https://www.miningbusiness.net](https://www.miningbusiness.net)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Miranda May, Funeral/Memorial Celebrant serving families in New Mexico, Colorado, and Arizona.
- - [https://mirandamay.net](https://mirandamay.net)
- - date published: 2024-02-11T04:56:04.448324+00:00
- - user: None
- - tags: ['personal']
-
-## MIRRORSITE.NET :: Archive of rare files
- - [http://www.mirrorsite.net](http://www.mirrorsite.net)
- - date published: 2023-10-25T20:34:00.194721+00:00
- - user: None
- - tags: []
-
-## Misskey Hub â€“ Misskeyãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ å…¬å¼�ã‚µã‚¤ãƒˆ
- - [https://misskey-hub.net](https://misskey-hub.net)
- - date published: 2024-02-24T09:55:14.512672+00:00
- - user: None
- - tags: []
-
-## Mr. Manpower's Guide To Overall Manhood Enhancement | Mistermanpower
- - [https://www.mistermanpower.net](https://www.mistermanpower.net)
- - date published: 2023-11-29T17:10:26.335851+00:00
- - user: None
- - tags: ['personal']
-
-## Mixmag - The World's Biggest Dance Music and Clubbing Destination
- - [https://mixmag.net](https://mixmag.net)
- - date published: 2023-11-23T13:15:18.237726+00:00
- - user: None
- - tags: []
-
-## Books at mixu.net
- - [https://book.mixu.net](https://book.mixu.net)
- - date published: 2023-10-25T20:34:01.737645+00:00
- - user: None
- - tags: []
-
-## Mortal Kombat Secrets: The Most Informative Mortal Kombat Source on the Web
- - [https://www.mksecrets.net](https://www.mksecrets.net)
- - date published: 2024-04-07T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## mnot
- - [https://www.mnot.net](https://www.mnot.net)
- - date published: 2023-12-19T11:52:36.289444+00:00
- - user: None
- - tags: []
-
-## Mobatek blog
- - [https://blog.mobatek.net](https://blog.mobatek.net)
- - date published: 2023-12-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mobatek - System and network software for Windows
- - [https://mobatek.net](https://mobatek.net)
- - date published: 2024-02-26T07:43:22+00:00
- - user: rumpel
- - tags: []
-
-## MobaXterm free Xserver and tabbed SSH client for Windows
- - [https://mobaxterm.mobatek.net](https://mobaxterm.mobatek.net)
- - date published: 2023-10-30T14:11:40.446975+00:00
- - user: None
- - tags: ['ssh', 'terminal']
-
-## MobileGTA.net - GTA Mods, Cars, Maps and Skins for Android & iOS.
- - [https://www.mobilegta.net](https://www.mobilegta.net)
- - date published: 2023-10-25T11:18:02.316371+00:00
- - user: None
- - tags: []
-
-## Modiphius - Publisher of RPG's, miniatures, & tabletop board games
- - [https://www.modiphius.net](https://www.modiphius.net)
- - date published: 2024-01-17T00:00:00+00:00
- - user: rumpel
- - tags: ['miniatures', 'tabletop games', 'wargames', 'tabletop games developer']
-
-## Gaming Mods Community - ModLand.net
- - [https://www.modland.net](https://www.modland.net)
- - date published: 2023-10-28T20:37:21.020092+00:00
- - user: None
- - tags: ['game mods']
 

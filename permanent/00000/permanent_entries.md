@@ -1064,7 +1064,7 @@
  - [https://lunartech.ai](https://lunartech.ai)
  - date published: 2024-04-25T21:21:17.760872+00:00
  - user: None
- - tags: []
+ - tags: ['monetization', 'service', 'education']
 
 ## Mastodon
  - [https://masto.ai](https://masto.ai)
@@ -1355,13 +1355,13 @@
  - tags: []
 
 ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## http://hello.pi.ai/
- - [http://hello.pi.ai](http://hello.pi.ai)
+ - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -1713,6 +1713,12 @@
  - date published: 2023-10-25T11:44:18.736977+00:00
  - user: None
  - tags: []
+
+## The Fastest AI
+ - [https://thefastest.ai](https://thefastest.ai)
+ - date published: 2024-04-26T04:00:00+00:00
+ - user: None
+ - tags: ['artificial intelligence', 'machine learning', 'performance test']
 
 ## TigerLab – Adversarial Testing for LLMs and Chatbots
  - [https://www.tigerlab.ai](https://www.tigerlab.ai)
@@ -2138,7 +2144,7 @@
  - [https://compressx.app](https://compressx.app)
  - date published: 2024-04-10T06:32:18+00:00
  - user: None
- - tags: []
+ - tags: ['propietary', 'monetization']
 
 ## Consensus - Evidence-Based Answers, Faster
  - [https://consensus.app](https://consensus.app)
@@ -3776,7 +3782,7 @@
  - [https://wheresyoured.at](https://wheresyoured.at)
  - date published: 2023-10-25T09:38:58.101054+00:00
  - user: None
- - tags: ['substack']
+ - tags: ['personal', 'substack']
 
 ## Ed Zitron's Where's Your Ed At
  - [https://www.wheresyoured.at](https://www.wheresyoured.at)
@@ -3839,16 +3845,16 @@
  - tags: []
 
 ## Now - Adam Ashton
- - [http://www.adamashton.com.au](http://www.adamashton.com.au)
- - date published: 2024-04-03T12:46:14.376541+00:00
- - user: None
- - tags: ['personal']
-
-## Now - Adam Ashton
  - [https://www.adamashton.com.au](https://www.adamashton.com.au)
  - date published: 2024-01-10T18:10:16.445630+00:00
  - user: None
  - tags: []
+
+## Now - Adam Ashton
+ - [http://www.adamashton.com.au](http://www.adamashton.com.au)
+ - date published: 2024-04-03T12:46:14.376541+00:00
+ - user: None
+ - tags: ['personal']
 
 ## 404 Not Found
  - [https://www.adelaidenow.com.au](https://www.adelaidenow.com.au)
@@ -4025,16 +4031,16 @@
  - tags: []
 
 ## Home
- - [https://kerrygrace.com.au](https://kerrygrace.com.au)
- - date published: 2024-01-09T21:36:51.535431+00:00
- - user: None
- - tags: []
-
-## Home
  - [http://kerrygrace.com.au](http://kerrygrace.com.au)
  - date published: 2024-04-03T06:27:02.750662+00:00
  - user: None
  - tags: ['personal']
+
+## Home
+ - [https://kerrygrace.com.au](https://kerrygrace.com.au)
+ - date published: 2024-01-09T21:36:51.535431+00:00
+ - user: None
+ - tags: []
 
 ## Kotaku Australia | See Games Differently
  - [https://www.kotaku.com.au](https://www.kotaku.com.au)
@@ -4727,16 +4733,16 @@
  - tags: []
 
 ## Denny Wong - Learn, think, write and do.
- - [http://dewo.be](http://dewo.be)
- - date published: 2018-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Denny Wong - Learn, think, write and do.
  - [https://dewo.be](https://dewo.be)
  - date published: 2023-11-29T14:18:04.127765+00:00
  - user: None
  - tags: ['personal']
+
+## Denny Wong - Learn, think, write and do.
+ - [http://dewo.be](http://dewo.be)
+ - date published: 2018-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Dries Depoorter – artist and speaker working with technology 🔥
  - [https://driesdepoorter.be](https://driesdepoorter.be)
@@ -4798,17 +4804,17 @@
  - user: None
  - tags: []
 
-## Liero - Official website
- - [https://www.liero.be](https://www.liero.be)
- - date published: 2023-10-26T18:32:21.331231+00:00
- - user: None
- - tags: ['open source', 'game', 'retro game']
-
 ## Original Sling'n'shoot Worms Game
  - [http://www.liero.be](http://www.liero.be)
  - date published: 2023-12-28T18:40:30+00:00
  - user: None
  - tags: []
+
+## Liero - Official website
+ - [https://www.liero.be](https://www.liero.be)
+ - date published: 2023-10-26T18:32:21.331231+00:00
+ - user: None
+ - tags: ['open source', 'game', 'retro game']
 
 ## Home
  - [https://www.mjvanhee.be](https://www.mjvanhee.be)
@@ -4865,16 +4871,16 @@
  - tags: []
 
 ## Home: New - Shakalaka
- - [http://shakalaka.be](http://shakalaka.be)
- - date published: 2023-12-22T22:29:41.716940+00:00
- - user: None
- - tags: ['personal']
-
-## Home: New - Shakalaka
  - [https://shakalaka.be](https://shakalaka.be)
  - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
+
+## Home: New - Shakalaka
+ - [http://shakalaka.be](http://shakalaka.be)
+ - date published: 2023-12-22T22:29:41.716940+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Steffest - web developer
  - [https://www.stef.be](https://www.stef.be)
@@ -5224,6 +5230,12 @@
  - user: None
  - tags: []
 
+## Candost's Blog
+ - [https://candost.blog](https://candost.blog)
+ - date published: 2024-04-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Mediations with Candost | Candost Dagdeviren | Substack
  - [https://mediations.candost.blog](https://mediations.candost.blog)
  - date published: 2024-02-26T09:03:53.111236+00:00
@@ -5291,14 +5303,14 @@
  - tags: ['personal']
 
 ## Dagan.Blog – Education Futurist
- - [http://dagan.blog](http://dagan.blog)
- - date published: 2024-02-25T19:34:43.972971+00:00
+ - [https://dagan.blog](https://dagan.blog)
+ - date published: 2024-01-09T02:26:37.338771+00:00
  - user: None
  - tags: ['personal']
 
 ## Dagan.Blog – Education Futurist
- - [https://dagan.blog](https://dagan.blog)
- - date published: 2024-01-09T02:26:37.338771+00:00
+ - [http://dagan.blog](http://dagan.blog)
+ - date published: 2024-02-25T19:34:43.972971+00:00
  - user: None
  - tags: ['personal']
 
@@ -5986,16 +5998,4 @@
  - date published: 2023-12-23T07:30:31.973271+00:00
  - user: None
  - tags: ['personal']
-
-## Mods GTA San Andreas
- - [https://www.gta-sa.com.br](https://www.gta-sa.com.br)
- - date published: 2023-10-25T11:08:27.421230+00:00
- - user: None
- - tags: []
-
-## Inferno3
- - [https://www.inferno3.com.br](https://www.inferno3.com.br)
- - date published: 2024-03-27T20:50:41.342565+00:00
- - user: None
- - tags: ['mud game']
 

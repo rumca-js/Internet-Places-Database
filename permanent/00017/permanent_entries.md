@@ -1,3 +1,378 @@
+## Blogless — Writing Articles online without a Blog
+ - [https://blogless.datenbrei.de](https://blogless.datenbrei.de)
+ - date published: 2023-10-25T18:29:26.642822+00:00
+ - user: None
+ - tags: []
+
+## lists.denx.de Mailing Lists
+ - [https://lists.denx.de](https://lists.denx.de)
+ - date published: 2023-10-25T18:29:27.869041+00:00
+ - user: None
+ - tags: []
+
+## Deutschlands größtes Beschleunigerzentrum - Deutsches Elektronen-Synchrotron DESY
+ - [https://www.desy.de](https://www.desy.de)
+ - date published: 2023-10-25T18:29:33.914611+00:00
+ - user: None
+ - tags: []
+
+## Bücherantiquariat vor allem von Kinderbüchern von Christine und Detlef 
+Heinsohn
+ - [https://www.detlef-heinsohn.de](https://www.detlef-heinsohn.de)
+ - date published: 2024-02-08T22:04:05.568193+00:00
+ - user: None
+ - tags: []
+
+## deutschland.de - Your link to Germany
+ - [https://www.deutschland.de](https://www.deutschland.de)
+ - date published: 2023-10-25T18:29:41.108581+00:00
+ - user: None
+ - tags: ['german news']
+
+## :: DJ TOBANDER - Official Website ::
+ - [https://dj-tobander.de](https://dj-tobander.de)
+ - date published: 2024-01-12T02:34:43.341559+00:00
+ - user: None
+ - tags: []
+
+## German Cancer Research Center
+ - [https://www.dkfz.de](https://www.dkfz.de)
+ - date published: 2023-10-25T18:30:06.376806+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.dzne.de](https://www.dzne.de)
+ - date published: 2024-03-27T20:05:53.450422+00:00
+ - user: None
+ - tags: []
+
+## e-basteln
+ - [https://www.e-basteln.de](https://www.e-basteln.de)
+ - date published: 2023-10-25T18:30:07.534543+00:00
+ - user: None
+ - tags: []
+
+## Startseite - Econtribute
+ - [https://www.econtribute.de](https://www.econtribute.de)
+ - date published: 2023-10-25T18:30:10.727479+00:00
+ - user: None
+ - tags: []
+
+## Except software AG
+ - [https://www.exept.de](https://www.exept.de)
+ - date published: 2024-03-14T15:24:26+00:00
+ - user: rumpel
+ - tags: ['expecco']
+
+## Fabian Kleiser
+ - [https://www.fabian-keller.de](https://www.fabian-keller.de)
+ - date published: 2023-12-27T01:00:18.809608+00:00
+ - user: None
+ - tags: ['personal']
+
+## Fabian Kleiser
+ - [https://www.fabian-kleiser.de](https://www.fabian-kleiser.de)
+ - date published: 2023-08-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## FACTOR 5
+ - [http://www.factor5.de](http://www.factor5.de)
+ - date published: 2023-11-02T10:55:33.784420+00:00
+ - user: None
+ - tags: ['amiga']
+
+## fantotal.de Onlineshop für Merchandise | CDs Vinyl | Gothic Metal Pun
+ - [https://fantotal.de](https://fantotal.de)
+ - date published: 2023-11-13T09:40:58.541752+00:00
+ - user: None
+ - tags: ['shop', 'music']
+
+## Lemmymap - a lemmy federation map
+ - [https://lemmymap.feddit.de](https://lemmymap.feddit.de)
+ - date published: 2023-10-25T18:30:11.155382+00:00
+ - user: None
+ - tags: []
+
+## felix fisgus | Felix Fisgus
+ - [https://felixfisgus.de](https://felixfisgus.de)
+ - date published: 2023-10-25T18:30:12.186826+00:00
+ - user: None
+ - tags: []
+
+## Felix Geisendörfer
+ - [https://blog.felixge.de](https://blog.felixge.de)
+ - date published: 2023-10-25T18:30:14.021327+00:00
+ - user: None
+ - tags: []
+
+## Fenix Magazin - Početna
+ - [https://fenix-magazin.de](https://fenix-magazin.de)
+ - date published: 2023-10-30T19:00:12.736074+00:00
+ - user: None
+ - tags: []
+
+## feststelltaste – About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
+ - [https://www.feststelltaste.de](https://www.feststelltaste.de)
+ - date published: 2023-10-25T18:30:19.967784+00:00
+ - user: None
+ - tags: []
+
+## Florian Heidenreich – Indie Software Developer from Dresden
+ - [https://fheidenreich.de](https://fheidenreich.de)
+ - date published: 2024-01-07T17:48:40.202500+00:00
+ - user: None
+ - tags: []
+
+## Finanz-Designerin: Finanziell frei in 5 Jahren.
+ - [https://www.finanz-designerin.de](https://www.finanz-designerin.de)
+ - date published: 2024-02-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Formfacade - 
+        
+        Customize Google Forms UI
+ - [https://formfaca.de](https://formfaca.de)
+ - date published: 2024-02-08T22:06:36.088214+00:00
+ - user: None
+ - tags: []
+
+## Nachrichten aus Deutschland und der Welt | Frankfurter Rundschau
+ - [https://www.fr.de](https://www.fr.de)
+ - date published: 2023-11-28T20:39:40+00:00
+ - user: rumpel
+ - tags: ['politic news', 'german news']
+
+## Franzi.Flows - Franzi.Flows
+ - [https://franziflows.de](https://franziflows.de)
+ - date published: 2024-01-11T20:48:30.425372+00:00
+ - user: None
+ - tags: []
+
+## Startseite Fraunhofer-Gesellschaft
+ - [https://fraunhofer.de](https://fraunhofer.de)
+ - date published: 2024-03-14T00:00:00+00:00
+ - user: rumpel
+ - tags: ['news']
+
+## Malpedia (Fraunhofer FKIE)
+ - [https://malpedia.caad.fkie.fraunhofer.de](https://malpedia.caad.fkie.fraunhofer.de)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
+## Institute for Digital Medicine -  Fraunhofer MEVIS
+ - [https://mevis.fraunhofer.de](https://mevis.fraunhofer.de)
+ - date published: 2024-02-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Startseite Fraunhofer-Gesellschaft
+ - [https://www.fraunhofer.de](https://www.fraunhofer.de)
+ - date published: 2023-10-25T18:30:27.906517+00:00
+ - user: None
+ - tags: []
+
+## Fraunhofer IISB (English)
+ - [https://www.iisb.fraunhofer.de](https://www.iisb.fraunhofer.de)
+ - date published: 2023-10-25T18:30:29.853786+00:00
+ - user: None
+ - tags: []
+
+## Forschen für die Energiewende - Fraunhofer-Institut für Solare Energiesysteme ISE -  Fraunhofer ISE
+ - [https://www.ise.fraunhofer.de](https://www.ise.fraunhofer.de)
+ - date published: 2023-10-25T18:30:39.964840+00:00
+ - user: None
+ - tags: []
+
+## FRUNC – Schnall den Rucksack um, Ulf. Ich glaub, es geht los!
+ - [https://frunc.de](https://frunc.de)
+ - date published: 2023-10-25T18:30:43.652219+00:00
+ - user: None
+ - tags: []
+
+## Freie Universität Berlin
+ - [https://www.fu-berlin.de](https://www.fu-berlin.de)
+ - date published: 2023-12-09T18:18:33.454348+00:00
+ - user: None
+ - tags: []
+
+## Informatik
+ - [https://www.inf.fu-berlin.de](https://www.inf.fu-berlin.de)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## John-F.-Kennedy-Institut: Startseite
+ - [https://www.jfki.fu-berlin.de](https://www.jfki.fu-berlin.de)
+ - date published: 2023-10-25T18:30:45.808648+00:00
+ - user: None
+ - tags: []
+
+## - Geas
+ - [https://www.geas.de](https://www.geas.de)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## German Amiga Community :: Index
+ - [https://www.german-amiga-community.de](https://www.german-amiga-community.de)
+ - date published: 2024-01-09T02:56:14.964245+00:00
+ - user: None
+ - tags: []
+
+## GI Digital Library :: Startseite
+ - [https://dl.gi.de](https://dl.gi.de)
+ - date published: 2024-03-30T03:02:09.043926+00:00
+ - user: None
+ - tags: []
+
+## GNU Pascal
+ - [https://www.gnu-pascal.de](https://www.gnu-pascal.de)
+ - date published: 2023-10-25T18:30:47.993234+00:00
+ - user: None
+ - tags: []
+
+## Gorilla Sun
+ - [https://gorillasun.de](https://gorillasun.de)
+ - date published: 2023-10-25T18:30:51.098785+00:00
+ - user: None
+ - tags: []
+
+## Gorilla Sun
+ - [https://www.gorillasun.de](https://www.gorillasun.de)
+ - date published: 2024-02-25T20:31:33.144384+00:00
+ - user: None
+ - tags: []
+
+## Beglaubigung OpenPGP-Schlüssel
+ - [https://pgp.governikus.de](https://pgp.governikus.de)
+ - date published: 2023-10-25T18:30:54.264820+00:00
+ - user: None
+ - tags: []
+
+## Grönauer Infos
+ - [https://www.groenauer-infos.de](https://www.groenauer-infos.de)
+ - date published: 2023-11-16T18:10:42.478283+00:00
+ - user: None
+ - tags: []
+
+## Personaldienstleister: IT, Engineering, Life Science
+ - [https://www.gulp.de](https://www.gulp.de)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## H2FLY - Realizes hydrogen-powered zero-emission aviation.
+ - [https://www.h2fly.de](https://www.h2fly.de)
+ - date published: 2023-10-25T18:30:56.863209+00:00
+ - user: None
+ - tags: []
+
+## HanNet: Welcome to HanNet e.V.
+ - [https://www.han.de](https://www.han.de)
+ - date published: 2023-10-25T18:30:58.302906+00:00
+ - user: None
+ - tags: []
+
+## NetBSD server
+ - [http://sun.hasenbraten.de](http://sun.hasenbraten.de)
+ - date published: 2023-12-11T18:28:22.437329+00:00
+ - user: None
+ - tags: []
+
+## heise online - IT-News, Nachrichten und Hintergründe
+ - [https://www.heise.de](https://www.heise.de)
+ - date published: 2023-10-25T18:31:10.163609+00:00
+ - user: None
+ - tags: []
+
+## Helmholtz-Zentrum Berlin (HZB Berlin)
+ - [https://www.helmholtz-berlin.de](https://www.helmholtz-berlin.de)
+ - date published: 2024-01-09T02:56:15.871985+00:00
+ - user: None
+ - tags: []
+
+## Table of Contents
+ - [https://skanthak.hier-im-netz.de](https://skanthak.hier-im-netz.de)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hoschi-IT – Mein persönlicher (Micro-)Blog, oder so
+ - [https://hoschi-it.de](https://hoschi-it.de)
+ - date published: 2023-11-29T17:09:32.526552+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://people.f4.htw-berlin.de](https://people.f4.htw-berlin.de)
+ - date published: 2024-02-16T21:26:42.482423+00:00
+ - user: None
+ - tags: []
+
+## HVSC - Commodore 64 music for the masses!
+ - [https://hvsc.de](https://hvsc.de)
+ - date published: 2024-02-15T22:13:11.752709+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Individual Computers Support
+ - [https://forum.icomp.de](https://forum.icomp.de)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## INDIVIDUAL COMPUTERS [jens schoenfeld] GmbH (forwarder)
+ - [https://icomp.de](https://icomp.de)
+ - date published: 2024-02-06T13:54:31.049408+00:00
+ - user: None
+ - tags: []
+
+## iDiv.de
+ - [https://www.idiv.de](https://www.idiv.de)
+ - date published: 2023-12-21T12:31:47.504996+00:00
+ - user: None
+ - tags: []
+
+## igor´sLAB | PC & Components | Reviews & News
+ - [https://www.igorslab.de](https://www.igorslab.de)
+ - date published: 2023-10-25T18:31:18.439027+00:00
+ - user: None
+ - tags: []
+
+## imagico.de - Home
+ - [https://imagico.de](https://imagico.de)
+ - date published: 2023-10-25T18:31:21.792895+00:00
+ - user: None
+ - tags: []
+
+## Energie Pressecenter - Pressemitteilungen - IWR-Pressedienst - IWR-Pressedienst
+ - [https://www.iwrpressedienst.de](https://www.iwrpressedienst.de)
+ - date published: 2023-12-30T11:20:43.474269+00:00
+ - user: None
+ - tags: []
+
+## JavE - Java Ascii Versatile Editor
+ - [http://www.jave.de](http://www.jave.de)
+ - date published: 2023-10-25T18:31:23.796550+00:00
+ - user: None
+ - tags: []
+
+## jj's USEFUL and UGLY pages
+ - [https://www.jjj.de](https://www.jjj.de)
+ - date published: 2023-10-25T18:31:25.414779+00:00
+ - user: None
+ - tags: []
+
+## SOPHISTICATES – Mehr Gewinn durch Digitalisierung.
+ - [https://jjs.de](https://jjs.de)
+ - date published: 2024-01-01T17:21:22.428881+00:00
+ - user: None
+ - tags: []
+
 ## punker76
  - [https://jkarger.de](https://jkarger.de)
  - date published: 2024-04-03T12:42:34.117438+00:00
@@ -69,6 +444,12 @@
  - date published: 2023-10-25T18:31:39.984385+00:00
  - user: None
  - tags: []
+
+## larsjung.de
+ - [http://larsjung.de](http://larsjung.de)
+ - date published: 2024-04-26T18:52:40.790016+00:00
+ - user: None
+ - tags: ['personal']
 
 ## larsjung.de
  - [https://larsjung.de](https://larsjung.de)
@@ -317,16 +698,16 @@
  - tags: []
 
 ## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
- - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
- - date published: 2024-02-15T02:00:01.330586+00:00
- - user: None
- - tags: ['video game music']
-
-## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
  - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
  - date published: 2024-02-15T22:13:44.143200+00:00
  - user: None
  - tags: ['demoscene']
+
+## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
+ - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
+ - date published: 2024-02-15T02:00:01.330586+00:00
+ - user: None
+ - tags: ['video game music']
 
 ## NeuroNagel : Neuroregulation, Neurofeedback, Biofeedback, Mentalsysteme und Mindmachines
  - [https://www.neuronagel.de](https://www.neuronagel.de)
@@ -983,16 +1364,16 @@
  - tags: []
 
 ## WHDLoad
- - [http://www.whdload.de](http://www.whdload.de)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## WHDLoad
  - [https://www.whdload.de](https://www.whdload.de)
  - date published: 2024-01-23T00:00:00+00:00
  - user: None
  - tags: ['amiga']
+
+## WHDLoad
+ - [http://www.whdload.de](http://www.whdload.de)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Serialized Gedanken
  - [https://valentin.willscher.de](https://valentin.willscher.de)
@@ -2370,6 +2751,12 @@
  - user: None
  - tags: []
 
+## Firecrawl Docs
+ - [https://docs.firecrawl.dev](https://docs.firecrawl.dev)
+ - date published: 2024-04-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Turn entire websites into LLM-ready data
  - [https://www.firecrawl.dev](https://www.firecrawl.dev)
  - date published: 2024-04-13T22:32:54+00:00
@@ -2779,14 +3166,14 @@
  - tags: ['personal']
 
 ## Jakob Serlier's Personal Site
- - [https://jakobs.dev](https://jakobs.dev)
- - date published: 2024-01-09T01:37:20.973191+00:00
+ - [http://jakobs.dev](http://jakobs.dev)
+ - date published: 2024-01-15T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Jakob Serlier's Personal Site
- - [http://jakobs.dev](http://jakobs.dev)
- - date published: 2024-01-15T00:00:00+00:00
+ - [https://jakobs.dev](https://jakobs.dev)
+ - date published: 2024-01-09T01:37:20.973191+00:00
  - user: None
  - tags: []
 
@@ -2898,15 +3285,15 @@
  - user: None
  - tags: []
 
-## The website of jyn
- - [https://jyn.dev](https://jyn.dev)
- - date published: 2023-10-25T18:38:50.121076+00:00
- - user: None
- - tags: []
-
 ## the website of jyn
  - [http://jyn.dev](http://jyn.dev)
  - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The website of jyn
+ - [https://jyn.dev](https://jyn.dev)
+ - date published: 2023-10-25T18:38:50.121076+00:00
  - user: None
  - tags: []
 
@@ -3685,14 +4072,14 @@
  - tags: []
 
 ## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date published: 2023-01-31T00:00:00+00:00
+ - [http://passkeys.dev](http://passkeys.dev)
+ - date published: 2024-02-25T19:46:12.112766+00:00
  - user: None
  - tags: []
 
 ## Passkey Developer Resources
- - [http://passkeys.dev](http://passkeys.dev)
- - date published: 2024-02-25T19:46:12.112766+00:00
+ - [https://passkeys.dev](https://passkeys.dev)
+ - date published: 2023-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3910,7 +4297,7 @@
  - [https://react.dev](https://react.dev)
  - date published: 2023-10-25T18:41:12.872406+00:00
  - user: None
- - tags: []
+ - tags: ['javascript library', 'web development library', 'open source']
 
 ## refine | Build your React-based CRUD applications, without constraints! | refine
  - [https://refine.dev](https://refine.dev)
@@ -4091,7 +4478,7 @@
  - [https://scastiel.dev](https://scastiel.dev)
  - date published: 2023-10-25T18:41:47.971907+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Schedule-X
  - [https://schedule-x.dev](https://schedule-x.dev)
@@ -4245,14 +4632,14 @@
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4332,7 +4719,7 @@
  - [https://svelte.dev](https://svelte.dev)
  - date published: 2023-10-25T18:42:29.946623+00:00
  - user: None
- - tags: []
+ - tags: ['website development', 'web applications', 'company', 'open source']
 
 ## Sweep: AI-powered junior dev
  - [https://docs.sweep.dev](https://docs.sweep.dev)
@@ -4674,7 +5061,7 @@
  - [https://vitejs.dev](https://vitejs.dev)
  - date published: 2023-10-25T18:43:39.671574+00:00
  - user: None
- - tags: []
+ - tags: ['typescript', 'web server']
 
 ## Visual Studio Code for the Web
  - [https://vscode.dev](https://vscode.dev)
@@ -4848,7 +5235,7 @@
  - [https://xr0.dev](https://xr0.dev)
  - date published: 2024-03-28T23:52:22.644430+00:00
  - user: None
- - tags: ['ansi c', 'programming language']
+ - tags: ['ansi c', 'personal']
 
 ## xy2
  - [https://xy2.dev](https://xy2.dev)
@@ -5615,395 +6002,6 @@
 ## Scholarly Commons at Boston University School of Law
  - [https://scholarship.law.bu.edu](https://scholarship.law.bu.edu)
  - date published: 2024-03-01T13:45:33.791375+00:00
- - user: None
- - tags: []
-
-## Homepage | Boston University
- - [https://www.bu.edu](https://www.bu.edu)
- - date published: 2023-10-25T18:48:37.312705+00:00
- - user: None
- - tags: []
-
-## Boston University Medical Campus
- - [https://www.bumc.bu.edu](https://www.bumc.bu.edu)
- - date published: 2023-12-03T14:38:34.468583+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science and Engineering
- - [https://cse.buffalo.edu](https://cse.buffalo.edu)
- - date published: 2024-02-10T17:55:00.406166+00:00
- - user: None
- - tags: []
-
-## Human Factors and Ergonomics Society Student Chapter – The University at Buffalo, State University of New York
- - [https://markelz.physics.buffalo.edu](https://markelz.physics.buffalo.edu)
- - date published: 2024-01-09T02:58:27.946041+00:00
- - user: None
- - tags: []
-
-## University at Buffalo
- - [https://www.buffalo.edu](https://www.buffalo.edu)
- - date published: 2024-01-09T02:58:31.896039+00:00
- - user: None
- - tags: []
-
-## Transfer Guides | BYU Registrar
- - [https://enrollment2.byu.edu](https://enrollment2.byu.edu)
- - date published: 2024-02-08T22:50:58.318148+00:00
- - user: None
- - tags: []
-
-## News Homepage - BYU News
- - [https://news.byu.edu](https://news.byu.edu)
- - date published: 2023-10-25T18:48:47.775303+00:00
- - user: None
- - tags: []
-
-## Plant & Wildlife Sciences Homepage
- - [https://pws.byu.edu](https://pws.byu.edu)
- - date published: 2023-10-25T18:49:07.807137+00:00
- - user: None
- - tags: []
-
-## Home | Religious Studies Center
- - [https://rsc.byu.edu](https://rsc.byu.edu)
- - date published: 2024-04-05T18:54:43.590471+00:00
- - user: None
- - tags: []
-
-## Home - BYU
- - [https://www.byu.edu](https://www.byu.edu)
- - date published: 2024-04-05T00:00:00+00:00
- - user: rumpel
- - tags: ['brigham young university']
-
-## https://users.csc.calpoly.edu
- - [https://users.csc.calpoly.edu](https://users.csc.calpoly.edu)
- - date published: 2024-01-09T02:58:34.457804+00:00
- - user: None
- - tags: []
-
-## CaltechAUTHORS
- - [https://authors.library.caltech.edu](https://authors.library.caltech.edu)
- - date published: 1921-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome to Caltech Magazine (formerly Engineering & Science) - Caltech Magazine
- - [https://calteches.library.caltech.edu](https://calteches.library.caltech.edu)
- - date published: 2023-10-25T18:49:12.742737+00:00
- - user: None
- - tags: []
-
-## The Caltech Heritage Project
- - [https://heritageproject.caltech.edu](https://heritageproject.caltech.edu)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Officers of the Faculty
- - [https://oof.caltech.edu](https://oof.caltech.edu)
- - date published: 2024-02-08T16:42:53.470613+00:00
- - user: None
- - tags: []
-
-## Taking to www.astro.caltech.edu
- - [https://sites.astro.caltech.edu](https://sites.astro.caltech.edu)
- - date published: 2023-10-25T18:49:21.036394+00:00
- - user: None
- - tags: []
-
-## Home
-  
-
-     | 
-    
-    www.caltech.edu
- - [https://www.caltech.edu](https://www.caltech.edu)
- - date published: 2023-10-25T18:49:26.802906+00:00
- - user: None
- - tags: []
-
-## Welcome to EAS
- - [https://www.eas.caltech.edu](https://www.eas.caltech.edu)
- - date published: 2024-03-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Feynman Lectures on Physics
- - [https://www.feynmanlectures.caltech.edu](https://www.feynmanlectures.caltech.edu)
- - date published: 2023-10-25T18:49:32.962260+00:00
- - user: None
- - tags: []
-
-## The Daily | Case Western Reserve University
- - [https://thedaily.case.edu](https://thedaily.case.edu)
- - date published: 2023-12-08T08:26:55.618418+00:00
- - user: None
- - tags: []
-
-## ITS - Technology Infrastructure Services
- - [https://tiswww.case.edu](https://tiswww.case.edu)
- - date published: 2023-10-25T18:49:35.427501+00:00
- - user: None
- - tags: []
-
-## Chapman Blogs | Chapman University
- - [https://blogs.chapman.edu](https://blogs.chapman.edu)
- - date published: 2023-10-25T18:49:38.865941+00:00
- - user: None
- - tags: []
-
-## CMU CS Academy
- - [https://academy.cs.cmu.edu](https://academy.cs.cmu.edu)
- - date published: 2023-10-25T18:49:39.691260+00:00
- - user: None
- - tags: []
-
-## Carnegie Mellon Database Group
- - [https://db.cs.cmu.edu](https://db.cs.cmu.edu)
- - date published: 2023-10-25T18:49:41.742513+00:00
- - user: None
- - tags: []
-
-## Penrose | Penrose
- - [https://penrose.cs.cmu.edu](https://penrose.cs.cmu.edu)
- - date published: 2023-10-25T18:49:42.884999+00:00
- - user: None
- - tags: []
-
-## index -     Electrical and Computer Engineering -     College of Engineering - Carnegie Mellon University
- - [https://users.ece.cmu.edu](https://users.ece.cmu.edu)
- - date published: 2023-10-25T18:49:47.511158+00:00
- - user: None
- - tags: []
-
-## Homepage -     CMU - Carnegie Mellon University
- - [https://www.cmu.edu](https://www.cmu.edu)
- - date published: 2023-10-25T18:49:49.835716+00:00
- - user: None
- - tags: []
-
-## CMU School of Computer Science
- - [https://www.cs.cmu.edu](https://www.cs.cmu.edu)
- - date published: 2023-10-25T18:49:52.744969+00:00
- - user: None
- - tags: []
-
-## Department of Mathematical Sciences
- - [https://www.math.cmu.edu](https://www.math.cmu.edu)
- - date published: 2023-10-25T18:49:53.580780+00:00
- - user: None
- - tags: []
-
-## Morphing Matter Lab Directed by Lining Yao
- - [https://www.morphingmatter.cs.cmu.edu](https://www.morphingmatter.cs.cmu.edu)
- - date published: 2024-02-25T08:48:26.700946+00:00
- - user: None
- - tags: []
-
-## The Robotics Institute Carnegie Mellon University : Robotics Education and Research Leader
- - [https://www.ri.cmu.edu](https://www.ri.cmu.edu)
- - date published: 2023-11-29T17:37:28.886724+00:00
- - user: None
- - tags: []
-
-## Home | University of Colorado Boulder
- - [https://www.colorado.edu](https://www.colorado.edu)
- - date published: 2023-10-25T18:49:55.392617+00:00
- - user: None
- - tags: []
-
-## Colorado State University News - SOURCE
- - [https://source.colostate.edu](https://source.colostate.edu)
- - date published: 2023-11-29T17:19:55.036565+00:00
- - user: None
- - tags: []
-
-## Diffusion Models for Robotics Control
- - [https://diffusion-policy.cs.columbia.edu](https://diffusion-policy.cs.columbia.edu)
- - date published: 2023-12-14T04:53:26+00:00
- - user: None
- - tags: []
-
-## Columbia Magazine
- - [https://magazine.columbia.edu](https://magazine.columbia.edu)
- - date published: 2023-10-25T18:49:57.691308+00:00
- - user: None
- - tags: []
-
-## State of the Planet - News from the Columbia Climate School
- - [https://news.climate.columbia.edu](https://news.climate.columbia.edu)
- - date published: 2023-12-20T22:47:58.538909+00:00
- - user: None
- - tags: []
-
-## Columbia News
- - [https://news.columbia.edu](https://news.columbia.edu)
- - date published: 2023-12-05T18:08:58.749533+00:00
- - user: None
- - tags: []
-
-## Columbia University School of Professional Studies
- - [https://sps.columbia.edu](https://sps.columbia.edu)
- - date published: 2024-02-24T18:08:00.655256+00:00
- - user: None
- - tags: []
-
-## Statistical Modeling, Causal Inference, and Social Science
- - [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu)
- - date published: 2023-10-25T18:50:02.076404+00:00
- - user: None
- - tags: []
-
-## Columbia University School of Professional Studies Virtual Tour
- - [https://tour.sps.columbia.edu](https://tour.sps.columbia.edu)
- - date published: 2024-02-08T17:34:08.015883+00:00
- - user: None
- - tags: []
-
-## ViperGPT: Visual Inference via Python Execution for Reasoning
- - [https://viper.cs.columbia.edu](https://viper.cs.columbia.edu)
- - date published: 2023-10-25T18:50:05.789837+00:00
- - user: None
- - tags: []
-
-## Herbert Irving Comprehensive Cancer Center (HICCC) - New York
- - [https://www.cancer.columbia.edu](https://www.cancer.columbia.edu)
- - date published: 2023-10-25T18:50:13.811298+00:00
- - user: None
- - tags: []
-
-## Columbia University in the City of New York
- - [https://www.columbia.edu](https://www.columbia.edu)
- - date published: 2024-02-28T15:39:28.832261+00:00
- - user: None
- - tags: []
-
-## Columbia University in the City of New York
- - [http://www.columbia.edu](http://www.columbia.edu)
- - date published: 2024-03-14T05:31:04.195743+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science, Columbia University
- - [https://www.cs.columbia.edu](https://www.cs.columbia.edu)
- - date published: 2023-10-25T18:50:17.823882+00:00
- - user: None
- - tags: []
-
-## Columbia University Irving Medical Center
- - [https://www.cuimc.columbia.edu](https://www.cuimc.columbia.edu)
- - date published: 2023-10-25T18:50:21.143055+00:00
- - user: None
- - tags: []
-
-## Columbia Engineering Schools | Innovative Programs for Students
- - [https://www.engineering.columbia.edu](https://www.engineering.columbia.edu)
- - date published: 2016-09-09T19:10:05+00:00
- - user: None
- - tags: []
-
-## Department of Mathematics at Columbia University - Welcome
- - [https://www.math.columbia.edu](https://www.math.columbia.edu)
- - date published: 2023-10-25T18:50:23.763635+00:00
- - user: None
- - tags: []
-
-## Columbia University Mailman School of Public Health
- - [https://www.publichealth.columbia.edu](https://www.publichealth.columbia.edu)
- - date published: 2024-03-02T19:19:41.405171+00:00
- - user: None
- - tags: []
-
-## Apache HTTP Server Test Page powered by CentOS
- - [https://www.stat.columbia.edu](https://www.stat.columbia.edu)
- - date published: 2024-01-09T02:58:36.122416+00:00
- - user: None
- - tags: []
-
-## Zero-1-to-3: Zero-shot One Image to 3D Object
- - [https://zero123.cs.columbia.edu](https://zero123.cs.columbia.edu)
- - date published: 2023-10-25T18:50:29.530822+00:00
- - user: None
- - tags: []
-
-## Columbia | Zuckerman Institute
- - [https://zuckermaninstitute.columbia.edu](https://zuckermaninstitute.columbia.edu)
- - date published: 2023-10-25T18:50:31.676775+00:00
- - user: None
- - tags: []
-
-## Welcome to the Cornell Academic Materials Program | Cornell U.
- - [https://academicmaterials.cornell.edu](https://academicmaterials.cornell.edu)
- - date published: 2024-02-08T18:00:56.538608+00:00
- - user: None
- - tags: []
-
-## Cornell Virtual Workshop
- - [https://cvw.cac.cornell.edu](https://cvw.cac.cornell.edu)
- - date published: 2023-10-25T18:50:32.946582+00:00
- - user: None
- - tags: []
-
-## https://join.birds.cornell.edu
- - [https://join.birds.cornell.edu](https://join.birds.cornell.edu)
- - date published: 2024-02-08T17:31:30.142350+00:00
- - user: None
- - tags: []
-
-## LISC: Laboratory for Intelligent Systems and Controls
- - [https://lisc.mae.cornell.edu](https://lisc.mae.cornell.edu)
- - date published: 2024-01-09T02:58:39.276898+00:00
- - user: None
- - tags: []
-
-## Learning Strategies Center – Academic Support at Cornell University
- - [https://lsc.cornell.edu](https://lsc.cornell.edu)
- - date published: 2023-10-25T18:50:35.715625+00:00
- - user: None
- - tags: []
-
-## Home | Cornell Chronicle
- - [https://news.cornell.edu](https://news.cornell.edu)
- - date published: 2023-10-25T18:50:38.276285+00:00
- - user: None
- - tags: []
-
-## Newsroom | Weill Cornell Medicine
- - [https://news.weill.cornell.edu](https://news.weill.cornell.edu)
- - date published: 2023-10-25T18:50:39.847779+00:00
- - user: None
- - tags: []
-
-## Electrical and Computer Engineering | Electrical and Computer Engineering
- - [https://people.ece.cornell.edu](https://people.ece.cornell.edu)
- - date published: 2023-10-25T18:50:42.502337+00:00
- - user: None
- - tags: []
-
-## Persuasive Maps | Persuasive Maps
- - [https://persuasivemaps.library.cornell.edu](https://persuasivemaps.library.cornell.edu)
- - date published: 2024-02-08T18:05:40.860106+00:00
- - user: None
- - tags: []
-
-## https://pi.math.cornell.edu
- - [https://pi.math.cornell.edu](https://pi.math.cornell.edu)
- - date published: 2024-01-09T02:58:44.329557+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://research-and-innovation.cornell.edu](https://research-and-innovation.cornell.edu)
- - date published: 2024-02-26T12:37:55.027502+00:00
- - user: None
- - tags: []
-
-## Follow the Story – Research & Innovation
- - [https://research.cornell.edu](https://research.cornell.edu)
- - date published: 2023-10-25T18:50:46.764859+00:00
  - user: None
  - tags: []
 

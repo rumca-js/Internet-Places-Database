@@ -1,3 +1,39 @@
+## Project management software, online collaboration
+ - [https://basecamp.com](https://basecamp.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Basedash | The admin panel you don't have to build
+ - [https://www.basedash.com](https://www.basedash.com)
+ - date published: 2023-10-25T12:52:36.677587+00:00
+ - user: None
+ - tags: []
+
+## all forums | basement community
+ - [https://basementcommunity.com](https://basementcommunity.com)
+ - date published: 2023-10-25T12:52:43.132475+00:00
+ - user: None
+ - tags: []
+
+## Basic Apple Guy
+ - [https://basicappleguy.com](https://basicappleguy.com)
+ - date published: 2023-10-25T08:45:02.790197+00:00
+ - user: None
+ - tags: ['personal']
+
+## Basketball GM - Free online single-player basketball management simulation video game
+ - [https://basketball-gm.com](https://basketball-gm.com)
+ - date published: 2024-02-08T16:27:07.037346+00:00
+ - user: None
+ - tags: []
+
+## Ramblings of a self-taught software engineer
+ - [https://blog.bassemdy.com](https://blog.bassemdy.com)
+ - date published: 2023-10-25T12:52:44.325896+00:00
+ - user: None
+ - tags: []
+
 ## (think)
  - [https://batsov.com](https://batsov.com)
  - date published: 2023-10-25T12:52:45.171392+00:00
@@ -119,14 +155,14 @@
  - tags: []
 
 ## BeAble2
- - [http://beable2.com](http://beable2.com)
- - date published: 2024-04-03T06:23:37.542805+00:00
+ - [https://beable2.com](https://beable2.com)
+ - date published: 2023-12-26T06:32:14.747261+00:00
  - user: None
  - tags: ['personal']
 
 ## BeAble2
- - [https://beable2.com](https://beable2.com)
- - date published: 2023-12-26T06:32:14.747261+00:00
+ - [http://beable2.com](http://beable2.com)
+ - date published: 2024-04-03T06:23:37.542805+00:00
  - user: None
  - tags: ['personal']
 
@@ -1012,6 +1048,12 @@
  - user: None
  - tags: []
 
+## Bill Murray Stories
+ - [https://www.billmurraystory.com](https://www.billmurraystory.com)
+ - date published: 2024-04-26T17:49:23+00:00
+ - user: rumpel
+ - tags: ['bill murray']
+
 ## Bill Prin - Software engineer and entrepeneur
  - [https://billprin.com](https://billprin.com)
  - date published: 2023-10-25T13:00:05.453671+00:00
@@ -1859,14 +1901,20 @@
  - tags: []
 
 ## ADD / XOR / ROL
+ - [https://addxorrol.blogspot.com](https://addxorrol.blogspot.com)
+ - date published: 2024-01-09T02:30:36.134136+00:00
+ - user: None
+ - tags: []
+
+## ADD / XOR / ROL
  - [http://addxorrol.blogspot.com](http://addxorrol.blogspot.com)
  - date published: 2024-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
-## ADD / XOR / ROL
- - [https://addxorrol.blogspot.com](https://addxorrol.blogspot.com)
- - date published: 2024-01-09T02:30:36.134136+00:00
+## Agile Otter Blog
+ - [http://agileotter.blogspot.com](http://agileotter.blogspot.com)
+ - date published: 2024-02-27T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1875,12 +1923,6 @@
  - date published: 2023-10-25T09:05:30.845699+00:00
  - user: None
  - tags: ['personal']
-
-## Agile Otter Blog
- - [http://agileotter.blogspot.com](http://agileotter.blogspot.com)
- - date published: 2024-02-27T00:00:00+00:00
- - user: None
- - tags: []
 
 ## Dave Airlie Linux Graphics blog
  - [https://airlied.blogspot.com](https://airlied.blogspot.com)
@@ -1943,13 +1985,13 @@
  - tags: ['personal']
 
 ## The Axis of Eval
- - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
+ - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Axis of Eval
- - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
+ - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
@@ -2135,26 +2177,26 @@
  - tags: ['personal']
 
 ## Twin methods in OpenMx
- - [https://dbtemp.blogspot.com](https://dbtemp.blogspot.com)
- - date published: 2023-11-19T21:54:21.568274+00:00
- - user: None
- - tags: []
-
-## Twin methods in OpenMx
  - [http://dbtemp.blogspot.com](http://dbtemp.blogspot.com)
  - date published: 2024-02-25T15:50:25.877373+00:00
  - user: None
  - tags: []
 
-## BishopBlog
- - [http://deevybee.blogspot.com](http://deevybee.blogspot.com)
- - date published: 2024-02-09T00:00:00+00:00
+## Twin methods in OpenMx
+ - [https://dbtemp.blogspot.com](https://dbtemp.blogspot.com)
+ - date published: 2023-11-19T21:54:21.568274+00:00
  - user: None
  - tags: []
 
 ## BishopBlog
  - [https://deevybee.blogspot.com](https://deevybee.blogspot.com)
  - date published: 2023-11-19T21:54:20.334258+00:00
+ - user: None
+ - tags: []
+
+## BishopBlog
+ - [http://deevybee.blogspot.com](http://deevybee.blogspot.com)
+ - date published: 2024-02-09T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2351,16 +2393,16 @@
  - tags: []
 
 ## Information Processing
- - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Information Processing
  - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
  - date published: 2023-10-25T09:09:06.318517+00:00
  - user: None
  - tags: ['personal']
+
+## Information Processing
+ - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Development of the trilogy & IV
  - [https://insiderockstarnorth.blogspot.com](https://insiderockstarnorth.blogspot.com)
@@ -2423,14 +2465,14 @@
  - tags: []
 
 ## Kiwi Hellenist
- - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
+ - date published: 2023-11-28T20:46:36.488371+00:00
  - user: None
  - tags: []
 
 ## Kiwi Hellenist
- - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
- - date published: 2023-11-28T20:46:36.488371+00:00
+ - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2741,14 +2783,14 @@
  - tags: ['personal']
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
- - date published: 2024-01-03T20:38:22.927557+00:00
+ - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
+ - date published: 2024-01-04T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
- - date published: 2024-01-04T00:00:00+00:00
+ - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
+ - date published: 2024-01-03T20:38:22.927557+00:00
  - user: None
  - tags: []
 
@@ -2801,16 +2843,16 @@
  - tags: ['personal']
 
 ## The Little Engineer That Could
- - [https://thelittleengineerthatcould.blogspot.com](https://thelittleengineerthatcould.blogspot.com)
- - date published: 2023-10-25T09:18:26.159190+00:00
- - user: None
- - tags: ['personal']
-
-## The Little Engineer That Could
  - [http://thelittleengineerthatcould.blogspot.com](http://thelittleengineerthatcould.blogspot.com)
  - date published: 2024-04-13T00:00:00+00:00
  - user: None
  - tags: []
+
+## The Little Engineer That Could
+ - [https://thelittleengineerthatcould.blogspot.com](https://thelittleengineerthatcould.blogspot.com)
+ - date published: 2023-10-25T09:18:26.159190+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Programmer's Paradox
  - [https://theprogrammersparadox.blogspot.com](https://theprogrammersparadox.blogspot.com)
@@ -2921,14 +2963,14 @@
  - tags: []
 
 ## Eye of Hydra
- - [http://zenorogue.blogspot.com](http://zenorogue.blogspot.com)
- - date published: 2024-02-25T20:09:57.614507+00:00
+ - [https://zenorogue.blogspot.com](https://zenorogue.blogspot.com)
+ - date published: 2023-12-27T19:21:24.521478+00:00
  - user: None
  - tags: []
 
 ## Eye of Hydra
- - [https://zenorogue.blogspot.com](https://zenorogue.blogspot.com)
- - date published: 2023-12-27T19:21:24.521478+00:00
+ - [http://zenorogue.blogspot.com](http://zenorogue.blogspot.com)
+ - date published: 2024-02-25T20:09:57.614507+00:00
  - user: None
  - tags: []
 
@@ -3281,16 +3323,16 @@
  - tags: ['aviation', 'aerospace', 'avionics']
 
 ## Chris Aldrich | BoffoSocko
- - [http://boffosocko.com](http://boffosocko.com)
- - date published: 2024-02-26T14:52:14.236002+00:00
- - user: None
- - tags: ['personal']
-
-## Chris Aldrich | BoffoSocko
  - [https://boffosocko.com](https://boffosocko.com)
  - date published: 2024-01-02T00:00:00+00:00
  - user: None
  - tags: []
+
+## Chris Aldrich | BoffoSocko
+ - [http://boffosocko.com](http://boffosocko.com)
+ - date published: 2024-02-26T14:52:14.236002+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Chris Aldrich | BoffoSocko
  - [https://www.boffosocko.com](https://www.boffosocko.com)
@@ -3409,16 +3451,16 @@
  - tags: []
 
 ## Boodaism
- - [https://boodaism.com](https://boodaism.com)
- - date published: 2023-12-13T06:05:24.808329+00:00
- - user: None
- - tags: ['personal']
-
-## Boodaism
  - [http://boodaism.com](http://boodaism.com)
  - date published: 2024-01-24T00:00:00+00:00
  - user: None
  - tags: []
+
+## Boodaism
+ - [https://boodaism.com](https://boodaism.com)
+ - date published: 2023-12-13T06:05:24.808329+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Book reviews: Find the best new books
  - [https://www.bookbrowse.com](https://www.bookbrowse.com)
@@ -3550,6 +3592,12 @@
  - [https://stackpath.bootstrapcdn.com](https://stackpath.bootstrapcdn.com)
  - date published: 2023-12-11T18:40:30.078218+00:00
  - user: None
+ - tags: []
+
+## Official CDN of Bootstrap and Font Awesome
+ - [https://www.bootstrapcdn.com](https://www.bootstrapcdn.com)
+ - date published: 2024-04-26T19:14:11+00:00
+ - user: rumpel
  - tags: []
 
 ## BOOX Shop
@@ -4392,6 +4440,12 @@
  - user: None
  - tags: ['semiconductors', 'company']
 
+## Brody Q Scotland - Photographer
+ - [https://brodyq.com](https://brodyq.com)
+ - date published: 2024-04-26T23:56:28.769032+00:00
+ - user: None
+ - tags: []
+
 ## Brody Q Photo
  - [https://www.brodyq.com](https://www.brodyq.com)
  - date published: 2023-12-10T11:34:31.953601+00:00
@@ -4468,7 +4522,7 @@
  - [https://bruno-simon.com](https://bruno-simon.com)
  - date published: 2024-04-25T21:21:19.869738+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Simone Brunozzi
  - [http://brunozzi.com](http://brunozzi.com)
@@ -4753,14 +4807,14 @@
  - tags: []
 
 ## Business Owners Success Club
- - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
- - date published: 2024-04-03T06:24:35.974117+00:00
+ - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
+ - date published: 8211-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
 ## Business Owners Success Club
- - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
- - date published: 8211-01-01T00:00:00+00:00
+ - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
+ - date published: 2024-04-03T06:24:35.974117+00:00
  - user: None
  - tags: ['personal']
 
@@ -5020,7 +5074,7 @@
  - [https://caddyserver.com](https://caddyserver.com)
  - date published: 2023-10-25T08:35:21.541829+00:00
  - user: None
- - tags: []
+ - tags: ['caddy', 'web server']
 
 ## Warhammer 40K Blog
  - [https://cadianshock.com](https://cadianshock.com)
@@ -5527,14 +5581,14 @@
  - tags: ['site building']
 
 ## None
- - [http://www.caribpress.com](http://www.caribpress.com)
- - date published: 2024-02-25T15:38:05.095360+00:00
+ - [https://www.caribpress.com](https://www.caribpress.com)
+ - date published: 2024-01-09T02:31:43.727437+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://www.caribpress.com](https://www.caribpress.com)
- - date published: 2024-01-09T02:31:43.727437+00:00
+ - [http://www.caribpress.com](http://www.caribpress.com)
+ - date published: 2024-02-25T15:38:05.095360+00:00
  - user: None
  - tags: []
 
@@ -5935,74 +5989,20 @@
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [http://sports.cctv.com](http://sports.cctv.com)
- - date published: 2024-03-21T02:07:49.559014+00:00
+ - [https://sports.cctv.com](https://sports.cctv.com)
+ - date published: 2023-12-09T12:18:44.730556+00:00
  - user: None
  - tags: []
 
 ## 体育_央视网(cctv.com)
- - [https://sports.cctv.com](https://sports.cctv.com)
- - date published: 2023-12-09T12:18:44.730556+00:00
+ - [http://sports.cctv.com](http://sports.cctv.com)
+ - date published: 2024-03-21T02:07:49.559014+00:00
  - user: None
  - tags: []
 
 ## Coeur d'Alene Press
  - [https://cdapress.com](https://cdapress.com)
  - date published: 2024-02-28T22:18:15.944968+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://cdevroe.com](https://cdevroe.com)
- - date published: 2023-12-28T13:02:55+00:00
- - user: None
- - tags: ['personal']
-
-## The CDM-Project
- - [https://cdm-project.com](https://cdm-project.com)
- - date published: 2024-04-02T13:49:05+00:00
- - user: rumpel
- - tags: ['git', 'self-host']
-
-## https://cdnsciencepub.com
- - [https://cdnsciencepub.com](https://cdnsciencepub.com)
- - date published: 2023-11-24T05:43:49.617319+00:00
- - user: None
- - tags: []
-
-## Home - CD PROJEKT
- - [https://www.cdprojekt.com](https://www.cdprojekt.com)
- - date published: 2023-10-25T14:21:50.256113+00:00
- - user: None
- - tags: ['witcher', 'cyberpunk']
-
-## CD PROJEKT RED - Award-winning creators of story-driven role-playing games.
- - [https://www.cdprojektred.com](https://www.cdprojektred.com)
- - date published: 2023-10-30T18:25:46.679662+00:00
- - user: None
- - tags: ['video game developer', 'company']
-
-## Carbon dioxide removal API
- - [https://docs.cdrplatform.com](https://docs.cdrplatform.com)
- - date published: 2023-10-25T13:19:36.142531+00:00
- - user: None
- - tags: []
-
-## Cedar Language Playground
- - [https://www.cedarpolicy.com](https://www.cedarpolicy.com)
- - date published: 2023-10-25T13:19:37.088830+00:00
- - user: None
- - tags: []
-
-## Cedric Charly's Blog
- - [https://blog.cedriccharly.com](https://blog.cedriccharly.com)
- - date published: 2023-10-25T09:19:37.116006+00:00
- - user: None
- - tags: ['personal']
-
-## Celebrity Private Jet Flights & Environmental Impact | CelebrityFlight
- - [https://celebrityflight.com](https://celebrityflight.com)
- - date published: 2023-10-25T13:19:38.895120+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,465 @@
+## 9/11 Realtime
+ - [https://911realtime.org](https://911realtime.org)
+ - date published: 2023-10-25T20:52:48.596512+00:00
+ - user: None
+ - tags: []
+
+## 99% Invisible
+ - [https://99percentinvisible.org](https://99percentinvisible.org)
+ - date published: 2023-10-25T20:52:52.176166+00:00
+ - user: None
+ - tags: []
+
+## 9FRONT.ORG THE PLAN FELL OFF
+ - [https://9front.org](https://9front.org)
+ - date published: 2023-10-25T20:52:59.435440+00:00
+ - user: None
+ - tags: []
+
+## 9FRONT FREQUENTLY QUESTIONED ANSWERS
+ - [https://fqa.9front.org](https://fqa.9front.org)
+ - date published: 2024-01-02T16:46:04.268065+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://9lab.org](https://9lab.org)
+ - date published: 2024-01-02T19:08:29.997667+00:00
+ - user: None
+ - tags: []
+
+## AAAS Home | American Association for the Advancement of Science (AAAS)
+ - [https://www.aaas.org](https://www.aaas.org)
+ - date published: 2023-11-23T10:59:39.029974+00:00
+ - user: None
+ - tags: []
+
+## American Association for Cancer Research
+ - [https://aacrjournals.org](https://aacrjournals.org)
+ - date published: 2023-11-05T06:08:41.957585+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.aallnet.org](https://www.aallnet.org)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Tomorrow's Doctors, Tomorrow's Cures
+ - [https://www.aamc.org](https://www.aamc.org)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Astronomy & Astrophysics (A&A)
+ - [https://www.aanda.org](https://www.aanda.org)
+ - date published: 2023-12-20T21:57:54.410586+00:00
+ - user: None
+ - tags: []
+
+## American Academy of Pediatrics
+ - [https://publications.aap.org](https://publications.aap.org)
+ - date published: 2023-11-06T10:39:21.892891+00:00
+ - user: None
+ - tags: []
+
+## Aaron Simpson
+ - [https://aaronsimpson.org](https://aaronsimpson.org)
+ - date published: 2024-01-05T21:35:51.217748+00:00
+ - user: None
+ - tags: []
+
+## Home | Adam Aaronson
+ - [https://aaronson.org](https://aaronson.org)
+ - date published: 2023-10-25T20:53:01.643487+00:00
+ - user: None
+ - tags: []
+
+## Games
+ - [https://games.aarp.org](https://games.aarp.org)
+ - date published: 2023-10-30T11:59:48.224688+00:00
+ - user: None
+ - tags: ['games', 'atari']
+
+## AARP® Official Site - Join & Explore the Benefits
+ - [https://www.aarp.org](https://www.aarp.org)
+ - date published: 2023-10-25T20:53:09.275713+00:00
+ - user: None
+ - tags: []
+
+## Bulletin of the AAS
+ - [https://baas.aas.org](https://baas.aas.org)
+ - date published: 2024-02-24T18:05:46.247535+00:00
+ - user: None
+ - tags: []
+
+## Homepage - AAS Nova
+ - [https://aasnova.org](https://aasnova.org)
+ - date published: 2023-10-25T20:53:12.339589+00:00
+ - user: None
+ - tags: []
+
+## abelard public education website
+ - [https://www.abelard.org](https://www.abelard.org)
+ - date published: 2023-10-25T20:53:20.409245+00:00
+ - user: None
+ - tags: []
+
+## Asian Bureau of Finance and Economic Research | ABFER
+ - [https://abfer.org](https://abfer.org)
+ - date published: 2024-02-24T09:58:34.794824+00:00
+ - user: None
+ - tags: []
+
+## About Philippines – Philippines Life & Culture
+ - [https://aboutphilippines.org](https://aboutphilippines.org)
+ - date published: 2023-12-29T22:02:16.911318+00:00
+ - user: None
+ - tags: []
+
+## Home - American College of Cardiology
+ - [https://www.acc.org](https://www.acc.org)
+ - date published: 2023-10-25T20:53:25.158857+00:00
+ - user: None
+ - tags: []
+
+## Access to Insight
+ - [https://www.accesstoinsight.org](https://www.accesstoinsight.org)
+ - date published: 2023-10-25T20:53:32.094744+00:00
+ - user: None
+ - tags: []
+
+## ACCU
+ - [https://accu.org](https://accu.org)
+ - date published: 2023-10-25T20:53:34.238905+00:00
+ - user: None
+ - tags: ['programming organisation', 'c++', 'python', 'java']
+
+## Ackerman Institute for the Family
+ - [https://www.ackerman.org](https://www.ackerman.org)
+ - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ACL Anthology - ACL Anthology
+ - [https://aclanthology.org](https://aclanthology.org)
+ - date published: 2023-10-25T20:53:36.329517+00:00
+ - user: None
+ - tags: []
+
+## Home | American Civil Liberties Union
+ - [https://www.aclu.org](https://www.aclu.org)
+ - date published: 2023-10-25T20:53:44.491527+00:00
+ - user: None
+ - tags: []
+
+## ACLU of Indiana
+ - [https://www.aclu-in.org](https://www.aclu-in.org)
+ - date published: 2024-02-28T08:53:45.127075+00:00
+ - user: None
+ - tags: []
+
+## A.M. Turing Award
+ - [https://amturing.acm.org](https://amturing.acm.org)
+ - date published: 2023-10-25T20:53:46.979207+00:00
+ - user: None
+ - tags: []
+
+## Awards Home
+ - [https://awards.acm.org](https://awards.acm.org)
+ - date published: 2023-10-25T20:53:56.997751+00:00
+ - user: None
+ - tags: []
+
+## Communications of the ACM
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
+ - user: None
+ - tags: []
+
+## Communications of the ACM
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CSCW 2024
+ - [https://cscw.acm.org](https://cscw.acm.org)
+ - date published: 2024-04-03T06:41:47.415957+00:00
+ - user: None
+ - tags: []
+
+## ACM Digital Library
+ - [https://dl.acm.org](https://dl.acm.org)
+ - date published: 2023-10-25T20:54:07.913205+00:00
+ - user: None
+ - tags: []
+
+## ACM Code of Ethics and Professional Conduct
+ - [https://ethics.acm.org](https://ethics.acm.org)
+ - date published: 2023-10-25T20:54:10.467772+00:00
+ - user: None
+ - tags: []
+
+## ACM Learning Center
+ - [https://learning.acm.org](https://learning.acm.org)
+ - date published: 2023-10-25T20:54:19.348249+00:00
+ - user: None
+ - tags: []
+
+## ACMQ Site - ACM Queue
+ - [https://queue.acm.org](https://queue.acm.org)
+ - date published: 2023-10-25T20:54:22.401799+00:00
+ - user: None
+ - tags: []
+
+## Association for Computing Machinery
+ - [https://www.acm.org](https://www.acm.org)
+ - date published: 2023-10-25T20:54:27.074550+00:00
+ - user: None
+ - tags: []
+
+## the morning paper | a random walk through Computer Science research, by Adrian Colyer
+ - [https://blog.acolyer.org](https://blog.acolyer.org)
+ - date published: 2023-10-25T20:54:28.113947+00:00
+ - user: None
+ - tags: []
+
+## The Acorn Theatre
+ - [https://acorntheatre.org](https://acorntheatre.org)
+ - date published: 2024-02-08T21:50:17.846763+00:00
+ - user: None
+ - tags: []
+
+## Australian Acoustic Observatory | A20
+ - [https://acousticobservatory.org](https://acousticobservatory.org)
+ - date published: 2023-12-01T10:46:03.517245+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Australian Acoustic Observatory Search
+ - [https://search.acousticobservatory.org](https://search.acousticobservatory.org)
+ - date published: 2023-12-01T05:57:47+00:00
+ - user: None
+ - tags: []
+
+## https://www.acpjournals.org
+ - [https://www.acpjournals.org](https://www.acpjournals.org)
+ - date published: 2023-10-25T20:54:28.582674+00:00
+ - user: None
+ - tags: []
+
+## Chemical & Engineering News
+ - [https://cen.acs.org](https://cen.acs.org)
+ - date published: 2023-12-09T04:59:11.663465+00:00
+ - user: None
+ - tags: ['chemical news', 'engineering news']
+
+## https://pubs.acs.org
+ - [https://pubs.acs.org](https://pubs.acs.org)
+ - date published: 2023-10-25T20:54:31.739169+00:00
+ - user: None
+ - tags: []
+
+## American Chemical Society
+ - [https://www.acs.org](https://www.acs.org)
+ - date published: 2023-10-25T20:54:33.698417+00:00
+ - user: None
+ - tags: []
+
+## American Council on Science and Health |
+ - [https://www.acsh.org](https://www.acsh.org)
+ - date published: 2023-10-25T20:54:38.389591+00:00
+ - user: None
+ - tags: []
+
+## Google
+ - [https://www.actkm.org](https://www.actkm.org)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Actors' Equity Association
+ - [https://www.actorsequity.org](https://www.actorsequity.org)
+ - date published: 2024-02-24T18:23:35.424750+00:00
+ - user: None
+ - tags: []
+
+## Actual | Actual Budget Documentation
+ - [https://actualbudget.org](https://actualbudget.org)
+ - date published: 2024-04-08T19:26:47.793047+00:00
+ - user: None
+ - tags: ['home finance', 'self-host']
+
+## Put Faculty Development at the Center of Student Success
+ - [https://acue.org](https://acue.org)
+ - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## American Dermatological Association – Founded in 1876
+ - [https://ada1.org](https://ada1.org)
+ - date published: 2024-02-08T17:45:57.107537+00:00
+ - user: None
+ - tags: []
+
+## Ada 2012
+ - [https://www.ada2012.org](https://www.ada2012.org)
+ - date published: 2024-04-23T15:56:21+00:00
+ - user: rumpel
+ - tags: ['ada', 'programming language']
+
+## Ada Conformity Assessment Authority
+ - [http://www.ada-auth.org](http://www.ada-auth.org)
+ - date published: 2024-04-23T15:49:52+00:00
+ - user: rumpel
+ - tags: ['ada', 'programming language']
+
+## Ada Resource Association - News and resource for the Ada programming language
+ - [https://www.adaic.org](https://www.adaic.org)
+ - date published: 2024-04-23T15:53:59+00:00
+ - user: rumpel
+ - tags: ['ada', 'programming language']
+
+## Asian Development Bank
+ - [https://www.adb.org](https://www.adb.org)
+ - date published: 2024-04-05T18:55:12.979831+00:00
+ - user: None
+ - tags: []
+
+## Adblock Plus | The world's #1 free ad blocker
+ - [https://adblockplus.org](https://adblockplus.org)
+ - date published: 2023-11-01T08:44:08.907697+00:00
+ - user: None
+ - tags: ['ad block']
+
+## Adblock Plus and (a little) more
+ - [https://blog.adblockplus.org](https://blog.adblockplus.org)
+ - date published: 2023-11-01T08:44:10.579602+00:00
+ - user: None
+ - tags: []
+
+## Adélie Linux | Welcome
+ - [https://www.adelielinux.org](https://www.adelielinux.org)
+ - date published: 2024-01-06T17:39:36.159238+00:00
+ - user: None
+ - tags: []
+
+## AdeptiCon – March 20th – 24th, 2024
+ - [https://www.adepticon.org](https://www.adepticon.org)
+ - date published: 2024-03-15T09:28:07+00:00
+ - user: rumpel
+ - tags: ['wargames', 'tabletop games', 'warhammer', 'community event']
+
+## ADHD Evidence Project
+ - [https://www.adhdevidence.org](https://www.adhdevidence.org)
+ - date published: 2023-10-25T20:54:40.433717+00:00
+ - user: None
+ - tags: []
+
+## Homepage ORG | ADL
+ - [https://www.adl.org](https://www.adl.org)
+ - date published: 2023-10-25T11:25:00.786315+00:00
+ - user: None
+ - tags: []
+
+## Introduction
+ - [https://adoptingerlang.org](https://adoptingerlang.org)
+ - date published: 2024-02-19T17:36:28.445535+00:00
+ - user: None
+ - tags: []
+
+## American Economic Assossiation
+ - [https://pubs.aeaweb.org](https://pubs.aeaweb.org)
+ - date published: 2024-04-12T13:35:03+00:00
+ - user: rumpel
+ - tags: []
+
+## American Economic Association
+ - [https://www.aeaweb.org](https://www.aeaweb.org)
+ - date published: 2023-10-25T20:54:42.266806+00:00
+ - user: None
+ - tags: []
+
+## American Enterprise Institute - AEI | The American Enterprise Institute, AEI, is a nonpartisan public policy research institute with a community of scholars and supporters committed to expanding liberty, increasing individual opportunity and strengthening free enterprise.
+ - [https://www.aei.org](https://www.aei.org)
+ - date published: 2023-10-25T20:54:50.144785+00:00
+ - user: None
+ - tags: []
+
+## aerc - a pretty good email client
+ - [https://aerc-mail.org](https://aerc-mail.org)
+ - date published: 2023-10-25T20:54:51.165477+00:00
+ - user: None
+ - tags: []
+
+## Home | The Aerospace Corporation
+ - [https://aerospace.org](https://aerospace.org)
+ - date published: 2023-10-25T20:54:52.323717+00:00
+ - user: None
+ - tags: []
+
+## Home | American Foundation for the Blind
+ - [https://www.afb.org](https://www.afb.org)
+ - date published: 2023-10-25T20:54:54.541993+00:00
+ - user: None
+ - tags: []
+
+## AFCEA International | AFCEA International
+ - [https://www.afcea.org](https://www.afcea.org)
+ - date published: 2023-10-25T20:54:58.723737+00:00
+ - user: None
+ - tags: []
+
+## American Friends Musées d'Orsay et de l'Orangerie
+ - [https://aforsay.org](https://aforsay.org)
+ - date published: 2023-11-13T13:48:20.528443+00:00
+ - user: None
+ - tags: ['museum']
+
+## Alliance Francaise of Greater Phoenix
+ - [https://afphx.org](https://afphx.org)
+ - date published: 2024-02-08T16:36:05.678130+00:00
+ - user: None
+ - tags: []
+
+## Red Alert Archive - The ultimate Red Alert source
+ - [http://ra.afraid.org](http://ra.afraid.org)
+ - date published: 2000-04-23T00:00:00+00:00
+ - user: rumpel
+ - tags: ['command & conquer']
+
+## A Social Front Organization
+ - [https://social.afront.org](https://social.afront.org)
+ - date published: 2023-10-25T20:55:00.121595+00:00
+ - user: None
+ - tags: []
+
+## After the Plague: Health and History in Medieval England
+ - [https://www.aftertheplague.org](https://www.aftertheplague.org)
+ - date published: 2023-12-06T05:26:05+00:00
+ - user: None
+ - tags: []
+
+## Agentscript: agent based modeling in the browser
+ - [https://agentscript.org](https://agentscript.org)
+ - date published: 2023-10-25T20:55:01.985709+00:00
+ - user: None
+ - tags: []
+
+## Manifesto for Agile Software Development
+ - [https://agilemanifesto.org](https://agilemanifesto.org)
+ - date published: 2001-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://www.aginganddisease.org
+ - [https://www.aginganddisease.org](https://www.aginganddisease.org)
+ - date published: 2023-12-09T18:18:43.004630+00:00
+ - user: None
+ - tags: []
+
 ## Agner Fog
  - [https://agner.org](https://agner.org)
  - date published: 2024-04-15T05:29:25.338579+00:00
@@ -551,16 +1013,16 @@
  - tags: []
 
 ## Antipope!
- - [https://www.antipope.org](https://www.antipope.org)
- - date published: 2023-10-25T20:57:17.170460+00:00
- - user: None
- - tags: []
-
-## Antipope!
  - [http://www.antipope.org](http://www.antipope.org)
  - date published: 2024-04-03T06:39:03.448310+00:00
  - user: None
  - tags: ['personal']
+
+## Antipope!
+ - [https://www.antipope.org](https://www.antipope.org)
+ - date published: 2023-10-25T20:57:17.170460+00:00
+ - user: None
+ - tags: []
 
 ## Anti-Slavery International | Fighting for Freedom from Slavery
  - [https://www.antislavery.org](https://www.antislavery.org)
@@ -680,7 +1142,7 @@
  - [https://httpd.apache.org](https://httpd.apache.org)
  - date published: 2023-10-25T08:35:23.292622+00:00
  - user: None
- - tags: []
+ - tags: ['open source', 'web server']
 
 ## Hello from Apache Hudi | Apache Hudi
  - [https://hudi.apache.org](https://hudi.apache.org)
@@ -753,6 +1215,12 @@
  - date published: 2024-02-26T14:36:35+00:00
  - user: None
  - tags: ['big data', 'data visualisation']
+
+## Apache Tomcat® - Welcome!
+ - [https://tomcat.apache.org](https://tomcat.apache.org)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: rumpel
+ - tags: ['open source', 'web server']
 
 ## Welcome to The Apache Software Foundation!
  - [http://www.apache.org](http://www.apache.org)
@@ -850,17 +1318,17 @@
  - user: None
  - tags: []
 
-## Internet Archive: Secret service
- - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
- - date published: 2023-10-27T14:37:50+00:00
- - user: rumpel
- - tags: ['retro', 'magazine']
-
 ## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
  - [https://archive.org](https://archive.org)
  - date published: 2023-10-25T09:29:04.093943+00:00
  - user: None
  - tags: ['internet archive', 'digital library']
+
+## Internet Archive: Secret service
+ - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
+ - date published: 2023-10-27T14:37:50+00:00
+ - user: rumpel
+ - tags: ['retro', 'magazine']
 
 ## Internet Archive Blogs | A blog from the team at archive.org
  - [https://blog.archive.org](https://blog.archive.org)
@@ -2972,7 +3440,7 @@
  - [https://www.cleanenergywire.org](https://www.cleanenergywire.org)
  - date published: 2023-12-23T14:02:14.311996+00:00
  - user: None
- - tags: []
+ - tags: ['energy news']
 
 ## Welcome to the James Clerk Maxwell Foundation Website
  - [https://clerkmaxwellfoundation.org](https://clerkmaxwellfoundation.org)
@@ -3767,16 +4235,16 @@
  - tags: []
 
 ## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
- - [http://cvsgui.org](http://cvsgui.org)
- - date published: 2024-03-05T00:16:31.622060+00:00
- - user: None
- - tags: []
-
-## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
  - [https://cvsgui.org](https://cvsgui.org)
  - date published: 2024-03-04T12:06:02+00:00
  - user: rumpel
  - tags: ['control version system', 'program', 'vcs', 'open source']
+
+## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
+ - [http://cvsgui.org](http://cvsgui.org)
+ - date published: 2024-03-05T00:16:31.622060+00:00
+ - user: None
+ - tags: []
 
 ## California Water Environment Association | Champions of Wastewater
  - [https://www.cwea.org](https://www.cwea.org)
@@ -3831,6 +4299,12 @@
  - date published: 2023-12-13T16:21:26.331638+00:00
  - user: None
  - tags: []
+
+## dabacon.org – Dave Bacon
+ - [https://dabacon.org](https://dabacon.org)
+ - date published: 2024-04-26T12:35:37.273360+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Dada, an Experiement by the Creators of Rust
  - [https://dada-lang.org](https://dada-lang.org)
@@ -4710,16 +5184,16 @@
  - tags: []
 
 ## Kohina Web Player
- - [http://kohina.duckdns.org](http://kohina.duckdns.org)
- - date published: 2024-02-11T14:38:28.495727+00:00
- - user: None
- - tags: []
-
-## Kohina Web Player
  - [https://kohina.duckdns.org](https://kohina.duckdns.org)
  - date published: 2024-02-15T22:13:24.519956+00:00
  - user: None
  - tags: ['demoscene']
+
+## Kohina Web Player
+ - [http://kohina.duckdns.org](http://kohina.duckdns.org)
+ - date published: 2024-02-11T14:38:28.495727+00:00
+ - user: None
+ - tags: []
 
 ## Duck DNS
  - [https://www.duckdns.org](https://www.duckdns.org)
@@ -5133,7 +5607,7 @@
  - [https://emacsdocs.org](https://emacsdocs.org)
  - date published: 2024-04-06T06:24:10+00:00
  - user: rumpel
- - tags: []
+ - tags: ['programming ide', 'emacs']
 
 ## Hello from Emacs Docs | Emacs Docs
  - [https://www.emacsdocs.org](https://www.emacsdocs.org)
@@ -5534,480 +6008,6 @@
 ## Ex Astris Scientia - Bernd Schneider's Star Trek Site
  - [https://www.ex-astris-scientia.org](https://www.ex-astris-scientia.org)
  - date published: 2023-10-25T21:19:36.786033+00:00
- - user: None
- - tags: []
-
-## Exercism
- - [https://exercism.org](https://exercism.org)
- - date published: 2023-10-25T21:19:39.464087+00:00
- - user: None
- - tags: []
-
-## ExifTool by Phil Harvey
- - [https://exiftool.org](https://exiftool.org)
- - date published: 2023-10-25T21:19:45.814769+00:00
- - user: None
- - tags: []
-
-## Explore.org
- - [https://explore.org](https://explore.org)
- - date published: 2023-10-25T21:19:47.761417+00:00
- - user: None
- - tags: []
-
-## EXP TV
- - [https://exptv.org](https://exptv.org)
- - date published: 2023-10-25T21:19:50.136672+00:00
- - user: None
- - tags: []
-
-## Extism - make all software programmable. Extend from within. | Extism - make all software programmable. Extend from within.
- - [https://extism.org](https://extism.org)
- - date published: 2023-10-25T21:19:54.073061+00:00
- - user: None
- - tags: []
-
-## Eye on Surveillance
- - [https://eyeonsurveillance.org](https://eyeonsurveillance.org)
- - date published: 2024-01-03T18:31:43.190369+00:00
- - user: None
- - tags: []
-
-## F4PGA - the GCC of FPGAs
- - [https://f4pga.org](https://f4pga.org)
- - date published: 2023-10-25T21:19:57.352430+00:00
- - user: None
- - tags: ['fpga', 'tool chain', 'open source']
-
-## Home
- - [https://www.facs.org](https://www.facs.org)
- - date published: 2024-02-24T18:08:15.794736+00:00
- - user: None
- - tags: []
-
-## FactCheck.org
- - [https://www.factcheck.org](https://www.factcheck.org)
- - date published: 2024-02-07T12:11:47+00:00
- - user: rumpel
- - tags: ['fact check', 'annenberg']
-
-## Re: Factor
- - [https://re.factorcode.org](https://re.factorcode.org)
- - date published: 2023-11-11T04:10:27.144245+00:00
- - user: None
- - tags: []
-
-## GitHub - fail2ban/fail2ban: Daemon to ban hosts that cause multiple authentication errors
- - [http://www.fail2ban.org](http://www.fail2ban.org)
- - date published: 2024-04-08T19:26:36.286903+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [https://fair.org](https://fair.org)
- - date published: 2023-10-25T21:19:59.248745+00:00
- - user: None
- - tags: []
-
-## Home - Fairplay
- - [https://fairplayforkids.org](https://fairplayforkids.org)
- - date published: 2024-02-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Fair Trials | Fairness, equality, justice
- - [https://www.fairtrials.org](https://www.fairtrials.org)
- - date published: 2023-10-25T21:20:03.100788+00:00
- - user: None
- - tags: []
-
-## Falco
- - [https://falco.org](https://falco.org)
- - date published: 2023-10-25T21:20:05.441013+00:00
- - user: None
- - tags: []
-
-## Fancyclopedia 3 - Fancyclopedia 3
- - [https://fancyclopedia.org](https://fancyclopedia.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Fanlore
- - [https://fanlore.org](https://fanlore.org)
- - date published: 2023-10-25T13:58:14.775906+00:00
- - user: None
- - tags: []
-
-## Home | Food and Agriculture Organization of the United Nations
- - [https://www.fao.org](https://www.fao.org)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Internet FAQ Archives - Online Education - faqs.org
- - [http://www.faqs.org](http://www.faqs.org)
- - date published: 2024-04-25T12:32:18+00:00
- - user: rumpel
- - tags: ['rfc']
-
-## Home - Federation of American Scientists
- - [https://fas.org](https://fas.org)
- - date published: 2023-10-25T21:20:09.087511+00:00
- - user: None
- - tags: []
-
-## FAS Project on Government Secrecy (1991-2021)
- - [https://sgp.fas.org](https://sgp.fas.org)
- - date published: 2023-10-25T21:20:11.503363+00:00
- - user: None
- - tags: []
-
-## FAWM : February Album Writing Month
- - [https://fiftyninety.fawm.org](https://fiftyninety.fawm.org)
- - date published: 2024-04-07T14:24:46.757683+00:00
- - user: None
- - tags: ['music writing', 'creators']
-
-## Foundation for Defense of Democracies
- - [https://www.fdd.org](https://www.fdd.org)
- - date published: 2024-03-25T00:00:00+00:00
- - user: rumpel
- - tags: ['cybersecurity']
-
-## F-Droid - Free and Open Source Android App Repository
- - [https://f-droid.org](https://f-droid.org)
- - date published: 2023-10-24T20:10:50.007548+00:00
- - user: None
- - tags: ['app store', 'open source']
-
-## Home | Federal Reserve History
- - [https://www.federalreservehistory.org](https://www.federalreservehistory.org)
- - date published: 2023-10-25T21:20:14.023107+00:00
- - user: None
- - tags: []
-
-## FediScience.org
- - [https://fediscience.org](https://fediscience.org)
- - date published: 2023-10-25T21:20:14.575500+00:00
- - user: None
- - tags: []
-
-## Fedora Magazine - Guides, information, and news about the Fedora operating system for users, developers, system administrators, and community members.
- - [https://fedoramagazine.org](https://fedoramagazine.org)
- - date published: 2023-10-25T21:20:17.331969+00:00
- - user: None
- - tags: ['fedora linux']
-
-## {{name}}
- - [https://apps.fedoraproject.org](https://apps.fedoraproject.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['fedora linux']
-
-## Fedora Updates System
- - [https://bodhi.fedoraproject.org](https://bodhi.fedoraproject.org)
- - date published: 2023-10-25T21:20:23.751445+00:00
- - user: None
- - tags: []
-
-## The container optimized OS
- - [https://coreos.fedoraproject.org](https://coreos.fedoraproject.org)
- - date published: 2024-04-15T08:26:00+00:00
- - user: rumpel
- - tags: ['operating system']
-
-## Fedora Discussion
- - [https://discussion.fedoraproject.org](https://discussion.fedoraproject.org)
- - date published: 2024-03-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Fedora Linux
- - [https://fedoraproject.org](https://fedoraproject.org)
- - date published: 2023-11-12T00:21:07.905097+00:00
- - user: None
- - tags: []
-
-## Available lists - Fedora Mailing-Lists
- - [https://lists.fedoraproject.org](https://lists.fedoraproject.org)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - src.fedoraproject.org
- - [https://src.fedoraproject.org](https://src.fedoraproject.org)
- - date published: 2019-02-06T00:00:00+00:00
- - user: rumpel
- - tags: ['fedora linux']
-
-## Fedora Linux | The Fedora Project
- - [https://www.fedoraproject.org](https://www.fedoraproject.org)
- - date published: 2023-10-25T08:32:14.208110+00:00
- - user: None
- - tags: ['operating system']
-
-## Home - Foundation for Economic Education
- - [https://fee.org](https://fee.org)
- - date published: 2023-10-25T21:20:25.430776+00:00
- - user: None
- - tags: []
-
-## Feedbase
- - [https://feedbase.org](https://feedbase.org)
- - date published: 2023-10-25T21:20:26.634084+00:00
- - user: None
- - tags: []
-
-## Feet First Philly
- - [https://feetfirstphilly.org](https://feetfirstphilly.org)
- - date published: 2024-02-08T16:50:23.733268+00:00
- - user: None
- - tags: []
-
-## Fe - A next generation, statically typed, future-proof smart contract language for the Ethereum Virtual Machine
- - [https://fe-lang.org](https://fe-lang.org)
- - date published: 2023-10-25T21:20:12.316273+00:00
- - user: None
- - tags: []
-
-## feldspaten
- - [https://feldspaten.org](https://feldspaten.org)
- - date published: 2023-10-25T21:20:28.648981+00:00
- - user: None
- - tags: []
-
-## :: F E R M A T S E A R C H . O R G :: Home page
- - [http://www.fermatsearch.org](http://www.fermatsearch.org)
- - date published: 2024-04-10T08:11:08.771529+00:00
- - user: None
- - tags: ['math', 'fermat number']
-
-## Home of Feross Aboukhadijeh » Feross.org
- - [https://feross.org](https://feross.org)
- - date published: 2023-12-21T18:22:00.287890+00:00
- - user: None
- - tags: ['personal']
-
-## F.F.A.M. – Fire Fighters Association of Missouri
- - [https://www.ffam.org](https://www.ffam.org)
- - date published: 2024-03-06T16:18:52.729627+00:00
- - user: None
- - tags: []
-
-## www.ffept.org / Fédération Francophone pour l'Elevage et la Protection de la Tortue
- - [https://www.ffept.org](https://www.ffept.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## FFII | Foundation for a Free Information Infrastructure information on software patents, enforcement of IP, trade agreements
- - [https://ffii.org](https://ffii.org)
- - date published: 2023-10-25T21:20:31.744673+00:00
- - user: None
- - tags: ['patents', 'standards']
-
-## FFmpeg
- - [https://ffmpeg.org](https://ffmpeg.org)
- - date published: 2023-10-25T21:20:33.094820+00:00
- - user: None
- - tags: ['video codec']
-
-## FFmpeg
- - [https://www.ffmpeg.org](https://www.ffmpeg.org)
- - date published: 2023-10-25T21:20:34.755297+00:00
- - user: None
- - tags: []
-
-## FIDO Alliance
- - [https://fidoalliance.org](https://fidoalliance.org)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Fifth Estate - Radical publishing since 1965
- - [https://www.fifthestate.org](https://www.fifthestate.org)
- - date published: 2023-10-25T21:20:45.587600+00:00
- - user: None
- - tags: []
-
-## Baraboo WI Lawyers | Sauk County Attorneys Practicing Criminal Defense, Divorce and Family Law, Civil Litigation | Wisconsin Dells Lake Delton Office | Adams, Juneau, and Columbia County, WI | Englund & Associates Law Office LLC
- - [https://www.fiftythree.org](https://www.fiftythree.org)
- - date published: 2024-01-09T03:39:29.033483+00:00
- - user: None
- - tags: []
-
-## Fight for the Future
- - [https://www.fightforthefuture.org](https://www.fightforthefuture.org)
- - date published: 2024-04-03T06:38:56.421296+00:00
- - user: None
- - tags: ['internet', 'activists']
-
-## Filecoin Foundation
- - [https://fil.org](https://fil.org)
- - date published: 2024-01-16T14:56:41.881668+00:00
- - user: None
- - tags: []
-
-## Welcome | File Browser
- - [https://filebrowser.org](https://filebrowser.org)
- - date published: 2024-04-08T19:28:16.561758+00:00
- - user: None
- - tags: ['file browser', 'self-host']
-
-## Tell HN: "Default" FileZilla download bundled with adware
- - [https://filezilla-project.org](https://filezilla-project.org)
- - date published: 2024-03-06T08:53:09+00:00
- - user: None
- - tags: ['ftp']
-
-## Religious Teachers Filippini - Home
- - [https://www.filippiniusa.org](https://www.filippiniusa.org)
- - date published: 2024-02-08T17:06:24.614509+00:00
- - user: None
- - tags: []
-
-## Greatest Films - The Best Movies in Cinematic History
- - [https://www.filmsite.org](https://www.filmsite.org)
- - date published: 2023-10-27T14:19:55.460312+00:00
- - user: None
- - tags: ['movies']
-
-## Filmulator
- - [https://filmulator.org](https://filmulator.org)
- - date published: 2023-10-25T21:20:50.979098+00:00
- - user: None
- - tags: []
-
-## Filter - Harm reduction journalism from a dedicated nonprofit
- - [https://filtermag.org](https://filtermag.org)
- - date published: 2023-10-25T21:20:54.669237+00:00
- - user: None
- - tags: []
-
-## Perspective | Perspective
- - [https://perspective.finos.org](https://perspective.finos.org)
- - date published: 2023-10-25T21:20:56.182673+00:00
- - user: None
- - tags: []
-
-## Firefly III - A free and open source personal finance manager
- - [https://firefly-iii.org](https://firefly-iii.org)
- - date published: 2024-04-08T19:28:21.753411+00:00
- - user: None
- - tags: ['self-host', 'finance manager', 'open source']
-
-## Firefly III: A free and open source personal finance manager
- - [https://www.firefly-iii.org](https://www.firefly-iii.org)
- - date published: 2024-02-16T02:34:03+00:00
- - user: None
- - tags: []
-
-## FIRST - Improving Security Together
- - [https://www.first.org](https://www.first.org)
- - date published: 2024-02-28T11:30:22+00:00
- - user: rumpel
- - tags: ['cybersecurity']
-
-## First Monday
- - [https://firstmonday.org](https://firstmonday.org)
- - date published: 2023-10-25T10:40:03.231308+00:00
- - user: None
- - tags: []
-
-## Home - First Street Foundation
- - [https://firststreet.org](https://firststreet.org)
- - date published: 2023-10-25T21:21:02.002987+00:00
- - user: None
- - tags: []
-
-## www.fitzsim.org - Home
- - [https://www.fitzsim.org](https://www.fitzsim.org)
- - date published: 2023-10-25T21:21:04.082460+00:00
- - user: None
- - tags: []
-
-## FixScript
- - [https://www.fixscript.org](https://www.fixscript.org)
- - date published: 2024-01-09T03:39:30.640174+00:00
- - user: None
- - tags: []
-
-## Flarum
- - [https://flarum.org](https://flarum.org)
- - date published: 2024-04-08T19:28:26.554998+00:00
- - user: None
- - tags: ['self-host', 'forum software']
-
-## FlashMuseum - Flash Games & Animations
- - [https://flashmuseum.org](https://flashmuseum.org)
- - date published: 2023-10-25T21:21:09.908752+00:00
- - user: None
- - tags: []
-
-## Flashpoint Archive
- - [https://flashpointarchive.org](https://flashpointarchive.org)
- - date published: 2024-01-25T08:02:38+00:00
- - user: rumpel
- - tags: ['flash animations', 'internet archive', 'flash games']
-
-## Flatcar Container Linux | Flatcar Container Linux
- - [https://www.flatcar.org](https://www.flatcar.org)
- - date published: 2023-10-25T21:21:16.338373+00:00
- - user: None
- - tags: []
-
-## Welcome | Flathub Documentation
- - [https://docs.flathub.org](https://docs.flathub.org)
- - date published: 2024-01-19T09:58:43+00:00
- - user: None
- - tags: []
-
-## Home | Flathub
- - [https://flathub.org](https://flathub.org)
- - date published: 2023-10-24T20:10:54.843465+00:00
- - user: rumpel
- - tags: ['app store']
-
-## Florida Center for Government Accountability (FLCGA)
- - [https://flcga.org](https://flcga.org)
- - date published: 2023-12-23T15:54:53.009825+00:00
- - user: None
- - tags: []
-
-## François Fleuret's Homepage
- - [https://fleuret.org](https://fleuret.org)
- - date published: 2023-10-25T21:21:18.004916+00:00
- - user: None
- - tags: []
-
-## Home - Flickr Foundation
- - [https://www.flickr.org](https://www.flickr.org)
- - date published: 2023-10-25T21:21:20.421034+00:00
- - user: None
- - tags: []
-
-## floverfelt.org | Thoughts, notes, etc.
- - [https://floverfelt.org](https://floverfelt.org)
- - date published: 2023-10-25T21:21:21.603835+00:00
- - user: None
- - tags: []
-
-## Flow – The officially worst software development methodology in history
- - [https://flowmanifest.org](https://flowmanifest.org)
- - date published: 2023-10-25T21:21:23.100842+00:00
- - user: None
- - tags: []
-
-## Fluoride Action Network
- - [https://fluoridealert.org](https://fluoridealert.org)
- - date published: 2023-12-21T05:55:08.977188+00:00
- - user: None
- - tags: []
-
-## Fluxus Portal
- - [https://fluxus.org](https://fluxus.org)
- - date published: 2023-10-25T21:21:25.292968+00:00
  - user: None
  - tags: []
 
