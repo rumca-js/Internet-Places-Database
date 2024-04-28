@@ -1,3 +1,93 @@
+## Makarony, Sosy, Przepisy | Barilla
+ - [https://www.barilla.com](https://www.barilla.com)
+ - date published: 2023-10-25T08:25:34.703651+00:00
+ - user: None
+ - tags: []
+
+## The Barker Hangar – Event Venue Santa Monica
+ - [https://barkerhangar.com](https://barkerhangar.com)
+ - date published: 2024-02-08T16:36:20.738882+00:00
+ - user: None
+ - tags: []
+
+## Online Bookstore: Books, NOOK ebooks, Music, Movies & Toys
+ - [https://www.barnesandnoble.com](https://www.barnesandnoble.com)
+ - date published: 2024-01-23T13:54:36+00:00
+ - user: rumpel
+ - tags: ['shop', 'magazines', 'ebooks']
+
+## Journey Notes - Your guide to a safer path
+ - [https://blog.barracuda.com](https://blog.barracuda.com)
+ - date published: 2023-10-25T09:31:57.758193+00:00
+ - user: None
+ - tags: []
+
+## Software Expert Witness | Barr Group
+ - [https://barrgroup.com](https://barrgroup.com)
+ - date published: 2023-10-25T12:52:25.732566+00:00
+ - user: None
+ - tags: []
+
+## Barron's | Financial and Investment News
+ - [https://www.barrons.com](https://www.barrons.com)
+ - date published: 2023-10-25T10:57:29.159607+00:00
+ - user: None
+ - tags: []
+
+## Barry Morisse
+ - [https://barrymorisse.com](https://barrymorisse.com)
+ - date published: 2024-01-04T19:57:15.602300+00:00
+ - user: None
+ - tags: []
+
+## Bartending License Help
+ - [https://bartendinglicensehelp.com](https://bartendinglicensehelp.com)
+ - date published: 2023-10-25T12:52:27.840751+00:00
+ - user: None
+ - tags: []
+
+## https://www.bartertown.com
+ - [https://www.bartertown.com](https://www.bartertown.com)
+ - date published: 2023-12-13T15:38:15.820398+00:00
+ - user: None
+ - tags: []
+
+## Bartholomew's Notes
+ - [https://barthsnotes.com](https://barthsnotes.com)
+ - date published: 2024-03-21T18:19:58.740360+00:00
+ - user: None
+ - tags: []
+
+## BARTKIRA.COM
+ - [https://www.bartkira.com](https://www.bartkira.com)
+ - date published: 2024-01-28T13:01:46.832267+00:00
+ - user: None
+ - tags: []
+
+## Barton & Associates Real Estate – Selling homes and land in Pittsfield and the surrounding area for over 30 years.
+ - [https://www.barton-homes.com](https://www.barton-homes.com)
+ - date published: 2024-02-08T16:45:13.739260+00:00
+ - user: None
+ - tags: []
+
+## Bartosz Górka
+ - [https://bartoszgorka.com](https://bartoszgorka.com)
+ - date published: 2023-12-12T13:08:08.350025+00:00
+ - user: None
+ - tags: ['personal']
+
+## Bartosz Sypytkowski
+ - [https://www.bartoszsypytkowski.com](https://www.bartoszsypytkowski.com)
+ - date published: 2023-10-25T12:52:30.525848+00:00
+ - user: None
+ - tags: []
+
+## Index of /
+ - [http://www.basebook.com](http://www.basebook.com)
+ - date published: 2024-04-23T22:25:56.446023+00:00
+ - user: None
+ - tags: []
+
 ## Project management software, online collaboration
  - [https://basecamp.com](https://basecamp.com)
  - date published: 2000-01-01T00:00:00+00:00
@@ -77,16 +167,16 @@
  - tags: []
 
 ## Bay 12 Games: Dwarf Fortress
- - [https://www.bay12games.com](https://www.bay12games.com)
- - date published: 2023-10-25T11:08:28.145829+00:00
- - user: None
- - tags: ['video game', 'dwarf fortress']
-
-## Bay 12 Games: Dwarf Fortress
  - [http://www.bay12games.com](http://www.bay12games.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Bay 12 Games: Dwarf Fortress
+ - [https://www.bay12games.com](https://www.bay12games.com)
+ - date published: 2023-10-25T11:08:28.145829+00:00
+ - user: None
+ - tags: ['video game', 'dwarf fortress']
 
 ## Ryan Orrock's Tantra – Resources for Spirituality and Sexuality
  - [https://www.bayraba.com](https://www.bayraba.com)
@@ -1031,14 +1121,14 @@
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [http://billingsgazette.com](http://billingsgazette.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://billingsgazette.com](https://billingsgazette.com)
+ - date published: 2023-12-17T18:30:53.119094+00:00
  - user: None
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [https://billingsgazette.com](https://billingsgazette.com)
- - date published: 2023-12-17T18:30:53.119094+00:00
+ - [http://billingsgazette.com](http://billingsgazette.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1439,14 +1529,14 @@
  - tags: []
 
 ## Bits in Flight
- - [http://bitsinflight.com](http://bitsinflight.com)
- - date published: 2024-04-03T12:49:20.656238+00:00
+ - [https://bitsinflight.com](https://bitsinflight.com)
+ - date published: 2023-12-21T03:31:11.484659+00:00
  - user: None
  - tags: ['personal']
 
 ## Bits in Flight
- - [https://bitsinflight.com](https://bitsinflight.com)
- - date published: 2023-12-21T03:31:11.484659+00:00
+ - [http://bitsinflight.com](http://bitsinflight.com)
+ - date published: 2024-04-03T12:49:20.656238+00:00
  - user: None
  - tags: ['personal']
 
@@ -1901,14 +1991,14 @@
  - tags: []
 
 ## ADD / XOR / ROL
- - [https://addxorrol.blogspot.com](https://addxorrol.blogspot.com)
- - date published: 2024-01-09T02:30:36.134136+00:00
+ - [http://addxorrol.blogspot.com](http://addxorrol.blogspot.com)
+ - date published: 2024-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
 ## ADD / XOR / ROL
- - [http://addxorrol.blogspot.com](http://addxorrol.blogspot.com)
- - date published: 2024-01-31T00:00:00+00:00
+ - [https://addxorrol.blogspot.com](https://addxorrol.blogspot.com)
+ - date published: 2024-01-09T02:30:36.134136+00:00
  - user: None
  - tags: []
 
@@ -1985,13 +2075,13 @@
  - tags: ['personal']
 
 ## The Axis of Eval
- - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
+ - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Axis of Eval
- - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
+ - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
@@ -2141,16 +2231,16 @@
  - tags: ['personal']
 
 ## Database Architects
- - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Database Architects
  - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
  - date published: 2023-10-25T09:08:09.774302+00:00
  - user: None
  - tags: ['personal']
+
+## Database Architects
+ - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Data Finnovation
  - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
@@ -2177,14 +2267,14 @@
  - tags: ['personal']
 
 ## Twin methods in OpenMx
- - [http://dbtemp.blogspot.com](http://dbtemp.blogspot.com)
- - date published: 2024-02-25T15:50:25.877373+00:00
+ - [https://dbtemp.blogspot.com](https://dbtemp.blogspot.com)
+ - date published: 2023-11-19T21:54:21.568274+00:00
  - user: None
  - tags: []
 
 ## Twin methods in OpenMx
- - [https://dbtemp.blogspot.com](https://dbtemp.blogspot.com)
- - date published: 2023-11-19T21:54:21.568274+00:00
+ - [http://dbtemp.blogspot.com](http://dbtemp.blogspot.com)
+ - date published: 2024-02-25T15:50:25.877373+00:00
  - user: None
  - tags: []
 
@@ -2509,6 +2599,12 @@
 ## Living Stingy
  - [https://livingstingy.blogspot.com](https://livingstingy.blogspot.com)
  - date published: 2023-10-25T13:05:32.372582+00:00
+ - user: None
+ - tags: []
+
+## Long-Forgotten
+ - [https://longforgottenhauntedmansion.blogspot.com](https://longforgottenhauntedmansion.blogspot.com)
+ - date published: 2024-04-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2963,14 +3059,14 @@
  - tags: []
 
 ## Eye of Hydra
- - [https://zenorogue.blogspot.com](https://zenorogue.blogspot.com)
- - date published: 2023-12-27T19:21:24.521478+00:00
+ - [http://zenorogue.blogspot.com](http://zenorogue.blogspot.com)
+ - date published: 2024-02-25T20:09:57.614507+00:00
  - user: None
  - tags: []
 
 ## Eye of Hydra
- - [http://zenorogue.blogspot.com](http://zenorogue.blogspot.com)
- - date published: 2024-02-25T20:09:57.614507+00:00
+ - [https://zenorogue.blogspot.com](https://zenorogue.blogspot.com)
+ - date published: 2023-12-27T19:21:24.521478+00:00
  - user: None
  - tags: []
 
@@ -3323,16 +3419,16 @@
  - tags: ['aviation', 'aerospace', 'avionics']
 
 ## Chris Aldrich | BoffoSocko
- - [https://boffosocko.com](https://boffosocko.com)
- - date published: 2024-01-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Chris Aldrich | BoffoSocko
  - [http://boffosocko.com](http://boffosocko.com)
  - date published: 2024-02-26T14:52:14.236002+00:00
  - user: None
  - tags: ['personal']
+
+## Chris Aldrich | BoffoSocko
+ - [https://boffosocko.com](https://boffosocko.com)
+ - date published: 2024-01-02T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Chris Aldrich | BoffoSocko
  - [https://www.boffosocko.com](https://www.boffosocko.com)
@@ -3517,14 +3613,14 @@
  - tags: ['books']
 
 ## Bookreporter.com |
- - [https://www.bookreporter.com](https://www.bookreporter.com)
- - date published: 2023-11-07T16:06:19.097099+00:00
+ - [http://www.bookreporter.com](http://www.bookreporter.com)
+ - date published: 2024-03-01T19:06:27.394328+00:00
  - user: None
  - tags: []
 
 ## Bookreporter.com |
- - [http://www.bookreporter.com](http://www.bookreporter.com)
- - date published: 2024-03-01T19:06:27.394328+00:00
+ - [https://www.bookreporter.com](https://www.bookreporter.com)
+ - date published: 2023-11-07T16:06:19.097099+00:00
  - user: None
  - tags: []
 
@@ -3709,16 +3805,16 @@
  - tags: []
 
 ## Home | Boston Dynamics
- - [http://www.bostondynamics.com](http://www.bostondynamics.com)
- - date published: 2024-03-28T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Home | Boston Dynamics
  - [https://www.bostondynamics.com](https://www.bostondynamics.com)
  - date published: 2024-03-28T00:00:00+00:00
  - user: rumpel
  - tags: ['robots', 'robotics']
+
+## Home | Boston Dynamics
+ - [http://www.bostondynamics.com](http://www.bostondynamics.com)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: rumpel
+ - tags: []
 
 ## The Boston Globe
  - [https://www.bostonglobe.com](https://www.bostonglobe.com)
@@ -4444,7 +4540,7 @@
  - [https://brodyq.com](https://brodyq.com)
  - date published: 2024-04-26T23:56:28.769032+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Brody Q Photo
  - [https://www.brodyq.com](https://www.brodyq.com)
@@ -4807,14 +4903,14 @@
  - tags: []
 
 ## Business Owners Success Club
- - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
- - date published: 8211-01-01T00:00:00+00:00
+ - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
+ - date published: 2024-04-03T06:24:35.974117+00:00
  - user: None
  - tags: ['personal']
 
 ## Business Owners Success Club
- - [http://www.businessownerssuccessclub.com](http://www.businessownerssuccessclub.com)
- - date published: 2024-04-03T06:24:35.974117+00:00
+ - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
+ - date published: 8211-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
@@ -5514,6 +5610,12 @@
  - user: None
  - tags: []
 
+## Capterra: Find & Evaluate Top Software & Business Services
+ - [https://www.capterra.com](https://www.capterra.com)
+ - date published: 2024-04-27T07:12:05.774534+00:00
+ - user: None
+ - tags: []
+
 ## CaptoGlove - Virtual reality wearable gaming motion controller
  - [https://www.captoglove.com](https://www.captoglove.com)
  - date published: 2023-11-27T16:17:26+00:00
@@ -5581,14 +5683,14 @@
  - tags: ['site building']
 
 ## None
- - [https://www.caribpress.com](https://www.caribpress.com)
- - date published: 2024-01-09T02:31:43.727437+00:00
+ - [http://www.caribpress.com](http://www.caribpress.com)
+ - date published: 2024-02-25T15:38:05.095360+00:00
  - user: None
  - tags: []
 
 ## None
- - [http://www.caribpress.com](http://www.caribpress.com)
- - date published: 2024-02-25T15:38:05.095360+00:00
+ - [https://www.caribpress.com](https://www.caribpress.com)
+ - date published: 2024-01-09T02:31:43.727437+00:00
  - user: None
  - tags: []
 
@@ -5782,7 +5884,7 @@
  - [https://castagneengine.com](https://castagneengine.com)
  - date published: 2023-10-30T16:39:00.525090+00:00
  - user: None
- - tags: ['game engine', 'open source']
+ - tags: ['video game engine', 'open source']
 
 ## Home - Castle Supplys
  - [https://castlesupplys.com](https://castlesupplys.com)
@@ -5903,106 +6005,4 @@
  - date published: 2023-11-28T20:49:03+00:00
  - user: None
  - tags: ['cats']
-
-## Larry's Home Page
- - [https://www.catsincharge.com](https://www.catsincharge.com)
- - date published: 2024-02-08T17:51:31.300754+00:00
- - user: None
- - tags: []
-
-## Cats the Musical • Official Website and Tickets
- - [https://www.catsthemusical.com](https://www.catsthemusical.com)
- - date published: 2023-11-28T20:49:42+00:00
- - user: rumpel
- - tags: ['cats']
-
-## Catsuka
- - [https://www.catsuka.com](https://www.catsuka.com)
- - date published: 2023-10-25T11:01:46.712865+00:00
- - user: None
- - tags: []
-
-## The Caveman Code | Home
- - [https://www.cavemancode.com](https://www.cavemancode.com)
- - date published: 2024-02-24T14:22:58.981779+00:00
- - user: None
- - tags: []
-
-## Cayman News Service
- - [https://caymannewsservice.com](https://caymannewsservice.com)
- - date published: 2023-10-25T13:19:25.716492+00:00
- - user: None
- - tags: []
-
-## CBMSTUFF.COM
- - [https://www.cbmstuff.com](https://www.cbmstuff.com)
- - date published: 2023-12-11T17:28:43.401807+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.cbr.com](https://www.cbr.com)
- - date published: 2024-02-24T09:56:05.906293+00:00
- - user: None
- - tags: ['comics']
-
-## Austin News, Weather, Sports, Breaking News | KEYE
- - [https://cbsaustin.com](https://cbsaustin.com)
- - date published: 2023-10-25T11:02:10.272499+00:00
- - user: None
- - tags: []
-
-## CBS News - Breaking news, 24/7 live streaming news & top stories
- - [https://cbsnews.com](https://cbsnews.com)
- - date published: 2023-12-29T20:01:38.948889+00:00
- - user: None
- - tags: []
-
-## CBS News - Breaking news, 24/7 live streaming news & top stories
- - [https://www.cbsnews.com](https://www.cbsnews.com)
- - date published: 2023-10-25T10:25:17.439159+00:00
- - user: None
- - tags: []
-
-## CBS Sports - News, Live Scores, Schedules, Fantasy Games, Video and more.
- - [https://www.cbssports.com](https://www.cbssports.com)
- - date published: 2023-12-09T20:58:52.831010+00:00
- - user: None
- - tags: []
-
-## South Park  -  Satirical Animated  TV Show | Watch Free Episodes | South Park Studios Global
- - [https://southpark.cc.com](https://southpark.cc.com)
- - date published: 2023-10-25T11:44:25.966783+00:00
- - user: None
- - tags: ['video streaming', 'comedy central']
-
-## Home
- - [https://cceoneida.com](https://cceoneida.com)
- - date published: 2024-01-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## CCN | Crypto and Bitcoin News, Analysis and Guides.
- - [https://www.ccn.com](https://www.ccn.com)
- - date published: 2023-10-25T13:19:35.212758+00:00
- - user: None
- - tags: []
-
-## 体育_央视网(cctv.com)
- - [https://sports.cctv.com](https://sports.cctv.com)
- - date published: 2023-12-09T12:18:44.730556+00:00
- - user: None
- - tags: []
-
-## 体育_央视网(cctv.com)
- - [http://sports.cctv.com](http://sports.cctv.com)
- - date published: 2024-03-21T02:07:49.559014+00:00
- - user: None
- - tags: []
-
-## Coeur d'Alene Press
- - [https://cdapress.com](https://cdapress.com)
- - date published: 2024-02-28T22:18:15.944968+00:00
- - user: None
- - tags: []
 

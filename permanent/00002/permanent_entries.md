@@ -1,3 +1,45 @@
+## The AdaCore Blog
+ - [https://blog.adacore.com](https://blog.adacore.com)
+ - date published: 2023-10-25T12:31:46.863448+00:00
+ - user: None
+ - tags: []
+
+## “learn.adacore.com"
+ - [https://learn.adacore.com](https://learn.adacore.com)
+ - date published: 2024-04-23T15:49:20+00:00
+ - user: rumpel
+ - tags: []
+
+## Commercial software solutions for Ada, C and C++ | AdaCore
+ - [https://www.adacore.com](https://www.adacore.com)
+ - date published: 2023-10-25T11:27:07.163203+00:00
+ - user: None
+ - tags: ['do-178c', 'do-178b']
+
+## Adactio: Jeremy Keith
+ - [https://adactio.com](https://adactio.com)
+ - date published: 2024-02-20T13:43:47.919369+00:00
+ - user: None
+ - tags: []
+
+## Adafruit Industries - Makers, hackers, artists, designers and engineers!
+ - [http://blog.adafruit.com](http://blog.adafruit.com)
+ - date published: 2024-02-25T14:26:38.171328+00:00
+ - user: None
+ - tags: []
+
+## Adafruit Industries – Makers, hackers, artists, designers and engineers!
+ - [https://blog.adafruit.com](https://blog.adafruit.com)
+ - date published: 2023-10-25T12:31:55.789084+00:00
+ - user: None
+ - tags: []
+
+## Adafruit Industries, Unique & fun DIY electronics and kits
+ - [https://www.adafruit.com](https://www.adafruit.com)
+ - date published: 2023-10-25T11:14:43.308029+00:00
+ - user: None
+ - tags: ['single board computers', 'hardware parts', 'electronic parts']
+
 ## https://adage.com
  - [https://adage.com](https://adage.com)
  - date published: 2023-10-25T12:31:57.417942+00:00
@@ -187,6 +229,12 @@
  - tags: []
 
 ## AddyOsmani.com
+ - [http://addyosmani.com](http://addyosmani.com)
+ - date published: 2024-04-27T08:04:59.578224+00:00
+ - user: None
+ - tags: ['personal']
+
+## AddyOsmani.com
  - [https://addyosmani.com](https://addyosmani.com)
  - date published: 2023-10-25T12:32:27.930354+00:00
  - user: None
@@ -255,6 +303,12 @@
 ## ADN América
  - [https://adnamerica.com](https://adnamerica.com)
  - date published: 2023-10-25T12:33:03.332537+00:00
+ - user: None
+ - tags: []
+
+## Adobe Acrobat
+ - [https://acrobat.adobe.com](https://acrobat.adobe.com)
+ - date published: 2024-04-27T08:02:45.854243+00:00
  - user: None
  - tags: []
 
@@ -391,14 +445,14 @@
  - tags: []
 
 ## Home - Adventure Hermit Travel
- - [https://adventurehermit.com](https://adventurehermit.com)
- - date published: 2024-01-06T08:54:27.239976+00:00
+ - [http://adventurehermit.com](http://adventurehermit.com)
+ - date published: 2020-05-19T07:46:57+00:00
  - user: None
  - tags: []
 
 ## Home - Adventure Hermit Travel
- - [http://adventurehermit.com](http://adventurehermit.com)
- - date published: 2020-05-19T07:46:57+00:00
+ - [https://adventurehermit.com](https://adventurehermit.com)
+ - date published: 2024-01-06T08:54:27.239976+00:00
  - user: None
  - tags: []
 
@@ -597,6 +651,12 @@
 ## Home - Agenzia Nova
  - [https://www.agenzianova.com](https://www.agenzianova.com)
  - date published: 2023-12-25T09:27:40.052555+00:00
+ - user: None
+ - tags: []
+
+## Age of Empires Franchise - Official Web Site
+ - [https://www.ageofempires.com](https://www.ageofempires.com)
+ - date published: 2017-01-07T07:32:53+00:00
  - user: None
  - tags: []
 
@@ -1459,14 +1519,14 @@
  - tags: []
 
 ## Alex Eaton - Writer & Photographer
- - [http://www.alexreaton.com](http://www.alexreaton.com)
- - date published: 2024-04-03T06:26:38.936322+00:00
+ - [https://www.alexreaton.com](https://www.alexreaton.com)
+ - date published: 2024-02-09T00:12:37.874010+00:00
  - user: None
  - tags: ['personal']
 
 ## Alex Eaton - Writer & Photographer
- - [https://www.alexreaton.com](https://www.alexreaton.com)
- - date published: 2024-02-09T00:12:37.874010+00:00
+ - [http://www.alexreaton.com](http://www.alexreaton.com)
+ - date published: 2024-04-03T06:26:38.936322+00:00
  - user: None
  - tags: ['personal']
 
@@ -1585,16 +1645,16 @@
  - tags: ['digital marketplace']
 
 ## Home -
- - [http://alifeunlived.com](http://alifeunlived.com)
- - date published: 2015-08-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home -
  - [https://alifeunlived.com](https://alifeunlived.com)
  - date published: 2023-12-22T17:50:45.863289+00:00
  - user: None
  - tags: ['personal']
+
+## Home -
+ - [http://alifeunlived.com](http://alifeunlived.com)
+ - date published: 2015-08-20T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Alin Panaitiu - Personal website
  - [https://alinpanaitiu.com](https://alinpanaitiu.com)
@@ -2485,16 +2545,16 @@
  - tags: ['personal']
 
 ## Anaël Verdier – Surfer d'imaginaires
- - [http://anaelverdier.com](http://anaelverdier.com)
- - date published: 2024-04-03T06:31:21.733136+00:00
- - user: None
- - tags: ['personal']
-
-## Anaël Verdier – Surfer d'imaginaires
  - [https://anaelverdier.com](https://anaelverdier.com)
  - date published: 2023-11-29T17:07:23.087184+00:00
  - user: None
  - tags: []
+
+## Anaël Verdier – Surfer d'imaginaires
+ - [http://anaelverdier.com](http://anaelverdier.com)
+ - date published: 2024-04-03T06:31:21.733136+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Mixed-signal and digital signal processing ICs | Analog Devices
  - [https://www.analog.com](https://www.analog.com)
@@ -2563,16 +2623,16 @@
  - tags: []
 
 ## AndersenSilva.com
- - [https://andersensilva.com](https://andersensilva.com)
- - date published: 2023-12-27T01:10:57.904709+00:00
- - user: None
- - tags: ['personal']
-
-## AndersenSilva.com
  - [http://andersensilva.com](http://andersensilva.com)
  - date published: 2022-05-05T00:00:00+00:00
  - user: None
  - tags: []
+
+## AndersenSilva.com
+ - [https://andersensilva.com](https://andersensilva.com)
+ - date published: 2023-12-27T01:10:57.904709+00:00
+ - user: None
+ - tags: ['personal']
 
 ## ShunyaEkam.com
  - [https://andersentobias.com](https://andersentobias.com)
@@ -2605,16 +2665,16 @@
  - tags: ['personal']
 
 ## Andrea Feucht: IFS Practitioner
- - [http://andreafeucht.com](http://andreafeucht.com)
- - date published: 2024-03-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Andrea Feucht: IFS Practitioner
  - [https://andreafeucht.com](https://andreafeucht.com)
  - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: ['personal']
+
+## Andrea Feucht: IFS Practitioner
+ - [http://andreafeucht.com](http://andreafeucht.com)
+ - date published: 2024-03-27T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Andrea Leopardi
  - [https://andrealeopardi.com](https://andrealeopardi.com)
@@ -3234,15 +3294,15 @@
  - user: None
  - tags: []
 
-## List of posts - <antirez>
- - [http://antirez.com](http://antirez.com)
- - date published: 2024-02-25T14:05:17.604190+00:00
- - user: None
- - tags: []
-
 ## Redis - The Real-time Data Platform
  - [https://antirez.com](https://antirez.com)
  - date published: 2024-01-02T12:33:10.039907+00:00
+ - user: None
+ - tags: []
+
+## List of posts - <antirez>
+ - [http://antirez.com](http://antirez.com)
+ - date published: 2024-02-25T14:05:17.604190+00:00
  - user: None
  - tags: []
 
@@ -3514,7 +3574,7 @@
  - [https://machinelearning.apple.com](https://machinelearning.apple.com)
  - date published: 2023-10-25T11:30:54.642471+00:00
  - user: None
- - tags: []
+ - tags: ['machine learning', 'apple']
 
 ## Get millions of songs. All ad-free.
  - [https://music.apple.com](https://music.apple.com)
@@ -3570,15 +3630,15 @@
  - user: None
  - tags: []
 
-## apple-history.com / specs for every apple computer, established 1996
- - [https://apple-history.com](https://apple-history.com)
- - date published: 2024-01-09T02:29:45.944627+00:00
- - user: None
- - tags: []
-
 ## apple-history.com
  - [http://apple-history.com](http://apple-history.com)
  - date published: 2024-02-26T14:43:28.639176+00:00
+ - user: None
+ - tags: []
+
+## apple-history.com / specs for every apple computer, established 1996
+ - [https://apple-history.com](https://apple-history.com)
+ - date published: 2024-01-09T02:29:45.944627+00:00
  - user: None
  - tags: []
 
@@ -3636,6 +3696,12 @@
  - user: None
  - tags: []
 
+## Google AppSheet | Build apps with no code
+ - [https://about.appsheet.com](https://about.appsheet.com)
+ - date published: 2024-04-27T08:27:10.639536+00:00
+ - user: None
+ - tags: []
+
 ## The latest on everything AppSignal | AppSignal Blog
  - [https://blog.appsignal.com](https://blog.appsignal.com)
  - date published: 2023-10-25T12:43:17.532816+00:00
@@ -3651,6 +3717,12 @@
 ## Appsmith | Open-Source Internal Tool Builder
  - [https://www.appsmith.com](https://www.appsmith.com)
  - date published: 2023-10-25T12:43:22.543386+00:00
+ - user: None
+ - tags: []
+
+## Google for Developers - from AI and Cloud to Mobile and Web
+ - [https://developers-dot-devsite-v2-prod.appspot.com](https://developers-dot-devsite-v2-prod.appspot.com)
+ - date published: 2024-05-14T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4228,7 +4300,7 @@
  - [https://www.artbrussels.com](https://www.artbrussels.com)
  - date published: 2024-04-28T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['art', 'community event']
 
 ## Artificial Fintelligence | Finbarr Timbers | Substack
  - [https://www.artfintel.com](https://www.artfintel.com)
@@ -4728,6 +4800,12 @@
  - user: None
  - tags: ['jira']
 
+## Atlassian Marketplace
+ - [https://marketplace.atlassian.com](https://marketplace.atlassian.com)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Atlassian Support
  - [https://support.atlassian.com](https://support.atlassian.com)
  - date published: 2024-03-04T00:00:00+00:00
@@ -4951,14 +5029,14 @@
  - tags: []
 
 ## Dystalgia - DYSTALGIA : Aurel Manea photography & visuals
- - [https://aurelm.com](https://aurelm.com)
- - date published: 2024-01-09T01:36:57.652800+00:00
+ - [http://aurelm.com](http://aurelm.com)
+ - date published: 2024-02-25T19:34:30.262488+00:00
  - user: None
  - tags: []
 
 ## Dystalgia - DYSTALGIA : Aurel Manea photography & visuals
- - [http://aurelm.com](http://aurelm.com)
- - date published: 2024-02-25T19:34:30.262488+00:00
+ - [https://aurelm.com](https://aurelm.com)
+ - date published: 2024-01-09T01:36:57.652800+00:00
  - user: None
  - tags: []
 
@@ -5069,6 +5147,18 @@
  - date published: 2024-03-19T11:57:40+00:00
  - user: rumpel
  - tags: ['vin', 'vehicles', 'online tool']
+
+## Autodesk empowers innovators everywhere to make the new possible
+ - [https://autodesk.com](https://autodesk.com)
+ - date published: 2024-04-10T03:59:42+00:00
+ - user: rumpel
+ - tags: ['autocad', 'company']
+
+## Autodesk – Autodesk
+ - [https://blogs.autodesk.com](https://blogs.autodesk.com)
+ - date published: 2024-04-27T08:02:39.193453+00:00
+ - user: None
+ - tags: []
 
 ## Autodesk | 3D Design, Engineering & Construction Software
  - [https://www.autodesk.com](https://www.autodesk.com)
@@ -5407,14 +5497,14 @@
  - tags: []
 
 ## azdailysun.com | Serving Flagstaff and Northern Arizona
- - [https://azdailysun.com](https://azdailysun.com)
- - date published: 2023-12-25T13:49:43.018410+00:00
+ - [http://azdailysun.com](http://azdailysun.com)
+ - date published: 2024-02-19T00:00:00+00:00
  - user: None
  - tags: []
 
 ## azdailysun.com | Serving Flagstaff and Northern Arizona
- - [http://azdailysun.com](http://azdailysun.com)
- - date published: 2024-02-19T00:00:00+00:00
+ - [https://azdailysun.com](https://azdailysun.com)
+ - date published: 2023-12-25T13:49:43.018410+00:00
  - user: None
  - tags: []
 
@@ -5907,96 +5997,6 @@
 ## Bare Bones Software | Welcome
  - [https://www.barebones.com](https://www.barebones.com)
  - date published: 2023-10-25T12:52:23.086024+00:00
- - user: None
- - tags: []
-
-## Makarony, Sosy, Przepisy | Barilla
- - [https://www.barilla.com](https://www.barilla.com)
- - date published: 2023-10-25T08:25:34.703651+00:00
- - user: None
- - tags: []
-
-## The Barker Hangar – Event Venue Santa Monica
- - [https://barkerhangar.com](https://barkerhangar.com)
- - date published: 2024-02-08T16:36:20.738882+00:00
- - user: None
- - tags: []
-
-## Online Bookstore: Books, NOOK ebooks, Music, Movies & Toys
- - [https://www.barnesandnoble.com](https://www.barnesandnoble.com)
- - date published: 2024-01-23T13:54:36+00:00
- - user: rumpel
- - tags: ['shop', 'magazines', 'ebooks']
-
-## Journey Notes - Your guide to a safer path
- - [https://blog.barracuda.com](https://blog.barracuda.com)
- - date published: 2023-10-25T09:31:57.758193+00:00
- - user: None
- - tags: []
-
-## Software Expert Witness | Barr Group
- - [https://barrgroup.com](https://barrgroup.com)
- - date published: 2023-10-25T12:52:25.732566+00:00
- - user: None
- - tags: []
-
-## Barron's | Financial and Investment News
- - [https://www.barrons.com](https://www.barrons.com)
- - date published: 2023-10-25T10:57:29.159607+00:00
- - user: None
- - tags: []
-
-## Barry Morisse
- - [https://barrymorisse.com](https://barrymorisse.com)
- - date published: 2024-01-04T19:57:15.602300+00:00
- - user: None
- - tags: []
-
-## Bartending License Help
- - [https://bartendinglicensehelp.com](https://bartendinglicensehelp.com)
- - date published: 2023-10-25T12:52:27.840751+00:00
- - user: None
- - tags: []
-
-## https://www.bartertown.com
- - [https://www.bartertown.com](https://www.bartertown.com)
- - date published: 2023-12-13T15:38:15.820398+00:00
- - user: None
- - tags: []
-
-## Bartholomew's Notes
- - [https://barthsnotes.com](https://barthsnotes.com)
- - date published: 2024-03-21T18:19:58.740360+00:00
- - user: None
- - tags: []
-
-## BARTKIRA.COM
- - [https://www.bartkira.com](https://www.bartkira.com)
- - date published: 2024-01-28T13:01:46.832267+00:00
- - user: None
- - tags: []
-
-## Barton & Associates Real Estate – Selling homes and land in Pittsfield and the surrounding area for over 30 years.
- - [https://www.barton-homes.com](https://www.barton-homes.com)
- - date published: 2024-02-08T16:45:13.739260+00:00
- - user: None
- - tags: []
-
-## Bartosz Górka
- - [https://bartoszgorka.com](https://bartoszgorka.com)
- - date published: 2023-12-12T13:08:08.350025+00:00
- - user: None
- - tags: ['personal']
-
-## Bartosz Sypytkowski
- - [https://www.bartoszsypytkowski.com](https://www.bartoszsypytkowski.com)
- - date published: 2023-10-25T12:52:30.525848+00:00
- - user: None
- - tags: []
-
-## Index of /
- - [http://www.basebook.com](http://www.basebook.com)
- - date published: 2024-04-23T22:25:56.446023+00:00
  - user: None
  - tags: []
 

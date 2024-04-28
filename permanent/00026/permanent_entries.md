@@ -1,3 +1,769 @@
+## Mastering Emacs
+ - [https://www.masteringemacs.org](https://www.masteringemacs.org)
+ - date published: 2023-10-25T08:40:44.720587+00:00
+ - user: None
+ - tags: ['emacs']
+
+## MATE Desktop Environment
+ - [https://mate-desktop.org](https://mate-desktop.org)
+ - date published: 2013-10-31T12:29:57+00:00
+ - user: rumpel
+ - tags: ['linux desktop environment']
+
+## Mathics
+ - [https://mathics.org](https://mathics.org)
+ - date published: 2023-10-25T21:40:45.148461+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Plus! | plus.maths.org
+ - [https://plus.maths.org](https://plus.maths.org)
+ - date published: 2023-10-25T21:40:46.513276+00:00
+ - user: None
+ - tags: []
+
+## Sign in - Matomo
+ - [https://demo-web.matomo.org](https://demo-web.matomo.org)
+ - date published: 2024-04-27T07:11:56.849410+00:00
+ - user: None
+ - tags: []
+
+## Matomo Analytics (formerly Piwik Analytics) - Developer Docs - v5
+ - [https://developer.matomo.org](https://developer.matomo.org)
+ - date published: 2024-04-27T07:11:57.795721+00:00
+ - user: None
+ - tags: []
+
+## Matomo - L'alternative à Google Analytics qui protège vos données
+ - [https://fr.matomo.org](https://fr.matomo.org)
+ - date published: 2024-04-27T07:12:20.486362+00:00
+ - user: None
+ - tags: []
+
+## Matomo Analytics - The Google Analytics alternative that protects your data
+ - [https://matomo.org](https://matomo.org)
+ - date published: 2023-10-25T21:40:48.794247+00:00
+ - user: None
+ - tags: ['website analytics', 'open source']
+
+## Discover new functionality for your Matomo - Matomo Plugins Marketplace
+ - [https://plugins.matomo.org](https://plugins.matomo.org)
+ - date published: 2024-04-27T07:12:11.948715+00:00
+ - user: None
+ - tags: []
+
+## Matplotlib — Visualization with Python
+ - [https://matplotlib.org](https://matplotlib.org)
+ - date published: 2023-10-25T21:40:50.255598+00:00
+ - user: None
+ - tags: []
+
+## mastodon.matrix.org - Matrix.org's Mastodon
+ - [https://mastodon.matrix.org](https://mastodon.matrix.org)
+ - date published: 2023-10-25T21:40:51.505890+00:00
+ - user: None
+ - tags: []
+
+## Matrix.org
+ - [https://matrix.org](https://matrix.org)
+ - date published: 2023-10-25T08:36:31.764842+00:00
+ - user: None
+ - tags: ['social communicator']
+
+## Matrix Calculus
+ - [https://www.matrixcalculus.org](https://www.matrixcalculus.org)
+ - date published: 2023-10-25T21:40:52.658451+00:00
+ - user: None
+ - tags: []
+
+## Matt Blaze / mattblaze.org
+ - [https://www.mattblaze.org](https://www.mattblaze.org)
+ - date published: 2023-11-12T18:27:09.723895+00:00
+ - user: None
+ - tags: []
+
+## Matt Lakeman – Writing on books, experiments, and random things I can't stop thinking about
+ - [https://mattlakeman.org](https://mattlakeman.org)
+ - date published: 2023-10-25T21:40:58.876749+00:00
+ - user: None
+ - tags: []
+
+## Open Source Marketing Automation - Mautic Community
+ - [https://www.mautic.org](https://www.mautic.org)
+ - date published: 2024-04-08T19:31:52.399324+00:00
+ - user: None
+ - tags: ['marketing automation', 'self-host']
+
+## Maximum Fun | A worker-owned network of artist-owned shows supported – directly – by you!
+ - [https://maximumfun.org](https://maximumfun.org)
+ - date published: 2024-04-25T21:21:12.768907+00:00
+ - user: None
+ - tags: ['podcasts']
+
+## Maximum Truth | Maxim Lott | Substack
+ - [https://www.maximumtruth.org](https://www.maximumtruth.org)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Mayo Clinic News Network
+ - [https://newsnetwork.mayoclinic.org](https://newsnetwork.mayoclinic.org)
+ - date published: 2023-12-27T08:40:58.406142+00:00
+ - user: None
+ - tags: []
+
+## mazemod
+ - [http://www.mazemod.org](http://www.mazemod.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## mCaptcha - mCaptcha
+ - [https://mcaptcha.org](https://mcaptcha.org)
+ - date published: 2023-10-25T21:41:00.182452+00:00
+ - user: None
+ - tags: []
+
+## www.mcjones.org
+ - [https://www.mcjones.org](https://www.mcjones.org)
+ - date published: 2024-02-22T22:32:15.668250+00:00
+ - user: None
+ - tags: []
+
+## Material Curricular Libre - www.mclibre.org
+ - [https://www.mclibre.org](https://www.mclibre.org)
+ - date published: 2023-10-25T21:41:01.332000+00:00
+ - user: None
+ - tags: []
+
+## Stan
+ - [https://mc-stan.org](https://mc-stan.org)
+ - date published: 2023-11-10T00:49:59.615646+00:00
+ - user: None
+ - tags: []
+
+## Measure of America: A Program of the Social Science Research Council
+ - [https://measureofamerica.org](https://measureofamerica.org)
+ - date published: 2024-04-05T18:56:37.951103+00:00
+ - user: None
+ - tags: []
+
+## MECS Press
+ - [https://www.mecs-press.org](https://www.mecs-press.org)
+ - date published: 2024-03-03T14:00:43.953312+00:00
+ - user: None
+ - tags: []
+
+## Media Ecology Association - Home
+ - [https://media-ecology.org](https://media-ecology.org)
+ - date published: 2024-02-24T18:11:17.745970+00:00
+ - user: None
+ - tags: []
+
+## Media Lens – Correcting for the distorted vision of the corporate media
+ - [https://www.medialens.org](https://www.medialens.org)
+ - date published: 2023-10-25T21:41:03.647662+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Media Matters for America
+ - [https://www.mediamatters.org](https://www.mediamatters.org)
+ - date published: 2023-10-25T09:30:18.940421+00:00
+ - user: None
+ - tags: ['the left wing', 'democrats', 'propaganda']
+
+## MediaWiki
+ - [https://www.mediawiki.org](https://www.mediawiki.org)
+ - date published: 2024-01-09T03:41:39.869471+00:00
+ - user: None
+ - tags: []
+
+## medRxiv.org - the preprint server for Health Sciences
+ - [https://www.medrxiv.org](https://www.medrxiv.org)
+ - date published: 2023-10-25T21:41:10.551921+00:00
+ - user: None
+ - tags: []
+
+## GitHub - aaronpk/Meetable: an event listing website
+ - [https://meetable.org](https://meetable.org)
+ - date published: 2024-04-08T19:29:41.369234+00:00
+ - user: None
+ - tags: ['self-host']
+
+## Melang | A script language of step-sharing scheduling coroutine in single thread
+ - [https://melang.org](https://melang.org)
+ - date published: 2023-10-25T21:41:11.360853+00:00
+ - user: None
+ - tags: []
+
+## Meld
+ - [https://meldmerge.org](https://meldmerge.org)
+ - date published: 2024-02-18T00:00:00+00:00
+ - user: rumpel
+ - tags: ['program', 'file compare']
+
+## Prossimo
+ - [https://www.memorysafety.org](https://www.memorysafety.org)
+ - date published: 2023-10-25T21:41:12.258442+00:00
+ - user: None
+ - tags: []
+
+## MEMRI
+ - [https://www.memri.org](https://www.memri.org)
+ - date published: 2023-12-10T04:14:49.729032+00:00
+ - user: None
+ - tags: []
+
+## Memtest86+ | The Open-Source Memory Testing Tool
+ - [https://www.memtest.org](https://www.memtest.org)
+ - date published: 2023-10-25T21:41:13.583448+00:00
+ - user: None
+ - tags: []
+
+## Men Having Babies: guidance, advocacy & financial assistance for current and future gay surrogacy parents
+ - [https://menhavingbabies.org](https://menhavingbabies.org)
+ - date published: 2023-10-25T21:41:19.592510+00:00
+ - user: None
+ - tags: []
+
+## Road to Reality Essays
+ - [https://reality.mentat.org](https://reality.mentat.org)
+ - date published: 2023-10-25T21:41:20.518174+00:00
+ - user: None
+ - tags: []
+
+## Mercurial SCM
+ - [https://www.mercurial-scm.org](https://www.mercurial-scm.org)
+ - date published: 2024-03-04T11:36:29.558578+00:00
+ - user: None
+ - tags: ['vcs']
+
+## Meribold
+ - [https://meribold.org](https://meribold.org)
+ - date published: 2023-10-25T21:41:21.356947+00:00
+ - user: None
+ - tags: []
+
+## Great Internet Mersenne Prime Search - PrimeNet
+ - [https://www.mersenne.org](https://www.mersenne.org)
+ - date published: 2024-04-10T08:11:05.622810+00:00
+ - user: None
+ - tags: []
+
+## mersenneforum.org
+ - [https://mersenneforum.org](https://mersenneforum.org)
+ - date published: 2023-10-25T21:41:28.576008+00:00
+ - user: None
+ - tags: []
+
+## mersenneforum.org
+ - [http://www.mersenneforum.org](http://www.mersenneforum.org)
+ - date published: 2024-04-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## mersenneforum.org
+ - [https://www.mersenneforum.org](https://www.mersenneforum.org)
+ - date published: 2023-10-25T21:41:34.285651+00:00
+ - user: None
+ - tags: []
+
+## Introduction — The Mesa 3D Graphics Library latest documentation
+ - [https://docs.mesa3d.org](https://docs.mesa3d.org)
+ - date published: 2023-10-25T21:41:37.809868+00:00
+ - user: None
+ - tags: ['opengl', 'open source']
+
+## Home — The Mesa 3D Graphics Library
+ - [https://mesa3d.org](https://mesa3d.org)
+ - date published: 2024-02-28T00:00:00+00:00
+ - user: rumpel
+ - tags: ['opengl', 'open source']
+
+## Meshtastic: An open source, off-grid, decentralized, mesh network
+ - [https://meshtastic.org](https://meshtastic.org)
+ - date published: 2024-01-01T02:57:56+00:00
+ - user: None
+ - tags: []
+
+## MetaBrainz Blog – MetaBrainz Foundation community blog
+ - [https://blog.metabrainz.org](https://blog.metabrainz.org)
+ - date published: 2023-10-25T21:41:49.234942+00:00
+ - user: None
+ - tags: []
+
+## MetaGer: Privacy Protected Search & Find
+ - [https://metager.org](https://metager.org)
+ - date published: 2024-03-06T15:11:53+00:00
+ - user: rumpel
+ - tags: ['search engine']
+
+## Index - Meta-MorphOS
+ - [https://www.meta-morphos.org](https://www.meta-morphos.org)
+ - date published: 2023-12-11T18:29:54.465466+00:00
+ - user: None
+ - tags: []
+
+## The Metaphor Project – Framing Our Messages for Americans
+ - [https://metaphorproject.org](https://metaphorproject.org)
+ - date published: 2024-02-08T16:36:43.350068+00:00
+ - user: None
+ - tags: []
+
+## Metastable Homepage
+ - [https://metastable.org](https://metastable.org)
+ - date published: 2023-12-02T04:46:18.679776+00:00
+ - user: None
+ - tags: []
+
+## METEA MEDIA - Your World. Your Stories. Everyday.
+ - [https://meteamedia.org](https://meteamedia.org)
+ - date published: 2023-10-25T21:41:57.632879+00:00
+ - user: None
+ - tags: []
+
+## MethaneSAT
+ - [http://methanesat.org](http://methanesat.org)
+ - date published: 2024-03-01T09:12:57.922374+00:00
+ - user: None
+ - tags: []
+
+## METI International
+ - [https://www.meti.org](https://www.meti.org)
+ - date published: 2024-02-08T22:01:54.449774+00:00
+ - user: None
+ - tags: []
+
+## The Metropolitan Museum of Art
+ - [https://www.metmuseum.org](https://www.metmuseum.org)
+ - date published: 2023-11-13T13:45:57.754259+00:00
+ - user: None
+ - tags: ['museum']
+
+## Index of /
+ - [https://ftp.mfek.org](https://ftp.mfek.org)
+ - date published: 2024-01-18T16:40:06.576011+00:00
+ - user: None
+ - tags: []
+
+## The Masonry Heater Association (MHA) Website
+ - [https://www.mha-net.org](https://www.mha-net.org)
+ - date published: 2023-10-25T11:34:45.766867+00:00
+ - user: None
+ - tags: []
+
+## MHC Healthcare – Quality Healthcare with a Heart
+ - [https://mhchealthcare.org](https://mhchealthcare.org)
+ - date published: 2023-11-29T18:20:38.384729+00:00
+ - user: None
+ - tags: []
+
+## MHC Healthcare – Quality Healthcare with a Heart
+ - [http://mhchealthcare.org](http://mhchealthcare.org)
+ - date published: 2024-04-03T06:23:32.907036+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.michaeleisen.org
+ - [https://www.michaeleisen.org](https://www.michaeleisen.org)
+ - date published: 2024-01-09T03:41:41.235790+00:00
+ - user: None
+ - tags: []
+
+## The Michael J. Fox Foundation for Parkinson's Research | Parkinson's Disease
+ - [https://www.michaeljfox.org](https://www.michaeljfox.org)
+ - date published: 2023-10-25T21:42:04.712986+00:00
+ - user: None
+ - tags: []
+
+## Michael Nielsen
+ - [https://michaelnielsen.org](https://michaelnielsen.org)
+ - date published: 2023-10-25T21:42:09.865320+00:00
+ - user: None
+ - tags: []
+
+## I put things here so they are on the internet – Michael Weinberg
+ - [https://michaelweinberg.org](https://michaelweinberg.org)
+ - date published: 2023-10-25T21:42:12.922202+00:00
+ - user: None
+ - tags: []
+
+## [Home] | Michigan Medicine
+ - [https://www.michiganmedicine.org](https://www.michiganmedicine.org)
+ - date published: 2023-10-25T21:42:18.236155+00:00
+ - user: None
+ - tags: []
+
+## Microbiology Society
+ - [https://www.microbiologyresearch.org](https://www.microbiologyresearch.org)
+ - date published: 2023-10-25T21:42:27.306478+00:00
+ - user: None
+ - tags: []
+
+## microG Project
+ - [https://microg.org](https://microg.org)
+ - date published: 2024-04-07T20:29:00.528822+00:00
+ - user: None
+ - tags: ['open source', 'google services']
+
+## Miles A. Curry
+ - [https://micurry.org](https://micurry.org)
+ - date published: 2023-12-05T14:38:00.304530+00:00
+ - user: None
+ - tags: ['personal']
+
+## Midnight Sun ...a medieval adventure under a neversetting sun.
+ - [https://midnightsun2.org](https://midnightsun2.org)
+ - date published: 2024-03-27T20:47:17.457875+00:00
+ - user: None
+ - tags: ['mud game']
+
+## Mike Lynch
+ - [https://mikelynch.org](https://mikelynch.org)
+ - date published: 2024-02-08T21:15:49.518842+00:00
+ - user: None
+ - tags: ['personal']
+
+## Military Poisons | WILPF US
+ - [https://www.militarypoisons.org](https://www.militarypoisons.org)
+ - date published: 2023-10-25T21:42:31.932290+00:00
+ - user: None
+ - tags: []
+
+## Home | Minarca
+ - [https://minarca.org](https://minarca.org)
+ - date published: 2024-04-26T19:20:28.081567+00:00
+ - user: None
+ - tags: []
+
+## Min | A fast, minimal browser that protects your privacy
+ - [https://minbrowser.org](https://minbrowser.org)
+ - date published: 2023-10-25T21:42:38.172126+00:00
+ - user: None
+ - tags: []
+
+## Ed Fox meditation coach – Overcome fear, limitation, and challenge
+ - [https://www.mindbodyawakening.org](https://www.mindbodyawakening.org)
+ - date published: 2023-12-12T23:23:50.149785+00:00
+ - user: None
+ - tags: ['personal']
+
+## Minding The Campus — Reforming Our Universities
+ - [https://www.mindingthecampus.org](https://www.mindingthecampus.org)
+ - date published: 2023-10-25T21:42:55.312806+00:00
+ - user: None
+ - tags: []
+
+## lists.mindrot.org Mailing Lists
+ - [https://lists.mindrot.org](https://lists.mindrot.org)
+ - date published: 2024-01-11T13:43:10.457170+00:00
+ - user: None
+ - tags: []
+
+## Minecraft Servers | Minecraft Server List
+ - [https://minecraftservers.org](https://minecraftservers.org)
+ - date published: 2023-10-25T11:18:19.441515+00:00
+ - user: None
+ - tags: []
+
+## MineDojo | Building Open-Ended Embodied Agents with
+        Internet-Scale Knowledge
+ - [https://minedojo.org](https://minedojo.org)
+ - date published: 2023-10-25T21:42:57.598309+00:00
+ - user: None
+ - tags: []
+
+## Voyager | An Open-Ended Embodied Agent with Large Language Models
+ - [https://voyager.minedojo.org](https://voyager.minedojo.org)
+ - date published: 2023-10-25T21:43:00.475854+00:00
+ - user: None
+ - tags: []
+
+## https://mingw.org
+ - [https://mingw.org](https://mingw.org)
+ - date published: 2024-01-09T03:41:43.009235+00:00
+ - user: None
+ - tags: []
+
+## MinGW-w64
+ - [https://www.mingw-w64.org](https://www.mingw-w64.org)
+ - date published: 2023-10-30T14:03:46.137119+00:00
+ - user: None
+ - tags: ['compiler', 'open source']
+
+## Minidisc Community Portal
+ - [https://www.minidisc.org](https://www.minidisc.org)
+ - date published: 2023-10-25T21:43:02.864383+00:00
+ - user: None
+ - tags: []
+
+## Manifesto for Minimalist Software Engineers
+ - [https://minifesto.org](https://minifesto.org)
+ - date published: 2024-01-09T03:41:45.036036+00:00
+ - user: None
+ - tags: []
+
+## Minifree Ltd – GNU+Linux laptops with Libreboot preinstalled, based on coreboot
+ - [https://minifree.org](https://minifree.org)
+ - date published: 2023-10-25T21:43:09.325144+00:00
+ - user: None
+ - tags: []
+
+## We champion the writer in every child - Ministry of Stories
+ - [https://ministryofstories.org](https://ministryofstories.org)
+ - date published: 2023-10-30T10:55:17.609587+00:00
+ - user: None
+ - tags: ['community']
+
+## git.minix3.org Git
+ - [https://git.minix3.org](https://git.minix3.org)
+ - date published: 2023-10-25T21:43:12.370760+00:00
+ - user: None
+ - tags: []
+
+## MiniZinc
+ - [https://www.minizinc.org](https://www.minizinc.org)
+ - date published: 2023-10-25T21:43:16.189696+00:00
+ - user: None
+ - tags: []
+
+## 100% free, ad-free wikis, request yours today! - Miraheze
+ - [https://meta.miraheze.org](https://meta.miraheze.org)
+ - date published: 2023-10-25T21:43:20.077625+00:00
+ - user: None
+ - tags: []
+
+## Mirthe.org | Hallo.
+ - [https://mirthe.org](https://mirthe.org)
+ - date published: 2024-04-03T06:30:46.106285+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mission Local: local news for a global city | San Francisco, CA
+ - [https://missionlocal.org](https://missionlocal.org)
+ - date published: 2023-10-25T21:43:31.496412+00:00
+ - user: None
+ - tags: []
+
+## Mississippi Free Press - Solutions Journalism - Beyond Partisanship
+ - [https://www.mississippifreepress.org](https://www.mississippifreepress.org)
+ - date published: 2023-12-13T01:19:16.375937+00:00
+ - user: None
+ - tags: []
+
+## MIT Admissions
+ - [https://mitadmissions.org](https://mitadmissions.org)
+ - date published: 2023-10-25T21:43:35.721118+00:00
+ - user: None
+ - tags: []
+
+## mitmproxy - an interactive HTTPS proxy
+ - [https://mitmproxy.org](https://mitmproxy.org)
+ - date published: 2023-10-25T21:43:42.450770+00:00
+ - user: None
+ - tags: []
+
+## CVE -
+
+CVE
+ - [https://cve.mitre.org](https://cve.mitre.org)
+ - date published: 2023-10-25T21:43:44.813392+00:00
+ - user: None
+ - tags: ['cybersecurity', 'vulnerabilities']
+
+## CWE - 
+Common Weakness Enumeration
+ - [https://cwe.mitre.org](https://cwe.mitre.org)
+ - date published: 2023-10-25T21:43:47.269871+00:00
+ - user: None
+ - tags: []
+
+## MITRE | Solving Problems for Safer World
+ - [https://www.mitre.org](https://www.mitre.org)
+ - date published: 2024-04-21T06:21:09.180783+00:00
+ - user: None
+ - tags: ['cybersecurity', 'activism']
+
+## Maine Indian Tribal-State Commission
+ - [https://www.mitsc.org](https://www.mitsc.org)
+ - date published: 2023-11-07T15:22:54.544635+00:00
+ - user: None
+ - tags: []
+
+## Welcome to MkLinux.org
+ - [https://mklinux.org](https://mklinux.org)
+ - date published: 2024-01-09T03:41:47.847919+00:00
+ - user: None
+ - tags: []
+
+## Blog | Minglemangle Of Mymind
+ - [https://www.mmomm.org](https://www.mmomm.org)
+ - date published: 2023-12-20T14:33:01.924588+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tom's Home Page
+ - [http://cholla.mmto.org](http://cholla.mmto.org)
+ - date published: 2023-10-27T12:06:43.535423+00:00
+ - user: None
+ - tags: []
+
+## Mobian's Blog
+ - [https://blog.mobian.org](https://blog.mobian.org)
+ - date published: 2023-10-25T21:44:05.166649+00:00
+ - user: None
+ - tags: []
+
+## The Mod Archive v4.0b - A distinctive collection of modules
+ - [https://modarchive.org](https://modarchive.org)
+ - date published: 2023-10-28T19:01:07.809021+00:00
+ - user: None
+ - tags: ['chiptune', 'keygen', 'demoscene']
+
+## The Mod Archive v4.0b - A distinctive collection of modules
+ - [http://modarchive.org](http://modarchive.org)
+ - date published: 2024-02-15T01:59:58.310157+00:00
+ - user: None
+ - tags: []
+
+## Modoboa
+ - [https://modoboa.org](https://modoboa.org)
+ - date published: 2024-04-14T02:48:13.938885+00:00
+ - user: None
+ - tags: ['self-host', 'e-mail server']
+
+## Modulated Light main page (Lightbeam communications)
+ - [http://modulatedlight.org](http://modulatedlight.org)
+ - date published: 2024-04-20T13:49:25.347787+00:00
+ - user: None
+ - tags: ['education', 'physics', 'light']
+
+## mojo.js - JavaScript real-time web framework
+ - [https://mojojs.org](https://mojojs.org)
+ - date published: 2023-10-25T21:44:11.865057+00:00
+ - user: None
+ - tags: []
+
+## Molleindustria
+ - [https://molleindustria.org](https://molleindustria.org)
+ - date published: 2024-04-08T13:35:48+00:00
+ - user: rumpel
+ - tags: ['wtf']
+
+## Museum of modern art
+ - [https://www.moma.org](https://www.moma.org)
+ - date published: 2023-10-25T21:44:12+00:00
+ - user: rumpel
+ - tags: []
+
+## Monkeynoodle.Org – A Scientific Venture!
+ - [https://monkeynoodle.org](https://monkeynoodle.org)
+ - date published: 2023-10-25T21:44:16.728817+00:00
+ - user: None
+ - tags: []
+
+## Monoskop
+ - [https://monoskop.org](https://monoskop.org)
+ - date published: 2023-11-07T15:23:03.904739+00:00
+ - user: None
+ - tags: []
+
+## Monthly Review | An Independent Socialist Magazine
+ - [https://monthlyreview.org](https://monthlyreview.org)
+ - date published: 2023-10-25T21:44:28.453577+00:00
+ - user: None
+ - tags: []
+
+## Home | Moodle.org
+ - [https://moodle.org](https://moodle.org)
+ - date published: 2023-10-25T21:44:33.671005+00:00
+ - user: None
+ - tags: []
+
+## Igor47 - Home
+ - [https://igor.moomers.org](https://igor.moomers.org)
+ - date published: 2024-04-03T06:30:31.595990+00:00
+ - user: None
+ - tags: ['personal']
+
+## In Event of Moon Disaster
+ - [https://moondisaster.org](https://moondisaster.org)
+ - date published: 2023-10-25T21:44:36.544360+00:00
+ - user: None
+ - tags: []
+
+## Home - Gordon and Betty Moore Foundation
+ - [https://www.moore.org](https://www.moore.org)
+ - date published: 2023-10-25T21:44:45.883763+00:00
+ - user: None
+ - tags: []
+
+## Morgan Holland's Blog
+ - [https://morgz.org](https://morgz.org)
+ - date published: 2024-01-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mosh: the mobile shell
+ - [https://mosh.org](https://mosh.org)
+ - date published: 2023-10-25T21:44:49.078711+00:00
+ - user: None
+ - tags: ['open source', 'ssh', 'remote connections']
+
+## Eclipse Mosquitto
+ - [https://mosquitto.org](https://mosquitto.org)
+ - date published: 2018-01-08T15:39:57+00:00
+ - user: None
+ - tags: []
+
+## Mount Sinai Health System - New York City |  Mount Sinai - New York
+ - [https://www.mountsinai.org](https://www.mountsinai.org)
+ - date published: 2023-12-22T14:34:57.308807+00:00
+ - user: None
+ - tags: []
+
+## Mount Washington Observatory - Mount Washington Observatory
+ - [https://mountwashington.org](https://mountwashington.org)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mount Washington Observatory - Mount Washington Observatory
+ - [https://www.mountwashington.org](https://www.mountwashington.org)
+ - date published: 2023-10-25T21:44:53.270678+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://mikhailian.mova.org](https://mikhailian.mova.org)
+ - date published: 2023-12-29T09:45:44.954442+00:00
+ - user: None
+ - tags: []
+
+## Movetodon: Find your Twitter Friends on Mastodon
+ - [https://movetodon.org](https://movetodon.org)
+ - date published: 2023-10-25T21:44:54.599883+00:00
+ - user: None
+ - tags: []
+
+## Moxie Marlinspike >> About
+ - [https://moxie.org](https://moxie.org)
+ - date published: 2023-10-25T21:44:56.078354+00:00
+ - user: None
+ - tags: []
+
+## Add-ons for Firefox (en-US)
+ - [https://addons.mozilla.org](https://addons.mozilla.org)
+ - date published: 2023-10-25T09:27:04.184973+00:00
+ - user: None
+ - tags: ['browser addons', 'browser extensions']
+
+## Home - The Mozilla Blog
+ - [https://blog.mozilla.org](https://blog.mozilla.org)
+ - date published: 2023-10-25T09:27:06.601346+00:00
+ - user: None
+ - tags: []
+
 ## Bugzilla Main Page
  - [https://bugzilla.mozilla.org](https://bugzilla.mozilla.org)
  - date published: 2023-10-25T09:27:16.128502+00:00
@@ -87,6 +853,12 @@
  - date published: 2023-10-25T09:27:30.838308+00:00
  - user: None
  - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
+
+## Internet for people, not profit — Mozilla (US)
+ - [http://www.mozilla.org](http://www.mozilla.org)
+ - date published: 2024-04-27T07:11:06.382372+00:00
+ - user: None
+ - tags: []
 
 ## MozillaZine Knowledge Base
  - [http://kb.mozillazine.org](http://kb.mozillazine.org)
@@ -1496,7 +2268,7 @@
  - [https://o3de.org](https://o3de.org)
  - date published: 2023-11-01T08:44:29.705947+00:00
  - user: None
- - tags: ['game engine']
+ - tags: ['video game engine']
 
 ## Oakland Public Library
  - [https://oaklandlibrary.org](https://oaklandlibrary.org)
@@ -1841,14 +2613,14 @@
  - tags: ['opengl']
 
 ## Open Graph protocol
- - [https://opengraphprotocol.org](https://opengraphprotocol.org)
- - date published: 2023-12-18T17:10:32.441946+00:00
+ - [http://opengraphprotocol.org](http://opengraphprotocol.org)
+ - date published: 1996-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Open Graph protocol
- - [http://opengraphprotocol.org](http://opengraphprotocol.org)
- - date published: 1996-01-01T00:00:00+00:00
+ - [https://opengraphprotocol.org](https://opengraphprotocol.org)
+ - date published: 2023-12-18T17:10:32.441946+00:00
  - user: None
  - tags: []
 
@@ -1868,7 +2640,7 @@
  - [https://openinframap.org](https://openinframap.org)
  - date published: 2024-01-23T21:20:39.960285+00:00
  - user: None
- - tags: []
+ - tags: ['open street map']
 
 ## OpenIPC is an alternative open firmware for your IP camera
  - [https://openipc.org](https://openipc.org)
@@ -2051,16 +2823,16 @@
  - tags: []
 
 ## Open RSS
- - [https://openrss.org](https://openrss.org)
- - date published: 2024-01-16T00:45:10.574589+00:00
- - user: None
- - tags: ['rss']
-
-## Open RSS
  - [http://openrss.org](http://openrss.org)
  - date published: 2024-02-26T09:41:50.635475+00:00
  - user: None
  - tags: []
+
+## Open RSS
+ - [https://openrss.org](https://openrss.org)
+ - date published: 2024-01-16T00:45:10.574589+00:00
+ - user: None
+ - tags: ['rss']
 
 ## A Grand Theft Auto III Re-Implementation
  - [https://openrw.org](https://openrw.org)
@@ -2135,16 +2907,16 @@
  - tags: ['open source']
 
 ## Open Source Research Institutue :: Main / HomePage
- - [http://opensourceresearchinstitute.org](http://opensourceresearchinstitute.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Open Source Research Institutue :: Main / HomePage
  - [https://opensourceresearchinstitute.org](https://opensourceresearchinstitute.org)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
+
+## Open Source Research Institutue :: Main / HomePage
+ - [http://opensourceresearchinstitute.org](http://opensourceresearchinstitute.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## OpenSSF Best Practices Working Group (WG)
  - [https://best.openssf.org](https://best.openssf.org)
@@ -2188,6 +2960,30 @@
  - user: None
  - tags: []
 
+## OSMF Server Info
+ - [https://hardware.openstreetmap.org](https://hardware.openstreetmap.org)
+ - date published: 2024-04-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sign in - Matomo
+ - [https://matomo.openstreetmap.org](https://matomo.openstreetmap.org)
+ - date published: 2024-04-27T07:07:17.319030+00:00
+ - user: None
+ - tags: []
+
+## OpenStreetMap
+ - [https://openstreetmap.org](https://openstreetmap.org)
+ - date published: 2024-04-27T07:07:15.099553+00:00
+ - user: None
+ - tags: []
+
+## OpenStreetMap Wiki
+ - [http://wiki.openstreetmap.org](http://wiki.openstreetmap.org)
+ - date published: 2024-04-27T07:11:21.385615+00:00
+ - user: None
+ - tags: []
+
 ## OpenStreetMap Wiki
  - [https://wiki.openstreetmap.org](https://wiki.openstreetmap.org)
  - date published: 2024-02-14T11:16:27.221847+00:00
@@ -2198,7 +2994,7 @@
  - [https://www.openstreetmap.org](https://www.openstreetmap.org)
  - date published: 2023-10-25T08:25:21.448647+00:00
  - user: None
- - tags: ['open street maps', 'service maps', 'open source', 'maps']
+ - tags: ['open street map', 'maps', 'open source', 'service maps']
 
 ## Subtitles - download movie and TV Series subtitles
  - [https://www.opensubtitles.org](https://www.opensubtitles.org)
@@ -2393,17 +3189,29 @@
  - user: None
  - tags: []
 
+## OpenStreetMap
+ - [https://osm.org](https://osm.org)
+ - date published: 2024-04-27T07:10:54.827435+00:00
+ - user: None
+ - tags: []
+
 ## Osmapp – A Universal OpenStreetMap App
  - [https://osmapp.org](https://osmapp.org)
  - date published: 2023-12-28T17:05:25+00:00
  - user: None
- - tags: []
+ - tags: ['open street map']
 
 ## OSM Buildings
  - [https://osmbuildings.org](https://osmbuildings.org)
  - date published: 2023-12-24T08:15:03+00:00
  - user: rumpel
  - tags: ['service maps']
+
+## OpenStreetMap Foundation
+ - [https://osmfoundation.org](https://osmfoundation.org)
+ - date published: 2024-02-28T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Open Source Mobile Communications
  - [https://projects.osmocom.org](https://projects.osmocom.org)
@@ -3024,14 +3832,14 @@
  - tags: []
 
 ## Pikchr: Documentation
- - [http://pikchr.org](http://pikchr.org)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://pikchr.org](https://pikchr.org)
+ - date published: 2023-10-25T21:57:44.338166+00:00
  - user: None
  - tags: []
 
 ## Pikchr: Documentation
- - [https://pikchr.org](https://pikchr.org)
- - date published: 2023-10-25T21:57:44.338166+00:00
+ - [http://pikchr.org](http://pikchr.org)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3444,14 +4252,14 @@
  - tags: ['personal']
 
 ## The Programming Journal
- - [https://programming-journal.org](https://programming-journal.org)
- - date published: 2023-10-25T21:59:59.828174+00:00
+ - [http://programming-journal.org](http://programming-journal.org)
+ - date published: 2024-06-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Programming Journal
- - [http://programming-journal.org](http://programming-journal.org)
- - date published: 2024-06-01T00:00:00+00:00
+ - [https://programming-journal.org](https://programming-journal.org)
+ - date published: 2023-10-25T21:59:59.828174+00:00
  - user: None
  - tags: []
 
@@ -4235,15 +5043,15 @@
  - user: None
  - tags: []
 
-## Home - Responsible Statecraft
- - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
- - date published: 2023-10-25T22:03:17.450852+00:00
- - user: None
- - tags: []
-
 ## Responsible Statecraft
  - [http://responsiblestatecraft.org](http://responsiblestatecraft.org)
  - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Responsible Statecraft
+ - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
+ - date published: 2023-10-25T22:03:17.450852+00:00
  - user: None
  - tags: []
 
@@ -4770,16 +5578,16 @@
  - tags: ['demoscene']
 
 ## Schema.org - Schema.org
- - [http://schema.org](http://schema.org)
- - date published: 2024-02-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Schema.org - Schema.org
  - [https://schema.org](https://schema.org)
  - date published: 2023-12-11T16:10:24.484319+00:00
  - user: None
  - tags: ['standards']
+
+## Schema.org - Schema.org
+ - [http://schema.org](http://schema.org)
+ - date published: 2024-02-12T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Walidator znaczników schema.org
  - [https://validator.schema.org](https://validator.schema.org)
@@ -4989,7 +5797,7 @@
  - [https://scummvm.org](https://scummvm.org)
  - date published: 2024-04-13T00:00:00+00:00
  - user: rumpel
- - tags: ['rpg', 'game engine', 'retro games']
+ - tags: ['rpg', 'video game engine', 'retro games']
 
 ## ScummVM
  - [https://www.scummvm.org](https://www.scummvm.org)
@@ -5192,812 +6000,6 @@
 ## Welcome to The Serial Port on RAQ
  - [https://raq.serialport.org](https://raq.serialport.org)
  - date published: 2024-01-09T03:42:30.617157+00:00
- - user: None
- - tags: []
-
-## Serial Reader | Classic Books in Daily Bits for iOS and Android
- - [https://www.serialreader.org](https://www.serialreader.org)
- - date published: 2023-10-25T22:08:05.962650+00:00
- - user: None
- - tags: []
-
-## Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
- - [https://servo.org](https://servo.org)
- - date published: 2023-10-25T22:08:07.109939+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.seti.org](https://www.seti.org)
- - date published: 2023-11-08T20:10:13.771332+00:00
- - user: None
- - tags: ['organization', 'science', 'space', 'universe']
-
-## Just another blog
- - [https://www.setphaserstostun.org](https://www.setphaserstostun.org)
- - date published: 2023-10-25T22:08:07.940698+00:00
- - user: None
- - tags: []
-
-## Software Freedom Conservancy
- - [https://sfconservancy.org](https://sfconservancy.org)
- - date published: 2023-10-25T22:08:09.665469+00:00
- - user: None
- - tags: []
-
-## STARFLEET – The International Star Trek Fan Association
- - [https://sfi.org](https://sfi.org)
- - date published: 2024-04-24T18:01:24+00:00
- - user: rumpel
- - tags: ['science-fiction', 'star trek']
-
-## SFI Press
- - [https://www.sfipress.org](https://www.sfipress.org)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## SF Memory
- - [https://sfmemory.org](https://sfmemory.org)
- - date published: 2023-10-25T22:08:11.097236+00:00
- - user: None
- - tags: []
-
-## San Francisco Museum of Modern Art
- - [https://www.sfmoma.org](https://www.sfmoma.org)
- - date published: 2023-11-13T13:47:47.040549+00:00
- - user: None
- - tags: ['museum']
-
-## San Francisco Public Library | Home | San Francisco Public Library
- - [https://sfpl.org](https://sfpl.org)
- - date published: 2024-03-06T14:47:02.119832+00:00
- - user: None
- - tags: []
-
-## Home - Shattered Kingdoms
- - [https://www.shatteredkingdoms.org](https://www.shatteredkingdoms.org)
- - date published: 2018-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Rupert Sheldrake – Author and Biologist
- - [https://www.sheldrake.org](https://www.sheldrake.org)
- - date published: 2024-03-29T02:12:08.455149+00:00
- - user: None
- - tags: ['personal']
-
-## The Shen Programming Language
- - [https://shenlanguage.org](https://shenlanguage.org)
- - date published: 2024-03-05T12:30:22+00:00
- - user: None
- - tags: []
-
-## Sherer Family Website .
- - [https://www.sherer.org](https://www.sherer.org)
- - date published: 2024-02-08T17:49:11.713948+00:00
- - user: None
- - tags: []
-
-## WELCOME! Official American Shih Tzu Club Website | American Shih Tzu Club
- - [https://shihtzu.org](https://shihtzu.org)
- - date published: 2024-02-08T16:46:09.764105+00:00
- - user: None
- - tags: []
-
-## Shotcut - Home
- - [https://shotcut.org](https://shotcut.org)
- - date published: 2024-03-28T21:45:17+00:00
- - user: rumpel
- - tags: ['video editor']
-
-## shreyans
- - [https://shreyans.org](https://shreyans.org)
- - date published: 2023-11-09T19:00:05.108858+00:00
- - user: None
- - tags: []
-
-## SHRM - The Voice of All Things Work
- - [https://www.shrm.org](https://www.shrm.org)
- - date published: 2023-10-25T22:08:14.306313+00:00
- - user: None
- - tags: []
-
-## Shtetl - Haredi Free Press
- - [https://www.shtetl.org](https://www.shtetl.org)
- - date published: 2023-10-25T10:53:52.750732+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://epubs.siam.org](https://epubs.siam.org)
- - date published: 2024-03-03T23:24:56.260599+00:00
- - user: None
- - tags: []
-
-## SIAM | Home
- - [https://siam.org](https://siam.org)
- - date published: 2024-03-04T07:21:24+00:00
- - user: rumpel
- - tags: ['math articles']
-
-## Сибирь.Реалии
- - [https://www.sibreal.org](https://www.sibreal.org)
- - date published: 2023-12-18T14:56:48.646089+00:00
- - user: None
- - tags: []
-
-## SIGARCH | The ACM Special Interest Group on Computer Architecture
- - [https://www.sigarch.org](https://www.sigarch.org)
- - date published: 2023-10-25T22:08:17.795553+00:00
- - user: None
- - tags: []
-
-## Computer Communication Review
- - [http://ccr.sigcomm.org](http://ccr.sigcomm.org)
- - date published: 2023-11-28T16:20:45.991303+00:00
- - user: None
- - tags: []
-
-## Home - Sightline Institute
- - [https://www.sightline.org](https://www.sightline.org)
- - date published: 2023-10-25T22:08:21.247502+00:00
- - user: None
- - tags: []
-
-## ACM SIGMICRO: Home
- - [https://www.sigmicro.org](https://www.sigmicro.org)
- - date published: 2023-11-29T17:19:24.251668+00:00
- - user: None
- - tags: []
-
-## SIGMOD Record – SIGMOD Record Site
- - [https://sigmodrecord.org](https://sigmodrecord.org)
- - date published: 2023-10-25T22:08:28.470823+00:00
- - user: None
- - tags: []
-
-## Signal Messenger: Speak Freely
- - [https://signal.org](https://signal.org)
- - date published: 2023-10-24T20:12:52.142794+00:00
- - user: None
- - tags: ['social communicator']
-
-## https://support.signal.org
- - [https://support.signal.org](https://support.signal.org)
- - date published: 2023-11-08T23:51:03.659129+00:00
- - user: None
- - tags: []
-
-## Signal >> Home
- - [https://www.signal.org](https://www.signal.org)
- - date published: 2023-10-25T22:08:30.669838+00:00
- - user: None
- - tags: []
-
-## Signal Foundation
- - [https://signalfoundation.org](https://signalfoundation.org)
- - date published: 2024-04-23T17:25:08+00:00
- - user: rumpel
- - tags: ['activism', 'free speech', 'open source', 'organisation']
-
-## Signal K » Welcome
- - [https://signalk.org](https://signalk.org)
- - date published: 2023-10-25T22:08:31.584869+00:00
- - user: None
- - tags: []
-
-## Signal Community
- - [https://community.signalusers.org](https://community.signalusers.org)
- - date published: 2023-11-08T23:51:02.541959+00:00
- - user: None
- - tags: []
-
-## ACM SIGOPS – ACM Special interest Group in Operating Systems
- - [https://www.sigops.org](https://www.sigops.org)
- - date published: 2023-10-25T22:08:34.443040+00:00
- - user: None
- - tags: []
-
-## ICFP 2023
- - [https://icfp23.sigplan.org](https://icfp23.sigplan.org)
- - date published: 2023-10-25T22:08:36.841375+00:00
- - user: None
- - tags: []
-
-## SIL International
- - [https://www.sil.org](https://www.sil.org)
- - date published: 2023-11-29T10:39:09.530018+00:00
- - user: None
- - tags: []
-
-## SILE – Home
- - [https://sile-typesetter.org](https://sile-typesetter.org)
- - date published: 2023-10-25T22:08:38.828784+00:00
- - user: None
- - tags: []
-
-## Siliconpr0n
- - [https://siliconpr0n.org](https://siliconpr0n.org)
- - date published: 2024-03-14T15:01:58+00:00
- - user: rumpel
- - tags: ['integrated circuit reverse engineering', 'cpu die']
-
-## Simon Dalvai
- - [https://simondalvai.org](https://simondalvai.org)
- - date published: 2023-10-25T08:55:11.362386+00:00
- - user: None
- - tags: ['personal']
-
-## Sim o.n.e.
- - [https://simone.org](https://simone.org)
- - date published: 2023-10-25T22:08:40.726180+00:00
- - user: None
- - tags: []
-
-## Home of Open Source Free Forum Community Software
- - [https://www.simplemachines.org](https://www.simplemachines.org)
- - date published: 2024-01-09T03:42:35.429252+00:00
- - user: None
- - tags: []
-
-## SimplyDifferently.org: Home *
- - [https://simplydifferently.org](https://simplydifferently.org)
- - date published: 2023-10-25T22:08:42.916358+00:00
- - user: None
- - tags: []
-
-## Since Parkland
- - [https://sinceparkland.org](https://sinceparkland.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Cyberpunk Roleplaying Game | Sindome
- - [https://www.sindome.org](https://www.sindome.org)
- - date published: 2024-03-27T20:53:17.335227+00:00
- - user: None
- - tags: ['mud game']
-
-## Sireum Logika
- - [https://logika.v3.sireum.org](https://logika.v3.sireum.org)
- - date published: 2023-12-24T20:58:28+00:00
- - user: None
- - tags: []
-
-## SIRUM - Saving Medicine : Saving Lives
- - [https://sirum.org](https://sirum.org)
- - date published: 2023-10-25T22:08:45.945829+00:00
- - user: None
- - tags: []
-
-## Site.js
- - [https://sitejs.org](https://sitejs.org)
- - date published: 2023-10-25T22:08:53.252429+00:00
- - user: None
- - tags: []
-
-## Derek Sivers
- - [https://sivers.org](https://sivers.org)
- - date published: 2024-01-05T21:37:13.610762+00:00
- - user: None
- - tags: []
-
-## DebianEdu - Debian Wiki
- - [https://people.skolelinux.org](https://people.skolelinux.org)
- - date published: 2023-10-25T22:08:55.375389+00:00
- - user: None
- - tags: []
-
-## BC Time-Slip – THE EMPIRE NEVER ENDED
- - [https://bctimeslip.skullcrackersuite.org](https://bctimeslip.skullcrackersuite.org)
- - date published: 2023-10-25T22:08:58.518054+00:00
- - user: None
- - tags: []
-
-## Sky & Telescope | Astronomy News, Tools & Resources - Sky & Telescope
- - [https://skyandtelescope.org](https://skyandtelescope.org)
- - date published: 2023-10-25T22:09:01.947604+00:00
- - user: None
- - tags: ['cosmos']
-
-## Skyhold
- - [https://skyhold.org](https://skyhold.org)
- - date published: 2024-03-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://apple.slashdot.org](https://apple.slashdot.org)
- - date published: 2024-02-09T21:47:38.471626+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://developers.slashdot.org](https://developers.slashdot.org)
- - date published: 2023-10-25T22:09:06.238735+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://entertainment.slashdot.org](https://entertainment.slashdot.org)
- - date published: 2024-02-09T21:48:05.444095+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://games.slashdot.org](https://games.slashdot.org)
- - date published: 2024-02-09T21:47:30.806966+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://hardware.slashdot.org](https://hardware.slashdot.org)
- - date published: 2024-02-10T21:53:58.516823+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://it.slashdot.org](https://it.slashdot.org)
- - date published: 2024-02-10T05:37:54.769968+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://linux.slashdot.org](https://linux.slashdot.org)
- - date published: 2023-11-08T09:45:30.976482+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://meta.slashdot.org](https://meta.slashdot.org)
- - date published: 2024-02-27T15:27:04.116177+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://mobile.slashdot.org](https://mobile.slashdot.org)
- - date published: 2024-02-19T22:08:25.184114+00:00
- - user: None
- - tags: []
-
-## Slashdot
- - [https://m.slashdot.org](https://m.slashdot.org)
- - date published: 2024-01-07T11:17:14.833993+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://news.slashdot.org](https://news.slashdot.org)
- - date published: 2023-10-25T22:09:10.967180+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://politics.slashdot.org](https://politics.slashdot.org)
- - date published: 2024-02-09T21:47:49.219250+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://rss.slashdot.org](https://rss.slashdot.org)
- - date published: 2024-02-21T06:30:25.560724+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://science.slashdot.org](https://science.slashdot.org)
- - date published: 2023-10-25T22:09:13.734941+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://slashdot.org](https://slashdot.org)
- - date published: 2023-10-25T22:09:16.501527+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://tech.slashdot.org](https://tech.slashdot.org)
- - date published: 2023-10-25T22:09:19.469269+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://yro.slashdot.org](https://yro.slashdot.org)
- - date published: 2023-10-25T22:09:22.905117+00:00
- - user: None
- - tags: []
-
-## Slated | You can run, but you can't hide
- - [https://slated.org](https://slated.org)
- - date published: 2023-10-25T22:09:25.599578+00:00
- - user: None
- - tags: []
-
-## :: SLAY Radio ::
- - [https://www.slayradio.org](https://www.slayradio.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## http://slesinsky.org
- - [http://slesinsky.org](http://slesinsky.org)
- - date published: 2023-10-25T22:09:31.010196+00:00
- - user: None
- - tags: []
-
-## Sri Lanka Guardian
- - [http://slguardian.org](http://slguardian.org)
- - date published: 2024-02-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sri Lanka Guardian
- - [https://slguardian.org](https://slguardian.org)
- - date published: 2024-01-10T21:40:19.047783+00:00
- - user: None
- - tags: []
-
-## https://www.slitaz.org
- - [https://www.slitaz.org](https://www.slitaz.org)
- - date published: 2023-12-28T17:40:19.213848+00:00
- - user: None
- - tags: []
-
-## Web0 Manifesto
- - [https://web0.small-web.org](https://web0.small-web.org)
- - date published: 2024-01-06T20:33:37+00:00
- - user: None
- - tags: []
-
-## https://smarthistory.org
- - [https://smarthistory.org](https://smarthistory.org)
- - date published: 2023-10-25T22:09:34.986464+00:00
- - user: None
- - tags: []
-
-## Science Museum of Minnesota
- - [https://new.smm.org](https://new.smm.org)
- - date published: 2024-02-08T16:21:46.219652+00:00
- - user: None
- - tags: []
-
-## SmokePing - About SmokePing
- - [http://www.smokeping.org](http://www.smokeping.org)
- - date published: 2024-04-08T19:26:45.968239+00:00
- - user: None
- - tags: ['network verification', 'program']
-
-## SMS Power!
- - [https://www.smspower.org](https://www.smspower.org)
- - date published: 2024-01-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## snarfed.org | Ryan Barrett's blog
- - [https://snarfed.org](https://snarfed.org)
- - date published: 2023-10-25T22:09:37.831799+00:00
- - user: None
- - tags: []
-
-## Snikket Chat
- - [https://snikket.org](https://snikket.org)
- - date published: 2024-04-08T19:30:51.587724+00:00
- - user: None
- - tags: ['self-host', 'chat app']
-
-## Welcome to Shepherd's Oasis! - Shepherd's Oasis
- - [https://soasis.org](https://soasis.org)
- - date published: 2023-10-25T22:09:38.795718+00:00
- - user: None
- - tags: []
-
-## Quality News: Hacker News Rankings
- - [https://news.social-protocols.org](https://news.social-protocols.org)
- - date published: 2023-10-25T22:09:46.336197+00:00
- - user: None
- - tags: []
-
-## Social Protocols
- - [https://social-protocols.org](https://social-protocols.org)
- - date published: 2024-04-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## The UK trade union for all types of writers, illustrators and literary translators - The Society of Authors
- - [https://www2.societyofauthors.org](https://www2.societyofauthors.org)
- - date published: 2023-08-19T14:35:08+00:00
- - user: None
- - tags: ['writers', 'organisation', 'autors']
-
-## Povos Indígenas no Brasil
- - [https://pib.socioambiental.org](https://pib.socioambiental.org)
- - date published: 2024-03-27T00:16:18.528932+00:00
- - user: None
- - tags: []
-
-## index — Quarrelsome
- - [https://sockpuppet.org](https://sockpuppet.org)
- - date published: 2023-10-25T22:09:48.555382+00:00
- - user: None
- - tags: []
-
-## Software Development Team: Welcome
- - [https://soft-dev.org](https://soft-dev.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Software Preservation Society
- - [http://www.softpres.org](http://www.softpres.org)
- - date published: 2023-12-11T18:33:05.002198+00:00
- - user: None
- - tags: []
-
-## Software Preservation Group
-        —
-        Software Preservation Group
- - [https://www.softwarepreservation.org](https://www.softwarepreservation.org)
- - date published: 2023-10-25T22:09:52.170128+00:00
- - user: None
- - tags: []
-
-## Sol-1 74 Series Logic Homebrew CPU - 2.5MHz
- - [http://www.sol-1.org](http://www.sol-1.org)
- - date published: 2023-12-08T08:31:20.931639+00:00
- - user: None
- - tags: []
-
-## Solar Cooking
- - [http://solarcooking.org](http://solarcooking.org)
- - date published: 2024-03-03T23:24:50.152750+00:00
- - user: None
- - tags: []
-
-## SolarPACES - International CSP research
- - [https://www.solarpaces.org](https://www.solarpaces.org)
- - date published: 2023-10-25T22:09:59.992144+00:00
- - user: None
- - tags: []
-
-## Home · Solid
- - [https://solidproject.org](https://solidproject.org)
- - date published: 2023-10-25T22:10:03.110937+00:00
- - user: None
- - tags: []
-
-## Source Academy
- - [https://sourceacademy.org](https://sourceacademy.org)
- - date published: 2023-10-25T22:10:04.254495+00:00
- - user: None
- - tags: []
-
-## sourcehut - the hacker's forge
- - [https://sourcehut.org](https://sourcehut.org)
- - date published: 2023-10-25T22:10:11.306606+00:00
- - user: None
- - tags: ['open source', 'software development platform', 'self-host']
-
-## sourceware.org:  Free software!  Get your fresh hot free software!
- - [https://sourceware.org](https://sourceware.org)
- - date published: 2023-10-25T22:10:14.177604+00:00
- - user: None
- - tags: []
-
-## Spaceline | Dedicated To Covering The Past, Present And Future Of Cape Canaveral
- - [https://www.spaceline.org](https://www.spaceline.org)
- - date published: 2024-03-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Space Telescope Live
- - [https://spacetelescopelive.org](https://spacetelescopelive.org)
- - date published: 2024-04-12T09:05:01.741923+00:00
- - user: None
- - tags: ['spacer', 'cosmos', 'astronomy', 'hubble', 'james webb']
-
-## Church of the Flying Spaghetti Monster – The world's fastest growing religion
- - [https://www.spaghettimonster.org](https://www.spaghettimonster.org)
- - date published: 2023-10-25T11:33:27.690487+00:00
- - user: None
- - tags: []
-
-## The MGS home page
- - [http://mgs.spatial-computing.org](http://mgs.spatial-computing.org)
- - date published: 2024-02-16T14:48:01.118490+00:00
- - user: None
- - tags: []
-
-## Spatial
- - [https://spatial-lang.org](https://spatial-lang.org)
- - date published: 2023-10-25T22:10:16.765918+00:00
- - user: None
- - tags: []
-
-## The American Spectator | USA News and Politics
- - [https://spectator.org](https://spectator.org)
- - date published: 2023-10-25T22:10:25.131810+00:00
- - user: None
- - tags: []
-
-## Spice.ai Blog
- - [https://blog.spiceai.org](https://blog.spiceai.org)
- - date published: 2024-03-28T19:17:56.011421+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.spice-space.org](https://www.spice-space.org)
- - date published: 2024-04-16T18:13:53.882042+00:00
- - user: None
- - tags: ['open source', 'remote desktop']
-
-## SPI
- - [https://spi-inc.org](https://spi-inc.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['new york']
-
-## Southern Poverty Law Center
- - [https://www.splcenter.org](https://www.splcenter.org)
- - date published: 2023-10-25T22:10:28.735082+00:00
- - user: None
- - tags: []
-
-## Spudart
- - [https://www.spudart.org](https://www.spudart.org)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Spyglass
- - [https://spyglass.org](https://spyglass.org)
- - date published: 2024-01-26T19:59:51.093397+00:00
- - user: None
- - tags: []
-
-## Sqids – Generate Short Unique IDs from Numbers
- - [https://sqids.org](https://sqids.org)
- - date published: 2023-11-25T17:30:06+00:00
- - user: None
- - tags: []
-
-## SQLAlchemy - The Database Toolkit for Python
- - [https://www.sqlalchemy.org](https://www.sqlalchemy.org)
- - date published: 2023-10-25T22:10:35.303229+00:00
- - user: None
- - tags: ['programming library', 'python']
-
-## SQLite Home Page
- - [http://sqlite.org](http://sqlite.org)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## SQLite Home Page
- - [https://sqlite.org](https://sqlite.org)
- - date published: 2023-10-25T08:34:11.917438+00:00
- - user: None
- - tags: []
-
-## SQLite Home Page
- - [https://www.sqlite.org](https://www.sqlite.org)
- - date published: 2023-10-25T08:30:44.493063+00:00
- - user: None
- - tags: ['open source', 'database system']
-
-## SQLite Home Page
- - [http://www.sqlite.org](http://www.sqlite.org)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## sqlpkg - SQLite Package Manager and Registry
- - [https://sqlpkg.org](https://sqlpkg.org)
- - date published: 2023-10-25T22:10:36.907709+00:00
- - user: None
- - tags: ['sqllite extensions']
-
-## https://www.squaresapp.org
- - [https://www.squaresapp.org](https://www.squaresapp.org)
- - date published: 2024-01-03T16:11:16.112479+00:00
- - user: None
- - tags: []
-
-## Squeak/Smalltalk
- - [https://squeak.org](https://squeak.org)
- - date published: 2024-04-25T12:16:12+00:00
- - user: rumpel
- - tags: ['open source', 'programming language', 'graphical toolkit', 'smalltalk']
-
-## Swikis on this Site
- - [https://wiki.squeak.org](https://wiki.squeak.org)
- - date published: 2023-10-25T22:10:38.150045+00:00
- - user: None
- - tags: []
-
-## Squid Web Cache documentation
- - [https://wiki.squid-cache.org](https://wiki.squid-cache.org)
- - date published: 2024-02-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford Social Innovation Review: Informing and Inspiring Leaders of Social Change
- - [https://ssir.org](https://ssir.org)
- - date published: 2023-10-25T22:10:50.257498+00:00
- - user: None
- - tags: []
-
-## Home - The Scholarly Kitchen
- - [https://scholarlykitchen.sspnet.org](https://scholarlykitchen.sspnet.org)
- - date published: 2023-10-25T22:10:54.233750+00:00
- - user: None
- - tags: []
-
-## Richard Stallman's Personal Page
- - [https://stallman.org](https://stallman.org)
- - date published: 2023-10-25T08:55:16.261378+00:00
- - user: None
- - tags: ['personal', 'open source']
-
-## Introduction | Stallman Support
- - [https://stallmansupport.org](https://stallmansupport.org)
- - date published: 2023-10-25T22:10:55.015261+00:00
- - user: None
- - tags: []
-
-## Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.
- - [https://standardebooks.org](https://standardebooks.org)
- - date published: 2023-10-25T22:10:56.245275+00:00
- - user: None
- - tags: []
-
-## ANSI-ISO PASCAL
- - [https://www.standardpascal.org](https://www.standardpascal.org)
- - date published: 2024-04-25T11:57:35+00:00
- - user: rumpel
- - tags: ['programming language', 'pascal']
-
-## The Stanford Review
- - [https://stanfordreview.org](https://stanfordreview.org)
- - date published: 2023-11-17T20:05:24.177437+00:00
- - user: None
- - tags: []
-
-## home
- - [https://starbreaker.org](https://starbreaker.org)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## VoRS: Vo(IP) Simple Alternative to Mumble
- - [http://www.vors.stargrave.org](http://www.vors.stargrave.org)
- - date published: 2024-04-19T05:16:37+00:00
- - user: None
- - tags: []
-
-## The Tower of Babel
- - [https://starlingdb.org](https://starlingdb.org)
- - date published: 2024-02-08T22:04:41.918257+00:00
- - user: None
- - tags: []
-
-## Real-time map of every Starlink satellite in orbit
- - [https://www.starlinkmap.org](https://www.starlinkmap.org)
- - date published: 2024-03-25T03:35:03+00:00
- - user: None
- - tags: []
-
-## Home - Stateline
- - [https://stateline.org](https://stateline.org)
- - date published: 2023-12-21T00:00:06.276729+00:00
- - user: None
- - tags: []
-
-## Statewatch |
- - [https://www.statewatch.org](https://www.statewatch.org)
- - date published: 2023-10-25T22:10:57.959001+00:00
  - user: None
  - tags: []
 

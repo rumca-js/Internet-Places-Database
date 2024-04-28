@@ -1,3 +1,21 @@
+## Citroën Home
+ - [https://www.citroen.com.br](https://www.citroen.com.br)
+ - date published: 2023-12-11T16:02:47.705230+00:00
+ - user: None
+ - tags: []
+
+## This Mastodon-Twitter crossposter instance is now offline
+ - [https://crossposter.masto.donte.com.br](https://crossposter.masto.donte.com.br)
+ - date published: 2024-01-09T02:26:48.543826+00:00
+ - user: None
+ - tags: []
+
+## Fabricio Stefani Peruzzo
+ - [https://fabricioperuzzo.com.br](https://fabricioperuzzo.com.br)
+ - date published: 2023-12-23T07:30:31.973271+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Mods GTA San Andreas
  - [https://www.gta-sa.com.br](https://www.gta-sa.com.br)
  - date published: 2023-10-25T11:08:27.421230+00:00
@@ -785,13 +803,13 @@
  - tags: []
 
 ## iter.ca
- - [https://iter.ca](https://iter.ca)
+ - [http://iter.ca](http://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## iter.ca
- - [http://iter.ca](http://iter.ca)
+ - [https://iter.ca](https://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -809,14 +827,14 @@
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [https://jenniferashton.ca](https://jenniferashton.ca)
- - date published: 2023-12-20T19:14:23.669927+00:00
+ - [http://jenniferashton.ca](http://jenniferashton.ca)
+ - date published: 2023-12-25T04:56:31.047100+00:00
  - user: None
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [http://jenniferashton.ca](http://jenniferashton.ca)
- - date published: 2023-12-25T04:56:31.047100+00:00
+ - [https://jenniferashton.ca](https://jenniferashton.ca)
+ - date published: 2023-12-20T19:14:23.669927+00:00
  - user: None
  - tags: ['personal']
 
@@ -1030,17 +1048,17 @@
  - user: rumpel
  - tags: ['personal']
 
-## None
- - [https://novak.ca](https://novak.ca)
- - date published: 2024-01-11T02:12:34.554251+00:00
- - user: None
- - tags: []
-
 ## Novak Family
  - [http://novak.ca](http://novak.ca)
  - date published: 2024-04-03T06:29:56.862797+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [https://novak.ca](https://novak.ca)
+ - date published: 2024-01-11T02:12:34.554251+00:00
+ - user: None
+ - tags: []
 
 ## Good, Better, Best
  - [https://www.nthn.ca](https://www.nthn.ca)
@@ -1343,14 +1361,14 @@
  - tags: ['personal']
 
 ## Timur Ochakovsky | Web Developer
- - [https://www.timur.ca](https://www.timur.ca)
- - date published: 2023-11-29T14:23:08.617547+00:00
+ - [http://www.timur.ca](http://www.timur.ca)
+ - date published: 2002-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Timur Ochakovsky | Web Developer
- - [http://www.timur.ca](http://www.timur.ca)
- - date published: 2002-01-01T00:00:00+00:00
+ - [https://www.timur.ca](https://www.timur.ca)
+ - date published: 2023-11-29T14:23:08.617547+00:00
  - user: None
  - tags: []
 
@@ -2149,16 +2167,16 @@
  - tags: ['personal']
 
 ## Gregors Blog
- - [http://www.blog-gregor.ch](http://www.blog-gregor.ch)
- - date published: 2024-03-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gregors Blog
  - [https://www.blog-gregor.ch](https://www.blog-gregor.ch)
  - date published: 2023-12-27T23:55:45.885819+00:00
  - user: None
  - tags: ['personal']
+
+## Gregors Blog
+ - [http://www.blog-gregor.ch](http://www.blog-gregor.ch)
+ - date published: 2024-03-09T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Sergio Camalich | Maker of Stuff
  - [https://www.camali.ch](https://www.camali.ch)
@@ -2175,6 +2193,18 @@
 ## Home · Indico
  - [https://indico.cern.ch](https://indico.cern.ch)
  - date published: 2024-02-28T12:13:35.444822+00:00
+ - user: None
+ - tags: []
+
+## http://info.cern.ch
+ - [https://info.cern.ch](https://info.cern.ch)
+ - date published: 2024-04-27T08:31:40.472862+00:00
+ - user: None
+ - tags: ['internet history']
+
+## http://info.cern.ch
+ - [http://info.cern.ch](http://info.cern.ch)
+ - date published: 2024-04-27T08:31:40.767416+00:00
  - user: None
  - tags: []
 
@@ -2769,12 +2799,6 @@
 ## Graal Stack
  - [https://www.graal.cloud](https://www.graal.cloud)
  - date published: 2023-10-25T12:15:24.653632+00:00
- - user: None
- - tags: []
-
-## None
- - [https://hub.infinyon.cloud](https://hub.infinyon.cloud)
- - date published: 2024-04-26T15:25:39.081107+00:00
  - user: None
  - tags: []
 
@@ -3546,6 +3570,12 @@
  - user: None
  - tags: ['personal']
 
+## g.co
+ - [https://g.co](https://g.co)
+ - date published: 2024-04-27T08:05:23.284274+00:00
+ - user: None
+ - tags: ['link service']
+
 ## Game8｜The Top Gaming and App Walkthroughs Straight from Japan!
  - [https://game8.co](https://game8.co)
  - date published: 2024-04-07T17:55:50+00:00
@@ -4219,16 +4249,16 @@
  - tags: []
 
 ## Home
- - [https://shubhamjain.co](https://shubhamjain.co)
- - date published: 2023-10-25T09:07:56.781772+00:00
- - user: None
- - tags: ['personal']
-
-## Home
  - [http://shubhamjain.co](http://shubhamjain.co)
  - date published: 2024-02-26T12:57:53.139033+00:00
  - user: None
  - tags: []
+
+## Home
+ - [https://shubhamjain.co](https://shubhamjain.co)
+ - date published: 2023-10-25T09:07:56.781772+00:00
+ - user: None
+ - tags: ['personal']
 
 ## SCIENTIA
  - [https://skientia.co](https://skientia.co)
@@ -4309,14 +4339,14 @@
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [http://stateofthenation.co](http://stateofthenation.co)
- - date published: 2024-02-26T12:49:19.790593+00:00
+ - [https://stateofthenation.co](https://stateofthenation.co)
+ - date published: 2023-10-25T12:23:13.580451+00:00
  - user: None
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [https://stateofthenation.co](https://stateofthenation.co)
- - date published: 2023-10-25T12:23:13.580451+00:00
+ - [http://stateofthenation.co](http://stateofthenation.co)
+ - date published: 2024-02-26T12:49:19.790593+00:00
  - user: None
  - tags: []
 
@@ -4435,14 +4465,14 @@
  - tags: []
 
 ## Travel Hungry: Great Tastes From Stuttgart & Beyond
- - [https://travelhungry.co](https://travelhungry.co)
- - date published: 2023-10-25T12:24:24.607320+00:00
+ - [http://travelhungry.co](http://travelhungry.co)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Travel Hungry: Great Tastes From Stuttgart & Beyond
- - [http://travelhungry.co](http://travelhungry.co)
- - date published: 2008-01-01T00:00:00+00:00
+ - [https://travelhungry.co](https://travelhungry.co)
+ - date published: 2023-10-25T12:24:24.607320+00:00
  - user: None
  - tags: []
 
@@ -4528,7 +4558,7 @@
  - [https://wideangle.co](https://wideangle.co)
  - date published: 2023-10-25T12:25:02.771484+00:00
  - user: None
- - tags: []
+ - tags: ['website analitics']
 
 ## Wireflow – free, online, open source tool for creating user-flow prototypes
  - [https://wireflow.co](https://wireflow.co)
@@ -4910,9 +4940,21 @@
  - user: None
  - tags: []
 
+## 14 Habits of Highly Productive Developers
+ - [https://14habits.com](https://14habits.com)
+ - date published: 2024-04-27T08:05:03.923748+00:00
+ - user: None
+ - tags: []
+
 ## Eliran Turgeman
  - [https://www.16elt.com](https://www.16elt.com)
  - date published: 2023-10-25T12:26:18.338306+00:00
+ - user: None
+ - tags: []
+
+## 1775 Coffee
+ - [https://1775coffee.com](https://1775coffee.com)
+ - date published: 2024-02-09T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5349,14 +5391,14 @@
  - tags: []
 
 ## Aardwolf MUD - Home Page
- - [https://www.aardwolf.com](https://www.aardwolf.com)
- - date published: 2024-03-27T20:48:48.782050+00:00
+ - [http://www.aardwolf.com](http://www.aardwolf.com)
+ - date published: 2024-03-27T20:46:27.237579+00:00
  - user: None
  - tags: ['mud game']
 
 ## Aardwolf MUD - Home Page
- - [http://www.aardwolf.com](http://www.aardwolf.com)
- - date published: 2024-03-27T20:46:27.237579+00:00
+ - [https://www.aardwolf.com](https://www.aardwolf.com)
+ - date published: 2024-03-27T20:48:48.782050+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5444,17 +5486,17 @@
  - user: None
  - tags: ['personal']
 
-## Coming Soon
- - [https://aaronshbeeb.com](https://aaronshbeeb.com)
- - date published: 2023-12-17T20:59:02.532105+00:00
- - user: None
- - tags: ['personal']
-
 ## Home - Aaron Shbeeb
  - [http://aaronshbeeb.com](http://aaronshbeeb.com)
  - date published: 2024-04-03T00:00:00+00:00
  - user: None
  - tags: []
+
+## Coming Soon
+ - [https://aaronshbeeb.com](https://aaronshbeeb.com)
+ - date published: 2023-12-17T20:59:02.532105+00:00
+ - user: None
+ - tags: ['personal']
 
 ## AaronStrick.com
  - [https://aaronstrick.com](https://aaronstrick.com)
@@ -5511,14 +5553,14 @@
  - tags: []
 
 ## Abandoned Realms Homepage
- - [http://abandonedrealms.com](http://abandonedrealms.com)
- - date published: 2024-03-27T20:46:21.299380+00:00
+ - [https://abandonedrealms.com](https://abandonedrealms.com)
+ - date published: 2024-03-27T20:46:56.678785+00:00
  - user: None
  - tags: ['mud game']
 
 ## Abandoned Realms Homepage
- - [https://abandonedrealms.com](https://abandonedrealms.com)
- - date published: 2024-03-27T20:46:56.678785+00:00
+ - [http://abandonedrealms.com](http://abandonedrealms.com)
+ - date published: 2024-03-27T20:46:21.299380+00:00
  - user: None
  - tags: ['mud game']
 
@@ -5643,14 +5685,14 @@
  - tags: []
 
 ## Abhinav Bhatt
- - [https://abhinavbhatt.com](https://abhinavbhatt.com)
- - date published: 2024-01-13T22:54:15.913288+00:00
+ - [http://abhinavbhatt.com](http://abhinavbhatt.com)
+ - date published: 2024-04-03T12:49:59.456600+00:00
  - user: None
  - tags: ['personal']
 
 ## Abhinav Bhatt
- - [http://abhinavbhatt.com](http://abhinavbhatt.com)
- - date published: 2024-04-03T12:49:59.456600+00:00
+ - [https://abhinavbhatt.com](https://abhinavbhatt.com)
+ - date published: 2024-01-13T22:54:15.913288+00:00
  - user: None
  - tags: ['personal']
 
@@ -5817,14 +5859,14 @@
  - tags: []
 
 ## Accidental Fire
- - [http://accidentalfire.com](http://accidentalfire.com)
- - date published: 2024-04-03T06:29:12.978441+00:00
+ - [https://accidentalfire.com](https://accidentalfire.com)
+ - date published: 2023-12-20T05:40:26.113068+00:00
  - user: None
  - tags: ['personal']
 
 ## Accidental Fire
- - [https://accidentalfire.com](https://accidentalfire.com)
- - date published: 2023-12-20T05:40:26.113068+00:00
+ - [http://accidentalfire.com](http://accidentalfire.com)
+ - date published: 2024-04-03T06:29:12.978441+00:00
  - user: None
  - tags: ['personal']
 
@@ -5959,46 +6001,4 @@
  - date published: 2023-10-28T23:34:48.545584+00:00
  - user: None
  - tags: []
-
-## The AdaCore Blog
- - [https://blog.adacore.com](https://blog.adacore.com)
- - date published: 2023-10-25T12:31:46.863448+00:00
- - user: None
- - tags: []
-
-## “learn.adacore.com"
- - [https://learn.adacore.com](https://learn.adacore.com)
- - date published: 2024-04-23T15:49:20+00:00
- - user: rumpel
- - tags: []
-
-## Commercial software solutions for Ada, C and C++ | AdaCore
- - [https://www.adacore.com](https://www.adacore.com)
- - date published: 2023-10-25T11:27:07.163203+00:00
- - user: None
- - tags: ['do-178c', 'do-178b']
-
-## Adactio: Jeremy Keith
- - [https://adactio.com](https://adactio.com)
- - date published: 2024-02-20T13:43:47.919369+00:00
- - user: None
- - tags: []
-
-## Adafruit Industries - Makers, hackers, artists, designers and engineers!
- - [http://blog.adafruit.com](http://blog.adafruit.com)
- - date published: 2024-02-25T14:26:38.171328+00:00
- - user: None
- - tags: []
-
-## Adafruit Industries – Makers, hackers, artists, designers and engineers!
- - [https://blog.adafruit.com](https://blog.adafruit.com)
- - date published: 2023-10-25T12:31:55.789084+00:00
- - user: None
- - tags: []
-
-## Adafruit Industries, Unique & fun DIY electronics and kits
- - [https://www.adafruit.com](https://www.adafruit.com)
- - date published: 2023-10-25T11:14:43.308029+00:00
- - user: None
- - tags: ['single board computers', 'hardware parts', 'electronic parts']
 

@@ -338,7 +338,7 @@
  - [https://carper.ai](https://carper.ai)
  - date published: 2023-10-25T11:36:47.359387+00:00
  - user: None
- - tags: []
+ - tags: ['artificial intelligence']
 
 ## #1 Kubernetes Cost Optimization & Automation Platform - CAST AI
  - [https://cast.ai](https://cast.ai)
@@ -3551,14 +3551,14 @@
  - tags: []
 
 ## César Ferradas
- - [https://ferrad.as](https://ferrad.as)
- - date published: 2024-02-09T00:13:34.119208+00:00
+ - [http://ferrad.as](http://ferrad.as)
+ - date published: 2024-04-03T06:23:10.101108+00:00
  - user: None
  - tags: ['personal']
 
 ## César Ferradas
- - [http://ferrad.as](http://ferrad.as)
- - date published: 2024-04-03T06:23:10.101108+00:00
+ - [https://ferrad.as](https://ferrad.as)
+ - date published: 2024-02-09T00:13:34.119208+00:00
  - user: None
  - tags: ['personal']
 
@@ -3573,6 +3573,12 @@
  - date published: 2024-02-27T12:33:36.266108+00:00
  - user: None
  - tags: ['singapore news', 'asia news']
+
+## Tickets | Coinfest Asia 2024
+ - [https://ticket.coinfest.asia](https://ticket.coinfest.asia)
+ - date published: 2024-04-27T07:11:46.103458+00:00
+ - user: None
+ - tags: []
 
 ## Homepage | IIAS
  - [https://www.iias.asia](https://www.iias.asia)
@@ -3982,6 +3988,12 @@
  - user: None
  - tags: []
 
+## Discover, Compare, and Choose the Best Business Apps
+ - [https://www.getapp.com.au](https://www.getapp.com.au)
+ - date published: 2024-04-27T07:12:21.769544+00:00
+ - user: None
+ - tags: []
+
 ## Gizmodo Australia | The News Of Tomorrow, Today
  - [https://gizmodo.com.au](https://gizmodo.com.au)
  - date published: 2023-10-25T09:30:27.921550+00:00
@@ -4031,16 +4043,16 @@
  - tags: []
 
 ## Home
- - [http://kerrygrace.com.au](http://kerrygrace.com.au)
- - date published: 2024-04-03T06:27:02.750662+00:00
- - user: None
- - tags: ['personal']
-
-## Home
  - [https://kerrygrace.com.au](https://kerrygrace.com.au)
  - date published: 2024-01-09T21:36:51.535431+00:00
  - user: None
  - tags: []
+
+## Home
+ - [http://kerrygrace.com.au](http://kerrygrace.com.au)
+ - date published: 2024-04-03T06:27:02.750662+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Kotaku Australia | See Games Differently
  - [https://www.kotaku.com.au](https://www.kotaku.com.au)
@@ -4661,16 +4673,16 @@
  - tags: ['music band']
 
 ## Home – Zvi Band | Zvi Band
- - [http://zvi.band](http://zvi.band)
- - date published: 2023-12-22T22:31:24.610066+00:00
- - user: None
- - tags: ['personal']
-
-## Home – Zvi Band | Zvi Band
  - [https://zvi.band](https://zvi.band)
  - date published: 2017-09-27T10:32:32+00:00
  - user: None
  - tags: []
+
+## Home – Zvi Band | Zvi Band
+ - [http://zvi.band](http://zvi.band)
+ - date published: 2023-12-22T22:31:24.610066+00:00
+ - user: None
+ - tags: ['personal']
 
 ## https://saucecode.bar
  - [https://saucecode.bar](https://saucecode.bar)
@@ -4733,16 +4745,16 @@
  - tags: []
 
 ## Denny Wong - Learn, think, write and do.
- - [https://dewo.be](https://dewo.be)
- - date published: 2023-11-29T14:18:04.127765+00:00
- - user: None
- - tags: ['personal']
-
-## Denny Wong - Learn, think, write and do.
  - [http://dewo.be](http://dewo.be)
  - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Denny Wong - Learn, think, write and do.
+ - [https://dewo.be](https://dewo.be)
+ - date published: 2023-11-29T14:18:04.127765+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Dries Depoorter – artist and speaker working with technology 🔥
  - [https://driesdepoorter.be](https://driesdepoorter.be)
@@ -4804,17 +4816,17 @@
  - user: None
  - tags: []
 
-## Original Sling'n'shoot Worms Game
- - [http://www.liero.be](http://www.liero.be)
- - date published: 2023-12-28T18:40:30+00:00
- - user: None
- - tags: []
-
 ## Liero - Official website
  - [https://www.liero.be](https://www.liero.be)
  - date published: 2023-10-26T18:32:21.331231+00:00
  - user: None
  - tags: ['open source', 'game', 'retro game']
+
+## Original Sling'n'shoot Worms Game
+ - [http://www.liero.be](http://www.liero.be)
+ - date published: 2023-12-28T18:40:30+00:00
+ - user: None
+ - tags: []
 
 ## Home
  - [https://www.mjvanhee.be](https://www.mjvanhee.be)
@@ -4871,16 +4883,16 @@
  - tags: []
 
 ## Home: New - Shakalaka
- - [https://shakalaka.be](https://shakalaka.be)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home: New - Shakalaka
  - [http://shakalaka.be](http://shakalaka.be)
  - date published: 2023-12-22T22:29:41.716940+00:00
  - user: None
  - tags: ['personal']
+
+## Home: New - Shakalaka
+ - [https://shakalaka.be](https://shakalaka.be)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Steffest - web developer
  - [https://www.stef.be](https://www.stef.be)
@@ -5329,6 +5341,12 @@
 ## Blog
  - [https://developer-friendly.blog](https://developer-friendly.blog)
  - date published: 2024-03-04T18:53:54.534773+00:00
+ - user: None
+ - tags: []
+
+## Disconnect
+ - [https://disconnect.blog](https://disconnect.blog)
+ - date published: 2024-04-27T04:15:01.645596+00:00
  - user: None
  - tags: []
 
@@ -5980,22 +5998,4 @@
  - date published: 2024-04-25T18:39:26.645719+00:00
  - user: None
  - tags: ['programming ide', 'assembly']
-
-## Citroën Home
- - [https://www.citroen.com.br](https://www.citroen.com.br)
- - date published: 2023-12-11T16:02:47.705230+00:00
- - user: None
- - tags: []
-
-## This Mastodon-Twitter crossposter instance is now offline
- - [https://crossposter.masto.donte.com.br](https://crossposter.masto.donte.com.br)
- - date published: 2024-01-09T02:26:48.543826+00:00
- - user: None
- - tags: []
-
-## Fabricio Stefani Peruzzo
- - [https://fabricioperuzzo.com.br](https://fabricioperuzzo.com.br)
- - date published: 2023-12-23T07:30:31.973271+00:00
- - user: None
- - tags: ['personal']
 

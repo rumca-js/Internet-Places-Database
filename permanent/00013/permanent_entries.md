@@ -1,3 +1,417 @@
+## Simon Owen
+ - [https://simonowen.com](https://simonowen.com)
+ - date published: 2023-10-31T19:57:41.845940+00:00
+ - user: None
+ - tags: []
+
+## simonsafar.com
+ - [https://simonsafar.com](https://simonsafar.com)
+ - date published: 2024-04-22T15:46:16.758431+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Map is Mostly Water | Simon Sarris | Substack
+ - [https://map.simonsarris.com](https://map.simonsarris.com)
+ - date published: 2024-02-26T13:50:20.453987+00:00
+ - user: None
+ - tags: []
+
+## Home | Web Design Antwerp - Simon Somlai
+ - [https://simonsomlai.com](https://simonsomlai.com)
+ - date published: 2023-12-14T01:27:48.252689+00:00
+ - user: None
+ - tags: ['personal']
+
+## Offbeat books with attitude (and talking dogs)
+ - [https://simontownley.com](https://simontownley.com)
+ - date published: 2023-12-12T13:09:12.231352+00:00
+ - user: None
+ - tags: ['personal']
+
+## SIMON WECKERT
+ - [https://simonweckert.com](https://simonweckert.com)
+ - date published: 2023-10-25T17:04:37.109036+00:00
+ - user: None
+ - tags: []
+
+## simonwisdom.com
+ - [https://simonwisdom.com](https://simonwisdom.com)
+ - date published: 2024-04-03T06:22:35.705804+00:00
+ - user: None
+ - tags: ['personal']
+
+## simpixelated.com
+ - [https://simpixelated.com](https://simpixelated.com)
+ - date published: 2024-03-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The privacy-first Google Analytics alternative - Simple Analytics
+ - [https://simpleanalytics.com](https://simpleanalytics.com)
+ - date published: 2024-04-27T08:25:40+00:00
+ - user: rumpel
+ - tags: ['website analitics', 'service']
+
+## The privacy-first Google Analytics alternative - Simple Analytics
+ - [https://www.simpleanalytics.com](https://www.simpleanalytics.com)
+ - date published: 2023-10-25T17:04:39.478313+00:00
+ - user: None
+ - tags: []
+
+## Simplebooklet | PDF to Flipbook Maker. Convert your Brochure or Presentation into Online Digital Flip Books.
+ - [https://simplebooklet.com](https://simplebooklet.com)
+ - date published: 2024-03-19T11:11:06+00:00
+ - user: rumpel
+ - tags: ['online tool']
+
+## None
+ - [https://simpleflying.com](https://simpleflying.com)
+ - date published: 2023-12-20T14:32:14.691589+00:00
+ - user: None
+ - tags: []
+
+## Simple Mobile Tools
+ - [https://www.simplemobiletools.com](https://www.simplemobiletools.com)
+ - date published: 2023-10-25T17:04:40.615776+00:00
+ - user: None
+ - tags: ['app']
+
+## Deep links to opt-out of data sharing by 100+ companies – Simple Opt Out
+ - [https://simpleoptout.com](https://simpleoptout.com)
+ - date published: 2023-10-25T17:04:45.497629+00:00
+ - user: None
+ - tags: []
+
+## Simpler Machines
+ - [https://www.simplermachines.com](https://www.simplermachines.com)
+ - date published: 2024-04-18T17:16:32.649694+00:00
+ - user: None
+ - tags: ['personal']
+
+## Simple Syllabus
+ - [https://harvard.simplesyllabus.com](https://harvard.simplesyllabus.com)
+ - date published: 2023-10-25T17:04:47.126115+00:00
+ - user: None
+ - tags: []
+
+## Digital Product Agency - User Experience Design and Engineering - Richmond VA
+ - [https://www.simplethread.com](https://www.simplethread.com)
+ - date published: 2023-10-25T17:04:50.170129+00:00
+ - user: None
+ - tags: []
+
+## Simplified Privacy – Privacy Made Easy
+ - [https://simplifiedprivacy.com](https://simplifiedprivacy.com)
+ - date published: 2023-10-25T17:04:52.957351+00:00
+ - user: None
+ - tags: []
+
+## Home | Simplify3D Software
+ - [https://www.simplify3d.com](https://www.simplify3d.com)
+ - date published: 2023-10-27T10:23:04.726869+00:00
+ - user: None
+ - tags: ['3d printing']
+
+## The Simpsons Archive
+ - [https://www.simpsonsarchive.com](https://www.simpsonsarchive.com)
+ - date published: 2023-10-25T17:04:54.288233+00:00
+ - user: None
+ - tags: ['show', 'simpsons']
+
+## SimulaVR
+ - [https://simulavr.com](https://simulavr.com)
+ - date published: 2023-10-25T17:04:56.644575+00:00
+ - user: None
+ - tags: []
+
+## The Simutrans Blog
+ - [https://blog.simutrans.com](https://blog.simutrans.com)
+ - date published: 2023-10-25T17:05:01.425973+00:00
+ - user: None
+ - tags: []
+
+## Sinan Moses
+ - [https://sinanmoses.com](https://sinanmoses.com)
+ - date published: 2023-11-29T15:49:58.272955+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sindhu Shivaprasad
+ - [https://sindhushivaprasad.com](https://sindhushivaprasad.com)
+ - date published: 2024-01-05T10:28:36.978417+00:00
+ - user: None
+ - tags: []
+
+## Sindre Sorhus
+ - [https://sindresorhus.com](https://sindresorhus.com)
+ - date published: 2023-10-25T17:05:01.970721+00:00
+ - user: None
+ - tags: []
+
+## Complete the Pattern (blank)..
+ - [https://singingfiles.com](https://singingfiles.com)
+ - date published: 2023-12-23T10:22:28.402106+00:00
+ - user: None
+ - tags: []
+
+## Singularity 6
+ - [https://www.singularity6.com](https://www.singularity6.com)
+ - date published: 2024-04-04T03:44:24.589507+00:00
+ - user: None
+ - tags: ['video game developer']
+
+## Home - Singularity Hub
+ - [https://singularityhub.com](https://singularityhub.com)
+ - date published: 2023-10-25T17:05:04.668985+00:00
+ - user: None
+ - tags: []
+
+## Singulatron
+ - [https://singulatron.com](https://singulatron.com)
+ - date published: 2024-02-19T17:36:31.845833+00:00
+ - user: None
+ - tags: []
+
+## sipeed 矽速科技 官网
+ - [https://sipeed.com](https://sipeed.com)
+ - date published: 2023-10-25T17:05:07.136550+00:00
+ - user: None
+ - tags: []
+
+## Simon Eskildsen - Sirupsen
+ - [https://sirupsen.com](https://sirupsen.com)
+ - date published: 2023-10-25T17:05:08.760756+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sit Breathe Meditate
+ - [https://sitbreathemeditate.com](https://sitbreathemeditate.com)
+ - date published: 2015-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SitePoint – Learn HTML, CSS, JavaScript, PHP, UX & Responsive Design
+ - [https://www.sitepoint.com](https://www.sitepoint.com)
+ - date published: 2023-10-25T17:05:11.503452+00:00
+ - user: None
+ - tags: []
+
+## Sit In Shade-Find Best Seat to Minimize Sun Exposure While Traveling
+ - [https://sitinshade.com](https://sitinshade.com)
+ - date published: 2024-01-17T05:11:32.929893+00:00
+ - user: None
+ - tags: []
+
+## Six Colors – Apple, technology, and other stuff by Jason Snell & Dan Moren
+ - [https://sixcolors.com](https://sixcolors.com)
+ - date published: 2023-10-25T17:05:14.070957+00:00
+ - user: None
+ - tags: []
+
+## Six Degrees of Wikipedia
+ - [https://www.sixdegreesofwikipedia.com](https://www.sixdegreesofwikipedia.com)
+ - date published: 2023-12-20T20:26:43+00:00
+ - user: rumpel
+ - tags: ['interesting', 'wikipedia']
+
+## Python web application development and cloud management services
+ - [https://sixfeetup.com](https://sixfeetup.com)
+ - date published: 2023-10-25T17:05:25.383126+00:00
+ - user: None
+ - tags: []
+
+## Sixth Tone
+ - [https://www.sixthtone.com](https://www.sixthtone.com)
+ - date published: 2024-04-09T16:24:47.942854+00:00
+ - user: None
+ - tags: ['china news']
+
+## The State Journal-Register: Local News, Politics & Sports in Springfield, IL
+ - [https://www.sj-r.com](https://www.sj-r.com)
+ - date published: 2023-10-27T11:55:41.059970+00:00
+ - user: None
+ - tags: []
+
+## The San Joaquin Valley Sun - Central Valley breaking news, sports, lifestyle, and agriculture
+ - [https://sjvsun.com](https://sjvsun.com)
+ - date published: 2023-12-29T09:35:40.857966+00:00
+ - user: None
+ - tags: []
+
+## skagmo.com
+ - [https://skagmo.com](https://skagmo.com)
+ - date published: 2023-10-27T11:55:42.413804+00:00
+ - user: None
+ - tags: []
+
+## Grzegorz Skaruz - Senior Salesforce Developer / Consultant
+ - [https://skaruz.com](https://skaruz.com)
+ - date published: 2024-01-02T18:29:22.786773+00:00
+ - user: None
+ - tags: []
+
+## Stanislav (Stas) Katkov
+ - [https://skatkov.com](https://skatkov.com)
+ - date published: 2023-12-26T19:10:06.720403+00:00
+ - user: None
+ - tags: ['personal']
+
+## Arnold Robbins's Home Page
+ - [http://www.skeeve.com](http://www.skeeve.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sketchfab - The best 3D viewer on the web
+ - [https://sketchfab.com](https://sketchfab.com)
+ - date published: 2023-10-27T10:26:31.358910+00:00
+ - user: None
+ - tags: ['3d printing', 'assets models']
+
+## 3D Warehouse
+ - [https://3dwarehouse.sketchup.com](https://3dwarehouse.sketchup.com)
+ - date published: 2023-10-27T10:30:39.685349+00:00
+ - user: None
+ - tags: ['3d printing', 'assets models']
+
+## SK Gaming – 25 Years of Esports
+ - [https://sk-gaming.com](https://sk-gaming.com)
+ - date published: 2024-03-17T20:33:38.022057+00:00
+ - user: None
+ - tags: []
+
+## Skiff - Private, encrypted, secure email - 10 GB free
+ - [https://skiff.com](https://skiff.com)
+ - date published: 2023-10-25T17:05:52.635675+00:00
+ - user: None
+ - tags: []
+
+## https://www.skillshare.com
+ - [https://www.skillshare.com](https://www.skillshare.com)
+ - date published: 2023-10-24T20:19:37.469993+00:00
+ - user: None
+ - tags: ['creators', 'courses', 'tutorials']
+
+## None
+ - [https://www.skillztruth.com](https://www.skillztruth.com)
+ - date published: 2024-01-09T02:49:03.209005+00:00
+ - user: None
+ - tags: []
+
+## Skins for Winamp - www.skinsforwinamp.com
+ - [https://skinsforwinamp.com](https://skinsforwinamp.com)
+ - date published: 2024-03-29T05:55:40+00:00
+ - user: rumpel
+ - tags: []
+
+## skio: subscriptions for shopify
+ - [https://skio.com](https://skio.com)
+ - date published: 2023-10-25T17:05:56.544814+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Skippy.com - Home of Percy Crosby's lovable "Skippy" character
+ - [http://www.skippy.com](http://www.skippy.com)
+ - date published: 2023-10-25T17:05:57.442936+00:00
+ - user: None
+ - tags: []
+
+## Škoda Auto a.s. | The International Website
+ - [https://skoda-auto.com](https://skoda-auto.com)
+ - date published: 2023-11-03T13:13:05.594047+00:00
+ - user: None
+ - tags: ['car producer']
+
+## Skool: Discover Communities or Create Your Own
+ - [https://www.skool.com](https://www.skool.com)
+ - date published: 2024-03-03T17:31:12.797458+00:00
+ - user: None
+ - tags: ['social platform']
+
+## Skorks
+ - [https://skorks.com](https://skorks.com)
+ - date published: 2023-10-25T17:05:59.705764+00:00
+ - user: None
+ - tags: []
+
+## Skottieyoung.com
+ - [http://skottieyoung.com](http://skottieyoung.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Skrillex | Official Website
+ - [https://www.skrillex.com](https://www.skrillex.com)
+ - date published: 2023-11-13T09:55:50.781194+00:00
+ - user: None
+ - tags: ['music band']
+
+## Mobile solutions for warehousing, fulfillment, and shipping | SKUSavvy
+ - [https://skusavvy.com](https://skusavvy.com)
+ - date published: 2023-10-25T17:06:01.743430+00:00
+ - user: None
+ - tags: []
+
+## The Latest News from the UK and Around the World | Sky News
+ - [https://news.sky.com](https://news.sky.com)
+ - date published: 2023-10-25T10:28:27.420874+00:00
+ - user: None
+ - tags: []
+
+## The Elder Scrolls: Skyblivion
+ - [https://skyblivion.com](https://skyblivion.com)
+ - date published: 2023-10-25T11:10:12.987130+00:00
+ - user: None
+ - tags: ['elder scrolls', 'skyrim', 'oblivion']
+
+## Commercial High Resolution Satellite Imagery and Video | SkyFi
+ - [https://www.skyfi.com](https://www.skyfi.com)
+ - date published: 2023-10-25T17:06:03.208902+00:00
+ - user: None
+ - tags: []
+
+## https://feeds.skynews.com
+ - [https://feeds.skynews.com](https://feeds.skynews.com)
+ - date published: 2024-01-09T02:21:45.369773+00:00
+ - user: None
+ - tags: []
+
+## Sky Sports - Sports News, Transfers, Scores | Watch Live Sport
+ - [https://www.skysports.com](https://www.skysports.com)
+ - date published: 2023-10-25T17:06:08.924160+00:00
+ - user: None
+ - tags: []
+
+## Skyvern - Automate Browser Workflows with AI
+ - [https://www.skyvern.com](https://www.skyvern.com)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Boston Digital Marketing | Web Design Company | Slabmedia
+ - [https://slabmedia.com](https://slabmedia.com)
+ - date published: 2024-01-29T09:24:26.341920+00:00
+ - user: None
+ - tags: []
+
+## Slack is your productivity platform
+ - [https://slack.com](https://slack.com)
+ - date published: 2023-10-24T20:12:43.324913+00:00
+ - user: None
+ - tags: []
+
+## Slack System Status
+ - [https://status.slack.com](https://status.slack.com)
+ - date published: 2023-10-25T17:06:09.862444+00:00
+ - user: None
+ - tags: []
+
+## The Slackware Linux Project
+ - [https://www.slackware.com](https://www.slackware.com)
+ - date published: 2023-11-06T10:09:19.255807+00:00
+ - user: None
+ - tags: ['operating system', 'linux']
+
 ## /Film | Movie & TV News, Trailers, Interviews, & Reviews
  - [https://www.slashfilm.com](https://www.slashfilm.com)
  - date published: 2024-02-24T09:56:36.691969+00:00
@@ -202,6 +616,12 @@
  - date published: 2023-10-25T17:07:07.612588+00:00
  - user: None
  - tags: ['smart home']
+
+## Smashing Magazine — For Web Designers And Developers
+ - [https://shop.smashingmagazine.com](https://shop.smashingmagazine.com)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Smashing Magazine ‚Äî For Web Designers And Developers
  - [http://www.smashingmagazine.com](http://www.smashingmagazine.com)
@@ -494,6 +914,12 @@
 ## Latest News & Reviews by Softpedia
  - [https://news.softpedia.com](https://news.softpedia.com)
  - date published: 2024-02-16T16:03:05.521355+00:00
+ - user: None
+ - tags: []
+
+## Business Software Reviews from Software Advice®
+ - [https://www.softwareadvice.com](https://www.softwareadvice.com)
+ - date published: 2024-04-27T07:12:15.072704+00:00
  - user: None
  - tags: []
 
@@ -1121,6 +1547,12 @@
  - user: None
  - tags: []
 
+## Share Presentations without the Mess
+ - [http://speakerdeck.com](http://speakerdeck.com)
+ - date published: 2024-03-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Speculative Branches
  - [https://specbranch.com](https://specbranch.com)
  - date published: 2023-10-25T17:09:49.340220+00:00
@@ -1712,14 +2144,14 @@
  - tags: []
 
 ## Biology Stack Exchange
- - [http://biology.stackexchange.com](http://biology.stackexchange.com)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://biology.stackexchange.com](https://biology.stackexchange.com)
+ - date published: 2024-01-10T09:05:16.771549+00:00
  - user: None
  - tags: []
 
 ## Biology Stack Exchange
- - [https://biology.stackexchange.com](https://biology.stackexchange.com)
- - date published: 2024-01-10T09:05:16.771549+00:00
+ - [http://biology.stackexchange.com](http://biology.stackexchange.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1856,14 +2288,14 @@
  - tags: []
 
 ## Physics Stack Exchange
- - [https://physics.stackexchange.com](https://physics.stackexchange.com)
- - date published: 2023-10-25T17:13:56.651090+00:00
+ - [http://physics.stackexchange.com](http://physics.stackexchange.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Physics Stack Exchange
- - [http://physics.stackexchange.com](http://physics.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://physics.stackexchange.com](https://physics.stackexchange.com)
+ - date published: 2023-10-25T17:13:56.651090+00:00
  - user: None
  - tags: []
 
@@ -2492,16 +2924,16 @@
  - tags: []
 
 ## Steph Ango
- - [http://stephanango.com](http://stephanango.com)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Steph Ango
  - [https://stephanango.com](https://stephanango.com)
  - date published: 2023-10-25T17:16:36.144916+00:00
  - user: None
  - tags: ['personal']
+
+## Steph Ango
+ - [http://stephanango.com](http://stephanango.com)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Steph Ango
  - [https://stephango.com](https://stephango.com)
@@ -2755,15 +3187,15 @@
  - user: None
  - tags: []
 
-## stltoday.com | Read St. Louis, MO and Missouri breaking news. Get latest news, events and information on Missouri sports, weather, entertainment and lifestyles.
- - [http://www.stltoday.com](http://www.stltoday.com)
- - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
 ## St. Louis Post-Dispatch | Breaking News | | Read St. Louis, MO and Missouri breaking news. Get latest news, events and information on Missouri sports, weather, entertainment and lifestyles.
  - [https://www.stltoday.com](https://www.stltoday.com)
  - date published: 2023-10-25T17:17:29.361272+00:00
+ - user: None
+ - tags: []
+
+## stltoday.com | Read St. Louis, MO and Missouri breaking news. Get latest news, events and information on Missouri sports, weather, entertainment and lifestyles.
+ - [http://www.stltoday.com](http://www.stltoday.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3280,6 +3712,12 @@
 ## Adaobi’s Newsletter | Substack
  - [https://adaobi.substack.com](https://adaobi.substack.com)
  - date published: 2024-01-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Elevate | Addy Osmani | Substack
+ - [https://addyo.substack.com](https://addyo.substack.com)
+ - date published: 2024-02-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3806,14 +4244,14 @@
  - tags: ['substack']
 
 ## Welcome to Garbagetown | Catherynne M. Valente | Substack
- - [http://catvalente.substack.com](http://catvalente.substack.com)
- - date published: 2024-02-26T14:31:30.283238+00:00
+ - [https://catvalente.substack.com](https://catvalente.substack.com)
+ - date published: 2024-01-09T01:38:23.568122+00:00
  - user: None
  - tags: []
 
 ## Welcome to Garbagetown | Catherynne M. Valente | Substack
- - [https://catvalente.substack.com](https://catvalente.substack.com)
- - date published: 2024-01-09T01:38:23.568122+00:00
+ - [http://catvalente.substack.com](http://catvalente.substack.com)
+ - date published: 2024-02-26T14:31:30.283238+00:00
  - user: None
  - tags: []
 
@@ -3896,26 +4334,26 @@
  - tags: []
 
 ## Classical Wisdom | Substack
- - [http://classicalwisdom.substack.com](http://classicalwisdom.substack.com)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Classical Wisdom | Substack
  - [https://classicalwisdom.substack.com](https://classicalwisdom.substack.com)
  - date published: 2024-01-09T01:38:33.101373+00:00
  - user: None
  - tags: []
 
-## Climateer | Steve | Substack
- - [https://climateer.substack.com](https://climateer.substack.com)
- - date published: 2024-01-09T01:38:40.459420+00:00
+## Classical Wisdom | Substack
+ - [http://classicalwisdom.substack.com](http://classicalwisdom.substack.com)
+ - date published: 2024-02-08T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Climateer | Steve | Substack
  - [http://climateer.substack.com](http://climateer.substack.com)
  - date published: 2024-02-25T18:24:09.054053+00:00
+ - user: None
+ - tags: []
+
+## Climateer | Steve | Substack
+ - [https://climateer.substack.com](https://climateer.substack.com)
+ - date published: 2024-01-09T01:38:40.459420+00:00
  - user: None
  - tags: []
 
@@ -4033,15 +4471,15 @@
  - user: None
  - tags: []
 
-## CPU fun | Jim Cownie | Substack
- - [http://cpufun.substack.com](http://cpufun.substack.com)
- - date published: 2024-02-25T15:35:07.784044+00:00
- - user: None
- - tags: []
-
 ## https://cpufun.substack.com
  - [https://cpufun.substack.com](https://cpufun.substack.com)
  - date published: 2024-01-12T10:26:19.876052+00:00
+ - user: None
+ - tags: []
+
+## CPU fun | Jim Cownie | Substack
+ - [http://cpufun.substack.com](http://cpufun.substack.com)
+ - date published: 2024-02-25T15:35:07.784044+00:00
  - user: None
  - tags: []
 
@@ -4154,14 +4592,14 @@
  - tags: []
 
 ## DARK FUTURA | Simplicius The Thinker | Substack
- - [https://darkfutura.substack.com](https://darkfutura.substack.com)
- - date published: 2024-01-09T01:39:16.386583+00:00
+ - [http://darkfutura.substack.com](http://darkfutura.substack.com)
+ - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
 
 ## DARK FUTURA | Simplicius The Thinker | Substack
- - [http://darkfutura.substack.com](http://darkfutura.substack.com)
- - date published: 2024-02-02T00:00:00+00:00
+ - [https://darkfutura.substack.com](https://darkfutura.substack.com)
+ - date published: 2024-01-09T01:39:16.386583+00:00
  - user: None
  - tags: []
 
@@ -4202,14 +4640,14 @@
  - tags: []
 
 ## Rozado’s Visual Analytics  | David Rozado | Substack
- - [https://davidrozado.substack.com](https://davidrozado.substack.com)
- - date published: 2024-01-09T01:39:20.187256+00:00
+ - [http://davidrozado.substack.com](http://davidrozado.substack.com)
+ - date published: 2024-02-26T12:47:09.664420+00:00
  - user: None
  - tags: []
 
 ## Rozado’s Visual Analytics  | David Rozado | Substack
- - [http://davidrozado.substack.com](http://davidrozado.substack.com)
- - date published: 2024-02-26T12:47:09.664420+00:00
+ - [https://davidrozado.substack.com](https://davidrozado.substack.com)
+ - date published: 2024-01-09T01:39:20.187256+00:00
  - user: None
  - tags: []
 
@@ -4274,14 +4712,14 @@
  - tags: []
 
 ## Derw | Substack
- - [http://derw.substack.com](http://derw.substack.com)
- - date published: 2024-02-25T19:44:58.066101+00:00
+ - [https://derw.substack.com](https://derw.substack.com)
+ - date published: 2024-01-09T01:39:32.524288+00:00
  - user: None
  - tags: []
 
 ## Derw | Substack
- - [https://derw.substack.com](https://derw.substack.com)
- - date published: 2024-01-09T01:39:32.524288+00:00
+ - [http://derw.substack.com](http://derw.substack.com)
+ - date published: 2024-02-25T19:44:58.066101+00:00
  - user: None
  - tags: []
 
@@ -4412,14 +4850,14 @@
  - tags: ['substack']
 
 ## eigenrobot,s Blog | Substack
- - [http://eigenrobot.substack.com](http://eigenrobot.substack.com)
- - date published: 2024-02-26T14:52:24.003064+00:00
+ - [https://eigenrobot.substack.com](https://eigenrobot.substack.com)
+ - date published: 2024-01-09T01:39:54.987097+00:00
  - user: None
  - tags: []
 
 ## eigenrobot,s Blog | Substack
- - [https://eigenrobot.substack.com](https://eigenrobot.substack.com)
- - date published: 2024-01-09T01:39:54.987097+00:00
+ - [http://eigenrobot.substack.com](http://eigenrobot.substack.com)
+ - date published: 2024-02-26T14:52:24.003064+00:00
  - user: None
  - tags: []
 
@@ -4460,26 +4898,26 @@
  - tags: []
 
 ## Erik Examines | Erik Engheim | Substack
- - [https://erikexamines.substack.com](https://erikexamines.substack.com)
- - date published: 2024-01-09T01:40:02.387175+00:00
- - user: None
- - tags: []
-
-## Erik Examines | Erik Engheim | Substack
  - [http://erikexamines.substack.com](http://erikexamines.substack.com)
  - date published: 2024-02-25T20:06:56.089867+00:00
  - user: None
  - tags: []
 
-## Erik Explores | Erik Engheim | Substack
- - [http://erikexplores.substack.com](http://erikexplores.substack.com)
- - date published: 2024-02-25T20:07:07.125255+00:00
+## Erik Examines | Erik Engheim | Substack
+ - [https://erikexamines.substack.com](https://erikexamines.substack.com)
+ - date published: 2024-01-09T01:40:02.387175+00:00
  - user: None
  - tags: []
 
 ## Erik Explores | Erik Engheim | Substack
  - [https://erikexplores.substack.com](https://erikexplores.substack.com)
  - date published: 2024-01-09T01:40:05.656538+00:00
+ - user: None
+ - tags: []
+
+## Erik Explores | Erik Engheim | Substack
+ - [http://erikexplores.substack.com](http://erikexplores.substack.com)
+ - date published: 2024-02-25T20:07:07.125255+00:00
  - user: None
  - tags: []
 
@@ -4496,16 +4934,16 @@
  - tags: []
 
 ## Atlas of Wonders and Monsters | Étienne Fortier-Dubois | Substack
- - [https://etiennefd.substack.com](https://etiennefd.substack.com)
- - date published: 2023-10-25T09:50:13.292516+00:00
- - user: None
- - tags: ['substack']
-
-## Atlas of Wonders and Monsters | Étienne Fortier-Dubois | Substack
  - [http://etiennefd.substack.com](http://etiennefd.substack.com)
  - date published: 2024-02-25T15:05:19.633992+00:00
  - user: None
  - tags: []
+
+## Atlas of Wonders and Monsters | Étienne Fortier-Dubois | Substack
+ - [https://etiennefd.substack.com](https://etiennefd.substack.com)
+ - date published: 2023-10-25T09:50:13.292516+00:00
+ - user: None
+ - tags: ['substack']
 
 ## Experimental History | Adam Mastroianni | Substack
  - [https://experimentalhistory.substack.com](https://experimentalhistory.substack.com)
@@ -4646,14 +5084,14 @@
  - tags: ['substack']
 
 ## Marcus on AI | Gary Marcus | Substack
- - [https://garymarcus.substack.com](https://garymarcus.substack.com)
- - date published: 2023-12-29T01:35:20.032814+00:00
+ - [http://garymarcus.substack.com](http://garymarcus.substack.com)
+ - date published: 2024-02-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Marcus on AI | Gary Marcus | Substack
- - [http://garymarcus.substack.com](http://garymarcus.substack.com)
- - date published: 2024-02-21T00:00:00+00:00
+ - [https://garymarcus.substack.com](https://garymarcus.substack.com)
+ - date published: 2023-12-29T01:35:20.032814+00:00
  - user: None
  - tags: []
 
@@ -4682,26 +5120,26 @@
  - tags: []
 
 ## Alex Ghiculescu's Newsletter | Substack
- - [http://ghiculescu.substack.com](http://ghiculescu.substack.com)
- - date published: 2024-02-25T14:40:55.436984+00:00
- - user: None
- - tags: []
-
-## Alex Ghiculescu's Newsletter | Substack
  - [https://ghiculescu.substack.com](https://ghiculescu.substack.com)
  - date published: 2024-01-09T01:40:25.488363+00:00
  - user: None
  - tags: []
 
-## Michael Girdley's Newsletter | Substack
- - [http://girdley.substack.com](http://girdley.substack.com)
- - date published: 2024-02-26T09:08:46.692843+00:00
+## Alex Ghiculescu's Newsletter | Substack
+ - [http://ghiculescu.substack.com](http://ghiculescu.substack.com)
+ - date published: 2024-02-25T14:40:55.436984+00:00
  - user: None
  - tags: []
 
 ## Michael Girdley's Newsletter | Substack
  - [https://girdley.substack.com](https://girdley.substack.com)
  - date published: 2024-01-09T01:40:27.407232+00:00
+ - user: None
+ - tags: []
+
+## Michael Girdley's Newsletter | Substack
+ - [http://girdley.substack.com](http://girdley.substack.com)
+ - date published: 2024-02-26T09:08:46.692843+00:00
  - user: None
  - tags: []
 
@@ -4730,14 +5168,14 @@
  - tags: ['substack']
 
 ## Gould Asks | Substack
- - [http://gouldasks.substack.com](http://gouldasks.substack.com)
- - date published: 2024-02-25T20:31:36.899411+00:00
+ - [https://gouldasks.substack.com](https://gouldasks.substack.com)
+ - date published: 2024-01-09T01:40:31.573735+00:00
  - user: None
  - tags: []
 
 ## Gould Asks | Substack
- - [https://gouldasks.substack.com](https://gouldasks.substack.com)
- - date published: 2024-01-09T01:40:31.573735+00:00
+ - [http://gouldasks.substack.com](http://gouldasks.substack.com)
+ - date published: 2024-02-25T20:31:36.899411+00:00
  - user: None
  - tags: []
 
@@ -4897,14 +5335,14 @@
  - user: None
  - tags: ['substack']
 
-## degen digest | iatia | Substack
- - [http://iatia.substack.com](http://iatia.substack.com)
+## https://iatia.substack.com
+ - [https://iatia.substack.com](https://iatia.substack.com)
  - date published: 2024-01-22T00:00:00+00:00
  - user: None
  - tags: []
 
-## https://iatia.substack.com
- - [https://iatia.substack.com](https://iatia.substack.com)
+## degen digest | iatia | Substack
+ - [http://iatia.substack.com](http://iatia.substack.com)
  - date published: 2024-01-22T00:00:00+00:00
  - user: None
  - tags: []
@@ -5006,14 +5444,14 @@
  - tags: []
 
 ## Cracking the PM Newsletter | Jackie Bavaro | Substack
- - [https://jackiebavaro.substack.com](https://jackiebavaro.substack.com)
- - date published: 2024-01-09T01:40:58.041645+00:00
+ - [http://jackiebavaro.substack.com](http://jackiebavaro.substack.com)
+ - date published: 2024-02-25T19:27:36.510801+00:00
  - user: None
  - tags: []
 
 ## Cracking the PM Newsletter | Jackie Bavaro | Substack
- - [http://jackiebavaro.substack.com](http://jackiebavaro.substack.com)
- - date published: 2024-02-25T19:27:36.510801+00:00
+ - [https://jackiebavaro.substack.com](https://jackiebavaro.substack.com)
+ - date published: 2024-01-09T01:40:58.041645+00:00
  - user: None
  - tags: []
 
@@ -5066,14 +5504,14 @@
  - tags: []
 
 ## Politics, News, Novels and More | MJ Javani | Substack
- - [https://javani.substack.com](https://javani.substack.com)
- - date published: 2024-01-09T01:41:06.222556+00:00
+ - [http://javani.substack.com](http://javani.substack.com)
+ - date published: 2024-02-26T09:52:55.924821+00:00
  - user: None
  - tags: []
 
 ## Politics, News, Novels and More | MJ Javani | Substack
- - [http://javani.substack.com](http://javani.substack.com)
- - date published: 2024-02-26T09:52:55.924821+00:00
+ - [https://javani.substack.com](https://javani.substack.com)
+ - date published: 2024-01-09T01:41:06.222556+00:00
  - user: None
  - tags: []
 
@@ -5204,14 +5642,14 @@
  - tags: ['substack']
 
 ## In Due Course | Joseph Heath | Substack
- - [https://josephheath.substack.com](https://josephheath.substack.com)
- - date published: 2023-12-31T16:29:29.512997+00:00
+ - [http://josephheath.substack.com](http://josephheath.substack.com)
+ - date published: 2024-01-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## In Due Course | Joseph Heath | Substack
- - [http://josephheath.substack.com](http://josephheath.substack.com)
- - date published: 2024-01-25T00:00:00+00:00
+ - [https://josephheath.substack.com](https://josephheath.substack.com)
+ - date published: 2023-12-31T16:29:29.512997+00:00
  - user: None
  - tags: []
 
@@ -5234,14 +5672,14 @@
  - tags: ['substack']
 
 ## Delayed Branch | Jason Rahman | Substack
- - [http://jprahman.substack.com](http://jprahman.substack.com)
- - date published: 2024-02-25T19:44:26.460482+00:00
+ - [https://jprahman.substack.com](https://jprahman.substack.com)
+ - date published: 2024-01-09T01:41:28.615386+00:00
  - user: None
  - tags: []
 
 ## Delayed Branch | Jason Rahman | Substack
- - [https://jprahman.substack.com](https://jprahman.substack.com)
- - date published: 2024-01-09T01:41:28.615386+00:00
+ - [http://jprahman.substack.com](http://jprahman.substack.com)
+ - date published: 2024-02-25T19:44:26.460482+00:00
  - user: None
  - tags: []
 
@@ -5324,14 +5762,14 @@
  - tags: []
 
 ## Knoll’s Law | Knoll's Law | Substack
- - [http://knollslaw.substack.com](http://knollslaw.substack.com)
- - date published: 2024-02-26T08:33:13.090927+00:00
+ - [https://knollslaw.substack.com](https://knollslaw.substack.com)
+ - date published: 2024-01-09T01:41:47.891078+00:00
  - user: None
  - tags: []
 
 ## Knoll’s Law | Knoll's Law | Substack
- - [https://knollslaw.substack.com](https://knollslaw.substack.com)
- - date published: 2024-01-09T01:41:47.891078+00:00
+ - [http://knollslaw.substack.com](http://knollslaw.substack.com)
+ - date published: 2024-02-26T08:33:13.090927+00:00
  - user: None
  - tags: []
 
@@ -5509,15 +5947,15 @@
  - user: None
  - tags: []
 
-## The Mad Ned Memo | Substack
- - [http://madned.substack.com](http://madned.substack.com)
- - date published: 2024-02-26T13:50:03.106533+00:00
- - user: None
- - tags: []
-
 ## https://madned.substack.com
  - [https://madned.substack.com](https://madned.substack.com)
  - date published: 2024-01-28T23:04:10.684445+00:00
+ - user: None
+ - tags: []
+
+## The Mad Ned Memo | Substack
+ - [http://madned.substack.com](http://madned.substack.com)
+ - date published: 2024-02-26T13:50:03.106533+00:00
  - user: None
  - tags: []
 
@@ -5562,442 +6000,4 @@
  - date published: 2023-10-25T09:58:13.271057+00:00
  - user: None
  - tags: ['substack']
-
-## Martin’s Newsletter | Martin Shkreli | Substack
- - [https://martinshkreli.substack.com](https://martinshkreli.substack.com)
- - date published: 2023-10-25T09:58:16.042885+00:00
- - user: None
- - tags: ['substack']
-
-## Subtle Maneuvers | Mason Currey | Substack
- - [https://masoncurrey.substack.com](https://masoncurrey.substack.com)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## !important | Matt Frisbie | Substack
- - [https://mattfrisbie.substack.com](https://mattfrisbie.substack.com)
- - date published: 2023-10-25T09:58:18.461443+00:00
- - user: None
- - tags: ['substack']
-
-## Matthew’s Substack | Matthew Grohman | Substack
- - [https://matthewgrohman.substack.com](https://matthewgrohman.substack.com)
- - date published: 2023-10-25T09:58:21.025332+00:00
- - user: None
- - tags: ['substack']
-
-## Matthew’s Writing | Matthew Tejo | Substack
- - [https://matthewtejo.substack.com](https://matthewtejo.substack.com)
- - date published: 2024-01-09T01:42:03.454732+00:00
- - user: None
- - tags: []
-
-## Matthew’s Writing | Matthew Tejo | Substack
- - [http://matthewtejo.substack.com](http://matthewtejo.substack.com)
- - date published: 2024-02-26T09:01:39.783770+00:00
- - user: None
- - tags: []
-
-## BIG by Matt Stoller | Substack
- - [https://mattstoller.substack.com](https://mattstoller.substack.com)
- - date published: 2023-10-25T09:58:31.080586+00:00
- - user: None
- - tags: ['substack']
-
-## Maximum Effort, Minimum Reward | Dylan Black | Substack
- - [http://maximumeffort.substack.com](http://maximumeffort.substack.com)
- - date published: 2024-02-26T09:02:09.490699+00:00
- - user: None
- - tags: []
-
-## Maximum Effort, Minimum Reward | Dylan Black | Substack
- - [https://maximumeffort.substack.com](https://maximumeffort.substack.com)
- - date published: 2024-01-09T01:42:06.052060+00:00
- - user: None
- - tags: []
-
-## Maximum Progress | Maxwell Tabarrok | Substack
- - [https://maximumprogress.substack.com](https://maximumprogress.substack.com)
- - date published: 2023-11-25T21:49:13.039073+00:00
- - user: None
- - tags: []
-
-## Read Max | Max Read | Substack
- - [https://maxread.substack.com](https://maxread.substack.com)
- - date published: 2024-01-09T01:42:09.236064+00:00
- - user: None
- - tags: []
-
-## Read Max | Max Read | Substack
- - [http://maxread.substack.com](http://maxread.substack.com)
- - date published: 2024-02-26T10:08:02.508373+00:00
- - user: None
- - tags: []
-
-## Mindful Ruminations | Michael Oliver | Substack
- - [https://mcoliver.substack.com](https://mcoliver.substack.com)
- - date published: 2023-10-25T09:58:39.266748+00:00
- - user: None
- - tags: ['substack']
-
-## Off-Topic | Meghan Boilard | Substack
- - [https://meghanboilard.substack.com](https://meghanboilard.substack.com)
- - date published: 2024-01-09T01:42:13.267759+00:00
- - user: None
- - tags: []
-
-## Off-Topic | Meghan Boilard | Substack
- - [http://meghanboilard.substack.com](http://meghanboilard.substack.com)
- - date published: 2024-02-26T09:38:35.751487+00:00
- - user: None
- - tags: []
-
-## Melos Han-Tani | Substack
- - [https://melodicambient.substack.com](https://melodicambient.substack.com)
- - date published: 2023-10-25T09:58:46.701668+00:00
- - user: None
- - tags: ['substack']
-
-## The Melt by Jason Diamond  | Substack
- - [http://meltedcheeseonwhitefish.substack.com](http://meltedcheeseonwhitefish.substack.com)
- - date published: 2024-02-26T13:50:42.404445+00:00
- - user: None
- - tags: []
-
-## The Melt by Jason Diamond  | Substack
- - [https://meltedcheeseonwhitefish.substack.com](https://meltedcheeseonwhitefish.substack.com)
- - date published: 2024-01-09T01:42:17.605787+00:00
- - user: None
- - tags: []
-
-## memoirs & rambles | Yakko | Substack
- - [http://memoirsandrambles.substack.com](http://memoirsandrambles.substack.com)
- - date published: 2024-01-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## memoirs & rambles | Yakko | Substack
- - [https://memoirsandrambles.substack.com](https://memoirsandrambles.substack.com)
- - date published: 2024-01-05T15:16:39.796562+00:00
- - user: None
- - tags: []
-
-## Methexis | Kevin Fischer | Substack
- - [https://methexis.substack.com](https://methexis.substack.com)
- - date published: 2023-10-25T09:58:53.573354+00:00
- - user: None
- - tags: ['substack']
-
-## Michael’s Substack | Michael DeHaan | Substack
- - [https://michaeldehaan.substack.com](https://michaeldehaan.substack.com)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Michal’s Substack | Michal Pitr | Substack
- - [https://michalpitr.substack.com](https://michalpitr.substack.com)
- - date published: 2024-01-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Cosmic Column | Kai Christensen | Substack
- - [https://mkaic.substack.com](https://mkaic.substack.com)
- - date published: 2023-10-25T09:59:01.344820+00:00
- - user: None
- - tags: ['substack']
-
-## Wrong ideas strongly held | mkBaio | Substack
- - [https://mkbaio.substack.com](https://mkbaio.substack.com)
- - date published: 2024-01-09T01:42:19.962326+00:00
- - user: None
- - tags: []
-
-## Wrong ideas strongly held | mkBaio | Substack
- - [http://mkbaio.substack.com](http://mkbaio.substack.com)
- - date published: 2024-02-26T14:37:41.271159+00:00
- - user: None
- - tags: []
-
-## Molecular Spectacular | Adomas Malaiska | Substack
- - [https://molecularspec.substack.com](https://molecularspec.substack.com)
- - date published: 2023-12-28T21:40:00.740879+00:00
- - user: None
- - tags: []
-
-## Molecular Spectacular | Adomas Malaiska | Substack
- - [http://molecularspec.substack.com](http://molecularspec.substack.com)
- - date published: 2024-02-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## More Than Moore | Dr. Ian Cutress | Substack
- - [https://morethanmoore.substack.com](https://morethanmoore.substack.com)
- - date published: 2024-03-07T17:59:51.578915+00:00
- - user: None
- - tags: []
-
-## Mosquito Chronicles | Mosquito Capital | Substack
- - [http://mosquitocapital.substack.com](http://mosquitocapital.substack.com)
- - date published: 2024-02-26T09:15:30.305445+00:00
- - user: None
- - tags: []
-
-## Mosquito Chronicles | Mosquito Capital | Substack
- - [https://mosquitocapital.substack.com](https://mosquitocapital.substack.com)
- - date published: 2024-01-09T01:42:26.709244+00:00
- - user: None
- - tags: []
-
-## Mostly Python | Eric Matthes | Substack
- - [https://mostlypython.substack.com](https://mostlypython.substack.com)
- - date published: 2024-01-09T01:42:29.608331+00:00
- - user: None
- - tags: []
-
-## https://moveit.substack.com
- - [https://moveit.substack.com](https://moveit.substack.com)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mr. E Reports | Substack
- - [https://mrereports.substack.com](https://mrereports.substack.com)
- - date published: 2023-10-25T09:59:18.422192+00:00
- - user: None
- - tags: ['substack']
-
-## muk’s Newsletter | Substack
- - [https://mukdde.substack.com](https://mukdde.substack.com)
- - date published: 2024-01-09T01:42:32.596097+00:00
- - user: None
- - tags: []
-
-## muk’s Newsletter | Substack
- - [http://mukdde.substack.com](http://mukdde.substack.com)
- - date published: 2024-02-26T15:01:21.465445+00:00
- - user: None
- - tags: []
-
-## Mule Britannia! | Chris Smith | Substack
- - [https://mulebritannia.substack.com](https://mulebritannia.substack.com)
- - date published: 2024-01-09T01:42:34.871262+00:00
- - user: None
- - tags: []
-
-## Mule Britannia! | Chris Smith | Substack
- - [http://mulebritannia.substack.com](http://mulebritannia.substack.com)
- - date published: 2024-02-26T09:17:07.405694+00:00
- - user: None
- - tags: []
-
-## Mythic Mountain Musings | Mythic Mountains RPG | Substack
- - [https://mythicmountainsrpg.substack.com](https://mythicmountainsrpg.substack.com)
- - date published: 2024-03-27T21:53:12+00:00
- - user: rumpel
- - tags: ['ttrpg']
-
-## Nabeel S. Qureshi | Substack
- - [https://nabeelqu.substack.com](https://nabeelqu.substack.com)
- - date published: 2024-01-09T01:42:37.086266+00:00
- - user: None
- - tags: []
-
-## Nabeel S. Qureshi | Substack
- - [http://nabeelqu.substack.com](http://nabeelqu.substack.com)
- - date published: 2024-01-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Anti-Suckers | Nabil Alouani | Substack
- - [https://nabilalouani.substack.com](https://nabilalouani.substack.com)
- - date published: 2024-01-09T01:42:39.246235+00:00
- - user: None
- - tags: []
-
-## Anti-Suckers | Nabil Alouani | Substack
- - [http://nabilalouani.substack.com](http://nabilalouani.substack.com)
- - date published: 2024-02-25T14:58:40.987273+00:00
- - user: None
- - tags: []
-
-## Silver Bulletin | Nate Silver | Substack
- - [https://natesilver.substack.com](https://natesilver.substack.com)
- - date published: 2023-10-25T09:59:37.463830+00:00
- - user: None
- - tags: ['substack']
-
-## Monomythical | Nadia | Substack
- - [https://nayafia.substack.com](https://nayafia.substack.com)
- - date published: 2024-01-09T01:42:40.391436+00:00
- - user: None
- - tags: []
-
-## Monomythical | Nadia | Substack
- - [http://nayafia.substack.com](http://nayafia.substack.com)
- - date published: 2024-02-26T09:14:41.042987+00:00
- - user: None
- - tags: []
-
-## Nerology | Nero Vanbiervliet | Substack
- - [http://nerology.substack.com](http://nerology.substack.com)
- - date published: 2024-02-26T09:23:57.721126+00:00
- - user: None
- - tags: []
-
-## Nerology | Nero Vanbiervliet | Substack
- - [https://nerology.substack.com](https://nerology.substack.com)
- - date published: 2023-12-08T11:52:35.901292+00:00
- - user: None
- - tags: []
-
-## News from Uncibal | David McGrogan | Substack
- - [https://newsfromuncibal.substack.com](https://newsfromuncibal.substack.com)
- - date published: 2023-10-25T09:59:44.684685+00:00
- - user: None
- - tags: ['substack']
-
-## Enterprise AI Trends | John Hwang | Substack
- - [https://nextword.substack.com](https://nextword.substack.com)
- - date published: 2023-10-25T17:19:14.088118+00:00
- - user: None
- - tags: []
-
-## Nikko Norte | Substack
- - [https://nikkonorte.substack.com](https://nikkonorte.substack.com)
- - date published: 2024-02-25T02:28:55.705363+00:00
- - user: None
- - tags: []
-
-## https://nintyzeros.substack.com
- - [https://nintyzeros.substack.com](https://nintyzeros.substack.com)
- - date published: 2024-01-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## NLP News | Sebastian Ruder | Substack
- - [https://nlpnewsletter.substack.com](https://nlpnewsletter.substack.com)
- - date published: 2023-12-22T03:57:35.368086+00:00
- - user: None
- - tags: []
-
-## Augmented Realist | Noah Norman | Substack
- - [https://noahnorman.substack.com](https://noahnorman.substack.com)
- - date published: 2023-10-25T09:59:47.121602+00:00
- - user: None
- - tags: ['substack']
-
-## Noahpinion | Noah Smith | Substack
- - [https://noahpinion.substack.com](https://noahpinion.substack.com)
- - date published: 2023-10-25T09:59:49.877797+00:00
- - user: None
- - tags: ['substack']
-
-## nonamevc | Daniil Chepenko | Substack
- - [https://nonamevc.substack.com](https://nonamevc.substack.com)
- - date published: 2024-04-18T21:31:35.434593+00:00
- - user: None
- - tags: []
-
-## Nongaap Investing | Mike | Substack
- - [https://nongaap.substack.com](https://nongaap.substack.com)
- - date published: 2023-10-25T09:59:52.831490+00:00
- - user: None
- - tags: ['substack']
-
-## Nonzero Newsletter | Robert Wright | Substack
- - [https://nonzero.substack.com](https://nonzero.substack.com)
- - date published: 2023-10-25T09:59:56.570916+00:00
- - user: None
- - tags: ['substack']
-
-## The Notado Newsletter | Substack
- - [https://notado.substack.com](https://notado.substack.com)
- - date published: 2024-01-09T01:42:42.233249+00:00
- - user: None
- - tags: []
-
-## The Notado Newsletter | Substack
- - [http://notado.substack.com](http://notado.substack.com)
- - date published: 2024-02-26T13:52:29.485720+00:00
- - user: None
- - tags: []
-
-## Nothing Human | Ivan Vendrov | Substack
- - [https://nothinghuman.substack.com](https://nothinghuman.substack.com)
- - date published: 2023-10-25T10:00:02.157255+00:00
- - user: None
- - tags: ['substack']
-
-## Novum Newsletter | Anton Cebalo | Substack
- - [https://novum.substack.com](https://novum.substack.com)
- - date published: 2024-01-09T01:42:49.885165+00:00
- - user: None
- - tags: []
-
-## Novum Newsletter | Anton Cebalo | Substack
- - [http://novum.substack.com](http://novum.substack.com)
- - date published: 2024-01-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Navaneeth’s Newsletter | Navaneeth pk | Substack
- - [https://nvnt.substack.com](https://nvnt.substack.com)
- - date published: 2023-10-25T10:00:08.008896+00:00
- - user: None
- - tags: ['substack']
-
-## OSINT & Analysis by Oliver Alexander | Substack
- - [https://oalexanderdk.substack.com](https://oalexanderdk.substack.com)
- - date published: 2023-10-25T10:00:10.875590+00:00
- - user: None
- - tags: ['substack']
-
-## OH8HUB’s Substack | Ossi Herrala | Substack
- - [https://oh8hub.substack.com](https://oh8hub.substack.com)
- - date published: 2023-10-25T10:00:13.190871+00:00
- - user: None
- - tags: ['substack']
-
-## Omnibudsman | Dunstan Ramsay | Substack
- - [https://omnibudsman.substack.com](https://omnibudsman.substack.com)
- - date published: 2023-10-25T10:00:16.370204+00:00
- - user: None
- - tags: ['substack']
-
-## One Useful Thing | Ethan Mollick | Substack
- - [https://oneusefulthing.substack.com](https://oneusefulthing.substack.com)
- - date published: 2023-10-25T10:00:23.738941+00:00
- - user: None
- - tags: ['substack']
-
-## On Substack | Substack Writers | Substack
- - [https://on.substack.com](https://on.substack.com)
- - date published: 2024-01-09T01:42:55.611398+00:00
- - user: None
- - tags: []
-
-## On Substack | Substack Writers | Substack
- - [http://on.substack.com](http://on.substack.com)
- - date published: 2024-02-26T09:39:32.441869+00:00
- - user: None
- - tags: []
-
-## https://open.substack.com
- - [https://open.substack.com](https://open.substack.com)
- - date published: 2023-11-27T22:35:46.334729+00:00
- - user: None
- - tags: []
-
-## Persuasive Engineering | Oscar Watson-Smith | Substack
- - [http://oscargws.substack.com](http://oscargws.substack.com)
- - date published: 2024-02-26T09:48:40.234967+00:00
- - user: None
- - tags: []
-
-## Persuasive Engineering | Oscar Watson-Smith | Substack
- - [https://oscargws.substack.com](https://oscargws.substack.com)
- - date published: 2024-01-09T01:42:58.511099+00:00
- - user: None
- - tags: []
 
