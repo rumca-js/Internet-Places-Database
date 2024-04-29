@@ -64,11 +64,23 @@
  - user: None
  - tags: []
 
+## Gulf Today
+ - [http://gulftoday.ae](http://gulftoday.ae)
+ - date published: 2024-04-28T03:43:32.550636+00:00
+ - user: None
+ - tags: []
+
 ## Home - Humaid Alqasimi
  - [https://humaidq.ae](https://humaidq.ae)
  - date published: 2023-12-20T11:45:17.376653+00:00
  - user: None
  - tags: ['personal']
+
+## The National - Latest world news, sport & opinion
+ - [http://www.thenational.ae](http://www.thenational.ae)
+ - date published: 2024-04-28T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Welcome – Thomann United Arab Emirates
  - [https://www.thomann.ae](https://www.thomann.ae)
@@ -85,6 +97,12 @@
 ## Home
  - [https://www.tii.ae](https://www.tii.ae)
  - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## WAM
+ - [http://www.wam.ae](http://www.wam.ae)
+ - date published: 2024-04-28T03:44:05.281372+00:00
  - user: None
  - tags: []
 
@@ -364,6 +382,12 @@
  - user: None
  - tags: []
 
+## character.ai | Personalized AI for every moment of your day
+ - [https://character.ai](https://character.ai)
+ - date published: 2024-04-28T04:37:09.136216+00:00
+ - user: None
+ - tags: []
+
 ## 🌶️ Chilli
  - [https://www.chilli.ai](https://www.chilli.ai)
  - date published: 2024-04-13T00:00:00+00:00
@@ -406,9 +430,21 @@
  - user: None
  - tags: []
 
+## Cohere | The leading AI platform for enterprise
+ - [https://cohere.ai](https://cohere.ai)
+ - date published: 2024-04-28T03:56:32.821684+00:00
+ - user: None
+ - tags: []
+
 ## Login | Cohere
  - [https://dashboard.cohere.ai](https://dashboard.cohere.ai)
  - date published: 2023-10-25T11:37:25.170145+00:00
+ - user: None
+ - tags: []
+
+## Cohere Enteprise Group
+ - [https://docs.cohere.ai](https://docs.cohere.ai)
+ - date published: 2024-03-11T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -526,6 +562,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://read.deeplearning.ai](https://read.deeplearning.ai)
+ - date published: 2024-04-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## DeepLearning.AI: Start or Advance Your Career in AI
  - [https://www.deeplearning.ai](https://www.deeplearning.ai)
  - date published: 2023-10-25T11:38:12.397045+00:00
@@ -562,6 +604,12 @@
  - user: None
  - tags: []
 
+## Dimensions Badges
+ - [https://badge.dimensions.ai](https://badge.dimensions.ai)
+ - date published: 2024-04-28T03:39:48.517297+00:00
+ - user: None
+ - tags: []
+
 ## Dragonscale Newsletter
  - [https://blog.dragonscale.ai](https://blog.dragonscale.ai)
  - date published: 2024-03-20T00:00:00+00:00
@@ -583,6 +631,12 @@
 ## Eggnog
  - [https://www.eggnog.ai](https://www.eggnog.ai)
  - date published: 2024-03-28T17:08:22.087114+00:00
+ - user: None
+ - tags: []
+
+## American Express - Production - Sign In
+ - [https://aexp.eightfold.ai](https://aexp.eightfold.ai)
+ - date published: 2024-04-28T02:37:03.869893+00:00
  - user: None
  - tags: []
 
@@ -718,6 +772,12 @@
  - user: None
  - tags: []
 
+## BetterTouchTool Community
+ - [https://community.folivora.ai](https://community.folivora.ai)
+ - date published: 2024-04-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## FounderPal — Marketing Tools for Solopreneurs Who Hate Marketing
  - [https://founderpal.ai](https://founderpal.ai)
  - date published: 2023-10-25T11:38:57.349820+00:00
@@ -796,6 +856,12 @@
  - user: None
  - tags: []
 
+## Grammarly: Free AI Writing Assistance
+ - [https://grammarly.ai](https://grammarly.ai)
+ - date published: 2024-04-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Gretel.ai — The synthetic data platform for developers
  - [https://gretel.ai](https://gretel.ai)
  - date published: 2023-10-25T11:39:10.186534+00:00
@@ -811,6 +877,18 @@
 ## HaiHai Labs - What will we build with AI?
  - [https://www.haihai.ai](https://www.haihai.ai)
  - date published: 2023-10-25T11:26:46.096389+00:00
+ - user: None
+ - tags: []
+
+## Helsing Blog
+ - [https://blog.helsing.ai](https://blog.helsing.ai)
+ - date published: 2024-04-28T05:59:30.133288+00:00
+ - user: None
+ - tags: []
+
+## Helsing | Artificial Intelligence to serve our democracies
+ - [https://helsing.ai](https://helsing.ai)
+ - date published: 2024-04-28T05:59:38.445143+00:00
  - user: None
  - tags: []
 
@@ -849,6 +927,12 @@
  - date published: 2023-10-25T11:39:23.848682+00:00
  - user: None
  - tags: ['artificial intelligence bot']
+
+## InOrbit
+ - [https://www.inorbit.ai](https://www.inorbit.ai)
+ - date published: 2024-04-28T05:22:51.383424+00:00
+ - user: None
+ - tags: []
 
 ## Interconnects | Nathan Lambert | Substack
  - [https://www.interconnects.ai](https://www.interconnects.ai)
@@ -1066,6 +1150,12 @@
  - user: None
  - tags: ['monetization', 'service', 'education']
 
+## Magnific AI
+ - [https://magnific.ai](https://magnific.ai)
+ - date published: 2024-04-28T04:38:00.866111+00:00
+ - user: None
+ - tags: []
+
 ## Mastodon
  - [https://masto.ai](https://masto.ai)
  - date published: 2023-10-24T20:13:16.747974+00:00
@@ -1171,6 +1261,12 @@
 ## WebLLM | Home
  - [https://webllm.mlc.ai](https://webllm.mlc.ai)
  - date published: 2023-10-25T11:40:28.374404+00:00
+ - user: None
+ - tags: []
+
+## Mnemonic AI - AI Personas & Customer Intelligence Toolbox
+ - [https://mnemonic.ai](https://mnemonic.ai)
+ - date published: 2024-04-28T06:08:46.886883+00:00
  - user: None
  - tags: []
 
@@ -1372,6 +1468,12 @@
  - user: None
  - tags: []
 
+## Your Automated Product Security Engineer · Pixeebot
+ - [https://www.pixee.ai](https://www.pixee.ai)
+ - date published: 2024-03-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Remove Background from Image, Free HD, No Signup - Pixian.AI
  - [https://pixian.ai](https://pixian.ai)
  - date published: 2023-10-25T11:41:22.061266+00:00
@@ -1450,6 +1552,12 @@
  - user: None
  - tags: []
 
+## Identity-Centric SaaS Security Platform | Reco
+ - [https://www.reco.ai](https://www.reco.ai)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Red Bumerang | AI-Powered Web Research Agent
  - [https://www.redbumerang.ai](https://www.redbumerang.ai)
  - date published: 2024-04-22T19:26:33+00:00
@@ -1471,6 +1579,18 @@
 ## Relari.ai
  - [https://www.relari.ai](https://www.relari.ai)
  - date published: 2024-03-08T15:45:20.667037+00:00
+ - user: None
+ - tags: []
+
+## Release.ai
+ - [http://release.ai](http://release.ai)
+ - date published: 2024-04-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Release.ai
+ - [https://release.ai](https://release.ai)
+ - date published: 2024-04-17T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1498,9 +1618,33 @@
  - user: None
  - tags: []
 
+## Home - RIOS
+ - [https://www.rios.ai](https://www.rios.ai)
+ - date published: 2024-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## ROASTED
  - [https://www.roastedby.ai](https://www.roastedby.ai)
  - date published: 2023-10-25T11:42:22.672027+00:00
+ - user: None
+ - tags: []
+
+## Roboflow Blog
+ - [https://blog.roboflow.ai](https://blog.roboflow.ai)
+ - date published: 2024-04-28T05:21:59.150389+00:00
+ - user: None
+ - tags: []
+
+## Roboflow: Computer vision tools for developers and enterprises
+ - [https://roboflow.ai](https://roboflow.ai)
+ - date published: 2024-04-28T05:22:32.381547+00:00
+ - user: None
+ - tags: []
+
+## Robust.AI
+ - [http://robust.ai](http://robust.ai)
+ - date published: 2024-04-28T05:29:14.209448+00:00
  - user: None
  - tags: []
 
@@ -1513,6 +1657,12 @@
 ## Rosebud AI: Build Games at the Speed of Thought. AI Powered Game Development.
  - [https://www.rosebud.ai](https://www.rosebud.ai)
  - date published: 2024-01-04T16:19:02.132824+00:00
+ - user: None
+ - tags: []
+
+## SaaStr AI Day | March 27, 2024
+ - [https://www.saastr.ai](https://www.saastr.ai)
+ - date published: 2024-03-27T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1567,6 +1717,24 @@
 ## Shortbread | Create comics with AI in minutes
  - [https://shortbread.ai](https://shortbread.ai)
  - date published: 2023-10-25T11:42:44.653698+00:00
+ - user: None
+ - tags: []
+
+## Smart Image/CSS/JS Optimization Services and CDN for Websites
+ - [https://cdn.shortpixel.ai](https://cdn.shortpixel.ai)
+ - date published: 2024-04-28T05:57:20.149239+00:00
+ - user: None
+ - tags: []
+
+## Smart Image/CSS/JS Optimization Services and CDN for Websites
+ - [https://sp-ao.shortpixel.ai](https://sp-ao.shortpixel.ai)
+ - date published: 2024-04-28T04:27:45.213109+00:00
+ - user: None
+ - tags: []
+
+## Sierra - The Conversational AI Platform
+ - [https://sierra.ai](https://sierra.ai)
+ - date published: 2024-04-28T01:59:56.176696+00:00
  - user: None
  - tags: []
 
@@ -1750,6 +1918,12 @@
  - user: None
  - tags: []
 
+## #1 Fraud Protection B2B Payment Platform | Secure Business Payment
+ - [https://www.trustmi.ai](https://www.trustmi.ai)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Turing Talks | Manish Shivanandhan | Substack
  - [https://www.turingtalks.ai](https://www.turingtalks.ai)
  - date published: 2024-02-26T00:00:00+00:00
@@ -1894,6 +2068,12 @@
  - user: None
  - tags: []
 
+## YData data quality for Data Science | Synthetic data Data-Centric AI
+ - [https://ydata.ai](https://ydata.ai)
+ - date published: 2024-04-28T02:52:42.235759+00:00
+ - user: None
+ - tags: []
+
 ## Aral Balkan
  - [https://ar.al](https://ar.al)
  - date published: 2023-10-25T08:41:38.253677+00:00
@@ -1983,6 +2163,12 @@
  - date published: 2024-04-11T19:49:17+00:00
  - user: rumpel
  - tags: ['web spam']
+
+## Serviços de TI: Cloud, Segurança, Desenvolvimento | Pixel Infinito
+ - [https://pixel.ao](https://pixel.ao)
+ - date published: 2024-04-28T02:57:34.288582+00:00
+ - user: None
+ - tags: []
 
 ## Homepage - Citroën Angola
  - [https://www.citroen.co.ao](https://www.citroen.co.ao)
@@ -2086,6 +2272,12 @@
  - user: None
  - tags: ['social platform']
 
+## Bluesky
+ - [https://staging.bsky.app](https://staging.bsky.app)
+ - date published: 2024-04-28T05:29:44.625996+00:00
+ - user: None
+ - tags: []
+
 ## capitalyse-website-nuxtjs
  - [http://capitalyse.app](http://capitalyse.app)
  - date published: 2024-04-25T08:13:45.023998+00:00
@@ -2152,6 +2344,12 @@
  - user: None
  - tags: []
 
+## console.app
+ - [http://console.app](http://console.app)
+ - date published: 2024-04-28T01:59:59.092251+00:00
+ - user: None
+ - tags: []
+
 ## Count the Hours
  - [https://www.countthehours.app](https://www.countthehours.app)
  - date published: 2023-10-25T11:45:56.370816+00:00
@@ -2169,6 +2367,12 @@
  - date published: 2023-10-25T11:45:57.324167+00:00
  - user: None
  - tags: ['dating']
+
+## Loading…
+ - [https://ripleys.directus.app](https://ripleys.directus.app)
+ - date published: 2024-04-28T05:07:44.617119+00:00
+ - user: None
+ - tags: []
 
 ## Doc Converter - Convert PDF files to Word documents (docx)
  - [https://docconverter.app](https://docconverter.app)
@@ -2518,6 +2722,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://aatmunbaxi.netlify.app](https://aatmunbaxi.netlify.app)
+ - date published: 2024-04-28T06:12:13.574366+00:00
+ - user: None
+ - tags: []
+
 ## All posts
  - [https://clerestory.netlify.app](https://clerestory.netlify.app)
  - date published: 2024-02-15T00:00:00+00:00
@@ -2527,6 +2737,12 @@
 ## Pokémon Cards CSS Holographic Effect
  - [https://deck-24abcd.netlify.app](https://deck-24abcd.netlify.app)
  - date published: 2023-10-25T11:47:24.028454+00:00
+ - user: None
+ - tags: []
+
+## FP Site
+ - [https://francopasut.netlify.app](https://francopasut.netlify.app)
+ - date published: 2024-04-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2698,6 +2914,12 @@
  - user: None
  - tags: ['service maps', 'maps']
 
+## PageFactory | Programmatic SEO for Any Website
+ - [https://pagefactory.app](https://pagefactory.app)
+ - date published: 2022-05-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## The Cisco Secure Application Cloud | An Effective Security Platform - Panoptica
  - [https://www.panoptica.app](https://www.panoptica.app)
  - date published: 2023-12-20T23:10:10.715922+00:00
@@ -2818,6 +3040,18 @@
  - user: None
  - tags: []
 
+## Repl Bio
+ - [https://ornella.replit.app](https://ornella.replit.app)
+ - date published: 2024-04-28T04:38:06.201263+00:00
+ - user: None
+ - tags: []
+
+## Replit Partnerships
+ - [https://partnerships-form-util.replit.app](https://partnerships-form-util.replit.app)
+ - date published: 2024-04-28T04:38:19.545080+00:00
+ - user: None
+ - tags: []
+
 ## Reproof | The collaborate writing app for creativity.
  - [https://reproof.app](https://reproof.app)
  - date published: 2023-10-25T11:48:46.496389+00:00
@@ -2848,6 +3082,12 @@
  - user: rumpel
  - tags: ['rss']
 
+## Savepad - Join the Waitlist!
+ - [https://savepad.app](https://savepad.app)
+ - date published: 2024-03-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Scrypted
  - [https://scrypted.app](https://scrypted.app)
  - date published: 2024-04-08T19:30:45.555957+00:00
@@ -2860,9 +3100,21 @@
  - user: None
  - tags: []
 
+## ShinyTracker
+ - [https://shinytracker.app](https://shinytracker.app)
+ - date published: 2024-04-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## https://go.shop.app
  - [https://go.shop.app](https://go.shop.app)
  - date published: 2024-02-24T09:57:16.776865+00:00
+ - user: None
+ - tags: []
+
+## Weryfikowanie połączenia...
+ - [https://shop.app](https://shop.app)
+ - date published: 2024-04-28T03:00:17.300790+00:00
  - user: None
  - tags: []
 
@@ -2889,6 +3141,12 @@
  - date published: 2024-03-23T02:19:13+00:00
  - user: None
  - tags: ['static websites']
+
+## SparkLoop
+ - [https://dash.sparkloop.app](https://dash.sparkloop.app)
+ - date published: 2024-04-28T06:24:15.100391+00:00
+ - user: None
+ - tags: []
 
 ## Spectrolite
  - [https://spectrolite.app](https://spectrolite.app)
@@ -2956,6 +3214,12 @@
  - user: None
  - tags: []
 
+## Find your dream Canadian tech job
+ - [https://www.techjobscanada.app](https://www.techjobscanada.app)
+ - date published: 2024-04-28T04:30:40.131321+00:00
+ - user: None
+ - tags: []
+
 ## The Companion
  - [https://www.thecompanion.app](https://www.thecompanion.app)
  - date published: 2023-10-25T11:49:20.174746+00:00
@@ -2971,6 +3235,12 @@
 ## TigYog
  - [https://tigyog.app](https://tigyog.app)
  - date published: 2023-10-25T11:49:31.674555+00:00
+ - user: None
+ - tags: []
+
+## Tinylytics | tinylytics
+ - [https://tinylytics.app](https://tinylytics.app)
+ - date published: 2024-04-28T03:58:36.076675+00:00
  - user: None
  - tags: []
 
@@ -3001,6 +3271,12 @@
 ## Typst – Compose Papers Faster
  - [https://typst.app](https://typst.app)
  - date published: 2023-11-20T20:44:03+00:00
+ - user: None
+ - tags: []
+
+## Tailwind CSS Color Generator | UI Colors
+ - [https://uicolors.app](https://uicolors.app)
+ - date published: 2024-04-28T05:29:31.234765+00:00
  - user: None
  - tags: []
 
@@ -3073,6 +3349,12 @@
 ## Show HN: DanGPT–Dan Abramov as a GenAI with RAG
  - [https://dangpt.vercel.app](https://dangpt.vercel.app)
  - date published: 2024-03-02T17:25:56+00:00
+ - user: None
+ - tags: []
+
+## DataPen
+ - [https://datapen-q889hkawe-custom-app.vercel.app](https://datapen-q889hkawe-custom-app.vercel.app)
+ - date published: 2024-04-28T03:00:03.508210+00:00
  - user: None
  - tags: []
 
@@ -3551,14 +3833,14 @@
  - tags: []
 
 ## César Ferradas
- - [http://ferrad.as](http://ferrad.as)
- - date published: 2024-04-03T06:23:10.101108+00:00
+ - [https://ferrad.as](https://ferrad.as)
+ - date published: 2024-02-09T00:13:34.119208+00:00
  - user: None
  - tags: ['personal']
 
 ## César Ferradas
- - [https://ferrad.as](https://ferrad.as)
- - date published: 2024-02-09T00:13:34.119208+00:00
+ - [http://ferrad.as](http://ferrad.as)
+ - date published: 2024-04-03T06:23:10.101108+00:00
  - user: None
  - tags: ['personal']
 
@@ -3604,6 +3886,12 @@
  - user: None
  - tags: []
 
+## Die Universität für Weiterbildung Krems
+ - [http://www.donau-uni.ac.at](http://www.donau-uni.ac.at)
+ - date published: 2024-04-28T05:44:16.021166+00:00
+ - user: None
+ - tags: []
+
 ## Home | MedUni Wien
  - [https://www.meduniwien.ac.at](https://www.meduniwien.ac.at)
  - date published: 2024-03-11T10:36:49.879554+00:00
@@ -3619,6 +3907,12 @@
 ## Faculty of Mathematics
  - [https://mat.univie.ac.at](https://mat.univie.ac.at)
  - date published: 2024-02-08T18:02:47.499311+00:00
+ - user: None
+ - tags: []
+
+## Zentralanstalt für Meteorologie und Geodynamik — ZAMG
+ - [https://www.zamg.ac.at](https://www.zamg.ac.at)
+ - date published: 2024-04-28T02:22:49.641037+00:00
  - user: None
  - tags: []
 
@@ -3796,6 +4090,12 @@
  - user: rumpel
  - tags: ['personal']
 
+## Branchenbuch österreichischer Unternehmen | WKO Firmen A-Z
+ - [https://firmen.wko.at](https://firmen.wko.at)
+ - date published: 2024-04-28T02:44:22.882866+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: Send me an IRL message and watch it arrive
  - [https://hi.benren.au](https://hi.benren.au)
  - date published: 2023-11-11T21:30:48+00:00
@@ -3851,16 +4151,16 @@
  - tags: []
 
 ## Now - Adam Ashton
- - [https://www.adamashton.com.au](https://www.adamashton.com.au)
- - date published: 2024-01-10T18:10:16.445630+00:00
- - user: None
- - tags: []
-
-## Now - Adam Ashton
  - [http://www.adamashton.com.au](http://www.adamashton.com.au)
  - date published: 2024-04-03T12:46:14.376541+00:00
  - user: None
  - tags: ['personal']
+
+## Now - Adam Ashton
+ - [https://www.adamashton.com.au](https://www.adamashton.com.au)
+ - date published: 2024-01-10T18:10:16.445630+00:00
+ - user: None
+ - tags: []
 
 ## 404 Not Found
  - [https://www.adelaidenow.com.au](https://www.adelaidenow.com.au)
@@ -3880,9 +4180,21 @@
  - user: None
  - tags: []
 
+## Anime Inferno
+ - [http://www.animeinferno.com.au](http://www.animeinferno.com.au)
+ - date published: 2024-04-28T04:41:59.840167+00:00
+ - user: None
+ - tags: []
+
 ## None
  - [https://aoi.com.au](https://aoi.com.au)
  - date published: 2024-01-09T02:25:03.495028+00:00
+ - user: None
+ - tags: []
+
+## aussiearcade.com.au
+ - [http://www.aussiearcade.com.au](http://www.aussiearcade.com.au)
+ - date published: 2024-04-28T04:42:11.524709+00:00
  - user: None
  - tags: []
 
@@ -3895,6 +4207,12 @@
 ## Chiropractor Blackburn North & Doncaster - Back Into Health
  - [https://www.backintohealth.com.au](https://www.backintohealth.com.au)
  - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Business Insider Polska
+ - [http://www.businessinsider.com.au](http://www.businessinsider.com.au)
+ - date published: 2024-04-27T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4055,6 +4373,12 @@
  - tags: ['personal']
 
 ## Kotaku Australia | See Games Differently
+ - [http://www.kotaku.com.au](http://www.kotaku.com.au)
+ - date published: 2024-04-28T04:42:35.415128+00:00
+ - user: None
+ - tags: []
+
+## Kotaku Australia | See Games Differently
  - [https://www.kotaku.com.au](https://www.kotaku.com.au)
  - date published: 2023-10-25T10:47:22.630047+00:00
  - user: None
@@ -4108,6 +4432,12 @@
  - user: None
  - tags: []
 
+## IIS7
+ - [http://palgn.com.au](http://palgn.com.au)
+ - date published: 2024-04-28T04:42:12.694203+00:00
+ - user: None
+ - tags: []
+
 ## Penguin Books Australia
  - [https://www.penguin.com.au](https://www.penguin.com.au)
  - date published: 2023-11-13T17:27:35.903796+00:00
@@ -4129,6 +4459,12 @@
 ## News and analysis for the clean energy economy
  - [https://reneweconomy.com.au](https://reneweconomy.com.au)
  - date published: 2023-10-25T11:55:38.699978+00:00
+ - user: None
+ - tags: []
+
+## Retrospekt
+ - [http://www.retrospekt.com.au](http://www.retrospekt.com.au)
+ - date published: 2024-04-28T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4204,6 +4540,12 @@
  - user: None
  - tags: ['personal']
 
+## Tickets for Concerts, Sport, Arts, Theatre, Family, Events, more. Official Ticketmaster site
+ - [https://www.ticketmaster.com.au](https://www.ticketmaster.com.au)
+ - date published: 2024-04-28T06:07:11.934578+00:00
+ - user: None
+ - tags: []
+
 ## Optimizing - Tyler Campbell
  - [https://tylercampbell.com.au](https://tylercampbell.com.au)
  - date published: 2024-04-03T06:28:38.518951+00:00
@@ -4235,13 +4577,13 @@
  - tags: []
 
 ## About me - Write Approach Marketing
- - [https://writeapproach.com.au](https://writeapproach.com.au)
+ - [http://writeapproach.com.au](http://writeapproach.com.au)
  - date published: 2018-04-30T00:00:00+00:00
  - user: None
  - tags: []
 
 ## About me - Write Approach Marketing
- - [http://writeapproach.com.au](http://writeapproach.com.au)
+ - [https://writeapproach.com.au](https://writeapproach.com.au)
  - date published: 2018-04-30T00:00:00+00:00
  - user: None
  - tags: []
@@ -4251,6 +4593,12 @@
  - date published: 2023-10-25T11:20:57.160705+00:00
  - user: None
  - tags: ['university']
+
+## School of Computing
+ - [https://comp.anu.edu.au](https://comp.anu.edu.au)
+ - date published: 2024-04-28T03:36:58.813019+00:00
+ - user: None
+ - tags: []
 
 ## Home | Australian National University
  - [https://www.anu.edu.au](https://www.anu.edu.au)
@@ -4323,6 +4671,12 @@
  - date published: 2023-10-25T11:21:22.408191+00:00
  - user: None
  - tags: ['univeristy']
+
+## School of Computing and Information Systems, The University of Melbourne
+ - [https://cis.unimelb.edu.au](https://cis.unimelb.edu.au)
+ - date published: 2024-03-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Pursuit: Cutting-edge research and insightful commentary by world-leading experts | The University of Melbourne
  - [https://pursuit.unimelb.edu.au](https://pursuit.unimelb.edu.au)
@@ -4708,6 +5062,12 @@
  - user: None
  - tags: []
 
+## Home | Software Languages Lab
+ - [http://soft.vub.ac.be](http://soft.vub.ac.be)
+ - date published: 2024-04-28T01:54:46.084192+00:00
+ - user: None
+ - tags: []
+
 ## 0110.be
  - [https://0110.be](https://0110.be)
  - date published: 2023-10-25T11:58:43.959963+00:00
@@ -4732,6 +5092,12 @@
  - user: None
  - tags: []
 
+## BeyondGaming
+ - [https://www.beyondgaming.be](https://www.beyondgaming.be)
+ - date published: 2024-04-28T04:45:35.683533+00:00
+ - user: None
+ - tags: []
+
 ## Voitures neuves | Constructeur automobile | Citroën
  - [https://www.citroen.be](https://www.citroen.be)
  - date published: 2023-12-11T15:58:15.631258+00:00
@@ -4745,16 +5111,16 @@
  - tags: []
 
 ## Denny Wong - Learn, think, write and do.
- - [http://dewo.be](http://dewo.be)
- - date published: 2018-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Denny Wong - Learn, think, write and do.
  - [https://dewo.be](https://dewo.be)
  - date published: 2023-11-29T14:18:04.127765+00:00
  - user: None
  - tags: ['personal']
+
+## Denny Wong - Learn, think, write and do.
+ - [http://dewo.be](http://dewo.be)
+ - date published: 2018-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Dries Depoorter – artist and speaker working with technology 🔥
  - [https://driesdepoorter.be](https://driesdepoorter.be)
@@ -4792,6 +5158,18 @@
  - user: None
  - tags: []
 
+## jaspervdj - Home
+ - [http://jaspervdj.be](http://jaspervdj.be)
+ - date published: 2024-04-28T02:10:50.424725+00:00
+ - user: None
+ - tags: []
+
+## jaspervdj - Home
+ - [https://jaspervdj.be](https://jaspervdj.be)
+ - date published: 2024-04-28T04:00:03.201776+00:00
+ - user: None
+ - tags: []
+
 ## Departement Computerwetenschappen
  - [https://people.cs.kuleuven.be](https://people.cs.kuleuven.be)
  - date published: 2024-02-23T08:47:13.383894+00:00
@@ -4816,15 +5194,21 @@
  - user: None
  - tags: []
 
+## Original Sling'n'shoot Worms Game
+ - [http://www.liero.be](http://www.liero.be)
+ - date published: 2023-12-28T18:40:30+00:00
+ - user: None
+ - tags: []
+
 ## Liero - Official website
  - [https://www.liero.be](https://www.liero.be)
  - date published: 2023-10-26T18:32:21.331231+00:00
  - user: None
  - tags: ['open source', 'game', 'retro game']
 
-## Original Sling'n'shoot Worms Game
- - [http://www.liero.be](http://www.liero.be)
- - date published: 2023-12-28T18:40:30+00:00
+## Weather Brussels - RMI
+ - [https://www.meteo.be](https://www.meteo.be)
+ - date published: 2024-04-28T02:23:08.009052+00:00
  - user: None
  - tags: []
 
@@ -5194,9 +5578,21 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://ayos.blog](https://ayos.blog)
+ - date published: 2024-04-28T02:41:59.625835+00:00
+ - user: None
+ - tags: []
+
 ## barlows.blog
  - [https://www.barlows.blog](https://www.barlows.blog)
  - date published: 2024-04-03T06:24:05.290128+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jack Baty
+ - [https://baty.blog](https://baty.blog)
+ - date published: 2024-04-28T06:12:00.218388+00:00
  - user: None
  - tags: ['personal']
 
@@ -5315,14 +5711,14 @@
  - tags: ['personal']
 
 ## Dagan.Blog – Education Futurist
- - [https://dagan.blog](https://dagan.blog)
- - date published: 2024-01-09T02:26:37.338771+00:00
+ - [http://dagan.blog](http://dagan.blog)
+ - date published: 2024-02-25T19:34:43.972971+00:00
  - user: None
  - tags: ['personal']
 
 ## Dagan.Blog – Education Futurist
- - [http://dagan.blog](http://dagan.blog)
- - date published: 2024-02-25T19:34:43.972971+00:00
+ - [https://dagan.blog](https://dagan.blog)
+ - date published: 2024-01-09T02:26:37.338771+00:00
  - user: None
  - tags: ['personal']
 
@@ -5585,6 +5981,12 @@
  - user: None
  - tags: []
 
+## ash
+ - [https://ash.mataroa.blog](https://ash.mataroa.blog)
+ - date published: 2022-12-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## johnpublic
  - [https://johnpublic.mataroa.blog](https://johnpublic.mataroa.blog)
  - date published: 2023-10-25T12:00:42.570358+00:00
@@ -5596,406 +5998,4 @@
  - date published: 2023-10-25T12:00:43.846678+00:00
  - user: None
  - tags: []
-
-## Kayla
- - [https://mckayla.blog](https://mckayla.blog)
- - date published: 2023-10-25T09:01:48.490146+00:00
- - user: None
- - tags: ['personal']
-
-## melkat.blog - hi there! please enjoy my blog of things i think are interesting
- - [https://melkat.blog](https://melkat.blog)
- - date published: 2024-01-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Lisa Sieverts
- - [https://agilelisa.micro.blog](https://agilelisa.micro.blog)
- - date published: 2023-11-29T15:29:38.973597+00:00
- - user: None
- - tags: ['personal']
-
-## bapsi
- - [https://bapsi.micro.blog](https://bapsi.micro.blog)
- - date published: 2024-04-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Micro.blog
- - [https://micro.blog](https://micro.blog)
- - date published: 2023-11-29T15:49:12.955798+00:00
- - user: None
- - tags: []
-
-## mikeshafer.blog
- - [https://mikeshafer.blog](https://mikeshafer.blog)
- - date published: 2023-12-20T05:39:06.849238+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://miris.blog](https://miris.blog)
- - date published: 2024-02-26T09:12:32.456732+00:00
- - user: None
- - tags: []
-
-## Cosmic Column | Kai Christensen | Substack
- - [https://www.mkaic.blog](https://www.mkaic.blog)
- - date published: 2024-02-25T19:26:35.474528+00:00
- - user: None
- - tags: []
-
-## mmap(blog)
- - [https://mmapped.blog](https://mmapped.blog)
- - date published: 2023-10-25T09:25:23.417879+00:00
- - user: None
- - tags: ['personal']
-
-## Museum of Health Care Blog
- - [https://museumofhealthcare.blog](https://museumofhealthcare.blog)
- - date published: 2024-02-24T18:08:23.471594+00:00
- - user: None
- - tags: []
-
-## Neil Madden
- - [https://neilmadden.blog](https://neilmadden.blog)
- - date published: 2023-10-25T09:01:51.726758+00:00
- - user: None
- - tags: ['personal']
-
-## NetNewsWire
- - [https://netnewswire.blog](https://netnewswire.blog)
- - date published: 2024-02-26T09:24:21.621475+00:00
- - user: None
- - tags: []
-
-## Nicheless | Think. Write away.
- - [https://nicheless.blog](https://nicheless.blog)
- - date published: 2023-10-25T08:41:08.563849+00:00
- - user: None
- - tags: []
-
-## Noahpinion | Noah Smith | Substack
- - [https://www.noahpinion.blog](https://www.noahpinion.blog)
- - date published: 2023-10-25T09:39:20.899129+00:00
- - user: None
- - tags: ['substack']
-
-## notizBlog
- - [https://notiz.blog](https://notiz.blog)
- - date published: 2024-01-07T08:45:39.431652+00:00
- - user: None
- - tags: []
-
-## Oh Hello Ana
- - [https://ohhelloana.blog](https://ohhelloana.blog)
- - date published: 2024-01-03T04:05:44.287778+00:00
- - user: None
- - tags: []
-
-## None
- - [https://overemployee.blog](https://overemployee.blog)
- - date published: 2024-01-09T02:26:42.986613+00:00
- - user: None
- - tags: []
-
-## Paperless
- - [https://paperless.blog](https://paperless.blog)
- - date published: 2023-10-25T08:57:53.071595+00:00
- - user: None
- - tags: ['personal']
-
-## Petros Amoiridis
- - [https://petros.blog](https://petros.blog)
- - date published: 2023-12-15T21:43:49.329150+00:00
- - user: None
- - tags: ['personal']
-
-## Niklas's blog
- - [https://pivic.blog](https://pivic.blog)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Pixelfed Blog
- - [https://pixelfed.blog](https://pixelfed.blog)
- - date published: 2023-10-25T12:00:46.045454+00:00
- - user: None
- - tags: []
-
-## Prashanth's Blog
- - [https://prashanths.blog](https://prashanths.blog)
- - date published: 2023-12-17T05:07:12.878570+00:00
- - user: None
- - tags: ['personal']
-
-## The Stream of Thought That Waters the Garden
- - [https://quantumgardener.blog](https://quantumgardener.blog)
- - date published: 2023-11-29T14:25:56.871546+00:00
- - user: None
- - tags: ['personal']
-
-## Quigs.blog
- - [https://quigs.blog](https://quigs.blog)
- - date published: 2023-12-18T01:34:04.013330+00:00
- - user: None
- - tags: ['personal']
-
-## Raku Advent Calendar – Raku is a multi-paradigm language where there's more than one way to do it
- - [https://raku-advent.blog](https://raku-advent.blog)
- - date published: 2023-10-25T12:00:54.086156+00:00
- - user: None
- - tags: []
-
-## Jeannette Goon
- - [https://realhumangirl.blog](https://realhumangirl.blog)
- - date published: 2023-12-02T10:25:54.865102+00:00
- - user: None
- - tags: ['personal']
-
-## Realize Engineering | An engineering commentary for everyone every Wednesday since 2012
- - [https://realizeengineering.blog](https://realizeengineering.blog)
- - date published: 2023-10-25T12:01:02.147552+00:00
- - user: None
- - tags: []
-
-## Reese Richardson
- - [https://reeserichardson.blog](https://reeserichardson.blog)
- - date published: 2024-02-04T02:18:53.099471+00:00
- - user: None
- - tags: []
-
-## home · Joseph Thacker
- - [https://rez0.blog](https://rez0.blog)
- - date published: 2023-10-25T12:01:04.204782+00:00
- - user: None
- - tags: []
-
-## Rich Tabor
- - [https://rich.blog](https://rich.blog)
- - date published: 2024-04-03T12:46:23.521811+00:00
- - user: None
- - tags: ['personal']
-
-## Richard Bloomfield's Blog • Technology, church music, bicycles, and life in Ireland
- - [https://richardbloomfield.blog](https://richardbloomfield.blog)
- - date published: 2024-04-23T10:12:37.646980+00:00
- - user: None
- - tags: ['personal']
-
-## Riley Harris
- - [https://rileyharris.blog](https://rileyharris.blog)
- - date published: 2024-01-19T13:02:00.009123+00:00
- - user: None
- - tags: []
-
-## sarah.blog
- - [https://sarah.blog](https://sarah.blog)
- - date published: 2023-11-29T14:44:35.706152+00:00
- - user: None
- - tags: ['personal']
-
-## Shtetl-Optimized
- - [https://scottaaronson.blog](https://scottaaronson.blog)
- - date published: 2023-10-25T12:01:16.273400+00:00
- - user: None
- - tags: []
-
-## Semantically Secure
- - [https://scottarc.blog](https://scottarc.blog)
- - date published: 2024-04-13T07:41:59.654361+00:00
- - user: None
- - tags: ['personal']
-
-## Seth's Blog
- - [https://seths.blog](https://seths.blog)
- - date published: 2023-10-25T09:01:55.034633+00:00
- - user: None
- - tags: ['personal']
-
-## Shyam's Blog
- - [https://shyam.blog](https://shyam.blog)
- - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Smarter.Blog Newsletter | Mahesh | Substack
- - [https://newsletter.smarter.blog](https://newsletter.smarter.blog)
- - date published: 2023-10-25T09:39:31.008633+00:00
- - user: None
- - tags: ['substack']
-
-## Dhole Moments - Software, Security, Cryptography, and Furries
- - [https://soatok.blog](https://soatok.blog)
- - date published: 2023-10-25T12:01:20.604773+00:00
- - user: None
- - tags: []
-
-## The Stack Overflow Blog - Stack Overflow
- - [https://stackoverflow.blog](https://stackoverflow.blog)
- - date published: 2023-10-25T12:01:26.888673+00:00
- - user: None
- - tags: []
-
-## The Seven Deadly Stupidities | GP | Substack
- - [https://www.stupid.blog](https://www.stupid.blog)
- - date published: 2023-12-16T16:48:24.781015+00:00
- - user: None
- - tags: []
-
-## Executive Coaching with George Sudarkoff
- - [https://www.sudarkoff.blog](https://www.sudarkoff.blog)
- - date published: 2023-10-25T09:39:42.624484+00:00
- - user: None
- - tags: ['substack']
-
-## Surfing Complexity – Lorin Hochstein's ramblings about software, complex systems, and incidents.
- - [https://surfingcomplexity.blog](https://surfingcomplexity.blog)
- - date published: 2023-10-25T12:01:31.469329+00:00
- - user: None
- - tags: []
-
-## Tanjas blog
- - [https://tanjas.blog](https://tanjas.blog)
- - date published: 2024-04-03T12:42:58.498067+00:00
- - user: None
- - tags: ['personal']
-
-## Texts.blog, the blog of Texts.com
- - [https://texts.blog](https://texts.blog)
- - date published: 2024-01-29T22:46:36.155318+00:00
- - user: None
- - tags: []
-
-## The Tech Trailblazer
- - [https://thetechtrailblazer.blog](https://thetechtrailblazer.blog)
- - date published: 2023-10-25T09:01:58.683638+00:00
- - user: None
- - tags: ['personal']
-
-## Tibz
- - [https://www.tibz.blog](https://www.tibz.blog)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Blog of Author Tim Ferriss
- - [https://tim.blog](https://tim.blog)
- - date published: 2023-10-25T09:02:05.192967+00:00
- - user: None
- - tags: ['personal']
-
-## Tony Dang's Blog
- - [https://tonydang.blog](https://tonydang.blog)
- - date published: 2023-12-12T04:54:16.406463+00:00
- - user: None
- - tags: ['personal']
-
-## twdev.blog
- - [https://twdev.blog](https://twdev.blog)
- - date published: 2023-10-25T12:01:34.984757+00:00
- - user: None
- - tags: []
-
-## Unfashionable | Sven Schnieders | Substack
- - [https://unfashionable.blog](https://unfashionable.blog)
- - date published: 2023-11-15T19:47:13.588134+00:00
- - user: None
- - tags: []
-
-## Psychotic, Obscene, and Unoriginal
- - [https://unoriginal.blog](https://unoriginal.blog)
- - date published: 2023-12-09T12:58:13.135218+00:00
- - user: None
- - tags: []
-
-## Vanilla Java
- - [https://blog.vanillajava.blog](https://blog.vanillajava.blog)
- - date published: 2023-10-25T12:01:45.438171+00:00
- - user: None
- - tags: []
-
-## weitergedacht – Idee für Idee etwas erwachsener
- - [https://weitergedacht.blog](https://weitergedacht.blog)
- - date published: 2024-01-04T22:41:37.082776+00:00
- - user: None
- - tags: []
-
-## yield code(); - Dmitry Kudryavtsev
- - [https://www.yieldcode.blog](https://www.yieldcode.blog)
- - date published: 2023-10-25T09:02:08.513966+00:00
- - user: None
- - tags: ['personal']
-
-## ℤ→ℤ
- - [https://ztoz.blog](https://ztoz.blog)
- - date published: 2024-02-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Matt Steele
- - [https://steele.blue](https://steele.blue)
- - date published: 2023-10-25T12:07:42.553308+00:00
- - user: None
- - tags: []
-
-## Citroen Brunei : Auto and new car for sale
- - [https://www.citroen.com.bn](https://www.citroen.com.bn)
- - date published: 2023-12-11T16:01:17.353726+00:00
- - user: None
- - tags: []
-
-## Source d'Histoire BNP Paribas : 2 siècles d'archives
- - [https://histoire.bnpparibas](https://histoire.bnpparibas)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: ['bank']
-
-## Without boats, dreams dry up
- - [https://without.boats](https://without.boats)
- - date published: 2023-10-25T12:02:01.933989+00:00
- - user: None
- - tags: []
-
-## Show HN: Gobble Bot
- - [https://gobble.bot](https://gobble.bot)
- - date published: 2023-12-03T12:57:13+00:00
- - user: None
- - tags: []
-
-## Portfolio
- - [https://cardume.art.br](https://cardume.art.br)
- - date published: 2024-01-09T02:26:44.691691+00:00
- - user: None
- - tags: []
-
-## Agência FAPESP
- - [https://agencia.fapesp.br](https://agencia.fapesp.br)
- - date published: 2024-01-05T15:18:41.204636+00:00
- - user: None
- - tags: []
-
-## Tecgraf, PUC-Rio
- - [https://www.tecgraf.puc-rio.br](https://www.tecgraf.puc-rio.br)
- - date published: 2023-10-25T12:02:07.692461+00:00
- - user: None
- - tags: []
-
-## Física - UFMG -Site secundario
- - [https://lilith.fisica.ufmg.br](https://lilith.fisica.ufmg.br)
- - date published: 2024-03-18T22:49:00.695043+00:00
- - user: None
- - tags: []
-
-## Adler Medrado's little piece of turf
- - [https://adlermedrado.com.br](https://adlermedrado.com.br)
- - date published: 2024-02-11T04:54:28.132837+00:00
- - user: None
- - tags: ['personal']
-
-## RadASM assembler IDE
- - [http://www.assembly.com.br](http://www.assembly.com.br)
- - date published: 2024-04-25T18:39:26.645719+00:00
- - user: None
- - tags: ['programming ide', 'assembly']
 
