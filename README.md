@@ -47,7 +47,27 @@ Each link contains a set of attributes, like:
  - date of last seen
  - etc.
 
+# Page rating
+
 Content ranking is established by the [Django link archive](https://github.com/rumca-js/Django-link-archive) project.
+
+To have a good page rating, it is desireable to follow good standards:
+ - [Schema Validator](https://validator.schema.org/)
+ - [W3C Validator](https://validator.w3.org/)
+ - Provide HTML meta information. More info in [Open Graph Protocol](https://ogp.me/)
+ - Provide valid title, which is concise, but not too short
+ - Provide valid description, which is concise, but not too short
+ - Provide valid publication date
+ - Provide valid thumbnail, media image
+ - Provide a valid HTML status code. No fancy redirects, JavaScript redirects
+ - Provide RSS feed. Provide HTML meta information for it [https://www.petefreitag.com/blog/rss-autodiscovery/](https://www.petefreitag.com/blog/rss-autodiscovery/)
+ - Provide search engine keywords tags
+
+Your page, domain exist alongside thousands of other pages. Imagine your meta data have an impact on your recognition, and page ranking.
+
+Remember: a good page is always ranked higher.
+
+You may wonder, why am I writing about search engine "keywords" meta field, if Google does not need them. Well I don't like Google. If we want alternative solutions to exist, it should be possible to easily find your page from simpler search engines. Provide keywords field if you support open web.
 
 # Tags
 
