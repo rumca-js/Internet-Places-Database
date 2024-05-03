@@ -92,7 +92,7 @@ Each entry can be tagged. Most notable examples of tags
  
 # Demo database
 
-Might not be working. Used for development: [https://renegat0x0.ddns.net/apps/places/](https://renegat0x0.ddns.net/apps/places/)
+Might not be working. Used for development: [https://renegat0x0.ddns.net/apps/places/](https://renegat0x0.ddns.net/apps/places/).
 
 <div align="center">
   <img alt="Meme" src="images/bender.png">
