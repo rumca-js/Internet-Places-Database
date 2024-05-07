@@ -1739,13 +1739,13 @@
  - tags: ['mud game']
 
 ## Aarki - AI-Enabled Mobile Marketing Platform
- - [http://corp.aarki.com](http://corp.aarki.com)
+ - [https://corp.aarki.com](https://corp.aarki.com)
  - date published: 2024-04-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Aarki - AI-Enabled Mobile Marketing Platform
- - [https://corp.aarki.com](https://corp.aarki.com)
+ - [http://corp.aarki.com](http://corp.aarki.com)
  - date published: 2024-04-01T00:00:00+00:00
  - user: None
  - tags: []

@@ -2057,13 +2057,13 @@ IDEALS
  - tags: []
 
 ## Events Calendar - University of Louisville
- - [http://events.louisville.edu](http://events.louisville.edu)
+ - [https://events.louisville.edu](https://events.louisville.edu)
  - date published: 2024-05-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Events Calendar - University of Louisville
- - [https://events.louisville.edu](https://events.louisville.edu)
+ - [http://events.louisville.edu](http://events.louisville.edu)
  - date published: 2024-05-17T00:00:00+00:00
  - user: None
  - tags: []

@@ -3041,16 +3041,16 @@
  - tags: []
 
 ## Jxnblk | Brent Jackson
- - [https://jxnblk.com](https://jxnblk.com)
- - date published: 2024-05-06T13:40:46.697316+00:00
- - user: None
- - tags: []
-
-## Jxnblk | Brent Jackson
  - [http://jxnblk.com](http://jxnblk.com)
  - date published: 2024-04-30T06:27:41.632777+00:00
  - user: None
  - tags: ['personal']
+
+## Jxnblk | Brent Jackson
+ - [https://jxnblk.com](https://jxnblk.com)
+ - date published: 2024-05-06T13:40:46.697316+00:00
+ - user: None
+ - tags: []
 
 ## JyriAnd Blog
  - [https://jyriand.com](https://jyriand.com)
