@@ -1865,14 +1865,14 @@
  - tags: []
 
 ## Login
- - [http://toidev.indiatimes.com](http://toidev.indiatimes.com)
- - date published: 2024-04-28T01:37:59.693772+00:00
+ - [https://toidev.indiatimes.com](https://toidev.indiatimes.com)
+ - date published: 2024-05-06T18:29:43.374993+00:00
  - user: None
  - tags: []
 
 ## Login
- - [https://toidev.indiatimes.com](https://toidev.indiatimes.com)
- - date published: 2024-05-06T18:29:43.374993+00:00
+ - [http://toidev.indiatimes.com](http://toidev.indiatimes.com)
+ - date published: 2024-04-28T01:37:59.693772+00:00
  - user: None
  - tags: []
 
@@ -2040,14 +2040,14 @@
  - tags: []
 
 ## Cierpliwości...
- - [https://resources.industrydive.com](https://resources.industrydive.com)
- - date published: 2024-05-06T21:27:56.408638+00:00
+ - [http://resources.industrydive.com](http://resources.industrydive.com)
+ - date published: 2024-04-29T04:57:29.012720+00:00
  - user: None
  - tags: []
 
 ## Cierpliwości...
- - [http://resources.industrydive.com](http://resources.industrydive.com)
- - date published: 2024-04-29T04:57:29.012720+00:00
+ - [https://resources.industrydive.com](https://resources.industrydive.com)
+ - date published: 2024-05-06T21:27:56.408638+00:00
  - user: None
  - tags: []
 

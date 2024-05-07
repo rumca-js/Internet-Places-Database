@@ -1560,16 +1560,16 @@
  - tags: []
 
 ## xdg.me
- - [http://xdg.me](http://xdg.me)
- - date published: 2024-05-06T13:02:54.692310+00:00
- - user: None
- - tags: ['personal']
-
-## xdg.me
  - [https://xdg.me](https://xdg.me)
  - date published: 2024-05-06T14:00:36.332041+00:00
  - user: None
  - tags: []
+
+## xdg.me
+ - [http://xdg.me](http://xdg.me)
+ - date published: 2024-05-06T13:02:54.692310+00:00
+ - user: None
+ - tags: ['personal']
 
 ## xnacly - blog
  - [https://xnacly.me](https://xnacly.me)

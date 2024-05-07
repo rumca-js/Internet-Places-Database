@@ -3360,14 +3360,14 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: []
 
 ## The web's scaffolding tool for modern webapps | Yeoman
- - [https://yeoman.io](https://yeoman.io)
- - date published: 2024-05-06T14:14:00.688591+00:00
+ - [http://yeoman.io](http://yeoman.io)
+ - date published: 2024-04-27T08:04:53.012868+00:00
  - user: None
  - tags: []
 
 ## The web's scaffolding tool for modern webapps | Yeoman
- - [http://yeoman.io](http://yeoman.io)
- - date published: 2024-04-27T08:04:53.012868+00:00
+ - [https://yeoman.io](https://yeoman.io)
+ - date published: 2024-05-06T14:14:00.688591+00:00
  - user: None
  - tags: []
 
@@ -5520,14 +5520,14 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: []
 
 ## L'Unione Sarda Store
- - [https://store.unionesarda.it](https://store.unionesarda.it)
- - date published: 2024-05-06T15:19:24.386554+00:00
+ - [http://store.unionesarda.it](http://store.unionesarda.it)
+ - date published: 2024-05-06T15:18:47.042899+00:00
  - user: None
  - tags: []
 
 ## L'Unione Sarda Store
- - [http://store.unionesarda.it](http://store.unionesarda.it)
- - date published: 2024-05-06T15:18:47.042899+00:00
+ - [https://store.unionesarda.it](https://store.unionesarda.it)
+ - date published: 2024-05-06T15:19:24.386554+00:00
  - user: None
  - tags: []
 

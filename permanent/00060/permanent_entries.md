@@ -5668,14 +5668,14 @@
  - tags: []
 
 ## Nonprofit Communications | Twilio.org
- - [https://twilio.org](https://twilio.org)
- - date published: 2024-05-06T20:46:28.931377+00:00
+ - [http://twilio.org](http://twilio.org)
+ - date published: 2024-05-06T20:46:17.554951+00:00
  - user: None
  - tags: []
 
 ## Nonprofit Communications | Twilio.org
- - [http://twilio.org](http://twilio.org)
- - date published: 2024-05-06T20:46:17.554951+00:00
+ - [https://twilio.org](https://twilio.org)
+ - date published: 2024-05-06T20:46:28.931377+00:00
  - user: None
  - tags: []
 

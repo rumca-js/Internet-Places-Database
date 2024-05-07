@@ -5973,13 +5973,13 @@ Educação
  - tags: []
 
 ## Home - Glacier Media
- - [https://www.glaciermedia.ca](https://www.glaciermedia.ca)
+ - [http://www.glaciermedia.ca](http://www.glaciermedia.ca)
  - date published: 2024-03-19T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Home - Glacier Media
- - [http://www.glaciermedia.ca](http://www.glaciermedia.ca)
+ - [https://www.glaciermedia.ca](https://www.glaciermedia.ca)
  - date published: 2024-03-19T00:00:00+00:00
  - user: None
  - tags: []

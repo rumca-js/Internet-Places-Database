@@ -479,14 +479,14 @@
  - tags: []
 
 ## Noun Project: Free Icons & Stock Photos for Everything
- - [https://thenounproject.com](https://thenounproject.com)
- - date published: 2024-05-06T17:14:01.903013+00:00
+ - [http://thenounproject.com](http://thenounproject.com)
+ - date published: 2024-05-02T12:57:51.845895+00:00
  - user: None
  - tags: []
 
 ## Noun Project: Free Icons & Stock Photos for Everything
- - [http://thenounproject.com](http://thenounproject.com)
- - date published: 2024-05-02T12:57:51.845895+00:00
+ - [https://thenounproject.com](https://thenounproject.com)
+ - date published: 2024-05-06T17:14:01.903013+00:00
  - user: None
  - tags: []
 
@@ -1019,14 +1019,14 @@
  - tags: []
 
 ## Koin – The Ultimate Retro Gaming Experience
- - [http://koin.theretrosaga.com](http://koin.theretrosaga.com)
- - date published: 2024-05-06T14:28:07.120402+00:00
+ - [https://koin.theretrosaga.com](https://koin.theretrosaga.com)
+ - date published: 2024-05-06T14:28:08.134131+00:00
  - user: None
  - tags: []
 
 ## Koin – The Ultimate Retro Gaming Experience
- - [https://koin.theretrosaga.com](https://koin.theretrosaga.com)
- - date published: 2024-05-06T14:28:08.134131+00:00
+ - [http://koin.theretrosaga.com](http://koin.theretrosaga.com)
+ - date published: 2024-05-06T14:28:07.120402+00:00
  - user: None
  - tags: []
 
@@ -2087,14 +2087,14 @@
  - tags: []
 
 ## TheWrap
- - [http://thewrap.com](http://thewrap.com)
- - date published: 2024-05-06T17:27:48.231748+00:00
+ - [https://thewrap.com](https://thewrap.com)
+ - date published: 2024-05-06T17:27:53.788939+00:00
  - user: None
  - tags: []
 
 ## TheWrap
- - [https://thewrap.com](https://thewrap.com)
- - date published: 2024-05-06T17:27:53.788939+00:00
+ - [http://thewrap.com](http://thewrap.com)
+ - date published: 2024-05-06T17:27:48.231748+00:00
  - user: None
  - tags: []
 
@@ -2832,13 +2832,13 @@
  - tags: []
 
 ## Investor Relations | Thomson Reuters
- - [http://ir.thomsonreuters.com](http://ir.thomsonreuters.com)
+ - [https://ir.thomsonreuters.com](https://ir.thomsonreuters.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Investor Relations | Thomson Reuters
- - [https://ir.thomsonreuters.com](https://ir.thomsonreuters.com)
+ - [http://ir.thomsonreuters.com](http://ir.thomsonreuters.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []

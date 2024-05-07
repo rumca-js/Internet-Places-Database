@@ -3827,14 +3827,14 @@
  - tags: ['books', 'book']
 
 ## The Bookseller Careers & Jobs |
- - [https://jobs.thebookseller.com](https://jobs.thebookseller.com)
- - date published: 2024-05-06T16:30:53.806248+00:00
+ - [http://jobs.thebookseller.com](http://jobs.thebookseller.com)
+ - date published: 2024-05-06T16:30:51.376259+00:00
  - user: None
  - tags: []
 
 ## The Bookseller Careers & Jobs |
- - [http://jobs.thebookseller.com](http://jobs.thebookseller.com)
- - date published: 2024-05-06T16:30:51.376259+00:00
+ - [https://jobs.thebookseller.com](https://jobs.thebookseller.com)
+ - date published: 2024-05-06T16:30:53.806248+00:00
  - user: None
  - tags: []
 

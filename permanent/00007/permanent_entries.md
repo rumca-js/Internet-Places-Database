@@ -3406,16 +3406,16 @@
  - tags: ['personal']
 
 ## Nike Told Me To
- - [https://niketoldmeto.blogspot.com](https://niketoldmeto.blogspot.com)
- - date published: 2024-05-06T18:30:59.199767+00:00
- - user: None
- - tags: []
-
-## Nike Told Me To
  - [http://niketoldmeto.blogspot.com](http://niketoldmeto.blogspot.com)
  - date published: 2024-05-06T18:30:53.286694+00:00
  - user: None
  - tags: ['personal', 'marathon']
+
+## Nike Told Me To
+ - [https://niketoldmeto.blogspot.com](https://niketoldmeto.blogspot.com)
+ - date published: 2024-05-06T18:30:59.199767+00:00
+ - user: None
+ - tags: []
 
 ## nmav's Blog
  - [https://nikmav.blogspot.com](https://nikmav.blogspot.com)

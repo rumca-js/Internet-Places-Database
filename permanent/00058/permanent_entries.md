@@ -594,13 +594,13 @@ Welcome
  - tags: []
 
 ## JSON:API — A specification for building APIs in JSON
- - [http://jsonapi.org](http://jsonapi.org)
+ - [https://jsonapi.org](https://jsonapi.org)
  - date published: 2022-09-30T00:00:00+00:00
  - user: None
  - tags: []
 
 ## JSON:API — A specification for building APIs in JSON
- - [https://jsonapi.org](https://jsonapi.org)
+ - [http://jsonapi.org](http://jsonapi.org)
  - date published: 2022-09-30T00:00:00+00:00
  - user: None
  - tags: []

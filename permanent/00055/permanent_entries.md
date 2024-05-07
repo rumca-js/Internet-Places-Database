@@ -3042,13 +3042,13 @@ marginalia.nu
  - tags: []
 
 ## Home
- - [https://aiimpacts.org](https://aiimpacts.org)
+ - [http://aiimpacts.org](http://aiimpacts.org)
  - date published: 2014-12-20T00:26:35+00:00
  - user: None
  - tags: []
 
 ## Home
- - [http://aiimpacts.org](http://aiimpacts.org)
+ - [https://aiimpacts.org](https://aiimpacts.org)
  - date published: 2014-12-20T00:26:35+00:00
  - user: None
  - tags: []
