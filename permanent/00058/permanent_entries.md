@@ -2738,14 +2738,14 @@ Hosted by Panix.com.
  - tags: []
 
 ## Lode Vandevenne
- - [https://lodev.org](https://lodev.org)
- - date published: 2024-05-06T23:31:33.316287+00:00
+ - [http://lodev.org](http://lodev.org)
+ - date published: 2024-05-06T14:57:40.262654+00:00
  - user: None
  - tags: []
 
 ## Lode Vandevenne
- - [http://lodev.org](http://lodev.org)
- - date published: 2024-05-06T14:57:40.262654+00:00
+ - [https://lodev.org](https://lodev.org)
+ - date published: 2024-05-06T23:31:33.316287+00:00
  - user: None
  - tags: []
 
@@ -4094,14 +4094,14 @@ Hosted by Panix.com.
  - tags: []
 
 ## Microformats – building blocks for data-rich web pages
- - [http://microformats.org](http://microformats.org)
- - date published: 2024-04-29T00:35:24.441258+00:00
+ - [https://microformats.org](https://microformats.org)
+ - date published: 2024-05-06T17:29:21.213729+00:00
  - user: None
  - tags: []
 
 ## Microformats – building blocks for data-rich web pages
- - [https://microformats.org](https://microformats.org)
- - date published: 2024-05-06T17:29:21.213729+00:00
+ - [http://microformats.org](http://microformats.org)
+ - date published: 2024-04-29T00:35:24.441258+00:00
  - user: None
  - tags: []
 
@@ -4811,17 +4811,17 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
-## Pocket | Discover, Capture and Savor Content That Fascinates You
- - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
- - date published: 2023-11-13T13:38:32+00:00
- - user: rumpel
- - tags: ['bookmark manager', 'link aggregation']
-
 ## Internet for people, not profit — Mozilla (US)
  - [https://www.mozilla.org](https://www.mozilla.org)
  - date published: 2023-10-25T09:27:30.838308+00:00
  - user: None
  - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
+
+## Pocket | Discover, Capture and Savor Content That Fascinates You
+ - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
+ - date published: 2023-11-13T13:38:32+00:00
+ - user: rumpel
+ - tags: ['bookmark manager', 'link aggregation']
 
 ## MozillaZine Knowledge Base
  - [http://kb.mozillazine.org](http://kb.mozillazine.org)

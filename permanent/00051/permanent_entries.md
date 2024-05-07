@@ -606,14 +606,14 @@
  - tags: []
 
 ## 東京大学基金
- - [https://utf.u-tokyo.ac.jp](https://utf.u-tokyo.ac.jp)
- - date published: 2024-05-06T15:43:04.783232+00:00
+ - [http://utf.u-tokyo.ac.jp](http://utf.u-tokyo.ac.jp)
+ - date published: 2024-05-06T15:42:27.874875+00:00
  - user: None
  - tags: []
 
 ## 東京大学基金
- - [http://utf.u-tokyo.ac.jp](http://utf.u-tokyo.ac.jp)
- - date published: 2024-05-06T15:42:27.874875+00:00
+ - [https://utf.u-tokyo.ac.jp](https://utf.u-tokyo.ac.jp)
+ - date published: 2024-05-06T15:43:04.783232+00:00
  - user: None
  - tags: []
 
@@ -1452,14 +1452,14 @@
  - tags: []
 
 ## 大紀元 エポックタイムズ – 真実と伝統
- - [http://www.epochtimes.jp](http://www.epochtimes.jp)
- - date published: 2024-05-06T16:43:53.962419+00:00
+ - [https://www.epochtimes.jp](https://www.epochtimes.jp)
+ - date published: 2024-05-06T16:44:18.740895+00:00
  - user: None
  - tags: []
 
 ## 大紀元 エポックタイムズ – 真実と伝統
- - [https://www.epochtimes.jp](https://www.epochtimes.jp)
- - date published: 2024-05-06T16:44:18.740895+00:00
+ - [http://www.epochtimes.jp](http://www.epochtimes.jp)
+ - date published: 2024-05-06T16:43:53.962419+00:00
  - user: None
  - tags: []
 
@@ -1662,14 +1662,14 @@
  - tags: []
 
 ## JAXA航空技術部門
- - [http://www.aero.jaxa.jp](http://www.aero.jaxa.jp)
- - date published: 2024-05-06T15:49:33.676362+00:00
+ - [https://www.aero.jaxa.jp](https://www.aero.jaxa.jp)
+ - date published: 2024-05-06T15:49:38.691770+00:00
  - user: None
  - tags: []
 
 ## JAXA航空技術部門
- - [https://www.aero.jaxa.jp](https://www.aero.jaxa.jp)
- - date published: 2024-05-06T15:49:38.691770+00:00
+ - [http://www.aero.jaxa.jp](http://www.aero.jaxa.jp)
+ - date published: 2024-05-06T15:49:33.676362+00:00
  - user: None
  - tags: []
 
@@ -3426,13 +3426,13 @@
  - tags: []
 
 ## This is Akimbo
- - [http://www.akimbo.link](http://www.akimbo.link)
+ - [https://www.akimbo.link](https://www.akimbo.link)
  - date published: 2024-05-04T00:00:00+00:00
  - user: None
  - tags: []
 
 ## This is Akimbo
- - [https://www.akimbo.link](https://www.akimbo.link)
+ - [http://www.akimbo.link](http://www.akimbo.link)
  - date published: 2024-05-04T00:00:00+00:00
  - user: None
  - tags: []
@@ -4728,13 +4728,13 @@
  - tags: ['personal']
 
 ## Home | Scott Knight
- - [http://scottk.mba](http://scottk.mba)
+ - [https://scottk.mba](https://scottk.mba)
  - date published: 2024-04-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Home | Scott Knight
- - [https://scottk.mba](https://scottk.mba)
+ - [http://scottk.mba](http://scottk.mba)
  - date published: 2024-04-27T00:00:00+00:00
  - user: None
  - tags: []

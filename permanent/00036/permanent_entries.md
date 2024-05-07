@@ -647,14 +647,14 @@
  - tags: []
 
 ## Home - UnHerd Club
- - [https://club.unherd.com](https://club.unherd.com)
- - date published: 2024-05-06T21:13:36.497280+00:00
+ - [http://club.unherd.com](http://club.unherd.com)
+ - date published: 2024-05-06T21:13:35.267359+00:00
  - user: None
  - tags: []
 
 ## Home - UnHerd Club
- - [http://club.unherd.com](http://club.unherd.com)
- - date published: 2024-05-06T21:13:35.267359+00:00
+ - [https://club.unherd.com](https://club.unherd.com)
+ - date published: 2024-05-06T21:13:36.497280+00:00
  - user: None
  - tags: []
 
@@ -881,13 +881,13 @@
  - tags: []
 
 ## Unity Forum
- - [http://forum.unity3d.com](http://forum.unity3d.com)
+ - [https://forum.unity3d.com](https://forum.unity3d.com)
  - date published: 2024-05-15T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Unity Forum
- - [https://forum.unity3d.com](https://forum.unity3d.com)
+ - [http://forum.unity3d.com](http://forum.unity3d.com)
  - date published: 2024-05-15T00:00:00+00:00
  - user: None
  - tags: []
@@ -1241,13 +1241,13 @@
  - tags: []
 
 ## UofLNews
- - [https://uoflnews.com](https://uoflnews.com)
+ - [http://uoflnews.com](http://uoflnews.com)
  - date published: 2024-05-04T00:00:00+00:00
  - user: None
  - tags: []
 
 ## UofLNews
- - [http://uoflnews.com](http://uoflnews.com)
+ - [https://uoflnews.com](https://uoflnews.com)
  - date published: 2024-05-04T00:00:00+00:00
  - user: None
  - tags: []
@@ -1769,13 +1769,13 @@
  - tags: []
 
 ## Latest World & National News & Headlines - USATODAY.com
- - [http://cm.usatoday.com](http://cm.usatoday.com)
+ - [https://cm.usatoday.com](https://cm.usatoday.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Latest World & National News & Headlines - USATODAY.com
- - [https://cm.usatoday.com](https://cm.usatoday.com)
+ - [http://cm.usatoday.com](http://cm.usatoday.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []

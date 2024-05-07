@@ -3653,13 +3653,13 @@
  - tags: ['synthwave', 'new retro wave']
 
 ## Omniflux
- - [http://omniflux.bandcamp.com](http://omniflux.bandcamp.com)
+ - [https://omniflux.bandcamp.com](https://omniflux.bandcamp.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Omniflux
- - [https://omniflux.bandcamp.com](https://omniflux.bandcamp.com)
+ - [http://omniflux.bandcamp.com](http://omniflux.bandcamp.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []

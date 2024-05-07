@@ -4643,17 +4643,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Wayback Machine
- - [https://web.archive.org](https://web.archive.org)
- - date published: 2023-10-25T09:29:18.969501+00:00
- - user: None
- - tags: ['internet archive']
-
 ## Back2Roots
  - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
  - date published: 2023-11-02T10:36:12+00:00
  - user: rumpel
  - tags: []
+
+## Wayback Machine
+ - [https://web.archive.org](https://web.archive.org)
+ - date published: 2023-10-25T09:29:18.969501+00:00
+ - user: None
+ - tags: ['internet archive']
 
 ## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
  - [https://www.archive.org](https://www.archive.org)
