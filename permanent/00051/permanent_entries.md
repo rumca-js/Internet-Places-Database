@@ -1662,14 +1662,14 @@
  - tags: []
 
 ## JAXA航空技術部門
- - [https://www.aero.jaxa.jp](https://www.aero.jaxa.jp)
- - date published: 2024-05-06T15:49:38.691770+00:00
+ - [http://www.aero.jaxa.jp](http://www.aero.jaxa.jp)
+ - date published: 2024-05-06T15:49:33.676362+00:00
  - user: None
  - tags: []
 
 ## JAXA航空技術部門
- - [http://www.aero.jaxa.jp](http://www.aero.jaxa.jp)
- - date published: 2024-05-06T15:49:33.676362+00:00
+ - [https://www.aero.jaxa.jp](https://www.aero.jaxa.jp)
+ - date published: 2024-05-06T15:49:38.691770+00:00
  - user: None
  - tags: []
 

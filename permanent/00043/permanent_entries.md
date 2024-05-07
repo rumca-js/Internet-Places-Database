@@ -2057,13 +2057,13 @@ IDEALS
  - tags: []
 
 ## Events Calendar - University of Louisville
- - [http://events.louisville.edu](http://events.louisville.edu)
+ - [https://events.louisville.edu](https://events.louisville.edu)
  - date published: 2024-05-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Events Calendar - University of Louisville
- - [https://events.louisville.edu](https://events.louisville.edu)
+ - [http://events.louisville.edu](http://events.louisville.edu)
  - date published: 2024-05-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -5481,14 +5481,14 @@ IDEALS
  - tags: []
 
 ## University of Nevada, Reno
- - [https://www.unr.edu](https://www.unr.edu)
- - date published: 2024-05-06T17:11:16.422387+00:00
+ - [http://www.unr.edu](http://www.unr.edu)
+ - date published: 2024-05-01T02:11:03.024281+00:00
  - user: None
  - tags: []
 
 ## University of Nevada, Reno
- - [http://www.unr.edu](http://www.unr.edu)
- - date published: 2024-05-01T02:11:03.024281+00:00
+ - [https://www.unr.edu](https://www.unr.edu)
+ - date published: 2024-05-06T17:11:16.422387+00:00
  - user: None
  - tags: []
 

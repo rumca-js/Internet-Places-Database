@@ -581,14 +581,14 @@
  - tags: []
 
 ## Exitoina
- - [https://exitoina.perfil.com](https://exitoina.perfil.com)
- - date published: 2024-05-06T23:02:50.016160+00:00
+ - [http://exitoina.perfil.com](http://exitoina.perfil.com)
+ - date published: 2024-05-06T23:01:57.485925+00:00
  - user: None
  - tags: []
 
 ## Exitoina
- - [http://exitoina.perfil.com](http://exitoina.perfil.com)
- - date published: 2024-05-06T23:01:57.485925+00:00
+ - [https://exitoina.perfil.com](https://exitoina.perfil.com)
+ - date published: 2024-05-06T23:02:50.016160+00:00
  - user: None
  - tags: []
 
@@ -797,14 +797,14 @@
  - tags: []
 
 ## Perrett Laver
- - [https://www.perrettlaver.com](https://www.perrettlaver.com)
- - date published: 2024-05-06T23:04:08.953975+00:00
+ - [http://www.perrettlaver.com](http://www.perrettlaver.com)
+ - date published: 2024-05-06T23:04:05.278637+00:00
  - user: None
  - tags: []
 
 ## Perrett Laver
- - [http://www.perrettlaver.com](http://www.perrettlaver.com)
- - date published: 2024-05-06T23:04:05.278637+00:00
+ - [https://www.perrettlaver.com](https://www.perrettlaver.com)
+ - date published: 2024-05-06T23:04:08.953975+00:00
  - user: None
  - tags: []
 
@@ -2276,14 +2276,14 @@
  - tags: []
 
 ## The Virginian-Pilot
- - [https://pilotonline.com](https://pilotonline.com)
- - date published: 2024-05-06T23:18:24.379364+00:00
+ - [http://pilotonline.com](http://pilotonline.com)
+ - date published: 2024-05-06T23:18:13.776890+00:00
  - user: None
  - tags: []
 
 ## The Virginian-Pilot
- - [http://pilotonline.com](http://pilotonline.com)
- - date published: 2024-05-06T23:18:13.776890+00:00
+ - [https://pilotonline.com](https://pilotonline.com)
+ - date published: 2024-05-06T23:18:24.379364+00:00
  - user: None
  - tags: []
 

@@ -3943,13 +3943,13 @@
  - tags: []
 
 ## Mark Steyn
- - [https://www.steynonline.com](https://www.steynonline.com)
+ - [http://www.steynonline.com](http://www.steynonline.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Mark Steyn
- - [http://www.steynonline.com](http://www.steynonline.com)
+ - [https://www.steynonline.com](https://www.steynonline.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []

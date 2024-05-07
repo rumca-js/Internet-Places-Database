@@ -4517,13 +4517,13 @@
  - tags: []
 
 ## Kerbal Space Program Wiki
- - [http://wiki.kerbalspaceprogram.com](http://wiki.kerbalspaceprogram.com)
+ - [https://wiki.kerbalspaceprogram.com](https://wiki.kerbalspaceprogram.com)
  - date published: 2023-01-11T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Kerbal Space Program Wiki
- - [https://wiki.kerbalspaceprogram.com](https://wiki.kerbalspaceprogram.com)
+ - [http://wiki.kerbalspaceprogram.com](http://wiki.kerbalspaceprogram.com)
  - date published: 2023-01-11T00:00:00+00:00
  - user: None
  - tags: []

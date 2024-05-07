@@ -4181,14 +4181,14 @@
  - tags: []
 
 ## 2024 Answers for AWS survey results
- - [https://answersforaws.com](https://answersforaws.com)
- - date published: 2024-05-06T21:42:15.306023+00:00
+ - [http://answersforaws.com](http://answersforaws.com)
+ - date published: 2024-05-04T15:19:24.816469+00:00
  - user: None
  - tags: []
 
 ## 2024 Answers for AWS survey results
- - [http://answersforaws.com](http://answersforaws.com)
- - date published: 2024-05-04T15:19:24.816469+00:00
+ - [https://answersforaws.com](https://answersforaws.com)
+ - date published: 2024-05-06T21:42:15.306023+00:00
  - user: None
  - tags: []
 

@@ -2040,14 +2040,14 @@
  - tags: []
 
 ## Cierpliwości...
- - [https://resources.industrydive.com](https://resources.industrydive.com)
- - date published: 2024-05-06T21:27:56.408638+00:00
+ - [http://resources.industrydive.com](http://resources.industrydive.com)
+ - date published: 2024-04-29T04:57:29.012720+00:00
  - user: None
  - tags: []
 
 ## Cierpliwości...
- - [http://resources.industrydive.com](http://resources.industrydive.com)
- - date published: 2024-04-29T04:57:29.012720+00:00
+ - [https://resources.industrydive.com](https://resources.industrydive.com)
+ - date published: 2024-05-06T21:27:56.408638+00:00
  - user: None
  - tags: []
 

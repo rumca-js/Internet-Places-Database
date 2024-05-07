@@ -4190,13 +4190,13 @@
  - tags: []
 
 ## Turok: Dinosaur Hunter Forums!
- - [http://www.turokforums.com](http://www.turokforums.com)
+ - [https://www.turokforums.com](https://www.turokforums.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Turok: Dinosaur Hunter Forums!
- - [https://www.turokforums.com](https://www.turokforums.com)
+ - [http://www.turokforums.com](http://www.turokforums.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
