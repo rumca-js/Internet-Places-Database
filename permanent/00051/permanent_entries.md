@@ -1452,14 +1452,14 @@
  - tags: []
 
 ## 大紀元 エポックタイムズ – 真実と伝統
- - [http://www.epochtimes.jp](http://www.epochtimes.jp)
- - date published: 2024-05-06T16:43:53.962419+00:00
+ - [https://www.epochtimes.jp](https://www.epochtimes.jp)
+ - date published: 2024-05-06T16:44:18.740895+00:00
  - user: None
  - tags: []
 
 ## 大紀元 エポックタイムズ – 真実と伝統
- - [https://www.epochtimes.jp](https://www.epochtimes.jp)
- - date published: 2024-05-06T16:44:18.740895+00:00
+ - [http://www.epochtimes.jp](http://www.epochtimes.jp)
+ - date published: 2024-05-06T16:43:53.962419+00:00
  - user: None
  - tags: []
 
@@ -1662,14 +1662,14 @@
  - tags: []
 
 ## JAXA航空技術部門
- - [http://www.aero.jaxa.jp](http://www.aero.jaxa.jp)
- - date published: 2024-05-06T15:49:33.676362+00:00
+ - [https://www.aero.jaxa.jp](https://www.aero.jaxa.jp)
+ - date published: 2024-05-06T15:49:38.691770+00:00
  - user: None
  - tags: []
 
 ## JAXA航空技術部門
- - [https://www.aero.jaxa.jp](https://www.aero.jaxa.jp)
- - date published: 2024-05-06T15:49:38.691770+00:00
+ - [http://www.aero.jaxa.jp](http://www.aero.jaxa.jp)
+ - date published: 2024-05-06T15:49:33.676362+00:00
  - user: None
  - tags: []
 

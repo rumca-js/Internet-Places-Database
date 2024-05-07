@@ -3055,14 +3055,14 @@
  - tags: []
 
 ## ENERGY STAR
- - [https://www.energystar.gov](https://www.energystar.gov)
- - date published: 2024-05-06T21:01:14.066636+00:00
+ - [http://www.energystar.gov](http://www.energystar.gov)
+ - date published: 2024-05-04T08:48:05.142419+00:00
  - user: None
  - tags: []
 
 ## ENERGY STAR
- - [http://www.energystar.gov](http://www.energystar.gov)
- - date published: 2024-05-04T08:48:05.142419+00:00
+ - [https://www.energystar.gov](https://www.energystar.gov)
+ - date published: 2024-05-06T21:01:14.066636+00:00
  - user: None
  - tags: []
 

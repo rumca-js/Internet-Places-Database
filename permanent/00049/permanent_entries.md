@@ -1619,14 +1619,14 @@
  - tags: ['personal']
 
 ## JWT.IO
- - [https://jwt.io](https://jwt.io)
- - date published: 2024-05-06T14:15:31.110546+00:00
+ - [http://jwt.io](http://jwt.io)
+ - date published: 2024-05-06T13:43:14.363565+00:00
  - user: None
  - tags: []
 
 ## JWT.IO
- - [http://jwt.io](http://jwt.io)
- - date published: 2024-05-06T13:43:14.363565+00:00
+ - [https://jwt.io](https://jwt.io)
+ - date published: 2024-05-06T14:15:31.110546+00:00
  - user: None
  - tags: []
 

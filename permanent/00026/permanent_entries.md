@@ -623,14 +623,14 @@
  - tags: []
 
 ## Lunateen
- - [http://lunateen.perfil.com](http://lunateen.perfil.com)
- - date published: 2024-05-06T23:01:49.135416+00:00
+ - [https://lunateen.perfil.com](https://lunateen.perfil.com)
+ - date published: 2024-05-06T23:02:52.629140+00:00
  - user: None
  - tags: []
 
 ## Lunateen
- - [https://lunateen.perfil.com](https://lunateen.perfil.com)
- - date published: 2024-05-06T23:02:52.629140+00:00
+ - [http://lunateen.perfil.com](http://lunateen.perfil.com)
+ - date published: 2024-05-06T23:01:49.135416+00:00
  - user: None
  - tags: []
 
@@ -677,14 +677,14 @@
  - tags: []
 
 ## Rouge | Home
- - [https://rouge.perfil.com](https://rouge.perfil.com)
- - date published: 2024-05-06T23:03:08.061837+00:00
+ - [http://rouge.perfil.com](http://rouge.perfil.com)
+ - date published: 2024-05-06T23:01:55.142497+00:00
  - user: None
  - tags: []
 
 ## Rouge | Home
- - [http://rouge.perfil.com](http://rouge.perfil.com)
- - date published: 2024-05-06T23:01:55.142497+00:00
+ - [https://rouge.perfil.com](https://rouge.perfil.com)
+ - date published: 2024-05-06T23:03:08.061837+00:00
  - user: None
  - tags: []
 
@@ -797,14 +797,14 @@
  - tags: []
 
 ## Perrett Laver
- - [http://www.perrettlaver.com](http://www.perrettlaver.com)
- - date published: 2024-05-06T23:04:05.278637+00:00
+ - [https://www.perrettlaver.com](https://www.perrettlaver.com)
+ - date published: 2024-05-06T23:04:08.953975+00:00
  - user: None
  - tags: []
 
 ## Perrett Laver
- - [https://www.perrettlaver.com](https://www.perrettlaver.com)
- - date published: 2024-05-06T23:04:08.953975+00:00
+ - [http://www.perrettlaver.com](http://www.perrettlaver.com)
+ - date published: 2024-05-06T23:04:05.278637+00:00
  - user: None
  - tags: []
 
@@ -2276,14 +2276,14 @@
  - tags: []
 
 ## The Virginian-Pilot
- - [http://pilotonline.com](http://pilotonline.com)
- - date published: 2024-05-06T23:18:13.776890+00:00
+ - [https://pilotonline.com](https://pilotonline.com)
+ - date published: 2024-05-06T23:18:24.379364+00:00
  - user: None
  - tags: []
 
 ## The Virginian-Pilot
- - [https://pilotonline.com](https://pilotonline.com)
- - date published: 2024-05-06T23:18:24.379364+00:00
+ - [http://pilotonline.com](http://pilotonline.com)
+ - date published: 2024-05-06T23:18:13.776890+00:00
  - user: None
  - tags: []
 
@@ -2366,13 +2366,13 @@
  - tags: []
 
 ## Mappin’ Around with Scott & Ryan
- - [http://pod.pinballmap.com](http://pod.pinballmap.com)
+ - [https://pod.pinballmap.com](https://pod.pinballmap.com)
  - date published: 2024-04-26T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Mappin’ Around with Scott & Ryan
- - [https://pod.pinballmap.com](https://pod.pinballmap.com)
+ - [http://pod.pinballmap.com](http://pod.pinballmap.com)
  - date published: 2024-04-26T00:00:00+00:00
  - user: None
  - tags: []

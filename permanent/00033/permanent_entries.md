@@ -4405,13 +4405,13 @@
  - tags: []
 
 ## Image and Video Upload, Storage, Optimization and CDN
- - [https://img.thedailybeast.com](https://img.thedailybeast.com)
+ - [http://img.thedailybeast.com](http://img.thedailybeast.com)
  - date published: 2024-02-16T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Image and Video Upload, Storage, Optimization and CDN
- - [http://img.thedailybeast.com](http://img.thedailybeast.com)
+ - [https://img.thedailybeast.com](https://img.thedailybeast.com)
  - date published: 2024-02-16T00:00:00+00:00
  - user: None
  - tags: []

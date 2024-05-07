@@ -1717,13 +1717,13 @@
  - tags: []
 
 ## Squarespace Status
- - [https://status.squarespace.com](https://status.squarespace.com)
+ - [http://status.squarespace.com](http://status.squarespace.com)
  - date published: 2024-02-07T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Squarespace Status
- - [http://status.squarespace.com](http://status.squarespace.com)
+ - [https://status.squarespace.com](https://status.squarespace.com)
  - date published: 2024-02-07T00:00:00+00:00
  - user: None
  - tags: []
@@ -3943,13 +3943,13 @@
  - tags: []
 
 ## Mark Steyn
- - [http://www.steynonline.com](http://www.steynonline.com)
+ - [https://www.steynonline.com](https://www.steynonline.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Mark Steyn
- - [https://www.steynonline.com](https://www.steynonline.com)
+ - [http://www.steynonline.com](http://www.steynonline.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
