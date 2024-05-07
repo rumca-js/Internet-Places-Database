@@ -5364,13 +5364,13 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  - tags: []
 
 ## Eleventy is a simpler static site generator
- - [https://11ty.io](https://11ty.io)
+ - [http://11ty.io](http://11ty.io)
  - date published: 2024-02-16T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Eleventy is a simpler static site generator
- - [http://11ty.io](http://11ty.io)
+ - [https://11ty.io](https://11ty.io)
  - date published: 2024-02-16T00:00:00+00:00
  - user: None
  - tags: []

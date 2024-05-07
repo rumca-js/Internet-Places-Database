@@ -599,13 +599,13 @@
  - tags: ['tech news']
 
 ## The Onion | America's Finest News Source.
- - [https://www.theonion.com](https://www.theonion.com)
+ - [http://www.theonion.com](http://www.theonion.com)
  - date published: 2024-03-13T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Onion | America's Finest News Source.
- - [http://www.theonion.com](http://www.theonion.com)
+ - [https://www.theonion.com](https://www.theonion.com)
  - date published: 2024-03-13T00:00:00+00:00
  - user: None
  - tags: []
@@ -2832,13 +2832,13 @@
  - tags: []
 
 ## Investor Relations | Thomson Reuters
- - [http://ir.thomsonreuters.com](http://ir.thomsonreuters.com)
+ - [https://ir.thomsonreuters.com](https://ir.thomsonreuters.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Investor Relations | Thomson Reuters
- - [https://ir.thomsonreuters.com](https://ir.thomsonreuters.com)
+ - [http://ir.thomsonreuters.com](http://ir.thomsonreuters.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
@@ -2976,14 +2976,14 @@
  - tags: ['personal']
 
 ## Men's Wedding Rings, Meteorite Rings, & Wood Rings - Thorum
- - [https://www.thorum.com](https://www.thorum.com)
- - date published: 2024-05-06T18:17:14.743374+00:00
+ - [http://www.thorum.com](http://www.thorum.com)
+ - date published: 2024-02-16T21:26:55.881184+00:00
  - user: None
  - tags: []
 
 ## Men's Wedding Rings, Meteorite Rings, & Wood Rings - Thorum
- - [http://www.thorum.com](http://www.thorum.com)
- - date published: 2024-02-16T21:26:55.881184+00:00
+ - [https://www.thorum.com](https://www.thorum.com)
+ - date published: 2024-05-06T18:17:14.743374+00:00
  - user: None
  - tags: []
 
