@@ -5006,14 +5006,14 @@
  - tags: []
 
 ## Career Chats with Swyx and Randall
- - [https://careerchats.transistor.fm](https://careerchats.transistor.fm)
- - date published: 2024-05-06T13:49:07.210039+00:00
+ - [http://careerchats.transistor.fm](http://careerchats.transistor.fm)
+ - date published: 2024-05-06T13:47:30.072318+00:00
  - user: None
  - tags: []
 
 ## Career Chats with Swyx and Randall
- - [http://careerchats.transistor.fm](http://careerchats.transistor.fm)
- - date published: 2024-05-06T13:47:30.072318+00:00
+ - [https://careerchats.transistor.fm](https://careerchats.transistor.fm)
+ - date published: 2024-05-06T13:49:07.210039+00:00
  - user: None
  - tags: []
 

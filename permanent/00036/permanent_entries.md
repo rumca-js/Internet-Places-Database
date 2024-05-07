@@ -1769,13 +1769,13 @@
  - tags: []
 
 ## Latest World & National News & Headlines - USATODAY.com
- - [https://cm.usatoday.com](https://cm.usatoday.com)
+ - [http://cm.usatoday.com](http://cm.usatoday.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Latest World & National News & Headlines - USATODAY.com
- - [http://cm.usatoday.com](http://cm.usatoday.com)
+ - [https://cm.usatoday.com](https://cm.usatoday.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []

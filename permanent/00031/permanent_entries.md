@@ -1717,13 +1717,13 @@
  - tags: []
 
 ## Squarespace Status
- - [http://status.squarespace.com](http://status.squarespace.com)
+ - [https://status.squarespace.com](https://status.squarespace.com)
  - date published: 2024-02-07T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Squarespace Status
- - [https://status.squarespace.com](https://status.squarespace.com)
+ - [http://status.squarespace.com](http://status.squarespace.com)
  - date published: 2024-02-07T00:00:00+00:00
  - user: None
  - tags: []

@@ -1452,14 +1452,14 @@
  - tags: []
 
 ## 大紀元 エポックタイムズ – 真実と伝統
- - [https://www.epochtimes.jp](https://www.epochtimes.jp)
- - date published: 2024-05-06T16:44:18.740895+00:00
+ - [http://www.epochtimes.jp](http://www.epochtimes.jp)
+ - date published: 2024-05-06T16:43:53.962419+00:00
  - user: None
  - tags: []
 
 ## 大紀元 エポックタイムズ – 真実と伝統
- - [http://www.epochtimes.jp](http://www.epochtimes.jp)
- - date published: 2024-05-06T16:43:53.962419+00:00
+ - [https://www.epochtimes.jp](https://www.epochtimes.jp)
+ - date published: 2024-05-06T16:44:18.740895+00:00
  - user: None
  - tags: []
 
@@ -3426,13 +3426,13 @@
  - tags: []
 
 ## This is Akimbo
- - [https://www.akimbo.link](https://www.akimbo.link)
+ - [http://www.akimbo.link](http://www.akimbo.link)
  - date published: 2024-05-04T00:00:00+00:00
  - user: None
  - tags: []
 
 ## This is Akimbo
- - [http://www.akimbo.link](http://www.akimbo.link)
+ - [https://www.akimbo.link](https://www.akimbo.link)
  - date published: 2024-05-04T00:00:00+00:00
  - user: None
  - tags: []
@@ -4728,13 +4728,13 @@
  - tags: ['personal']
 
 ## Home | Scott Knight
- - [https://scottk.mba](https://scottk.mba)
+ - [http://scottk.mba](http://scottk.mba)
  - date published: 2024-04-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Home | Scott Knight
- - [http://scottk.mba](http://scottk.mba)
+ - [https://scottk.mba](https://scottk.mba)
  - date published: 2024-04-27T00:00:00+00:00
  - user: None
  - tags: []

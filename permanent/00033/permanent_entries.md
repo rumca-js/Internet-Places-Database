@@ -3827,14 +3827,14 @@
  - tags: ['books', 'book']
 
 ## The Bookseller Careers & Jobs |
- - [https://jobs.thebookseller.com](https://jobs.thebookseller.com)
- - date published: 2024-05-06T16:30:53.806248+00:00
+ - [http://jobs.thebookseller.com](http://jobs.thebookseller.com)
+ - date published: 2024-05-06T16:30:51.376259+00:00
  - user: None
  - tags: []
 
 ## The Bookseller Careers & Jobs |
- - [http://jobs.thebookseller.com](http://jobs.thebookseller.com)
- - date published: 2024-05-06T16:30:51.376259+00:00
+ - [https://jobs.thebookseller.com](https://jobs.thebookseller.com)
+ - date published: 2024-05-06T16:30:53.806248+00:00
  - user: None
  - tags: []
 
@@ -4405,13 +4405,13 @@
  - tags: []
 
 ## Image and Video Upload, Storage, Optimization and CDN
- - [http://img.thedailybeast.com](http://img.thedailybeast.com)
+ - [https://img.thedailybeast.com](https://img.thedailybeast.com)
  - date published: 2024-02-16T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Image and Video Upload, Storage, Optimization and CDN
- - [https://img.thedailybeast.com](https://img.thedailybeast.com)
+ - [http://img.thedailybeast.com](http://img.thedailybeast.com)
  - date published: 2024-02-16T00:00:00+00:00
  - user: None
  - tags: []
