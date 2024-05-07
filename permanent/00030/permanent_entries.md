@@ -4261,14 +4261,14 @@
  - tags: ['personal']
 
 ## Software Lead Weekly
- - [https://softwareleadweekly.com](https://softwareleadweekly.com)
- - date published: 2024-05-06T13:46:40.567798+00:00
+ - [http://softwareleadweekly.com](http://softwareleadweekly.com)
+ - date published: 2024-05-06T12:58:51.240642+00:00
  - user: None
  - tags: []
 
 ## Software Lead Weekly
- - [http://softwareleadweekly.com](http://softwareleadweekly.com)
- - date published: 2024-05-06T12:58:51.240642+00:00
+ - [https://softwareleadweekly.com](https://softwareleadweekly.com)
+ - date published: 2024-05-06T13:46:40.567798+00:00
  - user: None
  - tags: []
 

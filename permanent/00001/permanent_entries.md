@@ -834,14 +834,14 @@
  - tags: []
 
 ## Business Insider Polska
- - [https://www.businessinsider.com.au](https://www.businessinsider.com.au)
- - date published: 2024-05-06T00:00:00+00:00
+ - [http://www.businessinsider.com.au](http://www.businessinsider.com.au)
+ - date published: 2024-04-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Business Insider Polska
- - [http://www.businessinsider.com.au](http://www.businessinsider.com.au)
- - date published: 2024-04-27T00:00:00+00:00
+ - [https://www.businessinsider.com.au](https://www.businessinsider.com.au)
+ - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5973,13 +5973,13 @@ Educação
  - tags: []
 
 ## Home - Glacier Media
- - [http://www.glaciermedia.ca](http://www.glaciermedia.ca)
+ - [https://www.glaciermedia.ca](https://www.glaciermedia.ca)
  - date published: 2024-03-19T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Home - Glacier Media
- - [https://www.glaciermedia.ca](https://www.glaciermedia.ca)
+ - [http://www.glaciermedia.ca](http://www.glaciermedia.ca)
  - date published: 2024-03-19T00:00:00+00:00
  - user: None
  - tags: []

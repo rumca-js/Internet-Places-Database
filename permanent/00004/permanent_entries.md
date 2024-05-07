@@ -1343,14 +1343,14 @@
  - tags: []
 
 ## Home - The 6 Figure Developer
- - [http://6figuredev.com](http://6figuredev.com)
- - date published: 2024-05-06T13:10:59.117616+00:00
+ - [https://6figuredev.com](https://6figuredev.com)
+ - date published: 2024-05-06T13:44:24.334121+00:00
  - user: None
  - tags: []
 
 ## Home - The 6 Figure Developer
- - [https://6figuredev.com](https://6figuredev.com)
- - date published: 2024-05-06T13:44:24.334121+00:00
+ - [http://6figuredev.com](http://6figuredev.com)
+ - date published: 2024-05-06T13:10:59.117616+00:00
  - user: None
  - tags: []
 
@@ -3871,14 +3871,14 @@
  - tags: []
 
 ## AdElement | Digital Ad Personalization
- - [https://adelement.com](https://adelement.com)
- - date published: 2024-05-06T17:56:31.451567+00:00
+ - [http://adelement.com](http://adelement.com)
+ - date published: 2024-05-06T17:41:55.667020+00:00
  - user: None
  - tags: []
 
 ## AdElement | Digital Ad Personalization
- - [http://adelement.com](http://adelement.com)
- - date published: 2024-05-06T17:41:55.667020+00:00
+ - [https://adelement.com](https://adelement.com)
+ - date published: 2024-05-06T17:56:31.451567+00:00
  - user: None
  - tags: []
 

@@ -557,14 +557,14 @@
  - tags: []
 
 ## 442 | Ultimas noticias de Argentina y el mundo
- - [http://442.perfil.com](http://442.perfil.com)
- - date published: 2024-05-06T23:01:53.291233+00:00
+ - [https://442.perfil.com](https://442.perfil.com)
+ - date published: 2024-05-06T23:03:00.703160+00:00
  - user: None
  - tags: []
 
 ## 442 | Ultimas noticias de Argentina y el mundo
- - [https://442.perfil.com](https://442.perfil.com)
- - date published: 2024-05-06T23:03:00.703160+00:00
+ - [http://442.perfil.com](http://442.perfil.com)
+ - date published: 2024-05-06T23:01:53.291233+00:00
  - user: None
  - tags: []
 
@@ -581,14 +581,14 @@
  - tags: []
 
 ## Exitoina
- - [https://exitoina.perfil.com](https://exitoina.perfil.com)
- - date published: 2024-05-06T23:02:50.016160+00:00
+ - [http://exitoina.perfil.com](http://exitoina.perfil.com)
+ - date published: 2024-05-06T23:01:57.485925+00:00
  - user: None
  - tags: []
 
 ## Exitoina
- - [http://exitoina.perfil.com](http://exitoina.perfil.com)
- - date published: 2024-05-06T23:01:57.485925+00:00
+ - [https://exitoina.perfil.com](https://exitoina.perfil.com)
+ - date published: 2024-05-06T23:02:50.016160+00:00
  - user: None
  - tags: []
 
@@ -797,14 +797,14 @@
  - tags: []
 
 ## Perrett Laver
- - [http://www.perrettlaver.com](http://www.perrettlaver.com)
- - date published: 2024-05-06T23:04:05.278637+00:00
+ - [https://www.perrettlaver.com](https://www.perrettlaver.com)
+ - date published: 2024-05-06T23:04:08.953975+00:00
  - user: None
  - tags: []
 
 ## Perrett Laver
- - [https://www.perrettlaver.com](https://www.perrettlaver.com)
- - date published: 2024-05-06T23:04:08.953975+00:00
+ - [http://www.perrettlaver.com](http://www.perrettlaver.com)
+ - date published: 2024-05-06T23:04:05.278637+00:00
  - user: None
  - tags: []
 

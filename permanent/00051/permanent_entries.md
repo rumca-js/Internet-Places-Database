@@ -606,14 +606,14 @@
  - tags: []
 
 ## 東京大学基金
- - [https://utf.u-tokyo.ac.jp](https://utf.u-tokyo.ac.jp)
- - date published: 2024-05-06T15:43:04.783232+00:00
+ - [http://utf.u-tokyo.ac.jp](http://utf.u-tokyo.ac.jp)
+ - date published: 2024-05-06T15:42:27.874875+00:00
  - user: None
  - tags: []
 
 ## 東京大学基金
- - [http://utf.u-tokyo.ac.jp](http://utf.u-tokyo.ac.jp)
- - date published: 2024-05-06T15:42:27.874875+00:00
+ - [https://utf.u-tokyo.ac.jp](https://utf.u-tokyo.ac.jp)
+ - date published: 2024-05-06T15:43:04.783232+00:00
  - user: None
  - tags: []
 
@@ -1632,14 +1632,14 @@
  - tags: []
 
 ## 環境試験技術ユニット
- - [https://shiken.jaxa.jp](https://shiken.jaxa.jp)
- - date published: 2024-05-06T15:50:04.596096+00:00
+ - [http://shiken.jaxa.jp](http://shiken.jaxa.jp)
+ - date published: 2024-05-06T15:50:01.261828+00:00
  - user: None
  - tags: []
 
 ## 環境試験技術ユニット
- - [http://shiken.jaxa.jp](http://shiken.jaxa.jp)
- - date published: 2024-05-06T15:50:01.261828+00:00
+ - [https://shiken.jaxa.jp](https://shiken.jaxa.jp)
+ - date published: 2024-05-06T15:50:04.596096+00:00
  - user: None
  - tags: []
 
@@ -1650,14 +1650,14 @@
  - tags: []
 
 ## JAXA｜宇宙航空研究開発機構　追跡ネットワーク技術センター
- - [http://track.sfo.jaxa.jp](http://track.sfo.jaxa.jp)
- - date published: 2024-05-06T15:49:47.647331+00:00
+ - [https://track.sfo.jaxa.jp](https://track.sfo.jaxa.jp)
+ - date published: 2024-05-06T15:49:58.845838+00:00
  - user: None
  - tags: []
 
 ## JAXA｜宇宙航空研究開発機構　追跡ネットワーク技術センター
- - [https://track.sfo.jaxa.jp](https://track.sfo.jaxa.jp)
- - date published: 2024-05-06T15:49:58.845838+00:00
+ - [http://track.sfo.jaxa.jp](http://track.sfo.jaxa.jp)
+ - date published: 2024-05-06T15:49:47.647331+00:00
  - user: None
  - tags: []
 
@@ -1692,14 +1692,14 @@
  - tags: []
 
 ## JAXA｜宇宙探査イノベーションハブ
- - [http://www.ihub-tansa.jaxa.jp](http://www.ihub-tansa.jaxa.jp)
- - date published: 2024-05-06T15:49:46.719062+00:00
+ - [https://www.ihub-tansa.jaxa.jp](https://www.ihub-tansa.jaxa.jp)
+ - date published: 2024-05-06T15:50:10.685926+00:00
  - user: None
  - tags: []
 
 ## JAXA｜宇宙探査イノベーションハブ
- - [https://www.ihub-tansa.jaxa.jp](https://www.ihub-tansa.jaxa.jp)
- - date published: 2024-05-06T15:50:10.685926+00:00
+ - [http://www.ihub-tansa.jaxa.jp](http://www.ihub-tansa.jaxa.jp)
+ - date published: 2024-05-06T15:49:46.719062+00:00
  - user: None
  - tags: []
 

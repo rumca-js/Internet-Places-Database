@@ -2451,14 +2451,14 @@ Art Product Supply
  - tags: []
 
 ## Cierpliwości...
- - [http://circle.so](http://circle.so)
- - date published: 2024-05-06T13:34:20.150163+00:00
+ - [https://circle.so](https://circle.so)
+ - date published: 2024-05-06T20:26:34.916751+00:00
  - user: None
  - tags: []
 
 ## Cierpliwości...
- - [https://circle.so](https://circle.so)
- - date published: 2024-05-06T20:26:34.916751+00:00
+ - [http://circle.so](http://circle.so)
+ - date published: 2024-05-06T13:34:20.150163+00:00
  - user: None
  - tags: []
 

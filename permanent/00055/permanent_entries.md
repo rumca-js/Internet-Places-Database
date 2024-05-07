@@ -3042,13 +3042,13 @@ marginalia.nu
  - tags: []
 
 ## Home
- - [http://aiimpacts.org](http://aiimpacts.org)
+ - [https://aiimpacts.org](https://aiimpacts.org)
  - date published: 2014-12-20T00:26:35+00:00
  - user: None
  - tags: []
 
 ## Home
- - [https://aiimpacts.org](https://aiimpacts.org)
+ - [http://aiimpacts.org](http://aiimpacts.org)
  - date published: 2014-12-20T00:26:35+00:00
  - user: None
  - tags: []
@@ -3972,14 +3972,14 @@ marginalia.nu
  - tags: ['personal']
 
 ## AnyBrowser Pages
- - [http://www.anybrowser.org](http://www.anybrowser.org)
- - date published: 2024-04-28T02:06:18.849520+00:00
+ - [https://www.anybrowser.org](https://www.anybrowser.org)
+ - date published: 2024-05-06T15:13:24.216325+00:00
  - user: None
  - tags: []
 
 ## AnyBrowser Pages
- - [https://www.anybrowser.org](https://www.anybrowser.org)
- - date published: 2024-05-06T15:13:24.216325+00:00
+ - [http://www.anybrowser.org](http://www.anybrowser.org)
+ - date published: 2024-04-28T02:06:18.849520+00:00
  - user: None
  - tags: []
 
@@ -4517,17 +4517,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
- - [https://archive.org](https://archive.org)
- - date published: 2023-10-25T09:29:04.093943+00:00
- - user: None
- - tags: ['internet archive', 'digital library']
-
 ## Internet Archive: Secret service
  - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
  - date published: 2023-10-27T14:37:50+00:00
  - user: rumpel
  - tags: ['retro', 'magazine']
+
+## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+ - [https://archive.org](https://archive.org)
+ - date published: 2023-10-25T09:29:04.093943+00:00
+ - user: None
+ - tags: ['internet archive', 'digital library']
 
 ## Internet Archive Blogs | A blog from the team at archive.org
  - [https://blog.archive.org](https://blog.archive.org)
