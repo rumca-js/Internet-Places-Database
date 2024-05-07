@@ -3088,17 +3088,17 @@
  - user: None
  - tags: []
 
-## Google flights
- - [https://www.google.com/travel/flights](https://www.google.com/travel/flights)
- - date published: 2024-01-02T07:35:30+00:00
- - user: rumpel
- - tags: []
-
 ## Google
  - [https://www.google.com](https://www.google.com)
  - date published: 2023-10-25T08:28:06.744876+00:00
  - user: None
  - tags: ['gatekeeper', 'search engine']
+
+## Google flights
+ - [https://www.google.com/travel/flights](https://www.google.com/travel/flights)
+ - date published: 2024-01-02T07:35:30+00:00
+ - user: rumpel
+ - tags: []
 
 ## Hosted Libraries  |  Google for Developers
  - [https://ajax.googleapis.com](https://ajax.googleapis.com)

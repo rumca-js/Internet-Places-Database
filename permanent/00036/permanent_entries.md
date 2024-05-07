@@ -647,14 +647,14 @@
  - tags: []
 
 ## Home - UnHerd Club
- - [http://club.unherd.com](http://club.unherd.com)
- - date published: 2024-05-06T21:13:35.267359+00:00
+ - [https://club.unherd.com](https://club.unherd.com)
+ - date published: 2024-05-06T21:13:36.497280+00:00
  - user: None
  - tags: []
 
 ## Home - UnHerd Club
- - [https://club.unherd.com](https://club.unherd.com)
- - date published: 2024-05-06T21:13:36.497280+00:00
+ - [http://club.unherd.com](http://club.unherd.com)
+ - date published: 2024-05-06T21:13:35.267359+00:00
  - user: None
  - tags: []
 
@@ -881,13 +881,13 @@
  - tags: []
 
 ## Unity Forum
- - [https://forum.unity3d.com](https://forum.unity3d.com)
+ - [http://forum.unity3d.com](http://forum.unity3d.com)
  - date published: 2024-05-15T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Unity Forum
- - [http://forum.unity3d.com](http://forum.unity3d.com)
+ - [https://forum.unity3d.com](https://forum.unity3d.com)
  - date published: 2024-05-15T00:00:00+00:00
  - user: None
  - tags: []
@@ -1769,13 +1769,13 @@
  - tags: []
 
 ## Latest World & National News & Headlines - USATODAY.com
- - [https://cm.usatoday.com](https://cm.usatoday.com)
+ - [http://cm.usatoday.com](http://cm.usatoday.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Latest World & National News & Headlines - USATODAY.com
- - [http://cm.usatoday.com](http://cm.usatoday.com)
+ - [https://cm.usatoday.com](https://cm.usatoday.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
@@ -3462,14 +3462,14 @@
  - tags: []
 
 ## Venmo - Share Payments
- - [http://www.venmo.com](http://www.venmo.com)
- - date published: 2024-04-29T01:48:22.776885+00:00
+ - [https://www.venmo.com](https://www.venmo.com)
+ - date published: 2024-05-06T16:27:09.580023+00:00
  - user: None
  - tags: []
 
 ## Venmo - Share Payments
- - [https://www.venmo.com](https://www.venmo.com)
- - date published: 2024-05-06T16:27:09.580023+00:00
+ - [http://www.venmo.com](http://www.venmo.com)
+ - date published: 2024-04-29T01:48:22.776885+00:00
  - user: None
  - tags: []
 

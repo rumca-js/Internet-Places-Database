@@ -1527,13 +1527,13 @@
  - tags: []
 
 ## Swan: The easiest way to embed banking features into your product
- - [http://swan.io](http://swan.io)
+ - [https://swan.io](https://swan.io)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Swan: The easiest way to embed banking features into your product
- - [https://swan.io](https://swan.io)
+ - [http://swan.io](http://swan.io)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []

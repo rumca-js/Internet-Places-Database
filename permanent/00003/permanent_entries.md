@@ -4433,14 +4433,14 @@
  - tags: []
 
 ## PokéAPI
- - [https://pokeapi.co](https://pokeapi.co)
- - date published: 2024-05-06T21:26:23.855680+00:00
+ - [http://pokeapi.co](http://pokeapi.co)
+ - date published: 2024-04-29T04:00:16.855250+00:00
  - user: None
  - tags: []
 
 ## PokéAPI
- - [http://pokeapi.co](http://pokeapi.co)
- - date published: 2024-04-29T04:00:16.855250+00:00
+ - [https://pokeapi.co](https://pokeapi.co)
+ - date published: 2024-05-06T21:26:23.855680+00:00
  - user: None
  - tags: []
 

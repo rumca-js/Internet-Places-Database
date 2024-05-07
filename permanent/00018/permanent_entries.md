@@ -1865,14 +1865,14 @@
  - tags: []
 
 ## Login
- - [https://toidev.indiatimes.com](https://toidev.indiatimes.com)
- - date published: 2024-05-06T18:29:43.374993+00:00
+ - [http://toidev.indiatimes.com](http://toidev.indiatimes.com)
+ - date published: 2024-04-28T01:37:59.693772+00:00
  - user: None
  - tags: []
 
 ## Login
- - [http://toidev.indiatimes.com](http://toidev.indiatimes.com)
- - date published: 2024-04-28T01:37:59.693772+00:00
+ - [https://toidev.indiatimes.com](https://toidev.indiatimes.com)
+ - date published: 2024-05-06T18:29:43.374993+00:00
  - user: None
  - tags: []
 
@@ -5233,13 +5233,13 @@
  - tags: ['personal']
 
 ## James Koppel
- - [https://www.jameskoppel.com](https://www.jameskoppel.com)
+ - [http://www.jameskoppel.com](http://www.jameskoppel.com)
  - date published: 2022-09-15T00:00:00+00:00
  - user: None
  - tags: []
 
 ## James Koppel
- - [http://www.jameskoppel.com](http://www.jameskoppel.com)
+ - [https://www.jameskoppel.com](https://www.jameskoppel.com)
  - date published: 2022-09-15T00:00:00+00:00
  - user: None
  - tags: []

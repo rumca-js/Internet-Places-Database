@@ -1313,14 +1313,14 @@
  - tags: ['visual studio', 'programming ide']
 
 ## Experience the Power of Windows 11 OS, Computers, & Apps
- - [https://windows.microsoft.com](https://windows.microsoft.com)
- - date published: 2024-05-06T15:57:41.934072+00:00
+ - [http://windows.microsoft.com](http://windows.microsoft.com)
+ - date published: 2024-04-29T06:42:17.408195+00:00
  - user: None
  - tags: []
 
 ## Experience the Power of Windows 11 OS, Computers, & Apps
- - [http://windows.microsoft.com](http://windows.microsoft.com)
- - date published: 2024-04-29T06:42:17.408195+00:00
+ - [https://windows.microsoft.com](https://windows.microsoft.com)
+ - date published: 2024-05-06T15:57:41.934072+00:00
  - user: None
  - tags: []
 

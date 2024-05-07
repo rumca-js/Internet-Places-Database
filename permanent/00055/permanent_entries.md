@@ -3972,14 +3972,14 @@ marginalia.nu
  - tags: ['personal']
 
 ## AnyBrowser Pages
- - [http://www.anybrowser.org](http://www.anybrowser.org)
- - date published: 2024-04-28T02:06:18.849520+00:00
+ - [https://www.anybrowser.org](https://www.anybrowser.org)
+ - date published: 2024-05-06T15:13:24.216325+00:00
  - user: None
  - tags: []
 
 ## AnyBrowser Pages
- - [https://www.anybrowser.org](https://www.anybrowser.org)
- - date published: 2024-05-06T15:13:24.216325+00:00
+ - [http://www.anybrowser.org](http://www.anybrowser.org)
+ - date published: 2024-04-28T02:06:18.849520+00:00
  - user: None
  - tags: []
 

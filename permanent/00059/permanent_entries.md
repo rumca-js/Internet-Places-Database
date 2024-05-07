@@ -3753,14 +3753,14 @@ OpenJDK Wiki
  - tags: []
 
 ## Internet & Technology Archives
- - [http://www.pewinternet.org](http://www.pewinternet.org)
- - date published: 2024-04-29T02:50:47.020319+00:00
+ - [https://www.pewinternet.org](https://www.pewinternet.org)
+ - date published: 2024-05-06T22:45:33.836073+00:00
  - user: None
  - tags: []
 
 ## Internet & Technology Archives
- - [https://www.pewinternet.org](https://www.pewinternet.org)
- - date published: 2024-05-06T22:45:33.836073+00:00
+ - [http://www.pewinternet.org](http://www.pewinternet.org)
+ - date published: 2024-04-29T02:50:47.020319+00:00
  - user: None
  - tags: []
 
