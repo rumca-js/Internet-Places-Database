@@ -340,6 +340,12 @@
  - user: None
  - tags: []
 
+## KOBU Agency - A Laboratory for Brands and Digital Experiences
+ - [https://kobu.agency](https://kobu.agency)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Paranoid.Agency
  - [https://paranoid.agency](https://paranoid.agency)
  - date published: 2024-01-09T02:23:14.014553+00:00
@@ -1030,6 +1036,12 @@
  - user: None
  - tags: []
 
+## Ermine.ai | Local Audio Transcription
+ - [https://ermine.ai](https://ermine.ai)
+ - date published: 2024-05-07T10:49:45.809768+00:00
+ - user: None
+ - tags: []
+
 ## Essential AI
  - [https://essential.ai](https://essential.ai)
  - date published: 2023-12-12T21:31:11+00:00
@@ -1279,6 +1291,30 @@
 ## Everything you need to create images with AI | getimg.ai
  - [https://getimg.ai](https://getimg.ai)
  - date published: 2023-10-25T11:39:04.550398+00:00
+ - user: None
+ - tags: []
+
+## Recall
+ - [https://app.getrecall.ai](https://app.getrecall.ai)
+ - date published: 2024-05-07T10:33:24.441584+00:00
+ - user: None
+ - tags: []
+
+## Recall Documentation
+ - [https://docs.getrecall.ai](https://docs.getrecall.ai)
+ - date published: 2024-05-07T10:33:27.377930+00:00
+ - user: None
+ - tags: []
+
+## Recall - Summarize and save any online content
+ - [https://www.getrecall.ai](https://www.getrecall.ai)
+ - date published: 2024-05-07T10:33:23.375476+00:00
+ - user: None
+ - tags: []
+
+## Revamp: Smarter Customer Segmentation for eCommerce
+ - [https://getrevamp.ai](https://getrevamp.ai)
+ - date published: 2024-04-02T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3142,6 +3178,12 @@
  - user: None
  - tags: []
 
+## Personale - Vodafone
+ - [https://www.vodafone.al](https://www.vodafone.al)
+ - date published: 2024-05-07T10:57:37.324893+00:00
+ - user: None
+ - tags: []
+
 ## Jake Weidokal
  - [https://weidok.al](https://weidok.al)
  - date published: 2024-04-03T06:31:55.800090+00:00
@@ -3201,6 +3243,12 @@
  - date published: 2024-04-11T19:49:17+00:00
  - user: rumpel
  - tags: ['web spam']
+
+## Home - CIBERSEGURANÇA
+ - [https://ciberseguranca.ao](https://ciberseguranca.ao)
+ - date published: 2024-05-07T10:20:04.969424+00:00
+ - user: None
+ - tags: []
 
 ## Serviços de TI: Cloud, Segurança, Desenvolvimento | Pixel Infinito
  - [https://pixel.ao](https://pixel.ao)
@@ -4258,6 +4306,12 @@
  - user: None
  - tags: []
 
+## Queen Of...
+ - [https://queenof.netlify.app](https://queenof.netlify.app)
+ - date published: 2024-05-07T10:28:03.838636+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: DataSheetGrid, an Airtable-like React component
  - [https://react-datasheet-grid.netlify.app](https://react-datasheet-grid.netlify.app)
  - date published: 2023-11-11T09:36:04+00:00
@@ -4690,6 +4744,12 @@
  - user: None
  - tags: []
 
+## RSS Feed Generator, Create RSS feeds from URL
+ - [https://widget.rss.app](https://widget.rss.app)
+ - date published: 2024-05-07T11:20:09.503888+00:00
+ - user: None
+ - tags: []
+
 ## Introduction | RSSHub
  - [https://docs.rsshub.app](https://docs.rsshub.app)
  - date published: 2024-01-29T18:02:25+00:00
@@ -5119,6 +5179,12 @@
 ## Barely Comunity CSS page
  - [https://css-comments.vercel.app](https://css-comments.vercel.app)
  - date published: 2024-01-09T02:23:36.958321+00:00
+ - user: None
+ - tags: []
+
+## Vite App
+ - [https://cyberpunk-crown-nicolasrannou.vercel.app](https://cyberpunk-crown-nicolasrannou.vercel.app)
+ - date published: 2024-05-07T09:35:05.716045+00:00
  - user: None
  - tags: []
 
@@ -5662,6 +5728,12 @@
  - user: None
  - tags: []
 
+## Windy.app – Live wind map & weather forecast
+ - [https://windy.app](https://windy.app)
+ - date published: 2024-05-07T10:47:52.283361+00:00
+ - user: None
+ - tags: []
+
 ## writedown - Your public and private diary
  - [https://writedown.app](https://writedown.app)
  - date published: 2023-10-25T11:51:33.426412+00:00
@@ -5722,12 +5794,6 @@
  - user: None
  - tags: []
 
-## News from Argentina and beyond – in English | Buenos Aires Times
- - [http://batimes.com.ar](http://batimes.com.ar)
- - date published: 2024-05-06T23:01:47.306920+00:00
- - user: None
- - tags: []
-
 ## News from Argentina
  - [https://www.batimes.com.ar](https://www.batimes.com.ar)
  - date published: 2023-10-25T11:01:43+00:00
@@ -5772,12 +5838,6 @@
 
 ## Pronóstico del tiempo 14 días - Meteored
  - [https://www.meteored.com.ar](https://www.meteored.com.ar)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pronóstico del tiempo 14 días - Meteored
- - [http://www.meteored.com.ar](http://www.meteored.com.ar)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
@@ -5937,64 +5997,4 @@
  - date published: 2023-10-25T11:52:36.812240+00:00
  - user: None
  - tags: []
-
-## Peter Croxon - South African Artist
- - [https://www.petercroxon.art](https://www.petercroxon.art)
- - date published: 2024-05-02T13:56:34.501885+00:00
- - user: None
- - tags: []
-
-## Pika
- - [https://pika.art](https://pika.art)
- - date published: 2024-04-30T15:43:41.264219+00:00
- - user: None
- - tags: []
-
-## Humberto Poidomani | Humberto Poidomani Art
- - [https://poidomani.art](https://poidomani.art)
- - date published: 2024-05-02T12:55:50.384903+00:00
- - user: None
- - tags: []
-
-## Procreate® – Sketch, Paint, Create.
- - [https://procreate.art](https://procreate.art)
- - date published: 2024-05-04T14:02:09.430854+00:00
- - user: None
- - tags: []
-
-## Running Dog – An online arts publication
- - [https://rundog.art](https://rundog.art)
- - date published: 2021-04-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## saba Feleke
- - [https://sabafeleke.art](https://sabafeleke.art)
- - date published: 2024-04-03T06:24:25.571383+00:00
- - user: None
- - tags: ['personal']
-
-## Stalwart Labs
- - [https://stalw.art](https://stalw.art)
- - date published: 2024-04-08T19:30:54.373072+00:00
- - user: None
- - tags: ['self-host', 'e-mail server']
-
-## teia
- - [https://teia.art](https://teia.art)
- - date published: 2024-04-30T15:43:59.640599+00:00
- - user: None
- - tags: []
-
-## Teshie F. | Hello!
- - [https://teshief.art](https://teshief.art)
- - date published: 2024-05-06T15:04:25.967385+00:00
- - user: None
- - tags: []
-
-## ThioJoe - Digital Art Portfolio
- - [https://thiojoe.art](https://thiojoe.art)
- - date published: 2024-03-02T19:56:25.310354+00:00
- - user: None
- - tags: ['youtuber']
 
