@@ -5083,13 +5083,13 @@
  - tags: []
 
 ## Fonts.com | Find, Buy & Download Best Fonts
- - [http://www.fonts.com](http://www.fonts.com)
+ - [https://www.fonts.com](https://www.fonts.com)
  - date published: 2024-03-28T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Fonts.com | Find, Buy & Download Best Fonts
- - [https://www.fonts.com](https://www.fonts.com)
+ - [http://www.fonts.com](http://www.fonts.com)
  - date published: 2024-03-28T00:00:00+00:00
  - user: None
  - tags: []

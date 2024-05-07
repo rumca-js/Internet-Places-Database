@@ -4230,13 +4230,13 @@
  - tags: ['.net', 'open source']
 
 ## ASP.NET Community Blogs
- - [https://weblogs.asp.net](https://weblogs.asp.net)
+ - [http://weblogs.asp.net](http://weblogs.asp.net)
  - date published: 2024-04-03T00:00:00+00:00
  - user: None
  - tags: []
 
 ## ASP.NET Community Blogs
- - [http://weblogs.asp.net](http://weblogs.asp.net)
+ - [https://weblogs.asp.net](https://weblogs.asp.net)
  - date published: 2024-04-03T00:00:00+00:00
  - user: None
  - tags: []

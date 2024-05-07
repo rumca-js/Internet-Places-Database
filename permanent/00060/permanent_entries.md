@@ -2345,14 +2345,14 @@
  - tags: []
 
 ## Welcome to Computers and Writing Systems
- - [http://scripts.sil.org](http://scripts.sil.org)
- - date published: 2024-05-01T05:13:15.996563+00:00
+ - [https://scripts.sil.org](https://scripts.sil.org)
+ - date published: 2024-05-06T20:49:49.131107+00:00
  - user: None
  - tags: []
 
 ## Welcome to Computers and Writing Systems
- - [https://scripts.sil.org](https://scripts.sil.org)
- - date published: 2024-05-06T20:49:49.131107+00:00
+ - [http://scripts.sil.org](http://scripts.sil.org)
+ - date published: 2024-05-01T05:13:15.996563+00:00
  - user: None
  - tags: []
 

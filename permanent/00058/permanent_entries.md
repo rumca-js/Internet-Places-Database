@@ -594,13 +594,13 @@ Welcome
  - tags: []
 
 ## JSON:API — A specification for building APIs in JSON
- - [http://jsonapi.org](http://jsonapi.org)
+ - [https://jsonapi.org](https://jsonapi.org)
  - date published: 2022-09-30T00:00:00+00:00
  - user: None
  - tags: []
 
 ## JSON:API — A specification for building APIs in JSON
- - [https://jsonapi.org](https://jsonapi.org)
+ - [http://jsonapi.org](http://jsonapi.org)
  - date published: 2022-09-30T00:00:00+00:00
  - user: None
  - tags: []
@@ -4811,17 +4811,17 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
-## Pocket | Discover, Capture and Savor Content That Fascinates You
- - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
- - date published: 2023-11-13T13:38:32+00:00
- - user: rumpel
- - tags: ['bookmark manager', 'link aggregation']
-
 ## Internet for people, not profit — Mozilla (US)
  - [https://www.mozilla.org](https://www.mozilla.org)
  - date published: 2023-10-25T09:27:30.838308+00:00
  - user: None
  - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
+
+## Pocket | Discover, Capture and Savor Content That Fascinates You
+ - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
+ - date published: 2023-11-13T13:38:32+00:00
+ - user: rumpel
+ - tags: ['bookmark manager', 'link aggregation']
 
 ## MozillaZine Knowledge Base
  - [http://kb.mozillazine.org](http://kb.mozillazine.org)
