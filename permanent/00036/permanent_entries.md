@@ -1241,13 +1241,13 @@
  - tags: []
 
 ## UofLNews
- - [http://uoflnews.com](http://uoflnews.com)
+ - [https://uoflnews.com](https://uoflnews.com)
  - date published: 2024-05-04T00:00:00+00:00
  - user: None
  - tags: []
 
 ## UofLNews
- - [https://uoflnews.com](https://uoflnews.com)
+ - [http://uoflnews.com](http://uoflnews.com)
  - date published: 2024-05-04T00:00:00+00:00
  - user: None
  - tags: []

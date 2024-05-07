@@ -5105,13 +5105,13 @@
  - tags: []
 
 ## Superhuman | Blazingly fast email for teams and individuals
- - [http://superhuman.com](http://superhuman.com)
+ - [https://superhuman.com](https://superhuman.com)
  - date published: 2024-04-30T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Superhuman | Blazingly fast email for teams and individuals
- - [https://superhuman.com](https://superhuman.com)
+ - [http://superhuman.com](http://superhuman.com)
  - date published: 2024-04-30T00:00:00+00:00
  - user: None
  - tags: []

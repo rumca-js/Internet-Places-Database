@@ -4504,14 +4504,14 @@
  - tags: ['magazine', 'amiga']
 
 ## Generative Artistry
- - [http://generativeartistry.com](http://generativeartistry.com)
- - date published: 2024-05-06T18:12:55.442610+00:00
+ - [https://generativeartistry.com](https://generativeartistry.com)
+ - date published: 2024-05-06T18:13:15.138595+00:00
  - user: None
  - tags: []
 
 ## Generative Artistry
- - [https://generativeartistry.com](https://generativeartistry.com)
- - date published: 2024-05-06T18:13:15.138595+00:00
+ - [http://generativeartistry.com](http://generativeartistry.com)
+ - date published: 2024-05-06T18:12:55.442610+00:00
  - user: None
  - tags: []
 

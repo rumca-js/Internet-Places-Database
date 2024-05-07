@@ -197,14 +197,14 @@
  - tags: []
 
 ## web.resource.org: persistence for the people
- - [https://web.resource.org](https://web.resource.org)
- - date published: 2024-05-06T22:58:34.101089+00:00
+ - [http://web.resource.org](http://web.resource.org)
+ - date published: 2024-04-29T05:15:36.731091+00:00
  - user: None
  - tags: []
 
 ## web.resource.org: persistence for the people
- - [http://web.resource.org](http://web.resource.org)
- - date published: 2024-04-29T05:15:36.731091+00:00
+ - [https://web.resource.org](https://web.resource.org)
+ - date published: 2024-05-06T22:58:34.101089+00:00
  - user: None
  - tags: []
 
@@ -5668,14 +5668,14 @@
  - tags: []
 
 ## Nonprofit Communications | Twilio.org
- - [http://twilio.org](http://twilio.org)
- - date published: 2024-05-06T20:46:17.554951+00:00
+ - [https://twilio.org](https://twilio.org)
+ - date published: 2024-05-06T20:46:28.931377+00:00
  - user: None
  - tags: []
 
 ## Nonprofit Communications | Twilio.org
- - [https://twilio.org](https://twilio.org)
- - date published: 2024-05-06T20:46:28.931377+00:00
+ - [http://twilio.org](http://twilio.org)
+ - date published: 2024-05-06T20:46:17.554951+00:00
  - user: None
  - tags: []
 

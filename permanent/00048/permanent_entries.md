@@ -4044,14 +4044,14 @@
  - tags: []
 
 ## while my_mcmc:  gently(samples) -
- - [https://twiecki.github.io](https://twiecki.github.io)
- - date published: 2024-05-06T21:48:51.284909+00:00
+ - [http://twiecki.github.io](http://twiecki.github.io)
+ - date published: 2024-05-06T21:48:43.399091+00:00
  - user: None
  - tags: []
 
 ## while my_mcmc:  gently(samples) -
- - [http://twiecki.github.io](http://twiecki.github.io)
- - date published: 2024-05-06T21:48:43.399091+00:00
+ - [https://twiecki.github.io](https://twiecki.github.io)
+ - date published: 2024-05-06T21:48:51.284909+00:00
  - user: None
  - tags: []
 

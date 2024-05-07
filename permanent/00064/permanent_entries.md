@@ -269,14 +269,14 @@
  - tags: []
 
 ## Smart Links for Music Marketing, Podcasts and Artist Promotion | Linkfire
- - [http://udiscover.lnk.to](http://udiscover.lnk.to)
- - date published: 2024-05-06T21:10:37.443940+00:00
+ - [https://udiscover.lnk.to](https://udiscover.lnk.to)
+ - date published: 2024-05-06T21:10:59.588979+00:00
  - user: None
  - tags: []
 
 ## Smart Links for Music Marketing, Podcasts and Artist Promotion | Linkfire
- - [https://udiscover.lnk.to](https://udiscover.lnk.to)
- - date published: 2024-05-06T21:10:59.588979+00:00
+ - [http://udiscover.lnk.to](http://udiscover.lnk.to)
+ - date published: 2024-05-06T21:10:37.443940+00:00
  - user: None
  - tags: []
 

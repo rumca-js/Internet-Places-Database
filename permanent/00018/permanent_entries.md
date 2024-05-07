@@ -5233,13 +5233,13 @@
  - tags: ['personal']
 
 ## James Koppel
- - [https://www.jameskoppel.com](https://www.jameskoppel.com)
+ - [http://www.jameskoppel.com](http://www.jameskoppel.com)
  - date published: 2022-09-15T00:00:00+00:00
  - user: None
  - tags: []
 
 ## James Koppel
- - [http://www.jameskoppel.com](http://www.jameskoppel.com)
+ - [https://www.jameskoppel.com](https://www.jameskoppel.com)
  - date published: 2022-09-15T00:00:00+00:00
  - user: None
  - tags: []

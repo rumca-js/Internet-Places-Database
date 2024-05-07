@@ -4190,13 +4190,13 @@
  - tags: []
 
 ## Turok: Dinosaur Hunter Forums!
- - [https://www.turokforums.com](https://www.turokforums.com)
+ - [http://www.turokforums.com](http://www.turokforums.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Turok: Dinosaur Hunter Forums!
- - [http://www.turokforums.com](http://www.turokforums.com)
+ - [https://www.turokforums.com](https://www.turokforums.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
@@ -4426,14 +4426,14 @@
  - tags: []
 
 ## Communication APIs for SMS, Voice, Video & Authentication | Twilio
- - [https://twilio.com](https://twilio.com)
- - date published: 2024-05-06T12:58:13.038135+00:00
+ - [http://twilio.com](http://twilio.com)
+ - date published: 2024-04-29T03:46:32.510937+00:00
  - user: None
  - tags: []
 
 ## Communication APIs for SMS, Voice, Video & Authentication | Twilio
- - [http://twilio.com](http://twilio.com)
- - date published: 2024-04-29T03:46:32.510937+00:00
+ - [https://twilio.com](https://twilio.com)
+ - date published: 2024-05-06T12:58:13.038135+00:00
  - user: None
  - tags: []
 
