@@ -1,3 +1,39 @@
+## AI Ethics
+ - [https://ai-ethics.com](https://ai-ethics.com)
+ - date published: 2024-05-01T07:59:26.148767+00:00
+ - user: None
+ - tags: []
+
+## Aigarius Blog
+ - [https://aigarius.com](https://aigarius.com)
+ - date published: 2023-10-25T12:35:44.607811+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [http://www.aigen-im.com](http://www.aigen-im.com)
+ - date published: 2024-05-04T15:44:27.861513+00:00
+ - user: None
+ - tags: []
+
+## AI Hardware & Edge AI Summit  2024
+ - [https://www.aihwedgesummit.com](https://www.aihwedgesummit.com)
+ - date published: 2023-03-01T15:08:00+00:00
+ - user: None
+ - tags: []
+
+## Home of AI and Artificial Intelligence News | AI Magazine
+ - [https://aimagazine.com](https://aimagazine.com)
+ - date published: 2023-10-25T12:35:55.774152+00:00
+ - user: None
+ - tags: []
+
+## AI Minds Newsletter
+ - [https://www.aiminds.com](https://www.aiminds.com)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## $10M AI Mathematical Olympiad Prize
  - [https://aimoprize.com](https://aimoprize.com)
  - date published: 2023-11-27T12:25:06+00:00
@@ -5961,40 +5997,4 @@
  - date published: 2024-02-24T18:21:15.213425+00:00
  - user: None
  - tags: []
-
-## Arcem Tene
- - [https://www.arcemtene.com](https://www.arcemtene.com)
- - date published: 2024-05-07T09:30:38.220926+00:00
- - user: None
- - tags: []
-
-## Nevada Division of Minerals Open Data Site
- - [https://data-ndom.opendata.arcgis.com](https://data-ndom.opendata.arcgis.com)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## ArcGIS
- - [https://doc.arcgis.com](https://doc.arcgis.com)
- - date published: 2024-05-01T06:25:25.712443+00:00
- - user: None
- - tags: []
-
-## ArcGIS Maps SDK for JavaScript | Overview | ArcGIS Maps SDK for JavaScript 4.29 | ArcGIS Developers
- - [https://js.arcgis.com](https://js.arcgis.com)
- - date published: 2024-05-02T09:44:05.259044+00:00
- - user: None
- - tags: []
-
-## ArcGIS StoryMaps
- - [https://storymaps.arcgis.com](https://storymaps.arcgis.com)
- - date published: 2023-10-25T12:44:06.277153+00:00
- - user: None
- - tags: ['geoinformatics']
-
-## https://www.arcgis.com
- - [https://www.arcgis.com](https://www.arcgis.com)
- - date published: 2023-10-25T12:44:07.188072+00:00
- - user: None
- - tags: ['service maps']
 

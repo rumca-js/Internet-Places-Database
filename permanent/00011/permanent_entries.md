@@ -1,3 +1,105 @@
+## Home
+ - [https://www.defensehere.com](https://www.defensehere.com)
+ - date published: 2022-01-12T15:32:07+00:00
+ - user: None
+ - tags: []
+
+## 100 Most Influential | Defense News, News about defense programs, business, and technology
+ - [https://people.defensenews.com](https://people.defensenews.com)
+ - date published: 2024-04-05T18:56:04.180759+00:00
+ - user: None
+ - tags: []
+
+## Defense News, Covering the politics, business and technology of defense | Defense News
+ - [https://www.defensenews.com](https://www.defensenews.com)
+ - date published: 2023-10-31T05:18:09.856934+00:00
+ - user: None
+ - tags: ['military news']
+
+## Defense One
+ - [https://www.defenseone.com](https://www.defenseone.com)
+ - date published: 2023-10-25T13:48:12.931984+00:00
+ - user: None
+ - tags: []
+
+## Defense Opinion Homepage - Defense Opinion
+ - [https://defenseopinion.com](https://defenseopinion.com)
+ - date published: 2024-04-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DefenseScoop | Breaking US Military Tech News, Modern Defense News
+ - [https://defensescoop.com](https://defensescoop.com)
+ - date published: 2023-10-25T13:48:19.117494+00:00
+ - user: None
+ - tags: []
+
+## Defense Tech Week 2024
+ - [https://defensetechweek.com](https://defensetechweek.com)
+ - date published: 2024-05-01T03:25:48.092436+00:00
+ - user: None
+ - tags: []
+
+## Defense & Security Web TV
+ - [https://www.defensewebtv.com](https://www.defensewebtv.com)
+ - date published: 2024-05-06T16:35:08.280921+00:00
+ - user: None
+ - tags: []
+
+## Defiant America – Home Page
+ - [https://defiantamerica.com](https://defiantamerica.com)
+ - date published: 2023-10-25T13:48:23.084019+00:00
+ - user: None
+ - tags: []
+
+## DefiLlama
+ - [https://defillama.com](https://defillama.com)
+ - date published: 2024-04-30T06:30:27.553409+00:00
+ - user: None
+ - tags: []
+
+## Definitive Technology™ - High Tech Speakers & Audio Systems
+ - [https://www.definitivetechnology.com](https://www.definitivetechnology.com)
+ - date published: 2024-05-04T14:33:30.166100+00:00
+ - user: None
+ - tags: []
+
+## Defonic - a fabulous ambient noise generator
+ - [https://defonic.com](https://defonic.com)
+ - date published: 2024-05-06T20:18:09.960217+00:00
+ - user: None
+ - tags: []
+
+## Defy TV
+ - [https://www.defytvnet.com](https://www.defytvnet.com)
+ - date published: 2024-05-04T10:12:53.590470+00:00
+ - user: None
+ - tags: []
+
+## Home - Radiant Life Counselling
+ - [https://www.deganwalters.com](https://www.deganwalters.com)
+ - date published: 2022-12-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Degenerate Conic
+ - [https://degenerateconic.com](https://degenerateconic.com)
+ - date published: 2023-10-25T13:48:30.999460+00:00
+ - user: None
+ - tags: []
+
+## Degoo Cloud
+ - [https://degoo.com](https://degoo.com)
+ - date published: 2024-05-01T06:31:45.511630+00:00
+ - user: None
+ - tags: []
+
+## Degrees What?
+ - [https://degreeswhat.com](https://degreeswhat.com)
+ - date published: 2023-10-25T13:48:31.539045+00:00
+ - user: None
+ - tags: []
+
 ## De Gruyter
  - [https://www.degruyter.com](https://www.degruyter.com)
  - date published: 2024-03-03T23:24:53.753850+00:00
@@ -697,6 +799,12 @@
 ## Vintage Computing
  - [https://deramp.com](https://deramp.com)
  - date published: 2024-01-01T18:26:34+00:00
+ - user: None
+ - tags: []
+
+## Derby City Weekend
+ - [https://www.derbycityweekend.com](https://www.derbycityweekend.com)
+ - date published: 2024-05-07T12:48:25.372906+00:00
  - user: None
  - tags: []
 
@@ -1808,7 +1916,7 @@
  - [https://www.diablotavern.com](https://www.diablotavern.com)
  - date published: 2024-05-07T11:17:14.101609+00:00
  - user: None
- - tags: []
+ - tags: ['diablo']
 
 ## Diabotical
  - [https://www.diabotical.com](https://www.diabotical.com)
@@ -2800,6 +2908,12 @@
  - user: None
  - tags: []
 
+## Discovery Channel
+ - [https://discovery.com](https://discovery.com)
+ - date published: 2024-05-07T12:49:31.969904+00:00
+ - user: None
+ - tags: []
+
 ## Careers at Warner Bros. Discovery
  - [https://jobs.discovery.com](https://jobs.discovery.com)
  - date published: 2024-04-08T00:00:00+00:00
@@ -2809,6 +2923,24 @@
 ## Warner Bros Discovery Poland
  - [https://www.discovery.com](https://www.discovery.com)
  - date published: 2023-10-25T13:53:22.941587+00:00
+ - user: None
+ - tags: []
+
+## Notification
+ - [http://www.discoveryfamilychannel.com](http://www.discoveryfamilychannel.com)
+ - date published: 2024-05-07T12:49:26.341256+00:00
+ - user: None
+ - tags: []
+
+## discovery+
+ - [https://discoveryplus.com](https://discoveryplus.com)
+ - date published: 2024-05-07T12:49:07.766139+00:00
+ - user: None
+ - tags: []
+
+## discovery+
+ - [https://www.discoveryplus.com](https://www.discoveryplus.com)
+ - date published: 2024-05-07T12:48:57.156873+00:00
  - user: None
  - tags: []
 
@@ -5865,138 +5997,6 @@
 ## Consulting with David R. MacIver
  - [https://consulting.drmaciver.com](https://consulting.drmaciver.com)
  - date published: 2024-05-01T07:47:12.692679+00:00
- - user: None
- - tags: []
-
-## David R. MacIver
- - [https://drmaciver.com](https://drmaciver.com)
- - date published: 2024-05-01T07:47:15.318420+00:00
- - user: None
- - tags: ['personal']
-
-## Thoughts from David R. MacIver
- - [https://notebook.drmaciver.com](https://notebook.drmaciver.com)
- - date published: 2024-02-08T22:19:25.831862+00:00
- - user: None
- - tags: []
-
-## David R. MacIver
- - [https://www.drmaciver.com](https://www.drmaciver.com)
- - date published: 2024-01-31T17:45:45.567034+00:00
- - user: None
- - tags: []
-
-## Dr.Mani - Writing From The Heart
- - [https://drmani.com](https://drmani.com)
- - date published: 2024-04-03T12:44:44.353945+00:00
- - user: None
- - tags: ['personal']
-
-## Dr.Mani - Author. Heart Surgeon. Fund Raiser.
- - [https://www.drmani.com](https://www.drmani.com)
- - date published: 2023-12-20T11:46:05.266048+00:00
- - user: None
- - tags: ['personal']
-
-## Dr. Mindy Pelz
- - [https://drmindypelz.com](https://drmindypelz.com)
- - date published: 2024-03-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## DRMTLGY - Medical Grade Skin Care | Official Site
- - [https://www.drmtlgy.com](https://www.drmtlgy.com)
- - date published: 2024-04-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## DrNegri.com
- - [https://drnegri.com](https://drnegri.com)
- - date published: 2024-05-06T16:49:20.469142+00:00
- - user: None
- - tags: []
-
-## Vadim Drobinin: iOS consultant and software engineer
- - [https://drobinin.com](https://drobinin.com)
- - date published: 2024-01-14T17:10:41.162993+00:00
- - user: None
- - tags: []
-
-## drodigger
- - [https://www.drodigger.com](https://www.drodigger.com)
- - date published: 2024-05-01T04:29:26.294452+00:00
- - user: None
- - tags: []
-
-## drodol
- - [https://blog.drodol.com](https://blog.drodol.com)
- - date published: 2024-01-10T22:41:34.790474+00:00
- - user: None
- - tags: []
-
-## droidcon Academy | Home
- - [https://academy.droidcon.com](https://academy.droidcon.com)
- - date published: 2024-05-07T09:28:40.211999+00:00
- - user: None
- - tags: []
-
-## Home - San Francisco
- - [https://sf.droidcon.com](https://sf.droidcon.com)
- - date published: 2024-04-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Android Community on a Global Scale - droidcon
- - [https://www.droidcon.com](https://www.droidcon.com)
- - date published: 2024-03-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Droid Life
- - [https://www.droid-life.com](https://www.droid-life.com)
- - date published: 2024-04-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Reality Capture | Drone Mapping Software | Photo Documentation
- - [https://www.dronedeploy.com](https://www.dronedeploy.com)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## DroneDJ
- - [https://dronedj.com](https://dronedj.com)
- - date published: 2024-04-10T07:04:59.468457+00:00
- - user: None
- - tags: ['music news']
-
-## Drone Autonomy Sofware Platform for DJI Dock, Drones & UAVs
- - [https://droneharmony.com](https://droneharmony.com)
- - date published: 2024-05-04T06:26:42.188007+00:00
- - user: None
- - tags: []
-
-## Work in Progress | Dropbox Blog
- - [https://blog.dropbox.com](https://blog.dropbox.com)
- - date published: 2023-10-25T13:58:59.007997+00:00
- - user: None
- - tags: []
-
-## Work in Progress: by Dropbox
- - [https://blogs.dropbox.com](https://blogs.dropbox.com)
- - date published: 2024-05-01T07:47:33.208160+00:00
- - user: None
- - tags: []
-
-## Cookies & CCPA Preferences - Dropbox
- - [https://consent.dropbox.com](https://consent.dropbox.com)
- - date published: 2022-09-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dropbox Dash: AI-Powered Universal Search
- - [https://dash.dropbox.com](https://dash.dropbox.com)
- - date published: 2024-04-30T00:00:00+00:00
  - user: None
  - tags: []
 

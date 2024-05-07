@@ -1,3 +1,273 @@
+## Pirate Wires 1
+ - [https://get.piratewires.com](https://get.piratewires.com)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Pirate Wires | Technology, Politics, Culture
+ - [https://piratewires.com](https://piratewires.com)
+ - date published: 2024-03-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Pirate Wires | Mike Solana | Substack
+ - [https://www.piratewires.com](https://www.piratewires.com)
+ - date published: 2023-10-25T16:35:27.813777+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Pistol Shrimp Games - Pistol Shrimp
+ - [https://pistolshrimpgames.com](https://pistolshrimpgames.com)
+ - date published: 2022-11-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Pistol Slut
+ - [http://pistolslut.com](http://pistolslut.com)
+ - date published: 2024-05-04T14:33:02.096537+00:00
+ - user: None
+ - tags: []
+
+## Howdy, 👋 I'm Artur. - Artur Piszek
+ - [https://piszek.com](https://piszek.com)
+ - date published: 2024-01-13T18:25:47.745319+00:00
+ - user: None
+ - tags: []
+
+## Deliberate Internet | Artur Piszek | Substack
+ - [https://substack.piszek.com](https://substack.piszek.com)
+ - date published: 2023-10-25T09:40:36.995406+00:00
+ - user: None
+ - tags: ['substack']
+
+## Accueil
+ - [http://pitas.com](http://pitas.com)
+ - date published: 2024-04-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Presentation software for fast-moving teams | Pitch
+ - [https://pitch.com](https://pitch.com)
+ - date published: 2024-05-06T14:17:22.991290+00:00
+ - user: None
+ - tags: []
+
+## https://pitchbook.com
+ - [https://pitchbook.com](https://pitchbook.com)
+ - date published: 2023-12-21T11:30:09.495450+00:00
+ - user: None
+ - tags: []
+
+## Pitchfork | The Most Trusted Voice in Music. | Pitchfork
+ - [https://pitchfork.com](https://pitchfork.com)
+ - date published: 2023-10-25T16:35:30.986705+00:00
+ - user: None
+ - tags: []
+
+## Pitchfork
+ - [https://www.pitchfork.com](https://www.pitchfork.com)
+ - date published: 2024-05-06T23:19:36.006774+00:00
+ - user: None
+ - tags: []
+
+## Pitchfork Music Festival 2024
+ - [https://pitchforkmusicfestival.com](https://pitchforkmusicfestival.com)
+ - date published: 2024-05-06T23:19:38.927366+00:00
+ - user: None
+ - tags: []
+
+## Home - PiunikaWeb
+ - [https://piunikaweb.com](https://piunikaweb.com)
+ - date published: 2023-10-25T16:35:36.299294+00:00
+ - user: None
+ - tags: []
+
+## Agile Project Management
+ - [https://www.pivotaltracker.com](https://www.pivotaltracker.com)
+ - date published: 2024-05-01T06:46:08.697043+00:00
+ - user: None
+ - tags: []
+
+## Loading...
+ - [https://fitchconnect.piwikpro.com](https://fitchconnect.piwikpro.com)
+ - date published: 2024-05-04T06:13:47.030130+00:00
+ - user: None
+ - tags: []
+
+## Access Restricted
+ - [https://pix11.com](https://pix11.com)
+ - date published: 2023-11-17T21:44:28.337836+00:00
+ - user: None
+ - tags: []
+
+## https://pixabay.com
+ - [https://pixabay.com](https://pixabay.com)
+ - date published: 2023-10-25T11:35:36.504703+00:00
+ - user: None
+ - tags: ['assets images']
+
+## Pixalate - Ad Fraud Protection, Privacy, and Compliance Platform (CTV)
+ - [https://www.pixalate.com](https://www.pixalate.com)
+ - date published: 2024-05-06T17:58:15.364708+00:00
+ - user: None
+ - tags: []
+
+## Feminine WordPress Themes | Web Design + Development
+ - [https://pixandhue.com](https://pixandhue.com)
+ - date published: 2024-05-01T03:35:06.804740+00:00
+ - user: None
+ - tags: []
+
+## Pixar Graphics Technologies
+ - [http://graphics.pixar.com](http://graphics.pixar.com)
+ - date published: 2024-05-06T23:19:52.192115+00:00
+ - user: None
+ - tags: []
+
+## Pixar Animation Studios
+ - [https://www.pixar.com](https://www.pixar.com)
+ - date published: 2023-11-01T09:04:42.688240+00:00
+ - user: None
+ - tags: ['movie studio', 'company']
+
+## Home - Pixel Duke
+ - [https://pixelduke.com](https://pixelduke.com)
+ - date published: 2024-05-06T09:07:12.387797+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pixel Empire - Where Pop Culture & Design Unite!
+ - [https://www.pixelempire.com](https://www.pixelempire.com)
+ - date published: 2023-12-01T11:39:33+00:00
+ - user: rumpel
+ - tags: ['artists', 'designers', 'merch']
+
+## Home
+ - [https://pixeljets.com](https://pixeljets.com)
+ - date published: 2024-04-13T12:36:41.261005+00:00
+ - user: None
+ - tags: ['personal', 'devlog']
+
+## Pixelmator Pro
+ - [https://www.pixelmator.com](https://www.pixelmator.com)
+ - date published: 2023-10-25T16:35:38.965595+00:00
+ - user: None
+ - tags: []
+
+## Pixel Parmesan
+ - [https://pixelparmesan.com](https://pixelparmesan.com)
+ - date published: 2023-10-25T16:35:39.844868+00:00
+ - user: None
+ - tags: []
+
+## Pixel Poppers
+ - [https://pixelpoppers.com](https://pixelpoppers.com)
+ - date published: 2024-01-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Work - Pixelresort
+ - [https://www.pixelresort.com](https://www.pixelresort.com)
+ - date published: 2022-08-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Outdoor Life
+ - [https://outdoorlife.pixels.com](https://outdoorlife.pixels.com)
+ - date published: 2024-05-06T22:15:34.578912+00:00
+ - user: None
+ - tags: []
+
+## Photography Course – Just another WordPress site
+ - [https://kadence.pixel-show.com](https://kadence.pixel-show.com)
+ - date published: 2024-04-28T04:40:26.186318+00:00
+ - user: None
+ - tags: []
+
+## Pixelthumb
+ - [https://www.pixelthumb.com](https://www.pixelthumb.com)
+ - date published: 2024-02-08T18:06:43.240079+00:00
+ - user: None
+ - tags: []
+
+## PixelVJ - Web Design, Branding, Digital and UI/UX Agency in India
+ - [https://www.pixelvj.com](https://www.pixelvj.com)
+ - date published: 2024-05-06T22:01:15.757952+00:00
+ - user: None
+ - tags: []
+
+## PixieBrix
+ - [https://app.pixiebrix.com](https://app.pixiebrix.com)
+ - date published: 2024-05-06T23:25:26.006878+00:00
+ - user: None
+ - tags: []
+
+## Welcome to PixieBrix! | PixieBrix Docs
+ - [https://docs.pixiebrix.com](https://docs.pixiebrix.com)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## PixieBrix: Rapidly create custom browser mods
+ - [https://media.pixiebrix.com](https://media.pixiebrix.com)
+ - date published: 2024-05-06T23:25:39.891355+00:00
+ - user: None
+ - tags: []
+
+## Join PixieBrix Community on Slack
+ - [https://slack.pixiebrix.com](https://slack.pixiebrix.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## PixieBrix: Rapidly create custom browser mods
+ - [https://www.pixiebrix.com](https://www.pixiebrix.com)
+ - date published: 2024-01-09T02:46:35.335874+00:00
+ - user: None
+ - tags: []
+
+## PixiJS | The HTML5 Creation Engine | PixiJS
+ - [https://pixijs.com](https://pixijs.com)
+ - date published: 2024-04-28T05:58:50.997312+00:00
+ - user: None
+ - tags: []
+
+## Boostez votre business
+ - [https://piximedia.com](https://piximedia.com)
+ - date published: 2024-05-06T17:48:59.201442+00:00
+ - user: None
+ - tags: []
+
+## Pixletters - Word Guessing Game
+ - [https://pixletters.com](https://pixletters.com)
+ - date published: 2023-10-25T16:35:51.500364+00:00
+ - user: None
+ - tags: []
+
+## Latest global news covering life, work, business, politics, analysis
+ - [https://pixlnews.com](https://pixlnews.com)
+ - date published: 2024-01-07T18:26:18.452458+00:00
+ - user: None
+ - tags: []
+
+## PixlParade - Infographics, Reddit, Art, Polls, Pop Culture & More
+ - [https://pixlparade.com](https://pixlparade.com)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Pix’n Love - Pix'n Love
+ - [http://www.pixnlovepublishing.com](http://www.pixnlovepublishing.com)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## PixSylated
+ - [https://pixsylated.com](https://pixsylated.com)
+ - date published: 2024-02-08T22:51:20.992345+00:00
+ - user: None
+ - tags: []
+
 ## Pepperjam's Ascend Affiliate Platform
  - [https://www.pjatr.com](https://www.pjatr.com)
  - date published: 2024-05-06T16:33:57.010816+00:00
@@ -3698,14 +3968,14 @@
  - tags: []
 
 ## Privateer Press
- - [https://community.privateerpress.com](https://community.privateerpress.com)
- - date published: 2024-05-07T09:27:15.541035+00:00
+ - [http://community.privateerpress.com](http://community.privateerpress.com)
+ - date published: 2024-05-07T09:27:11.434080+00:00
  - user: None
  - tags: []
 
 ## Privateer Press
- - [http://community.privateerpress.com](http://community.privateerpress.com)
- - date published: 2024-05-07T09:27:11.434080+00:00
+ - [https://community.privateerpress.com](https://community.privateerpress.com)
+ - date published: 2024-05-07T09:27:15.541035+00:00
  - user: None
  - tags: []
 
@@ -4052,14 +4322,14 @@
  - tags: []
 
 ## The Program audio series
- - [http://store.programaudioseries.com](http://store.programaudioseries.com)
- - date published: 2024-05-07T09:31:16.776245+00:00
+ - [https://store.programaudioseries.com](https://store.programaudioseries.com)
+ - date published: 2024-05-07T09:31:19.353519+00:00
  - user: None
  - tags: []
 
 ## The Program audio series
- - [https://store.programaudioseries.com](https://store.programaudioseries.com)
- - date published: 2024-05-07T09:31:19.353519+00:00
+ - [http://store.programaudioseries.com](http://store.programaudioseries.com)
+ - date published: 2024-05-07T09:31:16.776245+00:00
  - user: None
  - tags: []
 
@@ -4094,16 +4364,16 @@
  - tags: []
 
 ## Programming, Motherfucker - Do you speak it?
- - [http://programming-motherfucker.com](http://programming-motherfucker.com)
- - date published: 2024-02-25T08:38:03+00:00
- - user: rumpel
- - tags: ['funny', 'wtf']
-
-## Programming, Motherfucker - Do you speak it?
  - [https://programming-motherfucker.com](https://programming-motherfucker.com)
  - date published: 2024-05-07T09:31:34.721003+00:00
  - user: None
  - tags: ['programming', 'funny']
+
+## Programming, Motherfucker - Do you speak it?
+ - [http://programming-motherfucker.com](http://programming-motherfucker.com)
+ - date published: 2024-02-25T08:38:03+00:00
+ - user: rumpel
+ - tags: ['funny', 'wtf']
 
 ## Programming With Style
  - [https://programmingwithstyle.com](https://programmingwithstyle.com)
@@ -5728,276 +5998,6 @@
 ## PyImageSearch - You can master Computer Vision, Deep Learning, and OpenCV.
  - [https://pyimagesearch.com](https://pyimagesearch.com)
  - date published: 2024-04-28T06:08:49.781115+00:00
- - user: None
- - tags: []
-
-## PyImageSearch - You can master Computer Vision, Deep Learning, and OpenCV.
- - [https://www.pyimagesearch.com](https://www.pyimagesearch.com)
- - date published: 2024-05-06T06:38:21.330665+00:00
- - user: None
- - tags: []
-
-## Redirecting to: /en/3.x/
- - [https://docs.pyinfra.com](https://docs.pyinfra.com)
- - date published: 2024-05-07T09:48:55.707544+00:00
- - user: None
- - tags: []
-
-## pyinfra automates infrastructure super fast at massive scale
- - [https://pyinfra.com](https://pyinfra.com)
- - date published: 2023-10-25T16:42:47.538903+00:00
- - user: None
- - tags: []
-
-## Medusa
- - [https://pymedusa.com](https://pymedusa.com)
- - date published: 2024-04-08T19:30:28.997710+00:00
- - user: None
- - tags: ['video library manager', 'self-host']
-
-## Pymnts Charts
- - [https://charts.pymnts.com](https://charts.pymnts.com)
- - date published: 2024-05-07T09:48:59.613847+00:00
- - user: None
- - tags: []
-
-## JW OTT Webapp
- - [https://tv.pymnts.com](https://tv.pymnts.com)
- - date published: 2024-05-07T09:49:03.099209+00:00
- - user: None
- - tags: []
-
-## Pymnts.com
- - [https://www.pymnts.com](https://www.pymnts.com)
- - date published: 2023-10-25T16:42:52.300386+00:00
- - user: None
- - tags: []
-
-## Attention Required! | Cloudflare
- - [https://careers.pypl.com](https://careers.pypl.com)
- - date published: 2024-05-06T22:46:25.611855+00:00
- - user: None
- - tags: []
-
-## Pyrae Policy Engine | Pyrae Policy Engine
- - [https://pyrae.com](https://pyrae.com)
- - date published: 2024-05-04T07:02:19.079473+00:00
- - user: None
- - tags: []
-
-## The Project - PySimpleGUI Documentation
- - [https://docs.pysimplegui.com](https://docs.pysimplegui.com)
- - date published: 2024-02-14T15:25:27.937708+00:00
- - user: None
- - tags: ['python']
-
-## PySimpleGUI
- - [https://home.pysimplegui.com](https://home.pysimplegui.com)
- - date published: 2024-04-30T08:11:23.383165+00:00
- - user: None
- - tags: []
-
-## PySimpleGUI
- - [https://pysimplegui.com](https://pysimplegui.com)
- - date published: 2024-04-30T10:07:39+00:00
- - user: rumpel
- - tags: ['programming library', 'monetization', 'python']
-
-## PySimpleGUI
- - [https://www.pysimplegui.com](https://www.pysimplegui.com)
- - date published: 2024-04-30T08:11:24.940651+00:00
- - user: None
- - tags: []
-
-## The PythonAnywhere help pages
- - [https://help.pythonanywhere.com](https://help.pythonanywhere.com)
- - date published: 2015-05-13T13:35:28+00:00
- - user: None
- - tags: []
-
-## Host, run, and code Python in the cloud: PythonAnywhere
- - [https://www.pythonanywhere.com](https://www.pythonanywhere.com)
- - date published: 2024-05-01T07:14:22.063588+00:00
- - user: None
- - tags: []
-
-## Python for Engineers
- - [https://new.pythonforengineers.com](https://new.pythonforengineers.com)
- - date published: 2023-10-25T16:42:53.338256+00:00
- - user: None
- - tags: []
-
-## Python Graph Gallery | The Python Graph Gallery
- - [https://python-graph-gallery.com](https://python-graph-gallery.com)
- - date published: 2024-04-16T12:37:20.236899+00:00
- - user: None
- - tags: ['programming', 'code snippets', 'python']
-
-## Your Account
- - [https://account.pythonguis.com](https://account.pythonguis.com)
- - date published: 2024-04-29T09:59:56.822539+00:00
- - user: None
- - tags: []
-
-## Python GUIs Forum
- - [https://forum.pythonguis.com](https://forum.pythonguis.com)
- - date published: 2024-04-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Python GUIs – Create GUI applications with Python and Qt
- - [https://www.pythonguis.com](https://www.pythonguis.com)
- - date published: 2023-10-25T16:42:55.356281+00:00
- - user: None
- - tags: ['pyqt', 'python']
-
-## Python is Love
- - [https://pythonislove.com](https://pythonislove.com)
- - date published: 2023-10-25T16:42:58.111053+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://www.pythonjobshq.com](https://www.pythonjobshq.com)
- - date published: 2024-04-30T12:10:56.700613+00:00
- - user: None
- - tags: []
-
-## Python Morsels: write better Python code
- - [https://www.pythonmorsels.com](https://www.pythonmorsels.com)
- - date published: 2024-03-20T04:10:12.122914+00:00
- - user: None
- - tags: ['programming', 'python']
-
-## The Python Podcast.__init__
- - [https://www.pythonpodcast.com](https://www.pythonpodcast.com)
- - date published: 2024-05-02T13:47:49.733265+00:00
- - user: None
- - tags: []
-
-## The Python Show | Mike Driscoll | Substack
- - [https://www.pythonshow.com](https://www.pythonshow.com)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Python Simplified - Learn Bit by Bit
- - [https://pythonsimplified.com](https://pythonsimplified.com)
- - date published: 2017-08-09T10:09:38+00:00
- - user: None
- - tags: []
-
-## Write faster Python code, and ship your code faster
- - [https://pythonspeed.com](https://pythonspeed.com)
- - date published: 2023-10-25T16:42:59.186784+00:00
- - user: None
- - tags: ['python']
-
-## Test and Code
- - [https://courses.pythontest.com](https://courses.pythontest.com)
- - date published: 2024-04-29T09:16:01.444031+00:00
- - user: None
- - tags: []
-
-## Python Test
- - [https://podcast.pythontest.com](https://podcast.pythontest.com)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## pythontest.com
- - [https://pythontest.com](https://pythontest.com)
- - date published: 2023-10-25T16:43:00.662988+00:00
- - user: None
- - tags: ['pytest', 'testing framework', 'python']
-
-## Online Python Tutor - visualize, debug, get AI help for Python, Java, C, C++, and JavaScript
- - [http://pythontutor.com](http://pythontutor.com)
- - date published: 2024-04-28T03:13:38.268628+00:00
- - user: None
- - tags: []
-
-## Python Web Conference 2023
- - [https://2023.pythonwebconf.com](https://2023.pythonwebconf.com)
- - date published: 2023-10-25T16:43:04.177641+00:00
- - user: None
- - tags: []
-
-## Python Wheels
- - [https://pythonwheels.com](https://pythonwheels.com)
- - date published: 2023-10-25T16:43:05.526351+00:00
- - user: None
- - tags: ['python']
-
-## PyVibe: Easily create styled web pages with Python
- - [https://www.pyvibe.com](https://www.pyvibe.com)
- - date published: 2023-10-25T16:43:06.793558+00:00
- - user: None
- - tags: []
-
-## Piotr Zakrzewski on Data
- - [https://blog.pzakrzewski.com](https://blog.pzakrzewski.com)
- - date published: 2023-11-21T09:09:37.768225+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [https://s21.q4cdn.com](https://s21.q4cdn.com)
- - date published: 2023-10-25T16:43:17.531271+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [https://s25.q4cdn.com](https://s25.q4cdn.com)
- - date published: 2023-10-25T16:43:18.100869+00:00
- - user: None
- - tags: []
-
-## Attention Required! | Cloudflare
- - [https://johnwiley2020news.q4web.com](https://johnwiley2020news.q4web.com)
- - date published: 2024-02-26T18:18:20.325972+00:00
- - user: None
- - tags: []
-
-## Qamcom - Unity of Technology Experts
- - [https://www.qamcom.com](https://www.qamcom.com)
- - date published: 2024-03-20T20:23:12.190601+00:00
- - user: None
- - tags: []
-
-## https://blog.qartis.com
- - [https://blog.qartis.com](https://blog.qartis.com)
- - date published: 2024-01-09T02:47:21.129786+00:00
- - user: None
- - tags: []
-
-## Qbix Community - Great place for talking about the Qbix Platform
- - [https://community.qbix.com](https://community.qbix.com)
- - date published: 2023-10-25T16:43:21.345237+00:00
- - user: None
- - tags: []
-
-## QCon London 2024 | April 8 - 10 | Software Development Conference
- - [https://qconlondon.com](https://qconlondon.com)
- - date published: 2024-04-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Qt Plotting Widget QCustomPlot - Introduction
- - [https://www.qcustomplot.com](https://www.qcustomplot.com)
- - date published: 2024-04-29T09:54:37+00:00
- - user: rumpel
- - tags: ['qt', 'programming library']
-
-## qdorks.com: Easy Advanced Google Query Composer
- - [https://qdorks.com](https://qdorks.com)
- - date published: 2023-12-01T10:46:29.576983+00:00
- - user: None
- - tags: []
-
-## QDragon :: Unique scripts for online entertainment
- - [https://www.qdragon.com](https://www.qdragon.com)
- - date published: 2024-04-30T07:27:23.747712+00:00
  - user: None
  - tags: []
 

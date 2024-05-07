@@ -1,3 +1,657 @@
+## Sydsjællands havedamscenter, alt til havedammen og bassiner
+ - [https://havedamscenter.dk](https://havedamscenter.dk)
+ - date published: 2024-04-30T02:47:43.412830+00:00
+ - user: None
+ - tags: []
+
+## Optimal solutions for level measurement and control of oil and refrigerants
+ - [https://www.hbproducts.dk](https://www.hbproducts.dk)
+ - date published: 2024-05-07T10:04:57.119061+00:00
+ - user: None
+ - tags: []
+
+## HelloFresh: God mad lige til døren
+ - [https://www.hellofresh.dk](https://www.hellofresh.dk)
+ - date published: 2024-05-02T13:59:07.851749+00:00
+ - user: None
+ - tags: []
+
+## Hjemmeværnet
+ - [https://www.hjv.dk](https://www.hjv.dk)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## IDA Play
+ - [https://videos.ida.dk](https://videos.ida.dk)
+ - date published: 2024-04-28T02:08:31.231640+00:00
+ - user: None
+ - tags: []
+
+## Idrætsmonitor
+ - [https://idraetsmonitor.dk](https://idraetsmonitor.dk)
+ - date published: 2024-04-30T02:44:48.999013+00:00
+ - user: None
+ - tags: []
+
+## Gør dit website CO2-neutralt og styrk dit brand  |  IngenCO2
+ - [https://www.ingenco2.dk](https://www.ingenco2.dk)
+ - date published: 2024-05-01T04:33:27.891016+00:00
+ - user: None
+ - tags: []
+
+## IOI Account
+ - [https://account.ioi.dk](https://account.ioi.dk)
+ - date published: 2024-04-30T02:41:04.670676+00:00
+ - user: None
+ - tags: []
+
+## IO Interactive - Homepage
+ - [https://ioi.dk](https://ioi.dk)
+ - date published: 2024-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## IO Interactive - Homepage
+ - [https://www.ioi.dk](https://www.ioi.dk)
+ - date published: 2023-10-25T18:45:23.268649+00:00
+ - user: None
+ - tags: []
+
+## IT University of Copenhagen
+ - [https://en.itu.dk](https://en.itu.dk)
+ - date published: 2024-05-04T15:44:07.922017+00:00
+ - user: None
+ - tags: []
+
+## Log in to the site | learnIT
+ - [https://learnit.itu.dk](https://learnit.itu.dk)
+ - date published: 2024-05-04T15:44:01.486668+00:00
+ - user: None
+ - tags: []
+
+## Jyllands-Posten - Nyheder til dig, der vil vide mere
+ - [https://jyllands-posten.dk](https://jyllands-posten.dk)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Kaspersky-cybersikkerhedsløsninger til hjemmet og virksomheden | Kaspersky
+ - [https://www.kaspersky.dk](https://www.kaspersky.dk)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Git repository browser
+ - [https://git.kernel.dk](https://git.kernel.dk)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Git repository browser
+ - [https://kernel.dk](https://kernel.dk)
+ - date published: 2023-10-25T18:45:26.253226+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://klassikeren.dk](https://klassikeren.dk)
+ - date published: 2024-02-08T22:09:11.281885+00:00
+ - user: None
+ - tags: []
+
+## Klimamonitor
+ - [https://klimamonitor.dk](https://klimamonitor.dk)
+ - date published: 2024-04-30T02:43:26.435471+00:00
+ - user: None
+ - tags: []
+
+## About the University of Copenhagen – University of Copenhagen
+ - [https://about.ku.dk](https://about.ku.dk)
+ - date published: 2024-04-30T02:41:24.791979+00:00
+ - user: None
+ - tags: []
+
+## Beredskabssite – Københavns Universitet
+ - [https://akut.ku.dk](https://akut.ku.dk)
+ - date published: 2024-04-30T02:42:00.072097+00:00
+ - user: None
+ - tags: []
+
+## KU Alumne – Københavns Universitet
+ - [https://alumni.ku.dk](https://alumni.ku.dk)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Institut for Antropologi – Københavns Universitet
+ - [https://antropologi.ku.dk](https://antropologi.ku.dk)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Københavns Universitet – Københavns Universitet
+ - [https://cms.ku.dk](https://cms.ku.dk)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Collaboration – University of Copenhagen
+ - [https://collaboration.ku.dk](https://collaboration.ku.dk)
+ - date published: 2024-04-30T02:41:23.352366+00:00
+ - user: None
+ - tags: []
+
+## Continuing Education – University of Copenhagen
+ - [https://continuing-education.ku.dk](https://continuing-education.ku.dk)
+ - date published: 2024-03-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## University of Copenhagen - Courses
+ - [http://courses.ku.dk](http://courses.ku.dk)
+ - date published: 2024-04-30T02:41:30.343372+00:00
+ - user: None
+ - tags: []
+
+## Designguide – Københavns Universitet
+ - [https://designguide.ku.dk](https://designguide.ku.dk)
+ - date published: 2024-04-30T02:42:21.150763+00:00
+ - user: None
+ - tags: []
+
+## Datalogisk Institut – Københavns Universitet
+ - [https://di.ku.dk](https://di.ku.dk)
+ - date published: 2024-04-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Efteruddannelse – Københavns Universitet
+ - [https://efteruddannelse.ku.dk](https://efteruddannelse.ku.dk)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Job Portal - Job and career – University of Copenhagen
+ - [https://employment.ku.dk](https://employment.ku.dk)
+ - date published: 2024-04-30T02:41:26.907704+00:00
+ - user: None
+ - tags: []
+
+## Kort over KU's enheder – Københavns Universitet
+ - [https://findvej.ku.dk](https://findvej.ku.dk)
+ - date published: 2024-04-30T02:41:53.759111+00:00
+ - user: None
+ - tags: []
+
+## Københavns Universitets tilbud til gymnasiet og grundskolen
+ - [https://fokus.ku.dk](https://fokus.ku.dk)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Forskning ved Københavns Universitet – Københavns Universitet
+ - [https://forskning.ku.dk](https://forskning.ku.dk)
+ - date published: 2024-02-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Faculty of Health and Medical Sciences – University of Copenhagen
+ - [https://healthsciences.ku.dk](https://healthsciences.ku.dk)
+ - date published: 2023-11-14T09:26:10.548804+00:00
+ - user: None
+ - tags: []
+
+## Informationssikkerhed – Københavns Universitet
+ - [https://informationssikkerhed.ku.dk](https://informationssikkerhed.ku.dk)
+ - date published: 2024-04-30T02:41:19.562536+00:00
+ - user: None
+ - tags: []
+
+## For international researchers at the University of Copenhagen – University of Copenhagen
+ - [https://ism.ku.dk](https://ism.ku.dk)
+ - date published: 2024-04-30T02:41:58.649146+00:00
+ - user: None
+ - tags: []
+
+## Jobportal - Job og karriere på Københavns Universitet – Københavns Universitet
+ - [https://jobportal.ku.dk](https://jobportal.ku.dk)
+ - date published: 2024-04-30T02:42:25.907218+00:00
+ - user: None
+ - tags: []
+
+## Offentlige arrangementer – Københavns Universitet
+ - [https://kalender.ku.dk](https://kalender.ku.dk)
+ - date published: 2024-04-30T02:42:31.744210+00:00
+ - user: None
+ - tags: []
+
+## Københavns Universitet – Københavns Universitet
+ - [http://kommunikation.ku.dk](http://kommunikation.ku.dk)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Københavns Universitetsbibliotek  – Københavns Universitet
+ - [https://kub.ku.dk](https://kub.ku.dk)
+ - date published: 2024-04-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## University of Copenhagen - Courses
+ - [https://kurser.ku.dk](https://kurser.ku.dk)
+ - date published: 2024-04-30T02:42:32.840519+00:00
+ - user: None
+ - tags: []
+
+## KU Lighthouse – Københavns Universitet
+ - [https://lighthouse.ku.dk](https://lighthouse.ku.dk)
+ - date published: 2024-04-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Københavns Universitet – Københavns Universitet
+ - [https://mangfoldighed.ku.dk](https://mangfoldighed.ku.dk)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Niels Bohr Institutet – Niels Bohr Institutet - Københavns Universitet
+ - [https://nbi.ku.dk](https://nbi.ku.dk)
+ - date published: 2024-05-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## News – University of Copenhagen
+ - [https://news.ku.dk](https://news.ku.dk)
+ - date published: 2023-10-25T11:22:10.749501+00:00
+ - user: None
+ - tags: []
+
+## Nyheder - Forskning - Videnskab – Københavns Universitet
+ - [https://nyheder.ku.dk](https://nyheder.ku.dk)
+ - date published: 2024-03-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Department of Odontology – University of Copenhagen
+ - [https://odontology.ku.dk](https://odontology.ku.dk)
+ - date published: 2024-04-30T02:41:49.950503+00:00
+ - user: None
+ - tags: []
+
+## Om universitetet – Københavns Universitet
+ - [https://om.ku.dk](https://om.ku.dk)
+ - date published: 2024-04-30T02:42:07.321302+00:00
+ - user: None
+ - tags: []
+
+## Ph.d.-uddannelserne på Københavns Universitet – Københavns Universitet
+ - [https://phd.ku.dk](https://phd.ku.dk)
+ - date published: 2024-04-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Research – University of Copenhagen
+ - [https://research.ku.dk](https://research.ku.dk)
+ - date published: 2024-04-30T02:41:45.518368+00:00
+ - user: None
+ - tags: []
+
+## Samarbejde – Københavns Universitet
+ - [https://samarbejde.ku.dk](https://samarbejde.ku.dk)
+ - date published: 2024-04-30T02:42:24.650876+00:00
+ - user: None
+ - tags: []
+
+## Det Samfundsvidenskabelige Fakultet – Københavns Universitet
+ - [https://samf.ku.dk](https://samf.ku.dk)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SCIENCE – Københavns Universitet
+ - [https://science.ku.dk](https://science.ku.dk)
+ - date published: 2023-10-25T18:45:30.552340+00:00
+ - user: None
+ - tags: []
+
+## Search – University of Copenhagen
+ - [https://search.ku.dk](https://search.ku.dk)
+ - date published: 2024-04-30T02:41:38.724843+00:00
+ - user: None
+ - tags: []
+
+## Statens Naturhistoriske Museum – Københavns Universitet
+ - [https://snm.ku.dk](https://snm.ku.dk)
+ - date published: 2024-04-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Søgning – Københavns Universitet
+ - [https://soeg.ku.dk](https://soeg.ku.dk)
+ - date published: 2024-04-30T02:42:28.327018+00:00
+ - user: None
+ - tags: []
+
+## Studier på Københavns Universitet – Københavns Universitet
+ - [https://studier.ku.dk](https://studier.ku.dk)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## International Students – University of Copenhagen
+ - [https://studies.ku.dk](https://studies.ku.dk)
+ - date published: 2024-03-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SUND Hub - en del af the Pipeline & KU Lighthouse – Københavns Universitet
+ - [https://sundhub.ku.dk](https://sundhub.ku.dk)
+ - date published: 2024-04-30T02:41:48.499126+00:00
+ - user: None
+ - tags: []
+
+## Det Sundhedsvidenskabelige Fakultet – Københavns Universitet
+ - [https://sund.ku.dk](https://sund.ku.dk)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Skolen for Veterinærmedicin og Husdyrvidenskab – Københavns Universitet
+ - [https://vetschool.ku.dk](https://vetschool.ku.dk)
+ - date published: 2024-04-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Københavns Universitets Videoportal
+ - [https://video.ku.dk](https://video.ku.dk)
+ - date published: 2024-04-30T02:42:22.445399+00:00
+ - user: None
+ - tags: []
+
+## Københavns Universitet – Københavns Universitet
+ - [https://www.ku.dk](https://www.ku.dk)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## tandlægeskolen.ku.dk – Københavns Universitet
+ - [https://xn--tandlgeskolen-7fb.ku.dk](https://xn--tandlgeskolen-7fb.ku.dk)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Kulturmonitor
+ - [https://kulturmonitor.dk](https://kulturmonitor.dk)
+ - date published: 2024-04-30T02:44:00.510964+00:00
+ - user: None
+ - tags: []
+
+## KU Merchandise. Beklædning og accessories til studerende og gæster.
+ - [http://ku-shop.dk](http://ku-shop.dk)
+ - date published: 2024-04-30T02:42:13.081954+00:00
+ - user: None
+ - tags: []
+
+## KU Merchandise. Beklædning og accessories til studerende og gæster.
+ - [http://www.ku-shop.dk](http://www.ku-shop.dk)
+ - date published: 2024-04-30T02:41:47.076669+00:00
+ - user: None
+ - tags: []
+
+## Louisiana Design Butik
+ - [https://butik.louisiana.dk](https://butik.louisiana.dk)
+ - date published: 2024-04-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Louisiana Channel
+ - [https://channel.louisiana.dk](https://channel.louisiana.dk)
+ - date published: 2017-04-12T08:25:49+00:00
+ - user: None
+ - tags: []
+
+## Frontpage
+ - [https://louisiana.dk](https://louisiana.dk)
+ - date published: 2023-11-13T13:41:52.770181+00:00
+ - user: None
+ - tags: ['museum']
+
+## maragu
+ - [https://www.maragu.dk](https://www.maragu.dk)
+ - date published: 2024-04-30T02:40:55.828547+00:00
+ - user: None
+ - tags: []
+
+## Mark Wrobel
+ - [https://www.markwrobel.dk](https://www.markwrobel.dk)
+ - date published: 2023-11-02T10:46:34.460851+00:00
+ - user: None
+ - tags: ['amiga', 'personal']
+
+## MitSDU – Studerende – Syddansk Universitet
+ - [https://mitsdu.dk](https://mitsdu.dk)
+ - date published: 2024-03-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Monitormedier
+ - [https://monitormedier.dk](https://monitormedier.dk)
+ - date published: 2024-04-30T02:43:49.367081+00:00
+ - user: None
+ - tags: []
+
+## Frontpage - Novo Nordisk Fonden
+ - [https://novonordiskfonden.dk](https://novonordiskfonden.dk)
+ - date published: 2024-03-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ploeh blog
+ - [https://blog.ploeh.dk](https://blog.ploeh.dk)
+ - date published: 2023-10-25T18:45:40.993665+00:00
+ - user: None
+ - tags: []
+
+## Politiken
+ - [https://e-avis.politiken.dk](https://e-avis.politiken.dk)
+ - date published: 2024-04-30T02:44:38.950237+00:00
+ - user: None
+ - tags: []
+
+## Politiken: Forsiden
+ - [https://politiken.dk](https://politiken.dk)
+ - date published: 2024-01-05T21:26:06.537360+00:00
+ - user: None
+ - tags: []
+
+## Advertise with Politiken
+ - [https://www.politikenannoncer.dk](https://www.politikenannoncer.dk)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## PolitikenBillet
+ - [https://politikenbillet.dk](https://politikenbillet.dk)
+ - date published: 2024-04-30T02:44:39.773124+00:00
+ - user: None
+ - tags: []
+
+## Forside - Politiken Historie
+ - [https://politikenhistorie.dk](https://politikenhistorie.dk)
+ - date published: 2024-04-30T02:45:34.863555+00:00
+ - user: None
+ - tags: []
+
+## Polyteknisk Boghandel - Hjem
+ - [https://www.polyteknisk.dk](https://www.polyteknisk.dk)
+ - date published: 2024-04-30T02:34:34.663623+00:00
+ - user: None
+ - tags: []
+
+## Porsche - Find din drømmebil her!
+ - [http://www.porsche.dk](http://www.porsche.dk)
+ - date published: 2024-05-06T23:42:13.574198+00:00
+ - user: None
+ - tags: []
+
+## Send og modtag pakker og breve
+ - [https://www.postnord.dk](https://www.postnord.dk)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Region Midtjylland
+ - [http://www.regionmidtjylland.dk](http://www.regionmidtjylland.dk)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Velkommen til  Regnskabsstyrelsen
+ - [https://www.regnskabsstyrelsen.dk](https://www.regnskabsstyrelsen.dk)
+ - date published: 2024-04-30T02:40:45.702028+00:00
+ - user: None
+ - tags: []
+
+## Reservestyrken
+ - [https://reservestyrken.dk](https://reservestyrken.dk)
+ - date published: 2024-04-30T02:40:35.505579+00:00
+ - user: None
+ - tags: []
+
+## Respekt for hinanden
+ - [https://respektforhinanden.dk](https://respektforhinanden.dk)
+ - date published: 2024-04-30T02:40:34.661573+00:00
+ - user: None
+ - tags: []
+
+## Oplev naturvidenskab i øjenhøjde på Science Museerne
+ - [https://sciencemuseerne.dk](https://sciencemuseerne.dk)
+ - date published: 2024-04-30T02:33:32.983871+00:00
+ - user: None
+ - tags: []
+
+## SDU Bibliotek
+ - [https://books.sdu.dk](https://books.sdu.dk)
+ - date published: 2024-04-30T02:45:47.330250+00:00
+ - user: None
+ - tags: []
+
+## You are entering the digital exam portal for - University of Southern Denmark
+ - [https://digitaleksamen.sdu.dk](https://digitaleksamen.sdu.dk)
+ - date published: 2024-04-30T02:45:44.863844+00:00
+ - user: None
+ - tags: []
+
+## Syddansk Universitet
+ - [https://portal.findresearcher.sdu.dk](https://portal.findresearcher.sdu.dk)
+ - date published: 2024-04-30T02:45:49.397427+00:00
+ - user: None
+ - tags: []
+
+## Syddansk Universitet
+ - [https://sdu.dk](https://sdu.dk)
+ - date published: 2024-03-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SDU Single Sign-On
+ - [https://sso.sdu.dk](https://sso.sdu.dk)
+ - date published: 2024-04-30T02:45:53.601559+00:00
+ - user: None
+ - tags: []
+
+## Syddansk Universitet
+ - [https://www.sdu.dk](https://www.sdu.dk)
+ - date published: 2024-01-05T15:18:32.819279+00:00
+ - user: None
+ - tags: []
+
+## SDUnet - Syddansk Universitets intranet
+ - [https://sdunet.dk](https://sdunet.dk)
+ - date published: 2024-01-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SektorCERT
+ - [https://sektorcert.dk](https://sektorcert.dk)
+ - date published: 2023-11-12T14:44:45.072325+00:00
+ - user: None
+ - tags: []
+
+## Seniormonitor
+ - [https://seniormonitor.dk](https://seniormonitor.dk)
+ - date published: 2024-04-30T02:44:15.460810+00:00
+ - user: None
+ - tags: []
+
+## SIDFX | The ultimate dual SID solution
+ - [https://www.sidfx.dk](https://www.sidfx.dk)
+ - date published: 2024-03-27T12:18:13+00:00
+ - user: rumpel
+ - tags: ['sid music']
+
+## Skolemonitor
+ - [https://skolemonitor.dk](https://skolemonitor.dk)
+ - date published: 2024-04-30T02:44:38.122014+00:00
+ - user: None
+ - tags: []
+
+## SMK - Statens Museum for Kunst
+ - [https://www.smk.dk](https://www.smk.dk)
+ - date published: 2024-05-07T12:51:45.018965+00:00
+ - user: None
+ - tags: []
+
+## Forside
+ - [https://www.smukfest.dk](https://www.smukfest.dk)
+ - date published: 2024-05-06T17:18:20.517762+00:00
+ - user: None
+ - tags: []
+
+## Socialmonitor
+ - [https://socialmonitor.dk](https://socialmonitor.dk)
+ - date published: 2024-04-30T02:43:36.129785+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://spacecontroller.dk](https://spacecontroller.dk)
+ - date published: 2024-02-08T21:47:23.123244+00:00
+ - user: None
+ - tags: []
+
+## Sundhedsstyrelsen
+ - [https://www.sst.dk](https://www.sst.dk)
+ - date published: 2023-10-25T18:46:10.089946+00:00
+ - user: None
+ - tags: []
+
+## Design selv klistermærker og stickers!
+ - [https://stickerapp.dk](https://stickerapp.dk)
+ - date published: 2024-02-08T17:52:02.329878+00:00
+ - user: None
+ - tags: []
+
+## Sundhedsmonitor
+ - [https://sundhedsmonitor.dk](https://sundhedsmonitor.dk)
+ - date published: 2024-04-30T02:45:06.848796+00:00
+ - user: None
+ - tags: []
+
+## The Local Denmark - News and practical guides in English
+ - [https://www.thelocal.dk](https://www.thelocal.dk)
+ - date published: 2024-05-06T15:16:51.406696+00:00
+ - user: None
+ - tags: []
+
+## Thor Vestergaard Christiansen
+ - [https://www.thorshammer.dk](https://www.thorshammer.dk)
+ - date published: 2024-05-04T15:18:09.571411+00:00
+ - user: None
+ - tags: []
+
 ## Time2Learn webshop
  - [https://shop.time2learn.dk](https://shop.time2learn.dk)
  - date published: 2024-04-30T02:46:36.406591+00:00
@@ -133,6 +787,12 @@
 ## valberg.dk
  - [https://valberg.dk](https://valberg.dk)
  - date published: 2023-10-25T18:46:16.069620+00:00
+ - user: None
+ - tags: []
+
+## Vejr & Radar Danmark
+ - [https://www.vejrogradar.dk](https://www.vejrogradar.dk)
+ - date published: 2024-05-07T12:52:56.918903+00:00
  - user: None
  - tags: []
 
@@ -5344,666 +6004,6 @@
 ## Homepage Slideshow
  - [https://graduate.dartmouth.edu](https://graduate.dartmouth.edu)
  - date published: 2019-09-16T14:11:37+00:00
- - user: None
- - tags: []
-
-## Home Grid
- - [https://history.dartmouth.edu](https://history.dartmouth.edu)
- - date published: 2020-11-23T15:55:11+00:00
- - user: None
- - tags: []
-
-## Dartmouth | Dartmouth
- - [https://home.dartmouth.edu](https://home.dartmouth.edu)
- - date published: 2024-02-05T17:22:04.539715+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://itc.dartmouth.edu](https://itc.dartmouth.edu)
- - date published: 2018-10-31T15:31:05+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://jewish.dartmouth.edu](https://jewish.dartmouth.edu)
- - date published: 2019-03-07T19:38:07+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://lalacs.dartmouth.edu](https://lalacs.dartmouth.edu)
- - date published: 2018-11-15T16:01:23+00:00
- - user: None
- - tags: []
-
-## Dartmouth Libraries | Dartmouth Libraries
- - [https://library.dartmouth.edu](https://library.dartmouth.edu)
- - date published: 2024-04-30T04:04:08.035720+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://linguistics.dartmouth.edu](https://linguistics.dartmouth.edu)
- - date published: 2019-08-15T22:21:31+00:00
- - user: None
- - tags: []
-
-## Mathematics at Dartmouth
- - [https://math.dartmouth.edu](https://math.dartmouth.edu)
- - date published: 2023-10-25T18:51:02.976336+00:00
- - user: None
- - tags: []
-
-## Home Academic
- - [https://mes.dartmouth.edu](https://mes.dartmouth.edu)
- - date published: 2020-09-03T14:30:14+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://music.dartmouth.edu](https://music.dartmouth.edu)
- - date published: 2019-12-05T14:41:29+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://native-american.dartmouth.edu](https://native-american.dartmouth.edu)
- - date published: 2019-09-10T21:43:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [http://pbs.dartmouth.edu](http://pbs.dartmouth.edu)
- - date published: 2019-08-28T20:24:31+00:00
- - user: None
- - tags: []
-
-## Home Grid
- - [https://philosophy.dartmouth.edu](https://philosophy.dartmouth.edu)
- - date published: 2020-12-18T18:00:42+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://physics.dartmouth.edu](https://physics.dartmouth.edu)
- - date published: 2020-11-05T19:51:28+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://policies.dartmouth.edu](https://policies.dartmouth.edu)
- - date published: 2020-07-07T12:02:40+00:00
- - user: None
- - tags: []
-
-## Alt Home
- - [https://qss.dartmouth.edu](https://qss.dartmouth.edu)
- - date published: 2020-12-09T14:20:52+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://religion.dartmouth.edu](https://religion.dartmouth.edu)
- - date published: 2022-03-10T16:29:40+00:00
- - user: None
- - tags: []
-
-## Dartmouth College Applicant Portal | Home
- - [https://searchjobs.dartmouth.edu](https://searchjobs.dartmouth.edu)
- - date published: 2024-04-30T04:04:46.555384+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://sexual-respect.dartmouth.edu](https://sexual-respect.dartmouth.edu)
- - date published: 2018-09-17T14:00:41+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://sociology.dartmouth.edu](https://sociology.dartmouth.edu)
- - date published: 2020-02-29T20:00:26+00:00
- - user: None
- - tags: []
-
-## .
- - [https://spanport.dartmouth.edu](https://spanport.dartmouth.edu)
- - date published: 2020-10-29T18:32:17+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://studioart.dartmouth.edu](https://studioart.dartmouth.edu)
- - date published: 2018-11-15T16:27:26+00:00
- - user: None
- - tags: []
-
-## Home Grid
- - [https://theater.dartmouth.edu](https://theater.dartmouth.edu)
- - date published: 2020-11-09T19:46:19+00:00
- - user: None
- - tags: []
-
-## Home
- - [http://web.cs.dartmouth.edu](http://web.cs.dartmouth.edu)
- - date published: 2020-05-07T14:55:09+00:00
- - user: None
- - tags: []
-
-## WeBWorK at Dartmouth
- - [https://webwork.dartmouth.edu](https://webwork.dartmouth.edu)
- - date published: 2024-04-30T04:11:47.206770+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://wgs.dartmouth.edu](https://wgs.dartmouth.edu)
- - date published: 2020-10-22T15:57:28+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://writing.dartmouth.edu](https://writing.dartmouth.edu)
- - date published: 2022-11-17T21:32:45+00:00
- - user: None
- - tags: []
-
-## Dartmouth | Dartmouth
- - [https://www.dartmouth.edu](https://www.dartmouth.edu)
- - date published: 2024-04-30T04:04:04.150413+00:00
- - user: None
- - tags: []
-
-## Tuck School of Business
- - [https://www.tuck.dartmouth.edu](https://www.tuck.dartmouth.edu)
- - date published: 2024-04-30T04:04:37.132226+00:00
- - user: None
- - tags: []
-
-## March MATHness
- - [https://marchmathness.davidson.edu](https://marchmathness.davidson.edu)
- - date published: 2017-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## DiploFoundation - Where diplomacy meets technology
- - [https://www.diplomacy.edu](https://www.diplomacy.edu)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Drew University
- - [http://groups.drew.edu](http://groups.drew.edu)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## User Homepages @Drew University
- - [https://users.drew.edu](https://users.drew.edu)
- - date published: 2023-11-14T23:58:00.601263+00:00
- - user: None
- - tags: []
-
-## Home - Drew University
- - [http://www.drew.edu](http://www.drew.edu)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Drexel Connect
- - [https://connect.drexel.edu](https://connect.drexel.edu)
- - date published: 2024-04-30T04:12:32.201669+00:00
- - user: None
- - tags: []
-
-## Drexel Home
- - [https://drexel.edu](https://drexel.edu)
- - date published: 2023-10-25T18:51:05.420930+00:00
- - user: None
- - tags: []
-
-## This site is not configured
- - [https://secureia.drexel.edu](https://secureia.drexel.edu)
- - date published: 2024-04-30T04:12:31.157781+00:00
- - user: None
- - tags: []
-
-## Drexel University Online: Accredited College Degrees & Programs
- - [https://www.online.drexel.edu](https://www.online.drexel.edu)
- - date published: 2024-05-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home Page
- - [https://www.dri.edu](https://www.dri.edu)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ritchie School of Engineering and Computer Science | Engineering & Computer Science
- - [https://ritchieschool.du.edu](https://ritchieschool.du.edu)
- - date published: 2024-04-30T04:59:43.567036+00:00
- - user: None
- - tags: []
-
-## Duke Centennial
- - [https://100.duke.edu](https://100.duke.edu)
- - date published: 2024-04-30T04:12:45.645629+00:00
- - user: None
- - tags: []
-
-## Duke Accessibility
- - [https://accessibility.duke.edu](https://accessibility.duke.edu)
- - date published: 2024-04-30T04:12:41.465893+00:00
- - user: None
- - tags: []
-
-## Duke | Log In
- - [https://assets.styleguide.duke.edu](https://assets.styleguide.duke.edu)
- - date published: 2024-04-30T04:13:40.189075+00:00
- - user: None
- - tags: []
-
-## News, Events & Exhibits - Duke University Libraries Blogs
- - [https://blogs.library.duke.edu](https://blogs.library.duke.edu)
- - date published: 2024-05-01T20:00:50.690868+00:00
- - user: None
- - tags: []
-
-## Updates on Duke’s Coronavirus Response
- - [https://coronavirus.duke.edu](https://coronavirus.duke.edu)
- - date published: 2024-04-30T04:13:03.759771+00:00
- - user: None
- - tags: []
-
-## Front Page | Department of Computer Science
- - [https://cs.duke.edu](https://cs.duke.edu)
- - date published: 2024-04-29T03:30:31.922892+00:00
- - user: None
- - tags: []
-
-## Duke Database Devils
- - [http://db.cs.duke.edu](http://db.cs.duke.edu)
- - date published: 2024-04-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Duke University
- - [https://duke.edu](https://duke.edu)
- - date published: 2024-04-30T04:13:55.301862+00:00
- - user: None
- - tags: []
-
-## Durham, Our Hometown - Duke Undergraduate Admissions
- - [https://durham.duke.edu](https://durham.duke.edu)
- - date published: 2024-04-30T04:13:47.733513+00:00
- - user: None
- - tags: []
-
-## Home | Human Resources
- - [https://hr.duke.edu](https://hr.duke.edu)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Duke | Log In
- - [https://idms-mfa.oit.duke.edu](https://idms-mfa.oit.duke.edu)
- - date published: 2024-05-01T06:58:34.700524+00:00
- - user: None
- - tags: []
-
-## Bolch Judicial Institute of Duke Law School
- - [https://judicialstudies.duke.edu](https://judicialstudies.duke.edu)
- - date published: 2019-01-15T16:31:27+00:00
- - user: None
- - tags: []
-
-## Duke University School of Law
- - [https://law.duke.edu](https://law.duke.edu)
- - date published: 2024-04-30T04:13:42.585667+00:00
- - user: None
- - tags: []
-
-## Duke University Maps
- - [https://maps.duke.edu](https://maps.duke.edu)
- - date published: 2024-04-30T04:13:53.296268+00:00
- - user: None
- - tags: []
-
-## Duke University School of Medicine
- - [https://medschool.duke.edu](https://medschool.duke.edu)
- - date published: 2024-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Duke Department of Molecular Genetics and Microbiology
- - [https://mgm.duke.edu](https://mgm.duke.edu)
- - date published: 2024-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Duke News
- - [https://news.duke.edu](https://news.duke.edu)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nicholas School of the Environment | Duke University
- - [https://nicholas.duke.edu](https://nicholas.duke.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Duke | OARC | Office of Audit, Risk and Compliance
- - [https://oarc.duke.edu](https://oarc.duke.edu)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Duke Pratt School of Engineering
- - [https://pratt.duke.edu](https://pratt.duke.edu)
- - date published: 2023-12-11T12:00:31.232853+00:00
- - user: None
- - tags: []
-
-## Homepage | Duke Research & Innovation
- - [https://research.duke.edu](https://research.duke.edu)
- - date published: 2024-01-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Nasher Museum of Art at Duke University -
- - [https://sites.nasher.duke.edu](https://sites.nasher.duke.edu)
- - date published: 2024-02-08T16:49:26.722514+00:00
- - user: None
- - tags: []
-
-## Duke Today | Duke Today
- - [https://today.duke.edu](https://today.duke.edu)
- - date published: 2023-10-25T18:51:07.229842+00:00
- - user: None
- - tags: []
-
-## Front Page | Trinity College of Arts & Sciences
- - [https://trinity.duke.edu](https://trinity.duke.edu)
- - date published: 2024-04-30T04:13:05.802775+00:00
- - user: None
- - tags: []
-
-## Home Page | Office of  Undergraduate Education
- - [https://undergrad.duke.edu](https://undergrad.duke.edu)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Duke University School of Law
- - [https://web.law.duke.edu](https://web.law.duke.edu)
- - date published: 2023-10-25T11:22:18.328920+00:00
- - user: None
- - tags: []
-
-## Front Page | Department of Computer Science
- - [https://www.cs.duke.edu](https://www.cs.duke.edu)
- - date published: 2024-05-04T15:26:25.414605+00:00
- - user: None
- - tags: []
-
-## Duke University
- - [https://www.duke.edu](https://www.duke.edu)
- - date published: 2024-05-01T05:57:46.875167+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://dukeupress.edu](https://dukeupress.edu)
- - date published: 2024-04-30T04:14:03.894284+00:00
- - user: None
- - tags: []
-
-## Duke University Press
- - [https://read.dukeupress.edu](https://read.dukeupress.edu)
- - date published: 2023-10-25T18:51:09.503912+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.dukeupress.edu](https://www.dukeupress.edu)
- - date published: 2024-04-30T04:14:06.934129+00:00
- - user: None
- - tags: []
-
-## None
- - [http://legacy.earlham.edu](http://legacy.earlham.edu)
- - date published: 2024-03-27T04:35:57.699469+00:00
- - user: None
- - tags: []
-
-## Home - East Carolina University
- - [https://ecu.edu](https://ecu.edu)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## The ScholarShip at ECU
- - [http://thescholarship.ecu.edu](http://thescholarship.ecu.edu)
- - date published: 2024-04-28T03:37:49.924498+00:00
- - user: None
- - tags: []
-
-## Home - East Carolina University
- - [https://www.ecu.edu](https://www.ecu.edu)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## EF Education First | Educational Tours & Language Programs Abroad
- - [https://www.ef.edu](https://www.ef.edu)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Eastern Michigan University
- - [https://www.emich.edu](https://www.emich.edu)
- - date published: 2024-05-01T06:25:27.365332+00:00
- - user: None
- - tags: []
-
-## Hosted Pages -  Embry-Riddle Aeronautical University
- - [http://pages.erau.edu](http://pages.erau.edu)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Elizabethtown College Groups
- - [https://groups.etown.edu](https://groups.etown.edu)
- - date published: 2024-03-26T00:14:32.167556+00:00
- - user: None
- - tags: []
-
-## Experience the Exploratorium at Pier 15 | Exploratorium
- - [https://www.exploratorium.edu](https://www.exploratorium.edu)
- - date published: 2024-04-30T15:48:05.838419+00:00
- - user: None
- - tags: []
-
-## Events Calendar
- - [https://calendar.fau.edu](https://calendar.fau.edu)
- - date published: 2024-04-30T04:14:14.611405+00:00
- - user: None
- - tags: []
-
-## FAU directory
- - [https://directory.fau.edu](https://directory.fau.edu)
- - date published: 2024-04-30T04:14:17.637913+00:00
- - user: None
- - tags: []
-
-## Florida Atlantic University
- - [https://fau.edu](https://fau.edu)
- - date published: 2024-04-30T04:14:25.546745+00:00
- - user: None
- - tags: []
-
-## FAU Foundation Inc
- - [https://fauf.fau.edu](https://fauf.fau.edu)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## One-Stop Shop for Student Services : Florida Atlantic University
- - [https://onestop.fau.edu](https://onestop.fau.edu)
- - date published: 2024-04-30T04:14:12.323236+00:00
- - user: None
- - tags: []
-
-## Florida Atlantic University
- - [https://www.fau.edu](https://www.fau.edu)
- - date published: 2024-01-09T02:59:07.976768+00:00
- - user: None
- - tags: []
-
-## Ferris State University
- - [https://360.ferris.edu](https://360.ferris.edu)
- - date published: 2024-04-30T04:14:31.121666+00:00
- - user: None
- - tags: []
-
-## Kendall College of Art and Design Grand Rapids Michigan
- - [https://kcad.ferris.edu](https://kcad.ferris.edu)
- - date published: 2024-02-08T17:43:57.760533+00:00
- - user: None
- - tags: []
-
-## Ferris State University
- - [https://www.ferris.edu](https://www.ferris.edu)
- - date published: 2024-04-30T04:14:29.753716+00:00
- - user: None
- - tags: []
-
-## Accessibility @ FIU
- - [https://accessibility.fiu.edu](https://accessibility.fiu.edu)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Access, Compliance, and Equal ﻿Opportunity
- - [https://ace.fiu.edu](https://ace.fiu.edu)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Events Calendar - Florida International University
- - [https://calendar.fiu.edu](https://calendar.fiu.edu)
- - date published: 2024-04-30T04:15:01.587208+00:00
- - user: None
- - tags: []
-
-## Florida International University - Campus Maps
- - [https://campusmaps.fiu.edu](https://campusmaps.fiu.edu)
- - date published: 2024-04-30T04:14:57.859721+00:00
- - user: None
- - tags: []
-
-## FIU Canvas
- - [https://canvas.fiu.edu](https://canvas.fiu.edu)
- - date published: 2024-04-30T04:14:50.043009+00:00
- - user: None
- - tags: []
-
-## digicdn.fiu.edu
- - [https://digicdn.fiu.edu](https://digicdn.fiu.edu)
- - date published: 2024-04-30T04:14:39.613548+00:00
- - user: None
- - tags: []
-
-## Please wait...
- - [http://mail.fiu.edu](http://mail.fiu.edu)
- - date published: 2024-04-30T04:14:46.164256+00:00
- - user: None
- - tags: []
-
-## My FIU
- - [https://my.fiu.edu](https://my.fiu.edu)
- - date published: 2024-04-30T04:14:48.367439+00:00
- - user: None
- - tags: []
-
-## FIU News - Florida International University
- - [https://news.fiu.edu](https://news.fiu.edu)
- - date published: 2023-10-30T12:42:14.738633+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://onestop.fiu.edu](https://onestop.fiu.edu)
- - date published: 2024-04-30T04:14:51.211245+00:00
- - user: None
- - tags: []
-
-## FIU Phonebook
- - [https://phonebook.fiu.edu](https://phonebook.fiu.edu)
- - date published: 2024-04-30T04:15:03.150013+00:00
- - user: None
- - tags: []
-
-## Report a Concern
- - [https://report.fiu.edu](https://report.fiu.edu)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Strategic Communications, Government and External Affairs
- - [https://stratcomm.fiu.edu](https://stratcomm.fiu.edu)
- - date published: 2024-03-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## MachForm Admin Panel
- - [https://webforms.fiu.edu](https://webforms.fiu.edu)
- - date published: 2024-04-30T04:14:47.420081+00:00
- - user: None
- - tags: []
-
-## Florida International University in Miami, FL
- - [https://www.fiu.edu](https://www.fiu.edu)
- - date published: 2024-04-30T04:14:38.618503+00:00
- - user: None
- - tags: []
-
-## State University System of Florida
- - [https://www.flbog.edu](https://www.flbog.edu)
- - date published: 2024-04-30T04:16:15.757109+00:00
- - user: None
- - tags: []
-
-## Collation | Folger Shakespeare Library
- - [http://collation.folger.edu](http://collation.folger.edu)
- - date published: 2024-05-07T10:20:20.322787+00:00
- - user: None
- - tags: []
-
-## Home | Folger Shakespeare Library
- - [https://www.folger.edu](https://www.folger.edu)
- - date published: 2024-05-07T10:25:33.742212+00:00
- - user: None
- - tags: []
-
-## FLASH Archive
- - [http://ir.lawnet.fordham.edu](http://ir.lawnet.fordham.edu)
- - date published: 2024-05-07T09:30:23.197658+00:00
- - user: None
- - tags: []
-
-## Fordham University
- - [http://www.fordham.edu](http://www.fordham.edu)
- - date published: 2024-05-06T16:58:48.717846+00:00
- - user: None
- - tags: []
-
-## Office of Research | FSU Office of Research
- - [http://about.research.fsu.edu](http://about.research.fsu.edu)
- - date published: 2024-04-30T04:16:02.530144+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,273 @@
+## PyImageSearch - You can master Computer Vision, Deep Learning, and OpenCV.
+ - [https://www.pyimagesearch.com](https://www.pyimagesearch.com)
+ - date published: 2024-05-06T06:38:21.330665+00:00
+ - user: None
+ - tags: []
+
+## Redirecting to: /en/3.x/
+ - [https://docs.pyinfra.com](https://docs.pyinfra.com)
+ - date published: 2024-05-07T09:48:55.707544+00:00
+ - user: None
+ - tags: []
+
+## pyinfra automates infrastructure super fast at massive scale
+ - [https://pyinfra.com](https://pyinfra.com)
+ - date published: 2023-10-25T16:42:47.538903+00:00
+ - user: None
+ - tags: []
+
+## Medusa
+ - [https://pymedusa.com](https://pymedusa.com)
+ - date published: 2024-04-08T19:30:28.997710+00:00
+ - user: None
+ - tags: ['video library manager', 'self-host']
+
+## Pymnts Charts
+ - [https://charts.pymnts.com](https://charts.pymnts.com)
+ - date published: 2024-05-07T09:48:59.613847+00:00
+ - user: None
+ - tags: []
+
+## JW OTT Webapp
+ - [https://tv.pymnts.com](https://tv.pymnts.com)
+ - date published: 2024-05-07T09:49:03.099209+00:00
+ - user: None
+ - tags: []
+
+## Pymnts.com
+ - [https://www.pymnts.com](https://www.pymnts.com)
+ - date published: 2023-10-25T16:42:52.300386+00:00
+ - user: None
+ - tags: []
+
+## Attention Required! | Cloudflare
+ - [https://careers.pypl.com](https://careers.pypl.com)
+ - date published: 2024-05-06T22:46:25.611855+00:00
+ - user: None
+ - tags: []
+
+## Pyrae Policy Engine | Pyrae Policy Engine
+ - [https://pyrae.com](https://pyrae.com)
+ - date published: 2024-05-04T07:02:19.079473+00:00
+ - user: None
+ - tags: []
+
+## The Project - PySimpleGUI Documentation
+ - [https://docs.pysimplegui.com](https://docs.pysimplegui.com)
+ - date published: 2024-02-14T15:25:27.937708+00:00
+ - user: None
+ - tags: ['python']
+
+## PySimpleGUI
+ - [https://home.pysimplegui.com](https://home.pysimplegui.com)
+ - date published: 2024-04-30T08:11:23.383165+00:00
+ - user: None
+ - tags: []
+
+## PySimpleGUI
+ - [https://pysimplegui.com](https://pysimplegui.com)
+ - date published: 2024-04-30T10:07:39+00:00
+ - user: rumpel
+ - tags: ['programming library', 'monetization', 'python']
+
+## PySimpleGUI
+ - [https://www.pysimplegui.com](https://www.pysimplegui.com)
+ - date published: 2024-04-30T08:11:24.940651+00:00
+ - user: None
+ - tags: []
+
+## The PythonAnywhere help pages
+ - [https://help.pythonanywhere.com](https://help.pythonanywhere.com)
+ - date published: 2015-05-13T13:35:28+00:00
+ - user: None
+ - tags: []
+
+## Host, run, and code Python in the cloud: PythonAnywhere
+ - [https://www.pythonanywhere.com](https://www.pythonanywhere.com)
+ - date published: 2024-05-01T07:14:22.063588+00:00
+ - user: None
+ - tags: []
+
+## Python for Engineers
+ - [https://new.pythonforengineers.com](https://new.pythonforengineers.com)
+ - date published: 2023-10-25T16:42:53.338256+00:00
+ - user: None
+ - tags: []
+
+## Python Graph Gallery | The Python Graph Gallery
+ - [https://python-graph-gallery.com](https://python-graph-gallery.com)
+ - date published: 2024-04-16T12:37:20.236899+00:00
+ - user: None
+ - tags: ['programming', 'code snippets', 'python']
+
+## Your Account
+ - [https://account.pythonguis.com](https://account.pythonguis.com)
+ - date published: 2024-04-29T09:59:56.822539+00:00
+ - user: None
+ - tags: []
+
+## Python GUIs Forum
+ - [https://forum.pythonguis.com](https://forum.pythonguis.com)
+ - date published: 2024-04-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Python GUIs – Create GUI applications with Python and Qt
+ - [https://www.pythonguis.com](https://www.pythonguis.com)
+ - date published: 2023-10-25T16:42:55.356281+00:00
+ - user: None
+ - tags: ['pyqt', 'python']
+
+## Python is Love
+ - [https://pythonislove.com](https://pythonislove.com)
+ - date published: 2023-10-25T16:42:58.111053+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [https://www.pythonjobshq.com](https://www.pythonjobshq.com)
+ - date published: 2024-04-30T12:10:56.700613+00:00
+ - user: None
+ - tags: []
+
+## Python Morsels: write better Python code
+ - [https://www.pythonmorsels.com](https://www.pythonmorsels.com)
+ - date published: 2024-03-20T04:10:12.122914+00:00
+ - user: None
+ - tags: ['programming', 'python']
+
+## The Python Podcast.__init__
+ - [https://www.pythonpodcast.com](https://www.pythonpodcast.com)
+ - date published: 2024-05-02T13:47:49.733265+00:00
+ - user: None
+ - tags: []
+
+## The Python Show | Mike Driscoll | Substack
+ - [https://www.pythonshow.com](https://www.pythonshow.com)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Python Simplified - Learn Bit by Bit
+ - [https://pythonsimplified.com](https://pythonsimplified.com)
+ - date published: 2017-08-09T10:09:38+00:00
+ - user: None
+ - tags: []
+
+## Write faster Python code, and ship your code faster
+ - [https://pythonspeed.com](https://pythonspeed.com)
+ - date published: 2023-10-25T16:42:59.186784+00:00
+ - user: None
+ - tags: ['python']
+
+## Test and Code
+ - [https://courses.pythontest.com](https://courses.pythontest.com)
+ - date published: 2024-04-29T09:16:01.444031+00:00
+ - user: None
+ - tags: []
+
+## Python Test
+ - [https://podcast.pythontest.com](https://podcast.pythontest.com)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## pythontest.com
+ - [https://pythontest.com](https://pythontest.com)
+ - date published: 2023-10-25T16:43:00.662988+00:00
+ - user: None
+ - tags: ['pytest', 'testing framework', 'python']
+
+## Online Python Tutor - visualize, debug, get AI help for Python, Java, C, C++, and JavaScript
+ - [http://pythontutor.com](http://pythontutor.com)
+ - date published: 2024-04-28T03:13:38.268628+00:00
+ - user: None
+ - tags: []
+
+## Python Web Conference 2023
+ - [https://2023.pythonwebconf.com](https://2023.pythonwebconf.com)
+ - date published: 2023-10-25T16:43:04.177641+00:00
+ - user: None
+ - tags: []
+
+## Python Wheels
+ - [https://pythonwheels.com](https://pythonwheels.com)
+ - date published: 2023-10-25T16:43:05.526351+00:00
+ - user: None
+ - tags: ['python']
+
+## PyVibe: Easily create styled web pages with Python
+ - [https://www.pyvibe.com](https://www.pyvibe.com)
+ - date published: 2023-10-25T16:43:06.793558+00:00
+ - user: None
+ - tags: []
+
+## Piotr Zakrzewski on Data
+ - [https://blog.pzakrzewski.com](https://blog.pzakrzewski.com)
+ - date published: 2023-11-21T09:09:37.768225+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://s21.q4cdn.com](https://s21.q4cdn.com)
+ - date published: 2023-10-25T16:43:17.531271+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://s25.q4cdn.com](https://s25.q4cdn.com)
+ - date published: 2023-10-25T16:43:18.100869+00:00
+ - user: None
+ - tags: []
+
+## Attention Required! | Cloudflare
+ - [https://johnwiley2020news.q4web.com](https://johnwiley2020news.q4web.com)
+ - date published: 2024-02-26T18:18:20.325972+00:00
+ - user: None
+ - tags: []
+
+## Qamcom - Unity of Technology Experts
+ - [https://www.qamcom.com](https://www.qamcom.com)
+ - date published: 2024-03-20T20:23:12.190601+00:00
+ - user: None
+ - tags: []
+
+## https://blog.qartis.com
+ - [https://blog.qartis.com](https://blog.qartis.com)
+ - date published: 2024-01-09T02:47:21.129786+00:00
+ - user: None
+ - tags: []
+
+## Qbix Community - Great place for talking about the Qbix Platform
+ - [https://community.qbix.com](https://community.qbix.com)
+ - date published: 2023-10-25T16:43:21.345237+00:00
+ - user: None
+ - tags: []
+
+## QCon London 2024 | April 8 - 10 | Software Development Conference
+ - [https://qconlondon.com](https://qconlondon.com)
+ - date published: 2024-04-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Qt Plotting Widget QCustomPlot - Introduction
+ - [https://www.qcustomplot.com](https://www.qcustomplot.com)
+ - date published: 2024-04-29T09:54:37+00:00
+ - user: rumpel
+ - tags: ['qt', 'programming library']
+
+## qdorks.com: Easy Advanced Google Query Composer
+ - [https://qdorks.com](https://qdorks.com)
+ - date published: 2023-12-01T10:46:29.576983+00:00
+ - user: None
+ - tags: []
+
+## QDragon :: Unique scripts for online entertainment
+ - [https://www.qdragon.com](https://www.qdragon.com)
+ - date published: 2024-04-30T07:27:23.747712+00:00
+ - user: None
+ - tags: []
+
 ## Amazon November Sale: 20 Fantastic Deals You Can Grab Right Now! | TECHWALTZ
  - [https://qechtech.com](https://qechtech.com)
  - date published: 2023-11-08T16:41:19.370020+00:00
@@ -387,20 +657,14 @@
  - tags: []
 
 ## Quaketastic
- - [https://www.quaketastic.com](https://www.quaketastic.com)
- - date published: 2024-05-07T09:58:19.688687+00:00
- - user: None
- - tags: ['quake']
-
-## Quaketastic
  - [http://www.quaketastic.com](http://www.quaketastic.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: ['quake']
 
-## Quake Terminus
- - [http://www.quaketerminus.com](http://www.quaketerminus.com)
- - date published: 2024-02-06T15:25:15.469921+00:00
+## Quaketastic
+ - [https://www.quaketastic.com](https://www.quaketastic.com)
+ - date published: 2024-05-07T09:58:19.688687+00:00
  - user: None
  - tags: ['quake']
 
@@ -409,6 +673,12 @@
  - date published: 2024-05-07T09:58:32.129014+00:00
  - user: None
  - tags: ['quake', 'video game']
+
+## Quake Terminus
+ - [http://www.quaketerminus.com](http://www.quaketerminus.com)
+ - date published: 2024-02-06T15:25:15.469921+00:00
+ - user: None
+ - tags: ['quake']
 
 ## https://www.quakeunity.com
  - [https://www.quakeunity.com](https://www.quakeunity.com)
@@ -5733,276 +6003,6 @@ Top End Devs
 ## Retool Docs
  - [https://docs.retool.com](https://docs.retool.com)
  - date published: 2024-02-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Error
- - [https://p.retool.com](https://p.retool.com)
- - date published: 2024-04-28T04:41:09.104315+00:00
- - user: None
- - tags: []
-
-## Retool | The fastest way to develop effective software.
- - [https://retool.com](https://retool.com)
- - date published: 2023-10-25T16:50:27.329954+00:00
- - user: None
- - tags: []
-
-## Changelog | Retool Docs
- - [https://updates.retool.com](https://updates.retool.com)
- - date published: 2024-04-28T04:40:56.714523+00:00
- - user: None
- - tags: []
-
-## https://retractionwatch.com
- - [https://retractionwatch.com](https://retractionwatch.com)
- - date published: 2023-12-13T03:59:08.828047+00:00
- - user: None
- - tags: []
-
-## Retro32 | Amiga | Commodore | Retro Gaming Store Shop | 3D Printing
- - [https://www.retro32.com](https://www.retro32.com)
- - date published: 2023-10-25T11:15:21.579596+00:00
- - user: None
- - tags: ['shop']
-
-## Welcome to RETROCMP
- - [https://retrocmp.com](https://retrocmp.com)
- - date published: 2024-02-08T16:50:41.843398+00:00
- - user: None
- - tags: []
-
-## RetroCollect Video Game Database
- - [http://www.retrocollect.com](http://www.retrocollect.com)
- - date published: 2024-04-28T04:42:23.671807+00:00
- - user: None
- - tags: []
-
-## Retro Dodo - Retro Gaming Reviews & News
- - [https://retrododo.com](https://retrododo.com)
- - date published: 2023-10-25T10:46:34.000501+00:00
- - user: None
- - tags: ['video game news', 'retro games']
-
-## Retroedicola
- - [https://www.retroedicola.com](https://www.retroedicola.com)
- - date published: 2024-04-30T15:01:12.766141+00:00
- - user: None
- - tags: ['retro games', 'amiga', 'commodore']
-
-## Retro entre Amigos
- - [https://www.retroentreamigos.com](https://www.retroentreamigos.com)
- - date published: 2023-11-02T09:46:17.486897+00:00
- - user: None
- - tags: []
-
-## Descubre la adrenalina de las apuestas deportivas  | retroescena.com
- - [http://www.retroescena.com](http://www.retroescena.com)
- - date published: 2024-04-28T04:43:53.197966+00:00
- - user: None
- - tags: []
-
-## RetroEZ  a community orientated online retro computer store
- - [https://www.retroez.com](https://www.retroez.com)
- - date published: 2024-05-07T10:27:07.383890+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://retrogamecoders.com](https://retrogamecoders.com)
- - date published: 2023-11-02T11:00:22.902914+00:00
- - user: None
- - tags: ['amiga', 'retro games']
-
-## Retro Gamers Hub
- - [http://retrogamershub.com](http://retrogamershub.com)
- - date published: 2024-04-28T05:30:32.084125+00:00
- - user: None
- - tags: []
-
-## Retro Gaming Australia -
- - [http://www.retrogamingaus.com](http://www.retrogamingaus.com)
- - date published: 2024-04-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Retro Gaming Crew - Das retro Gaming Magazin
- - [https://www.retrogamingcrew.com](https://www.retrogamingcrew.com)
- - date published: 2023-12-11T19:06:24.467363+00:00
- - user: None
- - tags: []
-
-## Retroinvaders
- - [http://retroinvaders.com](http://retroinvaders.com)
- - date published: 2024-04-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## retrokingpin.com – Retro Gaming, Made Simple
- - [https://retrokingpin.com](https://retrokingpin.com)
- - date published: 2024-04-28T04:44:21.828675+00:00
- - user: None
- - tags: []
-
-## RetroKingPin - Retro Gaming News & Reviews
- - [https://www.retrokingpin.com](https://www.retrokingpin.com)
- - date published: 2023-10-26T18:55:54.590808+00:00
- - user: None
- - tags: ['game news']
-
-## Los mejores juegos retro para descargar gratis - Retrolorian
- - [https://www.retrolorian.com](https://www.retrolorian.com)
- - date published: 2023-11-17T21:44:04+00:00
- - user: rumpel
- - tags: ['retro games']
-
-## Facebook
- - [http://facebook.retromags.com](http://facebook.retromags.com)
- - date published: 2024-04-28T04:44:23.441920+00:00
- - user: None
- - tags: []
-
-## gotcha-bitch-dave-chapelle.gif (474×360)
- - [http://onlyfans.retromags.com](http://onlyfans.retromags.com)
- - date published: 2024-04-28T04:44:29.365921+00:00
- - user: None
- - tags: []
-
-## Retromags
- - [https://www.retromags.com](https://www.retromags.com)
- - date published: 2024-02-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Retro Otaku - My nerdy video gaming soapbox...
- - [https://www.retro-otaku.com](https://www.retro-otaku.com)
- - date published: 2023-10-27T14:43:31.465677+00:00
- - user: None
- - tags: ['retro games']
-
-## About the Retro-Printer Module | RetroPrinter.com
- - [https://retroprinter.com](https://retroprinter.com)
- - date published: 2015-07-02T20:03:57+00:00
- - user: None
- - tags: []
-
-## About the Retro-Printer Module | RetroPrinter.com
- - [https://www.retroprinter.com](https://www.retroprinter.com)
- - date published: 2023-10-25T16:50:29.050727+00:00
- - user: None
- - tags: []
-
-## RetroPrinter Support - Index page
- - [https://www.retroprinter-support.com](https://www.retroprinter-support.com)
- - date published: 2024-04-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Adam's Vintage Computer Restorations
- - [https://retrorepairsandrefurbs.com](https://retrorepairsandrefurbs.com)
- - date published: 2023-10-25T08:47:47.426248+00:00
- - user: None
- - tags: ['personal']
-
-## Retro Reverse Engineering · RetroReversing
- - [https://www.retroreversing.com](https://www.retroreversing.com)
- - date published: 2023-10-25T16:50:34.097785+00:00
- - user: None
- - tags: ['reverse engineering']
-
-## RetroRGB |
- - [http://admin.retrorgb.com](http://admin.retrorgb.com)
- - date published: 2024-04-28T04:44:50.497513+00:00
- - user: None
- - tags: []
-
-## RetroRGB |
- - [http://retrorgb.com](http://retrorgb.com)
- - date published: 2024-04-28T04:44:52.273877+00:00
- - user: None
- - tags: []
-
-## RetroRGB |
- - [https://www.retrorgb.com](https://www.retrorgb.com)
- - date published: 2024-01-19T18:38:43+00:00
- - user: None
- - tags: ['retro games']
-
-## Retro Synthwave – Outrun
- - [https://www.retro-synthwave.com](https://www.retro-synthwave.com)
- - date published: 2023-11-13T10:27:34.345834+00:00
- - user: None
- - tags: ['synthwave']
-
-## retrotechnology.com, retrotechnology.net
- - [http://retrotechnology.com](http://retrotechnology.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## retrotechnology.com, retrotechnology.net
- - [https://www.retrotechnology.com](https://www.retrotechnology.com)
- - date published: 2023-10-25T08:47:48.567953+00:00
- - user: None
- - tags: ['personal']
-
-## Home | RetroTINK LLC
- - [https://www.retrotink.com](https://www.retrotink.com)
- - date published: 2024-01-19T18:33:04+00:00
- - user: None
- - tags: ['retro games', 'hardware']
-
-## PowerShark for your Amiga is coming!
- - [https://retrousbpower.com](https://retrousbpower.com)
- - date published: 2024-02-02T07:10:46.302196+00:00
- - user: None
- - tags: ['amiga', 'hardware']
-
-## Return to Monkey Island | Available now on PC, Nintendo Swtich, PS5, and Xbox S/X
- - [https://returntomonkeyisland.com](https://returntomonkeyisland.com)
- - date published: 2023-10-25T16:50:39.735294+00:00
- - user: None
- - tags: []
-
-## The Lord of the Rings: Return to Moria™
- - [https://www.returntomoria.com](https://www.returntomoria.com)
- - date published: 2023-10-25T13:56:54.054723+00:00
- - user: None
- - tags: ['tolkien']
-
-## Return To Office Mandates
- - [https://returntoofficemandate.com](https://returntoofficemandate.com)
- - date published: 2024-03-18T15:01:05+00:00
- - user: rumpel
- - tags: ['work']
-
-## ReType Foundry | High quality fonts for print and web
- - [http://www.re-type.com](http://www.re-type.com)
- - date published: 2024-05-04T06:32:57.793158+00:00
- - user: None
- - tags: []
-
-## Reuters Liaison
- - [https://liaison.reuters.com](https://liaison.reuters.com)
- - date published: 2024-04-28T04:45:58.805856+00:00
- - user: None
- - tags: []
-
-## Reuters | Breaking International News & Views
- - [https://www.reuters.com](https://www.reuters.com)
- - date published: 2023-10-25T10:38:41.639140+00:00
- - user: None
- - tags: ['news agency']
-
-## 404 - Not found or no permission to access
- - [https://info.reutersagency.com](https://info.reutersagency.com)
- - date published: 2024-04-28T04:45:46.772305+00:00
- - user: None
- - tags: []
-
-## International News Agency | Multimedia News Provider | Reuters
- - [https://www.reutersagency.com](https://www.reutersagency.com)
- - date published: 2023-10-25T16:50:47.197541+00:00
  - user: None
  - tags: []
 

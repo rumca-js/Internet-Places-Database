@@ -1,3 +1,646 @@
+## None
+ - [https://app.daily.dev](https://app.daily.dev)
+ - date published: 2024-04-11T15:15:32.032815+00:00
+ - user: None
+ - tags: []
+
+## daily.dev | Where developers grow together
+ - [https://daily.dev](https://daily.dev)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## A blog by Yosua Ian Sebastian
+ - [https://darcien.dev](https://darcien.dev)
+ - date published: 2024-03-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dart programming language
+ - [https://dart.dev](https://dart.dev)
+ - date published: 2024-04-28T02:26:06.253045+00:00
+ - user: None
+ - tags: []
+
+## DartPad
+ - [https://dartpad.dev](https://dartpad.dev)
+ - date published: 2024-04-29T07:44:11.474614+00:00
+ - user: None
+ - tags: ['dart', 'editor', 'flutter']
+
+## Show HN: Darwin – Automate Your GitHub Project with AI
+ - [https://darwin-ai.dev](https://darwin-ai.dev)
+ - date published: 2024-02-26T17:33:06+00:00
+ - user: None
+ - tags: []
+
+## dbdev | The Database Package Manager
+ - [https://database.dev](https://database.dev)
+ - date published: 2023-10-25T18:37:10.874218+00:00
+ - user: None
+ - tags: []
+
+## davidamos.dev - Ta strona jest na sprzedaż! - davidamos Zasoby i informacje.
+ - [https://davidamos.dev](https://davidamos.dev)
+ - date published: 2024-01-09T02:57:06.453997+00:00
+ - user: None
+ - tags: []
+
+## David Capper
+ - [https://davidcapper.dev](https://davidcapper.dev)
+ - date published: 2024-01-08T13:02:44.729428+00:00
+ - user: None
+ - tags: []
+
+## ~/.didev
+ - [https://davidisaksson.dev](https://davidisaksson.dev)
+ - date published: 2023-10-25T08:58:27.129547+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Nguyen
+ - [https://davidnguyen.dev](https://davidnguyen.dev)
+ - date published: 2023-12-03T09:19:51.549979+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Parks
+ - [https://davidparks.dev](https://davidparks.dev)
+ - date published: 2024-05-04T09:14:17.172846+00:00
+ - user: None
+ - tags: []
+
+## RoR Debugbar
+ - [https://debugbar.dev](https://debugbar.dev)
+ - date published: 2024-02-18T16:39:57+00:00
+ - user: None
+ - tags: []
+
+## Deklara
+ - [https://deklara.dev](https://deklara.dev)
+ - date published: 2024-05-02T12:07:18.814624+00:00
+ - user: None
+ - tags: []
+
+## Jakob Serlier's Personal Site
+ - [https://delft.dev](https://delft.dev)
+ - date published: 2024-01-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Not Found
+ - [https://assets.den.dev](https://assets.den.dev)
+ - date published: 2024-04-29T07:34:38.360802+00:00
+ - user: None
+ - tags: []
+
+## PowerToys Awake
+ - [https://awake.den.dev](https://awake.den.dev)
+ - date published: 2024-04-29T07:34:40.070657+00:00
+ - user: None
+ - tags: []
+
+## Hi, I'm Den :wave:
+ - [https://den.dev](https://den.dev)
+ - date published: 2023-10-25T08:58:28.132514+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Sherret
+ - [https://david.deno.dev](https://david.deno.dev)
+ - date published: 2024-02-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Fresh Charts Examples
+ - [https://fresh-charts.deno.dev](https://fresh-charts.deno.dev)
+ - date published: 2024-05-04T09:45:01.251969+00:00
+ - user: None
+ - tags: []
+
+## Fresh - The next-gen web framework.
+ - [https://fresh.deno.dev](https://fresh.deno.dev)
+ - date published: 2024-04-30T02:02:33.536846+00:00
+ - user: None
+ - tags: []
+
+## nocuous
+ - [https://nocuous.deno.dev](https://nocuous.deno.dev)
+ - date published: 2024-05-04T09:44:36.819503+00:00
+ - user: None
+ - tags: []
+
+## tswhy‽
+ - [https://tswhy.deno.dev](https://tswhy.deno.dev)
+ - date published: 2024-05-04T09:44:35.214357+00:00
+ - user: None
+ - tags: []
+
+## Overview · Denoflare
+ - [https://denoflare.dev](https://denoflare.dev)
+ - date published: 2024-02-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Writing | denvaar's Site
+ - [https://denvaar.dev](https://denvaar.dev)
+ - date published: 2023-11-16T09:28:41.834997+00:00
+ - user: None
+ - tags: []
+
+## Depot
+ - [https://depot.dev](https://depot.dev)
+ - date published: 2023-10-25T18:37:13.920387+00:00
+ - user: None
+ - tags: []
+
+## Status | Depot
+ - [https://status.depot.dev](https://status.depot.dev)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://desislav.dev
+ - [https://desislav.dev](https://desislav.dev)
+ - date published: 2024-01-09T02:57:13.240861+00:00
+ - user: None
+ - tags: []
+
+## David De Smet | Resume
+ - [https://www.desmet.dev](https://www.desmet.dev)
+ - date published: 2024-05-06T09:08:43.820411+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Developing Dev | Ryan Peterman | Substack
+ - [https://www.developing.dev](https://www.developing.dev)
+ - date published: 2023-10-25T18:37:18.745268+00:00
+ - user: None
+ - tags: []
+
+## DevOps.dev
+ - [https://blog.devops.dev](https://blog.devops.dev)
+ - date published: 2023-10-25T18:37:21.821387+00:00
+ - user: None
+ - tags: []
+
+## Differential: Type safe RPC that feels like local functions
+ - [https://www.differential.dev](https://www.differential.dev)
+ - date published: 2024-03-09T03:15:16+00:00
+ - user: None
+ - tags: []
+
+## Digger.dev
+ - [https://blog.digger.dev](https://blog.digger.dev)
+ - date published: 2024-01-04T16:43:27.471043+00:00
+ - user: None
+ - tags: []
+
+## Digger - CI/CD orchestrator for Terraform
+ - [https://digger.dev](https://digger.dev)
+ - date published: 2024-04-29T07:35:21.341604+00:00
+ - user: None
+ - tags: []
+
+## About Digger - Digger
+ - [https://docs.digger.dev](https://docs.digger.dev)
+ - date published: 2024-04-29T07:35:24.039355+00:00
+ - user: None
+ - tags: []
+
+## Disane.dev - Personal tech blog
+ - [https://blog.disane.dev](https://blog.disane.dev)
+ - date published: 2024-01-02T05:20:52.454570+00:00
+ - user: None
+ - tags: []
+
+## Uptime Kuma
+ - [https://external.disane.dev](https://external.disane.dev)
+ - date published: 2024-04-29T07:35:25.733885+00:00
+ - user: None
+ - tags: []
+
+## Umami
+ - [https://statistics.disane.dev](https://statistics.disane.dev)
+ - date published: 2024-04-29T07:35:24.813618+00:00
+ - user: None
+ - tags: []
+
+## djhworld - thoughts
+ - [https://djharper.dev](https://djharper.dev)
+ - date published: 2023-10-25T18:37:23.198428+00:00
+ - user: None
+ - tags: []
+
+## Hristiyan Dodov: Full-Stack Developer at Oblik Studio
+ - [https://dodov.dev](https://dodov.dev)
+ - date published: 2023-10-25T18:37:24.848610+00:00
+ - user: None
+ - tags: []
+
+## Doist Engineering
+ - [https://doist.dev](https://doist.dev)
+ - date published: 2024-03-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dokemon - Docker Container Management GUI
+ - [https://dokemon.dev](https://dokemon.dev)
+ - date published: 2024-04-08T19:28:07.698026+00:00
+ - user: None
+ - tags: ['self-host', 'docker manager']
+
+## Jan Dolanský ✦ Portfolio
+ - [https://dolansky.dev](https://dolansky.dev)
+ - date published: 2024-05-06T09:12:12.725504+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | Dozzle
+ - [https://dozzle.dev](https://dozzle.dev)
+ - date published: 2024-04-08T19:28:08.511106+00:00
+ - user: None
+ - tags: ['self-host', 'docker log viewer']
+
+## dprint - Code Formatter
+ - [https://dprint.dev](https://dprint.dev)
+ - date published: 2024-04-29T07:34:42.354563+00:00
+ - user: None
+ - tags: []
+
+## Technical Marketing Content for Software Startups | Draft.dev
+ - [https://draft.dev](https://draft.dev)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Earthly Blog
+ - [https://blog.earthly.dev](https://blog.earthly.dev)
+ - date published: 2024-04-29T07:35:42.904789+00:00
+ - user: None
+ - tags: []
+
+## Earthly
+ - [https://cloud.earthly.dev](https://cloud.earthly.dev)
+ - date published: 2024-04-29T07:35:51.073775+00:00
+ - user: None
+ - tags: []
+
+## Introduction | Earthly 0.8 | Earthly
+ - [https://docs.earthly.dev](https://docs.earthly.dev)
+ - date published: 2024-04-29T07:35:46.209311+00:00
+ - user: None
+ - tags: []
+
+## Earthly - Make Builds Super Simple
+ - [https://earthly.dev](https://earthly.dev)
+ - date published: 2023-10-25T18:37:27.899029+00:00
+ - user: None
+ - tags: []
+
+## Jobs at Earthly Technologies
+ - [https://jobs.earthly.dev](https://jobs.earthly.dev)
+ - date published: 2024-04-29T07:35:37.875201+00:00
+ - user: None
+ - tags: []
+
+## Join Our Content Newsletter
+ - [https://newsletter.earthly.dev](https://newsletter.earthly.dev)
+ - date published: 2024-04-29T07:35:43.889274+00:00
+ - user: None
+ - tags: []
+
+## Earthly Technologies status
+ - [https://status.earthly.dev](https://status.earthly.dev)
+ - date published: 2024-04-29T07:35:47.193647+00:00
+ - user: None
+ - tags: []
+
+## ebpf-go Documentation
+ - [https://ebpf-go.dev](https://ebpf-go.dev)
+ - date published: 2024-04-29T06:28:09.544531+00:00
+ - user: None
+ - tags: []
+
+## echoserver: A simple echo server for testing HTTP clients.
+ - [https://echoserver.dev](https://echoserver.dev)
+ - date published: 2023-10-25T18:37:29.344617+00:00
+ - user: None
+ - tags: []
+
+## Ecostack —
+        a developer blog
+ - [https://ecostack.dev](https://ecostack.dev)
+ - date published: 2023-10-25T18:37:30.969613+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://blog.edfloreshz.dev](https://blog.edfloreshz.dev)
+ - date published: 2024-01-09T02:57:13.936356+00:00
+ - user: None
+ - tags: []
+
+## Easily handle file uploads in Next.js | Edge Store
+ - [https://edgestore.dev](https://edgestore.dev)
+ - date published: 2024-04-29T07:32:04.276427+00:00
+ - user: None
+ - tags: []
+
+## Martin Edström
+ - [https://edstrom.dev](https://edstrom.dev)
+ - date published: 2024-03-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Elijah Potter
+ - [https://elijahpotter.dev](https://elijahpotter.dev)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Embark Studios Open Source
+ - [https://embark.dev](https://embark.dev)
+ - date published: 2024-04-29T02:47:03.021294+00:00
+ - user: None
+ - tags: []
+
+## Embrasure
+ - [https://embrasure.dev](https://embrasure.dev)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## My Beliefs
+ - [https://beliefs.emnudge.dev](https://beliefs.emnudge.dev)
+ - date published: 2024-04-29T07:41:19.947788+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://emnudge.dev](https://emnudge.dev)
+ - date published: 2023-10-25T18:37:32.803436+00:00
+ - user: None
+ - tags: []
+
+## My Favorite Things
+ - [https://favorite.emnudge.dev](https://favorite.emnudge.dev)
+ - date published: 2024-04-29T07:41:25.725874+00:00
+ - user: None
+ - tags: []
+
+## Emoji Kitchen
+ - [https://emojikitchen.dev](https://emojikitchen.dev)
+ - date published: 2023-10-25T18:37:39.002696+00:00
+ - user: None
+ - tags: []
+
+## Encore — Escape your backend development burdens
+ - [https://encore.dev](https://encore.dev)
+ - date published: 2023-11-23T13:54:15.244923+00:00
+ - user: None
+ - tags: []
+
+## Join us and build the future of development - Encore
+ - [https://jobs.encore.dev](https://jobs.encore.dev)
+ - date published: 2024-04-29T07:41:41.717556+00:00
+ - user: None
+ - tags: []
+
+## Encore
+ - [https://status.encore.dev](https://status.encore.dev)
+ - date published: 2024-04-29T07:41:43.043994+00:00
+ - user: None
+ - tags: []
+
+## EndBASIC
+ - [https://repl.endbasic.dev](https://repl.endbasic.dev)
+ - date published: 2024-04-29T07:49:22.997910+00:00
+ - user: None
+ - tags: []
+
+## EndBASIC
+ - [https://www.endbasic.dev](https://www.endbasic.dev)
+ - date published: 2024-04-29T07:49:24.738228+00:00
+ - user: None
+ - tags: []
+
+## Matthias Endler
+ - [https://endler.dev](https://endler.dev)
+ - date published: 2023-10-25T18:37:40.403164+00:00
+ - user: None
+ - tags: []
+
+## endtimes.dev
+ - [https://endtimes.dev](https://endtimes.dev)
+ - date published: 2023-10-25T18:37:42.008452+00:00
+ - user: None
+ - tags: []
+
+## Chainguard
+ - [https://console.enforce.dev](https://console.enforce.dev)
+ - date published: 2024-04-29T07:27:52.948924+00:00
+ - user: None
+ - tags: []
+
+## Enhance
+ - [https://enhance.dev](https://enhance.dev)
+ - date published: 2023-10-25T18:37:45.413755+00:00
+ - user: None
+ - tags: []
+
+## Get Really Good at React
+ - [https://epicreact.dev](https://epicreact.dev)
+ - date published: 2024-04-29T07:42:15.928621+00:00
+ - user: None
+ - tags: []
+
+## Web Authentication 🔐
+ - [https://auth.epicweb.dev](https://auth.epicweb.dev)
+ - date published: 2024-04-29T07:42:12.019064+00:00
+ - user: None
+ - tags: []
+
+## Data Modeling Deep Dive 💾
+ - [https://data.epicweb.dev](https://data.epicweb.dev)
+ - date published: 2024-04-29T07:42:18.181881+00:00
+ - user: None
+ - tags: []
+
+## Professional Web Forms 📝
+ - [https://forms.epicweb.dev](https://forms.epicweb.dev)
+ - date published: 2024-04-29T07:42:08.974265+00:00
+ - user: None
+ - tags: []
+
+## Full Stack Foundations 🔭
+ - [https://foundations.epicweb.dev](https://foundations.epicweb.dev)
+ - date published: 2024-04-29T07:42:07.417595+00:00
+ - user: None
+ - tags: []
+
+## Full Stack Testing 🧪
+ - [https://testing.epicweb.dev](https://testing.epicweb.dev)
+ - date published: 2024-04-29T07:42:14.404529+00:00
+ - user: None
+ - tags: []
+
+## Ship Modern Full-Stack Web Applications
+ - [https://www.epicweb.dev](https://www.epicweb.dev)
+ - date published: 2023-10-27T12:49:23.689681+00:00
+ - user: None
+ - tags: []
+
+## Ergomake | Environments-as-a-Service
+ - [https://ergomake.dev](https://ergomake.dev)
+ - date published: 2024-01-09T02:57:14.773368+00:00
+ - user: None
+ - tags: []
+
+## Oxidizing corner
+ - [https://blog.erk.dev](https://blog.erk.dev)
+ - date published: 2023-10-25T18:37:48.559995+00:00
+ - user: None
+ - tags: []
+
+## Flutter - Crea aplicaciones para cualquier pantalla
+ - [https://esflutter.dev](https://esflutter.dev)
+ - date published: 2024-04-29T07:44:11.020194+00:00
+ - user: None
+ - tags: []
+
+## Educational Sensational Inspirational Foundational
+ - [https://esif.dev](https://esif.dev)
+ - date published: 2023-10-25T18:37:55.517883+00:00
+ - user: None
+ - tags: []
+
+## Estee's Tech Blog
+ - [https://blog.esteetey.dev](https://blog.esteetey.dev)
+ - date published: 2024-05-06T13:14:52.028654+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Etcha – Infinite scale, serverless config management
+ - [https://etcha.dev](https://etcha.dev)
+ - date published: 2023-11-18T15:39:55+00:00
+ - user: None
+ - tags: []
+
+## EthanG
+ - [https://ethang.dev](https://ethang.dev)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## What is Evidence? | Evidence Docs
+ - [https://docs.evidence.dev](https://docs.evidence.dev)
+ - date published: 2024-04-29T07:43:16.381155+00:00
+ - user: None
+ - tags: []
+
+## Evidence - Business Intelligence as Code
+ - [https://evidence.dev](https://evidence.dev)
+ - date published: 2023-10-25T18:37:57.379219+00:00
+ - user: None
+ - tags: []
+
+## Join evidence on Slack
+ - [https://slack.evidence.dev](https://slack.evidence.dev)
+ - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Evolu - Local-First Platform Designed for Privacy, Ease of Use, and No Vendor Lock-In – Evolu
+ - [https://www.evolu.dev](https://www.evolu.dev)
+ - date published: 2024-04-30T00:30:08.886685+00:00
+ - user: None
+ - tags: []
+
+## Expo
+ - [https://expo.dev](https://expo.dev)
+ - date published: 2024-05-06T20:15:56.064931+00:00
+ - user: None
+ - tags: []
+
+## Ezell Frazier
+ - [https://ezell.dev](https://ezell.dev)
+ - date published: 2024-05-06T13:58:33.020536+00:00
+ - user: None
+ - tags: []
+
+## Welcome - Faceswap
+ - [https://faceswap.dev](https://faceswap.dev)
+ - date published: 2024-03-22T00:00:00+00:00
+ - user: rumpel
+ - tags: ['open source', 'deep fake']
+
+## Faker
+ - [https://fakerjs.dev](https://fakerjs.dev)
+ - date published: 2024-04-29T07:30:55.142540+00:00
+ - user: None
+ - tags: []
+
+## Faraday.dev
+ - [https://faraday.dev](https://faraday.dev)
+ - date published: 2024-05-06T14:40:50.610082+00:00
+ - user: None
+ - tags: []
+
+## https://farlow.dev
+ - [https://farlow.dev](https://farlow.dev)
+ - date published: 2024-01-09T02:57:15.429770+00:00
+ - user: None
+ - tags: []
+
+## Fast and low overhead web framework, for Node.js | Fastify
+ - [https://fastify.dev](https://fastify.dev)
+ - date published: 2024-05-04T13:00:18.664451+00:00
+ - user: None
+ - tags: []
+
+## Home - FED Mentor
+ - [https://fedmentor.dev](https://fedmentor.dev)
+ - date published: 2023-10-25T18:37:59.320927+00:00
+ - user: None
+ - tags: []
+
+## Feep! search
+ - [https://search.feep.dev](https://search.feep.dev)
+ - date published: 2023-10-25T18:38:00.233684+00:00
+ - user: None
+ - tags: []
+
+## Firecrawl Docs
+ - [https://docs.firecrawl.dev](https://docs.firecrawl.dev)
+ - date published: 2024-04-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Turn entire websites into LLM-ready data
+ - [https://www.firecrawl.dev](https://www.firecrawl.dev)
+ - date published: 2024-04-13T22:32:54+00:00
+ - user: None
+ - tags: ['web crawler']
+
+## Custom Domain by Bitly
+ - [https://share.firefox.dev](https://share.firefox.dev)
+ - date published: 2024-04-29T06:28:04.916930+00:00
+ - user: None
+ - tags: []
+
+## Firezone: Zero trust access that scales
+ - [https://www.firezone.dev](https://www.firezone.dev)
+ - date published: 2024-05-04T09:44:22.070487+00:00
+ - user: None
+ - tags: []
+
+## The Hippocratic License: An Ethical License for Open Source
+ - [https://firstdonoharm.dev](https://firstdonoharm.dev)
+ - date published: 2021-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Flawless - Durable Execution Engine
  - [https://flawless.dev](https://flawless.dev)
  - date published: 2023-12-19T00:00:00+00:00
@@ -5094,6 +5737,12 @@
  - user: None
  - tags: []
 
+## Velkommen till Warner Bros. Discovery Danmark
+ - [https://discoverydenmark.dk](https://discoverydenmark.dk)
+ - date published: 2024-05-07T12:49:11.291309+00:00
+ - user: None
+ - tags: []
+
 ## Disney Danmark | Det officielle websted for Disney-film
  - [https://www.disney.dk](https://www.disney.dk)
  - date published: 2024-05-01T05:17:41.028057+00:00
@@ -5351,652 +6000,4 @@
  - date published: 2024-04-03T06:32:02.006865+00:00
  - user: None
  - tags: ['personal']
-
-## Sydsjællands havedamscenter, alt til havedammen og bassiner
- - [https://havedamscenter.dk](https://havedamscenter.dk)
- - date published: 2024-04-30T02:47:43.412830+00:00
- - user: None
- - tags: []
-
-## Optimal solutions for level measurement and control of oil and refrigerants
- - [https://www.hbproducts.dk](https://www.hbproducts.dk)
- - date published: 2024-05-07T10:04:57.119061+00:00
- - user: None
- - tags: []
-
-## HelloFresh: God mad lige til døren
- - [https://www.hellofresh.dk](https://www.hellofresh.dk)
- - date published: 2024-05-02T13:59:07.851749+00:00
- - user: None
- - tags: []
-
-## Hjemmeværnet
- - [https://www.hjv.dk](https://www.hjv.dk)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## IDA Play
- - [https://videos.ida.dk](https://videos.ida.dk)
- - date published: 2024-04-28T02:08:31.231640+00:00
- - user: None
- - tags: []
-
-## Idrætsmonitor
- - [https://idraetsmonitor.dk](https://idraetsmonitor.dk)
- - date published: 2024-04-30T02:44:48.999013+00:00
- - user: None
- - tags: []
-
-## Gør dit website CO2-neutralt og styrk dit brand  |  IngenCO2
- - [https://www.ingenco2.dk](https://www.ingenco2.dk)
- - date published: 2024-05-01T04:33:27.891016+00:00
- - user: None
- - tags: []
-
-## IOI Account
- - [https://account.ioi.dk](https://account.ioi.dk)
- - date published: 2024-04-30T02:41:04.670676+00:00
- - user: None
- - tags: []
-
-## IO Interactive - Homepage
- - [https://ioi.dk](https://ioi.dk)
- - date published: 2024-04-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## IO Interactive - Homepage
- - [https://www.ioi.dk](https://www.ioi.dk)
- - date published: 2023-10-25T18:45:23.268649+00:00
- - user: None
- - tags: []
-
-## IT University of Copenhagen
- - [https://en.itu.dk](https://en.itu.dk)
- - date published: 2024-05-04T15:44:07.922017+00:00
- - user: None
- - tags: []
-
-## Log in to the site | learnIT
- - [https://learnit.itu.dk](https://learnit.itu.dk)
- - date published: 2024-05-04T15:44:01.486668+00:00
- - user: None
- - tags: []
-
-## Jyllands-Posten - Nyheder til dig, der vil vide mere
- - [https://jyllands-posten.dk](https://jyllands-posten.dk)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Kaspersky-cybersikkerhedsløsninger til hjemmet og virksomheden | Kaspersky
- - [https://www.kaspersky.dk](https://www.kaspersky.dk)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Git repository browser
- - [https://git.kernel.dk](https://git.kernel.dk)
- - date published: 2024-01-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Git repository browser
- - [https://kernel.dk](https://kernel.dk)
- - date published: 2023-10-25T18:45:26.253226+00:00
- - user: None
- - tags: []
-
-## None
- - [https://klassikeren.dk](https://klassikeren.dk)
- - date published: 2024-02-08T22:09:11.281885+00:00
- - user: None
- - tags: []
-
-## Klimamonitor
- - [https://klimamonitor.dk](https://klimamonitor.dk)
- - date published: 2024-04-30T02:43:26.435471+00:00
- - user: None
- - tags: []
-
-## About the University of Copenhagen – University of Copenhagen
- - [https://about.ku.dk](https://about.ku.dk)
- - date published: 2024-04-30T02:41:24.791979+00:00
- - user: None
- - tags: []
-
-## Beredskabssite – Københavns Universitet
- - [https://akut.ku.dk](https://akut.ku.dk)
- - date published: 2024-04-30T02:42:00.072097+00:00
- - user: None
- - tags: []
-
-## KU Alumne – Københavns Universitet
- - [https://alumni.ku.dk](https://alumni.ku.dk)
- - date published: 2024-04-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Institut for Antropologi – Københavns Universitet
- - [https://antropologi.ku.dk](https://antropologi.ku.dk)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Københavns Universitet – Københavns Universitet
- - [https://cms.ku.dk](https://cms.ku.dk)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Collaboration – University of Copenhagen
- - [https://collaboration.ku.dk](https://collaboration.ku.dk)
- - date published: 2024-04-30T02:41:23.352366+00:00
- - user: None
- - tags: []
-
-## Continuing Education – University of Copenhagen
- - [https://continuing-education.ku.dk](https://continuing-education.ku.dk)
- - date published: 2024-03-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## University of Copenhagen - Courses
- - [http://courses.ku.dk](http://courses.ku.dk)
- - date published: 2024-04-30T02:41:30.343372+00:00
- - user: None
- - tags: []
-
-## Designguide – Københavns Universitet
- - [https://designguide.ku.dk](https://designguide.ku.dk)
- - date published: 2024-04-30T02:42:21.150763+00:00
- - user: None
- - tags: []
-
-## Datalogisk Institut – Københavns Universitet
- - [https://di.ku.dk](https://di.ku.dk)
- - date published: 2024-04-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## Efteruddannelse – Københavns Universitet
- - [https://efteruddannelse.ku.dk](https://efteruddannelse.ku.dk)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Job Portal - Job and career – University of Copenhagen
- - [https://employment.ku.dk](https://employment.ku.dk)
- - date published: 2024-04-30T02:41:26.907704+00:00
- - user: None
- - tags: []
-
-## Kort over KU's enheder – Københavns Universitet
- - [https://findvej.ku.dk](https://findvej.ku.dk)
- - date published: 2024-04-30T02:41:53.759111+00:00
- - user: None
- - tags: []
-
-## Københavns Universitets tilbud til gymnasiet og grundskolen
- - [https://fokus.ku.dk](https://fokus.ku.dk)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Forskning ved Københavns Universitet – Københavns Universitet
- - [https://forskning.ku.dk](https://forskning.ku.dk)
- - date published: 2024-02-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Faculty of Health and Medical Sciences – University of Copenhagen
- - [https://healthsciences.ku.dk](https://healthsciences.ku.dk)
- - date published: 2023-11-14T09:26:10.548804+00:00
- - user: None
- - tags: []
-
-## Informationssikkerhed – Københavns Universitet
- - [https://informationssikkerhed.ku.dk](https://informationssikkerhed.ku.dk)
- - date published: 2024-04-30T02:41:19.562536+00:00
- - user: None
- - tags: []
-
-## For international researchers at the University of Copenhagen – University of Copenhagen
- - [https://ism.ku.dk](https://ism.ku.dk)
- - date published: 2024-04-30T02:41:58.649146+00:00
- - user: None
- - tags: []
-
-## Jobportal - Job og karriere på Københavns Universitet – Københavns Universitet
- - [https://jobportal.ku.dk](https://jobportal.ku.dk)
- - date published: 2024-04-30T02:42:25.907218+00:00
- - user: None
- - tags: []
-
-## Offentlige arrangementer – Københavns Universitet
- - [https://kalender.ku.dk](https://kalender.ku.dk)
- - date published: 2024-04-30T02:42:31.744210+00:00
- - user: None
- - tags: []
-
-## Københavns Universitet – Københavns Universitet
- - [http://kommunikation.ku.dk](http://kommunikation.ku.dk)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Københavns Universitetsbibliotek  – Københavns Universitet
- - [https://kub.ku.dk](https://kub.ku.dk)
- - date published: 2024-04-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## University of Copenhagen - Courses
- - [https://kurser.ku.dk](https://kurser.ku.dk)
- - date published: 2024-04-30T02:42:32.840519+00:00
- - user: None
- - tags: []
-
-## KU Lighthouse – Københavns Universitet
- - [https://lighthouse.ku.dk](https://lighthouse.ku.dk)
- - date published: 2024-04-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Københavns Universitet – Københavns Universitet
- - [https://mangfoldighed.ku.dk](https://mangfoldighed.ku.dk)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Niels Bohr Institutet – Niels Bohr Institutet - Københavns Universitet
- - [https://nbi.ku.dk](https://nbi.ku.dk)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## News – University of Copenhagen
- - [https://news.ku.dk](https://news.ku.dk)
- - date published: 2023-10-25T11:22:10.749501+00:00
- - user: None
- - tags: []
-
-## Nyheder - Forskning - Videnskab – Københavns Universitet
- - [https://nyheder.ku.dk](https://nyheder.ku.dk)
- - date published: 2024-03-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Department of Odontology – University of Copenhagen
- - [https://odontology.ku.dk](https://odontology.ku.dk)
- - date published: 2024-04-30T02:41:49.950503+00:00
- - user: None
- - tags: []
-
-## Om universitetet – Københavns Universitet
- - [https://om.ku.dk](https://om.ku.dk)
- - date published: 2024-04-30T02:42:07.321302+00:00
- - user: None
- - tags: []
-
-## Ph.d.-uddannelserne på Københavns Universitet – Københavns Universitet
- - [https://phd.ku.dk](https://phd.ku.dk)
- - date published: 2024-04-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Research – University of Copenhagen
- - [https://research.ku.dk](https://research.ku.dk)
- - date published: 2024-04-30T02:41:45.518368+00:00
- - user: None
- - tags: []
-
-## Samarbejde – Københavns Universitet
- - [https://samarbejde.ku.dk](https://samarbejde.ku.dk)
- - date published: 2024-04-30T02:42:24.650876+00:00
- - user: None
- - tags: []
-
-## Det Samfundsvidenskabelige Fakultet – Københavns Universitet
- - [https://samf.ku.dk](https://samf.ku.dk)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## SCIENCE – Københavns Universitet
- - [https://science.ku.dk](https://science.ku.dk)
- - date published: 2023-10-25T18:45:30.552340+00:00
- - user: None
- - tags: []
-
-## Search – University of Copenhagen
- - [https://search.ku.dk](https://search.ku.dk)
- - date published: 2024-04-30T02:41:38.724843+00:00
- - user: None
- - tags: []
-
-## Statens Naturhistoriske Museum – Københavns Universitet
- - [https://snm.ku.dk](https://snm.ku.dk)
- - date published: 2024-04-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Søgning – Københavns Universitet
- - [https://soeg.ku.dk](https://soeg.ku.dk)
- - date published: 2024-04-30T02:42:28.327018+00:00
- - user: None
- - tags: []
-
-## Studier på Københavns Universitet – Københavns Universitet
- - [https://studier.ku.dk](https://studier.ku.dk)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## International Students – University of Copenhagen
- - [https://studies.ku.dk](https://studies.ku.dk)
- - date published: 2024-03-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## SUND Hub - en del af the Pipeline & KU Lighthouse – Københavns Universitet
- - [https://sundhub.ku.dk](https://sundhub.ku.dk)
- - date published: 2024-04-30T02:41:48.499126+00:00
- - user: None
- - tags: []
-
-## Det Sundhedsvidenskabelige Fakultet – Københavns Universitet
- - [https://sund.ku.dk](https://sund.ku.dk)
- - date published: 2024-04-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Skolen for Veterinærmedicin og Husdyrvidenskab – Københavns Universitet
- - [https://vetschool.ku.dk](https://vetschool.ku.dk)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Københavns Universitets Videoportal
- - [https://video.ku.dk](https://video.ku.dk)
- - date published: 2024-04-30T02:42:22.445399+00:00
- - user: None
- - tags: []
-
-## Københavns Universitet – Københavns Universitet
- - [https://www.ku.dk](https://www.ku.dk)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## tandlægeskolen.ku.dk – Københavns Universitet
- - [https://xn--tandlgeskolen-7fb.ku.dk](https://xn--tandlgeskolen-7fb.ku.dk)
- - date published: 2024-04-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Kulturmonitor
- - [https://kulturmonitor.dk](https://kulturmonitor.dk)
- - date published: 2024-04-30T02:44:00.510964+00:00
- - user: None
- - tags: []
-
-## KU Merchandise. Beklædning og accessories til studerende og gæster.
- - [http://ku-shop.dk](http://ku-shop.dk)
- - date published: 2024-04-30T02:42:13.081954+00:00
- - user: None
- - tags: []
-
-## KU Merchandise. Beklædning og accessories til studerende og gæster.
- - [http://www.ku-shop.dk](http://www.ku-shop.dk)
- - date published: 2024-04-30T02:41:47.076669+00:00
- - user: None
- - tags: []
-
-## Louisiana Design Butik
- - [https://butik.louisiana.dk](https://butik.louisiana.dk)
- - date published: 2024-04-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Louisiana Channel
- - [https://channel.louisiana.dk](https://channel.louisiana.dk)
- - date published: 2017-04-12T08:25:49+00:00
- - user: None
- - tags: []
-
-## Frontpage
- - [https://louisiana.dk](https://louisiana.dk)
- - date published: 2023-11-13T13:41:52.770181+00:00
- - user: None
- - tags: ['museum']
-
-## maragu
- - [https://www.maragu.dk](https://www.maragu.dk)
- - date published: 2024-04-30T02:40:55.828547+00:00
- - user: None
- - tags: []
-
-## Mark Wrobel
- - [https://www.markwrobel.dk](https://www.markwrobel.dk)
- - date published: 2023-11-02T10:46:34.460851+00:00
- - user: None
- - tags: ['amiga', 'personal']
-
-## MitSDU – Studerende – Syddansk Universitet
- - [https://mitsdu.dk](https://mitsdu.dk)
- - date published: 2024-03-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Monitormedier
- - [https://monitormedier.dk](https://monitormedier.dk)
- - date published: 2024-04-30T02:43:49.367081+00:00
- - user: None
- - tags: []
-
-## Frontpage - Novo Nordisk Fonden
- - [https://novonordiskfonden.dk](https://novonordiskfonden.dk)
- - date published: 2024-03-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## ploeh blog
- - [https://blog.ploeh.dk](https://blog.ploeh.dk)
- - date published: 2023-10-25T18:45:40.993665+00:00
- - user: None
- - tags: []
-
-## Politiken
- - [https://e-avis.politiken.dk](https://e-avis.politiken.dk)
- - date published: 2024-04-30T02:44:38.950237+00:00
- - user: None
- - tags: []
-
-## Politiken: Forsiden
- - [https://politiken.dk](https://politiken.dk)
- - date published: 2024-01-05T21:26:06.537360+00:00
- - user: None
- - tags: []
-
-## Advertise with Politiken
- - [https://www.politikenannoncer.dk](https://www.politikenannoncer.dk)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## PolitikenBillet
- - [https://politikenbillet.dk](https://politikenbillet.dk)
- - date published: 2024-04-30T02:44:39.773124+00:00
- - user: None
- - tags: []
-
-## Forside - Politiken Historie
- - [https://politikenhistorie.dk](https://politikenhistorie.dk)
- - date published: 2024-04-30T02:45:34.863555+00:00
- - user: None
- - tags: []
-
-## Polyteknisk Boghandel - Hjem
- - [https://www.polyteknisk.dk](https://www.polyteknisk.dk)
- - date published: 2024-04-30T02:34:34.663623+00:00
- - user: None
- - tags: []
-
-## Porsche - Find din drømmebil her!
- - [http://www.porsche.dk](http://www.porsche.dk)
- - date published: 2024-05-06T23:42:13.574198+00:00
- - user: None
- - tags: []
-
-## Send og modtag pakker og breve
- - [https://www.postnord.dk](https://www.postnord.dk)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Region Midtjylland
- - [http://www.regionmidtjylland.dk](http://www.regionmidtjylland.dk)
- - date published: 2024-04-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Velkommen til  Regnskabsstyrelsen
- - [https://www.regnskabsstyrelsen.dk](https://www.regnskabsstyrelsen.dk)
- - date published: 2024-04-30T02:40:45.702028+00:00
- - user: None
- - tags: []
-
-## Reservestyrken
- - [https://reservestyrken.dk](https://reservestyrken.dk)
- - date published: 2024-04-30T02:40:35.505579+00:00
- - user: None
- - tags: []
-
-## Respekt for hinanden
- - [https://respektforhinanden.dk](https://respektforhinanden.dk)
- - date published: 2024-04-30T02:40:34.661573+00:00
- - user: None
- - tags: []
-
-## Oplev naturvidenskab i øjenhøjde på Science Museerne
- - [https://sciencemuseerne.dk](https://sciencemuseerne.dk)
- - date published: 2024-04-30T02:33:32.983871+00:00
- - user: None
- - tags: []
-
-## SDU Bibliotek
- - [https://books.sdu.dk](https://books.sdu.dk)
- - date published: 2024-04-30T02:45:47.330250+00:00
- - user: None
- - tags: []
-
-## You are entering the digital exam portal for - University of Southern Denmark
- - [https://digitaleksamen.sdu.dk](https://digitaleksamen.sdu.dk)
- - date published: 2024-04-30T02:45:44.863844+00:00
- - user: None
- - tags: []
-
-## Syddansk Universitet
- - [https://portal.findresearcher.sdu.dk](https://portal.findresearcher.sdu.dk)
- - date published: 2024-04-30T02:45:49.397427+00:00
- - user: None
- - tags: []
-
-## Syddansk Universitet
- - [https://sdu.dk](https://sdu.dk)
- - date published: 2024-03-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## SDU Single Sign-On
- - [https://sso.sdu.dk](https://sso.sdu.dk)
- - date published: 2024-04-30T02:45:53.601559+00:00
- - user: None
- - tags: []
-
-## Syddansk Universitet
- - [https://www.sdu.dk](https://www.sdu.dk)
- - date published: 2024-01-05T15:18:32.819279+00:00
- - user: None
- - tags: []
-
-## SDUnet - Syddansk Universitets intranet
- - [https://sdunet.dk](https://sdunet.dk)
- - date published: 2024-01-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## SektorCERT
- - [https://sektorcert.dk](https://sektorcert.dk)
- - date published: 2023-11-12T14:44:45.072325+00:00
- - user: None
- - tags: []
-
-## Seniormonitor
- - [https://seniormonitor.dk](https://seniormonitor.dk)
- - date published: 2024-04-30T02:44:15.460810+00:00
- - user: None
- - tags: []
-
-## SIDFX | The ultimate dual SID solution
- - [https://www.sidfx.dk](https://www.sidfx.dk)
- - date published: 2024-03-27T12:18:13+00:00
- - user: rumpel
- - tags: ['sid music']
-
-## Skolemonitor
- - [https://skolemonitor.dk](https://skolemonitor.dk)
- - date published: 2024-04-30T02:44:38.122014+00:00
- - user: None
- - tags: []
-
-## Forside
- - [https://www.smukfest.dk](https://www.smukfest.dk)
- - date published: 2024-05-06T17:18:20.517762+00:00
- - user: None
- - tags: []
-
-## Socialmonitor
- - [https://socialmonitor.dk](https://socialmonitor.dk)
- - date published: 2024-04-30T02:43:36.129785+00:00
- - user: None
- - tags: []
-
-## None
- - [https://spacecontroller.dk](https://spacecontroller.dk)
- - date published: 2024-02-08T21:47:23.123244+00:00
- - user: None
- - tags: []
-
-## Sundhedsstyrelsen
- - [https://www.sst.dk](https://www.sst.dk)
- - date published: 2023-10-25T18:46:10.089946+00:00
- - user: None
- - tags: []
-
-## Design selv klistermærker og stickers!
- - [https://stickerapp.dk](https://stickerapp.dk)
- - date published: 2024-02-08T17:52:02.329878+00:00
- - user: None
- - tags: []
-
-## Sundhedsmonitor
- - [https://sundhedsmonitor.dk](https://sundhedsmonitor.dk)
- - date published: 2024-04-30T02:45:06.848796+00:00
- - user: None
- - tags: []
-
-## The Local Denmark - News and practical guides in English
- - [https://www.thelocal.dk](https://www.thelocal.dk)
- - date published: 2024-05-06T15:16:51.406696+00:00
- - user: None
- - tags: []
-
-## Thor Vestergaard Christiansen
- - [https://www.thorshammer.dk](https://www.thorshammer.dk)
- - date published: 2024-05-04T15:18:09.571411+00:00
- - user: None
- - tags: []
 
