@@ -503,16 +503,16 @@
  - tags: []
 
 ## Favicon & App Icon Generator
- - [https://www.favicon-generator.org](https://www.favicon-generator.org)
- - date published: 2024-05-06T20:26:59.657873+00:00
- - user: None
- - tags: []
-
-## Favicon & App Icon Generator
  - [http://www.favicon-generator.org](http://www.favicon-generator.org)
  - date published: 2024-05-06T12:49:48.907849+00:00
  - user: None
  - tags: ['online tool', 'image tool']
+
+## Favicon & App Icon Generator
+ - [https://www.favicon-generator.org](https://www.favicon-generator.org)
+ - date published: 2024-05-06T20:26:59.657873+00:00
+ - user: None
+ - tags: []
 
 ## FAWM : February Album Writing Month
  - [https://fiftyninety.fawm.org](https://fiftyninety.fawm.org)

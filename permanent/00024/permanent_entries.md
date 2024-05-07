@@ -2052,14 +2052,14 @@
  - tags: []
 
 ## The Virginian-Pilot Archives
- - [https://pilotonline.newsbank.com](https://pilotonline.newsbank.com)
- - date published: 2024-02-06T00:00:00+00:00
+ - [http://pilotonline.newsbank.com](http://pilotonline.newsbank.com)
+ - date published: 2024-01-30T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Virginian-Pilot Archives
- - [http://pilotonline.newsbank.com](http://pilotonline.newsbank.com)
- - date published: 2024-01-30T00:00:00+00:00
+ - [https://pilotonline.newsbank.com](https://pilotonline.newsbank.com)
+ - date published: 2024-02-06T00:00:00+00:00
  - user: None
  - tags: []
 

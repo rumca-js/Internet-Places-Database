@@ -5160,14 +5160,14 @@
  - tags: ['blog', 'interesting', 'personal']
 
 ## HTTP Status Dogs
- - [httpstatusdogs.com](httpstatusdogs.com)
- - date published: 2024-01-09T02:38:19.350410+00:00
+ - [https://httpstatusdogs.com](https://httpstatusdogs.com)
+ - date published: 2024-01-21T01:43:06.311441+00:00
  - user: None
  - tags: []
 
 ## HTTP Status Dogs
- - [https://httpstatusdogs.com](https://httpstatusdogs.com)
- - date published: 2024-01-21T01:43:06.311441+00:00
+ - [httpstatusdogs.com](httpstatusdogs.com)
+ - date published: 2024-01-09T02:38:19.350410+00:00
  - user: None
  - tags: []
 

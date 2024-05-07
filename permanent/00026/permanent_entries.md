@@ -581,14 +581,14 @@
  - tags: []
 
 ## Exitoina
- - [http://exitoina.perfil.com](http://exitoina.perfil.com)
- - date published: 2024-05-06T23:01:57.485925+00:00
+ - [https://exitoina.perfil.com](https://exitoina.perfil.com)
+ - date published: 2024-05-06T23:02:50.016160+00:00
  - user: None
  - tags: []
 
 ## Exitoina
- - [https://exitoina.perfil.com](https://exitoina.perfil.com)
- - date published: 2024-05-06T23:02:50.016160+00:00
+ - [http://exitoina.perfil.com](http://exitoina.perfil.com)
+ - date published: 2024-05-06T23:01:57.485925+00:00
  - user: None
  - tags: []
 
@@ -677,14 +677,14 @@
  - tags: []
 
 ## Rouge | Home
- - [http://rouge.perfil.com](http://rouge.perfil.com)
- - date published: 2024-05-06T23:01:55.142497+00:00
+ - [https://rouge.perfil.com](https://rouge.perfil.com)
+ - date published: 2024-05-06T23:03:08.061837+00:00
  - user: None
  - tags: []
 
 ## Rouge | Home
- - [https://rouge.perfil.com](https://rouge.perfil.com)
- - date published: 2024-05-06T23:03:08.061837+00:00
+ - [http://rouge.perfil.com](http://rouge.perfil.com)
+ - date published: 2024-05-06T23:01:55.142497+00:00
  - user: None
  - tags: []
 
@@ -2276,14 +2276,14 @@
  - tags: []
 
 ## The Virginian-Pilot
- - [http://pilotonline.com](http://pilotonline.com)
- - date published: 2024-05-06T23:18:13.776890+00:00
+ - [https://pilotonline.com](https://pilotonline.com)
+ - date published: 2024-05-06T23:18:24.379364+00:00
  - user: None
  - tags: []
 
 ## The Virginian-Pilot
- - [https://pilotonline.com](https://pilotonline.com)
- - date published: 2024-05-06T23:18:24.379364+00:00
+ - [http://pilotonline.com](http://pilotonline.com)
+ - date published: 2024-05-06T23:18:13.776890+00:00
  - user: None
  - tags: []
 
@@ -2366,13 +2366,13 @@
  - tags: []
 
 ## Mappin’ Around with Scott & Ryan
- - [https://pod.pinballmap.com](https://pod.pinballmap.com)
+ - [http://pod.pinballmap.com](http://pod.pinballmap.com)
  - date published: 2024-04-26T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Mappin’ Around with Scott & Ryan
- - [http://pod.pinballmap.com](http://pod.pinballmap.com)
+ - [https://pod.pinballmap.com](https://pod.pinballmap.com)
  - date published: 2024-04-26T00:00:00+00:00
  - user: None
  - tags: []

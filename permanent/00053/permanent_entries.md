@@ -479,14 +479,14 @@
  - tags: []
 
 ## Digits Web Counter - The Free Page Hit Counter and WebSite Tracker
- - [https://www.digits.net](https://www.digits.net)
- - date published: 2024-05-06T23:30:53.507335+00:00
+ - [http://www.digits.net](http://www.digits.net)
+ - date published: 2024-05-01T02:47:15.575730+00:00
  - user: None
  - tags: []
 
 ## Digits Web Counter - The Free Page Hit Counter and WebSite Tracker
- - [http://www.digits.net](http://www.digits.net)
- - date published: 2024-05-01T02:47:15.575730+00:00
+ - [https://www.digits.net](https://www.digits.net)
+ - date published: 2024-05-06T23:30:53.507335+00:00
  - user: None
  - tags: []
 

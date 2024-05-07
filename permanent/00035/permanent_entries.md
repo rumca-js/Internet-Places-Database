@@ -4190,13 +4190,13 @@
  - tags: []
 
 ## Turok: Dinosaur Hunter Forums!
- - [https://www.turokforums.com](https://www.turokforums.com)
+ - [http://www.turokforums.com](http://www.turokforums.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Turok: Dinosaur Hunter Forums!
- - [http://www.turokforums.com](http://www.turokforums.com)
+ - [https://www.turokforums.com](https://www.turokforums.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
@@ -5734,14 +5734,14 @@
  - tags: []
 
 ## Enterprise Open Source and Linux | Ubuntu
- - [http://www.ubuntu.com](http://www.ubuntu.com)
- - date published: 2024-04-30T05:44:25.498810+00:00
+ - [https://www.ubuntu.com](https://www.ubuntu.com)
+ - date published: 2024-05-06T21:48:45.246864+00:00
  - user: None
  - tags: []
 
 ## Enterprise Open Source and Linux | Ubuntu
- - [https://www.ubuntu.com](https://www.ubuntu.com)
- - date published: 2024-05-06T21:48:45.246864+00:00
+ - [http://www.ubuntu.com](http://www.ubuntu.com)
+ - date published: 2024-04-30T05:44:25.498810+00:00
  - user: None
  - tags: []
 

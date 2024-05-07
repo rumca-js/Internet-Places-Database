@@ -384,14 +384,14 @@
  - tags: []
 
 ## 筑波大学附属病院
- - [http://www.hosp.tsukuba.ac.jp](http://www.hosp.tsukuba.ac.jp)
- - date published: 2024-05-06T15:30:36.870078+00:00
+ - [https://www.hosp.tsukuba.ac.jp](https://www.hosp.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:30:49.943471+00:00
  - user: None
  - tags: []
 
 ## 筑波大学附属病院
- - [https://www.hosp.tsukuba.ac.jp](https://www.hosp.tsukuba.ac.jp)
- - date published: 2024-05-06T15:30:49.943471+00:00
+ - [http://www.hosp.tsukuba.ac.jp](http://www.hosp.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:30:36.870078+00:00
  - user: None
  - tags: []
 
@@ -606,14 +606,14 @@
  - tags: []
 
 ## 東京大学基金
- - [http://utf.u-tokyo.ac.jp](http://utf.u-tokyo.ac.jp)
- - date published: 2024-05-06T15:42:27.874875+00:00
+ - [https://utf.u-tokyo.ac.jp](https://utf.u-tokyo.ac.jp)
+ - date published: 2024-05-06T15:43:04.783232+00:00
  - user: None
  - tags: []
 
 ## 東京大学基金
- - [https://utf.u-tokyo.ac.jp](https://utf.u-tokyo.ac.jp)
- - date published: 2024-05-06T15:43:04.783232+00:00
+ - [http://utf.u-tokyo.ac.jp](http://utf.u-tokyo.ac.jp)
+ - date published: 2024-05-06T15:42:27.874875+00:00
  - user: None
  - tags: []
 
@@ -1632,14 +1632,14 @@
  - tags: []
 
 ## 環境試験技術ユニット
- - [http://shiken.jaxa.jp](http://shiken.jaxa.jp)
- - date published: 2024-05-06T15:50:01.261828+00:00
+ - [https://shiken.jaxa.jp](https://shiken.jaxa.jp)
+ - date published: 2024-05-06T15:50:04.596096+00:00
  - user: None
  - tags: []
 
 ## 環境試験技術ユニット
- - [https://shiken.jaxa.jp](https://shiken.jaxa.jp)
- - date published: 2024-05-06T15:50:04.596096+00:00
+ - [http://shiken.jaxa.jp](http://shiken.jaxa.jp)
+ - date published: 2024-05-06T15:50:01.261828+00:00
  - user: None
  - tags: []
 
@@ -1662,14 +1662,14 @@
  - tags: []
 
 ## JAXA航空技術部門
- - [http://www.aero.jaxa.jp](http://www.aero.jaxa.jp)
- - date published: 2024-05-06T15:49:33.676362+00:00
+ - [https://www.aero.jaxa.jp](https://www.aero.jaxa.jp)
+ - date published: 2024-05-06T15:49:38.691770+00:00
  - user: None
  - tags: []
 
 ## JAXA航空技術部門
- - [https://www.aero.jaxa.jp](https://www.aero.jaxa.jp)
- - date published: 2024-05-06T15:49:38.691770+00:00
+ - [http://www.aero.jaxa.jp](http://www.aero.jaxa.jp)
+ - date published: 2024-05-06T15:49:33.676362+00:00
  - user: None
  - tags: []
 
@@ -1680,14 +1680,14 @@
  - tags: []
 
 ## JAXA 国際宇宙探査センター
- - [https://www.exploration.jaxa.jp](https://www.exploration.jaxa.jp)
- - date published: 2024-05-06T15:49:54.192842+00:00
+ - [http://www.exploration.jaxa.jp](http://www.exploration.jaxa.jp)
+ - date published: 2024-05-06T15:49:37.822239+00:00
  - user: None
  - tags: []
 
 ## JAXA 国際宇宙探査センター
- - [http://www.exploration.jaxa.jp](http://www.exploration.jaxa.jp)
- - date published: 2024-05-06T15:49:37.822239+00:00
+ - [https://www.exploration.jaxa.jp](https://www.exploration.jaxa.jp)
+ - date published: 2024-05-06T15:49:54.192842+00:00
  - user: None
  - tags: []
 
@@ -4728,13 +4728,13 @@
  - tags: ['personal']
 
 ## Home | Scott Knight
- - [https://scottk.mba](https://scottk.mba)
+ - [http://scottk.mba](http://scottk.mba)
  - date published: 2024-04-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Home | Scott Knight
- - [http://scottk.mba](http://scottk.mba)
+ - [https://scottk.mba](https://scottk.mba)
  - date published: 2024-04-27T00:00:00+00:00
  - user: None
  - tags: []
