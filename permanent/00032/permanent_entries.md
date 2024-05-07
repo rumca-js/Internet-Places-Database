@@ -2981,14 +2981,14 @@
  - tags: []
 
 ## Ports | Tim Gorichanaz | Substack
- - [http://ports.substack.com](http://ports.substack.com)
- - date published: 2024-05-06T18:30:56.705063+00:00
+ - [https://ports.substack.com](https://ports.substack.com)
+ - date published: 2024-05-06T18:30:59.687308+00:00
  - user: None
  - tags: []
 
 ## Ports | Tim Gorichanaz | Substack
- - [https://ports.substack.com](https://ports.substack.com)
- - date published: 2024-05-06T18:30:59.687308+00:00
+ - [http://ports.substack.com](http://ports.substack.com)
+ - date published: 2024-05-06T18:30:56.705063+00:00
  - user: None
  - tags: []
 

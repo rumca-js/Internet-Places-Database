@@ -4968,14 +4968,14 @@ Chamber Music, Symphony
  - tags: []
 
 ## freeCodeCamp Podcast
- - [https://freecodecamp.libsyn.com](https://freecodecamp.libsyn.com)
- - date published: 2024-05-06T13:49:17.941780+00:00
+ - [http://freecodecamp.libsyn.com](http://freecodecamp.libsyn.com)
+ - date published: 2024-05-06T13:11:57.548481+00:00
  - user: None
  - tags: []
 
 ## freeCodeCamp Podcast
- - [http://freecodecamp.libsyn.com](http://freecodecamp.libsyn.com)
- - date published: 2024-05-06T13:11:57.548481+00:00
+ - [https://freecodecamp.libsyn.com](https://freecodecamp.libsyn.com)
+ - date published: 2024-05-06T13:49:17.941780+00:00
  - user: None
  - tags: []
 

@@ -594,13 +594,13 @@ Welcome
  - tags: []
 
 ## JSON:API — A specification for building APIs in JSON
- - [https://jsonapi.org](https://jsonapi.org)
+ - [http://jsonapi.org](http://jsonapi.org)
  - date published: 2022-09-30T00:00:00+00:00
  - user: None
  - tags: []
 
 ## JSON:API — A specification for building APIs in JSON
- - [http://jsonapi.org](http://jsonapi.org)
+ - [https://jsonapi.org](https://jsonapi.org)
  - date published: 2022-09-30T00:00:00+00:00
  - user: None
  - tags: []
@@ -2738,14 +2738,14 @@ Hosted by Panix.com.
  - tags: []
 
 ## Lode Vandevenne
- - [https://lodev.org](https://lodev.org)
- - date published: 2024-05-06T23:31:33.316287+00:00
+ - [http://lodev.org](http://lodev.org)
+ - date published: 2024-05-06T14:57:40.262654+00:00
  - user: None
  - tags: []
 
 ## Lode Vandevenne
- - [http://lodev.org](http://lodev.org)
- - date published: 2024-05-06T14:57:40.262654+00:00
+ - [https://lodev.org](https://lodev.org)
+ - date published: 2024-05-06T23:31:33.316287+00:00
  - user: None
  - tags: []
 
@@ -4094,14 +4094,14 @@ Hosted by Panix.com.
  - tags: []
 
 ## Microformats – building blocks for data-rich web pages
- - [https://microformats.org](https://microformats.org)
- - date published: 2024-05-06T17:29:21.213729+00:00
+ - [http://microformats.org](http://microformats.org)
+ - date published: 2024-04-29T00:35:24.441258+00:00
  - user: None
  - tags: []
 
 ## Microformats – building blocks for data-rich web pages
- - [http://microformats.org](http://microformats.org)
- - date published: 2024-04-29T00:35:24.441258+00:00
+ - [https://microformats.org](https://microformats.org)
+ - date published: 2024-05-06T17:29:21.213729+00:00
  - user: None
  - tags: []
 

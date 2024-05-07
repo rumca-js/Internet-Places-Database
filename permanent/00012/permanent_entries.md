@@ -3276,13 +3276,13 @@
  - tags: []
 
 ## More Memorable Connections | Emodo
- - [https://www.emodoinc.com](https://www.emodoinc.com)
+ - [http://www.emodoinc.com](http://www.emodoinc.com)
  - date published: 2024-04-08T00:00:00+00:00
  - user: None
  - tags: []
 
 ## More Memorable Connections | Emodo
- - [http://www.emodoinc.com](http://www.emodoinc.com)
+ - [https://www.emodoinc.com](https://www.emodoinc.com)
  - date published: 2024-04-08T00:00:00+00:00
  - user: None
  - tags: []

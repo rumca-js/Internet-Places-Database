@@ -384,14 +384,14 @@
  - tags: []
 
 ## 筑波大学附属病院
- - [https://www.hosp.tsukuba.ac.jp](https://www.hosp.tsukuba.ac.jp)
- - date published: 2024-05-06T15:30:49.943471+00:00
+ - [http://www.hosp.tsukuba.ac.jp](http://www.hosp.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:30:36.870078+00:00
  - user: None
  - tags: []
 
 ## 筑波大学附属病院
- - [http://www.hosp.tsukuba.ac.jp](http://www.hosp.tsukuba.ac.jp)
- - date published: 2024-05-06T15:30:36.870078+00:00
+ - [https://www.hosp.tsukuba.ac.jp](https://www.hosp.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:30:49.943471+00:00
  - user: None
  - tags: []
 
@@ -1662,14 +1662,14 @@
  - tags: []
 
 ## JAXA航空技術部門
- - [https://www.aero.jaxa.jp](https://www.aero.jaxa.jp)
- - date published: 2024-05-06T15:49:38.691770+00:00
+ - [http://www.aero.jaxa.jp](http://www.aero.jaxa.jp)
+ - date published: 2024-05-06T15:49:33.676362+00:00
  - user: None
  - tags: []
 
 ## JAXA航空技術部門
- - [http://www.aero.jaxa.jp](http://www.aero.jaxa.jp)
- - date published: 2024-05-06T15:49:33.676362+00:00
+ - [https://www.aero.jaxa.jp](https://www.aero.jaxa.jp)
+ - date published: 2024-05-06T15:49:38.691770+00:00
  - user: None
  - tags: []
 
@@ -3426,13 +3426,13 @@
  - tags: []
 
 ## This is Akimbo
- - [https://www.akimbo.link](https://www.akimbo.link)
+ - [http://www.akimbo.link](http://www.akimbo.link)
  - date published: 2024-05-04T00:00:00+00:00
  - user: None
  - tags: []
 
 ## This is Akimbo
- - [http://www.akimbo.link](http://www.akimbo.link)
+ - [https://www.akimbo.link](https://www.akimbo.link)
  - date published: 2024-05-04T00:00:00+00:00
  - user: None
  - tags: []
@@ -4728,13 +4728,13 @@
  - tags: ['personal']
 
 ## Home | Scott Knight
- - [http://scottk.mba](http://scottk.mba)
+ - [https://scottk.mba](https://scottk.mba)
  - date published: 2024-04-27T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Home | Scott Knight
- - [https://scottk.mba](https://scottk.mba)
+ - [http://scottk.mba](http://scottk.mba)
  - date published: 2024-04-27T00:00:00+00:00
  - user: None
  - tags: []

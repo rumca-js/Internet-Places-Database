@@ -1527,13 +1527,13 @@
  - tags: []
 
 ## Swan: The easiest way to embed banking features into your product
- - [https://swan.io](https://swan.io)
+ - [http://swan.io](http://swan.io)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Swan: The easiest way to embed banking features into your product
- - [http://swan.io](http://swan.io)
+ - [https://swan.io](https://swan.io)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
@@ -3360,14 +3360,14 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: []
 
 ## The web's scaffolding tool for modern webapps | Yeoman
- - [https://yeoman.io](https://yeoman.io)
- - date published: 2024-05-06T14:14:00.688591+00:00
+ - [http://yeoman.io](http://yeoman.io)
+ - date published: 2024-04-27T08:04:53.012868+00:00
  - user: None
  - tags: []
 
 ## The web's scaffolding tool for modern webapps | Yeoman
- - [http://yeoman.io](http://yeoman.io)
- - date published: 2024-04-27T08:04:53.012868+00:00
+ - [https://yeoman.io](https://yeoman.io)
+ - date published: 2024-05-06T14:14:00.688591+00:00
  - user: None
  - tags: []
 

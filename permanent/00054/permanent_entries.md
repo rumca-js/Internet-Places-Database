@@ -1713,16 +1713,16 @@
  - tags: ['dungeons and dragons', "baldur's gate", 'video game news']
 
 ## Best Open Source Linux  Software 2024
- - [https://apps.sourceforge.net](https://apps.sourceforge.net)
- - date published: 2024-05-06T12:57:01.705252+00:00
- - user: None
- - tags: ['open source']
-
-## Best Open Source Linux  Software 2024
  - [http://apps.sourceforge.net](http://apps.sourceforge.net)
  - date published: 2024-05-06T12:56:55.894186+00:00
  - user: None
  - tags: []
+
+## Best Open Source Linux  Software 2024
+ - [https://apps.sourceforge.net](https://apps.sourceforge.net)
+ - date published: 2024-05-06T12:57:01.705252+00:00
+ - user: None
+ - tags: ['open source']
 
 ## ArcEm - The Acorn Archimedes Emulator
  - [https://arcem.sourceforge.net](https://arcem.sourceforge.net)

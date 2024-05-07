@@ -809,14 +809,14 @@
  - tags: []
 
 ## Home | NBCUnicareers
- - [https://www.nbcunicareers.com](https://www.nbcunicareers.com)
- - date published: 2024-05-06T20:01:13.881439+00:00
+ - [http://www.nbcunicareers.com](http://www.nbcunicareers.com)
+ - date published: 2024-05-02T09:30:09.074607+00:00
  - user: None
  - tags: []
 
 ## Home | NBCUnicareers
- - [http://www.nbcunicareers.com](http://www.nbcunicareers.com)
- - date published: 2024-05-02T09:30:09.074607+00:00
+ - [https://www.nbcunicareers.com](https://www.nbcunicareers.com)
+ - date published: 2024-05-06T20:01:13.881439+00:00
  - user: None
  - tags: []
 
