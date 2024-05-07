@@ -5701,14 +5701,14 @@
  - tags: ['thriller', 'technology', 'book']
 
 ## Buy now pay later with Afterpay
- - [https://www.afterpay.com](https://www.afterpay.com)
- - date published: 2024-05-07T10:41:25.670062+00:00
+ - [http://www.afterpay.com](http://www.afterpay.com)
+ - date published: 2024-04-30T15:47:43.151319+00:00
  - user: None
  - tags: []
 
 ## Buy now pay later with Afterpay
- - [http://www.afterpay.com](http://www.afterpay.com)
- - date published: 2024-04-30T15:47:43.151319+00:00
+ - [https://www.afterpay.com](https://www.afterpay.com)
+ - date published: 2024-05-07T10:41:25.670062+00:00
  - user: None
  - tags: []
 

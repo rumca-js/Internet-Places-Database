@@ -761,14 +761,14 @@
  - tags: []
 
 ## go.wargamer.com is a custom short domain
- - [https://go.wargamer.com](https://go.wargamer.com)
- - date published: 2024-05-07T11:17:48.521723+00:00
+ - [http://go.wargamer.com](http://go.wargamer.com)
+ - date published: 2024-05-07T11:17:45.957305+00:00
  - user: None
  - tags: []
 
 ## go.wargamer.com is a custom short domain
- - [http://go.wargamer.com](http://go.wargamer.com)
- - date published: 2024-05-07T11:17:45.957305+00:00
+ - [https://go.wargamer.com](https://go.wargamer.com)
+ - date published: 2024-05-07T11:17:48.521723+00:00
  - user: None
  - tags: []
 
@@ -1811,14 +1811,14 @@
  - tags: ['western digital', 'nas drives', 'hard drives']
 
 ## William Eric McFadden
- - [http://wd8rif.com](http://wd8rif.com)
- - date published: 2024-05-07T09:55:37.282200+00:00
+ - [https://wd8rif.com](https://wd8rif.com)
+ - date published: 2024-05-07T09:55:54.413128+00:00
  - user: None
  - tags: []
 
 ## William Eric McFadden
- - [https://wd8rif.com](https://wd8rif.com)
- - date published: 2024-05-07T09:55:54.413128+00:00
+ - [http://wd8rif.com](http://wd8rif.com)
+ - date published: 2024-05-07T09:55:37.282200+00:00
  - user: None
  - tags: []
 

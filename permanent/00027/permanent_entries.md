@@ -3968,14 +3968,14 @@
  - tags: []
 
 ## Privateer Press
- - [http://community.privateerpress.com](http://community.privateerpress.com)
- - date published: 2024-05-07T09:27:11.434080+00:00
+ - [https://community.privateerpress.com](https://community.privateerpress.com)
+ - date published: 2024-05-07T09:27:15.541035+00:00
  - user: None
  - tags: []
 
 ## Privateer Press
- - [https://community.privateerpress.com](https://community.privateerpress.com)
- - date published: 2024-05-07T09:27:15.541035+00:00
+ - [http://community.privateerpress.com](http://community.privateerpress.com)
+ - date published: 2024-05-07T09:27:11.434080+00:00
  - user: None
  - tags: []
 
@@ -4322,14 +4322,14 @@
  - tags: []
 
 ## The Program audio series
- - [https://store.programaudioseries.com](https://store.programaudioseries.com)
- - date published: 2024-05-07T09:31:19.353519+00:00
+ - [http://store.programaudioseries.com](http://store.programaudioseries.com)
+ - date published: 2024-05-07T09:31:16.776245+00:00
  - user: None
  - tags: []
 
 ## The Program audio series
- - [http://store.programaudioseries.com](http://store.programaudioseries.com)
- - date published: 2024-05-07T09:31:16.776245+00:00
+ - [https://store.programaudioseries.com](https://store.programaudioseries.com)
+ - date published: 2024-05-07T09:31:19.353519+00:00
  - user: None
  - tags: []
 
@@ -5870,14 +5870,14 @@
  - tags: []
 
 ## pv magazine Shop
- - [http://shop.pv-magazine.com](http://shop.pv-magazine.com)
- - date published: 2024-05-07T09:47:58.810347+00:00
+ - [https://shop.pv-magazine.com](https://shop.pv-magazine.com)
+ - date published: 2024-05-07T09:47:59.631887+00:00
  - user: None
  - tags: []
 
 ## pv magazine Shop
- - [https://shop.pv-magazine.com](https://shop.pv-magazine.com)
- - date published: 2024-05-07T09:47:59.631887+00:00
+ - [http://shop.pv-magazine.com](http://shop.pv-magazine.com)
+ - date published: 2024-05-07T09:47:58.810347+00:00
  - user: None
  - tags: []
 

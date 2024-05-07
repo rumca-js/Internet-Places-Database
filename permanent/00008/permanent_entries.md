@@ -5369,15 +5369,15 @@
  - user: None
  - tags: []
 
-## Human fetal brain self-organizes into long-term expanding organoids
- - [www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue](www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue)
- - date published: 2024-01-10T19:20:45.384863+00:00
- - user: None
- - tags: []
-
 ## https://www.cell.com
  - [https://www.cell.com](https://www.cell.com)
  - date published: 2023-10-25T13:19:41.208125+00:00
+ - user: None
+ - tags: []
+
+## Human fetal brain self-organizes into long-term expanding organoids
+ - [www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue](www.cell.com/cell/fulltext/s0092-8674(23)01344-2?_returnurl=https%3a%2f%2flinkinghub.elsevier.com%2fretrieve%2fpii%2fs0092867423013442%3fshowall%3dtrue)
+ - date published: 2024-01-10T19:20:45.384863+00:00
  - user: None
  - tags: []
 

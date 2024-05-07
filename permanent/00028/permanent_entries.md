@@ -431,14 +431,14 @@
  - tags: []
 
 ## QRP Labs shop
- - [http://shop.qrp-labs.com](http://shop.qrp-labs.com)
- - date published: 2024-05-07T09:49:19.035732+00:00
+ - [https://shop.qrp-labs.com](https://shop.qrp-labs.com)
+ - date published: 2024-05-07T09:49:20.720795+00:00
  - user: None
  - tags: []
 
 ## QRP Labs shop
- - [https://shop.qrp-labs.com](https://shop.qrp-labs.com)
- - date published: 2024-05-07T09:49:20.720795+00:00
+ - [http://shop.qrp-labs.com](http://shop.qrp-labs.com)
+ - date published: 2024-05-07T09:49:19.035732+00:00
  - user: None
  - tags: []
 

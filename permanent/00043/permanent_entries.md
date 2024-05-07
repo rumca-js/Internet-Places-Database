@@ -3389,14 +3389,14 @@
  - tags: []
 
 ## School of Law
- - [https://www.law.buffalo.edu](https://www.law.buffalo.edu)
- - date published: 2024-05-07T10:05:18.014673+00:00
+ - [http://www.law.buffalo.edu](http://www.law.buffalo.edu)
+ - date published: 2024-04-30T03:31:08.568626+00:00
  - user: None
  - tags: []
 
 ## School of Law
- - [http://www.law.buffalo.edu](http://www.law.buffalo.edu)
- - date published: 2024-04-30T03:31:08.568626+00:00
+ - [https://www.law.buffalo.edu](https://www.law.buffalo.edu)
+ - date published: 2024-05-07T10:05:18.014673+00:00
  - user: None
  - tags: []
 

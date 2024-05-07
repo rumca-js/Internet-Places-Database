@@ -953,14 +953,14 @@
  - tags: ['creators', 'courses', 'tutorials']
 
 ## Skills Matter
- - [http://skillsmatter.com](http://skillsmatter.com)
- - date published: 2024-05-07T09:20:09.718413+00:00
+ - [https://skillsmatter.com](https://skillsmatter.com)
+ - date published: 2024-05-07T09:31:36.608152+00:00
  - user: None
  - tags: []
 
 ## Skills Matter
- - [https://skillsmatter.com](https://skillsmatter.com)
- - date published: 2024-05-07T09:31:36.608152+00:00
+ - [http://skillsmatter.com](http://skillsmatter.com)
+ - date published: 2024-05-07T09:20:09.718413+00:00
  - user: None
  - tags: []
 
@@ -3835,14 +3835,14 @@
  - tags: []
 
 ## Sonoma Media Investments | Sonoma County Investment Group
- - [http://www.sonomamediainvestments.com](http://www.sonomamediainvestments.com)
- - date published: 2024-05-07T09:15:53.178864+00:00
+ - [https://www.sonomamediainvestments.com](https://www.sonomamediainvestments.com)
+ - date published: 2024-05-07T09:16:13.124415+00:00
  - user: None
  - tags: []
 
 ## Sonoma Media Investments | Sonoma County Investment Group
- - [https://www.sonomamediainvestments.com](https://www.sonomamediainvestments.com)
- - date published: 2024-05-07T09:16:13.124415+00:00
+ - [http://www.sonomamediainvestments.com](http://www.sonomamediainvestments.com)
+ - date published: 2024-05-07T09:15:53.178864+00:00
  - user: None
  - tags: []
 
