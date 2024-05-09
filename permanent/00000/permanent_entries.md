@@ -10,6 +10,18 @@
  - user: None
  - tags: []
 
+## AstroLAB
+ - [https://astrolab.ac](https://astrolab.ac)
+ - date published: 2024-05-08T11:36:45.111123+00:00
+ - user: None
+ - tags: []
+
+## Cult of Mac | Apple news, rumors, reviews and how-tos
+ - [https://cultm.ac](https://cultm.ac)
+ - date published: 2024-05-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## The University of Edinburgh
  - [https://edin.ac](https://edin.ac)
  - date published: 2024-05-02T10:53:52.088689+00:00
@@ -85,6 +97,12 @@
 ## Kt. Academy
  - [https://kt.academy](https://kt.academy)
  - date published: 2023-10-25T11:36:04.338918+00:00
+ - user: None
+ - tags: []
+
+## Home | Moodle Academy
+ - [https://moodle.academy](https://moodle.academy)
+ - date published: 2024-05-08T10:30:04.367653+00:00
  - user: None
  - tags: []
 
@@ -268,6 +286,12 @@
  - user: None
  - tags: []
 
+## Smooth Shadow
+ - [https://shadows.brumm.af](https://shadows.brumm.af)
+ - date published: 2024-05-08T11:58:54.906201+00:00
+ - user: None
+ - tags: []
+
 ## Personal
  - [https://www.etisalat.af](https://www.etisalat.af)
  - date published: 2024-05-04T09:33:16.880851+00:00
@@ -313,6 +337,12 @@
 ## Nation - Breaking News, Kenya, Africa, Politics, Business, Sports | HOME
  - [https://nation.africa](https://nation.africa)
  - date published: 2024-01-02T13:15:24.294379+00:00
+ - user: None
+ - tags: []
+
+## Africa’s leading innovative media company
+ - [https://pulse.africa](https://pulse.africa)
+ - date published: 2024-05-08T04:00:06.847520+00:00
  - user: None
  - tags: []
 
@@ -370,6 +400,12 @@
  - user: None
  - tags: []
 
+## Hahn.agency
+ - [https://hahn.agency](https://hahn.agency)
+ - date published: 2024-05-08T11:12:42.452502+00:00
+ - user: None
+ - tags: []
+
 ## Julia Camino. Management & Booking Agency.
  - [http://julia.agency](http://julia.agency)
  - date published: 2024-05-07T19:02:49.657928+00:00
@@ -388,6 +424,12 @@
  - user: None
  - tags: []
 
+## We Work With Brands - connect with the world’s leading vegan media platform.
+ - [https://www.pbndigital.agency](https://www.pbndigital.agency)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Poppy Websites - Helping startups accelarate growths
  - [https://www.poppywebsites.agency](https://www.poppywebsites.agency)
  - date published: 2024-05-04T09:46:51.911836+00:00
@@ -397,6 +439,12 @@
 ## SHRIMPTON AGENCY  - Shrimpton Agency
  - [http://shrimpton.agency](http://shrimpton.agency)
  - date published: 2024-05-01T05:44:18.141457+00:00
+ - user: None
+ - tags: []
+
+## The Curious: A Branding & Digital Creative Agency
+ - [https://thecurious.agency](https://thecurious.agency)
+ - date published: 2024-05-08T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -442,6 +490,12 @@
  - user: None
  - tags: []
 
+## Adversa AI
+ - [https://adversa.ai](https://adversa.ai)
+ - date published: 2019-09-18T22:42:54+00:00
+ - user: None
+ - tags: []
+
 ## agent.ai
  - [https://agent.ai](https://agent.ai)
  - date published: 2023-11-14T03:03:33.035878+00:00
@@ -481,6 +535,12 @@
 ## Apache APISIX & Open-Source API Gateway - API7.ai
  - [https://api7.ai](https://api7.ai)
  - date published: 2023-10-25T11:36:34.953273+00:00
+ - user: None
+ - tags: []
+
+## Apollo Research
+ - [https://www.apolloresearch.ai](https://www.apolloresearch.ai)
+ - date published: 2024-05-08T09:57:56.336096+00:00
  - user: None
  - tags: []
 
@@ -571,6 +631,12 @@
 ## Avo Automation | Quality Assurance with Automated Testing | Click Now
  - [https://www.avoautomation.ai](https://www.avoautomation.ai)
  - date published: 2024-04-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Baselit - Snowflake Optimization on Autopilot
+ - [https://baselit.ai](https://baselit.ai)
+ - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -760,6 +826,24 @@
  - user: None
  - tags: []
 
+## Climate Change AI
+ - [https://www.climatechange.ai](https://www.climatechange.ai)
+ - date published: 2024-05-08T02:33:18.454780+00:00
+ - user: None
+ - tags: []
+
+## ClimateFire AI
+ - [https://www.climatefire.ai](https://www.climatefire.ai)
+ - date published: 2024-05-08T09:59:10.358954+00:00
+ - user: None
+ - tags: []
+
+## Cloudevo | Growth Marketing Agency
+ - [https://cloudevo.ai](https://cloudevo.ai)
+ - date published: 2023-04-28T13:33:39+00:00
+ - user: None
+ - tags: []
+
 ## AI Code Reviews | CodeRabbit | Try for Free
  - [https://coderabbit.ai](https://coderabbit.ai)
  - date published: 2024-04-30T00:00:00+00:00
@@ -898,6 +982,12 @@
  - user: None
  - tags: []
 
+## Custom Vision - Home
+ - [https://www.customvision.ai](https://www.customvision.ai)
+ - date published: 2024-05-08T11:50:14.946655+00:00
+ - user: None
+ - tags: []
+
 ## Cyberrunner – robot playing Labyrinth board game
  - [https://www.cyberrunner.ai](https://www.cyberrunner.ai)
  - date published: 2023-12-22T11:46:22+00:00
@@ -925,6 +1015,12 @@
 ## Danswer - Open Source Workplace Search
  - [https://www.danswer.ai](https://www.danswer.ai)
  - date published: 2024-02-22T15:20:53.072864+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://dasha.ai](https://dasha.ai)
+ - date published: 2024-05-08T06:17:04.759991+00:00
  - user: None
  - tags: []
 
@@ -1006,9 +1102,27 @@
  - user: None
  - tags: []
 
+## Show HN: I made a better Perplexity for developers
+ - [https://devv.ai](https://devv.ai)
+ - date published: 2024-05-08T15:19:40+00:00
+ - user: None
+ - tags: []
+
+## Digma Continuous Feedback
+ - [https://digma.ai](https://digma.ai)
+ - date published: 2023-07-04T06:58:51+00:00
+ - user: None
+ - tags: []
+
 ## DimeADozen.ai - Your AI Toolkit
  - [https://www.dimeadozen.ai](https://www.dimeadozen.ai)
  - date published: 2023-10-25T11:38:19.826298+00:00
+ - user: None
+ - tags: []
+
+## Human Verification
+ - [https://app.dimensions.ai](https://app.dimensions.ai)
+ - date published: 2024-05-08T12:02:34.799569+00:00
  - user: None
  - tags: []
 
@@ -1082,7 +1196,7 @@
  - [https://www.energymonitor.ai](https://www.energymonitor.ai)
  - date published: 2023-10-25T11:38:25.700332+00:00
  - user: None
- - tags: []
+ - tags: ['global warming', 'climate change']
 
 ## ENTO - Great energy savings. Little effort.
  - [https://ento.ai](https://ento.ai)
@@ -1156,6 +1270,12 @@
  - user: None
  - tags: []
 
+## FAR AI
+ - [https://far.ai](https://far.ai)
+ - date published: 2024-04-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Projects and Ramblings
  - [https://www.farley.ai](https://www.farley.ai)
  - date published: 2023-12-16T04:39:04.636256+00:00
@@ -1198,9 +1318,21 @@
  - user: None
  - tags: []
 
+## Fera - Sign In
+ - [https://cdn.fera.ai](https://cdn.fera.ai)
+ - date published: 2024-05-08T07:14:23.713356+00:00
+ - user: None
+ - tags: []
+
 ## fforward
  - [https://www.fforward.ai](https://www.fforward.ai)
  - date published: 2023-10-25T11:38:47.866433+00:00
+ - user: None
+ - tags: []
+
+## ficc.ai
+ - [https://ficc.ai](https://ficc.ai)
+ - date published: 2024-05-08T03:06:29.340276+00:00
  - user: None
  - tags: []
 
@@ -1360,6 +1492,12 @@
  - user: None
  - tags: []
 
+## Intelekt - Leading enterprise teams saved $100Mn+ with Intelekt AI
+ - [https://www.getintelekt.ai](https://www.getintelekt.ai)
+ - date published: 2024-05-08T06:21:28.572891+00:00
+ - user: None
+ - tags: []
+
 ## Recall
  - [https://app.getrecall.ai](https://app.getrecall.ai)
  - date published: 2024-05-07T10:33:24.441584+00:00
@@ -1462,6 +1600,12 @@
  - user: None
  - tags: []
 
+## AISST
+ - [https://haist.ai](https://haist.ai)
+ - date published: 2024-05-08T09:51:36.201282+00:00
+ - user: None
+ - tags: []
+
 ## Generative AI for Professional Services | Harvey
  - [https://www.harvey.ai](https://www.harvey.ai)
  - date published: 2024-05-04T12:02:12.960251+00:00
@@ -1504,9 +1648,21 @@
  - user: None
  - tags: []
 
+## Center for Human-Compatible Artificial Intelligence – Center for Human-Compatible AI is building exceptional AI for humanity
+ - [https://humancompatible.ai](https://humancompatible.ai)
+ - date published: 2024-05-08T09:51:55.550980+00:00
+ - user: None
+ - tags: []
+
 ## The leading programmatic marketing platform | Hybrid DSP programmatic advertising
  - [https://hybrid.ai](https://hybrid.ai)
  - date published: 2024-05-06T17:32:57.284322+00:00
+ - user: None
+ - tags: []
+
+## Umami
+ - [https://data.cloud.hyperparam.ai](https://data.cloud.hyperparam.ai)
+ - date published: 2024-05-08T11:49:23.315430+00:00
  - user: None
  - tags: []
 
@@ -1678,6 +1834,12 @@
  - user: None
  - tags: ['personal']
 
+## Leverage Human Intelligence | Kern AI
+ - [https://www.kern.ai](https://www.kern.ai)
+ - date published: 2024-05-08T06:21:36.784679+00:00
+ - user: None
+ - tags: []
+
 ## Meet KLapper Legal Assistant - KLapper
  - [https://www.klapper.ai](https://www.klapper.ai)
  - date published: 2024-03-18T00:00:00+00:00
@@ -1693,6 +1855,36 @@
 ## KLoBot Inc – Incredibly Intelligent Products for Law Firms & General Counsels
  - [https://www.klobot.ai](https://www.klobot.ai)
  - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Access Your Workspace / Klu.ai
+ - [https://app.klu.ai](https://app.klu.ai)
+ - date published: 2024-05-08T04:48:12.060141+00:00
+ - user: None
+ - tags: []
+
+## Klu.ai Documentation
+ - [https://docs.klu.ai](https://docs.klu.ai)
+ - date published: 2024-02-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Klu.ai Copilot
+ - [https://help.klu.ai](https://help.klu.ai)
+ - date published: 2024-05-08T04:48:12.827815+00:00
+ - user: None
+ - tags: []
+
+## Design, Deploy, and Optimize LLM Apps with Klu — Klu.ai
+ - [https://klu.ai](https://klu.ai)
+ - date published: 2024-05-08T04:48:09.254021+00:00
+ - user: None
+ - tags: []
+
+## Klu.ai Release Notes
+ - [https://ship.klu.ai](https://ship.klu.ai)
+ - date published: 2024-05-08T04:48:16.055291+00:00
  - user: None
  - tags: []
 
@@ -1741,6 +1933,12 @@
 ## Last Week in AI | Substack
  - [https://lastweekin.ai](https://lastweekin.ai)
  - date published: 2023-10-25T11:39:47.789345+00:00
+ - user: None
+ - tags: []
+
+## Machine Learning Group @ UHH
+ - [https://laue.ai](https://laue.ai)
+ - date published: 2024-05-08T10:03:50.314186+00:00
  - user: None
  - tags: []
 
@@ -2200,6 +2398,12 @@
  - user: None
  - tags: ['artificial intelligence api']
 
+## Artificial Intelligence for Online Stores - Optimus Price
+ - [https://optimusprice.ai](https://optimusprice.ai)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Orifice.ai
  - [https://orifice.ai](https://orifice.ai)
  - date published: 2024-04-14T14:19:34+00:00
@@ -2240,6 +2444,12 @@
  - [https://parea.ai](https://parea.ai)
  - date published: 2024-03-30T00:00:00+00:00
  - user: rumpel
+ - tags: []
+
+## Penelope.ai
+ - [https://app.penelope.ai](https://app.penelope.ai)
+ - date published: 2024-05-08T03:01:32.442324+00:00
+ - user: None
  - tags: []
 
 ## AI-Driven API Performance Testing
@@ -2287,6 +2497,12 @@
 ## http://hello.pi.ai/
  - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Pi, your personal AI
+ - [https://pi.ai](https://pi.ai)
+ - date published: 2024-05-08T09:06:32.614593+00:00
  - user: None
  - tags: []
 
@@ -2362,6 +2578,12 @@
  - user: None
  - tags: []
 
+## Propelix: Admin
+ - [https://propelix.ai](https://propelix.ai)
+ - date published: 2024-05-08T05:20:12.803500+00:00
+ - user: None
+ - tags: []
+
 ## Protocol Labs
  - [https://protocol.ai](https://protocol.ai)
  - date published: 2023-10-25T11:41:36.421044+00:00
@@ -2371,6 +2593,12 @@
 ## Protocol Labs Research
  - [https://research.protocol.ai](https://research.protocol.ai)
  - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## PumasAI | Fine-tuned to drug development needs & healthcare delivery | PumasAI
+ - [https://pumas.ai](https://pumas.ai)
+ - date published: 2024-05-08T09:51:10.927513+00:00
  - user: None
  - tags: []
 
@@ -2529,6 +2757,12 @@
  - date published: 2023-10-25T11:42:17.286240+00:00
  - user: None
  - tags: []
+
+## ReWorked.ai-Harnessing AI To Find High Quality Leads
+ - [https://reworked.ai](https://reworked.ai)
+ - date published: 2024-05-08T06:36:21+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'scoring system']
 
 ## Home - RIOS
  - [https://www.rios.ai](https://www.rios.ai)
@@ -2746,6 +2980,12 @@
  - user: None
  - tags: []
 
+## Solo - Free AI Website Creator
+ - [https://soloist.ai](https://soloist.ai)
+ - date published: 2024-05-08T10:31:30.007146+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: Sonauto – a more controllable AI music creator
  - [https://sonauto.ai](https://sonauto.ai)
  - date published: 2024-04-10T16:48:01+00:00
@@ -2776,6 +3016,12 @@
  - user: None
  - tags: []
 
+## SQL Chat
+ - [https://www.sqlchat.ai](https://www.sqlchat.ai)
+ - date published: 2024-05-08T04:05:28.123487+00:00
+ - user: None
+ - tags: []
+
 ## Squeaky | The privacy friendly analytics platform
  - [https://squeaky.ai](https://squeaky.ai)
  - date published: 2023-10-25T11:42:53.549367+00:00
@@ -2791,6 +3037,18 @@
 ## Stability AI
  - [https://stability.ai](https://stability.ai)
  - date published: 2023-10-25T11:42:56.624602+00:00
+ - user: None
+ - tags: []
+
+## AI Safety Advocacy: Safer AI Grassroots Movement for AI Laws
+ - [https://stakeout.ai](https://stakeout.ai)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Stately - Build complex logic intelligently
+ - [https://stately.ai](https://stately.ai)
+ - date published: 2024-05-08T09:02:55.286819+00:00
  - user: None
  - tags: []
 
@@ -2827,6 +3085,12 @@
 ## Storywizard.ai | Create incredible learning experiences using AI
  - [https://www.storywizard.ai](https://www.storywizard.ai)
  - date published: 2024-05-01T02:44:19.074852+00:00
+ - user: None
+ - tags: []
+
+## Log in | Struct Global ID
+ - [https://app.struct.ai](https://app.struct.ai)
+ - date published: 2024-05-08T12:17:16.780521+00:00
  - user: None
  - tags: []
 
@@ -2911,6 +3175,18 @@
 ## Feature Platform for Machine Learning | Tecton
  - [https://www.tecton.ai](https://www.tecton.ai)
  - date published: 2023-12-06T00:28:48.196331+00:00
+ - user: None
+ - tags: []
+
+## Telegram Bots AI — Supercharge Telegram with AI Bots ✨
+ - [https://telegrambots.ai](https://telegrambots.ai)
+ - date published: 2024-05-08T04:51:42.482776+00:00
+ - user: None
+ - tags: []
+
+## Telegram Bots AI — Supercharge Telegram with AI Bots ✨
+ - [https://www.telegrambots.ai](https://www.telegrambots.ai)
+ - date published: 2024-05-08T04:51:41.341970+00:00
  - user: None
  - tags: []
 
@@ -3070,6 +3346,12 @@
  - user: None
  - tags: []
 
+## Home - Vector Institute for Artificial Intelligence
+ - [https://vectorinstitute.ai](https://vectorinstitute.ai)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## 403 Forbidden
  - [https://benchmark.vectorview.ai](https://benchmark.vectorview.ai)
  - date published: 2024-01-09T02:23:26.782160+00:00
@@ -3133,6 +3415,12 @@
 ## Wild Moose
  - [https://www.wildmoose.ai](https://www.wildmoose.ai)
  - date published: 2023-10-25T11:45:06.456495+00:00
+ - user: None
+ - tags: []
+
+## AI Powered Audio Studio - Wondercraft
+ - [https://wondercraft.ai](https://wondercraft.ai)
+ - date published: 2024-04-27T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3316,6 +3604,18 @@
  - user: None
  - tags: []
 
+## Instagram
+ - [https://instagr.am](https://instagr.am)
+ - date published: 2024-05-08T05:17:31.028770+00:00
+ - user: None
+ - tags: []
+
+## kwant.am
+ - [https://kwant.am](https://kwant.am)
+ - date published: 2024-05-08T08:58:21.100486+00:00
+ - user: None
+ - tags: []
+
 ## Գլխավոր – Mediainitiatives
  - [http://www.mediainitiatives.am](http://www.mediainitiatives.am)
  - date published: 2024-05-07T23:42:13.359843+00:00
@@ -3331,6 +3631,12 @@
 ## NEWS.am TECH - Innovations and science
  - [https://tech.news.am](https://tech.news.am)
  - date published: 2023-10-25T11:45:27.043615+00:00
+ - user: None
+ - tags: []
+
+## Custom Domain by Bitly
+ - [http://oxf.am](http://oxf.am)
+ - date published: 2024-05-08T03:19:38.157344+00:00
  - user: None
  - tags: []
 
@@ -3454,6 +3760,12 @@
  - user: None
  - tags: []
 
+## Awtomic Subscriptions
+ - [https://help.awtomatic.app](https://help.awtomatic.app)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: BandMatch – "Tinder" but for finding musicians to create bands/collab
  - [https://bandmatch.app](https://bandmatch.app)
  - date published: 2024-05-03T18:11:25+00:00
@@ -3469,6 +3781,12 @@
 ## Bear
  - [https://bear.app](https://bear.app)
  - date published: 2024-05-04T14:03:16.127978+00:00
+ - user: None
+ - tags: []
+
+## Bigcapital | Core Accounting Software
+ - [https://bigcapital.app](https://bigcapital.app)
+ - date published: 2024-05-08T16:50:18.847614+00:00
  - user: None
  - tags: []
 
@@ -3694,6 +4012,12 @@
  - user: None
  - tags: []
 
+## Didthis
+ - [https://didthis.app](https://didthis.app)
+ - date published: 2024-05-08T10:31:33.250502+00:00
+ - user: None
+ - tags: []
+
 ## Loading…
  - [https://ripleys.directus.app](https://ripleys.directus.app)
  - date published: 2024-04-28T05:07:44.617119+00:00
@@ -3703,6 +4027,12 @@
 ## Doc Converter - Convert PDF files to Word documents (docx)
  - [https://docconverter.app](https://docconverter.app)
  - date published: 2023-10-25T11:45:58.590918+00:00
+ - user: None
+ - tags: []
+
+## DoubleLoop – Develop an impact-oriented strategy
+ - [https://doubleloop.app](https://doubleloop.app)
+ - date published: 2024-04-30T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3721,6 +4051,18 @@
 ## EchoFeed
  - [https://echofeed.app](https://echofeed.app)
  - date published: 2024-05-04T14:15:00.185964+00:00
+ - user: None
+ - tags: []
+
+## Home - Edge
+ - [https://edge.app](https://edge.app)
+ - date published: 2024-05-08T05:59:54.071896+00:00
+ - user: None
+ - tags: []
+
+## Home | Edifi
+ - [https://edifi.app](https://edifi.app)
+ - date published: 2024-05-08T05:16:51.130272+00:00
  - user: None
  - tags: []
 
@@ -3763,6 +4105,12 @@
 ## Equals | The next-generation spreadsheet
  - [https://equals.app](https://equals.app)
  - date published: 2023-10-25T11:46:17.748837+00:00
+ - user: None
+ - tags: []
+
+## Estimaker
+ - [http://estimaker.app](http://estimaker.app)
+ - date published: 2024-05-08T09:59:09.340703+00:00
  - user: None
  - tags: []
 
@@ -3817,6 +4165,12 @@
 ## forms.app: Online Form Builder
  - [https://forms.app](https://forms.app)
  - date published: 2024-05-06T14:27:30.513023+00:00
+ - user: None
+ - tags: []
+
+## forms.app: Online Form Builder
+ - [https://show.forms.app](https://show.forms.app)
+ - date published: 2024-05-08T09:35:31.886590+00:00
  - user: None
  - tags: []
 
@@ -4006,6 +4360,12 @@
  - user: None
  - tags: []
 
+## Infinite Mac
+ - [https://kanjitalk7.app](https://kanjitalk7.app)
+ - date published: 2024-05-08T08:45:20.501830+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://kftray.app](https://kftray.app)
  - date published: 2024-04-29T07:35:14.361341+00:00
@@ -4121,6 +4481,12 @@
  - tags: []
 
 ## Infinite Mac
+ - [https://macos8.app](https://macos8.app)
+ - date published: 2024-05-08T08:45:17.713590+00:00
+ - user: None
+ - tags: []
+
+## Infinite Mac
  - [https://macos9.app](https://macos9.app)
  - date published: 2023-10-25T11:47:10.340547+00:00
  - user: None
@@ -4165,6 +4531,12 @@
 ## Mava - Customer Support for Communities
  - [https://mava.app](https://mava.app)
  - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MeetSpace - Home
+ - [https://meetspace.app](https://meetspace.app)
+ - date published: 2024-05-08T12:18:20.114776+00:00
  - user: None
  - tags: []
 
@@ -4237,6 +4609,12 @@
 ## Mu
  - [https://mu.app](https://mu.app)
  - date published: 2023-10-25T11:47:22.709061+00:00
+ - user: None
+ - tags: []
+
+## MuffinTerm • A Terminal for the Classic BBS Experience
+ - [https://muffinterm.app](https://muffinterm.app)
+ - date published: 2024-05-08T04:06:32.485774+00:00
  - user: None
  - tags: []
 
@@ -4321,6 +4699,12 @@
 ## All posts
  - [https://clerestory.netlify.app](https://clerestory.netlify.app)
  - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CommandBar | AI-powered user assistance
+ - [https://commandbar-marketing-site.netlify.app](https://commandbar-marketing-site.netlify.app)
+ - date published: 2024-05-08T06:04:21.071159+00:00
  - user: None
  - tags: []
 
@@ -4570,6 +4954,12 @@
  - user: None
  - tags: ['personal']
 
+## Vite Plugin PWA
+ - [https://vite-pwa-org.netlify.app](https://vite-pwa-org.netlify.app)
+ - date published: 2024-05-08T11:42:44.603380+00:00
+ - user: None
+ - tags: []
+
 ## Wax compiler – a tiny language designed to transpile to other languages
  - [https://waxc.netlify.app](https://waxc.netlify.app)
  - date published: 2024-04-20T05:05:17+00:00
@@ -4671,6 +5061,12 @@
  - date published: 2023-10-25T11:48:11.837009+00:00
  - user: None
  - tags: ['service maps', 'maps']
+
+## Pachli
+ - [https://pachli.app](https://pachli.app)
+ - date published: 2024-05-08T10:50:25.021051+00:00
+ - user: None
+ - tags: []
 
 ## PageFactory | Programmatic SEO for Any Website
  - [https://pagefactory.app](https://pagefactory.app)
@@ -4943,6 +5339,12 @@
  - tags: []
 
 ## RSS Feed Generator, Create RSS feeds from URL
+ - [https://rss.app](https://rss.app)
+ - date published: 2024-05-08T04:28:39.540191+00:00
+ - user: None
+ - tags: []
+
+## RSS Feed Generator, Create RSS feeds from URL
  - [https://widget.rss.app](https://widget.rss.app)
  - date published: 2024-05-07T11:20:09.503888+00:00
  - user: None
@@ -5074,6 +5476,12 @@
  - user: None
  - tags: []
 
+## Spartacus
+ - [http://www.spartacus.app](http://www.spartacus.app)
+ - date published: 2024-05-08T09:58:04.953286+00:00
+ - user: None
+ - tags: []
+
 ## Spectrolite
  - [https://spectrolite.app](https://spectrolite.app)
  - date published: 2023-10-25T11:48:58.865948+00:00
@@ -5146,6 +5554,24 @@
  - user: None
  - tags: []
 
+## Infinite Mac
+ - [https://system6.app](https://system6.app)
+ - date published: 2024-05-08T08:45:23.629527+00:00
+ - user: None
+ - tags: []
+
+## Infinite Mac
+ - [https://system7.app](https://system7.app)
+ - date published: 2024-05-08T08:45:14.154595+00:00
+ - user: None
+ - tags: []
+
+## Private group chat and collaboration
+ - [https://tap.app](https://tap.app)
+ - date published: 2024-04-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Hardened foundation for your web apps.
  - [https://beta.tauri.app](https://beta.tauri.app)
  - date published: 2024-02-23T21:18:24.945566+00:00
@@ -5176,6 +5602,12 @@
  - user: None
  - tags: []
 
+## Threader - Good threads every day
+ - [https://threader.app](https://threader.app)
+ - date published: 2024-05-08T04:03:35.730993+00:00
+ - user: None
+ - tags: []
+
 ## Busy Beavers!
  - [https://busy-beavers.tigyog.app](https://busy-beavers.tigyog.app)
  - date published: 2023-10-25T11:49:30.014538+00:00
@@ -5185,6 +5617,12 @@
 ## TigYog
  - [https://tigyog.app](https://tigyog.app)
  - date published: 2023-10-25T11:49:31.674555+00:00
+ - user: None
+ - tags: []
+
+## Timesy: A Distraction-Free Online Timer
+ - [https://timesy.app](https://timesy.app)
+ - date published: 2024-05-08T16:50:29.231095+00:00
  - user: None
  - tags: []
 
@@ -5350,9 +5788,21 @@
  - user: None
  - tags: []
 
+## Homepage | BJSM
+ - [https://bjsmsite.vercel.app](https://bjsmsite.vercel.app)
+ - date published: 2024-04-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Boot & Shoe Blog
  - [https://boot-and-shoe.vercel.app](https://boot-and-shoe.vercel.app)
  - date published: 2023-10-25T11:49:59.378423+00:00
+ - user: None
+ - tags: []
+
+## Celebrity Private Jet Flights & Environmental Impact | CelebrityFlight
+ - [https://celebrity-flights-next-p06eue34w-topa-team.vercel.app](https://celebrity-flights-next-p06eue34w-topa-team.vercel.app)
+ - date published: 2024-03-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5488,6 +5938,12 @@
  - user: None
  - tags: []
 
+## greg — a small replacement for cal
+ - [https://greg-calendar.vercel.app](https://greg-calendar.vercel.app)
+ - date published: 2024-05-08T10:46:41.196847+00:00
+ - user: None
+ - tags: []
+
 ## Evidence
  - [https://hackernews-insight.vercel.app](https://hackernews-insight.vercel.app)
  - date published: 2023-10-25T11:50:22.132412+00:00
@@ -5539,462 +5995,6 @@
 ## Jermanuts
  - [https://jermanuts.vercel.app](https://jermanuts.vercel.app)
  - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## kbar – command+k interface for your site
- - [https://kbar.vercel.app](https://kbar.vercel.app)
- - date published: 2024-05-04T13:57:48.823881+00:00
- - user: None
- - tags: []
-
-## Link Book
- - [https://link-book.vercel.app](https://link-book.vercel.app)
- - date published: 2023-10-25T11:50:29.441703+00:00
- - user: None
- - tags: []
-
-## Hello Luna
- - [https://luna-demo.vercel.app](https://luna-demo.vercel.app)
- - date published: 2023-10-25T08:36:44.066507+00:00
- - user: None
- - tags: []
-
-## Show HN: I made a tool to clean and convert any webpage to Markdown
- - [https://markdowndown.vercel.app](https://markdowndown.vercel.app)
- - date published: 2024-04-14T19:03:58+00:00
- - user: None
- - tags: []
-
-## Martin di Martino-Marriott | Front-end Web Developer, Nottingham
- - [https://martindm-uk.vercel.app](https://martindm-uk.vercel.app)
- - date published: 2024-01-07T17:48:29.845931+00:00
- - user: None
- - tags: []
-
-## Mastodon Flock
- - [https://mastodon-flock.vercel.app](https://mastodon-flock.vercel.app)
- - date published: 2023-10-25T08:36:46.987018+00:00
- - user: None
- - tags: []
-
-## GitHub - blairanderson/microicon: SVG icon microservice
- - [https://microicon-clone.vercel.app](https://microicon-clone.vercel.app)
- - date published: 2024-04-30T00:34:05.252523+00:00
- - user: None
- - tags: []
-
-## A Modern Web for Hacker News – Open-Source and Seeking Feedback
- - [https://modern-hacker-news.vercel.app](https://modern-hacker-news.vercel.app)
- - date published: 2023-12-31T14:00:00+00:00
- - user: None
- - tags: []
-
-## Show HN: I made a Pinterest clone using SigLIP image embeddings
- - [https://mood-amber.vercel.app](https://mood-amber.vercel.app)
- - date published: 2024-02-16T02:52:01+00:00
- - user: None
- - tags: []
-
-## Moogle: Semantic search over mathlib4
- - [https://moogle-morphlabs.vercel.app](https://moogle-morphlabs.vercel.app)
- - date published: 2024-05-07T15:57:45.618859+00:00
- - user: None
- - tags: []
-
-## MUD | Framework for onchain applications
- - [https://mud-docs-6z1ag54lx-latticexyz.vercel.app](https://mud-docs-6z1ag54lx-latticexyz.vercel.app)
- - date published: 2024-04-30T01:55:29.205632+00:00
- - user: None
- - tags: []
-
-## Not a Number
- - [https://nan-archive.vercel.app](https://nan-archive.vercel.app)
- - date published: 2024-05-08T00:41:24.126353+00:00
- - user: None
- - tags: []
-
-## React App
- - [https://native-ads-two.vercel.app](https://native-ads-two.vercel.app)
- - date published: 2024-05-04T06:41:03.171139+00:00
- - user: None
- - tags: []
-
-## Show HN: I built a website to share files and messages without any server
- - [https://neighbor-share.vercel.app](https://neighbor-share.vercel.app)
- - date published: 2024-05-05T07:42:13+00:00
- - user: None
- - tags: []
-
-## Neobrutalism components
- - [https://neobrutalism-components.vercel.app](https://neobrutalism-components.vercel.app)
- - date published: 2024-04-07T06:03:59+00:00
- - user: rumpel
- - tags: ['brutalist web']
-
-## NextAuth.js Example
- - [https://next-auth-example.vercel.app](https://next-auth-example.vercel.app)
- - date published: 2024-04-29T07:20:05.749263+00:00
- - user: None
- - tags: []
-
-## OctoArt
- - [https://octoart.vercel.app](https://octoart.vercel.app)
- - date published: 2023-10-30T18:59:23.812847+00:00
- - user: None
- - tags: []
-
-## Vercel OG Image Playground
- - [https://og-image.vercel.app](https://og-image.vercel.app)
- - date published: 2024-05-04T05:55:37.250336+00:00
- - user: None
- - tags: []
-
-## Oxide Computer Company
- - [https://oxide-computer-htjcf1loy-oxidecomputer.vercel.app](https://oxide-computer-htjcf1loy-oxidecomputer.vercel.app)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pathfinding Visualizer
- - [https://pathfinding-visualizer-nu.vercel.app](https://pathfinding-visualizer-nu.vercel.app)
- - date published: 2023-10-25T11:50:32.291197+00:00
- - user: None
- - tags: []
-
-## Perplexity | Interactive language modeling visualization
- - [https://perplexity.vercel.app](https://perplexity.vercel.app)
- - date published: 2023-10-25T11:50:33.775569+00:00
- - user: None
- - tags: []
-
-## Pete Millspaugh
- - [https://petemillspaugh-ccjylhguz-pete-n-co.vercel.app](https://petemillspaugh-ccjylhguz-pete-n-co.vercel.app)
- - date published: 2024-05-06T23:10:44.359816+00:00
- - user: None
- - tags: []
-
-## Pilcrow
- - [https://pilcrow.vercel.app](https://pilcrow.vercel.app)
- - date published: 2023-10-25T11:50:35.181793+00:00
- - user: None
- - tags: []
-
-## PokeFit
- - [https://pokefit.vercel.app](https://pokefit.vercel.app)
- - date published: 2023-10-25T11:50:37.123212+00:00
- - user: None
- - tags: []
-
-## Precedent - Building blocks for your Next.js project
- - [https://precedent.vercel.app](https://precedent.vercel.app)
- - date published: 2023-10-25T11:50:38.827832+00:00
- - user: None
- - tags: []
-
-## @storybook/cli - Storybook
- - [https://prismalens.vercel.app](https://prismalens.vercel.app)
- - date published: 2024-05-06T09:11:49.654491+00:00
- - user: None
- - tags: []
-
-## Benchmarks for programming languages and compilers, Which programming language or compiler is faster
- - [https://programming-language-benchmarks.vercel.app](https://programming-language-benchmarks.vercel.app)
- - date published: 2023-10-25T11:50:41.569540+00:00
- - user: None
- - tags: []
-
-## Protein Project
- - [https://protein-project.vercel.app](https://protein-project.vercel.app)
- - date published: 2024-04-30T02:13:47.069835+00:00
- - user: None
- - tags: []
-
-## Tina
- - [https://quick-edit-demo.vercel.app](https://quick-edit-demo.vercel.app)
- - date published: 2024-05-06T14:40:29.182157+00:00
- - user: None
- - tags: []
-
-## Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai
- - [https://ragdoll-studio.vercel.app](https://ragdoll-studio.vercel.app)
- - date published: 2024-03-31T05:43:15+00:00
- - user: None
- - tags: []
-
-## Realism Effects - three.js
- - [https://realism-effects-git-v2-obeqz.vercel.app](https://realism-effects-git-v2-obeqz.vercel.app)
- - date published: 2024-05-07T13:26:02.366307+00:00
- - user: None
- - tags: []
-
-## Realism Effects - three.js
- - [https://realism-effects-obeqz.vercel.app](https://realism-effects-obeqz.vercel.app)
- - date published: 2024-05-07T13:25:44.841173+00:00
- - user: None
- - tags: []
-
-## Remix Page Blocks
- - [https://remix-page-blocks.vercel.app](https://remix-page-blocks.vercel.app)
- - date published: 2023-10-25T11:50:47.486938+00:00
- - user: None
- - tags: []
-
-## Scribble Diffusion
- - [https://scribble-diffusion-r2g1z7mzx-replicate.vercel.app](https://scribble-diffusion-r2g1z7mzx-replicate.vercel.app)
- - date published: 2024-04-29T02:40:52.847849+00:00
- - user: None
- - tags: []
-
-## The San Francisco Compute Company
- - [https://sfcompute-glwrdckay-sf-compute.vercel.app](https://sfcompute-glwrdckay-sf-compute.vercel.app)
- - date published: 2024-04-29T03:26:35.200903+00:00
- - user: None
- - tags: []
-
-## Shiny Button
- - [https://shiny-button.vercel.app](https://shiny-button.vercel.app)
- - date published: 2023-10-25T08:31:31.559328+00:00
- - user: None
- - tags: []
-
-## Single Emoji. 💯
- - [https://single-emoji.vercel.app](https://single-emoji.vercel.app)
- - date published: 2023-10-25T11:50:49.105285+00:00
- - user: None
- - tags: []
-
-## https://slickgpt.vercel.app
- - [https://slickgpt.vercel.app](https://slickgpt.vercel.app)
- - date published: 2024-01-09T02:23:40.930218+00:00
- - user: None
- - tags: []
-
-## Maps that show time instead of space
- - [https://spacetime-maps.vercel.app](https://spacetime-maps.vercel.app)
- - date published: 2024-03-24T16:32:33+00:00
- - user: None
- - tags: []
-
-## Spirals
- - [https://spirals.vercel.app](https://spirals.vercel.app)
- - date published: 2023-10-25T11:50:52.349082+00:00
- - user: None
- - tags: []
-
-## Introduction – react-tweet
- - [https://static-tweet.vercel.app](https://static-tweet.vercel.app)
- - date published: 2024-05-06T13:41:30.247552+00:00
- - user: None
- - tags: []
-
-## A Beautiful library of SVG logos
- - [https://svgl.vercel.app](https://svgl.vercel.app)
- - date published: 2023-12-16T15:04:54+00:00
- - user: None
- - tags: []
-
-## Automatic Comments Generator
- - [https://swiftstart.vercel.app](https://swiftstart.vercel.app)
- - date published: 2023-10-25T11:50:53.574901+00:00
- - user: None
- - tags: []
-
-## React Hooks for Data Fetching – SWR
- - [https://swr.vercel.app](https://swr.vercel.app)
- - date published: 2023-10-25T11:51:01.722399+00:00
- - user: None
- - tags: []
-
-## Tabloid: the clickbait headline programming language
- - [https://tabloid-thesephist.vercel.app](https://tabloid-thesephist.vercel.app)
- - date published: 2023-10-25T11:51:03.259656+00:00
- - user: None
- - tags: []
-
-## TaxGPT
- - [https://tax-gpt-theta.vercel.app](https://tax-gpt-theta.vercel.app)
- - date published: 2024-04-30T02:13:51.969387+00:00
- - user: None
- - tags: []
-
-## tweet2image
- - [https://tweet2image.vercel.app](https://tweet2image.vercel.app)
- - date published: 2024-05-06T20:47:45.294087+00:00
- - user: None
- - tags: []
-
-## v 2048
- - [https://v2048.vercel.app](https://v2048.vercel.app)
- - date published: 2024-05-06T14:46:02.201176+00:00
- - user: None
- - tags: []
-
-## Verifiable Credentials
- - [https://verifiable-credentials-website.vercel.app](https://verifiable-credentials-website.vercel.app)
- - date published: 2024-04-30T02:27:09.367081+00:00
- - user: None
- - tags: []
-
-## V WASM Playground
- - [https://v-wasm.vercel.app](https://v-wasm.vercel.app)
- - date published: 2024-05-06T14:46:01.506498+00:00
- - user: None
- - tags: []
-
-## Airdraw
- - [https://web-draw-e58vy7q9m-arefmalek.vercel.app](https://web-draw-e58vy7q9m-arefmalek.vercel.app)
- - date published: 2023-12-15T11:11:38.412590+00:00
- - user: None
- - tags: []
-
-## oscard0m Blog
- - [https://web-oscard0m.vercel.app](https://web-oscard0m.vercel.app)
- - date published: 2024-04-30T02:10:34.292590+00:00
- - user: None
- - tags: []
-
-## Whisper
- - [https://whisper-convex.vercel.app](https://whisper-convex.vercel.app)
- - date published: 2024-04-29T07:32:38.303896+00:00
- - user: None
- - tags: []
-
-## Whose Prompt is it Anyways? by Convex
- - [https://whose-prompt-is-it-anyways.vercel.app](https://whose-prompt-is-it-anyways.vercel.app)
- - date published: 2024-04-29T07:32:50.147137+00:00
- - user: None
- - tags: []
-
-## WTF DOES THIS COMPANY DO
- - [https://wtfdoesthiscompanydo.vercel.app](https://wtfdoesthiscompanydo.vercel.app)
- - date published: 2023-10-25T11:51:04.640307+00:00
- - user: None
- - tags: []
-
-## https://yakgpt.vercel.app
- - [https://yakgpt.vercel.app](https://yakgpt.vercel.app)
- - date published: 2024-01-09T02:23:41.451242+00:00
- - user: None
- - tags: []
-
-## YC Idea Matcher
- - [https://yc-idea-matcher.vercel.app](https://yc-idea-matcher.vercel.app)
- - date published: 2023-10-25T11:51:16.534056+00:00
- - user: None
- - tags: []
-
-## Professional Headshots in minutes with Virtual Face AI
- - [https://virtualface.app](https://virtualface.app)
- - date published: 2023-10-25T11:51:19.247159+00:00
- - user: None
- - tags: []
-
-## VoxelChain - Interactive voxel worlds in the browser
- - [https://voxelchain.app](https://voxelchain.app)
- - date published: 2023-10-25T11:51:21.827960+00:00
- - user: None
- - tags: []
-
-## Watcharr Docs | Watcharr Docs
- - [https://watcharr.app](https://watcharr.app)
- - date published: 2024-04-08T19:31:16.233648+00:00
- - user: None
- - tags: ['movie library', 'self-host']
-
-## Wavacity | Online Audio Editor Based on Audacity
- - [https://wavvy.app](https://wavvy.app)
- - date published: 2023-10-25T11:51:30.384343+00:00
- - user: None
- - tags: []
-
-## React App
- - [https://binderpos-big-calendar-1490e.web.app](https://binderpos-big-calendar-1490e.web.app)
- - date published: 2024-05-06T16:47:03.967141+00:00
- - user: None
- - tags: []
-
-## HDI Harmony
- - [https://hdiharmony.web.app](https://hdiharmony.web.app)
- - date published: 2024-04-29T07:41:00.134908+00:00
- - user: None
- - tags: []
-
-## Widget demo
- - [https://ommi-lg-widget.web.app](https://ommi-lg-widget.web.app)
- - date published: 2024-05-04T12:26:13.487845+00:00
- - user: None
- - tags: []
-
-## Pigmnts - Create visually appealing color palettes from images
- - [https://pigmnts.web.app](https://pigmnts.web.app)
- - date published: 2024-05-01T02:57:35.005156+00:00
- - user: None
- - tags: []
-
-## That's Groce!
- - [https://thatsgroce.web.app](https://thatsgroce.web.app)
- - date published: 2024-05-06T23:10:51.547337+00:00
- - user: None
- - tags: []
-
-## Touco Lab
- - [https://touco-website.web.app](https://touco-website.web.app)
- - date published: 2024-05-02T13:34:08.567205+00:00
- - user: None
- - tags: []
-
-## VisBug Sandbox
- - [http://visbug.web.app](http://visbug.web.app)
- - date published: 2024-04-30T02:00:44.304422+00:00
- - user: None
- - tags: []
-
-## Webbu
- - [https://webbu.app](https://webbu.app)
- - date published: 2023-10-25T11:51:31.950607+00:00
- - user: None
- - tags: []
-
-## WhatGPT
- - [https://whatgpt.app](https://whatgpt.app)
- - date published: 2024-05-01T02:28:18.284237+00:00
- - user: None
- - tags: []
-
-## Windy.app – Live wind map & weather forecast
- - [https://windy.app](https://windy.app)
- - date published: 2024-05-07T10:47:52.283361+00:00
- - user: None
- - tags: []
-
-## Worthy News App – Download Christian App
- - [https://worthynews.app](https://worthynews.app)
- - date published: 2024-05-07T16:11:43.038950+00:00
- - user: None
- - tags: []
-
-## writedown - Your public and private diary
- - [https://writedown.app](https://writedown.app)
- - date published: 2023-10-25T11:51:33.426412+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://xbackbone.app](https://xbackbone.app)
- - date published: 2024-04-08T19:32:04.837665+00:00
- - user: None
- - tags: ['file manager', 'self-host']
-
-## Xemu: Original Xbox Emulator
- - [https://xemu.app](https://xemu.app)
- - date published: 2024-04-07T17:18:37+00:00
- - user: None
- - tags: ['xbox', 'emulator']
-
-## Songkeys
- - [https://song.xlog.app](https://song.xlog.app)
- - date published: 2024-01-15T14:06:39.285330+00:00
  - user: None
  - tags: []
 
