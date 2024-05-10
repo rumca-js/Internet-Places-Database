@@ -42,6 +42,10 @@ Sources:
  - hacker front page entries
  - some reddit channels [r/selfhosted](https://www.reddit.com/r/selfhosted/.rss)
 
+<div align="center">
+  <img alt="Meme" src="images/ihavewatched.png">
+</div>
+
 # Files
 
 The database is distributed as a set of JSON files. We do not want to store binary data, binary files. SQL files should be fine, but I am going with JSON files for now.
