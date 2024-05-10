@@ -10,17 +10,22 @@ This is a database of Internet places. Mostly domains. Sometimes other things. T
 
  - domains
  - repository links. For example [https://github.com/rumca-js/Internet-Places-Database](https://github.com/rumca-js/Internet-Places-Database)
- - user spaces. Might be youtube channel link: [Linus Tech Tips YouTube Channel](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw). Might be X/Twitter user account.
+ - user spaces. Might be youtube channel link: [Linus Tech Tips YouTube Channel](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw). Might be X/Twitter user account
 
 # Not acceptable link types
 
- - content farms
  - malware sites
- - porn, casino, etc.
- - it infrastructure domains, CDN domains
- - analytic domains that are used for user surveillance, not to provide data
+ - porn, casino, gambling etc.
+ - IT infrastructure domains, CDN domains
+ - analytic domains that are used for user surveillance
 
-I do not always follow these rules strictly. There are exceptions for some domains. Some sites are allowed to be in database, but are down-voted.
+Some zen rules:
+
+ - Anything not obeying the law will be removed from lists
+ - Internet operates in ... many countries, so there are many laws
+ - If things are offensive, they do not have to be removed
+ - If page content is obnoxious, it can, and possible should be demoted
+ - I do not always follow these rules strictly
 
 # Sources of data
 
@@ -78,11 +83,17 @@ Each entry can be tagged. Most notable examples of tags
  - self-host - software that can be self-hosted
  - company - if entry exists just to provide information about company
  - university, museum, etc - if entry provides details about a university, museum, etc.
- - disinformation / misinformation - self explanatory
+ - disinformation / misinformation / conspiracy theories - self explanatory
  - news - if it is "news" content farm. Might be also "game news", "tech news", etc.
  - amiga - anything amiga related
  - wtf - for really interesting finds
  - link service - bitly or other services that provide shortened versions of links
+ - movie - page describing a movie
+ - video game - page describing a video game, etc.
+ - interesting page design - self explanatory. Some pages are just fun
+ - online tool - some things are web programs, that are not accessible if you are offline
+ - monetization - if page includes some kind of monetization, subscription, loot boxes
+ - ad business - if page owner work in this sector
 
 # Notes
 
