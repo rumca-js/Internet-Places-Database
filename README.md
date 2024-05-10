@@ -27,6 +27,8 @@ Some zen rules:
  - If page content is obnoxious, it can, and possible should be demoted
  - I do not always follow these rules strictly
 
+If any link is suspicious, and should be removed, plaese create an Issue in this repository. Links are captured from the Internet automatically. I do not have resources to verify them all. Use 'votes' to see credibility of domains.
+
 # Sources of data
 
 Obtained by the [Django-link-archive](https://github.com/rumca-js/Django-link-archive) web crawler.
