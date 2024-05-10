@@ -43,7 +43,7 @@ Sources:
  - some reddit channels [r/selfhosted](https://www.reddit.com/r/selfhosted/.rss)
 
 <div align="center">
-  <img alt="Meme" src="images/ihavewatched.png">
+  <img alt="Meme" src="images/ihavewatched.png" width="80%">
 </div>
 
 # Files
