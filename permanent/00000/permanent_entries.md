@@ -70,6 +70,12 @@
  - user: None
  - tags: ['archive program', 'program', 'open source']
 
+## Ancient Wisdom Courses
+ - [https://www.ancientwisdom.academy](https://www.ancientwisdom.academy)
+ - date published: 2024-05-10T09:09:32.718345+00:00
+ - user: None
+ - tags: []
+
 ## The Bash Guide
  - [https://guide.bash.academy](https://guide.bash.academy)
  - date published: 2024-04-25T10:50:47+00:00
@@ -154,6 +160,12 @@
  - user: None
  - tags: []
 
+## Working.Actor - A complete guide to your acting career
+ - [https://working.actor](https://working.actor)
+ - date published: 2024-05-10T05:13:32.252851+00:00
+ - user: None
+ - tags: []
+
 ## Roqad - Identity Solutions - Resolution for a Cookieless World
  - [https://www.roq.ad](https://www.roq.ad)
  - date published: 2024-05-06T17:56:32.657353+00:00
@@ -181,6 +193,12 @@
 ## United Arab Emirates Property - 90,690 Condos & Houses For Sale | FazWaz.ae
  - [https://www.fazwaz.ae](https://www.fazwaz.ae)
  - date published: 2024-03-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## قناة الفجيرة | مصدر لا نهاية له من الأخبار والترفيه
+ - [https://www.fujairahtv.ae](https://www.fujairahtv.ae)
+ - date published: 2024-05-10T04:48:36.948199+00:00
  - user: None
  - tags: []
 
@@ -364,6 +382,12 @@
  - user: None
  - tags: []
 
+## Zindi
+ - [https://zindi.africa](https://zindi.africa)
+ - date published: 2024-05-10T05:00:39.914326+00:00
+ - user: None
+ - tags: []
+
 ## Predrag Gruevski's blog and personal site.
  - [https://predr.ag](https://predr.ag)
  - date published: 2023-10-25T08:41:22.336448+00:00
@@ -391,6 +415,12 @@
 ## Web3 Design Agency | Avark
  - [https://avark.agency](https://avark.agency)
  - date published: 2024-05-02T13:48:24.050833+00:00
+ - user: None
+ - tags: []
+
+## Backbeat Agency – a creative agency
+ - [http://www.backbeat.agency](http://www.backbeat.agency)
+ - date published: 2024-05-10T06:29:14.971678+00:00
  - user: None
  - tags: []
 
@@ -742,6 +772,12 @@
  - user: rumpel
  - tags: ['content farm', 'artificial intelligence']
 
+## C3 AI - Enterprise AI
+ - [https://c3.ai](https://c3.ai)
+ - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Calligrapher.ai: Realistic computer-generated handwriting
  - [https://www.calligrapher.ai](https://www.calligrapher.ai)
  - date published: 2023-10-25T11:36:44.320352+00:00
@@ -1036,9 +1072,51 @@
  - user: None
  - tags: []
 
+## D2L Courses
+ - [https://courses.d2l.ai](https://courses.d2l.ai)
+ - date published: 2024-05-10T07:02:03.701522+00:00
+ - user: None
+ - tags: []
+
 ## Dive into Deep Learning: Interactive deep learning book with codes and maths
  - [https://d2l.ai](https://d2l.ai)
  - date published: 2023-11-27T04:55:20+00:00
+ - user: None
+ - tags: []
+
+## D2L Discussion
+ - [https://discuss.d2l.ai](https://discuss.d2l.ai)
+ - date published: 2024-05-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dive into Deep Learning — Dive into Deep Learning  documentation
+ - [https://ja.d2l.ai](https://ja.d2l.ai)
+ - date published: 2024-05-10T07:02:11.132597+00:00
+ - user: None
+ - tags: []
+
+## Dive into Deep Learning: 수학, 코드, 토론이 곁들여진 참여형 책
+ - [https://ko.d2l.ai](https://ko.d2l.ai)
+ - date published: 2024-05-10T07:02:21.041772+00:00
+ - user: None
+ - tags: ['book', 'machine learning', 'deep learning']
+
+## Dive into Deep Learning — Dive into Deep Learning 0.17.1 documentation
+ - [https://pt.d2l.ai](https://pt.d2l.ai)
+ - date published: 2024-05-10T07:02:16.651640+00:00
+ - user: None
+ - tags: []
+
+## Derin Öğrenmeye Dalış — Derin Öğrenmeye Dalış 0.17.5 documentation
+ - [https://tr.d2l.ai](https://tr.d2l.ai)
+ - date published: 2024-05-10T07:02:25.712705+00:00
+ - user: None
+ - tags: []
+
+## 《动手学深度学习》 — 动手学深度学习 2.0.0 documentation
+ - [https://zh.d2l.ai](https://zh.d2l.ai)
+ - date published: 2024-05-10T07:02:06.448111+00:00
  - user: None
  - tags: []
 
@@ -1189,6 +1267,12 @@
 ## Dragonscale Newsletter
  - [https://blog.dragonscale.ai](https://blog.dragonscale.ai)
  - date published: 2024-03-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ecole
+ - [https://www.ecole.ai](https://www.ecole.ai)
+ - date published: 2024-05-10T05:01:17.450582+00:00
  - user: None
  - tags: []
 
@@ -1474,6 +1558,12 @@
  - user: None
  - tags: []
 
+## Formless by Typeform
+ - [https://formless.ai](https://formless.ai)
+ - date published: 2024-05-10T02:43:09.886746+00:00
+ - user: None
+ - tags: []
+
 ## FounderPal — Marketing Tools for Solopreneurs Who Hate Marketing
  - [https://founderpal.ai](https://founderpal.ai)
  - date published: 2023-10-25T11:38:57.349820+00:00
@@ -1573,6 +1663,12 @@
 ## Giskard - Open-source Solution for AI Quality
  - [https://www.giskard.ai](https://www.giskard.ai)
  - date published: 2023-10-25T11:39:07.365125+00:00
+ - user: None
+ - tags: []
+
+## Glean.ai | Accounts Payable Spend Intelligence
+ - [https://www.glean.ai](https://www.glean.ai)
+ - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1711,6 +1807,12 @@
 ## Home • Hume AI
  - [https://hume.ai](https://hume.ai)
  - date published: 2024-04-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Humyn.ai
+ - [https://app.humyn.ai](https://app.humyn.ai)
+ - date published: 2024-05-10T05:00:49.349649+00:00
  - user: None
  - tags: []
 
@@ -2200,6 +2302,12 @@
  - user: None
  - tags: []
 
+## Launch Your All-in-One Creator Storefront | Marketsy.ai
+ - [https://marketsy.ai](https://marketsy.ai)
+ - date published: 2024-05-10T05:29:41.570330+00:00
+ - user: None
+ - tags: []
+
 ## Mastodon
  - [https://masto.ai](https://masto.ai)
  - date published: 2023-10-24T20:13:16.747974+00:00
@@ -2346,12 +2454,6 @@
 
 ## The AI Ethics Brief | Montreal AI Ethics Institute | Substack
  - [https://brief.montrealethics.ai](https://brief.montrealethics.ai)
- - date published: 2024-04-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## The AI Ethics Brief | Montreal AI Ethics Institute | Substack
- - [http://brief.montrealethics.ai](http://brief.montrealethics.ai)
  - date published: 2024-04-04T00:00:00+00:00
  - user: None
  - tags: []
@@ -3202,6 +3304,12 @@
  - user: None
  - tags: []
 
+## Large Language Models Capture-the-Flag (LLM CTF) Competition
+ - [https://ctf.spylab.ai](https://ctf.spylab.ai)
+ - date published: 2024-05-10T05:01:52.474733+00:00
+ - user: None
+ - tags: []
+
 ## SQL Chat
  - [https://www.sqlchat.ai](https://www.sqlchat.ai)
  - date published: 2024-05-08T04:05:28.123487+00:00
@@ -3301,6 +3409,12 @@
 ## Suno AI
  - [https://www.suno.ai](https://www.suno.ai)
  - date published: 2023-12-23T12:24:14+00:00
+ - user: None
+ - tags: []
+
+## Modern PSA-RMM Software for MSPs and IT teams | SuperOps
+ - [https://superops.ai](https://superops.ai)
+ - date published: 2024-05-10T06:32:23.608347+00:00
  - user: None
  - tags: []
 
@@ -3436,6 +3550,12 @@
  - user: None
  - tags: []
 
+## Powering AI with human insight - Toloka AI
+ - [https://toloka.ai](https://toloka.ai)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Tom Kemp | Author | Entrepreneur | Seed Investor | Policy Advisor
  - [https://www.tomkemp.ai](https://www.tomkemp.ai)
  - date published: 2023-10-25T11:44:40.418637+00:00
@@ -3451,6 +3571,12 @@
 ## ToolPilot AI - Navigate AI's Possibilities with AI Tools Directory
  - [https://www.toolpilot.ai](https://www.toolpilot.ai)
  - date published: 2024-05-09T07:04:01.725395+00:00
+ - user: None
+ - tags: []
+
+## The Trojan Detection Challenge 2023 (LLM Edition) - The Trojan Detection Challenge
+ - [https://trojandetection.ai](https://trojandetection.ai)
+ - date published: 2024-05-10T05:00:50.560271+00:00
  - user: None
  - tags: []
 
@@ -3634,6 +3760,12 @@
  - user: None
  - tags: []
 
+## Weather4cast 2023 - Weather4cast
+ - [http://weather4cast.ai](http://weather4cast.ai)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Webscape
  - [https://webscape.ai](https://webscape.ai)
  - date published: 2024-05-09T07:25:15.770192+00:00
@@ -3685,6 +3817,12 @@
 ## Xanadu | Welcome to Xanadu
  - [https://www.xanadu.ai](https://www.xanadu.ai)
  - date published: 2024-05-04T15:29:08.742243+00:00
+ - user: None
+ - tags: []
+
+## Onward - A Platform for Change
+ - [https://xeek.ai](https://xeek.ai)
+ - date published: 2024-03-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4450,6 +4588,12 @@
  - user: None
  - tags: []
 
+## Apps, welcome home.
+ - [https://get.app](https://get.app)
+ - date published: 2024-05-10T05:46:32.432269+00:00
+ - user: None
+ - tags: []
+
 ## Aegis Authenticator - Secure 2FA app for Android
  - [https://getaegis.app](https://getaegis.app)
  - date published: 2023-10-25T11:46:37.370107+00:00
@@ -4598,7 +4742,7 @@
  - [https://immich.app](https://immich.app)
  - date published: 2024-04-08T19:28:59.912124+00:00
  - user: None
- - tags: ['video library', 'self-host']
+ - tags: ['self-host', 'video library', 'image gallery']
 
 ## Iliffe Media
  - [https://digital.imnews.app](https://digital.imnews.app)
@@ -4615,6 +4759,12 @@
 ## iSH
  - [https://ish.app](https://ish.app)
  - date published: 2024-05-04T15:17:55.168509+00:00
+ - user: None
+ - tags: []
+
+## Use JSDoc: Index
+ - [https://jsdoc.app](https://jsdoc.app)
+ - date published: 2024-05-10T05:44:03.195138+00:00
  - user: None
  - tags: []
 
@@ -4636,6 +4786,12 @@
  - user: None
  - tags: []
 
+## kindaVim
+ - [https://kindavim.app](https://kindavim.app)
+ - date published: 2024-05-10T07:00:29.670714+00:00
+ - user: None
+ - tags: []
+
 ## Knock | Notifications infrastructure for developers
  - [https://knock.app](https://knock.app)
  - date published: 2023-12-12T22:57:59.485222+00:00
@@ -4651,6 +4807,12 @@
 ## Kwote
  - [https://kwote.app](https://kwote.app)
  - date published: 2024-05-06T15:18:28.406163+00:00
+ - user: None
+ - tags: []
+
+## lalista.app
+ - [https://lalista.app](https://lalista.app)
+ - date published: 2024-05-10T06:40:39.694315+00:00
  - user: None
  - tags: []
 
@@ -4675,6 +4837,12 @@
 ## LinearMouse | The mouse and trackpad utility for Mac.
  - [https://linearmouse.app](https://linearmouse.app)
  - date published: 2023-10-25T08:37:25.135990+00:00
+ - user: None
+ - tags: []
+
+## @ederson
+ - [https://lingi.app](https://lingi.app)
+ - date published: 2024-05-10T06:45:42.067046+00:00
  - user: None
  - tags: []
 
@@ -5332,6 +5500,18 @@
  - user: None
  - tags: []
 
+## Weather App
+ - [https://digitalweather-app-9eejw.ondigitalocean.app](https://digitalweather-app-9eejw.ondigitalocean.app)
+ - date published: 2024-05-10T16:54:46.255464+00:00
+ - user: None
+ - tags: []
+
+## Employee Directory
+ - [https://monkfish-app-bsnp4.ondigitalocean.app](https://monkfish-app-bsnp4.ondigitalocean.app)
+ - date published: 2024-05-10T16:54:44.922944+00:00
+ - user: None
+ - tags: []
+
 ## Podcast Reports und Analytics für Agenturen | Open Podcast
  - [https://openpodcast.app](https://openpodcast.app)
  - date published: 2024-04-29T07:41:47.137862+00:00
@@ -5668,6 +5848,12 @@
  - user: rumpel
  - tags: ['rss']
 
+## Packmaster3000
+ - [https://flask-fire-ks6g7tdtpq-uw.a.run.app](https://flask-fire-ks6g7tdtpq-uw.a.run.app)
+ - date published: 2024-05-10T07:00:36.642607+00:00
+ - user: None
+ - tags: []
+
 ## PostHog
  - [https://magicproxy-dnfo3dcduq-ew.a.run.app](https://magicproxy-dnfo3dcduq-ew.a.run.app)
  - date published: 2023-07-07T00:00:00+00:00
@@ -5683,6 +5869,12 @@
 ## Savepad - Join the Waitlist!
  - [https://savepad.app](https://savepad.app)
  - date published: 2024-03-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## sci.app | A window to Science
+ - [https://sci.app](https://sci.app)
+ - date published: 2024-05-10T06:40:41.329753+00:00
  - user: None
  - tags: []
 
@@ -5764,6 +5956,12 @@
  - user: None
  - tags: []
 
+## SolarAssets | Micro-Investments in Photovoltaic Projects
+ - [https://solarassets.app](https://solarassets.app)
+ - date published: 2024-05-10T07:01:27.220472+00:00
+ - user: None
+ - tags: []
+
 ## Soupault: A static website management tool
  - [https://soupault.app](https://soupault.app)
  - date published: 2024-03-23T02:19:13+00:00
@@ -5799,202 +5997,4 @@
  - date published: 2023-10-25T11:49:02.976604+00:00
  - user: None
  - tags: ['online tool', 'programming ide', 'm68k', 'asm-editor', 'assembly']
-
-## speedscope
- - [https://www.speedscope.app](https://www.speedscope.app)
- - date published: 2024-04-30T05:16:40.305745+00:00
- - user: None
- - tags: []
-
-## Show HN: I built a tool for repeatable checklists
- - [https://steplist.app](https://steplist.app)
- - date published: 2024-05-02T14:21:59+00:00
- - user: None
- - tags: []
-
-## Please don’t theme our apps
- - [https://stopthemingmy.app](https://stopthemingmy.app)
- - date published: 2023-10-25T11:49:07.204497+00:00
- - user: None
- - tags: []
-
-## https://store.app
- - [https://store.app](https://store.app)
- - date published: 2023-10-24T20:06:24.975812+00:00
- - user: None
- - tags: []
-
-## StoryCapsule
- - [https://storycapsule.app](https://storycapsule.app)
- - date published: 2024-05-06T21:20:02.129499+00:00
- - user: None
- - tags: []
-
-## StoryCatcher® for iOS ~ What's your story?
- - [https://storycatcher.app](https://storycatcher.app)
- - date published: 2024-05-06T20:17:56.760550+00:00
- - user: None
- - tags: []
-
-## https://nl-compare.streamlit.app
- - [https://nl-compare.streamlit.app](https://nl-compare.streamlit.app)
- - date published: 2024-01-30T23:17:28.574256+00:00
- - user: None
- - tags: []
-
-## Structpad - notepad-database hybrid
- - [https://structpad.app](https://structpad.app)
- - date published: 2023-10-25T11:49:13.505963+00:00
- - user: None
- - tags: []
-
-## Supernotes | The best collaborative note-taking app
- - [https://supernotes.app](https://supernotes.app)
- - date published: 2024-02-22T13:05:18.857072+00:00
- - user: None
- - tags: []
-
-## svgl
- - [https://svgl.app](https://svgl.app)
- - date published: 2024-05-09T09:14:46.297079+00:00
- - user: None
- - tags: []
-
-## Synctify – Sync a music drop with a time in the real world
- - [https://synctify.app](https://synctify.app)
- - date published: 2023-12-31T15:05:32+00:00
- - user: None
- - tags: []
-
-## Infinite Mac
- - [https://system6.app](https://system6.app)
- - date published: 2024-05-08T08:45:23.629527+00:00
- - user: None
- - tags: []
-
-## Infinite Mac
- - [https://system7.app](https://system7.app)
- - date published: 2024-05-08T08:45:14.154595+00:00
- - user: None
- - tags: []
-
-## Private group chat and collaboration
- - [https://tap.app](https://tap.app)
- - date published: 2024-04-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Hardened foundation for your web apps.
- - [https://beta.tauri.app](https://beta.tauri.app)
- - date published: 2024-02-23T21:18:24.945566+00:00
- - user: None
- - tags: []
-
-## Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps
- - [https://tauri.app](https://tauri.app)
- - date published: 2023-10-25T11:49:16.037626+00:00
- - user: None
- - tags: ['software development platform']
-
-## teachyourselfmath
- - [https://teachyourselfmath.app](https://teachyourselfmath.app)
- - date published: 2024-01-24T06:49:02.414761+00:00
- - user: None
- - tags: []
-
-## Find your dream Canadian tech job
- - [https://www.techjobscanada.app](https://www.techjobscanada.app)
- - date published: 2024-04-28T04:30:40.131321+00:00
- - user: None
- - tags: []
-
-## The Companion
- - [https://www.thecompanion.app](https://www.thecompanion.app)
- - date published: 2023-10-25T11:49:20.174746+00:00
- - user: None
- - tags: []
-
-## Threader - Good threads every day
- - [https://threader.app](https://threader.app)
- - date published: 2024-05-08T04:03:35.730993+00:00
- - user: None
- - tags: []
-
-## Busy Beavers!
- - [https://busy-beavers.tigyog.app](https://busy-beavers.tigyog.app)
- - date published: 2023-10-25T11:49:30.014538+00:00
- - user: None
- - tags: []
-
-## TigYog
- - [https://tigyog.app](https://tigyog.app)
- - date published: 2023-10-25T11:49:31.674555+00:00
- - user: None
- - tags: []
-
-## Timesy: A Distraction-Free Online Timer
- - [https://timesy.app](https://timesy.app)
- - date published: 2024-05-08T16:50:29.231095+00:00
- - user: None
- - tags: []
-
-## The code runner for PHP 💫
- - [https://tinkerwell.app](https://tinkerwell.app)
- - date published: 2024-05-04T11:49:51.761845+00:00
- - user: None
- - tags: []
-
-## Tinylytics | tinylytics
- - [https://tinylytics.app](https://tinylytics.app)
- - date published: 2024-04-28T03:58:36.076675+00:00
- - user: None
- - tags: []
-
-## TinyUX Frontpage (en) - TinyUX
- - [https://www.tinyux.app](https://www.tinyux.app)
- - date published: 2023-10-25T11:49:34.377568+00:00
- - user: None
- - tags: []
-
-## Treeverse
- - [https://treeverse.app](https://treeverse.app)
- - date published: 2024-05-09T04:38:48.254295+00:00
- - user: None
- - tags: []
-
-## TripGeeks - where experiences happen
- - [https://tripgeeks.app](https://tripgeeks.app)
- - date published: 2024-03-28T17:08:23.215676+00:00
- - user: None
- - tags: []
-
-## Share
- - [https://simulator.tryshare.app](https://simulator.tryshare.app)
- - date published: 2023-10-25T11:49:37.534331+00:00
- - user: None
- - tags: []
-
-## Tuple: a remote pair programming tool designed for developers
- - [https://tuple.app](https://tuple.app)
- - date published: 2024-04-29T05:42:17.171936+00:00
- - user: None
- - tags: []
-
-## Discover. Plan. Travel. Share.
- - [https://turas.app](https://turas.app)
- - date published: 2024-04-29T07:28:43.082100+00:00
- - user: None
- - tags: []
-
-## AImpostor
- - [https://www.turingjest.app](https://www.turingjest.app)
- - date published: 2023-10-25T11:49:39.188876+00:00
- - user: None
- - tags: []
-
-## Console
- - [https://console.twake.app](https://console.twake.app)
- - date published: 2024-05-09T02:34:47.795510+00:00
- - user: None
- - tags: []
 
