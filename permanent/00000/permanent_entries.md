@@ -322,6 +322,12 @@
  - user: None
  - tags: ['aircraft', 'airspace', 'avionics']
 
+## Swoop Aero - Onwards is upwards
+ - [https://swoop.aero](https://swoop.aero)
+ - date published: 2024-05-12T05:23:42.035301+00:00
+ - user: None
+ - tags: []
+
 ## Home | Times Aerospace
  - [https://www.timesaerospace.aero](https://www.timesaerospace.aero)
  - date published: 2023-10-25T10:58:58.652022+00:00
@@ -463,6 +469,12 @@
 ## Website Design Services | Fractalmax Agency
  - [https://www.fractalmax.agency](https://www.fractalmax.agency)
  - date published: 2023-10-25T11:36:18.419422+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://grafik.agency](https://grafik.agency)
+ - date published: 2024-03-14T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1330,6 +1342,12 @@
  - user: None
  - tags: []
 
+## Dragonscale Industries | Home
+ - [https://dragonscale.ai](https://dragonscale.ai)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Ecole
  - [https://www.ecole.ai](https://www.ecole.ai)
  - date published: 2024-05-10T05:01:17.450582+00:00
@@ -1984,6 +2002,12 @@
  - user: None
  - tags: []
 
+## Inscribe: Fraudulent Document & Risk Detection Software
+ - [https://www.inscribe.ai](https://www.inscribe.ai)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Interconnects | Nathan Lambert | Substack
  - [https://www.interconnects.ai](https://www.interconnects.ai)
  - date published: 2023-10-25T11:39:29.532383+00:00
@@ -2071,6 +2095,12 @@
 ## Jotte
  - [https://jotte.ai](https://jotte.ai)
  - date published: 2023-10-25T11:39:39.545457+00:00
+ - user: None
+ - tags: []
+
+## Julep AI - Crafting a better AI ecosystem
+ - [https://julep.ai](https://julep.ai)
+ - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2386,6 +2416,12 @@
  - user: None
  - tags: []
 
+## Lumona
+ - [https://www.lumona.ai](https://www.lumona.ai)
+ - date published: 2024-05-12T04:30:58.691924+00:00
+ - user: None
+ - tags: []
+
 ## LunarTech - Empowering Tomorrow's Innovators
  - [https://lunartech.ai](https://lunartech.ai)
  - date published: 2024-04-25T21:21:17.760872+00:00
@@ -2650,6 +2686,12 @@
  - user: None
  - tags: []
 
+## Nomic Atlas
+ - [https://atlas.nomic.ai](https://atlas.nomic.ai)
+ - date published: 2024-05-12T04:12:14.650722+00:00
+ - user: None
+ - tags: []
+
 ## The Normal Blog - System Two: The Normal Computing Blog
  - [https://blog.normalcomputing.ai](https://blog.normalcomputing.ai)
  - date published: 2023-11-14T06:42:22.516104+00:00
@@ -2761,6 +2803,12 @@
 ## outdraw.ai
  - [https://outdraw.ai](https://outdraw.ai)
  - date published: 2024-03-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Autonomous Yard Operations & Yard Automation - Outrider
+ - [https://outrider.ai](https://outrider.ai)
+ - date published: 2024-05-11T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2926,9 +2974,21 @@
  - user: None
  - tags: []
 
+## Podwise - Podcast knowledge at 10x speed
+ - [https://podwise.ai](https://podwise.ai)
+ - date published: 2024-05-12T06:41:30.988245+00:00
+ - user: None
+ - tags: []
+
 ## PointOne
  - [https://pointone.ai](https://pointone.ai)
  - date published: 2024-03-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Poper
+ - [https://internal-test.poper.ai](https://internal-test.poper.ai)
+ - date published: 2024-05-12T05:41:05.006040+00:00
  - user: None
  - tags: []
 
@@ -3436,9 +3496,27 @@
  - user: None
  - tags: []
 
+## The Spice AI Blog
+ - [https://blog.spice.ai](https://blog.spice.ai)
+ - date published: 2024-04-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Spice.ai | Spice.ai Documentation
+ - [https://docs.spice.ai](https://docs.spice.ai)
+ - date published: 2024-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Spice AI
  - [https://spice.ai](https://spice.ai)
  - date published: 2024-03-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Spice AI status
+ - [https://status.spice.ai](https://status.spice.ai)
+ - date published: 2024-05-12T04:13:06.303740+00:00
  - user: None
  - tags: []
 
@@ -3874,6 +3952,12 @@
  - user: None
  - tags: []
 
+## Verbit: AI-Based Transcription & Captioning Services
+ - [https://verbit.ai](https://verbit.ai)
+ - date published: 2024-05-12T07:40:48.410466+00:00
+ - user: None
+ - tags: []
+
 ## AI Playground
  - [https://play.vercel.ai](https://play.vercel.ai)
  - date published: 2023-10-25T11:44:52.765812+00:00
@@ -4123,6 +4207,12 @@
 ## Personale - Vodafone
  - [https://www.vodafone.al](https://www.vodafone.al)
  - date published: 2024-05-07T10:57:37.324893+00:00
+ - user: None
+ - tags: []
+
+## Jake's Digital Garden
+ - [https://garden.weidok.al](https://garden.weidok.al)
+ - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4378,6 +4468,12 @@
  - user: None
  - tags: []
 
+## Sign in
+ - [https://btcpayserver.bitcoinjungle.app](https://btcpayserver.bitcoinjungle.app)
+ - date published: 2024-05-12T05:41:18.187759+00:00
+ - user: None
+ - tags: []
+
 ## Adtech Solution for Publishers | BlueStack
  - [https://developers.bluestack.app](https://developers.bluestack.app)
  - date published: 2024-05-06T17:48:49.667228+00:00
@@ -4582,6 +4678,12 @@
  - user: None
  - tags: []
 
+## COVID Shield
+ - [https://www.covidshield.app](https://www.covidshield.app)
+ - date published: 2024-05-12T04:14:35.287763+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: CriticalPath – Advanced Profiler for Android
  - [https://crpath.app](https://crpath.app)
  - date published: 2024-02-28T20:52:32+00:00
@@ -4615,6 +4717,12 @@
 ## deploybot
  - [https://deploybot.app](https://deploybot.app)
  - date published: 2024-05-06T09:18:30.757531+00:00
+ - user: None
+ - tags: []
+
+## Diagrams: A Native Diagram Editor for Mac
+ - [https://diagrams.app](https://diagrams.app)
+ - date published: 2024-05-12T06:23:53.449350+00:00
  - user: None
  - tags: []
 
@@ -4732,6 +4840,12 @@
  - user: None
  - tags: []
 
+## Events in Amsterdam
+ - [https://eventsin.app](https://eventsin.app)
+ - date published: 2024-05-12T05:40:39.529976+00:00
+ - user: None
+ - tags: []
+
 ## Every Door
  - [https://every-door.app](https://every-door.app)
  - date published: 2023-10-25T11:46:18.725740+00:00
@@ -4750,9 +4864,21 @@
  - user: None
  - tags: []
 
+## EZ Fulfill
+ - [https://shopify.ezfulfill.app](https://shopify.ezfulfill.app)
+ - date published: 2024-05-12T05:43:44.241062+00:00
+ - user: None
+ - tags: []
+
 ## Home | F3D
  - [https://f3d.app](https://f3d.app)
  - date published: 2023-10-25T11:46:25.386150+00:00
+ - user: None
+ - tags: []
+
+## Fable — The collaborative creative studio
+ - [https://fable.app](https://fable.app)
+ - date published: 2024-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4972,6 +5098,12 @@
  - user: None
  - tags: []
 
+## HumanIPO - Turn your fans into shareholders
+ - [https://humanipo.app](https://humanipo.app)
+ - date published: 2024-05-12T05:28:23.256428+00:00
+ - user: None
+ - tags: []
+
 ## Iconbuddy — 180K+ open source icons
  - [https://iconbuddy.app](https://iconbuddy.app)
  - date published: 2023-10-25T11:46:58.974115+00:00
@@ -5104,6 +5236,12 @@
  - user: None
  - tags: ['link aggregator', 'self-host']
 
+## Listen and publish YouTube shows as podcasts - Listenbox
+ - [https://listenbox.app](https://listenbox.app)
+ - date published: 2024-05-12T06:23:26.569730+00:00
+ - user: None
+ - tags: []
+
 ## listmonk - Free and open source self-hosted newsletter, mailing list manager, and transactional mails
  - [https://listmonk.app](https://listmonk.app)
  - date published: 2024-02-04T00:00:00+00:00
@@ -5113,6 +5251,12 @@
 ## Taiki Radio
  - [https://lofimusic.app](https://lofimusic.app)
  - date published: 2024-04-29T07:45:26.290737+00:00
+ - user: None
+ - tags: []
+
+## Show HN: I created an app for you to be a more unpredictable romantic partner
+ - [https://www.lovefuel.app](https://www.lovefuel.app)
+ - date published: 2024-05-12T19:14:39+00:00
  - user: None
  - tags: []
 
@@ -5416,6 +5560,12 @@
  - user: None
  - tags: []
 
+## Un garçon pas comme les autres (Bayes)
+ - [https://dansblog.netlify.app](https://dansblog.netlify.app)
+ - date published: 2024-05-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Pokémon Cards CSS Holographic Effect
  - [https://deck-24abcd.netlify.app](https://deck-24abcd.netlify.app)
  - date published: 2023-10-25T11:47:24.028454+00:00
@@ -5626,6 +5776,12 @@
  - user: None
  - tags: []
 
+## San Diego Development
+ - [https://sd-dev-list.netlify.app](https://sd-dev-list.netlify.app)
+ - date published: 2024-05-12T05:43:30.807301+00:00
+ - user: None
+ - tags: []
+
 ## Siddharth Roy
  - [https://siddharthroy.netlify.app](https://siddharthroy.netlify.app)
  - date published: 2024-05-07T23:13:34.470688+00:00
@@ -5788,6 +5944,12 @@
  - user: None
  - tags: ['self-host', 'web interface', 'server management']
 
+## omni-clip
+ - [https://omniclip.app](https://omniclip.app)
+ - date published: 2024-05-12T06:23:23+00:00
+ - user: rumpel
+ - tags: []
+
 ## Main Page | Omnipedia
  - [https://omnipedia.app](https://omnipedia.app)
  - date published: 2024-04-23T15:25:28+00:00
@@ -5833,168 +5995,6 @@
 ## Pachli
  - [https://pachli.app](https://pachli.app)
  - date published: 2024-05-08T10:50:25.021051+00:00
- - user: None
- - tags: []
-
-## PageFactory | Programmatic SEO for Any Website
- - [https://pagefactory.app](https://pagefactory.app)
- - date published: 2022-05-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Cisco Secure Application Cloud | An Effective Security Platform - Panoptica
- - [https://www.panoptica.app](https://www.panoptica.app)
- - date published: 2023-12-20T23:10:10.715922+00:00
- - user: None
- - tags: []
-
-## Pashword - Passwords Done Right
- - [https://pashword.app](https://pashword.app)
- - date published: 2023-10-25T11:48:14.672231+00:00
- - user: None
- - tags: []
-
-## Patterns Data Systems
- - [https://patterns.app](https://patterns.app)
- - date published: 2023-10-25T11:48:16.898136+00:00
- - user: None
- - tags: []
-
-## Patterns Data Systems
- - [https://www.patterns.app](https://www.patterns.app)
- - date published: 2023-10-25T11:48:18.776757+00:00
- - user: None
- - tags: []
-
-## Pausly | Start Moving, Stay Healthy
- - [https://www.pausly.app](https://www.pausly.app)
- - date published: 2023-10-25T11:48:20.993460+00:00
- - user: None
- - tags: []
-
-## Penpot Community
- - [https://community.penpot.app](https://community.penpot.app)
- - date published: 2023-10-25T11:48:23.758030+00:00
- - user: None
- - tags: []
-
-## Penpot | Free Open-Source Design & Prototyping For Teams
- - [https://penpot.app](https://penpot.app)
- - date published: 2023-10-25T11:48:26.974951+00:00
- - user: None
- - tags: []
-
-## Home - Percorso
- - [https://percorso.app](https://percorso.app)
- - date published: 2024-05-07T20:32:05.806777+00:00
- - user: None
- - tags: []
-
-## Attention Required! | Cloudflare
- - [https://00917082-71e9-498e-8343-00c3df06b798.edge.permutive.app](https://00917082-71e9-498e-8343-00c3df06b798.edge.permutive.app)
- - date published: 2024-05-06T22:46:44.420167+00:00
- - user: None
- - tags: []
-
-## PhotoPrism - Features
- - [https://docs.photoprism.app](https://docs.photoprism.app)
- - date published: 2024-04-20T15:04:18.703361+00:00
- - user: None
- - tags: ['image library', 'self-host']
-
-## Browse Your Life in Pictures – PhotoPrism
- - [https://www.photoprism.app](https://www.photoprism.app)
- - date published: 2023-10-25T11:48:28.969069+00:00
- - user: None
- - tags: ['self-host', 'image hosting']
-
-## Phrasing: To Fluency & Beyond!
- - [https://phrasing.app](https://phrasing.app)
- - date published: 2024-01-29T16:56:42.292979+00:00
- - user: None
- - tags: []
-
-## Pickwick | Find your next favorite series
- - [https://pickwick.app](https://pickwick.app)
- - date published: 2024-04-30T02:48:03.200792+00:00
- - user: None
- - tags: []
-
-## Picnic | Supermarkt op wielen | Online boodschappen bestellen | Gratis bezorgd
- - [https://picnic.app](https://picnic.app)
- - date published: 2024-04-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pindigo
- - [https://pindigo.app](https://pindigo.app)
- - date published: 2024-03-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pioneer - Join a network of 300+ founders in 50+ countries
- - [https://pioneer.app](https://pioneer.app)
- - date published: 2024-05-01T04:18:44.596441+00:00
- - user: None
- - tags: []
-
-## Welcome to Plasmic | Learn Plasmic
- - [https://docs.plasmic.app](https://docs.plasmic.app)
- - date published: 2024-04-29T02:16:38.896049+00:00
- - user: None
- - tags: []
-
-## Plasmic Community
- - [https://forum.plasmic.app](https://forum.plasmic.app)
- - date published: 2024-03-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Error
- - [https://img.plasmic.app](https://img.plasmic.app)
- - date published: 2024-04-29T02:16:32.298700+00:00
- - user: None
- - tags: []
-
-## Plasmic | Build powerful apps fast— without the limits
- - [https://plasmic.app](https://plasmic.app)
- - date published: 2024-05-09T09:14:04.634261+00:00
- - user: None
- - tags: []
-
-## Welcome to your Strapi app
- - [https://strapi-app.plasmic.app](https://strapi-app.plasmic.app)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Plasmic
- - [https://studio.plasmic.app](https://studio.plasmic.app)
- - date published: 2024-04-29T02:16:32.735852+00:00
- - user: None
- - tags: []
-
-## Plasmic.app – the visual builder for your tech stack
- - [https://www.plasmic.app](https://www.plasmic.app)
- - date published: 2023-12-19T16:27:48+00:00
- - user: None
- - tags: []
-
-## Polymer — iOS 3D Printing App for OctoPrint
- - [https://polymer3d.app](https://polymer3d.app)
- - date published: 2024-05-06T06:39:35.315340+00:00
- - user: None
- - tags: []
-
-## Polypane, The browser for ambitious web developers
- - [https://polypane.app](https://polypane.app)
- - date published: 2024-02-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## PortraitArt: Turn your photos into beautiful art!
- - [https://portraitart.app](https://portraitart.app)
- - date published: 2024-03-13T05:08:05.599091+00:00
  - user: None
  - tags: []
 
