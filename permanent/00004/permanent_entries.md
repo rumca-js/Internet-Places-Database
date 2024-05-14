@@ -1,3 +1,87 @@
+## Préserver, restaurer, mettre en valeur et partager le cinéma | Cinémathèque
+ - [https://www.cinematheque.ch](https://www.cinematheque.ch)
+ - date published: 2023-10-25T12:13:15.452391+00:00
+ - user: None
+ - tags: []
+
+## Citroen Switzerland
+ - [https://www.citroen.ch](https://www.citroen.ch)
+ - date published: 2023-12-11T16:01:12.759641+00:00
+ - user: None
+ - tags: []
+
+## Claudio Bernasconi - Not only writes code, but solves problems.
+ - [https://www.claudiobernasconi.ch](https://www.claudiobernasconi.ch)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://claudioholanda.ch
+ - [https://claudioholanda.ch](https://claudioholanda.ch)
+ - date published: 2024-01-09T02:27:22.425891+00:00
+ - user: None
+ - tags: []
+
+## Swiss-Based Cloud Servers - For Developers Who Care
+ - [https://www.cloudscale.ch](https://www.cloudscale.ch)
+ - date published: 2024-05-08T09:35:36.408259+00:00
+ - user: None
+ - tags: []
+
+## Composed GmbH
+ - [http://composed.ch](http://composed.ch)
+ - date published: 2024-04-30T06:11:25.664904+00:00
+ - user: None
+ - tags: []
+
+## crispsandwi.ch 🥪🐘
+ - [https://crispsandwi.ch](https://crispsandwi.ch)
+ - date published: 2024-05-02T13:43:14.469653+00:00
+ - user: None
+ - tags: []
+
+## Cruncher
+ - [https://cruncher.ch](https://cruncher.ch)
+ - date published: 2024-04-30T21:35:16.699071+00:00
+ - user: None
+ - tags: []
+
+## Crypto Valley Journal - Kryptowährungen, Blockchain, Bitcoin & Co.
+ - [https://cvj.ch](https://cvj.ch)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Superschnelles SSD-Webhosting aus der Schweiz
+ - [https://www.cyon.ch](https://www.cyon.ch)
+ - date published: 2024-05-01T07:13:04.601223+00:00
+ - user: None
+ - tags: []
+
+## Das Magazin: Spannende Geschichten und tiefgründige Reportagen | Tages-Anzeiger
+ - [https://www.dasmagazin.ch](https://www.dasmagazin.ch)
+ - date published: 2024-04-30T06:12:58.033996+00:00
+ - user: None
+ - tags: []
+
+## The Swiss Data Science Center
+ - [https://datascience.ch](https://datascience.ch)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Docu + Design Daube
+ - [http://daube.ch](http://daube.ch)
+ - date published: 2024-04-30T06:00:25.305352+00:00
+ - user: None
+ - tags: []
+
+## Mirjam Daube / video works
+ - [http://mir.daube.ch](http://mir.daube.ch)
+ - date published: 2024-04-30T06:00:24.177864+00:00
+ - user: None
+ - tags: []
+
 ## Docu + Design Daube
  - [https://www.daube.ch](https://www.daube.ch)
  - date published: 1999-01-01T00:00:00+00:00
@@ -269,12 +353,6 @@
  - tags: []
 
 ## Plans d'études - EPFL
- - [http://edu.epfl.ch](http://edu.epfl.ch)
- - date published: 2024-05-12T07:16:04.492728+00:00
- - user: None
- - tags: []
-
-## Plans d'études - EPFL
  - [https://edu.epfl.ch](https://edu.epfl.ch)
  - date published: 2024-05-12T07:16:30.502612+00:00
  - user: None
@@ -444,12 +522,6 @@
 
 ## Initiative MAKE
  - [https://make.epfl.ch](https://make.epfl.ch)
- - date published: 2024-05-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Initiative MAKE
- - [http://make.epfl.ch](http://make.epfl.ch)
  - date published: 2024-05-24T00:00:00+00:00
  - user: None
  - tags: []
@@ -637,12 +709,6 @@
 ## Wikis
  - [https://wiki.epfl.ch](https://wiki.epfl.ch)
  - date published: 2024-05-12T07:22:50.095130+00:00
- - user: None
- - tags: []
-
-## Wikis
- - [http://wiki.epfl.ch](http://wiki.epfl.ch)
- - date published: 2024-05-12T07:14:57.808866+00:00
  - user: None
  - tags: []
 
@@ -1033,12 +1099,6 @@
 ## Logements étudiants de qualité à Lausanne | Abordables et pratiques
  - [https://www.fmel.ch](https://www.fmel.ch)
  - date published: 2024-05-12T07:22:58.059047+00:00
- - user: None
- - tags: []
-
-## Forum EPFL - Le plus grand salon de recrutement d'Europe
- - [http://www.forum-epfl.ch](http://www.forum-epfl.ch)
- - date published: 2024-03-18T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2932,6 +2992,12 @@
  - user: None
  - tags: []
 
+## STEEPLE - A Scary Go Round Comic
+ - [https://steeple.church](https://steeple.church)
+ - date published: 2020-02-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## CFAO Motors - Citroën Côte d'Ivoire
  - [https://www.citroen.ci](https://www.citroen.ci)
  - date published: 2023-12-11T15:49:46.845465+00:00
@@ -3115,12 +3181,6 @@
 ## Eventbrite
  - [https://www.eventbrite.cl](https://www.eventbrite.cl)
  - date published: 2024-05-12T05:55:38.229985+00:00
- - user: None
- - tags: []
-
-## Eventbrite
- - [http://www.eventbrite.cl](http://www.eventbrite.cl)
- - date published: 2024-05-12T05:55:12.695490+00:00
  - user: None
  - tags: []
 
@@ -4005,6 +4065,12 @@
  - date published: 2024-01-19T13:01:35.779185+00:00
  - user: None
  - tags: ['personal']
+
+## closecontact.club
+ - [https://closecontact.club](https://closecontact.club)
+ - date published: 2024-05-13T02:43:12.894284+00:00
+ - user: None
+ - tags: []
 
 ## Cloud 696
  - [https://cloud696.club](https://cloud696.club)
@@ -5932,72 +5998,6 @@
 ## Reliable Solutions for Many Sectors and Industries | WAGO
  - [https://www.wago.com.cn](https://www.wago.com.cn)
  - date published: 2024-04-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Wind River
- - [http://www.windriver.com.cn](http://www.windriver.com.cn)
- - date published: 2024-05-07T14:19:31.851159+00:00
- - user: None
- - tags: []
-
-## 兴业证券官方网站
- - [http://www.xyzq.com.cn](http://www.xyzq.com.cn)
- - date published: 2024-04-29T02:30:54.796143+00:00
- - user: None
- - tags: []
-
-## 北京理工大学
- - [https://www.bit.edu.cn](https://www.bit.edu.cn)
- - date published: 2024-04-28T04:00:29.393849+00:00
- - user: None
- - tags: []
-
-## Beijing Normal University
- - [https://english.bnu.edu.cn](https://english.bnu.edu.cn)
- - date published: 2024-05-12T04:29:02.514786+00:00
- - user: None
- - tags: []
-
-## 复旦大学 Fudan University
- - [https://www.fudan.edu.cn](https://www.fudan.edu.cn)
- - date published: 2024-05-02T12:42:21.940606+00:00
- - user: None
- - tags: []
-
-## 计算机与信息学院（人工智能学院）
- - [https://ci.hfut.edu.cn](https://ci.hfut.edu.cn)
- - date published: 2024-05-10T05:30:13.590138+00:00
- - user: None
- - tags: []
-
-## 合肥工业大学
- - [https://www.hfut.edu.cn](https://www.hfut.edu.cn)
- - date published: 2024-05-10T05:30:22.841718+00:00
- - user: None
- - tags: []
-
-## 计算学部英文版
- - [https://encs.hit.edu.cn](https://encs.hit.edu.cn)
- - date published: 2024-05-10T05:29:54.915756+00:00
- - user: None
- - tags: []
-
-## Harbin Institute of Technology
- - [http://en.hit.edu.cn](http://en.hit.edu.cn)
- - date published: 2024-05-10T05:30:08.944099+00:00
- - user: None
- - tags: []
-
-## 计算机科学与技术学院
- - [https://cst.hitwh.edu.cn](https://cst.hitwh.edu.cn)
- - date published: 2024-05-10T05:30:04.070866+00:00
- - user: None
- - tags: []
-
-## 哈尔滨工业大学（威海）
- - [https://www.hitwh.edu.cn](https://www.hitwh.edu.cn)
- - date published: 2024-05-10T05:30:01.125234+00:00
  - user: None
  - tags: []
 

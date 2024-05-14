@@ -1258,6 +1258,12 @@
  - user: None
  - tags: []
 
+## DeepSig Home
+ - [https://www.deepsig.ai](https://www.deepsig.ai)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Latest News
  - [https://www.deepspeed.ai](https://www.deepspeed.ai)
  - date published: 2024-05-11T07:39:42.884780+00:00
@@ -3832,6 +3838,24 @@
  - user: None
  - tags: []
 
+## Uberduck - Generate speech from text
+ - [https://app.uberduck.ai](https://app.uberduck.ai)
+ - date published: 2024-05-13T02:41:11.077330+00:00
+ - user: None
+ - tags: []
+
+## Login - Uberduck
+ - [https://auth.uberduck.ai](https://auth.uberduck.ai)
+ - date published: 2024-05-13T02:41:13.336290+00:00
+ - user: None
+ - tags: []
+
+## Overview - Uberduck
+ - [https://docs.uberduck.ai](https://docs.uberduck.ai)
+ - date published: 2024-05-13T02:41:14.817133+00:00
+ - user: None
+ - tags: []
+
 ## Uberduck | Make Music with AI Vocals
  - [https://www.uberduck.ai](https://www.uberduck.ai)
  - date published: 2024-02-08T00:00:00+00:00
@@ -5440,6 +5464,12 @@
  - user: None
  - tags: []
 
+## Nanoc: a static-site generator written in Ruby » home
+ - [https://nanoc.app](https://nanoc.app)
+ - date published: 2024-05-13T02:43:14.382890+00:00
+ - user: None
+ - tags: []
+
 ## Not Found
  - [https://rss.nebula.app](https://rss.nebula.app)
  - date published: 2024-02-26T09:23:05.699053+00:00
@@ -5965,36 +5995,6 @@
 ## Weather App
  - [https://digitalweather-app-9eejw.ondigitalocean.app](https://digitalweather-app-9eejw.ondigitalocean.app)
  - date published: 2024-05-10T16:54:46.255464+00:00
- - user: None
- - tags: []
-
-## Employee Directory
- - [https://monkfish-app-bsnp4.ondigitalocean.app](https://monkfish-app-bsnp4.ondigitalocean.app)
- - date published: 2024-05-10T16:54:44.922944+00:00
- - user: None
- - tags: []
-
-## Podcast Reports und Analytics für Agenturen | Open Podcast
- - [https://openpodcast.app](https://openpodcast.app)
- - date published: 2024-04-29T07:41:47.137862+00:00
- - user: None
- - tags: []
-
-## None
- - [https://orbot.app](https://orbot.app)
- - date published: 2024-02-23T08:47:11.215311+00:00
- - user: None
- - tags: []
-
-## Organic Maps: Offline Hike, Bike, Trails and Navigation
- - [https://organicmaps.app](https://organicmaps.app)
- - date published: 2023-10-25T11:48:11.837009+00:00
- - user: None
- - tags: ['service maps', 'maps']
-
-## Pachli
- - [https://pachli.app](https://pachli.app)
- - date published: 2024-05-08T10:50:25.021051+00:00
  - user: None
  - tags: []
 

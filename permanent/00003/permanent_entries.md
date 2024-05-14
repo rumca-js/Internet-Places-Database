@@ -1,3 +1,63 @@
+## Dalhousie University ‑ Nova Scotia, Canada
+ - [https://www.dal.ca](https://www.dal.ca)
+ - date published: 2023-10-25T12:09:24.220580+00:00
+ - user: None
+ - tags: []
+
+## Dan Millar
+ - [https://danmillar.ca](https://danmillar.ca)
+ - date published: 2024-04-08T09:33:51.903896+00:00
+ - user: None
+ - tags: ['personal']
+
+## Daniel Chan: searching for counterworlds
+ - [https://danwchan.ca](https://danwchan.ca)
+ - date published: 2024-05-09T08:18:02.215738+00:00
+ - user: None
+ - tags: []
+
+## Darts & Letters
+ - [https://dartsandletters.ca](https://dartsandletters.ca)
+ - date published: 2024-05-08T05:04:43.852003+00:00
+ - user: None
+ - tags: []
+
+## Get that summer wishlist ready! - Decathlon Canada
+ - [https://www.decathlon.ca](https://www.decathlon.ca)
+ - date published: 2024-05-01T04:26:57.619828+00:00
+ - user: None
+ - tags: []
+
+## The DECromancer Archive
+ - [https://archive.decromancer.ca](https://archive.decromancer.ca)
+ - date published: 2021-12-08T18:44:00+00:00
+ - user: None
+ - tags: []
+
+## Dev Degree
+ - [https://devdegree.ca](https://devdegree.ca)
+ - date published: 2024-04-29T03:43:12.030075+00:00
+ - user: None
+ - tags: []
+
+## Daniel P. Gross
+ - [https://dgross.ca](https://dgross.ca)
+ - date published: 2023-10-25T09:02:15.935166+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | Diéssica Gurskas
+ - [https://diessi.ca](https://diessi.ca)
+ - date published: 2024-05-07T23:14:03.054373+00:00
+ - user: None
+ - tags: []
+
+## DigiKey Home
+ - [https://www.digikey.ca](https://www.digikey.ca)
+ - date published: 2024-05-01T05:04:33.238495+00:00
+ - user: None
+ - tags: []
+
 ## Digital Archive Ontario
  - [https://digitalarchiveontario.ca](https://digitalarchiveontario.ca)
  - date published: 2024-05-12T05:59:08.303817+00:00
@@ -159,6 +219,12 @@
  - date published: 2024-05-02T13:59:15.007550+00:00
  - user: None
  - tags: []
+
+## FanCons.ca - Canadian Comic, Sci-Fi, Anime, and Pop-Culture Fan Conventions
+ - [https://fancons.ca](https://fancons.ca)
+ - date published: 2024-05-13T03:53:37.103488+00:00
+ - user: None
+ - tags: ['conventions']
 
 ## ferd.ca
  - [https://ferd.ca](https://ferd.ca)
@@ -3364,6 +3430,12 @@
  - user: None
  - tags: []
 
+## Warner Music Canada Online Store
+ - [https://store.warnermusic.ca](https://store.warnermusic.ca)
+ - date published: 2024-05-13T03:42:21.998285+00:00
+ - user: None
+ - tags: []
+
 ## Weather forecast Canada : The best FREE weather 15 day forecast - Weather Crave
  - [https://www.weathercrave.ca](https://www.weathercrave.ca)
  - date published: 2024-05-04T00:00:00+00:00
@@ -4618,6 +4690,12 @@
  - user: None
  - tags: []
 
+## dict.cc | German-English dictionary
+ - [https://www.dict.cc](https://www.dict.cc)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Akkoma
  - [https://dlvn.cc](https://dlvn.cc)
  - date published: 2024-05-12T06:01:24.009751+00:00
@@ -4934,6 +5012,12 @@
          - You Can Grow Anything
  - [https://openfarm.cc](https://openfarm.cc)
  - date published: 2023-10-25T12:11:11.284428+00:00
+ - user: None
+ - tags: []
+
+## Websites change. Perma Links don't.
+ - [https://perma.cc](https://perma.cc)
+ - date published: 2024-05-13T13:48:59.465101+00:00
  - user: None
  - tags: []
 
@@ -5919,90 +6003,6 @@
 ## Films à l'affiche
  - [https://live.cinematheque.ch](https://live.cinematheque.ch)
  - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Préserver, restaurer, mettre en valeur et partager le cinéma | Cinémathèque
- - [https://www.cinematheque.ch](https://www.cinematheque.ch)
- - date published: 2023-10-25T12:13:15.452391+00:00
- - user: None
- - tags: []
-
-## Citroen Switzerland
- - [https://www.citroen.ch](https://www.citroen.ch)
- - date published: 2023-12-11T16:01:12.759641+00:00
- - user: None
- - tags: []
-
-## Claudio Bernasconi - Not only writes code, but solves problems.
- - [https://www.claudiobernasconi.ch](https://www.claudiobernasconi.ch)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://claudioholanda.ch
- - [https://claudioholanda.ch](https://claudioholanda.ch)
- - date published: 2024-01-09T02:27:22.425891+00:00
- - user: None
- - tags: []
-
-## Swiss-Based Cloud Servers - For Developers Who Care
- - [https://www.cloudscale.ch](https://www.cloudscale.ch)
- - date published: 2024-05-08T09:35:36.408259+00:00
- - user: None
- - tags: []
-
-## Composed GmbH
- - [http://composed.ch](http://composed.ch)
- - date published: 2024-04-30T06:11:25.664904+00:00
- - user: None
- - tags: []
-
-## crispsandwi.ch 🥪🐘
- - [https://crispsandwi.ch](https://crispsandwi.ch)
- - date published: 2024-05-02T13:43:14.469653+00:00
- - user: None
- - tags: []
-
-## Cruncher
- - [https://cruncher.ch](https://cruncher.ch)
- - date published: 2024-04-30T21:35:16.699071+00:00
- - user: None
- - tags: []
-
-## Crypto Valley Journal - Kryptowährungen, Blockchain, Bitcoin & Co.
- - [https://cvj.ch](https://cvj.ch)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Superschnelles SSD-Webhosting aus der Schweiz
- - [https://www.cyon.ch](https://www.cyon.ch)
- - date published: 2024-05-01T07:13:04.601223+00:00
- - user: None
- - tags: []
-
-## Das Magazin: Spannende Geschichten und tiefgründige Reportagen | Tages-Anzeiger
- - [https://www.dasmagazin.ch](https://www.dasmagazin.ch)
- - date published: 2024-04-30T06:12:58.033996+00:00
- - user: None
- - tags: []
-
-## The Swiss Data Science Center
- - [https://datascience.ch](https://datascience.ch)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Docu + Design Daube
- - [http://daube.ch](http://daube.ch)
- - date published: 2024-04-30T06:00:25.305352+00:00
- - user: None
- - tags: []
-
-## Mirjam Daube / video works
- - [http://mir.daube.ch](http://mir.daube.ch)
- - date published: 2024-04-30T06:00:24.177864+00:00
  - user: None
  - tags: []
 
