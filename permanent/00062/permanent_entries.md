@@ -1,3 +1,3669 @@
+## Intercultural Student Life –  | Kalamazoo College
+ - [https://intercultural.kzoo.edu](https://intercultural.kzoo.edu)
+ - date published: 2024-05-07T19:23:37.547180+00:00
+ - user: None
+ - tags: []
+
+## Intramural Sports –  | Kalamazoo College
+ - [https://intramurals.kzoo.edu](https://intramurals.kzoo.edu)
+ - date published: 2024-03-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Institutional Review Board –  | Kalamazoo College
+ - [https://irb.kzoo.edu](https://irb.kzoo.edu)
+ - date published: 2024-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Institutional Research –  | Kalamazoo College
+ - [http://ir.kzoo.edu](http://ir.kzoo.edu)
+ - date published: 2024-05-07T19:21:41.665156+00:00
+ - user: None
+ - tags: []
+
+## Information Services –  | Kalamazoo College
+ - [https://is.kzoo.edu](https://is.kzoo.edu)
+ - date published: 2024-04-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Jewish Studies –  | Kalamazoo College
+ - [https://jewishstudies.kzoo.edu](https://jewishstudies.kzoo.edu)
+ - date published: 2024-05-07T19:30:18.804746+00:00
+ - user: None
+ - tags: []
+
+## LandSea –  | Kalamazoo College
+ - [https://landsea.kzoo.edu](https://landsea.kzoo.edu)
+ - date published: 2024-03-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Learning Commons –  | Kalamazoo College
+ - [https://learningcommons.kzoo.edu](https://learningcommons.kzoo.edu)
+ - date published: 2024-05-07T19:23:22.437613+00:00
+ - user: None
+ - tags: []
+
+## Learning Support –  | Kalamazoo College
+ - [https://learningsupport.kzoo.edu](https://learningsupport.kzoo.edu)
+ - date published: 2024-05-07T19:22:12.610474+00:00
+ - user: None
+ - tags: []
+
+## Resources for LGBTQAI+ Students –  | Kalamazoo College
+ - [https://lgbtqaiplus.kzoo.edu](https://lgbtqaiplus.kzoo.edu)
+ - date published: 2024-05-07T19:22:31.049956+00:00
+ - user: None
+ - tags: []
+
+## Library –  | Kalamazoo College
+ - [https://library.kzoo.edu](https://library.kzoo.edu)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mail and Copy Center –  | Kalamazoo College
+ - [https://mailandcopy.kzoo.edu](https://mailandcopy.kzoo.edu)
+ - date published: 2024-05-07T19:24:15.465235+00:00
+ - user: None
+ - tags: []
+
+## Math Department –  | Kalamazoo College
+ - [https://mathematics.kzoo.edu](https://mathematics.kzoo.edu)
+ - date published: 2024-05-07T19:21:21.736782+00:00
+ - user: None
+ - tags: []
+
+## Kalamazoo College Moodle
+ - [https://moodle.kzoo.edu](https://moodle.kzoo.edu)
+ - date published: 2024-05-07T19:21:27.963153+00:00
+ - user: None
+ - tags: []
+
+## Math/Physics Center –  | Kalamazoo College
+ - [https://mpc.kzoo.edu](https://mpc.kzoo.edu)
+ - date published: 2024-05-07T19:23:24.951429+00:00
+ - user: None
+ - tags: []
+
+## Music Department –  | Kalamazoo College
+ - [https://music.kzoo.edu](https://music.kzoo.edu)
+ - date published: 2024-05-07T19:22:22.689215+00:00
+ - user: None
+ - tags: []
+
+## Office of Religious and Spiritual Life –  | Kalamazoo College
+ - [https://orsl.kzoo.edu](https://orsl.kzoo.edu)
+ - date published: 2024-05-07T19:25:12.361773+00:00
+ - user: None
+ - tags: []
+
+## Outdoor Programs –  | Kalamazoo College
+ - [https://outdoor.kzoo.edu](https://outdoor.kzoo.edu)
+ - date published: 2024-05-07T19:30:14.043520+00:00
+ - user: None
+ - tags: []
+
+## For Parents and Families –  | Kalamazoo College
+ - [https://parents.kzoo.edu](https://parents.kzoo.edu)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Physical Education –  | Kalamazoo College
+ - [https://pe.kzoo.edu](https://pe.kzoo.edu)
+ - date published: 2024-05-07T19:21:13.896670+00:00
+ - user: None
+ - tags: []
+
+## Phi Beta Kappa –  | Kalamazoo College
+ - [https://phibetakappa.kzoo.edu](https://phibetakappa.kzoo.edu)
+ - date published: 2024-05-07T19:24:59.306343+00:00
+ - user: None
+ - tags: []
+
+## Kalamazoo Philharmonia –  | Kalamazoo College
+ - [https://philharmonia.kzoo.edu](https://philharmonia.kzoo.edu)
+ - date published: 2024-05-07T19:23:19.815414+00:00
+ - user: None
+ - tags: []
+
+## Philosophy Department –  | Kalamazoo College
+ - [https://philosophy.kzoo.edu](https://philosophy.kzoo.edu)
+ - date published: 2024-05-07T19:20:44.980188+00:00
+ - user: None
+ - tags: []
+
+## Physics Department –  | Kalamazoo College
+ - [https://physics.kzoo.edu](https://physics.kzoo.edu)
+ - date published: 2024-05-07T19:20:59.149175+00:00
+ - user: None
+ - tags: []
+
+## Political Science –  | Kalamazoo College
+ - [https://politicalscience.kzoo.edu](https://politicalscience.kzoo.edu)
+ - date published: 2024-05-07T19:22:48.516111+00:00
+ - user: None
+ - tags: []
+
+## Pre-Law Advising Program –  | Kalamazoo College
+ - [https://prelawadvising.kzoo.edu](https://prelawadvising.kzoo.edu)
+ - date published: 2024-05-07T19:21:53.156120+00:00
+ - user: None
+ - tags: []
+
+## Office of the Provost –  | Kalamazoo College
+ - [https://provost.kzoo.edu](https://provost.kzoo.edu)
+ - date published: 2024-05-07T19:23:52.862089+00:00
+ - user: None
+ - tags: []
+
+## Psychology Department –  | Kalamazoo College
+ - [https://psychology.kzoo.edu](https://psychology.kzoo.edu)
+ - date published: 2024-05-07T19:24:00.215974+00:00
+ - user: None
+ - tags: []
+
+## Office of the Registrar –  | Kalamazoo College
+ - [https://registrar.kzoo.edu](https://registrar.kzoo.edu)
+ - date published: 2024-05-07T19:20:42.501618+00:00
+ - user: None
+ - tags: []
+
+## Religion Department –  | Kalamazoo College
+ - [https://religion.kzoo.edu](https://religion.kzoo.edu)
+ - date published: 2024-05-07T19:21:11.743419+00:00
+ - user: None
+ - tags: []
+
+## Residential Life –  | Kalamazoo College
+ - [https://reslife.kzoo.edu](https://reslife.kzoo.edu)
+ - date published: 2024-06-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sexual Violence Prevention and Advocacy –  | Kalamazoo College
+ - [https://sexualsafety.kzoo.edu](https://sexualsafety.kzoo.edu)
+ - date published: 2024-05-07T19:23:48.236571+00:00
+ - user: None
+ - tags: []
+
+## Shared Passages Program –  | Kalamazoo College
+ - [https://sharedpassages.kzoo.edu](https://sharedpassages.kzoo.edu)
+ - date published: 2024-05-07T19:22:34.885488+00:00
+ - user: None
+ - tags: []
+
+## Sophomore Experience –  | Kalamazoo College
+ - [https://sophomore.kzoo.edu](https://sophomore.kzoo.edu)
+ - date published: 2024-05-07T19:23:04.203597+00:00
+ - user: None
+ - tags: []
+
+## Spanish Language and Literature –  | Kalamazoo College
+ - [https://spanish.kzoo.edu](https://spanish.kzoo.edu)
+ - date published: 2024-05-07T19:23:06.419372+00:00
+ - user: None
+ - tags: []
+
+## Student Activities –  | Kalamazoo College
+ - [https://studentactivities.kzoo.edu](https://studentactivities.kzoo.edu)
+ - date published: 2024-02-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Student Development –  | Kalamazoo College
+ - [https://studev.kzoo.edu](https://studev.kzoo.edu)
+ - date published: 2024-05-07T19:24:24.172291+00:00
+ - user: None
+ - tags: []
+
+## Support Staff –  | Kalamazoo College
+ - [https://supportstaff.kzoo.edu](https://supportstaff.kzoo.edu)
+ - date published: 2024-05-07T19:24:07.762051+00:00
+ - user: None
+ - tags: []
+
+## Sustainability at K –  | Kalamazoo College
+ - [https://sustainability.kzoo.edu](https://sustainability.kzoo.edu)
+ - date published: 2024-05-07T19:20:38.995233+00:00
+ - user: None
+ - tags: []
+
+## Teaching Commons –  | Kalamazoo College
+ - [https://teachingcommons.kzoo.edu](https://teachingcommons.kzoo.edu)
+ - date published: 2024-05-07T19:24:42.474005+00:00
+ - user: None
+ - tags: []
+
+## Theatre Arts Department –  | Kalamazoo College
+ - [https://theatre.kzoo.edu](https://theatre.kzoo.edu)
+ - date published: 2024-05-07T19:22:44.386782+00:00
+ - user: None
+ - tags: []
+
+## Title IX –  | Kalamazoo College
+ - [https://titleix.kzoo.edu](https://titleix.kzoo.edu)
+ - date published: 2024-02-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Teaching and Learning Committee –  | Kalamazoo College
+ - [https://tlc.kzoo.edu](https://tlc.kzoo.edu)
+ - date published: 2024-05-07T19:23:01.543570+00:00
+ - user: None
+ - tags: []
+
+## Women, Gender, and Sexuality –  | Kalamazoo College
+ - [https://wgs.kzoo.edu](https://wgs.kzoo.edu)
+ - date published: 2024-05-07T19:25:10.116874+00:00
+ - user: None
+ - tags: []
+
+## Writing Center –  | Kalamazoo College
+ - [https://writingcenter.kzoo.edu](https://writingcenter.kzoo.edu)
+ - date published: 2024-04-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Kalamazoo College – Kalamazoo College
+ - [https://www.kzoo.edu](https://www.kzoo.edu)
+ - date published: 2024-05-07T19:20:36.564844+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://idioms.languagesystems.edu](https://idioms.languagesystems.edu)
+ - date published: 2024-02-08T17:32:14.922710+00:00
+ - user: None
+ - tags: []
+
+## WeBWorK
+ - [https://webwork.latech.edu](https://webwork.latech.edu)
+ - date published: 2024-02-08T16:50:39.557450+00:00
+ - user: None
+ - tags: []
+
+## SeDuMi | Optimization over symmetric cones
+ - [https://sedumi.ie.lehigh.edu](https://sedumi.ie.lehigh.edu)
+ - date published: 2024-04-28T01:58:14.252018+00:00
+ - user: None
+ - tags: []
+
+## Redirect to Lockhaven.edu
+ - [http://www.lhup.edu](http://www.lhup.edu)
+ - date published: 2024-05-07T15:42:12.265148+00:00
+ - user: None
+ - tags: []
+
+## https://cs.lmu.edu
+ - [https://cs.lmu.edu](https://cs.lmu.edu)
+ - date published: 2024-01-09T02:59:22.375629+00:00
+ - user: None
+ - tags: []
+
+## Viewbook - Digital Viewbook
+ - [https://viewbook.lmu.edu](https://viewbook.lmu.edu)
+ - date published: 2024-04-30T06:57:21.481187+00:00
+ - user: None
+ - tags: []
+
+## University of Louisiana at Lafayette
+ - [https://louisiana.edu](https://louisiana.edu)
+ - date published: 2024-05-07T21:31:24.047115+00:00
+ - user: None
+ - tags: []
+
+## Blackboard Learn
+ - [https://blackboard.louisville.edu](https://blackboard.louisville.edu)
+ - date published: 2024-05-06T21:18:39.233051+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar - University of Louisville
+ - [https://events.louisville.edu](https://events.louisville.edu)
+ - date published: 2024-05-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## University of Louisville
+ - [http://louisville.edu](http://louisville.edu)
+ - date published: 2024-05-06T21:18:27.490718+00:00
+ - user: None
+ - tags: []
+
+## ULink Portal
+ - [https://ulink.louisville.edu](https://ulink.louisville.edu)
+ - date published: 2024-03-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Lenoir-Rhyne University
+ - [https://lr.edu](https://lr.edu)
+ - date published: 2024-04-28T03:37:48.331975+00:00
+ - user: None
+ - tags: []
+
+## Online Tech Bootcamps | Louisiana State University
+ - [https://bootcamp.online.lsu.edu](https://bootcamp.online.lsu.edu)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Louisiana State University - Acalog ACMS™
+ - [https://catalog.lsu.edu](https://catalog.lsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://itservice.lsu.edu](https://itservice.lsu.edu)
+ - date published: 2024-05-07T19:30:45.434428+00:00
+ - user: None
+ - tags: []
+
+## Welcome to LSU, a top research university | Baton Rouge, La.
+ - [https://lsu.edu](https://lsu.edu)
+ - date published: 2024-05-07T19:30:48.158325+00:00
+ - user: None
+ - tags: []
+
+## myLSU - Single Sign On
+ - [https://mylsu.apps.lsu.edu](https://mylsu.apps.lsu.edu)
+ - date published: 2024-05-07T19:30:59.182311+00:00
+ - user: None
+ - tags: []
+
+## Louisiana State University
+ - [https://tigerlink.lsu.edu](https://tigerlink.lsu.edu)
+ - date published: 2024-05-07T19:30:53.429998+00:00
+ - user: None
+ - tags: []
+
+## Center for Computation & Technology | Interdisciplinary  |  Innovative  | Inventive
+ - [http://www.cct.lsu.edu](http://www.cct.lsu.edu)
+ - date published: 2024-05-08T09:32:45.803687+00:00
+ - user: None
+ - tags: []
+
+## Electrical & Computer Engineering, Division of
+ - [https://www.ece.lsu.edu](https://www.ece.lsu.edu)
+ - date published: 2023-10-25T11:24:20.932943+00:00
+ - user: None
+ - tags: []
+
+## Welcome to LSU, a top research university | Baton Rouge, La.
+ - [https://www.lsu.edu](https://www.lsu.edu)
+ - date published: 2024-05-07T19:30:39.303505+00:00
+ - user: None
+ - tags: []
+
+## An Introduction to Computer Networks
+ - [https://intronetworks.cs.luc.edu](https://intronetworks.cs.luc.edu)
+ - date published: 2023-10-25T18:53:42.818300+00:00
+ - user: None
+ - tags: []
+
+## UMS User Account Management
+ - [https://accounts.maine.edu](https://accounts.maine.edu)
+ - date published: 2024-05-07T21:27:43.700017+00:00
+ - user: None
+ - tags: []
+
+## UMS Single Sign-On - Loading Session Information
+ - [https://courses.maine.edu](https://courses.maine.edu)
+ - date published: 2024-05-07T21:27:34.315112+00:00
+ - user: None
+ - tags: []
+
+## UMS Single Sign-On - Loading Session Information
+ - [http://gmail.maine.edu](http://gmail.maine.edu)
+ - date published: 2024-05-07T21:27:30.655514+00:00
+ - user: None
+ - tags: []
+
+## MaineStreet Links
+ - [https://mainestreet.maine.edu](https://mainestreet.maine.edu)
+ - date published: 2024-05-07T21:27:41.577698+00:00
+ - user: None
+ - tags: []
+
+## University of Maine System  - University of Maine System
+ - [https://www.maine.edu](https://www.maine.edu)
+ - date published: 2024-05-07T21:27:45.724796+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://www.massachusetts.edu](https://www.massachusetts.edu)
+ - date published: 2024-05-07T21:25:07.569886+00:00
+ - user: None
+ - tags: []
+
+## The Master's University | For Christ & Scripture
+ - [https://www.masters.edu](https://www.masters.edu)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mayo Clinic QHS Apps Home Page
+ - [https://rtools.mayo.edu](https://rtools.mayo.edu)
+ - date published: 2024-02-08T17:32:56.480098+00:00
+ - user: None
+ - tags: []
+
+## Education and Research at Mayo Clinic - Education and Research at Mayo Clinic
+ - [https://www.mayo.edu](https://www.mayo.edu)
+ - date published: 2024-05-07T19:31:04.510313+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar
+ - [https://calendar.mdc.edu](https://calendar.mdc.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Index Page
+ - [https://cs.mdc.edu](https://cs.mdc.edu)
+ - date published: 2024-05-07T19:31:47.545891+00:00
+ - user: None
+ - tags: []
+
+## FAQ – Frequently Asked Questions
+ - [https://faq.mdc.edu](https://faq.mdc.edu)
+ - date published: 2024-05-07T19:31:38.316870+00:00
+ - user: None
+ - tags: []
+
+## Miami Dade College Alumni Association Website
+ - [https://foundation.mdc.edu](https://foundation.mdc.edu)
+ - date published: 2024-05-07T19:31:14.312990+00:00
+ - user: None
+ - tags: []
+
+## MDConnect | Miami Dade College
+ - [http://mdconnect.mdc.edu](http://mdconnect.mdc.edu)
+ - date published: 2024-05-07T19:31:36.053490+00:00
+ - user: None
+ - tags: []
+
+## Sign In
+ - [https://mycourses.mdc.edu](https://mycourses.mdc.edu)
+ - date published: 2024-05-07T19:31:45.603581+00:00
+ - user: None
+ - tags: []
+
+## Student Portal | Miami Dade College
+ - [https://my.mdc.edu](https://my.mdc.edu)
+ - date published: 2024-05-07T19:31:50.148259+00:00
+ - user: None
+ - tags: []
+
+## MDC News
+ - [https://news.mdc.edu](https://news.mdc.edu)
+ - date published: 2024-05-07T19:31:52.213450+00:00
+ - user: None
+ - tags: []
+
+## NWSA | Miami Dade College
+ - [http://nwsa.mdc.edu](http://nwsa.mdc.edu)
+ - date published: 2024-05-07T19:31:20.975929+00:00
+ - user: None
+ - tags: []
+
+## - SharkNet
+ - [https://sharknet.mdc.edu](https://sharknet.mdc.edu)
+ - date published: 2024-05-07T19:32:02.286290+00:00
+ - user: None
+ - tags: []
+
+## Official Miami Dade College Homepage
+ - [https://www.mdc.edu](https://www.mdc.edu)
+ - date published: 2023-10-25T11:22:46.236242+00:00
+ - user: None
+ - tags: []
+
+## Maine College of Art & Design
+ - [https://www.meca.edu](https://www.meca.edu)
+ - date published: 2024-04-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## School of Architecture | University of Miami
+ - [http://www.arc.miami.edu](http://www.arc.miami.edu)
+ - date published: 2024-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## No. 3 Public for Undergrad Teaching
+ - [https://miamioh.edu](https://miamioh.edu)
+ - date published: 2024-05-01T05:55:34.598366+00:00
+ - user: None
+ - tags: []
+
+## The Middlebury Sites Network – Middlebury’s WordPress-based, self-service, website creation space.
+ - [https://sites.middlebury.edu](https://sites.middlebury.edu)
+ - date published: 2024-05-11T11:19:03.488578+00:00
+ - user: None
+ - tags: []
+
+## Colorado School of Mines | A Premier Engineering University
+ - [https://www.mines.edu](https://www.mines.edu)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home / EMS
+ - [https://minnstate.bookitadmin.minnstate.edu](https://minnstate.bookitadmin.minnstate.edu)
+ - date published: 2024-02-08T16:36:57.109155+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://servicedesk.minnstate.edu](https://servicedesk.minnstate.edu)
+ - date published: 2024-05-07T19:32:10.852282+00:00
+ - user: None
+ - tags: []
+
+## StarID Self Service - Minnesota State
+ - [http://starid.minnstate.edu](http://starid.minnstate.edu)
+ - date published: 2024-05-07T19:32:12.056355+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar
+ - [https://calendar.missouri.edu](https://calendar.missouri.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mizzou Families // University of Missouri
+ - [https://families.missouri.edu](https://families.missouri.edu)
+ - date published: 2024-05-07T19:32:32.502186+00:00
+ - user: None
+ - tags: []
+
+## Missouri School of Journalism – Official Website for the Missouri School of Journalism at the University of Missouri.
+ - [https://journalism.missouri.edu](https://journalism.missouri.edu)
+ - date published: 2024-05-09T06:25:35.863279+00:00
+ - user: None
+ - tags: []
+
+## Mizzou
+ - [https://missouri.edu](https://missouri.edu)
+ - date published: 2024-05-07T19:32:23.394021+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://president.missouri.edu](https://president.missouri.edu)
+ - date published: 2024-05-07T19:32:22.041569+00:00
+ - user: None
+ - tags: []
+
+## Show Me Mizzou // University of Missouri
+ - [https://showme.missouri.edu](https://showme.missouri.edu)
+ - date published: 2024-02-08T18:02:26.036563+00:00
+ - user: None
+ - tags: []
+
+## Home | Captioning and Accessibility
+ - [https://accessibility.mit.edu](https://accessibility.mit.edu)
+ - date published: 2024-05-07T19:33:10.706026+00:00
+ - user: None
+ - tags: []
+
+## Art, Culture, and Technology (ACT)
+ - [https://act.mit.edu](https://act.mit.edu)
+ - date published: 2024-05-08T10:20:24.083955+00:00
+ - user: None
+ - tags: []
+
+## aera
+ - [https://aera.mit.edu](https://aera.mit.edu)
+ - date published: 2023-10-25T18:53:43.612659+00:00
+ - user: None
+ - tags: []
+
+## MIT AeroAstro
+ - [https://aeroastro.mit.edu](https://aeroastro.mit.edu)
+ - date published: 2024-05-07T19:35:18.393154+00:00
+ - user: None
+ - tags: []
+
+## MIT MAS.S68 | Generative AI for Constructive Communication
+ - [https://ai4comm.media.mit.edu](https://ai4comm.media.mit.edu)
+ - date published: 2023-10-25T18:53:45.427456+00:00
+ - user: None
+ - tags: []
+
+## MIT – Alana Down Syndrome Center
+ - [https://alana.mit.edu](https://alana.mit.edu)
+ - date published: 2024-05-08T12:04:20.829620+00:00
+ - user: None
+ - tags: []
+
+## MIT Alumni Association
+ - [https://alum.mit.edu](https://alum.mit.edu)
+ - date published: 2024-05-08T10:20:28.518474+00:00
+ - user: None
+ - tags: []
+
+## Home | Architecture
+ - [https://architecture.mit.edu](https://architecture.mit.edu)
+ - date published: 2024-02-08T22:04:29.437169+00:00
+ - user: None
+ - tags: []
+
+## Arts at MIT
+ - [https://arts.mit.edu](https://arts.mit.edu)
+ - date published: 2024-05-04T15:41:04.617889+00:00
+ - user: None
+ - tags: []
+
+## Web SSH access to athena.dialup.mit.edu
+ - [http://athena.dialup.mit.edu](http://athena.dialup.mit.edu)
+ - date published: 2024-05-07T19:37:23.896673+00:00
+ - user: None
+ - tags: []
+
+## The MIT Department of Brain and Cognitive Sciences | Brain and Cognitive Sciences
+ - [https://bcs.mit.edu](https://bcs.mit.edu)
+ - date published: 2024-05-07T19:36:56.737105+00:00
+ - user: None
+ - tags: []
+
+## Benchmarking Interpretability
+ - [https://benchmarking-interpretability.csail.mit.edu](https://benchmarking-interpretability.csail.mit.edu)
+ - date published: 2024-05-10T05:02:33.957574+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://biology.mit.edu](https://biology.mit.edu)
+ - date published: 2024-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar - MIT Events
+ - [https://calendar.mit.edu](https://calendar.mit.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Yuan Cao's Homepage
+ - [https://caoyuan.scripts.mit.edu](https://caoyuan.scripts.mit.edu)
+ - date published: 2024-01-09T01:37:28.741983+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [http://cap.csail.mit.edu](http://cap.csail.mit.edu)
+ - date published: 2024-05-07T19:33:54.697062+00:00
+ - user: None
+ - tags: []
+
+## Jobs at MIT Lincoln Laboratory
+ - [https://careers.ll.mit.edu](https://careers.ll.mit.edu)
+ - date published: 2024-05-07T19:38:14.314198+00:00
+ - user: None
+ - tags: []
+
+## Careers | MIT Human Resources
+ - [https://careers.mit.edu](https://careers.mit.edu)
+ - date published: 2024-05-07T19:37:57.410306+00:00
+ - user: None
+ - tags: []
+
+## Career Development Office | MIT Sloan School of Management
+ - [https://cdo.mit.edu](https://cdo.mit.edu)
+ - date published: 2024-05-07T19:35:56.496755+00:00
+ - user: None
+ - tags: []
+
+## MIT Department of Chemistry – Department of Chemistry at MIT
+ - [http://chemistry.mit.edu](http://chemistry.mit.edu)
+ - date published: 2024-05-07T19:37:10.613963+00:00
+ - user: None
+ - tags: []
+
+## Home | MIT Climate Portal
+ - [https://climate.mit.edu](https://climate.mit.edu)
+ - date published: 2023-10-25T18:53:47.317024+00:00
+ - user: None
+ - tags: []
+
+## Climate Science, Risk & Solutions
+ - [https://climateprimer.mit.edu](https://climateprimer.mit.edu)
+ - date published: 2024-05-07T19:33:25.203653+00:00
+ - user: None
+ - tags: []
+
+## Home - Club Sports
+ - [https://clubsports.mit.edu](https://clubsports.mit.edu)
+ - date published: 2024-05-07T19:36:47.705971+00:00
+ - user: None
+ - tags: []
+
+## Computational Cognitive Science – Department of Brain and Cognitive Sciences, MIT
+ - [http://cocosci.mit.edu](http://cocosci.mit.edu)
+ - date published: 2024-05-04T15:15:12.767805+00:00
+ - user: None
+ - tags: []
+
+## Institute Office of Communications | Massachusetts Institute of Technology
+ - [http://comms.mit.edu](http://comms.mit.edu)
+ - date published: 2024-05-07T19:36:20.409053+00:00
+ - user: None
+ - tags: []
+
+## MIT Schwarzman College of Computing
+ - [https://computing.mit.edu](https://computing.mit.edu)
+ - date published: 2024-05-07T19:33:59.330514+00:00
+ - user: None
+ - tags: []
+
+## courses.csail.mit.edu
+ - [https://courses.csail.mit.edu](https://courses.csail.mit.edu)
+ - date published: 2023-10-25T18:53:48.768679+00:00
+ - user: None
+ - tags: []
+
+## MIT CSAIL Computer Systems Security Group
+ - [http://css.csail.mit.edu](http://css.csail.mit.edu)
+ - date published: 2024-05-04T15:41:24.484045+00:00
+ - user: None
+ - tags: []
+
+## Home - Daper
+ - [https://daper.mit.edu](https://daper.mit.edu)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Introduction to Data-Centric AI
+ - [https://dcai.csail.mit.edu](https://dcai.csail.mit.edu)
+ - date published: 2023-10-25T18:53:49.969803+00:00
+ - user: None
+ - tags: []
+
+## MIT Digital Currency Initiative
+ - [http://dci.mit.edu](http://dci.mit.edu)
+ - date published: 2024-04-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman
+ - [https://deeplearning.mit.edu](https://deeplearning.mit.edu)
+ - date published: 2020-07-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Digital Humanities at MIT
+ - [https://digitalhumanities.mit.edu](https://digitalhumanities.mit.edu)
+ - date published: 2024-05-14T04:03:49.179662+00:00
+ - user: None
+ - tags: []
+
+## MIT Press
+ - [https://direct.mit.edu](https://direct.mit.edu)
+ - date published: 2023-10-25T18:53:52.060229+00:00
+ - user: None
+ - tags: []
+
+## DSpace@MIT Home
+ - [https://dspace.mit.edu](https://dspace.mit.edu)
+ - date published: 2023-10-25T18:53:53.742765+00:00
+ - user: None
+ - tags: []
+
+## Home | DUSP
+ - [https://dusp.mit.edu](https://dusp.mit.edu)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT EAPS
+ - [https://eaps.mit.edu](https://eaps.mit.edu)
+ - date published: 2024-05-01T08:10:08.595185+00:00
+ - user: None
+ - tags: []
+
+## MIT EAPS
+ - [https://eapsweb.mit.edu](https://eapsweb.mit.edu)
+ - date published: 2024-05-07T19:37:04.039158+00:00
+ - user: None
+ - tags: []
+
+## Home | MIT Edgerton Center
+ - [https://edgerton.mit.edu](https://edgerton.mit.edu)
+ - date published: 2024-04-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Miller Lab
+ - [https://ekmillerlab.mit.edu](https://ekmillerlab.mit.edu)
+ - date published: 2024-05-07T09:59:41.269970+00:00
+ - user: None
+ - tags: []
+
+## MIT ELO
+ - [https://elo.mit.edu](https://elo.mit.edu)
+ - date published: 2022-01-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT Emergency Information
+ - [https://emergency.mit.edu](https://emergency.mit.edu)
+ - date published: 2024-05-07T19:34:52.925624+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://energy.mit.edu](https://energy.mit.edu)
+ - date published: 2024-01-07T21:07:19.748100+00:00
+ - user: None
+ - tags: []
+
+## Enzyme AD
+ - [https://enzyme.mit.edu](https://enzyme.mit.edu)
+ - date published: 2024-05-08T09:43:46.491692+00:00
+ - user: None
+ - tags: []
+
+## Home | Environmental Solutions Initiative
+ - [https://esi.mit.edu](https://esi.mit.edu)
+ - date published: 2016-02-25T04:04:57+00:00
+ - user: None
+ - tags: []
+
+## MIT ESP - Home
+ - [https://esp.mit.edu](https://esp.mit.edu)
+ - date published: 2024-05-07T15:14:40.277505+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar - MIT Events
+ - [http://events.mit.edu](http://events.mit.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Data and Disruption: Mastering AI and Machine Learning for Finance
+ - [https://events.sloanreview.mit.edu](https://events.sloanreview.mit.edu)
+ - date published: 2024-03-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT Sloan Executive Education
+ - [https://exec.mit.edu](https://exec.mit.edu)
+ - date published: 2024-05-07T19:36:07.929560+00:00
+ - user: None
+ - tags: []
+
+## MIT Sloan Executive Education
+ - [https://executive.mit.edu](https://executive.mit.edu)
+ - date published: 2024-05-07T19:36:02.153097+00:00
+ - user: None
+ - tags: []
+
+## Fab Central
+ - [https://fab.cba.mit.edu](https://fab.cba.mit.edu)
+ - date published: 2023-10-25T18:53:54.780890+00:00
+ - user: None
+ - tags: []
+
+## GAN Dissection
+ - [http://gandissect.csail.mit.edu](http://gandissect.csail.mit.edu)
+ - date published: 2024-05-01T04:12:04.372408+00:00
+ - user: None
+ - tags: []
+
+## Home | Giving to MIT
+ - [https://giving.mit.edu](https://giving.mit.edu)
+ - date published: 2024-05-07T19:35:00.529936+00:00
+ - user: None
+ - tags: []
+
+## Research | MIT CSAIL
+ - [https://groups.csail.mit.edu](https://groups.csail.mit.edu)
+ - date published: 2023-11-25T21:49:19.475927+00:00
+ - user: None
+ - tags: []
+
+## Redirecting to Athena List Management
+ - [https://groups.mit.edu](https://groups.mit.edu)
+ - date published: 2024-05-09T08:40:06.387669+00:00
+ - user: None
+ - tags: []
+
+## Harvard Data Science Review
+ - [https://hdsr.mitpress.mit.edu](https://hdsr.mitpress.mit.edu)
+ - date published: 2024-05-07T19:53:34.562634+00:00
+ - user: None
+ - tags: []
+
+## Heiman Lab – Neuroscience Research at MIT
+ - [https://heiman.mit.edu](https://heiman.mit.edu)
+ - date published: 2017-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome | MIT Human Resources
+ - [https://hr.mit.edu](https://hr.mit.edu)
+ - date published: 2024-05-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT IDM - Integrated Design & Management
+ - [https://idm.mit.edu](https://idm.mit.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home Page - Intramural Sports
+ - [https://intramurals.mit.edu](https://intramurals.mit.edu)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 6.390 | IntroML | Spring24
+ - [https://introml.mit.edu](https://introml.mit.edu)
+ - date published: 2024-05-07T19:33:31.765414+00:00
+ - user: None
+ - tags: []
+
+## IPC | Innovation. Productivity. Competitiveness.
+ - [https://ipc.mit.edu](https://ipc.mit.edu)
+ - date published: 2024-05-07T10:00:20.661194+00:00
+ - user: None
+ - tags: []
+
+## The Knowledge Base - Home - Hermes
+ - [https://kb.mit.edu](https://kb.mit.edu)
+ - date published: 2024-05-01T06:45:16.815288+00:00
+ - user: None
+ - tags: []
+
+## Knowledge Futures
+ - [https://kfg.mit.edu](https://kfg.mit.edu)
+ - date published: 2024-05-07T19:35:26.291952+00:00
+ - user: None
+ - tags: []
+
+## La Casa: A cultural house at MIT
+ - [http://la-casa.mit.edu](http://la-casa.mit.edu)
+ - date published: 2024-05-04T15:41:23.439519+00:00
+ - user: None
+ - tags: []
+
+## Future of Learning Group
+ - [https://learning.media.mit.edu](https://learning.media.mit.edu)
+ - date published: 2024-04-30T06:34:51.711918+00:00
+ - user: None
+ - tags: []
+
+## MIT Leaders for Global Operations
+ - [https://lgo.mit.edu](https://lgo.mit.edu)
+ - date published: 2024-05-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Research guides & expert librarians | MIT Libraries
+ - [https://libguides.mit.edu](https://libguides.mit.edu)
+ - date published: 2024-05-07T19:33:46.320514+00:00
+ - user: None
+ - tags: []
+
+## MIT Libraries
+ - [https://libraries.mit.edu](https://libraries.mit.edu)
+ - date published: 2024-05-07T19:33:43.568942+00:00
+ - user: None
+ - tags: []
+
+## MIT LIDS | Laboratory for Information & Decision Systems
+ - [https://lids.mit.edu](https://lids.mit.edu)
+ - date published: 2024-05-09T06:35:20.075142+00:00
+ - user: None
+ - tags: []
+
+## MIT Linguistics – Department of Linguistics and Philosophy
+ - [https://linguistics.mit.edu](https://linguistics.mit.edu)
+ - date published: 2024-05-08T11:14:32.604588+00:00
+ - user: None
+ - tags: []
+
+## Learning and Intelligent Systems Group
+ - [http://lis.csail.mit.edu](http://lis.csail.mit.edu)
+ - date published: 2024-05-04T15:15:52.963723+00:00
+ - user: None
+ - tags: []
+
+## Home | MIT List Visual Arts Center
+ - [https://listart.mit.edu](https://listart.mit.edu)
+ - date published: 2022-01-13T16:06:12+00:00
+ - user: None
+ - tags: []
+
+## Living Wage Calculator
+ - [https://livingwage.mit.edu](https://livingwage.mit.edu)
+ - date published: 2023-10-25T18:53:56.639883+00:00
+ - user: None
+ - tags: []
+
+## MIT Media Lab Login
+ - [https://login.media.mit.edu](https://login.media.mit.edu)
+ - date published: 2024-05-07T19:37:54.351217+00:00
+ - user: None
+ - tags: []
+
+## LSC: The MIT Lecture Series Committee
+ - [http://lsc.mit.edu](http://lsc.mit.edu)
+ - date published: 2024-05-07T19:37:24.722204+00:00
+ - user: None
+ - tags: []
+
+## LUCHA
+ - [http://lucha.mit.edu](http://lucha.mit.edu)
+ - date published: 2024-05-04T15:41:32.895854+00:00
+ - user: None
+ - tags: []
+
+## MIT Mathematics
+ - [https://math.mit.edu](https://math.mit.edu)
+ - date published: 2023-10-25T18:54:09.948920+00:00
+ - user: None
+ - tags: []
+
+## √mathroots @ MIT |
+ - [http://mathroots.mit.edu](http://mathroots.mit.edu)
+ - date published: 2024-05-07T19:34:28.593031+00:00
+ - user: None
+ - tags: []
+
+## Sign in - Matomo
+ - [https://matomo.libraries.mit.edu](https://matomo.libraries.mit.edu)
+ - date published: 2024-05-07T19:33:48.111967+00:00
+ - user: None
+ - tags: []
+
+## MITx MicroMasters
+ - [https://micromasters.mit.edu](https://micromasters.mit.edu)
+ - date published: 2024-01-15T18:04:13.077285+00:00
+ - user: None
+ - tags: []
+
+## The Missing Semester of Your CS Education
+ - [https://missing.csail.mit.edu](https://missing.csail.mit.edu)
+ - date published: 2023-10-25T18:54:11.265361+00:00
+ - user: None
+ - tags: []
+
+## The Massachusetts Institute of Technology (MIT)
+ - [https://mit.edu](https://mit.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - MIT-IBM Watson AI Lab
+ - [https://mitibmwatsonailab.mit.edu](https://mitibmwatsonailab.mit.edu)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | MIT.nano
+ - [https://mitnano.mit.edu](https://mitnano.mit.edu)
+ - date published: 2024-05-08T10:20:34.574918+00:00
+ - user: None
+ - tags: []
+
+## The MIT Press Bookstore
+ - [http://mitpressbookstore.mit.edu](http://mitpressbookstore.mit.edu)
+ - date published: 2024-05-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home Page - MIT Press
+ - [https://mitpress.mit.edu](https://mitpress.mit.edu)
+ - date published: 2023-10-25T18:54:21.358865+00:00
+ - user: None
+ - tags: []
+
+## The MIT Press - open access @ PubPub
+ - [https://mitpressonpubpub.mitpress.mit.edu](https://mitpressonpubpub.mitpress.mit.edu)
+ - date published: 2024-04-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT Sloan
+ - [https://mitsloan.mit.edu](https://mitsloan.mit.edu)
+ - date published: 2023-10-25T18:54:22.918721+00:00
+ - user: None
+ - tags: []
+
+## MITx Online
+ - [https://mitxonline.mit.edu](https://mitxonline.mit.edu)
+ - date published: 2023-10-25T18:54:25.878690+00:00
+ - user: None
+ - tags: []
+
+## Moral Machine
+ - [http://moralmachine.mit.edu](http://moralmachine.mit.edu)
+ - date published: 2024-05-04T07:14:59.440166+00:00
+ - user: None
+ - tags: []
+
+## MIT News | Massachusetts Institute of Technology
+ - [https://news.mit.edu](https://news.mit.edu)
+ - date published: 2023-10-25T11:20:44.709795+00:00
+ - user: None
+ - tags: []
+
+## MIT OpenCourseWare | Free Online Course Materials
+ - [https://ocw.mit.edu](https://ocw.mit.edu)
+ - date published: 2023-10-25T18:54:28.607293+00:00
+ - user: None
+ - tags: []
+
+## Office of Graduate Education
+ - [http://odge.mit.edu](http://odge.mit.edu)
+ - date published: 2024-06-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT Open Learning brings Online Learning to MIT and the world
+ - [https://odl.mit.edu](https://odl.mit.edu)
+ - date published: 2024-05-07T19:34:55.639610+00:00
+ - user: None
+ - tags: []
+
+## Welcome! | Open Learning
+ - [https://openlearning-intranet.mit.edu](https://openlearning-intranet.mit.edu)
+ - date published: 2024-05-11T11:37:20.490684+00:00
+ - user: None
+ - tags: []
+
+## MIT Open Learning Library | Open Learning
+ - [https://openlearninglibrary.mit.edu](https://openlearninglibrary.mit.edu)
+ - date published: 2024-03-26T19:30:53.109672+00:00
+ - user: None
+ - tags: ['digital library', 'internet archive']
+
+## MIT Open Learning brings Online Learning to MIT and the world
+ - [https://openlearning.mit.edu](https://openlearning.mit.edu)
+ - date published: 2024-05-07T19:33:36.409985+00:00
+ - user: None
+ - tags: []
+
+## The Art and Science of PCB Design
+ - [https://pcb.mit.edu](https://pcb.mit.edu)
+ - date published: 2023-12-30T01:59:09+00:00
+ - user: None
+ - tags: []
+
+## MIT CSAIL Parallel and Distributed Operating Systems Group
+ - [https://pdos.csail.mit.edu](https://pdos.csail.mit.edu)
+ - date published: 2023-10-25T18:54:29.573498+00:00
+ - user: None
+ - tags: []
+
+## People | MIT CSAIL
+ - [https://people.csail.mit.edu](https://people.csail.mit.edu)
+ - date published: 2023-10-25T18:54:31.453216+00:00
+ - user: None
+ - tags: []
+
+## Persci – Perceptual Science Group @ MIT
+ - [https://persci.mit.edu](https://persci.mit.edu)
+ - date published: 2024-05-08T03:58:05.753777+00:00
+ - user: None
+ - tags: []
+
+## ADEPT
+ - [http://physadept.csail.mit.edu](http://physadept.csail.mit.edu)
+ - date published: 2024-05-04T15:28:33.725512+00:00
+ - user: None
+ - tags: []
+
+## Home - MIT PE
+ - [https://physicaleducationandwellness.mit.edu](https://physicaleducationandwellness.mit.edu)
+ - date published: 2023-10-25T18:54:34.032158+00:00
+ - user: None
+ - tags: []
+
+## MIT Physics
+ - [https://physics.mit.edu](https://physics.mit.edu)
+ - date published: 2024-05-07T19:36:54.101678+00:00
+ - user: None
+ - tags: []
+
+## The Picower Institute for Learning and Memory | Neuroscience & Brain Research
+ - [https://picower.mit.edu](https://picower.mit.edu)
+ - date published: 2024-03-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Programming Methodology Group
+ - [https://pmg.csail.mit.edu](https://pmg.csail.mit.edu)
+ - date published: 2012-03-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Programming Methodology Group
+ - [http://pmg.lcs.mit.edu](http://pmg.lcs.mit.edu)
+ - date published: 2012-03-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT Office of the President | MIT - Massachusetts Institute of Technology
+ - [https://president.mit.edu](https://president.mit.edu)
+ - date published: 2023-10-25T18:54:35.562240+00:00
+ - user: None
+ - tags: []
+
+## MIT Probabilistic Computing Project
+ - [http://probcomp.csail.mit.edu](http://probcomp.csail.mit.edu)
+ - date published: 2024-05-04T15:15:08.455743+00:00
+ - user: None
+ - tags: []
+
+## Home Page | MIT CSAIL
+ - [https://projects.csail.mit.edu](https://projects.csail.mit.edu)
+ - date published: 2023-10-25T18:54:37.343144+00:00
+ - user: None
+ - tags: []
+
+## MIT Mystery Hunt / Puzzle Club
+ - [https://puzzles.mit.edu](https://puzzles.mit.edu)
+ - date published: 2024-05-01T03:11:12.672336+00:00
+ - user: None
+ - tags: []
+
+## Homepage | MIT Registrar
+ - [https://registrar.mit.edu](https://registrar.mit.edu)
+ - date published: 2024-05-07T19:32:50.429328+00:00
+ - user: None
+ - tags: []
+
+## Rewriting a Deep Generative Model
+ - [https://rewriting.csail.mit.edu](https://rewriting.csail.mit.edu)
+ - date published: 2024-05-01T04:12:09.000384+00:00
+ - user: None
+ - tags: []
+
+## Home | SA+P
+ - [https://sap.mit.edu](https://sap.mit.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT School of Science
+ - [https://science.mit.edu](https://science.mit.edu)
+ - date published: 2023-10-25T18:54:41.430859+00:00
+ - user: None
+ - tags: []
+
+## Scratch - Imagine, Program, Share
+ - [https://scratch.mit.edu](https://scratch.mit.edu)
+ - date published: 2023-10-25T18:54:41.797954+00:00
+ - user: None
+ - tags: ['scratch', 'programming language']
+
+## Home | Software Design Group
+ - [http://sdg.csail.mit.edu](http://sdg.csail.mit.edu)
+ - date published: 2024-10-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Masters in Engineering and Management | MIT SDM - System Design and Management
+ - [http://sdm.mit.edu](http://sdm.mit.edu)
+ - date published: 2024-05-07T19:35:50.892572+00:00
+ - user: None
+ - tags: []
+
+## Self-Assembly Lab
+ - [https://selfassemblylab.mit.edu](https://selfassemblylab.mit.edu)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT Senseable City Lab
+ - [https://senseable.mit.edu](https://senseable.mit.edu)
+ - date published: 2024-01-09T02:59:24.170978+00:00
+ - user: None
+ - tags: []
+
+## MIT Student Financial Services
+ - [https://sfs.mit.edu](https://sfs.mit.edu)
+ - date published: 2024-05-08T10:20:06.514373+00:00
+ - user: None
+ - tags: []
+
+## MIT School of Humanities, Arts and Social Sciences (SHASS)
+ - [https://shass.mit.edu](https://shass.mit.edu)
+ - date published: 2024-05-08T10:20:32.720515+00:00
+ - user: None
+ - tags: []
+
+## Home - MIT SMR Store
+ - [https://shop.sloanreview.mit.edu](https://shop.sloanreview.mit.edu)
+ - date published: 2024-05-07T19:37:14.762335+00:00
+ - user: None
+ - tags: []
+
+## MIT Sloan Management Review
+ - [https://sloanreview.mit.edu](https://sloanreview.mit.edu)
+ - date published: 2023-10-25T18:54:48.399246+00:00
+ - user: None
+ - tags: []
+
+## |
+ - [https://smallbusiness.ll.mit.edu](https://smallbusiness.ll.mit.edu)
+ - date published: 2024-05-07T19:38:15.933308+00:00
+ - user: None
+ - tags: []
+
+## MIT Social Media Hub | Massachusetts Institute of Technology
+ - [http://socialmediahub.mit.edu](http://socialmediahub.mit.edu)
+ - date published: 2024-05-07T19:36:13.004701+00:00
+ - user: None
+ - tags: []
+
+## Spectrum
+ - [https://spectrum.mit.edu](https://spectrum.mit.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT Course Management System
+ - [https://stellar.mit.edu](https://stellar.mit.edu)
+ - date published: 2024-04-29T02:32:55.106565+00:00
+ - user: None
+ - tags: []
+
+## MIT WebSIS
+ - [https://student.mit.edu](https://student.mit.edu)
+ - date published: 2024-05-07T19:38:12.352737+00:00
+ - user: None
+ - tags: []
+
+## stuff.mit.edu: students' portal
+ - [https://stuff.mit.edu](https://stuff.mit.edu)
+ - date published: 2024-02-21T20:09:52.594239+00:00
+ - user: None
+ - tags: []
+
+## Telecom Digest and Archives
+ - [http://telecom2022.csail.mit.edu](http://telecom2022.csail.mit.edu)
+ - date published: 2024-05-07T19:37:26.240817+00:00
+ - user: None
+ - tags: []
+
+## Telecom Digest and Archives
+ - [http://telecom.csail.mit.edu](http://telecom.csail.mit.edu)
+ - date published: 2023-10-25T18:54:50.229504+00:00
+ - user: None
+ - tags: []
+
+## TESS - Transiting Exoplanet Survey Satellite
+ - [https://tess.mit.edu](https://tess.mit.edu)
+ - date published: 2024-05-07T20:24:58.744424+00:00
+ - user: None
+ - tags: []
+
+## The MIT Press Reader
+ - [https://thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu)
+ - date published: 2023-10-25T10:39:41.389672+00:00
+ - user: None
+ - tags: []
+
+## Lincoln Laboratory Timeline | LL Timeline
+ - [https://timeline.ll.mit.edu](https://timeline.ll.mit.edu)
+ - date published: 2024-05-07T19:38:17.658737+00:00
+ - user: None
+ - tags: []
+
+## Topology
+ - [https://topology.mitpress.mit.edu](https://topology.mitpress.mit.edu)
+ - date published: 2023-10-25T18:54:52.088797+00:00
+ - user: None
+ - tags: []
+
+## MIT Undergrad Math Association
+ - [https://uma.mit.edu](https://uma.mit.edu)
+ - date published: 2024-05-07T19:34:16.300653+00:00
+ - user: None
+ - tags: []
+
+## News + Updates — MIT Media Lab
+ - [https://web.media.mit.edu](https://web.media.mit.edu)
+ - date published: 2023-10-25T18:54:57.442420+00:00
+ - user: None
+ - tags: []
+
+## More crop per drop | MIT - Massachusetts Institute of Technology
+ - [https://web.mit.edu](https://web.mit.edu)
+ - date published: 2023-10-25T11:22:48.078614+00:00
+ - user: None
+ - tags: []
+
+## MIT Campus Map
+ - [http://whereis.mit.edu](http://whereis.mit.edu)
+ - date published: 2024-05-07T19:36:14.205556+00:00
+ - user: None
+ - tags: []
+
+## Home Page | MIT CSAIL
+ - [http://www.ai.mit.edu](http://www.ai.mit.edu)
+ - date published: 2024-05-07T20:26:04.399073+00:00
+ - user: None
+ - tags: []
+
+## Homepage - MIT Center for Constructive Communication
+ - [https://www.ccc.mit.edu](https://www.ccc.mit.edu)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home Page | MIT CSAIL
+ - [https://www.csail.mit.edu](https://www.csail.mit.edu)
+ - date published: 2023-10-25T18:55:00.580862+00:00
+ - user: None
+ - tags: []
+
+## MIT EECS
+ - [https://www.eecs.mit.edu](https://www.eecs.mit.edu)
+ - date published: 2024-05-04T09:29:54.869702+00:00
+ - user: None
+ - tags: []
+
+## MIT FUTURE OF AI
+ - [https://www.futureofai.mit.edu](https://www.futureofai.mit.edu)
+ - date published: 2023-10-25T18:55:02.414323+00:00
+ - user: None
+ - tags: []
+
+## MIT Haystack Observatory - Radio science & technology research center
+ - [https://www.haystack.mit.edu](https://www.haystack.mit.edu)
+ - date published: 2023-10-25T18:55:07.021253+00:00
+ - user: None
+ - tags: []
+
+## Homepage | MIT Lincoln Laboratory
+ - [https://www.ll.mit.edu](https://www.ll.mit.edu)
+ - date published: 2023-10-25T18:55:14.624029+00:00
+ - user: None
+ - tags: []
+
+## News + Updates – MIT Media Lab
+ - [https://www.media.mit.edu](https://www.media.mit.edu)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## More crop per drop | MIT - Massachusetts Institute of Technology
+ - [https://www.mit.edu](https://www.mit.edu)
+ - date published: 2023-10-25T18:55:16.546253+00:00
+ - user: None
+ - tags: []
+
+## [oof]
+ - [https://www.outofframe.mit.edu](https://www.outofframe.mit.edu)
+ - date published: 2024-05-07T19:33:12.360151+00:00
+ - user: None
+ - tags: []
+
+## Home - RLE at MIT
+ - [https://www.rle.mit.edu](https://www.rle.mit.edu)
+ - date published: 2024-05-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Lens: Expert topical commentary, pioneering research - Monash University
+ - [https://lens.monash.edu](https://lens.monash.edu)
+ - date published: 2023-12-11T11:12:50.679402+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the archived website of  CTIE  The Monash University Centre for Telecommunications and Information Engineering
+ - [https://www.ctie.monash.edu](https://www.ctie.monash.edu)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.monash.edu](https://www.monash.edu)
+ - date published: 2023-10-31T10:59:13.130253+00:00
+ - user: None
+ - tags: []
+
+## Eclipse Ballooning Project | Eclipse Ballooning Project
+ - [https://eclipse.montana.edu](https://eclipse.montana.edu)
+ - date published: 2024-05-06T16:44:48.191940+00:00
+ - user: None
+ - tags: []
+
+## Montclair State University
+ - [https://www.montclair.edu](https://www.montclair.edu)
+ - date published: 2024-05-01T06:29:30.934487+00:00
+ - user: None
+ - tags: []
+
+## Morgan State University: Maryland's Preeminent Public Urban Research University
+ - [https://www.morgan.edu](https://www.morgan.edu)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Milwaukee School of Engineering
+ - [http://www.msoe.edu](http://www.msoe.edu)
+ - date published: 2024-05-02T12:55:37.023951+00:00
+ - user: None
+ - tags: []
+
+## Icahn School of Medicine at Mount Sinai - New York City |  Icahn School of Medicine
+ - [https://icahn.mssm.edu](https://icahn.mssm.edu)
+ - date published: 2024-05-08T10:30:11.771086+00:00
+ - user: None
+ - tags: []
+
+## Office for Civil Rights and Title IX Education and Compliance | Michigan State University
+ - [https://civilrights.msu.edu](https://civilrights.msu.edu)
+ - date published: 2024-04-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://clip.msu.edu
+ - [https://clip.msu.edu](https://clip.msu.edu)
+ - date published: 2024-02-08T17:44:08.623151+00:00
+ - user: None
+ - tags: []
+
+## Home | conferences
+ - [https://conferences.msu.edu](https://conferences.msu.edu)
+ - date published: 2024-05-07T19:38:23.818705+00:00
+ - user: None
+ - tags: []
+
+## Computer Science and Engineering | Michigan State University
+ - [https://cse.msu.edu](https://cse.msu.edu)
+ - date published: 2024-05-04T15:30:46.977603+00:00
+ - user: None
+ - tags: []
+
+## homepage | Forest Akers Golf Courses
+ - [https://golf.msu.edu](https://golf.msu.edu)
+ - date published: 2024-01-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | SLE Employment
+ - [https://jobs.sle.msu.edu](https://jobs.sle.msu.edu)
+ - date published: 2024-05-07T19:38:22.225443+00:00
+ - user: None
+ - tags: []
+
+## Home | Live On - Michigan State University
+ - [https://liveon.msu.edu](https://liveon.msu.edu)
+ - date published: 2024-05-07T19:38:48.453283+00:00
+ - user: None
+ - tags: []
+
+## Home Page | MSU Tennis Center
+ - [https://msutennis.msu.edu](https://msutennis.msu.edu)
+ - date published: 2024-05-07T19:38:39.592860+00:00
+ - user: None
+ - tags: []
+
+## https://msutoday.msu.edu
+ - [https://msutoday.msu.edu](https://msutoday.msu.edu)
+ - date published: 2023-12-23T11:36:25.043855+00:00
+ - user: None
+ - tags: []
+
+## Home Page | Student Life & Engagement
+ - [https://sle.msu.edu](https://sle.msu.edu)
+ - date published: 2024-01-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Spartan Cash
+ - [https://spartancash.msu.edu](https://spartancash.msu.edu)
+ - date published: 2024-05-07T19:38:41.505141+00:00
+ - user: None
+ - tags: []
+
+## Home | MSU Union
+ - [https://union.msu.edu](https://union.msu.edu)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## College of Agriculture & Natural Resources
+ - [https://www.canr.msu.edu](https://www.canr.msu.edu)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Computer Science and Engineering | Michigan State University
+ - [https://www.cse.msu.edu](https://www.cse.msu.edu)
+ - date published: 2024-05-04T15:30:43.873442+00:00
+ - user: None
+ - tags: []
+
+## Admission & Financial Aid
+ - [https://admission.mtholyoke.edu](https://admission.mtholyoke.edu)
+ - date published: 2024-05-11T09:25:06.487256+00:00
+ - user: None
+ - tags: []
+
+## Mount Holyoke
+ - [https://athletics.mtholyoke.edu](https://athletics.mtholyoke.edu)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mount Holyoke College
+ - [https://embark.mtholyoke.edu](https://embark.mtholyoke.edu)
+ - date published: 2024-05-11T09:25:14.535296+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar
+ - [https://events.mtholyoke.edu](https://events.mtholyoke.edu)
+ - date published: 2024-05-11T09:25:09.075690+00:00
+ - user: None
+ - tags: []
+
+## MHC Campus Map
+ - [https://map.mtholyoke.edu](https://map.mtholyoke.edu)
+ - date published: 2024-05-11T09:25:16.241217+00:00
+ - user: None
+ - tags: []
+
+## Mount Holyoke College
+ - [https://www.mtholyoke.edu](https://www.mtholyoke.edu)
+ - date published: 2024-03-22T21:54:23.920926+00:00
+ - user: None
+ - tags: []
+
+## MTSU Jobs | Middle Tennessee State University
+ - [https://careers.mtsu.edu](https://careers.mtsu.edu)
+ - date published: 2024-08-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Middle Tennessee State University - Acalog ACMS™
+ - [https://catalog.mtsu.edu](https://catalog.mtsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sign in to your account
+ - [https://elearn.mtsu.edu](https://elearn.mtsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Walker Library: Home: Walker Library: Home
+ - [https://library.mtsu.edu](https://library.mtsu.edu)
+ - date published: 2024-05-07T19:39:22.281382+00:00
+ - user: None
+ - tags: []
+
+## Home - MTSU
+ - [https://mtsu.edu](https://mtsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sign in to your account
+ - [https://pipeline.mtsu.edu](https://pipeline.mtsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - MTSU
+ - [https://w1.mtsu.edu](https://w1.mtsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Middle Tennessee State University | Middle Tennessee State University
+ - [https://www.mtsu.edu](https://www.mtsu.edu)
+ - date published: 2023-10-25T18:55:21.754876+00:00
+ - user: None
+ - tags: []
+
+## Home - MTSU
+ - [https://wwwt.mtsu.edu](https://wwwt.mtsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## College of Health Professions
+ - [https://chp.musc.edu](https://chp.musc.edu)
+ - date published: 2024-05-11T07:19:48.619505+00:00
+ - user: None
+ - tags: []
+
+## The James B. Edwards College of Dental Medicine
+ - [https://dentistry.musc.edu](https://dentistry.musc.edu)
+ - date published: 2024-05-11T07:20:06.455606+00:00
+ - user: None
+ - tags: []
+
+## Education at MUSC
+ - [https://education.musc.edu](https://education.musc.edu)
+ - date published: 2024-05-11T07:19:45.735976+00:00
+ - user: None
+ - tags: []
+
+## You Can Change What's Possible
+ - [https://giving.musc.edu](https://giving.musc.edu)
+ - date published: 2024-05-11T07:19:55.548907+00:00
+ - user: None
+ - tags: []
+
+## College of Graduate Studies
+ - [https://gradstudies.musc.edu](https://gradstudies.musc.edu)
+ - date published: 2024-05-11T07:20:19.418887+00:00
+ - user: None
+ - tags: []
+
+## MUSC Hollings Cancer Center
+ - [https://hollingscancercenter.musc.edu](https://hollingscancercenter.musc.edu)
+ - date published: 2024-05-11T07:20:15.446722+00:00
+ - user: None
+ - tags: []
+
+## Sign In
+ - [https://horseshoe.musc.edu](https://horseshoe.musc.edu)
+ - date published: 2024-05-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The College of Medicine at MUSC
+ - [https://medicine.musc.edu](https://medicine.musc.edu)
+ - date published: 2024-05-11T07:19:36.154751+00:00
+ - user: None
+ - tags: []
+
+## MyChart - Login Page
+ - [https://mychart.musc.edu](https://mychart.musc.edu)
+ - date published: 2024-05-11T07:20:03.984490+00:00
+ - user: None
+ - tags: []
+
+## College of Nursing
+ - [https://nursing.musc.edu](https://nursing.musc.edu)
+ - date published: 2024-05-11T07:20:08.754055+00:00
+ - user: None
+ - tags: []
+
+## College of Pharmacy
+ - [https://pharmacy.musc.edu](https://pharmacy.musc.edu)
+ - date published: 2024-05-11T07:20:17.642865+00:00
+ - user: None
+ - tags: []
+
+## Research at MUSC
+ - [https://research.musc.edu](https://research.musc.edu)
+ - date published: 2024-05-11T07:19:51.332423+00:00
+ - user: None
+ - tags: []
+
+## The Medical University of South Carolina
+ - [https://web.musc.edu](https://web.musc.edu)
+ - date published: 2024-03-15T18:22:29.962237+00:00
+ - user: None
+ - tags: []
+
+## MUSC LIBRARIES
+ - [https://www.library.musc.edu](https://www.library.musc.edu)
+ - date published: 2024-05-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.nae.edu](https://www.nae.edu)
+ - date published: 2024-05-07T20:25:17.386625+00:00
+ - user: None
+ - tags: []
+
+## Home - National Academy of Medicine
+ - [https://nam.edu](https://nam.edu)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Notes From NAP - Spotlighting the Books and Reports on Science, Engineering and Medicine from the National Academies Press
+ - [https://notes.nap.edu](https://notes.nap.edu)
+ - date published: 2024-05-08T10:36:17.335183+00:00
+ - user: None
+ - tags: []
+
+## The National Academies Press
+ - [https://www.nap.edu](https://www.nap.edu)
+ - date published: 2024-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NAU-jan
+ - [https://jan.ucc.nau.edu](https://jan.ucc.nau.edu)
+ - date published: 2024-05-09T08:18:57.051696+00:00
+ - user: None
+ - tags: []
+
+## New College of Florida
+ - [http://ncf.edu](http://ncf.edu)
+ - date published: 2024-05-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Accessibility – NC State University
+ - [https://accessibility.ncsu.edu](https://accessibility.ncsu.edu)
+ - date published: 2024-05-07T19:45:16.856708+00:00
+ - user: None
+ - tags: []
+
+## IT Accessibility – NC State University IT Accessibility Resources
+ - [https://accessibility.oit.ncsu.edu](https://accessibility.oit.ncsu.edu)
+ - date published: 2024-05-01T02:46:23.356226+00:00
+ - user: None
+ - tags: []
+
+## NC State Undergraduate Admissions
+ - [https://admissions.ncsu.edu](https://admissions.ncsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NC State Brand
+ - [https://brand.ncsu.edu](https://brand.ncsu.edu)
+ - date published: 2024-05-07T19:45:15.384528+00:00
+ - user: None
+ - tags: []
+
+## Technology Services
+ - [http://clubs.ncsu.edu](http://clubs.ncsu.edu)
+ - date published: 2024-04-29T03:46:42.276134+00:00
+ - user: None
+ - tags: []
+
+## NC State Experts
+ - [https://experts.ncsu.edu](https://experts.ncsu.edu)
+ - date published: 2024-05-07T19:40:07.224150+00:00
+ - user: None
+ - tags: []
+
+## NC State News
+ - [https://news.ncsu.edu](https://news.ncsu.edu)
+ - date published: 2023-10-25T18:55:26.541930+00:00
+ - user: None
+ - tags: []
+
+## Home | North Carolina Extension Gardener Plant Toolbox
+ - [https://plants.ces.ncsu.edu](https://plants.ces.ncsu.edu)
+ - date published: 2024-05-01T08:04:16.964638+00:00
+ - user: None
+ - tags: []
+
+## Policies, Regulations & Rules – NC State University
+ - [https://policies.ncsu.edu](https://policies.ncsu.edu)
+ - date published: 2024-05-07T19:45:19.698728+00:00
+ - user: None
+ - tags: []
+
+## Strategic Planning
+ - [https://strategicplan.ncsu.edu](https://strategicplan.ncsu.edu)
+ - date published: 2024-05-07T19:45:13.865771+00:00
+ - user: None
+ - tags: []
+
+## North Carolina State University
+ - [https://www.ncsu.edu](https://www.ncsu.edu)
+ - date published: 2024-04-28T03:37:43.019973+00:00
+ - user: None
+ - tags: []
+
+## Emergency Information
+ - [https://emergency.nd.edu](https://emergency.nd.edu)
+ - date published: 2024-05-07T19:45:38.368524+00:00
+ - user: None
+ - tags: []
+
+## Notre Dame Events
+ - [https://events.nd.edu](https://events.nd.edu)
+ - date published: 2024-05-07T19:45:46.179696+00:00
+ - user: None
+ - tags: []
+
+## Product Page - Notre Dame Service Portal
+ - [https://mobile.nd.edu](https://mobile.nd.edu)
+ - date published: 2016-08-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Notre Dame Philosophical Reviews
+ - [https://ndpr.nd.edu](https://ndpr.nd.edu)
+ - date published: 2024-05-07T16:16:12.105690+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://ndworks.nd.edu](https://ndworks.nd.edu)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Notre Dame News | University of Notre Dame
+ - [https://news.nd.edu](https://news.nd.edu)
+ - date published: 2023-10-25T18:55:35.076777+00:00
+ - user: None
+ - tags: []
+
+## Office of Public Affairs and Communications
+ - [https://opac.nd.edu](https://opac.nd.edu)
+ - date published: 2024-05-07T19:45:40.784078+00:00
+ - user: None
+ - tags: []
+
+## Search Notre Dame | University of Notre Dame
+ - [https://search.nd.edu](https://search.nd.edu)
+ - date published: 2024-05-07T19:45:39.490351+00:00
+ - user: None
+ - tags: []
+
+## static.nd.edu | University of Notre Dame
+ - [https://static.nd.edu](https://static.nd.edu)
+ - date published: 2024-05-07T19:45:22.032712+00:00
+ - user: None
+ - tags: []
+
+## Stories
+ - [https://stories.nd.edu](https://stories.nd.edu)
+ - date published: 2024-05-07T19:45:24.023439+00:00
+ - user: None
+ - tags: []
+
+## University of Notre Dame
+ - [https://www.nd.edu](https://www.nd.edu)
+ - date published: 2024-05-01T06:30:44.719090+00:00
+ - user: None
+ - tags: []
+
+## Career and Advising Center - North Dakota State University
+ - [https://career-advising.ndsu.edu](https://career-advising.ndsu.edu)
+ - date published: 2024-05-07T19:46:04.013334+00:00
+ - user: None
+ - tags: []
+
+## | NDSU Libraries
+ - [https://library.ndsu.edu](https://library.ndsu.edu)
+ - date published: 2024-05-07T19:45:50.428351+00:00
+ - user: None
+ - tags: []
+
+## - myNDSU| North Dakota State University
+ - [https://myndsu.ndsu.edu](https://myndsu.ndsu.edu)
+ - date published: 2024-05-07T19:46:13.913614+00:00
+ - user: None
+ - tags: []
+
+## NDSU - North Dakota State University
+ - [https://www.ndsu.edu](https://www.ndsu.edu)
+ - date published: 2023-10-25T18:55:39.000458+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://cic.ndu.edu](https://cic.ndu.edu)
+ - date published: 2024-05-08T02:44:04.388879+00:00
+ - user: None
+ - tags: []
+
+## Blackboard Learn
+ - [https://blackboard.ndus.edu](https://blackboard.ndus.edu)
+ - date published: 2024-05-07T19:45:48.325491+00:00
+ - user: None
+ - tags: []
+
+## University of Nebraska System
+ - [https://nebraska.edu](https://nebraska.edu)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NEU PRL
+ - [https://prl.ccs.neu.edu](https://prl.ccs.neu.edu)
+ - date published: 2024-05-07T19:48:15.637520+00:00
+ - user: None
+ - tags: []
+
+## Department of Electrical & Computer Engineering - Northeastern University
+ - [http://www.ece.neu.edu](http://www.ece.neu.edu)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - University of Nevada Press
+ - [https://unpress.nevada.edu](https://unpress.nevada.edu)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | NIU Newsroom
+ - [https://newsroom.niu.edu](https://newsroom.niu.edu)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Barbara and Leonard Littman Architecture and Design Library
+ - [https://archlib.njit.edu](https://archlib.njit.edu)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Strategic Events and Conference Services | Conference Services
+ - [https://campuscenter.njit.edu](https://campuscenter.njit.edu)
+ - date published: 2024-05-07T19:46:38.297602+00:00
+ - user: None
+ - tags: []
+
+## Welcome | Research Institutes, Centers and Specialized Laboratories
+ - [https://centers.njit.edu](https://centers.njit.edu)
+ - date published: 2024-05-07T19:46:48.376683+00:00
+ - user: None
+ - tags: []
+
+## LDI Courses Archive
+ - [https://continuing.njit.edu](https://continuing.njit.edu)
+ - date published: 2024-05-07T19:46:53.330351+00:00
+ - user: None
+ - tags: []
+
+## Directory Search | People
+ - [http://directory.njit.edu](http://directory.njit.edu)
+ - date published: 2024-05-07T19:46:46.639082+00:00
+ - user: None
+ - tags: []
+
+## Home | Robert W. Van Houten Library
+ - [https://library.njit.edu](https://library.njit.edu)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Webauth Authentication Service
+ - [http://my.njit.edu](http://my.njit.edu)
+ - date published: 2016-07-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NJIT News
+ - [https://news.njit.edu](https://news.njit.edu)
+ - date published: 2023-12-24T14:21:23.481370+00:00
+ - user: None
+ - tags: []
+
+## Research | Research
+ - [https://research.njit.edu](https://research.njit.edu)
+ - date published: 2024-05-07T19:46:33.495049+00:00
+ - user: None
+ - tags: []
+
+## Webauth Authentication Service
+ - [http://webmail.njit.edu](http://webmail.njit.edu)
+ - date published: 2016-07-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## New Jersey Institute of Technology |
+ - [https://www.njit.edu](https://www.njit.edu)
+ - date published: 2024-05-07T19:46:26.999979+00:00
+ - user: None
+ - tags: []
+
+## ACES About Home
+ - [https://aces-about.nmsu.edu](https://aces-about.nmsu.edu)
+ - date published: 2024-05-07T19:47:50.508147+00:00
+ - user: None
+ - tags: []
+
+## Academic Programs Home
+ - [https://aces-academics.nmsu.edu](https://aces-academics.nmsu.edu)
+ - date published: 2024-05-07T19:47:48.930373+00:00
+ - user: None
+ - tags: []
+
+## For Employees Home
+ - [https://aces-employee.nmsu.edu](https://aces-employee.nmsu.edu)
+ - date published: 2024-05-07T19:47:28.006281+00:00
+ - user: None
+ - tags: []
+
+## Alumni and Giving Home
+ - [https://aces-giving.nmsu.edu](https://aces-giving.nmsu.edu)
+ - date published: 2024-05-07T19:47:00.744286+00:00
+ - user: None
+ - tags: []
+
+## 2022 News
+ - [https://aces-news.nmsu.edu](https://aces-news.nmsu.edu)
+ - date published: 2024-05-07T19:47:38.778687+00:00
+ - user: None
+ - tags: []
+
+## College of Agricultural, Consumer and Environmental Sciences | New Mexico State University
+ - [https://aces.nmsu.edu](https://aces.nmsu.edu)
+ - date published: 2018-08-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ACES Quick Links Home
+ - [https://aces-quicklinks.nmsu.edu](https://aces-quicklinks.nmsu.edu)
+ - date published: 2024-05-07T19:47:26.404283+00:00
+ - user: None
+ - tags: []
+
+## ACES Social Media Home
+ - [https://aces-socialmedia.nmsu.edu](https://aces-socialmedia.nmsu.edu)
+ - date published: 2024-05-07T19:47:33.906326+00:00
+ - user: None
+ - tags: []
+
+## AES Main Home
+ - [https://aes.nmsu.edu](https://aes.nmsu.edu)
+ - date published: 2024-05-07T19:47:40.903224+00:00
+ - user: None
+ - tags: []
+
+## Catron County Extension Office Home
+ - [https://catronextension.nmsu.edu](https://catronextension.nmsu.edu)
+ - date published: 2024-02-08T17:58:40.694600+00:00
+ - user: None
+ - tags: []
+
+## Desert Blooms Home
+ - [https://desertblooms.nmsu.edu](https://desertblooms.nmsu.edu)
+ - date published: 2024-05-07T19:47:25.100209+00:00
+ - user: None
+ - tags: []
+
+## #discoverNMSUextension Home
+ - [https://discovernmsuextension.nmsu.edu](https://discovernmsuextension.nmsu.edu)
+ - date published: 2024-05-07T19:47:12.933939+00:00
+ - user: None
+ - tags: []
+
+## CES Home
+ - [https://extension.nmsu.edu](https://extension.nmsu.edu)
+ - date published: 2024-05-07T19:47:08.939342+00:00
+ - user: None
+ - tags: []
+
+## Family Life Home
+ - [https://family.nmsu.edu](https://family.nmsu.edu)
+ - date published: 2024-05-07T19:46:58.605702+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Hobbes
+ - [https://hobbes.nmsu.edu](https://hobbes.nmsu.edu)
+ - date published: 2024-01-09T21:08:23.894605+00:00
+ - user: None
+ - tags: []
+
+## Sign in to your account
+ - [https://inside.nmsu.edu](https://inside.nmsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## LEADS 2025 Strategic Planning
+ - [https://leads2025.nmsu.edu](https://leads2025.nmsu.edu)
+ - date published: 2024-05-07T19:47:47.251655+00:00
+ - user: None
+ - tags: []
+
+## Learn | New Mexico State University
+ - [https://learn.nmsu.edu](https://learn.nmsu.edu)
+ - date published: 2024-05-07T19:47:18.341354+00:00
+ - user: None
+ - tags: []
+
+## Library | NMSU
+ - [http://lib.nmsu.edu](http://lib.nmsu.edu)
+ - date published: 2024-05-07T19:47:42.772572+00:00
+ - user: None
+ - tags: []
+
+## Sign in to Outlook
+ - [http://mail.nmsu.edu](http://mail.nmsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## New Mexico State University
+ - [https://map.nmsu.edu](https://map.nmsu.edu)
+ - date published: 2024-05-07T19:47:57.434600+00:00
+ - user: None
+ - tags: []
+
+## NMSU: Accounts
+ - [https://myaccount.nmsu.edu](https://myaccount.nmsu.edu)
+ - date published: 2024-05-07T19:47:30.973237+00:00
+ - user: None
+ - tags: []
+
+## my.nmsu.edu
+ - [https://my.nmsu.edu](https://my.nmsu.edu)
+ - date published: 2024-05-07T19:47:16.602907+00:00
+ - user: None
+ - tags: []
+
+## 4-H Home
+ - [https://nm4h.nmsu.edu](https://nm4h.nmsu.edu)
+ - date published: 2024-05-07T19:46:56.710859+00:00
+ - user: None
+ - tags: []
+
+## NM Beef Home
+ - [https://nmbeef.nmsu.edu](https://nmbeef.nmsu.edu)
+ - date published: 2024-03-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## New Mexico State University | BE BOLD. Shape the Future.
+ - [https://nmsu.edu](https://nmsu.edu)
+ - date published: 2024-05-07T19:47:23.389773+00:00
+ - user: None
+ - tags: []
+
+## Aggie One Stop
+ - [https://onestop.nmsu.edu](https://onestop.nmsu.edu)
+ - date published: 2024-05-07T19:47:53.681436+00:00
+ - user: None
+ - tags: []
+
+## SWBFPEPC Home
+ - [https://preparedness.nmsu.edu](https://preparedness.nmsu.edu)
+ - date published: 2024-05-07T19:47:32.294377+00:00
+ - user: None
+ - tags: []
+
+## Publications | CES
+ - [https://pubs.nmsu.edu](https://pubs.nmsu.edu)
+ - date published: 2024-05-07T19:47:14.337909+00:00
+ - user: None
+ - tags: []
+
+## Home | New Mexico State University - BE BOLD. Shape the Future.
+ - [https://records.nmsu.edu](https://records.nmsu.edu)
+ - date published: 2024-05-07T19:47:29.219047+00:00
+ - user: None
+ - tags: []
+
+## Sam Steel Society Home
+ - [https://samsteel.nmsu.edu](https://samsteel.nmsu.edu)
+ - date published: 2024-05-07T19:47:35.078081+00:00
+ - user: None
+ - tags: []
+
+## Valencia County Extension Office Home
+ - [http://valenciaextension.nmsu.edu](http://valenciaextension.nmsu.edu)
+ - date published: 2024-05-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## New Mexico State University | BE BOLD. Shape the Future.
+ - [https://www.nmsu.edu](https://www.nmsu.edu)
+ - date published: 2024-05-07T19:47:55.556660+00:00
+ - user: None
+ - tags: []
+
+## About the EPIC | EarthScope Primary Instrument Center
+ - [https://www.passcal.nmt.edu](https://www.passcal.nmt.edu)
+ - date published: 2024-05-09T07:09:20.926833+00:00
+ - user: None
+ - tags: []
+
+## Public University in Michigan | Northern Michigan University
+ - [https://www.nmu.edu](https://www.nmu.edu)
+ - date published: 2024-05-08T04:30:43.607589+00:00
+ - user: None
+ - tags: []
+
+## Welcome! - The Mathematics Genealogy Project
+ - [http://genealogy.math.ndsu.nodak.edu](http://genealogy.math.ndsu.nodak.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sign in - Matomo
+ - [https://matomo.noirlab.edu](https://matomo.noirlab.edu)
+ - date published: 2024-05-07T19:48:05.266631+00:00
+ - user: None
+ - tags: []
+
+## NOIRLab / NSF’s National Optical-IR Astronomy Research Laboratory
+ - [https://noirlab.edu](https://noirlab.edu)
+ - date published: 2024-01-09T02:59:27.072163+00:00
+ - user: None
+ - tags: []
+
+## NOIRLab / NSF’s National Optical-IR Astronomy Research Laboratory
+ - [https://www.noirlab.edu](https://www.noirlab.edu)
+ - date published: 2024-05-07T19:48:11.614482+00:00
+ - user: None
+ - tags: []
+
+## NOLS | The Leader in Wilderness Education
+ - [http://www.nols.edu](http://www.nols.edu)
+ - date published: 2024-05-10T06:59:56.449167+00:00
+ - user: None
+ - tags: []
+
+## UNC System – UNC System
+ - [https://www.northcarolina.edu](https://www.northcarolina.edu)
+ - date published: 2024-05-07T21:38:45.841567+00:00
+ - user: None
+ - tags: []
+
+## Home - Northeastern University College of Science
+ - [https://cos.northeastern.edu](https://cos.northeastern.edu)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CV4Smalls Workshop – Just another Sites at Northeastern site
+ - [https://cv4smalls.sites.northeastern.edu](https://cv4smalls.sites.northeastern.edu)
+ - date published: 2024-01-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Department of Electrical & Computer Engineering - Northeastern University
+ - [https://ece.northeastern.edu](https://ece.northeastern.edu)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Khoury College of Computer Sciences
+ - [https://khoury.northeastern.edu](https://khoury.northeastern.edu)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Northeastern Global News - News, Discovery, and Analysis from Around the World
+ - [https://news.northeastern.edu](https://news.northeastern.edu)
+ - date published: 2023-10-25T18:55:44.990462+00:00
+ - user: None
+ - tags: []
+
+## Home - Northeastern University
+ - [https://northeastern.edu](https://northeastern.edu)
+ - date published: 2024-05-02T10:14:10.515291+00:00
+ - user: None
+ - tags: []
+
+## Home - Programming Research Laboratory - Northeastern University
+ - [https://prl.khoury.northeastern.edu](https://prl.khoury.northeastern.edu)
+ - date published: 2023-10-25T18:55:46.864652+00:00
+ - user: None
+ - tags: []
+
+## Home - Khoury College of Computer Sciences
+ - [https://www.khoury.northeastern.edu](https://www.khoury.northeastern.edu)
+ - date published: 2024-05-01T04:12:37.306814+00:00
+ - user: None
+ - tags: []
+
+## linkedinlearning – LinkedIn Learning offers more than 5,000 on-demand courses on business, creative, and technology skills, and it’s available at no additional cost
+ - [https://www.linkedinlearning.northeastern.edu](https://www.linkedinlearning.northeastern.edu)
+ - date published: 2024-05-07T19:53:17.462127+00:00
+ - user: None
+ - tags: []
+
+## Home - Northeastern University
+ - [https://www.northeastern.edu](https://www.northeastern.edu)
+ - date published: 2024-05-01T08:04:37.330225+00:00
+ - user: None
+ - tags: []
+
+## Northwell Health DAM
+ - [https://dam.northwell.edu](https://dam.northwell.edu)
+ - date published: 2024-05-07T19:48:21.689722+00:00
+ - user: None
+ - tags: []
+
+## Feinstein Institutes for Medical Research | Northwell Health
+ - [https://feinstein.northwell.edu](https://feinstein.northwell.edu)
+ - date published: 2023-10-25T18:55:49.028133+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Northwell Health Foundation
+ - [https://give.northwell.edu](https://give.northwell.edu)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Northwell Health Jobs - Northwell Careers
+ - [https://jobs.northwell.edu](https://jobs.northwell.edu)
+ - date published: 2024-05-07T19:48:24.034891+00:00
+ - user: None
+ - tags: []
+
+## For professionals | Northwell Health
+ - [https://professionals.northwell.edu](https://professionals.northwell.edu)
+ - date published: 2024-05-07T19:48:31.630275+00:00
+ - user: None
+ - tags: []
+
+## Northwell - Blank for Redirect - Northwell Health Foundation
+ - [https://support.northwell.edu](https://support.northwell.edu)
+ - date published: 2024-05-07T19:48:28.222406+00:00
+ - user: None
+ - tags: []
+
+## Northwell Health
+ - [https://www.northwell.edu](https://www.northwell.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Center for Advancing Safety of Machine Intelligence - Northwestern University
+ - [https://casmi.northwestern.edu](https://casmi.northwestern.edu)
+ - date published: 2024-04-30T05:47:47.600728+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://faculty.wcas.northwestern.edu](https://faculty.wcas.northwestern.edu)
+ - date published: 2024-02-03T21:26:18.664044+00:00
+ - user: None
+ - tags: []
+
+## Human Resources - Northwestern University
+ - [https://hr.northwestern.edu](https://hr.northwestern.edu)
+ - date published: 2024-05-07T19:48:54.665011+00:00
+ - user: None
+ - tags: []
+
+## Knight Lab
+ - [https://knightlab.northwestern.edu](https://knightlab.northwestern.edu)
+ - date published: 2023-10-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://magazine.northwestern.edu](https://magazine.northwestern.edu)
+ - date published: 2024-05-07T19:48:51.932293+00:00
+ - user: None
+ - tags: []
+
+## Medill Investigative Lab
+ - [https://mil.medill.northwestern.edu](https://mil.medill.northwestern.edu)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Main Home - News Center
+ - [https://news.feinberg.northwestern.edu](https://news.feinberg.northwestern.edu)
+ - date published: 2023-10-25T18:55:55.307920+00:00
+ - user: None
+ - tags: []
+
+## Northwestern Now News
+ - [https://news.northwestern.edu](https://news.northwestern.edu)
+ - date published: 2023-10-25T18:56:08.345374+00:00
+ - user: None
+ - tags: []
+
+## Northwestern University Events
+ - [https://planitpurple.northwestern.edu](https://planitpurple.northwestern.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## University Policies - Northwestern University
+ - [https://policies.northwestern.edu](https://policies.northwestern.edu)
+ - date published: 2024-05-07T19:48:44.365295+00:00
+ - user: None
+ - tags: []
+
+## Search - Northwestern University
+ - [https://search.northwestern.edu](https://search.northwestern.edu)
+ - date published: 2024-05-07T19:48:55.732462+00:00
+ - user: None
+ - tags: []
+
+## NUSites – A website publishing platform for Northwestern University
+ - [https://sites.northwestern.edu](https://sites.northwestern.edu)
+ - date published: 2024-05-04T13:47:58.433585+00:00
+ - user: None
+ - tags: []
+
+## Northwestern University School of Professional Studies (SPS):
+ - [https://sps.northwestern.edu](https://sps.northwestern.edu)
+ - date published: 2024-05-04T09:28:18.834897+00:00
+ - user: None
+ - tags: []
+
+## Northwestern Computer Science
+ - [https://users.cs.northwestern.edu](https://users.cs.northwestern.edu)
+ - date published: 2024-05-02T12:54:56.890595+00:00
+ - user: None
+ - tags: []
+
+## BSA Home
+ - [http://www.basic.northwestern.edu](http://www.basic.northwestern.edu)
+ - date published: 2024-05-07T20:55:39.947076+00:00
+ - user: None
+ - tags: []
+
+## Feinberg School of Medicine
+ - [https://www.feinberg.northwestern.edu](https://www.feinberg.northwestern.edu)
+ - date published: 2024-05-07T19:48:40.006292+00:00
+ - user: None
+ - tags: []
+
+## Northwestern Law: Northwestern Pritzker School of Law
+ - [https://www.law.northwestern.edu](https://www.law.northwestern.edu)
+ - date published: 2024-05-04T07:31:41.364918+00:00
+ - user: None
+ - tags: []
+
+## Northwestern's McCormick School of Engineering
+ - [https://www.mccormick.northwestern.edu](https://www.mccormick.northwestern.edu)
+ - date published: 2024-04-30T05:56:08.900040+00:00
+ - user: None
+ - tags: []
+
+## Medill - Northwestern University
+ - [https://www.medill.northwestern.edu](https://www.medill.northwestern.edu)
+ - date published: 2024-04-29T04:47:30.156132+00:00
+ - user: None
+ - tags: []
+
+## Northwestern University
+ - [https://www.northwestern.edu](https://www.northwestern.edu)
+ - date published: 2024-05-07T19:48:46.039320+00:00
+ - user: None
+ - tags: []
+
+## Naval Postgraduate School - Naval Postgraduate School
+ - [https://my.nps.edu](https://my.nps.edu)
+ - date published: 2024-05-08T03:29:47.362007+00:00
+ - user: None
+ - tags: []
+
+## NRAO Information
+ - [https://info.nrao.edu](https://info.nrao.edu)
+ - date published: 2024-05-07T19:49:02.597529+00:00
+ - user: None
+ - tags: []
+
+## NRAO Information
+ - [http://inside.nrao.edu](http://inside.nrao.edu)
+ - date published: 2024-05-07T19:49:07.115385+00:00
+ - user: None
+ - tags: []
+
+## NRAO: Secure Login
+ - [https://my.nrao.edu](https://my.nrao.edu)
+ - date published: 2024-05-07T19:49:43.306642+00:00
+ - user: None
+ - tags: []
+
+## ngVLA
+ - [https://ngvla.nrao.edu](https://ngvla.nrao.edu)
+ - date published: 2024-05-07T19:49:39.597979+00:00
+ - user: None
+ - tags: []
+
+## National Radio Astronomy Observatory - National Radio Astronomy Observatory
+ - [https://public.nrao.edu](https://public.nrao.edu)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NRAO at AAS 243 New Orleans - January 2024 — Science Website
+ - [https://science.nrao.edu](https://science.nrao.edu)
+ - date published: 2024-01-15T01:25:31.960705+00:00
+ - user: None
+ - tags: []
+
+## Search NRAO
+ - [https://search.nrao.edu](https://search.nrao.edu)
+ - date published: 2024-05-07T19:49:10.555732+00:00
+ - user: None
+ - tags: []
+
+## National Radio Astronomy Observatory - National Radio Astronomy Observatory
+ - [https://www.nrao.edu](https://www.nrao.edu)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NRAO Very Large Array
+ - [http://www.vla.nrao.edu](http://www.vla.nrao.edu)
+ - date published: 2024-05-01T03:57:19.664423+00:00
+ - user: None
+ - tags: []
+
+## New York Eye & Ear Infirmary of Mount Sinai NYC | New York Eye & Ear
+ - [https://www.nyee.edu](https://www.nyee.edu)
+ - date published: 2024-05-08T10:30:14.411069+00:00
+ - user: None
+ - tags: []
+
+## New York Tech
+ - [https://www.nyit.edu](https://www.nyit.edu)
+ - date published: 2024-05-06T19:58:53.352947+00:00
+ - user: None
+ - tags: []
+
+## Arts & Science
+ - [https://as.nyu.edu](https://as.nyu.edu)
+ - date published: 2024-05-04T09:00:47.115232+00:00
+ - user: None
+ - tags: []
+
+## OSIRIS Lab at NYU Tandon
+ - [https://blog.osiris.cyber.nyu.edu](https://blog.osiris.cyber.nyu.edu)
+ - date published: 2023-10-25T18:56:14.326050+00:00
+ - user: None
+ - tags: []
+
+## Center for Data Science - New York University
+ - [https://cds.nyu.edu](https://cds.nyu.edu)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Institute | NYU Courant
+ - [https://cims.nyu.edu](https://cims.nyu.edu)
+ - date published: 2023-10-25T18:56:17.174439+00:00
+ - user: None
+ - tags: []
+
+## Algorithms and Foundations
+ - [https://csefoundations.engineering.nyu.edu](https://csefoundations.engineering.nyu.edu)
+ - date published: 2024-05-07T19:49:51.079377+00:00
+ - user: None
+ - tags: []
+
+## NYU Login
+ - [http://home.nyu.edu](http://home.nyu.edu)
+ - date published: 2024-05-07T19:50:03.869850+00:00
+ - user: None
+ - tags: []
+
+## NYU Health Sciences Library
+ - [https://hsl.med.nyu.edu](https://hsl.med.nyu.edu)
+ - date published: 2024-05-08T11:00:12.848241+00:00
+ - user: None
+ - tags: []
+
+## ITP / IMA
+ - [http://itp.nyu.edu](http://itp.nyu.edu)
+ - date published: 2024-01-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NYU Journalism - Arthur L. Carter Journalism Institute
+ - [https://journalism.nyu.edu](https://journalism.nyu.edu)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Math and Data
+ - [http://mad.cds.nyu.edu](http://mad.cds.nyu.edu)
+ - date published: 2024-05-07T19:49:52.551776+00:00
+ - user: None
+ - tags: []
+
+## Marron Institute
+ - [https://marroninstitute.nyu.edu](https://marroninstitute.nyu.edu)
+ - date published: 2024-05-06T22:50:13.709703+00:00
+ - user: None
+ - tags: []
+
+## Home | Department of Mathematics | NYU Courant
+ - [https://math.nyu.edu](https://math.nyu.edu)
+ - date published: 2024-05-07T19:49:50.140215+00:00
+ - user: None
+ - tags: []
+
+## NYU Grossman Long Island School of Medicine | NYU Langone Health
+ - [https://medli.nyu.edu](https://medli.nyu.edu)
+ - date published: 2024-05-08T10:59:54.891213+00:00
+ - user: None
+ - tags: []
+
+## Education & Research at NYU Langone Health | NYU Langone Health
+ - [https://med.nyu.edu](https://med.nyu.edu)
+ - date published: 2024-05-08T10:59:59.380131+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://nyuad.nyu.edu](https://nyuad.nyu.edu)
+ - date published: 2024-05-07T19:50:00.353043+00:00
+ - user: None
+ - tags: []
+
+## NYU
+ - [https://nyu.edu](https://nyu.edu)
+ - date published: 2024-05-02T13:49:29.780095+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Pages at the Stern School of Business, New York University
+ - [https://pages.stern.nyu.edu](https://pages.stern.nyu.edu)
+ - date published: 2024-01-09T03:27:46.632899+00:00
+ - user: None
+ - tags: []
+
+## https://physics.nyu.edu
+ - [https://physics.nyu.edu](https://physics.nyu.edu)
+ - date published: 2024-01-09T03:27:52.463967+00:00
+ - user: None
+ - tags: []
+
+## NYU Shanghai | NYU Shanghai
+ - [https://shanghai.nyu.edu](https://shanghai.nyu.edu)
+ - date published: 2024-05-04T14:25:44.862379+00:00
+ - user: None
+ - tags: []
+
+## NYU Steinhardt
+ - [https://steinhardt.nyu.edu](https://steinhardt.nyu.edu)
+ - date published: 2024-03-11T20:56:22.990916+00:00
+ - user: None
+ - tags: []
+
+## NYU Tisch School of the Arts
+ - [https://tisch.nyu.edu](https://tisch.nyu.edu)
+ - date published: 2024-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Web Publishing
+ - [https://wp.nyu.edu](https://wp.nyu.edu)
+ - date published: 2024-05-07T10:20:27.687982+00:00
+ - user: None
+ - tags: []
+
+## Institute | NYU Courant
+ - [http://www.cims.nyu.edu](http://www.cims.nyu.edu)
+ - date published: 2024-05-07T20:15:53.631960+00:00
+ - user: None
+ - tags: []
+
+## Home | NYU School of Law
+ - [https://www.law.nyu.edu](https://www.law.nyu.edu)
+ - date published: 2024-05-08T10:59:49.830912+00:00
+ - user: None
+ - tags: []
+
+## NYU
+ - [https://www.nyu.edu](https://www.nyu.edu)
+ - date published: 2023-10-25T18:56:19.949944+00:00
+ - user: None
+ - tags: []
+
+## Oakland University
+ - [http://www.oakland.edu](http://www.oakland.edu)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://bookstore.occc.edu
+ - [https://bookstore.occc.edu](https://bookstore.occc.edu)
+ - date published: 2024-02-08T21:52:39.432927+00:00
+ - user: None
+ - tags: []
+
+## Undergraduate Admissions | Ohio University
+ - [https://admissions.ohio.edu](https://admissions.ohio.edu)
+ - date published: 2024-05-07T19:50:50.065504+00:00
+ - user: None
+ - tags: []
+
+## Sign in to your account
+ - [https://blackboard.ohio.edu](https://blackboard.ohio.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar
+ - [https://calendar.ohio.edu](https://calendar.ohio.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sign in to your account
+ - [https://canvas.ohio.edu](https://canvas.ohio.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sign in to Outlook
+ - [https://catmail.ohio.edu](https://catmail.ohio.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Give to Ohio University | Ohio University
+ - [https://give.ohio.edu](https://give.ohio.edu)
+ - date published: 2024-05-07T19:50:29.807496+00:00
+ - user: None
+ - tags: []
+
+## Graduate College | Ohio University
+ - [https://grad.ohio.edu](https://grad.ohio.edu)
+ - date published: 2024-05-07T19:51:03.382723+00:00
+ - user: None
+ - tags: []
+
+## Sign in to your account
+ - [https://news.ohio.edu](https://news.ohio.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Ohio University
+ - [https://ohio.edu](https://ohio.edu)
+ - date published: 2024-05-07T19:50:45.281171+00:00
+ - user: None
+ - tags: []
+
+## Regional Higher Education | Ohio University
+ - [https://rhe.ohio.edu](https://rhe.ohio.edu)
+ - date published: 2024-05-07T19:50:22.215267+00:00
+ - user: None
+ - tags: []
+
+## Sign in to your account
+ - [https://sis.ohio.edu](https://sis.ohio.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Ohio University
+ - [https://www.ohio.edu](https://www.ohio.edu)
+ - date published: 2023-10-25T18:56:22.621409+00:00
+ - user: None
+ - tags: ['university']
+
+## CSE
+ - [https://web.cse.ohio-state.edu](https://web.cse.ohio-state.edu)
+ - date published: 2023-10-25T18:56:24.315200+00:00
+ - user: None
+ - tags: []
+
+## Home | College of Arts and Sciences
+ - [https://www.asc.ohio-state.edu](https://www.asc.ohio-state.edu)
+ - date published: 2024-01-11T18:56:17.405128+00:00
+ - user: None
+ - tags: []
+
+## Home | Department of Astronomy
+ - [https://www.astronomy.ohio-state.edu](https://www.astronomy.ohio-state.edu)
+ - date published: 2024-05-08T03:31:08.303068+00:00
+ - user: None
+ - tags: []
+
+## Home | OHSU News
+ - [https://news.ohsu.edu](https://news.ohsu.edu)
+ - date published: 2023-10-25T18:56:26.525047+00:00
+ - user: None
+ - tags: []
+
+## NetScaler AAA
+ - [https://portal.ohsu.edu](https://portal.ohsu.edu)
+ - date published: 2024-05-07T19:51:43.285429+00:00
+ - user: None
+ - tags: []
+
+## OHSU | Healing Begins with Discovery
+ - [https://www.ohsu.edu](https://www.ohsu.edu)
+ - date published: 2024-05-07T19:51:34.427320+00:00
+ - user: None
+ - tags: []
+
+## Oklahoma State University - Oklahoma State University
+ - [https://go.okstate.edu](https://go.okstate.edu)
+ - date published: 2018-10-29T19:19:42.236000+00:00
+ - user: None
+ - tags: []
+
+## University of  Mississippi | Ole Miss
+ - [https://olemiss.edu](https://olemiss.edu)
+ - date published: 2024-01-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## University of  Mississippi | Ole Miss
+ - [http://www.olemiss.edu](http://www.olemiss.edu)
+ - date published: 2024-01-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Olin College of Engineering
+ - [http://www.olin.edu](http://www.olin.edu)
+ - date published: 2024-05-01T03:16:17.468469+00:00
+ - user: None
+ - tags: []
+
+## Distance Learning Courses and Adult Education - The Open University
+ - [https://www.open.edu](https://www.open.edu)
+ - date published: 2023-10-25T18:56:29.084298+00:00
+ - user: None
+ - tags: []
+
+## Linus Pauling Institute
+ - [https://lpi.oregonstate.edu](https://lpi.oregonstate.edu)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Oregon State University
+ - [https://oregonstate.edu](https://oregonstate.edu)
+ - date published: 2024-05-01T08:03:32.208227+00:00
+ - user: None
+ - tags: []
+
+## College of Pharmacy
+ - [https://pharmacy.oregonstate.edu](https://pharmacy.oregonstate.edu)
+ - date published: 2024-05-07T19:51:48.959290+00:00
+ - user: None
+ - tags: []
+
+## Academic Success Center
+ - [https://success.oregonstate.edu](https://success.oregonstate.edu)
+ - date published: 2024-05-04T07:30:39.725740+00:00
+ - user: None
+ - tags: []
+
+## Student Activities
+ - [https://activities.osu.edu](https://activities.osu.edu)
+ - date published: 2024-05-12T07:44:42.588261+00:00
+ - user: None
+ - tags: []
+
+## Alumni Groups | Web Hosting
+ - [https://alumnigroups.osu.edu](https://alumnigroups.osu.edu)
+ - date published: 2024-05-07T19:52:09.461397+00:00
+ - user: None
+ - tags: []
+
+## Ohio State Alumni Magazine
+ - [https://alumnimagazine.osu.edu](https://alumnimagazine.osu.edu)
+ - date published: 2024-05-10T06:14:19.101411+00:00
+ - user: None
+ - tags: []
+
+## Web Login Service - Loading Session Information
+ - [https://appstatus.osu.edu](https://appstatus.osu.edu)
+ - date published: 2024-05-12T07:43:58.030129+00:00
+ - user: None
+ - tags: []
+
+## Home | College of Arts and Sciences
+ - [https://artsandsciences.osu.edu](https://artsandsciences.osu.edu)
+ - date published: 2024-05-07T19:51:08.799469+00:00
+ - user: None
+ - tags: []
+
+## Home | ASC Career Success
+ - [https://asccareersuccess.osu.edu](https://asccareersuccess.osu.edu)
+ - date published: 2024-05-07T19:51:14.303907+00:00
+ - user: None
+ - tags: []
+
+## Home | ASC Intranet
+ - [https://ascintranet.osu.edu](https://ascintranet.osu.edu)
+ - date published: 2024-05-07T19:51:17.327261+00:00
+ - user: None
+ - tags: []
+
+## Home | College of Arts and Sciences
+ - [https://asc.osu.edu](https://asc.osu.edu)
+ - date published: 2024-05-07T19:51:31.940280+00:00
+ - user: None
+ - tags: []
+
+## Home | Instructional and Research IT Support Services (IRIS)
+ - [https://asctech.osu.edu](https://asctech.osu.edu)
+ - date published: 2024-05-07T19:51:27.241185+00:00
+ - user: None
+ - tags: []
+
+## BUX Assets
+ - [https://assets.bux.osu.edu](https://assets.bux.osu.edu)
+ - date published: 2024-05-07T19:52:48.457066+00:00
+ - user: None
+ - tags: []
+
+## Buckeye Link
+ - [https://buckeyelink.osu.edu](https://buckeyelink.osu.edu)
+ - date published: 2024-05-07T19:52:41.205680+00:00
+ - user: None
+ - tags: []
+
+## BuckeyePass | The Ohio State University
+ - [https://buckeyepass.osu.edu](https://buckeyepass.osu.edu)
+ - date published: 2024-05-01T07:01:40.124823+00:00
+ - user: None
+ - tags: []
+
+## BuckID
+ - [https://buckid.osu.edu](https://buckid.osu.edu)
+ - date published: 2024-05-12T07:44:29.930152+00:00
+ - user: None
+ - tags: []
+
+## Visit Ohio State
+ - [https://campusvisit.osu.edu](https://campusvisit.osu.edu)
+ - date published: 2024-05-12T07:43:08.856184+00:00
+ - user: None
+ - tags: []
+
+## Cancer Treatment and Research Center | OSUCCC – James
+ - [https://cancer.osu.edu](https://cancer.osu.edu)
+ - date published: 2024-05-12T07:43:31.451613+00:00
+ - user: None
+ - tags: []
+
+## Loading...
+ - [https://carmen.osu.edu](https://carmen.osu.edu)
+ - date published: 2024-05-12T07:43:53.397472+00:00
+ - user: None
+ - tags: []
+
+## Counseling and Consultation Service
+ - [https://ccs.osu.edu](https://ccs.osu.edu)
+ - date published: 2024-05-12T07:44:18.244369+00:00
+ - user: None
+ - tags: []
+
+## Class Search
+ - [https://classes.osu.edu](https://classes.osu.edu)
+ - date published: 2024-05-12T07:42:52.798195+00:00
+ - user: None
+ - tags: []
+
+## Login - Give To Ohio State - The Ohio State University
+ - [https://connect1.osu.edu](https://connect1.osu.edu)
+ - date published: 2024-05-07T19:52:26.447794+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science and Engineering
+ - [https://cse.osu.edu](https://cse.osu.edu)
+ - date published: 2014-02-07T14:25:00+00:00
+ - user: None
+ - tags: []
+
+## Dental Alumni Society
+ - [https://das.alumni.osu.edu](https://das.alumni.osu.edu)
+ - date published: 2024-02-08T17:42:16.788473+00:00
+ - user: None
+ - tags: []
+
+## OSU College of Dentistry
+ - [https://dentistry.osu.edu](https://dentistry.osu.edu)
+ - date published: 2024-05-12T07:44:32.720792+00:00
+ - user: None
+ - tags: []
+
+## Dining Services
+ - [https://dining.osu.edu](https://dining.osu.edu)
+ - date published: 2024-05-12T07:44:11.233781+00:00
+ - user: None
+ - tags: []
+
+## Home | Department of Public Safety
+ - [https://dps.osu.edu](https://dps.osu.edu)
+ - date published: 2024-05-12T07:43:42.601189+00:00
+ - user: None
+ - tags: []
+
+## Home | School of Earth Sciences
+ - [http://earthsciences.osu.edu](http://earthsciences.osu.edu)
+ - date published: 2024-05-07T22:31:30.967450+00:00
+ - user: None
+ - tags: []
+
+## Microsoft 365
+ - [https://email.osu.edu](https://email.osu.edu)
+ - date published: 2022-11-29T22:09:42+00:00
+ - user: None
+ - tags: []
+
+## COLLEGE OF ENGINEERING
+ - [https://engineering.osu.edu](https://engineering.osu.edu)
+ - date published: 2014-02-03T10:53:00+00:00
+ - user: None
+ - tags: []
+
+## The Enterprise for Research, Innovation and Knowledge
+ - [https://erik.osu.edu](https://erik.osu.edu)
+ - date published: 2024-05-12T07:44:06.899584+00:00
+ - user: None
+ - tags: []
+
+## Home | First Year Seminars
+ - [https://firstyearseminars.osu.edu](https://firstyearseminars.osu.edu)
+ - date published: 2024-05-07T19:51:20.656861+00:00
+ - user: None
+ - tags: []
+
+## Home | The Goldberg Center
+ - [http://goldbergcenter.osu.edu](http://goldbergcenter.osu.edu)
+ - date published: 2024-05-12T07:29:49.051269+00:00
+ - user: None
+ - tags: []
+
+## go.osu.edu Create Shortened URLs
+ - [https://go.osu.edu](https://go.osu.edu)
+ - date published: 2024-05-07T19:51:22.252604+00:00
+ - user: None
+ - tags: []
+
+## Graduate and Professional Admissions | The Ohio State University
+ - [https://gpadmissions.osu.edu](https://gpadmissions.osu.edu)
+ - date published: 2024-05-12T07:43:11.105790+00:00
+ - user: None
+ - tags: []
+
+## Home | Graduate School
+ - [https://gradsch.osu.edu](https://gradsch.osu.edu)
+ - date published: 2024-05-12T07:44:22.743757+00:00
+ - user: None
+ - tags: []
+
+## Ohio State Optometry Services
+ - [https://greatvision.osu.edu](https://greatvision.osu.edu)
+ - date published: 2024-05-12T07:43:33.074900+00:00
+ - user: None
+ - tags: []
+
+## Housing and Residence Education
+ - [https://housing.osu.edu](https://housing.osu.edu)
+ - date published: 2024-05-12T07:44:00.222217+00:00
+ - user: None
+ - tags: []
+
+## Human Resources at Ohio State
+ - [https://hr.osu.edu](https://hr.osu.edu)
+ - date published: 2024-05-12T07:44:44.428985+00:00
+ - user: None
+ - tags: []
+
+## Inspire 2023 - Inspire
+ - [https://inspire.ehe.osu.edu](https://inspire.ehe.osu.edu)
+ - date published: 2023-03-13T04:17:09+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://it.osu.edu](https://it.osu.edu)
+ - date published: 2024-05-12T07:44:45.943677+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://keenan.osu.edu](https://keenan.osu.edu)
+ - date published: 2024-05-12T07:43:04.501456+00:00
+ - user: None
+ - tags: []
+
+## Ohio State University Libraries
+ - [https://library.osu.edu](https://library.osu.edu)
+ - date published: 2024-05-12T07:44:38.694450+00:00
+ - user: None
+ - tags: []
+
+## Home | The Ohio State University at Lima
+ - [https://lima.osu.edu](https://lima.osu.edu)
+ - date published: 2024-05-12T07:43:51.453437+00:00
+ - user: None
+ - tags: []
+
+## The Ohio State University at Mansfield
+ - [https://mansfield.osu.edu](https://mansfield.osu.edu)
+ - date published: 2024-05-12T07:43:39.206902+00:00
+ - user: None
+ - tags: []
+
+## login - OSU Identity Management Landing Page
+ - [https://my.osu.edu](https://my.osu.edu)
+ - date published: 2024-05-12T07:43:06.452277+00:00
+ - user: None
+ - tags: []
+
+## The Ohio State University at Newark
+ - [https://newark.osu.edu](https://newark.osu.edu)
+ - date published: 2024-05-12T07:43:48.028100+00:00
+ - user: None
+ - tags: []
+
+## Ohio State News
+ - [https://news.osu.edu](https://news.osu.edu)
+ - date published: 2023-10-25T18:56:36.422788+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [http://ocio.osu.edu](http://ocio.osu.edu)
+ - date published: 2024-05-07T19:52:33.582132+00:00
+ - user: None
+ - tags: []
+
+## Off-Campus and Commuter Student Engagement
+ - [https://offcampus.osu.edu](https://offcampus.osu.edu)
+ - date published: 2024-05-12T07:44:25.294709+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Office of Innovation and Economic Development, The Ohio State University
+ - [https://oied.osu.edu](https://oied.osu.edu)
+ - date published: 2024-04-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Office of Marketing and Communications | The Ohio State University
+ - [https://omc.osu.edu](https://omc.osu.edu)
+ - date published: 2024-05-07T19:52:43.553637+00:00
+ - user: None
+ - tags: []
+
+## On Campus | The Ohio State University
+ - [https://oncampus.osu.edu](https://oncampus.osu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://online.osu.edu](https://online.osu.edu)
+ - date published: 2024-05-12T07:43:17.717940+00:00
+ - user: None
+ - tags: []
+
+## The Ohio State University Avatar Service | OPIC
+ - [https://opic.osu.edu](https://opic.osu.edu)
+ - date published: 2024-05-07T19:51:19.259089+00:00
+ - user: None
+ - tags: []
+
+## | Origins
+ - [https://origins.osu.edu](https://origins.osu.edu)
+ - date published: 2024-04-05T18:56:08.025429+00:00
+ - user: None
+ - tags: []
+
+## Home | The Ohio State University
+ - [https://osu.edu](https://osu.edu)
+ - date published: 2024-04-05T21:48:57+00:00
+ - user: rumpel
+ - tags: []
+
+## Home | The Ohio State University at Marion
+ - [https://osumarion.osu.edu](https://osumarion.osu.edu)
+ - date published: 2024-05-12T07:44:40.456460+00:00
+ - user: None
+ - tags: []
+
+## PlantFacts · Welcome · PlantFacts.osu.edu
+ - [https://plantfacts.osu.edu](https://plantfacts.osu.edu)
+ - date published: 2024-02-08T22:53:17.623276+00:00
+ - user: None
+ - tags: []
+
+## Office of the President | The Ohio State University
+ - [https://president.osu.edu](https://president.osu.edu)
+ - date published: 2024-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Recreational Sports
+ - [https://recsports.osu.edu](https://recsports.osu.edu)
+ - date published: 2024-05-12T07:42:58.147953+00:00
+ - user: None
+ - tags: []
+
+## University Registrar - The Ohio State University
+ - [https://registrar.osu.edu](https://registrar.osu.edu)
+ - date published: 2024-05-12T07:43:35.495243+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://research.osu.edu](https://research.osu.edu)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Student Financial Aid - The Ohio State University
+ - [https://sfa.osu.edu](https://sfa.osu.edu)
+ - date published: 2024-05-12T07:43:24.905080+00:00
+ - user: None
+ - tags: []
+
+## Student Health Insurance
+ - [https://shi.osu.edu](https://shi.osu.edu)
+ - date published: 2024-05-12T07:44:09.381312+00:00
+ - user: None
+ - tags: []
+
+## Student Health Services
+ - [https://shs.osu.edu](https://shs.osu.edu)
+ - date published: 2024-05-12T07:43:01.190266+00:00
+ - user: None
+ - tags: []
+
+## Office of Student Life
+ - [https://studentlife.osu.edu](https://studentlife.osu.edu)
+ - date published: 2024-05-12T07:42:55.327892+00:00
+ - user: None
+ - tags: []
+
+## Strauss Investigation | Ohio State
+ - [https://supremecourt.osu.edu](https://supremecourt.osu.edu)
+ - date published: 2024-05-12T07:44:47.887891+00:00
+ - user: None
+ - tags: []
+
+## Student Wellness Center
+ - [https://swc.osu.edu](https://swc.osu.edu)
+ - date published: 2024-05-12T07:44:21.253111+00:00
+ - user: None
+ - tags: []
+
+## Pelotonia – Team Buckeye | OSUCCC – James
+ - [http://teambuckeye.osu.edu](http://teambuckeye.osu.edu)
+ - date published: 2024-05-07T19:52:21.359255+00:00
+ - user: None
+ - tags: []
+
+## Board of Trustees | The Ohio State University
+ - [https://trustees.osu.edu](https://trustees.osu.edu)
+ - date published: 2024-05-12T07:43:44.161686+00:00
+ - user: None
+ - tags: []
+
+## Home | Undergraduate Research & Creative Inquiry
+ - [https://ugresearch.osu.edu](https://ugresearch.osu.edu)
+ - date published: 2024-05-12T07:43:40.790121+00:00
+ - user: None
+ - tags: []
+
+## Your story begins here - The Ohio State University
+ - [https://undergrad.osu.edu](https://undergrad.osu.edu)
+ - date published: 2024-05-12T07:43:37.681135+00:00
+ - user: None
+ - tags: []
+
+## U.OSU
+ - [https://u.osu.edu](https://u.osu.edu)
+ - date published: 2024-05-01T08:01:21.985728+00:00
+ - user: None
+ - tags: []
+
+## Home | College of Veterinary Medicine
+ - [https://vet.osu.edu](https://vet.osu.edu)
+ - date published: 2024-04-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## PlantFacts
+ - [https://webgarden.osu.edu](https://webgarden.osu.edu)
+ - date published: 2024-05-07T19:52:51.930970+00:00
+ - user: None
+ - tags: []
+
+## Health and Wellness | The Ohio State University
+ - [https://wellness.osu.edu](https://wellness.osu.edu)
+ - date published: 2024-05-12T07:43:22.301175+00:00
+ - user: None
+ - tags: []
+
+## The Ohio State University Wexner Medical Center
+ - [https://wexnermedical.osu.edu](https://wexnermedical.osu.edu)
+ - date published: 2024-05-12T07:44:35.236307+00:00
+ - user: None
+ - tags: []
+
+## Home | CFAES Wooster
+ - [https://wooster.osu.edu](https://wooster.osu.edu)
+ - date published: 2024-07-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.giveto.osu.edu](https://www.giveto.osu.edu)
+ - date published: 2024-05-07T19:52:14.933656+00:00
+ - user: None
+ - tags: []
+
+## Home | The Ohio State University
+ - [https://www.osu.edu](https://www.osu.edu)
+ - date published: 2024-05-01T06:45:37.858625+00:00
+ - user: None
+ - tags: []
+
+## AAARG - Arctic and Antarctic Atmospheric Science Research Group
+ - [http://arctic.som.ou.edu](http://arctic.som.ou.edu)
+ - date published: 2024-05-06T16:44:39.006067+00:00
+ - user: None
+ - tags: []
+
+## OU Outreach > Home
+ - [https://outreach.ou.edu](https://outreach.ou.edu)
+ - date published: 2024-05-12T04:56:37.458514+00:00
+ - user: None
+ - tags: []
+
+## Pace University Blogs
+ - [https://blogs.pace.edu](https://blogs.pace.edu)
+ - date published: 2024-05-07T19:52:53.234624+00:00
+ - user: None
+ - tags: []
+
+## Social Psychology Perspectives – Applying social psychology to the world around us
+ - [https://socialpsych.blogs.pace.edu](https://socialpsych.blogs.pace.edu)
+ - date published: 2023-10-25T18:56:44.098429+00:00
+ - user: None
+ - tags: []
+
+## Pace University
+ - [http://www.pace.edu](http://www.pace.edu)
+ - date published: 2024-05-07T19:52:59.111381+00:00
+ - user: None
+ - tags: []
+
+## Philadelphia College of Osteopathic Medicine | PCOM
+ - [https://www.pcom.edu](https://www.pcom.edu)
+ - date published: 2024-05-01T08:01:42.671586+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Portland State University
+ - [https://www.pdx.edu](https://www.pdx.edu)
+ - date published: 2024-05-09T05:54:09.254628+00:00
+ - user: None
+ - tags: []
+
+## Peninsula College presents a podcast honoring the work of the influential American poet and short story writer, Raymond Carver from the last town he called home: Port Angeles, Washington. You can listen here on our Episode page. You can also find us on Stitcher, Google Podcasts, Apple Podcasts, Spotify, and more. In each regular episode, | Raymond Carver Podcast
+ - [https://raymondcarverpodcast.pencol.edu](https://raymondcarverpodcast.pencol.edu)
+ - date published: 2023-10-31T19:57:35.429326+00:00
+ - user: None
+ - tags: []
+
+## Peninsula College
+ - [https://www.pencol.edu](https://www.pencol.edu)
+ - date published: 2024-05-07T19:53:06.917007+00:00
+ - user: None
+ - tags: []
+
+## Purdue University Fort Wayne
+ - [https://www.pfw.edu](https://www.pfw.edu)
+ - date published: 2024-05-07T20:03:57.306082+00:00
+ - user: None
+ - tags: []
+
+## Find People at the University of Pittsburgh
+ - [https://find.pitt.edu](https://find.pitt.edu)
+ - date published: 2024-05-07T19:53:08.948896+00:00
+ - user: None
+ - tags: []
+
+## myPitt | All Campuses
+ - [https://my.pitt.edu](https://my.pitt.edu)
+ - date published: 2024-05-07T19:53:15.799910+00:00
+ - user: None
+ - tags: []
+
+## University of Pittsburgh: Error HTTP 403 - Forbidden
+ - [https://sites.pitt.edu](https://sites.pitt.edu)
+ - date published: 2023-10-25T18:56:45.029939+00:00
+ - user: None
+ - tags: []
+
+## Home | CONCEPT Research Lab
+ - [https://www.conceptlab.pitt.edu](https://www.conceptlab.pitt.edu)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.pitt.edu](https://www.pitt.edu)
+ - date published: 2024-05-07T19:53:13.603363+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Purdue University Northwest
+ - [https://www.pnw.edu](https://www.pnw.edu)
+ - date published: 2024-01-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Pomona College in Claremont, California - Pomona College
+ - [http://www.pomona.edu](http://www.pomona.edu)
+ - date published: 2022-06-17T21:06:33+00:00
+ - user: None
+ - tags: []
+
+## WVU Potomac State College | Keyser Campus  | WVU Potomac State College located in Keyser, WV
+ - [http://potomacstatecollege.edu](http://potomacstatecollege.edu)
+ - date published: 2024-05-07T22:39:39.983878+00:00
+ - user: None
+ - tags: []
+
+## SUNY Potsdam Employment Site | Home
+ - [https://employment.potsdam.edu](https://employment.potsdam.edu)
+ - date published: 2024-05-09T06:39:54.286746+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [http://pratt.edu](http://pratt.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions
+ - [https://3dmatch.cs.princeton.edu](https://3dmatch.cs.princeton.edu)
+ - date published: 2024-05-07T09:35:14.225203+00:00
+ - user: None
+ - tags: []
+
+## Department of African American Studies
+ - [https://aas.princeton.edu](https://aas.princeton.edu)
+ - date published: 2024-05-07T20:00:41.715109+00:00
+ - user: None
+ - tags: []
+
+## Accessibility at Princeton
+ - [https://accessibility.princeton.edu](https://accessibility.princeton.edu)
+ - date published: 2024-05-07T19:53:18.697025+00:00
+ - user: None
+ - tags: []
+
+## Princeton University Admission
+ - [https://admission.princeton.edu](https://admission.princeton.edu)
+ - date published: 2024-05-07T20:00:21.559566+00:00
+ - user: None
+ - tags: []
+
+## Home | Princeton Alumni
+ - [https://alumni.princeton.edu](https://alumni.princeton.edu)
+ - date published: 2024-05-07T20:00:16.724721+00:00
+ - user: None
+ - tags: []
+
+## Anthropology@Princeton
+ - [https://anthropology.princeton.edu](https://anthropology.princeton.edu)
+ - date published: 2024-05-07T19:53:26.029148+00:00
+ - user: None
+ - tags: []
+
+## Kahneman-Treisman Center for Behavioral Science & Public Policy
+ - [https://behavioralpolicy.princeton.edu](https://behavioralpolicy.princeton.edu)
+ - date published: 2024-04-29T03:20:00.721032+00:00
+ - user: None
+ - tags: []
+
+## Home - Princeton University WordPress Service
+ - [https://blogs.princeton.edu](https://blogs.princeton.edu)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Search Opportunities
+ - [https://careers.princeton.edu](https://careers.princeton.edu)
+ - date published: 2024-05-07T20:00:19.564402+00:00
+ - user: None
+ - tags: []
+
+## Your Cart
+ - [https://cart.press.princeton.edu](https://cart.press.princeton.edu)
+ - date published: 2024-05-07T19:54:37.253591+00:00
+ - user: None
+ - tags: []
+
+## The Center for Digital Humanities at Princeton
+ - [https://cdh.princeton.edu](https://cdh.princeton.edu)
+ - date published: 2024-05-04T15:58:48.185465+00:00
+ - user: None
+ - tags: []
+
+## Civil and Environmental Engineering
+ - [https://cee.princeton.edu](https://cee.princeton.edu)
+ - date published: 2024-05-07T20:00:37.643279+00:00
+ - user: None
+ - tags: []
+
+## Home - Center for Information Technology Policy
+ - [https://citp.princeton.edu](https://citp.princeton.edu)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Computational Cognitive Science Lab - Home
+ - [http://cocosci.princeton.edu](http://cocosci.princeton.edu)
+ - date published: 2024-05-04T15:15:13.781850+00:00
+ - user: None
+ - tags: []
+
 ## CompudocWiki
  - [http://compudoc.princeton.edu](http://compudoc.princeton.edu)
  - date published: 2024-05-07T19:55:10.874884+00:00
@@ -2332,3696 +5998,6 @@
 ## CS249i: The Modern Internet
  - [https://cs249i.stanford.edu](https://cs249i.stanford.edu)
  - date published: 2024-05-04T15:11:51.253843+00:00
- - user: None
- - tags: []
-
-## CS356: Topics in Computer and Network Security
- - [https://cs356.stanford.edu](https://cs356.stanford.edu)
- - date published: 2024-05-04T15:12:02.488727+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://csd9.sites.stanford.edu](https://csd9.sites.stanford.edu)
- - date published: 2024-06-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford Computer Science Department
- - [http://csl.stanford.edu](http://csl.stanford.edu)
- - date published: 2024-05-07T20:25:59.570946+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://cs.stanford.edu](https://cs.stanford.edu)
- - date published: 2023-10-25T11:23:16.227465+00:00
- - user: None
- - tags: []
-
-## Stanford CVA Group - Concurrent VLSI Architecture Group
- - [http://cva.stanford.edu](http://cva.stanford.edu)
- - date published: 2023-10-25T18:58:09.358599+00:00
- - user: None
- - tags: []
-
-## Cyber Policy Center | FSI
- - [https://cyber.fsi.stanford.edu](https://cyber.fsi.stanford.edu)
- - date published: 2023-10-25T18:58:18.772573+00:00
- - user: None
- - tags: []
-
-## Center for Internet and Society | The Center for Internet and Society is a leader in the study of the law & policy around the Internet & emerging technologies.
- - [https://cyberlaw.stanford.edu](https://cyberlaw.stanford.edu)
- - date published: 2023-10-25T18:58:20.662315+00:00
- - user: None
- - tags: []
-
-## Data Science
- - [https://datascience.stanford.edu](https://datascience.stanford.edu)
- - date published: 2023-11-12T13:46:11.993969+00:00
- - user: None
- - tags: []
-
-## Stanford DAWN · DAWN
- - [https://dawn.cs.stanford.edu](https://dawn.cs.stanford.edu)
- - date published: 2024-05-07T20:26:54.451434+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://digitaleconomy.stanford.edu](https://digitaleconomy.stanford.edu)
- - date published: 2024-04-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford d.school
- - [https://dschool.stanford.edu](https://dschool.stanford.edu)
- - date published: 2024-05-01T04:14:47.181085+00:00
- - user: None
- - tags: []
-
-## Stanford Graduate School of Education
- - [https://ed.stanford.edu](https://ed.stanford.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## EE108A Redirect
- - [http://ee108a.stanford.edu](http://ee108a.stanford.edu)
- - date published: 2024-05-07T20:26:02.994318+00:00
- - user: None
- - tags: []
-
-## https://ee380.stanford.edu
- - [https://ee380.stanford.edu](https://ee380.stanford.edu)
- - date published: 2024-01-09T03:27:56.799112+00:00
- - user: None
- - tags: []
-
-## Emergency Information | Stanford University
- - [https://emergency.stanford.edu](https://emergency.stanford.edu)
- - date published: 2024-02-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford University School of Engineering
- - [https://engineering.stanford.edu](https://engineering.stanford.edu)
- - date published: 2024-05-07T20:25:33.144127+00:00
- - user: None
- - tags: []
-
-## Events Calendar
- - [https://events.stanford.edu](https://events.stanford.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford University Explore Courses
- - [https://explorecourses.stanford.edu](https://explorecourses.stanford.edu)
- - date published: 2024-05-06T23:12:41.668136+00:00
- - user: None
- - tags: []
-
-## Stanford University Bulletin
- - [https://exploredegrees.stanford.edu](https://exploredegrees.stanford.edu)
- - date published: 2024-05-07T20:25:19.667900+00:00
- - user: None
- - tags: []
-
-## Facts
- - [https://facts.stanford.edu](https://facts.stanford.edu)
- - date published: 2024-05-07T20:31:11.947829+00:00
- - user: None
- - tags: []
-
-## Faculty Affairs
- - [https://facultyaffairs-humsci.stanford.edu](https://facultyaffairs-humsci.stanford.edu)
- - date published: 2024-05-07T20:28:15.011247+00:00
- - user: None
- - tags: []
-
-## Stanford | Faculty Positions
- - [http://facultypositions.stanford.edu](http://facultypositions.stanford.edu)
- - date published: 2024-05-07T20:30:55.775515+00:00
- - user: None
- - tags: []
-
-## Log in | Finance
- - [https://finance-humsci.stanford.edu](https://finance-humsci.stanford.edu)
- - date published: 2024-05-07T20:28:13.020990+00:00
- - user: None
- - tags: []
-
-## Financial Aid : Stanford University
- - [https://financialaid.stanford.edu](https://financialaid.stanford.edu)
- - date published: 2024-05-07T20:31:00.088096+00:00
- - user: None
- - tags: []
-
-## Flash Teams | Home
- - [http://flashteams.stanford.edu](http://flashteams.stanford.edu)
- - date published: 2024-05-07T20:27:57.915742+00:00
- - user: None
- - tags: []
-
-## Computer Forum
- - [https://forum.stanford.edu](https://forum.stanford.edu)
- - date published: 2024-05-07T20:25:48.767557+00:00
- - user: None
- - tags: []
-
-## Freeman Spogli Institute for International Studies | FSI
- - [https://fsi.stanford.edu](https://fsi.stanford.edu)
- - date published: 2024-04-30T06:34:30.351718+00:00
- - user: None
- - tags: []
-
-## Neural Dynamics and Computation Lab
- - [http://ganguli-gang.stanford.edu](http://ganguli-gang.stanford.edu)
- - date published: 2024-04-29T05:14:11.707254+00:00
- - user: None
- - tags: []
-
-## Giving to Stanford
- - [https://giving.stanford.edu](https://giving.stanford.edu)
- - date published: 2024-05-07T20:31:07.160939+00:00
- - user: None
- - tags: []
-
-## Graduate Medical Education
- - [https://gme.stanford.edu](https://gme.stanford.edu)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford University
- - [https://goto.stanford.edu](https://goto.stanford.edu)
- - date published: 2024-05-11T11:23:51.995536+00:00
- - user: None
- - tags: []
-
-## Graduate Admissions
- - [https://gradadmissions.stanford.edu](https://gradadmissions.stanford.edu)
- - date published: 2024-05-07T20:31:13.620207+00:00
- - user: None
- - tags: []
-
-## Computer Graphics at Stanford University
- - [https://graphics.stanford.edu](https://graphics.stanford.edu)
- - date published: 2024-05-01T08:47:34.499825+00:00
- - user: None
- - tags: []
-
-## Join Stanford Alumni Groups
- - [https://groups.stanford.edu](https://groups.stanford.edu)
- - date published: 2024-05-07T20:31:24.482508+00:00
- - user: None
- - tags: []
-
-## Stanford Graduate School of Business
- - [http://gsb.stanford.edu](http://gsb.stanford.edu)
- - date published: 2024-05-07T20:30:37.947776+00:00
- - user: None
- - tags: []
-
-## stan-x
- - [http://gsc.stanford.edu](http://gsc.stanford.edu)
- - date published: 2024-05-11T10:40:37.394708+00:00
- - user: None
- - tags: []
-
-## Graduate and Undergraduate Studies
- - [https://gus-humsci.stanford.edu](https://gus-humsci.stanford.edu)
- - date published: 2024-05-07T20:28:07.640877+00:00
- - user: None
- - tags: []
-
-## Home | Stanford HAI
- - [https://hai.stanford.edu](https://hai.stanford.edu)
- - date published: 2023-10-25T18:58:24.324282+00:00
- - user: None
- - tags: []
-
-## Hazy Research
- - [https://hazyresearch.stanford.edu](https://hazyresearch.stanford.edu)
- - date published: 2023-10-25T18:58:25.276211+00:00
- - user: None
- - tags: []
-
-## Stanford HCI Group
- - [https://hci.stanford.edu](https://hci.stanford.edu)
- - date published: 2023-10-25T18:58:28.830172+00:00
- - user: None
- - tags: []
-
-## Facilities and Capital Planning
- - [https://hs-fcp.stanford.edu](https://hs-fcp.stanford.edu)
- - date published: 2024-05-07T20:28:05.744365+00:00
- - user: None
- - tags: []
-
-## Human Resources
- - [https://hshr.stanford.edu](https://hshr.stanford.edu)
- - date published: 2024-03-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Watch: Stanford's Nobel Laureates and MacArthur "Genius" Fellows tell their stories
- - [https://humsci.stanford.edu](https://humsci.stanford.edu)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Error - Stanford InfoLab Publication Server
- - [http://ilpubs.stanford.edu](http://ilpubs.stanford.edu)
- - date published: 2024-05-07T20:28:26.665839+00:00
- - user: None
- - tags: []
-
-## Stanford InfoBlog
- - [http://infoblog.stanford.edu](http://infoblog.stanford.edu)
- - date published: 2024-05-07T20:28:25.331690+00:00
- - user: None
- - tags: []
-
-## The Stanford University InfoLab
- - [http://infolab.stanford.edu](http://infolab.stanford.edu)
- - date published: 2023-10-25T11:23:23.038240+00:00
- - user: None
- - tags: []
-
-## Institute for Research in the Social Sciences
- - [https://iriss.stanford.edu](https://iriss.stanford.edu)
- - date published: 2024-05-07T20:27:24.746010+00:00
- - user: None
- - tags: []
-
-## The Stanford University InfoLab
- - [http://i.stanford.edu](http://i.stanford.edu)
- - date published: 2024-05-06T13:57:52.564082+00:00
- - user: None
- - tags: []
-
-## Information Technology
- - [https://it-humsci.stanford.edu](https://it-humsci.stanford.edu)
- - date published: 2024-05-07T20:28:10.966046+00:00
- - user: None
- - tags: []
-
-## Journalism Program
- - [http://journalism.stanford.edu](http://journalism.stanford.edu)
- - date published: 2024-05-12T07:12:43.597268+00:00
- - user: None
- - tags: []
-
-## The Martin Luther King, Jr. Research and Education Institute
- - [https://kinginstitute.stanford.edu](https://kinginstitute.stanford.edu)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Lane Medical Library - Stanford University School of Medicine
- - [http://lane.stanford.edu](http://lane.stanford.edu)
- - date published: 2024-05-07T20:28:56.494743+00:00
- - user: None
- - tags: []
-
-## Welcome to SLS - Stanford Law School
- - [https://law.stanford.edu](https://law.stanford.edu)
- - date published: 2023-10-25T18:58:32.350011+00:00
- - user: None
- - tags: []
-
-## Home | Learning for a Lifetime | Stanford Online
- - [https://learn.stanford.edu](https://learn.stanford.edu)
- - date published: 2023-12-06T21:05:55.624627+00:00
- - user: None
- - tags: []
-
-## Stanford Computer Science
- - [https://legacy.cs.stanford.edu](https://legacy.cs.stanford.edu)
- - date published: 2024-05-07T20:25:35.990328+00:00
- - user: None
- - tags: []
-
-## Legion Programming System
- - [https://legion.stanford.edu](https://legion.stanford.edu)
- - date published: 2024-05-01T08:47:17.322012+00:00
- - user: None
- - tags: []
-
-## Stanford Encyclopedia of Philosophy
- - [https://leibniz.stanford.edu](https://leibniz.stanford.edu)
- - date published: 2024-05-07T20:29:59.197924+00:00
- - user: None
- - tags: []
-
-## Library Hours
- - [https://library-hours.stanford.edu](https://library-hours.stanford.edu)
- - date published: 2024-05-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://library.stanford.edu](https://library.stanford.edu)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## System status : Stanford Libraries
- - [https://library-status.stanford.edu](https://library-status.stanford.edu)
- - date published: 2024-05-07T20:30:15.377119+00:00
- - user: None
- - tags: []
-
-## Lifelong Learning
- - [https://lifelonglearning.stanford.edu](https://lifelonglearning.stanford.edu)
- - date published: 2024-05-07T20:30:43.242040+00:00
- - user: None
- - tags: []
-
-## Mailman Mailing List Tools | University IT
- - [https://mailman.stanford.edu](https://mailman.stanford.edu)
- - date published: 2024-02-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Make a Gift to Stanford
- - [https://makeagift.stanford.edu](https://makeagift.stanford.edu)
- - date published: 2024-05-07T20:28:40.178797+00:00
- - user: None
- - tags: []
-
-## The Metaphysics Research Lab
- - [https://mally.stanford.edu](https://mally.stanford.edu)
- - date published: 2024-06-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford Math Circle Homepage | Math Circle
- - [https://mathcircle.spcs.stanford.edu](https://mathcircle.spcs.stanford.edu)
- - date published: 2024-05-07T20:28:51.703592+00:00
- - user: None
- - tags: []
-
-## Mathematics
- - [https://mathematics.stanford.edu](https://mathematics.stanford.edu)
- - date published: 2024-05-07T20:27:15.292737+00:00
- - user: None
- - tags: []
-
-## Mathematics
- - [https://math.stanford.edu](https://math.stanford.edu)
- - date published: 2024-01-09T03:28:00.216558+00:00
- - user: None
- - tags: []
-
-## Mechanics and Computation
- - [https://mechanics.stanford.edu](https://mechanics.stanford.edu)
- - date published: 2024-02-08T22:04:52.926061+00:00
- - user: None
- - tags: []
-
-## Search Jobs and Careers at Stanford Medicine
- - [https://medcareers.stanford.edu](https://medcareers.stanford.edu)
- - date published: 2024-05-07T20:29:29.404961+00:00
- - user: None
- - tags: []
-
-## Stanford Medical Center Development
- - [https://medicalgiving.stanford.edu](https://medicalgiving.stanford.edu)
- - date published: 2024-04-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Stanford Medicine
- - [https://med.stanford.edu](https://med.stanford.edu)
- - date published: 2023-10-25T18:58:38.098796+00:00
- - user: None
- - tags: []
-
-## Mathematics Research Center
- - [https://mrc.stanford.edu](https://mrc.stanford.edu)
- - date published: 2024-05-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Peay Lab
- - [https://mykophile.sites.stanford.edu](https://mykophile.sites.stanford.edu)
- - date published: 2024-05-07T20:29:35.313506+00:00
- - user: None
- - tags: []
-
-## Peay Lab
- - [https://mykophile.stanford.edu](https://mykophile.stanford.edu)
- - date published: 2024-02-08T17:49:51.490677+00:00
- - user: None
- - tags: []
-
-## My Library Account
- - [https://mylibrary.stanford.edu](https://mylibrary.stanford.edu)
- - date published: 2024-05-07T20:30:10.428354+00:00
- - user: None
- - tags: []
-
-## Welcome | Stanford Center for Professional Development
- - [https://mystanfordconnection.stanford.edu](https://mystanfordconnection.stanford.edu)
- - date published: 2024-05-10T05:42:30.487732+00:00
- - user: None
- - tags: []
-
-## Wu Tsai Neurosciences Institute
- - [https://neuroscience.stanford.edu](https://neuroscience.stanford.edu)
- - date published: 2024-03-26T02:45:55.000209+00:00
- - user: None
- - tags: []
-
-## Stanford News
- - [https://news.stanford.edu](https://news.stanford.edu)
- - date published: 2023-10-25T18:58:41.013599+00:00
- - user: None
- - tags: []
-
-## The Stanford Natural Language Processing Group
- - [https://nlp.stanford.edu](https://nlp.stanford.edu)
- - date published: 2024-04-28T04:06:49.432548+00:00
- - user: None
- - tags: []
-
-## Nondiscrimination Policy | Stanford University Bulletin
- - [https://non-discrimination.stanford.edu](https://non-discrimination.stanford.edu)
- - date published: 2024-05-07T20:25:38.478232+00:00
- - user: None
- - tags: []
-
-## Open Graph Benchmark
- - [https://ogb.stanford.edu](https://ogb.stanford.edu)
- - date published: 2024-05-10T05:02:40.166820+00:00
- - user: None
- - tags: []
-
-## Search - Online King Records Access (OKRA) - The Martin Luther King, Jr. Research and Education Institute
- - [http://okra.stanford.edu](http://okra.stanford.edu)
- - date published: 2024-05-07T20:28:38.974263+00:00
- - user: None
- - tags: []
-
-## Home | Learning for a Lifetime | Stanford Online
- - [https://online.stanford.edu](https://online.stanford.edu)
- - date published: 2024-05-07T20:31:03.543229+00:00
- - user: None
- - tags: []
-
-## The Stanford Open Policing Project
- - [https://openpolicing.stanford.edu](https://openpolicing.stanford.edu)
- - date published: 2024-05-12T07:12:21.236571+00:00
- - user: None
- - tags: []
-
-## Stanford OVAL — Home
- - [http://ovallab.stanford.edu](http://ovallab.stanford.edu)
- - date published: 2024-05-07T20:27:52.277393+00:00
- - user: None
- - tags: []
-
-## Stanford PACS - Scholars. Practitioners. Leaders.
- - [https://pacscenter.stanford.edu](https://pacscenter.stanford.edu)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Families | Stanford University
- - [http://parents.stanford.edu](http://parents.stanford.edu)
- - date published: 2024-05-07T20:30:58.519390+00:00
- - user: None
- - tags: []
-
-## Planning, Compliance, and Administrative Effectiveness
- - [https://planning-humsci.stanford.edu](https://planning-humsci.stanford.edu)
- - date published: 2024-05-07T20:28:18.024256+00:00
- - user: None
- - tags: []
-
-## Stanford Encyclopedia of Philosophy
- - [https://plato.stanford.edu](https://plato.stanford.edu)
- - date published: 2023-10-25T18:58:42.260186+00:00
- - user: None
- - tags: []
-
-## Office of Postdoctoral Affairs | All Postdocs. All the Time.
- - [https://postdocs.stanford.edu](https://postdocs.stanford.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford Pervasive Parallelism Lab
- - [http://ppl.stanford.edu](http://ppl.stanford.edu)
- - date published: 2024-05-07T20:26:11.039005+00:00
- - user: None
- - tags: []
-
-## Stanford Profiles | Stanford University
- - [https://profiles.stanford.edu](https://profiles.stanford.edu)
- - date published: 2024-05-07T20:26:42.824119+00:00
- - user: None
- - tags: []
-
-## Protégé: A free, open-source ontology editor for building intelligent systems
- - [https://protege.stanford.edu](https://protege.stanford.edu)
- - date published: 2023-11-10T17:29:05+00:00
- - user: None
- - tags: []
-
-## Protege Wiki
- - [http://protegewiki.stanford.edu](http://protegewiki.stanford.edu)
- - date published: 2024-05-11T06:56:44.468199+00:00
- - user: None
- - tags: []
-
-## Stanford Digital Repository
- - [https://purl.stanford.edu](https://purl.stanford.edu)
- - date published: 2023-12-20T21:10:16.425792+00:00
- - user: None
- - tags: []
-
-## Recreation and Wellness
- - [https://rec.stanford.edu](https://rec.stanford.edu)
- - date published: 2024-06-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## RegLab – Regulation, Evaluation, and Governance Lab
- - [https://reglab.stanford.edu](https://reglab.stanford.edu)
- - date published: 2024-05-07T20:26:38.059472+00:00
- - user: None
- - tags: []
-
-## RelBench: Relational Deep Learning Benchmark
- - [https://relbench.stanford.edu](https://relbench.stanford.edu)
- - date published: 2023-11-28T17:41:50.517585+00:00
- - user: None
- - tags: []
-
-## Research Administration
- - [https://researchadmin-humsci.stanford.edu](https://researchadmin-humsci.stanford.edu)
- - date published: 2024-05-07T20:28:09.314667+00:00
- - user: None
- - tags: []
-
-## Stanford Artificial Intelligence Laboratory
- - [http://robotics.stanford.edu](http://robotics.stanford.edu)
- - date published: 2024-05-06T14:18:13.958774+00:00
- - user: None
- - tags: []
-
-## Sebastian Thrun – Home
- - [http://robots.stanford.edu](http://robots.stanford.edu)
- - date published: 2023-10-25T18:58:43.127336+00:00
- - user: None
- - tags: []
-
-## Scope | Stanford Medicine's blog - Scope
- - [https://scopeblog.stanford.edu](https://scopeblog.stanford.edu)
- - date published: 2023-10-25T18:58:46.447141+00:00
- - user: None
- - tags: []
-
-## Home | Stanford Center for Professional Development
- - [https://scpd.stanford.edu](https://scpd.stanford.edu)
- - date published: 2024-05-10T05:42:33.589801+00:00
- - user: None
- - tags: []
-
-## SearchWorks catalog : Stanford Libraries
- - [https://searchworks.stanford.edu](https://searchworks.stanford.edu)
- - date published: 2024-04-28T04:01:12.524459+00:00
- - user: None
- - tags: []
-
-## Stanford Computer Security Laboratory
- - [http://seclab.stanford.edu](http://seclab.stanford.edu)
- - date published: 2024-05-11T09:26:26.634824+00:00
- - user: None
- - tags: []
-
-## Streamlit
- - [http://sequoia.stanford.edu](http://sequoia.stanford.edu)
- - date published: 2024-05-07T20:25:57.174366+00:00
- - user: None
- - tags: []
-
-## Stanford Engineering Research Introductions
- - [https://serio.stanford.edu](https://serio.stanford.edu)
- - date published: 2024-05-07T20:25:50.449760+00:00
- - user: None
- - tags: []
-
-## Global Studies
- - [https://sgs.stanford.edu](https://sgs.stanford.edu)
- - date published: 2024-05-07T20:29:39.266936+00:00
- - user: None
- - tags: []
-
-## shape lab - Stanford University
- - [http://shape.stanford.edu](http://shape.stanford.edu)
- - date published: 2024-05-07T20:28:03.440554+00:00
- - user: None
- - tags: []
-
-## SISL
- - [https://sisl.stanford.edu](https://sisl.stanford.edu)
- - date published: 2024-05-07T18:21:10.499838+00:00
- - user: None
- - tags: []
-
-## Office of Digital Accessibility | University IT
- - [https://soap.stanford.edu](https://soap.stanford.edu)
- - date published: 2024-02-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Sonnenburg Lab - Home
- - [https://sonnenburglab.stanford.edu](https://sonnenburglab.stanford.edu)
- - date published: 2024-04-30T06:44:47.569788+00:00
- - user: None
- - tags: []
-
-## Stanford Pre-Collegiate Studies
- - [https://spcs.stanford.edu](https://spcs.stanford.edu)
- - date published: 2024-05-07T20:28:49.474828+00:00
- - user: None
- - tags: []
-
-## Stacks
- - [https://stacks.stanford.edu](https://stacks.stanford.edu)
- - date published: 2023-10-25T18:58:47.620111+00:00
- - user: None
- - tags: []
-
-## Stanford University
- - [https://stanford.edu](https://stanford.edu)
- - date published: 2024-05-07T20:25:42.613680+00:00
- - user: None
- - tags: []
-
-## Stanford Directory
- - [https://stanfordwho.stanford.edu](https://stanfordwho.stanford.edu)
- - date published: 2024-05-07T20:30:46.785624+00:00
- - user: None
- - tags: []
-
-## Home - Stanford Medicine Magazine
- - [https://stanmed.stanford.edu](https://stanmed.stanford.edu)
- - date published: 2023-10-25T18:58:50.836757+00:00
- - user: None
- - tags: []
-
-## Topics in Computing for Data Science
- - [https://stats352.stanford.edu](https://stats352.stanford.edu)
- - date published: 2024-05-07T20:26:34.326988+00:00
- - user: None
- - tags: []
-
-## Student Affairs
- - [http://studentaffairs.stanford.edu](http://studentaffairs.stanford.edu)
- - date published: 2024-05-07T20:30:41.528356+00:00
- - user: None
- - tags: []
-
-## Student Services
- - [https://studentservices.stanford.edu](https://studentservices.stanford.edu)
- - date published: 2024-05-07T20:26:41.205717+00:00
- - user: None
- - tags: []
-
-## Home - Stanford Technology Ventures Program
- - [https://stvp.stanford.edu](https://stvp.stanford.edu)
- - date published: 2021-08-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## SUMaC Landing Page | Stanford Pre-Collegiate Studies
- - [https://sumac.spcs.stanford.edu](https://sumac.spcs.stanford.edu)
- - date published: 2024-05-07T20:28:46.734332+00:00
- - user: None
- - tags: []
-
-## SUMO - Stanford University Mathematical Organization
- - [http://sumo.stanford.edu](http://sumo.stanford.edu)
- - date published: 2024-04-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford Doerr School of Sustainability
- - [https://sustainability.stanford.edu](https://sustainability.stanford.edu)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford Vision and Learning Lab (SVL)
- - [http://svl.stanford.edu](http://svl.stanford.edu)
- - date published: 2024-04-28T04:07:30.809659+00:00
- - user: None
- - tags: []
-
-## University Communications
- - [https://ucomm.stanford.edu](https://ucomm.stanford.edu)
- - date published: 2024-05-07T20:29:43.038780+00:00
- - user: None
- - tags: []
-
-## University IT
- - [https://uit.stanford.edu](https://uit.stanford.edu)
- - date published: 2024-04-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Undergrad
- - [https://undergrad.stanford.edu](https://undergrad.stanford.edu)
- - date published: 2024-05-07T20:30:45.218714+00:00
- - user: None
- - tags: []
-
-## Mathematics
- - [http://virtualmath1.stanford.edu](http://virtualmath1.stanford.edu)
- - date published: 2024-04-30T07:48:23.930819+00:00
- - user: None
- - tags: []
-
-## Stanford Computer Vision Lab
- - [http://vision.stanford.edu](http://vision.stanford.edu)
- - date published: 2024-04-28T04:08:09.320253+00:00
- - user: None
- - tags: []
-
-## Visitor Information : Stanford University
- - [https://visit.stanford.edu](https://visit.stanford.edu)
- - date published: 2024-05-07T20:25:14.389278+00:00
- - user: None
- - tags: []
-
-## Office of the Vice Provost for Graduate Education
- - [https://vpge.stanford.edu](https://vpge.stanford.edu)
- - date published: 2024-05-07T20:30:48.488389+00:00
- - user: None
- - tags: []
-
-## Accreditation
- - [https://wasc.stanford.edu](https://wasc.stanford.edu)
- - date published: 2024-05-07T20:30:57.549717+00:00
- - user: None
- - tags: []
-
-## Stanford Snyder Lab, Genetics | Precision Medicine,
- - [http://wearables.stanford.edu](http://wearables.stanford.edu)
- - date published: 2024-05-08T10:28:43.358027+00:00
- - user: None
- - tags: []
-
-## Stanford University
- - [https://web.stanford.edu](https://web.stanford.edu)
- - date published: 2023-10-25T11:23:29.593797+00:00
- - user: None
- - tags: ['university']
-
-## Home | Wehab Lab - Stanford
- - [http://wehab.stanford.edu](http://wehab.stanford.edu)
- - date published: 2024-05-07T20:27:42.889052+00:00
- - user: None
- - tags: []
-
-## Well MD
- - [http://wellmd.stanford.edu](http://wellmd.stanford.edu)
- - date published: 2024-02-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## main | wilmap
- - [https://wilmap.law.stanford.edu](https://wilmap.law.stanford.edu)
- - date published: 2024-05-07T20:26:32.714479+00:00
- - user: None
- - tags: []
-
-## main | wilmap
- - [https://wilmap.stanford.edu](https://wilmap.stanford.edu)
- - date published: 2024-05-07T09:48:53.463655+00:00
- - user: None
- - tags: []
-
-## SLAC National Accelerator Laboratory | Bold people. Visionary science. Real impact.
- - [https://www6.slac.stanford.edu](https://www6.slac.stanford.edu)
- - date published: 2024-05-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://www-cs-faculty.stanford.edu](https://www-cs-faculty.stanford.edu)
- - date published: 2023-10-25T11:23:38.340991+00:00
- - user: None
- - tags: ['computer science', 'university']
-
-## Center for the Study of Language and Information
- - [https://www-csli.stanford.edu](https://www-csli.stanford.edu)
- - date published: 2024-05-07T20:26:36.420705+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [http://www-cs.stanford.edu](http://www-cs.stanford.edu)
- - date published: 2024-06-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://www.cs.stanford.edu](https://www.cs.stanford.edu)
- - date published: 2024-06-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Student Information
- - [http://www-cs-students.stanford.edu](http://www-cs-students.stanford.edu)
- - date published: 2024-03-24T15:03:46.903814+00:00
- - user: None
- - tags: []
-
-## Formal Reasoning Group
- - [https://www-formal.stanford.edu](https://www-formal.stanford.edu)
- - date published: 2023-10-25T18:59:01.363669+00:00
- - user: None
- - tags: []
-
-## Computer Graphics at Stanford University
- - [http://www.graphics.stanford.edu](http://www.graphics.stanford.edu)
- - date published: 2024-04-29T06:31:07.804860+00:00
- - user: None
- - tags: []
-
-## Stanford Graduate School of Business
- - [https://www.gsb.stanford.edu](https://www.gsb.stanford.edu)
- - date published: 2023-10-25T18:59:13.500246+00:00
- - user: None
- - tags: []
-
-## Home | Stanford Law School
- - [http://www.law.stanford.edu](http://www.law.stanford.edu)
- - date published: 2024-05-07T20:31:16.731405+00:00
- - user: None
- - tags: []
-
-## Stanford Secure Computer Systems Group
- - [https://www.scs.stanford.edu](https://www.scs.stanford.edu)
- - date published: 2023-10-25T18:59:15.431486+00:00
- - user: None
- - tags: []
-
-## Stanford University
- - [https://www.stanford.edu](https://www.stanford.edu)
- - date published: 2024-05-01T07:16:50.400332+00:00
- - user: None
- - tags: []
-
-## Department of Statistics
- - [http://www-stat.stanford.edu](http://www-stat.stanford.edu)
- - date published: 2024-05-07T15:26:10.370328+00:00
- - user: None
- - tags: []
-
-## Home
- - [http://www-vlsi.stanford.edu](http://www-vlsi.stanford.edu)
- - date published: 2024-05-07T20:25:58.546470+00:00
- - user: None
- - tags: []
-
-## Alumni Portal - Stevens Institute of Technology
- - [https://connect.stevens.edu](https://connect.stevens.edu)
- - date published: 2024-05-07T20:31:40.201309+00:00
- - user: None
- - tags: []
-
-## Stevens Institute of Technology
- - [https://ducklink.stevens.edu](https://ducklink.stevens.edu)
- - date published: 2024-05-07T20:31:35.443162+00:00
- - user: None
- - tags: []
-
-## Research Guides: Home: Home
- - [https://library.stevens.edu](https://library.stevens.edu)
- - date published: 2024-05-07T20:31:33.640131+00:00
- - user: None
- - tags: []
-
-## Stevens Institute of Technology - Sign In
- - [https://login.stevens.edu](https://login.stevens.edu)
- - date published: 2024-05-07T20:31:38.475638+00:00
- - user: None
- - tags: []
-
-## Stevens Institute of Technology
- - [https://www.stevens.edu](https://www.stevens.edu)
- - date published: 2023-11-02T13:02:30.527891+00:00
- - user: None
- - tags: []
-
-## St. John's Law Scholarship Repository | St. John's University School of Law Research
- - [https://scholarship.law.stjohns.edu](https://scholarship.law.stjohns.edu)
- - date published: 2024-03-01T13:48:16.671327+00:00
- - user: None
- - tags: []
-
-## Turn Passion into Purpose at St. John's University | New York, NY
- - [https://www.stjohns.edu](https://www.stjohns.edu)
- - date published: 2024-05-08T12:19:09.769369+00:00
- - user: None
- - tags: []
-
-## Home - St. John's College
- - [https://community.stjohnscollege.edu](https://community.stjohnscollege.edu)
- - date published: 2024-05-07T20:24:54.452245+00:00
- - user: None
- - tags: []
-
-## St. Lawrence University
- - [http://www.stlawu.edu](http://www.stlawu.edu)
- - date published: 2024-05-08T10:52:04.996530+00:00
- - user: None
- - tags: []
-
-## A House of Priestly Formation and Theological Education | St. Mary Seminary
- - [https://stmarysem.edu](https://stmarysem.edu)
- - date published: 2024-02-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Beyond IT | Division of Information Technology
- - [https://it.stonybrook.edu](https://it.stonybrook.edu)
- - date published: 2024-04-29T04:27:23.123828+00:00
- - user: None
- - tags: []
-
-## lcpc2020.cs.stonybrook.edu
- - [https://lcpc2020.cs.stonybrook.edu](https://lcpc2020.cs.stonybrook.edu)
- - date published: 2024-05-07T21:17:03.219784+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.stsci.edu](https://www.stsci.edu)
- - date published: 2024-05-08T07:32:42.863208+00:00
- - user: None
- - tags: []
-
-## News and Success Stories | University of St. Thomas Houston
- - [https://news.stthom.edu](https://news.stthom.edu)
- - date published: 2024-02-08T17:00:17.906342+00:00
- - user: None
- - tags: []
-
-## University of St. Thomas | Catholic University Houston, Tx
- - [https://www.stthom.edu](https://www.stthom.edu)
- - date published: 2024-05-07T20:32:15.546670+00:00
- - user: None
- - tags: []
-
-## School of Education | University of St. Thomas – Minnesota
- - [https://education.stthomas.edu](https://education.stthomas.edu)
- - date published: 2024-04-28T06:23:18.311929+00:00
- - user: None
- - tags: []
-
-## Suffolk University in Boston - Suffolk University
- - [https://www.suffolk.edu](https://www.suffolk.edu)
- - date published: 2024-05-02T07:57:05.260421+00:00
- - user: None
- - tags: []
-
-## Swarthmore College: Campus Map
- - [https://campusmap.swarthmore.edu](https://campusmap.swarthmore.edu)
- - date published: 2024-05-07T20:37:34.625351+00:00
- - user: None
- - tags: []
-
-## Swarthmore College - Acalog ACMS™
- - [http://catalog.swarthmore.edu](http://catalog.swarthmore.edu)
- - date published: 2024-05-07T20:37:39.743064+00:00
- - user: None
- - tags: []
-
-## classifieds.swarthmore.edu
- - [https://classifieds.swarthmore.edu](https://classifieds.swarthmore.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Giving
- - [https://lifechanging.swarthmore.edu](https://lifechanging.swarthmore.edu)
- - date published: 2020-10-13T18:57:53+00:00
- - user: None
- - tags: []
-
-## Swarthmore Campus & Community Store
- - [http://store.swarthmore.edu](http://store.swarthmore.edu)
- - date published: 2024-05-07T20:37:28.387822+00:00
- - user: None
- - tags: []
-
-## Swat Central - Swarthmore College Calendar
- - [https://swatcentral.swarthmore.edu](https://swatcentral.swarthmore.edu)
- - date published: 2024-05-07T20:37:20.069857+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://www.cs.swarthmore.edu](https://www.cs.swarthmore.edu)
- - date published: 2016-06-28T19:44:24+00:00
- - user: None
- - tags: []
-
-## Swarthmore Home :: Swarthmore College
- - [https://www.swarthmore.edu](https://www.swarthmore.edu)
- - date published: 2024-05-07T20:32:18.035941+00:00
- - user: None
- - tags: []
-
-## Home - Campus Framework – Syracuse University
- - [https://campusframework.syr.edu](https://campusframework.syr.edu)
- - date published: 2024-02-08T22:03:40.531573+00:00
- - user: None
- - tags: []
-
-## Now Loading...
- - [http://directory.syr.edu](http://directory.syr.edu)
- - date published: 2024-05-07T20:37:52.638997+00:00
- - user: None
- - tags: []
-
-## Middle States Commission on Higher Education
- - [http://middlestates.syr.edu](http://middlestates.syr.edu)
- - date published: 2024-05-07T20:37:45.595953+00:00
- - user: None
- - tags: []
-
-## Center for Autism Research in Electrophysiology (CARE) Lab - CARE Lab – Syracuse University
- - [https://nrusso.expressions.syr.edu](https://nrusso.expressions.syr.edu)
- - date published: 2024-02-08T22:51:18.069903+00:00
- - user: None
- - tags: []
-
-## This site is not configured
- - [https://secure.syr.edu](https://secure.syr.edu)
- - date published: 2024-05-07T20:37:46.887087+00:00
- - user: None
- - tags: []
-
-## Welcome - Office of Academic Affairs – Syracuse University
- - [https://academicaffairs.syracuse.edu](https://academicaffairs.syracuse.edu)
- - date published: 2024-05-07T20:37:49.509620+00:00
- - user: None
- - tags: []
-
-## MinIO Browser
- - [https://fastly.cdn.syracuse.edu](https://fastly.cdn.syracuse.edu)
- - date published: 2024-05-07T20:37:50.641019+00:00
- - user: None
- - tags: []
-
-## Syracuse University
- - [https://www.syracuse.edu](https://www.syracuse.edu)
- - date published: 2024-05-07T20:37:42.279013+00:00
- - user: None
- - tags: []
-
-## Texas A&M University Events Calendar
- - [https://calendar.tamu.edu](https://calendar.tamu.edu)
- - date published: 2024-05-07T20:38:00.823719+00:00
- - user: None
- - tags: []
-
-## Technology Services - Student Affairs : Home Page
- - [http://doit.tamu.edu](http://doit.tamu.edu)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Engineering People Site
- - [http://faculty.cs.tamu.edu](http://faculty.cs.tamu.edu)
- - date published: 2024-05-07T18:48:23.450264+00:00
- - user: None
- - tags: []
-
-## IT Accessibility
- - [https://itaccessibility.tamu.edu](https://itaccessibility.tamu.edu)
- - date published: 2024-03-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Engineering People Site
- - [https://people.engr.tamu.edu](https://people.engr.tamu.edu)
- - date published: 2023-10-25T18:59:20.825012+00:00
- - user: None
- - tags: []
-
-## Ring Dance – Texas A&M University
- - [https://ringdance.tamu.edu](https://ringdance.tamu.edu)
- - date published: 2024-02-08T16:48:50.209704+00:00
- - user: None
- - tags: []
-
-## Texas A&M University | Texas A&M University
- - [https://tamu.edu](https://tamu.edu)
- - date published: 2024-05-07T20:38:05.484390+00:00
- - user: None
- - tags: []
-
-## Texas A&M Today - News from Texas A&M University
- - [https://today.tamu.edu](https://today.tamu.edu)
- - date published: 2023-10-25T18:59:22.810212+00:00
- - user: None
- - tags: []
-
-## Department of Mathematics, Texas A&amp;M University
- - [https://www.math.tamu.edu](https://www.math.tamu.edu)
- - date published: 2024-04-30T02:19:51.001899+00:00
- - user: None
- - tags: []
-
-## Texas A&M University | Texas A&M University
- - [https://www.tamu.edu](https://www.tamu.edu)
- - date published: 2024-05-07T20:38:07.144202+00:00
- - user: None
- - tags: []
-
-## Home - The Texas A&M University System
- - [https://www.tamus.edu](https://www.tamus.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## TCNJ | The College of New Jersey
- - [http://www.tcnj.edu](http://www.tcnj.edu)
- - date published: 2024-05-12T06:07:57.388606+00:00
- - user: None
- - tags: []
-
-## Open Earable
- - [https://open-earable.teco.edu](https://open-earable.teco.edu)
- - date published: 2023-10-25T18:59:23.641652+00:00
- - user: None
- - tags: []
-
-## Department of Computer & Information Sciences | College of Science and Technology
- - [https://cis.temple.edu](https://cis.temple.edu)
- - date published: 2023-10-25T18:59:25.283156+00:00
- - user: None
- - tags: []
-
-## College of Science and Technology
- - [https://cst.temple.edu](https://cst.temple.edu)
- - date published: 2024-05-07T20:38:29.600991+00:00
- - user: None
- - tags: []
-
-## Information Technology Services
- - [https://its.temple.edu](https://its.temple.edu)
- - date published: 2024-05-01T06:30:18.131359+00:00
- - user: None
- - tags: []
-
-## Search
- - [https://search.temple.edu](https://search.temple.edu)
- - date published: 2024-05-07T20:38:26.986342+00:00
- - user: None
- - tags: []
-
-## Temple University
- - [https://www.temple.edu](https://www.temple.edu)
- - date published: 2024-05-01T06:01:32.493734+00:00
- - user: None
- - tags: []
-
-## The University of Tennessee System
- - [http://tennessee.edu](http://tennessee.edu)
- - date published: 2024-04-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tilburg University: Responsible and Enterprising Thinkers | Tilburg University
- - [https://www.tilburguniversity.edu](https://www.tilburguniversity.edu)
- - date published: 2024-05-04T07:17:20.074869+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science, University of Toronto
- - [https://web.cs.toronto.edu](https://web.cs.toronto.edu)
- - date published: 2024-05-07T20:38:31.367334+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science, University of Toronto
- - [https://www.cs.toronto.edu](https://www.cs.toronto.edu)
- - date published: 2023-10-25T18:59:33.196200+00:00
- - user: None
- - tags: []
-
-## Home | Dynamic Graphics Project
- - [https://www.dgp.toronto.edu](https://www.dgp.toronto.edu)
- - date published: 2013-06-12T13:33:58+00:00
- - user: None
- - tags: []
-
-## The Computer Engineering Research Group
- - [http://www.eecg.toronto.edu](http://www.eecg.toronto.edu)
- - date published: 2024-05-07T22:30:22.298565+00:00
- - user: None
- - tags: []
-
-## Department of Mathematics | University of Toronto
- - [http://www.math.toronto.edu](http://www.math.toronto.edu)
- - date published: 2024-05-10T06:24:33.776589+00:00
- - user: None
- - tags: []
-
-## Perception and Learning Systems, PALS @ TTIC
- - [https://pals.ttic.edu](https://pals.ttic.edu)
- - date published: 2024-04-30T03:57:29.826420+00:00
- - user: None
- - tags: []
-
-## TTIC
- - [https://www.ttic.edu](https://www.ttic.edu)
- - date published: 2024-04-28T04:06:55.247231+00:00
- - user: None
- - tags: []
-
-## Home | Access Tufts
- - [https://access.tufts.edu](https://access.tufts.edu)
- - date published: 2024-05-07T20:38:46.446850+00:00
- - user: None
- - tags: []
-
-## Tufts University
- - [http://admissions.tufts.edu](http://admissions.tufts.edu)
- - date published: 2024-05-07T20:39:11.355750+00:00
- - user: None
- - tags: []
-
-## Graduate School of Arts and Sciences and the School of Engineering
- - [https://asegrad.tufts.edu](https://asegrad.tufts.edu)
- - date published: 2024-05-07T20:38:53.277004+00:00
- - user: None
- - tags: []
-
-## Home | Department of Chemistry
- - [http://chem.tufts.edu](http://chem.tufts.edu)
- - date published: 2024-05-07T15:55:26.989351+00:00
- - user: None
- - tags: []
-
-## Homepage | School of Engineering
- - [https://engineering.tufts.edu](https://engineering.tufts.edu)
- - date published: 2024-05-07T20:38:51.388598+00:00
- - user: None
- - tags: []
-
-## Events | Tufts University
- - [https://events.tufts.edu](https://events.tufts.edu)
- - date published: 2024-05-07T20:38:42.621203+00:00
- - user: None
- - tags: []
-
-## Graduate School of Arts and Sciences and the School of Engineering
- - [https://gradase.admissions.tufts.edu](https://gradase.admissions.tufts.edu)
- - date published: 2024-05-07T20:39:00.954490+00:00
- - user: None
- - tags: []
-
-## Tufts University Careers
- - [https://jobs.tufts.edu](https://jobs.tufts.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Default Location
- - [https://m.tufts.edu](https://m.tufts.edu)
- - date published: 2024-05-07T20:38:55.733489+00:00
- - user: None
- - tags: []
-
-## Welcome to Tufts Now
- - [https://now.tufts.edu](https://now.tufts.edu)
- - date published: 2024-02-24T18:07:27.412563+00:00
- - user: None
- - tags: []
-
-## Home - Office of Equal Opportunity
- - [https://oeo.tufts.edu](https://oeo.tufts.edu)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tufts Engineering Online Programs
- - [https://onlinesoe.tufts.edu](https://onlinesoe.tufts.edu)
- - date published: 2024-04-10T16:23:52+00:00
- - user: None
- - tags: []
-
-## sites.tufts.edu - Tufts Self-Serve Blogs and Websites.
- - [https://sites.tufts.edu](https://sites.tufts.edu)
- - date published: 2024-05-09T05:25:22.775054+00:00
- - user: None
- - tags: []
-
-## Homepage | AS&E Students
- - [https://students.tufts.edu](https://students.tufts.edu)
- - date published: 2024-05-07T20:38:57.562657+00:00
- - user: None
- - tags: []
-
-## Homepage | Jonathan M. Tisch College of Civic Life
- - [https://tischcollege.tufts.edu](https://tischcollege.tufts.edu)
- - date published: 2024-05-07T20:39:06.597708+00:00
- - user: None
- - tags: []
-
-## Tufts University
- - [https://ugrad.admissions.tufts.edu](https://ugrad.admissions.tufts.edu)
- - date published: 2024-05-07T20:39:04.518787+00:00
- - user: None
- - tags: []
-
-## Homepage | Department of Computer Science
- - [https://www.cs.tufts.edu](https://www.cs.tufts.edu)
- - date published: 2023-10-25T18:59:37.817720+00:00
- - user: None
- - tags: []
-
-## Perseus Digital Library
- - [http://www.perseus.tufts.edu](http://www.perseus.tufts.edu)
- - date published: 2024-01-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home Page
- - [https://www.tufts.edu](https://www.tufts.edu)
- - date published: 2024-05-07T20:38:44.575913+00:00
- - user: None
- - tags: []
-
-## Admission | Tulane Office of Admission
- - [http://admission.tulane.edu](http://admission.tulane.edu)
- - date published: 2024-05-07T20:39:29.183688+00:00
- - user: None
- - tags: []
-
-## Home Page
- - [https://alumni.tulane.edu](https://alumni.tulane.edu)
- - date published: 2024-05-07T20:39:24.127028+00:00
- - user: None
- - tags: []
-
-## Tulane School of Architecture
- - [http://architecture.tulane.edu](http://architecture.tulane.edu)
- - date published: 2024-05-08T11:44:02.334686+00:00
- - user: None
- - tags: []
-
-## Events at Tulane | Tulane University Events
- - [https://events.tulane.edu](https://events.tulane.edu)
- - date published: 2024-05-07T20:39:25.552194+00:00
- - user: None
- - tags: []
-
-## Home - Gibson Online
- - [https://gibson.tulane.edu](https://gibson.tulane.edu)
- - date published: 2024-05-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home Page
- - [http://giving.tulane.edu](http://giving.tulane.edu)
- - date published: 2024-05-07T20:39:38.576831+00:00
- - user: None
- - tags: []
-
-## Tulane Office of Human Resources & Institutional Equity | Tulane University HR
- - [http://hr.tulane.edu](http://hr.tulane.edu)
- - date published: 2024-05-07T20:39:35.202685+00:00
- - user: None
- - tags: []
-
-## School of Liberal Arts at Tulane University
- - [https://liberalarts.tulane.edu](https://liberalarts.tulane.edu)
- - date published: 2024-05-01T03:32:44.827662+00:00
- - user: None
- - tags: []
-
-## Tulane News
- - [https://news.tulane.edu](https://news.tulane.edu)
- - date published: 2023-10-25T18:59:42.065237+00:00
- - user: None
- - tags: []
-
-## Home | Tulane University
- - [https://tulane.edu](https://tulane.edu)
- - date published: 2024-05-07T20:39:13.280356+00:00
- - user: None
- - tags: []
-
-## Spring 2024 | Tulanian
- - [https://tulanian.tulane.edu](https://tulanian.tulane.edu)
- - date published: 2024-05-07T20:39:20.335508+00:00
- - user: None
- - tags: []
-
-## Home | Tuskegee University
- - [https://www.tuskegee.edu](https://www.tuskegee.edu)
- - date published: 2024-05-08T11:43:25.937647+00:00
- - user: None
- - tags: []
-
-## kcsmalley@ua.edu –  | The University of Alabama
- - [https://accessibility.ua.edu](https://accessibility.ua.edu)
- - date published: 2024-05-07T20:41:05.062467+00:00
- - user: None
- - tags: []
-
-## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
- - [http://accessibleweb.as.ua.edu](http://accessibleweb.as.ua.edu)
- - date published: 2024-05-07T20:39:39.735712+00:00
- - user: None
- - tags: []
-
-## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
- - [http://as.ua.edu](http://as.ua.edu)
- - date published: 2024-05-07T20:40:15.778686+00:00
- - user: None
- - tags: []
-
-## The University of Alabama Fall 2021–Summer 2022 Academic Catalog | University of Alabama
- - [http://catalogs.ua.edu](http://catalogs.ua.edu)
- - date published: 2024-05-07T20:40:08.577119+00:00
- - user: None
- - tags: []
-
-## The University of Alabama Fall 2021–Summer 2022 Academic Catalog | University of Alabama
- - [https://catalog.ua.edu](https://catalog.ua.edu)
- - date published: 2024-05-07T20:40:54.119330+00:00
- - user: None
- - tags: []
-
-## Compliance, Ethics, and Regulatory Affairs – Compliance website | The University of Alabama
- - [http://compliance.ua.edu](http://compliance.ua.edu)
- - date published: 2024-05-07T20:40:52.548818+00:00
- - user: None
- - tags: []
-
-## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
- - [https://crimsonhistorical.ua.edu](https://crimsonhistorical.ua.edu)
- - date published: 2024-02-08T18:16:42.939005+00:00
- - user: None
- - tags: []
-
-## CAS - Central Authentication Service
- - [http://degreeworks.ua.edu](http://degreeworks.ua.edu)
- - date published: 2024-05-07T20:40:25.349326+00:00
- - user: None
- - tags: []
-
-## eop.ua.edu – Equal Opportunity | The University of Alabama
- - [https://eop.ua.edu](https://eop.ua.edu)
- - date published: 2024-02-08T22:03:09.704384+00:00
- - user: None
- - tags: []
-
-## Advancement  –  | The University of Alabama
- - [https://giving.ua.edu](https://giving.ua.edu)
- - date published: 2024-05-07T20:41:03.467559+00:00
- - user: None
- - tags: []
-
-## Admissions
- - [http://gobama.ua.edu](http://gobama.ua.edu)
- - date published: 2024-05-07T20:40:35.865786+00:00
- - user: None
- - tags: []
-
-## Homepage - Graduate School | The University of Alabama
- - [http://graduate.ua.edu](http://graduate.ua.edu)
- - date published: 2024-05-07T20:40:31.664983+00:00
- - user: None
- - tags: []
-
-## Informal Resolution – Informal Resolution | The University of Alabama
- - [https://informalresolution.ua.edu](https://informalresolution.ua.edu)
- - date published: 2024-05-07T20:40:56.021566+00:00
- - user: None
- - tags: []
-
-## Careers at University of Alabama
- - [http://jobs.ua.edu](http://jobs.ua.edu)
- - date published: 2024-05-07T20:40:27.590554+00:00
- - user: None
- - tags: []
-
-## CAS - Central Authentication Service
- - [https://mybama.ua.edu](https://mybama.ua.edu)
- - date published: 2024-05-07T20:41:00.894020+00:00
- - user: None
- - tags: []
-
-## UA News Center
- - [https://news.ua.edu](https://news.ua.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## ready.ua.edu – Website for The University of Alabama Office of Emergency Preparedness | The University of Alabama
- - [http://prepare.ua.edu](http://prepare.ua.edu)
- - date published: 2024-05-07T20:40:22.428032+00:00
- - user: None
- - tags: []
-
-## The Office of the University Registrar – The University of Alabama – Information about areas managed by the Office of the University Registrar at the University of Alabama | The University of Alabama
- - [http://registrar.ua.edu](http://registrar.ua.edu)
- - date published: 2024-05-07T20:40:12.489693+00:00
- - user: None
- - tags: []
-
-## The University of Alabama
- - [https://ua.edu](https://ua.edu)
- - date published: 2024-05-07T20:40:49.958248+00:00
- - user: None
- - tags: []
-
-## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
- - [http://www.as.ua.edu](http://www.as.ua.edu)
- - date published: 2024-05-07T20:40:33.527087+00:00
- - user: None
- - tags: []
-
-## The University of Alabama
- - [https://www.ua.edu](https://www.ua.edu)
- - date published: 2024-05-07T20:40:37.602622+00:00
- - user: None
- - tags: []
-
-## Service Portal - UAB Service Portal
- - [http://askit.uab.edu](http://askit.uab.edu)
- - date published: 2016-08-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## UAB Events Calendar | The University of Alabama at Birmingham
- - [https://calendar.uab.edu](https://calendar.uab.edu)
- - date published: 2024-05-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## University of Alabama at Birmingham < Catalog | The University of Alabama at Birmingham
- - [https://catalog.uab.edu](https://catalog.uab.edu)
- - date published: 2024-05-11T07:33:05.955583+00:00
- - user: None
- - tags: []
-
-## GoLink and UTM Generator - Toolkit
- - [https://go.uab.edu](https://go.uab.edu)
- - date published: 2024-05-11T07:33:02.111033+00:00
- - user: None
- - tags: []
-
-## Home - Libraries
- - [https://library.uab.edu](https://library.uab.edu)
- - date published: 2024-05-11T07:32:26.037982+00:00
- - user: None
- - tags: []
-
-## UAB Central Authentication System - CAS – Central Authentication Service
- - [https://mail.uab.edu](https://mail.uab.edu)
- - date published: 2024-05-11T07:32:51.308294+00:00
- - user: None
- - tags: []
-
-## UAB Portal
- - [https://my.uab.edu](https://my.uab.edu)
- - date published: 2024-05-11T07:32:39.560867+00:00
- - user: None
- - tags: []
-
-## Welcome!
- - [https://padlock.idm.uab.edu](https://padlock.idm.uab.edu)
- - date published: 2024-05-11T07:32:52.639967+00:00
- - user: None
- - tags: []
-
-## The University of Alabama at Birmingham | UAB
- - [https://www.uab.edu](https://www.uab.edu)
- - date published: 2024-03-17T17:11:05.424790+00:00
- - user: None
- - tags: []
-
-## Welcome < University of Alaska Fairbanks
- - [https://catalog.uaf.edu](https://catalog.uaf.edu)
- - date published: 2024-05-07T20:41:56.595731+00:00
- - user: None
- - tags: []
-
-## UAF eCampus | Distance Education, Online Degree Programs
- - [https://ecampus.uaf.edu](https://ecampus.uaf.edu)
- - date published: 2024-05-07T20:41:59.600170+00:00
- - user: None
- - tags: []
-
-## Guides: Elmer E. Rasmuson Library: Home
- - [https://library.uaf.edu](https://library.uaf.edu)
- - date published: 2024-05-07T20:42:02.630962+00:00
- - user: None
- - tags: []
-
-## Historical Sea Ice Atlas
- - [http://seaiceatlas.snap.uaf.edu](http://seaiceatlas.snap.uaf.edu)
- - date published: 2024-05-06T23:32:58.174081+00:00
- - user: None
- - tags: []
-
-## UAF Home | University of Alaska Fairbanks
- - [https://uaf.edu](https://uaf.edu)
- - date published: 2024-05-07T20:41:16.792968+00:00
- - user: None
- - tags: []
-
-## UAF Home | University of Alaska Fairbanks
- - [https://www.uaf.edu](https://www.uaf.edu)
- - date published: 2024-01-22T18:01:55.229298+00:00
- - user: None
- - tags: []
-
-## IdeaExchange@UAkron
- - [https://ideaexchange.uakron.edu](https://ideaexchange.uakron.edu)
- - date published: 2024-05-06T18:31:01.062758+00:00
- - user: None
- - tags: []
-
-## University of Arkansas at Little Rock
- - [http://ualr.edu](http://ualr.edu)
- - date published: 2024-05-09T06:34:25.789119+00:00
- - user: None
- - tags: []
-
-## University of Arkansas for Medical Sciences (UAMS)
- - [https://www.uams.edu](https://www.uams.edu)
- - date published: 2024-05-04T10:01:45.943536+00:00
- - user: None
- - tags: []
-
-## Fay Jones School of Architecture and Design | University of Arkansas
- - [http://fayjones.uark.edu](http://fayjones.uark.edu)
- - date published: 2024-05-08T11:43:35.793457+00:00
- - user: None
- - tags: []
-
-## University of the Arts
- - [https://www.uarts.edu](https://www.uarts.edu)
- - date published: 2024-05-08T05:03:49.738636+00:00
- - user: None
- - tags: []
-
-## University of Alabama System
- - [https://www.uasystem.edu](https://www.uasystem.edu)
- - date published: 2024-05-11T07:33:09.964448+00:00
- - user: None
- - tags: []
-
-## UB - Universitat de Barcelona - UB
- - [http://www.ub.edu](http://www.ub.edu)
- - date published: 2024-05-08T08:49:51.683500+00:00
- - user: None
- - tags: []
-
-## Undergraduate Admissions
- - [https://admissions.uc.edu](https://admissions.uc.edu)
- - date published: 2024-05-07T20:42:16.163979+00:00
- - user: None
- - tags: []
-
-## UC Alumni Association
- - [https://alumni.uc.edu](https://alumni.uc.edu)
- - date published: 2024-05-07T20:42:10.398358+00:00
- - user: None
- - tags: []
-
-## University Of Cincinnati
- - [https://bearcatportal.uc.edu](https://bearcatportal.uc.edu)
- - date published: 2024-05-07T20:42:39.878095+00:00
- - user: None
- - tags: []
-
-## University Of Cincinnati
- - [https://canopy.uc.edu](https://canopy.uc.edu)
- - date published: 2024-05-07T20:42:47.246742+00:00
- - user: None
- - tags: []
-
-## University of Cincinnati
- - [https://catalyst.uc.edu](https://catalyst.uc.edu)
- - date published: 2024-05-07T20:42:54.023882+00:00
- - user: None
- - tags: []
-
-## Digital Collections & Exhibits
- - [http://digproj.libraries.uc.edu](http://digproj.libraries.uc.edu)
- - date published: 2024-04-29T02:57:13.321021+00:00
- - user: None
- - tags: []
-
-## Give to UC and UC Health - Primary Donation Form - University of Cincinnati
- - [https://giveto.uc.edu](https://giveto.uc.edu)
- - date published: 2024-05-07T20:42:13.017814+00:00
- - user: None
- - tags: []
-
-## 1819 Innovation Hub
- - [https://innovation.uc.edu](https://innovation.uc.edu)
- - date published: 2024-05-07T20:42:42.312411+00:00
- - user: None
- - tags: []
-
-## University of Cincinnati
- - [https://mail.uc.edu](https://mail.uc.edu)
- - date published: 2024-05-07T20:42:24.723425+00:00
- - user: None
- - tags: []
-
-## Enrollment Services
- - [https://onestop.uc.edu](https://onestop.uc.edu)
- - date published: 2024-05-07T20:42:50.103480+00:00
- - user: None
- - tags: []
-
-## Template
- - [https://ucdirectory.uc.edu](https://ucdirectory.uc.edu)
- - date published: 2024-05-07T20:42:18.256515+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.uc.edu](https://www.uc.edu)
- - date published: 2023-11-03T10:54:50.239840+00:00
- - user: None
- - tags: []
-
-## Home Page | Center for Science Education
- - [https://scied.ucar.edu](https://scied.ucar.edu)
- - date published: 2024-05-01T08:10:31.247681+00:00
- - user: None
- - tags: []
-
-## Blogs | SEA
- - [http://sea.ucar.edu](http://sea.ucar.edu)
- - date published: 2024-05-07T09:19:58.305587+00:00
- - user: None
- - tags: []
-
-## Home | staff.ucar.edu
- - [https://staff.ucar.edu](https://staff.ucar.edu)
- - date published: 2024-04-29T06:29:09.381330+00:00
- - user: None
- - tags: []
-
-## Home | Computational and Information Systems Lab
- - [https://www.cisl.ucar.edu](https://www.cisl.ucar.edu)
- - date published: 2024-05-04T05:59:36.587074+00:00
- - user: None
- - tags: []
-
-## Home | UCCS
- - [https://www.uccs.edu](https://www.uccs.edu)
- - date published: 2024-04-30T04:01:58.740318+00:00
- - user: None
- - tags: []
-
-## Academic Senate
- - [http://academicsenate.ucdavis.edu](http://academicsenate.ucdavis.edu)
- - date published: 2024-05-07T20:45:27.719908+00:00
- - user: None
- - tags: []
-
-## Alumni Resources
- - [https://alumni.engineering.ucdavis.edu](https://alumni.engineering.ucdavis.edu)
- - date published: 2024-05-07T20:44:13.873439+00:00
- - user: None
- - tags: []
-
-## UC Davis Alumni and Affiliate Relations
- - [https://alumni.ucdavis.edu](https://alumni.ucdavis.edu)
- - date published: 2024-05-07T20:44:55.042173+00:00
- - user: None
- - tags: []
-
-## CAS – Central Authentication Service
- - [https://appointments.ucdavis.edu](https://appointments.ucdavis.edu)
- - date published: 2024-05-07T20:43:29.415076+00:00
- - user: None
- - tags: []
-
-## UC Davis: Campus Map
- - [http://campusmap.ucdavis.edu](http://campusmap.ucdavis.edu)
- - date published: 2024-05-07T20:45:05.323953+00:00
- - user: None
- - tags: []
-
-## Campus Ready
- - [https://campusready.ucdavis.edu](https://campusready.ucdavis.edu)
- - date published: 2024-04-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## UC Davis Canvas Discovery
- - [https://canvas.ucdavis.edu](https://canvas.ucdavis.edu)
- - date published: 2024-05-07T20:45:15.906888+00:00
- - user: None
- - tags: []
-
-## General Catalog - General Catalog Home
- - [https://catalog.ucdavis.edu](https://catalog.ucdavis.edu)
- - date published: 2024-05-07T20:45:25.522512+00:00
- - user: None
- - tags: []
-
-## Welcome to Cows.
- - [https://cows.ucdavis.edu](https://cows.ucdavis.edu)
- - date published: 2024-05-07T20:44:21.199665+00:00
- - user: None
- - tags: []
-
-## UC Davis Continuing and Professional Education
- - [https://cpe.ucdavis.edu](https://cpe.ucdavis.edu)
- - date published: 2024-05-07T20:44:36.223883+00:00
- - user: None
- - tags: []
-
-## Computer Science Instructional Facility (CSIF)
- - [https://csif.cs.ucdavis.edu](https://csif.cs.ucdavis.edu)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://cs.ucdavis.edu](https://cs.ucdavis.edu)
- - date published: 2024-02-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Diversity, Equity & Inclusion
- - [https://diversity.ucdavis.edu](https://diversity.ucdavis.edu)
- - date published: 2024-05-07T20:43:16.846137+00:00
- - user: None
- - tags: []
-
-## EggHeads
- - [https://eggheads.ucdavis.edu](https://eggheads.ucdavis.edu)
- - date published: 2024-05-07T20:45:07.442801+00:00
- - user: None
- - tags: []
-
-## Home | College of Engineering
- - [https://engineering.ucdavis.edu](https://engineering.ucdavis.edu)
- - date published: 2024-05-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## UC Davis Give Day 2024
- - [https://giveday.ucdavis.edu](https://giveday.ucdavis.edu)
- - date published: 2024-05-07T20:43:51.489515+00:00
- - user: None
- - tags: []
-
-## Donate to the University of California at Davis
- - [https://give.ucdavis.edu](https://give.ucdavis.edu)
- - date published: 2024-05-07T20:43:55.207600+00:00
- - user: None
- - tags: []
-
-## Home | UC Davis Giving
- - [https://giving.ucdavis.edu](https://giving.ucdavis.edu)
- - date published: 2022-10-13T16:58:30+00:00
- - user: None
- - tags: []
-
-## UC Davis Graduate Studies
- - [https://gradstudies.ucdavis.edu](https://gradstudies.ucdavis.edu)
- - date published: 2024-05-07T20:45:38.691378+00:00
- - user: None
- - tags: []
-
-## UC Davis Health | University of California, Davis
- - [https://health.ucdavis.edu](https://health.ucdavis.edu)
- - date published: 2024-02-24T10:01:59.909607+00:00
- - user: None
- - tags: []
-
-## UC Davis Human Resources
- - [https://hr.ucdavis.edu](https://hr.ucdavis.edu)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Internship and Career Center
- - [https://icc.ucdavis.edu](https://icc.ucdavis.edu)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | College of Engineering Intranet
- - [https://intranet.engineering.ucdavis.edu](https://intranet.engineering.ucdavis.edu)
- - date published: 2024-05-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Krishna Kumar Singh
- - [http://krsingh.cs.ucdavis.edu](http://krsingh.cs.ucdavis.edu)
- - date published: 2024-05-04T15:20:21.251932+00:00
- - user: None
- - tags: []
-
-## UC Davis College of Letters and Science
- - [https://lettersandscience.ucdavis.edu](https://lettersandscience.ucdavis.edu)
- - date published: 2023-11-03T19:14:18.151008+00:00
- - user: None
- - tags: []
-
-## College of Letters and Science Research Services
- - [https://lsresearch.ucdavis.edu](https://lsresearch.ucdavis.edu)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Coastal and Marine Sciences Institute
- - [https://marinescience.ucdavis.edu](https://marinescience.ucdavis.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## UC Davis Mobile
- - [http://mobile.ucdavis.edu](http://mobile.ucdavis.edu)
- - date published: 2024-05-07T20:44:03.545138+00:00
- - user: None
- - tags: []
-
-## MyAdmissions | UC Davis
- - [https://myadmissions.ucdavis.edu](https://myadmissions.ucdavis.edu)
- - date published: 2024-05-07T20:44:33.426787+00:00
- - user: None
- - tags: []
-
-## myucdavis
- - [https://my.ucdavis.edu](https://my.ucdavis.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Orientation
- - [http://orientation.ucdavis.edu](http://orientation.ucdavis.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Search Results -
-        UC Davis Health
- - [https://physicians.ucdavis.edu](https://physicians.ucdavis.edu)
- - date published: 2024-05-07T20:43:09.723076+00:00
- - user: None
- - tags: []
-
-## Welcome - AP Recruit
- - [https://recruit.ucdavis.edu](https://recruit.ucdavis.edu)
- - date published: 2024-05-07T20:43:12.170875+00:00
- - user: None
- - tags: []
-
-## Office of the University Registrar (OUR)
- - [https://registrar.ucdavis.edu](https://registrar.ucdavis.edu)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## UC Davis Office of Research - Davis, California - University
- - [https://research.ucdavis.edu](https://research.ucdavis.edu)
- - date published: 2024-05-07T20:44:57.360595+00:00
- - user: None
- - tags: []
-
-## Learning & Organizational Development
- - [http://sdps.ucdavis.edu](http://sdps.ucdavis.edu)
- - date published: 2022-09-27T20:45:36+00:00
- - user: None
- - tags: []
-
-## Student Health and Counseling Services
- - [https://shcs.ucdavis.edu](https://shcs.ucdavis.edu)
- - date published: 2024-05-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sisweb, the student information system on the web
- - [https://sisweb.ucdavis.edu](https://sisweb.ucdavis.edu)
- - date published: 2024-05-07T20:44:18.105436+00:00
- - user: None
- - tags: []
-
-## Home | SiteFarm
- - [https://sitefarm.ucdavis.edu](https://sitefarm.ucdavis.edu)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## System Support Group (SSG)
- - [http://ssg.cs.ucdavis.edu](http://ssg.cs.ucdavis.edu)
- - date published: 2024-01-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Staff Assembly
- - [http://staff.ucdavis.edu](http://staff.ucdavis.edu)
- - date published: 2024-05-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Student Parent Resources
- - [https://studentparents.ucdavis.edu](https://studentparents.ucdavis.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Transfer Admission Guarantee
- - [http://tag.ucdavis.edu](http://tag.ucdavis.edu)
- - date published: 2021-03-02T17:52:06+00:00
- - user: None
- - tags: []
-
-## Tahoe Environmental Research Center
- - [https://tahoe.ucdavis.edu](https://tahoe.ucdavis.edu)
- - date published: 2024-05-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## UC Davis
- - [http://ucdavis.edu](http://ucdavis.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | UC Davis Magazine
- - [http://ucdavismagazine.ucdavis.edu](http://ucdavismagazine.ucdavis.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Undergraduate Research Center | Undergraduate Research Center
- - [https://urc.ucdavis.edu](https://urc.ucdavis.edu)
- - date published: 2024-05-07T20:44:22.520926+00:00
- - user: None
- - tags: []
-
-## Visit UC Davis
- - [http://visit.ucdavis.edu](http://visit.ucdavis.edu)
- - date published: 2021-01-08T22:29:29+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://web.cs.ucdavis.edu](https://web.cs.ucdavis.edu)
- - date published: 2023-10-25T18:59:47.853350+00:00
- - user: None
- - tags: []
-
-## UC Davis Alumni and Affiliate Relations
- - [http://www.alumni.ucdavis.edu](http://www.alumni.ucdavis.edu)
- - date published: 2024-05-07T20:44:29.781847+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://www.cs.ucdavis.edu](https://www.cs.ucdavis.edu)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## School of Law
- - [https://www.law.ucdavis.edu](https://www.law.ucdavis.edu)
- - date published: 2024-05-09T02:38:25.218545+00:00
- - user: None
- - tags: []
-
-## UC Davis | California's College Town
- - [https://www.ucdavis.edu](https://www.ucdavis.edu)
- - date published: 2023-10-25T18:59:54.439947+00:00
- - user: None
- - tags: []
-
-## UC Davis Health | University of California, Davis
- - [http://www.ucdmc.ucdavis.edu](http://www.ucdmc.ucdavis.edu)
- - date published: 2024-05-07T20:44:40.873243+00:00
- - user: None
- - tags: []
-
-## UC Davis School of Veterinary Medicine
- - [http://www.vetmed.ucdavis.edu](http://www.vetmed.ucdavis.edu)
- - date published: 2024-05-07T20:45:35.013277+00:00
- - user: None
- - tags: []
-
-## E-Directory
- - [https://directory.ucdenver.edu](https://directory.ucdenver.edu)
- - date published: 2024-04-30T04:02:27.047675+00:00
- - user: None
- - tags: []
-
-## Sign in to Outlook
- - [http://myemail.ucdenver.edu](http://myemail.ucdenver.edu)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## University of Colorado Denver | CU Denver
- - [http://ucdenver.edu](http://ucdenver.edu)
- - date published: 2024-04-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## University of Colorado Denver | CU Denver
- - [https://www.ucdenver.edu](https://www.ucdenver.edu)
- - date published: 2024-04-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Advising
- - [https://appleseed.cs.ucf.edu](https://appleseed.cs.ucf.edu)
- - date published: 2024-05-11T07:18:07.290047+00:00
- - user: None
- - tags: []
-
-## Autonomous and Intelligent Systems – Just another WordPress site
- - [https://eecs.ucf.edu](https://eecs.ucf.edu)
- - date published: 2024-01-09T03:28:03.267934+00:00
- - user: None
- - tags: []
-
-## Home - College of Graduate Studies
- - [https://graduate.ucf.edu](https://graduate.ucf.edu)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## University of Central Florida Pressbooks – A Resource for Academic & Educational Publishing at UCF
- - [https://pressbooks.online.ucf.edu](https://pressbooks.online.ucf.edu)
- - date published: 2024-05-02T09:55:32.588928+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science
- - [http://www.cs.ucf.edu](http://www.cs.ucf.edu)
- - date published: 2024-05-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## University of Central Florida | Top-Ranked by U.S News & World Reports
- - [https://www.ucf.edu](https://www.ucf.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Access UChicago Now | The University of Chicago
- - [https://accessibility.uchicago.edu](https://accessibility.uchicago.edu)
- - date published: 2024-05-07T20:45:44.535009+00:00
- - user: None
- - tags: []
-
-## Home | UChicago Alumni Weekend
- - [https://alumniweekend.uchicago.edu](https://alumniweekend.uchicago.edu)
- - date published: 2024-05-07T14:13:58.243002+00:00
- - user: None
- - tags: []
-
-## Admissions - UChicagoGRAD | The University of Chicago
- - [https://apply-psd.uchicago.edu](https://apply-psd.uchicago.edu)
- - date published: 2024-05-07T20:46:36.545286+00:00
- - user: None
- - tags: []
-
-## Becker Friedman Institute for Economics at University of Chicago — Frontier Research, Global Impact. | BFI
- - [https://bfi.uchicago.edu](https://bfi.uchicago.edu)
- - date published: 2023-10-25T18:59:59.078924+00:00
- - user: None
- - tags: []
-
-## Biological Sciences Division at the University of Chicago
- - [https://biologicalsciences.uchicago.edu](https://biologicalsciences.uchicago.edu)
- - date published: 2023-11-27T16:10:30.419743+00:00
- - user: None
- - tags: []
-
-## UChicago Biosciences | The University of Chicago
- - [https://biosciences.uchicago.edu](https://biosciences.uchicago.edu)
- - date published: 2024-05-07T20:46:05.638600+00:00
- - user: None
- - tags: []
-
-## Biological Sciences Collegiate Division
- - [https://bscd.uchicago.edu](https://bscd.uchicago.edu)
- - date published: 2024-05-07T20:46:08.412983+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://bsdis.uchicago.edu](https://bsdis.uchicago.edu)
- - date published: 2024-05-07T20:46:01.960212+00:00
- - user: None
- - tags: []
-
-## Biological Sciences Postdoctoral Affairs and Association – Providing career and professional development training to BSD postdocs
- - [https://bsdpostdoc.uchicago.edu](https://bsdpostdoc.uchicago.edu)
- - date published: 2024-05-07T20:45:58.533847+00:00
- - user: None
- - tags: []
-
-## Search Home :: Library Catalog
- - [https://catalog.lib.uchicago.edu](https://catalog.lib.uchicago.edu)
- - date published: 2024-05-07T20:52:33.373077+00:00
- - user: None
- - tags: []
-
-## Center for Continuing Medical Education |
- - [https://cme.uchicago.edu](https://cme.uchicago.edu)
- - date published: 2024-05-07T20:46:10.878930+00:00
- - user: None
- - tags: []
-
-## Ecology & Evolution | The University of Chicago
- - [https://ecologyandevolution.uchicago.edu](https://ecologyandevolution.uchicago.edu)
- - date published: 2024-05-07T14:14:13.363606+00:00
- - user: None
- - tags: []
-
-## Calendar of Events | The University of Chicago
- - [https://events.uchicago.edu](https://events.uchicago.edu)
- - date published: 2024-05-07T20:46:00.260987+00:00
- - user: None
- - tags: []
-
-## Financial Mathematics | The University of Chicago
- - [https://finmath.uchicago.edu](https://finmath.uchicago.edu)
- - date published: 2024-05-01T04:44:01.419765+00:00
- - user: None
- - tags: []
-
-## Geophysical Sciences
- - [https://geosci.uchicago.edu](https://geosci.uchicago.edu)
- - date published: 2023-10-25T19:00:02.742597+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://givetomedicine.uchicago.edu](https://givetomedicine.uchicago.edu)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Glaze - Protecting Artists from Generative AI
- - [https://glaze.cs.uchicago.edu](https://glaze.cs.uchicago.edu)
- - date published: 2023-10-25T19:00:05.496930+00:00
- - user: None
- - tags: []
-
-## Home - UChicagoGRAD | The University of Chicago
- - [https://grad.uchicago.edu](https://grad.uchicago.edu)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome to
- - [https://graham.uchicago.edu](https://graham.uchicago.edu)
- - date published: 2024-05-07T20:46:53.098712+00:00
- - user: None
- - tags: []
-
-## Library Guides: Research Guides: Subject Guides
- - [https://guides.lib.uchicago.edu](https://guides.lib.uchicago.edu)
- - date published: 2024-05-07T20:52:31.938288+00:00
- - user: None
- - tags: []
-
-## Harris | The University of Chicago Harris School of Public Policy
- - [http://harris.uchicago.edu](http://harris.uchicago.edu)
- - date published: 2024-05-08T00:13:10.966049+00:00
- - user: None
- - tags: []
-
-## IFK
- - [https://ifk.uchicago.edu](https://ifk.uchicago.edu)
- - date published: 2024-02-24T18:19:38.969915+00:00
- - user: None
- - tags: []
-
-## Knowledge UChicago
- - [https://knowledge.uchicago.edu](https://knowledge.uchicago.edu)
- - date published: 2024-05-07T20:52:28.163602+00:00
- - user: None
- - tags: []
-
-## Neuroscience at the University of Chicago
- - [https://neuroscience.uchicago.edu](https://neuroscience.uchicago.edu)
- - date published: 2024-05-07T20:46:04.000431+00:00
- - user: None
- - tags: []
-
-## News
-                
-            
-            
-                
-                    
-                        - The University of Chicago Library News
-                    
-                
-            
-            - The University of Chicago Library
- - [http://news.lib.uchicago.edu](http://news.lib.uchicago.edu)
- - date published: 2024-08-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## University of Chicago News
- - [https://news.uchicago.edu](https://news.uchicago.edu)
- - date published: 2023-10-25T19:00:12.204385+00:00
- - user: None
- - tags: []
-
-## Nightshade: Protecting Copyright
- - [https://nightshade.cs.uchicago.edu](https://nightshade.cs.uchicago.edu)
- - date published: 2019-02-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sir Thomas Browne
- - [http://penelope.uchicago.edu](http://penelope.uchicago.edu)
- - date published: 2024-05-06T17:00:03.680182+00:00
- - user: None
- - tags: ['literature', 'writing']
-
-## Home | Pritzker School of Molecular Engineering | The University of Chicago
- - [https://pme.uchicago.edu](https://pme.uchicago.edu)
- - date published: 2023-10-25T11:20:47.091123+00:00
- - user: None
- - tags: []
-
-## The South Pole Telescope
- - [https://pole.uchicago.edu](https://pole.uchicago.edu)
- - date published: 2024-05-11T20:46:53.603684+00:00
- - user: None
- - tags: []
-
-## University of Chicago Press
- - [https://press.uchicago.edu](https://press.uchicago.edu)
- - date published: 2024-05-04T14:26:31.219516+00:00
- - user: None
- - tags: []
-
-## Unified Printing: Copying, Printing, and Scanning
- - [https://printing.uchicago.edu](https://printing.uchicago.edu)
- - date published: 2024-05-07T20:52:35.256335+00:00
- - user: None
- - tags: []
-
-## Pritzker School of Medicine | The University of Chicago
- - [https://pritzker.uchicago.edu](https://pritzker.uchicago.edu)
- - date published: 2024-05-07T20:45:56.669107+00:00
- - user: None
- - tags: []
-
-## Welcome | Office of the Provost
- - [https://provost.uchicago.edu](https://provost.uchicago.edu)
- - date published: 2024-05-07T14:14:06.624687+00:00
- - user: None
- - tags: []
-
-## Shibboleth Authentication Request
- - [http://proxy.uchicago.edu](http://proxy.uchicago.edu)
- - date published: 2024-05-07T20:52:23.620802+00:00
- - user: None
- - tags: []
-
-## Reservations -
-        UChicago Library
- - [https://rooms.lib.uchicago.edu](https://rooms.lib.uchicago.edu)
- - date published: 2024-05-07T20:52:29.917877+00:00
- - user: None
- - tags: []
-
-## Rose and Chess: Le Roman de la Rose and Le Jeu des échecs moralisé
- - [https://roseandchess.lib.uchicago.edu](https://roseandchess.lib.uchicago.edu)
- - date published: 2024-04-30T06:27:14.763934+00:00
- - user: None
- - tags: []
-
-## Science and Liberalism: April 7-8, 2023 (5733 S. University Ave)
- - [https://scienceandliberalism.event.uchicago.edu](https://scienceandliberalism.event.uchicago.edu)
- - date published: 2023-04-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## BSD Information Security Office | BSD Information Security Office
- - [http://security.bsd.uchicago.edu](http://security.bsd.uchicago.edu)
- - date published: 2024-05-07T20:45:55.184326+00:00
- - user: None
- - tags: []
-
-## IFK
- - [https://sifk.uchicago.edu](https://sifk.uchicago.edu)
- - date published: 2024-03-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Department of Statistics | The University of Chicago
- - [https://stat.uchicago.edu](https://stat.uchicago.edu)
- - date published: 2024-05-12T04:29:05.715527+00:00
- - user: None
- - tags: []
-
-## UCAIR Accident/Incident Reporting System
- - [https://ucair.uchicago.edu](https://ucair.uchicago.edu)
- - date published: 2024-05-07T20:47:02.755454+00:00
- - user: None
- - tags: []
-
-## The University of Chicago
- - [https://uchicago.edu](https://uchicago.edu)
- - date published: 2024-05-07T20:47:12.944443+00:00
- - user: None
- - tags: []
-
-## Visit UChicago – A Beautiful Campus in a World-Class City
- - [https://visit.uchicago.edu](https://visit.uchicago.edu)
- - date published: 2024-05-07T20:47:08.194797+00:00
- - user: None
- - tags: []
-
-## UChicago Voices | A platform for sharing your voice
- - [https://voices.uchicago.edu](https://voices.uchicago.edu)
- - date published: 2024-05-07T20:45:52.468264+00:00
- - user: None
- - tags: []
-
-## UChicago Website Resource Center | The University of Chicago
- - [https://websitesdev.uchicago.edu](https://websitesdev.uchicago.edu)
- - date published: 2024-05-07T20:47:15.994608+00:00
- - user: None
- - tags: []
-
-## UChicago Website Resource Center | The University of Chicago
- - [https://websites.uchicago.edu](https://websites.uchicago.edu)
- - date published: 2024-05-07T20:47:19.516737+00:00
- - user: None
- - tags: []
-
-## The University of Chicago Library
-                
-            
-            
-                
-            
-            - The University of Chicago Library
- - [https://www2.lib.uchicago.edu](https://www2.lib.uchicago.edu)
- - date published: 2023-10-25T19:00:18.639938+00:00
- - user: None
- - tags: []
-
-## https://www.journals.uchicago.edu
- - [https://www.journals.uchicago.edu](https://www.journals.uchicago.edu)
- - date published: 2023-10-25T19:00:13.234205+00:00
- - user: None
- - tags: []
-
-## The University of Chicago Library
-                
-            
-            
-                
-            
-            - The University of Chicago Library
- - [https://www.lib.uchicago.edu](https://www.lib.uchicago.edu)
- - date published: 2024-05-07T20:52:22.085559+00:00
- - user: None
- - tags: []
-
-## The University of Chicago
- - [https://www.uchicago.edu](https://www.uchicago.edu)
- - date published: 2024-05-07T14:14:20.281599+00:00
- - user: None
- - tags: []
-
-## Accessibility Research Collective
- - [https://accessibility.ics.uci.edu](https://accessibility.ics.uci.edu)
- - date published: 2022-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home // Accessibility // UCI
- - [https://accessibility.uci.edu](https://accessibility.uci.edu)
- - date published: 2024-05-09T06:49:56.338854+00:00
- - user: None
- - tags: []
-
-## UCI Machine Learning Repository
- - [https://archive.ics.uci.edu](https://archive.ics.uci.edu)
- - date published: 2024-03-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home // Brand // UCI
- - [https://brand.uci.edu](https://brand.uci.edu)
- - date published: 2024-05-09T06:49:44.603622+00:00
- - user: None
- - tags: []
-
-## Home - Brilliant Future: The Campaign for UCI
- - [https://brilliantfuture.uci.edu](https://brilliantfuture.uci.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## University of California, Irvine General Catalogue < University of California Irvine
- - [http://catalogue.uci.edu](http://catalogue.uci.edu)
- - date published: 2024-05-07T20:54:06.718099+00:00
- - user: None
- - tags: []
-
-## Center for Machine Learning and Intelligent Systems | University of California, Irvine
- - [https://cml.ics.uci.edu](https://cml.ics.uci.edu)
- - date published: 2024-05-07T20:53:27.536388+00:00
- - user: None
- - tags: []
-
-## Home // Strategic Communications & Public Affairs // UCI
- - [https://communications.uci.edu](https://communications.uci.edu)
- - date published: 2024-05-09T06:50:22.332352+00:00
- - user: None
- - tags: []
-
-## Home - Connected Learning Lab
- - [https://connectedlearning.uci.edu](https://connectedlearning.uci.edu)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## landing - UCI Cybersecurity Policy & Research Institute
- - [https://cpri.uci.edu](https://cpri.uci.edu)
- - date published: 2024-05-07T20:52:40.293444+00:00
- - user: None
- - tags: []
-
-## UCI’s Steckler Center for Responsible, Ethical, and Accessible Technology
- - [https://create.ics.uci.edu](https://create.ics.uci.edu)
- - date published: 2024-05-07T20:53:25.866925+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://cs.uci.edu](https://cs.uci.edu)
- - date published: 2024-05-07T20:52:56.467791+00:00
- - user: None
- - tags: []
-
-## Data Science Initiative – UCI's Data Science Initiative
- - [https://datascience.uci.edu](https://datascience.uci.edu)
- - date published: 2024-05-07T20:52:48.849995+00:00
- - user: None
- - tags: []
-
-## UCI Directory
- - [https://directory.uci.edu](https://directory.uci.edu)
- - date published: 2024-05-07T20:52:51.027853+00:00
- - user: None
- - tags: []
-
-## UCI Division of Teaching Excellence and Innovation |
- - [http://dtei.uci.edu](http://dtei.uci.edu)
- - date published: 2024-05-09T06:49:42.209475+00:00
- - user: None
- - tags: []
-
-## UCI School of Education
- - [http://education.uci.edu](http://education.uci.edu)
- - date published: 2024-05-09T06:50:20.102298+00:00
- - user: None
- - tags: []
-
-## Home // Emergency Management // UCI
- - [https://em.uci.edu](https://em.uci.edu)
- - date published: 2024-05-07T20:52:45.484382+00:00
- - user: None
- - tags: []
-
-## Home | Samueli School of Engineering at UC Irvine
- - [http://engineering.uci.edu](http://engineering.uci.edu)
- - date published: 2024-05-09T06:50:09.529482+00:00
- - user: None
- - tags: []
-
-## Our Experts // Find an Expert // UCI
- - [https://experts.communications.uci.edu](https://experts.communications.uci.edu)
- - date published: 2024-05-09T06:50:53.476925+00:00
- - user: None
- - tags: []
-
-## UCI Institute for Future Health
- - [https://futurehealth.ics.uci.edu](https://futurehealth.ics.uci.edu)
- - date published: 2024-05-07T20:53:22.787974+00:00
- - user: None
- - tags: []
-
-## UCI Institute for Future Health
- - [https://futurehealth.uci.edu](https://futurehealth.uci.edu)
- - date published: 2024-05-07T20:53:02.542030+00:00
- - user: None
- - tags: []
-
-## Hall of Fame – Engineering and ICS at UCI
- - [https://halloffame.tech.uci.edu](https://halloffame.tech.uci.edu)
- - date published: 2024-05-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## HPI Research Center in Machine Learning and Data Science at UCI
- - [https://hpi.ics.uci.edu](https://hpi.ics.uci.edu)
- - date published: 2024-05-07T20:54:01.513372+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://ics.uci.edu](https://ics.uci.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Informatics @ the University of California, Irvine
- - [https://informatics.uci.edu](https://informatics.uci.edu)
- - date published: 2024-05-07T20:53:13.149689+00:00
- - user: None
- - tags: []
-
-## Institute for Software Research
- - [http://isr.uci.edu](http://isr.uci.edu)
- - date published: 2024-05-07T20:53:46.475495+00:00
- - user: None
- - tags: []
-
-## Home | UCI Mathematics
- - [https://math.uci.edu](https://math.uci.edu)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## UCI School of Medicine
- - [https://medschool.uci.edu](https://medschool.uci.edu)
- - date published: 2024-05-09T06:50:27.936856+00:00
- - user: None
- - tags: []
-
-## Welcome to the UCI Paul Merage School of Business | Paul Merage School of Business | UCI
- - [https://merage.uci.edu](https://merage.uci.edu)
- - date published: 2024-05-09T06:49:50.587312+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://news.uci.edu](https://news.uci.edu)
- - date published: 2024-03-12T20:01:51.680591+00:00
- - user: None
- - tags: []
-
-## UC Irvine Sue & Bill Gross School of Nursing
- - [http://nursing.uci.edu](http://nursing.uci.edu)
- - date published: 2024-04-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://oai.ics.uci.edu](https://oai.ics.uci.edu)
- - date published: 2024-02-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home page | UCI
- - [https://ps.uci.edu](https://ps.uci.edu)
- - date published: 2024-05-07T20:54:27.866988+00:00
- - user: None
- - tags: []
-
-## UCI Program in Public Health
- - [http://publichealth.uci.edu](http://publichealth.uci.edu)
- - date published: 2024-05-09T06:49:54.144882+00:00
- - user: None
- - tags: []
-
-## Search // UCI
- - [https://search.uci.edu](https://search.uci.edu)
- - date published: 2024-05-09T06:50:58.929452+00:00
- - user: None
- - tags: []
-
-## UCI Information Security
- - [https://security.uci.edu](https://security.uci.edu)
- - date published: 2024-05-09T06:50:03.969085+00:00
- - user: None
- - tags: []
-
-## HTTP Server Test Page powered by: Rocky Linux
- - [https://sites.socsci.uci.edu](https://sites.socsci.uci.edu)
- - date published: 2024-05-08T04:21:00.373176+00:00
- - user: None
- - tags: []
-
-## UCI Sites – Simple Websites & Blogs
- - [https://sites.uci.edu](https://sites.uci.edu)
- - date published: 2024-05-07T20:54:22.322980+00:00
- - user: None
- - tags: []
-
-## School of Social Ecology | Science Driving Solutions
- - [http://socialecology.uci.edu](http://socialecology.uci.edu)
- - date published: 2024-05-09T06:50:25.328453+00:00
- - user: None
- - tags: []
-
-## Home // Special Reports // UCI
- - [https://specialreports.news.uci.edu](https://specialreports.news.uci.edu)
- - date published: 2024-05-09T06:50:41.687164+00:00
- - user: None
- - tags: []
-
-## Department of Statistics - Donald Bren School of Information & Computer Sciences – Department of Statistics - Donald Bren School of Information & Computer Sciences
- - [https://stat.uci.edu](https://stat.uci.edu)
- - date published: 2024-05-07T20:53:51.530226+00:00
- - user: None
- - tags: []
-
-## Featured Events // Today // UCI
- - [https://today.uci.edu](https://today.uci.edu)
- - date published: 2024-05-09T06:50:40.161441+00:00
- - user: None
- - tags: []
-
-## Home // Trademarks & Licensing // UCI
- - [https://trademarks.uci.edu](https://trademarks.uci.edu)
- - date published: 2024-05-09T06:50:55.058610+00:00
- - user: None
- - tags: []
-
-## Home | UCI
- - [https://uci.edu](https://uci.edu)
- - date published: 2024-05-07T20:53:16.486745+00:00
- - user: None
- - tags: []
-
-## Schedule of Classes
- - [http://websoc.reg.uci.edu](http://websoc.reg.uci.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Main | UCI
- - [https://wp.communications.uci.edu](https://wp.communications.uci.edu)
- - date published: 2024-05-09T06:49:39.363658+00:00
- - user: None
- - tags: []
-
-## UCI Claire Trevor School of the Arts
- - [http://www.arts.uci.edu](http://www.arts.uci.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## UCI BioSci - Mind | Body | World. Life Interconnected.
- - [https://www.bio.uci.edu](https://www.bio.uci.edu)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [http://www.cogsci.uci.edu](http://www.cogsci.uci.edu)
- - date published: 2024-05-02T15:03:29.874133+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.cs.uci.edu](https://www.cs.uci.edu)
- - date published: 2024-05-07T20:53:31.882811+00:00
- - user: None
- - tags: []
-
-## UCI General Catalogue Archives
- - [http://www.editor.uci.edu](http://www.editor.uci.edu)
- - date published: 2024-05-07T20:54:24.973533+00:00
- - user: None
- - tags: []
-
-## UCI School of Humanities
- - [https://www.humanities.uci.edu](https://www.humanities.uci.edu)
- - date published: 2024-05-09T06:50:30.346817+00:00
- - user: None
- - tags: []
-
-## Home - UC Irvine Donald Bren School of Information & Computer Sciences
- - [https://www.ics.uci.edu](https://www.ics.uci.edu)
- - date published: 2023-10-25T19:00:29.565931+00:00
- - user: None
- - tags: []
-
-## UCI Institute for Genomics & Bioinformatics – IGB at UC Irvine
- - [https://www.igb.uci.edu](https://www.igb.uci.edu)
- - date published: 2024-05-07T20:54:04.188674+00:00
- - user: None
- - tags: []
-
-## Informatics @ the University of California, Irvine
- - [https://www.informatics.uci.edu](https://www.informatics.uci.edu)
- - date published: 2024-05-07T20:53:58.308630+00:00
- - user: None
- - tags: []
-
-## Institute for Software Research
- - [http://www.isr.uci.edu](http://www.isr.uci.edu)
- - date published: 2024-05-02T09:37:51.824584+00:00
- - user: None
- - tags: []
-
-## Home | UCI Law
- - [http://www.law.uci.edu](http://www.law.uci.edu)
- - date published: 2024-05-09T06:50:37.366098+00:00
- - user: None
- - tags: []
-
-## Home | UCI Mathematics
- - [https://www.math.uci.edu](https://www.math.uci.edu)
- - date published: 2023-10-25T19:00:33.632611+00:00
- - user: None
- - tags: []
-
-## Office of Information Technology | UCI
- - [https://www.oit.uci.edu](https://www.oit.uci.edu)
- - date published: 2024-05-09T06:50:16.729665+00:00
- - user: None
- - tags: []
-
-## Home // Policies & Procedures // UCI
- - [https://www.policies.uci.edu](https://www.policies.uci.edu)
- - date published: 2024-05-09T06:50:57.336437+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.socsci.uci.edu](https://www.socsci.uci.edu)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Department of Statistics - Donald Bren School of Information & Computer Sciences – Department of Statistics - Donald Bren School of Information & Computer Sciences
- - [https://www.stat.uci.edu](https://www.stat.uci.edu)
- - date published: 2024-05-07T20:53:06.052921+00:00
- - user: None
- - tags: []
-
-## Home | UCI
- - [https://www.uci.edu](https://www.uci.edu)
- - date published: 2024-05-07T20:53:09.186125+00:00
- - user: None
- - tags: []
-
-## AskCHIS Neighborhood Edition - Local Level Health Data
- - [http://askchisne.ucla.edu](http://askchisne.ucla.edu)
- - date published: 2024-05-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## PSTI
- - [http://cbp.physics.ucla.edu](http://cbp.physics.ucla.edu)
- - date published: 2024-05-07T20:55:57.877188+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://cdli.ucla.edu](https://cdli.ucla.edu)
- - date published: 2024-04-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## UCLA COVID-19 Resources - Coronavirus information for the campus community
- - [https://covid-19.ucla.edu](https://covid-19.ucla.edu)
- - date published: 2024-05-07T20:55:24.036838+00:00
- - user: None
- - tags: []
-
-## Index of /
- - [https://ftp.cs.ucla.edu](https://ftp.cs.ucla.edu)
- - date published: 2024-03-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## UCLA is responding to COVID-19
- - [http://giveto.ucla.edu](http://giveto.ucla.edu)
- - date published: 2024-05-07T20:54:59.420873+00:00
- - user: None
- - tags: []
-
-## Giving to UCLA
- - [https://giving.ucla.edu](https://giving.ucla.edu)
- - date published: 2024-05-07T20:55:32.392874+00:00
- - user: None
- - tags: []
-
-## Calendars
- - [http://happenings.ucla.edu](http://happenings.ucla.edu)
- - date published: 2024-05-07T20:54:34.739703+00:00
- - user: None
- - tags: []
-
-## Institute for Research on Labor and Employment
- - [https://irle.ucla.edu](https://irle.ucla.edu)
- - date published: 2024-05-07T20:55:11.391952+00:00
- - user: None
- - tags: []
-
-## Lawyers. Leaders. UCLA School of Law. | UCLA Law
- - [https://law.ucla.edu](https://law.ucla.edu)
- - date published: 2024-05-04T14:42:25.180876+00:00
- - user: None
- - tags: []
-
-## School of Public Affairs | UCLA Luskin
- - [https://luskin.ucla.edu](https://luskin.ucla.edu)
- - date published: 2024-05-07T20:55:15.920022+00:00
- - user: None
- - tags: []
-
-## Home | Transportation
- - [https://main.transportation.ucla.edu](https://main.transportation.ucla.edu)
- - date published: 2024-05-07T20:55:26.311984+00:00
- - user: None
- - tags: []
-
-## Sign in to your account
- - [https://my.law.ucla.edu](https://my.law.ucla.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Newsroom | UCLA
- - [https://newsroom.ucla.edu](https://newsroom.ucla.edu)
- - date published: 2023-10-25T19:00:36.419553+00:00
- - user: None
- - tags: []
-
-## UCLA Fielding School of Public Health | UCLA Fielding
- - [https://ph.ucla.edu](https://ph.ucla.edu)
- - date published: 2023-10-25T19:00:39.211230+00:00
- - user: None
- - tags: []
-
-## UCLA Cognitive Systems Laboratory (Experimental)
- - [http://singapore.cs.ucla.edu](http://singapore.cs.ucla.edu)
- - date published: 2023-10-25T19:00:41.031479+00:00
- - user: None
- - tags: []
-
-## Smadar Naoz
- - [https://snaoz.astro.ucla.edu](https://snaoz.astro.ucla.edu)
- - date published: 2024-04-30T03:33:26.794955+00:00
- - user: None
- - tags: []
-
-## Home - The Center for 17th- & 18th-Century Studies
- - [https://www.1718.ucla.edu](https://www.1718.ucla.edu)
- - date published: 2024-05-07T10:26:20.505488+00:00
- - user: None
- - tags: []
-
-## Lawyers. Leaders. UCLA School of Law. | UCLA Law
- - [https://www2.law.ucla.edu](https://www2.law.ucla.edu)
- - date published: 2023-10-25T19:00:46.288421+00:00
- - user: None
- - tags: []
-
-## Home | Bruins Safe Online
- - [https://www.bso.ucla.edu](https://www.bso.ucla.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home (New)
- - [https://www.college.ucla.edu](https://www.college.ucla.edu)
- - date published: 2024-05-07T20:55:21.916268+00:00
- - user: None
- - tags: []
-
-## UCLA Campus Directory
- - [http://www.directory.ucla.edu](http://www.directory.ucla.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Samueli Electrical and Computer Engineering
- - [https://www.ee.ucla.edu](https://www.ee.ucla.edu)
- - date published: 2024-04-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Bruins Safe Online
- - [https://www.emergency.ucla.edu](https://www.emergency.ucla.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Lewis Home - UCLA Lewis Center for Regional Policy Studies
- - [https://www.lewis.ucla.edu](https://www.lewis.ucla.edu)
- - date published: 2024-04-30T05:05:25.842498+00:00
- - user: None
- - tags: []
-
-## UCLA MII – Medical and Imaging Informatics
- - [http://www.mii.ucla.edu](http://www.mii.ucla.edu)
- - date published: 2024-05-07T15:26:25.393622+00:00
- - user: None
- - tags: []
-
-## Welcome! | UCLA Registrar’s Office
- - [https://www.registrar.ucla.edu](https://www.registrar.ucla.edu)
- - date published: 2024-05-07T20:55:03.392932+00:00
- - user: None
- - tags: []
-
-## UCLA
- - [https://www.ucla.edu](https://www.ucla.edu)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Zocchi Laboratory
- - [https://zocchi.physics.ucla.edu](https://zocchi.physics.ucla.edu)
- - date published: 2024-02-08T21:48:42.972695+00:00
- - user: None
- - tags: []
-
-## UCLA Extension - Continuing Education Courses & Certificates
- - [https://www.uclaextension.edu](https://www.uclaextension.edu)
- - date published: 2024-05-07T20:55:05.477271+00:00
- - user: None
- - tags: []
-
-## Apply Now | Graduate Division
- - [https://applygrad.ucmerced.edu](https://applygrad.ucmerced.edu)
- - date published: 2024-05-07T20:56:30.115935+00:00
- - user: None
- - tags: []
-
-## Biological Engineering and Small-Scale Technologies
- - [https://best.ucmerced.edu](https://best.ucmerced.edu)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Bioengineering
- - [https://bioe.ucmerced.edu](https://bioe.ucmerced.edu)
- - date published: 2024-05-07T20:56:24.812623+00:00
- - user: None
- - tags: []
-
-## Graduate Division
- - [https://graduatedivision.ucmerced.edu](https://graduatedivision.ucmerced.edu)
- - date published: 2024-05-07T20:56:27.415446+00:00
- - user: None
- - tags: []
-
-## Materials and Biomaterials Science and Engineering
- - [https://mbse.ucmerced.edu](https://mbse.ucmerced.edu)
- - date published: 2024-05-07T20:56:19.947352+00:00
- - user: None
- - tags: []
-
-## The Karen Merritt Writing Program
- - [http://writingprogram.ucmerced.edu](http://writingprogram.ucmerced.edu)
- - date published: 2024-05-07T20:56:22.838187+00:00
- - user: None
- - tags: []
-
-## University of California, Merced
- - [http://www.ucmerced.edu](http://www.ucmerced.edu)
- - date published: 2024-05-07T20:56:17.110274+00:00
- - user: None
- - tags: []
-
-## Home | Accessibility
- - [https://accessibility.uconn.edu](https://accessibility.uconn.edu)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Aurora
- - [http://arthur-parzygnat.uconn.edu](http://arthur-parzygnat.uconn.edu)
- - date published: 2024-05-04T14:40:31.233891+00:00
- - user: None
- - tags: []
-
-## Keith Conrad's Home Page
- - [https://kconrad.math.uconn.edu](https://kconrad.math.uconn.edu)
- - date published: 2024-05-07T15:58:32.946320+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Kendall Lab
- - [https://kendalllab.uconn.edu](https://kendalllab.uconn.edu)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## UConn Magazine
- - [https://magazine.uconn.edu](https://magazine.uconn.edu)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Department of Pharmaceutical Sciences | UConn School of Pharmacy
- - [http://pharmsci.uconn.edu](http://pharmsci.uconn.edu)
- - date published: 2019-05-16T14:22:20+00:00
- - user: None
- - tags: []
-
-## Home | UConn Privacy
- - [https://privacy.uconn.edu](https://privacy.uconn.edu)
- - date published: 2024-03-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home  - UConn Today
- - [https://today.uconn.edu](https://today.uconn.edu)
- - date published: 2023-10-25T19:00:48.881073+00:00
- - user: None
- - tags: []
-
-## Home | Polynomial-Sized LP Models for Hard COPs
- - [https://tsplp.research.uconn.edu](https://tsplp.research.uconn.edu)
- - date published: 2023-10-25T19:00:52.126830+00:00
- - user: None
- - tags: []
-
-## University of Connecticut
- - [https://uconn.edu](https://uconn.edu)
- - date published: 2024-05-07T20:56:38.013761+00:00
- - user: None
- - tags: []
-
-## University of Connecticut | University Communications
- - [https://universitycommunications.uconn.edu](https://universitycommunications.uconn.edu)
- - date published: 2024-02-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## UConn School of Business | School of Business
- - [https://www.business.uconn.edu](https://www.business.uconn.edu)
- - date published: 2024-05-07T20:56:51.424555+00:00
- - user: None
- - tags: []
-
-## Aurora outage
- - [https://www.math.uconn.edu](https://www.math.uconn.edu)
- - date published: 2024-04-30T07:32:52.315694+00:00
- - user: None
- - tags: []
-
-## University of California | Office of The President
- - [https://www.ucop.edu](https://www.ucop.edu)
- - date published: 2024-05-07T20:55:37.074158+00:00
- - user: None
- - tags: []
-
-## University of California Press
- - [https://www.ucpress.edu](https://www.ucpress.edu)
- - date published: 2024-05-02T09:55:47.640355+00:00
- - user: None
- - tags: []
-
-## Connect with Asian Pacific Student Programs (APSP)!
- - [https://apsp.ucr.edu](https://apsp.ucr.edu)
- - date published: 2024-05-07T20:56:52.659163+00:00
- - user: None
- - tags: []
-
-## UCR African Student Programs
- - [https://asp.ucr.edu](https://asp.ucr.edu)
- - date published: 2024-05-07T20:57:10.969841+00:00
- - user: None
- - tags: []
-
-## University of California, Riverside
- - [https://campusmap.ucr.edu](https://campusmap.ucr.edu)
- - date published: 2024-05-07T20:57:29.964689+00:00
- - user: None
- - tags: []
-
-## Campus Emergency Status
- - [https://campusstatus.ucr.edu](https://campusstatus.ucr.edu)
- - date published: 2024-05-07T20:56:57.501578+00:00
- - user: None
- - tags: []
-
-## CARE Program
- - [https://care.ucr.edu](https://care.ucr.edu)
- - date published: 2024-05-07T20:57:01.705119+00:00
- - user: None
- - tags: []
-
-## Case Management
- - [https://casemanagement.ucr.edu](https://casemanagement.ucr.edu)
- - date published: 2024-05-07T20:57:13.794566+00:00
- - user: None
- - tags: []
-
-## California Digital Newspaper Collection
- - [https://cdnc.ucr.edu](https://cdnc.ucr.edu)
- - date published: 2024-05-07T09:16:04.491684+00:00
- - user: None
- - tags: []
-
-## Counseling & Psychological Services
- - [https://counseling.ucr.edu](https://counseling.ucr.edu)
- - date published: 2024-05-07T20:56:56.771638+00:00
- - user: None
- - tags: []
-
-## The Creator State
- - [https://creatorstate.ucr.edu](https://creatorstate.ucr.edu)
- - date published: 2024-05-07T20:57:46.311251+00:00
- - user: None
- - tags: []
-
-## Share the spirit of Raza with UCR's Chicano Student Programs!
- - [https://csp.ucr.edu](https://csp.ucr.edu)
- - date published: 2024-05-07T20:57:33.431969+00:00
- - user: None
- - tags: []
-
-## UCR Dean of Students
- - [https://deanofstudents.ucr.edu](https://deanofstudents.ucr.edu)
- - date published: 2024-05-07T20:57:17.897630+00:00
- - user: None
- - tags: []
-
-## Office of Diversity, Equity & Inclusion
- - [https://diversity.ucr.edu](https://diversity.ucr.edu)
- - date published: 2024-05-07T20:57:34.669512+00:00
- - user: None
- - tags: []
-
-## Events Calendar
- - [https://events.ucr.edu](https://events.ucr.edu)
- - date published: 2024-05-07T20:57:21.046479+00:00
- - user: None
- - tags: []
-
-## The Office of Financial Aid
- - [https://financialaid.ucr.edu](https://financialaid.ucr.edu)
- - date published: 2024-05-07T20:57:15.365680+00:00
- - user: None
- - tags: []
-
-## Connect with the Office of Foster Youth Support Services
- - [https://fosteryouth.ucr.edu](https://fosteryouth.ucr.edu)
- - date published: 2024-05-07T20:57:06.418302+00:00
- - user: None
- - tags: []
-
-## Highlander Empowerment Student Services Referendum
- - [https://hessr.ucr.edu](https://hessr.ucr.edu)
- - date published: 2024-05-07T20:56:59.409038+00:00
- - user: None
- - tags: []
-
-## Inclusion at UCR
- - [https://inclusion.ucr.edu](https://inclusion.ucr.edu)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Inside UCR | UC Riverside
- - [https://insideucr.ucr.edu](https://insideucr.ucr.edu)
- - date published: 2024-05-07T20:57:44.934793+00:00
- - user: None
- - tags: []
-
-## Jobs
- - [https://jobs.ucr.edu](https://jobs.ucr.edu)
- - date published: 2024-05-07T20:57:26.431360+00:00
- - user: None
- - tags: []
-
-## Library
- - [https://library.ucr.edu](https://library.ucr.edu)
- - date published: 2024-05-07T20:57:31.232994+00:00
- - user: None
- - tags: []
-
-## UCR Magazine
- - [https://magazine.ucr.edu](https://magazine.ucr.edu)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Department of Mathematics
- - [http://mathdept.ucr.edu](http://mathdept.ucr.edu)
- - date published: 2024-05-07T20:57:41.720908+00:00
- - user: None
- - tags: []
-
-## https://math.ucr.edu
- - [https://math.ucr.edu](https://math.ucr.edu)
- - date published: 2024-01-09T03:28:05.221200+00:00
- - user: None
- - tags: []
-
-## Connect with UCR's MESC!
- - [https://mesc.ucr.edu](https://mesc.ucr.edu)
- - date published: 2024-05-07T20:57:35.616451+00:00
- - user: None
- - tags: []
-
-## Giving
- - [https://myadv.ucr.edu](https://myadv.ucr.edu)
- - date published: 2024-05-07T20:57:39.804859+00:00
- - user: None
- - tags: []
-
-## Native American Student Programs
- - [https://nasp.ucr.edu](https://nasp.ucr.edu)
- - date published: 2024-05-07T20:57:07.491047+00:00
- - user: None
- - tags: []
-
-## | News
- - [https://news.ucr.edu](https://news.ucr.edu)
- - date published: 2023-10-25T19:00:55.178548+00:00
- - user: None
- - tags: []
-
-## Connect with UCR's LGBT Resource Center!
- - [https://out.ucr.edu](https://out.ucr.edu)
- - date published: 2024-05-07T20:56:53.721165+00:00
- - user: None
- - tags: []
-
-## Student Affairs
- - [https://studentaffairs.ucr.edu](https://studentaffairs.ucr.edu)
- - date published: 2024-05-07T20:57:32.478438+00:00
- - user: None
- - tags: []
-
-## Get High-Quality Medical Care from Student Health Services
- - [https://studenthealth.ucr.edu](https://studenthealth.ucr.edu)
- - date published: 2024-05-07T20:57:03.745633+00:00
- - user: None
- - tags: []
-
-## Health, Well-being & Safety
- - [https://studentwellness.ucr.edu](https://studentwellness.ucr.edu)
- - date published: 2024-05-07T20:57:28.220544+00:00
- - user: None
- - tags: []
-
-## Tobacco Free
- - [http://tobaccofree.ucr.edu](http://tobaccofree.ucr.edu)
- - date published: 2024-03-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## University of California, Riverside
- - [https://ucr.edu](https://ucr.edu)
- - date published: 2024-05-07T20:57:23.081434+00:00
- - user: None
- - tags: []
-
-## Undocumented Student Programs
- - [https://usp.ucr.edu](https://usp.ucr.edu)
- - date published: 2024-05-07T20:57:12.406484+00:00
- - user: None
- - tags: []
-
-## Art of Assembly Language Programming and HLA by Randall Hyde
- - [http://webster.cs.ucr.edu](http://webster.cs.ucr.edu)
- - date published: 2024-04-25T18:39:22.189939+00:00
- - user: None
- - tags: []
-
-## The Well
- - [https://well.ucr.edu](https://well.ucr.edu)
- - date published: 2024-05-07T20:57:16.479338+00:00
- - user: None
- - tags: []
-
-## Discover UCR's WRC!
- - [https://wrc.ucr.edu](https://wrc.ucr.edu)
- - date published: 2024-05-07T20:57:05.013766+00:00
- - user: None
- - tags: []
-
-## University of California, Riverside
- - [https://www.ucr.edu](https://www.ucr.edu)
- - date published: 2024-05-07T20:56:55.248686+00:00
- - user: None
- - tags: []
-
-## The Agrippa Files
- - [https://agrippa.english.ucsb.edu](https://agrippa.english.ucsb.edu)
- - date published: 2024-01-09T03:28:12.292436+00:00
- - user: None
- - tags: []
-
-## UCSB College of Creative Studies
- - [https://ccs.ucsb.edu](https://ccs.ucsb.edu)
- - date published: 2024-04-29T03:32:44.065533+00:00
- - user: None
- - tags: []
-
-## Giving to the University of California, Santa Barbara
- - [https://giving.ucsb.edu](https://giving.ucsb.edu)
- - date published: 2024-05-07T20:58:47.966068+00:00
- - user: None
- - tags: []
-
-## Home | Ludkovski
- - [https://ludkovski.pstat.ucsb.edu](https://ludkovski.pstat.ucsb.edu)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Fall/Winter 2023 Home
- - [https://magazine.ucsb.edu](https://magazine.ucsb.edu)
- - date published: 2024-05-07T20:58:41.991720+00:00
- - user: None
- - tags: []
-
-## UC Santa Barbara News & Events | The Current
- - [https://news.ucsb.edu](https://news.ucsb.edu)
- - date published: 2023-10-25T19:00:57.283089+00:00
- - user: None
- - tags: []
-
-## Transcriptions {UCSB English Department Center for Digital Humanities & New Media Studies}
- - [http://transcriptions.english.ucsb.edu](http://transcriptions.english.ucsb.edu)
- - date published: 2024-04-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Events Calendar
- - [https://www.campuscalendar.ucsb.edu](https://www.campuscalendar.ucsb.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Center for Financial Mathematics and Actuarial Research - UC Santa Barbara
- - [http://www.cfmar.pstat.ucsb.edu](http://www.cfmar.pstat.ucsb.edu)
- - date published: 2024-05-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | College of Letters & Science
- - [http://www.college.ucsb.edu](http://www.college.ucsb.edu)
- - date published: 2024-05-07T20:58:45.475138+00:00
- - user: None
- - tags: []
-
-## Home | Institutional Advancement
- - [https://www.dia.ucsb.edu](https://www.dia.ucsb.edu)
- - date published: 2024-05-07T20:58:40.757409+00:00
- - user: None
- - tags: []
-
-## UCSB English Department
- - [http://www.english.ucsb.edu](http://www.english.ucsb.edu)
- - date published: 2024-05-07T20:58:11.492113+00:00
- - user: None
- - tags: []
-
-## McNair Scholars Program - UC Santa Barbara
- - [https://www.mcnair.ucsb.edu](https://www.mcnair.ucsb.edu)
- - date published: 2024-02-08T22:06:39.602435+00:00
- - user: None
- - tags: []
-
-## UC Santa Barbara News & Events | The Current
- - [https://www.news.ucsb.edu](https://www.news.ucsb.edu)
- - date published: 2023-10-25T19:00:59.328877+00:00
- - user: None
- - tags: []
-
-## Home | UC Santa Barbara | Policies & Procedures
- - [http://www.policy.ucsb.edu](http://www.policy.ucsb.edu)
- - date published: 2024-05-07T20:58:49.552323+00:00
- - user: None
- - tags: []
-
-## Welcome to The American Presidency Project | The American Presidency Project
- - [https://www.presidency.ucsb.edu](https://www.presidency.ucsb.edu)
- - date published: 2024-05-04T05:25:28.570604+00:00
- - user: None
- - tags: []
-
-## Home | UC Santa Barbara | Privacy
- - [https://www.privacy.ucsb.edu](https://www.privacy.ucsb.edu)
- - date published: 2024-05-07T20:58:43.684216+00:00
- - user: None
- - tags: []
-
-## Department of Statistics and Applied Probability - UC Santa Barbara
- - [https://www.pstat.ucsb.edu](https://www.pstat.ucsb.edu)
- - date published: 2024-05-07T20:58:20.273983+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.ucsb.edu](https://www.ucsb.edu)
- - date published: 2024-04-30T15:47:47.439884+00:00
- - user: None
- - tags: []
-
-## UCSC Academic Affairs
- - [https://academicaffairs.ucsc.edu](https://academicaffairs.ucsc.edu)
- - date published: 2024-05-07T20:59:53.699414+00:00
- - user: None
- - tags: []
-
-## ALT Games Lab – Alternative Learning Technologies and Games Lab
- - [https://altgameslab.soe.ucsc.edu](https://altgameslab.soe.ucsc.edu)
- - date published: 2024-05-04T15:17:38.418725+00:00
- - user: None
- - tags: []
-
-## The Ramirez Lab – This site describes the people, facilities, and research being pursued in Art Ramirez's lab
- - [https://aprlab.sites.ucsc.edu](https://aprlab.sites.ucsc.edu)
- - date published: 2024-05-07T15:14:35.485550+00:00
- - user: None
- - tags: []
-
-## Events Calendar - Events at UC Santa Cruz
- - [https://calendar.ucsc.edu](https://calendar.ucsc.edu)
- - date published: 2024-09-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Digital Karnak – University of California Santa Cruz
- - [https://digitalkarnak.ucsc.edu](https://digitalkarnak.ucsc.edu)
- - date published: 2024-05-09T06:06:44.060160+00:00
- - user: None
- - tags: []
-
-## Home Page | EIS
- - [https://eis.ucsc.edu](https://eis.ucsc.edu)
- - date published: 2024-05-04T15:17:34.362396+00:00
- - user: None
- - tags: []
-
-## UC Santa Cruz - Earth & Planetary Sciences
- - [http://eps.ucsc.edu](http://eps.ucsc.edu)
- - date published: 2024-05-07T20:59:32.734118+00:00
- - user: None
- - tags: []
-
-## UC Santa Cruz Financial Aid Office
- - [http://financialaid.ucsc.edu](http://financialaid.ucsc.edu)
- - date published: 2024-05-07T21:00:16.333368+00:00
- - user: None
- - tags: []
-
-## Division of Graduate Studies
- - [http://graddiv.ucsc.edu](http://graddiv.ucsc.edu)
- - date published: 2024-05-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Inquiry @ UC Santa Cruz
- - [https://inquiry.ucsc.edu](https://inquiry.ucsc.edu)
- - date published: 2024-05-07T21:00:10.499147+00:00
- - user: None
- - tags: []
-
-## UC Santa Cruz - Information Technology Services
- - [https://its.ucsc.edu](https://its.ucsc.edu)
- - date published: 2024-05-07T20:59:42.623589+00:00
- - user: None
- - tags: []
-
-## Home | Kavli Summer Program in Astrophysics
- - [https://kspa.soe.ucsc.edu](https://kspa.soe.ucsc.edu)
- - date published: 2021-12-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## UC Santa Cruz Magazine
- - [https://magazine.ucsc.edu](https://magazine.ucsc.edu)
- - date published: 2024-05-07T20:59:39.177672+00:00
- - user: None
- - tags: []
-
-## MyUCSC redirect to Login Page
- - [https://my.ucsc.edu](https://my.ucsc.edu)
- - date published: 2024-05-07T20:59:57.113876+00:00
- - user: None
- - tags: []
-
-## University News & Events
- - [https://news.ucsc.edu](https://news.ucsc.edu)
- - date published: 2023-10-25T19:01:04.525669+00:00
- - user: None
- - tags: []
-
-## Physics Redirection page
- - [http://physics.ucsc.edu](http://physics.ucsc.edu)
- - date published: 2024-05-07T20:59:13.024174+00:00
- - user: None
- - tags: []
-
-## AIS PISA Application Services
- - [https://pisa.ucsc.edu](https://pisa.ucsc.edu)
- - date published: 2024-05-07T21:00:21.950420+00:00
- - user: None
- - tags: []
-
-## Privacy & Information Practices Department
- - [https://privacy.ucsc.edu](https://privacy.ucsc.edu)
- - date published: 2024-04-30T05:50:19.456117+00:00
- - user: None
- - tags: []
-
-## UCSC Special Reports
- - [https://reports.news.ucsc.edu](https://reports.news.ucsc.edu)
- - date published: 2024-05-07T21:00:02.527977+00:00
  - user: None
  - tags: []
 

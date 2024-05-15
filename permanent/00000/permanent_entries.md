@@ -1102,6 +1102,12 @@
  - user: rumpel
  - tags: ['chatbot', 'nsfw']
 
+## CrystalSound: AI Noise Cancelling, Call & Screen Recording
+ - [https://crystalsound.ai](https://crystalsound.ai)
+ - date published: 2023-08-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Cubed.ai
  - [http://cubed.ai](http://cubed.ai)
  - date published: 2024-05-06T17:47:34.160154+00:00
@@ -1747,6 +1753,12 @@
 ## Revamp: Smarter Customer Segmentation for eCommerce
  - [https://getrevamp.ai](https://getrevamp.ai)
  - date published: 2024-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Venta - Your AI co-worker for more sales pipeline
+ - [https://www.getventa.ai](https://www.getventa.ai)
+ - date published: 2024-04-30T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2830,6 +2842,12 @@
  - user: None
  - tags: []
 
+## Parea AI
+ - [https://app.parea.ai](https://app.parea.ai)
+ - date published: 2024-05-14T03:30:30.504971+00:00
+ - user: None
+ - tags: []
+
 ## What is Parea AI? - Parea AI
  - [https://docs.parea.ai](https://docs.parea.ai)
  - date published: 2024-04-08T18:21:57.413194+00:00
@@ -2840,6 +2858,12 @@
  - [https://parea.ai](https://parea.ai)
  - date published: 2024-03-30T00:00:00+00:00
  - user: rumpel
+ - tags: []
+
+## Parea AI
+ - [https://www.parea.ai](https://www.parea.ai)
+ - date published: 2024-05-13T00:00:00+00:00
+ - user: None
  - tags: []
 
 ## Penelope.ai
@@ -2857,6 +2881,12 @@
 ## Perplexity Labs Playground
  - [https://labs.perplexity.ai](https://labs.perplexity.ai)
  - date published: 2023-12-19T17:44:33+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [https://perplexity.ai](https://perplexity.ai)
+ - date published: 2024-05-14T03:37:40.311437+00:00
  - user: None
  - tags: []
 
@@ -3136,6 +3166,12 @@
  - user: None
  - tags: []
 
+## Rapid Claims AI - Autonomous medical coding and documentation
+ - [https://www.rapidclaims.ai](https://www.rapidclaims.ai)
+ - date published: 2024-04-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Read AI
  - [https://app.read.ai](https://app.read.ai)
  - date published: 2024-05-04T09:19:01.175170+00:00
@@ -3301,6 +3337,12 @@
 ## AI Document Processing For Transactional Workflows
  - [https://rossum.ai](https://rossum.ai)
  - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Meet Rowsie: Your AI Assistant for Excel Modeling
+ - [https://www.rowsie.ai](https://www.rowsie.ai)
+ - date published: 2024-05-07T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4378,6 +4420,12 @@
  - user: None
  - tags: []
 
+## 2FAuth Demo
+ - [https://demo.2fauth.app](https://demo.2fauth.app)
+ - date published: 2024-05-14T03:37:07.236913+00:00
+ - user: None
+ - tags: []
+
 ## Welcome to 2FAuth Docs - 2FAuth Docs
  - [https://docs.2fauth.app](https://docs.2fauth.app)
  - date published: 2024-04-08T19:27:57.009071+00:00
@@ -4474,6 +4522,12 @@
  - user: None
  - tags: ['self-host']
 
+## Bar Assistant
+ - [https://my.barassistant.app](https://my.barassistant.app)
+ - date published: 2024-05-14T03:35:07.703869+00:00
+ - user: None
+ - tags: []
+
 ## Bear
  - [https://bear.app](https://bear.app)
  - date published: 2024-05-04T14:03:16.127978+00:00
@@ -4555,6 +4609,12 @@
 ## Bluesky Documentation | Bluesky
  - [https://www.docs.bsky.app](https://www.docs.bsky.app)
  - date published: 2024-05-02T13:43:31.911296+00:00
+ - user: None
+ - tags: []
+
+## Budibase
+ - [https://account.budibase.app](https://account.budibase.app)
+ - date published: 2024-05-14T03:35:49.198094+00:00
  - user: None
  - tags: []
 
@@ -4804,6 +4864,12 @@
  - user: None
  - tags: []
 
+## Efficient App | Top Software Reviews & Comparisons
+ - [https://efficient.app](https://efficient.app)
+ - date published: 2024-05-14T03:37:37.676630+00:00
+ - user: None
+ - tags: []
+
 ## YouTube Video Summaries with Eightify AI ChatGPT
  - [https://www.eightify.app](https://www.eightify.app)
  - date published: 2023-10-25T11:46:08.020954+00:00
@@ -4906,9 +4972,21 @@
  - user: None
  - tags: []
 
+## Sign in to Feedbase
+ - [https://dash.feedbase.app](https://dash.feedbase.app)
+ - date published: 2024-05-14T03:37:56.637668+00:00
+ - user: None
+ - tags: []
+
 ## Feedbase
  - [https://feedbase.app](https://feedbase.app)
  - date published: 2024-04-08T19:28:15.815682+00:00
+ - user: None
+ - tags: []
+
+## Feedback - Feedbase
+ - [https://hub.feedbase.app](https://hub.feedbase.app)
+ - date published: 2024-03-03T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4921,6 +4999,18 @@
 ## Home | Fileside
  - [https://www.fileside.app](https://www.fileside.app)
  - date published: 2023-10-25T11:46:27.851566+00:00
+ - user: None
+ - tags: []
+
+## Filestash
+ - [https://demo.filestash.app](https://demo.filestash.app)
+ - date published: 2024-05-14T03:31:30.980624+00:00
+ - user: None
+ - tags: []
+
+## Archive
+ - [https://downloads.filestash.app](https://downloads.filestash.app)
+ - date published: 2024-05-14T03:31:31.695587+00:00
  - user: None
  - tags: []
 
@@ -5098,11 +5188,23 @@
  - user: None
  - tags: []
 
+## Introduction | Hoarder Docs
+ - [https://docs.hoarder.app](https://docs.hoarder.app)
+ - date published: 2024-05-14T03:46:21.700968+00:00
+ - user: None
+ - tags: []
+
 ## Hoarder
  - [https://hoarder.app](https://hoarder.app)
  - date published: 2024-04-08T19:28:56.756392+00:00
  - user: None
  - tags: ['link aggregator', 'self-host']
+
+## Hoarder
+ - [https://try.hoarder.app](https://try.hoarder.app)
+ - date published: 2024-05-14T03:46:16.964834+00:00
+ - user: None
+ - tags: []
 
 ## Holy Swift
  - [https://holyswift.app](https://holyswift.app)
@@ -5255,6 +5357,24 @@
  - tags: []
 
 ## Linkwarden
+ - [https://blog.linkwarden.app](https://blog.linkwarden.app)
+ - date published: 2024-03-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Linkwarden
+ - [https://cloud.linkwarden.app](https://cloud.linkwarden.app)
+ - date published: 2024-05-14T03:49:12.485860+00:00
+ - user: None
+ - tags: []
+
+## Linkwarden
+ - [https://docs.linkwarden.app](https://docs.linkwarden.app)
+ - date published: 2024-05-14T03:49:09.242508+00:00
+ - user: None
+ - tags: []
+
+## Linkwarden
  - [https://linkwarden.app](https://linkwarden.app)
  - date published: 2024-04-08T19:29:29.155254+00:00
  - user: None
@@ -5263,6 +5383,12 @@
 ## Listen and publish YouTube shows as podcasts - Listenbox
  - [https://listenbox.app](https://listenbox.app)
  - date published: 2024-05-12T06:23:26.569730+00:00
+ - user: None
+ - tags: []
+
+## listmonk - Mailing list
+ - [https://demo.listmonk.app](https://demo.listmonk.app)
+ - date published: 2024-05-14T03:49:19.242863+00:00
  - user: None
  - tags: []
 
@@ -5356,6 +5482,12 @@
  - user: None
  - tags: ['self-host', '3d file library']
 
+## Manyfold
+ - [https://try.manyfold.app](https://try.manyfold.app)
+ - date published: 2024-05-14T03:49:54.307225+00:00
+ - user: None
+ - tags: []
+
 ## marimo | a next-generation Python notebook
  - [https://marimo.app](https://marimo.app)
  - date published: 2024-02-29T18:41:02.482986+00:00
@@ -5404,6 +5536,18 @@
  - user: None
  - tags: ['self-host', 'rss']
 
+## Sign In - Miniflux
+ - [https://reader.miniflux.app](https://reader.miniflux.app)
+ - date published: 2024-05-14T03:51:09.108854+00:00
+ - user: None
+ - tags: []
+
+## Miniflux Hosting
+ - [https://status.miniflux.app](https://status.miniflux.app)
+ - date published: 2024-05-14T03:51:07.630206+00:00
+ - user: None
+ - tags: []
+
 ## Minimal | Writing + Notes
  - [https://minimal.app](https://minimal.app)
  - date published: 2023-10-25T11:47:19.318703+00:00
@@ -5428,11 +5572,23 @@
  - user: None
  - tags: []
 
+## Mixpost Documentation | Mixpost Documentation
+ - [https://docs.mixpost.app](https://docs.mixpost.app)
+ - date published: 2024-05-14T03:51:14.763618+00:00
+ - user: None
+ - tags: []
+
 ## Self-hosted, Open Source Social Media Management - Mixpost
  - [https://mixpost.app](https://mixpost.app)
  - date published: 2024-04-08T19:29:51.366167+00:00
  - user: None
  - tags: ['social media', 'self-host']
+
+## Mixpost Roadmap
+ - [https://roadmap.mixpost.app](https://roadmap.mixpost.app)
+ - date published: 2024-05-14T03:51:14.164609+00:00
+ - user: None
+ - tags: []
 
 ## Монетал - Учет расходов
  - [https://monetal.app](https://monetal.app)
@@ -5839,162 +5995,6 @@
 ## Sudoku
  - [https://sudoku-aj.netlify.app](https://sudoku-aj.netlify.app)
  - date published: 2024-01-08T18:13:11.190452+00:00
- - user: None
- - tags: []
-
-## Swiss Post Design System
- - [https://swisspost-web-frontend.netlify.app](https://swisspost-web-frontend.netlify.app)
- - date published: 2023-10-25T11:47:57.137561+00:00
- - user: None
- - tags: []
-
-## SwyxKit
- - [https://swyxkit.netlify.app](https://swyxkit.netlify.app)
- - date published: 2024-05-06T13:03:36.864172+00:00
- - user: None
- - tags: []
-
-## Techie Stuff - Teona's Blog
- - [https://techiestuff.netlify.app](https://techiestuff.netlify.app)
- - date published: 2024-05-07T23:22:58.102468+00:00
- - user: None
- - tags: []
-
-## The Retired
- - [https://the-retired.netlify.app](https://the-retired.netlify.app)
- - date published: 2024-05-07T14:17:12.009982+00:00
- - user: None
- - tags: []
-
-## Twoslash
- - [https://twoslash.netlify.app](https://twoslash.netlify.app)
- - date published: 2024-01-24T04:21:20.436111+00:00
- - user: None
- - tags: []
-
-## Web Assets
- - [https://ucsc-webassets.netlify.app](https://ucsc-webassets.netlify.app)
- - date published: 2024-05-07T20:59:39.856494+00:00
- - user: None
- - tags: []
-
-## Vidrio: the holographic screen sharing app for awesome presentations
- - [https://vidrio.netlify.app](https://vidrio.netlify.app)
- - date published: 2024-05-11T07:17:54.322683+00:00
- - user: None
- - tags: []
-
-## Villa Pirorum
- - [https://villapirorum.netlify.app](https://villapirorum.netlify.app)
- - date published: 2024-04-03T12:45:05.513466+00:00
- - user: None
- - tags: ['personal']
-
-## Vite Plugin PWA
- - [https://vite-pwa-org.netlify.app](https://vite-pwa-org.netlify.app)
- - date published: 2024-05-08T11:42:44.603380+00:00
- - user: None
- - tags: []
-
-## Wax compiler – a tiny language designed to transpile to other languages
- - [https://waxc.netlify.app](https://waxc.netlify.app)
- - date published: 2024-04-20T05:05:17+00:00
- - user: None
- - tags: []
-
-## Particle Life
- - [https://webgpulife.netlify.app](https://webgpulife.netlify.app)
- - date published: 2024-05-11T07:52:48.920513+00:00
- - user: None
- - tags: []
-
-## Niagara Launcher ðŸ”¹ fresh & clean homescreen for Android
- - [https://niagaralauncher.app](https://niagaralauncher.app)
- - date published: 2024-02-10T17:55:05.907774+00:00
- - user: None
- - tags: []
-
-## Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)
- - [https://nino.app](https://nino.app)
- - date published: 2024-01-07T14:34:46+00:00
- - user: None
- - tags: []
-
-## NoiseCraft
- - [https://noisecraft.app](https://noisecraft.app)
- - date published: 2024-05-06T23:31:33.945372+00:00
- - user: None
- - tags: []
-
-## Nordot | ノアドット株式会社
- - [https://nordot.app](https://nordot.app)
- - date published: 2023-10-25T11:48:00.245663+00:00
- - user: None
- - tags: []
-
-## Content-first Bookmarking  - Notado
- - [https://notado.app](https://notado.app)
- - date published: 2024-05-04T12:26:33.768576+00:00
- - user: None
- - tags: []
-
-## Log in | Nx Cloud
- - [https://cloud.nx.app](https://cloud.nx.app)
- - date published: 2024-04-30T02:04:24.365167+00:00
- - user: None
- - tags: []
-
-## Fast CI · Built for Monorepos
- - [https://nx.app](https://nx.app)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nx status
- - [https://status.nx.app](https://status.nx.app)
- - date published: 2024-04-30T02:04:17.351042+00:00
- - user: None
- - tags: []
-
-## org à la mode
- - [https://oalm.app](https://oalm.app)
- - date published: 2024-04-30T07:25:34.276072+00:00
- - user: None
- - tags: []
-
-## Ok! So...
- - [https://okso.app](https://okso.app)
- - date published: 2023-10-25T08:31:03.654005+00:00
- - user: None
- - tags: []
-
-## OliveTin - give safe and simple access to predefined shell commands from a web interface
- - [https://olivetin.app](https://olivetin.app)
- - date published: 2024-04-08T19:30:03.148679+00:00
- - user: None
- - tags: ['self-host', 'web interface', 'server management']
-
-## omni-clip
- - [https://omniclip.app](https://omniclip.app)
- - date published: 2024-05-12T06:23:23+00:00
- - user: rumpel
- - tags: []
-
-## Main Page | Omnipedia
- - [https://omnipedia.app](https://omnipedia.app)
- - date published: 2024-04-23T15:25:28+00:00
- - user: rumpel
- - tags: ['fiction encyclopedia']
-
-## Omnivore
- - [https://omnivore.app](https://omnivore.app)
- - date published: 2023-10-25T11:48:07.019044+00:00
- - user: None
- - tags: []
-
-## Weather App
- - [https://digitalweather-app-9eejw.ondigitalocean.app](https://digitalweather-app-9eejw.ondigitalocean.app)
- - date published: 2024-05-10T16:54:46.255464+00:00
  - user: None
  - tags: []
 
