@@ -1,3 +1,159 @@
+## PandasAI - Conversational Data Analysis
+ - [https://pandas-ai.com](https://pandas-ai.com)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Antivirus Revolution - Panda Security
+ - [https://www.pandasecurity.com](https://www.pandasecurity.com)
+ - date published: 2023-10-29T12:00:35.028997+00:00
+ - user: None
+ - tags: []
+
+## Home - Phillips and Jordan
+ - [http://www.pandj.com](http://www.pandj.com)
+ - date published: 2024-05-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SiriusXM | Hear & Now
+ - [https://blog.pandora.com](https://blog.pandora.com)
+ - date published: 2024-05-11T08:50:41.632398+00:00
+ - user: None
+ - tags: []
+
+## Pandora Help
+ - [https://help.pandora.com](https://help.pandora.com)
+ - date published: 2024-05-11T08:50:43.137413+00:00
+ - user: None
+ - tags: []
+
+## Pandora
+ - [https://pandora.com](https://pandora.com)
+ - date published: 2024-04-28T04:14:42.643338+00:00
+ - user: None
+ - tags: []
+
+## Pandora
+ - [https://www-a.pandora.com](https://www-a.pandora.com)
+ - date published: 2024-05-07T15:28:29.070873+00:00
+ - user: None
+ - tags: []
+
+## Pandora
+ - [https://www.pandora.com](https://www.pandora.com)
+ - date published: 2024-03-20T18:07:18.081868+00:00
+ - user: None
+ - tags: []
+
+## Panel Attack - Swapping Puzzle Game
+ - [http://panelattack.com](http://panelattack.com)
+ - date published: 2024-05-09T09:10:05.382288+00:00
+ - user: None
+ - tags: []
+
+## Global Panel Exchange Center - Panelook.com
+ - [http://www.panelook.com](http://www.panelook.com)
+ - date published: 2024-05-04T09:32:45.288662+00:00
+ - user: None
+ - tags: []
+
+## Panels & Prose
+ - [https://panelsandprose.com](https://panelsandprose.com)
+ - date published: 2023-11-02T11:19:49.225609+00:00
+ - user: None
+ - tags: []
+
+## HOME
+ - [https://www.pangeosyacht.com](https://www.pangeosyacht.com)
+ - date published: 2023-10-25T16:30:22.156795+00:00
+ - user: None
+ - tags: []
+
+## Mobile App Advertising Platform | Mobile Ad Platform | Pangle
+ - [https://www.pangleglobal.com](https://www.pangleglobal.com)
+ - date published: 2024-05-06T17:58:21.834258+00:00
+ - user: None
+ - tags: []
+
+## Pangram Pangram Foundry — Free to Try Quality Fonts and Typefaces
+ - [https://pangrampangram.com](https://pangrampangram.com)
+ - date published: 2024-05-04T06:32:29.660534+00:00
+ - user: None
+ - tags: []
+
+## Panic Blog
+ - [https://blog.panic.com](https://blog.panic.com)
+ - date published: 2024-05-06T22:31:01.032198+00:00
+ - user: None
+ - tags: []
+
+## Panic - Mailing List Management
+ - [https://elist.panic.com](https://elist.panic.com)
+ - date published: 2024-05-06T22:31:03.555394+00:00
+ - user: None
+ - tags: []
+
+## Nova Extensions
+ - [https://extensions.panic.com](https://extensions.panic.com)
+ - date published: 2024-05-06T09:10:50.688010+00:00
+ - user: None
+ - tags: []
+
+## Panic Library
+ - [https://library.panic.com](https://library.panic.com)
+ - date published: 2024-05-01T07:02:02.579704+00:00
+ - user: None
+ - tags: []
+
+## Panic - We code apps, publish games, and make Playdate.
+ - [https://panic.com](https://panic.com)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Panic Podcast. Follow the sidequests, subplots, and accidents of history that round out Portland’s Panic.
+ - [https://podcast.panic.com](https://podcast.panic.com)
+ - date published: 2021-07-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Panic Social
+ - [https://social.panic.com](https://social.panic.com)
+ - date published: 2023-10-24T20:13:18.672824+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Panic - We code apps, publish games, and make Playdate.
+ - [https://www.panic.com](https://www.panic.com)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## mailman.panix.com Mailing Lists
+ - [https://mailman.panix.com](https://mailman.panix.com)
+ - date published: 2024-05-08T05:47:19.315225+00:00
+ - user: None
+ - tags: []
+
+## Panix - Public Access Networks Corporation
+ - [https://www.panix.com](https://www.panix.com)
+ - date published: 2024-05-08T09:13:52.045161+00:00
+ - user: None
+ - tags: []
+
+## Heiko Panjas
+ - [https://panjas.com](https://panjas.com)
+ - date published: 2024-05-09T07:48:14.455953+00:00
+ - user: None
+ - tags: []
+
+## Join us! - Pan Macmillan
+ - [https://careers.panmacmillan.com](https://careers.panmacmillan.com)
+ - date published: 2024-05-06T22:31:10.252565+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://trade.panmacmillan.com](https://trade.panmacmillan.com)
  - date published: 2024-05-06T22:31:11.821717+00:00
@@ -427,12 +583,6 @@
 ## We are Paradox - Paradox Interactive
  - [https://career.paradoxplaza.com](https://career.paradoxplaza.com)
  - date published: 2024-05-14T02:49:13.326041+00:00
- - user: None
- - tags: []
-
-## We are Paradox - Paradox Interactive
- - [http://career.paradoxplaza.com](http://career.paradoxplaza.com)
- - date published: 2024-05-11T09:32:44.385767+00:00
  - user: None
  - tags: []
 
@@ -1283,17 +1433,17 @@
  - user: None
  - tags: []
 
-## Max  FitzGerald  | Patreon
- - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
- - date published: 2023-10-27T15:07:52+00:00
- - user: rumpel
- - tags: ['turnip28', 'tabletop games']
-
 ## Home — Patreon
  - [https://www.patreon.com](https://www.patreon.com)
  - date published: 2023-10-25T11:34:19.134811+00:00
  - user: None
  - tags: ['crowdfunding']
+
+## Max  FitzGerald  | Patreon
+ - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
+ - date published: 2023-10-27T15:07:52+00:00
+ - user: rumpel
+ - tags: ['turnip28', 'tabletop games']
 
 ## Patreon | News | Home
  - [https://patreonhq.com](https://patreonhq.com)
@@ -4326,6 +4476,12 @@
  - tags: []
 
 ## Chronicle of Philanthropy | News, Opinion and Advice about Philanthropic Giving
+ - [http://philanthropy.com](http://philanthropy.com)
+ - date published: 2024-05-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Chronicle of Philanthropy | News, Opinion and Advice about Philanthropic Giving
  - [https://www.philanthropy.com](https://www.philanthropy.com)
  - date published: 2024-05-04T00:00:00+00:00
  - user: None
@@ -4739,6 +4895,12 @@
  - date published: 2024-04-30T02:29:55.566546+00:00
  - user: None
  - tags: []
+
+## Linux Hardware Reviews & Performance Benchmarks, Open-Source News - Phoronix
+ - [https://phoronix.com](https://phoronix.com)
+ - date published: 2024-05-15T02:52:34.613061+00:00
+ - user: None
+ - tags: ['linux', 'open source']
 
 ## Linux Hardware Reviews & Performance Benchmarks, Open-Source News - Phoronix
  - [https://www.phoronix.com](https://www.phoronix.com)
@@ -5156,6 +5318,12 @@
  - user: None
  - tags: []
 
+## PhysURLs – A neat physics news aggregator
+ - [https://physurls.com](https://physurls.com)
+ - date published: 2024-05-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## THE PROGRAMMATIC POWERHOUSE | PIA Advertising
  - [https://pia-advertising.com](https://pia-advertising.com)
  - date published: 2024-05-06T18:00:09.580780+00:00
@@ -5468,6 +5636,12 @@
  - user: None
  - tags: []
 
+## Pikuma: Courses
+ - [https://courses.pikuma.com](https://courses.pikuma.com)
+ - date published: 2024-05-15T02:49:58.439275+00:00
+ - user: None
+ - tags: []
+
 ## Pikuma: Fundamentals of computer science and mathematics
  - [https://pikuma.com](https://pikuma.com)
  - date published: 2023-10-25T16:34:51.221525+00:00
@@ -5642,6 +5816,18 @@
  - user: None
  - tags: []
 
+## Pinalist
+ - [https://app.pinalist.com](https://app.pinalist.com)
+ - date published: 2024-05-15T03:05:10.543450+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Pinalist | Pinalist
+ - [https://help.pinalist.com](https://help.pinalist.com)
+ - date published: 2024-05-15T03:05:11.242665+00:00
+ - user: None
+ - tags: []
+
 ## Pinalist - All-in-one Bookmark Manager
  - [https://pinalist.com](https://pinalist.com)
  - date published: 2023-11-26T16:47:48+00:00
@@ -5813,192 +5999,6 @@
 ## Pink Stork - The Wellness Brand for Women ®
  - [https://pinkstork.com](https://pinkstork.com)
  - date published: 2024-04-29T04:33:19.302983+00:00
- - user: None
- - tags: []
-
-## Pink Tentacle
- - [http://www.pinktentacle.com](http://www.pinktentacle.com)
- - date published: 2024-05-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## PinkUk LGBTQ+ guide to the UK & Worldwide
- - [https://pinkuk.com](https://pinkuk.com)
- - date published: 2024-05-04T08:49:24.147897+00:00
- - user: None
- - tags: ['lgbt']
-
-## Handbook of hardware schemes, cables layouts and connectors  pinouts diagrams @ pinouts.ru
- - [https://pinoutguide.com](https://pinoutguide.com)
- - date published: 2024-02-05T08:33:40.822534+00:00
- - user: None
- - tags: []
-
-## Careers at Digital Science
- - [https://digitalscience.pinpointhq.com](https://digitalscience.pinpointhq.com)
- - date published: 2024-05-01T05:10:57.136846+00:00
- - user: None
- - tags: []
-
-## Careers at Elliptic
- - [https://elliptic.pinpointhq.com](https://elliptic.pinpointhq.com)
- - date published: 2024-04-30T06:42:48.234999+00:00
- - user: None
- - tags: []
-
-## Jobs at SafetyWing | SafetyWing Careers
- - [https://safetywing.pinpointhq.com](https://safetywing.pinpointhq.com)
- - date published: 2023-10-25T16:35:12.884449+00:00
- - user: None
- - tags: []
-
-## Applicant tracking software that’s ready for anything
- - [https://www.pinpointhq.com](https://www.pinpointhq.com)
- - date published: 2024-04-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinpoll - Tools, DMP and Analytics for Websites
- - [https://www.pinpoll.com](https://www.pinpoll.com)
- - date published: 2024-05-06T17:48:01.536334+00:00
- - user: None
- - tags: []
-
-## 3D Printing Forum - Pinshape
- - [https://forums.pinshape.com](https://forums.pinshape.com)
- - date published: 2024-05-05T00:00:00+00:00
- - user: None
- - tags: ['3d printing']
-
-## Free 3D Printable Files and Designs | Pinshape
- - [https://pinshape.com](https://pinshape.com)
- - date published: 2023-10-27T10:31:11.033157+00:00
- - user: None
- - tags: ['3d printing', 'assets models']
-
-## Free 3D Printable Files and Designs | Pinshape
- - [http://www.pinshape.com](http://www.pinshape.com)
- - date published: 2024-05-07T15:59:22.412101+00:00
- - user: None
- - tags: []
-
-## a New York Yankees community
- - [http://www.pinstripealley.com](http://www.pinstripealley.com)
- - date published: 2024-04-29T02:04:54.943264+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://ar.pinterest.com](https://ar.pinterest.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://at.pinterest.com](https://at.pinterest.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://au.pinterest.com](https://au.pinterest.com)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://br.pinterest.com](https://br.pinterest.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinterest For Business: How to Market Your Brand | Pinterest Business
- - [https://business.pinterest.com](https://business.pinterest.com)
- - date published: 2024-04-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://ca.pinterest.com](https://ca.pinterest.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://ch.pinterest.com](https://ch.pinterest.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://co.pinterest.com](https://co.pinterest.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://cz.pinterest.com](https://cz.pinterest.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinterest Developers
- - [https://developers.pinterest.com](https://developers.pinterest.com)
- - date published: 2024-05-06T23:19:17.135918+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://dk.pinterest.com](https://dk.pinterest.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://fi.pinterest.com](https://fi.pinterest.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://fr.pinterest.com](https://fr.pinterest.com)
- - date published: 2023-12-11T15:37:14.861617+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://gr.pinterest.com](https://gr.pinterest.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinterest Help
- - [https://help.pinterest.com](https://help.pinterest.com)
- - date published: 2024-05-01T06:41:18.053779+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://hu.pinterest.com](https://hu.pinterest.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://id.pinterest.com](https://id.pinterest.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://ie.pinterest.com](https://ie.pinterest.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pinterest
- - [https://in.pinterest.com](https://in.pinterest.com)
- - date published: 2024-04-21T00:00:00+00:00
  - user: None
  - tags: []
 

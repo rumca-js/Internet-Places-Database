@@ -1,15 +1,3 @@
-## Leo Babauta
- - [https://leobabauta.com](https://leobabauta.com)
- - date published: 2024-05-10T06:18:04.235542+00:00
- - user: None
- - tags: []
-
-## Leo Dale
- - [https://leodale.com](https://leodale.com)
- - date published: 2023-11-29T17:07:15.641709+00:00
- - user: None
- - tags: ['personal']
-
 ## About Me - Leo Alexander Glowacki
  - [https://leoglowacki.com](https://leoglowacki.com)
  - date published: 2024-01-29T23:27:30.561916+00:00
@@ -814,6 +802,12 @@
  - user: None
  - tags: []
 
+## Home - Liberties
+ - [https://libertiesjournal.com](https://libertiesjournal.com)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## a Philadelphia 76ers community
  - [http://www.libertyballers.com](http://www.libertyballers.com)
  - date published: 2024-04-29T02:03:09.642400+00:00
@@ -1117,6 +1111,12 @@
 ## LibraryThing | Referre libros proprios orbis in conspectu | LibraryThing
  - [http://lat.librarything.com](http://lat.librarything.com)
  - date published: 2024-05-04T12:28:42.068000+00:00
+ - user: None
+ - tags: []
+
+## LibraryThing | Catalog your books online | LibraryThing
+ - [https://librarything.com](https://librarything.com)
+ - date published: 2024-05-15T20:53:56.981987+00:00
  - user: None
  - tags: []
 
@@ -2192,7 +2192,7 @@
  - [https://limpbizkit.com](https://limpbizkit.com)
  - date published: 2023-11-13T09:44:53.248638+00:00
  - user: None
- - tags: []
+ - tags: ['music band']
 
 ## Blog Linagora
  - [https://blog.linagora.com](https://blog.linagora.com)
@@ -3771,6 +3771,12 @@
 ## Microsoft account | Sign In or Create Your Account Today – Microsoft
  - [https://account.live.com](https://account.live.com)
  - date published: 2024-05-10T04:01:00.249830+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Outlook (formerly Hotmail): Free email and calendar | Microsoft 365
+ - [https://calendar.live.com](https://calendar.live.com)
+ - date published: 2024-05-15T07:44:14.474190+00:00
  - user: None
  - tags: []
 
@@ -5394,6 +5400,12 @@
  - user: None
  - tags: []
 
+## Current Issue - Logos Journal
+ - [http://www.logosjournal.com](http://www.logosjournal.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## LogRocket
  - [https://app.logrocket.com](https://app.logrocket.com)
  - date published: 2024-05-04T13:03:32.939642+00:00
@@ -5985,18 +5997,6 @@
 ## East Quogue New York - East Quogue LongIsland.com
  - [https://eastquogue.longisland.com](https://eastquogue.longisland.com)
  - date published: 2024-05-04T13:19:24.906920+00:00
- - user: None
- - tags: []
-
-## East Rockaway New York - East Rockaway LongIsland.com
- - [https://eastrockaway.longisland.com](https://eastrockaway.longisland.com)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## East Setauket New York - East Setauket LongIsland.com
- - [https://eastsetauket.longisland.com](https://eastsetauket.longisland.com)
- - date published: 2024-05-04T13:28:26.481080+00:00
  - user: None
  - tags: []
 

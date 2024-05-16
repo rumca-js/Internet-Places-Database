@@ -1,39 +1,3 @@
-## O2 Joggler Forum - Index page
- - [https://www.jogglerwiki.com](https://www.jogglerwiki.com)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Hacker indépendant
- - [https://johackim.com](https://johackim.com)
- - date published: 2024-05-09T08:18:30.004288+00:00
- - user: None
- - tags: []
-
-## Johan Friedner | Portfolio
- - [https://johanfriedner.com](https://johanfriedner.com)
- - date published: 2024-05-08T03:32:44.342440+00:00
- - user: None
- - tags: []
-
-## Johannes Haage
- - [https://www.johanneshaage.com](https://www.johanneshaage.com)
- - date published: 2024-01-10T23:53:13.723781+00:00
- - user: None
- - tags: []
-
-## The artwork of Johan Potma
- - [http://www.johanpotma.com](http://www.johanpotma.com)
- - date published: 1998-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Luxury Hotels, Spas and Villas - Condé Nast Johansens
- - [https://www.johansens.com](https://www.johansens.com)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Johnathan at Limbo
  - [https://johnathanbi.com](https://johnathanbi.com)
  - date published: 2023-10-25T15:30:08.552189+00:00
@@ -79,6 +43,12 @@
 ## John Coleman Burroughs
  - [http://www.johncolemanburroughs.com](http://www.johncolemanburroughs.com)
  - date published: 2024-05-08T11:34:25.659368+00:00
+ - user: None
+ - tags: []
+
+## Expert consulting in applied mathematics & data privacy
+ - [https://johndcook.com](https://johndcook.com)
+ - date published: 2016-01-27T21:31:37+00:00
  - user: None
  - tags: []
 
@@ -4240,6 +4210,12 @@
  - user: None
  - tags: []
 
+## Ken Muse - DevOps & Cloud Development
+ - [https://www.kenmuse.com](https://www.kenmuse.com)
+ - date published: 2024-04-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Kenna Security Is Part of Cisco
  - [https://kennasecurity.com](https://kennasecurity.com)
  - date published: 2024-04-29T04:49:50.367644+00:00
@@ -5996,6 +5972,30 @@
 ## Klara Inc | Open Source Development. Reimagined.
  - [https://klarasystems.com](https://klarasystems.com)
  - date published: 2023-10-25T15:38:07.509792+00:00
+ - user: None
+ - tags: []
+
+## Klarna
+ - [https://app.klarna.com](https://app.klarna.com)
+ - date published: 2024-05-04T09:47:15.735385+00:00
+ - user: None
+ - tags: []
+
+## Klarna Docs
+ - [https://docs.klarna.com](https://docs.klarna.com)
+ - date published: 2024-05-04T09:48:22.699786+00:00
+ - user: None
+ - tags: []
+
+## Klarna Merchant Portal
+ - [https://eu.portal.klarna.com](https://eu.portal.klarna.com)
+ - date published: 2024-05-04T09:48:20.273952+00:00
+ - user: None
+ - tags: []
+
+## KO | Klarna Merchant Portal
+ - [https://online.klarna.com](https://online.klarna.com)
+ - date published: 2024-05-02T14:00:49.569283+00:00
  - user: None
  - tags: []
 

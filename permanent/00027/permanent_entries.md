@@ -1,81 +1,3 @@
-## Intel | โซลูชันศูนย์ข้อมูล, IoT และนวัตกรรมด้านพีซี
- - [https://www.thailand.intel.com](https://www.thailand.intel.com)
- - date published: 2024-04-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Voice Services
- - [https://www.inteliquent.com](https://www.inteliquent.com)
- - date published: 2024-05-10T05:59:08.401174+00:00
- - user: None
- - tags: []
-
-## Welcome | IntellectualConservative
- - [http://www.intellectualconservative.com](http://www.intellectualconservative.com)
- - date published: 2024-05-06T20:56:53.009639+00:00
- - user: None
- - tags: []
-
-## Intellectual Mathematics
- - [https://intellectualmathematics.com](https://intellectualmathematics.com)
- - date published: 2023-10-25T15:22:00.515791+00:00
- - user: None
- - tags: []
-
-## https://intellexa.com
- - [https://intellexa.com](https://intellexa.com)
- - date published: 2024-02-07T00:52:17.319270+00:00
- - user: None
- - tags: []
-
-## Home | Intelligence Lectures
- - [https://www.intelligencelectures.com](https://www.intelligencelectures.com)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Global Strategic Intelligence - Intelligence Online
- - [https://www.intelligenceonline.com](https://www.intelligenceonline.com)
- - date published: 2024-02-06T00:00:00+00:00
- - user: rumpel
- - tags: ['government intelligence news']
-
-## Homepage - Intelligence Squared
- - [http://www.intelligencesquared.com](http://www.intelligencesquared.com)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Intelligent Cryptocurrency Home Page
- - [https://intelligentcryptocurrency.com](https://intelligentcryptocurrency.com)
- - date published: 2024-05-04T07:34:26.786472+00:00
- - user: None
- - tags: []
-
-## Intelligent Economist - Economics Theory Explained Simply
- - [https://www.intelligenteconomist.com](https://www.intelligenteconomist.com)
- - date published: 2020-11-02T12:23:57+00:00
- - user: None
- - tags: []
-
-## Intelligize® - Sign In | LexisNexis
- - [https://apps.intelligize.com](https://apps.intelligize.com)
- - date published: 2024-05-04T12:01:14.978160+00:00
- - user: None
- - tags: []
-
-## bne IntelliNews
- - [https://intellinews.com](https://intellinews.com)
- - date published: 2023-12-10T21:23:00.758981+00:00
- - user: None
- - tags: []
-
-## IntelliNews Pro - Login
- - [https://pro.intellinews.com](https://pro.intellinews.com)
- - date published: 2024-05-07T23:31:44.958369+00:00
- - user: None
- - tags: []
-
 ## bne IntelliNews
  - [https://www.intellinews.com](https://www.intellinews.com)
  - date published: 2024-05-07T23:31:36.542165+00:00
@@ -397,6 +319,12 @@
 ## In These Times
  - [https://inthesetimes.com](https://inthesetimes.com)
  - date published: 2023-11-22T17:18:56.607913+00:00
+ - user: None
+ - tags: []
+
+## In These Times
+ - [http://www.inthesetimes.com](http://www.inthesetimes.com)
+ - date published: 2024-05-15T03:04:06.034959+00:00
  - user: None
  - tags: []
 
@@ -2494,6 +2422,12 @@
  - user: None
  - tags: []
 
+## Jack Cheng
+ - [https://www.jackcheng.com](https://www.jackcheng.com)
+ - date published: 2024-05-15T02:50:38.883180+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Jack Cook
  - [https://jackcook.com](https://jackcook.com)
  - date published: 2023-10-25T08:46:13.389369+00:00
@@ -3362,7 +3296,7 @@
  - [https://janitorai.com](https://janitorai.com)
  - date published: 2024-03-13T11:48:13+00:00
  - user: rumpel
- - tags: ['chatbot', 'nsfw']
+ - tags: ['artificial intelligence bot', 'nsfw']
 
 ## www.janknepper.com
  - [https://www.janknepper.com](https://www.janknepper.com)
@@ -3405,6 +3339,12 @@
  - date published: 2024-05-11T11:52:42.739560+00:00
  - user: None
  - tags: ['personal']
+
+## Book, Authors, Entertainment, More
+ - [http://www.januarymagazine.com](http://www.januarymagazine.com)
+ - date published: 2024-05-15T03:00:36.800550+00:00
+ - user: None
+ - tags: ['news', 'literature', 'books']
 
 ## Janus Films — Home
  - [http://www.janusfilms.com](http://www.janusfilms.com)
@@ -4438,6 +4378,12 @@
  - user: None
  - tags: []
 
+## jekyll-import • Import your old & busted site to Jekyll — jekyll-import • Import your old & busted site to Jekyll
+ - [https://import.jekyllrb.com](https://import.jekyllrb.com)
+ - date published: 2024-05-15T02:47:32.547527+00:00
+ - user: None
+ - tags: []
+
 ## Jekyll • Simple, blog-aware, static sites
  - [https://jekyllrb.com](https://jekyllrb.com)
  - date published: 2024-04-08T19:29:08.084081+00:00
@@ -5146,6 +5092,12 @@
  - user: None
  - tags: ['israel', 'israel news']
 
+## Jewish Review of Books
+ - [http://www.jewishreviewofbooks.com](http://www.jewishreviewofbooks.com)
+ - date published: 2024-05-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Jewish World Review: The intersection of faith, culture and politics
  - [https://jewishworldreview.com](https://jewishworldreview.com)
  - date published: 2024-05-06T00:00:00+00:00
@@ -5692,6 +5644,12 @@
  - user: None
  - tags: []
 
+## Jobs In Data - Data Science Jobs
+ - [https://jobs-in-data.com](https://jobs-in-data.com)
+ - date published: 2024-05-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Jobsort · Find jobs in top startups
  - [https://jobsort.com](https://jobsort.com)
  - date published: 2023-10-25T15:29:37.310595+00:00
@@ -5891,6 +5849,12 @@
  - tags: ['substack']
 
 ## Joel on Software
+ - [https://joelonsoftware.com](https://joelonsoftware.com)
+ - date published: 2024-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Joel on Software
  - [https://www.joelonsoftware.com](https://www.joelonsoftware.com)
  - date published: 2023-10-25T08:46:38.077970+00:00
  - user: None
@@ -5995,6 +5959,42 @@
 ## Jo Freeman: Feminist Scholar and Author
  - [https://www.jofreeman.com](https://www.jofreeman.com)
  - date published: 2024-01-09T02:40:43.568798+00:00
+ - user: None
+ - tags: []
+
+## O2 Joggler Forum - Index page
+ - [https://www.jogglerwiki.com](https://www.jogglerwiki.com)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hacker indépendant
+ - [https://johackim.com](https://johackim.com)
+ - date published: 2024-05-09T08:18:30.004288+00:00
+ - user: None
+ - tags: []
+
+## Johan Friedner | Portfolio
+ - [https://johanfriedner.com](https://johanfriedner.com)
+ - date published: 2024-05-08T03:32:44.342440+00:00
+ - user: None
+ - tags: []
+
+## Johannes Haage
+ - [https://www.johanneshaage.com](https://www.johanneshaage.com)
+ - date published: 2024-01-10T23:53:13.723781+00:00
+ - user: None
+ - tags: []
+
+## The artwork of Johan Potma
+ - [http://www.johanpotma.com](http://www.johanpotma.com)
+ - date published: 1998-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Luxury Hotels, Spas and Villas - Condé Nast Johansens
+ - [https://www.johansens.com](https://www.johansens.com)
+ - date published: 2024-04-29T00:00:00+00:00
  - user: None
  - tags: []
 

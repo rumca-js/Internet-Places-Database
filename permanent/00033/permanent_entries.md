@@ -1,3 +1,39 @@
+## Mental Floss
+ - [https://www.mentalfloss.com](https://www.mentalfloss.com)
+ - date published: 2023-10-25T16:01:19.537538+00:00
+ - user: None
+ - tags: []
+
+## Home | Mental Itch
+ - [https://mentalitch.com](https://mentalitch.com)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## mentalitea | mentalitea
+ - [https://mentalitea.com](https://mentalitea.com)
+ - date published: 2024-05-09T07:47:00.843488+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://mental-reverb.com](https://mental-reverb.com)
+ - date published: 2023-12-19T15:12:02.954320+00:00
+ - user: None
+ - tags: []
+
+## EDA Software, Hardware & Tools
+ - [https://www.mentor.com](https://www.mentor.com)
+ - date published: 2024-05-06T21:41:50.947819+00:00
+ - user: None
+ - tags: []
+
+## MentorCruise - Connecting Mentors & Mentees
+ - [https://mentorcruise.com](https://mentorcruise.com)
+ - date published: 2023-11-01T15:43:55.143002+00:00
+ - user: None
+ - tags: []
+
 ## The Mentoring Club
  - [https://www.mentoring-club.com](https://www.mentoring-club.com)
  - date published: 2024-05-06T22:18:46.841881+00:00
@@ -97,6 +133,12 @@
 ## Online Business Banking For Startups & Personal Banking | Mercury
  - [https://mercury.com](https://mercury.com)
  - date published: 2024-05-06T13:00:35.978832+00:00
+ - user: None
+ - tags: []
+
+## The Mercury News
+ - [https://mercurynews.com](https://mercurynews.com)
+ - date published: 2024-05-15T02:59:15.011192+00:00
  - user: None
  - tags: []
 
@@ -2093,6 +2135,12 @@
  - tags: []
 
 ## Login | Microsoft 365
+ - [https://microsoft365.com](https://microsoft365.com)
+ - date published: 2024-05-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Login | Microsoft 365
  - [https://www.microsoft365.com](https://www.microsoft365.com)
  - date published: 2024-05-06T00:00:00+00:00
  - user: None
@@ -2203,6 +2251,12 @@
 ## Hudson Valley News - Daily Breaking Stories | Mid Hudson News
  - [https://midhudsonnews.com](https://midhudsonnews.com)
  - date published: 2023-11-24T15:24:08.581764+00:00
+ - user: None
+ - tags: []
+
+## Midjourney Documentation and User Guide
+ - [https://docs.midjourney.com](https://docs.midjourney.com)
+ - date published: 2024-05-15T07:24:01.693703+00:00
  - user: None
  - tags: []
 
@@ -5388,6 +5442,12 @@ Customer Insights
  - user: None
  - tags: []
 
+## 1843 magazine | The Economist
+ - [http://www.moreintelligentlife.com](http://www.moreintelligentlife.com)
+ - date published: 2024-05-15T03:01:31.588876+00:00
+ - user: None
+ - tags: []
+
 ## Live smarter, do more
  - [https://www.morelabs.com](https://www.morelabs.com)
  - date published: 2024-04-29T04:30:14.072428+00:00
@@ -5939,64 +5999,4 @@ Customer Insights
  - date published: 2024-05-11T05:34:32.133962+00:00
  - user: None
  - tags: []
-
-## MouseCircus.com - The Official Neil Gaiman Website for Young Readers
- - [https://www.mousecircus.com](https://www.mousecircus.com)
- - date published: 2024-05-11T07:09:38.958724+00:00
- - user: None
- - tags: []
-
-## Mouse Fan Travel
- - [https://mousefantravel.com](https://mousefantravel.com)
- - date published: 2024-10-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## MousePaw Media
- - [https://mousepawmedia.com](https://mousepawmedia.com)
- - date published: 2024-05-08T06:17:06.188238+00:00
- - user: None
- - tags: []
-
-## Distributor Elektronických Součástek - Mouser Česká Republika
- - [https://cz.mouser.com](https://cz.mouser.com)
- - date published: 2024-05-08T19:22:00.963524+00:00
- - user: None
- - tags: []
-
-## Electronic Components Distributor - Mouser Electronics Europe
- - [https://www.mouser.com](https://www.mouser.com)
- - date published: 2024-04-19T13:05:23.434710+00:00
- - user: None
- - tags: ['electronic parts']
-
-## Under Construction
- - [https://www.mousevision.com](https://www.mousevision.com)
- - date published: 2024-02-08T17:51:34.525805+00:00
- - user: None
- - tags: []
-
-## Movable Type - Content Management System, Blog Software & Publishing Platform
- - [https://www.movabletype.com](https://www.movabletype.com)
- - date published: 2024-05-06T22:58:37.884010+00:00
- - user: None
- - tags: []
-
-## Video Editor 2024 and Other Cool Programs from Movavi – Download for Free
- - [https://www.movavi.com](https://www.movavi.com)
- - date published: 2024-04-11T19:05:28+00:00
- - user: rumpel
- - tags: ['video player', 'video editor']
-
-## Home
- - [https://www.movedahouse.com](https://www.movedahouse.com)
- - date published: 2024-02-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Movie Memento - Film and TV inspired craft
- - [https://www.moviememento.com](https://www.moviememento.com)
- - date published: 2024-05-07T14:16:29+00:00
- - user: rumpel
- - tags: ['memento', 'movie']
 

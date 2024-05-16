@@ -1,3 +1,255 @@
+## Savage Chickens - Cartoons on Sticky Notes by Doug Savage
+ - [https://www.savagechickens.com](https://www.savagechickens.com)
+ - date published: 2023-10-25T16:57:50.887747+00:00
+ - user: None
+ - tags: []
+
+## Savannah Morning News: Local News, Politics & Sports in Savannah, GA
+ - [https://www.savannahnow.com](https://www.savannahnow.com)
+ - date published: 2024-05-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Savaria Dance Studio
+ - [https://www.savariadance.com](https://www.savariadance.com)
+ - date published: 2024-02-08T22:52:14.864745+00:00
+ - user: None
+ - tags: []
+
+## Home - Save Our Water, California
+ - [https://saveourwater.com](https://saveourwater.com)
+ - date published: 2024-05-09T02:32:49.913948+00:00
+ - user: None
+ - tags: []
+
+## Home - Save Our Water, California
+ - [http://www.saveourwater.com](http://www.saveourwater.com)
+ - date published: 2024-05-09T04:52:26.360593+00:00
+ - user: None
+ - tags: []
+
+## Joseph Saveri Law Firm - Antitrust & Class Action Litigation Law Group
+ - [https://www.saverilawfirm.com](https://www.saverilawfirm.com)
+ - date published: 2024-05-04T08:04:41.857548+00:00
+ - user: None
+ - tags: []
+
+## Save The Fans
+ - [https://www.savethefans.com](https://www.savethefans.com)
+ - date published: 2024-01-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Net Neutrality
+ - [http://www.savetheinternet.com](http://www.savetheinternet.com)
+ - date published: 2024-05-10T06:32:11.832717+00:00
+ - user: None
+ - tags: ['net neutrality', 'free speech', 'activism']
+
+## - Saving Country Music
+ - [https://www.savingcountrymusic.com](https://www.savingcountrymusic.com)
+ - date published: 2024-04-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Best Historic Bar in North Beach San Francisco | Savoy Tivoli
+ - [https://www.savoytivoli.com](https://www.savoytivoli.com)
+ - date published: 2024-05-06T16:29:06.428351+00:00
+ - user: None
+ - tags: []
+
+## Scheduling Software Everyone Will Love · SavvyCal
+ - [https://savvycal.com](https://savvycal.com)
+ - date published: 2024-04-28T03:11:36.003746+00:00
+ - user: None
+ - tags: []
+
+## Savvy Homemade Things For Mind Body & Home
+ - [https://www.savvyhomemade.com](https://www.savvyhomemade.com)
+ - date published: 2021-11-29T11:20:45+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://savvylearning.com](https://savvylearning.com)
+ - date published: 2024-04-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SavvyMX Maintenance Plan - SavvyAviation
+ - [http://www.savvymx.com](http://www.savvymx.com)
+ - date published: 2024-03-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Tech Savvy Teachers
+ - [https://tech.savvyteachers.com](https://tech.savvyteachers.com)
+ - date published: 2024-02-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Tech Savvy Teachers
+ - [https://www.tech.savvyteachers.com](https://www.tech.savvyteachers.com)
+ - date published: 2024-01-13T22:54:39.494806+00:00
+ - user: None
+ - tags: []
+
+## World Clock and Time Converter - Savvy Time
+ - [https://savvytime.com](https://savvytime.com)
+ - date published: 2024-03-15T15:03:01.330828+00:00
+ - user: None
+ - tags: []
+
+## Say Anything – North Dakota's Most Popular And Influential Political Blog
+ - [http://sayanythingblog.com](http://sayanythingblog.com)
+ - date published: 2024-05-06T20:59:10.383143+00:00
+ - user: None
+ - tags: []
+
+## Sayemon10 || S. M. Abdul Aziz - Freelance Front-End UI/UX Designer
+ - [https://sayemon10.com](https://sayemon10.com)
+ - date published: 2024-05-07T23:13:31.742990+00:00
+ - user: None
+ - tags: []
+
+## Say I do in the garden
+ - [https://www.sayidointhegarden.com](https://www.sayidointhegarden.com)
+ - date published: 2024-02-08T22:09:28.028351+00:00
+ - user: None
+ - tags: []
+
+## SayUncle
+ - [http://www.saysuncle.com](http://www.saysuncle.com)
+ - date published: 2024-05-08T04:21:54.868092+00:00
+ - user: None
+ - tags: []
+
+## Say Q&A - Shareholder Questions for Earnings Calls, Shareholder Meetings, Investor Days and More
+ - [https://app.saytechnologies.com](https://app.saytechnologies.com)
+ - date published: 2024-05-04T13:41:50.508111+00:00
+ - user: None
+ - tags: []
+
+## Say Viget
+ - [http://sayviget.com](http://sayviget.com)
+ - date published: 2024-04-29T04:00:52.792395+00:00
+ - user: None
+ - tags: []
+
+## Sarbacane Software
+ - [https://forms.sbc35.com](https://forms.sbc35.com)
+ - date published: 2024-05-08T00:15:18.557902+00:00
+ - user: None
+ - tags: []
+
+## sbensu
+ - [https://blog.sbensu.com](https://blog.sbensu.com)
+ - date published: 2023-10-25T16:57:52.408325+00:00
+ - user: None
+ - tags: []
+
+## SBF goes to prison – Is SBF going to prison?
+ - [https://sbfgoestoprison.com](https://sbfgoestoprison.com)
+ - date published: 2023-10-25T16:57:55.553085+00:00
+ - user: None
+ - tags: []
+
+## A Blog For Aston Villa Fans
+ - [https://7500toholte.sbnation.com](https://7500toholte.sbnation.com)
+ - date published: 2024-04-29T02:15:28.569569+00:00
+ - user: None
+ - tags: []
+
+## a Manchester City community
+ - [https://bitterandblue.sbnation.com](https://bitterandblue.sbnation.com)
+ - date published: 2024-04-29T02:02:52.489291+00:00
+ - user: None
+ - tags: []
+
+## State of the SB Nation
+ - [http://blog.sbnation.com](http://blog.sbnation.com)
+ - date published: 2024-04-29T02:12:45.938871+00:00
+ - user: None
+ - tags: []
+
+## a Tottenham Hotspur community
+ - [https://cartilagefreecaptain.sbnation.com](https://cartilagefreecaptain.sbnation.com)
+ - date published: 2024-04-29T02:12:06.173654+00:00
+ - user: None
+ - tags: []
+
+## Coming Home Newcastle, an NUFC community
+ - [https://cominghomenewcastle.sbnation.com](https://cominghomenewcastle.sbnation.com)
+ - date published: 2024-04-29T02:04:13.287670+00:00
+ - user: None
+ - tags: []
+
+## a Leicester City community
+ - [https://fosseposse.sbnation.com](https://fosseposse.sbnation.com)
+ - date published: 2024-04-29T02:11:10.143198+00:00
+ - user: None
+ - tags: []
+
+## a Bolton Wanderers community
+ - [https://lionofviennasuite.sbnation.com](https://lionofviennasuite.sbnation.com)
+ - date published: 2024-04-29T02:05:24.313026+00:00
+ - user: None
+ - tags: []
+
+## The Liverpool Offside, for Liverpool FC fans
+ - [https://liverpooloffside.sbnation.com](https://liverpooloffside.sbnation.com)
+ - date published: 2024-04-29T02:05:27.818936+00:00
+ - user: None
+ - tags: []
+
+## a Sunderland community
+ - [https://rokerreport.sbnation.com](https://rokerreport.sbnation.com)
+ - date published: 2024-04-29T02:03:23.938297+00:00
+ - user: None
+ - tags: []
+
+## For Everton Fans
+ - [https://royalbluemersey.sbnation.com](https://royalbluemersey.sbnation.com)
+ - date published: 2024-04-29T02:05:30.571372+00:00
+ - user: None
+ - tags: []
+
+## SBNation.com | Sports news, video, live coverage, community
+ - [https://sbnation.com](https://sbnation.com)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## a Southampton community
+ - [https://stmarysmusings.sbnation.com](https://stmarysmusings.sbnation.com)
+ - date published: 2024-04-29T02:03:55.287245+00:00
+ - user: None
+ - tags: []
+
+## For Manchester United Fans
+ - [https://thebusbybabe.sbnation.com](https://thebusbybabe.sbnation.com)
+ - date published: 2024-04-29T02:10:51.998596+00:00
+ - user: None
+ - tags: []
+
+## The Short Fuse, an Arsenal F.C. community
+ - [https://theshortfuse.sbnation.com](https://theshortfuse.sbnation.com)
+ - date published: 2024-04-29T02:12:42.502637+00:00
+ - user: None
+ - tags: []
+
+## Reading FC News
+ - [https://thetilehurstend.sbnation.com](https://thetilehurstend.sbnation.com)
+ - date published: 2024-04-29T02:03:29.342405+00:00
+ - user: None
+ - tags: []
+
+## Leeds United News and Results
+ - [https://throughitalltogether.sbnation.com](https://throughitalltogether.sbnation.com)
+ - date published: 2024-04-29T02:14:28.163712+00:00
+ - user: None
+ - tags: []
+
 ## a Chelsea community
  - [https://weaintgotnohistory.sbnation.com](https://weaintgotnohistory.sbnation.com)
  - date published: 2024-04-29T02:11:04.529858+00:00
@@ -754,6 +1006,12 @@
  - user: None
  - tags: []
 
+## Science 2.0 | ® The world's best scientists, the Internet's smartest readers.
+ - [https://www.science20.com](https://www.science20.com)
+ - date published: 2024-05-15T20:54:19.875813+00:00
+ - user: None
+ - tags: []
+
 ## ScienceAlert : The Best in Science News And Amazing Breakthroughs
  - [https://www.sciencealert.com](https://www.sciencealert.com)
  - date published: 2023-10-25T16:58:48.223977+00:00
@@ -784,9 +1042,21 @@
  - user: None
  - tags: []
 
+## ScienceBlogs - Where the world discusses science.
+ - [http://www.scienceblogs.com](http://www.scienceblogs.com)
+ - date published: 2024-05-15T20:54:22.908566+00:00
+ - user: None
+ - tags: []
+
 ## Science Codex
  - [http://www.sciencecodex.com](http://www.sciencecodex.com)
  - date published: 2024-04-28T03:42:59.124538+00:00
+ - user: None
+ - tags: []
+
+## ScienceDaily: Your source for the latest research news
+ - [https://sciencedaily.com](https://sciencedaily.com)
+ - date published: 2024-05-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -943,6 +1213,12 @@
 ## Scientific American Blog Network - Scientific American Blog Network
  - [https://blogs.scientificamerican.com](https://blogs.scientificamerican.com)
  - date published: 2023-10-25T16:59:13.314083+00:00
+ - user: None
+ - tags: []
+
+## Scientific American
+ - [https://scientificamerican.com](https://scientificamerican.com)
+ - date published: 2024-05-14T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1123,6 +1399,12 @@
 ## HOME | SCN Summit Website
  - [https://www.scnsummit.com](https://www.scnsummit.com)
  - date published: 2024-05-04T06:34:46.942953+00:00
+ - user: None
+ - tags: []
+
+## Xinuos
+ - [http://www.sco.com](http://www.sco.com)
+ - date published: 2024-05-15T14:25:17.639905+00:00
  - user: None
  - tags: []
 
@@ -5715,288 +5997,6 @@ Scopus - Welcome to Scopus
 ## Best Multi-Carrier Shipping Software for Businesses | Shippo
  - [https://shippo.com](https://shippo.com)
  - date published: 2024-05-08T11:17:39.229451+00:00
- - user: None
- - tags: []
-
-## Next.js SaaS boilerplate | Ship SaaS
- - [https://shipsaas.com](https://shipsaas.com)
- - date published: 2024-05-09T08:38:52.264076+00:00
- - user: None
- - tags: []
-
-## Ships Have Sailed
- - [https://shipshavesailed.com](https://shipshavesailed.com)
- - date published: 2024-04-29T03:35:32.610424+00:00
- - user: None
- - tags: ['music band']
-
-## Ships Have Sailed
- - [https://www.shipshavesailed.com](https://www.shipshavesailed.com)
- - date published: 2024-01-05T21:37:19.420287+00:00
- - user: None
- - tags: []
-
-## Ship Smart Inc - Small Moving Solutions
- - [http://www.shipsmart.com](http://www.shipsmart.com)
- - date published: 2024-03-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Shipping Software for Ecommerce Fulfillment
- - [https://shipstation.com](https://shipstation.com)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Shipyard - Data Orchestration for Your Data Stack
- - [https://shipyardapp.com](https://shipyardapp.com)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Shira Haddad
- - [https://www.shirahaddad.com](https://www.shirahaddad.com)
- - date published: 2023-12-31T13:22:42.053769+00:00
- - user: None
- - tags: []
-
-## shirley yin
- - [https://shirleyyin.com](https://shirleyyin.com)
- - date published: 2024-05-07T23:13:21.173731+00:00
- - user: None
- - tags: []
-
-## Shitlassian - name and shame
- - [https://shitlassian.com](https://shitlassian.com)
- - date published: 2023-10-25T17:03:32.102260+00:00
- - user: None
- - tags: []
-
-## Web Scale | Shivang Sarawagi | Substack
- - [https://shivangsnewsletter.com](https://shivangsnewsletter.com)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Shivan
- - [https://shivankaul.com](https://shivankaul.com)
- - date published: 2023-12-02T21:17:12.804590+00:00
- - user: None
- - tags: ['personal']
-
-## Shiveen Pandita
- - [https://shiveenp.com](https://shiveenp.com)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## shmuplations.com
- - [https://shmuplations.com](https://shmuplations.com)
- - date published: 2023-10-25T17:03:34.248572+00:00
- - user: None
- - tags: []
-
-## #1 Receipt Scanner App, Receipt Scanning Service - Shoeboxed
- - [https://www.shoeboxed.com](https://www.shoeboxed.com)
- - date published: 2024-05-01T06:59:42.020739+00:00
- - user: None
- - tags: []
-
-## Brian Sholis
- - [https://www.sholis.com](https://www.sholis.com)
- - date published: 2024-05-09T06:20:53.416496+00:00
- - user: None
- - tags: []
-
-## Shondaland.com
- - [https://www.shondaland.com](https://www.shondaland.com)
- - date published: 2023-10-25T17:03:37.480551+00:00
- - user: None
- - tags: []
-
-## شو صار؟ – أخر أخبار الإبداع و التكنولوجيا
- - [https://shoo-sar.com](https://shoo-sar.com)
- - date published: 2024-05-11T05:36:01.114206+00:00
- - user: None
- - tags: []
-
-## Shooter Jennings | Official
- - [https://shooterjennings.com](https://shooterjennings.com)
- - date published: 2024-05-09T08:25:13.190059+00:00
- - user: None
- - tags: []
-
-## ABC Shop | The Official ABC TV Store T-Shirts, Gifts, Mugs and More!
- - [https://shopabctv.com](https://shopabctv.com)
- - date published: 2024-05-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## Shop at Sky, the astronomy store of Sky & Telescope
- - [https://www.shopatsky.com](https://www.shopatsky.com)
- - date published: 2024-05-11T08:18:07.707811+00:00
- - user: None
- - tags: []
-
-## beam | Better, cleaner, totally natural supplements
- - [https://shopbeam.com](https://shopbeam.com)
- - date published: 2024-05-04T05:25:37.713530+00:00
- - user: None
- - tags: []
-
-## Beast Philanthropy Merch | Official MrBeast T-shirts
- - [https://shopbeastphilanthropy.com](https://shopbeastphilanthropy.com)
- - date published: 2024-05-09T03:56:44.817902+00:00
- - user: None
- - tags: []
-
-## Shopbop - Designer Clothing, Shoes, Bags & Accessories
- - [https://www.shopbop.com](https://www.shopbop.com)
- - date published: 2024-05-02T11:12:03.597933+00:00
- - user: None
- - tags: []
-
-## Cal Bears Apparel, Cal Bears Merchandise, Cal Bears Clothing, Bears Gifts | Official Cal Alumni Association Store
- - [https://www.shopcaa.com](https://www.shopcaa.com)
- - date published: 2024-04-30T03:17:57.774868+00:00
- - user: None
- - tags: []
-
-## Disney Store | Official Disney Merchandise
- - [https://www.shopdisney.com](https://www.shopdisney.com)
- - date published: 2024-05-01T05:18:35.438144+00:00
- - user: None
- - tags: []
-
-## Farm Journal
- - [https://www.shopfarmjournal.com](https://www.shopfarmjournal.com)
- - date published: 2024-05-01T02:43:31.694386+00:00
- - user: None
- - tags: []
-
-## Herbology Cannabis Co. | Recreational Cannabis Dispensary | MI
- - [https://www.shophcc.com](https://www.shophcc.com)
- - date published: 2024-04-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## Shopify Academy
- - [https://academy.shopify.com](https://academy.shopify.com)
- - date published: 2024-04-29T03:43:01.805071+00:00
- - user: None
- - tags: []
-
-## Weryfikowanie połączenia...
- - [https://accounts.shopify.com](https://accounts.shopify.com)
- - date published: 2024-04-29T03:43:35.291592+00:00
- - user: None
- - tags: []
-
-## Shopify App Store
- - [https://apps.shopify.com](https://apps.shopify.com)
- - date published: 2024-04-28T03:22:40.710051+00:00
- - user: None
- - tags: []
-
-## Live Dashboard of Shopify for Black Friday
- - [https://bfcm.shopify.com](https://bfcm.shopify.com)
- - date published: 2023-11-24T13:46:21+00:00
- - user: None
- - tags: []
-
-## 20,000+ Free Stock Photos and Royalty-Free Images
- - [https://burst.shopify.com](https://burst.shopify.com)
- - date published: 2024-04-29T03:42:05.124417+00:00
- - user: None
- - tags: []
-
-## Shopify's content delivery network
- - [https://cdn.shopify.com](https://cdn.shopify.com)
- - date published: 2023-12-13T15:36:20.403285+00:00
- - user: None
- - tags: []
-
-## Shopify Changelog
- - [https://changelog.shopify.com](https://changelog.shopify.com)
- - date published: 2024-05-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Shopify Community
- - [https://community.shopify.com](https://community.shopify.com)
- - date published: 2024-04-29T03:41:48.474089+00:00
- - user: None
- - tags: []
-
-## Shopify Developers Platform—Build. Innovate. Get paid.
- - [https://developers.shopify.com](https://developers.shopify.com)
- - date published: 2024-04-29T03:42:06.690156+00:00
- - user: None
- - tags: []
-
-## Create an Ecommerce Website in Seconds – Free Trial
- - [https://ecommerce.shopify.com](https://ecommerce.shopify.com)
- - date published: 2024-04-29T03:42:08.920456+00:00
- - user: None
- - tags: []
-
-## Events
- - [https://events.shopify.com](https://events.shopify.com)
- - date published: 2024-03-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Create an Ecommerce Website and Sell Online! Ecommerce Software by Shopify
- - [https://fonts.shopify.com](https://fonts.shopify.com)
- - date published: 2024-04-29T04:59:47.536776+00:00
- - user: None
- - tags: []
-
-## POS Machines and Hardware for Your Business - Shopify POS USA
- - [https://hardware.shopify.com](https://hardware.shopify.com)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Shopify Help Center
- - [https://help.shopify.com](https://help.shopify.com)
- - date published: 2024-04-29T03:41:52.885668+00:00
- - user: None
- - tags: []
-
-## Shopify - Home
- - [https://investors.shopify.com](https://investors.shopify.com)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Shopify - Pressroom
- - [https://news.shopify.com](https://news.shopify.com)
- - date published: 2023-10-25T17:03:39.469521+00:00
- - user: None
- - tags: []
-
-## Shopify - Sign In
- - [https://pay.shopify.com](https://pay.shopify.com)
- - date published: 2024-05-09T05:53:07.285315+00:00
- - user: None
- - tags: []
-
-## Privacy controls | Control how Shopify uses your data
- - [https://privacy.shopify.com](https://privacy.shopify.com)
- - date published: 2024-04-29T03:43:27.856369+00:00
- - user: None
- - tags: []
-
-## Start and grow your e-commerce business - 3-Day Free Trial
- - [https://shopify.com](https://shopify.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ecommerce Website Templates - Free and Premium Themes for Your Online Store.
- - [https://themes.shopify.com](https://themes.shopify.com)
- - date published: 2024-04-29T03:42:53.991959+00:00
  - user: None
  - tags: []
 

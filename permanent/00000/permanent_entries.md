@@ -1100,7 +1100,7 @@
  - [https://crushon.ai](https://crushon.ai)
  - date published: 2024-03-13T11:46:59+00:00
  - user: rumpel
- - tags: ['chatbot', 'nsfw']
+ - tags: ['artificial intelligence bot', 'nsfw']
 
 ## CrystalSound: AI Noise Cancelling, Call & Screen Recording
  - [https://crystalsound.ai](https://crystalsound.ai)
@@ -1303,6 +1303,12 @@
 ## Show HN: I made a better Perplexity for developers
  - [https://devv.ai](https://devv.ai)
  - date published: 2024-05-08T15:19:40+00:00
+ - user: None
+ - tags: []
+
+## Dexa — Where Curiosity Meets Credibility
+ - [https://dexa.ai](https://dexa.ai)
+ - date published: 2024-05-15T02:51:27.742994+00:00
  - user: None
  - tags: []
 
@@ -1876,6 +1882,12 @@
  - user: None
  - tags: []
 
+## Haye AI - In-context AI writing assistant for macOS
+ - [https://haye.ai](https://haye.ai)
+ - date published: 2024-05-15T02:44:53.979260+00:00
+ - user: None
+ - tags: []
+
 ## Introduction - Helicone
  - [https://docs.helicone.ai](https://docs.helicone.ai)
  - date published: 2024-05-11T07:39:44.274489+00:00
@@ -2072,7 +2084,7 @@
  - [https://jan.ai](https://jan.ai)
  - date published: 2024-01-01T23:10:57+00:00
  - user: None
- - tags: ['chatbot', 'artificial intelligence']
+ - tags: ['artificial intelligence bot', 'artificial intelligence']
 
 ## Nitro: A fast, lightweight 3MB inference server with OpenAI-Compatible API
  - [https://nitro.jan.ai](https://nitro.jan.ai)
@@ -2266,6 +2278,12 @@
  - user: None
  - tags: []
 
+## LCDP.ai Low Code Development Platform
+ - [https://www.lcdp.ai](https://www.lcdp.ai)
+ - date published: 2024-05-15T02:44:26.654379+00:00
+ - user: None
+ - tags: []
+
 ## Lead Monitor
  - [https://leadmonitor.ai](https://leadmonitor.ai)
  - date published: 2024-05-02T12:12:10.286511+00:00
@@ -2308,11 +2326,41 @@
  - user: None
  - tags: []
 
+## Join the LibreChat Discord Server!
+ - [https://discord.librechat.ai](https://discord.librechat.ai)
+ - date published: 2024-05-15T07:24:08.118792+00:00
+ - user: None
+ - tags: []
+
+## GitHub - danny-avila/LibreChat: Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
+ - [https://github.librechat.ai](https://github.librechat.ai)
+ - date published: 2024-05-15T07:24:07.074378+00:00
+ - user: None
+ - tags: []
+
 ## LibreChat
  - [https://librechat.ai](https://librechat.ai)
  - date published: 2024-04-13T17:25:08+00:00
  - user: rumpel
  - tags: ['self-host', 'artificial intelligence bot']
+
+## LibreChat | LinkedIn
+ - [https://linkedin.librechat.ai](https://linkedin.librechat.ai)
+ - date published: 2024-05-15T07:24:14.784876+00:00
+ - user: None
+ - tags: []
+
+## LibreChat status
+ - [https://status.librechat.ai](https://status.librechat.ai)
+ - date published: 2024-05-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## LibreChat
+ - [https://www.librechat.ai](https://www.librechat.ai)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Dr Alan D. Thompson – Life Architect
  - [https://lifearchitect.ai](https://lifearchitect.ai)
@@ -2690,7 +2738,7 @@
  - [https://nextpart.ai](https://nextpart.ai)
  - date published: 2024-03-13T00:00:00+00:00
  - user: rumpel
- - tags: ['chatbot', 'nsfw']
+ - tags: ['artificial intelligence bot', 'nsfw']
 
 ## Noctie.ai
  - [https://noctie.ai](https://noctie.ai)
@@ -3280,6 +3328,12 @@
  - user: None
  - tags: []
 
+## Reworkd AI
+ - [https://reworkd.ai](https://reworkd.ai)
+ - date published: 2024-05-15T18:05:11.652845+00:00
+ - user: None
+ - tags: []
+
 ## ReWorked.ai-Harnessing AI To Find High Quality Leads
  - [https://reworked.ai](https://reworked.ai)
  - date published: 2024-05-08T06:36:21+00:00
@@ -3469,6 +3523,12 @@
 ## Sierra - The Conversational AI Platform
  - [https://sierra.ai](https://sierra.ai)
  - date published: 2024-04-28T01:59:56.176696+00:00
+ - user: None
+ - tags: []
+
+## Europe’s largest private AI lab | Silo AI
+ - [https://www.silo.ai](https://www.silo.ai)
+ - date published: 2024-05-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3909,6 +3969,12 @@
  - date published: 2024-05-09T08:16:37.596142+00:00
  - user: None
  - tags: []
+
+## ULTRACODE AI: Coding Interview Co-Pilot
+ - [https://ultracode.ai](https://ultracode.ai)
+ - date published: 2024-05-13T00:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'interview']
 
 ## Undermind
  - [https://app.undermind.ai](https://app.undermind.ai)
@@ -4393,6 +4459,12 @@
 ## OpenBSD Amsterdam
  - [https://openbsd.amsterdam](https://openbsd.amsterdam)
  - date published: 2024-05-07T23:53:10.275513+00:00
+ - user: None
+ - tags: []
+
+## Discover a New World of Android with Google AI | Android
+ - [https://ai.android](https://ai.android)
+ - date published: 2024-05-15T20:53:01.248855+00:00
  - user: None
  - tags: []
 
@@ -4969,6 +5041,12 @@
 ## Fable — The collaborative creative studio
  - [https://fable.app](https://fable.app)
  - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Fedilab
+ - [https://fedilab.app](https://fedilab.app)
+ - date published: 2024-05-15T20:53:36.825159+00:00
  - user: None
  - tags: []
 
@@ -5917,84 +5995,6 @@
 ## Queen Of...
  - [https://queenof.netlify.app](https://queenof.netlify.app)
  - date published: 2024-05-07T10:28:03.838636+00:00
- - user: None
- - tags: []
-
-## Show HN: DataSheetGrid, an Airtable-like React component
- - [https://react-datasheet-grid.netlify.app](https://react-datasheet-grid.netlify.app)
- - date published: 2023-11-11T09:36:04+00:00
- - user: None
- - tags: []
-
-## React TypeScript Cheatsheets | React TypeScript Cheatsheets
- - [https://react-typescript-cheatsheet.netlify.app](https://react-typescript-cheatsheet.netlify.app)
- - date published: 2024-05-06T13:12:08.260620+00:00
- - user: None
- - tags: []
-
-## Real About Instagram | Compare, Compete, & Invalidate Authenticity
- - [https://realaboutinstagram.netlify.app](https://realaboutinstagram.netlify.app)
- - date published: 2023-10-25T11:47:47.931192+00:00
- - user: None
- - tags: []
-
-## https://reddark.netlify.app
- - [https://reddark.netlify.app](https://reddark.netlify.app)
- - date published: 2024-01-09T02:23:31.980088+00:00
- - user: None
- - tags: []
-
-## Document
- - [https://riley-uses.netlify.app](https://riley-uses.netlify.app)
- - date published: 2024-05-11T10:18:02.857196+00:00
- - user: None
- - tags: []
-
-## Ryan's Blog
- - [https://rmooreblog.netlify.app](https://rmooreblog.netlify.app)
- - date published: 2024-05-09T08:20:03.321312+00:00
- - user: None
- - tags: []
-
-## Sahat Jaldu
- - [https://sahatjaldu.netlify.app](https://sahatjaldu.netlify.app)
- - date published: 2024-04-04T19:29:53.874468+00:00
- - user: None
- - tags: []
-
-## San Diego Development
- - [https://sd-dev-list.netlify.app](https://sd-dev-list.netlify.app)
- - date published: 2024-05-12T05:43:30.807301+00:00
- - user: None
- - tags: []
-
-## Siddharth Roy
- - [https://siddharthroy.netlify.app](https://siddharthroy.netlify.app)
- - date published: 2024-05-07T23:13:34.470688+00:00
- - user: None
- - tags: []
-
-## Smashing Conf: View Transitions
- - [https://smashing-transitions.netlify.app](https://smashing-transitions.netlify.app)
- - date published: 2024-04-30T02:02:38.070604+00:00
- - user: None
- - tags: []
-
-## Presence with Convex
- - [https://spectacular-beijinho-ccf8ab.netlify.app](https://spectacular-beijinho-ccf8ab.netlify.app)
- - date published: 2024-04-29T07:32:23.071226+00:00
- - user: None
- - tags: []
-
-## Stavros' web corner
- - [https://stavros-wb.netlify.app](https://stavros-wb.netlify.app)
- - date published: 2024-05-07T23:25:55.864258+00:00
- - user: None
- - tags: []
-
-## Sudoku
- - [https://sudoku-aj.netlify.app](https://sudoku-aj.netlify.app)
- - date published: 2024-01-08T18:13:11.190452+00:00
  - user: None
  - tags: []
 

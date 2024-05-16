@@ -1,3 +1,33 @@
+## Cierpliwości...
+ - [https://markmonitor.com](https://markmonitor.com)
+ - date published: 2024-04-29T07:20:51.914648+00:00
+ - user: None
+ - tags: []
+
+## Mark Mosher Multimedia
+ - [https://markmoshermusic.com](https://markmoshermusic.com)
+ - date published: 2024-01-23T03:27:23.327248+00:00
+ - user: None
+ - tags: []
+
+## Mark Norman Francis
+ - [http://marknormanfrancis.com](http://marknormanfrancis.com)
+ - date published: 2024-05-01T02:18:14.882337+00:00
+ - user: None
+ - tags: []
+
+## Marko Denic - Web Developer
+ - [https://markodenic.com](https://markodenic.com)
+ - date published: 2024-05-11T10:19:09.780712+00:00
+ - user: None
+ - tags: []
+
+## Marko Haberl
+ - [https://marko-haberl.com](https://marko-haberl.com)
+ - date published: 2024-05-11T10:17:10.200773+00:00
+ - user: None
+ - tags: []
+
 ## Marko
  - [https://markojs.com](https://markojs.com)
  - date published: 2023-10-25T15:56:37.194167+00:00
@@ -5785,6 +5815,12 @@
  - user: None
  - tags: []
 
+## Jupiter Broadcasting
+ - [https://jupitersignal.memberful.com](https://jupitersignal.memberful.com)
+ - date published: 2024-05-15T02:50:06.400142+00:00
+ - user: None
+ - tags: []
+
 ## kottke.org
  - [https://kottke.memberful.com](https://kottke.memberful.com)
  - date published: 2024-05-08T09:20:00.315582+00:00
@@ -5962,42 +5998,6 @@
 ## Mental Floss
  - [http://mentalfloss.com](http://mentalfloss.com)
  - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mental Floss
- - [https://www.mentalfloss.com](https://www.mentalfloss.com)
- - date published: 2023-10-25T16:01:19.537538+00:00
- - user: None
- - tags: []
-
-## Home | Mental Itch
- - [https://mentalitch.com](https://mentalitch.com)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## mentalitea | mentalitea
- - [https://mentalitea.com](https://mentalitea.com)
- - date published: 2024-05-09T07:47:00.843488+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://mental-reverb.com](https://mental-reverb.com)
- - date published: 2023-12-19T15:12:02.954320+00:00
- - user: None
- - tags: []
-
-## EDA Software, Hardware & Tools
- - [https://www.mentor.com](https://www.mentor.com)
- - date published: 2024-05-06T21:41:50.947819+00:00
- - user: None
- - tags: []
-
-## MentorCruise - Connecting Mentors & Mentees
- - [https://mentorcruise.com](https://mentorcruise.com)
- - date published: 2023-11-01T15:43:55.143002+00:00
  - user: None
  - tags: []
 
