@@ -1,3 +1,603 @@
+## Новини зі Львова від інтернет-видання Leopolis News
+ - [https://leopolis.news](https://leopolis.news)
+ - date published: 2024-05-09T04:03:43.634178+00:00
+ - user: None
+ - tags: []
+
+## Local News Today - Breaking News & Top Stories
+ - [https://localtoday.news](https://localtoday.news)
+ - date published: 2023-10-25T11:07:16.883371+00:00
+ - user: None
+ - tags: []
+
+## modernity
+ - [https://modernity.news](https://modernity.news)
+ - date published: 2024-02-20T21:06:22+00:00
+ - user: rumpel
+ - tags: ['the right wing']
+
+## 500
+ - [https://i2-prod.mylondon.news](https://i2-prod.mylondon.news)
+ - date published: 2024-05-02T11:14:47.778400+00:00
+ - user: None
+ - tags: []
+
+## MyLondon - The latest local news, opinion, sport, business and more
+ - [https://www.mylondon.news](https://www.mylondon.news)
+ - date published: 2024-05-06T17:02:16.733303+00:00
+ - user: None
+ - tags: []
+
+## Not Yet News
+ - [https://www.notyet.news](https://www.notyet.news)
+ - date published: 2023-10-25T20:42:46.888810+00:00
+ - user: None
+ - tags: []
+
+## The Omg Lol Times · St. Jude Fundraiser Report
+ - [https://omglol.news](https://omglol.news)
+ - date published: 2023-10-25T20:42:48.905677+00:00
+ - user: None
+ - tags: []
+
+## Platformer | Casey Newton | Substack
+ - [https://www.platformer.news](https://www.platformer.news)
+ - date published: 2023-10-25T20:42:52.117652+00:00
+ - user: None
+ - tags: []
+
+## The Product-Led Geek | Ben Williams | Substack
+ - [https://www.plg.news](https://www.plg.news)
+ - date published: 2024-02-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://plnt.news](https://plnt.news)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Positive News | Good journalism about good things - Positive News
+ - [https://www.positive.news](https://www.positive.news)
+ - date published: 2023-10-25T20:42:54.838847+00:00
+ - user: None
+ - tags: []
+
+## Post
+ - [https://post.news](https://post.news)
+ - date published: 2023-10-25T20:43:00.854072+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://punchbowl.news](https://punchbowl.news)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Racket News | Matt Taibbi | Substack
+ - [https://www.racket.news](https://www.racket.news)
+ - date published: 2023-10-25T20:43:04.969237+00:00
+ - user: None
+ - tags: []
+
+## Rascal News
+ - [https://www.rascal.news](https://www.rascal.news)
+ - date published: 2024-04-30T02:32:15.394411+00:00
+ - user: None
+ - tags: []
+
+## Rekt - Home
+ - [https://rekt.news](https://rekt.news)
+ - date published: 2023-10-25T20:43:07.706883+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://rmx.news](https://rmx.news)
+ - date published: 2023-10-25T10:39:52.865910+00:00
+ - user: None
+ - tags: []
+
+## Runtime
+ - [https://runtime.news](https://runtime.news)
+ - date published: 2024-05-12T04:38:58.943324+00:00
+ - user: None
+ - tags: []
+
+## Runtime
+ - [https://www.runtime.news](https://www.runtime.news)
+ - date published: 2024-03-30T05:22:15.398938+00:00
+ - user: None
+ - tags: []
+
+## Sci.News: Breaking Science News
+ - [https://www.sci.news](https://www.sci.news)
+ - date published: 2023-10-25T10:11:45.286879+00:00
+ - user: None
+ - tags: ['astronomy', 'science']
+
+## Show HN: Search HN for interesting comment sections
+ - [https://www.searchhacker.news](https://www.searchhacker.news)
+ - date published: 2024-04-16T13:19:18+00:00
+ - user: None
+ - tags: ['hacker news search']
+
+## Sherwood News
+ - [https://sherwood.news](https://sherwood.news)
+ - date published: 2024-04-20T16:04:15.427638+00:00
+ - user: None
+ - tags: ['news']
+
+## Siskiyou News
+ - [https://www.siskiyou.news](https://www.siskiyou.news)
+ - date published: 2024-05-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Spacebar
+ - [https://www.spacebar.news](https://www.spacebar.news)
+ - date published: 2024-04-14T20:38:28+00:00
+ - user: rumpel
+ - tags: ['tech news']
+
+## Spaceline News
+ - [https://spaceline.news](https://spaceline.news)
+ - date published: 2021-12-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## stacker news
+ - [https://stacker.news](https://stacker.news)
+ - date published: 2024-05-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Stonks News
+ - [https://stonks.news](https://stonks.news)
+ - date published: 2023-10-25T20:43:11.649456+00:00
+ - user: None
+ - tags: []
+
+## Summit News - News From The Summit
+ - [https://summit.news](https://summit.news)
+ - date published: 2023-10-25T10:39:55.843611+00:00
+ - user: None
+ - tags: []
+
+## Supervised | Matthew Lynley | Substack
+ - [https://www.supervised.news](https://www.supervised.news)
+ - date published: 2023-10-25T10:08:38.358107+00:00
+ - user: None
+ - tags: ['substack']
+
+## Techarenan News
+ - [https://www.techarenan.news](https://www.techarenan.news)
+ - date published: 2024-05-07T16:14:02.259595+00:00
+ - user: None
+ - tags: []
+
+## Technocracy News & Trends
+ - [https://technocracy.news](https://technocracy.news)
+ - date published: 2015-09-20T19:26:00+00:00
+ - user: None
+ - tags: []
+
+## Technocracy News & Trends
+ - [https://www.technocracy.news](https://www.technocracy.news)
+ - date published: 2023-10-25T09:37:25.423842+00:00
+ - user: None
+ - tags: []
+
+## The Bureau | Sam Cooper | Substack
+ - [https://www.thebureau.news](https://www.thebureau.news)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Gauntlet | Julia Doubleday | Substack
+ - [https://www.thegauntlet.news](https://www.thegauntlet.news)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Ruck | Paul Szoldra | Substack
+ - [https://www.theruck.news](https://www.theruck.news)
+ - date published: 2024-04-30T07:03:48.966578+00:00
+ - user: None
+ - tags: []
+
+## ThursdAI - Recaps of the most high signal AI weekly spaces | Alex Volkov | Substack
+ - [https://sub.thursdai.news](https://sub.thursdai.news)
+ - date published: 2024-04-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## tilde news
+ - [https://tilde.news](https://tilde.news)
+ - date published: 2023-10-25T20:43:14.869847+00:00
+ - user: None
+ - tags: []
+
+## True North | Breaking Canadian News and Opinion
+ - [https://tnc.news](https://tnc.news)
+ - date published: 2023-10-25T20:43:19.101154+00:00
+ - user: None
+ - tags: []
+
+## Unpopular Front | Substack
+ - [https://www.unpopularfront.news](https://www.unpopularfront.news)
+ - date published: 2024-05-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## USA Journal
+ - [https://usajournal.news](https://usajournal.news)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Vandalism News
+ - [https://vandalism.news](https://vandalism.news)
+ - date published: 2024-04-30T02:34:30.443219+00:00
+ - user: None
+ - tags: []
+
+## VOA24 TV | CHANNEL
+ - [http://direct.voa24.news](http://direct.voa24.news)
+ - date published: 2024-05-07T10:57:01.924214+00:00
+ - user: None
+ - tags: []
+
+## Web Platform News
+ - [https://webplatform.news](https://webplatform.news)
+ - date published: 2023-10-25T20:43:23.872213+00:00
+ - user: None
+ - tags: []
+
+## westernstandard.news | The independent voice of the New West
+ - [https://www.westernstandard.news](https://www.westernstandard.news)
+ - date published: 2023-12-04T22:07:35+00:00
+ - user: rumpel
+ - tags: ['news']
+
+## WorkLife — Authority on how modern work is changing people’s lives
+ - [https://www.worklife.news](https://www.worklife.news)
+ - date published: 2023-10-25T20:43:26.647990+00:00
+ - user: None
+ - tags: []
+
+## The Works in Progress Newsletter | Substack
+ - [https://www.worksinprogress.news](https://www.worksinprogress.news)
+ - date published: 2023-10-25T20:43:29.879565+00:00
+ - user: None
+ - tags: []
+
+## Zig NEWS
+ - [https://zig.news](https://zig.news)
+ - date published: 2023-10-25T20:43:39.498351+00:00
+ - user: None
+ - tags: []
+
+## Secure domains for developers and technology lovers
+ - [https://get.nexus](https://get.nexus)
+ - date published: 2024-05-10T05:46:37.041109+00:00
+ - user: None
+ - tags: []
+
+## Flashscore.com.ng: Live Football Scores, Livescore - EPL, La Liga, Champions League
+ - [https://www.flashscore.com.ng](https://www.flashscore.com.ng)
+ - date published: 2024-05-11T07:35:23.293177+00:00
+ - user: None
+ - tags: []
+
+## OBMIL NETWORKS – Wide Area Networks, Local Area Networks and CCTV Installation and Sales.
+ - [http://www.obmilnetworks.com.ng](http://www.obmilnetworks.com.ng)
+ - date published: 2024-05-09T04:09:08.722558+00:00
+ - user: None
+ - tags: []
+
+## Shell Nigeria
+ - [https://www.shell.com.ng](https://www.shell.com.ng)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Times Nigeria Newspaper | TheTimes.com.ng
+ - [https://www.thetimes.com.ng](https://www.thetimes.com.ng)
+ - date published: 2023-10-25T20:43:43.215777+00:00
+ - user: None
+ - tags: []
+
+## Visa, a trusted leader in digital payments
+ - [https://www.visa.com.ng](https://www.visa.com.ng)
+ - date published: 2024-05-12T04:00:05.893870+00:00
+ - user: None
+ - tags: []
+
+## Anchor | JUPEB-REGISTER
+ - [https://jupeb.aul.edu.ng](https://jupeb.aul.edu.ng)
+ - date published: 2024-02-08T18:02:41.371594+00:00
+ - user: None
+ - tags: []
+
+## Home | EMC
+ - [https://emc.ui.edu.ng](https://emc.ui.edu.ng)
+ - date published: 2024-02-08T16:47:24.793762+00:00
+ - user: None
+ - tags: []
+
+## Welcome - University Advancement Centre
+ - [https://uac.unn.edu.ng](https://uac.unn.edu.ng)
+ - date published: 2023-12-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Appliance Ring
+ - [https://applianceri.ng](https://applianceri.ng)
+ - date published: 2024-05-08T09:36:32.793727+00:00
+ - user: None
+ - tags: []
+
+## Cars.ng: Buy Or Sell Cars in Nigeria
+ - [https://cars.ng](https://cars.ng)
+ - date published: 2024-05-04T14:28:06.772583+00:00
+ - user: None
+ - tags: []
+
+## Welcome - HDYTech
+ - [https://howdoyoutech.ng](https://howdoyoutech.ng)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Join the Mind Hacking Movement | Mind Hacking
+ - [https://www.mindhacki.ng](https://www.mindhacki.ng)
+ - date published: 2024-05-06T21:32:44.423082+00:00
+ - user: None
+ - tags: []
+
+## Home - Nigerian Television Authority -Africa's Largest TV Network
+ - [https://www.nta.ng](https://www.nta.ng)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to my digital space — Phuoc Nguyen
+ - [https://phuoc.ng](https://phuoc.ng)
+ - date published: 2023-11-06T14:12:19.315700+00:00
+ - user: None
+ - tags: []
+
+## Discuss rev.ng
+ - [https://discuss.rev.ng](https://discuss.rev.ng)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## rev.ng docs
+ - [https://docs.rev.ng](https://docs.rev.ng)
+ - date published: 2024-05-12T04:16:36.079399+00:00
+ - user: None
+ - tags: []
+
+## rev.ng hub
+ - [https://hub.rev.ng](https://hub.rev.ng)
+ - date published: 2024-05-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## rev.ng
+ - [https://rev.ng](https://rev.ng)
+ - date published: 2024-03-29T01:02:11.217150+00:00
+ - user: None
+ - tags: ['decompiler']
+
+## Create with Spring, sell on social - Spring. For creators.
+ - [https://www.spri.ng](https://www.spri.ng)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Fish Farmer, Supplier, Tilapia, Catfish, in Lagos, Nigeria
+ - [http://www.ssfarms.ng](http://www.ssfarms.ng)
+ - date published: 2024-05-07T10:10:34.721786+00:00
+ - user: None
+ - tags: []
+
+## Home | TheCable
+ - [https://www.thecable.ng](https://www.thecable.ng)
+ - date published: 2023-11-04T18:28:54.971018+00:00
+ - user: None
+ - tags: []
+
+## webri.ng
+ - [https://webri.ng](https://webri.ng)
+ - date published: 2024-03-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## WINGLA.NG - A Dub.co Custom Domain
+ - [https://wingla.ng](https://wingla.ng)
+ - date published: 2024-05-06T14:55:28.123866+00:00
+ - user: None
+ - tags: []
+
+## OPTF | OPTF | A global privacy tech not-for-profit based in Australia | Privacy is a fundamental right.
+ - [https://optf.ngo](https://optf.ngo)
+ - date published: 2024-05-06T23:56:07.147462+00:00
+ - user: None
+ - tags: []
+
+## Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más
+ - [https://www.airbnb.com.ni](https://www.airbnb.com.ni)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Visa, un líder confiable en pagos digitales.
+ - [https://www.visa.co.ni](https://www.visa.co.ni)
+ - date published: 2024-05-12T03:58:37.632633+00:00
+ - user: None
+ - tags: []
+
+## Bemuse — Online Rhythm Game
+ - [https://bemuse.ninja](https://bemuse.ninja)
+ - date published: 2024-05-09T08:59:54.102208+00:00
+ - user: None
+ - tags: []
+
+## Binary Ninja
+ - [https://binary.ninja](https://binary.ninja)
+ - date published: 2024-05-06T21:43:27.879216+00:00
+ - user: None
+ - tags: []
+
+## Brush Ninja - Free Creative Tools
+ - [https://brush.ninja](https://brush.ninja)
+ - date published: 2024-05-02T11:20:45.029668+00:00
+ - user: None
+ - tags: []
+
+## Home - 『混沌とした 忍者』
+ - [https://chaotic.ninja](https://chaotic.ninja)
+ - date published: 2023-10-26T06:39:30.397007+00:00
+ - user: None
+ - tags: []
+
+## Crawler.Ninja
+ - [https://crawler.ninja](https://crawler.ninja)
+ - date published: 2024-05-02T12:14:05.951818+00:00
+ - user: None
+ - tags: []
+
+## Hey, Soy  GodoFredo 😎
+ - [https://godofredo.ninja](https://godofredo.ninja)
+ - date published: 2024-05-06T14:40:39.113937+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://hexa.ninja](https://hexa.ninja)
+ - date published: 2024-05-14T03:32:03.388115+00:00
+ - user: None
+ - tags: []
+
+## hypr.ninja
+ - [https://hypr.ninja](https://hypr.ninja)
+ - date published: 2024-01-14T10:24:23.057410+00:00
+ - user: None
+ - tags: []
+
+## Jason Jeffrey Jones | Associate Professor | Stony Brook University
+ - [https://jasonjones.ninja](https://jasonjones.ninja)
+ - date published: 2024-05-08T09:59:04.231341+00:00
+ - user: None
+ - tags: []
+
+## JRL NINJA – the coder out of the dark
+ - [https://jrl.ninja](https://jrl.ninja)
+ - date published: 2024-05-06T14:13:54.765081+00:00
+ - user: None
+ - tags: []
+
+## Krypton
+ - [https://krypton.ninja](https://krypton.ninja)
+ - date published: 2023-12-22T17:49:55.486967+00:00
+ - user: None
+ - tags: ['personal']
+
+## Marco's Blog
+ - [https://blog.marco.ninja](https://blog.marco.ninja)
+ - date published: 2024-01-12T07:29:19.691096+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://blog.mbedded.ninja](https://blog.mbedded.ninja)
+ - date published: 2024-04-29T07:32:48.013942+00:00
+ - user: None
+ - tags: []
+
+## PageSpeed Ninja
+ - [https://pagespeed.ninja](https://pagespeed.ninja)
+ - date published: 2024-04-28T02:11:25.064033+00:00
+ - user: None
+ - tags: []
+
+## Welcome to ax3l's Webserver
+ - [https://plasma.ninja](https://plasma.ninja)
+ - date published: 2024-02-08T16:59:24.602613+00:00
+ - user: None
+ - tags: []
+
+## Learn. Create. Curate. - Renaissance Ninja
+ - [https://renaissance.ninja](https://renaissance.ninja)
+ - date published: 2024-04-03T12:48:14.857151+00:00
+ - user: None
+ - tags: ['personal']
+
+## Official Merchandise Collection from LukHash
+ - [https://synthwave.ninja](https://synthwave.ninja)
+ - date published: 2023-12-11T17:55:03.562457+00:00
+ - user: None
+ - tags: ['merch store']
+
+## UNICORN RIOT - Your Alternative Media
+ - [https://unicornriot.ninja](https://unicornriot.ninja)
+ - date published: 2023-10-25T20:43:47.381363+00:00
+ - user: None
+ - tags: []
+
+## Website Uptime Monitoring and Reporting Tools - Webmaster Ninja
+ - [https://webmaster.ninja](https://webmaster.ninja)
+ - date published: 2022-11-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mianzhi Wang
+ - [https://research.wmz.ninja](https://research.wmz.ninja)
+ - date published: 2023-10-25T20:43:49.197052+00:00
+ - user: None
+ - tags: []
+
+## 3CX. Telefooncentrale. Live chat. Videobellen.
+ - [https://www.3cx.nl](https://www.3cx.nl)
+ - date published: 2024-04-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DPG Media Privacy Gate
+ - [https://www.ad.nl](https://www.ad.nl)
+ - date published: 2024-05-11T07:05:48.875824+00:00
+ - user: None
+ - tags: []
+
+## A Day In The Life Of...
+ - [https://adayinthelifeof.nl](https://adayinthelifeof.nl)
+ - date published: 2023-10-25T20:44:04.291967+00:00
+ - user: None
+ - tags: []
+
+## AG Connect: Tech in Business, Maatschappij, Carrière en Toekomst.
+ - [https://www.agconnect.nl](https://www.agconnect.nl)
+ - date published: 2024-05-11T07:05:47.860897+00:00
+ - user: None
+ - tags: []
+
+## Hét branchemedium voor de AGF-sector
+ - [https://www.agf.nl](https://www.agf.nl)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Me, myself and I · And nothing else
+ - [https://www.ahles.nl](https://www.ahles.nl)
+ - date published: 2023-11-29T17:18:42.263892+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Airbnb | Vakantiewoningen, houten huisjes, strandhuizen en meer
  - [https://www.airbnb.nl](https://www.airbnb.nl)
  - date published: 2024-05-06T00:00:00+00:00
@@ -5402,606 +6002,6 @@ marginalia.nu
 ## Home
  - [http://www.aboutcookies.org](http://www.aboutcookies.org)
  - date published: 2024-04-30T15:00:08.463243+00:00
- - user: None
- - tags: []
-
-## About Philippines – Philippines Life & Culture
- - [https://aboutphilippines.org](https://aboutphilippines.org)
- - date published: 2023-12-29T22:02:16.911318+00:00
- - user: None
- - tags: []
-
-## ABSA International – The Association for Biosafety and Biosecurity
- - [https://absa.org](https://absa.org)
- - date published: 2024-05-02T09:55:35.570471+00:00
- - user: None
- - tags: []
-
-## Absinthe: Home
- - [https://absinthe-graphql.org](https://absinthe-graphql.org)
- - date published: 2024-05-08T11:36:27.115476+00:00
- - user: None
- - tags: []
-
-## Ecole de commerce Paris : American Business School
- - [https://www.absparis.org](https://www.absparis.org)
- - date published: 2024-05-08T00:26:44.500733+00:00
- - user: None
- - tags: []
-
-## AcademicEarth.org - Free Online Courses From Top Colleges
- - [https://academicearth.org](https://academicearth.org)
- - date published: 2024-05-01T06:57:44.799700+00:00
- - user: None
- - tags: []
-
-## The Academy Museum Store
- - [https://academymuseumstore.org](https://academymuseumstore.org)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## AcaWiki
- - [http://acawiki.org](http://acawiki.org)
- - date published: 2021-03-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - American College of Cardiology
- - [https://www.acc.org](https://www.acc.org)
- - date published: 2023-10-25T20:53:25.158857+00:00
- - user: None
- - tags: []
-
-## Access to Insight
- - [https://www.accesstoinsight.org](https://www.accesstoinsight.org)
- - date published: 2023-10-25T20:53:32.094744+00:00
- - user: None
- - tags: []
-
-## Accountable Tech
- - [https://accountabletech.org](https://accountabletech.org)
- - date published: 2024-01-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## ACCU
- - [https://accu.org](https://accu.org)
- - date published: 2023-10-25T20:53:34.238905+00:00
- - user: None
- - tags: ['programming organisation', 'c++', 'python', 'java']
-
-## Revive Adserver
- - [https://ads.accu.org](https://ads.accu.org)
- - date published: 2024-04-29T09:11:00.603708+00:00
- - user: None
- - tags: []
-
-## ACCU World of Code – Aggregating coding blogs
- - [https://blogs.accu.org](https://blogs.accu.org)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## ACCU 2024
- - [https://accuconference.org](https://accuconference.org)
- - date published: 2024-05-09T05:56:31.170124+00:00
- - user: None
- - tags: []
-
-## ACCU 2024
- - [https://www.accuconference.org](https://www.accuconference.org)
- - date published: 2024-04-29T09:10:53.942470+00:00
- - user: None
- - tags: []
-
-## ACI Africa
- - [https://www.aciafrica.org](https://www.aciafrica.org)
- - date published: 2024-05-08T04:35:31.948512+00:00
- - user: None
- - tags: []
-
-## ACI Afrique
- - [https://www.aciafrique.org](https://www.aciafrique.org)
- - date published: 2024-05-08T04:35:10.497004+00:00
- - user: None
- - tags: []
-
-## Ackerman Institute for the Family
- - [https://www.ackerman.org](https://www.ackerman.org)
- - date published: 2024-01-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## ACL Anthology - ACL Anthology
- - [https://aclanthology.org](https://aclanthology.org)
- - date published: 2023-10-25T20:53:36.329517+00:00
- - user: None
- - tags: []
-
-## Home | American Civil Liberties Union
- - [https://www.aclu.org](https://www.aclu.org)
- - date published: 2023-10-25T20:53:44.491527+00:00
- - user: None
- - tags: []
-
-## ACLU of Iowa
- - [https://www.aclu-ia.org](https://www.aclu-ia.org)
- - date published: 2024-05-11T11:36:18.219222+00:00
- - user: None
- - tags: []
-
-## ACLU of Indiana
- - [https://www.aclu-in.org](https://www.aclu-in.org)
- - date published: 2024-02-28T08:53:45.127075+00:00
- - user: None
- - tags: []
-
-## The ACLU of Northern California
- - [https://www.aclunc.org](https://www.aclunc.org)
- - date published: 2024-05-08T11:32:34.379471+00:00
- - user: None
- - tags: []
-
-## The 61st Annual Meeting of the Association for Computational Linguistics
- - [https://2023.aclweb.org](https://2023.aclweb.org)
- - date published: 2024-04-28T04:06:46.605344+00:00
- - user: None
- - tags: []
-
-## ACL Member Portal | The Association for Computational Linguistics Member Portal
- - [https://www.aclweb.org](https://www.aclweb.org)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## A.M. Turing Award
- - [https://amturing.acm.org](https://amturing.acm.org)
- - date published: 2023-10-25T20:53:46.979207+00:00
- - user: None
- - tags: []
-
-## Awards Home
- - [https://awards.acm.org](https://awards.acm.org)
- - date published: 2023-10-25T20:53:56.997751+00:00
- - user: None
- - tags: []
-
-## BLOG@UBIQUITY
- - [https://blog.ubiquity.acm.org](https://blog.ubiquity.acm.org)
- - date published: 2024-05-07T18:21:57.767427+00:00
- - user: None
- - tags: []
-
-## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
- - user: None
- - tags: []
-
-## CHI 2019 – Weaving the threads of CHI
- - [https://chi2019.acm.org](https://chi2019.acm.org)
- - date published: 2024-05-08T10:32:18.775859+00:00
- - user: None
- - tags: []
-
-## CHI 2020
- - [https://chi2020.acm.org](https://chi2020.acm.org)
- - date published: 2024-05-08T10:32:23.491306+00:00
- - user: None
- - tags: []
-
-## CSCW 2024
- - [https://cscw.acm.org](https://cscw.acm.org)
- - date published: 2024-04-03T06:41:47.415957+00:00
- - user: None
- - tags: []
-
-## ACM Digital Library
- - [https://dl.acm.org](https://dl.acm.org)
- - date published: 2023-10-25T20:54:07.913205+00:00
- - user: None
- - tags: []
-
-## ACM Digital Library
- - [http://doi.acm.org](http://doi.acm.org)
- - date published: 2024-05-04T15:43:18.296990+00:00
- - user: None
- - tags: []
-
-## ACM Code of Ethics and Professional Conduct
- - [https://ethics.acm.org](https://ethics.acm.org)
- - date published: 2023-10-25T20:54:10.467772+00:00
- - user: None
- - tags: []
-
-## FCRC 2023 Schedule-at-a-Glance
- - [https://fcrc.acm.org](https://fcrc.acm.org)
- - date published: 2024-04-28T03:26:09.303809+00:00
- - user: None
- - tags: []
-
-## ICMI 2024:: 26th ACM International Conference on Multimodal Interaction
- - [https://icmi.acm.org](https://icmi.acm.org)
- - date published: 2024-05-12T06:00:17.716179+00:00
- - user: None
- - tags: []
-
-## About ITiCSE – Annual conference on Innovation and Technology in Computer Science Education
- - [https://iticse.acm.org](https://iticse.acm.org)
- - date published: 2024-05-07T19:04:19.546776+00:00
- - user: None
- - tags: []
-
-## ACM Learning Center
- - [https://learning.acm.org](https://learning.acm.org)
- - date published: 2023-10-25T20:54:19.348249+00:00
- - user: None
- - tags: []
-
-## Mastodon
- - [https://mastodon.acm.org](https://mastodon.acm.org)
- - date published: 2024-04-29T06:47:06.390122+00:00
- - user: None
- - tags: []
-
-## ACM Digital Library
- - [http://portal.acm.org](http://portal.acm.org)
- - date published: 2024-04-28T01:55:01.941713+00:00
- - user: None
- - tags: []
-
-## ACMQ Site - ACM Queue
- - [https://queue.acm.org](https://queue.acm.org)
- - date published: 2023-10-25T20:54:22.401799+00:00
- - user: None
- - tags: []
-
-## ACM TRANSACTIONS ON PRIVACY AND SECURITY Home
- - [http://tissec.acm.org](http://tissec.acm.org)
- - date published: 2024-05-06T15:13:10.601417+00:00
- - user: None
- - tags: []
-
-## ACM TRANSACTIONS ON INTERNET TECHNOLOGY Home
- - [http://toit.acm.org](http://toit.acm.org)
- - date published: 2024-05-06T15:12:36.958298+00:00
- - user: None
- - tags: []
-
-## UIST 2024 - UIST 2024
- - [http://uist.acm.org](http://uist.acm.org)
- - date published: 2024-05-04T15:31:16.707333+00:00
- - user: None
- - tags: []
-
-## Association for Computing Machinery
- - [https://www.acm.org](https://www.acm.org)
- - date published: 2023-10-25T20:54:27.074550+00:00
- - user: None
- - tags: []
-
-## the morning paper | a random walk through Computer Science research, by Adrian Colyer
- - [https://blog.acolyer.org](https://blog.acolyer.org)
- - date published: 2023-10-25T20:54:28.113947+00:00
- - user: None
- - tags: []
-
-## Acorn Community Farm – An egalitarian, income-sharing, secular, anarchist, feminist, consensus-based intentional community. Supporting radical sharing, positive communication, compassion, consent culture, sustainability, and anti-oppression activism.
- - [http://www.acorncommunity.org](http://www.acorncommunity.org)
- - date published: 2024-05-11T11:19:15.919006+00:00
- - user: None
- - tags: []
-
-## The Acorn Theatre
- - [https://acorntheatre.org](https://acorntheatre.org)
- - date published: 2024-02-08T21:50:17.846763+00:00
- - user: None
- - tags: []
-
-## Australian Acoustic Observatory | A20
- - [https://acousticobservatory.org](https://acousticobservatory.org)
- - date published: 2023-12-01T10:46:03.517245+00:00
- - user: None
- - tags: []
-
-## Show HN: Australian Acoustic Observatory Search
- - [https://search.acousticobservatory.org](https://search.acousticobservatory.org)
- - date published: 2023-12-01T05:57:47+00:00
- - user: None
- - tags: []
-
-## AC Community Wiki
- - [http://acpedia.org](http://acpedia.org)
- - date published: 2024-05-02T14:03:58.888716+00:00
- - user: None
- - tags: []
-
-## Overview of ACPI Component Architecture (ACPICA)
- - [http://www.acpica.org](http://www.acpica.org)
- - date published: 2023-04-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://www.acpjournals.org
- - [https://www.acpjournals.org](https://www.acpjournals.org)
- - date published: 2023-10-25T20:54:28.582674+00:00
- - user: None
- - tags: []
-
-## ACR Meeting Abstracts
- - [https://acrabstracts.org](https://acrabstracts.org)
- - date published: 2024-05-06T22:44:52.148756+00:00
- - user: None
- - tags: []
-
-## Annual Meeting
- - [http://acrannualmeeting.org](http://acrannualmeeting.org)
- - date published: 2024-05-06T22:44:22.841208+00:00
- - user: None
- - tags: []
-
-## Chemical & Engineering News
- - [https://cen.acs.org](https://cen.acs.org)
- - date published: 2023-12-09T04:59:11.663465+00:00
- - user: None
- - tags: ['chemical news', 'engineering news']
-
-## https://pubs.acs.org
- - [https://pubs.acs.org](https://pubs.acs.org)
- - date published: 2023-10-25T20:54:31.739169+00:00
- - user: None
- - tags: []
-
-## Home - ACS Solutions Center
- - [https://solutions.acs.org](https://solutions.acs.org)
- - date published: 2023-04-14T16:46:39+00:00
- - user: None
- - tags: []
-
-## American Chemical Society
- - [https://www.acs.org](https://www.acs.org)
- - date published: 2023-10-25T20:54:33.698417+00:00
- - user: None
- - tags: []
-
-## American Council on Science and Health |
- - [https://www.acsh.org](https://www.acsh.org)
- - date published: 2023-10-25T20:54:38.389591+00:00
- - user: None
- - tags: []
-
-## ACSM | The American College of Sports Medicine
- - [https://www.acsm.org](https://www.acsm.org)
- - date published: 2024-05-08T03:49:25.125475+00:00
- - user: None
- - tags: []
-
-## Action Against Hunger | Ending World Hunger & Malnutrition
- - [https://www.actionagainsthunger.org](https://www.actionagainsthunger.org)
- - date published: 2024-03-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Action Network
- - [https://actionnetwork.org](https://actionnetwork.org)
- - date published: 2024-05-01T03:30:38.936497+00:00
- - user: None
- - tags: []
-
-## Activate
- - [https://www.activate.org](https://www.activate.org)
- - date published: 2024-05-08T04:28:41.256809+00:00
- - user: None
- - tags: []
-
-## How to activate & enable JavaScript in web & mobile web browsers
- - [http://activatejavascript.org](http://activatejavascript.org)
- - date published: 2024-05-08T06:01:44.048070+00:00
- - user: None
- - tags: []
-
-## Active Inference Institute
- - [http://www.activeinference.org](http://www.activeinference.org)
- - date published: 2024-05-07T10:00:08.190001+00:00
- - user: None
- - tags: []
-
-## Activity Net
- - [http://activity-net.org](http://activity-net.org)
- - date published: 2024-05-07T11:01:26.475572+00:00
- - user: None
- - tags: []
-
-## Google
- - [https://www.actkm.org](https://www.actkm.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Religion & Liberty Online
- - [https://rlo.acton.org](https://rlo.acton.org)
- - date published: 2024-05-08T10:13:50.608029+00:00
- - user: None
- - tags: []
-
-## Acton Academy | One-room schoolhouses for the 21st century.
- - [http://actonacademy.org](http://actonacademy.org)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Actors' Equity Association
- - [https://www.actorsequity.org](https://www.actorsequity.org)
- - date published: 2024-02-24T18:23:35.424750+00:00
- - user: None
- - tags: []
-
-## Actual | Actual Budget Documentation
- - [https://actualbudget.org](https://actualbudget.org)
- - date published: 2024-04-08T19:26:47.793047+00:00
- - user: None
- - tags: ['home finance', 'self-host']
-
-## Actual
- - [https://demo.actualbudget.org](https://demo.actualbudget.org)
- - date published: 2024-05-14T03:33:55.364386+00:00
- - user: None
- - tags: []
-
-## Put Faculty Development at the Center of Student Success
- - [https://acue.org](https://acue.org)
- - date published: 2024-01-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## American Dermatological Association – Founded in 1876
- - [https://ada1.org](https://ada1.org)
- - date published: 2024-02-08T17:45:57.107537+00:00
- - user: None
- - tags: []
-
-## Ada 2012
- - [https://www.ada2012.org](https://www.ada2012.org)
- - date published: 2024-04-23T15:56:21+00:00
- - user: rumpel
- - tags: ['ada', 'programming language']
-
-## Ada Conformity Assessment Authority
- - [http://www.ada-auth.org](http://www.ada-auth.org)
- - date published: 2024-04-23T15:49:52+00:00
- - user: rumpel
- - tags: ['ada', 'programming language']
-
-## read
- - [https://adagia.org](https://adagia.org)
- - date published: 2024-05-04T13:57:13.118918+00:00
- - user: None
- - tags: []
-
-## Ada Resource Association - News and resource for the Ada programming language
- - [https://www.adaic.org](https://www.adaic.org)
- - date published: 2024-04-23T15:53:59+00:00
- - user: rumpel
- - tags: ['ada', 'programming language']
-
-## Adalah-NY: Campaign for the Boycott of Israel
- - [https://www.adalahny.org](https://www.adalahny.org)
- - date published: 2024-05-08T12:00:56.842789+00:00
- - user: None
- - tags: []
-
-## Adam Smith Works
- - [https://www.adamsmithworks.org](https://www.adamsmithworks.org)
- - date published: 2024-05-08T09:35:07.627659+00:00
- - user: None
- - tags: []
-
-## Asian Development Bank
- - [https://adb.org](https://adb.org)
- - date published: 2024-05-02T13:49:57.292250+00:00
- - user: None
- - tags: []
-
-## Subscriber Services | ADB E-mail Alerts
- - [https://alerts.adb.org](https://alerts.adb.org)
- - date published: 2024-05-12T07:25:37.523363+00:00
- - user: None
- - tags: []
-
-## Asia Regional Integration Center
- - [https://aric.adb.org](https://aric.adb.org)
- - date published: 2023-11-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## AsianBondsOnline - Home
- - [https://asianbondsonline.adb.org](https://asianbondsonline.adb.org)
- - date published: 2024-05-12T07:25:47.884256+00:00
- - user: None
- - tags: []
-
-## Homepage | Asian Development Blog
- - [https://blogs.adb.org](https://blogs.adb.org)
- - date published: 2024-05-12T07:25:22.413464+00:00
- - user: None
- - tags: []
-
-## ADB Data Library | Asian Development Bank
- - [https://data.adb.org](https://data.adb.org)
- - date published: 2024-05-12T07:25:11.679323+00:00
- - user: None
- - tags: []
-
-## Key Indicators Database – Asian Development Bank
- - [https://kidb.adb.org](https://kidb.adb.org)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Asian Development Bank
- - [https://www.adb.org](https://www.adb.org)
- - date published: 2024-04-05T18:55:12.979831+00:00
- - user: None
- - tags: []
-
-## Adblock Plus | The world's #1 free ad blocker
- - [https://adblockplus.org](https://adblockplus.org)
- - date published: 2023-11-01T08:44:08.907697+00:00
- - user: None
- - tags: ['ad block']
-
-## Adblock Plus and (a little) more
- - [https://blog.adblockplus.org](https://blog.adblockplus.org)
- - date published: 2023-11-01T08:44:10.579602+00:00
- - user: None
- - tags: []
-
-## Início
- - [https://addressforall.org](https://addressforall.org)
- - date published: 2024-05-08T11:28:33.194764+00:00
- - user: None
- - tags: []
-
-## Adélie Linux | Welcome
- - [https://www.adelielinux.org](https://www.adelielinux.org)
- - date published: 2024-01-06T17:39:36.159238+00:00
- - user: None
- - tags: []
-
-## AdeptiCon – March 20th – 24th, 2024
- - [https://adepticon.org](https://adepticon.org)
- - date published: 2024-05-11T07:11:42.098818+00:00
- - user: None
- - tags: []
-
-## AdeptiCon – March 20th – 24th, 2024
- - [https://www.adepticon.org](https://www.adepticon.org)
- - date published: 2024-03-15T09:28:07+00:00
- - user: rumpel
- - tags: ['convention', 'wargames', 'warhammer', 'tabletop games']
-
-## Adessium Foundation
- - [https://www.adessium.org](https://www.adessium.org)
- - date published: 2024-05-02T09:58:29.938646+00:00
- - user: None
- - tags: []
-
-## Alliance Defending Freedom International
- - [https://adfinternational.org](https://adfinternational.org)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## ADHD Evidence Project
- - [https://www.adhdevidence.org](https://www.adhdevidence.org)
- - date published: 2023-10-25T20:54:40.433717+00:00
- - user: None
- - tags: []
-
-## ADI Design Museum
- - [https://www.adidesignmuseum.org](https://www.adidesignmuseum.org)
- - date published: 2024-04-24T00:00:00+00:00
  - user: None
  - tags: []
 

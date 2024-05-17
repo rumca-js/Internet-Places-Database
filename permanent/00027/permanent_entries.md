@@ -1,3 +1,141 @@
+## Home - Intel Community
+ - [https://community.intel.com](https://community.intel.com)
+ - date published: 2023-10-25T15:21:56.948897+00:00
+ - user: None
+ - tags: []
+
+## Download Intel Drivers and Software
+ - [https://downloadcenter.intel.com](https://downloadcenter.intel.com)
+ - date published: 2023-10-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Resource & Documentation Center
+ - [https://edc.intel.com](https://edc.intel.com)
+ - date published: 2024-02-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Intel | Data Center Solutions, IoT, and PC Innovation
+ - [https://intel.com](https://intel.com)
+ - date published: 2024-04-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Open Ecosystem
+ - [https://open.intel.com](https://open.intel.com)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Search - Intel.com
+ - [http://search.intel.com](http://search.intel.com)
+ - date published: 2024-04-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Forgot Your Password?
+ - [https://signin.intel.com](https://signin.intel.com)
+ - date published: 2024-05-09T04:39:23.681615+00:00
+ - user: None
+ - tags: []
+
+## Intel Developer Zone
+ - [https://software.intel.com](https://software.intel.com)
+ - date published: 2024-04-28T04:07:44.273020+00:00
+ - user: None
+ - tags: []
+
+## Online Case Management Lightning
+ - [https://supporttickets.intel.com](https://supporttickets.intel.com)
+ - date published: 1970-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Intel | Data Center Solutions, IoT, and PC Innovation
+ - [https://www.intel.com](https://www.intel.com)
+ - date published: 2023-10-25T11:28:01.096443+00:00
+ - user: None
+ - tags: ['semiconductors']
+
+## Intel | โซลูชันศูนย์ข้อมูล, IoT และนวัตกรรมด้านพีซี
+ - [https://www.thailand.intel.com](https://www.thailand.intel.com)
+ - date published: 2024-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Voice Services
+ - [https://www.inteliquent.com](https://www.inteliquent.com)
+ - date published: 2024-05-10T05:59:08.401174+00:00
+ - user: None
+ - tags: []
+
+## Welcome | IntellectualConservative
+ - [http://www.intellectualconservative.com](http://www.intellectualconservative.com)
+ - date published: 2024-05-06T20:56:53.009639+00:00
+ - user: None
+ - tags: []
+
+## Intellectual Mathematics
+ - [https://intellectualmathematics.com](https://intellectualmathematics.com)
+ - date published: 2023-10-25T15:22:00.515791+00:00
+ - user: None
+ - tags: []
+
+## https://intellexa.com
+ - [https://intellexa.com](https://intellexa.com)
+ - date published: 2024-02-07T00:52:17.319270+00:00
+ - user: None
+ - tags: []
+
+## Home | Intelligence Lectures
+ - [https://www.intelligencelectures.com](https://www.intelligencelectures.com)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Global Strategic Intelligence - Intelligence Online
+ - [https://www.intelligenceonline.com](https://www.intelligenceonline.com)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: rumpel
+ - tags: ['government intelligence news']
+
+## Homepage - Intelligence Squared
+ - [http://www.intelligencesquared.com](http://www.intelligencesquared.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Intelligent Cryptocurrency Home Page
+ - [https://intelligentcryptocurrency.com](https://intelligentcryptocurrency.com)
+ - date published: 2024-05-04T07:34:26.786472+00:00
+ - user: None
+ - tags: []
+
+## Intelligent Economist - Economics Theory Explained Simply
+ - [https://www.intelligenteconomist.com](https://www.intelligenteconomist.com)
+ - date published: 2020-11-02T12:23:57+00:00
+ - user: None
+ - tags: []
+
+## Intelligize® - Sign In | LexisNexis
+ - [https://apps.intelligize.com](https://apps.intelligize.com)
+ - date published: 2024-05-04T12:01:14.978160+00:00
+ - user: None
+ - tags: []
+
+## bne IntelliNews
+ - [https://intellinews.com](https://intellinews.com)
+ - date published: 2023-12-10T21:23:00.758981+00:00
+ - user: None
+ - tags: []
+
+## IntelliNews Pro - Login
+ - [https://pro.intellinews.com](https://pro.intellinews.com)
+ - date published: 2024-05-07T23:31:44.958369+00:00
+ - user: None
+ - tags: []
+
 ## bne IntelliNews
  - [https://www.intellinews.com](https://www.intellinews.com)
  - date published: 2024-05-07T23:31:36.542165+00:00
@@ -3440,7 +3578,7 @@
  - [https://jaredigms.com](https://jaredigms.com)
  - date published: 2024-02-09T22:23:13.032097+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## JARED LEE LOUGHNER
  - [https://jaredleeloughner.com](https://jaredleeloughner.com)
@@ -3458,7 +3596,7 @@
  - [https://jaredramsey.com](https://jaredramsey.com)
  - date published: 2023-10-25T09:20:49.239478+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Jared White: Expressively publishing on the open web since 1996. Entranced by Portland, Oregon since 2017.
  - [https://jaredwhite.com](https://jaredwhite.com)
@@ -5859,142 +5997,4 @@
  - date published: 2023-10-25T08:46:38.077970+00:00
  - user: None
  - tags: ['personal']
-
-## Joel Auterson
- - [https://www.joelotter.com](https://www.joelotter.com)
- - date published: 2024-02-06T10:21:53.837820+00:00
- - user: None
- - tags: []
-
-## Joel Tok
- - [https://www.joeltok.com](https://www.joeltok.com)
- - date published: 2023-11-29T17:07:53.683809+00:00
- - user: None
- - tags: ['personal']
-
-## Joe Maness
- - [https://www.joemaness.com](https://www.joemaness.com)
- - date published: 2024-05-07T09:33:22.886183+00:00
- - user: None
- - tags: []
-
-## Joe Matzzie
- - [https://joematzzie.com](https://joematzzie.com)
- - date published: 2023-11-29T15:49:24.713588+00:00
- - user: None
- - tags: ['personal']
-
-## JoeBlogs | Joe Posnanski | Substack
- - [https://joeblogs.joeposnanski.com](https://joeblogs.joeposnanski.com)
- - date published: 2024-02-26T08:23:20.680116+00:00
- - user: None
- - tags: []
-
-## Joe Previte's Site
- - [https://joeprevite.com](https://joeprevite.com)
- - date published: 2023-10-25T15:29:51.059464+00:00
- - user: None
- - tags: []
-
-## Joe Procopio | Multi-Exit, Multi-Failure Entrepreneur
- - [https://www.joeprocopio.com](https://www.joeprocopio.com)
- - date published: 2024-05-01T08:34:29.121129+00:00
- - user: None
- - tags: []
-
-## Joe Regenstein, CPA, FPAC
- - [https://joereg4.com](https://joereg4.com)
- - date published: 2024-01-05T10:37:48.225445+00:00
- - user: None
- - tags: []
-
-## Joe rogan
- - [https://www.joerogan.com](https://www.joerogan.com)
- - date published: 2023-11-01T08:42:22.375231+00:00
- - user: None
- - tags: ['podcasts', 'youtuber']
-
-## Jose's Sketchbook – A personal collection of ideas, programming and shiny stuff
- - [https://www.joesfer.com](https://www.joesfer.com)
- - date published: 2023-10-25T15:29:56.370927+00:00
- - user: None
- - tags: []
-
-## Unauthoritative Pronouncements
- - [https://joe-steel.com](https://joe-steel.com)
- - date published: 2024-04-29T04:19:37.002194+00:00
- - user: None
- - tags: []
-
-## Joe Thom • A (full-stack, product focused) engineer.
- - [https://joethom.com](https://joethom.com)
- - date published: 2024-04-28T04:38:04.378373+00:00
- - user: None
- - tags: []
-
-## The Adventures of Accordion Guy in the 21st Century
- - [https://www.joeydevilla.com](https://www.joeydevilla.com)
- - date published: 2024-03-05T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Joey Elsisi
- - [https://joeyelsisi.com](https://joeyelsisi.com)
- - date published: 2024-05-09T08:25:16.984362+00:00
- - user: None
- - tags: []
-
-## Joseph William Yoder - Software Architect, Developer, Entrepreneur
- - [http://www.joeyoder.com](http://www.joeyoder.com)
- - date published: 2024-05-08T09:32:30.230439+00:00
- - user: None
- - tags: []
-
-## Joe Zim's JavaScript Corner
- - [http://www.joezimjs.com](http://www.joezimjs.com)
- - date published: 2020-05-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jo Freeman: Feminist Scholar and Author
- - [https://www.jofreeman.com](https://www.jofreeman.com)
- - date published: 2024-01-09T02:40:43.568798+00:00
- - user: None
- - tags: []
-
-## O2 Joggler Forum - Index page
- - [https://www.jogglerwiki.com](https://www.jogglerwiki.com)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Hacker indépendant
- - [https://johackim.com](https://johackim.com)
- - date published: 2024-05-09T08:18:30.004288+00:00
- - user: None
- - tags: []
-
-## Johan Friedner | Portfolio
- - [https://johanfriedner.com](https://johanfriedner.com)
- - date published: 2024-05-08T03:32:44.342440+00:00
- - user: None
- - tags: []
-
-## Johannes Haage
- - [https://www.johanneshaage.com](https://www.johanneshaage.com)
- - date published: 2024-01-10T23:53:13.723781+00:00
- - user: None
- - tags: []
-
-## The artwork of Johan Potma
- - [http://www.johanpotma.com](http://www.johanpotma.com)
- - date published: 1998-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Luxury Hotels, Spas and Villas - Condé Nast Johansens
- - [https://www.johansens.com](https://www.johansens.com)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
 

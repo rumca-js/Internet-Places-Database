@@ -1,3 +1,93 @@
+## Homepage
+ - [https://www.dowjones.com](https://www.dowjones.com)
+ - date published: 2024-05-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DOWN App | Best Hookup & Dating App
+ - [https://www.downapp.com](https://www.downapp.com)
+ - date published: 2024-05-01T08:34:58.577200+00:00
+ - user: None
+ - tags: []
+
+## Downdetector
+ - [https://downdetector.com](https://downdetector.com)
+ - date published: 2024-03-05T16:10:59+00:00
+ - user: rumpel
+ - tags: ['down detector']
+
+## نظرة عامة حالية علي خدمات الشركة
+ - [https://eg.downdetector.com](https://eg.downdetector.com)
+ - date published: 2024-05-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## نظرة عامة حالية علي خدمات الشركة
+ - [https://sa.downdetector.com](https://sa.downdetector.com)
+ - date published: 2024-05-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ภาพรวมสถานะ
+ - [https://th.downdetector.com](https://th.downdetector.com)
+ - date published: 2024-05-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Downdetector API
+ - [https://downdetectorapi.com](https://downdetectorapi.com)
+ - date published: 2024-05-12T06:28:13.777941+00:00
+ - user: None
+ - tags: []
+
+## Free Software Downloads and Reviews for Windows, Android, Mac, and iOS - CNET Download
+ - [https://www.download.com](https://www.download.com)
+ - date published: 2024-05-02T12:43:30.053492+00:00
+ - user: None
+ - tags: []
+
+## Downloadcrew
+ - [https://www.downloadcrew.com](https://www.downloadcrew.com)
+ - date published: 2024-05-07T23:31:32.038302+00:00
+ - user: None
+ - tags: []
+
+## Download subtitles from Youtube for free
+ - [https://downloadyoutubesubtitle.com](https://downloadyoutubesubtitle.com)
+ - date published: 2024-05-09T07:43:32.496959+00:00
+ - user: None
+ - tags: []
+
+## Show HN: I create a free website for download YouTube transcript, subtitle
+ - [https://www.downloadyoutubesubtitle.com](https://www.downloadyoutubesubtitle.com)
+ - date published: 2024-02-18T09:41:09+00:00
+ - user: None
+ - tags: []
+
+## Download subtitles from Youtube, Viki, Viu, Wetv, Kocowa and more
+ - [https://downsub.com](https://downsub.com)
+ - date published: 2023-11-27T13:29:48+00:00
+ - user: rumpel
+ - tags: ['youtube', 'download', 'subtitles']
+
+## Down the Rabbit Hole Designs – Down the Rabbit Hole Designs
+ - [http://downtherabbitholedesigns.com](http://downtherabbitholedesigns.com)
+ - date published: 2024-05-13T03:40:51.167968+00:00
+ - user: None
+ - tags: []
+
+## Find and organize local groups and events | DownToMeet
+ - [https://www.downtomeet.com](https://www.downtomeet.com)
+ - date published: 2024-05-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Downtown Artist Cellar Fine Art
+ - [https://www.downtownartistcellar.com](https://www.downtownartistcellar.com)
+ - date published: 2024-05-10T06:42:12.122226+00:00
+ - user: None
+ - tags: []
+
 ## Downtown Doug Brown
  - [https://www.downtowndougbrown.com](https://www.downtowndougbrown.com)
  - date published: 2023-10-25T13:57:44.045589+00:00
@@ -2308,6 +2398,12 @@
  - user: None
  - tags: []
 
+## Dynalips - Realistic lipsync - Dynalips
+ - [https://dynalips.com](https://dynalips.com)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## https://www.dynamicdrive.com
  - [https://www.dynamicdrive.com](https://www.dynamicdrive.com)
  - date published: 2024-01-09T02:35:24.416804+00:00
@@ -2787,6 +2883,12 @@
  - date published: 2024-04-10T10:45:32+00:00
  - user: None
  - tags: ['web assets', 'web development']
+
+## Webpack App
+ - [https://help.easyfrontend.com](https://help.easyfrontend.com)
+ - date published: 2024-05-16T02:48:47.593533+00:00
+ - user: None
+ - tags: []
 
 ## Easyful
  - [https://app.easyful.com](https://app.easyful.com)
@@ -4280,7 +4382,7 @@
  - [https://www.eduke32.com](https://www.eduke32.com)
  - date published: 2024-05-09T09:00:23.526594+00:00
  - user: None
- - tags: ['video game port']
+ - tags: ['video game port', 'duke nukem']
 
 ## Kuliah Kelas Karyawan Online | Komunitas Pendidikan Tinggi
  - [https://edunitas.com](https://edunitas.com)
@@ -5893,108 +5995,6 @@
 ## Eli Gundry
  - [https://eligundry.com](https://eligundry.com)
  - date published: 2023-12-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://elihorne.com
- - [https://elihorne.com](https://elihorne.com)
- - date published: 2017-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome - EliminateHQ
- - [https://eliminatehq.com](https://eliminatehq.com)
- - date published: 2024-02-29T22:04:20+00:00
- - user: rumpel
- - tags: ['music artist', 'youtuber']
-
-## Elio Struyf | GitHub Star | M365 Development, Developer Technologies MVP | Google Developer Expert
- - [https://www.eliostruyf.com](https://www.eliostruyf.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Plausible · Web analytics
- - [https://analytics.eliothertenstein.com](https://analytics.eliothertenstein.com)
- - date published: 2024-05-01T08:45:51.475766+00:00
- - user: None
- - tags: []
-
-## COVID in Pixels
- - [https://covid-in-pixels.eliothertenstein.com](https://covid-in-pixels.eliothertenstein.com)
- - date published: 2023-10-25T14:05:25.704625+00:00
- - user: None
- - tags: []
-
-## Eliot Hertenstein
- - [https://eliothertenstein.com](https://eliothertenstein.com)
- - date published: 2024-05-01T08:45:50.669933+00:00
- - user: None
- - tags: []
-
-## Portfolio
- - [https://www.eliotlash.com](https://www.eliotlash.com)
- - date published: 2012-01-01T02:32:57+00:00
- - user: None
- - tags: []
-
-## elipZis | 🚢 Ahoy to Digital Solutions
- - [https://elipzis.com](https://elipzis.com)
- - date published: 2024-05-08T06:19:46.741982+00:00
- - user: None
- - tags: []
-
-## Vape Shop - Your #1 Online Vape Store - ELiquid Depot
- - [https://www.eliquid-depot.com](https://www.eliquid-depot.com)
- - date published: 2024-05-11T10:41:34.768864+00:00
- - user: None
- - tags: []
-
-## Elisabeth Irgens
- - [https://elisabethirgens.com](https://elisabethirgens.com)
- - date published: 2006-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Elisa Doucette
- - [https://www.elisadoucette.com](https://www.elisadoucette.com)
- - date published: 2023-12-20T00:58:34.049564+00:00
- - user: None
- - tags: ['personal']
-
-## Index
- - [https://eliseshaffer.com](https://eliseshaffer.com)
- - date published: 2023-12-18T22:13:17.426346+00:00
- - user: None
- - tags: []
-
-## Elite Daily
- - [http://elitedaily.com](http://elitedaily.com)
- - date published: 2023-12-22T12:04:54.304000+00:00
- - user: None
- - tags: []
-
-## Elite Dangerous: Odyssey - Disembark, Commander. Leave your mark on the galaxy.
- - [https://www.elitedangerous.com](https://www.elitedangerous.com)
- - date published: 2024-04-24T00:00:00+00:00
- - user: rumpel
- - tags: ['elite dangerous', 'video game']
-
-## EGC - Elite Gaming Channel - Elite Level Professional RTS Esports
- - [https://elitegamingchannel.com](https://elitegamingchannel.com)
- - date published: 2024-03-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Loading...
- - [https://www.elitenicheresearch.com](https://www.elitenicheresearch.com)
- - date published: 2024-05-07T13:41:56.009122+00:00
- - user: None
- - tags: []
-
-## Elite Traveler: Private Jet Magazine - Responsible Luxury Lifestyle
- - [https://elitetraveler.com](https://elitetraveler.com)
- - date published: 2024-04-29T00:00:00+00:00
  - user: None
  - tags: []
 

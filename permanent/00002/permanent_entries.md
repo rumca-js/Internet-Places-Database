@@ -1,3 +1,27 @@
+## School of Mathematics and Physics - University of Queensland
+ - [https://smp.uq.edu.au](https://smp.uq.edu.au)
+ - date published: 2023-10-25T11:21:34.636053+00:00
+ - user: None
+ - tags: []
+
+## Current staff
+ - [https://staff.uq.edu.au](https://staff.uq.edu.au)
+ - date published: 2024-05-11T08:10:02.867042+00:00
+ - user: None
+ - tags: []
+
+## https://stories.uq.edu.au
+ - [https://stories.uq.edu.au](https://stories.uq.edu.au)
+ - date published: 2023-11-17T13:27:47.905862+00:00
+ - user: None
+ - tags: []
+
+## Study at UQ - The University of Queensland - Create change
+ - [https://study.uq.edu.au](https://study.uq.edu.au)
+ - date published: 2024-05-11T08:09:47.346254+00:00
+ - user: None
+ - tags: []
+
 ## The University of Queensland
  - [https://uq.edu.au](https://uq.edu.au)
  - date published: 2024-05-11T08:09:59.002609+00:00
@@ -3928,7 +3952,7 @@
  - [https://yetanother.blog](https://yetanother.blog)
  - date published: 2024-05-09T08:17:45.751129+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## yield code(); - Dmitry Kudryavtsev
  - [https://www.yieldcode.blog](https://www.yieldcode.blog)
@@ -5974,30 +5998,6 @@ Educação
 ## Home - University of Calgary Bookstore
  - [https://www.calgarybookstore.ca](https://www.calgarybookstore.ca)
  - date published: 2024-04-30T05:19:03.329840+00:00
- - user: None
- - tags: []
-
-## Support CAMH
- - [https://give.camh.ca](https://give.camh.ca)
- - date published: 2024-05-10T04:57:08.647789+00:00
- - user: None
- - tags: []
-
-## The Centre for Addiction and Mental Health
- - [https://www.camh.ca](https://www.camh.ca)
- - date published: 2023-12-11T10:52:06.321718+00:00
- - user: None
- - tags: []
-
-## CAMH: Centre for Addiction & Mental Health--
- - [http://www.camhx.ca](http://www.camhx.ca)
- - date published: 2012-05-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## York University - Shibboleth - Loading Session Information
- - [https://yorku.campuslabs.ca](https://yorku.campuslabs.ca)
- - date published: 2024-05-09T06:47:33.598625+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,81 @@
+## Books & Books | Locally-owned, independent neighborhood bookstore
+ - [https://www.booksandbooks.com](https://www.booksandbooks.com)
+ - date published: 2024-01-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Books, Bones & Buffy
+ - [http://booksbonesbuffy.com](http://booksbonesbuffy.com)
+ - date published: 2024-05-02T10:21:54.291170+00:00
+ - user: None
+ - tags: []
+
+## Show HN: I Made a Books Recommendation App Based on Your Mood
+ - [https://booksbymood.com](https://booksbymood.com)
+ - date published: 2024-03-26T13:13:04+00:00
+ - user: None
+ - tags: []
+
+## Book Slut
+ - [http://www.bookslut.com](http://www.bookslut.com)
+ - date published: 2024-05-07T15:27:26.286971+00:00
+ - user: None
+ - tags: ['books']
+
+## Buy Australian War Books & Military Books & DVDs for Sale Online
+ - [https://booksonwaraustralia.com](https://booksonwaraustralia.com)
+ - date published: 2024-02-08T22:10:04.124211+00:00
+ - user: None
+ - tags: []
+
+## Plausible · Web analytics
+ - [https://analytics.bookstackapp.com](https://analytics.bookstackapp.com)
+ - date published: 2024-05-08T03:14:26.605521+00:00
+ - user: None
+ - tags: []
+
+## BookStack Demo
+ - [https://demo.bookstackapp.com](https://demo.bookstackapp.com)
+ - date published: 2024-05-08T03:14:27.544989+00:00
+ - user: None
+ - tags: []
+
+## BookStack
+ - [https://www.bookstackapp.com](https://www.bookstackapp.com)
+ - date published: 2023-10-25T13:08:17.169116+00:00
+ - user: None
+ - tags: []
+
+## Books Tell You Why. All About Collecting Rare Books
+ - [http://blog.bookstellyouwhy.com](http://blog.bookstellyouwhy.com)
+ - date published: 2024-05-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Rare Books, First Editions, and Signed Books
+ - [https://www.bookstellyouwhy.com](https://www.bookstellyouwhy.com)
+ - date published: 2023-12-30T22:20:59.634067+00:00
+ - user: None
+ - tags: []
+
+## Bookstodon
+ - [https://bookstodon.com](https://bookstodon.com)
+ - date published: 2024-04-29T03:30:06.995652+00:00
+ - user: None
+ - tags: []
+
+## Bookswagon | Online Bookstore | Buy Books Online | Read Books Online
+ - [https://blog.bookswagon.com](https://blog.bookswagon.com)
+ - date published: 2024-05-09T04:56:49.983160+00:00
+ - user: None
+ - tags: []
+
+## Online Bookstore | Buy Books Online | Read Books Online
+ - [https://www.bookswagon.com](https://www.bookswagon.com)
+ - date published: 2024-03-04T11:51:14.757407+00:00
+ - user: None
+ - tags: []
+
 ## Online Booking System & Reservation Software | Bookwhen
  - [https://bookwhen.com](https://bookwhen.com)
  - date published: 2024-05-12T07:16:41.483722+00:00
@@ -5927,82 +6005,4 @@
  - date published: 2024-05-12T05:00:48.086322+00:00
  - user: None
  - tags: []
-
-## CY CIRCLE
- - [https://cycircle.camelliayang.com](https://cycircle.camelliayang.com)
- - date published: 2024-05-08T04:18:46.861427+00:00
- - user: None
- - tags: []
-
-## Bilingual Creator
- - [https://www.camelliayang.com](https://www.camelliayang.com)
- - date published: 2024-02-03T18:45:06.643266+00:00
- - user: None
- - tags: []
-
-## Y Media
- - [https://ymedia.camelliayang.com](https://ymedia.camelliayang.com)
- - date published: 2024-05-08T04:19:07.595581+00:00
- - user: None
- - tags: []
-
-## camelQA
- - [https://camelqa.com](https://camelqa.com)
- - date published: 2024-03-20T18:08:13.144781+00:00
- - user: None
- - tags: []
-
-## Log in | camelQA
- - [https://dash.camelqa.com](https://dash.camelqa.com)
- - date published: 2024-03-20T18:08:16.229793+00:00
- - user: None
- - tags: []
-
-## camelQA demo
- - [https://demo.camelqa.com](https://demo.camelqa.com)
- - date published: 2024-03-20T18:08:13.864131+00:00
- - user: None
- - tags: []
-
-## Introduction - Starter Kit
- - [https://docs.camelqa.com](https://docs.camelqa.com)
- - date published: 2024-03-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Cameron Conaway: Professor and Feedback Fanatic
- - [https://cameronconaway.com](https://cameronconaway.com)
- - date published: 2024-02-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Cameron Conaway: Professor and Feedback Fanatic
- - [https://www.cameronconaway.com](https://www.cameronconaway.com)
- - date published: 2023-12-03T01:44:15.857851+00:00
- - user: None
- - tags: ['personal']
-
-## Cameron MacLeod
- - [https://www.cameronmacleod.com](https://www.cameronmacleod.com)
- - date published: 2023-12-05T21:27:15.502362+00:00
- - user: None
- - tags: []
-
-## Sobre Camile Carvalho
- - [https://camilecarvalho.com](https://camilecarvalho.com)
- - date published: 2023-12-27T23:54:20.024200+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://camillamia.com](https://camillamia.com)
- - date published: 2024-01-05T10:37:52.955092+00:00
- - user: None
- - tags: []
-
-## Inicio
- - [https://www.camiloluna.com](https://www.camiloluna.com)
- - date published: 2023-12-19T10:00:30.216832+00:00
- - user: None
- - tags: ['personal']
 

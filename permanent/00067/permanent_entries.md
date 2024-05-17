@@ -1,3 +1,513 @@
+## Le blog de Genma - Le blog de Genma
+ - [https://blog.genma.fr](https://blog.genma.fr)
+ - date published: 2024-05-09T08:03:24.384866+00:00
+ - user: None
+ - tags: []
+
+## Gitnet
+ - [https://gitnet.fr](https://gitnet.fr)
+ - date published: 2024-05-14T03:34:50.550624+00:00
+ - user: None
+ - tags: []
+
+## 𝙶𝚕𝚕𝚖𝚁
+ - [https://gllmr.fr](https://gllmr.fr)
+ - date published: 2024-05-09T08:22:23.646415+00:00
+ - user: None
+ - tags: []
+
+## Zanim przejdziesz do Map Google
+ - [http://maps.google.fr](http://maps.google.fr)
+ - date published: 2024-05-08T03:46:56.180986+00:00
+ - user: None
+ - tags: []
+
+## Google Scholar
+ - [https://scholar.google.fr](https://scholar.google.fr)
+ - date published: 2024-03-15T16:04:35.393637+00:00
+ - user: None
+ - tags: []
+
+## Avant de continuer
+ - [https://translate.google.fr](https://translate.google.fr)
+ - date published: 2023-12-11T19:00:32.746424+00:00
+ - user: None
+ - tags: []
+
+## Google
+ - [https://www.google.fr](https://www.google.fr)
+ - date published: 2024-01-09T03:29:35.619916+00:00
+ - user: None
+ - tags: []
+
+## Mode, Culture, Beauté, Lifestyle, Magazine homme
+ - [https://www.gqmagazine.fr](https://www.gqmagazine.fr)
+ - date published: 2024-05-02T11:53:07.417456+00:00
+ - user: None
+ - tags: []
+
+## Faust Programming Language
+ - [http://faust.grame.fr](http://faust.grame.fr)
+ - date published: 2024-04-28T03:25:45.068802+00:00
+ - user: None
+ - tags: []
+
+## Green IT - GreenIT.fr est le collectif des experts de la sobriété numérique et du numérique responsable (Green IT, low-tech numérique, écoconception web et de service numérique, etc.)
+ - [https://www.greenit.fr](https://www.greenit.fr)
+ - date published: 2024-05-09T07:45:23.220205+00:00
+ - user: None
+ - tags: []
+
+## Greenowl CBD Shop : Achat CBD | Magasin CBD En Ligne - CBD France
+ - [https://greenowl.fr](https://greenowl.fr)
+ - date published: 2024-05-08T09:02:39.335857+00:00
+ - user: None
+ - tags: []
+
+## Grenoble INP - Ensimag, UGA
+ - [https://ensimag.grenoble-inp.fr](https://ensimag.grenoble-inp.fr)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Agence de communication à Bergerac - Création site Internet - Dordogne
+ - [https://www.grizzlydigital.fr](https://www.grizzlydigital.fr)
+ - date published: 2023-04-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Guillaume Baret
+ - [https://guillaumebaret.fr](https://guillaumebaret.fr)
+ - date published: 2024-05-09T08:25:31.660828+00:00
+ - user: None
+ - tags: []
+
+## Guillaume Briday
+ - [https://guillaumebriday.fr](https://guillaumebriday.fr)
+ - date published: 2024-05-11T10:20:05.743163+00:00
+ - user: None
+ - tags: []
+
+## Mohamed HAIMOURA
+ - [https://haimoura.fr](https://haimoura.fr)
+ - date published: 2024-01-04T22:21:33.901320+00:00
+ - user: None
+ - tags: []
+
+## WikiHalo
+ - [https://wiki.halo.fr](https://wiki.halo.fr)
+ - date published: 2024-05-14T03:23:02.663746+00:00
+ - user: None
+ - tags: []
+
+## HandBrake - Index page
+ - [https://forum.handbrake.fr](https://forum.handbrake.fr)
+ - date published: 2023-11-19T07:59:22.879848+00:00
+ - user: None
+ - tags: []
+
+## HandBrake: Open Source Video Transcoder
+ - [https://handbrake.fr](https://handbrake.fr)
+ - date published: 2023-11-19T12:04:56+00:00
+ - user: None
+ - tags: ['program', 'open source']
+
+## Page d'accueil | Health Data Hub
+ - [https://www.health-data-hub.fr](https://www.health-data-hub.fr)
+ - date published: 2024-05-10T05:10:44.203068+00:00
+ - user: None
+ - tags: []
+
+## Accueil - Haute école des arts du Rhin
+ - [https://www.hear.fr](https://www.hear.fr)
+ - date published: 2024-01-09T03:29:37.108977+00:00
+ - user: None
+ - tags: []
+
+## HEM Santé - Haute Ecole de Management - Bachelor et BTS
+ - [https://hem-sante.fr](https://hem-sante.fr)
+ - date published: 2024-05-08T00:26:36.587623+00:00
+ - user: None
+ - tags: []
+
+## minestrix
+ - [https://app.minestrix.henri2h.fr](https://app.minestrix.henri2h.fr)
+ - date published: 2024-05-08T00:24:28.307616+00:00
+ - user: None
+ - tags: []
+
+## MinesTRIX
+ - [https://minestrix.henri2h.fr](https://minestrix.henri2h.fr)
+ - date published: 2024-01-09T03:29:47.662398+00:00
+ - user: None
+ - tags: []
+
+## Hexacon - Welcome
+ - [https://www.hexacon.fr](https://www.hexacon.fr)
+ - date published: 2024-05-04T15:33:10.625438+00:00
+ - user: None
+ - tags: []
+
+## La Plateforme d'Hébergement faite pour vous - Hostinger
+ - [https://www.hostinger.fr](https://www.hostinger.fr)
+ - date published: 2024-05-11T07:49:24.548311+00:00
+ - user: None
+ - tags: []
+
+## Le HuffPost : actualités et infos décalées en continu, en France et dans le monde
+ - [https://www.huffingtonpost.fr](https://www.huffingtonpost.fr)
+ - date published: 2024-05-02T11:55:13.029595+00:00
+ - user: None
+ - tags: []
+
+## L'Humanité, pour un autre regard sur l’actualité en France et dans le monde : information en continu.
+ - [https://www.humanite.fr](https://www.humanite.fr)
+ - date published: 2024-05-10T04:31:25.618449+00:00
+ - user: None
+ - tags: []
+
+## iCalendrier : calendriers, vacances et fêtes
+ - [http://icalendrier.fr](http://icalendrier.fr)
+ - date published: 2024-05-10T03:57:28.894205+00:00
+ - user: None
+ - tags: []
+
+## iCoiffeur - Le guide des coiffeurs sur internet
+ - [http://icoiffeur.fr](http://icoiffeur.fr)
+ - date published: 2024-05-10T03:57:25.480978+00:00
+ - user: None
+ - tags: []
+
+## École de commerce Montpellier | Votre avenir avec Idelca
+ - [https://idelca.fr](https://idelca.fr)
+ - date published: 2024-05-08T00:26:30.432243+00:00
+ - user: None
+ - tags: []
+
+## IDRIS - Institut du developpement et des ressources en informatique scientifique
+ - [http://www.idris.fr](http://www.idris.fr)
+ - date published: 2024-05-09T02:33:18.882670+00:00
+ - user: None
+ - tags: []
+
+## Reseau Immo-Diffusion : 1ere centrale immobiliere de professionnels independants et annonces immobilieres sur toute la France et l'Europe
+ - [https://www.immo-diffusion.fr](https://www.immo-diffusion.fr)
+ - date published: 2024-05-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Bossa
+ - [http://bossa.inria.fr](http://bossa.inria.fr)
+ - date published: 2024-05-08T00:32:02.039777+00:00
+ - user: None
+ - tags: []
+
+## The Caml language: Home
+ - [https://caml.inria.fr](https://caml.inria.fr)
+ - date published: 2024-04-28T04:01:01.532026+00:00
+ - user: None
+ - tags: []
+
+## Sign in · GitLab
+ - [https://coccinelle.gitlabpages.inria.fr](https://coccinelle.gitlabpages.inria.fr)
+ - date published: 2024-05-08T00:31:55.849785+00:00
+ - user: None
+ - tags: []
+
+## CompCert - Main page
+ - [http://compcert.inria.fr](http://compcert.inria.fr)
+ - date published: 2024-05-09T09:12:05.462180+00:00
+ - user: None
+ - tags: []
+
+## Welcome! | The Coq Proof Assistant
+ - [https://coq.inria.fr](https://coq.inria.fr)
+ - date published: 2024-04-28T04:01:07.337531+00:00
+ - user: None
+ - tags: []
+
+## diy release seven
+ - [http://diy.inria.fr](http://diy.inria.fr)
+ - date published: 2024-05-12T04:52:49.268983+00:00
+ - user: None
+ - tags: []
+
+## Sign in · GitLab
+ - [https://gitlab.inria.fr](https://gitlab.inria.fr)
+ - date published: 2024-01-31T22:10:38.061645+00:00
+ - user: None
+ - tags: []
+
+## Sign in · GitLab
+ - [https://gustedt.gitlabpages.inria.fr](https://gustedt.gitlabpages.inria.fr)
+ - date published: 2023-10-25T19:15:07.742650+00:00
+ - user: None
+ - tags: []
+
+## index - Inria - Institut national de recherche en sciences et technologies du numérique
+ - [https://hal.inria.fr](https://hal.inria.fr)
+ - date published: 2024-05-04T15:26:47.518199+00:00
+ - user: None
+ - tags: []
+
+## JFLA: Journées Francophones des Langages Applicatifs
+ - [http://jfla.inria.fr](http://jfla.inria.fr)
+ - date published: 2024-05-13T02:45:40.001913+00:00
+ - user: None
+ - tags: []
+
+## Inria Learning Lab
+ - [https://learninglab.inria.fr](https://learninglab.inria.fr)
+ - date published: 2024-05-08T00:24:49.904070+00:00
+ - user: None
+ - tags: []
+
+## Jens Gustedt / P99 - macros and functions for C99 · GitLab
+ - [http://p99.gforge.inria.fr](http://p99.gforge.inria.fr)
+ - date published: 2024-05-07T15:15:40.648754+00:00
+ - user: None
+ - tags: []
+
+## Sign in - Matomo
+ - [https://piwik.inria.fr](https://piwik.inria.fr)
+ - date published: 2024-05-08T00:24:36.246043+00:00
+ - user: None
+ - tags: []
+
+## Inria 2023 teams activities reports
+ - [https://radar.inria.fr](https://radar.inria.fr)
+ - date published: 2024-05-08T00:24:57.097893+00:00
+ - user: None
+ - tags: []
+
+## Test Page for the HTTP Server on Fedora
+ - [https://repo-sam.inria.fr](https://repo-sam.inria.fr)
+ - date published: 2024-05-10T05:44:03.917525+00:00
+ - user: None
+ - tags: []
+
+## Team.inria.fr – Service d'hébergement pour sites d'équipe, équipe projet, équipe associée
+ - [https://team.inria.fr](https://team.inria.fr)
+ - date published: 2024-04-28T03:54:29.674190+00:00
+ - user: None
+ - tags: []
+
+## Accueil | Inria
+ - [https://www.inria.fr](https://www.inria.fr)
+ - date published: 2024-05-08T00:24:32.864587+00:00
+ - user: None
+ - tags: []
+
+## Centre Inria d'Université Côte d'Azur | Inria
+ - [https://www-sop.inria.fr](https://www-sop.inria.fr)
+ - date published: 2023-10-25T19:15:12.301697+00:00
+ - user: None
+ - tags: []
+
+## Inria Alumni - Vous avez une expérience Inria ? Rejoignez-nous !
+ - [https://www.inria-alumni.fr](https://www.inria-alumni.fr)
+ - date published: 2024-05-08T00:24:52.645824+00:00
+ - user: None
+ - tags: []
+
+## Accueil − Insee − Institut national de la statistique et des études économiques | Insee
+ - [https://www.insee.fr](https://www.insee.fr)
+ - date published: 2024-05-08T09:03:42.624724+00:00
+ - user: None
+ - tags: []
+
+## Intel | Solutions pour centres de données, IoT et innovation PC
+ - [https://www.intel.fr](https://www.intel.fr)
+ - date published: 2024-04-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## iPerf - The TCP, UDP and SCTP network bandwidth measurement tool
+ - [https://iperf.fr](https://iperf.fr)
+ - date published: 2024-05-11T05:40:56.606919+00:00
+ - user: None
+ - tags: []
+
+## ipfyx blog
+ - [https://ipfyx.fr](https://ipfyx.fr)
+ - date published: 2024-01-09T03:30:03.245945+00:00
+ - user: None
+ - tags: []
+
+## Institut de Physique Théorique
+ - [https://www.ipht.fr](https://www.ipht.fr)
+ - date published: 2024-05-12T05:14:52.226272+00:00
+ - user: None
+ - tags: []
+
+## Institut Polytechnique de Paris
+ - [https://www.ip-paris.fr](https://www.ip-paris.fr)
+ - date published: 2024-05-06T23:41:21.881077+00:00
+ - user: None
+ - tags: []
+
+## Le Laboratoire des Sciences du Climat et de l'Environnement
+ - [https://www.lsce.ipsl.fr](https://www.lsce.ipsl.fr)
+ - date published: 2024-05-12T05:15:15.559613+00:00
+ - user: None
+ - tags: []
+
+## École de commerce agroalimentaire et de la Naturalité à Avignon • Isema
+ - [https://www.isema.fr](https://www.isema.fr)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Accueil - Galerie Itinerrance
+ - [http://www.itinerrance.fr](http://www.itinerrance.fr)
+ - date published: 2024-05-04T08:27:53.757497+00:00
+ - user: None
+ - tags: []
+
+## Accueil | JCDecaux
+ - [http://www.jcdecaux.fr](http://www.jcdecaux.fr)
+ - date published: 2024-05-01T01:56:33.076681+00:00
+ - user: None
+ - tags: []
+
+## Joueurs Info Service
+ - [https://joueurs-info-service.fr](https://joueurs-info-service.fr)
+ - date published: 2024-05-11T07:35:50.370540+00:00
+ - user: None
+ - tags: []
+
+## Julien Brionne | Senior Product Manager
+ - [https://julien-brionne.fr](https://julien-brionne.fr)
+ - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Julien Brionne | Senior Product Manager
+ - [https://www.julien-brionne.fr](https://www.julien-brionne.fr)
+ - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Karmine Corp
+ - [http://karminecorp.fr](http://karminecorp.fr)
+ - date published: 2024-03-10T19:37:11.370900+00:00
+ - user: None
+ - tags: []
+
+## Karmine Corp
+ - [https://www.karminecorp.fr](https://www.karminecorp.fr)
+ - date published: 2024-05-09T06:24:52.621157+00:00
+ - user: None
+ - tags: []
+
+## Solutions de cybersécurité pour particuliers et entreprises | Kaspersky
+ - [https://www.kaspersky.fr](https://www.kaspersky.fr)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Kermorgant Photographie
+ - [https://kermorgant.fr](https://kermorgant.fr)
+ - date published: 2024-05-12T06:15:52.582228+00:00
+ - user: None
+ - tags: []
+
+## Index of /cours
+ - [https://kleinbauer.fr](https://kleinbauer.fr)
+ - date published: 2024-05-09T07:48:31.491891+00:00
+ - user: None
+ - tags: []
+
+## Accueil | Knds
+ - [https://www.knds.fr](https://www.knds.fr)
+ - date published: 2024-04-29T04:46:32.785522+00:00
+ - user: None
+ - tags: []
+
+## k-sper.fr – On joue à cache-cache ?
+ - [https://www.k-sper.fr](https://www.k-sper.fr)
+ - date published: 2024-04-10T18:33:12.013047+00:00
+ - user: None
+ - tags: []
+
+## Boutique Officielle Raspberry PI- Vente cartes Arduino, gaming et robotique
+ - [https://kubii.fr](https://kubii.fr)
+ - date published: 2023-12-11T17:25:33.070964+00:00
+ - user: None
+ - tags: []
+
+## Boutique Officielle Raspberry PI- Vente cartes Arduino, gaming et robotique
+ - [https://www.kubii.fr](https://www.kubii.fr)
+ - date published: 2024-05-10T04:12:11.993822+00:00
+ - user: None
+ - tags: []
+
+## Page d'accueil
+ - [https://www.labanquepostale.fr](https://www.labanquepostale.fr)
+ - date published: 2024-05-01T06:16:27.794578+00:00
+ - user: None
+ - tags: []
+
+## La bonne anime!
+ - [http://labonneanime.fr](http://labonneanime.fr)
+ - date published: 2024-05-08T00:16:19.254939+00:00
+ - user: None
+ - tags: []
+
+## https://dept-info.labri.fr
+ - [https://dept-info.labri.fr](https://dept-info.labri.fr)
+ - date published: 2024-01-09T03:30:03.853411+00:00
+ - user: None
+ - tags: []
+
+## La Coopérative des Internets - Agence numérique responsable à Lyon
+ - [https://www.lacooperativedesinternets.fr](https://www.lacooperativedesinternets.fr)
+ - date published: 2024-05-08T09:00:15.457605+00:00
+ - user: None
+ - tags: []
+
+## Lagardère Publicité News – Lagardère Publicité News est la régie publicitaire des marques Europe 1, Paris Match, Le Journal du Dimanche, Europe 2, RFM, OÜI FM (en Île-de-France), FG Radio (en Île-de-France et à Nice), Radio Meuh, Radio Public Santé et Replay New.
+ - [https://www.lagarderepublicitenews.fr](https://www.lagarderepublicitenews.fr)
+ - date published: 2024-05-08T00:23:43.353038+00:00
+ - user: None
+ - tags: []
+
+## Jeux en Ligne Gratuits - Lagged.fr
+ - [https://lagged.fr](https://lagged.fr)
+ - date published: 2024-05-04T11:46:14.775591+00:00
+ - user: None
+ - tags: []
+
+## Lalouvesc
+ - [https://www.lalouvesc.fr](https://www.lalouvesc.fr)
+ - date published: 2024-05-10T04:32:35.210579+00:00
+ - user: None
+ - tags: []
+
+## FAQ L'Identité Numérique
+ - [https://aide.lidentitenumerique.laposte.fr](https://aide.lidentitenumerique.laposte.fr)
+ - date published: 2024-05-01T06:41:50.054972+00:00
+ - user: None
+ - tags: []
+
+## https://www.lauragais-patrimoine.fr
+ - [https://www.lauragais-patrimoine.fr](https://www.lauragais-patrimoine.fr)
+ - date published: 2024-02-08T21:46:07.549352+00:00
+ - user: None
+ - tags: []
+
+## La Vie – Actualité, Débat, Christianisme, Idées, Débats, Spiritualité
+ - [https://www.lavie.fr](https://www.lavie.fr)
+ - date published: 2024-05-08T00:30:47.073894+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Lazard Frères Gestion  - France (EN)
+ - [https://www.lazardfreresgestion.fr](https://www.lazardfreresgestion.fr)
+ - date published: 2024-05-04T12:02:44.094032+00:00
+ - user: None
+ - tags: []
+
 ## LBKE - From Data To Knowledge
  - [https://www.lbke.fr](https://www.lbke.fr)
  - date published: 2024-05-08T06:19:30.444146+00:00
@@ -828,11 +1338,29 @@
  - user: None
  - tags: []
 
+## Central Authentication Service
+ - [http://intranet.loria.fr](http://intranet.loria.fr)
+ - date published: 2024-05-16T02:46:32.995775+00:00
+ - user: None
+ - tags: []
+
+## Recherche dans l'annuaire
+ - [https://lorann.loria.fr](https://lorann.loria.fr)
+ - date published: 2024-05-16T02:46:31.930303+00:00
+ - user: None
+ - tags: []
+
 ## LORIA
  - [http://www.loria.fr](http://www.loria.fr)
  - date published: 2024-04-10T08:11:22+00:00
  - user: rumpel
  - tags: ['it laboratory']
+
+## LORIA
+ - [https://www.loria.fr](https://www.loria.fr)
+ - date published: 2024-05-16T02:46:29.578038+00:00
+ - user: None
+ - tags: []
 
 ## Loup Vaillant's Home Page
  - [https://loup-vaillant.fr](https://loup-vaillant.fr)
@@ -1638,6 +2166,12 @@
  - user: None
  - tags: []
 
+## Valorisation et innovation sur-mesure - Sayens
+ - [https://www.sayens.fr](https://www.sayens.fr)
+ - date published: 2024-05-16T02:46:31.190319+00:00
+ - user: None
+ - tags: []
+
 ## ScreenOnDemand FR - Digital Advertising on all relevant screens
  - [https://screenondemand.fr](https://screenondemand.fr)
  - date published: 2022-02-07T00:00:00+00:00
@@ -2013,6 +2547,12 @@
 ## HomePage
  - [https://www.imo.universite-paris-saclay.fr](https://www.imo.universite-paris-saclay.fr)
  - date published: 2024-05-07T15:48:16.868691+00:00
+ - user: None
+ - tags: []
+
+## Accueil - Université de Lorraine
+ - [http://www.univ-lorraine.fr](http://www.univ-lorraine.fr)
+ - date published: 2024-05-13T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4254,12 +4794,6 @@
  - user: None
  - tags: []
 
-## Google Translate
- - [https://www-prensa-com.translate.goog](https://www-prensa-com.translate.goog)
- - date published: 2024-02-24T14:39:16.426968+00:00
- - user: None
- - tags: []
-
 ## Google - Informacje
  - [https://about.google](https://about.google)
  - date published: 2023-10-25T19:17:18.468849+00:00
@@ -5463,540 +5997,6 @@
 ## We're sorry - something went wrong. 403
  - [https://search.consumerfinance.gov](https://search.consumerfinance.gov)
  - date published: 2024-05-08T02:42:30.762051+00:00
- - user: None
- - tags: []
-
-## Consumer Financial Protection Bureau
- - [https://www.consumerfinance.gov](https://www.consumerfinance.gov)
- - date published: 2023-10-25T19:19:22.686885+00:00
- - user: None
- - tags: []
-
-## Licensing Overview | U.S. Copyright Office
- - [https://licensing.copyright.gov](https://licensing.copyright.gov)
- - date published: 2024-05-08T02:42:35.727318+00:00
- - user: None
- - tags: []
-
-## U.S. Copyright Office Public Records System
- - [https://publicrecords.copyright.gov](https://publicrecords.copyright.gov)
- - date published: 2024-05-08T02:42:39.628970+00:00
- - user: None
- - tags: []
-
-## We're sorry - something went wrong. 403
- - [https://search.copyright.gov](https://search.copyright.gov)
- - date published: 2024-05-08T02:42:33.048698+00:00
- - user: None
- - tags: []
-
-## U.S. Copyright Office | U.S. Copyright Office
- - [https://www.copyright.gov](https://www.copyright.gov)
- - date published: 2023-11-01T08:43:34.224069+00:00
- - user: None
- - tags: []
-
-## CPSC.gov
- - [https://cpsc.gov](https://cpsc.gov)
- - date published: 2024-05-08T02:42:46.739376+00:00
- - user: None
- - tags: []
-
-## Homepage | Office of Inspector General
- - [https://oig.cpsc.gov](https://oig.cpsc.gov)
- - date published: 2024-05-08T02:42:45.337519+00:00
- - user: None
- - tags: []
-
-## CPSC.gov
- - [https://www.cpsc.gov](https://www.cpsc.gov)
- - date published: 2023-10-25T19:19:28.555283+00:00
- - user: None
- - tags: []
-
-## Data.gov Home - Data.gov
- - [http://data.gov](http://data.gov)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Data.gov Home - Data.gov
- - [http://www.data.gov](http://www.data.gov)
- - date published: 2024-05-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## HELC
- - [https://helc.osse.dc.gov](https://helc.osse.dc.gov)
- - date published: 2024-04-30T04:56:20.786151+00:00
- - user: None
- - tags: []
-
-## Open Data DC
- - [https://opendata.dc.gov](https://opendata.dc.gov)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://dea.gov](https://dea.gov)
- - date published: 2024-05-12T06:40:40.558591+00:00
- - user: None
- - tags: []
-
-## DEA Museum Homepage | DEA Museum
- - [https://museum.dea.gov](https://museum.dea.gov)
- - date published: 2024-05-12T06:40:34.800001+00:00
- - user: None
- - tags: []
-
-## Take Back Day
- - [https://takebackday.dea.gov](https://takebackday.dea.gov)
- - date published: 2024-05-12T06:40:38.440674+00:00
- - user: None
- - tags: []
-
-## Home | DEA.gov
- - [https://www.dea.gov](https://www.dea.gov)
- - date published: 2024-04-04T02:34:26.560996+00:00
- - user: None
- - tags: ['government', 'dea']
-
-## Home
- - [https://business.defense.gov](https://business.defense.gov)
- - date published: 2024-05-08T02:44:25.812495+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://comptroller.defense.gov](https://comptroller.defense.gov)
- - date published: 2024-05-08T02:44:28.228068+00:00
- - user: None
- - tags: []
-
-## Chief Information Officer - U.S. Department of Defense
- - [https://dodcio.defense.gov](https://dodcio.defense.gov)
- - date published: 2024-01-09T03:30:24.563437+00:00
- - user: None
- - tags: []
-
-## Legacy Homepage
- - [https://dod.defense.gov](https://dod.defense.gov)
- - date published: 2024-05-08T02:43:06.081378+00:00
- - user: None
- - tags: []
-
-## Privacy, Civil Liberties and FOIA Directorate
- - [https://dpcld.defense.gov](https://dpcld.defense.gov)
- - date published: 2024-05-08T02:43:40.510443+00:00
- - user: None
- - tags: []
-
-## U.S. Department of Defense
- - [https://media.defense.gov](https://media.defense.gov)
- - date published: 2023-10-25T19:19:33.802662+00:00
- - user: None
- - tags: []
-
-## DoD Open Government
- - [https://open.defense.gov](https://open.defense.gov)
- - date published: 2024-05-08T02:43:10.182653+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://policy.defense.gov](https://policy.defense.gov)
- - date published: 2024-05-08T02:44:29.529233+00:00
- - user: None
- - tags: []
-
-## Office Of The Under Secretary of Defense For Personnel & Readiness | Home
- - [https://prhome.defense.gov](https://prhome.defense.gov)
- - date published: 2024-05-08T02:43:00.505172+00:00
- - user: None
- - tags: []
-
-## U.S. Department of Defense
- - [https://www.defense.gov](https://www.defense.gov)
- - date published: 2023-10-25T19:19:38.874037+00:00
- - user: None
- - tags: ['military', 'security intelligence']
-
-## Home - Delaware General Assembly
- - [https://legis.delaware.gov](https://legis.delaware.gov)
- - date published: 2023-10-25T19:19:49.711045+00:00
- - user: None
- - tags: []
-
-## Delta County
- - [https://deltacountymi.gov](https://deltacountymi.gov)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Homeland Security
- - [https://dhs.gov](https://dhs.gov)
- - date published: 2024-05-08T02:47:37.258099+00:00
- - user: None
- - tags: []
-
-## CBP DTOPS
- - [https://dtops.cbp.dhs.gov](https://dtops.cbp.dhs.gov)
- - date published: 2024-05-06T22:41:14.636981+00:00
- - user: None
- - tags: []
-
-## Home | Homeland Security
- - [https://www.dhs.gov](https://www.dhs.gov)
- - date published: 2023-10-25T19:19:55.186821+00:00
- - user: None
- - tags: []
-
-## Home | Office of Inspector General
- - [https://www.oig.dhs.gov](https://www.oig.dhs.gov)
- - date published: 2024-05-08T02:37:10.705872+00:00
- - user: None
- - tags: []
-
-## USWDS: The United States Web Design System | U.S. Web Design System (USWDS)
- - [https://designsystem.digital.gov](https://designsystem.digital.gov)
- - date published: 2023-10-25T19:20:02.198655+00:00
- - user: None
- - tags: []
-
-## Digital.gov
- - [https://digital.gov](https://digital.gov)
- - date published: 2024-05-09T08:30:21.565024+00:00
- - user: None
- - tags: []
-
-## U.S. Web Design System: A design system for the federal government
- - [https://v1.designsystem.digital.gov](https://v1.designsystem.digital.gov)
- - date published: 2024-05-08T02:44:54.667139+00:00
- - user: None
- - tags: []
-
-## Home | disasterassistance.gov
- - [https://www.disasterassistance.gov](https://www.disasterassistance.gov)
- - date published: 2024-03-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.dni.gov](https://www.dni.gov)
- - date published: 2023-10-25T19:20:05.412646+00:00
- - user: None
- - tags: []
-
-## Electronic FOIA
- - [https://efoia.bis.doc.gov](https://efoia.bis.doc.gov)
- - date published: 2024-05-08T02:45:17.572655+00:00
- - user: None
- - tags: []
-
-## Commerce Research Library: Commerce Research Library - Home: Home
- - [http://library.doc.gov](http://library.doc.gov)
- - date published: 2024-05-08T02:37:20.476351+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [http://osec.doc.gov](http://osec.doc.gov)
- - date published: 2024-05-08T02:34:51.691213+00:00
- - user: None
- - tags: []
-
-## BIS SNAP-R Exporter Web Application
- - [https://snapr.bis.doc.gov](https://snapr.bis.doc.gov)
- - date published: 2024-05-08T02:45:19.861609+00:00
- - user: None
- - tags: []
-
-## BIS Website
- - [https://www.bis.doc.gov](https://www.bis.doc.gov)
- - date published: 2023-10-25T19:20:19.432638+00:00
- - user: None
- - tags: []
-
-## Office of Inspector General
- - [https://www.oig.doc.gov](https://www.oig.doc.gov)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [http://www.osec.doc.gov](http://www.osec.doc.gov)
- - date published: 2024-05-08T02:34:56.127351+00:00
- - user: None
- - tags: []
-
-## Home — DOE Directives, Guidance, and Delegations
- - [https://www.directives.doe.gov](https://www.directives.doe.gov)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://revenuedata.doi.gov](https://revenuedata.doi.gov)
- - date published: 2024-05-06T17:11:57.313027+00:00
- - user: None
- - tags: []
-
-## U.S. Department of the Interior
- - [https://www.doi.gov](https://www.doi.gov)
- - date published: 2024-05-01T08:10:33.171434+00:00
- - user: None
- - tags: []
-
-## Attention Required! | Cloudflare
- - [https://dojmt.gov](https://dojmt.gov)
- - date published: 2024-05-01T03:34:43.583096+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://blog.dol.gov](https://blog.dol.gov)
- - date published: 2024-05-08T02:45:41.015499+00:00
- - user: None
- - tags: []
-
-## Redirect
- - [https://webapps.dol.gov](https://webapps.dol.gov)
- - date published: 2024-05-08T02:45:31.998974+00:00
- - user: None
- - tags: []
-
-## Home | U.S. Department of Labor
- - [https://www.dol.gov](https://www.dol.gov)
- - date published: 2023-10-25T19:20:24.712207+00:00
- - user: None
- - tags: []
-
-## Office of Inspector General - U.S. Department of Labor
- - [https://www.oig.dol.gov](https://www.oig.dol.gov)
- - date published: 2024-05-08T02:35:04.001248+00:00
- - user: None
- - tags: []
-
-## Federal Highway Administration
- - [https://highways.dot.gov](https://highways.dot.gov)
- - date published: 2023-10-25T19:20:28.006537+00:00
- - user: None
- - tags: []
-
-## Home - LTBP InfoBridge
- - [https://infobridge.fhwa.dot.gov](https://infobridge.fhwa.dot.gov)
- - date published: 2024-05-08T02:45:55.684362+00:00
- - user: None
- - tags: []
-
-## Manual on Uniform Traffic Control Devices (MUTCD) - FHWA
- - [https://mutcd.fhwa.dot.gov](https://mutcd.fhwa.dot.gov)
- - date published: 2024-01-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## FHWA Operations
- - [https://ops.fhwa.dot.gov](https://ops.fhwa.dot.gov)
- - date published: 2024-05-08T02:45:57.636581+00:00
- - user: None
- - tags: []
-
-## Federal Railroad Administration
- - [https://railroads.dot.gov](https://railroads.dot.gov)
- - date published: 2024-05-12T07:28:45.336733+00:00
- - user: None
- - tags: []
-
-## Departmental Office of Civil Rights | US Department of Transportation
- - [https://www.civilrights.dot.gov](https://www.civilrights.dot.gov)
- - date published: 2024-05-08T02:45:53.154137+00:00
- - user: None
- - tags: []
-
-## Federal Highway Administration
- - [https://www.fhwa.dot.gov](https://www.fhwa.dot.gov)
- - date published: 2024-03-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Federal Motor Carrier Safety Administration
- - [https://www.fmcsa.dot.gov](https://www.fmcsa.dot.gov)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Maritime Administration
- - [https://www.maritime.dot.gov](https://www.maritime.dot.gov)
- - date published: 2024-05-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## National Highway Institute | Home
- - [https://www.nhi.fhwa.dot.gov](https://www.nhi.fhwa.dot.gov)
- - date published: 2024-05-08T02:45:59.170449+00:00
- - user: None
- - tags: []
-
-## Home | NHTSA
- - [http://www-odi.nhtsa.dot.gov](http://www-odi.nhtsa.dot.gov)
- - date published: 2024-05-11T08:19:23.304550+00:00
- - user: None
- - tags: []
-
-## Home | DOT OIG
- - [https://www.oig.dot.gov](https://www.oig.dot.gov)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pipeline and Hazardous Materials Safety Administration
- - [https://www.phmsa.dot.gov](https://www.phmsa.dot.gov)
- - date published: 2024-04-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Great Lakes St. Lawrence Seaway Development Corporation
- - [https://www.seaway.dot.gov](https://www.seaway.dot.gov)
- - date published: 2024-03-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Federal Transit Administration
- - [https://www.transit.dot.gov](https://www.transit.dot.gov)
- - date published: 2024-04-05T18:55:53.475581+00:00
- - user: None
- - tags: []
-
-## Volpe National Transportation Systems Center
- - [https://www.volpe.dot.gov](https://www.volpe.dot.gov)
- - date published: 2024-05-12T07:28:22.709985+00:00
- - user: None
- - tags: []
-
-## eCFR :: Home
- - [https://www.ecfr.gov](https://www.ecfr.gov)
- - date published: 2024-05-08T02:42:51.227890+00:00
- - user: None
- - tags: []
-
-## ERIC - Education Resources Information Center
- - [https://eric.ed.gov](https://eric.ed.gov)
- - date published: 2024-05-07T19:53:36.033515+00:00
- - user: None
- - tags: []
-
-## ERIC - Education Resources Information Center
- - [https://files.eric.ed.gov](https://files.eric.ed.gov)
- - date published: 2023-10-25T19:20:29.057582+00:00
- - user: None
- - tags: []
-
-## Institute of Education Sciences (IES) Home Page, a part of the U.S. Department of Education
- - [https://ies.ed.gov](https://ies.ed.gov)
- - date published: 2024-05-07T19:54:14.677362+00:00
- - user: None
- - tags: []
-
-## National Center for Education Statistics (NCES) Home Page, a part of the U.S. Department of Education
- - [http://nces.ed.gov](http://nces.ed.gov)
- - date published: 2024-05-06T22:29:55.958117+00:00
- - user: None
- - tags: []
-
-## Office of Postsecondary Education Home Page
- - [https://ope.ed.gov](https://ope.ed.gov)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | U.S. Department of Education
- - [https://www2.ed.gov](https://www2.ed.gov)
- - date published: 2024-05-01T02:34:26.077407+00:00
- - user: None
- - tags: []
-
-## Home | U.S. Department of Education
- - [https://www.ed.gov](https://www.ed.gov)
- - date published: 2024-05-01T03:34:33.489344+00:00
- - user: None
- - tags: []
-
-## Home | U.S. Equal Employment Opportunity Commission
- - [https://www.eeoc.gov](https://www.eeoc.gov)
- - date published: 2024-05-07T16:28:20.229903+00:00
- - user: None
- - tags: []
-
-## U.S. Energy Atlas
- - [https://atlas.eia.gov](https://atlas.eia.gov)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Energy Information Administration - EIA's Information Releases website.
- - [https://ir.eia.gov](https://ir.eia.gov)
- - date published: 2010-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Homepage - U.S. Energy Information Administration (EIA)
- - [https://www.eia.gov](https://www.eia.gov)
- - date published: 2023-10-25T19:20:38.108192+00:00
- - user: None
- - tags: []
-
-## Home - Employer
- - [https://www.employer.gov](https://www.employer.gov)
- - date published: 2024-03-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.ems.gov](https://www.ems.gov)
- - date published: 2024-05-11T08:19:21.530909+00:00
- - user: None
- - tags: []
-
-## EERE: Alternative Fuels Data Center Home Page
- - [https://afdc.energy.gov](https://afdc.energy.gov)
- - date published: 2024-05-04T06:43:18.836933+00:00
- - user: None
- - tags: []
-
-## Home | arpa-e.energy.gov
- - [https://arpa-e.energy.gov](https://arpa-e.energy.gov)
- - date published: 2024-04-08T02:53:34.873809+00:00
- - user: None
- - tags: []
-
-## Department of Energy
- - [http://energy.gov](http://energy.gov)
- - date published: 2024-05-08T02:34:22.427943+00:00
- - user: None
- - tags: []
-
-## Office of Science
- - [http://science.energy.gov](http://science.energy.gov)
- - date published: 2024-05-08T02:34:25.433029+00:00
- - user: None
- - tags: []
-
-## Department of Energy
- - [https://www.energy.gov](https://www.energy.gov)
- - date published: 2023-10-25T19:20:40.502538+00:00
- - user: None
- - tags: []
-
-## ENERGY STAR
- - [https://www.energystar.gov](https://www.energystar.gov)
- - date published: 2024-05-06T21:01:14.066636+00:00
- - user: None
- - tags: []
-
-## EPA en español | US EPA
- - [https://espanol.epa.gov](https://espanol.epa.gov)
- - date published: 2014-09-23T14:46:39+00:00
  - user: None
  - tags: []
 

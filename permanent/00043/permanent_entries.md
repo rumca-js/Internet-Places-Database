@@ -1,3 +1,363 @@
+## Sharif Islam
+ - [http://www.sharifislam.com](http://www.sharifislam.com)
+ - date published: 2024-04-29T03:32:19.293781+00:00
+ - user: None
+ - tags: []
+
+## Sharoma
+ - [https://www.sharoma.com](https://www.sharoma.com)
+ - date published: 2023-10-25T08:47:52.772488+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sharpened Productions - User-Focused Software and Websites
+ - [https://sharpened.com](https://sharpened.com)
+ - date published: 2024-05-12T07:08:30.474667+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.sharune.com](https://www.sharune.com)
+ - date published: 2024-03-27T20:53:00.803589+00:00
+ - user: None
+ - tags: []
+
+## Sharvesh
+ - [https://sharvenium.com](https://sharvenium.com)
+ - date published: 2024-05-10T04:48:55.171644+00:00
+ - user: None
+ - tags: []
+
+## Sharvesh | Substack
+ - [https://www.sharvesh.com](https://www.sharvesh.com)
+ - date published: 2023-12-11T11:15:14.146711+00:00
+ - user: None
+ - tags: []
+
+## ShaunOConnell.com – GP | Commissioner | Coach & Mentor | Blogger
+ - [https://shaunoconnell.com](https://shaunoconnell.com)
+ - date published: 2023-10-25T17:03:27.779859+00:00
+ - user: None
+ - tags: []
+
+## %vops, SRE, and Software Engineering Blog%%
+ - [https://shavingtheyak.com](https://shavingtheyak.com)
+ - date published: 2023-11-19T16:59:12.994606+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://shawneemissionpost.com](https://shawneemissionpost.com)
+ - date published: 2023-11-28T00:20:54.574204+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.shawnewallace.com](https://www.shawnewallace.com)
+ - date published: 2024-01-04T08:11:38.097898+00:00
+ - user: None
+ - tags: []
+
+## Shawn Farsai
+ - [https://www.shawnfarsai.com](https://www.shawnfarsai.com)
+ - date published: 2024-05-09T06:20:14.168330+00:00
+ - user: None
+ - tags: []
+
+## Shawn Humphrey – the blue collar professor
+ - [https://shawnhumphrey.com](https://shawnhumphrey.com)
+ - date published: 2024-01-05T01:03:36.238213+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hello from Shawn Tabrizi | Shawn Tabrizi
+ - [https://shawntabrizi.com](https://shawntabrizi.com)
+ - date published: 2024-04-29T03:32:40.686632+00:00
+ - user: None
+ - tags: []
+
+## Shawn Tabrizi | A site about discovery through experience
+ - [https://www.shawntabrizi.com](https://www.shawntabrizi.com)
+ - date published: 2023-10-25T17:03:28.603657+00:00
+ - user: None
+ - tags: []
+
+## Shawn Yeager
+ - [https://shawnyeager.com](https://shawnyeager.com)
+ - date published: 2024-01-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Shay Bocks · Brand Strategist and Enneagram Practitioner
+ - [http://shaybocks.com](http://shaybocks.com)
+ - date published: 2023-03-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Shayne Longpre
+ - [https://www.shaynelongpre.com](https://www.shaynelongpre.com)
+ - date published: 2022-11-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Shazam - Music Discovery, Charts & Song Lyrics
+ - [https://www.shazam.com](https://www.shazam.com)
+ - date published: 2024-05-10T05:46:11.064103+00:00
+ - user: None
+ - tags: []
+
+## Shea Meyers
+ - [https://sheameyers.com](https://sheameyers.com)
+ - date published: 2023-12-20T05:39:54.236764+00:00
+ - user: None
+ - tags: ['personal']
+
+## SHE BENDS
+ - [https://www.shebends.com](https://www.shebends.com)
+ - date published: 2024-04-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sheep Esports: Your Top Destination for League of Legends Esports News and Leaks
+ - [https://sheepesports.com](https://sheepesports.com)
+ - date published: 2024-04-29T03:32:49.296520+00:00
+ - user: None
+ - tags: []
+
+## https://www.sheepesports.com
+ - [https://www.sheepesports.com](https://www.sheepesports.com)
+ - date published: 2023-11-03T01:49:18.102291+00:00
+ - user: None
+ - tags: []
+
+## Watch Infinite Free Videos From the Multiverse
+ - [https://sheephop.com](https://sheephop.com)
+ - date published: 2024-05-07T10:43:30.316504+00:00
+ - user: None
+ - tags: []
+
+## SheerID
+ - [https://services.sheerid.com](https://services.sheerid.com)
+ - date published: 2024-05-12T05:11:22.130859+00:00
+ - user: None
+ - tags: []
+
+## Sheetcast - Create Web Apps in Minutes Using Excel
+ - [https://sheetcast.com](https://sheetcast.com)
+ - date published: 2024-02-23T01:22:06.771641+00:00
+ - user: None
+ - tags: []
+
+## SheetJS Live Grid Demo
+ - [https://oss.sheetjs.com](https://oss.sheetjs.com)
+ - date published: 2024-05-07T23:46:35.857740+00:00
+ - user: None
+ - tags: []
+
+## SheetJS
+ - [https://sheetjs.com](https://sheetjs.com)
+ - date published: 2024-05-09T09:13:04.212114+00:00
+ - user: None
+ - tags: []
+
+## Sheevaun Moran
+ - [https://sheevaunmoran.com](https://sheevaunmoran.com)
+ - date published: 2023-12-30T22:23:25.350039+00:00
+ - user: None
+ - tags: ['personal']
+
+## Guided Meditations, Books by Sheevaun Moran, and Energetic Solutions
+ - [http://shop.sheevaunmoran.com](http://shop.sheevaunmoran.com)
+ - date published: 2024-04-29T03:33:08.871672+00:00
+ - user: None
+ - tags: []
+
+## Shekhar Gulati
+ - [https://shekhargulati.com](https://shekhargulati.com)
+ - date published: 2024-02-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Soaps.com
+ - [https://soaps.sheknows.com](https://soaps.sheknows.com)
+ - date published: 2024-04-28T05:41:27.399290+00:00
+ - user: None
+ - tags: []
+
+## SheKnows
+ - [https://www.sheknows.com](https://www.sheknows.com)
+ - date published: 2024-04-28T05:41:11.330683+00:00
+ - user: None
+ - tags: []
+
+## Shelby County Trustee, TN - Official Website | Official Website
+ - [https://www.shelbycountytrustee.com](https://www.shelbycountytrustee.com)
+ - date published: 2024-05-01T02:15:03.858201+00:00
+ - user: None
+ - tags: []
+
+## Shelby Huff
+ - [https://shelbyhuff.com](https://shelbyhuff.com)
+ - date published: 2024-01-04T08:12:38.404938+00:00
+ - user: None
+ - tags: []
+
+## Sheldon® Comic Strip
+ - [https://sheldoncomics.com](https://sheldoncomics.com)
+ - date published: 2024-05-13T03:15:36.192719+00:00
+ - user: None
+ - tags: []
+
+## Sheldon Hull // Developer
+ - [https://www.sheldonhull.com](https://www.sheldonhull.com)
+ - date published: 2024-05-06T13:03:46.461098+00:00
+ - user: None
+ - tags: ['personal']
+
+## Heiner's SHELLdorado
+ - [http://www.shelldorado.com](http://www.shelldorado.com)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Shell In The City - Infosec articles & CTF Writeups
+ - [https://www.shellinthecity.com](https://www.shellinthecity.com)
+ - date published: 2024-05-11T08:26:39.085139+00:00
+ - user: None
+ - tags: []
+
+## Shells
+ - [https://www.shells.com](https://www.shells.com)
+ - date published: 2020-03-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Shellsharks
+ - [https://shellsharks.com](https://shellsharks.com)
+ - date published: 2024-01-21T20:47:50.232449+00:00
+ - user: None
+ - tags: []
+
+## SHE Media
+ - [https://www.shemedia.com](https://www.shemedia.com)
+ - date published: 2024-04-28T05:41:34.386800+00:00
+ - user: None
+ - tags: []
+
+## 深蓝学院 - 专注人工智能与自动驾驶的学习平台
+ - [https://www.shenlanxueyuan.com](https://www.shenlanxueyuan.com)
+ - date published: 2024-05-04T15:42:19.716657+00:00
+ - user: None
+ - tags: []
+
+## :: Dan Shepelavy  :: | this, that, and also, etc ::
+ - [https://shepelavy.com](https://shepelavy.com)
+ - date published: 2024-01-30T18:41:12.942576+00:00
+ - user: None
+ - tags: []
+
+## Shepherd For Authors
+ - [https://forauthors.shepherd.com](https://forauthors.shepherd.com)
+ - date published: 2024-04-19T17:39:11.424326+00:00
+ - user: None
+ - tags: ['books', 'writing']
+
+## Shepherd - Browse the best books to read.
+ - [https://shepherd.com](https://shepherd.com)
+ - date published: 2023-11-01T13:03:34.046684+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [https://support.shepherd.com](https://support.shepherd.com)
+ - date published: 2024-04-29T03:34:44.320298+00:00
+ - user: None
+ - tags: []
+
+## Levon Allen 4 SHERIFF
+ - [https://sherifflevonallen.com](https://sherifflevonallen.com)
+ - date published: 2024-05-12T04:39:41.636311+00:00
+ - user: None
+ - tags: []
+
+## Sherman On Software
+ - [https://shermanonsoftware.com](https://shermanonsoftware.com)
+ - date published: 2023-10-29T04:21:17.368512+00:00
+ - user: None
+ - tags: []
+
+## mike.sherov.com
+ - [https://mike.sherov.com](https://mike.sherov.com)
+ - date published: 2024-05-06T13:15:42.513846+00:00
+ - user: None
+ - tags: ['personal']
+
+## Shesh's blog
+ - [https://www.sheshbabu.com](https://www.sheshbabu.com)
+ - date published: 2024-03-18T12:33:56.042540+00:00
+ - user: None
+ - tags: []
+
+## shestherun
+ - [https://shestherun.com](https://shestherun.com)
+ - date published: 2023-12-02T13:41:38.958290+00:00
+ - user: None
+ - tags: ['personal']
+
+## Uploadcare CDN
+ - [https://i.shgcdn.com](https://i.shgcdn.com)
+ - date published: 2024-04-28T04:57:31.646138+00:00
+ - user: None
+ - tags: []
+
+## Shielder - Home
+ - [https://www.shielder.com](https://www.shielder.com)
+ - date published: 2024-04-30T07:19:45.372591+00:00
+ - user: None
+ - tags: []
+
+## Shift Nudge
+ - [https://shiftnudge.com](https://shiftnudge.com)
+ - date published: 2024-04-29T07:18:11.949326+00:00
+ - user: None
+ - tags: []
+
+## About | shimonschocken
+ - [http://www.shimonschocken.com](http://www.shimonschocken.com)
+ - date published: 2024-05-09T09:12:58.044444+00:00
+ - user: None
+ - tags: []
+
+## Shining Science
+ - [https://www.shiningscience.com](https://www.shiningscience.com)
+ - date published: 2023-10-25T17:03:30.804921+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://shipbob.com](https://shipbob.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Warehouse Management System | ShipHero
+ - [https://shiphero.com](https://shiphero.com)
+ - date published: 2024-03-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ship of Harkinian
+ - [https://www.shipofharkinian.com](https://www.shipofharkinian.com)
+ - date published: 2024-05-09T09:08:56.302793+00:00
+ - user: None
+ - tags: []
+
+## Best Multi-Carrier Shipping Software for Businesses | Shippo
+ - [https://shippo.com](https://shippo.com)
+ - date published: 2024-05-08T11:17:39.229451+00:00
+ - user: None
+ - tags: []
+
 ## Next.js SaaS boilerplate | Ship SaaS
  - [https://shipsaas.com](https://shipsaas.com)
  - date published: 2024-05-09T08:38:52.264076+00:00
@@ -1297,6 +1657,12 @@
 ## Silicon Valley Watcher
  - [https://www.siliconvalleywatcher.com](https://www.siliconvalleywatcher.com)
  - date published: 2024-03-14T16:22:14.365836+00:00
+ - user: None
+ - tags: []
+
+## SiliSoftware - free PHP scripts & Delphi applets
+ - [https://www.silisoftware.com](https://www.silisoftware.com)
+ - date published: 2024-05-16T02:46:19.077948+00:00
  - user: None
  - tags: []
 
@@ -5074,7 +5440,7 @@
  - [https://socialblade.com](https://socialblade.com)
  - date published: 2023-11-15T09:13:25.644305+00:00
  - user: None
- - tags: []
+ - tags: ['statistics', 'social media']
 
 ## Find your community | SocialChorus
  - [https://advocate.socialchorus.com](https://advocate.socialchorus.com)
@@ -5633,370 +5999,4 @@
  - date published: 2024-04-04T00:00:00+00:00
  - user: None
  - tags: []
-
-## Systweak VPN
- - [https://systweak-vpn.en.softonic.com](https://systweak-vpn.en.softonic.com)
- - date published: 2024-05-11T11:41:44.009241+00:00
- - user: None
- - tags: []
-
-## TestVCHATT TOKT
- - [https://testvchatt-tokt.en.softonic.com](https://testvchatt-tokt.en.softonic.com)
- - date published: 2024-04-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Turbo VPN
- - [https://turbo-vpn.en.softonic.com](https://turbo-vpn.en.softonic.com)
- - date published: 2024-05-11T11:47:52.006784+00:00
- - user: None
- - tags: []
-
-## uTorrent
- - [https://utorrent.en.softonic.com](https://utorrent.en.softonic.com)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Visual Code Mobile - Websites Builder
- - [https://visual-code-mobile-websites-builder.en.softonic.com](https://visual-code-mobile-websites-builder.en.softonic.com)
- - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Vuze
- - [https://vuze.de.softonic.com](https://vuze.de.softonic.com)
- - date published: 2024-05-11T11:46:49.229496+00:00
- - user: None
- - tags: []
-
-## Vuze
- - [https://vuze.en.softonic.com](https://vuze.en.softonic.com)
- - date published: 2024-03-27T19:03:55+00:00
- - user: rumpel
- - tags: ['file sharing']
-
-## Vuze
- - [https://vuze.fr.softonic.com](https://vuze.fr.softonic.com)
- - date published: 2024-05-11T11:47:18.238282+00:00
- - user: None
- - tags: []
-
-## Vuze
- - [https://vuze.it.softonic.com](https://vuze.it.softonic.com)
- - date published: 2024-05-11T11:47:35.829286+00:00
- - user: None
- - tags: []
-
-## Vuze
- - [https://vuze.softonic.com](https://vuze.softonic.com)
- - date published: 2024-05-11T11:47:30.613014+00:00
- - user: None
- - tags: []
-
-## VuzeVPN
- - [https://vuzevpn.en.softonic.com](https://vuzevpn.en.softonic.com)
- - date published: 2024-05-11T11:46:58.835073+00:00
- - user: None
- - tags: []
-
-## Windscribe
- - [https://windscribe.en.softonic.com](https://windscribe.en.softonic.com)
- - date published: 2024-05-11T11:46:53.882118+00:00
- - user: None
- - tags: []
-
-## Wiadomości, recenzje aplikacji, najlepsze programy do pobrania - Softonic
- - [https://www.softonic.com](https://www.softonic.com)
- - date published: 2024-04-29T05:12:07.730251+00:00
- - user: None
- - tags: []
-
-## Yalp Store
- - [https://yalp-store.en.softonic.com](https://yalp-store.en.softonic.com)
- - date published: 2024-04-29T05:05:45.597659+00:00
- - user: None
- - tags: []
-
-## YandexVPN
- - [https://yandexvpn.en.softonic.com](https://yandexvpn.en.softonic.com)
- - date published: 2024-05-11T11:41:41.417528+00:00
- - user: None
- - tags: []
-
-## Aurora Store
- - [https://aurora-store.softonic-ar.com](https://aurora-store.softonic-ar.com)
- - date published: 2024-04-29T05:11:40.789237+00:00
- - user: None
- - tags: []
-
-## Vuze
- - [https://vuze.softonic-ar.com](https://vuze.softonic-ar.com)
- - date published: 2024-05-11T11:47:57.237726+00:00
- - user: None
- - tags: []
-
-## أخبار التطبيقات وتقييماتها، تنزيل أفضل البرامج واكتشافها - Softonic
- - [https://www.softonic-ar.com](https://www.softonic-ar.com)
- - date published: 2024-04-29T05:12:42.234894+00:00
- - user: None
- - tags: []
-
-## Aurora Store
- - [https://aurora-store.softonic-id.com](https://aurora-store.softonic-id.com)
- - date published: 2024-04-29T05:12:26.449902+00:00
- - user: None
- - tags: []
-
-## Vuze
- - [https://vuze.softonic-id.com](https://vuze.softonic-id.com)
- - date published: 2024-05-11T11:47:01.481333+00:00
- - user: None
- - tags: []
-
-## Berita dan ulasan aplikasi, unduhan dan pencarian perangkat lunak terbaik - Softonic
- - [https://www.softonic-id.com](https://www.softonic-id.com)
- - date published: 2024-04-29T05:13:16.589465+00:00
- - user: None
- - tags: []
-
-## Aurora Store
- - [https://aurora-store.softonic-th.com](https://aurora-store.softonic-th.com)
- - date published: 2024-04-29T05:13:08.496337+00:00
- - user: None
- - tags: []
-
-## Vuze
- - [https://vuze.softonic-th.com](https://vuze.softonic-th.com)
- - date published: 2024-05-11T11:48:04.754733+00:00
- - user: None
- - tags: []
-
-## ข่าวและรีวิวเกี่ยวกับแอพ ตลอดจนการดาวน์โหลดและค้นหาซอฟต์แวร์ที่ดีที่สุด - Softonic
- - [https://www.softonic-th.com](https://www.softonic-th.com)
- - date published: 2024-04-29T05:05:22.848850+00:00
- - user: None
- - tags: []
-
-## Softpaz: Windows Software | Themes | Games | Wallpapers
- - [https://www.softpaz.com](https://www.softpaz.com)
- - date published: 2024-05-11T08:36:04.137650+00:00
- - user: None
- - tags: []
-
-## Free Windows Device Driver Downloads
- - [https://drivers.softpedia.com](https://drivers.softpedia.com)
- - date published: 2024-04-29T05:13:39.545325+00:00
- - user: None
- - tags: []
-
-## Free Linux Downloads
- - [https://linux.softpedia.com](https://linux.softpedia.com)
- - date published: 2024-04-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Free Mac Downloads
- - [https://mac.softpedia.com](https://mac.softpedia.com)
- - date published: 2024-04-29T05:13:48.247630+00:00
- - user: None
- - tags: []
-
-## GSM/Communication News - Phone Reviews - Find Your Phone
- - [https://mobile.softpedia.com](https://mobile.softpedia.com)
- - date published: 2024-04-29T05:13:41.360329+00:00
- - user: None
- - tags: []
-
-## Latest News & Reviews by Softpedia
- - [https://news.softpedia.com](https://news.softpedia.com)
- - date published: 2024-02-16T16:03:05.521355+00:00
- - user: None
- - tags: []
-
-## Free Windows Downloads
- - [https://win.softpedia.com](https://win.softpedia.com)
- - date published: 2024-04-29T05:13:45.714580+00:00
- - user: None
- - tags: []
-
-## Softpedia - Free Downloads Encyclopedia
- - [https://www.softpedia.com](https://www.softpedia.com)
- - date published: 2024-04-29T05:13:34.673548+00:00
- - user: None
- - tags: []
-
-## Softrams - Delivering Human-Centered Digital Services
- - [https://www.softrams.com](https://www.softrams.com)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome to OpenResty!
- - [https://fonts.softr-files.com](https://fonts.softr-files.com)
- - date published: 2024-04-29T03:16:43.831882+00:00
- - user: None
- - tags: []
-
-## Software Downloads - SoftSea.com
- - [http://www.softsea.com](http://www.softsea.com)
- - date published: 2024-05-11T10:40:46.637586+00:00
- - user: None
- - tags: []
-
-## Soft Skull Press
- - [https://softskull.com](https://softskull.com)
- - date published: 2024-05-09T05:35:59.394289+00:00
- - user: None
- - tags: []
-
-## Software.com | Automated development KPIs to improve productivity
- - [https://www.software.com](https://www.software.com)
- - date published: 2024-04-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Business Software Reviews from Software Advice®
- - [https://www.softwareadvice.com](https://www.softwareadvice.com)
- - date published: 2024-04-27T07:12:15.072704+00:00
- - user: None
- - tags: []
-
-## Digital Transformation Solutions & Services | Software AG
- - [https://www.softwareag.com](https://www.softwareag.com)
- - date published: 2024-05-01T07:42:20.466068+00:00
- - user: None
- - tags: []
-
-## Software Amusements
- - [https://softwareamusements.com](https://softwareamusements.com)
- - date published: 2023-12-11T18:40:38.037619+00:00
- - user: None
- - tags: []
-
-## Software Amusements
- - [http://www.softwareamusements.com](http://www.softwareamusements.com)
- - date published: 2024-05-10T03:57:36.811758+00:00
- - user: None
- - tags: []
-
-## Spy apps for Android
- - [http://www.softwarecocktail.com](http://www.softwarecocktail.com)
- - date published: 2024-05-11T10:41:13.769915+00:00
- - user: None
- - tags: []
-
-## Posts
- - [https://blog.softwarecurmudgeon.com](https://blog.softwarecurmudgeon.com)
- - date published: 2022-12-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Software Defined Talk
- - [https://www.softwaredefinedtalk.com](https://www.softwaredefinedtalk.com)
- - date published: 2024-05-06T13:19:27.283740+00:00
- - user: None
- - tags: ['podcast']
-
-## Doug Turnbull's Blog
- - [https://softwaredoug.com](https://softwaredoug.com)
- - date published: 2023-10-25T17:07:36.413404+00:00
- - user: None
- - tags: []
-
-## Software Engineering Daily
- - [https://softwareengineeringdaily.com](https://softwareengineeringdaily.com)
- - date published: 2024-05-01T02:58:15.975738+00:00
- - user: None
- - tags: []
-
-## Your favorite Software Engineering Podcast
- - [https://www.software-engineering-unlocked.com](https://www.software-engineering-unlocked.com)
- - date published: 2024-05-01T07:46:04.720718+00:00
- - user: None
- - tags: []
-
-## SoftwareHow: Small Software Apps That Make Big Impact
- - [https://www.softwarehow.com](https://www.softwarehow.com)
- - date published: 2023-12-19T22:40:53+00:00
- - user: None
- - tags: []
-
-## Juan Carlos Sánchez Calle
- - [http://softwarejuancarlos.com](http://softwarejuancarlos.com)
- - date published: 2024-05-01T03:56:05.925264+00:00
- - user: None
- - tags: ['personal']
-
-## Software Lead Weekly
- - [https://softwareleadweekly.com](https://softwareleadweekly.com)
- - date published: 2024-05-06T13:46:40.567798+00:00
- - user: None
- - tags: []
-
-## Musings about software
- - [https://softwaremaxims.com](https://softwaremaxims.com)
- - date published: 2024-04-01T00:00:00+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Musings about software | The Blog of Thomas Depierre, Elixir and DevOps consultant.
- - [https://www.softwaremaxims.com](https://www.softwaremaxims.com)
- - date published: 2023-10-25T17:07:42.671790+00:00
- - user: None
- - tags: []
-
-## SoftwareMill Tech Blog
- - [https://blog.softwaremill.com](https://blog.softwaremill.com)
- - date published: 2024-03-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## SoftwareMill - proactively transforming your business with technology
- - [https://softwaremill.com](https://softwaremill.com)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## SoftwareMill - proactively transforming your business with technology
- - [http://www.softwaremill.com](http://www.softwaremill.com)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Software Pragmatism
- - [https://softwarepragmatism.com](https://softwarepragmatism.com)
- - date published: 2024-05-11T10:05:29.589631+00:00
- - user: None
- - tags: []
-
-## SoftwareReviews | Discover The Best Business Software
- - [https://www.softwarereviews.com](https://www.softwarereviews.com)
- - date published: 2024-05-04T06:05:20.438039+00:00
- - user: None
- - tags: []
-
-## Software Sessions
- - [https://www.softwaresessions.com](https://www.softwaresessions.com)
- - date published: 2024-05-06T13:00:49.701102+00:00
- - user: None
- - tags: []
-
-## Software Stack Investing - Investing analysis of the software companies that power next generation digital businesses
- - [https://softwarestackinvesting.com](https://softwarestackinvesting.com)
- - date published: 2023-10-25T17:07:46.269464+00:00
- - user: None
- - tags: []
-
-## Discover Top Business Software & Service Partners
- - [https://www.softwaresuggest.com](https://www.softwaresuggest.com)
- - date published: 2024-05-01T08:11:31.161898+00:00
- - user: None
- - tags: []
-
-## SoFuckingAgile
- - [https://sofuckingagile.com](https://sofuckingagile.com)
- - date published: 2024-04-29T05:13:59.279278+00:00
- - user: None
- - tags: ['personal', 'great title']
 

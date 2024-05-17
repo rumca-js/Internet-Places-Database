@@ -3562,6 +3562,12 @@
  - user: None
  - tags: []
 
+## smudge.ai
+ - [https://smudge.ai](https://smudge.ai)
+ - date published: 2024-05-17T01:38:28.050648+00:00
+ - user: None
+ - tags: []
+
 ## Snorkel AI | Data-centric AI for the enterprise
  - [https://snorkel.ai](https://snorkel.ai)
  - date published: 2024-04-25T00:00:00+00:00
@@ -5990,11 +5996,5 @@
  - [https://pure-css-site.netlify.app](https://pure-css-site.netlify.app)
  - date published: 2024-03-22T18:34:56+00:00
  - user: None
- - tags: []
-
-## Queen Of...
- - [https://queenof.netlify.app](https://queenof.netlify.app)
- - date published: 2024-05-07T10:28:03.838636+00:00
- - user: None
- - tags: []
+ - tags: ['css']
 
