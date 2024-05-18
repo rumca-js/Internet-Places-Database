@@ -1,3 +1,87 @@
+## Techsauce Innovation Programs
+ - [https://challenge.techsauce.co](https://challenge.techsauce.co)
+ - date published: 2024-03-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Techsauce Job Board - หางาน สมัครงาน ด้านไอที บริษัท Tech
+ - [https://jobs.techsauce.co](https://jobs.techsauce.co)
+ - date published: 2024-04-30T07:04:32.624427+00:00
+ - user: None
+ - tags: []
+
+## Techsauce Services
+ - [https://service.techsauce.co](https://service.techsauce.co)
+ - date published: 2024-04-30T07:04:25.910933+00:00
+ - user: None
+ - tags: []
+
+## Techsauce Startup Directory
+ - [https://startupdirectory.techsauce.co](https://startupdirectory.techsauce.co)
+ - date published: 2024-04-30T07:04:45.744832+00:00
+ - user: None
+ - tags: []
+
+## Techsauce Global Summit 2024
+ - [https://summit.techsauce.co](https://summit.techsauce.co)
+ - date published: 2024-04-30T07:04:27.855842+00:00
+ - user: None
+ - tags: []
+
+## Techsauce | Tech and Biz Ecosystem Leader for Startups Technologies and Business
+ - [https://techsauce.co](https://techsauce.co)
+ - date published: 2024-01-17T02:11:26.094311+00:00
+ - user: None
+ - tags: []
+
+## Plausible · Web analytics
+ - [https://analytics.tedium.co](https://analytics.tedium.co)
+ - date published: 2024-04-30T07:05:24.460628+00:00
+ - user: None
+ - tags: []
+
+## Tedium: The Dull Side of the Internet.
+ - [https://feed.tedium.co](https://feed.tedium.co)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## imgix - Image Processing On-Demand, Served By CDN
+ - [https://images.tedium.co](https://images.tedium.co)
+ - date published: 2024-04-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MidRange Newsletter | Hot Takes In 30 Minutes or Less
+ - [https://midrange.tedium.co](https://midrange.tedium.co)
+ - date published: 2024-04-30T07:05:21.325607+00:00
+ - user: None
+ - tags: []
+
+## Tedium: The Dull Side of the Mastodon
+ - [https://social.tedium.co](https://social.tedium.co)
+ - date published: 2024-04-30T07:05:16.243814+00:00
+ - user: None
+ - tags: []
+
+## Tedium | An Offbeat Digital Newsletter
+ - [https://tedium.co](https://tedium.co)
+ - date published: 2023-10-25T12:23:19.179721+00:00
+ - user: None
+ - tags: []
+
+## Konto pacjenta
+ - [https://doz.telemedi.co](https://doz.telemedi.co)
+ - date published: 2024-05-11T10:03:42.843410+00:00
+ - user: None
+ - tags: []
+
+## Plausible · Web analytics
+ - [https://pl.tfos.co](https://pl.tfos.co)
+ - date published: 2024-04-30T07:10:31.151928+00:00
+ - user: None
+ - tags: []
+
 ## Tools for Online Speech | Jacob O'Bryant
  - [https://tfos.co](https://tfos.co)
  - date published: 2023-10-25T12:23:23.026761+00:00
@@ -25,6 +109,12 @@
 ## The Finger
  - [https://thefingerpublishing.co](https://thefingerpublishing.co)
  - date published: 2024-05-10T02:48:13.815156+00:00
+ - user: None
+ - tags: []
+
+## The Guardian | Solución de biometría
+ - [http://www.theguardian.co](http://www.theguardian.co)
+ - date published: 2024-05-17T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2145,6 +2235,12 @@
  - date published: 2024-01-22T09:28:17+00:00
  - user: None
  - tags: ['the hacker quarterly']
+
+## Live Chess Ratings - 2700chess.com
+ - [https://2700chess.com](https://2700chess.com)
+ - date published: 2024-05-17T02:45:08.061628+00:00
+ - user: None
+ - tags: []
 
 ## 270toWin - 2024 Presidential Election Interactive Map
  - [https://www.270towin.com](https://www.270towin.com)
@@ -4403,12 +4499,6 @@
  - tags: ['personal sites source']
 
 ## About JavaScript - How to enable JavaScript in your web browser
- - [http://aboutjavascript.com](http://aboutjavascript.com)
- - date published: 2024-05-16T16:25:42.380498+00:00
- - user: None
- - tags: []
-
-## About JavaScript - How to enable JavaScript in your web browser
  - [https://aboutjavascript.com](https://aboutjavascript.com)
  - date published: 2024-05-16T16:25:49.516199+00:00
  - user: None
@@ -5913,94 +6003,4 @@
  - date published: 2024-04-23T15:57:10+00:00
  - user: rumpel
  - tags: ['ada', 'programming language']
-
-## Adalo - No-Code Mobile and Web App Builder
- - [https://www.adalo.com](https://www.adalo.com)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Complete TV Advertising Platform | Adalyser
- - [https://adalyser.com](https://adalyser.com)
- - date published: 2024-05-06T17:34:27.252001+00:00
- - user: None
- - tags: []
-
-## Adam Albrecht - Full Stack Developer in Columbus, Ohio
- - [https://www.adamalbrecht.com](https://www.adamalbrecht.com)
- - date published: 2024-01-07T04:14:41.712373+00:00
- - user: None
- - tags: []
-
-## Adama Platform
- - [https://www.adama-platform.com](https://www.adama-platform.com)
- - date published: 2023-10-25T12:31:58.924577+00:00
- - user: None
- - tags: []
-
-## http://adamard.com
- - [http://adamard.com](http://adamard.com)
- - date published: 2023-10-25T12:31:59.675953+00:00
- - user: None
- - tags: []
-
-## ADAM Audio - High Precision Studio Monitors from Berlin, Germany
- - [https://www.adam-audio.com](https://www.adam-audio.com)
- - date published: 2024-03-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Adam Bader
- - [https://adambader.com](https://adambader.com)
- - date published: 2023-12-18T01:33:53.856774+00:00
- - user: None
- - tags: ['personal']
-
-## Home Page | Adam Bard, Handsome Web Developer
- - [http://adambard.com](http://adambard.com)
- - date published: 2024-05-04T12:12:50.728145+00:00
- - user: None
- - tags: []
-
-## Adam Barth
- - [https://www.adambarth.com](https://www.adambarth.com)
- - date published: 2024-05-06T16:12:42.039026+00:00
- - user: None
- - tags: ['personal']
-
-## https://www.adamblades.com
- - [https://www.adamblades.com](https://www.adamblades.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Adam Caudill
- - [https://adamcaudill.com](https://adamcaudill.com)
- - date published: 2023-10-25T12:32:03.058600+00:00
- - user: None
- - tags: []
-
-## Adam Caudill
- - [https://photo.adamcaudill.com](https://photo.adamcaudill.com)
- - date published: 2024-05-01T02:25:10.150773+00:00
- - user: None
- - tags: []
-
-## Adam Chalmers
- - [https://blog.adamchalmers.com](https://blog.adamchalmers.com)
- - date published: 2023-10-25T12:32:05.936257+00:00
- - user: None
- - tags: []
-
-## AdamDeHaven.com
- - [https://www.adamdehaven.com](https://www.adamdehaven.com)
- - date published: 2024-05-11T10:19:02.955256+00:00
- - user: None
- - tags: []
-
-## Hi, I’m Adam - Adam J. Doolittle
- - [https://www.adamdoolittle.com](https://www.adamdoolittle.com)
- - date published: 2024-01-19T13:00:38.013071+00:00
- - user: None
- - tags: ['personal']
 
