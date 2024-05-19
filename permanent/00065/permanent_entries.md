@@ -1,3 +1,303 @@
+## The University of Texas at Dallas
+ - [https://atec.utdallas.edu](https://atec.utdallas.edu)
+ - date published: 2024-05-07T22:12:19.978667+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://atlas.utdallas.edu](https://atlas.utdallas.edu)
+ - date published: 2024-05-07T22:12:07.061420+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar
+ - [https://calendar.utdallas.edu](https://calendar.utdallas.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Community Standards and Conduct - The University of Texas at Dallas
+ - [https://conduct.utdallas.edu](https://conduct.utdallas.edu)
+ - date published: 2024-05-07T22:11:40.347067+00:00
+ - user: None
+ - tags: []
+
+## Student Counseling Center | UT Dallas
+ - [https://counseling.utdallas.edu](https://counseling.utdallas.edu)
+ - date published: 2024-05-07T22:12:04.052174+00:00
+ - user: None
+ - tags: []
+
+## UT Dallas CourseBook Guided Search :: UT Dallas Class, Syllabus, Course Evaluation, and Textbook Database
+ - [https://coursebook.utdallas.edu](https://coursebook.utdallas.edu)
+ - date published: 2024-05-07T22:11:23.875221+00:00
+ - user: None
+ - tags: []
+
+## Office of Development and Alumni Relations - Office of Development and Alumni Relations | The University of Texas at Dallas
+ - [https://development.utdallas.edu](https://development.utdallas.edu)
+ - date published: 2024-05-07T22:11:49.477405+00:00
+ - user: None
+ - tags: []
+
+## Financial Aid - Office of Financial Aid | The University of Texas at Dallas
+ - [https://finaid.utdallas.edu](https://finaid.utdallas.edu)
+ - date published: 2024-05-07T22:11:44.820005+00:00
+ - user: None
+ - tags: []
+
+## Galaxy | The University of Texas at Dallas
+ - [https://galaxy.utdallas.edu](https://galaxy.utdallas.edu)
+ - date published: 2024-05-07T22:11:42.845292+00:00
+ - user: None
+ - tags: []
+
+## Human Resources
+ - [https://hr.utdallas.edu](https://hr.utdallas.edu)
+ - date published: 2024-05-07T22:11:18.935473+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://institutional-initiatives.utdallas.edu](https://institutional-initiatives.utdallas.edu)
+ - date published: 2024-05-07T22:12:00.204536+00:00
+ - user: None
+ - tags: []
+
+## Campus Map - The University of Texas at Dallas
+ - [https://map.utdallas.edu](https://map.utdallas.edu)
+ - date published: 2024-05-07T22:11:30.760380+00:00
+ - user: None
+ - tags: []
+
+## News Homepage
+ - [https://news.utdallas.edu](https://news.utdallas.edu)
+ - date published: 2023-12-10T12:18:35.847710+00:00
+ - user: None
+ - tags: []
+
+## Office of Information Technology | UT Dallas
+ - [https://oit.utdallas.edu](https://oit.utdallas.edu)
+ - date published: 2024-05-07T22:11:15.935328+00:00
+ - user: None
+ - tags: []
+
+## Service - UTD Hosted Personal Webpages
+ - [https://personal.utdallas.edu](https://personal.utdallas.edu)
+ - date published: 2023-10-25T19:05:03.834184+00:00
+ - user: None
+ - tags: []
+
+## UT Dallas Police Department
+ - [https://police.utdallas.edu](https://police.utdallas.edu)
+ - date published: 2024-05-07T22:12:02.241073+00:00
+ - user: None
+ - tags: []
+
+## UT Dallas Policy Navigator
+ - [https://policy.utdallas.edu](https://policy.utdallas.edu)
+ - date published: 2019-04-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## UTDesign Captone | The University of Texas at Dallas
+ - [https://utdesigncs.utdallas.edu](https://utdesigncs.utdallas.edu)
+ - date published: 2024-05-01T03:41:57.422941+00:00
+ - user: None
+ - tags: []
+
+## Spaces
+ - [https://ventures.utdallas.edu](https://ventures.utdallas.edu)
+ - date published: 2023-01-18T18:56:50+00:00
+ - user: None
+ - tags: []
+
+## The University of Texas at Dallas
+ - [https://www.utdallas.edu](https://www.utdallas.edu)
+ - date published: 2024-05-07T22:11:14.478152+00:00
+ - user: None
+ - tags: []
+
+## The University of Texas at El Paso - UTEP
+ - [https://adminapps.utep.edu](https://adminapps.utep.edu)
+ - date published: 2024-04-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## A Simple HTML File
+ - [http://cs.utep.edu](http://cs.utep.edu)
+ - date published: 2024-05-07T20:31:22.293805+00:00
+ - user: None
+ - tags: []
+
+## - MineTracker
+ - [https://events.utep.edu](https://events.utep.edu)
+ - date published: 2024-05-07T22:12:47.760272+00:00
+ - user: None
+ - tags: []
+
+## Raise Your Pick Giving Day 2024
+ - [https://givingday.utep.edu](https://givingday.utep.edu)
+ - date published: 2024-05-07T22:12:27.586061+00:00
+ - user: None
+ - tags: []
+
+## MY UTEP
+ - [https://my.utep.edu](https://my.utep.edu)
+ - date published: 2024-05-07T22:12:43.261435+00:00
+ - user: None
+ - tags: []
+
+## The University of Texas at El Paso - UTEP
+ - [https://www.utep.edu](https://www.utep.edu)
+ - date published: 2023-10-25T19:05:08.331077+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science
+ - [https://apps.cs.utexas.edu](https://apps.cs.utexas.edu)
+ - date published: 2024-05-07T22:13:47.645331+00:00
+ - user: None
+ - tags: []
+
+## Brand
+ - [https://brand.utexas.edu](https://brand.utexas.edu)
+ - date published: 2024-05-06T21:46:30.190021+00:00
+ - user: None
+ - tags: []
+
+## Computer & Data Science Online
+ - [https://cdso.utexas.edu](https://cdso.utexas.edu)
+ - date published: 2024-05-07T22:13:49.369793+00:00
+ - user: None
+ - tags: []
+
+## McKetta Department of Chemical Engineering - Home
+ - [https://che.utexas.edu](https://che.utexas.edu)
+ - date published: 2024-05-07T22:13:04.686240+00:00
+ - user: None
+ - tags: []
+
+## Home | Information Technology Services
+ - [https://cio.utexas.edu](https://cio.utexas.edu)
+ - date published: 2024-05-07T22:13:08.797097+00:00
+ - user: None
+ - tags: []
+
+## Discovery starts here in the College of Natural Sciences
+ - [https://cns.utexas.edu](https://cns.utexas.edu)
+ - date published: 2024-05-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## UT Cockrell School of Engineering
+ - [https://cockrell.utexas.edu](https://cockrell.utexas.edu)
+ - date published: 2023-10-25T19:05:12.024214+00:00
+ - user: None
+ - tags: []
+
+## Home | Texas CSB
+ - [https://csb.utexas.edu](https://csb.utexas.edu)
+ - date published: 2024-05-07T22:13:54.867319+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science
+ - [http://cs.utexas.edu](http://cs.utexas.edu)
+ - date published: 2024-05-07T22:14:01.714994+00:00
+ - user: None
+ - tags: []
+
+## Home | Dell Medical School
+ - [https://dellmed.utexas.edu](https://dellmed.utexas.edu)
+ - date published: 2024-05-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Division of Campus and Community Engagement
+ - [https://diversity.utexas.edu](https://diversity.utexas.edu)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## University Messages | Emergency Use Website |The University of Texas at Austin
+ - [https://emergency.utexas.edu](https://emergency.utexas.edu)
+ - date published: 2024-05-07T22:13:27.877240+00:00
+ - user: None
+ - tags: []
+
+## UT Experts : University Communications : The University of Texas at Austin
+ - [https://experts.utexas.edu](https://experts.utexas.edu)
+ - date published: 2024-05-07T22:13:31.432323+00:00
+ - user: None
+ - tags: []
+
+## What Starts Here | The University of Texas at Austin
+ - [https://give.utexas.edu](https://give.utexas.edu)
+ - date published: 2024-05-07T22:13:09.952918+00:00
+ - user: None
+ - tags: []
+
+## Giving to UT | The University of Texas at Austin
+ - [https://giving.utexas.edu](https://giving.utexas.edu)
+ - date published: 2022-08-19T19:36:30+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://golem.ph.utexas.edu](https://golem.ph.utexas.edu)
+ - date published: 2023-10-25T19:05:13.177282+00:00
+ - user: None
+ - tags: []
+
+## UT Graduate ECE (GREECE)
+ - [https://greece.ece.utexas.edu](https://greece.ece.utexas.edu)
+ - date published: 2024-05-04T15:41:18.716822+00:00
+ - user: None
+ - tags: []
+
+## Home - The IC² Institute - Innovating Well-Being
+ - [https://ic2.utexas.edu](https://ic2.utexas.edu)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## LBJ School | The University of Texas at Austin | LBJ School of Public Affairs
+ - [https://lbj.utexas.edu](https://lbj.utexas.edu)
+ - date published: 2023-11-19T15:39:17.659158+00:00
+ - user: None
+ - tags: []
+
+## LBJ Women's Campaign School | LBJ Women's Campaign School
+ - [https://lbjwcs.lbj.utexas.edu](https://lbjwcs.lbj.utexas.edu)
+ - date published: 2024-05-07T22:13:24.990562+00:00
+ - user: None
+ - tags: []
+
+## College of Liberal Arts | The University of Texas at Austin
+ - [https://liberalarts.utexas.edu](https://liberalarts.utexas.edu)
+ - date published: 2024-05-06T14:49:07.264286+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science
+ - [https://login.cs.utexas.edu](https://login.cs.utexas.edu)
+ - date published: 2024-04-29T02:33:59.825964+00:00
+ - user: None
+ - tags: []
+
+## The Linguistics Research Center
+ - [https://lrc.la.utexas.edu](https://lrc.la.utexas.edu)
+ - date published: 2024-05-02T09:39:40.418961+00:00
+ - user: None
+ - tags: []
+
+## Texas Engineer Magazine - Texas Engineer
+ - [https://magazine.engr.utexas.edu](https://magazine.engr.utexas.edu)
+ - date published: 2024-01-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Home | Machine Learning Laboratory
  - [https://ml.utexas.edu](https://ml.utexas.edu)
  - date published: 2024-05-07T22:13:51.354136+00:00
@@ -5714,306 +6014,6 @@
 ## 404 - Document Not Found
  - [https://amzn.eu](https://amzn.eu)
  - date published: 2024-04-29T05:35:13.429413+00:00
- - user: None
- - tags: []
-
-## Andrea Verlicchi
- - [http://www.andreaverlicchi.eu](http://www.andreaverlicchi.eu)
- - date published: 2024-05-06T22:26:58.579244+00:00
- - user: None
- - tags: []
-
-## Your expert for WP agency consulting & accessibility mentor
- - [https://annebovelett.eu](https://annebovelett.eu)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## multidimensional code
- - [https://antoniocaggiano.eu](https://antoniocaggiano.eu)
- - date published: 2021-11-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Buy, Sell and Trade Cryptocurrency
- - [https://anycoindirect.eu](https://anycoindirect.eu)
- - date published: 2024-04-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome on AQQ Instant Messenger site!
- - [https://www.aqq.eu](https://www.aqq.eu)
- - date published: 2024-04-30T15:36:33+00:00
- - user: rumpel
- - tags: ['jabber', 'gadu gadu', 'instant messaging']
-
-## Artemis EMC²
- - [http://www.artemis-emc2.eu](http://www.artemis-emc2.eu)
- - date published: 2024-05-08T11:02:25.500508+00:00
- - user: None
- - tags: []
-
-## Invidious - search
- - [https://yt.artemislena.eu](https://yt.artemislena.eu)
- - date published: 2024-04-29T05:57:28.276638+00:00
- - user: None
- - tags: []
-
-## The Artificial Intelligence Act |
- - [https://artificialintelligenceact.eu](https://artificialintelligenceact.eu)
- - date published: 2023-10-25T19:08:37.980787+00:00
- - user: None
- - tags: []
-
-## Artmotion - Secure Hosting : swiss encrypted cloud storage
- - [http://www.artmotion.eu](http://www.artmotion.eu)
- - date published: 2024-05-17T02:56:07.861951+00:00
- - user: None
- - tags: []
-
-## ASCII Art Archive
- - [https://www.asciiart.eu](https://www.asciiart.eu)
- - date published: 2023-10-30T13:46:18.944535+00:00
- - user: None
- - tags: ['ascii art']
-
-## Comparateur Assurance Vie en ligne : Trouvez la meilleure offre
- - [https://assurance-vie.eu](https://assurance-vie.eu)
- - date published: 2024-05-01T01:57:13.433996+00:00
- - user: None
- - tags: []
-
-## ATAmusic online hudební dílna
- - [https://www.atamusic.eu](https://www.atamusic.eu)
- - date published: 2014-02-10T09:19:44+00:00
- - user: None
- - tags: []
-
-## Back-on-Track
- - [https://back-on-track.eu](https://back-on-track.eu)
- - date published: 2023-10-25T19:08:41.990986+00:00
- - user: None
- - tags: []
-
-## Wir sind Bandai Namco Europe
- - [https://bandainamcoent.eu](https://bandainamcoent.eu)
- - date published: 2024-04-26T00:00:00+00:00
- - user: rumpel
- - tags: ['video game developer']
-
-## We are Bandai Namco Europe
- - [https://en.bandainamcoent.eu](https://en.bandainamcoent.eu)
- - date published: 2024-02-07T10:38:02+00:00
- - user: rumpel
- - tags: ['dragon ball', 'pac-man', 'video game developer', 'tekken', 'dark souls']
-
-## Hi, ich bin Mike!
- - [https://www.barkmin.eu](https://www.barkmin.eu)
- - date published: 2024-05-11T10:07:23.072544+00:00
- - user: None
- - tags: []
-
-## William Weber Arrested in Croatia Over Gaza Related ‘Terrorism’
- - [https://basehost.eu](https://basehost.eu)
- - date published: 2024-01-09T03:29:17.206977+00:00
- - user: None
- - tags: []
-
-## Batchrocket.eu - Introduction
- - [https://batchrocket.eu](https://batchrocket.eu)
- - date published: 2023-10-25T19:08:43.947295+00:00
- - user: None
- - tags: []
-
-## Battery2030+ - Battery 2030+
- - [https://battery2030.eu](https://battery2030.eu)
- - date published: 2023-10-25T19:08:59.246351+00:00
- - user: None
- - tags: []
-
-## Навіны Беларусі. Белсат онлайн - Belsat TV
- - [https://belsat.eu](https://belsat.eu)
- - date published: 2024-04-22T15:57:38+00:00
- - user: rumpel
- - tags: ['belarus news', 'eastern europe']
-
-## Monitory LCD, projektory i oświetlenie
- - [https://shop.benq.eu](https://shop.benq.eu)
- - date published: 2024-05-07T23:30:40.467649+00:00
- - user: None
- - tags: []
-
-## | BenQ Polska
- - [https://www.benq.eu](https://www.benq.eu)
- - date published: 2023-10-29T18:30:57.646486+00:00
- - user: None
- - tags: ['company']
-
-## Gaming Monitors, Mice, and Accessories | ZOWIE Europe
- - [https://zowie.benq.eu](https://zowie.benq.eu)
- - date published: 2024-05-07T23:30:43.641466+00:00
- - user: None
- - tags: []
-
-## Bert Hubert
- - [https://berthub.eu](https://berthub.eu)
- - date published: 2023-10-25T19:09:02.529024+00:00
- - user: None
- - tags: []
-
-## Betterbird. Simply better.
- - [https://www.betterbird.eu](https://www.betterbird.eu)
- - date published: 2023-10-25T19:09:05.014951+00:00
- - user: None
- - tags: []
-
-## BEUC Hub
- - [https://hub.beuc.eu](https://hub.beuc.eu)
- - date published: 2024-05-09T05:39:04.026988+00:00
- - user: None
- - tags: []
-
-## Home | BEUC
- - [https://www.beuc.eu](https://www.beuc.eu)
- - date published: 2024-03-06T18:18:49.640877+00:00
- - user: None
- - tags: []
-
-## Wiadomości – Bielsk Podlaski
- - [https://bielsk.eu](https://bielsk.eu)
- - date published: 2024-05-11T08:53:46.541014+00:00
- - user: None
- - tags: []
-
-## Bigbank Group
- - [https://bigbank.eu](https://bigbank.eu)
- - date published: 2024-05-07T22:56:08.986145+00:00
- - user: None
- - tags: []
-
-## Bitrix24 - darmowa przestrzeń robocza dla Twojego biznesu: CRM, zadania, spotkania online i nie tylko.
- - [https://www.bitrix24.eu](https://www.bitrix24.eu)
- - date published: 2024-05-12T03:57:28.133998+00:00
- - user: None
- - tags: []
-
-## MRISC32: An open 32-bit RISC/Vector ISA
- - [https://mrisc32.bitsnbites.eu](https://mrisc32.bitsnbites.eu)
- - date published: 2018-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Bits'n'Bites – Learning things, bit by bit…
- - [https://www.bitsnbites.eu](https://www.bitsnbites.eu)
- - date published: 2023-10-25T19:09:06.960784+00:00
- - user: None
- - tags: []
-
-## Blaise Pascal Magazine | Site about all aspects of the prgraming language Pascal
- - [https://www.blaisepascalmagazine.eu](https://www.blaisepascalmagazine.eu)
- - date published: 2024-05-08T09:34:07.685620+00:00
- - user: None
- - tags: []
-
-## Home - Blockchain for Europe
- - [https://www.blockchain4europe.eu](https://www.blockchain4europe.eu)
- - date published: 2023-09-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## bne IntelliNews
- - [https://www.bne.eu](https://www.bne.eu)
- - date published: 2024-01-02T11:23:21.706222+00:00
- - user: None
- - tags: []
-
-## Der südlichste Verkehrsflughafen Deutschlands › Bodensee-Airport Friedrichshafen (FDH-Airport)
- - [https://www.bodensee-airport.eu](https://www.bodensee-airport.eu)
- - date published: 2024-05-12T05:12:50.753601+00:00
- - user: None
- - tags: []
-
-## Poznaj usługi Bolt | Superaplikacja dla mobilności
- - [https://bolt.eu](https://bolt.eu)
- - date published: 2024-05-11T07:35:59.320059+00:00
- - user: None
- - tags: []
-
-## Home - Hanno Braun
- - [https://hanno.braun-odw.eu](https://hanno.braun-odw.eu)
- - date published: 2022-01-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Software development company
- - [https://britenet.eu](https://britenet.eu)
- - date published: 2024-05-12T06:27:13.131925+00:00
- - user: None
- - tags: []
-
-## Brother Sewing Machines | 100 years of innovative excellence
- - [https://sewingcraft.brother.eu](https://sewingcraft.brother.eu)
- - date published: 2024-04-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Brother Europe | Printers, Scanners & More
- - [https://www.brother.eu](https://www.brother.eu)
- - date published: 2024-05-02T11:22:59.611324+00:00
- - user: None
- - tags: []
-
-## Brussels Signal
- - [https://brusselssignal.eu](https://brusselssignal.eu)
- - date published: 2023-12-17T08:32:01.568295+00:00
- - user: None
- - tags: []
-
-## Brussels Standard - Belgian & World News
- - [https://www.brusselsstandard.eu](https://www.brusselsstandard.eu)
- - date published: 2024-04-30T06:43:20.839492+00:00
- - user: None
- - tags: []
-
-## Barcelona School of Economics
- - [https://bse.eu](https://bse.eu)
- - date published: 2024-05-07T21:59:12.959367+00:00
- - user: None
- - tags: []
-
-## Bumbal planning software | planning route | TMS
- - [http://www.bumbal.eu](http://www.bumbal.eu)
- - date published: 2024-05-04T08:43:22.105397+00:00
- - user: None
- - tags: []
-
-## https://buslive.eu
- - [https://buslive.eu](https://buslive.eu)
- - date published: 2023-12-06T13:09:59+00:00
- - user: rumpel
- - tags: ['service maps', 'public transport']
-
-## Strona główna | caltha.pl
- - [https://caltha.eu](https://caltha.eu)
- - date published: 2024-05-11T07:21:09.129942+00:00
- - user: None
- - tags: []
-
-## Carl Schwan
- - [https://carlschwan.eu](https://carlschwan.eu)
- - date published: 2024-04-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## CCC shoes and bags
- - [https://ccc.eu](https://ccc.eu)
- - date published: 2024-04-18T08:17:06+00:00
- - user: rumpel
- - tags: ['e-commerce', 'company', 'fashion']
-
-## ch2i | Building Professional Technologies
- - [https://ch2i.eu](https://ch2i.eu)
- - date published: 2024-05-09T04:06:30.470307+00:00
  - user: None
  - tags: []
 

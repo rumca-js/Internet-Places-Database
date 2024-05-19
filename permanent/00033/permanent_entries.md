@@ -1,3 +1,141 @@
+## Privacy1St – Medium
+ - [https://privacyis1st.medium.com](https://privacyis1st.medium.com)
+ - date published: 2023-10-25T10:22:26.531063+00:00
+ - user: None
+ - tags: []
+
+## Programmer Girl - 👩‍💻 Front-end developer – Medium
+ - [https://programmer-girl.medium.com](https://programmer-girl.medium.com)
+ - date published: 2024-05-04T08:03:00.489444+00:00
+ - user: None
+ - tags: []
+
+## Project Greenify – Medium
+ - [https://project-greenifyy.medium.com](https://project-greenifyy.medium.com)
+ - date published: 2024-02-08T22:17:01.927262+00:00
+ - user: None
+ - tags: []
+
+## Matt Herzog – Medium
+ - [https://protozog.medium.com](https://protozog.medium.com)
+ - date published: 2024-05-11T09:23:34.376077+00:00
+ - user: None
+ - tags: []
+
+## Ragavendra Y – Medium
+ - [https://ragavyarasi.medium.com](https://ragavyarasi.medium.com)
+ - date published: 2024-02-08T22:25:52.184746+00:00
+ - user: None
+ - tags: []
+
+## Randy Smith – Medium
+ - [https://randysmith77.medium.com](https://randysmith77.medium.com)
+ - date published: 2024-04-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SthaRashmi – Medium
+ - [https://rashminashrestha.medium.com](https://rashminashrestha.medium.com)
+ - date published: 2024-02-08T18:06:10.839727+00:00
+ - user: None
+ - tags: []
+
+## Reaching Aspiration – Medium
+ - [https://reachingaspiration.medium.com](https://reachingaspiration.medium.com)
+ - date published: 2024-03-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Renew Europe – Medium
+ - [https://reneweurope.medium.com](https://reneweurope.medium.com)
+ - date published: 2024-05-07T23:54:43.657748+00:00
+ - user: None
+ - tags: []
+
+## Reya Care – Medium
+ - [https://reya-care.medium.com](https://reya-care.medium.com)
+ - date published: 2024-02-08T17:31:54.726605+00:00
+ - user: None
+ - tags: []
+
+## Riccardo Giorato – Medium
+ - [https://riccardogiorato.medium.com](https://riccardogiorato.medium.com)
+ - date published: 2024-05-12T05:27:46.411322+00:00
+ - user: None
+ - tags: []
+
+## Richard Kenneth Eng – Medium
+ - [https://richardeng.medium.com](https://richardeng.medium.com)
+ - date published: 2023-10-25T10:22:29.415887+00:00
+ - user: None
+ - tags: []
+
+## Rosie Harman – Medium
+ - [https://rosie-harman.medium.com](https://rosie-harman.medium.com)
+ - date published: 2024-02-08T17:50:07.027749+00:00
+ - user: None
+ - tags: []
+
+## Rosie Sherry – Medium
+ - [https://rosiesherry.medium.com](https://rosiesherry.medium.com)
+ - date published: 2023-10-25T10:22:31.783188+00:00
+ - user: None
+ - tags: []
+
+## Rufat MAMMADLI – Medium
+ - [https://rufatmammadli.medium.com](https://rufatmammadli.medium.com)
+ - date published: 2024-03-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ruurtjan Pul – Medium
+ - [https://ruurtjan.medium.com](https://ruurtjan.medium.com)
+ - date published: 2023-10-25T10:22:34.320278+00:00
+ - user: None
+ - tags: []
+
+## Ryan Cornateanu – Medium
+ - [https://ryancor.medium.com](https://ryancor.medium.com)
+ - date published: 2023-10-25T10:22:41.538981+00:00
+ - user: None
+ - tags: []
+
+## Ryan Hubbard – Medium
+ - [https://ryanjhubbard.medium.com](https://ryanjhubbard.medium.com)
+ - date published: 2024-05-11T09:23:45.573864+00:00
+ - user: None
+ - tags: []
+
+## Ryonald Teofilo – Medium
+ - [https://ryonaldteofilo.medium.com](https://ryonaldteofilo.medium.com)
+ - date published: 2023-10-25T10:22:43.785424+00:00
+ - user: None
+ - tags: []
+
+## Sacha Arbonel – Medium
+ - [https://sachaarbonel.medium.com](https://sachaarbonel.medium.com)
+ - date published: 2023-10-25T10:22:46.030789+00:00
+ - user: None
+ - tags: []
+
+## Sasha Solomon – Medium
+ - [https://sachee.medium.com](https://sachee.medium.com)
+ - date published: 2024-05-09T09:26:54.497739+00:00
+ - user: None
+ - tags: []
+
+## Sai Gaddam – Medium
+ - [https://saigaddam.medium.com](https://saigaddam.medium.com)
+ - date published: 2023-10-25T10:22:48.172465+00:00
+ - user: None
+ - tags: []
+
+## Sandoche ADITTANE – Medium
+ - [https://sandoche.medium.com](https://sandoche.medium.com)
+ - date published: 2024-05-08T04:52:02.174967+00:00
+ - user: None
+ - tags: []
+
 ## Sanjay Rangavajjhala – Medium
  - [https://sanjay-r-92099.medium.com](https://sanjay-r-92099.medium.com)
  - date published: 2024-04-28T03:27:59.597652+00:00
@@ -19,6 +157,12 @@
 ## Sarah Tavel – Medium
  - [https://sarahtavel.medium.com](https://sarahtavel.medium.com)
  - date published: 2024-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sean Dearnaley – Medium
+ - [https://seandearnaley.medium.com](https://seandearnaley.medium.com)
+ - date published: 2024-05-18T05:10:47.895180+00:00
  - user: None
  - tags: []
 
@@ -5853,150 +5997,6 @@ Customer Insights
 ## Mom This is How Twitter Works
  - [http://www.momthisishowtwitterworks.com](http://www.momthisishowtwitterworks.com)
  - date published: 2024-05-06T22:44:24.341819+00:00
- - user: None
- - tags: []
-
-## HedgeDoc - Ideas grow better together
- - [https://docs.monadical.com](https://docs.monadical.com)
- - date published: 2024-05-13T13:48:31.212383+00:00
- - user: None
- - tags: []
-
-## Home | Monadical Consulting
- - [https://monadical.com](https://monadical.com)
- - date published: 2023-10-25T16:05:58.077632+00:00
- - user: None
- - tags: []
-
-## Monad Monkey
- - [https://monadmonkey.com](https://monadmonkey.com)
- - date published: 2023-10-25T16:05:58.559782+00:00
- - user: None
- - tags: []
-
-## Michael Monagan
- - [https://www.monagan.com](https://www.monagan.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Belmont Ammunition | Belmont Ammunition
- - [https://www.monaharaty.com](https://www.monaharaty.com)
- - date published: 2023-12-17T20:59:14.047846+00:00
- - user: None
- - tags: ['personal']
-
-## George Monbiot
- - [https://www.monbiot.com](https://www.monbiot.com)
- - date published: 2023-10-28T15:38:01.543527+00:00
- - user: None
- - tags: []
-
-## monday.com | Your go-to work platform
- - [https://forms.monday.com](https://forms.monday.com)
- - date published: 2024-05-04T11:57:01.420504+00:00
- - user: None
- - tags: []
-
-## monday.com | A new way of working
- - [https://monday.com](https://monday.com)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Vibe Design System
- - [https://style.monday.com](https://style.monday.com)
- - date published: 2024-05-08T09:02:34.921811+00:00
- - user: None
- - tags: []
-
-## The Monday Kickoff
- - [https://mondaykickoff.com](https://mondaykickoff.com)
- - date published: 2024-04-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Monday Note
- - [https://mondaynote.com](https://mondaynote.com)
- - date published: 2023-10-25T16:06:02.801355+00:00
- - user: None
- - tags: []
-
-## Money: Create Richer Lives for Everyone | Money
- - [https://money.com](https://money.com)
- - date published: 2023-10-25T10:52:33.649820+00:00
- - user: None
- - tags: []
-
-## Business/Market News: Personal Finance News
- - [https://money9.com](https://money9.com)
- - date published: 2024-05-11T08:51:14.588461+00:00
- - user: None
- - tags: []
-
-## Bookkeeping software for entrepreneurs
- - [https://www.moneybird.com](https://www.moneybird.com)
- - date published: 2024-05-01T06:25:19.211723+00:00
- - user: None
- - tags: []
-
-## Moneycab
- - [https://www.moneycab.com](https://www.moneycab.com)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stock/Share Market Investing - Live BSE/NSE, India Stock Market Recommendations and Tips, Live Stock Markets, Sensex/Nifty, Commodity Market, Investment Portfolio, Financial News, Mutual Funds
- - [https://images.moneycontrol.com](https://images.moneycontrol.com)
- - date published: 2024-05-08T05:44:17.233089+00:00
- - user: None
- - tags: []
-
-## Login Consent - Moneycontrol
- - [https://www.moneycontrol.com](https://www.moneycontrol.com)
- - date published: 2023-10-25T16:06:05.568468+00:00
- - user: None
- - tags: []
-
-## Money Digest: Find Balance in Your Life & Budget
- - [https://www.moneydigest.com](https://www.moneydigest.com)
- - date published: 2024-04-29T04:43:53.555129+00:00
- - user: None
- - tags: []
-
-## Moneyhawk App
- - [https://moneyhawkapp.com](https://moneyhawkapp.com)
- - date published: 2024-05-04T09:31:09.562574+00:00
- - user: None
- - tags: []
-
-## Home | Meaningful Money | Meaning/Purpose Financial Psychology
- - [https://www.moneyhealthsolutions.com](https://www.moneyhealthsolutions.com)
- - date published: 2023-12-15T21:45:04.521840+00:00
- - user: None
- - tags: ['personal']
-
-## Money Inc - The Business of Money
- - [https://moneyinc.com](https://moneyinc.com)
- - date published: 2023-10-25T16:06:09.228395+00:00
- - user: None
- - tags: []
-
-## Moneylogue.com
- - [https://www.moneylogue.com](https://www.moneylogue.com)
- - date published: 2024-01-09T08:54:56.677475+00:00
- - user: None
- - tags: []
-
-## Game Room Equipment, Parts and Accessories
- - [https://www.moneymachines.com](https://www.moneymachines.com)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Moneymaker Tour
- - [https://moneymakerpt.com](https://moneymakerpt.com)
- - date published: 2024-05-02T00:00:00+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,15 @@
+## UNSW Sydney | One of the best universities in Australia
+ - [https://www.unsw.edu.au](https://www.unsw.edu.au)
+ - date published: 2024-03-18T01:03:38.457797+00:00
+ - user: None
+ - tags: []
+
+## University Pathways in Sydney | UNSW College
+ - [https://www.unswcollege.edu.au](https://www.unswcollege.edu.au)
+ - date published: 2024-05-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## CareerHub Login
  - [https://careerhub.uow.edu.au](https://careerhub.uow.edu.au)
  - date published: 2024-02-08T16:32:52.374723+00:00
@@ -3624,6 +3636,12 @@
  - user: None
  - tags: []
 
+## <mxstbr/>
+ - [https://mxstbr.blog](https://mxstbr.blog)
+ - date published: 2018-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## near.blog | personal website
  - [https://near.blog](https://near.blog)
  - date published: 2024-05-11T10:54:48.598948+00:00
@@ -4999,6 +5017,12 @@ Educação
  - user: None
  - tags: []
 
+## Home - Wi Digital
+ - [https://widigital.com.br](https://widigital.com.br)
+ - date published: 2024-04-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Wildtech Cursos e Consultoria
  - [http://www.wildtech.com.br](http://www.wildtech.com.br)
  - date published: 2024-05-01T03:58:34.843327+00:00
@@ -5974,30 +5998,6 @@ Educação
 ## The Big Mud Puddle
  - [http://evincarofautumn.blogspot.ca](http://evincarofautumn.blogspot.ca)
  - date published: 2024-05-08T11:03:51.097414+00:00
- - user: None
- - tags: []
-
-## PhD Talk
- - [http://phdtalk.blogspot.ca](http://phdtalk.blogspot.ca)
- - date published: 2024-05-02T10:13:04.341653+00:00
- - user: None
- - tags: []
-
-## *Reflective Disequilibrium*
- - [http://reflectivedisequilibrium.blogspot.ca](http://reflectivedisequilibrium.blogspot.ca)
- - date published: 2020-10-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tom Nelson
- - [http://tomnelson.blogspot.ca](http://tomnelson.blogspot.ca)
- - date published: 2024-05-06T23:32:23.707679+00:00
- - user: None
- - tags: []
-
-## BNN Bloomberg - Canadian Business News, TSX Today, interest rates and Bank of Canada coverage
- - [https://www.bnnbloomberg.ca](https://www.bnnbloomberg.ca)
- - date published: 2023-10-25T12:03:55.221507+00:00
  - user: None
  - tags: []
 

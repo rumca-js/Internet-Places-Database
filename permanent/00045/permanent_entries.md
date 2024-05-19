@@ -1,3 +1,219 @@
+## Jascha Sohl-Dickstein
+ - [http://jascha-sohldickstein.squarespace.com](http://jascha-sohldickstein.squarespace.com)
+ - date published: 2024-04-29T05:14:10.777422+00:00
+ - user: None
+ - tags: []
+
+## Jason Markow
+ - [https://jason-markow.squarespace.com](https://jason-markow.squarespace.com)
+ - date published: 2024-05-10T06:59:23.138838+00:00
+ - user: None
+ - tags: []
+
+## Jason’s Big Adventure
+ - [https://jasonsbigadventure.squarespace.com](https://jasonsbigadventure.squarespace.com)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Jo Gifford
+ - [https://jo-gifford-fjlh.squarespace.com](https://jo-gifford-fjlh.squarespace.com)
+ - date published: 2024-04-30T06:46:20.878549+00:00
+ - user: None
+ - tags: []
+
+## Jonny Miller
+ - [http://jonny-miller.squarespace.com](http://jonny-miller.squarespace.com)
+ - date published: 2024-04-30T06:46:29.248079+00:00
+ - user: None
+ - tags: ['personal']
+
+## Joseph Andrew lafond
+ - [https://joseph-lafond-gqqx.squarespace.com](https://joseph-lafond-gqqx.squarespace.com)
+ - date published: 2024-05-10T07:00:37.788803+00:00
+ - user: None
+ - tags: []
+
+## Metal Wellness
+ - [https://joseph-metallo.squarespace.com](https://joseph-metallo.squarespace.com)
+ - date published: 2024-05-10T06:14:52.959850+00:00
+ - user: None
+ - tags: []
+
+## Red Squirrel Technologies
+ - [https://kale-algae-yn93.squarespace.com](https://kale-algae-yn93.squarespace.com)
+ - date published: 2024-04-28T04:22:57.916688+00:00
+ - user: None
+ - tags: []
+
+## Kate Vass Galerie | Contemporary Art Gallery | Zurich, Switzerland
+ - [https://katevassgalerie.squarespace.com](https://katevassgalerie.squarespace.com)
+ - date published: 2024-05-04T09:20:19.505169+00:00
+ - user: None
+ - tags: []
+
+## Flourish & Bloom
+ - [https://katie-dutcher.squarespace.com](https://katie-dutcher.squarespace.com)
+ - date published: 2024-05-10T06:42:06.574062+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://katiequinney2.squarespace.com](https://katiequinney2.squarespace.com)
+ - date published: 2024-05-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Keenan
+ - [https://keenan.squarespace.com](https://keenan.squarespace.com)
+ - date published: 2024-04-30T06:44:22.158715+00:00
+ - user: None
+ - tags: []
+
+## Feminist Sticker Club
+ - [https://kelly-hinkle-neiv.squarespace.com](https://kelly-hinkle-neiv.squarespace.com)
+ - date published: 2024-05-04T05:55:52.279474+00:00
+ - user: None
+ - tags: []
+
+## kening zhu
+ - [https://keningonline.squarespace.com](https://keningonline.squarespace.com)
+ - date published: 2024-05-04T09:29:48.404115+00:00
+ - user: None
+ - tags: []
+
+## Paper. Work. Doing life.
+ - [http://kerry-snyder-w561.squarespace.com](http://kerry-snyder-w561.squarespace.com)
+ - date published: 2024-05-06T22:32:16.534165+00:00
+ - user: None
+ - tags: []
+
+## Kate Smalley - Small Business Advisor & Educator
+ - [https://khaki-strawberry-4kjp.squarespace.com](https://khaki-strawberry-4kjp.squarespace.com)
+ - date published: 2024-05-10T06:32:27.943418+00:00
+ - user: None
+ - tags: []
+
+## GurtyBeats.com
+ - [https://koi-lynx-rzwr.squarespace.com](https://koi-lynx-rzwr.squarespace.com)
+ - date published: 2024-05-04T09:01:17.672363+00:00
+ - user: None
+ - tags: []
+
+## Philosophize This!
+ - [https://koi-minnow-dmk8.squarespace.com](https://koi-minnow-dmk8.squarespace.com)
+ - date published: 2024-05-08T11:35:37.731702+00:00
+ - user: None
+ - tags: []
+
+## koolikedat.com
+ - [https://koochung.squarespace.com](https://koochung.squarespace.com)
+ - date published: 2024-05-04T10:01:37.733676+00:00
+ - user: None
+ - tags: []
+
+## Zen Masta Flash
+ - [https://k-o-pbfs.squarespace.com](https://k-o-pbfs.squarespace.com)
+ - date published: 2024-05-07T18:51:07.040548+00:00
+ - user: None
+ - tags: []
+
+## Kristin Kwan
+ - [https://kristin-kwan-r2od.squarespace.com](https://kristin-kwan-r2od.squarespace.com)
+ - date published: 2024-05-04T10:04:15.359525+00:00
+ - user: None
+ - tags: []
+
+## kylie dunn and dinkylune
+ - [https://kyliedunn.squarespace.com](https://kyliedunn.squarespace.com)
+ - date published: 2024-05-04T11:44:56.752603+00:00
+ - user: None
+ - tags: []
+
+## Organ Clearing House
+ - [https://laina-terpstra-549g.squarespace.com](https://laina-terpstra-549g.squarespace.com)
+ - date published: 2024-05-06T22:10:54.255439+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science, University of Toronto
+ - [https://lanternfish-point-js8m.squarespace.com](https://lanternfish-point-js8m.squarespace.com)
+ - date published: 2024-05-07T20:38:35.078207+00:00
+ - user: None
+ - tags: []
+
+## Laura Doorneweerd-Perry
+ - [https://laura-doorneweerd.squarespace.com](https://laura-doorneweerd.squarespace.com)
+ - date published: 2024-05-04T12:00:12.642916+00:00
+ - user: None
+ - tags: []
+
+## claynferno
+ - [https://league-podcast.squarespace.com](https://league-podcast.squarespace.com)
+ - date published: 2024-05-08T05:33:05.731434+00:00
+ - user: None
+ - tags: []
+
+## Leanne Hughes
+ - [https://leannehughes.squarespace.com](https://leannehughes.squarespace.com)
+ - date published: 2024-05-10T05:47:41.088748+00:00
+ - user: None
+ - tags: []
+
+## Squarespace Learning & Community
+ - [https://learning.squarespace.com](https://learning.squarespace.com)
+ - date published: 2024-05-06T19:55:28.987160+00:00
+ - user: None
+ - tags: []
+
+## Flash Notes
+ - [https://lemon-frog-2f4t.squarespace.com](https://lemon-frog-2f4t.squarespace.com)
+ - date published: 2024-05-13T03:58:30.204752+00:00
+ - user: None
+ - tags: []
+
+## Shannon Weber
+ - [https://lettuce-toucan-amxz.squarespace.com](https://lettuce-toucan-amxz.squarespace.com)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Lichia Liu
+ - [https://lichia-liu.squarespace.com](https://lichia-liu.squarespace.com)
+ - date published: 2024-05-04T12:30:32.787029+00:00
+ - user: None
+ - tags: []
+
+## Serah B. Fredericks
+ - [https://lime-blenny-rfl2.squarespace.com](https://lime-blenny-rfl2.squarespace.com)
+ - date published: 2024-04-29T03:15:45.091335+00:00
+ - user: None
+ - tags: []
+
+## Local Fit Seattle | Capitol Hill Personal Trainers & Fitness Classes
+ - [https://lion-carillon-j6bk.squarespace.com](https://lion-carillon-j6bk.squarespace.com)
+ - date published: 2024-05-10T04:57:03.960216+00:00
+ - user: None
+ - tags: []
+
+## Bad Request
+ - [https://location.squarespace.com](https://location.squarespace.com)
+ - date published: 2024-05-06T19:55:22.822324+00:00
+ - user: None
+ - tags: []
+
+## Lujendra Ojha
+ - [http://lujendra-ojha.squarespace.com](http://lujendra-ojha.squarespace.com)
+ - date published: 2024-05-04T13:41:53.870402+00:00
+ - user: None
+ - tags: []
+
+## Census Engineering
+ - [https://mackerel-pufferfish-e8hm.squarespace.com](https://mackerel-pufferfish-e8hm.squarespace.com)
+ - date published: 2024-04-29T07:27:33.717901+00:00
+ - user: None
+ - tags: []
+
 ## Mac Pierce
  - [https://mac-pierce.squarespace.com](https://mac-pierce.squarespace.com)
  - date published: 2024-05-04T13:46:11.421937+00:00
@@ -2565,6 +2781,12 @@
  - date published: 2024-02-15T22:32:04.212446+00:00
  - user: None
  - tags: ['star wars']
+
+## StasoSphere Base
+ - [https://stasosphere.com](https://stasosphere.com)
+ - date published: 2024-05-18T02:42:22.057157+00:00
+ - user: None
+ - tags: []
 
 ## Secure Technology Alliance Identity & Payments Summit – Trust, Security and Privacy in a Hyperconnected World
  - [https://www.stasummit.com](https://www.stasummit.com)
@@ -5774,228 +5996,6 @@
 ## Andre's Climate | André Meurer | Substack
  - [https://andresclimate.substack.com](https://andresclimate.substack.com)
  - date published: 2024-05-08T05:36:10.082583+00:00
- - user: None
- - tags: []
-
-## Andrew's Substack | Andrew Huth | Substack
- - [https://andrewhuth.substack.com](https://andrewhuth.substack.com)
- - date published: 2023-10-25T09:42:02.215026+00:00
- - user: None
- - tags: ['substack']
-
-## Andrew Mayne’s Newsletter | Substack
- - [https://andrewmayne.substack.com](https://andrewmayne.substack.com)
- - date published: 2024-02-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Anh-Tho’s Newsletter | Anh-Tho Chuong | Substack
- - [https://anhtho.substack.com](https://anhtho.substack.com)
- - date published: 2023-10-25T09:42:03.676083+00:00
- - user: None
- - tags: ['substack']
-
-## Anichexperience | A Niche Experience | Substack
- - [https://anichexperience.substack.com](https://anichexperience.substack.com)
- - date published: 2024-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Animation Obsessive | Animation Obsessive Staff | Substack
- - [https://animationobsessive.substack.com](https://animationobsessive.substack.com)
- - date published: 2023-10-25T09:42:11.045618+00:00
- - user: None
- - tags: ['substack']
-
-## Anna’s Archival Musings | Anna Mancini | Substack
- - [https://annamancini.substack.com](https://annamancini.substack.com)
- - date published: 2023-10-25T09:42:12.649007+00:00
- - user: None
- - tags: ['substack']
-
-## Anna's Kind Commerce journey | Anna Ratkai | Substack
- - [https://annaratkai.substack.com](https://annaratkai.substack.com)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Catalysing Change | Anna Zhenova | Substack
- - [https://annazhenova.substack.com](https://annazhenova.substack.com)
- - date published: 2024-02-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Culture Study | Anne Helen Petersen | Substack
- - [https://annehelen.substack.com](https://annehelen.substack.com)
- - date published: 2023-10-25T09:42:15.878553+00:00
- - user: None
- - tags: ['substack']
-
-## Annie Altman | Substack
- - [https://anniealtman.substack.com](https://anniealtman.substack.com)
- - date published: 2024-05-04T09:14:11.056489+00:00
- - user: None
- - tags: []
-
-## System Change | Ann Pettifor | Substack
- - [https://annpettifor.substack.com](https://annpettifor.substack.com)
- - date published: 2023-10-25T09:42:18.289389+00:00
- - user: None
- - tags: ['substack']
-
-## Age of Invention, by Anton Howes | Substack
- - [https://antonhowes.substack.com](https://antonhowes.substack.com)
- - date published: 2023-10-25T09:42:20.167627+00:00
- - user: None
- - tags: ['substack']
-
-## Beneath the Pavement | Antonio Melonio | Substack
- - [https://antoniomelonio.substack.com](https://antoniomelonio.substack.com)
- - date published: 2023-10-25T09:42:24.309389+00:00
- - user: None
- - tags: ['substack']
-
-## Working Theories | Anu Atluru | Substack
- - [https://anu.substack.com](https://anu.substack.com)
- - date published: 2023-10-25T09:42:27.141462+00:00
- - user: None
- - tags: ['substack']
-
-## Apperceptive (moved to buttondown) | sam | Substack
- - [https://apperceptive.substack.com](https://apperceptive.substack.com)
- - date published: 2024-05-07T09:31:29.620885+00:00
- - user: None
- - tags: []
-
-## Runner’s Newsletter | Substack
- - [https://applewatchrunner.substack.com](https://applewatchrunner.substack.com)
- - date published: 2023-10-25T09:42:29.442208+00:00
- - user: None
- - tags: ['substack']
-
-## Mindful Musings | Apurva Chitnis | Substack
- - [https://apuchitnis.substack.com](https://apuchitnis.substack.com)
- - date published: 2023-10-25T09:42:32.956411+00:00
- - user: None
- - tags: ['substack']
-
-## Google Ads y Facebook Ads desde cero | Arantxa y Guille | Substack
- - [https://arantxayguille.substack.com](https://arantxayguille.substack.com)
- - date published: 2024-05-13T06:53:10.986443+00:00
- - user: None
- - tags: []
-
-## Cabinet of Wonders | Samuel Arbesman | Substack
- - [https://arbesman.substack.com](https://arbesman.substack.com)
- - date published: 2023-10-25T09:42:37.648122+00:00
- - user: None
- - tags: ['substack']
-
-## Transmissions from the floor | Drew Schorno | Substack
- - [https://arcove.substack.com](https://arcove.substack.com)
- - date published: 2023-10-25T09:42:40.395493+00:00
- - user: None
- - tags: ['substack']
-
-## A Diletante | Ariela K. | Substack
- - [https://arielak.substack.com](https://arielak.substack.com)
- - date published: 2024-05-04T07:18:19.260037+00:00
- - user: None
- - tags: []
-
-## Consumer & Culture | Hugo Amsellem | Substack
- - [https://armthecreators.substack.com](https://armthecreators.substack.com)
- - date published: 2024-05-06T15:17:47.278096+00:00
- - user: None
- - tags: []
-
-## In My Tribe | Arnold Kling | Substack
- - [https://arnoldkling.substack.com](https://arnoldkling.substack.com)
- - date published: 2023-10-25T09:42:46.788508+00:00
- - user: None
- - tags: ['substack']
-
-## Arrivals and Departures | Reena Kapoor | Substack
- - [https://arrivalsanddepartures.substack.com](https://arrivalsanddepartures.substack.com)
- - date published: 2024-05-04T13:42:13.080202+00:00
- - user: None
- - tags: []
-
-## The EU AI Act Newsletter | Risto Uuk | Substack
- - [https://artificialintelligenceact.substack.com](https://artificialintelligenceact.substack.com)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Artificial Intelligence Made Simple | Devansh | Substack
- - [https://artificialintelligencemadesimple.substack.com](https://artificialintelligencemadesimple.substack.com)
- - date published: 2024-03-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Practical Self Reliance | Ashley Adamant | Substack
- - [https://ashleyadamant.substack.com](https://ashleyadamant.substack.com)
- - date published: 2024-05-07T09:13:46.536610+00:00
- - user: None
- - tags: []
-
-## The Asianometry Newsletter | Jon Y | Substack
- - [https://asianometry.substack.com](https://asianometry.substack.com)
- - date published: 2023-10-25T09:42:50.856135+00:00
- - user: None
- - tags: ['substack']
-
-## Assisted Everything | Marco Witzmann | Substack
- - [https://assistedeverything.substack.com](https://assistedeverything.substack.com)
- - date published: 2023-10-25T09:42:57.739698+00:00
- - user: None
- - tags: ['substack']
-
-## Adrian’s Letters | Adrian Stobbe | Substack
- - [https://astobbe.substack.com](https://astobbe.substack.com)
- - date published: 2024-05-01T02:27:58.962036+00:00
- - user: None
- - tags: []
-
-## Astral Codex Ten | Scott Alexander | Substack
- - [https://astralcodexten.substack.com](https://astralcodexten.substack.com)
- - date published: 2023-10-25T09:43:00.399502+00:00
- - user: None
- - tags: ['substack']
-
-## Athelas Engineering | Aakash Adesara | Substack
- - [https://athelaseng.substack.com](https://athelaseng.substack.com)
- - date published: 2023-10-25T09:43:02.627661+00:00
- - user: None
- - tags: ['substack']
-
-## Cold Brew | Atit Kothari | Substack
- - [https://atitkothari.substack.com](https://atitkothari.substack.com)
- - date published: 2024-05-04T10:03:27.672762+00:00
- - user: None
- - tags: []
-
-## atomic14 | Chris Greening | Substack
- - [https://atomic14.substack.com](https://atomic14.substack.com)
- - date published: 2023-11-04T18:28:36.332399+00:00
- - user: None
- - tags: []
-
-## Auerstack | David B. Auerbach | Substack
- - [https://auerstack.substack.com](https://auerstack.substack.com)
- - date published: 2023-10-25T09:43:04.705340+00:00
- - user: None
- - tags: ['substack']
-
-## Trying to Understand the World | Aurelien | Substack
- - [https://aurelien2022.substack.com](https://aurelien2022.substack.com)
- - date published: 2023-10-25T09:43:13.295537+00:00
- - user: None
- - tags: ['substack']
-
-## The Total State | Auron MacIntyre | Substack
- - [https://auronmacintyre.substack.com](https://auronmacintyre.substack.com)
- - date published: 2024-02-12T00:00:00+00:00
  - user: None
  - tags: []
 

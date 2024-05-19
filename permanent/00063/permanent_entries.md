@@ -1,3 +1,297 @@
+## Life at OSU
+ - [https://today.oregonstate.edu](https://today.oregonstate.edu)
+ - date published: 2024-05-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Student Activities
+ - [https://activities.osu.edu](https://activities.osu.edu)
+ - date published: 2024-05-12T07:44:42.588261+00:00
+ - user: None
+ - tags: []
+
+## Alumni Groups | Web Hosting
+ - [https://alumnigroups.osu.edu](https://alumnigroups.osu.edu)
+ - date published: 2024-05-07T19:52:09.461397+00:00
+ - user: None
+ - tags: []
+
+## Ohio State Alumni Magazine
+ - [https://alumnimagazine.osu.edu](https://alumnimagazine.osu.edu)
+ - date published: 2024-05-10T06:14:19.101411+00:00
+ - user: None
+ - tags: []
+
+## Web Login Service - Loading Session Information
+ - [https://appstatus.osu.edu](https://appstatus.osu.edu)
+ - date published: 2024-05-12T07:43:58.030129+00:00
+ - user: None
+ - tags: []
+
+## Home | College of Arts and Sciences
+ - [https://artsandsciences.osu.edu](https://artsandsciences.osu.edu)
+ - date published: 2024-05-07T19:51:08.799469+00:00
+ - user: None
+ - tags: []
+
+## Home | ASC Career Success
+ - [https://asccareersuccess.osu.edu](https://asccareersuccess.osu.edu)
+ - date published: 2024-05-07T19:51:14.303907+00:00
+ - user: None
+ - tags: []
+
+## Home | ASC Intranet
+ - [https://ascintranet.osu.edu](https://ascintranet.osu.edu)
+ - date published: 2024-05-07T19:51:17.327261+00:00
+ - user: None
+ - tags: []
+
+## Home | College of Arts and Sciences
+ - [https://asc.osu.edu](https://asc.osu.edu)
+ - date published: 2024-05-07T19:51:31.940280+00:00
+ - user: None
+ - tags: []
+
+## Home | Instructional and Research IT Support Services (IRIS)
+ - [https://asctech.osu.edu](https://asctech.osu.edu)
+ - date published: 2024-05-07T19:51:27.241185+00:00
+ - user: None
+ - tags: []
+
+## BUX Assets
+ - [https://assets.bux.osu.edu](https://assets.bux.osu.edu)
+ - date published: 2024-05-07T19:52:48.457066+00:00
+ - user: None
+ - tags: []
+
+## Buckeye Link
+ - [https://buckeyelink.osu.edu](https://buckeyelink.osu.edu)
+ - date published: 2024-05-07T19:52:41.205680+00:00
+ - user: None
+ - tags: []
+
+## BuckeyePass | The Ohio State University
+ - [https://buckeyepass.osu.edu](https://buckeyepass.osu.edu)
+ - date published: 2024-05-01T07:01:40.124823+00:00
+ - user: None
+ - tags: []
+
+## BuckID
+ - [https://buckid.osu.edu](https://buckid.osu.edu)
+ - date published: 2024-05-12T07:44:29.930152+00:00
+ - user: None
+ - tags: []
+
+## Visit Ohio State
+ - [https://campusvisit.osu.edu](https://campusvisit.osu.edu)
+ - date published: 2024-05-12T07:43:08.856184+00:00
+ - user: None
+ - tags: []
+
+## Cancer Treatment and Research Center | OSUCCC – James
+ - [https://cancer.osu.edu](https://cancer.osu.edu)
+ - date published: 2024-05-12T07:43:31.451613+00:00
+ - user: None
+ - tags: []
+
+## Loading...
+ - [https://carmen.osu.edu](https://carmen.osu.edu)
+ - date published: 2024-05-12T07:43:53.397472+00:00
+ - user: None
+ - tags: []
+
+## Counseling and Consultation Service
+ - [https://ccs.osu.edu](https://ccs.osu.edu)
+ - date published: 2024-05-12T07:44:18.244369+00:00
+ - user: None
+ - tags: []
+
+## Class Search
+ - [https://classes.osu.edu](https://classes.osu.edu)
+ - date published: 2024-05-12T07:42:52.798195+00:00
+ - user: None
+ - tags: []
+
+## Login - Give To Ohio State - The Ohio State University
+ - [https://connect1.osu.edu](https://connect1.osu.edu)
+ - date published: 2024-05-07T19:52:26.447794+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science and Engineering
+ - [https://cse.osu.edu](https://cse.osu.edu)
+ - date published: 2014-02-07T14:25:00+00:00
+ - user: None
+ - tags: []
+
+## Dental Alumni Society
+ - [https://das.alumni.osu.edu](https://das.alumni.osu.edu)
+ - date published: 2024-02-08T17:42:16.788473+00:00
+ - user: None
+ - tags: []
+
+## OSU College of Dentistry
+ - [https://dentistry.osu.edu](https://dentistry.osu.edu)
+ - date published: 2024-05-12T07:44:32.720792+00:00
+ - user: None
+ - tags: []
+
+## Dining Services
+ - [https://dining.osu.edu](https://dining.osu.edu)
+ - date published: 2024-05-12T07:44:11.233781+00:00
+ - user: None
+ - tags: []
+
+## Home | Department of Public Safety
+ - [https://dps.osu.edu](https://dps.osu.edu)
+ - date published: 2024-05-12T07:43:42.601189+00:00
+ - user: None
+ - tags: []
+
+## Home | School of Earth Sciences
+ - [http://earthsciences.osu.edu](http://earthsciences.osu.edu)
+ - date published: 2024-05-07T22:31:30.967450+00:00
+ - user: None
+ - tags: []
+
+## Microsoft 365
+ - [https://email.osu.edu](https://email.osu.edu)
+ - date published: 2022-11-29T22:09:42+00:00
+ - user: None
+ - tags: []
+
+## COLLEGE OF ENGINEERING
+ - [https://engineering.osu.edu](https://engineering.osu.edu)
+ - date published: 2014-02-03T10:53:00+00:00
+ - user: None
+ - tags: []
+
+## The Enterprise for Research, Innovation and Knowledge
+ - [https://erik.osu.edu](https://erik.osu.edu)
+ - date published: 2024-05-12T07:44:06.899584+00:00
+ - user: None
+ - tags: []
+
+## Home | First Year Seminars
+ - [https://firstyearseminars.osu.edu](https://firstyearseminars.osu.edu)
+ - date published: 2024-05-07T19:51:20.656861+00:00
+ - user: None
+ - tags: []
+
+## Home | The Goldberg Center
+ - [http://goldbergcenter.osu.edu](http://goldbergcenter.osu.edu)
+ - date published: 2024-05-12T07:29:49.051269+00:00
+ - user: None
+ - tags: []
+
+## go.osu.edu Create Shortened URLs
+ - [https://go.osu.edu](https://go.osu.edu)
+ - date published: 2024-05-07T19:51:22.252604+00:00
+ - user: None
+ - tags: []
+
+## Graduate and Professional Admissions | The Ohio State University
+ - [https://gpadmissions.osu.edu](https://gpadmissions.osu.edu)
+ - date published: 2024-05-12T07:43:11.105790+00:00
+ - user: None
+ - tags: []
+
+## Home | Graduate School
+ - [https://gradsch.osu.edu](https://gradsch.osu.edu)
+ - date published: 2024-05-12T07:44:22.743757+00:00
+ - user: None
+ - tags: []
+
+## Ohio State Optometry Services
+ - [https://greatvision.osu.edu](https://greatvision.osu.edu)
+ - date published: 2024-05-12T07:43:33.074900+00:00
+ - user: None
+ - tags: []
+
+## Housing and Residence Education
+ - [https://housing.osu.edu](https://housing.osu.edu)
+ - date published: 2024-05-12T07:44:00.222217+00:00
+ - user: None
+ - tags: []
+
+## Human Resources at Ohio State
+ - [https://hr.osu.edu](https://hr.osu.edu)
+ - date published: 2024-05-12T07:44:44.428985+00:00
+ - user: None
+ - tags: []
+
+## Inspire 2023 - Inspire
+ - [https://inspire.ehe.osu.edu](https://inspire.ehe.osu.edu)
+ - date published: 2023-03-13T04:17:09+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://it.osu.edu](https://it.osu.edu)
+ - date published: 2024-05-12T07:44:45.943677+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://keenan.osu.edu](https://keenan.osu.edu)
+ - date published: 2024-05-12T07:43:04.501456+00:00
+ - user: None
+ - tags: []
+
+## Ohio State University Libraries
+ - [https://library.osu.edu](https://library.osu.edu)
+ - date published: 2024-05-12T07:44:38.694450+00:00
+ - user: None
+ - tags: []
+
+## Home | The Ohio State University at Lima
+ - [https://lima.osu.edu](https://lima.osu.edu)
+ - date published: 2024-05-12T07:43:51.453437+00:00
+ - user: None
+ - tags: []
+
+## The Ohio State University at Mansfield
+ - [https://mansfield.osu.edu](https://mansfield.osu.edu)
+ - date published: 2024-05-12T07:43:39.206902+00:00
+ - user: None
+ - tags: []
+
+## login - OSU Identity Management Landing Page
+ - [https://my.osu.edu](https://my.osu.edu)
+ - date published: 2024-05-12T07:43:06.452277+00:00
+ - user: None
+ - tags: []
+
+## The Ohio State University at Newark
+ - [https://newark.osu.edu](https://newark.osu.edu)
+ - date published: 2024-05-12T07:43:48.028100+00:00
+ - user: None
+ - tags: []
+
+## Ohio State News
+ - [https://news.osu.edu](https://news.osu.edu)
+ - date published: 2023-10-25T18:56:36.422788+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [http://ocio.osu.edu](http://ocio.osu.edu)
+ - date published: 2024-05-07T19:52:33.582132+00:00
+ - user: None
+ - tags: []
+
+## Off-Campus and Commuter Student Engagement
+ - [https://offcampus.osu.edu](https://offcampus.osu.edu)
+ - date published: 2024-05-12T07:44:25.294709+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Office of Innovation and Economic Development, The Ohio State University
+ - [https://oied.osu.edu](https://oied.osu.edu)
+ - date published: 2024-04-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Office of Marketing and Communications | The Ohio State University
  - [https://omc.osu.edu](https://omc.osu.edu)
  - date published: 2024-05-07T19:52:43.553637+00:00
@@ -5728,300 +6022,6 @@
 ## Newsroom | UCLA
  - [https://newsroom.ucla.edu](https://newsroom.ucla.edu)
  - date published: 2023-10-25T19:00:36.419553+00:00
- - user: None
- - tags: []
-
-## UCLA Fielding School of Public Health | UCLA Fielding
- - [https://ph.ucla.edu](https://ph.ucla.edu)
- - date published: 2023-10-25T19:00:39.211230+00:00
- - user: None
- - tags: []
-
-## UCLA Cognitive Systems Laboratory (Experimental)
- - [http://singapore.cs.ucla.edu](http://singapore.cs.ucla.edu)
- - date published: 2023-10-25T19:00:41.031479+00:00
- - user: None
- - tags: []
-
-## Smadar Naoz
- - [https://snaoz.astro.ucla.edu](https://snaoz.astro.ucla.edu)
- - date published: 2024-04-30T03:33:26.794955+00:00
- - user: None
- - tags: []
-
-## Home - The Center for 17th- & 18th-Century Studies
- - [https://www.1718.ucla.edu](https://www.1718.ucla.edu)
- - date published: 2024-05-07T10:26:20.505488+00:00
- - user: None
- - tags: []
-
-## Lawyers. Leaders. UCLA School of Law. | UCLA Law
- - [https://www2.law.ucla.edu](https://www2.law.ucla.edu)
- - date published: 2023-10-25T19:00:46.288421+00:00
- - user: None
- - tags: []
-
-## Home | Bruins Safe Online
- - [https://www.bso.ucla.edu](https://www.bso.ucla.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home (New)
- - [https://www.college.ucla.edu](https://www.college.ucla.edu)
- - date published: 2024-05-07T20:55:21.916268+00:00
- - user: None
- - tags: []
-
-## UCLA Campus Directory
- - [http://www.directory.ucla.edu](http://www.directory.ucla.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Samueli Electrical and Computer Engineering
- - [https://www.ee.ucla.edu](https://www.ee.ucla.edu)
- - date published: 2024-04-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Bruins Safe Online
- - [https://www.emergency.ucla.edu](https://www.emergency.ucla.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Lewis Home - UCLA Lewis Center for Regional Policy Studies
- - [https://www.lewis.ucla.edu](https://www.lewis.ucla.edu)
- - date published: 2024-04-30T05:05:25.842498+00:00
- - user: None
- - tags: []
-
-## UCLA MII – Medical and Imaging Informatics
- - [http://www.mii.ucla.edu](http://www.mii.ucla.edu)
- - date published: 2024-05-07T15:26:25.393622+00:00
- - user: None
- - tags: []
-
-## Welcome! | UCLA Registrar’s Office
- - [https://www.registrar.ucla.edu](https://www.registrar.ucla.edu)
- - date published: 2024-05-07T20:55:03.392932+00:00
- - user: None
- - tags: []
-
-## UCLA
- - [https://www.ucla.edu](https://www.ucla.edu)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Zocchi Laboratory
- - [https://zocchi.physics.ucla.edu](https://zocchi.physics.ucla.edu)
- - date published: 2024-02-08T21:48:42.972695+00:00
- - user: None
- - tags: []
-
-## UCLA Extension - Continuing Education Courses & Certificates
- - [https://www.uclaextension.edu](https://www.uclaextension.edu)
- - date published: 2024-05-07T20:55:05.477271+00:00
- - user: None
- - tags: []
-
-## Apply Now | Graduate Division
- - [https://applygrad.ucmerced.edu](https://applygrad.ucmerced.edu)
- - date published: 2024-05-07T20:56:30.115935+00:00
- - user: None
- - tags: []
-
-## Biological Engineering and Small-Scale Technologies
- - [https://best.ucmerced.edu](https://best.ucmerced.edu)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Bioengineering
- - [https://bioe.ucmerced.edu](https://bioe.ucmerced.edu)
- - date published: 2024-05-07T20:56:24.812623+00:00
- - user: None
- - tags: []
-
-## Graduate Division
- - [https://graduatedivision.ucmerced.edu](https://graduatedivision.ucmerced.edu)
- - date published: 2024-05-07T20:56:27.415446+00:00
- - user: None
- - tags: []
-
-## Materials and Biomaterials Science and Engineering
- - [https://mbse.ucmerced.edu](https://mbse.ucmerced.edu)
- - date published: 2024-05-07T20:56:19.947352+00:00
- - user: None
- - tags: []
-
-## The Karen Merritt Writing Program
- - [http://writingprogram.ucmerced.edu](http://writingprogram.ucmerced.edu)
- - date published: 2024-05-07T20:56:22.838187+00:00
- - user: None
- - tags: []
-
-## University of California, Merced
- - [http://www.ucmerced.edu](http://www.ucmerced.edu)
- - date published: 2024-05-07T20:56:17.110274+00:00
- - user: None
- - tags: []
-
-## Home | Accessibility
- - [https://accessibility.uconn.edu](https://accessibility.uconn.edu)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Aurora
- - [http://arthur-parzygnat.uconn.edu](http://arthur-parzygnat.uconn.edu)
- - date published: 2024-05-04T14:40:31.233891+00:00
- - user: None
- - tags: []
-
-## Keith Conrad's Home Page
- - [https://kconrad.math.uconn.edu](https://kconrad.math.uconn.edu)
- - date published: 2024-05-07T15:58:32.946320+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Kendall Lab
- - [https://kendalllab.uconn.edu](https://kendalllab.uconn.edu)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## UConn Magazine
- - [https://magazine.uconn.edu](https://magazine.uconn.edu)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Department of Pharmaceutical Sciences | UConn School of Pharmacy
- - [http://pharmsci.uconn.edu](http://pharmsci.uconn.edu)
- - date published: 2019-05-16T14:22:20+00:00
- - user: None
- - tags: []
-
-## Home | UConn Privacy
- - [https://privacy.uconn.edu](https://privacy.uconn.edu)
- - date published: 2024-03-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home  - UConn Today
- - [https://today.uconn.edu](https://today.uconn.edu)
- - date published: 2023-10-25T19:00:48.881073+00:00
- - user: None
- - tags: []
-
-## Home | Polynomial-Sized LP Models for Hard COPs
- - [https://tsplp.research.uconn.edu](https://tsplp.research.uconn.edu)
- - date published: 2023-10-25T19:00:52.126830+00:00
- - user: None
- - tags: []
-
-## University of Connecticut
- - [https://uconn.edu](https://uconn.edu)
- - date published: 2024-05-07T20:56:38.013761+00:00
- - user: None
- - tags: []
-
-## University of Connecticut | University Communications
- - [https://universitycommunications.uconn.edu](https://universitycommunications.uconn.edu)
- - date published: 2024-02-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## UConn School of Business | School of Business
- - [https://www.business.uconn.edu](https://www.business.uconn.edu)
- - date published: 2024-05-07T20:56:51.424555+00:00
- - user: None
- - tags: []
-
-## Aurora outage
- - [https://www.math.uconn.edu](https://www.math.uconn.edu)
- - date published: 2024-04-30T07:32:52.315694+00:00
- - user: None
- - tags: []
-
-## University of California | Office of The President
- - [https://www.ucop.edu](https://www.ucop.edu)
- - date published: 2024-05-07T20:55:37.074158+00:00
- - user: None
- - tags: []
-
-## University of California Press
- - [https://www.ucpress.edu](https://www.ucpress.edu)
- - date published: 2024-05-02T09:55:47.640355+00:00
- - user: None
- - tags: []
-
-## Connect with Asian Pacific Student Programs (APSP)!
- - [https://apsp.ucr.edu](https://apsp.ucr.edu)
- - date published: 2024-05-07T20:56:52.659163+00:00
- - user: None
- - tags: []
-
-## UCR African Student Programs
- - [https://asp.ucr.edu](https://asp.ucr.edu)
- - date published: 2024-05-07T20:57:10.969841+00:00
- - user: None
- - tags: []
-
-## University of California, Riverside
- - [https://campusmap.ucr.edu](https://campusmap.ucr.edu)
- - date published: 2024-05-07T20:57:29.964689+00:00
- - user: None
- - tags: []
-
-## Campus Emergency Status
- - [https://campusstatus.ucr.edu](https://campusstatus.ucr.edu)
- - date published: 2024-05-07T20:56:57.501578+00:00
- - user: None
- - tags: []
-
-## CARE Program
- - [https://care.ucr.edu](https://care.ucr.edu)
- - date published: 2024-05-07T20:57:01.705119+00:00
- - user: None
- - tags: []
-
-## Case Management
- - [https://casemanagement.ucr.edu](https://casemanagement.ucr.edu)
- - date published: 2024-05-07T20:57:13.794566+00:00
- - user: None
- - tags: []
-
-## California Digital Newspaper Collection
- - [https://cdnc.ucr.edu](https://cdnc.ucr.edu)
- - date published: 2024-05-07T09:16:04.491684+00:00
- - user: None
- - tags: []
-
-## Counseling & Psychological Services
- - [https://counseling.ucr.edu](https://counseling.ucr.edu)
- - date published: 2024-05-07T20:56:56.771638+00:00
- - user: None
- - tags: []
-
-## The Creator State
- - [https://creatorstate.ucr.edu](https://creatorstate.ucr.edu)
- - date published: 2024-05-07T20:57:46.311251+00:00
- - user: None
- - tags: []
-
-## Share the spirit of Raza with UCR's Chicano Student Programs!
- - [https://csp.ucr.edu](https://csp.ucr.edu)
- - date published: 2024-05-07T20:57:33.431969+00:00
- - user: None
- - tags: []
-
-## UCR Dean of Students
- - [https://deanofstudents.ucr.edu](https://deanofstudents.ucr.edu)
- - date published: 2024-05-07T20:57:17.897630+00:00
  - user: None
  - tags: []
 

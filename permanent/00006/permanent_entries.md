@@ -1,3 +1,33 @@
+## Tam Pham's Blog
+ - [https://www.tampham.co](https://www.tampham.co)
+ - date published: 2024-01-18T16:43:02.232242+00:00
+ - user: None
+ - tags: []
+
+## Tasty - Food videos and recipes
+ - [https://tasty.co](https://tasty.co)
+ - date published: 2024-05-08T04:03:55.995995+00:00
+ - user: None
+ - tags: []
+
+## Tasty - Food videos and recipes
+ - [https://www.tasty.co](https://www.tasty.co)
+ - date published: 2024-05-08T04:04:02.067589+00:00
+ - user: None
+ - tags: []
+
+## Tech.co | Technology News, Reviews and Advice Guides
+ - [https://tech.co](https://tech.co)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Education & coaching for Business Leaders in the Digital Age
+ - [https://www.techfornontechies.co](https://www.techfornontechies.co)
+ - date published: 2024-05-07T14:00:17.935639+00:00
+ - user: None
+ - tags: []
+
 ## Techsauce Innovation Programs
  - [https://challenge.techsauce.co](https://challenge.techsauce.co)
  - date published: 2024-03-06T00:00:00+00:00
@@ -5973,34 +6003,4 @@
  - date published: 2024-05-01T02:19:35.214081+00:00
  - user: None
  - tags: []
-
-## Adafruit Learning System
- - [https://learn.adafruit.com](https://learn.adafruit.com)
- - date published: 2024-04-28T04:12:51.997534+00:00
- - user: None
- - tags: []
-
-## Adafruit Industries, Unique & fun DIY electronics and kits
- - [https://www.adafruit.com](https://www.adafruit.com)
- - date published: 2023-10-25T11:14:43.308029+00:00
- - user: None
- - tags: ['single board computers', 'hardware parts', 'electronic parts']
-
-## https://adage.com
- - [https://adage.com](https://adage.com)
- - date published: 2023-10-25T12:31:57.417942+00:00
- - user: None
- - tags: []
-
-## Adaje
- - [https://adajeinc.com](https://adajeinc.com)
- - date published: 2024-05-08T03:06:33.417155+00:00
- - user: None
- - tags: []
-
-## Ada Programming Language
- - [https://www.ada-language.com](https://www.ada-language.com)
- - date published: 2024-04-23T15:57:10+00:00
- - user: rumpel
- - tags: ['ada', 'programming language']
 

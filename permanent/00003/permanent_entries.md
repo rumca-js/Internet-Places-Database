@@ -1,3 +1,27 @@
+## PhD Talk
+ - [http://phdtalk.blogspot.ca](http://phdtalk.blogspot.ca)
+ - date published: 2024-05-02T10:13:04.341653+00:00
+ - user: None
+ - tags: []
+
+## *Reflective Disequilibrium*
+ - [http://reflectivedisequilibrium.blogspot.ca](http://reflectivedisequilibrium.blogspot.ca)
+ - date published: 2020-10-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Tom Nelson
+ - [http://tomnelson.blogspot.ca](http://tomnelson.blogspot.ca)
+ - date published: 2024-05-06T23:32:23.707679+00:00
+ - user: None
+ - tags: []
+
+## BNN Bloomberg - Canadian Business News, TSX Today, interest rates and Bank of Canada coverage
+ - [https://www.bnnbloomberg.ca](https://www.bnnbloomberg.ca)
+ - date published: 2023-10-25T12:03:55.221507+00:00
+ - user: None
+ - tags: []
+
 ## Video Production and Creative Agency - Welcome to BNR - Guelph, ON
  - [https://bnrmediagroup.ca](https://bnrmediagroup.ca)
  - date published: 2024-05-06T12:56:47.739507+00:00
@@ -5978,30 +6002,6 @@
 ## microcenter.com
  - [https://micro.center](https://micro.center)
  - date published: 2024-02-24T20:43:32.587938+00:00
- - user: None
- - tags: []
-
-## Planning Center: Church Management Software
- - [https://planning.center](https://planning.center)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## The World's Fastest Growing Subdomain & Shadow IT Database
- - [https://subdomain.center](https://subdomain.center)
- - date published: 2024-04-30T05:57:27.481497+00:00
- - user: None
- - tags: []
-
-## Subdomain Center | ARPSyndicate
- - [https://www.subdomain.center](https://www.subdomain.center)
- - date published: 2023-10-25T12:12:36.739613+00:00
- - user: None
- - tags: []
-
-## Entrepreneur's Edge | Ryan Waliany | Substack
- - [https://www.edge.ceo](https://www.edge.ceo)
- - date published: 2023-10-25T12:12:41.496123+00:00
  - user: None
  - tags: []
 

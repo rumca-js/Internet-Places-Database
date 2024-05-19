@@ -1,3 +1,297 @@
+## UCLA Fielding School of Public Health | UCLA Fielding
+ - [https://ph.ucla.edu](https://ph.ucla.edu)
+ - date published: 2023-10-25T19:00:39.211230+00:00
+ - user: None
+ - tags: []
+
+## UCLA Cognitive Systems Laboratory (Experimental)
+ - [http://singapore.cs.ucla.edu](http://singapore.cs.ucla.edu)
+ - date published: 2023-10-25T19:00:41.031479+00:00
+ - user: None
+ - tags: []
+
+## Smadar Naoz
+ - [https://snaoz.astro.ucla.edu](https://snaoz.astro.ucla.edu)
+ - date published: 2024-04-30T03:33:26.794955+00:00
+ - user: None
+ - tags: []
+
+## Home - The Center for 17th- & 18th-Century Studies
+ - [https://www.1718.ucla.edu](https://www.1718.ucla.edu)
+ - date published: 2024-05-07T10:26:20.505488+00:00
+ - user: None
+ - tags: []
+
+## Lawyers. Leaders. UCLA School of Law. | UCLA Law
+ - [https://www2.law.ucla.edu](https://www2.law.ucla.edu)
+ - date published: 2023-10-25T19:00:46.288421+00:00
+ - user: None
+ - tags: []
+
+## Home | Bruins Safe Online
+ - [https://www.bso.ucla.edu](https://www.bso.ucla.edu)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home (New)
+ - [https://www.college.ucla.edu](https://www.college.ucla.edu)
+ - date published: 2024-05-07T20:55:21.916268+00:00
+ - user: None
+ - tags: []
+
+## UCLA Campus Directory
+ - [http://www.directory.ucla.edu](http://www.directory.ucla.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Samueli Electrical and Computer Engineering
+ - [https://www.ee.ucla.edu](https://www.ee.ucla.edu)
+ - date published: 2024-04-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Bruins Safe Online
+ - [https://www.emergency.ucla.edu](https://www.emergency.ucla.edu)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Lewis Home - UCLA Lewis Center for Regional Policy Studies
+ - [https://www.lewis.ucla.edu](https://www.lewis.ucla.edu)
+ - date published: 2024-04-30T05:05:25.842498+00:00
+ - user: None
+ - tags: []
+
+## UCLA MII – Medical and Imaging Informatics
+ - [http://www.mii.ucla.edu](http://www.mii.ucla.edu)
+ - date published: 2024-05-07T15:26:25.393622+00:00
+ - user: None
+ - tags: []
+
+## Welcome! | UCLA Registrar’s Office
+ - [https://www.registrar.ucla.edu](https://www.registrar.ucla.edu)
+ - date published: 2024-05-07T20:55:03.392932+00:00
+ - user: None
+ - tags: []
+
+## UCLA
+ - [https://www.ucla.edu](https://www.ucla.edu)
+ - date published: 2024-04-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Zocchi Laboratory
+ - [https://zocchi.physics.ucla.edu](https://zocchi.physics.ucla.edu)
+ - date published: 2024-02-08T21:48:42.972695+00:00
+ - user: None
+ - tags: []
+
+## UCLA Extension - Continuing Education Courses & Certificates
+ - [https://www.uclaextension.edu](https://www.uclaextension.edu)
+ - date published: 2024-05-07T20:55:05.477271+00:00
+ - user: None
+ - tags: []
+
+## Apply Now | Graduate Division
+ - [https://applygrad.ucmerced.edu](https://applygrad.ucmerced.edu)
+ - date published: 2024-05-07T20:56:30.115935+00:00
+ - user: None
+ - tags: []
+
+## Biological Engineering and Small-Scale Technologies
+ - [https://best.ucmerced.edu](https://best.ucmerced.edu)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Bioengineering
+ - [https://bioe.ucmerced.edu](https://bioe.ucmerced.edu)
+ - date published: 2024-05-07T20:56:24.812623+00:00
+ - user: None
+ - tags: []
+
+## Graduate Division
+ - [https://graduatedivision.ucmerced.edu](https://graduatedivision.ucmerced.edu)
+ - date published: 2024-05-07T20:56:27.415446+00:00
+ - user: None
+ - tags: []
+
+## Materials and Biomaterials Science and Engineering
+ - [https://mbse.ucmerced.edu](https://mbse.ucmerced.edu)
+ - date published: 2024-05-07T20:56:19.947352+00:00
+ - user: None
+ - tags: []
+
+## The Karen Merritt Writing Program
+ - [http://writingprogram.ucmerced.edu](http://writingprogram.ucmerced.edu)
+ - date published: 2024-05-07T20:56:22.838187+00:00
+ - user: None
+ - tags: []
+
+## University of California, Merced
+ - [http://www.ucmerced.edu](http://www.ucmerced.edu)
+ - date published: 2024-05-07T20:56:17.110274+00:00
+ - user: None
+ - tags: []
+
+## Home | Accessibility
+ - [https://accessibility.uconn.edu](https://accessibility.uconn.edu)
+ - date published: 2024-01-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Aurora
+ - [http://arthur-parzygnat.uconn.edu](http://arthur-parzygnat.uconn.edu)
+ - date published: 2024-05-04T14:40:31.233891+00:00
+ - user: None
+ - tags: []
+
+## Keith Conrad's Home Page
+ - [https://kconrad.math.uconn.edu](https://kconrad.math.uconn.edu)
+ - date published: 2024-05-07T15:58:32.946320+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | Kendall Lab
+ - [https://kendalllab.uconn.edu](https://kendalllab.uconn.edu)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## UConn Magazine
+ - [https://magazine.uconn.edu](https://magazine.uconn.edu)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Department of Pharmaceutical Sciences | UConn School of Pharmacy
+ - [http://pharmsci.uconn.edu](http://pharmsci.uconn.edu)
+ - date published: 2019-05-16T14:22:20+00:00
+ - user: None
+ - tags: []
+
+## Home | UConn Privacy
+ - [https://privacy.uconn.edu](https://privacy.uconn.edu)
+ - date published: 2024-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home  - UConn Today
+ - [https://today.uconn.edu](https://today.uconn.edu)
+ - date published: 2023-10-25T19:00:48.881073+00:00
+ - user: None
+ - tags: []
+
+## Home | Polynomial-Sized LP Models for Hard COPs
+ - [https://tsplp.research.uconn.edu](https://tsplp.research.uconn.edu)
+ - date published: 2023-10-25T19:00:52.126830+00:00
+ - user: None
+ - tags: []
+
+## University of Connecticut
+ - [https://uconn.edu](https://uconn.edu)
+ - date published: 2024-05-07T20:56:38.013761+00:00
+ - user: None
+ - tags: []
+
+## University of Connecticut | University Communications
+ - [https://universitycommunications.uconn.edu](https://universitycommunications.uconn.edu)
+ - date published: 2024-02-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## UConn School of Business | School of Business
+ - [https://www.business.uconn.edu](https://www.business.uconn.edu)
+ - date published: 2024-05-07T20:56:51.424555+00:00
+ - user: None
+ - tags: []
+
+## Aurora outage
+ - [https://www.math.uconn.edu](https://www.math.uconn.edu)
+ - date published: 2024-04-30T07:32:52.315694+00:00
+ - user: None
+ - tags: []
+
+## University of California | Office of The President
+ - [https://www.ucop.edu](https://www.ucop.edu)
+ - date published: 2024-05-07T20:55:37.074158+00:00
+ - user: None
+ - tags: []
+
+## University of California Press
+ - [https://www.ucpress.edu](https://www.ucpress.edu)
+ - date published: 2024-05-02T09:55:47.640355+00:00
+ - user: None
+ - tags: []
+
+## Connect with Asian Pacific Student Programs (APSP)!
+ - [https://apsp.ucr.edu](https://apsp.ucr.edu)
+ - date published: 2024-05-07T20:56:52.659163+00:00
+ - user: None
+ - tags: []
+
+## UCR African Student Programs
+ - [https://asp.ucr.edu](https://asp.ucr.edu)
+ - date published: 2024-05-07T20:57:10.969841+00:00
+ - user: None
+ - tags: []
+
+## University of California, Riverside
+ - [https://campusmap.ucr.edu](https://campusmap.ucr.edu)
+ - date published: 2024-05-07T20:57:29.964689+00:00
+ - user: None
+ - tags: []
+
+## Campus Emergency Status
+ - [https://campusstatus.ucr.edu](https://campusstatus.ucr.edu)
+ - date published: 2024-05-07T20:56:57.501578+00:00
+ - user: None
+ - tags: []
+
+## CARE Program
+ - [https://care.ucr.edu](https://care.ucr.edu)
+ - date published: 2024-05-07T20:57:01.705119+00:00
+ - user: None
+ - tags: []
+
+## Case Management
+ - [https://casemanagement.ucr.edu](https://casemanagement.ucr.edu)
+ - date published: 2024-05-07T20:57:13.794566+00:00
+ - user: None
+ - tags: []
+
+## California Digital Newspaper Collection
+ - [https://cdnc.ucr.edu](https://cdnc.ucr.edu)
+ - date published: 2024-05-07T09:16:04.491684+00:00
+ - user: None
+ - tags: []
+
+## Counseling & Psychological Services
+ - [https://counseling.ucr.edu](https://counseling.ucr.edu)
+ - date published: 2024-05-07T20:56:56.771638+00:00
+ - user: None
+ - tags: []
+
+## The Creator State
+ - [https://creatorstate.ucr.edu](https://creatorstate.ucr.edu)
+ - date published: 2024-05-07T20:57:46.311251+00:00
+ - user: None
+ - tags: []
+
+## Share the spirit of Raza with UCR's Chicano Student Programs!
+ - [https://csp.ucr.edu](https://csp.ucr.edu)
+ - date published: 2024-05-07T20:57:33.431969+00:00
+ - user: None
+ - tags: []
+
+## UCR Dean of Students
+ - [https://deanofstudents.ucr.edu](https://deanofstudents.ucr.edu)
+ - date published: 2024-05-07T20:57:17.897630+00:00
+ - user: None
+ - tags: []
+
 ## Office of Diversity, Equity & Inclusion
  - [https://diversity.ucr.edu](https://diversity.ucr.edu)
  - date published: 2024-05-07T20:57:34.669512+00:00
@@ -2317,6 +2611,12 @@
 ## Undergraduate Studies In Computer Science At The University Of Maryland | Undergraduate Computer Science at UMD
  - [https://undergrad.cs.umd.edu](https://undergrad.cs.umd.edu)
  - date published: 2024-05-07T21:26:45.393345+00:00
+ - user: None
+ - tags: []
+
+## University of Maryland: Department of Astronomy
+ - [http://www.astro.umd.edu](http://www.astro.umd.edu)
+ - date published: 2024-05-18T02:46:37.546598+00:00
  - user: None
  - tags: []
 
@@ -5700,306 +6000,6 @@
 ## UTC Library Wiki
  - [https://wikilib.utc.edu](https://wikilib.utc.edu)
  - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## The University of Texas at Dallas
- - [https://atec.utdallas.edu](https://atec.utdallas.edu)
- - date published: 2024-05-07T22:12:19.978667+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://atlas.utdallas.edu](https://atlas.utdallas.edu)
- - date published: 2024-05-07T22:12:07.061420+00:00
- - user: None
- - tags: []
-
-## Events Calendar
- - [https://calendar.utdallas.edu](https://calendar.utdallas.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Community Standards and Conduct - The University of Texas at Dallas
- - [https://conduct.utdallas.edu](https://conduct.utdallas.edu)
- - date published: 2024-05-07T22:11:40.347067+00:00
- - user: None
- - tags: []
-
-## Student Counseling Center | UT Dallas
- - [https://counseling.utdallas.edu](https://counseling.utdallas.edu)
- - date published: 2024-05-07T22:12:04.052174+00:00
- - user: None
- - tags: []
-
-## UT Dallas CourseBook Guided Search :: UT Dallas Class, Syllabus, Course Evaluation, and Textbook Database
- - [https://coursebook.utdallas.edu](https://coursebook.utdallas.edu)
- - date published: 2024-05-07T22:11:23.875221+00:00
- - user: None
- - tags: []
-
-## Office of Development and Alumni Relations - Office of Development and Alumni Relations | The University of Texas at Dallas
- - [https://development.utdallas.edu](https://development.utdallas.edu)
- - date published: 2024-05-07T22:11:49.477405+00:00
- - user: None
- - tags: []
-
-## Financial Aid - Office of Financial Aid | The University of Texas at Dallas
- - [https://finaid.utdallas.edu](https://finaid.utdallas.edu)
- - date published: 2024-05-07T22:11:44.820005+00:00
- - user: None
- - tags: []
-
-## Galaxy | The University of Texas at Dallas
- - [https://galaxy.utdallas.edu](https://galaxy.utdallas.edu)
- - date published: 2024-05-07T22:11:42.845292+00:00
- - user: None
- - tags: []
-
-## Human Resources
- - [https://hr.utdallas.edu](https://hr.utdallas.edu)
- - date published: 2024-05-07T22:11:18.935473+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://institutional-initiatives.utdallas.edu](https://institutional-initiatives.utdallas.edu)
- - date published: 2024-05-07T22:12:00.204536+00:00
- - user: None
- - tags: []
-
-## Campus Map - The University of Texas at Dallas
- - [https://map.utdallas.edu](https://map.utdallas.edu)
- - date published: 2024-05-07T22:11:30.760380+00:00
- - user: None
- - tags: []
-
-## News Homepage
- - [https://news.utdallas.edu](https://news.utdallas.edu)
- - date published: 2023-12-10T12:18:35.847710+00:00
- - user: None
- - tags: []
-
-## Office of Information Technology | UT Dallas
- - [https://oit.utdallas.edu](https://oit.utdallas.edu)
- - date published: 2024-05-07T22:11:15.935328+00:00
- - user: None
- - tags: []
-
-## Service - UTD Hosted Personal Webpages
- - [https://personal.utdallas.edu](https://personal.utdallas.edu)
- - date published: 2023-10-25T19:05:03.834184+00:00
- - user: None
- - tags: []
-
-## UT Dallas Police Department
- - [https://police.utdallas.edu](https://police.utdallas.edu)
- - date published: 2024-05-07T22:12:02.241073+00:00
- - user: None
- - tags: []
-
-## UT Dallas Policy Navigator
- - [https://policy.utdallas.edu](https://policy.utdallas.edu)
- - date published: 2019-04-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## UTDesign Captone | The University of Texas at Dallas
- - [https://utdesigncs.utdallas.edu](https://utdesigncs.utdallas.edu)
- - date published: 2024-05-01T03:41:57.422941+00:00
- - user: None
- - tags: []
-
-## Spaces
- - [https://ventures.utdallas.edu](https://ventures.utdallas.edu)
- - date published: 2023-01-18T18:56:50+00:00
- - user: None
- - tags: []
-
-## The University of Texas at Dallas
- - [https://www.utdallas.edu](https://www.utdallas.edu)
- - date published: 2024-05-07T22:11:14.478152+00:00
- - user: None
- - tags: []
-
-## The University of Texas at El Paso - UTEP
- - [https://adminapps.utep.edu](https://adminapps.utep.edu)
- - date published: 2024-04-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## A Simple HTML File
- - [http://cs.utep.edu](http://cs.utep.edu)
- - date published: 2024-05-07T20:31:22.293805+00:00
- - user: None
- - tags: []
-
-## - MineTracker
- - [https://events.utep.edu](https://events.utep.edu)
- - date published: 2024-05-07T22:12:47.760272+00:00
- - user: None
- - tags: []
-
-## Raise Your Pick Giving Day 2024
- - [https://givingday.utep.edu](https://givingday.utep.edu)
- - date published: 2024-05-07T22:12:27.586061+00:00
- - user: None
- - tags: []
-
-## MY UTEP
- - [https://my.utep.edu](https://my.utep.edu)
- - date published: 2024-05-07T22:12:43.261435+00:00
- - user: None
- - tags: []
-
-## The University of Texas at El Paso - UTEP
- - [https://www.utep.edu](https://www.utep.edu)
- - date published: 2023-10-25T19:05:08.331077+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science
- - [https://apps.cs.utexas.edu](https://apps.cs.utexas.edu)
- - date published: 2024-05-07T22:13:47.645331+00:00
- - user: None
- - tags: []
-
-## Brand
- - [https://brand.utexas.edu](https://brand.utexas.edu)
- - date published: 2024-05-06T21:46:30.190021+00:00
- - user: None
- - tags: []
-
-## Computer & Data Science Online
- - [https://cdso.utexas.edu](https://cdso.utexas.edu)
- - date published: 2024-05-07T22:13:49.369793+00:00
- - user: None
- - tags: []
-
-## McKetta Department of Chemical Engineering - Home
- - [https://che.utexas.edu](https://che.utexas.edu)
- - date published: 2024-05-07T22:13:04.686240+00:00
- - user: None
- - tags: []
-
-## Home | Information Technology Services
- - [https://cio.utexas.edu](https://cio.utexas.edu)
- - date published: 2024-05-07T22:13:08.797097+00:00
- - user: None
- - tags: []
-
-## Discovery starts here in the College of Natural Sciences
- - [https://cns.utexas.edu](https://cns.utexas.edu)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## UT Cockrell School of Engineering
- - [https://cockrell.utexas.edu](https://cockrell.utexas.edu)
- - date published: 2023-10-25T19:05:12.024214+00:00
- - user: None
- - tags: []
-
-## Home | Texas CSB
- - [https://csb.utexas.edu](https://csb.utexas.edu)
- - date published: 2024-05-07T22:13:54.867319+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science
- - [http://cs.utexas.edu](http://cs.utexas.edu)
- - date published: 2024-05-07T22:14:01.714994+00:00
- - user: None
- - tags: []
-
-## Home | Dell Medical School
- - [https://dellmed.utexas.edu](https://dellmed.utexas.edu)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Division of Campus and Community Engagement
- - [https://diversity.utexas.edu](https://diversity.utexas.edu)
- - date published: 2024-04-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## University Messages | Emergency Use Website |The University of Texas at Austin
- - [https://emergency.utexas.edu](https://emergency.utexas.edu)
- - date published: 2024-05-07T22:13:27.877240+00:00
- - user: None
- - tags: []
-
-## UT Experts : University Communications : The University of Texas at Austin
- - [https://experts.utexas.edu](https://experts.utexas.edu)
- - date published: 2024-05-07T22:13:31.432323+00:00
- - user: None
- - tags: []
-
-## What Starts Here | The University of Texas at Austin
- - [https://give.utexas.edu](https://give.utexas.edu)
- - date published: 2024-05-07T22:13:09.952918+00:00
- - user: None
- - tags: []
-
-## Giving to UT | The University of Texas at Austin
- - [https://giving.utexas.edu](https://giving.utexas.edu)
- - date published: 2022-08-19T19:36:30+00:00
- - user: None
- - tags: []
-
-## Welcome
- - [https://golem.ph.utexas.edu](https://golem.ph.utexas.edu)
- - date published: 2023-10-25T19:05:13.177282+00:00
- - user: None
- - tags: []
-
-## UT Graduate ECE (GREECE)
- - [https://greece.ece.utexas.edu](https://greece.ece.utexas.edu)
- - date published: 2024-05-04T15:41:18.716822+00:00
- - user: None
- - tags: []
-
-## Home - The IC² Institute - Innovating Well-Being
- - [https://ic2.utexas.edu](https://ic2.utexas.edu)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## LBJ School | The University of Texas at Austin | LBJ School of Public Affairs
- - [https://lbj.utexas.edu](https://lbj.utexas.edu)
- - date published: 2023-11-19T15:39:17.659158+00:00
- - user: None
- - tags: []
-
-## LBJ Women's Campaign School | LBJ Women's Campaign School
- - [https://lbjwcs.lbj.utexas.edu](https://lbjwcs.lbj.utexas.edu)
- - date published: 2024-05-07T22:13:24.990562+00:00
- - user: None
- - tags: []
-
-## College of Liberal Arts | The University of Texas at Austin
- - [https://liberalarts.utexas.edu](https://liberalarts.utexas.edu)
- - date published: 2024-05-06T14:49:07.264286+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science
- - [https://login.cs.utexas.edu](https://login.cs.utexas.edu)
- - date published: 2024-04-29T02:33:59.825964+00:00
- - user: None
- - tags: []
-
-## The Linguistics Research Center
- - [https://lrc.la.utexas.edu](https://lrc.la.utexas.edu)
- - date published: 2024-05-02T09:39:40.418961+00:00
- - user: None
- - tags: []
-
-## Texas Engineer Magazine - Texas Engineer
- - [https://magazine.engr.utexas.edu](https://magazine.engr.utexas.edu)
- - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 

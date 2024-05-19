@@ -1,3 +1,274 @@
+## Alex Chi Z.
+ - [https://skyzh.dev](https://skyzh.dev)
+ - date published: 2024-05-04T15:32:10.225105+00:00
+ - user: None
+ - tags: []
+
+## slama.dev
+ - [https://slama.dev](https://slama.dev)
+ - date published: 2023-10-25T08:58:54.013566+00:00
+ - user: None
+ - tags: ['personal']
+
+## Slidev
+ - [https://sli.dev](https://sli.dev)
+ - date published: 2024-05-08T09:01:19.377444+00:00
+ - user: None
+ - tags: []
+
+## Home — Isaac Clayton
+ - [https://slightknack.dev](https://slightknack.dev)
+ - date published: 2023-10-25T08:48:59.054260+00:00
+ - user: None
+ - tags: ['personal']
+
+## Introduction - SlimeVR Docs
+ - [https://docs.slimevr.dev](https://docs.slimevr.dev)
+ - date published: 2024-04-30T02:18:05.609761+00:00
+ - user: None
+ - tags: []
+
+## SlimeVR Full-Body Tracker
+ - [https://slimevr.dev](https://slimevr.dev)
+ - date published: 2023-11-26T21:42:42+00:00
+ - user: rumpel
+ - tags: ['virtual reality', 'hardware', 'vr']
+
+## Slint Mattermost
+ - [https://chat.slint.dev](https://chat.slint.dev)
+ - date published: 2024-04-29T04:46:35.683779+00:00
+ - user: None
+ - tags: []
+
+## Slint |
+            Declarative GUI for Rust, C++ & JavaScript
+ - [https://slint.dev](https://slint.dev)
+ - date published: 2023-10-25T18:42:03.965621+00:00
+ - user: None
+ - tags: []
+
+## Scott Leggett | @smlx's blog
+ - [https://smlx.dev](https://smlx.dev)
+ - date published: 2024-02-14T19:23:45.960903+00:00
+ - user: None
+ - tags: []
+
+## SmolCSS
+ - [https://smolcss.dev](https://smolcss.dev)
+ - date published: 2024-04-30T00:34:56.467195+00:00
+ - user: None
+ - tags: []
+
+## Error
+ - [https://img.snaplink.dev](https://img.snaplink.dev)
+ - date published: 2024-04-28T01:46:06.742156+00:00
+ - user: None
+ - tags: []
+
+## Snowpack
+ - [https://www.snowpack.dev](https://www.snowpack.dev)
+ - date published: 2024-05-06T13:11:48.505017+00:00
+ - user: None
+ - tags: []
+
+## Socheat Sok
+ - [https://socheat.dev](https://socheat.dev)
+ - date published: 2024-05-11T10:20:32.970537+00:00
+ - user: None
+ - tags: []
+
+## Getting started
+ - [https://docs.socket.dev](https://docs.socket.dev)
+ - date published: 2024-04-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Socket Feedback
+ - [https://feedback.socket.dev](https://feedback.socket.dev)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Socket - Secure your supply chain. Ship with confidence.
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
+ - user: None
+ - tags: []
+
+## Socket Status
+ - [https://status.socket.dev](https://status.socket.dev)
+ - date published: 2024-04-30T02:18:13.912061+00:00
+ - user: None
+ - tags: []
+
+## Software at Scale | Utsav Shah | Substack
+ - [https://www.softwareatscale.dev](https://www.softwareatscale.dev)
+ - date published: 2023-10-25T18:42:13.034114+00:00
+ - user: None
+ - tags: []
+
+## Out of the Software Crisis: The Newsletter
+ - [https://softwarecrisis.dev](https://softwarecrisis.dev)
+ - date published: 2023-10-25T18:42:14.589232+00:00
+ - user: None
+ - tags: []
+
+## Software Social
+ - [https://softwaresocial.dev](https://softwaresocial.dev)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## solivan.dev
+ - [https://solivan.dev](https://solivan.dev)
+ - date published: 2024-04-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## solnic.dev
+ - [https://solnic.dev](https://solnic.dev)
+ - date published: 2024-04-30T07:17:47.782282+00:00
+ - user: None
+ - tags: []
+
+## Some Natalie’s corner of the internet
+ - [https://some-natalie.dev](https://some-natalie.dev)
+ - date published: 2024-03-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Soumya Ranjan Mohanty
+ - [https://soumya.dev](https://soumya.dev)
+ - date published: 2024-05-07T23:16:34.702695+00:00
+ - user: None
+ - tags: []
+
+## Throwing Exceptions :construction:
+ - [https://sowrensen.dev](https://sowrensen.dev)
+ - date published: 2024-03-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## home :: spacetime.dev
+ - [https://spacetime.dev](https://spacetime.dev)
+ - date published: 2020-12-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Spaghettify🍝
+ - [https://www.spaghettify.dev](https://www.spaghettify.dev)
+ - date published: 2023-10-25T18:42:15.749345+00:00
+ - user: None
+ - tags: []
+
+## SDKs & Terraform Providers for Your API | Speakeasy
+ - [https://speakeasyapi.dev](https://speakeasyapi.dev)
+ - date published: 2024-05-06T18:18:35.350956+00:00
+ - user: None
+ - tags: []
+
+## Speedlify
+ - [https://www.speedlify.dev](https://www.speedlify.dev)
+ - date published: 2024-05-07T18:48:45.462637+00:00
+ - user: None
+ - tags: []
+
+## spianoDev
+ - [https://www.spiano.dev](https://www.spiano.dev)
+ - date published: 2024-05-07T23:23:15.949872+00:00
+ - user: None
+ - tags: []
+
+## The Spicy Web
+ - [https://social.spicyweb.dev](https://social.spicyweb.dev)
+ - date published: 2024-04-30T02:18:27.343078+00:00
+ - user: None
+ - tags: []
+
+## The Spicy Web: Vanilla has never tasted so hot.
+ - [https://www.spicyweb.dev](https://www.spicyweb.dev)
+ - date published: 2023-10-25T18:42:22.583492+00:00
+ - user: None
+ - tags: []
+
+## SpinKube
+ - [https://spinkube.dev](https://spinkube.dev)
+ - date published: 2024-05-04T05:55:58.634825+00:00
+ - user: None
+ - tags: []
+
+## Compile SQL to type-safe code
+ - [https://sqlc.dev](https://sqlc.dev)
+ - date published: 2024-05-08T00:40:22.433465+00:00
+ - user: None
+ - tags: []
+
+## SQLSync
+ - [https://sqlsync.dev](https://sqlsync.dev)
+ - date published: 2023-12-01T17:37:45.763365+00:00
+ - user: None
+ - tags: []
+
+## Sreedev Kodichath
+ - [https://sree.dev](https://sree.dev)
+ - date published: 2024-05-09T08:01:29.145632+00:00
+ - user: None
+ - tags: []
+
+## Akkoma
+ - [https://fedi.srijan.dev](https://fedi.srijan.dev)
+ - date published: 2024-04-30T06:11:48.075079+00:00
+ - user: None
+ - tags: []
+
+## Sedat Kapanoglu – Medium
+ - [https://ssg.dev](https://ssg.dev)
+ - date published: 2024-04-16T11:32:34.726324+00:00
+ - user: None
+ - tags: []
+
+## The stacking workflow
+ - [https://stacking.dev](https://stacking.dev)
+ - date published: 2024-04-29T07:45:39.225701+00:00
+ - user: None
+ - tags: []
+
+## starter.dev - Awesome starter kits!
+ - [https://starter.dev](https://starter.dev)
+ - date published: 2024-04-30T07:11:15.969337+00:00
+ - user: None
+ - tags: []
+
+## Starter AI
+ - [https://www.starterai.dev](https://www.starterai.dev)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Stefan Bogdanović - Software Engineer
+ - [https://stefanbogdanovic.dev](https://stefanbogdanovic.dev)
+ - date published: 2024-05-09T08:25:55.807857+00:00
+ - user: None
+ - tags: []
+
+## Stefan Zweifel • Full Stack Developer
+ - [https://stefanzweifel.dev](https://stefanzweifel.dev)
+ - date published: 2024-05-11T10:10:10.523801+00:00
+ - user: None
+ - tags: []
+
+## stephane.dev
+ - [https://stephane.dev](https://stephane.dev)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## stephfh.dev
+ - [https://stephfh.dev](https://stephfh.dev)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://stilwell.dev](https://stilwell.dev)
  - date published: 2024-05-11T10:10:02.332662+00:00
@@ -199,6 +470,12 @@
 ## Tamagui — React Native + Web UI kit
  - [https://tamagui.dev](https://tamagui.dev)
  - date published: 2023-10-25T18:42:39.860419+00:00
+ - user: None
+ - tags: []
+
+## Tandoor Recipes
+ - [https://docs.tandoor.dev](https://docs.tandoor.dev)
+ - date published: 2024-05-18T18:25:40.247941+00:00
  - user: None
  - tags: []
 
@@ -5719,282 +5996,6 @@
 ## Department of Industrial Engineering & Operations Research — UC Berkeley - UC Berkeley IEOR Department - Industrial Engineering & Operations Research
  - [https://ieor.berkeley.edu](https://ieor.berkeley.edu)
  - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## EECS Instructional Support Group Home Page
- - [https://inst.eecs.berkeley.edu](https://inst.eecs.berkeley.edu)
- - date published: 2023-10-25T18:47:27.815351+00:00
- - user: None
- - tags: []
-
-## IRIS News | Instructional & Research Information Systems
- - [http://iris.eecs.berkeley.edu](http://iris.eecs.berkeley.edu)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## UC Berkeley Production
- - [https://kaf.berkeley.edu](https://kaf.berkeley.edu)
- - date published: 2024-05-07T23:01:39.084936+00:00
- - user: None
- - tags: []
-
-## Home | Lab11
- - [https://lab11.eecs.berkeley.edu](https://lab11.eecs.berkeley.edu)
- - date published: 2024-05-04T15:30:48.462349+00:00
- - user: None
- - tags: []
-
-## Berkeley Law
- - [https://lawcat.berkeley.edu](https://lawcat.berkeley.edu)
- - date published: 2024-02-24T18:23:14.119719+00:00
- - user: None
- - tags: []
-
-## Welcome to the UC Berkeley Library
- - [https://library.berkeley.edu](https://library.berkeley.edu)
- - date published: 2024-04-30T03:19:58.218251+00:00
- - user: None
- - tags: []
-
-## Home | LSBE
- - [https://lsbe.berkeley.edu](https://lsbe.berkeley.edu)
- - date published: 2024-04-30T03:20:11.669152+00:00
- - user: None
- - tags: []
-
-## UCB Mathematics | Department of Mathematics at University of California Berkeley
- - [https://math.berkeley.edu](https://math.berkeley.edu)
- - date published: 2023-10-25T18:47:32.688694+00:00
- - user: None
- - tags: []
-
-## Executive MBA  | Berkeley Haas
- - [http://mbaforexecs.haas.berkeley.edu](http://mbaforexecs.haas.berkeley.edu)
- - date published: 2024-04-30T03:20:29.861892+00:00
- - user: None
- - tags: []
-
-## Full-Time MBA Program | Berkeley Haas
- - [https://mba.haas.berkeley.edu](https://mba.haas.berkeley.edu)
- - date published: 2024-04-30T03:20:27.794210+00:00
- - user: None
- - tags: []
-
-## Home - UC Berkeley Mechanical Engineering
- - [https://me.berkeley.edu](https://me.berkeley.edu)
- - date published: 2024-05-12T05:17:06.301509+00:00
- - user: None
- - tags: []
-
-## Home - Berkeley M.E.T. | Management, Entrepreneurship, & Technology
- - [http://met.berkeley.edu](http://met.berkeley.edu)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Master of Financial Engineering Program | Berkeley Haas
- - [http://mfe.berkeley.edu](http://mfe.berkeley.edu)
- - date published: 2024-04-30T03:25:36.098108+00:00
- - user: None
- - tags: []
-
-## Materials Science & Engineering
- - [https://mse.berkeley.edu](https://mse.berkeley.edu)
- - date published: 2022-08-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## UC Berkeley Rausser College of Natural Resources
- - [https://nature.berkeley.edu](https://nature.berkeley.edu)
- - date published: 2023-11-07T06:24:12.895605+00:00
- - user: None
- - tags: []
-
-## Berkeley News | Berkeley
- - [https://news.berkeley.edu](https://news.berkeley.edu)
- - date published: 2023-10-25T18:47:36.594729+00:00
- - user: None
- - tags: []
-
-## Newsroom | Haas News | Berkeley Haas
- - [https://newsroom.haas.berkeley.edu](https://newsroom.haas.berkeley.edu)
- - date published: 2023-10-25T18:47:42.073714+00:00
- - user: None
- - tags: []
-
-## Home | Open Berkeley
- - [https://open.berkeley.edu](https://open.berkeley.edu)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Office for the Prevention of Harassment & Discrimination
- - [https://ophd.berkeley.edu](https://ophd.berkeley.edu)
- - date published: 2024-04-30T03:18:04.437102+00:00
- - user: None
- - tags: []
-
-## UC Berkeley School of Optometry
- - [https://optometry.berkeley.edu](https://optometry.berkeley.edu)
- - date published: 2023-12-02T21:50:54.268970+00:00
- - user: None
- - tags: []
-
-## Home - Adept Lab at UCBerkeley
- - [https://pbs.cs.berkeley.edu](https://pbs.cs.berkeley.edu)
- - date published: 2023-10-25T18:47:55.838189+00:00
- - user: None
- - tags: []
-
-## People @ EECS at UC Berkeley
- - [https://people.eecs.berkeley.edu](https://people.eecs.berkeley.edu)
- - date published: 2023-10-25T18:47:59.063312+00:00
- - user: None
- - tags: []
-
-## Hello World
- - [https://people.ischool.berkeley.edu](https://people.ischool.berkeley.edu)
- - date published: 2023-10-31T04:18:44.290260+00:00
- - user: None
- - tags: []
-
-## Ptolemy Project Home Page
- - [https://ptolemy.berkeley.edu](https://ptolemy.berkeley.edu)
- - date published: 2023-10-25T18:48:03.786652+00:00
- - user: None
- - tags: []
-
-## Ptolemy Project Home Page
- - [http://ptolemy.eecs.berkeley.edu](http://ptolemy.eecs.berkeley.edu)
- - date published: 2024-04-30T03:26:13.031871+00:00
- - user: None
- - tags: []
-
-## Communications & Public Affairs | Communications & Public Affairs
- - [https://publicaffairs.berkeley.edu](https://publicaffairs.berkeley.edu)
- - date published: 2024-04-30T03:19:52.155020+00:00
- - user: None
- - tags: []
-
-## Robotics and AI Lab @ BAIR
- - [https://rail.eecs.berkeley.edu](https://rail.eecs.berkeley.edu)
- - date published: 2019-12-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Redwood Center for Theoretical Neuroscience
- - [https://redwood.berkeley.edu](https://redwood.berkeley.edu)
- - date published: 2019-09-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## RISELab at UC Berkeley - REAL-TIME INTELLIGENT SECURE EXECUTION
- - [https://rise.cs.berkeley.edu](https://rise.cs.berkeley.edu)
- - date published: 2021-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## SETI@home
- - [https://setiathome.berkeley.edu](https://setiathome.berkeley.edu)
- - date published: 2023-10-25T18:48:06.909632+00:00
- - user: None
- - tags: []
-
-## SETI@home
- - [http://setiathome.ssl.berkeley.edu](http://setiathome.ssl.berkeley.edu)
- - date published: 2024-04-30T03:27:57.598323+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://simons.berkeley.edu](https://simons.berkeley.edu)
- - date published: 2024-05-04T15:31:14.510826+00:00
- - user: None
- - tags: []
-
-## School of Information Sites • sites for the I School community
- - [https://sites.ischool.berkeley.edu](https://sites.ischool.berkeley.edu)
- - date published: 2024-02-26T12:52:56.312090+00:00
- - user: None
- - tags: []
-
-## UC Berkeley Sky Computing – UC Berkeley Computer Science Dept
- - [https://sky.cs.berkeley.edu](https://sky.cs.berkeley.edu)
- - date published: 2024-05-04T15:31:10.029141+00:00
- - user: None
- - tags: []
-
-## Snap! Build Your Own Blocks
- - [https://snap.berkeley.edu](https://snap.berkeley.edu)
- - date published: 2024-04-30T03:18:17.219037+00:00
- - user: None
- - tags: []
-
-## The Soft Walls Project
- - [http://softwalls.eecs.berkeley.edu](http://softwalls.eecs.berkeley.edu)
- - date published: 2013-12-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## University Health Services
- - [https://uhs.berkeley.edu](https://uhs.berkeley.edu)
- - date published: 2024-04-30T03:19:15.085528+00:00
- - user: None
- - tags: []
-
-## Home | Undergraduate Education
- - [https://vcue.berkeley.edu](https://vcue.berkeley.edu)
- - date published: 2024-04-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## UC Berkeley Vision
- - [http://vision.berkeley.edu](http://vision.berkeley.edu)
- - date published: 2024-04-30T03:25:52.728450+00:00
- - user: None
- - tags: []
-
-## Home | Visitor Services
- - [https://visit.berkeley.edu](https://visit.berkeley.edu)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Wikis | EECS Wiki Server
- - [https://wiki.eecs.berkeley.edu](https://wiki.eecs.berkeley.edu)
- - date published: 2024-04-30T03:27:43.570975+00:00
- - user: None
- - tags: []
-
-## Index of /
- - [http://www1.icsi.berkeley.edu](http://www1.icsi.berkeley.edu)
- - date published: 2024-04-28T03:26:46.953639+00:00
- - user: None
- - tags: []
-
-## Home | EECS at UC Berkeley
- - [https://www2.eecs.berkeley.edu](https://www2.eecs.berkeley.edu)
- - date published: 2024-04-30T03:26:00.185920+00:00
- - user: None
- - tags: []
-
-## Home - University of California, Berkeley
- - [https://www.berkeley.edu](https://www.berkeley.edu)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## CS Home - EECS at Berkeley
- - [http://www.cs.berkeley.edu](http://www.cs.berkeley.edu)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - EECS at Berkeley
- - [http://www.eecs.berkeley.edu](http://www.eecs.berkeley.edu)
- - date published: 2024-02-13T00:00:00+00:00
  - user: None
  - tags: []
 

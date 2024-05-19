@@ -1,3 +1,135 @@
+## AI-Powered AI News | Emergent Mind
+ - [https://www.learngpt.com](https://www.learngpt.com)
+ - date published: 2023-10-25T15:44:04.488107+00:00
+ - user: None
+ - tags: []
+
+## Learning by Shipping
+ - [https://blog.learningbyshipping.com](https://blog.learningbyshipping.com)
+ - date published: 2024-05-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hardcore Software by Steven Sinofsky | Substack
+ - [https://hardcoresoftware.learningbyshipping.com](https://hardcoresoftware.learningbyshipping.com)
+ - date published: 2023-10-25T15:44:07.575535+00:00
+ - user: None
+ - tags: []
+
+## Learning Design Voices | Perspectives from the Margins
+ - [https://learningdesignvoices.com](https://learningdesignvoices.com)
+ - date published: 2024-05-02T13:57:16.015814+00:00
+ - user: None
+ - tags: []
+
+## A World of Learning Through Play
+ - [https://learningthroughplay.com](https://learningthroughplay.com)
+ - date published: 2024-05-11T08:48:58.667408+00:00
+ - user: None
+ - tags: []
+
+## Learning to Cook Food
+ - [https://www.learningtocookfood.com](https://www.learningtocookfood.com)
+ - date published: 2023-12-20T21:30:27.994041+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Bandolier: A Learn JavaScript the Hard Way Project
+ - [https://bandolier.learnjsthehardway.com](https://bandolier.learnjsthehardway.com)
+ - date published: 2024-05-04T12:12:42.909080+00:00
+ - user: None
+ - tags: []
+
+## Learn Code the Hard Way
+ - [https://learnjsthehardway.com](https://learnjsthehardway.com)
+ - date published: 2023-10-25T15:44:09.394971+00:00
+ - user: None
+ - tags: []
+
+## Learn Modern C++
+ - [https://learnmoderncpp.com](https://learnmoderncpp.com)
+ - date published: 2023-12-26T08:18:03+00:00
+ - user: None
+ - tags: []
+
+## Learn Node
+ - [https://learnnode.com](https://learnnode.com)
+ - date published: 2024-05-06T14:15:23.127386+00:00
+ - user: None
+ - tags: []
+
+## Learn OpenGL, extensive tutorial resource for learning Modern OpenGL
+ - [https://learnopengl.com](https://learnopengl.com)
+ - date published: 2024-03-04T10:49:03+00:00
+ - user: rumpel
+ - tags: []
+
+## Learn OpenGL, extensive tutorial resource for learning Modern OpenGL
+ - [http://www.learnopengl.com](http://www.learnopengl.com)
+ - date published: 2024-05-09T07:10:30.061734+00:00
+ - user: None
+ - tags: []
+
+## learn's Blog
+ - [https://www.learnrepo.com](https://www.learnrepo.com)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## HOME | Learn Self Publishing
+ - [https://www.learnselfpublishing.com](https://www.learnselfpublishing.com)
+ - date published: 2024-04-29T03:11:37.970835+00:00
+ - user: None
+ - tags: []
+
+## Learn TLA+ — Learn TLA+
+ - [https://learntla.com](https://learntla.com)
+ - date published: 2023-10-25T15:44:15.064986+00:00
+ - user: None
+ - tags: []
+
+## Learn to Podcast
+ - [https://learntopod.com](https://learntopod.com)
+ - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Learn X in Y Minutes: Scenic Programming Language Tours
+ - [https://learnxinyminutes.com](https://learnxinyminutes.com)
+ - date published: 2023-10-25T15:44:16.698078+00:00
+ - user: None
+ - tags: []
+
+## Learn You a Haskell for Great Good!
+ - [http://learnyouahaskell.com](http://learnyouahaskell.com)
+ - date published: 2024-05-08T11:30:13.503563+00:00
+ - user: None
+ - tags: []
+
+## KB Home - Knowledge Base
+ - [https://kb.leaseweb.com](https://kb.leaseweb.com)
+ - date published: 2024-05-01T05:49:56.096396+00:00
+ - user: None
+ - tags: []
+
+## Leaseweb | Global Hosted Infrastructure (IaaS) and Cloud Solutions
+ - [https://www.leaseweb.com](https://www.leaseweb.com)
+ - date published: 2024-05-01T06:01:36.817100+00:00
+ - user: None
+ - tags: []
+
+## leastprivilege.com
+ - [http://leastprivilege.com](http://leastprivilege.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wynajem długoterminowy | Leasys
+ - [https://www.leasys.com](https://www.leasys.com)
+ - date published: 2024-05-10T04:34:15.561652+00:00
+ - user: None
+ - tags: []
+
 ## Leatherman | Multi-Tools, Knives, & Pocket Tools
  - [https://www.leatherman.com](https://www.leatherman.com)
  - date published: 2024-05-12T05:38:02.791566+00:00
@@ -2836,6 +2968,12 @@
  - user: None
  - tags: ['tech news']
 
+## Life with Janet
+ - [https://lifewithjanet.com](https://lifewithjanet.com)
+ - date published: 2024-05-18T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
 ## LifeZette
  - [https://www.lifezette.com](https://www.lifezette.com)
  - date published: 2023-10-25T15:46:52.490058+00:00
@@ -5670,6 +5808,12 @@
  - user: None
  - tags: []
 
+## LMGTFY - Let Me Google That For You
+ - [http://lmgtfy.com](http://lmgtfy.com)
+ - date published: 2024-05-18T02:42:14.816651+00:00
+ - user: None
+ - tags: []
+
 ## Last Mile Networks
  - [https://www.lmncg.com](https://www.lmncg.com)
  - date published: 2024-05-01T05:00:56.800223+00:00
@@ -5853,150 +5997,6 @@
 ## LocalDatabase
  - [https://www.localdatabase.com](https://www.localdatabase.com)
  - date published: 2024-05-07T13:48:41.830126+00:00
- - user: None
- - tags: []
-
-## Your Top Choice Dentist San Antonio | Local Dental
- - [https://localdentalsa.com](https://localdentalsa.com)
- - date published: 2024-01-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## LocalCryptos
- - [https://localethereum.com](https://localethereum.com)
- - date published: 2024-05-01T06:17:26.664659+00:00
- - user: None
- - tags: []
-
-## Local Fit Seattle | Capitol Hill Personal Trainers & Fitness Classes
- - [https://localfitseattle.com](https://localfitseattle.com)
- - date published: 2024-05-10T04:57:02.191797+00:00
- - user: None
- - tags: []
-
-## Local Fit Seattle | Capitol Hill Personal Trainers & Fitness Classes
- - [https://www.localfitseattle.com](https://www.localfitseattle.com)
- - date published: 2023-12-11T10:57:02.607825+00:00
- - user: None
- - tags: ['personal']
-
-## Local Green Fees- the United States' definitive green fee directory
- - [http://www.localgreenfees.com](http://www.localgreenfees.com)
- - date published: 2024-05-10T05:47:37.203240+00:00
- - user: None
- - tags: []
-
-## Gannett Media Solutions | LocaliQ
- - [https://newjersey.localiq.com](https://newjersey.localiq.com)
- - date published: 2024-05-11T11:31:53.516647+00:00
- - user: None
- - tags: []
-
-## Events Calendar - Harvard SEAS
- - [http://harvardseas.enterprise.localist.com](http://harvardseas.enterprise.localist.com)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Events Calendar
- - [https://utsouthwestern.enterprise.localist.com](https://utsouthwestern.enterprise.localist.com)
- - date published: 2024-05-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Localist: Online Event Calendar
- - [https://www.localist.com](https://www.localist.com)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Web-Apps und Websites übersetzen – Localize
- - [https://cdn.localizejs.com](https://cdn.localizejs.com)
- - date published: 2024-04-28T05:06:58.443637+00:00
- - user: None
- - tags: []
-
-## Locally Optimistic
- - [https://locallyoptimistic.com](https://locallyoptimistic.com)
- - date published: 2024-05-04T07:55:49.376140+00:00
- - user: None
- - tags: []
-
-## Events from May 3 – May 10 – Local News 8 Events
- - [https://events.localnews8.com](https://events.localnews8.com)
- - date published: 2024-05-04T13:00:21.914668+00:00
- - user: None
- - tags: []
-
-## EU Notice | KIDK-LocalNews8
- - [https://jobs.localnews8.com](https://jobs.localnews8.com)
- - date published: 2024-05-04T13:00:33.873178+00:00
- - user: None
- - tags: []
-
-## Home - LocalNews8.com | News3Now.com | KXPI.com - KIFI
- - [https://localnews8.com](https://localnews8.com)
- - date published: 2023-12-07T14:49:54.303544+00:00
- - user: None
- - tags: []
-
-## Cheap International Calls | Localphone
- - [https://www.localphone.com](https://www.localphone.com)
- - date published: 2024-05-04T09:18:03.823038+00:00
- - user: None
- - tags: []
-
-## ConservativeNerds
- - [https://conservativenerds.locals.com](https://conservativenerds.locals.com)
- - date published: 2023-12-21T11:34:10+00:00
- - user: rumpel
- - tags: ['the right wing']
-
-## Attention Required! | Cloudflare
- - [https://linux.locals.com](https://linux.locals.com)
- - date published: 2024-05-04T15:45:34.525664+00:00
- - user: None
- - tags: []
-
-## locals
- - [https://locals.com](https://locals.com)
- - date published: 2024-04-22T20:42:06+00:00
- - user: rumpel
- - tags: ['social media', 'monetization']
-
-## Attention Required! | Cloudflare
- - [https://lunduke.locals.com](https://lunduke.locals.com)
- - date published: 2023-10-27T11:55:26.064550+00:00
- - user: None
- - tags: []
-
-## Attention Required! | Cloudflare
- - [https://ngo.locals.com](https://ngo.locals.com)
- - date published: 2023-10-25T15:49:08.719216+00:00
- - user: None
- - tags: []
-
-## Attention Required! | Cloudflare
- - [http://petesantilli.locals.com](http://petesantilli.locals.com)
- - date published: 2024-05-08T03:36:09.833793+00:00
- - user: None
- - tags: []
-
-## The Rubin Report
- - [https://rubinreport.locals.com](https://rubinreport.locals.com)
- - date published: 2023-11-17T00:00:00+00:00
- - user: rumpel
- - tags: ['dave rubin', 'youtuber']
-
-## Attention Required! | Cloudflare
- - [https://russellbrand.locals.com](https://russellbrand.locals.com)
- - date published: 2024-05-12T05:17:19.027933+00:00
- - user: None
- - tags: []
-
-## Attention Required! | Cloudflare
- - [https://sinfest.locals.com](https://sinfest.locals.com)
- - date published: 2024-05-11T10:48:05.944947+00:00
  - user: None
  - tags: []
 

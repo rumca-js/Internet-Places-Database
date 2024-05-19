@@ -1,3 +1,87 @@
+## The Christian Science Monitor - PARS
+ - [http://www.csmonitorreprints.com](http://www.csmonitorreprints.com)
+ - date published: 2024-05-08T07:05:07.853626+00:00
+ - user: None
+ - tags: ['christian']
+
+## SAML Authentication Request
+ - [https://vcu.csod.com](https://vcu.csod.com)
+ - date published: 2024-05-07T22:23:25.609685+00:00
+ - user: None
+ - tags: []
+
+## CSO Online | Security at the speed of business
+ - [https://csoonline.com](https://csoonline.com)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - CSO US
+ - [https://us.resources.csoonline.com](https://us.resources.csoonline.com)
+ - date published: 2022-06-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CSO Online
+ - [https://www.csoonline.com](https://www.csoonline.com)
+ - date published: 2023-10-25T13:38:21.687530+00:00
+ - user: None
+ - tags: []
+
+## Home | Csound Community
+ - [https://csound.com](https://csound.com)
+ - date published: 2023-10-25T13:38:23.183888+00:00
+ - user: None
+ - tags: []
+
+## The Csound FLOSS Manual
+ - [https://flossmanual.csound.com](https://flossmanual.csound.com)
+ - date published: 2024-05-08T07:05:27.421185+00:00
+ - user: None
+ - tags: []
+
+## Csound Community
+ - [https://forum.csound.com](https://forum.csound.com)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Csound Web-IDE
+ - [https://ide.csound.com](https://ide.csound.com)
+ - date published: 2024-05-08T07:05:26.598782+00:00
+ - user: None
+ - tags: []
+
+## cSounds.com: The Csound Community
+ - [http://csounds.com](http://csounds.com)
+ - date published: 2024-05-07T15:46:00.669321+00:00
+ - user: None
+ - tags: []
+
+## cSounds.com: The Csound Community
+ - [http://www.csounds.com](http://www.csounds.com)
+ - date published: 2024-04-28T03:58:31.243093+00:00
+ - user: None
+ - tags: []
+
+## Center for the Study of Partisanship and Ideology | CSPI | Substack
+ - [https://www.cspicenter.com](https://www.cspicenter.com)
+ - date published: 2023-10-25T13:38:26.650997+00:00
+ - user: None
+ - tags: []
+
+## Web Dev & Author
+ - [https://www.csrhymes.com](https://www.csrhymes.com)
+ - date published: 2024-05-08T00:40:20.104878+00:00
+ - user: None
+ - tags: []
+
+## CSS Artist
+ - [https://www.cssartist.com](https://www.cssartist.com)
+ - date published: 2024-04-25T21:21:21.367151+00:00
+ - user: None
+ - tags: ['personal']
+
 ## The Cascade
  - [https://www.csscade.com](https://www.csscade.com)
  - date published: 2024-05-06T00:00:00+00:00
@@ -5915,90 +5999,6 @@
 ## defective yeti
  - [http://www.defectiveyeti.com](http://www.defectiveyeti.com)
  - date published: 2024-05-14T03:19:38.666343+00:00
- - user: None
- - tags: []
-
-## Defector | The last good website.
- - [https://defector.com](https://defector.com)
- - date published: 2023-10-25T13:48:09.544452+00:00
- - user: None
- - tags: []
-
-## Defector | The last good website.
- - [https://lede-admin.defector.com](https://lede-admin.defector.com)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Defector Store
- - [https://defectorstore.com](https://defectorstore.com)
- - date published: 2024-05-01T04:31:55.281154+00:00
- - user: None
- - tags: []
-
-## Defence Blog
- - [https://defence-blog.com](https://defence-blog.com)
- - date published: 2023-06-27T15:28:10+00:00
- - user: None
- - tags: []
-
-## Defence IQ
- - [https://www.defenceiq.com](https://www.defenceiq.com)
- - date published: 2024-05-07T23:37:23.948422+00:00
- - user: None
- - tags: []
-
-## Військовий портал Defense Express - все про військову справу
- - [https://defence-ua.com](https://defence-ua.com)
- - date published: 2024-05-01T04:32:02.435694+00:00
- - user: None
- - tags: []
-
-## Defense Express - Ukraine military industry, technology, equipment
- - [https://en.defence-ua.com](https://en.defence-ua.com)
- - date published: 2023-12-25T22:35:54.461715+00:00
- - user: None
- - tags: []
-
-## Defense Express
- - [https://old.defence-ua.com](https://old.defence-ua.com)
- - date published: 2024-05-01T04:32:05.333657+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.defensehere.com](https://www.defensehere.com)
- - date published: 2022-01-12T15:32:07+00:00
- - user: None
- - tags: []
-
-## Defense News Arabic
- - [https://arabic.defensenews.com](https://arabic.defensenews.com)
- - date published: 2024-05-12T07:29:38.324627+00:00
- - user: None
- - tags: []
-
-## Sightline Media Group Events
- - [https://events.defensenews.com](https://events.defensenews.com)
- - date published: 2024-05-11T11:39:11.700966+00:00
- - user: None
- - tags: []
-
-## 100 Most Influential | Defense News, News about defense programs, business, and technology
- - [https://people.defensenews.com](https://people.defensenews.com)
- - date published: 2024-04-05T18:56:04.180759+00:00
- - user: None
- - tags: []
-
-## Defense News, Covering the politics, business and technology of defense | Defense News
- - [https://www.defensenews.com](https://www.defensenews.com)
- - date published: 2023-10-31T05:18:09.856934+00:00
- - user: None
- - tags: ['military news']
-
-## Defense One
- - [https://www.defenseone.com](https://www.defenseone.com)
- - date published: 2023-10-25T13:48:12.931984+00:00
  - user: None
  - tags: []
 

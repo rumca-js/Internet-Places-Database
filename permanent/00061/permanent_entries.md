@@ -1,3 +1,279 @@
+## EECS Instructional Support Group Home Page
+ - [https://inst.eecs.berkeley.edu](https://inst.eecs.berkeley.edu)
+ - date published: 2023-10-25T18:47:27.815351+00:00
+ - user: None
+ - tags: []
+
+## IRIS News | Instructional & Research Information Systems
+ - [http://iris.eecs.berkeley.edu](http://iris.eecs.berkeley.edu)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## UC Berkeley Production
+ - [https://kaf.berkeley.edu](https://kaf.berkeley.edu)
+ - date published: 2024-05-07T23:01:39.084936+00:00
+ - user: None
+ - tags: []
+
+## Home | Lab11
+ - [https://lab11.eecs.berkeley.edu](https://lab11.eecs.berkeley.edu)
+ - date published: 2024-05-04T15:30:48.462349+00:00
+ - user: None
+ - tags: []
+
+## Berkeley Law
+ - [https://lawcat.berkeley.edu](https://lawcat.berkeley.edu)
+ - date published: 2024-02-24T18:23:14.119719+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the UC Berkeley Library
+ - [https://library.berkeley.edu](https://library.berkeley.edu)
+ - date published: 2024-04-30T03:19:58.218251+00:00
+ - user: None
+ - tags: []
+
+## Home | LSBE
+ - [https://lsbe.berkeley.edu](https://lsbe.berkeley.edu)
+ - date published: 2024-04-30T03:20:11.669152+00:00
+ - user: None
+ - tags: []
+
+## UCB Mathematics | Department of Mathematics at University of California Berkeley
+ - [https://math.berkeley.edu](https://math.berkeley.edu)
+ - date published: 2023-10-25T18:47:32.688694+00:00
+ - user: None
+ - tags: []
+
+## Executive MBA  | Berkeley Haas
+ - [http://mbaforexecs.haas.berkeley.edu](http://mbaforexecs.haas.berkeley.edu)
+ - date published: 2024-04-30T03:20:29.861892+00:00
+ - user: None
+ - tags: []
+
+## Full-Time MBA Program | Berkeley Haas
+ - [https://mba.haas.berkeley.edu](https://mba.haas.berkeley.edu)
+ - date published: 2024-04-30T03:20:27.794210+00:00
+ - user: None
+ - tags: []
+
+## Home - UC Berkeley Mechanical Engineering
+ - [https://me.berkeley.edu](https://me.berkeley.edu)
+ - date published: 2024-05-12T05:17:06.301509+00:00
+ - user: None
+ - tags: []
+
+## Home - Berkeley M.E.T. | Management, Entrepreneurship, & Technology
+ - [http://met.berkeley.edu](http://met.berkeley.edu)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Master of Financial Engineering Program | Berkeley Haas
+ - [http://mfe.berkeley.edu](http://mfe.berkeley.edu)
+ - date published: 2024-04-30T03:25:36.098108+00:00
+ - user: None
+ - tags: []
+
+## Materials Science & Engineering
+ - [https://mse.berkeley.edu](https://mse.berkeley.edu)
+ - date published: 2022-08-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## UC Berkeley Rausser College of Natural Resources
+ - [https://nature.berkeley.edu](https://nature.berkeley.edu)
+ - date published: 2023-11-07T06:24:12.895605+00:00
+ - user: None
+ - tags: []
+
+## Berkeley News | Berkeley
+ - [https://news.berkeley.edu](https://news.berkeley.edu)
+ - date published: 2023-10-25T18:47:36.594729+00:00
+ - user: None
+ - tags: []
+
+## Newsroom | Haas News | Berkeley Haas
+ - [https://newsroom.haas.berkeley.edu](https://newsroom.haas.berkeley.edu)
+ - date published: 2023-10-25T18:47:42.073714+00:00
+ - user: None
+ - tags: []
+
+## Home | Open Berkeley
+ - [https://open.berkeley.edu](https://open.berkeley.edu)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Office for the Prevention of Harassment & Discrimination
+ - [https://ophd.berkeley.edu](https://ophd.berkeley.edu)
+ - date published: 2024-04-30T03:18:04.437102+00:00
+ - user: None
+ - tags: []
+
+## UC Berkeley School of Optometry
+ - [https://optometry.berkeley.edu](https://optometry.berkeley.edu)
+ - date published: 2023-12-02T21:50:54.268970+00:00
+ - user: None
+ - tags: []
+
+## Home - Adept Lab at UCBerkeley
+ - [https://pbs.cs.berkeley.edu](https://pbs.cs.berkeley.edu)
+ - date published: 2023-10-25T18:47:55.838189+00:00
+ - user: None
+ - tags: []
+
+## People @ EECS at UC Berkeley
+ - [https://people.eecs.berkeley.edu](https://people.eecs.berkeley.edu)
+ - date published: 2023-10-25T18:47:59.063312+00:00
+ - user: None
+ - tags: []
+
+## Hello World
+ - [https://people.ischool.berkeley.edu](https://people.ischool.berkeley.edu)
+ - date published: 2023-10-31T04:18:44.290260+00:00
+ - user: None
+ - tags: []
+
+## Ptolemy Project Home Page
+ - [https://ptolemy.berkeley.edu](https://ptolemy.berkeley.edu)
+ - date published: 2023-10-25T18:48:03.786652+00:00
+ - user: None
+ - tags: []
+
+## Ptolemy Project Home Page
+ - [http://ptolemy.eecs.berkeley.edu](http://ptolemy.eecs.berkeley.edu)
+ - date published: 2024-04-30T03:26:13.031871+00:00
+ - user: None
+ - tags: []
+
+## Communications & Public Affairs | Communications & Public Affairs
+ - [https://publicaffairs.berkeley.edu](https://publicaffairs.berkeley.edu)
+ - date published: 2024-04-30T03:19:52.155020+00:00
+ - user: None
+ - tags: []
+
+## Robotics and AI Lab @ BAIR
+ - [https://rail.eecs.berkeley.edu](https://rail.eecs.berkeley.edu)
+ - date published: 2019-12-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Redwood Center for Theoretical Neuroscience
+ - [https://redwood.berkeley.edu](https://redwood.berkeley.edu)
+ - date published: 2019-09-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## RISELab at UC Berkeley - REAL-TIME INTELLIGENT SECURE EXECUTION
+ - [https://rise.cs.berkeley.edu](https://rise.cs.berkeley.edu)
+ - date published: 2021-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SETI@home
+ - [https://setiathome.berkeley.edu](https://setiathome.berkeley.edu)
+ - date published: 2023-10-25T18:48:06.909632+00:00
+ - user: None
+ - tags: []
+
+## SETI@home
+ - [http://setiathome.ssl.berkeley.edu](http://setiathome.ssl.berkeley.edu)
+ - date published: 2024-04-30T03:27:57.598323+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://simons.berkeley.edu](https://simons.berkeley.edu)
+ - date published: 2024-05-04T15:31:14.510826+00:00
+ - user: None
+ - tags: []
+
+## School of Information Sites • sites for the I School community
+ - [https://sites.ischool.berkeley.edu](https://sites.ischool.berkeley.edu)
+ - date published: 2024-02-26T12:52:56.312090+00:00
+ - user: None
+ - tags: []
+
+## UC Berkeley Sky Computing – UC Berkeley Computer Science Dept
+ - [https://sky.cs.berkeley.edu](https://sky.cs.berkeley.edu)
+ - date published: 2024-05-04T15:31:10.029141+00:00
+ - user: None
+ - tags: []
+
+## Snap! Build Your Own Blocks
+ - [https://snap.berkeley.edu](https://snap.berkeley.edu)
+ - date published: 2024-04-30T03:18:17.219037+00:00
+ - user: None
+ - tags: []
+
+## The Soft Walls Project
+ - [http://softwalls.eecs.berkeley.edu](http://softwalls.eecs.berkeley.edu)
+ - date published: 2013-12-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## University Health Services
+ - [https://uhs.berkeley.edu](https://uhs.berkeley.edu)
+ - date published: 2024-04-30T03:19:15.085528+00:00
+ - user: None
+ - tags: []
+
+## Home | Undergraduate Education
+ - [https://vcue.berkeley.edu](https://vcue.berkeley.edu)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## UC Berkeley Vision
+ - [http://vision.berkeley.edu](http://vision.berkeley.edu)
+ - date published: 2024-04-30T03:25:52.728450+00:00
+ - user: None
+ - tags: []
+
+## Home | Visitor Services
+ - [https://visit.berkeley.edu](https://visit.berkeley.edu)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wikis | EECS Wiki Server
+ - [https://wiki.eecs.berkeley.edu](https://wiki.eecs.berkeley.edu)
+ - date published: 2024-04-30T03:27:43.570975+00:00
+ - user: None
+ - tags: []
+
+## Index of /
+ - [http://www1.icsi.berkeley.edu](http://www1.icsi.berkeley.edu)
+ - date published: 2024-04-28T03:26:46.953639+00:00
+ - user: None
+ - tags: []
+
+## Home | EECS at UC Berkeley
+ - [https://www2.eecs.berkeley.edu](https://www2.eecs.berkeley.edu)
+ - date published: 2024-04-30T03:26:00.185920+00:00
+ - user: None
+ - tags: []
+
+## Home - University of California, Berkeley
+ - [https://www.berkeley.edu](https://www.berkeley.edu)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CS Home - EECS at Berkeley
+ - [http://www.cs.berkeley.edu](http://www.cs.berkeley.edu)
+ - date published: 2024-04-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - EECS at Berkeley
+ - [http://www.eecs.berkeley.edu](http://www.eecs.berkeley.edu)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## ICSI | ICSI
  - [https://www.icsi.berkeley.edu](https://www.icsi.berkeley.edu)
  - date published: 2024-05-08T11:29:33.160545+00:00
@@ -1762,6 +2038,12 @@
 ## Homepage -     CMU - Carnegie Mellon University
  - [https://www.cmu.edu](https://www.cmu.edu)
  - date published: 2023-10-25T18:49:49.835716+00:00
+ - user: None
+ - tags: []
+
+## CMU Contributed Webserver
+ - [https://www.contrib.andrew.cmu.edu](https://www.contrib.andrew.cmu.edu)
+ - date published: 2024-05-18T18:25:26.204784+00:00
  - user: None
  - tags: []
 
@@ -5725,288 +6007,6 @@
 ## Auxiliary Services - Auxiliary Services
  - [https://services.gsu.edu](https://services.gsu.edu)
  - date published: 2024-04-30T04:30:19.316340+00:00
- - user: None
- - tags: []
-
-## Student Financial Services - Georgia State
- - [https://sfs.gsu.edu](https://sfs.gsu.edu)
- - date published: 2024-02-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Student Government Association - Student Engagement
- - [https://sga.gsu.edu](https://sga.gsu.edu)
- - date published: 2024-04-30T04:34:42.137840+00:00
- - user: None
- - tags: []
-
-## Spotlight Programs Board - Student Engagement
- - [https://spotlight.gsu.edu](https://spotlight.gsu.edu)
- - date published: 2024-03-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Staff Council
- - [https://staffcouncil.gsu.edu](https://staffcouncil.gsu.edu)
- - date published: 2024-02-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Student Center - Student Engagement
- - [https://studentcenter.gsu.edu](https://studentcenter.gsu.edu)
- - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Georgia State University - Acalog ACMS™
- - [https://studenthandbook.gsu.edu](https://studenthandbook.gsu.edu)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Georgia State is a national model for student success. #TheStateWay
- - [https://success.gsu.edu](https://success.gsu.edu)
- - date published: 2024-03-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Success Programs at Georgia State - Student Success Programs at Georgia State
- - [https://success.students.gsu.edu](https://success.students.gsu.edu)
- - date published: 2024-04-30T04:31:04.746228+00:00
- - user: None
- - tags: []
-
-## Instructional Innovation & Technology
- - [https://technology.gsu.edu](https://technology.gsu.edu)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## University Research Services & Administration at Georgia State
- - [https://ursa.research.gsu.edu](https://ursa.research.gsu.edu)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Military Outreach
- - [https://veterans.gsu.edu](https://veterans.gsu.edu)
- - date published: 2024-03-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Georgia State University
- - [https://www.gsu.edu](https://www.gsu.edu)
- - date published: 2024-04-30T04:30:35.117432+00:00
- - user: None
- - tags: []
-
-## Accessibility at GW | The George Washington University
- - [https://accessibility.gwu.edu](https://accessibility.gwu.edu)
- - date published: 2024-04-30T04:40:55.913376+00:00
- - user: None
- - tags: []
-
-## Welcome to GW Blogs
- - [https://blogs.gwu.edu](https://blogs.gwu.edu)
- - date published: 2024-05-08T07:36:25.467661+00:00
- - user: None
- - tags: []
-
-## Events Calendar
- - [https://calendar.gwu.edu](https://calendar.gwu.edu)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Accessed Denied | Centraldata | The George Washington University
- - [https://centraldata.gwu.edu](https://centraldata.gwu.edu)
- - date published: 2024-04-30T04:41:09.324376+00:00
- - user: None
- - tags: []
-
-## Office of Communications and Marketing | The George Washington University
- - [https://communications.gwu.edu](https://communications.gwu.edu)
- - date published: 2024-04-30T04:40:54.097518+00:00
- - user: None
- - tags: []
-
-## Office of Ethics, Compliance & Privacy | The George Washington University
- - [https://compliance.gwu.edu](https://compliance.gwu.edu)
- - date published: 2024-04-30T04:41:14.078758+00:00
- - user: None
- - tags: []
-
-## School of Engineering & Applied Science | The George Washington University
- - [https://engineering.gwu.edu](https://engineering.gwu.edu)
- - date published: 2024-04-30T04:41:59.326202+00:00
- - user: None
- - tags: []
-
-## GW Today | The George Washington University
- - [https://gwtoday.gwu.edu](https://gwtoday.gwu.edu)
- - date published: 2024-01-24T17:54:22.593864+00:00
- - user: None
- - tags: []
-
-## Media Relations | The George Washington University
- - [https://mediarelations.gwu.edu](https://mediarelations.gwu.edu)
- - date published: 2024-04-30T04:41:11.660611+00:00
- - user: None
- - tags: []
-
-## The National  Security Archive, at The George Washington University
- - [https://nsarchive2.gwu.edu](https://nsarchive2.gwu.edu)
- - date published: 2024-04-30T04:41:15.848755+00:00
- - user: None
- - tags: []
-
-## Home | National Security Archive
- - [https://nsarchive.gwu.edu](https://nsarchive.gwu.edu)
- - date published: 2023-10-25T18:51:17.562894+00:00
- - user: None
- - tags: []
-
-## Trustworthy AI at GW | The George Washington University
- - [https://trustworthyai.gwu.edu](https://trustworthyai.gwu.edu)
- - date published: 2024-04-30T04:41:58.156066+00:00
- - user: None
- - tags: []
-
-## SEAS Center for Women in Engineering | The George Washington University
- - [https://womenengineers.seas.gwu.edu](https://womenengineers.seas.gwu.edu)
- - date published: 2024-04-30T04:42:02.838801+00:00
- - user: None
- - tags: []
-
-## School of Engineering & Applied Science | The George Washington University
- - [https://www2.seas.gwu.edu](https://www2.seas.gwu.edu)
- - date published: 2023-10-25T18:51:22.184962+00:00
- - user: None
- - tags: []
-
-## Department of Biomedical Engineering | School of Engineering & Applied Science | The George Washington University
- - [https://www.bme.seas.gwu.edu](https://www.bme.seas.gwu.edu)
- - date published: 2024-04-30T04:41:48.549448+00:00
- - user: None
- - tags: []
-
-## Campus Advisories | The George Washington University
- - [http://www.campusadvisories.gwu.edu](http://www.campusadvisories.gwu.edu)
- - date published: 2024-04-30T04:40:59.002765+00:00
- - user: None
- - tags: []
-
-## Department of Civil & Environmental Engineering | School of Engineering & Applied Science | The George Washington University
- - [https://www.cee.seas.gwu.edu](https://www.cee.seas.gwu.edu)
- - date published: 2024-04-30T04:42:10.254627+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science | School of Engineering & Applied Science | The George Washington University
- - [https://www.cs.seas.gwu.edu](https://www.cs.seas.gwu.edu)
- - date published: 2024-04-30T04:41:40.680681+00:00
- - user: None
- - tags: []
-
-## Department of Electrical and Computer Engineering | School of Engineering & Applied Science | The George Washington University
- - [https://www.ece.seas.gwu.edu](https://www.ece.seas.gwu.edu)
- - date published: 2024-04-30T04:41:51.916852+00:00
- - user: None
- - tags: []
-
-## Engineering Management & Systems Engineering | School of Engineering & Applied Science | The George Washington University
- - [https://www.emse.seas.gwu.edu](https://www.emse.seas.gwu.edu)
- - date published: 2024-04-30T04:42:06.718012+00:00
- - user: None
- - tags: []
-
-## The George Washington University
- - [https://www.gwu.edu](https://www.gwu.edu)
- - date published: 2024-04-30T04:40:51.953682+00:00
- - user: None
- - tags: []
-
-## Mechanical & Aerospace Engineering (MAE) | School of Engineering & Applied Science | The George Washington University
- - [https://www.mae.seas.gwu.edu](https://www.mae.seas.gwu.edu)
- - date published: 2024-04-30T04:41:55.739633+00:00
- - user: None
- - tags: []
-
-## School of Engineering & Applied Science | The George Washington University
- - [https://www.seas.gwu.edu](https://www.seas.gwu.edu)
- - date published: 2024-04-30T04:41:44.659276+00:00
- - user: None
- - tags: []
-
-## Admission and Aid - 10 Things About Hamilton - Hamilton College
- - [https://admission.hamilton.edu](https://admission.hamilton.edu)
- - date published: 2024-04-30T04:42:15.856393+00:00
- - user: None
- - tags: []
-
-## PeopleGrove
- - [https://connect.hamilton.edu](https://connect.hamilton.edu)
- - date published: 2024-04-30T04:42:17.052867+00:00
- - user: None
- - tags: []
-
-## A Top Liberal Arts College - homepage - Hamilton College
- - [https://www.hamilton.edu](https://www.hamilton.edu)
- - date published: 2023-10-25T18:51:24.815538+00:00
- - user: None
- - tags: []
-
-## Hampshire College Directory
- - [https://directory.hampshire.edu](https://directory.hampshire.edu)
- - date published: 2024-04-30T04:43:03.950901+00:00
- - user: None
- - tags: []
-
-## What were you made for?
- - [https://explore.hampshire.edu](https://explore.hampshire.edu)
- - date published: 2024-04-30T04:43:10.383827+00:00
- - user: None
- - tags: []
-
-## Faculty | Hampshire College
- - [https://faculty.hampshire.edu](https://faculty.hampshire.edu)
- - date published: 2023-10-25T18:51:31.521956+00:00
- - user: None
- - tags: []
-
-## Hampshire College Intranet
- - [https://intranet.hampshire.edu](https://intranet.hampshire.edu)
- - date published: 2024-04-30T04:43:05.286361+00:00
- - user: None
- - tags: []
-
-## Employment Opportunities
- - [https://jobs.hampshire.edu](https://jobs.hampshire.edu)
- - date published: 2024-04-30T04:43:12.503386+00:00
- - user: None
- - tags: []
-
-## Hampshire College | Hampshire College
- - [https://www.hampshire.edu](https://www.hampshire.edu)
- - date published: 2024-04-30T04:43:07.429905+00:00
- - user: None
- - tags: []
-
-## Hanover College Psychology Department : Psychology Department : Hanover College
- - [http://psych.hanover.edu](http://psych.hanover.edu)
- - date published: 2024-05-07T16:14:41.837417+00:00
- - user: None
- - tags: []
-
-## GOV 2001 in Silico
- - [https://2k1.iq.harvard.edu](https://2k1.iq.harvard.edu)
- - date published: 2024-05-11T11:25:44.444770+00:00
- - user: None
- - tags: []
-
-## Home | University Disability Resources
- - [https://accessibility.harvard.edu](https://accessibility.harvard.edu)
- - date published: 2024-04-30T04:45:49.027356+00:00
  - user: None
  - tags: []
 
