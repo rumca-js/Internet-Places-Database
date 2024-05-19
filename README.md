@@ -46,9 +46,13 @@ Sources:
   <img alt="Meme" src="images/ihavewatched.png" style="width:450px">
 </div>
 
-# Alternative
+# Alternative solutions
 
+[Internet Archive](https://www.archive.org/)
 [Common Crawl](https://commoncrawl.org/)
+[Arxiv](https://arxiv.org/)
+[Anna's Archive](https://annas-archive.org/)
+[Guardian newspaper](https://theguardian.newspapers.com/)
 
 # Files
 
