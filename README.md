@@ -46,6 +46,10 @@ Sources:
   <img alt="Meme" src="images/ihavewatched.png" style="width:450px">
 </div>
 
+# Alternative
+
+[Common Crawl](https://commoncrawl.org/)
+
 # Files
 
 The database is distributed as a set of JSON files. We do not want to store binary data, binary files. SQL files should be fine, but I am going with JSON files for now.
