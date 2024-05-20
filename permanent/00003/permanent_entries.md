@@ -1,3 +1,39 @@
+## Medieval Bestiary : Animals in the Middle Ages
+ - [https://bestiary.ca](https://bestiary.ca)
+ - date published: 2023-10-25T12:03:35.908634+00:00
+ - user: None
+ - tags: ['animals', 'history', 'medieval', 'bestiary']
+
+## Best of France | Experience True France
+ - [https://www.bestoffrance.ca](https://www.bestoffrance.ca)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Buy Bitcoin Canada - Best Cryptocurrency Exchange | Bitbuy®
+ - [https://bitbuy.ca](https://bitbuy.ca)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## BizPaL - PerLE
+ - [https://www.bizpalmanitoba.ca](https://www.bizpalmanitoba.ca)
+ - date published: 2024-04-30T05:32:45.248379+00:00
+ - user: None
+ - tags: []
+
+## Angry Sub-Editor
+ - [http://angrysubeditor.blogspot.ca](http://angrysubeditor.blogspot.ca)
+ - date published: 2024-04-29T03:18:46.130191+00:00
+ - user: None
+ - tags: []
+
+## The Big Mud Puddle
+ - [http://evincarofautumn.blogspot.ca](http://evincarofautumn.blogspot.ca)
+ - date published: 2024-05-08T11:03:51.097414+00:00
+ - user: None
+ - tags: []
+
 ## PhD Talk
  - [http://phdtalk.blogspot.ca](http://phdtalk.blogspot.ca)
  - date published: 2024-05-02T10:13:04.341653+00:00
@@ -1374,6 +1410,12 @@
 ## Writer | Filmmaker • Mailyne K. Briggs
  - [https://www.mailyne.ca](https://www.mailyne.ca)
  - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## First to be published
+ - [https://makevotesequal.ca](https://makevotesequal.ca)
+ - date published: 2024-03-30T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5960,48 +6002,6 @@
 ## Досье - Досье
  - [https://dossier.center](https://dossier.center)
  - date published: 2023-10-25T12:12:24.046539+00:00
- - user: None
- - tags: []
-
-## Лубянская Федерация – ФСБ
- - [https://fsb.dossier.center](https://fsb.dossier.center)
- - date published: 2024-04-30T05:56:48.480434+00:00
- - user: None
- - tags: []
-
-## Список Центра "Досье"
- - [https://peps.dossier.center](https://peps.dossier.center)
- - date published: 2024-04-30T05:56:57.850683+00:00
- - user: None
- - tags: []
-
-## The Enterprise for Society Center (E4S)
- - [http://e4s.center](http://e4s.center)
- - date published: 2024-04-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## GMK Center – центр экспертизы о промышленности и ГМК
- - [https://gmk.center](https://gmk.center)
- - date published: 2023-12-19T20:46:40.065605+00:00
- - user: None
- - tags: []
-
-## The James G. Martin Center for Academic Renewal —
- - [https://www.jamesgmartin.center](https://www.jamesgmartin.center)
- - date published: 2023-10-25T12:12:29.460489+00:00
- - user: None
- - tags: []
-
-## Lviv Art Center
- - [https://www.lvivart.center](https://www.lvivart.center)
- - date published: 2024-05-07T18:39:47.843995+00:00
- - user: None
- - tags: []
-
-## microcenter.com
- - [https://micro.center](https://micro.center)
- - date published: 2024-02-24T20:43:32.587938+00:00
  - user: None
  - tags: []
 
