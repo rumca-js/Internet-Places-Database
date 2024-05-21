@@ -1,3 +1,213 @@
+## LiveJournal: Discover global communities of bloggers who share your unique passions and interests.
+ - [https://www.livejournal.com](https://www.livejournal.com)
+ - date published: 2024-05-01T06:28:15.777890+00:00
+ - user: None
+ - tags: []
+
+## Открытый космос Зеленого кота
+ - [https://zelenyikot.livejournal.com](https://zelenyikot.livejournal.com)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Live.js - One script closer to Designing in the Browser
+ - [https://livejs.com](https://livejs.com)
+ - date published: 2024-05-11T11:09:49.176345+00:00
+ - user: None
+ - tags: []
+
+## LiveMentor — 3 mois pour lancer son projet professionnel
+ - [https://www.livementor.com](https://www.livementor.com)
+ - date published: 2024-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Livemint ePaper: Business News Paper, Business ePaper Online
+ - [https://epaper.livemint.com](https://epaper.livemint.com)
+ - date published: 2024-05-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Lifestyle: Latest Lifestyle News, Fashion, Trend News, Health & Beauty Tips – Mint Lounge
+ - [https://lifestyle.livemint.com](https://lifestyle.livemint.com)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Business News, Live Stock Market News, Finance & Economy News ! MintGenie
+ - [https://mintgenie.livemint.com](https://mintgenie.livemint.com)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Business News Today: Read Latest Business News, Live India Share Market News, Finance & Economy News | Mint
+ - [https://www.livemint.com](https://www.livemint.com)
+ - date published: 2023-10-30T19:00:02.063732+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://www.liveoakbank.com](https://www.liveoakbank.com)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Live Phish Shows, Albums and Songs available for download and streaming.
+ - [https://www.livephish.com](https://www.livephish.com)
+ - date published: 2024-05-08T10:00:28.229950+00:00
+ - user: None
+ - tags: []
+
+## LiveRamp | The Data Collaboration Platform of Choice
+ - [https://liveramp.com](https://liveramp.com)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## OptOuts
+ - [https://optout.liveramp.com](https://optout.liveramp.com)
+ - date published: 2024-04-29T04:15:48.756270+00:00
+ - user: None
+ - tags: []
+
+## LiveRecover | Recover 6x More Checkouts with Live Agents
+ - [https://liverecover.com](https://liverecover.com)
+ - date published: 2024-05-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Livermore Vine
+ - [https://www.livermorevine.com](https://www.livermorevine.com)
+ - date published: 2024-05-06T22:28:22.364303+00:00
+ - user: None
+ - tags: []
+
+## Live Rugby Streaming Schedules and TV Guide - Live Rugby TV
+ - [https://www.liverugbytv.com](https://www.liverugbytv.com)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Live Science | Latest science news and articles for those with curious minds
+ - [https://www.livescience.com](https://www.livescience.com)
+ - date published: 2023-10-25T10:10:25.617283+00:00
+ - user: None
+ - tags: []
+
+## Live Slow Ride Fast
+ - [https://www.liveslowridefast.com](https://www.liveslowridefast.com)
+ - date published: 2024-05-12T06:26:49.257140+00:00
+ - user: None
+ - tags: []
+
+## Live Soccer TV - Online Streaming and TV Listings, Live Football Scores, Fixtures, Tables, Results, News, Pubs and Video Highlights
+ - [https://cdn.livesoccertv.com](https://cdn.livesoccertv.com)
+ - date published: 2024-05-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Live Soccer TV - Online Streaming and TV Listings, Live Football Scores, Fixtures, Tables, Results, News, Pubs and Video Highlights
+ - [https://master.livesoccertv.com](https://master.livesoccertv.com)
+ - date published: 2024-05-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Live Soccer TV - Online Streaming and TV Listings, Live Football Scores, Fixtures, Tables, Results, News, Pubs and Video Highlights
+ - [https://www.livesoccertv.com](https://www.livesoccertv.com)
+ - date published: 2024-03-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Live Sport TV - Streaming and TV Schedules
+ - [https://www.livesporttv.com](https://www.livesporttv.com)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Stream Live Video Online | Vimeo Livestream
+ - [http://livestream.com](http://livestream.com)
+ - date published: 2024-05-07T19:22:41.883850+00:00
+ - user: None
+ - tags: []
+
+## Stream Live Video Online | Vimeo Livestream
+ - [http://new.livestream.com](http://new.livestream.com)
+ - date published: 2024-05-07T14:42:49.835044+00:00
+ - user: None
+ - tags: []
+
+## Live Tennis TV
+ - [https://www.livetennistv.com](https://www.livetennistv.com)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Coming up on Live to your Living Room | Online Livestream Gig
+ - [https://livetoyourlivingroom.com](https://livetoyourlivingroom.com)
+ - date published: 2020-04-09T16:22:02+00:00
+ - user: None
+ - tags: []
+
+## Livetraker - The Best Software for Live Bands
+ - [https://livetraker.com](https://livetraker.com)
+ - date published: 2023-10-28T18:51:58.277300+00:00
+ - user: None
+ - tags: ['tracker music']
+
+## LiveTyper
+ - [https://livetyper.com](https://livetyper.com)
+ - date published: 2023-10-25T15:48:53.001215+00:00
+ - user: None
+ - tags: []
+
+## Diseñadora de negocio digital - Ana Cirujano | Diseño web
+ - [https://myblog-9wyolwae3z.live-website.com](https://myblog-9wyolwae3z.live-website.com)
+ - date published: 2024-05-12T06:15:26.568944+00:00
+ - user: None
+ - tags: []
+
+## LIVE with Kelly and Mark
+ - [https://livewithkellyandmark.com](https://livewithkellyandmark.com)
+ - date published: 2024-05-01T01:55:28.817646+00:00
+ - user: None
+ - tags: []
+
+## Livewrapped - Leading Header Bidding Platform
+ - [https://livewrapped.com](https://livewrapped.com)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## LivingFeeds Lifestyle Program
+ - [https://livingfeeds.com](https://livingfeeds.com)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Internet history, design, advanced use, help, security, important features... | LivingInternet
+ - [https://www.livinginternet.com](https://www.livinginternet.com)
+ - date published: 2021-04-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Lix
+ - [https://www.lixgame.com](https://www.lixgame.com)
+ - date published: 2024-05-09T08:46:44.615860+00:00
+ - user: None
+ - tags: []
+
+## Private Site
+ - [https://lizakateboisineau.com](https://lizakateboisineau.com)
+ - date published: 2023-11-29T14:41:18.211485+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Lizardcube
+ - [https://www.lizardcube.com](https://www.lizardcube.com)
+ - date published: 2024-01-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## unknown8bit
  - [http://lizdizon.com](http://lizdizon.com)
  - date published: 2023-12-11T18:35:10.614125+00:00
@@ -637,6 +847,18 @@
 ## lofi air traffic control
  - [https://www.lofiatc.com](https://www.lofiatc.com)
  - date published: 2023-10-25T15:49:34.669790+00:00
+ - user: None
+ - tags: []
+
+## lofibucket.com
+ - [https://lofibucket.com](https://lofibucket.com)
+ - date published: 2024-05-20T13:51:27+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## lofibucket.com
+ - [https://www.lofibucket.com](https://www.lofibucket.com)
+ - date published: 2024-05-20T13:33:22.963856+00:00
  - user: None
  - tags: []
 
@@ -4303,6 +4525,18 @@ diversions.
  - user: None
  - tags: []
 
+## Macify.com | Simplify. Personify. Amplify. Your business!
+ - [https://macify.com](https://macify.com)
+ - date published: 2024-05-20T02:46:36.839297+00:00
+ - user: None
+ - tags: []
+
+## Client Portal | Macify.com
+ - [https://my.macify.com](https://my.macify.com)
+ - date published: 2024-05-20T02:46:37.969978+00:00
+ - user: None
+ - tags: []
+
 ## MacInTouch – timely, accurate info since 1985
  - [https://www.macintouch.com](https://www.macintouch.com)
  - date published: 2024-01-23T16:31:45.602470+00:00
@@ -5764,240 +5998,6 @@ diversions.
 ## make-safe-ai/is-bing-chat-safe
  - [https://www.make-safe-ai.com](https://www.make-safe-ai.com)
  - date published: 2023-10-25T15:54:39.527554+00:00
- - user: None
- - tags: []
-
-## Makeship
- - [https://www.makeship.com](https://www.makeship.com)
- - date published: 2024-05-07T10:34:41.873552+00:00
- - user: None
- - tags: []
-
-## Makeswift | The composable visual editor for elite marketing teams
- - [https://www.makeswift.com](https://www.makeswift.com)
- - date published: 2024-05-06T06:39:56.142703+00:00
- - user: None
- - tags: []
-
-## Make Tech Easier
- - [https://www.maketecheasier.com](https://www.maketecheasier.com)
- - date published: 2024-03-18T00:00:00+00:00
- - user: rumpel
- - tags: ['tech news', 'tech articles']
-
-## Matter Unlimited - Award-Winning Social Impact Marketing Agency
- - [https://www.makethingsmatter.com](https://www.makethingsmatter.com)
- - date published: 2024-01-09T02:42:19.097936+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://www.makeuseof.com](https://www.makeuseof.com)
- - date published: 2024-02-24T09:58:55.467712+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://makezine.com](https://makezine.com)
- - date published: 2023-11-27T16:27:53+00:00
- - user: None
- - tags: ['single-board', '3d printing', 'creators', 'tech']
-
-## Make
- - [https://subscribe.makezine.com](https://subscribe.makezine.com)
- - date published: 2024-05-04T14:11:05.944312+00:00
- - user: None
- - tags: []
-
-## Home
- - [http://www.makezine.com](http://www.makezine.com)
- - date published: 2024-05-04T13:42:42.113862+00:00
- - user: None
- - tags: []
-
-## Making It with Chris G.
- - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
- - date published: 2023-11-29T17:12:52.483030+00:00
- - user: None
- - tags: []
-
-## (no title)
- - [http://makingnoiseandhearingthings.com](http://makingnoiseandhearingthings.com)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Makino | CNC Machine Tool Manufacturer & Machining Centers
- - [https://www.makino.com](https://www.makino.com)
- - date published: 2024-05-12T06:31:19.804800+00:00
- - user: None
- - tags: []
-
-## HOME | Maki's Curry Buns | Rowarth
- - [https://www.makiscurrybuns.com](https://www.makiscurrybuns.com)
- - date published: 2024-02-08T18:16:51.734772+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://makoncline.com](https://makoncline.com)
- - date published: 2024-05-11T10:21:57.800936+00:00
- - user: None
- - tags: []
-
-## about mako
- - [https://aboutmako.makopool.com](https://aboutmako.makopool.com)
- - date published: 2024-05-04T14:11:50.129850+00:00
- - user: None
- - tags: []
-
-## about mako
- - [https://makopool.com](https://makopool.com)
- - date published: 2023-10-25T08:47:11.035727+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://maksimkita.com](https://maksimkita.com)
- - date published: 2024-02-10T10:10:00.436122+00:00
- - user: None
- - tags: ['personal']
-
-## Malayalam News: മലയാളം വാർത്തകൾ, Latest News in Malayalam Online, മലയാളം Live Updates, പ്രധാനപ്പെട്ട വാർത്ത, ഇന്നത്തെ മുകളിൽ മലയാളം തലക്കെട്ടുകൾ
- - [https://www.malayalamtv9.com](https://www.malayalamtv9.com)
- - date published: 2024-05-11T08:51:10.235951+00:00
- - user: None
- - tags: []
-
-## Malay Mail | Breaking News, Malaysia, World, Lifestyle News
- - [https://www.malaymail.com](https://www.malaymail.com)
- - date published: 2023-10-25T15:54:56.436525+00:00
- - user: None
- - tags: []
-
-## MalaysiaNow | News, views and insights into Malaysian current affairs.
- - [https://www.malaysianow.com](https://www.malaysianow.com)
- - date published: 2023-11-17T07:41:45.486280+00:00
- - user: None
- - tags: []
-
-## WordPress Security for High Performance Websites - MalCare
- - [https://malcare.com](https://malcare.com)
- - date published: 2024-05-06T17:14:30.421367+00:00
- - user: None
- - tags: []
-
-## Malcolm Coles
- - [https://malcolmcoles.com](https://malcolmcoles.com)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Malcolm Ocean - culture, change, and mental models
- - [https://malcolmocean.com](https://malcolmocean.com)
- - date published: 2024-05-04T13:57:38.691526+00:00
- - user: None
- - tags: []
-
-## Malekko Heavy Industry Corporation
- - [https://malekkoheavyindustry.com](https://malekkoheavyindustry.com)
- - date published: 2024-05-07T15:45:55.806176+00:00
- - user: None
- - tags: []
-
-## La Malienne de l'Automobile
- - [https://malienne-automobile.com](https://malienne-automobile.com)
- - date published: 2024-05-10T04:42:38.636371+00:00
- - user: None
- - tags: []
-
-## La Malienne de l'Automobile
- - [https://www.malienne-automobile.com](https://www.malienne-automobile.com)
- - date published: 2023-12-11T16:01:08.468013+00:00
- - user: None
- - tags: []
-
-## Mallory Paige – Storyteller & Adventurer
- - [https://mallorypaige.com](https://mallorypaige.com)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## jQuery Plugins by malsup
- - [http://jquery.malsup.com](http://jquery.malsup.com)
- - date published: 2024-05-06T21:42:13.382680+00:00
- - user: None
- - tags: []
-
-## malsup.com
- - [http://malsup.com](http://malsup.com)
- - date published: 2024-05-06T21:42:08.909043+00:00
- - user: None
- - tags: []
-
-## Malwarebytes Labs - The Security Blog From Malwarebytes | Malwarebytes Labs
- - [https://blog.malwarebytes.com](https://blog.malwarebytes.com)
- - date published: 2024-05-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Malwarebytes Cybersecurity para usuários domésticos e corporativos
- - [https://br.malwarebytes.com](https://br.malwarebytes.com)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Malwarebytes - Billing
- - [https://buy.malwarebytes.com](https://buy.malwarebytes.com)
- - date published: 2024-05-04T14:12:46.378141+00:00
- - user: None
- - tags: []
-
-## ThreatDown, powered by Malwarebytes
- - [https://cloud.malwarebytes.com](https://cloud.malwarebytes.com)
- - date published: 2024-05-04T14:12:29.776454+00:00
- - user: None
- - tags: []
-
-## Malwarebytes Cybersicherheit für Privatanwender und Unternehmen
- - [https://de.malwarebytes.com](https://de.malwarebytes.com)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Malwarebytes: seguridad informática para usuarios domésticos y empresas
- - [https://es.malwarebytes.com](https://es.malwarebytes.com)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Malwarebytes Forums
- - [https://forums.malwarebytes.com](https://forums.malwarebytes.com)
- - date published: 2024-04-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## Cybersécurité Malwarebytes pour les particuliers et les entreprises
- - [https://fr.malwarebytes.com](https://fr.malwarebytes.com)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sicurezza informatica Malwarebytes per utenti privati e aziendali
- - [https://it.malwarebytes.com](https://it.malwarebytes.com)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Malwarebytes | My Account
- - [https://my.malwarebytes.com](https://my.malwarebytes.com)
- - date published: 2024-05-04T14:12:54.602418+00:00
- - user: None
- - tags: []
-
-## Malwarebytes Cybersecurity voor thuis en bedrijf
- - [https://nl.malwarebytes.com](https://nl.malwarebytes.com)
- - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,555 @@
+## Réussir en .fr : accompagnement des jeunes et entrepreneurs dans le numérique
+ - [https://xn--russir-en-b4a.fr](https://xn--russir-en-b4a.fr)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Bobby — Jeu 2D de réflexion
+ - [https://bobby.yannicka.fr](https://bobby.yannicka.fr)
+ - date published: 2024-05-09T09:09:59.903413+00:00
+ - user: None
+ - tags: []
+
+## Yannicka — Accueil
+ - [https://yannicka.fr](https://yannicka.fr)
+ - date published: 2024-03-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Yelp
+ - [https://www.yelp.fr](https://www.yelp.fr)
+ - date published: 2024-08-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Bienvenue - Ynnis Editions
+ - [https://ynnis-editions.fr](https://ynnis-editions.fr)
+ - date published: 2024-05-08T00:15:29.683204+00:00
+ - user: None
+ - tags: []
+
+## Youberjob
+ - [https://www.youberjob.fr](https://www.youberjob.fr)
+ - date published: 2024-05-01T01:58:06.766967+00:00
+ - user: None
+ - tags: []
+
+## Assistance administrative TPE PME ETI - YOWAN SERVICES
+ - [https://yowanservices.fr](https://yowanservices.fr)
+ - date published: 2024-05-09T07:46:35.867619+00:00
+ - user: None
+ - tags: []
+
+## ZDNET - Actualité, business et technologies pour les professionnels
+ - [https://www.zdnet.fr](https://www.zdnet.fr)
+ - date published: 2024-05-07T18:49:43.807734+00:00
+ - user: None
+ - tags: []
+
+## Site officiel de The legend of Zelda : Return of the Hylian
+ - [http://www.zeldaroth.fr](http://www.zeldaroth.fr)
+ - date published: 2024-05-09T08:46:54.784514+00:00
+ - user: None
+ - tags: []
+
+## Incubateur des Territoires
+ - [https://incubateur.anct.gouv.fr](https://incubateur.anct.gouv.fr)
+ - date published: 2024-05-10T04:32:42.038028+00:00
+ - user: None
+ - tags: []
+
+## Incubateur des Territoires
+ - [https://mon.incubateur.anct.gouv.fr](https://mon.incubateur.anct.gouv.fr)
+ - date published: 2024-05-10T04:32:48.350649+00:00
+ - user: None
+ - tags: []
+
+## Calculateur d'émissions de gaz à effet de serre de l'aviation | ecocalc
+ - [https://eco-calculateur.dta.aviation-civile.gouv.fr](https://eco-calculateur.dta.aviation-civile.gouv.fr)
+ - date published: 2024-05-04T14:10:29.364301+00:00
+ - user: None
+ - tags: []
+
+## Mission logiciels libres
+ - [https://sill.code.gouv.fr](https://sill.code.gouv.fr)
+ - date published: 2024-04-30T15:48:41.029973+00:00
+ - user: None
+ - tags: []
+
+## Dispositif d’assistance aux victimes d’actes de cybermalveillance
+ - [https://www.cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr)
+ - date published: 2024-05-08T00:14:36.254470+00:00
+ - user: None
+ - tags: []
+
+## Accueil - data.gouv.fr
+ - [https://www.data.gouv.fr](https://www.data.gouv.fr)
+ - date published: 2024-05-10T05:00:44.952573+00:00
+ - user: None
+ - tags: []
+
+## France Diplomacy
+ - [https://www.diplomatie.gouv.fr](https://www.diplomatie.gouv.fr)
+ - date published: 2024-05-08T10:43:28.978265+00:00
+ - user: None
+ - tags: []
+
+## economie.gouv.fr
+ - [https://www.economie.gouv.fr](https://www.economie.gouv.fr)
+ - date published: 2024-05-10T04:32:39.612180+00:00
+ - user: None
+ - tags: []
+
+## Accueil - francenum.gouv.fr
+ - [https://www.francenum.gouv.fr](https://www.francenum.gouv.fr)
+ - date published: 2024-05-08T00:14:51.171712+00:00
+ - user: None
+ - tags: []
+
+## Accueil
+ - [https://www.impots.gouv.fr](https://www.impots.gouv.fr)
+ - date published: 2024-04-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Accueil
+ - [https://ecoresponsable.numerique.gouv.fr](https://ecoresponsable.numerique.gouv.fr)
+ - date published: 2024-05-10T04:32:46.540052+00:00
+ - user: None
+ - tags: []
+
+## Fujitsu locations across the world
+ - [https://activate.fujitsu](https://activate.fujitsu)
+ - date published: 2024-05-04T05:47:11.803314+00:00
+ - user: None
+ - tags: []
+
+## Andrew Ginn, etc.
+ - [https://andrewginn.fun](https://andrewginn.fun)
+ - date published: 2024-01-07T04:14:03.213185+00:00
+ - user: None
+ - tags: []
+
+## Restos, mods, and flipping cars and trucks.
+ - [https://ccbuilt.fun](https://ccbuilt.fun)
+ - date published: 2024-05-08T04:44:14.226539+00:00
+ - user: None
+ - tags: []
+
+## HUT
+ - [https://chess2.fun](https://chess2.fun)
+ - date published: 2024-01-09T03:30:06.701243+00:00
+ - user: None
+ - tags: []
+
+## Flowchart Fun — Fast, Free Online Flowchart Maker
+ - [https://flowchart.fun](https://flowchart.fun)
+ - date published: 2023-10-25T19:15:48.621117+00:00
+ - user: None
+ - tags: []
+
+## G2GBET สล็อตวอเลท คาสิโนออนไลน์เว็บตรง ฝากถอนออโต้ เว็บสล็อตอันดับ 1 รวมค่าย
+ - [https://g2gcash.fun](https://g2gcash.fun)
+ - date published: 2024-05-01T02:30:55.334586+00:00
+ - user: None
+ - tags: []
+
+## Neal.fun
+ - [https://neal.fun](https://neal.fun)
+ - date published: 2023-10-25T19:15:49.467863+00:00
+ - user: None
+ - tags: []
+
+## A Netflix for fake TV shows and movies
+ - [https://nestflix.fun](https://nestflix.fun)
+ - date published: 2024-01-04T19:41:51+00:00
+ - user: None
+ - tags: []
+
+## Orthic Shorthand
+ - [https://orthic.shorthand.fun](https://orthic.shorthand.fun)
+ - date published: 2024-01-19T05:42:09.555455+00:00
+ - user: None
+ - tags: []
+
+## Event Software Solutions to Empower Events Creators | Timely
+ - [https://events.timely.fun](https://events.timely.fun)
+ - date published: 2024-05-10T06:01:53.904378+00:00
+ - user: None
+ - tags: []
+
+## https://app.vnote.fun
+ - [https://app.vnote.fun](https://app.vnote.fun)
+ - date published: 2024-01-20T08:05:26.303097+00:00
+ - user: None
+ - tags: []
+
+## The Autopilot Fund
+ - [https://blog.autopilot.fund](https://blog.autopilot.fund)
+ - date published: 2023-10-25T19:15:50.122692+00:00
+ - user: None
+ - tags: []
+
+## Digital Infrastructure Insights Fund
+ - [https://infrastructureinsights.fund](https://infrastructureinsights.fund)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Weekend Fund
+ - [https://www.weekend.fund](https://www.weekend.fund)
+ - date published: 2024-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 2c.fyi
+ - [https://2c.fyi](https://2c.fyi)
+ - date published: 2024-05-04T09:10:37.989532+00:00
+ - user: None
+ - tags: []
+
+## Adriano Caloiaro's personal blog
+ - [https://adriano.fyi](https://adriano.fyi)
+ - date published: 2023-10-25T08:59:03.095518+00:00
+ - user: None
+ - tags: ['personal']
+
+## Alessandro Mingione · Designer
+ - [https://www.ale.fyi](https://www.ale.fyi)
+ - date published: 2024-05-09T06:19:59.436489+00:00
+ - user: None
+ - tags: []
+
+## Your one stop shop to risk free APY savings accounts.
+ - [https://apy.fyi](https://apy.fyi)
+ - date published: 2024-05-09T07:36:26.030768+00:00
+ - user: None
+ - tags: []
+
+## Brody Smith • Information Design
+ - [https://brody.fyi](https://brody.fyi)
+ - date published: 2024-01-04T08:11:51.602420+00:00
+ - user: None
+ - tags: []
+
+## brr
+ - [https://brr.fyi](https://brr.fyi)
+ - date published: 2023-10-25T19:15:50.754055+00:00
+ - user: None
+ - tags: []
+
+## Caro Appleby - Indie programmer, textile artist, musician, endlessly curious
+ - [https://caro.fyi](https://caro.fyi)
+ - date published: 2024-05-11T10:22:05.701580+00:00
+ - user: None
+ - tags: []
+
+## CDR.fyi
+ - [https://cdr.fyi](https://cdr.fyi)
+ - date published: 2024-05-08T00:40:25.404761+00:00
+ - user: None
+ - tags: []
+
+## CDR.fyi
+ - [https://www.cdr.fyi](https://www.cdr.fyi)
+ - date published: 2024-01-09T03:30:10.035205+00:00
+ - user: None
+ - tags: []
+
+## Freelance rates by contractrates.fyi
+ - [https://www.contractrates.fyi](https://www.contractrates.fyi)
+ - date published: 2023-10-25T19:15:52.506601+00:00
+ - user: None
+ - tags: []
+
+## DevBase - Product Gallery for Developers
+ - [https://devbase.fyi](https://devbase.fyi)
+ - date published: 2023-10-25T19:15:55.735011+00:00
+ - user: None
+ - tags: []
+
+## Digital culture and entertainment insights daily: Digital culture and entertainment insights daily
+ - [https://dirt.fyi](https://dirt.fyi)
+ - date published: 2023-10-25T19:15:57.266413+00:00
+ - user: None
+ - tags: []
+
+## The Dirt Store
+ - [https://shop.dirt.fyi](https://shop.dirt.fyi)
+ - date published: 2024-05-08T00:40:52.310561+00:00
+ - user: None
+ - tags: []
+
+## Tim and Jeni
+ - [https://ellis.fyi](https://ellis.fyi)
+ - date published: 2024-03-05T16:08:01.801164+00:00
+ - user: None
+ - tags: []
+
+## ESPP.fyi - ESPP Calculator
+ - [https://espp.fyi](https://espp.fyi)
+ - date published: 2023-10-25T19:15:58.160226+00:00
+ - user: None
+ - tags: []
+
+## iliana.fyi
+ - [https://iliana.fyi](https://iliana.fyi)
+ - date published: 2023-10-25T19:15:59.645382+00:00
+ - user: None
+ - tags: []
+
+## An open system to manage data without a central server | IPFS
+ - [https://ipfs.fyi](https://ipfs.fyi)
+ - date published: 2024-05-04T16:00:13.322326+00:00
+ - user: None
+ - tags: []
+
+## jade's www site
+ - [https://jade.fyi](https://jade.fyi)
+ - date published: 2024-01-09T18:46:42.354724+00:00
+ - user: None
+ - tags: []
+
+## Ken Zinser
+ - [https://ken.fyi](https://ken.fyi)
+ - date published: 2024-02-12T08:32:03.708550+00:00
+ - user: None
+ - tags: ['personal']
+
+## Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
+ - [https://layoffs.fyi](https://layoffs.fyi)
+ - date published: 2023-10-25T19:16:02.675285+00:00
+ - user: None
+ - tags: ['layoff', 'page tracker']
+
+## Plausible · Web analytics
+ - [https://al.levels.fyi](https://al.levels.fyi)
+ - date published: 2024-05-08T00:41:20.821116+00:00
+ - user: None
+ - tags: []
+
+## Levels.fyi | Salaries & Tools to Level Up Your Career
+ - [https://levels.fyi](https://levels.fyi)
+ - date published: 2024-05-08T00:41:17.077556+00:00
+ - user: None
+ - tags: []
+
+## Levels.fyi | Salaries & Tools to Level Up Your Career
+ - [https://www.levels.fyi](https://www.levels.fyi)
+ - date published: 2023-10-25T19:16:09.416624+00:00
+ - user: None
+ - tags: []
+
+## Mads Brodt - Front-end developer and teacher
+ - [https://mads.fyi](https://mads.fyi)
+ - date published: 2024-03-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Marva Jackson Lord
+ - [https://marva.fyi](https://marva.fyi)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Not a Number
+ - [https://nan.fyi](https://nan.fyi)
+ - date published: 2024-05-08T00:41:23.065747+00:00
+ - user: None
+ - tags: []
+
+## Not a Number
+ - [https://www.nan.fyi](https://www.nan.fyi)
+ - date published: 2023-10-25T19:16:10.047779+00:00
+ - user: None
+ - tags: []
+
+## Not By AI — Add the Badge to Your Human-Created Content
+ - [https://notbyai.fyi](https://notbyai.fyi)
+ - date published: 2023-10-25T19:16:11.639093+00:00
+ - user: None
+ - tags: []
+
+## 2 Weeks Notice/Layoff Checklist
+ - [https://notice.fyi](https://notice.fyi)
+ - date published: 2023-10-25T19:16:13.369510+00:00
+ - user: None
+ - tags: []
+
+## 2 Weeks Notice/Layoff Checklist
+ - [https://www.notice.fyi](https://www.notice.fyi)
+ - date published: 2024-05-08T00:41:25.584904+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://nudges.fyi](https://nudges.fyi)
+ - date published: 2024-01-09T03:30:11.356804+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Onsites.fyi - Curated Big Tech Interview Experiences
+ - [https://www.onsites.fyi](https://www.onsites.fyi)
+ - date published: 2023-12-03T13:29:53+00:00
+ - user: None
+ - tags: []
+
+## | OpenSecurityTraining2
+ - [https://p.ost2.fyi](https://p.ost2.fyi)
+ - date published: 2024-03-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Paisa
+ - [https://demo1.paisa.fyi](https://demo1.paisa.fyi)
+ - date published: 2024-05-08T00:41:28.103122+00:00
+ - user: None
+ - tags: []
+
+## Paisa
+ - [https://demo.paisa.fyi](https://demo.paisa.fyi)
+ - date published: 2024-05-08T00:41:26.721569+00:00
+ - user: None
+ - tags: []
+
+## Paisa
+ - [https://paisa.fyi](https://paisa.fyi)
+ - date published: 2023-10-25T19:16:14.401445+00:00
+ - user: None
+ - tags: []
+
+## physician.fyi
+ - [https://www.physician.fyi](https://www.physician.fyi)
+ - date published: 2023-10-25T19:16:19.520735+00:00
+ - user: None
+ - tags: []
+
+## pirroh - Overview
+ - [https://pirroh.fyi](https://pirroh.fyi)
+ - date published: 2024-04-28T04:38:03.350734+00:00
+ - user: None
+ - tags: []
+
+## US Presidents, Ranked
+ - [https://presidents.fyi](https://presidents.fyi)
+ - date published: 2024-04-29T03:11:06.569257+00:00
+ - user: None
+ - tags: []
+
+## progression.fyi
+ - [https://www.progression.fyi](https://www.progression.fyi)
+ - date published: 2024-05-06T14:19:19.093704+00:00
+ - user: None
+ - tags: []
+
+## Hello! - Rafal - indie maker, solopreneur
+ - [https://rafal.fyi](https://rafal.fyi)
+ - date published: 2024-05-10T06:10:39.738215+00:00
+ - user: None
+ - tags: []
+
+## rustjobs.fyi
+ - [https://www.rustjobs.fyi](https://www.rustjobs.fyi)
+ - date published: 2023-10-25T19:16:20.460320+00:00
+ - user: None
+ - tags: []
+
+## SelfDriving.fyi
+ - [http://selfdriving.fyi](http://selfdriving.fyi)
+ - date published: 2024-05-10T04:55:19.928587+00:00
+ - user: None
+ - tags: []
+
+## Simplify Gmail
+ - [https://simpl.fyi](https://simpl.fyi)
+ - date published: 2024-04-28T05:59:57.279625+00:00
+ - user: None
+ - tags: []
+
+## https://south.fyi
+ - [https://south.fyi](https://south.fyi)
+ - date published: 2023-12-20T14:34:44.308769+00:00
+ - user: None
+ - tags: []
+
+## Rebrandly
+ - [https://tbi.fyi](https://tbi.fyi)
+ - date published: 2024-05-06T16:27:06.980978+00:00
+ - user: None
+ - tags: []
+
+## Tim Perry
+ - [https://tim.fyi](https://tim.fyi)
+ - date published: 2024-05-09T07:39:53.276343+00:00
+ - user: None
+ - tags: []
+
+## time.fyi - All the time related tools
+ - [https://time.fyi](https://time.fyi)
+ - date published: 2024-01-06T09:13:14.048827+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Trains.fyi – a live map of passenger trains in the US and Canada
+ - [https://trains.fyi](https://trains.fyi)
+ - date published: 2023-11-27T16:47:19+00:00
+ - user: None
+ - tags: []
+
+## The ideal viewport doesn’t exist
+ - [https://viewports.fyi](https://viewports.fyi)
+ - date published: 2023-10-25T19:16:21.804980+00:00
+ - user: None
+ - tags: []
+
+## Vizly for Enterprise
+ - [https://enterprise.vizly.fyi](https://enterprise.vizly.fyi)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Request a New Datasource | Vizly
+ - [https://request.vizly.fyi](https://request.vizly.fyi)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Vizly: AI-powered data analysis
+ - [https://vizly.fyi](https://vizly.fyi)
+ - date published: 2024-05-08T00:41:43.103359+00:00
+ - user: None
+ - tags: []
+
+## Vizly - Data to insights in seconds
+ - [https://www.vizly.fyi](https://www.vizly.fyi)
+ - date published: 2023-10-25T19:16:23.095453+00:00
+ - user: None
+ - tags: []
+
+## William Edmisten
+ - [https://wcedmisten.fyi](https://wcedmisten.fyi)
+ - date published: 2023-10-25T19:16:24.081987+00:00
+ - user: None
+ - tags: []
+
+## Jack Wrenn
+ - [https://jack.wrenn.fyi](https://jack.wrenn.fyi)
+ - date published: 2023-10-25T19:16:25.606719+00:00
+ - user: None
+ - tags: []
+
+## Are the Americans Awake?
+ - [https://are-the-americans-awake.yusuf.fyi](https://are-the-americans-awake.yusuf.fyi)
+ - date published: 2023-10-25T19:16:26.673031+00:00
+ - user: None
+ - tags: []
+
+## Structs & Company
+ - [https://www.yusuf.fyi](https://www.yusuf.fyi)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Structs & Company
  - [https://yusuf.fyi](https://yusuf.fyi)
  - date published: 2024-03-28T00:00:00+00:00
@@ -5065,7 +5617,7 @@
  - [https://climate.nasa.gov](https://climate.nasa.gov)
  - date published: 2023-12-03T11:58:16.572325+00:00
  - user: None
- - tags: []
+ - tags: ['climate']
 
 ## NASA Open Source Software
  - [https://code.nasa.gov](https://code.nasa.gov)
@@ -5448,560 +6000,6 @@
 ## Office of Equity, Diversity, and Inclusion |
  - [https://www.edi.nih.gov](https://www.edi.nih.gov)
  - date published: 2024-05-09T05:10:55.758327+00:00
- - user: None
- - tags: []
-
-## National Center for Biotechnology Information
- - [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov)
- - date published: 2023-10-25T11:20:27.525952+00:00
- - user: None
- - tags: []
-
-## National Institute on Alcohol Abuse and Alcoholism (NIAAA) | National Institute on Alcohol Abuse and Alcoholism (NIAAA)
- - [https://www.niaaa.nih.gov](https://www.niaaa.nih.gov)
- - date published: 2024-05-08T04:17:28.968856+00:00
- - user: None
- - tags: []
-
-## National Institute on Aging
- - [https://www.nia.nih.gov](https://www.nia.nih.gov)
- - date published: 2023-10-25T19:23:24.748138+00:00
- - user: None
- - tags: []
-
-## NIEHS Home page
- - [https://www.niehs.nih.gov](https://www.niehs.nih.gov)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## National Institute of General Medical Sciences
- - [http://www.nigms.nih.gov](http://www.nigms.nih.gov)
- - date published: 2024-05-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## National Institutes of Health (NIH) | Turning Discovery Into Health
- - [https://www.nih.gov](https://www.nih.gov)
- - date published: 2023-10-25T19:23:35.776264+00:00
- - user: None
- - tags: []
-
-## NIH LIBRARY | NIH Library
- - [https://www.nihlibrary.nih.gov](https://www.nihlibrary.nih.gov)
- - date published: 2024-05-08T02:44:39.351073+00:00
- - user: None
- - tags: []
-
-## National Institute of Mental Health (NIMH) - Transforming the understanding and treatment of mental illnesses
- - [https://www.nimh.nih.gov](https://www.nimh.nih.gov)
- - date published: 2024-03-14T14:04:53.970911+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.ninds.nih.gov](https://www.ninds.nih.gov)
- - date published: 2024-04-19T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## NIST Computer Security Resource Center | CSRC
- - [https://csrc.nist.gov](https://csrc.nist.gov)
- - date published: 2024-02-28T12:32:13+00:00
- - user: rumpel
- - tags: ['cybersecurity']
-
-## You are accessing a U.S. Government information system.
- - [https://ir.nist.gov](https://ir.nist.gov)
- - date published: 2024-05-02T12:55:03.190918+00:00
- - user: None
- - tags: []
-
-## National Institute of Standards and Technology
- - [https://nist.gov](https://nist.gov)
- - date published: 2024-02-26T00:00:00+00:00
- - user: rumpel
- - tags: ['standards']
-
-## NVD - Home
- - [https://nvd.nist.gov](https://nvd.nist.gov)
- - date published: 2023-10-25T19:23:38.761448+00:00
- - user: None
- - tags: []
-
-## NIST Technical Series Publications
- - [https://nvlpubs.nist.gov](https://nvlpubs.nist.gov)
- - date published: 2024-02-24T10:01:18.948874+00:00
- - user: None
- - tags: []
-
-## Text REtrieval Conference (TREC) Home Page
- - [https://trec.nist.gov](https://trec.nist.gov)
- - date published: 2024-04-28T04:06:21.037801+00:00
- - user: None
- - tags: []
-
-## TSAPPS at NIST
- - [https://tsapps.nist.gov](https://tsapps.nist.gov)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Information Technology Laboratory | NIST
- - [https://www.itl.nist.gov](https://www.itl.nist.gov)
- - date published: 2023-10-25T19:23:43.980308+00:00
- - user: None
- - tags: []
-
-## National Institute of Standards and Technology
- - [https://www.nist.gov](https://www.nist.gov)
- - date published: 2023-10-25T11:20:30.382440+00:00
- - user: None
- - tags: []
-
-## Redirecting
- - [https://xlinux.nist.gov](https://xlinux.nist.gov)
- - date published: 2023-10-25T19:23:45.687533+00:00
- - user: None
- - tags: []
-
-## NJ Legislature
- - [https://pub.njleg.gov](https://pub.njleg.gov)
- - date published: 2024-05-06T17:02:38.917240+00:00
- - user: None
- - tags: []
-
-## https://www.nlrb.gov
- - [https://www.nlrb.gov](https://www.nlrb.gov)
- - date published: 2024-01-09T03:31:29.688759+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://geodesy.noaa.gov](https://geodesy.noaa.gov)
- - date published: 2024-05-09T07:09:00.657242+00:00
- - user: None
- - tags: []
-
-## NOAA Global Monitoring Laboratory
- - [https://gml.noaa.gov](https://gml.noaa.gov)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Monitor National Marine Sanctuary
- - [http://monitor.noaa.gov](http://monitor.noaa.gov)
- - date published: 2024-03-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## National Centers for Environmental Information (NCEI)
- - [https://ncdc.noaa.gov](https://ncdc.noaa.gov)
- - date published: 2024-05-08T11:33:04.384732+00:00
- - user: None
- - tags: []
-
-## NOAA's National Ocean Service
- - [https://oceanservice.noaa.gov](https://oceanservice.noaa.gov)
- - date published: 2023-10-25T19:23:48.997984+00:00
- - user: None
- - tags: []
-
-## Ocean Today | Watch. Discover. Learn. | Ocean Today videos focus on both the ocean's influence on us and our influence upon the ocean.
- - [https://oceantoday.noaa.gov](https://oceantoday.noaa.gov)
- - date published: 2014-12-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Index of /
- - [https://services.swpc.noaa.gov](https://services.swpc.noaa.gov)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Science On a Sphere
- - [https://sos.noaa.gov](https://sos.noaa.gov)
- - date published: 2023-10-25T19:24:08.336867+00:00
- - user: None
- - tags: []
-
-## Climate Prediction Center
- - [https://www.cpc.ncep.noaa.gov](https://www.cpc.ncep.noaa.gov)
- - date published: 2023-10-25T19:24:13.204472+00:00
- - user: None
- - tags: []
-
-## Welcome to NOAA | NOAA Fisheries
- - [https://www.fisheries.noaa.gov](https://www.fisheries.noaa.gov)
- - date published: 2023-10-25T19:24:18.167307+00:00
- - user: None
- - tags: []
-
-## National Centers for Environmental Information (NCEI)
- - [https://www.ncdc.noaa.gov](https://www.ncdc.noaa.gov)
- - date published: 2024-04-28T05:44:13.324923+00:00
- - user: None
- - tags: []
-
-## National Centers for Environmental Information (NCEI)
- - [https://www.ncei.noaa.gov](https://www.ncei.noaa.gov)
- - date published: 2023-10-25T19:24:22.011014+00:00
- - user: None
- - tags: []
-
-## NCEP Central Operations
- - [https://www.nco.ncep.noaa.gov](https://www.nco.ncep.noaa.gov)
- - date published: 2023-10-25T19:24:25.360125+00:00
- - user: None
- - tags: []
-
-## National Hurricane Center
- - [https://www.nhc.noaa.gov](https://www.nhc.noaa.gov)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## National Oceanic and Atmospheric Administration
- - [https://www.noaa.gov](https://www.noaa.gov)
- - date published: 2023-10-25T19:24:27.385106+00:00
- - user: None
- - tags: []
-
-## Home Page | Office of Marine and Aviation Operations
- - [https://www.omao.noaa.gov](https://www.omao.noaa.gov)
- - date published: 2024-05-04T07:32:50.236150+00:00
- - user: None
- - tags: []
-
-## STAR - NOAA / NESDIS / Center for Satellite Applications and Research
- - [https://www.star.nesdis.noaa.gov](https://www.star.nesdis.noaa.gov)
- - date published: 2023-10-25T19:24:30.758583+00:00
- - user: None
- - tags: []
-
-## Homepage | NOAA / NWS Space Weather Prediction Center
- - [https://www.swpc.noaa.gov](https://www.swpc.noaa.gov)
- - date published: 2023-10-25T19:24:35.156999+00:00
- - user: None
- - tags: []
-
-## Test Page for the HTTP Server on Red Hat Enterprise Linux
- - [http://www.wrh.noaa.gov](http://www.wrh.noaa.gov)
- - date published: 2024-05-08T10:27:35.893063+00:00
- - user: None
- - tags: []
-
-## NPS.gov Homepage (U.S. National Park Service)
- - [https://www.nps.gov](https://www.nps.gov)
- - date published: 2023-10-25T11:20:15.724610+00:00
- - user: None
- - tags: []
-
-## home
- - [https://www.nrc.gov](https://www.nrc.gov)
- - date published: 2024-01-09T03:31:30.889825+00:00
- - user: None
- - tags: []
-
-## National Renewable Energy Laboratory (NREL) Home Page | NREL
- - [https://www.nrel.gov](https://www.nrel.gov)
- - date published: 2023-10-25T19:24:44.925788+00:00
- - user: None
- - tags: []
-
-## > Home
- - [https://www.nro.gov](https://www.nro.gov)
- - date published: 2024-05-12T07:25:51.279303+00:00
- - user: None
- - tags: []
-
-## National Security Agency | Central Security Service
- - [https://www.nsa.gov](https://www.nsa.gov)
- - date published: 2023-10-25T19:24:48.246865+00:00
- - user: None
- - tags: ['usa security intelligence', 'government', 'espionage', 'security intelligence']
-
-## NSF - National Science Foundation
- - [https://new.nsf.gov](https://new.nsf.gov)
- - date published: 2023-12-20T18:03:43.696281+00:00
- - user: None
- - tags: []
-
-## NSF - National Science Foundation
- - [https://nsf.gov](https://nsf.gov)
- - date published: 2024-04-28T02:51:17.482974+00:00
- - user: None
- - tags: []
-
-## NSF Public Access
- - [https://par.nsf.gov](https://par.nsf.gov)
- - date published: 2023-10-25T19:24:50.680036+00:00
- - user: None
- - tags: []
-
-## America’s Seed Fund – NSF SBIR/STTR | NSF SBIR
- - [https://seedfund.nsf.gov](https://seedfund.nsf.gov)
- - date published: 2021-12-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## Research.gov - Homepage
- - [http://www.fastlane.nsf.gov](http://www.fastlane.nsf.gov)
- - date published: 2010-01-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## NSF - National Science Foundation
- - [https://www.nsf.gov](https://www.nsf.gov)
- - date published: 2024-04-28T04:06:30.027828+00:00
- - user: None
- - tags: []
-
-## Home Page | National Telecommunications and Information Administration
- - [https://www.ntia.gov](https://www.ntia.gov)
- - date published: 2024-05-08T10:07:24.734187+00:00
- - user: None
- - tags: []
-
-## https://ntrl.ntis.gov
- - [https://ntrl.ntis.gov](https://ntrl.ntis.gov)
- - date published: 2024-01-09T03:31:33.773574+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.ntsb.gov](https://www.ntsb.gov)
- - date published: 2023-10-25T19:24:54.011991+00:00
- - user: None
- - tags: []
-
-## Joe Lombardo, Governor of Nevada
- - [https://gov.nv.gov](https://gov.nv.gov)
- - date published: 2024-05-06T17:11:33.129996+00:00
- - user: None
- - tags: []
-
-## Nevada Division of Environmental Protection | NDEP
- - [https://ndep.nv.gov](https://ndep.nv.gov)
- - date published: 2024-04-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | New York State Attorney General
- - [https://ag.ny.gov](https://ag.ny.gov)
- - date published: 2023-10-25T19:24:55.587930+00:00
- - user: None
- - tags: []
-
-## Adirondack Park Agency
- - [https://apa.ny.gov](https://apa.ny.gov)
- - date published: 2024-03-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## COVID-19
- - [https://coronavirus.health.ny.gov](https://coronavirus.health.ny.gov)
- - date published: 2024-05-06T20:40:30.862940+00:00
- - user: None
- - tags: []
-
-## Sign in - Google Accounts
- - [https://covid19tracker.health.ny.gov](https://covid19tracker.health.ny.gov)
- - date published: 2024-05-07T14:01:57.032934+00:00
- - user: None
- - tags: []
-
-## State of New York | Open Data | State of New York
- - [https://data.ny.gov](https://data.ny.gov)
- - date published: 2024-05-06T20:35:09.294406+00:00
- - user: None
- - tags: []
-
-## Success
- - [https://encryption.ny.gov](https://encryption.ny.gov)
- - date published: 2024-05-11T09:25:31.152395+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://nyenr.elections.ny.gov](https://nyenr.elections.ny.gov)
- - date published: 2024-04-02T18:07:10.090471+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.dec.ny.gov](https://www.dec.ny.gov)
- - date published: 2024-05-11T09:25:27.207623+00:00
- - user: None
- - tags: []
-
-## Department of State
- - [https://www.dos.ny.gov](https://www.dos.ny.gov)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Official Website of Governor Kathy Hochul
- - [https://www.governor.ny.gov](https://www.governor.ny.gov)
- - date published: 2024-04-29T03:12:36.486669+00:00
- - user: None
- - tags: []
-
-## New York State Department of Health
- - [https://www.health.ny.gov](https://www.health.ny.gov)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Official Website of New York State
- - [http://www.ny.gov](http://www.ny.gov)
- - date published: 2024-05-11T09:25:20.986139+00:00
- - user: None
- - tags: []
-
-## NYSERDA - New York State Energy Research & Development Authority - NYSERDA
- - [https://www.nyserda.ny.gov](https://www.nyserda.ny.gov)
- - date published: 2024-05-08T06:31:58.064149+00:00
- - user: None
- - tags: []
-
-## https://www.osc.ny.gov
- - [https://www.osc.ny.gov](https://www.osc.ny.gov)
- - date published: 2023-12-19T17:57:44.445591+00:00
- - user: None
- - tags: []
-
-## Mayor's Office NYC
- - [https://a002-oom03.nyc.gov](https://a002-oom03.nyc.gov)
- - date published: 2023-10-25T19:24:56.465502+00:00
- - user: None
- - tags: []
-
-## Home
-		 · NYC311
- - [https://portal.311.nyc.gov](https://portal.311.nyc.gov)
- - date published: 2024-05-12T05:41:23.554612+00:00
- - user: None
- - tags: []
-
-## Welcome to NYC.gov | City of New York
- - [http://www1.nyc.gov](http://www1.nyc.gov)
- - date published: 2024-05-06T20:35:17.057679+00:00
- - user: None
- - tags: []
-
-## Welcome to NYC.gov | City of New York
- - [https://www.nyc.gov](https://www.nyc.gov)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## FAQ's about Ask a Law Librarian - Ask a Law Librarian
- - [https://askalawlibrarian.nycourts.gov](https://askalawlibrarian.nycourts.gov)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## NYCOURTS.GOV - New York State Unified Court System
- - [https://justicetraining.nycourts.gov](https://justicetraining.nycourts.gov)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## NYS UCS Payment Services
- - [https://payments.nycourts.gov](https://payments.nycourts.gov)
- - date published: 2024-05-02T12:53:16.954450+00:00
- - user: None
- - tags: []
-
-## Home
-		 · Customer Self-Service
- - [https://portal.nycourts.gov](https://portal.nycourts.gov)
- - date published: 2024-05-02T12:52:37.814527+00:00
- - user: None
- - tags: []
-
-## NYCOURTS.GOV - New York State Unified Court System
- - [https://ww2.nycourts.gov](https://ww2.nycourts.gov)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## NYCOURTS.GOV - New York State Unified Court System
- - [https://www.nycourts.gov](https://www.nycourts.gov)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Office of the Professions | Office of the Professions
- - [http://www.op.nysed.gov](http://www.op.nysed.gov)
- - date published: 2024-05-09T02:37:11.093477+00:00
- - user: None
- - tags: []
-
-## The New York State Senate
- - [https://www.nysenate.gov](https://www.nysenate.gov)
- - date published: 2023-10-25T19:24:58.425689+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://www.oaklandca.gov](https://www.oaklandca.gov)
- - date published: 2024-05-08T11:00:28.073943+00:00
- - user: None
- - tags: []
-
-## OCC Search
- - [https://apps.occ.gov](https://apps.occ.gov)
- - date published: 2024-05-12T05:54:17.172114+00:00
- - user: None
- - tags: []
-
-## OCC Careers Home page
- - [https://careers.occ.gov](https://careers.occ.gov)
- - date published: 2022-05-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Office of the Comptroller of the Currency (OCC)
- - [https://www.occ.gov](https://www.occ.gov)
- - date published: 2024-04-03T06:40:03.944278+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://toledo.oh.gov](https://toledo.oh.gov)
- - date published: 2024-04-30T07:26:06.794675+00:00
- - user: None
- - tags: []
-
-## Ohio Secretary of State's Office Website Maintenance
- - [https://olvr.ohiosos.gov](https://olvr.ohiosos.gov)
- - date published: 2024-05-06T21:44:27.190449+00:00
- - user: None
- - tags: []
-
-## Ohio Secretary of State's Office Website Maintenance
- - [https://registrationreadiness.ohiosos.gov](https://registrationreadiness.ohiosos.gov)
- - date published: 2024-05-04T06:49:48.941211+00:00
- - user: None
- - tags: []
-
-## Ohio Secretary of State's Office Website Maintenance
- - [https://www.ohiosos.gov](https://www.ohiosos.gov)
- - date published: 2024-05-06T21:44:08.850706+00:00
- - user: None
- - tags: []
-
-## Home | Bureau of Justice Assistance
- - [https://bja.ojp.gov](https://bja.ojp.gov)
- - date published: 2024-05-04T09:27:08.890517+00:00
- - user: None
- - tags: []
-
-## Strengthen science. Advance justice.
- - [https://nij.ojp.gov](https://nij.ojp.gov)
- - date published: 2024-02-24T18:06:29.327243+00:00
  - user: None
  - tags: []
 

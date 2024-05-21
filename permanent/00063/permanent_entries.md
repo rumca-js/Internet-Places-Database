@@ -1,3 +1,531 @@
+## MTSU Jobs | Middle Tennessee State University
+ - [https://careers.mtsu.edu](https://careers.mtsu.edu)
+ - date published: 2024-08-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Middle Tennessee State University - Acalog ACMS™
+ - [https://catalog.mtsu.edu](https://catalog.mtsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sign in to your account
+ - [https://elearn.mtsu.edu](https://elearn.mtsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Walker Library: Home: Walker Library: Home
+ - [https://library.mtsu.edu](https://library.mtsu.edu)
+ - date published: 2024-05-07T19:39:22.281382+00:00
+ - user: None
+ - tags: []
+
+## Home - MTSU
+ - [https://mtsu.edu](https://mtsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sign in to your account
+ - [https://pipeline.mtsu.edu](https://pipeline.mtsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - MTSU
+ - [https://w1.mtsu.edu](https://w1.mtsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Middle Tennessee State University | Middle Tennessee State University
+ - [https://www.mtsu.edu](https://www.mtsu.edu)
+ - date published: 2023-10-25T18:55:21.754876+00:00
+ - user: None
+ - tags: []
+
+## Home - MTSU
+ - [https://wwwt.mtsu.edu](https://wwwt.mtsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Michigan Technological University
+ - [http://www.mtu.edu](http://www.mtu.edu)
+ - date published: 2024-05-18T02:46:41.145500+00:00
+ - user: None
+ - tags: []
+
+## Physics | Michigan Technological University
+ - [http://www.phy.mtu.edu](http://www.phy.mtu.edu)
+ - date published: 2024-05-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## College of Health Professions
+ - [https://chp.musc.edu](https://chp.musc.edu)
+ - date published: 2024-05-11T07:19:48.619505+00:00
+ - user: None
+ - tags: []
+
+## The James B. Edwards College of Dental Medicine
+ - [https://dentistry.musc.edu](https://dentistry.musc.edu)
+ - date published: 2024-05-11T07:20:06.455606+00:00
+ - user: None
+ - tags: []
+
+## Education at MUSC
+ - [https://education.musc.edu](https://education.musc.edu)
+ - date published: 2024-05-11T07:19:45.735976+00:00
+ - user: None
+ - tags: []
+
+## You Can Change What's Possible
+ - [https://giving.musc.edu](https://giving.musc.edu)
+ - date published: 2024-05-11T07:19:55.548907+00:00
+ - user: None
+ - tags: []
+
+## College of Graduate Studies
+ - [https://gradstudies.musc.edu](https://gradstudies.musc.edu)
+ - date published: 2024-05-11T07:20:19.418887+00:00
+ - user: None
+ - tags: []
+
+## MUSC Hollings Cancer Center
+ - [https://hollingscancercenter.musc.edu](https://hollingscancercenter.musc.edu)
+ - date published: 2024-05-11T07:20:15.446722+00:00
+ - user: None
+ - tags: []
+
+## Sign In
+ - [https://horseshoe.musc.edu](https://horseshoe.musc.edu)
+ - date published: 2024-05-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The College of Medicine at MUSC
+ - [https://medicine.musc.edu](https://medicine.musc.edu)
+ - date published: 2024-05-11T07:19:36.154751+00:00
+ - user: None
+ - tags: []
+
+## MyChart - Login Page
+ - [https://mychart.musc.edu](https://mychart.musc.edu)
+ - date published: 2024-05-11T07:20:03.984490+00:00
+ - user: None
+ - tags: []
+
+## College of Nursing
+ - [https://nursing.musc.edu](https://nursing.musc.edu)
+ - date published: 2024-05-11T07:20:08.754055+00:00
+ - user: None
+ - tags: []
+
+## College of Pharmacy
+ - [https://pharmacy.musc.edu](https://pharmacy.musc.edu)
+ - date published: 2024-05-11T07:20:17.642865+00:00
+ - user: None
+ - tags: []
+
+## Research at MUSC
+ - [https://research.musc.edu](https://research.musc.edu)
+ - date published: 2024-05-11T07:19:51.332423+00:00
+ - user: None
+ - tags: []
+
+## The Medical University of South Carolina
+ - [https://web.musc.edu](https://web.musc.edu)
+ - date published: 2024-03-15T18:22:29.962237+00:00
+ - user: None
+ - tags: []
+
+## MUSC LIBRARIES
+ - [https://www.library.musc.edu](https://www.library.musc.edu)
+ - date published: 2024-05-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.nae.edu](https://www.nae.edu)
+ - date published: 2024-05-07T20:25:17.386625+00:00
+ - user: None
+ - tags: []
+
+## Home - National Academy of Medicine
+ - [https://nam.edu](https://nam.edu)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Notes From NAP - Spotlighting the Books and Reports on Science, Engineering and Medicine from the National Academies Press
+ - [https://notes.nap.edu](https://notes.nap.edu)
+ - date published: 2024-05-08T10:36:17.335183+00:00
+ - user: None
+ - tags: []
+
+## The National Academies Press
+ - [https://www.nap.edu](https://www.nap.edu)
+ - date published: 2024-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NAU-jan
+ - [https://jan.ucc.nau.edu](https://jan.ucc.nau.edu)
+ - date published: 2024-05-09T08:18:57.051696+00:00
+ - user: None
+ - tags: []
+
+## New College of Florida
+ - [http://ncf.edu](http://ncf.edu)
+ - date published: 2024-05-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Accessibility – NC State University
+ - [https://accessibility.ncsu.edu](https://accessibility.ncsu.edu)
+ - date published: 2024-05-07T19:45:16.856708+00:00
+ - user: None
+ - tags: []
+
+## IT Accessibility – NC State University IT Accessibility Resources
+ - [https://accessibility.oit.ncsu.edu](https://accessibility.oit.ncsu.edu)
+ - date published: 2024-05-01T02:46:23.356226+00:00
+ - user: None
+ - tags: []
+
+## NC State Undergraduate Admissions
+ - [https://admissions.ncsu.edu](https://admissions.ncsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NC State Brand
+ - [https://brand.ncsu.edu](https://brand.ncsu.edu)
+ - date published: 2024-05-07T19:45:15.384528+00:00
+ - user: None
+ - tags: []
+
+## Technology Services
+ - [http://clubs.ncsu.edu](http://clubs.ncsu.edu)
+ - date published: 2024-04-29T03:46:42.276134+00:00
+ - user: None
+ - tags: []
+
+## NC State Experts
+ - [https://experts.ncsu.edu](https://experts.ncsu.edu)
+ - date published: 2024-05-07T19:40:07.224150+00:00
+ - user: None
+ - tags: []
+
+## NC State News
+ - [https://news.ncsu.edu](https://news.ncsu.edu)
+ - date published: 2023-10-25T18:55:26.541930+00:00
+ - user: None
+ - tags: []
+
+## Home | North Carolina Extension Gardener Plant Toolbox
+ - [https://plants.ces.ncsu.edu](https://plants.ces.ncsu.edu)
+ - date published: 2024-05-01T08:04:16.964638+00:00
+ - user: None
+ - tags: []
+
+## Policies, Regulations & Rules – NC State University
+ - [https://policies.ncsu.edu](https://policies.ncsu.edu)
+ - date published: 2024-05-07T19:45:19.698728+00:00
+ - user: None
+ - tags: []
+
+## Strategic Planning
+ - [https://strategicplan.ncsu.edu](https://strategicplan.ncsu.edu)
+ - date published: 2024-05-07T19:45:13.865771+00:00
+ - user: None
+ - tags: []
+
+## North Carolina State University
+ - [https://www.ncsu.edu](https://www.ncsu.edu)
+ - date published: 2024-04-28T03:37:43.019973+00:00
+ - user: None
+ - tags: []
+
+## Emergency Information
+ - [https://emergency.nd.edu](https://emergency.nd.edu)
+ - date published: 2024-05-07T19:45:38.368524+00:00
+ - user: None
+ - tags: []
+
+## Notre Dame Events
+ - [https://events.nd.edu](https://events.nd.edu)
+ - date published: 2024-05-07T19:45:46.179696+00:00
+ - user: None
+ - tags: []
+
+## Product Page - Notre Dame Service Portal
+ - [https://mobile.nd.edu](https://mobile.nd.edu)
+ - date published: 2016-08-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Notre Dame Philosophical Reviews
+ - [https://ndpr.nd.edu](https://ndpr.nd.edu)
+ - date published: 2024-05-07T16:16:12.105690+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://ndworks.nd.edu](https://ndworks.nd.edu)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Notre Dame News | University of Notre Dame
+ - [https://news.nd.edu](https://news.nd.edu)
+ - date published: 2023-10-25T18:55:35.076777+00:00
+ - user: None
+ - tags: []
+
+## Office of Public Affairs and Communications
+ - [https://opac.nd.edu](https://opac.nd.edu)
+ - date published: 2024-05-07T19:45:40.784078+00:00
+ - user: None
+ - tags: []
+
+## Search Notre Dame | University of Notre Dame
+ - [https://search.nd.edu](https://search.nd.edu)
+ - date published: 2024-05-07T19:45:39.490351+00:00
+ - user: None
+ - tags: []
+
+## static.nd.edu | University of Notre Dame
+ - [https://static.nd.edu](https://static.nd.edu)
+ - date published: 2024-05-07T19:45:22.032712+00:00
+ - user: None
+ - tags: []
+
+## Stories
+ - [https://stories.nd.edu](https://stories.nd.edu)
+ - date published: 2024-05-07T19:45:24.023439+00:00
+ - user: None
+ - tags: []
+
+## University of Notre Dame
+ - [https://www.nd.edu](https://www.nd.edu)
+ - date published: 2024-05-01T06:30:44.719090+00:00
+ - user: None
+ - tags: []
+
+## Career and Advising Center - North Dakota State University
+ - [https://career-advising.ndsu.edu](https://career-advising.ndsu.edu)
+ - date published: 2024-05-07T19:46:04.013334+00:00
+ - user: None
+ - tags: []
+
+## | NDSU Libraries
+ - [https://library.ndsu.edu](https://library.ndsu.edu)
+ - date published: 2024-05-07T19:45:50.428351+00:00
+ - user: None
+ - tags: []
+
+## - myNDSU| North Dakota State University
+ - [https://myndsu.ndsu.edu](https://myndsu.ndsu.edu)
+ - date published: 2024-05-07T19:46:13.913614+00:00
+ - user: None
+ - tags: []
+
+## NDSU - North Dakota State University
+ - [https://www.ndsu.edu](https://www.ndsu.edu)
+ - date published: 2023-10-25T18:55:39.000458+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://cic.ndu.edu](https://cic.ndu.edu)
+ - date published: 2024-05-08T02:44:04.388879+00:00
+ - user: None
+ - tags: []
+
+## Blackboard Learn
+ - [https://blackboard.ndus.edu](https://blackboard.ndus.edu)
+ - date published: 2024-05-07T19:45:48.325491+00:00
+ - user: None
+ - tags: []
+
+## University of Nebraska System
+ - [https://nebraska.edu](https://nebraska.edu)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NEU PRL
+ - [https://prl.ccs.neu.edu](https://prl.ccs.neu.edu)
+ - date published: 2024-05-07T19:48:15.637520+00:00
+ - user: None
+ - tags: []
+
+## Department of Electrical & Computer Engineering - Northeastern University
+ - [http://www.ece.neu.edu](http://www.ece.neu.edu)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - University of Nevada Press
+ - [https://unpress.nevada.edu](https://unpress.nevada.edu)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | NIU Newsroom
+ - [https://newsroom.niu.edu](https://newsroom.niu.edu)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Barbara and Leonard Littman Architecture and Design Library
+ - [https://archlib.njit.edu](https://archlib.njit.edu)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Strategic Events and Conference Services | Conference Services
+ - [https://campuscenter.njit.edu](https://campuscenter.njit.edu)
+ - date published: 2024-05-07T19:46:38.297602+00:00
+ - user: None
+ - tags: []
+
+## Welcome | Research Institutes, Centers and Specialized Laboratories
+ - [https://centers.njit.edu](https://centers.njit.edu)
+ - date published: 2024-05-07T19:46:48.376683+00:00
+ - user: None
+ - tags: []
+
+## LDI Courses Archive
+ - [https://continuing.njit.edu](https://continuing.njit.edu)
+ - date published: 2024-05-07T19:46:53.330351+00:00
+ - user: None
+ - tags: []
+
+## Directory Search | People
+ - [http://directory.njit.edu](http://directory.njit.edu)
+ - date published: 2024-05-07T19:46:46.639082+00:00
+ - user: None
+ - tags: []
+
+## Home | Robert W. Van Houten Library
+ - [https://library.njit.edu](https://library.njit.edu)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Webauth Authentication Service
+ - [http://my.njit.edu](http://my.njit.edu)
+ - date published: 2016-07-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NJIT News
+ - [https://news.njit.edu](https://news.njit.edu)
+ - date published: 2023-12-24T14:21:23.481370+00:00
+ - user: None
+ - tags: []
+
+## Research | Research
+ - [https://research.njit.edu](https://research.njit.edu)
+ - date published: 2024-05-07T19:46:33.495049+00:00
+ - user: None
+ - tags: []
+
+## Webauth Authentication Service
+ - [http://webmail.njit.edu](http://webmail.njit.edu)
+ - date published: 2016-07-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## New Jersey Institute of Technology |
+ - [https://www.njit.edu](https://www.njit.edu)
+ - date published: 2024-05-07T19:46:26.999979+00:00
+ - user: None
+ - tags: []
+
+## ACES About Home
+ - [https://aces-about.nmsu.edu](https://aces-about.nmsu.edu)
+ - date published: 2024-05-07T19:47:50.508147+00:00
+ - user: None
+ - tags: []
+
+## Academic Programs Home
+ - [https://aces-academics.nmsu.edu](https://aces-academics.nmsu.edu)
+ - date published: 2024-05-07T19:47:48.930373+00:00
+ - user: None
+ - tags: []
+
+## For Employees Home
+ - [https://aces-employee.nmsu.edu](https://aces-employee.nmsu.edu)
+ - date published: 2024-05-07T19:47:28.006281+00:00
+ - user: None
+ - tags: []
+
+## Alumni and Giving Home
+ - [https://aces-giving.nmsu.edu](https://aces-giving.nmsu.edu)
+ - date published: 2024-05-07T19:47:00.744286+00:00
+ - user: None
+ - tags: []
+
+## 2022 News
+ - [https://aces-news.nmsu.edu](https://aces-news.nmsu.edu)
+ - date published: 2024-05-07T19:47:38.778687+00:00
+ - user: None
+ - tags: []
+
+## College of Agricultural, Consumer and Environmental Sciences | New Mexico State University
+ - [https://aces.nmsu.edu](https://aces.nmsu.edu)
+ - date published: 2018-08-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ACES Quick Links Home
+ - [https://aces-quicklinks.nmsu.edu](https://aces-quicklinks.nmsu.edu)
+ - date published: 2024-05-07T19:47:26.404283+00:00
+ - user: None
+ - tags: []
+
+## ACES Social Media Home
+ - [https://aces-socialmedia.nmsu.edu](https://aces-socialmedia.nmsu.edu)
+ - date published: 2024-05-07T19:47:33.906326+00:00
+ - user: None
+ - tags: []
+
+## AES Main Home
+ - [https://aes.nmsu.edu](https://aes.nmsu.edu)
+ - date published: 2024-05-07T19:47:40.903224+00:00
+ - user: None
+ - tags: []
+
+## Catron County Extension Office Home
+ - [https://catronextension.nmsu.edu](https://catronextension.nmsu.edu)
+ - date published: 2024-02-08T17:58:40.694600+00:00
+ - user: None
+ - tags: []
+
+## Desert Blooms Home
+ - [https://desertblooms.nmsu.edu](https://desertblooms.nmsu.edu)
+ - date published: 2024-05-07T19:47:25.100209+00:00
+ - user: None
+ - tags: []
+
+## #discoverNMSUextension Home
+ - [https://discovernmsuextension.nmsu.edu](https://discovernmsuextension.nmsu.edu)
+ - date published: 2024-05-07T19:47:12.933939+00:00
+ - user: None
+ - tags: []
+
+## CES Home
+ - [https://extension.nmsu.edu](https://extension.nmsu.edu)
+ - date published: 2024-05-07T19:47:08.939342+00:00
+ - user: None
+ - tags: []
+
 ## Family Life Home
  - [https://family.nmsu.edu](https://family.nmsu.edu)
  - date published: 2024-05-07T19:46:58.605702+00:00
@@ -5470,535 +5998,6 @@
 ## Guides: Elmer E. Rasmuson Library: Home
  - [https://library.uaf.edu](https://library.uaf.edu)
  - date published: 2024-05-07T20:42:02.630962+00:00
- - user: None
- - tags: []
-
-## Historical Sea Ice Atlas
- - [http://seaiceatlas.snap.uaf.edu](http://seaiceatlas.snap.uaf.edu)
- - date published: 2024-05-06T23:32:58.174081+00:00
- - user: None
- - tags: []
-
-## UAF Home | University of Alaska Fairbanks
- - [https://uaf.edu](https://uaf.edu)
- - date published: 2024-05-07T20:41:16.792968+00:00
- - user: None
- - tags: []
-
-## UAF Home | University of Alaska Fairbanks
- - [https://www.uaf.edu](https://www.uaf.edu)
- - date published: 2024-01-22T18:01:55.229298+00:00
- - user: None
- - tags: []
-
-## IdeaExchange@UAkron
- - [https://ideaexchange.uakron.edu](https://ideaexchange.uakron.edu)
- - date published: 2024-05-06T18:31:01.062758+00:00
- - user: None
- - tags: []
-
-## University of Arkansas at Little Rock
- - [http://ualr.edu](http://ualr.edu)
- - date published: 2024-05-09T06:34:25.789119+00:00
- - user: None
- - tags: []
-
-## University of Arkansas for Medical Sciences (UAMS)
- - [https://www.uams.edu](https://www.uams.edu)
- - date published: 2024-05-04T10:01:45.943536+00:00
- - user: None
- - tags: []
-
-## Fay Jones School of Architecture and Design | University of Arkansas
- - [http://fayjones.uark.edu](http://fayjones.uark.edu)
- - date published: 2024-05-08T11:43:35.793457+00:00
- - user: None
- - tags: []
-
-## University of the Arts
- - [https://www.uarts.edu](https://www.uarts.edu)
- - date published: 2024-05-08T05:03:49.738636+00:00
- - user: None
- - tags: []
-
-## University of Alabama System
- - [https://www.uasystem.edu](https://www.uasystem.edu)
- - date published: 2024-05-11T07:33:09.964448+00:00
- - user: None
- - tags: []
-
-## UB - Universitat de Barcelona - UB
- - [http://www.ub.edu](http://www.ub.edu)
- - date published: 2024-05-08T08:49:51.683500+00:00
- - user: None
- - tags: []
-
-## Undergraduate Admissions
- - [https://admissions.uc.edu](https://admissions.uc.edu)
- - date published: 2024-05-07T20:42:16.163979+00:00
- - user: None
- - tags: []
-
-## UC Alumni Association
- - [https://alumni.uc.edu](https://alumni.uc.edu)
- - date published: 2024-05-07T20:42:10.398358+00:00
- - user: None
- - tags: []
-
-## University Of Cincinnati
- - [https://bearcatportal.uc.edu](https://bearcatportal.uc.edu)
- - date published: 2024-05-07T20:42:39.878095+00:00
- - user: None
- - tags: []
-
-## University Of Cincinnati
- - [https://canopy.uc.edu](https://canopy.uc.edu)
- - date published: 2024-05-07T20:42:47.246742+00:00
- - user: None
- - tags: []
-
-## University of Cincinnati
- - [https://catalyst.uc.edu](https://catalyst.uc.edu)
- - date published: 2024-05-07T20:42:54.023882+00:00
- - user: None
- - tags: []
-
-## Digital Collections & Exhibits
- - [http://digproj.libraries.uc.edu](http://digproj.libraries.uc.edu)
- - date published: 2024-04-29T02:57:13.321021+00:00
- - user: None
- - tags: []
-
-## Give to UC and UC Health - Primary Donation Form - University of Cincinnati
- - [https://giveto.uc.edu](https://giveto.uc.edu)
- - date published: 2024-05-07T20:42:13.017814+00:00
- - user: None
- - tags: []
-
-## 1819 Innovation Hub
- - [https://innovation.uc.edu](https://innovation.uc.edu)
- - date published: 2024-05-07T20:42:42.312411+00:00
- - user: None
- - tags: []
-
-## University of Cincinnati
- - [https://mail.uc.edu](https://mail.uc.edu)
- - date published: 2024-05-07T20:42:24.723425+00:00
- - user: None
- - tags: []
-
-## Enrollment Services
- - [https://onestop.uc.edu](https://onestop.uc.edu)
- - date published: 2024-05-07T20:42:50.103480+00:00
- - user: None
- - tags: []
-
-## Template
- - [https://ucdirectory.uc.edu](https://ucdirectory.uc.edu)
- - date published: 2024-05-07T20:42:18.256515+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.uc.edu](https://www.uc.edu)
- - date published: 2023-11-03T10:54:50.239840+00:00
- - user: None
- - tags: []
-
-## Home Page | Center for Science Education
- - [https://scied.ucar.edu](https://scied.ucar.edu)
- - date published: 2024-05-01T08:10:31.247681+00:00
- - user: None
- - tags: []
-
-## Blogs | SEA
- - [http://sea.ucar.edu](http://sea.ucar.edu)
- - date published: 2024-05-07T09:19:58.305587+00:00
- - user: None
- - tags: []
-
-## Home | staff.ucar.edu
- - [https://staff.ucar.edu](https://staff.ucar.edu)
- - date published: 2024-04-29T06:29:09.381330+00:00
- - user: None
- - tags: []
-
-## Home | Computational and Information Systems Lab
- - [https://www.cisl.ucar.edu](https://www.cisl.ucar.edu)
- - date published: 2024-05-04T05:59:36.587074+00:00
- - user: None
- - tags: []
-
-## Home | UCCS
- - [https://www.uccs.edu](https://www.uccs.edu)
- - date published: 2024-04-30T04:01:58.740318+00:00
- - user: None
- - tags: []
-
-## Academic Senate
- - [http://academicsenate.ucdavis.edu](http://academicsenate.ucdavis.edu)
- - date published: 2024-05-07T20:45:27.719908+00:00
- - user: None
- - tags: []
-
-## Alumni Resources
- - [https://alumni.engineering.ucdavis.edu](https://alumni.engineering.ucdavis.edu)
- - date published: 2024-05-07T20:44:13.873439+00:00
- - user: None
- - tags: []
-
-## UC Davis Alumni and Affiliate Relations
- - [https://alumni.ucdavis.edu](https://alumni.ucdavis.edu)
- - date published: 2024-05-07T20:44:55.042173+00:00
- - user: None
- - tags: []
-
-## CAS – Central Authentication Service
- - [https://appointments.ucdavis.edu](https://appointments.ucdavis.edu)
- - date published: 2024-05-07T20:43:29.415076+00:00
- - user: None
- - tags: []
-
-## UC Davis: Campus Map
- - [http://campusmap.ucdavis.edu](http://campusmap.ucdavis.edu)
- - date published: 2024-05-07T20:45:05.323953+00:00
- - user: None
- - tags: []
-
-## Campus Ready
- - [https://campusready.ucdavis.edu](https://campusready.ucdavis.edu)
- - date published: 2024-04-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## UC Davis Canvas Discovery
- - [https://canvas.ucdavis.edu](https://canvas.ucdavis.edu)
- - date published: 2024-05-07T20:45:15.906888+00:00
- - user: None
- - tags: []
-
-## General Catalog - General Catalog Home
- - [https://catalog.ucdavis.edu](https://catalog.ucdavis.edu)
- - date published: 2024-05-07T20:45:25.522512+00:00
- - user: None
- - tags: []
-
-## Welcome to Cows.
- - [https://cows.ucdavis.edu](https://cows.ucdavis.edu)
- - date published: 2024-05-07T20:44:21.199665+00:00
- - user: None
- - tags: []
-
-## UC Davis Continuing and Professional Education
- - [https://cpe.ucdavis.edu](https://cpe.ucdavis.edu)
- - date published: 2024-05-07T20:44:36.223883+00:00
- - user: None
- - tags: []
-
-## Computer Science Instructional Facility (CSIF)
- - [https://csif.cs.ucdavis.edu](https://csif.cs.ucdavis.edu)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://cs.ucdavis.edu](https://cs.ucdavis.edu)
- - date published: 2024-02-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Diversity, Equity & Inclusion
- - [https://diversity.ucdavis.edu](https://diversity.ucdavis.edu)
- - date published: 2024-05-07T20:43:16.846137+00:00
- - user: None
- - tags: []
-
-## EggHeads
- - [https://eggheads.ucdavis.edu](https://eggheads.ucdavis.edu)
- - date published: 2024-05-07T20:45:07.442801+00:00
- - user: None
- - tags: []
-
-## Home | College of Engineering
- - [https://engineering.ucdavis.edu](https://engineering.ucdavis.edu)
- - date published: 2024-05-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## UC Davis Give Day 2024
- - [https://giveday.ucdavis.edu](https://giveday.ucdavis.edu)
- - date published: 2024-05-07T20:43:51.489515+00:00
- - user: None
- - tags: []
-
-## Donate to the University of California at Davis
- - [https://give.ucdavis.edu](https://give.ucdavis.edu)
- - date published: 2024-05-07T20:43:55.207600+00:00
- - user: None
- - tags: []
-
-## Home | UC Davis Giving
- - [https://giving.ucdavis.edu](https://giving.ucdavis.edu)
- - date published: 2022-10-13T16:58:30+00:00
- - user: None
- - tags: []
-
-## UC Davis Graduate Studies
- - [https://gradstudies.ucdavis.edu](https://gradstudies.ucdavis.edu)
- - date published: 2024-05-07T20:45:38.691378+00:00
- - user: None
- - tags: []
-
-## UC Davis Health | University of California, Davis
- - [https://health.ucdavis.edu](https://health.ucdavis.edu)
- - date published: 2024-02-24T10:01:59.909607+00:00
- - user: None
- - tags: []
-
-## UC Davis Human Resources
- - [https://hr.ucdavis.edu](https://hr.ucdavis.edu)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Internship and Career Center
- - [https://icc.ucdavis.edu](https://icc.ucdavis.edu)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | College of Engineering Intranet
- - [https://intranet.engineering.ucdavis.edu](https://intranet.engineering.ucdavis.edu)
- - date published: 2024-05-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Krishna Kumar Singh
- - [http://krsingh.cs.ucdavis.edu](http://krsingh.cs.ucdavis.edu)
- - date published: 2024-05-04T15:20:21.251932+00:00
- - user: None
- - tags: []
-
-## UC Davis College of Letters and Science
- - [https://lettersandscience.ucdavis.edu](https://lettersandscience.ucdavis.edu)
- - date published: 2023-11-03T19:14:18.151008+00:00
- - user: None
- - tags: []
-
-## College of Letters and Science Research Services
- - [https://lsresearch.ucdavis.edu](https://lsresearch.ucdavis.edu)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Coastal and Marine Sciences Institute
- - [https://marinescience.ucdavis.edu](https://marinescience.ucdavis.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## UC Davis Mobile
- - [http://mobile.ucdavis.edu](http://mobile.ucdavis.edu)
- - date published: 2024-05-07T20:44:03.545138+00:00
- - user: None
- - tags: []
-
-## MyAdmissions | UC Davis
- - [https://myadmissions.ucdavis.edu](https://myadmissions.ucdavis.edu)
- - date published: 2024-05-07T20:44:33.426787+00:00
- - user: None
- - tags: []
-
-## myucdavis
- - [https://my.ucdavis.edu](https://my.ucdavis.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Orientation
- - [http://orientation.ucdavis.edu](http://orientation.ucdavis.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Search Results -
-        UC Davis Health
- - [https://physicians.ucdavis.edu](https://physicians.ucdavis.edu)
- - date published: 2024-05-07T20:43:09.723076+00:00
- - user: None
- - tags: []
-
-## Welcome - AP Recruit
- - [https://recruit.ucdavis.edu](https://recruit.ucdavis.edu)
- - date published: 2024-05-07T20:43:12.170875+00:00
- - user: None
- - tags: []
-
-## Office of the University Registrar (OUR)
- - [https://registrar.ucdavis.edu](https://registrar.ucdavis.edu)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## UC Davis Office of Research - Davis, California - University
- - [https://research.ucdavis.edu](https://research.ucdavis.edu)
- - date published: 2024-05-07T20:44:57.360595+00:00
- - user: None
- - tags: []
-
-## Learning & Organizational Development
- - [http://sdps.ucdavis.edu](http://sdps.ucdavis.edu)
- - date published: 2022-09-27T20:45:36+00:00
- - user: None
- - tags: []
-
-## Student Health and Counseling Services
- - [https://shcs.ucdavis.edu](https://shcs.ucdavis.edu)
- - date published: 2024-05-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sisweb, the student information system on the web
- - [https://sisweb.ucdavis.edu](https://sisweb.ucdavis.edu)
- - date published: 2024-05-07T20:44:18.105436+00:00
- - user: None
- - tags: []
-
-## Home | SiteFarm
- - [https://sitefarm.ucdavis.edu](https://sitefarm.ucdavis.edu)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## System Support Group (SSG)
- - [http://ssg.cs.ucdavis.edu](http://ssg.cs.ucdavis.edu)
- - date published: 2024-01-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Staff Assembly
- - [http://staff.ucdavis.edu](http://staff.ucdavis.edu)
- - date published: 2024-05-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Student Parent Resources
- - [https://studentparents.ucdavis.edu](https://studentparents.ucdavis.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Transfer Admission Guarantee
- - [http://tag.ucdavis.edu](http://tag.ucdavis.edu)
- - date published: 2021-03-02T17:52:06+00:00
- - user: None
- - tags: []
-
-## Tahoe Environmental Research Center
- - [https://tahoe.ucdavis.edu](https://tahoe.ucdavis.edu)
- - date published: 2024-05-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## UC Davis
- - [http://ucdavis.edu](http://ucdavis.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | UC Davis Magazine
- - [http://ucdavismagazine.ucdavis.edu](http://ucdavismagazine.ucdavis.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Undergraduate Research Center | Undergraduate Research Center
- - [https://urc.ucdavis.edu](https://urc.ucdavis.edu)
- - date published: 2024-05-07T20:44:22.520926+00:00
- - user: None
- - tags: []
-
-## Visit UC Davis
- - [http://visit.ucdavis.edu](http://visit.ucdavis.edu)
- - date published: 2021-01-08T22:29:29+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://web.cs.ucdavis.edu](https://web.cs.ucdavis.edu)
- - date published: 2023-10-25T18:59:47.853350+00:00
- - user: None
- - tags: []
-
-## UC Davis Alumni and Affiliate Relations
- - [http://www.alumni.ucdavis.edu](http://www.alumni.ucdavis.edu)
- - date published: 2024-05-07T20:44:29.781847+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://www.cs.ucdavis.edu](https://www.cs.ucdavis.edu)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## School of Law
- - [https://www.law.ucdavis.edu](https://www.law.ucdavis.edu)
- - date published: 2024-05-09T02:38:25.218545+00:00
- - user: None
- - tags: []
-
-## UC Davis | California's College Town
- - [https://www.ucdavis.edu](https://www.ucdavis.edu)
- - date published: 2023-10-25T18:59:54.439947+00:00
- - user: None
- - tags: []
-
-## UC Davis Health | University of California, Davis
- - [http://www.ucdmc.ucdavis.edu](http://www.ucdmc.ucdavis.edu)
- - date published: 2024-05-07T20:44:40.873243+00:00
- - user: None
- - tags: []
-
-## UC Davis School of Veterinary Medicine
- - [http://www.vetmed.ucdavis.edu](http://www.vetmed.ucdavis.edu)
- - date published: 2024-05-07T20:45:35.013277+00:00
- - user: None
- - tags: []
-
-## E-Directory
- - [https://directory.ucdenver.edu](https://directory.ucdenver.edu)
- - date published: 2024-04-30T04:02:27.047675+00:00
- - user: None
- - tags: []
-
-## Sign in to Outlook
- - [http://myemail.ucdenver.edu](http://myemail.ucdenver.edu)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## University of Colorado Denver | CU Denver
- - [http://ucdenver.edu](http://ucdenver.edu)
- - date published: 2024-04-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## University of Colorado Denver | CU Denver
- - [https://www.ucdenver.edu](https://www.ucdenver.edu)
- - date published: 2024-04-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Advising
- - [https://appleseed.cs.ucf.edu](https://appleseed.cs.ucf.edu)
- - date published: 2024-05-11T07:18:07.290047+00:00
- - user: None
- - tags: []
-
-## Autonomous and Intelligent Systems – Just another WordPress site
- - [https://eecs.ucf.edu](https://eecs.ucf.edu)
- - date published: 2024-01-09T03:28:03.267934+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,123 @@
+## Crux | Taking the Catholic Pulse
+ - [https://wp.cruxnow.com](https://wp.cruxnow.com)
+ - date published: 2024-05-08T07:02:31.657475+00:00
+ - user: None
+ - tags: []
+
+## Jaime Alejandro Cruz
+ - [https://cruzfolio.com](https://cruzfolio.com)
+ - date published: 2024-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Submission Error
+ - [https://www.crvppasettlement.com](https://www.crvppasettlement.com)
+ - date published: 2024-03-02T19:55:36.180914+00:00
+ - user: None
+ - tags: []
+
+## CRW Flags Inc. Store in Glen Burnie, Maryland
+ - [https://www.crwflags.com](https://www.crwflags.com)
+ - date published: 2023-10-25T13:37:32.965412+00:00
+ - user: None
+ - tags: []
+
+## Crx4Chrome - Download CRX for Chrome Apps & Extensions
+ - [https://www.crx4chrome.com](https://www.crx4chrome.com)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hey, I'm imgproxy!
+ - [https://conv.cryengine.com](https://conv.cryengine.com)
+ - date published: 2024-05-08T07:02:50.242483+00:00
+ - user: None
+ - tags: []
+
+## CRYENGINE
+ - [https://press.cryengine.com](https://press.cryengine.com)
+ - date published: 2024-05-08T07:02:57.977732+00:00
+ - user: None
+ - tags: []
+
+## CRYENGINE | The complete solution for next generation game development by Crytek
+ - [https://www.cryengine.com](https://www.cryengine.com)
+ - date published: 2023-10-25T08:39:24.036653+00:00
+ - user: None
+ - tags: ['video game engine']
+
+## PostHog
+ - [https://a9s.cryingpotato.com](https://a9s.cryingpotato.com)
+ - date published: 2023-07-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Advent of Distributed Systems
+ - [https://aods.cryingpotato.com](https://aods.cryingpotato.com)
+ - date published: 2023-12-12T14:38:13+00:00
+ - user: None
+ - tags: []
+
+## CryingPotato
+ - [https://blog.cryingpotato.com](https://blog.cryingpotato.com)
+ - date published: 2024-01-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cannon
+ - [https://cannon.cryingpotato.com](https://cannon.cryingpotato.com)
+ - date published: 2023-12-13T05:58:38.068812+00:00
+ - user: None
+ - tags: []
+
+## 快睿國際有限公司
+ - [http://www.cryorig.com](http://www.cryorig.com)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Android News & All the Bytes - Mobile, Gadgets & Tech Reviews
+ - [https://www.cryovex.com](https://www.cryovex.com)
+ - date published: 2024-01-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Crypto.com | Securely Buy, Sell & Trade Bitcoin, Ethereum and 350+ Altcoins
+ - [http://crypto.com](http://crypto.com)
+ - date published: 2024-05-12T04:09:13.211757+00:00
+ - user: None
+ - tags: []
+
+## Crypto Bulls Club - Crypto News, Reviews, Guides and Updates
+ - [https://cryptobullsclub.com](https://cryptobullsclub.com)
+ - date published: 2023-10-25T13:37:35.155055+00:00
+ - user: None
+ - tags: []
+
+## Cryptocurrency Prices, Portfolio, Forum, Rankings
+ - [https://cryptocompare.com](https://cryptocompare.com)
+ - date published: 2024-05-04T09:43:39.531225+00:00
+ - user: None
+ - tags: []
+
+## Cryptocurrency Prices, Portfolio, Forum, Rankings
+ - [https://www.cryptocompare.com](https://www.cryptocompare.com)
+ - date published: 2024-05-08T05:58:49.340469+00:00
+ - user: None
+ - tags: []
+
+## History of Alice and Bob
+ - [http://cryptocouple.com](http://cryptocouple.com)
+ - date published: 2023-12-26T21:08:11+00:00
+ - user: None
+ - tags: []
+
+## Crypto Critics' Corner
+ - [https://cryptocriticscorner.com](https://cryptocriticscorner.com)
+ - date published: 2024-05-06T13:44:10.753367+00:00
+ - user: None
+ - tags: []
+
 ## Top Cryptocurrency Referral & Promo Codes (2024)
  - [https://cryptocurrencycodes.com](https://cryptocurrencycodes.com)
  - date published: 2021-03-13T09:11:24+00:00
@@ -1227,7 +1347,7 @@
  - [https://www.cyberkendra.com](https://www.cyberkendra.com)
  - date published: 2024-05-11T09:09:37.452771+00:00
  - user: None
- - tags: []
+ - tags: ['cybersecurity', 'news', 'hacking']
 
 ## Cyberleagle
  - [https://www.cyberleagle.com](https://www.cyberleagle.com)
@@ -5881,124 +6001,4 @@
  - date published: 2024-05-06T14:33:21.213003+00:00
  - user: None
  - tags: []
-
-## AI Modelling Agency | Deep Agency
- - [https://www.deepagency.com](https://www.deepagency.com)
- - date published: 2024-04-30T07:11:47.830554+00:00
- - user: None
- - tags: []
-
-## Deepak Gulati's blog
- - [https://www.deepakg.com](https://www.deepakg.com)
- - date published: 2023-10-25T13:47:34.103740+00:00
- - user: None
- - tags: []
-
-## AI Image Generator: AI Picture & Video Maker to Create AI Art Photos Animation | Deep Dream Generator DDG
- - [https://deepdreamgenerator.com](https://deepdreamgenerator.com)
- - date published: 2024-05-02T10:20:55.327868+00:00
- - user: None
- - tags: []
-
-## DeepDyve - Instant access to the journals you need.
- - [https://www.deepdyve.com](https://www.deepdyve.com)
- - date published: 2024-03-18T13:47:49+00:00
- - user: rumpel
- - tags: ['journals']
-
-## Make Your Own Deepfakes [Online App]
- - [https://deepfakesweb.com](https://deepfakesweb.com)
- - date published: 2024-04-24T10:31:43+00:00
- - user: rumpel
- - tags: ['deep fakes']
-
-## Home | Deep Genomics
- - [https://www.deepgenomics.com](https://www.deepgenomics.com)
- - date published: 2024-04-29T07:35:39.516402+00:00
- - user: None
- - tags: []
-
-## Resources and Tools Created to Inspire | Deepgram
- - [https://blog.deepgram.com](https://blog.deepgram.com)
- - date published: 2023-10-25T13:47:45.305982+00:00
- - user: None
- - tags: []
-
-## Deepgram
- - [https://console.deepgram.com](https://console.deepgram.com)
- - date published: 2024-05-01T04:30:20.277418+00:00
- - user: None
- - tags: []
-
-## Deepgram Voice AI: Text to Speech + Speech to Text APIs | Deepgram
- - [https://deepgram.com](https://deepgram.com)
- - date published: 2024-03-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome to Deepgram Docs!
- - [https://developers.deepgram.com](https://developers.deepgram.com)
- - date published: 2024-03-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Deepgram
- - [https://playground.deepgram.com](https://playground.deepgram.com)
- - date published: 2024-05-01T04:30:12.382191+00:00
- - user: None
- - tags: []
-
-## Deepgram Status
- - [https://status.deepgram.com](https://status.deepgram.com)
- - date published: 2024-05-01T04:30:23.478923+00:00
- - user: None
- - tags: []
-
-## Machine Learning Models and Infrastructure | Deep Infra
- - [https://deepinfra.com](https://deepinfra.com)
- - date published: 2024-05-04T08:34:40.135468+00:00
- - user: None
- - tags: []
-
-## Introduction | English | DeepL API Docs
- - [https://developers.deepl.com](https://developers.deepl.com)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Join DeepL: Innovative Career Opportunities in AI and Translation Technology
- - [https://jobs.deepl.com](https://jobs.deepl.com)
- - date published: 2024-01-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## DeepL Translate: The world's most accurate translator
- - [https://www.deepl.com](https://www.deepl.com)
- - date published: 2023-10-25T09:27:57.362550+00:00
- - user: None
- - tags: []
-
-## DeepMake
- - [https://deepmake.com](https://deepmake.com)
- - date published: 2023-12-09T00:22:25.769168+00:00
- - user: None
- - tags: []
-
-## AlphaCode
- - [https://alphacode.deepmind.com](https://alphacode.deepmind.com)
- - date published: 2023-10-25T13:47:52.658441+00:00
- - user: None
- - tags: []
-
-## Google DeepMind
- - [https://deepmind.com](https://deepmind.com)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Google DeepMind
- - [https://www.deepmind.com](https://www.deepmind.com)
- - date published: 2023-10-25T13:47:54.689117+00:00
- - user: None
- - tags: ['artificial intelligence']
 

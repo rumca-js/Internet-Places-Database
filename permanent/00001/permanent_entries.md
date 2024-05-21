@@ -1708,6 +1708,12 @@
  - user: None
  - tags: []
 
+## NgChat
+ - [https://ng-chat-v.vercel.app](https://ng-chat-v.vercel.app)
+ - date published: 2024-05-20T18:18:54.812115+00:00
+ - user: None
+ - tags: []
+
 ## OctoArt
  - [https://octoart.vercel.app](https://octoart.vercel.app)
  - date published: 2023-10-30T18:59:23.812847+00:00
@@ -3149,6 +3155,12 @@
  - user: None
  - tags: []
 
+## EXAA - Die Strombörse mit vier Auktionen in AT und DE
+ - [https://www.exaa.at](https://www.exaa.at)
+ - date published: 2023-12-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Experts Live Austria - Experts Live Austria
  - [https://www.expertslive.at](https://www.expertslive.at)
  - date published: 2022-09-21T16:24:35+00:00
@@ -3401,6 +3413,12 @@
  - date published: 2024-05-11T11:40:49.599274+00:00
  - user: None
  - tags: []
+
+## Nova Rock Festival | 13.-16. Juni 2024
+ - [https://www.novarock.at](https://www.novarock.at)
+ - date published: 2024-05-20T06:33:30.683967+00:00
+ - user: None
+ - tags: ['music festival']
 
 ## Novasign | Speed Up Bioprocess Development
  - [https://www.novasign.at](https://www.novasign.at)
@@ -5979,24 +5997,6 @@
 ## Events | UNSW Sydney
  - [https://www.events.unsw.edu.au](https://www.events.unsw.edu.au)
  - date published: 2024-05-11T07:37:33.020337+00:00
- - user: None
- - tags: []
-
-## Home | Powered by UNSW
- - [https://www.innovationcommunity.unsw.edu.au](https://www.innovationcommunity.unsw.edu.au)
- - date published: 2024-05-11T07:37:04.134597+00:00
- - user: None
- - tags: []
-
-## Jobs@UNSW | UNSW
- - [https://www.jobs.unsw.edu.au](https://www.jobs.unsw.edu.au)
- - date published: 2024-05-11T07:38:14.072844+00:00
- - user: None
- - tags: []
-
-## Home | Powered by UNSW
- - [https://www.knowledgeexchange.unsw.edu.au](https://www.knowledgeexchange.unsw.edu.au)
- - date published: 2024-05-11T07:37:59.773850+00:00
  - user: None
  - tags: []
 

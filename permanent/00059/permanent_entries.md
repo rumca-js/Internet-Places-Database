@@ -1,3 +1,495 @@
+## Roland Szabó | Senior Web Designer
+ - [https://rolandszabo.design](https://rolandszabo.design)
+ - date published: 2024-05-07T23:12:34.912941+00:00
+ - user: None
+ - tags: []
+
+## @rolle / Full Stack Developer = Front-end developer, designer, sysadmin
+ - [https://rolle.design](https://rolle.design)
+ - date published: 2023-12-19T02:59:27.788104+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ron Bronson
+ - [https://ronbronson.design](https://ronbronson.design)
+ - date published: 2024-05-10T06:32:12.680284+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ron Bronson
+ - [https://www.ronbronson.design](https://www.ronbronson.design)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Saman Archive
+ - [https://archive.saman.design](https://archive.saman.design)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Saman Icons
+ - [https://icons.saman.design](https://icons.saman.design)
+ - date published: 2024-05-10T05:33:21.544366+00:00
+ - user: None
+ - tags: []
+
+## Slack Design
+ - [https://slack.design](https://slack.design)
+ - date published: 2023-11-02T16:39:18.847159+00:00
+ - user: None
+ - tags: []
+
+## spline_my_design
+ - [https://my.spline.design](https://my.spline.design)
+ - date published: 2024-05-06T18:18:09.104310+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://spotify.design](https://spotify.design)
+ - date published: 2024-04-29T07:17:03.664294+00:00
+ - user: None
+ - tags: []
+
+## Stammy.design
+ - [https://stammy.design](https://stammy.design)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Statista Content & Design
+ - [https://statista.design](https://statista.design)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Stéphanie Walter - UX Researcher & Product designer, Mobile Expert, Speaker, Blog writer.
+ - [https://stephaniewalter.design](https://stephaniewalter.design)
+ - date published: 2024-05-07T23:17:07.469502+00:00
+ - user: None
+ - tags: []
+
+## Steve Polito is a full stack web developer in the Boston Area
+ - [https://stevepolito.design](https://stevepolito.design)
+ - date published: 2023-10-25T18:34:32.217038+00:00
+ - user: None
+ - tags: []
+
+## Superposition: Use the design system you already have
+ - [https://superposition.design](https://superposition.design)
+ - date published: 2024-05-04T09:34:48.301571+00:00
+ - user: None
+ - tags: []
+
+## Houston Webflow Web Design Experts | Sweven.design
+ - [https://www.sweven.design](https://www.sweven.design)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://think.design](https://think.design)
+ - date published: 2024-03-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Undertone.design | Academic graphic design
+ - [https://www.undertone.design](https://www.undertone.design)
+ - date published: 2024-04-30T06:03:28.489976+00:00
+ - user: None
+ - tags: []
+
+## Wise Design
+ - [https://wise.design](https://wise.design)
+ - date published: 2023-10-25T18:34:32.784058+00:00
+ - user: None
+ - tags: []
+
+## 0x7D0
+ - [https://0x7d0.dev](https://0x7d0.dev)
+ - date published: 2024-01-20T00:00:00+00:00
+ - user: rumpel
+ - tags: ['personal', 'hacking']
+
+## 0x7D0
+ - [https://blog.0x7d0.dev](https://blog.0x7d0.dev)
+ - date published: 2023-10-25T18:34:34.220775+00:00
+ - user: None
+ - tags: ['personal', 'hacking']
+
+## 0x7f Inc.
+ - [https://0x7f.dev](https://0x7f.dev)
+ - date published: 2023-10-25T18:34:34.827334+00:00
+ - user: None
+ - tags: []
+
+## Eleventy is a simpler static site generator
+ - [https://11ty.dev](https://11ty.dev)
+ - date published: 2024-02-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 11ty’s International Symposium on Making Web Sites Real Good
+ - [https://conf.11ty.dev](https://conf.11ty.dev)
+ - date published: 2024-05-07T18:48:43.330288+00:00
+ - user: None
+ - tags: []
+
+## 11ty Merch
+ - [https://merch.11ty.dev](https://merch.11ty.dev)
+ - date published: 2024-05-07T18:48:40.563426+00:00
+ - user: None
+ - tags: []
+
+## Eleventy is a simpler static site generator
+ - [https://www.11ty.dev](https://www.11ty.dev)
+ - date published: 2024-04-08T19:31:23.831073+00:00
+ - user: None
+ - tags: ['self-host', 'static websites']
+
+## THE Eleventy Meetup
+ - [https://11tymeetup.dev](https://11tymeetup.dev)
+ - date published: 2024-04-29T07:27:21.280515+00:00
+ - user: None
+ - tags: []
+
+## 12 Days of Web
+ - [https://12daysofweb.dev](https://12daysofweb.dev)
+ - date published: 2024-04-30T00:34:50.848266+00:00
+ - user: None
+ - tags: []
+
+## A world where people pay for software
+ - [https://1sub.dev](https://1sub.dev)
+ - date published: 2023-10-25T18:34:35.457611+00:00
+ - user: None
+ - tags: []
+
+## It works
+ - [https://blog.aawadia.dev](https://blog.aawadia.dev)
+ - date published: 2023-10-25T18:34:36.448442+00:00
+ - user: None
+ - tags: []
+
+## A-squared Software Consulting
+ - [https://consulting.aawadia.dev](https://consulting.aawadia.dev)
+ - date published: 2024-04-29T07:18:59.889467+00:00
+ - user: None
+ - tags: []
+
+## aceto.dev
+ - [https://aceto.dev](https://aceto.dev)
+ - date published: 2024-05-11T10:20:09.695989+00:00
+ - user: None
+ - tags: []
+
+## Alire -
+ - [https://alire.ada.dev](https://alire.ada.dev)
+ - date published: 2024-04-23T15:17:38.643084+00:00
+ - user: None
+ - tags: ['programming libraries', 'ada']
+
+## Ahmed Adebisi's Portfolio
+ - [https://adebisiahmed.dev](https://adebisiahmed.dev)
+ - date published: 2024-05-11T10:08:30.309271+00:00
+ - user: None
+ - tags: []
+
+## AENAC Devices
+ - [https://aenac.dev](https://aenac.dev)
+ - date published: 2024-05-12T05:41:54.477312+00:00
+ - user: None
+ - tags: []
+
+## Aerolite Studios
+ - [https://aerolite.dev](https://aerolite.dev)
+ - date published: 2023-10-25T18:34:37.299684+00:00
+ - user: None
+ - tags: []
+
+## A habitual developer
+ - [https://ahabitual.dev](https://ahabitual.dev)
+ - date published: 2024-05-09T08:21:11.132007+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.ahart.dev](https://www.ahart.dev)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Aha Stack
+ - [https://ahastack.dev](https://ahastack.dev)
+ - date published: 2024-01-03T14:54:40+00:00
+ - user: None
+ - tags: []
+
+## Aigur
+ - [https://aigur.dev](https://aigur.dev)
+ - date published: 2024-04-29T07:28:50.477109+00:00
+ - user: None
+ - tags: []
+
+## Home | airfusion.dev
+ - [https://airfusion.dev](https://airfusion.dev)
+ - date published: 2024-05-11T10:23:56.164066+00:00
+ - user: None
+ - tags: []
+
+## Airplane | The developer platform for internal tools
+ - [https://www.airplane.dev](https://www.airplane.dev)
+ - date published: 2023-10-25T18:34:38.548749+00:00
+ - user: None
+ - tags: []
+
+## Akash Goswami
+ - [https://akashgoswami.dev](https://akashgoswami.dev)
+ - date published: 2024-01-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## AksDev
+ - [https://akselmo.dev](https://akselmo.dev)
+ - date published: 2024-03-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Contact - akselmo.dev
+ - [https://contact.akselmo.dev](https://contact.akselmo.dev)
+ - date published: 2024-04-29T07:19:06.536675+00:00
+ - user: None
+ - tags: []
+
+## AksDev
+ - [https://www.akselmo.dev](https://www.akselmo.dev)
+ - date published: 2023-10-25T18:34:39.206217+00:00
+ - user: None
+ - tags: []
+
+## Of Chaos and Order - Index
+ - [https://alexbilson.dev](https://alexbilson.dev)
+ - date published: 2024-05-07T23:15:35.361064+00:00
+ - user: None
+ - tags: []
+
+## Alex DeLorenzo - Software Engineer
+ - [https://alexdelorenzo.dev](https://alexdelorenzo.dev)
+ - date published: 2024-05-07T23:24:09.124204+00:00
+ - user: None
+ - tags: []
+
+## Alex Saveau | https://alexsaveau.dev
+ - [https://alexsaveau.dev](https://alexsaveau.dev)
+ - date published: 2023-10-25T18:34:44.776986+00:00
+ - user: None
+ - tags: []
+
+## Home | Ali Alaa - Front-end Web Developer
+ - [https://www.alialaa.dev](https://www.alialaa.dev)
+ - date published: 2024-05-11T10:23:08.010684+00:00
+ - user: None
+ - tags: []
+
+## Adrian Alic - Blogging about High-Performance Systems
+ - [https://alic.dev](https://alic.dev)
+ - date published: 2023-10-25T08:48:21.706613+00:00
+ - user: None
+ - tags: ['personal']
+
+## Alpine.js
+ - [https://alpinejs.dev](https://alpinejs.dev)
+ - date published: 2023-10-25T18:34:45.599743+00:00
+ - user: None
+ - tags: []
+
+## Home | Alvezs
+ - [https://www.alvez.dev](https://www.alvez.dev)
+ - date published: 2024-05-07T23:11:54.541598+00:00
+ - user: None
+ - tags: []
+
+## mastodon.ameo.dev
+ - [https://mastodon.ameo.dev](https://mastodon.ameo.dev)
+ - date published: 2024-05-08T12:14:43.368185+00:00
+ - user: None
+ - tags: []
+
+## Plausible · Web analytics
+ - [https://pause.ameo.dev](https://pause.ameo.dev)
+ - date published: 2024-05-08T12:14:44.461695+00:00
+ - user: None
+ - tags: []
+
+## Technical blog by Alexander Ameye.
+ - [https://ameye.dev](https://ameye.dev)
+ - date published: 2023-10-25T18:34:46.760527+00:00
+ - user: None
+ - tags: []
+
+## Amoenus Dev
+ - [https://amoenus.dev](https://amoenus.dev)
+ - date published: 2023-12-07T17:36:20.416462+00:00
+ - user: None
+ - tags: ['personal']
+
+## AMOLAS
+ - [https://www.amolas.dev](https://www.amolas.dev)
+ - date published: 2024-01-09T02:56:39.751957+00:00
+ - user: None
+ - tags: []
+
+## Amorpheuz's Portfolio
+ - [https://amorpheuz.dev](https://amorpheuz.dev)
+ - date published: 2024-05-11T10:19:19.024970+00:00
+ - user: None
+ - tags: []
+
+## We believe in a future where developers are amplified, not automated
+ - [https://amplified.dev](https://amplified.dev)
+ - date published: 2024-04-29T07:30:27.199091+00:00
+ - user: None
+ - tags: []
+
+## Amr Diab - Web Developer
+ - [https://www.amrdiab.dev](https://www.amrdiab.dev)
+ - date published: 2023-12-29T18:59:56.823678+00:00
+ - user: None
+ - tags: ['personal']
+
+## Analysis Tools and Linters to Improve Code Quality and Avoid Bugs
+ - [https://analysis-tools.dev](https://analysis-tools.dev)
+ - date published: 2024-04-29T07:41:48.998128+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Anchor – developer-friendly private CAs for internal TLS
+ - [https://anchor.dev](https://anchor.dev)
+ - date published: 2023-11-01T14:17:14+00:00
+ - user: None
+ - tags: []
+
+## Effortless Encryption
+ - [https://blog.anchor.dev](https://blog.anchor.dev)
+ - date published: 2023-11-01T14:43:17.307157+00:00
+ - user: None
+ - tags: []
+
+## Introduction to Anchor – Anchor
+ - [https://docs.anchor.dev](https://docs.anchor.dev)
+ - date published: 2024-04-29T07:19:19.641300+00:00
+ - user: None
+ - tags: []
+
+## andersource
+ - [https://andersource.dev](https://andersource.dev)
+ - date published: 2024-01-09T23:47:51.887993+00:00
+ - user: None
+ - tags: []
+
+## andrea simone costa
+ - [https://andreasimonecosta.dev](https://andreasimonecosta.dev)
+ - date published: 2024-01-07T16:03:32.309409+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.andrewbyrd.dev](https://www.andrewbyrd.dev)
+ - date published: 2021-10-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.andrewgilliland.dev](https://www.andrewgilliland.dev)
+ - date published: 2024-05-11T10:18:07.250167+00:00
+ - user: None
+ - tags: []
+
+## Andrew Chan
+ - [https://andrewkchan.dev](https://andrewkchan.dev)
+ - date published: 2023-12-19T18:48:03.347748+00:00
+ - user: None
+ - tags: []
+
+## Bienvenido al blog
+ - [https://angelcruz.dev](https://angelcruz.dev)
+ - date published: 2024-05-11T10:05:48.139150+00:00
+ - user: None
+ - tags: []
+
+## Angular
+ - [https://angular.dev](https://angular.dev)
+ - date published: 2024-04-28T02:37:23.759656+00:00
+ - user: None
+ - tags: []
+
+## Hi! I'm Anjana · Anjana Sofia Vakil
+ - [https://anjana.dev](https://anjana.dev)
+ - date published: 2024-04-29T07:30:30.767227+00:00
+ - user: None
+ - tags: []
+
+## Annotate | Craft walkthroughs that clarify code
+ - [https://annotate.dev](https://annotate.dev)
+ - date published: 2024-03-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Francis Rubio
+ - [https://francisrubio.antaresph.dev](https://francisrubio.antaresph.dev)
+ - date published: 2024-04-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## There's no place like /home
+ - [https://anthonymorris.dev](https://anthonymorris.dev)
+ - date published: 2024-05-11T10:06:03.266692+00:00
+ - user: None
+ - tags: []
+
+## Yet another place where a developer rants
+ - [https://www.antopiras.dev](https://www.antopiras.dev)
+ - date published: 2024-05-11T10:22:22.547294+00:00
+ - user: None
+ - tags: []
+
+## Anzui.dev - Home
+ - [https://anzui.dev](https://anzui.dev)
+ - date published: 2024-05-09T07:52:02.202397+00:00
+ - user: None
+ - tags: []
+
+## The personal garden of a broken doll. - Aphrodite.dev
+ - [https://www.aphrodite.dev](https://www.aphrodite.dev)
+ - date published: 2024-05-09T08:15:34.356700+00:00
+ - user: None
+ - tags: []
+
+## API RANK | Benchmarks of public APIs, by Escape
+ - [https://apirank.dev](https://apirank.dev)
+ - date published: 2023-10-25T18:34:50.703389+00:00
+ - user: None
+ - tags: []
+
+## Apoxy - The Proxy Platform
+ - [https://apoxy.dev](https://apoxy.dev)
+ - date published: 2024-04-29T07:19:40.352175+00:00
+ - user: None
+ - tags: []
+
+## PostHog
+ - [https://e.apoxy.dev](https://e.apoxy.dev)
+ - date published: 2023-07-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Envoy Playground
+ - [https://envoy-playground.apoxy.dev](https://envoy-playground.apoxy.dev)
+ - date published: 2023-10-25T18:34:51.661054+00:00
+ - user: None
+ - tags: []
+
 ## App Defense Alliance
  - [https://appdefensealliance.dev](https://appdefensealliance.dev)
  - date published: 2024-05-04T08:30:39.774766+00:00
@@ -3228,6 +3720,12 @@
  - user: None
  - tags: []
 
+## DemonKingSwarn: Gamer, Programmer, YouTuber - demonkingswarn.is-a.dev
+ - [https://demonkingswarn.is-a.dev](https://demonkingswarn.is-a.dev)
+ - date published: 2024-05-20T18:18:55.544611+00:00
+ - user: None
+ - tags: []
+
 ## Ivan Lee- Portfolio
  - [https://ivanlee.dev](https://ivanlee.dev)
  - date published: 2024-04-29T07:41:10.034182+00:00
@@ -5310,6 +5808,12 @@
  - user: rumpel
  - tags: ['personal']
 
+## Photography - Dennis Schubert
+ - [https://photos.overengineer.dev](https://photos.overengineer.dev)
+ - date published: 2024-05-20T02:48:45.155582+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Introduction | develop | Overseerr
  - [https://docs.overseerr.dev](https://docs.overseerr.dev)
  - date published: 2024-05-14T03:52:59.019222+00:00
@@ -5495,508 +5999,4 @@
  - date published: 2024-05-08T08:47:58.239044+00:00
  - user: None
  - tags: []
-
-## TinyRooms
- - [https://tinyrooms.jamesgpearce.partykit.dev](https://tinyrooms.jamesgpearce.partykit.dev)
- - date published: 2024-04-30T00:30:11.305774+00:00
- - user: None
- - tags: []
-
-## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date published: 2023-01-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## Patterns.dev
- - [https://patterns.dev](https://patterns.dev)
- - date published: 2024-04-27T08:05:02.700720+00:00
- - user: None
- - tags: ['programming patterns', 'javascript']
-
-## Hello! • Paul Armstrong
- - [https://paularmstrong.dev](https://paularmstrong.dev)
- - date published: 2023-10-25T08:48:56.005230+00:00
- - user: None
- - tags: ['personal']
-
-## umami
- - [https://stats.paulsblog.dev](https://stats.paulsblog.dev)
- - date published: 2024-04-29T06:16:29.719870+00:00
- - user: None
- - tags: []
-
-## //pauls dev blog
- - [https://www.paulsblog.dev](https://www.paulsblog.dev)
- - date published: 2024-02-25T14:02:35.061521+00:00
- - user: None
- - tags: ['personal']
-
-## pcloadletter
- - [https://www.pcloadletter.dev](https://www.pcloadletter.dev)
- - date published: 2024-02-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## pdoc – Generate API Documentation for Python Projects
- - [https://pdoc.dev](https://pdoc.dev)
- - date published: 2024-05-08T10:20:48.015955+00:00
- - user: None
- - tags: []
-
-## Hey there! · pema.dev
- - [https://pema.dev](https://pema.dev)
- - date published: 2023-10-25T18:40:45.349933+00:00
- - user: None
- - tags: []
-
-## Vadim Makeev
- - [https://pepelsbey.dev](https://pepelsbey.dev)
- - date published: 2024-01-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Petals – Decentralized platform for running large language models
- - [https://chat.petals.dev](https://chat.petals.dev)
- - date published: 2024-04-30T02:10:54.138729+00:00
- - user: None
- - tags: []
-
-## Petals Health Monitor
- - [https://health.petals.dev](https://health.petals.dev)
- - date published: 2024-04-30T02:10:53.472594+00:00
- - user: None
- - tags: []
-
-## Petals – Run LLMs at home, BitTorrent-style
- - [https://petals.dev](https://petals.dev)
- - date published: 2023-10-25T18:40:45.976979+00:00
- - user: None
- - tags: []
-
-## Florian Pfisterer
- - [https://pfisterer.dev](https://pfisterer.dev)
- - date published: 2024-01-12T10:31:39.595981+00:00
- - user: None
- - tags: []
-
-## Trunk
- - [https://pgt.dev](https://pgt.dev)
- - date published: 2024-01-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Umami
- - [https://umami.pheralb.dev](https://umami.pheralb.dev)
- - date published: 2024-05-09T09:14:50.945228+00:00
- - user: None
- - tags: []
-
-## Photobox
- - [https://www.photobox.dev](https://www.photobox.dev)
- - date published: 2024-04-23T19:53:33+00:00
- - user: rumpel
- - tags: ['self-host', 'photo library', 'image library', 'open source']
-
-## Pierre Couy’s tech corner | Freelance developper, computer science teacher, passionate about programming. I enjoy sharing my work with the world.
- - [https://pierre-couy.dev](https://pierre-couy.dev)
- - date published: 2023-10-25T18:40:46.733153+00:00
- - user: None
- - tags: []
-
-## Pigweed
- - [https://pigweed.dev](https://pigweed.dev)
- - date published: 2024-05-07T23:00:16.853198+00:00
- - user: None
- - tags: []
-
-## Pika - Search npm for fast, modern packages.
- - [https://www.pika.dev](https://www.pika.dev)
- - date published: 2024-05-06T13:27:08.155900+00:00
- - user: None
- - tags: []
-
-## Playground — LAB.PINTO.DEV
- - [https://manuel.pinto.dev](https://manuel.pinto.dev)
- - date published: 2024-05-02T11:37:06.639330+00:00
- - user: None
- - tags: []
-
-## Piraces Personal Blog
- - [https://piraces.dev](https://piraces.dev)
- - date published: 2024-05-11T10:25:04.849628+00:00
- - user: None
- - tags: []
-
-## pkg-size | Find the true size of a npm package
- - [https://pkg-size.dev](https://pkg-size.dev)
- - date published: 2023-10-25T18:40:47.132424+00:00
- - user: None
- - tags: []
-
-## Plane – run WebSocket backends at scale – Plane
- - [https://plane.dev](https://plane.dev)
- - date published: 2024-05-01T07:46:41.271304+00:00
- - user: None
- - tags: []
-
-## Fast and reliable end-to-end testing for modern web apps | Playwright
- - [https://playwright.dev](https://playwright.dev)
- - date published: 2024-03-14T15:14:49.454739+00:00
- - user: None
- - tags: []
-
-## 프날 오토핫키 v2 : 오토핫키, 시작은 프날 강좌와 함께!
- - [https://ahkv2.pnal.dev](https://ahkv2.pnal.dev)
- - date published: 2024-05-12T04:14:16.119129+00:00
- - user: None
- - tags: []
-
-## Poletto.dev
- - [https://poletto.dev](https://poletto.dev)
- - date published: 2024-01-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Portr: Open-Source Ngrok Alternative
- - [https://portr.dev](https://portr.dev)
- - date published: 2024-04-20T22:45:27+00:00
- - user: None
- - tags: ['ngrok', 'self-host', 'open source']
-
-## POURIA 🦋
- - [https://pouria.dev](https://pouria.dev)
- - date published: 2023-10-25T18:40:48.495860+00:00
- - user: None
- - tags: []
-
-## Puppeteer | Puppeteer
- - [https://pptr.dev](https://pptr.dev)
- - date published: 2024-01-17T09:19:59+00:00
- - user: rumpel
- - tags: ['web scraping']
-
-## pql – pql docs
- - [https://docs.pql.dev](https://docs.pql.dev)
- - date published: 2024-05-09T07:20:38.920989+00:00
- - user: None
- - tags: []
-
-## Pql, a pipelined query language that compiles to SQL (written in Go)
- - [https://pql.dev](https://pql.dev)
- - date published: 2024-02-28T15:33:56+00:00
- - user: None
- - tags: []
-
-## Precursor
- - [https://precursor.dev](https://precursor.dev)
- - date published: 2024-06-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Preevy by Livecycle | Preevy
- - [https://preevy.dev](https://preevy.dev)
- - date published: 2024-05-06T06:41:20.265566+00:00
- - user: None
- - tags: []
-
-## prefix.dev â€“ solving software package management
- - [https://prefix.dev](https://prefix.dev)
- - date published: 2024-02-26T14:06:05.894255+00:00
- - user: None
- - tags: []
-
-## My personal website.
- - [https://prince.dev](https://prince.dev)
- - date published: 2024-05-09T08:44:37.168272+00:00
- - user: None
- - tags: []
-
-## Introduction – PrivateGPT | Docs
- - [https://docs.privategpt.dev](https://docs.privategpt.dev)
- - date published: 2024-05-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://www.privatemarket.dev
- - [https://www.privatemarket.dev](https://www.privatemarket.dev)
- - date published: 2024-01-09T02:57:31.384269+00:00
- - user: None
- - tags: []
-
-## Emil Privér
- - [https://priver.dev](https://priver.dev)
- - date published: 2024-05-08T11:01:00.346353+00:00
- - user: None
- - tags: []
-
-## PrivSec - A practical approach to Privacy and Security
- - [https://privsec.dev](https://privsec.dev)
- - date published: 2023-10-25T18:40:49.926726+00:00
- - user: None
- - tags: []
-
-## prma
- - [https://prma.dev](https://prma.dev)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## 🏝 Roadmap - Grigora
- - [https://grigora.productlift.dev](https://grigora.productlift.dev)
- - date published: 2024-05-11T05:39:42.628921+00:00
- - user: None
- - tags: []
-
-## React Job Simulator by Profy.dev
- - [https://profy.dev](https://profy.dev)
- - date published: 2023-10-25T18:40:51.947206+00:00
- - user: None
- - tags: []
-
-## All gists - Opengist
- - [https://blocks.programming.dev](https://blocks.programming.dev)
- - date published: 2024-04-30T02:11:43.912498+00:00
- - user: None
- - tags: []
-
-## Programming.Dev Bytes
- - [https://bytes.programming.dev](https://bytes.programming.dev)
- - date published: 2024-04-30T02:11:40.682651+00:00
- - user: None
- - tags: []
-
-## Git
- - [https://git.programming.dev](https://git.programming.dev)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## | P.D Legal
- - [https://legal.programming.dev](https://legal.programming.dev)
- - date published: 2024-03-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Programming.Dev
- - [https://me.programming.dev](https://me.programming.dev)
- - date published: 2024-04-30T02:11:39.570934+00:00
- - user: None
- - tags: []
-
-## programming.dev - A collection of programming communities
- - [https://programming.dev](https://programming.dev)
- - date published: 2023-10-25T18:40:53.820318+00:00
- - user: None
- - tags: []
-
-## Voyager for Lemmy
- - [https://v.programming.dev](https://v.programming.dev)
- - date published: 2024-04-30T02:11:42.185729+00:00
- - user: None
- - tags: []
-
-## Wiki
- - [https://wiki.programming.dev](https://wiki.programming.dev)
- - date published: 2024-04-30T02:11:34.113213+00:00
- - user: None
- - tags: []
-
-## Protocol Buffers
- - [https://protobuf.dev](https://protobuf.dev)
- - date published: 2024-04-29T07:32:35.346159+00:00
- - user: None
- - tags: []
-
-## The official repository for Dart and Flutter packages.
- - [https://pub.dev](https://pub.dev)
- - date published: 2024-04-29T07:44:05.422236+00:00
- - user: None
- - tags: ['package manager', 'dart', 'flutter']
-
-## Home |
- - [https://pulsar-edit.dev](https://pulsar-edit.dev)
- - date published: 2023-10-25T18:41:00.178641+00:00
- - user: None
- - tags: []
-
-## Pulsar Package Explorer
- - [https://web.pulsar-edit.dev](https://web.pulsar-edit.dev)
- - date published: 2024-04-30T02:11:45.108911+00:00
- - user: None
- - tags: []
-
-## Redirecting...
- - [https://blog.pydantic.dev](https://blog.pydantic.dev)
- - date published: 2024-04-30T02:12:09.320810+00:00
- - user: None
- - tags: []
-
-## Welcome to Pydantic - Pydantic
- - [https://docs.pydantic.dev](https://docs.pydantic.dev)
- - date published: 2023-10-25T18:41:02.319299+00:00
- - user: None
- - tags: []
-
-## Pydantic
- - [https://pydantic.dev](https://pydantic.dev)
- - date published: 2024-01-09T00:00:00+00:00
- - user: rumpel
- - tags: ['online tool', 'online validation']
-
-## Flox
- - [https://flox-demo.pyxl.dev](https://flox-demo.pyxl.dev)
- - date published: 2024-04-08T19:28:27.177415+00:00
- - user: None
- - tags: []
-
-## | Ivan's blog
- - [https://qdiv.dev](https://qdiv.dev)
- - date published: 2024-04-09T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Qian Li
- - [https://qianli.dev](https://qianli.dev)
- - date published: 2024-04-28T03:38:49.813786+00:00
- - user: None
- - tags: []
-
-## Quary
- - [https://quary.dev](https://quary.dev)
- - date published: 2024-05-15T15:49:57.343883+00:00
- - user: None
- - tags: []
-
-## Quary
- - [https://www.quary.dev](https://www.quary.dev)
- - date published: 2024-05-15T15:50:07.945117+00:00
- - user: None
- - tags: []
-
-## Quasar Framework - Build high-performance VueJS user interfaces in record time
- - [https://quasar.dev](https://quasar.dev)
- - date published: 2024-05-08T09:01:47.216382+00:00
- - user: None
- - tags: []
-
-## Chris James - Learn Go with Tests reaches 20k stars
- - [https://quii.dev](https://quii.dev)
- - date published: 2023-10-25T18:41:02.923807+00:00
- - user: None
- - tags: []
-
-## https://blog.qwertyforce.dev
- - [https://blog.qwertyforce.dev](https://blog.qwertyforce.dev)
- - date published: 2024-01-09T02:57:33.591668+00:00
- - user: None
- - tags: []
-
-## Framework reimagined for the edge! 📚 Qwik Documentation
- - [https://qwik.dev](https://qwik.dev)
- - date published: 2024-04-28T02:52:03.847627+00:00
- - user: None
- - tags: []
-
-## Not Found
- - [https://pub-02bff1796dd84d2d842f219d10ae945d.r2.dev](https://pub-02bff1796dd84d2d842f219d10ae945d.r2.dev)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Not Found
- - [https://pub-b1f092b6867f4495b8f149d222a3bffe.r2.dev](https://pub-b1f092b6867f4495b8f149d222a3bffe.r2.dev)
- - date published: 2024-04-28T03:42:02.922811+00:00
- - user: None
- - tags: []
-
-## Not Found
- - [https://pub-d2efe3e17529441382e3a932c9b9deca.r2.dev](https://pub-d2efe3e17529441382e3a932c9b9deca.r2.dev)
- - date published: 2024-04-28T03:22:52.753715+00:00
- - user: None
- - tags: []
-
-## Not Found
- - [https://pub-deb0055557834ed6ba5dbc2a44e5eaf0.r2.dev](https://pub-deb0055557834ed6ba5dbc2a44e5eaf0.r2.dev)
- - date published: 2024-04-29T07:44:13.817159+00:00
- - user: None
- - tags: []
-
-## Semgrep — Find bugs and enforce code standards
- - [https://r2c.dev](https://r2c.dev)
- - date published: 2023-10-25T18:41:07.216345+00:00
- - user: None
- - tags: []
-
-## PostHog
- - [https://logs.radekmie.dev](https://logs.radekmie.dev)
- - date published: 2021-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## @radekmie’s take on IT and stuff
- - [https://radekmie.dev](https://radekmie.dev)
- - date published: 2024-05-04T15:25:55.657035+00:00
- - user: None
- - tags: []
-
-## Radiki Dev
- - [https://radiki.dev](https://radiki.dev)
- - date published: 2024-03-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Raed's blog
- - [https://blog.raed.dev](https://blog.raed.dev)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Roni Äikäs
- - [https://raikas.dev](https://raikas.dev)
- - date published: 2024-01-12T10:32:49.573822+00:00
- - user: None
- - tags: []
-
-## Carmen Huidobro
- - [https://ramonh.dev](https://ramonh.dev)
- - date published: 2024-05-07T23:10:50.023509+00:00
- - user: None
- - tags: []
-
-## Full-Stack Laravel Developer
- - [https://randallwilk.dev](https://randallwilk.dev)
- - date published: 2024-05-11T10:11:02.621041+00:00
- - user: None
- - tags: []
-
-## Justin's personal site
- - [https://randomshit.dev](https://randomshit.dev)
- - date published: 2023-10-25T18:41:11.166727+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://raptori.dev](https://raptori.dev)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Rasbora.dev
- - [https://rasbora.dev](https://rasbora.dev)
- - date published: 2023-10-25T08:48:56.751019+00:00
- - user: None
- - tags: ['personal']
-
-## Website and Blog
- - [https://raulmelo.dev](https://raulmelo.dev)
- - date published: 2024-04-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ryan's Dev Blog
- - [https://rbates.dev](https://rbates.dev)
- - date published: 2023-10-25T08:58:48.184268+00:00
- - user: None
- - tags: ['personal']
 
