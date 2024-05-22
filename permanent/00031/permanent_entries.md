@@ -1,3 +1,249 @@
+## Constant Disappointment
+ - [https://ext-4919352.livejournal.com](https://ext-4919352.livejournal.com)
+ - date published: 2024-05-04T12:56:50.940228+00:00
+ - user: None
+ - tags: []
+
+## leoheck
+ - [https://ext-6257371.livejournal.com](https://ext-6257371.livejournal.com)
+ - date published: 2024-05-12T04:52:48.157871+00:00
+ - user: None
+ - tags: []
+
+## Luigi Rizzo
+ - [https://ext-6532508.livejournal.com](https://ext-6532508.livejournal.com)
+ - date published: 2024-05-12T04:47:42.925521+00:00
+ - user: None
+ - tags: []
+
+## Le blog mode de Joy
+ - [http://fashionista-35.livejournal.com](http://fashionista-35.livejournal.com)
+ - date published: 2024-05-08T06:33:44.626933+00:00
+ - user: None
+ - tags: []
+
+## Fatcult.ru - тупо, но смешно!
+ - [https://fastcult.livejournal.com](https://fastcult.livejournal.com)
+ - date published: 2024-05-09T07:10:43.800079+00:00
+ - user: None
+ - tags: []
+
+## Маскот Живого Журнала / LJ mascot
+ - [https://frank.livejournal.com](https://frank.livejournal.com)
+ - date published: 2024-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## gregstoll
+ - [http://gregstoll.livejournal.com](http://gregstoll.livejournal.com)
+ - date published: 2024-05-12T05:31:55.961270+00:00
+ - user: None
+ - tags: []
+
+## japanese-cake
+ - [https://japanese-cake.livejournal.com](https://japanese-cake.livejournal.com)
+ - date published: 2024-05-13T03:56:14.944787+00:00
+ - user: None
+ - tags: []
+
+## A Place for Strangers and Beggars
+ - [http://jimvanpelt.livejournal.com](http://jimvanpelt.livejournal.com)
+ - date published: 2024-05-08T06:34:58.627217+00:00
+ - user: None
+ - tags: []
+
+## Liam on Linux
+ - [https://liam-on-linux.livejournal.com](https://liam-on-linux.livejournal.com)
+ - date published: 2024-05-04T12:57:32.476552+00:00
+ - user: None
+ - tags: []
+
+## LiveJournal: Discover global communities of bloggers who share your unique passions and interests.
+ - [https://livejournal.com](https://livejournal.com)
+ - date published: 2024-03-04T10:22:21+00:00
+ - user: rumpel
+ - tags: ['blog platform']
+
+## Выбор редакции
+ - [https://lj-editors.livejournal.com](https://lj-editors.livejournal.com)
+ - date published: 2024-03-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ljforcommunity
+ - [https://ljforcommunity.livejournal.com](https://ljforcommunity.livejournal.com)
+ - date published: 2024-05-04T12:56:20.362559+00:00
+ - user: None
+ - tags: []
+
+## lj_top15
+ - [https://lj-top15.livejournal.com](https://lj-top15.livejournal.com)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## lj_top15_noncyr
+ - [https://lj-top15-noncyr.livejournal.com](https://lj-top15-noncyr.livejournal.com)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## lj_top15_ukr
+ - [https://lj-top15-ukr.livejournal.com](https://lj-top15-ukr.livejournal.com)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Liam&#39;s write-only LJ
+ - [https://lproven.livejournal.com](https://lproven.livejournal.com)
+ - date published: 2024-01-09T17:03:54.463691+00:00
+ - user: None
+ - tags: []
+
+## throw another bear in the canoe
+ - [http://matociquala.livejournal.com](http://matociquala.livejournal.com)
+ - date published: 2024-05-08T06:43:03.917511+00:00
+ - user: None
+ - tags: []
+
+## The Cat&#39;s Ramble
+ - [https://nesacat.livejournal.com](https://nesacat.livejournal.com)
+ - date published: 2024-05-04T12:57:12.083976+00:00
+ - user: None
+ - tags: []
+
+## LiveJournal News
+ - [https://news.livejournal.com](https://news.livejournal.com)
+ - date published: 2024-04-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## nickclifton
+ - [https://nickclifton.livejournal.com](https://nickclifton.livejournal.com)
+ - date published: 2024-05-19T02:43:57.013697+00:00
+ - user: None
+ - tags: []
+
+## ... — LiveJournal
+ - [https://obartunov.livejournal.com](https://obartunov.livejournal.com)
+ - date published: 2023-10-25T15:48:45.490338+00:00
+ - user: None
+ - tags: []
+
+## opportunitygrrl
+ - [https://opportunitygrrl.livejournal.com](https://opportunitygrrl.livejournal.com)
+ - date published: 2024-03-03T17:35:03.201488+00:00
+ - user: None
+ - tags: []
+
+## Wanderlust
+ - [https://ostrea.livejournal.com](https://ostrea.livejournal.com)
+ - date published: 2024-05-04T12:57:53.454449+00:00
+ - user: None
+ - tags: []
+
+## ozarque
+ - [http://ozarque.livejournal.com](http://ozarque.livejournal.com)
+ - date published: 2024-05-07T21:56:44.977213+00:00
+ - user: None
+ - tags: []
+
+## Paul E. McKenney&#39;s Journal
+ - [https://paulmck.livejournal.com](https://paulmck.livejournal.com)
+ - date published: 2024-03-31T11:52:34.080696+00:00
+ - user: None
+ - tags: []
+
+## Phillip Norbert &Aring;rp
+ - [https://pnarp.livejournal.com](https://pnarp.livejournal.com)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Nickie&#39;s Nook
+ - [http://puppybraille.livejournal.com](http://puppybraille.livejournal.com)
+ - date published: 2024-05-07T16:02:53.254015+00:00
+ - user: None
+ - tags: []
+
+## A Roguish Chrestomathy
+ - [http://q-pheevr.livejournal.com](http://q-pheevr.livejournal.com)
+ - date published: 2024-05-07T21:55:45.672158+00:00
+ - user: None
+ - tags: []
+
+## retention
+ - [https://retention.livejournal.com](https://retention.livejournal.com)
+ - date published: 2024-05-04T12:56:14.156026+00:00
+ - user: None
+ - tags: []
+
+## Ретрофутуризм. Retrofuturism — LiveJournal
+ - [https://retro-futurism.livejournal.com](https://retro-futurism.livejournal.com)
+ - date published: 2023-10-25T15:48:51.580966+00:00
+ - user: None
+ - tags: []
+
+## Новости ЖЖ
+ - [https://ru-news.livejournal.com](https://ru-news.livejournal.com)
+ - date published: 2024-04-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Oached Pish
+ - [http://sartorias.livejournal.com](http://sartorias.livejournal.com)
+ - date published: 2024-05-08T06:35:34.140185+00:00
+ - user: None
+ - tags: []
+
+## schmonz
+ - [http://schmonz.livejournal.com](http://schmonz.livejournal.com)
+ - date published: 2024-04-29T02:19:29.923284+00:00
+ - user: None
+ - tags: []
+
+## Shanna&#39;s Journal
+ - [http://shanna-s.livejournal.com](http://shanna-s.livejournal.com)
+ - date published: 2024-05-08T06:37:15.996366+00:00
+ - user: None
+ - tags: []
+
+## Syndication
+ - [http://syndicated.livejournal.com](http://syndicated.livejournal.com)
+ - date published: 2024-05-08T06:37:12.468916+00:00
+ - user: None
+ - tags: []
+
+## My Shame Is TL;DR
+ - [https://thefourthvine.livejournal.com](https://thefourthvine.livejournal.com)
+ - date published: 2024-04-04T13:27:38.832951+00:00
+ - user: None
+ - tags: []
+
+## Times for the Times
+ - [https://times-xwd-times.livejournal.com](https://times-xwd-times.livejournal.com)
+ - date published: 2024-05-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Vintage Ads
+ - [https://vintage-ads.livejournal.com](https://vintage-ads.livejournal.com)
+ - date published: 2024-05-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Журнал Витуса.
+ - [https://vitus-wagner.livejournal.com](https://vitus-wagner.livejournal.com)
+ - date published: 2024-05-04T12:57:43.294411+00:00
+ - user: None
+ - tags: []
+
+## Writer&#39;s Block
+ - [https://writersblock.livejournal.com](https://writersblock.livejournal.com)
+ - date published: 2024-05-04T12:56:45.450109+00:00
+ - user: None
+ - tags: []
+
 ## LiveJournal: Discover global communities of bloggers who share your unique passions and interests.
  - [https://www.livejournal.com](https://www.livejournal.com)
  - date published: 2024-05-01T06:28:15.777890+00:00
@@ -5752,252 +5998,6 @@ diversions.
 ## Home - Makansutra
  - [https://makansutra.com](https://makansutra.com)
  - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## A blog by @makaroni4
- - [https://makaroni4.com](https://makaroni4.com)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Make Amazon Pay for garment worker safety
- - [https://makeamazonpay.com](https://makeamazonpay.com)
- - date published: 2024-04-29T05:15:11.918211+00:00
- - user: None
- - tags: []
-
-## Make America Walkable Again
- - [https://makeamericawalkable.com](https://makeamericawalkable.com)
- - date published: 2023-10-25T15:54:41.558574+00:00
- - user: None
- - tags: []
-
-## Make Art with Python
- - [https://www.makeartwithpython.com](https://www.makeartwithpython.com)
- - date published: 2023-10-25T15:54:43.070926+00:00
- - user: None
- - tags: ['programming', 'python']
-
-## Climate & Environment
- - [http://www.makechangefly.com](http://www.makechangefly.com)
- - date published: 2024-05-12T05:11:18.121152+00:00
- - user: None
- - tags: []
-
-## Microsoft MakeCode Arcade
- - [https://arcade.makecode.com](https://arcade.makecode.com)
- - date published: 2024-04-30T02:28:26.103806+00:00
- - user: None
- - tags: []
-
-## OPEN LETTER: Make DMs Safe
- - [https://www.makedmssafe.com](https://www.makedmssafe.com)
- - date published: 2024-05-12T06:08:26.775820+00:00
- - user: None
- - tags: []
-
-## The magic button — Make Everything OK
- - [https://make-everything-ok.com](https://make-everything-ok.com)
- - date published: 2023-12-12T12:07:19+00:00
- - user: rumpel
- - tags: []
-
-## Makefile Tutorial By Example
- - [https://makefiletutorial.com](https://makefiletutorial.com)
- - date published: 2023-10-25T15:54:44.493732+00:00
- - user: None
- - tags: []
-
-## MakeItFrom.com: Material Properties Database
- - [https://www.makeitfrom.com](https://www.makeitfrom.com)
- - date published: 2023-10-25T15:54:45.799547+00:00
- - user: None
- - tags: []
-
-## Working, studying, living in Germany
- - [https://www.make-it-in-germany.com](https://www.make-it-in-germany.com)
- - date published: 2024-05-11T08:03:02.188061+00:00
- - user: None
- - tags: []
-
-## MakeitMania.
- - [https://makeitmania.com](https://makeitmania.com)
- - date published: 2024-03-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Make Life Work podcast with Si Jobling
- - [http://makelifeworkpodcast.com](http://makelifeworkpodcast.com)
- - date published: 2024-04-29T03:50:43.571109+00:00
- - user: None
- - tags: []
-
-## Makelog | Continuous communication for today's fast-shipping teams
- - [https://www.makelog.com](https://www.makelog.com)
- - date published: 2024-04-30T06:58:45.524637+00:00
- - user: None
- - tags: []
-
-## Events
- - [http://www.makeoutroom.com](http://www.makeoutroom.com)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sell digital downloads—commission free with Make Post Sell
- - [https://www.makepostsell.com](https://www.makepostsell.com)
- - date published: 2024-05-09T07:47:54.597148+00:00
- - user: None
- - tags: []
-
-## Maker Advisor
- - [https://makeradvisor.com](https://makeradvisor.com)
- - date published: 2024-05-07T10:18:14.769679+00:00
- - user: None
- - tags: []
-
-## MakerBot CloudPrint™
- - [https://login.makerbot.com](https://login.makerbot.com)
- - date published: 2024-04-30T14:02:13.978267+00:00
- - user: None
- - tags: []
-
-## MakerBot 3D Printers
- - [https://makerbot.com](https://makerbot.com)
- - date published: 2024-04-09T00:00:00+00:00
- - user: rumpel
- - tags: ['3d printing']
-
-## UltiMaker | MakerBot | Shop 3D Printers Built for Professional and Education Applications
- - [https://store.makerbot.com](https://store.makerbot.com)
- - date published: 2024-04-30T14:02:28.345097+00:00
- - user: None
- - tags: []
-
-## MakerBot 3D Printers
- - [https://www.makerbot.com](https://www.makerbot.com)
- - date published: 2024-04-09T00:00:00+00:00
- - user: None
- - tags: ['3d printing']
-
-## Maker By Mistake
- - [http://makerbymistake.com](http://makerbymistake.com)
- - date published: 2024-05-01T07:34:06.300336+00:00
- - user: None
- - tags: []
-
-## Maker Camp on Make: Community
- - [https://makercamp.com](https://makercamp.com)
- - date published: 2024-02-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Makerdiary Blog
- - [https://blog.makerdiary.com](https://blog.makerdiary.com)
- - date published: 2024-05-04T14:10:55.154168+00:00
- - user: None
- - tags: []
-
-## Makerdiary Community
- - [https://community.makerdiary.com](https://community.makerdiary.com)
- - date published: 2024-05-04T14:10:59.966065+00:00
- - user: None
- - tags: []
-
-## makerdiary - Your Connected Hardware Partner
- - [https://makerdiary.com](https://makerdiary.com)
- - date published: 2024-05-04T14:10:58.742810+00:00
- - user: None
- - tags: []
-
-## Home - Makerdiary Wiki
- - [https://wiki.makerdiary.com](https://wiki.makerdiary.com)
- - date published: 2023-10-25T15:54:46.717561+00:00
- - user: None
- - tags: []
-
-## Maker Faire |
- - [https://makerfaire.com](https://makerfaire.com)
- - date published: 2023-10-25T15:54:51.642732+00:00
- - user: None
- - tags: []
-
-## 7th Annual - Maker Faire NoVa
- - [http://makerfairenova.com](http://makerfairenova.com)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## 7th Annual - Maker Faire NoVa
- - [http://www.makerfairenova.com](http://www.makerfairenova.com)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## 3D Printers | MakerGear
- - [http://www.makergear.com](http://www.makergear.com)
- - date published: 2024-05-07T15:59:24.184850+00:00
- - user: None
- - tags: []
-
-## Welcome to Maker Hacks
- - [https://www.makerhacks.com](https://www.makerhacks.com)
- - date published: 2023-12-11T17:52:35.069448+00:00
- - user: None
- - tags: ['hardware tinkering', 'hardware hacking']
-
-## Make: Projects
- - [https://makershare.com](https://makershare.com)
- - date published: 2024-05-09T04:19:19.322925+00:00
- - user: None
- - tags: []
-
-## Maker Shed: Official Store of Make: and Maker Faire since 2005
- - [https://makershed.com](https://makershed.com)
- - date published: 2024-05-04T14:11:21.534371+00:00
- - user: None
- - tags: []
-
-## Maker Shed: Official Store of Make: and Maker Faire since 2005
- - [https://www.makershed.com](https://www.makershed.com)
- - date published: 2024-05-04T14:11:08.832119+00:00
- - user: None
- - tags: []
-
-## Makers Mashup Wiki
- - [https://wiki.makersmashup.com](https://wiki.makersmashup.com)
- - date published: 2022-04-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## DIY | Makers Mashup
- - [https://www.makersmashup.com](https://www.makersmashup.com)
- - date published: 2023-10-27T10:17:04.972576+00:00
- - user: None
- - tags: ['3d printing', 'dyi', 'hobby']
-
-## Maker Portal
- - [https://makersportal.com](https://makersportal.com)
- - date published: 2024-05-09T04:20:07.889543+00:00
- - user: None
- - tags: []
-
-## MakerWidget
- - [https://makerwidget.com](https://makerwidget.com)
- - date published: 2024-05-06T12:58:49.512188+00:00
- - user: None
- - tags: []
-
-## MakerWorld
- - [https://makerworld.com](https://makerworld.com)
- - date published: 2024-03-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## make-safe-ai/is-bing-chat-safe
- - [https://www.make-safe-ai.com](https://www.make-safe-ai.com)
- - date published: 2023-10-25T15:54:39.527554+00:00
  - user: None
  - tags: []
 

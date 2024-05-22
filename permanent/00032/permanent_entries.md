@@ -1,3 +1,249 @@
+## A blog by @makaroni4
+ - [https://makaroni4.com](https://makaroni4.com)
+ - date published: 2020-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Make Amazon Pay for garment worker safety
+ - [https://makeamazonpay.com](https://makeamazonpay.com)
+ - date published: 2024-04-29T05:15:11.918211+00:00
+ - user: None
+ - tags: []
+
+## Make America Walkable Again
+ - [https://makeamericawalkable.com](https://makeamericawalkable.com)
+ - date published: 2023-10-25T15:54:41.558574+00:00
+ - user: None
+ - tags: []
+
+## Make Art with Python
+ - [https://www.makeartwithpython.com](https://www.makeartwithpython.com)
+ - date published: 2023-10-25T15:54:43.070926+00:00
+ - user: None
+ - tags: ['programming', 'python']
+
+## Climate & Environment
+ - [http://www.makechangefly.com](http://www.makechangefly.com)
+ - date published: 2024-05-12T05:11:18.121152+00:00
+ - user: None
+ - tags: []
+
+## Microsoft MakeCode Arcade
+ - [https://arcade.makecode.com](https://arcade.makecode.com)
+ - date published: 2024-04-30T02:28:26.103806+00:00
+ - user: None
+ - tags: []
+
+## OPEN LETTER: Make DMs Safe
+ - [https://www.makedmssafe.com](https://www.makedmssafe.com)
+ - date published: 2024-05-12T06:08:26.775820+00:00
+ - user: None
+ - tags: []
+
+## The magic button — Make Everything OK
+ - [https://make-everything-ok.com](https://make-everything-ok.com)
+ - date published: 2023-12-12T12:07:19+00:00
+ - user: rumpel
+ - tags: []
+
+## Makefile Tutorial By Example
+ - [https://makefiletutorial.com](https://makefiletutorial.com)
+ - date published: 2023-10-25T15:54:44.493732+00:00
+ - user: None
+ - tags: []
+
+## MakeItFrom.com: Material Properties Database
+ - [https://www.makeitfrom.com](https://www.makeitfrom.com)
+ - date published: 2023-10-25T15:54:45.799547+00:00
+ - user: None
+ - tags: []
+
+## Working, studying, living in Germany
+ - [https://www.make-it-in-germany.com](https://www.make-it-in-germany.com)
+ - date published: 2024-05-11T08:03:02.188061+00:00
+ - user: None
+ - tags: []
+
+## MakeitMania.
+ - [https://makeitmania.com](https://makeitmania.com)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Make Life Work podcast with Si Jobling
+ - [http://makelifeworkpodcast.com](http://makelifeworkpodcast.com)
+ - date published: 2024-04-29T03:50:43.571109+00:00
+ - user: None
+ - tags: []
+
+## Makelog | Continuous communication for today's fast-shipping teams
+ - [https://www.makelog.com](https://www.makelog.com)
+ - date published: 2024-04-30T06:58:45.524637+00:00
+ - user: None
+ - tags: []
+
+## Events
+ - [http://www.makeoutroom.com](http://www.makeoutroom.com)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sell digital downloads—commission free with Make Post Sell
+ - [https://www.makepostsell.com](https://www.makepostsell.com)
+ - date published: 2024-05-09T07:47:54.597148+00:00
+ - user: None
+ - tags: []
+
+## Maker Advisor
+ - [https://makeradvisor.com](https://makeradvisor.com)
+ - date published: 2024-05-07T10:18:14.769679+00:00
+ - user: None
+ - tags: []
+
+## MakerBot CloudPrint™
+ - [https://login.makerbot.com](https://login.makerbot.com)
+ - date published: 2024-04-30T14:02:13.978267+00:00
+ - user: None
+ - tags: []
+
+## MakerBot 3D Printers
+ - [https://makerbot.com](https://makerbot.com)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['3d printing']
+
+## UltiMaker | MakerBot | Shop 3D Printers Built for Professional and Education Applications
+ - [https://store.makerbot.com](https://store.makerbot.com)
+ - date published: 2024-04-30T14:02:28.345097+00:00
+ - user: None
+ - tags: []
+
+## MakerBot 3D Printers
+ - [https://www.makerbot.com](https://www.makerbot.com)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: None
+ - tags: ['3d printing']
+
+## Maker By Mistake
+ - [http://makerbymistake.com](http://makerbymistake.com)
+ - date published: 2024-05-01T07:34:06.300336+00:00
+ - user: None
+ - tags: []
+
+## Maker Camp on Make: Community
+ - [https://makercamp.com](https://makercamp.com)
+ - date published: 2024-02-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Makerdiary Blog
+ - [https://blog.makerdiary.com](https://blog.makerdiary.com)
+ - date published: 2024-05-04T14:10:55.154168+00:00
+ - user: None
+ - tags: []
+
+## Makerdiary Community
+ - [https://community.makerdiary.com](https://community.makerdiary.com)
+ - date published: 2024-05-04T14:10:59.966065+00:00
+ - user: None
+ - tags: []
+
+## makerdiary - Your Connected Hardware Partner
+ - [https://makerdiary.com](https://makerdiary.com)
+ - date published: 2024-05-04T14:10:58.742810+00:00
+ - user: None
+ - tags: []
+
+## Home - Makerdiary Wiki
+ - [https://wiki.makerdiary.com](https://wiki.makerdiary.com)
+ - date published: 2023-10-25T15:54:46.717561+00:00
+ - user: None
+ - tags: []
+
+## Maker Faire |
+ - [https://makerfaire.com](https://makerfaire.com)
+ - date published: 2023-10-25T15:54:51.642732+00:00
+ - user: None
+ - tags: []
+
+## 7th Annual - Maker Faire NoVa
+ - [http://makerfairenova.com](http://makerfairenova.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 7th Annual - Maker Faire NoVa
+ - [http://www.makerfairenova.com](http://www.makerfairenova.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 3D Printers | MakerGear
+ - [http://www.makergear.com](http://www.makergear.com)
+ - date published: 2024-05-07T15:59:24.184850+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Maker Hacks
+ - [https://www.makerhacks.com](https://www.makerhacks.com)
+ - date published: 2023-12-11T17:52:35.069448+00:00
+ - user: None
+ - tags: ['hardware tinkering', 'hardware hacking']
+
+## Make: Projects
+ - [https://makershare.com](https://makershare.com)
+ - date published: 2024-05-09T04:19:19.322925+00:00
+ - user: None
+ - tags: []
+
+## Maker Shed: Official Store of Make: and Maker Faire since 2005
+ - [https://makershed.com](https://makershed.com)
+ - date published: 2024-05-04T14:11:21.534371+00:00
+ - user: None
+ - tags: []
+
+## Maker Shed: Official Store of Make: and Maker Faire since 2005
+ - [https://www.makershed.com](https://www.makershed.com)
+ - date published: 2024-05-04T14:11:08.832119+00:00
+ - user: None
+ - tags: []
+
+## Makers Mashup Wiki
+ - [https://wiki.makersmashup.com](https://wiki.makersmashup.com)
+ - date published: 2022-04-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DIY | Makers Mashup
+ - [https://www.makersmashup.com](https://www.makersmashup.com)
+ - date published: 2023-10-27T10:17:04.972576+00:00
+ - user: None
+ - tags: ['3d printing', 'dyi', 'hobby']
+
+## Maker Portal
+ - [https://makersportal.com](https://makersportal.com)
+ - date published: 2024-05-09T04:20:07.889543+00:00
+ - user: None
+ - tags: []
+
+## MakerWidget
+ - [https://makerwidget.com](https://makerwidget.com)
+ - date published: 2024-05-06T12:58:49.512188+00:00
+ - user: None
+ - tags: []
+
+## MakerWorld
+ - [https://makerworld.com](https://makerworld.com)
+ - date published: 2024-03-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## make-safe-ai/is-bing-chat-safe
+ - [https://www.make-safe-ai.com](https://www.make-safe-ai.com)
+ - date published: 2023-10-25T15:54:39.527554+00:00
+ - user: None
+ - tags: []
+
 ## Makeship
  - [https://www.makeship.com](https://www.makeship.com)
  - date published: 2024-05-07T10:34:41.873552+00:00
@@ -2879,6 +3125,12 @@
  - user: None
  - tags: ['personal']
 
+## Mathieu Larose
+ - [https://mathieularose.com](https://mathieularose.com)
+ - date published: 2024-05-21T06:57:35.935338+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Home
  - [http://mathieuodin.com](http://mathieuodin.com)
  - date published: 2024-05-10T00:00:00+00:00
@@ -3316,6 +3568,12 @@
  - date published: 2024-02-25T21:17:57.135394+00:00
  - user: None
  - tags: ['personal']
+
+## Matthew Ström, designer-leader
+ - [https://matthewstrom.com](https://matthewstrom.com)
+ - date published: 2024-05-20T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Matthew Tancik
  - [https://www.matthewtancik.com](https://www.matthewtancik.com)
@@ -5743,262 +6001,4 @@
  - date published: 2023-10-25T10:20:04.645101+00:00
  - user: None
  - tags: []
-
-## Eran Stiller – Medium
- - [https://estiller.medium.com](https://estiller.medium.com)
- - date published: 2024-05-02T09:37:30.563527+00:00
- - user: None
- - tags: []
-
-## E.A. – Medium
- - [https://etakc.medium.com](https://etakc.medium.com)
- - date published: 2024-02-08T16:43:13.388196+00:00
- - user: None
- - tags: []
-
-## Eva Schicker – Medium
- - [https://evaschicker.medium.com](https://evaschicker.medium.com)
- - date published: 2024-04-30T05:46:18.768610+00:00
- - user: None
- - tags: []
-
-## exAspArk – Medium
- - [https://exaspark.medium.com](https://exaspark.medium.com)
- - date published: 2024-02-24T04:35:47.325483+00:00
- - user: None
- - tags: []
-
-## Fabricio Teixeira – Medium
- - [https://fabriciot.medium.com](https://fabriciot.medium.com)
- - date published: 2024-04-30T05:46:56.820371+00:00
- - user: None
- - tags: []
-
-## Felipe Pepe – Medium
- - [https://felipepepe.medium.com](https://felipepepe.medium.com)
- - date published: 2024-01-09T01:46:29.522794+00:00
- - user: None
- - tags: []
-
-## Flipboard – Medium
- - [https://flipboard.medium.com](https://flipboard.medium.com)
- - date published: 2023-11-21T21:54:55.251511+00:00
- - user: None
- - tags: []
-
-## Robert Barron – Medium
- - [https://flyingbarron.medium.com](https://flyingbarron.medium.com)
- - date published: 2023-10-25T10:20:12.651490+00:00
- - user: None
- - tags: []
-
-## Forge
- - [https://forge.medium.com](https://forge.medium.com)
- - date published: 2024-05-08T04:03:34.693107+00:00
- - user: None
- - tags: []
-
-## Francisco Trindade – Medium
- - [https://franciscomt.medium.com](https://franciscomt.medium.com)
- - date published: 2023-10-25T10:20:15.354599+00:00
- - user: None
- - tags: []
-
-## fred benenson – Medium
- - [https://fredbenenson.medium.com](https://fredbenenson.medium.com)
- - date published: 2024-03-15T16:04:45.638100+00:00
- - user: None
- - tags: []
-
-## Fredrick Brennan – Medium
- - [https://fredrickbrennan.medium.com](https://fredrickbrennan.medium.com)
- - date published: 2023-10-25T10:20:17.725128+00:00
- - user: None
- - tags: []
-
-## Sara, CTRC-A, IFS – Medium
- - [https://fullcirclewellspring.medium.com](https://fullcirclewellspring.medium.com)
- - date published: 2024-02-08T22:20:24.261282+00:00
- - user: None
- - tags: ['personal']
-
-## Fungai Tichawangana – Medium
- - [https://fungaicreates.medium.com](https://fungaicreates.medium.com)
- - date published: 2024-05-04T07:14:08.907863+00:00
- - user: None
- - tags: []
-
-## fwsGonzo – Medium
- - [https://fwsgonzo.medium.com](https://fwsgonzo.medium.com)
- - date published: 2023-10-25T10:20:24.721924+00:00
- - user: None
- - tags: []
-
-## Ayush Singh – Medium
- - [https://g147.medium.com](https://g147.medium.com)
- - date published: 2023-10-25T10:20:26.675224+00:00
- - user: None
- - tags: []
-
-## Gaby Goldberg – Medium
- - [https://gabygoldberg.medium.com](https://gabygoldberg.medium.com)
- - date published: 2024-05-04T14:02:37.442027+00:00
- - user: None
- - tags: []
-
-## ＧΛËＬ ＤＵＶΛＬ – Medium
- - [https://gael-duval.medium.com](https://gael-duval.medium.com)
- - date published: 2023-10-25T10:20:28.861577+00:00
- - user: None
- - tags: []
-
-## Chris Parnin – Medium
- - [https://gameweld.medium.com](https://gameweld.medium.com)
- - date published: 2023-10-25T10:20:30.941220+00:00
- - user: None
- - tags: []
-
-## Gatha Varma, PhD – Medium
- - [https://gatha-varma.medium.com](https://gatha-varma.medium.com)
- - date published: 2024-02-08T16:42:18.208872+00:00
- - user: None
- - tags: []
-
-## Gill McCulloch – Medium
- - [https://gill-mcculloch.medium.com](https://gill-mcculloch.medium.com)
- - date published: 2024-02-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Glauber Costa – Medium
- - [https://glaubercosta-11125.medium.com](https://glaubercosta-11125.medium.com)
- - date published: 2023-10-25T10:20:33.543522+00:00
- - user: None
- - tags: []
-
-## Glenn Fleishman – Medium
- - [https://glennf.medium.com](https://glennf.medium.com)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Medium – Where good ideas find you.
- - [https://glyph.medium.com](https://glyph.medium.com)
- - date published: 2024-04-28T02:37:30.000269+00:00
- - user: None
- - tags: []
-
-## Google Walkout For Real Change – Medium
- - [https://googlewalkout.medium.com](https://googlewalkout.medium.com)
- - date published: 2024-05-01T08:00:11.139213+00:00
- - user: None
- - tags: []
-
-## Guidione Machava – Medium
- - [https://guidione-machava.medium.com](https://guidione-machava.medium.com)
- - date published: 2024-02-08T18:45:20.489726+00:00
- - user: None
- - tags: []
-
-## Rez Harditya – Medium
- - [https://harditya.medium.com](https://harditya.medium.com)
- - date published: 2024-02-08T16:28:24.787394+00:00
- - user: None
- - tags: []
-
-## Haskell Foundation – Medium
- - [https://haskell-foundation.medium.com](https://haskell-foundation.medium.com)
- - date published: 2024-05-08T00:14:22.001985+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://help.medium.com](https://help.medium.com)
- - date published: 2024-04-28T02:58:30.529725+00:00
- - user: None
- - tags: []
-
-## Henry Ward – Medium
- - [https://henrysward.medium.com](https://henrysward.medium.com)
- - date published: 2024-01-08T00:57:08.537094+00:00
- - user: None
- - tags: []
-
-## Hugo Ferreira – Medium
- - [https://hugocf.medium.com](https://hugocf.medium.com)
- - date published: 2024-04-30T05:43:16.238973+00:00
- - user: None
- - tags: []
-
-## Huixiang Voice – Medium
- - [https://huixiangvoice.medium.com](https://huixiangvoice.medium.com)
- - date published: 2024-03-09T06:48:04.254874+00:00
- - user: None
- - tags: []
-
-## Hunter Walk – Medium
- - [https://hunterwalk.medium.com](https://hunterwalk.medium.com)
- - date published: 2024-04-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## IcePanel – Medium
- - [https://icepanel.medium.com](https://icepanel.medium.com)
- - date published: 2024-05-04T15:57:43.078548+00:00
- - user: None
- - tags: []
-
-## Grace Huang – Medium
- - [https://imgracehuang.medium.com](https://imgracehuang.medium.com)
- - date published: 2023-10-25T10:20:35.581391+00:00
- - user: None
- - tags: []
-
-## Index
- - [https://index.medium.com](https://index.medium.com)
- - date published: 2023-10-25T10:20:38.107205+00:00
- - user: None
- - tags: []
-
-## Inflect Health – Medium
- - [https://inflecthealth.medium.com](https://inflecthealth.medium.com)
- - date published: 2023-10-25T10:20:40.099627+00:00
- - user: None
- - tags: []
-
-## Sanyam Chawla – Medium
- - [https://infosecsanyam.medium.com](https://infosecsanyam.medium.com)
- - date published: 2024-05-11T08:26:09.857196+00:00
- - user: None
- - tags: []
-
-## Chris Altonji – Medium
- - [https://introductory.medium.com](https://introductory.medium.com)
- - date published: 2023-10-25T10:20:42.119853+00:00
- - user: None
- - tags: []
-
-## Jackson Cunningham – Medium
- - [https://jacksoncunningham.medium.com](https://jacksoncunningham.medium.com)
- - date published: 2023-10-25T10:20:43.946689+00:00
- - user: None
- - tags: []
-
-## Jacob Bennett – Medium
- - [https://jacobistyping.medium.com](https://jacobistyping.medium.com)
- - date published: 2024-04-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jake Spracher – Medium
- - [https://jakespracher.medium.com](https://jakespracher.medium.com)
- - date published: 2023-10-25T10:20:46.053371+00:00
- - user: None
- - tags: []
-
-## James Allworth – Medium
- - [https://jamesallworth.medium.com](https://jamesallworth.medium.com)
- - date published: 2024-05-06T13:55:37.802260+00:00
- - user: None
- - tags: ['personal']
 

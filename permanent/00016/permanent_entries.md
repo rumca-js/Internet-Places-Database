@@ -1,3 +1,147 @@
+## CRUMB | Circuit Simulator
+ - [https://www.crumbsim.com](https://www.crumbsim.com)
+ - date published: 2024-05-12T05:47:17.609045+00:00
+ - user: None
+ - tags: []
+
+## Constellation Games
+ - [https://constellation.crummy.com](https://constellation.crummy.com)
+ - date published: 2024-05-08T07:01:15.091278+00:00
+ - user: None
+ - tags: []
+
+## Swear not by the wiki, the fickle wiki, the inconstant wiki
+ - [https://www.crummy.com](https://www.crummy.com)
+ - date published: 2023-10-25T13:37:19.379716+00:00
+ - user: None
+ - tags: []
+
+## crumplab
+ - [https://crumplab.com](https://crumplab.com)
+ - date published: 2023-10-25T13:37:21.726921+00:00
+ - user: None
+ - tags: []
+
+## crumplab
+ - [https://www.crumplab.com](https://www.crumplab.com)
+ - date published: 2024-05-08T07:01:34.042764+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://about.crunchbase.com](https://about.crunchbase.com)
+ - date published: 2017-06-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Crunchbase: Discover innovative companies and the people behind them
+ - [https://crunchbase.com](https://crunchbase.com)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Crunchbase News: Data-driven reporting on private markets, startups, founders, and investors
+ - [https://news.crunchbase.com](https://news.crunchbase.com)
+ - date published: 2023-10-25T13:37:26.877787+00:00
+ - user: None
+ - tags: []
+
+## Crunchbase: Discover innovative companies and the people behind them
+ - [https://www.crunchbase.com](https://www.crunchbase.com)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Crunch Foundation
+ - [https://crunchdao.com](https://crunchdao.com)
+ - date published: 2024-04-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Log In | Crunchy Data
+ - [https://crunchybridge.com](https://crunchybridge.com)
+ - date published: 2024-05-08T07:02:11.463233+00:00
+ - user: None
+ - tags: []
+
+## Crunchy Bridge
+ - [https://docs.crunchybridge.com](https://docs.crunchybridge.com)
+ - date published: 2024-05-08T07:02:10.309714+00:00
+ - user: None
+ - tags: []
+
+## Log In | Crunchy Data
+ - [https://www.crunchybridge.com](https://www.crunchybridge.com)
+ - date published: 2024-05-08T07:02:08.847960+00:00
+ - user: None
+ - tags: []
+
+## Customer Portal | Crunchy Data
+ - [https://access.crunchydata.com](https://access.crunchydata.com)
+ - date published: 2024-05-08T07:02:07.118813+00:00
+ - user: None
+ - tags: []
+
+## Crunchy Data: Postgres for Cloud, Kubernetes, or Enterprise
+ - [https://link.crunchydata.com](https://link.crunchydata.com)
+ - date published: 2024-05-08T07:02:19.090399+00:00
+ - user: None
+ - tags: []
+
+## Crunchy Data: Postgres for Cloud, Kubernetes, or Enterprise
+ - [https://www.crunchydata.com](https://www.crunchydata.com)
+ - date published: 2023-10-25T08:30:20.731363+00:00
+ - user: None
+ - tags: []
+
+## Crunchyroll logo
+ - [http://crunchyroll.com](http://crunchyroll.com)
+ - date published: 2024-03-01T20:33:10.293733+00:00
+ - user: None
+ - tags: ['anime', 'video streaming']
+
+## https://www.crunchyroll.com
+ - [https://www.crunchyroll.com](https://www.crunchyroll.com)
+ - date published: 2023-10-25T13:11:56.653719+00:00
+ - user: None
+ - tags: ['anime', 'video streaming']
+
+## Crusader Kings III - Paradox Interactive
+ - [https://www.crusaderkings.com](https://www.crusaderkings.com)
+ - date published: 2024-05-14T02:49:15.845664+00:00
+ - user: None
+ - tags: []
+
+## Crusader Miniatures - Home Page
+ - [https://www.crusaderminiatures.com](https://www.crusaderminiatures.com)
+ - date published: 2024-05-08T12:31:25.150912+00:00
+ - user: None
+ - tags: ['wargames', 'tabletop games', 'miniatures']
+
+## CrushFTP - Enterprise Grade File Transfer for Everyone
+ - [https://www.crushftp.com](https://www.crushftp.com)
+ - date published: 2024-04-26T14:25:55+00:00
+ - user: rumpel
+ - tags: ['ftp', 'file server']
+
+## Crushing Tech Education | Eugene Shulga | Substack
+ - [https://blog.crushingtecheducation.com](https://blog.crushingtecheducation.com)
+ - date published: 2024-03-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Crust / Punk / Hardcore with String Instruments
+ - [https://crustwithstrings.com](https://crustwithstrings.com)
+ - date published: 2024-04-28T06:06:37.930105+00:00
+ - user: None
+ - tags: []
+
+## Crux | Taking the Catholic Pulse
+ - [https://cruxnow.com](https://cruxnow.com)
+ - date published: 2023-10-25T13:37:31.700192+00:00
+ - user: None
+ - tags: []
+
 ## Crux | Taking the Catholic Pulse
  - [https://wp.cruxnow.com](https://wp.cruxnow.com)
  - date published: 2024-05-08T07:02:31.657475+00:00
@@ -1192,6 +1336,12 @@
  - date published: 2024-03-04T11:36:27.353048+00:00
  - user: None
  - tags: ['pharmacy']
+
+## CWB Chicago
+ - [https://cwbchicago.com](https://cwbchicago.com)
+ - date published: 2024-05-17T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Curtis W. DeGidio | Software Developer | Latest Posts
  - [https://www.cwdegidio.com](https://www.cwdegidio.com)
@@ -5849,156 +5999,6 @@
 ## https://www.decisionproblem.com
  - [https://www.decisionproblem.com](https://www.decisionproblem.com)
  - date published: 2024-01-09T02:34:12.826076+00:00
- - user: None
- - tags: []
-
-## Home - Decisive-Point
- - [http://www.decisive-point.com](http://www.decisive-point.com)
- - date published: 2024-05-09T05:23:36.792732+00:00
- - user: None
- - tags: []
-
-## Deciso B.V. – Securing Networks™
- - [https://www.deciso.com](https://www.deciso.com)
- - date published: 2024-05-08T11:19:26.157011+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://www.decluttr.com](https://www.decluttr.com)
- - date published: 2024-04-30T08:00:39.566165+00:00
- - user: None
- - tags: []
-
-## Account Suspended
- - [https://www.decodame.com](https://www.decodame.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Decode39 - Decode39 in Arabic
- - [https://ar.decode39.com](https://ar.decode39.com)
- - date published: 2021-06-23T13:41:08+00:00
- - user: None
- - tags: []
-
-## Decode39 - Decode39
- - [https://decode39.com](https://decode39.com)
- - date published: 2024-01-06T14:01:43.023731+00:00
- - user: None
- - tags: []
-
-## Apache HTTP Server Test Page powered by CentOS
- - [https://www.decodesystems.com](https://www.decodesystems.com)
- - date published: 2024-01-09T02:34:14.258095+00:00
- - user: None
- - tags: []
-
-## Decode Today
- - [https://decodetoday.com](https://decodetoday.com)
- - date published: 2024-01-04T09:27:47.278321+00:00
- - user: None
- - tags: []
-
-## Decoding Everything | David Chen | Substack
- - [https://www.decodingeverything.com](https://www.decodingeverything.com)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## WordPress Plugins and Joomla Extensions | deconf.com
- - [https://deconf.com](https://deconf.com)
- - date published: 2024-03-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## Deconstruct
- - [https://www.deconstructconf.com](https://www.deconstructconf.com)
- - date published: 2024-05-04T09:31:13.157006+00:00
- - user: None
- - tags: []
-
-## Allison Posts
- - [https://posts.decontextualize.com](https://posts.decontextualize.com)
- - date published: 2023-10-25T13:47:27.737564+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://decoupleddays.com](https://decoupleddays.com)
- - date published: 2024-05-06T13:03:22.034079+00:00
- - user: None
- - tags: []
-
-## DedicatedSolutions.com
- - [https://www.dedicatedsolutions.com](https://www.dedicatedsolutions.com)
- - date published: 2024-05-17T02:55:56.085453+00:00
- - user: None
- - tags: []
-
-## 🔸 diggers
- - [https://club.dedigger.com](https://club.dedigger.com)
- - date published: 2024-03-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## de🔸digger find public files in Google Drive
- - [https://www.dedigger.com](https://www.dedigger.com)
- - date published: 2023-10-25T13:47:29.059381+00:00
- - user: None
- - tags: []
-
-## DediRock – DediRock cheap VPS
- - [https://dedirock.com](https://dedirock.com)
- - date published: 2024-05-04T13:35:06.966072+00:00
- - user: None
- - tags: []
-
-## Seedbox And VPS Hosting In The Netherlands
- - [https://dediseedbox.com](https://dediseedbox.com)
- - date published: 2024-05-10T06:03:57.838318+00:00
- - user: None
- - tags: []
-
-## World's Fastest Managed Cloud and VPS Platform | Dediserve
- - [https://www.dediserve.com](https://www.dediserve.com)
- - date published: 2024-05-01T07:02:14.052437+00:00
- - user: None
- - tags: []
-
-## Dedoimedo - A Place to Learn a Lot About a Lot
- - [https://www.dedoimedo.com](https://www.dedoimedo.com)
- - date published: 2023-10-25T13:47:31.851633+00:00
- - user: None
- - tags: []
-
-## A CLI to deduplicate data from flat files and databases | dedupify.com
- - [https://dedupify.com](https://dedupify.com)
- - date published: 2020-10-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## DEDWARE
- - [https://dedware.com](https://dedware.com)
- - date published: 2023-11-15T17:57:31.700400+00:00
- - user: None
- - tags: ['art', 'personal']
-
-## Deel - Your forever people platform
- - [https://deel.com](https://deel.com)
- - date published: 2024-05-01T04:18:48.082066+00:00
- - user: None
- - tags: []
-
-## Deel - Your forever people platform
- - [https://www.deel.com](https://www.deel.com)
- - date published: 2024-05-07T18:20:39.401275+00:00
- - user: None
- - tags: []
-
-## Money transfer from Thailand to The World with DeeMoney
- - [https://www.deemoney.com](https://www.deemoney.com)
- - date published: 2024-05-06T14:33:21.213003+00:00
  - user: None
  - tags: []
 

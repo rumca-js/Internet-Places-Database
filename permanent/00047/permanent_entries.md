@@ -1,3 +1,489 @@
+## Pratyush’s Newsletter | Pratyush Buddiga | Substack
+ - [https://pratyushbuddiga.substack.com](https://pratyushbuddiga.substack.com)
+ - date published: 2024-05-08T05:50:42.765292+00:00
+ - user: None
+ - tags: []
+
+## offscript | Priya | Substack
+ - [https://prigoose.substack.com](https://prigoose.substack.com)
+ - date published: 2024-01-09T01:43:22.693395+00:00
+ - user: None
+ - tags: []
+
+## More Storytelling Notes | Priscilla Howe | Substack
+ - [https://priscillahowe.substack.com](https://priscillahowe.substack.com)
+ - date published: 2024-04-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Productivus | Substack
+ - [https://productivus.substack.com](https://productivus.substack.com)
+ - date published: 2024-04-28T02:39:07.666802+00:00
+ - user: None
+ - tags: []
+
+## Project 2025 Takedown | Tiffany Torres Williams | Substack
+ - [https://project2025takedown.substack.com](https://project2025takedown.substack.com)
+ - date published: 2024-04-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## PromptArmor Blog | Substack
+ - [https://promptarmor.substack.com](https://promptarmor.substack.com)
+ - date published: 2023-12-15T21:47:07.452086+00:00
+ - user: None
+ - tags: []
+
+## The Insurgency News Blast | Protestia | Substack
+ - [https://protestia.substack.com](https://protestia.substack.com)
+ - date published: 2024-05-07T09:41:12.058238+00:00
+ - user: None
+ - tags: []
+
+## The Protocolist | Timber Schroff | Substack
+ - [https://protocolist.substack.com](https://protocolist.substack.com)
+ - date published: 2024-04-28T04:54:53.542825+00:00
+ - user: None
+ - tags: []
+
+## The Pseudodragon Newsletter | Kendall Giles | Substack
+ - [https://pseudodragon.substack.com](https://pseudodragon.substack.com)
+ - date published: 2024-05-10T05:12:19.682773+00:00
+ - user: None
+ - tags: []
+
+## psychcrisis.org | Jessica Ocean | Substack
+ - [https://psychcrisis.substack.com](https://psychcrisis.substack.com)
+ - date published: 2024-01-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## psychotechnology | The irrationalist | Substack
+ - [https://psychotechnology.substack.com](https://psychotechnology.substack.com)
+ - date published: 2024-05-08T09:58:38.260490+00:00
+ - user: None
+ - tags: []
+
+## Public | Michael Shellenberger | Substack
+ - [https://public.substack.com](https://public.substack.com)
+ - date published: 2023-11-26T17:00:37+00:00
+ - user: rumpel
+ - tags: ['substack']
+
+## Pursuing Pragmatic Leadership | Josh Gratsch | Substack
+ - [https://pursuingpragmaticleadership.substack.com](https://pursuingpragmaticleadership.substack.com)
+ - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Pursuing Reality | Adam Elwood | Substack
+ - [https://pursuingreality.substack.com](https://pursuingreality.substack.com)
+ - date published: 2024-05-07T09:46:58.373857+00:00
+ - user: None
+ - tags: []
+
+## Popcorn Penguin Posts | PopcornPenguin | Substack
+ - [https://puzzledpenguin.substack.com](https://puzzledpenguin.substack.com)
+ - date published: 2024-01-09T01:43:25.130618+00:00
+ - user: None
+ - tags: []
+
+## https://quantfinance.substack.com
+ - [https://quantfinance.substack.com](https://quantfinance.substack.com)
+ - date published: 2024-01-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## QTR’s Fringe Finance | Quoth the Raven | Substack
+ - [http://quoththeraven.substack.com](http://quoththeraven.substack.com)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Spacecult 🛸 | Raad ⚔ | Substack
+ - [https://raad.substack.com](https://raad.substack.com)
+ - date published: 2024-05-07T10:05:19.062387+00:00
+ - user: None
+ - tags: []
+
+## didion for doomscrollers | Rachdele | Substack
+ - [https://rachdele.substack.com](https://rachdele.substack.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Racket Cartoons by Daniel Medina  | Substack
+ - [https://racketcartoons.substack.com](https://racketcartoons.substack.com)
+ - date published: 2024-05-11T09:36:01.163261+00:00
+ - user: None
+ - tags: []
+
+## Raconteur Press | Substack
+ - [https://raconteurpress.substack.com](https://raconteurpress.substack.com)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Watch | Radley Balko | Substack
+ - [https://radleybalko.substack.com](https://radleybalko.substack.com)
+ - date published: 2024-01-09T01:43:26.643609+00:00
+ - user: None
+ - tags: []
+
+## Rahul’s Renaissance Quest  | Substack
+ - [https://rahulmajumdar.substack.com](https://rahulmajumdar.substack.com)
+ - date published: 2024-01-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Identity Revive | Rakkhi Joy | Substack
+ - [https://rakkhi.substack.com](https://rakkhi.substack.com)
+ - date published: 2023-10-25T10:01:24.275651+00:00
+ - user: None
+ - tags: ['substack']
+
+## A Blog For The Anthropocene | Rama Pascala | Substack
+ - [https://ramapascala.substack.com](https://ramapascala.substack.com)
+ - date published: 2024-01-09T01:43:29.182979+00:00
+ - user: None
+ - tags: []
+
+## Random Acts of Medicine | Chris Worsham | Substack
+ - [https://randomactsofmedicine.substack.com](https://randomactsofmedicine.substack.com)
+ - date published: 2023-10-25T10:01:28.416412+00:00
+ - user: None
+ - tags: ['substack']
+
+## Random Minds by Katherine Brodsky | Substack
+ - [https://randomminds.substack.com](https://randomminds.substack.com)
+ - date published: 2024-01-09T01:43:32.377862+00:00
+ - user: None
+ - tags: []
+
+## The Rate of Change | Aatish Bhatia | Substack
+ - [https://rateofchange.substack.com](https://rateofchange.substack.com)
+ - date published: 2024-05-01T00:33:10.672490+00:00
+ - user: None
+ - tags: []
+
+## Ravi Parikh’s Newsletter | Substack
+ - [https://ravisparikh.substack.com](https://ravisparikh.substack.com)
+ - date published: 2024-01-09T01:43:34.420329+00:00
+ - user: None
+ - tags: []
+
+## Lazy Afternoons | Ravi Teja Kanta | Substack
+ - [https://ravitejakanta.substack.com](https://ravitejakanta.substack.com)
+ - date published: 2023-10-25T10:01:35.638481+00:00
+ - user: None
+ - tags: ['substack']
+
+## Beautiful Terrible Things | Ray Edwards | Substack
+ - [https://rayedwards.substack.com](https://rayedwards.substack.com)
+ - date published: 2024-05-09T06:21:23.227157+00:00
+ - user: None
+ - tags: []
+
+## rants by razberry | Substack
+ - [https://razberry.substack.com](https://razberry.substack.com)
+ - date published: 2023-11-15T18:40:37.968645+00:00
+ - user: None
+ - tags: []
+
+## Razib Khan's Unsupervised Learning | Substack
+ - [https://razib.substack.com](https://razib.substack.com)
+ - date published: 2023-10-25T10:01:38.890917+00:00
+ - user: None
+ - tags: ['substack']
+
+## Coding on Autopilot | Robert Brennan | Substack
+ - [https://rbren.substack.com](https://rbren.substack.com)
+ - date published: 2024-03-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 2050 | Peter Havers | Substack
+ - [https://read2050.substack.com](https://read2050.substack.com)
+ - date published: 2024-01-09T01:43:36.185877+00:00
+ - user: None
+ - tags: []
+
+## Lesser Tedium | Ernie Smith | Substack
+ - [https://readtedium.substack.com](https://readtedium.substack.com)
+ - date published: 2024-04-30T07:05:03.975189+00:00
+ - user: None
+ - tags: []
+
+## Read. Write. Concurrently | Pham Nguyen Hung | Substack
+ - [https://readwriteconcurrently.substack.com](https://readwriteconcurrently.substack.com)
+ - date published: 2024-03-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Reath Report | Jeff Carswell | Substack
+ - [https://reathai.substack.com](https://reathai.substack.com)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## REDUXX Weekly Roundup | Substack
+ - [https://reduxx.substack.com](https://reduxx.substack.com)
+ - date published: 2024-02-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Res Obscura | Benjamin Breen | Substack
+ - [https://resobscura.substack.com](https://resobscura.substack.com)
+ - date published: 2024-01-09T01:43:38.822737+00:00
+ - user: None
+ - tags: []
+
+## The Retro Millennial | Dan Scott | Substack
+ - [https://retropunk.substack.com](https://retropunk.substack.com)
+ - date published: 2024-05-08T00:00:54.234821+00:00
+ - user: None
+ - tags: []
+
+## Rhea's Substack | Substack
+ - [https://rheaeve.substack.com](https://rheaeve.substack.com)
+ - date published: 2024-03-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Poetry of Reality with Richard Dawkins | Substack
+ - [https://richarddawkins.substack.com](https://richarddawkins.substack.com)
+ - date published: 2023-10-25T10:01:47.068642+00:00
+ - user: None
+ - tags: ['substack']
+
+## Japan Economy Watch | Richard Katz | Substack
+ - [https://richardkatz.substack.com](https://richardkatz.substack.com)
+ - date published: 2024-01-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Richard’s Substack | Richard North Patterson | Substack
+ - [https://richardnorthpatterson.substack.com](https://richardnorthpatterson.substack.com)
+ - date published: 2024-05-06T16:32:03.518691+00:00
+ - user: None
+ - tags: []
+
+## What I'm paying attention to | Richard D. Bartlett | Substack
+ - [https://richdecibels.substack.com](https://richdecibels.substack.com)
+ - date published: 2024-01-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Future Does Not Fit In The Containers Of The Past | Rishad Tobaccowala | Substack
+ - [https://rishad.substack.com](https://rishad.substack.com)
+ - date published: 2024-05-05T16:42:33.493877+00:00
+ - user: None
+ - tags: []
+
+## Risky Business News | Patrick Gray | Substack
+ - [https://riskybiznews.substack.com](https://riskybiznews.substack.com)
+ - date published: 2024-01-09T01:43:41.924261+00:00
+ - user: None
+ - tags: []
+
+## rmurphey's newsletter | Rebecca Murphey | Substack
+ - [https://rmurphey.substack.com](https://rmurphey.substack.com)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Road to Reality | Sam Ritchie | Substack
+ - [https://roadtoreality.substack.com](https://roadtoreality.substack.com)
+ - date published: 2024-05-08T10:04:56.023678+00:00
+ - user: None
+ - tags: []
+
+## Robert Bryce | Substack
+ - [https://robertbryce.substack.com](https://robertbryce.substack.com)
+ - date published: 2024-01-09T01:43:45.177357+00:00
+ - user: None
+ - tags: []
+
+## Robert Reich | Substack
+ - [https://robertreich.substack.com](https://robertreich.substack.com)
+ - date published: 2024-03-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Internal exile | Rob Horning | Substack
+ - [https://robhorning.substack.com](https://robhorning.substack.com)
+ - date published: 2024-03-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Rob Henderson's Newsletter | Substack
+ - [https://robkhenderson.substack.com](https://robkhenderson.substack.com)
+ - date published: 2024-01-09T01:43:54.498996+00:00
+ - user: None
+ - tags: []
+
+## https://roblh.substack.com
+ - [https://roblh.substack.com](https://roblh.substack.com)
+ - date published: 2024-01-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Interconnects | Nathan Lambert | Substack
+ - [https://robotic.substack.com](https://robotic.substack.com)
+ - date published: 2023-10-25T10:02:26.630773+00:00
+ - user: None
+ - tags: ['substack']
+
+## Robots In Plain English | Sudheer Apte | Substack
+ - [https://robotsinplainenglish.substack.com](https://robotsinplainenglish.substack.com)
+ - date published: 2024-04-28T05:25:02.598267+00:00
+ - user: None
+ - tags: []
+
+## The Honest Broker | Roger Pielke Jr. | Substack
+ - [https://rogerpielkejr.substack.com](https://rogerpielkejr.substack.com)
+ - date published: 2023-10-25T10:02:34.687234+00:00
+ - user: None
+ - tags: ['substack']
+
+## What Do We Do Now That We're Here? | Rosie Spinks | Substack
+ - [https://rojospinks.substack.com](https://rojospinks.substack.com)
+ - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ron’s Log | Ron Ghosh | Substack
+ - [https://ronghosh.substack.com](https://ronghosh.substack.com)
+ - date published: 2024-02-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ross on Growth | Ross Nazarenko | Substack
+ - [https://rossongrowth.substack.com](https://rossongrowth.substack.com)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Roughly Written | Ryan O'Neill | Substack
+ - [https://roughlywritten.substack.com](https://roughlywritten.substack.com)
+ - date published: 2023-12-23T15:08:37.487132+00:00
+ - user: None
+ - tags: []
+
+## Rox’s Picks | Roxine Kee | Substack
+ - [https://roxine.substack.com](https://roxine.substack.com)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## RQ1 | Mark Coddington and Seth Lewis | Substack
+ - [https://rq1.substack.com](https://rq1.substack.com)
+ - date published: 2024-03-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## RS-OJICT Newsletter & Podcast | Substack
+ - [https://rsojict.substack.com](https://rsojict.substack.com)
+ - date published: 2024-05-08T12:01:44.379421+00:00
+ - user: None
+ - tags: []
+
+## RSS DS+AI Section | Substack
+ - [https://rssdsaisection.substack.com](https://rssdsaisection.substack.com)
+ - date published: 2024-01-09T01:43:57.719459+00:00
+ - user: None
+ - tags: []
+
+## John Rubino's Substack | Substack
+ - [https://rubino.substack.com](https://rubino.substack.com)
+ - date published: 2024-05-04T09:44:08.354181+00:00
+ - user: None
+ - tags: []
+
+## Rule of Five | Tiffanie Darke | Substack
+ - [https://ruleoffive.substack.com](https://ruleoffive.substack.com)
+ - date published: 2024-02-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## A Developer's Newsletter | Robin Wieruch | Substack
+ - [https://rwieruch.substack.com](https://rwieruch.substack.com)
+ - date published: 2024-04-29T06:43:55.204381+00:00
+ - user: None
+ - tags: []
+
+## Entry Level Investing | Ryan Shannon | Substack
+ - [https://ryanshannon.substack.com](https://ryanshannon.substack.com)
+ - date published: 2024-01-09T01:44:02.255542+00:00
+ - user: None
+ - tags: []
+
+## Good Thoughts | Richard Y Chappell | Substack
+ - [https://rychappell.substack.com](https://rychappell.substack.com)
+ - date published: 2024-05-06T22:16:12.890884+00:00
+ - user: None
+ - tags: []
+
+## The S.A.D Newsletter | Sharif Islam | Substack
+ - [https://sadnewsletter.substack.com](https://sadnewsletter.substack.com)
+ - date published: 2024-04-29T03:32:17.670761+00:00
+ - user: None
+ - tags: []
+
+## SAILCARGO | Substack
+ - [https://sailcargo.substack.com](https://sailcargo.substack.com)
+ - date published: 2024-03-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Optimismo | Salomón Acuña | Substack
+ - [https://salomna.substack.com](https://salomna.substack.com)
+ - date published: 2024-05-10T05:28:57.554218+00:00
+ - user: None
+ - tags: []
+
+## What Matters (To Me) | Stewart Alsop | Substack
+ - [https://salsop.substack.com](https://salsop.substack.com)
+ - date published: 2024-04-30T06:56:29.569473+00:00
+ - user: None
+ - tags: []
+
+## SBF’s Substack | Substack
+ - [https://sambf.substack.com](https://sambf.substack.com)
+ - date published: 2024-05-12T04:09:29.274883+00:00
+ - user: None
+ - tags: []
+
+## Numb at the Lodge | Sam Kriss | Substack
+ - [https://samkriss.substack.com](https://samkriss.substack.com)
+ - date published: 2024-01-09T01:44:04.215558+00:00
+ - user: None
+ - tags: []
+
+## Jonathan’s Substack | Jonathan Engler | Substack
+ - [https://sanityunleashed.substack.com](https://sanityunleashed.substack.com)
+ - date published: 2024-01-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Rough Diamonds | Sarah Constantin | Substack
+ - [https://sarahconstantin.substack.com](https://sarahconstantin.substack.com)
+ - date published: 2024-01-07T23:12:10.014354+00:00
+ - user: None
+ - tags: []
+
+## Scatter Brain | Sar Haribhakti | Substack
+ - [https://sarharibhakti.substack.com](https://sarharibhakti.substack.com)
+ - date published: 2024-01-09T01:44:06.301513+00:00
+ - user: None
+ - tags: []
+
+## Sasha's 'Newsletter' | Sasha Chapin | Substack
+ - [https://sashachapin.substack.com](https://sashachapin.substack.com)
+ - date published: 2024-01-09T01:44:09.644330+00:00
+ - user: None
+ - tags: []
+
 ## Free Thinking Through the Fourth Turning with Sasha Stone | Substack
  - [https://sashastone.substack.com](https://sashastone.substack.com)
  - date published: 2024-03-03T00:00:00+00:00
@@ -223,6 +709,12 @@
 ## Soaring Twenties | Thomas J Bevan | Substack
  - [https://soaringtwenties.substack.com](https://soaringtwenties.substack.com)
  - date published: 2024-01-09T01:44:31.480800+00:00
+ - user: None
+ - tags: []
+
+## Social’s Substack | Social Protocols | Substack
+ - [https://socialprotocols.substack.com](https://socialprotocols.substack.com)
+ - date published: 2024-05-21T02:47:54.146843+00:00
  - user: None
  - tags: []
 
@@ -1047,6 +1539,12 @@
  - date published: 2023-10-25T10:06:31.208743+00:00
  - user: None
  - tags: ['substack']
+
+## Tjaart’s Substack | Substack
+ - [https://tjaart.substack.com](https://tjaart.substack.com)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## tldraw | Steve Ruiz | Substack
  - [https://tldraw.substack.com](https://tldraw.substack.com)
@@ -3856,6 +4354,12 @@
  - user: rumpel
  - tags: ['nas drives', 'hard drives']
 
+## Synopsys Software Integrity Customer Community
+ - [https://community.synopsys.com](https://community.synopsys.com)
+ - date published: 2024-05-21T02:48:29.398476+00:00
+ - user: None
+ - tags: []
+
 ## Synopsys | EDA Tools, Semiconductor IP and Application Security Solutions
  - [https://www.synopsys.com](https://www.synopsys.com)
  - date published: 2024-04-24T00:00:00+00:00
@@ -4828,6 +5332,12 @@
  - user: None
  - tags: []
 
+## TanStack | High Quality Open-Source Software for Web Developers
+ - [https://tanstack.com](https://tanstack.com)
+ - date published: 2024-05-21T02:44:46.317133+00:00
+ - user: None
+ - tags: []
+
 ## Tantek Çelik
  - [http://tantek.com](http://tantek.com)
  - date published: 2024-05-01T02:17:51.934572+00:00
@@ -5485,516 +5995,6 @@
 ## Twin Cities Orthopedics - Orthopedic Specialists & Clinics - Minnesota
  - [https://tcomn.com](https://tcomn.com)
  - date published: 2024-03-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Treasure Coast - Home
- - [https://cm.tcpalm.com](https://cm.tcpalm.com)
- - date published: 2024-05-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## Help Center - Treasure Coast
- - [https://help.tcpalm.com](https://help.tcpalm.com)
- - date published: 2024-05-10T06:03:35.741885+00:00
- - user: None
- - tags: []
-
-## Newsletters | Treasure Coast
- - [https://profile.tcpalm.com](https://profile.tcpalm.com)
- - date published: 2024-05-10T06:03:34.591774+00:00
- - user: None
- - tags: []
-
-## Treasure Coast - Home
- - [https://www.tcpalm.com](https://www.tcpalm.com)
- - date published: 2024-03-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## TCPAWorld – The World of the Telephone Consumer Protection Act
- - [https://tcpaworld.com](https://tcpaworld.com)
- - date published: 2023-10-25T17:23:43.563219+00:00
- - user: None
- - tags: []
-
-## TCT Magazine | Additive Manufacturing & 3D Printing Intelligence | News, Interviews, Features | Additive Manufacturing | Product Development Technology
- - [https://www.tctmagazine.com](https://www.tctmagazine.com)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: ['3d printing', 'news']
-
-## Partners in Growth | TCV
- - [https://www.tcv.com](https://www.tcv.com)
- - date published: 2024-05-08T04:31:24.623824+00:00
- - user: None
- - tags: []
-
-## About TD – TD Canada Trust
- - [https://www.td.com](https://www.td.com)
- - date published: 2024-05-01T06:46:07.301566+00:00
- - user: None
- - tags: []
-
-## Online Stock Trading, Investing, Brokerage | TD Ameritrade
- - [https://www.tdameritrade.com](https://www.tdameritrade.com)
- - date published: 2024-05-01T05:59:01.233964+00:00
- - user: None
- - tags: []
-
-## Online Banking, Loans, Credit Cards & Home Lending | TD Bank
- - [https://www.tdbank.com](https://www.tdbank.com)
- - date published: 2024-05-01T06:02:41.810528+00:00
- - user: None
- - tags: []
-
-## TD Canada Trust - Personal, Small Business Banking & Investing
- - [https://www.tdcanadatrust.com](https://www.tdcanadatrust.com)
- - date published: 2024-05-01T07:03:13.154617+00:00
- - user: None
- - tags: []
-
-## No-install TDD environment
- - [https://tddbin.com](https://tddbin.com)
- - date published: 2024-05-08T09:03:01.552682+00:00
- - user: None
- - tags: []
-
-## Test-Driven JavaScript Development, The Book
- - [http://tddjs.com](http://tddjs.com)
- - date published: 2024-05-11T10:34:53.297225+00:00
- - user: None
- - tags: []
-
-## TDD Phoenix
- - [https://www.tddphoenix.com](https://www.tddphoenix.com)
- - date published: 2024-05-04T07:48:23.732654+00:00
- - user: None
- - tags: []
-
-## Thomas Derflinger Blog
- - [https://tderflinger.com](https://tderflinger.com)
- - date published: 2023-10-25T17:23:45.930231+00:00
- - user: None
- - tags: []
-
-## Tea and Tech Time – Tech projects to read over your afternoon tea
- - [https://teaandtechtime.com](https://teaandtechtime.com)
- - date published: 2023-10-25T17:23:51.944870+00:00
- - user: None
- - tags: []
-
-## KQED Teach
- - [https://kqed.teachable.com](https://kqed.teachable.com)
- - date published: 2024-05-08T09:27:36.404020+00:00
- - user: None
- - tags: []
-
-## Teachable: Sell Courses, Coaching and Digital Downloads
- - [https://teachable.com](https://teachable.com)
- - date published: 2024-04-26T05:18:38+00:00
- - user: rumpel
- - tags: ['teching', 'courses', 'learning', 'social platform']
-
-## Homepage
- - [http://womenwhodrone.teachable.com](http://womenwhodrone.teachable.com)
- - date published: 2024-05-04T08:46:11.689265+00:00
- - user: None
- - tags: []
-
-## Teachfloor: The leading social learning platform
- - [https://www.teachfloor.com](https://www.teachfloor.com)
- - date published: 2023-10-25T17:23:53.514633+00:00
- - user: None
- - tags: []
-
-## The Teaching Professor | Higher Ed Teaching & Learning
- - [https://www.teachingprofessor.com](https://www.teachingprofessor.com)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Teaching Startup: Answers for Entrepreneurs
- - [https://app.teachingstartup.com](https://app.teachingstartup.com)
- - date published: 2024-05-01T08:40:18.361863+00:00
- - user: None
- - tags: []
-
-## TeachMePhysiology - Making Physiology Simple
- - [https://teachmephysiology.com](https://teachmephysiology.com)
- - date published: 2024-02-24T20:43:25.591811+00:00
- - user: None
- - tags: []
-
-## Printable Bible Lessons
- - [https://teachsundayschool.com](https://teachsundayschool.com)
- - date published: 2024-05-08T05:16:01.481573+00:00
- - user: None
- - tags: ['christian', 'bible']
-
-## Teads Advertising Privacy Policy
- - [https://privacy-policy.teads.com](https://privacy-policy.teads.com)
- - date published: 2024-02-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tea Leaf Nation
- - [http://www.tealeafnation.com](http://www.tealeafnation.com)
- - date published: 2024-05-12T05:56:52.707661+00:00
- - user: None
- - tags: []
-
-## Welcome to Tealium Docs |  Tealium Docs
- - [https://docs.tealium.com](https://docs.tealium.com)
- - date published: 2024-05-04T07:27:49.821557+00:00
- - user: None
- - tags: []
-
-## Team17 | Indie Games developed by Independent Developers
- - [https://www.team17.com](https://www.team17.com)
- - date published: 2023-11-01T13:30:58.364849+00:00
- - user: None
- - tags: ['video game developer', 'company', 'amiga', 'retro games']
-
-## Gemini, GPT-4 and LLaMA | TeamAI's Shared AI Platform
- - [https://teamai.com](https://teamai.com)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Team-BHP - India's Most Trusted Car Reviews & News
- - [https://www.team-bhp.com](https://www.team-bhp.com)
- - date published: 2023-10-25T17:23:57.686441+00:00
- - user: None
- - tags: []
-
-## Blind - The #1 Tech Career Community - Blind
- - [https://www.teamblind.com](https://www.teamblind.com)
- - date published: 2023-10-25T17:24:03.818771+00:00
- - user: None
- - tags: []
-
-## Team BRG | Gaming guides and coverage
- - [https://teambrg.com](https://teambrg.com)
- - date published: 2023-12-13T16:22:56.736564+00:00
- - user: None
- - tags: []
-
-## The #1 Team Building Company » teambuilding.com
- - [https://teambuilding.com](https://teambuilding.com)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## TeamDynamix Sign-In
- - [https://ecu.teamdynamix.com](https://ecu.teamdynamix.com)
- - date published: 2024-05-01T06:00:13.215133+00:00
- - user: None
- - tags: []
-
-## TeamDynamix Sign-In
- - [https://hvcc.teamdynamix.com](https://hvcc.teamdynamix.com)
- - date published: 2024-05-11T09:23:10.575078+00:00
- - user: None
- - tags: []
-
-## TeamDynamix Sign-In
- - [https://miamioh.teamdynamix.com](https://miamioh.teamdynamix.com)
- - date published: 2024-02-08T16:47:32.092581+00:00
- - user: None
- - tags: []
-
-## Team Fortress 2
- - [https://teamfortress.com](https://teamfortress.com)
- - date published: 2023-10-30T15:18:20.534310+00:00
- - user: None
- - tags: ['video game']
-
-## Team Fortress Wiki
- - [https://wiki.teamfortress.com](https://wiki.teamfortress.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Team Fortress 2
- - [https://www.teamfortress.com](https://www.teamfortress.com)
- - date published: 2024-02-26T13:22:03.056752+00:00
- - user: None
- - tags: ['valve']
-
-## Team Heretics - Tienda oficial
- - [https://teamheretics.com](https://teamheretics.com)
- - date published: 2023-12-09T18:59:20.127080+00:00
- - user: None
- - tags: []
-
-## Join us & shape the future of esports! - Team Liquid
- - [https://careers.teamliquid.com](https://careers.teamliquid.com)
- - date published: 2024-05-09T04:49:51.538935+00:00
- - user: None
- - tags: []
-
-## Team Liquid | Store
- - [https://store.teamliquid.com](https://store.teamliquid.com)
- - date published: 2024-05-09T04:49:11.097452+00:00
- - user: None
- - tags: []
-
-## Team Liquid | A Legacy Unrivaled in Esports
- - [https://teamliquid.com](https://teamliquid.com)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Team Liquid | A Legacy Unrivaled in Esports
- - [https://www.teamliquid.com](https://www.teamliquid.com)
- - date published: 2024-03-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Matt and Emma’s Birthday Bash
- - [https://2020.teammatehunt.com](https://2020.teammatehunt.com)
- - date published: 2024-05-01T03:11:15.920088+00:00
- - user: None
- - tags: []
-
-## Teammate Hunt 2021
- - [https://2021.teammatehunt.com](https://2021.teammatehunt.com)
- - date published: 2024-05-01T03:10:55.886081+00:00
- - user: None
- - tags: []
-
-## Team NINJA
- - [https://www.teamninja-studio.com](https://www.teamninja-studio.com)
- - date published: 2024-02-06T16:50:43+00:00
- - user: rumpel
- - tags: ['rise of the ronin', 'video game developer', 'nioh', 'ninja giden']
-
-## Your outdoor furniture destination
- - [http://teamos2.com](http://teamos2.com)
- - date published: 2024-05-07T10:49:20.544817+00:00
- - user: None
- - tags: []
-
-## Team management for developers - Teamplify
- - [https://teamplify.com](https://teamplify.com)
- - date published: 2023-10-25T17:24:05.514376+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://teamprepared.com](https://teamprepared.com)
- - date published: 2024-01-23T15:54:38+00:00
- - user: None
- - tags: []
-
-## Home | TeamSpeak
- - [https://www.teamspeak.com](https://www.teamspeak.com)
- - date published: 2024-05-01T07:11:37.424762+00:00
- - user: None
- - tags: []
-
-## Teamtailor
- - [https://app.na.teamtailor.com](https://app.na.teamtailor.com)
- - date published: 2024-05-06T20:27:41.525347+00:00
- - user: None
- - tags: []
-
-## Careers - Epidemic Sound
- - [https://epidemic-sound.teamtailor.com](https://epidemic-sound.teamtailor.com)
- - date published: 2024-05-02T09:36:16.860144+00:00
- - user: None
- - tags: []
-
-## Careers at Le Wagon - Le Wagon
- - [https://lewagon.teamtailor.com](https://lewagon.teamtailor.com)
- - date published: 2024-05-10T04:32:17.562633+00:00
- - user: None
- - tags: []
-
-## Careers - Varnish Software
- - [https://varnish-software.teamtailor.com](https://varnish-software.teamtailor.com)
- - date published: 2024-05-06T21:34:05.230039+00:00
- - user: None
- - tags: []
-
-## TEAMtalk | Football transfers, transfer news, rumours and stats
- - [https://www.teamtalk.com](https://www.teamtalk.com)
- - date published: 2024-04-29T04:42:01.692790+00:00
- - user: None
- - tags: []
-
-## Lawrence Kesteloot
- - [https://www.teamten.com](https://www.teamten.com)
- - date published: 2024-04-15T01:05:36.996176+00:00
- - user: None
- - tags: ['personal']
-
-## Team Topologies
- - [https://teamtopologies.com](https://teamtopologies.com)
- - date published: 2024-04-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Treehouse Blog
- - [https://blog.teamtreehouse.com](https://blog.teamtreehouse.com)
- - date published: 2024-04-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Learn to Code Online | Treehouse
- - [https://teamtreehouse.com](https://teamtreehouse.com)
- - date published: 2024-05-12T06:38:40.260709+00:00
- - user: None
- - tags: []
-
-## TeamViewer Status
- - [https://status.teamviewer.com](https://status.teamviewer.com)
- - date published: 2024-01-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## TeamViewer – oprogramowanie do łączności zdalnej
- - [https://www.teamviewer.com](https://www.teamviewer.com)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Walnut
- - [https://app.teamwalnut.com](https://app.teamwalnut.com)
- - date published: 2024-05-06T20:18:18.307229+00:00
- - user: None
- - tags: []
-
-## Project and Team Management Software | Teamwork.com
- - [https://support.teamwork.com](https://support.teamwork.com)
- - date published: 2024-05-01T05:49:47.304540+00:00
- - user: None
- - tags: []
-
-## The All In One Team Project Management Software - Teamwork.com
- - [https://www.teamwork.com](https://www.teamwork.com)
- - date published: 2024-05-01T07:27:22.943906+00:00
- - user: None
- - tags: []
-
-## #1 Way To Find Jobs In Sports & Entertainment
- - [https://www.teamworkonline.com](https://www.teamworkonline.com)
- - date published: 2024-05-11T07:35:18.057996+00:00
- - user: None
- - tags: []
-
-## Fate of A Nation Game
- - [https://aiw.team-yankee.com](https://aiw.team-yankee.com)
- - date published: 2024-05-04T06:16:33.313574+00:00
- - user: None
- - tags: []
-
-## Vietnam Miniatures Game – Team Yankee Vietnam
- - [https://vietnam.team-yankee.com](https://vietnam.team-yankee.com)
- - date published: 2024-05-04T06:15:32.693763+00:00
- - user: None
- - tags: []
-
-## Team Yankee
- - [https://www.team-yankee.com](https://www.team-yankee.com)
- - date published: 2024-05-04T06:16:43.135831+00:00
- - user: None
- - tags: []
-
-## Tea Trekker – Pure, origin-specific, seasonal leaf teas from China, Japan, India, Korea, Nepal, Taiwan. Sourced by us at tea farms and tea factories that we visit and air shipped to us at the time of harvest / manufacture for maximum freshness.
- - [http://www.teatrekker.com](http://www.teatrekker.com)
- - date published: 2024-04-30T05:00:34.483147+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.teavaro.com](https://www.teavaro.com)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tea with Tolkien
- - [https://www.teawithtolkien.com](https://www.teawithtolkien.com)
- - date published: 2023-10-25T13:56:06.179784+00:00
- - user: None
- - tags: ['lord of the rings', 'hobbit']
-
-## Tech Addressed - Self Hosting / Homelab / Hardware / Open Source
- - [https://www.techaddressed.com](https://www.techaddressed.com)
- - date published: 2023-10-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tech Advisor – Homepage
- - [https://www.techadvisor.com](https://www.techadvisor.com)
- - date published: 2024-05-04T13:47:08.357682+00:00
- - user: None
- - tags: []
-
-## TechAint – The New Staff From Technology
- - [https://techaint.com](https://techaint.com)
- - date published: 2023-10-25T17:24:18.770437+00:00
- - user: None
- - tags: []
-
-## Tech At Bloomberg - Pushing the boundaries on innovation | Bloomberg LP
- - [https://www.techatbloomberg.com](https://www.techatbloomberg.com)
- - date published: 2024-05-08T11:30:37.857715+00:00
- - user: None
- - tags: []
-
-## TechBeezer
- - [https://techbeezer.com](https://techbeezer.com)
- - date published: 2024-05-08T10:15:36.294618+00:00
- - user: None
- - tags: []
-
-## Top IT Companies for Your Projects - TechBehemoths
- - [https://techbehemoths.com](https://techbehemoths.com)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Techbmc
- - [https://www.techbmc.com](https://www.techbmc.com)
- - date published: 2024-03-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Technical Briefs, Design Engineering News | TECH BRIEFS
- - [https://www.techbriefs.com](https://www.techbriefs.com)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tech Central Station
- - [http://www.techcentralstation.com](http://www.techcentralstation.com)
- - date published: 2024-05-04T07:34:41.872501+00:00
- - user: None
- - tags: []
-
-## TechCrunch is part of the Yahoo family of brands
- - [https://techcrunch.com](https://techcrunch.com)
- - date published: 2024-02-06T12:59:42.243187+00:00
- - user: None
- - tags: ['tech news']
-
-## TechCrunch is part of the Yahoo family of brands
- - [https://www.techcrunch.com](https://www.techcrunch.com)
- - date published: 2024-04-30T06:14:20.467858+00:00
- - user: None
- - tags: []
-
-## Techdirt
- - [http://techdirt.com](http://techdirt.com)
- - date published: 2024-05-04T07:40:31.395664+00:00
- - user: None
- - tags: []
-
-## Techdirt.
- - [https://www.techdirt.com](https://www.techdirt.com)
- - date published: 2023-10-25T10:15:01.446813+00:00
  - user: None
  - tags: []
 

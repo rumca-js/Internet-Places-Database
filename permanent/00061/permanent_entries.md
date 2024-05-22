@@ -1,3 +1,693 @@
+## GUN — the database for freedom fighters - Docs v2.0
+ - [https://gun.eco](https://gun.eco)
+ - date published: 2024-04-30T00:29:46.242785+00:00
+ - user: None
+ - tags: []
+
+## Mouvement Impact France - Ensemble, changeons l'économie
+ - [https://www.impactfrance.eco](https://www.impactfrance.eco)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Loes van Mierlo - Regenerative Coaching
+ - [https://www.loes.eco](https://www.loes.eco)
+ - date published: 2024-04-28T02:12:02.689845+00:00
+ - user: None
+ - tags: []
+
+## Home | Minimum
+ - [https://minimum.eco](https://minimum.eco)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [https://www.aau.edu](https://www.aau.edu)
+ - date published: 2024-05-07T19:32:37.872855+00:00
+ - user: None
+ - tags: []
+
+## Australian Catholic University
+ - [https://acu-au.academia.edu](https://acu-au.academia.edu)
+ - date published: 2024-04-30T03:03:22.148714+00:00
+ - user: None
+ - tags: []
+
+## The Australian National University
+ - [https://anu-au.academia.edu](https://anu-au.academia.edu)
+ - date published: 2024-04-30T02:57:41.815540+00:00
+ - user: None
+ - tags: []
+
+## University of Brighton
+ - [https://brighton.academia.edu](https://brighton.academia.edu)
+ - date published: 2024-04-30T02:59:39.003488+00:00
+ - user: None
+ - tags: []
+
+## Boston University
+ - [https://bu.academia.edu](https://bu.academia.edu)
+ - date published: 2024-04-30T03:00:21.443795+00:00
+ - user: None
+ - tags: []
+
+## University of Cambridge
+ - [https://cambridge.academia.edu](https://cambridge.academia.edu)
+ - date published: 2024-04-30T02:58:24.076871+00:00
+ - user: None
+ - tags: []
+
+## University of Canberra
+ - [https://canberra.academia.edu](https://canberra.academia.edu)
+ - date published: 2024-04-30T03:02:19.364846+00:00
+ - user: None
+ - tags: []
+
+## Case Western Reserve University
+ - [https://case.academia.edu](https://case.academia.edu)
+ - date published: 2024-04-30T02:50:03.549403+00:00
+ - user: None
+ - tags: []
+
+## University of Chicago
+ - [https://chicago.academia.edu](https://chicago.academia.edu)
+ - date published: 2024-04-30T02:59:02.539621+00:00
+ - user: None
+ - tags: []
+
+## Carnegie Mellon University
+ - [https://cmu.academia.edu](https://cmu.academia.edu)
+ - date published: 2024-04-30T03:01:33.787969+00:00
+ - user: None
+ - tags: []
+
+## University of Iowa
+ - [https://collegeview.academia.edu](https://collegeview.academia.edu)
+ - date published: 2024-04-30T03:00:15.196132+00:00
+ - user: None
+ - tags: []
+
+## Columbia University
+ - [https://columbia.academia.edu](https://columbia.academia.edu)
+ - date published: 2024-05-07T10:45:32.032858+00:00
+ - user: None
+ - tags: []
+
+## Cornell University
+ - [https://cornell.academia.edu](https://cornell.academia.edu)
+ - date published: 2024-04-30T02:55:48.893236+00:00
+ - user: None
+ - tags: []
+
+## University of Crete
+ - [https://crete.academia.edu](https://crete.academia.edu)
+ - date published: 2024-04-30T02:56:36.925499+00:00
+ - user: None
+ - tags: []
+
+## DIS
+ - [http://dis.academia.edu](http://dis.academia.edu)
+ - date published: 2024-04-30T02:33:54.041807+00:00
+ - user: None
+ - tags: []
+
+## Field Museum
+ - [https://fieldmuseum.academia.edu](https://fieldmuseum.academia.edu)
+ - date published: 2024-04-30T02:57:57.614569+00:00
+ - user: None
+ - tags: []
+
+## University of Florida
+ - [https://florida.academia.edu](https://florida.academia.edu)
+ - date published: 2024-04-30T03:02:57.232917+00:00
+ - user: None
+ - tags: []
+
+## Georgetown University
+ - [https://georgetown.academia.edu](https://georgetown.academia.edu)
+ - date published: 2024-04-30T02:55:34.566547+00:00
+ - user: None
+ - tags: []
+
+## Griffith University
+ - [https://griffith.academia.edu](https://griffith.academia.edu)
+ - date published: 2024-04-30T02:58:41.376692+00:00
+ - user: None
+ - tags: []
+
+## Al-Baha University, Kingdom of Saudi Arabia
+ - [https://hindawi.academia.edu](https://hindawi.academia.edu)
+ - date published: 2024-04-30T02:59:30.415035+00:00
+ - user: None
+ - tags: []
+
+## Hiroshima University
+ - [https://hiroshima-u.academia.edu](https://hiroshima-u.academia.edu)
+ - date published: 2024-04-30T02:49:57.512319+00:00
+ - user: None
+ - tags: []
+
+## The University of Hong Kong
+ - [https://hku-hk.academia.edu](https://hku-hk.academia.edu)
+ - date published: 2024-04-30T03:01:30.055085+00:00
+ - user: None
+ - tags: []
+
+## Harvey Mudd College
+ - [https://hmc.academia.edu](https://hmc.academia.edu)
+ - date published: 2024-04-30T02:56:33.921200+00:00
+ - user: None
+ - tags: []
+
+## Huntington University
+ - [https://huntington.academia.edu](https://huntington.academia.edu)
+ - date published: 2024-04-30T03:01:15.988933+00:00
+ - user: None
+ - tags: []
+
+## Johns Hopkins University
+ - [http://johnshopkins.academia.edu](http://johnshopkins.academia.edu)
+ - date published: 2024-05-08T03:05:11.356608+00:00
+ - user: None
+ - tags: []
+
+## KAIST
+ - [https://kaist.academia.edu](https://kaist.academia.edu)
+ - date published: 2024-04-30T03:02:21.493313+00:00
+ - user: None
+ - tags: []
+
+## University of Kashan
+ - [https://kashanu.academia.edu](https://kashanu.academia.edu)
+ - date published: 2024-04-30T02:58:11.551710+00:00
+ - user: None
+ - tags: []
+
+## King's College London
+ - [https://kcl.academia.edu](https://kcl.academia.edu)
+ - date published: 2024-04-30T03:01:24.569120+00:00
+ - user: None
+ - tags: []
+
+## University of Kent
+ - [https://kent.academia.edu](https://kent.academia.edu)
+ - date published: 2024-04-30T02:57:21.779779+00:00
+ - user: None
+ - tags: []
+
+## Kristiania University College
+ - [https://kristiania.academia.edu](https://kristiania.academia.edu)
+ - date published: 2024-04-30T02:49:23.792549+00:00
+ - user: None
+ - tags: []
+
+## KU Leuven
+ - [https://kuleuven.academia.edu](https://kuleuven.academia.edu)
+ - date published: 2024-04-30T02:49:18.740787+00:00
+ - user: None
+ - tags: []
+
+## University of Leeds
+ - [https://leeds.academia.edu](https://leeds.academia.edu)
+ - date published: 2024-04-30T03:01:13.277686+00:00
+ - user: None
+ - tags: []
+
+## University of Leicester
+ - [https://leicester.academia.edu](https://leicester.academia.edu)
+ - date published: 2024-04-30T02:55:56.252594+00:00
+ - user: None
+ - tags: []
+
+## Louisiana State University
+ - [https://lsu.academia.edu](https://lsu.academia.edu)
+ - date published: 2024-04-30T02:59:34.788657+00:00
+ - user: None
+ - tags: []
+
+## University of Hawaii at Manoa
+ - [https://manoa-hawaii.academia.edu](https://manoa-hawaii.academia.edu)
+ - date published: 2024-04-30T02:58:49.746898+00:00
+ - user: None
+ - tags: []
+
+## Marquette University
+ - [https://marquette.academia.edu](https://marquette.academia.edu)
+ - date published: 2024-04-30T02:58:52.326578+00:00
+ - user: None
+ - tags: []
+
+## Pontifical University, Saint Patrick's College, Maynooth, Co. Kildare, Ireland
+ - [https://maynoothcollege.academia.edu](https://maynoothcollege.academia.edu)
+ - date published: 2024-04-30T03:02:03.712597+00:00
+ - user: None
+ - tags: []
+
+## Macquarie University
+ - [https://mq.academia.edu](https://mq.academia.edu)
+ - date published: 2024-04-30T02:56:10.953944+00:00
+ - user: None
+ - tags: []
+
+## Newcastle University
+ - [https://newcastle.academia.edu](https://newcastle.academia.edu)
+ - date published: 2024-04-30T03:01:06.129645+00:00
+ - user: None
+ - tags: []
+
+## Nord University
+ - [https://nord.academia.edu](https://nord.academia.edu)
+ - date published: 2024-04-30T02:55:39.100884+00:00
+ - user: None
+ - tags: []
+
+## University of Nottingham
+ - [https://nottingham.academia.edu](https://nottingham.academia.edu)
+ - date published: 2024-04-30T03:02:27.738966+00:00
+ - user: None
+ - tags: []
+
+## New York University
+ - [https://nyu.academia.edu](https://nyu.academia.edu)
+ - date published: 2024-04-30T02:57:34.763015+00:00
+ - user: None
+ - tags: []
+
+## University of Oxford
+ - [https://oxford.academia.edu](https://oxford.academia.edu)
+ - date published: 2024-04-30T02:57:15.147449+00:00
+ - user: None
+ - tags: []
+
+## Queen's University Belfast
+ - [https://qub.academia.edu](https://qub.academia.edu)
+ - date published: 2024-04-30T02:55:42.776796+00:00
+ - user: None
+ - tags: []
+
+## Rensselaer Polytechnic Institute
+ - [https://rpi.academia.edu](https://rpi.academia.edu)
+ - date published: 2024-04-30T02:58:27.745751+00:00
+ - user: None
+ - tags: []
+
+## Seton Hall University
+ - [https://setonhall.academia.edu](https://setonhall.academia.edu)
+ - date published: 2024-04-30T02:50:00.275448+00:00
+ - user: None
+ - tags: []
+
+## Simon Fraser University
+ - [https://sfu.academia.edu](https://sfu.academia.edu)
+ - date published: 2024-04-30T02:49:27.709317+00:00
+ - user: None
+ - tags: []
+
+## SISSA
+ - [https://sissa.academia.edu](https://sissa.academia.edu)
+ - date published: 2024-04-30T02:50:12.558158+00:00
+ - user: None
+ - tags: []
+
+## San Jose State University
+ - [https://sjsu.academia.edu](https://sjsu.academia.edu)
+ - date published: 2024-04-30T02:56:15.318008+00:00
+ - user: None
+ - tags: []
+
+## Sorbonne University
+ - [https://sorbonne-fr.academia.edu](https://sorbonne-fr.academia.edu)
+ - date published: 2024-04-30T02:56:05.674739+00:00
+ - user: None
+ - tags: []
+
+## University of Southampton
+ - [https://soton.academia.edu](https://soton.academia.edu)
+ - date published: 2024-04-30T03:02:09.123743+00:00
+ - user: None
+ - tags: []
+
+## University of St Andrews
+ - [https://st-andrews.academia.edu](https://st-andrews.academia.edu)
+ - date published: 2024-04-30T02:56:19.257668+00:00
+ - user: None
+ - tags: []
+
+## Suleyman Demirel University
+ - [https://suleyman-demirel.academia.edu](https://suleyman-demirel.academia.edu)
+ - date published: 2024-04-30T03:02:01.776177+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [https://support.academia.edu](https://support.academia.edu)
+ - date published: 2024-04-30T02:59:53.441415+00:00
+ - user: None
+ - tags: []
+
+## The University of Sydney
+ - [https://sydney.academia.edu](https://sydney.academia.edu)
+ - date published: 2024-04-30T06:47:19.141540+00:00
+ - user: None
+ - tags: []
+
+## University of Calgary
+ - [https://ucalgary.academia.edu](https://ucalgary.academia.edu)
+ - date published: 2024-04-30T03:01:00.526211+00:00
+ - user: None
+ - tags: []
+
+## University of California, Irvine
+ - [https://uci.academia.edu](https://uci.academia.edu)
+ - date published: 2024-04-30T02:57:47.316172+00:00
+ - user: None
+ - tags: []
+
+## University of California, Los Angeles
+ - [https://ucla.academia.edu](https://ucla.academia.edu)
+ - date published: 2024-04-30T02:49:48.893438+00:00
+ - user: None
+ - tags: []
+
+## University College London
+ - [https://ucl.academia.edu](https://ucl.academia.edu)
+ - date published: 2024-04-30T03:02:49.387494+00:00
+ - user: None
+ - tags: []
+
+## University of Connecticut
+ - [https://uconn.academia.edu](https://uconn.academia.edu)
+ - date published: 2024-04-30T03:01:50.676175+00:00
+ - user: None
+ - tags: []
+
+## University of California, Riverside
+ - [https://ucriverside.academia.edu](https://ucriverside.academia.edu)
+ - date published: 2024-05-07T13:46:38.061452+00:00
+ - user: None
+ - tags: []
+
+## University of California, Santa Cruz
+ - [https://ucsc.academia.edu](https://ucsc.academia.edu)
+ - date published: 2024-04-30T02:56:00.401201+00:00
+ - user: None
+ - tags: []
+
+## UFSCar - Federal University of São Carlos
+ - [https://ufscar.academia.edu](https://ufscar.academia.edu)
+ - date published: 2024-04-30T03:02:37.031230+00:00
+ - user: None
+ - tags: []
+
+## University of Gdansk
+ - [https://ug.academia.edu](https://ug.academia.edu)
+ - date published: 2024-04-30T02:58:45.746908+00:00
+ - user: None
+ - tags: []
+
+## University of Illinois at Chicago
+ - [https://uic.academia.edu](https://uic.academia.edu)
+ - date published: 2024-04-30T02:59:08.106014+00:00
+ - user: None
+ - tags: []
+
+## The University of Iowa
+ - [https://uiowa.academia.edu](https://uiowa.academia.edu)
+ - date published: 2024-04-30T02:57:52.159238+00:00
+ - user: None
+ - tags: []
+
+## University of Tromsø
+ - [https://uit.academia.edu](https://uit.academia.edu)
+ - date published: 2024-04-30T02:57:55.786239+00:00
+ - user: None
+ - tags: []
+
+## University of Lincoln
+ - [https://ulincoln.academia.edu](https://ulincoln.academia.edu)
+ - date published: 2024-04-30T02:58:55.872174+00:00
+ - user: None
+ - tags: []
+
+## University of Michigan
+ - [https://umich.academia.edu](https://umich.academia.edu)
+ - date published: 2024-04-30T02:50:21.635918+00:00
+ - user: None
+ - tags: []
+
+## University of Debrecen
+ - [https://unideb.academia.edu](https://unideb.academia.edu)
+ - date published: 2024-04-30T03:00:26.068360+00:00
+ - user: None
+ - tags: []
+
+## TU Kaiserslautern
+ - [https://uni-kl.academia.edu](https://uni-kl.academia.edu)
+ - date published: 2024-04-30T02:49:51.800589+00:00
+ - user: None
+ - tags: []
+
+## Leipzig University (Universität Leipzig)
+ - [https://uni-leipzig1.academia.edu](https://uni-leipzig1.academia.edu)
+ - date published: 2024-04-30T02:55:52.129401+00:00
+ - user: None
+ - tags: []
+
+## Université du Luxembourg
+ - [https://uni-lu.academia.edu](https://uni-lu.academia.edu)
+ - date published: 2024-04-30T02:59:18.242304+00:00
+ - user: None
+ - tags: []
+
+## University of Melbourne
+ - [https://unimelb.academia.edu](https://unimelb.academia.edu)
+ - date published: 2024-04-30T02:49:36.651007+00:00
+ - user: None
+ - tags: []
+
+## Università di Perugia
+ - [https://uniperugia.academia.edu](https://uniperugia.academia.edu)
+ - date published: 2024-04-30T03:02:11.527533+00:00
+ - user: None
+ - tags: []
+
+## Université Paris 1 - Panthéon-Sorbonne
+ - [https://univ-paris1.academia.edu](https://univ-paris1.academia.edu)
+ - date published: 2024-04-30T03:03:09.313574+00:00
+ - user: None
+ - tags: []
+
+## University of New Mexico
+ - [https://unm.academia.edu](https://unm.academia.edu)
+ - date published: 2024-04-30T02:58:33.906049+00:00
+ - user: None
+ - tags: []
+
+## University of Wollongong
+ - [https://uow.academia.edu](https://uow.academia.edu)
+ - date published: 2024-04-30T03:02:15.855812+00:00
+ - user: None
+ - tags: []
+
+## University of Pardubice
+ - [https://upce.academia.edu](https://upce.academia.edu)
+ - date published: 2024-04-30T02:58:36.490590+00:00
+ - user: None
+ - tags: []
+
+## University of Pennsylvania
+ - [https://upenn.academia.edu](https://upenn.academia.edu)
+ - date published: 2024-04-30T02:56:50.871718+00:00
+ - user: None
+ - tags: []
+
+## Uppsala University
+ - [https://uppsala.academia.edu](https://uppsala.academia.edu)
+ - date published: 2024-04-30T03:03:02.362142+00:00
+ - user: None
+ - tags: []
+
+## University of Pretoria
+ - [https://up-za.academia.edu](https://up-za.academia.edu)
+ - date published: 2024-04-30T02:50:10.513363+00:00
+ - user: None
+ - tags: []
+
+## University of Southern California
+ - [https://usc.academia.edu](https://usc.academia.edu)
+ - date published: 2024-04-30T02:56:31.622228+00:00
+ - user: None
+ - tags: []
+
+## University of Santiago de Compostela
+ - [https://usc-es.academia.edu](https://usc-es.academia.edu)
+ - date published: 2024-04-30T02:59:14.678139+00:00
+ - user: None
+ - tags: []
+
+## Universidade de São Paulo
+ - [https://usp-br.academia.edu](https://usp-br.academia.edu)
+ - date published: 2024-04-30T03:00:11.371153+00:00
+ - user: None
+ - tags: []
+
+## The University of Texas at Austin
+ - [https://utexas.academia.edu](https://utexas.academia.edu)
+ - date published: 2024-04-30T02:59:46.906021+00:00
+ - user: None
+ - tags: []
+
+## University of Toronto
+ - [https://utoronto.academia.edu](https://utoronto.academia.edu)
+ - date published: 2024-04-30T03:01:46.223047+00:00
+ - user: None
+ - tags: []
+
+## University of Turku
+ - [https://utu.academia.edu](https://utu.academia.edu)
+ - date published: 2024-04-30T02:58:09.045137+00:00
+ - user: None
+ - tags: []
+
+## Utrecht University
+ - [https://uu.academia.edu](https://uu.academia.edu)
+ - date published: 2024-04-30T02:56:43.182045+00:00
+ - user: None
+ - tags: []
+
+## Vilnius University
+ - [https://vu-lt.academia.edu](https://vu-lt.academia.edu)
+ - date published: 2024-04-30T02:56:23.161974+00:00
+ - user: None
+ - tags: []
+
+## Vrije Universiteit Amsterdam
+ - [https://vu-nl.academia.edu](https://vu-nl.academia.edu)
+ - date published: 2024-04-30T02:59:28.214088+00:00
+ - user: None
+ - tags: []
+
+## University of Warwick
+ - [https://warwick.academia.edu](https://warwick.academia.edu)
+ - date published: 2024-04-30T03:02:32.869312+00:00
+ - user: None
+ - tags: []
+
+## Western University Canada
+ - [https://westernu.academia.edu](https://westernu.academia.edu)
+ - date published: 2024-04-30T02:50:30.035037+00:00
+ - user: None
+ - tags: []
+
+## University of Wisconsin-Madison
+ - [https://wisc.academia.edu](https://wisc.academia.edu)
+ - date published: 2024-04-30T03:00:54.514977+00:00
+ - user: None
+ - tags: []
+
+## Washington University in St. Louis
+ - [https://wustl.academia.edu](https://wustl.academia.edu)
+ - date published: 2024-04-30T02:50:25.947691+00:00
+ - user: None
+ - tags: []
+
+## West Virginia University
+ - [https://wvu.academia.edu](https://wvu.academia.edu)
+ - date published: 2024-04-30T02:59:22.255414+00:00
+ - user: None
+ - tags: []
+
+## Academia.edu - Share research
+ - [https://www.academia.edu](https://www.academia.edu)
+ - date published: 2023-12-08T08:28:48.297551+00:00
+ - user: None
+ - tags: ['digital library', 'ebooks']
+
+## Academy of Art University
+ - [https://www.academyart.edu](https://www.academyart.edu)
+ - date published: 2024-04-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## American College of the Building Arts
+ - [https://acba.edu](https://acba.edu)
+ - date published: 2024-02-08T17:01:49.403956+00:00
+ - user: None
+ - tags: []
+
+## Adrian College | Liberal Arts College in MI
+ - [https://www.adrian.edu](https://www.adrian.edu)
+ - date published: 2024-04-30T07:25:56.502677+00:00
+ - user: None
+ - tags: []
+
+## UA System | University of Alaska System
+ - [https://alaska.edu](https://alaska.edu)
+ - date published: 2024-05-07T20:41:09.067327+00:00
+ - user: None
+ - tags: []
+
+## UAF North
+ - [https://canvas.alaska.edu](https://canvas.alaska.edu)
+ - date published: 2024-05-07T20:41:53.614034+00:00
+ - user: None
+ - tags: []
+
+## Blackboard Learn
+ - [https://classes.alaska.edu](https://classes.alaska.edu)
+ - date published: 2024-05-07T20:41:29.269649+00:00
+ - user: None
+ - tags: []
+
+## Give Now - UA
+ - [https://engage.alaska.edu](https://engage.alaska.edu)
+ - date published: 2024-05-07T20:41:45.421621+00:00
+ - user: None
+ - tags: []
+
+## Directory Search
+ - [https://people.alaska.edu](https://people.alaska.edu)
+ - date published: 2024-05-07T20:42:05.472604+00:00
+ - user: None
+ - tags: []
+
+## Sea Ice Group
+ - [http://seaice.alaska.edu](http://seaice.alaska.edu)
+ - date published: 2024-05-06T23:33:31.816375+00:00
+ - user: None
+ - tags: []
+
+## UAF ON ALERT
+ - [https://uafalert.alaska.edu](https://uafalert.alaska.edu)
+ - date published: 2024-05-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## UA System | University of Alaska System
+ - [https://www.alaska.edu](https://www.alaska.edu)
+ - date published: 2024-05-07T20:41:11.264714+00:00
+ - user: None
+ - tags: []
+
+## Research @ AU
+ - [https://research.american.edu](https://research.american.edu)
+ - date published: 2023-10-25T18:46:30.302927+00:00
+ - user: None
+ - tags: []
+
+## American University, Washington, D.C.
+ - [https://www.american.edu](https://www.american.edu)
+ - date published: 2024-04-30T03:03:33.528880+00:00
+ - user: None
+ - tags: []
+
+## American University Washington College of Law
+ - [https://www.wcl.american.edu](https://www.wcl.american.edu)
+ - date published: 2024-05-08T10:07:22.676670+00:00
+ - user: None
+ - tags: []
+
 ## Welcome
  - [https://cs.appstate.edu](https://cs.appstate.edu)
  - date published: 2024-04-28T03:37:53.560746+00:00
@@ -5315,696 +6005,6 @@
 ## This site is not configured
  - [https://secureia.drexel.edu](https://secureia.drexel.edu)
  - date published: 2024-04-30T04:12:31.157781+00:00
- - user: None
- - tags: []
-
-## Drexel University Online: Accredited College Degrees & Programs
- - [https://www.online.drexel.edu](https://www.online.drexel.edu)
- - date published: 2024-05-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home Page
- - [https://www.dri.edu](https://www.dri.edu)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ritchie School of Engineering and Computer Science | Engineering & Computer Science
- - [https://ritchieschool.du.edu](https://ritchieschool.du.edu)
- - date published: 2024-04-30T04:59:43.567036+00:00
- - user: None
- - tags: []
-
-## Duke Centennial
- - [https://100.duke.edu](https://100.duke.edu)
- - date published: 2024-04-30T04:12:45.645629+00:00
- - user: None
- - tags: []
-
-## Duke Accessibility
- - [https://accessibility.duke.edu](https://accessibility.duke.edu)
- - date published: 2024-04-30T04:12:41.465893+00:00
- - user: None
- - tags: []
-
-## Duke | Log In
- - [https://assets.styleguide.duke.edu](https://assets.styleguide.duke.edu)
- - date published: 2024-04-30T04:13:40.189075+00:00
- - user: None
- - tags: []
-
-## News, Events & Exhibits - Duke University Libraries Blogs
- - [https://blogs.library.duke.edu](https://blogs.library.duke.edu)
- - date published: 2024-05-01T20:00:50.690868+00:00
- - user: None
- - tags: []
-
-## Updates on Duke’s Coronavirus Response
- - [https://coronavirus.duke.edu](https://coronavirus.duke.edu)
- - date published: 2024-04-30T04:13:03.759771+00:00
- - user: None
- - tags: []
-
-## Front Page | Department of Computer Science
- - [https://cs.duke.edu](https://cs.duke.edu)
- - date published: 2024-04-29T03:30:31.922892+00:00
- - user: None
- - tags: []
-
-## Duke Database Devils
- - [http://db.cs.duke.edu](http://db.cs.duke.edu)
- - date published: 2024-04-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Duke University
- - [https://duke.edu](https://duke.edu)
- - date published: 2024-04-30T04:13:55.301862+00:00
- - user: None
- - tags: []
-
-## Durham, Our Hometown - Duke Undergraduate Admissions
- - [https://durham.duke.edu](https://durham.duke.edu)
- - date published: 2024-04-30T04:13:47.733513+00:00
- - user: None
- - tags: []
-
-## Home | Human Resources
- - [https://hr.duke.edu](https://hr.duke.edu)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Duke | Log In
- - [https://idms-mfa.oit.duke.edu](https://idms-mfa.oit.duke.edu)
- - date published: 2024-05-01T06:58:34.700524+00:00
- - user: None
- - tags: []
-
-## Welcome to the Pratt Intranet | Pratt Intranet
- - [https://inside.pratt.duke.edu](https://inside.pratt.duke.edu)
- - date published: 2024-05-10T04:48:48.601253+00:00
- - user: None
- - tags: []
-
-## Bolch Judicial Institute of Duke Law School
- - [https://judicialstudies.duke.edu](https://judicialstudies.duke.edu)
- - date published: 2019-01-15T16:31:27+00:00
- - user: None
- - tags: []
-
-## Duke University School of Law
- - [https://law.duke.edu](https://law.duke.edu)
- - date published: 2024-04-30T04:13:42.585667+00:00
- - user: None
- - tags: []
-
-## Duke University Maps
- - [https://maps.duke.edu](https://maps.duke.edu)
- - date published: 2024-04-30T04:13:53.296268+00:00
- - user: None
- - tags: []
-
-## Duke University School of Medicine
- - [https://medschool.duke.edu](https://medschool.duke.edu)
- - date published: 2024-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Duke Department of Molecular Genetics and Microbiology
- - [https://mgm.duke.edu](https://mgm.duke.edu)
- - date published: 2024-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Duke News
- - [https://news.duke.edu](https://news.duke.edu)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nicholas School of the Environment | Duke University
- - [https://nicholas.duke.edu](https://nicholas.duke.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Duke | OARC | Office of Audit, Risk and Compliance
- - [https://oarc.duke.edu](https://oarc.duke.edu)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Duke Pratt School of Engineering
- - [https://pratt.duke.edu](https://pratt.duke.edu)
- - date published: 2023-12-11T12:00:31.232853+00:00
- - user: None
- - tags: []
-
-## Homepage | Duke Research & Innovation
- - [https://research.duke.edu](https://research.duke.edu)
- - date published: 2024-01-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## Duke Law Scholarship Repository | Duke Law Research
- - [https://scholarship.law.duke.edu](https://scholarship.law.duke.edu)
- - date published: 2024-05-09T02:38:12.169132+00:00
- - user: None
- - tags: []
-
-## Welcome to Sites@Duke Express! - Sites@Duke Express
- - [https://sites.duke.edu](https://sites.duke.edu)
- - date published: 2024-05-07T18:21:18.312091+00:00
- - user: None
- - tags: []
-
-## The Nasher Museum of Art at Duke University -
- - [https://sites.nasher.duke.edu](https://sites.nasher.duke.edu)
- - date published: 2024-02-08T16:49:26.722514+00:00
- - user: None
- - tags: []
-
-## Front Page - Duke Stories
- - [https://stories.duke.edu](https://stories.duke.edu)
- - date published: 2024-05-10T04:48:51.839796+00:00
- - user: None
- - tags: []
-
-## Duke Today | Duke Today
- - [https://today.duke.edu](https://today.duke.edu)
- - date published: 2023-10-25T18:51:07.229842+00:00
- - user: None
- - tags: []
-
-## Front Page | Trinity College of Arts & Sciences
- - [https://trinity.duke.edu](https://trinity.duke.edu)
- - date published: 2024-04-30T04:13:05.802775+00:00
- - user: None
- - tags: []
-
-## Home Page | Office of  Undergraduate Education
- - [https://undergrad.duke.edu](https://undergrad.duke.edu)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Homepage | Web Accessibility
- - [https://web.accessibility.duke.edu](https://web.accessibility.duke.edu)
- - date published: 2024-03-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Duke University School of Law
- - [https://web.law.duke.edu](https://web.law.duke.edu)
- - date published: 2023-10-25T11:22:18.328920+00:00
- - user: None
- - tags: []
-
-## Front Page | Department of Computer Science
- - [https://www.cs.duke.edu](https://www.cs.duke.edu)
- - date published: 2024-05-04T15:26:25.414605+00:00
- - user: None
- - tags: []
-
-## Duke University
- - [https://www.duke.edu](https://www.duke.edu)
- - date published: 2024-05-01T05:57:46.875167+00:00
- - user: None
- - tags: []
-
-## Duke University School of Law
- - [https://www.law.duke.edu](https://www.law.duke.edu)
- - date published: 2024-05-09T02:38:20.880820+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://dukeupress.edu](https://dukeupress.edu)
- - date published: 2024-04-30T04:14:03.894284+00:00
- - user: None
- - tags: []
-
-## Duke University Press
- - [https://read.dukeupress.edu](https://read.dukeupress.edu)
- - date published: 2023-10-25T18:51:09.503912+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.dukeupress.edu](https://www.dukeupress.edu)
- - date published: 2024-04-30T04:14:06.934129+00:00
- - user: None
- - tags: []
-
-## None
- - [http://legacy.earlham.edu](http://legacy.earlham.edu)
- - date published: 2024-03-27T04:35:57.699469+00:00
- - user: None
- - tags: []
-
-## PiratePanel Redirect | Information Technology and Computing Services | ECU
- - [https://core.ecu.edu](https://core.ecu.edu)
- - date published: 2024-05-09T04:41:09.357121+00:00
- - user: None
- - tags: []
-
-## Home - East Carolina University
- - [https://ecu.edu](https://ecu.edu)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## The ScholarShip at ECU
- - [http://thescholarship.ecu.edu](http://thescholarship.ecu.edu)
- - date published: 2024-04-28T03:37:49.924498+00:00
- - user: None
- - tags: []
-
-## Home - East Carolina University
- - [https://www.ecu.edu](https://www.ecu.edu)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## EF Education First | Educational Tours & Language Programs Abroad
- - [https://www.ef.edu](https://www.ef.edu)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Eastern Michigan University
- - [https://www.emich.edu](https://www.emich.edu)
- - date published: 2024-05-01T06:25:27.365332+00:00
- - user: None
- - tags: []
-
-## Explore your options at Ensign College.
- - [https://ensign.edu](https://ensign.edu)
- - date published: 2024-05-12T07:42:40.315652+00:00
- - user: None
- - tags: []
-
-## test page
- - [https://css.erau.edu](https://css.erau.edu)
- - date published: 2024-05-11T08:04:09.029680+00:00
- - user: None
- - tags: []
-
-## Hosted Pages -  Embry-Riddle Aeronautical University
- - [http://dbwebcat.erau.edu](http://dbwebcat.erau.edu)
- - date published: 2024-05-11T08:04:07.793271+00:00
- - user: None
- - tags: []
-
-## Hosted Pages -  Embry-Riddle Aeronautical University
- - [http://pages.erau.edu](http://pages.erau.edu)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Embry-Riddle Aeronautical University
- - [https://www.erau.edu](https://www.erau.edu)
- - date published: 2024-05-11T08:04:12.318412+00:00
- - user: None
- - tags: []
-
-## Elizabethtown College Groups
- - [https://groups.etown.edu](https://groups.etown.edu)
- - date published: 2024-03-26T00:14:32.167556+00:00
- - user: None
- - tags: []
-
-## Phillips Exeter Academy
- - [https://www.exeter.edu](https://www.exeter.edu)
- - date published: 2024-05-09T05:21:01.438647+00:00
- - user: None
- - tags: []
-
-## Experience the Exploratorium at Pier 15 | Exploratorium
- - [https://www.exploratorium.edu](https://www.exploratorium.edu)
- - date published: 2024-04-30T15:48:05.838419+00:00
- - user: None
- - tags: []
-
-## School of Architecture and Engineering Technology
- - [https://saet.famu.edu](https://saet.famu.edu)
- - date published: 2024-05-08T11:43:39.986531+00:00
- - user: None
- - tags: []
-
-## Events Calendar
- - [https://calendar.fau.edu](https://calendar.fau.edu)
- - date published: 2024-04-30T04:14:14.611405+00:00
- - user: None
- - tags: []
-
-## FAU directory
- - [https://directory.fau.edu](https://directory.fau.edu)
- - date published: 2024-04-30T04:14:17.637913+00:00
- - user: None
- - tags: []
-
-## Florida Atlantic University
- - [https://fau.edu](https://fau.edu)
- - date published: 2024-04-30T04:14:25.546745+00:00
- - user: None
- - tags: []
-
-## FAU Foundation Inc
- - [https://fauf.fau.edu](https://fauf.fau.edu)
- - date published: 2024-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## One-Stop Shop for Student Services : Florida Atlantic University
- - [https://onestop.fau.edu](https://onestop.fau.edu)
- - date published: 2024-04-30T04:14:12.323236+00:00
- - user: None
- - tags: []
-
-## Florida Atlantic University
- - [https://www.fau.edu](https://www.fau.edu)
- - date published: 2024-01-09T02:59:07.976768+00:00
- - user: None
- - tags: []
-
-## Ferris State University
- - [https://360.ferris.edu](https://360.ferris.edu)
- - date published: 2024-04-30T04:14:31.121666+00:00
- - user: None
- - tags: []
-
-## Kendall College of Art and Design Grand Rapids Michigan
- - [https://kcad.ferris.edu](https://kcad.ferris.edu)
- - date published: 2024-02-08T17:43:57.760533+00:00
- - user: None
- - tags: []
-
-## Ferris State University
- - [https://www.ferris.edu](https://www.ferris.edu)
- - date published: 2024-04-30T04:14:29.753716+00:00
- - user: None
- - tags: []
-
-## Home - Florida Tech Department of Computer Sciences
- - [http://cs.fit.edu](http://cs.fit.edu)
- - date published: 2024-05-11T10:37:53.918626+00:00
- - user: None
- - tags: []
-
-## Accessibility @ FIU
- - [https://accessibility.fiu.edu](https://accessibility.fiu.edu)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Access, Compliance, and Equal ﻿Opportunity
- - [https://ace.fiu.edu](https://ace.fiu.edu)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Events Calendar - Florida International University
- - [https://calendar.fiu.edu](https://calendar.fiu.edu)
- - date published: 2024-04-30T04:15:01.587208+00:00
- - user: None
- - tags: []
-
-## Florida International University - Campus Maps
- - [https://campusmaps.fiu.edu](https://campusmaps.fiu.edu)
- - date published: 2024-04-30T04:14:57.859721+00:00
- - user: None
- - tags: []
-
-## FIU Canvas
- - [https://canvas.fiu.edu](https://canvas.fiu.edu)
- - date published: 2024-04-30T04:14:50.043009+00:00
- - user: None
- - tags: []
-
-## digicdn.fiu.edu
- - [https://digicdn.fiu.edu](https://digicdn.fiu.edu)
- - date published: 2024-04-30T04:14:39.613548+00:00
- - user: None
- - tags: []
-
-## Please wait...
- - [http://mail.fiu.edu](http://mail.fiu.edu)
- - date published: 2024-04-30T04:14:46.164256+00:00
- - user: None
- - tags: []
-
-## My FIU
- - [https://my.fiu.edu](https://my.fiu.edu)
- - date published: 2024-04-30T04:14:48.367439+00:00
- - user: None
- - tags: []
-
-## FIU News - Florida International University
- - [https://news.fiu.edu](https://news.fiu.edu)
- - date published: 2023-10-30T12:42:14.738633+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://onestop.fiu.edu](https://onestop.fiu.edu)
- - date published: 2024-04-30T04:14:51.211245+00:00
- - user: None
- - tags: []
-
-## FIU Phonebook
- - [https://phonebook.fiu.edu](https://phonebook.fiu.edu)
- - date published: 2024-04-30T04:15:03.150013+00:00
- - user: None
- - tags: []
-
-## Report a Concern
- - [https://report.fiu.edu](https://report.fiu.edu)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Strategic Communications, Government and External Affairs
- - [https://stratcomm.fiu.edu](https://stratcomm.fiu.edu)
- - date published: 2024-03-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## MachForm Admin Panel
- - [https://webforms.fiu.edu](https://webforms.fiu.edu)
- - date published: 2024-04-30T04:14:47.420081+00:00
- - user: None
- - tags: []
-
-## Florida International University in Miami, FL
- - [https://www.fiu.edu](https://www.fiu.edu)
- - date published: 2024-04-30T04:14:38.618503+00:00
- - user: None
- - tags: []
-
-## State University System of Florida
- - [https://www.flbog.edu](https://www.flbog.edu)
- - date published: 2024-04-30T04:16:15.757109+00:00
- - user: None
- - tags: []
-
-## Collation | Folger Shakespeare Library
- - [http://collation.folger.edu](http://collation.folger.edu)
- - date published: 2024-05-07T10:20:20.322787+00:00
- - user: None
- - tags: []
-
-## Home | Folger Shakespeare Library
- - [https://www.folger.edu](https://www.folger.edu)
- - date published: 2024-05-07T10:25:33.742212+00:00
- - user: None
- - tags: []
-
-## Foothill College | Home - Foothill College
- - [https://foothill.edu](https://foothill.edu)
- - date published: 2024-05-09T08:42:05.495631+00:00
- - user: None
- - tags: []
-
-## FLASH Archive
- - [http://ir.lawnet.fordham.edu](http://ir.lawnet.fordham.edu)
- - date published: 2024-05-07T09:30:23.197658+00:00
- - user: None
- - tags: []
-
-## Fordham University
- - [http://www.fordham.edu](http://www.fordham.edu)
- - date published: 2024-05-06T16:58:48.717846+00:00
- - user: None
- - tags: []
-
-## Fort Lewis College in Durango, Colorado
- - [https://www.fortlewis.edu](https://www.fortlewis.edu)
- - date published: 2024-05-12T05:45:25.753185+00:00
- - user: None
- - tags: []
-
-## Office of Research | FSU Office of Research
- - [http://about.research.fsu.edu](http://about.research.fsu.edu)
- - date published: 2024-04-30T04:16:02.530144+00:00
- - user: None
- - tags: []
-
-## FSU Admissions
- - [https://admissions.fsu.edu](https://admissions.fsu.edu)
- - date published: 2024-04-30T04:15:07.222622+00:00
- - user: None
- - tags: []
-
-## University Advising | Florida State University.
- - [https://advising.fsu.edu](https://advising.fsu.edu)
- - date published: 2024-04-30T04:15:13.364762+00:00
- - user: None
- - tags: []
-
-## FSU Alert
- - [https://alerts.fsu.edu](https://alerts.fsu.edu)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## FSU Alumni Association
- - [http://alumni.fsu.edu](http://alumni.fsu.edu)
- - date published: 2024-03-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## | FSU Bookstore
- - [https://bookstore.fsu.edu](https://bookstore.fsu.edu)
- - date published: 2024-04-30T04:15:38.801803+00:00
- - user: None
- - tags: []
-
-## Seminole Boosters | Florida State University
- - [http://boosters.fsu.edu](http://boosters.fsu.edu)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Events Calendar - Florida State University Calendar
- - [https://calendar.fsu.edu](https://calendar.fsu.edu)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Florida State University
- - [https://directory.fsu.edu](https://directory.fsu.edu)
- - date published: 2024-04-30T04:15:50.235623+00:00
- - user: None
- - tags: []
-
-## Distance@FSU
- - [https://distance.fsu.edu](https://distance.fsu.edu)
- - date published: 2024-04-30T04:15:33.381895+00:00
- - user: None
- - tags: []
-
-## Florida State's Economic Impact
- - [https://economic-impact.fsu.edu](https://economic-impact.fsu.edu)
- - date published: 2024-04-30T04:15:40.699233+00:00
- - user: None
- - tags: []
-
-## Florida State University Faculty
- - [https://faculty.fsu.edu](https://faculty.fsu.edu)
- - date published: 2024-04-30T04:16:06.753891+00:00
- - user: None
- - tags: []
-
-## FSU Foundation
- - [http://foundation.fsu.edu](http://foundation.fsu.edu)
- - date published: 2024-04-30T04:15:19.436915+00:00
- - user: None
- - tags: []
-
-## Florida State University
- - [https://fsu.edu](https://fsu.edu)
- - date published: 2023-10-27T12:59:00.241454+00:00
- - user: None
- - tags: ['university']
-
-## Office of the General Counsel
- - [https://generalcounsel.fsu.edu](https://generalcounsel.fsu.edu)
- - date published: 2024-04-30T04:15:27.618867+00:00
- - user: None
- - tags: []
-
-## FSU Global
- - [https://global.fsu.edu](https://global.fsu.edu)
- - date published: 2024-04-30T04:16:04.492698+00:00
- - user: None
- - tags: []
-
-## University Housing / Florida State University
- - [https://housing.fsu.edu](https://housing.fsu.edu)
- - date published: 2024-04-30T04:16:08.388318+00:00
- - user: None
- - tags: []
-
-## Office of Human Resources
- - [https://hr.fsu.edu](https://hr.fsu.edu)
- - date published: 2024-04-30T04:15:36.866397+00:00
- - user: None
- - tags: []
-
-## Office of Institutional Research - Florida State University
- - [https://ir.fsu.edu](https://ir.fsu.edu)
- - date published: 2024-04-30T04:16:22.769660+00:00
- - user: None
- - tags: []
-
-## Information Technology Services
- - [https://its.fsu.edu](https://its.fsu.edu)
- - date published: 2024-04-30T04:15:21.474295+00:00
- - user: None
- - tags: []
-
-## Careers at Florida State | Office of Human Resources
- - [https://jobs.fsu.edu](https://jobs.fsu.edu)
- - date published: 2024-04-30T04:15:57.303544+00:00
- - user: None
- - tags: []
-
-## Welcome to the FSU Drupal Site
- - [https://knowmore.fsu.edu](https://knowmore.fsu.edu)
- - date published: 2024-04-30T04:15:15.133854+00:00
- - user: None
- - tags: []
-
-## Home - Florida State University News
- - [https://news.fsu.edu](https://news.fsu.edu)
- - date published: 2023-10-25T11:22:28.015942+00:00
- - user: None
- - tags: []
-
-## Regulations and Policies
- - [https://policies.fsu.edu](https://policies.fsu.edu)
- - date published: 2024-04-30T04:15:30.322533+00:00
- - user: None
- - tags: []
-
-## A Preeminent Florida University
- - [https://preeminence.fsu.edu](https://preeminence.fsu.edu)
- - date published: 2024-04-30T04:15:35.067434+00:00
- - user: None
- - tags: []
-
-## University Registrar
- - [https://registrar.fsu.edu](https://registrar.fsu.edu)
- - date published: 2024-04-30T04:15:04.655930+00:00
- - user: None
- - tags: []
-
-## Regulations and Policies
- - [https://regulations.fsu.edu](https://regulations.fsu.edu)
- - date published: 2024-04-30T04:16:33.117206+00:00
  - user: None
  - tags: []
 

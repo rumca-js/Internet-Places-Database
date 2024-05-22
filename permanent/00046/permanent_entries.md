@@ -1,3 +1,490 @@
+## strategy+business: international business strategy news articles and award-winning analysis
+ - [http://www.strategy-business.com](http://www.strategy-business.com)
+ - date published: 2024-05-07T20:27:48.667795+00:00
+ - user: None
+ - tags: []
+
+## Strategy of Security
+ - [https://strategyofsecurity.com](https://strategyofsecurity.com)
+ - date published: 2024-04-05T18:24:21.415168+00:00
+ - user: None
+ - tags: []
+
+## StrategyPage | Military News Humor Photos
+ - [http://www.strategypage.com](http://www.strategypage.com)
+ - date published: 2024-05-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Stratfor: The World's Leading Geopolitical Intelligence Platform
+ - [http://www.stratfor.com](http://www.stratfor.com)
+ - date published: 2024-04-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Strathweb. A free flowing tech monologue.
+ - [http://www.strathweb.com](http://www.strathweb.com)
+ - date published: 2024-05-01T03:45:48.918276+00:00
+ - user: None
+ - tags: []
+
+## Stratio : Transform and build your digital strategy around Big Data and
+    AI
+ - [https://www.stratio.com](https://www.stratio.com)
+ - date published: 2024-05-01T07:40:37.321644+00:00
+ - user: None
+ - tags: []
+
+## Get Latest Trending News | Breaking News | StratNewsGlobal
+ - [https://stratnewsglobal.com](https://stratnewsglobal.com)
+ - date published: 2024-03-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## StratObserve
+ - [http://stratobserve.com](http://stratobserve.com)
+ - date published: 2024-04-29T05:34:16.407386+00:00
+ - user: None
+ - tags: []
+
+## Stratoflow - High-Performance Software Development Company
+ - [https://stratoflow.com](https://stratoflow.com)
+ - date published: 2023-10-25T17:18:01.529316+00:00
+ - user: None
+ - tags: []
+
+## Stratosphere Games - Stratosphere Games
+ - [https://www.stratosphere-games.com](https://www.stratosphere-games.com)
+ - date published: 2024-05-13T03:55:08.572136+00:00
+ - user: None
+ - tags: []
+
+## Strava | Running, Cycling & Hiking App - Train, Track & Share
+ - [https://strava.com](https://strava.com)
+ - date published: 2024-05-06T18:31:17.406321+00:00
+ - user: None
+ - tags: []
+
+## Strava | Running, Cycling & Hiking App - Train, Track & Share
+ - [https://www.strava.com](https://www.strava.com)
+ - date published: 2024-04-28T02:40:38.235498+00:00
+ - user: None
+ - tags: []
+
+## Strawberry Perl for Windows
+ - [http://strawberryperl.com](http://strawberryperl.com)
+ - date published: 2024-05-08T10:15:51.781961+00:00
+ - user: None
+ - tags: []
+
+## strboul blog
+ - [https://blog.strboul.com](https://blog.strboul.com)
+ - date published: 2024-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Streacom – Premium Computer Hardware Design & Manufacture
+ - [https://streacom.com](https://streacom.com)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Streak - CRM for Gmail
+ - [https://www.streak.com](https://www.streak.com)
+ - date published: 2024-04-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Streak - CRM for Gmail
+ - [https://streaklinks.com](https://streaklinks.com)
+ - date published: 2024-04-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Upload Video Online - Free Video Hosting - Streamable
+ - [https://streamable.com](https://streamable.com)
+ - date published: 2023-10-25T11:44:38.857649+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## Coming soon | StreamBeats
+ - [https://streambeats.com](https://streambeats.com)
+ - date published: 2024-05-09T06:08:01.607939+00:00
+ - user: None
+ - tags: []
+
+## Coming soon | StreamBeats
+ - [https://www.streambeats.com](https://www.streambeats.com)
+ - date published: 2024-03-09T09:00:19.571929+00:00
+ - user: None
+ - tags: []
+
+## Streamdal Console
+ - [https://demo.streamdal.com](https://demo.streamdal.com)
+ - date published: 2023-10-31T19:11:21.644056+00:00
+ - user: None
+ - tags: []
+
+## Open Source Data Observability That Drives Action
+ - [https://streamdal.com](https://streamdal.com)
+ - date published: 2023-10-31T19:11:18.771347+00:00
+ - user: None
+ - tags: []
+
+## StreamElements - Legendary Content Creation Tools and Services
+ - [https://blog.streamelements.com](https://blog.streamelements.com)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mercury by StreamElements
+ - [https://mercury.streamelements.com](https://mercury.streamelements.com)
+ - date published: 2024-05-09T04:34:48.276916+00:00
+ - user: None
+ - tags: []
+
+## Twitch Emotes Tracking | Chat Stats by StreamElements
+ - [https://stats.streamelements.com](https://stats.streamelements.com)
+ - date published: 2024-05-09T04:35:21.473348+00:00
+ - user: None
+ - tags: []
+
+## StreamElements | The Ultimate Streamer Platform
+ - [https://streamelements.com](https://streamelements.com)
+ - date published: 2024-03-03T17:31:53.291330+00:00
+ - user: None
+ - tags: []
+
+## Advertisers
+ - [https://titanium.streamelements.com](https://titanium.streamelements.com)
+ - date published: 2024-05-09T04:35:39.215864+00:00
+ - user: None
+ - tags: []
+
+## StreamElements | The Ultimate Streamer Platform
+ - [https://widgets.streamelements.com](https://widgets.streamelements.com)
+ - date published: 2024-05-09T04:34:55.870402+00:00
+ - user: None
+ - tags: []
+
+## Streameye Banner Manager
+ - [https://app.streameye.com](https://app.streameye.com)
+ - date published: 2024-05-06T17:44:53.717197+00:00
+ - user: None
+ - tags: []
+
+## Live streaming internet radio station directory
+ - [https://streamfinder.com](https://streamfinder.com)
+ - date published: 2024-05-01T00:27:41.137374+00:00
+ - user: None
+ - tags: []
+
+## Live streaming internet radio station directory
+ - [https://www.streamfinder.com](https://www.streamfinder.com)
+ - date published: 2024-02-15T22:31:46.282707+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## StreamGuys Home Page
+ - [https://www.streamguys.com](https://www.streamguys.com)
+ - date published: 2024-05-08T12:16:49.848166+00:00
+ - user: None
+ - tags: []
+
+## Streamhead
+ - [https://www.streamhead.com](https://www.streamhead.com)
+ - date published: 2023-11-29T14:53:56.714447+00:00
+ - user: None
+ - tags: ['personal']
+
+## Streaming Learning Center
+ - [https://streaminglearningcenter.com](https://streaminglearningcenter.com)
+ - date published: 2023-11-04T01:30:25.033571+00:00
+ - user: None
+ - tags: []
+
+## Log In
+ - [https://streamingradiohq.com](https://streamingradiohq.com)
+ - date published: 2024-05-01T00:27:48.674294+00:00
+ - user: None
+ - tags: []
+
+## Streamlabs | #1 free set of tools for live streamers and gamers
+ - [https://streamlabs.com](https://streamlabs.com)
+ - date published: 2024-03-02T19:55:56.284120+00:00
+ - user: None
+ - tags: []
+
+## Streamlabs | #1 free set of tools for live streamers and gamers
+ - [https://www.streamlabs.com](https://www.streamlabs.com)
+ - date published: 2024-05-09T02:40:53.739606+00:00
+ - user: None
+ - tags: []
+
+## StreamLikers – Watch Full Movies Online - Watch Full Movies Online Free in HD Quality
+ - [https://www.streamlikers.com](https://www.streamlikers.com)
+ - date published: 2023-12-02T13:14:24+00:00
+ - user: rumpel
+ - tags: []
+
+## Streamline
+ - [https://blog.streamlinehq.com](https://blog.streamlinehq.com)
+ - date published: 2024-04-30T05:48:18.330759+00:00
+ - user: None
+ - tags: []
+
+## Download 177,289 Streamline Icons (22+ free sets)
+ - [https://streamlinehq.com](https://streamlinehq.com)
+ - date published: 2024-05-02T07:55:40.187089+00:00
+ - user: None
+ - tags: []
+
+## Streamline Icons: The Only Icon System
+ - [https://www.streamlinehq.com](https://www.streamlinehq.com)
+ - date published: 2023-10-25T17:18:08.969199+00:00
+ - user: None
+ - tags: []
+
+## streamofthots
+ - [https://streamofthots.com](https://streamofthots.com)
+ - date published: 2024-05-12T06:17:25.387841+00:00
+ - user: None
+ - tags: []
+
+## Podcast Foundations - Your ultimate podcast and streaming app guide
+ - [https://streampdx.com](https://streampdx.com)
+ - date published: 2024-05-01T00:32:26.835613+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://streamsets.com](https://streamsets.com)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## StreamTV Insider Homepage | StreamTV Insider
+ - [https://www.streamtvinsider.com](https://www.streamtvinsider.com)
+ - date published: 2023-11-02T16:07:19.355989+00:00
+ - user: None
+ - tags: []
+
+## StreamYard
+ - [https://streamyard.com](https://streamyard.com)
+ - date published: 2024-04-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## StreetFins® | Finance Simplified®
+ - [https://streetfins.com](https://streetfins.com)
+ - date published: 2023-10-25T17:18:12.720903+00:00
+ - user: None
+ - tags: []
+
+## Street Hearts Bulgaria - Neutering Programme and Dog Rescue
+ - [https://streetheartsbg.com](https://streetheartsbg.com)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Street Muscle
+ - [http://www.streetmusclemag.com](http://www.streetmusclemag.com)
+ - date published: 2024-05-02T09:28:36.574223+00:00
+ - user: None
+ - tags: []
+
+## Street Parking
+ - [https://streetparking.com](https://streetparking.com)
+ - date published: 2024-04-29T04:33:08.173773+00:00
+ - user: None
+ - tags: []
+
+## streetsofsalem -
+ - [http://streetsofsalem.com](http://streetsofsalem.com)
+ - date published: 2024-05-06T16:59:48.210744+00:00
+ - user: None
+ - tags: []
+
+## Home - Running Coach, Marathon Training Plan, Run Coaching - Strength Running
+ - [https://strengthrunning.com](https://strengthrunning.com)
+ - date published: 2024-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the home of The Strengths Deck
+ - [https://strengthsdeck.com](https://strengthsdeck.com)
+ - date published: 2024-05-10T05:39:30.341834+00:00
+ - user: None
+ - tags: []
+
+## Stress Level Zero
+ - [https://www.stresslevelzero.com](https://www.stresslevelzero.com)
+ - date published: 2024-02-04T10:06:06+00:00
+ - user: rumpel
+ - tags: ['boneworks', 'game developer', 'bonelab', 'virtual reality']
+
+## Stretch 15
+ - [https://stretch15.com](https://stretch15.com)
+ - date published: 2023-10-25T17:18:13.663808+00:00
+ - user: None
+ - tags: []
+
+## Foresight and Insight for Fiduciaries in Bankruptcy Case Management – Stretto
+ - [https://cases.stretto.com](https://cases.stretto.com)
+ - date published: 2024-05-08T04:45:38.404398+00:00
+ - user: None
+ - tags: []
+
+## Foresight and Insight for Fiduciaries in Bankruptcy Case Management – Stretto
+ - [https://case.stretto.com](https://case.stretto.com)
+ - date published: 2024-05-08T04:45:56.951714+00:00
+ - user: None
+ - tags: []
+
+## StrictlyVC, LLC
+ - [https://www.strictlyvc.com](https://www.strictlyvc.com)
+ - date published: 2024-05-06T13:43:21.182344+00:00
+ - user: None
+ - tags: []
+
+## Striim | Unified data integration and streaming platform
+ - [https://www.striim.com](https://www.striim.com)
+ - date published: 2024-02-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Online Music Therapy | Multilingual | Strike A Chord Music Therapy
+ - [https://strikeachordmt.com](https://strikeachordmt.com)
+ - date published: 2020-02-14T10:59:11+00:00
+ - user: None
+ - tags: []
+
+## Online Music Therapy | Multilingual | Strike A Chord Music Therapy
+ - [http://www.strikeachordmt.com](http://www.strikeachordmt.com)
+ - date published: 2020-02-14T10:59:11+00:00
+ - user: None
+ - tags: []
+
+## String Encryption & File Encryption
+ - [https://www.stringencrypt.com](https://www.stringencrypt.com)
+ - date published: 2024-05-11T08:34:16.717741+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.stringkick.com](https://www.stringkick.com)
+ - date published: 2020-09-25T14:17:50+00:00
+ - user: None
+ - tags: []
+
+## Stringr | Integrated Video Platform
+ - [https://www.stringr.com](https://www.stringr.com)
+ - date published: 2024-05-01T04:40:48.715159+00:00
+ - user: None
+ - tags: []
+
+## Stripe Billing | Recurring Payments & Subscription Management
+ - [https://billing.stripe.com](https://billing.stripe.com)
+ - date published: 2024-05-04T07:03:33.893616+00:00
+ - user: None
+ - tags: []
+
+## Stripe | Financial Infrastructure for the Internet
+ - [https://buy.stripe.com](https://buy.stripe.com)
+ - date published: 2024-04-30T02:18:44.435102+00:00
+ - user: None
+ - tags: []
+
+## Stripe Checkout | Checkout Pages for Your Website
+ - [https://checkout.stripe.com](https://checkout.stripe.com)
+ - date published: 2024-04-29T01:59:52.139754+00:00
+ - user: None
+ - tags: []
+
+## Stripe Login | Sign in to the Stripe Dashboard
+ - [https://dashboard.stripe.com](https://dashboard.stripe.com)
+ - date published: 2024-05-06T13:29:47.755214+00:00
+ - user: None
+ - tags: []
+
+## Documentation
+ - [https://docs.stripe.com](https://docs.stripe.com)
+ - date published: 2024-04-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Stripe | Financial Infrastructure for the Internet
+ - [https://donate.stripe.com](https://donate.stripe.com)
+ - date published: 2024-04-30T05:02:00.012465+00:00
+ - user: None
+ - tags: []
+
+## Stripe App Marketplace
+ - [https://marketplace.stripe.com](https://marketplace.stripe.com)
+ - date published: 2024-04-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Stripe Press — Ideas for progress
+ - [https://press.stripe.com](https://press.stripe.com)
+ - date published: 2023-11-22T21:03:47.005626+00:00
+ - user: None
+ - tags: []
+
+## Stripe system status
+ - [https://status.stripe.com](https://status.stripe.com)
+ - date published: 2024-05-11T05:34:34.282791+00:00
+ - user: None
+ - tags: []
+
+## Stripe | Payment Processing Platform for the Internet
+ - [https://stripe.com](https://stripe.com)
+ - date published: 2023-10-25T17:18:26.863184+00:00
+ - user: None
+ - tags: ['payment processing', 'e-commerce']
+
+## Stripe: Help & Support
+ - [https://support.stripe.com](https://support.stripe.com)
+ - date published: 2023-10-25T17:18:28.074441+00:00
+ - user: None
+ - tags: []
+
+## Stripe | Financial Infrastructure for the Internet
+ - [https://www.stripe.com](https://www.stripe.com)
+ - date published: 2024-05-01T07:10:18.583653+00:00
+ - user: None
+ - tags: []
+
+## Stars and Stripes | The U.S. military's independent news source.
+ - [https://www.stripes.com](https://www.stripes.com)
+ - date published: 2023-10-25T17:18:37.243036+00:00
+ - user: None
+ - tags: []
+
+## Stripe Transfer - Reliably migrate a Stripe account
+ - [https://stripetransfer.com](https://stripetransfer.com)
+ - date published: 2024-05-08T04:44:10.559158+00:00
+ - user: None
+ - tags: []
+
+## Wouter van Oortmerssen
+ - [https://strlen.com](https://strlen.com)
+ - date published: 2023-10-25T17:18:38.216951+00:00
+ - user: None
+ - tags: []
+
+## Stromae
+ - [https://www.stromae.com](https://www.stromae.com)
+ - date published: 2023-11-13T09:52:25.513983+00:00
+ - user: None
+ - tags: ['music band']
+
+## Language Classes and Private Language Tutors in Los Angeles - LA's Highest Rated Language School
+ - [https://strommeninc.com](https://strommeninc.com)
+ - date published: 2024-05-10T06:57:51.688907+00:00
+ - user: None
+ - tags: []
+
 ## Strong Atomics
  - [https://strong-atomics.com](https://strong-atomics.com)
  - date published: 2024-05-12T06:11:41.921441+00:00
@@ -5509,492 +5996,6 @@
 ## https://ppaolo.substack.com
  - [https://ppaolo.substack.com](https://ppaolo.substack.com)
  - date published: 2023-12-04T21:16:18.389456+00:00
- - user: None
- - tags: []
-
-## Pratyush’s Newsletter | Pratyush Buddiga | Substack
- - [https://pratyushbuddiga.substack.com](https://pratyushbuddiga.substack.com)
- - date published: 2024-05-08T05:50:42.765292+00:00
- - user: None
- - tags: []
-
-## offscript | Priya | Substack
- - [https://prigoose.substack.com](https://prigoose.substack.com)
- - date published: 2024-01-09T01:43:22.693395+00:00
- - user: None
- - tags: []
-
-## More Storytelling Notes | Priscilla Howe | Substack
- - [https://priscillahowe.substack.com](https://priscillahowe.substack.com)
- - date published: 2024-04-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Productivus | Substack
- - [https://productivus.substack.com](https://productivus.substack.com)
- - date published: 2024-04-28T02:39:07.666802+00:00
- - user: None
- - tags: []
-
-## Project 2025 Takedown | Tiffany Torres Williams | Substack
- - [https://project2025takedown.substack.com](https://project2025takedown.substack.com)
- - date published: 2024-04-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## PromptArmor Blog | Substack
- - [https://promptarmor.substack.com](https://promptarmor.substack.com)
- - date published: 2023-12-15T21:47:07.452086+00:00
- - user: None
- - tags: []
-
-## The Insurgency News Blast | Protestia | Substack
- - [https://protestia.substack.com](https://protestia.substack.com)
- - date published: 2024-05-07T09:41:12.058238+00:00
- - user: None
- - tags: []
-
-## The Protocolist | Timber Schroff | Substack
- - [https://protocolist.substack.com](https://protocolist.substack.com)
- - date published: 2024-04-28T04:54:53.542825+00:00
- - user: None
- - tags: []
-
-## The Pseudodragon Newsletter | Kendall Giles | Substack
- - [https://pseudodragon.substack.com](https://pseudodragon.substack.com)
- - date published: 2024-05-10T05:12:19.682773+00:00
- - user: None
- - tags: []
-
-## psychcrisis.org | Jessica Ocean | Substack
- - [https://psychcrisis.substack.com](https://psychcrisis.substack.com)
- - date published: 2024-01-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## psychotechnology | The irrationalist | Substack
- - [https://psychotechnology.substack.com](https://psychotechnology.substack.com)
- - date published: 2024-05-08T09:58:38.260490+00:00
- - user: None
- - tags: []
-
-## Public | Michael Shellenberger | Substack
- - [https://public.substack.com](https://public.substack.com)
- - date published: 2023-11-26T17:00:37+00:00
- - user: rumpel
- - tags: ['substack']
-
-## Pursuing Pragmatic Leadership | Josh Gratsch | Substack
- - [https://pursuingpragmaticleadership.substack.com](https://pursuingpragmaticleadership.substack.com)
- - date published: 2024-02-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pursuing Reality | Adam Elwood | Substack
- - [https://pursuingreality.substack.com](https://pursuingreality.substack.com)
- - date published: 2024-05-07T09:46:58.373857+00:00
- - user: None
- - tags: []
-
-## Popcorn Penguin Posts | PopcornPenguin | Substack
- - [https://puzzledpenguin.substack.com](https://puzzledpenguin.substack.com)
- - date published: 2024-01-09T01:43:25.130618+00:00
- - user: None
- - tags: []
-
-## https://quantfinance.substack.com
- - [https://quantfinance.substack.com](https://quantfinance.substack.com)
- - date published: 2024-01-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## QTR’s Fringe Finance | Quoth the Raven | Substack
- - [http://quoththeraven.substack.com](http://quoththeraven.substack.com)
- - date published: 2024-04-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Spacecult 🛸 | Raad ⚔ | Substack
- - [https://raad.substack.com](https://raad.substack.com)
- - date published: 2024-05-07T10:05:19.062387+00:00
- - user: None
- - tags: []
-
-## didion for doomscrollers | Rachdele | Substack
- - [https://rachdele.substack.com](https://rachdele.substack.com)
- - date published: 2024-01-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Racket Cartoons by Daniel Medina  | Substack
- - [https://racketcartoons.substack.com](https://racketcartoons.substack.com)
- - date published: 2024-05-11T09:36:01.163261+00:00
- - user: None
- - tags: []
-
-## Raconteur Press | Substack
- - [https://raconteurpress.substack.com](https://raconteurpress.substack.com)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Watch | Radley Balko | Substack
- - [https://radleybalko.substack.com](https://radleybalko.substack.com)
- - date published: 2024-01-09T01:43:26.643609+00:00
- - user: None
- - tags: []
-
-## Rahul’s Renaissance Quest  | Substack
- - [https://rahulmajumdar.substack.com](https://rahulmajumdar.substack.com)
- - date published: 2024-01-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Identity Revive | Rakkhi Joy | Substack
- - [https://rakkhi.substack.com](https://rakkhi.substack.com)
- - date published: 2023-10-25T10:01:24.275651+00:00
- - user: None
- - tags: ['substack']
-
-## A Blog For The Anthropocene | Rama Pascala | Substack
- - [https://ramapascala.substack.com](https://ramapascala.substack.com)
- - date published: 2024-01-09T01:43:29.182979+00:00
- - user: None
- - tags: []
-
-## Random Acts of Medicine | Chris Worsham | Substack
- - [https://randomactsofmedicine.substack.com](https://randomactsofmedicine.substack.com)
- - date published: 2023-10-25T10:01:28.416412+00:00
- - user: None
- - tags: ['substack']
-
-## Random Minds by Katherine Brodsky | Substack
- - [https://randomminds.substack.com](https://randomminds.substack.com)
- - date published: 2024-01-09T01:43:32.377862+00:00
- - user: None
- - tags: []
-
-## The Rate of Change | Aatish Bhatia | Substack
- - [https://rateofchange.substack.com](https://rateofchange.substack.com)
- - date published: 2024-05-01T00:33:10.672490+00:00
- - user: None
- - tags: []
-
-## Ravi Parikh’s Newsletter | Substack
- - [https://ravisparikh.substack.com](https://ravisparikh.substack.com)
- - date published: 2024-01-09T01:43:34.420329+00:00
- - user: None
- - tags: []
-
-## Lazy Afternoons | Ravi Teja Kanta | Substack
- - [https://ravitejakanta.substack.com](https://ravitejakanta.substack.com)
- - date published: 2023-10-25T10:01:35.638481+00:00
- - user: None
- - tags: ['substack']
-
-## Beautiful Terrible Things | Ray Edwards | Substack
- - [https://rayedwards.substack.com](https://rayedwards.substack.com)
- - date published: 2024-05-09T06:21:23.227157+00:00
- - user: None
- - tags: []
-
-## rants by razberry | Substack
- - [https://razberry.substack.com](https://razberry.substack.com)
- - date published: 2023-11-15T18:40:37.968645+00:00
- - user: None
- - tags: []
-
-## Razib Khan's Unsupervised Learning | Substack
- - [https://razib.substack.com](https://razib.substack.com)
- - date published: 2023-10-25T10:01:38.890917+00:00
- - user: None
- - tags: ['substack']
-
-## Coding on Autopilot | Robert Brennan | Substack
- - [https://rbren.substack.com](https://rbren.substack.com)
- - date published: 2024-03-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## 2050 | Peter Havers | Substack
- - [https://read2050.substack.com](https://read2050.substack.com)
- - date published: 2024-01-09T01:43:36.185877+00:00
- - user: None
- - tags: []
-
-## Lesser Tedium | Ernie Smith | Substack
- - [https://readtedium.substack.com](https://readtedium.substack.com)
- - date published: 2024-04-30T07:05:03.975189+00:00
- - user: None
- - tags: []
-
-## Read. Write. Concurrently | Pham Nguyen Hung | Substack
- - [https://readwriteconcurrently.substack.com](https://readwriteconcurrently.substack.com)
- - date published: 2024-03-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Reath Report | Jeff Carswell | Substack
- - [https://reathai.substack.com](https://reathai.substack.com)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## REDUXX Weekly Roundup | Substack
- - [https://reduxx.substack.com](https://reduxx.substack.com)
- - date published: 2024-02-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Res Obscura | Benjamin Breen | Substack
- - [https://resobscura.substack.com](https://resobscura.substack.com)
- - date published: 2024-01-09T01:43:38.822737+00:00
- - user: None
- - tags: []
-
-## The Retro Millennial | Dan Scott | Substack
- - [https://retropunk.substack.com](https://retropunk.substack.com)
- - date published: 2024-05-08T00:00:54.234821+00:00
- - user: None
- - tags: []
-
-## Rhea's Substack | Substack
- - [https://rheaeve.substack.com](https://rheaeve.substack.com)
- - date published: 2024-03-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Poetry of Reality with Richard Dawkins | Substack
- - [https://richarddawkins.substack.com](https://richarddawkins.substack.com)
- - date published: 2023-10-25T10:01:47.068642+00:00
- - user: None
- - tags: ['substack']
-
-## Japan Economy Watch | Richard Katz | Substack
- - [https://richardkatz.substack.com](https://richardkatz.substack.com)
- - date published: 2024-01-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Richard’s Substack | Richard North Patterson | Substack
- - [https://richardnorthpatterson.substack.com](https://richardnorthpatterson.substack.com)
- - date published: 2024-05-06T16:32:03.518691+00:00
- - user: None
- - tags: []
-
-## What I'm paying attention to | Richard D. Bartlett | Substack
- - [https://richdecibels.substack.com](https://richdecibels.substack.com)
- - date published: 2024-01-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Future Does Not Fit In The Containers Of The Past | Rishad Tobaccowala | Substack
- - [https://rishad.substack.com](https://rishad.substack.com)
- - date published: 2024-05-05T16:42:33.493877+00:00
- - user: None
- - tags: []
-
-## Risky Business News | Patrick Gray | Substack
- - [https://riskybiznews.substack.com](https://riskybiznews.substack.com)
- - date published: 2024-01-09T01:43:41.924261+00:00
- - user: None
- - tags: []
-
-## rmurphey's newsletter | Rebecca Murphey | Substack
- - [https://rmurphey.substack.com](https://rmurphey.substack.com)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Road to Reality | Sam Ritchie | Substack
- - [https://roadtoreality.substack.com](https://roadtoreality.substack.com)
- - date published: 2024-05-08T10:04:56.023678+00:00
- - user: None
- - tags: []
-
-## Robert Bryce | Substack
- - [https://robertbryce.substack.com](https://robertbryce.substack.com)
- - date published: 2024-01-09T01:43:45.177357+00:00
- - user: None
- - tags: []
-
-## Robert Reich | Substack
- - [https://robertreich.substack.com](https://robertreich.substack.com)
- - date published: 2024-03-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Internal exile | Rob Horning | Substack
- - [https://robhorning.substack.com](https://robhorning.substack.com)
- - date published: 2024-03-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Rob Henderson's Newsletter | Substack
- - [https://robkhenderson.substack.com](https://robkhenderson.substack.com)
- - date published: 2024-01-09T01:43:54.498996+00:00
- - user: None
- - tags: []
-
-## https://roblh.substack.com
- - [https://roblh.substack.com](https://roblh.substack.com)
- - date published: 2024-01-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Interconnects | Nathan Lambert | Substack
- - [https://robotic.substack.com](https://robotic.substack.com)
- - date published: 2023-10-25T10:02:26.630773+00:00
- - user: None
- - tags: ['substack']
-
-## Robots In Plain English | Sudheer Apte | Substack
- - [https://robotsinplainenglish.substack.com](https://robotsinplainenglish.substack.com)
- - date published: 2024-04-28T05:25:02.598267+00:00
- - user: None
- - tags: []
-
-## The Honest Broker | Roger Pielke Jr. | Substack
- - [https://rogerpielkejr.substack.com](https://rogerpielkejr.substack.com)
- - date published: 2023-10-25T10:02:34.687234+00:00
- - user: None
- - tags: ['substack']
-
-## What Do We Do Now That We're Here? | Rosie Spinks | Substack
- - [https://rojospinks.substack.com](https://rojospinks.substack.com)
- - date published: 2024-03-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ron’s Log | Ron Ghosh | Substack
- - [https://ronghosh.substack.com](https://ronghosh.substack.com)
- - date published: 2024-02-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ross on Growth | Ross Nazarenko | Substack
- - [https://rossongrowth.substack.com](https://rossongrowth.substack.com)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Roughly Written | Ryan O'Neill | Substack
- - [https://roughlywritten.substack.com](https://roughlywritten.substack.com)
- - date published: 2023-12-23T15:08:37.487132+00:00
- - user: None
- - tags: []
-
-## Rox’s Picks | Roxine Kee | Substack
- - [https://roxine.substack.com](https://roxine.substack.com)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## RQ1 | Mark Coddington and Seth Lewis | Substack
- - [https://rq1.substack.com](https://rq1.substack.com)
- - date published: 2024-03-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## RS-OJICT Newsletter & Podcast | Substack
- - [https://rsojict.substack.com](https://rsojict.substack.com)
- - date published: 2024-05-08T12:01:44.379421+00:00
- - user: None
- - tags: []
-
-## RSS DS+AI Section | Substack
- - [https://rssdsaisection.substack.com](https://rssdsaisection.substack.com)
- - date published: 2024-01-09T01:43:57.719459+00:00
- - user: None
- - tags: []
-
-## John Rubino's Substack | Substack
- - [https://rubino.substack.com](https://rubino.substack.com)
- - date published: 2024-05-04T09:44:08.354181+00:00
- - user: None
- - tags: []
-
-## Rule of Five | Tiffanie Darke | Substack
- - [https://ruleoffive.substack.com](https://ruleoffive.substack.com)
- - date published: 2024-02-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## A Developer's Newsletter | Robin Wieruch | Substack
- - [https://rwieruch.substack.com](https://rwieruch.substack.com)
- - date published: 2024-04-29T06:43:55.204381+00:00
- - user: None
- - tags: []
-
-## Entry Level Investing | Ryan Shannon | Substack
- - [https://ryanshannon.substack.com](https://ryanshannon.substack.com)
- - date published: 2024-01-09T01:44:02.255542+00:00
- - user: None
- - tags: []
-
-## Good Thoughts | Richard Y Chappell | Substack
- - [https://rychappell.substack.com](https://rychappell.substack.com)
- - date published: 2024-05-06T22:16:12.890884+00:00
- - user: None
- - tags: []
-
-## The S.A.D Newsletter | Sharif Islam | Substack
- - [https://sadnewsletter.substack.com](https://sadnewsletter.substack.com)
- - date published: 2024-04-29T03:32:17.670761+00:00
- - user: None
- - tags: []
-
-## SAILCARGO | Substack
- - [https://sailcargo.substack.com](https://sailcargo.substack.com)
- - date published: 2024-03-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Optimismo | Salomón Acuña | Substack
- - [https://salomna.substack.com](https://salomna.substack.com)
- - date published: 2024-05-10T05:28:57.554218+00:00
- - user: None
- - tags: []
-
-## What Matters (To Me) | Stewart Alsop | Substack
- - [https://salsop.substack.com](https://salsop.substack.com)
- - date published: 2024-04-30T06:56:29.569473+00:00
- - user: None
- - tags: []
-
-## SBF’s Substack | Substack
- - [https://sambf.substack.com](https://sambf.substack.com)
- - date published: 2024-05-12T04:09:29.274883+00:00
- - user: None
- - tags: []
-
-## Numb at the Lodge | Sam Kriss | Substack
- - [https://samkriss.substack.com](https://samkriss.substack.com)
- - date published: 2024-01-09T01:44:04.215558+00:00
- - user: None
- - tags: []
-
-## Jonathan’s Substack | Jonathan Engler | Substack
- - [https://sanityunleashed.substack.com](https://sanityunleashed.substack.com)
- - date published: 2024-01-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Rough Diamonds | Sarah Constantin | Substack
- - [https://sarahconstantin.substack.com](https://sarahconstantin.substack.com)
- - date published: 2024-01-07T23:12:10.014354+00:00
- - user: None
- - tags: []
-
-## Scatter Brain | Sar Haribhakti | Substack
- - [https://sarharibhakti.substack.com](https://sarharibhakti.substack.com)
- - date published: 2024-01-09T01:44:06.301513+00:00
- - user: None
- - tags: []
-
-## Sasha's 'Newsletter' | Sasha Chapin | Substack
- - [https://sashachapin.substack.com](https://sashachapin.substack.com)
- - date published: 2024-01-09T01:44:09.644330+00:00
  - user: None
  - tags: []
 

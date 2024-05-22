@@ -1,3 +1,21 @@
+## HTML with Superpowers | HTML with Superpowers
+ - [https://htmlwithsuperpowers.netlify.app](https://htmlwithsuperpowers.netlify.app)
+ - date published: 2023-10-25T11:47:32.982005+00:00
+ - user: None
+ - tags: []
+
+## Is This Site Netlify?
+ - [https://is-this.netlify.app](https://is-this.netlify.app)
+ - date published: 2024-05-06T13:33:32.286093+00:00
+ - user: None
+ - tags: []
+
+## Front-End Developer, UI/UX Designer
+ - [https://jeffson.netlify.app](https://jeffson.netlify.app)
+ - date published: 2024-05-11T10:10:31.363817+00:00
+ - user: None
+ - tags: []
+
 ## Karin's space
  - [https://khendrikse.netlify.app](https://khendrikse.netlify.app)
  - date published: 2024-03-18T00:00:00+00:00
@@ -5979,24 +5997,6 @@
 ## COVID-19 - UNSW Sydney
  - [https://www.covid-19.unsw.edu.au](https://www.covid-19.unsw.edu.au)
  - date published: 2024-05-11T07:37:27.801118+00:00
- - user: None
- - tags: []
-
-## EDGE | UNSW Sydney
- - [https://www.edge.unsw.edu.au](https://www.edge.unsw.edu.au)
- - date published: 2024-05-11T07:38:19.229650+00:00
- - user: None
- - tags: []
-
-## Education & student experience
- - [https://www.education.unsw.edu.au](https://www.education.unsw.edu.au)
- - date published: 2024-05-11T07:38:07.820192+00:00
- - user: None
- - tags: []
-
-## Events | UNSW Sydney
- - [https://www.events.unsw.edu.au](https://www.events.unsw.edu.au)
- - date published: 2024-05-11T07:37:33.020337+00:00
  - user: None
  - tags: []
 

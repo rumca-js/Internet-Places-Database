@@ -988,6 +988,12 @@
  - user: None
  - tags: []
 
+## Meaningful Code Tests for Busy Devs | CodiumAI
+ - [https://www.codium.ai](https://www.codium.ai)
+ - date published: 2024-05-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Coframe
  - [https://coframe.ai](https://coframe.ai)
  - date published: 2024-05-01T03:10:21.571081+00:00
@@ -3335,6 +3341,12 @@
  - tags: []
 
 ## Rewind
+ - [https://rewind.ai](https://rewind.ai)
+ - date published: 2024-05-14T00:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Rewind
  - [https://www.rewind.ai](https://www.rewind.ai)
  - date published: 2023-10-25T11:42:16.679664+00:00
  - user: None
@@ -4183,6 +4195,12 @@
 ## Webscape
  - [https://webscape.ai](https://webscape.ai)
  - date published: 2024-05-09T07:25:15.770192+00:00
+ - user: None
+ - tags: []
+
+## Home - WeCareer
+ - [http://wecareer.ai](http://wecareer.ai)
+ - date published: 2022-05-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5979,22 +5997,4 @@
  - date published: 2024-04-08T19:28:57.871886+00:00
  - user: None
  - tags: ['docker', 'self-host', 'service manager']
-
-## HTML with Superpowers | HTML with Superpowers
- - [https://htmlwithsuperpowers.netlify.app](https://htmlwithsuperpowers.netlify.app)
- - date published: 2023-10-25T11:47:32.982005+00:00
- - user: None
- - tags: []
-
-## Is This Site Netlify?
- - [https://is-this.netlify.app](https://is-this.netlify.app)
- - date published: 2024-05-06T13:33:32.286093+00:00
- - user: None
- - tags: []
-
-## Front-End Developer, UI/UX Designer
- - [https://jeffson.netlify.app](https://jeffson.netlify.app)
- - date published: 2024-05-11T10:10:31.363817+00:00
- - user: None
- - tags: []
 

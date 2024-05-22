@@ -1,3 +1,147 @@
+## A weekly newsletter that explain tech terms in plain, everyday language
+ - [https://codictionary.com](https://codictionary.com)
+ - date published: 2024-01-09T02:32:34.042018+00:00
+ - user: None
+ - tags: []
+
+## Homepage 2024
+ - [https://app.codility.com](https://app.codility.com)
+ - date published: 2024-05-04T11:56:37.727046+00:00
+ - user: None
+ - tags: []
+
+## Learn to Code. Step by Step.
+ - [https://www.codingforentrepreneurs.com](https://www.codingforentrepreneurs.com)
+ - date published: 2024-05-12T07:47:42.015268+00:00
+ - user: None
+ - tags: []
+
+## Coding Horror
+ - [https://blog.codinghorror.com](https://blog.codinghorror.com)
+ - date published: 2023-10-25T09:19:51.330520+00:00
+ - user: None
+ - tags: ['personal']
+
+## Coding Horror Discussion
+ - [https://discourse.codinghorror.com](https://discourse.codinghorror.com)
+ - date published: 2024-01-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Coding Horror
+ - [https://www.codinghorror.com](https://www.codinghorror.com)
+ - date published: 2024-05-12T04:32:10.706605+00:00
+ - user: None
+ - tags: []
+
+## Coding Militia
+ - [https://blog.codingmilitia.com](https://blog.codingmilitia.com)
+ - date published: 2024-04-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CodingNeko
+ - [https://codingneko.com](https://codingneko.com)
+ - date published: 2024-05-09T08:30:01.994339+00:00
+ - user: None
+ - tags: []
+
+## The Coding Nest
+ - [https://codingnest.com](https://codingnest.com)
+ - date published: 2023-10-25T13:28:59.884471+00:00
+ - user: None
+ - tags: []
+
+## Home - Coding Otaku
+ - [https://codingotaku.com](https://codingotaku.com)
+ - date published: 2023-10-25T08:45:26.168140+00:00
+ - user: None
+ - tags: ['personal']
+
+## Coding Potions - Blog de programación y desarrollo web
+ - [https://codingpotions.com](https://codingpotions.com)
+ - date published: 2024-01-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Coding Shiksha
+ - [https://www.codingshiksha.com](https://www.codingshiksha.com)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Coding VC | Leo Polovets | Substack
+ - [https://www.codingvc.com](https://www.codingvc.com)
+ - date published: 2023-10-25T13:29:03.799383+00:00
+ - user: None
+ - tags: []
+
+## Coding with Empathy
+ - [https://codingwithempathy.com](https://codingwithempathy.com)
+ - date published: 2024-05-12T05:30:49.789309+00:00
+ - user: None
+ - tags: []
+
+## Coding with Intelligence | Rick Lamers | Substack
+ - [https://codingwithintelligence.com](https://codingwithintelligence.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Coding with Jesse
+ - [https://www.codingwithjesse.com](https://www.codingwithjesse.com)
+ - date published: 2024-05-07T23:24:53.839036+00:00
+ - user: None
+ - tags: []
+
+## Web & App Agentur Wien
+ - [https://www.codista.com](https://www.codista.com)
+ - date published: 2024-05-11T10:54:15.740673+00:00
+ - user: None
+ - tags: []
+
+## Blog @ Codonomics
+ - [https://blog.codonomics.com](https://blog.codonomics.com)
+ - date published: 2024-05-06T13:28:57.293275+00:00
+ - user: None
+ - tags: []
+
+## Codus Operandi
+ - [https://www.codusoperandi.com](https://www.codusoperandi.com)
+ - date published: 2024-05-06T14:12:11.023679+00:00
+ - user: None
+ - tags: []
+
+## Cody McLain | My little corner of the Universe
+ - [http://codymclain.com](http://codymclain.com)
+ - date published: 2024-03-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cody McLain | My little corner of the Universe
+ - [https://www.codymclain.com](https://www.codymclain.com)
+ - date published: 2023-11-29T14:19:57.527804+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cody Ogden
+ - [https://codyogden.com](https://codyogden.com)
+ - date published: 2024-05-04T09:41:00.186466+00:00
+ - user: None
+ - tags: []
+
+## Cody Schultz
+ - [https://www.codyschultz.com](https://www.codyschultz.com)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cody See | Life & Marketing
+ - [https://codysee.com](https://codysee.com)
+ - date published: 2023-11-29T15:45:24.367920+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Coen Teulings - Distinguished Professor of Utrecht University
  - [https://www.coenteulings.com](https://www.coenteulings.com)
  - date published: 2024-05-06T22:56:43.947728+00:00
@@ -3527,7 +3671,7 @@
  - [https://corlaez.com](https://corlaez.com)
  - date published: 2022-09-30T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Cornell Sun Alumni
  - [https://alumni.cornellsun.com](https://alumni.cornellsun.com)
@@ -5855,150 +5999,6 @@
 ## crul
  - [https://www.crul.com](https://www.crul.com)
  - date published: 2023-10-25T13:37:14.796515+00:00
- - user: None
- - tags: []
-
-## CRUMB | Circuit Simulator
- - [https://www.crumbsim.com](https://www.crumbsim.com)
- - date published: 2024-05-12T05:47:17.609045+00:00
- - user: None
- - tags: []
-
-## Constellation Games
- - [https://constellation.crummy.com](https://constellation.crummy.com)
- - date published: 2024-05-08T07:01:15.091278+00:00
- - user: None
- - tags: []
-
-## Swear not by the wiki, the fickle wiki, the inconstant wiki
- - [https://www.crummy.com](https://www.crummy.com)
- - date published: 2023-10-25T13:37:19.379716+00:00
- - user: None
- - tags: []
-
-## crumplab
- - [https://crumplab.com](https://crumplab.com)
- - date published: 2023-10-25T13:37:21.726921+00:00
- - user: None
- - tags: []
-
-## crumplab
- - [https://www.crumplab.com](https://www.crumplab.com)
- - date published: 2024-05-08T07:01:34.042764+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://about.crunchbase.com](https://about.crunchbase.com)
- - date published: 2017-06-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Crunchbase: Discover innovative companies and the people behind them
- - [https://crunchbase.com](https://crunchbase.com)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Crunchbase News: Data-driven reporting on private markets, startups, founders, and investors
- - [https://news.crunchbase.com](https://news.crunchbase.com)
- - date published: 2023-10-25T13:37:26.877787+00:00
- - user: None
- - tags: []
-
-## Crunchbase: Discover innovative companies and the people behind them
- - [https://www.crunchbase.com](https://www.crunchbase.com)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Crunch Foundation
- - [https://crunchdao.com](https://crunchdao.com)
- - date published: 2024-04-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Log In | Crunchy Data
- - [https://crunchybridge.com](https://crunchybridge.com)
- - date published: 2024-05-08T07:02:11.463233+00:00
- - user: None
- - tags: []
-
-## Crunchy Bridge
- - [https://docs.crunchybridge.com](https://docs.crunchybridge.com)
- - date published: 2024-05-08T07:02:10.309714+00:00
- - user: None
- - tags: []
-
-## Log In | Crunchy Data
- - [https://www.crunchybridge.com](https://www.crunchybridge.com)
- - date published: 2024-05-08T07:02:08.847960+00:00
- - user: None
- - tags: []
-
-## Customer Portal | Crunchy Data
- - [https://access.crunchydata.com](https://access.crunchydata.com)
- - date published: 2024-05-08T07:02:07.118813+00:00
- - user: None
- - tags: []
-
-## Crunchy Data: Postgres for Cloud, Kubernetes, or Enterprise
- - [https://link.crunchydata.com](https://link.crunchydata.com)
- - date published: 2024-05-08T07:02:19.090399+00:00
- - user: None
- - tags: []
-
-## Crunchy Data: Postgres for Cloud, Kubernetes, or Enterprise
- - [https://www.crunchydata.com](https://www.crunchydata.com)
- - date published: 2023-10-25T08:30:20.731363+00:00
- - user: None
- - tags: []
-
-## Crunchyroll logo
- - [http://crunchyroll.com](http://crunchyroll.com)
- - date published: 2024-03-01T20:33:10.293733+00:00
- - user: None
- - tags: ['anime', 'video streaming']
-
-## https://www.crunchyroll.com
- - [https://www.crunchyroll.com](https://www.crunchyroll.com)
- - date published: 2023-10-25T13:11:56.653719+00:00
- - user: None
- - tags: ['anime', 'video streaming']
-
-## Crusader Kings III - Paradox Interactive
- - [https://www.crusaderkings.com](https://www.crusaderkings.com)
- - date published: 2024-05-14T02:49:15.845664+00:00
- - user: None
- - tags: []
-
-## Crusader Miniatures - Home Page
- - [https://www.crusaderminiatures.com](https://www.crusaderminiatures.com)
- - date published: 2024-05-08T12:31:25.150912+00:00
- - user: None
- - tags: ['wargames', 'tabletop games', 'miniatures']
-
-## CrushFTP - Enterprise Grade File Transfer for Everyone
- - [https://www.crushftp.com](https://www.crushftp.com)
- - date published: 2024-04-26T14:25:55+00:00
- - user: rumpel
- - tags: ['ftp', 'file server']
-
-## Crushing Tech Education | Eugene Shulga | Substack
- - [https://blog.crushingtecheducation.com](https://blog.crushingtecheducation.com)
- - date published: 2024-03-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Crust / Punk / Hardcore with String Instruments
- - [https://crustwithstrings.com](https://crustwithstrings.com)
- - date published: 2024-04-28T06:06:37.930105+00:00
- - user: None
- - tags: []
-
-## Crux | Taking the Catholic Pulse
- - [https://cruxnow.com](https://cruxnow.com)
- - date published: 2023-10-25T13:37:31.700192+00:00
  - user: None
  - tags: []
 

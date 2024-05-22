@@ -1,3 +1,687 @@
+## MUD • latticexyz
+ - [https://roadmap.mud.dev](https://roadmap.mud.dev)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://status.mud.dev](https://status.mud.dev)
+ - date published: 2024-04-30T01:50:14.231316+00:00
+ - user: None
+ - tags: []
+
+## muhammadoka
+ - [https://muhammadoka.dev](https://muhammadoka.dev)
+ - date published: 2024-05-11T10:19:50.981939+00:00
+ - user: None
+ - tags: []
+
+## Mult.dev - Animated Travel Maps
+ - [https://mult.dev](https://mult.dev)
+ - date published: 2023-10-25T18:39:56.399255+00:00
+ - user: None
+ - tags: []
+
+## Coming soon... | Multiple
+ - [https://app.multiple.dev](https://app.multiple.dev)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Introduction - Multiple | Documentation
+ - [https://docs.multiple.dev](https://docs.multiple.dev)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Coming soon... | Multiple
+ - [https://www.multiple.dev](https://www.multiple.dev)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Minimum Viable Secure Product
+ - [https://mvsp.dev](https://mvsp.dev)
+ - date published: 2023-10-25T18:39:57.092486+00:00
+ - user: None
+ - tags: []
+
+## Max Böck
+ - [https://mxb.dev](https://mxb.dev)
+ - date published: 2024-03-24T17:41:32+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Speedlify
+ - [https://speedlify.mxb.dev](https://speedlify.mxb.dev)
+ - date published: 2024-05-11T10:54:14.314436+00:00
+ - user: None
+ - tags: []
+
+## N64brew Wiki
+ - [https://n64brew.dev](https://n64brew.dev)
+ - date published: 2023-10-25T19:36:17+00:00
+ - user: None
+ - tags: []
+
+## Hire Me - Najad.dev
+ - [https://najad.dev](https://najad.dev)
+ - date published: 2020-03-23T03:06:03+00:00
+ - user: None
+ - tags: []
+
+## Nango
+ - [https://app.nango.dev](https://app.nango.dev)
+ - date published: 2024-04-25T15:31:29.259476+00:00
+ - user: None
+ - tags: []
+
+## Introduction - Nango Docs
+ - [https://docs.nango.dev](https://docs.nango.dev)
+ - date published: 2024-04-25T15:31:28.242706+00:00
+ - user: None
+ - tags: []
+
+## Nango - The open unified API
+ - [https://nango.dev](https://nango.dev)
+ - date published: 2023-10-25T18:40:04.494324+00:00
+ - user: None
+ - tags: ['proprietary', 'monetization']
+
+## Nango status
+ - [https://status.nango.dev](https://status.nango.dev)
+ - date published: 2024-04-30T02:00:19.928548+00:00
+ - user: None
+ - tags: []
+
+## Nango - The open unified API
+ - [https://www.nango.dev](https://www.nango.dev)
+ - date published: 2023-10-25T18:40:06.457916+00:00
+ - user: None
+ - tags: []
+
+## Becoming Rustacean: A Beginners Guide to the Rustverse
+ - [https://www.nativebyx.dev](https://www.nativebyx.dev)
+ - date published: 2023-10-25T18:40:13.005761+00:00
+ - user: None
+ - tags: []
+
+## natto.dev - write JavaScript on a 2D canvas
+ - [https://natto.dev](https://natto.dev)
+ - date published: 2024-05-04T13:56:32.356233+00:00
+ - user: None
+ - tags: []
+
+## Naveen Singh's Blogs
+ - [https://naveensingh.dev](https://naveensingh.dev)
+ - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Naxon.dev
+ - [https://naxon.dev](https://naxon.dev)
+ - date published: 2024-05-11T10:06:39.996479+00:00
+ - user: None
+ - tags: []
+
+## neilalexander.dev
+ - [https://neilalexander.dev](https://neilalexander.dev)
+ - date published: 2023-10-25T18:40:13.691485+00:00
+ - user: None
+ - tags: []
+
+## neizod's speculation
+ - [https://neizod.dev](https://neizod.dev)
+ - date published: 2024-04-30T07:42:41.059668+00:00
+ - user: None
+ - tags: []
+
+## Blog@neko.dev - blog.neko.dev
+ - [https://blog.neko.dev](https://blog.neko.dev)
+ - date published: 2023-10-25T08:58:40.756473+00:00
+ - user: None
+ - tags: ['personal']
+
+## Index of /
+ - [http://code.neko.dev](http://code.neko.dev)
+ - date published: 2024-04-30T02:00:31.067391+00:00
+ - user: None
+ - tags: []
+
+## Index - neko.dev
+ - [http://neko.dev](http://neko.dev)
+ - date published: 2024-04-30T02:00:30.189357+00:00
+ - user: None
+ - tags: []
+
+## Neovide - Neovide
+ - [https://neovide.dev](https://neovide.dev)
+ - date published: 2024-05-06T08:57:58.734949+00:00
+ - user: None
+ - tags: []
+
+## Adam Argyle
+ - [https://nerdy.dev](https://nerdy.dev)
+ - date published: 2023-10-25T08:48:53.943604+00:00
+ - user: None
+ - tags: ['personal']
+
+## NetBox Documentation
+ - [https://docs.netbox.dev](https://docs.netbox.dev)
+ - date published: 2024-04-30T02:02:55.294847+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://netbox.dev](https://netbox.dev)
+ - date published: 2024-02-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Nick Babcock
+ - [https://nickb.dev](https://nickb.dev)
+ - date published: 2024-04-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## [ NICKipedia ]
+ - [https://nickipedia.dev](https://nickipedia.dev)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Nicolo.dev
+ - [https://nicolo.dev](https://nicolo.dev)
+ - date published: 2023-10-25T08:58:41.536333+00:00
+ - user: None
+ - tags: ['personal']
+
+## My Knowledge Wiki 🌿 | Everything I Know
+ - [https://wiki.nikiv.dev](https://wiki.nikiv.dev)
+ - date published: 2024-05-09T08:39:11.447522+00:00
+ - user: None
+ - tags: []
+
+## Blog
+ - [https://nikkin.dev](https://nikkin.dev)
+ - date published: 2024-05-04T14:14:29.984267+00:00
+ - user: None
+ - tags: ['personal']
+
+## nilstriebs blog
+ - [https://blog.nilstrieb.dev](https://blog.nilstrieb.dev)
+ - date published: 2024-01-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## niui
+ - [https://niui.dev](https://niui.dev)
+ - date published: 2023-10-25T18:40:16.339018+00:00
+ - user: None
+ - tags: []
+
+## Welcome to nix.dev — nix.dev  documentation
+ - [https://nix.dev](https://nix.dev)
+ - date published: 2024-05-02T13:33:53.069989+00:00
+ - user: None
+ - tags: []
+
+## Home - du.nkel.dev
+ - [https://du.nkel.dev](https://du.nkel.dev)
+ - date published: 2024-02-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Norberto's personal website
+ - [https://nlopes.dev](https://nlopes.dev)
+ - date published: 2023-10-25T08:48:54.951889+00:00
+ - user: None
+ - tags: ['personal']
+
+## IAMOps Platform | NOQ
+ - [https://www.noq.dev](https://www.noq.dev)
+ - date published: 2023-10-25T18:40:17.657120+00:00
+ - user: None
+ - tags: []
+
+## Antonin HEBERT
+ - [https://notnian.dev](https://notnian.dev)
+ - date published: 2024-05-09T08:12:46.320293+00:00
+ - user: None
+ - tags: []
+
+## Plausible · Web analytics
+ - [https://analytics.nray.dev](https://analytics.nray.dev)
+ - date published: 2024-04-30T02:03:51.578921+00:00
+ - user: None
+ - tags: []
+
+## Nicholas Ray
+ - [https://www.nray.dev](https://www.nray.dev)
+ - date published: 2023-10-25T08:58:47.329801+00:00
+ - user: None
+ - tags: ['personal']
+
+## Streamlit
+ - [https://trial.nuanced.dev](https://trial.nuanced.dev)
+ - date published: 2024-03-18T19:23:39.249499+00:00
+ - user: None
+ - tags: []
+
+## Nuanced: Detecting Authenticity in the age of AI
+ - [https://www.nuanced.dev](https://www.nuanced.dev)
+ - date published: 2024-03-18T19:23:38.383722+00:00
+ - user: None
+ - tags: []
+
+## nutjs.dev
+ - [https://nutjs.dev](https://nutjs.dev)
+ - date published: 2024-04-24T03:45:23.857591+00:00
+ - user: None
+ - tags: ['open source', 'desktop automation']
+
+## Nx: Smart Monorepos ¬∑ Fast CI
+ - [https://nx.dev](https://nx.dev)
+ - date published: 2024-02-22T11:56:06.815784+00:00
+ - user: None
+ - tags: []
+
+## OC3 | Open Confidential Computing Conference 2024
+ - [https://www.oc3.dev](https://www.oc3.dev)
+ - date published: 2024-04-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## olano.dev
+ - [https://olano.dev](https://olano.dev)
+ - date published: 2023-12-01T10:46:06.534286+00:00
+ - user: None
+ - tags: []
+
+## OneBite.Dev - Coding blog in a bite size
+ - [https://onebite.dev](https://onebite.dev)
+ - date published: 2024-05-07T23:27:22.315889+00:00
+ - user: None
+ - tags: []
+
+## Onur Şuyalçınkaya
+ - [https://onur.dev](https://onur.dev)
+ - date published: 2023-12-16T07:29:32.330441+00:00
+ - user: None
+ - tags: ['personal']
+
+## OP3: The Open Podcast Prefix Project
+ - [https://op3.dev](https://op3.dev)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## OpenFeature
+ - [https://openfeature.dev](https://openfeature.dev)
+ - date published: 2024-05-01T04:49:38.992649+00:00
+ - user: None
+ - tags: []
+
+## https://www.open-fire.dev
+ - [https://www.open-fire.dev](https://www.open-fire.dev)
+ - date published: 2024-01-09T02:57:19.590490+00:00
+ - user: None
+ - tags: []
+
+## OpenGOAL | OpenGOAL
+ - [https://opengoal.dev](https://opengoal.dev)
+ - date published: 2023-10-25T18:40:19.039679+00:00
+ - user: None
+ - tags: ['open source', 'video game']
+
+## OpenInfra Foundation: We build communities who write software that runs in production
+ - [https://openinfra.dev](https://openinfra.dev)
+ - date published: 2024-09-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## An open-source alternative to Mixpanel | Openpanel.dev
+ - [https://openpanel.dev](https://openpanel.dev)
+ - date published: 2024-05-21T23:49:05.664899+00:00
+ - user: None
+ - tags: []
+
+## Individual Dashboard | The Linux Foundation
+ - [https://openprofile.dev](https://openprofile.dev)
+ - date published: 2024-05-07T23:52:43.583741+00:00
+ - user: None
+ - tags: []
+
+## open-source-silicon.dev
+ - [https://open-source-silicon.dev](https://open-source-silicon.dev)
+ - date published: 2024-04-29T08:54:15+00:00
+ - user: rumpel
+ - tags: []
+
+## open-source-silicon #general
+ - [https://web.open-source-silicon.dev](https://web.open-source-silicon.dev)
+ - date published: 2024-04-29T07:59:44.042359+00:00
+ - user: None
+ - tags: []
+
+## What is OpenStatus? - OpenStatus Docs
+ - [https://docs.openstatus.dev](https://docs.openstatus.dev)
+ - date published: 2024-04-30T02:05:11.379864+00:00
+ - user: None
+ - tags: []
+
+## marimo
+ - [https://marimo.openstatus.dev](https://marimo.openstatus.dev)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Papermark Status
+ - [https://papermark.openstatus.dev](https://papermark.openstatus.dev)
+ - date published: 2024-05-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## OpenStatus Status Page
+ - [https://status.openstatus.dev](https://status.openstatus.dev)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Trigger.dev Status
+ - [https://trigger.openstatus.dev](https://trigger.openstatus.dev)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## OpenStatus
+ - [https://www.openstatus.dev](https://www.openstatus.dev)
+ - date published: 2023-10-25T18:40:21.230486+00:00
+ - user: None
+ - tags: []
+
+## Corporate Conundrum
+ - [https://conundrum.ophir.dev](https://conundrum.ophir.dev)
+ - date published: 2024-04-30T02:05:18.461555+00:00
+ - user: None
+ - tags: []
+
+## SQLPage
+ - [https://sql.ophir.dev](https://sql.ophir.dev)
+ - date published: 2023-10-25T18:40:22.802342+00:00
+ - user: None
+ - tags: []
+
+## OrbStack · Fast, light, simple Docker & Linux on macOS
+ - [https://orbstack.dev](https://orbstack.dev)
+ - date published: 2023-10-25T18:40:25.084437+00:00
+ - user: None
+ - tags: []
+
+## Orhun's Blog
+ - [https://blog.orhun.dev](https://blog.orhun.dev)
+ - date published: 2023-10-25T18:40:26.754894+00:00
+ - user: None
+ - tags: []
+
+## Support My Work
+ - [https://donate.orhun.dev](https://donate.orhun.dev)
+ - date published: 2024-04-30T02:05:18.874135+00:00
+ - user: None
+ - tags: []
+
+## orhun(1)
+ - [https://orhun.dev](https://orhun.dev)
+ - date published: 2024-04-30T02:05:20.061372+00:00
+ - user: None
+ - tags: []
+
+## Umami
+ - [https://umami.orhun.dev](https://umami.orhun.dev)
+ - date published: 2024-04-30T02:05:19.472665+00:00
+ - user: None
+ - tags: []
+
+## orionc.dev
+ - [https://orionc.dev](https://orionc.dev)
+ - date published: 2023-11-29T17:14:05.577990+00:00
+ - user: None
+ - tags: ['personal']
+
+## Gram Publishing v2
+ - [https://blog.orsinium.dev](https://blog.orsinium.dev)
+ - date published: 2023-10-25T18:40:28.464597+00:00
+ - user: None
+ - tags: []
+
+## Hi, I'm Gram
+ - [https://orsinium.dev](https://orsinium.dev)
+ - date published: 2024-04-30T02:05:20.761869+00:00
+ - user: None
+ - tags: []
+
+## Ory - API-first Identity Management, Authentication and Authorization. For Secure, Global, GDPR-compliant Apps | Ory
+ - [https://www.ory.dev](https://www.ory.dev)
+ - date published: 2023-10-25T18:40:33.383690+00:00
+ - user: None
+ - tags: []
+
+## oscard0m Blog
+ - [https://www.oscardom.dev](https://www.oscardom.dev)
+ - date published: 2024-01-05T10:28:24.995014+00:00
+ - user: None
+ - tags: []
+
+## Oscar Marion - Javascript engineer in Stockholm
+ - [https://www.oscarmarion.dev](https://www.oscarmarion.dev)
+ - date published: 2024-05-11T10:22:13.792071+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://osgood.dev](https://osgood.dev)
+ - date published: 2024-05-11T10:06:23.170372+00:00
+ - user: None
+ - tags: []
+
+## Dennis Schubert
+ - [https://overengineer.dev](https://overengineer.dev)
+ - date published: 2024-04-14T20:39:43+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Photography - Dennis Schubert
+ - [https://photos.overengineer.dev](https://photos.overengineer.dev)
+ - date published: 2024-05-20T02:48:45.155582+00:00
+ - user: None
+ - tags: ['personal']
+
+## Introduction | develop | Overseerr
+ - [https://docs.overseerr.dev](https://docs.overseerr.dev)
+ - date published: 2024-05-14T03:52:59.019222+00:00
+ - user: None
+ - tags: []
+
+## Overseerr
+ - [https://overseerr.dev](https://overseerr.dev)
+ - date published: 2024-04-08T19:30:06.081189+00:00
+ - user: None
+ - tags: ['self-host', 'plex']
+
+## Pacstall - The AUR for Ubuntu
+ - [https://pacstall.dev](https://pacstall.dev)
+ - date published: 2024-05-08T10:50:50.332739+00:00
+ - user: None
+ - tags: []
+
+## Filip Iulian Pacurar's website - Base-station page 😎
+ - [https://pacurar.dev](https://pacurar.dev)
+ - date published: 2024-05-11T10:23:39.537348+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://ad8e.pages.dev](https://ad8e.pages.dev)
+ - date published: 2024-01-09T02:57:22.291725+00:00
+ - user: None
+ - tags: []
+
+## AstroPaper
+ - [https://astro-paper.pages.dev](https://astro-paper.pages.dev)
+ - date published: 2024-01-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://bifrost-bfp.pages.dev](https://bifrost-bfp.pages.dev)
+ - date published: 2024-04-17T18:24:29.401875+00:00
+ - user: None
+ - tags: []
+
+## Contort Plotter
+ - [https://contort-plotter.pages.dev](https://contort-plotter.pages.dev)
+ - date published: 2024-04-30T07:49:03.394482+00:00
+ - user: None
+ - tags: []
+
+## Animotion – a visual CSS animation app
+ - [https://cssanimotion.pages.dev](https://cssanimotion.pages.dev)
+ - date published: 2023-11-24T11:16:25+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Caltrans CCTV
+ - [https://ctcctv.pages.dev](https://ctcctv.pages.dev)
+ - date published: 2024-03-13T14:42:55+00:00
+ - user: None
+ - tags: ['california cctv']
+
+## Welcome to the Parallel Future of Computation
+ - [https://hvm-page.pages.dev](https://hvm-page.pages.dev)
+ - date published: 2024-05-17T07:37:19+00:00
+ - user: None
+ - tags: []
+
+## ICML 2024 Mechanistic Interpretability Workshop
+ - [https://icml2024mi.pages.dev](https://icml2024mi.pages.dev)
+ - date published: 2024-05-04T12:17:37.113749+00:00
+ - user: None
+ - tags: []
+
+## Indeed Job Scam
+ - [https://indeedjobscam.pages.dev](https://indeedjobscam.pages.dev)
+ - date published: 2023-10-25T18:40:43.826797+00:00
+ - user: None
+ - tags: []
+
+## Show HN: A user-friendly UI for viewing and editing Markdown files
+ - [https://marker.pages.dev](https://marker.pages.dev)
+ - date published: 2024-03-13T12:47:43+00:00
+ - user: None
+ - tags: []
+
+## Data Narratives: Data Research for the Real Economy
+ - [https://nextjs.fsd-research.pages.dev](https://nextjs.fsd-research.pages.dev)
+ - date published: 2024-05-01T04:04:39.148708+00:00
+ - user: None
+ - tags: []
+
+## nonnullish
+ - [https://nonnullish.pages.dev](https://nonnullish.pages.dev)
+ - date published: 2023-12-24T14:19:01.273158+00:00
+ - user: None
+ - tags: []
+
+## rue21.com Custom Pages
+ - [https://rue21-custom-pages.pages.dev](https://rue21-custom-pages.pages.dev)
+ - date published: 2024-05-04T09:55:52.996620+00:00
+ - user: None
+ - tags: []
+
+## Sample audio from the web | Sampurr
+ - [https://sampurr.pages.dev](https://sampurr.pages.dev)
+ - date published: 2024-05-09T09:12:04.223987+00:00
+ - user: None
+ - tags: []
+
+## Space Cards
+ - [https://space-card.pages.dev](https://space-card.pages.dev)
+ - date published: 2024-04-09T03:24:11.552963+00:00
+ - user: None
+ - tags: []
+
+## SQLSync Demo
+ - [https://sqlsync-todo.pages.dev](https://sqlsync-todo.pages.dev)
+ - date published: 2024-04-30T02:18:32.288170+00:00
+ - user: None
+ - tags: []
+
+## TLS, byte by byte
+ - [https://subtls.pages.dev](https://subtls.pages.dev)
+ - date published: 2023-10-25T18:40:44.490273+00:00
+ - user: None
+ - tags: []
+
+## SWE to ML Engineer
+ - [https://swe-to-mle.pages.dev](https://swe-to-mle.pages.dev)
+ - date published: 2024-03-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Treemap of World GDP by Purchasing Power Parity (PPP) 2020
+ - [https://treemap-world-economy.pages.dev](https://treemap-world-economy.pages.dev)
+ - date published: 2024-03-28T06:59:55+00:00
+ - user: None
+ - tags: []
+
+## https://tropical.pages.dev
+ - [https://tropical.pages.dev](https://tropical.pages.dev)
+ - date published: 2024-01-10T01:32:32.654649+00:00
+ - user: None
+ - tags: []
+
+## Van Element - Docs | Van Element - Docs
+ - [https://van-element.pages.dev](https://van-element.pages.dev)
+ - date published: 2024-05-09T09:13:32.302962+00:00
+ - user: None
+ - tags: []
+
+## step by step
+ - [https://vxdev.pages.dev](https://vxdev.pages.dev)
+ - date published: 2024-01-22T18:02:01.724826+00:00
+ - user: None
+ - tags: []
+
+## Yaksha Programming Language - Playground
+ - [https://yaksha.pages.dev](https://yaksha.pages.dev)
+ - date published: 2024-05-04T15:42:31.732732+00:00
+ - user: None
+ - tags: []
+
+## Palladio - Email templates and widgets for ConvertKit
+ - [https://palladio.dev](https://palladio.dev)
+ - date published: 2024-05-01T07:31:35.007379+00:00
+ - user: None
+ - tags: []
+
+## Portfolio
+ - [https://paolocorti.dev](https://paolocorti.dev)
+ - date published: 2024-05-09T09:14:14.822767+00:00
+ - user: None
+ - tags: []
+
+## Parca - Open Source infrastructure-wide continuous profiling
+ - [https://parca.dev](https://parca.dev)
+ - date published: 2024-05-06T23:34:20.978749+00:00
+ - user: None
+ - tags: []
+
+## PartyKit
+ - [https://cursor-party.genmon.partykit.dev](https://cursor-party.genmon.partykit.dev)
+ - date published: 2024-05-08T08:47:58.239044+00:00
+ - user: None
+ - tags: []
+
 ## TinyRooms
  - [https://tinyrooms.jamesgpearce.partykit.dev](https://tinyrooms.jamesgpearce.partykit.dev)
  - date published: 2024-04-30T00:30:11.305774+00:00
@@ -884,6 +1568,12 @@
 ## Saas UI
  - [https://saas-ui.dev](https://saas-ui.dev)
  - date published: 2024-05-15T02:44:45.317990+00:00
+ - user: None
+ - tags: []
+
+## Show HN: I built a game to help you learn neural network architectures
+ - [https://graphgame.sabrina.dev](https://graphgame.sabrina.dev)
+ - date published: 2024-05-21T14:47:42+00:00
  - user: None
  - tags: []
 
@@ -5307,696 +5997,6 @@
 ## Data Desk | Louis Goddard | Substack
  - [https://blog.datadesk.eco](https://blog.datadesk.eco)
  - date published: 2024-03-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## GUN — the database for freedom fighters - Docs v2.0
- - [https://gun.eco](https://gun.eco)
- - date published: 2024-04-30T00:29:46.242785+00:00
- - user: None
- - tags: []
-
-## Mouvement Impact France - Ensemble, changeons l'économie
- - [https://www.impactfrance.eco](https://www.impactfrance.eco)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Loes van Mierlo - Regenerative Coaching
- - [https://www.loes.eco](https://www.loes.eco)
- - date published: 2024-04-28T02:12:02.689845+00:00
- - user: None
- - tags: []
-
-## Home | Minimum
- - [https://minimum.eco](https://minimum.eco)
- - date published: 2024-05-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://www.aau.edu](https://www.aau.edu)
- - date published: 2024-05-07T19:32:37.872855+00:00
- - user: None
- - tags: []
-
-## Australian Catholic University
- - [https://acu-au.academia.edu](https://acu-au.academia.edu)
- - date published: 2024-04-30T03:03:22.148714+00:00
- - user: None
- - tags: []
-
-## The Australian National University
- - [https://anu-au.academia.edu](https://anu-au.academia.edu)
- - date published: 2024-04-30T02:57:41.815540+00:00
- - user: None
- - tags: []
-
-## University of Brighton
- - [https://brighton.academia.edu](https://brighton.academia.edu)
- - date published: 2024-04-30T02:59:39.003488+00:00
- - user: None
- - tags: []
-
-## Boston University
- - [https://bu.academia.edu](https://bu.academia.edu)
- - date published: 2024-04-30T03:00:21.443795+00:00
- - user: None
- - tags: []
-
-## University of Cambridge
- - [https://cambridge.academia.edu](https://cambridge.academia.edu)
- - date published: 2024-04-30T02:58:24.076871+00:00
- - user: None
- - tags: []
-
-## University of Canberra
- - [https://canberra.academia.edu](https://canberra.academia.edu)
- - date published: 2024-04-30T03:02:19.364846+00:00
- - user: None
- - tags: []
-
-## Case Western Reserve University
- - [https://case.academia.edu](https://case.academia.edu)
- - date published: 2024-04-30T02:50:03.549403+00:00
- - user: None
- - tags: []
-
-## University of Chicago
- - [https://chicago.academia.edu](https://chicago.academia.edu)
- - date published: 2024-04-30T02:59:02.539621+00:00
- - user: None
- - tags: []
-
-## Carnegie Mellon University
- - [https://cmu.academia.edu](https://cmu.academia.edu)
- - date published: 2024-04-30T03:01:33.787969+00:00
- - user: None
- - tags: []
-
-## University of Iowa
- - [https://collegeview.academia.edu](https://collegeview.academia.edu)
- - date published: 2024-04-30T03:00:15.196132+00:00
- - user: None
- - tags: []
-
-## Columbia University
- - [https://columbia.academia.edu](https://columbia.academia.edu)
- - date published: 2024-05-07T10:45:32.032858+00:00
- - user: None
- - tags: []
-
-## Cornell University
- - [https://cornell.academia.edu](https://cornell.academia.edu)
- - date published: 2024-04-30T02:55:48.893236+00:00
- - user: None
- - tags: []
-
-## University of Crete
- - [https://crete.academia.edu](https://crete.academia.edu)
- - date published: 2024-04-30T02:56:36.925499+00:00
- - user: None
- - tags: []
-
-## DIS
- - [http://dis.academia.edu](http://dis.academia.edu)
- - date published: 2024-04-30T02:33:54.041807+00:00
- - user: None
- - tags: []
-
-## Field Museum
- - [https://fieldmuseum.academia.edu](https://fieldmuseum.academia.edu)
- - date published: 2024-04-30T02:57:57.614569+00:00
- - user: None
- - tags: []
-
-## University of Florida
- - [https://florida.academia.edu](https://florida.academia.edu)
- - date published: 2024-04-30T03:02:57.232917+00:00
- - user: None
- - tags: []
-
-## Georgetown University
- - [https://georgetown.academia.edu](https://georgetown.academia.edu)
- - date published: 2024-04-30T02:55:34.566547+00:00
- - user: None
- - tags: []
-
-## Griffith University
- - [https://griffith.academia.edu](https://griffith.academia.edu)
- - date published: 2024-04-30T02:58:41.376692+00:00
- - user: None
- - tags: []
-
-## Al-Baha University, Kingdom of Saudi Arabia
- - [https://hindawi.academia.edu](https://hindawi.academia.edu)
- - date published: 2024-04-30T02:59:30.415035+00:00
- - user: None
- - tags: []
-
-## Hiroshima University
- - [https://hiroshima-u.academia.edu](https://hiroshima-u.academia.edu)
- - date published: 2024-04-30T02:49:57.512319+00:00
- - user: None
- - tags: []
-
-## The University of Hong Kong
- - [https://hku-hk.academia.edu](https://hku-hk.academia.edu)
- - date published: 2024-04-30T03:01:30.055085+00:00
- - user: None
- - tags: []
-
-## Harvey Mudd College
- - [https://hmc.academia.edu](https://hmc.academia.edu)
- - date published: 2024-04-30T02:56:33.921200+00:00
- - user: None
- - tags: []
-
-## Huntington University
- - [https://huntington.academia.edu](https://huntington.academia.edu)
- - date published: 2024-04-30T03:01:15.988933+00:00
- - user: None
- - tags: []
-
-## Johns Hopkins University
- - [http://johnshopkins.academia.edu](http://johnshopkins.academia.edu)
- - date published: 2024-05-08T03:05:11.356608+00:00
- - user: None
- - tags: []
-
-## KAIST
- - [https://kaist.academia.edu](https://kaist.academia.edu)
- - date published: 2024-04-30T03:02:21.493313+00:00
- - user: None
- - tags: []
-
-## University of Kashan
- - [https://kashanu.academia.edu](https://kashanu.academia.edu)
- - date published: 2024-04-30T02:58:11.551710+00:00
- - user: None
- - tags: []
-
-## King's College London
- - [https://kcl.academia.edu](https://kcl.academia.edu)
- - date published: 2024-04-30T03:01:24.569120+00:00
- - user: None
- - tags: []
-
-## University of Kent
- - [https://kent.academia.edu](https://kent.academia.edu)
- - date published: 2024-04-30T02:57:21.779779+00:00
- - user: None
- - tags: []
-
-## Kristiania University College
- - [https://kristiania.academia.edu](https://kristiania.academia.edu)
- - date published: 2024-04-30T02:49:23.792549+00:00
- - user: None
- - tags: []
-
-## KU Leuven
- - [https://kuleuven.academia.edu](https://kuleuven.academia.edu)
- - date published: 2024-04-30T02:49:18.740787+00:00
- - user: None
- - tags: []
-
-## University of Leeds
- - [https://leeds.academia.edu](https://leeds.academia.edu)
- - date published: 2024-04-30T03:01:13.277686+00:00
- - user: None
- - tags: []
-
-## University of Leicester
- - [https://leicester.academia.edu](https://leicester.academia.edu)
- - date published: 2024-04-30T02:55:56.252594+00:00
- - user: None
- - tags: []
-
-## Louisiana State University
- - [https://lsu.academia.edu](https://lsu.academia.edu)
- - date published: 2024-04-30T02:59:34.788657+00:00
- - user: None
- - tags: []
-
-## University of Hawaii at Manoa
- - [https://manoa-hawaii.academia.edu](https://manoa-hawaii.academia.edu)
- - date published: 2024-04-30T02:58:49.746898+00:00
- - user: None
- - tags: []
-
-## Marquette University
- - [https://marquette.academia.edu](https://marquette.academia.edu)
- - date published: 2024-04-30T02:58:52.326578+00:00
- - user: None
- - tags: []
-
-## Pontifical University, Saint Patrick's College, Maynooth, Co. Kildare, Ireland
- - [https://maynoothcollege.academia.edu](https://maynoothcollege.academia.edu)
- - date published: 2024-04-30T03:02:03.712597+00:00
- - user: None
- - tags: []
-
-## Macquarie University
- - [https://mq.academia.edu](https://mq.academia.edu)
- - date published: 2024-04-30T02:56:10.953944+00:00
- - user: None
- - tags: []
-
-## Newcastle University
- - [https://newcastle.academia.edu](https://newcastle.academia.edu)
- - date published: 2024-04-30T03:01:06.129645+00:00
- - user: None
- - tags: []
-
-## Nord University
- - [https://nord.academia.edu](https://nord.academia.edu)
- - date published: 2024-04-30T02:55:39.100884+00:00
- - user: None
- - tags: []
-
-## University of Nottingham
- - [https://nottingham.academia.edu](https://nottingham.academia.edu)
- - date published: 2024-04-30T03:02:27.738966+00:00
- - user: None
- - tags: []
-
-## New York University
- - [https://nyu.academia.edu](https://nyu.academia.edu)
- - date published: 2024-04-30T02:57:34.763015+00:00
- - user: None
- - tags: []
-
-## University of Oxford
- - [https://oxford.academia.edu](https://oxford.academia.edu)
- - date published: 2024-04-30T02:57:15.147449+00:00
- - user: None
- - tags: []
-
-## Queen's University Belfast
- - [https://qub.academia.edu](https://qub.academia.edu)
- - date published: 2024-04-30T02:55:42.776796+00:00
- - user: None
- - tags: []
-
-## Rensselaer Polytechnic Institute
- - [https://rpi.academia.edu](https://rpi.academia.edu)
- - date published: 2024-04-30T02:58:27.745751+00:00
- - user: None
- - tags: []
-
-## Seton Hall University
- - [https://setonhall.academia.edu](https://setonhall.academia.edu)
- - date published: 2024-04-30T02:50:00.275448+00:00
- - user: None
- - tags: []
-
-## Simon Fraser University
- - [https://sfu.academia.edu](https://sfu.academia.edu)
- - date published: 2024-04-30T02:49:27.709317+00:00
- - user: None
- - tags: []
-
-## SISSA
- - [https://sissa.academia.edu](https://sissa.academia.edu)
- - date published: 2024-04-30T02:50:12.558158+00:00
- - user: None
- - tags: []
-
-## San Jose State University
- - [https://sjsu.academia.edu](https://sjsu.academia.edu)
- - date published: 2024-04-30T02:56:15.318008+00:00
- - user: None
- - tags: []
-
-## Sorbonne University
- - [https://sorbonne-fr.academia.edu](https://sorbonne-fr.academia.edu)
- - date published: 2024-04-30T02:56:05.674739+00:00
- - user: None
- - tags: []
-
-## University of Southampton
- - [https://soton.academia.edu](https://soton.academia.edu)
- - date published: 2024-04-30T03:02:09.123743+00:00
- - user: None
- - tags: []
-
-## University of St Andrews
- - [https://st-andrews.academia.edu](https://st-andrews.academia.edu)
- - date published: 2024-04-30T02:56:19.257668+00:00
- - user: None
- - tags: []
-
-## Suleyman Demirel University
- - [https://suleyman-demirel.academia.edu](https://suleyman-demirel.academia.edu)
- - date published: 2024-04-30T03:02:01.776177+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://support.academia.edu](https://support.academia.edu)
- - date published: 2024-04-30T02:59:53.441415+00:00
- - user: None
- - tags: []
-
-## The University of Sydney
- - [https://sydney.academia.edu](https://sydney.academia.edu)
- - date published: 2024-04-30T06:47:19.141540+00:00
- - user: None
- - tags: []
-
-## University of Calgary
- - [https://ucalgary.academia.edu](https://ucalgary.academia.edu)
- - date published: 2024-04-30T03:01:00.526211+00:00
- - user: None
- - tags: []
-
-## University of California, Irvine
- - [https://uci.academia.edu](https://uci.academia.edu)
- - date published: 2024-04-30T02:57:47.316172+00:00
- - user: None
- - tags: []
-
-## University of California, Los Angeles
- - [https://ucla.academia.edu](https://ucla.academia.edu)
- - date published: 2024-04-30T02:49:48.893438+00:00
- - user: None
- - tags: []
-
-## University College London
- - [https://ucl.academia.edu](https://ucl.academia.edu)
- - date published: 2024-04-30T03:02:49.387494+00:00
- - user: None
- - tags: []
-
-## University of Connecticut
- - [https://uconn.academia.edu](https://uconn.academia.edu)
- - date published: 2024-04-30T03:01:50.676175+00:00
- - user: None
- - tags: []
-
-## University of California, Riverside
- - [https://ucriverside.academia.edu](https://ucriverside.academia.edu)
- - date published: 2024-05-07T13:46:38.061452+00:00
- - user: None
- - tags: []
-
-## University of California, Santa Cruz
- - [https://ucsc.academia.edu](https://ucsc.academia.edu)
- - date published: 2024-04-30T02:56:00.401201+00:00
- - user: None
- - tags: []
-
-## UFSCar - Federal University of São Carlos
- - [https://ufscar.academia.edu](https://ufscar.academia.edu)
- - date published: 2024-04-30T03:02:37.031230+00:00
- - user: None
- - tags: []
-
-## University of Gdansk
- - [https://ug.academia.edu](https://ug.academia.edu)
- - date published: 2024-04-30T02:58:45.746908+00:00
- - user: None
- - tags: []
-
-## University of Illinois at Chicago
- - [https://uic.academia.edu](https://uic.academia.edu)
- - date published: 2024-04-30T02:59:08.106014+00:00
- - user: None
- - tags: []
-
-## The University of Iowa
- - [https://uiowa.academia.edu](https://uiowa.academia.edu)
- - date published: 2024-04-30T02:57:52.159238+00:00
- - user: None
- - tags: []
-
-## University of Tromsø
- - [https://uit.academia.edu](https://uit.academia.edu)
- - date published: 2024-04-30T02:57:55.786239+00:00
- - user: None
- - tags: []
-
-## University of Lincoln
- - [https://ulincoln.academia.edu](https://ulincoln.academia.edu)
- - date published: 2024-04-30T02:58:55.872174+00:00
- - user: None
- - tags: []
-
-## University of Michigan
- - [https://umich.academia.edu](https://umich.academia.edu)
- - date published: 2024-04-30T02:50:21.635918+00:00
- - user: None
- - tags: []
-
-## University of Debrecen
- - [https://unideb.academia.edu](https://unideb.academia.edu)
- - date published: 2024-04-30T03:00:26.068360+00:00
- - user: None
- - tags: []
-
-## TU Kaiserslautern
- - [https://uni-kl.academia.edu](https://uni-kl.academia.edu)
- - date published: 2024-04-30T02:49:51.800589+00:00
- - user: None
- - tags: []
-
-## Leipzig University (Universität Leipzig)
- - [https://uni-leipzig1.academia.edu](https://uni-leipzig1.academia.edu)
- - date published: 2024-04-30T02:55:52.129401+00:00
- - user: None
- - tags: []
-
-## Université du Luxembourg
- - [https://uni-lu.academia.edu](https://uni-lu.academia.edu)
- - date published: 2024-04-30T02:59:18.242304+00:00
- - user: None
- - tags: []
-
-## University of Melbourne
- - [https://unimelb.academia.edu](https://unimelb.academia.edu)
- - date published: 2024-04-30T02:49:36.651007+00:00
- - user: None
- - tags: []
-
-## Università di Perugia
- - [https://uniperugia.academia.edu](https://uniperugia.academia.edu)
- - date published: 2024-04-30T03:02:11.527533+00:00
- - user: None
- - tags: []
-
-## Université Paris 1 - Panthéon-Sorbonne
- - [https://univ-paris1.academia.edu](https://univ-paris1.academia.edu)
- - date published: 2024-04-30T03:03:09.313574+00:00
- - user: None
- - tags: []
-
-## University of New Mexico
- - [https://unm.academia.edu](https://unm.academia.edu)
- - date published: 2024-04-30T02:58:33.906049+00:00
- - user: None
- - tags: []
-
-## University of Wollongong
- - [https://uow.academia.edu](https://uow.academia.edu)
- - date published: 2024-04-30T03:02:15.855812+00:00
- - user: None
- - tags: []
-
-## University of Pardubice
- - [https://upce.academia.edu](https://upce.academia.edu)
- - date published: 2024-04-30T02:58:36.490590+00:00
- - user: None
- - tags: []
-
-## University of Pennsylvania
- - [https://upenn.academia.edu](https://upenn.academia.edu)
- - date published: 2024-04-30T02:56:50.871718+00:00
- - user: None
- - tags: []
-
-## Uppsala University
- - [https://uppsala.academia.edu](https://uppsala.academia.edu)
- - date published: 2024-04-30T03:03:02.362142+00:00
- - user: None
- - tags: []
-
-## University of Pretoria
- - [https://up-za.academia.edu](https://up-za.academia.edu)
- - date published: 2024-04-30T02:50:10.513363+00:00
- - user: None
- - tags: []
-
-## University of Southern California
- - [https://usc.academia.edu](https://usc.academia.edu)
- - date published: 2024-04-30T02:56:31.622228+00:00
- - user: None
- - tags: []
-
-## University of Santiago de Compostela
- - [https://usc-es.academia.edu](https://usc-es.academia.edu)
- - date published: 2024-04-30T02:59:14.678139+00:00
- - user: None
- - tags: []
-
-## Universidade de São Paulo
- - [https://usp-br.academia.edu](https://usp-br.academia.edu)
- - date published: 2024-04-30T03:00:11.371153+00:00
- - user: None
- - tags: []
-
-## The University of Texas at Austin
- - [https://utexas.academia.edu](https://utexas.academia.edu)
- - date published: 2024-04-30T02:59:46.906021+00:00
- - user: None
- - tags: []
-
-## University of Toronto
- - [https://utoronto.academia.edu](https://utoronto.academia.edu)
- - date published: 2024-04-30T03:01:46.223047+00:00
- - user: None
- - tags: []
-
-## University of Turku
- - [https://utu.academia.edu](https://utu.academia.edu)
- - date published: 2024-04-30T02:58:09.045137+00:00
- - user: None
- - tags: []
-
-## Utrecht University
- - [https://uu.academia.edu](https://uu.academia.edu)
- - date published: 2024-04-30T02:56:43.182045+00:00
- - user: None
- - tags: []
-
-## Vilnius University
- - [https://vu-lt.academia.edu](https://vu-lt.academia.edu)
- - date published: 2024-04-30T02:56:23.161974+00:00
- - user: None
- - tags: []
-
-## Vrije Universiteit Amsterdam
- - [https://vu-nl.academia.edu](https://vu-nl.academia.edu)
- - date published: 2024-04-30T02:59:28.214088+00:00
- - user: None
- - tags: []
-
-## University of Warwick
- - [https://warwick.academia.edu](https://warwick.academia.edu)
- - date published: 2024-04-30T03:02:32.869312+00:00
- - user: None
- - tags: []
-
-## Western University Canada
- - [https://westernu.academia.edu](https://westernu.academia.edu)
- - date published: 2024-04-30T02:50:30.035037+00:00
- - user: None
- - tags: []
-
-## University of Wisconsin-Madison
- - [https://wisc.academia.edu](https://wisc.academia.edu)
- - date published: 2024-04-30T03:00:54.514977+00:00
- - user: None
- - tags: []
-
-## Washington University in St. Louis
- - [https://wustl.academia.edu](https://wustl.academia.edu)
- - date published: 2024-04-30T02:50:25.947691+00:00
- - user: None
- - tags: []
-
-## West Virginia University
- - [https://wvu.academia.edu](https://wvu.academia.edu)
- - date published: 2024-04-30T02:59:22.255414+00:00
- - user: None
- - tags: []
-
-## Academia.edu - Share research
- - [https://www.academia.edu](https://www.academia.edu)
- - date published: 2023-12-08T08:28:48.297551+00:00
- - user: None
- - tags: ['digital library', 'ebooks']
-
-## Academy of Art University
- - [https://www.academyart.edu](https://www.academyart.edu)
- - date published: 2024-04-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## American College of the Building Arts
- - [https://acba.edu](https://acba.edu)
- - date published: 2024-02-08T17:01:49.403956+00:00
- - user: None
- - tags: []
-
-## Adrian College | Liberal Arts College in MI
- - [https://www.adrian.edu](https://www.adrian.edu)
- - date published: 2024-04-30T07:25:56.502677+00:00
- - user: None
- - tags: []
-
-## UA System | University of Alaska System
- - [https://alaska.edu](https://alaska.edu)
- - date published: 2024-05-07T20:41:09.067327+00:00
- - user: None
- - tags: []
-
-## UAF North
- - [https://canvas.alaska.edu](https://canvas.alaska.edu)
- - date published: 2024-05-07T20:41:53.614034+00:00
- - user: None
- - tags: []
-
-## Blackboard Learn
- - [https://classes.alaska.edu](https://classes.alaska.edu)
- - date published: 2024-05-07T20:41:29.269649+00:00
- - user: None
- - tags: []
-
-## Give Now - UA
- - [https://engage.alaska.edu](https://engage.alaska.edu)
- - date published: 2024-05-07T20:41:45.421621+00:00
- - user: None
- - tags: []
-
-## Directory Search
- - [https://people.alaska.edu](https://people.alaska.edu)
- - date published: 2024-05-07T20:42:05.472604+00:00
- - user: None
- - tags: []
-
-## Sea Ice Group
- - [http://seaice.alaska.edu](http://seaice.alaska.edu)
- - date published: 2024-05-06T23:33:31.816375+00:00
- - user: None
- - tags: []
-
-## UAF ON ALERT
- - [https://uafalert.alaska.edu](https://uafalert.alaska.edu)
- - date published: 2024-05-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## UA System | University of Alaska System
- - [https://www.alaska.edu](https://www.alaska.edu)
- - date published: 2024-05-07T20:41:11.264714+00:00
- - user: None
- - tags: []
-
-## Research @ AU
- - [https://research.american.edu](https://research.american.edu)
- - date published: 2023-10-25T18:46:30.302927+00:00
- - user: None
- - tags: []
-
-## American University, Washington, D.C.
- - [https://www.american.edu](https://www.american.edu)
- - date published: 2024-04-30T03:03:33.528880+00:00
- - user: None
- - tags: []
-
-## American University Washington College of Law
- - [https://www.wcl.american.edu](https://www.wcl.american.edu)
- - date published: 2024-05-08T10:07:22.676670+00:00
  - user: None
  - tags: []
 

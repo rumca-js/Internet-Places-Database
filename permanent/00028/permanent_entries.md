@@ -1,3 +1,189 @@
+## Jeff Handley
+ - [http://jeffhandley.com](http://jeffhandley.com)
+ - date published: 2024-05-01T03:48:18.931671+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff Huang · Computer Science at Brown University
+ - [https://jeffhuang.com](https://jeffhuang.com)
+ - date published: 2023-10-25T15:27:58.164772+00:00
+ - user: None
+ - tags: []
+
+## Home - Jeffikus
+ - [https://jeffikus.com](https://jeffikus.com)
+ - date published: 2024-01-27T18:00:01.443689+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff Ryan
+ - [https://jeffjryan.com](https://jeffjryan.com)
+ - date published: 2023-12-12T04:53:22.246788+00:00
+ - user: None
+ - tags: ['personal']
+
+## Random bits - Jeff Judge
+ - [https://bits.jeffjudge.com](https://bits.jeffjudge.com)
+ - date published: 2024-05-12T06:23:41.831874+00:00
+ - user: None
+ - tags: []
+
+## Jeff Judge
+ - [https://www.jeffjudge.com](https://www.jeffjudge.com)
+ - date published: 2024-04-03T12:48:08.818839+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff MacKinnon's Homepage
+ - [https://jeffmackinnon.com](https://jeffmackinnon.com)
+ - date published: 2024-02-05T20:57:27.042068+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff McNeill Resume
+ - [https://jeffmcneill.com](https://jeffmcneill.com)
+ - date published: 2024-02-03T14:51:48.458143+00:00
+ - user: None
+ - tags: []
+
+## (no title)
+ - [https://jeffmitchelldev.com](https://jeffmitchelldev.com)
+ - date published: 2024-05-07T15:16:32.069090+00:00
+ - user: None
+ - tags: []
+
+## Home | Jeff Nobbs
+ - [https://www.jeffnobbs.com](https://www.jeffnobbs.com)
+ - date published: 2023-10-25T08:46:33.428500+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Jeff Parker Cooks
+ - [https://jeffparkercooks.com](https://jeffparkercooks.com)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Work | jeff-parker-cooks
+ - [https://www.jeffparkercooks.com](https://www.jeffparkercooks.com)
+ - date published: 2023-11-29T15:44:34.183948+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff Everhart
+ - [https://jeffreyeverhart.com](https://jeffreyeverhart.com)
+ - date published: 2024-05-07T22:22:55.006521+00:00
+ - user: None
+ - tags: []
+
+## Fritz on the Web | My little corner of the web, full of my point of view
+ - [http://www.jeffreyfritz.com](http://www.jeffreyfritz.com)
+ - date published: 2024-05-01T03:47:55.945990+00:00
+ - user: None
+ - tags: []
+
+## Jeffrey Guenther: Product-minded Programmer and Researcher
+ - [https://www.jeffreyguenther.com](https://www.jeffreyguenther.com)
+ - date published: 2024-04-03T19:53:45+00:00
+ - user: None
+ - tags: []
+
+## Programming with Palermo
+ - [http://jeffreypalermo.com](http://jeffreypalermo.com)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Jeff Sandquist
+ - [https://jeffsandquist.com](https://jeffsandquist.com)
+ - date published: 2024-02-26T08:21:51.260717+00:00
+ - user: None
+ - tags: []
+
+## Jeff Sandquist – Just a farmer.
+ - [https://www.jeffsandquist.com](https://www.jeffsandquist.com)
+ - date published: 2023-10-25T09:20:57.411695+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff Szuc | 2022 Full-Stack Design
+ - [https://jeffszuc.com](https://jeffszuc.com)
+ - date published: 2024-05-11T10:18:37.665072+00:00
+ - user: None
+ - tags: []
+
+## 仿生猫不会梦见电子猫粮 — To make each day count.
+ - [https://jefftay.com](https://jefftay.com)
+ - date published: 2024-01-06T08:55:43.170901+00:00
+ - user: None
+ - tags: []
+
+## Jeff Kaufman
+ - [https://www.jefftk.com](https://www.jefftk.com)
+ - date published: 2023-10-25T09:20:58.479167+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://jefftriplett.com](https://jefftriplett.com)
+ - date published: 2023-11-29T17:06:17.889307+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Jeff VanderMeer
+ - [http://www.jeffvandermeer.com](http://www.jeffvandermeer.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Holy Ghost Stories – Faith, technology, and everything in between.
+ - [https://www.jeffwofford.com](https://www.jeffwofford.com)
+ - date published: 2023-11-10T23:40:06.837839+00:00
+ - user: None
+ - tags: []
+
+## Digital distraction tips. Funny speaker's presentation helps people unplug from phones and computers.
+ - [http://jeffwozer.com](http://jeffwozer.com)
+ - date published: 2020-10-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Retro Gaming | Jefklak's Codex
+ - [https://jefklakscodex.com](https://jefklakscodex.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: ['retro games']
+
+## Cierpliwości...
+ - [https://www.jehsmith.com](https://www.jehsmith.com)
+ - date published: 2024-04-30T06:33:50.304838+00:00
+ - user: None
+ - tags: []
+
+## jekyll-import • Import your old & busted site to Jekyll — jekyll-import • Import your old & busted site to Jekyll
+ - [https://import.jekyllrb.com](https://import.jekyllrb.com)
+ - date published: 2024-05-15T02:47:32.547527+00:00
+ - user: None
+ - tags: []
+
+## Jekyll • Simple, blog-aware, static sites
+ - [https://jekyllrb.com](https://jekyllrb.com)
+ - date published: 2024-04-08T19:29:08.084081+00:00
+ - user: None
+ - tags: ['self-host', 'static websites']
+
+## South Florida Real Estate Development - JEL Development
+ - [https://jeldevelopment.com](https://jeldevelopment.com)
+ - date published: 2024-05-06T17:01:54.474632+00:00
+ - user: None
+ - tags: []
+
+## Brand Insights & Strategy Firm :: Jell Brand Strategy :: Chicago
+ - [https://jellcreative.com](https://jellcreative.com)
+ - date published: 2024-05-07T14:04:17.067429+00:00
+ - user: None
+ - tags: []
+
 ## Subscription Marketing & Management Experts | Jellyfish Connect
  - [https://jellyfishconnect.com](https://jellyfishconnect.com)
  - date published: 2024-05-06T23:31:22.827972+00:00
@@ -3334,6 +3520,12 @@
  - user: None
  - tags: []
 
+## Pomodoro Timer that looks like a kitchen timer
+ - [https://juicytimer.com](https://juicytimer.com)
+ - date published: 2024-05-21T18:12:09+00:00
+ - user: None
+ - tags: []
+
 ## Jules Buck Jones
  - [http://julesbuckjones.com](http://julesbuckjones.com)
  - date published: 2024-05-02T10:08:29.079208+00:00
@@ -5803,198 +5995,6 @@
 ## Ken Fulk Inc.
  - [https://shop.kenfulk.com](https://shop.kenfulk.com)
  - date published: 2024-05-06T16:28:10.863489+00:00
- - user: None
- - tags: []
-
-## Ken Gagne — Nomad, writer, editor, podcaster & educator
- - [https://kengagne.com](https://kengagne.com)
- - date published: 2023-06-25T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## kening zhu
- - [https://keningzhu.com](https://keningzhu.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ken Kantzer's Blog
- - [https://kenkantzer.com](https://kenkantzer.com)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ken Klippenstein | Substack
- - [https://www.kenklippenstein.com](https://www.kenklippenstein.com)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ken Muse - DevOps & Cloud Development
- - [https://www.kenmuse.com](https://www.kenmuse.com)
- - date published: 2024-04-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Kenna Security Is Part of Cisco
- - [https://kennasecurity.com](https://kennasecurity.com)
- - date published: 2024-04-29T04:49:50.367644+00:00
- - user: None
- - tags: []
-
-## kennedn
- - [https://kennedn.com](https://kennedn.com)
- - date published: 2023-10-25T15:36:00.034186+00:00
- - user: None
- - tags: []
-
-## Kennedy Space Center Area Hotels - Hotels in Kennedy Space Center Area - Kennedy Space Center
- - [https://hotelpackages.kennedyspacecenter.com](https://hotelpackages.kennedyspacecenter.com)
- - date published: 2024-04-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Kennedy Space Center Visitor Complex
- - [https://kennedyspacecenter.com](https://kennedyspacecenter.com)
- - date published: 2024-05-11T08:07:39.554267+00:00
- - user: None
- - tags: []
-
-## Kennedy Space Center Visitor Complex Newsroom
- - [http://media.kennedyspacecenter.com](http://media.kennedyspacecenter.com)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Kennedy Space Center Visitor Complex
- - [https://www.kennedyspacecenter.com](https://www.kennedyspacecenter.com)
- - date published: 2024-03-18T22:26:40.349234+00:00
- - user: None
- - tags: []
-
-## Kenneth Cardenas
- - [https://kennethcardenas.com](https://kennethcardenas.com)
- - date published: 2024-05-09T08:20:10.247972+00:00
- - user: None
- - tags: []
-
-## Kenneth Klabunde
- - [https://www.kennethklabunde.com](https://www.kennethklabunde.com)
- - date published: 2024-01-07T22:20:02.583885+00:00
- - user: None
- - tags: []
-
-## Kenneth Partridge
- - [http://www.kennethpartridge.com](http://www.kennethpartridge.com)
- - date published: 2024-05-04T07:47:05.486297+00:00
- - user: None
- - tags: []
-
-## Kenny Crosby - Interactive Web Developer
- - [http://www.kennycrosby.com](http://www.kennycrosby.com)
- - date published: 2024-05-08T20:38:34.257239+00:00
- - user: None
- - tags: []
-
-## Kenny Log-Ins
- - [https://www.kennylog-in.com](https://www.kennylog-in.com)
- - date published: 2023-10-25T15:36:01.766783+00:00
- - user: None
- - tags: []
-
-## 2024 Pomeroy College Basketball Ratings
- - [https://kenpom.com](https://kenpom.com)
- - date published: 2024-05-06T23:05:17.687107+00:00
- - user: None
- - tags: []
-
-## KenRockwell.com: Photography, Cameras and Taking Better Pictures
- - [https://kenrockwell.com](https://kenrockwell.com)
- - date published: 2024-05-09T08:39:13.635578+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.kens5.com](https://www.kens5.com)
- - date published: 2023-12-09T00:59:09.524386+00:00
- - user: None
- - tags: []
-
-## Ken's Artisan
- - [https://kensartisan.com](https://kensartisan.com)
- - date published: 2024-05-04T07:28:13.912240+00:00
- - user: None
- - tags: []
-
-## Not All Fairy Tales Have Happy Endings - by Ken Williams
- - [https://kensbook.com](https://kensbook.com)
- - date published: 2020-12-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://kenschutte.com
- - [https://kenschutte.com](https://kenschutte.com)
- - date published: 2024-01-09T02:41:08.594455+00:00
- - user: None
- - tags: []
-
-## Computer Products & Accessories: Locks & Docks | Kensington
- - [https://www.kensington.com](https://www.kensington.com)
- - date published: 2024-05-06T14:12:32.275189+00:00
- - user: None
- - tags: []
-
-## Kenst's Live status - Powered by Freshping
- - [https://status.kenst.com](https://status.kenst.com)
- - date published: 2024-05-04T09:30:03.971812+00:00
- - user: None
- - tags: []
-
-## Chris Kenst
- - [https://www.kenst.com](https://www.kenst.com)
- - date published: 2023-12-29T20:11:56.663745+00:00
- - user: None
- - tags: ['personal']
-
-## ChrisW's Home Page
- - [http://www.kentaurus.com](http://www.kentaurus.com)
- - date published: 2024-05-07T09:33:53.942028+00:00
- - user: None
- - tags: []
-
-## Kent C. Dodds
- - [https://kentcdodds.com](https://kentcdodds.com)
- - date published: 2023-10-25T15:36:05.091092+00:00
- - user: None
- - tags: []
-
-## Home | Kentik KB
- - [https://kb.kentik.com](https://kb.kentik.com)
- - date published: 2024-05-04T09:30:16.796003+00:00
- - user: None
- - tags: []
-
-## kentik Product Updates
- - [https://new.kentik.com](https://new.kentik.com)
- - date published: 2024-05-04T09:30:18.801535+00:00
- - user: None
- - tags: []
-
-## Network Observability, Performance and Security | Network Flow Analytics, Network Monitoring & DDoS Detection | Kentik
- - [https://www.kentik.com](https://www.kentik.com)
- - date published: 2023-10-25T15:36:09.225110+00:00
- - user: None
- - tags: []
-
-## Kent Lew
- - [http://www.kentlew.com](http://www.kentlew.com)
- - date published: 2024-05-07T10:44:39.947133+00:00
- - user: None
- - tags: []
-
-## Kent Nerburn | Kent Nerburn
- - [https://kentnerburn.com](https://kentnerburn.com)
- - date published: 2023-10-25T15:36:24.836850+00:00
  - user: None
  - tags: []
 
