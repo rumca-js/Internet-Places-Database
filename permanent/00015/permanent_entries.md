@@ -1,3 +1,243 @@
+## CodePerfect
+ - [https://codeperfect95.com](https://codeperfect95.com)
+ - date published: 2023-10-25T13:28:25.510592+00:00
+ - user: None
+ - tags: []
+
+## Codepip
+ - [https://codepip.com](https://codepip.com)
+ - date published: 2024-04-30T07:11:54.217996+00:00
+ - user: None
+ - tags: []
+
+## Home · Codepipes Blog
+ - [http://blog.codepipes.com](http://blog.codepipes.com)
+ - date published: 2024-05-06T21:47:42.514912+00:00
+ - user: None
+ - tags: []
+
+## 3CX Webclient
+ - [https://codepipet.com](https://codepipet.com)
+ - date published: 2024-01-09T02:32:23.488008+00:00
+ - user: None
+ - tags: []
+
+## CodeProject - For those who code
+ - [https://www.codeproject.com](https://www.codeproject.com)
+ - date published: 2023-10-25T10:13:50.403402+00:00
+ - user: None
+ - tags: []
+
+## CodeQL
+ - [https://codeql.com](https://codeql.com)
+ - date published: 2024-05-04T08:04:38.227065+00:00
+ - user: None
+ - tags: []
+
+## Coder - Your Self-Hosted Remote Development Platform
+ - [https://coder.com](https://coder.com)
+ - date published: 2024-04-08T19:27:29.860838+00:00
+ - user: None
+ - tags: ['remote development', 'self-host']
+
+## Simple Analytics
+ - [https://sa.coder.com](https://sa.coder.com)
+ - date published: 2024-05-14T03:36:20.144533+00:00
+ - user: None
+ - tags: []
+
+## CodeRed Documentation Library
+ - [https://docs.coderedcorp.com](https://docs.coderedcorp.com)
+ - date published: 2024-05-08T05:49:28.259318+00:00
+ - user: None
+ - tags: []
+
+## CodeRed - Wagtail web development and hosting for businesses.
+ - [https://www.coderedcorp.com](https://www.coderedcorp.com)
+ - date published: 2023-10-27T13:11:12.513520+00:00
+ - user: None
+ - tags: []
+
+## Scalable & Secure Dedicated Server Solutions - Codero Hosting
+ - [http://www.codero.com](http://www.codero.com)
+ - date published: 2024-02-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The VPSNode Blog
+ - [https://coderoasis.com](https://coderoasis.com)
+ - date published: 2024-01-09T02:32:24.871671+00:00
+ - user: None
+ - tags: []
+
+## CoderOasis Forums
+ - [https://forums.coderoasis.com](https://forums.coderoasis.com)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## umami
+ - [https://umami.coderoasis.com](https://umami.coderoasis.com)
+ - date published: 2024-05-08T05:49:30.312035+00:00
+ - user: None
+ - tags: []
+
+## Nick Chamberlain
+ - [http://coderoaster.com](http://coderoaster.com)
+ - date published: 2024-05-08T03:50:41.315973+00:00
+ - user: None
+ - tags: []
+
+## Coders at Work: Reflections on the Craft of Programming
+ - [http://www.codersatwork.com](http://www.codersatwork.com)
+ - date published: 2024-05-04T07:58:31.406473+00:00
+ - user: None
+ - tags: []
+
+## codersnotes.com
+ - [http://www.codersnotes.com](http://www.codersnotes.com)
+ - date published: 2024-04-15T12:51:08+00:00
+ - user: rumpel
+ - tags: ['programming', 'tech', 'personal']
+
+## A community of great programmers and their programming tips
+ - [https://coderwall.com](https://coderwall.com)
+ - date published: 2024-03-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Pluralsight + Code School: Code Courses | Pluralsight
+ - [https://fivejs.codeschool.com](https://fivejs.codeschool.com)
+ - date published: 2024-05-11T10:37:24.014097+00:00
+ - user: None
+ - tags: []
+
+## codeshaunted | code’s haunted
+ - [https://codeshaunted.com](https://codeshaunted.com)
+ - date published: 2023-10-25T13:28:26.229731+00:00
+ - user: None
+ - tags: []
+
+## CloudBees CodeShip | Software as a Service (SaaS) CI/CD Solution
+ - [https://codeship.com](https://codeship.com)
+ - date published: 2024-05-01T06:29:28.629091+00:00
+ - user: None
+ - tags: []
+
+## Online Resumé of Martin Finnerup
+ - [https://www.codeslasher.com](https://www.codeslasher.com)
+ - date published: 2024-05-09T06:05:41.723925+00:00
+ - user: None
+ - tags: ['personal']
+
+## Codesolvent Blog
+ - [https://blog.codesolvent.com](https://blog.codesolvent.com)
+ - date published: 2023-10-25T13:28:28.190326+00:00
+ - user: None
+ - tags: []
+
+## Codesolvent - Web development on the web - java ruby python javascript clojure groovy velocity
+ - [http://codesolvent.com](http://codesolvent.com)
+ - date published: 2024-05-08T05:49:33.481110+00:00
+ - user: None
+ - tags: []
+
+## Welcome to malus.exotica.org.uk
+ - [https://www.codetapper.com](https://www.codetapper.com)
+ - date published: 2024-01-09T02:32:27.005228+00:00
+ - user: None
+ - tags: []
+
+## codethirtytwo
+ - [https://codethirtytwo.com](https://codethirtytwo.com)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## | codethrasher
+ - [https://codethrasher.com](https://codethrasher.com)
+ - date published: 2023-10-25T13:28:29.506444+00:00
+ - user: None
+ - tags: []
+
+## Codewars - Achieve mastery through coding practice and developer mentorship
+ - [https://www.codewars.com](https://www.codewars.com)
+ - date published: 2024-04-30T07:12:40.861122+00:00
+ - user: None
+ - tags: []
+
+## Index of /
+ - [https://media.codeweavers.com](https://media.codeweavers.com)
+ - date published: 2021-01-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CodeWeavers Knowledge Base
+ - [https://support.codeweavers.com](https://support.codeweavers.com)
+ - date published: 2024-05-08T05:49:48.791251+00:00
+ - user: None
+ - tags: []
+
+## Windows Software on Mac, Linux, and ChromeOS with CrossOver | CodeWeavers
+ - [https://www.codeweavers.com](https://www.codeweavers.com)
+ - date published: 2023-10-25T13:28:37.655699+00:00
+ - user: None
+ - tags: []
+
+## Code With Antonio
+ - [https://www.codewithantonio.com](https://www.codewithantonio.com)
+ - date published: 2024-04-29T07:32:31.093345+00:00
+ - user: None
+ - tags: []
+
+## Code with Dan
+ - [http://www.codewithdan.com](http://www.codewithdan.com)
+ - date published: 2024-05-01T03:47:35.307313+00:00
+ - user: None
+ - tags: []
+
+## Code with Hugo
+ - [https://codewithhugo.com](https://codewithhugo.com)
+ - date published: 2024-05-11T10:19:14.076137+00:00
+ - user: None
+ - tags: []
+
+## Code with Jason - Learn Ruby on Rails, Rails Testing, Docker, OOP
+ - [https://www.codewithjason.com](https://www.codewithjason.com)
+ - date published: 2023-10-25T13:28:40.388558+00:00
+ - user: None
+ - tags: ['ruby', 'personal', 'rails', 'tutorials']
+
+## Code Without Rules
+ - [https://codewithoutrules.com](https://codewithoutrules.com)
+ - date published: 2024-05-06T13:03:48.712076+00:00
+ - user: None
+ - tags: []
+
+## Code With Tomi
+ - [https://codewithtomi.com](https://codewithtomi.com)
+ - date published: 2024-04-26T10:30:59+00:00
+ - user: rumpel
+ - tags: ['python', 'personal']
+
+## code-worrier.com
+ - [http://code-worrier.com](http://code-worrier.com)
+ - date published: 2024-05-06T13:11:01.805530+00:00
+ - user: None
+ - tags: []
+
+## CodeWritePlay – Game Development, Tech, Humor
+ - [https://codewriteplay.com](https://codewriteplay.com)
+ - date published: 2023-10-25T13:28:50.815482+00:00
+ - user: None
+ - tags: []
+
+## Codex 99
+ - [https://www.codex99.com](https://www.codex99.com)
+ - date published: 2024-01-09T02:32:31.105130+00:00
+ - user: None
+ - tags: []
+
 ## A weekly newsletter that explain tech terms in plain, everyday language
  - [https://codictionary.com](https://codictionary.com)
  - date published: 2024-01-09T02:32:34.042018+00:00
@@ -1550,6 +1790,12 @@
  - [https://www.commoditycontext.com](https://www.commoditycontext.com)
  - date published: 2024-04-26T00:00:00+00:00
  - user: None
+ - tags: []
+
+## Commodore CDTV
+ - [https://www.commodorecdtv.com](https://www.commodorecdtv.com)
+ - date published: 2024-05-22T13:21:43+00:00
+ - user: rumpel
  - tags: []
 
 ## Commodore Format Archive – Commodore Format magazine fan site
@@ -5753,252 +5999,6 @@
 ## Crossword Unclued
  - [https://www.crosswordunclued.com](https://www.crosswordunclued.com)
  - date published: 2023-10-25T13:37:03.732224+00:00
- - user: None
- - tags: []
-
-## Croteam - Croteam
- - [http://www.croteam.com](http://www.croteam.com)
- - date published: 2024-05-09T08:53:10.276799+00:00
- - user: None
- - tags: ['video game developer', 'serious sam', 'thalos principle']
-
-## Crowder Shop
- - [https://crowdershop.com](https://crowdershop.com)
- - date published: 2024-05-04T13:33:17.644010+00:00
- - user: None
- - tags: []
-
-## Crowdin
- - [https://accounts.crowdin.com](https://accounts.crowdin.com)
- - date published: 2024-05-10T04:14:22.848808+00:00
- - user: None
- - tags: []
-
-## Crowdin | Localization Management Platform for agile teams
- - [https://ar.crowdin.com](https://ar.crowdin.com)
- - date published: 2024-05-10T04:14:45.396601+00:00
- - user: None
- - tags: []
-
-## Crowdin | Платформа кіравання лакалізацыяй для гнуткіх каманд
- - [https://be.crowdin.com](https://be.crowdin.com)
- - date published: 2024-05-10T04:15:24.630756+00:00
- - user: None
- - tags: []
-
-## Crowdin | Plataforma de Gerenciamento de Localização para equipes ágeis
- - [https://br.crowdin.com](https://br.crowdin.com)
- - date published: 2024-05-10T04:15:15.725810+00:00
- - user: None
- - tags: []
-
-## Crowdin Community
- - [https://community.crowdin.com](https://community.crowdin.com)
- - date published: 2024-05-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## Crowdin | Localization Management Platform for agile teams
- - [https://crowdin.com](https://crowdin.com)
- - date published: 2024-04-28T02:27:55.173669+00:00
- - user: None
- - tags: []
-
-## Crowdin | Platforma pro správu lokalizace pro agilní týmy
- - [https://cs.crowdin.com](https://cs.crowdin.com)
- - date published: 2024-05-10T04:14:31.066821+00:00
- - user: None
- - tags: []
-
-## Crowdin | Lokaliseringsstyringsplatform til fleksible teams
- - [https://da.crowdin.com](https://da.crowdin.com)
- - date published: 2024-05-10T04:14:35.957791+00:00
- - user: None
- - tags: []
-
-## Crowdin | Lokalisierungs-Management-Plattform für agile Teams
- - [https://de.crowdin.com](https://de.crowdin.com)
- - date published: 2024-05-10T04:14:50.795148+00:00
- - user: None
- - tags: []
-
-## Crowdin | Plataforma administrativa de localización para equipos ágiles
- - [https://es.crowdin.com](https://es.crowdin.com)
- - date published: 2024-05-10T04:15:00.696154+00:00
- - user: None
- - tags: []
-
-## Crowdin | Plate-forme de gestion de la localisation pour les équipes agiles
- - [https://fr.crowdin.com](https://fr.crowdin.com)
- - date published: 2024-05-10T04:15:31.642006+00:00
- - user: None
- - tags: []
-
-## Crowdin | Honosításkezelő platform az agilis csapatoknak
- - [https://hu.crowdin.com](https://hu.crowdin.com)
- - date published: 2024-05-10T04:15:18.695006+00:00
- - user: None
- - tags: []
-
-## Crowdin | Piattaforma di Gestione di Localizzazione per i team agili
- - [https://it.crowdin.com](https://it.crowdin.com)
- - date published: 2024-05-10T04:15:12.671444+00:00
- - user: None
- - tags: []
-
-## Crowdin | 敏捷チーム向け現地語化管理プラットフォーム
- - [https://ja.crowdin.com](https://ja.crowdin.com)
- - date published: 2024-05-10T04:15:06.730404+00:00
- - user: None
- - tags: []
-
-## Crowdin Enterprise
- - [https://joomla.crowdin.com](https://joomla.crowdin.com)
- - date published: 2024-05-12T03:56:15.986478+00:00
- - user: None
- - tags: []
-
-## Crowdin | Wygodna platforma zarządzania tłumaczeniami dla zespołów
- - [https://pl.crowdin.com](https://pl.crowdin.com)
- - date published: 2024-05-10T04:14:53.644907+00:00
- - user: None
- - tags: []
-
-## Crowdin | Plataforma de Gestão de Localização para equipas ágeis
- - [https://pt.crowdin.com](https://pt.crowdin.com)
- - date published: 2024-05-10T04:15:09.723770+00:00
- - user: None
- - tags: []
-
-## Crowdin | Платформа управления локализацией для agile-команд
- - [https://ru.crowdin.com](https://ru.crowdin.com)
- - date published: 2024-05-10T04:15:27.544203+00:00
- - user: None
- - tags: []
-
-## Crowdin | Localization Management Platform for agile teams
- - [https://sk.crowdin.com](https://sk.crowdin.com)
- - date published: 2024-05-10T04:14:57.175668+00:00
- - user: None
- - tags: []
-
-## Crowdin Status Dashboard
- - [https://status.crowdin.com](https://status.crowdin.com)
- - date published: 2024-05-10T04:14:32.844082+00:00
- - user: None
- - tags: []
-
-## Discover the right solution to enhance Crowdin experience
- - [https://store.crowdin.com](https://store.crowdin.com)
- - date published: 2024-05-10T04:14:28.074303+00:00
- - user: None
- - tags: []
-
-## crwdns6970018:0Crowdincrwdne6970018:0
- - [https://translate.crowdin.com](https://translate.crowdin.com)
- - date published: 2024-05-10T04:14:47.981105+00:00
- - user: None
- - tags: []
-
-## Crowdin | Çevik ekipler için Yerelleştirme Yönetimi Platformu
- - [https://tr.crowdin.com](https://tr.crowdin.com)
- - date published: 2024-05-10T04:15:21.754811+00:00
- - user: None
- - tags: []
-
-## Crowdin | Платформа управління локалізацією для гнучких команд
- - [https://uk.crowdin.com](https://uk.crowdin.com)
- - date published: 2024-05-10T04:15:03.682734+00:00
- - user: None
- - tags: []
-
-## Crowdin | 面向团队的本地化管理平台
- - [https://zh.crowdin.com](https://zh.crowdin.com)
- - date published: 2024-05-10T04:14:42.584644+00:00
- - user: None
- - tags: []
-
-## Crowdmade - The best merch from the creators you love
- - [https://crowdmade.com](https://crowdmade.com)
- - date published: 2024-05-04T06:17:32.983596+00:00
- - user: None
- - tags: []
-
-## Document
- - [https://starling.crowdriff.com](https://starling.crowdriff.com)
- - date published: 2024-05-11T11:20:29.583268+00:00
- - user: None
- - tags: []
-
-## CrowdStrike: Stop breaches. Drive business.
- - [https://assets.crowdstrike.com](https://assets.crowdstrike.com)
- - date published: 2024-05-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## CrowdStrike: Stop breaches. Drive business.
- - [https://crowdstrike.com](https://crowdstrike.com)
- - date published: 2024-05-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## CrowdStrike: Stop breaches. Drive business.
- - [https://go.crowdstrike.com](https://go.crowdstrike.com)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## CrowdStrike Marketplace Home | Partner Apps and Integrations
- - [https://marketplace.crowdstrike.com](https://marketplace.crowdstrike.com)
- - date published: 2024-05-13T03:58:20.711703+00:00
- - user: None
- - tags: []
-
-## CrowdStrike: Stop breaches. Drive business.
- - [https://www.crowdstrike.com](https://www.crowdstrike.com)
- - date published: 2024-04-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## Crowd Supply - For the Greater Goods
- - [https://www.crowdsupply.com](https://www.crowdsupply.com)
- - date published: 2023-10-25T13:37:08.444119+00:00
- - user: None
- - tags: ['crowdfunding']
-
-## CrownPanel
- - [https://crownpanel.com](https://crownpanel.com)
- - date published: 2024-05-09T04:07:54.328967+00:00
- - user: None
- - tags: []
-
-## Homepage | Crownpeak
- - [https://www.crownpeak.com](https://www.crownpeak.com)
- - date published: 2024-05-06T17:47:16.826259+00:00
- - user: None
- - tags: []
-
-## Crozdesk | Business Software Search
- - [https://crozdesk.com](https://crozdesk.com)
- - date published: 2024-05-06T20:46:40.972951+00:00
- - user: None
- - tags: []
-
-## DRAM, Solid State Drive (SSD) & Memory Upgrades
- - [https://www.crucial.com](https://www.crucial.com)
- - date published: 2024-04-09T00:00:00+00:00
- - user: rumpel
- - tags: ['company', 'pc memory', 'hard drives']
-
-## CRUCIVERB.COM - Crossword Constructors Community Center
- - [https://www.cruciverb.com](https://www.cruciverb.com)
- - date published: 2024-05-08T07:00:50.987921+00:00
- - user: None
- - tags: []
-
-## crul
- - [https://www.crul.com](https://www.crul.com)
- - date published: 2023-10-25T13:37:14.796515+00:00
  - user: None
  - tags: []
 

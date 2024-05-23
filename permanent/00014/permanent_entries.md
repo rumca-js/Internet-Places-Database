@@ -1,3 +1,243 @@
+## ChessMonitor.com - Powered by HetrixTools
+ - [https://status.chessmonitor.com](https://status.chessmonitor.com)
+ - date published: 2024-05-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ChessMonitor.com - Analytics for Chess Players
+ - [https://www.chessmonitor.com](https://www.chessmonitor.com)
+ - date published: 2023-10-25T13:21:47.807179+00:00
+ - user: None
+ - tags: []
+
+## Chester Grant
+ - [https://www.chestergrant.com](https://www.chestergrant.com)
+ - date published: 2023-10-25T09:19:45.648985+00:00
+ - user: None
+ - tags: ['personal']
+
+## ChestofBooks.com: Read Books Online for Free
+ - [https://chestofbooks.com](https://chestofbooks.com)
+ - date published: 2024-04-12T05:42:16.397127+00:00
+ - user: None
+ - tags: ['ebooks']
+
+## Chestr | Save Products & Track Discounts
+ - [https://www.chestr.com](https://www.chestr.com)
+ - date published: 2024-05-04T07:49:59.773943+00:00
+ - user: None
+ - tags: []
+
+## The Cheswicks' web pages
+ - [https://cheswick.com](https://cheswick.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Cheswicks' web pages
+ - [http://www.cheswick.com](http://www.cheswick.com)
+ - date published: 2024-05-09T07:03:35.421621+00:00
+ - user: None
+ - tags: []
+
+## Blog | Chevereto Blog
+ - [https://blog.chevereto.com](https://blog.chevereto.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Chevereto - Image Hosting Software
+ - [https://chevereto.com](https://chevereto.com)
+ - date published: 2024-04-08T19:27:26.743620+00:00
+ - user: None
+ - tags: ['image hosting', 'self-host']
+
+## Chevereto image hosting
+ - [https://demo.chevereto.com](https://demo.chevereto.com)
+ - date published: 2024-05-14T03:36:08.726331+00:00
+ - user: None
+ - tags: []
+
+## Releases
+ - [https://releases.chevereto.com](https://releases.chevereto.com)
+ - date published: 2024-04-20T21:05:34.951802+00:00
+ - user: None
+ - tags: []
+
+## V4 Admin
+ - [https://v4-admin.chevereto.com](https://v4-admin.chevereto.com)
+ - date published: 2024-05-14T03:36:15.123591+00:00
+ - user: None
+ - tags: []
+
+## Chevereto V4 Docs
+ - [https://v4-docs.chevereto.com](https://v4-docs.chevereto.com)
+ - date published: 2024-04-20T21:05:34.126566+00:00
+ - user: None
+ - tags: ['self-host']
+
+## Chevrolet Cars, Trucks, SUVs, Crossovers and Vans
+ - [https://www.chevrolet.com](https://www.chevrolet.com)
+ - date published: 2024-05-04T08:16:10.636037+00:00
+ - user: None
+ - tags: []
+
+## Chevy Drives the Motor City - Chevy Detroit
+ - [https://chevydetroit.com](https://chevydetroit.com)
+ - date published: 2024-05-07T16:30:07.999035+00:00
+ - user: None
+ - tags: []
+
+## Home - Chevy Hardcore
+ - [http://www.chevyhardcore.com](http://www.chevyhardcore.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Website, SEO, Social Media - Chewie Media Chilliwack BC and Alberta
+ - [https://chewiemedia.com](https://chewiemedia.com)
+ - date published: 2024-05-02T09:52:42.192457+00:00
+ - user: None
+ - tags: []
+
+## chiaracokieng.com
+ - [https://www.chiaracokieng.com](https://www.chiaracokieng.com)
+ - date published: 2024-01-10T23:52:41.513399+00:00
+ - user: None
+ - tags: []
+
+## Chicago City Wire
+ - [https://chicagocitywire.com](https://chicagocitywire.com)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Chicago Classical Review
+ - [http://www.chicagoclassicalreview.com](http://www.chicagoclassicalreview.com)
+ - date published: 2024-05-08T03:16:32.482535+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://chicagocrusader.com](https://chicagocrusader.com)
+ - date published: 2024-01-06T04:56:24.963086+00:00
+ - user: None
+ - tags: []
+
+## Chicago Hypnosis and Hypnotherapy of Northbrook & Buffalo Grove - Welcome
+ - [http://chicago-hypnosis.com](http://chicago-hypnosis.com)
+ - date published: 2024-04-03T12:42:10.512435+00:00
+ - user: None
+ - tags: ['personal']
+
+## Chicago Magazine
+ - [https://www.chicagomag.com](https://www.chicagomag.com)
+ - date published: 2023-10-25T13:21:56.030020+00:00
+ - user: None
+ - tags: []
+
+## Chicago Maroon
+ - [https://chicagomaroon.com](https://chicagomaroon.com)
+ - date published: 2024-05-07T14:14:02.263578+00:00
+ - user: None
+ - tags: []
+
+## Chicago Maroon
+ - [https://www.chicagomaroon.com](https://www.chicagomaroon.com)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## What Happens When People Go Missing in Chicago?
+ - [https://chicagomissingpersons.com](https://chicagomissingpersons.com)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Chicago Public Square
+ - [http://subs.chicagopublicsquare.com](http://subs.chicagopublicsquare.com)
+ - date published: 2024-05-09T06:47:03.287293+00:00
+ - user: None
+ - tags: []
+
+## Your support keeps <i>Chicago Public Square</i> coming and growing
+ - [http://support.chicagopublicsquare.com](http://support.chicagopublicsquare.com)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Chicago Public Square
+ - [https://www.chicagopublicsquare.com](https://www.chicagopublicsquare.com)
+ - date published: 2024-03-12T17:41:37.700789+00:00
+ - user: None
+ - tags: []
+
+## Chicago Reader
+ - [https://chicagoreader.com](https://chicagoreader.com)
+ - date published: 2023-10-25T13:22:02.366112+00:00
+ - user: None
+ - tags: []
+
+## Reader
+ - [https://classifieds.chicagoreader.com](https://classifieds.chicagoreader.com)
+ - date published: 2024-05-08T05:02:29.058724+00:00
+ - user: None
+ - tags: []
+
+## Chicago Reader Store
+ - [https://store.chicagoreader.com](https://store.chicagoreader.com)
+ - date published: 2024-05-08T05:02:26.575288+00:00
+ - user: None
+ - tags: []
+
+## Chicago Reader
+ - [http://www.chicagoreader.com](http://www.chicagoreader.com)
+ - date published: 2024-05-07T14:56:15.701727+00:00
+ - user: None
+ - tags: []
+
+## The Beacon-News
+ - [http://digitaledition.aurorabeaconnews.chicagotribune.com](http://digitaledition.aurorabeaconnews.chicagotribune.com)
+ - date published: 2024-05-08T05:02:50.767449+00:00
+ - user: None
+ - tags: []
+
+## City
+ - [https://digitaledition.chicagotribune.com](https://digitaledition.chicagotribune.com)
+ - date published: 2024-05-08T05:02:34.161574+00:00
+ - user: None
+ - tags: []
+
+## Daily Southtown
+ - [http://digitaledition.dailysouthtown.chicagotribune.com](http://digitaledition.dailysouthtown.chicagotribune.com)
+ - date published: 2024-05-08T05:02:49.458770+00:00
+ - user: None
+ - tags: []
+
+## The Courier-News
+ - [http://digitaledition.elgincouriernews.chicagotribune.com](http://digitaledition.elgincouriernews.chicagotribune.com)
+ - date published: 2024-05-08T05:02:36.609486+00:00
+ - user: None
+ - tags: []
+
+## Naperville Sun
+ - [http://digitaledition.napersun.chicagotribune.com](http://digitaledition.napersun.chicagotribune.com)
+ - date published: 2024-05-08T05:02:45.473415+00:00
+ - user: None
+ - tags: []
+
+## Naperville Magazine
+ - [https://digitaledition.napervillemagazine.chicagotribune.com](https://digitaledition.napervillemagazine.chicagotribune.com)
+ - date published: 2024-05-08T05:02:55.078043+00:00
+ - user: None
+ - tags: []
+
+## Lake County News-Sun
+ - [http://digitaledition.newssunonline.chicagotribune.com](http://digitaledition.newssunonline.chicagotribune.com)
+ - date published: 2024-05-08T05:02:56.411127+00:00
+ - user: None
+ - tags: []
+
 ## Post-Tribune
  - [http://digitaledition.post-trib.chicagotribune.com](http://digitaledition.post-trib.chicagotribune.com)
  - date published: 2024-05-08T05:02:32.859531+00:00
@@ -1286,7 +1526,7 @@
  - [https://christitus.com](https://christitus.com)
  - date published: 2023-10-25T09:32:21.672470+00:00
  - user: None
- - tags: ['youtuber']
+ - tags: ['youtuber', 'windows tweaking']
 
 ## Christophe Barraud - Home
  - [https://www.christophe-barraud.com](https://www.christophe-barraud.com)
@@ -5760,246 +6000,6 @@
 ## CodePen
  - [https://codepen.com](https://codepen.com)
  - date published: 2024-05-08T03:05:27.272929+00:00
- - user: None
- - tags: []
-
-## CodePerfect
- - [https://codeperfect95.com](https://codeperfect95.com)
- - date published: 2023-10-25T13:28:25.510592+00:00
- - user: None
- - tags: []
-
-## Codepip
- - [https://codepip.com](https://codepip.com)
- - date published: 2024-04-30T07:11:54.217996+00:00
- - user: None
- - tags: []
-
-## Home · Codepipes Blog
- - [http://blog.codepipes.com](http://blog.codepipes.com)
- - date published: 2024-05-06T21:47:42.514912+00:00
- - user: None
- - tags: []
-
-## 3CX Webclient
- - [https://codepipet.com](https://codepipet.com)
- - date published: 2024-01-09T02:32:23.488008+00:00
- - user: None
- - tags: []
-
-## CodeProject - For those who code
- - [https://www.codeproject.com](https://www.codeproject.com)
- - date published: 2023-10-25T10:13:50.403402+00:00
- - user: None
- - tags: []
-
-## CodeQL
- - [https://codeql.com](https://codeql.com)
- - date published: 2024-05-04T08:04:38.227065+00:00
- - user: None
- - tags: []
-
-## Coder - Your Self-Hosted Remote Development Platform
- - [https://coder.com](https://coder.com)
- - date published: 2024-04-08T19:27:29.860838+00:00
- - user: None
- - tags: ['remote development', 'self-host']
-
-## Simple Analytics
- - [https://sa.coder.com](https://sa.coder.com)
- - date published: 2024-05-14T03:36:20.144533+00:00
- - user: None
- - tags: []
-
-## CodeRed Documentation Library
- - [https://docs.coderedcorp.com](https://docs.coderedcorp.com)
- - date published: 2024-05-08T05:49:28.259318+00:00
- - user: None
- - tags: []
-
-## CodeRed - Wagtail web development and hosting for businesses.
- - [https://www.coderedcorp.com](https://www.coderedcorp.com)
- - date published: 2023-10-27T13:11:12.513520+00:00
- - user: None
- - tags: []
-
-## Scalable & Secure Dedicated Server Solutions - Codero Hosting
- - [http://www.codero.com](http://www.codero.com)
- - date published: 2024-02-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## The VPSNode Blog
- - [https://coderoasis.com](https://coderoasis.com)
- - date published: 2024-01-09T02:32:24.871671+00:00
- - user: None
- - tags: []
-
-## CoderOasis Forums
- - [https://forums.coderoasis.com](https://forums.coderoasis.com)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## umami
- - [https://umami.coderoasis.com](https://umami.coderoasis.com)
- - date published: 2024-05-08T05:49:30.312035+00:00
- - user: None
- - tags: []
-
-## Nick Chamberlain
- - [http://coderoaster.com](http://coderoaster.com)
- - date published: 2024-05-08T03:50:41.315973+00:00
- - user: None
- - tags: []
-
-## Coders at Work: Reflections on the Craft of Programming
- - [http://www.codersatwork.com](http://www.codersatwork.com)
- - date published: 2024-05-04T07:58:31.406473+00:00
- - user: None
- - tags: []
-
-## codersnotes.com
- - [http://www.codersnotes.com](http://www.codersnotes.com)
- - date published: 2024-04-15T12:51:08+00:00
- - user: rumpel
- - tags: ['programming', 'tech', 'personal']
-
-## A community of great programmers and their programming tips
- - [https://coderwall.com](https://coderwall.com)
- - date published: 2024-03-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pluralsight + Code School: Code Courses | Pluralsight
- - [https://fivejs.codeschool.com](https://fivejs.codeschool.com)
- - date published: 2024-05-11T10:37:24.014097+00:00
- - user: None
- - tags: []
-
-## codeshaunted | code’s haunted
- - [https://codeshaunted.com](https://codeshaunted.com)
- - date published: 2023-10-25T13:28:26.229731+00:00
- - user: None
- - tags: []
-
-## CloudBees CodeShip | Software as a Service (SaaS) CI/CD Solution
- - [https://codeship.com](https://codeship.com)
- - date published: 2024-05-01T06:29:28.629091+00:00
- - user: None
- - tags: []
-
-## Online Resumé of Martin Finnerup
- - [https://www.codeslasher.com](https://www.codeslasher.com)
- - date published: 2024-05-09T06:05:41.723925+00:00
- - user: None
- - tags: ['personal']
-
-## Codesolvent Blog
- - [https://blog.codesolvent.com](https://blog.codesolvent.com)
- - date published: 2023-10-25T13:28:28.190326+00:00
- - user: None
- - tags: []
-
-## Codesolvent - Web development on the web - java ruby python javascript clojure groovy velocity
- - [http://codesolvent.com](http://codesolvent.com)
- - date published: 2024-05-08T05:49:33.481110+00:00
- - user: None
- - tags: []
-
-## Welcome to malus.exotica.org.uk
- - [https://www.codetapper.com](https://www.codetapper.com)
- - date published: 2024-01-09T02:32:27.005228+00:00
- - user: None
- - tags: []
-
-## codethirtytwo
- - [https://codethirtytwo.com](https://codethirtytwo.com)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## | codethrasher
- - [https://codethrasher.com](https://codethrasher.com)
- - date published: 2023-10-25T13:28:29.506444+00:00
- - user: None
- - tags: []
-
-## Codewars - Achieve mastery through coding practice and developer mentorship
- - [https://www.codewars.com](https://www.codewars.com)
- - date published: 2024-04-30T07:12:40.861122+00:00
- - user: None
- - tags: []
-
-## Index of /
- - [https://media.codeweavers.com](https://media.codeweavers.com)
- - date published: 2021-01-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## CodeWeavers Knowledge Base
- - [https://support.codeweavers.com](https://support.codeweavers.com)
- - date published: 2024-05-08T05:49:48.791251+00:00
- - user: None
- - tags: []
-
-## Windows Software on Mac, Linux, and ChromeOS with CrossOver | CodeWeavers
- - [https://www.codeweavers.com](https://www.codeweavers.com)
- - date published: 2023-10-25T13:28:37.655699+00:00
- - user: None
- - tags: []
-
-## Code With Antonio
- - [https://www.codewithantonio.com](https://www.codewithantonio.com)
- - date published: 2024-04-29T07:32:31.093345+00:00
- - user: None
- - tags: []
-
-## Code with Dan
- - [http://www.codewithdan.com](http://www.codewithdan.com)
- - date published: 2024-05-01T03:47:35.307313+00:00
- - user: None
- - tags: []
-
-## Code with Hugo
- - [https://codewithhugo.com](https://codewithhugo.com)
- - date published: 2024-05-11T10:19:14.076137+00:00
- - user: None
- - tags: []
-
-## Code with Jason - Learn Ruby on Rails, Rails Testing, Docker, OOP
- - [https://www.codewithjason.com](https://www.codewithjason.com)
- - date published: 2023-10-25T13:28:40.388558+00:00
- - user: None
- - tags: ['ruby', 'personal', 'rails', 'tutorials']
-
-## Code Without Rules
- - [https://codewithoutrules.com](https://codewithoutrules.com)
- - date published: 2024-05-06T13:03:48.712076+00:00
- - user: None
- - tags: []
-
-## Code With Tomi
- - [https://codewithtomi.com](https://codewithtomi.com)
- - date published: 2024-04-26T10:30:59+00:00
- - user: rumpel
- - tags: ['python', 'personal']
-
-## code-worrier.com
- - [http://code-worrier.com](http://code-worrier.com)
- - date published: 2024-05-06T13:11:01.805530+00:00
- - user: None
- - tags: []
-
-## CodeWritePlay – Game Development, Tech, Humor
- - [https://codewriteplay.com](https://codewriteplay.com)
- - date published: 2023-10-25T13:28:50.815482+00:00
- - user: None
- - tags: []
-
-## Codex 99
- - [https://www.codex99.com](https://www.codex99.com)
- - date published: 2024-01-09T02:32:31.105130+00:00
  - user: None
  - tags: []
 

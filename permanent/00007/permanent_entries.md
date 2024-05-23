@@ -1,3 +1,99 @@
+## Activision Games Blog | Home
+ - [https://blog.activision.com](https://blog.activision.com)
+ - date published: 2024-05-01T02:15:40.294518+00:00
+ - user: None
+ - tags: []
+
+## Careers at Activision | Activision jobs
+ - [https://careers.activision.com](https://careers.activision.com)
+ - date published: 2024-03-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Investor Relations - Home Page
+ - [https://investor.activision.com](https://investor.activision.com)
+ - date published: 2024-05-01T02:16:25.851030+00:00
+ - user: None
+ - tags: []
+
+## Activision | Press Center
+ - [https://press.activision.com](https://press.activision.com)
+ - date published: 2024-05-01T02:15:51.839304+00:00
+ - user: None
+ - tags: []
+
+## Activision Research | Home
+ - [https://research.activision.com](https://research.activision.com)
+ - date published: 2024-05-01T02:16:04.568758+00:00
+ - user: None
+ - tags: []
+
+## Log in - Activision®
+ - [https://s.activision.com](https://s.activision.com)
+ - date published: 2024-05-01T02:15:50.106238+00:00
+ - user: None
+ - tags: []
+
+## Activision Support
+ - [https://support.activision.com](https://support.activision.com)
+ - date published: 2024-05-01T02:15:46.611398+00:00
+ - user: None
+ - tags: []
+
+## Activision | Home
+ - [https://www.activision.com](https://www.activision.com)
+ - date published: 2023-10-25T11:27:02.301683+00:00
+ - user: None
+ - tags: ['call of duty', 'company']
+
+## Careers at Activision Blizzard | Activision Blizzard Job Opportunities
+ - [https://careers.activisionblizzard.com](https://careers.activisionblizzard.com)
+ - date published: 2024-04-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Login | Salesforce
+ - [https://hub.activisionblizzard.com](https://hub.activisionblizzard.com)
+ - date published: 2024-05-01T02:16:40.392610+00:00
+ - user: None
+ - tags: []
+
+## Activision Blizzard 2022 ESG Report
+ - [https://ourcommitments.activisionblizzard.com](https://ourcommitments.activisionblizzard.com)
+ - date published: 2024-05-01T02:16:17.813415+00:00
+ - user: None
+ - tags: []
+
+## Activision Blizzard | Home
+ - [https://www.activisionblizzard.com](https://www.activisionblizzard.com)
+ - date published: 2023-10-25T11:27:03.898191+00:00
+ - user: None
+ - tags: []
+
+## In-Game Advertising Company | Activision Blizzard Media | Home
+ - [https://www.activisionblizzardmedia.com](https://www.activisionblizzardmedia.com)
+ - date published: 2024-05-01T02:16:48.413245+00:00
+ - user: None
+ - tags: []
+
+## Activist Post - Alternative News & Independent Views
+ - [https://www.activistpost.com](https://www.activistpost.com)
+ - date published: 2023-10-25T12:31:44.035152+00:00
+ - user: None
+ - tags: []
+
+## Activity Schema
+ - [https://www.activityschema.com](https://www.activityschema.com)
+ - date published: 2023-04-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Acton Academy Fort Lauderdale - K-12 Alternative School
+ - [http://www.actonacademyfl.com](http://www.actonacademyfl.com)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Résumés Breakdown Express
  - [https://resumes.actorsaccess.com](https://resumes.actorsaccess.com)
  - date published: 2024-05-06T21:41:53.060834+00:00
@@ -2349,6 +2445,12 @@
 ## 아프리카TV e스포츠
  - [https://esports.afreecatv.com](https://esports.afreecatv.com)
  - date published: 2024-05-08T02:31:56.172465+00:00
+ - user: None
+ - tags: []
+
+## Afresh - Fresh-first Solutions for Grocery Retail
+ - [https://www.afresh.com](https://www.afresh.com)
+ - date published: 2024-05-17T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4750,6 +4852,12 @@
  - user: None
  - tags: ['personal']
 
+## Alec Lownes
+ - [http://aleclownes.com](http://aleclownes.com)
+ - date published: 2024-05-22T04:49:28.011933+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Dropsafe
  - [https://alecmuffett.com](https://alecmuffett.com)
  - date published: 2023-11-02T09:02:34.151189+00:00
@@ -5318,7 +5426,7 @@
  - [https://hn.algolia.com](https://hn.algolia.com)
  - date published: 2023-10-25T08:27:21.164795+00:00
  - user: None
- - tags: []
+ - tags: ['hacker news']
 
 ## Algolia Partner Program
  - [https://partners.algolia.com](https://partners.algolia.com)
@@ -5893,114 +6001,6 @@
 ## Home - allAfrica.com
  - [https://allafrica.com](https://allafrica.com)
  - date published: 2023-10-25T11:07:52.016297+00:00
- - user: None
- - tags: []
-
-## Accueil
- - [https://fr.allafrica.com](https://fr.allafrica.com)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Partners
- - [https://partners.allafrica.com](https://partners.allafrica.com)
- - date published: 2024-05-01T03:15:59.180386+00:00
- - user: None
- - tags: []
-
-## Screen Enclosure Installation & Repair in Brevard County - All Aluminum & Screening
- - [https://www.allaluminumscreening.com](https://www.allaluminumscreening.com)
- - date published: 2024-05-06T14:30:20.015587+00:00
- - user: None
- - tags: []
-
-## Allan Im
- - [https://allanim.com](https://allanim.com)
- - date published: 2024-05-11T10:21:37.810639+00:00
- - user: None
- - tags: []
-
-## Dr. Allan N. Schore
- - [https://www.allanschore.com](https://www.allanschore.com)
- - date published: 2024-05-21T19:17:40.055454+00:00
- - user: None
- - tags: ['personal']
-
-## The World’s Most Comfortable Shoes
- - [https://www.allbirds.com](https://www.allbirds.com)
- - date published: 2024-05-07T09:25:30.150018+00:00
- - user: None
- - tags: []
-
-## Regan's Substack | Regan Arntz-Gray | Substack
- - [https://www.allcatsarefemale.com](https://www.allcatsarefemale.com)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Allconnect.com: Find Internet Providers Near You | 844-845-3968
- - [https://www.allconnect.com](https://www.allconnect.com)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## alldjango.com
- - [https://alldjango.com](https://alldjango.com)
- - date published: 2024-05-06T21:17:08.779158+00:00
- - user: None
- - tags: []
-
-## Allegany County Chamber of Commerce - Allegany County Chamber of Commerce
- - [http://www.alleganycountychamber.com](http://www.alleganycountychamber.com)
- - date published: 2024-05-06T20:20:15.645919+00:00
- - user: None
- - tags: []
-
-## Allegion | Seamless Access and a Safer World
- - [https://www.allegion.com](https://www.allegion.com)
- - date published: 2024-05-09T05:19:12.739094+00:00
- - user: None
- - tags: []
-
-## 3D and AR software - Adobe Substance 3D
- - [https://www.allegorithmic.com](https://www.allegorithmic.com)
- - date published: 2024-05-08T00:16:16.495021+00:00
- - user: None
- - tags: []
-
-## Allegra Stein
- - [https://www.allegrastein.com](https://www.allegrastein.com)
- - date published: 2023-12-14T01:27:23.359016+00:00
- - user: None
- - tags: ['personal']
-
-## index | i’m so full of ideas
- - [https://allenbrunson.com](https://allenbrunson.com)
- - date published: 2023-10-25T12:38:58.401458+00:00
- - user: None
- - tags: []
-
-## Home - Allen Cheng
- - [https://www.allencheng.com](https://www.allencheng.com)
- - date published: 2023-10-25T08:44:11.625237+00:00
- - user: None
- - tags: ['personal']
-
-## Allen Downey
- - [https://www.allendowney.com](https://www.allendowney.com)
- - date published: 2023-10-25T08:44:16.793723+00:00
- - user: None
- - tags: ['personal']
-
-## Allen & Heath - Heard Everywhere
- - [https://www.allen-heath.com](https://www.allen-heath.com)
- - date published: 2024-03-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Allen Pike, pixel crafter
- - [https://allenpike.com](https://allenpike.com)
- - date published: 2023-10-29T12:00:36.784378+00:00
  - user: None
  - tags: []
 

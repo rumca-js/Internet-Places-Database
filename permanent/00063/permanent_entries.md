@@ -1,3 +1,909 @@
+## For Parents and Families –  | Kalamazoo College
+ - [https://parents.kzoo.edu](https://parents.kzoo.edu)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Physical Education –  | Kalamazoo College
+ - [https://pe.kzoo.edu](https://pe.kzoo.edu)
+ - date published: 2024-05-07T19:21:13.896670+00:00
+ - user: None
+ - tags: []
+
+## Phi Beta Kappa –  | Kalamazoo College
+ - [https://phibetakappa.kzoo.edu](https://phibetakappa.kzoo.edu)
+ - date published: 2024-05-07T19:24:59.306343+00:00
+ - user: None
+ - tags: []
+
+## Kalamazoo Philharmonia –  | Kalamazoo College
+ - [https://philharmonia.kzoo.edu](https://philharmonia.kzoo.edu)
+ - date published: 2024-05-07T19:23:19.815414+00:00
+ - user: None
+ - tags: []
+
+## Philosophy Department –  | Kalamazoo College
+ - [https://philosophy.kzoo.edu](https://philosophy.kzoo.edu)
+ - date published: 2024-05-07T19:20:44.980188+00:00
+ - user: None
+ - tags: []
+
+## Physics Department –  | Kalamazoo College
+ - [https://physics.kzoo.edu](https://physics.kzoo.edu)
+ - date published: 2024-05-07T19:20:59.149175+00:00
+ - user: None
+ - tags: []
+
+## Political Science –  | Kalamazoo College
+ - [https://politicalscience.kzoo.edu](https://politicalscience.kzoo.edu)
+ - date published: 2024-05-07T19:22:48.516111+00:00
+ - user: None
+ - tags: []
+
+## Pre-Law Advising Program –  | Kalamazoo College
+ - [https://prelawadvising.kzoo.edu](https://prelawadvising.kzoo.edu)
+ - date published: 2024-05-07T19:21:53.156120+00:00
+ - user: None
+ - tags: []
+
+## Office of the Provost –  | Kalamazoo College
+ - [https://provost.kzoo.edu](https://provost.kzoo.edu)
+ - date published: 2024-05-07T19:23:52.862089+00:00
+ - user: None
+ - tags: []
+
+## Psychology Department –  | Kalamazoo College
+ - [https://psychology.kzoo.edu](https://psychology.kzoo.edu)
+ - date published: 2024-05-07T19:24:00.215974+00:00
+ - user: None
+ - tags: []
+
+## Office of the Registrar –  | Kalamazoo College
+ - [https://registrar.kzoo.edu](https://registrar.kzoo.edu)
+ - date published: 2024-05-07T19:20:42.501618+00:00
+ - user: None
+ - tags: []
+
+## Religion Department –  | Kalamazoo College
+ - [https://religion.kzoo.edu](https://religion.kzoo.edu)
+ - date published: 2024-05-07T19:21:11.743419+00:00
+ - user: None
+ - tags: []
+
+## Residential Life –  | Kalamazoo College
+ - [https://reslife.kzoo.edu](https://reslife.kzoo.edu)
+ - date published: 2024-06-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sexual Violence Prevention and Advocacy –  | Kalamazoo College
+ - [https://sexualsafety.kzoo.edu](https://sexualsafety.kzoo.edu)
+ - date published: 2024-05-07T19:23:48.236571+00:00
+ - user: None
+ - tags: []
+
+## Shared Passages Program –  | Kalamazoo College
+ - [https://sharedpassages.kzoo.edu](https://sharedpassages.kzoo.edu)
+ - date published: 2024-05-07T19:22:34.885488+00:00
+ - user: None
+ - tags: []
+
+## Sophomore Experience –  | Kalamazoo College
+ - [https://sophomore.kzoo.edu](https://sophomore.kzoo.edu)
+ - date published: 2024-05-07T19:23:04.203597+00:00
+ - user: None
+ - tags: []
+
+## Spanish Language and Literature –  | Kalamazoo College
+ - [https://spanish.kzoo.edu](https://spanish.kzoo.edu)
+ - date published: 2024-05-07T19:23:06.419372+00:00
+ - user: None
+ - tags: []
+
+## Student Activities –  | Kalamazoo College
+ - [https://studentactivities.kzoo.edu](https://studentactivities.kzoo.edu)
+ - date published: 2024-02-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Student Development –  | Kalamazoo College
+ - [https://studev.kzoo.edu](https://studev.kzoo.edu)
+ - date published: 2024-05-07T19:24:24.172291+00:00
+ - user: None
+ - tags: []
+
+## Support Staff –  | Kalamazoo College
+ - [https://supportstaff.kzoo.edu](https://supportstaff.kzoo.edu)
+ - date published: 2024-05-07T19:24:07.762051+00:00
+ - user: None
+ - tags: []
+
+## Sustainability at K –  | Kalamazoo College
+ - [https://sustainability.kzoo.edu](https://sustainability.kzoo.edu)
+ - date published: 2024-05-07T19:20:38.995233+00:00
+ - user: None
+ - tags: []
+
+## Teaching Commons –  | Kalamazoo College
+ - [https://teachingcommons.kzoo.edu](https://teachingcommons.kzoo.edu)
+ - date published: 2024-05-07T19:24:42.474005+00:00
+ - user: None
+ - tags: []
+
+## Theatre Arts Department –  | Kalamazoo College
+ - [https://theatre.kzoo.edu](https://theatre.kzoo.edu)
+ - date published: 2024-05-07T19:22:44.386782+00:00
+ - user: None
+ - tags: []
+
+## Title IX –  | Kalamazoo College
+ - [https://titleix.kzoo.edu](https://titleix.kzoo.edu)
+ - date published: 2024-02-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Teaching and Learning Committee –  | Kalamazoo College
+ - [https://tlc.kzoo.edu](https://tlc.kzoo.edu)
+ - date published: 2024-05-07T19:23:01.543570+00:00
+ - user: None
+ - tags: []
+
+## Women, Gender, and Sexuality –  | Kalamazoo College
+ - [https://wgs.kzoo.edu](https://wgs.kzoo.edu)
+ - date published: 2024-05-07T19:25:10.116874+00:00
+ - user: None
+ - tags: []
+
+## Writing Center –  | Kalamazoo College
+ - [https://writingcenter.kzoo.edu](https://writingcenter.kzoo.edu)
+ - date published: 2024-04-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Kalamazoo College – Kalamazoo College
+ - [https://www.kzoo.edu](https://www.kzoo.edu)
+ - date published: 2024-05-07T19:20:36.564844+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://idioms.languagesystems.edu](https://idioms.languagesystems.edu)
+ - date published: 2024-02-08T17:32:14.922710+00:00
+ - user: None
+ - tags: []
+
+## WeBWorK
+ - [https://webwork.latech.edu](https://webwork.latech.edu)
+ - date published: 2024-02-08T16:50:39.557450+00:00
+ - user: None
+ - tags: []
+
+## SeDuMi | Optimization over symmetric cones
+ - [https://sedumi.ie.lehigh.edu](https://sedumi.ie.lehigh.edu)
+ - date published: 2024-04-28T01:58:14.252018+00:00
+ - user: None
+ - tags: []
+
+## Redirect to Lockhaven.edu
+ - [http://www.lhup.edu](http://www.lhup.edu)
+ - date published: 2024-05-07T15:42:12.265148+00:00
+ - user: None
+ - tags: []
+
+## https://cs.lmu.edu
+ - [https://cs.lmu.edu](https://cs.lmu.edu)
+ - date published: 2024-01-09T02:59:22.375629+00:00
+ - user: None
+ - tags: []
+
+## Viewbook - Digital Viewbook
+ - [https://viewbook.lmu.edu](https://viewbook.lmu.edu)
+ - date published: 2024-04-30T06:57:21.481187+00:00
+ - user: None
+ - tags: []
+
+## University of Louisiana at Lafayette
+ - [https://louisiana.edu](https://louisiana.edu)
+ - date published: 2024-05-07T21:31:24.047115+00:00
+ - user: None
+ - tags: []
+
+## Blackboard Learn
+ - [https://blackboard.louisville.edu](https://blackboard.louisville.edu)
+ - date published: 2024-05-06T21:18:39.233051+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar - University of Louisville
+ - [https://events.louisville.edu](https://events.louisville.edu)
+ - date published: 2024-05-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ThinkIR: The University of Louisville's Institutional Repository
+ - [https://ir.library.louisville.edu](https://ir.library.louisville.edu)
+ - date published: 2024-05-19T02:41:08.119153+00:00
+ - user: None
+ - tags: []
+
+## University of Louisville
+ - [http://louisville.edu](http://louisville.edu)
+ - date published: 2024-05-06T21:18:27.490718+00:00
+ - user: None
+ - tags: []
+
+## ULink Portal
+ - [https://ulink.louisville.edu](https://ulink.louisville.edu)
+ - date published: 2024-03-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Lenoir-Rhyne University
+ - [https://lr.edu](https://lr.edu)
+ - date published: 2024-04-28T03:37:48.331975+00:00
+ - user: None
+ - tags: []
+
+## Online Tech Bootcamps | Louisiana State University
+ - [https://bootcamp.online.lsu.edu](https://bootcamp.online.lsu.edu)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Louisiana State University - Acalog ACMS™
+ - [https://catalog.lsu.edu](https://catalog.lsu.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://itservice.lsu.edu](https://itservice.lsu.edu)
+ - date published: 2024-05-07T19:30:45.434428+00:00
+ - user: None
+ - tags: []
+
+## Welcome to LSU, a top research university | Baton Rouge, La.
+ - [https://lsu.edu](https://lsu.edu)
+ - date published: 2024-05-07T19:30:48.158325+00:00
+ - user: None
+ - tags: []
+
+## myLSU - Single Sign On
+ - [https://mylsu.apps.lsu.edu](https://mylsu.apps.lsu.edu)
+ - date published: 2024-05-07T19:30:59.182311+00:00
+ - user: None
+ - tags: []
+
+## Louisiana State University
+ - [https://tigerlink.lsu.edu](https://tigerlink.lsu.edu)
+ - date published: 2024-05-07T19:30:53.429998+00:00
+ - user: None
+ - tags: []
+
+## Center for Computation & Technology | Interdisciplinary  |  Innovative  | Inventive
+ - [http://www.cct.lsu.edu](http://www.cct.lsu.edu)
+ - date published: 2024-05-08T09:32:45.803687+00:00
+ - user: None
+ - tags: []
+
+## Electrical & Computer Engineering, Division of
+ - [https://www.ece.lsu.edu](https://www.ece.lsu.edu)
+ - date published: 2023-10-25T11:24:20.932943+00:00
+ - user: None
+ - tags: []
+
+## Welcome to LSU, a top research university | Baton Rouge, La.
+ - [https://www.lsu.edu](https://www.lsu.edu)
+ - date published: 2024-05-07T19:30:39.303505+00:00
+ - user: None
+ - tags: []
+
+## An Introduction to Computer Networks
+ - [https://intronetworks.cs.luc.edu](https://intronetworks.cs.luc.edu)
+ - date published: 2023-10-25T18:53:42.818300+00:00
+ - user: None
+ - tags: []
+
+## UMS User Account Management
+ - [https://accounts.maine.edu](https://accounts.maine.edu)
+ - date published: 2024-05-07T21:27:43.700017+00:00
+ - user: None
+ - tags: []
+
+## UMS Single Sign-On - Loading Session Information
+ - [https://courses.maine.edu](https://courses.maine.edu)
+ - date published: 2024-05-07T21:27:34.315112+00:00
+ - user: None
+ - tags: []
+
+## UMS Single Sign-On - Loading Session Information
+ - [http://gmail.maine.edu](http://gmail.maine.edu)
+ - date published: 2024-05-07T21:27:30.655514+00:00
+ - user: None
+ - tags: []
+
+## MaineStreet Links
+ - [https://mainestreet.maine.edu](https://mainestreet.maine.edu)
+ - date published: 2024-05-07T21:27:41.577698+00:00
+ - user: None
+ - tags: []
+
+## University of Maine System  - University of Maine System
+ - [https://www.maine.edu](https://www.maine.edu)
+ - date published: 2024-05-07T21:27:45.724796+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://www.massachusetts.edu](https://www.massachusetts.edu)
+ - date published: 2024-05-07T21:25:07.569886+00:00
+ - user: None
+ - tags: []
+
+## The Master's University | For Christ & Scripture
+ - [https://www.masters.edu](https://www.masters.edu)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mayo Clinic QHS Apps Home Page
+ - [https://rtools.mayo.edu](https://rtools.mayo.edu)
+ - date published: 2024-02-08T17:32:56.480098+00:00
+ - user: None
+ - tags: []
+
+## Education and Research at Mayo Clinic - Education and Research at Mayo Clinic
+ - [https://www.mayo.edu](https://www.mayo.edu)
+ - date published: 2024-05-07T19:31:04.510313+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar
+ - [https://calendar.mdc.edu](https://calendar.mdc.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Index Page
+ - [https://cs.mdc.edu](https://cs.mdc.edu)
+ - date published: 2024-05-07T19:31:47.545891+00:00
+ - user: None
+ - tags: []
+
+## FAQ – Frequently Asked Questions
+ - [https://faq.mdc.edu](https://faq.mdc.edu)
+ - date published: 2024-05-07T19:31:38.316870+00:00
+ - user: None
+ - tags: []
+
+## Miami Dade College Alumni Association Website
+ - [https://foundation.mdc.edu](https://foundation.mdc.edu)
+ - date published: 2024-05-07T19:31:14.312990+00:00
+ - user: None
+ - tags: []
+
+## MDConnect | Miami Dade College
+ - [http://mdconnect.mdc.edu](http://mdconnect.mdc.edu)
+ - date published: 2024-05-07T19:31:36.053490+00:00
+ - user: None
+ - tags: []
+
+## Sign In
+ - [https://mycourses.mdc.edu](https://mycourses.mdc.edu)
+ - date published: 2024-05-07T19:31:45.603581+00:00
+ - user: None
+ - tags: []
+
+## Student Portal | Miami Dade College
+ - [https://my.mdc.edu](https://my.mdc.edu)
+ - date published: 2024-05-07T19:31:50.148259+00:00
+ - user: None
+ - tags: []
+
+## MDC News
+ - [https://news.mdc.edu](https://news.mdc.edu)
+ - date published: 2024-05-07T19:31:52.213450+00:00
+ - user: None
+ - tags: []
+
+## NWSA | Miami Dade College
+ - [http://nwsa.mdc.edu](http://nwsa.mdc.edu)
+ - date published: 2024-05-07T19:31:20.975929+00:00
+ - user: None
+ - tags: []
+
+## - SharkNet
+ - [https://sharknet.mdc.edu](https://sharknet.mdc.edu)
+ - date published: 2024-05-07T19:32:02.286290+00:00
+ - user: None
+ - tags: []
+
+## Official Miami Dade College Homepage
+ - [https://www.mdc.edu](https://www.mdc.edu)
+ - date published: 2023-10-25T11:22:46.236242+00:00
+ - user: None
+ - tags: []
+
+## Maine College of Art & Design
+ - [https://www.meca.edu](https://www.meca.edu)
+ - date published: 2024-04-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## School of Architecture | University of Miami
+ - [http://www.arc.miami.edu](http://www.arc.miami.edu)
+ - date published: 2024-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## No. 3 Public for Undergrad Teaching
+ - [https://miamioh.edu](https://miamioh.edu)
+ - date published: 2024-05-01T05:55:34.598366+00:00
+ - user: None
+ - tags: []
+
+## The Middlebury Sites Network – Middlebury’s WordPress-based, self-service, website creation space.
+ - [https://sites.middlebury.edu](https://sites.middlebury.edu)
+ - date published: 2024-05-11T11:19:03.488578+00:00
+ - user: None
+ - tags: []
+
+## Colorado School of Mines | A Premier Engineering University
+ - [https://www.mines.edu](https://www.mines.edu)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home / EMS
+ - [https://minnstate.bookitadmin.minnstate.edu](https://minnstate.bookitadmin.minnstate.edu)
+ - date published: 2024-02-08T16:36:57.109155+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://servicedesk.minnstate.edu](https://servicedesk.minnstate.edu)
+ - date published: 2024-05-07T19:32:10.852282+00:00
+ - user: None
+ - tags: []
+
+## StarID Self Service - Minnesota State
+ - [http://starid.minnstate.edu](http://starid.minnstate.edu)
+ - date published: 2024-05-07T19:32:12.056355+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar
+ - [https://calendar.missouri.edu](https://calendar.missouri.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mizzou Families // University of Missouri
+ - [https://families.missouri.edu](https://families.missouri.edu)
+ - date published: 2024-05-07T19:32:32.502186+00:00
+ - user: None
+ - tags: []
+
+## Missouri School of Journalism – Official Website for the Missouri School of Journalism at the University of Missouri.
+ - [https://journalism.missouri.edu](https://journalism.missouri.edu)
+ - date published: 2024-05-09T06:25:35.863279+00:00
+ - user: None
+ - tags: []
+
+## Mizzou
+ - [https://missouri.edu](https://missouri.edu)
+ - date published: 2024-05-07T19:32:23.394021+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://president.missouri.edu](https://president.missouri.edu)
+ - date published: 2024-05-07T19:32:22.041569+00:00
+ - user: None
+ - tags: []
+
+## Show Me Mizzou // University of Missouri
+ - [https://showme.missouri.edu](https://showme.missouri.edu)
+ - date published: 2024-02-08T18:02:26.036563+00:00
+ - user: None
+ - tags: []
+
+## Home | Captioning and Accessibility
+ - [https://accessibility.mit.edu](https://accessibility.mit.edu)
+ - date published: 2024-05-07T19:33:10.706026+00:00
+ - user: None
+ - tags: []
+
+## Art, Culture, and Technology (ACT)
+ - [https://act.mit.edu](https://act.mit.edu)
+ - date published: 2024-05-08T10:20:24.083955+00:00
+ - user: None
+ - tags: []
+
+## aera
+ - [https://aera.mit.edu](https://aera.mit.edu)
+ - date published: 2023-10-25T18:53:43.612659+00:00
+ - user: None
+ - tags: []
+
+## MIT AeroAstro
+ - [https://aeroastro.mit.edu](https://aeroastro.mit.edu)
+ - date published: 2024-05-07T19:35:18.393154+00:00
+ - user: None
+ - tags: []
+
+## MIT MAS.S68 | Generative AI for Constructive Communication
+ - [https://ai4comm.media.mit.edu](https://ai4comm.media.mit.edu)
+ - date published: 2023-10-25T18:53:45.427456+00:00
+ - user: None
+ - tags: []
+
+## MIT – Alana Down Syndrome Center
+ - [https://alana.mit.edu](https://alana.mit.edu)
+ - date published: 2024-05-08T12:04:20.829620+00:00
+ - user: None
+ - tags: []
+
+## MIT Alumni Association
+ - [https://alum.mit.edu](https://alum.mit.edu)
+ - date published: 2024-05-08T10:20:28.518474+00:00
+ - user: None
+ - tags: []
+
+## Home | Architecture
+ - [https://architecture.mit.edu](https://architecture.mit.edu)
+ - date published: 2024-02-08T22:04:29.437169+00:00
+ - user: None
+ - tags: []
+
+## Arts at MIT
+ - [https://arts.mit.edu](https://arts.mit.edu)
+ - date published: 2024-05-04T15:41:04.617889+00:00
+ - user: None
+ - tags: []
+
+## Web SSH access to athena.dialup.mit.edu
+ - [http://athena.dialup.mit.edu](http://athena.dialup.mit.edu)
+ - date published: 2024-05-07T19:37:23.896673+00:00
+ - user: None
+ - tags: []
+
+## The MIT Department of Brain and Cognitive Sciences | Brain and Cognitive Sciences
+ - [https://bcs.mit.edu](https://bcs.mit.edu)
+ - date published: 2024-05-07T19:36:56.737105+00:00
+ - user: None
+ - tags: []
+
+## Benchmarking Interpretability
+ - [https://benchmarking-interpretability.csail.mit.edu](https://benchmarking-interpretability.csail.mit.edu)
+ - date published: 2024-05-10T05:02:33.957574+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://biology.mit.edu](https://biology.mit.edu)
+ - date published: 2024-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar - MIT Events
+ - [https://calendar.mit.edu](https://calendar.mit.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Yuan Cao's Homepage
+ - [https://caoyuan.scripts.mit.edu](https://caoyuan.scripts.mit.edu)
+ - date published: 2024-01-09T01:37:28.741983+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [http://cap.csail.mit.edu](http://cap.csail.mit.edu)
+ - date published: 2024-05-07T19:33:54.697062+00:00
+ - user: None
+ - tags: []
+
+## Jobs at MIT Lincoln Laboratory
+ - [https://careers.ll.mit.edu](https://careers.ll.mit.edu)
+ - date published: 2024-05-07T19:38:14.314198+00:00
+ - user: None
+ - tags: []
+
+## Careers | MIT Human Resources
+ - [https://careers.mit.edu](https://careers.mit.edu)
+ - date published: 2024-05-07T19:37:57.410306+00:00
+ - user: None
+ - tags: []
+
+## Career Development Office | MIT Sloan School of Management
+ - [https://cdo.mit.edu](https://cdo.mit.edu)
+ - date published: 2024-05-07T19:35:56.496755+00:00
+ - user: None
+ - tags: []
+
+## MIT Department of Chemistry – Department of Chemistry at MIT
+ - [http://chemistry.mit.edu](http://chemistry.mit.edu)
+ - date published: 2024-05-07T19:37:10.613963+00:00
+ - user: None
+ - tags: []
+
+## Home | MIT Climate Portal
+ - [https://climate.mit.edu](https://climate.mit.edu)
+ - date published: 2023-10-25T18:53:47.317024+00:00
+ - user: None
+ - tags: []
+
+## Climate Science, Risk & Solutions
+ - [https://climateprimer.mit.edu](https://climateprimer.mit.edu)
+ - date published: 2024-05-07T19:33:25.203653+00:00
+ - user: None
+ - tags: []
+
+## Home - Club Sports
+ - [https://clubsports.mit.edu](https://clubsports.mit.edu)
+ - date published: 2024-05-07T19:36:47.705971+00:00
+ - user: None
+ - tags: []
+
+## Computational Cognitive Science – Department of Brain and Cognitive Sciences, MIT
+ - [http://cocosci.mit.edu](http://cocosci.mit.edu)
+ - date published: 2024-05-04T15:15:12.767805+00:00
+ - user: None
+ - tags: []
+
+## Institute Office of Communications | Massachusetts Institute of Technology
+ - [http://comms.mit.edu](http://comms.mit.edu)
+ - date published: 2024-05-07T19:36:20.409053+00:00
+ - user: None
+ - tags: []
+
+## MIT Schwarzman College of Computing
+ - [https://computing.mit.edu](https://computing.mit.edu)
+ - date published: 2024-05-07T19:33:59.330514+00:00
+ - user: None
+ - tags: []
+
+## courses.csail.mit.edu
+ - [https://courses.csail.mit.edu](https://courses.csail.mit.edu)
+ - date published: 2023-10-25T18:53:48.768679+00:00
+ - user: None
+ - tags: []
+
+## MIT CSAIL Computer Systems Security Group
+ - [http://css.csail.mit.edu](http://css.csail.mit.edu)
+ - date published: 2024-05-04T15:41:24.484045+00:00
+ - user: None
+ - tags: []
+
+## Home - Daper
+ - [https://daper.mit.edu](https://daper.mit.edu)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Introduction to Data-Centric AI
+ - [https://dcai.csail.mit.edu](https://dcai.csail.mit.edu)
+ - date published: 2023-10-25T18:53:49.969803+00:00
+ - user: None
+ - tags: []
+
+## MIT Digital Currency Initiative
+ - [http://dci.mit.edu](http://dci.mit.edu)
+ - date published: 2024-04-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman
+ - [https://deeplearning.mit.edu](https://deeplearning.mit.edu)
+ - date published: 2020-07-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Digital Humanities at MIT
+ - [https://digitalhumanities.mit.edu](https://digitalhumanities.mit.edu)
+ - date published: 2024-05-14T04:03:49.179662+00:00
+ - user: None
+ - tags: []
+
+## MIT Press
+ - [https://direct.mit.edu](https://direct.mit.edu)
+ - date published: 2023-10-25T18:53:52.060229+00:00
+ - user: None
+ - tags: []
+
+## DSpace@MIT Home
+ - [https://dspace.mit.edu](https://dspace.mit.edu)
+ - date published: 2023-10-25T18:53:53.742765+00:00
+ - user: None
+ - tags: []
+
+## Home | DUSP
+ - [https://dusp.mit.edu](https://dusp.mit.edu)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT EAPS
+ - [https://eaps.mit.edu](https://eaps.mit.edu)
+ - date published: 2024-05-01T08:10:08.595185+00:00
+ - user: None
+ - tags: []
+
+## MIT EAPS
+ - [https://eapsweb.mit.edu](https://eapsweb.mit.edu)
+ - date published: 2024-05-07T19:37:04.039158+00:00
+ - user: None
+ - tags: []
+
+## Home | MIT Edgerton Center
+ - [https://edgerton.mit.edu](https://edgerton.mit.edu)
+ - date published: 2024-04-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Miller Lab
+ - [https://ekmillerlab.mit.edu](https://ekmillerlab.mit.edu)
+ - date published: 2024-05-07T09:59:41.269970+00:00
+ - user: None
+ - tags: []
+
+## MIT ELO
+ - [https://elo.mit.edu](https://elo.mit.edu)
+ - date published: 2022-01-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT Emergency Information
+ - [https://emergency.mit.edu](https://emergency.mit.edu)
+ - date published: 2024-05-07T19:34:52.925624+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://energy.mit.edu](https://energy.mit.edu)
+ - date published: 2024-01-07T21:07:19.748100+00:00
+ - user: None
+ - tags: []
+
+## MIT School of Engineering |
+ - [https://engineering.mit.edu](https://engineering.mit.edu)
+ - date published: 2024-05-22T17:04:50.165812+00:00
+ - user: None
+ - tags: []
+
+## Enzyme AD
+ - [https://enzyme.mit.edu](https://enzyme.mit.edu)
+ - date published: 2024-05-08T09:43:46.491692+00:00
+ - user: None
+ - tags: []
+
+## Home | Environmental Solutions Initiative
+ - [https://esi.mit.edu](https://esi.mit.edu)
+ - date published: 2016-02-25T04:04:57+00:00
+ - user: None
+ - tags: []
+
+## MIT ESP - Home
+ - [https://esp.mit.edu](https://esp.mit.edu)
+ - date published: 2024-05-07T15:14:40.277505+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar - MIT Events
+ - [http://events.mit.edu](http://events.mit.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Data and Disruption: Mastering AI and Machine Learning for Finance
+ - [https://events.sloanreview.mit.edu](https://events.sloanreview.mit.edu)
+ - date published: 2024-03-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT Sloan Executive Education
+ - [https://exec.mit.edu](https://exec.mit.edu)
+ - date published: 2024-05-07T19:36:07.929560+00:00
+ - user: None
+ - tags: []
+
+## MIT Sloan Executive Education
+ - [https://executive.mit.edu](https://executive.mit.edu)
+ - date published: 2024-05-07T19:36:02.153097+00:00
+ - user: None
+ - tags: []
+
+## Fab Central
+ - [https://fab.cba.mit.edu](https://fab.cba.mit.edu)
+ - date published: 2023-10-25T18:53:54.780890+00:00
+ - user: None
+ - tags: []
+
+## GAN Dissection
+ - [http://gandissect.csail.mit.edu](http://gandissect.csail.mit.edu)
+ - date published: 2024-05-01T04:12:04.372408+00:00
+ - user: None
+ - tags: []
+
+## Home | Giving to MIT
+ - [https://giving.mit.edu](https://giving.mit.edu)
+ - date published: 2024-05-07T19:35:00.529936+00:00
+ - user: None
+ - tags: []
+
+## Research | MIT CSAIL
+ - [https://groups.csail.mit.edu](https://groups.csail.mit.edu)
+ - date published: 2023-11-25T21:49:19.475927+00:00
+ - user: None
+ - tags: []
+
+## Redirecting to Athena List Management
+ - [https://groups.mit.edu](https://groups.mit.edu)
+ - date published: 2024-05-09T08:40:06.387669+00:00
+ - user: None
+ - tags: []
+
+## Harvard Data Science Review
+ - [https://hdsr.mitpress.mit.edu](https://hdsr.mitpress.mit.edu)
+ - date published: 2024-05-07T19:53:34.562634+00:00
+ - user: None
+ - tags: []
+
+## Heiman Lab – Neuroscience Research at MIT
+ - [https://heiman.mit.edu](https://heiman.mit.edu)
+ - date published: 2017-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome | MIT Human Resources
+ - [https://hr.mit.edu](https://hr.mit.edu)
+ - date published: 2024-05-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MIT IDM - Integrated Design & Management
+ - [https://idm.mit.edu](https://idm.mit.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home Page - Intramural Sports
+ - [https://intramurals.mit.edu](https://intramurals.mit.edu)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 6.390 | IntroML | Spring24
+ - [https://introml.mit.edu](https://introml.mit.edu)
+ - date published: 2024-05-07T19:33:31.765414+00:00
+ - user: None
+ - tags: []
+
+## IPC | Innovation. Productivity. Competitiveness.
+ - [https://ipc.mit.edu](https://ipc.mit.edu)
+ - date published: 2024-05-07T10:00:20.661194+00:00
+ - user: None
+ - tags: []
+
+## The Knowledge Base - Home - Hermes
+ - [https://kb.mit.edu](https://kb.mit.edu)
+ - date published: 2024-05-01T06:45:16.815288+00:00
+ - user: None
+ - tags: []
+
+## Knowledge Futures
+ - [https://kfg.mit.edu](https://kfg.mit.edu)
+ - date published: 2024-05-07T19:35:26.291952+00:00
+ - user: None
+ - tags: []
+
+## La Casa: A cultural house at MIT
+ - [http://la-casa.mit.edu](http://la-casa.mit.edu)
+ - date published: 2024-05-04T15:41:23.439519+00:00
+ - user: None
+ - tags: []
+
 ## Future of Learning Group
  - [https://learning.media.mit.edu](https://learning.media.mit.edu)
  - date published: 2024-04-30T06:34:51.711918+00:00
@@ -5092,912 +5998,6 @@
 ## Stanford d.school
  - [https://dschool.stanford.edu](https://dschool.stanford.edu)
  - date published: 2024-05-01T04:14:47.181085+00:00
- - user: None
- - tags: []
-
-## Stanford Graduate School of Education
- - [https://ed.stanford.edu](https://ed.stanford.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## EE108A Redirect
- - [http://ee108a.stanford.edu](http://ee108a.stanford.edu)
- - date published: 2024-05-07T20:26:02.994318+00:00
- - user: None
- - tags: []
-
-## https://ee380.stanford.edu
- - [https://ee380.stanford.edu](https://ee380.stanford.edu)
- - date published: 2024-01-09T03:27:56.799112+00:00
- - user: None
- - tags: []
-
-## Emergency Information | Stanford University
- - [https://emergency.stanford.edu](https://emergency.stanford.edu)
- - date published: 2024-02-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford University School of Engineering
- - [https://engineering.stanford.edu](https://engineering.stanford.edu)
- - date published: 2024-05-07T20:25:33.144127+00:00
- - user: None
- - tags: []
-
-## Events Calendar
- - [https://events.stanford.edu](https://events.stanford.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford University Explore Courses
- - [https://explorecourses.stanford.edu](https://explorecourses.stanford.edu)
- - date published: 2024-05-06T23:12:41.668136+00:00
- - user: None
- - tags: []
-
-## Stanford University Bulletin
- - [https://exploredegrees.stanford.edu](https://exploredegrees.stanford.edu)
- - date published: 2024-05-07T20:25:19.667900+00:00
- - user: None
- - tags: []
-
-## Facts
- - [https://facts.stanford.edu](https://facts.stanford.edu)
- - date published: 2024-05-07T20:31:11.947829+00:00
- - user: None
- - tags: []
-
-## Faculty Affairs
- - [https://facultyaffairs-humsci.stanford.edu](https://facultyaffairs-humsci.stanford.edu)
- - date published: 2024-05-07T20:28:15.011247+00:00
- - user: None
- - tags: []
-
-## Stanford | Faculty Positions
- - [http://facultypositions.stanford.edu](http://facultypositions.stanford.edu)
- - date published: 2024-05-07T20:30:55.775515+00:00
- - user: None
- - tags: []
-
-## Log in | Finance
- - [https://finance-humsci.stanford.edu](https://finance-humsci.stanford.edu)
- - date published: 2024-05-07T20:28:13.020990+00:00
- - user: None
- - tags: []
-
-## Financial Aid : Stanford University
- - [https://financialaid.stanford.edu](https://financialaid.stanford.edu)
- - date published: 2024-05-07T20:31:00.088096+00:00
- - user: None
- - tags: []
-
-## Flash Teams | Home
- - [http://flashteams.stanford.edu](http://flashteams.stanford.edu)
- - date published: 2024-05-07T20:27:57.915742+00:00
- - user: None
- - tags: []
-
-## Computer Forum
- - [https://forum.stanford.edu](https://forum.stanford.edu)
- - date published: 2024-05-07T20:25:48.767557+00:00
- - user: None
- - tags: []
-
-## Freeman Spogli Institute for International Studies | FSI
- - [https://fsi.stanford.edu](https://fsi.stanford.edu)
- - date published: 2024-04-30T06:34:30.351718+00:00
- - user: None
- - tags: []
-
-## Neural Dynamics and Computation Lab
- - [http://ganguli-gang.stanford.edu](http://ganguli-gang.stanford.edu)
- - date published: 2024-04-29T05:14:11.707254+00:00
- - user: None
- - tags: []
-
-## Giving to Stanford
- - [https://giving.stanford.edu](https://giving.stanford.edu)
- - date published: 2024-05-07T20:31:07.160939+00:00
- - user: None
- - tags: []
-
-## Graduate Medical Education
- - [https://gme.stanford.edu](https://gme.stanford.edu)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford University
- - [https://goto.stanford.edu](https://goto.stanford.edu)
- - date published: 2024-05-11T11:23:51.995536+00:00
- - user: None
- - tags: []
-
-## Graduate Admissions
- - [https://gradadmissions.stanford.edu](https://gradadmissions.stanford.edu)
- - date published: 2024-05-07T20:31:13.620207+00:00
- - user: None
- - tags: []
-
-## Computer Graphics at Stanford University
- - [https://graphics.stanford.edu](https://graphics.stanford.edu)
- - date published: 2024-05-01T08:47:34.499825+00:00
- - user: None
- - tags: []
-
-## Join Stanford Alumni Groups
- - [https://groups.stanford.edu](https://groups.stanford.edu)
- - date published: 2024-05-07T20:31:24.482508+00:00
- - user: None
- - tags: []
-
-## Stanford Graduate School of Business
- - [http://gsb.stanford.edu](http://gsb.stanford.edu)
- - date published: 2024-05-07T20:30:37.947776+00:00
- - user: None
- - tags: []
-
-## stan-x
- - [http://gsc.stanford.edu](http://gsc.stanford.edu)
- - date published: 2024-05-11T10:40:37.394708+00:00
- - user: None
- - tags: []
-
-## Graduate and Undergraduate Studies
- - [https://gus-humsci.stanford.edu](https://gus-humsci.stanford.edu)
- - date published: 2024-05-07T20:28:07.640877+00:00
- - user: None
- - tags: []
-
-## Home | Stanford HAI
- - [https://hai.stanford.edu](https://hai.stanford.edu)
- - date published: 2023-10-25T18:58:24.324282+00:00
- - user: None
- - tags: []
-
-## Hazy Research
- - [https://hazyresearch.stanford.edu](https://hazyresearch.stanford.edu)
- - date published: 2023-10-25T18:58:25.276211+00:00
- - user: None
- - tags: []
-
-## Stanford HCI Group
- - [https://hci.stanford.edu](https://hci.stanford.edu)
- - date published: 2023-10-25T18:58:28.830172+00:00
- - user: None
- - tags: []
-
-## Facilities and Capital Planning
- - [https://hs-fcp.stanford.edu](https://hs-fcp.stanford.edu)
- - date published: 2024-05-07T20:28:05.744365+00:00
- - user: None
- - tags: []
-
-## Human Resources
- - [https://hshr.stanford.edu](https://hshr.stanford.edu)
- - date published: 2024-03-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Watch: Stanford's Nobel Laureates and MacArthur "Genius" Fellows tell their stories
- - [https://humsci.stanford.edu](https://humsci.stanford.edu)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Error - Stanford InfoLab Publication Server
- - [http://ilpubs.stanford.edu](http://ilpubs.stanford.edu)
- - date published: 2024-05-07T20:28:26.665839+00:00
- - user: None
- - tags: []
-
-## Stanford InfoBlog
- - [http://infoblog.stanford.edu](http://infoblog.stanford.edu)
- - date published: 2024-05-07T20:28:25.331690+00:00
- - user: None
- - tags: []
-
-## The Stanford University InfoLab
- - [http://infolab.stanford.edu](http://infolab.stanford.edu)
- - date published: 2023-10-25T11:23:23.038240+00:00
- - user: None
- - tags: []
-
-## Institute for Research in the Social Sciences
- - [https://iriss.stanford.edu](https://iriss.stanford.edu)
- - date published: 2024-05-07T20:27:24.746010+00:00
- - user: None
- - tags: []
-
-## The Stanford University InfoLab
- - [http://i.stanford.edu](http://i.stanford.edu)
- - date published: 2024-05-06T13:57:52.564082+00:00
- - user: None
- - tags: []
-
-## Information Technology
- - [https://it-humsci.stanford.edu](https://it-humsci.stanford.edu)
- - date published: 2024-05-07T20:28:10.966046+00:00
- - user: None
- - tags: []
-
-## Journalism Program
- - [http://journalism.stanford.edu](http://journalism.stanford.edu)
- - date published: 2024-05-12T07:12:43.597268+00:00
- - user: None
- - tags: []
-
-## The Martin Luther King, Jr. Research and Education Institute
- - [https://kinginstitute.stanford.edu](https://kinginstitute.stanford.edu)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Lane Medical Library - Stanford University School of Medicine
- - [http://lane.stanford.edu](http://lane.stanford.edu)
- - date published: 2024-05-07T20:28:56.494743+00:00
- - user: None
- - tags: []
-
-## Welcome to SLS - Stanford Law School
- - [https://law.stanford.edu](https://law.stanford.edu)
- - date published: 2023-10-25T18:58:32.350011+00:00
- - user: None
- - tags: []
-
-## Home | Learning for a Lifetime | Stanford Online
- - [https://learn.stanford.edu](https://learn.stanford.edu)
- - date published: 2023-12-06T21:05:55.624627+00:00
- - user: None
- - tags: []
-
-## Stanford Computer Science
- - [https://legacy.cs.stanford.edu](https://legacy.cs.stanford.edu)
- - date published: 2024-05-07T20:25:35.990328+00:00
- - user: None
- - tags: []
-
-## Legion Programming System
- - [https://legion.stanford.edu](https://legion.stanford.edu)
- - date published: 2024-05-01T08:47:17.322012+00:00
- - user: None
- - tags: []
-
-## Stanford Encyclopedia of Philosophy
- - [https://leibniz.stanford.edu](https://leibniz.stanford.edu)
- - date published: 2024-05-07T20:29:59.197924+00:00
- - user: None
- - tags: []
-
-## Library Hours
- - [https://library-hours.stanford.edu](https://library-hours.stanford.edu)
- - date published: 2024-05-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://library.stanford.edu](https://library.stanford.edu)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## System status : Stanford Libraries
- - [https://library-status.stanford.edu](https://library-status.stanford.edu)
- - date published: 2024-05-07T20:30:15.377119+00:00
- - user: None
- - tags: []
-
-## Lifelong Learning
- - [https://lifelonglearning.stanford.edu](https://lifelonglearning.stanford.edu)
- - date published: 2024-05-07T20:30:43.242040+00:00
- - user: None
- - tags: []
-
-## Mailman Mailing List Tools | University IT
- - [https://mailman.stanford.edu](https://mailman.stanford.edu)
- - date published: 2024-02-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Make a Gift to Stanford
- - [https://makeagift.stanford.edu](https://makeagift.stanford.edu)
- - date published: 2024-05-07T20:28:40.178797+00:00
- - user: None
- - tags: []
-
-## The Metaphysics Research Lab
- - [https://mally.stanford.edu](https://mally.stanford.edu)
- - date published: 2024-06-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford Math Circle Homepage | Math Circle
- - [https://mathcircle.spcs.stanford.edu](https://mathcircle.spcs.stanford.edu)
- - date published: 2024-05-07T20:28:51.703592+00:00
- - user: None
- - tags: []
-
-## Mathematics
- - [https://mathematics.stanford.edu](https://mathematics.stanford.edu)
- - date published: 2024-05-07T20:27:15.292737+00:00
- - user: None
- - tags: []
-
-## Mathematics
- - [https://math.stanford.edu](https://math.stanford.edu)
- - date published: 2024-01-09T03:28:00.216558+00:00
- - user: None
- - tags: []
-
-## Mechanics and Computation
- - [https://mechanics.stanford.edu](https://mechanics.stanford.edu)
- - date published: 2024-02-08T22:04:52.926061+00:00
- - user: None
- - tags: []
-
-## Search Jobs and Careers at Stanford Medicine
- - [https://medcareers.stanford.edu](https://medcareers.stanford.edu)
- - date published: 2024-05-07T20:29:29.404961+00:00
- - user: None
- - tags: []
-
-## Stanford Medical Center Development
- - [https://medicalgiving.stanford.edu](https://medicalgiving.stanford.edu)
- - date published: 2024-04-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Stanford Medicine
- - [https://med.stanford.edu](https://med.stanford.edu)
- - date published: 2023-10-25T18:58:38.098796+00:00
- - user: None
- - tags: []
-
-## Mathematics Research Center
- - [https://mrc.stanford.edu](https://mrc.stanford.edu)
- - date published: 2024-05-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Peay Lab
- - [https://mykophile.sites.stanford.edu](https://mykophile.sites.stanford.edu)
- - date published: 2024-05-07T20:29:35.313506+00:00
- - user: None
- - tags: []
-
-## Peay Lab
- - [https://mykophile.stanford.edu](https://mykophile.stanford.edu)
- - date published: 2024-02-08T17:49:51.490677+00:00
- - user: None
- - tags: []
-
-## My Library Account
- - [https://mylibrary.stanford.edu](https://mylibrary.stanford.edu)
- - date published: 2024-05-07T20:30:10.428354+00:00
- - user: None
- - tags: []
-
-## Welcome | Stanford Center for Professional Development
- - [https://mystanfordconnection.stanford.edu](https://mystanfordconnection.stanford.edu)
- - date published: 2024-05-10T05:42:30.487732+00:00
- - user: None
- - tags: []
-
-## Wu Tsai Neurosciences Institute
- - [https://neuroscience.stanford.edu](https://neuroscience.stanford.edu)
- - date published: 2024-03-26T02:45:55.000209+00:00
- - user: None
- - tags: []
-
-## Stanford News
- - [https://news.stanford.edu](https://news.stanford.edu)
- - date published: 2023-10-25T18:58:41.013599+00:00
- - user: None
- - tags: []
-
-## The Stanford Natural Language Processing Group
- - [https://nlp.stanford.edu](https://nlp.stanford.edu)
- - date published: 2024-04-28T04:06:49.432548+00:00
- - user: None
- - tags: []
-
-## Nondiscrimination Policy | Stanford University Bulletin
- - [https://non-discrimination.stanford.edu](https://non-discrimination.stanford.edu)
- - date published: 2024-05-07T20:25:38.478232+00:00
- - user: None
- - tags: []
-
-## Open Graph Benchmark
- - [https://ogb.stanford.edu](https://ogb.stanford.edu)
- - date published: 2024-05-10T05:02:40.166820+00:00
- - user: None
- - tags: []
-
-## Search - Online King Records Access (OKRA) - The Martin Luther King, Jr. Research and Education Institute
- - [http://okra.stanford.edu](http://okra.stanford.edu)
- - date published: 2024-05-07T20:28:38.974263+00:00
- - user: None
- - tags: []
-
-## Home | Learning for a Lifetime | Stanford Online
- - [https://online.stanford.edu](https://online.stanford.edu)
- - date published: 2024-05-07T20:31:03.543229+00:00
- - user: None
- - tags: []
-
-## The Stanford Open Policing Project
- - [https://openpolicing.stanford.edu](https://openpolicing.stanford.edu)
- - date published: 2024-05-12T07:12:21.236571+00:00
- - user: None
- - tags: []
-
-## Stanford OVAL — Home
- - [http://ovallab.stanford.edu](http://ovallab.stanford.edu)
- - date published: 2024-05-07T20:27:52.277393+00:00
- - user: None
- - tags: []
-
-## Stanford PACS - Scholars. Practitioners. Leaders.
- - [https://pacscenter.stanford.edu](https://pacscenter.stanford.edu)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Families | Stanford University
- - [http://parents.stanford.edu](http://parents.stanford.edu)
- - date published: 2024-05-07T20:30:58.519390+00:00
- - user: None
- - tags: []
-
-## Planning, Compliance, and Administrative Effectiveness
- - [https://planning-humsci.stanford.edu](https://planning-humsci.stanford.edu)
- - date published: 2024-05-07T20:28:18.024256+00:00
- - user: None
- - tags: []
-
-## Stanford Encyclopedia of Philosophy
- - [https://plato.stanford.edu](https://plato.stanford.edu)
- - date published: 2023-10-25T18:58:42.260186+00:00
- - user: None
- - tags: []
-
-## Office of Postdoctoral Affairs | All Postdocs. All the Time.
- - [https://postdocs.stanford.edu](https://postdocs.stanford.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford Pervasive Parallelism Lab
- - [http://ppl.stanford.edu](http://ppl.stanford.edu)
- - date published: 2024-05-07T20:26:11.039005+00:00
- - user: None
- - tags: []
-
-## Stanford Profiles | Stanford University
- - [https://profiles.stanford.edu](https://profiles.stanford.edu)
- - date published: 2024-05-07T20:26:42.824119+00:00
- - user: None
- - tags: []
-
-## Protégé: A free, open-source ontology editor for building intelligent systems
- - [https://protege.stanford.edu](https://protege.stanford.edu)
- - date published: 2023-11-10T17:29:05+00:00
- - user: None
- - tags: []
-
-## Protege Wiki
- - [http://protegewiki.stanford.edu](http://protegewiki.stanford.edu)
- - date published: 2024-05-11T06:56:44.468199+00:00
- - user: None
- - tags: []
-
-## Stanford Digital Repository
- - [https://purl.stanford.edu](https://purl.stanford.edu)
- - date published: 2023-12-20T21:10:16.425792+00:00
- - user: None
- - tags: []
-
-## Recreation and Wellness
- - [https://rec.stanford.edu](https://rec.stanford.edu)
- - date published: 2024-06-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## RegLab – Regulation, Evaluation, and Governance Lab
- - [https://reglab.stanford.edu](https://reglab.stanford.edu)
- - date published: 2024-05-07T20:26:38.059472+00:00
- - user: None
- - tags: []
-
-## RelBench: Relational Deep Learning Benchmark
- - [https://relbench.stanford.edu](https://relbench.stanford.edu)
- - date published: 2023-11-28T17:41:50.517585+00:00
- - user: None
- - tags: []
-
-## Research Administration
- - [https://researchadmin-humsci.stanford.edu](https://researchadmin-humsci.stanford.edu)
- - date published: 2024-05-07T20:28:09.314667+00:00
- - user: None
- - tags: []
-
-## Stanford Artificial Intelligence Laboratory
- - [http://robotics.stanford.edu](http://robotics.stanford.edu)
- - date published: 2024-05-06T14:18:13.958774+00:00
- - user: None
- - tags: []
-
-## Sebastian Thrun – Home
- - [http://robots.stanford.edu](http://robots.stanford.edu)
- - date published: 2023-10-25T18:58:43.127336+00:00
- - user: None
- - tags: []
-
-## Scope | Stanford Medicine's blog - Scope
- - [https://scopeblog.stanford.edu](https://scopeblog.stanford.edu)
- - date published: 2023-10-25T18:58:46.447141+00:00
- - user: None
- - tags: []
-
-## Home | Stanford Center for Professional Development
- - [https://scpd.stanford.edu](https://scpd.stanford.edu)
- - date published: 2024-05-10T05:42:33.589801+00:00
- - user: None
- - tags: []
-
-## SearchWorks catalog : Stanford Libraries
- - [https://searchworks.stanford.edu](https://searchworks.stanford.edu)
- - date published: 2024-04-28T04:01:12.524459+00:00
- - user: None
- - tags: []
-
-## Stanford Computer Security Laboratory
- - [http://seclab.stanford.edu](http://seclab.stanford.edu)
- - date published: 2024-05-11T09:26:26.634824+00:00
- - user: None
- - tags: []
-
-## Streamlit
- - [http://sequoia.stanford.edu](http://sequoia.stanford.edu)
- - date published: 2024-05-07T20:25:57.174366+00:00
- - user: None
- - tags: []
-
-## Stanford Engineering Research Introductions
- - [https://serio.stanford.edu](https://serio.stanford.edu)
- - date published: 2024-05-07T20:25:50.449760+00:00
- - user: None
- - tags: []
-
-## Global Studies
- - [https://sgs.stanford.edu](https://sgs.stanford.edu)
- - date published: 2024-05-07T20:29:39.266936+00:00
- - user: None
- - tags: []
-
-## shape lab - Stanford University
- - [http://shape.stanford.edu](http://shape.stanford.edu)
- - date published: 2024-05-07T20:28:03.440554+00:00
- - user: None
- - tags: []
-
-## SISL
- - [https://sisl.stanford.edu](https://sisl.stanford.edu)
- - date published: 2024-05-07T18:21:10.499838+00:00
- - user: None
- - tags: []
-
-## Office of Digital Accessibility | University IT
- - [https://soap.stanford.edu](https://soap.stanford.edu)
- - date published: 2024-02-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Sonnenburg Lab - Home
- - [https://sonnenburglab.stanford.edu](https://sonnenburglab.stanford.edu)
- - date published: 2024-04-30T06:44:47.569788+00:00
- - user: None
- - tags: []
-
-## Stanford Pre-Collegiate Studies
- - [https://spcs.stanford.edu](https://spcs.stanford.edu)
- - date published: 2024-05-07T20:28:49.474828+00:00
- - user: None
- - tags: []
-
-## Stacks
- - [https://stacks.stanford.edu](https://stacks.stanford.edu)
- - date published: 2023-10-25T18:58:47.620111+00:00
- - user: None
- - tags: []
-
-## Stanford University
- - [https://stanford.edu](https://stanford.edu)
- - date published: 2024-05-07T20:25:42.613680+00:00
- - user: None
- - tags: []
-
-## Stanford Directory
- - [https://stanfordwho.stanford.edu](https://stanfordwho.stanford.edu)
- - date published: 2024-05-07T20:30:46.785624+00:00
- - user: None
- - tags: []
-
-## Home - Stanford Medicine Magazine
- - [https://stanmed.stanford.edu](https://stanmed.stanford.edu)
- - date published: 2023-10-25T18:58:50.836757+00:00
- - user: None
- - tags: []
-
-## Topics in Computing for Data Science
- - [https://stats352.stanford.edu](https://stats352.stanford.edu)
- - date published: 2024-05-07T20:26:34.326988+00:00
- - user: None
- - tags: []
-
-## Student Affairs
- - [http://studentaffairs.stanford.edu](http://studentaffairs.stanford.edu)
- - date published: 2024-05-07T20:30:41.528356+00:00
- - user: None
- - tags: []
-
-## Student Services
- - [https://studentservices.stanford.edu](https://studentservices.stanford.edu)
- - date published: 2024-05-07T20:26:41.205717+00:00
- - user: None
- - tags: []
-
-## Home - Stanford Technology Ventures Program
- - [https://stvp.stanford.edu](https://stvp.stanford.edu)
- - date published: 2021-08-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## SUMaC Landing Page | Stanford Pre-Collegiate Studies
- - [https://sumac.spcs.stanford.edu](https://sumac.spcs.stanford.edu)
- - date published: 2024-05-07T20:28:46.734332+00:00
- - user: None
- - tags: []
-
-## SUMO - Stanford University Mathematical Organization
- - [http://sumo.stanford.edu](http://sumo.stanford.edu)
- - date published: 2024-04-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford Doerr School of Sustainability
- - [https://sustainability.stanford.edu](https://sustainability.stanford.edu)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stanford Vision and Learning Lab (SVL)
- - [http://svl.stanford.edu](http://svl.stanford.edu)
- - date published: 2024-04-28T04:07:30.809659+00:00
- - user: None
- - tags: []
-
-## University Communications
- - [https://ucomm.stanford.edu](https://ucomm.stanford.edu)
- - date published: 2024-05-07T20:29:43.038780+00:00
- - user: None
- - tags: []
-
-## University IT
- - [https://uit.stanford.edu](https://uit.stanford.edu)
- - date published: 2024-04-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Undergrad
- - [https://undergrad.stanford.edu](https://undergrad.stanford.edu)
- - date published: 2024-05-07T20:30:45.218714+00:00
- - user: None
- - tags: []
-
-## Mathematics
- - [http://virtualmath1.stanford.edu](http://virtualmath1.stanford.edu)
- - date published: 2024-04-30T07:48:23.930819+00:00
- - user: None
- - tags: []
-
-## Stanford Computer Vision Lab
- - [http://vision.stanford.edu](http://vision.stanford.edu)
- - date published: 2024-04-28T04:08:09.320253+00:00
- - user: None
- - tags: []
-
-## Visitor Information : Stanford University
- - [https://visit.stanford.edu](https://visit.stanford.edu)
- - date published: 2024-05-07T20:25:14.389278+00:00
- - user: None
- - tags: []
-
-## Office of the Vice Provost for Graduate Education
- - [https://vpge.stanford.edu](https://vpge.stanford.edu)
- - date published: 2024-05-07T20:30:48.488389+00:00
- - user: None
- - tags: []
-
-## Accreditation
- - [https://wasc.stanford.edu](https://wasc.stanford.edu)
- - date published: 2024-05-07T20:30:57.549717+00:00
- - user: None
- - tags: []
-
-## Stanford Snyder Lab, Genetics | Precision Medicine,
- - [http://wearables.stanford.edu](http://wearables.stanford.edu)
- - date published: 2024-05-08T10:28:43.358027+00:00
- - user: None
- - tags: []
-
-## Stanford University
- - [https://web.stanford.edu](https://web.stanford.edu)
- - date published: 2023-10-25T11:23:29.593797+00:00
- - user: None
- - tags: ['university']
-
-## Home | Wehab Lab - Stanford
- - [http://wehab.stanford.edu](http://wehab.stanford.edu)
- - date published: 2024-05-07T20:27:42.889052+00:00
- - user: None
- - tags: []
-
-## Well MD
- - [http://wellmd.stanford.edu](http://wellmd.stanford.edu)
- - date published: 2024-02-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## main | wilmap
- - [https://wilmap.law.stanford.edu](https://wilmap.law.stanford.edu)
- - date published: 2024-05-07T20:26:32.714479+00:00
- - user: None
- - tags: []
-
-## main | wilmap
- - [https://wilmap.stanford.edu](https://wilmap.stanford.edu)
- - date published: 2024-05-07T09:48:53.463655+00:00
- - user: None
- - tags: []
-
-## SLAC National Accelerator Laboratory | Bold people. Visionary science. Real impact.
- - [https://www6.slac.stanford.edu](https://www6.slac.stanford.edu)
- - date published: 2024-05-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://www-cs-faculty.stanford.edu](https://www-cs-faculty.stanford.edu)
- - date published: 2023-10-25T11:23:38.340991+00:00
- - user: None
- - tags: ['computer science', 'university']
-
-## Center for the Study of Language and Information
- - [https://www-csli.stanford.edu](https://www-csli.stanford.edu)
- - date published: 2024-05-07T20:26:36.420705+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [http://www-cs.stanford.edu](http://www-cs.stanford.edu)
- - date published: 2024-06-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://www.cs.stanford.edu](https://www.cs.stanford.edu)
- - date published: 2024-06-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Student Information
- - [http://www-cs-students.stanford.edu](http://www-cs-students.stanford.edu)
- - date published: 2024-03-24T15:03:46.903814+00:00
- - user: None
- - tags: []
-
-## Formal Reasoning Group
- - [https://www-formal.stanford.edu](https://www-formal.stanford.edu)
- - date published: 2023-10-25T18:59:01.363669+00:00
- - user: None
- - tags: []
-
-## Computer Graphics at Stanford University
- - [http://www.graphics.stanford.edu](http://www.graphics.stanford.edu)
- - date published: 2024-04-29T06:31:07.804860+00:00
- - user: None
- - tags: []
-
-## Stanford Graduate School of Business
- - [https://www.gsb.stanford.edu](https://www.gsb.stanford.edu)
- - date published: 2023-10-25T18:59:13.500246+00:00
- - user: None
- - tags: []
-
-## Home | Stanford Law School
- - [http://www.law.stanford.edu](http://www.law.stanford.edu)
- - date published: 2024-05-07T20:31:16.731405+00:00
- - user: None
- - tags: []
-
-## Stanford Secure Computer Systems Group
- - [https://www.scs.stanford.edu](https://www.scs.stanford.edu)
- - date published: 2023-10-25T18:59:15.431486+00:00
- - user: None
- - tags: []
-
-## Stanford University
- - [https://www.stanford.edu](https://www.stanford.edu)
- - date published: 2024-05-01T07:16:50.400332+00:00
- - user: None
- - tags: []
-
-## Department of Statistics
- - [http://www-stat.stanford.edu](http://www-stat.stanford.edu)
- - date published: 2024-05-07T15:26:10.370328+00:00
- - user: None
- - tags: []
-
-## Home
- - [http://www-vlsi.stanford.edu](http://www-vlsi.stanford.edu)
- - date published: 2024-05-07T20:25:58.546470+00:00
- - user: None
- - tags: []
-
-## Alumni Portal - Stevens Institute of Technology
- - [https://connect.stevens.edu](https://connect.stevens.edu)
- - date published: 2024-05-07T20:31:40.201309+00:00
- - user: None
- - tags: []
-
-## Stevens Institute of Technology
- - [https://ducklink.stevens.edu](https://ducklink.stevens.edu)
- - date published: 2024-05-07T20:31:35.443162+00:00
- - user: None
- - tags: []
-
-## Research Guides: Home: Home
- - [https://library.stevens.edu](https://library.stevens.edu)
- - date published: 2024-05-07T20:31:33.640131+00:00
- - user: None
- - tags: []
-
-## Stevens Institute of Technology - Sign In
- - [https://login.stevens.edu](https://login.stevens.edu)
- - date published: 2024-05-07T20:31:38.475638+00:00
- - user: None
- - tags: []
-
-## Stevens Institute of Technology
- - [https://www.stevens.edu](https://www.stevens.edu)
- - date published: 2023-11-02T13:02:30.527891+00:00
- - user: None
- - tags: []
-
-## St. John's Law Scholarship Repository | St. John's University School of Law Research
- - [https://scholarship.law.stjohns.edu](https://scholarship.law.stjohns.edu)
- - date published: 2024-03-01T13:48:16.671327+00:00
- - user: None
- - tags: []
-
-## Turn Passion into Purpose at St. John's University | New York, NY
- - [https://www.stjohns.edu](https://www.stjohns.edu)
- - date published: 2024-05-08T12:19:09.769369+00:00
- - user: None
- - tags: []
-
-## Home - St. John's College
- - [https://community.stjohnscollege.edu](https://community.stjohnscollege.edu)
- - date published: 2024-05-07T20:24:54.452245+00:00
- - user: None
- - tags: []
-
-## St. Lawrence University
- - [http://www.stlawu.edu](http://www.stlawu.edu)
- - date published: 2024-05-08T10:52:04.996530+00:00
  - user: None
  - tags: []
 

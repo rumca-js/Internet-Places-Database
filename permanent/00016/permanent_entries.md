@@ -1,3 +1,249 @@
+## Croteam - Croteam
+ - [http://www.croteam.com](http://www.croteam.com)
+ - date published: 2024-05-09T08:53:10.276799+00:00
+ - user: None
+ - tags: ['video game developer', 'serious sam', 'thalos principle']
+
+## Crowder Shop
+ - [https://crowdershop.com](https://crowdershop.com)
+ - date published: 2024-05-04T13:33:17.644010+00:00
+ - user: None
+ - tags: []
+
+## Crowdin
+ - [https://accounts.crowdin.com](https://accounts.crowdin.com)
+ - date published: 2024-05-10T04:14:22.848808+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Localization Management Platform for agile teams
+ - [https://ar.crowdin.com](https://ar.crowdin.com)
+ - date published: 2024-05-10T04:14:45.396601+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Платформа кіравання лакалізацыяй для гнуткіх каманд
+ - [https://be.crowdin.com](https://be.crowdin.com)
+ - date published: 2024-05-10T04:15:24.630756+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Plataforma de Gerenciamento de Localização para equipes ágeis
+ - [https://br.crowdin.com](https://br.crowdin.com)
+ - date published: 2024-05-10T04:15:15.725810+00:00
+ - user: None
+ - tags: []
+
+## Crowdin Community
+ - [https://community.crowdin.com](https://community.crowdin.com)
+ - date published: 2024-05-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Localization Management Platform for agile teams
+ - [https://crowdin.com](https://crowdin.com)
+ - date published: 2024-04-28T02:27:55.173669+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Platforma pro správu lokalizace pro agilní týmy
+ - [https://cs.crowdin.com](https://cs.crowdin.com)
+ - date published: 2024-05-10T04:14:31.066821+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Lokaliseringsstyringsplatform til fleksible teams
+ - [https://da.crowdin.com](https://da.crowdin.com)
+ - date published: 2024-05-10T04:14:35.957791+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Lokalisierungs-Management-Plattform für agile Teams
+ - [https://de.crowdin.com](https://de.crowdin.com)
+ - date published: 2024-05-10T04:14:50.795148+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Plataforma administrativa de localización para equipos ágiles
+ - [https://es.crowdin.com](https://es.crowdin.com)
+ - date published: 2024-05-10T04:15:00.696154+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Plate-forme de gestion de la localisation pour les équipes agiles
+ - [https://fr.crowdin.com](https://fr.crowdin.com)
+ - date published: 2024-05-10T04:15:31.642006+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Honosításkezelő platform az agilis csapatoknak
+ - [https://hu.crowdin.com](https://hu.crowdin.com)
+ - date published: 2024-05-10T04:15:18.695006+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Piattaforma di Gestione di Localizzazione per i team agili
+ - [https://it.crowdin.com](https://it.crowdin.com)
+ - date published: 2024-05-10T04:15:12.671444+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | 敏捷チーム向け現地語化管理プラットフォーム
+ - [https://ja.crowdin.com](https://ja.crowdin.com)
+ - date published: 2024-05-10T04:15:06.730404+00:00
+ - user: None
+ - tags: []
+
+## Crowdin Enterprise
+ - [https://joomla.crowdin.com](https://joomla.crowdin.com)
+ - date published: 2024-05-12T03:56:15.986478+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Wygodna platforma zarządzania tłumaczeniami dla zespołów
+ - [https://pl.crowdin.com](https://pl.crowdin.com)
+ - date published: 2024-05-10T04:14:53.644907+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Plataforma de Gestão de Localização para equipas ágeis
+ - [https://pt.crowdin.com](https://pt.crowdin.com)
+ - date published: 2024-05-10T04:15:09.723770+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Платформа управления локализацией для agile-команд
+ - [https://ru.crowdin.com](https://ru.crowdin.com)
+ - date published: 2024-05-10T04:15:27.544203+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Localization Management Platform for agile teams
+ - [https://sk.crowdin.com](https://sk.crowdin.com)
+ - date published: 2024-05-10T04:14:57.175668+00:00
+ - user: None
+ - tags: []
+
+## Crowdin Status Dashboard
+ - [https://status.crowdin.com](https://status.crowdin.com)
+ - date published: 2024-05-10T04:14:32.844082+00:00
+ - user: None
+ - tags: []
+
+## Discover the right solution to enhance Crowdin experience
+ - [https://store.crowdin.com](https://store.crowdin.com)
+ - date published: 2024-05-10T04:14:28.074303+00:00
+ - user: None
+ - tags: []
+
+## crwdns6970018:0Crowdincrwdne6970018:0
+ - [https://translate.crowdin.com](https://translate.crowdin.com)
+ - date published: 2024-05-10T04:14:47.981105+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Çevik ekipler için Yerelleştirme Yönetimi Platformu
+ - [https://tr.crowdin.com](https://tr.crowdin.com)
+ - date published: 2024-05-10T04:15:21.754811+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | Платформа управління локалізацією для гнучких команд
+ - [https://uk.crowdin.com](https://uk.crowdin.com)
+ - date published: 2024-05-10T04:15:03.682734+00:00
+ - user: None
+ - tags: []
+
+## Crowdin | 面向团队的本地化管理平台
+ - [https://zh.crowdin.com](https://zh.crowdin.com)
+ - date published: 2024-05-10T04:14:42.584644+00:00
+ - user: None
+ - tags: []
+
+## Crowdmade - The best merch from the creators you love
+ - [https://crowdmade.com](https://crowdmade.com)
+ - date published: 2024-05-04T06:17:32.983596+00:00
+ - user: None
+ - tags: []
+
+## Document
+ - [https://starling.crowdriff.com](https://starling.crowdriff.com)
+ - date published: 2024-05-11T11:20:29.583268+00:00
+ - user: None
+ - tags: []
+
+## CrowdStrike: Stop breaches. Drive business.
+ - [https://assets.crowdstrike.com](https://assets.crowdstrike.com)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CrowdStrike: Stop breaches. Drive business.
+ - [https://crowdstrike.com](https://crowdstrike.com)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CrowdStrike: Stop breaches. Drive business.
+ - [https://go.crowdstrike.com](https://go.crowdstrike.com)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CrowdStrike Marketplace Home | Partner Apps and Integrations
+ - [https://marketplace.crowdstrike.com](https://marketplace.crowdstrike.com)
+ - date published: 2024-05-13T03:58:20.711703+00:00
+ - user: None
+ - tags: []
+
+## CrowdStrike: Stop breaches. Drive business.
+ - [https://www.crowdstrike.com](https://www.crowdstrike.com)
+ - date published: 2024-04-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Crowd Supply - For the Greater Goods
+ - [https://www.crowdsupply.com](https://www.crowdsupply.com)
+ - date published: 2023-10-25T13:37:08.444119+00:00
+ - user: None
+ - tags: ['crowdfunding']
+
+## CrownPanel
+ - [https://crownpanel.com](https://crownpanel.com)
+ - date published: 2024-05-09T04:07:54.328967+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Crownpeak
+ - [https://www.crownpeak.com](https://www.crownpeak.com)
+ - date published: 2024-05-06T17:47:16.826259+00:00
+ - user: None
+ - tags: []
+
+## Crozdesk | Business Software Search
+ - [https://crozdesk.com](https://crozdesk.com)
+ - date published: 2024-05-06T20:46:40.972951+00:00
+ - user: None
+ - tags: []
+
+## DRAM, Solid State Drive (SSD) & Memory Upgrades
+ - [https://www.crucial.com](https://www.crucial.com)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['company', 'pc memory', 'hard drives']
+
+## CRUCIVERB.COM - Crossword Constructors Community Center
+ - [https://www.cruciverb.com](https://www.cruciverb.com)
+ - date published: 2024-05-08T07:00:50.987921+00:00
+ - user: None
+ - tags: []
+
+## crul
+ - [https://www.crul.com](https://www.crul.com)
+ - date published: 2023-10-25T13:37:14.796515+00:00
+ - user: None
+ - tags: []
+
 ## CRUMB | Circuit Simulator
  - [https://www.crumbsim.com](https://www.crumbsim.com)
  - date published: 2024-05-12T05:47:17.609045+00:00
@@ -1316,6 +1562,12 @@
 ## EventRsvp
  - [https://harvardclimatesymposium.cventevents.com](https://harvardclimatesymposium.cventevents.com)
  - date published: 2024-04-30T04:46:08.180720+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Simple and fast resume document generation with AI
+ - [https://cvgist.com](https://cvgist.com)
+ - date published: 2024-05-22T19:11:15+00:00
  - user: None
  - tags: []
 
@@ -4470,6 +4722,18 @@
  - user: None
  - tags: ['personal']
 
+## Hi, I'm Dave
+ - [https://davebitter.com](https://davebitter.com)
+ - date published: 2024-05-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hi, I'm Dave
+ - [https://www.davebitter.com](https://www.davebitter.com)
+ - date published: 2024-05-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## dave booda
  - [http://davebooda.com](http://davebooda.com)
  - date published: 2024-05-08T03:12:45.494681+00:00
@@ -5737,268 +6001,4 @@
  - date published: 2023-12-26T19:09:11.598264+00:00
  - user: None
  - tags: ['personal']
-
-## Dean Wesley Smith
- - [http://www.deanwesleysmith.com](http://www.deanwesleysmith.com)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dean Yeong
- - [https://deanyeong.com](https://deanyeong.com)
- - date published: 2023-11-29T13:55:26.477930+00:00
- - user: None
- - tags: ['personal']
-
-## Dean Yeong
- - [https://www.deanyeong.com](https://www.deanyeong.com)
- - date published: 2023-12-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dear Author
- - [http://dearauthor.com](http://dearauthor.com)
- - date published: 2024-05-08T06:36:31.608272+00:00
- - user: None
- - tags: []
-
-## Dear Producer - Amplifying the Voices of Producers
- - [https://dearproducer.com](https://dearproducer.com)
- - date published: 2023-10-25T13:46:48.900755+00:00
- - user: None
- - tags: []
-
-## Dear Website Owner
- - [https://dearwebsiteowner.com](https://dearwebsiteowner.com)
- - date published: 2024-05-06T18:17:08.936129+00:00
- - user: None
- - tags: []
-
-## Death by abstraction
- - [https://www.deathbyabstraction.com](https://www.deathbyabstraction.com)
- - date published: 2024-03-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Death by AI
- - [https://deathbyai.com](https://deathbyai.com)
- - date published: 2023-10-25T13:46:58.127418+00:00
- - user: None
- - tags: []
-
-## "DEATHLOOP” | Official Website | First-Person Action from Arkane Lyon
- - [https://deathloop.com](https://deathloop.com)
- - date published: 2024-05-09T13:52:10.837145+00:00
- - user: None
- - tags: ['video game']
-
-## IE11 end of support countdown
- - [https://death-to-ie11.com](https://death-to-ie11.com)
- - date published: 2024-05-06T13:50:17.240302+00:00
- - user: None
- - tags: []
-
-## https://www.debate-devil.com
- - [https://www.debate-devil.com](https://www.debate-devil.com)
- - date published: 2024-01-09T02:34:11.195175+00:00
- - user: None
- - tags: ['artificial intelligence bot']
-
-## Debbie Schlussel
- - [http://www.debbieschlussel.com](http://www.debbieschlussel.com)
- - date published: 2024-05-06T20:56:29.171164+00:00
- - user: None
- - tags: []
-
-## All posts | Archy de Berker
- - [https://archy.deberker.com](https://archy.deberker.com)
- - date published: 2023-10-25T13:47:02.854781+00:00
- - user: None
- - tags: []
-
-## Home | debjitbanerjee
- - [https://www.debjitbanerjee.com](https://www.debjitbanerjee.com)
- - date published: 2024-04-09T22:15:45.296646+00:00
- - user: None
- - tags: ['personal']
-
-## De Blauwe Tijger
- - [https://deblauwetijger.com](https://deblauwetijger.com)
- - date published: 2020-11-20T10:11:15+00:00
- - user: None
- - tags: []
-
-## Deborah Peacock Photography - Home
- - [http://deborahpeacock.com](http://deborahpeacock.com)
- - date published: 2024-05-01T04:19:22.395506+00:00
- - user: None
- - tags: []
-
-## Deborah Peacock Photography - Home
- - [https://www.deborahpeacock.com](https://www.deborahpeacock.com)
- - date published: 2024-01-13T04:52:40.631780+00:00
- - user: None
- - tags: []
-
-## Deborah Zhang
- - [https://deborahzhang.com](https://deborahzhang.com)
- - date published: 2024-01-09T01:38:17.640286+00:00
- - user: None
- - tags: []
-
-## Home - Debra Frasier
- - [https://www.debrafrasier.com](https://www.debrafrasier.com)
- - date published: 2024-05-10T06:15:03.654856+00:00
- - user: None
- - tags: []
-
-## Java, Debugging, DevOps & Open Source
- - [https://debugagent.com](https://debugagent.com)
- - date published: 2023-10-25T13:47:06.814636+00:00
- - user: None
- - tags: []
-
-## Monitor Page Speed and Core Web Vitals
- - [https://debugbear.com](https://debugbear.com)
- - date published: 2024-05-06T13:48:55.886541+00:00
- - user: None
- - tags: []
-
-## Catchy Comedy™ - Catch All The Laughs!
- - [https://www.decades.com](https://www.decades.com)
- - date published: 2024-05-07T14:18:31.403581+00:00
- - user: None
- - tags: []
-
-## Decameron Row Intro
- - [https://decameronrow.com](https://decameronrow.com)
- - date published: 2024-05-08T09:33:10.862354+00:00
- - user: None
- - tags: []
-
-## Decathlon | Move people through the wonders of sport | Decathlon
- - [https://www.decathlon.com](https://www.decathlon.com)
- - date published: 2023-10-25T13:47:16.336867+00:00
- - user: None
- - tags: []
-
-## Decathlon RDC
- - [https://www.decathlon-rdc.com](https://www.decathlon-rdc.com)
- - date published: 2024-04-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## decaturdaily.com | The Independent Voice of the Tennessee Valley since 1912
- - [https://www.decaturdaily.com](https://www.decaturdaily.com)
- - date published: 2023-11-05T17:32:42.494420+00:00
- - user: None
- - tags: []
-
-## ePaper | Read Deccan Herald Newspaper Online
- - [https://epaper.deccanherald.com](https://epaper.deccanherald.com)
- - date published: 2024-05-01T04:27:57.166891+00:00
- - user: None
- - tags: []
-
-## Gumlet- Media Optimization
- - [https://images.deccanherald.com](https://images.deccanherald.com)
- - date published: 2024-05-01T04:27:50.677961+00:00
- - user: None
- - tags: []
-
-## Latest News Today: Breaking News and Top Headlines from India, Politics, Bengaluru, Entertainment, Business and Sports
- - [https://www.deccanherald.com](https://www.deccanherald.com)
- - date published: 2023-10-25T13:47:18.731813+00:00
- - user: None
- - tags: []
-
-## John December johndecember.com December Communications
- - [http://www.december.com](http://www.december.com)
- - date published: 2023-12-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Decembersoft Inc.
- - [https://decembersoft.com](https://decembersoft.com)
- - date published: 2024-05-06T13:34:02.873731+00:00
- - user: None
- - tags: []
-
-## Décibulles - 12, 13 & 14 juillet 2024 - Vallée de Villé / Neuve-Eglise (67)
- - [https://www.decibulles.com](https://www.decibulles.com)
- - date published: 2024-05-08T00:40:05.868185+00:00
- - user: None
- - tags: []
-
-## Besluiten waarmee je groeit in impact op mens en omgeving
- - [https://decideforimpact.com](https://decideforimpact.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Decider
- - [https://decider.com](https://decider.com)
- - date published: 2023-11-27T11:27:44+00:00
- - user: None
- - tags: ['video streaming filter']
-
-## Email Newsletters | New York Post
- - [https://email.decider.com](https://email.decider.com)
- - date published: 2024-05-01T04:28:40.150073+00:00
- - user: None
- - tags: []
-
-## Decimal.
- - [https://decimalstudios.com](https://decimalstudios.com)
- - date published: 2024-03-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Decipad — Make sense of numbers
- - [https://alpha.decipad.com](https://alpha.decipad.com)
- - date published: 2024-05-01T04:28:47.765066+00:00
- - user: None
- - tags: []
-
-## Decipad — Make sense of numbers
- - [https://app.decipad.com](https://app.decipad.com)
- - date published: 2024-05-01T04:28:46.065960+00:00
- - user: None
- - tags: []
-
-## Decipad — Make sense of numbers
- - [https://decipad.com](https://decipad.com)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Decipad — Make sense of numbers
- - [https://www.decipad.com](https://www.decipad.com)
- - date published: 2023-10-25T13:47:20.389396+00:00
- - user: None
- - tags: []
-
-## The New Frontier of Experience & Research Technology | Forsta
- - [https://selfserve.decipherinc.com](https://selfserve.decipherinc.com)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://scrsbenefitscenter.decisely.com](https://scrsbenefitscenter.decisely.com)
- - date published: 2024-05-09T06:41:31.240752+00:00
- - user: None
- - tags: []
-
-## DECISION BRIEFS - Auth
- - [https://apps.decisionbriefs.com](https://apps.decisionbriefs.com)
- - date published: 2024-05-07T09:13:21.172656+00:00
- - user: None
- - tags: []
-
-## https://www.decisionproblem.com
- - [https://www.decisionproblem.com](https://www.decisionproblem.com)
- - date published: 2024-01-09T02:34:12.826076+00:00
- - user: None
- - tags: []
 

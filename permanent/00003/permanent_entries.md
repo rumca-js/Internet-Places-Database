@@ -1,3 +1,45 @@
+## Submit Form
+ - [https://forum.bell.ca](https://forum.bell.ca)
+ - date published: 2024-05-10T02:42:27.665768+00:00
+ - user: None
+ - tags: []
+
+## Careers at Bell Canada | Bell Canada jobs
+ - [https://jobs.bell.ca](https://jobs.bell.ca)
+ - date published: 2024-05-09T09:25:12.027936+00:00
+ - user: None
+ - tags: []
+
+## Learn how Bell Let’s Talk is creating positive change in Canada
+ - [https://letstalk.bell.ca](https://letstalk.bell.ca)
+ - date published: 2024-05-09T09:25:13.430154+00:00
+ - user: None
+ - tags: []
+
+## Requête rejetée / Request Rejected
+ - [http://marketingplatform.bell.ca](http://marketingplatform.bell.ca)
+ - date published: 2024-05-10T02:40:43.914850+00:00
+ - user: None
+ - tags: []
+
+## Manage your Bell services on the go
+ - [https://m.bell.ca](https://m.bell.ca)
+ - date published: 2024-05-10T02:42:31.686556+00:00
+ - user: None
+ - tags: []
+
+## Log in to MyBell
+ - [https://mybell.bell.ca](https://mybell.bell.ca)
+ - date published: 2024-05-10T02:42:35.513161+00:00
+ - user: None
+ - tags: []
+
+## Bell Soutien
+ - [https://soutien.bell.ca](https://soutien.bell.ca)
+ - date published: 2024-05-10T02:42:46.164028+00:00
+ - user: None
+ - tags: []
+
 ## https://support.bell.ca
  - [https://support.bell.ca](https://support.bell.ca)
  - date published: 2023-12-12T08:40:26.006400+00:00
@@ -69,6 +111,12 @@
  - date published: 2024-04-26T00:00:00+00:00
  - user: None
  - tags: []
+
+## ELIZABETH ADAMS / STUDIO CASSANDRA - Elizabeth Adams Studio Cassandra
+ - [http://www.bethadams.ca](http://www.bethadams.ca)
+ - date published: 2024-05-22T18:24:48.240436+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Buy Bitcoin Canada - Best Cryptocurrency Exchange | Bitbuy®
  - [https://bitbuy.ca](https://bitbuy.ca)
@@ -1146,6 +1194,12 @@
 ## HOME En - HOP TECH
  - [https://hoptech.ca](https://hoptech.ca)
  - date published: 2024-04-29T04:46:24.920472+00:00
+ - user: None
+ - tags: []
+
+## Hulse, Playfair & McGarry - Funeral Home & Cremation Services Ottawa
+ - [https://www.hpmcgarry.ca](https://www.hpmcgarry.ca)
+ - date published: 2024-05-22T02:38:13.072122+00:00
  - user: None
  - tags: []
 
@@ -2565,6 +2619,12 @@
  - user: None
  - tags: []
 
+## Spacing | Canadian Urbanism Uncovered
+ - [https://spacing.ca](https://spacing.ca)
+ - date published: 2024-05-22T12:49:56.686769+00:00
+ - user: None
+ - tags: []
+
 ## Toronto's City Gift Store
  - [https://spacingstore.ca](https://spacingstore.ca)
  - date published: 2024-04-30T05:10:42.771291+00:00
@@ -3976,6 +4036,12 @@
  - user: None
  - tags: []
 
+## UWSpace Home
+ - [https://uwspace.uwaterloo.ca](https://uwspace.uwaterloo.ca)
+ - date published: 2024-05-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## CSCWiki
  - [https://wiki.csclub.uwaterloo.ca](https://wiki.csclub.uwaterloo.ca)
  - date published: 2024-04-30T05:31:18.725502+00:00
@@ -4075,6 +4141,12 @@
 ## Centova Cast
  - [https://radio01.websavers.ca](https://radio01.websavers.ca)
  - date published: 2024-05-01T00:28:39.340823+00:00
+ - user: None
+ - tags: []
+
+## Wes Cook, Developer
+ - [https://wescook.ca](https://wescook.ca)
+ - date published: 2024-04-28T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5422,6 +5494,12 @@
  - user: None
  - tags: []
 
+## InterServer Live Chat
+ - [https://chat.is.cc](https://chat.is.cc)
+ - date published: 2024-05-22T02:48:25.983861+00:00
+ - user: None
+ - tags: []
+
 ## ITEAD STUDIO OFFICIAL
  - [https://itead.cc](https://itead.cc)
  - date published: 2024-05-01T02:45:12.519947+00:00
@@ -5924,84 +6002,6 @@
 ## Strudel: A live coding platform to write dynamic music pieces in the browser
  - [https://strudel.cc](https://strudel.cc)
  - date published: 2024-04-03T22:38:38+00:00
- - user: None
- - tags: []
-
-## Smashing Frames -
- - [https://tante.cc](https://tante.cc)
- - date published: 2023-10-25T12:11:37.232369+00:00
- - user: None
- - tags: []
-
-## Tiny URL | Free Short URL Redirects with Tinycc
- - [http://tiny.cc](http://tiny.cc)
- - date published: 2024-05-04T12:48:20.646193+00:00
- - user: None
- - tags: []
-
-## Free URL Shortener | Short Link Generator
- - [https://www.ttu.cc](https://www.ttu.cc)
- - date published: 2024-05-08T10:43:49.138547+00:00
- - user: None
- - tags: []
-
-## CC: Tweaked
- - [https://tweaked.cc](https://tweaked.cc)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Bootcamp
- - [https://bootcamp.uxdesign.cc](https://bootcamp.uxdesign.cc)
- - date published: 2023-10-25T12:11:44.625622+00:00
- - user: None
- - tags: []
-
-## UX Collective | Fabricio Teixeira | Substack
- - [https://newsletter.uxdesign.cc](https://newsletter.uxdesign.cc)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## UX Collective
- - [https://uxdesign.cc](https://uxdesign.cc)
- - date published: 2023-10-25T12:12:04.761668+00:00
- - user: None
- - tags: []
-
-## The V Programming Language (@vlang) | Veery
- - [https://vlang.veery.cc](https://vlang.veery.cc)
- - date published: 2023-07-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## web0 - Reader view page generator
- - [https://web0.cc](https://web0.cc)
- - date published: 2023-10-25T12:12:06.600910+00:00
- - user: None
- - tags: []
-
-## WeMake | Makerspace Fablab | WeMake | Makerspace Fablab
- - [http://wemake.cc](http://wemake.cc)
- - date published: 2024-05-08T11:14:16.187351+00:00
- - user: None
- - tags: []
-
-## WikiHouse
- - [https://cy.wikihouse.cc](https://cy.wikihouse.cc)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## WikiHouse
- - [https://www.wikihouse.cc](https://www.wikihouse.cc)
- - date published: 2023-10-25T12:12:08.973455+00:00
- - user: None
- - tags: []
-
-## Wonderment Proactive CX Platform. Shopify Post-Purchase & Order Tracking App for eCommerce
- - [https://www.wonderment.cc](https://www.wonderment.cc)
- - date published: 2024-05-06T14:50:14.397678+00:00
  - user: None
  - tags: []
 
