@@ -122,3 +122,14 @@ Might not be working. Used for development: [https://renegat0x0.ddns.net/apps/pl
 <div align="center">
   <img alt="Meme" src="images/bender.png">
 </div>
+
+# Roadmap
+
+- [x] Initial relase. Provide commonly used domains. YouTube, google, etc
+- [x] Define sources of data. Use indie web sources
+- [x] Define clean tag names, so that the database can easily be searched
+- [x] Advertise in indie web sources. Potentially: HN, reddit self-host, reddit web scraping forums. Amiga board. Nice, hackery places
+- [ ] Create a browser extension. The extension should provide domain info for each link. Provides rating according to page_rating, and since when page operates. The longer domain is active - the better
+- [ ] Secure funds for a organisation. Kickstarter?
+- [ ] Establish valid, simple domain for the project
+- [ ] Provide search ability for the database
