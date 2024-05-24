@@ -16,9 +16,10 @@ This is a database of Internet places. Mostly domains. Sometimes other things. T
 
  - malware sites
  - porn, casino, gambling etc.
- - IT infrastructure domains, CDN domains
  - analytic domains that are used for user surveillance
-
+ - IT infrastructure domains, CDN domains
+ - link shorteners. somethingsomething.lnk.to is not something useful. Main domain lnk.to is acceptable though
+  
 Some zen rules:
 
  - Anything not obeying the law will be removed from lists
