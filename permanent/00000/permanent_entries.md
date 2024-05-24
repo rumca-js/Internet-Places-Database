@@ -1756,6 +1756,12 @@
  - user: None
  - tags: []
 
+## Show HN: Open-Source Real Time Data Framework for LLM Applications
+ - [https://getindexify.ai](https://getindexify.ai)
+ - date published: 2024-05-23T19:33:30+00:00
+ - user: None
+ - tags: []
+
 ## Intelekt - Leading enterprise teams saved $100Mn+ with Intelekt AI
  - [https://www.getintelekt.ai](https://www.getintelekt.ai)
  - date published: 2024-05-08T06:21:28.572891+00:00
@@ -2103,6 +2109,12 @@
  - date published: 2023-10-25T09:01:03.717603+00:00
  - user: None
  - tags: ['personal']
+
+## Manage large scale Juju deployments with Jaas | Juju
+ - [https://jaas.ai](https://jaas.ai)
+ - date published: 2024-05-23T02:48:01.556101+00:00
+ - user: None
+ - tags: []
 
 ## Open-Source ChatGPT Alternative Jan
  - [https://jan.ai](https://jan.ai)
@@ -3165,6 +3177,12 @@
  - date published: 2019-01-01T00:00:00+00:00
  - user: rumpel
  - tags: ['wifi', 'hardware hacking']
+
+## Excel automation and Python code generation AI assistant | Pyoneer
+ - [https://pyoneer.ai](https://pyoneer.ai)
+ - date published: 2024-05-23T19:40:56.457405+00:00
+ - user: None
+ - tags: []
 
 ## Pyro
  - [http://pyro.ai](http://pyro.ai)
@@ -5074,6 +5092,12 @@
  - user: None
  - tags: []
 
+## eightpoint
+ - [https://eightpoint.app](https://eightpoint.app)
+ - date published: 2024-05-23T13:30:40.880013+00:00
+ - user: None
+ - tags: []
+
 ## harmy.link
  - [https://peertube-a5egg-u8148.vm.elestio.app](https://peertube-a5egg-u8148.vm.elestio.app)
  - date published: 2023-10-25T11:46:08.629410+00:00
@@ -5228,7 +5252,7 @@
  - [https://floorp.app](https://floorp.app)
  - date published: 2024-01-09T02:23:28.716049+00:00
  - user: None
- - tags: []
+ - tags: ['web browser']
 
 ## forms.app: Online Form Builder
  - [https://forms.app](https://forms.app)
@@ -5971,30 +5995,6 @@
 ## Bingus Bwamp’s Emporium of Enchanted Stones
  - [https://dnd-lamp-store.netlify.app](https://dnd-lamp-store.netlify.app)
  - date published: 2024-04-29T07:31:56.578472+00:00
- - user: None
- - tags: []
-
-## Eleventy Excellent
- - [https://eleventy-excellent.netlify.app](https://eleventy-excellent.netlify.app)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Epic Web Conf 2024 - by Adam Argyle
- - [https://epic-web-2024-at-property.netlify.app](https://epic-web-2024-at-property.netlify.app)
- - date published: 2024-04-30T02:02:05.853624+00:00
- - user: None
- - tags: []
-
-## FP Site
- - [https://francopasut.netlify.app](https://francopasut.netlify.app)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Hector Saldes
- - [https://hectorsaldes.netlify.app](https://hectorsaldes.netlify.app)
- - date published: 2024-05-11T10:07:52.935346+00:00
  - user: None
  - tags: []
 

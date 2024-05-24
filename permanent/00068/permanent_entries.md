@@ -1,3 +1,880 @@
+## Test Page for the HTTP Server on Fedora
+ - [https://repo-sam.inria.fr](https://repo-sam.inria.fr)
+ - date published: 2024-05-10T05:44:03.917525+00:00
+ - user: None
+ - tags: []
+
+## Team.inria.fr – Service d'hébergement pour sites d'équipe, équipe projet, équipe associée
+ - [https://team.inria.fr](https://team.inria.fr)
+ - date published: 2024-04-28T03:54:29.674190+00:00
+ - user: None
+ - tags: []
+
+## Accueil | Inria
+ - [https://www.inria.fr](https://www.inria.fr)
+ - date published: 2024-05-08T00:24:32.864587+00:00
+ - user: None
+ - tags: []
+
+## Centre Inria d'Université Côte d'Azur | Inria
+ - [https://www-sop.inria.fr](https://www-sop.inria.fr)
+ - date published: 2023-10-25T19:15:12.301697+00:00
+ - user: None
+ - tags: []
+
+## Inria Alumni - Vous avez une expérience Inria ? Rejoignez-nous !
+ - [https://www.inria-alumni.fr](https://www.inria-alumni.fr)
+ - date published: 2024-05-08T00:24:52.645824+00:00
+ - user: None
+ - tags: []
+
+## Accueil − Insee − Institut national de la statistique et des études économiques | Insee
+ - [https://www.insee.fr](https://www.insee.fr)
+ - date published: 2024-05-08T09:03:42.624724+00:00
+ - user: None
+ - tags: []
+
+## Intel | Solutions pour centres de données, IoT et innovation PC
+ - [https://www.intel.fr](https://www.intel.fr)
+ - date published: 2024-04-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## iPerf - The TCP, UDP and SCTP network bandwidth measurement tool
+ - [https://iperf.fr](https://iperf.fr)
+ - date published: 2024-05-11T05:40:56.606919+00:00
+ - user: None
+ - tags: []
+
+## ipfyx blog
+ - [https://ipfyx.fr](https://ipfyx.fr)
+ - date published: 2024-01-09T03:30:03.245945+00:00
+ - user: None
+ - tags: []
+
+## Institut de Physique Théorique
+ - [https://www.ipht.fr](https://www.ipht.fr)
+ - date published: 2024-05-12T05:14:52.226272+00:00
+ - user: None
+ - tags: []
+
+## Institut Polytechnique de Paris
+ - [https://www.ip-paris.fr](https://www.ip-paris.fr)
+ - date published: 2024-05-06T23:41:21.881077+00:00
+ - user: None
+ - tags: []
+
+## Le Laboratoire des Sciences du Climat et de l'Environnement
+ - [https://www.lsce.ipsl.fr](https://www.lsce.ipsl.fr)
+ - date published: 2024-05-12T05:15:15.559613+00:00
+ - user: None
+ - tags: []
+
+## École de commerce agroalimentaire et de la Naturalité à Avignon • Isema
+ - [https://www.isema.fr](https://www.isema.fr)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Accueil - Galerie Itinerrance
+ - [http://www.itinerrance.fr](http://www.itinerrance.fr)
+ - date published: 2024-05-04T08:27:53.757497+00:00
+ - user: None
+ - tags: []
+
+## Accueil | JCDecaux
+ - [http://www.jcdecaux.fr](http://www.jcdecaux.fr)
+ - date published: 2024-05-01T01:56:33.076681+00:00
+ - user: None
+ - tags: []
+
+## Joueurs Info Service
+ - [https://joueurs-info-service.fr](https://joueurs-info-service.fr)
+ - date published: 2024-05-11T07:35:50.370540+00:00
+ - user: None
+ - tags: []
+
+## Julien Brionne | Senior Product Manager
+ - [https://julien-brionne.fr](https://julien-brionne.fr)
+ - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Julien Brionne | Senior Product Manager
+ - [https://www.julien-brionne.fr](https://www.julien-brionne.fr)
+ - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Karmine Corp
+ - [http://karminecorp.fr](http://karminecorp.fr)
+ - date published: 2024-03-10T19:37:11.370900+00:00
+ - user: None
+ - tags: []
+
+## Karmine Corp
+ - [https://www.karminecorp.fr](https://www.karminecorp.fr)
+ - date published: 2024-05-09T06:24:52.621157+00:00
+ - user: None
+ - tags: []
+
+## Solutions de cybersécurité pour particuliers et entreprises | Kaspersky
+ - [https://www.kaspersky.fr](https://www.kaspersky.fr)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Kermorgant Photographie
+ - [https://kermorgant.fr](https://kermorgant.fr)
+ - date published: 2024-05-12T06:15:52.582228+00:00
+ - user: None
+ - tags: []
+
+## Index of /cours
+ - [https://kleinbauer.fr](https://kleinbauer.fr)
+ - date published: 2024-05-09T07:48:31.491891+00:00
+ - user: None
+ - tags: []
+
+## Accueil | Knds
+ - [https://www.knds.fr](https://www.knds.fr)
+ - date published: 2024-04-29T04:46:32.785522+00:00
+ - user: None
+ - tags: []
+
+## k-sper.fr – On joue à cache-cache ?
+ - [https://www.k-sper.fr](https://www.k-sper.fr)
+ - date published: 2024-04-10T18:33:12.013047+00:00
+ - user: None
+ - tags: []
+
+## Boutique Officielle Raspberry PI- Vente cartes Arduino, gaming et robotique
+ - [https://kubii.fr](https://kubii.fr)
+ - date published: 2023-12-11T17:25:33.070964+00:00
+ - user: None
+ - tags: []
+
+## Boutique Officielle Raspberry PI- Vente cartes Arduino, gaming et robotique
+ - [https://www.kubii.fr](https://www.kubii.fr)
+ - date published: 2024-05-10T04:12:11.993822+00:00
+ - user: None
+ - tags: []
+
+## Page d'accueil
+ - [https://www.labanquepostale.fr](https://www.labanquepostale.fr)
+ - date published: 2024-05-01T06:16:27.794578+00:00
+ - user: None
+ - tags: []
+
+## La bonne anime!
+ - [http://labonneanime.fr](http://labonneanime.fr)
+ - date published: 2024-05-08T00:16:19.254939+00:00
+ - user: None
+ - tags: []
+
+## https://dept-info.labri.fr
+ - [https://dept-info.labri.fr](https://dept-info.labri.fr)
+ - date published: 2024-01-09T03:30:03.853411+00:00
+ - user: None
+ - tags: []
+
+## La Coopérative des Internets - Agence numérique responsable à Lyon
+ - [https://www.lacooperativedesinternets.fr](https://www.lacooperativedesinternets.fr)
+ - date published: 2024-05-08T09:00:15.457605+00:00
+ - user: None
+ - tags: []
+
+## Lagardère Publicité News – Lagardère Publicité News est la régie publicitaire des marques Europe 1, Paris Match, Le Journal du Dimanche, Europe 2, RFM, OÜI FM (en Île-de-France), FG Radio (en Île-de-France et à Nice), Radio Meuh, Radio Public Santé et Replay New.
+ - [https://www.lagarderepublicitenews.fr](https://www.lagarderepublicitenews.fr)
+ - date published: 2024-05-08T00:23:43.353038+00:00
+ - user: None
+ - tags: []
+
+## Jeux en Ligne Gratuits - Lagged.fr
+ - [https://lagged.fr](https://lagged.fr)
+ - date published: 2024-05-04T11:46:14.775591+00:00
+ - user: None
+ - tags: []
+
+## Lalouvesc
+ - [https://www.lalouvesc.fr](https://www.lalouvesc.fr)
+ - date published: 2024-05-10T04:32:35.210579+00:00
+ - user: None
+ - tags: []
+
+## FAQ L'Identité Numérique
+ - [https://aide.lidentitenumerique.laposte.fr](https://aide.lidentitenumerique.laposte.fr)
+ - date published: 2024-05-01T06:41:50.054972+00:00
+ - user: None
+ - tags: []
+
+## https://www.lauragais-patrimoine.fr
+ - [https://www.lauragais-patrimoine.fr](https://www.lauragais-patrimoine.fr)
+ - date published: 2024-02-08T21:46:07.549352+00:00
+ - user: None
+ - tags: []
+
+## La Vie – Actualité, Débat, Christianisme, Idées, Débats, Spiritualité
+ - [https://www.lavie.fr](https://www.lavie.fr)
+ - date published: 2024-05-08T00:30:47.073894+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Lazard Frères Gestion  - France (EN)
+ - [https://www.lazardfreresgestion.fr](https://www.lazardfreresgestion.fr)
+ - date published: 2024-05-04T12:02:44.094032+00:00
+ - user: None
+ - tags: []
+
+## LBKE - From Data To Knowledge
+ - [https://www.lbke.fr](https://www.lbke.fr)
+ - date published: 2024-05-08T06:19:30.444146+00:00
+ - user: None
+ - tags: []
+
+## Lycée public, professionnel et technologique : de la Seconde à la licence à Paris 14
+ - [https://www.ldmraspail.fr](https://www.ldmraspail.fr)
+ - date published: 2024-05-07T10:04:22.550740+00:00
+ - user: None
+ - tags: []
+
+## leboncoin, site de petites annonces gratuites
+ - [https://www.leboncoin.fr](https://www.leboncoin.fr)
+ - date published: 2024-05-01T01:56:58.944333+00:00
+ - user: None
+ - tags: []
+
+## Le Coq de Wall Street – Investissement et Liberté Financière
+ - [https://lecoqdewallst.fr](https://lecoqdewallst.fr)
+ - date published: 2023-12-21T18:50:33.754796+00:00
+ - user: None
+ - tags: ['personal']
+
+## Espace Personnel Le Particulier - Connectez-vous à votre compte client
+ - [https://abo.leparticulier.lefigaro.fr](https://abo.leparticulier.lefigaro.fr)
+ - date published: 2024-05-08T00:25:37.163231+00:00
+ - user: None
+ - tags: []
+
+## Abonnement Le Figaro - Découvrez nos offres
+ - [https://abonnement.lefigaro.fr](https://abonnement.lefigaro.fr)
+ - date published: 2023-12-18T17:12:57.675595+00:00
+ - user: None
+ - tags: []
+
+## https://adresses-incontournables.madame.lefigaro.fr
+ - [https://adresses-incontournables.madame.lefigaro.fr](https://adresses-incontournables.madame.lefigaro.fr)
+ - date published: 2024-05-08T00:29:29.638843+00:00
+ - user: None
+ - tags: []
+
+## Publiez vos annonces légales avec Le Figaro au meilleur prix – Annonces légales du Figaro
+ - [https://annonces-legales.lefigaro.fr](https://annonces-legales.lefigaro.fr)
+ - date published: 2023-12-18T17:10:36.151946+00:00
+ - user: None
+ - tags: []
+
+## Trouvez et prenez rendez-vous avec votre médecin sur Le Figaro Santé
+ - [http://annuaire.lefigaro.fr](http://annuaire.lefigaro.fr)
+ - date published: 2024-05-02T10:13:56.458399+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://api-graphql.lefigaro.fr](https://api-graphql.lefigaro.fr)
+ - date published: 2023-12-18T17:11:36.827228+00:00
+ - user: None
+ - tags: []
+
+## Les applications du Figaro
+ - [https://applications-mobiles.lefigaro.fr](https://applications-mobiles.lefigaro.fr)
+ - date published: 2023-12-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro - Sitemap
+ - [https://articles.lefigaro.fr](https://articles.lefigaro.fr)
+ - date published: 2023-12-18T17:12:16.400645+00:00
+ - user: None
+ - tags: []
+
+## Welcome to nginx!
+ - [https://assets.proprietes.lefigaro.fr](https://assets.proprietes.lefigaro.fr)
+ - date published: 2024-05-08T00:30:08.178444+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro Vin : le guide vin pour tous - Le Figaro Vin
+ - [https://avis-vin.lefigaro.fr](https://avis-vin.lefigaro.fr)
+ - date published: 2023-12-18T17:18:03.724522+00:00
+ - user: None
+ - tags: []
+
+## L’hôpital, la santé des femmes et la révolution de l’IA au programme de l’édition 2023 du Big Bang Santé du Figaro
+ - [https://bigbang.lefigaro.fr](https://bigbang.lefigaro.fr)
+ - date published: 2024-05-08T00:25:56.216828+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro - Billetterie Spectacles
+ - [https://billetterie.lefigaro.fr](https://billetterie.lefigaro.fr)
+ - date published: 2023-12-18T17:11:39.808712+00:00
+ - user: None
+ - tags: []
+
+## Actualité Bourse & Conseils pour Investir - Le Figaro Bourse
+ - [https://bourse.lefigaro.fr](https://bourse.lefigaro.fr)
+ - date published: 2023-12-18T17:13:06.860206+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro Store - La boutique officielle du Groupe Figaro
+ - [https://boutique.lefigaro.fr](https://boutique.lefigaro.fr)
+ - date published: 2023-12-18T17:12:43.650240+00:00
+ - user: None
+ - tags: []
+
+## Accueil Boutique - La boutique - Le Particulier
+ - [https://boutique.leparticulier.lefigaro.fr](https://boutique.leparticulier.lefigaro.fr)
+ - date published: 2024-05-08T00:25:33.363795+00:00
+ - user: None
+ - tags: []
+
+## Campus-Channel – Projette-toi dans ta future école
+ - [https://campus.etudiant.lefigaro.fr](https://campus.etudiant.lefigaro.fr)
+ - date published: 2024-05-08T00:27:48.288762+00:00
+ - user: None
+ - tags: []
+
+## Classement des lycées 2024 - Figaro Etudiant
+ - [https://classement-lycees.etudiant.lefigaro.fr](https://classement-lycees.etudiant.lefigaro.fr)
+ - date published: 2024-05-08T00:27:18.441166+00:00
+ - user: None
+ - tags: []
+
+## Figaro Classifieds
+ - [https://classifieds.lefigaro.fr](https://classifieds.lefigaro.fr)
+ - date published: 2024-05-08T00:15:49.699751+00:00
+ - user: None
+ - tags: []
+
+## Espace Personnel Figaro - Connectez-vous à votre compte client
+ - [https://client.lefigaro.fr](https://client.lefigaro.fr)
+ - date published: 2023-12-18T17:19:09.607595+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro : Codes promo 100% valides en Décembre 2023
+ - [https://codespromo.lefigaro.fr](https://codespromo.lefigaro.fr)
+ - date published: 2023-12-18T17:11:29.520457+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro.fr - Connexion compte Figaro
+ - [https://connect.lefigaro.fr](https://connect.lefigaro.fr)
+ - date published: 2023-12-18T17:12:35.047801+00:00
+ - user: None
+ - tags: []
+
+## Actualité Bourse & Conseils pour Investir - Le Figaro Bourse
+ - [https://data-bourse.lefigaro.fr](https://data-bourse.lefigaro.fr)
+ - date published: 2024-05-08T00:25:31.309330+00:00
+ - user: None
+ - tags: []
+
+## Figaro Emploi : Offres d’emploi, Conseils et Actualités, Alertes, CV…
+ - [https://emploi.lefigaro.fr](https://emploi.lefigaro.fr)
+ - date published: 2023-12-18T17:18:25.289303+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro - Enchères – L'actualité des ventes aux enchères
+ - [http://encheres.lefigaro.fr](http://encheres.lefigaro.fr)
+ - date published: 2024-05-08T00:28:38.081777+00:00
+ - user: None
+ - tags: []
+
+## Les interviews TV Finance
+ - [https://entreprise-innovation.lefigaro.fr](https://entreprise-innovation.lefigaro.fr)
+ - date published: 2024-05-08T00:25:42.973746+00:00
+ - user: None
+ - tags: []
+
+## Annuaire Entreprises
+ - [https://entreprises.lefigaro.fr](https://entreprises.lefigaro.fr)
+ - date published: 2023-12-18T17:17:17.974319+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro Etudiant : Actualité, Conseils pour bien s'orienter
+ - [https://etudiant.lefigaro.fr](https://etudiant.lefigaro.fr)
+ - date published: 2023-12-18T17:17:40.140406+00:00
+ - user: None
+ - tags: []
+
+## Citation : les meilleures citations et proverbes célèbres
+ - [https://evene.lefigaro.fr](https://evene.lefigaro.fr)
+ - date published: 2023-12-18T17:11:08.890309+00:00
+ - user: None
+ - tags: []
+
+## Salons étudiants : Découvre tous nos salons Post Bac en France.
+ - [https://evenements.etudiant.lefigaro.fr](https://evenements.etudiant.lefigaro.fr)
+ - date published: 2024-05-08T00:30:17.415028+00:00
+ - user: None
+ - tags: []
+
+## Mode, Beauté, Recettes, Société, Horoscope, Célébrités
+ - [https://evenements.madame.lefigaro.fr](https://evenements.madame.lefigaro.fr)
+ - date published: 2024-05-08T00:29:36.985682+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro
+ - [https://faq.lefigaro.fr](https://faq.lefigaro.fr)
+ - date published: 2023-12-18T17:16:55.779804+00:00
+ - user: None
+ - tags: []
+
+## Forum Figaro
+ - [https://forum.lefigaro.fr](https://forum.lefigaro.fr)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Actu golf, résultats complets et classements en direct - Le Figaro Golf
+ - [https://golf.lefigaro.fr](https://golf.lefigaro.fr)
+ - date published: 2023-12-18T17:11:23.422903+00:00
+ - user: None
+ - tags: []
+
+## Guides d'achat : Avis et conseils pour bien choisir vos produits
+ - [https://guide-achat.lefigaro.fr](https://guide-achat.lefigaro.fr)
+ - date published: 2023-12-18T17:18:20.668762+00:00
+ - user: None
+ - tags: []
+
+## Annonces, Actualités et Conseils Immos
+ - [https://immobilier.lefigaro.fr](https://immobilier.lefigaro.fr)
+ - date published: 2023-12-18T17:12:11.950614+00:00
+ - user: None
+ - tags: []
+
+## Figaro Immo Pro
+ - [https://immobilierpro.lefigaro.fr](https://immobilierpro.lefigaro.fr)
+ - date published: 2015-05-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Jeux gratuits en ligne : Retrouvez vos jeux en ligne préférés
+ - [https://jeux.lefigaro.fr](https://jeux.lefigaro.fr)
+ - date published: 2024-05-08T00:25:19.324784+00:00
+ - user: None
+ - tags: []
+
+## Jours de France : toutes les actualités des célébrités à ne pas rater
+ - [http://joursdefrance.lefigaro.fr](http://joursdefrance.lefigaro.fr)
+ - date published: 2024-05-08T00:29:43.480162+00:00
+ - user: None
+ - tags: []
+
+## Les journaux et magazines numériques - Kiosque Figaro
+ - [https://kiosque.lefigaro.fr](https://kiosque.lefigaro.fr)
+ - date published: 2023-12-18T17:10:58.586113+00:00
+ - user: None
+ - tags: []
+
+## Le Particulier - N°1217 - mai 2024 - Le Particulier - Le Kiosque numérique
+ - [https://kiosque.leparticulier.lefigaro.fr](https://kiosque.leparticulier.lefigaro.fr)
+ - date published: 2024-05-08T00:25:44.950832+00:00
+ - user: None
+ - tags: []
+
+## Calendrier - Golf - Le Figaro
+ - [https://leaderboard-golf.lefigaro.fr](https://leaderboard-golf.lefigaro.fr)
+ - date published: 2024-05-08T00:28:53.151602+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro - Actualité en direct et informations en continu
+ - [https://lefigaro.fr](https://lefigaro.fr)
+ - date published: 2024-05-08T00:26:23.738870+00:00
+ - user: None
+ - tags: []
+
+## Actualité juridique, patrimoniale et pratique - Le Particulier
+ - [https://leparticulier.lefigaro.fr](https://leparticulier.lefigaro.fr)
+ - date published: 2023-12-18T17:11:13.659417+00:00
+ - user: None
+ - tags: []
+
+## Accueil
+ | Les Voyages F.
+ - [https://lesvoyagesf.lefigaro.fr](https://lesvoyagesf.lefigaro.fr)
+ - date published: 2023-12-18T17:17:44.021653+00:00
+ - user: None
+ - tags: []
+
+## Mode, Beauté, Recettes, Société, Horoscope, Célébrités
+ - [https://madame.lefigaro.fr](https://madame.lefigaro.fr)
+ - date published: 2023-12-18T17:11:19.044505+00:00
+ - user: None
+ - tags: []
+
+## VPN - Réseau Privé Virtuel : Sécurisez Votre Présence en Ligne
+ - [https://meilleurs-vpn.lefigaro.fr](https://meilleurs-vpn.lefigaro.fr)
+ - date published: 2023-12-18T17:18:30.074139+00:00
+ - user: None
+ - tags: []
+
+## mentions legales
+ - [https://mentions-legales.lefigaro.fr](https://mentions-legales.lefigaro.fr)
+ - date published: 2023-12-18T17:13:17.014023+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro.fr - Connexion compte Figaro
+ - [https://myaccount.lefigaro.fr](https://myaccount.lefigaro.fr)
+ - date published: 2023-12-18T17:10:53.910492+00:00
+ - user: None
+ - tags: []
+
+## Actualités Nautisme : l'actualité du nautisme au quotidien avec Figaro Nautisme
+ - [http://nautisme.lefigaro.fr](http://nautisme.lefigaro.fr)
+ - date published: 2024-05-02T10:13:46.734357+00:00
+ - user: None
+ - tags: []
+
+## Paris Sportifs LeFigaro
+ - [https://paris-sportifs.lefigaro.fr](https://paris-sportifs.lefigaro.fr)
+ - date published: 2024-05-08T00:28:55.320739+00:00
+ - user: None
+ - tags: []
+
+## Les plus belles photos du journal Le Figaro - Achat / Vente
+ - [https://photos.lefigaro.fr](https://photos.lefigaro.fr)
+ - date published: 2024-05-08T00:25:49.618327+00:00
+ - user: None
+ - tags: []
+
+## L'actualité en vidéo sur Figaro Live : politique, éco, international, culture…
+ - [https://player-video.lefigaro.fr](https://player-video.lefigaro.fr)
+ - date published: 2023-12-18T17:17:22.143286+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro - Actualité en direct et informations en continu
+ - [https://plus.lefigaro.fr](https://plus.lefigaro.fr)
+ - date published: 2023-12-18T17:18:48.210533+00:00
+ - user: None
+ - tags: []
+
+## LeFigaro - Les Podcasts du Figaro
+ - [https://podcasts.lefigaro.fr](https://podcasts.lefigaro.fr)
+ - date published: 2023-12-18T17:11:52.288692+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro - Actualité en direct et informations en continu
+ - [http://premium.lefigaro.fr](http://premium.lefigaro.fr)
+ - date published: 2024-05-08T00:28:04.317109+00:00
+ - user: None
+ - tags: []
+
+## Figaro Etudiant Pro
+ - [https://pro.etudiant.lefigaro.fr](https://pro.etudiant.lefigaro.fr)
+ - date published: 2024-05-08T00:27:45.799067+00:00
+ - user: None
+ - tags: []
+
+## Propriétés Le Figaro : immobilier de luxe, demeures et villas de charme
+ - [https://proprietes.lefigaro.fr](https://proprietes.lefigaro.fr)
+ - date published: 2023-12-18T17:16:50.549372+00:00
+ - user: None
+ - tags: []
+
+## Rechercher un article, une information, une archive — Le Figaro
+ - [https://recherche.lefigaro.fr](https://recherche.lefigaro.fr)
+ - date published: 2023-12-18T17:12:08.333757+00:00
+ - user: None
+ - tags: []
+
+## Figaro Recruteur
+ - [https://recruteur.lefigaro.fr](https://recruteur.lefigaro.fr)
+ - date published: 2024-05-08T00:26:26.091291+00:00
+ - user: None
+ - tags: []
+
+## Résultats du bac 2023: Résultats Officiels, Gratuits et par Académie
+ - [https://resultats.etudiant.lefigaro.fr](https://resultats.etudiant.lefigaro.fr)
+ - date published: 2023-12-18T17:13:02.793883+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro Santé - Actualité santé - Fiches et conseils médicaux
+ - [https://sante.lefigaro.fr](https://sante.lefigaro.fr)
+ - date published: 2023-12-18T17:13:11.599702+00:00
+ - user: None
+ - tags: []
+
+## Citation : les meilleures citations et proverbes célèbres
+ - [http://scope.lefigaro.fr](http://scope.lefigaro.fr)
+ - date published: 2024-05-08T00:28:23.820341+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro Sport - Actualité sportive et matchs en direct avec Sport24
+ - [https://sport24.lefigaro.fr](https://sport24.lefigaro.fr)
+ - date published: 2024-05-02T10:13:43.675974+00:00
+ - user: None
+ - tags: []
+
+## Programme TV : Tout le Programme Télé des chaînes – TV Magazine.
+ - [https://tvmag.lefigaro.fr](https://tvmag.lefigaro.fr)
+ - date published: 2023-12-18T17:18:34.682651+00:00
+ - user: None
+ - tags: []
+
+## L'actualité en vidéo sur Figaro Live : politique, éco, international, culture…
+ - [https://video.lefigaro.fr](https://video.lefigaro.fr)
+ - date published: 2023-12-18T17:17:31.575272+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro - Actualité en direct et informations en continu
+ - [https://www.lefigaro.fr](https://www.lefigaro.fr)
+ - date published: 2023-10-25T19:15:28.361007+00:00
+ - user: None
+ - tags: ['france news']
+
+## Home - Le Globe France
+ - [https://www.leglobefrance.fr](https://www.leglobefrance.fr)
+ - date published: 2024-04-30T06:42:54.264171+00:00
+ - user: None
+ - tags: []
+
+## Le Grand Trophée Dassault Histoire et Patrimoine
+ - [http://www.legrandtropheedesmonumentshistoriques.fr](http://www.legrandtropheedesmonumentshistoriques.fr)
+ - date published: 2024-05-08T00:30:12.826772+00:00
+ - user: None
+ - tags: []
+
+## Abonnement au Journal du Dimanche sans engagement | JDD numérique
+ - [https://abo.lejdd.fr](https://abo.lejdd.fr)
+ - date published: 2024-05-11T07:47:44.780908+00:00
+ - user: None
+ - tags: []
+
+## Abonnement au Journal du Dimanche sans engagement | JDD numérique
+ - [https://abonnement.lejdd.fr](https://abonnement.lejdd.fr)
+ - date published: 2024-05-11T07:47:48.116144+00:00
+ - user: None
+ - tags: []
+
+## Compte | JDD
+ - [https://profile.lejdd.fr](https://profile.lejdd.fr)
+ - date published: 2024-05-11T07:47:46.513283+00:00
+ - user: None
+ - tags: []
+
+## Actualités du jour | JDD
+ - [https://www.lejdd.fr](https://www.lejdd.fr)
+ - date published: 2024-03-18T12:33:59.768522+00:00
+ - user: None
+ - tags: []
+
+## LeMagIT | Toute l'information IT pour l'entreprise
+ - [https://www.lemagit.fr](https://www.lemagit.fr)
+ - date published: 2024-05-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Abonnement Le Monde : toutes nos formules et offres
+ - [https://abo.lemonde.fr](https://abo.lemonde.fr)
+ - date published: 2024-05-08T00:31:12.882672+00:00
+ - user: None
+ - tags: []
+
+## Cours d'allemand avec Wunderbla
+ - [https://allemand.lemonde.fr](https://allemand.lemonde.fr)
+ - date published: 2024-05-08T00:31:11.551763+00:00
+ - user: None
+ - tags: []
+
+## Cours d'anglais en ligne avec Gymglish
+ - [https://anglais.lemonde.fr](https://anglais.lemonde.fr)
+ - date published: 2024-05-08T00:30:35.596331+00:00
+ - user: None
+ - tags: []
+
+## Annonces légales
+ - [https://annonces-legales.lemonde.fr](https://annonces-legales.lemonde.fr)
+ - date published: 2024-05-08T00:30:27.582008+00:00
+ - user: None
+ - tags: []
+
+## Jeux gratuits en ligne : jouez gratuitement ici | LE MONDE
+ - [https://arcade.lemonde.fr](https://arcade.lemonde.fr)
+ - date published: 2024-05-08T00:30:30.915439+00:00
+ - user: None
+ - tags: []
+
+## Les ateliers du Monde : sélection d'ateliers et cours par la rédaction du Monde
+ - [https://ateliers.lemonde.fr](https://ateliers.lemonde.fr)
+ - date published: 2024-05-08T00:30:37.271187+00:00
+ - user: None
+ - tags: []
+
+## La boutique du Monde
+ - [https://boutique.lemonde.fr](https://boutique.lemonde.fr)
+ - date published: 2024-05-08T00:30:40.888527+00:00
+ - user: None
+ - tags: []
+
+## Avis de décès dans Le Monde, Hommage, Anniversaire de décès, naissance… Publier une annonce dans le journal
+ - [https://carnet.lemonde.fr](https://carnet.lemonde.fr)
+ - date published: 2024-05-08T00:30:31.875709+00:00
+ - user: None
+ - tags: []
+
+## Club Med, des séjours tout compris d’exception
+ - [https://club-med-sejours-tout-compris.lemonde.fr](https://club-med-sejours-tout-compris.lemonde.fr)
+ - date published: 2024-05-08T00:30:43.336137+00:00
+ - user: None
+ - tags: []
+
+## Découvrir Québec
+ - [https://decouvrir-quebec.lemonde.fr](https://decouvrir-quebec.lemonde.fr)
+ - date published: 2024-05-08T00:30:33.615079+00:00
+ - user: None
+ - tags: []
+
+## Dubrovnik Riviera, la beauté à chaque pas
+ - [https://dubrovnik-riviera-terre-aventure.lemonde.fr](https://dubrovnik-riviera-terre-aventure.lemonde.fr)
+ - date published: 2024-05-08T00:31:02.641373+00:00
+ - user: None
+ - tags: []
+
+## Cours d'espagnol avec Hotel Borbollón
+ - [https://espagnol.lemonde.fr](https://espagnol.lemonde.fr)
+ - date published: 2024-05-08T00:30:45.046174+00:00
+ - user: None
+ - tags: []
+
+## Le Monde événements abonnés
+ - [https://evenements-abonnes.lemonde.fr](https://evenements-abonnes.lemonde.fr)
+ - date published: 2010-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cours d'italien avec Saga Baldoria
+ - [https://italien.lemonde.fr](https://italien.lemonde.fr)
+ - date published: 2024-05-08T00:31:19.463475+00:00
+ - user: None
+ - tags: []
+
+## Jardinage, maison et animaux avec Le Monde et Binette & Jardin
+ - [https://jardinage.lemonde.fr](https://jardinage.lemonde.fr)
+ - date published: 2024-05-08T00:30:48.991134+00:00
+ - user: None
+ - tags: []
+
+## Le Monde Jeux : mots croisés, mini mots croisés et sudoku
+ - [https://jeux.lemonde.fr](https://jeux.lemonde.fr)
+ - date published: 2024-05-08T00:31:01.237782+00:00
+ - user: None
+ - tags: []
+
+## Le Monde
+ - [https://journal.lemonde.fr](https://journal.lemonde.fr)
+ - date published: 2024-05-08T00:30:58.145789+00:00
+ - user: None
+ - tags: []
+
+## Cours de langues en ligne | Gymglish
+ - [https://langues.lemonde.fr](https://langues.lemonde.fr)
+ - date published: 2024-05-08T00:30:50.273794+00:00
+ - user: None
+ - tags: []
+
+## Le Monde - Toute l’actualité en continu
+ - [https://lemonde.fr](https://lemonde.fr)
+ - date published: 2024-05-08T00:30:52.342009+00:00
+ - user: None
+ - tags: []
+
+## Le Monde
+ - [https://moncompte.lemonde.fr](https://moncompte.lemonde.fr)
+ - date published: 2024-05-08T00:30:54.879690+00:00
+ - user: None
+ - tags: []
+
+## Paroles de Chansons : Paroles et traductions de vos chansons préférées
+ - [https://paroles2chansons.lemonde.fr](https://paroles2chansons.lemonde.fr)
+ - date published: 2024-05-08T00:31:00.108704+00:00
+ - user: None
+ - tags: []
+
+## Progresser en orthographe et grammaire avec Le Monde
+ - [https://progresser-orthographe.lemonde.fr](https://progresser-orthographe.lemonde.fr)
+ - date published: 2024-05-08T00:31:21.199637+00:00
+ - user: None
+ - tags: []
+
+## Le Monde.fr - Actualités et Infos en France et dans le monde
+ - [https://www.lemonde.fr](https://www.lemonde.fr)
+ - date published: 2023-10-25T10:30:38.809449+00:00
+ - user: None
+ - tags: []
+
+## Julien's DevRel corner
+ - [https://lengrand.fr](https://lengrand.fr)
+ - date published: 2023-10-25T19:15:29.943632+00:00
+ - user: None
+ - tags: []
+
+## Actualités en direct et info en continu - Le Parisien
+ - [https://www.leparisien.fr](https://www.leparisien.fr)
+ - date published: 2024-05-06T22:49:15.455779+00:00
+ - user: None
+ - tags: []
+
+## Le Parpaing
+ - [https://leparpaing.fr](https://leparpaing.fr)
+ - date published: 2023-12-11T16:19:17.858879+00:00
+ - user: None
+ - tags: []
+
+## Portail vide - Rubriques
+ - [https://partenaire.leparticulier.fr](https://partenaire.leparticulier.fr)
+ - date published: 2024-05-08T00:25:38.047096+00:00
+ - user: None
+ - tags: []
+
+## Le Ruby Nouveau
+ - [https://lerubynouveau.fr](https://lerubynouveau.fr)
+ - date published: 2017-08-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Accueil | Société Française d'Allergologie
+ - [https://sfa.lesallergies.fr](https://sfa.lesallergies.fr)
+ - date published: 2022-10-21T07:45:00+00:00
+ - user: None
+ - tags: []
+
+## Les Echos : actualités en direct, Économie, Finance, Marchés, Politique, Entreprises, Start-up
+ - [https://www.lesechos.fr](https://www.lesechos.fr)
+ - date published: 2024-05-07T15:34:04.731797+00:00
+ - user: None
+ - tags: []
+
+## lesenechal.fr
+ - [https://lesenechal.fr](https://lesenechal.fr)
+ - date published: 2023-10-25T19:15:30.524166+00:00
+ - user: None
+ - tags: []
+
 ## Les Foliweb - Des événements pour réussir avec internet
  - [https://lesfoliweb.fr](https://lesfoliweb.fr)
  - date published: 2024-02-13T00:00:00+00:00
@@ -614,6 +1491,12 @@
 ## BOING Attitude, prenez le fun!
  - [http://boing.attitude.online.fr](http://boing.attitude.online.fr)
  - date published: 2024-01-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## BOING Attitude, have fun!
+ - [http://glames.online.fr](http://glames.online.fr)
+ - date published: 2024-05-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5114,890 +5997,6 @@
 ## BIS SNAP-R Exporter Web Application
  - [https://snapr.bis.doc.gov](https://snapr.bis.doc.gov)
  - date published: 2024-05-08T02:45:19.861609+00:00
- - user: None
- - tags: []
-
-## BIS Website
- - [https://www.bis.doc.gov](https://www.bis.doc.gov)
- - date published: 2023-10-25T19:20:19.432638+00:00
- - user: None
- - tags: []
-
-## Office of Inspector General
- - [https://www.oig.doc.gov](https://www.oig.doc.gov)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [http://www.osec.doc.gov](http://www.osec.doc.gov)
- - date published: 2024-05-08T02:34:56.127351+00:00
- - user: None
- - tags: []
-
-## Home — DOE Directives, Guidance, and Delegations
- - [https://www.directives.doe.gov](https://www.directives.doe.gov)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://revenuedata.doi.gov](https://revenuedata.doi.gov)
- - date published: 2024-05-06T17:11:57.313027+00:00
- - user: None
- - tags: []
-
-## U.S. Department of the Interior
- - [https://www.doi.gov](https://www.doi.gov)
- - date published: 2024-05-01T08:10:33.171434+00:00
- - user: None
- - tags: []
-
-## Attention Required! | Cloudflare
- - [https://dojmt.gov](https://dojmt.gov)
- - date published: 2024-05-01T03:34:43.583096+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://blog.dol.gov](https://blog.dol.gov)
- - date published: 2024-05-08T02:45:41.015499+00:00
- - user: None
- - tags: []
-
-## Redirect
- - [https://webapps.dol.gov](https://webapps.dol.gov)
- - date published: 2024-05-08T02:45:31.998974+00:00
- - user: None
- - tags: []
-
-## Home | U.S. Department of Labor
- - [https://www.dol.gov](https://www.dol.gov)
- - date published: 2023-10-25T19:20:24.712207+00:00
- - user: None
- - tags: []
-
-## Office of Inspector General - U.S. Department of Labor
- - [https://www.oig.dol.gov](https://www.oig.dol.gov)
- - date published: 2024-05-08T02:35:04.001248+00:00
- - user: None
- - tags: []
-
-## Federal Highway Administration
- - [https://highways.dot.gov](https://highways.dot.gov)
- - date published: 2023-10-25T19:20:28.006537+00:00
- - user: None
- - tags: []
-
-## Home - LTBP InfoBridge
- - [https://infobridge.fhwa.dot.gov](https://infobridge.fhwa.dot.gov)
- - date published: 2024-05-08T02:45:55.684362+00:00
- - user: None
- - tags: []
-
-## Manual on Uniform Traffic Control Devices (MUTCD) - FHWA
- - [https://mutcd.fhwa.dot.gov](https://mutcd.fhwa.dot.gov)
- - date published: 2024-01-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## FHWA Operations
- - [https://ops.fhwa.dot.gov](https://ops.fhwa.dot.gov)
- - date published: 2024-05-08T02:45:57.636581+00:00
- - user: None
- - tags: []
-
-## Federal Railroad Administration
- - [https://railroads.dot.gov](https://railroads.dot.gov)
- - date published: 2024-05-12T07:28:45.336733+00:00
- - user: None
- - tags: []
-
-## Safety | FHWA
- - [https://safety.fhwa.dot.gov](https://safety.fhwa.dot.gov)
- - date published: 2024-05-16T02:46:44.197723+00:00
- - user: None
- - tags: []
-
-## Departmental Office of Civil Rights | US Department of Transportation
- - [https://www.civilrights.dot.gov](https://www.civilrights.dot.gov)
- - date published: 2024-05-08T02:45:53.154137+00:00
- - user: None
- - tags: []
-
-## Federal Highway Administration
- - [https://www.fhwa.dot.gov](https://www.fhwa.dot.gov)
- - date published: 2024-03-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Federal Motor Carrier Safety Administration
- - [https://www.fmcsa.dot.gov](https://www.fmcsa.dot.gov)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Maritime Administration
- - [https://www.maritime.dot.gov](https://www.maritime.dot.gov)
- - date published: 2024-05-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## National Highway Institute | Home
- - [https://www.nhi.fhwa.dot.gov](https://www.nhi.fhwa.dot.gov)
- - date published: 2024-05-08T02:45:59.170449+00:00
- - user: None
- - tags: []
-
-## Home | NHTSA
- - [http://www-odi.nhtsa.dot.gov](http://www-odi.nhtsa.dot.gov)
- - date published: 2024-05-11T08:19:23.304550+00:00
- - user: None
- - tags: []
-
-## Home | DOT OIG
- - [https://www.oig.dot.gov](https://www.oig.dot.gov)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pipeline and Hazardous Materials Safety Administration
- - [https://www.phmsa.dot.gov](https://www.phmsa.dot.gov)
- - date published: 2024-04-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Great Lakes St. Lawrence Seaway Development Corporation
- - [https://www.seaway.dot.gov](https://www.seaway.dot.gov)
- - date published: 2024-03-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Federal Transit Administration
- - [https://www.transit.dot.gov](https://www.transit.dot.gov)
- - date published: 2024-04-05T18:55:53.475581+00:00
- - user: None
- - tags: []
-
-## Volpe National Transportation Systems Center
- - [https://www.volpe.dot.gov](https://www.volpe.dot.gov)
- - date published: 2024-05-12T07:28:22.709985+00:00
- - user: None
- - tags: []
-
-## eCFR :: Home
- - [https://www.ecfr.gov](https://www.ecfr.gov)
- - date published: 2024-05-08T02:42:51.227890+00:00
- - user: None
- - tags: []
-
-## ERIC - Education Resources Information Center
- - [https://eric.ed.gov](https://eric.ed.gov)
- - date published: 2024-05-07T19:53:36.033515+00:00
- - user: None
- - tags: []
-
-## ERIC - Education Resources Information Center
- - [https://files.eric.ed.gov](https://files.eric.ed.gov)
- - date published: 2023-10-25T19:20:29.057582+00:00
- - user: None
- - tags: []
-
-## Institute of Education Sciences (IES) Home Page, a part of the U.S. Department of Education
- - [https://ies.ed.gov](https://ies.ed.gov)
- - date published: 2024-05-07T19:54:14.677362+00:00
- - user: None
- - tags: []
-
-## National Center for Education Statistics (NCES) Home Page, a part of the U.S. Department of Education
- - [http://nces.ed.gov](http://nces.ed.gov)
- - date published: 2024-05-06T22:29:55.958117+00:00
- - user: None
- - tags: []
-
-## Office of Postsecondary Education Home Page
- - [https://ope.ed.gov](https://ope.ed.gov)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | U.S. Department of Education
- - [https://www2.ed.gov](https://www2.ed.gov)
- - date published: 2024-05-01T02:34:26.077407+00:00
- - user: None
- - tags: []
-
-## Home | U.S. Department of Education
- - [https://www.ed.gov](https://www.ed.gov)
- - date published: 2024-05-01T03:34:33.489344+00:00
- - user: None
- - tags: []
-
-## Home | U.S. Equal Employment Opportunity Commission
- - [https://www.eeoc.gov](https://www.eeoc.gov)
- - date published: 2024-05-07T16:28:20.229903+00:00
- - user: None
- - tags: []
-
-## U.S. Energy Atlas
- - [https://atlas.eia.gov](https://atlas.eia.gov)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Energy Information Administration - EIA's Information Releases website.
- - [https://ir.eia.gov](https://ir.eia.gov)
- - date published: 2010-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Homepage - U.S. Energy Information Administration (EIA)
- - [https://www.eia.gov](https://www.eia.gov)
- - date published: 2023-10-25T19:20:38.108192+00:00
- - user: None
- - tags: []
-
-## Home - Employer
- - [https://www.employer.gov](https://www.employer.gov)
- - date published: 2024-03-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.ems.gov](https://www.ems.gov)
- - date published: 2024-05-11T08:19:21.530909+00:00
- - user: None
- - tags: []
-
-## EERE: Alternative Fuels Data Center Home Page
- - [https://afdc.energy.gov](https://afdc.energy.gov)
- - date published: 2024-05-04T06:43:18.836933+00:00
- - user: None
- - tags: []
-
-## Home | arpa-e.energy.gov
- - [https://arpa-e.energy.gov](https://arpa-e.energy.gov)
- - date published: 2024-04-08T02:53:34.873809+00:00
- - user: None
- - tags: []
-
-## Department of Energy
- - [http://energy.gov](http://energy.gov)
- - date published: 2024-05-08T02:34:22.427943+00:00
- - user: None
- - tags: []
-
-## Office of Science
- - [http://science.energy.gov](http://science.energy.gov)
- - date published: 2024-05-08T02:34:25.433029+00:00
- - user: None
- - tags: []
-
-## Department of Energy
- - [https://www.energy.gov](https://www.energy.gov)
- - date published: 2023-10-25T19:20:40.502538+00:00
- - user: None
- - tags: []
-
-## ENERGY STAR
- - [https://www.energystar.gov](https://www.energystar.gov)
- - date published: 2024-05-06T21:01:14.066636+00:00
- - user: None
- - tags: []
-
-## EPA en español | US EPA
- - [https://espanol.epa.gov](https://espanol.epa.gov)
- - date published: 2014-09-23T14:46:39+00:00
- - user: None
- - tags: []
-
-## U.S. Environmental Protection Agency | US EPA
- - [https://www.epa.gov](https://www.epa.gov)
- - date published: 2023-10-25T19:20:46.144373+00:00
- - user: None
- - tags: []
-
-## Region Map - EPA OSC Response
- - [https://www.response.epa.gov](https://www.response.epa.gov)
- - date published: 2024-05-12T05:16:19.215303+00:00
- - user: None
- - tags: []
-
-## EPA OIG Homepage | Office of Inspector General OIG
- - [https://www.epaoig.gov](https://www.epaoig.gov)
- - date published: 2024-05-08T02:46:11.239997+00:00
- - user: None
- - tags: []
-
-## Airport Data and Information Portal
- - [https://adip.faa.gov](https://adip.faa.gov)
- - date published: 2024-05-18T02:46:54.289460+00:00
- - user: None
- - tags: []
-
-## FAA: Aircraft Registration
- - [https://amsrvs.registry.faa.gov](https://amsrvs.registry.faa.gov)
- - date published: 2024-05-18T02:46:57.231739+00:00
- - user: None
- - tags: []
-
-## Dynamic Regulatory System
- - [https://drs.faa.gov](https://drs.faa.gov)
- - date published: 2024-05-18T02:47:03.110448+00:00
- - user: None
- - tags: []
-
-## National Airspace System
- - [https://nasstatus.faa.gov](https://nasstatus.faa.gov)
- - date published: 2024-05-18T02:46:55.956966+00:00
- - user: None
- - tags: []
-
-## Federal Aviation Administration: NOTAM Search
- - [https://pilotweb.nas.faa.gov](https://pilotweb.nas.faa.gov)
- - date published: 2024-05-18T02:47:05.377897+00:00
- - user: None
- - tags: []
-
-## FAA: Aircraft Registration
- - [https://registry.faa.gov](https://registry.faa.gov)
- - date published: 2024-05-18T02:46:52.687988+00:00
- - user: None
- - tags: []
-
-## Federal Aviation Administration - Graphic TFR's
- - [https://tfr.faa.gov](https://tfr.faa.gov)
- - date published: 2024-05-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Federal Aviation Administration
- - [https://www.faa.gov](https://www.faa.gov)
- - date published: 2023-10-25T11:20:33.122723+00:00
- - user: None
- - tags: ['aviation', 'avionics', 'do-178c', 'aerospace', 'do-178b']
-
-## https://www.fly.faa.gov
- - [https://www.fly.faa.gov](https://www.fly.faa.gov)
- - date published: 2024-01-09T03:30:25.266620+00:00
- - user: None
- - tags: []
-
-## Safer Skies Through Education - FAA - FAASTeam - FAASafety.gov
- - [https://www.faasafety.gov](https://www.faasafety.gov)
- - date published: 2024-05-06T22:41:18.822982+00:00
- - user: None
- - tags: []
-
-## Fairfax County Homepage | Fairfax County
- - [https://www.fairfaxcounty.gov](https://www.fairfaxcounty.gov)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Redirecting to FARA eFile
- - [https://efile.fara.gov](https://efile.fara.gov)
- - date published: 2024-04-29T03:11:57.177817+00:00
- - user: None
- - tags: []
-
-## Homepage | Fatherhood.gov
- - [https://fatherhood.gov](https://fatherhood.gov)
- - date published: 2023-12-29T00:50:12.445423+00:00
- - user: None
- - tags: []
-
-## Home :: NRFC Virtual Collaborative Community (powered by Entrepid™)
- - [https://learningcommunity.fatherhood.gov](https://learningcommunity.fatherhood.gov)
- - date published: 2024-05-08T02:46:18.873125+00:00
- - user: None
- - tags: []
-
-## Homepage | Fatherhood.gov
- - [https://www.fatherhood.gov](https://www.fatherhood.gov)
- - date published: 2024-08-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Delivery - FBI Email Delivery
- - [https://delivery.fbi.gov](https://delivery.fbi.gov)
- - date published: 2024-05-08T02:46:44.235761+00:00
- - user: None
- - tags: []
-
-## Welcome to fbi.gov | Federal Bureau of Investigation
- - [https://fbi.gov](https://fbi.gov)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## FBI Multimedia
- - [https://images.fbi.gov](https://images.fbi.gov)
- - date published: 2024-05-08T02:46:48.196040+00:00
- - user: None
- - tags: []
-
-## Welcome to the LEB website — LEB
- - [https://leb.fbi.gov](https://leb.fbi.gov)
- - date published: 2023-10-25T10:47:03.596512+00:00
- - user: None
- - tags: []
-
-## le.fbi.gov | Law Enforcement
- - [https://le.fbi.gov](https://le.fbi.gov)
- - date published: 2024-05-08T02:46:50.069398+00:00
- - user: None
- - tags: []
-
-## Welcome to fbi.gov — FBI
- - [https://www.fbi.gov](https://www.fbi.gov)
- - date published: 2023-10-25T19:20:52.514388+00:00
- - user: None
- - tags: ['fbi', 'government', 'crime']
-
-## Home for FBI Careers | FBIJOBS
- - [https://www.fbijobs.gov](https://www.fbijobs.gov)
- - date published: 2024-05-08T02:46:47.175680+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [https://docs.fcc.gov](https://docs.fcc.gov)
- - date published: 2023-10-25T19:20:53.694947+00:00
- - user: None
- - tags: []
-
-## Application Error Page
- - [https://fjallfoss.fcc.gov](https://fjallfoss.fcc.gov)
- - date published: 2024-05-08T02:47:01.274682+00:00
- - user: None
- - tags: []
-
-## Home - FCC Public Inspection Files
- - [https://publicfiles.fcc.gov](https://publicfiles.fcc.gov)
- - date published: 2024-03-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Federal Communications Commission
- - [https://transition.fcc.gov](https://transition.fcc.gov)
- - date published: 2024-05-08T02:46:59.545855+00:00
- - user: None
- - tags: []
-
-## Urban Rate Survey Data & Resources
- - [https://urs.fcc.gov](https://urs.fcc.gov)
- - date published: 2024-05-08T02:46:57.299501+00:00
- - user: None
- - tags: []
-
-## Federal Communications Commission | The United States of America
- - [https://www.fcc.gov](https://www.fcc.gov)
- - date published: 2023-10-25T19:21:01.719932+00:00
- - user: None
- - tags: []
-
-## U.S. Food and Drug Administration
- - [https://www.fda.gov](https://www.fda.gov)
- - date published: 2023-10-25T19:21:05.422596+00:00
- - user: None
- - tags: []
-
-## FDIC Information and Support Center
- - [https://ask.fdic.gov](https://ask.fdic.gov)
- - date published: 2024-05-08T02:47:28.390448+00:00
- - user: None
- - tags: []
-
-## BankFind Suite: API for Data Miners & Developers
- - [https://banks.data.fdic.gov](https://banks.data.fdic.gov)
- - date published: 2024-05-08T02:47:10.941774+00:00
- - user: None
- - tags: []
-
-## FDIC: Electronic Deposit Insurance Estimator (EDIE)
- - [https://edie.fdic.gov](https://edie.fdic.gov)
- - date published: 2024-04-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## FDIC: Federal Deposit Insurance Corporation
- - [https://www.fdic.gov](https://www.fdic.gov)
- - date published: 2023-10-25T19:21:19.392966+00:00
- - user: None
- - tags: []
-
-## FDIC OIG Homepage | Federal Deposit Insurance Corporation OIG
- - [https://www.fdicoig.gov](https://www.fdicoig.gov)
- - date published: 2024-04-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - FEC.gov
- - [https://www.fec.gov](https://www.fec.gov)
- - date published: 2024-05-07T11:01:11.558133+00:00
- - user: None
- - tags: []
-
-## Federal Register
-       :: 
-      Home - Wednesday, October 25th
- - [https://www.federalregister.gov](https://www.federalregister.gov)
- - date published: 2023-10-25T19:21:22.351422+00:00
- - user: None
- - tags: ['federal documents']
-
-## OIG: Office of Inspector General
- - [https://oig.federalreserve.gov](https://oig.federalreserve.gov)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Federal Reserve Board - Home
- - [https://www.federalreserve.gov](https://www.federalreserve.gov)
- - date published: 2023-10-25T19:21:25.826382+00:00
- - user: None
- - tags: []
-
-## Federal Reserve Consumer Help
- - [https://www.federalreserveconsumerhelp.gov](https://www.federalreserveconsumerhelp.gov)
- - date published: 2024-05-08T02:47:30.521319+00:00
- - user: None
- - tags: []
-
-## FedRAMP Marketplace
- - [https://marketplace.fedramp.gov](https://marketplace.fedramp.gov)
- - date published: 2024-05-02T12:56:59.067248+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.fehrm.gov](https://www.fehrm.gov)
- - date published: 2024-05-08T12:13:52.825601+00:00
- - user: None
- - tags: []
-
-## FEMA: Multihazard Information Platform
- - [https://hazards.fema.gov](https://hazards.fema.gov)
- - date published: 2024-05-08T06:46:51.564414+00:00
- - user: None
- - tags: []
-
-## FEMA.gov
- - [https://www.fema.gov](https://www.fema.gov)
- - date published: 2023-10-25T19:21:33.460504+00:00
- - user: None
- - tags: []
-
-## BOI E-FILING
- - [https://boiefiling.fincen.gov](https://boiefiling.fincen.gov)
- - date published: 2024-05-08T02:47:40.382907+00:00
- - user: None
- - tags: []
-
-## United States Department of the Treasury Financial Crimes Enforcement Network | FinCEN.gov
- - [https://www.fincen.gov](https://www.fincen.gov)
- - date published: 2023-10-25T19:21:37.717717+00:00
- - user: None
- - tags: []
-
-## First Responder Training System
- - [https://www.firstrespondertraining.gov](https://www.firstrespondertraining.gov)
- - date published: 2024-05-08T02:47:39.284946+00:00
- - user: None
- - tags: []
-
-## Florida Health Care Complaint Portal
- - [https://www.flhealthcomplaint.gov](https://www.flhealthcomplaint.gov)
- - date published: 2024-05-08T02:48:09.035592+00:00
- - user: None
- - tags: []
-
-## Home - FL HealthSource • Health Care Resources for Consumers & Providers
- - [https://flhealthsource.gov](https://flhealthsource.gov)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - FL HealthSource • Health Care Resources for Consumers & Providers
- - [https://www.flhealthsource.gov](https://www.flhealthsource.gov)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Alachua
- - [https://alachua.floridahealth.gov](https://alachua.floridahealth.gov)
- - date published: 2024-05-08T02:50:02.837754+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Baker
- - [https://baker.floridahealth.gov](https://baker.floridahealth.gov)
- - date published: 2024-05-08T02:49:28.286003+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Bay
- - [https://bay.floridahealth.gov](https://bay.floridahealth.gov)
- - date published: 2024-05-08T02:47:59.569608+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Bradford
- - [https://bradford.floridahealth.gov](https://bradford.floridahealth.gov)
- - date published: 2024-05-08T02:50:31.483877+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Brevard
- - [https://brevard.floridahealth.gov](https://brevard.floridahealth.gov)
- - date published: 2024-05-08T02:49:15.945107+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Broward
- - [https://broward.floridahealth.gov](https://broward.floridahealth.gov)
- - date published: 2024-05-08T02:48:48.965608+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Calhoun
- - [https://calhoun.floridahealth.gov](https://calhoun.floridahealth.gov)
- - date published: 2024-05-08T02:49:31.701751+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Charlotte
- - [https://charlotte.floridahealth.gov](https://charlotte.floridahealth.gov)
- - date published: 2024-05-08T02:49:36.072980+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Citrus
- - [https://citrus.floridahealth.gov](https://citrus.floridahealth.gov)
- - date published: 2024-05-08T02:49:55.658136+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Clay
- - [https://clay.floridahealth.gov](https://clay.floridahealth.gov)
- - date published: 2024-05-08T02:48:46.493895+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Collier
- - [https://collier.floridahealth.gov](https://collier.floridahealth.gov)
- - date published: 2024-05-08T02:49:25.812015+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Columbia
- - [https://columbia.floridahealth.gov](https://columbia.floridahealth.gov)
- - date published: 2024-05-08T02:50:10.152307+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Desoto
- - [https://desoto.floridahealth.gov](https://desoto.floridahealth.gov)
- - date published: 2024-05-08T02:48:15.906721+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Dixie
- - [https://dixie.floridahealth.gov](https://dixie.floridahealth.gov)
- - date published: 2024-05-08T02:50:38.726428+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Duval
- - [https://duval.floridahealth.gov](https://duval.floridahealth.gov)
- - date published: 2024-05-08T02:49:58.240167+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Escambia
- - [https://escambia.floridahealth.gov](https://escambia.floridahealth.gov)
- - date published: 2024-05-08T02:50:12.168072+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Flagler
- - [https://flagler.floridahealth.gov](https://flagler.floridahealth.gov)
- - date published: 2024-05-08T02:49:45.361877+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Franklin
- - [https://franklin.floridahealth.gov](https://franklin.floridahealth.gov)
- - date published: 2024-05-08T02:50:14.560811+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Gadsden
- - [https://gadsden.floridahealth.gov](https://gadsden.floridahealth.gov)
- - date published: 2024-05-08T02:48:20.619149+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Gilchrist
- - [https://gilchrist.floridahealth.gov](https://gilchrist.floridahealth.gov)
- - date published: 2024-05-08T02:50:04.735553+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Glades
- - [https://glades.floridahealth.gov](https://glades.floridahealth.gov)
- - date published: 2024-05-08T02:50:43.075054+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Gulf
- - [https://gulf.floridahealth.gov](https://gulf.floridahealth.gov)
- - date published: 2024-05-08T02:47:47.666958+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Hamilton
- - [https://hamilton.floridahealth.gov](https://hamilton.floridahealth.gov)
- - date published: 2024-05-08T02:49:42.884375+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Hardee
- - [https://hardee.floridahealth.gov](https://hardee.floridahealth.gov)
- - date published: 2024-05-08T02:49:49.550370+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Hendry
- - [https://hendry.floridahealth.gov](https://hendry.floridahealth.gov)
- - date published: 2024-05-08T02:48:30.104891+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Hernando
- - [https://hernando.floridahealth.gov](https://hernando.floridahealth.gov)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Highlands
- - [https://highlands.floridahealth.gov](https://highlands.floridahealth.gov)
- - date published: 2024-05-08T02:49:51.480804+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Hillsborough
- - [https://hillsborough.floridahealth.gov](https://hillsborough.floridahealth.gov)
- - date published: 2024-05-08T02:48:02.986884+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Holmes
- - [https://holmes.floridahealth.gov](https://holmes.floridahealth.gov)
- - date published: 2024-05-08T02:49:00.507269+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Indian River
- - [https://indianriver.floridahealth.gov](https://indianriver.floridahealth.gov)
- - date published: 2024-05-08T02:49:20.832913+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Jackson
- - [https://jackson.floridahealth.gov](https://jackson.floridahealth.gov)
- - date published: 2024-05-08T02:49:11.226262+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Jefferson
- - [https://jefferson.floridahealth.gov](https://jefferson.floridahealth.gov)
- - date published: 2024-05-08T02:49:53.711003+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Lafayette
- - [https://lafayette.floridahealth.gov](https://lafayette.floridahealth.gov)
- - date published: 2024-05-08T02:48:13.356400+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Lake
- - [https://lake.floridahealth.gov](https://lake.floridahealth.gov)
- - date published: 2024-05-08T02:48:22.703414+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Lee
- - [https://lee.floridahealth.gov](https://lee.floridahealth.gov)
- - date published: 2024-05-08T02:48:42.326987+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Leon
- - [https://leon.floridahealth.gov](https://leon.floridahealth.gov)
- - date published: 2024-05-08T02:48:37.888464+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Levy
- - [https://levy.floridahealth.gov](https://levy.floridahealth.gov)
- - date published: 2024-05-08T02:48:06.495337+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Liberty
- - [https://liberty.floridahealth.gov](https://liberty.floridahealth.gov)
- - date published: 2024-05-08T02:50:20.613010+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Madison
- - [https://madison.floridahealth.gov](https://madison.floridahealth.gov)
- - date published: 2024-05-08T02:50:36.081039+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Manatee
- - [https://manatee.floridahealth.gov](https://manatee.floridahealth.gov)
- - date published: 2024-05-08T02:48:35.542586+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Marion
- - [https://marion.floridahealth.gov](https://marion.floridahealth.gov)
- - date published: 2024-05-08T02:48:44.546982+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Martin
- - [https://martin.floridahealth.gov](https://martin.floridahealth.gov)
- - date published: 2024-05-08T02:47:54.793089+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Miami-Dade
- - [https://miamidade.floridahealth.gov](https://miamidade.floridahealth.gov)
- - date published: 2024-05-08T02:49:40.834685+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Monroe
- - [https://monroe.floridahealth.gov](https://monroe.floridahealth.gov)
- - date published: 2024-05-08T02:48:18.122465+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Nassau
- - [https://nassau.floridahealth.gov](https://nassau.floridahealth.gov)
- - date published: 2024-05-08T02:50:45.384361+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health in Okaloosa
- - [https://okaloosa.floridahealth.gov](https://okaloosa.floridahealth.gov)
- - date published: 2024-05-08T02:48:51.123298+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,39 @@
+## Bell Canada Enterprises | Corporate website | BCE Inc.
+ - [https://bce.ca](https://bce.ca)
+ - date published: 2024-05-09T09:25:07.356517+00:00
+ - user: None
+ - tags: []
+
+## Careers at Bell
+ - [https://jobs.bce.ca](https://jobs.bce.ca)
+ - date published: 2024-05-08T06:46:55.201672+00:00
+ - user: None
+ - tags: []
+
+## Bell Canada Enterprises | Corporate website | BCE Inc.
+ - [https://www.bce.ca](https://www.bce.ca)
+ - date published: 2023-12-12T09:06:56.066905+00:00
+ - user: None
+ - tags: []
+
+## ERROR: The requested URL could not be retrieved
+ - [https://mkweb.bcgsc.ca](https://mkweb.bcgsc.ca)
+ - date published: 2024-01-09T02:27:13.939554+00:00
+ - user: None
+ - tags: []
+
+## Book an appointment | Bell Canada
+ - [https://appointments.bell.ca](https://appointments.bell.ca)
+ - date published: 2024-05-10T02:42:25.226284+00:00
+ - user: None
+ - tags: []
+
+## Bell Business | Small, medium and large businesses | Bell Canada
+ - [https://business.bell.ca](https://business.bell.ca)
+ - date published: 2024-05-10T02:42:40.721821+00:00
+ - user: None
+ - tags: []
+
 ## Submit Form
  - [https://forum.bell.ca](https://forum.bell.ca)
  - date published: 2024-05-10T02:42:27.665768+00:00
@@ -685,6 +721,12 @@
 ## The DECromancer Archive
  - [https://archive.decromancer.ca](https://archive.decromancer.ca)
  - date published: 2021-12-08T18:44:00+00:00
+ - user: None
+ - tags: []
+
+## Deflect - DDoS protection and web security
+ - [https://deflect.ca](https://deflect.ca)
+ - date published: 2024-05-23T12:28:08.242443+00:00
  - user: None
  - tags: []
 
@@ -5960,48 +6002,6 @@
 ## Seeed Studio Solutions - Latest Open Tech From Seeed
  - [https://solution.seeed.cc](https://solution.seeed.cc)
  - date published: 2024-05-09T04:05:29.047204+00:00
- - user: None
- - tags: []
-
-## TinyML | Seeed Studio Wiki
- - [http://tinyml.seeed.cc](http://tinyml.seeed.cc)
- - date published: 2024-05-09T04:05:09.121969+00:00
- - user: None
- - tags: []
-
-## seeed.cc - Latest Open Tech From Seeed
- - [http://www.seeed.cc](http://www.seeed.cc)
- - date published: 2023-12-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Shottr – screenshot app for pixel professionals
- - [https://shottr.cc](https://shottr.cc)
- - date published: 2024-05-06T13:40:52.931129+00:00
- - user: None
- - tags: []
-
-## Single Page - Simple, Fast, Single Page Webpage
- - [https://singlepage.cc](https://singlepage.cc)
- - date published: 2023-10-25T12:11:32.473761+00:00
- - user: None
- - tags: []
-
-## Hugo Soucy, développeur Web front-end habitant Lévis, et ceci est sa page Web — hugo.soucy.cc
- - [https://hugo.soucy.cc](https://hugo.soucy.cc)
- - date published: 2024-05-09T08:06:26.554660+00:00
- - user: None
- - tags: []
-
-## Billets
- - [https://code.strigo.cc](https://code.strigo.cc)
- - date published: 2024-03-10T10:54:32+00:00
- - user: None
- - tags: []
-
-## Strudel: A live coding platform to write dynamic music pieces in the browser
- - [https://strudel.cc](https://strudel.cc)
- - date published: 2024-04-03T22:38:38+00:00
  - user: None
  - tags: []
 

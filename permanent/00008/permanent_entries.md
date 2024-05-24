@@ -1,3 +1,81 @@
+## ספר היידע של התקנים מכניים מופלאים – האתר מחזיר לחיים את ספרו של אל-ג'זרי, מהנדס חצר בדיארבקיר במאה ה-12
+ - [https://aljazaribook.com](https://aljazaribook.com)
+ - date published: 2023-10-25T12:38:46.479158+00:00
+ - user: None
+ - tags: []
+
+## Breaking News, World News and Video from Al Jazeera
+ - [https://america.aljazeera.com](https://america.aljazeera.com)
+ - date published: 2024-05-09T02:38:15.340939+00:00
+ - user: None
+ - tags: []
+
+## العراق يعيد 700 من مواطنيه العالقين بمخيمات في سوريا
+ - [http://liberties.aljazeera.com](http://liberties.aljazeera.com)
+ - date published: 2024-05-01T03:14:38.388817+00:00
+ - user: None
+ - tags: []
+
+## Al Jazeera Interactives
+ - [https://remix.aljazeera.com](https://remix.aljazeera.com)
+ - date published: 2023-10-25T10:18:21.192555+00:00
+ - user: None
+ - tags: []
+
+## Breaking News, World News and Video from Al Jazeera
+ - [https://www.aljazeera.com](https://www.aljazeera.com)
+ - date published: 2023-10-25T10:24:42.377214+00:00
+ - user: None
+ - tags: ['news', 'middle east']
+
+## All3DP.com
+ - [https://all3dp.com](https://all3dp.com)
+ - date published: 2024-03-01T18:22:43.255445+00:00
+ - user: None
+ - tags: ['3d printing', 'magazine']
+
+## All About Berlin
+ - [https://allaboutberlin.com](https://allaboutberlin.com)
+ - date published: 2024-05-13T23:13:54.030532+00:00
+ - user: None
+ - tags: []
+
+## Electronics & Electrical Engineering Forum
+ - [https://forum.allaboutcircuits.com](https://forum.allaboutcircuits.com)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## All About Circuits - Electrical Engineering & Electronics Community
+ - [https://www.allaboutcircuits.com](https://www.allaboutcircuits.com)
+ - date published: 2023-10-25T12:38:51.091121+00:00
+ - user: None
+ - tags: []
+
+## Thank you for visiting AllaboutDNT.com - Future of Privacy Forum
+ - [http://www.allaboutdnt.com](http://www.allaboutdnt.com)
+ - date published: 2024-05-02T14:00:33.318878+00:00
+ - user: None
+ - tags: []
+
+## All About Jazz Music, Musicians, Bands & Albums
+ - [https://www.allaboutjazz.com](https://www.allaboutjazz.com)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## All About Slots - Online Slot Machines Guide
+ - [https://www.allaboutslots.com](https://www.allaboutslots.com)
+ - date published: 2024-02-08T18:06:26.019345+00:00
+ - user: None
+ - tags: ['gambling']
+
+## Home - allAfrica.com
+ - [https://allafrica.com](https://allafrica.com)
+ - date published: 2023-10-25T11:07:52.016297+00:00
+ - user: None
+ - tags: []
+
 ## Accueil
  - [https://fr.allafrica.com](https://fr.allafrica.com)
  - date published: 2024-04-30T00:00:00+00:00
@@ -1196,7 +1274,7 @@
  - [https://amber-lang.com](https://amber-lang.com)
  - date published: 2024-05-21T18:15:27+00:00
  - user: None
- - tags: []
+ - tags: ['programming language']
 
 ## Amber O’Hara – mature lady friend
  - [http://amber-ohara.com](http://amber-ohara.com)
@@ -3481,6 +3559,12 @@
 ## another timbre home page
  - [http://www.anothertimbre.com](http://www.anothertimbre.com)
  - date published: 2024-05-20T02:47:11.936705+00:00
+ - user: None
+ - tags: []
+
+## Anoushka Shankar
+ - [https://anoushkashankar.com](https://anoushkashankar.com)
+ - date published: 2024-05-23T19:07:08.720919+00:00
  - user: None
  - tags: []
 
@@ -5911,90 +5995,6 @@
 ## WBTV | On Your Side | First Alert Weather | Charlotte, NC
  - [https://gray-wbtv-prod.cdn.arcpublishing.com](https://gray-wbtv-prod.cdn.arcpublishing.com)
  - date published: 2024-05-07T12:50:10.731749+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://gray-wcsc-prod.cdn.arcpublishing.com](https://gray-wcsc-prod.cdn.arcpublishing.com)
- - date published: 2024-05-04T12:50:21.278113+00:00
- - user: None
- - tags: []
-
-## WECT TV6: News and Weather for Wilmington, NC
- - [https://gray-wect-prod.cdn.arcpublishing.com](https://gray-wect-prod.cdn.arcpublishing.com)
- - date published: 2024-05-07T13:57:18.593928+00:00
- - user: None
- - tags: []
-
-## Atlanta News First | Local News, Weather, Sports | Atlanta, GA
- - [https://gray-wgcl-prod.cdn.arcpublishing.com](https://gray-wgcl-prod.cdn.arcpublishing.com)
- - date published: 2024-05-12T04:39:37.526411+00:00
- - user: None
- - tags: []
-
-## WGEM | Local News, Weather, Sports | Quincy, IL
- - [https://gray-wgem-prod.cdn.arcpublishing.com](https://gray-wgem-prod.cdn.arcpublishing.com)
- - date published: 2024-05-11T08:11:09.727296+00:00
- - user: None
- - tags: []
-
-## FOX Carolina | South Carolina Local News, Weather, Sports | Greenville, SC | WHNS
- - [https://gray-whns-prod.cdn.arcpublishing.com](https://gray-whns-prod.cdn.arcpublishing.com)
- - date published: 2024-05-04T06:58:01.697148+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://gray-wilx-prod.cdn.arcpublishing.com](https://gray-wilx-prod.cdn.arcpublishing.com)
- - date published: 2024-05-07T14:17:23.765080+00:00
- - user: None
- - tags: []
-
-## WITN | Eastern North Carolina | News, Sports, Weather
- - [https://gray-witn-prod.cdn.arcpublishing.com](https://gray-witn-prod.cdn.arcpublishing.com)
- - date published: 2024-05-07T14:30:44.377515+00:00
- - user: None
- - tags: []
-
-## WJHG | News, Weather, Sports | Panama City, FL
- - [https://gray-wjhg-prod.cdn.arcpublishing.com](https://gray-wjhg-prod.cdn.arcpublishing.com)
- - date published: 2024-05-07T14:33:25.085702+00:00
- - user: None
- - tags: []
-
-## WKYT | Kentucky Local News, Weather, Sports | Lexington, KY
- - [https://gray-wkyt-prod.cdn.arcpublishing.com](https://gray-wkyt-prod.cdn.arcpublishing.com)
- - date published: 2024-05-08T12:04:52.737470+00:00
- - user: None
- - tags: []
-
-## WLOX | Biloxi, Gulfport, Pascagoula, MS
- - [https://gray-wlox-prod.cdn.arcpublishing.com](https://gray-wlox-prod.cdn.arcpublishing.com)
- - date published: 2024-05-07T14:40:13.234634+00:00
- - user: None
- - tags: []
-
-## WMBF | Myrtle Beach, Florence
- - [https://gray-wmbf-prod.cdn.arcpublishing.com](https://gray-wmbf-prod.cdn.arcpublishing.com)
- - date published: 2024-05-07T14:41:03.344310+00:00
- - user: None
- - tags: []
-
-## Action News 5 | WMC Memphis | Weather | Mid-South
- - [https://gray-wmctv-prod.cdn.arcpublishing.com](https://gray-wmctv-prod.cdn.arcpublishing.com)
- - date published: 2024-05-01T02:15:01.238763+00:00
- - user: None
- - tags: []
-
-## Cleveland 19 News | WOIO | Cleveland, Ohio
- - [https://gray-woio-prod.cdn.arcpublishing.com](https://gray-woio-prod.cdn.arcpublishing.com)
- - date published: 2024-05-08T05:34:53.644738+00:00
- - user: None
- - tags: []
-
-## WOWT | Nebraska Breaking News, Weather, Sports | Omaha, NE
- - [https://gray-wowt-prod.cdn.arcpublishing.com](https://gray-wowt-prod.cdn.arcpublishing.com)
- - date published: 2024-05-07T16:12:30.388254+00:00
  - user: None
  - tags: []
 

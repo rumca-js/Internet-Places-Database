@@ -1,3 +1,27 @@
+## Eleventy Excellent
+ - [https://eleventy-excellent.netlify.app](https://eleventy-excellent.netlify.app)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Epic Web Conf 2024 - by Adam Argyle
+ - [https://epic-web-2024-at-property.netlify.app](https://epic-web-2024-at-property.netlify.app)
+ - date published: 2024-04-30T02:02:05.853624+00:00
+ - user: None
+ - tags: []
+
+## FP Site
+ - [https://francopasut.netlify.app](https://francopasut.netlify.app)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hector Saldes
+ - [https://hectorsaldes.netlify.app](https://hectorsaldes.netlify.app)
+ - date published: 2024-05-11T10:07:52.935346+00:00
+ - user: None
+ - tags: []
+
 ## https://hnbadges.netlify.app
  - [https://hnbadges.netlify.app](https://hnbadges.netlify.app)
  - date published: 2024-01-09T02:23:31.108826+00:00
@@ -506,7 +530,7 @@
  - [https://photoprism.app](https://photoprism.app)
  - date published: 2024-05-12T04:58:19.907236+00:00
  - user: None
- - tags: []
+ - tags: ['photo storage', 'open source']
 
 ## PhotoPrism Translations
  - [https://translate.photoprism.app](https://translate.photoprism.app)
@@ -5973,30 +5997,6 @@
 ## myUNSW
  - [https://my.unsw.edu.au](https://my.unsw.edu.au)
  - date published: 2024-05-11T07:37:36.974968+00:00
- - user: None
- - tags: []
-
-## UNSW Newsroom
- - [https://newsroom.unsw.edu.au](https://newsroom.unsw.edu.au)
- - date published: 2023-10-31T05:38:26.362329+00:00
- - user: None
- - tags: []
-
-## School of Physics
- - [https://newt.phys.unsw.edu.au](https://newt.phys.unsw.edu.au)
- - date published: 2023-10-25T11:57:14.823273+00:00
- - user: None
- - tags: []
-
-## UNSW Research | UNSW Research
- - [https://research.unsw.edu.au](https://research.unsw.edu.au)
- - date published: 2024-05-11T07:37:19.861796+00:00
- - user: None
- - tags: []
-
-## UNSW Medicine & Health Short Courses
- - [https://shortcourses.health.unsw.edu.au](https://shortcourses.health.unsw.edu.au)
- - date published: 2024-05-11T07:37:51.505690+00:00
  - user: None
  - tags: []
 

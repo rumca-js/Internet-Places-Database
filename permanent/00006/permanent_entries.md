@@ -1,3 +1,69 @@
+## Event Scheduling Software by Sched
+ - [https://sched.co](https://sched.co)
+ - date published: 2024-05-04T08:30:36.517276+00:00
+ - user: None
+ - tags: []
+
+## Scored
+ - [https://scored.co](https://scored.co)
+ - date published: 2024-04-28T04:09:58.980817+00:00
+ - user: None
+ - tags: []
+
+## seam #community-general
+ - [https://community.seam.co](https://community.seam.co)
+ - date published: 2024-04-29T07:59:41.662346+00:00
+ - user: None
+ - tags: []
+
+## The Modern Data Management Platform | Secoda
+ - [https://www.secoda.co](https://www.secoda.co)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Second Breakfast | Will Schreiber | Substack
+ - [https://secondbreakfast.co](https://secondbreakfast.co)
+ - date published: 2024-01-09T02:28:43.862489+00:00
+ - user: None
+ - tags: []
+
+## Second Breakfast
+ - [https://www.secondbreakfast.co](https://www.secondbreakfast.co)
+ - date published: 2024-04-30T07:02:35.519810+00:00
+ - user: None
+ - tags: []
+
+## Secret NYC - What To Do In NYC: Best plans
+ - [https://secretnyc.co](https://secretnyc.co)
+ - date published: 2024-05-08T21:32:05.360912+00:00
+ - user: None
+ - tags: []
+
+## Security Affairs - Read, think, share … Security is everyone's responsibility
+ - [https://securityaffairs.co](https://securityaffairs.co)
+ - date published: 2024-05-01T04:13:19.561673+00:00
+ - user: None
+ - tags: []
+
+## Seeking Wisdom | Ben Detalle | Substack
+ - [https://www.seekingwisdom.co](https://www.seekingwisdom.co)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ServerDuty / Server monitoring for busy people
+ - [https://serverduty.co](https://serverduty.co)
+ - date published: 2024-05-02T11:10:55.994143+00:00
+ - user: None
+ - tags: []
+
+## showgpt.co
+ - [https://showgpt.co](https://showgpt.co)
+ - date published: 2024-01-09T02:28:48.637932+00:00
+ - user: None
+ - tags: []
+
 ## showgpt.co
  - [http://ww12.showgpt.co](http://ww12.showgpt.co)
  - date published: 2024-04-30T07:02:37.332908+00:00
@@ -1264,6 +1330,12 @@
 ## Peaceful Productivity
  - [https://peacefulproductivity.coach](https://peacefulproductivity.coach)
  - date published: 2024-05-12T05:30:44.510923+00:00
+ - user: None
+ - tags: []
+
+## Peter Saint-Andre, Philosopher-Coach
+ - [https://philosopher.coach](https://philosopher.coach)
+ - date published: 2024-05-23T02:51:02.269533+00:00
  - user: None
  - tags: []
 
@@ -2624,7 +2696,7 @@
  - [https://2k.com](https://2k.com)
  - date published: 2024-05-04T06:03:50.409970+00:00
  - user: None
- - tags: []
+ - tags: ['video game developer', 'xcom']
 
 ## 2markdown – Transform Websites into Markdown
  - [https://2markdown.com](https://2markdown.com)
@@ -4882,6 +4954,12 @@
  - user: None
  - tags: []
 
+## Above the Crowd
+ - [https://abovethecrowd.com](https://abovethecrowd.com)
+ - date published: 2024-05-23T02:47:39.997169+00:00
+ - user: None
+ - tags: []
+
 ## Above the Law
  - [https://abovethelaw.com](https://abovethelaw.com)
  - date published: 2023-12-17T00:32:53.508838+00:00
@@ -5923,84 +6001,6 @@
 ## poseycorp Email Marketing
  - [https://poseycorp.activehosted.com](https://poseycorp.activehosted.com)
  - date published: 2024-05-06T23:43:19.913287+00:00
- - user: None
- - tags: []
-
-## Roland Marketing
- - [https://roland.activehosted.com](https://roland.activehosted.com)
- - date published: 2024-04-28T05:39:39.227192+00:00
- - user: None
- - tags: []
-
-## stack.io
- - [https://stackdotio.activehosted.com](https://stackdotio.activehosted.com)
- - date published: 2024-05-08T12:17:22.508249+00:00
- - user: None
- - tags: []
-
-## STONESOUP Email Marketing
- - [https://stonesoup.activehosted.com](https://stonesoup.activehosted.com)
- - date published: 2024-05-06T14:31:53.294218+00:00
- - user: None
- - tags: []
-
-## Techfocus Media
- - [https://techfocus.activehosted.com](https://techfocus.activehosted.com)
- - date published: 2024-05-01T08:27:21.156598+00:00
- - user: None
- - tags: []
-
-## THEWALRUS Email Marketing
- - [https://thewalrus.activehosted.com](https://thewalrus.activehosted.com)
- - date published: 2024-04-30T05:15:27.330667+00:00
- - user: None
- - tags: []
-
-## Today Media Connect
- - [https://todaymedia.activehosted.com](https://todaymedia.activehosted.com)
- - date published: 2024-05-01T04:33:57.384856+00:00
- - user: None
- - tags: []
-
-## Viewpoint Leadership
- - [https://viewpointleadership.activehosted.com](https://viewpointleadership.activehosted.com)
- - date published: 2024-04-30T05:31:43.858833+00:00
- - user: None
- - tags: []
-
-## LeadDev.com Email Marketing
- - [https://whiteoctoberevents.activehosted.com](https://whiteoctoberevents.activehosted.com)
- - date published: 2024-05-04T12:03:31.594609+00:00
- - user: None
- - tags: []
-
-## WUWM-MILWAUKEE-PUBLIC-RADIO Email Marketing
- - [https://wuwm-milwaukee-public-radio.activehosted.com](https://wuwm-milwaukee-public-radio.activehosted.com)
- - date published: 2024-05-12T05:15:32.859704+00:00
- - user: None
- - tags: []
-
-## Active Learning in Political Science ©
- - [http://activelearningps.com](http://activelearningps.com)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Activemap LLC
- - [https://activemapllc.com](https://activemapllc.com)
- - date published: 2024-05-06T21:34:56.605611+00:00
- - user: None
- - tags: []
-
-## Real Estate Blog Community for Professionals - ActiveRain
- - [https://activerain.com](https://activerain.com)
- - date published: 2024-05-07T13:33:06.346231+00:00
- - user: None
- - tags: []
-
-## Sustainability for all | ACCIONA
- - [https://www.activesustainability.com](https://www.activesustainability.com)
- - date published: 2024-02-24T18:06:52.235015+00:00
  - user: None
  - tags: []
 

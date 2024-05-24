@@ -1,3 +1,27 @@
+## UNSW Newsroom
+ - [https://newsroom.unsw.edu.au](https://newsroom.unsw.edu.au)
+ - date published: 2023-10-31T05:38:26.362329+00:00
+ - user: None
+ - tags: []
+
+## School of Physics
+ - [https://newt.phys.unsw.edu.au](https://newt.phys.unsw.edu.au)
+ - date published: 2023-10-25T11:57:14.823273+00:00
+ - user: None
+ - tags: []
+
+## UNSW Research | UNSW Research
+ - [https://research.unsw.edu.au](https://research.unsw.edu.au)
+ - date published: 2024-05-11T07:37:19.861796+00:00
+ - user: None
+ - tags: []
+
+## UNSW Medicine & Health Short Courses
+ - [https://shortcourses.health.unsw.edu.au](https://shortcourses.health.unsw.edu.au)
+ - date published: 2024-05-11T07:37:51.505690+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://student.unsw.edu.au](https://student.unsw.edu.au)
  - date published: 2024-05-16T00:00:00+00:00
@@ -3407,6 +3431,12 @@
  - user: None
  - tags: ['personal']
 
+## The Happy Developer
+ - [https://happydev.blog](https://happydev.blog)
+ - date published: 2024-05-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Personal website | grevehoiby.dk
  - [https://haralds.blog](https://haralds.blog)
  - date published: 2024-04-30T14:21:51.979778+00:00
@@ -4271,6 +4301,12 @@
  - date published: 2024-05-10T05:46:44.992017+00:00
  - user: None
  - tags: []
+
+## sodi.boo
+ - [https://sodi.boo](https://sodi.boo)
+ - date published: 2024-05-23T06:40:31.381770+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Show HN: Gobble Bot
  - [https://gobble.bot](https://gobble.bot)
@@ -5962,42 +5998,6 @@ Educação
 ## Bank of Canada
  - [https://www.bankofcanada.ca](https://www.bankofcanada.ca)
  - date published: 2023-10-25T12:03:32.218847+00:00
- - user: None
- - tags: []
-
-## Bell Canada Enterprises | Corporate website | BCE Inc.
- - [https://bce.ca](https://bce.ca)
- - date published: 2024-05-09T09:25:07.356517+00:00
- - user: None
- - tags: []
-
-## Careers at Bell
- - [https://jobs.bce.ca](https://jobs.bce.ca)
- - date published: 2024-05-08T06:46:55.201672+00:00
- - user: None
- - tags: []
-
-## Bell Canada Enterprises | Corporate website | BCE Inc.
- - [https://www.bce.ca](https://www.bce.ca)
- - date published: 2023-12-12T09:06:56.066905+00:00
- - user: None
- - tags: []
-
-## ERROR: The requested URL could not be retrieved
- - [https://mkweb.bcgsc.ca](https://mkweb.bcgsc.ca)
- - date published: 2024-01-09T02:27:13.939554+00:00
- - user: None
- - tags: []
-
-## Book an appointment | Bell Canada
- - [https://appointments.bell.ca](https://appointments.bell.ca)
- - date published: 2024-05-10T02:42:25.226284+00:00
- - user: None
- - tags: []
-
-## Bell Business | Small, medium and large businesses | Bell Canada
- - [https://business.bell.ca](https://business.bell.ca)
- - date published: 2024-05-10T02:42:40.721821+00:00
  - user: None
  - tags: []
 

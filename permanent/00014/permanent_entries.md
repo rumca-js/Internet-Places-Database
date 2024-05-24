@@ -1,3 +1,159 @@
+## chess24 wall
+ - [https://new.chess24.com](https://new.chess24.com)
+ - date published: 2023-10-25T13:21:26.844592+00:00
+ - user: None
+ - tags: []
+
+## Chessable - Where Science Meets Chess
+ - [https://www.chessable.com](https://www.chessable.com)
+ - date published: 2024-05-08T05:02:12.298075+00:00
+ - user: None
+ - tags: []
+
+## Chess playing and training online - ChessBase Account
+ - [https://account.chessbase.com](https://account.chessbase.com)
+ - date published: 2024-05-08T05:01:52.659507+00:00
+ - user: None
+ - tags: []
+
+## ChessBase magazine - frontpage
+ - [https://cbm.chessbase.com](https://cbm.chessbase.com)
+ - date published: 2024-05-08T05:02:00.640359+00:00
+ - user: None
+ - tags: []
+
+## ChessBase - Chess database with eight million games. Openings, players, tournaments.
+ - [https://database.chessbase.com](https://database.chessbase.com)
+ - date published: 2024-05-08T05:01:38.477586+00:00
+ - user: None
+ - tags: []
+
+## Schach Nachrichten | ChessBase
+ - [https://de.chessbase.com](https://de.chessbase.com)
+ - date published: 2024-05-08T05:01:40.665586+00:00
+ - user: None
+ - tags: []
+
+## Chess News | ChessBase
+ - [https://en.chessbase.com](https://en.chessbase.com)
+ - date published: 2023-10-25T13:21:28.502428+00:00
+ - user: None
+ - tags: []
+
+## Noticias de ajedrez | ChessBase
+ - [https://es.chessbase.com](https://es.chessbase.com)
+ - date published: 2024-05-08T05:02:03.182745+00:00
+ - user: None
+ - tags: []
+
+## Free and Open Source Software at ChessBase
+ - [https://foss.chessbase.com](https://foss.chessbase.com)
+ - date published: 2024-05-08T05:01:48.052482+00:00
+ - user: None
+ - tags: []
+
+## Nouvelles d'échecs | ChessBase
+ - [https://fr.chessbase.com](https://fr.chessbase.com)
+ - date published: 2024-05-08T05:01:57.211477+00:00
+ - user: None
+ - tags: []
+
+## Play Chess against Fritz
+ - [https://fritz.chessbase.com](https://fritz.chessbase.com)
+ - date published: 2099-12-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Play Chess Online
+ - [https://learn.chessbase.com](https://learn.chessbase.com)
+ - date published: 2099-12-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Live Chess On ChessBase.com
+ - [https://live.chessbase.com](https://live.chessbase.com)
+ - date published: 2024-05-08T05:01:58.963758+00:00
+ - user: None
+ - tags: []
+
+## ChessBase - MyGames
+ - [https://mygames.chessbase.com](https://mygames.chessbase.com)
+ - date published: 2024-05-08T05:01:51.790785+00:00
+ - user: None
+ - tags: []
+
+## Play Chess Online for free
+ - [https://play.chessbase.com](https://play.chessbase.com)
+ - date published: 2099-12-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Worlds top 100 chessplayer - ChessBase Players
+ - [https://players.chessbase.com](https://players.chessbase.com)
+ - date published: 2024-05-08T05:01:42.368625+00:00
+ - user: None
+ - tags: []
+
+## Banner
+ - [https://resources.chessbase.com](https://resources.chessbase.com)
+ - date published: 2024-05-08T05:01:45.109398+00:00
+ - user: None
+ - tags: []
+
+## ChessBase Shop
+ - [https://shop.chessbase.com](https://shop.chessbase.com)
+ - date published: 2024-05-08T05:01:36.499036+00:00
+ - user: None
+ - tags: []
+
+## ChessBase Studies
+ - [https://studies.chessbase.com](https://studies.chessbase.com)
+ - date published: 2099-12-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CB Support Page - FrontPage
+ - [https://support.chessbase.com](https://support.chessbase.com)
+ - date published: 2024-05-08T05:01:53.698490+00:00
+ - user: None
+ - tags: []
+
+## Chess Tactics Online
+ - [https://tactics.chessbase.com](https://tactics.chessbase.com)
+ - date published: 2099-12-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ChessBase Videos
+ - [https://videos.chessbase.com](https://videos.chessbase.com)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Chess.com - Play Chess Online - Free Games
+ - [https://images.chesscomfiles.com](https://images.chesscomfiles.com)
+ - date published: 2024-05-08T05:01:28.885843+00:00
+ - user: None
+ - tags: []
+
+## Chessdom - Chess, chess news, live chess games
+ - [https://www.chessdom.com](https://www.chessdom.com)
+ - date published: 2023-10-25T13:21:41.450959+00:00
+ - user: None
+ - tags: []
+
+## Chessgames.com: Chess Games Database & Community
+ - [https://www.chessgames.com](https://www.chessgames.com)
+ - date published: 2024-04-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Chessletter.com
+ - [http://www.chessletter.com](http://www.chessletter.com)
+ - date published: 2024-05-08T05:01:38.933695+00:00
+ - user: None
+ - tags: []
+
 ## ChessMonitor.com - Powered by HetrixTools
  - [https://status.chessmonitor.com](https://status.chessmonitor.com)
  - date published: 2024-05-08T00:00:00+00:00
@@ -4366,6 +4522,12 @@
  - user: None
  - tags: []
 
+## ClothingRIC - Coupon Codes, Promo Codes, Discounts Coupon offers, Free Shipping
+ - [https://www.clothingric.com](https://www.clothingric.com)
+ - date published: 2024-05-23T02:50:29.572169+00:00
+ - user: None
+ - tags: []
+
 ## Careers Home - Cloud Software Group
  - [https://careers.cloud.com](https://careers.cloud.com)
  - date published: 2024-05-08T05:37:17.928381+00:00
@@ -5330,7 +5492,7 @@
  - [https://www.cnx-software.com](https://www.cnx-software.com)
  - date published: 2023-10-25T13:27:18.842563+00:00
  - user: None
- - tags: []
+ - tags: ['embedded', 'single board computers', 'tech news']
 
 ## CNYHealingArts
  - [https://www.cnyhealingarts.com](https://www.cnyhealingarts.com)
@@ -5838,168 +6000,6 @@
 ## Code Deep Dives
  - [https://codedeepdives.com](https://codedeepdives.com)
  - date published: 2024-03-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Codeforces
- - [https://codeforces.com](https://codeforces.com)
- - date published: 2023-10-25T13:28:14.373320+00:00
- - user: None
- - tags: []
-
-## Digital Solutions that Matter · Codegram
- - [https://www.codegram.com](https://www.codegram.com)
- - date published: 2024-04-21T04:11:16.506320+00:00
- - user: None
- - tags: []
-
-## codeGregg: Minneapolis Web Developer
- - [https://codegregg.com](https://codegregg.com)
- - date published: 2024-05-11T10:22:09.679120+00:00
- - user: None
- - tags: []
-
-## CodeGuppy | Free coding platform and projects for middle school and high school students
- - [https://codeguppy.com](https://codeguppy.com)
- - date published: 2023-10-25T13:28:20.545811+00:00
- - user: None
- - tags: []
-
-## Blog | Backendhance
- - [https://code-held.com](https://code-held.com)
- - date published: 2023-10-25T13:27:52.449301+00:00
- - user: None
- - tags: []
-
-## Home - Code Headquarters LLC
- - [http://www.code-hq.com](http://www.code-hq.com)
- - date published: 2020-09-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Application Security Testing Powered by AI | Code Intelligence
- - [https://www.code-intelligence.com](https://www.code-intelligence.com)
- - date published: 2024-05-06T20:15:50.930377+00:00
- - user: None
- - tags: []
-
-## WPShout - Your Website, Sorted
- - [https://www.codeinwp.com](https://www.codeinwp.com)
- - date published: 2024-05-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Codeishot | The home for the code you are most proud of
- - [http://codeishot.com](http://codeishot.com)
- - date published: 2024-05-09T09:16:53.586412+00:00
- - user: None
- - tags: []
-
-## Codeium · Free AI Code Completion & Chat
- - [https://codeium.com](https://codeium.com)
- - date published: 2023-10-25T13:28:21.432922+00:00
- - user: None
- - tags: []
-
-## Codeium · Free AI Code Completion & Chat
- - [https://www.codeium.com](https://www.codeium.com)
- - date published: 2023-10-25T13:28:22.792901+00:00
- - user: None
- - tags: []
-
-## Visual C++ MFC / ActiveX Controls for Desktop Application Development | www.codejock.com
- - [http://www.codejock.com](http://www.codejock.com)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Code Language Converter - Convert code to other languages using AI
- - [https://codelanguageconverter.com](https://codelanguageconverter.com)
- - date published: 2023-10-25T13:28:24.823933+00:00
- - user: None
- - tags: []
-
-## Code Lutin
- - [https://www.codelutin.com](https://www.codelutin.com)
- - date published: 2024-05-16T02:45:06.017073+00:00
- - user: None
- - tags: []
-
-## CodeMacabre
- - [https://codemacabre.com](https://codemacabre.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Expert Web Development using React JS, Rails & Elixir
- - [https://www.codemancers.com](https://www.codemancers.com)
- - date published: 2024-04-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## codemanship | Home
- - [http://www.codemanship.com](http://www.codemanship.com)
- - date published: 2024-05-07T14:55:37.007369+00:00
- - user: None
- - tags: []
-
-## Code Maze - C#, .NET and Web Development Tutorials
- - [https://code-maze.com](https://code-maze.com)
- - date published: 2023-10-25T13:27:55.458215+00:00
- - user: None
- - tags: []
-
-## The Miners - Codeminer42’s Engineering Blog
- - [https://blog.codeminer42.com](https://blog.codeminer42.com)
- - date published: 2024-03-24T15:07:30.542559+00:00
- - user: None
- - tags: []
-
-## Codeminer42 - Your software development boutique
- - [https://www.codeminer42.com](https://www.codeminer42.com)
- - date published: 2024-05-11T10:48:41.211695+00:00
- - user: None
- - tags: []
-
-## All Posts
- - [https://www.codemzy.com](https://www.codemzy.com)
- - date published: 2024-04-14T20:30:41.714823+00:00
- - user: None
- - tags: ['personal']
-
-## Codename One: Cross-Platform App Development with Java/Kotlin
- - [https://www.codenameone.com](https://www.codenameone.com)
- - date published: 2022-07-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Computational science software for biology | Code Ocean
- - [https://codeocean.com](https://codeocean.com)
- - date published: 2024-04-29T03:20:02.558626+00:00
- - user: None
- - tags: []
-
-## My Secret Life as a Spaghetti Coder
- - [http://www.codeodor.com](http://www.codeodor.com)
- - date published: 2024-05-08T10:19:06.601153+00:00
- - user: None
- - tags: []
-
-## Code Of Honor - Game design, programming and more
- - [https://www.codeofhonor.com](https://www.codeofhonor.com)
- - date published: 2024-03-24T15:08:02.980466+00:00
- - user: None
- - tags: ['personal']
-
-## Code On Technologies
- - [https://www.codeontechnologies.com](https://www.codeontechnologies.com)
- - date published: 2024-05-06T21:34:50.879268+00:00
- - user: None
- - tags: []
-
-## CodePen
- - [https://codepen.com](https://codepen.com)
- - date published: 2024-05-08T03:05:27.272929+00:00
  - user: None
  - tags: []
 
