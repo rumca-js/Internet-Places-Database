@@ -130,6 +130,7 @@ Might not be working. Used for development: [https://renegat0x0.ddns.net/apps/pl
 - [x] Define sources of data. Use indie web sources
 - [x] Define clean tag names, so that the database can easily be searched
 - [x] Advertise in indie web sources. Potentially: HN, reddit self-host, reddit web scraping forums. Amiga board. Nice, hackery places
+- [ ] Provide binary releases. Maybe SQLlite, so that it would be easily imported by other tools
 - [ ] Create a browser extension. The extension should provide domain info for each link. Provides rating according to page_rating, and since when page operates. The longer domain is active - the better
 - [ ] Secure funds for a organisation. Kickstarter?
 - [ ] Establish valid, simple domain for the project
