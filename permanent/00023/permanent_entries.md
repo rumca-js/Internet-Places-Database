@@ -1,3 +1,631 @@
+## Fright-Rags | Horror T-Shirts | By The Fans, For The Fans
+ - [https://www.fright-rags.com](https://www.fright-rags.com)
+ - date published: 2024-04-28T05:25:35.257359+00:00
+ - user: None
+ - tags: []
+
+## Frisco Economic Development Corporation | Home
+ - [https://friscoedc.com](https://friscoedc.com)
+ - date published: 2024-05-01T03:41:51.444384+00:00
+ - user: None
+ - tags: []
+
+## frithrah
+ - [https://www.frithrah.com](https://www.frithrah.com)
+ - date published: 2024-01-02T18:28:56.522748+00:00
+ - user: None
+ - tags: []
+
+## Furniture, lighting and accessory design - Fritz Hansen
+ - [https://www.fritzhansen.com](https://www.fritzhansen.com)
+ - date published: 2024-04-30T02:42:48.960721+00:00
+ - user: None
+ - tags: []
+
+## Live & On-Demand TV | Frndly TV
+ - [https://try.frndlytv.com](https://try.frndlytv.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://www.frobocode.com
+ - [https://www.frobocode.com](https://www.frobocode.com)
+ - date published: 2024-01-09T02:36:54.717609+00:00
+ - user: None
+ - tags: []
+
+## frofftown
+ - [https://frofftown.com](https://frofftown.com)
+ - date published: 2023-11-29T17:11:42.139115+00:00
+ - user: None
+ - tags: ['personal']
+
+## A leading global creative consultancy | frog, part of Capgemini Invent
+ - [https://www.frogdesign.com](https://www.frogdesign.com)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Frogdice Forums
+ - [http://forums.frogdice.com](http://forums.frogdice.com)
+ - date published: 2024-05-12T02:47:17.723693+00:00
+ - user: None
+ - tags: []
+
+## FrogFind!
+ - [http://frogfind.com](http://frogfind.com)
+ - date published: 2024-05-04T13:40:54.693805+00:00
+ - user: None
+ - tags: []
+
+## Frogtab
+ - [https://frogtab.com](https://frogtab.com)
+ - date published: 2024-05-09T06:07:54.223009+00:00
+ - user: None
+ - tags: []
+
+## ..::: From Ashes to Fire :::..
+ - [https://www.fromashestofire.com](https://www.fromashestofire.com)
+ - date published: 2024-05-24T18:29:25.430203+00:00
+ - user: None
+ - tags: []
+
+## A M I G A
+ - [http://nectarine.from-de.com](http://nectarine.from-de.com)
+ - date published: 2024-02-15T22:11:30.381314+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## OneBite.Dev - Coding blog in a bite size
+ - [https://fromdevtodev.com](https://fromdevtodev.com)
+ - date published: 2023-10-25T14:38:53.656381+00:00
+ - user: None
+ - tags: []
+
+## Front - Customer Service Platform
+ - [https://front.com](https://front.com)
+ - date published: 2024-05-09T08:46:09.439360+00:00
+ - user: None
+ - tags: []
+
+## Front Help Center
+ - [https://help.front.com](https://help.front.com)
+ - date published: 2024-05-01T07:17:50.788620+00:00
+ - user: None
+ - tags: []
+
+## Front - Customer Service Platform
+ - [https://frontapp.com](https://frontapp.com)
+ - date published: 2024-05-01T05:46:36.045451+00:00
+ - user: None
+ - tags: []
+
+## Front End Happy Hour
+ - [http://frontendhappyhour.com](http://frontendhappyhour.com)
+ - date published: 2024-05-06T14:19:35.094810+00:00
+ - user: None
+ - tags: []
+
+## Frontend Masters — Learn JavaScript, React, Vue & Angular from Masters of Front-End Development! | Frontend Masters
+ - [https://frontendmasters.com](https://frontendmasters.com)
+ - date published: 2023-10-25T14:38:56.831068+00:00
+ - user: None
+ - tags: []
+
+## Frontend Mastery
+ - [https://frontendmastery.com](https://frontendmastery.com)
+ - date published: 2023-10-25T14:39:00.390979+00:00
+ - user: None
+ - tags: []
+
+## Remote Front End Developer Jobs · May 2024
+ - [https://frontendremotejobs.com](https://frontendremotejobs.com)
+ - date published: 2024-05-06T15:13:19.169137+00:00
+ - user: None
+ - tags: []
+
+## Home - Frontera
+ - [https://fronterablog.com](https://fronterablog.com)
+ - date published: 2023-12-12T08:09:55.103176+00:00
+ - user: None
+ - tags: ['personal']
+
+## Frontera - Position, Differentiate, Win
+ - [https://fronterabrands.com](https://fronterabrands.com)
+ - date published: 2024-03-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Outside Festival
+ - [https://outsidefestival.frontgatetickets.com](https://outsidefestival.frontgatetickets.com)
+ - date published: 2024-05-01T03:27:40.241973+00:00
+ - user: None
+ - tags: []
+
+## An advance market commitment to accelerate carbon removal
+ - [https://frontierclimate.com](https://frontierclimate.com)
+ - date published: 2024-05-04T09:25:31.506216+00:00
+ - user: None
+ - tags: []
+
+## Home Page | Frontier Energy
+ - [https://frontierenergy.com](https://frontierenergy.com)
+ - date published: 2024-05-08T03:29:19.362476+00:00
+ - user: None
+ - tags: []
+
+## Frontier India - Latest News, Breaking News, World, Business, Military, Mobility, Sports, Lifestyle, Literature,
+ - [https://frontierindia.com](https://frontierindia.com)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | FiO+LS
+ - [https://www.frontiersinoptics.com](https://www.frontiersinoptics.com)
+ - date published: 2024-09-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Style Guide
+ - [https://algolia.frontify.com](https://algolia.frontify.com)
+ - date published: 2024-05-01T03:12:19.670521+00:00
+ - user: None
+ - tags: []
+
+## PathFactory
+ - [https://resources.frontify.com](https://resources.frontify.com)
+ - date published: 2024-04-29T07:14:30.383246+00:00
+ - user: None
+ - tags: []
+
+## Frontify: Where Brands Live – Brand Management Software | Frontify
+ - [https://www.frontify.com](https://www.frontify.com)
+ - date published: 2024-05-04T11:47:27.918861+00:00
+ - user: None
+ - tags: []
+
+## Custom Command and Broadcast Communication Vehicles | Frontline Communications
+ - [https://www.frontlinecomm.com](https://www.frontlinecomm.com)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Front Office Sports Advertising
+ - [https://advertising.frontofficesports.com](https://advertising.frontofficesports.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Careers at Front Office Sports
+ - [https://careers.frontofficesports.com](https://careers.frontofficesports.com)
+ - date published: 2024-05-04T07:04:06.755251+00:00
+ - user: None
+ - tags: []
+
+## Front Office Sports
+ - [https://frontofficesports.com](https://frontofficesports.com)
+ - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Front Office Sports
+ - [https://shop.frontofficesports.com](https://shop.frontofficesports.com)
+ - date published: 2024-05-04T07:04:02.432858+00:00
+ - user: None
+ - tags: []
+
+## Front Office Sports
+ - [https://www.frontofficesports.com](https://www.frontofficesports.com)
+ - date published: 2024-04-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## FrontPage Magazine | Inside Every Progressive Is A Totalitarian Screaming To Get Out
+ - [http://frontpagemag.com](http://frontpagemag.com)
+ - date published: 2022-01-21T11:50:30+00:00
+ - user: None
+ - tags: []
+
+## FrontPage Magazine | Inside Every Progressive Is A Totalitarian Screaming To Get Out
+ - [http://www.frontpagemag.com](http://www.frontpagemag.com)
+ - date published: 2022-01-21T11:50:30+00:00
+ - user: None
+ - tags: []
+
+## fRoots Magazine
+ - [https://www.frootsmag.com](https://www.frootsmag.com)
+ - date published: 2024-04-28T01:57:11.709546+00:00
+ - user: None
+ - tags: []
+
+## Frore Systems
+ - [https://www.froresystems.com](https://www.froresystems.com)
+ - date published: 2023-10-25T14:39:04.489972+00:00
+ - user: None
+ - tags: ['cooling', 'airjet']
+
+## Frost Giant Studios
+ - [https://frostgiant.com](https://frostgiant.com)
+ - date published: 2024-04-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Shop - Frostwave Audio
+ - [https://frostwaveaudio.com](https://frostwaveaudio.com)
+ - date published: 2024-05-01T03:57:44.159484+00:00
+ - user: None
+ - tags: []
+
+## Home | Frozenbyte
+ - [https://www.frozenbyte.com](https://www.frozenbyte.com)
+ - date published: 2024-05-09T08:37:57.820945+00:00
+ - user: None
+ - tags: []
+
+## Frozen Evolution. Or, that’s not the way it is, Mr. Darwin.  A Farewell to Selfish Gene. | Introduction to Frozen plasticity theory by Jaroslav Flegr.
+ - [https://www.frozenevolution.com](https://www.frozenevolution.com)
+ - date published: 2024-05-06T13:14:29.459270+00:00
+ - user: None
+ - tags: []
+
+## Low-cost easy knitting patterns since 1989. — Frugal Knitting Haus
+ - [http://www.frugalhaus.com](http://www.frugalhaus.com)
+ - date published: 2024-05-07T16:03:11.511417+00:00
+ - user: None
+ - tags: []
+
+## Blog - Frugality and Freedom
+ - [https://www.frugalityandfreedom.com](https://www.frugalityandfreedom.com)
+ - date published: 2024-01-02T10:21:00.827352+00:00
+ - user: None
+ - tags: []
+
+## Frugence Fidel // React Developer
+ - [https://frugencefidel.com](https://frugencefidel.com)
+ - date published: 2024-05-11T10:11:00.942289+00:00
+ - user: None
+ - tags: []
+
+## Custom Web & Mobile App Development Services | Fruitful Code
+ - [http://fruitfulcode.com](http://fruitfulcode.com)
+ - date published: 2024-05-12T04:53:03.338875+00:00
+ - user: None
+ - tags: []
+
+## Fruition - Build Your Next Website With Notion, For Free
+ - [http://fruitionsite.com](http://fruitionsite.com)
+ - date published: 2024-05-06T19:57:43.568879+00:00
+ - user: None
+ - tags: []
+
+## FRUIT LOGISTICA - 5.-7. Februar 2025
+ - [http://www.fruitlogistica.com](http://www.fruitlogistica.com)
+ - date published: 2024-05-04T07:11:01.827690+00:00
+ - user: None
+ - tags: []
+
+## AD: Frontend
+ - [https://account.fruitnet.com](https://account.fruitnet.com)
+ - date published: 2024-05-04T07:04:52.499907+00:00
+ - user: None
+ - tags: []
+
+## Home | Fruitnet
+ - [https://www.fruitnet.com](https://www.fruitnet.com)
+ - date published: 2023-10-25T14:39:13.475748+00:00
+ - user: None
+ - tags: []
+
+## FRVR - Change the game
+ - [https://frvr.com](https://frvr.com)
+ - date published: 2024-05-06T17:48:02.500543+00:00
+ - user: None
+ - tags: []
+
+## FryAI
+ - [https://www.fry-ai.com](https://www.fry-ai.com)
+ - date published: 2023-10-25T14:39:16.490708+00:00
+ - user: None
+ - tags: []
+
+## risr/home — risr/ the new Fry
+ - [http://fry-it.com](http://fry-it.com)
+ - date published: 2024-05-02T10:58:41.591589+00:00
+ - user: None
+ - tags: []
+
+## Farming Simulator 19 Mods | FS19 Mods
+ - [https://www.fs19mods.com](https://www.fs19mods.com)
+ - date published: 2024-05-04T08:56:00.107872+00:00
+ - user: None
+ - tags: []
+
+## Compare, Download & Develop Open Source & Business Software - SourceForge
+ - [https://a.fsdn.com](https://a.fsdn.com)
+ - date published: 2024-02-24T12:02:39.274814+00:00
+ - user: None
+ - tags: []
+
+## Home - F-Secure Community
+ - [https://community.f-secure.com](https://community.f-secure.com)
+ - date published: 2024-05-04T09:05:17.632603+00:00
+ - user: None
+ - tags: []
+
+## F# for fun and profit
+ - [https://fsharpforfunandprofit.com](https://fsharpforfunandprofit.com)
+ - date published: 2023-10-25T14:39:18.087751+00:00
+ - user: None
+ - tags: []
+
+## FSN Capital – Leading Northern European private equity investment firm
+ - [https://www.fsncapital.com](https://www.fsncapital.com)
+ - date published: 2024-04-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Fstoppers - Photography News and Community for Creative Professionals
+ - [https://fstoppers.com](https://fstoppers.com)
+ - date published: 2024-05-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Symbols ☯ Emoji
+ - [https://fsymbols.com](https://fsymbols.com)
+ - date published: 2024-05-08T05:16:06.851253+00:00
+ - user: None
+ - tags: []
+
+## Fragment Synthesizer
+ - [https://www.fsynth.com](https://www.fsynth.com)
+ - date published: 2024-05-11T07:19:08.636321+00:00
+ - user: None
+ - tags: []
+
+## ABOUT THE FT
+ - [https://aboutus.ft.com](https://aboutus.ft.com)
+ - date published: 2024-05-04T07:11:58.983862+00:00
+ - user: None
+ - tags: []
+
+## Attention Required! | Cloudflare
+ - [https://applink.ft.com](https://applink.ft.com)
+ - date published: 2024-05-04T07:11:41.920710+00:00
+ - user: None
+ - tags: []
+
+## Financial Times Board Director Programme
+ - [https://bdp.ft.com](https://bdp.ft.com)
+ - date published: 2024-05-04T07:12:27.800195+00:00
+ - user: None
+ - tags: []
+
+## Future of the Car Summit | 7-9 May 2024, London | FT Live
+ - [https://car.live.ft.com](https://car.live.ft.com)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://channels.ft.com](https://channels.ft.com)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to FT Commercial, your strategic partner to help you shape and deliver the future of your business.
+        
+        
+            
+                - FT Commercial
+ - [https://commercial.ft.com](https://commercial.ft.com)
+ - date published: 2024-05-04T07:11:47.007432+00:00
+ - user: None
+ - tags: []
+
+## Engineering Progression
+ - [https://engineering-progression.ft.com](https://engineering-progression.ft.com)
+ - date published: 2024-05-06T13:28:20.245858+00:00
+ - user: None
+ - tags: []
+
+## FT Professional | Specialist resources and tools from the Financial Times
+ - [https://enterprise.ft.com](https://enterprise.ft.com)
+ - date published: 2024-05-04T07:12:03.727222+00:00
+ - user: None
+ - tags: []
+
+## Marketing Technology (MarTech)
+ - [https://ep.ft.com](https://ep.ft.com)
+ - date published: 2024-05-04T07:11:24.717326+00:00
+ - user: None
+ - tags: []
+
+## Financial Times - Live Events Discovery Page
+ - [https://events.ft.com](https://events.ft.com)
+ - date published: 2024-05-04T07:11:15.294525+00:00
+ - user: None
+ - tags: []
+
+## Future of Asset Management Asia 2024 - A Financial Times Live Event
+ - [https://foamasia.live.ft.com](https://foamasia.live.ft.com)
+ - date published: 2024-05-04T07:12:10.671285+00:00
+ - user: None
+ - tags: []
+
+## FT Forums
+ - [https://forums.ft.com](https://forums.ft.com)
+ - date published: 2024-05-04T07:11:16.949634+00:00
+ - user: None
+ - tags: []
+
+## FT Alphaville
+ - [https://ftalphaville.ft.com](https://ftalphaville.ft.com)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Financial Times
+ - [https://ft.com](https://ft.com)
+ - date published: 2024-05-04T07:11:31.399251+00:00
+ - user: None
+ - tags: []
+
+## Attention Required! | Cloudflare
+ - [https://ftedit.ft.com](https://ftedit.ft.com)
+ - date published: 2024-05-04T07:12:30.463227+00:00
+ - user: None
+ - tags: []
+
+## Help Centre
+ - [https://help.ft.com](https://help.ft.com)
+ - date published: 2024-05-04T07:11:20.072605+00:00
+ - user: None
+ - tags: []
+
+## Redirect to... FT visual journalism
+ - [https://ig.ft.com](https://ig.ft.com)
+ - date published: 2023-10-25T14:39:20.226820+00:00
+ - user: None
+ - tags: []
+
+## Login
+ - [https://kat.ft.com](https://kat.ft.com)
+ - date published: 2024-05-04T07:11:56.849352+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [http://labs.ft.com](http://labs.ft.com)
+ - date published: 2024-05-02T11:11:35.678793+00:00
+ - user: None
+ - tags: []
+
+## FT Live
+ - [https://live.ft.com](https://live.ft.com)
+ - date published: 2024-05-04T07:12:50.468866+00:00
+ - user: None
+ - tags: []
+
+## Markets data - stock market, bond, equity, commodity prices - FT.com
+ - [https://markets.ft.com](https://markets.ft.com)
+ - date published: 2024-05-04T07:11:23.759837+00:00
+ - user: None
+ - tags: []
+
+## Financial Times
+ - [https://on.ft.com](https://on.ft.com)
+ - date published: 2024-01-12T17:47:28.609831+00:00
+ - user: None
+ - tags: []
+
+## FT Professional | Specialist resources and tools from the Financial Times
+ - [https://professional.ft.com](https://professional.ft.com)
+ - date published: 2024-05-04T07:11:25.840425+00:00
+ - user: None
+ - tags: []
+
+## Home | FT Property Listings
+ - [https://propertylistings.ft.com](https://propertylistings.ft.com)
+ - date published: 2023-10-25T14:39:22.270151+00:00
+ - user: None
+ - tags: []
+
+## Business school rankings from the Financial Times - FT.com
+ - [https://rankings.ft.com](https://rankings.ft.com)
+ - date published: 2024-05-04T07:11:18.811487+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://transact.ft.com](https://transact.ft.com)
+ - date published: 2024-05-04T07:12:41.142864+00:00
+ - user: None
+ - tags: []
+
+## Financial Times Weekend Festival U.S. Edition - 4 May 2024
+ - [https://usftweekendfestival.live.ft.com](https://usftweekendfestival.live.ft.com)
+ - date published: 2024-05-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Financial Times
+ - [https://www.ft.com](https://www.ft.com)
+ - date published: 2023-10-25T10:26:31.468549+00:00
+ - user: None
+ - tags: []
+
+## FTAdviser
+ - [https://www.ftadviser.com](https://www.ftadviser.com)
+ - date published: 2023-10-25T14:39:26.291885+00:00
+ - user: None
+ - tags: []
+
+## FTB - FTB Bank Cambodia
+ - [https://www.ftbbank.com](https://www.ftbbank.com)
+ - date published: 2024-05-04T09:33:50.053623+00:00
+ - user: None
+ - tags: []
+
+## The Best Free WordPress Themes by Category - Hosting Victory
+ - [http://fthemes.com](http://fthemes.com)
+ - date published: 2020-07-09T12:37:37+00:00
+ - user: None
+ - tags: []
+
+## FTI
+ - [http://www.ftidefense.com](http://www.ftidefense.com)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Fantom (FTM) Blockchain Explorer
+ - [https://ftmscan.com](https://ftmscan.com)
+ - date published: 2024-05-07T13:26:13.241792+00:00
+ - user: None
+ - tags: []
+
+## Ftrain.com
+ - [https://www.ftrain.com](https://www.ftrain.com)
+ - date published: 2024-05-08T04:03:38.519109+00:00
+ - user: None
+ - tags: []
+
+## FTS InfoTech: The Enterprise iOS Developers
+ - [http://www.ftsinfotech.com](http://www.ftsinfotech.com)
+ - date published: 2024-05-04T11:49:10.803998+00:00
+ - user: None
+ - tags: []
+
+## FT Specialist Legal information
+ - [https://terms.ftspecialist.com](https://terms.ftspecialist.com)
+ - date published: 2024-11-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome | FT Specialist - Specialist insight from the Financial Times
+ - [https://www.ftspecialist.com](https://www.ftspecialist.com)
+ - date published: 2024-05-02T07:58:48.264182+00:00
+ - user: None
+ - tags: []
+
+## FTX
+ - [https://claims.ftx.com](https://claims.ftx.com)
+ - date published: 2024-05-04T07:13:05.331399+00:00
+ - user: None
+ - tags: []
+
+## FTX Homepage
+ - [https://ftx.com](https://ftx.com)
+ - date published: 2023-10-25T14:39:27.320966+00:00
+ - user: None
+ - tags: []
+
+## Fuckup Nights
+ - [https://community.fuckupnights.com](https://community.fuckupnights.com)
+ - date published: 2024-05-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Fuckup Nights
  - [https://en.fuckupnights.com](https://en.fuckupnights.com)
  - date published: 2024-01-09T02:36:56.864227+00:00
@@ -4553,6 +5181,12 @@
  - user: None
  - tags: []
 
+## Smart Notebook | The Original Reusable Notebook | Rocketbook
+ - [https://getrocketbook.com](https://getrocketbook.com)
+ - date published: 2024-05-24T13:32:45.977771+00:00
+ - user: None
+ - tags: []
+
 ## Salesramp - La Rémunération Variable. Simplifiée.
  - [https://www.getsalesramp.com](https://www.getsalesramp.com)
  - date published: 2024-02-13T00:00:00+00:00
@@ -5131,6 +5765,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - tags: []
 
 ## GIANTS Software
+ - [https://giants-software.com](https://giants-software.com)
+ - date published: 2024-05-24T18:54:37.974366+00:00
+ - user: None
+ - tags: []
+
+## GIANTS Software
  - [https://www.giants-software.com](https://www.giants-software.com)
  - date published: 2024-04-30T06:05:16.878711+00:00
  - user: None
@@ -5361,642 +6001,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## The Organism Company - Ginkgo Bioworks
  - [https://ginkgobioworks.com](https://ginkgobioworks.com)
  - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Organism Company - Ginkgo Bioworks
- - [https://www.ginkgobioworks.com](https://www.ginkgobioworks.com)
- - date published: 2024-04-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Intelcon
- - [https://intelcon.ginseg.com](https://intelcon.ginseg.com)
- - date published: 2023-06-08T06:40:07+00:00
- - user: None
- - tags: []
-
-## Giovanni Dicanio's Blog
- - [https://giodicanio.com](https://giodicanio.com)
- - date published: 2024-01-11T05:10:09.506308+00:00
- - user: None
- - tags: []
-
-## Gioel Gio – Creative action researcher
- - [https://gioelgio.com](https://gioelgio.com)
- - date published: 2024-01-15T08:33:12.975028+00:00
- - user: None
- - tags: ['personal']
-
-## Hi, I’m Giorgio. | Giorgio Pretto - UX Designer
- - [https://giorgiopretto.com](https://giorgiopretto.com)
- - date published: 2024-05-04T08:01:11.171591+00:00
- - user: None
- - tags: []
-
-## Hi, I’m Giorgio. | Giorgio Pretto - UX Designer
- - [https://www.giorgiopretto.com](https://www.giorgiopretto.com)
- - date published: 2023-12-30T15:36:47.787569+00:00
- - user: None
- - tags: ['personal']
-
-## Log in | giosg
- - [https://service.giosg.com](https://service.giosg.com)
- - date published: 1997-07-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Connect with Customers in Only Meaningful Interactions⼁giosg
- - [https://www.giosg.com](https://www.giosg.com)
- - date published: 2024-05-06T18:03:15.080806+00:00
- - user: None
- - tags: []
-
-## Log in | giosg
- - [https://3305.clients.giosgusercontent.com](https://3305.clients.giosgusercontent.com)
- - date published: 1997-07-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## GioCities
- - [https://blog.giovanh.com](https://blog.giovanh.com)
- - date published: 2023-10-25T14:44:19.226981+00:00
- - user: None
- - tags: []
-
-## unofficial-homestuck-collection
- - [https://homestuck.giovanh.com](https://homestuck.giovanh.com)
- - date published: 2024-05-04T08:01:14.141041+00:00
- - user: None
- - tags: []
-
-## The most feature rich custom GPT directory available
- - [https://gipeties.com](https://gipeties.com)
- - date published: 2123-10-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## GIPHY - Be Animated
- - [https://giphy.com](https://giphy.com)
- - date published: 2023-10-25T11:35:31.306073+00:00
- - user: None
- - tags: ['memes', 'images']
-
-## Home
- - [https://www.giriman.com](https://www.giriman.com)
- - date published: 2024-05-04T15:29:55.405970+00:00
- - user: None
- - tags: []
-
-## Girl Genius Online Comics
- - [https://www.girlgeniusonline.com](https://www.girlgeniusonline.com)
- - date published: 2024-04-28T02:55:46.207696+00:00
- - user: None
- - tags: []
-
-## GirlieMac! Blog
- - [https://girliemac.com](https://girliemac.com)
- - date published: 2023-10-25T09:20:33.038990+00:00
- - user: None
- - tags: ['personal']
-
-## Welcome to Rebel's Guide to Project Management
- - [https://www.girlsguidetopm.com](https://www.girlsguidetopm.com)
- - date published: 2021-12-20T05:16:32+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://girlswhocode.com](https://girlswhocode.com)
- - date published: 2024-02-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Girls Who Hack
- - [https://girlswhohack.com](https://girlswhohack.com)
- - date published: 2024-01-22T09:45:12+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.gislounge.com](https://www.gislounge.com)
- - date published: 2024-01-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gisoku Budo - musings of an amputee martial artist
- - [http://www.gisoku-budo.com](http://www.gisoku-budo.com)
- - date published: 2024-04-28T04:41:48.439487+00:00
- - user: None
- - tags: []
-
-## None
- - [https://api.gitbook.com](https://api.gitbook.com)
- - date published: 2024-03-19T14:36:11.261571+00:00
- - user: None
- - tags: []
-
-## GitBook
- - [https://app.gitbook.com](https://app.gitbook.com)
- - date published: 2024-05-06T21:15:11.911428+00:00
- - user: None
- - tags: []
-
-## 30 April: Broken link detection and GitBook AI comes out of beta | GitBook Changelog
- - [https://changelog.gitbook.com](https://changelog.gitbook.com)
- - date published: 2024-05-11T08:33:00.743050+00:00
- - user: None
- - tags: []
-
-## Welcome | GitBook Integration Platform
- - [https://developer.gitbook.com](https://developer.gitbook.com)
- - date published: 2024-03-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome | GitBook Documentation
- - [https://docs.gitbook.com](https://docs.gitbook.com)
- - date published: 2024-03-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Site Policy on GitBook | GitBook Site Policy
- - [https://policies.gitbook.com](https://policies.gitbook.com)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## GitBook – Knowledge management for technical teams
- - [https://www.gitbook.com](https://www.gitbook.com)
- - date published: 2024-03-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## GitButler
- - [https://app.gitbutler.com](https://app.gitbutler.com)
- - date published: 2024-05-04T08:02:14.684376+00:00
- - user: None
- - tags: []
-
-## GitButler
- - [https://blog.gitbutler.com](https://blog.gitbutler.com)
- - date published: 2024-02-13T17:41:10.721864+00:00
- - user: None
- - tags: []
-
-## Welcome to GitButler | GitButler
- - [https://docs.gitbutler.com](https://docs.gitbutler.com)
- - date published: 2024-03-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## GitButler | Git Branching, Refined
- - [https://gitbutler.com](https://gitbutler.com)
- - date published: 2024-02-13T17:40:46.878154+00:00
- - user: None
- - tags: []
-
-## The first Developer-Friendly Analytics tool - GitClear
- - [https://www.gitclear.com](https://www.gitclear.com)
- - date published: 2023-10-25T14:44:24.167415+00:00
- - user: None
- - tags: ['proprietary', 'github', 'analytics']
-
-## Level Up Coding
- - [https://levelup.gitconnected.com](https://levelup.gitconnected.com)
- - date published: 2023-10-25T14:44:29.186805+00:00
- - user: None
- - tags: []
-
-## Gitea Official Website
- - [https://about.gitea.com](https://about.gitea.com)
- - date published: 2024-03-04T11:35:45.950048+00:00
- - user: None
- - tags: ['self-host']
-
-## Blog | Gitea Blog
- - [https://blog.gitea.com](https://blog.gitea.com)
- - date published: 2023-10-25T14:44:31.437032+00:00
- - user: None
- - tags: []
-
-## Gitea Cloud
- - [https://cloud.gitea.com](https://cloud.gitea.com)
- - date published: 2024-05-14T03:30:51.838942+00:00
- - user: None
- - tags: []
-
-## Gitea Customers Portal
- - [https://customers.gitea.com](https://customers.gitea.com)
- - date published: 2024-05-14T03:30:53.025685+00:00
- - user: None
- - tags: []
-
-## Documentation | Gitea Documentation
- - [https://docs.gitea.com](https://docs.gitea.com)
- - date published: 2024-03-04T11:36:04.602677+00:00
- - user: None
- - tags: []
-
-## Gitea
- - [https://forum.gitea.com](https://forum.gitea.com)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gitea Official Website
- - [https://gitea.com](https://gitea.com)
- - date published: 2024-04-28T03:23:35.358995+00:00
- - user: None
- - tags: []
-
-## GitGuardian API
- - [https://api.gitguardian.com](https://api.gitguardian.com)
- - date published: 2024-05-04T08:04:21.726067+00:00
- - user: None
- - tags: []
-
-## GitGuardian Blog
- - [https://blog.gitguardian.com](https://blog.gitguardian.com)
- - date published: 2023-10-25T14:44:40.974111+00:00
- - user: None
- - tags: []
-
-## GitGuardian
- - [https://dashboard.gitguardian.com](https://dashboard.gitguardian.com)
- - date published: 2024-05-04T08:04:28.640877+00:00
- - user: None
- - tags: []
-
-## GitGuardian[docs] | GitGuardian documentation
- - [https://docs.gitguardian.com](https://docs.gitguardian.com)
- - date published: 2024-05-04T08:04:24.874299+00:00
- - user: None
- - tags: []
-
-## GitGuardian Labs
- - [https://labs.gitguardian.com](https://labs.gitguardian.com)
- - date published: 2024-04-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## GitGuardian: Git Security Scanning & Secrets Detection
- - [https://www.gitguardian.com](https://www.gitguardian.com)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## CDN for your source code | raw.githack.com
- - [https://rawcdn.githack.com](https://rawcdn.githack.com)
- - date published: 2024-05-06T16:13:50.057587+00:00
- - user: None
- - tags: []
-
-## CDN for your source code | raw.githack.com
- - [https://raw.githack.com](https://raw.githack.com)
- - date published: 2024-05-02T14:02:11.839073+00:00
- - user: None
- - tags: []
-
-## GitHub Accelerator
- - [https://accelerator.github.com](https://accelerator.github.com)
- - date published: 2023-10-25T14:44:43.194804+00:00
- - user: None
- - tags: []
-
-## GitHub Archive Program
- - [https://archiveprogram.github.com](https://archiveprogram.github.com)
- - date published: 2024-05-06T14:19:51.295947+00:00
- - user: None
- - tags: ['open source']
-
-## The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.
- - [https://blog.github.com](https://blog.github.com)
- - date published: 2024-05-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## GitHub CLI
- - [https://cli.github.com](https://cli.github.com)
- - date published: 2024-05-06T18:31:15.173827+00:00
- - user: None
- - tags: ['cli program', 'github']
-
-## CodeQL
- - [https://codeql.github.com](https://codeql.github.com)
- - date published: 2024-05-04T08:04:32.057090+00:00
- - user: None
- - tags: []
-
-## GitHub Copilot · Your AI pair programmer
- - [https://copilot.github.com](https://copilot.github.com)
- - date published: 2024-01-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## GitHub Desktop
- - [https://desktop.github.com](https://desktop.github.com)
- - date published: 2024-04-28T03:22:24.895607+00:00
- - user: None
- - tags: []
-
-## GitHub.com Help Documentation
- - [https://developer.github.com](https://developer.github.com)
- - date published: 2024-05-04T08:04:34.923836+00:00
- - user: None
- - tags: []
-
-## GitHub Docs
- - [https://docs.github.com](https://docs.github.com)
- - date published: 2023-10-25T14:44:44.496737+00:00
- - user: None
- - tags: []
-
-## Discounted and free plans are available for educational use
- - [https://education.github.com](https://education.github.com)
- - date published: 2024-04-28T03:22:17.325871+00:00
- - user: None
- - tags: []
-
-## Discover gists · GitHub
- - [https://gist.github.com](https://gist.github.com)
- - date published: 2023-10-25T14:44:47.049318+00:00
- - user: None
- - tags: ['code sandbox']
-
-## GitHub: Let’s build from here · GitHub
- - [https://github.com](https://github.com)
- - date published: 2023-10-25T14:42:43.938249+00:00
- - user: None
- - tags: ['gatekeeper', 'software platform']
-
-## Grimoire: Open-Source bookmark manager with extra features
- - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
- - date published: 2023-11-26T08:04:54+00:00
- - user: rumpel
- - tags: ['bookmark manager', 'open source']
-
-## Git Large File Storage
- - [https://git-lfs.github.com](https://git-lfs.github.com)
- - date published: 2024-05-06T13:40:20.201632+00:00
- - user: None
- - tags: []
-
-## Sign in for Software Support and Product Help - GitHub Support
- - [https://help.github.com](https://help.github.com)
- - date published: 2024-04-28T02:07:20.230536+00:00
- - user: None
- - tags: []
-
-## GitHub Next
- - [https://next.github.com](https://next.github.com)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## GitHub Octodex
- - [https://octodex.github.com](https://octodex.github.com)
- - date published: 2024-05-06T18:13:12.422753+00:00
- - user: None
- - tags: []
-
-## Octoverse 2023: The state of open source
- - [https://octoverse.github.com](https://octoverse.github.com)
- - date published: 2024-05-04T08:10:48.126416+00:00
- - user: None
- - tags: []
-
-## GitHub Pages
- - [https://pages.github.com](https://pages.github.com)
- - date published: 2023-10-25T08:40:58.526731+00:00
- - user: None
- - tags: []
-
-## Partner with GitHub
- - [https://partner.github.com](https://partner.github.com)
- - date published: 2024-04-28T03:22:16.033666+00:00
- - user: None
- - tags: []
-
-## GitHub: Let’s build from here
- - [https://raw.github.com](https://raw.github.com)
- - date published: 2024-04-28T01:54:45.281980+00:00
- - user: None
- - tags: []
-
-## Home - GitHub Resources
- - [https://resources.github.com](https://resources.github.com)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## GitHub Security Lab | Securing the world’s software, together
- - [https://securitylab.github.com](https://securitylab.github.com)
- - date published: 2023-10-25T14:44:54.681852+00:00
- - user: None
- - tags: []
-
-## GitHub Services
- - [https://services.github.com](https://services.github.com)
- - date published: 2024-04-28T03:22:31.605679+00:00
- - user: None
- - tags: []
-
-## The GitHub Shop | Home
- - [https://shop.github.com](https://shop.github.com)
- - date published: 2024-04-28T03:22:24.005083+00:00
- - user: None
- - tags: []
-
-## GitHub Skills
- - [https://skills.github.com](https://skills.github.com)
- - date published: 2024-04-28T03:22:18.215794+00:00
- - user: None
- - tags: []
-
-## Your GitHub story in 3D - GitHub Skyline
- - [https://skyline.github.com](https://skyline.github.com)
- - date published: 2023-10-25T14:44:56.097492+00:00
- - user: None
- - tags: []
-
-## GitHub Social Impact
- - [https://socialimpact.github.com](https://socialimpact.github.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## GitHub Status
- - [https://status.github.com](https://status.github.com)
- - date published: 2024-05-12T07:00:31.112121+00:00
- - user: None
- - tags: []
-
-## Sign in for Software Support and Product Help - GitHub Support
- - [https://support.github.com](https://support.github.com)
- - date published: 2024-04-28T03:22:20.272116+00:00
- - user: None
- - tags: []
-
-## GitHub Training Kit
- - [https://training.github.com](https://training.github.com)
- - date published: 2024-05-04T08:04:32.988860+00:00
- - user: None
- - tags: []
-
-## GitHub: Let’s build from here
- - [https://uploads.github.com](https://uploads.github.com)
- - date published: 2024-05-11T09:11:21.393096+00:00
- - user: None
- - tags: []
-
-## GitHub for VS Code
- - [https://vscode-auth.github.com](https://vscode-auth.github.com)
- - date published: 2024-04-30T02:28:44.940343+00:00
- - user: None
- - tags: []
-
-## GitHub Desktop
- - [https://windows.github.com](https://windows.github.com)
- - date published: 2024-05-07T11:04:17.519575+00:00
- - user: None
- - tags: []
-
-## GitHub: Let’s build from here
- - [https://www.github.com](https://www.github.com)
- - date published: 2024-03-03T11:34:58.164714+00:00
- - user: None
- - tags: []
-
-## Issue Roulette
- - [https://github2.com](https://github2.com)
- - date published: 2024-04-30T05:42:22.477195+00:00
- - user: None
- - tags: []
-
-## Join the Gitroom Discord Server!
- - [https://discord.github20k.com](https://discord.github20k.com)
- - date published: 2024-05-04T08:12:05.409598+00:00
- - user: None
- - tags: []
-
-## Gitroom - Repositories list
- - [https://libraries.github20k.com](https://libraries.github20k.com)
- - date published: 2024-05-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick
- - [https://githubcopilotinvestigation.com](https://githubcopilotinvestigation.com)
- - date published: 2023-10-25T14:44:58.558633+00:00
- - user: None
- - tags: []
-
-## GitHub Copilot litigation ôñô Joseph Saveri Law Firmô & Matthew Butterick
- - [https://githubcopilotlitigation.com](https://githubcopilotlitigation.com)
- - date published: 2023-10-25T14:45:00.133493+00:00
- - user: None
- - tags: []
-
-## GitHub Blocks
- - [https://blocks.githubnext.com](https://blocks.githubnext.com)
- - date published: 2023-10-25T14:45:06.114880+00:00
- - user: None
- - tags: []
-
-## GitHub Next
- - [https://githubnext.com](https://githubnext.com)
- - date published: 2023-10-25T14:45:09.306656+00:00
- - user: None
- - tags: []
-
-## Monaspace
- - [https://monaspace.githubnext.com](https://monaspace.githubnext.com)
- - date published: 2023-11-09T20:16:34+00:00
- - user: None
- - tags: []
-
-## GitHub Status
- - [https://www.githubstatus.com](https://www.githubstatus.com)
- - date published: 2023-10-25T14:45:11.841528+00:00
- - user: None
- - tags: ['down detector']
-
-## GitHub Universe - November 8-9, 2023
- - [https://githubuniverse.com](https://githubuniverse.com)
- - date published: 2023-10-25T14:45:13.916652+00:00
- - user: None
- - tags: []
-
-## GitHub: Let’s build from here
- - [https://avatars0.githubusercontent.com](https://avatars0.githubusercontent.com)
- - date published: 2024-04-28T03:26:26.357857+00:00
- - user: None
- - tags: []
-
-## GitHub: Let’s build from here
- - [https://avatars1.githubusercontent.com](https://avatars1.githubusercontent.com)
- - date published: 2024-04-28T03:53:53.443623+00:00
- - user: None
- - tags: []
-
-## GitHub: Let’s build from here
- - [https://avatars2.githubusercontent.com](https://avatars2.githubusercontent.com)
- - date published: 2024-04-28T03:25:28.472869+00:00
- - user: None
- - tags: []
-
-## GitHub: Let’s build from here
- - [https://avatars3.githubusercontent.com](https://avatars3.githubusercontent.com)
- - date published: 2024-04-28T03:40:23.038649+00:00
- - user: None
- - tags: []
-
-## GitHub: Let’s build from here
- - [https://avatars.githubusercontent.com](https://avatars.githubusercontent.com)
- - date published: 2024-04-28T02:36:40.533435+00:00
- - user: None
- - tags: []
-
-## Discover gists
- - [https://gist.githubusercontent.com](https://gist.githubusercontent.com)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## GitHub: Let’s build from here
- - [https://media.githubusercontent.com](https://media.githubusercontent.com)
- - date published: 2024-05-09T08:52:36.862139+00:00
- - user: None
- - tags: []
-
-## None
- - [https://objects.githubusercontent.com](https://objects.githubusercontent.com)
- - date published: 2024-01-09T02:37:27.707839+00:00
- - user: None
- - tags: []
-
-## None
- - [https://private-user-images.githubusercontent.com](https://private-user-images.githubusercontent.com)
- - date published: 2024-04-21T20:46:16.369949+00:00
- - user: None
- - tags: []
-
-## GitHub: Let’s build from here
- - [https://raw.githubusercontent.com](https://raw.githubusercontent.com)
- - date published: 2024-04-28T02:44:44.457925+00:00
- - user: None
- - tags: []
-
-## GitKraken Legendary Git Tools | GitKraken
- - [https://www.gitkraken.com](https://www.gitkraken.com)
- - date published: 2024-03-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## The DevSecOps Platform | GitLab
- - [https://about.gitlab.com](https://about.gitlab.com)
- - date published: 2023-10-25T14:45:15.830655+00:00
  - user: None
  - tags: []
 

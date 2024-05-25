@@ -950,7 +950,7 @@
  - [https://claude.ai](https://claude.ai)
  - date published: 2024-05-09T05:04:34.358359+00:00
  - user: None
- - tags: []
+ - tags: ['artificial intelligence bot', 'search engine']
 
 ## Cleanlab
  - [https://cleanlab.ai](https://cleanlab.ai)
@@ -1603,6 +1603,12 @@
 ## Fireworks.ai – Medium
  - [https://blog.fireworks.ai](https://blog.fireworks.ai)
  - date published: 2023-12-21T09:50:10.116514+00:00
+ - user: None
+ - tags: []
+
+## Fireworks - Generative AI For Product Innovation!
+ - [https://fireworks.ai](https://fireworks.ai)
+ - date published: 2024-05-24T19:34:58.576030+00:00
  - user: None
  - tags: []
 
@@ -2884,6 +2890,12 @@
  - user: None
  - tags: ['artificial intelligence api']
 
+## OpenRouter
+ - [https://openrouter.ai](https://openrouter.ai)
+ - date published: 2024-05-24T19:35:09.789225+00:00
+ - user: None
+ - tags: []
+
 ## Artificial Intelligence for Online Stores - Optimus Price
  - [https://optimusprice.ai](https://optimusprice.ai)
  - date published: 2024-05-06T00:00:00+00:00
@@ -2968,6 +2980,12 @@
  - user: None
  - tags: []
 
+## pplx-api
+ - [https://docs.perplexity.ai](https://docs.perplexity.ai)
+ - date published: 2024-05-24T19:35:03.475932+00:00
+ - user: None
+ - tags: []
+
 ## Perplexity Labs Playground
  - [https://labs.perplexity.ai](https://labs.perplexity.ai)
  - date published: 2023-12-19T17:44:33+00:00
@@ -2978,13 +2996,13 @@
  - [https://perplexity.ai](https://perplexity.ai)
  - date published: 2024-05-14T03:37:40.311437+00:00
  - user: None
- - tags: []
+ - tags: ['artificial intelligence bot', 'search engine']
 
 ## https://www.perplexity.ai
  - [https://www.perplexity.ai](https://www.perplexity.ai)
  - date published: 2023-10-25T12:44:02.078801+00:00
  - user: None
- - tags: ['artificial intelligence bot']
+ - tags: ['artificial intelligence bot', 'search engine']
 
 ## PetPic
  - [https://www.petpic.ai](https://www.petpic.ai)
@@ -5977,24 +5995,6 @@
 ## Cuddler Webring Index
  - [https://cuddler-webring.netlify.app](https://cuddler-webring.netlify.app)
  - date published: 2024-05-06T15:00:29.303761+00:00
- - user: None
- - tags: []
-
-## Un garçon pas comme les autres (Bayes)
- - [https://dansblog.netlify.app](https://dansblog.netlify.app)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pokémon Cards CSS Holographic Effect
- - [https://deck-24abcd.netlify.app](https://deck-24abcd.netlify.app)
- - date published: 2023-10-25T11:47:24.028454+00:00
- - user: None
- - tags: []
-
-## Bingus Bwamp’s Emporium of Enchanted Stones
- - [https://dnd-lamp-store.netlify.app](https://dnd-lamp-store.netlify.app)
- - date published: 2024-04-29T07:31:56.578472+00:00
  - user: None
  - tags: []
 
