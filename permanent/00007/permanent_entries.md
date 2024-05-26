@@ -1,3 +1,51 @@
+## Marketing automation for any business
+ - [https://www.activecampaign.com](https://www.activecampaign.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Collaborative Project Management Software · ActiveCollab
+ - [https://activecollab.com](https://activecollab.com)
+ - date published: 2024-05-01T05:58:03.594030+00:00
+ - user: None
+ - tags: []
+
+## ADAMLEVIN Email Marketing
+ - [https://adamlevin.activehosted.com](https://adamlevin.activehosted.com)
+ - date published: 2024-05-09T07:06:42.986878+00:00
+ - user: None
+ - tags: []
+
+## ANCIENT-ORIGINS Email Marketing
+ - [https://ancient-origins.activehosted.com](https://ancient-origins.activehosted.com)
+ - date published: 2024-05-10T09:09:34.299807+00:00
+ - user: None
+ - tags: []
+
+## BRIANROLLO Email Marketing
+ - [https://brianrollo.activehosted.com](https://brianrollo.activehosted.com)
+ - date published: 2024-05-10T06:45:36.886368+00:00
+ - user: None
+ - tags: []
+
+## BRUSSELSSIGNALEU Email Marketing
+ - [https://brusselssignal.activehosted.com](https://brusselssignal.activehosted.com)
+ - date published: 2024-05-07T23:31:47.052431+00:00
+ - user: None
+ - tags: []
+
+## CNYFAMILY Email Marketing
+ - [https://cnyfamily.activehosted.com](https://cnyfamily.activehosted.com)
+ - date published: 2024-05-01T05:43:57.505206+00:00
+ - user: None
+ - tags: []
+
+## Commentary Magazine
+ - [https://commentary.activehosted.com](https://commentary.activehosted.com)
+ - date published: 2024-05-12T07:12:04.291348+00:00
+ - user: None
+ - tags: []
+
 ## DIGILENT Email Marketing
  - [https://digilent.activehosted.com](https://digilent.activehosted.com)
  - date published: 2024-05-01T05:10:50.139361+00:00
@@ -1624,7 +1672,7 @@
  - [https://www.ads.com](https://www.ads.com)
  - date published: 2024-05-24T23:04:17.075528+00:00
  - user: None
- - tags: []
+ - tags: ['monetization', 'ad business']
 
 ## Serving the Flight Tracking Enthusiast - ADS-B Exchange
  - [https://www.adsbexchange.com](https://www.adsbexchange.com)
@@ -1947,6 +1995,12 @@
 ## AdvertSERVE Control Panel
  - [https://gearspace.advertserve.com](https://gearspace.advertserve.com)
  - date published: 2024-05-04T07:33:49.046366+00:00
+ - user: None
+ - tags: []
+
+## Jewish Content Network
+ - [https://jewishcontentnetwork.advertserve.com](https://jewishcontentnetwork.advertserve.com)
+ - date published: 2024-05-25T04:34:35.122061+00:00
  - user: None
  - tags: []
 
@@ -4292,6 +4346,12 @@
  - user: None
  - tags: []
 
+## Alan Cross' A Journal of Musical Things
+ - [https://www.ajournalofmusicalthings.com](https://www.ajournalofmusicalthings.com)
+ - date published: 2024-05-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## ~ajroach42.com – I'm Andrew. I write about the past and future of tech, music, media, culture, art, and activism. This is my blog.
  - [https://ajroach42.com](https://ajroach42.com)
  - date published: 2023-11-15T17:40:49.093816+00:00
@@ -5402,7 +5462,7 @@
  - [https://alexsci.com](https://alexsci.com)
  - date published: 2023-10-25T12:38:05.842613+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home | Alex Sidorenko
  - [https://alexsidorenko.com](https://alexsidorenko.com)
@@ -5943,64 +6003,4 @@
  - date published: 2023-10-24T20:19:53.605037+00:00
  - user: None
  - tags: ['digital marketplace']
-
-## Home -
- - [https://alifeunlived.com](https://alifeunlived.com)
- - date published: 2023-12-22T17:50:45.863289+00:00
- - user: None
- - tags: ['personal']
-
-## Home -
- - [http://www.alifeunlived.com](http://www.alifeunlived.com)
- - date published: 2015-08-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Business Networking Platform | Alignable
- - [https://www.alignable.com](https://www.alignable.com)
- - date published: 2024-05-07T10:56:08.402570+00:00
- - user: None
- - tags: []
-
-## Scott Murray — alignedleft
- - [http://alignedleft.com](http://alignedleft.com)
- - date published: 2024-05-06T16:30:39.895844+00:00
- - user: None
- - tags: ['personal', 'interesting page design']
-
-## andrei alikimovich, product designer
- - [https://alikimovich.com](https://alikimovich.com)
- - date published: 2024-05-09T06:17:10.552170+00:00
- - user: None
- - tags: []
-
-## 阿里妈妈数智经营
- - [http://www.alimama.com](http://www.alimama.com)
- - date published: 2024-05-09T04:41:53.605774+00:00
- - user: None
- - tags: []
-
-## Aline Stanway  Ceramics
- - [http://alinestanwayceramics.com](http://alinestanwayceramics.com)
- - date published: 2024-05-20T02:47:17.798578+00:00
- - user: None
- - tags: []
-
-## Alin Panaitiu - Personal website
- - [https://alinpanaitiu.com](https://alinpanaitiu.com)
- - date published: 2023-10-25T12:38:29.860110+00:00
- - user: None
- - tags: ['personal']
-
-## Notes and ramblings — Alin Panaitiu
- - [https://notes.alinpanaitiu.com](https://notes.alinpanaitiu.com)
- - date published: 2023-10-25T12:38:38.027163+00:00
- - user: None
- - tags: []
-
-## Plausible · Web analytics
- - [https://plausible.alinpanaitiu.com](https://plausible.alinpanaitiu.com)
- - date published: 2024-05-01T03:13:40.975999+00:00
- - user: None
- - tags: []
 

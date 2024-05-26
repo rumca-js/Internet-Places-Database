@@ -1,3 +1,309 @@
+## Sign in to your account
+ - [https://compliance.microsoft.com](https://compliance.microsoft.com)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Info
+ - [https://connect.microsoft.com](https://connect.microsoft.com)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Copilot: Your everyday AI companion
+ - [https://copilot.microsoft.com](https://copilot.microsoft.com)
+ - date published: 2024-04-29T02:49:49.964886+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Customer Stories
+ - [https://customers.microsoft.com](https://customers.microsoft.com)
+ - date published: 2024-05-08T07:27:26.402375+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Designer - Stunning designs in a flash
+ - [https://designer.microsoft.com](https://designer.microsoft.com)
+ - date published: 2023-10-25T16:03:31.208056+00:00
+ - user: None
+ - tags: []
+
+## DevBlogs - Microsoft Developer Blogs
+ - [https://devblogs.microsoft.com](https://devblogs.microsoft.com)
+ - date published: 2023-10-25T10:14:03.592606+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Developer Community
+ - [https://developercommunity.microsoft.com](https://developercommunity.microsoft.com)
+ - date published: 2024-05-08T07:27:28.574938+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Developer
+ - [https://developer.microsoft.com](https://developer.microsoft.com)
+ - date published: 2024-01-15T13:49:47.590358+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Learn: Build skills that open doors in your career
+ - [https://docs.microsoft.com](https://docs.microsoft.com)
+ - date published: 2023-10-25T11:30:47.045143+00:00
+ - user: None
+ - tags: []
+
+## .NET | Build. Test. Deploy.
+ - [https://dotnet.microsoft.com](https://dotnet.microsoft.com)
+ - date published: 2024-04-30T02:31:00.357576+00:00
+ - user: None
+ - tags: []
+
+## Download Drivers & Updates for Microsoft, Windows and more - Microsoft Download Center
+ - [http://download.microsoft.com](http://download.microsoft.com)
+ - date published: 2024-05-01T07:31:51.863543+00:00
+ - user: None
+ - tags: []
+
+## Business Applications | Microsoft Dynamics 365
+ - [https://dynamics.microsoft.com](https://dynamics.microsoft.com)
+ - date published: 2024-04-28T02:27:06.759348+00:00
+ - user: None
+ - tags: []
+
+## Educator Center Overview - Microsoft Learn Educator Center
+ - [https://education.microsoft.com](https://education.microsoft.com)
+ - date published: 2024-03-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Virtual Events Powered by Teams
+ - [https://events.teams.microsoft.com](https://events.teams.microsoft.com)
+ - date published: 2024-05-11T09:33:36.685368+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Power Automate
+ - [https://flow.microsoft.com](https://flow.microsoft.com)
+ - date published: 2024-05-06T14:01:53.317175+00:00
+ - user: None
+ - tags: []
+
+## Fluent 2 Design System
+ - [https://fluent.microsoft.com](https://fluent.microsoft.com)
+ - date published: 2024-04-29T07:04:30.314105+00:00
+ - user: None
+ - tags: []
+
+## Microsoft – chmura, komputery, aplikacje i gry
+ - [https://go.microsoft.com](https://go.microsoft.com)
+ - date published: 2024-04-28T02:26:37.044247+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Graph Dev Center | APIs and app development
+ - [https://graph.microsoft.com](https://graph.microsoft.com)
+ - date published: 2024-05-07T09:12:40.653122+00:00
+ - user: None
+ - tags: []
+
+## Join us November 18–22, 2024
+ - [https://ignite.microsoft.com](https://ignite.microsoft.com)
+ - date published: 2024-05-04T06:46:32.533987+00:00
+ - user: None
+ - tags: []
+
+## Search Jobs | Microsoft Careers
+ - [https://jobs.careers.microsoft.com](https://jobs.careers.microsoft.com)
+ - date published: 2023-10-25T11:31:38.386584+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Learn: Build skills that open doors in your career
+ - [https://learn.microsoft.com](https://learn.microsoft.com)
+ - date published: 2023-10-25T11:30:34.619514+00:00
+ - user: None
+ - tags: []
+
+## Microsoft – chmura, komputery, aplikacje i gry
+ - [https://microsoft.com](https://microsoft.com)
+ - date published: 2024-04-28T02:26:51.043312+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Edge Addons
+ - [https://microsoftedge.microsoft.com](https://microsoftedge.microsoft.com)
+ - date published: 2024-04-28T02:27:44.674398+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Learn: Build skills that open doors in your career
+ - [https://msdn.microsoft.com](https://msdn.microsoft.com)
+ - date published: 2024-01-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Security Response Center
+ - [https://msrc.microsoft.com](https://msrc.microsoft.com)
+ - date published: 2023-10-25T11:31:41.607143+00:00
+ - user: None
+ - tags: []
+
+## Training
+ - [https://mva.microsoft.com](https://mva.microsoft.com)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MVP Communities
+ - [https://mvp.microsoft.com](https://mvp.microsoft.com)
+ - date published: 2024-05-01T03:17:41.338029+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Source
+ - [https://news.microsoft.com](https://news.microsoft.com)
+ - date published: 2023-10-25T10:52:37.879287+00:00
+ - user: None
+ - tags: []
+
+## Microsoft 365 — subskrypcja aplikacji pakietu Office | Microsoft 365
+ - [https://office.microsoft.com](https://office.microsoft.com)
+ - date published: 2024-05-01T07:12:39.982719+00:00
+ - user: None
+ - tags: []
+
+## Microsoft 365 — subskrypcja aplikacji pakietu Office | Microsoft 365
+ - [http://officeupdate.microsoft.com](http://officeupdate.microsoft.com)
+ - date published: 2024-05-08T09:31:56.465323+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://opensource.microsoft.com](https://opensource.microsoft.com)
+ - date published: 2024-05-04T15:16:54.843492+00:00
+ - user: None
+ - tags: []
+
+## Build and sell your solutions— with the Microsoft AI Cloud Partner Program
+ - [https://partner.microsoft.com](https://partner.microsoft.com)
+ - date published: 2024-05-07T10:50:27.054452+00:00
+ - user: None
+ - tags: []
+
+## Find the right app | Microsoft AppSource
+ - [http://pinpoint.microsoft.com](http://pinpoint.microsoft.com)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Power BI - Data Visualization | Microsoft Power Platform
+ - [https://powerbi.microsoft.com](https://powerbi.microsoft.com)
+ - date published: 2024-04-28T02:26:59.670268+00:00
+ - user: None
+ - tags: []
+
+## AI-Powered Low-Code Tools | Microsoft Power Platform
+ - [https://powerplatform.microsoft.com](https://powerplatform.microsoft.com)
+ - date published: 2024-04-28T02:27:25.833362+00:00
+ - user: None
+ - tags: []
+
+## What is Power Query? - Power Query
+ - [https://powerquery.microsoft.com](https://powerquery.microsoft.com)
+ - date published: 2024-05-07T09:12:35.842081+00:00
+ - user: None
+ - tags: []
+
+## Privacy – Microsoft privacy
+ - [https://privacy.microsoft.com](https://privacy.microsoft.com)
+ - date published: 2024-04-28T02:26:35.216255+00:00
+ - user: None
+ - tags: []
+
+## Sign in to your account
+ - [https://redeem.microsoft.com](https://redeem.microsoft.com)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Research – Emerging Technology, Computer, and Software Research
+ - [https://research.microsoft.com](https://research.microsoft.com)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## schemas.microsoft.com
+ - [http://schemas.microsoft.com](http://schemas.microsoft.com)
+ - date published: 2024-04-28T02:23:34.892315+00:00
+ - user: None
+ - tags: []
+
+## Sign in to your account
+ - [https://security.microsoft.com](https://security.microsoft.com)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Microsoft - Sign up
+ - [https://signup.microsoft.com](https://signup.microsoft.com)
+ - date published: 2024-05-10T04:00:55.969472+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Learn: Build skills that open doors in your career
+ - [https://social.technet.microsoft.com](https://social.technet.microsoft.com)
+ - date published: 2024-01-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Speech Studio
+ - [https://speech.microsoft.com](https://speech.microsoft.com)
+ - date published: 2024-05-04T12:25:58.984217+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Support
+ - [https://support.microsoft.com](https://support.microsoft.com)
+ - date published: 2023-10-25T16:03:34.137323+00:00
+ - user: None
+ - tags: []
+
+## Services Hub
+ - [https://support.serviceshub.microsoft.com](https://support.serviceshub.microsoft.com)
+ - date published: 2024-05-07T10:50:21.251769+00:00
+ - user: None
+ - tags: []
+
+## checking your credentials..
+ - [https://teams.microsoft.com](https://teams.microsoft.com)
+ - date published: 2023-10-25T16:03:34.551273+00:00
+ - user: None
+ - tags: []
+
+## Home - Microsoft Community Hub
+ - [https://techcommunity.microsoft.com](https://techcommunity.microsoft.com)
+ - date published: 2023-10-25T10:52:42.152193+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Learn: Build skills that open doors in your career
+ - [https://technet.microsoft.com](https://technet.microsoft.com)
+ - date published: 2024-01-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://unlocked.microsoft.com](https://unlocked.microsoft.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Visual Studio: IDE and Code Editor for Software Developers and Teams
+ - [https://visualstudio.microsoft.com](https://visualstudio.microsoft.com)
+ - date published: 2023-11-03T20:33:06.635502+00:00
+ - user: None
+ - tags: ['visual studio', 'programming ide']
+
 ## Experience the Power of Windows 11 OS, Computers, & Apps
  - [https://windows.microsoft.com](https://windows.microsoft.com)
  - date published: 2024-05-06T15:57:41.934072+00:00
@@ -1943,6 +2249,12 @@ Customer Insights
  - date published: 2023-12-13T16:21:13.253161+00:00
  - user: None
  - tags: ['world of warcraft', 'news']
+
+## Monochrome
+ - [https://www.mmonochrome.com](https://www.mmonochrome.com)
+ - date published: 2024-05-25T09:50:43.945792+00:00
+ - user: None
+ - tags: []
 
 ## MMO Video Game News, Reviews & Games List | MMORPG.com
  - [https://www.mmorpg.com](https://www.mmorpg.com)
@@ -5685,318 +5997,6 @@ Customer Insights
 ## myDevices Documentation | myDevices Documentation
  - [https://developers.mydevices.com](https://developers.mydevices.com)
  - date published: 2024-05-04T07:48:56.694698+00:00
- - user: None
- - tags: []
-
-## Golfweek Demo | Tee Times - Site Map
- - [https://www.mydigitalpublication.com](https://www.mydigitalpublication.com)
- - date published: 2024-05-04T14:11:10.310015+00:00
- - user: None
- - tags: []
-
-## Cloudflare Captcha Page
- - [http://mydomain.com](http://mydomain.com)
- - date published: 2024-04-20T05:14:14.001515+00:00
- - user: None
- - tags: []
-
-## Cloudflare Captcha Page
- - [http://www.mydomain.com](http://www.mydomain.com)
- - date published: 2024-04-16T17:18:47.027736+00:00
- - user: None
- - tags: ['website builder']
-
-## An error occured
- - [https://www.mydomaincontact.com](https://www.mydomaincontact.com)
- - date published: 2024-05-04T14:41:05.547922+00:00
- - user: None
- - tags: []
-
-## My Everett News
- - [https://myeverettnews.com](https://myeverettnews.com)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## My Favorite Quilt Store: Quilting Fabric, Quilt Kits, Precut Bundles
- - [https://myfavoritequiltstore.com](https://myfavoritequiltstore.com)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Calorie Tracker & BMR Calculator to Reach Your Goals | MyFitnessPal
- - [https://www.myfitnesspal.com](https://www.myfitnesspal.com)
- - date published: 2024-05-01T06:50:08.182531+00:00
- - user: None
- - tags: []
-
-## MyFolio | Financial Software for your Property Portfolio
- - [http://myfolio.com](http://myfolio.com)
- - date published: 2024-05-07T13:56:40.932862+00:00
- - user: None
- - tags: []
-
-## MyFonts | Buy and Download Fonts
- - [https://www.myfonts.com](https://www.myfonts.com)
- - date published: 2024-04-29T04:56:31.792160+00:00
- - user: None
- - tags: []
-
-## Columbus News, Weather, Sports, Breaking News | WTTE
- - [https://myfox28columbus.com](https://myfox28columbus.com)
- - date published: 2023-12-22T15:48:21.919825+00:00
- - user: None
- - tags: []
-
-## FOX 7 Austin
- - [http://www.myfoxaustin.com](http://www.myfoxaustin.com)
- - date published: 2024-05-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Hurricane Tracking and Hurricane coverage from MyFoxHurricane.com | Powered by FOX 13 News and the FOX Network
- - [http://www.myfoxhurricane.com](http://www.myfoxhurricane.com)
- - date published: 2024-05-04T06:49:00.093676+00:00
- - user: None
- - tags: []
-
-## FOX 29 News Philadelphia
- - [http://www.myfoxphilly.com](http://www.myfoxphilly.com)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## HostGator Web Hosting Website Startup Guide
- - [http://myfrtest.com](http://myfrtest.com)
- - date published: 2024-05-04T07:02:50.625119+00:00
- - user: None
- - tags: []
-
-## RYAN LONG COMEDY – Fellas, Fellas!
- - [http://63b.48f.myftpupload.com](http://63b.48f.myftpupload.com)
- - date published: 2024-04-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## Florida Fish and Wildlife Conservation Commission
- - [https://myfwc.com](https://myfwc.com)
- - date published: 2024-09-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## myGaru
- - [https://mygaru.com](https://mygaru.com)
- - date published: 2024-03-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## All posts - My GPS Tools
- - [https://mygpstools.com](https://mygpstools.com)
- - date published: 2024-04-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Logitech Harmony Support
- - [http://support.myharmony.com](http://support.myharmony.com)
- - date published: 2024-05-09T03:55:08.579085+00:00
- - user: None
- - tags: []
-
-## My Health - Login Page
- - [https://myhealthatvanderbilt.com](https://myhealthatvanderbilt.com)
- - date published: 2024-05-10T05:25:15.579629+00:00
- - user: None
- - tags: []
-
-## Myinstants - Trending Funny Sounds of Poland
- - [https://www.myinstants.com](https://www.myinstants.com)
- - date published: 2024-05-12T05:41:17.388221+00:00
- - user: None
- - tags: []
-
-## Best Place to Compare Insurance Plans - MyInsuranceClub
- - [https://www.myinsuranceclub.com](https://www.myinsuranceclub.com)
- - date published: 2024-05-10T05:19:22.490931+00:00
- - user: None
- - tags: []
-
-## Japanese Green Tea
- - [https://www.myjapanesegreentea.com](https://www.myjapanesegreentea.com)
- - date published: 2023-10-25T16:09:48.957754+00:00
- - user: None
- - tags: []
-
-## Jewellery, clothing & accessories - New trendy items everyday
- - [https://www.my-jewellery.com](https://www.my-jewellery.com)
- - date published: 2024-04-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## My Jewish Learning - Judaism & Jewish Life | My Jewish Learning
- - [https://www.myjewishlearning.com](https://www.myjewishlearning.com)
- - date published: 2024-05-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## MyJuniorAllStar.com
- - [https://myjuniorallstar.com](https://myjuniorallstar.com)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Brophy Art Academy
- - [https://brophy.mykajabi.com](https://brophy.mykajabi.com)
- - date published: 2024-05-12T06:25:56.289240+00:00
- - user: None
- - tags: []
-
-## The Happy Artist Studio by Tara Leaver
- - [https://happy-artist-studio.mykajabi.com](https://happy-artist-studio.mykajabi.com)
- - date published: 2024-05-09T07:19:14.825805+00:00
- - user: None
- - tags: []
-
-## The Home Mastering Masterclass
- - [https://home-mastering.mykajabi.com](https://home-mastering.mykajabi.com)
- - date published: 2024-05-02T12:12:16.985809+00:00
- - user: None
- - tags: []
-
-## Keeper: Free Online Memorial Sites & Tributes
- - [https://www.mykeeper.com](https://www.mykeeper.com)
- - date published: 2024-05-04T09:01:16.678252+00:00
- - user: None
- - tags: []
-
-## Board Games, TTRPGs & TCGs!
- - [https://mykindofmeeple.com](https://mykindofmeeple.com)
- - date published: 2024-03-21T00:00:00+00:00
- - user: rumpel
- - tags: ['board games', 'personal', 'tabletop games']
-
-## KITSCH™ Official Site
- - [https://www.mykitsch.com](https://www.mykitsch.com)
- - date published: 2024-04-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## will england :: home
- - [https://will.mylanders.com](https://will.mylanders.com)
- - date published: 2023-12-03T01:44:00.361357+00:00
- - user: None
- - tags: ['personal']
-
-## MYLAPORE TIMES -
- - [https://www.mylaporetimes.com](https://www.mylaporetimes.com)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mylar - Index page
- - [https://forum.mylarcomics.com](https://forum.mylarcomics.com)
- - date published: 2024-05-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mylar3 | Mylar3
- - [https://mylarcomics.com](https://mylarcomics.com)
- - date published: 2024-04-08T19:29:52.705843+00:00
- - user: None
- - tags: ['comics library', 'self-host']
-
-## MyLawyer Directory USA - Lawyers Directory - Attorneys Directory - Law Firms Directory
- - [https://www.mylawyer-directory.com](https://www.mylawyer-directory.com)
- - date published: 2024-05-07T13:47:07.950114+00:00
- - user: None
- - tags: []
-
-## Long Beach Island's Official Mobile App  | Welcome Back
- - [https://www.mylbilife.com](https://www.mylbilife.com)
- - date published: 2024-05-07T10:28:16.141231+00:00
- - user: None
- - tags: []
-
-## MyLegalPractice.com - Lawyers Directory
- - [https://www.mylegalpractice.com](https://www.mylegalpractice.com)
- - date published: 2024-05-07T13:29:29.838803+00:00
- - user: None
- - tags: []
-
-## Free Live Chat Software, Live Chat Software, Live Chat Software for Website, Live Support Software
- - [https://www.mylivechat.com](https://www.mylivechat.com)
- - date published: 2024-04-29T05:35:24.841937+00:00
- - user: None
- - tags: []
-
-## Mylocalradio.com – Local radio just for you – We are live streaming local sports and internet radio!
- - [https://mylocalradio.com](https://mylocalradio.com)
- - date published: 2024-05-02T10:06:29.141638+00:00
- - user: None
- - tags: []
-
-## Business Directory - Local Business Listings | My Local Services
- - [https://www.mylocalservices.com](https://www.mylocalservices.com)
- - date published: 2024-05-07T13:42:57.566158+00:00
- - user: None
- - tags: []
-
-## Mango Mail - Email Hosting
- - [https://mymangomail.com](https://mymangomail.com)
- - date published: 2023-10-25T16:09:51.519785+00:00
- - user: None
- - tags: []
-
-## Mattress Barn - Mattress Stores in Melbourne, Suntree, Merritt Island, & Port St. John, FL
- - [https://mymattressbarn.com](https://mymattressbarn.com)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Monroe County Library System
- - [https://mymcls.com](https://mymcls.com)
- - date published: 2024-02-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Medical Tourism at a Price You Can Afford | MyMediTravel
- - [https://www.mymeditravel.com](https://www.mymeditravel.com)
- - date published: 2024-03-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Discover STL files for 3D printing ideas and high-quality 3D printer models. | MyMiniFactory
- - [https://www.myminifactory.com](https://www.myminifactory.com)
- - date published: 2023-10-27T07:43:49.625978+00:00
- - user: None
- - tags: ['3d printing']
-
-## My Modern Met – The Big City That Celebrates Creative Ideas
- - [https://mymodernmet.com](https://mymodernmet.com)
- - date published: 2023-10-25T16:09:59.227066+00:00
- - user: None
- - tags: []
-
-## Cisco - Juniper - MikroTik - Ubiquiti - Huawei & LigoWave online courses
- - [https://mynetworktraining.com](https://mynetworktraining.com)
- - date published: 2024-05-09T04:08:31.480443+00:00
- - user: None
- - tags: []
-
-## MyNetworkTV
- - [https://www.mynetworktv.com](https://www.mynetworktv.com)
- - date published: 2024-04-30T07:30:17.444029+00:00
- - user: None
- - tags: []
-
-## Welcome to My News Assistant
- - [https://www.mynewsassistant.com](https://www.mynewsassistant.com)
- - date published: 2024-05-02T11:14:51.743709+00:00
- - user: None
- - tags: []
-
-## Market leading solution for PR & Communication | Mynewsdesk
- - [https://www.mynewsdesk.com](https://www.mynewsdesk.com)
- - date published: 2024-03-26T00:00:00+00:00
  - user: None
  - tags: []
 

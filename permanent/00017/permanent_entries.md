@@ -1,3 +1,153 @@
+## David Hoang
+ - [https://davidhoang.com](https://davidhoang.com)
+ - date published: 2024-05-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## David Hoy WP
+ - [https://davidhoywp.com](https://davidhoywp.com)
+ - date published: 2024-01-16T03:19:23.059473+00:00
+ - user: None
+ - tags: []
+
+## David John Kaye | Deeptech Grant Writer and Business Designer
+ - [https://davidjohnkaye.com](https://davidjohnkaye.com)
+ - date published: 2024-01-09T02:34:06.758516+00:00
+ - user: None
+ - tags: ['personal']
+
+## David LaMotte
+ - [https://www.davidlamotte.com](https://www.davidlamotte.com)
+ - date published: 2024-01-04T22:42:04.799905+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Levai's Digital Garden
+ - [https://davidlevai.com](https://davidlevai.com)
+ - date published: 2024-05-11T10:05:31.946440+00:00
+ - user: None
+ - tags: []
+
+## David Llop
+ - [https://davidllop.com](https://davidllop.com)
+ - date published: 2024-05-11T10:24:54.852528+00:00
+ - user: None
+ - tags: []
+
+## MixedMath: About
+ - [http://davidlowryduda.com](http://davidlowryduda.com)
+ - date published: 2024-05-07T15:48:42.383695+00:00
+ - user: None
+ - tags: []
+
+## Welcome - David Mach
+ - [https://davidmach.com](https://davidmach.com)
+ - date published: 2024-05-07T15:44:25.080992+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Morales - Web Developer. Technical Instructor.
+ - [https://davidmles.com](https://davidmles.com)
+ - date published: 2024-05-11T10:10:01.272348+00:00
+ - user: None
+ - tags: []
+
+## This is David M. Perry – Journalist – Historian –  Speaker
+ - [https://www.davidmperry.com](https://www.davidmperry.com)
+ - date published: 2024-05-02T10:21:10.799405+00:00
+ - user: None
+ - tags: []
+
+## David Nebinski
+ - [https://www.davidnebinski.com](https://www.davidnebinski.com)
+ - date published: 2023-12-08T08:33:25.745211+00:00
+ - user: None
+ - tags: ['personal']
+
+## DAVID NEGRIN
+ - [https://www.davidnegrin.com](https://www.davidnegrin.com)
+ - date published: 2024-01-13T18:26:25.594627+00:00
+ - user: None
+ - tags: ['personal']
+
+## All posts
+ - [https://www.davidosomething.com](https://www.davidosomething.com)
+ - date published: 2024-05-11T10:21:53.434427+00:00
+ - user: None
+ - tags: []
+
+## DAVID PALMER STUDIO | Los Angeles artist David Palmer
+ - [https://davidpalmerstudio.com](https://davidpalmerstudio.com)
+ - date published: 2023-12-14T01:19:36.395261+00:00
+ - user: None
+ - tags: ['personal']
+
+## Retired Software | David Pilling
+ - [https://www.davidpilling.com](https://www.davidpilling.com)
+ - date published: 2024-04-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - David Porkka
+ - [https://davidporkka.com](https://davidporkka.com)
+ - date published: 2024-03-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - David Porkka
+ - [https://www.davidporkka.com](https://www.davidporkka.com)
+ - date published: 2023-12-03T09:19:29.134316+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Revoy - Artist, Instructor, using only Free/Libre and Open-Source software since 2009.
+ - [https://www.davidrevoy.com](https://www.davidrevoy.com)
+ - date published: 2023-11-01T20:29:59.322741+00:00
+ - user: None
+ - tags: []
+
+## David R Munson, Photographer | Saitama, Japan
+ - [https://davidrmunson.com](https://davidrmunson.com)
+ - date published: 2022-07-12T16:01:14+00:00
+ - user: None
+ - tags: []
+
+## David R Munson, Photographer | Saitama, Japan
+ - [https://www.davidrmunson.com](https://www.davidrmunson.com)
+ - date published: 2023-11-29T14:43:59.539466+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Rutland
+ - [https://davidrutland.com](https://davidrutland.com)
+ - date published: 2024-05-02T12:51:17.553101+00:00
+ - user: None
+ - tags: []
+
+## DSri Seah – Investigative Designer
+ - [https://davidseah.com](https://davidseah.com)
+ - date published: 2023-10-25T13:45:51.877615+00:00
+ - user: None
+ - tags: []
+
+## The Audacity of Despair
+ - [https://davidsimon.com](https://davidsimon.com)
+ - date published: 2024-01-22T18:54:05.441303+00:00
+ - user: None
+ - tags: []
+
+## David Whyte
+ - [https://davidwhyte.com](https://davidwhyte.com)
+ - date published: 2024-05-08T03:04:07.590172+00:00
+ - user: None
+ - tags: []
+
+## David Windham
+ - [https://davidwindham.com](https://davidwindham.com)
+ - date published: 2024-05-01T04:10:59.266433+00:00
+ - user: None
+ - tags: []
+
 ## david wolfpaw – digital citizen
  - [https://davidwolfpaw.com](https://davidwolfpaw.com)
  - date published: 2024-01-08T07:26:59.799541+00:00
@@ -3169,12 +3319,6 @@
  - tags: []
 
 ## Snarling Badger Studios
- - [http://www.dethwizardsgame.com](http://www.dethwizardsgame.com)
- - date published: 2024-05-24T08:52:59+00:00
- - user: rumpel
- - tags: []
-
-## Snarling Badger Studios
  - [https://www.dethwizardsgame.com](https://www.dethwizardsgame.com)
  - date published: 2024-05-24T08:53:23+00:00
  - user: rumpel
@@ -5853,150 +5997,6 @@
 ## Log In | Disqus
  - [https://invest-liquidpiston-com.disqus.com](https://invest-liquidpiston-com.disqus.com)
  - date published: 2024-05-04T12:48:13.398331+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://lastmovieoutpost.disqus.com](https://lastmovieoutpost.disqus.com)
- - date published: 2024-05-04T11:56:42.879586+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://minecraftpolska.disqus.com](https://minecraftpolska.disqus.com)
- - date published: 2024-05-15T02:48:16.896111+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://mmt-pl.disqus.com](https://mmt-pl.disqus.com)
- - date published: 2024-05-11T11:18:21.128192+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://mvariety.disqus.com](https://mvariety.disqus.com)
- - date published: 2024-05-12T04:09:42.323008+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://omgubuntu.disqus.com](https://omgubuntu.disqus.com)
- - date published: 2024-05-02T12:10:32.831128+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://poorlydrawnlines.disqus.com](https://poorlydrawnlines.disqus.com)
- - date published: 2024-05-15T02:45:24.102839+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://punchmobile.disqus.com](https://punchmobile.disqus.com)
- - date published: 2024-05-07T09:46:27.026116+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://reedbeta.disqus.com](https://reedbeta.disqus.com)
- - date published: 2024-05-10T05:33:29.542723+00:00
- - user: None
- - tags: []
-
-## #1 in audience engagement and community growth | Disqus
- - [https://secure.disqus.com](https://secure.disqus.com)
- - date published: 2024-05-02T10:15:07.052868+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://sitename.disqus.com](https://sitename.disqus.com)
- - date published: 2024-05-02T09:29:40.726862+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://spacelift.disqus.com](https://spacelift.disqus.com)
- - date published: 2024-05-06T12:57:32.342977+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://thecyprusmail.disqus.com](https://thecyprusmail.disqus.com)
- - date published: 2024-05-01T03:28:32.758673+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://the-farside.disqus.com](https://the-farside.disqus.com)
- - date published: 2024-05-06T16:45:17.741621+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://thegatewaypundit.disqus.com](https://thegatewaypundit.disqus.com)
- - date published: 2024-05-06T16:47:10.840155+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://thenewamericanmagazine.disqus.com](https://thenewamericanmagazine.disqus.com)
- - date published: 2024-05-06T17:13:20.713347+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://thetmoreport.disqus.com](https://thetmoreport.disqus.com)
- - date published: 2024-05-21T03:04:08.307844+00:00
- - user: None
- - tags: []
-
-## Log In | Disqus
- - [https://windowslatest.disqus.com](https://windowslatest.disqus.com)
- - date published: 2024-05-07T14:19:21.459651+00:00
- - user: None
- - tags: []
-
-## Frog Guy Rants | Blog
- - [https://disrel.com](https://disrel.com)
- - date published: 2023-10-25T13:54:33.654007+00:00
- - user: None
- - tags: []
-
-## Disrupting Japan: Startups and Innovation in Japan - What you need to know about startups and innovation in Japan
- - [https://www.disruptingjapan.com](https://www.disruptingjapan.com)
- - date published: 2023-10-25T13:54:37.997071+00:00
- - user: None
- - tags: []
-
-## Dissident7 Video and Art Archive
- - [https://www.dissident7.com](https://www.dissident7.com)
- - date published: 2024-05-08T03:43:55.031988+00:00
- - user: None
- - tags: []
-
-## Social Dist0rtion Protocol
- - [https://www.dist0rtion.com](https://www.dist0rtion.com)
- - date published: 2024-05-07T09:40:50.400608+00:00
- - user: None
- - tags: []
-
-## American Distilling Institute
- - [https://distilling.com](https://distilling.com)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Distinctive Quality
- - [https://distinctivequality.com](https://distinctivequality.com)
- - date published: 2024-02-20T09:04:15.735591+00:00
- - user: None
- - tags: []
-
-## Distractify: News, Entertainment, Pop Culture
- - [https://www.distractify.com](https://www.distractify.com)
- - date published: 2024-03-21T00:00:00+00:00
  - user: None
  - tags: []
 

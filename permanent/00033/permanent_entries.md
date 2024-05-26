@@ -1,3 +1,304 @@
+## California water news
+ - [http://mavensnotebook.com](http://mavensnotebook.com)
+ - date published: 2024-04-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DJI Mavic Accessories & Tips | Mavic Help
+ - [https://www.mavichelp.com](https://www.mavichelp.com)
+ - date published: 2024-05-04T06:26:23.407413+00:00
+ - user: None
+ - tags: []
+
+## a Dallas Mavericks community
+ - [http://www.mavsmoneyball.com](http://www.mavsmoneyball.com)
+ - date published: 2024-04-29T02:15:04.080892+00:00
+ - user: None
+ - tags: []
+
+## Availability | Max
+ - [https://help.max.com](https://help.max.com)
+ - date published: 2024-05-04T14:44:04.826278+00:00
+ - user: None
+ - tags: []
+
+## Max | The One to Watch
+ - [https://play.max.com](https://play.max.com)
+ - date published: 2024-05-04T14:43:53.381852+00:00
+ - user: None
+ - tags: []
+
+## Availability | Max
+ - [https://www.max.com](https://www.max.com)
+ - date published: 2023-10-24T20:05:43.408291+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## Maxar Intelligence & Maxar Space Systems
+ - [https://www.maxar.com](https://www.maxar.com)
+ - date published: 2024-05-22T02:38:26.237060+00:00
+ - user: None
+ - tags: []
+
+## Max Barry
+ - [https://maxbarry.com](https://maxbarry.com)
+ - date published: 1973-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://oss.maxcdn.com](https://oss.maxcdn.com)
+ - date published: 2023-12-11T16:36:15.248509+00:00
+ - user: None
+ - tags: []
+
+## twemoji CDN by jsDelivr - A free, fast, and reliable Open Source CDN
+ - [https://twemoji.maxcdn.com](https://twemoji.maxcdn.com)
+ - date published: 2024-04-29T07:19:34.822340+00:00
+ - user: None
+ - tags: []
+
+## Blog Archives
+ - [https://www.maxcdn.com](https://www.maxcdn.com)
+ - date published: 2024-05-01T06:04:22.234173+00:00
+ - user: None
+ - tags: []
+
+## Max Countryman - People first leader, technologist, and indie hacker
+ - [https://www.maxcountryman.com](https://www.maxcountryman.com)
+ - date published: 2023-10-25T15:58:43.515740+00:00
+ - user: None
+ - tags: []
+
+## Home ·
+      maxdeviant.com
+ - [https://maxdeviant.com](https://maxdeviant.com)
+ - date published: 2024-05-11T10:20:44.018937+00:00
+ - user: None
+ - tags: []
+
+## Maxime Heckel's Blog
+ - [https://blog.maximeheckel.com](https://blog.maximeheckel.com)
+ - date published: 2023-10-31T16:58:23.142701+00:00
+ - user: None
+ - tags: []
+
+## Maxime Heckel | Personal Portfolio
+ - [https://maximeheckel.com](https://maximeheckel.com)
+ - date published: 2024-05-04T14:44:46.821269+00:00
+ - user: None
+ - tags: []
+
+## Maxime le Grelle
+ - [https://www.maximelegrelle.com](https://www.maximelegrelle.com)
+ - date published: 2024-03-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Accueil | MAXMETAL
+ - [https://www.maximetal.com](https://www.maximetal.com)
+ - date published: 2024-05-12T07:28:12.957564+00:00
+ - user: None
+ - tags: []
+
+## Maxime Terrée est en cours de construction
+ - [https://maximeterree.com](https://maximeterree.com)
+ - date published: 2024-05-09T08:16:13.706618+00:00
+ - user: None
+ - tags: []
+
+## Maximiles - Rejoignez-nous maintenant !
+ - [https://www.maximiles.com](https://www.maximiles.com)
+ - date published: 2024-05-06T17:57:27.910978+00:00
+ - user: None
+ - tags: []
+
+## Maximilian Golla
+ - [https://maximiliangolla.com](https://maximiliangolla.com)
+ - date published: 2023-10-25T15:58:56.149767+00:00
+ - user: None
+ - tags: []
+
+## Maximize Market Research Pvt Ltd
+ - [https://www.maximizemarketresearch.com](https://www.maximizemarketresearch.com)
+ - date published: 2024-04-28T02:16:04.070649+00:00
+ - user: None
+ - tags: []
+
+## Maxim Massenkoff | Homepage
+ - [https://maximmassenkoff.com](https://maximmassenkoff.com)
+ - date published: 2023-10-25T15:58:57.718905+00:00
+ - user: None
+ - tags: []
+
+## Maxim Siebert — Designer + Developer
+ - [https://maximsiebert.com](https://maximsiebert.com)
+ - date published: 2024-05-09T06:17:41.316473+00:00
+ - user: None
+ - tags: []
+
+## Volodymyr Gubarkov
+ - [https://maximullaris.com](https://maximullaris.com)
+ - date published: 2024-03-01T08:15:42.288361+00:00
+ - user: None
+ - tags: ['devlog', 'personal']
+
+## Watch Maximum Effort Channel on Fubo | Maximum Effort Channel
+ - [https://www.maximumeffortchannel.com](https://www.maximumeffortchannel.com)
+ - date published: 2023-11-28T21:01:12+00:00
+ - user: rumpel
+ - tags: ['video streaming']
+
+## Maximum New York | Daniel Golliher | Substack
+ - [https://www.maximumnewyork.com](https://www.maximumnewyork.com)
+ - date published: 2024-03-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Maximum Progress | Maxwell Tabarrok | Substack
+ - [https://www.maximum-progress.com](https://www.maximum-progress.com)
+ - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Maximum Settings – Dedicated Game Streaming
+ - [https://login.maximumsettings.com](https://login.maximumsettings.com)
+ - date published: 2024-05-04T14:45:49.906129+00:00
+ - user: None
+ - tags: []
+
+## Maximum Settings Cloud Gaming – Dedicated PC Cloud Game Streaming
+ - [https://maximumsettings.com](https://maximumsettings.com)
+ - date published: 2024-01-29T21:12:04.442203+00:00
+ - user: None
+ - tags: []
+
+## Maximum Settings – Dedicated Game Streaming
+ - [https://orders.maximumsettings.com](https://orders.maximumsettings.com)
+ - date published: 2024-05-04T14:45:46.651697+00:00
+ - user: None
+ - tags: []
+
+## MaximumSettings
+ - [https://support.maximumsettings.com](https://support.maximumsettings.com)
+ - date published: 2024-05-04T14:45:48.559596+00:00
+ - user: None
+ - tags: []
+
+## Moving people forward | Maximus
+ - [https://maximus.com](https://maximus.com)
+ - date published: 2024-05-12T04:39:53.223372+00:00
+ - user: None
+ - tags: []
+
+## Simple Analytics
+ - [https://ape.maximzubarev.com](https://ape.maximzubarev.com)
+ - date published: 2024-05-04T14:45:52.381563+00:00
+ - user: None
+ - tags: []
+
+## Maxim Zubarev
+ - [https://maximzubarev.com](https://maximzubarev.com)
+ - date published: 2024-01-06T17:58:20.079646+00:00
+ - user: None
+ - tags: []
+
+## Maxinomics
+ - [https://maxinomics.com](https://maxinomics.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Maxinomics
+ - [https://www.maxinomics.com](https://www.maxinomics.com)
+ - date published: 2023-10-25T15:58:59.765746+00:00
+ - user: None
+ - tags: []
+
+## Dive down the rabbit hole of Max Keiser’s mind
+ - [http://maxkeiser.com](http://maxkeiser.com)
+ - date published: 2024-05-07T18:52:57.551630+00:00
+ - user: None
+ - tags: ['book']
+
+## Drift
+ - [https://drift.maxleiter.com](https://drift.maxleiter.com)
+ - date published: 2024-05-04T14:46:30.340275+00:00
+ - user: None
+ - tags: []
+
+## Max Leiter
+ - [https://maxleiter.com](https://maxleiter.com)
+ - date published: 2023-10-25T15:59:02.588809+00:00
+ - user: None
+ - tags: []
+
+## Drift
+ - [https://paste.maxleiter.com](https://paste.maxleiter.com)
+ - date published: 2024-05-04T14:46:11.784274+00:00
+ - user: None
+ - tags: []
+
+## Max Marele | Product Designer
+ - [https://www.maxmarele.com](https://www.maxmarele.com)
+ - date published: 2024-05-09T06:11:59.976988+00:00
+ - user: None
+ - tags: []
+
+## Mr. Max Mautner
+ - [https://maxmautner.com](https://maxmautner.com)
+ - date published: 2024-04-26T19:20:29.002671+00:00
+ - user: None
+ - tags: ['personal']
+
+## Industry leading IP Geolocation and Online Fraud Prevention | MaxMind
+ - [https://js.maxmind.com](https://js.maxmind.com)
+ - date published: 2024-05-04T08:04:36.898955+00:00
+ - user: None
+ - tags: []
+
+## Industry leading IP Geolocation and Online Fraud Prevention | MaxMind
+ - [https://www.maxmind.com](https://www.maxmind.com)
+ - date published: 2024-05-04T12:03:15.667152+00:00
+ - user: None
+ - tags: []
+
+## Max Objects Database
+ - [https://maxobjects.com](https://maxobjects.com)
+ - date published: 2024-01-09T02:43:22.612635+00:00
+ - user: None
+ - tags: []
+
+## Max Objects Database
+ - [http://www.maxobjects.com](http://www.maxobjects.com)
+ - date published: 2024-05-04T14:46:50.937228+00:00
+ - user: None
+ - tags: []
+
+## MaxPacks
+ - [https://maxpacks.com](https://maxpacks.com)
+ - date published: 2024-05-04T13:56:39.487474+00:00
+ - user: None
+ - tags: []
+
+## About Me - Max Rozen
+ - [https://maxrozen.com](https://maxrozen.com)
+ - date published: 2023-10-25T15:59:09.969498+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home Page | Security Portal | Max-Security
+ - [https://app.max-security.com](https://app.max-security.com)
+ - date published: 2024-05-04T14:44:12.559627+00:00
+ - user: None
+ - tags: []
+
+## MAX Security | Security Services & Intelligence Reports
+ - [https://max-security.com](https://max-security.com)
+ - date published: 2024-05-04T14:44:09.026107+00:00
+ - user: None
+ - tags: []
+
 ## MAX Security | Security Services & Intelligence Reports
  - [https://www.max-security.com](https://www.max-security.com)
  - date published: 2023-10-25T15:58:36.481351+00:00
@@ -4633,6 +4934,12 @@
  - tags: []
 
 ## Stop fighting with frameworks and start shipping real apps - Meteor.js
+ - [https://meteor.com](https://meteor.com)
+ - date published: 2024-05-25T09:10:56.534005+00:00
+ - user: None
+ - tags: []
+
+## Stop fighting with frameworks and start shipping real apps - Meteor.js
  - [https://www.meteor.com](https://www.meteor.com)
  - date published: 2024-05-06T14:10:30.681418+00:00
  - user: None
@@ -5693,310 +6000,4 @@
  - date published: 2023-10-25T09:34:15.781614+00:00
  - user: None
  - tags: []
-
-## Sign in to your account
- - [https://compliance.microsoft.com](https://compliance.microsoft.com)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Info
- - [https://connect.microsoft.com](https://connect.microsoft.com)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Microsoft Copilot: Your everyday AI companion
- - [https://copilot.microsoft.com](https://copilot.microsoft.com)
- - date published: 2024-04-29T02:49:49.964886+00:00
- - user: None
- - tags: []
-
-## Microsoft Customer Stories
- - [https://customers.microsoft.com](https://customers.microsoft.com)
- - date published: 2024-05-08T07:27:26.402375+00:00
- - user: None
- - tags: []
-
-## Microsoft Designer - Stunning designs in a flash
- - [https://designer.microsoft.com](https://designer.microsoft.com)
- - date published: 2023-10-25T16:03:31.208056+00:00
- - user: None
- - tags: []
-
-## DevBlogs - Microsoft Developer Blogs
- - [https://devblogs.microsoft.com](https://devblogs.microsoft.com)
- - date published: 2023-10-25T10:14:03.592606+00:00
- - user: None
- - tags: []
-
-## Microsoft Developer Community
- - [https://developercommunity.microsoft.com](https://developercommunity.microsoft.com)
- - date published: 2024-05-08T07:27:28.574938+00:00
- - user: None
- - tags: []
-
-## Microsoft Developer
- - [https://developer.microsoft.com](https://developer.microsoft.com)
- - date published: 2024-01-15T13:49:47.590358+00:00
- - user: None
- - tags: []
-
-## Microsoft Learn: Build skills that open doors in your career
- - [https://docs.microsoft.com](https://docs.microsoft.com)
- - date published: 2023-10-25T11:30:47.045143+00:00
- - user: None
- - tags: []
-
-## .NET | Build. Test. Deploy.
- - [https://dotnet.microsoft.com](https://dotnet.microsoft.com)
- - date published: 2024-04-30T02:31:00.357576+00:00
- - user: None
- - tags: []
-
-## Download Drivers & Updates for Microsoft, Windows and more - Microsoft Download Center
- - [http://download.microsoft.com](http://download.microsoft.com)
- - date published: 2024-05-01T07:31:51.863543+00:00
- - user: None
- - tags: []
-
-## Business Applications | Microsoft Dynamics 365
- - [https://dynamics.microsoft.com](https://dynamics.microsoft.com)
- - date published: 2024-04-28T02:27:06.759348+00:00
- - user: None
- - tags: []
-
-## Educator Center Overview - Microsoft Learn Educator Center
- - [https://education.microsoft.com](https://education.microsoft.com)
- - date published: 2024-03-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Microsoft Virtual Events Powered by Teams
- - [https://events.teams.microsoft.com](https://events.teams.microsoft.com)
- - date published: 2024-05-11T09:33:36.685368+00:00
- - user: None
- - tags: []
-
-## Microsoft Power Automate
- - [https://flow.microsoft.com](https://flow.microsoft.com)
- - date published: 2024-05-06T14:01:53.317175+00:00
- - user: None
- - tags: []
-
-## Fluent 2 Design System
- - [https://fluent.microsoft.com](https://fluent.microsoft.com)
- - date published: 2024-04-29T07:04:30.314105+00:00
- - user: None
- - tags: []
-
-## Microsoft – chmura, komputery, aplikacje i gry
- - [https://go.microsoft.com](https://go.microsoft.com)
- - date published: 2024-04-28T02:26:37.044247+00:00
- - user: None
- - tags: []
-
-## Microsoft Graph Dev Center | APIs and app development
- - [https://graph.microsoft.com](https://graph.microsoft.com)
- - date published: 2024-05-07T09:12:40.653122+00:00
- - user: None
- - tags: []
-
-## Join us November 18–22, 2024
- - [https://ignite.microsoft.com](https://ignite.microsoft.com)
- - date published: 2024-05-04T06:46:32.533987+00:00
- - user: None
- - tags: []
-
-## Search Jobs | Microsoft Careers
- - [https://jobs.careers.microsoft.com](https://jobs.careers.microsoft.com)
- - date published: 2023-10-25T11:31:38.386584+00:00
- - user: None
- - tags: []
-
-## Microsoft Learn: Build skills that open doors in your career
- - [https://learn.microsoft.com](https://learn.microsoft.com)
- - date published: 2023-10-25T11:30:34.619514+00:00
- - user: None
- - tags: []
-
-## Microsoft – chmura, komputery, aplikacje i gry
- - [https://microsoft.com](https://microsoft.com)
- - date published: 2024-04-28T02:26:51.043312+00:00
- - user: None
- - tags: []
-
-## Microsoft Edge Addons
- - [https://microsoftedge.microsoft.com](https://microsoftedge.microsoft.com)
- - date published: 2024-04-28T02:27:44.674398+00:00
- - user: None
- - tags: []
-
-## Microsoft Learn: Build skills that open doors in your career
- - [https://msdn.microsoft.com](https://msdn.microsoft.com)
- - date published: 2024-01-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Microsoft Security Response Center
- - [https://msrc.microsoft.com](https://msrc.microsoft.com)
- - date published: 2023-10-25T11:31:41.607143+00:00
- - user: None
- - tags: []
-
-## Training
- - [https://mva.microsoft.com](https://mva.microsoft.com)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## MVP Communities
- - [https://mvp.microsoft.com](https://mvp.microsoft.com)
- - date published: 2024-05-01T03:17:41.338029+00:00
- - user: None
- - tags: []
-
-## Homepage - Source
- - [https://news.microsoft.com](https://news.microsoft.com)
- - date published: 2023-10-25T10:52:37.879287+00:00
- - user: None
- - tags: []
-
-## Microsoft 365 — subskrypcja aplikacji pakietu Office | Microsoft 365
- - [https://office.microsoft.com](https://office.microsoft.com)
- - date published: 2024-05-01T07:12:39.982719+00:00
- - user: None
- - tags: []
-
-## Microsoft 365 — subskrypcja aplikacji pakietu Office | Microsoft 365
- - [http://officeupdate.microsoft.com](http://officeupdate.microsoft.com)
- - date published: 2024-05-08T09:31:56.465323+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://opensource.microsoft.com](https://opensource.microsoft.com)
- - date published: 2024-05-04T15:16:54.843492+00:00
- - user: None
- - tags: []
-
-## Build and sell your solutions— with the Microsoft AI Cloud Partner Program
- - [https://partner.microsoft.com](https://partner.microsoft.com)
- - date published: 2024-05-07T10:50:27.054452+00:00
- - user: None
- - tags: []
-
-## Find the right app | Microsoft AppSource
- - [http://pinpoint.microsoft.com](http://pinpoint.microsoft.com)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Power BI - Data Visualization | Microsoft Power Platform
- - [https://powerbi.microsoft.com](https://powerbi.microsoft.com)
- - date published: 2024-04-28T02:26:59.670268+00:00
- - user: None
- - tags: []
-
-## AI-Powered Low-Code Tools | Microsoft Power Platform
- - [https://powerplatform.microsoft.com](https://powerplatform.microsoft.com)
- - date published: 2024-04-28T02:27:25.833362+00:00
- - user: None
- - tags: []
-
-## What is Power Query? - Power Query
- - [https://powerquery.microsoft.com](https://powerquery.microsoft.com)
- - date published: 2024-05-07T09:12:35.842081+00:00
- - user: None
- - tags: []
-
-## Privacy – Microsoft privacy
- - [https://privacy.microsoft.com](https://privacy.microsoft.com)
- - date published: 2024-04-28T02:26:35.216255+00:00
- - user: None
- - tags: []
-
-## Sign in to your account
- - [https://redeem.microsoft.com](https://redeem.microsoft.com)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Microsoft Research – Emerging Technology, Computer, and Software Research
- - [https://research.microsoft.com](https://research.microsoft.com)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## schemas.microsoft.com
- - [http://schemas.microsoft.com](http://schemas.microsoft.com)
- - date published: 2024-04-28T02:23:34.892315+00:00
- - user: None
- - tags: []
-
-## Sign in to your account
- - [https://security.microsoft.com](https://security.microsoft.com)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Microsoft - Sign up
- - [https://signup.microsoft.com](https://signup.microsoft.com)
- - date published: 2024-05-10T04:00:55.969472+00:00
- - user: None
- - tags: []
-
-## Microsoft Learn: Build skills that open doors in your career
- - [https://social.technet.microsoft.com](https://social.technet.microsoft.com)
- - date published: 2024-01-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Speech Studio
- - [https://speech.microsoft.com](https://speech.microsoft.com)
- - date published: 2024-05-04T12:25:58.984217+00:00
- - user: None
- - tags: []
-
-## Microsoft Support
- - [https://support.microsoft.com](https://support.microsoft.com)
- - date published: 2023-10-25T16:03:34.137323+00:00
- - user: None
- - tags: []
-
-## Services Hub
- - [https://support.serviceshub.microsoft.com](https://support.serviceshub.microsoft.com)
- - date published: 2024-05-07T10:50:21.251769+00:00
- - user: None
- - tags: []
-
-## checking your credentials..
- - [https://teams.microsoft.com](https://teams.microsoft.com)
- - date published: 2023-10-25T16:03:34.551273+00:00
- - user: None
- - tags: []
-
-## Home - Microsoft Community Hub
- - [https://techcommunity.microsoft.com](https://techcommunity.microsoft.com)
- - date published: 2023-10-25T10:52:42.152193+00:00
- - user: None
- - tags: []
-
-## Microsoft Learn: Build skills that open doors in your career
- - [https://technet.microsoft.com](https://technet.microsoft.com)
- - date published: 2024-01-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://unlocked.microsoft.com](https://unlocked.microsoft.com)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Visual Studio: IDE and Code Editor for Software Developers and Teams
- - [https://visualstudio.microsoft.com](https://visualstudio.microsoft.com)
- - date published: 2023-11-03T20:33:06.635502+00:00
- - user: None
- - tags: ['visual studio', 'programming ide']
 

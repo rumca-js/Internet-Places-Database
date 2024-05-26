@@ -1,3 +1,520 @@
+## nbconvert: Convert Notebooks to other formats — nbconvert 7.16.4 documentation
+ - [https://nbconvert.readthedocs.io](https://nbconvert.readthedocs.io)
+ - date published: 2024-05-08T09:03:59.987572+00:00
+ - user: None
+ - tags: []
+
+## The Jupyter Notebook Format — nbformat 5.10 documentation
+ - [https://nbformat.readthedocs.io](https://nbformat.readthedocs.io)
+ - date published: 2024-05-08T11:31:26.389087+00:00
+ - user: None
+ - tags: []
+
+## Nextcloud’s App Store documentation — AppStore 4.3.3 documentation
+ - [https://nextcloudappstore.readthedocs.io](https://nextcloudappstore.readthedocs.io)
+ - date published: 2024-05-14T03:34:38.720160+00:00
+ - user: None
+ - tags: []
+
+## Numba documentation — Numba 0+untagged.2155.g9ce83ef.dirty documentation
+ - [https://numba.readthedocs.io](https://numba.readthedocs.io)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Open Streaming Platform’s documentation! — Open Streaming Platform  documentation
+ - [https://open-streaming-platform.readthedocs.io](https://open-streaming-platform.readthedocs.io)
+ - date published: 2024-05-14T03:52:57.929125+00:00
+ - user: None
+ - tags: []
+
+## Optax — Optax  documentation
+ - [https://optax.readthedocs.io](https://optax.readthedocs.io)
+ - date published: 2024-05-06T09:19:05.684604+00:00
+ - user: None
+ - tags: []
+
+## Optuna Dashboard — Optuna Dashboard  documentation
+ - [https://optuna-dashboard.readthedocs.io](https://optuna-dashboard.readthedocs.io)
+ - date published: 2024-05-13T02:39:36.198800+00:00
+ - user: None
+ - tags: []
+
+## Optuna: A hyperparameter optimization framework — Optuna 3.6.1 documentation
+ - [https://optuna.readthedocs.io](https://optuna.readthedocs.io)
+ - date published: 2024-05-13T02:39:26.519974+00:00
+ - user: None
+ - tags: []
+
+## Optuna: 一个超参数优化框架 — Optuna 2.7.0 文档
+ - [https://optuna-zh-cn.readthedocs.io](https://optuna-zh-cn.readthedocs.io)
+ - date published: 2022-05-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Orbax — Orbax  documentation
+ - [https://orbax.readthedocs.io](https://orbax.readthedocs.io)
+ - date published: 2024-05-06T09:19:07.755401+00:00
+ - user: None
+ - tags: []
+
+## Welcome to OxyPlot’s documentation! — OxyPlot 2015.1 documentation
+ - [https://oxyplot.readthedocs.io](https://oxyplot.readthedocs.io)
+ - date published: 2024-05-07T16:04:31.158154+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Parsley’s documentation! — Parsley 1.3 documentation
+ - [http://parsley.readthedocs.io](http://parsley.readthedocs.io)
+ - date published: 2024-05-07T22:45:10.126278+00:00
+ - user: None
+ - tags: []
+
+## pglast — pglast v6.2 documentation
+ - [https://pglast.readthedocs.io](https://pglast.readthedocs.io)
+ - date published: 2024-04-28T02:45:47.568361+00:00
+ - user: None
+ - tags: []
+
+## phasellm 0.0.21 documentation
+ - [https://phasellm.readthedocs.io](https://phasellm.readthedocs.io)
+ - date published: 2024-05-06T23:14:17.559361+00:00
+ - user: None
+ - tags: []
+
+## Survive The Deep End: PHP Security — Survive The Deep End: PHP Security :: v1.0a1
+ - [https://phpsecurity.readthedocs.io](https://phpsecurity.readthedocs.io)
+ - date published: 2024-05-12T06:38:26.116376+00:00
+ - user: None
+ - tags: []
+
+## picamera — Picamera 1.13 Documentation
+ - [https://picamera.readthedocs.io](https://picamera.readthedocs.io)
+ - date published: 2023-10-28T20:22:33.919715+00:00
+ - user: None
+ - tags: ['raspberry']
+
+## Pillow
+ - [https://pillow.readthedocs.io](https://pillow.readthedocs.io)
+ - date published: 2024-05-04T08:03:46.371057+00:00
+ - user: None
+ - tags: []
+
+## plotnine 0.13.5 - A Grammar of Graphics for Python
+ - [https://plotnine.readthedocs.io](https://plotnine.readthedocs.io)
+ - date published: 2024-05-08T10:03:38.846997+00:00
+ - user: None
+ - tags: []
+
+## Plumbum: Shell Combinators and More — Plumbum: Shell Combinators
+ - [http://plumbum.readthedocs.io](http://plumbum.readthedocs.io)
+ - date published: 2024-05-07T22:44:55.955649+00:00
+ - user: None
+ - tags: []
+
+## PostgreSQL Workload Analyzer — PoWA 4.1.4 documentation
+ - [https://powa.readthedocs.io](https://powa.readthedocs.io)
+ - date published: 2024-05-11T07:52:08.878878+00:00
+ - user: None
+ - tags: []
+
+## Welcome to privacyIDEA — privacyIDEA 3.10dev1 documentation
+ - [http://privacyidea.readthedocs.io](http://privacyidea.readthedocs.io)
+ - date published: 2024-05-01T06:42:01.834954+00:00
+ - user: None
+ - tags: []
+
+## The PyData Sphinx Theme — PyData Theme 0.15.2 documentation
+ - [https://pydata-sphinx-theme.readthedocs.io](https://pydata-sphinx-theme.readthedocs.io)
+ - date published: 2024-01-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## pyprql — pyprql  documentation
+ - [https://pyprql.readthedocs.io](https://pyprql.readthedocs.io)
+ - date published: 2024-05-08T11:59:45.668202+00:00
+ - user: None
+ - tags: []
+
+## The Pyramid Web Framework — The Pyramid Web Framework v2.0.2
+ - [http://pyramid.readthedocs.io](http://pyramid.readthedocs.io)
+ - date published: 2024-05-07T22:45:13.561881+00:00
+ - user: None
+ - tags: []
+
+## PyRF Documentation — PyRF  documentation
+ - [https://pyrf.readthedocs.io](https://pyrf.readthedocs.io)
+ - date published: 2023-10-25T20:05:05.560846+00:00
+ - user: None
+ - tags: []
+
+## The Project - PySimpleGUI Documentation
+ - [https://pysimplegui.readthedocs.io](https://pysimplegui.readthedocs.io)
+ - date published: 2024-04-30T08:11:20.939654+00:00
+ - user: None
+ - tags: []
+
+## Python.org Website
+ - [https://pythondotorg.readthedocs.io](https://pythondotorg.readthedocs.io)
+ - date published: 2024-05-10T06:43:53.362368+00:00
+ - user: None
+ - tags: []
+
+## Python Prompt Toolkit 3.0 — prompt_toolkit 3.0.43 documentation
+ - [https://python-prompt-toolkit.readthedocs.io](https://python-prompt-toolkit.readthedocs.io)
+ - date published: 2024-05-08T10:03:32.966525+00:00
+ - user: None
+ - tags: []
+
+## Welcome to QEMU’s documentation! — QEMU 8.1.0 documentation
+ - [https://qemu.readthedocs.io](https://qemu.readthedocs.io)
+ - date published: 2023-10-25T20:05:07.966272+00:00
+ - user: None
+ - tags: []
+
+## Reanimate
+ - [https://reanimate.readthedocs.io](https://reanimate.readthedocs.io)
+ - date published: 2022-12-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to REBOUND - REBOUND
+ - [https://rebound.readthedocs.io](https://rebound.readthedocs.io)
+ - date published: 2024-05-04T15:44:49.950748+00:00
+ - user: None
+ - tags: []
+
+## jupyter-repo2docker
+ - [https://repo2docker.readthedocs.io](https://repo2docker.readthedocs.io)
+ - date published: 2024-05-08T09:03:41.022601+00:00
+ - user: None
+ - tags: []
+
+## Welcome to RepoLib’s documentation! — RepoLib  documentation
+ - [https://repolib.readthedocs.io](https://repolib.readthedocs.io)
+ - date published: 2024-05-04T12:46:32.976585+00:00
+ - user: None
+ - tags: []
+
+## Requests: HTTP for Humans™ — Requests 2.31.0 documentation
+ - [https://requests.readthedocs.io](https://requests.readthedocs.io)
+ - date published: 2024-05-01T02:44:40.265115+00:00
+ - user: None
+ - tags: []
+
+## Restic Documentation — restic 0.16.4
+ documentation
+ - [https://restic.readthedocs.io](https://restic.readthedocs.io)
+ - date published: 2024-04-29T05:15:34.595196+00:00
+ - user: None
+ - tags: []
+
+## Features — returns 0.22.0 documentation
+ - [https://returns.readthedocs.io](https://returns.readthedocs.io)
+ - date published: 2023-10-25T20:05:10.862277+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Rich’s documentation! — Rich 13.6.0 documentation
+ - [https://rich.readthedocs.io](https://rich.readthedocs.io)
+ - date published: 2024-05-07T14:17:19.884111+00:00
+ - user: None
+ - tags: []
+
+## Shaarli documentation
+ - [https://shaarli.readthedocs.io](https://shaarli.readthedocs.io)
+ - date published: 2024-04-08T19:30:47.856727+00:00
+ - user: None
+ - tags: ['link aggregator', 'self-host']
+
+## shelmet 0.6.0 documentation
+ - [https://shelmet.readthedocs.io](https://shelmet.readthedocs.io)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Shopyo 4.9.5 documentation
+ - [https://shopyo.readthedocs.io](https://shopyo.readthedocs.io)
+ - date published: 2024-05-08T06:07:11.591773+00:00
+ - user: None
+ - tags: []
+
+## skrl (1.0.0)
+ - [https://skrl.readthedocs.io](https://skrl.readthedocs.io)
+ - date published: 2023-10-25T20:05:13.818332+00:00
+ - user: None
+ - tags: []
+
+## Welcome to SkyPilot! — SkyPilot documentation
+ - [https://skypilot.readthedocs.io](https://skypilot.readthedocs.io)
+ - date published: 2024-04-11T19:01:16.791148+00:00
+ - user: None
+ - tags: ['artificial intelligence framework']
+
+## Snakemake | Snakemake 8.11.3 documentation
+ - [https://snakemake.readthedocs.io](https://snakemake.readthedocs.io)
+ - date published: 2024-05-04T15:32:12.745215+00:00
+ - user: None
+ - tags: []
+
+## The Snakemake Wrappers repository | Snakemake wrappers
+ - [https://snakemake-wrappers.readthedocs.io](https://snakemake-wrappers.readthedocs.io)
+ - date published: 2024-05-04T15:32:16.509367+00:00
+ - user: None
+ - tags: []
+
+## Solidity — Solidity 0.8.25 documentation
+ - [https://solidity.readthedocs.io](https://solidity.readthedocs.io)
+ - date published: 2024-04-29T05:17:48.812395+00:00
+ - user: None
+ - tags: []
+
+## Spack — Spack 0.22.0.dev0 documentation
+ - [https://spack.readthedocs.io](https://spack.readthedocs.io)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to StellarGraph’s documentation! — StellarGraph 1.2.1 documentation
+ - [https://stellargraph.readthedocs.io](https://stellargraph.readthedocs.io)
+ - date published: 2022-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## YosysHQ SBY documentation
+ - [https://symbiyosys.readthedocs.io](https://symbiyosys.readthedocs.io)
+ - date published: 2024-04-28T03:25:26.377093+00:00
+ - user: None
+ - tags: []
+
+## Tenacity — Tenacity  documentation
+ - [https://tenacity.readthedocs.io](https://tenacity.readthedocs.io)
+ - date published: 2024-05-07T09:49:07.353615+00:00
+ - user: None
+ - tags: []
+
+## testcontainers-python — testcontainers 2.0.0 documentation
+ - [https://testcontainers-python.readthedocs.io](https://testcontainers-python.readthedocs.io)
+ - date published: 2024-05-09T07:22:28.551307+00:00
+ - user: None
+ - tags: []
+
+## Welcome to TinyDB! — TinyDB 4.8.0 documentation
+ - [https://tinydb.readthedocs.io](https://tinydb.readthedocs.io)
+ - date published: 2024-05-22T17:15:59.043506+00:00
+ - user: None
+ - tags: []
+
+## Troi Playlisting Engine — Troi 0.1.0 documentation
+ - [https://troi.readthedocs.io](https://troi.readthedocs.io)
+ - date published: 2024-05-08T10:05:40.663960+00:00
+ - user: None
+ - tags: []
+
+## Welcome to twtxt! — twtxt 1.3.2-dev documentation
+ - [https://twtxt.readthedocs.io](https://twtxt.readthedocs.io)
+ - date published: 2024-05-01T04:17:12.121322+00:00
+ - user: None
+ - tags: []
+
+## Static Typing with Python — typing  documentation
+ - [https://typing.readthedocs.io](https://typing.readthedocs.io)
+ - date published: 2024-01-28T06:37:34.600184+00:00
+ - user: None
+ - tags: []
+
+## Try it online — voici 0.6.1 documentation
+ - [https://voici.readthedocs.io](https://voici.readthedocs.io)
+ - date published: 2024-05-08T09:03:47.304434+00:00
+ - user: None
+ - tags: []
+
+## Table of contents — voila 0.5.1 documentation
+ - [https://voila.readthedocs.io](https://voila.readthedocs.io)
+ - date published: 2024-05-04T13:43:40.743440+00:00
+ - user: None
+ - tags: []
+
+## Welcome to WatchGhost’s documentation — watchghost 0.1.0.dev0 documentation
+ - [https://watchghost.readthedocs.io](https://watchghost.readthedocs.io)
+ - date published: 2024-05-14T04:02:03.080072+00:00
+ - user: None
+ - tags: []
+
+## web3.js - Ethereum JavaScript API — web3.js 1.0.0 documentation
+ - [https://web3js.readthedocs.io](https://web3js.readthedocs.io)
+ - date published: 2023-05-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to wger Workout Manager’s documentation! — wger Workout Manager 2.3 alpha documentation
+ - [https://wger.readthedocs.io](https://wger.readthedocs.io)
+ - date published: 2024-05-14T04:03:37.256057+00:00
+ - user: None
+ - tags: []
+
+## What is whylogs
+ - [https://whylogs.readthedocs.io](https://whylogs.readthedocs.io)
+ - date published: 2024-05-11T07:40:04.619203+00:00
+ - user: None
+ - tags: []
+
+## Welcome to YARA's documentation! — yara 4.5.0 documentation
+ - [https://yara.readthedocs.io](https://yara.readthedocs.io)
+ - date published: 2024-05-11T08:32:14.032106+00:00
+ - user: None
+ - tags: []
+
+## ZX Basic Wiki
+ - [https://zxbasic.readthedocs.io](https://zxbasic.readthedocs.io)
+ - date published: 2024-02-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Readwise Blog
+ - [https://blog.readwise.io](https://blog.readwise.io)
+ - date published: 2024-05-06T09:20:00.883434+00:00
+ - user: None
+ - tags: []
+
+## Readwise
+ - [https://help.readwise.io](https://help.readwise.io)
+ - date published: 2024-05-06T09:19:57.483248+00:00
+ - user: None
+ - tags: []
+
+## Readwise
+ - [https://readwise.io](https://readwise.io)
+ - date published: 2023-10-25T20:05:16.822368+00:00
+ - user: None
+ - tags: []
+
+## Readwise
+ - [https://www.readwise.io](https://www.readwise.io)
+ - date published: 2024-05-06T20:44:27.800809+00:00
+ - user: None
+ - tags: []
+
+## ReadySet Blog
+ - [https://blog.readyset.io](https://blog.readyset.io)
+ - date published: 2023-10-25T08:33:24.826806+00:00
+ - user: None
+ - tags: []
+
+## Home – Readyset
+ - [https://docs.readyset.io](https://docs.readyset.io)
+ - date published: 2024-05-06T09:20:05.033370+00:00
+ - user: None
+ - tags: []
+
+## Readyset | Same database, (much) faster queries
+ - [https://readyset.io](https://readyset.io)
+ - date published: 2024-05-06T09:20:02.891517+00:00
+ - user: None
+ - tags: ['sql', 'extension', 'database']
+
+## The Realistic Optimist | Timothy Motte | Substack
+ - [https://www.realisticoptimist.io](https://www.realisticoptimist.io)
+ - date published: 2023-10-25T20:05:21.071317+00:00
+ - user: None
+ - tags: []
+
+## Building Software Engineering Teams Globally - Realm
+ - [https://www.realmgroup.io](https://www.realmgroup.io)
+ - date published: 2024-03-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Realtime Analytics for Newsrooms and Content Teams
+ - [https://ua.realtimely.io](https://ua.realtimely.io)
+ - date published: 2024-04-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Realytics: Leading TV Analytics and leading TV programmatic
+ - [https://www.realytics.io](https://www.realytics.io)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Pebble Appstore
+ - [https://apps.rebble.io](https://apps.rebble.io)
+ - date published: 2016-11-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Rebble Auth
+ - [https://auth.rebble.io](https://auth.rebble.io)
+ - date published: 2024-05-06T09:20:27.998988+00:00
+ - user: None
+ - tags: []
+
+## Rebble Auth
+ - [https://boot.rebble.io](https://boot.rebble.io)
+ - date published: 2024-05-06T09:20:24.740630+00:00
+ - user: None
+ - tags: []
+
+## Rebble Developer Portal · Rebble
+ - [https://dev-portal.rebble.io](https://dev-portal.rebble.io)
+ - date published: 2024-05-06T09:20:26.484607+00:00
+ - user: None
+ - tags: []
+
+## Rebble Help · Rebble
+ - [https://help.rebble.io](https://help.rebble.io)
+ - date published: 2024-05-06T09:20:30.997977+00:00
+ - user: None
+ - tags: []
+
+## Rebble
+ - [https://rebble.io](https://rebble.io)
+ - date published: 2023-10-25T20:05:22.071448+00:00
+ - user: None
+ - tags: []
+
+## Reboot: Authentic CEO Coaching and Leadership Development
+ - [https://www.reboot.io](https://www.reboot.io)
+ - date published: 2024-05-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Recurrent
+ - [https://recurrent.io](https://recurrent.io)
+ - date published: 2024-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Redict
+ - [https://redict.io](https://redict.io)
+ - date published: 2024-04-03T12:58:00.069427+00:00
+ - user: None
+ - tags: []
+
+## Redis
+ - [https://redis.io](https://redis.io)
+ - date published: 2024-03-21T08:56:20+00:00
+ - user: rumpel
+ - tags: ['programming']
+
+## Cierpliwości...
+ - [https://trust.redis.io](https://trust.redis.io)
+ - date published: 2024-04-28T04:22:14.159052+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Refractify – Optical software against myopia
+ - [https://refractify.io](https://refractify.io)
+ - date published: 2024-02-23T18:47:23+00:00
+ - user: None
+ - tags: []
+
+## Rejestr.io | Wyszukiwarka danych z KRS
+ - [https://rejestr.io](https://rejestr.io)
+ - date published: 2024-02-23T23:28:31.504583+00:00
+ - user: None
+ - tags: []
+
 ## Argus
  - [https://release-argus.io](https://release-argus.io)
  - date published: 2023-10-25T20:05:22.776475+00:00
@@ -4619,6 +5136,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
+## blog.while-true-do.io
+ - [https://blog.while-true-do.io](https://blog.while-true-do.io)
+ - date published: 2024-05-25T06:40:57.137688+00:00
+ - user: None
+ - tags: []
+
 ## Yiming Cao – Medium
  - [https://blog.whimslab.io](https://blog.whimslab.io)
  - date published: 2023-10-25T20:12:49.823789+00:00
@@ -5417,6 +5940,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
+## ENGINE | The Voice of Startups in Government
+ - [https://www.engine.is](https://www.engine.is)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Félagakerfi - Mínar síður er tótal lausn fyrir félagasamtök.
  - [https://www.felagakerfi.is](https://www.felagakerfi.is)
  - date published: 2024-03-05T00:00:00+00:00
@@ -5474,534 +6003,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Custom Domain by Bitly
  - [https://her.is](https://her.is)
  - date published: 2024-05-07T13:42:10.851615+00:00
- - user: None
- - tags: []
-
-## Domain Default page
- - [https://notendur.hi.is](https://notendur.hi.is)
- - date published: 2024-05-09T08:53:59.712917+00:00
- - user: None
- - tags: []
-
-## Hyper™
- - [https://hyper.is](https://hyper.is)
- - date published: 2024-05-06T14:02:54.597928+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://hypothes.is](https://hypothes.is)
- - date published: 2024-03-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://web.hypothes.is](https://web.hypothes.is)
- - date published: 2024-03-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ian Smith – Software Development, Electronics, and 3D Printing
- - [https://www.iansmith.is](https://www.iansmith.is)
- - date published: 2023-11-17T07:30:16.055744+00:00
- - user: None
- - tags: ['personal']
-
-## Vefp√≥stur Vodafone
- - [https://postur.internet.is](https://postur.internet.is)
- - date published: 2024-05-06T15:13:57.490896+00:00
- - user: None
- - tags: []
-
-## ipapi.is
- - [https://ipapi.is](https://ipapi.is)
- - date published: 2023-10-25T20:14:12.692518+00:00
- - user: None
- - tags: []
-
-## Ísland.is
- - [https://island.is](https://island.is)
- - date published: 2023-10-25T20:14:16.567535+00:00
- - user: None
- - tags: []
-
-## Ísland.is
- - [https://vefur.island.is](https://vefur.island.is)
- - date published: 2024-05-06T15:11:10.059235+00:00
- - user: None
- - tags: []
-
-## Horseback riding tours in Iceland - The best riding tours owned by farmers
- - [https://islandshestar.is](https://islandshestar.is)
- - date published: 2024-01-30T20:52:26.566196+00:00
- - user: None
- - tags: []
-
-## Mastodon
- - [https://fediverse.jarv.is](https://fediverse.jarv.is)
- - date published: 2024-05-06T15:11:15.335816+00:00
- - user: None
- - tags: []
-
-## Jake Jarvis – Front-End Web Developer in Boston, MA
- - [https://jarv.is](https://jarv.is)
- - date published: 2023-10-25T20:14:22.428117+00:00
- - user: None
- - tags: []
-
-## Joel Gascoigne
- - [https://joel.is](https://joel.is)
- - date published: 2024-01-12T22:14:31.768252+00:00
- - user: None
- - tags: []
-
-## Johnny Rodgers
- - [https://johnnyrodgers.is](https://johnnyrodgers.is)
- - date published: 2023-10-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jonah is… - Jonah is…
- - [https://jonah.is](https://jonah.is)
- - date published: 2024-01-06T17:57:57.609829+00:00
- - user: None
- - tags: []
-
-## The simplest way to deploy and maintain applications in the cloud
- - [https://juju.is](https://juju.is)
- - date published: 2024-05-02T12:44:40.154398+00:00
- - user: None
- - tags: []
-
-## Kenny Grants Personal Website
- - [https://kenny.is](https://kenny.is)
- - date published: 2024-01-07T11:03:19.555237+00:00
- - user: None
- - tags: []
-
-## Kenny's Newsletter
- - [https://news.kenny.is](https://news.kenny.is)
- - date published: 2024-03-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## | a.programming.blog
- - [https://who.ldelossa.is](https://who.ldelossa.is)
- - date published: 2023-10-25T20:14:23.039703+00:00
- - user: None
- - tags: []
-
-## Leahs Gedanken
- - [https://leah.is](https://leah.is)
- - date published: 2024-05-09T08:38:11.817850+00:00
- - user: None
- - tags: []
-
-## Library Genesis
- - [https://libgen.is](https://libgen.is)
- - date published: 2023-10-25T20:14:24.181142+00:00
- - user: None
- - tags: []
-
-## Library Genesis
- - [https://www.libgen.is](https://www.libgen.is)
- - date published: 2024-01-04T12:01:56+00:00
- - user: rumpel
- - tags: ['digital library']
-
-## George Mandis • Full stack web developer and creative technologist
- - [https://george.mand.is](https://george.mand.is)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Manifest
- - [https://www.manifest.is](https://www.manifest.is)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mannlíf.is | Beittur og lifandi fréttavefur
- - [https://www.mannlif.is](https://www.mannlif.is)
- - date published: 2024-01-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Iceland Monitor - monitor.is
- - [https://icelandmonitor.mbl.is](https://icelandmonitor.mbl.is)
- - date published: 2023-11-14T14:17:41.442172+00:00
- - user: None
- - tags: []
-
-## Hækkaðu í gleðinni
- - [https://k100.mbl.is](https://k100.mbl.is)
- - date published: 2024-05-06T15:12:17.624330+00:00
- - user: None
- - tags: []
-
-## Fréttir - mbl.is
- - [https://mbl.is](https://mbl.is)
- - date published: 2024-05-06T15:12:11.640764+00:00
- - user: None
- - tags: []
-
-## Plausible · Web analytics
- - [https://talning.mbl.is](https://talning.mbl.is)
- - date published: 2024-05-06T15:12:05.241735+00:00
- - user: None
- - tags: []
-
-## Fréttir - mbl.is
- - [https://www.mbl.is](https://www.mbl.is)
- - date published: 2024-05-06T15:12:16.468673+00:00
- - user: None
- - tags: []
-
-## MDS - The Website of Matt D. Smith
- - [http://mds.is](http://mds.is)
- - date published: 2024-05-06T13:56:12.969343+00:00
- - user: None
- - tags: []
-
-## ultreia me - Page
- - [https://mikka.is](https://mikka.is)
- - date published: 2024-02-26T15:00:43.525617+00:00
- - user: None
- - tags: []
-
-## montrose.is
- - [http://montrose.is](http://montrose.is)
- - date published: 2024-05-09T09:10:14.336592+00:00
- - user: None
- - tags: []
-
-## Professor Steven J. Murdoch
- - [https://murdoch.is](https://murdoch.is)
- - date published: 2023-10-25T20:14:25.931346+00:00
- - user: None
- - tags: []
-
-## Opnir reikningar ríkisins
- - [http://www.opnirreikningar.is](http://www.opnirreikningar.is)
- - date published: 2024-05-06T15:11:06.392184+00:00
- - user: None
- - tags: []
-
-## p6.is
- - [https://blog.p6.is](https://blog.p6.is)
- - date published: 2024-05-11T08:25:34.719155+00:00
- - user: None
- - tags: []
-
-## undefined - Benjamin Parry
- - [https://benjamin.parry.is](https://benjamin.parry.is)
- - date published: 2024-05-04T21:07:05.903782+00:00
- - user: None
- - tags: []
-
-## PIXELITIS | Videojuegos | PC, PS5, Xbox, Switch, PS4, XSeries
- - [https://pixelit.is](https://pixelit.is)
- - date published: 2024-05-09T07:48:20.406869+00:00
- - user: None
- - tags: []
-
-## pratik.is/
- - [https://pratik.is](https://pratik.is)
- - date published: 2023-10-25T20:14:27.508195+00:00
- - user: None
- - tags: []
-
-## Pronoun Island
- - [https://pronoun.is](https://pronoun.is)
- - date published: 2024-05-01T04:42:28.895265+00:00
- - user: None
- - tags: ['propaganda', 'gender', 'pronouns']
-
-## Puffin Taxi | Private Tours and transfer in Iceland 2024 | Nature Tours
- - [https://puffintaxi.is](https://puffintaxi.is)
- - date published: 2024-05-08T10:35:08.397112+00:00
- - user: None
- - tags: []
-
-## reaper | developer
- - [https://reaper.is](https://reaper.is)
- - date published: 2024-05-04T14:14:51.843375+00:00
- - user: None
- - tags: ['personal']
-
-## Fjárhagsupplýsingar ríkisins
- - [https://rikisreikningur.is](https://rikisreikningur.is)
- - date published: 2024-05-06T15:11:08.584439+00:00
- - user: None
- - tags: []
-
-## www.road.is
- - [http://www.road.is](http://www.road.is)
- - date published: 2024-05-06T22:15:44.980125+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://ben.robertson.is](https://ben.robertson.is)
- - date published: 2024-01-11T13:45:34.420578+00:00
- - user: None
- - tags: []
-
-## Robin is... Home
- - [https://robin.is](https://robin.is)
- - date published: 2024-04-07T04:31:41.299439+00:00
- - user: None
- - tags: ['personal']
-
-## Robin is... Home
- - [https://www.robin.is](https://www.robin.is)
- - date published: 2024-01-19T01:54:26.064868+00:00
- - user: None
- - tags: []
-
-## Romaric Pascal
- - [https://romaricpascal.is](https://romaricpascal.is)
- - date published: 2024-05-09T08:18:47.024515+00:00
- - user: None
- - tags: []
-
-## Innskrá - Wagtail
- - [https://images.nyr.ruv.is](https://images.nyr.ruv.is)
- - date published: 2024-05-06T15:13:26.480479+00:00
- - user: None
- - tags: []
-
-## Mitt RÚV
- - [https://mitt.ruv.is](https://mitt.ruv.is)
- - date published: 2024-05-06T15:13:28.606984+00:00
- - user: None
- - tags: []
-
-## RÚV.is
- - [https://nyr.ruv.is](https://nyr.ruv.is)
- - date published: 2022-09-27T21:08:51.852000+00:00
- - user: None
- - tags: []
-
-## RÚV.is
- - [https://www.ruv.is](https://www.ruv.is)
- - date published: 2023-11-11T03:29:34.003690+00:00
- - user: None
- - tags: []
-
-## Sean Coker
- - [https://sean.is](https://sean.is)
- - date published: 2024-05-11T10:08:40.156207+00:00
- - user: None
- - tags: []
-
-## Simplifying Data Engineering - Silectis
- - [https://www.silect.is](https://www.silect.is)
- - date published: 2020-12-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Timi Wahalahti | Backend developer and WordPress enthusiast
- - [https://sipp.is](https://sipp.is)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Your story estimation can be lightweight and efficient
- - [https://smartguess.is](https://smartguess.is)
- - date published: 2023-11-01T08:43:48.191532+00:00
- - user: None
- - tags: []
-
-## Andy Stanton is
- - [https://andy.stanton.is](https://andy.stanton.is)
- - date published: 2024-05-06T16:30:25.734149+00:00
- - user: None
- - tags: ['personal']
-
-## Forsíða
- - [https://www.stjornarradid.is](https://www.stjornarradid.is)
- - date published: 2024-05-06T15:11:07.976107+00:00
- - user: None
- - tags: []
-
-## Forsíða | Stöð 2
- - [http://stod2.is](http://stod2.is)
- - date published: 2024-05-06T15:13:58.739091+00:00
- - user: None
- - tags: []
-
-## Lincoln is...blue
- - [https://lincoln.swaine-moore.is](https://lincoln.swaine-moore.is)
- - date published: 2024-01-09T03:33:33.087300+00:00
- - user: None
- - tags: []
-
-## Swell | Next-level ecommerce for everyone
- - [https://www.swell.is](https://www.swell.is)
- - date published: 2024-04-29T04:58:16.901545+00:00
- - user: None
- - tags: []
-
-## Sýn
- - [https://syn.is](https://syn.is)
- - date published: 2024-04-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jasper is (╯°□°）╯︵ ┻━┻
- - [https://jasper.tandy.is](https://jasper.tandy.is)
- - date published: 2023-11-29T14:25:42.608019+00:00
- - user: None
- - tags: ['personal']
-
-## Tekjusagan
- - [https://tekjusagan.is](https://tekjusagan.is)
- - date published: 2024-05-06T15:11:05.095324+00:00
- - user: None
- - tags: []
-
-## The (Site of) Davis
- - [https://thedav.is](https://thedav.is)
- - date published: 2023-10-25T20:14:33.148978+00:00
- - user: None
- - tags: []
-
-## Thought.is
- - [https://thought.is](https://thought.is)
- - date published: 2024-05-09T04:50:22.684141+00:00
- - user: None
- - tags: []
-
-## None
- - [https://rss.time.is](https://rss.time.is)
- - date published: 2024-02-26T14:09:15.836123+00:00
- - user: None
- - tags: []
-
-## Time.is - exact time, any time zone
- - [https://time.is](https://time.is)
- - date published: 2023-10-25T20:14:35.850640+00:00
- - user: None
- - tags: []
-
-## timing blog
- - [https://blog.timing.is](https://blog.timing.is)
- - date published: 2023-10-25T20:14:37.573106+00:00
- - user: None
- - tags: []
-
-## timing.is – mindful productivity
- - [https://timing.is](https://timing.is)
- - date published: 2024-05-06T15:13:43.202009+00:00
- - user: None
- - tags: []
-
-## tot.is - tiny original thoughts
- - [https://tot.is](https://tot.is)
- - date published: 2023-11-26T21:56:30.710870+00:00
- - user: None
- - tags: ['personal']
-
-## tty.is
- - [https://tty.is](https://tty.is)
- - date published: 2024-05-09T08:01:07.854085+00:00
- - user: None
- - tags: []
-
-## Umami
- - [https://analytics.eu.umami.is](https://analytics.eu.umami.is)
- - date published: 2024-05-01T02:42:52.039896+00:00
- - user: None
- - tags: []
-
-## Umami
- - [https://analytics.umami.is](https://analytics.umami.is)
- - date published: 2024-04-30T07:17:46.399435+00:00
- - user: None
- - tags: []
-
-## Umami
- - [https://analytics.us.umami.is](https://analytics.us.umami.is)
- - date published: 2024-04-28T02:45:02.356351+00:00
- - user: None
- - tags: []
-
-## Websites | Umami Cloud
- - [https://cloud.umami.is](https://cloud.umami.is)
- - date published: 2024-05-06T20:19:38.021849+00:00
- - user: None
- - tags: []
-
-## Umami
- - [https://eu.umami.is](https://eu.umami.is)
- - date published: 2024-05-02T11:10:57.123850+00:00
- - user: None
- - tags: []
-
-## Umami
- - [https://umami.is](https://umami.is)
- - date published: 2024-04-08T19:31:04.401640+00:00
- - user: None
- - tags: ['self-host', 'open source', 'website analytics']
-
-## Umami
- - [https://us.umami.is](https://us.umami.is)
- - date published: 2024-04-28T01:40:24.646587+00:00
- - user: None
- - tags: []
-
-## SLA & Uptime calculator: How much downtime corresponds to 99.9 % uptime
- - [https://uptime.is](https://uptime.is)
- - date published: 2024-04-28T03:23:35.964987+00:00
- - user: None
- - tags: []
-
-## Home-page - Icelandic Meteorological Office | Icelandic Meteorological office
- - [https://en.vedur.is](https://en.vedur.is)
- - date published: 2024-04-28T02:23:22.906270+00:00
- - user: None
- - tags: []
-
-## Visa er traustur leiðtogi í stafrænum greiðslum.
- - [https://www.visa.is](https://www.visa.is)
- - date published: 2024-05-12T03:58:58.704410+00:00
- - user: None
- - tags: []
-
-## BYLGJAN | Hlustaðu í beinni og á upptökur
- - [http://bylgjan.visir.is](http://bylgjan.visir.is)
- - date published: 2024-05-06T15:13:48.537142+00:00
- - user: None
- - tags: []
-
-## Fasteignir.is
- - [http://fasteignir.visir.is](http://fasteignir.visir.is)
- - date published: 2024-05-06T15:14:04.454784+00:00
- - user: None
- - tags: []
-
-## FM957 | Hlustaðu í beinni og á upptökur
- - [http://fm957.visir.is](http://fm957.visir.is)
- - date published: 2024-05-06T15:14:19.183648+00:00
- - user: None
- - tags: []
-
-## Vodafone - Sjáðu rautt
- - [https://konnun.visir.is](https://konnun.visir.is)
- - date published: 2024-05-06T15:14:07.221132+00:00
- - user: None
- - tags: []
-
-## Tal - Vísir | Heimili íslenskra hlaðvarpa
- - [https://tal.visir.is](https://tal.visir.is)
- - date published: 2024-05-06T15:13:59.287535+00:00
- - user: None
- - tags: []
-
-## Vefútvarp Vísis | Íslenskar útvarpsstöðvar á netinu
- - [https://vefutvarp.visir.is](https://vefutvarp.visir.is)
- - date published: 2024-05-06T15:13:54.339284+00:00
  - user: None
  - tags: []
 
