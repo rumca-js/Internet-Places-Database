@@ -1,3 +1,219 @@
+## The 1% Better Runner | DLake Runs | Daren | Substack
+ - [https://dlakecreates.substack.com](https://dlakecreates.substack.com)
+ - date published: 2024-01-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dolia’s Substack | Dolia Estévez | Substack
+ - [https://dolia.substack.com](https://dolia.substack.com)
+ - date published: 2024-04-30T07:03:34.035779+00:00
+ - user: None
+ - tags: []
+
+## Doodles Into Dollars by Eric Bakey | Substack
+ - [https://doodlesintodollars.substack.com](https://doodlesintodollars.substack.com)
+ - date published: 2024-05-02T13:58:40.443890+00:00
+ - user: None
+ - tags: []
+
+## The Dossier | Jordan Schachtel | Substack
+ - [https://dossier.substack.com](https://dossier.substack.com)
+ - date published: 2023-10-25T09:48:27.561303+00:00
+ - user: None
+ - tags: ['substack']
+
+## Dougald Lamont’s Substack | Substack
+ - [https://dougaldlamont.substack.com](https://dougaldlamont.substack.com)
+ - date published: 2023-11-14T18:21:47.758730+00:00
+ - user: None
+ - tags: []
+
+## Douglas’s Substack | Douglas Messier | Substack
+ - [https://douglasmmessier.substack.com](https://douglasmmessier.substack.com)
+ - date published: 2024-03-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Doves and Bullets | Substack
+ - [https://dovesandbullets.substack.com](https://dovesandbullets.substack.com)
+ - date published: 2024-01-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Untrapping Product Teams | David Pereira | Substack
+ - [https://dpereira.substack.com](https://dpereira.substack.com)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DPHacks Newsletter and Updates | André Costa | Substack
+ - [https://dphacks.substack.com](https://dphacks.substack.com)
+ - date published: 2024-03-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dr Clare Craig | Substack
+ - [https://drclarecraig.substack.com](https://drclarecraig.substack.com)
+ - date published: 2024-02-23T14:10:10.657702+00:00
+ - user: None
+ - tags: []
+
+## Dr. Eric Ding’s Journal | Eric Feigl-Ding | Substack
+ - [https://drericding.substack.com](https://drericding.substack.com)
+ - date published: 2023-10-25T09:48:29.176011+00:00
+ - user: None
+ - tags: ['substack']
+
+## DrEricLevi’s Substack | Substack
+ - [https://drericlevi.substack.com](https://drericlevi.substack.com)
+ - date published: 2024-04-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ultra Successful | Dr. Julie Gurner | Substack
+ - [https://drgurner.substack.com](https://drgurner.substack.com)
+ - date published: 2024-01-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Overthinking Everything | David R. MacIver | Substack
+ - [https://drmaciver.substack.com](https://drmaciver.substack.com)
+ - date published: 2024-05-01T02:13:38.679617+00:00
+ - user: None
+ - tags: []
+
+## Radically Genuine  | Dr. Roger McFillin | Substack
+ - [https://drmcfillin.substack.com](https://drmcfillin.substack.com)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dr. Pippa's Pen & Podcast | Dr Pippa | Substack
+ - [https://drpippa.substack.com](https://drpippa.substack.com)
+ - date published: 2023-10-25T09:48:32.670348+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Dose | Dr. Samantha Boardman | Substack
+ - [https://drsamanthaboardman.substack.com](https://drsamanthaboardman.substack.com)
+ - date published: 2023-10-25T09:48:36.554284+00:00
+ - user: None
+ - tags: ['substack']
+
+## Drumlist | Ross Farley | Substack
+ - [http://drumlist.substack.com](http://drumlist.substack.com)
+ - date published: 2024-05-10T06:14:57.484479+00:00
+ - user: None
+ - tags: []
+
+## DYNOMIGHT INTERNET NEWSLETTER | Substack
+ - [https://dynomight.substack.com](https://dynomight.substack.com)
+ - date published: 2023-10-25T09:48:40.730454+00:00
+ - user: None
+ - tags: ['substack']
+
+## Eating Policy | Jennifer Pahlka | Substack
+ - [https://eatingpolicy.substack.com](https://eatingpolicy.substack.com)
+ - date published: 2024-02-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Economic Insights | Substack
+ - [https://economicinsights.substack.com](https://economicinsights.substack.com)
+ - date published: 2024-05-06T13:42:48.343891+00:00
+ - user: None
+ - tags: []
+
+## Ecstatic Integration | Jules Evans | Substack
+ - [https://ecstaticintegration.substack.com](https://ecstaticintegration.substack.com)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Material World | Ed Conway | Substack
+ - [https://edconway.substack.com](https://edconway.substack.com)
+ - date published: 2024-01-09T01:39:40.579563+00:00
+ - user: None
+ - tags: []
+
+## EdgyFin | Substack
+ - [https://edgyfin.substack.com](https://edgyfin.substack.com)
+ - date published: 2024-05-06T23:15:08.791521+00:00
+ - user: None
+ - tags: []
+
+## Stoic Street Smarts | Ed Latimore | Substack
+ - [https://edlatimore.substack.com](https://edlatimore.substack.com)
+ - date published: 2024-04-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ednevsky Blog | Alexander Nevedovsky | Substack
+ - [https://ednevsky.substack.com](https://ednevsky.substack.com)
+ - date published: 2024-01-09T01:39:43.394040+00:00
+ - user: None
+ - tags: []
+
+## Edward Slavsquat | Substack
+ - [https://edwardslavsquat.substack.com](https://edwardslavsquat.substack.com)
+ - date published: 2024-01-09T01:39:52.342623+00:00
+ - user: None
+ - tags: []
+
+## Continuing Ed  — with Edward Snowden | Substack
+ - [https://edwardsnowden.substack.com](https://edwardsnowden.substack.com)
+ - date published: 2023-10-25T09:49:04.557546+00:00
+ - user: None
+ - tags: ['substack']
+
+## Wrong Side of History | Ed West | Substack
+ - [https://edwest.substack.com](https://edwest.substack.com)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Effectiviology | Itamar Shatz | Substack
+ - [https://effectiviology.substack.com](https://effectiviology.substack.com)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Power of Teamwork | Andrew Makhovskyi | Substack
+ - [https://effyai.substack.com](https://effyai.substack.com)
+ - date published: 2023-10-25T09:49:13.799085+00:00
+ - user: None
+ - tags: ['substack']
+
+## Some Glad Morning | Elizabeth Hummel | Substack
+ - [https://ehummel.substack.com](https://ehummel.substack.com)
+ - date published: 2024-01-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## eieio games | nolen | Substack
+ - [https://eieio.substack.com](https://eieio.substack.com)
+ - date published: 2024-03-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## eigenrobot,s Blog | Substack
+ - [https://eigenrobot.substack.com](https://eigenrobot.substack.com)
+ - date published: 2024-01-09T01:39:54.987097+00:00
+ - user: None
+ - tags: []
+
+## Wednesday's Ghost | Elaine Kasket | Substack
+ - [https://elainekasket.substack.com](https://elainekasket.substack.com)
+ - date published: 2024-05-02T10:12:14.195297+00:00
+ - user: None
+ - tags: []
+
+## Elena's Growth Scoop | Elena Verna | Substack
+ - [https://elenaverna.substack.com](https://elenaverna.substack.com)
+ - date published: 2024-02-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Elizabeth Hummel | Substack
  - [https://elizabethhummel.substack.com](https://elizabethhummel.substack.com)
  - date published: 2024-05-01T08:46:10.012650+00:00
@@ -3076,6 +3292,12 @@
  - user: None
  - tags: []
 
+## Robin’s Substack | Robin Dev | Substack
+ - [https://robindev.substack.com](https://robindev.substack.com)
+ - date published: 2024-05-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Rob Henderson's Newsletter | Substack
  - [https://robkhenderson.substack.com](https://robkhenderson.substack.com)
  - date published: 2024-01-09T01:43:54.498996+00:00
@@ -5773,228 +5995,6 @@
 ## Superpoop: Photo Comics by Drew. Updates every Thursday.
  - [http://www.superpoop.com](http://www.superpoop.com)
  - date published: 2024-05-04T07:59:12.584397+00:00
- - user: None
- - tags: []
-
-## Build Low Latency Audio-centric Apps for Mobile, Web, Desktop and Embedded from One API | Superpowered
- - [http://superpowered.com](http://superpowered.com)
- - date published: 2024-05-07T15:46:31.907283+00:00
- - user: None
- - tags: []
-
-## Superprof - The Platform for Private Tutors
- - [https://www.superprof.com](https://www.superprof.com)
- - date published: 2024-05-06T21:46:59.480608+00:00
- - user: None
- - tags: []
-
-## SuperShot PRP
- - [https://supershotprp.com](https://supershotprp.com)
- - date published: 2024-05-08T03:47:50.655274+00:00
- - user: None
- - tags: []
-
-## Super Smalls
- - [https://supersmalls.com](https://supersmalls.com)
- - date published: 2024-04-29T03:43:45.287508+00:00
- - user: None
- - tags: []
-
-## Super Soldier Talk | Milabs, Monarchs, Mkultra
- - [https://supersoldiertalk.com](https://supersoldiertalk.com)
- - date published: 2023-10-25T17:19:46.384521+00:00
- - user: None
- - tags: []
-
-## Super Surge - Your search starts now
- - [https://www.supersurge.com](https://www.supersurge.com)
- - date published: 2024-04-30T07:27:24.973329+00:00
- - user: None
- - tags: []
-
-## 603466164219281420 #general
- - [https://community.supertokens.com](https://community.supertokens.com)
- - date published: 2024-04-29T07:58:44.511245+00:00
- - user: None
- - tags: []
-
-## Mapping Ideas That Change the World
- - [https://www.superusapp.com](https://www.superusapp.com)
- - date published: 2023-10-25T17:19:48.556306+00:00
- - user: None
- - tags: []
-
-## Meta Super User
- - [https://meta.superuser.com](https://meta.superuser.com)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Super User
- - [https://superuser.com](https://superuser.com)
- - date published: 2023-10-25T17:19:51.369524+00:00
- - user: None
- - tags: []
-
-## How To Take Over The World
- - [https://www.supervillainbook.com](https://www.supervillainbook.com)
- - date published: 2024-05-13T03:25:47.145149+00:00
- - user: None
- - tags: ['book', 'comics']
-
-## Supply Chain News and Analysis | Supply Chain Dive
- - [https://www.supplychaindive.com](https://www.supplychaindive.com)
- - date published: 2024-04-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Supplyframe
- - [https://supplyframe.com](https://supplyframe.com)
- - date published: 2024-05-04T09:12:35.922963+00:00
- - user: None
- - tags: []
-
-## Supreme Golf | Discount Tee Times, Deals & Course Reviews
- - [https://supremegolf.com](https://supremegolf.com)
- - date published: 2024-05-10T05:15:44.977502+00:00
- - user: None
- - tags: []
-
-## Supreme People's Court Monitor
- - [https://supremepeoplescourtmonitor.com](https://supremepeoplescourtmonitor.com)
- - date published: 2024-05-07T15:13:11.397324+00:00
- - user: None
- - tags: []
-
-## Suresupport.com - Login
- - [https://tickets.suresupport.com](https://tickets.suresupport.com)
- - date published: 2024-05-01T07:16:33.534208+00:00
- - user: None
- - tags: []
-
-## Limp Bizkit - Home
- - [https://store.suretone.com](https://store.suretone.com)
- - date published: 2024-05-15T20:52:21.762091+00:00
- - user: None
- - tags: []
-
-## My blog.
- - [https://surfcoderepeat.com](https://surfcoderepeat.com)
- - date published: 2023-11-29T18:21:20.149748+00:00
- - user: None
- - tags: ['personal']
-
-## SurferToday.com | The Ultimate Surfing News Website
- - [https://www.surfertoday.com](https://www.surfertoday.com)
- - date published: 2024-03-04T18:53:53.898974+00:00
- - user: None
- - tags: []
-
-## Surfing Waves -  Online Resource for Surf Addicts!
- - [https://surfing-waves.com](https://surfing-waves.com)
- - date published: 2024-05-22T02:48:46.206387+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://www.surfline.com](https://www.surfline.com)
- - date published: 2024-05-04T10:11:20.626239+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://my.surfshark.com](https://my.surfshark.com)
- - date published: 2024-04-29T07:13:31.486895+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://support.surfshark.com](https://support.surfshark.com)
- - date published: 2024-04-29T07:13:23.596394+00:00
- - user: None
- - tags: []
-
-## Surfshark: secure online VPN service & more
- - [https://surfshark.com](https://surfshark.com)
- - date published: 2024-04-29T07:13:20.101866+00:00
- - user: None
- - tags: []
-
-## Surfshark: secure online VPN service & more
- - [https://www.surfshark.com](https://www.surfshark.com)
- - date published: 2024-05-02T09:43:49.702458+00:00
- - user: None
- - tags: []
-
-## SUR in English - Spanish news in English
- - [https://www.surinenglish.com](https://www.surinenglish.com)
- - date published: 2023-12-28T16:42:30.076739+00:00
- - user: None
- - tags: []
-
-## Home
- - [http://www.suriyun.com](http://www.suriyun.com)
- - date published: 2024-02-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Surperformance
- - [http://surperformance.com](http://surperformance.com)
- - date published: 2024-05-04T14:28:35.723364+00:00
- - user: None
- - tags: []
-
-## [S][J][P]
- - [https://surplusjouissance.com](https://surplusjouissance.com)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## [S][J][P]
- - [https://www.surplusjouissance.com](https://www.surplusjouissance.com)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## SurrealDB | The ultimate multi-model database for tomorrow's applications
- - [https://surrealdb.com](https://surrealdb.com)
- - date published: 2023-10-29T17:22:37.369138+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://surrey-research-park.com](https://surrey-research-park.com)
- - date published: 2024-05-09T05:20:16.037179+00:00
- - user: None
- - tags: []
-
-## SursockHouse
- - [https://sursockhouse.com](https://sursockhouse.com)
- - date published: 2023-10-25T17:19:53.345575+00:00
- - user: None
- - tags: []
-
-## Gorgeous surveys, engaging polls and responsive forms
- - [https://www.surveylegend.com](https://www.surveylegend.com)
- - date published: 2024-05-08T00:09:40.667365+00:00
- - user: None
- - tags: []
-
-## Créer des sondages et questionnaires en ligne | SurveyMonkey
- - [https://fr.surveymonkey.com](https://fr.surveymonkey.com)
- - date published: 2024-02-08T16:43:54.667347+00:00
- - user: None
- - tags: []
-
-## SurveyMonkey: The World’s Most Popular Free Online Survey Tool
- - [https://www.surveymonkey.com](https://www.surveymonkey.com)
- - date published: 2024-04-29T03:26:10.511286+00:00
- - user: None
- - tags: []
-
-## surveyuncle.com - Domain Name For Sale | Dan.com
- - [https://surveyuncle.com](https://surveyuncle.com)
- - date published: 2024-02-08T16:59:14.925639+00:00
  - user: None
  - tags: []
 

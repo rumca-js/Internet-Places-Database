@@ -1,3 +1,213 @@
+## Law Stack Exchange
+ - [https://law.stackexchange.com](https://law.stackexchange.com)
+ - date published: 2023-10-25T17:13:29.773395+00:00
+ - user: None
+ - tags: []
+
+## Linguistics Stack Exchange
+ - [http://linguistics.stackexchange.com](http://linguistics.stackexchange.com)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Literature Stack Exchange
+ - [https://literature.stackexchange.com](https://literature.stackexchange.com)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mathematics Educators Stack Exchange
+ - [https://matheducators.stackexchange.com](https://matheducators.stackexchange.com)
+ - date published: 2024-05-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mathematica Stack Exchange
+ - [https://mathematica.stackexchange.com](https://mathematica.stackexchange.com)
+ - date published: 2023-10-25T17:13:45.339618+00:00
+ - user: None
+ - tags: []
+
+## Mathematics Stack Exchange
+ - [https://math.stackexchange.com](https://math.stackexchange.com)
+ - date published: 2023-10-25T17:13:42.554988+00:00
+ - user: None
+ - tags: []
+
+## Matter Modeling Stack Exchange
+ - [https://mattermodeling.stackexchange.com](https://mattermodeling.stackexchange.com)
+ - date published: 2024-05-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Motor Vehicle Maintenance & Repair Stack Exchange
+ - [https://mechanics.stackexchange.com](https://mechanics.stackexchange.com)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Meta Stack Exchange
+ - [https://meta.stackexchange.com](https://meta.stackexchange.com)
+ - date published: 2023-10-25T17:13:50.218460+00:00
+ - user: None
+ - tags: []
+
+## Personal Finance & Money Stack Exchange
+ - [https://money.stackexchange.com](https://money.stackexchange.com)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Movies & TV Stack Exchange
+ - [https://movies.stackexchange.com](https://movies.stackexchange.com)
+ - date published: 2023-10-25T17:13:53.200178+00:00
+ - user: None
+ - tags: []
+
+## Open Source Stack Exchange
+ - [https://opensource.stackexchange.com](https://opensource.stackexchange.com)
+ - date published: 2024-05-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Philosophy Stack Exchange
+ - [https://philosophy.stackexchange.com](https://philosophy.stackexchange.com)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Physics Stack Exchange
+ - [https://physics.stackexchange.com](https://physics.stackexchange.com)
+ - date published: 2023-10-25T17:13:56.651090+00:00
+ - user: None
+ - tags: []
+
+## Project Management Stack Exchange
+ - [https://pm.stackexchange.com](https://pm.stackexchange.com)
+ - date published: 2023-10-25T17:14:00.083237+00:00
+ - user: None
+ - tags: []
+
+## Politics Stack Exchange
+ - [https://politics.stackexchange.com](https://politics.stackexchange.com)
+ - date published: 2024-05-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Proof Assistants Stack Exchange
+ - [https://proofassistants.stackexchange.com](https://proofassistants.stackexchange.com)
+ - date published: 2023-10-27T23:10:18.343496+00:00
+ - user: None
+ - tags: []
+
+## Puzzling Stack Exchange
+ - [https://puzzling.stackexchange.com](https://puzzling.stackexchange.com)
+ - date published: 2023-10-25T17:14:03.428352+00:00
+ - user: None
+ - tags: []
+
+## Quantum Computing Stack Exchange
+ - [https://quantumcomputing.stackexchange.com](https://quantumcomputing.stackexchange.com)
+ - date published: 2024-04-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Raspberry Pi Stack Exchange
+ - [https://raspberrypi.stackexchange.com](https://raspberrypi.stackexchange.com)
+ - date published: 2023-11-06T10:17:19.467869+00:00
+ - user: None
+ - tags: []
+
+## Retrocomputing Stack Exchange
+ - [https://retrocomputing.stackexchange.com](https://retrocomputing.stackexchange.com)
+ - date published: 2023-10-25T17:14:06.682774+00:00
+ - user: None
+ - tags: []
+
+## Reverse Engineering Meta Stack Exchange
+ - [https://reverseengineering.meta.stackexchange.com](https://reverseengineering.meta.stackexchange.com)
+ - date published: 2024-05-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Reverse Engineering Stack Exchange
+ - [https://reverseengineering.stackexchange.com](https://reverseengineering.stackexchange.com)
+ - date published: 2024-03-19T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
+## Role-playing Games Stack Exchange
+ - [https://rpg.stackexchange.com](https://rpg.stackexchange.com)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Computational Science Stack Exchange
+ - [https://scicomp.stackexchange.com](https://scicomp.stackexchange.com)
+ - date published: 2023-10-25T17:14:10.060152+00:00
+ - user: None
+ - tags: []
+
+## Science Fiction & Fantasy Meta Stack Exchange
+ - [https://scifi.meta.stackexchange.com](https://scifi.meta.stackexchange.com)
+ - date published: 2024-05-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Science Fiction & Fantasy Stack Exchange
+ - [https://scifi.stackexchange.com](https://scifi.stackexchange.com)
+ - date published: 2024-03-23T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
+## Information Security Stack Exchange
+ - [https://security.stackexchange.com](https://security.stackexchange.com)
+ - date published: 2023-10-25T17:14:13.452807+00:00
+ - user: None
+ - tags: []
+
+## Skeptics Stack Exchange
+ - [https://skeptics.stackexchange.com](https://skeptics.stackexchange.com)
+ - date published: 2023-10-25T17:14:16.355135+00:00
+ - user: None
+ - tags: []
+
+## Software Engineering Stack Exchange
+ - [https://softwareengineering.stackexchange.com](https://softwareengineering.stackexchange.com)
+ - date published: 2023-10-25T17:14:19.605475+00:00
+ - user: None
+ - tags: []
+
+## Space Exploration Stack Exchange
+ - [https://space.stackexchange.com](https://space.stackexchange.com)
+ - date published: 2024-02-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hot Questions - Stack Exchange
+ - [https://stackexchange.com](https://stackexchange.com)
+ - date published: 2024-04-28T03:30:40.257141+00:00
+ - user: None
+ - tags: []
+
+## Cross Validated
+ - [https://stats.stackexchange.com](https://stats.stackexchange.com)
+ - date published: 2024-02-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Substrate and Polkadot Stack Exchange
+ - [https://substrate.stackexchange.com](https://substrate.stackexchange.com)
+ - date published: 2023-10-25T17:14:27.990996+00:00
+ - user: None
+ - tags: []
+
+## Sustainable Living Meta Stack Exchange
+ - [https://sustainability.meta.stackexchange.com](https://sustainability.meta.stackexchange.com)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Sustainable Living Stack Exchange
  - [https://sustainability.stackexchange.com](https://sustainability.stackexchange.com)
  - date published: 2024-03-04T00:00:00+00:00
@@ -4271,6 +4481,12 @@
  - user: None
  - tags: ['substack']
 
+## The API Changelog | Bruno Pedro | Substack
+ - [https://apichangelog.substack.com](https://apichangelog.substack.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Apperceptive (moved to buttondown) | sam | Substack
  - [https://apperceptive.substack.com](https://apperceptive.substack.com)
  - date published: 2024-05-07T09:31:29.620885+00:00
@@ -5780,222 +5996,6 @@
 ## DIY Investing Newsletter | Trey Henninger | Substack
  - [https://diyinvestingstocks.substack.com](https://diyinvestingstocks.substack.com)
  - date published: 2024-05-06T23:15:09.849973+00:00
- - user: None
- - tags: []
-
-## The 1% Better Runner | DLake Runs | Daren | Substack
- - [https://dlakecreates.substack.com](https://dlakecreates.substack.com)
- - date published: 2024-01-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dolia’s Substack | Dolia Estévez | Substack
- - [https://dolia.substack.com](https://dolia.substack.com)
- - date published: 2024-04-30T07:03:34.035779+00:00
- - user: None
- - tags: []
-
-## Doodles Into Dollars by Eric Bakey | Substack
- - [https://doodlesintodollars.substack.com](https://doodlesintodollars.substack.com)
- - date published: 2024-05-02T13:58:40.443890+00:00
- - user: None
- - tags: []
-
-## The Dossier | Jordan Schachtel | Substack
- - [https://dossier.substack.com](https://dossier.substack.com)
- - date published: 2023-10-25T09:48:27.561303+00:00
- - user: None
- - tags: ['substack']
-
-## Dougald Lamont’s Substack | Substack
- - [https://dougaldlamont.substack.com](https://dougaldlamont.substack.com)
- - date published: 2023-11-14T18:21:47.758730+00:00
- - user: None
- - tags: []
-
-## Douglas’s Substack | Douglas Messier | Substack
- - [https://douglasmmessier.substack.com](https://douglasmmessier.substack.com)
- - date published: 2024-03-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Doves and Bullets | Substack
- - [https://dovesandbullets.substack.com](https://dovesandbullets.substack.com)
- - date published: 2024-01-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Untrapping Product Teams | David Pereira | Substack
- - [https://dpereira.substack.com](https://dpereira.substack.com)
- - date published: 2024-04-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## DPHacks Newsletter and Updates | André Costa | Substack
- - [https://dphacks.substack.com](https://dphacks.substack.com)
- - date published: 2024-03-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dr Clare Craig | Substack
- - [https://drclarecraig.substack.com](https://drclarecraig.substack.com)
- - date published: 2024-02-23T14:10:10.657702+00:00
- - user: None
- - tags: []
-
-## Dr. Eric Ding’s Journal | Eric Feigl-Ding | Substack
- - [https://drericding.substack.com](https://drericding.substack.com)
- - date published: 2023-10-25T09:48:29.176011+00:00
- - user: None
- - tags: ['substack']
-
-## DrEricLevi’s Substack | Substack
- - [https://drericlevi.substack.com](https://drericlevi.substack.com)
- - date published: 2024-04-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ultra Successful | Dr. Julie Gurner | Substack
- - [https://drgurner.substack.com](https://drgurner.substack.com)
- - date published: 2024-01-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Overthinking Everything | David R. MacIver | Substack
- - [https://drmaciver.substack.com](https://drmaciver.substack.com)
- - date published: 2024-05-01T02:13:38.679617+00:00
- - user: None
- - tags: []
-
-## Radically Genuine  | Dr. Roger McFillin | Substack
- - [https://drmcfillin.substack.com](https://drmcfillin.substack.com)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dr. Pippa's Pen & Podcast | Dr Pippa | Substack
- - [https://drpippa.substack.com](https://drpippa.substack.com)
- - date published: 2023-10-25T09:48:32.670348+00:00
- - user: None
- - tags: ['substack']
-
-## The Dose | Dr. Samantha Boardman | Substack
- - [https://drsamanthaboardman.substack.com](https://drsamanthaboardman.substack.com)
- - date published: 2023-10-25T09:48:36.554284+00:00
- - user: None
- - tags: ['substack']
-
-## Drumlist | Ross Farley | Substack
- - [http://drumlist.substack.com](http://drumlist.substack.com)
- - date published: 2024-05-10T06:14:57.484479+00:00
- - user: None
- - tags: []
-
-## DYNOMIGHT INTERNET NEWSLETTER | Substack
- - [https://dynomight.substack.com](https://dynomight.substack.com)
- - date published: 2023-10-25T09:48:40.730454+00:00
- - user: None
- - tags: ['substack']
-
-## Eating Policy | Jennifer Pahlka | Substack
- - [https://eatingpolicy.substack.com](https://eatingpolicy.substack.com)
- - date published: 2024-02-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Economic Insights | Substack
- - [https://economicinsights.substack.com](https://economicinsights.substack.com)
- - date published: 2024-05-06T13:42:48.343891+00:00
- - user: None
- - tags: []
-
-## Ecstatic Integration | Jules Evans | Substack
- - [https://ecstaticintegration.substack.com](https://ecstaticintegration.substack.com)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Material World | Ed Conway | Substack
- - [https://edconway.substack.com](https://edconway.substack.com)
- - date published: 2024-01-09T01:39:40.579563+00:00
- - user: None
- - tags: []
-
-## EdgyFin | Substack
- - [https://edgyfin.substack.com](https://edgyfin.substack.com)
- - date published: 2024-05-06T23:15:08.791521+00:00
- - user: None
- - tags: []
-
-## Stoic Street Smarts | Ed Latimore | Substack
- - [https://edlatimore.substack.com](https://edlatimore.substack.com)
- - date published: 2024-04-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ednevsky Blog | Alexander Nevedovsky | Substack
- - [https://ednevsky.substack.com](https://ednevsky.substack.com)
- - date published: 2024-01-09T01:39:43.394040+00:00
- - user: None
- - tags: []
-
-## Edward Slavsquat | Substack
- - [https://edwardslavsquat.substack.com](https://edwardslavsquat.substack.com)
- - date published: 2024-01-09T01:39:52.342623+00:00
- - user: None
- - tags: []
-
-## Continuing Ed  — with Edward Snowden | Substack
- - [https://edwardsnowden.substack.com](https://edwardsnowden.substack.com)
- - date published: 2023-10-25T09:49:04.557546+00:00
- - user: None
- - tags: ['substack']
-
-## Wrong Side of History | Ed West | Substack
- - [https://edwest.substack.com](https://edwest.substack.com)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Effectiviology | Itamar Shatz | Substack
- - [https://effectiviology.substack.com](https://effectiviology.substack.com)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Power of Teamwork | Andrew Makhovskyi | Substack
- - [https://effyai.substack.com](https://effyai.substack.com)
- - date published: 2023-10-25T09:49:13.799085+00:00
- - user: None
- - tags: ['substack']
-
-## Some Glad Morning | Elizabeth Hummel | Substack
- - [https://ehummel.substack.com](https://ehummel.substack.com)
- - date published: 2024-01-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## eieio games | nolen | Substack
- - [https://eieio.substack.com](https://eieio.substack.com)
- - date published: 2024-03-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## eigenrobot,s Blog | Substack
- - [https://eigenrobot.substack.com](https://eigenrobot.substack.com)
- - date published: 2024-01-09T01:39:54.987097+00:00
- - user: None
- - tags: []
-
-## Wednesday's Ghost | Elaine Kasket | Substack
- - [https://elainekasket.substack.com](https://elainekasket.substack.com)
- - date published: 2024-05-02T10:12:14.195297+00:00
- - user: None
- - tags: []
-
-## Elena's Growth Scoop | Elena Verna | Substack
- - [https://elenaverna.substack.com](https://elenaverna.substack.com)
- - date published: 2024-02-12T00:00:00+00:00
  - user: None
  - tags: []
 

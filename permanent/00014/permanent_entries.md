@@ -1,3 +1,57 @@
+## Charm and Rigor :: Richard Morgan
+ - [http://charmandrigor.com](http://charmandrigor.com)
+ - date published: 2024-05-07T12:47:06.331015+00:00
+ - user: None
+ - tags: []
+
+## Charmer Studio - design studio
+ - [https://charmerstudio.com](https://charmerstudio.com)
+ - date published: 2024-05-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Charm | Carbon removal technology
+ - [https://charmindustrial.com](https://charmindustrial.com)
+ - date published: 2024-05-01T05:44:37.122621+00:00
+ - user: None
+ - tags: []
+
+## Home - Charming Science
+ - [https://charmingscience.com](https://charmingscience.com)
+ - date published: 2023-10-25T13:20:36.046950+00:00
+ - user: None
+ - tags: []
+
+## Support Hub
+ - [http://support.chartbeat.com](http://support.chartbeat.com)
+ - date published: 2024-04-29T02:57:59.157535+00:00
+ - user: None
+ - tags: []
+
+## Charter Flight Quotes & Empty-Leg Trips | CharterHub.com
+ - [https://www.charterhub.com](https://www.charterhub.com)
+ - date published: 2024-05-08T06:31:11.181595+00:00
+ - user: None
+ - tags: []
+
+## Charter
+ - [https://www.charterworks.com](https://www.charterworks.com)
+ - date published: 2024-05-06T18:26:14.179218+00:00
+ - user: None
+ - tags: []
+
+## Online Chart and Graph Maker
+ - [https://www.chartle.com](https://www.chartle.com)
+ - date published: 2024-05-09T09:13:03.626249+00:00
+ - user: None
+ - tags: []
+
+## Banking, Loans, Mortgages, Community | Chartway Credit Union
+ - [https://www.chartway.com](https://www.chartway.com)
+ - date published: 2024-05-09T07:27:05.673632+00:00
+ - user: None
+ - tags: []
+
 ## Chase Checking Accounts: Compare & Apply Today | Chase
  - [https://account.chase.com](https://account.chase.com)
  - date published: 2024-05-08T04:51:08.506130+00:00
@@ -5943,58 +5997,4 @@
  - date published: 2024-05-13T03:46:26.250603+00:00
  - user: None
  - tags: ['command & conquer']
-
-## CNET: Product reviews, advice, how-tos and the latest news
- - [https://cnet.com](https://cnet.com)
- - date published: 2024-05-15T03:00:11.793961+00:00
- - user: None
- - tags: ['tech news']
-
-## CNET ≫ All The Best Coupons & Promo Codes In One Place
- - [https://coupons.cnet.com](https://coupons.cnet.com)
- - date published: 2024-05-07T18:49:35.127071+00:00
- - user: None
- - tags: []
-
-## Free Software Downloads and Reviews for Windows, Android, Mac, and iOS - CNET Download
- - [https://download.cnet.com](https://download.cnet.com)
- - date published: 2024-05-08T05:44:46.367743+00:00
- - user: None
- - tags: []
-
-## CNET Japan
- - [https://japan.cnet.com](https://japan.cnet.com)
- - date published: 2024-05-08T05:44:36.994276+00:00
- - user: None
- - tags: []
-
-## CNET: Product reviews, advice, how-tos and the latest news
- - [https://www.cnet.com](https://www.cnet.com)
- - date published: 2023-10-25T10:25:30.101732+00:00
- - user: None
- - tags: []
-
-## CnEVPost - China EV news, data, insights and more
- - [https://cdn.cnevpost.com](https://cdn.cnevpost.com)
- - date published: 2024-05-08T05:44:52.086817+00:00
- - user: None
- - tags: []
-
-## CnEVPost - China EV news, data, insights and more
- - [https://cnevpost.com](https://cnevpost.com)
- - date published: 2023-10-25T10:55:02.595046+00:00
- - user: None
- - tags: []
-
-## CnEVPost Newsletter | Substack
- - [https://newsletter.cnevpost.com](https://newsletter.cnevpost.com)
- - date published: 2024-05-08T05:45:04.570203+00:00
- - user: None
- - tags: []
-
-## CNG-Ancient Greek, Roman, British Coins
- - [https://www.cngcoins.com](https://www.cngcoins.com)
- - date published: 2024-05-07T14:42:21.689799+00:00
- - user: None
- - tags: []
 

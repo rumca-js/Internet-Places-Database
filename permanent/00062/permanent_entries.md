@@ -1,3 +1,297 @@
+## SP-Minimal
+ - [http://caps.cs.brown.edu](http://caps.cs.brown.edu)
+ - date published: 2024-04-30T03:28:22.394868+00:00
+ - user: None
+ - tags: []
+
+## Brown University Department of Computer Science
+ - [https://cs.brown.edu](https://cs.brown.edu)
+ - date published: 2024-01-09T02:58:24.829394+00:00
+ - user: None
+ - tags: ['university']
+
+## Directory | Brown University
+ - [https://directory.brown.edu](https://directory.brown.edu)
+ - date published: 2024-04-30T03:28:51.807238+00:00
+ - user: None
+ - tags: []
+
+## Public Safety | Brown University
+ - [https://dps.brown.edu](https://dps.brown.edu)
+ - date published: 2024-04-30T03:28:38.383047+00:00
+ - user: None
+ - tags: []
+
+## Engineering | Brown University
+ - [https://engineering.brown.edu](https://engineering.brown.edu)
+ - date published: 2024-05-09T05:07:42.804191+00:00
+ - user: None
+ - tags: []
+
+## https://esl.cs.brown.edu
+ - [https://esl.cs.brown.edu](https://esl.cs.brown.edu)
+ - date published: 2023-10-25T18:48:26.205486+00:00
+ - user: None
+ - tags: []
+
+## Events | Brown University
+ - [https://events.brown.edu](https://events.brown.edu)
+ - date published: 2024-04-30T03:28:53.525598+00:00
+ - user: None
+ - tags: []
+
+## Graduate Programs | Brown University
+ - [https://graduateprograms.brown.edu](https://graduateprograms.brown.edu)
+ - date published: 2024-05-09T05:07:34.895220+00:00
+ - user: None
+ - tags: []
+
+## Graduate School | Brown University
+ - [https://graduateschool.brown.edu](https://graduateschool.brown.edu)
+ - date published: 2024-05-09T05:07:51.086171+00:00
+ - user: None
+ - tags: []
+
+## Healthy Brown | Brown University
+ - [https://healthy.brown.edu](https://healthy.brown.edu)
+ - date published: 2024-05-09T05:07:52.565203+00:00
+ - user: None
+ - tags: []
+
+## Watson Institute for International and Public Affairs
+ - [https://home.watson.brown.edu](https://home.watson.brown.edu)
+ - date published: 2024-04-30T03:28:43.567311+00:00
+ - user: None
+ - tags: []
+
+## ICERM - Home
+ - [https://icerm.brown.edu](https://icerm.brown.edu)
+ - date published: 2024-05-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Programming and Programming Languages
+ - [https://papl.cs.brown.edu](https://papl.cs.brown.edu)
+ - date published: 2024-05-08T11:44:40.798831+00:00
+ - user: None
+ - tags: []
+
+## School of Professional Studies | Brown University
+ - [https://professional.brown.edu](https://professional.brown.edu)
+ - date published: 2024-05-09T05:07:39.351367+00:00
+ - user: None
+ - tags: []
+
+## SRC@Brown
+ - [https://responsible.cs.brown.edu](https://responsible.cs.brown.edu)
+ - date published: 2024-05-19T02:48:32.880903+00:00
+ - user: None
+ - tags: []
+
+## Experiment Introduction - The Rust Programming Language
+ - [https://rust-book.cs.brown.edu](https://rust-book.cs.brown.edu)
+ - date published: 2024-05-12T06:12:13.067433+00:00
+ - user: None
+ - tags: []
+
+## School of Public Health | Brown University
+ - [https://sph.brown.edu](https://sph.brown.edu)
+ - date published: 2024-05-09T05:07:49.216363+00:00
+ - user: None
+ - tags: []
+
+## Redirect
+ - [http://students.brown.edu](http://students.brown.edu)
+ - date published: 2024-04-28T05:44:21.900880+00:00
+ - user: None
+ - tags: []
+
+## Researchers @ Brown
+ - [https://vivo.brown.edu](https://vivo.brown.edu)
+ - date published: 2024-05-09T05:07:46.549966+00:00
+ - user: None
+ - tags: []
+
+## Watson Institute for International and Public Affairs
+ - [https://watson.brown.edu](https://watson.brown.edu)
+ - date published: 2023-10-25T18:48:34.751888+00:00
+ - user: None
+ - tags: []
+
+## Brown University
+ - [https://www.brown.edu](https://www.brown.edu)
+ - date published: 2024-03-04T19:22:06.445096+00:00
+ - user: None
+ - tags: []
+
+## Brown University Department of Computer Science
+ - [https://www.cs.brown.edu](https://www.cs.brown.edu)
+ - date published: 2024-05-04T15:27:52.188537+00:00
+ - user: None
+ - tags: []
+
+## Applied Mathematics
+ - [http://www.dam.brown.edu](http://www.dam.brown.edu)
+ - date published: 2024-05-07T15:42:36.077613+00:00
+ - user: None
+ - tags: []
+
+## AGNI Online
+ - [https://agnionline.bu.edu](https://agnionline.bu.edu)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Prof. Saenko's Research Group
+ - [https://ai.bu.edu](https://ai.bu.edu)
+ - date published: 2024-05-10T05:02:51.286486+00:00
+ - user: None
+ - tags: []
+
+## Directory | CS-People by full name
+ - [https://cs-people.bu.edu](https://cs-people.bu.edu)
+ - date published: 2024-02-09T22:55:36.194098+00:00
+ - user: None
+ - tags: []
+
+## Scholarly Commons at Boston University School of Law
+ - [https://scholarship.law.bu.edu](https://scholarship.law.bu.edu)
+ - date published: 2024-03-01T13:45:33.791375+00:00
+ - user: None
+ - tags: []
+
+## Search
+ - [https://search.bu.edu](https://search.bu.edu)
+ - date published: 2024-04-30T03:29:04.691261+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Boston University
+ - [https://www.bu.edu](https://www.bu.edu)
+ - date published: 2023-10-25T18:48:37.312705+00:00
+ - user: None
+ - tags: []
+
+## Boston University Medical Campus
+ - [https://www.bumc.bu.edu](https://www.bumc.bu.edu)
+ - date published: 2023-12-03T14:38:34.468583+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Bucknell University | Bucknell University
+ - [https://www.bucknell.edu](https://www.bucknell.edu)
+ - date published: 2024-05-01T08:03:53.902919+00:00
+ - user: None
+ - tags: []
+
+## Undergraduate Admissions at the University at Buffalo, The State University of New York
+ - [https://admissions.buffalo.edu](https://admissions.buffalo.edu)
+ - date published: 2024-04-30T03:31:11.350917+00:00
+ - user: None
+ - tags: []
+
+## UB - School of Architecture and Planning
+ - [http://archplan.buffalo.edu](http://archplan.buffalo.edu)
+ - date published: 2024-04-30T03:31:02.897286+00:00
+ - user: None
+ - tags: []
+
+## College of Arts and Sciences
+ - [https://arts-sciences.buffalo.edu](https://arts-sciences.buffalo.edu)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## University at Buffalo
+ - [https://buffalo.edu](https://buffalo.edu)
+ - date published: 2024-03-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## UB Events Calendar
+ - [https://calendar.buffalo.edu](https://calendar.buffalo.edu)
+ - date published: 2024-04-30T03:29:57.153947+00:00
+ - user: None
+ - tags: []
+
+## University at Buffalo - Acalog ACMS™
+ - [https://catalog.buffalo.edu](https://catalog.buffalo.edu)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## University at Buffalo - Acalog ACMS™
+ - [https://catalogs.buffalo.edu](https://catalogs.buffalo.edu)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science and Engineering
+ - [https://cse.buffalo.edu](https://cse.buffalo.edu)
+ - date published: 2024-02-10T17:55:00.406166+00:00
+ - user: None
+ - tags: []
+
+## Center for Unified Biometrics and Sensors
+ - [https://cubs.buffalo.edu](https://cubs.buffalo.edu)
+ - date published: 2024-04-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## School of Dental Medicine
+ - [http://dental.buffalo.edu](http://dental.buffalo.edu)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Graduate School of Education at the University at Buffalo
+ - [http://ed.buffalo.edu](http://ed.buffalo.edu)
+ - date published: 2024-04-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## School of Engineering and Applied Sciences
+ - [https://engineering.buffalo.edu](https://engineering.buffalo.edu)
+ - date published: 2024-04-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Graduate School
+ - [https://grad.buffalo.edu](https://grad.buffalo.edu)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## University at Buffalo Libraries
+ - [https://library.buffalo.edu](https://library.buffalo.edu)
+ - date published: 2024-04-30T03:31:32.594127+00:00
+ - user: None
+ - tags: []
+
+## School of Management
+ - [https://management.buffalo.edu](https://management.buffalo.edu)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Human Factors and Ergonomics Society Student Chapter – The University at Buffalo, State University of New York
+ - [https://markelz.physics.buffalo.edu](https://markelz.physics.buffalo.edu)
+ - date published: 2024-01-09T02:58:27.946041+00:00
+ - user: None
+ - tags: []
+
+## Jacobs School of Medicine and Biomedical Sciences
+ - [http://medicine.buffalo.edu](http://medicine.buffalo.edu)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## School of Nursing
+ - [http://nursing.buffalo.edu](http://nursing.buffalo.edu)
+ - date published: 2024-03-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## UB School of Pharmacy and Pharmaceutical Sciences
  - [http://pharmacy.buffalo.edu](http://pharmacy.buffalo.edu)
  - date published: 2024-01-26T00:00:00+00:00
@@ -4590,7 +4884,7 @@
  - [https://ideaa.georgetown.edu](https://ideaa.georgetown.edu)
  - date published: 2024-05-11T07:22:12.283502+00:00
  - user: None
- - tags: []
+ - tags: ['dei']
 
 ## ir@Georgetown - Home
  - [http://ir.cs.georgetown.edu](http://ir.cs.georgetown.edu)
@@ -5516,7 +5810,7 @@
  - [https://womenengineers.seas.gwu.edu](https://womenengineers.seas.gwu.edu)
  - date published: 2024-04-30T04:42:02.838801+00:00
  - user: None
- - tags: []
+ - tags: ['feminism']
 
 ## School of Engineering & Applied Science | The George Washington University
  - [https://www2.seas.gwu.edu](https://www2.seas.gwu.edu)
@@ -5713,300 +6007,6 @@
 ## Clinic Stories Archives - Harvard Law School
  - [https://clinics.law.harvard.edu](https://clinics.law.harvard.edu)
  - date published: 2024-04-30T04:46:00.536580+00:00
- - user: None
- - tags: []
-
-## Cognitive Neuropsychology Laboratory
- - [https://cogneuro.psychology.fas.harvard.edu](https://cogneuro.psychology.fas.harvard.edu)
- - date published: 2024-04-28T03:44:16.813661+00:00
- - user: None
- - tags: []
-
-## HarvardKey - Harvard University Authentication Service
- - [https://community.alumni.harvard.edu](https://community.alumni.harvard.edu)
- - date published: 2024-04-30T04:46:05.639263+00:00
- - user: None
- - tags: []
-
-## Success: HSPH Content
- - [https://content.sph.harvard.edu](https://content.sph.harvard.edu)
- - date published: 2024-04-30T04:47:26.327506+00:00
- - user: None
- - tags: []
-
-## The Harvard Law School Forum on Corporate Governance | The leading online blog in the fields of corporate governance and financial regulation.
- - [https://corpgov.law.harvard.edu](https://corpgov.law.harvard.edu)
- - date published: 2023-10-25T18:51:38.896224+00:00
- - user: None
- - tags: []
-
-## Harvard Computer Science :: Harvard CS Concentration
- - [https://csadvising.seas.harvard.edu](https://csadvising.seas.harvard.edu)
- - date published: 2024-04-30T04:47:06.184694+00:00
- - user: None
- - tags: []
-
-## Berkman Klein Center
- - [https://cyber.harvard.edu](https://cyber.harvard.edu)
- - date published: 2024-03-11T20:54:03.223117+00:00
- - user: None
- - tags: []
-
-## Berkman Klein Center
- - [http://cyber.law.harvard.edu](http://cyber.law.harvard.edu)
- - date published: 2024-04-29T02:42:10.432644+00:00
- - user: None
- - tags: []
-
-## Home | Digital Data Design Institute at Harvard
- - [https://d3.harvard.edu](https://d3.harvard.edu)
- - date published: 2023-10-25T18:51:42.107342+00:00
- - user: None
- - tags: []
-
-## Mapping Past Societies
- - [https://darmc.harvard.edu](https://darmc.harvard.edu)
- - date published: 2024-05-06T16:59:19.797543+00:00
- - user: None
- - tags: []
-
-## DASH Home
- - [https://dash.harvard.edu](https://dash.harvard.edu)
- - date published: 2024-05-12T04:28:16.700308+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://datascience.harvard.edu](https://datascience.harvard.edu)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Harvard Dataverse
- - [https://dataverse.harvard.edu](https://dataverse.harvard.edu)
- - date published: 2024-05-11T09:34:04.005381+00:00
- - user: None
- - tags: []
-
-## Executive and Continuing Professional Education
- - [https://ecpe.sph.harvard.edu](https://ecpe.sph.harvard.edu)
- - date published: 2024-04-30T04:47:28.591010+00:00
- - user: None
- - tags: []
-
-## Events Calendar - Harvard SEAS
- - [https://events.seas.harvard.edu](https://events.seas.harvard.edu)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Harvard School of Engineering and Applied Sciences Faculty Explorer
- - [https://facultyexplorer.seas.harvard.edu](https://facultyexplorer.seas.harvard.edu)
- - date published: 2024-04-30T04:47:13.495931+00:00
- - user: None
- - tags: []
-
-## Digital Giza | Home
- - [http://giza.fas.harvard.edu](http://giza.fas.harvard.edu)
- - date published: 2024-05-08T10:34:39.804939+00:00
- - user: None
- - tags: []
-
-## GARY KING
- - [https://gking.harvard.edu](https://gking.harvard.edu)
- - date published: 2024-03-26T16:12:46.229022+00:00
- - user: None
- - tags: ['personal']
-
-## Harvard University
- - [https://harvard.edu](https://harvard.edu)
- - date published: 2024-04-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Harvard Business Publishing Education
- - [https://hbsp.harvard.edu](https://hbsp.harvard.edu)
- - date published: 2023-10-25T18:51:44.051862+00:00
- - user: None
- - tags: []
-
-## Harvard Divinity School (HDS)
- - [https://hds.harvard.edu](https://hds.harvard.edu)
- - date published: 2024-05-07T22:15:06.697497+00:00
- - user: None
- - tags: []
-
-## HarvardKey - Harvard University Authentication Service
- - [https://helios.law.harvard.edu](https://helios.law.harvard.edu)
- - date published: 2024-04-30T04:45:54.999652+00:00
- - user: None
- - tags: []
-
-## Harvard International Review
- - [https://hir.harvard.edu](https://hir.harvard.edu)
- - date published: 2024-04-29T03:12:52.103949+00:00
- - user: None
- - tags: []
-
-## Home - Harvard Law School | Harvard Law School
- - [https://hls.harvard.edu](https://hls.harvard.edu)
- - date published: 2023-10-25T18:51:50.060436+00:00
- - user: None
- - tags: []
-
-## Harvard Museum of Natural History
- - [https://hmnh.harvard.edu](https://hmnh.harvard.edu)
- - date published: 2024-04-30T04:46:21.952583+00:00
- - user: None
- - tags: []
-
-## Home | Harvard Medical School
- - [https://hms.harvard.edu](https://hms.harvard.edu)
- - date published: 2023-10-25T18:51:52.607343+00:00
- - user: None
- - tags: []
-
-## Harvard University Information Technology
- - [https://huit.harvard.edu](https://huit.harvard.edu)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Applied Computation | Harvard John A. Paulson School of Engineering and Applied Sciences Masters programs in Data Science and Computational Science and Engineering
- - [http://iacs.seas.harvard.edu](http://iacs.seas.harvard.edu)
- - date published: 2024-04-30T04:47:12.442198+00:00
- - user: None
- - tags: []
-
-## Home - Harvard Law School
- - [http://law.harvard.edu](http://law.harvard.edu)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Center for Astrophysics
- - [https://lweb.cfa.harvard.edu](https://lweb.cfa.harvard.edu)
- - date published: 2023-10-25T18:51:56.891134+00:00
- - user: None
- - tags: []
-
-## Lyme Wellness Initiative Harvard Health Publishing
- - [https://lyme.health.harvard.edu](https://lyme.health.harvard.edu)
- - date published: 2024-04-30T04:47:17.652468+00:00
- - user: None
- - tags: []
-
-## HKS Misinformation Review
- - [https://misinforeview.hks.harvard.edu](https://misinforeview.hks.harvard.edu)
- - date published: 2024-03-13T10:53:23.464434+00:00
- - user: None
- - tags: []
-
-## my.harvard
- - [https://my.harvard.edu](https://my.harvard.edu)
- - date published: 2024-04-30T04:47:29.696404+00:00
- - user: None
- - tags: []
-
-## Na (Lina) Li 黎娜
- - [https://nali.seas.harvard.edu](https://nali.seas.harvard.edu)
- - date published: 2024-05-04T15:43:50.597405+00:00
- - user: None
- - tags: []
-
-## Harvard Gazette – Official news from Harvard University covering innovation in teaching, learning, and research
- - [https://news.harvard.edu](https://news.harvard.edu)
- - date published: 2023-10-25T11:22:32.692394+00:00
- - user: None
- - tags: []
-
-## Nieman Foundation for Journalism at Harvard
- - [https://nieman.harvard.edu](https://nieman.harvard.edu)
- - date published: 2024-05-08T10:50:13.873435+00:00
- - user: None
- - tags: []
-
-## Harvard NLP
- - [http://nlp.seas.harvard.edu](http://nlp.seas.harvard.edu)
- - date published: 2018-04-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Program on Corporate Governance
- - [https://pcg.law.harvard.edu](https://pcg.law.harvard.edu)
- - date published: 2024-04-30T04:43:55.632088+00:00
- - user: None
- - tags: []
-
-## Harvard Mathematics Department : Home page
- - [https://people.math.harvard.edu](https://people.math.harvard.edu)
- - date published: 2024-04-30T07:45:25.467102+00:00
- - user: None
- - tags: []
-
-## Home Page | Harvard John A. Paulson School of Engineering and Applied Sciences
- - [https://people.seas.harvard.edu](https://people.seas.harvard.edu)
- - date published: 2023-10-25T18:52:00.075501+00:00
- - user: None
- - tags: []
-
-## Department of Philosophy
- - [https://philosophy.fas.harvard.edu](https://philosophy.fas.harvard.edu)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Projects at Harvard
- - [https://projects.iq.harvard.edu](https://projects.iq.harvard.edu)
- - date published: 2024-05-12T03:55:01.349670+00:00
- - user: None
- - tags: []
-
-## Home | Center for Astrophysics | Harvard & Smithsonian
- - [https://pweb.cfa.harvard.edu](https://pweb.cfa.harvard.edu)
- - date published: 2024-04-30T04:46:10.416653+00:00
- - user: None
- - tags: []
-
-## rafalab
- - [http://rafalab.dfci.harvard.edu](http://rafalab.dfci.harvard.edu)
- - date published: 2024-03-02T19:34:07.935744+00:00
- - user: None
- - tags: []
-
-## Find A Researcher at Massachusetts General Hospital
- - [https://researchers.mgh.harvard.edu](https://researchers.mgh.harvard.edu)
- - date published: 2024-05-08T10:03:09.286878+00:00
- - user: None
- - tags: []
-
-## Home | Scholars at Harvard
- - [https://scholar.harvard.edu](https://scholar.harvard.edu)
- - date published: 2023-10-25T18:52:02.303424+00:00
- - user: None
- - tags: []
-
-## Home Page | Harvard John A. Paulson School of Engineering and Applied Sciences
- - [https://seas.harvard.edu](https://seas.harvard.edu)
- - date published: 2023-10-25T18:52:04.448986+00:00
- - user: None
- - tags: []
-
-## Science in the News
- - [https://sitn.hms.harvard.edu](https://sitn.hms.harvard.edu)
- - date published: 2024-05-06T17:25:46.781359+00:00
- - user: None
- - tags: []
-
-## Home | Society of Fellows
- - [https://socfell.fas.harvard.edu](https://socfell.fas.harvard.edu)
- - date published: 2024-07-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Harvard Trademark Program
- - [https://trademark.harvard.edu](https://trademark.harvard.edu)
- - date published: 2024-04-30T04:46:02.480776+00:00
  - user: None
  - tags: []
 

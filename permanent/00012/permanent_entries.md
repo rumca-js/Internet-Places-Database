@@ -1,3 +1,57 @@
+## Bloomberg Industry Group News
+ - [https://news.bloombergtax.com](https://news.bloombergtax.com)
+ - date published: 2023-10-25T14:22:08.604831+00:00
+ - user: None
+ - tags: []
+
+## Top Tax Software Solutions | Bloomberg Tax
+ - [https://pro.bloombergtax.com](https://pro.bloombergtax.com)
+ - date published: 2024-03-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## bloomberry
+ - [https://bloomberry.com](https://bloomberry.com)
+ - date published: 2024-01-16T03:15:41.608781+00:00
+ - user: None
+ - tags: []
+
+## The Bloom Collective – A Collective of reproductive health and wellness practitioners
+ - [https://bloominbaltimore.com](https://bloominbaltimore.com)
+ - date published: 2024-05-04T14:05:05.440464+00:00
+ - user: None
+ - tags: []
+
+## Bloomin' Faeries!
+ - [https://www.bloomingfaeries.com](https://www.bloomingfaeries.com)
+ - date published: 2024-05-13T03:15:43.630646+00:00
+ - user: None
+ - tags: []
+
+## Ecommerce Personalization Powered by AI | Bloomreach
+ - [https://www.bloomreach.com](https://www.bloomreach.com)
+ - date published: 2024-04-30T05:47:29.179707+00:00
+ - user: None
+ - tags: []
+
+## Bloomsbury Publishing (UK)
+ - [https://www.bloomsbury.com](https://www.bloomsbury.com)
+ - date published: 2024-04-30T05:49:42.725477+00:00
+ - user: None
+ - tags: []
+
+## Bloomsbury Collections - Home
+ - [http://www.bloomsburycollections.com](http://www.bloomsburycollections.com)
+ - date published: 2024-05-06T20:00:02.329204+00:00
+ - user: None
+ - tags: []
+
+## Bloomsbury Literary Studies Blog
+ - [https://bloomsburyliterarystudiesblog.com](https://bloomsburyliterarystudiesblog.com)
+ - date published: 2024-05-15T03:00:15.075451+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [http://www.bloomsburyproperty.com](http://www.bloomsburyproperty.com)
  - date published: 2024-05-02T11:13:23.145826+00:00
@@ -5952,60 +6006,6 @@
 ## Bullish | Trade Bitcoin, Ethereum & other digital assets on a global, regulated crypto exchange
  - [https://bullish.com](https://bullish.com)
  - date published: 2024-05-12T04:08:02.806122+00:00
- - user: None
- - tags: []
-
-## Home | The Bulwer-Lytton Fiction Contest
- - [https://www.bulwer-lytton.com](https://www.bulwer-lytton.com)
- - date published: 2023-10-25T13:14:49.791577+00:00
- - user: None
- - tags: []
-
-## Bumble | Lepsze randki i czaty; nowi ludzie i nowe relacje
- - [https://bumble.com](https://bumble.com)
- - date published: 2023-10-25T13:14:58.543760+00:00
- - user: None
- - tags: []
-
-## Attention Required! | Cloudflare
- - [https://ir.bumble.com](https://ir.bumble.com)
- - date published: 2024-05-08T03:51:32.025487+00:00
- - user: None
- - tags: []
-
-## Careers at Bumble | Bumble
- - [https://team.bumble.com](https://team.bumble.com)
- - date published: 2024-05-08T03:51:43.711146+00:00
- - user: None
- - tags: []
-
-## Bumble - The Buzz
- - [https://bumble-buzz.com](https://bumble-buzz.com)
- - date published: 2024-05-08T03:51:34.974626+00:00
- - user: None
- - tags: []
-
-## BumbleMeow, LLC
- - [https://www.bumblemeow.com](https://www.bumblemeow.com)
- - date published: 2024-05-21T02:43:12.999944+00:00
- - user: None
- - tags: []
-
-## Bumperactive Online Store
- - [https://store.bumperactive.com](https://store.bumperactive.com)
- - date published: 2024-05-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## BumpySkies
- - [http://bumpyskies.com](http://bumpyskies.com)
- - date published: 2024-05-10T05:58:27.206074+00:00
- - user: None
- - tags: []
-
-## Bundlephobia | Size of npm dependencies
- - [https://bundlephobia.com](https://bundlephobia.com)
- - date published: 2024-05-06T13:42:13.455962+00:00
  - user: None
  - tags: []
 

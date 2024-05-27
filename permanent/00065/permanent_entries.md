@@ -1,3 +1,309 @@
+## Events Calendar
+ - [https://events.ucr.edu](https://events.ucr.edu)
+ - date published: 2024-05-07T20:57:21.046479+00:00
+ - user: None
+ - tags: []
+
+## The Office of Financial Aid
+ - [https://financialaid.ucr.edu](https://financialaid.ucr.edu)
+ - date published: 2024-05-07T20:57:15.365680+00:00
+ - user: None
+ - tags: []
+
+## Connect with the Office of Foster Youth Support Services
+ - [https://fosteryouth.ucr.edu](https://fosteryouth.ucr.edu)
+ - date published: 2024-05-07T20:57:06.418302+00:00
+ - user: None
+ - tags: []
+
+## Highlander Empowerment Student Services Referendum
+ - [https://hessr.ucr.edu](https://hessr.ucr.edu)
+ - date published: 2024-05-07T20:56:59.409038+00:00
+ - user: None
+ - tags: []
+
+## Inclusion at UCR
+ - [https://inclusion.ucr.edu](https://inclusion.ucr.edu)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Inside UCR | UC Riverside
+ - [https://insideucr.ucr.edu](https://insideucr.ucr.edu)
+ - date published: 2024-05-07T20:57:44.934793+00:00
+ - user: None
+ - tags: []
+
+## Jobs
+ - [https://jobs.ucr.edu](https://jobs.ucr.edu)
+ - date published: 2024-05-07T20:57:26.431360+00:00
+ - user: None
+ - tags: []
+
+## Library
+ - [https://library.ucr.edu](https://library.ucr.edu)
+ - date published: 2024-05-07T20:57:31.232994+00:00
+ - user: None
+ - tags: []
+
+## UCR Magazine
+ - [https://magazine.ucr.edu](https://magazine.ucr.edu)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Department of Mathematics
+ - [http://mathdept.ucr.edu](http://mathdept.ucr.edu)
+ - date published: 2024-05-07T20:57:41.720908+00:00
+ - user: None
+ - tags: []
+
+## https://math.ucr.edu
+ - [https://math.ucr.edu](https://math.ucr.edu)
+ - date published: 2024-01-09T03:28:05.221200+00:00
+ - user: None
+ - tags: []
+
+## Connect with UCR's MESC!
+ - [https://mesc.ucr.edu](https://mesc.ucr.edu)
+ - date published: 2024-05-07T20:57:35.616451+00:00
+ - user: None
+ - tags: []
+
+## Giving
+ - [https://myadv.ucr.edu](https://myadv.ucr.edu)
+ - date published: 2024-05-07T20:57:39.804859+00:00
+ - user: None
+ - tags: []
+
+## Native American Student Programs
+ - [https://nasp.ucr.edu](https://nasp.ucr.edu)
+ - date published: 2024-05-07T20:57:07.491047+00:00
+ - user: None
+ - tags: []
+
+## | News
+ - [https://news.ucr.edu](https://news.ucr.edu)
+ - date published: 2023-10-25T19:00:55.178548+00:00
+ - user: None
+ - tags: []
+
+## Connect with UCR's LGBT Resource Center!
+ - [https://out.ucr.edu](https://out.ucr.edu)
+ - date published: 2024-05-07T20:56:53.721165+00:00
+ - user: None
+ - tags: []
+
+## Student Affairs
+ - [https://studentaffairs.ucr.edu](https://studentaffairs.ucr.edu)
+ - date published: 2024-05-07T20:57:32.478438+00:00
+ - user: None
+ - tags: []
+
+## Get High-Quality Medical Care from Student Health Services
+ - [https://studenthealth.ucr.edu](https://studenthealth.ucr.edu)
+ - date published: 2024-05-07T20:57:03.745633+00:00
+ - user: None
+ - tags: []
+
+## Health, Well-being & Safety
+ - [https://studentwellness.ucr.edu](https://studentwellness.ucr.edu)
+ - date published: 2024-05-07T20:57:28.220544+00:00
+ - user: None
+ - tags: []
+
+## Tobacco Free
+ - [http://tobaccofree.ucr.edu](http://tobaccofree.ucr.edu)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## University of California, Riverside
+ - [https://ucr.edu](https://ucr.edu)
+ - date published: 2024-05-07T20:57:23.081434+00:00
+ - user: None
+ - tags: []
+
+## Undocumented Student Programs
+ - [https://usp.ucr.edu](https://usp.ucr.edu)
+ - date published: 2024-05-07T20:57:12.406484+00:00
+ - user: None
+ - tags: []
+
+## Art of Assembly Language Programming and HLA by Randall Hyde
+ - [http://webster.cs.ucr.edu](http://webster.cs.ucr.edu)
+ - date published: 2024-04-25T18:39:22.189939+00:00
+ - user: None
+ - tags: []
+
+## The Well
+ - [https://well.ucr.edu](https://well.ucr.edu)
+ - date published: 2024-05-07T20:57:16.479338+00:00
+ - user: None
+ - tags: []
+
+## Discover UCR's WRC!
+ - [https://wrc.ucr.edu](https://wrc.ucr.edu)
+ - date published: 2024-05-07T20:57:05.013766+00:00
+ - user: None
+ - tags: []
+
+## University of California, Riverside
+ - [https://www.ucr.edu](https://www.ucr.edu)
+ - date published: 2024-05-07T20:56:55.248686+00:00
+ - user: None
+ - tags: []
+
+## The Agrippa Files
+ - [https://agrippa.english.ucsb.edu](https://agrippa.english.ucsb.edu)
+ - date published: 2024-01-09T03:28:12.292436+00:00
+ - user: None
+ - tags: []
+
+## UCSB College of Creative Studies
+ - [https://ccs.ucsb.edu](https://ccs.ucsb.edu)
+ - date published: 2024-04-29T03:32:44.065533+00:00
+ - user: None
+ - tags: []
+
+## Giving to the University of California, Santa Barbara
+ - [https://giving.ucsb.edu](https://giving.ucsb.edu)
+ - date published: 2024-05-07T20:58:47.966068+00:00
+ - user: None
+ - tags: []
+
+## Home | Ludkovski
+ - [https://ludkovski.pstat.ucsb.edu](https://ludkovski.pstat.ucsb.edu)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Fall/Winter 2023 Home
+ - [https://magazine.ucsb.edu](https://magazine.ucsb.edu)
+ - date published: 2024-05-07T20:58:41.991720+00:00
+ - user: None
+ - tags: []
+
+## UC Santa Barbara News & Events | The Current
+ - [https://news.ucsb.edu](https://news.ucsb.edu)
+ - date published: 2023-10-25T19:00:57.283089+00:00
+ - user: None
+ - tags: []
+
+## Transcriptions {UCSB English Department Center for Digital Humanities & New Media Studies}
+ - [http://transcriptions.english.ucsb.edu](http://transcriptions.english.ucsb.edu)
+ - date published: 2024-04-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar
+ - [https://www.campuscalendar.ucsb.edu](https://www.campuscalendar.ucsb.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Center for Financial Mathematics and Actuarial Research - UC Santa Barbara
+ - [http://www.cfmar.pstat.ucsb.edu](http://www.cfmar.pstat.ucsb.edu)
+ - date published: 2024-05-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | College of Letters & Science
+ - [http://www.college.ucsb.edu](http://www.college.ucsb.edu)
+ - date published: 2024-05-07T20:58:45.475138+00:00
+ - user: None
+ - tags: []
+
+## Home | Institutional Advancement
+ - [https://www.dia.ucsb.edu](https://www.dia.ucsb.edu)
+ - date published: 2024-05-07T20:58:40.757409+00:00
+ - user: None
+ - tags: []
+
+## UCSB English Department
+ - [http://www.english.ucsb.edu](http://www.english.ucsb.edu)
+ - date published: 2024-05-07T20:58:11.492113+00:00
+ - user: None
+ - tags: []
+
+## McNair Scholars Program - UC Santa Barbara
+ - [https://www.mcnair.ucsb.edu](https://www.mcnair.ucsb.edu)
+ - date published: 2024-02-08T22:06:39.602435+00:00
+ - user: None
+ - tags: []
+
+## UC Santa Barbara News & Events | The Current
+ - [https://www.news.ucsb.edu](https://www.news.ucsb.edu)
+ - date published: 2023-10-25T19:00:59.328877+00:00
+ - user: None
+ - tags: []
+
+## Home | UC Santa Barbara | Policies & Procedures
+ - [http://www.policy.ucsb.edu](http://www.policy.ucsb.edu)
+ - date published: 2024-05-07T20:58:49.552323+00:00
+ - user: None
+ - tags: []
+
+## Welcome to The American Presidency Project | The American Presidency Project
+ - [https://www.presidency.ucsb.edu](https://www.presidency.ucsb.edu)
+ - date published: 2024-05-04T05:25:28.570604+00:00
+ - user: None
+ - tags: []
+
+## Home | UC Santa Barbara | Privacy
+ - [https://www.privacy.ucsb.edu](https://www.privacy.ucsb.edu)
+ - date published: 2024-05-07T20:58:43.684216+00:00
+ - user: None
+ - tags: []
+
+## Department of Statistics and Applied Probability - UC Santa Barbara
+ - [https://www.pstat.ucsb.edu](https://www.pstat.ucsb.edu)
+ - date published: 2024-05-07T20:58:20.273983+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.ucsb.edu](https://www.ucsb.edu)
+ - date published: 2024-04-30T15:47:47.439884+00:00
+ - user: None
+ - tags: []
+
+## UCSC Academic Affairs
+ - [https://academicaffairs.ucsc.edu](https://academicaffairs.ucsc.edu)
+ - date published: 2024-05-07T20:59:53.699414+00:00
+ - user: None
+ - tags: []
+
+## ALT Games Lab – Alternative Learning Technologies and Games Lab
+ - [https://altgameslab.soe.ucsc.edu](https://altgameslab.soe.ucsc.edu)
+ - date published: 2024-05-04T15:17:38.418725+00:00
+ - user: None
+ - tags: []
+
+## The Ramirez Lab – This site describes the people, facilities, and research being pursued in Art Ramirez's lab
+ - [https://aprlab.sites.ucsc.edu](https://aprlab.sites.ucsc.edu)
+ - date published: 2024-05-07T15:14:35.485550+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar - Events at UC Santa Cruz
+ - [https://calendar.ucsc.edu](https://calendar.ucsc.edu)
+ - date published: 2024-09-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Digital Karnak – University of California Santa Cruz
+ - [https://digitalkarnak.ucsc.edu](https://digitalkarnak.ucsc.edu)
+ - date published: 2024-05-09T06:06:44.060160+00:00
+ - user: None
+ - tags: []
+
+## Home Page | EIS
+ - [https://eis.ucsc.edu](https://eis.ucsc.edu)
+ - date published: 2024-05-04T15:17:34.362396+00:00
+ - user: None
+ - tags: []
+
 ## UC Santa Cruz - Earth & Planetary Sciences
  - [http://eps.ucsc.edu](http://eps.ucsc.edu)
  - date published: 2024-05-07T20:59:32.734118+00:00
@@ -1837,6 +2143,12 @@
 ## Home Page
  - [https://police.umbc.edu](https://police.umbc.edu)
  - date published: 2024-05-07T21:25:35.711980+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science and Electrical Engineering
+ - [https://redirect.cs.umbc.edu](https://redirect.cs.umbc.edu)
+ - date published: 2024-05-26T18:42:18.246666+00:00
  - user: None
  - tags: []
 
@@ -5688,318 +6000,6 @@
 ## UT Graduate ECE (GREECE)
  - [https://greece.ece.utexas.edu](https://greece.ece.utexas.edu)
  - date published: 2024-05-04T15:41:18.716822+00:00
- - user: None
- - tags: []
-
-## Home - The IC² Institute - Innovating Well-Being
- - [https://ic2.utexas.edu](https://ic2.utexas.edu)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## LBJ School | The University of Texas at Austin | LBJ School of Public Affairs
- - [https://lbj.utexas.edu](https://lbj.utexas.edu)
- - date published: 2023-11-19T15:39:17.659158+00:00
- - user: None
- - tags: []
-
-## LBJ Women's Campaign School | LBJ Women's Campaign School
- - [https://lbjwcs.lbj.utexas.edu](https://lbjwcs.lbj.utexas.edu)
- - date published: 2024-05-07T22:13:24.990562+00:00
- - user: None
- - tags: []
-
-## College of Liberal Arts | The University of Texas at Austin
- - [https://liberalarts.utexas.edu](https://liberalarts.utexas.edu)
- - date published: 2024-05-06T14:49:07.264286+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science
- - [https://login.cs.utexas.edu](https://login.cs.utexas.edu)
- - date published: 2024-04-29T02:33:59.825964+00:00
- - user: None
- - tags: []
-
-## The Linguistics Research Center
- - [https://lrc.la.utexas.edu](https://lrc.la.utexas.edu)
- - date published: 2024-05-02T09:39:40.418961+00:00
- - user: None
- - tags: []
-
-## Texas Engineer Magazine - Texas Engineer
- - [https://magazine.engr.utexas.edu](https://magazine.engr.utexas.edu)
- - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Machine Learning Laboratory
- - [https://ml.utexas.edu](https://ml.utexas.edu)
- - date published: 2024-05-07T22:13:51.354136+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [http://moody.utexas.edu](http://moody.utexas.edu)
- - date published: 2024-05-08T09:31:24.233872+00:00
- - user: None
- - tags: []
-
-## Home - UT News
- - [https://news.utexas.edu](https://news.utexas.edu)
- - date published: 2023-10-25T19:05:16.450263+00:00
- - user: None
- - tags: []
-
-## Home Page | School of Nursing
- - [https://nursing.utexas.edu](https://nursing.utexas.edu)
- - date published: 2024-05-04T10:01:49.227896+00:00
- - user: None
- - tags: []
-
-## Oden Institute for Computational Engineering and Sciences
- - [https://oden.utexas.edu](https://oden.utexas.edu)
- - date published: 2024-05-07T22:13:41.660037+00:00
- - user: None
- - tags: []
-
-## Petroleum & Geosystems Engineering Department
- - [http://pge.utexas.edu](http://pge.utexas.edu)
- - date published: 2024-05-07T22:13:21.755355+00:00
- - user: None
- - tags: []
-
-## Home | Robotics
- - [https://robotics.utexas.edu](https://robotics.utexas.edu)
- - date published: 2024-05-07T22:13:53.033511+00:00
- - user: None
- - tags: []
-
-## UT Austin Robot Perception and Learning Lab
- - [https://rpl.cs.utexas.edu](https://rpl.cs.utexas.edu)
- - date published: 2024-05-08T12:34:00.524973+00:00
- - user: None
- - tags: []
-
-## University Blog Service
- - [https://sites.utexas.edu](https://sites.utexas.edu)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## The University of Texas at Austin School of Architecture
- - [http://soa.utexas.edu](http://soa.utexas.edu)
- - date published: 2024-03-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Spark Research Lab @ The University of Texas at Austin
- - [http://spark.ece.utexas.edu](http://spark.ece.utexas.edu)
- - date published: 2024-05-04T15:41:20.429738+00:00
- - user: None
- - tags: []
-
-## University Marketing and Communications
- - [https://ucomm.utexas.edu](https://ucomm.utexas.edu)
- - date published: 2024-05-07T22:13:39.986998+00:00
- - user: None
- - tags: []
-
-## https://users.ece.utexas.edu
- - [https://users.ece.utexas.edu](https://users.ece.utexas.edu)
- - date published: 2024-01-09T03:28:47.911805+00:00
- - user: None
- - tags: []
-
-## Sign in with your UT EID - Loading Session Information
- - [https://utdirect.utexas.edu](https://utdirect.utexas.edu)
- - date published: 2024-05-07T22:13:56.711342+00:00
- - user: None
- - tags: []
-
-## Home - University of Texas Press
- - [https://utpress.utexas.edu](https://utpress.utexas.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Department of Mathematics, University of Texas at Austin
- - [https://web.ma.utexas.edu](https://web.ma.utexas.edu)
- - date published: 2024-05-12T05:31:58.537337+00:00
- - user: None
- - tags: []
-
-## Dept of Aerospace Engineering & Engineering Mechanics - Cockrell School of Engineering, The University of Texas at Austin
- - [http://www.ae.utexas.edu](http://www.ae.utexas.edu)
- - date published: 2024-05-07T22:13:02.586542+00:00
- - user: None
- - tags: []
-
-## Department of Biomedical Engineering - Cockrell School of Engineering - The University of Texas, Austin - Department of Biomedical Engineering
- - [https://www.bme.utexas.edu](https://www.bme.utexas.edu)
- - date published: 2024-05-07T22:13:00.514420+00:00
- - user: None
- - tags: []
-
-## Home
- - [http://www.caee.utexas.edu](http://www.caee.utexas.edu)
- - date published: 2024-05-07T22:12:58.473331+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science
- - [https://www.cs.utexas.edu](https://www.cs.utexas.edu)
- - date published: 2023-10-25T19:05:23.554078+00:00
- - user: None
- - tags: []
-
-## Homepage | Texas ECE - Electrical & Computer Engineering at UT Austin
- - [http://www.ece.utexas.edu](http://www.ece.utexas.edu)
- - date published: 2024-06-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## UT Cockrell School of Engineering
- - [http://www.engr.utexas.edu](http://www.engr.utexas.edu)
- - date published: 2024-05-07T22:12:53.189975+00:00
- - user: None
- - tags: []
-
-## Department of Mathematics, University of Texas at Austin
- - [http://www.ma.utexas.edu](http://www.ma.utexas.edu)
- - date published: 2024-05-07T15:49:04.756890+00:00
- - user: None
- - tags: []
-
-## Home
- - [http://www.me.utexas.edu](http://www.me.utexas.edu)
- - date published: 2024-05-07T22:13:15.664061+00:00
- - user: None
- - tags: []
-
-## Texas Advanced Computing Center
- - [https://www.tacc.utexas.edu](https://www.tacc.utexas.edu)
- - date published: 2022-08-11T15:19:05.210781+00:00
- - user: None
- - tags: []
-
-## The University of Texas at Austin
- - [https://www.utexas.edu](https://www.utexas.edu)
- - date published: 2024-04-29T02:33:49.099791+00:00
- - user: None
- - tags: []
-
-## Home | UT Health San Antonio MD Anderson Cancer Center
- - [https://cancer.uthscsa.edu](https://cancer.uthscsa.edu)
- - date published: 2024-05-07T22:14:20.098503+00:00
- - user: None
- - tags: []
-
-## Events Calendar
- - [https://events.uthscsa.edu](https://events.uthscsa.edu)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Magazines of UT Health San Antonio - Magazines | UT Health San Antonio
- - [https://magazines.uthscsa.edu](https://magazines.uthscsa.edu)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Give to the UT Health San Antonio
- - [https://makelivesbetter.uthscsa.edu](https://makelivesbetter.uthscsa.edu)
- - date published: 2024-05-07T22:14:17.643244+00:00
- - user: None
- - tags: []
-
-## Home - UT Health San Antonio
- - [https://news.uthscsa.edu](https://news.uthscsa.edu)
- - date published: 2023-10-25T19:05:27.448402+00:00
- - user: None
- - tags: []
-
-## Home | UT Health San Antonio
- - [https://uthscsa.edu](https://uthscsa.edu)
- - date published: 2024-05-07T22:14:03.682930+00:00
- - user: None
- - tags: []
-
-## Home | UT Health San Antonio
- - [https://wp.uthscsa.edu](https://wp.uthscsa.edu)
- - date published: 2024-05-07T22:14:08.007690+00:00
- - user: None
- - tags: []
-
-## Home | UT Health San Antonio
- - [https://www.uthscsa.edu](https://www.uthscsa.edu)
- - date published: 2024-05-07T22:14:14.989486+00:00
- - user: None
- - tags: []
-
-## College of Arts and Sciences - College of Arts and Sciences
- - [http://artsci.utk.edu](http://artsci.utk.edu)
- - date published: 2024-02-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Events Calendar - University of Tennessee, Knoxville
- - [https://calendar.utk.edu](https://calendar.utk.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Directory | The University of Tennessee
- - [http://directory.utk.edu](http://directory.utk.edu)
- - date published: 2024-05-07T22:14:34.124921+00:00
- - user: None
- - tags: []
-
-## Test Page for the HTTP Server on Red Hat Enterprise Linux
- - [https://images.utk.edu](https://images.utk.edu)
- - date published: 2024-05-07T22:14:38.180185+00:00
- - user: None
- - tags: []
-
-## The Fern and Manfred Steinfeld Program in Judaic Studies | The University of Tennessee, Knoxville
- - [http://judaic.utk.edu](http://judaic.utk.edu)
- - date published: 2024-05-07T22:15:05.438828+00:00
- - user: None
- - tags: []
-
-## The University of Tennessee - Campus Map
- - [http://maps.utk.edu](http://maps.utk.edu)
- - date published: 2024-05-07T22:14:32.247885+00:00
- - user: None
- - tags: []
-
-## Home - Equal Opportunity and Accessibility
- - [https://oed.utk.edu](https://oed.utk.edu)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Department of Philosophy - Philosophy Department
- - [https://philosophy.utk.edu](https://philosophy.utk.edu)
- - date published: 2024-01-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Religion in the Workplace | The University of Tennessee, Knoxville
- - [https://religionintheworkplace.utk.edu](https://religionintheworkplace.utk.edu)
- - date published: 2019-04-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Department of Religious Studies - Religious Studies Department
- - [http://religion.utk.edu](http://religion.utk.edu)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## CliftonStrengths | The University of Tennessee, Knoxville
- - [https://strengths.utk.edu](https://strengths.utk.edu)
- - date published: 2021-10-28T00:00:00+00:00
  - user: None
  - tags: []
 

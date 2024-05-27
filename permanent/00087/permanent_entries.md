@@ -1,3 +1,549 @@
+## Home Page
+ - [https://doi.org](https://doi.org)
+ - date published: 2023-10-25T21:15:05.945582+00:00
+ - user: None
+ - tags: []
+
+## Resolve a DOI Name
+ - [https://dx.doi.org](https://dx.doi.org)
+ - date published: 2023-12-03T01:17:58.110575+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://www.doi.org](https://www.doi.org)
+ - date published: 2024-05-11T11:26:01.339420+00:00
+ - user: None
+ - tags: []
+
+## doi2bib
+ - [https://www.doi2bib.org](https://www.doi2bib.org)
+ - date published: 2024-05-07T15:55:14.052181+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.doifcu.org](https://www.doifcu.org)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Business Ready (B-READY)
+ - [http://www.doingbusiness.org](http://www.doingbusiness.org)
+ - date published: 2024-09-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dojo Toolkit
+ - [http://dojotoolkit.org](http://dojotoolkit.org)
+ - date published: 2024-05-10T04:13:40.731472+00:00
+ - user: None
+ - tags: []
+
+## dokuwiki [DokuWiki]
+ - [https://dokuwiki.org](https://dokuwiki.org)
+ - date published: 2024-04-30T06:26:32.592516+00:00
+ - user: None
+ - tags: []
+
+## dokuwiki [DokuWiki]
+ - [https://www.dokuwiki.org](https://www.dokuwiki.org)
+ - date published: 2024-04-30T06:26:27.906587+00:00
+ - user: None
+ - tags: []
+
+## Dollars and Sense: Real World Economics
+ - [https://dollarsandsense.org](https://dollarsandsense.org)
+ - date published: 2024-05-12T04:56:24.756607+00:00
+ - user: None
+ - tags: []
+
+## Dollars and Sense: Real World Economics
+ - [https://www.dollarsandsense.org](https://www.dollarsandsense.org)
+ - date published: 2024-04-01T15:13:22.704395+00:00
+ - user: None
+ - tags: []
+
+## Dolphin Emulator - GameCube/Wii games on PC
+ - [https://dolphin-emu.org](https://dolphin-emu.org)
+ - date published: 2023-10-25T08:36:22.762291+00:00
+ - user: None
+ - tags: ['emulator']
+
+## Dolphin Research Center - Dolphin Research Center
+ - [https://dolphins.org](https://dolphins.org)
+ - date published: 2024-09-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Domain Driven Design
+ - [http://www.domaindrivendesign.org](http://www.domaindrivendesign.org)
+ - date published: 2024-04-28T03:36:48.755122+00:00
+ - user: None
+ - tags: []
+
+## Domain Verification Protocol
+ - [https://domainverification.org](https://domainverification.org)
+ - date published: 2023-10-25T21:15:06.523985+00:00
+ - user: None
+ - tags: []
+
+## Domain Verification Protocol
+ - [https://www.domainverification.org](https://www.domainverification.org)
+ - date published: 2023-10-25T21:15:07.191275+00:00
+ - user: None
+ - tags: []
+
+## Domestika
+ - [https://api.domestika.org](https://api.domestika.org)
+ - date published: 2024-05-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Image and Video Upload, Storage, Optimization and CDN
+ - [https://cdn.domestika.org](https://cdn.domestika.org)
+ - date published: 2024-02-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Domestika
+ - [https://www.domestika.org](https://www.domestika.org)
+ - date published: 2023-10-24T20:19:43.752630+00:00
+ - user: None
+ - tags: ['writing', 'tutorials', 'courses', 'learning platform', 'drawing']
+
+## Home
+ - [https://donellameadows.org](https://donellameadows.org)
+ - date published: 2023-12-24T03:19:42.866506+00:00
+ - user: None
+ - tags: []
+
+## Home | Donghao Ren
+ - [https://donghaoren.org](https://donghaoren.org)
+ - date published: 2024-05-07T22:25:54.015249+00:00
+ - user: None
+ - tags: []
+
+## Free Donate Button - Donorbox Nonprofit Fundraising Software
+ - [https://donorbox.org](https://donorbox.org)
+ - date published: 2024-01-18T21:57:11.297764+00:00
+ - user: None
+ - tags: []
+
+## Darmowy przycisk darowizny Donorbox – fundraising non-profit
+ - [http://www.donorbox.org](http://www.donorbox.org)
+ - date published: 2024-05-04T08:46:23.532576+00:00
+ - user: None
+ - tags: []
+
+## DonorsChoose: Support a classroom. Build a future.
+ - [https://www.donorschoose.org](https://www.donorschoose.org)
+ - date published: 2024-05-07T13:57:29.425553+00:00
+ - user: None
+ - tags: []
+
+## Cover Your Tracks
+ - [https://do-not-tracker.org](https://do-not-tracker.org)
+ - date published: 2024-05-11T07:04:14.216442+00:00
+ - user: None
+ - tags: []
+
+## Doom9's Forum - Powered by vBulletin
+ - [https://forum.doom9.org](https://forum.doom9.org)
+ - date published: 2024-05-12T04:14:25.580694+00:00
+ - user: None
+ - tags: []
+
+## The Doom Wiki at DoomWiki.org - Doom, Heretic, Hexen, Strife, and more
+ - [https://doomwiki.org](https://doomwiki.org)
+ - date published: 2023-10-25T21:15:10.502720+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://doortofreedom.org](https://doortofreedom.org)
+ - date published: 2024-04-05T15:25:05+00:00
+ - user: None
+ - tags: []
+
+## Dorkbot PDX
+ - [http://www.dorkbotpdx.org](http://www.dorkbotpdx.org)
+ - date published: 2024-05-09T04:18:55.669987+00:00
+ - user: None
+ - tags: []
+
+## Matt Lakeman
+ - [https://dormin.org](https://dormin.org)
+ - date published: 2024-05-08T04:46:56.746135+00:00
+ - user: None
+ - tags: []
+
+## Fueling Young People to Change the World | DoSomething.org
+ - [http://dosomething.org](http://dosomething.org)
+ - date published: 2024-04-27T08:03:28.137569+00:00
+ - user: None
+ - tags: []
+
+## Fueling Young People to Change the World | DoSomething.org
+ - [https://www.dosomething.org](https://www.dosomething.org)
+ - date published: 2024-04-27T08:03:23.634430+00:00
+ - user: None
+ - tags: []
+
+## 502 Bad Gateway
+ - [https://dotclear.org](https://dotclear.org)
+ - date published: 2024-04-28T02:10:34.239895+00:00
+ - user: None
+ - tags: []
+
+## .NET Foundation | .NET Foundation
+ - [https://dotnetfoundation.org](https://dotnetfoundation.org)
+ - date published: 2023-10-25T21:15:11.977111+00:00
+ - user: None
+ - tags: []
+
+## .NET Fringe - An atypical conference for open-source .NET developers
+ - [http://dotnetfringe.org](http://dotnetfringe.org)
+ - date published: 2024-05-08T11:50:18.145593+00:00
+ - user: None
+ - tags: []
+
+## DOUBLE MERSENNE PRIME | A distributed math search
+ - [http://www.doublemersennes.org](http://www.doublemersennes.org)
+ - date published: 2024-04-10T08:11:08.178949+00:00
+ - user: None
+ - tags: ['math']
+
+## A Way with Words
+ - [http://www.doubletongued.org](http://www.doubletongued.org)
+ - date published: 2024-04-29T03:19:13.121318+00:00
+ - user: None
+ - tags: []
+
+## Welcome - Doug Engelbart Institute
+ - [https://www.dougengelbart.org](https://www.dougengelbart.org)
+ - date published: 2023-10-25T21:15:15.673050+00:00
+ - user: None
+ - tags: []
+
+## Dovecot | The Secure IMAP server
+ - [https://dovecot.org](https://dovecot.org)
+ - date published: 2024-05-14T03:49:49.329164+00:00
+ - user: None
+ - tags: []
+
+## Wiki has been closed
+ - [http://wiki.dovecot.org](http://wiki.dovecot.org)
+ - date published: 2024-05-12T06:12:49.283094+00:00
+ - user: None
+ - tags: []
+
+## Dovecot | The Secure IMAP server
+ - [https://www.dovecot.org](https://www.dovecot.org)
+ - date published: 2024-05-12T06:10:28.068891+00:00
+ - user: None
+ - tags: []
+
+## Dovetail Impact Foundation
+ - [https://dovetailimpact.org](https://dovetailimpact.org)
+ - date published: 2024-05-22T02:38:38.315599+00:00
+ - user: None
+ - tags: []
+
+## DOVE Transplant | Matching Kidney Donors with Veterans in Need
+ - [https://www.dovetransplant.org](https://www.dovetransplant.org)
+ - date published: 2024-05-12T05:10:37.763565+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://dowcreditunion.org](https://dowcreditunion.org)
+ - date published: 2024-05-09T07:35:08.432098+00:00
+ - user: None
+ - tags: []
+
+## Home | Downtown Los Altos
+ - [http://www.downtownlosaltos.org](http://www.downtownlosaltos.org)
+ - date published: 2015-03-12T14:07:46+00:00
+ - user: None
+ - tags: []
+
+## Doxygen homepage
+ - [http://doxygen.org](http://doxygen.org)
+ - date published: 2024-05-08T11:03:31.290717+00:00
+ - user: None
+ - tags: []
+
+## Doxygen homepage
+ - [https://www.doxygen.org](https://www.doxygen.org)
+ - date published: 2024-05-08T11:03:44.071915+00:00
+ - user: None
+ - tags: []
+
+## dpaste
+ - [https://git.dpaste.org](https://git.dpaste.org)
+ - date published: 2024-05-01T04:02:44.084748+00:00
+ - user: None
+ - tags: []
+
+## about lore.dpaste.org
+ - [https://lore.dpaste.org](https://lore.dpaste.org)
+ - date published: 2024-05-01T04:02:42.483127+00:00
+ - user: None
+ - tags: []
+
+## Home - DPDK
+ - [http://dpdk.org](http://dpdk.org)
+ - date published: 2024-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DQ institute – DQ Institute. All Rights Reserved
+ - [https://www.dqinstitute.org](https://www.dqinstitute.org)
+ - date published: 2024-05-11T08:11:28.150910+00:00
+ - user: None
+ - tags: []
+
+## The Drabblecast
+ - [https://www.drabblecast.org](https://www.drabblecast.org)
+ - date published: 2024-05-04T05:59:58.917667+00:00
+ - user: None
+ - tags: []
+
+## Dragon Con - Largest Multi-genre and Pop Culture Convention
+ - [https://www.dragoncon.org](https://www.dragoncon.org)
+ - date published: 2024-09-02T00:00:00+00:00
+ - user: None
+ - tags: ['convention', 'pop culture']
+
+## DragonFlyBSD: DragonFly BSD
+ - [https://www.dragonflybsd.org](https://www.dragonflybsd.org)
+ - date published: 2023-10-25T21:15:22.406789+00:00
+ - user: None
+ - tags: []
+
+## Join the DragonRuby Game Toolkit Discord Server!
+ - [https://discord.dragonruby.org](https://discord.dragonruby.org)
+ - date published: 2024-05-07T19:01:14.529638+00:00
+ - user: None
+ - tags: []
+
+## DragonRuby | DragonRuby
+ - [https://dragonruby.org](https://dragonruby.org)
+ - date published: 2024-05-07T19:01:15.914429+00:00
+ - user: None
+ - tags: []
+
+## DragonRuby Game Toolkit Tutorial
+ - [https://fiddle.dragonruby.org](https://fiddle.dragonruby.org)
+ - date published: 2024-05-07T19:01:20.692608+00:00
+ - user: None
+ - tags: []
+
+## Meditation Retreats and Mountain Retreats | Drala Mountain Center
+ - [https://www.dralamountain.org](https://www.dralamountain.org)
+ - date published: 2024-03-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
+ - [https://drasticresearch.org](https://drasticresearch.org)
+ - date published: 2023-10-25T21:15:25.874666+00:00
+ - user: None
+ - tags: []
+
+## dream shrine
+ - [https://dreamshrine.org](https://dreamshrine.org)
+ - date published: 2024-05-04T14:11:49.435053+00:00
+ - user: None
+ - tags: []
+
+## adastrafanfic | Recent Entries
+ - [https://adastrafanfic.dreamwidth.org](https://adastrafanfic.dreamwidth.org)
+ - date published: 2024-05-01T02:26:36.455142+00:00
+ - user: None
+ - tags: []
+
+## bluelander. Recent Entries
+ - [https://bluelander.dreamwidth.org](https://bluelander.dreamwidth.org)
+ - date published: 2024-04-29T07:25:54.844937+00:00
+ - user: None
+ - tags: []
+
+## cellio | Recent Entries
+ - [https://cellio.dreamwidth.org](https://cellio.dreamwidth.org)
+ - date published: 2024-03-14T17:29:57.709889+00:00
+ - user: None
+ - tags: []
+
+## corabuhlert_feed | Recent Entries
+ - [http://corabuhlert-feed.dreamwidth.org](http://corabuhlert-feed.dreamwidth.org)
+ - date published: 2024-05-08T06:33:13.312161+00:00
+ - user: None
+ - tags: []
+
+## diziet | Recent Entries
+ - [https://diziet.dreamwidth.org](https://diziet.dreamwidth.org)
+ - date published: 2023-10-25T21:15:30.379033+00:00
+ - user: None
+ - tags: []
+
+## fonderdiamondsreview | Recent Entries
+ - [https://fonderdiamondsreview.dreamwidth.org](https://fonderdiamondsreview.dreamwidth.org)
+ - date published: 2024-05-07T13:31:14.666427+00:00
+ - user: None
+ - tags: []
+
+## genehack | Recent Entries
+ - [https://genehack.dreamwidth.org](https://genehack.dreamwidth.org)
+ - date published: 2024-05-10T06:28:14.428985+00:00
+ - user: None
+ - tags: []
+
+## graydon2 | Recent Entries
+ - [https://graydon2.dreamwidth.org](https://graydon2.dreamwidth.org)
+ - date published: 2023-10-25T21:15:34.097894+00:00
+ - user: None
+ - tags: []
+
+## hansdegoede | Recent Entries
+ - [https://hansdegoede.dreamwidth.org](https://hansdegoede.dreamwidth.org)
+ - date published: 2024-05-11T09:06:05.935271+00:00
+ - user: None
+ - tags: []
+
+## liam_on_linux | Recent Entries
+ - [https://liam-on-linux.dreamwidth.org](https://liam-on-linux.dreamwidth.org)
+ - date published: 2023-10-25T21:15:39.084907+00:00
+ - user: None
+ - tags: ['personal', 'open source']
+
+## Discretion Advised
+ - [http://minim-calibre.dreamwidth.org](http://minim-calibre.dreamwidth.org)
+ - date published: 2024-05-12T06:45:58.526930+00:00
+ - user: None
+ - tags: []
+
+## mjg59 | Recent Entries
+ - [https://mjg59.dreamwidth.org](https://mjg59.dreamwidth.org)
+ - date published: 2023-10-25T21:15:42.543885+00:00
+ - user: None
+ - tags: []
+
+## pnarp | Recent Entries
+ - [https://pnarp.dreamwidth.org](https://pnarp.dreamwidth.org)
+ - date published: 2024-05-06T23:31:08.227339+00:00
+ - user: None
+ - tags: []
+
+## roadrunnertwice | Recent Entries
+ - [https://roadrunnertwice.dreamwidth.org](https://roadrunnertwice.dreamwidth.org)
+ - date published: 2023-10-25T21:15:47.028918+00:00
+ - user: None
+ - tags: []
+
+## siderea | Recent Entries
+ - [https://siderea.dreamwidth.org](https://siderea.dreamwidth.org)
+ - date published: 2023-10-25T21:15:50.428581+00:00
+ - user: None
+ - tags: []
+
+## spindas | Recent Entries
+ - [https://spindas.dreamwidth.org](https://spindas.dreamwidth.org)
+ - date published: 2023-10-25T21:15:54.073987+00:00
+ - user: None
+ - tags: []
+
+## thefourthvine | Recent Entries
+ - [http://thefourthvine.dreamwidth.org](http://thefourthvine.dreamwidth.org)
+ - date published: 2024-05-12T06:45:55.941223+00:00
+ - user: None
+ - tags: []
+
+## timeasmymeasure | Recent Entries
+ - [https://timeasmymeasure.dreamwidth.org](https://timeasmymeasure.dreamwidth.org)
+ - date published: 2024-05-26T06:16:07.378594+00:00
+ - user: None
+ - tags: []
+
+## tobli | Posts
+ - [https://tobli.dreamwidth.org](https://tobli.dreamwidth.org)
+ - date published: 2024-03-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dreamwidth Studios
+ - [https://www.dreamwidth.org](https://www.dreamwidth.org)
+ - date published: 2024-04-28T04:11:18.535471+00:00
+ - user: None
+ - tags: []
+
+## Discretion Advised
+ - [https://yhlee.dreamwidth.org](https://yhlee.dreamwidth.org)
+ - date published: 2024-05-02T10:21:55.885589+00:00
+ - user: None
+ - tags: []
+
+## zwol | Recent Entries
+ - [https://zwol.dreamwidth.org](https://zwol.dreamwidth.org)
+ - date published: 2024-05-08T11:29:45.295511+00:00
+ - user: None
+ - tags: []
+
+## The Disability Rights Education and Defense Fund
+ - [https://dredf.org](https://dredf.org)
+ - date published: 2012-07-25T02:23:52+00:00
+ - user: None
+ - tags: []
+
+## Michael Greger, M.D. - Physician, Speaker, and NYT Bestselling Author
+ - [https://drgreger.org](https://drgreger.org)
+ - date published: 2024-05-08T10:59:25.105784+00:00
+ - user: None
+ - tags: []
+
+## DrivenData
+ - [https://www.drivendata.org](https://www.drivendata.org)
+ - date published: 2024-05-10T05:00:43.116564+00:00
+ - user: None
+ - tags: []
+
+## DriveTexas
+ - [https://drivetexas.org](https://drivetexas.org)
+ - date published: 2024-05-04T09:27:05.745554+00:00
+ - user: None
+ - tags: []
+
+## Free DMV Permit Practice Tests: Driving Test & License Prep
+ - [https://driving-tests.org](https://driving-tests.org)
+ - date published: 2024-05-24T23:05:09.118948+00:00
+ - user: None
+ - tags: []
+
+## The Blog of Dr. Moron
+ - [https://www.drmoron.org](https://www.drmoron.org)
+ - date published: 2024-01-11T13:43:51.813117+00:00
+ - user: None
+ - tags: ['personal']
+
+## Drogowskaz – Aplikacja Kościoła
+ - [https://drogowskaz.org](https://drogowskaz.org)
+ - date published: 2024-04-08T18:26:56+00:00
+ - user: rumpel
+ - tags: ['religion', 'catholic']
+
+## DRS 2022 Bilbao · 25th June - 3rd July
+ - [https://www.drs2022.org](https://www.drs2022.org)
+ - date published: 2024-05-11T11:26:15.756651+00:00
+ - user: None
+ - tags: []
+
+## DRS2024
+ - [https://www.drs2024.org](https://www.drs2024.org)
+ - date published: 2024-05-11T11:26:31.853436+00:00
+ - user: None
+ - tags: []
+
 ## Dr Mark Trozzi – Honest, Ethical, MD
  - [https://drtrozzi.org](https://drtrozzi.org)
  - date published: 2024-04-10T00:00:00+00:00
@@ -339,6 +885,18 @@
  - date published: 2024-02-24T18:06:37.687710+00:00
  - user: None
  - tags: ['environment news']
+
+## Earth.Org Kids - Past | Present | Future
+ - [https://kids.earth.org](https://kids.earth.org)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## HOME | Movement.Earth.Org
+ - [https://movement.earth.org](https://movement.earth.org)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## EarthByte – The website of EarthByte group at the school of Geosciences of the University of Sydney
  - [https://www.earthbyte.org](https://www.earthbyte.org)
@@ -787,6 +1345,12 @@
 ## European Digital Rights (EDRi)
  - [https://edri.org](https://edri.org)
  - date published: 2023-10-25T21:16:34.020264+00:00
+ - user: None
+ - tags: []
+
+## Sign in - Matomo
+ - [https://matomo.edri.org](https://matomo.edri.org)
+ - date published: 2024-05-26T07:25:57.712883+00:00
  - user: None
  - tags: []
 
@@ -1509,6 +2073,12 @@
  - date published: 2023-10-25T08:33:41.083763+00:00
  - user: None
  - tags: ['emulation', 'emulator frontend']
+
+## Play classic video games on your computer or mobile device | Emuparadise
+ - [http://www.emuparadise.org](http://www.emuparadise.org)
+ - date published: 2024-05-26T07:56:15.941371+00:00
+ - user: None
+ - tags: []
 
 ## Empirical Musicology Review
  - [https://emusicology.org](https://emusicology.org)
@@ -2510,7 +3080,7 @@
  - [https://exponentii.org](https://exponentii.org)
  - date published: 2021-11-12T04:10:29+00:00
  - user: None
- - tags: []
+ - tags: ['feminism']
 
 ## Expressions of America
  - [https://expressionsofamerica.org](https://expressionsofamerica.org)
@@ -4535,6 +5105,30 @@ Archive
  - user: None
  - tags: []
 
+## Learn to Code — For Free — Coding Courses for Busy People
+ - [https://api.freecodecamp.org](https://api.freecodecamp.org)
+ - date published: 2024-05-26T09:16:10.633727+00:00
+ - user: None
+ - tags: []
+
+## freeCodeCamp.org
+ - [https://cdn.freecodecamp.org](https://cdn.freecodecamp.org)
+ - date published: 2024-05-26T09:16:13.900218+00:00
+ - user: None
+ - tags: []
+
+## Code Radio - 24/7 concentration music for developers
+ - [https://coderadio.freecodecamp.org](https://coderadio.freecodecamp.org)
+ - date published: 2024-05-26T09:16:17.582316+00:00
+ - user: None
+ - tags: []
+
+## Contribute to the freeCodeCamp Community
+ - [https://contribute.freecodecamp.org](https://contribute.freecodecamp.org)
+ - date published: 2024-05-26T09:16:02.792055+00:00
+ - user: None
+ - tags: []
+
 ## The freeCodeCamp Forum
  - [https://forum.freecodecamp.org](https://forum.freecodecamp.org)
  - date published: 2024-05-06T00:00:00+00:00
@@ -5220,6 +5814,12 @@ encryption
  - user: None
  - tags: []
 
+## home - Fundacja Olandia
+ - [http://www.fundacjaolandia.org](http://www.fundacjaolandia.org)
+ - date published: 2023-01-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## The Gerald Huff Fund For Humanity - The Gerald Huff Fund for Humanity
  - [https://fundforhumanity.org](https://fundforhumanity.org)
  - date published: 2024-04-09T00:00:00+00:00
@@ -5377,6 +5977,12 @@ encryption
  - tags: []
 
 ## FutureMe: Write a Letter to your Future Self
+ - [https://prod-assets.futureme.org](https://prod-assets.futureme.org)
+ - date published: 2024-05-26T09:45:56.941644+00:00
+ - user: None
+ - tags: []
+
+## FutureMe: Write a Letter to your Future Self
  - [https://www.futureme.org](https://www.futureme.org)
  - date published: 2024-02-06T14:56:37.812916+00:00
  - user: None
@@ -5391,617 +5997,6 @@ encryption
 ## futureofcoding #thinking-together
  - [https://linen.futureofcoding.org](https://linen.futureofcoding.org)
  - date published: 2024-04-29T07:59:57.624887+00:00
- - user: None
- - tags: []
-
-## Future of Coding Weekly
- - [https://newsletter.futureofcoding.org](https://newsletter.futureofcoding.org)
- - date published: 2024-05-11T10:25:35.705828+00:00
- - user: None
- - tags: []
-
-## Future of Humanity Institute shuts down
- - [https://www.futureofhumanityinstitute.org](https://www.futureofhumanityinstitute.org)
- - date published: 2024-04-17T15:14:08+00:00
- - user: None
- - tags: []
-
-## Home - Future of Life Institute
- - [https://futureoflife.org](https://futureoflife.org)
- - date published: 2023-10-25T21:23:32.572356+00:00
- - user: None
- - tags: []
-
-## Pause Giant Superconductor Experiments
- - [https://futureofliff.org](https://futureofliff.org)
- - date published: 2023-10-25T21:23:37.964754+00:00
- - user: None
- - tags: []
-
-## Future Programming Workshop
- - [http://www.future-programming.org](http://www.future-programming.org)
- - date published: 2024-05-01T07:49:24.487802+00:00
- - user: None
- - tags: []
-
-## Futurity: Research News from Top Universities
- - [https://www.futurity.org](https://www.futurity.org)
- - date published: 2023-10-25T21:23:40.912905+00:00
- - user: None
- - tags: []
-
-## LVFS: Home
- - [https://fwupd.org](https://fwupd.org)
- - date published: 2023-10-25T21:23:45.839751+00:00
- - user: None
- - tags: []
-
-## YMCA of Greater Fort Wayne | The Y. For a better us.™
- - [https://www.fwymca.org](https://www.fwymca.org)
- - date published: 2024-04-30T07:30:22.207062+00:00
- - user: None
- - tags: []
-
-## G20 Brasil 2024 - Português (Brasil)
- - [https://www.g20.org](https://www.g20.org)
- - date published: 2024-04-28T01:44:56.877013+00:00
- - user: None
- - tags: []
-
-## G3 de la Francophonie
- - [https://g3francophonie.org](https://g3francophonie.org)
- - date published: 2024-03-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gabarro
- - [https://gabarro.org](https://gabarro.org)
- - date published: 2024-01-09T03:40:26.087667+00:00
- - user: None
- - tags: []
-
-## GabMus's Dev Log
- - [https://gabmus.org](https://gabmus.org)
- - date published: 2024-02-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gabrielino-Tongva Indian Tribe – A California Indian Tribe know as San Gabriel Band of Mission Indians
- - [https://gabrielinotribe.org](https://gabrielinotribe.org)
- - date published: 2024-05-04T14:43:14.014898+00:00
- - user: None
- - tags: []
-
-## Gadgetbridge for android
- - [https://gadgetbridge.org](https://gadgetbridge.org)
- - date published: 2023-10-25T21:23:47.950756+00:00
- - user: None
- - tags: []
-
-## Gaithersburg Book Festival
- - [https://www.gaithersburgbookfestival.org](https://www.gaithersburgbookfestival.org)
- - date published: 2024-05-18T00:00:00+00:00
- - user: None
- - tags: ['festival', 'books']
-
-## Galactica Demo
- - [https://galactica.org](https://galactica.org)
- - date published: 2023-10-25T21:23:49.587771+00:00
- - user: None
- - tags: []
-
-## Galactic Anthropology
- - [https://galacticanthropology.org](https://galacticanthropology.org)
- - date published: 2024-02-08T16:34:29.619962+00:00
- - user: None
- - tags: []
-
-## Galactic Journey
- - [http://galacticjourney.org](http://galacticjourney.org)
- - date published: 2024-05-08T06:36:59.576405+00:00
- - user: None
- - tags: []
-
-## Galène videoconference server
- - [https://galene.org](https://galene.org)
- - date published: 2023-10-27T12:06:39.811505+00:00
- - user: None
- - tags: []
-
-## GAMA: THE GAME MANUFACTURERS ASSOCIATION
- - [https://www.gama.org](https://www.gama.org)
- - date published: 2024-05-08T03:02:54.012914+00:00
- - user: None
- - tags: []
-
-## MA Gambling Helpline
- - [https://gamblinghelplinema.org](https://gamblinghelplinema.org)
- - date published: 2024-04-29T02:15:20.805534+00:00
- - user: None
- - tags: []
-
-## Gambling Therapy - Practical advice and support for problem gambling
- - [http://www.gamblingtherapy.org](http://www.gamblingtherapy.org)
- - date published: 2024-05-11T07:35:52.595487+00:00
- - user: None
- - tags: []
-
-## Game Armada / Star Citizen Polska - największa polska społeczność Star Citizen PL
- - [https://gamearmada.org](https://gamearmada.org)
- - date published: 2024-04-19T00:00:00+00:00
- - user: rumpel
- - tags: ['star citizen', 'video game']
-
-## GameBrew's Message Domain
- - [https://forums.gamebrew.org](https://forums.gamebrew.org)
- - date published: 2024-03-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## GameBrew - SWITCH PS4 PS5 PS3 VITA PSP WII DS 3DS XBOX - Latest Homebrews, Apps, Games, Emulators and More
- - [https://www.gamebrew.org](https://www.gamebrew.org)
- - date published: 2023-11-25T04:19:34.708741+00:00
- - user: None
- - tags: ['video game homebrew', 'reverse engineering']
-
-## The Complete Guide to Video Game Design
- - [https://www.gamedesigning.org](https://www.gamedesigning.org)
- - date published: 2018-01-08T23:50:29+00:00
- - user: rumpel
- - tags: ['video game design', 'education', 'tutorial']
-
-## gameful.org - Ta strona jest na sprzedaż! - gameful Zasoby i informacje.
- - [http://gameful.org](http://gameful.org)
- - date published: 2024-05-09T05:22:15.269310+00:00
- - user: None
- - tags: []
-
-## GameHacking.org Forums - 
-		
-		Forums
- - [https://forum.gamehacking.org](https://forum.gamehacking.org)
- - date published: 2024-05-11T08:32:40.608717+00:00
- - user: None
- - tags: []
-
-## GameHacking.org | Home
- - [https://gamehacking.org](https://gamehacking.org)
- - date published: 1999-03-19T00:00:00+00:00
- - user: rumpel
- - tags: ['game hacking']
-
-## I Am Error
- - [https://iamerror.gamehacking.org](https://iamerror.gamehacking.org)
- - date published: 2024-05-11T08:32:57.607948+00:00
- - user: None
- - tags: []
-
-## WiiRd forum - Index
- - [https://wiird.gamehacking.org](https://wiird.gamehacking.org)
- - date published: 2024-05-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Wiki - GameHacking.org
- - [https://wiki.gamehacking.org](https://wiki.gamehacking.org)
- - date published: 2024-05-11T08:32:43.150849+00:00
- - user: None
- - tags: []
-
-## Home | Video Game History Foundation
- - [https://gamehistory.org](https://gamehistory.org)
- - date published: 2023-10-25T21:24:05.080231+00:00
- - user: None
- - tags: ['video games', 'digital library']
-
-## Game of Trees
- - [https://gameoftrees.org](https://gameoftrees.org)
- - date published: 2024-05-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## GameReplays.org - Replays, Strategies, News, Tips and Tricks for Multiplayer Games
- - [https://www.gamereplays.org](https://www.gamereplays.org)
- - date published: 2024-05-13T03:46:08.454296+00:00
- - user: None
- - tags: []
-
-## WWW.GAMERS.ORG
- - [https://www.gamers.org](https://www.gamers.org)
- - date published: 2023-10-25T21:24:07.317158+00:00
- - user: None
- - tags: []
-
-## Gamesboro Radio
- - [https://radio.gamesboro.org](https://radio.gamesboro.org)
- - date published: 2024-02-15T22:13:54.975381+00:00
- - user: None
- - tags: ['demoscene']
-
-## Gamesboro Shoutcast
- - [http://shoutcast.gamesboro.org](http://shoutcast.gamesboro.org)
- - date published: 2024-02-15T05:08:18.936845+00:00
- - user: None
- - tags: []
-
-## Home - Games for Change
- - [http://www.gamesforchange.org](http://www.gamesforchange.org)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Curaçao Gaming Control Board
- - [https://www.gamingcontrolcuracao.org](https://www.gamingcontrolcuracao.org)
- - date published: 2024-03-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gaming Wiki Network
- - [https://gamingwikinetwork.org](https://gamingwikinetwork.org)
- - date published: 2024-02-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gaming Workstation & Services LLC
- - [https://gamingworkstations.org](https://gamingworkstations.org)
- - date published: 2024-05-08T02:30:37.242790+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://gancio.org](https://gancio.org)
- - date published: 2024-04-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [http://www.ganttcenter.org](http://www.ganttcenter.org)
- - date published: 2024-05-04T14:19:43.899695+00:00
- - user: None
- - tags: []
-
-## Modeling for Everyone
- - [https://gaphor.org](https://gaphor.org)
- - date published: 2024-05-08T04:07:09.614324+00:00
- - user: None
- - tags: []
-
-## Gapminder
- - [https://www.gapminder.org](https://www.gapminder.org)
- - date published: 2023-12-26T17:42:30.187297+00:00
- - user: None
- - tags: []
-
-## GAP System for Computational Discrete Algebra
- - [https://www.gap-system.org](https://www.gap-system.org)
- - date published: 2024-03-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Garamonpatrimoine (Graphê) : Sauver le patrimoine de l'Imprimerie
-  nationale
- - [https://www.garamonpatrimoine.org](https://www.garamonpatrimoine.org)
- - date published: 2024-02-08T21:48:45.538996+00:00
- - user: None
- - tags: []
-
-## Garden Explorer | Santa Fe Botanical Garden
- - [https://santafebotanicalgarden.gardenexplorer.org](https://santafebotanicalgarden.gardenexplorer.org)
- - date published: 2024-05-18T02:48:29.842346+00:00
- - user: None
- - tags: []
-
-## Bits or pieces?
- - [https://blog.gardeviance.org](https://blog.gardeviance.org)
- - date published: 2024-02-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## This page has moved!
- - [https://personal.garrettfuller.org](https://personal.garrettfuller.org)
- - date published: 2023-10-25T21:24:13.310361+00:00
- - user: None
- - tags: []
-
-## Garuda Linux Forum
- - [https://forum.garudalinux.org](https://forum.garudalinux.org)
- - date published: 2024-04-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Garuda Linux Official website
- - [https://garudalinux.org](https://garudalinux.org)
- - date published: 2023-11-06T10:07:20.126296+00:00
- - user: None
- - tags: ['operating system', 'linux']
-
-## Cierpliwości...
- - [https://r2.garudalinux.org](https://r2.garudalinux.org)
- - date published: 2024-04-30T08:00:42.281663+00:00
- - user: None
- - tags: []
-
-## Bill & Melinda Gates Foundation
- - [https://www.gatesfoundation.org](https://www.gatesfoundation.org)
- - date published: 2023-11-03T13:52:16.890501+00:00
- - user: None
- - tags: ['foundation']
-
-## GateWay MUD
- - [https://gatewaymud.org](https://gatewaymud.org)
- - date published: 2019-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## GateWay MUD
- - [https://www.gatewaymud.org](https://www.gatewaymud.org)
- - date published: 1990-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gateway Streets – Transportation issues in the Gateway City
- - [http://www.gatewaystreets.org](http://www.gatewaystreets.org)
- - date published: 2024-05-06T22:50:17.052364+00:00
- - user: None
- - tags: []
-
-## The Gathering
- - [https://www.gathering.org](https://www.gathering.org)
- - date published: 2024-02-06T13:54:39.897585+00:00
- - user: None
- - tags: ['retro games', 'demoscene']
-
-## The Best React-Based Framework | Gatsby
- - [https://gatsbyjs.org](https://gatsbyjs.org)
- - date published: 2024-05-06T13:29:33.011279+00:00
- - user: None
- - tags: []
-
-## Netlify Swag Store - Awesome apparel, stickers, and other swag
- - [https://store.gatsbyjs.org](https://store.gatsbyjs.org)
- - date published: 2024-05-06T13:48:23.804112+00:00
- - user: None
- - tags: []
-
-## Gatsby Theme Jam: Build a Theme, Win a Trip to Gatsby Days!
- - [https://themejam.gatsbyjs.org](https://themejam.gatsbyjs.org)
- - date published: 2019-06-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Best React-Based Framework | Gatsby
- - [https://www.gatsbyjs.org](https://www.gatsbyjs.org)
- - date published: 2024-05-04T13:59:34.156547+00:00
- - user: None
- - tags: []
-
-## Gavi, the Vaccine Alliance
- - [https://www.gavi.org](https://www.gavi.org)
- - date published: 2023-10-25T21:24:19.083058+00:00
- - user: None
- - tags: []
-
-## Gazebo
- - [https://gazebosim.org](https://gazebosim.org)
- - date published: 2024-05-08T11:17:00.069526+00:00
- - user: None
- - tags: []
-
-## Green Business Certification Inc.
- - [http://www.gbci.org](http://www.gbci.org)
- - date published: 2024-05-04T08:47:51.463797+00:00
- - user: None
- - tags: []
-
-## JiG Gender Based Violence Handbook
- - [https://gbvjournalism.org](https://gbvjournalism.org)
- - date published: 2024-05-07T20:09:17.958032+00:00
- - user: None
- - tags: []
-
-## Greater City Providence
- - [http://www.gcpvd.org](http://www.gcpvd.org)
- - date published: 2024-05-06T22:57:17.576092+00:00
- - user: None
- - tags: []
-
-## GDAL — GDAL  documentation
- - [https://gdal.org](https://gdal.org)
- - date published: 2024-04-28T05:59:44.751322+00:00
- - user: None
- - tags: ['library', 'geoinformatics', 'open street map']
-
-## The GDELT Project
- - [https://blog.gdeltproject.org](https://blog.gdeltproject.org)
- - date published: 2024-02-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## The GDELT Project
- - [https://www.gdeltproject.org](https://www.gdeltproject.org)
- - date published: 1979-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- | Geany
- - [https://geany.org](https://geany.org)
- - date published: 2023-11-01T08:44:20.592858+00:00
- - user: None
- - tags: []
-
-## Home
- | Geany
- - [https://www.geany.org](https://www.geany.org)
- - date published: 2023-10-27T13:13:54.781191+00:00
- - user: None
- - tags: ['programming ide']
-
-## geekhack - Index
- - [https://geekhack.org](https://geekhack.org)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Forrest Cameranesi – Geek of All Trades
- - [http://www.geekofalltrades.org](http://www.geekofalltrades.org)
- - date published: 2024-05-12T03:52:55.189511+00:00
- - user: None
- - tags: []
-
-## GeeksforGeeks | A computer science portal for geeks
- - [https://cdncontribute.geeksforgeeks.org](https://cdncontribute.geeksforgeeks.org)
- - date published: 2024-03-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## GeeksforGeeks | A computer science portal for geeks
- - [https://www.geeksforgeeks.org](https://www.geeksforgeeks.org)
- - date published: 2024-03-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## geeky NEWS - geeky NEWS: Navigating the New Age of Cutting-Edge Technology in AI, Robotics, Space, and the latest tech Gadgets
- - [https://geekynews.org](https://geekynews.org)
- - date published: 2024-05-12T01:22:47.507808+00:00
- - user: None
- - tags: []
-
-## GeePawHill.org – Helping Geeks Produce.
- - [https://www.geepawhill.org](https://www.geepawhill.org)
- - date published: 2024-04-29T02:19:18.266185+00:00
- - user: None
- - tags: []
-
-## GEFIRA
- - [https://gefira.org](https://gefira.org)
- - date published: 2024-05-07T18:52:34.794496+00:00
- - user: None
- - tags: []
-
-## GEMM: Home Page
- - [https://www.gemminitiative.org](https://www.gemminitiative.org)
- - date published: 2024-05-08T11:20:13.189029+00:00
- - user: None
- - tags: []
-
-## GemRB Homepage
- - [http://www.gemrb.org](http://www.gemrb.org)
- - date published: 2024-05-09T08:57:16.465988+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.gendereconomy.org](https://www.gendereconomy.org)
- - date published: 2024-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gender Scan : faites la différence
- - [https://stu2024.genderscan.org](https://stu2024.genderscan.org)
- - date published: 2024-05-04T06:59:39.937473+00:00
- - user: None
- - tags: []
-
-## Join Geneanet
- - [https://gw.geneanet.org](https://gw.geneanet.org)
- - date published: 2024-05-12T05:41:34.579761+00:00
- - user: None
- - tags: []
-
-## genehack.org
- - [https://genehack.org](https://genehack.org)
- - date published: 2023-11-29T17:07:42.761149+00:00
- - user: None
- - tags: ['personal']
-
-## recipes.genehack.org
- - [https://recipes.genehack.org](https://recipes.genehack.org)
- - date published: 2023-06-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Real-World Democracy Education
- - [https://www.generationcitizen.org](https://www.generationcitizen.org)
- - date published: 2024-04-27T08:03:22.181246+00:00
- - user: None
- - tags: []
-
-## Genetic Literacy Project | Science Not Ideology
- - [https://geneticliteracyproject.org](https://geneticliteracyproject.org)
- - date published: 2023-10-25T21:24:26.578613+00:00
- - user: None
- - tags: []
-
-## Michigan Credit Union, Loans, & Insurance
- - [https://www.genisyscu.org](https://www.genisyscu.org)
- - date published: 2024-05-09T07:35:43.283273+00:00
- - user: None
- - tags: []
-
-## Genode - Genode Operating System Framework
- - [https://genode.org](https://genode.org)
- - date published: 2023-10-29T22:06:15.188212+00:00
- - user: None
- - tags: []
-
-## Genodians.org - Stories around the Genode Operating System
- - [https://genodians.org](https://genodians.org)
- - date published: 2023-10-25T21:24:29.740509+00:00
- - user: None
- - tags: []
-
-## GENO
- - [https://www.geno-project.org](https://www.geno-project.org)
- - date published: 2022-10-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gentoo's Bugzilla Main Page
- - [https://bugs.gentoo.org](https://bugs.gentoo.org)
- - date published: 2024-05-06T14:20:12.303645+00:00
- - user: None
- - tags: []
-
-## Gentoo Packages
- - [https://packages.gentoo.org](https://packages.gentoo.org)
- - date published: 2024-05-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Gentoo Wiki
- - [https://wiki.gentoo.org](https://wiki.gentoo.org)
- - date published: 2023-10-25T21:24:31.672851+00:00
- - user: None
- - tags: []
-
-## Welcome – Gentoo Linux
- - [https://www.gentoo.org](https://www.gentoo.org)
- - date published: 2023-10-25T08:32:16.955736+00:00
- - user: None
- - tags: ['operating system']
-
-## Professor Peck
- - [https://peck.geoengineer.org](https://peck.geoengineer.org)
- - date published: 2023-10-25T21:24:33.960963+00:00
- - user: None
- - tags: []
-
-## Geoffrey Brown | Design & Innovation
- - [https://www.geoffbrown.org](https://www.geoffbrown.org)
- - date published: 2024-01-16T17:02:33.670436+00:00
- - user: None
- - tags: []
-
-## GeoGebra - the world’s favorite, free math tools used by over 100 million students and teachers
- - [https://www.geogebra.org](https://www.geogebra.org)
- - date published: 2024-04-30T07:34:52.293034+00:00
- - user: None
- - tags: []
-
-## GeoJSON
- - [https://geojson.org](https://geojson.org)
- - date published: 2024-05-06T16:17:46.651374+00:00
  - user: None
  - tags: []
 
