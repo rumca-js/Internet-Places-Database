@@ -134,4 +134,5 @@ Might not be working. Used for development: [https://renegat0x0.ddns.net/apps/pl
 - [ ] Create a browser extension. The extension should provide domain info for each link. Provides rating according to page_rating, and since when page operates. The longer domain is active - the better
 - [ ] Secure funds for a organisation. Kickstarter?
 - [ ] Establish valid, simple domain for the project
-- [ ] Provide search ability for the database
+- [ ] Provide google-like search on the domain
+- [ ] Conquer the world
