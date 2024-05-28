@@ -688,6 +688,12 @@
  - user: None
  - tags: []
 
+## AskGuru Chat Pop-Up
+ - [https://chat-popup.askguru.ai](https://chat-popup.askguru.ai)
+ - date published: 2024-05-28T01:03:12.804515+00:00
+ - user: None
+ - tags: []
+
 ## AskGuru
  - [https://www.askguru.ai](https://www.askguru.ai)
  - date published: 2023-11-28T20:45:58+00:00
@@ -746,11 +752,17 @@
  - [https://beacons.ai](https://beacons.ai)
  - date published: 2024-02-26T18:38:26+00:00
  - user: rumpel
- - tags: ['social media reference']
+ - tags: []
 
 ## Presentation Software | Basic to Beautiful in Minutes with Beautiful.ai
  - [https://www.beautiful.ai](https://www.beautiful.ai)
  - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Becoming Human: Artificial Intelligence Magazine
+ - [https://becominghuman.ai](https://becominghuman.ai)
+ - date published: 2024-04-09T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1870,6 +1882,12 @@
  - user: None
  - tags: []
 
+## Graphica Studio â€“Â Brand &amp; Product Design
+ - [https://studio.graphica.ai](https://studio.graphica.ai)
+ - date published: 2024-05-28T01:03:40.460834+00:00
+ - user: None
+ - tags: []
+
 ## Greenbids - Less carbon from Ads
  - [https://www.greenbids.ai](https://www.greenbids.ai)
  - date published: 2024-05-06T17:46:29.668329+00:00
@@ -2527,6 +2545,12 @@
 ## Lumona
  - [https://www.lumona.ai](https://www.lumona.ai)
  - date published: 2024-05-12T04:30:58.691924+00:00
+ - user: None
+ - tags: []
+
+## LunarTech - Empowering Tomorrow's Innovators
+ - [https://academy.lunartech.ai](https://academy.lunartech.ai)
+ - date published: 2024-05-23T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4298,7 +4322,7 @@
  - [https://x.ai](https://x.ai)
  - date published: 2023-11-06T17:18:02.778679+00:00
  - user: None
- - tags: []
+ - tags: ['artificial intelligence']
 
 ## Xanadu | Welcome to Xanadu
  - [https://www.xanadu.ai](https://www.xanadu.ai)
@@ -5971,30 +5995,6 @@
 ## Astrolize - Starter Template for Astro
  - [https://astro-starter-theme.netlify.app](https://astro-starter-theme.netlify.app)
  - date published: 2024-05-09T08:14:29.616339+00:00
- - user: None
- - tags: []
-
-## Ackee
- - [https://at-ackee.netlify.app](https://at-ackee.netlify.app)
- - date published: 2024-04-29T07:56:01.462065+00:00
- - user: None
- - tags: []
-
-## All posts
- - [https://clerestory.netlify.app](https://clerestory.netlify.app)
- - date published: 2024-02-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## CommandBar | AI-powered user assistance
- - [https://commandbar-marketing-site.netlify.app](https://commandbar-marketing-site.netlify.app)
- - date published: 2024-05-08T06:04:21.071159+00:00
- - user: None
- - tags: []
-
-## The Internet Reacts To Dogs
- - [https://convex-dashboard-react.netlify.app](https://convex-dashboard-react.netlify.app)
- - date published: 2024-04-29T07:30:28.920502+00:00
  - user: None
  - tags: []
 
