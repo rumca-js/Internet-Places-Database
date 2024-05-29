@@ -1,3 +1,123 @@
+## button mash | Alanna Okun | Substack
+ - [https://buttonmash.substack.com](https://buttonmash.substack.com)
+ - date published: 2023-10-25T09:44:29.640025+00:00
+ - user: None
+ - tags: ['substack']
+
+## Bytes, Data, Action! | Blake Burch | Substack
+ - [https://bytesdataaction.substack.com](https://bytesdataaction.substack.com)
+ - date published: 2023-10-25T09:44:30.830112+00:00
+ - user: None
+ - tags: ['substack']
+
+## Byte-Sized Design | Substack
+ - [https://bytesizeddesign.substack.com](https://bytesizeddesign.substack.com)
+ - date published: 2024-01-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Bzogramming | Charles Rosenbauer | Substack
+ - [https://bzogrammer.substack.com](https://bzogrammer.substack.com)
+ - date published: 2023-10-25T09:44:33.337037+00:00
+ - user: None
+ - tags: ['substack']
+
+## Cafétech | Jérôme Marin | Substack
+ - [https://cafetech.substack.com](https://cafetech.substack.com)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Caffeinated Writer | Michelle Richmond | Substack
+ - [https://caffeinatedwriter.substack.com](https://caffeinatedwriter.substack.com)
+ - date published: 2024-01-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CalculatedRisk Newsletter | CalculatedRisk by Bill McBride | Substack
+ - [https://calculatedrisk.substack.com](https://calculatedrisk.substack.com)
+ - date published: 2024-01-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The California Table | Georgia Freedman | Substack
+ - [https://californiatable.substack.com](https://californiatable.substack.com)
+ - date published: 2024-05-08T04:59:43.867542+00:00
+ - user: None
+ - tags: []
+
+## Mediations with Candost | Candost Dagdeviren | Substack
+ - [https://candost.substack.com](https://candost.substack.com)
+ - date published: 2023-11-29T14:20:57.397858+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Cannon Dispatch | T. Cannon | Substack
+ - [https://cannondispatch.substack.com](https://cannondispatch.substack.com)
+ - date published: 2024-04-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## mind-body connect | Cara Bradley | Substack
+ - [https://carabradley.substack.com](https://carabradley.substack.com)
+ - date published: 2024-05-10T06:47:26.930626+00:00
+ - user: None
+ - tags: []
+
+## High Growth Engineer | Jordan Cutler | Substack
+ - [https://careercutler.substack.com](https://careercutler.substack.com)
+ - date published: 2023-10-25T09:44:36.073675+00:00
+ - user: None
+ - tags: ['substack']
+
+## CAROL’s Substack | CAROL VORDERMAN | Substack
+ - [https://carolvorders.substack.com](https://carolvorders.substack.com)
+ - date published: 2024-05-08T04:05:04.746475+00:00
+ - user: None
+ - tags: []
+
+## Casey Accidental | Casey Winters | Substack
+ - [https://caseyaccidental.substack.com](https://caseyaccidental.substack.com)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Scribendi | Cass Morris | Substack
+ - [https://cassrmorris.substack.com](https://cassrmorris.substack.com)
+ - date published: 2024-05-08T04:33:33.631359+00:00
+ - user: None
+ - tags: []
+
+## How to Feel Alive with Catherine Price | Substack
+ - [https://catherineprice.substack.com](https://catherineprice.substack.com)
+ - date published: 2024-04-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Garbagetown | Catherynne M. Valente | Substack
+ - [https://catvalente.substack.com](https://catvalente.substack.com)
+ - date published: 2024-01-09T01:38:23.568122+00:00
+ - user: None
+ - tags: []
+
+## Scott's Substack | scott cunningham | Substack
+ - [https://causalinf.substack.com](https://causalinf.substack.com)
+ - date published: 2024-04-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Viruses Must Die | Chris Buck | Substack
+ - [https://cbuck.substack.com](https://cbuck.substack.com)
+ - date published: 2024-01-04T07:23:25.565849+00:00
+ - user: None
+ - tags: []
+
+## Error - Substack
+ - [https://cdn.substack.com](https://cdn.substack.com)
+ - date published: 2024-04-30T06:57:41.865518+00:00
+ - user: None
+ - tags: []
+
 ## Why Philosophy? | Céline Leboeuf | Substack
  - [https://celineleboeuf.substack.com](https://celineleboeuf.substack.com)
  - date published: 2024-01-08T00:00:00+00:00
@@ -5875,126 +5995,6 @@
 ## Simon's Blog | Simon Farshid | Substack
  - [https://yonom.substack.com](https://yonom.substack.com)
  - date published: 2024-01-09T01:46:10.208730+00:00
- - user: None
- - tags: []
-
-## Your Local Epidemiologist | Katelyn Jetelina | Substack
- - [https://yourlocalepidemiologist.substack.com](https://yourlocalepidemiologist.substack.com)
- - date published: 2024-01-09T01:46:11.980363+00:00
- - user: None
- - tags: []
-
-## YouTopian Journey | Substack
- - [https://youtopianjourney.substack.com](https://youtopianjourney.substack.com)
- - date published: 2024-05-06T23:15:11.049981+00:00
- - user: None
- - tags: []
-
-## In The Long Run | Zachary D. Carter | Substack
- - [https://zacharydcarter.substack.com](https://zacharydcarter.substack.com)
- - date published: 2023-10-25T10:07:50.275708+00:00
- - user: None
- - tags: ['substack']
-
-## Web Dev Explorer | Zachary Lee | Substack
- - [https://zacharylee.substack.com](https://zacharylee.substack.com)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Zach’s Newsletter | Zach Goldberg | Substack
- - [https://zachgoldberg.substack.com](https://zachgoldberg.substack.com)
- - date published: 2024-05-02T07:56:52.953843+00:00
- - user: None
- - tags: []
-
-## Leading Developers | Anton Zaides | Substack
- - [https://zaidesanton.substack.com](https://zaidesanton.substack.com)
- - date published: 2024-01-01T18:35:56.304888+00:00
- - user: None
- - tags: []
-
-## Slayback to the Future | Zak Slayback | Substack
- - [https://zakslayback.substack.com](https://zakslayback.substack.com)
- - date published: 2024-05-12T06:16:34.803231+00:00
- - user: None
- - tags: []
-
-## Insight Axis | Zan Tafakari | Substack
- - [https://zantafakari.substack.com](https://zantafakari.substack.com)
- - date published: 2024-01-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## zebra culture by kojo baffoe | Substack
- - [https://zebraculture.substack.com](https://zebraculture.substack.com)
- - date published: 2024-05-04T09:55:32.153938+00:00
- - user: None
- - tags: []
-
-## https://zeneca33.substack.com
- - [https://zeneca33.substack.com](https://zeneca33.substack.com)
- - date published: 2024-02-08T22:03:02.225518+00:00
- - user: None
- - tags: []
-
-## Data: Made Not Found (by danah) | danah boyd | Substack
- - [https://zephoria.substack.com](https://zephoria.substack.com)
- - date published: 2024-01-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## Zero HP Lovecraft | Substack
- - [https://zerohplovecraft.substack.com](https://zerohplovecraft.substack.com)
- - date published: 2024-03-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Zero Day | Kim Zetter | Substack
- - [https://zetter.substack.com](https://zetter.substack.com)
- - date published: 2023-10-25T10:07:53.099694+00:00
- - user: None
- - tags: ['substack']
-
-## Zach Ware | Substack
- - [https://zgware.substack.com](https://zgware.substack.com)
- - date published: 2024-05-07T18:53:43.796684+00:00
- - user: None
- - tags: []
-
-## Everything is Light | Zion Lights | Substack
- - [https://zionlights.substack.com](https://zionlights.substack.com)
- - date published: 2024-01-09T01:46:17.041180+00:00
- - user: None
- - tags: []
-
-## https://zverok.substack.com
- - [https://zverok.substack.com](https://zverok.substack.com)
- - date published: 2024-01-23T03:19:16.516653+00:00
- - user: None
- - tags: []
-
-## Same Difference | Sarah Valdman | Substack
- - [https://zworld.substack.com](https://zworld.substack.com)
- - date published: 2024-03-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## Custom Substack Embed - Customize your newsletter sign up form
- - [https://substackapi.com](https://substackapi.com)
- - date published: 2024-04-28T01:45:32.199954+00:00
- - user: None
- - tags: []
-
-## Error - Substack
- - [https://substackcdn.com](https://substackcdn.com)
- - date published: 2023-12-09T21:18:30.972024+00:00
- - user: None
- - tags: []
-
-## Home Page | SubTel Forum Industry Directory
- - [https://directory.subtelforum.com](https://directory.subtelforum.com)
- - date published: 2024-05-10T06:02:27.762537+00:00
  - user: None
  - tags: []
 

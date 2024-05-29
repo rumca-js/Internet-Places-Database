@@ -1,3 +1,249 @@
+## DEF CON 864 (DC864) Group – Upstate South Carolina's DEF CON Group
+ - [https://www.dc864.org](https://www.dc864.org)
+ - date published: 2024-05-08T03:34:02.356141+00:00
+ - user: None
+ - tags: []
+
+## A Data-Centric Introduction to Computing
+ - [https://dcic-world.org](https://dcic-world.org)
+ - date published: 2023-10-25T21:13:03.296556+00:00
+ - user: None
+ - tags: []
+
+## https://dconf.org
+ - [https://dconf.org](https://dconf.org)
+ - date published: 2024-01-09T03:38:54.424034+00:00
+ - user: None
+ - tags: []
+
+## D.C. Policy Center - D.C. Policy Center
+ - [https://www.dcpolicycenter.org](https://www.dcpolicycenter.org)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DCU | Personal & Business Banking | Digital Federal Credit Union
+ - [https://www.dcu.org](https://www.dcu.org)
+ - date published: 2024-05-01T06:40:18.183214+00:00
+ - user: None
+ - tags: []
+
+## Dragon's Den – Online MUD running since 1990
+ - [https://dden.org](https://dden.org)
+ - date published: 2024-03-27T20:47:06.596397+00:00
+ - user: None
+ - tags: []
+
+## Dean Cooke Rare Books Ltd
+ - [https://deancooke.org](https://deancooke.org)
+ - date published: 2024-05-07T10:25:27.513186+00:00
+ - user: None
+ - tags: []
+
+## Dean Sas
+ - [https://deansas.org](https://deansas.org)
+ - date published: 2024-01-14T08:12:43.240733+00:00
+ - user: None
+ - tags: []
+
+## Death by Numbers
+ - [https://www.deathbynumbers.org](https://www.deathbynumbers.org)
+ - date published: 2024-01-31T17:31:00.173984+00:00
+ - user: None
+ - tags: []
+
+## Death Penalty Information Center
+ - [https://deathpenaltyinfo.org](https://deathpenaltyinfo.org)
+ - date published: 2024-02-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Inici - deba-t.org
+ - [http://deba-t.org](http://deba-t.org)
+ - date published: 2023-10-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DebConf 23
+ - [https://debconf23.debconf.org](https://debconf23.debconf.org)
+ - date published: 2024-05-01T02:44:47.706728+00:00
+ - user: None
+ - tags: []
+
+## anonscm
+ - [https://anonscm.debian.org](https://anonscm.debian.org)
+ - date published: 2018-05-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Bits from Debian - Blog from the Debian Project
+ - [https://bits.debian.org](https://bits.debian.org)
+ - date published: 2023-10-25T21:13:16.611368+00:00
+ - user: None
+ - tags: []
+
+## Debian bug tracking system
+ - [https://bugs.debian.org](https://bugs.debian.org)
+ - date published: 2023-10-25T21:13:19.916026+00:00
+ - user: None
+ - tags: []
+
+## Debian on CDs/DVDs
+ - [https://cdimage.debian.org](https://cdimage.debian.org)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Debian Contributors
+ - [https://contributors.debian.org](https://contributors.debian.org)
+ - date published: 2024-05-13T02:41:43.039252+00:00
+ - user: None
+ - tags: []
+
+## Debian Mailing Lists -- Index
+ - [https://lists.debian.org](https://lists.debian.org)
+ - date published: 2023-10-25T21:13:21.561311+00:00
+ - user: None
+ - tags: []
+
+## index — Debian Manpages
+ - [https://manpages.debian.org](https://manpages.debian.org)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Index of /
+ - [http://metadata.ftp-master.debian.org](http://metadata.ftp-master.debian.org)
+ - date published: 2024-05-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Debian micronews
+ - [https://micronews.debian.org](https://micronews.debian.org)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Debian -- Packages
+ - [https://packages.debian.org](https://packages.debian.org)
+ - date published: 2023-12-11T00:00:00+00:00
+ - user: rumpel
+ - tags: ['app store']
+
+## Planet Debian
+ - [https://planet.debian.org](https://planet.debian.org)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Debian Ports
+ - [https://ports.debian.org](https://ports.debian.org)
+ - date published: 2024-04-29T06:17:50.999742+00:00
+ - user: None
+ - tags: []
+
+## Debian Quality Assurance
+ - [https://qa.debian.org](https://qa.debian.org)
+ - date published: 2023-10-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Explore projects · GitLab
+ - [https://salsa.debian.org](https://salsa.debian.org)
+ - date published: 2024-04-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Debian Search
+ - [https://search.debian.org](https://search.debian.org)
+ - date published: 2024-05-09T04:07:46.233396+00:00
+ - user: None
+ - tags: []
+
+## Security Bug Tracker
+ - [https://security-tracker.debian.org](https://security-tracker.debian.org)
+ - date published: 2024-05-24T16:28:42.455360+00:00
+ - user: None
+ - tags: []
+
+## snapshot.debian.org
+ - [https://snapshot.debian.org](https://snapshot.debian.org)
+ - date published: 2024-05-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Debian Package Tracker
+ - [https://tracker.debian.org](https://tracker.debian.org)
+ - date published: 2024-05-08T09:00:27.031491+00:00
+ - user: None
+ - tags: []
+
+## FrontPage - Debian Wiki
+ - [https://wiki.debian.org](https://wiki.debian.org)
+ - date published: 2023-10-25T21:13:23.896963+00:00
+ - user: None
+ - tags: []
+
+## Debian -- The Universal Operating System
+ - [https://www.debian.org](https://www.debian.org)
+ - date published: 2023-10-25T08:32:06.148094+00:00
+ - user: None
+ - tags: ['operating system', 'linux']
+
+## Home - Dynamic Eclipse Broadcast Initiative
+ - [https://debinitiative.org](https://debinitiative.org)
+ - date published: 2024-04-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DEBS 2022
+ - [https://2022.debs.org](https://2022.debs.org)
+ - date published: 2024-05-04T15:44:04.506411+00:00
+ - user: None
+ - tags: []
+
+## Decap CMS | Open-Source Content Management System
+ - [https://decapcms.org](https://decapcms.org)
+ - date published: 2024-02-22T15:20:54.347827+00:00
+ - user: None
+ - tags: []
+
+## Decent | Home
+ - [https://www.decent-dao.org](https://www.decent-dao.org)
+ - date published: 2024-04-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Decentraland
+ - [https://decentraland.org](https://decentraland.org)
+ - date published: 2024-05-04T14:16:59.983963+00:00
+ - user: None
+ - tags: []
+
+## Allconnect.com: Find Internet Providers Near You | 844-845-3968
+ - [https://decisiondata.org](https://decisiondata.org)
+ - date published: 2023-10-25T21:13:30.075023+00:00
+ - user: None
+ - tags: []
+
+## Deckbox
+ - [https://deckbox.org](https://deckbox.org)
+ - date published: 2024-05-04T08:32:05.106004+00:00
+ - user: None
+ - tags: []
+
+## AI Content Declaration
+ - [https://declare-ai.org](https://declare-ai.org)
+ - date published: 2024-05-13T02:45:01.608029+00:00
+ - user: None
+ - tags: []
+
+## Declassified Australia
+ - [https://declassifiedaus.org](https://declassifiedaus.org)
+ - date published: 2023-10-25T21:13:35.111668+00:00
+ - user: None
+ - tags: []
+
 ## Declassified UK
  - [https://www.declassifieduk.org](https://www.declassifieduk.org)
  - date published: 2024-01-15T00:00:00+00:00
@@ -3214,6 +3460,18 @@
  - user: None
  - tags: []
 
+## EncycloReader
+ - [https://encycloreader.org](https://encycloreader.org)
+ - date published: 2024-05-28T21:23:04.175006+00:00
+ - user: None
+ - tags: []
+
+## EncycloSearch
+ - [https://encyclosearch.org](https://encyclosearch.org)
+ - date published: 2024-05-28T21:22:51.683366+00:00
+ - user: None
+ - tags: []
+
 ## Knowledge Standards Foundation
  - [https://encyclosphere.org](https://encyclosphere.org)
  - date published: 2024-02-16T00:00:00+00:00
@@ -5740,262 +5998,4 @@ Archive
  - date published: 2024-05-01T00:00:00+00:00
  - user: None
  - tags: ['video game', 'quake', 'open source']
-
-## FOSDEM24 - Previous FOSDEM Editions
- - [https://archive.fosdem.org](https://archive.fosdem.org)
- - date published: 2023-10-25T21:22:00.131913+00:00
- - user: None
- - tags: []
-
-## FOSDEM24 - Home
- - [https://fosdem.org](https://fosdem.org)
- - date published: 2023-10-25T21:22:01.486923+00:00
- - user: None
- - tags: ['open source', 'convention']
-
-## FOSDEM - video recordings
- - [https://video.fosdem.org](https://video.fosdem.org)
- - date published: 2024-05-09T02:33:08.823511+00:00
- - user: None
- - tags: []
-
-## FOSDEM 2024 - Home
- - [https://www.fosdem.org](https://www.fosdem.org)
- - date published: 2024-05-14T04:00:12.557612+00:00
- - user: None
- - tags: []
-
-## FOSS and Crafts
- - [https://fossandcrafts.org](https://fossandcrafts.org)
- - date published: 2023-10-25T21:22:03.037482+00:00
- - user: None
- - tags: []
-
-## FOSSDLE Social - Mastodon
- - [https://social.fossdle.org](https://social.fossdle.org)
- - date published: 2024-05-15T20:53:59.939848+00:00
- - user: None
- - tags: []
-
-## None
- - [https://fosshost.org](https://fosshost.org)
- - date published: 2024-01-09T03:39:31.584866+00:00
- - user: None
- - tags: []
-
-## Fossify GitHub Page
- - [https://www.fossify.org](https://www.fossify.org)
- - date published: 2024-01-15T18:29:40+00:00
- - user: rumpel
- - tags: []
-
-## Fossil: A Coherent Software Configuration Management System
- - [https://fossil-scm.org](https://fossil-scm.org)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Fossil: Home
- - [https://www.fossil-scm.org](https://www.fossil-scm.org)
- - date published: 2023-10-25T21:22:05.638420+00:00
- - user: None
- - tags: []
-
-## | FOSSlife
- - [https://www.fosslife.org](https://www.fosslife.org)
- - date published: 2024-01-09T03:39:33.696357+00:00
- - user: None
- - tags: []
-
-## Fosstodon
- - [https://fosstodon.org](https://fosstodon.org)
- - date published: 2023-10-24T20:13:36.118898+00:00
- - user: None
- - tags: ['mastodon', 'open source']
-
-## Fosstodon Hub
- - [https://hub.fosstodon.org](https://hub.fosstodon.org)
- - date published: 2023-10-25T21:22:06.810545+00:00
- - user: None
- - tags: ['mastodon']
-
-## Ellenberger Architecture | Architectural practice in the California Bay Area, with experience in commercial, civic, healthcare, education, and residential projects.
- - [https://www.fotuva.org](https://www.fotuva.org)
- - date published: 2024-01-09T03:39:38.501537+00:00
- - user: None
- - tags: []
-
-## Home – Center on Long-Term Risk
- - [http://foundational-research.org](http://foundational-research.org)
- - date published: 2024-05-07T09:59:32.867779+00:00
- - user: None
- - tags: []
-
-## FoundationDB | Home
- - [https://www.foundationdb.org](https://www.foundationdb.org)
- - date published: 2024-04-29T07:32:02.352669+00:00
- - user: None
- - tags: []
-
-## Found on the Web
- - [http://foundontheweb.org](http://foundontheweb.org)
- - date published: 2024-05-04T07:41:05.022388+00:00
- - user: None
- - tags: []
-
-## FoundSF
- - [https://www.foundsf.org](https://www.foundsf.org)
- - date published: 2023-10-25T21:22:16.106715+00:00
- - user: None
- - tags: []
-
-## Davenport Veterans Memorial Park
- - [https://www.fovmp.org](https://www.fovmp.org)
- - date published: 2024-05-11T11:36:32.752914+00:00
- - user: None
- - tags: []
-
-## The History of FoxPro
- - [http://www.foxprohistory.org](http://www.foxprohistory.org)
- - date published: 2023-10-25T21:22:16.878309+00:00
- - user: None
- - tags: []
-
-## FPBench
- - [https://fpbench.org](https://fpbench.org)
- - date published: 2024-05-06T22:45:53.943793+00:00
- - user: None
- - tags: []
-
-## Financial Partners Credit Union | Best CA Credit Union | Banking
- - [https://www.fpcu.org](https://www.fpcu.org)
- - date published: 2024-05-09T07:35:33.558950+00:00
- - user: None
- - tags: []
-
-## FreedomProject Academy | Faithfully Educating America
- - [https://fpeusa.org](https://fpeusa.org)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Foreign Policy Research Institute - International Policy Think Tank
- - [https://www.fpri.org](https://www.fpri.org)
- - date published: 2024-02-24T18:07:47.400683+00:00
- - user: None
- - tags: []
-
-## Home | Fermi Research Alliance
- - [https://www.fra-hq.org](https://www.fra-hq.org)
- - date published: 2024-05-08T02:51:20.818476+00:00
- - user: None
- - tags: []
-
-## Framablog – La route est longue mais la voie est libre…
- - [https://framablog.org](https://framablog.org)
- - date published: 2023-10-25T21:22:21.674069+00:00
- - user: None
- - tags: []
-
-## Alternatives to
- - [https://framaclic.org](https://framaclic.org)
- - date published: 2024-04-28T03:12:27.320988+00:00
- - user: None
- - tags: []
-
-## Framacolibri
- - [https://framacolibri.org](https://framacolibri.org)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Framaforms - Créez et diffusez vos formulaires facilement…
- - [https://framaforms.org](https://framaforms.org)
- - date published: 2024-05-10T04:32:53.658547+00:00
- - user: None
- - tags: []
-
-## Explore projects · GitLab
- - [https://framagit.org](https://framagit.org)
- - date published: 2024-04-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Framapiaf
- - [https://framapiaf.org](https://framapiaf.org)
- - date published: 2024-04-29T07:26:55.756075+00:00
- - user: None
- - tags: []
-
-## Contacter - Nous écrire
- - [https://contact.framasoft.org](https://contact.framasoft.org)
- - date published: 2024-05-08T09:00:14.665931+00:00
- - user: None
- - tags: []
-
-## Choose a language · Documentation Framasoft
- - [https://docs.framasoft.org](https://docs.framasoft.org)
- - date published: 2024-05-01T07:19:14.516478+00:00
- - user: None
- - tags: []
-
-## Framasoft
- - [https://framasoft.org](https://framasoft.org)
- - date published: 2024-05-08T09:00:07.612493+00:00
- - user: None
- - tags: []
-
-## Framasoft Weblate
- - [https://weblate.framasoft.org](https://weblate.framasoft.org)
- - date published: 2024-05-08T09:00:09.702214+00:00
- - user: None
- - tags: []
-
-## Framateam
- - [https://framateam.org](https://framateam.org)
- - date published: 2024-05-14T03:30:59.088808+00:00
- - user: None
- - tags: []
-
-## Framatube
- - [https://framatube.org](https://framatube.org)
- - date published: 2024-05-14T03:48:12.944045+00:00
- - user: None
- - tags: []
-
-## FrameWorks Institute
- - [https://www.frameworksinstitute.org](https://www.frameworksinstitute.org)
- - date published: 2024-05-06T13:18:26.715304+00:00
- - user: None
- - tags: []
-
-## Franck Goddio: Homepage
- - [https://www.franckgoddio.org](https://www.franckgoddio.org)
- - date published: 2023-10-25T21:22:23.863582+00:00
- - user: None
- - tags: ['personal']
-
-## Building static websites in Julia
- - [https://franklinjl.org](https://franklinjl.org)
- - date published: 2024-04-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Frank Y. Wang
- - [https://www.frankwang.org](https://www.frankwang.org)
- - date published: 2024-05-14T03:21:22.539146+00:00
- - user: None
- - tags: []
-
-## Fraser Institute
- - [https://fraserinstitute.org](https://fraserinstitute.org)
- - date published: 2023-10-25T21:22:27.402641+00:00
- - user: None
- - tags: []
-
-## Federal Reserve Bank of San Francisco
- - [https://www.frbsf.org](https://www.frbsf.org)
- - date published: 2024-01-17T15:40:24.538988+00:00
- - user: None
- - tags: []
 

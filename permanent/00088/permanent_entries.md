@@ -1,3 +1,261 @@
+## FOSDEM24 - Previous FOSDEM Editions
+ - [https://archive.fosdem.org](https://archive.fosdem.org)
+ - date published: 2023-10-25T21:22:00.131913+00:00
+ - user: None
+ - tags: []
+
+## FOSDEM24 - Home
+ - [https://fosdem.org](https://fosdem.org)
+ - date published: 2023-10-25T21:22:01.486923+00:00
+ - user: None
+ - tags: ['open source', 'convention']
+
+## FOSDEM - video recordings
+ - [https://video.fosdem.org](https://video.fosdem.org)
+ - date published: 2024-05-09T02:33:08.823511+00:00
+ - user: None
+ - tags: []
+
+## FOSDEM 2024 - Home
+ - [https://www.fosdem.org](https://www.fosdem.org)
+ - date published: 2024-05-14T04:00:12.557612+00:00
+ - user: None
+ - tags: []
+
+## FOSS and Crafts
+ - [https://fossandcrafts.org](https://fossandcrafts.org)
+ - date published: 2023-10-25T21:22:03.037482+00:00
+ - user: None
+ - tags: []
+
+## FOSSDLE Social - Mastodon
+ - [https://social.fossdle.org](https://social.fossdle.org)
+ - date published: 2024-05-15T20:53:59.939848+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://fosshost.org](https://fosshost.org)
+ - date published: 2024-01-09T03:39:31.584866+00:00
+ - user: None
+ - tags: []
+
+## Fossify GitHub Page
+ - [https://www.fossify.org](https://www.fossify.org)
+ - date published: 2024-01-15T18:29:40+00:00
+ - user: rumpel
+ - tags: []
+
+## Fossil: A Coherent Software Configuration Management System
+ - [https://fossil-scm.org](https://fossil-scm.org)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Fossil: Home
+ - [https://www.fossil-scm.org](https://www.fossil-scm.org)
+ - date published: 2023-10-25T21:22:05.638420+00:00
+ - user: None
+ - tags: []
+
+## | FOSSlife
+ - [https://www.fosslife.org](https://www.fosslife.org)
+ - date published: 2024-01-09T03:39:33.696357+00:00
+ - user: None
+ - tags: []
+
+## Fosstodon
+ - [https://fosstodon.org](https://fosstodon.org)
+ - date published: 2023-10-24T20:13:36.118898+00:00
+ - user: None
+ - tags: ['mastodon', 'open source']
+
+## Fosstodon Hub
+ - [https://hub.fosstodon.org](https://hub.fosstodon.org)
+ - date published: 2023-10-25T21:22:06.810545+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Ellenberger Architecture | Architectural practice in the California Bay Area, with experience in commercial, civic, healthcare, education, and residential projects.
+ - [https://www.fotuva.org](https://www.fotuva.org)
+ - date published: 2024-01-09T03:39:38.501537+00:00
+ - user: None
+ - tags: []
+
+## Home – Center on Long-Term Risk
+ - [http://foundational-research.org](http://foundational-research.org)
+ - date published: 2024-05-07T09:59:32.867779+00:00
+ - user: None
+ - tags: []
+
+## FoundationDB | Home
+ - [https://www.foundationdb.org](https://www.foundationdb.org)
+ - date published: 2024-04-29T07:32:02.352669+00:00
+ - user: None
+ - tags: []
+
+## Found on the Web
+ - [http://foundontheweb.org](http://foundontheweb.org)
+ - date published: 2024-05-04T07:41:05.022388+00:00
+ - user: None
+ - tags: []
+
+## FoundSF
+ - [https://www.foundsf.org](https://www.foundsf.org)
+ - date published: 2023-10-25T21:22:16.106715+00:00
+ - user: None
+ - tags: []
+
+## Davenport Veterans Memorial Park
+ - [https://www.fovmp.org](https://www.fovmp.org)
+ - date published: 2024-05-11T11:36:32.752914+00:00
+ - user: None
+ - tags: []
+
+## The History of FoxPro
+ - [http://www.foxprohistory.org](http://www.foxprohistory.org)
+ - date published: 2023-10-25T21:22:16.878309+00:00
+ - user: None
+ - tags: []
+
+## FPBench
+ - [https://fpbench.org](https://fpbench.org)
+ - date published: 2024-05-06T22:45:53.943793+00:00
+ - user: None
+ - tags: []
+
+## Financial Partners Credit Union | Best CA Credit Union | Banking
+ - [https://www.fpcu.org](https://www.fpcu.org)
+ - date published: 2024-05-09T07:35:33.558950+00:00
+ - user: None
+ - tags: []
+
+## FreedomProject Academy | Faithfully Educating America
+ - [https://fpeusa.org](https://fpeusa.org)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Foreign Policy Research Institute - International Policy Think Tank
+ - [https://www.fpri.org](https://www.fpri.org)
+ - date published: 2024-02-24T18:07:47.400683+00:00
+ - user: None
+ - tags: []
+
+## Home | Fermi Research Alliance
+ - [https://www.fra-hq.org](https://www.fra-hq.org)
+ - date published: 2024-05-08T02:51:20.818476+00:00
+ - user: None
+ - tags: []
+
+## Framablog – La route est longue mais la voie est libre…
+ - [https://framablog.org](https://framablog.org)
+ - date published: 2023-10-25T21:22:21.674069+00:00
+ - user: None
+ - tags: []
+
+## Alternatives to
+ - [https://framaclic.org](https://framaclic.org)
+ - date published: 2024-04-28T03:12:27.320988+00:00
+ - user: None
+ - tags: []
+
+## Framacolibri
+ - [https://framacolibri.org](https://framacolibri.org)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Framaforms - Créez et diffusez vos formulaires facilement…
+ - [https://framaforms.org](https://framaforms.org)
+ - date published: 2024-05-10T04:32:53.658547+00:00
+ - user: None
+ - tags: []
+
+## Explore projects · GitLab
+ - [https://framagit.org](https://framagit.org)
+ - date published: 2024-04-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Framapiaf
+ - [https://framapiaf.org](https://framapiaf.org)
+ - date published: 2024-04-29T07:26:55.756075+00:00
+ - user: None
+ - tags: []
+
+## Contacter - Nous écrire
+ - [https://contact.framasoft.org](https://contact.framasoft.org)
+ - date published: 2024-05-08T09:00:14.665931+00:00
+ - user: None
+ - tags: []
+
+## Choose a language · Documentation Framasoft
+ - [https://docs.framasoft.org](https://docs.framasoft.org)
+ - date published: 2024-05-01T07:19:14.516478+00:00
+ - user: None
+ - tags: []
+
+## Framasoft
+ - [https://framasoft.org](https://framasoft.org)
+ - date published: 2024-05-08T09:00:07.612493+00:00
+ - user: None
+ - tags: []
+
+## Framasoft Weblate
+ - [https://weblate.framasoft.org](https://weblate.framasoft.org)
+ - date published: 2024-05-08T09:00:09.702214+00:00
+ - user: None
+ - tags: []
+
+## Framateam
+ - [https://framateam.org](https://framateam.org)
+ - date published: 2024-05-14T03:30:59.088808+00:00
+ - user: None
+ - tags: []
+
+## Framatube
+ - [https://framatube.org](https://framatube.org)
+ - date published: 2024-05-14T03:48:12.944045+00:00
+ - user: None
+ - tags: []
+
+## FrameWorks Institute
+ - [https://www.frameworksinstitute.org](https://www.frameworksinstitute.org)
+ - date published: 2024-05-06T13:18:26.715304+00:00
+ - user: None
+ - tags: []
+
+## Franck Goddio: Homepage
+ - [https://www.franckgoddio.org](https://www.franckgoddio.org)
+ - date published: 2023-10-25T21:22:23.863582+00:00
+ - user: None
+ - tags: ['personal']
+
+## Building static websites in Julia
+ - [https://franklinjl.org](https://franklinjl.org)
+ - date published: 2024-04-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Frank Y. Wang
+ - [https://www.frankwang.org](https://www.frankwang.org)
+ - date published: 2024-05-14T03:21:22.539146+00:00
+ - user: None
+ - tags: []
+
+## Fraser Institute
+ - [https://fraserinstitute.org](https://fraserinstitute.org)
+ - date published: 2023-10-25T21:22:27.402641+00:00
+ - user: None
+ - tags: []
+
+## Federal Reserve Bank of San Francisco
+ - [https://www.frbsf.org](https://www.frbsf.org)
+ - date published: 2024-01-17T15:40:24.538988+00:00
+ - user: None
+ - tags: []
+
 ## Fred Hutchinson Cancer Center
  - [http://engage.fredhutch.org](http://engage.fredhutch.org)
  - date published: 2024-05-10T06:03:18.569418+00:00
@@ -2486,6 +2744,12 @@ encryption
 ## Welcome to GMPG
  - [https://gmpg.org](https://gmpg.org)
  - date published: 2023-12-11T15:48:25.754545+00:00
+ - user: None
+ - tags: []
+
+## Welcome to GMPG
+ - [http://gmpg.org](http://gmpg.org)
+ - date published: 2024-05-28T18:06:04.529572+00:00
  - user: None
  - tags: []
 
@@ -5746,268 +6010,4 @@ encryption
  - date published: 2024-01-01T00:00:00+00:00
  - user: rumpel
  - tags: ['standards']
-
-## IEEE.tv | Tune in to where technology lives.
- - [https://ieeetv.ieee.org](https://ieeetv.ieee.org)
- - date published: 2024-05-08T07:36:22.109230+00:00
- - user: None
- - tags: []
-
-## IEEE Xplore
- - [https://ieeexplore.ieee.org](https://ieeexplore.ieee.org)
- - date published: 2023-10-25T21:30:43.346715+00:00
- - user: None
- - tags: []
-
-## Electrical and Electronics Engineer Jobs - IEEE Job Site
- - [https://jobs.ieee.org](https://jobs.ieee.org)
- - date published: 2024-05-12T04:12:02.312745+00:00
- - user: None
- - tags: []
-
-## IEEE Region 8 Hosting
- - [https://r8.ieee.org](https://r8.ieee.org)
- - date published: 2024-04-28T03:57:06.820862+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://resourcecenter.ias.ieee.org](https://resourcecenter.ias.ieee.org)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## IEEE Standards Group Web Hosting - Home
- - [https://sagroups.ieee.org](https://sagroups.ieee.org)
- - date published: 2024-05-11T07:31:47.548350+00:00
- - user: None
- - tags: []
-
-## Home-SecDev2024 - IEEE Secure Development Conference
- - [https://secdev.ieee.org](https://secdev.ieee.org)
- - date published: 2024-05-08T10:32:25.980615+00:00
- - user: None
- - tags: []
-
-## Home - IEEE Web Hosting
- - [https://site.ieee.org](https://site.ieee.org)
- - date published: 2024-05-08T07:36:15.346900+00:00
- - user: None
- - tags: []
-
-## Home - IEEE Web Hosting
- - [http://sites.ieee.org](http://sites.ieee.org)
- - date published: 2024-04-28T03:58:32.884087+00:00
- - user: None
- - tags: []
-
-## IEEE Spectrum
- - [https://spectrum.ieee.org](https://spectrum.ieee.org)
- - date published: 2023-10-25T09:37:30.327947+00:00
- - user: None
- - tags: ['tech news']
-
-## IEEE Spectrum
- - [https://spectrumtest.ieee.org](https://spectrumtest.ieee.org)
- - date published: 2024-05-12T04:12:04.541319+00:00
- - user: None
- - tags: []
-
-## IEEE Standards Association
- - [https://standards.ieee.org](https://standards.ieee.org)
- - date published: 2024-04-29T02:50:07.839468+00:00
- - user: None
- - tags: []
-
-## The Institute
- - [http://theinstitute.ieee.org](http://theinstitute.ieee.org)
- - date published: 2024-05-09T09:11:42.166091+00:00
- - user: None
- - tags: []
-
-## IEEE - The world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
- - [https://www.ieee.org](https://www.ieee.org)
- - date published: 2024-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## IEEE802
- - [https://www.ieee802.org](https://www.ieee802.org)
- - date published: 2024-03-18T00:00:00+00:00
- - user: rumpel
- - tags: ['ieee802', 'standards', 'network']
-
-## IEEE Aerospace and Electronic Systems Society | IEEE AESS
- - [https://ieee-aess.org](https://ieee-aess.org)
- - date published: 2024-05-07T21:01:36.027227+00:00
- - user: None
- - tags: []
-
-## IEEE Computer Society
- - [https://doi.ieeecomputersociety.org](https://doi.ieeecomputersociety.org)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## EthicsPoint - IEEE
- - [http://www.ieee-ethics-reporting.org](http://www.ieee-ethics-reporting.org)
- - date published: 2024-05-08T07:36:14.422567+00:00
- - user: None
- - tags: []
-
-## None
- - [https://ieeeia.org](https://ieeeia.org)
- - date published: 2024-02-08T16:33:20.094299+00:00
- - user: None
- - tags: []
-
-## Home - 2024 IEEE International Conference on Robotics and Automation (ICRA 2024)
- - [https://2024.ieee-icra.org](https://2024.ieee-icra.org)
- - date published: 2023-11-06T06:13:14+00:00
- - user: None
- - tags: []
-
-## Conference on Intelligent Robots and Systems - IROS 2023
- - [https://ieee-iros.org](https://ieee-iros.org)
- - date published: 2024-05-10T05:00:47.174367+00:00
- - user: None
- - tags: []
-
-## IEEE European Symposium on Security and Privacy 2023 (EuroS&P)
- - [https://eurosp2023.ieee-security.org](https://eurosp2023.ieee-security.org)
- - date published: 2014-08-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## IEEE TCSP - IEEE Computer Security's Technical Community on Security and Privacy
- - [https://www.ieee-security.org](https://www.ieee-security.org)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## IEEFA | Institute for Energy Economics and Financial Analysis
- - [https://ieefa.org](https://ieefa.org)
- - date published: 2023-10-25T21:30:45.746945+00:00
- - user: None
- - tags: []
-
-## IEP EUA- Institutional Evaluation programme
- - [https://www.iep-qaa.org](https://www.iep-qaa.org)
- - date published: 2024-05-02T10:28:43.378933+00:00
- - user: None
- - tags: []
-
-## Request Rejected
- - [https://www.iers.org](https://www.iers.org)
- - date published: 2024-01-09T03:41:03.577257+00:00
- - user: None
- - tags: []
-
-## IETF Datatracker
- - [https://datatracker.ietf.org](https://datatracker.ietf.org)
- - date published: 2023-10-25T21:30:47.881444+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://ietf.org](https://ietf.org)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## IETF Mail List Archives
- - [https://mailarchive.ietf.org](https://mailarchive.ietf.org)
- - date published: 2024-05-04T15:30:32.788474+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://static.ietf.org](https://static.ietf.org)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## IETF - Status
- - [https://status.ietf.org](https://status.ietf.org)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://tools.ietf.org](https://tools.ietf.org)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## IETF Trust – IETF Trust
- - [https://trustee.ietf.org](https://trustee.ietf.org)
- - date published: 2024-05-08T07:36:54.216443+00:00
- - user: None
- - tags: []
-
-## IETF  | Internet Engineering Task Force
- - [https://www.ietf.org](https://www.ietf.org)
- - date published: 2023-10-25T21:30:48.819024+00:00
- - user: None
- - tags: ['organisation', 'standards', 'internet']
-
-## International Fund for Agricultural Development
- - [https://www.ifad.org](https://www.ifad.org)
- - date published: 2024-02-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Interactive Fiction Archive
- - [https://ifarchive.org](https://ifarchive.org)
- - date published: 2024-05-07T18:49:14.754464+00:00
- - user: None
- - tags: []
-
-## The Interactive Fiction Archive
- - [https://www.ifarchive.org](https://www.ifarchive.org)
- - date published: 1992-01-01T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## International Fund for Animal Welfare |  IFAW
- - [https://www.ifaw.org](https://www.ifaw.org)
- - date published: 2024-05-01T08:03:35.192617+00:00
- - user: None
- - tags: []
-
-## International Finance Corporation (IFC)
- - [http://www.ifc.org](http://www.ifc.org)
- - date published: 2024-05-12T07:30:11.940686+00:00
- - user: None
- - tags: []
-
-## IFComp News
- - [http://blog.ifcomp.org](http://blog.ifcomp.org)
- - date published: 2024-05-08T07:37:00.902248+00:00
- - user: None
- - tags: []
-
-## The Interactive Fiction Competition
- - [https://ifcomp.org](https://ifcomp.org)
- - date published: 2023-10-25T21:30:50.333081+00:00
- - user: None
- - tags: []
-
-## IfcOpenShell - The open source IFC toolkit and geometry engine
- - [https://ifcopenshell.org](https://ifcopenshell.org)
- - date published: 2024-05-10T05:59:23.453551+00:00
- - user: None
- - tags: []
-
-## The Interactive Fiction Database - IF and Text Adventures
- - [https://ifdb.org](https://ifdb.org)
- - date published: 2024-03-03T00:00:00+00:00
- - user: rumpel
- - tags: ['internet database']
-
-## 19th IFIP Summer School on Privacy and Identity Management 2024 - Generating Futures
- - [http://www.ifip-summerschool.org](http://www.ifip-summerschool.org)
- - date published: 2024-05-06T15:12:48.909188+00:00
- - user: None
- - tags: []
 

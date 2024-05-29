@@ -1,3 +1,181 @@
+## Admissions - UChicagoGRAD | The University of Chicago
+ - [https://apply-psd.uchicago.edu](https://apply-psd.uchicago.edu)
+ - date published: 2024-05-07T20:46:36.545286+00:00
+ - user: None
+ - tags: []
+
+## Becker Friedman Institute for Economics at University of Chicago — Frontier Research, Global Impact. | BFI
+ - [https://bfi.uchicago.edu](https://bfi.uchicago.edu)
+ - date published: 2023-10-25T18:59:59.078924+00:00
+ - user: None
+ - tags: []
+
+## Biological Sciences Division at the University of Chicago
+ - [https://biologicalsciences.uchicago.edu](https://biologicalsciences.uchicago.edu)
+ - date published: 2023-11-27T16:10:30.419743+00:00
+ - user: None
+ - tags: []
+
+## UChicago Biosciences | The University of Chicago
+ - [https://biosciences.uchicago.edu](https://biosciences.uchicago.edu)
+ - date published: 2024-05-07T20:46:05.638600+00:00
+ - user: None
+ - tags: []
+
+## Biological Sciences Collegiate Division
+ - [https://bscd.uchicago.edu](https://bscd.uchicago.edu)
+ - date published: 2024-05-07T20:46:08.412983+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://bsdis.uchicago.edu](https://bsdis.uchicago.edu)
+ - date published: 2024-05-07T20:46:01.960212+00:00
+ - user: None
+ - tags: []
+
+## Biological Sciences Postdoctoral Affairs and Association – Providing career and professional development training to BSD postdocs
+ - [https://bsdpostdoc.uchicago.edu](https://bsdpostdoc.uchicago.edu)
+ - date published: 2024-05-07T20:45:58.533847+00:00
+ - user: None
+ - tags: []
+
+## Search Home :: Library Catalog
+ - [https://catalog.lib.uchicago.edu](https://catalog.lib.uchicago.edu)
+ - date published: 2024-05-07T20:52:33.373077+00:00
+ - user: None
+ - tags: []
+
+## Center for Continuing Medical Education |
+ - [https://cme.uchicago.edu](https://cme.uchicago.edu)
+ - date published: 2024-05-07T20:46:10.878930+00:00
+ - user: None
+ - tags: []
+
+## Ecology & Evolution | The University of Chicago
+ - [https://ecologyandevolution.uchicago.edu](https://ecologyandevolution.uchicago.edu)
+ - date published: 2024-05-07T14:14:13.363606+00:00
+ - user: None
+ - tags: []
+
+## Calendar of Events | The University of Chicago
+ - [https://events.uchicago.edu](https://events.uchicago.edu)
+ - date published: 2024-05-07T20:46:00.260987+00:00
+ - user: None
+ - tags: []
+
+## Financial Mathematics | The University of Chicago
+ - [https://finmath.uchicago.edu](https://finmath.uchicago.edu)
+ - date published: 2024-05-01T04:44:01.419765+00:00
+ - user: None
+ - tags: []
+
+## Geophysical Sciences
+ - [https://geosci.uchicago.edu](https://geosci.uchicago.edu)
+ - date published: 2023-10-25T19:00:02.742597+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://givetomedicine.uchicago.edu](https://givetomedicine.uchicago.edu)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Glaze - Protecting Artists from Generative AI
+ - [https://glaze.cs.uchicago.edu](https://glaze.cs.uchicago.edu)
+ - date published: 2023-10-25T19:00:05.496930+00:00
+ - user: None
+ - tags: []
+
+## Home - UChicagoGRAD | The University of Chicago
+ - [https://grad.uchicago.edu](https://grad.uchicago.edu)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to
+ - [https://graham.uchicago.edu](https://graham.uchicago.edu)
+ - date published: 2024-05-07T20:46:53.098712+00:00
+ - user: None
+ - tags: []
+
+## Library Guides: Research Guides: Subject Guides
+ - [https://guides.lib.uchicago.edu](https://guides.lib.uchicago.edu)
+ - date published: 2024-05-07T20:52:31.938288+00:00
+ - user: None
+ - tags: []
+
+## Harris | The University of Chicago Harris School of Public Policy
+ - [http://harris.uchicago.edu](http://harris.uchicago.edu)
+ - date published: 2024-05-08T00:13:10.966049+00:00
+ - user: None
+ - tags: []
+
+## IFK
+ - [https://ifk.uchicago.edu](https://ifk.uchicago.edu)
+ - date published: 2024-02-24T18:19:38.969915+00:00
+ - user: None
+ - tags: []
+
+## Knowledge UChicago
+ - [https://knowledge.uchicago.edu](https://knowledge.uchicago.edu)
+ - date published: 2024-05-07T20:52:28.163602+00:00
+ - user: None
+ - tags: []
+
+## Neuroscience at the University of Chicago
+ - [https://neuroscience.uchicago.edu](https://neuroscience.uchicago.edu)
+ - date published: 2024-05-07T20:46:04.000431+00:00
+ - user: None
+ - tags: []
+
+## News
+                
+            
+            
+                
+                    
+                        - The University of Chicago Library News
+                    
+                
+            
+            - The University of Chicago Library
+ - [http://news.lib.uchicago.edu](http://news.lib.uchicago.edu)
+ - date published: 2024-08-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## University of Chicago News
+ - [https://news.uchicago.edu](https://news.uchicago.edu)
+ - date published: 2023-10-25T19:00:12.204385+00:00
+ - user: None
+ - tags: []
+
+## Nightshade: Protecting Copyright
+ - [https://nightshade.cs.uchicago.edu](https://nightshade.cs.uchicago.edu)
+ - date published: 2019-02-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sir Thomas Browne
+ - [http://penelope.uchicago.edu](http://penelope.uchicago.edu)
+ - date published: 2024-05-06T17:00:03.680182+00:00
+ - user: None
+ - tags: ['literature', 'writing']
+
+## Home | Pritzker School of Molecular Engineering | The University of Chicago
+ - [https://pme.uchicago.edu](https://pme.uchicago.edu)
+ - date published: 2023-10-25T11:20:47.091123+00:00
+ - user: None
+ - tags: []
+
+## The South Pole Telescope
+ - [https://pole.uchicago.edu](https://pole.uchicago.edu)
+ - date published: 2024-05-11T20:46:53.603684+00:00
+ - user: None
+ - tags: []
+
 ## University of Chicago Press
  - [https://press.uchicago.edu](https://press.uchicago.edu)
  - date published: 2024-05-04T14:26:31.219516+00:00
@@ -5845,174 +6023,6 @@
 ## USC Viterbi | Department of Biomedical Engineering
  - [https://bme.usc.edu](https://bme.usc.edu)
  - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Events Calendar
- - [https://calendar.usc.edu](https://calendar.usc.edu)
- - date published: 2024-05-07T22:01:40.345561+00:00
- - user: None
- - tags: []
-
-## Home - Sonny Astani @ USC Viterbi
- - [https://cee.usc.edu](https://cee.usc.edu)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Center for Economic and Social Research
- - [https://cesr.usc.edu](https://cesr.usc.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## USC Viterbi | Mork Family Department of Chemical Engineering & Materials Science
- - [https://chems.usc.edu](https://chems.usc.edu)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## CITCAP – This can be used for School or Department Affiliation
- - [https://citcap.usc.edu](https://citcap.usc.edu)
- - date published: 2024-05-07T22:01:07.653832+00:00
- - user: None
- - tags: []
-
-## CNI USC
- - [https://cni.usc.edu](https://cni.usc.edu)
- - date published: 2024-05-07T22:01:17.312284+00:00
- - user: None
- - tags: []
-
-## Center for Quantum Information Science and Technology – Ming Hsieh Department of Electrical Engineering
- - [http://cqist.usc.edu](http://cqist.usc.edu)
- - date published: 2024-05-07T22:01:01.632936+00:00
- - user: None
- - tags: []
-
-## Center for Religion and Civic Culture
- - [https://crcc.usc.edu](https://crcc.usc.edu)
- - date published: 2024-05-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Department of Animal Resources
- - [http://dar.usc.edu](http://dar.usc.edu)
- - date published: 2099-12-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## USC Viterbi | DATA SCIENCE PROGRAM
- - [https://datascience.usc.edu](https://datascience.usc.edu)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Department of Contracts and Grants
- - [http://dcg.usc.edu](http://dcg.usc.edu)
- - date published: 2024-05-07T22:02:20.203531+00:00
- - user: None
- - tags: []
-
-## University of Southern California
- - [http://digitallibrary.usc.edu](http://digitallibrary.usc.edu)
- - date published: 2024-05-04T15:14:40.912688+00:00
- - user: None
- - tags: []
-
-## Home | USC Dornsife College of Letters, Arts and Sciences
- - [https://dornsifeadmission.usc.edu](https://dornsifeadmission.usc.edu)
- - date published: 2024-05-07T22:00:53.972143+00:00
- - user: None
- - tags: []
-
-## USC Dana and David Dornsife College of Letters, Arts and Sciences
- - [https://dornsife.usc.edu](https://dornsife.usc.edu)
- - date published: 2023-10-25T19:04:25.118739+00:00
- - user: None
- - tags: []
-
-## Office for Equity, Equal Opportunity, and Title IX
- - [https://eeotix.usc.edu](https://eeotix.usc.edu)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## USC Viterbi | Engineering Writing Program
- - [https://eis.usc.edu](https://eis.usc.edu)
- - date published: 2024-04-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Emergency Information - USC
- - [https://emergency.usc.edu](https://emergency.usc.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## USC Leonard Davis School of Gerontology
- - [https://gero.usc.edu](https://gero.usc.edu)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## USC Gould School of Law | Top-Ranked On-Campus and Online Law School
- - [https://gould.usc.edu](https://gould.usc.edu)
- - date published: 2024-05-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## Graduate Admission - Graduate Admission
- - [https://gradadm.usc.edu](https://gradadm.usc.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## USC Schaeffer
- - [https://healthpolicy.usc.edu](https://healthpolicy.usc.edu)
- - date published: 2023-12-15T11:10:14.582512+00:00
- - user: None
- - tags: []
-
-## Human Research Protection Program
- - [http://hrpp.usc.edu](http://hrpp.usc.edu)
- - date published: 2024-05-07T22:07:23.398780+00:00
- - user: None
- - tags: []
-
-## Institutional Animal Care and Use Committee
- - [http://iacuc.usc.edu](http://iacuc.usc.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## USC Institute for Creative Technologies
- - [https://ict.usc.edu](https://ict.usc.edu)
- - date published: 2022-01-27T04:13:04+00:00
- - user: None
- - tags: []
-
-## USC Viterbi | DATA SCIENCE PROGRAM
- - [https://informatics.usc.edu](https://informatics.usc.edu)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## The USC Viterbi iPodia Program – Learning Together for a Better World
- - [http://ipodia.usc.edu](http://ipodia.usc.edu)
- - date published: 2024-05-07T22:08:43.704241+00:00
- - user: None
- - tags: []
-
-## USC Viterbi | Daniel J. Epstein Department of Industrial & Systems Engineering
- - [https://ise.usc.edu](https://ise.usc.edu)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## USC Information Sciences Insitute
- - [https://isi.usc.edu](https://isi.usc.edu)
- - date published: 2024-05-07T22:08:47.334294+00:00
  - user: None
  - tags: []
 

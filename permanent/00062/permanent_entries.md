@@ -1,3 +1,165 @@
+## Economic Democracy Initiative at Bard College
+ - [https://edi.bard.edu](https://edi.bard.edu)
+ - date published: 2024-05-12T05:46:40.670973+00:00
+ - user: None
+ - tags: []
+
+## The Bard Family Network at Bard College
+ - [https://families.bard.edu](https://families.bard.edu)
+ - date published: 2024-04-30T03:13:40.103087+00:00
+ - user: None
+ - tags: []
+
+## Home - Fisher Center at Bard
+ - [https://fishercenter.bard.edu](https://fishercenter.bard.edu)
+ - date published: 2024-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Giving at Bard College
+ - [https://giving.bard.edu](https://giving.bard.edu)
+ - date published: 2024-04-30T03:13:22.832473+00:00
+ - user: None
+ - tags: []
+
+## Health, Counseling, and Wellness at Bard College at Bard College
+ - [https://hcw.bard.edu](https://hcw.bard.edu)
+ - date published: 2024-04-30T03:13:30.419167+00:00
+ - user: None
+ - tags: []
+
+## Bard College
+ - [https://www.bard.edu](https://www.bard.edu)
+ - date published: 2023-10-25T18:47:01.280987+00:00
+ - user: None
+ - tags: []
+
+## Reacting to the Past
+ - [https://reacting.barnard.edu](https://reacting.barnard.edu)
+ - date published: 2024-05-09T05:24:59.795451+00:00
+ - user: None
+ - tags: []
+
+## About Baylor
+ - [https://about.web.baylor.edu](https://about.web.baylor.edu)
+ - date published: 2022-10-22T05:19:00+00:00
+ - user: None
+ - tags: []
+
+## Undergraduate Admissions
+ - [https://admissions.web.baylor.edu](https://admissions.web.baylor.edu)
+ - date published: 2022-05-20T15:32:00+00:00
+ - user: None
+ - tags: []
+
+## Advancement
+ - [https://advancement.web.baylor.edu](https://advancement.web.baylor.edu)
+ - date published: 2023-04-26T12:32:00+00:00
+ - user: None
+ - tags: []
+
+## Alumni
+ - [https://alumni.web.baylor.edu](https://alumni.web.baylor.edu)
+ - date published: 2023-07-05T13:18:00+00:00
+ - user: None
+ - tags: []
+
+## College of Arts & Sciences
+ - [https://artsandsciences.baylor.edu](https://artsandsciences.baylor.edu)
+ - date published: 2022-12-12T15:02:00+00:00
+ - user: None
+ - tags: []
+
+## Baylor University
+ - [https://bbis.baylor.edu](https://bbis.baylor.edu)
+ - date published: 2024-04-30T03:15:01.030395+00:00
+ - user: None
+ - tags: []
+
+## Hankamer School of Business
+ - [https://business.baylor.edu](https://business.baylor.edu)
+ - date published: 2022-06-07T10:09:00+00:00
+ - user: None
+ - tags: []
+
+## Events | Calendar | Baylor University
+ - [https://calendar.web.baylor.edu](https://calendar.web.baylor.edu)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cherry Award
+ - [https://cherryaward.web.baylor.edu](https://cherryaward.web.baylor.edu)
+ - date published: 2023-02-09T11:05:00+00:00
+ - user: None
+ - tags: []
+
+## Counseling Center
+ - [https://counselingcenter.web.baylor.edu](https://counselingcenter.web.baylor.edu)
+ - date published: 2023-04-24T11:42:00+00:00
+ - user: None
+ - tags: []
+
+## Legal Disclosures
+ - [https://disclosures.web.baylor.edu](https://disclosures.web.baylor.edu)
+ - date published: 2022-02-21T16:50:00+00:00
+ - user: None
+ - tags: []
+
+## Faculty and Staff
+ - [https://facultystaff.web.baylor.edu](https://facultystaff.web.baylor.edu)
+ - date published: 2023-01-05T13:26:00+00:00
+ - user: None
+ - tags: []
+
+## Give Light
+ - [https://givelight.web.baylor.edu](https://givelight.web.baylor.edu)
+ - date published: 2023-07-10T13:27:00+00:00
+ - user: None
+ - tags: []
+
+## Go
+ - [https://go.web.baylor.edu](https://go.web.baylor.edu)
+ - date published: 2022-05-19T09:43:00+00:00
+ - user: None
+ - tags: []
+
+## Graduate School
+ - [https://graduate.baylor.edu](https://graduate.baylor.edu)
+ - date published: 2023-05-16T15:56:00+00:00
+ - user: None
+ - tags: []
+
+## Hankamer School of Business
+ - [https://hankamer.baylor.edu](https://hankamer.baylor.edu)
+ - date published: 2022-06-07T10:09:00+00:00
+ - user: None
+ - tags: []
+
+## Honors College
+ - [https://honors.baylor.edu](https://honors.baylor.edu)
+ - date published: 2023-05-02T16:01:00+00:00
+ - user: None
+ - tags: []
+
+## Human Resources
+ - [https://hr.web.baylor.edu](https://hr.web.baylor.edu)
+ - date published: 2022-10-15T13:59:00+00:00
+ - user: None
+ - tags: []
+
+## Illuminate
+ - [https://illuminate.web.baylor.edu](https://illuminate.web.baylor.edu)
+ - date published: 2021-03-02T11:17:00+00:00
+ - user: None
+ - tags: []
+
+## Baylor Law School
+ - [https://law.baylor.edu](https://law.baylor.edu)
+ - date published: 2023-08-25T14:11:00+00:00
+ - user: None
+ - tags: []
+
 ## Senior Administration
  - [https://leadership.web.baylor.edu](https://leadership.web.baylor.edu)
  - date published: 2022-09-06T13:13:00+00:00
@@ -5843,169 +6005,6 @@
 ## Georgetown University in Washington DC
  - [https://www.georgetown.edu](https://www.georgetown.edu)
  - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home Page | Georgetown University Library
- - [https://www.library.georgetown.edu](https://www.library.georgetown.edu)
- - date published: 2024-05-12T07:26:19.938003+00:00
- - user: None
- - tags: []
-
-## Georgia Southern University | A Public Research University
- - [https://www.georgiasouthern.edu](https://www.georgiasouthern.edu)
- - date published: 2014-05-30T17:42:01+00:00
- - user: None
- - tags: []
-
-## Getty: Resources for Visual Art and Cultural Heritage
- - [https://getty.edu](https://getty.edu)
- - date published: 2024-01-09T02:59:10.633338+00:00
- - user: None
- - tags: []
-
-## The Getty Museum Store
- - [https://shop.getty.edu](https://shop.getty.edu)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://subscriptions.getty.edu](https://subscriptions.getty.edu)
- - date published: 2024-04-30T04:25:35.695582+00:00
- - user: None
- - tags: []
-
-## Getty: Resources for Visual Art and Cultural Heritage
- - [https://www.getty.edu](https://www.getty.edu)
- - date published: 2023-10-25T18:51:15.051347+00:00
- - user: None
- - tags: []
-
-## Speech Accent Archive
- - [http://accent.gmu.edu](http://accent.gmu.edu)
- - date published: 2024-02-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Accessibility @ Mason – George Mason University
- - [https://accessibility.gmu.edu](https://accessibility.gmu.edu)
- - date published: 2024-04-30T04:25:54.131087+00:00
- - user: None
- - tags: []
-
-## Home Page - Academic Advising
- - [https://advising.gmu.edu](https://advising.gmu.edu)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home Page
- - [http://alumni.gmu.edu](http://alumni.gmu.edu)
- - date published: 2024-04-30T04:29:06.154024+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://careers.gmu.edu](https://careers.gmu.edu)
- - date published: 2024-04-30T04:28:28.079759+00:00
- - user: None
- - tags: []
-
-## Cashier’s Office – Student Accounts Office
- - [http://cashiersoffice.gmu.edu](http://cashiersoffice.gmu.edu)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## George Mason University < George Mason University
- - [https://catalog.gmu.edu](https://catalog.gmu.edu)
- - date published: 2024-04-30T04:28:32.203342+00:00
- - user: None
- - tags: []
-
-## CEC
- - [https://cec.gmu.edu](https://cec.gmu.edu)
- - date published: 2024-04-30T04:25:41.501650+00:00
- - user: None
- - tags: []
-
-## Event Calendar
- - [https://cfa.calendar.gmu.edu](https://cfa.calendar.gmu.edu)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://chhs.gmu.edu](https://chhs.gmu.edu)
- - date published: 2024-04-30T04:27:23.529467+00:00
- - user: None
- - tags: []
-
-## 2024 Peak Bloom Predictions - International Cherry Blossom Prediction Competition
- - [https://competition.statistics.gmu.edu](https://competition.statistics.gmu.edu)
- - date published: 2024-03-01T20:30:41+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://computing.gmu.edu](https://computing.gmu.edu)
- - date published: 2024-04-30T04:25:46.875464+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://content.sitemasonry.gmu.edu](https://content.sitemasonry.gmu.edu)
- - date published: 2024-04-30T04:28:19.070514+00:00
- - user: None
- - tags: []
-
-## Yotam Gingold - Computational Reality, Creativity and Graphics Lab (CraGL)
- - [https://cragl.cs.gmu.edu](https://cragl.cs.gmu.edu)
- - date published: 2024-04-28T03:54:50.045737+00:00
- - user: None
- - tags: []
-
-## Home |
-             George Mason Department of Computer Science
- - [https://cs.gmu.edu](https://cs.gmu.edu)
- - date published: 2024-01-09T02:59:13.641642+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://cvpa.gmu.edu](https://cvpa.gmu.edu)
- - date published: 2024-04-30T04:28:49.181719+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://diversity.gmu.edu](https://diversity.gmu.edu)
- - date published: 2024-04-30T04:26:08.756307+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://faculty.gmu.edu](https://faculty.gmu.edu)
- - date published: 2024-04-30T04:28:26.008796+00:00
- - user: None
- - tags: []
-
-## Fiscal Services – George Mason University
- - [https://fiscal.gmu.edu](https://fiscal.gmu.edu)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://gch.gmu.edu](https://gch.gmu.edu)
- - date published: 2024-04-30T04:27:37.154365+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://gmu.edu](https://gmu.edu)
- - date published: 2024-04-30T04:28:24.321720+00:00
  - user: None
  - tags: []
 

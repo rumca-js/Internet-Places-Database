@@ -1,3 +1,165 @@
+## my.nmsu.edu
+ - [https://my.nmsu.edu](https://my.nmsu.edu)
+ - date published: 2024-05-07T19:47:16.602907+00:00
+ - user: None
+ - tags: []
+
+## 4-H Home
+ - [https://nm4h.nmsu.edu](https://nm4h.nmsu.edu)
+ - date published: 2024-05-07T19:46:56.710859+00:00
+ - user: None
+ - tags: []
+
+## NM Beef Home
+ - [https://nmbeef.nmsu.edu](https://nmbeef.nmsu.edu)
+ - date published: 2024-03-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## New Mexico State University | BE BOLD. Shape the Future.
+ - [https://nmsu.edu](https://nmsu.edu)
+ - date published: 2024-05-07T19:47:23.389773+00:00
+ - user: None
+ - tags: []
+
+## Aggie One Stop
+ - [https://onestop.nmsu.edu](https://onestop.nmsu.edu)
+ - date published: 2024-05-07T19:47:53.681436+00:00
+ - user: None
+ - tags: []
+
+## SWBFPEPC Home
+ - [https://preparedness.nmsu.edu](https://preparedness.nmsu.edu)
+ - date published: 2024-05-07T19:47:32.294377+00:00
+ - user: None
+ - tags: []
+
+## Publications | CES
+ - [https://pubs.nmsu.edu](https://pubs.nmsu.edu)
+ - date published: 2024-05-07T19:47:14.337909+00:00
+ - user: None
+ - tags: []
+
+## Home | New Mexico State University - BE BOLD. Shape the Future.
+ - [https://records.nmsu.edu](https://records.nmsu.edu)
+ - date published: 2024-05-07T19:47:29.219047+00:00
+ - user: None
+ - tags: []
+
+## Sam Steel Society Home
+ - [https://samsteel.nmsu.edu](https://samsteel.nmsu.edu)
+ - date published: 2024-05-07T19:47:35.078081+00:00
+ - user: None
+ - tags: []
+
+## Valencia County Extension Office Home
+ - [http://valenciaextension.nmsu.edu](http://valenciaextension.nmsu.edu)
+ - date published: 2024-05-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## New Mexico State University | BE BOLD. Shape the Future.
+ - [https://www.nmsu.edu](https://www.nmsu.edu)
+ - date published: 2024-05-07T19:47:55.556660+00:00
+ - user: None
+ - tags: []
+
+## About the EPIC | EarthScope Primary Instrument Center
+ - [https://www.passcal.nmt.edu](https://www.passcal.nmt.edu)
+ - date published: 2024-05-09T07:09:20.926833+00:00
+ - user: None
+ - tags: []
+
+## Public University in Michigan | Northern Michigan University
+ - [https://www.nmu.edu](https://www.nmu.edu)
+ - date published: 2024-05-08T04:30:43.607589+00:00
+ - user: None
+ - tags: []
+
+## Welcome! - The Mathematics Genealogy Project
+ - [http://genealogy.math.ndsu.nodak.edu](http://genealogy.math.ndsu.nodak.edu)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sign in - Matomo
+ - [https://matomo.noirlab.edu](https://matomo.noirlab.edu)
+ - date published: 2024-05-07T19:48:05.266631+00:00
+ - user: None
+ - tags: []
+
+## NOIRLab / NSF’s National Optical-IR Astronomy Research Laboratory
+ - [https://noirlab.edu](https://noirlab.edu)
+ - date published: 2024-01-09T02:59:27.072163+00:00
+ - user: None
+ - tags: []
+
+## NOIRLab / NSF’s National Optical-IR Astronomy Research Laboratory
+ - [https://www.noirlab.edu](https://www.noirlab.edu)
+ - date published: 2024-05-07T19:48:11.614482+00:00
+ - user: None
+ - tags: []
+
+## NOLS | The Leader in Wilderness Education
+ - [http://www.nols.edu](http://www.nols.edu)
+ - date published: 2024-05-10T06:59:56.449167+00:00
+ - user: None
+ - tags: []
+
+## UNC System – UNC System
+ - [https://www.northcarolina.edu](https://www.northcarolina.edu)
+ - date published: 2024-05-07T21:38:45.841567+00:00
+ - user: None
+ - tags: []
+
+## Home - Northeastern University College of Science
+ - [https://cos.northeastern.edu](https://cos.northeastern.edu)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CV4Smalls Workshop – Just another Sites at Northeastern site
+ - [https://cv4smalls.sites.northeastern.edu](https://cv4smalls.sites.northeastern.edu)
+ - date published: 2024-01-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Department of Electrical & Computer Engineering - Northeastern University
+ - [https://ece.northeastern.edu](https://ece.northeastern.edu)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Khoury College of Computer Sciences
+ - [https://khoury.northeastern.edu](https://khoury.northeastern.edu)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Northeastern Global News - News, Discovery, and Analysis from Around the World
+ - [https://news.northeastern.edu](https://news.northeastern.edu)
+ - date published: 2023-10-25T18:55:44.990462+00:00
+ - user: None
+ - tags: []
+
+## Home - Northeastern University
+ - [https://northeastern.edu](https://northeastern.edu)
+ - date published: 2024-05-02T10:14:10.515291+00:00
+ - user: None
+ - tags: []
+
+## Home - Programming Research Laboratory - Northeastern University
+ - [https://prl.khoury.northeastern.edu](https://prl.khoury.northeastern.edu)
+ - date published: 2023-10-25T18:55:46.864652+00:00
+ - user: None
+ - tags: []
+
+## Home - Khoury College of Computer Sciences
+ - [https://www.khoury.northeastern.edu](https://www.khoury.northeastern.edu)
+ - date published: 2024-05-01T04:12:37.306814+00:00
+ - user: None
+ - tags: []
+
 ## linkedinlearning – LinkedIn Learning offers more than 5,000 on-demand courses on business, creative, and technology skills, and it’s available at no additional cost
  - [https://www.linkedinlearning.northeastern.edu](https://www.linkedinlearning.northeastern.edu)
  - date published: 2024-05-07T19:53:17.462127+00:00
@@ -3007,6 +3169,12 @@
  - user: None
  - tags: []
 
+## Rutgers University, Electrical & Computer Engineering
+ - [https://www.ece.rutgers.edu](https://www.ece.rutgers.edu)
+ - date published: 2024-05-28T22:18:11.288636+00:00
+ - user: None
+ - tags: []
+
 ## Welcome
  - [http://www.finmath.rutgers.edu](http://www.finmath.rutgers.edu)
  - date published: 2024-05-07T20:15:56.951478+00:00
@@ -5831,184 +5999,6 @@
 ## Home | UChicago Alumni Weekend
  - [https://alumniweekend.uchicago.edu](https://alumniweekend.uchicago.edu)
  - date published: 2024-05-07T14:13:58.243002+00:00
- - user: None
- - tags: []
-
-## Admissions - UChicagoGRAD | The University of Chicago
- - [https://apply-psd.uchicago.edu](https://apply-psd.uchicago.edu)
- - date published: 2024-05-07T20:46:36.545286+00:00
- - user: None
- - tags: []
-
-## Becker Friedman Institute for Economics at University of Chicago — Frontier Research, Global Impact. | BFI
- - [https://bfi.uchicago.edu](https://bfi.uchicago.edu)
- - date published: 2023-10-25T18:59:59.078924+00:00
- - user: None
- - tags: []
-
-## Biological Sciences Division at the University of Chicago
- - [https://biologicalsciences.uchicago.edu](https://biologicalsciences.uchicago.edu)
- - date published: 2023-11-27T16:10:30.419743+00:00
- - user: None
- - tags: []
-
-## UChicago Biosciences | The University of Chicago
- - [https://biosciences.uchicago.edu](https://biosciences.uchicago.edu)
- - date published: 2024-05-07T20:46:05.638600+00:00
- - user: None
- - tags: []
-
-## Biological Sciences Collegiate Division
- - [https://bscd.uchicago.edu](https://bscd.uchicago.edu)
- - date published: 2024-05-07T20:46:08.412983+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://bsdis.uchicago.edu](https://bsdis.uchicago.edu)
- - date published: 2024-05-07T20:46:01.960212+00:00
- - user: None
- - tags: []
-
-## Biological Sciences Postdoctoral Affairs and Association – Providing career and professional development training to BSD postdocs
- - [https://bsdpostdoc.uchicago.edu](https://bsdpostdoc.uchicago.edu)
- - date published: 2024-05-07T20:45:58.533847+00:00
- - user: None
- - tags: []
-
-## Search Home :: Library Catalog
- - [https://catalog.lib.uchicago.edu](https://catalog.lib.uchicago.edu)
- - date published: 2024-05-07T20:52:33.373077+00:00
- - user: None
- - tags: []
-
-## Center for Continuing Medical Education |
- - [https://cme.uchicago.edu](https://cme.uchicago.edu)
- - date published: 2024-05-07T20:46:10.878930+00:00
- - user: None
- - tags: []
-
-## Ecology & Evolution | The University of Chicago
- - [https://ecologyandevolution.uchicago.edu](https://ecologyandevolution.uchicago.edu)
- - date published: 2024-05-07T14:14:13.363606+00:00
- - user: None
- - tags: []
-
-## Calendar of Events | The University of Chicago
- - [https://events.uchicago.edu](https://events.uchicago.edu)
- - date published: 2024-05-07T20:46:00.260987+00:00
- - user: None
- - tags: []
-
-## Financial Mathematics | The University of Chicago
- - [https://finmath.uchicago.edu](https://finmath.uchicago.edu)
- - date published: 2024-05-01T04:44:01.419765+00:00
- - user: None
- - tags: []
-
-## Geophysical Sciences
- - [https://geosci.uchicago.edu](https://geosci.uchicago.edu)
- - date published: 2023-10-25T19:00:02.742597+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://givetomedicine.uchicago.edu](https://givetomedicine.uchicago.edu)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Glaze - Protecting Artists from Generative AI
- - [https://glaze.cs.uchicago.edu](https://glaze.cs.uchicago.edu)
- - date published: 2023-10-25T19:00:05.496930+00:00
- - user: None
- - tags: []
-
-## Home - UChicagoGRAD | The University of Chicago
- - [https://grad.uchicago.edu](https://grad.uchicago.edu)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome to
- - [https://graham.uchicago.edu](https://graham.uchicago.edu)
- - date published: 2024-05-07T20:46:53.098712+00:00
- - user: None
- - tags: []
-
-## Library Guides: Research Guides: Subject Guides
- - [https://guides.lib.uchicago.edu](https://guides.lib.uchicago.edu)
- - date published: 2024-05-07T20:52:31.938288+00:00
- - user: None
- - tags: []
-
-## Harris | The University of Chicago Harris School of Public Policy
- - [http://harris.uchicago.edu](http://harris.uchicago.edu)
- - date published: 2024-05-08T00:13:10.966049+00:00
- - user: None
- - tags: []
-
-## IFK
- - [https://ifk.uchicago.edu](https://ifk.uchicago.edu)
- - date published: 2024-02-24T18:19:38.969915+00:00
- - user: None
- - tags: []
-
-## Knowledge UChicago
- - [https://knowledge.uchicago.edu](https://knowledge.uchicago.edu)
- - date published: 2024-05-07T20:52:28.163602+00:00
- - user: None
- - tags: []
-
-## Neuroscience at the University of Chicago
- - [https://neuroscience.uchicago.edu](https://neuroscience.uchicago.edu)
- - date published: 2024-05-07T20:46:04.000431+00:00
- - user: None
- - tags: []
-
-## News
-                
-            
-            
-                
-                    
-                        - The University of Chicago Library News
-                    
-                
-            
-            - The University of Chicago Library
- - [http://news.lib.uchicago.edu](http://news.lib.uchicago.edu)
- - date published: 2024-08-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## University of Chicago News
- - [https://news.uchicago.edu](https://news.uchicago.edu)
- - date published: 2023-10-25T19:00:12.204385+00:00
- - user: None
- - tags: []
-
-## Nightshade: Protecting Copyright
- - [https://nightshade.cs.uchicago.edu](https://nightshade.cs.uchicago.edu)
- - date published: 2019-02-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sir Thomas Browne
- - [http://penelope.uchicago.edu](http://penelope.uchicago.edu)
- - date published: 2024-05-06T17:00:03.680182+00:00
- - user: None
- - tags: ['literature', 'writing']
-
-## Home | Pritzker School of Molecular Engineering | The University of Chicago
- - [https://pme.uchicago.edu](https://pme.uchicago.edu)
- - date published: 2023-10-25T11:20:47.091123+00:00
- - user: None
- - tags: []
-
-## The South Pole Telescope
- - [https://pole.uchicago.edu](https://pole.uchicago.edu)
- - date published: 2024-05-11T20:46:53.603684+00:00
  - user: None
  - tags: []
 

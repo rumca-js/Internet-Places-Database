@@ -1,3 +1,123 @@
+## Your Local Epidemiologist | Katelyn Jetelina | Substack
+ - [https://yourlocalepidemiologist.substack.com](https://yourlocalepidemiologist.substack.com)
+ - date published: 2024-01-09T01:46:11.980363+00:00
+ - user: None
+ - tags: []
+
+## YouTopian Journey | Substack
+ - [https://youtopianjourney.substack.com](https://youtopianjourney.substack.com)
+ - date published: 2024-05-06T23:15:11.049981+00:00
+ - user: None
+ - tags: []
+
+## In The Long Run | Zachary D. Carter | Substack
+ - [https://zacharydcarter.substack.com](https://zacharydcarter.substack.com)
+ - date published: 2023-10-25T10:07:50.275708+00:00
+ - user: None
+ - tags: ['substack']
+
+## Web Dev Explorer | Zachary Lee | Substack
+ - [https://zacharylee.substack.com](https://zacharylee.substack.com)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Zach’s Newsletter | Zach Goldberg | Substack
+ - [https://zachgoldberg.substack.com](https://zachgoldberg.substack.com)
+ - date published: 2024-05-02T07:56:52.953843+00:00
+ - user: None
+ - tags: []
+
+## Leading Developers | Anton Zaides | Substack
+ - [https://zaidesanton.substack.com](https://zaidesanton.substack.com)
+ - date published: 2024-01-01T18:35:56.304888+00:00
+ - user: None
+ - tags: []
+
+## Slayback to the Future | Zak Slayback | Substack
+ - [https://zakslayback.substack.com](https://zakslayback.substack.com)
+ - date published: 2024-05-12T06:16:34.803231+00:00
+ - user: None
+ - tags: []
+
+## Insight Axis | Zan Tafakari | Substack
+ - [https://zantafakari.substack.com](https://zantafakari.substack.com)
+ - date published: 2024-01-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## zebra culture by kojo baffoe | Substack
+ - [https://zebraculture.substack.com](https://zebraculture.substack.com)
+ - date published: 2024-05-04T09:55:32.153938+00:00
+ - user: None
+ - tags: []
+
+## https://zeneca33.substack.com
+ - [https://zeneca33.substack.com](https://zeneca33.substack.com)
+ - date published: 2024-02-08T22:03:02.225518+00:00
+ - user: None
+ - tags: []
+
+## Data: Made Not Found (by danah) | danah boyd | Substack
+ - [https://zephoria.substack.com](https://zephoria.substack.com)
+ - date published: 2024-01-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Zero HP Lovecraft | Substack
+ - [https://zerohplovecraft.substack.com](https://zerohplovecraft.substack.com)
+ - date published: 2024-03-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Zero Day | Kim Zetter | Substack
+ - [https://zetter.substack.com](https://zetter.substack.com)
+ - date published: 2023-10-25T10:07:53.099694+00:00
+ - user: None
+ - tags: ['substack']
+
+## Zach Ware | Substack
+ - [https://zgware.substack.com](https://zgware.substack.com)
+ - date published: 2024-05-07T18:53:43.796684+00:00
+ - user: None
+ - tags: []
+
+## Everything is Light | Zion Lights | Substack
+ - [https://zionlights.substack.com](https://zionlights.substack.com)
+ - date published: 2024-01-09T01:46:17.041180+00:00
+ - user: None
+ - tags: []
+
+## https://zverok.substack.com
+ - [https://zverok.substack.com](https://zverok.substack.com)
+ - date published: 2024-01-23T03:19:16.516653+00:00
+ - user: None
+ - tags: []
+
+## Same Difference | Sarah Valdman | Substack
+ - [https://zworld.substack.com](https://zworld.substack.com)
+ - date published: 2024-03-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Custom Substack Embed - Customize your newsletter sign up form
+ - [https://substackapi.com](https://substackapi.com)
+ - date published: 2024-04-28T01:45:32.199954+00:00
+ - user: None
+ - tags: []
+
+## Error - Substack
+ - [https://substackcdn.com](https://substackcdn.com)
+ - date published: 2023-12-09T21:18:30.972024+00:00
+ - user: None
+ - tags: []
+
+## Home Page | SubTel Forum Industry Directory
+ - [https://directory.subtelforum.com](https://directory.subtelforum.com)
+ - date published: 2024-05-10T06:02:27.762537+00:00
+ - user: None
+ - tags: []
+
 ## Submarine Cable News and Analysis
  - [https://subtelforum.com](https://subtelforum.com)
  - date published: 2024-02-02T00:00:00+00:00
@@ -3088,6 +3208,12 @@
  - user: None
  - tags: []
 
+## Tampa Free Press - Tampa Bay Area Local Breaking News
+ - [https://www.tampafp.com](https://www.tampafp.com)
+ - date published: 2018-03-16T08:55:05+00:00
+ - user: None
+ - tags: []
+
 ## Americas Best TAMPS 2024 - Digital Dashboard
  - [https://lp.tamps.com](https://lp.tamps.com)
  - date published: 2024-05-06T17:19:58.385713+00:00
@@ -5871,130 +5997,4 @@
  - date published: 2023-12-21T08:23:31.688801+00:00
  - user: None
  - tags: ['personal']
-
-## The Cheapskate's Guide to Computers and the Internet
- - [https://biglist.terraaeon.com](https://biglist.terraaeon.com)
- - date published: 2024-05-06T15:03:34.600912+00:00
- - user: None
- - tags: []
-
-## The Cheapskate's Guide to Computers and the Internet
- - [https://misc-stuff.terraaeon.com](https://misc-stuff.terraaeon.com)
- - date published: 2024-01-09T02:50:33.791011+00:00
- - user: None
- - tags: []
-
-## Earth News, Earth Science, Energy Technology, Environment News
- - [https://www.terradaily.com](https://www.terradaily.com)
- - date published: 2024-04-28T00:00:00+00:00
- - user: None
- - tags: ['news']
-
-## Terraforma
- - [https://www.terraformafestival.com](https://www.terraformafestival.com)
- - date published: 2024-05-09T08:30:14.105907+00:00
- - user: None
- - tags: []
-
-## Overview
- - [https://terraform-compliance.com](https://terraform-compliance.com)
- - date published: 2024-05-04T15:48:48.242294+00:00
- - user: None
- - tags: []
-
-## Terraform: Up and Running
- - [https://www.terraformupandrunning.com](https://www.terraformupandrunning.com)
- - date published: 2022-09-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Terra Informatica Software – UI and frontend software design and consulting since 1991
- - [http://terrainformatica.com](http://terrainformatica.com)
- - date published: 2024-04-29T02:30:56.982437+00:00
- - user: None
- - tags: []
-
-## Best NAS Storage, RAID storage, Data Storage Master Online & More
- - [https://www.terra-master.com](https://www.terra-master.com)
- - date published: 2024-05-01T02:44:59.626815+00:00
- - user: None
- - tags: []
-
-## Terra Nova Press
- - [https://www.terranovapress.com](https://www.terranovapress.com)
- - date published: 2024-04-30T06:59:57.725961+00:00
- - user: None
- - tags: []
-
-## umami
- - [https://analytics.terrapin-attack.com](https://analytics.terrapin-attack.com)
- - date published: 2024-05-09T09:14:06.365504+00:00
- - user: None
- - tags: []
-
-## Terrapin Attack for prefix truncation in SSH
- - [https://terrapin-attack.com](https://terrapin-attack.com)
- - date published: 2023-12-18T16:47:14+00:00
- - user: None
- - tags: []
-
-## Terrapinn - Spark Something
- - [https://www.terrapinn.com](https://www.terrapinn.com)
- - date published: 2024-11-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Terra Player
- - [https://terraplayer.com](https://terraplayer.com)
- - date published: 2024-04-30T08:03:16.852848+00:00
- - user: None
- - tags: ['radio station', 'video games', 'video game news']
-
-## D2 Studio
- - [https://app.terrastruct.com](https://app.terrastruct.com)
- - date published: 2024-05-06T16:10:35.591514+00:00
- - user: None
- - tags: []
-
-## Terrastruct
- - [https://terrastruct.com](https://terrastruct.com)
- - date published: 2023-10-27T08:52:26.171059+00:00
- - user: None
- - tags: []
-
-## Terrastruct | Diagramming tools crafted to visualize software architecture
- - [https://www.terrastruct.com](https://www.terrastruct.com)
- - date published: 2023-10-25T17:27:01.530729+00:00
- - user: None
- - tags: []
-
-## Terra Tempe Kitchen & Spirits | Restaurant in Tempe, AZ
- - [https://terratempe.com](https://terratempe.com)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## TerraTrue :: Privacy by Design Tools
- - [https://terratrue.com](https://terratrue.com)
- - date published: 2024-04-30T02:00:10.927533+00:00
- - user: None
- - tags: []
-
-## TerraUnity – Create Real-World Data Into Realistic 3D Scenes In Unity Engine
- - [https://terraunity.com](https://terraunity.com)
- - date published: 2024-05-06T21:15:23.776547+00:00
- - user: None
- - tags: []
-
-## TerraUnity – Create Real-World Data Into Realistic 3D Scenes In Unity Engine
- - [https://www.terraunity.com](https://www.terraunity.com)
- - date published: 2024-05-06T21:15:28.163025+00:00
- - user: None
- - tags: []
-
-## Terre et Avenir – Et si les solutions de demain existaient déjà?
- - [http://terreetavenir.com](http://terreetavenir.com)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,141 @@
+## Ramani Sandeep
+ - [https://ramanisandeep.wordpress.com](https://ramanisandeep.wordpress.com)
+ - date published: 2024-04-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ramis Movassagh
+ - [https://ramismovassagh.wordpress.com](https://ramismovassagh.wordpress.com)
+ - date published: 2024-05-07T15:49:59.476882+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rare & Old Computers
+ - [https://randoc.wordpress.com](https://randoc.wordpress.com)
+ - date published: 2024-01-11T00:05:52.139920+00:00
+ - user: None
+ - tags: []
+
+## Random ASCII – tech blog of Bruce Dawson | Forecast for randomascii: programming, tech topics, with a chance of unicycling
+ - [https://randomascii.wordpress.com](https://randomascii.wordpress.com)
+ - date published: 2023-10-25T18:15:46.058749+00:00
+ - user: None
+ - tags: []
+
+## Rapid Oat
+ - [https://rapidoat.wordpress.com](https://rapidoat.wordpress.com)
+ - date published: 2024-04-30T07:32:55.242595+00:00
+ - user: None
+ - tags: []
+
+## Cooking in the Archives
+ - [https://rarecooking.wordpress.com](https://rarecooking.wordpress.com)
+ - date published: 2024-05-07T10:20:08.892218+00:00
+ - user: None
+ - tags: []
+
+## Rashim's Memoir
+ - [http://rashimuddin.wordpress.com](http://rashimuddin.wordpress.com)
+ - date published: 2024-04-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Rascality: Speeches to its Cultured Despisers
+ - [https://raskality.wordpress.com](https://raskality.wordpress.com)
+ - date published: 2023-10-25T18:15:57.058312+00:00
+ - user: None
+ - tags: []
+
+## Code happens
+ - [https://rbtcollins.wordpress.com](https://rbtcollins.wordpress.com)
+ - date published: 2024-05-19T02:44:35.657953+00:00
+ - user: None
+ - tags: []
+
+## Reading in Bed
+ - [http://readinginbeddotcom.wordpress.com](http://readinginbeddotcom.wordpress.com)
+ - date published: 2024-04-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Reasonablist
+ - [http://reasonablist.wordpress.com](http://reasonablist.wordpress.com)
+ - date published: 2024-05-02T10:06:49.215009+00:00
+ - user: None
+ - tags: []
+
+## receptekarakkal
+ - [http://receptekarakkal.wordpress.com](http://receptekarakkal.wordpress.com)
+ - date published: 2024-05-12T06:24:32.533175+00:00
+ - user: None
+ - tags: []
+
+## The Recompiler
+ - [https://recompiler.wordpress.com](https://recompiler.wordpress.com)
+ - date published: 2024-05-04T12:30:43.588270+00:00
+ - user: None
+ - tags: []
+
+## Rediscover911com's Blog
+ - [http://rediscover911com.wordpress.com](http://rediscover911com.wordpress.com)
+ - date published: 2024-05-01T03:03:06.343902+00:00
+ - user: None
+ - tags: []
+
+## Campbell's Alley
+ - [http://redracam.wordpress.com](http://redracam.wordpress.com)
+ - date published: 2024-05-01T03:03:13.641358+00:00
+ - user: None
+ - tags: []
+
+## WordPress.com Affiliate Program – Earn rewards promoting the world’s leading content management system.
+ - [https://refer.wordpress.com](https://refer.wordpress.com)
+ - date published: 2024-05-12T05:42:54.421026+00:00
+ - user: None
+ - tags: []
+
+## The Regency Redingote
+ - [http://regencyredingote.wordpress.com](http://regencyredingote.wordpress.com)
+ - date published: 2024-04-30T06:28:16.692819+00:00
+ - user: None
+ - tags: []
+
+## regularize
+ - [http://regularize.wordpress.com](http://regularize.wordpress.com)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Religion Compass
+ - [http://religioncompass.wordpress.com](http://religioncompass.wordpress.com)
+ - date published: 2024-05-06T23:49:13.072192+00:00
+ - user: None
+ - tags: []
+
+## Collectors Connection
+ - [http://renz15.wordpress.com](http://renz15.wordpress.com)
+ - date published: 2024-05-07T15:28:05.747506+00:00
+ - user: None
+ - tags: []
+
+## The Reinvigorated Programmer
+ - [https://reprog.wordpress.com](https://reprog.wordpress.com)
+ - date published: 2024-01-04T05:09:13.524593+00:00
+ - user: None
+ - tags: []
+
+## (no title)
+ - [https://rerightinghistorymj.wordpress.com](https://rerightinghistorymj.wordpress.com)
+ - date published: 2024-05-06T23:31:35.745810+00:00
+ - user: None
+ - tags: []
+
+## Adam's Vintage Computer Restorations
+ - [https://retrorepairsandrefurbs.wordpress.com](https://retrorepairsandrefurbs.wordpress.com)
+ - date published: 2024-04-28T04:44:46.439112+00:00
+ - user: None
+ - tags: []
+
 ## Richard Wilson's blog
  - [http://richardwilsonauthor.wordpress.com](http://richardwilsonauthor.wordpress.com)
  - date published: 2024-05-06T23:48:57.081738+00:00
@@ -4883,6 +5021,12 @@
  - tags: []
 
 ## Yahoo is part of the Yahoo family of brands
+ - [https://ca.finance.yahoo.com](https://ca.finance.yahoo.com)
+ - date published: 2024-05-28T17:47:24.947802+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
  - [https://ca.news.yahoo.com](https://ca.news.yahoo.com)
  - date published: 2023-10-25T18:22:19.311480+00:00
  - user: None
@@ -5851,150 +5995,6 @@
 ## Yottaa - Deliver superior digital experiences
  - [https://www.yottaa.com](https://www.yottaa.com)
  - date published: 2024-03-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## The AI Search Engine You Control | AI Chat & Apps
- - [https://you.com](https://you.com)
- - date published: 2023-10-25T18:23:08.879353+00:00
- - user: None
- - tags: ['artificial intelligence', 'search engine']
-
-## You Are Not Your Mother – Learning to Parent Differently
- - [https://youarenotyourmother.com](https://youarenotyourmother.com)
- - date published: 2024-02-04T03:30:31.061896+00:00
- - user: None
- - tags: []
-
-## 网易有道
- - [http://reader.youdao.com](http://reader.youdao.com)
- - date published: 2024-04-29T03:30:26.058500+00:00
- - user: None
- - tags: []
-
-## You Fly Like a Woman
- - [https://youflylikeawoman.com](https://youflylikeawoman.com)
- - date published: 2024-05-04T05:49:52.878742+00:00
- - user: None
- - tags: []
-
-## Improve Your الإنجليزية Pronunciation
- - [https://ar.youglish.com](https://ar.youglish.com)
- - date published: 2024-05-07T18:34:38.541360+00:00
- - user: None
- - tags: []
-
-## Improve Your Englisch Pronunciation
- - [https://de.youglish.com](https://de.youglish.com)
- - date published: 2024-05-07T18:34:35.767656+00:00
- - user: None
- - tags: []
-
-## Improve Your Inglés Pronunciation
- - [https://es.youglish.com](https://es.youglish.com)
- - date published: 2024-05-07T18:34:36.707363+00:00
- - user: None
- - tags: []
-
-## Improve Your Anglais Pronunciation
- - [https://fr.youglish.com](https://fr.youglish.com)
- - date published: 2024-05-07T18:34:39.603800+00:00
- - user: None
- - tags: []
-
-## Improve Your Inglese Pronunciation
- - [https://it.youglish.com](https://it.youglish.com)
- - date published: 2024-05-07T18:34:34.894127+00:00
- - user: None
- - tags: []
-
-## Improve Your Inglês Pronunciation
- - [https://pt.youglish.com](https://pt.youglish.com)
- - date published: 2024-05-07T18:34:37.752565+00:00
- - user: None
- - tags: []
-
-## Improve Your English Pronunciation
- - [https://youglish.com](https://youglish.com)
- - date published: 2024-01-09T02:55:40.353729+00:00
- - user: None
- - tags: []
-
-## YouGov
- - [https://account.yougov.com](https://account.yougov.com)
- - date published: 2024-05-06T17:43:41.266550+00:00
- - user: None
- - tags: []
-
-## YouGov Australia
- - [https://au.yougov.com](https://au.yougov.com)
- - date published: 2024-05-10T05:11:34.977803+00:00
- - user: None
- - tags: []
-
-## YouGov: Living Consumer Intelligence, Discover What Your Customers Are Thinking
- - [https://business.yougov.com](https://business.yougov.com)
- - date published: 2024-05-10T05:11:24.338520+00:00
- - user: None
- - tags: []
-
-## YouGov plc Corporate Homepage
- - [https://corporate.yougov.com](https://corporate.yougov.com)
- - date published: 2024-05-10T05:11:31.119452+00:00
- - user: None
- - tags: []
-
-## YouGov España
- - [https://es.yougov.com](https://es.yougov.com)
- - date published: 2024-05-10T05:11:21.516835+00:00
- - user: None
- - tags: []
-
-## Découvrez ce que pensent les Français - YouGov France
- - [https://fr.yougov.com](https://fr.yougov.com)
- - date published: 2024-05-10T05:11:47.019378+00:00
- - user: None
- - tags: []
-
-## YouGov Italia
- - [https://it.yougov.com](https://it.yougov.com)
- - date published: 2024-05-10T05:11:54.418874+00:00
- - user: None
- - tags: []
-
-## YouGov Jobs
- - [https://jobs.yougov.com](https://jobs.yougov.com)
- - date published: 2024-05-10T05:11:39.594128+00:00
- - user: None
- - tags: []
-
-## YouGov Platform
- - [https://platform.yougov.com](https://platform.yougov.com)
- - date published: 2024-05-10T05:11:32.105845+00:00
- - user: None
- - tags: []
-
-## YouGov Singapore
- - [https://sg.yougov.com](https://sg.yougov.com)
- - date published: 2024-05-10T05:11:37.336620+00:00
- - user: None
- - tags: []
-
-## YouGov | What the world thinks
- - [https://today.yougov.com](https://today.yougov.com)
- - date published: 2023-12-10T17:50:02.757757+00:00
- - user: None
- - tags: []
-
-## You Haven't Lived
- - [http://www.youhaventlived.com](http://www.youhaventlived.com)
- - date published: 2024-05-02T12:10:06.334279+00:00
- - user: None
- - tags: []
-
-## 用户登录
- - [http://i.youku.com](http://i.youku.com)
- - date published: 2024-05-04T11:47:04.059701+00:00
  - user: None
  - tags: []
 

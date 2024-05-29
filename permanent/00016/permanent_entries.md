@@ -1,3 +1,81 @@
+## Administration Console - Coveo Platform
+ - [https://platform.cloud.coveo.com](https://platform.cloud.coveo.com)
+ - date published: 2024-05-02T12:58:29.754437+00:00
+ - user: None
+ - tags: []
+
+## Administration Console - Coveo Platform
+ - [https://search.cloud.coveo.com](https://search.cloud.coveo.com)
+ - date published: 2024-05-01T07:47:38.656802+00:00
+ - user: None
+ - tags: []
+
+## Coveo: AI-powered Enterprise Search Solutions & Personalization
+ - [https://www.coveo.com](https://www.coveo.com)
+ - date published: 2024-04-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## a Cleveland Guardians community
+ - [https://www.coveringthecorner.com](https://www.coveringthecorner.com)
+ - date published: 2024-04-29T02:13:17.431443+00:00
+ - user: None
+ - tags: []
+
+## Coverity Scan - Static Analysis
+ - [https://scan.coverity.com](https://scan.coverity.com)
+ - date published: 2024-05-09T05:54:39.309226+00:00
+ - user: None
+ - tags: []
+
+## Training & Certification for the Software Industry | Coveros Training
+ - [https://training.coveros.com](https://training.coveros.com)
+ - date published: 2024-05-01T02:41:31.781686+00:00
+ - user: None
+ - tags: []
+
+## Home - CovertAction Magazine
+ - [https://covertactionmagazine.com](https://covertactionmagazine.com)
+ - date published: 2023-10-25T13:35:05.525695+00:00
+ - user: None
+ - tags: []
+
+## CoverTarget - CD Covers - DVD Covers - Audio Covers - Game Console Covers - Cover Software
+ - [https://covertarget.com](https://covertarget.com)
+ - date published: 2024-05-11T08:35:53.457810+00:00
+ - user: None
+ - tags: []
+
+## Home | Covid-19 Data Science
+ - [https://www.covid-datascience.com](https://www.covid-datascience.com)
+ - date published: 2023-10-25T13:35:14.919081+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Covington Innovations
+ - [http://www.covingtoninnovations.com](http://www.covingtoninnovations.com)
+ - date published: 2024-05-06T14:16:24.892868+00:00
+ - user: None
+ - tags: []
+
+## Home - GM SupplyPower
+ - [https://gmsupplypower.covisint.com](https://gmsupplypower.covisint.com)
+ - date published: 2024-05-04T08:16:39.307569+00:00
+ - user: None
+ - tags: []
+
+## Index of /
+ - [https://widget.covoiturage-simple.com](https://widget.covoiturage-simple.com)
+ - date published: 2024-04-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Your Wyoming News Source
+ - [https://cowboystatedaily.com](https://cowboystatedaily.com)
+ - date published: 2023-10-25T13:35:20.916354+00:00
+ - user: None
+ - tags: []
+
 ## Cowgirl Creamery | Artisan Organic Cheese
  - [https://cowgirlcreamery.com](https://cowgirlcreamery.com)
  - date published: 2024-05-06T16:29:30.058637+00:00
@@ -2329,6 +2407,12 @@
 ## CSS Minifier & Compressor | Toptal®
  - [https://cssminifier.com](https://cssminifier.com)
  - date published: 2024-05-08T03:20:56.377078+00:00
+ - user: None
+ - tags: []
+
+## CSS Minifier & Compressor | Toptal®
+ - [http://cssminifier.com](http://cssminifier.com)
+ - date published: 2024-05-28T19:06:09.598670+00:00
  - user: None
  - tags: []
 
@@ -5915,88 +5999,4 @@
  - date published: 2024-02-26T14:45:39.711412+00:00
  - user: None
  - tags: []
-
-## datalars
- - [https://datalars.com](https://datalars.com)
- - date published: 2023-10-25T13:44:08.044566+00:00
- - user: None
- - tags: []
-
-## Technology News: Latest IT and Tech Industry News
- - [https://www.datamation.com](https://www.datamation.com)
- - date published: 2024-04-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Datameer | A Data Transformation Platform
- - [https://www.datameer.com](https://www.datameer.com)
- - date published: 2024-03-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Data Mesh Architecture
- - [https://datamesh-architecture.com](https://datamesh-architecture.com)
- - date published: 2024-05-09T04:56:33.869705+00:00
- - user: None
- - tags: []
-
-## Welcome | Data Management in Large-Scale Education Research
- - [https://datamgmtinedresearch.com](https://datamgmtinedresearch.com)
- - date published: 2024-01-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## Datanami: Big Data, Big Analytics, Big Insights
- - [https://www.datanami.com](https://www.datanami.com)
- - date published: 2023-10-25T13:44:20.798582+00:00
- - user: None
- - tags: []
-
-## Datanarchy
- - [https://www.datanarchy.com](https://www.datanarchy.com)
- - date published: 2020-02-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Data Narratives: search your data like you Google
- - [https://datanarratives.com](https://datanarratives.com)
- - date published: 2023-10-25T13:44:24.478490+00:00
- - user: None
- - tags: []
-
-## Data-oriented design
- - [https://www.dataorienteddesign.com](https://www.dataorienteddesign.com)
- - date published: 2023-10-25T13:44:25.993903+00:00
- - user: None
- - tags: []
-
-## DataPacRat's Warren
- - [https://www.datapacrat.com](https://www.datapacrat.com)
- - date published: 2024-05-12T05:31:46.496006+00:00
- - user: None
- - tags: []
-
-## Data Realms Fan Forums - Index page
- - [http://forums.datarealms.com](http://forums.datarealms.com)
- - date published: 2024-05-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Data Realms, makers of the game Cortex Command
- - [http://tradestar.datarealms.com](http://tradestar.datarealms.com)
- - date published: 2024-05-09T09:09:25.251496+00:00
- - user: None
- - tags: []
-
-## Web design Vancouver The Lower Mainland | Data Roots
- - [https://www.dataroots.com](https://www.dataroots.com)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Data Science Project – Becoming a Data Scientist
- - [https://data-science-project.com](https://data-science-project.com)
- - date published: 2023-12-13T11:23:39.553811+00:00
- - user: None
- - tags: ['personal']
 

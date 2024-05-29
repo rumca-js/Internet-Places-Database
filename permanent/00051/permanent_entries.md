@@ -1,3 +1,129 @@
+## Tor.com | Science fiction. Fantasy. The universe. And related subjects.
+ - [https://www.tor.com](https://www.tor.com)
+ - date published: 2023-10-25T17:44:34.590867+00:00
+ - user: None
+ - tags: ['fantasy news']
+
+## Torah Recordings
+ - [https://www.torahrecordings.com](https://www.torahrecordings.com)
+ - date published: 2024-05-25T04:35:01.793406+00:00
+ - user: None
+ - tags: ['torah']
+
+## The digital partner for positive change
+ - [http://www.torchbox.com](http://www.torchbox.com)
+ - date published: 2024-05-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Tor/Forge Blog - Science Fiction, Fantasy, Horror, Mystery, Thriller & Suspense, and Other Speculative Fiction
+ - [https://www.torforgeblog.com](https://www.torforgeblog.com)
+ - date published: 2024-02-24T18:23:46.528923+00:00
+ - user: None
+ - tags: []
+
+## Home | TORLYS
+ - [https://torlys.com](https://torlys.com)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Torn Macalester
+ - [https://tornmacalester.com](https://tornmacalester.com)
+ - date published: 2024-05-07T09:33:41.295030+00:00
+ - user: None
+ - tags: []
+
+## toronto.com | Latest Daily Breaking News Stories
+ - [https://www.toronto.com](https://www.toronto.com)
+ - date published: 2023-11-11T20:00:21.025764+00:00
+ - user: None
+ - tags: []
+
+## Radio Admin
+ - [https://kathy.torontocast.com](https://kathy.torontocast.com)
+ - date published: 2024-05-01T00:27:43.018127+00:00
+ - user: None
+ - tags: []
+
+## Toronto Life
+ - [https://torontolife.com](https://torontolife.com)
+ - date published: 2023-10-25T17:44:44.016018+00:00
+ - user: None
+ - tags: []
+
+## Toronto Sun ePaper
+ - [https://epaper.torontosun.com](https://epaper.torontosun.com)
+ - date published: 2024-05-06T20:10:53.251519+00:00
+ - user: None
+ - tags: []
+
+## Local Businesses from the Toronto Sun
+ - [https://local.torontosun.com](https://local.torontosun.com)
+ - date published: 2024-05-06T20:10:51.546122+00:00
+ - user: None
+ - tags: []
+
+## Local Businesses from the Toronto Sun
+ - [https://shopping.torontosun.com](https://shopping.torontosun.com)
+ - date published: 2024-05-06T20:10:45.230693+00:00
+ - user: None
+ - tags: []
+
+## Home | Toronto Sun Home Page | Toronto Sun
+ - [https://torontosun.com](https://torontosun.com)
+ - date published: 2023-10-25T17:44:56.380706+00:00
+ - user: None
+ - tags: []
+
+## Job Search Canada | Find Your Next Job With The Toronto SUN
+ - [https://working.torontosun.com](https://working.torontosun.com)
+ - date published: 2024-04-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Tor Publishing Group
+ - [https://www.torpublishinggroup.com](https://www.torpublishinggroup.com)
+ - date published: 2024-02-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Plausible · Web analytics
+ - [https://test.torrentfreak.com](https://test.torrentfreak.com)
+ - date published: 2024-05-06T20:10:54.839333+00:00
+ - user: None
+ - tags: []
+
+## TorrentFreak - News
+ - [https://torrentfreak.com](https://torrentfreak.com)
+ - date published: 2023-10-25T17:44:57.688554+00:00
+ - user: None
+ - tags: ['privacy', 'news']
+
+## index | torresjrjr
+ - [https://torresjrjr.com](https://torresjrjr.com)
+ - date published: 2022-08-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Torrington Telegram
+ - [https://www.torringtontelegram.com](https://www.torringtontelegram.com)
+ - date published: 2024-03-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Torr Vision Group - University of Oxford
+ - [http://torrvision.com](http://torrvision.com)
+ - date published: 2024-05-02T11:08:13.871510+00:00
+ - user: None
+ - tags: []
+
+## Home - Tortoise
+ - [https://www.tortoisemedia.com](https://www.tortoisemedia.com)
+ - date published: 2023-10-31T04:18:45.594409+00:00
+ - user: None
+ - tags: ['news', 'politic news']
+
 ## Tech.ToryAnderson.com
  - [https://tech.toryanderson.com](https://tech.toryanderson.com)
  - date published: 2024-04-19T00:00:00+00:00
@@ -5874,130 +6000,4 @@
  - date published: 2024-04-30T00:00:00+00:00
  - user: None
  - tags: []
-
-## A Word from Our Sponsor
- - [https://wordfromoursponsor.tumblr.com](https://wordfromoursponsor.tumblr.com)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Word Journal
- - [http://wordjournal.tumblr.com](http://wordjournal.tumblr.com)
- - date published: 2024-05-07T21:52:53.765288+00:00
- - user: None
- - tags: []
-
-## Lexicon
- - [http://wordporn.tumblr.com](http://wordporn.tumblr.com)
- - date published: 2024-05-07T21:54:51.622128+00:00
- - user: None
- - tags: []
-
-## IC ON THE RECORD
- - [http://www.icontherecord.tumblr.com](http://www.icontherecord.tumblr.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Untitled
- - [http://www.threewordphrase.tumblr.com](http://www.threewordphrase.tumblr.com)
- - date published: 2024-05-11T10:40:15.766264+00:00
- - user: None
- - tags: []
-
-## Today on Tumblr
- - [https://www.tumblr.com](https://www.tumblr.com)
- - date published: 2023-11-02T09:03:01.889882+00:00
- - user: None
- - tags: []
-
-## Yahoo Engineering
- - [http://yahooeng.tumblr.com](http://yahooeng.tumblr.com)
- - date published: 2024-05-11T10:34:41.794976+00:00
- - user: None
- - tags: []
-
-## Gray Feather
- - [https://yoshifawful64.tumblr.com](https://yoshifawful64.tumblr.com)
- - date published: 2024-05-06T20:33:18.645631+00:00
- - user: None
- - tags: []
-
-## Tumblr
- - [https://yournudemom.tumblr.com](https://yournudemom.tumblr.com)
- - date published: 2024-05-13T03:23:04.972159+00:00
- - user: None
- - tags: []
-
-## Optimize Literally Everything
- - [https://yudkowsky.tumblr.com](https://yudkowsky.tumblr.com)
- - date published: 2024-05-04T12:18:17.968807+00:00
- - user: None
- - tags: []
-
-## Zero to Drum - All About Drums
- - [https://zerotodrum.tumblr.com](https://zerotodrum.tumblr.com)
- - date published: 2020-05-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Excuse Me While I Touch the Sky
- - [http://zielahime.tumblr.com](http://zielahime.tumblr.com)
- - date published: 2024-05-06T20:41:53.868558+00:00
- - user: None
- - tags: []
-
-## zoyogrl
- - [https://zoyogrl.tumblr.com](https://zoyogrl.tumblr.com)
- - date published: 2016-12-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## God Doesn't Play Mobile
- - [https://tumenko.com](https://tumenko.com)
- - date published: 2023-10-25T09:21:14.851311+00:00
- - user: None
- - tags: ['personal']
-
-## TumeRoom
- - [https://tumeroom.com](https://tumeroom.com)
- - date published: 2024-05-13T03:54:03.438579+00:00
- - user: None
- - tags: []
-
-## Home — TUM International
- - [https://tum-international.com](https://tum-international.com)
- - date published: 2024-04-29T06:57:02.486519+00:00
- - user: None
- - tags: []
-
-## Attention Required! | Cloudflare
- - [https://www.tunecore.com](https://www.tunecore.com)
- - date published: 2024-05-10T04:46:14.066162+00:00
- - user: None
- - tags: []
-
-## WQUT FM 101.5 On Air Playlist
- - [http://wqut.tunegenie.com](http://wqut.tunegenie.com)
- - date published: 2024-05-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Support
- - [http://help.tunein.com](http://help.tunein.com)
- - date published: 2024-05-01T00:28:25.574140+00:00
- - user: None
- - tags: []
-
-## Editor
- - [https://radiomill.tunein.com](https://radiomill.tunein.com)
- - date published: 2024-05-01T00:28:20.301265+00:00
- - user: None
- - tags: []
-
-## TuneIn | Free Internet Radio | Live News, Sports, Music, Audiobooks, and Podcasts
- - [https://tunein.com](https://tunein.com)
- - date published: 2024-02-15T22:14:21.882362+00:00
- - user: None
- - tags: ['demoscene']
 

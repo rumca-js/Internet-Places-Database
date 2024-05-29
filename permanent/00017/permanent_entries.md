@@ -1,3 +1,87 @@
+## datalars
+ - [https://datalars.com](https://datalars.com)
+ - date published: 2023-10-25T13:44:08.044566+00:00
+ - user: None
+ - tags: []
+
+## Technology News: Latest IT and Tech Industry News
+ - [https://www.datamation.com](https://www.datamation.com)
+ - date published: 2024-04-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Datameer | A Data Transformation Platform
+ - [https://www.datameer.com](https://www.datameer.com)
+ - date published: 2024-03-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Data Mesh Architecture
+ - [https://datamesh-architecture.com](https://datamesh-architecture.com)
+ - date published: 2024-05-09T04:56:33.869705+00:00
+ - user: None
+ - tags: []
+
+## Welcome | Data Management in Large-Scale Education Research
+ - [https://datamgmtinedresearch.com](https://datamgmtinedresearch.com)
+ - date published: 2024-01-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Datanami: Big Data, Big Analytics, Big Insights
+ - [https://www.datanami.com](https://www.datanami.com)
+ - date published: 2023-10-25T13:44:20.798582+00:00
+ - user: None
+ - tags: []
+
+## Datanarchy
+ - [https://www.datanarchy.com](https://www.datanarchy.com)
+ - date published: 2020-02-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Data Narratives: search your data like you Google
+ - [https://datanarratives.com](https://datanarratives.com)
+ - date published: 2023-10-25T13:44:24.478490+00:00
+ - user: None
+ - tags: []
+
+## Data-oriented design
+ - [https://www.dataorienteddesign.com](https://www.dataorienteddesign.com)
+ - date published: 2023-10-25T13:44:25.993903+00:00
+ - user: None
+ - tags: []
+
+## DataPacRat's Warren
+ - [https://www.datapacrat.com](https://www.datapacrat.com)
+ - date published: 2024-05-12T05:31:46.496006+00:00
+ - user: None
+ - tags: []
+
+## Data Realms Fan Forums - Index page
+ - [http://forums.datarealms.com](http://forums.datarealms.com)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Data Realms, makers of the game Cortex Command
+ - [http://tradestar.datarealms.com](http://tradestar.datarealms.com)
+ - date published: 2024-05-09T09:09:25.251496+00:00
+ - user: None
+ - tags: []
+
+## Web design Vancouver The Lower Mainland | Data Roots
+ - [https://www.dataroots.com](https://www.dataroots.com)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Data Science Project – Becoming a Data Scientist
+ - [https://data-science-project.com](https://data-science-project.com)
+ - date published: 2023-12-13T11:23:39.553811+00:00
+ - user: None
+ - tags: ['personal']
+
 ## DataScientYst - Data Science Simplified
  - [https://datascientyst.com](https://datascientyst.com)
  - date published: 2023-10-25T13:44:38.140825+00:00
@@ -5915,88 +5999,4 @@
  - date published: 2024-05-08T04:02:44.187925+00:00
  - user: None
  - tags: []
-
-## Disability Driving Instructors | Find a specialist driving instructor
- - [https://www.disabilitydrivinginstructors.com](https://www.disabilitydrivinginstructors.com)
- - date published: 2024-05-02T12:10:03.492577+00:00
- - user: None
- - tags: []
-
-## Disability Visibility Project
- - [https://disabilityvisibilityproject.com](https://disabilityvisibilityproject.com)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Disarme Grafico
- - [https://disarmegrafico.com](https://disarmegrafico.com)
- - date published: 2024-05-10T02:48:50.110651+00:00
- - user: None
- - tags: []
-
-## Disarm Russia
- - [https://disarmrussia.com](https://disarmrussia.com)
- - date published: 2024-04-03T20:35:42+00:00
- - user: None
- - tags: []
-
-## Discerning Cyclist: Find the Best Urban Cycling Clothing
- - [https://discerningcyclist.com](https://discerningcyclist.com)
- - date published: 2024-05-09T06:23:17.887840+00:00
- - user: None
- - tags: []
-
-## Funds
- - [https://disciplinefunds.com](https://disciplinefunds.com)
- - date published: 2023-11-25T23:11:03.290494+00:00
- - user: None
- - tags: []
-
-## Discogs
- - [https://content.discogs.com](https://content.discogs.com)
- - date published: 2024-05-10T04:46:44.790809+00:00
- - user: None
- - tags: []
-
-## Discogs - Music Database and Marketplace
- - [https://discogs.com](https://discogs.com)
- - date published: 2024-05-01T03:16:07.045905+00:00
- - user: None
- - tags: []
-
-## Discogs - Music Database and Marketplace
- - [https://i.discogs.com](https://i.discogs.com)
- - date published: 2024-05-10T04:46:48.431232+00:00
- - user: None
- - tags: []
-
-## Independent Record Stores | Discogs
- - [https://vinylhub.discogs.com](https://vinylhub.discogs.com)
- - date published: 2024-05-10T04:46:52.648550+00:00
- - user: None
- - tags: []
-
-## Discogs - Music Database and Marketplace
- - [https://www.discogs.com](https://www.discogs.com)
- - date published: 2023-12-11T15:37:43.974377+00:00
- - user: None
- - tags: []
-
-## Discoliam
- - [https://discoliam.com](https://discoliam.com)
- - date published: 2024-05-11T10:07:25.708133+00:00
- - user: None
- - tags: []
-
-## Discord Blog
- - [https://blog.discord.com](https://blog.discord.com)
- - date published: 2023-10-25T13:53:10.606484+00:00
- - user: None
- - tags: []
-
-## Discord | Your Place to Talk and Hang Out
- - [https://discord.com](https://discord.com)
- - date published: 2023-10-24T20:15:10.314013+00:00
- - user: None
- - tags: ['gatekeeper', 'social communicator']
 

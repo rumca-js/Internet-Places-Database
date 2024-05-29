@@ -1,3 +1,117 @@
+## RawGit
+ - [https://rawgit.com](https://rawgit.com)
+ - date published: 2018-10-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## RAWRLAB Games - Indie game development, porting and publishing - Specializing in Godot Engine!
+ - [https://www.rawrlab.com](https://www.rawrlab.com)
+ - date published: 2024-01-23T14:03:20.382628+00:00
+ - user: None
+ - tags: []
+
+## Oficjalny sklep Ray-Ban® Polska
+ - [https://www.ray-ban.com](https://www.ray-ban.com)
+ - date published: 2024-03-03T17:37:27+00:00
+ - user: rumpel
+ - tags: ['smart glasses']
+
+## Introduction | Raycast API
+ - [https://developers.raycast.com](https://developers.raycast.com)
+ - date published: 2024-05-07T10:27:38.761969+00:00
+ - user: None
+ - tags: []
+
+## Raycast Manual
+ - [https://manual.raycast.com](https://manual.raycast.com)
+ - date published: 2024-05-07T10:27:40.487263+00:00
+ - user: None
+ - tags: []
+
+## Raycast Merch
+ - [https://merch.raycast.com](https://merch.raycast.com)
+ - date published: 2024-05-07T10:27:43.011623+00:00
+ - user: None
+ - tags: []
+
+## Raycast - Your shortcut to everything
+ - [https://raycast.com](https://raycast.com)
+ - date published: 2024-04-28T04:56:04.744793+00:00
+ - user: None
+ - tags: []
+
+## Raycast
+ - [https://www.raycast.com](https://www.raycast.com)
+ - date published: 2023-10-25T16:46:30.372725+00:00
+ - user: None
+ - tags: []
+
+## Power Up Your Everyday
+ - [https://rayconglobal.com](https://rayconglobal.com)
+ - date published: 2024-05-09T04:34:18.808922+00:00
+ - user: None
+ - tags: []
+
+## Returns
+ - [https://returns.rayconglobal.com](https://returns.rayconglobal.com)
+ - date published: 2024-05-09T04:34:26.956060+00:00
+ - user: None
+ - tags: []
+
+## Rayedwards
+ - [https://rayedwards.com](https://rayedwards.com)
+ - date published: 2024-01-06T08:56:27.338338+00:00
+ - user: None
+ - tags: []
+
+## Rayedwards
+ - [https://www.rayedwards.com](https://www.rayedwards.com)
+ - date published: 2024-05-07T10:28:02.507030+00:00
+ - user: None
+ - tags: ['personal']
+
+## Raygun - Application Monitoring For Web & Mobile Apps
+ - [https://raygun.com](https://raygun.com)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## raylib
+ - [https://www.raylib.com](https://www.raylib.com)
+ - date published: 2024-05-09T07:38:28.372205+00:00
+ - user: None
+ - tags: []
+
+## Rayman Pirate-Community - Portal
+ - [https://raymanpc.com](https://raymanpc.com)
+ - date published: 2024-04-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Raymond Camden
+ - [https://www.raymondcamden.com](https://www.raymondcamden.com)
+ - date published: 2023-12-08T08:33:21.749631+00:00
+ - user: None
+ - tags: ['personal']
+
+## Raymond Luong
+ - [https://www.raymondluong.com](https://www.raymondluong.com)
+ - date published: 2024-05-11T10:24:14.250410+00:00
+ - user: None
+ - tags: []
+
+## Affordable Websites & More | Rayveon
+ - [https://www.rayveon.com](https://www.rayveon.com)
+ - date published: 2024-01-21T19:07:45.692652+00:00
+ - user: None
+ - tags: []
+
+## Kodeco
+ - [https://www.raywenderlich.com](https://www.raywenderlich.com)
+ - date published: 2024-05-04T13:46:07.082848+00:00
+ - user: None
+ - tags: []
+
 ## Blog | Aleksey Razbakov
  - [https://razbakov.com](https://razbakov.com)
  - date published: 2024-05-11T10:21:01.178879+00:00
@@ -2763,6 +2877,12 @@ Top End Devs
 ## Refresh Miami
  - [https://refreshmiami.com](https://refreshmiami.com)
  - date published: 2023-06-28T18:49:47+00:00
+ - user: None
+ - tags: []
+
+## Refresh-SF - Online JavaScript and CSS Compressor
+ - [http://refresh-sf.com](http://refresh-sf.com)
+ - date published: 2024-05-28T19:06:10.580659+00:00
  - user: None
  - tags: []
 
@@ -5879,126 +5999,6 @@ Top End Devs
 ## RingCentral Developers
  - [https://developers.ringcentral.com](https://developers.ringcentral.com)
  - date published: 2024-05-04T11:50:22.188405+00:00
- - user: None
- - tags: []
-
-## Virtual Event Platform (formerly Hopin Events) | RingCentral Events
- - [https://events.ringcentral.com](https://events.ringcentral.com)
- - date published: 2024-05-01T03:12:16.932637+00:00
- - user: None
- - tags: []
-
-## Ringer
- - [https://www.ringerhq.com](https://www.ringerhq.com)
- - date published: 2023-10-25T16:51:53.579899+00:00
- - user: None
- - tags: []
-
-## Ringier Axel Springer Tech
- - [https://tech.ringieraxelspringer.com](https://tech.ringieraxelspringer.com)
- - date published: 2024-05-11T09:32:26.934138+00:00
- - user: None
- - tags: []
-
-## Ringo Awards – The Mike Wieringo Comic Book Industry Awards
- - [https://ringoawards.com](https://ringoawards.com)
- - date published: 2024-05-13T03:15:46.298432+00:00
- - user: None
- - tags: []
-
-## Ring Publishing - Content Experience Platform
- - [https://ringpublishing.com](https://ringpublishing.com)
- - date published: 2024-05-11T09:32:25.908372+00:00
- - user: None
- - tags: []
-
-## Rinse - Dry Cleaning and Laundry. Delivered.
- - [https://rinse.com](https://rinse.com)
- - date published: 2015-10-07T17:20:36.415714+00:00
- - user: None
- - tags: []
-
-## Rio Grande Games - Amazing and wonderful board and card games from around the world
- - [https://www.riograndegames.com](https://www.riograndegames.com)
- - date published: 2024-01-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Riot Games Tech Blog
- - [https://engineering.riotgames.com](https://engineering.riotgames.com)
- - date published: 2024-05-06T21:47:38.570896+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://support.riotgames.com](https://support.riotgames.com)
- - date published: 2024-04-28T05:07:07.317732+00:00
- - user: None
- - tags: []
-
-## Riot Games. Developer of League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, and Wild Rift. Creators of Arcane. Home of LOL and VALORANT Esports.
- - [https://www.riotgames.com](https://www.riotgames.com)
- - date published: 2024-01-23T00:59:39.503692+00:00
- - user: None
- - tags: ['video game developer']
-
-## Home
- - [https://www.riotimesonline.com](https://www.riotimesonline.com)
- - date published: 2023-12-06T19:21:30.188407+00:00
- - user: None
- - tags: []
-
-## RiotJs
- - [http://www.riotjs.com](http://www.riotjs.com)
- - date published: 2024-05-11T10:35:57.052260+00:00
- - user: None
- - tags: []
-
-## Riot New Media Group
- - [https://riotnewmedia.com](https://riotnewmedia.com)
- - date published: 2024-05-08T03:14:16.760169+00:00
- - user: None
- - tags: []
-
-## Ripley Entertainment - Home - Ripley Entertainment Inc
- - [https://www.ripleyentertainment.com](https://www.ripleyentertainment.com)
- - date published: 2024-04-28T05:07:55.668088+00:00
- - user: None
- - tags: []
-
-## Ripley's Believe It or Not! | Aquariums, Attractions, and Weird News
- - [https://www.ripleys.com](https://www.ripleys.com)
- - date published: 2023-10-25T16:51:58.390818+00:00
- - user: None
- - tags: []
-
-## Rippaverse - Rippaverse®
- - [https://rippaverse.com](https://rippaverse.com)
- - date published: 2023-03-25T16:55:51+00:00
- - user: None
- - tags: []
-
-## Global Payments & Financial Solutions for Businesses | Ripple
- - [https://ripple.com](https://ripple.com)
- - date published: 2024-05-25T09:50:37.754008+00:00
- - user: None
- - tags: []
-
-## Rippling: #1 Workforce Management System | HR, IT, Finance
- - [https://ats.rippling.com](https://ats.rippling.com)
- - date published: 2024-04-29T07:44:59.921614+00:00
- - user: None
- - tags: []
-
-## Rippling: #1 Workforce Management System | HR, IT, Finance
- - [https://rippling.com](https://rippling.com)
- - date published: 2024-05-01T04:18:38.835518+00:00
- - user: None
- - tags: []
-
-## Rippling: #1 Workforce Management System | HR, IT, Finance
- - [https://www.rippling.com](https://www.rippling.com)
- - date published: 2024-04-28T02:55:21.067510+00:00
  - user: None
  - tags: []
 
