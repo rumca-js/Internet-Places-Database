@@ -1,3 +1,633 @@
+## Thing of Things | Ozy Brennan | Substack
+ - [https://thingofthings.substack.com](https://thingofthings.substack.com)
+ - date published: 2024-03-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Big Picture | Substack
+ - [https://thinkbigpicture.substack.com](https://thinkbigpicture.substack.com)
+ - date published: 2024-04-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## This is indexing. | Michelle Guiliano | Substack
+ - [https://thisisindexing.substack.com](https://thisisindexing.substack.com)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## This is the Top | Douglas A. Boneparth | Substack
+ - [https://thisisthetop.substack.com](https://thisisthetop.substack.com)
+ - date published: 2024-05-06T15:16:59.382060+00:00
+ - user: None
+ - tags: []
+
+## Unpacked | Viggy Balagopalakrishnan | Substack
+ - [https://thisisunpacked.substack.com](https://thisisunpacked.substack.com)
+ - date published: 2023-12-17T00:30:40.265669+00:00
+ - user: None
+ - tags: []
+
+## This Week in Africa | Jeffrey Paller | Substack
+ - [https://thisweekinafrica.substack.com](https://thisweekinafrica.substack.com)
+ - date published: 2024-01-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Thoguhts | Akshay Raveendran | Substack
+ - [https://thoguhts.substack.com](https://thoguhts.substack.com)
+ - date published: 2023-11-08T09:45:32.418742+00:00
+ - user: None
+ - tags: []
+
+## Thomas Kidd’s Substack | Thomas S. Kidd | Substack
+ - [https://thomaskidd.substack.com](https://thomaskidd.substack.com)
+ - date published: 2024-01-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Path Not Taken | Thomas Prosser | Substack
+ - [https://thomasprosser.substack.com](https://thomasprosser.substack.com)
+ - date published: 2023-10-25T10:06:26.448291+00:00
+ - user: None
+ - tags: ['substack']
+
+## Ideas Big & Simple | Thom Scott-Phillips | Substack
+ - [https://thomscottphillips.substack.com](https://thomscottphillips.substack.com)
+ - date published: 2024-01-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Thot's Thoughts | Nikhil Thota | Substack
+ - [https://thot.substack.com](https://thot.substack.com)
+ - date published: 2024-05-12T06:17:29.138394+00:00
+ - user: None
+ - tags: []
+
+## Software Design: Tidy First? | Kent Beck | Substack
+ - [https://tidyfirst.substack.com](https://tidyfirst.substack.com)
+ - date published: 2023-10-25T10:06:29.035400+00:00
+ - user: None
+ - tags: ['substack']
+
+## Intellectual Insights | Tim Robinson | Substack
+ - [https://timjrobinson.substack.com](https://timjrobinson.substack.com)
+ - date published: 2024-05-06T18:31:19.669340+00:00
+ - user: None
+ - tags: []
+
+## Tiny Empires | JT | Substack
+ - [https://tinyempires.substack.com](https://tinyempires.substack.com)
+ - date published: 2023-10-25T10:06:31.208743+00:00
+ - user: None
+ - tags: ['substack']
+
+## Tjaart’s Substack | Substack
+ - [https://tjaart.substack.com](https://tjaart.substack.com)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## tldraw | Steve Ruiz | Substack
+ - [https://tldraw.substack.com](https://tldraw.substack.com)
+ - date published: 2023-10-25T10:06:33.454002+00:00
+ - user: None
+ - tags: ['substack']
+
+## Terry Mattingly -- Rational Sheep | tmatt | Substack
+ - [https://tmattingly.substack.com](https://tmattingly.substack.com)
+ - date published: 2024-03-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Modern Software Developer | Richard Donovan | Substack
+ - [https://tmsd.substack.com](https://tmsd.substack.com)
+ - date published: 2024-03-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Oxymoron | Tom Greenwood | Substack
+ - [https://tomgreenwood.substack.com](https://tomgreenwood.substack.com)
+ - date published: 2024-01-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Tilting At Windmills | Tom Knighton | Substack
+ - [https://tomknighton.substack.com](https://tomknighton.substack.com)
+ - date published: 2024-01-09T01:45:38.631800+00:00
+ - user: None
+ - tags: []
+
+## Reasonable People | Tom Stafford | Substack
+ - [https://tomstafford.substack.com](https://tomstafford.substack.com)
+ - date published: 2024-05-04T13:56:24.520866+00:00
+ - user: None
+ - tags: []
+
+## Fermentation | Substack
+ - [https://tomwark.substack.com](https://tomwark.substack.com)
+ - date published: 2024-01-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Torture Chamber Small Talk | Loudt Darrow | Substack
+ - [https://torturechambersmalltalk.substack.com](https://torturechambersmalltalk.substack.com)
+ - date published: 2023-10-25T10:06:43.996611+00:00
+ - user: None
+ - tags: ['substack']
+
+## Totality of Evidence News | Just call me Jack | Substack
+ - [https://totalityofevidence.substack.com](https://totalityofevidence.substack.com)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Tracing Woodgrains | TracingWoodgrains | Substack
+ - [https://tracingwoodgrains.substack.com](https://tracingwoodgrains.substack.com)
+ - date published: 2024-01-09T01:45:41.735689+00:00
+ - user: None
+ - tags: []
+
+## Life on the Trail | Allison Barr Allen | Substack
+ - [https://trailruncapital.substack.com](https://trailruncapital.substack.com)
+ - date published: 2023-10-25T10:06:47.676757+00:00
+ - user: None
+ - tags: ['substack']
+
+## Traipsing About | Dakota Gale | Substack
+ - [https://traipsingabout.substack.com](https://traipsingabout.substack.com)
+ - date published: 2024-03-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Contemplations on the Tree of Woe | Substack
+ - [https://treeofwoe.substack.com](https://treeofwoe.substack.com)
+ - date published: 2023-10-25T10:06:49.846572+00:00
+ - user: None
+ - tags: ['substack']
+
+## Trevor Klee’s Newsletter | Substack
+ - [https://trevorklee.substack.com](https://trevorklee.substack.com)
+ - date published: 2023-10-25T10:06:52.536361+00:00
+ - user: None
+ - tags: ['substack']
+
+## Brain Farts | Trisha | Substack
+ - [https://trishareddy.substack.com](https://trishareddy.substack.com)
+ - date published: 2024-04-28T01:43:43.234467+00:00
+ - user: None
+ - tags: []
+
+## Trump Tyranny Tracker: Your Daily Reminder  | Olga Lautman | Substack
+ - [https://trumptyrannytracker.substack.com](https://trumptyrannytracker.substack.com)
+ - date published: 2024-02-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Truth on the Streets by Kevin Dahlgren  | Substack
+ - [https://truthonthestreets.substack.com](https://truthonthestreets.substack.com)
+ - date published: 2023-10-25T10:06:54.506330+00:00
+ - user: None
+ - tags: ['substack']
+
+## Turing Talks | Manish Shivanandhan | Substack
+ - [https://turingtalks.substack.com](https://turingtalks.substack.com)
+ - date published: 2024-01-02T08:43:07.890129+00:00
+ - user: None
+ - tags: []
+
+## twenty4two | Tim Gwynn Jones | Substack
+ - [https://twentyfourtwo.substack.com](https://twentyfourtwo.substack.com)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Twitter Files | Matt Taibbi | Substack
+ - [https://twitterfiles.substack.com](https://twitterfiles.substack.com)
+ - date published: 2024-05-11T09:36:14.757829+00:00
+ - user: None
+ - tags: []
+
+## Tyler’s Substack | Tyler Glaiel | Substack
+ - [https://tylerglaiel.substack.com](https://tylerglaiel.substack.com)
+ - date published: 2023-10-25T10:06:56.239008+00:00
+ - user: None
+ - tags: ['substack']
+
+## Type Classes | Chris Martin | Substack
+ - [https://typeclasses.substack.com](https://typeclasses.substack.com)
+ - date published: 2023-10-25T10:06:58.858555+00:00
+ - user: None
+ - tags: ['substack']
+
+## https://u4all.substack.com
+ - [https://u4all.substack.com](https://u4all.substack.com)
+ - date published: 2024-02-08T18:06:49.384939+00:00
+ - user: None
+ - tags: []
+
+## University of Chicago Free Speech Alliance | UChicago Free Speech | Substack
+ - [https://uchicagofreespeech.substack.com](https://uchicagofreespeech.substack.com)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## УКРІНФОРМ: РОЗСИЛКА НОВИН | Substack
+ - [https://ukrinform.substack.com](https://ukrinform.substack.com)
+ - date published: 2024-01-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## This Beautiful Life | Ulrich Beinert | Substack
+ - [https://ulrichbeinert.substack.com](https://ulrichbeinert.substack.com)
+ - date published: 2024-02-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Unchained | Laura Shin | Substack
+ - [https://unchainedcrypto.substack.com](https://unchainedcrypto.substack.com)
+ - date published: 2024-05-06T21:13:11.608800+00:00
+ - user: None
+ - tags: []
+
+## FOIA Around And Find Out | UndeadFOIA | Substack
+ - [https://undeadfoia.substack.com](https://undeadfoia.substack.com)
+ - date published: 2024-05-11T09:36:02.714653+00:00
+ - user: None
+ - tags: []
+
+## Unfashionable | Sven Schnieders | Substack
+ - [https://unfashionable.substack.com](https://unfashionable.substack.com)
+ - date published: 2023-10-25T10:07:06.313221+00:00
+ - user: None
+ - tags: ['substack']
+
+## Universal-Sci Weekly | Substack
+ - [https://universalsci.substack.com](https://universalsci.substack.com)
+ - date published: 2024-05-06T21:16:04.529423+00:00
+ - user: None
+ - tags: []
+
+## Unseen St. Louis | Jackie Dana | Substack
+ - [https://unseenstlouis.substack.com](https://unseenstlouis.substack.com)
+ - date published: 2024-03-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://usefulfictions.substack.com
+ - [https://usefulfictions.substack.com](https://usefulfictions.substack.com)
+ - date published: 2024-01-13T15:01:08.490019+00:00
+ - user: None
+ - tags: []
+
+## https://userinsight.substack.com
+ - [https://userinsight.substack.com](https://userinsight.substack.com)
+ - date published: 2024-02-08T17:00:46.530379+00:00
+ - user: None
+ - tags: []
+
+## UX Movement Newsletter | Anthony | Substack
+ - [https://uxmovement.substack.com](https://uxmovement.substack.com)
+ - date published: 2024-01-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Valentin Foucault – Notes on startups & life  | Substack
+ - [https://valentinfoucault.substack.com](https://valentinfoucault.substack.com)
+ - date published: 2024-01-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Val's Pals | Valerie | Substack
+ - [https://valspals.substack.com](https://valspals.substack.com)
+ - date published: 2024-01-09T01:45:44.588975+00:00
+ - user: None
+ - tags: []
+
+## Public Experiments | Varun | Substack
+ - [https://varunshenoy.substack.com](https://varunshenoy.substack.com)
+ - date published: 2023-10-25T10:07:10.677121+00:00
+ - user: None
+ - tags: ['substack']
+
+## Venture Unlocked | Samir Kaji | Substack
+ - [https://ventureunlocked.substack.com](https://ventureunlocked.substack.com)
+ - date published: 2024-05-08T03:18:18.939792+00:00
+ - user: None
+ - tags: []
+
+## Very Distant Lands Newsletter | Adam Fleming Petty | Substack
+ - [https://verydistantlands.substack.com](https://verydistantlands.substack.com)
+ - date published: 2023-11-14T19:01:26.764845+00:00
+ - user: None
+ - tags: []
+
+## Vigneshwarar’s Newsletter | Substack
+ - [https://vigneshwarar.substack.com](https://vigneshwarar.substack.com)
+ - date published: 2023-10-25T10:07:12.438218+00:00
+ - user: None
+ - tags: ['substack']
+
+## Vince's Substack | Vince Lam | Substack
+ - [https://vincelam.substack.com](https://vincelam.substack.com)
+ - date published: 2024-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## visa's voltaic verses ⚡️ | visakan veerasamy | Substack
+ - [https://visakanv.substack.com](https://visakanv.substack.com)
+ - date published: 2024-01-09T00:13:02.520095+00:00
+ - user: None
+ - tags: []
+
+## Visual frameworks | Dave Gray | Substack
+ - [https://visualframeworks.substack.com](https://visualframeworks.substack.com)
+ - date published: 2024-05-02T13:58:35.640862+00:00
+ - user: None
+ - tags: []
+
+## Alguma coisa acontece | Viva São Paulo | Cultura | Substack
+ - [https://vivaculturasp.substack.com](https://vivaculturasp.substack.com)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Simulated Annealing | Vivian Qu | Substack
+ - [https://vivqu.substack.com](https://vivqu.substack.com)
+ - date published: 2024-04-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Void Papers | Tobi | Substack
+ - [https://voidpapers.substack.com](https://voidpapers.substack.com)
+ - date published: 2023-10-25T10:07:14.153042+00:00
+ - user: None
+ - tags: ['substack']
+
+## Volted: Electrify your Life | Jeff Eiden | Substack
+ - [https://volted.substack.com](https://volted.substack.com)
+ - date published: 2024-01-09T01:45:46.968262+00:00
+ - user: None
+ - tags: []
+
+## Devon's wanderings | Substack
+ - [https://vonzu.substack.com](https://vonzu.substack.com)
+ - date published: 2024-03-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Chris Arnade Walks the World  | Substack
+ - [https://walkingtheworld.substack.com](https://walkingtheworld.substack.com)
+ - date published: 2024-01-09T01:45:54.486490+00:00
+ - user: None
+ - tags: []
+
+## Unbound | Walter Kirn | Substack
+ - [https://walterkirn.substack.com](https://walterkirn.substack.com)
+ - date published: 2023-12-28T03:21:31.503169+00:00
+ - user: None
+ - tags: []
+
+## Startup Real Talk | Waseem Daher | Substack
+ - [https://waseem.substack.com](https://waseem.substack.com)
+ - date published: 2024-01-09T01:45:56.159960+00:00
+ - user: None
+ - tags: []
+
+## Wastyk Writes | Hannah Wastyk | Substack
+ - [https://wastykwrites.substack.com](https://wastykwrites.substack.com)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Weblearning | Open Umbrella  | Derek Moore | Substack
+ - [https://weblearning.substack.com](https://weblearning.substack.com)
+ - date published: 2024-05-02T13:57:04.949076+00:00
+ - user: None
+ - tags: []
+
+## Weed Church | Casey Taylor | Substack
+ - [https://weedchurch.substack.com](https://weedchurch.substack.com)
+ - date published: 2024-01-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Weekly PHP | Víctor Falcón 🤟 | Substack
+ - [https://weeklyphp.substack.com](https://weeklyphp.substack.com)
+ - date published: 2023-10-25T10:07:21.630667+00:00
+ - user: None
+ - tags: ['substack']
+
+## weird medieval guys  | Substack
+ - [https://weirdmedievalguys.substack.com](https://weirdmedievalguys.substack.com)
+ - date published: 2024-01-09T01:45:57.742248+00:00
+ - user: None
+ - tags: []
+
+## Wenqi Shao | Substack
+ - [https://wenqi.substack.com](https://wenqi.substack.com)
+ - date published: 2024-04-30T06:56:27.759683+00:00
+ - user: None
+ - tags: []
+
+## Wasabi | Substack
+ - [https://wesabbey.substack.com](https://wesabbey.substack.com)
+ - date published: 2024-01-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wesley Goatley | Substack
+ - [https://wesleygoatley.substack.com](https://wesleygoatley.substack.com)
+ - date published: 2024-02-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Fifth Column (A Podcast) | Substack
+ - [https://wethefifth.substack.com](https://wethefifth.substack.com)
+ - date published: 2024-04-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## What Rocks | Charlie Harrington | Substack
+ - [https://whatrocks.substack.com](https://whatrocks.substack.com)
+ - date published: 2024-05-08T04:49:53.669081+00:00
+ - user: None
+ - tags: []
+
+## What's Important? | Tom Morgan | Substack
+ - [https://whatsimportant.substack.com](https://whatsimportant.substack.com)
+ - date published: 2024-02-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wheel’s Substack | Wheel Reinventor | Substack
+ - [https://wheelreinventor.substack.com](https://wheelreinventor.substack.com)
+ - date published: 2024-01-09T01:45:59.747302+00:00
+ - user: None
+ - tags: []
+
+## Zoe's Build & Launch | Zoe Chew | Substack
+ - [https://whizzoe.substack.com](https://whizzoe.substack.com)
+ - date published: 2024-05-07T14:12:34.323433+00:00
+ - user: None
+ - tags: []
+
+## Why is this interesting? | Noah Brier | Substack
+ - [https://whyisthisinteresting.substack.com](https://whyisthisinteresting.substack.com)
+ - date published: 2024-01-09T01:46:02.416332+00:00
+ - user: None
+ - tags: []
+
+## why we should | meika loofs samorzewski | Substack
+ - [https://whyweshould.substack.com](https://whyweshould.substack.com)
+ - date published: 2024-05-13T02:46:36.023716+00:00
+ - user: None
+ - tags: []
+
+## William’s Substack | William Pritting | Substack
+ - [https://william3n4z2.substack.com](https://william3n4z2.substack.com)
+ - date published: 2024-01-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## William Jakfar’s Newsletter | Substack
+ - [https://williamjakfar.substack.com](https://williamjakfar.substack.com)
+ - date published: 2024-03-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cosy Moments | William Poulos | Substack
+ - [https://williampoulos.substack.com](https://williampoulos.substack.com)
+ - date published: 2023-12-14T01:32:56.687154+00:00
+ - user: None
+ - tags: []
+
+## Internet Connection | Will Patrick | Substack
+ - [https://willpatrick.substack.com](https://willpatrick.substack.com)
+ - date published: 2024-05-11T05:40:07.363955+00:00
+ - user: None
+ - tags: []
+
+## Will’s World | Will O'Brien | Substack
+ - [https://willsworld.substack.com](https://willsworld.substack.com)
+ - date published: 2024-05-06T16:46:18.321292+00:00
+ - user: None
+ - tags: []
+
+## Great CTOs Focus on Outcomes  | Daniel Walters | Substack
+ - [https://wioota.substack.com](https://wioota.substack.com)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wittgenfine’s Word | Substack
+ - [https://wittgenfine.substack.com](https://wittgenfine.substack.com)
+ - date published: 2024-01-09T01:46:04.050317+00:00
+ - user: None
+ - tags: []
+
+## Wayne's Earth | L Wayne Mathison | Substack
+ - [https://wmathison.substack.com](https://wmathison.substack.com)
+ - date published: 2024-01-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Going Awol | Amos Wollen | Substack
+ - [https://wollenblog.substack.com](https://wollenblog.substack.com)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wood From Eden | Anders L | Substack
+ - [https://woodfromeden.substack.com](https://woodfromeden.substack.com)
+ - date published: 2024-01-09T01:46:05.713860+00:00
+ - user: None
+ - tags: []
+
+## Word Count: Mews, News and Reviews | Suw Charman-Anderson | Substack
+ - [https://wordcounting.substack.com](https://wordcounting.substack.com)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Work Chronicles | Substack
+ - [https://workchronicles.substack.com](https://workchronicles.substack.com)
+ - date published: 2024-05-07T16:04:57.486654+00:00
+ - user: None
+ - tags: []
+
+## The Works in Progress Newsletter | Substack
+ - [https://worksinprogress.substack.com](https://worksinprogress.substack.com)
+ - date published: 2023-10-25T10:07:34.429207+00:00
+ - user: None
+ - tags: ['substack']
+
+## https://worktopia.substack.com
+ - [https://worktopia.substack.com](https://worktopia.substack.com)
+ - date published: 2024-02-07T16:50:29.852317+00:00
+ - user: None
+ - tags: []
+
+## Worldish | Substack
+ - [https://worldish.substack.com](https://worldish.substack.com)
+ - date published: 2023-10-25T10:07:36.707638+00:00
+ - user: None
+ - tags: ['substack']
+
+## world spirit sock stack | Katja Grace | Substack
+ - [https://worldspiritsockpuppet.substack.com](https://worldspiritsockpuppet.substack.com)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## From the Desque of Robert Wringham | Substack
+ - [https://wringham.substack.com](https://wringham.substack.com)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wyclif's Dust | Substack
+ - [https://wyclif.substack.com](https://wyclif.substack.com)
+ - date published: 2023-10-25T10:07:39.575720+00:00
+ - user: None
+ - tags: ['substack']
+
+## Explorations and explanations | Dave Gray | Substack
+ - [https://xplaner.substack.com](https://xplaner.substack.com)
+ - date published: 2024-05-02T13:58:37.441313+00:00
+ - user: None
+ - tags: []
+
+## Year 2049 | Fawzi Ammache | Substack
+ - [https://year2049.substack.com](https://year2049.substack.com)
+ - date published: 2024-04-30T05:42:50.886813+00:00
+ - user: None
+ - tags: []
+
+## A Year of Bach | Evan Goldfine | Substack
+ - [https://yearofbach.substack.com](https://yearofbach.substack.com)
+ - date published: 2024-05-08T09:19:55.061468+00:00
+ - user: None
+ - tags: []
+
+## Fun With The Cloud | Yehuda Cohen | Substack
+ - [https://yehudacohen.substack.com](https://yehudacohen.substack.com)
+ - date published: 2023-10-25T10:07:41.995878+00:00
+ - user: None
+ - tags: ['substack']
+
+## Yassine Meskhout | Substack
+ - [https://ymeskhout.substack.com](https://ymeskhout.substack.com)
+ - date published: 2024-01-09T01:46:07.746464+00:00
+ - user: None
+ - tags: []
+
+## Simon's Blog | Simon Farshid | Substack
+ - [https://yonom.substack.com](https://yonom.substack.com)
+ - date published: 2024-01-09T01:46:10.208730+00:00
+ - user: None
+ - tags: []
+
 ## Your Local Epidemiologist | Katelyn Jetelina | Substack
  - [https://yourlocalepidemiologist.substack.com](https://yourlocalepidemiologist.substack.com)
  - date published: 2024-01-09T01:46:11.980363+00:00
@@ -2227,6 +2857,12 @@
 ## Synctera | Easily build banking for your customers
  - [https://www.synctera.com](https://www.synctera.com)
  - date published: 2023-10-25T17:20:46.427654+00:00
+ - user: None
+ - tags: []
+
+## ProQuest-Syndetic Solutions
+ - [https://secure.syndetics.com](https://secure.syndetics.com)
+ - date published: 2024-05-02T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5361,640 +5997,4 @@
  - date published: 2024-04-07T18:41:58+00:00
  - user: rumpel
  - tags: ['mods', 'tekken']
-
-## Tekken Warehouse – The new resource website for Tekken games
- - [https://www.tekkenwarehouse.com](https://www.tekkenwarehouse.com)
- - date published: 2024-05-09T14:14:24.783716+00:00
- - user: None
- - tags: ['tekken', 'video games']
-
-## Government & Enterprise Tech Solutions: Cybersecurity, Upskilling, Technical Services
- - [http://www.teknowledge.com](http://www.teknowledge.com)
- - date published: 2024-03-26T18:53:10+00:00
- - user: None
- - tags: []
-
-## Kühllösungen für jeden Bedarf - TEKO Kältetechnik
- - [https://teko-gmbh.com](https://teko-gmbh.com)
- - date published: 2024-05-07T10:04:32.054421+00:00
- - user: None
- - tags: []
-
-## Home - Tele2
- - [https://www.tele2.com](https://www.tele2.com)
- - date published: 2024-05-01T07:14:24.066181+00:00
- - user: None
- - tags: []
-
-## Telecoming | MONETIZATION TECHNOLOGY
- - [https://www.telecoming.com](https://www.telecoming.com)
- - date published: 2024-02-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Telecompaper
- - [https://www.telecompaper.com](https://www.telecompaper.com)
- - date published: 2024-02-24T18:23:27.782188+00:00
- - user: None
- - tags: []
-
-## Homepage - Telecoms Europe Events
- - [https://www.telecomseuropeevents.com](https://www.telecomseuropeevents.com)
- - date published: 2024-03-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Telecoms Events | Upcoming Telecoms Technology Events & Conferences
- - [https://www.telecomsevents.com](https://www.telecomsevents.com)
- - date published: 2024-03-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Telecoms Tech News| Latest Telecoms News & Insights
- - [https://www.telecomstechnews.com](https://www.telecomstechnews.com)
- - date published: 2024-05-01T04:55:24.028753+00:00
- - user: None
- - tags: []
-
-## TelecomTV | Where Telecoms Connects – 5G, Open Source, SDN, NFV
- - [https://www.telecomtv.com](https://www.telecomtv.com)
- - date published: 2023-10-25T17:26:27.343477+00:00
- - user: None
- - tags: []
-
-## Inicio - Telefónica
- - [https://www.telefonica.com](https://www.telefonica.com)
- - date published: 2024-03-07T16:41:27+00:00
- - user: None
- - tags: []
-
-## Telefunc
- - [https://telefunc.com](https://telefunc.com)
- - date published: 2023-10-25T17:26:28.348990+00:00
- - user: None
- - tags: []
-
-## Global Internet Map Map 2021
- - [https://global-internet-map-2021.telegeography.com](https://global-internet-map-2021.telegeography.com)
- - date published: 2024-05-15T07:32:27+00:00
- - user: rumpel
- - tags: ['infographics']
-
-## Submarine Cable Map 2023
- - [https://submarine-cable-map-2023.telegeography.com](https://submarine-cable-map-2023.telegeography.com)
- - date published: 2023-12-02T07:55:04+00:00
- - user: None
- - tags: []
-
-## TeleGeography | Home
- - [https://telegeography.com](https://telegeography.com)
- - date published: 2024-05-15T07:32:51+00:00
- - user: rumpel
- - tags: ['maps', 'infographics', 'internet']
-
-## TeleGeography | Home
- - [https://www2.telegeography.com](https://www2.telegeography.com)
- - date published: 2024-05-08T06:05:52.690677+00:00
- - user: None
- - tags: []
-
-## TeleGeography | Home
- - [https://www.telegeography.com](https://www.telegeography.com)
- - date published: 2024-05-08T06:05:54.597676+00:00
- - user: None
- - tags: []
-
-## Telegram to Notion | Instantly send content from Telegram to Notion
- - [https://telegramtonotion.com](https://telegramtonotion.com)
- - date published: 2024-05-08T04:51:44.116009+00:00
- - user: None
- - tags: []
-
-## Telegraph india epaper Calcutta  09 May 2024 | Page 1
- - [https://epaper.telegraphindia.com](https://epaper.telegraphindia.com)
- - date published: 2024-05-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Telegraph India | Latest News, Top Stories, Opinion, News Analysis and Comments
- - [https://www.telegraphindia.com](https://www.telegraphindia.com)
- - date published: 2024-03-13T00:00:00+00:00
- - user: None
- - tags: ['news']
-
-## Homepage
- - [https://telegraphmediagroup.com](https://telegraphmediagroup.com)
- - date published: 2024-05-02T12:21:30.566467+00:00
- - user: None
- - tags: []
-
-## TeleGuard - secure messenger from Switzerland
- - [https://teleguard.com](https://teleguard.com)
- - date published: 2024-05-09T05:37:44.909896+00:00
- - user: None
- - tags: []
-
-## Blockchain – Consensus Mechanisms in Comparison | Blog der Telekom MMS
- - [https://blog.telekom-mms.com](https://blog.telekom-mms.com)
- - date published: 2024-04-29T07:13:01.406812+00:00
- - user: None
- - tags: []
-
-## Telemundo Biloxi
- - [https://www.telemundobiloxi.com](https://www.telemundobiloxi.com)
- - date published: 2024-05-07T14:40:54.445559+00:00
- - user: None
- - tags: []
-
-## Inicio
- - [https://telemundocc.com](https://telemundocc.com)
- - date published: 2024-05-12T04:30:48.229041+00:00
- - user: None
- - tags: []
-
-## Telemundo Charleston
- - [https://www.telemundocharleston.com](https://www.telemundocharleston.com)
- - date published: 2024-05-04T12:55:30.143340+00:00
- - user: None
- - tags: []
-
-## Telemundo Cleveland | WTCL | Cleveland, Ohio
- - [https://www.telemundocleveland.com](https://www.telemundocleveland.com)
- - date published: 2024-05-08T05:35:04.531829+00:00
- - user: None
- - tags: []
-
-## Telemundo Columbus, GA
- - [https://www.telemundocolumbusga.com](https://www.telemundocolumbusga.com)
- - date published: 2024-05-07T16:27:52.844310+00:00
- - user: None
- - tags: []
-
-## Telemundo ENC
- - [https://www.telemundoenc.com](https://www.telemundoenc.com)
- - date published: 2024-05-07T14:30:53.735668+00:00
- - user: None
- - tags: []
-
-## Inicio
- - [https://www.telemundolubbock.com](https://www.telemundolubbock.com)
- - date published: 2024-05-04T09:27:01.733138+00:00
- - user: None
- - tags: []
-
-## Telemundo Panama City
- - [https://www.telemundopanamacity.com](https://www.telemundopanamacity.com)
- - date published: 2024-05-07T14:33:59.200502+00:00
- - user: None
- - tags: []
-
-## Telemundo Wilmington
- - [https://www.telemundowilmington.com](https://www.telemundowilmington.com)
- - date published: 2024-05-07T13:57:22.575065+00:00
- - user: None
- - tags: []
-
-## Telenor Linx - Enabling People Across the World to Consume Mobile Content
- - [http://telenordigital.com](http://telenordigital.com)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Teleprompter
- - [https://teleprompter.com](https://teleprompter.com)
- - date published: 2024-05-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Teleprompter Mirror | Beamsplitter & Teleprompter Software
- - [https://telepromptermirror.com](https://telepromptermirror.com)
- - date published: 2023-10-25T17:26:33.807422+00:00
- - user: None
- - tags: []
-
-## Kendo CDN
- - [https://kendo.cdn.telerik.com](https://kendo.cdn.telerik.com)
- - date published: 2024-04-28T02:24:35.788148+00:00
- - user: None
- - tags: []
-
-## Telerik & Kendo UI - .NET Components Suites & JavaScript UI Libraries
- - [https://www.telerik.com](https://www.telerik.com)
- - date published: 2023-10-25T17:26:36.939420+00:00
- - user: None
- - tags: ['proprietary']
-
-## Telet – UK 5G Mobile Networks
- - [https://teletresearch.com](https://teletresearch.com)
- - date published: 2024-05-08T11:07:23.925563+00:00
- - user: None
- - tags: []
-
-## Home | Televés
- - [https://www.televes.com](https://www.televes.com)
- - date published: 2024-04-29T02:49:34.145992+00:00
- - user: None
- - tags: []
-
-## Home Televisa
- - [https://www.televisa.com](https://www.televisa.com)
- - date published: 2024-04-29T05:02:02.539746+00:00
- - user: None
- - tags: []
-
-## Televisual Business Magazine For The Broadcast & Production Community
- - [https://www.televisual.com](https://www.televisual.com)
- - date published: 2024-05-08T05:04:14.686822+00:00
- - user: None
- - tags: []
-
-## Teller Report
- - [https://www.tellerreport.com](https://www.tellerreport.com)
- - date published: 2023-10-25T17:26:40.471754+00:00
- - user: None
- - tags: []
-
-## Telltale Games
- - [https://www.telltalegames.com](https://www.telltalegames.com)
- - date published: 2024-04-29T07:04:18.185175+00:00
- - user: None
- - tags: ['video games developer']
-
-## BBS Still Exist
- - [https://www.telnetbbsguide.com](https://www.telnetbbsguide.com)
- - date published: 2023-11-03T23:29:11+00:00
- - user: None
- - tags: []
-
-## Phones, Internet and TV on the most-awarded network | TELUS
- - [https://www.telus.com](https://www.telus.com)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Telva - Revista de Moda y Belleza - Telva
- - [https://www.telva.com](https://www.telva.com)
- - date published: 2024-05-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Telzio: Business Phone Systems in the Cloud
- - [https://telzio.com](https://telzio.com)
- - date published: 2024-05-01T05:46:37.599661+00:00
- - user: None
- - tags: []
-
-## Telzio: Business Phone Systems in the Cloud
- - [https://www.telzio.com](https://www.telzio.com)
- - date published: 2024-05-01T07:14:42.128163+00:00
- - user: None
- - tags: []
-
-## Replacement PCB Replicates Early 80s Modem
- - [https://tempestfpga.com](https://tempestfpga.com)
- - date published: 2024-02-22T12:32:23+00:00
- - user: None
- - tags: []
-
-## Tempest
- - [https://tempestwx.com](https://tempestwx.com)
- - date published: 2024-04-30T05:03:01.671873+00:00
- - user: None
- - tags: []
-
-## Free High Quality HTML CSS Website Templates
- - [https://templatefoundation.com](https://templatefoundation.com)
- - date published: 2024-04-28T01:56:37.620284+00:00
- - user: None
- - tags: []
-
-## Templateify - Premium Blogger Templates
- - [https://templateify.com](https://templateify.com)
- - date published: 2024-05-10T06:01:25.819996+00:00
- - user: None
- - tags: []
-
-## Templateify - Premium Blogger Templates
- - [https://www.templateify.com](https://www.templateify.com)
- - date published: 2024-04-29T03:35:25.416889+00:00
- - user: None
- - tags: []
-
-## Templateless: Design Email Using Code
- - [https://templateless.com](https://templateless.com)
- - date published: 2024-05-11T05:33:28.472635+00:00
- - user: None
- - tags: []
-
-## Web Templates | HTML5 Website Templates | Web Graphics
- - [https://www.templatemonster.com](https://www.templatemonster.com)
- - date published: 2023-12-13T15:53:04.783202+00:00
- - user: None
- - tags: []
-
-## Templates Para Blogspot Blogger
- - [https://www.templateparablogspot.com](https://www.templateparablogspot.com)
- - date published: 2024-04-29T07:19:10.660367+00:00
- - user: None
- - tags: []
-
-## Tempo
- - [http://tempobook.com](http://tempobook.com)
- - date published: 2008-10-29T02:19:34+00:00
- - user: None
- - tags: []
-
-## Tempus Ex Blog
- - [https://blog.tempus-ex.com](https://blog.tempus-ex.com)
- - date published: 2023-10-25T17:26:41.521155+00:00
- - user: None
- - tags: []
-
-## Tempus Fugit Spirits
- - [https://www.tempusfugitspirits.com](https://www.tempusfugitspirits.com)
- - date published: 2024-05-06T16:27:33.336511+00:00
- - user: None
- - tags: []
-
-## Temu Poland | Explore the Latest Clothing, Beauty, Home, Jewelry & More
- - [https://www.temu.com](https://www.temu.com)
- - date published: 2024-02-05T19:23:29.592455+00:00
- - user: rumpel
- - tags: ['shop']
-
-## TEN7 - We build, rescue and care for Drupal sites and teams.
- - [https://ten7.com](https://ten7.com)
- - date published: 2024-05-11T10:54:30.940770+00:00
- - user: None
- - tags: []
-
-## Tenacious D - The Official Website!
- - [https://tenaciousd.com](https://tenaciousd.com)
- - date published: 2023-11-01T09:33:17.217029+00:00
- - user: None
- - tags: ['music band']
-
-## 腾讯 AI Lab - 腾讯人工智能实验室官网
- - [https://ai.tencent.com](https://ai.tencent.com)
- - date published: 2024-04-28T03:40:34.649306+00:00
- - user: None
- - tags: []
-
-## ARC官网-腾讯
- - [https://arc.tencent.com](https://arc.tencent.com)
- - date published: 2024-04-28T03:30:57.953656+00:00
- - user: None
- - tags: []
-
-## 首页 | 腾讯招聘
- - [https://careers.tencent.com](https://careers.tencent.com)
- - date published: 2024-05-06T16:04:27.996829+00:00
- - user: None
- - tags: []
-
-## 腾讯云 - 产业智变 云启未来
- - [https://cloud.tencent.com](https://cloud.tencent.com)
- - date published: 2024-05-09T08:44:09.044518+00:00
- - user: None
- - tags: []
-
-## 腾讯知识产权平台 - Tencent IPR
- - [https://ipr.tencent.com](https://ipr.tencent.com)
- - date published: 2024-05-06T16:04:19.226020+00:00
- - user: None
- - tags: []
-
-## None
- - [https://keenlab.tencent.com](https://keenlab.tencent.com)
- - date published: 2024-04-05T06:47:20+00:00
- - user: rumpel
- - tags: []
-
-## Tencent 腾讯
- - [https://tencent.com](https://tencent.com)
- - date published: 2024-04-05T06:39:56+00:00
- - user: rumpel
- - tags: []
-
-## Tencent 腾讯
- - [https://www.tencent.com](https://www.tencent.com)
- - date published: 2024-02-07T10:36:33+00:00
- - user: rumpel
- - tags: ['video game vendor', 'video game developer']
-
-## Welcome - Rubydoc.info Support
- - [https://rubydoc.tenderapp.com](https://rubydoc.tenderapp.com)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tenderlove Making |  tenderlovemaking.com
- - [https://tenderlovemaking.com](https://tenderlovemaking.com)
- - date published: 2023-10-25T17:26:44.547477+00:00
- - user: None
- - tags: []
-
-## TenderOwl
- - [https://tenderowl.com](https://tenderowl.com)
- - date published: 2023-10-25T17:26:45.249090+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://cm.tennessean.com](https://cm.tennessean.com)
- - date published: 2024-05-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://connect.tennessean.com](https://connect.tennessean.com)
- - date published: 2024-05-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## Help Center - The Tennessean
- - [https://help.tennessean.com](https://help.tennessean.com)
- - date published: 2024-05-10T05:15:18.263887+00:00
- - user: None
- - tags: []
-
-## Newsletters | The Tennessean
- - [https://profile.tennessean.com](https://profile.tennessean.com)
- - date published: 2024-05-10T05:15:28.624339+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.tennessean.com](https://www.tennessean.com)
- - date published: 2023-12-10T00:52:46.601551+00:00
- - user: None
- - tags: []
-
-## Tennessee Star Newspaper, Latest State, Local, Investigative and Political News and Headlines
- - [https://tennesseestar.com](https://tennesseestar.com)
- - date published: 2024-05-08T10:13:45.754101+00:00
- - user: None
- - tags: []
-
-## Tennessee Valley Living
- - [http://www.tennesseevalleyweekend.com](http://www.tennesseevalleyweekend.com)
- - date published: 2024-05-07T11:10:45.415512+00:00
- - user: None
- - tags: []
-
-## Tennis.com
- - [http://www.tennis.com](http://www.tennis.com)
- - date published: 2024-05-10T05:15:47.536243+00:00
- - user: None
- - tags: []
-
-## Tennis Abstract: ATP and WTA Match Results, Splits, and Analysis
- - [https://www.tennisabstract.com](https://www.tennisabstract.com)
- - date published: 2024-05-17T02:45:05.408637+00:00
- - user: None
- - tags: []
-
-## Tennischannel
- - [https://tennischannel.com](https://tennischannel.com)
- - date published: 2024-05-10T05:55:03.275821+00:00
- - user: None
- - tags: []
-
-## International Tennis Hall of Fame
- - [https://www.tennisfame.com](https://www.tennisfame.com)
- - date published: 2024-05-11T07:34:43.471007+00:00
- - user: None
- - tags: []
-
-## Tennis Warehouse - Tennis racquets, tennis shoes, tennis apparel, string, tennis balls & rackets from Babolat, Wilson, Prince, Head, Nike, adidas
- - [https://www.tennis-warehouse.com](https://www.tennis-warehouse.com)
- - date published: 2024-05-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tennr | Turn your practice's most tedious tasks into revenue
- - [https://www.tennr.com](https://www.tennr.com)
- - date published: 2024-04-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tenor GIF Keyboard - Bring Personality To Your Conversations
- - [https://tenor.com](https://tenor.com)
- - date published: 2024-05-12T04:12:17.654584+00:00
- - user: None
- - tags: []
-
-## A practical programming tutorials on C++, C language, Windows and Linux network, MFC user interface GUI, Standard Template Library (STL), compilers, Win32, device drivers, secure coding and object oriented with code and program examples
- - [https://tenouk.com](https://tenouk.com)
- - date published: 2024-05-06T16:10:23.930129+00:00
- - user: None
- - tags: []
-
-## A practical programming tutorials on C++, C language, Windows and Linux network, MFC user interface GUI, Standard Template Library (STL), compilers, Win32, device drivers, secure coding and object oriented with code and program examples
- - [https://www.tenouk.com](https://www.tenouk.com)
- - date published: 2024-01-21T21:09:24.386744+00:00
- - user: None
- - tags: ['win32']
-
-## Tensegrity Design
- - [http://www.tensegritydesign.com](http://www.tensegritydesign.com)
- - date published: 2024-05-12T06:09:18.600102+00:00
- - user: None
- - tags: []
-
-## MediaWiki
- - [https://tensegritywiki.com](https://tensegritywiki.com)
- - date published: 2024-01-09T02:50:31.367709+00:00
- - user: None
- - tags: []
-
-## TensorWave - The AI Cloud
- - [https://tensorwave.com](https://tensorwave.com)
- - date published: 2024-05-02T09:38:38.750007+00:00
- - user: None
- - tags: []
-
-## Ten-X Commercial Real Estate
- - [https://www.ten-x.com](https://www.ten-x.com)
- - date published: 2024-05-12T07:41:09.043748+00:00
- - user: None
- - tags: []
-
-## Tenyx - The AI-powered voice agent that customers actually want
- - [https://www.tenyx.com](https://www.tenyx.com)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tenzir
- - [https://docs.tenzir.com](https://docs.tenzir.com)
- - date published: 2023-10-25T17:26:46.083579+00:00
- - user: None
- - tags: []
-
-## Tenzir | Open Source Data Pipelines for Security Teams
- - [https://tenzir.com](https://tenzir.com)
- - date published: 2024-05-06T16:10:29.400048+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://www.tep.com](https://www.tep.com)
- - date published: 2024-05-04T09:56:13.827499+00:00
- - user: None
- - tags: []
-
-## TEQnation – Developers Conference
- - [https://conference.teqnation.com](https://conference.teqnation.com)
- - date published: 2024-05-21T07:22:37.317022+00:00
- - user: None
- - tags: []
-
-## Terathon Software
- - [http://terathon.com](http://terathon.com)
- - date published: 2024-05-09T07:11:49.789870+00:00
- - user: None
- - tags: []
-
-## Terkel
- - [https://terkel.com](https://terkel.com)
- - date published: 2024-05-04T08:10:57.155580+00:00
- - user: None
- - tags: []
-
-## Terminal Trove – A collection of CLIs, TUIs and all things in the terminal
- - [https://terminaltrove.com](https://terminaltrove.com)
- - date published: 2023-12-11T21:02:20+00:00
- - user: None
- - tags: []
-
-## TerminusCMS
- - [https://dashboard.terminusdb.com](https://dashboard.terminusdb.com)
- - date published: 2024-05-06T16:10:30.668613+00:00
- - user: None
- - tags: []
-
-## TerminusDB - Made for developers who see the value of data
- - [https://terminusdb.com](https://terminusdb.com)
- - date published: 2023-10-25T17:26:59.630117+00:00
- - user: None
- - tags: []
-
-## TermsFeed
- - [https://www.termsfeed.com](https://www.termsfeed.com)
- - date published: 2024-04-30T06:44:19.334040+00:00
- - user: None
- - tags: []
-
-## Show HN: Term Typer – Learn a Language by Typing
- - [https://www.termtyper.com](https://www.termtyper.com)
- - date published: 2024-04-16T15:27:26+00:00
- - user: None
- - tags: ['learn', 'typing', 'languages']
-
-## Life Hacks and Technology Solutions for the Modern Musician
- - [https://teropotila.com](https://teropotila.com)
- - date published: 2023-12-21T08:23:31.688801+00:00
- - user: None
- - tags: ['personal']
 

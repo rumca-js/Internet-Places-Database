@@ -5188,6 +5188,12 @@
  - user: None
  - tags: []
 
+## Essay
+ - [https://essay.app](https://essay.app)
+ - date published: 2024-05-29T20:17:12.368194+00:00
+ - user: None
+ - tags: []
+
 ## Estimaker
  - [http://estimaker.app](http://estimaker.app)
  - date published: 2024-05-08T09:59:09.340703+00:00
@@ -5989,12 +5995,6 @@
 ## Astrofy | Personal Portfolio Website Template
  - [https://astro-modern-personal-website.netlify.app](https://astro-modern-personal-website.netlify.app)
  - date published: 2024-04-29T07:28:42.208361+00:00
- - user: None
- - tags: []
-
-## Astrolize - Starter Template for Astro
- - [https://astro-starter-theme.netlify.app](https://astro-starter-theme.netlify.app)
- - date published: 2024-05-09T08:14:29.616339+00:00
  - user: None
  - tags: []
 

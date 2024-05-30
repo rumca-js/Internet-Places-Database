@@ -1,3 +1,213 @@
+## Data Lakehouse Architecture and AI Company | Databricks
+ - [https://www.databricks.com](https://www.databricks.com)
+ - date published: 2023-10-25T13:43:30.770115+00:00
+ - user: None
+ - tags: []
+
+## Learn R, Python & Data Science Online
+ - [https://www.datacamp.com](https://www.datacamp.com)
+ - date published: 2024-05-04T14:03:22.510338+00:00
+ - user: None
+ - tags: []
+
+## Data center industry news, analysis and opinion - DCD
+ - [https://www.datacenterdynamics.com](https://www.datacenterdynamics.com)
+ - date published: 2023-10-25T09:32:36.241535+00:00
+ - user: None
+ - tags: []
+
+## Data Center Knowledge: News and analysis for the data center industry
+ - [https://www.datacenterknowledge.com](https://www.datacenterknowledge.com)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Realising the true potential of data centres for enterprises
+ - [https://datacentrecongress.com](https://datacentrecongress.com)
+ - date published: 2021-05-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## datacombinator.com - Domain Name For Sale | Dan.com
+ - [http://www.datacombinator.com](http://www.datacombinator.com)
+ - date published: 2024-05-12T06:25:52.622330+00:00
+ - user: None
+ - tags: []
+
+## Data Demythed
+ - [https://datademythed.com](https://datademythed.com)
+ - date published: 2023-10-25T13:43:38.710464+00:00
+ - user: None
+ - tags: []
+
+## Cloud Monitoring as a Service | Datadog
+ - [https://datadog.com](https://datadog.com)
+ - date published: 2016-07-14T20:32:45+00:00
+ - user: None
+ - tags: []
+
+## Datadog: Log In
+ - [https://app.datadoghq.com](https://app.datadoghq.com)
+ - date published: 2024-05-01T04:03:24.540990+00:00
+ - user: None
+ - tags: []
+
+## Join Our Pack | Datadog Careers
+ - [https://careers.datadoghq.com](https://careers.datadoghq.com)
+ - date published: 2024-05-01T04:03:16.304495+00:00
+ - user: None
+ - tags: []
+
+## Signin
+ - [https://corpsite-staging.datadoghq.com](https://corpsite-staging.datadoghq.com)
+ - date published: 2024-05-01T04:03:31.390950+00:00
+ - user: None
+ - tags: []
+
+## Cloud Monitoring as a Service | Datadog
+ - [https://datadoghq.com](https://datadoghq.com)
+ - date published: 2016-07-14T20:32:45+00:00
+ - user: None
+ - tags: []
+
+## Datadog Docs
+ - [https://docs.datadoghq.com](https://docs.datadoghq.com)
+ - date published: 2024-05-01T04:03:22.823593+00:00
+ - user: None
+ - tags: []
+
+## DRUIDS by Datadog
+ - [https://druids.datadoghq.com](https://druids.datadoghq.com)
+ - date published: 2023-10-25T13:43:41.490095+00:00
+ - user: None
+ - tags: []
+
+## imgix - Image Processing On-Demand, Served By CDN
+ - [https://imgix.datadoghq.com](https://imgix.datadoghq.com)
+ - date published: 2024-04-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Investor Relations | Datadog
+ - [https://investors.datadoghq.com](https://investors.datadoghq.com)
+ - date published: 2024-04-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cloud Monitoring as a Service | Datadog
+ - [https://lp.datadoghq.com](https://lp.datadoghq.com)
+ - date published: 2016-07-14T20:32:45+00:00
+ - user: None
+ - tags: []
+
+## Open Source Hub |  Datadog Open Source Hub
+ - [https://opensource.datadoghq.com](https://opensource.datadoghq.com)
+ - date published: 2024-05-01T04:03:28.929725+00:00
+ - user: None
+ - tags: []
+
+## Home |  Datadog Security Labs
+ - [https://securitylabs.datadoghq.com](https://securitylabs.datadoghq.com)
+ - date published: 2023-10-25T13:43:42.783008+00:00
+ - user: None
+ - tags: []
+
+## Datadog US1 Status
+ - [https://status.datadoghq.com](https://status.datadoghq.com)
+ - date published: 2024-05-01T04:01:07.489353+00:00
+ - user: None
+ - tags: []
+
+## Cloud Monitoring as a Service | Datadog
+ - [https://www.datadoghq.com](https://www.datadoghq.com)
+ - date published: 2023-10-25T13:43:54.515063+00:00
+ - user: None
+ - tags: []
+
+## Data Driven Fasting App
+ - [https://app.datadrivenfasting.com](https://app.datadrivenfasting.com)
+ - date published: 2024-05-06T22:03:07.217874+00:00
+ - user: None
+ - tags: []
+
+## Attention Required! | Cloudflare
+ - [https://www.datadrivenfasting.com](https://www.datadrivenfasting.com)
+ - date published: 2024-05-06T22:03:04.181678+00:00
+ - user: None
+ - tags: []
+
+## Data-Driven Hypothesis
+ - [https://www.datadrivenhypothesis.com](https://www.datadrivenhypothesis.com)
+ - date published: 2024-05-04T14:42:29.018401+00:00
+ - user: None
+ - tags: []
+
+## DDIntel | Justin Chan, Ph.D. | Substack
+ - [https://ddintel.datadriveninvestor.com](https://ddintel.datadriveninvestor.com)
+ - date published: 2024-05-04T11:43:23.623100+00:00
+ - user: None
+ - tags: []
+
+## DataDrivenInvestor
+ - [https://medium.datadriveninvestor.com](https://medium.datadriveninvestor.com)
+ - date published: 2024-05-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Data Engineering Podcast
+ - [https://www.dataengineeringpodcast.com](https://www.dataengineeringpodcast.com)
+ - date published: 2024-05-06T13:58:17.287594+00:00
+ - user: None
+ - tags: []
+
+## Data Engineering Weekly | Ananth Packkildurai | Substack
+ - [https://www.dataengineeringweekly.com](https://www.dataengineeringweekly.com)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Datafantic
+ - [https://datafantic.com](https://datafantic.com)
+ - date published: 2024-05-01T04:03:32.299272+00:00
+ - user: None
+ - tags: []
+
+## Domain error
+ - [https://www.datafantic.com](https://www.datafantic.com)
+ - date published: 2023-10-25T13:44:02.296933+00:00
+ - user: None
+ - tags: []
+
+## DataGenetics
+ - [https://datagenetics.com](https://datagenetics.com)
+ - date published: 2024-05-07T14:26:57.705161+00:00
+ - user: None
+ - tags: []
+
+## DataGenetics
+ - [http://www.datagenetics.com](http://www.datagenetics.com)
+ - date published: 2024-05-14T23:02:46.202735+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [https://dataintelo.com](https://dataintelo.com)
+ - date published: 2024-05-06T22:34:18.217267+00:00
+ - user: None
+ - tags: []
+
+## Data Is Plural
+ - [https://www.data-is-plural.com](https://www.data-is-plural.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Data Scientist | Dave Ramsey | PHL | blog
+ - [https://www.datajazzdave.com](https://www.datajazzdave.com)
+ - date published: 2024-02-26T14:45:39.711412+00:00
+ - user: None
+ - tags: []
+
 ## datalars
  - [https://datalars.com](https://datalars.com)
  - date published: 2023-10-25T13:44:08.044566+00:00
@@ -931,6 +1141,12 @@
 ## Dawna Gillespie | Lubbock Metalsmith & Copper Jeweler | Home
  - [https://www.dawnagillespie.com](https://www.dawnagillespie.com)
  - date published: 2024-05-04T09:27:06.733488+00:00
+ - user: None
+ - tags: []
+
+## Home | Fiction and Research of Dawn Walls-Thumma
+ - [http://dawnfelagund.com](http://dawnfelagund.com)
+ - date published: 2024-05-29T17:52:37.916800+00:00
  - user: None
  - tags: []
 
@@ -4848,6 +5064,12 @@
  - user: None
  - tags: []
 
+## Dave Heinemann
+ - [https://dheinemann.com](https://dheinemann.com)
+ - date published: 2024-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## DHgate - Buy China Wholesale Products Online Shopping from China Suppliers.
  - [https://www.dhgate.com](https://www.dhgate.com)
  - date published: 2024-05-09T04:36:45.505134+00:00
@@ -4883,6 +5105,12 @@
  - date published: 2019-08-30T00:00:00+00:00
  - user: None
  - tags: []
+
+## Diablo 2 Rune Calculator
+ - [https://www.diablo2runecalculator.com](https://www.diablo2runecalculator.com)
+ - date published: 2024-05-29T19:52:08.826064+00:00
+ - user: None
+ - tags: ['diablo 2']
 
 ## Diablo III
  - [https://eu.diablo3.com](https://eu.diablo3.com)
@@ -5769,234 +5997,6 @@
 ## Welcome, dear computer professional | Dijkstra's Rallying Cry for Generalization
  - [http://www.dijkstrascry.com](http://www.dijkstrascry.com)
  - date published: 2024-05-01T07:48:38.465683+00:00
- - user: None
- - tags: []
-
-## David Klein
- - [https://diklein.com](https://diklein.com)
- - date published: 2024-01-11T07:43:53.828915+00:00
- - user: None
- - tags: []
-
-## Dilawctory.com - Lawyers Directory
- - [https://www.dilawctory.com](https://www.dilawctory.com)
- - date published: 2024-05-07T13:42:42.480953+00:00
- - user: None
- - tags: []
-
-## Dilbert.com
- - [https://dilbert.com](https://dilbert.com)
- - date published: 2023-10-27T13:15:36.746639+00:00
- - user: None
- - tags: ['comics']
-
-## Dillon Shook
- - [https://dillonshook.com](https://dillonshook.com)
- - date published: 2024-02-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Transforming Social Impact: Data Collection Software & Digital Health Solutions
- - [https://www.dimagi.com](https://www.dimagi.com)
- - date published: 2024-05-08T06:45:21.076675+00:00
- - user: None
- - tags: []
-
-## DimensionEditor - Enhance Your Product Picture with Dimensions
- - [https://dimensioneditor.com](https://dimensioneditor.com)
- - date published: 2024-05-06T06:38:43.103665+00:00
- - user: None
- - tags: []
-
-## Dim Sum Thinking
- - [https://www.dimsumthinking.com](https://www.dimsumthinking.com)
- - date published: 2024-05-01T21:07:37.074433+00:00
- - user: None
- - tags: []
-
-## Dine On Campus
- - [https://dineoncampus.com](https://dineoncampus.com)
- - date published: 2024-05-07T21:13:35.485227+00:00
- - user: None
- - tags: []
-
-## Go Browser Package
- - [https://browser.dineshgowda.com](https://browser.dineshgowda.com)
- - date published: 2024-05-18T22:49:17+00:00
- - user: None
- - tags: []
-
-## BolaGacor - Situs Judi Bola Online Terpercaya Di Asia
- - [http://dinevthemes.com](http://dinevthemes.com)
- - date published: 2024-04-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## The most westerly golf course on the Wild Atlantic Way.
- - [https://www.dinglelinks.com](https://www.dinglelinks.com)
- - date published: 2024-02-08T17:35:32.106021+00:00
- - user: None
- - tags: []
-
-## Home
- - [http://www.dingtalk.com](http://www.dingtalk.com)
- - date published: 2024-03-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Hi! I'm Thi
- - [https://dinhanhthi.com](https://dinhanhthi.com)
- - date published: 2024-04-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dinis Correia
- - [https://diniscorreia.com](https://diniscorreia.com)
- - date published: 2024-05-09T08:15:08.029549+00:00
- - user: None
- - tags: []
-
-## Dinner Document
- - [https://dinnerdocument.com](https://dinnerdocument.com)
- - date published: 2024-05-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Echoes of Europe – Dino Massa (Italy) and Christopher Burnett (USA)
- - [http://dinomassakc.com](http://dinomassakc.com)
- - date published: 2024-05-12T05:27:06.675128+00:00
- - user: None
- - tags: []
-
-## Dinosaur Dracula!
- - [https://dinosaurdracula.com](https://dinosaurdracula.com)
- - date published: 2023-11-04T08:51:31.090289+00:00
- - user: None
- - tags: []
-
-## https://dionpatelis.com
- - [https://dionpatelis.com](https://dionpatelis.com)
- - date published: 2023-12-24T18:31:28.178491+00:00
- - user: None
- - tags: []
-
-## Diora
- - [https://dioragame.com](https://dioragame.com)
- - date published: 2023-10-25T13:52:51.753427+00:00
- - user: None
- - tags: []
-
-## Dioxus | An elegant GUI library for Rust
- - [https://dioxuslabs.com](https://dioxuslabs.com)
- - date published: 2023-10-25T13:52:52.991858+00:00
- - user: None
- - tags: []
-
-## Diploma Makers – Buy a Fake Diploma & Transcript Fast!
- - [https://diploma-makers.com](https://diploma-makers.com)
- - date published: 2024-04-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## DirectAdmin Web Control Panel Home
- - [https://directadmin.com](https://directadmin.com)
- - date published: 2024-05-01T07:11:52.662010+00:00
- - user: None
- - tags: []
-
-## DirectAdmin Web Control Panel Home
- - [https://www.directadmin.com](https://www.directadmin.com)
- - date published: 2024-05-01T05:49:49.055346+00:00
- - user: None
- - tags: []
-
-## dan goods
- - [https://www.directedplay.com](https://www.directedplay.com)
- - date published: 2023-10-25T13:52:55.965582+00:00
- - user: None
- - tags: []
-
-## Optimize Your Microsoft Decisions
- - [https://directionsonmicrosoft.com](https://directionsonmicrosoft.com)
- - date published: 2024-04-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Optimize Your IT Decisions | Directions on Microsoft
- - [https://www.directionsonmicrosoft.com](https://www.directionsonmicrosoft.com)
- - date published: 2023-10-25T13:52:59.308239+00:00
- - user: None
- - tags: []
-
-## Berkey Drinking Water Purification Systems & More | 1-877-886-3653
- - [https://www.directive21.com](https://www.directive21.com)
- - date published: 2024-05-06T17:14:26.596543+00:00
- - user: None
- - tags: []
-
-## Job Search | DirectlyApply
- - [https://directlyapply.com](https://directlyapply.com)
- - date published: 2023-11-07T16:06:41.136104+00:00
- - user: None
- - tags: []
-
-## directlync-forms.com is almost here!
- - [https://directlync-forms.com](https://directlync-forms.com)
- - date published: 2024-05-08T03:49:50.988529+00:00
- - user: None
- - tags: []
-
-## Direct Mail | Easy-to-use email marketing app for your Mac
- - [https://directmailmac.com](https://directmailmac.com)
- - date published: 2024-05-01T06:02:38.530923+00:00
- - user: None
- - tags: []
-
-## Directnic.com-Get a FREE Domain with any annual Hosting Plan
- - [https://directnic.com](https://directnic.com)
- - date published: 2024-05-01T06:00:57.233744+00:00
- - user: None
- - tags: []
-
-## DIRECTV | Call 855.796.1459 to Connect Via Internet or Satellite
- - [https://www.directv.com](https://www.directv.com)
- - date published: 2024-04-29T04:14:32.259847+00:00
- - user: None
- - tags: []
-
-## DirectXTutorial.com
- - [https://directxtutorial.com](https://directxtutorial.com)
- - date published: 2024-03-04T11:08:56+00:00
- - user: rumpel
- - tags: []
-
-## Dire Wolf Digital
- - [https://www.direwolfdigital.com](https://www.direwolfdigital.com)
- - date published: 2024-05-08T02:10:19.861359+00:00
- - user: None
- - tags: []
-
-## Dirk Riehle's Industry and Research Publications – Research publications and comments on the software industry, open source, and inner source
- - [https://dirkriehle.com](https://dirkriehle.com)
- - date published: 2023-10-25T13:53:06.633274+00:00
- - user: None
- - tags: []
-
-## Gardening and Plant related Web site. I deal with pest control, growing unusual plants, gardening for cats and various experiments.
- - [https://www.dirtonmyhands.com](https://www.dirtonmyhands.com)
- - date published: 2024-01-09T02:34:46.624342+00:00
- - user: None
- - tags: []
-
-## Dirty Bubble Media | Substack
- - [https://www.dirtybubblemedia.com](https://www.dirtybubblemedia.com)
- - date published: 2024-02-25T19:49:40.931816+00:00
- - user: None
- - tags: []
-
-## PCBs cheap! - DirtyPCBs.com
- - [https://dirtypcbs.com](https://dirtypcbs.com)
- - date published: 2024-05-08T04:02:44.187925+00:00
  - user: None
  - tags: []
 

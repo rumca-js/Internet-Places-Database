@@ -1,3 +1,989 @@
+## Vogue Italia: fashion, beauty, news
+ - [https://www.vogue.it](https://www.vogue.it)
+ - date published: 2024-05-07T10:59:34.399689+00:00
+ - user: None
+ - tags: []
+
+## Welcome to wallabag! – wallabag
+ - [https://app.wallabag.it](https://app.wallabag.it)
+ - date published: 2024-05-14T04:06:24.253243+00:00
+ - user: None
+ - tags: []
+
+## wallabag.it - Read your articles later
+ - [https://www.wallabag.it](https://www.wallabag.it)
+ - date published: 2024-05-14T04:06:26.482354+00:00
+ - user: None
+ - tags: []
+
+## Allyra Online Fundraising Tool
+ - [https://kuer.wedid.it](https://kuer.wedid.it)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Widiba
+ - [https://www.widiba.it](https://www.widiba.it)
+ - date published: 2024-05-01T07:17:11.955999+00:00
+ - user: None
+ - tags: []
+
+## Widilo - Il sito di Cashback &amp; Codici sconto più conveniente d'Italia
+ - [https://www.widilo.it](https://www.widilo.it)
+ - date published: 2024-05-08T00:26:00.156211+00:00
+ - user: None
+ - tags: []
+
+## Eventi
+ - [https://eventi.wired.it](https://eventi.wired.it)
+ - date published: 2024-04-03T06:41:44.649938+00:00
+ - user: None
+ - tags: []
+
+## Wired - Un mondo migliore. Un mondo nuovo. Ogni giorno.
+ - [https://www.wired.it](https://www.wired.it)
+ - date published: 2024-04-29T07:14:08.509124+00:00
+ - user: None
+ - tags: []
+
+## Sito Web ufficiale di Wondershare: creatività, produttività, utilità
+ - [https://www.wondershare.it](https://www.wondershare.it)
+ - date published: 2024-05-11T08:35:28.526337+00:00
+ - user: None
+ - tags: []
+
+## WWF Italia | Sito Ufficiale | A tutela dell'ambiente e degli animali
+ - [https://www.wwf.it](https://www.wwf.it)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ya2
+ - [https://www.ya2.it](https://www.ya2.it)
+ - date published: 2024-05-09T09:01:05.847276+00:00
+ - user: None
+ - tags: []
+
+## Yelp
+ - [https://www.yelp.it](https://www.yelp.it)
+ - date published: 2024-08-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Zaffiria
+ - [http://www.zaffiria.it](http://www.zaffiria.it)
+ - date published: 2024-05-07T23:42:35.389616+00:00
+ - user: None
+ - tags: []
+
+## Ordine dei Commercialisti e degli Esperti Contabili di Milano
+ - [https://www.odcec.mi.it](https://www.odcec.mi.it)
+ - date published: 2024-05-21T22:20:26.400516+00:00
+ - user: None
+ - tags: []
+
+## Consiglio Regionale del Piemonte
+ - [http://www.cr.piemonte.it](http://www.cr.piemonte.it)
+ - date published: 2024-05-01T02:40:20.706867+00:00
+ - user: None
+ - tags: []
+
+## Regione Piemonte
+ - [https://www.regione.piemonte.it](https://www.regione.piemonte.it)
+ - date published: 2024-05-11T11:49:28.918153+00:00
+ - user: None
+ - tags: []
+
+## Città di Torino - Servizio Telematico Pubblico
+ - [http://www.comune.torino.it](http://www.comune.torino.it)
+ - date published: 2024-05-11T11:49:39.689112+00:00
+ - user: None
+ - tags: []
+
+## Dev.java: The Destination for Java Developers
+ - [https://dev.java](https://dev.java)
+ - date published: 2024-05-06T15:20:15.157839+00:00
+ - user: None
+ - tags: []
+
+## Inside.java
+ - [https://inside.java](https://inside.java)
+ - date published: 2023-10-25T20:15:47.805588+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://dj.je](https://dj.je)
+ - date published: 2024-05-14T03:31:02.309591+00:00
+ - user: None
+ - tags: []
+
+## Simon Brown
+ - [http://simonbrown.je](http://simonbrown.je)
+ - date published: 2024-05-08T04:12:27.034626+00:00
+ - user: None
+ - tags: []
+
+## Linus's blog - Home
+ - [https://linus.schreibt.jetzt](https://linus.schreibt.jetzt)
+ - date published: 2023-10-25T20:15:48.629425+00:00
+ - user: None
+ - tags: []
+
+## Visa, a trusted leader in digital payments.
+ - [https://www.visa.com.jm](https://www.visa.com.jm)
+ - date published: 2024-05-12T03:58:38.888709+00:00
+ - user: None
+ - tags: []
+
+## JamCoders
+ - [https://jamcoders.org.jm](https://jamcoders.org.jm)
+ - date published: 2024-07-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://www.mof.gov.jo
+ - [https://www.mof.gov.jo](https://www.mof.gov.jo)
+ - date published: 2024-02-08T17:36:22.727790+00:00
+ - user: None
+ - tags: []
+
+## Citroën Origins
+ - [http://www.citroen-origins.jo](http://www.citroen-origins.jo)
+ - date published: 2024-05-08T05:30:58.220197+00:00
+ - user: None
+ - tags: []
+
+## Jordan News – Just another WordPress site
+ - [https://newspaper.jordannews.jo](https://newspaper.jordannews.jo)
+ - date published: 2024-05-06T15:20:20.518917+00:00
+ - user: None
+ - tags: []
+
+## Home Page - Jordan News | Latest News from Jordan, MENA
+ - [https://www.jordannews.jo](https://www.jordannews.jo)
+ - date published: 2023-11-06T01:35:39.245161+00:00
+ - user: None
+ - tags: []
+
+## Amazon's global career site
+ - [https://www.amazon.jobs](https://www.amazon.jobs)
+ - date published: 2024-05-01T02:02:02.766672+00:00
+ - user: None
+ - tags: []
+
+## Amazon Jobs Hiring Now - Hourly & Shift Jobs @ Amazon
+ - [https://www.amazondelivers.jobs](https://www.amazondelivers.jobs)
+ - date published: 2024-05-06T23:18:02.049602+00:00
+ - user: None
+ - tags: []
+
+## Lawyer & Legal Professional Job Search | Justia Legal Jobs
+ - [https://www.justia.jobs](https://www.justia.jobs)
+ - date published: 2024-05-09T06:35:00.158849+00:00
+ - user: None
+ - tags: []
+
+## wellfound.com
+ - [https://padlet.jobs](https://padlet.jobs)
+ - date published: 2023-10-25T20:15:54.132403+00:00
+ - user: None
+ - tags: []
+
+## Pearson Jobs
+ - [https://pearson.jobs](https://pearson.jobs)
+ - date published: 1970-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SOLID.Jobs – Platforma rekrutacyjna dla specjalistów
+ - [https://solid.jobs](https://solid.jobs)
+ - date published: 2024-05-08T06:16:59.929317+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [https://startup.jobs](https://startup.jobs)
+ - date published: 2024-05-06T14:18:02.092048+00:00
+ - user: None
+ - tags: []
+
+## MAKE A WISE MOVE
+ - [https://www.wise.jobs](https://www.wise.jobs)
+ - date published: 2024-05-07T14:29:22.034798+00:00
+ - user: None
+ - tags: []
+
+## Wall Street Journal Jobs
+ - [https://wsj.jobs](https://wsj.jobs)
+ - date published: 2024-05-07T16:26:44.681111+00:00
+ - user: None
+ - tags: []
+
+## ウェアラブル環境情報システム研究室
+ - [http://www.wil.it.aoyama.ac.jp](http://www.wil.it.aoyama.ac.jp)
+ - date published: 2024-05-07T20:38:24.872912+00:00
+ - user: None
+ - tags: []
+
+## 立命館アジア太平洋大学
+ - [https://www.apu.ac.jp](https://www.apu.ac.jp)
+ - date published: 2024-05-06T15:29:25.730777+00:00
+ - user: None
+ - tags: []
+
+## 千葉大学基金
+ - [https://kikin.chiba-u.ac.jp](https://kikin.chiba-u.ac.jp)
+ - date published: 2024-05-11T07:26:43.479146+00:00
+ - user: None
+ - tags: []
+
+## 国立大学法人 千葉大学｜Chiba University
+ - [https://www.chiba-u.ac.jp](https://www.chiba-u.ac.jp)
+ - date published: 2024-03-17T12:45:56.761836+00:00
+ - user: None
+ - tags: []
+
+## 国立大学法人 岐阜大学
+ - [https://www.gifu-u.ac.jp](https://www.gifu-u.ac.jp)
+ - date published: 2024-02-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DIPS for Max
+ - [http://dips.kcm-sd.ac.jp](http://dips.kcm-sd.ac.jp)
+ - date published: 2024-05-04T14:47:04.575994+00:00
+ - user: None
+ - tags: []
+
+## Adachi Lab.
+ - [http://arx.appi.keio.ac.jp](http://arx.appi.keio.ac.jp)
+ - date published: 2024-05-04T15:40:54.575060+00:00
+ - user: None
+ - tags: []
+
+## SESAMI Program |
+ - [https://sesami.b.kobe-u.ac.jp](https://sesami.b.kobe-u.ac.jp)
+ - date published: 2024-05-06T15:25:47.671358+00:00
+ - user: None
+ - tags: []
+
+## 神戸大学医学部保健学科・大学院保健学研究科
+ - [http://www.ams.kobe-u.ac.jp](http://www.ams.kobe-u.ac.jp)
+ - date published: 2024-05-06T15:25:52.244549+00:00
+ - user: None
+ - tags: []
+
+## 神戸大学大学院農学研究科・神戸大学農学部
+ - [http://www.ans.kobe-u.ac.jp](http://www.ans.kobe-u.ac.jp)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Graduate School of International Cooperation Studies (GSICS),  Kobe University
+ - [http://www.gsics.kobe-u.ac.jp](http://www.gsics.kobe-u.ac.jp)
+ - date published: 2024-05-06T15:25:44.271476+00:00
+ - user: None
+ - tags: []
+
+## 国立大学法人 神戸大学 (Kobe University)
+ - [https://www.kobe-u.ac.jp](https://www.kobe-u.ac.jp)
+ - date published: 2023-12-21T22:37:59.390250+00:00
+ - user: None
+ - tags: []
+
+## 神戸大学 医学研究科･医学部
+ - [https://www.med.kobe-u.ac.jp](https://www.med.kobe-u.ac.jp)
+ - date published: 2024-05-06T15:25:36.997440+00:00
+ - user: None
+ - tags: []
+
+## 神戸大学 大学院理学研究科・理学部
+ - [http://www.sci.kobe-u.ac.jp](http://www.sci.kobe-u.ac.jp)
+ - date published: 2024-05-06T15:25:56.012432+00:00
+ - user: None
+ - tags: []
+
+## 神戸大学×SDGs
+ - [https://www.sdgs.kobe-u.ac.jp](https://www.sdgs.kobe-u.ac.jp)
+ - date published: 2024-05-06T15:25:40.213421+00:00
+ - user: None
+ - tags: []
+
+## 立命館大学高大連携推進室
+ - [http://koudai.ac.jp](http://koudai.ac.jp)
+ - date published: 2024-05-06T15:30:01.481969+00:00
+ - user: None
+ - tags: []
+
+## ASHBi Institute for the Advanced Study of Human Biology
+ - [https://ashbi.kyoto-u.ac.jp](https://ashbi.kyoto-u.ac.jp)
+ - date published: 2023-12-28T17:06:21.539329+00:00
+ - user: None
+ - tags: []
+
+## KyotoU Future Commons
+ - [https://commons.research.kyoto-u.ac.jp](https://commons.research.kyoto-u.ac.jp)
+ - date published: 2024-05-06T15:26:23.524083+00:00
+ - user: None
+ - tags: []
+
+## KUIAS Kyoto University Institute for Advanced Study
+ - [https://kuias.kyoto-u.ac.jp](https://kuias.kyoto-u.ac.jp)
+ - date published: 2024-05-06T15:26:12.482309+00:00
+ - user: None
+ - tags: []
+
+## ASHBi / FOR STUDENT
+ - [https://student.ashbi.kyoto-u.ac.jp](https://student.ashbi.kyoto-u.ac.jp)
+ - date published: 2024-05-06T15:26:15.813625+00:00
+ - user: None
+ - tags: []
+
+## KyotoU Channel
+ - [https://www.channel.pr.kyoto-u.ac.jp](https://www.channel.pr.kyoto-u.ac.jp)
+ - date published: 2024-05-06T15:26:58.363411+00:00
+ - user: None
+ - tags: []
+
+## 京都大学男女共同参画推進センター
+ - [https://www.cwr.kyoto-u.ac.jp](https://www.cwr.kyoto-u.ac.jp)
+ - date published: 2024-03-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 京都大学 大学院 総合生存学館 (思修館)
+ - [https://www.gsais.kyoto-u.ac.jp](https://www.gsais.kyoto-u.ac.jp)
+ - date published: 2024-05-06T15:27:08.191243+00:00
+ - user: None
+ - tags: []
+
+## 京都大学経営管理大学院
+ - [https://www.gsm.kyoto-u.ac.jp](https://www.gsm.kyoto-u.ac.jp)
+ - date published: 2024-05-06T15:27:14.955546+00:00
+ - user: None
+ - tags: []
+
+## 京都大学基金
+ - [http://www.kikin.kyoto-u.ac.jp](http://www.kikin.kyoto-u.ac.jp)
+ - date published: 2024-05-06T15:26:45.525668+00:00
+ - user: None
+ - tags: []
+
+## 京都大学受験生ナビゲーション
+ - [https://www.kuac.kyoto-u.ac.jp](https://www.kuac.kyoto-u.ac.jp)
+ - date published: 2024-04-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## RIMS-Research Institute for Mathematical Sciences Kyoto University
+ - [http://www.kurims.kyoto-u.ac.jp](http://www.kurims.kyoto-u.ac.jp)
+ - date published: 2024-04-29T06:18:41.633569+00:00
+ - user: None
+ - tags: []
+
+## 京都大学
+ - [https://www.kyoto-u.ac.jp](https://www.kyoto-u.ac.jp)
+ - date published: 2024-01-02T16:45:34.615971+00:00
+ - user: None
+ - tags: ['university']
+
+## 京都大学総合博物館 – The Kyoto University Museum
+ - [https://www.museum.kyoto-u.ac.jp](https://www.museum.kyoto-u.ac.jp)
+ - date published: 2024-05-06T15:26:28.267798+00:00
+ - user: None
+ - tags: []
+
+## さくらのレンタルサーバ
+ - [http://www.nyusi.gakusei.kyoto-u.ac.jp](http://www.nyusi.gakusei.kyoto-u.ac.jp)
+ - date published: 2024-05-06T15:26:18.168993+00:00
+ - user: None
+ - tags: []
+
+## Kyoto University: Global Engagement
+ - [https://www.oc.kyoto-u.ac.jp](https://www.oc.kyoto-u.ac.jp)
+ - date published: 2024-05-06T15:26:48.356847+00:00
+ - user: None
+ - tags: []
+
+## トップページ
+ - [https://www.saci.kyoto-u.ac.jp](https://www.saci.kyoto-u.ac.jp)
+ - date published: 2024-05-06T15:26:34.688959+00:00
+ - user: None
+ - tags: []
+
+## ザッツ・京大 | 京都大学
+ - [https://www.thats.pr.kyoto-u.ac.jp](https://www.thats.pr.kyoto-u.ac.jp)
+ - date published: 2024-05-06T15:27:03.927338+00:00
+ - user: None
+ - tags: []
+
+## Nagoya University Global 30 International Programs
+ - [https://admissions.g30.nagoya-u.ac.jp](https://admissions.g30.nagoya-u.ac.jp)
+ - date published: 2024-04-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 名古屋大学　法政国際教育協力研究センター
+ - [https://cale.law.nagoya-u.ac.jp](https://cale.law.nagoya-u.ac.jp)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Nagoya University
+ - [https://cn.nagoya-u.ac.jp](https://cn.nagoya-u.ac.jp)
+ - date published: 2024-05-06T15:28:10.771047+00:00
+ - user: None
+ - tags: []
+
+## 名古屋大学 博士課程教育推進機構-Doctoral Education Consortium
+ - [https://dec.nagoya-u.ac.jp](https://dec.nagoya-u.ac.jp)
+ - date published: 2024-05-06T15:27:31.916324+00:00
+ - user: None
+ - tags: []
+
+## Nagoya University
+ - [https://en.nagoya-u.ac.jp](https://en.nagoya-u.ac.jp)
+ - date published: 2024-05-06T15:28:53.341640+00:00
+ - user: None
+ - tags: []
+
+## 名古屋大学基金
+ - [https://kikin.nagoya-u.ac.jp](https://kikin.nagoya-u.ac.jp)
+ - date published: 2024-05-06T15:27:39.003399+00:00
+ - user: None
+ - tags: []
+
+## Nagoya University Portal -Login-
+ - [https://portal.nagoya-u.ac.jp](https://portal.nagoya-u.ac.jp)
+ - date published: 2024-01-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 研究者総覧 - 名古屋大学
+ - [https://profs.provost.nagoya-u.ac.jp](https://profs.provost.nagoya-u.ac.jp)
+ - date published: 2024-05-06T15:27:28.006952+00:00
+ - user: None
+ - tags: []
+
+## 東海国立大学機構 シーズ検索システム SeedsSearch＋AI
+ - [https://seeds-search.aip.nagoya-u.ac.jp](https://seeds-search.aip.nagoya-u.ac.jp)
+ - date published: 2024-05-06T15:27:57.845465+00:00
+ - user: None
+ - tags: []
+
+## 名古屋大学 学術研究・産学官連携推進本部
+ - [https://www.aip.nagoya-u.ac.jp](https://www.aip.nagoya-u.ac.jp)
+ - date published: 2024-04-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 名古屋大学減災連携研究センター | 最先端の減災研究に基づいて中京圏における地域全体の様々な連携を深め、減災社会モデルをつくります
+ - [https://www.gensai.nagoya-u.ac.jp](https://www.gensai.nagoya-u.ac.jp)
+ - date published: 2024-05-06T15:27:34.657163+00:00
+ - user: None
+ - tags: []
+
+## 名古屋大学 高等研究院
+ - [http://www.iar.nagoya-u.ac.jp](http://www.iar.nagoya-u.ac.jp)
+ - date published: 2024-04-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 名古屋大学未来材料・システム研究所
+ - [https://www.imass.nagoya-u.ac.jp](https://www.imass.nagoya-u.ac.jp)
+ - date published: 2024-05-06T15:27:23.789372+00:00
+ - user: None
+ - tags: []
+
+## HOME
+ | ISEE 名古屋大学宇宙地球環境研究所
+ - [https://www.isee.nagoya-u.ac.jp](https://www.isee.nagoya-u.ac.jp)
+ - date published: 2024-05-06T15:27:44.584929+00:00
+ - user: None
+ - tags: []
+
+## WPI World Premier International Research Center Initiative: Institute of Transformative Bio-Molecules, Nagoya University
+ - [https://www.itbm.nagoya-u.ac.jp](https://www.itbm.nagoya-u.ac.jp)
+ - date published: 2024-05-06T15:28:01.283938+00:00
+ - user: None
+ - tags: []
+
+## 名古屋大学 素粒子宇宙起源研究所（KMI）
+ - [https://www.kmi.nagoya-u.ac.jp](https://www.kmi.nagoya-u.ac.jp)
+ - date published: 2024-05-06T15:27:52.477279+00:00
+ - user: None
+ - tags: []
+
+## 名古屋大学未来社会創造機構
+ - [https://www.mirai.nagoya-u.ac.jp](https://www.mirai.nagoya-u.ac.jp)
+ - date published: 2024-05-06T15:27:46.680103+00:00
+ - user: None
+ - tags: []
+
+## 名古屋大学 メディカルイノベーション推進室
+ - [http://www.miu.aip.nagoya-u.ac.jp](http://www.miu.aip.nagoya-u.ac.jp)
+ - date published: 2024-05-06T15:28:43.657625+00:00
+ - user: None
+ - tags: []
+
+## 名古屋大学
+ - [https://www.nagoya-u.ac.jp](https://www.nagoya-u.ac.jp)
+ - date published: 2023-10-25T20:15:58.916788+00:00
+ - user: None
+ - tags: []
+
+## 名古屋大学環境医学研究所
+ - [http://www.riem.nagoya-u.ac.jp](http://www.riem.nagoya-u.ac.jp)
+ - date published: 2024-05-06T15:28:40.516119+00:00
+ - user: None
+ - tags: []
+
+## T-GEx
+ - [https://www.t-gex.nagoya-u.ac.jp](https://www.t-gex.nagoya-u.ac.jp)
+ - date published: 2024-05-06T15:28:15.005809+00:00
+ - user: None
+ - tags: []
+
+## 国文学研究資料館学術情報リポジトリ
+ - [https://kokubunken.repo.nii.ac.jp](https://kokubunken.repo.nii.ac.jp)
+ - date published: 2024-05-08T03:52:15.106607+00:00
+ - user: None
+ - tags: []
+
+## 名古屋大学学術機関リポジトリ
+ - [https://nagoya.repo.nii.ac.jp](https://nagoya.repo.nii.ac.jp)
+ - date published: 2024-05-06T15:28:50.651992+00:00
+ - user: None
+ - tags: []
+
+## 早稲田大学リポジトリ
+ - [https://waseda.repo.nii.ac.jp](https://waseda.repo.nii.ac.jp)
+ - date published: 2024-05-06T15:57:46.093456+00:00
+ - user: None
+ - tags: []
+
+## 国文学研究資料館
+ - [http://www.nijl.ac.jp](http://www.nijl.ac.jp)
+ - date published: 2024-05-08T03:57:25.439608+00:00
+ - user: None
+ - tags: []
+
+## 大阪大学学術情報庫OUKA
+ - [https://ir.library.osaka-u.ac.jp](https://ir.library.osaka-u.ac.jp)
+ - date published: 2024-04-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 大阪大学発の研究を。
+ - [https://resou.osaka-u.ac.jp](https://resou.osaka-u.ac.jp)
+ - date published: 2024-01-06T12:19:38.103646+00:00
+ - user: None
+ - tags: []
+
+## 増澤研究室-大阪大学大学院
+ - [http://www-masu.ist.osaka-u.ac.jp](http://www-masu.ist.osaka-u.ac.jp)
+ - date published: 2024-05-10T03:58:08.654796+00:00
+ - user: None
+ - tags: []
+
+## 大阪大学　未来基金
+ - [https://www.miraikikin.osaka-u.ac.jp](https://www.miraikikin.osaka-u.ac.jp)
+ - date published: 2024-05-06T15:29:21.461302+00:00
+ - user: None
+ - tags: []
+
+## トップページ
+ - [https://www.osaka-u.ac.jp](https://www.osaka-u.ac.jp)
+ - date published: 2024-05-06T15:29:13.811267+00:00
+ - user: None
+ - tags: []
+
+## トップページ
+ - [http://www.tekijuku.osaka-u.ac.jp](http://www.tekijuku.osaka-u.ac.jp)
+ - date published: 2024-03-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ritsumeikan University | Ritsumeikan University
+ - [https://en.ritsumei.ac.jp](https://en.ritsumei.ac.jp)
+ - date published: 2024-05-06T15:30:10.646657+00:00
+ - user: None
+ - tags: []
+
+## 立命館大学 宇宙地球探査研究センター (ESEC)
+ - [https://esec.ritsumei.ac.jp](https://esec.ritsumei.ac.jp)
+ - date published: 2024-05-06T15:30:23.447552+00:00
+ - user: None
+ - tags: []
+
+## 立命館慶祥・中学・高等学校
+ - [https://www2.spc.ritsumei.ac.jp](https://www2.spc.ritsumei.ac.jp)
+ - date published: 2024-05-06T15:29:34.078477+00:00
+ - user: None
+ - tags: []
+
+## 立命館守山中学校・高等学校 – 学校法人立命館の運営する立命館大学の附属校
+ - [https://www.mrc.ritsumei.ac.jp](https://www.mrc.ritsumei.ac.jp)
+ - date published: 2024-05-06T15:30:26.411496+00:00
+ - user: None
+ - tags: []
+
+## 立命館大学
+ - [https://www.ritsumei.ac.jp](https://www.ritsumei.ac.jp)
+ - date published: 2023-10-25T20:16:04.028920+00:00
+ - user: None
+ - tags: []
+
+## 芝浦工業大学 入試情報サイト SOCIETY
+ - [https://admissions.shibaura-it.ac.jp](https://admissions.shibaura-it.ac.jp)
+ - date published: 2024-05-11T09:20:15.571259+00:00
+ - user: None
+ - tags: []
+
+## 芝浦工業大学　駅伝部
+ - [https://ekiden.shibaura-it.ac.jp](https://ekiden.shibaura-it.ac.jp)
+ - date published: 2024-04-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 芝浦工業大学工学部サイト
+ - [https://eng.shibaura-it.ac.jp](https://eng.shibaura-it.ac.jp)
+ - date published: 2024-05-11T09:20:03.632764+00:00
+ - user: None
+ - tags: []
+
+## 芝浦工業大学システム理工学部改組
+ - [https://newsystems2026.shibaura-it.ac.jp](https://newsystems2026.shibaura-it.ac.jp)
+ - date published: 2024-05-11T09:20:22.358238+00:00
+ - user: None
+ - tags: []
+
+## SHIBAURA BUSINESS MODEL COMPETITION｜芝浦ビジネスモデルコンペティション
+ - [https://sbmc.shibaura-it.ac.jp](https://sbmc.shibaura-it.ac.jp)
+ - date published: 2024-05-11T09:20:24.976335+00:00
+ - user: None
+ - tags: []
+
+## SCOMBZ
+ - [https://scombz.shibaura-it.ac.jp](https://scombz.shibaura-it.ac.jp)
+ - date published: 2024-05-11T09:20:08.586668+00:00
+ - user: None
+ - tags: []
+
+## SIT SYLLABUS SYSTEM
+ - [http://syllabus.sic.shibaura-it.ac.jp](http://syllabus.sic.shibaura-it.ac.jp)
+ - date published: 2024-05-11T09:20:10.583872+00:00
+ - user: None
+ - tags: []
+
+## 芝浦工業大学
+ - [https://www.shibaura-it.ac.jp](https://www.shibaura-it.ac.jp)
+ - date published: 2024-03-22T14:01:44.799457+00:00
+ - user: None
+ - tags: []
+
+## 東海国立大学機構
+ - [https://www.thers.ac.jp](https://www.thers.ac.jp)
+ - date published: 2024-05-06T15:28:05.943454+00:00
+ - user: None
+ - tags: []
+
+## 東北大学SSO - TOHOKU University SSO -
+ - [https://gw.tohoku.ac.jp](https://gw.tohoku.ac.jp)
+ - date published: 2024-03-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 東北大学 災害科学国際研究所 IRIDeS
+ - [https://irides.tohoku.ac.jp](https://irides.tohoku.ac.jp)
+ - date published: 2024-05-10T05:48:37.285218+00:00
+ - user: None
+ - tags: []
+
+## 東北大学海外同窓会ネットワーク
+ - [https://overseas-alumni.bureau.tohoku.ac.jp](https://overseas-alumni.bureau.tohoku.ac.jp)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## TU Support – TOHOKU UNIVERSITY International Support Center –
+ - [https://sup.bureau.tohoku.ac.jp](https://sup.bureau.tohoku.ac.jp)
+ - date published: 2024-05-10T05:48:30.209267+00:00
+ - user: None
+ - tags: []
+
+## UW-TU:Academic Open Space
+ - [https://uw-tu-aos.bureau.tohoku.ac.jp](https://uw-tu-aos.bureau.tohoku.ac.jp)
+ - date published: 2024-05-10T05:48:23.282175+00:00
+ - user: None
+ - tags: []
+
+## 東北大学 DXナビゲーション
+ - [https://www.dx.tohoku.ac.jp](https://www.dx.tohoku.ac.jp)
+ - date published: 2024-05-10T05:48:34.351075+00:00
+ - user: None
+ - tags: []
+
+## 東北大学 高度教養教育・学生支援機構.
+ - [http://www.ihe.tohoku.ac.jp](http://www.ihe.tohoku.ac.jp)
+ - date published: 2024-05-29T04:08:00.393137+00:00
+ - user: None
+ - tags: []
+
+## 東北大学グローバルラーニングセンター-Tohoku University
+ - [http://www.insc.tohoku.ac.jp](http://www.insc.tohoku.ac.jp)
+ - date published: 2024-05-10T05:48:16.575330+00:00
+ - user: None
+ - tags: []
+
+## 東北メディカル・メガバンク機構
+ - [http://www.megabank.tohoku.ac.jp](http://www.megabank.tohoku.ac.jp)
+ - date published: 2024-05-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 東北大学 - 研究者紹介
+ - [https://www.r-info.tohoku.ac.jp](https://www.r-info.tohoku.ac.jp)
+ - date published: 2024-05-10T05:47:58.178149+00:00
+ - user: None
+ - tags: []
+
+## 東北大学 産学連携機構
+ - [http://www.rpip.tohoku.ac.jp](http://www.rpip.tohoku.ac.jp)
+ - date published: 2024-05-10T05:48:02.325598+00:00
+ - user: None
+ - tags: []
+
+## Tohoku Forum for Creativity
+ - [http://www.tfc.tohoku.ac.jp](http://www.tfc.tohoku.ac.jp)
+ - date published: 2024-05-10T05:48:14.246578+00:00
+ - user: None
+ - tags: []
+
+## Tohoku University
+ - [https://www.tohoku.ac.jp](https://www.tohoku.ac.jp)
+ - date published: 2023-12-05T10:47:34.290298+00:00
+ - user: None
+ - tags: []
+
+## Advanced Institute for Materials Research,Tohoku University
+ - [http://www.wpi-aimr.tohoku.ac.jp](http://www.wpi-aimr.tohoku.ac.jp)
+ - date published: 2024-05-10T05:48:40.892723+00:00
+ - user: None
+ - tags: []
+
+## 創基151年筑波大学開学50周年記念特設ウェブサイト
+ - [https://50th.projects.tsukuba.ac.jp](https://50th.projects.tsukuba.ac.jp)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学入試情報サイト
+ - [https://ac.tsukuba.ac.jp](https://ac.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:32:24.861021+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学　人工知能科学センター
+ - [https://air.tsukuba.ac.jp](https://air.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:40:48.348405+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学リスク・安全管理課｜
+【再掲】作業主任者等の追加・変更について（依頼）｜
+ - [https://anzenkanri.tsukuba.ac.jp](https://anzenkanri.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:35:22.970039+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学アーカイブズ
+ - [https://archives.tsukuba.ac.jp](https://archives.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:30:33.940885+00:00
+ - user: None
+ - tags: []
+
+## Course Jukebox
+ - [https://cj.tsukuba.ac.jp](https://cj.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:32:30.279035+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学｜BHE
+ - [https://dac.tsukuba.ac.jp](https://dac.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:34:42.777984+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学エクステンションプログラム
+ - [https://extension.sec.tsukuba.ac.jp](https://extension.sec.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:40:43.683654+00:00
+ - user: None
+ - tags: []
+
+## Home | 筑波大学基金
+ - [https://futureship.sec.tsukuba.ac.jp](https://futureship.sec.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:31:17.103732+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学GFEST～未来を切り拓くフロントランナー育成プログラム | 未来を切り拓くのはあなた
+ - [https://gfest.tsukuba.ac.jp](https://gfest.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:33:47.379732+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学高大連携 | 高校生向け出前講義・研究体験
+ - [http://koudai.tsukuba.ac.jp](http://koudai.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:34:23.296932+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学オープンコースウェア｜TSUKUBA OCW | 筑波大学オープンコースウェア（TSUKUBA OCW）は、大学と社会の新しいインターフェースを作り、大学が取り組んでいる新しい知の在り方を社会に問うていくことを目的とした、教育コンテンツを提供するプラットフォームです。
+ - [https://ocw.tsukuba.ac.jp](https://ocw.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:31:06.357163+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学 オープンイノベーション国際戦略機構 | 筑波大学 オープンイノベーション国際戦略機構 〈Open Innovation Strategy Organization（OISO）〉
+ - [https://oiso.tsukuba.ac.jp](https://oiso.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:31:59.988048+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学　オープンファシリティー推進機構
+ - [https://openfacility.sec.tsukuba.ac.jp](https://openfacility.sec.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:32:11.382464+00:00
+ - user: None
+ - tags: []
+
+## 西アジア文明研究センター
+ - [https://rcwac.histanth.tsukuba.ac.jp](https://rcwac.histanth.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:35:05.567956+00:00
+ - user: None
+ - tags: []
+
+## 社会貢献・地域連携 | 筑波大学
+ - [https://scpj.tsukuba.ac.jp](https://scpj.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:32:55.492612+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学 総合学域群
+ - [https://scs.tsukuba.ac.jp](https://scs.tsukuba.ac.jp)
+ - date published: 2024-03-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学 施設部 ホームページ
+ - [https://shisetsu.sec.tsukuba.ac.jp](https://shisetsu.sec.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:30:55.255336+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学SKIP
+ - [https://skip.tsukuba.ac.jp](https://skip.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:34:01.865842+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学学生相談室 – 筑波大学学生相談室では、学生相談、総合相談窓口、ピアサポートの3部門の活動を通して、よりよい学生生活を送るお手伝いをしています。
+ - [https://soudan.sec.tsukuba.ac.jp](https://soudan.sec.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:32:52.905213+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学スチューデントサポートセンター
+ - [https://ssc.sec.tsukuba.ac.jp](https://ssc.sec.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:30:30.313961+00:00
+ - user: None
+ - tags: []
+
+## Tomonaga Center for the History of the Universe
+ - [https://tchou.tomonaga.tsukuba.ac.jp](https://tchou.tomonaga.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:33:15.781095+00:00
+ - user: None
+ - tags: []
+
+## TGSW 2022 - Tsukuba Global Science Week 2022
+ - [https://tgsw.tsukuba.ac.jp](https://tgsw.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:35:09.229830+00:00
+ - user: None
+ - tags: []
+
+## 海外渡航システム（TRIP）
+ - [https://trip.sec.tsukuba.ac.jp](https://trip.sec.tsukuba.ac.jp)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## TSUKU COMM
+ - [https://tsukucomm.sec.tsukuba.ac.jp](https://tsukucomm.sec.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:34:19.883451+00:00
+ - user: None
+ - tags: []
+
+## CampusSquare for WEB
+ - [https://twins.tsukuba.ac.jp](https://twins.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:40:25.087990+00:00
+ - user: None
+ - tags: []
+
+## COTRE（コトリ）｜COmmunity of Tsukuba REsearchers
+ - [https://ura.sec.tsukuba.ac.jp](https://ura.sec.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:31:02.732122+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学学生人材バンク
+ - [https://ut-jinzai-bank.tsukuba.ac.jp](https://ut-jinzai-bank.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:32:16.076628+00:00
+ - user: None
+ - tags: []
+
+## International Institute for Integrative Sleep Medicine, University of Tsukuba
+ - [https://wpi-iiis.tsukuba.ac.jp](https://wpi-iiis.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:40:29.427063+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学 人間系
+ - [https://www2.human.tsukuba.ac.jp](https://www2.human.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:32:06.095946+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学大学院　募集要項
+ - [https://www.ap-graduate.tsukuba.ac.jp](https://www.ap-graduate.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:30:52.826903+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学体育系ARIHHP
+ - [https://www.arihhp.taiiku.tsukuba.ac.jp](https://www.arihhp.taiiku.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:32:50.129263+00:00
+ - user: None
+ - tags: []
+
+## A.R.T. 筑波アート – Art Resources in Tsukuba
+ - [http://www.art.tsukuba.ac.jp](http://www.art.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:30:58.919144+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学国際局ウェブサイト - Bureau of Global Initiatives
+ - [https://www.bgi.sec.tsukuba.ac.jp](https://www.bgi.sec.tsukuba.ac.jp)
+ - date published: 2021-06-14T04:16:27+00:00
+ - user: None
+ - tags: []
+
+## HOME | 筑波大学大学経営推進局
+ - [https://www.bsmi.sec.tsukuba.ac.jp](https://www.bsmi.sec.tsukuba.ac.jp)
+ - date published: 2024-05-06T15:33:44.787786+00:00
+ - user: None
+ - tags: []
+
 ## www.ccr.tsukuba.ac.jp
  - [https://www.ccr.tsukuba.ac.jp](https://www.ccr.tsukuba.ac.jp)
  - date published: 2024-05-06T15:34:46.774205+00:00
@@ -5011,990 +5997,6 @@
 ## Levels - Unlock Your Metabolic Health
  - [http://levels.link](http://levels.link)
  - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Luciano Mammino - Cloud Architect and Fullstack Developer
- - [http://www.loige.link](http://www.loige.link)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Uploadcare CDN
- - [https://cdn.lugc.link](https://cdn.lugc.link)
- - date published: 2024-05-09T09:22:05.335590+00:00
- - user: None
- - tags: []
-
-## Magic | The leading wallet-as-a-service plus essential NFT capabilities
- - [https://magic.link](https://magic.link)
- - date published: 2024-05-08T06:19:11.294387+00:00
- - user: None
- - tags: []
-
-## nightly.link
- - [https://nightly.link](https://nightly.link)
- - date published: 2024-05-08T06:48:07.494111+00:00
- - user: None
- - tags: []
-
-## Invalid Dynamic Link
- - [https://shackpets.page.link](https://shackpets.page.link)
- - date published: 2024-04-29T03:29:19.505125+00:00
- - user: None
- - tags: []
-
-## None
- - [https://playwt.link](https://playwt.link)
- - date published: 2024-02-27T03:24:23.282950+00:00
- - user: None
- - tags: []
-
-## pod.link | Share a Podcast
- - [https://pod.link](https://pod.link)
- - date published: 2024-01-09T03:34:12.465235+00:00
- - user: None
- - tags: []
-
-## Secure Payment Page | Safe Payment Pages
- - [https://securepayment.link](https://securepayment.link)
- - date published: 2024-05-02T07:53:12.153882+00:00
- - user: None
- - tags: []
-
-## McDonald's
- - [https://mcdonalds.smart.link](https://mcdonalds.smart.link)
- - date published: 2024-05-04T14:49:03.698902+00:00
- - user: None
- - tags: []
-
-## Songlink/Odesli
- - [https://song.link](https://song.link)
- - date published: 2023-12-21T19:06:26+00:00
- - user: rumpel
- - tags: ['link service', 'music']
-
-## Spotify - Web Player: Music for everyone
- - [https://spotify.link](https://spotify.link)
- - date published: 2024-05-04T12:59:14.354236+00:00
- - user: None
- - tags: []
-
-## statico.link
- - [https://statico.link](https://statico.link)
- - date published: 2024-05-04T11:49:00.499810+00:00
- - user: None
- - tags: []
-
-## Rebrandly
- - [https://strongpp.link](https://strongpp.link)
- - date published: 2024-05-06T23:13:46.571989+00:00
- - user: None
- - tags: []
-
-## The Forest
- - [https://theforest.link](https://theforest.link)
- - date published: 2024-04-29T06:00:25.456974+00:00
- - user: None
- - tags: []
-
-## Tripulse Community
- - [https://tripulse.link](https://tripulse.link)
- - date published: 2024-05-09T07:47:59.416244+00:00
- - user: None
- - tags: []
-
-## Sign In
- - [http://tst.link](http://tst.link)
- - date published: 2024-05-02T10:39:13.183725+00:00
- - user: None
- - tags: []
-
-## https://viralnation.link
- - [https://viralnation.link](https://viralnation.link)
- - date published: 2024-01-25T23:56:16.145438+00:00
- - user: None
- - tags: []
-
-## Advanced Configurations
- - [https://virtualize.link](https://virtualize.link)
- - date published: 2024-05-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Link in Bio
- - [https://w.link](https://w.link)
- - date published: 2024-05-07T16:04:22.423419+00:00
- - user: None
- - tags: []
-
-## World Cube Association
- - [https://wca.link](https://wca.link)
- - date published: 2024-05-10T07:00:24.484168+00:00
- - user: None
- - tags: []
-
-## Wrongthink
- - [https://wrongthink.link](https://wrongthink.link)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://zdcs.link
- - [https://zdcs.link](https://zdcs.link)
- - date published: 2024-03-01T14:49:31.226742+00:00
- - user: None
- - tags: []
-
-## Twilight Princess Decompilation
- - [https://zsrtp.link](https://zsrtp.link)
- - date published: 2024-05-14T12:14:24.738699+00:00
- - user: None
- - tags: ['open source', 'video game port', 'legend of zelda']
-
-## AIT LIVE | News Headlines, Politics, Business, Entertainment & Exclusive
- - [https://ait.live](https://ait.live)
- - date published: 2022-04-08T04:28:57+00:00
- - user: None
- - tags: []
-
-## Cherno Threads
- - [https://cherno.live](https://cherno.live)
- - date published: 2024-03-19T10:00:56.851019+00:00
- - user: None
- - tags: []
-
-## Copilot - Custom GPT chatbot for your website
- - [https://www.copilot.live](https://www.copilot.live)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## CuriousCat
- - [https://curiouscat.live](https://curiouscat.live)
- - date published: 2024-05-08T04:50:10.103011+00:00
- - user: None
- - tags: []
-
-## Datos - Behavioral Data to Power Your Products and Insights
- - [https://datos.live](https://datos.live)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Discover Crypto - The Largest Crypto Community on the Internet
- - [https://discovercrypto.live](https://discovercrypto.live)
- - date published: 2022-06-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ditto - Sync apps without internet
- - [https://ditto.live](https://ditto.live)
- - date published: 2024-04-30T00:30:21.852598+00:00
- - user: None
- - tags: []
-
-## Ditto - Sync without internet
- - [https://www.ditto.live](https://www.ditto.live)
- - date published: 2023-10-25T20:18:43.975066+00:00
- - user: None
- - tags: []
-
-## ⚡️ Electricity prices Europe
- - [https://euenergy.live](https://euenergy.live)
- - date published: 2024-04-14T06:27:06.292765+00:00
- - user: None
- - tags: ['europe statistics']
-
-## Fast5
- - [https://fast5.live](https://fast5.live)
- - date published: 2024-04-29T07:32:23.598658+00:00
- - user: None
- - tags: []
-
-## Frolic Live: Play Games, Win Cash and Earn Money App
- - [https://www.frolic.live](https://www.frolic.live)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Live Video Chat With Your Website Visitors · Joyyo
- - [https://hibox.live](https://hibox.live)
- - date published: 2023-10-25T20:18:45.413550+00:00
- - user: None
- - tags: []
-
-## Insignia
- - [https://insignia.live](https://insignia.live)
- - date published: 2024-05-07T15:29:15.537348+00:00
- - user: None
- - tags: []
-
-## Is Github IPV6 Ready Yet? NO
- - [https://isgithubipv6.live](https://isgithubipv6.live)
- - date published: 2024-02-06T09:17:59.487530+00:00
- - user: None
- - tags: []
-
-## Jamsocket.live
- - [https://api.jamsocket.live](https://api.jamsocket.live)
- - date published: 2024-05-01T07:46:42.082545+00:00
- - user: None
- - tags: []
-
-## Jamsocket.live
- - [https://jamsocket.live](https://jamsocket.live)
- - date published: 2024-05-01T07:46:42.778901+00:00
- - user: None
- - tags: []
-
-## Spotify
- - [http://jorgetallica.live](http://jorgetallica.live)
- - date published: 2024-05-07T18:38:54.938294+00:00
- - user: None
- - tags: []
-
-## jott - landing
- - [https://jott.live](https://jott.live)
- - date published: 2023-10-25T20:18:53.019754+00:00
- - user: None
- - tags: []
-
-## 500
- - [https://i2-prod.lancs.live](https://i2-prod.lancs.live)
- - date published: 2024-05-02T11:50:26.289569+00:00
- - user: None
- - tags: []
-
-## LancsLive - Latest news, sport, business and more from Lancashire
- - [https://www.lancs.live](https://www.lancs.live)
- - date published: 2024-05-13T02:41:53.554305+00:00
- - user: None
- - tags: []
-
-## narze's garden
- - [https://garden.narze.live](https://garden.narze.live)
- - date published: 2024-05-11T10:24:48.035302+00:00
- - user: None
- - tags: []
-
-## LiveView Native
- - [https://native.live](https://native.live)
- - date published: 2023-10-25T20:18:54.280137+00:00
- - user: None
- - tags: []
-
-## Neovim Conf 2022
- - [https://www.neovimconf.live](https://www.neovimconf.live)
- - date published: 2023-10-25T20:18:55.238673+00:00
- - user: None
- - tags: ['neovim', 'conference']
-
-## NTS | Don't Assume
- - [https://www.nts.live](https://www.nts.live)
- - date published: 2024-05-04T14:59:59.275173+00:00
- - user: None
- - tags: []
-
-## OpenArena Live
- - [https://openarena.live](https://openarena.live)
- - date published: 2023-10-27T13:49:27.327714+00:00
- - user: None
- - tags: ['quake']
-
-## ORB
- - [https://orb.live](https://orb.live)
- - date published: 2024-04-30T02:02:56.523991+00:00
- - user: None
- - tags: []
-
-## PhotoStream.Live
- - [https://photostream.live](https://photostream.live)
- - date published: 2024-04-28T06:08:54.963500+00:00
- - user: None
- - tags: []
-
-## Presently - intuitive  insights into your time commitments.
- - [https://presently.live](https://presently.live)
- - date published: 2024-01-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome to our Emacs Fans server! - Emacs City
- - [https://emacs.retro-os.live](https://emacs.retro-os.live)
- - date published: 2024-04-26T10:36:39+00:00
- - user: rumpel
- - tags: ['programming ide', 'emacs']
-
-## Data visualization, Statistics - See Data Live
- - [https://www.seedata.live](https://www.seedata.live)
- - date published: 2024-04-30T07:48:56.079036+00:00
- - user: None
- - tags: []
-
-## Tickets for Music Events, Concerts, and Festivals
- - [https://shotgun.live](https://shotgun.live)
- - date published: 2024-05-08T00:39:40.573320+00:00
- - user: None
- - tags: []
-
-## sindhu.live — a digital garden
- - [https://sindhu.live](https://sindhu.live)
- - date published: 2024-04-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Structured Content 2022 - May 24-25
- - [https://structuredcontent.live](https://structuredcontent.live)
- - date published: 2022-05-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## sunlight.live
- - [https://sunlight.live](https://sunlight.live)
- - date published: 2024-05-04T15:34:01.141630+00:00
- - user: None
- - tags: []
-
-## Techno Tim
- - [https://technotim.live](https://technotim.live)
- - date published: 2024-04-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Whisper Within
- - [https://thewhisperwithin.live](https://thewhisperwithin.live)
- - date published: 2024-04-30T05:55:53.086961+00:00
- - user: None
- - tags: []
-
-## Intro
- - [https://usegpu.live](https://usegpu.live)
- - date published: 2023-10-25T20:18:56.873594+00:00
- - user: None
- - tags: []
-
-## VK Play Live - новый горизонт стриминга
- - [https://vkplay.live](https://vkplay.live)
- - date published: 2024-05-02T09:43:48.482508+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.vvna.live](https://www.vvna.live)
- - date published: 2024-01-07T08:44:46.606393+00:00
- - user: None
- - tags: []
-
-## win32 - Main Index
- - [https://win32subsystem.live](https://win32subsystem.live)
- - date published: 2024-03-03T14:20:37.316811+00:00
- - user: None
- - tags: []
-
-## Scribblings of an introvert
- - [https://yadukrishnan.live](https://yadukrishnan.live)
- - date published: 2023-10-25T08:59:32.300933+00:00
- - user: None
- - tags: ['personal']
-
-## Welcome to Brother Sri Lanka
- - [https://www.brother.com.lk](https://www.brother.com.lk)
- - date published: 2024-05-02T11:29:34.340891+00:00
- - user: None
- - tags: []
-
-## Visa, a trusted leader in digital payments.
- - [https://www.visa.com.lk](https://www.visa.com.lk)
- - date published: 2024-05-12T03:59:15.304747+00:00
- - user: None
- - tags: []
-
-## Callum Silcock | Principal Engineer (Font End)
- - [https://csi.lk](https://csi.lk)
- - date published: 2024-05-07T23:28:05.363910+00:00
- - user: None
- - tags: []
-
-## Sri Lanka Public Holidays - PublicHolidays.lk
- - [https://publicholidays.lk](https://publicholidays.lk)
- - date published: 2024-03-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Infinite Loops | Jim O'Shaughnessy | Substack
- - [https://newsletter.osv.llc](https://newsletter.osv.llc)
- - date published: 2024-05-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## Unleash Your Infinite Potential | O'Shaughnessy Ventures
- - [https://www.osv.llc](https://www.osv.llc)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Media Company
- - [https://www.themediacompany.llc](https://www.themediacompany.llc)
- - date published: 2024-05-08T09:29:11.057973+00:00
- - user: None
- - tags: []
-
-## Aadi Desai
- - [https://8bit.lol](https://8bit.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Lou Plummer
- - [https://amerpie.lol](https://amerpie.lol)
- - date published: 2024-05-04T14:14:29.358742+00:00
- - user: None
- - tags: ['personal']
-
-## Apple Annie’s Domain
- - [https://anniegreens.lol](https://anniegreens.lol)
- - date published: 2024-05-08T05:14:29.479793+00:00
- - user: None
- - tags: []
-
-## Apple Annie’s Weblog · Home
- - [https://weblog.anniegreens.lol](https://weblog.anniegreens.lol)
- - date published: 2024-05-08T05:14:27.371253+00:00
- - user: None
- - tags: ['personal']
-
-## omg.lol - A lovable web page and email address, just for you
- - [https://cdn.cache.lol](https://cdn.cache.lol)
- - date published: 2023-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## omg.lol - A lovable web page and email address, just for you
- - [https://profiles.cache.lol](https://profiles.cache.lol)
- - date published: 2023-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Wisdom of a grain of sand - Nguyen Chien Cong
- - [https://cong.lol](https://cong.lol)
- - date published: 2024-04-13T18:29:11.560865+00:00
- - user: None
- - tags: ['personal']
-
-## Harper Reed ★ Probably one of the coolest guys ever
- - [https://harper.lol](https://harper.lol)
- - date published: 2024-05-19T02:47:58.061749+00:00
- - user: None
- - tags: []
-
-## Justine Tunney's Web Page
- - [https://justine.lol](https://justine.lol)
- - date published: 2023-10-25T08:59:33.852013+00:00
- - user: None
- - tags: ['personal']
-
-## Recent Posts
- - [https://jva.lol](https://jva.lol)
- - date published: 2016-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Looo.lol – a binary math site
- - [https://looo.lol](https://looo.lol)
- - date published: 2024-01-05T22:17:15+00:00
- - user: None
- - tags: []
-
-## https://mastodon.lol
- - [https://mastodon.lol](https://mastodon.lol)
- - date published: 2024-01-09T03:34:13.121723+00:00
- - user: None
- - tags: []
-
-## Michael Burkhardt
- - [https://contact.mihobu.lol](https://contact.mihobu.lol)
- - date published: 2024-05-10T06:14:17.004574+00:00
- - user: None
- - tags: []
-
-## Mihobu, This is Your Bag (Product Review)
- - [https://mihobu.lol](https://mihobu.lol)
- - date published: 2024-02-26T09:08:45.629313+00:00
- - user: None
- - tags: []
-
-## Dennis Muensterer
- - [http://muensterer.lol](http://muensterer.lol)
- - date published: 2024-04-25T23:24:50.776265+00:00
- - user: None
- - tags: ['personal']
-
-## Umami
- - [https://analytics.noted.lol](https://analytics.noted.lol)
- - date published: 2024-05-19T02:58:14.295590+00:00
- - user: None
- - tags: []
-
-## Noted - Self Hosted App and Product Reviews
- - [https://noted.lol](https://noted.lol)
- - date published: 2023-10-25T20:19:04.323466+00:00
- - user: None
- - tags: ['self-host', 'tech news']
-
-## oh!
- - [https://oht.lol](https://oht.lol)
- - date published: 2024-01-05T01:03:59.045589+00:00
- - user: None
- - tags: []
-
-## @amerpie
- - [https://amerpie.omg.lol](https://amerpie.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Kyle Reddoch's (aka BeardedTechGuy) Social Page
- - [https://beardedtechguy.omg.lol](https://beardedtechguy.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## BinaryDigit
- - [https://binarydigit.omg.lol](https://binarydigit.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## @bsag
- - [https://bsag.omg.lol](https://bsag.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## @canion
- - [https://canion.omg.lol](https://canion.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## dmc
- - [https://dmc.omg.lol](https://dmc.omg.lol)
- - date published: 2024-05-07T23:25:17.373109+00:00
- - user: None
- - tags: []
-
-## @dm
- - [https://dm.omg.lol](https://dm.omg.lol)
- - date published: 2023-12-22T17:51:15.360780+00:00
- - user: None
- - tags: ['personal']
-
-## @flamed
- - [https://flamed.omg.lol](https://flamed.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## omg.lol - A lovable web page and email address, just for you
- - [https://home.omg.lol](https://home.omg.lol)
- - date published: 2023-10-25T20:19:09.924678+00:00
- - user: None
- - tags: ['social platform', 'personal', 'personal sites source']
-
-## ✨ Inês
- - [https://ines.omg.lol](https://ines.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## @kevinmarks
- - [https://kevinmarks.omg.lol](https://kevinmarks.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## @maique
- - [https://maique.omg.lol](https://maique.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Hey, it's ner3y!
- - [https://ner3y.omg.lol](https://ner3y.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## @noel
- - [https://noel.omg.lol](https://noel.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## omg.lol - A lovable web page and email address, just for you
- - [https://omg.lol](https://omg.lol)
- - date published: 2023-12-10T21:53:01+00:00
- - user: rumpel
- - tags: ['social platform', 'personal', 'personal sites source']
-
-## @paulopinto
- - [https://paulopinto.omg.lol](https://paulopinto.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## rb.omg.lol
- - [https://rb.omg.lol](https://rb.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Rick Cogley's omg.lol Profile
- - [https://rick.omg.lol](https://rick.omg.lol)
- - date published: 2024-01-12T02:35:28.771692+00:00
- - user: None
- - tags: []
-
-## Proof
- - [https://rom.omg.lol](https://rom.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## @rw
- - [https://rw.omg.lol](https://rw.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## omg.lol - A lovable web page and email address, just for you
- - [https://static.omg.lol](https://static.omg.lol)
- - date published: 2023-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## 😂.omg.lol | Andria Fakes It
- - [https://xn--g28h.omg.lol](https://xn--g28h.omg.lol)
- - date published: 2023-12-13T06:03:59.732960+00:00
- - user: None
- - tags: ['personal']
-
-## @yale
- - [https://yale.omg.lol](https://yale.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## @zone41
- - [https://zone41.omg.lol](https://zone41.omg.lol)
- - date published: 2024-01-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Photos by Harper
- - [https://photos.lol](https://photos.lol)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pros Pro Builds | Mythic Item Builds + Runes from LoL Esports Pros
- - [https://pros.lol](https://pros.lol)
- - date published: 2024-05-04T13:03:53.613407+00:00
- - user: None
- - tags: []
-
-## proven.lol
- - [https://proven.lol](https://proven.lol)
- - date published: 2024-04-28T02:45:10.809356+00:00
- - user: None
- - tags: []
-
-## Books read by Harper
- - [https://reading.lol](https://reading.lol)
- - date published: 2024-05-19T02:47:49.637679+00:00
- - user: None
- - tags: []
-
-## https://rejectedagain.lol
- - [https://rejectedagain.lol](https://rejectedagain.lol)
- - date published: 2024-01-18T21:07:21.223392+00:00
- - user: None
- - tags: []
-
-## CSS JOY Webring
- - [https://cs.sjoy.lol](https://cs.sjoy.lol)
- - date published: 2024-04-30T02:02:31.044447+00:00
- - user: None
- - tags: []
-
-## RS.S JOY.lol | dev
- - [https://rs.sjoy.lol](https://rs.sjoy.lol)
- - date published: 2024-04-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## social.lol
- - [https://social.lol](https://social.lol)
- - date published: 2024-01-05T17:10:57.173135+00:00
- - user: None
- - tags: ['mastodon']
-
-## @binarydigit’s statuslog
- - [https://binarydigit.status.lol](https://binarydigit.status.lol)
- - date published: 2024-04-28T02:45:19.646140+00:00
- - user: None
- - tags: []
-
-## status.lol
- - [https://status.lol](https://status.lol)
- - date published: 2024-04-28T02:45:15.636453+00:00
- - user: None
- - tags: []
-
-## stuff&things
- - [https://stuffandthings.lol](https://stuffandthings.lol)
- - date published: 2024-04-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Time.lol – Convert Date and Time to ISO 8601, RFC, Unix Timestamp, Week Number, Julian Day, any time zone, and more
- - [https://time.lol](https://time.lol)
- - date published: 2024-05-08T00:13:39.781456+00:00
- - user: None
- - tags: []
-
-## Tushar's Blog
- - [https://tushar.lol](https://tushar.lol)
- - date published: 2023-10-25T20:19:11.738542+00:00
- - user: None
- - tags: []
-
-## Type Foundry Index | type.lol
- - [https://type.lol](https://type.lol)
- - date published: 2024-04-29T07:17:09.618275+00:00
- - user: None
- - tags: []
-
-## p0̷nt1ff's weblog · Taking notes in Emacs
- - [https://rotfl.weblog.lol](https://rotfl.weblog.lol)
- - date published: 2024-04-28T06:12:12.922387+00:00
- - user: None
- - tags: ['personal']
-
-## weblog.lol · Home
- - [https://weblog.lol](https://weblog.lol)
- - date published: 2024-05-11T10:02:51.549915+00:00
- - user: None
- - tags: []
-
-## Workout.lol | The easiest way to create a workout routine
- - [https://workout.lol](https://workout.lol)
- - date published: 2023-10-25T20:19:13.005054+00:00
- - user: None
- - tags: []
-
-## Xan Surnamehere
- - [https://xan.lol](https://xan.lol)
- - date published: 2024-01-02T10:20:43.621535+00:00
- - user: None
- - tags: []
-
-## Fintech Week London 2024.
- - [https://www.fintechweek.london](https://www.fintechweek.london)
- - date published: 2024-05-06T16:45:58.690555+00:00
- - user: None
- - tags: []
-
-## 500
- - [https://i2-prod.football.london](https://i2-prod.football.london)
- - date published: 2024-05-02T12:07:48.314187+00:00
- - user: None
- - tags: []
-
-## Loved Before | Eco-Friendly Toys
- - [https://www.lovedbefore.london](https://www.lovedbefore.london)
- - date published: 2023-10-25T20:19:17.480812+00:00
- - user: None
- - tags: []
-
-## Welcome to London National Park City
- - [http://www.nationalparkcity.london](http://www.nationalparkcity.london)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Drand documentation
- - [https://drand.love](https://drand.love)
- - date published: 2024-05-09T07:05:33.798538+00:00
- - user: None
- - tags: []
-
-## Koshka's Kingdom
- - [https://koshka.love](https://koshka.love)
- - date published: 2023-10-25T08:49:56.487593+00:00
- - user: None
- - tags: ['retro internet', 'blog', 'personal']
-
-## Nicco Loves Linux
- - [https://blog.nicco.love](https://blog.nicco.love)
- - date published: 2023-10-25T20:19:18.376556+00:00
- - user: None
- - tags: []
-
-## Orbit - Community Platform
- - [https://orbit.love](https://orbit.love)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## rising.love
- - [https://rising.love](https://rising.love)
- - date published: 2024-01-06T17:57:46.196568+00:00
- - user: None
- - tags: []
-
-## Dan Savage – Dan Savage's Website
- - [https://savage.love](https://savage.love)
- - date published: 2024-05-08T05:35:26.396488+00:00
- - user: None
- - tags: []
-
-## Software You Can love
- - [https://softwareyoucan.love](https://softwareyoucan.love)
- - date published: 2024-05-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Svija: build websites with Adobe Illustrator ∴ Svija ∴ Websites with Adobe Illustrator
- - [https://svija.love](https://svija.love)
- - date published: 2023-10-25T20:19:22.153913+00:00
- - user: None
- - tags: []
-
-## Welcome | The Way is Love
- - [https://thewayislove.love](https://thewayislove.love)
- - date published: 2024-01-13T18:26:54.584714+00:00
- - user: None
- - tags: []
-
-## Home | The Executive Mansion
- - [https://www.emansion.gov.lr](https://www.emansion.gov.lr)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome - Vodacom Lesotho
- - [https://www.vodacom.co.ls](https://www.vodacom.co.ls)
- - date published: 2024-05-07T10:58:11.458846+00:00
- - user: None
- - tags: []
-
-## ‎Pixel Pals Widget Pet Game
- - [https://pixelpa.ls](https://pixelpa.ls)
- - date published: 2024-01-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## webtoo.ls
- - [https://m.webtoo.ls](https://m.webtoo.ls)
- - date published: 2024-04-29T07:47:00.163506+00:00
- - user: None
- - tags: []
-
-## Invidious
- - [https://invidious.0011.lt](https://invidious.0011.lt)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Airbnb | Būstai atostogoms, trobelės, paplūdimio namai ir dar daugiau
- - [https://www.airbnb.lt](https://www.airbnb.lt)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Susipažinkite su autoDNA paslauga
- - [https://www.autodna.lt](https://www.autodna.lt)
- - date published: 2024-05-11T08:19:35.619641+00:00
- - user: None
- - tags: []
-
-## VšĮ „Mėlyna ir geltona“ - Blue/Yellow
- - [https://radarom.blue-yellow.lt](https://radarom.blue-yellow.lt)
- - date published: 2024-02-18T08:23:24.971532+00:00
- - user: None
- - tags: []
-
-## Biuro ir namų spausdintuvai | Verslo sprendimai | Brother
- - [https://www.brother.lt](https://www.brother.lt)
- - date published: 2024-05-02T11:25:56.764228+00:00
- - user: None
- - tags: []
-
-## Nauji automobiliai | „Citroën“ Lietuva
- - [https://www.citroen.lt](https://www.citroen.lt)
- - date published: 2024-05-08T05:29:57.079153+00:00
- - user: None
- - tags: []
-
-## DigiKey Home
- - [https://www.digikey.lt](https://www.digikey.lt)
- - date published: 2024-05-01T05:02:29.365800+00:00
- - user: None
- - tags: []
-
-## Pradžia - Draugiškas internetas
- - [http://www.draugiskasinternetas.lt](http://www.draugiskasinternetas.lt)
- - date published: 2024-05-07T23:44:12.190156+00:00
- - user: None
- - tags: []
-
-## Empyrean - Home
- - [https://empyrean.lt](https://empyrean.lt)
- - date published: 2024-01-21T17:43:20.258758+00:00
- - user: None
- - tags: []
-
-## GameVault | GameVault
- - [https://gamevau.lt](https://gamevau.lt)
- - date published: 2024-04-08T19:28:33.814944+00:00
- - user: None
- - tags: ['self-host', 'game library']
-
-## Hostingas, kuris dirba Jums! Atraskime kelią į online sėkmę kartu
- - [https://www.hostinger.lt](https://www.hostinger.lt)
- - date published: 2024-05-11T07:50:47.308160+00:00
- - user: None
- - tags: []
-
-## Motiejus Jakštys Public Record
- - [https://jakstys.lt](https://jakstys.lt)
- - date published: 2023-10-25T09:22:02.418529+00:00
- - user: None
- - tags: ['personal']
-
-## Lietuvos nacionalinis radijas ir televizija. Naujienos, įrašai ir transliacijos. - LRT
- - [https://www.lrt.lt](https://www.lrt.lt)
- - date published: 2023-11-09T21:50:21.776046+00:00
- - user: None
- - tags: []
-
-## Meteo.lt – Lietuvos hidrometeorologijos tarnyba
- - [https://www.meteo.lt](https://www.meteo.lt)
- - date published: 2024-04-28T02:23:13.265328+00:00
- - user: None
- - tags: []
-
-## Manto Šimkūno tinklaraštis | Rašau įvairios tematikos tekstus, domiuosi IT naujovėmis. PHP programuotojas.
- - [https://msimkunas.lt](https://msimkunas.lt)
- - date published: 2023-10-25T20:19:22.841335+00:00
- - user: None
- - tags: []
-
-## OrasOnline Lietuva
- - [https://www.orasonline.lt](https://www.orasonline.lt)
- - date published: 2024-05-07T13:25:34.533447+00:00
  - user: None
  - tags: []
 
