@@ -1,3 +1,135 @@
+## Home
+ - [https://store.digitalriver.com](https://store.digitalriver.com)
+ - date published: 2024-05-04T13:02:49.913214+00:00
+ - user: None
+ - tags: []
+
+## Digital Science: tools for open, collaborative and inclusive research
+ - [https://www.digital-science.com](https://www.digital-science.com)
+ - date published: 2023-10-25T13:52:17.199858+00:00
+ - user: None
+ - tags: []
+
+## Digital Spy Forum
+ - [https://forums.digitalspy.com](https://forums.digitalspy.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Digital Spy  - TV, Movies and Entertainment News
+ - [https://www.digitalspy.com](https://www.digitalspy.com)
+ - date published: 2023-10-27T13:14:15.948159+00:00
+ - user: None
+ - tags: ['entertainment news']
+
+## Show HN: Digital Superpowers, a free book highlighting various FOSS tools
+ - [https://digitalsuperpowers.com](https://digitalsuperpowers.com)
+ - date published: 2024-03-09T18:16:18+00:00
+ - user: None
+ - tags: []
+
+## Digital Surgeons – Brand Experience Transformation
+ - [https://digitalsurgeons.com](https://digitalsurgeons.com)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Digital Transformation Week | In-Person Event | London, Amsterdam, Santa Clara, USA
+ - [https://digitaltransformation-week.com](https://digitaltransformation-week.com)
+ - date published: 2024-05-01T04:50:04.318163+00:00
+ - user: None
+ - tags: []
+
+## Digital Transformation Week | In-Person Event | London, Amsterdam, Santa Clara, USA
+ - [https://www.digitaltransformation-week.com](https://www.digitaltransformation-week.com)
+ - date published: 2024-05-01T04:55:06.516805+00:00
+ - user: None
+ - tags: []
+
+## Digital Trends DB
+ - [https://ccp.digitaltrends.com](https://ccp.digitaltrends.com)
+ - date published: 2024-05-01T05:13:05.443958+00:00
+ - user: None
+ - tags: []
+
+## Digital Trends | Tech News, Reviews, Deals, and How-To's
+ - [https://digitaltrends.com](https://digitaltrends.com)
+ - date published: 2024-05-01T05:13:01.944546+00:00
+ - user: None
+ - tags: []
+
+## Download Software for Windows - Free Software & reviews
+ - [https://downloads.digitaltrends.com](https://downloads.digitaltrends.com)
+ - date published: 2024-05-01T05:12:35.002908+00:00
+ - user: None
+ - tags: []
+
+## Digital Trends Español - Su fuente para las últimas noticias y comentarios sobre la tecnología
+ - [https://es.digitaltrends.com](https://es.digitaltrends.com)
+ - date published: 2024-05-01T05:13:08.384859+00:00
+ - user: None
+ - tags: []
+
+## Digital Trends | Tech News, Reviews, Deals, and How-To's
+ - [https://www.digitaltrends.com](https://www.digitaltrends.com)
+ - date published: 2024-02-06T13:44:04.524126+00:00
+ - user: None
+ - tags: ['tech news']
+
+## Digital Turbine
+ - [https://www.digitalturbine.com](https://www.digitalturbine.com)
+ - date published: 2024-05-06T17:45:08.123978+00:00
+ - user: None
+ - tags: []
+
+## Place de concert, festivals, spectacles, sport... | Achetez vos billets sur See Tickets France
+ - [https://web.digitick.com](https://web.digitick.com)
+ - date published: 2024-05-20T06:33:36.563443+00:00
+ - user: None
+ - tags: []
+
+## DIGITIMES Asia: News and Insight of the Global Supply Chain
+ - [https://www.digitimes.com](https://www.digitimes.com)
+ - date published: 2024-04-28T05:00:56.320085+00:00
+ - user: None
+ - tags: []
+
+## Dignity Memorial - Funeral Homes, Cremation and Cemeteries
+ - [https://www.dignitymemorial.com](https://www.dignitymemorial.com)
+ - date published: 2023-10-25T13:52:51.028566+00:00
+ - user: None
+ - tags: []
+
+## DigStack — Powerful Digital Whiteboard For Remote Teams
+ - [https://www.digstack.com](https://www.digstack.com)
+ - date published: 2024-04-28T05:54:27.152709+00:00
+ - user: None
+ - tags: []
+
+## Diigo
+ - [http://blog.diigo.com](http://blog.diigo.com)
+ - date published: 2024-04-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Diigo -  Better reading and research with annotation, highlighter, sticky notes, archiving, bookmarking & more.
+ - [https://diigo.com](https://diigo.com)
+ - date published: 2024-05-07T13:28:55.638656+00:00
+ - user: None
+ - tags: []
+
+## Diigo -  Better reading and research with annotation, highlighter, sticky notes, archiving, bookmarking & more.
+ - [https://www.diigo.com](https://www.diigo.com)
+ - date published: 2023-11-26T16:44:37+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
+
+## Welcome, dear computer professional | Dijkstra's Rallying Cry for Generalization
+ - [http://www.dijkstrascry.com](http://www.dijkstrascry.com)
+ - date published: 2024-05-01T07:48:38.465683+00:00
+ - user: None
+ - tags: []
+
 ## David Klein
  - [https://diklein.com](https://diklein.com)
  - date published: 2024-01-11T07:43:53.828915+00:00
@@ -104,7 +236,7 @@
  - [https://dionpatelis.com](https://dionpatelis.com)
  - date published: 2023-12-24T18:31:28.178491+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Diora
  - [https://dioragame.com](https://dioragame.com)
@@ -3672,6 +3804,12 @@
  - user: rumpel
  - tags: []
 
+## 【公式】ドラゴンボールオフィシャルサイト
+ - [https://dragon-ball-official.com](https://dragon-ball-official.com)
+ - date published: 2024-05-30T05:47:21.831165+00:00
+ - user: None
+ - tags: ['dragon ball']
+
 ## Store
  - [https://www.dragonbyte-tech.com](https://www.dragonbyte-tech.com)
  - date published: 2024-04-04T00:00:00+00:00
@@ -4571,6 +4709,12 @@
  - date published: 2024-01-10T22:41:34.790474+00:00
  - user: None
  - tags: []
+
+## Home | Drogoton
+ - [https://drogoton.com](https://drogoton.com)
+ - date published: 2024-05-30T06:52:14.463514+00:00
+ - user: None
+ - tags: ['personal']
 
 ## droidcon Academy | Home
  - [https://academy.droidcon.com](https://academy.droidcon.com)
@@ -5536,7 +5680,7 @@
  - [https://dvpolymedia.com](https://dvpolymedia.com)
  - date published: 2024-01-12T08:14:24.224060+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## DVResolve.com | The Unofficial DaVinci Resolve Hub
  - [https://dvresolve.com](https://dvresolve.com)
@@ -5853,150 +5997,6 @@
 ## https://www.dynamicdrive.com
  - [https://www.dynamicdrive.com](https://www.dynamicdrive.com)
  - date published: 2024-01-09T02:35:24.416804+00:00
- - user: None
- - tags: []
-
-## Dynamics Communities Home - Dynamics Communities
- - [https://www.dynamicscommunities.com](https://www.dynamicscommunities.com)
- - date published: 2024-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome to Charles Atlas LTD.
- - [http://www.dynamictension.com](http://www.dynamictension.com)
- - date published: 2024-05-08T04:49:36.813031+00:00
- - user: None
- - tags: []
-
-## Your Business powered by Dynamic Tracking
- - [https://dynamic-tracking.com](https://dynamic-tracking.com)
- - date published: 2024-05-06T17:45:24.209724+00:00
- - user: None
- - tags: []
-
-## Web Server's Default Page
- - [http://www.dynamic-widgets.com](http://www.dynamic-widgets.com)
- - date published: 2024-05-08T12:00:03.836784+00:00
- - user: None
- - tags: []
-
-## Dynamite Circle | Global Events & Local Meet-ups for Location Independent Entrepreneurs
- - [https://dynamitecircle.com](https://dynamitecircle.com)
- - date published: 2024-05-10T02:46:47.114622+00:00
- - user: None
- - tags: []
-
-## 🧨 Dynamite Jobs: The Best Remote Jobs in May 2024
- - [https://dynamitejobs.com](https://dynamitejobs.com)
- - date published: 2024-05-10T02:46:55.309678+00:00
- - user: None
- - tags: []
-
-## Dynamite Nutrition or dynamitenutrition
- - [http://www.dynamitenutrition.com](http://www.dynamitenutrition.com)
- - date published: 2024-05-01T02:00:36.464127+00:00
- - user: None
- - tags: []
-
-## The DynamoDB Book
- - [https://www.dynamodbbook.com](https://www.dynamodbbook.com)
- - date published: 2024-05-06T13:28:35.623534+00:00
- - user: None
- - tags: []
-
-## DynamoDB, explained.
- - [https://www.dynamodbguide.com](https://www.dynamodbguide.com)
- - date published: 2024-05-06T13:15:58.525808+00:00
- - user: None
- - tags: []
-
-## DynastyProcess.com
- - [https://dynastyprocess.com](https://dynastyprocess.com)
- - date published: 2024-04-30T05:13:40.942026+00:00
- - user: None
- - tags: []
-
-## Dynata Privacy Policies
- - [https://www.dynataprivacy.com](https://www.dynataprivacy.com)
- - date published: 2024-05-06T17:47:10.391456+00:00
- - user: None
- - tags: []
-
-## Dynatrace | Modern cloud done right
- - [https://www.dynatrace.com](https://www.dynatrace.com)
- - date published: 2024-05-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Developer Community
- - [http://www.dyncommunity.com](http://www.dyncommunity.com)
- - date published: 2024-05-01T07:59:07.986900+00:00
- - user: None
- - tags: []
-
-## Oracle + Dyn Status
- - [https://www.dynstatus.com](https://www.dynstatus.com)
- - date published: 2024-05-01T07:59:10.976818+00:00
- - user: None
- - tags: []
-
-## Dynu
- - [https://www.dynu.com](https://www.dynu.com)
- - date published: 2024-04-29T03:19:53.256472+00:00
- - user: None
- - tags: []
-
-## dys2p
- - [https://dys2p.com](https://dys2p.com)
- - date published: 2023-10-25T14:00:30.903688+00:00
- - user: None
- - tags: []
-
-## Home - Dyson Institute
- - [https://www.dysoninstitute.com](https://www.dysoninstitute.com)
- - date published: 2024-06-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Deniz Akşimşek
- - [https://dz4k.com](https://dz4k.com)
- - date published: 2024-04-30T02:31:36.381512+00:00
- - user: None
- - tags: []
-
-## Science & technology experiments | coding, data science, ml, cloud, greentech
- - [https://dzidas.com](https://dzidas.com)
- - date published: 2023-10-25T14:00:31.747355+00:00
- - user: None
- - tags: ['personal']
-
-## # Chris Dzombak
- - [https://www.dzombak.com](https://www.dzombak.com)
- - date published: 2024-02-07T00:23:49.689983+00:00
- - user: None
- - tags: ['personal']
-
-## DZone: Programming & DevOps news, tutorials & tools
- - [https://dzone.com](https://dzone.com)
- - date published: 2024-05-04T14:02:47.935693+00:00
- - user: None
- - tags: []
-
-## Dul Zorigoo
- - [https://www.dzrgo.com](https://www.dzrgo.com)
- - date published: 2024-03-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## The home of E3D
- - [https://e3d-online.com](https://e3d-online.com)
- - date published: 2024-03-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Electronic Arts Home Page - Official EA Site
- - [https://ea.com](https://ea.com)
- - date published: 2016-10-19T20:20:38+00:00
  - user: None
  - tags: []
 

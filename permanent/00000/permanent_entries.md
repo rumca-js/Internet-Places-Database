@@ -752,7 +752,7 @@
  - [https://beacons.ai](https://beacons.ai)
  - date published: 2024-02-26T18:38:26+00:00
  - user: rumpel
- - tags: []
+ - tags: ['social media reference']
 
 ## Presentation Software | Basic to Beautiful in Minutes with Beautiful.ai
  - [https://www.beautiful.ai](https://www.beautiful.ai)

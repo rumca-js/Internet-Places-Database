@@ -1,3 +1,118 @@
+## Best Legal Software for Modern Law Firms | CosmoLex
+ - [https://www.cosmolex.com](https://www.cosmolex.com)
+ - date published: 2019-12-18T20:55:27+00:00
+ - user: None
+ - tags: []
+
+## Cosmopolitan.com - The Women's Magazine for Fashion, Sex Advice, Dating Tips, and Celebrity News
+ - [https://www.cosmopolitan.com](https://www.cosmopolitan.com)
+ - date published: 2024-05-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cosmos – Science News, Features, Podcasts, Video and Print Magazine
+ - [https://cosmosmagazine.com](https://cosmosmagazine.com)
+ - date published: 2023-10-25T10:10:04.251424+00:00
+ - user: None
+ - tags: []
+
+## Attention Required! | Cloudflare
+ - [https://costain.com](https://costain.com)
+ - date published: 2024-05-18T02:44:03.427327+00:00
+ - user: None
+ - tags: []
+
+## CoStar | # 1 Commercial Real Estate Information Company
+ - [https://www.costar.com](https://www.costar.com)
+ - date published: 2024-05-12T07:41:07.065138+00:00
+ - user: None
+ - tags: []
+
+## Home | CoStar Group
+ - [https://secure.costargroup.com](https://secure.costargroup.com)
+ - date published: 2024-05-12T07:40:58.671679+00:00
+ - user: None
+ - tags: []
+
+## Home | CoStar Group
+ - [http://www.costargroup.com](http://www.costargroup.com)
+ - date published: 2024-05-12T07:41:11.570513+00:00
+ - user: None
+ - tags: []
+
+## Swimming Lessons for All Ages | Colorado Swim School
+ - [https://www.coswimschool.com](https://www.coswimschool.com)
+ - date published: 2024-04-29T05:42:47.850756+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Côtes du Rhône
+ - [https://www.cotesdurhone.com](https://www.cotesdurhone.com)
+ - date published: 2020-12-14T20:58:43+00:00
+ - user: None
+ - tags: []
+
+## Outdoor Clothing & Equipment
+ - [https://www.cotswoldoutdoor.com](https://www.cotswoldoutdoor.com)
+ - date published: 2024-05-11T10:47:18.975274+00:00
+ - user: None
+ - tags: []
+
+## Shop Graphic Tees, Hoodies, Phone Cases, and More.
+ | Cotton Bureau
+ - [https://cottonbureau.com](https://cottonbureau.com)
+ - date published: 2024-04-29T04:19:10.302653+00:00
+ - user: None
+ - tags: []
+
+## Random coubs - top random videos feed
+ - [https://coub.com](https://coub.com)
+ - date published: 2024-05-02T10:43:53.874664+00:00
+ - user: None
+ - tags: []
+
+## Couchbase: Best NoSQL Cloud Database Service
+ - [https://www.couchbase.com](https://www.couchbase.com)
+ - date published: 2024-03-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Alimentation Couche-Tard - Couche-Tard Corpo
+ - [https://corpo.couche-tard.com](https://corpo.couche-tard.com)
+ - date published: 2024-05-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Couchsurfing
+ - [https://www.couchsurfing.com](https://www.couchsurfing.com)
+ - date published: 2024-05-01T06:29:44.746954+00:00
+ - user: None
+ - tags: []
+
+## Count Bayesie - A Probability Blog
+ - [https://www.countbayesie.com](https://www.countbayesie.com)
+ - date published: 2023-10-25T09:19:52.258192+00:00
+ - user: None
+ - tags: ['personal']
+
+## Count Binface
+ - [https://www.countbinface.com](https://www.countbinface.com)
+ - date published: 2024-05-01T21:30:06+00:00
+ - user: None
+ - tags: ['satire', 'funny', 'count binface', 'politics']
+
+## Counter-Currents
+ - [https://www.counter-currents.com](https://www.counter-currents.com)
+ - date published: 2024-05-06T21:18:09.863876+00:00
+ - user: None
+ - tags: []
+
+## Counter Forms
+ - [https://counter-forms.com](https://counter-forms.com)
+ - date published: 2024-05-04T06:33:26.652921+00:00
+ - user: None
+ - tags: []
+
 ## Center for Countering Digital Hate | CCDH
  - [https://act.counterhate.com](https://act.counterhate.com)
  - date published: 2024-05-07T00:00:00+00:00
@@ -2099,7 +2214,7 @@
  - tags: []
 
 ## Crunchyroll logo
- - [http://crunchyroll.com](http://crunchyroll.com)
+ - [https://crunchyroll.com](https://crunchyroll.com)
  - date published: 2024-03-01T20:33:10.293733+00:00
  - user: None
  - tags: ['anime', 'video streaming']
@@ -5361,7 +5476,7 @@
  - [https://danluu.com](https://danluu.com)
  - date published: 2023-12-07T19:41:48.559063+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Dan Luvisi Art
  - [https://www.danluvisiart.com](https://www.danluvisiart.com)
@@ -5883,120 +5998,6 @@
 ## Dartmouth Alumni Magazine
  - [https://dartmouthalumnimagazine.com](https://dartmouthalumnimagazine.com)
  - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## DartMUD
- - [https://www.dartmud.com](https://www.dartmud.com)
- - date published: 2024-03-27T20:50:08.211077+00:00
- - user: None
- - tags: ['mud game']
-
-## Daryl Cook | Home
- - [https://darylcook.com](https://darylcook.com)
- - date published: 2024-01-04T03:34:09.104755+00:00
- - user: None
- - tags: []
-
-## Daryl Legion
- - [https://daryllegion.com](https://daryllegion.com)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## DarZouras.com | Home
- - [https://darzouras.com](https://darzouras.com)
- - date published: 2024-01-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dasani - Water Nutrition Facts & Ingredients | Coca-Cola US
- - [https://www.dasani.com](https://www.dasani.com)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Anil Dash
- - [https://dashes.com](https://dashes.com)
- - date published: 2024-05-06T22:59:01.481188+00:00
- - user: None
- - tags: []
-
-## Dashlane Password Manager
- - [https://www.dashlane.com](https://www.dashlane.com)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## 大上科技-DASUNG
- - [http://www.dasung.com](http://www.dasung.com)
- - date published: 2024-05-04T09:32:28.091413+00:00
- - user: None
- - tags: []
-
-## 大上科技-DASUNG
- - [http://www.dasungtech.com](http://www.dasungtech.com)
- - date published: 2024-05-04T09:32:55.946947+00:00
- - user: None
- - tags: []
-
-## Data All The Way
- - [https://dataalltheway.com](https://dataalltheway.com)
- - date published: 2024-05-14T03:30:42.094642+00:00
- - user: None
- - tags: []
-
-## Data @ UCI
- - [https://www.dataatuci.com](https://www.dataatuci.com)
- - date published: 2024-05-07T20:54:28.464035+00:00
- - user: None
- - tags: []
-
-## Free Online Database Diagram Tool
- - [https://databasediagram.com](https://databasediagram.com)
- - date published: 2023-10-25T13:43:28.543960+00:00
- - user: None
- - tags: []
-
-## Databento
- - [https://databento.com](https://databento.com)
- - date published: 2024-05-06T18:18:31.992103+00:00
- - user: None
- - tags: []
-
-## Buy and Sell web-scraped data
- - [https://www.databoutique.com](https://www.databoutique.com)
- - date published: 2024-04-22T00:00:00+00:00
- - user: rumpel
- - tags: ['web scraping', 'data market place']
-
-## Databox | An Analytics Platform that's powerful, but easy-to-use
- - [https://databox.com](https://databox.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Databricks - Sign in
- - [https://accounts.cloud.databricks.com](https://accounts.cloud.databricks.com)
- - date published: 2024-05-01T04:03:09.382723+00:00
- - user: None
- - tags: []
-
-## Home | Databricks
- - [https://community.databricks.com](https://community.databricks.com)
- - date published: 2024-05-01T04:03:07.669203+00:00
- - user: None
- - tags: []
-
-## The Data and AI Company — Databricks
- - [https://databricks.com](https://databricks.com)
- - date published: 2023-10-13T18:57:00+00:00
- - user: None
- - tags: []
-
-## Databricks documentation
- - [https://docs.databricks.com](https://docs.databricks.com)
- - date published: 2024-04-26T00:00:00+00:00
  - user: None
  - tags: []
 

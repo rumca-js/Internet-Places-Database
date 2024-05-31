@@ -1,3 +1,39 @@
+## Hugo Ferreira
+ - [https://hugo.ferreira.cc](https://hugo.ferreira.cc)
+ - date published: 2024-02-09T22:23:01.833427+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hazel's Garage
+ - [https://shop.hazel.cc](https://shop.hazel.cc)
+ - date published: 2024-05-09T08:40:19.377426+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Resource Index – FOSS Git Repository and NPM Package Index
+ - [https://res-index.hkit.cc](https://res-index.hkit.cc)
+ - date published: 2024-05-30T03:18:40+00:00
+ - user: None
+ - tags: ['open source', 'programming library', 'search engine']
+
+## Haotian Liu
+ - [https://hliu.cc](https://hliu.cc)
+ - date published: 2024-05-04T15:12:14.965027+00:00
+ - user: None
+ - tags: []
+
+## LLaVA
+ - [https://llava.hliu.cc](https://llava.hliu.cc)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 2024 Conference
+ - [https://iclr.cc](https://iclr.cc)
+ - date published: 2024-04-28T03:38:38.671982+00:00
+ - user: None
+ - tags: []
+
 ## ICML 2024
  - [https://icml.cc](https://icml.cc)
  - date published: 2023-10-25T12:11:01.529114+00:00
@@ -3688,7 +3724,7 @@
  - [https://www.thomasmaurer.ch](https://www.thomasmaurer.ch)
  - date published: 2024-05-01T03:48:17.677160+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Thuner Tagblatt | Die Region zuerst. Ihre Zeitung für Thun.
  - [https://www.thunertagblatt.ch](https://www.thunertagblatt.ch)
@@ -5963,40 +5999,4 @@
  - date published: 2024-05-02T11:11:42.161824+00:00
  - user: None
  - tags: []
-
-## teaspot.club - teaspot Zasoby i informacje.
- - [https://teaspot.club](https://teaspot.club)
- - date published: 2024-05-29T07:53:50.255535+00:00
- - user: None
- - tags: []
-
-## TechShort Annual Pass
- - [https://www.techshorts.club](https://www.techshorts.club)
- - date published: 2024-05-04T07:49:34.504850+00:00
- - user: None
- - tags: []
-
-## My Blog
- - [https://themeplanet.club](https://themeplanet.club)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Print Shop Club – Create Apple II Print Shop Printouts On-Line!
- - [https://theprintshop.club](https://theprintshop.club)
- - date published: 2023-10-25T12:16:08.782455+00:00
- - user: None
- - tags: []
-
-## The Web Scraping Club | Pierluigi Vinciguerra | Substack
- - [https://substack.thewebscraping.club](https://substack.thewebscraping.club)
- - date published: 2023-10-25T12:16:16.183663+00:00
- - user: None
- - tags: ['news', 'web scraping']
-
-## The Web Scraping Club
- - [https://thewebscraping.club](https://thewebscraping.club)
- - date published: 2023-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['web scraping', 'tech news']
 

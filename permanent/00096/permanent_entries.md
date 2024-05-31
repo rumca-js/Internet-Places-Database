@@ -1,3 +1,891 @@
+## Alemannische Wikipedia
+ - [https://als.wikipedia.org](https://als.wikipedia.org)
+ - date published: 2024-05-10T04:17:27.469974+00:00
+ - user: None
+ - tags: []
+
+## Википедия
+ - [https://alt.wikipedia.org](https://alt.wikipedia.org)
+ - date published: 2024-05-10T04:28:14.765685+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://ami.wikipedia.org](https://ami.wikipedia.org)
+ - date published: 2024-05-10T04:28:10.337541+00:00
+ - user: None
+ - tags: []
+
+## ውክፔዲያ
+ - [https://am.wikipedia.org](https://am.wikipedia.org)
+ - date published: 2024-05-10T04:28:16.976778+00:00
+ - user: None
+ - tags: []
+
+## Wikipǣdia
+ - [https://ang.wikipedia.org](https://ang.wikipedia.org)
+ - date published: 2024-05-10T04:25:58.204542+00:00
+ - user: None
+ - tags: []
+
+## विकिपीडिया
+ - [https://anp.wikipedia.org](https://anp.wikipedia.org)
+ - date published: 2024-05-10T04:27:12.941757+00:00
+ - user: None
+ - tags: []
+
+## Biquipedia
+ - [https://an.wikipedia.org](https://an.wikipedia.org)
+ - date published: 2024-05-10T04:16:50.443046+00:00
+ - user: None
+ - tags: []
+
+## ܘܝܩܝܦܕܝܐ
+ - [https://arc.wikipedia.org](https://arc.wikipedia.org)
+ - date published: 2024-05-10T04:28:04.511425+00:00
+ - user: None
+ - tags: []
+
+## ويكيبيديا، الموسوعة الحرة
+ - [https://ar.wikipedia.org](https://ar.wikipedia.org)
+ - date published: 2024-05-10T03:55:33.916888+00:00
+ - user: None
+ - tags: []
+
+## ويكيپيديا
+ - [https://ary.wikipedia.org](https://ary.wikipedia.org)
+ - date published: 2024-05-10T04:30:10.991791+00:00
+ - user: None
+ - tags: []
+
+## ويكيبيديا
+ - [https://arz.wikipedia.org](https://arz.wikipedia.org)
+ - date published: 2024-05-10T04:24:56.201532+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://ast.wikipedia.org](https://ast.wikipedia.org)
+ - date published: 2024-05-10T04:19:12.108451+00:00
+ - user: None
+ - tags: []
+
+## অসমীয়া ৱিকিপিডিয়া
+ - [https://as.wikipedia.org](https://as.wikipedia.org)
+ - date published: 2024-05-10T04:16:13.151541+00:00
+ - user: None
+ - tags: []
+
+## Wikipetcia
+ - [https://atj.wikipedia.org](https://atj.wikipedia.org)
+ - date published: 2024-05-10T04:29:36.862768+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://avk.wikipedia.org](https://avk.wikipedia.org)
+ - date published: 2024-05-10T04:26:15.895843+00:00
+ - user: None
+ - tags: []
+
+## Википедия — эркенаб энциклопедия
+ - [https://av.wikipedia.org](https://av.wikipedia.org)
+ - date published: 2024-05-10T04:29:41.178649+00:00
+ - user: None
+ - tags: []
+
+## विकिपीडिया
+ - [https://awa.wikipedia.org](https://awa.wikipedia.org)
+ - date published: 2024-05-10T04:28:37.353763+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://ay.wikipedia.org](https://ay.wikipedia.org)
+ - date published: 2024-05-10T04:18:07.104872+00:00
+ - user: None
+ - tags: []
+
+## ویکی‌پدیا، آچیق بیلیک‌لیک
+ - [https://azb.wikipedia.org](https://azb.wikipedia.org)
+ - date published: 2024-05-10T04:24:46.601004+00:00
+ - user: None
+ - tags: []
+
+## Vikipediya
+ - [https://az.wikipedia.org](https://az.wikipedia.org)
+ - date published: 2024-05-10T03:55:29.856842+00:00
+ - user: None
+ - tags: []
+
+## Wikipédia
+ - [https://ban.wikipedia.org](https://ban.wikipedia.org)
+ - date published: 2024-05-10T04:25:28.680810+00:00
+ - user: None
+ - tags: []
+
+## Boarische Wikipedia
+ - [https://bar.wikipedia.org](https://bar.wikipedia.org)
+ - date published: 2024-05-10T04:30:22.204890+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://bat-smg.wikipedia.org](https://bat-smg.wikipedia.org)
+ - date published: 2024-05-10T04:18:33.607740+00:00
+ - user: None
+ - tags: []
+
+## Википедия
+ - [https://ba.wikipedia.org](https://ba.wikipedia.org)
+ - date published: 2024-05-10T03:55:42.343773+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://bbc.wikipedia.org](https://bbc.wikipedia.org)
+ - date published: 2024-05-10T04:24:54.163923+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://bcl.wikipedia.org](https://bcl.wikipedia.org)
+ - date published: 2024-05-10T04:30:29.340370+00:00
+ - user: None
+ - tags: []
+
+## Вікіпэдыя
+ - [https://be-tarask.wikipedia.org](https://be-tarask.wikipedia.org)
+ - date published: 2024-05-10T03:54:56.044590+00:00
+ - user: None
+ - tags: []
+
+## Вікіпедыя
+ - [https://be.wikipedia.org](https://be.wikipedia.org)
+ - date published: 2024-05-10T03:55:40.684872+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://bew.wikipedia.org](https://bew.wikipedia.org)
+ - date published: 2024-05-29T07:08:17.961660+00:00
+ - user: None
+ - tags: []
+
+## Уикипедия
+ - [https://bg.wikipedia.org](https://bg.wikipedia.org)
+ - date published: 2024-05-10T03:54:45.838982+00:00
+ - user: None
+ - tags: []
+
+## विकिपीडिया
+ - [https://bh.wikipedia.org](https://bh.wikipedia.org)
+ - date published: 2024-05-10T04:16:45.887566+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://bi.wikipedia.org](https://bi.wikipedia.org)
+ - date published: 2024-05-10T04:24:28.290502+00:00
+ - user: None
+ - tags: []
+
+## Wikipidia Banjar, kindai pangatahuan
+ - [https://bjn.wikipedia.org](https://bjn.wikipedia.org)
+ - date published: 2024-05-10T04:17:29.832782+00:00
+ - user: None
+ - tags: []
+
+## ဝီခီပီးဒီးယား
+ - [https://blk.wikipedia.org](https://blk.wikipedia.org)
+ - date published: 2024-05-10T04:26:18.877517+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://bm.wikipedia.org](https://bm.wikipedia.org)
+ - date published: 2024-05-10T04:30:20.652415+00:00
+ - user: None
+ - tags: []
+
+## উইকিপিডিয়া, একটি মুক্ত বিশ্বকোষ
+ - [https://bn.wikipedia.org](https://bn.wikipedia.org)
+ - date published: 2024-05-10T04:30:40.895873+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://bo.wikipedia.org](https://bo.wikipedia.org)
+ - date published: 2024-05-10T04:18:27.078867+00:00
+ - user: None
+ - tags: []
+
+## উইকিপিডিয়া
+ - [https://bpy.wikipedia.org](https://bpy.wikipedia.org)
+ - date published: 2024-02-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://br.wikipedia.org](https://br.wikipedia.org)
+ - date published: 2024-05-10T04:24:32.781120+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://bs.wikipedia.org](https://bs.wikipedia.org)
+ - date published: 2024-05-10T04:17:23.785150+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://bug.wikipedia.org](https://bug.wikipedia.org)
+ - date published: 2024-05-10T04:28:20.351633+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://bxr.wikipedia.org](https://bxr.wikipedia.org)
+ - date published: 2024-05-10T04:26:36.588144+00:00
+ - user: None
+ - tags: []
+
+## Viquipèdia
+ - [https://ca.wikipedia.org](https://ca.wikipedia.org)
+ - date published: 2024-05-10T04:27:30.929286+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://cbk-zam.wikipedia.org](https://cbk-zam.wikipedia.org)
+ - date published: 2024-05-10T04:29:57.805804+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia - Cê̤ṳ-iù gì Báik-kuŏ-ciòng-cṳ̆
+ - [https://cdo.wikipedia.org](https://cdo.wikipedia.org)
+ - date published: 2024-05-10T04:27:23.586045+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://ceb.wikipedia.org](https://ceb.wikipedia.org)
+ - date published: 2024-05-10T04:30:33.612243+00:00
+ - user: None
+ - tags: []
+
+## Википеди — маьрша энциклопеди
+ - [https://ce.wikipedia.org](https://ce.wikipedia.org)
+ - date published: 2024-05-10T03:55:46.222971+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://cho.wikipedia.org](https://cho.wikipedia.org)
+ - date published: 2024-05-10T04:26:29.885038+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://chr.wikipedia.org](https://chr.wikipedia.org)
+ - date published: 2024-05-10T04:25:10.315088+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://ch.wikipedia.org](https://ch.wikipedia.org)
+ - date published: 2024-05-10T04:24:30.642153+00:00
+ - user: None
+ - tags: []
+
+## Tsétsêhéstâhese Wikipedia
+ - [https://chy.wikipedia.org](https://chy.wikipedia.org)
+ - date published: 2024-05-10T04:26:08.840242+00:00
+ - user: None
+ - tags: []
+
+## ویکیپیدیا، ئینسایکڵۆپیدیای ئازاد
+ - [https://ckb.wikipedia.org](https://ckb.wikipedia.org)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://co.wikipedia.org](https://co.wikipedia.org)
+ - date published: 2024-05-10T04:16:23.654358+00:00
+ - user: None
+ - tags: []
+
+## Vikipediya
+ - [https://crh.wikipedia.org](https://crh.wikipedia.org)
+ - date published: 2024-05-10T04:30:43.676792+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://cr.wikipedia.org](https://cr.wikipedia.org)
+ - date published: 2024-03-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wikipedijô, wòlnô encyklopedijô
+ - [https://csb.wikipedia.org](https://csb.wikipedia.org)
+ - date published: 2024-05-10T04:26:56.366054+00:00
+ - user: None
+ - tags: []
+
+## Wikipedie, otevřená encyklopedie
+ - [https://cs.wikipedia.org](https://cs.wikipedia.org)
+ - date published: 2024-05-10T03:55:03.150761+00:00
+ - user: None
+ - tags: []
+
+## Википєдїꙗ · отврьста єнкѷклопєдїꙗ
+ - [https://cu.wikipedia.org](https://cu.wikipedia.org)
+ - date published: 2024-05-10T04:17:10.534494+00:00
+ - user: None
+ - tags: []
+
+## Википеди
+ - [https://cv.wikipedia.org](https://cv.wikipedia.org)
+ - date published: 2024-05-10T03:54:53.389823+00:00
+ - user: None
+ - tags: []
+
+## Wicipedia
+ - [https://cy.wikipedia.org](https://cy.wikipedia.org)
+ - date published: 2024-05-10T04:28:02.671349+00:00
+ - user: None
+ - tags: []
+
+## Dagbani Wikipedia
+ - [https://dag.wikipedia.org](https://dag.wikipedia.org)
+ - date published: 2024-05-10T04:24:25.920210+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia, den frie encyklopædi
+ - [https://da.wikipedia.org](https://da.wikipedia.org)
+ - date published: 2024-04-30T02:42:37.558858+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia – Die freie Enzyklopädie
+ - [https://de.wikipedia.org](https://de.wikipedia.org)
+ - date published: 2023-11-01T15:44:21.604213+00:00
+ - user: None
+ - tags: []
+
+## Wikipiideɛ
+ - [https://dga.wikipedia.org](https://dga.wikipedia.org)
+ - date published: 2024-05-10T04:24:23.939032+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://din.wikipedia.org](https://din.wikipedia.org)
+ - date published: 2024-05-10T04:24:38.507450+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://diq.wikipedia.org](https://diq.wikipedia.org)
+ - date published: 2024-05-10T04:18:47.096183+00:00
+ - user: None
+ - tags: []
+
+## Wikipedija
+ - [https://dsb.wikipedia.org](https://dsb.wikipedia.org)
+ - date published: 2024-05-10T04:27:33.374936+00:00
+ - user: None
+ - tags: []
+
+## विकिपिडिया
+ - [https://dty.wikipedia.org](https://dty.wikipedia.org)
+ - date published: 2024-05-10T04:25:43.247316+00:00
+ - user: None
+ - tags: []
+
+## ވިކިޕީޑިއާ
+ - [https://dv.wikipedia.org](https://dv.wikipedia.org)
+ - date published: 2024-05-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://dz.wikipedia.org](https://dz.wikipedia.org)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://ee.wikipedia.org](https://ee.wikipedia.org)
+ - date published: 2024-05-10T04:18:45.475613+00:00
+ - user: None
+ - tags: []
+
+## Βικιπαίδεια
+ - [https://el.wikipedia.org](https://el.wikipedia.org)
+ - date published: 2024-05-10T03:55:11.385449+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://eml.wikipedia.org](https://eml.wikipedia.org)
+ - date published: 2024-05-10T04:27:58.582230+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia, the free encyclopedia
+ - [https://en.m.wikipedia.org](https://en.m.wikipedia.org)
+ - date published: 2023-10-25T09:28:56.379569+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia, the free encyclopedia
+ - [https://en.wikipedia.org](https://en.wikipedia.org)
+ - date published: 2023-10-25T09:28:43.251880+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Vikipedio
+ - [https://eo.wikipedia.org](https://eo.wikipedia.org)
+ - date published: 2024-05-10T04:16:48.069882+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia, la enciclopedia libre
+ - [https://es.wikipedia.org](https://es.wikipedia.org)
+ - date published: 2024-04-30T14:59:07.165084+00:00
+ - user: None
+ - tags: []
+
+## Vikipeedia
+ - [https://et.wikipedia.org](https://et.wikipedia.org)
+ - date published: 2024-05-10T03:55:31.900808+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://eu.wikipedia.org](https://eu.wikipedia.org)
+ - date published: 2024-05-10T04:16:52.440063+00:00
+ - user: None
+ - tags: []
+
+## Güiquipeya
+ - [https://ext.wikipedia.org](https://ext.wikipedia.org)
+ - date published: 2024-05-10T04:27:42.885646+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://fat.wikipedia.org](https://fat.wikipedia.org)
+ - date published: 2024-05-10T04:28:45.721517+00:00
+ - user: None
+ - tags: []
+
+## ویکی‌پدیا، دانشنامهٔ آزاد
+ - [https://fa.wikipedia.org](https://fa.wikipedia.org)
+ - date published: 2024-05-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://ff.wikipedia.org](https://ff.wikipedia.org)
+ - date published: 2024-05-10T04:18:37.948223+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://fiu-vro.wikipedia.org](https://fiu-vro.wikipedia.org)
+ - date published: 2024-05-10T04:25:48.177819+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia, vapaa tietosanakirja
+ - [https://fi.wikipedia.org](https://fi.wikipedia.org)
+ - date published: 2024-05-01T08:17:25.525246+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://fj.wikipedia.org](https://fj.wikipedia.org)
+ - date published: 2024-05-10T04:28:08.438567+00:00
+ - user: None
+ - tags: []
+
+## Wikipedya
+ - [https://fon.wikipedia.org](https://fon.wikipedia.org)
+ - date published: 2024-05-10T04:30:58.921845+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://fo.wikipedia.org](https://fo.wikipedia.org)
+ - date published: 2024-05-10T04:27:35.831000+00:00
+ - user: None
+ - tags: []
+
+## Wikipédia, l'encyclopédie libre
+ - [https://fr.m.wikipedia.org](https://fr.m.wikipedia.org)
+ - date published: 2024-05-10T04:28:49.486043+00:00
+ - user: None
+ - tags: []
+
+## Vouiquipèdia
+ - [https://frp.wikipedia.org](https://frp.wikipedia.org)
+ - date published: 2024-05-10T04:17:36.044957+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia – Jü fri Änsiiklopedii
+ - [https://frr.wikipedia.org](https://frr.wikipedia.org)
+ - date published: 2024-05-10T04:25:30.753067+00:00
+ - user: None
+ - tags: []
+
+## Wikipédia, l'encyclopédie libre
+ - [https://fr.wikipedia.org](https://fr.wikipedia.org)
+ - date published: 2023-12-11T16:21:57.471851+00:00
+ - user: None
+ - tags: []
+
+## Vichipedie
+ - [https://fur.wikipedia.org](https://fur.wikipedia.org)
+ - date published: 2024-05-10T04:30:50.808352+00:00
+ - user: None
+ - tags: []
+
+## Wikipedy
+ - [https://fy.wikipedia.org](https://fy.wikipedia.org)
+ - date published: 2024-05-10T04:27:25.432220+00:00
+ - user: None
+ - tags: []
+
+## Vikipediya
+ - [https://gag.wikipedia.org](https://gag.wikipedia.org)
+ - date published: 2024-05-10T04:18:02.751289+00:00
+ - user: None
+ - tags: []
+
+## 維基百科，自由嗰百科全書
+ - [https://gan.wikipedia.org](https://gan.wikipedia.org)
+ - date published: 2024-03-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Vicipéid
+ - [https://ga.wikipedia.org](https://ga.wikipedia.org)
+ - date published: 2024-05-10T04:17:48.447627+00:00
+ - user: None
+ - tags: []
+
+## Wikipédja
+ - [https://gcr.wikipedia.org](https://gcr.wikipedia.org)
+ - date published: 2024-05-10T04:15:57.861274+00:00
+ - user: None
+ - tags: []
+
+## Uicipeid
+ - [https://gd.wikipedia.org](https://gd.wikipedia.org)
+ - date published: 2024-05-10T04:26:28.121433+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://glk.wikipedia.org](https://glk.wikipedia.org)
+ - date published: 2024-04-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia, a enciclopedia libre
+ - [https://gl.wikipedia.org](https://gl.wikipedia.org)
+ - date published: 2024-05-10T04:25:03.947290+00:00
+ - user: None
+ - tags: []
+
+## Vikipetã
+ - [https://gn.wikipedia.org](https://gn.wikipedia.org)
+ - date published: 2024-05-10T04:17:19.077333+00:00
+ - user: None
+ - tags: []
+
+## विकिपीडिया
+ - [https://gom.wikipedia.org](https://gom.wikipedia.org)
+ - date published: 2024-05-10T04:17:25.557022+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://gor.wikipedia.org](https://gor.wikipedia.org)
+ - date published: 2024-05-10T04:16:58.650102+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://got.wikipedia.org](https://got.wikipedia.org)
+ - date published: 2024-05-10T04:29:55.838032+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://gpe.wikipedia.org](https://gpe.wikipedia.org)
+ - date published: 2024-05-10T04:24:50.432442+00:00
+ - user: None
+ - tags: []
+
+## Wikipeetia
+ - [https://guc.wikipedia.org](https://guc.wikipedia.org)
+ - date published: 2024-05-10T04:25:34.908432+00:00
+ - user: None
+ - tags: []
+
+## Wikipiidiya
+ - [https://gur.wikipedia.org](https://gur.wikipedia.org)
+ - date published: 2024-05-10T04:18:54.299433+00:00
+ - user: None
+ - tags: []
+
+## વિકિપીડિયા
+ - [https://gu.wikipedia.org](https://gu.wikipedia.org)
+ - date published: 2024-05-10T04:30:52.925449+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://guw.wikipedia.org](https://guw.wikipedia.org)
+ - date published: 2024-05-10T04:28:22.153701+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://gv.wikipedia.org](https://gv.wikipedia.org)
+ - date published: 2024-05-10T04:17:01.105934+00:00
+ - user: None
+ - tags: []
+
+## 維基百科－自由个百科全書
+ - [https://hak.wikipedia.org](https://hak.wikipedia.org)
+ - date published: 2024-05-10T04:30:39.196590+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://ha.wikipedia.org](https://ha.wikipedia.org)
+ - date published: 2024-05-10T04:29:04.594140+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://haw.wikipedia.org](https://haw.wikipedia.org)
+ - date published: 2024-05-10T04:29:31.923249+00:00
+ - user: None
+ - tags: []
+
+## ויקיפדיה
+ - [https://he.wikipedia.org](https://he.wikipedia.org)
+ - date published: 2024-05-01T03:14:18.272515+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://hif.wikipedia.org](https://hif.wikipedia.org)
+ - date published: 2024-05-10T04:16:29.729409+00:00
+ - user: None
+ - tags: []
+
+## विकिपीडिया
+ - [https://hi.wikipedia.org](https://hi.wikipedia.org)
+ - date published: 2024-05-10T04:29:09.683055+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://ho.wikipedia.org](https://ho.wikipedia.org)
+ - date published: 2024-05-10T04:27:37.823073+00:00
+ - user: None
+ - tags: []
+
+## Wikipedija
+ - [https://hr.wikipedia.org](https://hr.wikipedia.org)
+ - date published: 2024-05-10T04:16:06.321605+00:00
+ - user: None
+ - tags: []
+
+## Wikipedija
+ - [https://hsb.wikipedia.org](https://hsb.wikipedia.org)
+ - date published: 2024-05-10T04:29:25.595334+00:00
+ - user: None
+ - tags: []
+
+## Wikipedya
+ - [https://ht.wikipedia.org](https://ht.wikipedia.org)
+ - date published: 2024-05-10T04:30:48.259424+00:00
+ - user: None
+ - tags: []
+
+## Wikipédia, a szabad enciklopédia
+ - [https://hu.wikipedia.org](https://hu.wikipedia.org)
+ - date published: 2024-05-08T03:51:14.254925+00:00
+ - user: None
+ - tags: []
+
+## Վիքիպեդիա՝ ազատ հանրագիտարան
+ - [https://hy.wikipedia.org](https://hy.wikipedia.org)
+ - date published: 2024-05-10T03:55:06.241186+00:00
+ - user: None
+ - tags: []
+
+## Ուիքիփետիա
+ - [https://hyw.wikipedia.org](https://hyw.wikipedia.org)
+ - date published: 2024-05-10T04:27:28.775596+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://hz.wikipedia.org](https://hz.wikipedia.org)
+ - date published: 2024-05-10T04:18:41.736374+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://ia.wikipedia.org](https://ia.wikipedia.org)
+ - date published: 2024-05-10T04:18:35.886061+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia bahasa Indonesia, ensiklopedia bebas
+ - [https://id.wikipedia.org](https://id.wikipedia.org)
+ - date published: 2024-05-10T04:16:54.682563+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://ie.wikipedia.org](https://ie.wikipedia.org)
+ - date published: 2024-05-10T04:18:20.832314+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://igl.wikipedia.org](https://igl.wikipedia.org)
+ - date published: 2024-05-10T04:24:43.038110+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia, njikotá édémédé nke onyobulạ
+ - [https://ig.wikipedia.org](https://ig.wikipedia.org)
+ - date published: 2024-05-10T04:27:06.780535+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://ik.wikipedia.org](https://ik.wikipedia.org)
+ - date published: 2024-05-10T04:16:42.824926+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia, ti nawaya nga ensiklopedia
+ - [https://ilo.wikipedia.org](https://ilo.wikipedia.org)
+ - date published: 2024-05-10T04:16:19.041798+00:00
+ - user: None
+ - tags: []
+
+## Википеди
+ - [https://inh.wikipedia.org](https://inh.wikipedia.org)
+ - date published: 2024-05-10T04:16:25.466971+00:00
+ - user: None
+ - tags: []
+
+## Wikipedio
+ - [https://io.wikipedia.org](https://io.wikipedia.org)
+ - date published: 2024-05-10T04:28:18.884854+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia, frjálsa alfræðiritið
+ - [https://is.wikipedia.org](https://is.wikipedia.org)
+ - date published: 2024-05-10T04:29:12.793275+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia, l'enciclopedia libera
+ - [https://it.m.wikipedia.org](https://it.m.wikipedia.org)
+ - date published: 2024-03-26T16:00:48.694648+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia, l'enciclopedia libera
+ - [https://it.wikipedia.org](https://it.wikipedia.org)
+ - date published: 2024-04-27T16:40:37.109033+00:00
+ - user: None
+ - tags: []
+
+## ᐅᐃᑭᐱᑎᐊ
+ - [https://iu.wikipedia.org](https://iu.wikipedia.org)
+ - date published: 2024-05-10T04:15:49.102398+00:00
+ - user: None
+ - tags: []
+
+## Wikipidia
+ - [https://jam.wikipedia.org](https://jam.wikipedia.org)
+ - date published: 2024-05-10T04:16:02.681023+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://ja.wikipedia.org](https://ja.wikipedia.org)
+ - date published: 2024-05-10T03:54:57.592414+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://jbo.wikipedia.org](https://jbo.wikipedia.org)
+ - date published: 2024-05-10T04:25:54.107082+00:00
+ - user: None
+ - tags: []
+
+## Wikipédia, bauwarna mardika
+ - [https://jv.wikipedia.org](https://jv.wikipedia.org)
+ - date published: 2024-05-10T04:28:34.911532+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://kaa.wikipedia.org](https://kaa.wikipedia.org)
+ - date published: 2024-05-10T04:17:50.638059+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://kab.wikipedia.org](https://kab.wikipedia.org)
+ - date published: 2024-05-10T04:26:33.928110+00:00
+ - user: None
+ - tags: []
+
+## ვიკიპედია, თავისუფალი ენციკლოპედია
+ - [https://ka.wikipedia.org](https://ka.wikipedia.org)
+ - date published: 2024-05-10T03:55:35.672381+00:00
+ - user: None
+ - tags: []
+
+## Уикипедиэ
+ - [https://kbd.wikipedia.org](https://kbd.wikipedia.org)
+ - date published: 2024-05-10T04:17:54.468802+00:00
+ - user: None
+ - tags: []
+
+## Wikipediya
+ - [https://kbp.wikipedia.org](https://kbp.wikipedia.org)
+ - date published: 2024-05-10T04:26:31.981012+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://kcg.wikipedia.org](https://kcg.wikipedia.org)
+ - date published: 2024-05-10T04:26:23.475546+00:00
+ - user: None
+ - tags: []
+
 ## Wikipedia
  - [https://kg.wikipedia.org](https://kg.wikipedia.org)
  - date published: 2024-05-10T04:30:03.502895+00:00
@@ -2830,6 +3718,12 @@
  - user: None
  - tags: []
 
+## Perl Foundation Conferences
+ - [https://yapc.org](https://yapc.org)
+ - date published: 2024-05-30T13:10:52.028911+00:00
+ - user: None
+ - tags: []
+
 ## YARD - A Ruby Documentation Tool
  - [http://yardoc.org](http://yardoc.org)
  - date published: 2024-04-28T02:07:21.467087+00:00
@@ -4758,6 +5652,12 @@ is forbidden
  - user: None
  - tags: []
 
+## Graphic Drawing Tablet , Pen Display Monitor | XP-Pen Philippines Official Store
+ - [https://www.storexppen.ph](https://www.storexppen.ph)
+ - date published: 2024-05-30T18:42:13.425678+00:00
+ - user: None
+ - tags: []
+
 ## Telegraph
  - [https://telegra.ph](https://telegra.ph)
  - date published: 2023-10-25T22:24:48.190795+00:00
@@ -5100,904 +6000,4 @@ is forbidden
  - date published: 2024-05-29T00:00:00+00:00
  - user: None
  - tags: []
-
-## Sklep Elektroniczny Botland - Sklep z Elektroniką
- - [https://botland.com.pl](https://botland.com.pl)
- - date published: 2023-10-25T11:16:01.784913+00:00
- - user: None
- - tags: ['electronic parts']
-
-## Bottega IT Minds
- - [http://www.bottega.com.pl](http://www.bottega.com.pl)
- - date published: 2024-05-26T18:51:22.997131+00:00
- - user: None
- - tags: []
-
-## BrandMe CEO
- - [https://brandmeceo.businessinsider.com.pl](https://brandmeceo.businessinsider.com.pl)
- - date published: 2023-10-25T22:24:57.674006+00:00
- - user: None
- - tags: []
-
-## Business Insider Polska
- - [https://businessinsider.com.pl](https://businessinsider.com.pl)
- - date published: 2023-10-25T10:58:26.656129+00:00
- - user: None
- - tags: []
-
-## Business Insider Polska
- - [https://www.businessinsider.com.pl](https://www.businessinsider.com.pl)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Capitalbook
- - [https://capitalbook.com.pl](https://capitalbook.com.pl)
- - date published: 2024-05-14T02:45:03.863295+00:00
- - user: None
- - tags: []
-
-## Ciemna strona
- - [https://www.ciemnastrona.com.pl](https://www.ciemnastrona.com.pl)
- - date published: 2024-04-02T07:22:58+00:00
- - user: rumpel
- - tags: ['blog', 'cybersecurity']
-
-## DAGMA Strefa dla Partnerów
- - [https://partner.dagma.com.pl](https://partner.dagma.com.pl)
- - date published: 2024-05-07T23:32:07.324696+00:00
- - user: None
- - tags: []
-
-## Sklep DAGMA
- - [https://sklep.dagma.com.pl](https://sklep.dagma.com.pl)
- - date published: 2024-05-07T23:32:11.159370+00:00
- - user: None
- - tags: []
-
-## We provide comprehensive IT services | DAGMA IT Security
- - [https://www.dagma.com.pl](https://www.dagma.com.pl)
- - date published: 2024-05-07T23:32:14.368001+00:00
- - user: None
- - tags: []
-
-## DPD Polska- przesyłki kurierskie, serwis miejski, krajowy, międzynarodowy
- - [https://www.dpd.com.pl](https://www.dpd.com.pl)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sklep internetowy eobuwie.pl • Modne buty, akcesoria i torebki online
- - [https://eobuwie.com.pl](https://eobuwie.com.pl)
- - date published: 2024-04-18T08:17:53+00:00
- - user: rumpel
- - tags: ['e-commerce', 'boots', 'fashion']
-
-## Elektronika Praktyczna | Serwis specjalistyczny o elektronice i technice
- - [https://ep.com.pl](https://ep.com.pl)
- - date published: 2023-12-13T14:59:33.501229+00:00
- - user: None
- - tags: ['electronics']
-
-## Forum Elektroniki Praktycznej - Wykaz forów
- - [https://forum.ep.com.pl](https://forum.ep.com.pl)
- - date published: 2024-05-29T08:13:18.260191+00:00
- - user: None
- - tags: []
-
-## ETI Polam
- - [https://www.etipolam.com.pl](https://www.etipolam.com.pl)
- - date published: 2024-05-26T19:41:02.529221+00:00
- - user: None
- - tags: []
-
-## https://www.euro.com.pl
- - [https://www.euro.com.pl](https://www.euro.com.pl)
- - date published: 2023-10-24T20:17:32.488635+00:00
- - user: None
- - tags: ['e-commerce', 'electronics', 'shop']
-
-## EWL - Agencja pracy tymczasowej, zatrudnienie pracowników
- - [https://ewl.com.pl](https://ewl.com.pl)
- - date published: 2024-04-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Flamberg - gry planszowe Katowice
- - [https://flamberg.com.pl](https://flamberg.com.pl)
- - date published: 2023-11-01T19:12:06.616555+00:00
- - user: None
- - tags: ['wargames', 'board games', 'shop', 'tabletop games']
-
-## Gandalf.com.pl - księgarnia i sklep internetowy z zabawkami, muzyką i perfumami
- - [https://www.gandalf.com.pl](https://www.gandalf.com.pl)
- - date published: 2023-10-24T20:18:08.254055+00:00
- - user: None
- - tags: ['ebook shop']
-
-## Gothic Online
- - [https://gothic-online.com.pl](https://gothic-online.com.pl)
- - date published: 2024-05-09T20:41:54+00:00
- - user: rumpel
- - tags: []
-
-## Jbzd.com.pl - najgorsze obrazki w internecie!
- - [https://jbzd.com.pl](https://jbzd.com.pl)
- - date published: 2023-10-27T11:55:01.917890+00:00
- - user: None
- - tags: ['memes', 'funny images']
-
-## Kaspersky | Ochrona antywirusowa i oprogramowanie Internet Security
- - [https://www.kaspersky.com.pl](https://www.kaspersky.com.pl)
- - date published: 2024-05-02T12:06:07.082710+00:00
- - user: None
- - tags: []
-
-## kuBogu - Sklep
- - [https://sklep.kubogu.com.pl](https://sklep.kubogu.com.pl)
- - date published: 2024-05-09T07:10:06.712886+00:00
- - user: None
- - tags: []
-
-## https://www.lady-pank.com.pl
- - [https://www.lady-pank.com.pl](https://www.lady-pank.com.pl)
- - date published: 2023-12-12T09:20:53+00:00
- - user: rumpel
- - tags: ['music band']
-
-## Neverwinter Online
- - [http://www.neverwinter.com.pl](http://www.neverwinter.com.pl)
- - date published: 2024-05-09T07:07:23.297134+00:00
- - user: None
- - tags: []
-
-## Olsztyn.com.pl - regionalny portal Warmii i Mazur
- - [https://www.olsztyn.com.pl](https://www.olsztyn.com.pl)
- - date published: 2024-05-09T14:14:01.625514+00:00
- - user: None
- - tags: []
-
-## PAN OD KULTURY
- - [https://panodkultury.com.pl](https://panodkultury.com.pl)
- - date published: 2023-10-27T13:12:52.295579+00:00
- - user: None
- - tags: []
-
-## Parafie w Polsce - Parafia.com.pl
- - [https://parafia.com.pl](https://parafia.com.pl)
- - date published: 2024-05-11T18:59:15+00:00
- - user: rumpel
- - tags: ['catholic', 'religion']
-
-## pi3 blog
- - [http://blog.pi3.com.pl](http://blog.pi3.com.pl)
- - date published: 2024-04-30T07:19:22.282217+00:00
- - user: None
- - tags: []
-
-## Nowe mieszkania na sprzedaż Wrocław, deweloper Wrocław PROFIT Development, mieszkania Wrocław, developer wrocław
- - [https://www.profitdevelopment.com.pl](https://www.profitdevelopment.com.pl)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Blog, artykuły, informacje, ciekawostki, Semicon z Warszawy.
- - [https://www.semicon.com.pl](https://www.semicon.com.pl)
- - date published: 2021-07-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Świat Radio
- - [http://www.swiatradio.com.pl](http://www.swiatradio.com.pl)
- - date published: 2024-05-12T05:08:46.207641+00:00
- - user: None
- - tags: []
-
-## TOP50 Gry - Gry Online - MMORPG - MMO
- - [http://top50.com.pl](http://top50.com.pl)
- - date published: 2024-05-09T07:07:10.501101+00:00
- - user: None
- - tags: []
-
-## www.tts.com.pl
- - [https://tts.com.pl](https://tts.com.pl)
- - date published: 2024-05-26T18:50:58.656217+00:00
- - user: None
- - tags: []
-
-## tv6.com.pl - oficjalna strona internetowa TV6
- - [https://www.tv6.com.pl](https://www.tv6.com.pl)
- - date published: 2024-05-10T05:26:21.304079+00:00
- - user: None
- - tags: []
-
-## FISZ EMADE - TWORZYWO
- - [https://tworzywo.com.pl](https://tworzywo.com.pl)
- - date published: 2024-01-09T03:43:48.551241+00:00
- - user: None
- - tags: []
-
-## Wilki - Oficjalna Strona Zespołu - Strona Główna
- - [https://www.wilki.com.pl](https://www.wilki.com.pl)
- - date published: 2024-01-09T03:43:49.893046+00:00
- - user: None
- - tags: []
-
-## GetResponse MAX | Online Marketing Platform
- - [https://marketing.znak.com.pl](https://marketing.znak.com.pl)
- - date published: 2024-05-11T09:37:24.451028+00:00
- - user: None
- - tags: []
-
-## Static data for www.znak.com.pl
- - [https://s.znak.com.pl](https://s.znak.com.pl)
- - date published: 2024-05-11T09:37:17.669234+00:00
- - user: None
- - tags: []
-
-## Tata Też Czyta
- - [https://tatatezczyta.znak.com.pl](https://tatatezczyta.znak.com.pl)
- - date published: 2024-05-11T09:37:23.466287+00:00
- - user: None
- - tags: []
-
-## Księgarnia Internetowa znak.com.pl - Książki z Dobrej Strony
- - [https://www.znak.com.pl](https://www.znak.com.pl)
- - date published: 2024-03-23T20:36:11+00:00
- - user: rumpel
- - tags: ['bookstore']
-
-## Wolni i Solidarni – Wolni i Solidarni – Partia polityczna Kornela Morawieckiego. Koło Częstochowa. Dotyczy spraw politycznych ale także historii i przyszłości.
- - [https://www.wolniisolidarni.czest.pl](https://www.wolniisolidarni.czest.pl)
- - date published: 2023-10-25T22:25:00.119842+00:00
- - user: None
- - tags: []
-
-## ICCC 2024 – IEEE 25th International Carpathian Control Conference
- - [https://iccc.agh.edu.pl](https://iccc.agh.edu.pl)
- - date published: 2024-05-08T07:36:24.017288+00:00
- - user: None
- - tags: ['conference']
-
-## Strona główna - Uniwersytet im. Adama Mickiewicza w Poznaniu
- - [https://amu.edu.pl](https://amu.edu.pl)
- - date published: 2023-10-27T13:02:57.267906+00:00
- - user: None
- - tags: ['university']
-
-## PRESSto.
- - [https://pressto.amu.edu.pl](https://pressto.amu.edu.pl)
- - date published: 1979-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Biblioteka Raczyńskich - Oficjalna strona Biblioteki Raczyńskich w Poznaniu
- - [https://bracz.edu.pl](https://bracz.edu.pl)
- - date published: 2024-02-26T00:00:00+00:00
- - user: rumpel
- - tags: ['library']
-
-## IWFM - It Works For Me!
- - [https://zeus27.cyf-kr.edu.pl](https://zeus27.cyf-kr.edu.pl)
- - date published: 2024-02-08T22:53:08.246112+00:00
- - user: None
- - tags: []
-
-## Farmacja.edu.pl - Nowoczesna Edukacja Farmaceuty
- - [https://farmacja.edu.pl](https://farmacja.edu.pl)
- - date published: 2024-04-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Serwis prasowy IFJ PAN
- - [https://press.ifj.edu.pl](https://press.ifj.edu.pl)
- - date published: 2023-10-25T22:25:01.663981+00:00
- - user: None
- - tags: []
-
-## Główna – KRPUT
- - [https://krput.edu.pl](https://krput.edu.pl)
- - date published: 2024-05-26T18:42:12.358580+00:00
- - user: None
- - tags: []
-
-## Banach's Algorithmic Corner | University of Warsaw
- - [http://corner.mimuw.edu.pl](http://corner.mimuw.edu.pl)
- - date published: 2024-05-07T16:15:47.406592+00:00
- - user: None
- - tags: []
-
-## E-recepta, realizacja e-recept, przykłady recept - recepty.edu.pl
- - [https://rx.edu.pl](https://rx.edu.pl)
- - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## | Uniwersytet Gdański
- - [https://ug.edu.pl](https://ug.edu.pl)
- - date published: 2024-05-09T04:03:25.696712+00:00
- - user: None
- - tags: []
-
-## Jagiellonian University - Uniwersytet Jagielloński
- - [https://en.uj.edu.pl](https://en.uj.edu.pl)
- - date published: 2024-05-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## WZ UW | Wydział Zarządzania UW
- - [http://www.wz.uw.edu.pl](http://www.wz.uw.edu.pl)
- - date published: 2024-05-02T09:56:49.862293+00:00
- - user: None
- - tags: []
-
-## WZ UW | Wydział Zarządzania UW
- - [https://wz.uw.edu.pl](https://wz.uw.edu.pl)
- - date published: 2024-02-08T17:01:22.194328+00:00
- - user: None
- - tags: []
-
-## Wyższa Szkoła Biznesu i Nauk o Zdrowiu - Studia Łódź
- - [https://www.wsbinoz.edu.pl](https://www.wsbinoz.edu.pl)
- - date published: 2024-05-06T23:40:34.379345+00:00
- - user: None
- - tags: []
-
-## WSB-NLU: Studia Nowy Sącz - Wyższa Szkoła Biznesu National Louis University w Nowym Sączu
- - [https://www.wsb-nlu.edu.pl](https://www.wsb-nlu.edu.pl)
- - date published: 2024-05-09T05:11:58.372953+00:00
- - user: None
- - tags: []
-
-## Strona Główna - College of Economics and Computer Science
- - [https://en.wsei.edu.pl](https://en.wsei.edu.pl)
- - date published: 2024-05-08T06:16:58.906644+00:00
- - user: None
- - tags: []
-
-## Portal Gov.pl
- - [https://gov.pl](https://gov.pl)
- - date published: 2024-05-09T04:03:59.482454+00:00
- - user: None
- - tags: []
-
-## Strona główna podmiotu WOJEWÓDZKI OŚRODEK RUCHU DROGOWEGO W KONINIE
- - [http://wordkonin.bip.gov.pl](http://wordkonin.bip.gov.pl)
- - date published: 2024-05-11T08:18:35.715422+00:00
- - user: None
- - tags: []
-
-## Strona główna podmiotu WOJEWÓDZKI OŚRODEK RUCHU DROGOWEGO
- - [https://wordpoznan.bip.gov.pl](https://wordpoznan.bip.gov.pl)
- - date published: 2024-05-11T08:18:17.908592+00:00
- - user: None
- - tags: []
-
-## Start2
- - [https://www.brpd.gov.pl](https://www.brpd.gov.pl)
- - date published: 2024-03-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Biuletyn Informacji Publicznej RPO | Rzecznik Praw Obywatelskich
- - [https://bip.brpo.gov.pl](https://bip.brpo.gov.pl)
- - date published: 2024-03-11T15:16:36.629145+00:00
- - user: None
- - tags: []
-
-## CSIRT GOV
- - [https://csirt.gov.pl](https://csirt.gov.pl)
- - date published: 2024-05-09T06:21:42.701617+00:00
- - user: None
- - tags: []
-
-## Otwarte Dane
- - [http://dane.gov.pl](http://dane.gov.pl)
- - date published: 2024-05-29T08:33:21.785897+00:00
- - user: None
- - tags: ['open data']
-
-## ePUAP - Strefa klienta
- - [http://epuap.gov.pl](http://epuap.gov.pl)
- - date published: 2024-05-11T08:18:34.432317+00:00
- - user: None
- - tags: []
-
-## ezdrowie.gov.pl
- - [https://ezdrowie.gov.pl](https://ezdrowie.gov.pl)
- - date published: 2024-05-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Wyszukiwarka E10
- - [https://e10.klimat.gov.pl](https://e10.klimat.gov.pl)
- - date published: 2024-03-10T15:31:04+00:00
- - user: rumpel
- - tags: ['government']
-
-## Strona Główna CEBRF
- - [https://cebrf.knf.gov.pl](https://cebrf.knf.gov.pl)
- - date published: 2024-05-05T18:08:09.495497+00:00
- - user: None
- - tags: ['cybersecurity']
-
-## Laptop dla ucznia
- - [https://laptopdlaucznia.gov.pl](https://laptopdlaucznia.gov.pl)
- - date published: 2024-05-26T17:01:16.126775+00:00
- - user: None
- - tags: []
-
-## Lektury.gov.pl
- - [https://lektury.gov.pl](https://lektury.gov.pl)
- - date published: 2024-05-26T17:01:14.032364+00:00
- - user: None
- - tags: []
-
-## Ministerstwo Zdrowia - Portal Gov.pl
- - [http://www.mz.gov.pl](http://www.mz.gov.pl)
- - date published: 2024-05-12T04:01:45.153248+00:00
- - user: None
- - tags: []
-
-## Akademia NFZ - Serwis Narodowego Funduszu Zdrowia
- - [http://akademia.nfz.gov.pl](http://akademia.nfz.gov.pl)
- - date published: 2024-05-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Oficjalny portal Narodowego Funduszu Zdrowia - Serwis Narodowego Funduszu Zdrowia
- - [https://diety.nfz.gov.pl](https://diety.nfz.gov.pl)
- - date published: 2024-05-29T08:33:29.696492+00:00
- - user: None
- - tags: []
-
-## NFZ Moje Fizjo+
- - [https://mojefizjo.nfz.gov.pl](https://mojefizjo.nfz.gov.pl)
- - date published: 2024-05-29T08:33:40.671999+00:00
- - user: None
- - tags: []
-
-## Narodowy Fundusz Zdrowia (NFZ) – finansujemy zdrowie Polaków
- - [http://nfz.gov.pl](http://nfz.gov.pl)
- - date published: 2024-05-12T04:01:41.515185+00:00
- - user: None
- - tags: []
-
-## Narodowy Fundusz Zdrowia (NFZ) – finansujemy zdrowie Polaków
- - [https://www.nfz.gov.pl](https://www.nfz.gov.pl)
- - date published: 2023-10-25T22:25:03.318274+00:00
- - user: None
- - tags: ['healthcare', 'government']
-
-## Najwyższa Izba Kontroli
- - [https://www.nik.gov.pl](https://www.nik.gov.pl)
- - date published: 2023-11-16T16:54:09.383687+00:00
- - user: None
- - tags: []
-
-## FINA strona główna
- - [http://www.nina.gov.pl](http://www.nina.gov.pl)
- - date published: 2024-05-21T03:04:50.101497+00:00
- - user: None
- - tags: []
-
-## OBYWATEL.GOV.PL - Informacje i usługi przyjazne obywatelom | obywatel.gov.pl
- - [http://obywatel.gov.pl](http://obywatel.gov.pl)
- - date published: 2024-05-29T08:33:34.806119+00:00
- - user: None
- - tags: []
-
-## OSE - Ogólnopolska Sieć Edukacyjna
- - [https://ose.gov.pl](https://ose.gov.pl)
- - date published: 2024-05-26T17:01:11.556553+00:00
- - user: None
- - tags: []
-
-## Strona główna | Pacjent
- - [https://pacjent.gov.pl](https://pacjent.gov.pl)
- - date published: 2024-05-12T04:01:48.009966+00:00
- - user: None
- - tags: []
-
-## Rzecznik Finansowy
- - [http://rf.gov.pl](http://rf.gov.pl)
- - date published: 2024-05-09T06:27:00.284532+00:00
- - user: None
- - tags: []
-
-## Biuletyn Informacji Publicznej RPO | Rzecznik Praw Obywatelskich
- - [https://www.rpo.gov.pl](https://www.rpo.gov.pl)
- - date published: 2024-05-09T06:26:51.443967+00:00
- - user: None
- - tags: []
-
-## Rzecznik Przedsiębiorców
- - [https://rzecznikmsp.gov.pl](https://rzecznikmsp.gov.pl)
- - date published: 2024-05-09T06:26:57.008830+00:00
- - user: None
- - tags: []
-
-## Sejm Rzeczypospolitej Polskiej
- - [https://sejm.gov.pl](https://sejm.gov.pl)
- - date published: 2023-12-01T20:34:13.194103+00:00
- - user: None
- - tags: []
-
-## Sejm Rzeczypospolitej Polskiej
- - [https://www.sejm.gov.pl](https://www.sejm.gov.pl)
- - date published: 2024-01-29T01:20:06.127333+00:00
- - user: None
- - tags: []
-
-## Główny Urząd Statystyczny
- - [https://stat.gov.pl](https://stat.gov.pl)
- - date published: 2024-01-05T10:54:42.258169+00:00
- - user: None
- - tags: []
-
-## Strona główna- Urząd Ochrony Danych Osobowych.
- - [https://uodo.gov.pl](https://uodo.gov.pl)
- - date published: 2024-05-09T06:26:58.562360+00:00
- - user: None
- - tags: []
-
-## Urząd Ochrony Konkurencji i Konsumentów
- - [http://www.uokik.gov.pl](http://www.uokik.gov.pl)
- - date published: 2024-05-09T06:32:03.621335+00:00
- - user: None
- - tags: []
-
-## Strona główna | Główny Inspektorat Weterynarii
- - [https://www.wetgiw.gov.pl](https://www.wetgiw.gov.pl)
- - date published: 2024-02-24T00:02:31.622833+00:00
- - user: None
- - tags: []
-
-## Portal Gov.pl
- - [https://www.gov.pl](https://www.gov.pl)
- - date published: 2023-10-25T22:25:05.025399+00:00
- - user: None
- - tags: ['government']
-
-## Strona domeny laptopy.info.pl
- - [http://laptopy.info.pl](http://laptopy.info.pl)
- - date published: 2024-05-29T10:48:23.131178+00:00
- - user: None
- - tags: []
-
-## Strona główna - Word
- - [https://word.konin.pl](https://word.konin.pl)
- - date published: 2024-01-29T00:00:00+00:00
- - user: rumpel
- - tags: ['ośrodek ruchu drogowego']
-
-## Wrota Warmii i Mazur - Regionalny portal informacyjny - Home
- - [https://warmia.mazury.pl](https://warmia.mazury.pl)
- - date published: 2024-05-29T09:57:58.809833+00:00
- - user: None
- - tags: []
-
-## CSIRT MON
- - [https://csirt-mon.wp.mil.pl](https://csirt-mon.wp.mil.pl)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Amiga – gry i porady – Serwis o komputerach i grach
- - [https://amiga.net.pl](https://amiga.net.pl)
- - date published: 2024-02-06T13:38:51.132578+00:00
- - user: None
- - tags: ['amiga']
-
-## Sterowniki, Programy, Gry i Aktualności - Download.net.pl
- - [https://www.download.net.pl](https://www.download.net.pl)
- - date published: 2023-11-17T21:42:39+00:00
- - user: None
- - tags: ['programs', 'game news', 'drivers', 'downloads']
-
-## Nowiny - Modyfikacje Heroes III - Jaskinia Behemota
- - [https://h3mods.heroes.net.pl](https://h3mods.heroes.net.pl)
- - date published: 2023-10-25T11:18:35.910684+00:00
- - user: None
- - tags: ['video games', 'retro games']
-
-## Moderowany katalog stron WWW | Katalog SEO
- - [http://katalogseo.net.pl](http://katalogseo.net.pl)
- - date published: 2024-05-09T07:07:18.223439+00:00
- - user: None
- - tags: []
-
-## Sklepy budowlano-dekoracyjne Leroy Merlin - Zapraszamy
- - [https://leroy-merlin.net.pl](https://leroy-merlin.net.pl)
- - date published: 2024-05-26T13:41:53.835871+00:00
- - user: None
- - tags: []
-
-## Program Partnerski mBanku - Program Partnerski
- - [https://mbank.net.pl](https://mbank.net.pl)
- - date published: 2024-05-26T14:56:01.113120+00:00
- - user: None
- - tags: []
-
-## Sprzęt Audio Hi-Fi - Sklep, dystrybucja - Nautilus Hi-End
- - [https://nautilus.net.pl](https://nautilus.net.pl)
- - date published: 2024-05-29T08:03:02.651943+00:00
- - user: None
- - tags: []
-
-## Odzyskiwanie Danych i Skasowanych Plików
- - [https://odzyskiwaniedanych.net.pl](https://odzyskiwaniedanych.net.pl)
- - date published: 2024-05-11T08:34:19.938848+00:00
- - user: None
- - tags: []
-
-## Paradoks
- - [http://paradoks.net.pl](http://paradoks.net.pl)
- - date published: 2024-05-13T03:56:45.049169+00:00
- - user: None
- - tags: ['fantasy news']
-
-## Psychologia.net.pl  - portal psychologiczny
- - [https://www.psychologia.net.pl](https://www.psychologia.net.pl)
- - date published: 2024-01-09T03:43:50.736529+00:00
- - user: None
- - tags: []
-
-## QUAKE.net.pl - Największy Polski Serwis o Quake Live, Quake Champions, Quake 3 I Quake 4 - pliki, artykuły, newsy, forum
- - [https://quake.net.pl](https://quake.net.pl)
- - date published: 2023-10-25T11:18:37.970311+00:00
- - user: None
- - tags: []
-
-## Przebojowe Opole: Oficjalny portal Miasta Opola
- - [https://www.opole.pl](https://www.opole.pl)
- - date published: 2024-05-29T09:57:54.512243+00:00
- - user: None
- - tags: []
-
-## 7-ZIP - Program do Pakowania 7-Zip
- - [https://7-zip.org.pl](https://7-zip.org.pl)
- - date published: 2024-05-21T20:33:07+00:00
- - user: rumpel
- - tags: ['archive program']
-
-## Portal AMIGA ORG PL – amiga.org.pl
- - [https://amiga.org.pl](https://amiga.org.pl)
- - date published: 2024-02-06T13:37:32.589117+00:00
- - user: None
- - tags: ['amiga']
-
-## amiga online – dobre miejsce na debiut dla twórczych amigowców
- - [https://sklep.amiga.org.pl](https://sklep.amiga.org.pl)
- - date published: 2023-12-11T16:55:39.925424+00:00
- - user: None
- - tags: []
-
-## bash.org.pl: śmieszne cytaty
- - [http://bash.org.pl](http://bash.org.pl)
- - date published: 2024-01-06T08:41:47+00:00
- - user: None
- - tags: ['funny']
-
-## Biblioteka Narodowa
- - [https://bn.org.pl](https://bn.org.pl)
- - date published: 2024-04-18T10:06:08+00:00
- - user: rumpel
- - tags: ['national library']
-
-## Chabad Lubawicz Polska – Centrum Żydowskie – Chabad Lubawicz – najbardziej dynamiczna siła we współczesnym żydowskim życiu. To filozofia, ruch i organizacja. Jesteśmy tym domem, którego szukają Żydzi.
- - [https://chabad.org.pl](https://chabad.org.pl)
- - date published: 2024-01-30T02:12:28.571971+00:00
- - user: None
- - tags: []
-
-## CSM – Centrum Stosunków Międzynarodowych
- - [https://csm.org.pl](https://csm.org.pl)
- - date published: 2024-01-30T02:20:38.570360+00:00
- - user: None
- - tags: []
-
-## Akademia Fact-Checkingu. Jak odróżniać fake newsy od prawdy?
- - [https://akademia.demagog.org.pl](https://akademia.demagog.org.pl)
- - date published: 2020-09-04T13:54:48+00:00
- - user: None
- - tags: []
-
-## DEMAGOG - fakty są najważniejsze! Weryfikujemy i kontrolujemy.
- - [https://demagog.org.pl](https://demagog.org.pl)
- - date published: 2023-10-25T22:25:14.949568+00:00
- - user: None
- - tags: ['fact check']
-
-## Platforma edukacyjna Demagoga
- - [https://platforma.demagog.org.pl](https://platforma.demagog.org.pl)
- - date published: 2024-05-12T04:02:24.111894+00:00
- - user: None
- - tags: []
-
-## Łukasz Rybka
- - [https://www.dragonia.org.pl](https://www.dragonia.org.pl)
- - date published: 2024-05-11T10:07:15.528075+00:00
- - user: None
- - tags: []
-
-## Fundacja Moje Państwo
- - [https://epf.org.pl](https://epf.org.pl)
- - date published: 2024-05-06T09:20:32.550709+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://for.org.pl](https://for.org.pl)
- - date published: 2024-05-13T03:23:55.456171+00:00
- - user: None
- - tags: []
-
-## Gothic Up - Polskie centrum Gothic, Risen oraz Elex.
- - [https://gothic.org.pl](https://gothic.org.pl)
- - date published: 2024-05-09T20:41:27+00:00
- - user: rumpel
- - tags: ['gothic game']
-
-## Historia.org.pl - Polski portal historyczny
- - [https://historia.org.pl](https://historia.org.pl)
- - date published: 2023-10-25T22:25:19.313712+00:00
- - user: None
- - tags: []
-
-## IAB Polska
- - [https://www.iab.org.pl](https://www.iab.org.pl)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Liga Liero
- - [https://www.liero.org.pl](https://www.liero.org.pl)
- - date published: 2024-05-09T19:21:57+00:00
- - user: rumpel
- - tags: ['liero']
-
-## MCPL | Minecraft Polska - Społeczność graczy Minecraft Polska
- - [https://minecraft.org.pl](https://minecraft.org.pl)
- - date published: 2024-04-09T17:49:40+00:00
- - user: rumpel
- - tags: ['minecraft fan page']
-
-## Papieskie Dzieła Misyjne |
- - [https://missio.org.pl](https://missio.org.pl)
- - date published: 2024-05-26T15:51:23.118818+00:00
- - user: None
- - tags: []
-
-## Darmowe MMORPG - spis gier MMO, MMOFPS, MMORPG 3d, MOBA
- - [https://mmorpg.org.pl](https://mmorpg.org.pl)
- - date published: 2023-10-26T18:37:58.388090+00:00
- - user: None
- - tags: []
-
-## OpenStreetMap Polska - Portal polskiej społeczności OpenStreetMap
- - [https://openstreetmap.org.pl](https://openstreetmap.org.pl)
- - date published: 2024-05-07T23:55:08.324991+00:00
- - user: None
- - tags: []
-
-## OPOKA. Portal katolicki
- - [https://opoka.org.pl](https://opoka.org.pl)
- - date published: 2023-10-25T22:25:23.274370+00:00
- - user: None
- - tags: ['catholic', 'religion']
-
-## Prawo i Sprawiedliwość
- - [http://bip.pis.org.pl](http://bip.pis.org.pl)
- - date published: 2024-05-29T09:07:48.129687+00:00
- - user: None
- - tags: []
-
-## Prawo i Sprawiedliwość
- - [https://pis.org.pl](https://pis.org.pl)
- - date published: 2024-02-23T16:25:58.565767+00:00
- - user: None
- - tags: ['government party']
-
-## Strona główna | Polska Misja Medyczna
- - [http://www.pmm.org.pl](http://www.pmm.org.pl)
- - date published: 2024-04-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## PTODT
- - [https://ptodt.org.pl](https://ptodt.org.pl)
- - date published: 2024-05-24T18:39:19.491955+00:00
- - user: None
- - tags: []
-
-## Polski Związek Przemysłu Oponiarskiego
- - [https://www.pzpo.org.pl](https://www.pzpo.org.pl)
- - date published: 2024-05-29T10:28:50.100222+00:00
- - user: None
- - tags: []
-
-## Scheme.org.pl
- - [https://scheme.org.pl](https://scheme.org.pl)
- - date published: 2024-05-09T08:39:54.916517+00:00
- - user: None
- - tags: []
-
-## Silent's Homepage
- - [https://silent.org.pl](https://silent.org.pl)
- - date published: 2024-02-01T18:20:20+00:00
- - user: rumpel
- - tags: ['hardware', 'personal', 'hobby']
-
-## TotalWar.org.pl - Polskie Uniwersum serii Total War
- - [https://totalwar.org.pl](https://totalwar.org.pl)
- - date published: 2024-04-26T18:15:59+00:00
- - user: rumpel
- - tags: ['total war', 'video game']
-
-## HOMEPAGE - Warsaw Enterprise Institute
- - [https://wei.org.pl](https://wei.org.pl)
- - date published: 2024-01-29T01:13:40.671423+00:00
- - user: None
- - tags: []
-
-## Warszawy historia ukryta
- - [https://whu.org.pl](https://whu.org.pl)
- - date published: 2023-12-05T15:22:49+00:00
- - user: None
- - tags: ['history', 'warsow']
-
-## Fundacja WOŚP  - wosp.org.pl
- - [https://www.wosp.org.pl](https://www.wosp.org.pl)
- - date published: 2023-11-27T12:26:19+00:00
- - user: rumpel
- - tags: ['organization', 'concert', 'wielka orkiestra świątecznej pomocy', 'music']
-
-## 101010.pl
- - [https://101010.pl](https://101010.pl)
- - date published: 2024-05-09T08:02:11.824412+00:00
- - user: None
- - tags: []
-
-## 116111 - telefon zaufania dla dzieci i młodzieży
- - [https://116111.pl](https://116111.pl)
- - date published: 2024-01-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stare gry - Świat klasyki gier komputerowych.
- - [https://16bit.pl](https://16bit.pl)
- - date published: 2023-10-25T16:37:07.710478+00:00
- - user: None
- - tags: ['roms', 'abandonware', 'emulation', 'video games', 'amiga', 'games', 'atari']
-
-## mlem
- - [https://2442.pl](https://2442.pl)
- - date published: 2024-05-09T02:39:02.842517+00:00
- - user: None
- - tags: []
-
-## Jelenia Góra, Portal informacyjny powiatu i miasta  - 24jgora.pl
- - [https://24jgora.pl](https://24jgora.pl)
- - date published: 2023-10-25T22:25:26.816865+00:00
- - user: None
- - tags: []
-
-## 300Gospodarka.pl - gospodarka, nowe technologie, klimat, samorządy
- - [https://300gospodarka.pl](https://300gospodarka.pl)
- - date published: 2023-10-25T22:25:30.356095+00:00
- - user: None
- - tags: []
-
-## 3D-INFO.PL - Portal ludzi z pasją. Mobile, gry, komputery, Telewizory i Hi-Fi
- - [https://3d-info.pl](https://3d-info.pl)
- - date published: 2023-11-02T19:02:18.392184+00:00
- - user: None
- - tags: ['game news', 'tech news']
-
-## Forbot
- - [https://4bot.pl](https://4bot.pl)
- - date published: 2023-12-13T14:56:50.810351+00:00
- - user: None
- - tags: ['electronics']
 

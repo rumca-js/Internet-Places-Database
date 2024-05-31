@@ -1,3 +1,117 @@
+## DartMUD
+ - [https://www.dartmud.com](https://www.dartmud.com)
+ - date published: 2024-03-27T20:50:08.211077+00:00
+ - user: None
+ - tags: ['mud game']
+
+## Daryl Cook | Home
+ - [https://darylcook.com](https://darylcook.com)
+ - date published: 2024-01-04T03:34:09.104755+00:00
+ - user: None
+ - tags: []
+
+## Daryl Legion
+ - [https://daryllegion.com](https://daryllegion.com)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DarZouras.com | Home
+ - [https://darzouras.com](https://darzouras.com)
+ - date published: 2024-01-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dasani - Water Nutrition Facts & Ingredients | Coca-Cola US
+ - [https://www.dasani.com](https://www.dasani.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Anil Dash
+ - [https://dashes.com](https://dashes.com)
+ - date published: 2024-05-06T22:59:01.481188+00:00
+ - user: None
+ - tags: []
+
+## Dashlane Password Manager
+ - [https://www.dashlane.com](https://www.dashlane.com)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 大上科技-DASUNG
+ - [http://www.dasung.com](http://www.dasung.com)
+ - date published: 2024-05-04T09:32:28.091413+00:00
+ - user: None
+ - tags: []
+
+## 大上科技-DASUNG
+ - [http://www.dasungtech.com](http://www.dasungtech.com)
+ - date published: 2024-05-04T09:32:55.946947+00:00
+ - user: None
+ - tags: []
+
+## Data All The Way
+ - [https://dataalltheway.com](https://dataalltheway.com)
+ - date published: 2024-05-14T03:30:42.094642+00:00
+ - user: None
+ - tags: []
+
+## Data @ UCI
+ - [https://www.dataatuci.com](https://www.dataatuci.com)
+ - date published: 2024-05-07T20:54:28.464035+00:00
+ - user: None
+ - tags: []
+
+## Free Online Database Diagram Tool
+ - [https://databasediagram.com](https://databasediagram.com)
+ - date published: 2023-10-25T13:43:28.543960+00:00
+ - user: None
+ - tags: []
+
+## Databento
+ - [https://databento.com](https://databento.com)
+ - date published: 2024-05-06T18:18:31.992103+00:00
+ - user: None
+ - tags: []
+
+## Buy and Sell web-scraped data
+ - [https://www.databoutique.com](https://www.databoutique.com)
+ - date published: 2024-04-22T00:00:00+00:00
+ - user: rumpel
+ - tags: ['web scraping', 'data market place']
+
+## Databox | An Analytics Platform that's powerful, but easy-to-use
+ - [https://databox.com](https://databox.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Databricks - Sign in
+ - [https://accounts.cloud.databricks.com](https://accounts.cloud.databricks.com)
+ - date published: 2024-05-01T04:03:09.382723+00:00
+ - user: None
+ - tags: []
+
+## Home | Databricks
+ - [https://community.databricks.com](https://community.databricks.com)
+ - date published: 2024-05-01T04:03:07.669203+00:00
+ - user: None
+ - tags: []
+
+## The Data and AI Company — Databricks
+ - [https://databricks.com](https://databricks.com)
+ - date published: 2023-10-13T18:57:00+00:00
+ - user: None
+ - tags: []
+
+## Databricks documentation
+ - [https://docs.databricks.com](https://docs.databricks.com)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Data Lakehouse Architecture and AI Company | Databricks
  - [https://www.databricks.com](https://www.databricks.com)
  - date published: 2023-10-25T13:43:30.770115+00:00
@@ -518,7 +632,7 @@
  - [https://davebitter.com](https://davebitter.com)
  - date published: 2024-05-15T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Hi, I'm Dave
  - [https://www.davebitter.com](https://www.davebitter.com)
@@ -1768,7 +1882,7 @@
  - [https://deanattali.com](https://deanattali.com)
  - date published: 2024-04-28T02:43:21.671373+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Western Shores Marketing - Affordable Marketing for Small Businesses
  - [http://deancalin.com](http://deancalin.com)
@@ -2548,7 +2662,7 @@
  - [https://www.defcononline.com](https://www.defcononline.com)
  - date published: 2024-02-05T19:20:30.491695+00:00
  - user: rumpel
- - tags: []
+ - tags: ['hacking']
 
 ## defective yeti
  - [http://www.defectiveyeti.com](http://www.defectiveyeti.com)
@@ -2661,6 +2775,12 @@
 ## Defense & Security Web TV
  - [https://www.defensewebtv.com](https://www.defensewebtv.com)
  - date published: 2024-05-06T16:35:08.280921+00:00
+ - user: None
+ - tags: []
+
+## DefensiveComputingChecklist.com Table of Contents
+ - [https://defensivecomputingchecklist.com](https://defensivecomputingchecklist.com)
+ - date published: 2024-01-02T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3034,7 +3154,7 @@
  - [https://www.deltadreams.com](https://www.deltadreams.com)
  - date published: 2023-12-26T06:31:21.923157+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Delta User Guide | Delta
  - [https://deltaemulator.com](https://deltaemulator.com)
@@ -3711,6 +3831,12 @@
 ## dergigi.com
  - [https://dergigi.com](https://dergigi.com)
  - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Tech Innovations from Our Experts | Deriv Tech blog
+ - [https://tech.deriv.com](https://tech.deriv.com)
+ - date published: 2024-05-30T13:10:54.725228+00:00
  - user: None
  - tags: []
 
@@ -4860,6 +4986,12 @@
  - user: None
  - tags: []
 
+## #DevsDoDesign
+ - [http://devsdodesign.com](http://devsdodesign.com)
+ - date published: 2024-05-30T02:42:42.411482+00:00
+ - user: None
+ - tags: []
+
 ## DevsForDevs
  - [https://www.devsfordevs.com](https://www.devsfordevs.com)
  - date published: 2024-04-14T16:19:02.763044+00:00
@@ -5865,138 +5997,6 @@
 ## Tradigital Marketing Agency in West Virginia - Digital Relativity
  - [https://digitalrelativity.com](https://digitalrelativity.com)
  - date published: 2024-05-12T05:59:44.177279+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://store.digitalriver.com](https://store.digitalriver.com)
- - date published: 2024-05-04T13:02:49.913214+00:00
- - user: None
- - tags: []
-
-## Digital Science: tools for open, collaborative and inclusive research
- - [https://www.digital-science.com](https://www.digital-science.com)
- - date published: 2023-10-25T13:52:17.199858+00:00
- - user: None
- - tags: []
-
-## Digital Spy Forum
- - [https://forums.digitalspy.com](https://forums.digitalspy.com)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Digital Spy  - TV, Movies and Entertainment News
- - [https://www.digitalspy.com](https://www.digitalspy.com)
- - date published: 2023-10-27T13:14:15.948159+00:00
- - user: None
- - tags: ['entertainment news']
-
-## Show HN: Digital Superpowers, a free book highlighting various FOSS tools
- - [https://digitalsuperpowers.com](https://digitalsuperpowers.com)
- - date published: 2024-03-09T18:16:18+00:00
- - user: None
- - tags: []
-
-## Digital Surgeons – Brand Experience Transformation
- - [https://digitalsurgeons.com](https://digitalsurgeons.com)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Digital Transformation Week | In-Person Event | London, Amsterdam, Santa Clara, USA
- - [https://digitaltransformation-week.com](https://digitaltransformation-week.com)
- - date published: 2024-05-01T04:50:04.318163+00:00
- - user: None
- - tags: []
-
-## Digital Transformation Week | In-Person Event | London, Amsterdam, Santa Clara, USA
- - [https://www.digitaltransformation-week.com](https://www.digitaltransformation-week.com)
- - date published: 2024-05-01T04:55:06.516805+00:00
- - user: None
- - tags: []
-
-## Digital Trends DB
- - [https://ccp.digitaltrends.com](https://ccp.digitaltrends.com)
- - date published: 2024-05-01T05:13:05.443958+00:00
- - user: None
- - tags: []
-
-## Digital Trends | Tech News, Reviews, Deals, and How-To's
- - [https://digitaltrends.com](https://digitaltrends.com)
- - date published: 2024-05-01T05:13:01.944546+00:00
- - user: None
- - tags: []
-
-## Download Software for Windows - Free Software & reviews
- - [https://downloads.digitaltrends.com](https://downloads.digitaltrends.com)
- - date published: 2024-05-01T05:12:35.002908+00:00
- - user: None
- - tags: []
-
-## Digital Trends Español - Su fuente para las últimas noticias y comentarios sobre la tecnología
- - [https://es.digitaltrends.com](https://es.digitaltrends.com)
- - date published: 2024-05-01T05:13:08.384859+00:00
- - user: None
- - tags: []
-
-## Digital Trends | Tech News, Reviews, Deals, and How-To's
- - [https://www.digitaltrends.com](https://www.digitaltrends.com)
- - date published: 2024-02-06T13:44:04.524126+00:00
- - user: None
- - tags: ['tech news']
-
-## Digital Turbine
- - [https://www.digitalturbine.com](https://www.digitalturbine.com)
- - date published: 2024-05-06T17:45:08.123978+00:00
- - user: None
- - tags: []
-
-## Place de concert, festivals, spectacles, sport... | Achetez vos billets sur See Tickets France
- - [https://web.digitick.com](https://web.digitick.com)
- - date published: 2024-05-20T06:33:36.563443+00:00
- - user: None
- - tags: []
-
-## DIGITIMES Asia: News and Insight of the Global Supply Chain
- - [https://www.digitimes.com](https://www.digitimes.com)
- - date published: 2024-04-28T05:00:56.320085+00:00
- - user: None
- - tags: []
-
-## Dignity Memorial - Funeral Homes, Cremation and Cemeteries
- - [https://www.dignitymemorial.com](https://www.dignitymemorial.com)
- - date published: 2023-10-25T13:52:51.028566+00:00
- - user: None
- - tags: []
-
-## DigStack — Powerful Digital Whiteboard For Remote Teams
- - [https://www.digstack.com](https://www.digstack.com)
- - date published: 2024-04-28T05:54:27.152709+00:00
- - user: None
- - tags: []
-
-## Diigo
- - [http://blog.diigo.com](http://blog.diigo.com)
- - date published: 2024-04-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## Diigo -  Better reading and research with annotation, highlighter, sticky notes, archiving, bookmarking & more.
- - [https://diigo.com](https://diigo.com)
- - date published: 2024-05-07T13:28:55.638656+00:00
- - user: None
- - tags: []
-
-## Diigo -  Better reading and research with annotation, highlighter, sticky notes, archiving, bookmarking & more.
- - [https://www.diigo.com](https://www.diigo.com)
- - date published: 2023-11-26T16:44:37+00:00
- - user: rumpel
- - tags: ['bookmark manager']
-
-## Welcome, dear computer professional | Dijkstra's Rallying Cry for Generalization
- - [http://www.dijkstrascry.com](http://www.dijkstrascry.com)
- - date published: 2024-05-01T07:48:38.465683+00:00
  - user: None
  - tags: []
 

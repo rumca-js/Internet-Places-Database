@@ -1,3 +1,477 @@
+## Updates on Duke’s Coronavirus Response
+ - [https://coronavirus.duke.edu](https://coronavirus.duke.edu)
+ - date published: 2024-04-30T04:13:03.759771+00:00
+ - user: None
+ - tags: []
+
+## Front Page | Department of Computer Science
+ - [https://cs.duke.edu](https://cs.duke.edu)
+ - date published: 2024-04-29T03:30:31.922892+00:00
+ - user: None
+ - tags: []
+
+## Duke Database Devils
+ - [http://db.cs.duke.edu](http://db.cs.duke.edu)
+ - date published: 2024-04-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Duke University
+ - [https://duke.edu](https://duke.edu)
+ - date published: 2024-04-30T04:13:55.301862+00:00
+ - user: None
+ - tags: []
+
+## Durham, Our Hometown - Duke Undergraduate Admissions
+ - [https://durham.duke.edu](https://durham.duke.edu)
+ - date published: 2024-04-30T04:13:47.733513+00:00
+ - user: None
+ - tags: []
+
+## Home | Human Resources
+ - [https://hr.duke.edu](https://hr.duke.edu)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Duke | Log In
+ - [https://idms-mfa.oit.duke.edu](https://idms-mfa.oit.duke.edu)
+ - date published: 2024-05-01T06:58:34.700524+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the Pratt Intranet | Pratt Intranet
+ - [https://inside.pratt.duke.edu](https://inside.pratt.duke.edu)
+ - date published: 2024-05-10T04:48:48.601253+00:00
+ - user: None
+ - tags: []
+
+## Bolch Judicial Institute of Duke Law School
+ - [https://judicialstudies.duke.edu](https://judicialstudies.duke.edu)
+ - date published: 2019-01-15T16:31:27+00:00
+ - user: None
+ - tags: []
+
+## Duke University School of Law
+ - [https://law.duke.edu](https://law.duke.edu)
+ - date published: 2024-04-30T04:13:42.585667+00:00
+ - user: None
+ - tags: []
+
+## Duke University Maps
+ - [https://maps.duke.edu](https://maps.duke.edu)
+ - date published: 2024-04-30T04:13:53.296268+00:00
+ - user: None
+ - tags: []
+
+## Duke University School of Medicine
+ - [https://medschool.duke.edu](https://medschool.duke.edu)
+ - date published: 2024-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Duke Department of Molecular Genetics and Microbiology
+ - [https://mgm.duke.edu](https://mgm.duke.edu)
+ - date published: 2024-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Duke News
+ - [https://news.duke.edu](https://news.duke.edu)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Nicholas School of the Environment | Duke University
+ - [https://nicholas.duke.edu](https://nicholas.duke.edu)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Duke | OARC | Office of Audit, Risk and Compliance
+ - [https://oarc.duke.edu](https://oarc.duke.edu)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Duke Pratt School of Engineering
+ - [https://pratt.duke.edu](https://pratt.duke.edu)
+ - date published: 2023-12-11T12:00:31.232853+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Duke Research & Innovation
+ - [https://research.duke.edu](https://research.duke.edu)
+ - date published: 2024-01-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Sanford School of Public Policy
+ - [http://sanford.duke.edu](http://sanford.duke.edu)
+ - date published: 2024-05-22T02:44:42.656403+00:00
+ - user: None
+ - tags: []
+
+## Duke Law Scholarship Repository | Duke Law Research
+ - [https://scholarship.law.duke.edu](https://scholarship.law.duke.edu)
+ - date published: 2024-05-09T02:38:12.169132+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Sites@Duke Express! - Sites@Duke Express
+ - [https://sites.duke.edu](https://sites.duke.edu)
+ - date published: 2024-05-07T18:21:18.312091+00:00
+ - user: None
+ - tags: []
+
+## The Nasher Museum of Art at Duke University -
+ - [https://sites.nasher.duke.edu](https://sites.nasher.duke.edu)
+ - date published: 2024-02-08T16:49:26.722514+00:00
+ - user: None
+ - tags: []
+
+## Front Page - Duke Stories
+ - [https://stories.duke.edu](https://stories.duke.edu)
+ - date published: 2024-05-10T04:48:51.839796+00:00
+ - user: None
+ - tags: []
+
+## Duke Today | Duke Today
+ - [https://today.duke.edu](https://today.duke.edu)
+ - date published: 2023-10-25T18:51:07.229842+00:00
+ - user: None
+ - tags: []
+
+## Front Page | Trinity College of Arts & Sciences
+ - [https://trinity.duke.edu](https://trinity.duke.edu)
+ - date published: 2024-04-30T04:13:05.802775+00:00
+ - user: None
+ - tags: []
+
+## Home Page | Office of  Undergraduate Education
+ - [https://undergrad.duke.edu](https://undergrad.duke.edu)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Front Page | Department of Computer Science
+ - [https://users.cs.duke.edu](https://users.cs.duke.edu)
+ - date published: 2024-05-22T02:38:09.761464+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Web Accessibility
+ - [https://web.accessibility.duke.edu](https://web.accessibility.duke.edu)
+ - date published: 2024-03-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Duke University School of Law
+ - [https://web.law.duke.edu](https://web.law.duke.edu)
+ - date published: 2023-10-25T11:22:18.328920+00:00
+ - user: None
+ - tags: []
+
+## Front Page | Department of Computer Science
+ - [https://www.cs.duke.edu](https://www.cs.duke.edu)
+ - date published: 2024-05-04T15:26:25.414605+00:00
+ - user: None
+ - tags: []
+
+## Duke University
+ - [https://www.duke.edu](https://www.duke.edu)
+ - date published: 2024-05-01T05:57:46.875167+00:00
+ - user: None
+ - tags: []
+
+## Duke University School of Law
+ - [https://www.law.duke.edu](https://www.law.duke.edu)
+ - date published: 2024-05-09T02:38:20.880820+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://dukeupress.edu](https://dukeupress.edu)
+ - date published: 2024-04-30T04:14:03.894284+00:00
+ - user: None
+ - tags: []
+
+## Duke University Press
+ - [https://read.dukeupress.edu](https://read.dukeupress.edu)
+ - date published: 2023-10-25T18:51:09.503912+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.dukeupress.edu](https://www.dukeupress.edu)
+ - date published: 2024-04-30T04:14:06.934129+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://legacy.earlham.edu](http://legacy.earlham.edu)
+ - date published: 2024-03-27T04:35:57.699469+00:00
+ - user: None
+ - tags: []
+
+## PiratePanel Redirect | Information Technology and Computing Services | ECU
+ - [https://core.ecu.edu](https://core.ecu.edu)
+ - date published: 2024-05-09T04:41:09.357121+00:00
+ - user: None
+ - tags: []
+
+## Home - East Carolina University
+ - [https://ecu.edu](https://ecu.edu)
+ - date published: 2024-04-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The ScholarShip at ECU
+ - [http://thescholarship.ecu.edu](http://thescholarship.ecu.edu)
+ - date published: 2024-04-28T03:37:49.924498+00:00
+ - user: None
+ - tags: []
+
+## Home - East Carolina University
+ - [https://www.ecu.edu](https://www.ecu.edu)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## EF Education First | Educational Tours & Language Programs Abroad
+ - [https://www.ef.edu](https://www.ef.edu)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Eastern Michigan University
+ - [https://www.emich.edu](https://www.emich.edu)
+ - date published: 2024-05-01T06:25:27.365332+00:00
+ - user: None
+ - tags: []
+
+## Explore your options at Ensign College.
+ - [https://ensign.edu](https://ensign.edu)
+ - date published: 2024-05-12T07:42:40.315652+00:00
+ - user: None
+ - tags: []
+
+## test page
+ - [https://css.erau.edu](https://css.erau.edu)
+ - date published: 2024-05-11T08:04:09.029680+00:00
+ - user: None
+ - tags: []
+
+## Hosted Pages -  Embry-Riddle Aeronautical University
+ - [http://dbwebcat.erau.edu](http://dbwebcat.erau.edu)
+ - date published: 2024-05-11T08:04:07.793271+00:00
+ - user: None
+ - tags: []
+
+## Hosted Pages -  Embry-Riddle Aeronautical University
+ - [http://pages.erau.edu](http://pages.erau.edu)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Embry-Riddle Aeronautical University
+ - [https://www.erau.edu](https://www.erau.edu)
+ - date published: 2024-05-11T08:04:12.318412+00:00
+ - user: None
+ - tags: []
+
+## Elizabethtown College Groups
+ - [https://groups.etown.edu](https://groups.etown.edu)
+ - date published: 2024-03-26T00:14:32.167556+00:00
+ - user: None
+ - tags: []
+
+## Phillips Exeter Academy
+ - [https://www.exeter.edu](https://www.exeter.edu)
+ - date published: 2024-05-09T05:21:01.438647+00:00
+ - user: None
+ - tags: []
+
+## Experience the Exploratorium at Pier 15 | Exploratorium
+ - [https://www.exploratorium.edu](https://www.exploratorium.edu)
+ - date published: 2024-04-30T15:48:05.838419+00:00
+ - user: None
+ - tags: []
+
+## School of Architecture and Engineering Technology
+ - [https://saet.famu.edu](https://saet.famu.edu)
+ - date published: 2024-05-08T11:43:39.986531+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar
+ - [https://calendar.fau.edu](https://calendar.fau.edu)
+ - date published: 2024-04-30T04:14:14.611405+00:00
+ - user: None
+ - tags: []
+
+## FAU directory
+ - [https://directory.fau.edu](https://directory.fau.edu)
+ - date published: 2024-04-30T04:14:17.637913+00:00
+ - user: None
+ - tags: []
+
+## Florida Atlantic University
+ - [https://fau.edu](https://fau.edu)
+ - date published: 2024-04-30T04:14:25.546745+00:00
+ - user: None
+ - tags: []
+
+## FAU Foundation Inc
+ - [https://fauf.fau.edu](https://fauf.fau.edu)
+ - date published: 2024-04-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## One-Stop Shop for Student Services : Florida Atlantic University
+ - [https://onestop.fau.edu](https://onestop.fau.edu)
+ - date published: 2024-04-30T04:14:12.323236+00:00
+ - user: None
+ - tags: []
+
+## Florida Atlantic University
+ - [https://www.fau.edu](https://www.fau.edu)
+ - date published: 2024-01-09T02:59:07.976768+00:00
+ - user: None
+ - tags: []
+
+## Ferris State University
+ - [https://360.ferris.edu](https://360.ferris.edu)
+ - date published: 2024-04-30T04:14:31.121666+00:00
+ - user: None
+ - tags: []
+
+## Kendall College of Art and Design Grand Rapids Michigan
+ - [https://kcad.ferris.edu](https://kcad.ferris.edu)
+ - date published: 2024-02-08T17:43:57.760533+00:00
+ - user: None
+ - tags: []
+
+## Ferris State University
+ - [https://www.ferris.edu](https://www.ferris.edu)
+ - date published: 2024-04-30T04:14:29.753716+00:00
+ - user: None
+ - tags: []
+
+## Home - Florida Tech Department of Computer Sciences
+ - [http://cs.fit.edu](http://cs.fit.edu)
+ - date published: 2024-05-11T10:37:53.918626+00:00
+ - user: None
+ - tags: []
+
+## Accessibility @ FIU
+ - [https://accessibility.fiu.edu](https://accessibility.fiu.edu)
+ - date published: 2024-04-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Access, Compliance, and Equal ﻿Opportunity
+ - [https://ace.fiu.edu](https://ace.fiu.edu)
+ - date published: 2024-04-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Events Calendar - Florida International University
+ - [https://calendar.fiu.edu](https://calendar.fiu.edu)
+ - date published: 2024-04-30T04:15:01.587208+00:00
+ - user: None
+ - tags: []
+
+## Florida International University - Campus Maps
+ - [https://campusmaps.fiu.edu](https://campusmaps.fiu.edu)
+ - date published: 2024-04-30T04:14:57.859721+00:00
+ - user: None
+ - tags: []
+
+## FIU Canvas
+ - [https://canvas.fiu.edu](https://canvas.fiu.edu)
+ - date published: 2024-04-30T04:14:50.043009+00:00
+ - user: None
+ - tags: []
+
+## digicdn.fiu.edu
+ - [https://digicdn.fiu.edu](https://digicdn.fiu.edu)
+ - date published: 2024-04-30T04:14:39.613548+00:00
+ - user: None
+ - tags: []
+
+## Please wait...
+ - [http://mail.fiu.edu](http://mail.fiu.edu)
+ - date published: 2024-04-30T04:14:46.164256+00:00
+ - user: None
+ - tags: []
+
+## My FIU
+ - [https://my.fiu.edu](https://my.fiu.edu)
+ - date published: 2024-04-30T04:14:48.367439+00:00
+ - user: None
+ - tags: []
+
+## FIU News - Florida International University
+ - [https://news.fiu.edu](https://news.fiu.edu)
+ - date published: 2023-10-30T12:42:14.738633+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://onestop.fiu.edu](https://onestop.fiu.edu)
+ - date published: 2024-04-30T04:14:51.211245+00:00
+ - user: None
+ - tags: []
+
+## FIU Phonebook
+ - [https://phonebook.fiu.edu](https://phonebook.fiu.edu)
+ - date published: 2024-04-30T04:15:03.150013+00:00
+ - user: None
+ - tags: []
+
+## Report a Concern
+ - [https://report.fiu.edu](https://report.fiu.edu)
+ - date published: 2024-04-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Strategic Communications, Government and External Affairs
+ - [https://stratcomm.fiu.edu](https://stratcomm.fiu.edu)
+ - date published: 2024-03-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MachForm Admin Panel
+ - [https://webforms.fiu.edu](https://webforms.fiu.edu)
+ - date published: 2024-04-30T04:14:47.420081+00:00
+ - user: None
+ - tags: []
+
+## Florida International University in Miami, FL
+ - [https://www.fiu.edu](https://www.fiu.edu)
+ - date published: 2024-04-30T04:14:38.618503+00:00
+ - user: None
+ - tags: []
+
+## State University System of Florida
+ - [https://www.flbog.edu](https://www.flbog.edu)
+ - date published: 2024-04-30T04:16:15.757109+00:00
+ - user: None
+ - tags: []
+
+## Collation | Folger Shakespeare Library
+ - [http://collation.folger.edu](http://collation.folger.edu)
+ - date published: 2024-05-07T10:20:20.322787+00:00
+ - user: None
+ - tags: []
+
+## Home | Folger Shakespeare Library
+ - [https://www.folger.edu](https://www.folger.edu)
+ - date published: 2024-05-07T10:25:33.742212+00:00
+ - user: None
+ - tags: []
+
 ## Foothill College | Home - Foothill College
  - [https://foothill.edu](https://foothill.edu)
  - date published: 2024-05-09T08:42:05.495631+00:00
@@ -5529,480 +6003,6 @@ Data Services
 ## La Casa: A cultural house at MIT
  - [http://la-casa.mit.edu](http://la-casa.mit.edu)
  - date published: 2024-05-04T15:41:23.439519+00:00
- - user: None
- - tags: []
-
-## Future of Learning Group
- - [https://learning.media.mit.edu](https://learning.media.mit.edu)
- - date published: 2024-04-30T06:34:51.711918+00:00
- - user: None
- - tags: []
-
-## MIT Leaders for Global Operations
- - [https://lgo.mit.edu](https://lgo.mit.edu)
- - date published: 2024-05-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Research guides & expert librarians | MIT Libraries
- - [https://libguides.mit.edu](https://libguides.mit.edu)
- - date published: 2024-05-07T19:33:46.320514+00:00
- - user: None
- - tags: []
-
-## MIT Libraries
- - [https://libraries.mit.edu](https://libraries.mit.edu)
- - date published: 2024-05-07T19:33:43.568942+00:00
- - user: None
- - tags: []
-
-## MIT LIDS | Laboratory for Information & Decision Systems
- - [https://lids.mit.edu](https://lids.mit.edu)
- - date published: 2024-05-09T06:35:20.075142+00:00
- - user: None
- - tags: []
-
-## MIT Linguistics – Department of Linguistics and Philosophy
- - [https://linguistics.mit.edu](https://linguistics.mit.edu)
- - date published: 2024-05-08T11:14:32.604588+00:00
- - user: None
- - tags: []
-
-## Learning and Intelligent Systems Group
- - [http://lis.csail.mit.edu](http://lis.csail.mit.edu)
- - date published: 2024-05-04T15:15:52.963723+00:00
- - user: None
- - tags: []
-
-## Home | MIT List Visual Arts Center
- - [https://listart.mit.edu](https://listart.mit.edu)
- - date published: 2022-01-13T16:06:12+00:00
- - user: None
- - tags: []
-
-## Living Wage Calculator
- - [https://livingwage.mit.edu](https://livingwage.mit.edu)
- - date published: 2023-10-25T18:53:56.639883+00:00
- - user: None
- - tags: []
-
-## MIT Media Lab Login
- - [https://login.media.mit.edu](https://login.media.mit.edu)
- - date published: 2024-05-07T19:37:54.351217+00:00
- - user: None
- - tags: []
-
-## LSC: The MIT Lecture Series Committee
- - [http://lsc.mit.edu](http://lsc.mit.edu)
- - date published: 2024-05-07T19:37:24.722204+00:00
- - user: None
- - tags: []
-
-## LUCHA
- - [http://lucha.mit.edu](http://lucha.mit.edu)
- - date published: 2024-05-04T15:41:32.895854+00:00
- - user: None
- - tags: []
-
-## MIT Mathematics
- - [https://math.mit.edu](https://math.mit.edu)
- - date published: 2023-10-25T18:54:09.948920+00:00
- - user: None
- - tags: []
-
-## √mathroots @ MIT |
- - [http://mathroots.mit.edu](http://mathroots.mit.edu)
- - date published: 2024-05-07T19:34:28.593031+00:00
- - user: None
- - tags: []
-
-## Sign in - Matomo
- - [https://matomo.libraries.mit.edu](https://matomo.libraries.mit.edu)
- - date published: 2024-05-07T19:33:48.111967+00:00
- - user: None
- - tags: []
-
-## MITx MicroMasters
- - [https://micromasters.mit.edu](https://micromasters.mit.edu)
- - date published: 2024-01-15T18:04:13.077285+00:00
- - user: None
- - tags: []
-
-## The Missing Semester of Your CS Education
- - [https://missing.csail.mit.edu](https://missing.csail.mit.edu)
- - date published: 2023-10-25T18:54:11.265361+00:00
- - user: None
- - tags: []
-
-## The Massachusetts Institute of Technology (MIT)
- - [https://mit.edu](https://mit.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - MIT-IBM Watson AI Lab
- - [https://mitibmwatsonailab.mit.edu](https://mitibmwatsonailab.mit.edu)
- - date published: 2024-05-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | MIT.nano
- - [https://mitnano.mit.edu](https://mitnano.mit.edu)
- - date published: 2024-05-08T10:20:34.574918+00:00
- - user: None
- - tags: []
-
-## The MIT Press Bookstore
- - [http://mitpressbookstore.mit.edu](http://mitpressbookstore.mit.edu)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home Page - MIT Press
- - [https://mitpress.mit.edu](https://mitpress.mit.edu)
- - date published: 2023-10-25T18:54:21.358865+00:00
- - user: None
- - tags: []
-
-## The MIT Press - open access @ PubPub
- - [https://mitpressonpubpub.mitpress.mit.edu](https://mitpressonpubpub.mitpress.mit.edu)
- - date published: 2024-04-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## MIT Sloan
- - [https://mitsloan.mit.edu](https://mitsloan.mit.edu)
- - date published: 2023-10-25T18:54:22.918721+00:00
- - user: None
- - tags: []
-
-## MITx Online
- - [https://mitxonline.mit.edu](https://mitxonline.mit.edu)
- - date published: 2023-10-25T18:54:25.878690+00:00
- - user: None
- - tags: []
-
-## Moral Machine
- - [http://moralmachine.mit.edu](http://moralmachine.mit.edu)
- - date published: 2024-05-04T07:14:59.440166+00:00
- - user: None
- - tags: []
-
-## MIT News | Massachusetts Institute of Technology
- - [https://news.mit.edu](https://news.mit.edu)
- - date published: 2023-10-25T11:20:44.709795+00:00
- - user: None
- - tags: []
-
-## MIT OpenCourseWare | Free Online Course Materials
- - [https://ocw.mit.edu](https://ocw.mit.edu)
- - date published: 2023-10-25T18:54:28.607293+00:00
- - user: None
- - tags: []
-
-## Office of Graduate Education
- - [http://odge.mit.edu](http://odge.mit.edu)
- - date published: 2024-06-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## MIT Open Learning brings Online Learning to MIT and the world
- - [https://odl.mit.edu](https://odl.mit.edu)
- - date published: 2024-05-07T19:34:55.639610+00:00
- - user: None
- - tags: []
-
-## Welcome! | Open Learning
- - [https://openlearning-intranet.mit.edu](https://openlearning-intranet.mit.edu)
- - date published: 2024-05-11T11:37:20.490684+00:00
- - user: None
- - tags: []
-
-## MIT Open Learning Library | Open Learning
- - [https://openlearninglibrary.mit.edu](https://openlearninglibrary.mit.edu)
- - date published: 2024-03-26T19:30:53.109672+00:00
- - user: None
- - tags: ['digital library', 'internet archive']
-
-## MIT Open Learning brings Online Learning to MIT and the world
- - [https://openlearning.mit.edu](https://openlearning.mit.edu)
- - date published: 2024-05-07T19:33:36.409985+00:00
- - user: None
- - tags: []
-
-## The Art and Science of PCB Design
- - [https://pcb.mit.edu](https://pcb.mit.edu)
- - date published: 2023-12-30T01:59:09+00:00
- - user: None
- - tags: []
-
-## MIT CSAIL Parallel and Distributed Operating Systems Group
- - [https://pdos.csail.mit.edu](https://pdos.csail.mit.edu)
- - date published: 2023-10-25T18:54:29.573498+00:00
- - user: None
- - tags: []
-
-## People | MIT CSAIL
- - [https://people.csail.mit.edu](https://people.csail.mit.edu)
- - date published: 2023-10-25T18:54:31.453216+00:00
- - user: None
- - tags: []
-
-## Persci – Perceptual Science Group @ MIT
- - [https://persci.mit.edu](https://persci.mit.edu)
- - date published: 2024-05-08T03:58:05.753777+00:00
- - user: None
- - tags: []
-
-## ADEPT
- - [http://physadept.csail.mit.edu](http://physadept.csail.mit.edu)
- - date published: 2024-05-04T15:28:33.725512+00:00
- - user: None
- - tags: []
-
-## Home - MIT PE
- - [https://physicaleducationandwellness.mit.edu](https://physicaleducationandwellness.mit.edu)
- - date published: 2023-10-25T18:54:34.032158+00:00
- - user: None
- - tags: []
-
-## MIT Physics
- - [https://physics.mit.edu](https://physics.mit.edu)
- - date published: 2024-05-07T19:36:54.101678+00:00
- - user: None
- - tags: []
-
-## The Picower Institute for Learning and Memory | Neuroscience & Brain Research
- - [https://picower.mit.edu](https://picower.mit.edu)
- - date published: 2024-03-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Programming Methodology Group
- - [https://pmg.csail.mit.edu](https://pmg.csail.mit.edu)
- - date published: 2012-03-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Programming Methodology Group
- - [http://pmg.lcs.mit.edu](http://pmg.lcs.mit.edu)
- - date published: 2012-03-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## MIT Office of the President | MIT - Massachusetts Institute of Technology
- - [https://president.mit.edu](https://president.mit.edu)
- - date published: 2023-10-25T18:54:35.562240+00:00
- - user: None
- - tags: []
-
-## MIT Probabilistic Computing Project
- - [http://probcomp.csail.mit.edu](http://probcomp.csail.mit.edu)
- - date published: 2024-05-04T15:15:08.455743+00:00
- - user: None
- - tags: []
-
-## Home Page | MIT CSAIL
- - [https://projects.csail.mit.edu](https://projects.csail.mit.edu)
- - date published: 2023-10-25T18:54:37.343144+00:00
- - user: None
- - tags: []
-
-## MIT Mystery Hunt / Puzzle Club
- - [https://puzzles.mit.edu](https://puzzles.mit.edu)
- - date published: 2024-05-01T03:11:12.672336+00:00
- - user: None
- - tags: []
-
-## Homepage | MIT Registrar
- - [https://registrar.mit.edu](https://registrar.mit.edu)
- - date published: 2024-05-07T19:32:50.429328+00:00
- - user: None
- - tags: []
-
-## Rewriting a Deep Generative Model
- - [https://rewriting.csail.mit.edu](https://rewriting.csail.mit.edu)
- - date published: 2024-05-01T04:12:09.000384+00:00
- - user: None
- - tags: []
-
-## Home | SA+P
- - [https://sap.mit.edu](https://sap.mit.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## MIT School of Science
- - [https://science.mit.edu](https://science.mit.edu)
- - date published: 2023-10-25T18:54:41.430859+00:00
- - user: None
- - tags: []
-
-## Scratch - Imagine, Program, Share
- - [https://scratch.mit.edu](https://scratch.mit.edu)
- - date published: 2023-10-25T18:54:41.797954+00:00
- - user: None
- - tags: ['scratch', 'programming language']
-
-## Home | Software Design Group
- - [http://sdg.csail.mit.edu](http://sdg.csail.mit.edu)
- - date published: 2024-10-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Masters in Engineering and Management | MIT SDM - System Design and Management
- - [http://sdm.mit.edu](http://sdm.mit.edu)
- - date published: 2024-05-07T19:35:50.892572+00:00
- - user: None
- - tags: []
-
-## Self-Assembly Lab
- - [https://selfassemblylab.mit.edu](https://selfassemblylab.mit.edu)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## MIT Senseable City Lab
- - [https://senseable.mit.edu](https://senseable.mit.edu)
- - date published: 2024-01-09T02:59:24.170978+00:00
- - user: None
- - tags: []
-
-## MIT Student Financial Services
- - [https://sfs.mit.edu](https://sfs.mit.edu)
- - date published: 2024-05-08T10:20:06.514373+00:00
- - user: None
- - tags: []
-
-## MIT School of Humanities, Arts and Social Sciences (SHASS)
- - [https://shass.mit.edu](https://shass.mit.edu)
- - date published: 2024-05-08T10:20:32.720515+00:00
- - user: None
- - tags: []
-
-## Home - MIT SMR Store
- - [https://shop.sloanreview.mit.edu](https://shop.sloanreview.mit.edu)
- - date published: 2024-05-07T19:37:14.762335+00:00
- - user: None
- - tags: []
-
-## MIT Sloan Management Review
- - [https://sloanreview.mit.edu](https://sloanreview.mit.edu)
- - date published: 2023-10-25T18:54:48.399246+00:00
- - user: None
- - tags: []
-
-## |
- - [https://smallbusiness.ll.mit.edu](https://smallbusiness.ll.mit.edu)
- - date published: 2024-05-07T19:38:15.933308+00:00
- - user: None
- - tags: []
-
-## MIT Social Media Hub | Massachusetts Institute of Technology
- - [http://socialmediahub.mit.edu](http://socialmediahub.mit.edu)
- - date published: 2024-05-07T19:36:13.004701+00:00
- - user: None
- - tags: []
-
-## Spectrum
- - [https://spectrum.mit.edu](https://spectrum.mit.edu)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## MIT Course Management System
- - [https://stellar.mit.edu](https://stellar.mit.edu)
- - date published: 2024-04-29T02:32:55.106565+00:00
- - user: None
- - tags: []
-
-## MIT WebSIS
- - [https://student.mit.edu](https://student.mit.edu)
- - date published: 2024-05-07T19:38:12.352737+00:00
- - user: None
- - tags: []
-
-## stuff.mit.edu: students' portal
- - [https://stuff.mit.edu](https://stuff.mit.edu)
- - date published: 2024-02-21T20:09:52.594239+00:00
- - user: None
- - tags: []
-
-## Telecom Digest and Archives
- - [http://telecom2022.csail.mit.edu](http://telecom2022.csail.mit.edu)
- - date published: 2024-05-07T19:37:26.240817+00:00
- - user: None
- - tags: []
-
-## Telecom Digest and Archives
- - [http://telecom.csail.mit.edu](http://telecom.csail.mit.edu)
- - date published: 2023-10-25T18:54:50.229504+00:00
- - user: None
- - tags: []
-
-## TESS - Transiting Exoplanet Survey Satellite
- - [https://tess.mit.edu](https://tess.mit.edu)
- - date published: 2024-05-07T20:24:58.744424+00:00
- - user: None
- - tags: []
-
-## The MIT Press Reader
- - [https://thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu)
- - date published: 2023-10-25T10:39:41.389672+00:00
- - user: None
- - tags: []
-
-## Lincoln Laboratory Timeline | LL Timeline
- - [https://timeline.ll.mit.edu](https://timeline.ll.mit.edu)
- - date published: 2024-05-07T19:38:17.658737+00:00
- - user: None
- - tags: []
-
-## Topology
- - [https://topology.mitpress.mit.edu](https://topology.mitpress.mit.edu)
- - date published: 2023-10-25T18:54:52.088797+00:00
- - user: None
- - tags: []
-
-## MIT Undergrad Math Association
- - [https://uma.mit.edu](https://uma.mit.edu)
- - date published: 2024-05-07T19:34:16.300653+00:00
- - user: None
- - tags: []
-
-## News + Updates — MIT Media Lab
- - [https://web.media.mit.edu](https://web.media.mit.edu)
- - date published: 2023-10-25T18:54:57.442420+00:00
- - user: None
- - tags: []
-
-## More crop per drop | MIT - Massachusetts Institute of Technology
- - [https://web.mit.edu](https://web.mit.edu)
- - date published: 2023-10-25T11:22:48.078614+00:00
- - user: None
- - tags: []
-
-## MIT Campus Map
- - [http://whereis.mit.edu](http://whereis.mit.edu)
- - date published: 2024-05-07T19:36:14.205556+00:00
- - user: None
- - tags: []
-
-## Home Page | MIT CSAIL
- - [http://www.ai.mit.edu](http://www.ai.mit.edu)
- - date published: 2024-05-07T20:26:04.399073+00:00
- - user: None
- - tags: []
-
-## Homepage - MIT Center for Constructive Communication
- - [https://www.ccc.mit.edu](https://www.ccc.mit.edu)
- - date published: 2024-03-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home Page | MIT CSAIL
- - [https://www.csail.mit.edu](https://www.csail.mit.edu)
- - date published: 2023-10-25T18:55:00.580862+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,472 @@
+## ZEIT für X – Startseite
+ - [https://zeitfuerx.de](https://zeitfuerx.de)
+ - date published: 2024-01-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DIE ZEIT Verlagsgruppe
+ - [https://www.zeit-verlagsgruppe.de](https://www.zeit-verlagsgruppe.de)
+ - date published: 2024-04-29T07:11:44.508327+00:00
+ - user: None
+ - tags: []
+
+## Zettelkasten knowledge and info management • Zettelkasten Method
+ - [https://zettelkasten.de](https://zettelkasten.de)
+ - date published: 2024-03-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | zib.de
+ - [https://www.zib.de](https://www.zib.de)
+ - date published: 2024-05-04T15:14:50.864936+00:00
+ - user: None
+ - tags: []
+
+## Home - Konrad Zuse Internet Archive
+ - [http://zuse-z1.zib.de](http://zuse-z1.zib.de)
+ - date published: 2024-05-11T11:53:30.414999+00:00
+ - user: None
+ - tags: []
+
+## ZITATE-ONLINE.DE +++ Starke Sprüche - treffende Zitate +++ Sprichwörter +++ Zitat des Tages +++ Forum +++ Lieblingszitate verwalten u.v.m.
+ - [http://www.zitate-online.de](http://www.zitate-online.de)
+ - date published: 2024-04-29T06:31:46.394671+00:00
+ - user: None
+ - tags: []
+
+## Z-Node 51
+ - [http://www.znode51.de](http://www.znode51.de)
+ - date published: 2024-05-09T07:02:04.780112+00:00
+ - user: None
+ - tags: []
+
+## Tierbedarf, Tierfutter, Tiernahrung günstig bestellen | zooplus
+ - [https://www.zooplus.de](https://www.zooplus.de)
+ - date published: 2024-05-01T05:49:20.497610+00:00
+ - user: None
+ - tags: []
+
+## package finder tool
+ - [https://maintainer.zq1.de](https://maintainer.zq1.de)
+ - date published: 2024-05-08T08:49:54.518164+00:00
+ - user: None
+ - tags: []
+
+## Zentrum für Transfusionsmedizin & Zelltherapie | ZTB
+ - [https://www.ztb-blutspende.de](https://www.ztb-blutspende.de)
+ - date published: 2024-04-29T05:58:51.372800+00:00
+ - user: None
+ - tags: []
+
+## zufallsheld
+ - [https://www.zufallsheld.de](https://www.zufallsheld.de)
+ - date published: 2024-02-22T13:05:21.693897+00:00
+ - user: None
+ - tags: []
+
+## https://zukunft-der-sub.de
+ - [https://zukunft-der-sub.de](https://zukunft-der-sub.de)
+ - date published: 2024-01-09T02:56:28.461043+00:00
+ - user: None
+ - tags: []
+
+## Falko Zurell | wondering about stuff
+ - [https://falko.zurell.de](https://falko.zurell.de)
+ - date published: 2024-05-09T07:59:10.675642+00:00
+ - user: None
+ - tags: []
+
+## Home - Weinstube Zur Kiste
+ - [http://www.zur-kiste.de](http://www.zur-kiste.de)
+ - date published: 2024-04-30T07:12:17.640198+00:00
+ - user: None
+ - tags: []
+
+## Jelly Deals
+ - [https://www.jelly.deals](https://www.jelly.deals)
+ - date published: 2023-12-13T15:40:49.601884+00:00
+ - user: None
+ - tags: []
+
+## Surfshark: secure online VPN service & more
+ - [https://surfshark.deals](https://surfshark.deals)
+ - date published: 2024-02-24T09:57:36.415179+00:00
+ - user: None
+ - tags: []
+
+## Explore - git.meli.delivery
+ - [https://git.meli.delivery](https://git.meli.delivery)
+ - date published: 2023-10-25T18:34:11.386923+00:00
+ - user: None
+ - tags: []
+
+## meli terminal mail client
+ - [https://meli.delivery](https://meli.delivery)
+ - date published: 2024-04-29T07:13:36.005635+00:00
+ - user: None
+ - tags: []
+
+## Alessandro De Simone - Software Engineer - London
+ - [https://alessandro.desi](https://alessandro.desi)
+ - date published: 2023-12-19T09:58:57.272282+00:00
+ - user: None
+ - tags: ['personal']
+
+## 1984.design • Expand your knowledge & improve your design skills.
+ - [https://1984.design](https://1984.design)
+ - date published: 2024-03-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://www.1984.design](https://www.1984.design)
+ - date published: 2023-10-25T18:34:13.186299+00:00
+ - user: None
+ - tags: []
+
+## Adobe Design
+ - [https://adobe.design](https://adobe.design)
+ - date published: 2024-05-01T02:27:37.750190+00:00
+ - user: None
+ - tags: []
+
+## aimpie.design
+ - [https://aimpie.design](https://aimpie.design)
+ - date published: 2024-04-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Airbnb Design
+ - [https://airbnb.design](https://airbnb.design)
+ - date published: 2024-04-29T07:18:12.718027+00:00
+ - user: None
+ - tags: []
+
+## Algorithm-Driven Design — How Artificial Intelligence is Changing Design by Yury Vetrov
+ - [https://algorithms.design](https://algorithms.design)
+ - date published: 2023-11-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## archives.design
+ - [https://archives.design](https://archives.design)
+ - date published: 2023-10-25T18:34:15.291934+00:00
+ - user: None
+ - tags: []
+
+## Artificial Design
+ - [https://artificial.design](https://artificial.design)
+ - date published: 2024-05-09T08:23:25.805542+00:00
+ - user: None
+ - tags: []
+
+## About
+ - [https://bald.design](https://bald.design)
+ - date published: 2024-05-07T23:16:54.259184+00:00
+ - user: None
+ - tags: []
+
+## Being Design | Branding and Marketing Consultants
+ - [https://being.design](https://being.design)
+ - date published: 2024-05-10T06:47:25.912587+00:00
+ - user: None
+ - tags: []
+
+## Enterprise & Consumer Apps that get results
+ - [https://www.bigrocket.design](https://www.bigrocket.design)
+ - date published: 2024-04-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Bingham Design | Digital Marketing for Your Cause
+ - [https://bingham.design](https://bingham.design)
+ - date published: 2024-01-11T13:29:06.035129+00:00
+ - user: None
+ - tags: []
+
+## Brutalist Web Design
+ - [https://brutalist-web.design](https://brutalist-web.design)
+ - date published: 2023-09-29T00:00:00+00:00
+ - user: rumpel
+ - tags: ['brutalist web', 'web1', 'internet']
+
+## Design For Awareness | Cap_able Design
+ - [https://www.capable.design](https://www.capable.design)
+ - date published: 2023-10-25T18:34:17.686429+00:00
+ - user: None
+ - tags: []
+
+## Clarity Design System
+ - [https://core.clarity.design](https://core.clarity.design)
+ - date published: 2024-04-30T00:28:52.873940+00:00
+ - user: None
+ - tags: []
+
+## Cloudscape - Cloudscape Design System
+ - [https://cloudscape.design](https://cloudscape.design)
+ - date published: 2024-05-09T08:30:53.901042+00:00
+ - user: None
+ - tags: []
+
+## Craftcode Design – Home
+ - [https://craftcode.design](https://craftcode.design)
+ - date published: 2024-05-07T23:15:44.352319+00:00
+ - user: None
+ - tags: []
+
+## Craftwork: UX/UI kits, illustrations, mockups, fonts and more
+ - [https://craftwork.design](https://craftwork.design)
+ - date published: 2024-04-29T07:14:35.316192+00:00
+ - user: None
+ - tags: []
+
+## Curated web design inspiration catalog
+ - [https://www.curated.design](https://www.curated.design)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## index
+ - [https://daveon.design](https://daveon.design)
+ - date published: 2024-04-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Deceptive Patterns - Home
+ - [https://www.deceptive.design](https://www.deceptive.design)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Product design & UX design resources – Degreeless.Design
+ - [https://www.degreeless.design](https://www.degreeless.design)
+ - date published: 2023-10-25T18:34:21.863194+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [http://depue.design](http://depue.design)
+ - date published: 2024-05-07T14:16:59.528736+00:00
+ - user: None
+ - tags: []
+
+## Endless — Design as a Subscription
+ - [https://endless.design](https://endless.design)
+ - date published: 2024-04-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Eric Bailey – Inclusive design advocate, writer, developer, and speaker
+ - [https://ericwbailey.design](https://ericwbailey.design)
+ - date published: 2024-05-07T23:12:46.782732+00:00
+ - user: None
+ - tags: []
+
+## École supérieure d’art et de design d’Amiens / design | accueil
+ - [https://esad-amiens.design](https://esad-amiens.design)
+ - date published: 2023-12-11T16:19:11.537933+00:00
+ - user: None
+ - tags: []
+
+## FAST
+ - [https://explore.fast.design](https://explore.fast.design)
+ - date published: 2024-04-29T07:18:19.287649+00:00
+ - user: None
+ - tags: []
+
+## FAST
+ - [https://www.fast.design](https://www.fast.design)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## feedme.design
+ - [https://www.feedme.design](https://www.feedme.design)
+ - date published: 2023-12-24T10:58:53.703752+00:00
+ - user: None
+ - tags: []
+
+## Felipe — Designer and Artist
+ - [https://felipe.design](https://felipe.design)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## femke.design / Femke van Schoonhoven
+ - [https://www.femke.design](https://www.femke.design)
+ - date published: 2023-10-25T09:21:33.094419+00:00
+ - user: None
+ - tags: ['personal']
+
+## Formaat - Design system studio
+ - [https://formaat.design](https://formaat.design)
+ - date published: 2024-05-09T06:20:02.852582+00:00
+ - user: None
+ - tags: []
+
+## UX Design Portfolio of Gary Bacon - Home
+ - [https://gary.design](https://gary.design)
+ - date published: 2024-01-12T02:34:44.601604+00:00
+ - user: None
+ - tags: []
+
+## Growth.Design — Better Products, Better Growth.
+ - [https://growth.design](https://growth.design)
+ - date published: 2023-10-25T18:34:22.781659+00:00
+ - user: None
+ - tags: []
+
+## Helios Design System
+ - [https://helios.hashicorp.design](https://helios.hashicorp.design)
+ - date published: 2024-05-09T08:30:39.939743+00:00
+ - user: None
+ - tags: []
+
+## Hendricks Design
+ - [https://hendricks.design](https://hendricks.design)
+ - date published: 2024-05-06T16:13:25.120886+00:00
+ - user: None
+ - tags: []
+
+## Portal Home
+         - hostingby.design
+ - [https://my.hostingby.design](https://my.hostingby.design)
+ - date published: 2024-05-10T06:03:48.479459+00:00
+ - user: None
+ - tags: []
+
+## Iconify API
+ - [https://api.iconify.design](https://api.iconify.design)
+ - date published: 2024-04-30T02:00:49.170618+00:00
+ - user: None
+ - tags: []
+
+## Repository for code.iconify.design
+ - [https://code.iconify.design](https://code.iconify.design)
+ - date published: 2024-04-28T04:14:43.255250+00:00
+ - user: None
+ - tags: []
+
+## Iconify Design: All popular icon sets, one framework.
+ - [https://iconify.design](https://iconify.design)
+ - date published: 2024-05-08T11:51:53.697165+00:00
+ - user: None
+ - tags: []
+
+## Hey, I'm Jake.
+ - [https://jake.design](https://jake.design)
+ - date published: 2024-05-09T06:20:15.168522+00:00
+ - user: None
+ - tags: []
+
+## Journalisme, design et technologie pour imaginer des médias désirables
+ - [https://journalism.design](https://journalism.design)
+ - date published: 2024-11-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Julie Chabin
+ - [https://www.julie.design](https://www.julie.design)
+ - date published: 2023-10-25T09:21:34.151926+00:00
+ - user: None
+ - tags: ['personal']
+
+## A mechanical keyboard with programmable knobs and full color screen panel
+ - [https://knob.design](https://knob.design)
+ - date published: 2024-02-29T19:38:07+00:00
+ - user: None
+ - tags: []
+
+## Kundo
+ - [https://kundo.design](https://kundo.design)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Learn UI Design
+ - [https://learnui.design](https://learnui.design)
+ - date published: 2024-05-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Lessons of Design
+ - [https://lessons.design](https://lessons.design)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ben Luby - UX, Content Design, Accessibility
+ - [https://luby.design](https://luby.design)
+ - date published: 2024-05-09T08:21:21.309633+00:00
+ - user: None
+ - tags: []
+
+## Magic UI: UI Library for Design Engineers
+ - [https://magicui.design](https://magicui.design)
+ - date published: 2024-05-23T03:23:54+00:00
+ - user: None
+ - tags: ['web ui', 'programming library']
+
+## Home | Valery Marier
+ - [https://marier.design](https://marier.design)
+ - date published: 2024-04-29T07:13:57.627738+00:00
+ - user: None
+ - tags: []
+
+## mastodon.design
+ - [https://mastodon.design](https://mastodon.design)
+ - date published: 2023-12-11T16:19:14.967288+00:00
+ - user: None
+ - tags: []
+
+## Medium.design
+ - [https://medium.design](https://medium.design)
+ - date published: 2024-03-22T15:04:13.826927+00:00
+ - user: None
+ - tags: []
+
+## Home • Mel Choyce
+ - [http://melchoyce.design](http://melchoyce.design)
+ - date published: 2024-05-07T23:12:31.267573+00:00
+ - user: None
+ - tags: []
+
+## MESHLESS DESIGN
+ - [https://meshless.design](https://meshless.design)
+ - date published: 2024-03-07T19:36:39.228012+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Design
+ - [https://fluent1.microsoft.design](https://fluent1.microsoft.design)
+ - date published: 2024-04-29T07:18:50.432364+00:00
+ - user: None
+ - tags: []
+
+## Home - Fluent 2 Design System
+ - [https://fluent2.microsoft.design](https://fluent2.microsoft.design)
+ - date published: 2023-10-25T18:34:24.950370+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Inclusive Design
+ - [https://inclusive.microsoft.design](https://inclusive.microsoft.design)
+ - date published: 2024-04-29T07:16:45.355247+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Design
+ - [https://microsoft.design](https://microsoft.design)
+ - date published: 2024-04-29T07:18:49.713895+00:00
+ - user: None
+ - tags: []
+
+## Mindstate Design Labs
+ - [https://www.mindstate.design](https://www.mindstate.design)
+ - date published: 2024-03-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Miris Whispers
  - [https://blog.miris.design](https://blog.miris.design)
  - date published: 2023-10-25T18:34:31.450280+00:00
@@ -836,7 +1305,7 @@
  - [https://bannerblog.dev](https://bannerblog.dev)
  - date published: 2023-12-11T10:34:13.452233+00:00
  - user: None
- - tags: []
+ - tags: ['blog platform']
 
 ## Iván Barcia. UI Engineer.
  - [https://barcia.dev](https://barcia.dev)
@@ -1141,6 +1610,12 @@
 ## Berris.dev
  - [https://berris.dev](https://berris.dev)
  - date published: 2024-05-22T02:44:14.420072+00:00
+ - user: None
+ - tags: []
+
+## Matt Bessey's Blog
+ - [https://bessey.dev](https://bessey.dev)
+ - date published: 2024-05-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5523,480 +5998,6 @@
 ## Introduction - Nango Docs
  - [https://docs.nango.dev](https://docs.nango.dev)
  - date published: 2024-04-25T15:31:28.242706+00:00
- - user: None
- - tags: []
-
-## Nango - The open unified API
- - [https://nango.dev](https://nango.dev)
- - date published: 2023-10-25T18:40:04.494324+00:00
- - user: None
- - tags: ['proprietary', 'monetization']
-
-## Nango status
- - [https://status.nango.dev](https://status.nango.dev)
- - date published: 2024-04-30T02:00:19.928548+00:00
- - user: None
- - tags: []
-
-## Nango - The open unified API
- - [https://www.nango.dev](https://www.nango.dev)
- - date published: 2023-10-25T18:40:06.457916+00:00
- - user: None
- - tags: []
-
-## Becoming Rustacean: A Beginners Guide to the Rustverse
- - [https://www.nativebyx.dev](https://www.nativebyx.dev)
- - date published: 2023-10-25T18:40:13.005761+00:00
- - user: None
- - tags: []
-
-## natto.dev - write JavaScript on a 2D canvas
- - [https://natto.dev](https://natto.dev)
- - date published: 2024-05-04T13:56:32.356233+00:00
- - user: None
- - tags: []
-
-## Naveen Singh's Blogs
- - [https://naveensingh.dev](https://naveensingh.dev)
- - date published: 2024-02-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Naxon.dev
- - [https://naxon.dev](https://naxon.dev)
- - date published: 2024-05-11T10:06:39.996479+00:00
- - user: None
- - tags: []
-
-## neilalexander.dev
- - [https://neilalexander.dev](https://neilalexander.dev)
- - date published: 2023-10-25T18:40:13.691485+00:00
- - user: None
- - tags: []
-
-## neizod's speculation
- - [https://neizod.dev](https://neizod.dev)
- - date published: 2024-04-30T07:42:41.059668+00:00
- - user: None
- - tags: []
-
-## Blog@neko.dev - blog.neko.dev
- - [https://blog.neko.dev](https://blog.neko.dev)
- - date published: 2023-10-25T08:58:40.756473+00:00
- - user: None
- - tags: ['personal']
-
-## Index of /
- - [http://code.neko.dev](http://code.neko.dev)
- - date published: 2024-04-30T02:00:31.067391+00:00
- - user: None
- - tags: []
-
-## Index - neko.dev
- - [http://neko.dev](http://neko.dev)
- - date published: 2024-04-30T02:00:30.189357+00:00
- - user: None
- - tags: []
-
-## Neosync
- - [https://neosync.dev](https://neosync.dev)
- - date published: 2024-05-22T18:06:04.271854+00:00
- - user: None
- - tags: []
-
-## Neovide - Neovide
- - [https://neovide.dev](https://neovide.dev)
- - date published: 2024-05-06T08:57:58.734949+00:00
- - user: None
- - tags: []
-
-## Adam Argyle
- - [https://nerdy.dev](https://nerdy.dev)
- - date published: 2023-10-25T08:48:53.943604+00:00
- - user: None
- - tags: ['personal']
-
-## NetBox Documentation
- - [https://docs.netbox.dev](https://docs.netbox.dev)
- - date published: 2024-04-30T02:02:55.294847+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://netbox.dev](https://netbox.dev)
- - date published: 2024-02-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nick Babcock
- - [https://nickb.dev](https://nickb.dev)
- - date published: 2024-04-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## [ NICKipedia ]
- - [https://nickipedia.dev](https://nickipedia.dev)
- - date published: 2024-04-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nicolo.dev
- - [https://nicolo.dev](https://nicolo.dev)
- - date published: 2023-10-25T08:58:41.536333+00:00
- - user: None
- - tags: ['personal']
-
-## My Knowledge Wiki 🌿 | Everything I Know
- - [https://wiki.nikiv.dev](https://wiki.nikiv.dev)
- - date published: 2024-05-09T08:39:11.447522+00:00
- - user: None
- - tags: []
-
-## Blog
- - [https://nikkin.dev](https://nikkin.dev)
- - date published: 2024-05-04T14:14:29.984267+00:00
- - user: None
- - tags: ['personal']
-
-## nilstriebs blog
- - [https://blog.nilstrieb.dev](https://blog.nilstrieb.dev)
- - date published: 2024-01-13T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## niui
- - [https://niui.dev](https://niui.dev)
- - date published: 2023-10-25T18:40:16.339018+00:00
- - user: None
- - tags: []
-
-## Welcome to nix.dev — nix.dev  documentation
- - [https://nix.dev](https://nix.dev)
- - date published: 2024-05-02T13:33:53.069989+00:00
- - user: None
- - tags: []
-
-## Home - du.nkel.dev
- - [https://du.nkel.dev](https://du.nkel.dev)
- - date published: 2024-02-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## Norberto's personal website
- - [https://nlopes.dev](https://nlopes.dev)
- - date published: 2023-10-25T08:48:54.951889+00:00
- - user: None
- - tags: ['personal']
-
-## IAMOps Platform | NOQ
- - [https://www.noq.dev](https://www.noq.dev)
- - date published: 2023-10-25T18:40:17.657120+00:00
- - user: None
- - tags: []
-
-## Antonin HEBERT
- - [https://notnian.dev](https://notnian.dev)
- - date published: 2024-05-09T08:12:46.320293+00:00
- - user: None
- - tags: []
-
-## Plausible · Web analytics
- - [https://analytics.nray.dev](https://analytics.nray.dev)
- - date published: 2024-04-30T02:03:51.578921+00:00
- - user: None
- - tags: []
-
-## Nicholas Ray
- - [https://www.nray.dev](https://www.nray.dev)
- - date published: 2023-10-25T08:58:47.329801+00:00
- - user: None
- - tags: ['personal']
-
-## Streamlit
- - [https://trial.nuanced.dev](https://trial.nuanced.dev)
- - date published: 2024-03-18T19:23:39.249499+00:00
- - user: None
- - tags: []
-
-## Nuanced: Detecting Authenticity in the age of AI
- - [https://www.nuanced.dev](https://www.nuanced.dev)
- - date published: 2024-03-18T19:23:38.383722+00:00
- - user: None
- - tags: []
-
-## nutjs.dev
- - [https://nutjs.dev](https://nutjs.dev)
- - date published: 2024-04-24T03:45:23.857591+00:00
- - user: None
- - tags: ['open source', 'desktop automation']
-
-## Nx: Smart Monorepos ¬∑ Fast CI
- - [https://nx.dev](https://nx.dev)
- - date published: 2024-02-22T11:56:06.815784+00:00
- - user: None
- - tags: []
-
-## OC3 | Open Confidential Computing Conference 2024
- - [https://www.oc3.dev](https://www.oc3.dev)
- - date published: 2024-04-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## olano.dev
- - [https://olano.dev](https://olano.dev)
- - date published: 2023-12-01T10:46:06.534286+00:00
- - user: None
- - tags: []
-
-## OneBite.Dev - Coding blog in a bite size
- - [https://onebite.dev](https://onebite.dev)
- - date published: 2024-05-07T23:27:22.315889+00:00
- - user: None
- - tags: []
-
-## Onur Şuyalçınkaya
- - [https://onur.dev](https://onur.dev)
- - date published: 2023-12-16T07:29:32.330441+00:00
- - user: None
- - tags: ['personal']
-
-## OP3: The Open Podcast Prefix Project
- - [https://op3.dev](https://op3.dev)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## OpenFeature
- - [https://openfeature.dev](https://openfeature.dev)
- - date published: 2024-05-01T04:49:38.992649+00:00
- - user: None
- - tags: []
-
-## https://www.open-fire.dev
- - [https://www.open-fire.dev](https://www.open-fire.dev)
- - date published: 2024-01-09T02:57:19.590490+00:00
- - user: None
- - tags: []
-
-## OpenGOAL | OpenGOAL
- - [https://opengoal.dev](https://opengoal.dev)
- - date published: 2023-10-25T18:40:19.039679+00:00
- - user: None
- - tags: ['open source', 'video game']
-
-## OpenInfra Foundation: We build communities who write software that runs in production
- - [https://openinfra.dev](https://openinfra.dev)
- - date published: 2024-09-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## An open-source alternative to Mixpanel | Openpanel.dev
- - [https://openpanel.dev](https://openpanel.dev)
- - date published: 2024-05-21T23:49:05.664899+00:00
- - user: None
- - tags: []
-
-## Individual Dashboard | The Linux Foundation
- - [https://openprofile.dev](https://openprofile.dev)
- - date published: 2024-05-07T23:52:43.583741+00:00
- - user: None
- - tags: []
-
-## open-source-silicon.dev
- - [https://open-source-silicon.dev](https://open-source-silicon.dev)
- - date published: 2024-04-29T08:54:15+00:00
- - user: rumpel
- - tags: []
-
-## open-source-silicon #general
- - [https://web.open-source-silicon.dev](https://web.open-source-silicon.dev)
- - date published: 2024-04-29T07:59:44.042359+00:00
- - user: None
- - tags: []
-
-## What is OpenStatus? - OpenStatus Docs
- - [https://docs.openstatus.dev](https://docs.openstatus.dev)
- - date published: 2024-04-30T02:05:11.379864+00:00
- - user: None
- - tags: []
-
-## marimo
- - [https://marimo.openstatus.dev](https://marimo.openstatus.dev)
- - date published: 2024-05-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Papermark Status
- - [https://papermark.openstatus.dev](https://papermark.openstatus.dev)
- - date published: 2024-05-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## OpenStatus Status Page
- - [https://status.openstatus.dev](https://status.openstatus.dev)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Trigger.dev Status
- - [https://trigger.openstatus.dev](https://trigger.openstatus.dev)
- - date published: 2024-04-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## OpenStatus
- - [https://www.openstatus.dev](https://www.openstatus.dev)
- - date published: 2023-10-25T18:40:21.230486+00:00
- - user: None
- - tags: []
-
-## Corporate Conundrum
- - [https://conundrum.ophir.dev](https://conundrum.ophir.dev)
- - date published: 2024-04-30T02:05:18.461555+00:00
- - user: None
- - tags: []
-
-## SQLPage
- - [https://sql.ophir.dev](https://sql.ophir.dev)
- - date published: 2023-10-25T18:40:22.802342+00:00
- - user: None
- - tags: []
-
-## OrbStack · Fast, light, simple Docker & Linux on macOS
- - [https://orbstack.dev](https://orbstack.dev)
- - date published: 2023-10-25T18:40:25.084437+00:00
- - user: None
- - tags: []
-
-## Orhun's Blog
- - [https://blog.orhun.dev](https://blog.orhun.dev)
- - date published: 2023-10-25T18:40:26.754894+00:00
- - user: None
- - tags: []
-
-## Support My Work
- - [https://donate.orhun.dev](https://donate.orhun.dev)
- - date published: 2024-04-30T02:05:18.874135+00:00
- - user: None
- - tags: []
-
-## orhun(1)
- - [https://orhun.dev](https://orhun.dev)
- - date published: 2024-04-30T02:05:20.061372+00:00
- - user: None
- - tags: []
-
-## Umami
- - [https://umami.orhun.dev](https://umami.orhun.dev)
- - date published: 2024-04-30T02:05:19.472665+00:00
- - user: None
- - tags: []
-
-## orionc.dev
- - [https://orionc.dev](https://orionc.dev)
- - date published: 2023-11-29T17:14:05.577990+00:00
- - user: None
- - tags: ['personal']
-
-## Gram Publishing v2
- - [https://blog.orsinium.dev](https://blog.orsinium.dev)
- - date published: 2023-10-25T18:40:28.464597+00:00
- - user: None
- - tags: []
-
-## Hi, I'm Gram
- - [https://orsinium.dev](https://orsinium.dev)
- - date published: 2024-04-30T02:05:20.761869+00:00
- - user: None
- - tags: []
-
-## Ory - API-first Identity Management, Authentication and Authorization. For Secure, Global, GDPR-compliant Apps | Ory
- - [https://www.ory.dev](https://www.ory.dev)
- - date published: 2023-10-25T18:40:33.383690+00:00
- - user: None
- - tags: []
-
-## oscard0m Blog
- - [https://www.oscardom.dev](https://www.oscardom.dev)
- - date published: 2024-01-05T10:28:24.995014+00:00
- - user: None
- - tags: []
-
-## Oscar Marion - Javascript engineer in Stockholm
- - [https://www.oscarmarion.dev](https://www.oscarmarion.dev)
- - date published: 2024-05-11T10:22:13.792071+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://osgood.dev](https://osgood.dev)
- - date published: 2024-05-11T10:06:23.170372+00:00
- - user: None
- - tags: []
-
-## Dennis Schubert
- - [https://overengineer.dev](https://overengineer.dev)
- - date published: 2024-04-14T20:39:43+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Photography - Dennis Schubert
- - [https://photos.overengineer.dev](https://photos.overengineer.dev)
- - date published: 2024-05-20T02:48:45.155582+00:00
- - user: None
- - tags: ['personal']
-
-## Introduction | develop | Overseerr
- - [https://docs.overseerr.dev](https://docs.overseerr.dev)
- - date published: 2024-05-14T03:52:59.019222+00:00
- - user: None
- - tags: []
-
-## Overseerr
- - [https://overseerr.dev](https://overseerr.dev)
- - date published: 2024-04-08T19:30:06.081189+00:00
- - user: None
- - tags: ['self-host', 'plex']
-
-## Pacstall - The AUR for Ubuntu
- - [https://pacstall.dev](https://pacstall.dev)
- - date published: 2024-05-08T10:50:50.332739+00:00
- - user: None
- - tags: []
-
-## Filip Iulian Pacurar's website - Base-station page 😎
- - [https://pacurar.dev](https://pacurar.dev)
- - date published: 2024-05-11T10:23:39.537348+00:00
- - user: None
- - tags: []
-
-## None
- - [https://ad8e.pages.dev](https://ad8e.pages.dev)
- - date published: 2024-01-09T02:57:22.291725+00:00
- - user: None
- - tags: []
-
-## AstroPaper
- - [https://astro-paper.pages.dev](https://astro-paper.pages.dev)
- - date published: 2024-01-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## None
- - [https://bifrost-bfp.pages.dev](https://bifrost-bfp.pages.dev)
- - date published: 2024-04-17T18:24:29.401875+00:00
- - user: None
- - tags: []
-
-## Contort Plotter
- - [https://contort-plotter.pages.dev](https://contort-plotter.pages.dev)
- - date published: 2024-04-30T07:49:03.394482+00:00
- - user: None
- - tags: []
-
-## Animotion – a visual CSS animation app
- - [https://cssanimotion.pages.dev](https://cssanimotion.pages.dev)
- - date published: 2023-11-24T11:16:25+00:00
  - user: None
  - tags: []
 

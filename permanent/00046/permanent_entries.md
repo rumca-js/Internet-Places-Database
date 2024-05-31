@@ -1,3 +1,363 @@
+## Squarespace Forum
+ - [https://forum.squarespace.com](https://forum.squarespace.com)
+ - date published: 2024-05-06T19:55:40.927511+00:00
+ - user: None
+ - tags: []
+
+## Francesca Sciandra
+ - [https://francescasciandra-art.squarespace.com](https://francescasciandra-art.squarespace.com)
+ - date published: 2024-05-04T06:59:45.070435+00:00
+ - user: None
+ - tags: []
+
+## Franck Tawema
+ - [https://franck-tawema.squarespace.com](https://franck-tawema.squarespace.com)
+ - date published: 2024-05-10T07:00:25.553783+00:00
+ - user: None
+ - tags: []
+
+## CHARLES DALY
+ - [https://frog-dodecahedron-5rhx.squarespace.com](https://frog-dodecahedron-5rhx.squarespace.com)
+ - date published: 2024-05-10T06:46:35.122760+00:00
+ - user: None
+ - tags: []
+
+## Créateur de site web — Créez un site web en quelques minutes — Squarespace
+ - [https://fr.squarespace.com](https://fr.squarespace.com)
+ - date published: 2024-04-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Full City Press - A webcolumn by Chris De Jabet
+ - [https://fullcitypress.squarespace.com](https://fullcitypress.squarespace.com)
+ - date published: 2024-05-04T07:13:28.771145+00:00
+ - user: None
+ - tags: []
+
+## GamersNexus Official Store
+ - [https://gamersnexus.squarespace.com](https://gamersnexus.squarespace.com)
+ - date published: 2024-05-09T16:42:09.670604+00:00
+ - user: None
+ - tags: []
+
+## Reckless Saints
+ - [https://giraffe-fife-bnzg.squarespace.com](https://giraffe-fife-bnzg.squarespace.com)
+ - date published: 2024-05-07T10:33:43.798069+00:00
+ - user: None
+ - tags: []
+
+## Rydberg Technologies
+ - [https://glockenspiel-bear-8y2a.squarespace.com](https://glockenspiel-bear-8y2a.squarespace.com)
+ - date published: 2024-04-28T06:07:28.658421+00:00
+ - user: None
+ - tags: []
+
+## plantconfident | Digital Strategy for Plant-based Businesses
+ - [https://glockenspiel-dinosaur-tetm.squarespace.com](https://glockenspiel-dinosaur-tetm.squarespace.com)
+ - date published: 2024-05-06T23:27:44.431746+00:00
+ - user: None
+ - tags: []
+
+## Godsmack
+ - [https://godsmack.squarespace.com](https://godsmack.squarespace.com)
+ - date published: 2024-05-13T03:40:56.078012+00:00
+ - user: None
+ - tags: []
+
+## Ryan Ross
+ - [https://gopher-robin-7gtg.squarespace.com](https://gopher-robin-7gtg.squarespace.com)
+ - date published: 2024-04-28T06:07:21.701768+00:00
+ - user: None
+ - tags: []
+
+## Practical Engineering
+ - [https://grady-hillhouse.squarespace.com](https://grady-hillhouse.squarespace.com)
+ - date published: 2024-05-07T22:59:59.170707+00:00
+ - user: None
+ - tags: []
+
+## Paul Keating
+ - [https://grapefruit-bumblebee-7mj7.squarespace.com](https://grapefruit-bumblebee-7mj7.squarespace.com)
+ - date published: 2024-05-12T05:41:20.078746+00:00
+ - user: None
+ - tags: []
+
+## Squarespace - No Such Website
+ - [https://grapefruit-dove-kfw6.squarespace.com](https://grapefruit-dove-kfw6.squarespace.com)
+ - date published: 2024-04-28T05:52:55.869915+00:00
+ - user: None
+ - tags: []
+
+## Rich Gee High-Performance Coaching
+ - [https://grapefruit-finch-edm8.squarespace.com](https://grapefruit-finch-edm8.squarespace.com)
+ - date published: 2024-04-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Truly Adventurous
+ - [https://greg-nichols-363w.squarespace.com](https://greg-nichols-363w.squarespace.com)
+ - date published: 2024-05-02T12:58:19.801320+00:00
+ - user: None
+ - tags: []
+
+## Greg S. Roche
+ - [https://greg-roche-ggh4.squarespace.com](https://greg-roche-ggh4.squarespace.com)
+ - date published: 2024-05-04T08:48:33.513126+00:00
+ - user: None
+ - tags: []
+
+## Authentic Comms Strategic Consultancy
+ - [https://guitar-hyperboloid-6zje.squarespace.com](https://guitar-hyperboloid-6zje.squarespace.com)
+ - date published: 2024-05-02T11:13:49.970046+00:00
+ - user: None
+ - tags: []
+
+## Ethan Lalakea Alter
+ - [https://guitar-rose-dkwp.squarespace.com](https://guitar-rose-dkwp.squarespace.com)
+ - date published: 2024-05-02T09:51:38.207661+00:00
+ - user: None
+ - tags: []
+
+## MatthewBall.co
+ - [https://haddock-helix-dgpj.squarespace.com](https://haddock-helix-dgpj.squarespace.com)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## TalentGrow LLC: Leadership development, workplace communication workshops, team-building facilitation, and speaking
+ - [https://halelly-azulay.squarespace.com](https://halelly-azulay.squarespace.com)
+ - date published: 2024-05-10T06:28:17.038526+00:00
+ - user: None
+ - tags: []
+
+## Half Mystic
+ - [https://halfmystic.squarespace.com](https://halfmystic.squarespace.com)
+ - date published: 2024-05-04T09:16:27.881877+00:00
+ - user: None
+ - tags: []
+
+## HARRIET BROWN
+ - [http://harriet-brown.squarespace.com](http://harriet-brown.squarespace.com)
+ - date published: 2024-05-07T18:34:07.920235+00:00
+ - user: None
+ - tags: []
+
+## Play For Thoughts
+ - [https://hawk-wrasse-gna2.squarespace.com](https://hawk-wrasse-gna2.squarespace.com)
+ - date published: 2024-05-09T06:26:47.848088+00:00
+ - user: None
+ - tags: []
+
+## Pop Junctions: Reflections on Entertainment, Pop Culture, Activism, Media Literacy, Fandom and More
+ - [http://henryjenkins.squarespace.com](http://henryjenkins.squarespace.com)
+ - date published: 2024-05-12T05:44:36.660330+00:00
+ - user: None
+ - tags: []
+
+## The Tournament of Books
+ - [https://hexahedron-lavender-6m6b.squarespace.com](https://hexahedron-lavender-6m6b.squarespace.com)
+ - date published: 2024-05-06T20:13:02.236166+00:00
+ - user: None
+ - tags: []
+
+## John Horgan (The Science Writer)
+ - [https://horganism.squarespace.com](https://horganism.squarespace.com)
+ - date published: 2024-05-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Alex Budak – Helping People Become Changemakers
+ - [https://horse-avocado-ka9k.squarespace.com](https://horse-avocado-ka9k.squarespace.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hudson Crossing Park
+ - [https://hudsoncrossing-park.squarespace.com](https://hudsoncrossing-park.squarespace.com)
+ - date published: 2024-05-08T07:32:48.417714+00:00
+ - user: None
+ - tags: []
+
+## Attention Required! | Cloudflare
+ - [https://investors.squarespace.com](https://investors.squarespace.com)
+ - date published: 2024-05-06T19:50:23.941352+00:00
+ - user: None
+ - tags: []
+
+## Builder siti web – Crea un sito web in pochi minuti – Squarespace
+ - [https://it.squarespace.com](https://it.squarespace.com)
+ - date published: 2024-04-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Zen Rants
+ - [https://james-alfieri-b5rw.squarespace.com](https://james-alfieri-b5rw.squarespace.com)
+ - date published: 2024-05-10T06:44:24.724068+00:00
+ - user: None
+ - tags: []
+
+## Jazmine (JT) Green
+ - [https://james-green.squarespace.com](https://james-green.squarespace.com)
+ - date published: 2024-05-12T05:40:02.876823+00:00
+ - user: None
+ - tags: []
+
+## Jascha Sohl-Dickstein
+ - [http://jascha-sohldickstein.squarespace.com](http://jascha-sohldickstein.squarespace.com)
+ - date published: 2024-04-29T05:14:10.777422+00:00
+ - user: None
+ - tags: []
+
+## Jason Markow
+ - [https://jason-markow.squarespace.com](https://jason-markow.squarespace.com)
+ - date published: 2024-05-10T06:59:23.138838+00:00
+ - user: None
+ - tags: []
+
+## Jason’s Big Adventure
+ - [https://jasonsbigadventure.squarespace.com](https://jasonsbigadventure.squarespace.com)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Jo Gifford
+ - [https://jo-gifford-fjlh.squarespace.com](https://jo-gifford-fjlh.squarespace.com)
+ - date published: 2024-04-30T06:46:20.878549+00:00
+ - user: None
+ - tags: []
+
+## Jonny Miller
+ - [http://jonny-miller.squarespace.com](http://jonny-miller.squarespace.com)
+ - date published: 2024-04-30T06:46:29.248079+00:00
+ - user: None
+ - tags: ['personal']
+
+## Joseph Andrew lafond
+ - [https://joseph-lafond-gqqx.squarespace.com](https://joseph-lafond-gqqx.squarespace.com)
+ - date published: 2024-05-10T07:00:37.788803+00:00
+ - user: None
+ - tags: []
+
+## Metal Wellness
+ - [https://joseph-metallo.squarespace.com](https://joseph-metallo.squarespace.com)
+ - date published: 2024-05-10T06:14:52.959850+00:00
+ - user: None
+ - tags: []
+
+## Red Squirrel Technologies
+ - [https://kale-algae-yn93.squarespace.com](https://kale-algae-yn93.squarespace.com)
+ - date published: 2024-04-28T04:22:57.916688+00:00
+ - user: None
+ - tags: []
+
+## Kate Vass Galerie | Contemporary Art Gallery | Zurich, Switzerland
+ - [https://katevassgalerie.squarespace.com](https://katevassgalerie.squarespace.com)
+ - date published: 2024-05-04T09:20:19.505169+00:00
+ - user: None
+ - tags: []
+
+## Flourish & Bloom
+ - [https://katie-dutcher.squarespace.com](https://katie-dutcher.squarespace.com)
+ - date published: 2024-05-10T06:42:06.574062+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://katiequinney2.squarespace.com](https://katiequinney2.squarespace.com)
+ - date published: 2024-05-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Keenan
+ - [https://keenan.squarespace.com](https://keenan.squarespace.com)
+ - date published: 2024-04-30T06:44:22.158715+00:00
+ - user: None
+ - tags: []
+
+## Feminist Sticker Club
+ - [https://kelly-hinkle-neiv.squarespace.com](https://kelly-hinkle-neiv.squarespace.com)
+ - date published: 2024-05-04T05:55:52.279474+00:00
+ - user: None
+ - tags: []
+
+## kening zhu
+ - [https://keningonline.squarespace.com](https://keningonline.squarespace.com)
+ - date published: 2024-05-04T09:29:48.404115+00:00
+ - user: None
+ - tags: []
+
+## Paper. Work. Doing life.
+ - [http://kerry-snyder-w561.squarespace.com](http://kerry-snyder-w561.squarespace.com)
+ - date published: 2024-05-06T22:32:16.534165+00:00
+ - user: None
+ - tags: []
+
+## Kate Smalley - Small Business Advisor & Educator
+ - [https://khaki-strawberry-4kjp.squarespace.com](https://khaki-strawberry-4kjp.squarespace.com)
+ - date published: 2024-05-10T06:32:27.943418+00:00
+ - user: None
+ - tags: []
+
+## GurtyBeats.com
+ - [https://koi-lynx-rzwr.squarespace.com](https://koi-lynx-rzwr.squarespace.com)
+ - date published: 2024-05-04T09:01:17.672363+00:00
+ - user: None
+ - tags: []
+
+## Philosophize This!
+ - [https://koi-minnow-dmk8.squarespace.com](https://koi-minnow-dmk8.squarespace.com)
+ - date published: 2024-05-08T11:35:37.731702+00:00
+ - user: None
+ - tags: []
+
+## koolikedat.com
+ - [https://koochung.squarespace.com](https://koochung.squarespace.com)
+ - date published: 2024-05-04T10:01:37.733676+00:00
+ - user: None
+ - tags: []
+
+## Zen Masta Flash
+ - [https://k-o-pbfs.squarespace.com](https://k-o-pbfs.squarespace.com)
+ - date published: 2024-05-07T18:51:07.040548+00:00
+ - user: None
+ - tags: []
+
+## Kristin Kwan
+ - [https://kristin-kwan-r2od.squarespace.com](https://kristin-kwan-r2od.squarespace.com)
+ - date published: 2024-05-04T10:04:15.359525+00:00
+ - user: None
+ - tags: []
+
+## kylie dunn and dinkylune
+ - [https://kyliedunn.squarespace.com](https://kyliedunn.squarespace.com)
+ - date published: 2024-05-04T11:44:56.752603+00:00
+ - user: None
+ - tags: []
+
+## Organ Clearing House
+ - [https://laina-terpstra-549g.squarespace.com](https://laina-terpstra-549g.squarespace.com)
+ - date published: 2024-05-06T22:10:54.255439+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science, University of Toronto
+ - [https://lanternfish-point-js8m.squarespace.com](https://lanternfish-point-js8m.squarespace.com)
+ - date published: 2024-05-07T20:38:35.078207+00:00
+ - user: None
+ - tags: []
+
+## Laura Doorneweerd-Perry
+ - [https://laura-doorneweerd.squarespace.com](https://laura-doorneweerd.squarespace.com)
+ - date published: 2024-05-04T12:00:12.642916+00:00
+ - user: None
+ - tags: []
+
+## claynferno
+ - [https://league-podcast.squarespace.com](https://league-podcast.squarespace.com)
+ - date published: 2024-05-08T05:33:05.731434+00:00
+ - user: None
+ - tags: []
+
 ## Leanne Hughes
  - [https://leannehughes.squarespace.com](https://leannehughes.squarespace.com)
  - date published: 2024-05-10T05:47:41.088748+00:00
@@ -2083,6 +2443,12 @@
 ## Standard Industries
  - [https://www.standardindustries.com](https://www.standardindustries.com)
  - date published: 2024-04-30T04:43:39.977160+00:00
+ - user: None
+ - tags: []
+
+## Standardista – Estelle Weyl
+ - [http://standardista.com](http://standardista.com)
+ - date published: 2024-05-31T01:34:19.230187+00:00
  - user: None
  - tags: []
 
@@ -5632,370 +5998,4 @@
  - date published: 2023-10-25T09:40:50.749209+00:00
  - user: None
  - tags: ['substack']
-
-## brainwork | abu | Substack
- - [https://abuqader.substack.com](https://abuqader.substack.com)
- - date published: 2023-10-25T09:40:52.663238+00:00
- - user: None
- - tags: ['substack']
-
-## Oleksii Sidorov | Substack
- - [https://acecreamu.substack.com](https://acecreamu.substack.com)
- - date published: 2023-10-25T09:40:55.727244+00:00
- - user: None
- - tags: ['substack']
-
-## Granted | Adam Grant | Substack
- - [https://adamgrant.substack.com](https://adamgrant.substack.com)
- - date published: 2024-01-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Hot Takes | Adam Singer | Substack
- - [https://adamsinger.substack.com](https://adamsinger.substack.com)
- - date published: 2023-10-25T09:40:59.148654+00:00
- - user: None
- - tags: ['substack']
-
-## Chartbook | Adam Tooze | Substack
- - [https://adamtooze.substack.com](https://adamtooze.substack.com)
- - date published: 2023-10-25T09:41:02.258121+00:00
- - user: None
- - tags: ['substack']
-
-## Adaobi’s Newsletter | Substack
- - [https://adaobi.substack.com](https://adaobi.substack.com)
- - date published: 2024-01-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Elevate | Addy Osmani | Substack
- - [https://addyo.substack.com](https://addyo.substack.com)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Aden’s Newsletter | Aden Emil | Substack
- - [https://aden.substack.com](https://aden.substack.com)
- - date published: 2024-05-06T14:17:05.332659+00:00
- - user: None
- - tags: []
-
-## Adetokunbo Sees | Adetokunbo Abiola | Substack
- - [https://adetokunbo.substack.com](https://adetokunbo.substack.com)
- - date published: 2023-10-25T09:41:05.242808+00:00
- - user: None
- - tags: ['substack']
-
-## Aditya’s Newsletter  | Aditya Saxena | Substack
- - [https://aditya8080.substack.com](https://aditya8080.substack.com)
- - date published: 2023-11-02T20:09:06.928633+00:00
- - user: None
- - tags: []
-
-## Adjacent Possible | Steven Johnson | Substack
- - [https://adjacentpossible.substack.com](https://adjacentpossible.substack.com)
- - date published: 2024-05-15T02:49:33.952624+00:00
- - user: None
- - tags: []
-
-## @adlrocha Weekly Newsletter | Substack
- - [https://adlrocha.substack.com](https://adlrocha.substack.com)
- - date published: 2024-04-30T00:30:25.134377+00:00
- - user: None
- - tags: []
-
-## Have You Played? | Adrian Hon | Substack
- - [https://adrianhon.substack.com](https://adrianhon.substack.com)
- - date published: 2024-05-12T04:27:18.069790+00:00
- - user: None
- - tags: []
-
-## Programming Feedback for Advanced Beginners | Robert Heaton | Substack
- - [https://advancedbeginners.substack.com](https://advancedbeginners.substack.com)
- - date published: 2024-04-28T05:13:15.258615+00:00
- - user: None
- - tags: []
-
-## Knowingless | Aella | Substack
- - [https://aella.substack.com](https://aella.substack.com)
- - date published: 2023-10-25T09:41:12.865600+00:00
- - user: None
- - tags: ['substack']
-
-## African History Blog | Mister Fahrenheit | Substack
- - [https://africanhistoryblog.substack.com](https://africanhistoryblog.substack.com)
- - date published: 2024-05-01T02:33:39.781914+00:00
- - user: None
- - tags: []
-
-## Afridigest | Emeka Ajene | Substack
- - [https://afridigest.substack.com](https://afridigest.substack.com)
- - date published: 2024-01-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## Les notes d'Arnaud | Substack
- - [https://agelebart.substack.com](https://agelebart.substack.com)
- - date published: 2024-05-08T00:15:05.822880+00:00
- - user: None
- - tags: []
-
-## Ageling on Agile | Willem-Jan Ageling | Substack
- - [https://ageling.substack.com](https://ageling.substack.com)
- - date published: 2023-10-25T09:41:16.204113+00:00
- - user: None
- - tags: ['substack']
-
-## Agile Thoughts | Erik de Bos | Substack
- - [https://agilethoughts.substack.com](https://agilethoughts.substack.com)
- - date published: 2024-05-04T14:56:59.590896+00:00
- - user: None
- - tags: []
-
-## Andrew's Substack | Andrew Zheng | Substack
- - [https://aheze.substack.com](https://aheze.substack.com)
- - date published: 2023-10-25T09:41:18.206414+00:00
- - user: None
- - tags: ['substack']
-
-## AI Disruption | Meng Li | Substack
- - [https://aidisruption.substack.com](https://aidisruption.substack.com)
- - date published: 2024-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## The AI Ethics Brief | Montreal AI Ethics Institute | Substack
- - [https://aiethics.substack.com](https://aiethics.substack.com)
- - date published: 2024-04-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## AI: A Guide for Thinking Humans | Melanie Mitchell | Substack
- - [https://aiguide.substack.com](https://aiguide.substack.com)
- - date published: 2023-10-25T09:41:20.815131+00:00
- - user: None
- - tags: ['substack']
-
-## AIModels.fyi | Mike Young | Substack
- - [https://aimodels.substack.com](https://aimodels.substack.com)
- - date published: 2023-11-04T06:47:54.961600+00:00
- - user: None
- - tags: []
-
-## AI Political Pulse | Greg Dale | Substack
- - [https://aipoliticalpulse.substack.com](https://aipoliticalpulse.substack.com)
- - date published: 2023-10-25T09:41:23.435206+00:00
- - user: None
- - tags: ['substack']
-
-## AI Snake Oil | Sayash Kapoor | Substack
- - [https://aisnakeoil.substack.com](https://aisnakeoil.substack.com)
- - date published: 2023-10-25T09:41:27.444440+00:00
- - user: None
- - tags: ['substack']
-
-## AI Supremacy  | Michael Spencer | Substack
- - [https://aisupremacy.substack.com](https://aisupremacy.substack.com)
- - date published: 2023-11-20T15:43:53.277002+00:00
- - user: None
- - tags: []
-
-## Cambridge Ladies' Dining Society | Ann Kennedy Smith | Substack
- - [https://akennedysmith.substack.com](https://akennedysmith.substack.com)
- - date published: 2024-05-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Newsletter of Alastair Johnston | Substack
- - [https://alastairjohnston.substack.com](https://alastairjohnston.substack.com)
- - date published: 2024-03-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Life Since the Baby Boom | Albert Cory | Substack
- - [https://albertcory50.substack.com](https://albertcory50.substack.com)
- - date published: 2023-10-25T09:41:35.577450+00:00
- - user: None
- - tags: ['substack']
-
-## The Alchemy of Money | Frederik Gieschen | Substack
- - [https://alchemy.substack.com](https://alchemy.substack.com)
- - date published: 2023-12-04T15:57:22.523973+00:00
- - user: None
- - tags: []
-
-## Arts & Letters Daily | Substack
- - [https://aldaily.substack.com](https://aldaily.substack.com)
- - date published: 2024-05-15T03:01:58.895682+00:00
- - user: None
- - tags: []
-
-## Public Service | Alethios | Substack
- - [https://alethios.substack.com](https://alethios.substack.com)
- - date published: 2023-11-16T09:10:46.307541+00:00
- - user: None
- - tags: []
-
-## Unreported Truths | Alex Berenson | Substack
- - [https://alexberenson.substack.com](https://alexberenson.substack.com)
- - date published: 2023-10-25T09:41:42.940169+00:00
- - user: None
- - tags: ['substack']
-
-## Alex Carabi’s Newsletter | Substack
- - [https://alexcarabi.substack.com](https://alexcarabi.substack.com)
- - date published: 2024-01-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## Alex Ewerlöf Notes | Substack
- - [https://alexewerlof.substack.com](https://alexewerlof.substack.com)
- - date published: 2023-10-25T09:41:45.579089+00:00
- - user: None
- - tags: ['substack']
-
-## Strategy Made Simple | Alex Murrell | Substack
- - [https://alexmurrell.substack.com](https://alexmurrell.substack.com)
- - date published: 2024-03-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## A Biologist's Guide to Life | Alex Washburne | Substack
- - [https://alexwasburne.substack.com](https://alexwasburne.substack.com)
- - date published: 2023-10-25T09:41:49.395167+00:00
- - user: None
- - tags: ['substack']
-
-## Alex Writes | Alex Wilhelm | Substack
- - [https://alexwrites.substack.com](https://alexwrites.substack.com)
- - date published: 2023-10-25T09:41:52.752191+00:00
- - user: None
- - tags: ['substack']
-
-## Rational in the Fullness of Time | Alexandr Wang | Substack
- - [https://alexw.substack.com](https://alexw.substack.com)
- - date published: 2023-10-25T09:41:47.119980+00:00
- - user: None
- - tags: ['substack']
-
-## Alfred’s Newsletter | Alfred Megally | Substack
- - [https://alfred.substack.com](https://alfred.substack.com)
- - date published: 2024-02-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## MOHAMMED JAMAL | Substack
- - [https://aljamal.substack.com](https://aljamal.substack.com)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Allocators Asia | Kalani Scarrott | Substack
- - [https://allocatorsasia.substack.com](https://allocatorsasia.substack.com)
- - date published: 2024-05-04T10:00:32.718941+00:00
- - user: None
- - tags: []
-
-## Aly-Khan’s Newsletter | Alykhan Satchu | Substack
- - [https://alykhansatchu.substack.com](https://alykhansatchu.substack.com)
- - date published: 2024-05-01T02:33:25.870112+00:00
- - user: None
- - tags: []
-
-## https://ameliatait.substack.com
- - [https://ameliatait.substack.com](https://ameliatait.substack.com)
- - date published: 2024-01-23T19:06:15.106114+00:00
- - user: None
- - tags: []
-
-## Am I Stronger Yet? | Steve | Substack
- - [https://amistrongeryet.substack.com](https://amistrongeryet.substack.com)
- - date published: 2023-10-25T09:41:55.230669+00:00
- - user: None
- - tags: ['substack']
-
-## Ammar Mian | Substack
- - [https://ammarmian.substack.com](https://ammarmian.substack.com)
- - date published: 2023-10-25T09:41:57.289319+00:00
- - user: None
- - tags: ['substack']
-
-## Product Management IRL | Amy Mitchell | Substack
- - [https://amycmitchell.substack.com](https://amycmitchell.substack.com)
- - date published: 2024-04-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sunshine and Seedlings: A Newsletter by HydroponicTrash | Substack
- - [https://anarchosolarpunk.substack.com](https://anarchosolarpunk.substack.com)
- - date published: 2023-10-25T09:42:00.050208+00:00
- - user: None
- - tags: ['substack']
-
-## Andrea Learned On Climate Influence | Substack
- - [https://andrealearned.substack.com](https://andrealearned.substack.com)
- - date published: 2024-05-08T05:36:27.639784+00:00
- - user: None
- - tags: []
-
-## FAANG FIRE | Andre Nader | Substack
- - [https://andrenader.substack.com](https://andrenader.substack.com)
- - date published: 2024-01-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Andre's Climate | André Meurer | Substack
- - [https://andresclimate.substack.com](https://andresclimate.substack.com)
- - date published: 2024-05-08T05:36:10.082583+00:00
- - user: None
- - tags: []
-
-## Andrew's Substack | Andrew Huth | Substack
- - [https://andrewhuth.substack.com](https://andrewhuth.substack.com)
- - date published: 2023-10-25T09:42:02.215026+00:00
- - user: None
- - tags: ['substack']
-
-## Andrew Mayne’s Newsletter | Substack
- - [https://andrewmayne.substack.com](https://andrewmayne.substack.com)
- - date published: 2024-02-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Anh-Tho’s Newsletter | Anh-Tho Chuong | Substack
- - [https://anhtho.substack.com](https://anhtho.substack.com)
- - date published: 2023-10-25T09:42:03.676083+00:00
- - user: None
- - tags: ['substack']
-
-## Anichexperience | A Niche Experience | Substack
- - [https://anichexperience.substack.com](https://anichexperience.substack.com)
- - date published: 2024-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Animation Obsessive | Animation Obsessive Staff | Substack
- - [https://animationobsessive.substack.com](https://animationobsessive.substack.com)
- - date published: 2023-10-25T09:42:11.045618+00:00
- - user: None
- - tags: ['substack']
-
-## Anna’s Archival Musings | Anna Mancini | Substack
- - [https://annamancini.substack.com](https://annamancini.substack.com)
- - date published: 2023-10-25T09:42:12.649007+00:00
- - user: None
- - tags: ['substack']
-
-## Anna's Kind Commerce journey | Anna Ratkai | Substack
- - [https://annaratkai.substack.com](https://annaratkai.substack.com)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Catalysing Change | Anna Zhenova | Substack
- - [https://annazhenova.substack.com](https://annazhenova.substack.com)
- - date published: 2024-02-16T00:00:00+00:00
- - user: None
- - tags: []
 
