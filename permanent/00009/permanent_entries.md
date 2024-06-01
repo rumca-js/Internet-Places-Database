@@ -1,3 +1,63 @@
+## Google for Developers - from AI and Cloud to Mobile and Web
+ - [https://developers-dot-devsite-v2-prod.appspot.com](https://developers-dot-devsite-v2-prod.appspot.com)
+ - date published: 2024-05-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## /dev/joe's home page on appspot
+ - [https://devjoe.appspot.com](https://devjoe.appspot.com)
+ - date published: 2024-05-04T09:00:16.073522+00:00
+ - user: None
+ - tags: []
+
+## Firebase | Google’s Mobile and Web App Development Platform
+ - [https://firebase-dot-devsite-v2-prod.appspot.com](https://firebase-dot-devsite-v2-prod.appspot.com)
+ - date published: 2024-05-08T07:31:48.052298+00:00
+ - user: None
+ - tags: []
+
+## Fuchsia
+ - [https://fuchsia-dot-devsite-v2-prod-3p.appspot.com](https://fuchsia-dot-devsite-v2-prod-3p.appspot.com)
+ - date published: 2024-04-29T07:45:16.302192+00:00
+ - user: None
+ - tags: []
+
+## Build with the Gemini API  |  Google AI for Developers  |  Google for Developers
+ - [https://googledevai-dot-devsite-v2-prod-3p.appspot.com](https://googledevai-dot-devsite-v2-prod-3p.appspot.com)
+ - date published: 2024-05-09T09:16:18.854045+00:00
+ - user: None
+ - tags: []
+
+## Granary
+ - [https://granary-demo.appspot.com](https://granary-demo.appspot.com)
+ - date published: 2024-01-29T04:21:46.990980+00:00
+ - user: None
+ - tags: []
+
+## H4CK1NG G00GL3
+ - [https://gweb-h4ck1ng-g00gl3.uc.r.appspot.com](https://gweb-h4ck1ng-g00gl3.uc.r.appspot.com)
+ - date published: 2024-04-29T08:13:07.033691+00:00
+ - user: None
+ - tags: []
+
+## Npackd
+ - [https://npackd.appspot.com](https://npackd.appspot.com)
+ - date published: 2024-05-08T10:15:56.366521+00:00
+ - user: None
+ - tags: []
+
+## Google Open Source
+ - [https://opensource-dot-devsite-v2-prod-3p.appspot.com](https://opensource-dot-devsite-v2-prod-3p.appspot.com)
+ - date published: 2024-05-04T08:31:43.668041+00:00
+ - user: None
+ - tags: []
+
+## Spotify — For the Record
+ - [https://pr-newsroom-wp.appspot.com](https://pr-newsroom-wp.appspot.com)
+ - date published: 2024-05-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Air Mail Pioneers Checkerboard Field Maywood IL
  - [https://read-the-plaque.appspot.com](https://read-the-plaque.appspot.com)
  - date published: 2024-05-09T06:33:13.790949+00:00
@@ -4690,6 +4750,12 @@
  - user: None
  - tags: []
 
+## Avast Free Antivirus i Avast VPN | Darmowy antywirus
+ - [https://avast.com](https://avast.com)
+ - date published: 2024-05-31T09:54:02.909733+00:00
+ - user: None
+ - tags: []
+
 ## Avast Blog
  - [https://blog.avast.com](https://blog.avast.com)
  - date published: 2024-04-26T00:00:00+00:00
@@ -5668,6 +5734,12 @@
  - user: None
  - tags: []
 
+## Azure Friday - Learn about the Azure cloud with this free weekly educational video podcast with Scott Hanselman and Friends!
+ - [http://azurefriday.com](http://azurefriday.com)
+ - date published: 2024-05-31T09:44:06.498991+00:00
+ - user: None
+ - tags: []
+
 ## Azure Sky Follows
  - [https://azureskyfollows.com](https://azureskyfollows.com)
  - date published: 2024-01-27T00:00:00+00:00
@@ -5925,76 +5997,4 @@
  - date published: 2024-04-25T21:21:31.677119+00:00
  - user: None
  - tags: ['teaching service']
-
-## Welcome to Backer Street
- - [https://www.backerstreet.com](https://www.backerstreet.com)
- - date published: 1999-06-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Backheeled - Telling American Soccer Stories
- - [https://www.backheeled.com](https://www.backheeled.com)
- - date published: 2024-05-08T09:20:51.094541+00:00
- - user: None
- - tags: []
-
-## SEO Training and Link Building Strategies – Backlinko
- - [https://backlinko.com](https://backlinko.com)
- - date published: 2023-10-25T12:51:36.590134+00:00
- - user: None
- - tags: []
-
-## Backlinks Strong référencement SEO
- - [https://backlinkstrong.com](https://backlinkstrong.com)
- - date published: 2024-04-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Backpacker Magazine | Camping - Hiking - Gear - Skills
- - [https://www.backpacker.com](https://www.backpacker.com)
- - date published: 2023-10-25T12:51:41.436711+00:00
- - user: None
- - tags: []
-
-## Freeze Dried Food for Backpacking & Emergencies | Backpacker's Pantry
- - [https://backpackerspantry.com](https://backpackerspantry.com)
- - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Subscribe to the "WTT?!?" Newsletter
- - [https://backthetruckup.com](https://backthetruckup.com)
- - date published: 2024-05-04T07:03:09.253874+00:00
- - user: None
- - tags: []
-
-## Backyard Ballistics by William Gurstelle
- - [https://www.backyard-ballistics.com](https://www.backyard-ballistics.com)
- - date published: 2023-10-25T12:51:44.139147+00:00
- - user: None
- - tags: []
-
-## Melting metal in a home foundry, backyard metalcasting, metal casting
- - [https://www.backyardmetalcasting.com](https://www.backyardmetalcasting.com)
- - date published: 2023-10-25T12:51:45.369422+00:00
- - user: None
- - tags: []
-
-## BackyardWorkshop.com - Get More Done!
- - [https://www.backyardworkshop.com](https://www.backyardworkshop.com)
- - date published: 2024-05-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Bacon Brothers
- - [https://www.baconbros.com](https://www.baconbros.com)
- - date published: 2024-04-26T17:45:39+00:00
- - user: rumpel
- - tags: ['music band', 'kevin bacon']
-
-## Baconics - Maintenance
- - [https://baconics.com](https://baconics.com)
- - date published: 2024-04-30T08:11:35.249425+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,111 @@
+## Climate Home News
+ - [https://www.climatechangenews.com](https://www.climatechangenews.com)
+ - date published: 2024-05-11T08:23:04.157399+00:00
+ - user: None
+ - tags: []
+
+## Climate Depot
+ - [https://www.climatedepot.com](https://www.climatedepot.com)
+ - date published: 2024-05-01T03:02:09.779235+00:00
+ - user: None
+ - tags: []
+
+## Climate Drift
+ - [https://accelerate.climatedrift.com](https://accelerate.climatedrift.com)
+ - date published: 2024-03-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Climate Drift | Marco & Skander | Substack
+ - [https://www.climatedrift.com](https://www.climatedrift.com)
+ - date published: 2023-10-25T09:40:02.589131+00:00
+ - user: None
+ - tags: ['substack']
+
+## Climate Tech News & Industry Insights - Climate Insider
+ - [https://climateinsider.com](https://climateinsider.com)
+ - date published: 2024-02-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Climate Papa | Ben Shwab Eidelson | Substack
+ - [https://newsletter.climatepapa.com](https://newsletter.climatepapa.com)
+ - date published: 2024-04-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ClimateTriage - Impactful open source contributions
+ - [https://climatetriage.com](https://climatetriage.com)
+ - date published: 2023-12-20T10:34:43+00:00
+ - user: None
+ - tags: []
+
+## Climbing Magazine | Bouldering, Trad, Alpine, and Sport Climbing
+ - [https://cdn.climbing.com](https://cdn.climbing.com)
+ - date published: 2024-05-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Climbing Magazine | Bouldering, Trad, Alpine, and Sport Climbing
+ - [https://www.climbing.com](https://www.climbing.com)
+ - date published: 2024-04-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 山と溪谷社のクライミング・ボルダリング総合サイト CLIMBING-net クライミングネット
+ - [https://www.climbing-net.com](https://www.climbing-net.com)
+ - date published: 2024-05-06T15:44:54.632177+00:00
+ - user: None
+ - tags: []
+
+## Turning heat into clean electricity | Climeon
+ - [https://climeon.com](https://climeon.com)
+ - date published: 2024-04-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sign in - Matomo
+ - [https://analytics.climeworks.com](https://analytics.climeworks.com)
+ - date published: 2024-05-08T05:36:43.670859+00:00
+ - user: None
+ - tags: []
+
+## Journey toward net zero with Climeworks' carbon removal service
+ - [https://climeworks.com](https://climeworks.com)
+ - date published: 2023-10-25T13:26:37.360343+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.clinicaladvisor.com](https://www.clinicaladvisor.com)
+ - date published: 2024-05-17T02:43:38.095101+00:00
+ - user: None
+ - tags: []
+
+## https://www.clinicalmicrobiologyandinfection.com
+ - [https://www.clinicalmicrobiologyandinfection.com](https://www.clinicalmicrobiologyandinfection.com)
+ - date published: 2023-11-05T07:28:30.587332+00:00
+ - user: None
+ - tags: []
+
+## https://clinicalnutritionjournal.com
+ - [https://clinicalnutritionjournal.com](https://clinicalnutritionjournal.com)
+ - date published: 2023-12-04T23:16:21.241233+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.clinicalpainadvisor.com](https://www.clinicalpainadvisor.com)
+ - date published: 2024-05-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Clint McMahon
+ - [https://clintmcmahon.com](https://clintmcmahon.com)
+ - date published: 2024-01-11T02:12:30.396119+00:00
+ - user: None
+ - tags: []
+
 ## Clint McMahon
  - [https://www.clintmcmahon.com](https://www.clintmcmahon.com)
  - date published: 2024-02-25T18:24:16.963483+00:00
@@ -3591,6 +3699,12 @@
  - user: None
  - tags: []
 
+## Show HN: CommitAsync – $100K+ dev jobs 100% remote only
+ - [https://www.commitasync.com](https://www.commitasync.com)
+ - date published: 2024-05-31T13:45:45+00:00
+ - user: None
+ - tags: []
+
 ## Commit Mono. Neutral programming typeface.
  - [https://commitmono.com](https://commitmono.com)
  - date published: 2023-10-25T13:30:58.581020+00:00
@@ -5891,118 +6005,4 @@
  - date published: 2024-04-17T00:00:00+00:00
  - user: rumpel
  - tags: ['producer', 'company', 'power supply']
-
-## CorsixTH
- - [http://corsixth.com](http://corsixth.com)
- - date published: 2024-05-09T08:58:08.857357+00:00
- - user: None
- - tags: []
-
-## Pull contact details out of email signatures, export anywhere.
- - [https://www.cortenix.com](https://www.cortenix.com)
- - date published: 2024-05-11T10:25:12.859559+00:00
- - user: None
- - tags: []
-
-## Cortex Futura: Tools for Thought, Tana, Knowledge Ops, and more.
- - [https://www.cortexfutura.com](https://www.cortexfutura.com)
- - date published: 2024-05-04T14:00:05.278910+00:00
- - user: None
- - tags: []
-
-## Cortical Labs - DishBrain Intelligence
- - [https://corticallabs.com](https://corticallabs.com)
- - date published: 2023-11-01T08:41:52.617438+00:00
- - user: None
- - tags: []
-
-## CORUS WEB
- - [https://www.corusconsulting.com](https://www.corusconsulting.com)
- - date published: 2024-05-01T08:31:09.899765+00:00
- - user: None
- - tags: []
-
-## Corvus Coffee Roasters • Denver based specialty coffee roasters
- - [https://www.corvuscoffee.com](https://www.corvuscoffee.com)
- - date published: 2024-05-04T07:30:11.048612+00:00
- - user: None
- - tags: []
-
-## Corvus Games Terrain : 3D printed sci-fi tabletop wargaming terrain
- - [https://corvusgamesterrain.com](https://corvusgamesterrain.com)
- - date published: 2024-03-01T18:35:32.870743+00:00
- - user: None
- - tags: ['tabletop terrain']
-
-## Cory Ames
- - [https://coryames.com](https://coryames.com)
- - date published: 2024-01-09T00:12:16.658377+00:00
- - user: None
- - tags: []
-
-## Cory Forsythe - Cloud Software Engineering Leader
- - [https://coryforsythe.com](https://coryforsythe.com)
- - date published: 2024-05-11T10:20:14.148813+00:00
- - user: None
- - tags: []
-
-## Cory Gibbons
- - [https://corygibbons.com](https://corygibbons.com)
- - date published: 2024-05-04T14:15:34.958369+00:00
- - user: None
- - tags: []
-
-## Cory Shaw | Cory Shaw
- - [https://coryshaw.com](https://coryshaw.com)
- - date published: 2024-01-08T15:36:54.508225+00:00
- - user: None
- - tags: ['personal']
-
-## Cory Zue | Full-Stack Developer, Maker of Products, and Solopreneur
- - [https://www.coryzue.com](https://www.coryzue.com)
- - date published: 2023-10-25T13:34:24.334483+00:00
- - user: None
- - tags: []
-
-## CoscoKids.com
- - [https://www.coscokids.com](https://www.coscokids.com)
- - date published: 2024-05-06T14:49:38.525377+00:00
- - user: None
- - tags: []
-
-## Cosco Home & Office Products
- - [https://www.coscoproducts.com](https://www.coscoproducts.com)
- - date published: 2024-05-06T14:49:39.782809+00:00
- - user: None
- - tags: []
-
-## Home - COS Fone
- - [https://cosfone.com](https://cosfone.com)
- - date published: 2024-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## COSFONE - Networking, Computer, PBX, IT, DIY Solution
- - [https://www.cosfone.com](https://www.cosfone.com)
- - date published: 2023-10-25T13:34:32.250773+00:00
- - user: None
- - tags: []
-
-## Cosimo, a Specialty Publisher, presents books that inspire, inform, and engage readers worldwide.
- - [http://cosimobooks.com](http://cosimobooks.com)
- - date published: 2024-05-12T07:26:29.471596+00:00
- - user: None
- - tags: []
-
-## Welcome to CosmicDash.com - Cosmic Dash
- - [http://cosmicdash.com](http://cosmicdash.com)
- - date published: 2024-01-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## CosmoLex Support | CosmoLex
- - [https://support.cosmolex.com](https://support.cosmolex.com)
- - date published: 2022-09-26T00:00:00+00:00
- - user: None
- - tags: []
 

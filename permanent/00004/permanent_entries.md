@@ -1,3 +1,45 @@
+## Electrotechnique Synthesizers | DIY Synthesizers
+ - [https://electrotechnique.cc](https://electrotechnique.cc)
+ - date published: 2023-10-25T12:10:56.844543+00:00
+ - user: None
+ - tags: []
+
+## ERYC—Software Designer
+ - [https://eryc.cc](https://eryc.cc)
+ - date published: 2024-05-09T06:19:04.178187+00:00
+ - user: None
+ - tags: []
+
+## Evan Chen • About
+ - [https://web.evanchen.cc](https://web.evanchen.cc)
+ - date published: 2024-04-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## EVERESTING
+ - [http://www.everesting.cc](http://www.everesting.cc)
+ - date published: 2024-05-10T04:56:33.855503+00:00
+ - user: None
+ - tags: []
+
+## Membership - Evoé
+ - [https://membership.evoe.cc](https://membership.evoe.cc)
+ - date published: 2024-05-29T00:27:48.785254+00:00
+ - user: None
+ - tags: []
+
+## fastText
+ - [https://fasttext.cc](https://fasttext.cc)
+ - date published: 2024-05-06T14:44:38.795035+00:00
+ - user: None
+ - tags: []
+
+## Andrew Wong | featherbear
+ - [https://featherbear.cc](https://featherbear.cc)
+ - date published: 2024-05-02T12:50:18.580014+00:00
+ - user: None
+ - tags: []
+
 ## Hugo Ferreira
  - [https://hugo.ferreira.cc](https://hugo.ferreira.cc)
  - date published: 2024-02-09T22:23:01.833427+00:00
@@ -1611,6 +1653,12 @@
 ## Energypolis
  - [http://www.energypolis.ch](http://www.energypolis.ch)
  - date published: 2024-05-12T07:16:24.150336+00:00
+ - user: None
+ - tags: []
+
+## 10-Week Course to Boost English Speaking
+ - [https://www.englishmeister.ch](https://www.englishmeister.ch)
+ - date published: 2024-05-31T10:59:00.645810+00:00
  - user: None
  - tags: []
 
@@ -5949,54 +5997,6 @@
 ## sandspiel
  - [https://sandspiel.club](https://sandspiel.club)
  - date published: 2024-05-04T15:15:06.889797+00:00
- - user: None
- - tags: []
-
-## secret club | We Break Software
- - [https://secret.club](https://secret.club)
- - date published: 2023-10-25T12:16:05.805445+00:00
- - user: None
- - tags: ['reverse engineering', 'hacking']
-
-## no you shut the fuck up dad
- - [https://secretinternet.club](https://secretinternet.club)
- - date published: 2024-05-07T22:23:57.812786+00:00
- - user: None
- - tags: []
-
-## Get started | Shipped
- - [https://docs.shipped.club](https://docs.shipped.club)
- - date published: 2024-03-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Show HN: Launch your product within hours
- - [https://shipped.club](https://shipped.club)
- - date published: 2023-12-07T01:13:21+00:00
- - user: None
- - tags: []
-
-## Simply Complicated
- - [http://simplycomplicated.club](http://simplycomplicated.club)
- - date published: 2024-05-02T10:39:42.247526+00:00
- - user: None
- - tags: []
-
-## snake.club - Mastodon
- - [https://snake.club](https://snake.club)
- - date published: 2024-05-10T05:29:04.468926+00:00
- - user: None
- - tags: []
-
-## SoNoMu
- - [https://sonomu.club](https://sonomu.club)
- - date published: 2024-05-02T12:09:23.787109+00:00
- - user: None
- - tags: []
-
-## Home | Tampon Club
- - [http://tampon.club](http://tampon.club)
- - date published: 2024-05-02T11:11:42.161824+00:00
  - user: None
  - tags: []
 

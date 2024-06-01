@@ -1,3 +1,9 @@
+## Astrofy | Personal Portfolio Website Template
+ - [https://astro-modern-personal-website.netlify.app](https://astro-modern-personal-website.netlify.app)
+ - date published: 2024-04-29T07:28:42.208361+00:00
+ - user: None
+ - tags: []
+
 ## Astrolize - Starter Template for Astro
  - [https://astro-starter-theme.netlify.app](https://astro-starter-theme.netlify.app)
  - date published: 2024-05-09T08:14:29.616339+00:00
@@ -961,6 +967,12 @@
 ## Show HN: Seedling – A Decentralised Medium
  - [https://seedling-d.app](https://seedling-d.app)
  - date published: 2024-01-05T22:54:58+00:00
+ - user: None
+ - tags: []
+
+## Every mountain, building and tree shadow in the world simulated for any time
+ - [https://shademap.app](https://shademap.app)
+ - date published: 2024-05-31T05:09:24+00:00
  - user: None
  - tags: []
 
@@ -2191,6 +2203,12 @@
 ## Wayland Protocol Documentation | Wayland Explorer
  - [https://wayland.app](https://wayland.app)
  - date published: 2024-05-11T09:06:00.472799+00:00
+ - user: None
+ - tags: []
+
+## Angular
+ - [https://angular-gr.web.app](https://angular-gr.web.app)
+ - date published: 2024-05-31T11:09:05.185015+00:00
  - user: None
  - tags: []
 
@@ -3612,6 +3630,12 @@
  - user: None
  - tags: ['personal']
 
+## esc medien kunst labor | Initiiert und ermöglicht Kunstprojekte, sammelt, verarbeitet und veröffentlicht kulturelle Daten.
+ - [https://esc.mur.at](https://esc.mur.at)
+ - date published: 2024-05-31T19:49:27.394280+00:00
+ - user: None
+ - tags: []
+
 ## Museum gemeinsam weiterdenken
  - [https://www.museumsguetesiegel.at](https://www.museumsguetesiegel.at)
  - date published: 2024-05-28T03:08:45.998594+00:00
@@ -3873,6 +3897,12 @@
 ## selfie
  - [https://selfie.cs.uni-salzburg.at](https://selfie.cs.uni-salzburg.at)
  - date published: 2023-10-25T08:31:05.114799+00:00
+ - user: None
+ - tags: []
+
+## Viertelfestival Startseite 2024 - Viertelfestival Niederösterreich
+ - [https://www.viertelfestival-noe.at](https://www.viertelfestival-noe.at)
+ - date published: 2024-05-31T19:49:33.679876+00:00
  - user: None
  - tags: []
 
@@ -5967,36 +5997,6 @@
 ## Australian Technology Network of Universities
  - [https://atn.edu.au](https://atn.edu.au)
  - date published: 2024-05-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [http://www.curtin.edu.au](http://www.curtin.edu.au)
- - date published: 2024-05-11T11:33:33.581887+00:00
- - user: None
- - tags: []
-
-## Deakin
- - [https://www.deakin.edu.au](https://www.deakin.edu.au)
- - date published: 2024-05-01T08:10:13.231879+00:00
- - user: None
- - tags: []
-
-## The Australasian College of Dermatologists
- - [https://www.dermcoll.edu.au](https://www.dermcoll.edu.au)
- - date published: 2024-05-09T05:40:26.682844+00:00
- - user: None
- - tags: []
-
-## Edith Cowan University | Creative thinkers made here
- - [https://www.ecu.edu.au](https://www.ecu.edu.au)
- - date published: 2023-10-25T11:21:10.044075+00:00
- - user: None
- - tags: []
-
-## News –
- - [https://news.flinders.edu.au](https://news.flinders.edu.au)
- - date published: 2023-10-25T11:56:38.466808+00:00
  - user: None
  - tags: []
 

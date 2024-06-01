@@ -1,3 +1,33 @@
+## Home
+ - [http://www.curtin.edu.au](http://www.curtin.edu.au)
+ - date published: 2024-05-11T11:33:33.581887+00:00
+ - user: None
+ - tags: []
+
+## Deakin
+ - [https://www.deakin.edu.au](https://www.deakin.edu.au)
+ - date published: 2024-05-01T08:10:13.231879+00:00
+ - user: None
+ - tags: []
+
+## The Australasian College of Dermatologists
+ - [https://www.dermcoll.edu.au](https://www.dermcoll.edu.au)
+ - date published: 2024-05-09T05:40:26.682844+00:00
+ - user: None
+ - tags: []
+
+## Edith Cowan University | Creative thinkers made here
+ - [https://www.ecu.edu.au](https://www.ecu.edu.au)
+ - date published: 2023-10-25T11:21:10.044075+00:00
+ - user: None
+ - tags: []
+
+## News –
+ - [https://news.flinders.edu.au](https://news.flinders.edu.au)
+ - date published: 2023-10-25T11:56:38.466808+00:00
+ - user: None
+ - tags: []
+
 ## Sites at Flinders University
  - [https://sites.flinders.edu.au](https://sites.flinders.edu.au)
  - date published: 2023-10-25T11:21:12.768059+00:00
@@ -5968,36 +5998,6 @@ Educação
 ## Code.Build 💻
  - [https://code.build](https://code.build)
  - date published: 2024-05-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Flaky Build
- - [https://flaky.build](https://flaky.build)
- - date published: 2024-02-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Fox.Build Makerspace, Hackerspace & Coworking St Charles IL
- - [https://fox.build](https://fox.build)
- - date published: 2024-04-28T04:56:21.931399+00:00
- - user: None
- - tags: []
-
-## Ko: Easy Go Containers
- - [https://ko.build](https://ko.build)
- - date published: 2023-11-08T00:37:54+00:00
- - user: None
- - tags: []
-
-## Miguel Piedrafita
- - [https://miguel.build](https://miguel.build)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Wave by Momentum
- - [https://wave.mmntm.build](https://wave.mmntm.build)
- - date published: 2024-05-06T22:32:34.317631+00:00
  - user: None
  - tags: []
 

@@ -994,6 +994,12 @@
  - user: None
  - tags: []
 
+## AI Code Review Bot
+ - [https://codereviewbot.ai](https://codereviewbot.ai)
+ - date published: 2024-05-31T10:09:09.905429+00:00
+ - user: None
+ - tags: []
+
 ## CodeStory — AI-powered mod of VSCode
  - [https://codestory.ai](https://codestory.ai)
  - date published: 2023-10-25T11:37:23.032983+00:00
@@ -5989,12 +5995,6 @@
 ## Anugerah
  - [https://anugerah.netlify.app](https://anugerah.netlify.app)
  - date published: 2024-05-09T08:27:29.832345+00:00
- - user: None
- - tags: []
-
-## Astrofy | Personal Portfolio Website Template
- - [https://astro-modern-personal-website.netlify.app](https://astro-modern-personal-website.netlify.app)
- - date published: 2024-04-29T07:28:42.208361+00:00
  - user: None
  - tags: []
 

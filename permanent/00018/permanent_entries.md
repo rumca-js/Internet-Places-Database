@@ -1,3 +1,153 @@
+## digitally induced GmbH | We combine extensive software expertise with a startup mindset
+ - [https://digitallyinduced.com](https://digitallyinduced.com)
+ - date published: 2024-05-01T05:11:19.188479+00:00
+ - user: None
+ - tags: []
+
+## IHP
+ - [https://discuss.ihp.digitallyinduced.com](https://discuss.ihp.digitallyinduced.com)
+ - date published: 2024-04-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## IHP: Integrated Haskell Platform, a batteries-included web framework built on purely functional programming technologies
+ - [https://ihp.digitallyinduced.com](https://ihp.digitallyinduced.com)
+ - date published: 2023-10-25T13:52:33.020994+00:00
+ - user: None
+ - tags: []
+
+## digitally induced GmbH | We combine extensive software expertise with a startup mindset
+ - [https://www.digitallyinduced.com](https://www.digitallyinduced.com)
+ - date published: 2024-05-01T05:11:15.163928+00:00
+ - user: None
+ - tags: []
+
+## Digital Maneuver
+ - [https://www.digitalmaneuver.com](https://www.digitalmaneuver.com)
+ - date published: 2024-05-01T02:25:35.395825+00:00
+ - user: None
+ - tags: []
+
+## Marketing Resources from Digital Marketing Depot - Research, Webinars, Whitepapers, and More
+ - [https://downloads.digitalmarketingdepot.com](https://downloads.digitalmarketingdepot.com)
+ - date published: 2024-05-08T10:02:09.613373+00:00
+ - user: None
+ - tags: []
+
+## Digital Mars C, C++ and D Compilers
+ - [https://digitalmars.com](https://digitalmars.com)
+ - date published: 2024-05-01T05:11:20.999058+00:00
+ - user: None
+ - tags: []
+
+## Digital Mars C, C++ and D Compilers
+ - [https://www.digitalmars.com](https://www.digitalmars.com)
+ - date published: 2023-10-25T13:52:34.393669+00:00
+ - user: None
+ - tags: []
+
+## Digital Music News (digitalmusicnews.com)
+ - [https://www.digitalmusicnews.com](https://www.digitalmusicnews.com)
+ - date published: 2024-02-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Digital Nomads Asia – Uniting the best talents in the digital marketing space with local businesses in Asia.
+ - [https://digitalnomadsasia.com](https://digitalnomadsasia.com)
+ - date published: 2024-05-11T11:20:36.068966+00:00
+ - user: None
+ - tags: []
+
+## DigitalOcean — The developer cloud
+ - [https://cloud.digitalocean.com](https://cloud.digitalocean.com)
+ - date published: 2024-04-26T05:15:32+00:00
+ - user: rumpel
+ - tags: ['cloud storage']
+
+## DigitalOcean | Cloud Infrastructure for Developers
+ - [https://digitalocean.com](https://digitalocean.com)
+ - date published: 2024-04-26T05:16:02+00:00
+ - user: rumpel
+ - tags: ['cloud storage']
+
+## Docs Home :: DigitalOcean Documentation
+ - [https://docs.digitalocean.com](https://docs.digitalocean.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hacktoberfest 2023
+ - [https://hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com)
+ - date published: 2024-05-06T13:19:29.021911+00:00
+ - user: None
+ - tags: ['open source', 'convention', 'programming']
+
+## DigitalOcean Feedback
+ - [https://ideas.digitalocean.com](https://ideas.digitalocean.com)
+ - date published: 2023-10-25T13:52:36.693475+00:00
+ - user: None
+ - tags: []
+
+## Attention Required! | Cloudflare
+ - [https://investors.digitalocean.com](https://investors.digitalocean.com)
+ - date published: 2024-05-01T05:12:08.570290+00:00
+ - user: None
+ - tags: []
+
+## Error
+ - [https://marketplace.digitalocean.com](https://marketplace.digitalocean.com)
+ - date published: 2024-04-28T03:13:27.164308+00:00
+ - user: None
+ - tags: []
+
+## DigitalOcean Status
+ - [https://status.digitalocean.com](https://status.digitalocean.com)
+ - date published: 2024-05-01T05:12:17.820831+00:00
+ - user: None
+ - tags: []
+
+## DigitalOcean Swag Store
+ - [http://store.digitalocean.com](http://store.digitalocean.com)
+ - date published: 2024-05-01T05:12:12.983770+00:00
+ - user: None
+ - tags: []
+
+## DigitalOcean | Cloud Hosting for Builders
+ - [https://www.digitalocean.com](https://www.digitalocean.com)
+ - date published: 2023-10-25T13:52:44.274850+00:00
+ - user: None
+ - tags: []
+
+## https://tge-data-web.nyc3.digitaloceanspaces.com
+ - [https://tge-data-web.nyc3.digitaloceanspaces.com](https://tge-data-web.nyc3.digitaloceanspaces.com)
+ - date published: 2024-01-12T18:12:33.618256+00:00
+ - user: None
+ - tags: []
+
+## Digital Photography School
+ - [https://digital-photography-school.com](https://digital-photography-school.com)
+ - date published: 2024-04-29T02:35:31.510776+00:00
+ - user: None
+ - tags: []
+
+## Domain & Digital Goods Marketplace
+ - [https://marketplace.digitalpoint.com](https://marketplace.digitalpoint.com)
+ - date published: 2024-04-30T03:05:03.356314+00:00
+ - user: None
+ - tags: []
+
+## Publishers Weekly - Issue Library
+ - [https://www.digitalpw.com](https://www.digitalpw.com)
+ - date published: 2024-05-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Tradigital Marketing Agency in West Virginia - Digital Relativity
+ - [https://digitalrelativity.com](https://digitalrelativity.com)
+ - date published: 2024-05-12T05:59:44.177279+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://store.digitalriver.com](https://store.digitalriver.com)
  - date published: 2024-05-04T13:02:49.913214+00:00
@@ -5847,156 +5997,6 @@
 ## DXX-Rebirth
  - [https://www.dxx-rebirth.com](https://www.dxx-rebirth.com)
  - date published: 2024-05-09T08:55:45.890643+00:00
- - user: None
- - tags: []
-
-## The APL Challenge
- - [https://challenge.dyalog.com](https://challenge.dyalog.com)
- - date published: 2024-05-01T07:58:28.031820+00:00
- - user: None
- - tags: []
-
-## Dyalog APL - D-functions
- - [https://dfns.dyalog.com](https://dfns.dyalog.com)
- - date published: 2023-10-25T14:00:19.708737+00:00
- - user: None
- - tags: []
-
-## DYNA // Dyalog North America APL User Meeting
- - [https://dyna.dyalog.com](https://dyna.dyalog.com)
- - date published: 2024-04-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## The APL Forge - APL Forge
- - [https://forge.dyalog.com](https://forge.dyalog.com)
- - date published: 2024-04-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dyalog Forums • Index page
- - [https://forums.dyalog.com](https://forums.dyalog.com)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dyalog version 19.0
- - [https://help.dyalog.com](https://help.dyalog.com)
- - date published: 2024-05-01T07:58:29.992253+00:00
- - user: None
- - tags: []
-
-## Sign in - Matomo
- - [https://matomo.bramley.dyalog.com](https://matomo.bramley.dyalog.com)
- - date published: 2024-05-01T07:58:42.167862+00:00
- - user: None
- - tags: []
-
-## Log in to MyDyalog
- - [https://my.dyalog.com](https://my.dyalog.com)
- - date published: 2024-05-01T07:58:36.989315+00:00
- - user: None
- - tags: []
-
-## Dyalog - Home
- - [https://www.dyalog.com](https://www.dyalog.com)
- - date published: 2023-10-25T14:00:26.538339+00:00
- - user: None
- - tags: []
-
-## 👨🏻‍💻 Marcin Dyguda | About
- - [https://www.dyguda.com](https://www.dyguda.com)
- - date published: 2024-05-11T10:07:34.395074+00:00
- - user: None
- - tags: []
-
-## Dying Light 2 – Official website
- - [https://dyinglightgame.com](https://dyinglightgame.com)
- - date published: 2023-10-30T18:27:03.121972+00:00
- - user: None
- - tags: ['video game']
-
-## Dylan Paulus
- - [https://dylanpaulus.com](https://dylanpaulus.com)
- - date published: 2024-05-01T07:58:53.546785+00:00
- - user: None
- - tags: []
-
-## Dylan Paulus
- - [https://www.dylanpaulus.com](https://www.dylanpaulus.com)
- - date published: 2023-10-25T14:00:27.457944+00:00
- - user: None
- - tags: []
-
-## Dylan Sheffer - Front-end Engineer and Accessibility Advocate
- - [https://www.dylansheffer.com](https://www.dylansheffer.com)
- - date published: 2024-05-11T10:06:58.663495+00:00
- - user: None
- - tags: []
-
-## Developer Documentation | Dylibso Developer Resources
- - [https://dev.dylibso.com](https://dev.dylibso.com)
- - date published: 2023-10-25T14:00:28.218108+00:00
- - user: None
- - tags: []
-
-## Welcome!
- - [https://dylibso.com](https://dylibso.com)
- - date published: 2023-10-25T14:00:29.744674+00:00
- - user: None
- - tags: []
-
-## Modsurfer - analyze and inspect your WebAssembly Modules and Components
- - [https://modsurfer.dylibso.com](https://modsurfer.dylibso.com)
- - date published: 2024-05-01T07:58:59.275321+00:00
- - user: None
- - tags: []
-
-## Air Quality Monitor $199
- - [http://www.dylosproducts.com](http://www.dylosproducts.com)
- - date published: 2024-05-04T13:34:01.502842+00:00
- - user: None
- - tags: []
-
-## My Dyn Account
- - [https://account.dyn.com](https://account.dyn.com)
- - date published: 2023-10-31T10:25:32.543241+00:00
- - user: None
- - tags: ['x']
-
-## Explore Cloud Native OCI DNS Service
- - [https://dyn.com](https://dyn.com)
- - date published: 2024-04-17T00:00:00+00:00
- - user: None
- - tags: ['dns']
-
-## Dyn Help Center | help.dyn.com
- - [https://help.dyn.com](https://help.dyn.com)
- - date published: 2024-05-01T07:18:57.564626+00:00
- - user: None
- - tags: []
-
-## Redirecting...
- - [https://oci.dyn.com](https://oci.dyn.com)
- - date published: 2024-05-01T07:59:03.669101+00:00
- - user: None
- - tags: []
-
-## Register domains & build your website with Dynadot!
- - [https://dynadot.com](https://dynadot.com)
- - date published: 2024-05-01T06:25:40.580426+00:00
- - user: None
- - tags: []
-
-## Dynalips - Realistic lipsync - Dynalips
- - [https://dynalips.com](https://dynalips.com)
- - date published: 2024-04-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://www.dynamicdrive.com
- - [https://www.dynamicdrive.com](https://www.dynamicdrive.com)
- - date published: 2024-01-09T02:35:24.416804+00:00
  - user: None
  - tags: []
 
