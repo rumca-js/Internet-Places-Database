@@ -95,20 +95,39 @@ Each entry can be tagged. Most notable examples of tags
 
  - open source - if entry is "open source" related
  - personal - if it seems to be a personal website
+ - personal sites source - pages where you can find more personal sites
  - self-host - software that can be self-hosted
+ - amiga - anything amiga related
+ - emulator/emulation - anything related to emulators
+ - wtf - for really interesting finds
+ - funny - anything that makes me chuckle
+ - interesting page design - self explanatory. Some pages are just fun
+ - interesting domain name - if domain name is interesting
+ - wargames - there are some old blogs about this hobby
+ - internet archive - valuable resources that protect knowledge
+
+Quite obvious tag names
+
  - company - if entry exists just to provide information about company
  - university, museum, etc - if entry provides details about a university, museum, etc.
  - disinformation / misinformation / conspiracy theories - self explanatory
  - news - if it is "news" content farm. Might be also "game news", "tech news", etc.
- - amiga - anything amiga related
- - wtf - for really interesting finds
+ - web spam - anything annoying, not worth, etc.
+ - warhammer - anything that relates to...
  - link service - bitly or other services that provide shortened versions of links
+ - radio station
  - movie - page describing a movie
  - video game - page describing a video game, etc.
- - interesting page design - self explanatory. Some pages are just fun
+ - movie - page describing a movie
+ - fan page - pages created by fans, of topics, of people
  - online tool - some things are web programs, that are not accessible if you are offline
  - monetization - if page includes some kind of monetization, subscription, loot boxes
  - ad business - if page owner work in this sector
+
+Other
+
+ - artificial intelligence bot - bots that can respond to your queries
+ - gatekeeper - platforms that are too big to fail. Monopolies, big tech, etc.
 
 # Notes
 
