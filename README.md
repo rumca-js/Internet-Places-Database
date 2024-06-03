@@ -42,6 +42,7 @@ Sources:
  - [https://aboutideasnow.com/](https://aboutideasnow.com/)
  - hacker front page entries
  - some reddit channels [r/selfhosted](https://www.reddit.com/r/selfhosted/.rss)
+ - awesome lists, like [awesome](https://github.com/sindresorhus/awesome)
 
 <div align="center">
   <img alt="Meme" src="images/ihavewatched.png" style="width:450px">
