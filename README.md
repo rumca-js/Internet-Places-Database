@@ -40,6 +40,7 @@ Sources:
  - [https://searchmysite.net/](https://searchmysite.net/)
  - [https://downloads.marginalia.nu/](https://downloads.marginalia.nu/)
  - [https://aboutideasnow.com/](https://aboutideasnow.com/)
+ - [https://neocities.org/](https://neocities.org/)
  - hacker front page entries
  - some reddit channels [r/selfhosted](https://www.reddit.com/r/selfhosted/.rss)
  - awesome lists, like [awesome](https://github.com/sindresorhus/awesome)
