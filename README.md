@@ -97,7 +97,8 @@ Each entry can be tagged. Most notable examples of tags
  - personal - if it seems to be a personal website
  - personal sites source - pages where you can find more personal sites
  - self-host - software that can be self-hosted
- - amiga - anything amiga related
+ - amiga / commodore  - anything amiga / commodore related
+ - demoscene / zx spectrum - related to this kind of music
  - emulator/emulation - anything related to emulators
  - wtf - for really interesting finds
  - funny - anything that makes me chuckle
@@ -106,7 +107,7 @@ Each entry can be tagged. Most notable examples of tags
  - wargames - there are some old blogs about this hobby
  - internet archive - valuable resources that protect knowledge
  - reverse engineering
- - hacking
+ - hacking / cubersecurity / ctf - quite explanatory
  - convention - you might be interested in one of those
 
 Quite obvious tag names
