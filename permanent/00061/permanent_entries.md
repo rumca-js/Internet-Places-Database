@@ -1,3 +1,257 @@
+ ## My Beliefs
+ - [https://beliefs.emnudge.dev](https://beliefs.emnudge.dev)
+ - date_published: 2024-04-29T07:41:19.947788+00:00
+
+ ## Home
+ - [https://emnudge.dev](https://emnudge.dev)
+ - date_published: 2023-10-25T18:37:32.803436+00:00
+
+ ## My Favorite Things
+ - [https://favorite.emnudge.dev](https://favorite.emnudge.dev)
+ - date_published: 2024-04-29T07:41:25.725874+00:00
+
+ ## Emoji Kitchen
+ - [https://emojikitchen.dev](https://emojikitchen.dev)
+ - date_published: 2023-10-25T18:37:39.002696+00:00
+
+ ## Encore — Escape your backend development burdens
+ - [https://encore.dev](https://encore.dev)
+ - date_published: 2023-11-23T13:54:15.244923+00:00
+
+ ## Join us and build the future of development - Encore
+ - [https://jobs.encore.dev](https://jobs.encore.dev)
+ - date_published: 2024-04-29T07:41:41.717556+00:00
+
+ ## Encore
+ - [https://status.encore.dev](https://status.encore.dev)
+ - date_published: 2024-04-29T07:41:43.043994+00:00
+
+ ## EndBASIC
+ - [https://repl.endbasic.dev](https://repl.endbasic.dev)
+ - date_published: 2024-04-29T07:49:22.997910+00:00
+
+ ## EndBASIC
+ - [https://www.endbasic.dev](https://www.endbasic.dev)
+ - date_published: 2024-04-29T07:49:24.738228+00:00
+
+ ## Matthias Endler
+ - [https://endler.dev](https://endler.dev)
+ - date_published: 2023-10-25T18:37:40.403164+00:00
+
+ ## endtimes.dev
+ - [https://endtimes.dev](https://endtimes.dev)
+ - date_published: 2023-10-25T18:37:42.008452+00:00
+
+ ## Chainguard
+ - [https://console.enforce.dev](https://console.enforce.dev)
+ - date_published: 2024-04-29T07:27:52.948924+00:00
+
+ ## Enhance
+ - [https://enhance.dev](https://enhance.dev)
+ - date_published: 2023-10-25T18:37:45.413755+00:00
+
+ ## Get Really Good at React
+ - [https://epicreact.dev](https://epicreact.dev)
+ - date_published: 2024-04-29T07:42:15.928621+00:00
+
+ ## Web Authentication 🔐
+ - [https://auth.epicweb.dev](https://auth.epicweb.dev)
+ - date_published: 2024-04-29T07:42:12.019064+00:00
+
+ ## Data Modeling Deep Dive 💾
+ - [https://data.epicweb.dev](https://data.epicweb.dev)
+ - date_published: 2024-04-29T07:42:18.181881+00:00
+
+ ## Professional Web Forms 📝
+ - [https://forms.epicweb.dev](https://forms.epicweb.dev)
+ - date_published: 2024-04-29T07:42:08.974265+00:00
+
+ ## Full Stack Foundations 🔭
+ - [https://foundations.epicweb.dev](https://foundations.epicweb.dev)
+ - date_published: 2024-04-29T07:42:07.417595+00:00
+
+ ## Full Stack Testing 🧪
+ - [https://testing.epicweb.dev](https://testing.epicweb.dev)
+ - date_published: 2024-04-29T07:42:14.404529+00:00
+
+ ## Ship Modern Full-Stack Web Applications
+ - [https://www.epicweb.dev](https://www.epicweb.dev)
+ - date_published: 2023-10-27T12:49:23.689681+00:00
+
+ ## Ergomake | Environments-as-a-Service
+ - [https://ergomake.dev](https://ergomake.dev)
+ - date_published: 2024-01-09T02:57:14.773368+00:00
+
+ ## Oxidizing corner
+ - [https://blog.erk.dev](https://blog.erk.dev)
+ - date_published: 2023-10-25T18:37:48.559995+00:00
+
+ ## Flutter - Crea aplicaciones para cualquier pantalla
+ - [https://esflutter.dev](https://esflutter.dev)
+ - date_published: 2024-04-29T07:44:11.020194+00:00
+
+ ## Educational Sensational Inspirational Foundational
+ - [https://esif.dev](https://esif.dev)
+ - date_published: 2023-10-25T18:37:55.517883+00:00
+
+ ## Estee's Tech Blog
+ - [https://blog.esteetey.dev](https://blog.esteetey.dev)
+ - date_published: 2024-05-06T13:14:52.028654+00:00
+
+ ## Show HN: Etcha – Infinite scale, serverless config management
+ - [https://etcha.dev](https://etcha.dev)
+ - date_published: 2023-11-18T15:39:55+00:00
+
+ ## EthanG
+ - [https://ethang.dev](https://ethang.dev)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Ethical Source: Open Source, Evolved.
+ - [https://ethicalsource.dev](https://ethicalsource.dev)
+ - date_published: 2024-05-09T02:33:36.183383+00:00
+
+ ## What is Evidence? | Evidence Docs
+ - [https://docs.evidence.dev](https://docs.evidence.dev)
+ - date_published: 2024-04-29T07:43:16.381155+00:00
+
+ ## Evidence - Business Intelligence as Code
+ - [https://evidence.dev](https://evidence.dev)
+ - date_published: 2023-10-25T18:37:57.379219+00:00
+
+ ## Join evidence on Slack
+ - [https://slack.evidence.dev](https://slack.evidence.dev)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Evolu - Local-First Platform Designed for Privacy, Ease of Use, and No Vendor Lock-In – Evolu
+ - [https://www.evolu.dev](https://www.evolu.dev)
+ - date_published: 2024-04-30T00:30:08.886685+00:00
+
+ ## // Ewal
+ - [https://ewal.dev](https://ewal.dev)
+ - date_published: 2024-05-11T10:24:37.588431+00:00
+
+ ## Exome – State manager
+ - [https://exome.dev](https://exome.dev)
+ - date_published: 2024-05-09T09:14:48.409522+00:00
+
+ ## Exposition
+ - [https://blog.expo.dev](https://blog.expo.dev)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Expo Documentation
+ - [https://docs.expo.dev](https://docs.expo.dev)
+ - date_published: 2024-05-08T09:01:15.165964+00:00
+
+ ## Expo
+ - [https://expo.dev](https://expo.dev)
+ - date_published: 2024-05-06T20:15:56.064931+00:00
+
+ ## Firebase Extensions Hub
+ - [https://extensions.dev](https://extensions.dev)
+ - date_published: 2024-05-08T07:31:43.052561+00:00
+
+ ## Ezell Frazier
+ - [https://ezell.dev](https://ezell.dev)
+ - date_published: 2024-05-06T13:58:33.020536+00:00
+
+ ## Welcome - Faceswap
+ - [https://faceswap.dev](https://faceswap.dev)
+ - date_published: 2024-03-22T00:00:00+00:00
+ - tags: ['open source', 'deep fake']
+
+ ## Faker
+ - [https://fakerjs.dev](https://fakerjs.dev)
+ - date_published: 2024-04-29T07:30:55.142540+00:00
+
+ ## Charalampos Fanoulis
+ - [https://fanoulis.dev](https://fanoulis.dev)
+ - date_published: 2024-05-09T07:45:49.225086+00:00
+
+ ## Faraday.dev
+ - [https://faraday.dev](https://faraday.dev)
+ - date_published: 2024-05-06T14:40:50.610082+00:00
+
+ ## https://farlow.dev
+ - [https://farlow.dev](https://farlow.dev)
+ - date_published: 2024-01-09T02:57:15.429770+00:00
+
+ ## Fast and low overhead web framework, for Node.js | Fastify
+ - [https://fastify.dev](https://fastify.dev)
+ - date_published: 2024-05-04T13:00:18.664451+00:00
+
+ ## Feather - Free & open source icons
+ - [https://feathericons.dev](https://feathericons.dev)
+ - date_published: 2024-05-09T07:23:06.557657+00:00
+
+ ## Federico Vitale - Software Engineer
+ - [https://fedevitale.dev](https://fedevitale.dev)
+ - date_published: 2024-05-11T10:09:14.385795+00:00
+
+ ## Home - FED Mentor
+ - [https://fedmentor.dev](https://fedmentor.dev)
+ - date_published: 2023-10-25T18:37:59.320927+00:00
+
+ ## Feep! search
+ - [https://search.feep.dev](https://search.feep.dev)
+ - date_published: 2023-10-25T18:38:00.233684+00:00
+
+ ## Fidalgo Info
+ - [https://info.fidalgo.dev](https://info.fidalgo.dev)
+ - date_published: 2024-05-11T10:20:53.334347+00:00
+
+ ## Show HN: File0 – An easier way to manage files in serverless apps
+ - [https://www.file0.dev](https://www.file0.dev)
+ - date_published: 2024-05-28T08:17:00+00:00
+
+ ## Firecrawl Docs
+ - [https://docs.firecrawl.dev](https://docs.firecrawl.dev)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Turn entire websites into LLM-ready data
+ - [https://www.firecrawl.dev](https://www.firecrawl.dev)
+ - date_published: 2024-04-13T22:32:54+00:00
+ - tags: ['web crawler']
+
+ ## Custom Domain by Bitly
+ - [https://share.firefox.dev](https://share.firefox.dev)
+ - date_published: 2024-04-29T06:28:04.916930+00:00
+
+ ## Firezone: Zero trust access that scales
+ - [https://www.firezone.dev](https://www.firezone.dev)
+ - date_published: 2024-05-04T09:44:22.070487+00:00
+
+ ## The Hippocratic License: An Ethical License for Open Source
+ - [https://firstdonoharm.dev](https://firstdonoharm.dev)
+ - date_published: 2021-01-01T00:00:00+00:00
+
+ ## Flawless - Durable Execution Engine
+ - [https://flawless.dev](https://flawless.dev)
+ - date_published: 2023-12-19T00:00:00+00:00
+
+ ## Flecs
+ - [https://flecs.dev](https://flecs.dev)
+ - date_published: 2024-04-29T07:43:55.572472+00:00
+
+ ## Flecs
+ - [https://www.flecs.dev](https://www.flecs.dev)
+ - date_published: 2023-10-25T18:38:01.033831+00:00
+
+ ## Flightcontrol Jobs
+ - [https://jobs.flightcontrol.dev](https://jobs.flightcontrol.dev)
+ - date_published: 2023-10-25T18:38:01.725933+00:00
+
+ ## The Flix Programming Language
+ - [https://flix.dev](https://flix.dev)
+ - date_published: 2023-11-26T04:54:16+00:00
+
+ ## Florimond Manca
+ - [https://florimond.dev](https://florimond.dev)
+ - date_published: 2024-05-09T08:12:03.169885+00:00
+
+ ## Flower: A Friendly Federated Learning Framework
+ - [https://flower.dev](https://flower.dev)
+ - date_published: 2023-11-16T20:06:53.497502+00:00
+
  ## Flox | Your dev environment, everywhere
  - [https://flox.dev](https://flox.dev)
  - date_published: 2024-04-29T07:14:43.818522+00:00
@@ -386,6 +640,11 @@
  ## Hardik Sachan
  - [https://hardiksachan.hashnode.dev](https://hardiksachan.hashnode.dev)
  - date_published: 2024-05-04T09:18:24.512744+00:00
+
+ ## Start a Developer Blog: Custom Domains, Sub-paths & Headless CMS Options — Hashnode
+ - [https://hashnode.dev](https://hashnode.dev)
+ - date_published: 2024-06-02T06:57:21+00:00
+ - tags: ['web hosting']
 
  ## Mike Mwanje's  blog
  - [https://mikemwanje.hashnode.dev](https://mikemwanje.hashnode.dev)
@@ -3878,263 +4137,4 @@
  - [https://victoria.dev](https://victoria.dev)
  - date_published: 2023-10-25T09:26:22.317356+00:00
  - tags: ['personal']
-
- ## Victor Pierre
- - [https://victorpierre.dev](https://victorpierre.dev)
- - date_published: 2024-02-17T00:00:00+00:00
-
- ## Vike
- - [https://vike.dev](https://vike.dev)
- - date_published: 2024-05-07T10:56:10.378926+00:00
-
- ## Vincents.dev
- - [https://vincentsg.dev](https://vincentsg.dev)
- - date_published: 2024-01-01T06:20:20.098022+00:00
-
- ## Visibly
- - [https://visibly.dev](https://visibly.dev)
- - date_published: 2023-10-25T18:43:30.995597+00:00
-
- ## VisionScript - VisionScript Documentation
- - [https://visionscript.dev](https://visionscript.dev)
- - date_published: 2023-10-25T18:43:37.995056+00:00
-
- ## The Visual Framework for life science websites
- - [https://stable.visual-framework.dev](https://stable.visual-framework.dev)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Vite | Next Generation Frontend Tooling
- - [https://vitejs.dev](https://vitejs.dev)
- - date_published: 2023-10-25T18:43:39.671574+00:00
- - tags: ['typescript', 'web server']
-
- ## VitePress | Vite & Vue Powered Static Site Generator
- - [https://vitepress.dev](https://vitepress.dev)
- - date_published: 2024-05-11T09:09:56.419559+00:00
-
- ## Vitest
- - [https://vitest.dev](https://vitest.dev)
- - date_published: 2024-04-29T07:32:05.022845+00:00
-
- ## Visual Studio Code for the Web
- - [https://vscode.dev](https://vscode.dev)
- - date_published: 2024-01-09T02:57:37.976917+00:00
-
- ## Lane's Blog
- - [https://wagslane.dev](https://wagslane.dev)
- - date_published: 2023-10-25T18:43:41.490625+00:00
-
- ## Walid Ziouche
- - [https://walid.dev](https://walid.dev)
- - date_published: 2023-10-25T18:43:48.534864+00:00
-
- ## Warp
- - [https://app.warp.dev](https://app.warp.dev)
- - date_published: 2024-04-30T02:28:45.774531+00:00
-
- ## What is Warp? | Warp Documentation
- - [https://docs.warp.dev](https://docs.warp.dev)
- - date_published: 2024-04-30T02:28:46.859403+00:00
-
- ## Warp Status
- - [https://status.warp.dev](https://status.warp.dev)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Warp: Your terminal, reimagined
- - [https://warp.dev](https://warp.dev)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Warp: Your terminal, reimagined
- - [https://www.warp.dev](https://www.warp.dev)
- - date_published: 2023-10-27T11:57:03.431124+00:00
- - tags: ['application', 'terminal']
-
- ## Warrant - Authorization & Access Control Infrastructure for Developers
- - [https://app.warrant.dev](https://app.warrant.dev)
- - date_published: 2024-04-30T02:29:19.510671+00:00
-
- ## Warrant Blog | Warrant Blog
- - [https://blog.warrant.dev](https://blog.warrant.dev)
- - date_published: 2023-10-25T18:44:06.101677+00:00
-
- ## Warrant Demo App
- - [https://demo.warrant.dev](https://demo.warrant.dev)
- - date_published: 2024-04-30T02:29:20.083309+00:00
-
- ## Introduction | Warrant Docs
- - [https://docs.warrant.dev](https://docs.warrant.dev)
- - date_published: 2024-04-30T02:29:17.547194+00:00
-
- ## Warrant | Trust Center
- - [https://security.warrant.dev](https://security.warrant.dev)
- - date_published: 2024-04-30T02:29:21.460593+00:00
-
- ## Warrant | Authorization & Access Control Infrastructure for Developers
- - [https://warrant.dev](https://warrant.dev)
- - date_published: 2024-04-30T02:29:16.616712+00:00
-
- ## Washi
- - [https://blog.washi.dev](https://blog.washi.dev)
- - date_published: 2023-10-25T18:44:10.022725+00:00
-
- ## Wasm By Example
- - [https://wasmbyexample.dev](https://wasmbyexample.dev)
- - date_published: 2023-11-15T15:16:15.958415+00:00
-
- ## wasmCloud.com Redirect
- - [https://wasmcloud.dev](https://wasmcloud.dev)
- - date_published: 2024-05-09T08:43:46.629117+00:00
-
- ## WasmFX: Effect Handlers for WebAssembly
- - [https://wasmfx.dev](https://wasmfx.dev)
- - date_published: 2023-11-07T23:04:21+00:00
-
- ## Wasm Labs at VMware OCTO
- - [https://wasmlabs.dev](https://wasmlabs.dev)
- - date_published: 2023-10-25T18:44:11.962330+00:00
-
- ## WordPress in browser / Wasm Labs
- - [https://wordpress.wasmlabs.dev](https://wordpress.wasmlabs.dev)
- - date_published: 2024-04-30T02:29:24.395863+00:00
-
- ## Wasm Workers Server | Wasm Workers Server
- - [https://workers.wasmlabs.dev](https://workers.wasmlabs.dev)
- - date_published: 2024-04-30T02:29:23.784801+00:00
-
- ## Wasp
- - [https://wasp-lang.dev](https://wasp-lang.dev)
- - date_published: 2023-10-25T18:44:13.919020+00:00
-
- ## WatermelonDB
- - [https://watermelondb.dev](https://watermelondb.dev)
- - date_published: 2024-04-30T00:30:22.603485+00:00
-
- ## Stephen Watts in Birmingham, Alabama | SEO, Web Strategy, B2B IT | 310-606-9232
- - [https://watts.dev](https://watts.dev)
- - date_published: 2024-05-09T06:18:51.409855+00:00
-
- ## Wave Terminal Blog
- - [https://blog.waveterm.dev](https://blog.waveterm.dev)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Introduction - Wave Terminal
- - [https://docs.waveterm.dev](https://docs.waveterm.dev)
- - date_published: 2024-05-10T05:15:11.027142+00:00
-
- ## Waveterm
- - [https://www.waveterm.dev](https://www.waveterm.dev)
- - date_published: 2023-12-10T03:33:48+00:00
-
- ## PageSpeed Insights
- - [https://pagespeed.web.dev](https://pagespeed.web.dev)
- - date_published: 2024-05-04T08:25:46.585361+00:00
-
- ## web.dev
- - [https://web.dev](https://web.dev)
- - date_published: 2023-10-25T18:44:17.767137+00:00
-
- ## WebArena: A Realistic Web Environment for Building Autonomous Agents
- - [https://webarena.dev](https://webarena.dev)
- - date_published: 2023-10-25T18:44:21.189861+00:00
-
- ## webbar.dev
- - [https://webbar.dev](https://webbar.dev)
- - date_published: 2024-04-30T07:16:39.887436+00:00
-
- ## Georg Tavonius Webprofil
- - [https://t.webgeist.dev](https://t.webgeist.dev)
- - date_published: 2024-04-30T02:29:58.710525+00:00
-
- ## Webgeist.dev
- - [https://webgeist.dev](https://webgeist.dev)
- - date_published: 2023-12-12T23:23:10.380140+00:00
- - tags: ['personal']
-
- ## Jeff Triplett's Micro.blog
- - [https://micro.webology.dev](https://micro.webology.dev)
- - date_published: 2024-03-23T00:00:00+00:00
-
- ## New Website Tutorials - WordPress Website Help, Tutorials, Courses, and More!
- - [https://websitewizard.dev](https://websitewizard.dev)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Home | Andy Hippo
- - [https://werat.dev](https://werat.dev)
- - date_published: 2023-10-25T18:44:22.806744+00:00
-
- ## Gustav Westling
- - [https://westling.dev](https://westling.dev)
- - date_published: 2023-10-25T18:44:24.486704+00:00
-
- - [https://wgrant.dev](https://wgrant.dev)
- - date_published: 2024-04-08T09:32:59.180181+00:00
-
- ## mike wheaton
- - [https://wheaton.dev](https://wheaton.dev)
- - date_published: 2024-04-29T07:32:19.694927+00:00
-
- ## WillAdamsDotDev
- - [https://willadams.dev](https://willadams.dev)
- - date_published: 2024-05-11T10:06:46.908496+00:00
-
- ## willbush
- - [https://willbush.dev](https://willbush.dev)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Boost your Go/Golang skills. One article at a time.
- - [https://www.willem.dev](https://www.willem.dev)
- - date_published: 2024-01-06T17:32:27.814127+00:00
-
- ## Home | Will Webberley
- - [https://wilw.dev](https://wilw.dev)
- - date_published: 2024-05-09T07:59:14.754023+00:00
-
- ## Windmill Hub
- - [https://hub.windmill.dev](https://hub.windmill.dev)
- - date_published: 2024-04-30T02:30:33.378500+00:00
-
- ## https://www.windmill.dev
- - [https://www.windmill.dev](https://www.windmill.dev)
- - date_published: 2024-01-09T02:57:38.660705+00:00
-
- ## Drew Winstel
- - [https://winstel.dev](https://winstel.dev)
- - date_published: 2024-05-11T10:03:51.233482+00:00
-
- ## A corner of the internet for people who love building digital products.
- - [https://www.wking.dev](https://www.wking.dev)
- - date_published: 2023-11-06T19:19:56.497567+00:00
-
- ## wonger's website
- - [https://wonger.dev](https://wonger.dev)
- - date_published: 2024-05-07T23:28:04.511007+00:00
-
- ## PostHog
- - [https://ph.justadd.workers.dev](https://ph.justadd.workers.dev)
- - date_published: 2023-07-07T00:00:00+00:00
-
- ## https://readable_techcrunch.mvlab.workers.dev
- - [https://readable_techcrunch.mvlab.workers.dev](https://readable_techcrunch.mvlab.workers.dev)
- - date_published: 2024-01-09T02:57:39.772632+00:00
-
- ## Thoughts for CTOs, Tech Leads and Software Architects
- - [https://www.workingsoftware.dev](https://www.workingsoftware.dev)
- - date_published: 2023-10-25T18:44:29.024808+00:00
-
- ## WSCP's blog
- - [https://wscp.dev](https://wscp.dev)
- - date_published: 2024-01-09T01:38:06.059471+00:00
-
- ## dotMorten | .NET Ramblings, XAML hacking and some GIS endeavors
- - [http://www.xaml.dev](http://www.xaml.dev)
- - date_published: 2024-04-30T02:30:54.210823+00:00
-
- ## dotMorten | .NET Ramblings, XAML hacking and some GIS endeavors
- - [https://xaml.dev](https://xaml.dev)
- - date_published: 2023-10-25T08:59:01.383042+00:00
- - tags: ['personal']
-
- ## XD1 Log entries. Begin... Â· Hyprland crash course
- - [https://xd1.dev](https://xd1.dev)
- - date_published: 2024-03-18T00:00:00+00:00
 

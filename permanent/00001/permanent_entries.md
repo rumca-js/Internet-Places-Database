@@ -1325,6 +1325,10 @@
  - [https://quick-edit-demo.vercel.app](https://quick-edit-demo.vercel.app)
  - date_published: 2024-05-06T14:40:29.182157+00:00
 
+ ## Quincy Oghenetejiri || Software Developer
+ - [https://quincyoghenetejiri.vercel.app](https://quincyoghenetejiri.vercel.app)
+ - date_published: 2024-06-02T07:03:15.909336+00:00
+
  ## Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai
  - [https://ragdoll-studio.vercel.app](https://ragdoll-studio.vercel.app)
  - date_published: 2024-03-31T05:43:15+00:00
@@ -4065,8 +4069,4 @@
  ## School of Computing
  - [https://comp.anu.edu.au](https://comp.anu.edu.au)
  - date_published: 2024-04-28T03:36:58.813019+00:00
-
- ## ANU College of Law
- - [https://law.anu.edu.au](https://law.anu.edu.au)
- - date_published: 2024-05-04T12:48:46.754272+00:00
 

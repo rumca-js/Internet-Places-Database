@@ -1,3 +1,7 @@
+ ## 精神食粮
+ - [https://depth.buzzing.cc](https://depth.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
  ## Hacker News 最新提交
  - [https://hnnew.buzzing.cc](https://hnnew.buzzing.cc)
  - date_published: 2024-05-12T06:42:14.113999+00:00
@@ -99,7 +103,7 @@
  ## Show HN: Resource Index – FOSS Git Repository and NPM Package Index
  - [https://res-index.hkit.cc](https://res-index.hkit.cc)
  - date_published: 2024-05-30T03:18:40+00:00
- - tags: ['open source', 'programming library', 'search engine']
+ - tags: ['package search', 'programming library', 'open source']
 
  ## Haotian Liu
  - [https://hliu.cc](https://hliu.cc)
@@ -3324,7 +3328,7 @@
  ## Click
  - [https://clickclickclick.click](https://clickclickclick.click)
  - date_published: 2023-10-25T11:07:58.518463+00:00
- - tags: ['wtf', 'weird', 'funny']
+ - tags: ['funny', 'weird', 'interesting domain name', 'wtf']
 
  ## Write an email to Santa Claus!
  - [https://hohoho.click](https://hohoho.click)
@@ -4045,8 +4049,4 @@
  - [https://justuk.club](https://justuk.club)
  - date_published: 2024-05-04T10:01:23.959716+00:00
  - tags: ['gambling']
-
- ## Play football near me | Kickabout
- - [https://kickabout.club](https://kickabout.club)
- - date_published: 2024-05-11T07:17:57.434098+00:00
 

@@ -1,3 +1,259 @@
+ ## School of Global Policy and Strategy
+ - [https://gps.ucsd.edu](https://gps.ucsd.edu)
+ - date_published: 2024-05-07T21:01:58.215434+00:00
+
+ ## Grad Ed & Postdoc Affrs
+ - [https://grad.ucsd.edu](https://grad.ucsd.edu)
+ - date_published: 2024-05-07T21:07:25.397224+00:00
+
+ ## Herbgrind analyzes binaries to find inaccurate floating point expressions
+ - [https://herbgrind.ucsd.edu](https://herbgrind.ucsd.edu)
+ - date_published: 2024-02-26T22:35:09+00:00
+
+ ## UC San Diego Herbert Wertheim School of Public Health and Human Longevity Science
+ - [https://hwsph.ucsd.edu](https://hwsph.ucsd.edu)
+ - date_published: 2024-05-07T21:07:30.231970+00:00
+
+ ## Information Theory and Applications Workshop
+ - [https://ita.ucsd.edu](https://ita.ucsd.edu)
+ - date_published: 2024-05-04T15:43:42.162848+00:00
+
+ ## Home | Jacobs School of Engineering
+ - [https://jacobsschool.ucsd.edu](https://jacobsschool.ucsd.edu)
+ - date_published: 2024-05-07T21:07:44.469671+00:00
+
+ ## Welcome to KIBM | Kavli Institute for Brain & Mind
+ - [https://kibm.ucsd.edu](https://kibm.ucsd.edu)
+ - date_published: 2024-02-08T17:58:45.152063+00:00
+
+ ## Index of /
+ - [https://mathweb.ucsd.edu](https://mathweb.ucsd.edu)
+ - date_published: 2024-05-06T22:45:49.583465+00:00
+
+ ## UC San Diego School of Medicine
+ - [https://medschool.ucsd.edu](https://medschool.ucsd.edu)
+ - date_published: 2024-05-07T21:07:32.978621+00:00
+
+ ## Miller Puckette
+ - [https://msp.ucsd.edu](https://msp.ucsd.edu)
+ - date_published: 2024-01-09T03:28:22.857191+00:00
+
+ ## Philip Guo - UC San Diego
+ - [https://pg.ucsd.edu](https://pg.ucsd.edu)
+ - date_published: 2024-05-07T14:57:24.157789+00:00
+
+ ## Home | Pharmacogenomics
+ - [https://pharmacogenomics.ucsd.edu](https://pharmacogenomics.ucsd.edu)
+ - date_published: 2024-02-08T16:21:07.592803+00:00
+
+ ## Home | Skaggs School of Pharmacy and Pharmaceutical Sciences
+ - [https://pharmacy.ucsd.edu](https://pharmacy.ucsd.edu)
+ - date_published: 2024-05-07T21:02:18.473109+00:00
+
+ ## School of Physical Sciences
+ - [https://physicalsciences.ucsd.edu](https://physicalsciences.ucsd.edu)
+ - date_published: 2024-05-07T21:07:39.195102+00:00
+
+ ## Home | Department of Physics
+ - [http://physics.ucsd.edu](http://physics.ucsd.edu)
+ - date_published: 2024-05-07T15:17:04.240347+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [http://pisa.ucsd.edu](http://pisa.ucsd.edu)
+ - date_published: 2024-05-01T08:47:32.993150+00:00
+
+ ## Police Department
+ - [https://police.ucsd.edu](https://police.ucsd.edu)
+ - date_published: 2024-05-07T21:00:32.062479+00:00
+
+ ## Rady School of Management
+ - [https://rady.ucsd.edu](https://rady.ucsd.edu)
+ - date_published: 2024-05-07T21:07:46.518473+00:00
+
+ ## Scripps Institution of Oceanography
+ - [https://scripps.ucsd.edu](https://scripps.ucsd.edu)
+ - date_published: 2024-05-07T21:01:41.337120+00:00
+
+ ## School of Social Sciences
+ - [http://socialsciences.ucsd.edu](http://socialsciences.ucsd.edu)
+ - date_published: 2024-05-07T21:07:41.621478+00:00
+
+ ## SPACES: REDEFINING EMPOWERMENT
+ - [http://spaces.ucsd.edu](http://spaces.ucsd.edu)
+ - date_published: 2024-05-12T03:54:55.373344+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [http://terrano.ucsd.edu](http://terrano.ucsd.edu)
+ - date_published: 2024-05-04T15:43:45.661503+00:00
+
+ ## Tom Murphy
+ - [https://tmurphy.physics.ucsd.edu](https://tmurphy.physics.ucsd.edu)
+ - date_published: 2024-05-07T21:00:52.342444+00:00
+
+ ## UC San Diego Today
+ - [https://today.ucsd.edu](https://today.ucsd.edu)
+ - date_published: 2023-12-18T14:34:21.556636+00:00
+
+ ## University of California San Diego
+ - [https://ucsd.edu](https://ucsd.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## UC San Diego Today
+ - [https://ucsdnews.ucsd.edu](https://ucsdnews.ucsd.edu)
+ - date_published: 2024-01-09T03:28:28.295212+00:00
+
+ ## Undergraduate Education
+ - [https://undergrad.ucsd.edu](https://undergrad.ucsd.edu)
+ - date_published: 2024-05-07T21:07:23.201886+00:00
+
+ ## University Communications
+ - [https://univcomms.ucsd.edu](https://univcomms.ucsd.edu)
+ - date_published: 2024-05-07T21:02:06.679262+00:00
+
+ ## Cog Sci
+ - [http://www.cogsci.ucsd.edu](http://www.cogsci.ucsd.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Home | Electrical and Computer Engineering
+ - [https://www.ece.ucsd.edu](https://www.ece.ucsd.edu)
+ - date_published: 2024-05-04T15:43:54.769842+00:00
+
+ ## Mathematical Neuroscience Lab
+ - [http://www.silva.ucsd.edu](http://www.silva.ucsd.edu)
+ - date_published: 2024-05-07T21:01:46.744170+00:00
+
+ ## University of California San Diego
+ - [https://www.ucsd.edu](https://www.ucsd.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Events Calendar
+ - [https://calendar.ucsf.edu](https://calendar.ucsf.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Campus Life Services | Campus Life Services
+ - [https://campuslifeserviceshome.ucsf.edu](https://campuslifeserviceshome.ucsf.edu)
+ - date_published: 2024-05-07T21:08:30.121576+00:00
+
+ ## Campus Life Services
+ - [https://campuslifeservices.ucsf.edu](https://campuslifeservices.ucsf.edu)
+ - date_published: 2024-05-07T21:07:51.271045+00:00
+
+ ## Home
+ - [https://career.ucsf.edu](https://career.ucsf.edu)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Welcome to the General Catalog of the University of California, San Francisco | UC San Francisco
+ - [https://catalog.ucsf.edu](https://catalog.ucsf.edu)
+ - date_published: 2024-05-07T21:09:22.619700+00:00
+
+ ## Home | Office of the Chancellor
+ - [https://chancellor.ucsf.edu](https://chancellor.ucsf.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Clinical Trials at UCSF
+ - [https://clinicaltrials.ucsf.edu](https://clinicaltrials.ucsf.edu)
+ - date_published: 2024-05-07T21:09:34.197296+00:00
+
+ ## COVID-19 Resources
+ - [https://coronavirus.ucsf.edu](https://coronavirus.ucsf.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home | School of Dentistry
+ - [http://dentistry.ucsf.edu](http://dentistry.ucsf.edu)
+ - date_published: 2024-05-07T21:09:37.870275+00:00
+
+ ## UCSF Directory
+ - [https://directory.ucsf.edu](https://directory.ucsf.edu)
+ - date_published: 2024-05-07T21:09:41.945405+00:00
+
+ ## Homepage | Office of Diversity and Outreach UCSF
+ - [https://diversity.ucsf.edu](https://diversity.ucsf.edu)
+ - date_published: 2024-05-07T21:09:29.897306+00:00
+
+ ## Sign In
+ - [https://email.ucsf.edu](https://email.ucsf.edu)
+ - date_published: 2024-05-07T21:09:17.604072+00:00
+
+ ## EVCP Organization | Executive Vice Chancellor & Provost
+ - [https://evcprovost.ucsf.edu](https://evcprovost.ucsf.edu)
+ - date_published: 2024-05-07T21:09:06.650556+00:00
+
+ ## About Our Services
+ - [https://fas.ucsf.edu](https://fas.ucsf.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## UCSF Student Financial Services
+ - [https://finaid.ucsf.edu](https://finaid.ucsf.edu)
+ - date_published: 2024-05-07T21:08:08.320300+00:00
+
+ ## Your gift can ignite discovery and inspire cures
+ - [https://giving.ucsf.edu](https://giving.ucsf.edu)
+ - date_published: 2024-05-07T21:08:41.367080+00:00
+
+ ## UCSF Institute for Global Health Sciences | Institute for Global Health Sciences
+ - [https://globalhealthsciences.ucsf.edu](https://globalhealthsciences.ucsf.edu)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## UC San Francisco Graduate Division
+ - [https://graduate.ucsf.edu](https://graduate.ucsf.edu)
+ - date_published: 2024-05-07T21:09:36.451286+00:00
+
+ ## UCSF Human Resources | UCSF Human Resources
+ - [https://hr.ucsf.edu](https://hr.ucsf.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home
+ - [https://identity.ucsf.edu](https://identity.ucsf.edu)
+ - date_published: 2024-05-07T21:09:27.329315+00:00
+
+ ## About Us
+ - [https://innovation.ucsf.edu](https://innovation.ucsf.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home | UCSF IT
+ - [https://it.ucsf.edu](https://it.ucsf.edu)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Office of Legal Affairs
+ - [https://legal.ucsf.edu](https://legal.ucsf.edu)
+ - date_published: 2024-05-07T21:09:13.745970+00:00
+
+ ## UCSF Magazine
+ - [https://magazine.ucsf.edu](https://magazine.ucsf.edu)
+ - date_published: 2024-05-07T21:09:44.345297+00:00
+
+ ## Home | UCSF School of Medicine
+ - [https://medschool.ucsf.edu](https://medschool.ucsf.edu)
+ - date_published: 2024-05-07T21:09:09.026443+00:00
+
+ ## University of California, San Francisco - MyAccess - Loading Session Information
+ - [https://myaccess.ucsf.edu](https://myaccess.ucsf.edu)
+ - date_published: 2024-05-07T21:08:39.463840+00:00
+
+ ## Home
+ - [http://nic.ucsf.edu](http://nic.ucsf.edu)
+ - date_published: 2024-05-02T10:08:50.424455+00:00
+
+ ## Home | UCSF School of Nursing
+ - [https://nursing.ucsf.edu](https://nursing.ucsf.edu)
+ - date_published: 2024-05-07T21:09:24.970801+00:00
+
+ ## UCSF School of Pharmacy
+ - [https://pharmacy.ucsf.edu](https://pharmacy.ucsf.edu)
+ - date_published: 2024-05-07T21:08:11.071638+00:00
+
+ ## Home
+ - [https://police.ucsf.edu](https://police.ucsf.edu)
+ - date_published: 2024-05-07T21:08:45.814832+00:00
+
+ ## Home | Campus Administrative Policies
+ - [https://policies.ucsf.edu](https://policies.ucsf.edu)
+ - date_published: 2024-05-07T21:08:12.703899+00:00
+
+ ## UCSF Postdocs
+ - [https://postdocs.ucsf.edu](https://postdocs.ucsf.edu)
+ - date_published: 2024-05-07T21:08:43.275417+00:00
+
  ## UCSF Profiles • Find/collaborate with leading health researchers
  - [https://profiles.ucsf.edu](https://profiles.ucsf.edu)
  - date_published: 2024-05-07T21:08:27.094538+00:00
@@ -3749,261 +4005,4 @@
  ## Home Page - UW Medicine | Newsroom
  - [https://newsroom.uw.edu](https://newsroom.uw.edu)
  - date_published: 2024-05-07T00:00:00+00:00
-
- ## Polar Science Center
- - [https://psc.apl.uw.edu](https://psc.apl.uw.edu)
- - date_published: 2024-05-07T15:32:13.441621+00:00
-
- ## UW Sustainability
- - [https://sustainability.uw.edu](https://sustainability.uw.edu)
- - date_published: 2024-05-07T22:26:50.061737+00:00
-
- ## TIME honors protein designer David Baker
- - [https://uw.edu](https://uw.edu)
- - date_published: 2024-05-07T22:25:42.739738+00:00
-
- ## Home - UW Professional & Continuing Education
- - [https://www.pce.uw.edu](https://www.pce.uw.edu)
- - date_published: 2024-05-07T22:27:33.421412+00:00
-
- ## UW Online - Integrated Social Sciences Bachelor’s Degree
- - [https://www.socialsciencesonline.uw.edu](https://www.socialsciencesonline.uw.edu)
- - date_published: 2024-04-29T05:28:47.102153+00:00
-
- ## UW Tacoma Home | About UW Tacoma | University of Washington Tacoma
- - [https://www.tacoma.uw.edu](https://www.tacoma.uw.edu)
- - date_published: 2024-05-07T22:27:46.470284+00:00
-
- ## TIME honors protein designer David Baker
- - [http://www.uw.edu](http://www.uw.edu)
- - date_published: 2024-05-07T22:26:44.748743+00:00
-
- ## Homepage - The University of Washington Bothell
- - [https://www.uwb.edu](https://www.uwb.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## University of Wisconsin-Milwaukee
- - [https://uwm.edu](https://uwm.edu)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## University of Wisconsin-Milwaukee
- - [http://www.uwm.edu](http://www.uwm.edu)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## University of Wyoming - Acalog ACMS™
- - [https://acalogcatalog.uwyo.edu](https://acalogcatalog.uwyo.edu)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## UWYO Faculty & Staff Directory Search
- - [https://directory.uwyo.edu](https://directory.uwyo.edu)
- - date_published: 2024-05-11T11:34:02.930933+00:00
-
- ## University of Wyoming Open Journals
- - [https://journals.uwyo.edu](https://journals.uwyo.edu)
- - date_published: 2024-05-08T08:43:06.439668+00:00
-
- ## uwyo-search
- - [https://search.uwyo.edu](https://search.uwyo.edu)
- - date_published: 2024-05-11T11:34:12.302879+00:00
-
- ## University of Wyoming | UW | Laramie, Wyoming
- - [https://www.uwyo.edu](https://www.uwyo.edu)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## WyoWeb - University of Wyoming Intranet Portal
- - [https://wyoweb.uwyo.edu](https://wyoweb.uwyo.edu)
- - date_published: 2024-05-11T11:34:36.210756+00:00
-
- ## Atlas Login - Valencia College
- - [https://atlas.valenciacollege.edu](https://atlas.valenciacollege.edu)
- - date_published: 2024-05-07T22:17:02.196311+00:00
-
- ## Valencia College | Valencia College
- - [https://catalog.valenciacollege.edu](https://catalog.valenciacollege.edu)
- - date_published: 2024-05-07T22:17:08.032513+00:00
-
- ## Events Calendar
- - [https://events.valenciacollege.edu](https://events.valenciacollege.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Valencia College International Student Services
- - [https://international.valenciacollege.edu](https://international.valenciacollege.edu)
- - date_published: 2024-05-07T22:16:52.630065+00:00
-
- ## Valencia College News
- - [https://news.valenciacollege.edu](https://news.valenciacollege.edu)
- - date_published: 2024-05-07T22:16:49.359079+00:00
-
- ## Sign in to your account
- - [https://online.valenciacollege.edu](https://online.valenciacollege.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Valencia College
- - [https://valenciacollege.edu](https://valenciacollege.edu)
- - date_published: 2023-11-27T12:19:39+00:00
- - tags: ['college']
-
- ## ValpoScholar | Valparaiso University Research
- - [http://scholar.valpo.edu](http://scholar.valpo.edu)
- - date_published: 2024-05-07T19:19:19.956824+00:00
-
- ## Home - School of Medicine
- - [https://medschool.vanderbilt.edu](https://medschool.vanderbilt.edu)
- - date_published: 2024-05-10T05:25:10.027246+00:00
-
- ## School of Nursing | Vanderbilt University
- - [https://nursing.vanderbilt.edu](https://nursing.vanderbilt.edu)
- - date_published: 2024-05-10T05:25:22.888442+00:00
-
- ## Jean and Alexander Heard Libraries | Vanderbilt University
- - [https://www.library.vanderbilt.edu](https://www.library.vanderbilt.edu)
- - date_published: 2024-05-10T05:25:04.278038+00:00
-
- ## Vanderbilt University
- - [https://www.vanderbilt.edu](https://www.vanderbilt.edu)
- - date_published: 2024-05-10T05:24:56.668547+00:00
-
- ## VCU Events Calendar
- - [https://academiccalendars.vcu.edu](https://academiccalendars.vcu.edu)
- - date_published: 2024-05-07T22:23:30.939978+00:00
-
- ## Commitment to Privacy
- - [https://accessibility.vcu.edu](https://accessibility.vcu.edu)
- - date_published: 2024-05-07T22:23:21.226757+00:00
-
- ## Commitment to Privacy
- - [https://alert.vcu.edu](https://alert.vcu.edu)
- - date_published: 2024-05-07T22:22:25.856789+00:00
-
- ## A to Z Directory – Virginia Commonwealth University
- - [https://atoz.vcu.edu](https://atoz.vcu.edu)
- - date_published: 2024-05-07T22:22:37.154832+00:00
-
- ## Commitment to Privacy
- - [https://blackboard.vcu.edu](https://blackboard.vcu.edu)
- - date_published: 2024-05-07T22:23:07.526939+00:00
-
- ## Commitment to Privacy
- - [https://branding.vcu.edu](https://branding.vcu.edu)
- - date_published: 2024-05-07T22:23:10.475683+00:00
-
- ## VCU Office of Development and Alumni Relations
- - [https://campaign.vcu.edu](https://campaign.vcu.edu)
- - date_published: 2024-05-07T22:22:21.007981+00:00
-
- ## Commitment to Privacy
- - [https://community.vcu.edu](https://community.vcu.edu)
- - date_published: 2024-05-07T22:23:15.462966+00:00
-
- ## Commitment to Privacy
- - [https://equity.vcu.edu](https://equity.vcu.edu)
- - date_published: 2024-05-07T22:23:51.579209+00:00
-
- ## Commitment to Privacy
- - [http://finaid.vcu.edu](http://finaid.vcu.edu)
- - date_published: 2024-05-07T22:23:40.677248+00:00
-
- ## go.vcu.edu Keywords
- - [http://go.vcu.edu](http://go.vcu.edu)
- - date_published: 2024-05-07T22:22:44.596979+00:00
-
- ## Commitment to Privacy
- - [https://hr.vcu.edu](https://hr.vcu.edu)
- - date_published: 2024-05-07T22:23:23.570094+00:00
-
- ## Commitment to Privacy
- - [http://inclusive.vcu.edu](http://inclusive.vcu.edu)
- - date_published: 2024-05-07T22:22:23.118076+00:00
-
- ## Commitment to Privacy
- - [https://intranet.massey.vcu.edu](https://intranet.massey.vcu.edu)
- - date_published: 2024-05-08T10:02:46.573679+00:00
-
- ## Commitment to Privacy
- - [http://maps.vcu.edu](http://maps.vcu.edu)
- - date_published: 2024-05-07T22:22:29.034319+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://my.vcu.edu](https://my.vcu.edu)
- - date_published: 2024-05-07T22:23:29.894456+00:00
-
- ## VCU News
- - [http://news.vcu.edu](http://news.vcu.edu)
- - date_published: 2024-05-07T22:22:46.409257+00:00
-
- ## A to Z Directory – Virginia Commonwealth University
- - [http://people.vcu.edu](http://people.vcu.edu)
- - date_published: 2024-05-07T22:23:43.856583+00:00
-
- ## Commitment to Privacy
- - [https://phonebook.vcu.edu](https://phonebook.vcu.edu)
- - date_published: 2024-05-07T22:23:54.415047+00:00
-
- ## Commitment to Privacy
- - [https://president.vcu.edu](https://president.vcu.edu)
- - date_published: 2024-05-07T22:22:59.857284+00:00
-
- ## Commitment to Privacy
- - [https://rar.vcu.edu](https://rar.vcu.edu)
- - date_published: 2024-05-07T22:22:24.510862+00:00
-
- ## Commitment to Privacy
- - [https://realtime.vcu.edu](https://realtime.vcu.edu)
- - date_published: 2024-05-07T22:23:52.910462+00:00
-
- ## Commitment to Privacy
- - [https://socialmedia.vcu.edu](https://socialmedia.vcu.edu)
- - date_published: 2024-05-07T22:23:59.114398+00:00
-
- ## Commitment to Privacy
- - [https://ts.vcu.edu](https://ts.vcu.edu)
- - date_published: 2024-05-01T05:49:31.967560+00:00
-
- ## Commitment to Privacy
- - [https://vcu.edu](https://vcu.edu)
- - date_published: 2024-05-07T22:22:38.590113+00:00
-
- ## Commitment to Privacy
- - [http://www.germanstories.vcu.edu](http://www.germanstories.vcu.edu)
- - date_published: 2024-05-07T22:22:31.206514+00:00
-
- ## Commitment to Privacy
- - [https://www.library.vcu.edu](https://www.library.vcu.edu)
- - date_published: 2024-05-07T22:23:09.110392+00:00
-
- ## Commitment to Privacy
- - [http://www.maps.vcu.edu](http://www.maps.vcu.edu)
- - date_published: 2024-05-07T22:22:40.418157+00:00
-
- ## Commitment to Privacy
- - [http://www.medschool.vcu.edu](http://www.medschool.vcu.edu)
- - date_published: 2024-05-07T22:23:05.087388+00:00
-
- ## Commitment to Privacy
- - [http://www.ocpe.vcu.edu](http://www.ocpe.vcu.edu)
- - date_published: 2024-05-07T22:23:45.980133+00:00
-
- ## Commitment to Privacy
- - [http://www.opds.vcu.edu](http://www.opds.vcu.edu)
- - date_published: 2024-05-07T22:23:33.140061+00:00
-
- ## A to Z Directory – Virginia Commonwealth University
- - [https://www.people.vcu.edu](https://www.people.vcu.edu)
- - date_published: 2024-01-09T03:28:53.327442+00:00
-
- ## VCU Office of Development and Alumni Relations
- - [https://www.support.vcu.edu](https://www.support.vcu.edu)
- - date_published: 2024-05-07T22:23:11.783850+00:00
-
- ## Commitment to Privacy
- - [https://www.vcu.edu](https://www.vcu.edu)
- - date_published: 2024-05-01T07:04:40.905570+00:00
-
- ## Home | UVA Accessibility
- - [https://accessibility.virginia.edu](https://accessibility.virginia.edu)
- - date_published: 2024-05-09T06:36:08.768724+00:00
-
- ## Home
- - [https://as.virginia.edu](https://as.virginia.edu)
- - date_published: 2024-03-11T22:06:48.813698+00:00
 

@@ -1,3 +1,16 @@
+ ## Alexander's Blog | Alexander's Blog
+ - [https://www.alexanderlolis.com](https://www.alexanderlolis.com)
+ - date_published: 2024-06-01T04:49:57.474306+00:00
+
+ ## Alexander Obenauer
+ - [https://alexanderobenauer.com](https://alexanderobenauer.com)
+ - date_published: 2023-10-25T12:37:47.022909+00:00
+ - tags: ['personal']
+
+ ## Members of the Little Lab
+ - [https://members.alexanderobenauer.com](https://members.alexanderobenauer.com)
+ - date_published: 2024-05-01T03:04:08.470992+00:00
+
  ## Alexander Podelko's Home Page
  - [http://alexanderpodelko.com](http://alexanderpodelko.com)
  - date_published: 2024-05-06T23:03:51.695437+00:00
@@ -1827,6 +1840,10 @@
  - [https://amfamlabs.com](https://amfamlabs.com)
  - date_published: 2019-09-13T00:00:00+00:00
 
+ ## AMF 2024 | October 19th | Johan Cruijff ArenA
+ - [https://amf-festival.com](https://amf-festival.com)
+ - date_published: 2024-06-02T10:57:17.583799+00:00
+
  ## Discover Amgen and Search Our Jobs and Careers in Biotechnology
  - [https://careers.amgen.com](https://careers.amgen.com)
  - date_published: 2024-04-29T03:57:04.248755+00:00
@@ -2906,8 +2923,14 @@
  - date_published: 2024-01-13T22:52:43.550542+00:00
 
  ## Angelfire: Welcome to Angelfire
+ - [http://angelfire.com](http://angelfire.com)
+ - date_published: 2024-06-02T10:48:24+00:00
+ - tags: ['web hosting']
+
+ ## Angelfire: Welcome to Angelfire
  - [http://www.angelfire.com](http://www.angelfire.com)
  - date_published: 2024-05-07T16:02:49.480365+00:00
+ - tags: ['web hosting']
 
  ## Angelic Workshop
  - [https://angelicworkshop.com](https://angelicworkshop.com)
@@ -4165,24 +4188,4 @@ my personal blog
  ## Homepage - Apple Hints
  - [http://applehints.com](http://applehints.com)
  - date_published: 2024-05-08T04:06:24.377671+00:00
-
- ## apple-history.com / specs for every apple computer, established 1996
- - [https://apple-history.com](https://apple-history.com)
- - date_published: 2024-01-09T02:29:45.944627+00:00
-
- ## Apple News, Rumors, Reviews, Prices & Deals | AppleInsider
- - [https://appleinsider.com](https://appleinsider.com)
- - date_published: 2023-10-25T12:42:44.329223+00:00
-
- ## View Discussions and Categories on AppleInsider Forums
- - [https://forums.appleinsider.com](https://forums.appleinsider.com)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## AppleMagazine.com | The Latest Apple News, Every Day
- - [https://applemagazine.com](https://applemagazine.com)
- - date_published: 2023-10-25T12:42:52.057825+00:00
-
- ## Marketing Tools and Resources - Apple Services
- - [https://tools.applemediaservices.com](https://tools.applemediaservices.com)
- - date_published: 2024-05-01T03:15:57.333566+00:00
 

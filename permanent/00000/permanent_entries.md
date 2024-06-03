@@ -3774,6 +3774,7 @@
  ## iSH
  - [https://ish.app](https://ish.app)
  - date_published: 2024-05-04T15:17:55.168509+00:00
+ - tags: ['project']
 
  ## Use JSDoc: Index
  - [https://jsdoc.app](https://jsdoc.app)

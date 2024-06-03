@@ -1,3 +1,80 @@
+ ## The Dumbphones Blog · The Dumbphones Blog
+ - [https://dumbph.com](https://dumbph.com)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## Dynamic Dummy Image Generator - DummyImage.com
+ - [https://dummyimage.com](https://dummyimage.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## DummyJSON - Fake REST API of JSON data for development
+ - [https://dummyjson.com](https://dummyjson.com)
+ - date_published: 2024-04-28T04:22:25.588457+00:00
+
+ ## Documentary - Dumpling Connection
+ - [https://www.dumplingconnection.com](https://www.dumplingconnection.com)
+ - date_published: 2024-05-07T15:14:10.210591+00:00
+
+ ## Bar & Line
+ - [https://blog.duncangeere.com](https://blog.duncangeere.com)
+ - date_published: 2023-12-03T02:38:03.034981+00:00
+
+ ## Duncan Geere
+ - [https://duncangeere.com](https://duncangeere.com)
+ - date_published: 2024-05-10T06:10:47.227227+00:00
+
+ ## Duncan Geere
+ - [https://www.duncangeere.com](https://www.duncangeere.com)
+ - date_published: 2023-12-03T10:58:21.192847+00:00
+ - tags: ['personal']
+
+ ## Duncan McClean
+ - [https://duncanmcclean.com](https://duncanmcclean.com)
+ - date_published: 2024-05-11T10:24:45.463962+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://dune.com](https://dune.com)
+ - date_published: 2024-04-30T06:29:48.276829+00:00
+ - tags: ['crypto', 'shady']
+
+ ## Arrakis - The DUNE 2 page by Stefan Hendriks, hosted on FED2k
+ - [http://arrakis.dune2k.com](http://arrakis.dune2k.com)
+ - date_published: 2024-05-09T09:10:42.123896+00:00
+ - tags: ['dune 2', 'video game port', 'dune', 'open source', 'retro games']
+
+ ## FED2k »
+ - [https://dune2k.com](https://dune2k.com)
+ - date_published: 2024-05-13T03:46:25.246507+00:00
+ - tags: ['fan page', 'dune game', 'dune']
+
+ ## DuneInfo - Dune - Behind The Scenes
+ - [https://www.duneinfo.com](https://www.duneinfo.com)
+ - date_published: 2024-05-07T14:04:04+00:00
+ - tags: ['dune', 'movie']
+
+ ## Dune: Part Two | Official Movie Site
+ - [https://www.dunemovie.com](https://www.dunemovie.com)
+ - date_published: 2023-11-13T13:00:16.333580+00:00
+ - tags: ['dune', 'movie']
+
+ ## Dune News Net - Dune movie, TV, and book news
+ - [https://dunenewsnet.com](https://dunenewsnet.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+ - tags: ['dune']
+
+ ## Dune Novels – The Official Dune Website
+ - [https://dunenovels.com](https://dunenovels.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+ - tags: ['dune', 'frank herbert']
+
+ ## Dune Novels – The Official Dune Website
+ - [https://www.dunenovels.com](https://www.dunenovels.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+ - tags: ['frank herbert', 'dune']
+
+ ## Dungeon Investing | Substack
+ - [https://www.dungeoninvesting.com](https://www.dungeoninvesting.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
  ## Dungeon Map Doodler
  - [https://dungeonmapdoodler.com](https://dungeonmapdoodler.com)
  - date_published: 2023-10-25T13:59:52.064138+00:00
@@ -2652,6 +2729,10 @@
  - [https://elegantaffairscaterers.com](https://elegantaffairscaterers.com)
  - date_published: 2024-03-28T00:00:00+00:00
 
+ ## Eleganthack
+ - [https://eleganthack.com](https://eleganthack.com)
+ - date_published: 2024-05-27T00:00:00+00:00
+
  ## Elegant Themes Help Center
  - [https://help.elegantthemes.com](https://help.elegantthemes.com)
  - date_published: 2024-05-01T08:44:13.578818+00:00
@@ -3866,6 +3947,11 @@
  - [https://www.emucoupon.com](https://www.emucoupon.com)
  - date_published: 2024-05-23T02:50:36.210977+00:00
 
+ ## Configure your SteamOS, Steam Deck and Rog Ally Emulators
+ - [https://www.emudeck.com](https://www.emudeck.com)
+ - date_published: 2024-06-02T07:17:39+00:00
+ - tags: ['configuration', 'program', 'emulation', 'steamos', 'steam deck']
+
  ## Le Portail De L'Emulation Francophone Libre
  - [http://www.emu-france.com](http://www.emu-france.com)
  - date_published: 2024-05-31T05:39:11.977978+00:00
@@ -4019,80 +4105,4 @@
  ## Endpoints Studio
  - [https://mediakit.endpts.com](https://mediakit.endpts.com)
  - date_published: 2024-05-02T07:58:51.249244+00:00
-
- ## Endpoints News
- - [https://store.endpts.com](https://store.endpts.com)
- - date_published: 2024-05-02T07:58:43.309654+00:00
-
- ## Endpoints Webinars
- - [https://webinars.endpts.com](https://webinars.endpts.com)
- - date_published: 2024-05-02T07:58:41.752474+00:00
-
- ## Endres Machining Innovations — Game-changing cutting-tool technologies, cooling systems, training and machinability testing in Houghton, MI
- - [https://endresmachining.com](https://endresmachining.com)
- - date_published: 2024-04-29T04:46:19.638276+00:00
-
- ## #EndTheException
- - [https://endtheexception.com](https://endtheexception.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## #EndTheException
- - [https://www.endtheexception.com](https://www.endtheexception.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Endtime Ministries | The Endtime Show | Bible Prophecy
- - [http://endtime.com](http://endtime.com)
- - date_published: 2017-04-17T04:41:36+00:00
-
- ## Welcome to Endurance Promotions!
- - [https://endurancepromotions.com](https://endurancepromotions.com)
- - date_published: 2024-05-08T03:31:18.734629+00:00
-
- ## Home
- - [https://eneaxharja.com](https://eneaxharja.com)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## Enemies of Creed
- - [https://enemiesofcreed.com](https://enemiesofcreed.com)
- - date_published: 2024-05-06T20:33:11.823436+00:00
-
- ## Portal o energetyce | Energetyka24
- - [https://energetyka24.com](https://energetyka24.com)
- - date_published: 2023-10-25T14:07:11.459555+00:00
-
- ## Energie Illico : Economie 250 euros
- - [https://energieillico.com](https://energieillico.com)
- - date_published: 2024-05-01T01:58:56.007675+00:00
-
- ## Home | Energized Health
- - [https://www.energizedhealth.com](https://www.energizedhealth.com)
- - date_published: 2024-05-08T03:35:59.834215+00:00
-
- ## Energy Capital & Power
- - [https://energycapitalpower.com](https://energycapitalpower.com)
- - date_published: 2023-11-25T06:54:41.624265+00:00
-
- ## Energy News - Energy Technology - Energy Business - Energy and the Environment
- - [https://www.energy-daily.com](https://www.energy-daily.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Energy Drink Information - Ingredients, Facts, Myths, News
- - [https://www.energydrinkinformation.com](https://www.energydrinkinformation.com)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Install Solar Panel & Home Battery Systems for Less - EnergyPal
- - [https://energypal.com](https://energypal.com)
- - date_published: 2024-04-30T21:00:10.611799+00:00
-
- ## Home - Energy Recovery
- - [https://energyrecovery.com](https://energyrecovery.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Compare and save on clean home energy solutions | EnergySage
- - [https://www.energysage.com](https://www.energysage.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## EnergyStream
- - [https://www.energystream-wavestone.com](https://www.energystream-wavestone.com)
- - date_published: 2024-04-28T05:08:33.936746+00:00
 

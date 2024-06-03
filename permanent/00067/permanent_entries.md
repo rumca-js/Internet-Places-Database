@@ -1,3 +1,260 @@
+ ## Polar Science Center
+ - [https://psc.apl.uw.edu](https://psc.apl.uw.edu)
+ - date_published: 2024-05-07T15:32:13.441621+00:00
+
+ ## UW Sustainability
+ - [https://sustainability.uw.edu](https://sustainability.uw.edu)
+ - date_published: 2024-05-07T22:26:50.061737+00:00
+
+ ## TIME honors protein designer David Baker
+ - [https://uw.edu](https://uw.edu)
+ - date_published: 2024-05-07T22:25:42.739738+00:00
+
+ ## Home - UW Professional & Continuing Education
+ - [https://www.pce.uw.edu](https://www.pce.uw.edu)
+ - date_published: 2024-05-07T22:27:33.421412+00:00
+
+ ## UW Online - Integrated Social Sciences Bachelor’s Degree
+ - [https://www.socialsciencesonline.uw.edu](https://www.socialsciencesonline.uw.edu)
+ - date_published: 2024-04-29T05:28:47.102153+00:00
+
+ ## UW Tacoma Home | About UW Tacoma | University of Washington Tacoma
+ - [https://www.tacoma.uw.edu](https://www.tacoma.uw.edu)
+ - date_published: 2024-05-07T22:27:46.470284+00:00
+
+ ## TIME honors protein designer David Baker
+ - [http://www.uw.edu](http://www.uw.edu)
+ - date_published: 2024-05-07T22:26:44.748743+00:00
+
+ ## Homepage - The University of Washington Bothell
+ - [https://www.uwb.edu](https://www.uwb.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## University of Wisconsin-Milwaukee
+ - [https://uwm.edu](https://uwm.edu)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## University of Wisconsin-Milwaukee
+ - [http://www.uwm.edu](http://www.uwm.edu)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## University of Wyoming - Acalog ACMS™
+ - [https://acalogcatalog.uwyo.edu](https://acalogcatalog.uwyo.edu)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## UWYO Faculty & Staff Directory Search
+ - [https://directory.uwyo.edu](https://directory.uwyo.edu)
+ - date_published: 2024-05-11T11:34:02.930933+00:00
+
+ ## University of Wyoming Open Journals
+ - [https://journals.uwyo.edu](https://journals.uwyo.edu)
+ - date_published: 2024-05-08T08:43:06.439668+00:00
+
+ ## uwyo-search
+ - [https://search.uwyo.edu](https://search.uwyo.edu)
+ - date_published: 2024-05-11T11:34:12.302879+00:00
+
+ ## University of Wyoming | UW | Laramie, Wyoming
+ - [https://www.uwyo.edu](https://www.uwyo.edu)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## WyoWeb - University of Wyoming Intranet Portal
+ - [https://wyoweb.uwyo.edu](https://wyoweb.uwyo.edu)
+ - date_published: 2024-05-11T11:34:36.210756+00:00
+
+ ## Atlas Login - Valencia College
+ - [https://atlas.valenciacollege.edu](https://atlas.valenciacollege.edu)
+ - date_published: 2024-05-07T22:17:02.196311+00:00
+
+ ## Valencia College | Valencia College
+ - [https://catalog.valenciacollege.edu](https://catalog.valenciacollege.edu)
+ - date_published: 2024-05-07T22:17:08.032513+00:00
+
+ ## Events Calendar
+ - [https://events.valenciacollege.edu](https://events.valenciacollege.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Valencia College International Student Services
+ - [https://international.valenciacollege.edu](https://international.valenciacollege.edu)
+ - date_published: 2024-05-07T22:16:52.630065+00:00
+
+ ## Valencia College News
+ - [https://news.valenciacollege.edu](https://news.valenciacollege.edu)
+ - date_published: 2024-05-07T22:16:49.359079+00:00
+
+ ## Sign in to your account
+ - [https://online.valenciacollege.edu](https://online.valenciacollege.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Valencia College
+ - [https://valenciacollege.edu](https://valenciacollege.edu)
+ - date_published: 2023-11-27T12:19:39+00:00
+ - tags: ['college']
+
+ ## ValpoScholar | Valparaiso University Research
+ - [http://scholar.valpo.edu](http://scholar.valpo.edu)
+ - date_published: 2024-05-07T19:19:19.956824+00:00
+
+ ## Home - School of Medicine
+ - [https://medschool.vanderbilt.edu](https://medschool.vanderbilt.edu)
+ - date_published: 2024-05-10T05:25:10.027246+00:00
+
+ ## School of Nursing | Vanderbilt University
+ - [https://nursing.vanderbilt.edu](https://nursing.vanderbilt.edu)
+ - date_published: 2024-05-10T05:25:22.888442+00:00
+
+ ## Jean and Alexander Heard Libraries | Vanderbilt University
+ - [https://www.library.vanderbilt.edu](https://www.library.vanderbilt.edu)
+ - date_published: 2024-05-10T05:25:04.278038+00:00
+
+ ## Vanderbilt University
+ - [https://www.vanderbilt.edu](https://www.vanderbilt.edu)
+ - date_published: 2024-05-10T05:24:56.668547+00:00
+
+ ## VCU Events Calendar
+ - [https://academiccalendars.vcu.edu](https://academiccalendars.vcu.edu)
+ - date_published: 2024-05-07T22:23:30.939978+00:00
+
+ ## Commitment to Privacy
+ - [https://accessibility.vcu.edu](https://accessibility.vcu.edu)
+ - date_published: 2024-05-07T22:23:21.226757+00:00
+
+ ## Commitment to Privacy
+ - [https://alert.vcu.edu](https://alert.vcu.edu)
+ - date_published: 2024-05-07T22:22:25.856789+00:00
+
+ ## A to Z Directory – Virginia Commonwealth University
+ - [https://atoz.vcu.edu](https://atoz.vcu.edu)
+ - date_published: 2024-05-07T22:22:37.154832+00:00
+
+ ## Commitment to Privacy
+ - [https://blackboard.vcu.edu](https://blackboard.vcu.edu)
+ - date_published: 2024-05-07T22:23:07.526939+00:00
+
+ ## Commitment to Privacy
+ - [https://branding.vcu.edu](https://branding.vcu.edu)
+ - date_published: 2024-05-07T22:23:10.475683+00:00
+
+ ## VCU Office of Development and Alumni Relations
+ - [https://campaign.vcu.edu](https://campaign.vcu.edu)
+ - date_published: 2024-05-07T22:22:21.007981+00:00
+
+ ## Commitment to Privacy
+ - [https://community.vcu.edu](https://community.vcu.edu)
+ - date_published: 2024-05-07T22:23:15.462966+00:00
+
+ ## Commitment to Privacy
+ - [https://equity.vcu.edu](https://equity.vcu.edu)
+ - date_published: 2024-05-07T22:23:51.579209+00:00
+
+ ## Commitment to Privacy
+ - [http://finaid.vcu.edu](http://finaid.vcu.edu)
+ - date_published: 2024-05-07T22:23:40.677248+00:00
+
+ ## go.vcu.edu Keywords
+ - [http://go.vcu.edu](http://go.vcu.edu)
+ - date_published: 2024-05-07T22:22:44.596979+00:00
+
+ ## Commitment to Privacy
+ - [https://hr.vcu.edu](https://hr.vcu.edu)
+ - date_published: 2024-05-07T22:23:23.570094+00:00
+
+ ## Commitment to Privacy
+ - [http://inclusive.vcu.edu](http://inclusive.vcu.edu)
+ - date_published: 2024-05-07T22:22:23.118076+00:00
+
+ ## Commitment to Privacy
+ - [https://intranet.massey.vcu.edu](https://intranet.massey.vcu.edu)
+ - date_published: 2024-05-08T10:02:46.573679+00:00
+
+ ## Commitment to Privacy
+ - [http://maps.vcu.edu](http://maps.vcu.edu)
+ - date_published: 2024-05-07T22:22:29.034319+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://my.vcu.edu](https://my.vcu.edu)
+ - date_published: 2024-05-07T22:23:29.894456+00:00
+
+ ## VCU News
+ - [http://news.vcu.edu](http://news.vcu.edu)
+ - date_published: 2024-05-07T22:22:46.409257+00:00
+
+ ## A to Z Directory – Virginia Commonwealth University
+ - [http://people.vcu.edu](http://people.vcu.edu)
+ - date_published: 2024-05-07T22:23:43.856583+00:00
+
+ ## Commitment to Privacy
+ - [https://phonebook.vcu.edu](https://phonebook.vcu.edu)
+ - date_published: 2024-05-07T22:23:54.415047+00:00
+
+ ## Commitment to Privacy
+ - [https://president.vcu.edu](https://president.vcu.edu)
+ - date_published: 2024-05-07T22:22:59.857284+00:00
+
+ ## Commitment to Privacy
+ - [https://rar.vcu.edu](https://rar.vcu.edu)
+ - date_published: 2024-05-07T22:22:24.510862+00:00
+
+ ## Commitment to Privacy
+ - [https://realtime.vcu.edu](https://realtime.vcu.edu)
+ - date_published: 2024-05-07T22:23:52.910462+00:00
+
+ ## Commitment to Privacy
+ - [https://socialmedia.vcu.edu](https://socialmedia.vcu.edu)
+ - date_published: 2024-05-07T22:23:59.114398+00:00
+
+ ## Commitment to Privacy
+ - [https://ts.vcu.edu](https://ts.vcu.edu)
+ - date_published: 2024-05-01T05:49:31.967560+00:00
+
+ ## Commitment to Privacy
+ - [https://vcu.edu](https://vcu.edu)
+ - date_published: 2024-05-07T22:22:38.590113+00:00
+
+ ## Commitment to Privacy
+ - [http://www.germanstories.vcu.edu](http://www.germanstories.vcu.edu)
+ - date_published: 2024-05-07T22:22:31.206514+00:00
+
+ ## Commitment to Privacy
+ - [https://www.library.vcu.edu](https://www.library.vcu.edu)
+ - date_published: 2024-05-07T22:23:09.110392+00:00
+
+ ## Commitment to Privacy
+ - [http://www.maps.vcu.edu](http://www.maps.vcu.edu)
+ - date_published: 2024-05-07T22:22:40.418157+00:00
+
+ ## Commitment to Privacy
+ - [http://www.medschool.vcu.edu](http://www.medschool.vcu.edu)
+ - date_published: 2024-05-07T22:23:05.087388+00:00
+
+ ## Commitment to Privacy
+ - [http://www.ocpe.vcu.edu](http://www.ocpe.vcu.edu)
+ - date_published: 2024-05-07T22:23:45.980133+00:00
+
+ ## Commitment to Privacy
+ - [http://www.opds.vcu.edu](http://www.opds.vcu.edu)
+ - date_published: 2024-05-07T22:23:33.140061+00:00
+
+ ## A to Z Directory – Virginia Commonwealth University
+ - [https://www.people.vcu.edu](https://www.people.vcu.edu)
+ - date_published: 2024-01-09T03:28:53.327442+00:00
+
+ ## VCU Office of Development and Alumni Relations
+ - [https://www.support.vcu.edu](https://www.support.vcu.edu)
+ - date_published: 2024-05-07T22:23:11.783850+00:00
+
+ ## Commitment to Privacy
+ - [https://www.vcu.edu](https://www.vcu.edu)
+ - date_published: 2024-05-01T07:04:40.905570+00:00
+
+ ## Home | UVA Accessibility
+ - [https://accessibility.virginia.edu](https://accessibility.virginia.edu)
+ - date_published: 2024-05-09T06:36:08.768724+00:00
+
+ ## Home
+ - [https://as.virginia.edu](https://as.virginia.edu)
+ - date_published: 2024-03-11T22:06:48.813698+00:00
+
  ## Home
  - [https://blog.radiology.virginia.edu](https://blog.radiology.virginia.edu)
  - date_published: 2024-05-06T21:28:32.329381+00:00
@@ -3804,262 +4061,4 @@
  ## EGU Blogs
  - [https://blogs.egu.eu](https://blogs.egu.eu)
  - date_published: 2024-05-07T23:44:36.299373+00:00
-
- ## Imaggeo
- - [https://imaggeo.egu.eu](https://imaggeo.egu.eu)
- - date_published: 2024-05-07T23:44:43.267328+00:00
-
- ## Sign in - Matomo
- - [https://pwk.egu.eu](https://pwk.egu.eu)
- - date_published: 2024-05-07T23:44:40.857948+00:00
-
- ## EGU
- - [https://www.egu.eu](https://www.egu.eu)
- - date_published: 2024-02-28T10:12:16+00:00
- - tags: ['science']
-
- ## EGU23 - Home
- - [https://www.egu23.eu](https://www.egu23.eu)
- - date_published: 2024-05-07T23:44:51.298309+00:00
-
- ## EGU24 - Home
- - [https://www.egu24.eu](https://www.egu24.eu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## EISA – Expert Imaging and Sound Association
- - [https://www.eisa.eu](https://www.eisa.eu)
- - date_published: 2024-05-29T08:02:51.371136+00:00
-
- ## Observatori Europian i Gazetarisë
- - [http://al.ejo-online.eu](http://al.ejo-online.eu)
- - date_published: 2024-04-30T06:01:56.861048+00:00
-
- ## Evropská observatoř žurnalistiky - EJO
- - [http://cz.ejo-online.eu](http://cz.ejo-online.eu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Europäisches Journalismus-Observatorium (EJO)
- - [http://de.ejo-online.eu](http://de.ejo-online.eu)
- - date_published: 2024-04-30T06:01:43.715631+00:00
-
- ## European Journalism Observatory - EJO
- - [http://es.ejo-online.eu](http://es.ejo-online.eu)
- - date_published: 2024-04-30T06:01:11.116381+00:00
-
- ## European Journalism Observatory - EJO
- - [http://hu.ejo-online.eu](http://hu.ejo-online.eu)
- - date_published: 2024-04-30T06:01:59.650008+00:00
-
- ## Eiropas Žurnālistikas observatorija - EJO
- - [http://lv.ejo-online.eu](http://lv.ejo-online.eu)
- - date_published: 2024-04-30T06:01:31.395155+00:00
-
- ## Europejskie Obserwatorium Dziennikarskie - EJO
- - [http://pl.ejo-online.eu](http://pl.ejo-online.eu)
- - date_published: 2024-04-30T06:01:15.986557+00:00
-
- ## Європейська обсерваторія журналістики - EJO
- - [http://ua.ejo-online.eu](http://ua.ejo-online.eu)
- - date_published: 2024-04-30T06:01:20.044057+00:00
-
- ## Introduction - ELSA Benchmarks Platform
- - [https://benchmarks.elsa-ai.eu](https://benchmarks.elsa-ai.eu)
- - date_published: 2024-05-10T05:09:44.049312+00:00
-
- ## Embion | Making Green Energy Work
- - [https://embion.eu](https://embion.eu)
- - date_published: 2024-05-06T20:12:29.525214+00:00
-
- ## Transparency Platform
- - [https://newtransparency.entsoe.eu](https://newtransparency.entsoe.eu)
- - date_published: 2024-05-07T23:44:52.182776+00:00
-
- ## ENTSO-E Transparency Platform
- - [https://transparency.entsoe.eu](https://transparency.entsoe.eu)
- - date_published: 2023-10-25T19:09:58.582217+00:00
-
- ## EPN-Campus: epn-campus
- - [http://www.epn-campus.eu](http://www.epn-campus.eu)
- - date_published: 2024-05-08T00:23:40.239078+00:00
-
- ## EquiValent
- - [https://blog.eq8.eu](https://blog.eq8.eu)
- - date_published: 2023-10-25T19:10:02.527258+00:00
-
- ## Equivalent - Tomas Valent
- - [https://www.eq8.eu](https://www.eq8.eu)
- - date_published: 2024-05-07T23:44:58.680165+00:00
-
- ## Home | ESCAIDE
- - [http://escaide.eu](http://escaide.eu)
- - date_published: 2024-11-22T00:00:00+00:00
-
- ## Cierpliwości...
- - [http://www.esl.eu](http://www.esl.eu)
- - date_published: 2024-05-13T03:45:17.295427+00:00
-
- ## Ethics in apps
- - [https://www.ethicsinapps.eu](https://www.ethicsinapps.eu)
- - date_published: 2024-04-28T01:54:29.210826+00:00
- - tags: ['manifesto', 'interesting page design']
-
- ## NAVEX - Incident Reporting
- - [https://secure.ethicspoint.eu](https://secure.ethicspoint.eu)
- - date_published: 2024-04-29T05:17:38.640475+00:00
-
- ## EUA
- - [https://eua.eu](https://eua.eu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Homepage
- - [https://euagencies.eu](https://euagencies.eu)
- - date_published: 2024-05-07T23:45:15.265058+00:00
-
- ## Homepage - Centre for Media Pluralism and Freedom
- - [http://cmpf.eui.eu](http://cmpf.eui.eu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## European University Institute
- - [https://www.eui.eu](https://www.eui.eu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## EU Immigration and Asylum Law and Policy – Droit et Politique de l'Immigration et de l'Asile de l'UE
- - [http://eumigrationlawblog.eu](http://eumigrationlawblog.eu)
- - date_published: 2024-05-02T09:57:04.129094+00:00
-
- ## Euractiv
- - [https://en.euractiv.eu](https://en.euractiv.eu)
- - date_published: 2024-05-02T09:58:38.824218+00:00
-
- ## Eurispes - L'Istituto di Ricerca degli italiani
- - [http://www.eurispes.eu](http://www.eurispes.eu)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## DE BESTE BANKSTELLEN VOOR ELK BUDGET KOPEN Archives
- - [http://www.euromedialiteracy.eu](http://www.euromedialiteracy.eu)
- - date_published: 2025-02-01T00:00:00+00:00
-
- ## euromeduc.eu
- - [http://www.euromeduc.eu](http://www.euromeduc.eu)
- - date_published: 2024-05-07T23:41:01.418899+00:00
-
- ## The 4th Workshop on Machine Learning and Systems (EuroMLSys)
- - [https://euromlsys.eu](https://euromlsys.eu)
- - date_published: 2024-04-28T03:53:44.545634+00:00
-
- ## EUROMOMO
- - [https://euromomo.eu](https://euromomo.eu)
- - date_published: 2024-05-07T23:45:00.435977+00:00
-
- ## EUROMOMO EuroMOMO Bulletin, Week 4, 2024
- - [https://www.euromomo.eu](https://www.euromomo.eu)
- - date_published: 2024-02-01T22:55:43.888015+00:00
-
- ## Home
- - [https://20years.edps.europa.eu](https://20years.edps.europa.eu)
- - date_published: 2024-05-09T06:26:18.504432+00:00
-
- ## Home | EUROPEAN ANTIBIOTIC AWARENESS DAY
- - [http://antibiotic.ecdc.europa.eu](http://antibiotic.ecdc.europa.eu)
- - date_published: 2024-05-26T08:06:12.265715+00:00
-
- ## EC AV PORTAL
- - [https://audiovisual.ec.europa.eu](https://audiovisual.ec.europa.eu)
- - date_published: 2024-05-02T09:57:18.018555+00:00
-
- ## Belgian presidency of the Council of the European Union
- - [https://belgian-presidency.consilium.europa.eu](https://belgian-presidency.consilium.europa.eu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Biodiversity Information System for Europe
- - [https://biodiversity.europa.eu](https://biodiversity.europa.eu)
- - date_published: 2024-05-07T23:45:08.778155+00:00
-
- ## ECDC Content Delivery Network
- - [https://cdn.ecdc.europa.eu](https://cdn.ecdc.europa.eu)
- - date_published: 2024-05-26T08:06:10.819896+00:00
-
- ## CERT-EU
- - [https://cert.europa.eu](https://cert.europa.eu)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## European Civil Protection and Humanitarian Aid Operations
- - [https://civil-protection-humanitarian-aid.ec.europa.eu](https://civil-protection-humanitarian-aid.ec.europa.eu)
- - date_published: 2023-12-22T12:19:59.878101+00:00
-
- ## Home — Climate-ADAPT
- - [https://climate-adapt.eea.europa.eu](https://climate-adapt.eea.europa.eu)
- - date_published: 2024-05-07T23:45:11.723903+00:00
-
- ## Climate and Energy in the EU
- - [https://climate-energy.eea.europa.eu](https://climate-energy.eea.europa.eu)
- - date_published: 2024-05-07T23:45:09.447561+00:00
-
- ## README.md · master · About Code Europa EU / About code.europa.eu · GitLab
- - [https://code.europa.eu](https://code.europa.eu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## European Commission, official website
- - [https://commission.europa.eu](https://commission.europa.eu)
- - date_published: 2024-05-01T04:03:38.567359+00:00
-
- ## CORDIS | European Commission
- - [https://cordis.europa.eu](https://cordis.europa.eu)
- - date_published: 2024-04-28T04:00:57.350880+00:00
-
- ## Untitled Document
- - [https://curia.europa.eu](https://curia.europa.eu)
- - date_published: 2023-10-25T19:10:04.254569+00:00
-
- ## Digital Markets Act
- - [https://digital-markets-act.ec.europa.eu](https://digital-markets-act.ec.europa.eu)
- - date_published: 2024-02-24T18:08:26.998742+00:00
-
- ## Shaping Europe’s digital future
- - [https://digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu)
- - date_published: 2024-01-21T19:08:08.043591+00:00
-
- ## Homepage | European Centre for Disease Prevention and Control
- - [https://ecdc.europa.eu](https://ecdc.europa.eu)
- - date_published: 2024-05-26T08:06:17.041030+00:00
-
- ## Language selection | European Commission
- - [https://ec.europa.eu](https://ec.europa.eu)
- - date_published: 2023-10-25T11:24:45.809790+00:00
-
- ## EDPB | European Data Protection Board
- - [https://edpb.europa.eu](https://edpb.europa.eu)
- - date_published: 2024-05-02T09:56:08.489849+00:00
-
- ## EDPS Homepage
- - [https://edps.europa.eu](https://edps.europa.eu)
- - date_published: 2024-05-09T06:26:17.419404+00:00
-
- ## Energy
- - [https://energy.ec.europa.eu](https://energy.ec.europa.eu)
- - date_published: 2024-04-30T21:00:24.948248+00:00
-
- ## Environment
- - [https://environment.ec.europa.eu](https://environment.ec.europa.eu)
- - date_published: 2024-05-02T09:56:06.942655+00:00
-
- ## Home | Erasmus+
- - [https://erasmus-plus.ec.europa.eu](https://erasmus-plus.ec.europa.eu)
- - date_published: 2024-05-02T09:57:12.474848+00:00
-
- ## Homepage
- - [https://erc.europa.eu](https://erc.europa.eu)
- - date_published: 2024-04-29T06:11:13.793564+00:00
-
- ## EURAXESS
- - [https://euraxess.ec.europa.eu](https://euraxess.ec.europa.eu)
- - date_published: 2024-05-08T12:18:32.833621+00:00
-
- ## EUR-Lex — Access to European Union law — choose your language
- - [https://eur-lex.europa.eu](https://eur-lex.europa.eu)
- - date_published: 2024-04-29T02:56:24.003859+00:00
-
- ## Your gateway to the EU, News, Highlights | European Union
- - [https://europa.eu](https://europa.eu)
- - date_published: 2024-04-30T07:58:09.167400+00:00
 

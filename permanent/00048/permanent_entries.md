@@ -1,3 +1,228 @@
+ ## Kareem Abdul-Jabbar | Substack
+ - [https://kareem.substack.com](https://kareem.substack.com)
+ - date_published: 2023-10-25T09:56:43.884000+00:00
+ - tags: ['substack']
+
+ ## Karthick Ram's Newsletter | Substack
+ - [https://karthickram.substack.com](https://karthickram.substack.com)
+ - date_published: 2024-04-28T01:40:59.641851+00:00
+
+ ## Agents and Books | Kate McKean | Substack
+ - [https://katemckean.substack.com](https://katemckean.substack.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## kat is present | kat fukui | Substack
+ - [https://katfukui.substack.com](https://katfukui.substack.com)
+ - date_published: 2024-05-04T09:25:37.155908+00:00
+
+ ## Publishing Confidential | Kathleen Schmidt | Substack
+ - [https://kathleenschmidt.substack.com](https://kathleenschmidt.substack.com)
+ - date_published: 2024-05-08T05:03:15.586843+00:00
+
+ ## Sparks | Katie Sadler | Substack
+ - [https://katiemorwenna.substack.com](https://katiemorwenna.substack.com)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Hidden Histories | Jeffrey S. Kaye | Substack
+ - [https://kayej.substack.com](https://kayej.substack.com)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Kendall Giles | Substack
+ - [https://kendall.substack.com](https://kendall.substack.com)
+ - date_published: 2024-05-10T05:12:23.959320+00:00
+
+ ## Kenetic | Ken Lane | Substack
+ - [https://kenetic.substack.com](https://kenetic.substack.com)
+ - date_published: 2024-05-10T04:55:32.979059+00:00
+
+ ## Essays by Ken Lane | Substack
+ - [https://kenlane.substack.com](https://kenlane.substack.com)
+ - date_published: 2023-12-11T10:57:46.356034+00:00
+ - tags: ['personal']
+
+ ## Erdmann Housing Tracker | Kevin Erdmann | Substack
+ - [https://kevinerdmann.substack.com](https://kevinerdmann.substack.com)
+ - date_published: 2023-12-19T22:22:46.647327+00:00
+
+ ## Kids Who Love Math | Sebastian Gutierrez | Substack
+ - [https://kidswholovemath.substack.com](https://kidswholovemath.substack.com)
+ - date_published: 2024-01-09T01:41:46.315215+00:00
+
+ ## Kimbra’s Substack | Substack
+ - [https://kimbra.substack.com](https://kimbra.substack.com)
+ - date_published: 2024-05-04T09:41:47.775643+00:00
+
+ ## Kiru’s Newsletter | Kiru.io | Substack
+ - [https://kiruio.substack.com](https://kiruio.substack.com)
+ - date_published: 2024-05-06T06:38:32.220882+00:00
+
+ ## KitchenWitch | Jennifer Billock | Substack
+ - [https://kitchenwitch.substack.com](https://kitchenwitch.substack.com)
+ - date_published: 2024-05-08T04:59:27.927107+00:00
+
+ ## Kit’s Newsletter | Kit Klarenberg | Substack
+ - [https://kitklarenberg.substack.com](https://kitklarenberg.substack.com)
+ - date_published: 2023-12-04T01:53:45.581863+00:00
+
+ ## Kiwiwriter47’s Substack | Substack
+ - [https://kiwiwriter47.substack.com](https://kiwiwriter47.substack.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Knoll’s Law | Knoll's Law | Substack
+ - [https://knollslaw.substack.com](https://knollslaw.substack.com)
+ - date_published: 2024-01-09T01:41:47.891078+00:00
+
+ ## System Failure | Nathan Knopp | Substack
+ - [https://knopp.substack.com](https://knopp.substack.com)
+ - date_published: 2023-10-25T09:56:59.004155+00:00
+ - tags: ['substack']
+
+ ## Koenfucius’s Substack | Substack
+ - [https://koenfucius.substack.com](https://koenfucius.substack.com)
+ - date_published: 2024-05-06T22:02:37.508287+00:00
+
+ ## Konfig Newsletter | Anh-Tuan Bui | Substack
+ - [https://konfig.substack.com](https://konfig.substack.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Unapocalyptic | Karl Schroeder | Substack
+ - [https://kschroeder.substack.com](https://kschroeder.substack.com)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## https://kuiperzone.substack.com
+ - [https://kuiperzone.substack.com](https://kuiperzone.substack.com)
+ - date_published: 2024-02-08T21:49:47.691074+00:00
+
+ ## Kyla’s Newsletter | kyla scanlon | Substack
+ - [https://kyla.substack.com](https://kyla.substack.com)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Laetitia@Work | Laëtitia Vitaud | Substack
+ - [https://laetitiaatwork.substack.com](https://laetitiaatwork.substack.com)
+ - date_published: 2023-10-25T09:57:02.350935+00:00
+ - tags: ['substack']
+
+ ## Greg's Letter | Greg Isenberg | Substack
+ - [https://latecheckout.substack.com](https://latecheckout.substack.com)
+ - date_published: 2024-04-29T07:17:36.487131+00:00
+
+ ## The Free Mind | Laura Dodsworth | Substack
+ - [https://lauradodsworth.substack.com](https://lauradodsworth.substack.com)
+ - date_published: 2024-01-09T01:41:49.947980+00:00
+
+ ## lcamtuf’s thing | Substack
+ - [https://lcamtuf.substack.com](https://lcamtuf.substack.com)
+ - date_published: 2023-10-25T09:57:09.013670+00:00
+ - tags: ['substack']
+
+ ## Lead Battery Notes | Hugo Smith | Substack
+ - [https://leadbatteries.substack.com](https://leadbatteries.substack.com)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Leadership Tales | Beekay | Substack
+ - [https://leadershiptales.substack.com](https://leadershiptales.substack.com)
+ - date_published: 2024-06-01T04:57:36.982810+00:00
+
+ ## Learnersbucket's Newsletter | Prashant Yadav | Substack
+ - [https://learnersbucket.substack.com](https://learnersbucket.substack.com)
+ - date_published: 2024-05-04T12:11:27.890603+00:00
+
+ ## Shaping Design | Mitchell Bernstein | Substack
+ - [https://learnprimitives.substack.com](https://learnprimitives.substack.com)
+ - date_published: 2024-04-29T07:15:27.997541+00:00
+
+ ## Optimism (for the web) | Lee Robinson | Substack
+ - [https://leerob.substack.com](https://leerob.substack.com)
+ - date_published: 2024-05-06T06:39:57.143991+00:00
+
+ ## Leigh Marie’s Newsletter | Leigh Marie Braswell | Substack
+ - [https://leighmariebraswell.substack.com](https://leighmariebraswell.substack.com)
+ - date_published: 2023-10-25T09:57:12.216880+00:00
+ - tags: ['substack']
+
+ ## Social Studies | Leighton Woodhouse | Substack
+ - [https://leightonwoodhouse.substack.com](https://leightonwoodhouse.substack.com)
+ - date_published: 2024-05-06T16:25:57.061447+00:00
+
+ ## A Particular Weird | Lyle Enright | Substack
+ - [https://lenright.substack.com](https://lenright.substack.com)
+ - date_published: 2023-10-25T09:57:15.186001+00:00
+ - tags: ['substack']
+
+ ## Leo’s Substack | Leo Sisti | Substack
+ - [https://leosisti.substack.com](https://leosisti.substack.com)
+ - date_published: 2024-04-30T07:03:54.640418+00:00
+
+ ## Wall Street's War on Workers Newsletter | Les Leopold | Substack
+ - [https://lesleopold.substack.com](https://lesleopold.substack.com)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Less Foolish | Peter N Limberg | Substack
+ - [https://lessfoolish.substack.com](https://lessfoolish.substack.com)
+ - date_published: 2024-01-27T00:00:00+00:00
+
+ ## Level Up Software Engineering 🚀 | Caleb Mellas | Substack
+ - [https://levelupsoftwareengineering.substack.com](https://levelupsoftwareengineering.substack.com)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Level Up by Ethan Evans | Substack
+ - [https://levelupwithethanevans.substack.com](https://levelupwithethanevans.substack.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## The Looking Glass | Julie Zhuo | Substack
+ - [https://lg.substack.com](https://lg.substack.com)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## ICYMI by Lia Haberman | Substack
+ - [https://liahaberman.substack.com](https://liahaberman.substack.com)
+ - date_published: 2023-10-25T09:57:18.422857+00:00
+ - tags: ['substack']
+
+ ## Lindy Letters | Peter Hagen | Substack
+ - [https://lindylearn.substack.com](https://lindylearn.substack.com)
+ - date_published: 2024-05-12T05:40:36.238874+00:00
+
+ ## Exposing The Darkness | Lioness of Judah Ministry | Substack
+ - [https://lionessofjudah.substack.com](https://lionessofjudah.substack.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## I Have No Idea What I'm Doing | Lior Neu-ner | Substack
+ - [https://liorn.substack.com](https://liorn.substack.com)
+ - date_published: 2024-01-09T01:41:52.451998+00:00
+
+ ## Li's Newsletter | Li Jin | Substack
+ - [https://li.substack.com](https://li.substack.com)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Literary Activism | Book Riot | Substack
+ - [https://literaryactivism.substack.com](https://literaryactivism.substack.com)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Tech, investment and a little bit of everything.  | John | Substack
+ - [https://littlebitofeverything.substack.com](https://littlebitofeverything.substack.com)
+ - date_published: 2024-01-09T01:41:54.188835+00:00
+
+ ## Paola Writes | Paola Bonomo | Substack
+ - [https://livepaola.substack.com](https://livepaola.substack.com)
+ - date_published: 2024-01-09T01:41:56.123787+00:00
+
+ ## Seeing Things | Liza Donnelly | Substack
+ - [https://lizadonnelly.substack.com](https://lizadonnelly.substack.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Making Things | lloyd tabb | Substack
+ - [https://lloydtabb.substack.com](https://lloydtabb.substack.com)
+ - date_published: 2024-05-08T04:29:02.715926+00:00
+
+ ## Loeber on Substack | John Loeber | Substack
+ - [https://loeber.substack.com](https://loeber.substack.com)
+ - date_published: 2023-10-25T09:57:29.028429+00:00
+ - tags: ['substack']
+
+ ## lol/sos | Christian Näthler | Substack
+ - [https://lolsos.substack.com](https://lolsos.substack.com)
+ - date_published: 2023-12-01T17:03:01.841136+00:00
+
  ## Looking Glass World | Kola 🔑 | Substack
  - [https://lookingglassworld.substack.com](https://lookingglassworld.substack.com)
  - date_published: 2024-05-04T09:55:41.203670+00:00
@@ -3403,6 +3628,10 @@
  - [http://sweetness-light.com](http://sweetness-light.com)
  - date_published: 2024-05-06T21:00:58.110096+00:00
 
+ ## SweetPaul Entertainment
+ - [http://www.sweetpaul.com](http://www.sweetpaul.com)
+ - date_published: 2024-06-02T10:52:21.133628+00:00
+
  ## Sweetwater.com
  - [https://www.sweetwater.com](https://www.sweetwater.com)
  - date_published: 2024-02-23T00:00:00+00:00
@@ -3913,237 +4142,4 @@
  ## Security Tools for Containers, Kubernetes, and Cloud (N)
  - [https://www.sysdig.com](https://www.sysdig.com)
  - date_published: 2024-05-03T00:00:00+00:00
-
- ## SYSGO - Embedding Innovations | SYSGO
- - [https://www.sysgo.com](https://www.sysgo.com)
- - date_published: 2023-10-25T17:21:24.694877+00:00
-
- ## O&O Syspectr | Manage and monitor your network. Anytime. Anywhere.
- - [https://www.syspectr.com](https://www.syspectr.com)
- - date_published: 2024-05-01T06:58:53.213477+00:00
-
- ## System Source Computer Museum
- - [https://museum.syssrc.com](https://museum.syssrc.com)
- - date_published: 2024-05-01T05:01:25.812384+00:00
-
- ## Syst & Deploy
- - [https://www.systanddeploy.com](https://www.systanddeploy.com)
- - date_published: 2023-10-25T17:21:31.211599+00:00
-
- ## System 16 - The Arcade Museum
- - [http://www.system16.com](http://www.system16.com)
- - date_published: 2024-04-28T04:42:30.767451+00:00
-
- ## System76 Blog
- - [https://blog.system76.com](https://blog.system76.com)
- - date_published: 2023-10-25T17:21:32.380629+00:00
-
- ## Pop!_OS by System76
- - [https://pop.system76.com](https://pop.system76.com)
- - date_published: 2023-10-25T08:31:49.176627+00:00
- - tags: ['linux', 'operating system']
-
- ## System76 - Linux Laptops, Desktops, and Servers
- - [https://system76.com](https://system76.com)
- - date_published: 2023-10-25T17:21:39.587668+00:00
- - tags: ['linux', 'laptop']
-
- ## Home / News - System 7 Today
- - [http://system7today.com](http://system7today.com)
- - date_published: 2024-05-09T07:18:37.249886+00:00
-
- ## System Administrator Blog – Musings about system administration and life
- - [https://www.systemadministratorblog.com](https://www.systemadministratorblog.com)
- - date_published: 2024-05-14T12:30:15.999662+00:00
-
- ## systemfontstack
- - [https://systemfontstack.com](https://systemfontstack.com)
- - date_published: 2024-04-29T07:43:54.505088+00:00
-
- ## System Initiative
- - [https://www.systeminit.com](https://www.systeminit.com)
- - date_published: 2023-10-25T17:21:41.166800+00:00
-
- ## System Of A Down | Official Store
- - [https://store.systemofadown.com](https://store.systemofadown.com)
- - date_published: 2024-05-13T03:42:05.910564+00:00
-
- ## System Of A Down | Official Site
- - [https://systemofadown.com](https://systemofadown.com)
- - date_published: 2023-10-30T15:37:43.794306+00:00
- - tags: ['music band']
-
- ## Systems Distributed '24
- - [https://systemsdistributed.com](https://systemsdistributed.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Electromagnetic Compatibility EMC Design Advisory Service, Training-Seminars, ESD, EMCT Author, High Frequency
- - [http://www.systemsemc.com](http://www.systemsemc.com)
- - date_published: 2024-05-02T07:53:16.747497+00:00
-
- ## System Shock is reborn.
- - [https://www.systemshock.com](https://www.systemshock.com)
- - date_published: 2024-05-08T13:29:28+00:00
- - tags: ['video game', 'system shock']
-
- ## Home - [ Perspectiva ]
- - [https://www.systems-souls-society.com](https://www.systems-souls-society.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## System Weakness
- - [https://systemweakness.com](https://systemweakness.com)
- - date_published: 2024-05-10T00:00:00+00:00
- - tags: ['cybersecurity', 'hacking']
-
- ## Gry strategiczne. Gry
- - [https://www.sztab.com](https://www.sztab.com)
- - date_published: 2023-11-17T21:40:40+00:00
- - tags: ['games', 'strategic games', 'video games']
-
- ## Szymon Kaliski
- - [https://szymonkaliski.com](https://szymonkaliski.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Custom URL Shortener, Branded Domain, Vanity Links & QR Codes | T2M
- - [https://t2mio.com](https://t2mio.com)
- - date_published: 2024-05-06T14:25:42.897074+00:00
-
- ## Smarter Living | T3
- - [https://www.t3.com](https://www.t3.com)
- - date_published: 2023-10-25T17:21:52.772578+00:00
-
- ## Tim O'Brien - tim o'brien @ t413.com
- - [https://t413.com](https://t413.com)
- - date_published: 2024-05-07T11:03:33.146838+00:00
-
- ## - Tabatha Wood
- - [https://tabathawood.com](https://tabathawood.com)
- - date_published: 2024-01-22T16:02:13.710618+00:00
-
- ## https://public.tableau.com
- - [https://public.tableau.com](https://public.tableau.com)
- - date_published: 2024-01-03T01:43:17.774089+00:00
-
- ## Tableau: Business Intelligence and Analytics Software
- - [https://www.tableau.com](https://www.tableau.com)
- - date_published: 2024-05-08T04:29:42.554311+00:00
-
- ## TablEdit Tablature Editor
- - [https://tabledit.com](https://tabledit.com)
- - date_published: 2023-10-25T17:21:55.418458+00:00
-
- ## TableFlow | The open source CSV importer
- - [https://tableflow.com](https://tableflow.com)
- - date_published: 2023-10-25T17:22:01.648668+00:00
-
- ## tablehopper
- - [https://www.tablehopper.com](https://www.tablehopper.com)
- - date_published: 2024-05-06T16:27:02.541797+00:00
-
- ## Homepage
- - [https://tableneeds.com](https://tableneeds.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Overview | TablePlus Documentation
- - [https://docs.tableplus.com](https://docs.tableplus.com)
- - date_published: 2024-05-12T04:39:11.706777+00:00
-
- ## TablePlus | Modern, Native Tool for Database Management.
- - [https://tableplus.com](https://tableplus.com)
- - date_published: 2024-03-30T08:52:11.723907+00:00
-
- ## Table Standard
- - [https://tablestandard.com](https://tablestandard.com)
- - date_published: 2024-01-22T15:55:12+00:00
- - tags: ['tabletop games', 'wargames', 'warhammer']
-
- ## Tablet Magazine
- - [https://www.tabletmag.com](https://www.tabletmag.com)
- - date_published: 2023-12-06T10:23:40+00:00
- - tags: ['israel news', 'israel']
-
- ## Tabletmonkeys - The World's Largest Computer Tablet Magazine/Website • Tabletmonkeys Is The World's Largest Computer Tablet Magazine/Website With Tablet Comparison, Tablet Deals, Tablet Leaks, Tablet Rumors, and Tablet News.
- - [https://tabletmonkeys.com](https://tabletmonkeys.com)
- - date_published: 2023-10-25T17:22:16.200755+00:00
-
- ## Home - TableTop Game and Hobby
- - [https://tabletopgameandhobby.com](https://tabletopgameandhobby.com)
- - date_published: 2023-10-25T11:11:47.639152+00:00
-
- ## Tabletop Games Blog - All things tabletop games
- - [https://tabletopgamesblog.com](https://tabletopgamesblog.com)
- - date_published: 2023-10-25T11:11:51.352396+00:00
-
- ## Tabletop Gaming News - TGN
- - [https://www.tabletopgamingnews.com](https://www.tabletopgamingnews.com)
- - date_published: 2023-02-09T12:22:23+00:00
- - tags: ['warhammer', 'tabletop games', 'game news']
-
- ## Play 2,400+ Board Games Online for Free • Tabletopia
- - [https://tabletopia.com](https://tabletopia.com)
- - date_published: 2023-10-25T11:12:02.256440+00:00
- - tags: ['video games']
-
- ## Tabletop Publishers: a board game publisher database
- - [https://tabletoppublishers.com](https://tabletoppublishers.com)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Home | Tabletop Simulator
- - [https://www.tabletopsimulator.com](https://www.tabletopsimulator.com)
- - date_published: 2023-10-27T10:35:48.411335+00:00
- - tags: ['video game', 'tabletop games']
-
- ## Tabletop Skirmish Games
- - [https://tabletopskirmishgames.com](https://tabletopskirmishgames.com)
- - date_published: 2023-10-27T07:59:36.389296+00:00
-
- ## Tabletop world
- - [https://tabletop-world.com](https://tabletop-world.com)
- - date_published: 2023-10-27T07:56:12+00:00
- - tags: ['tabletop models', 'tabletop games', 'miniatures']
-
- ## Tablo TV - Watch & Record Live TV. Subscription Free.
- - [https://www.tablotv.com](https://www.tablotv.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Tabnine AI coding assistant | Private, personalized, protected
- - [https://tabnine.com](https://tabnine.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Tabnine AI coding assistant | Private, personalized, protected
- - [https://www.tabnine.com](https://www.tabnine.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home - Tachyon Publications
- - [https://tachyonpublications.com](https://tachyonpublications.com)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Taco Bell
- - [https://www.tacobell.com](https://www.tacobell.com)
- - date_published: 2024-05-01T05:57:06.791271+00:00
-
- ## Le club de MMA et de Boxe à Toulouse !
- - [https://tactical-fight-team.com](https://tactical-fight-team.com)
- - date_published: 2023-07-31T00:00:00+00:00
-
- ## Built to Win: G9 Defense 6.5 Creedmoor Solid Copper Super Match
- - [https://www.tactical-life.com](https://www.tactical-life.com)
- - date_published: 2024-04-29T04:59:50.635995+00:00
-
- ## Performance marketing tools
- - [https://tacticrealtime.com](https://tacticrealtime.com)
- - date_published: 2024-05-06T17:43:58.576401+00:00
-
- ## Tacticus – a mobile strategy game based on Warhammer 40,000
- - [https://play.tacticusgame.com](https://play.tacticusgame.com)
- - date_published: 2022-05-17T10:25:15+00:00
-
- ## Tacticus – a mobile strategy game based on Warhammer 40,000
- - [https://tacticusgame.com](https://tacticusgame.com)
- - date_published: 2022-05-17T10:25:15+00:00
- - tags: ['video game', 'mobile']
-
- ## Speech Therapy Apps for Adults: Stroke, Aphasia, Dementia
- - [https://tactustherapy.com](https://tactustherapy.com)
- - date_published: 2024-04-29T04:44:12.363591+00:00
 

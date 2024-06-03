@@ -1,3 +1,260 @@
+ ## Developing Minds. Improving Hearts. Hillsdale College
+ - [https://www.hillsdale.edu](https://www.hillsdale.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Startseite - Hochschule München
+ - [https://www.hm.edu](https://www.hm.edu)
+ - date_published: 2024-05-10T06:17:11.242900+00:00
+
+ ## Computer Science | Harvey Mudd College
+ - [https://www.cs.hmc.edu](https://www.cs.hmc.edu)
+ - date_published: 2024-04-28T05:51:21.421698+00:00
+
+ ## Home | Harvey Mudd College
+ - [https://www.hmc.edu](https://www.hmc.edu)
+ - date_published: 2024-04-28T05:52:27.805530+00:00
+
+ ## Harvey Mudd College Mathematics
+ - [https://www.math.hmc.edu](https://www.math.hmc.edu)
+ - date_published: 2024-04-28T05:51:36.123537+00:00
+
+ ## Home - Zucker School of Medicine
+ - [https://medicine.hofstra.edu](https://medicine.hofstra.edu)
+ - date_published: 2024-05-07T19:48:26.400833+00:00
+
+ ## Hult International Business School - For Those Made to Do
+ - [https://www.hult.edu](https://www.hult.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Hobart and William Smith Colleges
+ - [https://www.hws.edu](https://www.hws.edu)
+ - date_published: 2024-05-01T03:32:47.553931+00:00
+
+ ## Albert :: Home
+ - [https://albert.ias.edu](https://albert.ias.edu)
+ - date_published: 2024-04-30T04:56:35.530469+00:00
+
+ ## IAS Store
+ - [https://store.ias.edu](https://store.ias.edu)
+ - date_published: 2024-04-30T04:56:28.052317+00:00
+
+ ## Institute for Advanced Study
+ - [https://www.ias.edu](https://www.ias.edu)
+ - date_published: 2023-10-25T18:52:27.675140+00:00
+
+ ## School of Mathematics
+ - [http://www.math.ias.edu](http://www.math.ias.edu)
+ - date_published: 2019-09-11T19:48:03+00:00
+
+ ## School of Natural Sciences
+ - [http://www.sns.ias.edu](http://www.sns.ias.edu)
+ - date_published: 2009-10-19T23:20:51+00:00
+
+ ## Department of Economics
+ - [http://www2.econ.iastate.edu](http://www2.econ.iastate.edu)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Department of Electrical and Computer Engineering – College of Engineering, Iowa State University
+ - [https://www.ece.iastate.edu](https://www.ece.iastate.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+ - tags: ['university']
+
+ ## Iowa State University
+ - [https://www.iastate.edu](https://www.iastate.edu)
+ - date_published: 2024-05-08T03:31:22.374240+00:00
+
+ ## Policy Library
+ - [https://www.policy.iastate.edu](https://www.policy.iastate.edu)
+ - date_published: 2024-05-09T05:10:05.209039+00:00
+
+ ## ICON Collective Music Production School: LA & Online
+ - [https://www.iconcollective.edu](https://www.iconcollective.edu)
+ - date_published: 2024-05-08T09:20:59.159855+00:00
+
+ ## IESE Business School: MBAs & Executive Education | #1 FT since 2015
+ - [https://www.iese.edu](https://www.iese.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Chicago-Kent College of Law | Chicago-Kent College of Law
+ - [https://kentlaw.iit.edu](https://kentlaw.iit.edu)
+ - date_published: 2024-05-11T10:54:08.976687+00:00
+
+ ## Illinois Institute of Technology
+ - [https://professionallearning.catalog.iit.edu](https://professionallearning.catalog.iit.edu)
+ - date_published: 2024-02-08T22:08:52.323949+00:00
+
+ ## Illinois Tech | Illinois Institute of Technology
+ - [https://web.iit.edu](https://web.iit.edu)
+ - date_published: 2024-05-01T07:27:02.099486+00:00
+
+ ## Illinois Tech | Illinois Institute of Technology
+ - [https://www.iit.edu](https://www.iit.edu)
+ - date_published: 2024-05-11T10:54:11.667812+00:00
+
+ ## Home :: ECE 443 - ECE - Illinois
+ - [https://443.ece.illinois.edu](https://443.ece.illinois.edu)
+ - date_published: 2024-04-30T04:58:06.698315+00:00
+
+ ## | Illinois 4-H | UIUC
+ - [https://4h.extension.illinois.edu](https://4h.extension.illinois.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## ACES Alumni Association | College of Agricultural, Consumer and Environmental Sciences | UIUC
+ - [https://acesalumni.illinois.edu](https://acesalumni.illinois.edu)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Home | ACES | UIUC
+ - [https://aces.illinois.edu](https://aces.illinois.edu)
+ - date_published: 2024-02-24T10:02:10.954053+00:00
+
+ ## University of Illinois Undergraduate Admissions
+ - [https://admissions.illinois.edu](https://admissions.illinois.edu)
+ - date_published: 2024-04-30T04:56:47.882075+00:00
+
+ ## Office of the Associate Dean for Research - Home
+ - [https://adr.grainger.illinois.edu](https://adr.grainger.illinois.edu)
+ - date_published: 2024-04-30T04:59:02.681205+00:00
+
+ ## Webtools
+ - [https://blogs.illinois.edu](https://blogs.illinois.edu)
+ - date_published: 2024-04-30T05:00:40.565731+00:00
+
+ ## Blue Waters User Portal | Home
+ - [https://bluewaters.ncsa.illinois.edu](https://bluewaters.ncsa.illinois.edu)
+ - date_published: 2024-04-29T03:32:14.133962+00:00
+
+ ## Sign in to your account
+ - [https://canvas.illinois.edu](https://canvas.illinois.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## CAP Seminar | UIUC CS
+ - [https://capseminar.cs.illinois.edu](https://capseminar.cs.illinois.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Hosted Brand Assets | University of Illinois Urbana-Champaign
+ - [https://cdn.brand.illinois.edu](https://cdn.brand.illinois.edu)
+ - date_published: 2024-04-30T04:57:17.599308+00:00
+
+ ## Test Access
+ - [https://cdn.toolkit.illinois.edu](https://cdn.toolkit.illinois.edu)
+ - date_published: 2024-04-30T04:56:50.858481+00:00
+
+ ## Charith Mendis
+ - [https://charithm.web.illinois.edu](https://charithm.web.illinois.edu)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## Home - Chez Veterans Center
+ - [https://chezveteranscenter.ahs.illinois.edu](https://chezveteranscenter.ahs.illinois.edu)
+ - date_published: 2024-04-30T04:57:43.259140+00:00
+
+ ## City Scholars
+ - [https://cityscholars.engineering.illinois.edu](https://cityscholars.engineering.illinois.edu)
+ - date_published: 2024-04-30T04:58:44.182490+00:00
+
+ ## University of Illinois Counseling Center
+ - [https://counselingcenter.illinois.edu](https://counselingcenter.illinois.edu)
+ - date_published: 2024-04-30T04:58:57.433376+00:00
+
+ ## Course Websites
+ - [https://courses.engr.illinois.edu](https://courses.engr.illinois.edu)
+ - date_published: 2024-04-30T04:57:57.304045+00:00
+
+ ## Course Websites
+ - [https://courses.grainger.illinois.edu](https://courses.grainger.illinois.edu)
+ - date_published: 2024-04-30T04:57:35.853607+00:00
+
+ ## Course Explorer
+ - [https://courses.illinois.edu](https://courses.illinois.edu)
+ - date_published: 2024-04-30T04:57:40.387792+00:00
+
+ ## Course Websites | The Grainger College of Engineering | UIUC
+ - [https://courses.physics.illinois.edu](https://courses.physics.illinois.edu)
+ - date_published: 2023-10-25T18:53:00.332561+00:00
+
+ ## COVID-19 – Information from the University of Illinois at Urbana-Champaign
+ - [https://covid19.illinois.edu](https://covid19.illinois.edu)
+ - date_published: 2024-04-30T04:57:03.845922+00:00
+
+ ## Home
+ - [http://cs341.cs.illinois.edu](http://cs341.cs.illinois.edu)
+ - date_published: 2024-04-30T04:58:22.992896+00:00
+
+ ## Home
+ - [https://cs.illinois.edu](https://cs.illinois.edu)
+ - date_published: 2024-04-30T04:59:35.285332+00:00
+
+ ## Dilek Hakkani-Tür
+ - [https://dilek.web.illinois.edu](https://dilek.web.illinois.edu)
+ - date_published: 2024-04-30T04:58:14.570436+00:00
+
+ ## Welcome to Data Science Discovery! - Data Science Discovery
+ - [https://discovery.cs.illinois.edu](https://discovery.cs.illinois.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## https://dpj.cs.illinois.edu
+ - [https://dpj.cs.illinois.edu](https://dpj.cs.illinois.edu)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Home
+ - [https://ece.illinois.edu](https://ece.illinois.edu)
+ - date_published: 2024-04-30T04:58:09.015864+00:00
+
+ ## Eduardo Fradkin (Physics)
+ - [http://eduardo.physics.illinois.edu](http://eduardo.physics.illinois.edu)
+ - date_published: 2024-04-30T04:58:35.693180+00:00
+
+ ## University of Illinois
+ - [https://emergency.publicaffairs.illinois.edu](https://emergency.publicaffairs.illinois.edu)
+ - date_published: 2024-04-30T04:56:49.329047+00:00
+
+ ## Engineering IT Shared Services
+ - [https://engrit.illinois.edu](https://engrit.illinois.edu)
+ - date_published: 2024-04-30T04:58:01.554925+00:00
+
+ ## University of Illinois Undergraduate Admissions
+ - [https://enroll.illinois.edu](https://enroll.illinois.edu)
+ - date_published: 2024-04-30T04:57:06.463705+00:00
+
+ ## University of Illinois Urbana-Champaign
+ - [https://experts.illinois.edu](https://experts.illinois.edu)
+ - date_published: 2024-05-07T14:56:52.738701+00:00
+
+ ## University of Illinois Extension
+ - [https://extension.illinois.edu](https://extension.illinois.edu)
+ - date_published: 2024-04-30T04:56:53.692565+00:00
+
+ ## Webtools
+ - [https://go.aces.illinois.edu](https://go.aces.illinois.edu)
+ - date_published: 2024-04-30T04:57:02.474302+00:00
+
+ ## Webtools
+ - [https://go.cs.illinois.edu](https://go.cs.illinois.edu)
+ - date_published: 2024-04-30T04:59:07.891115+00:00
+
+ ## Home
+ - [https://grainger.illinois.edu](https://grainger.illinois.edu)
+ - date_published: 2024-04-30T04:57:38.816733+00:00
+
+ ## Welcome
+ - [https://hr.grainger.illinois.edu](https://hr.grainger.illinois.edu)
+ - date_published: 2024-04-30T04:58:49.547769+00:00
+
+ ## Welcome to IDEA
+ - [https://idea.illinois.edu](https://idea.illinois.edu)
+ - date_published: 2024-04-30T04:58:37.490060+00:00
+
+ ## Home
+ - [https://iefx.engineering.illinois.edu](https://iefx.engineering.illinois.edu)
+ - date_published: 2024-04-30T04:58:22.155596+00:00
+
+ ## Home | University of Illinois Urbana-Champaign
+ - [https://illinois.edu](https://illinois.edu)
+ - date_published: 2024-04-30T04:57:00.723440+00:00
+
+ ## Indranil Gupta : UIUC Home Page
+ - [http://indy.cs.illinois.edu](http://indy.cs.illinois.edu)
+ - date_published: 2024-05-04T15:27:44.216567+00:00
+
  ## Log in | Inside ACES for faculty and staff | UIUC
  - [https://inside.aces.illinois.edu](https://inside.aces.illinois.edu)
  - date_published: 2024-04-30T04:57:23.520184+00:00
@@ -3751,263 +4008,4 @@ Data Services
  ## Undergraduate Announcement
  - [https://ua.princeton.edu](https://ua.princeton.edu)
  - date_published: 2024-05-07T19:55:12.017457+00:00
-
- ## Robert J. Vanderbei
- - [https://vanderbei.princeton.edu](https://vanderbei.princeton.edu)
- - date_published: 2024-04-22T05:51:14.230079+00:00
- - tags: ['personal']
-
- ## Web Development Services
- - [https://wds.princeton.edu](https://wds.princeton.edu)
- - date_published: 2024-05-07T19:54:41.611518+00:00
-
- ## Horde :: Log in
- - [https://webmail.math.princeton.edu](https://webmail.math.princeton.edu)
- - date_published: 2024-05-07T19:55:05.339582+00:00
-
- ## Home | Math
- - [https://web.math.princeton.edu](https://web.math.princeton.edu)
- - date_published: 2023-10-25T18:56:57.474310+00:00
-
- ## WordNet
- - [https://wordnet.princeton.edu](https://wordnet.princeton.edu)
- - date_published: 2024-05-09T07:44:28.609085+00:00
-
- ## Computer Science Department at Princeton University
- - [https://www.cs.princeton.edu](https://www.cs.princeton.edu)
- - date_published: 2023-10-25T18:56:59.790460+00:00
-
- ## Home | Math
- - [https://www.math.princeton.edu](https://www.math.princeton.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home | Princeton University
- - [https://www.princeton.edu](https://www.princeton.edu)
- - date_published: 2023-10-25T18:57:02.402538+00:00
- - tags: ['university']
-
- ## Penn State Account Management
- - [https://accounts.psu.edu](https://accounts.psu.edu)
- - date_published: 2024-05-01T06:45:12.427028+00:00
-
- ## Home Page - College of Arts & Architecture
- - [https://arts.psu.edu](https://arts.psu.edu)
- - date_published: 2024-05-08T11:44:17.489606+00:00
-
- ## Penn State University Libraries Catalog
- - [https://catalog.libraries.psu.edu](https://catalog.libraries.psu.edu)
- - date_published: 2024-05-07T10:26:09.904495+00:00
-
- ## CiteSeerX
- - [http://citeseer.ist.psu.edu](http://citeseer.ist.psu.edu)
- - date_published: 2024-05-08T09:32:51.681789+00:00
-
- ## CiteSeerX
- - [https://citeseerx.ist.psu.edu](https://citeseerx.ist.psu.edu)
- - date_published: 2023-10-25T18:57:04.773829+00:00
-
- ## About CiteSeerX | CiteSeerX
- - [https://csxstatic.ist.psu.edu](https://csxstatic.ist.psu.edu)
- - date_published: 2024-05-07T20:01:07.174781+00:00
-
- ## CONTENTdm
- - [https://digital.libraries.psu.edu](https://digital.libraries.psu.edu)
- - date_published: 2024-05-07T10:20:10.781129+00:00
-
- ## Penn State Extension | The Pennsylvania State University
- - [https://extension.psu.edu](https://extension.psu.edu)
- - date_published: 2024-05-26T06:16:00.881340+00:00
-
- ## Global Penn State
- - [https://global.psu.edu](https://global.psu.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Penn State | Headlines
- - [https://headlines.psu.edu](https://headlines.psu.edu)
- - date_published: 2024-05-07T20:01:44.859773+00:00
-
- ## Home Page
- - [https://hr.psu.edu](https://hr.psu.edu)
- - date_published: 2024-05-07T20:02:40.435140+00:00
-
- ## Home Page - INSECT NET
- - [https://insectnet.psu.edu](https://insectnet.psu.edu)
- - date_published: 2024-05-01T08:04:32.101964+00:00
-
- ## IT Learning & Development | Penn State
- - [https://itld.psu.edu](https://itld.psu.edu)
- - date_published: 2024-05-07T20:01:10.353305+00:00
-
- ## Information Technology – Penn State
- - [https://it.psu.edu](https://it.psu.edu)
- - date_published: 2024-05-07T20:01:33.063659+00:00
-
- ## Penn State University Libraries
- - [https://libraries.psu.edu](https://libraries.psu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## LionPATH Support
- - [https://lionpathsupport.psu.edu](https://lionpathsupport.psu.edu)
- - date_published: 2024-05-07T20:02:22.212773+00:00
-
- ## Penn State Media Experts
- - [https://media.psu.edu](https://media.psu.edu)
- - date_published: 2024-05-07T20:01:36.757471+00:00
-
- ## Penn State Go | The all-in-one mobile app for Penn State
- - [https://mobile.psu.edu](https://mobile.psu.edu)
- - date_published: 2024-05-07T20:02:46.228760+00:00
-
- ## EMS Museum & Art Gallery
- - [https://museum.ems.psu.edu](https://museum.ems.psu.edu)
- - date_published: 2024-05-11T09:10:00.824902+00:00
-
- ## Penn State Policies | Penn State Policies
- - [https://policy.psu.edu](https://policy.psu.edu)
- - date_published: 2024-05-07T20:01:18.295875+00:00
-
- ## Home Page - The Center for Pollinator Research
- - [https://pollinators.psu.edu](https://pollinators.psu.edu)
- - date_published: 2024-05-01T08:03:20.130062+00:00
-
- ## Penn State Account Management
- - [https://psualert.psu.edu](https://psualert.psu.edu)
- - date_published: 2024-05-07T20:01:46.538358+00:00
-
- ## Giving to Penn State
- - [https://raise.psu.edu](https://raise.psu.edu)
- - date_published: 2024-05-07T20:02:37.985906+00:00
-
- ## Penn State Information Security |
- - [https://security.psu.edu](https://security.psu.edu)
- - date_published: 2024-05-07T20:01:12.487672+00:00
-
- ## Sites at Penn State | Create websites easily with WordPress
- - [https://sites.psu.edu](https://sites.psu.edu)
- - date_published: 2023-10-25T18:57:08.218702+00:00
-
- ## Home Page | Penn State Office of Strategic Communications
- - [https://strategiccommunications.psu.edu](https://strategiccommunications.psu.edu)
- - date_published: 2024-05-07T20:01:43.515878+00:00
-
- ## Home Page - Penn State Office of Ethics and Compliance
- - [https://universityethics.psu.edu](https://universityethics.psu.edu)
- - date_published: 2024-05-07T20:01:39.011868+00:00
-
- ## Veterans – Veteran Affairs and Services
- - [https://veterans.psu.edu](https://veterans.psu.edu)
- - date_published: 2024-05-07T20:01:35.068137+00:00
-
- ## Respiratory Symptoms | Penn State Student Affairs
- - [https://virusinfo.psu.edu](https://virusinfo.psu.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## PSAA Website
- - [https://www.alumni.psu.edu](https://www.alumni.psu.edu)
- - date_published: 2024-05-07T20:02:10.840968+00:00
-
- ## Penn State College of Earth and Mineral Sciences
- - [https://www.ems.psu.edu](https://www.ems.psu.edu)
- - date_published: 2024-03-21T17:17:43.722779+00:00
-
- ## Make a Gift to Penn State
- - [http://www.givenow.psu.edu](http://www.givenow.psu.edu)
- - date_published: 2024-05-07T20:00:52.559607+00:00
-
- ## Department of Mathematics | Eberly College of Science
- - [http://www.math.psu.edu](http://www.math.psu.edu)
- - date_published: 2024-05-07T20:22:26.551905+00:00
-
- ## Home Page | University Police & Public Safety
- - [https://www.police.psu.edu](https://www.police.psu.edu)
- - date_published: 2024-05-07T20:02:12.816136+00:00
-
- ## Penn State University
- - [https://www.psu.edu](https://www.psu.edu)
- - date_published: 2023-11-01T07:44:07.480002+00:00
-
- ## Office of the University Registrar | Penn State
- - [https://www.registrar.psu.edu](https://www.registrar.psu.edu)
- - date_published: 2024-05-07T20:01:49.286073+00:00
-
- ## www.work -- Personalized
- - [https://www.work.psu.edu](https://www.work.psu.edu)
- - date_published: 2024-05-07T20:02:21.048939+00:00
-
- ## Penn State World Campus - Degrees, Certificates, and Courses Offered Online
- - [https://www.worldcampus.psu.edu](https://www.worldcampus.psu.edu)
- - date_published: 2024-05-07T20:02:19.052585+00:00
-
- ## Are You Ready to be a Boilermaker?
- - [https://admissions.purdue.edu](https://admissions.purdue.edu)
- - date_published: 2024-05-07T20:03:44.790424+00:00
-
- ## Apply to Purdue   - Undergraduate Admissions - Purdue University
- - [https://apply.purdue.edu](https://apply.purdue.edu)
- - date_published: 2024-05-07T20:04:00.875404+00:00
-
- ## Purdue Careers
- - [https://careers.purdue.edu](https://careers.purdue.edu)
- - date_published: 2024-05-07T20:02:49.622232+00:00
-
- ## Home - 
-			 College of Liberal Arts -  Purdue University
- - [https://cla.purdue.edu](https://cla.purdue.edu)
- - date_published: 2024-05-11T09:34:20.003397+00:00
-
- ## Purdue Connect
- - [https://connect.purdue.edu](https://connect.purdue.edu)
- - date_published: 2024-05-07T20:03:19.226970+00:00
-
- ## Purdue University - Dining & Culinary
- - [https://dining.purdue.edu](https://dining.purdue.edu)
- - date_published: 2024-05-07T20:04:22.231068+00:00
-
- ## Homepage
- - [https://engineering.purdue.edu](https://engineering.purdue.edu)
- - date_published: 2023-12-04T12:08:09.866347+00:00
-
- ## Events Calendar
- - [https://events.purdue.edu](https://events.purdue.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home | Purdue University IT
- - [https://it.purdue.edu](https://it.purdue.edu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Mitchell E. Daniels, Jr. School of Business - Purdue Business
- - [https://krannert.purdue.edu](https://krannert.purdue.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Purdue University Marketing and Communications
- - [https://marcom.purdue.edu](https://marcom.purdue.edu)
- - date_published: 2024-05-07T20:03:24.750525+00:00
-
- ## ML@Purdue
- - [https://mlp.cs.purdue.edu](https://mlp.cs.purdue.edu)
- - date_published: 2024-04-28T03:28:01.905911+00:00
-
- ## Purdue Web Authentication - Loading Session Information
- - [https://mypurdue.purdue.edu](https://mypurdue.purdue.edu)
- - date_published: 2024-05-07T20:03:23.621941+00:00
-
- ## OneCampus
- - [https://one.purdue.edu](https://one.purdue.edu)
- - date_published: 2024-05-07T20:04:23.660823+00:00
-
- ## Office of Professional Practice - Purdue University
- - [https://opp.purdue.edu](https://opp.purdue.edu)
- - date_published: 2024-05-07T20:03:39.491132+00:00
-
- ## Purdue University
- - [https://purdue.edu](https://purdue.edu)
- - date_published: 2024-04-28T03:27:49.632821+00:00
-
- ## The Persistent Pursuit
- - [https://stories.purdue.edu](https://stories.purdue.edu)
- - date_published: 2024-05-07T20:04:08.792823+00:00
-
- ## Are You Ready to be a Boilermaker?
- - [https://www.admissions.purdue.edu](https://www.admissions.purdue.edu)
- - date_published: 2024-05-07T20:03:49.595036+00:00
 

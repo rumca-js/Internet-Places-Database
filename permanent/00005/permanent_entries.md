@@ -1,3 +1,7 @@
+ ## Play football near me | Kickabout
+ - [https://kickabout.club](https://kickabout.club)
+ - date_published: 2024-05-11T07:17:57.434098+00:00
+
  ## Kinopio Club
  - [https://club.kinopio.club](https://club.kinopio.club)
  - date_published: 2024-05-05T00:00:00+00:00
@@ -4068,8 +4072,4 @@ It’s what you do.
  ## Event has concluded
  - [https://ire21.pathable.co](https://ire21.pathable.co)
  - date_published: 2024-05-11T07:23:17.961081+00:00
-
- ## Event has concluded
- - [https://nicar21.pathable.co](https://nicar21.pathable.co)
- - date_published: 2024-05-11T07:23:16.000254+00:00
 

@@ -1,3 +1,47 @@
+ ## Biblia Paralela
+ - [https://bibliaparalela.com](https://bibliaparalela.com)
+ - date_published: 2024-06-02T20:51:18.459000+00:00
+
+ ## Bíblia Português
+ - [https://bibliaportugues.com](https://bibliaportugues.com)
+ - date_published: 2024-06-02T20:51:21.306393+00:00
+
+ ## Recent Activity | Christchurch City Libraries Ngā Kete Wānanga o Ōtautahi | BiblioCommons
+ - [https://christchurch.bibliocommons.com](https://christchurch.bibliocommons.com)
+ - date_published: 2024-05-08T05:15:06.152475+00:00
+
+ ## Recent Activity | Oakland Public Library | BiblioCommons
+ - [https://oaklandlibrary.bibliocommons.com](https://oaklandlibrary.bibliocommons.com)
+ - date_published: 2024-05-08T11:00:22.709397+00:00
+
+ ## Recent Activity | San Francisco Public Library | BiblioCommons
+ - [https://sfpl.bibliocommons.com](https://sfpl.bibliocommons.com)
+ - date_published: 2024-05-09T05:36:58.296371+00:00
+
+ ## Recent Activity | Tulsa City-County Library | BiblioCommons
+ - [https://tccl.bibliocommons.com](https://tccl.bibliocommons.com)
+ - date_published: 2024-05-29T05:27:57.679903+00:00
+
+ ## Virtusales Publishing Solutions | Publishing Software Supplier
+ - [https://www.biblioimages.com](https://www.biblioimages.com)
+ - date_published: 2024-05-04T08:43:10.817484+00:00
+
+ ## Bibliopolis | We build the tools of the trade
+ - [http://www.bibliopolis.com](http://www.bibliopolis.com)
+ - date_published: 2024-05-08T03:14:40.148097+00:00
+
+ ## The Definitive Guide to BibTeX - BibTeX.com
+ - [https://www.bibtex.com](https://www.bibtex.com)
+ - date_published: 2024-05-06T22:31:35.330550+00:00
+
+ ## But I'm A Cat Person
+ - [http://bicatperson.com](http://bicatperson.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Home
+ - [https://bicyclecards.com](https://bicyclecards.com)
+ - date_published: 2024-04-28T02:51:25.850852+00:00
+
  ## Bicycle Retailer & Industry News
  - [https://www.bicycleretailer.com](https://www.bicycleretailer.com)
  - date_published: 2023-10-25T14:21:33.230031+00:00
@@ -2483,6 +2527,10 @@
  - date_published: 2023-10-25T09:06:37.426358+00:00
  - tags: ['personal']
 
+ ## Computers and Networks
+ - [http://computer-communication.blogspot.com](http://computer-communication.blogspot.com)
+ - date_published: 2024-06-02T05:52:13.535415+00:00
+
  ## Concurrency Freaks
  - [https://concurrencyfreaks.blogspot.com](https://concurrencyfreaks.blogspot.com)
  - date_published: 2024-01-09T02:30:50.690047+00:00
@@ -4110,54 +4158,4 @@
  ## Rheumatologe
  - [http://rheumatologe.blogspot.com](http://rheumatologe.blogspot.com)
  - date_published: 2024-05-06T00:00:00+00:00
-
- ## Richard Geldreich's Blog
- - [https://richg42.blogspot.com](https://richg42.blogspot.com)
- - date_published: 2023-10-25T09:10:49.721564+00:00
- - tags: ['personal']
-
- ## Poemas del río Wang
- - [https://riowang.blogspot.com](https://riowang.blogspot.com)
- - date_published: 2023-10-25T09:17:38.044539+00:00
- - tags: ['personal']
-
- ## Arkady's Thoughts
- - [https://rkdpolitics.blogspot.com](https://rkdpolitics.blogspot.com)
- - date_published: 2024-05-06T20:55:36.563620+00:00
-
- ## PANHARMONICON: Remarks on music composition, analysis, and the occasional non-human primate.
- - [http://robisonmusic.blogspot.com](http://robisonmusic.blogspot.com)
- - date_published: 2024-05-28T12:37:00+00:00
-
- ## Rosemary Knits
- - [https://rosemaryknits.blogspot.com](https://rosemaryknits.blogspot.com)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Saberpoint
- - [https://saberpoint.blogspot.com](https://saberpoint.blogspot.com)
- - date_published: 2024-05-06T20:58:27.342399+00:00
-
- ## Sage: Open Source Mathematics Software
- - [http://sagemath.blogspot.com](http://sagemath.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## Sandusky History
- - [http://sanduskyhistory.blogspot.com](http://sanduskyhistory.blogspot.com)
- - date_published: 2024-05-06T17:00:17.338962+00:00
-
- ## Sarnecka Lab Blog
- - [https://sarneckalab.blogspot.com](https://sarneckalab.blogspot.com)
- - date_published: 2024-05-06T14:14:52.343252+00:00
-
- ## SatTrackCam Leiden (b)log
- - [https://sattrackcam.blogspot.com](https://sattrackcam.blogspot.com)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Sauer & Steiner
- - [https://sauerandsteiner.blogspot.com](https://sauerandsteiner.blogspot.com)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Scent of Dawn
- - [http://scentofdawn.blogspot.com](http://scentofdawn.blogspot.com)
- - date_published: 2024-05-25T23:32:58.805025+00:00
 

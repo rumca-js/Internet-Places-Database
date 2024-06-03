@@ -1,3 +1,23 @@
+ ## apple-history.com / specs for every apple computer, established 1996
+ - [https://apple-history.com](https://apple-history.com)
+ - date_published: 2024-01-09T02:29:45.944627+00:00
+
+ ## Apple News, Rumors, Reviews, Prices & Deals | AppleInsider
+ - [https://appleinsider.com](https://appleinsider.com)
+ - date_published: 2023-10-25T12:42:44.329223+00:00
+
+ ## View Discussions and Categories on AppleInsider Forums
+ - [https://forums.appleinsider.com](https://forums.appleinsider.com)
+ - date_published: 2024-03-24T00:00:00+00:00
+
+ ## AppleMagazine.com | The Latest Apple News, Every Day
+ - [https://applemagazine.com](https://applemagazine.com)
+ - date_published: 2023-10-25T12:42:52.057825+00:00
+
+ ## Marketing Tools and Resources - Apple Services
+ - [https://tools.applemediaservices.com](https://tools.applemediaservices.com)
+ - date_published: 2024-05-01T03:15:57.333566+00:00
+
  ## Apple Must - Great Apple tips and useful insights
  - [https://www.applemust.com](https://www.applemust.com)
  - date_published: 2023-10-25T12:42:54.674971+00:00
@@ -4067,24 +4087,4 @@
  - [https://azsamadlessons.com](https://azsamadlessons.com)
  - date_published: 2023-12-02T21:17:30.199443+00:00
  - tags: ['personal']
-
- ## an Arizona Diamondbacks community
- - [http://www.azsnakepit.com](http://www.azsnakepit.com)
- - date_published: 2024-04-29T02:11:59.490404+00:00
-
- ## AzuraCast
- - [https://azuracast.com](https://azuracast.com)
- - date_published: 2024-05-01T00:27:33.647112+00:00
-
- ## Azure AI Studio
- - [https://ai.azure.com](https://ai.azure.com)
- - date_published: 2024-05-24T19:35:13.949491+00:00
-
- ## Azure Cosmos DB
- - [https://cosmos.azure.com](https://cosmos.azure.com)
- - date_published: 2024-05-08T05:31:20.873072+00:00
-
- ## Gateway Admin Portal
- - [https://gatewayadminportal.azure.com](https://gatewayadminportal.azure.com)
- - date_published: 2024-05-07T09:13:08.237562+00:00
 

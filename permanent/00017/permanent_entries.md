@@ -1,3 +1,77 @@
+ ## Daniel Snyders
+ - [https://www.danielsnyders.com](https://www.danielsnyders.com)
+ - date_published: 2008-01-01T00:00:00+00:00
+
+ ## Coaching and Marketing for Evidence-Based Advisors - Dan Solin
+ - [https://danielsolin.com](https://danielsolin.com)
+ - date_published: 2023-07-21T00:00:00+00:00
+
+ ## Home | Daniel Southwell
+ - [https://www.danielsouthwell.com](https://www.danielsouthwell.com)
+ - date_published: 2023-11-29T14:44:43.936182+00:00
+ - tags: ['personal']
+
+ ## Daniel Van Cuylenburg - Remix, NextJS and Tailwind CSS specialist
+ - [https://danielvanc.com](https://danielvanc.com)
+ - date_published: 2024-05-11T10:23:50.202419+00:00
+
+ ## agora.danielwildt.com
+ - [https://agora.danielwildt.com](https://agora.danielwildt.com)
+ - date_published: 2024-01-06T17:57:51.669161+00:00
+ - tags: ['personal']
+
+ ## daniel wildt
+ - [https://blog.danielwildt.com](https://blog.danielwildt.com)
+ - date_published: 2024-05-01T03:58:33.678617+00:00
+ - tags: ['personal']
+
+ ## Grupo Mentoria Daniel Wildt
+ - [https://mentoria.danielwildt.com](https://mentoria.danielwildt.com)
+ - date_published: 2024-05-01T03:58:38.497527+00:00
+
+ ## Viva Seu Tempo
+ - [http://vivaseutempo.danielwildt.com](http://vivaseutempo.danielwildt.com)
+ - date_published: 2024-05-01T03:58:35.741372+00:00
+
+ ## Dan Kaminsky's Blog
+ - [https://dankaminsky.com](https://dankaminsky.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## SEO Consultant « Dan Lacey
+ - [https://www.danlacey.com](https://www.danlacey.com)
+ - date_published: 2023-12-19T02:59:42.157918+00:00
+ - tags: ['personal']
+
+ ## Home
+ - [https://danleatherman.com](https://danleatherman.com)
+ - date_published: 2023-12-25T04:55:46.876570+00:00
+ - tags: ['personal']
+
+ ## Daniel Lebrero Berna Blog
+ - [https://danlebrero.com](https://danlebrero.com)
+ - date_published: 2023-10-25T13:42:59.369073+00:00
+
+ ## danli's site
+ - [https://danli-luo.com](https://danli-luo.com)
+ - date_published: 2024-02-20T16:42:50.881510+00:00
+
+ ## Dan Lockton – design and imaginaries
+ - [http://danlockton.com](http://danlockton.com)
+ - date_published: 2024-05-11T11:26:14.289540+00:00
+
+ ## https://danluu.com
+ - [https://danluu.com](https://danluu.com)
+ - date_published: 2023-12-07T19:41:48.559063+00:00
+ - tags: ['personal']
+
+ ## Dan Luvisi Art
+ - [https://www.danluvisiart.com](https://www.danluvisiart.com)
+ - date_published: 2024-05-11T10:41:31.633065+00:00
+
+ ## Home | Dan Martell
+ - [http://www.danmartell.com](http://www.danmartell.com)
+ - date_published: 2023-01-10T00:00:00+00:00
+
  ## Dan Midwood
  - [http://danmidwood.com](http://danmidwood.com)
  - date_published: 2014-11-21T00:00:00+00:00
@@ -1712,6 +1786,7 @@
  ## Dear Author
  - [http://dearauthor.com](http://dearauthor.com)
  - date_published: 2024-05-08T06:36:31.608272+00:00
+ - tags: ['books', 'book reviews']
 
  ## Dear Producer - Amplifying the Voices of Producers
  - [https://dearproducer.com](https://dearproducer.com)
@@ -2932,7 +3007,7 @@
  ## Royalty-free Images, Photo Stock, Video & Music | Depositphotos
  - [https://depositphotos.com](https://depositphotos.com)
  - date_published: 2024-03-01T09:12:52.967908+00:00
- - tags: ['assets images']
+ - tags: ['image assets']
 
  ## Depositphotos Knowledge Hub: Reviews, Tips, Trends, Ideas, More
  - [https://knowledge.depositphotos.com](https://knowledge.depositphotos.com)
@@ -4051,76 +4126,4 @@
  ## Diaries of Note – On this day in diary entries
  - [https://diariesofnote.com](https://diariesofnote.com)
  - date_published: 2023-10-25T13:51:24.637589+00:00
-
- ## Diario Médico
- - [https://www.diariomedico.com](https://www.diariomedico.com)
- - date_published: 2019-10-15T15:04:58+00:00
-
- ## El Diario Vasco - Noticias de Donostia, San Sebastián y Gipuzkoa
- - [https://www.diariovasco.com](https://www.diariovasco.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## DiaryLand members area
- - [https://chat.diaryland.com](https://chat.diaryland.com)
- - date_published: 2024-05-01T05:00:45.111917+00:00
-
- ## DiaryLand members area
- - [https://diaryland.com](https://diaryland.com)
- - date_published: 2024-05-01T05:00:37.114903+00:00
-
- ## Diaryland members area
- - [https://members.diaryland.com](https://members.diaryland.com)
- - date_published: 2023-10-25T13:51:29.144226+00:00
-
- ## Dicebreaker
- - [https://www.dicebreaker.com](https://www.dicebreaker.com)
- - date_published: 2023-10-25T11:11:12.489415+00:00
- - tags: ['wargames', 'magic the gathering', 'board games', 'board game news', 'warhammer', 'tabletop games']
-
- ## Home – Dice Paper Miniatures – Fantasy Art Miniatures Hobby Games
- - [https://dicepaperminis.com](https://dicepaperminis.com)
- - date_published: 2023-11-01T18:15:18.533183+00:00
- - tags: ['miniatures', 'warhammer', 'necromunda']
-
- ## DiceRight
- - [https://www.diceright.com](https://www.diceright.com)
- - date_published: 2023-10-25T13:51:30.991439+00:00
-
- ## Art Supplies | BLICK Art Materials
- - [https://www.dickblick.com](https://www.dickblick.com)
- - date_published: 2024-04-29T04:12:41.964208+00:00
-
- ## Home - Dick Clark Productions
- - [https://www.dickclark.com](https://www.dickclark.com)
- - date_published: 2024-05-04T08:19:39.406716+00:00
-
- ## DICKSON - DESIGN GENERALIST, DESIGNER, ART + DESIGN DIRECTOR
- - [http://dicksonchow.com](http://dicksonchow.com)
- - date_published: 2024-05-09T04:21:28.148551+00:00
-
- ## Dickson Neoh - Personal Portfolio
- - [https://dicksonneoh.com](https://dicksonneoh.com)
- - date_published: 2023-10-25T13:51:33.339476+00:00
- - tags: ['personal']
-
- ## Dictionary.com | Meanings & Definitions of English Words
- - [https://www.dictionary.com](https://www.dictionary.com)
- - date_published: 2023-10-25T09:28:45.890389+00:00
- - tags: ['dictionary']
-
- ## Merriam-Webster Dictionary API
- - [https://dictionaryapi.com](https://dictionaryapi.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## dictionaryevangelist.com is registered with Pair Domains
- - [http://www.dictionaryevangelist.com](http://www.dictionaryevangelist.com)
- - date_published: 2024-05-07T21:56:01.745993+00:00
-
- ## The Dictionary of Obscure Sorrows
- - [https://www.dictionaryofobscuresorrows.com](https://www.dictionaryofobscuresorrows.com)
- - date_published: 2023-10-25T13:51:36.270823+00:00
-
- ## Dictionary Society of North America - Welcome
- - [http://www.dictionarysociety.com](http://www.dictionarysociety.com)
- - date_published: 2024-05-07T21:56:17.828231+00:00
 

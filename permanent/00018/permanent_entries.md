@@ -1,3 +1,75 @@
+ ## Diario Médico
+ - [https://www.diariomedico.com](https://www.diariomedico.com)
+ - date_published: 2019-10-15T15:04:58+00:00
+
+ ## El Diario Vasco - Noticias de Donostia, San Sebastián y Gipuzkoa
+ - [https://www.diariovasco.com](https://www.diariovasco.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## DiaryLand members area
+ - [https://chat.diaryland.com](https://chat.diaryland.com)
+ - date_published: 2024-05-01T05:00:45.111917+00:00
+
+ ## DiaryLand members area
+ - [https://diaryland.com](https://diaryland.com)
+ - date_published: 2024-05-01T05:00:37.114903+00:00
+
+ ## Diaryland members area
+ - [https://members.diaryland.com](https://members.diaryland.com)
+ - date_published: 2023-10-25T13:51:29.144226+00:00
+
+ ## Dicebreaker
+ - [https://www.dicebreaker.com](https://www.dicebreaker.com)
+ - date_published: 2023-10-25T11:11:12.489415+00:00
+ - tags: ['wargames', 'magic the gathering', 'board games', 'board game news', 'warhammer', 'tabletop games']
+
+ ## Home – Dice Paper Miniatures – Fantasy Art Miniatures Hobby Games
+ - [https://dicepaperminis.com](https://dicepaperminis.com)
+ - date_published: 2023-11-01T18:15:18.533183+00:00
+ - tags: ['miniatures', 'warhammer', 'necromunda']
+
+ ## DiceRight
+ - [https://www.diceright.com](https://www.diceright.com)
+ - date_published: 2023-10-25T13:51:30.991439+00:00
+
+ ## Art Supplies | BLICK Art Materials
+ - [https://www.dickblick.com](https://www.dickblick.com)
+ - date_published: 2024-04-29T04:12:41.964208+00:00
+
+ ## Home - Dick Clark Productions
+ - [https://www.dickclark.com](https://www.dickclark.com)
+ - date_published: 2024-05-04T08:19:39.406716+00:00
+
+ ## DICKSON - DESIGN GENERALIST, DESIGNER, ART + DESIGN DIRECTOR
+ - [http://dicksonchow.com](http://dicksonchow.com)
+ - date_published: 2024-05-09T04:21:28.148551+00:00
+
+ ## Dickson Neoh - Personal Portfolio
+ - [https://dicksonneoh.com](https://dicksonneoh.com)
+ - date_published: 2023-10-25T13:51:33.339476+00:00
+ - tags: ['personal']
+
+ ## Dictionary.com | Meanings & Definitions of English Words
+ - [https://www.dictionary.com](https://www.dictionary.com)
+ - date_published: 2023-10-25T09:28:45.890389+00:00
+ - tags: ['dictionary']
+
+ ## Merriam-Webster Dictionary API
+ - [https://dictionaryapi.com](https://dictionaryapi.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## dictionaryevangelist.com is registered with Pair Domains
+ - [http://www.dictionaryevangelist.com](http://www.dictionaryevangelist.com)
+ - date_published: 2024-05-07T21:56:01.745993+00:00
+
+ ## The Dictionary of Obscure Sorrows
+ - [https://www.dictionaryofobscuresorrows.com](https://www.dictionaryofobscuresorrows.com)
+ - date_published: 2023-10-25T13:51:36.270823+00:00
+
+ ## Dictionary Society of North America - Welcome
+ - [http://www.dictionarysociety.com](http://www.dictionarysociety.com)
+ - date_published: 2024-05-07T21:56:17.828231+00:00
+
  ## D-ID Creative Reality™️
  - [https://www.d-id.com](https://www.d-id.com)
  - date_published: 2024-02-18T00:00:00+00:00
@@ -4029,81 +4101,4 @@
  ## Dumb Password Rules
  - [https://dumbpasswordrules.com](https://dumbpasswordrules.com)
  - date_published: 2023-10-25T13:59:43.811839+00:00
-
- ## The Dumbphones Blog · The Dumbphones Blog
- - [https://dumbph.com](https://dumbph.com)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## Dynamic Dummy Image Generator - DummyImage.com
- - [https://dummyimage.com](https://dummyimage.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## DummyJSON - Fake REST API of JSON data for development
- - [https://dummyjson.com](https://dummyjson.com)
- - date_published: 2024-04-28T04:22:25.588457+00:00
-
- ## Documentary - Dumpling Connection
- - [https://www.dumplingconnection.com](https://www.dumplingconnection.com)
- - date_published: 2024-05-07T15:14:10.210591+00:00
-
- ## Bar & Line
- - [https://blog.duncangeere.com](https://blog.duncangeere.com)
- - date_published: 2023-12-03T02:38:03.034981+00:00
-
- ## Duncan Geere
- - [https://duncangeere.com](https://duncangeere.com)
- - date_published: 2024-05-10T06:10:47.227227+00:00
-
- ## Duncan Geere
- - [https://www.duncangeere.com](https://www.duncangeere.com)
- - date_published: 2023-12-03T10:58:21.192847+00:00
- - tags: ['personal']
-
- ## Duncan McClean
- - [https://duncanmcclean.com](https://duncanmcclean.com)
- - date_published: 2024-05-11T10:24:45.463962+00:00
-
- ## Attention Required! | Cloudflare
- - [https://dune.com](https://dune.com)
- - date_published: 2024-04-30T06:29:48.276829+00:00
- - tags: ['crypto', 'shady']
-
- ## Arrakis - The DUNE 2 page by Stefan Hendriks, hosted on FED2k
- - [http://arrakis.dune2k.com](http://arrakis.dune2k.com)
- - date_published: 2024-05-09T09:10:42.123896+00:00
- - tags: ['dune 2', 'video game port', 'dune', 'open source', 'retro games']
-
- ## FED2k »
- - [https://dune2k.com](https://dune2k.com)
- - date_published: 2024-05-13T03:46:25.246507+00:00
- - tags: ['fan page', 'dune game', 'dune']
-
- ## DuneInfo - Dune - Behind The Scenes
- - [https://www.duneinfo.com](https://www.duneinfo.com)
- - date_published: 2024-05-07T14:04:04+00:00
- - tags: ['dune', 'movie']
-
- ## Dune: Part Two | Official Movie Site
- - [https://www.dunemovie.com](https://www.dunemovie.com)
- - date_published: 2023-11-13T13:00:16.333580+00:00
- - tags: ['dune', 'movie']
-
- ## Dune News Net - Dune movie, TV, and book news
- - [https://dunenewsnet.com](https://dunenewsnet.com)
- - date_published: 2024-05-07T00:00:00+00:00
- - tags: ['dune']
-
- ## Dune Novels – The Official Dune Website
- - [https://dunenovels.com](https://dunenovels.com)
- - date_published: 2024-03-01T00:00:00+00:00
- - tags: ['dune', 'frank herbert']
-
- ## Dune Novels – The Official Dune Website
- - [https://www.dunenovels.com](https://www.dunenovels.com)
- - date_published: 2024-03-01T00:00:00+00:00
- - tags: ['frank herbert', 'dune']
-
- ## Dungeon Investing | Substack
- - [https://www.dungeoninvesting.com](https://www.dungeoninvesting.com)
- - date_published: 2024-04-16T00:00:00+00:00
 

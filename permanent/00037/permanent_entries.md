@@ -1,3 +1,200 @@
+ ## Who's In Charge of My Mind?
+ - [https://notmymind.com](https://notmymind.com)
+ - date_published: 2023-12-19T23:17:03.469269+00:00
+
+ ## Stop others from tracking your car | NOTMYPLATE.COM
+ - [https://notmyplate.com](https://notmyplate.com)
+ - date_published: 2023-10-25T16:22:22.710434+00:00
+
+ ## notnite
+ - [https://notnite.com](https://notnite.com)
+ - date_published: 2024-05-02T13:57:52.880615+00:00
+ - tags: ['personal', 'web1']
+
+ ## Phil Noto
+ - [http://www.notoart.com](http://www.notoart.com)
+ - date_published: 2024-03-24T15:05:37.916864+00:00
+ - tags: ['personal', 'graphic designer']
+
+ ## Tim's Blog
+ - [https://notoriousbfg.com](https://notoriousbfg.com)
+ - date_published: 2024-06-01T05:04:29.257085+00:00
+ - tags: ['personal']
+
+ ## No To Spy Pixels
+ - [https://notospypixels.com](https://notospypixels.com)
+ - date_published: 2023-10-25T16:22:23.444274+00:00
+
+ ## Not Overthinking
+ - [https://notoverthinking.com](https://notoverthinking.com)
+ - date_published: 2024-05-06T13:28:34.353689+00:00
+ - tags: ['podcast']
+
+ ## No Treble: The Online Magazine for Bass Players
+ - [https://www.notreble.com](https://www.notreble.com)
+ - date_published: 2023-12-10T16:59:55.716286+00:00
+ - tags: ['personal']
+
+ ## https://blog.notryan.com
+ - [https://blog.notryan.com](https://blog.notryan.com)
+ - date_published: 2023-12-20T23:10:25.912130+00:00
+
+ ## notryan.com
+ - [https://notryan.com](https://notryan.com)
+ - date_published: 2024-02-05T07:22:35.891989+00:00
+
+ ## Not So Profound: A Newsletter for Misfit Psychonauts 🗞️
+ - [https://notsoprofound.com](https://notsoprofound.com)
+ - date_published: 2023-10-25T16:22:24.427864+00:00
+
+ ## 500
+ - [https://i2-prod.nottinghampost.com](https://i2-prod.nottinghampost.com)
+ - date_published: 2024-05-02T11:22:16.748213+00:00
+
+ ## Nottinghamshire Live - Latest local news, sport & business from Nottingham
+ - [https://www.nottinghampost.com](https://www.nottinghampost.com)
+ - date_published: 2024-05-06T23:48:54.362626+00:00
+
+ ## Not To Be Trusted With Knives
+ - [https://www.nottobetrustedwithknives.com](https://www.nottobetrustedwithknives.com)
+ - date_published: 2024-03-09T00:00:00+00:00
+
+ ## Nourish Your Mind – Your Personal Guide to Optimal Health
+ - [https://nourishyourmind.com](https://nourishyourmind.com)
+ - date_published: 2023-12-30T10:51:26.177146+00:00
+
+ ## world_sim: LLM prompted to act as a sentient CLI universe simulator
+ - [https://worldsim.nousresearch.com](https://worldsim.nousresearch.com)
+ - date_published: 2024-04-05T21:55:01+00:00
+
+ ## Le Nouvel Obs - Actualités en France et dans le monde
+ - [https://www.nouvelobs.com](https://www.nouvelobs.com)
+ - date_published: 2024-05-08T00:31:09.026982+00:00
+
+ ## Novabench - Free Computer Benchmark Software
+ - [https://novabench.com](https://novabench.com)
+ - date_published: 2024-04-18T11:16:47+00:00
+ - tags: ['pc benchmark']
+
+ ## NovaMostra - who seeks ... shall find
+ - [https://novamostra.com](https://novamostra.com)
+ - date_published: 2023-10-25T16:22:29.141519+00:00
+
+ ## THE NOVA OPEN
+ - [http://www.novaopen.com](http://www.novaopen.com)
+ - date_published: 2024-05-01T05:00:49.400801+00:00
+
+ ## Nova Science Publishers – Publisher of Books and Journals in Medicine and Health, Science and Technology and Social Sciences
+ - [https://novapublishers.com](https://novapublishers.com)
+ - date_published: 2024-05-06T14:46:05.865617+00:00
+
+ ## Novartis
+ - [https://www.novartis.com](https://www.novartis.com)
+ - date_published: 2024-05-04T15:31:56.242192+00:00
+
+ ## Nova Spivack - Weblog
+ - [https://www.novaspivack.com](https://www.novaspivack.com)
+ - date_published: 2023-12-10T21:13:13.462817+00:00
+
+ ## Novation | Grid Controllers, Grooveboxes, Synths and Keys
+ - [https://novationmusic.com](https://novationmusic.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://support.novationmusic.com](https://support.novationmusic.com)
+ - date_published: 2024-04-29T06:17:03.712546+00:00
+
+ ## Novatiq | Telco-Based Identity Solution
+ - [https://novatiq.com](https://novatiq.com)
+ - date_published: 2024-05-06T17:41:10.318957+00:00
+
+ ## No Vehicles In The Park
+ - [https://novehiclesinthepark.com](https://novehiclesinthepark.com)
+ - date_published: 2023-10-25T16:22:32.007173+00:00
+
+ ## Bugzilla Main Page
+ - [https://bugzilla.novell.com](https://bugzilla.novell.com)
+ - date_published: 2024-05-06T14:25:35.909534+00:00
+
+ ## Micro Focus | OpenText
+ - [http://www.novell.com](http://www.novell.com)
+ - date_published: 2024-05-15T14:26:51.618248+00:00
+
+ ## Novel Suspects
+ - [https://www.novelsuspects.com](https://www.novelsuspects.com)
+ - date_published: 2018-01-08T18:35:01+00:00
+
+ ## NoveltyAnsweringMachine.com | The World's Largest Archive for Novelty 
+Answering Machine Greetings!
+ - [https://www.noveltyansweringmachine.com](https://www.noveltyansweringmachine.com)
+ - date_published: 2023-10-25T16:22:33.282289+00:00
+
+ ## novelty-automation-home-page
+ - [http://www.novelty-automation.com](http://www.novelty-automation.com)
+ - date_published: 2024-05-04T13:42:47.090136+00:00
+
+ ## Facebook
+ - [https://novi.com](https://novi.com)
+ - date_published: 2024-05-07T16:11:08.201202+00:00
+
+ ## Pavel Novikau
+ - [https://novikau.com](https://novikau.com)
+ - date_published: 2024-01-01T03:38:58.292694+00:00
+
+ ## NOVOMATIC - Winning Technology
+ - [https://www.novomatic.com](https://www.novomatic.com)
+ - date_published: 2024-05-09T08:37:04.626622+00:00
+
+ ## Novus Bestiary: A collection of mythical creatures to inspire game masters.
+ - [https://www.novusbestiary.com](https://www.novusbestiary.com)
+ - date_published: 2024-05-01T02:26:13.742156+00:00
+
+ ## REALIC - realtime image crop app
+ - [https://img.novydenik.com](https://img.novydenik.com)
+ - date_published: 2024-05-13T03:10:33.127874+00:00
+
+ ## Now in the Nati
+ - [https://www.nowinthenati.com](https://www.nowinthenati.com)
+ - date_published: 2024-05-04T06:49:31.319205+00:00
+
+ ## {{ ($root.post && $root.post.id) ? $root.post.translations[$root.lang].socialTitle : $root.seo.pageTitle | translate | stripHtml }}
+ - [https://www.nowness.com](https://www.nowness.com)
+ - date_published: 2024-05-01T04:16:58.377619+00:00
+
+ ## Now Now Now
+ - [https://nownownow.com](https://nownownow.com)
+ - date_published: 2023-11-15T17:49:00.199075+00:00
+ - tags: ['social platform', 'personal', 'personal sites source']
+
+ ## Now Now Now
+ - [http://www.nownownow.com](http://www.nownownow.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## now publishers - Home
+ - [https://www.nowpublishers.com](https://www.nowpublishers.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Watch TV, Movies & Live Sports Online - NOW - Join in
+ - [https://www.nowtv.com](https://www.nowtv.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## 🚨🚨 That's a lot of YAML 🚨🚨
+ - [https://noyaml.com](https://noyaml.com)
+ - date_published: 2023-10-25T16:22:34.214643+00:00
+
+ ## Private and Business life organized in
+a simple way
+ - [https://nozbe.com](https://nozbe.com)
+ - date_published: 2024-04-29T04:47:06.611350+00:00
+
+ ## Nozbe’s Mastodon Server
+ - [https://social.nozbe.com](https://social.nozbe.com)
+ - date_published: 2024-04-29T04:47:19.470449+00:00
+
+ ## NPC Observer - Covering China’s National People’s Congress and its Standing Committee
+ - [https://npcobserver.com](https://npcobserver.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## Circana
  - [http://www.npd.com](http://www.npd.com)
  - date_published: 2024-04-09T00:00:00+00:00
@@ -2725,6 +2922,10 @@
  - [https://onyxcoffeelab.com](https://onyxcoffeelab.com)
  - date_published: 2024-05-07T14:10:44.197589+00:00
 
+ ## Geocities Archive Geocities Mirror / The 90s Archive (1990s 2000s nineties) / The Early web
+ - [http://oocities.com](http://oocities.com)
+ - date_published: 2024-06-02T10:53:00.602887+00:00
+
  ## Design Patterns
  - [https://oodesign.com](https://oodesign.com)
  - date_published: 2024-05-11T10:47:41.208837+00:00
@@ -3902,206 +4103,4 @@
  ## BEST OF ORLANDO® Nomination Ballot
  - [http://vote.orlandoweekly.com](http://vote.orlandoweekly.com)
  - date_published: 2024-05-06T22:11:50.425665+00:00
-
- ## Orlando Weekly
- - [https://www.orlandoweekly.com](https://www.orlandoweekly.com)
- - date_published: 2023-11-23T07:19:16.129563+00:00
-
- ## 0(rphan)d(rift>) Archive - 0rphan Drift Archive
- - [https://www.orphandriftarchive.com](https://www.orphandriftarchive.com)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## Orrick - Homepage
- - [https://www.orrick.com](https://www.orrick.com)
- - date_published: 2024-04-30T04:43:37.961988+00:00
-
- ## EURO Meets NeurIPS 2022 Vehicle Routing Competition
- - [https://euro-neurips-vrp-2022.challenges.ortec.com](https://euro-neurips-vrp-2022.challenges.ortec.com)
- - date_published: 2024-05-10T05:00:37.031748+00:00
-
- ## OrthoSpin
- - [https://www.orthospin.com](https://www.orthospin.com)
- - date_published: 2024-05-06T19:49:11.059017+00:00
-
- ## Are you trying to become a product or a company ? -
- - [http://www.orthostreams.com](http://www.orthostreams.com)
- - date_published: 2024-05-06T18:19:12.566238+00:00
-
- ## Orville McDonald – Random thoughts on technology and business
- - [https://orvillemcdonald.com](https://orvillemcdonald.com)
- - date_published: 2023-10-25T09:21:05.715824+00:00
- - tags: ['personal']
-
- ## The Orwell Foundation
- - [https://www.orwellfoundation.com](https://www.orwellfoundation.com)
- - date_published: 2023-10-25T11:26:43.410563+00:00
- - tags: ['george orwell']
-
- ## Oryx
- - [https://www.oryxspioenkop.com](https://www.oryxspioenkop.com)
- - date_published: 2023-10-25T16:27:36.030855+00:00
-
- ## The OS/2 Museum
- - [https://www.os2museum.com](https://www.os2museum.com)
- - date_published: 2023-10-25T16:27:40.415903+00:00
- - tags: ['os/2', 'operating system']
-
- ## Open Source Building Science Sensors
- - [http://www.osbss.com](http://www.osbss.com)
- - date_published: 2024-05-09T04:21:24.051428+00:00
-
- ## Full-Stack Software Engineer and Developer Content Creator
- - [https://www.oscaralsing.com](https://www.oscaralsing.com)
- - date_published: 2017-06-17T00:00:00+00:00
-
- ## Vacaville based Wedding, Quince, Family, and Senior Photographer ready to serve you and excited to meet you!
- - [https://www.oscarcampos.com](https://www.oscarcampos.com)
- - date_published: 2024-05-06T22:12:48.257799+00:00
-
- ## Oscar Marcelo
- - [https://oscarmarcelo.com](https://oscarmarcelo.com)
- - date_published: 2024-05-07T23:26:33.471104+00:00
-
- ## Óscar Otero - Digital designer and developer
- - [https://oscarotero.com](https://oscarotero.com)
- - date_published: 2024-05-09T06:11:47.651622+00:00
-
- ## https://www.oscarscampos.com
- - [https://www.oscarscampos.com](https://www.oscarscampos.com)
- - date_published: 2023-12-25T04:55:51.274224+00:00
- - tags: ['personal']
-
- ## Osceola Prosper | Osceola Prosper
- - [https://osceolaprosper.com](https://osceolaprosper.com)
- - date_published: 2024-05-07T22:16:54.204500+00:00
-
- ## oschvr.com
- - [https://oschvr.com](https://oschvr.com)
- - date_published: 2023-10-25T16:27:41.499435+00:00
-
- ## Oscilla Power | Wave Energy Conversion | Seattle, WA
- - [http://oscillapower.com](http://oscillapower.com)
- - date_published: 2024-05-09T04:22:30.832795+00:00
-
- ## Home
- - [http://oscillating-electric-fish.com](http://oscillating-electric-fish.com)
- - date_published: 2024-05-10T03:57:09.595303+00:00
-
- ## FREE shopping cart and open source eCommerce platform - Start selling online with osCommerce
- - [http://www.oscommerce.com](http://www.oscommerce.com)
- - date_published: 2024-04-30T15:00:59.135689+00:00
-
- ## Open Source Clones of Games
- - [https://osgameclones.com](https://osgameclones.com)
- - date_published: 2023-12-27T02:09:22+00:00
- - tags: ['open source', 'video games', 'video game database']
-
- ## Oshempek
- - [https://oshempek.com](https://oshempek.com)
- - date_published: 2024-04-30T07:49:09.663149+00:00
-
- ## AeroTech AeroTech | Airport Solutions & Services - JBT AeroTech
- - [https://oshkoshaerotech.com](https://oshkoshaerotech.com)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Oshkosh Airport Products | ARFF Trucks
- - [https://www.oshkoshairport.com](https://www.oshkoshairport.com)
- - date_published: 2024-05-12T07:27:42.648395+00:00
-
- ## Oshkosh Corporation | Powering global progress
- - [https://www.oshkoshcorp.com](https://www.oshkoshcorp.com)
- - date_published: 2024-05-12T07:27:40.713403+00:00
-
- ## Oshkosh® S-Series™ Front Discharge Mixer
- - [https://oshkoshsseries.com](https://oshkoshsseries.com)
- - date_published: 2024-05-12T07:28:04.468501+00:00
-
- ## OSH Park ~
- - [https://oshpark.com](https://oshpark.com)
- - date_published: 2024-05-09T04:10:07.762903+00:00
-
- ## OSHWLab - EasyEDA open source hardware lab, a hardware engineers' circuit homeland
- - [https://oshwlab.com](https://oshwlab.com)
- - date_published: 2024-04-30T02:17:47.687886+00:00
-
- ## Greene Gardens
- - [https://garden.oshyan.com](https://garden.oshyan.com)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Outland – Oshyan Greene's home on the web
- - [https://oshyan.com](https://oshyan.com)
- - date_published: 2024-05-06T22:12:56.520919+00:00
-
- ## osintme.com
- - [https://www.osintme.com](https://www.osintme.com)
- - date_published: 2023-10-25T16:27:45.841879+00:00
- - tags: ['blog', 'personal']
-
- ## Oskar Eggert
- - [https://www.oskareggert.com](https://www.oskareggert.com)
- - date_published: 2023-12-05T14:37:10.380947+00:00
- - tags: ['personal']
-
- ## Home
- - [https://www.osler.com](https://www.osler.com)
- - date_published: 2024-05-29T20:28:27.414226+00:00
- - tags: ['law']
-
- ## OSnews  -  Exploring the Future of Computing
- - [https://www.osnews.com](https://www.osnews.com)
- - date_published: 2023-10-25T09:34:29.424722+00:00
-
- ## Oso Cloud Documentation – Oso
- - [https://cloud-docs.osohq.com](https://cloud-docs.osohq.com)
- - date_published: 2024-05-22T02:47:38.522693+00:00
-
- ## Oso Cloud
- - [https://cloud.osohq.com](https://cloud.osohq.com)
- - date_published: 2024-05-22T02:47:27.229714+00:00
-
- ## Join Oso Community on Slack
- - [https://join-slack.osohq.com](https://join-slack.osohq.com)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Koala
- - [https://koala-proxy.analytics.osohq.com](https://koala-proxy.analytics.osohq.com)
- - date_published: 2024-05-22T02:47:31.982046+00:00
-
- ## Oso: Authorization as a Service
- - [https://osohq.com](https://osohq.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Plausible Analytics
- - [https://plausible-proxy.analytics.osohq.com](https://plausible-proxy.analytics.osohq.com)
- - date_published: 2024-05-22T02:47:32.965630+00:00
-
- ## Oso Cloud
- - [https://ui.osohq.com](https://ui.osohq.com)
- - date_published: 2024-05-22T02:47:39.177614+00:00
-
- ## Oso: Authorization as a Service
- - [https://www.osohq.com](https://www.osohq.com)
- - date_published: 2024-04-16T00:00:00+00:00
- - tags: ['authorization']
-
- ## Cierpliwości...
- - [https://www.osprey.com](https://www.osprey.com)
- - date_published: 2024-05-12T05:38:59.835600+00:00
-
- ## Osprey Publishing (UK)
- - [https://ospreypublishing.com](https://ospreypublishing.com)
- - date_published: 2024-05-06T16:16:49.137254+00:00
-
- ## Ossila | Low Price Lab Equipment & Materials | Enabling Science
- - [http://www.ossila.com](http://www.ossila.com)
- - date_published: 2024-05-09T04:24:40.807133+00:00
-
- ## All Projects
-    - OSSRank
- - [https://ossrank.com](https://ossrank.com)
- - date_published: 2023-10-25T16:27:50.745403+00:00
-
- ## Cierpliwości...
- - [https://ostechnix.com](https://ostechnix.com)
- - date_published: 2024-05-06T22:13:14.602543+00:00
 

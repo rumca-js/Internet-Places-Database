@@ -1,3 +1,261 @@
+ ## Samuel Vilz
+ - [https://vilz.gg](https://vilz.gg)
+ - date_published: 2023-12-28T18:50:12.689760+00:00
+ - tags: ['personal']
+
+ ## Team Vitality | FRENCH DAYS -50%
+ - [https://shop.vitality.gg](https://shop.vitality.gg)
+ - date_published: 2024-05-09T06:20:57.007649+00:00
+
+ ## Welcome to V.HIve
+ - [https://vhive.vitality.gg](https://vhive.vitality.gg)
+ - date_published: 2024-05-09T06:20:59.610690+00:00
+
+ ## Team Vitality | Equipe esport leader d'Europe
+ - [https://vitality.gg](https://vitality.gg)
+ - date_published: 2024-03-09T18:15:18.157130+00:00
+
+ ## Waku website
+ - [https://waku.gg](https://waku.gg)
+ - date_published: 2023-10-25T19:17:13.554606+00:00
+
+ ## Wayde Gilliam
+ - [https://wayde.gg](https://wayde.gg)
+ - date_published: 2023-08-17T00:00:00+00:00
+
+ ## Ashes.Town Wiki
+ - [https://ashestown.wiki.gg](https://ashestown.wiki.gg)
+ - date_published: 2024-02-18T00:00:00+00:00
+ - tags: ['video game']
+
+ ## Minecraft Discontinued Features Wiki
+ - [https://mcdf.wiki.gg](https://mcdf.wiki.gg)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## Old World Blues Wiki
+ - [https://oldworldblues.wiki.gg](https://oldworldblues.wiki.gg)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Wizardry Wiki
+ - [https://wizardry.wiki.gg](https://wizardry.wiki.gg)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## WIN.gg - Best Esports & Gaming News 2024
+ - [https://api.win.gg](https://api.win.gg)
+ - date_published: 2024-05-08T02:33:06.998824+00:00
+
+ ## WIN.gg - Your competitive edge in gaming and esports
+ - [https://win.gg](https://win.gg)
+ - date_published: 2023-10-25T19:17:15.045264+00:00
+
+ ## @pump_upp - best crypto pumps on telegram !
+ - [https://www.citroen.com.gh](https://www.citroen.com.gh)
+ - date_published: 2024-05-08T05:30:09.932192+00:00
+
+ ## Decathlon Ghana: Sports Shoes, Sports Gear and Equipment | Online Shopping in Ghana
+ - [https://www.decathlon.com.gh](https://www.decathlon.com.gh)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Flashscore.com.gh: Live Football Scores, Livescore - EPL, Premier League, La Liga
+ - [https://www.flashscore.com.gh](https://www.flashscore.com.gh)
+ - date_published: 2024-05-11T07:35:34.052958+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.graphic.com.gh](https://www.graphic.com.gh)
+ - date_published: 2024-05-26T10:56:10.988408+00:00
+
+ ## Online Donation
+ - [https://biblicalarchaeologysociety.ddock.gives](https://biblicalarchaeologysociety.ddock.gives)
+ - date_published: 2024-05-09T06:35:51.640127+00:00
+
+ ## docs.gl
+ - [http://docs.gl](http://docs.gl)
+ - date_published: 2024-05-09T07:10:25.892130+00:00
+
+ ## Google for Developers Blog - News about Web, Mobile, AI and Cloud
+ - [https://goo.gl](https://goo.gl)
+ - date_published: 2024-01-13T01:37:27.849278+00:00
+
+ ## Invalid Dynamic Link
+ - [https://maps.app.goo.gl](https://maps.app.goo.gl)
+ - date_published: 2024-04-28T03:08:32.124735+00:00
+
+ ## OpenGL - Introduction
+ - [https://open.gl](https://open.gl)
+ - date_published: 2024-03-04T10:50:12+00:00
+
+ ## stack.gl
+ - [http://stack.gl](http://stack.gl)
+ - date_published: 2024-05-04T09:32:49.053128+00:00
+
+ ## Streets GL
+ - [https://streets.gl](https://streets.gl)
+ - date_published: 2024-05-07T13:25:41.707117+00:00
+
+ ## Waggle AI – Scientific AI at the Edge
+ - [https://wa8.gl](https://wa8.gl)
+ - date_published: 2024-05-09T04:26:22.778983+00:00
+
+ ## Jeff Glass
+ - [https://jeff.glass](https://jeff.glass)
+ - date_published: 2024-05-18T00:00:00+00:00
+
+ ## Google forms
+ - [https://forms.gle](https://forms.gle)
+ - date_published: 2023-12-05T02:33:59+00:00
+
+ ## Google
+ - [https://goo.gle](https://goo.gle)
+ - date_published: 2024-04-27T08:04:47.537098+00:00
+
+ ## AFK Arena & AFK Journey Wiki - Latest News & Guides
+ - [https://www.afk.global](https://www.afk.global)
+ - date_published: 2020-04-03T19:52:39+00:00
+
+ ## Meetings Industry News, Events, Education & Destination Planning
+ - [https://amimagazine.global](https://amimagazine.global)
+ - date_published: 2024-05-08T04:01:28.958070+00:00
+
+ ## BlackBox
+ - [https://www.blackbox.global](https://www.blackbox.global)
+ - date_published: 2024-05-08T10:34:25.722684+00:00
+
+ ## Clay | UX Design Agency, Branding & Web Design
+ - [https://clay.global](https://clay.global)
+ - date_published: 2024-05-12T04:41:06.562563+00:00
+
+ ## Climate Justice Global
+ - [https://climatejustice.global](https://climatejustice.global)
+ - date_published: 2022-03-28T00:00:00+00:00
+
+ ## Deus AI
+ - [https://deus.global](https://deus.global)
+ - date_published: 2024-05-08T14:09:29+00:00
+
+ ## Sign in - Matomo
+ - [https://webstats.ecloud.global](https://webstats.ecloud.global)
+ - date_published: 2024-05-28T18:06:03.862857+00:00
+
+ ## fullcircle
+ - [https://fullcircle.global](https://fullcircle.global)
+ - date_published: 2024-05-10T06:13:26.041178+00:00
+
+ ## fullcircle | Thomas Schindler | Substack
+ - [https://spore.fullcircle.global](https://spore.fullcircle.global)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Participate in one of the biggest B2B events in the gaming industry
+ - [https://latam.gamescom.global](https://latam.gamescom.global)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## GITA | Global Impact Tech Alliance
+ - [https://gita.global](https://gita.global)
+ - date_published: 2024-05-10T06:13:04.420549+00:00
+
+ ## GITA | Global Impact Tech Alliance
+ - [https://www.gita.global](https://www.gita.global)
+ - date_published: 2024-05-10T06:12:03.862265+00:00
+
+ ## ICPC Documents – Important documents associated with ICPC
+ - [https://docs.icpc.global](https://docs.icpc.global)
+ - date_published: 2024-05-08T05:48:55.416101+00:00
+
+ ## The ICPC International Collegiate Programming Contest
+ - [https://icpc.global](https://icpc.global)
+ - date_published: 2024-05-08T05:48:53.820172+00:00
+
+ ## ICPC Live
+ - [https://live.icpc.global](https://live.icpc.global)
+ - date_published: 2024-05-08T05:48:47.704750+00:00
+
+ ## ICPC News – The official news source for the ICPC, the premier global competitive programming competition.
+ - [https://news.icpc.global](https://news.icpc.global)
+ - date_published: 2024-05-08T05:48:53.056051+00:00
+
+ ## ICPC
+ - [https://worldfinals.icpc.global](https://worldfinals.icpc.global)
+ - date_published: 2024-05-08T05:49:16.593441+00:00
+
+ ## Tony Blair Institute for Global Change (TBI)
+ - [https://institute.global](https://institute.global)
+ - date_published: 2024-05-06T20:48:43.864497+00:00
+
+ ## Tony Blair Institute for Global Change (TBI)
+ - [https://www.institute.global](https://www.institute.global)
+ - date_published: 2024-05-22T04:49:05.610063+00:00
+
+ ## Lab42
+ - [https://lab42.global](https://lab42.global)
+ - date_published: 2024-05-10T05:01:49.293281+00:00
+
+ ## Mavin Enterprise IT Services and Powercube DataCentre Solutions
+ - [https://www.mavin.global](https://www.mavin.global)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## MB Group
+ - [https://www.mbgroup.global](https://www.mbgroup.global)
+ - date_published: 2024-05-11T11:08:44.053617+00:00
+
+ ## NoNoNames: Your Marks
+ - [https://nononames.global](https://nononames.global)
+ - date_published: 2024-05-01T05:44:51.251592+00:00
+
+ ## Home - Optris
+ - [https://www.optris.global](https://www.optris.global)
+ - date_published: 2024-04-29T06:15:07.413520+00:00
+
+ ## Roar Global | The Gateway for Digital Business Growth in the Asia-Pacific
+ - [http://roar.global](http://roar.global)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Homepage | Toyota Research Institute
+ - [https://www.tri.global](https://www.tri.global)
+ - date_published: 2023-10-25T19:17:16.769072+00:00
+
+ ## XR: Revolutionizing Advertising with Unified Data at Scale
+ - [https://www.xr.global](https://www.xr.global)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Fellow GmbH
+ - [https://fellow.gmbh](https://fellow.gmbh)
+ - date_published: 2024-04-30T02:30:48.158793+00:00
+
+ ## Hokkaido 401 Lüftungssystem
+ - [https://passiv-energie.gmbh](https://passiv-energie.gmbh)
+ - date_published: 2024-03-03T11:31:31.547897+00:00
+
+ ## tinc - The Infrastructure Company GmbH
+ - [https://tinc.gmbh](https://tinc.gmbh)
+ - date_published: 2024-05-14T03:49:30.690587+00:00
+
+ ## Alpaca.Gold
+ - [https://alpaca.gold](https://alpaca.gold)
+ - date_published: 2024-04-29T03:11:08.099435+00:00
+
+ ## Fat Gold: California extra virgin olive oil
+ - [https://fat.gold](https://fat.gold)
+ - date_published: 2024-04-28T05:13:53.817651+00:00
+
+ ## Google Translate
+ - [https://nyadagbladet-se.translate.goog](https://nyadagbladet-se.translate.goog)
+ - date_published: 2024-01-09T03:30:15.623588+00:00
+
+ ## Google Translate
+ - [https://www-bild-de.translate.goog](https://www-bild-de.translate.goog)
+ - date_published: 2023-11-06T18:03:15.833718+00:00
+
+ ## Google Translate
+ - [https://www-heise-de.translate.goog](https://www-heise-de.translate.goog)
+ - date_published: 2023-11-10T07:08:49.465512+00:00
+
+ ## Google - Informacje
+ - [https://about.google](https://about.google)
+ - date_published: 2023-10-25T19:17:18.468849+00:00
+
+ ## Google AI
+ - [https://ai.google](https://ai.google)
+ - date_published: 2023-10-25T19:17:19.726037+00:00
+
  ## The Keyword | Google Product and Technology News and Stories
  - [https://blog.google](https://blog.google)
  - date_published: 2023-10-25T11:29:32.894232+00:00
@@ -2509,7 +2767,7 @@
  ## Home | 3D Resources
  - [https://nasa3d.arc.nasa.gov](https://nasa3d.arc.nasa.gov)
  - date_published: 2023-10-27T10:15:59.069512+00:00
- - tags: ['assets models']
+ - tags: ['model assets']
 
  ## Center for NEO Studies
  - [http://neo.jpl.nasa.gov](http://neo.jpl.nasa.gov)
@@ -2558,6 +2816,10 @@
  ## Welcome to Space Math @ NASA !
  - [https://spacemath.gsfc.nasa.gov](https://spacemath.gsfc.nasa.gov)
  - date_published: 2024-04-29T05:34:47.186170+00:00
+
+ ## Welcome | Standards
+ - [https://standards.nasa.gov](https://standards.nasa.gov)
+ - date_published: 2024-06-02T18:17:15.945748+00:00
 
  ## Explore the NASA STI Repository (NTRS)
  - [https://sti.nasa.gov](https://sti.nasa.gov)
@@ -3766,270 +4028,4 @@
  ## Home | Utah Legislature
  - [https://le.utah.gov](https://le.utah.gov)
  - date_published: 2024-04-29T04:48:37.340217+00:00
-
- ## ChooseVA
- - [https://choose.va.gov](https://choose.va.gov)
- - date_published: 2024-05-08T12:13:56.893678+00:00
-
- ## U.S. Department of Veterans Affairs
- - [https://department.va.gov](https://department.va.gov)
- - date_published: 2022-04-23T13:59:32+00:00
-
- ## VA.gov Design System
- - [https://design.va.gov](https://design.va.gov)
- - date_published: 2024-05-08T12:13:49.729983+00:00
-
- ## VA API Platform
- - [https://developer.va.gov](https://developer.va.gov)
- - date_published: 2024-05-08T12:13:27.524010+00:00
-
- ## DigitalVA
- - [https://digital.va.gov](https://digital.va.gov)
- - date_published: 2022-09-16T12:52:39+00:00
-
- ## DiscoverVA
- - [https://discover.va.gov](https://discover.va.gov)
- - date_published: 2023-06-09T18:27:51+00:00
-
- ## Home Page
- - [https://mobile.va.gov](https://mobile.va.gov)
- - date_published: 2024-05-08T12:13:55.327890+00:00
-
- ## VA News and Information
- - [https://news.va.gov](https://news.va.gov)
- - date_published: 2023-12-21T16:18:24+00:00
-
- ## VA Telehealth Services | Telehealth VA
- - [https://telehealth.va.gov](https://telehealth.va.gov)
- - date_published: 2024-05-08T12:14:24.987070+00:00
-
- ## Department of Veterans Affairs Open Data Portal
- - [https://www.data.va.gov](https://www.data.va.gov)
- - date_published: 2024-05-08T12:13:33.235563+00:00
-
- ## DigitalVA
- - [https://www.digital.va.gov](https://www.digital.va.gov)
- - date_published: 2022-09-16T12:52:39+00:00
-
- ## VA.gov | Veterans Affairs
- - [https://www.mentalhealth.va.gov](https://www.mentalhealth.va.gov)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## MVP Home | Veterans Affairs
- - [https://www.mvp.va.gov](https://www.mvp.va.gov)
- - date_published: 2024-05-08T12:13:46.845956+00:00
-
- ## DigitalVA
- - [https://www.oit.va.gov](https://www.oit.va.gov)
- - date_published: 2023-10-25T19:27:00.114442+00:00
-
- ## Veteran Affairs Pathfinder
- - [https://www.pathfinder.va.gov](https://www.pathfinder.va.gov)
- - date_published: 2024-05-08T12:14:20.652784+00:00
-
- ## VA Careers
- - [https://www.vacareers.va.gov](https://www.vacareers.va.gov)
- - date_published: 2022-09-01T21:28:39+00:00
-
- ## VA.gov Home | Veterans Affairs
- - [https://www.va.gov](https://www.va.gov)
- - date_published: 2024-05-01T07:04:47.700570+00:00
-
- ## VA Terms and Conditions - yourIT Service Portal
- - [https://yourit.va.gov](https://yourit.va.gov)
- - date_published: 2024-05-08T12:14:15.531949+00:00
-
- ## Find COVID‑19 vaccine locations near you
- - [https://www.vaccines.gov](https://www.vaccines.gov)
- - date_published: 2024-05-01T08:45:52.812714+00:00
-
- ## Department of General Services
- - [https://dgs.virginia.gov](https://dgs.virginia.gov)
- - date_published: 2024-04-30T04:26:11.588679+00:00
-
- ## Virginia Voter Information – Citizen Portal
- - [https://vote.elections.virginia.gov](https://vote.elections.virginia.gov)
- - date_published: 2024-05-07T10:48:56.256427+00:00
-
- ## Editorials on Voice of America
- - [https://editorials.voa.gov](https://editorials.voa.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Check Voter Registration Deadlines and Laws in Your State
- - [https://vote.gov](https://vote.gov)
- - date_published: 2024-05-08T02:44:56.249857+00:00
-
- ## Check Voter Registration Deadlines and Laws in Your State
- - [https://www.vote.gov](https://www.vote.gov)
- - date_published: 2024-05-08T02:35:01.776298+00:00
-
- ## Welcome to VoteTexas.gov
- - [https://www.votetexas.gov](https://www.votetexas.gov)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Home - Washington Senate Democrats
- - [https://senatedemocrats.wa.gov](https://senatedemocrats.wa.gov)
- - date_published: 2023-10-25T19:27:05.211655+00:00
-
- ## Washington State Department of Transportation
- - [https://wsdot.wa.gov](https://wsdot.wa.gov)
- - date_published: 2024-05-06T22:48:28.762977+00:00
-
- ## Washington State | Office of the Attorney General
- - [https://www.atg.wa.gov](https://www.atg.wa.gov)
- - date_published: 2023-10-25T19:27:08.100270+00:00
-
- ## National Weather Service
- - [https://forecast.weather.gov](https://forecast.weather.gov)
- - date_published: 2023-10-24T20:19:23.078078+00:00
-
- ## Ocean Prediction Center
- - [https://ocean.weather.gov](https://ocean.weather.gov)
- - date_published: 2023-10-25T19:27:10.683788+00:00
-
- ## NWS Radar
- - [https://radar.weather.gov](https://radar.weather.gov)
- - date_published: 2024-05-06T22:11:19.616496+00:00
-
- ## https://water.weather.gov
- - [https://water.weather.gov](https://water.weather.gov)
- - date_published: 2024-05-07T13:31:34.883041+00:00
-
- ## National Weather Service
- - [https://www.weather.gov](https://www.weather.gov)
- - date_published: 2023-10-25T19:27:16.778437+00:00
-
- ## National Archives
- - [http://webharvest.gov](http://webharvest.gov)
- - date_published: 2024-05-08T02:59:27.822341+00:00
-
- ## CFTC's Whistleblower Program | Whistleblower.gov
- - [https://www.whistleblower.gov](https://www.whistleblower.gov)
- - date_published: 2024-05-08T02:37:00.206417+00:00
-
- ## The White House
- - [https://www.whitehouse.gov](https://www.whitehouse.gov)
- - date_published: 2023-10-25T19:27:21.217032+00:00
-
- ## Home - Worker Organizing Resource and Knowledge Center
- - [https://www.workcenter.gov](https://www.workcenter.gov)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Home - Worker.gov
- - [https://www.worker.gov](https://www.worker.gov)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## https://wyoleg.gov
- - [https://wyoleg.gov](https://wyoleg.gov)
- - date_published: 2023-10-25T19:27:23.611011+00:00
-
- ## Home Page
- - [https://www.yorksc.gov](https://www.yorksc.gov)
- - date_published: 2024-05-07T12:50:36.483329+00:00
-
- ## Homepage | Fatherhood.gov
- - [https://fatherhood.gov:443](https://fatherhood.gov:443)
- - date_published: 2023-12-29T00:50:59.625462+00:00
-
- ## Homepage | Fatherhood.gov
- - [https://www.fatherhood.gov:443](https://www.fatherhood.gov:443)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Vente et achat voitures neuves - Citroen Guadeloupe
- - [https://www.citroen.gp](https://www.citroen.gp)
- - date_published: 2023-12-11T16:03:13.872308+00:00
-
- ## Magasin de Sport
- - [https://www.decathlon.gp](https://www.decathlon.gp)
- - date_published: 2024-05-01T04:25:48.214719+00:00
-
- ## Visa, a trusted leader in digital payments.
- - [https://www.visa.gp](https://www.visa.gp)
- - date_published: 2024-05-12T03:58:26.830792+00:00
-
- ## The Eternal Jukebox
- - [https://jukebox.davi.gq](https://jukebox.davi.gq)
- - date_published: 2024-01-02T16:20:15.152611+00:00
-
- ## Private Site
- - [https://gru.gq](https://gru.gq)
- - date_published: 2024-04-28T06:24:52.233397+00:00
- - tags: ['private resource']
-
- ## tripadvisor.com.gr
- - [https://www.tripadvisor.com.gr](https://www.tripadvisor.com.gr)
- - date_published: 2024-06-01T04:38:35.099126+00:00
-
- ## Home
- - [https://certifications.gamingcommission.gov.gr](https://certifications.gamingcommission.gov.gr)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Acropolis Museum Kids
- - [https://acropolismuseumkids.gr](https://acropolismuseumkids.gr)
- - date_published: 2024-06-01T04:38:26.539837+00:00
-
- ## Airbnb | Ενοικιαζόμενα για διακοπές, ξυλόσπιτα, σπίτια σε παραλία και πολλά άλλα
- - [https://www.airbnb.gr](https://www.airbnb.gr)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home | AmiCamp
- - [https://amicamp.gr](https://amicamp.gr)
- - date_published: 2023-12-11T17:37:01.573253+00:00
- - tags: ['convention', 'amiga', 'community event']
-
- ## Home | AmiCamp
- - [http://www.amicamp.gr](http://www.amicamp.gr)
- - date_published: 2024-05-24T05:32:40.720823+00:00
- - tags: ['amiga']
-
- ## amiga.gr
- - [https://amiga.gr](https://amiga.gr)
- - date_published: 2024-05-08T17:11:14.210977+00:00
- - tags: ['amiga']
-
- ## amiga.gr
- - [http://www.amiga.gr](http://www.amiga.gr)
- - date_published: 2024-05-10T03:58:38.464639+00:00
- - tags: ['amiga']
-
- ## Andrew Gritsevskiy
- - [https://andrew.gr](https://andrew.gr)
- - date_published: 2024-05-08T09:57:51.016668+00:00
- - tags: ['personal']
-
- ## St. Paul’s Anglican Church | Athens
- - [https://anglicanchurchathens.gr](https://anglicanchurchathens.gr)
- - date_published: 2024-02-08T22:20:29.434459+00:00
-
- ## Athens Lifelong Learning
- - [https://athenslifelonglearning.gr](https://athenslifelonglearning.gr)
- - date_published: 2024-05-07T23:41:12.765798+00:00
-
- ## Home
- - [https://www.biocomp.gr](https://www.biocomp.gr)
- - date_published: 2024-05-21T03:04:32.560178+00:00
-
- ## Αγγελίες μοναδικών ακινήτων προς πώληση & ενοικίαση | BLUEKEY
- - [https://www.bluekey.gr](https://www.bluekey.gr)
- - date_published: 2024-05-01T08:41:30.822876+00:00
-
- ## Homepage - AMI WEBSTORE
- - [https://amistore.citroen.gr](https://amistore.citroen.gr)
- - date_published: 2024-05-10T04:42:02.604178+00:00
-
- ## Eπιλεγμένα μεταχειρισμένα αυτοκίνητα της Citroën
- - [http://approved.citroen.gr](http://approved.citroen.gr)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Πρόγραμμα συντήρησης κατασκευαστού - Citroen
- - [https://onlinebooking.citroen.gr](https://onlinebooking.citroen.gr)
- - date_published: 2024-05-10T04:42:06.644078+00:00
-
- ## Νέα αυτοκίνητα | Κατασκευαστής αυτοκινήτων | Citroën
- - [https://www.citroen.gr](https://www.citroen.gr)
- - date_published: 2023-12-11T16:01:26.638908+00:00
-
- ## Citroën Origins
- - [https://www.citroenorigins.gr](https://www.citroenorigins.gr)
- - date_published: 2024-05-10T04:41:58.247397+00:00
 
