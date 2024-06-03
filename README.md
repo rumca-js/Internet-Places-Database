@@ -105,6 +105,9 @@ Each entry can be tagged. Most notable examples of tags
  - interesting domain name - if domain name is interesting
  - wargames - there are some old blogs about this hobby
  - internet archive - valuable resources that protect knowledge
+ - reverse engineering
+ - hacking
+ - convention - you might be interested in one of those
 
 Quite obvious tag names
 
