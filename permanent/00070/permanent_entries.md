@@ -1,3 +1,1035 @@
+ ## Orthic Shorthand
+ - [https://orthic.shorthand.fun](https://orthic.shorthand.fun)
+ - date_published: 2024-01-19T05:42:09.555455+00:00
+
+ ## Event Software Solutions to Empower Events Creators | Timely
+ - [https://events.timely.fun](https://events.timely.fun)
+ - date_published: 2024-05-10T06:01:53.904378+00:00
+
+ ## https://app.vnote.fun
+ - [https://app.vnote.fun](https://app.vnote.fun)
+ - date_published: 2024-01-20T08:05:26.303097+00:00
+
+ ## The Autopilot Fund
+ - [https://blog.autopilot.fund](https://blog.autopilot.fund)
+ - date_published: 2023-10-25T19:15:50.122692+00:00
+
+ ## Improving lives through social innovation
+ - [https://www.globalinnovation.fund](https://www.globalinnovation.fund)
+ - date_published: 2024-05-22T02:37:51.509184+00:00
+
+ ## Digital Infrastructure Insights Fund
+ - [https://infrastructureinsights.fund](https://infrastructureinsights.fund)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Weekend Fund
+ - [https://www.weekend.fund](https://www.weekend.fund)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## 2c.fyi
+ - [https://2c.fyi](https://2c.fyi)
+ - date_published: 2024-05-04T09:10:37.989532+00:00
+
+ ## Adriano Caloiaro's personal blog
+ - [https://adriano.fyi](https://adriano.fyi)
+ - date_published: 2023-10-25T08:59:03.095518+00:00
+ - tags: ['personal']
+
+ ## Alessandro Mingione · Designer
+ - [https://www.ale.fyi](https://www.ale.fyi)
+ - date_published: 2024-05-09T06:19:59.436489+00:00
+
+ ## Your one stop shop to risk free APY savings accounts.
+ - [https://apy.fyi](https://apy.fyi)
+ - date_published: 2024-05-09T07:36:26.030768+00:00
+
+ ## Better
+ - [https://better.fyi](https://better.fyi)
+ - date_published: 2024-06-01T05:33:06.001186+00:00
+
+ ## Brody Smith • Information Design
+ - [https://brody.fyi](https://brody.fyi)
+ - date_published: 2024-01-04T08:11:51.602420+00:00
+
+ ## brr
+ - [https://brr.fyi](https://brr.fyi)
+ - date_published: 2023-10-25T19:15:50.754055+00:00
+
+ ## Caro Appleby - Indie programmer, textile artist, musician, endlessly curious
+ - [https://caro.fyi](https://caro.fyi)
+ - date_published: 2024-05-11T10:22:05.701580+00:00
+
+ ## CDR.fyi
+ - [https://cdr.fyi](https://cdr.fyi)
+ - date_published: 2024-05-08T00:40:25.404761+00:00
+
+ ## CDR.fyi
+ - [https://www.cdr.fyi](https://www.cdr.fyi)
+ - date_published: 2024-01-09T03:30:10.035205+00:00
+
+ ## Freelance rates by contractrates.fyi
+ - [https://www.contractrates.fyi](https://www.contractrates.fyi)
+ - date_published: 2023-10-25T19:15:52.506601+00:00
+
+ ## DevBase - Product Gallery for Developers
+ - [https://devbase.fyi](https://devbase.fyi)
+ - date_published: 2023-10-25T19:15:55.735011+00:00
+
+ ## Digital culture and entertainment insights daily: Digital culture and entertainment insights daily
+ - [https://dirt.fyi](https://dirt.fyi)
+ - date_published: 2023-10-25T19:15:57.266413+00:00
+
+ ## The Dirt Store
+ - [https://shop.dirt.fyi](https://shop.dirt.fyi)
+ - date_published: 2024-05-08T00:40:52.310561+00:00
+
+ ## Tim and Jeni
+ - [https://ellis.fyi](https://ellis.fyi)
+ - date_published: 2024-03-05T16:08:01.801164+00:00
+
+ ## ESPP.fyi - ESPP Calculator
+ - [https://espp.fyi](https://espp.fyi)
+ - date_published: 2023-10-25T19:15:58.160226+00:00
+
+ ## iliana.fyi
+ - [https://iliana.fyi](https://iliana.fyi)
+ - date_published: 2023-10-25T19:15:59.645382+00:00
+
+ ## An open system to manage data without a central server | IPFS
+ - [https://ipfs.fyi](https://ipfs.fyi)
+ - date_published: 2024-05-04T16:00:13.322326+00:00
+
+ ## jade's www site
+ - [https://jade.fyi](https://jade.fyi)
+ - date_published: 2024-01-09T18:46:42.354724+00:00
+
+ ## Ken Zinser
+ - [https://ken.fyi](https://ken.fyi)
+ - date_published: 2024-02-12T08:32:03.708550+00:00
+ - tags: ['personal']
+
+ ## Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
+ - [https://layoffs.fyi](https://layoffs.fyi)
+ - date_published: 2023-10-25T19:16:02.675285+00:00
+ - tags: ['layoff', 'page tracker']
+
+ ## Plausible · Web analytics
+ - [https://al.levels.fyi](https://al.levels.fyi)
+ - date_published: 2024-05-08T00:41:20.821116+00:00
+
+ ## Levels.fyi | Salaries & Tools to Level Up Your Career
+ - [https://levels.fyi](https://levels.fyi)
+ - date_published: 2024-05-08T00:41:17.077556+00:00
+
+ ## Levels.fyi | Salaries & Tools to Level Up Your Career
+ - [https://www.levels.fyi](https://www.levels.fyi)
+ - date_published: 2023-10-25T19:16:09.416624+00:00
+
+ ## Mads Brodt - Front-end developer and teacher
+ - [https://mads.fyi](https://mads.fyi)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Marva Jackson Lord
+ - [https://marva.fyi](https://marva.fyi)
+ - date_published: 2008-01-01T00:00:00+00:00
+
+ ## Not a Number
+ - [https://nan.fyi](https://nan.fyi)
+ - date_published: 2024-05-08T00:41:23.065747+00:00
+
+ ## Not a Number
+ - [https://www.nan.fyi](https://www.nan.fyi)
+ - date_published: 2023-10-25T19:16:10.047779+00:00
+
+ ## Not By AI — Add the Badge to Your Human-Created Content
+ - [https://notbyai.fyi](https://notbyai.fyi)
+ - date_published: 2023-10-25T19:16:11.639093+00:00
+
+ ## 2 Weeks Notice/Layoff Checklist
+ - [https://notice.fyi](https://notice.fyi)
+ - date_published: 2023-10-25T19:16:13.369510+00:00
+
+ ## 2 Weeks Notice/Layoff Checklist
+ - [https://www.notice.fyi](https://www.notice.fyi)
+ - date_published: 2024-05-08T00:41:25.584904+00:00
+
+ - [https://nudges.fyi](https://nudges.fyi)
+ - date_published: 2024-01-09T03:30:11.356804+00:00
+
+ ## Show HN: Onsites.fyi - Curated Big Tech Interview Experiences
+ - [https://www.onsites.fyi](https://www.onsites.fyi)
+ - date_published: 2023-12-03T13:29:53+00:00
+
+ ## | OpenSecurityTraining2
+ - [https://p.ost2.fyi](https://p.ost2.fyi)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## Paisa
+ - [https://demo1.paisa.fyi](https://demo1.paisa.fyi)
+ - date_published: 2024-05-08T00:41:28.103122+00:00
+
+ ## Paisa
+ - [https://demo.paisa.fyi](https://demo.paisa.fyi)
+ - date_published: 2024-05-08T00:41:26.721569+00:00
+
+ ## Paisa
+ - [https://paisa.fyi](https://paisa.fyi)
+ - date_published: 2023-10-25T19:16:14.401445+00:00
+
+ ## physician.fyi
+ - [https://www.physician.fyi](https://www.physician.fyi)
+ - date_published: 2023-10-25T19:16:19.520735+00:00
+
+ ## pirroh - Overview
+ - [https://pirroh.fyi](https://pirroh.fyi)
+ - date_published: 2024-04-28T04:38:03.350734+00:00
+
+ ## US Presidents, Ranked
+ - [https://presidents.fyi](https://presidents.fyi)
+ - date_published: 2024-04-29T03:11:06.569257+00:00
+
+ ## progression.fyi
+ - [https://www.progression.fyi](https://www.progression.fyi)
+ - date_published: 2024-05-06T14:19:19.093704+00:00
+
+ ## Hello! - Rafal - indie maker, solopreneur
+ - [https://rafal.fyi](https://rafal.fyi)
+ - date_published: 2024-05-10T06:10:39.738215+00:00
+
+ ## rustjobs.fyi
+ - [https://www.rustjobs.fyi](https://www.rustjobs.fyi)
+ - date_published: 2023-10-25T19:16:20.460320+00:00
+
+ ## SelfDriving.fyi
+ - [http://selfdriving.fyi](http://selfdriving.fyi)
+ - date_published: 2024-05-10T04:55:19.928587+00:00
+
+ ## Simplify Gmail
+ - [https://simpl.fyi](https://simpl.fyi)
+ - date_published: 2024-04-28T05:59:57.279625+00:00
+
+ ## https://south.fyi
+ - [https://south.fyi](https://south.fyi)
+ - date_published: 2023-12-20T14:34:44.308769+00:00
+ - tags: ['personal']
+
+ ## Rebrandly
+ - [https://tbi.fyi](https://tbi.fyi)
+ - date_published: 2024-05-06T16:27:06.980978+00:00
+
+ ## Tim Perry
+ - [https://tim.fyi](https://tim.fyi)
+ - date_published: 2024-05-09T07:39:53.276343+00:00
+
+ ## time.fyi - All the time related tools
+ - [https://time.fyi](https://time.fyi)
+ - date_published: 2024-01-06T09:13:14.048827+00:00
+
+ ## Show HN: Trains.fyi – a live map of passenger trains in the US and Canada
+ - [https://trains.fyi](https://trains.fyi)
+ - date_published: 2023-11-27T16:47:19+00:00
+
+ ## The ideal viewport doesn’t exist
+ - [https://viewports.fyi](https://viewports.fyi)
+ - date_published: 2023-10-25T19:16:21.804980+00:00
+
+ ## Vizly for Enterprise
+ - [https://enterprise.vizly.fyi](https://enterprise.vizly.fyi)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Request a New Datasource | Vizly
+ - [https://request.vizly.fyi](https://request.vizly.fyi)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Vizly: AI-powered data analysis
+ - [https://vizly.fyi](https://vizly.fyi)
+ - date_published: 2024-05-08T00:41:43.103359+00:00
+
+ ## Vizly - Data to insights in seconds
+ - [https://www.vizly.fyi](https://www.vizly.fyi)
+ - date_published: 2023-10-25T19:16:23.095453+00:00
+
+ ## William Edmisten
+ - [https://wcedmisten.fyi](https://wcedmisten.fyi)
+ - date_published: 2023-10-25T19:16:24.081987+00:00
+
+ ## Jack Wrenn
+ - [https://jack.wrenn.fyi](https://jack.wrenn.fyi)
+ - date_published: 2023-10-25T19:16:25.606719+00:00
+
+ ## Are the Americans Awake?
+ - [https://are-the-americans-awake.yusuf.fyi](https://are-the-americans-awake.yusuf.fyi)
+ - date_published: 2023-10-25T19:16:26.673031+00:00
+
+ ## Structs & Company
+ - [https://www.yusuf.fyi](https://www.yusuf.fyi)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Structs & Company
+ - [https://yusuf.fyi](https://yusuf.fyi)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Adrià Garriga-Alonso
+ - [https://agarri.ga](https://agarri.ga)
+ - date_published: 2017-06-28T15:02:11+00:00
+
+ - [https://blog.joren.ga](https://blog.joren.ga)
+ - date_published: 2024-01-09T03:30:11.532362+00:00
+
+ ## Tourism of Galicia. Europe - Spain - Galicia. - GALICIA
+ - [https://www.turismo.gal](https://www.turismo.gal)
+ - date_published: 2024-04-29T05:15:28.754079+00:00
+
+ ## Changelog Gallery | By Olvy
+ - [https://changelogs.gallery](https://changelogs.gallery)
+ - date_published: 2024-04-30T06:58:00.321293+00:00
+
+ ## DALL·Ery GALL·Ery
+ - [https://dallery.gallery](https://dallery.gallery)
+ - date_published: 2024-05-06T14:12:39.057361+00:00
+
+ ## Deck.Gallery® — Beautifully designed decks, curated
+ - [https://www.deck.gallery](https://www.deck.gallery)
+ - date_published: 2024-05-09T06:11:55.947419+00:00
+
+ ## Files - Nextcloud
+ - [https://demo.memories.gallery](https://demo.memories.gallery)
+ - date_published: 2024-03-21T20:42:24.918216+00:00
+
+ ## Show HN: Memories, FOSS Google Photos alternative built for high performance
+ - [https://memories.gallery](https://memories.gallery)
+ - date_published: 2024-03-21T19:25:10+00:00
+ - tags: ['self-host']
+
+ ## Minimal Gallery – Website inspiration
+ - [https://minimal.gallery](https://minimal.gallery)
+ - date_published: 2023-10-25T19:16:29.833681+00:00
+
+ ## Nyx.gallery - AI-generated photography
+ - [https://nyx.gallery](https://nyx.gallery)
+ - date_published: 2023-10-25T19:16:35.991453+00:00
+
+ ## OGimage.gallery | The finest hand-picked OG Images ✨
+ - [https://www.ogimage.gallery](https://www.ogimage.gallery)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Halopedia
+ - [https://halo.wiki.gallery](https://halo.wiki.gallery)
+ - date_published: 2024-03-02T02:33:16+00:00
+
+ ## Porplemontage Enterprises
+ - [https://wiki.gallery](https://wiki.gallery)
+ - date_published: 2024-05-14T03:22:49.827396+00:00
+
+ ## Baldur's Gate 3
+ - [https://baldursgate3.game](https://baldursgate3.game)
+ - date_published: 2023-10-25T19:16:37.135932+00:00
+ - tags: ['video game']
+
+ ## Baldur's Gate 3 Deluxe Edition
+ - [https://box.baldursgate3.game](https://box.baldursgate3.game)
+ - date_published: 2024-05-04T11:56:31.098082+00:00
+
+ ## BC.GAME: Crypto Casino Games & Casino Slot Games - Crypto Gambling
+ - [https://bc.game](https://bc.game)
+ - date_published: 2024-05-04T07:34:08.558717+00:00
+ - tags: ['gambling']
+
+ ## DEAR
+ - [https://www.dear.game](https://www.dear.game)
+ - date_published: 2024-05-02T13:46:18.466746+00:00
+
+ ## Divinity: Original Sin 2
+ - [https://divinity.game](https://divinity.game)
+ - date_published: 2024-05-04T11:56:17.021582+00:00
+
+ ## Nour: Play With Your Food
+ - [https://food.game](https://food.game)
+ - date_published: 2023-10-25T19:16:38.689460+00:00
+
+ ## GuessTheGame - Your daily video game guessing puzzle!
+ - [https://guessthe.game](https://guessthe.game)
+ - date_published: 2023-10-25T19:16:39.291433+00:00
+
+ ## Turing Complete
+ - [https://turingcomplete.game](https://turingcomplete.game)
+ - date_published: 2024-01-09T13:01:57.374797+00:00
+
+ ## Clementine
+ - [https://clementine.games](https://clementine.games)
+ - date_published: 2024-05-07T10:17:54.144497+00:00
+
+ ## Daniel Linssen
+ - [https://daniellinssen.games](https://daniellinssen.games)
+ - date_published: 2024-05-06T06:35:29.297235+00:00
+
+ ## Downpour
+ - [https://downpour.games](https://downpour.games)
+ - date_published: 2024-05-22T04:49:13.523563+00:00
+
+ ## Dynamod Games - 3D Printable Dynamic Modular Dungeon Tiles
+ - [https://dynamod.games](https://dynamod.games)
+ - date_published: 2024-04-28T05:00:12.813237+00:00
+ - tags: ['3d printing', 'tabletop games']
+
+ ## games
+ - [https://eieio.games](https://eieio.games)
+ - date_published: 2023-10-25T08:49:11.104677+00:00
+ - tags: ['personal']
+
+ ## DESΩLATION
+ - [https://emberspark.games](https://emberspark.games)
+ - date_published: 2024-04-08T17:48:26+00:00
+ - tags: ['portal', 'video game mod']
+
+ ## gd.games - Play games made with GDevelop, the game making app
+ - [https://gd.games](https://gd.games)
+ - date_published: 2024-04-28T03:14:46.768321+00:00
+
+ ## GX.games
+ - [https://gx.games](https://gx.games)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Imperial Games
+ - [https://imperial.games](https://imperial.games)
+ - date_published: 2023-10-27T08:01:51.543359+00:00
+
+ ## Insomniac Games
+ - [https://insomniac.games](https://insomniac.games)
+ - date_published: 2024-05-09T08:31:44.325513+00:00
+
+ ## IPv4 Turf War
+ - [https://ipv4.games](https://ipv4.games)
+ - date_published: 2023-10-25T19:16:40.305776+00:00
+
+ ## About The Life & Times of Video Games
+ - [https://lifeandtimes.games](https://lifeandtimes.games)
+ - date_published: 2024-04-29T03:31:56.644414+00:00
+
+ ## LogLog Games
+ - [https://loglog.games](https://loglog.games)
+ - date_published: 2024-04-26T19:20:29.613424+00:00
+ - tags: ['video game developer']
+
+ ## Moon Active
+ - [https://magmatic.games](https://magmatic.games)
+ - date_published: 2024-05-12T06:55:24.553084+00:00
+
+ ## Moai in Video Games
+ - [https://moai.games](https://moai.games)
+ - date_published: 2024-01-09T15:06:59.932481+00:00
+
+ ## Monospace Games
+ - [https://monospace.games](https://monospace.games)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Mastodon Games
+ - [https://mstdn.games](https://mstdn.games)
+ - date_published: 2024-04-28T02:45:21.251527+00:00
+
+ ## SLOT GACOR > Caritogel Situs Toto Togel Dan Slot Online Paling Mudah Menang Hari Ini
+ - [https://www.nickbentley.games](https://www.nickbentley.games)
+ - date_published: 2024-05-11T10:50:33.488135+00:00
+
+ ## #OpenDND
+ - [https://www.opendnd.games](https://www.opendnd.games)
+ - date_published: 2023-10-25T19:16:41.427149+00:00
+
+ ## Play CLASSIC games online
+ - [https://playclassic.games](https://playclassic.games)
+ - date_published: 2024-05-06T14:15:27.531318+00:00
+ - tags: ['online game']
+
+ ## Pixel Puzzler
+ - [https://pixel-puzzler.playcurious.games](https://pixel-puzzler.playcurious.games)
+ - date_published: 2023-10-25T19:16:41.899108+00:00
+
+ ## https://pubby.games
+ - [https://pubby.games](https://pubby.games)
+ - date_published: 2024-01-09T03:30:11.980749+00:00
+
+ ## My Roguelike Games – Roguelines Games created by Thomas Biskup, the Creatur of ADOM
+ - [https://roguelike.games](https://roguelike.games)
+ - date_published: 2024-04-28T05:30:45.279512+00:00
+ - tags: ['video game developer', 'personal']
+
+ ## ManaKeep
+ - [https://www.semicolin.games](https://www.semicolin.games)
+ - date_published: 2024-04-30T00:34:09.309340+00:00
+
+ ## Password Protected Site
+ - [https://agi.sierra.games](https://agi.sierra.games)
+ - date_published: 2024-04-29T02:30:30.130710+00:00
+
+ ## Product Management Support - Turbine Games Consulting
+ - [https://turbine.games](https://turbine.games)
+ - date_published: 2024-05-06T20:43:36.665945+00:00
+
+ ## The official payment site for VNGGames worldwide
+ - [https://shop.vng.games](https://shop.vng.games)
+ - date_published: 2024-05-14T03:15:23.102753+00:00
+
+ ## YakTribe.games
+ - [https://yaktribe.games](https://yaktribe.games)
+ - date_published: 2023-10-27T07:29:19.720075+00:00
+ - tags: ['necromunda', 'tabletop games', 'games workshop']
+
+ ## Show HN: An Algorithmic Audio Landscape
+ - [https://ambient.garden](https://ambient.garden)
+ - date_published: 2024-03-02T16:16:16+00:00
+
+ - [https://application.garden](https://application.garden)
+ - date_published: 2024-03-17T02:25:50.362646+00:00
+
+ ## david wolfpaw – digital citizen
+ - [https://david.garden](https://david.garden)
+ - date_published: 2024-02-25T19:11:26.871726+00:00
+
+ ## Home | dead.garden
+ - [https://dead.garden](https://dead.garden)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## derelict garden
+ - [https://derelict.garden](https://derelict.garden)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## drawing.garden
+ - [https://drawing.garden](https://drawing.garden)
+ - date_published: 2024-01-11T00:05:46.523514+00:00
+
+ ## Fractal Garden
+ - [https://www.fractal.garden](https://www.fractal.garden)
+ - date_published: 2023-10-25T19:16:43.401736+00:00
+
+ ## 🌿 garlic 🧄 garden 🌿
+ - [https://garlic.garden](https://garlic.garden)
+ - date_published: 2024-05-06T15:03:18.274656+00:00
+
+ ## Leadership Garden - Your guide to engineering leadership
+ - [https://leadership.garden](https://leadership.garden)
+ - date_published: 2023-10-25T19:16:55.097666+00:00
+
+ ## Home < Bolkonskij's Cheat Emporium
+ - [http://cheats.macintosh.garden](http://cheats.macintosh.garden)
+ - date_published: 2024-05-04T13:40:29.940438+00:00
+
+ ## Macintosh Garden - Free Hosting
+ - [http://home.macintosh.garden](http://home.macintosh.garden)
+ - date_published: 2024-05-04T13:40:26.710988+00:00
+
+ ## Macintosh Garden - Image Hosting
+ - [https://images.macintosh.garden](https://images.macintosh.garden)
+ - date_published: 2024-05-04T13:40:49.970324+00:00
+
+ ## Macintosh Garden - Celebrating Macintosh Abandonware
+ - [http://macintosh.garden](http://macintosh.garden)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## alex miller's garden
+ - [https://alex.miller.garden](https://alex.miller.garden)
+ - date_published: 2023-10-25T19:16:58.101095+00:00
+
+ ## ~/osc
+ - [https://osc.garden](https://osc.garden)
+ - date_published: 2024-03-25T11:10:23.122768+00:00
+ - tags: ['personal']
+
+ ## GoatCounter
+ - [https://stats.osc.garden](https://stats.osc.garden)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## sunny.garden
+ - [https://hub.sunny.garden](https://hub.sunny.garden)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Sunny Garden
+ - [https://sunny.garden](https://sunny.garden)
+ - date_published: 2024-05-08T05:22:20.546179+00:00
+
+ ## arbitrary woodland head part investigation
+ - [https://this.alicorn.gay](https://this.alicorn.gay)
+ - date_published: 2023-10-25T19:17:04.082582+00:00
+
+ ## Akkoma
+ - [https://crimew.gay](https://crimew.gay)
+ - date_published: 2024-05-08T02:29:08.236056+00:00
+
+ ## maia :3
+ - [https://maia.crimew.gay](https://maia.crimew.gay)
+ - date_published: 2023-10-25T19:17:04.913484+00:00
+
+ ## Umami
+ - [https://umami.crimew.gay](https://umami.crimew.gay)
+ - date_published: 2024-05-08T02:29:04.234744+00:00
+
+ ## is-hella.gay - Be hella gay on the Internet!
+ - [https://joni.is-hella.gay](https://joni.is-hella.gay)
+ - date_published: 2024-05-09T07:48:12.302884+00:00
+
+ ## hello | juh
+ - [https://juh.gay](https://juh.gay)
+ - date_published: 2024-05-09T02:38:59.782600+00:00
+ - tags: ['personal']
+
+ ## landing page
+ - [https://meows.gay](https://meows.gay)
+ - date_published: 2024-05-09T08:26:19.729254+00:00
+
+ ## The Homepage of msx.gay
+ - [https://msx.gay](https://msx.gay)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## mraowr mraowr mryaowr meow myamyamyroawr mroawroawrrwaoawrmrawowr prrrrrrrprrrrrrrrrrrrrrr mraowr mryaoawryrawr mraoawrmyraoawrmrawayawrmorawrwawrawrmrwar mryaowr
+ - [https://sanya.gay](https://sanya.gay)
+ - date_published: 2024-05-09T08:19:58.073595+00:00
+
+ ## WSMZ
+ - [https://wsmz.gay](https://wsmz.gay)
+ - date_published: 2024-05-08T10:46:16.285183+00:00
+
+ ## The Lounge
+ - [https://irc.mr.gd](https://irc.mr.gd)
+ - date_published: 2024-05-21T02:47:24.767613+00:00
+
+ ## Citroen in Georgia: Auto and new car for sale
+ - [https://en.citroen.com.ge](https://en.citroen.com.ge)
+ - date_published: 2024-05-10T04:41:25.235110+00:00
+
+ ## სიტროენის ოფიციალური გვერდი:ახალი ავტომობილები საქართველოში.
+ - [https://www.citroen.com.ge](https://www.citroen.com.ge)
+ - date_published: 2023-12-11T16:01:58.871903+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://www.visa.com.ge](https://www.visa.com.ge)
+ - date_published: 2024-05-12T03:58:46.092105+00:00
+
+ ## კავკასიის უნივერსიტეტი
+ - [https://cu.edu.ge](https://cu.edu.ge)
+ - date_published: 2024-05-08T00:26:54.363422+00:00
+
+ ## Applied Language
+ - [https://applied-langua.ge](https://applied-langua.ge)
+ - date_published: 2023-10-25T19:17:05.596293+00:00
+
+ ## Civil Georgia
+ - [https://civil.ge](https://civil.ge)
+ - date_published: 2023-11-06T23:14:45.688164+00:00
+
+ ## Home
+ - [https://daneke.ge](https://daneke.ge)
+ - date_published: 2024-05-11T10:24:22.863344+00:00
+
+ ## | GEBIRGE
+ - [https://gebir.ge](https://gebir.ge)
+ - date_published: 2024-01-09T03:30:12.832994+00:00
+
+ ## თინეთი - ყველაზე დიდი ტექნოლოგიური ეკოსისტემა საქართველოში
+ - [https://my.ge](https://my.ge)
+ - date_published: 2024-05-01T02:58:34.149520+00:00
+
+ ## თიბისი ბანკი - TBC Bank
+ - [https://www.tbcbank.ge](https://www.tbcbank.ge)
+ - date_published: 2024-05-01T06:04:17.433233+00:00
+
+ ## Login |  Triage
+ - [https://tria.ge](https://tria.ge)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Welcome to WLED - WLED Project
+ - [https://kno.wled.ge](https://kno.wled.ge)
+ - date_published: 2023-10-25T19:17:08.470342+00:00
+
+ ## React App
+ - [https://1983.gent](https://1983.gent)
+ - date_published: 2024-05-09T08:17:56.890828+00:00
+
+ ## Service Plan - Citroen
+ - [https://rendezvousenligne.citroen.gf](https://rendezvousenligne.citroen.gf)
+ - date_published: 2024-05-10T04:45:27.345879+00:00
+
+ ## Citroën Guyane : Vente et achat de voitures neuves
+ - [https://www.citroen.gf](https://www.citroen.gf)
+ - date_published: 2023-12-11T15:49:41.790122+00:00
+
+ ## Guernsey Airport Official Website | Channel Islands
+ - [https://www.airport.gg](https://www.airport.gg)
+ - date_published: 2024-05-04T08:57:36.523985+00:00
+
+ ## ASTRALIS
+ - [https://astralis.gg](https://astralis.gg)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## The official ASTRALIS webshop
+ - [https://shop.astralis.gg](https://shop.astralis.gg)
+ - date_published: 2024-05-08T02:29:34.558590+00:00
+
+ ## ASTRALIS
+ - [https://www.astralis.gg](https://www.astralis.gg)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Astralis Nexus - Det fedeste gaming- og eventcenter i København
+ - [https://astralisnexus.gg](https://astralisnexus.gg)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Bazzite - The next generation of Linux gaming
+ - [https://bazzite.gg](https://bazzite.gg)
+ - date_published: 2024-05-06T09:12:10.770095+00:00
+ - tags: ['video games', 'linux', 'operating system']
+
+ ## Buy it, Sell it | Online and newspaper classifieds | Guernsey
+ - [https://www.bisi.gg](https://www.bisi.gg)
+ - date_published: 2024-05-04T08:57:33.661844+00:00
+
+ ## World of Warcraft Blue Posts - Blue Tracker
+ - [https://www.bluetracker.gg](https://www.bluetracker.gg)
+ - date_published: 2023-12-13T16:18:50.188152+00:00
+ - tags: ['warcraft']
+
+ ## Cloud9 | Professional Esports Organization
+ - [https://c9.gg](https://c9.gg)
+ - date_published: 2024-05-09T04:50:19.767829+00:00
+
+ ## Hey! I'm Carol.
+ - [https://carol.gg](https://carol.gg)
+ - date_published: 2023-10-25T19:17:09.379295+00:00
+
+ ## ChatHub - All-in-one chatbot client
+ - [https://chathub.gg](https://chathub.gg)
+ - date_published: 2023-10-25T19:17:10.575904+00:00
+
+ ## Overview | ChatHub
+ - [https://doc.chathub.gg](https://doc.chathub.gg)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## Cloud9 | Professional Esports Organization
+ - [https://cloud9.gg](https://cloud9.gg)
+ - date_published: 2024-05-09T04:50:11.028346+00:00
+
+ ## Cloud9 Esports
+ - [https://store.cloud9.gg](https://store.cloud9.gg)
+ - date_published: 2024-05-09T04:50:12.579534+00:00
+
+ ## Cloud9 | Professional Esports Organization
+ - [http://www.cloud9.gg](http://www.cloud9.gg)
+ - date_published: 2024-03-04T03:54:34.554379+00:00
+ - tags: ['esport']
+
+ ## Death by AI – a free Jackbox style party game. AI judges your plans to survive
+ - [https://deathbyai.gg](https://deathbyai.gg)
+ - date_published: 2023-11-18T12:40:19+00:00
+
+ ## Discord | Your Place to Talk and Hang Out
+ - [https://discord.gg](https://discord.gg)
+ - date_published: 2023-10-31T15:38:01.261329+00:00
+ - tags: ['discord']
+
+ ## Discord | Your Place to Talk and Hang Out
+ - [https://www.discord.gg](https://www.discord.gg)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://dyno.gg](https://dyno.gg)
+ - date_published: 2024-04-11T13:18:30.395687+00:00
+ - tags: ['discord bot']
+
+ ## GameBanshee - Video Game Walkthroughs, News, & Reviews
+ - [https://dev.eip.gg](https://dev.eip.gg)
+ - date_published: 2024-05-14T03:19:19.488301+00:00
+
+ ## EIP Gaming - Video Game Walkthroughs, News, & Reviews
+ - [https://eip.gg](https://eip.gg)
+ - date_published: 2023-12-13T16:15:56.959477+00:00
+ - tags: ['video game news']
+
+ ## Explain Like I'm 5 - AI assisted ELI5
+ - [https://eli5.gg](https://eli5.gg)
+ - date_published: 2023-10-25T19:17:12.083486+00:00
+
+ ## Evan Frawley
+ - [https://evan.gg](https://evan.gg)
+ - date_published: 2024-04-29T04:04:07.712920+00:00
+ - tags: ['personal']
+
+ ## Family Notices from the Guernsey Press
+ - [https://www.familynotices.gg](https://www.familynotices.gg)
+ - date_published: 2024-05-04T08:57:31.523108+00:00
+
+ ## FarmFriends: Stardew Valley Tools & Community
+ - [https://www.farmfriends.gg](https://www.farmfriends.gg)
+ - date_published: 2024-04-28T05:58:36.397096+00:00
+
+ ## Custom Domain by Bitly
+ - [http://fce.gg](http://fce.gg)
+ - date_published: 2024-05-04T07:16:23.084667+00:00
+
+ ## FlyQuest
+ - [https://flyquest.gg](https://flyquest.gg)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## FlyQuest
+ - [https://www.flyquest.gg](https://www.flyquest.gg)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Home - Frameplay
+ - [https://www.frameplay.gg](https://www.frameplay.gg)
+ - date_published: 2024-05-06T17:43:49.542961+00:00
+
+ ## FUTAROKU - 深夜26時のゲーマーのためのショップ
+ - [https://teams.futaroku.gg](https://teams.futaroku.gg)
+ - date_published: 2024-05-09T04:50:21.614276+00:00
+
+ ## The Leader in Gaming Energy & Nutrition; Waifu Cups/Gaming Supplements
+ - [https://gamersupps.gg](https://gamersupps.gg)
+ - date_published: 2024-02-24T09:57:57.313307+00:00
+
+ ## Gebna blog
+ - [https://gebna.gg](https://gebna.gg)
+ - date_published: 2024-05-03T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Gen.G Esports
+ - [https://en.geng.gg](https://en.geng.gg)
+ - date_published: 2024-05-08T02:30:19.226285+00:00
+
+ ## Gen.G Esports
+ - [https://geng.gg](https://geng.gg)
+ - date_published: 2023-11-03T12:50:54.357347+00:00
+
+ ## Gen.G Esports KR
+ - [https://kr.geng.gg](https://kr.geng.gg)
+ - date_published: 2024-05-08T02:30:20.870608+00:00
+
+ ## Home
+ - [https://www.ggacademy.gg](https://www.ggacademy.gg)
+ - date_published: 2024-05-08T02:30:18.035816+00:00
+
+ ## Guernsey Press Digital
+ - [https://www.gpdigital.gg](https://www.gpdigital.gg)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Guilded - Chat for Gaming Communities
+ - [https://guilded.gg](https://guilded.gg)
+ - date_published: 2024-04-28T05:15:26.442510+00:00
+
+ ## harbours.gg - Guernsey Harbours
+ - [http://www.harbours.gg](http://www.harbours.gg)
+ - date_published: 2024-05-04T08:57:29.447446+00:00
+
+ ## Worlds Esports Cup 2021: WEC Free Fire Tournament, Prize Money, Schedule, Registration, Game Rules and Teams
+ - [https://www.itg.gg](https://www.itg.gg)
+ - date_published: 2024-05-13T03:27:25.386608+00:00
+
+ ## Jawa.gg: Buy and Sell Your Gaming Gear
+ - [https://cdn.jawa.gg](https://cdn.jawa.gg)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Jawa.gg: Buy and Sell Your Gaming Gear
+ - [https://www.jawa.gg](https://www.jawa.gg)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## JetBrains: Essential tools for software developers and teams
+ - [https://jb.gg](https://jb.gg)
+ - date_published: 2024-05-07T23:45:39.925061+00:00
+
+ ## RevK's photo site
+ - [https://k.gg](https://k.gg)
+ - date_published: 2024-05-12T01:22:44.723166+00:00
+
+ ## Lexicon Gaming - Gaming Network
+ - [https://lexicon.gg](https://lexicon.gg)
+ - date_published: 2023-12-13T16:17:28.599712+00:00
+
+ ## MAGIC PLAY | HOME
+ - [https://magic.gg](https://magic.gg)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## MAGIC PLAY | HOME
+ - [https://www.magic.gg](https://www.magic.gg)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## Discord - A New Way to Chat with Friends & Communities
+ - [https://backend.maxroll.gg](https://backend.maxroll.gg)
+ - date_published: 2024-05-08T02:09:10.706867+00:00
+
+ ## Hey, I'm imgproxy!
+ - [https://imgproxy.maxroll.gg](https://imgproxy.maxroll.gg)
+ - date_published: 2024-05-08T02:09:01.994318+00:00
+
+ ## Maxroll
+ - [https://maxroll.gg](https://maxroll.gg)
+ - date_published: 2023-12-13T16:18:25.175632+00:00
+ - tags: ['diablo']
+
+ ## PoExchange - Bulk
+ - [https://poexchange.maxroll.gg](https://poexchange.maxroll.gg)
+ - date_published: 2024-05-08T02:09:17.037039+00:00
+
+ ## Play and Learn from the Best Pro Gamers in the World
+ - [https://metafy.gg](https://metafy.gg)
+ - date_published: 2024-05-08T04:31:06.672556+00:00
+
+ ## Mobalytics - The All-in-One Companion for Every Gamer
+ - [https://mobalytics.gg](https://mobalytics.gg)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Adlab | Stream, play and get paid
+ - [https://move.gg](https://move.gg)
+ - date_published: 2024-05-08T02:29:38.260615+00:00
+
+ ## Neil Gupta
+ - [https://www.neil.gg](https://www.neil.gg)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Northrend.gg
+ - [https://northrend.gg](https://northrend.gg)
+ - date_published: 2024-03-27T20:39:23+00:00
+ - tags: ['world of warcraft']
+
+ ## NRG Esports | Home
+ - [https://www.nrg.gg](https://www.nrg.gg)
+ - date_published: 2023-11-02T10:40:58.258689+00:00
+
+ ## Opera GX | Gaming Browser | Opera
+ - [https://operagx.gg](https://operagx.gg)
+ - date_published: 2024-03-04T18:07:07.592343+00:00
+
+ ## Find and Share the Best Warframe Builds - Overframe
+ - [https://overframe.gg](https://overframe.gg)
+ - date_published: 2023-12-13T16:20:00.589994+00:00
+
+ ## Ozwin Casino - Australian Online Pokies to Play
+ - [https://ozwincasino.gg](https://ozwincasino.gg)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## Porofessor.gg - League of Legends live game search and real-time player statistics
+ - [https://porofessor.gg](https://porofessor.gg)
+ - date_published: 2024-04-28T05:58:34.728682+00:00
+
+ ## AI-Powered Clipping Software for Gaming | Powder
+ - [https://powder.gg](https://powder.gg)
+ - date_published: 2024-05-07T14:10:57.953720+00:00
+
+ ## Pragma - The Backend Game Engine
+ - [https://pragma.gg](https://pragma.gg)
+ - date_published: 2024-05-06T23:28:21.619035+00:00
+
+ ## Pursuit of Loot
+ - [https://pursuitofloot.gg](https://pursuitofloot.gg)
+ - date_published: 2024-05-11T10:22:07.599810+00:00
+
+ ## The Official React Query Course - 🔮 query.gg
+ - [https://query.gg](https://query.gg)
+ - date_published: 2024-05-06T21:26:25.589960+00:00
+
+ ## The interactive way to master modern React – react.gg
+ - [https://react.gg](https://react.gg)
+ - date_published: 2024-05-06T21:26:19.401149+00:00
+
+ ## Riot Games Official News, Patch Notes & More - RiotWatch
+ - [https://riotwatch.gg](https://riotwatch.gg)
+ - date_published: 2023-12-13T16:15:50.241910+00:00
+
+ ## ROG - Republic of Gamers｜Global | For Those Who Dare
+ - [https://rog.gg](https://rog.gg)
+ - date_published: 2024-05-27T06:11:21.904208+00:00
+
+ ## Show HN: Scorecard.gg – minimalist scoring tool for your favorite board games
+ - [https://scorecard.gg](https://scorecard.gg)
+ - date_published: 2023-11-07T14:33:53+00:00
+
+ ## T1 Shop
+ - [https://shop-t1.gg](https://shop-t1.gg)
+ - date_published: 2024-05-08T02:32:13.234651+00:00
+
+ ## T1 Shop
+ - [https://shop-t1-na.gg](https://shop-t1-na.gg)
+ - date_published: 2024-05-08T02:31:35.543449+00:00
+
+ ## Smirk Software Company
+ - [https://www.smirk.gg](https://www.smirk.gg)
+ - date_published: 2022-01-26T00:00:00+00:00
+
+ ## davidb.tk website
+ - [https://spork.gg](https://spork.gg)
+ - date_published: 2024-05-09T08:20:30.216669+00:00
+
+ ## Empowering the world to develop technology through collective knowledge - Stack Overflow
+ - [https://stackoverflow.gg](https://stackoverflow.gg)
+ - date_published: 2024-01-09T03:30:14.198223+00:00
+
+ ## Starboard
+ - [https://starboard.gg](https://starboard.gg)
+ - date_published: 2024-04-30T07:34:48.979573+00:00
+
+ ## Stormforge Forum
+ - [https://forum.stormforge.gg](https://forum.stormforge.gg)
+ - date_published: 2024-03-24T00:00:00+00:00
+
+ ## Stormforge Logs
+ - [https://logs.stormforge.gg](https://logs.stormforge.gg)
+ - date_published: 2024-05-11T11:49:52.870223+00:00
+
+ ## Stormforge
+ - [https://stormforge.gg](https://stormforge.gg)
+ - date_published: 2024-03-27T20:38:31+00:00
+ - tags: ['world of warcraft']
+
+ ## Stride - The Premium Tournament Solution · Stride
+ - [https://stride.gg](https://stride.gg)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Studie_CS
+ - [https://www.studiecs.gg](https://www.studiecs.gg)
+ - date_published: 2024-05-08T02:29:26.972673+00:00
+
+ ## Sunny Golovine
+ - [https://sunny.gg](https://sunny.gg)
+ - date_published: 2023-10-25T19:17:12.779363+00:00
+
+ ## T1
+ - [https://t1.gg](https://t1.gg)
+ - date_published: 2023-11-19T11:19:04.284643+00:00
+
+ ## T1
+ - [https://www.t1.gg](https://www.t1.gg)
+ - date_published: 2024-05-08T02:31:49.457103+00:00
+
+ ## T1 Esports Academy
+ - [http://t1a.gg](http://t1a.gg)
+ - date_published: 2024-05-08T02:31:52.863464+00:00
+
+ ## Create T3 App
+ - [https://create.t3.gg](https://create.t3.gg)
+ - date_published: 2024-05-08T09:01:12.086994+00:00
+
+ ## Theo Browne - T3 Stack, Ping.gg, YouTuber
+ - [https://t3.gg](https://t3.gg)
+ - date_published: 2024-05-09T08:46:18.628403+00:00
+
+ ## Home - TGS Esports
+ - [https://tgsesports.gg](https://tgsesports.gg)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Home - TGS Esports
+ - [https://www.tgsesports.gg](https://www.tgsesports.gg)
+ - date_published: 2023-10-25T11:26:26.268549+00:00
+
+ ## tk.gg - Matt TK Taylor
+ - [https://tk.gg](https://tk.gg)
+ - date_published: 2024-05-11T10:17:43.413773+00:00
+
+ ## Team Liquid | A Legacy Unrivaled in Esports
+ - [https://tl.gg](https://tl.gg)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Twads
+ - [https://go.twads.gg](https://go.twads.gg)
+ - date_published: 2024-05-13T03:47:17.444954+00:00
+
+ ## r.va.gg
+ - [https://r.va.gg](https://r.va.gg)
+ - date_published: 2024-05-06T14:40:35.476872+00:00
+
  ## Samuel Vilz
  - [https://vilz.gg](https://vilz.gg)
  - date_published: 2023-12-28T18:50:12.689760+00:00
@@ -3014,1018 +4046,4 @@
  ## National Institutes of Health (NIH) | Turning Discovery Into Health
  - [https://www.nih.gov](https://www.nih.gov)
  - date_published: 2023-10-25T19:23:35.776264+00:00
-
- ## NIH LIBRARY | NIH Library
- - [https://www.nihlibrary.nih.gov](https://www.nihlibrary.nih.gov)
- - date_published: 2024-05-08T02:44:39.351073+00:00
-
- ## National Institute of Mental Health (NIMH) - Transforming the understanding and treatment of mental illnesses
- - [https://www.nimh.nih.gov](https://www.nimh.nih.gov)
- - date_published: 2024-03-14T14:04:53.970911+00:00
-
- ## Home
- - [https://www.ninds.nih.gov](https://www.ninds.nih.gov)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## NIST Computer Security Resource Center | CSRC
- - [https://csrc.nist.gov](https://csrc.nist.gov)
- - date_published: 2024-02-28T12:32:13+00:00
- - tags: ['cybersecurity']
-
- ## You are accessing a U.S. Government information system.
- - [https://ir.nist.gov](https://ir.nist.gov)
- - date_published: 2024-05-02T12:55:03.190918+00:00
-
- ## National Institute of Standards and Technology
- - [https://nist.gov](https://nist.gov)
- - date_published: 2024-02-26T00:00:00+00:00
- - tags: ['standards']
-
- ## NVD - Home
- - [https://nvd.nist.gov](https://nvd.nist.gov)
- - date_published: 2023-10-25T19:23:38.761448+00:00
-
- ## NIST Technical Series Publications
- - [https://nvlpubs.nist.gov](https://nvlpubs.nist.gov)
- - date_published: 2024-02-24T10:01:18.948874+00:00
-
- ## Text REtrieval Conference (TREC) Home Page
- - [https://trec.nist.gov](https://trec.nist.gov)
- - date_published: 2024-04-28T04:06:21.037801+00:00
-
- ## TSAPPS at NIST
- - [https://tsapps.nist.gov](https://tsapps.nist.gov)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Information Technology Laboratory | NIST
- - [https://www.itl.nist.gov](https://www.itl.nist.gov)
- - date_published: 2023-10-25T19:23:43.980308+00:00
-
- ## National Institute of Standards and Technology
- - [https://www.nist.gov](https://www.nist.gov)
- - date_published: 2023-10-25T11:20:30.382440+00:00
-
- ## Redirecting
- - [https://xlinux.nist.gov](https://xlinux.nist.gov)
- - date_published: 2023-10-25T19:23:45.687533+00:00
-
- ## NJ Legislature
- - [https://pub.njleg.gov](https://pub.njleg.gov)
- - date_published: 2024-05-06T17:02:38.917240+00:00
-
- ## https://www.nlrb.gov
- - [https://www.nlrb.gov](https://www.nlrb.gov)
- - date_published: 2024-01-09T03:31:29.688759+00:00
-
- ## Home
- - [https://geodesy.noaa.gov](https://geodesy.noaa.gov)
- - date_published: 2024-05-09T07:09:00.657242+00:00
-
- ## NOAA Global Monitoring Laboratory
- - [https://gml.noaa.gov](https://gml.noaa.gov)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Monitor National Marine Sanctuary
- - [http://monitor.noaa.gov](http://monitor.noaa.gov)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## National Centers for Environmental Information (NCEI)
- - [https://ncdc.noaa.gov](https://ncdc.noaa.gov)
- - date_published: 2024-05-08T11:33:04.384732+00:00
-
- ## NOAA's National Ocean Service
- - [https://oceanservice.noaa.gov](https://oceanservice.noaa.gov)
- - date_published: 2023-10-25T19:23:48.997984+00:00
-
- ## Ocean Today | Watch. Discover. Learn. | Ocean Today videos focus on both the ocean's influence on us and our influence upon the ocean.
- - [https://oceantoday.noaa.gov](https://oceantoday.noaa.gov)
- - date_published: 2014-12-08T00:00:00+00:00
-
- ## Index of /
- - [https://services.swpc.noaa.gov](https://services.swpc.noaa.gov)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Science On a Sphere
- - [https://sos.noaa.gov](https://sos.noaa.gov)
- - date_published: 2023-10-25T19:24:08.336867+00:00
-
- ## Climate Prediction Center
- - [https://www.cpc.ncep.noaa.gov](https://www.cpc.ncep.noaa.gov)
- - date_published: 2023-10-25T19:24:13.204472+00:00
-
- ## Welcome to NOAA | NOAA Fisheries
- - [https://www.fisheries.noaa.gov](https://www.fisheries.noaa.gov)
- - date_published: 2023-10-25T19:24:18.167307+00:00
-
- ## National Centers for Environmental Information (NCEI)
- - [https://www.ncdc.noaa.gov](https://www.ncdc.noaa.gov)
- - date_published: 2024-04-28T05:44:13.324923+00:00
-
- ## National Centers for Environmental Information (NCEI)
- - [https://www.ncei.noaa.gov](https://www.ncei.noaa.gov)
- - date_published: 2023-10-25T19:24:22.011014+00:00
-
- ## NCEP Central Operations
- - [https://www.nco.ncep.noaa.gov](https://www.nco.ncep.noaa.gov)
- - date_published: 2023-10-25T19:24:25.360125+00:00
-
- ## National Hurricane Center
- - [https://www.nhc.noaa.gov](https://www.nhc.noaa.gov)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## National Oceanic and Atmospheric Administration
- - [https://www.noaa.gov](https://www.noaa.gov)
- - date_published: 2023-10-25T19:24:27.385106+00:00
-
- ## Home Page | Office of Marine and Aviation Operations
- - [https://www.omao.noaa.gov](https://www.omao.noaa.gov)
- - date_published: 2024-05-04T07:32:50.236150+00:00
-
- ## STAR - NOAA / NESDIS / Center for Satellite Applications and Research
- - [https://www.star.nesdis.noaa.gov](https://www.star.nesdis.noaa.gov)
- - date_published: 2023-10-25T19:24:30.758583+00:00
-
- ## Homepage | NOAA / NWS Space Weather Prediction Center
- - [https://www.swpc.noaa.gov](https://www.swpc.noaa.gov)
- - date_published: 2023-10-25T19:24:35.156999+00:00
-
- ## Test Page for the HTTP Server on Red Hat Enterprise Linux
- - [http://www.wrh.noaa.gov](http://www.wrh.noaa.gov)
- - date_published: 2024-05-08T10:27:35.893063+00:00
-
- ## NPS.gov Homepage (U.S. National Park Service)
- - [https://www.nps.gov](https://www.nps.gov)
- - date_published: 2023-10-25T11:20:15.724610+00:00
-
- ## home
- - [https://www.nrc.gov](https://www.nrc.gov)
- - date_published: 2024-01-09T03:31:30.889825+00:00
-
- ## National Renewable Energy Laboratory (NREL) Home Page | NREL
- - [https://www.nrel.gov](https://www.nrel.gov)
- - date_published: 2023-10-25T19:24:44.925788+00:00
-
- ## > Home
- - [https://www.nro.gov](https://www.nro.gov)
- - date_published: 2024-05-12T07:25:51.279303+00:00
-
- ## Home | Open Source @ NSA
- - [https://code.nsa.gov](https://code.nsa.gov)
- - date_published: 2024-05-26T10:15:54.746013+00:00
- - tags: ['open source', 'nsa']
-
- ## National Security Agency | Central Security Service
- - [https://www.nsa.gov](https://www.nsa.gov)
- - date_published: 2023-10-25T19:24:48.246865+00:00
- - tags: ['usa security intelligence', 'government', 'espionage', 'security intelligence']
-
- ## NSF - National Science Foundation
- - [https://new.nsf.gov](https://new.nsf.gov)
- - date_published: 2023-12-20T18:03:43.696281+00:00
-
- ## NSF - National Science Foundation
- - [https://nsf.gov](https://nsf.gov)
- - date_published: 2024-04-28T02:51:17.482974+00:00
-
- ## NSF Public Access
- - [https://par.nsf.gov](https://par.nsf.gov)
- - date_published: 2023-10-25T19:24:50.680036+00:00
-
- ## America’s Seed Fund – NSF SBIR/STTR | NSF SBIR
- - [https://seedfund.nsf.gov](https://seedfund.nsf.gov)
- - date_published: 2021-12-31T00:00:00+00:00
-
- ## Research.gov - Homepage
- - [http://www.fastlane.nsf.gov](http://www.fastlane.nsf.gov)
- - date_published: 2010-01-15T00:00:00+00:00
-
- ## NSF - National Science Foundation
- - [https://www.nsf.gov](https://www.nsf.gov)
- - date_published: 2024-04-28T04:06:30.027828+00:00
-
- ## Home Page | National Telecommunications and Information Administration
- - [https://www.ntia.gov](https://www.ntia.gov)
- - date_published: 2024-05-08T10:07:24.734187+00:00
-
- ## https://ntrl.ntis.gov
- - [https://ntrl.ntis.gov](https://ntrl.ntis.gov)
- - date_published: 2024-01-09T03:31:33.773574+00:00
-
- ## Home
- - [https://www.ntsb.gov](https://www.ntsb.gov)
- - date_published: 2023-10-25T19:24:54.011991+00:00
-
- ## Joe Lombardo, Governor of Nevada
- - [https://gov.nv.gov](https://gov.nv.gov)
- - date_published: 2024-05-06T17:11:33.129996+00:00
-
- ## Nevada Division of Environmental Protection | NDEP
- - [https://ndep.nv.gov](https://ndep.nv.gov)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home | New York State Attorney General
- - [https://ag.ny.gov](https://ag.ny.gov)
- - date_published: 2023-10-25T19:24:55.587930+00:00
-
- ## Adirondack Park Agency
- - [https://apa.ny.gov](https://apa.ny.gov)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## COVID-19
- - [https://coronavirus.health.ny.gov](https://coronavirus.health.ny.gov)
- - date_published: 2024-05-06T20:40:30.862940+00:00
-
- ## Sign in - Google Accounts
- - [https://covid19tracker.health.ny.gov](https://covid19tracker.health.ny.gov)
- - date_published: 2024-05-07T14:01:57.032934+00:00
-
- ## State of New York | Open Data | State of New York
- - [https://data.ny.gov](https://data.ny.gov)
- - date_published: 2024-05-06T20:35:09.294406+00:00
-
- ## Success
- - [https://encryption.ny.gov](https://encryption.ny.gov)
- - date_published: 2024-05-11T09:25:31.152395+00:00
-
- ## Cierpliwości...
- - [https://nyenr.elections.ny.gov](https://nyenr.elections.ny.gov)
- - date_published: 2024-04-02T18:07:10.090471+00:00
-
- ## Home
- - [https://www.dec.ny.gov](https://www.dec.ny.gov)
- - date_published: 2024-05-11T09:25:27.207623+00:00
-
- ## Department of State
- - [https://www.dos.ny.gov](https://www.dos.ny.gov)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## The Official Website of Governor Kathy Hochul
- - [https://www.governor.ny.gov](https://www.governor.ny.gov)
- - date_published: 2024-04-29T03:12:36.486669+00:00
-
- ## New York State Department of Health
- - [https://www.health.ny.gov](https://www.health.ny.gov)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## The Official Website of New York State
- - [http://www.ny.gov](http://www.ny.gov)
- - date_published: 2024-05-11T09:25:20.986139+00:00
-
- ## NYSERDA - New York State Energy Research & Development Authority - NYSERDA
- - [https://www.nyserda.ny.gov](https://www.nyserda.ny.gov)
- - date_published: 2024-05-08T06:31:58.064149+00:00
-
- ## https://www.osc.ny.gov
- - [https://www.osc.ny.gov](https://www.osc.ny.gov)
- - date_published: 2023-12-19T17:57:44.445591+00:00
-
- ## Mayor's Office NYC
- - [https://a002-oom03.nyc.gov](https://a002-oom03.nyc.gov)
- - date_published: 2023-10-25T19:24:56.465502+00:00
-
- ## Home
-		 · NYC311
- - [https://portal.311.nyc.gov](https://portal.311.nyc.gov)
- - date_published: 2024-05-12T05:41:23.554612+00:00
-
- ## Property Information Portal
- - [https://propertyinformationportal.nyc.gov](https://propertyinformationportal.nyc.gov)
- - date_published: 2024-05-20T06:53:15.468150+00:00
-
- ## Welcome to NYC.gov | City of New York
- - [http://www1.nyc.gov](http://www1.nyc.gov)
- - date_published: 2024-05-06T20:35:17.057679+00:00
-
- ## Welcome to NYC.gov | City of New York
- - [https://www.nyc.gov](https://www.nyc.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## FAQ's about Ask a Law Librarian - Ask a Law Librarian
- - [https://askalawlibrarian.nycourts.gov](https://askalawlibrarian.nycourts.gov)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## NYCOURTS.GOV - New York State Unified Court System
- - [https://justicetraining.nycourts.gov](https://justicetraining.nycourts.gov)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## NYS UCS Payment Services
- - [https://payments.nycourts.gov](https://payments.nycourts.gov)
- - date_published: 2024-05-02T12:53:16.954450+00:00
-
- ## Home
-		 · Customer Self-Service
- - [https://portal.nycourts.gov](https://portal.nycourts.gov)
- - date_published: 2024-05-02T12:52:37.814527+00:00
-
- ## NYCOURTS.GOV - New York State Unified Court System
- - [https://ww2.nycourts.gov](https://ww2.nycourts.gov)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## NYCOURTS.GOV - New York State Unified Court System
- - [https://www.nycourts.gov](https://www.nycourts.gov)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Office of the Professions | Office of the Professions
- - [http://www.op.nysed.gov](http://www.op.nysed.gov)
- - date_published: 2024-05-09T02:37:11.093477+00:00
-
- ## The New York State Senate
- - [https://www.nysenate.gov](https://www.nysenate.gov)
- - date_published: 2023-10-25T19:24:58.425689+00:00
-
- ## Homepage
- - [https://www.oaklandca.gov](https://www.oaklandca.gov)
- - date_published: 2024-05-08T11:00:28.073943+00:00
-
- ## OCC Search
- - [https://apps.occ.gov](https://apps.occ.gov)
- - date_published: 2024-05-12T05:54:17.172114+00:00
-
- ## OCC Careers Home page
- - [https://careers.occ.gov](https://careers.occ.gov)
- - date_published: 2022-05-14T00:00:00+00:00
-
- ## Office of the Comptroller of the Currency (OCC)
- - [https://www.occ.gov](https://www.occ.gov)
- - date_published: 2024-04-03T06:40:03.944278+00:00
-
- ## Home
- - [https://toledo.oh.gov](https://toledo.oh.gov)
- - date_published: 2024-04-30T07:26:06.794675+00:00
-
- ## Ohio Secretary of State's Office Website Maintenance
- - [https://olvr.ohiosos.gov](https://olvr.ohiosos.gov)
- - date_published: 2024-05-06T21:44:27.190449+00:00
-
- ## Ohio Secretary of State's Office Website Maintenance
- - [https://registrationreadiness.ohiosos.gov](https://registrationreadiness.ohiosos.gov)
- - date_published: 2024-05-04T06:49:48.941211+00:00
-
- ## Ohio Secretary of State's Office Website Maintenance
- - [https://www.ohiosos.gov](https://www.ohiosos.gov)
- - date_published: 2024-05-06T21:44:08.850706+00:00
-
- ## Home | Bureau of Justice Assistance
- - [https://bja.ojp.gov](https://bja.ojp.gov)
- - date_published: 2024-05-04T09:27:08.890517+00:00
-
- ## Strengthen science. Advance justice.
- - [https://nij.ojp.gov](https://nij.ojp.gov)
- - date_published: 2024-02-24T18:06:29.327243+00:00
-
- ## Oklahoma.gov Home
- - [https://oklahoma.gov](https://oklahoma.gov)
- - date_published: 2024-01-08T15:10:22.537667+00:00
-
- ## Opelika, AL | Official Website
- - [https://www.opelika-al.gov](https://www.opelika-al.gov)
- - date_published: 2024-04-30T03:12:42.107237+00:00
-
- ## Combined Federal Campaign
- - [https://cfcgiving.opm.gov](https://cfcgiving.opm.gov)
- - date_published: 2024-05-08T02:37:17.757418+00:00
-
- ## Oregon.gov : State of Oregon
- - [https://www.oregon.gov](https://www.oregon.gov)
- - date_published: 2024-05-11T11:18:08.630376+00:00
-
- ## Information about Organ, Eye, and Tissue Donation | organdonor.gov
- - [https://www.organdonor.gov](https://www.organdonor.gov)
- - date_published: 2024-05-04T06:40:57.009815+00:00
-
- ## National Household Travel Survey
- - [https://nhts.ornl.gov](https://nhts.ornl.gov)
- - date_published: 2020-02-22T00:00:00+00:00
-
- ## Home
- - [https://www.olcf.ornl.gov](https://www.olcf.ornl.gov)
- - date_published: 2024-05-01T08:47:23.868723+00:00
-
- ## Oak Ridge National Laboratory: Solving the Big Problems | ORNL
- - [https://www.ornl.gov](https://www.ornl.gov)
- - date_published: 2023-10-25T19:25:00.286836+00:00
-
- ## Home
- - [https://osc.gov](https://osc.gov)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Home | Occupational Safety and Health Administration
- - [https://www.osha.gov](https://www.osha.gov)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home | U.S. DOE Office of Science (SC)
- - [https://science.osti.gov](https://science.osti.gov)
- - date_published: 2011-02-08T09:19:00+00:00
-
- ## Pandemic Oversight - Home | Pandemic Oversight
- - [https://pandemic.oversight.gov](https://pandemic.oversight.gov)
- - date_published: 2024-05-08T02:59:45.567726+00:00
-
- ## Oversight.gov | All Federal Inspector General Reports In One Place
- - [https://www.oversight.gov](https://www.oversight.gov)
- - date_published: 2024-05-08T02:59:40.863754+00:00
-
- ## We Keep the Region Moving | Port Authority of New York and New Jersey
- - [https://www.panynj.gov](https://www.panynj.gov)
- - date_published: 2024-05-06T22:50:06.496310+00:00
-
- ## Home Page | Pension Benefit Guaranty Corporation
- - [https://www.pbgc.gov](https://www.pbgc.gov)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Pima County Public Library
- - [http://www.library.pima.gov](http://www.library.pima.gov)
- - date_published: 2024-05-08T10:21:42.615885+00:00
-
- ## Pacific Northwest National Laboratory
- - [https://www.pnnl.gov](https://www.pnnl.gov)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## City of Portland, Oregon | Portland.gov
- - [https://www.portland.gov](https://www.portland.gov)
- - date_published: 2024-05-04T10:03:49.625546+00:00
-
- ## Data Privacy Framework
- - [https://www.privacyshield.gov](https://www.privacyshield.gov)
- - date_published: 2024-05-08T11:32:32.074427+00:00
-
- ## Plan Ahead for Disasters | Ready.gov
- - [https://www.ready.gov](https://www.ready.gov)
- - date_published: 2024-05-08T02:44:35.015844+00:00
-
- ## Plan. Prepare. Stay Informed. | Ready NC
- - [https://www.readync.gov](https://www.readync.gov)
- - date_published: 2024-05-07T13:57:42.492965+00:00
-
- ## Regulations.gov
- - [https://www.regulations.gov](https://www.regulations.gov)
- - date_published: 2023-10-25T19:25:01.549850+00:00
-
- ## Sacramento County Board of Supervisors Meetings
- - [https://agendanet.saccounty.gov](https://agendanet.saccounty.gov)
- - date_published: 2024-04-28T04:28:27.708351+00:00
-
- ## Consolidated Utilities Billing & Services
- - [https://sacutilities.saccounty.gov](https://sacutilities.saccounty.gov)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Home - SaferProducts
- - [https://www.saferproducts.gov](https://www.saferproducts.gov)
- - date_published: 2024-05-08T02:42:42.184193+00:00
-
- ## SAM.gov | Home
- - [https://sam.gov](https://sam.gov)
- - date_published: 2023-10-25T19:25:02.207175+00:00
-
- ## FindTreatment.gov
- - [https://findtreatment.samhsa.gov](https://findtreatment.samhsa.gov)
- - date_published: 2024-05-12T06:40:36.468468+00:00
-
- ## SAMHSA - Substance Abuse and Mental Health Services Administration
- - [https://www.samhsa.gov](https://www.samhsa.gov)
- - date_published: 2024-05-04T09:00:22.403967+00:00
-
- ## Sandia National Laboratories: Netlib Mirror
- - [http://netlib.sandia.gov](http://netlib.sandia.gov)
- - date_published: 2024-04-28T02:25:13.801301+00:00
-
- ## Sandia National Laboratories: News Releases
- - [https://newsreleases.sandia.gov](https://newsreleases.sandia.gov)
- - date_published: 2023-10-25T19:25:05.661482+00:00
-
- ## Small Business Administration
- - [https://www.sba.gov](https://www.sba.gov)
- - date_published: 2024-05-08T02:58:05.016050+00:00
-
- ## ERROR: The request could not be satisfied
- - [https://ddsn.sc.gov](https://ddsn.sc.gov)
- - date_published: 2024-05-04T06:58:21.032014+00:00
-
- ## MySCVotes Login
- - [https://vrems.scvotes.sc.gov](https://vrems.scvotes.sc.gov)
- - date_published: 2024-05-04T06:58:03.530727+00:00
-
- ## Homepage | SCDHEC
- - [https://scdhec.gov](https://scdhec.gov)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Science.gov - Open Science Announcements from Federal Agencies
- - [https://open.science.gov](https://open.science.gov)
- - date_published: 2024-05-08T09:03:39.187923+00:00
-
- ## Science.gov
- - [https://www.science.gov](https://www.science.gov)
- - date_published: 2024-06-01T03:53:20.319012+00:00
-
- ## South Carolina Legislature Online
- - [https://www.scstatehouse.gov](https://www.scstatehouse.gov)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Home - SC Votes - South Carolina Election Commission
- - [https://scvotes.gov](https://scvotes.gov)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Parkways
- - [https://parkways.seattle.gov](https://parkways.seattle.gov)
- - date_published: 2024-04-29T05:28:21.110159+00:00
-
- ## Seattle.gov Home
- - [https://www.seattle.gov](https://www.seattle.gov)
- - date_published: 2024-04-29T05:30:10.219273+00:00
-
- ## SEC.gov | HOME
- - [https://www.sec.gov](https://www.sec.gov)
- - date_published: 2023-10-25T19:25:07.736929+00:00
-
- ## Section508.gov
- - [https://www.section508.gov](https://www.section508.gov)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## U.S. Senator Michael Bennet
- - [https://www.bennet.senate.gov](https://www.bennet.senate.gov)
- - date_published: 2024-05-04T09:46:20.198965+00:00
-
- ## U.S. Senate Committee on Commerce, Science, & Transportation
- - [https://www.commerce.senate.gov](https://www.commerce.senate.gov)
- - date_published: 2023-10-25T19:25:10.798994+00:00
-
- ## Home | Senator Cornyn
- - [https://www.cornyn.senate.gov](https://www.cornyn.senate.gov)
- - date_published: 2024-05-06T22:26:30.816686+00:00
-
- ## Senator Catherine Cortez Masto of Nevada
- - [https://www.cortezmasto.senate.gov](https://www.cortezmasto.senate.gov)
- - date_published: 2024-05-06T17:11:25.767356+00:00
-
- ## Home | Senate Democratic Leadership
- - [https://www.democrats.senate.gov](https://www.democrats.senate.gov)
- - date_published: 2024-01-01T01:29:16.688384+00:00
-
- ## U.S. Senate Committee on Environment and Public Works
- - [https://www.epw.senate.gov](https://www.epw.senate.gov)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home | Senate Committee on Health, Education, Labor and Pensions
- - [https://www.help.senate.gov](https://www.help.senate.gov)
- - date_published: 2023-10-25T19:25:12.573868+00:00
-
- ## Committee on Homeland Security & Governmental Affairs
- - [https://www.hsgac.senate.gov](https://www.hsgac.senate.gov)
- - date_published: 2023-10-25T19:25:16.853062+00:00
-
- ## U.S. Senate Select Committee on Intelligence
- - [https://www.intelligence.senate.gov](https://www.intelligence.senate.gov)
- - date_published: 2024-05-06T22:26:42.528979+00:00
-
- ## Home | United States Senate Committee on the Judiciary
- - [https://www.judiciary.senate.gov](https://www.judiciary.senate.gov)
- - date_published: 2023-10-25T19:25:20.250645+00:00
-
- - [https://www.klobuchar.senate.gov](https://www.klobuchar.senate.gov)
- - date_published: 2024-02-24T18:11:06.609059+00:00
-
- ## Senator Cynthia Lummis
- - [https://www.lummis.senate.gov](https://www.lummis.senate.gov)
- - date_published: 2023-07-25T00:00:00+00:00
-
- ## Home | U.S. Senator Ed Markey of Massachusetts
- - [https://www.markey.senate.gov](https://www.markey.senate.gov)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Home - Merkley
- - [https://www.merkley.senate.gov](https://www.merkley.senate.gov)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Homepage - Senator Rubio
- - [https://www.rubio.senate.gov](https://www.rubio.senate.gov)
- - date_published: 2023-10-25T19:25:23.279421+00:00
-
- ## U.S. Senate
- - [https://www.senate.gov](https://www.senate.gov)
- - date_published: 2023-10-25T19:25:25.397474+00:00
-
- ## Home | U.S. Senator Elizabeth Warren of Massachusetts
- - [https://www.warren.senate.gov](https://www.warren.senate.gov)
- - date_published: 2023-10-25T19:25:26.821293+00:00
-
- ## Home | U.S. Senator Ron Wyden of Oregon
- - [https://www.wyden.senate.gov](https://www.wyden.senate.gov)
- - date_published: 2023-10-25T19:25:32.843708+00:00
- - tags: ['senator']
-
- ## City and County of San Francisco
- - [https://www.sf.gov](https://www.sf.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Shelby County, TN - Official Website | Official Website
- - [https://shelbycountytn.gov](https://shelbycountytn.gov)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## Sourcewell | Cooperative Purchasing Advantages
- - [https://www.sourcewell-mn.gov](https://www.sourcewell-mn.gov)
- - date_published: 2024-05-12T07:27:49.602476+00:00
-
- ## Homepage | NOAA / NWS Space Weather Prediction Center
- - [https://www.spaceweather.gov](https://www.spaceweather.gov)
- - date_published: 2023-10-25T19:25:37.411659+00:00
-
- ## The United States Social Security Administration | SSA
- - [https://www.ssa.gov](https://www.ssa.gov)
- - date_published: 2023-10-25T19:25:44.249873+00:00
-
- ## U.S. Department of State - United States Department of State
- - [https://2017-2021.state.gov](https://2017-2021.state.gov)
- - date_published: 2023-10-25T19:25:50.695939+00:00
-
- ## U.S. Department of State | Home Page
- - [https://aoprals.state.gov](https://aoprals.state.gov)
- - date_published: 2024-05-08T02:58:46.443772+00:00
-
- ## U.S. Department of State – Art in Embassies
- - [https://art.state.gov](https://art.state.gov)
- - date_published: 2024-05-09T07:03:26.316082+00:00
-
- ## Home - Careers
- - [https://careers.state.gov](https://careers.state.gov)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## The National Museum of American Diplomacy
- - [https://diplomacy.state.gov](https://diplomacy.state.gov)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## EducationUSA
- - [https://educationusa.state.gov](https://educationusa.state.gov)
- - date_published: 2024-05-10T06:56:29.872727+00:00
-
- ## Form Finder
- - [https://eforms.state.gov](https://eforms.state.gov)
- - date_published: 2024-05-09T07:03:24.345700+00:00
-
- ## Home Page  : Foreign Affairs Manual
- - [https://fam.state.gov](https://fam.state.gov)
- - date_published: 2024-05-09T07:03:10.744706+00:00
-
- ## FOIA: U.S. State Department
- - [https://foia.state.gov](https://foia.state.gov)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Latest News - Office of the Historian
- - [https://history.state.gov](https://history.state.gov)
- - date_published: 2024-05-09T07:03:16.940131+00:00
-
- ## Welcome to stories.state.gov
- - [https://stories.state.gov](https://stories.state.gov)
- - date_published: 2024-05-09T07:02:57.423604+00:00
-
- ## U.S. Department of State – Home
- - [https://www.state.gov](https://www.state.gov)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Sylvania Township Fire Department EMS
- - [https://www.stfd-oh.gov](https://www.stfd-oh.gov)
- - date_published: 2024-04-30T07:26:08.878283+00:00
-
- ## Federal Student Aid
- - [https://studentaid.gov](https://studentaid.gov)
- - date_published: 2023-10-25T19:25:51.614124+00:00
-
- ## Home - Supreme Court of the United States
- - [https://www.supremecourt.gov](https://www.supremecourt.gov)
- - date_published: 2024-01-09T03:31:35.235119+00:00
-
- ## Interactive Apps
- - [https://apps.highered.texas.gov](https://apps.highered.texas.gov)
- - date_published: 2024-05-07T21:14:21.338090+00:00
-
- ## Home Comptroller.Texas.Gov
- - [https://comptroller.texas.gov](https://comptroller.texas.gov)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Homepage
- - [https://gov.texas.gov](https://gov.texas.gov)
- - date_published: 2024-05-07T21:13:52.177228+00:00
-
- ## Texas House of Representatives
- - [https://house.texas.gov](https://house.texas.gov)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Texas Constitution and Statutes - Home
- - [https://statutes.capitol.texas.gov](https://statutes.capitol.texas.gov)
- - date_published: 2024-05-07T18:36:59.010555+00:00
-
- ## Texas.gov | The Official Website of the State of Texas
- - [https://txapps.texas.gov](https://txapps.texas.gov)
- - date_published: 2024-05-10T05:17:05.869436+00:00
-
- ## Texas Veterans Portal
- - [https://veterans.portal.texas.gov](https://veterans.portal.texas.gov)
- - date_published: 2024-05-07T21:14:23.888856+00:00
-
- ## Who Represents Me?
- - [https://wrm.capitol.texas.gov](https://wrm.capitol.texas.gov)
- - date_published: 2024-05-07T18:36:53.951368+00:00
-
- ## Home - Texas Higher Education Coordinating Board
- - [https://www.highered.texas.gov](https://www.highered.texas.gov)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## The Railroad Commission of Texas
- - [https://www.rrc.texas.gov](https://www.rrc.texas.gov)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Texas Department of Criminal Justice
- - [https://www.tdcj.texas.gov](https://www.tdcj.texas.gov)
- - date_published: 2024-01-09T03:31:36.838462+00:00
-
- ## Texas.gov | The Official Website of the State of Texas
- - [https://www.texas.gov](https://www.texas.gov)
- - date_published: 2024-05-07T21:13:11.477723+00:00
-
- ## TSLAC | Texas State Library And Archives Commission
- - [https://www.tsl.texas.gov](https://www.tsl.texas.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Office of the Attorney General
- - [https://www.texasattorneygeneral.gov](https://www.texasattorneygeneral.gov)
- - date_published: 2023-11-21T04:24:19.389027+00:00
-
- ## The Official U.S. Time | NIST
- - [https://www.time.gov](https://www.time.gov)
- - date_published: 2024-05-09T05:09:46.890174+00:00
-
- ## Connection denied by Geolocation
- - [https://wapp.capitol.tn.gov](https://wapp.capitol.tn.gov)
- - date_published: 2024-05-07T16:27:00.917865+00:00
-
- ## Tennessee State Government - TN.gov
- - [https://www.tn.gov](https://www.tn.gov)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## International Trade Administration
- - [https://www.trade.gov](https://www.trade.gov)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Traffic Safety Marketing | NHTSA
- - [https://www.trafficsafetymarketing.gov](https://www.trafficsafetymarketing.gov)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Department of Transportation
- - [https://www.transportation.gov](https://www.transportation.gov)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Home Page
- - [https://bsaefiling.fincen.treas.gov](https://bsaefiling.fincen.treas.gov)
- - date_published: 2024-05-08T02:47:45.345360+00:00
-
- ## Front page | U.S. Department of the Treasury
- - [https://home.treasury.gov](https://home.treasury.gov)
- - date_published: 2023-10-25T19:26:01.602069+00:00
-
- ## Home
- - [https://ofac.treasury.gov](https://ofac.treasury.gov)
- - date_published: 2023-03-23T00:00:00+00:00
-
- ## Home | Office of Inspector General
- - [https://oig.treasury.gov](https://oig.treasury.gov)
- - date_published: 2024-05-08T02:47:44.250199+00:00
-
- ## Front page | U.S. Department of the Treasury
- - [https://www.treasury.gov](https://www.treasury.gov)
- - date_published: 2024-05-08T02:47:42.661336+00:00
-
- ## Home — TreasuryDirect
- - [https://www.treasurydirect.gov](https://www.treasurydirect.gov)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Transportation Security Administration | Transportation Security Administration
- - [https://www.tsa.gov](https://www.tsa.gov)
- - date_published: 2023-10-25T19:26:03.310372+00:00
-
- ## Home
- - [https://www.tsp.gov](https://www.tsp.gov)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## City of Tucson
- - [https://www.tucsonaz.gov](https://www.tucsonaz.gov)
- - date_published: 2024-05-04T09:56:17.610670+00:00
-
- ## analytics.usa.gov | The US government's web traffic.
- - [https://analytics.usa.gov](https://analytics.usa.gov)
- - date_published: 2024-05-06T13:55:22.070352+00:00
-
- ## Small business | USAGov
- - [https://business.usa.gov](https://business.usa.gov)
- - date_published: 2024-05-08T02:34:45.226950+00:00
-
- ## We're sorry - something went wrong. 403
- - [https://search.usa.gov](https://search.usa.gov)
- - date_published: 2024-05-08T02:44:44.100583+00:00
-
- ## Making government services easier to find | USAGov
- - [https://usa.gov](https://usa.gov)
- - date_published: 2024-05-08T02:36:22.098793+00:00
-
- ## Making government services easier to find | USAGov
- - [https://www.usa.gov](https://www.usa.gov)
- - date_published: 2024-05-08T02:34:46.637055+00:00
-
- ## USAJOBS - The Federal Government's official employment site
- - [https://www.usajobs.gov](https://www.usajobs.gov)
- - date_published: 2024-05-08T02:44:57.915412+00:00
-
- ## The USAP Portal: Science and Support in Antarctica - Welcome to the United States Antarctic Program Portal
- - [https://www.usap.gov](https://www.usap.gov)
- - date_published: 2023-10-25T19:26:06.918908+00:00
-
- ## USAspending.gov
- - [https://www.usaspending.gov](https://www.usaspending.gov)
- - date_published: 2024-04-05T18:56:05.482787+00:00
-
- ## Home Page | CISA
- - [https://www.us-cert.gov](https://www.us-cert.gov)
- - date_published: 2024-05-10T05:31:18.333353+00:00
-
- ## Home | Navigation Center
- - [https://www.navcen.uscg.gov](https://www.navcen.uscg.gov)
- - date_published: 2024-05-07T23:46:30.165149+00:00
-
- ## Home
- - [https://www.uscis.gov](https://www.uscis.gov)
- - date_published: 2024-01-31T00:36:18.599353+00:00
-
- ## Oregon U.S. District Court
- - [https://ord.uscourts.gov](https://ord.uscourts.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## PACER | PACER Case Locator
- - [https://pcl.uscourts.gov](https://pcl.uscourts.gov)
- - date_published: 2024-05-12T06:08:39.352216+00:00
-
- ## www.mdd.uscourts.gov
- - [https://www2.mdd.uscourts.gov](https://www2.mdd.uscourts.gov)
- - date_published: 2024-05-12T06:08:42.300849+00:00
-
- ## Tenth Circuit | The United States Court of Appeals
- - [https://www.ca10.uscourts.gov](https://www.ca10.uscourts.gov)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## United States Court of Appeals 2nd Circuit
- - [https://www.ca2.uscourts.gov](https://www.ca2.uscourts.gov)
- - date_published: 2023-10-25T19:26:11.758897+00:00
-
- ## United States Court of Appeals for the Fourth Circuit
- - [http://www.ca4.uscourts.gov](http://www.ca4.uscourts.gov)
- - date_published: 2024-05-12T06:08:33.554638+00:00
-
- ## Fifth Circuit Court of Appeals
- - [https://www.ca5.uscourts.gov](https://www.ca5.uscourts.gov)
- - date_published: 2023-10-25T19:26:14.905641+00:00
-
- ## United States District Court, Northern District of California | Richard Seeborg, Chief Judge.  Mark B. Busby, Clerk of Court
- - [https://www.cand.uscourts.gov](https://www.cand.uscourts.gov)
- - date_published: 2024-05-04T08:04:51.531183+00:00
-
- ## District of Columbia | United States District Court
- - [https://www.dcd.uscourts.gov](https://www.dcd.uscourts.gov)
- - date_published: 2023-10-25T19:26:18.152336+00:00
-
- ## Judicial Panel on Multidistrict Litigation | United States
- - [https://www.jpml.uscourts.gov](https://www.jpml.uscourts.gov)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## The United States Bankruptcy Court for the District of Maryland
- - [http://www.mdb.uscourts.gov](http://www.mdb.uscourts.gov)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## District of Maryland | United States District Court
- - [https://www.mdd.uscourts.gov](https://www.mdd.uscourts.gov)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Object not found!
- - [https://www.txnd.uscourts.gov](https://www.txnd.uscourts.gov)
- - date_published: 2024-01-09T03:31:38.226546+00:00
-
- ## United States Courts
- - [http://www.uscourts.gov](http://www.uscourts.gov)
- - date_published: 2024-05-12T06:08:30.585643+00:00
-
- ## The U.S. Currency Education Program
- - [https://www.uscurrency.gov](https://www.uscurrency.gov)
- - date_published: 2024-05-08T02:47:33.454720+00:00
-
- ## https://directives.sc.egov.usda.gov
- - [https://directives.sc.egov.usda.gov](https://directives.sc.egov.usda.gov)
- - date_published: 2023-12-19T17:57:55.296864+00:00
-
- ## 2023 USDA Plant Hardiness Zone Map | USDA Plant Hardiness Zone Map
- - [https://planthardiness.ars.usda.gov](https://planthardiness.ars.usda.gov)
- - date_published: 2024-05-01T08:04:12.769759+00:00
-
- ## USDA Plants Database
- - [https://plants.usda.gov](https://plants.usda.gov)
- - date_published: 2024-05-01T08:04:10.866700+00:00
-
- ## USDA ERS - Home
- - [https://www.ers.usda.gov](https://www.ers.usda.gov)
- - date_published: 2023-11-01T05:24:12.673713+00:00
-
- ## Home | Food Safety and Inspection Service
- - [https://www.fsis.usda.gov](https://www.fsis.usda.gov)
- - date_published: 2024-05-04T06:41:02.141993+00:00
-
- ## NASS - National Agricultural Statistics Service
- - [https://www.nass.usda.gov](https://www.nass.usda.gov)
- - date_published: 2024-05-08T11:05:14.153289+00:00
-
- ## | National Institute of Food and Agriculture
- - [https://www.nifa.usda.gov](https://www.nifa.usda.gov)
- - date_published: 2024-04-29T04:47:39.676254+00:00
-
- ## USDA
- - [https://www.usda.gov](https://www.usda.gov)
- - date_published: 2024-05-01T08:04:15.691020+00:00
-
- ## COPS OFFICE
- - [https://cops.usdoj.gov](https://cops.usdoj.gov)
- - date_published: 2024-05-09T06:51:24.561847+00:00
-
- ## Diversion Control Division | Welcome
- - [https://www.deadiversion.usdoj.gov](https://www.deadiversion.usdoj.gov)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Homepage
- - [https://gt.usembassy.gov](https://gt.usembassy.gov)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Homepage
- - [https://il.usembassy.gov](https://il.usembassy.gov)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Homepage
- - [https://jo.usembassy.gov](https://jo.usembassy.gov)
- - date_published: 2024-05-09T07:03:20.372274+00:00
-
- ## Homepage
- - [https://uk.usembassy.gov](https://uk.usembassy.gov)
- - date_published: 2024-01-24T20:56:16.257977+00:00
-
- ## Homepage
- - [https://www.usembassy.gov](https://www.usembassy.gov)
- - date_published: 2022-06-16T00:00:00+00:00
-
- ## Earthquake Hazards Program | U.S. Geological Survey
- - [https://earthquake.usgs.gov](https://earthquake.usgs.gov)
- - date_published: 2023-10-25T19:26:27.821782+00:00
-
- ## U.S. Geological Survey Publications Warehouse
- - [https://pubs.er.usgs.gov](https://pubs.er.usgs.gov)
- - date_published: 2023-10-25T19:26:29.739829+00:00
-
- ## USGS Publications Warehouse
- - [https://pubs.usgs.gov](https://pubs.usgs.gov)
- - date_published: 2024-02-26T14:18:28.677910+00:00
-
- ## USGS.gov | Science for a changing world
- - [https://www.usgs.gov](https://www.usgs.gov)
- - date_published: 2023-10-25T19:26:34.516955+00:00
-
- ## Home
- - [https://www.usmarshals.gov](https://www.usmarshals.gov)
- - date_published: 2023-11-01T08:43:37.168607+00:00
-
- ## United States Postal Inspection Service – Protecting you and everyone the post reaches.
- - [https://www.uspis.gov](https://www.uspis.gov)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home | Office of Inspector General OIG
- - [https://www.uspsoig.gov](https://www.uspsoig.gov)
- - date_published: 2024-05-06T21:27:41.759901+00:00
-
- ## HTTP Status 404 – Not Found
- - [https://image-ppubs.uspto.gov](https://image-ppubs.uspto.gov)
- - date_published: 2024-01-09T03:31:39.680391+00:00
-
- ## Trademark Status & Document Retrieval
- - [http://tarr.uspto.gov](http://tarr.uspto.gov)
- - date_published: 2024-05-06T23:44:36.407334+00:00
-
- ## Trademark Electronic Search System (TESS)
- - [https://tmsearch.uspto.gov](https://tmsearch.uspto.gov)
- - date_published: 2023-10-25T19:26:42.135004+00:00
-
- ## Trademark Status & Document Retrieval
- - [https://tsdr.uspto.gov](https://tsdr.uspto.gov)
- - date_published: 2023-10-25T19:26:49.816767+00:00
-
- ## United States Patent and Trademark Office
- - [https://www.uspto.gov](https://www.uspto.gov)
- - date_published: 2023-10-25T19:26:53.299790+00:00
-
- ## Utah Department of Agriculture and Food
- - [https://ag.utah.gov](https://ag.utah.gov)
- - date_published: 2024-04-29T04:48:16.025771+00:00
-
- ## Home | Utah Legislature
- - [https://le.utah.gov](https://le.utah.gov)
- - date_published: 2024-04-29T04:48:37.340217+00:00
 

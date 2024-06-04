@@ -1,3 +1,224 @@
+ ## About tweaking the fundamental settings of your brain
+ - [http://bewelltuned.com](http://bewelltuned.com)
+ - date_published: 2024-03-16T22:47:31+00:00
+
+ ## Be With Cassandra
+ - [https://www.bewithcassandra.com](https://www.bewithcassandra.com)
+ - date_published: 2023-12-31T16:47:15.106831+00:00
+
+ ## BEYOND GETTING BY
+ - [https://beyondgettingbybook.com](https://beyondgettingbybook.com)
+ - date_published: 2024-05-06T16:45:57.377664+00:00
+
+ ## We help humanity explore the world and beyond. | Beyond Gravity
+ - [http://www.beyondgravity.com](http://www.beyondgravity.com)
+ - date_published: 2024-04-29T05:31:32.825744+00:00
+
+ ## Beyond grep: ack v3.7.0
+ - [https://beyondgrep.com](https://beyondgrep.com)
+ - date_published: 2023-02-25T00:00:00+00:00
+
+ ## Beyond Hogwarts
+ - [https://beyondhogwarts.com](https://beyondhogwarts.com)
+ - date_published: 2024-05-08T02:31:10.223586+00:00
+
+ ## Beyond Loom
+ - [https://beyondloom.com](https://beyondloom.com)
+ - date_published: 2023-10-25T12:58:31.094273+00:00
+
+ ## Beyondsoft Consulting Inc
+ - [http://www.beyondsoft.com](http://www.beyondsoft.com)
+ - date_published: 2024-05-04T15:47:22.103932+00:00
+
+ ## beyond tellerrand – An event about Web, Design and Technology
+ - [https://beyondtellerrand.com](https://beyondtellerrand.com)
+ - date_published: 2024-05-19T02:42:35.061927+00:00
+
+ ## CCC's Velocity of Content Podcast
+ - [http://beyondthebookcast.com](http://beyondthebookcast.com)
+ - date_published: 2020-05-11T22:19:37+00:00
+
+ ## A Saber-Slanted Baseball Community
+ - [http://www.beyondtheboxscore.com](http://www.beyondtheboxscore.com)
+ - date_published: 2024-04-29T02:14:38.224995+00:00
+
+ ## Identity and Access Security | BeyondTrust
+ - [https://www.beyondtrust.com](https://www.beyondtrust.com)
+ - date_published: 2024-04-29T07:41:02.095404+00:00
+
+ ## Liandri Archives
+ - [https://liandri.beyondunreal.com](https://liandri.beyondunreal.com)
+ - date_published: 2024-05-13T03:46:00.119042+00:00
+
+ ## BezPlanu.com
+ - [https://bezplanu.com](https://bezplanu.com)
+ - date_published: 2023-10-24T20:05:33.587434+00:00
+
+ ## Bezzy, Chronic Condition Communities from Healthline
+ - [https://bezzy.com](https://bezzy.com)
+ - date_published: 2024-05-04T14:59:37.043187+00:00
+
+ ## Home - BFC Video
+ - [https://bfcvideo.com](https://bfcvideo.com)
+ - date_published: 2024-04-29T07:14:12.527756+00:00
+
+ ## Introduction - BFF Patterns
+ - [https://bff-patterns.com](https://bff-patterns.com)
+ - date_published: 2024-05-07T16:29:39.825146+00:00
+
+ ## C++ Stories
+ - [https://www.bfilipek.com](https://www.bfilipek.com)
+ - date_published: 2024-05-11T11:52:30.430089+00:00
+
+ ## Actualités en continu et info en direct et replay - BFMTV
+ - [https://www.bfmtv.com](https://www.bfmtv.com)
+ - date_published: 2024-05-10T04:31:16.151589+00:00
+
+ ## Ben Oliver
+ - [https://www.bfoliver.com](https://www.bfoliver.com)
+ - date_published: 2023-12-19T19:08:03.990555+00:00
+ - tags: ['personal']
+
+ ## bforbones | The World's Leading Suppliers of Real Human Tooth Specimens!
+ - [https://bforbones.com](https://bforbones.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Betflix สล็อตเว็บตรง Joker สล็อต บาคาร่ามือถือ สมัคร betflik เว็บตรง เว็บสล็อต โบนัสแตกง่าย
+ - [https://bften.com](https://bften.com)
+ - date_published: 2024-05-01T02:30:42.231184+00:00
+
+ ## Bruce F. Webster & Associates
+ - [http://bfwa.com](http://bfwa.com)
+ - date_published: 2024-05-08T03:47:20.104439+00:00
+
+ ## BFW Publishers | Our best high school textbooks
+ - [https://www.bfwpub.com](https://www.bfwpub.com)
+ - date_published: 2024-05-04T13:45:25.393757+00:00
+
+ ## BG2FX Amateur Radios
+ - [https://bg2fx.com](https://bg2fx.com)
+ - date_published: 2024-05-07T09:55:36.011611+00:00
+
+ ## Lab Services, 21 CFR Part 11 Validation, Public Health and Starlims Services
+ - [https://www.bgasoft.com](https://www.bgasoft.com)
+ - date_published: 2024-05-04T12:46:58.007713+00:00
+
+ ## bgdailynews.com | Southcentral Kentucky's No. 1 Source for News
+ - [https://www.bgdailynews.com](https://www.bgdailynews.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## BGL SMSF & corporate compliance solutions | Simple Fund 360 | CAS 360
+ - [https://www.bglcorp.com](https://www.bglcorp.com)
+ - date_published: 2024-05-01T06:00:55.106942+00:00
+
+ ## Bloomberg Government - Home | BGOV
+ - [https://about.bgov.com](https://about.bgov.com)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Bloomberg Government
+ - [https://news.bgov.com](https://news.bgov.com)
+ - date_published: 2024-03-21T23:01:42.823295+00:00
+
+ ## Brian Picciano - Senior Backend Engineer - Resume
+ - [https://bgpicciano.com](https://bgpicciano.com)
+ - date_published: 2024-05-04T15:00:06.555635+00:00
+
+ ## BGR | Tech & Entertainment News, Reviews, & Deals
+ - [https://bgr.com](https://bgr.com)
+ - date_published: 2023-10-25T12:58:43.634023+00:00
+
+ ## הקליניקה הקהילתית - באר שבע
+ - [https://www.bgucommunityclinic.com](https://www.bgucommunityclinic.com)
+ - date_published: 2024-05-11T09:08:42.193741+00:00
+
+ ## Next generation full body haptic suit - bHaptics TactSuit
+ - [https://www.bhaptics.com](https://www.bhaptics.com)
+ - date_published: 2023-11-27T16:13:54+00:00
+ - tags: ['virtual reality']
+
+ ## Home - Bharat Courses
+ - [https://bharatcourses.com](https://bharatcourses.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Bharat Kalluri
+ - [https://bharatkalluri.com](https://bharatkalluri.com)
+ - date_published: 2024-05-09T07:48:05.796320+00:00
+
+ ## Bharat Suchana | News | Politics | Sports | Finance | Health | Career | Jobs |
+ - [https://bharatsuchana.com](https://bharatsuchana.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Home | Brownstein Hyatt Farber Schreck, LLP
+ - [https://www.bhfs.com](https://www.bhfs.com)
+ - date_published: 2024-04-30T19:22:39.885893+00:00
+
+ ## Ben Hoover
+ - [https://www.bhoov.com](https://www.bhoov.com)
+ - date_published: 2024-05-10T05:17:59.006873+00:00
+ - tags: ['personal']
+
+ ## https://www.bhphotovideo.com
+ - [https://www.bhphotovideo.com](https://www.bhphotovideo.com)
+ - date_published: 2024-02-23T22:51:31.570107+00:00
+
+ ## Bhread: Blog Threads
+ - [https://bhread.com](https://bhread.com)
+ - date_published: 2024-05-09T04:56:51.792682+00:00
+
+ ## Bhread blog
+ - [https://blog.bhread.com](https://blog.bhread.com)
+ - date_published: 2024-02-18T00:00:00+00:00
+
+ ## Bialetti Official Store
+ - [https://www.bialetti.com](https://www.bialetti.com)
+ - date_published: 2024-05-12T05:38:48.620570+00:00
+
+ ## Purposeful Transformation - Bianca Welds (Creativity And Innovation Strategist & Coach)
+ - [https://biancawelds.com](https://biancawelds.com)
+ - date_published: 2024-01-01T03:38:49.652609+00:00
+
+ ## BiaSciLab
+ - [https://biascilab.com](https://biascilab.com)
+ - date_published: 2024-01-22T09:34:42+00:00
+ - tags: ['personal']
+
+ ## Bibel Site: Dansk Bibel Online
+ - [https://bibelsite.com](https://bibelsite.com)
+ - date_published: 2024-06-02T20:51:19.687931+00:00
+
+ ## Bibel Online
+ - [https://bibeltext.com](https://bibeltext.com)
+ - date_published: 2024-06-02T20:51:22.635940+00:00
+
+ ## BibGuru - A New FREE APA, Harvard, & MLA Citation Generator
+ - [https://www.bibguru.com](https://www.bibguru.com)
+ - date_published: 2024-05-06T22:31:36.557844+00:00
+
+ ## Read the Bible online. A free Bible on your phone, tablet, or computer. | The Bible App | Bible.com
+ - [https://www.bible.com](https://www.bible.com)
+ - date_published: 2024-05-04T14:35:21.436905+00:00
+
+ ## BibleGateway.com: A searchable online Bible in over 150 versions and 50 languages.
+ - [https://www.biblegateway.com](https://www.biblegateway.com)
+ - date_published: 2024-05-02T12:36:02.368456+00:00
+
+ ## Bible Hub: Search, Read, Study the Bible in Many Languages
+ - [https://biblehub.com](https://biblehub.com)
+ - date_published: 2024-04-28T05:53:42.425805+00:00
+ - tags: ['bible']
+
+ ## Bible Lessons for Kids
+ - [https://biblepathwayadventures.com](https://biblepathwayadventures.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## BiblePortal.com
+ - [https://www.bibleportal.com](https://www.bibleportal.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## English Standard Version (Biblia.com)
+ - [https://biblia.com](https://biblia.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
  ## Biblia Paralela
  - [https://bibliaparalela.com](https://bibliaparalela.com)
  - date_published: 2024-06-02T20:51:18.459000+00:00
@@ -2171,6 +2392,10 @@
  - [https://assemblyofsecrets.blogspot.com](https://assemblyofsecrets.blogspot.com)
  - date_published: 2024-04-30T07:48:25.752612+00:00
 
+ ## coding adventures
+ - [http://astralcode.blogspot.com](http://astralcode.blogspot.com)
+ - date_published: 2024-06-03T05:45:00+00:00
+
  ## Figlia di Avalon, figlia della Luna
  - [https://avalonluna.blogspot.com](https://avalonluna.blogspot.com)
  - date_published: 2024-05-29T07:53:19.152556+00:00
@@ -2617,6 +2842,10 @@
  ## The tunnel - demoscene blog
  - [https://datunnel.blogspot.com](https://datunnel.blogspot.com)
  - date_published: 2024-05-08T00:17:03.999681+00:00
+
+ ## Play With Capture The Flag
+ - [https://david942j.blogspot.com](https://david942j.blogspot.com)
+ - date_published: 2024-06-03T06:27:17.475813+00:00
 
  ## DCblog
  - [https://david-crystal.blogspot.com](https://david-crystal.blogspot.com)
@@ -3170,6 +3399,10 @@
  - [https://janstechtalk.blogspot.com](https://janstechtalk.blogspot.com)
  - date_published: 2023-10-25T08:45:14.097788+00:00
  - tags: ['personal']
+
+ ## Javarevisited
+ - [http://javarevisited.blogspot.com](http://javarevisited.blogspot.com)
+ - date_published: 2024-06-02T00:00:00+00:00
 
  ## JazzProfiles
  - [https://jazzprofiles.blogspot.com](https://jazzprofiles.blogspot.com)
@@ -3922,240 +4155,4 @@
  ## Wandering Around The Family Tree
  - [https://pattyhankins.blogspot.com](https://pattyhankins.blogspot.com)
  - date_published: 2024-04-30T02:32:23.163704+00:00
-
- ## Portable Antiquity Collecting and Heritage Issues
- - [http://paul-barford.blogspot.com](http://paul-barford.blogspot.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Paul Buchheit
- - [http://paulbuchheit.blogspot.com](http://paulbuchheit.blogspot.com)
- - date_published: 2024-05-08T04:03:42.576161+00:00
-
- ## Paperback Writer
- - [http://pbackwriter.blogspot.com](http://pbackwriter.blogspot.com)
- - date_published: 2024-05-08T06:43:16.664030+00:00
-
- ## Research Projects
- - [http://pbeltrao.blogspot.com](http://pbeltrao.blogspot.com)
- - date_published: 2024-05-28T00:44:25.743217+00:00
-
- ## penmachinedad
- - [https://penmachinedad.blogspot.com](https://penmachinedad.blogspot.com)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## Peter H. Cropes
- - [https://peterhcropes.blogspot.com](https://peterhcropes.blogspot.com)
- - date_published: 2024-05-13T03:17:09.971263+00:00
-
- ## Crossing the Lines
- - [http://philadelphia2050.blogspot.com](http://philadelphia2050.blogspot.com)
- - date_published: 2024-05-06T22:55:30.406928+00:00
-
- ## homunculus
- - [http://philipball.blogspot.com](http://philipball.blogspot.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Huuugs!
- - [https://philippesblog.blogspot.com](https://philippesblog.blogspot.com)
- - date_published: 2024-05-13T03:17:06.877650+00:00
-
- ## Philofaxy
- - [https://philofaxy.blogspot.com](https://philofaxy.blogspot.com)
- - date_published: 2024-05-07T14:00:39.335001+00:00
-
- ## Philosophical Disquisitions
- - [https://philosophicaldisquisitions.blogspot.com](https://philosophicaldisquisitions.blogspot.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## PhiPsiPi
- - [https://phipsipi.blogspot.com](https://phipsipi.blogspot.com)
- - date_published: 2024-04-30T07:46:54.373724+00:00
-
- ## John Wells’s phonetic blog
- - [http://phonetic-blog.blogspot.com](http://phonetic-blog.blogspot.com)
- - date_published: 2024-05-07T21:57:24.692881+00:00
-
- ## PSD: Photoshop Disasters
- - [http://photoshopdisasters.blogspot.com](http://photoshopdisasters.blogspot.com)
- - date_published: 2024-05-09T05:17:49.673714+00:00
-
- ## A Picky Eater’s Guide to Sendai Grub
- - [http://pickyinsendai.blogspot.com](http://pickyinsendai.blogspot.com)
- - date_published: 2024-05-29T04:08:50.037892+00:00
-
- ## Furahan Biology and Allied Matters
- - [http://planetfuraha.blogspot.com](http://planetfuraha.blogspot.com)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Polyglot Vegetarian
- - [http://polyglotveg.blogspot.com](http://polyglotveg.blogspot.com)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## polyhedron dream
- - [https://polyhedrondream.blogspot.com](https://polyhedrondream.blogspot.com)
- - date_published: 2024-04-30T07:46:32.437511+00:00
-
- ## Postapokalipsa bez ograniczeń!
- - [https://postapokalipsa.blogspot.com](https://postapokalipsa.blogspot.com)
- - date_published: 2023-12-13T15:11:58.113245+00:00
- - tags: ['hobby', 'fallout game']
-
- ## The Prestigious Internet
- - [https://prestigiousinternet.blogspot.com](https://prestigiousinternet.blogspot.com)
- - date_published: 2010-03-16T00:00:00+00:00
-
- ## Prince Of Persia Dot Net (princeofpersia.net)
- - [http://princeofpersiadotnet.blogspot.com](http://princeofpersiadotnet.blogspot.com)
- - date_published: 2024-05-09T14:22:43.597570+00:00
- - tags: ['prince of persia']
-
- ## Principle Investigator
- - [http://principleinvestigator.blogspot.com](http://principleinvestigator.blogspot.com)
- - date_published: 2006-07-11T00:00:00+00:00
-
- ## Confessions of a College Professor
- - [http://professorconfess.blogspot.com](http://professorconfess.blogspot.com)
- - date_published: 2024-05-23T19:20:00+00:00
-
- ## Thoughts on Programming
- - [https://programming-puzzler.blogspot.com](https://programming-puzzler.blogspot.com)
- - date_published: 2023-10-25T09:10:24.409498+00:00
- - tags: ['personal']
-
- ## On Being A Journeyman Software Developer
- - [http://programmingtour.blogspot.com](http://programmingtour.blogspot.com)
- - date_published: 2024-05-07T15:15:56.483306+00:00
-
- ## Proof Positive
- - [https://proof-proofpositive.blogspot.com](https://proof-proofpositive.blogspot.com)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## prophet of bloom
- - [https://prophet-of-bloom.blogspot.com](https://prophet-of-bloom.blogspot.com)
- - date_published: 2024-01-13T04:52:21.362582+00:00
- - tags: ['personal']
-
- ## post doc ergo propter doc
- - [http://propterdoc.blogspot.com](http://propterdoc.blogspot.com)
- - date_published: 2024-05-02T10:07:51.942121+00:00
-
- ## ProSUA weblog - To promote the Progress of Science and Useful Arts
- - [http://prosua.blogspot.com](http://prosua.blogspot.com)
- - date_published: 2024-05-11T07:08:14.831686+00:00
-
- ## pts.blog
- - [https://ptspts.blogspot.com](https://ptspts.blogspot.com)
- - date_published: 2023-10-25T09:10:29.527000+00:00
- - tags: ['personal']
-
- ## PULPHOPE
- - [http://pulphope.blogspot.com](http://pulphope.blogspot.com)
- - date_published: 2020-12-12T14:19:00+00:00
-
- ## The PyCon US Blog
- - [http://pycon.blogspot.com](http://pycon.blogspot.com)
- - date_published: 2024-05-06T23:45:56.764189+00:00
-
- ## Python Software Foundation News
- - [https://pyfound.blogspot.com](https://pyfound.blogspot.com)
- - date_published: 2023-10-25T09:10:33.540585+00:00
- - tags: ['personal']
-
- ## Python Africa
- - [https://pythonafrica.blogspot.com](https://pythonafrica.blogspot.com)
- - date_published: 2023-12-06T11:29:44.047900+00:00
-
- ## Python Insider
- - [https://pythoninsider.blogspot.com](https://pythoninsider.blogspot.com)
- - date_published: 2023-10-25T09:10:39.347997+00:00
- - tags: ['personal']
-
- ## Questing GM
- - [http://questinggm.blogspot.com](http://questinggm.blogspot.com)
- - date_published: 2024-05-12T03:53:42.365502+00:00
-
- ## Rabett Run
- - [http://rabett.blogspot.com](http://rabett.blogspot.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## radicalcartography
- - [http://radicalcartography.blogspot.com](http://radicalcartography.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## ELECTRONICA
- - [http://ramon-electronica.blogspot.com](http://ramon-electronica.blogspot.com)
- - date_published: 2024-05-09T04:10:50.602771+00:00
-
- ## Mathematics and More
- - [https://randommathblogs.blogspot.com](https://randommathblogs.blogspot.com)
- - date_published: 2024-04-30T07:48:32.676939+00:00
-
- ## Hey, Chochachos!
- - [https://raysmuckles.blogspot.com](https://raysmuckles.blogspot.com)
- - date_published: 2024-05-13T03:17:08.893648+00:00
-
- ## grep
- - [https://rbeef.blogspot.com](https://rbeef.blogspot.com)
- - date_published: 2024-05-13T03:16:53.965237+00:00
-
- ## Reading, Watching, Looking, and Stuff
- - [https://readingwatchinglookingandstuff.blogspot.com](https://readingwatchinglookingandstuff.blogspot.com)
- - date_published: 2024-05-08T11:29:36.797596+00:00
-
- ## Reaganite Independent
- - [https://reaganiterepublicanresistance.blogspot.com](https://reaganiterepublicanresistance.blogspot.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Realm of Chaos 80s
- - [https://realmofchaos80s.blogspot.com](https://realmofchaos80s.blogspot.com)
- - date_published: 2024-05-17T10:20:00+00:00
-
- ## Realm of Citadel - Slave to the Lead
- - [http://realmofcitadel.blogspot.com](http://realmofcitadel.blogspot.com)
- - date_published: 2024-05-17T13:12:00+00:00
-
- ## Realm of Escapism
- - [http://realm-of-lead-addiction.blogspot.com](http://realm-of-lead-addiction.blogspot.com)
- - date_published: 2024-05-17T07:45:00+00:00
-
- ## Realms of Miniatures
- - [http://realmsofminiatures.blogspot.com](http://realmsofminiatures.blogspot.com)
- - date_published: 2024-05-17T10:32:00+00:00
-
- ## Reason & Rail
- - [http://reasonrail.blogspot.com](http://reasonrail.blogspot.com)
- - date_published: 2024-05-06T22:49:02.796132+00:00
-
- ## Reassembler - Emulation & Decompilation
- - [https://reassembler.blogspot.com](https://reassembler.blogspot.com)
- - date_published: 2024-05-09T09:07:50.901967+00:00
-
- ## Public Rants
- - [https://recursive-public-rants.blogspot.com](https://recursive-public-rants.blogspot.com)
- - date_published: 2023-10-25T09:10:45.681581+00:00
- - tags: ['personal']
-
- ## Religion Clause
- - [http://religionclause.blogspot.com](http://religionclause.blogspot.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Research Practices and Tools
- - [https://researchpracticesandtools.blogspot.com](https://researchpracticesandtools.blogspot.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## RÉSONAANCES
- - [http://resonaances.blogspot.com](http://resonaances.blogspot.com)
- - date_published: 2024-05-12T06:30:02.719445+00:00
-
- ## Retro Game On
- - [http://retrogameon.blogspot.com](http://retrogameon.blogspot.com)
- - date_published: 2024-04-28T04:41:39.875520+00:00
-
- ## Retro Synth Ads
- - [http://retrosynthads.blogspot.com](http://retrosynthads.blogspot.com)
- - date_published: 2024-05-07T15:46:06.815665+00:00
-
- ## Rheumatologe
- - [http://rheumatologe.blogspot.com](http://rheumatologe.blogspot.com)
- - date_published: 2024-05-06T00:00:00+00:00
 

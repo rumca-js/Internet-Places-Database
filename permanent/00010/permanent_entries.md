@@ -1,3 +1,211 @@
+ ## Axel Kacelnik Webmaster
+ - [http://www.axel-k.com](http://www.axel-k.com)
+ - date_published: 2024-05-11T11:26:39.231633+00:00
+
+ ## Axel's Scribbles
+ - [https://axellarsson.com](https://axellarsson.com)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Axel Springer Karriere - Axel Springer Karriere
+ - [https://career.axelspringer.com](https://career.axelspringer.com)
+ - date_published: 2024-04-29T05:50:38.664259+00:00
+
+ ## Home
+ - [https://www.axelspringer.com](https://www.axelspringer.com)
+ - date_published: 2024-04-29T05:50:23.951461+00:00
+
+ ## Intranet and Social Collaboration Solutions - Axero Solutions
+ - [https://axerosolutions.com](https://axerosolutions.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Axess Lab - Digital accessibility consultants, reviews and development
+ - [https://axesslab.com](https://axesslab.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## AxiDraw Writing and Drawing Machines
+ - [https://axidraw.com](https://axidraw.com)
+ - date_published: 2024-05-12T05:46:48.162428+00:00
+
+ ## Axie Infinity
+ - [https://axieinfinity.com](https://axieinfinity.com)
+ - date_published: 2024-04-29T03:11:27.473977+00:00
+
+ ## Metaforce
+ - [https://axiodl.com](https://axiodl.com)
+ - date_published: 2024-05-09T09:01:25.639051+00:00
+ - tags: ['metroid prime', 'open source', 'video game port']
+
+ ## Axiomatic Inc.
+ - [https://axiomatic-inc.com](https://axiomatic-inc.com)
+ - date_published: 2024-05-07T13:26:05.480898+00:00
+
+ ## ART GALLERY, SHOWING EMERGING AND MID-CAREER PAINTING, SCULPTURE, PHOTOGRAPHY, AND WORKS ON PAPER.
+ - [https://axiomcontemporary.com](https://axiomcontemporary.com)
+ - date_published: 2024-05-02T12:56:06.603114+00:00
+
+ ## https://www.axios.com
+ - [https://www.axios.com](https://www.axios.com)
+ - date_published: 2023-10-25T10:36:43.619164+00:00
+ - tags: ['news']
+
+ ## Axios
+ - [https://axios-http.com](https://axios-http.com)
+ - date_published: 2024-05-01T07:33:22.746155+00:00
+
+ ## Axiros | The IoT & Device Management Company
+ - [https://www.axiros.com](https://www.axiros.com)
+ - date_published: 2024-04-29T07:05:11.835918+00:00
+
+ ## Axis Communications — lider w dziedzinie kamer sieciowych i innych rozwiązań sieciowych IP | Axis Communications
+ - [https://www.axis.com](https://www.axis.com)
+ - date_published: 2023-10-25T12:51:27.472962+00:00
+
+ ## Axis Maps
+ - [https://axismaps.com](https://axismaps.com)
+ - date_published: 2023-06-21T00:00:00+00:00
+
+ ## Contours - Axis Maps
+ - [http://contours.axismaps.com](http://contours.axismaps.com)
+ - date_published: 2024-05-13T03:59:32.043225+00:00
+
+ ## Slave Revolt in Jamaica, 1760-1761
+ - [http://revolt.axismaps.com](http://revolt.axismaps.com)
+ - date_published: 2024-05-13T03:58:32.135590+00:00
+
+ ## Axis Maps Store
+ - [http://store.axismaps.com](http://store.axismaps.com)
+ - date_published: 2024-05-13T03:59:45.828584+00:00
+
+ ## Axis Maps
+ - [https://www.axismaps.com](https://www.axismaps.com)
+ - date_published: 2023-06-21T00:00:00+00:00
+
+ ## Mutual Funds Investment Planning: What is Mutual Fund (MF) & its Types| Axis Mutual Fund
+ - [https://www.axismf.com](https://www.axismf.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home
+ - [https://axisofeasy.com](https://axisofeasy.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## axle OS
+ - [https://axleos.com](https://axleos.com)
+ - date_published: 2023-10-25T08:32:45.774576+00:00
+
+ ## Sky & Telescope Axomo Store
+ - [https://skytelescope.axomo.com](https://skytelescope.axomo.com)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Axos Bank - Banking Evolved
+ - [https://www.axosbank.com](https://www.axosbank.com)
+ - date_published: 2024-05-09T07:36:51.216521+00:00
+
+ ## demo pl
+ - [https://zdg5ic.axshare.com](https://zdg5ic.axshare.com)
+ - date_published: 2024-05-13T03:23:42.086463+00:00
+
+ ## Axzez | IoT + AI + Video
+ - [https://www.axzez.com](https://www.axzez.com)
+ - date_published: 2024-05-07T18:35:35.079957+00:00
+
+ ## AYAMJP : Ayam Jp Sebagai Platform Game Online Terpercaya Telah Berdiri dari Tahun 2021
+ - [https://ayamlink.com](https://ayamlink.com)
+ - date_published: 2024-05-04T05:47:33.856691+00:00
+
+ ## Ayaz Hafiz
+ - [https://ayazhafiz.com](https://ayazhafiz.com)
+ - date_published: 2023-10-25T12:51:28.060177+00:00
+
+ ## Redirect to Verify Email
+ - [https://portal.ayco.com](https://portal.ayco.com)
+ - date_published: 2024-05-04T08:19:45.783179+00:00
+
+ ## Goldman Sachs Ayco | Workplace Financial Planning
+ - [https://www.ayco.com](https://www.ayco.com)
+ - date_published: 2024-05-04T08:19:58.350500+00:00
+
+ ## Aydin Abadi
+ - [http://www.aydinabadi.com](http://www.aydinabadi.com)
+ - date_published: 2024-05-06T15:12:38.880980+00:00
+
+ ## Ayende @ Rahien
+ - [https://ayende.com](https://ayende.com)
+ - date_published: 2023-12-10T20:34:34.924268+00:00
+ - tags: ['devlog']
+
+ ## AYKsolutions.com - The Solution to Your Web
+ - [http://www.ayksolutions.com](http://www.ayksolutions.com)
+ - date_published: 2024-05-04T12:46:40.152654+00:00
+
+ ## Ayumi Tanaka
+ - [https://www.ayumitanakamusic.com](https://www.ayumitanakamusic.com)
+ - date_published: 2024-04-29T05:14:51.049254+00:00
+
+ ## Hey, I'm Ayush 👋
+ - [https://ayushchat.com](https://ayushchat.com)
+ - date_published: 2024-01-02T03:36:33.741658+00:00
+
+ ## Azamara Cruises | Award-Winning Small Ship Cruise Line
+ - [https://www.azamara.com](https://www.azamara.com)
+ - date_published: 2024-05-06T17:05:19.295917+00:00
+
+ ## Arizona Capitol Times | Politics & political news, governor, legislature, elections, government, agencies, courts | An Arizona News Service newspaper.
+ - [https://azcapitoltimes.com](https://azcapitoltimes.com)
+ - date_published: 2023-11-25T18:29:53.604427+00:00
+
+ ## azcentral.com and The Arizona Republic: Phoenix and Arizona news
+ - [https://azcentral.com](https://azcentral.com)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## azcentral.com and The Arizona Republic: Phoenix and Arizona news
+ - [https://www.azcentral.com](https://www.azcentral.com)
+ - date_published: 2023-10-25T11:02:04.408208+00:00
+
+ ## azdailysun.com | Serving Flagstaff and Northern Arizona
+ - [https://azdailysun.com](https://azdailysun.com)
+ - date_published: 2023-12-25T13:49:43.018410+00:00
+
+ ## Azeem Bande-Ali | azeemba.com
+ - [https://azeemba.com](https://azeemba.com)
+ - date_published: 2023-10-25T12:51:28.547733+00:00
+
+ ## AZ Family | 3TV & CBS 5 News | Phoenix, Arizona
+ - [https://www.azfamily.com](https://www.azfamily.com)
+ - date_published: 2024-03-12T21:03:05.678158+00:00
+
+ ## Azira: Know your Market. Reach your Customer.
+ - [https://azira.com](https://azira.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## AzireVPN Blog
+ - [https://blog.azirevpn.com](https://blog.azirevpn.com)
+ - date_published: 2023-10-25T12:51:30.283413+00:00
+
+ ## Aziz Ali - adventures & learning of an ambitious man
+ - [https://azizali.com](https://azizali.com)
+ - date_published: 2024-05-06T06:32:54.224191+00:00
+
+ ## AZLyrics - Song Lyrics from A to Z
+ - [https://www.azlyrics.com](https://www.azlyrics.com)
+ - date_published: 2024-05-04T07:18:40.991011+00:00
+
+ ## Arizona Mirror • Insightful. Investigative. Independent.
+ - [https://azmirror.com](https://azmirror.com)
+ - date_published: 2024-03-24T21:30:35.605582+00:00
+
+ ## Azomnium
+ - [https://azomnium.com](https://azomnium.com)
+ - date_published: 2024-03-19T09:04:02.154139+00:00
+
+ ## A-Z Quotes | Quotes for All Occasions
+ - [https://www.azquotes.com](https://www.azquotes.com)
+ - date_published: 2024-04-30T03:18:01.033991+00:00
+
+ ## Az Samad Lessons – Guitar, Ukulele and Music Lessons
+ - [https://azsamadlessons.com](https://azsamadlessons.com)
+ - date_published: 2023-12-02T21:17:30.199443+00:00
+ - tags: ['personal']
+
  ## an Arizona Diamondbacks community
  - [http://www.azsnakepit.com](http://www.azsnakepit.com)
  - date_published: 2024-04-29T02:11:59.490404+00:00
@@ -324,6 +532,15 @@
  ## Najlepsza darmowa strona i aplikacja randkowa - Znajomi, rozmowy, flirt | Badoo
  - [https://badoo.com](https://badoo.com)
  - date_published: 2024-05-01T06:49:44.360404+00:00
+ - tags: ['dating']
+
+ ## Welcome to Badoo!
+ - [https://badoocdn.com](https://badoocdn.com)
+ - date_published: 2024-06-03T18:36:40.174612+00:00
+
+ ## Welcome to Badoo!
+ - [https://eu1.ecdn2.badoocdn.com](https://eu1.ecdn2.badoocdn.com)
+ - date_published: 2024-06-03T18:36:21.109180+00:00
 
  ## Science fiction comics | Bad Space
  - [https://www.badspacecomics.com](https://www.badspacecomics.com)
@@ -3523,6 +3740,10 @@
  - date_published: 2024-05-07T11:13:07.380245+00:00
  - tags: ['podcast']
 
+ ## Human Intelligence Engineering
+ - [https://bernhardwenzel.com](https://bernhardwenzel.com)
+ - date_published: 2023-03-03T00:00:00+00:00
+
  ## Fine Art and Commercial Photographer - Bernie DeChant
  - [http://www.berniedechant.com](http://www.berniedechant.com)
  - date_published: 2024-04-14T00:00:00+00:00
@@ -3850,225 +4071,4 @@
  ## Show HN: BewCloud is a simpler alternative to Nextcloud written in TypeScript
  - [https://bewcloud.com](https://bewcloud.com)
  - date_published: 2024-03-16T14:20:33+00:00
-
- ## About tweaking the fundamental settings of your brain
- - [http://bewelltuned.com](http://bewelltuned.com)
- - date_published: 2024-03-16T22:47:31+00:00
-
- ## Be With Cassandra
- - [https://www.bewithcassandra.com](https://www.bewithcassandra.com)
- - date_published: 2023-12-31T16:47:15.106831+00:00
-
- ## BEYOND GETTING BY
- - [https://beyondgettingbybook.com](https://beyondgettingbybook.com)
- - date_published: 2024-05-06T16:45:57.377664+00:00
-
- ## We help humanity explore the world and beyond. | Beyond Gravity
- - [http://www.beyondgravity.com](http://www.beyondgravity.com)
- - date_published: 2024-04-29T05:31:32.825744+00:00
-
- ## Beyond grep: ack v3.7.0
- - [https://beyondgrep.com](https://beyondgrep.com)
- - date_published: 2023-02-25T00:00:00+00:00
-
- ## Beyond Hogwarts
- - [https://beyondhogwarts.com](https://beyondhogwarts.com)
- - date_published: 2024-05-08T02:31:10.223586+00:00
-
- ## Beyond Loom
- - [https://beyondloom.com](https://beyondloom.com)
- - date_published: 2023-10-25T12:58:31.094273+00:00
-
- ## Beyondsoft Consulting Inc
- - [http://www.beyondsoft.com](http://www.beyondsoft.com)
- - date_published: 2024-05-04T15:47:22.103932+00:00
-
- ## beyond tellerrand – An event about Web, Design and Technology
- - [https://beyondtellerrand.com](https://beyondtellerrand.com)
- - date_published: 2024-05-19T02:42:35.061927+00:00
-
- ## CCC's Velocity of Content Podcast
- - [http://beyondthebookcast.com](http://beyondthebookcast.com)
- - date_published: 2020-05-11T22:19:37+00:00
-
- ## A Saber-Slanted Baseball Community
- - [http://www.beyondtheboxscore.com](http://www.beyondtheboxscore.com)
- - date_published: 2024-04-29T02:14:38.224995+00:00
-
- ## Identity and Access Security | BeyondTrust
- - [https://www.beyondtrust.com](https://www.beyondtrust.com)
- - date_published: 2024-04-29T07:41:02.095404+00:00
-
- ## Liandri Archives
- - [https://liandri.beyondunreal.com](https://liandri.beyondunreal.com)
- - date_published: 2024-05-13T03:46:00.119042+00:00
-
- ## BezPlanu.com
- - [https://bezplanu.com](https://bezplanu.com)
- - date_published: 2023-10-24T20:05:33.587434+00:00
-
- ## Bezzy, Chronic Condition Communities from Healthline
- - [https://bezzy.com](https://bezzy.com)
- - date_published: 2024-05-04T14:59:37.043187+00:00
-
- ## Home - BFC Video
- - [https://bfcvideo.com](https://bfcvideo.com)
- - date_published: 2024-04-29T07:14:12.527756+00:00
-
- ## Introduction - BFF Patterns
- - [https://bff-patterns.com](https://bff-patterns.com)
- - date_published: 2024-05-07T16:29:39.825146+00:00
-
- ## C++ Stories
- - [https://www.bfilipek.com](https://www.bfilipek.com)
- - date_published: 2024-05-11T11:52:30.430089+00:00
-
- ## Actualités en continu et info en direct et replay - BFMTV
- - [https://www.bfmtv.com](https://www.bfmtv.com)
- - date_published: 2024-05-10T04:31:16.151589+00:00
-
- ## Ben Oliver
- - [https://www.bfoliver.com](https://www.bfoliver.com)
- - date_published: 2023-12-19T19:08:03.990555+00:00
- - tags: ['personal']
-
- ## bforbones | The World's Leading Suppliers of Real Human Tooth Specimens!
- - [https://bforbones.com](https://bforbones.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Betflix สล็อตเว็บตรง Joker สล็อต บาคาร่ามือถือ สมัคร betflik เว็บตรง เว็บสล็อต โบนัสแตกง่าย
- - [https://bften.com](https://bften.com)
- - date_published: 2024-05-01T02:30:42.231184+00:00
-
- ## Bruce F. Webster & Associates
- - [http://bfwa.com](http://bfwa.com)
- - date_published: 2024-05-08T03:47:20.104439+00:00
-
- ## BFW Publishers | Our best high school textbooks
- - [https://www.bfwpub.com](https://www.bfwpub.com)
- - date_published: 2024-05-04T13:45:25.393757+00:00
-
- ## BG2FX Amateur Radios
- - [https://bg2fx.com](https://bg2fx.com)
- - date_published: 2024-05-07T09:55:36.011611+00:00
-
- ## Lab Services, 21 CFR Part 11 Validation, Public Health and Starlims Services
- - [https://www.bgasoft.com](https://www.bgasoft.com)
- - date_published: 2024-05-04T12:46:58.007713+00:00
-
- ## bgdailynews.com | Southcentral Kentucky's No. 1 Source for News
- - [https://www.bgdailynews.com](https://www.bgdailynews.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## BGL SMSF & corporate compliance solutions | Simple Fund 360 | CAS 360
- - [https://www.bglcorp.com](https://www.bglcorp.com)
- - date_published: 2024-05-01T06:00:55.106942+00:00
-
- ## Bloomberg Government - Home | BGOV
- - [https://about.bgov.com](https://about.bgov.com)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Bloomberg Government
- - [https://news.bgov.com](https://news.bgov.com)
- - date_published: 2024-03-21T23:01:42.823295+00:00
-
- ## Brian Picciano - Senior Backend Engineer - Resume
- - [https://bgpicciano.com](https://bgpicciano.com)
- - date_published: 2024-05-04T15:00:06.555635+00:00
-
- ## BGR | Tech & Entertainment News, Reviews, & Deals
- - [https://bgr.com](https://bgr.com)
- - date_published: 2023-10-25T12:58:43.634023+00:00
-
- ## הקליניקה הקהילתית - באר שבע
- - [https://www.bgucommunityclinic.com](https://www.bgucommunityclinic.com)
- - date_published: 2024-05-11T09:08:42.193741+00:00
-
- ## Next generation full body haptic suit - bHaptics TactSuit
- - [https://www.bhaptics.com](https://www.bhaptics.com)
- - date_published: 2023-11-27T16:13:54+00:00
- - tags: ['virtual reality']
-
- ## Home - Bharat Courses
- - [https://bharatcourses.com](https://bharatcourses.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Bharat Kalluri
- - [https://bharatkalluri.com](https://bharatkalluri.com)
- - date_published: 2024-05-09T07:48:05.796320+00:00
-
- ## Bharat Suchana | News | Politics | Sports | Finance | Health | Career | Jobs |
- - [https://bharatsuchana.com](https://bharatsuchana.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Home | Brownstein Hyatt Farber Schreck, LLP
- - [https://www.bhfs.com](https://www.bhfs.com)
- - date_published: 2024-04-30T19:22:39.885893+00:00
-
- ## Ben Hoover
- - [https://www.bhoov.com](https://www.bhoov.com)
- - date_published: 2024-05-10T05:17:59.006873+00:00
- - tags: ['personal']
-
- ## https://www.bhphotovideo.com
- - [https://www.bhphotovideo.com](https://www.bhphotovideo.com)
- - date_published: 2024-02-23T22:51:31.570107+00:00
-
- ## Bhread: Blog Threads
- - [https://bhread.com](https://bhread.com)
- - date_published: 2024-05-09T04:56:51.792682+00:00
-
- ## Bhread blog
- - [https://blog.bhread.com](https://blog.bhread.com)
- - date_published: 2024-02-18T00:00:00+00:00
-
- ## Bialetti Official Store
- - [https://www.bialetti.com](https://www.bialetti.com)
- - date_published: 2024-05-12T05:38:48.620570+00:00
-
- ## Purposeful Transformation - Bianca Welds (Creativity And Innovation Strategist & Coach)
- - [https://biancawelds.com](https://biancawelds.com)
- - date_published: 2024-01-01T03:38:49.652609+00:00
-
- ## BiaSciLab
- - [https://biascilab.com](https://biascilab.com)
- - date_published: 2024-01-22T09:34:42+00:00
- - tags: ['personal']
-
- ## Bibel Site: Dansk Bibel Online
- - [https://bibelsite.com](https://bibelsite.com)
- - date_published: 2024-06-02T20:51:19.687931+00:00
-
- ## Bibel Online
- - [https://bibeltext.com](https://bibeltext.com)
- - date_published: 2024-06-02T20:51:22.635940+00:00
-
- ## BibGuru - A New FREE APA, Harvard, & MLA Citation Generator
- - [https://www.bibguru.com](https://www.bibguru.com)
- - date_published: 2024-05-06T22:31:36.557844+00:00
-
- ## Read the Bible online. A free Bible on your phone, tablet, or computer. | The Bible App | Bible.com
- - [https://www.bible.com](https://www.bible.com)
- - date_published: 2024-05-04T14:35:21.436905+00:00
-
- ## BibleGateway.com: A searchable online Bible in over 150 versions and 50 languages.
- - [https://www.biblegateway.com](https://www.biblegateway.com)
- - date_published: 2024-05-02T12:36:02.368456+00:00
-
- ## Bible Hub: Search, Read, Study the Bible in Many Languages
- - [https://biblehub.com](https://biblehub.com)
- - date_published: 2024-04-28T05:53:42.425805+00:00
- - tags: ['bible']
-
- ## Bible Lessons for Kids
- - [https://biblepathwayadventures.com](https://biblepathwayadventures.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## BiblePortal.com
- - [https://www.bibleportal.com](https://www.bibleportal.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## English Standard Version (Biblia.com)
- - [https://biblia.com](https://biblia.com)
- - date_published: 2024-04-02T00:00:00+00:00
 

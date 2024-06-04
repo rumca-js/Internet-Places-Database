@@ -1,3 +1,806 @@
+ ## Stantec
+ - [http://www.stantec.com](http://www.stantec.com)
+ - date_published: 2024-05-12T07:38:42.918320+00:00
+
+ ## Stant Litore - Books, Classes, Tyrannosaurs, Wild Adventure
+ - [https://stantlitore.com](https://stantlitore.com)
+ - date_published: 2024-03-29T01:02:12.877858+00:00
+ - tags: ['personal', 'book writer']
+
+ ## Stant Litore - Books, Classes, Tyrannosaurs, Wild Adventure
+ - [http://www.stantlitore.com](http://www.stantlitore.com)
+ - date_published: 2024-05-12T04:16:41.112026+00:00
+
+ ## Secure Technology Alliance Identity & Payments Summit – Trust, Security and Privacy in a Hyperconnected World
+ - [https://stapayments.com](https://stapayments.com)
+ - date_published: 2024-05-12T03:58:15.569323+00:00
+
+ ## Secure Technology Alliance Identity & Payments Summit – Trust, Security and Privacy in a Hyperconnected World
+ - [https://www.stapayments.com](https://www.stapayments.com)
+ - date_published: 2024-05-12T03:58:08.979873+00:00
+
+ ## Staples® Official Online Store
+ - [https://www.staples.com](https://www.staples.com)
+ - date_published: 2024-04-29T04:13:23.210973+00:00
+
+ ## STAR7 | La nostra forza per il tuo prodotto
+ - [https://www.star-7.com](https://www.star-7.com)
+ - date_published: 2024-05-10T06:55:42.888662+00:00
+
+ ## Dining Out
+ - [https://dining.staradvertiser.com](https://dining.staradvertiser.com)
+ - date_published: 2024-05-09T06:55:38.007852+00:00
+
+ ## Honolulu Star-Advertiser Subscription
+ - [https://gateway.staradvertiser.com](https://gateway.staradvertiser.com)
+ - date_published: 2024-05-09T06:54:50.708148+00:00
+
+ ## Hawaii Renovation
+ - [https://hawaiirenovation.staradvertiser.com](https://hawaiirenovation.staradvertiser.com)
+ - date_published: 2024-05-09T06:55:39.597479+00:00
+
+ ## "Make Longs a Part of Your Day" | Longs Hawaii
+ - [https://longs.staradvertiser.com](https://longs.staradvertiser.com)
+ - date_published: 2024-05-09T06:54:46.460694+00:00
+
+ ## Honolulu Star-Advertiser Print Replica
+ - [https://printreplica.staradvertiser.com](https://printreplica.staradvertiser.com)
+ - date_published: 2024-05-09T06:54:44.982782+00:00
+
+ ## Hawaii's State Legals & Public Notices
+ - [https://statelegals.staradvertiser.com](https://statelegals.staradvertiser.com)
+ - date_published: 2024-05-09T06:54:48.344964+00:00
+
+ ## The Honolulu Star-Advertiser Store
+ - [https://store.staradvertiser.com](https://store.staradvertiser.com)
+ - date_published: 2024-05-09T06:54:54.614998+00:00
+
+ ## Honolulu Star-Advertiser
+ - [https://www.staradvertiser.com](https://www.staradvertiser.com)
+ - date_published: 2024-03-13T03:58:15.340619+00:00
+
+ ## Select your destinations
+ - [https://roundtheworld.staralliance.com](https://roundtheworld.staralliance.com)
+ - date_published: 2024-05-12T05:11:40.067546+00:00
+
+ ## Home - Star Alliance
+ - [https://www.staralliance.com](https://www.staralliance.com)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Starbeamrainbowlabs
+ - [https://starbeamrainbowlabs.com](https://starbeamrainbowlabs.com)
+ - date_published: 2024-04-24T08:00:00+00:00
+
+ ## Starbucks Help - Starbucks Portal
+ - [https://customerservice.starbucks.com](https://customerservice.starbucks.com)
+ - date_published: 2024-05-01T07:27:57.060557+00:00
+
+ ## Starbucks Coffee Company
+ - [https://www.starbucks.com](https://www.starbucks.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## STARBURST Magazine
+ - [https://www.starburstmagazine.com](https://www.starburstmagazine.com)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Molly Rocket
+ - [https://starcodegalaxy.com](https://starcodegalaxy.com)
+ - date_published: 2024-05-08T04:33:10.788707+00:00
+
+ ## StarCraft Forum
+ - [https://www.starcraftforum.com](https://www.starcraftforum.com)
+ - date_published: 2024-06-01T22:19:55+00:00
+ - tags: ['starcraft']
+
+ ## Starcrossed Online Casino Bonus Utan Omsättningskrav 2023
+ - [http://starcrossedonline.com](http://starcrossedonline.com)
+ - date_published: 2024-04-29T02:01:04.680774+00:00
+ - tags: ['gambling']
+
+ ## Stardew Valley Wiki
+ - [https://stardewvalleywiki.com](https://stardewvalleywiki.com)
+ - date_published: 2024-03-27T17:56:09+00:00
+
+ ## Official site. Stardock is a cutting-edge innovator specializing in desktop utility software and PC entertainment.
+ - [https://www.stardock.com](https://www.stardock.com)
+ - date_published: 2024-05-01T06:13:29.637908+00:00
+
+ ## Starfield Forum
+ - [https://forums.starfielddb.com](https://forums.starfielddb.com)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Starfield Db  | Guides, Tools, and News for Starfield
+ - [https://starfielddb.com](https://starfielddb.com)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Starfield Db | The ultimate destination for Starfield, the next RPG from Bethesda Game Studios
+ - [https://www.starfielddb.com](https://www.starfielddb.com)
+ - date_published: 2023-11-13T11:59:08.022363+00:00
+
+ ## Starfield Portal - News, Guides, Database
+ - [https://starfieldportal.com](https://starfieldportal.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+ - tags: ['video game news', 'starfield']
+
+ ## Starfield Wiki
+ - [https://starfield-wiki.com](https://starfield-wiki.com)
+ - date_published: 2024-06-01T22:27:13.236255+00:00
+
+ ## Starfinder Infinite -
+ - [https://www.starfinderinfinite.com](https://www.starfinderinfinite.com)
+ - date_published: 2024-05-24T19:14:19.610015+00:00
+
+ ## Starfish & Coffee Official Merchandise
+ - [https://www.starfishandcoffeeofficial.com](https://www.starfishandcoffeeofficial.com)
+ - date_published: 2023-10-25T17:15:25.182161+00:00
+ - tags: ['merchandise']
+
+ ## 首页
+ - [https://www.starfivetech.com](https://www.starfivetech.com)
+ - date_published: 2023-10-25T17:15:27.917895+00:00
+
+ ## GitHub Star History
+ - [https://star-history.com](https://star-history.com)
+ - date_published: 2024-04-29T07:46:10.091984+00:00
+
+ ## HILLSBORO Star-Journal
+ - [http://starj.com](http://starj.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Starliner Updates
+ - [https://starlinerupdates.com](https://starlinerupdates.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Starling Bank: Award-winning bank accounts - Starling Bank
+ - [https://www.starlingbank.com](https://www.starlingbank.com)
+ - date_published: 2024-05-01T06:46:36.224807+00:00
+
+ ## Home - Starlink - Direct to Cell
+ - [https://direct.starlink.com](https://direct.starlink.com)
+ - date_published: 2023-10-25T17:15:29.991528+00:00
+
+ ## Starlink Gear
+ - [https://gear.starlink.com](https://gear.starlink.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Starlink
+ - [https://starlink.com](https://starlink.com)
+ - date_published: 2020-01-01T00:00:00+00:00
+ - tags: ['internet service provider']
+
+ ## Starlink Stories | Starlink
+ - [https://stories.starlink.com](https://stories.starlink.com)
+ - date_published: 2024-05-11T11:05:53.331630+00:00
+
+ ## Help Center
+ - [https://support.starlink.com](https://support.starlink.com)
+ - date_published: 2024-05-11T11:05:54.257380+00:00
+
+ ## Starlink
+ - [https://www.starlink.com](https://www.starlink.com)
+ - date_published: 2023-10-27T13:17:14.300712+00:00
+
+ ## Nexus
+ - [https://play.starmourn.com](https://play.starmourn.com)
+ - date_published: 2024-05-12T02:46:42.158489+00:00
+
+ ## Starmourn
+ - [http://wiki.starmourn.com](http://wiki.starmourn.com)
+ - date_published: 2024-05-12T02:46:32.030090+00:00
+
+ ## Starmourn
+ - [https://www.starmourn.com](https://www.starmourn.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Wilmington Star-News: Local News, Politics & Sports in Wilmington, NC
+ - [https://www.starnewsonline.com](https://www.starnewsonline.com)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## Star+
+ - [https://www.starplus.com](https://www.starplus.com)
+ - date_published: 2023-07-24T00:00:00+00:00
+
+ ## Star Ranger: Starship Combat News
+ - [http://www.star-ranger.com](http://www.star-ranger.com)
+ - date_published: 2024-05-04T12:17:20.647557+00:00
+
+ ## Starry – A Crisp, Refreshing, Lemon Lime Soda
+ - [https://www.starrylemonlime.com](https://www.starrylemonlime.com)
+ - date_published: 2017-01-01T00:00:00+00:00
+
+ ## USMNT and USWNT News, Opinion, and Commentary
+ - [https://www.starsandstripesfc.com](https://www.starsandstripesfc.com)
+ - date_published: 2024-04-29T02:14:41.192544+00:00
+
+ ## Stars of The Industry
+ - [https://starsoftheindustry.com](https://starsoftheindustry.com)
+ - date_published: 2024-05-11T10:49:28.533223+00:00
+
+ ## Start a Fucking Blog
+ - [https://startafuckingblog.com](https://startafuckingblog.com)
+ - date_published: 2023-10-25T17:15:30.754300+00:00
+
+ ## StartAllBack to fix all Windows 11 deal-breaking UI issues
+ - [https://www.startallback.com](https://www.startallback.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Free Bootstrap Themes, Templates, Snippets, and Guides - Start Bootstrap
+ - [https://startbootstrap.com](https://startbootstrap.com)
+ - date_published: 2024-04-28T04:00:02.082111+00:00
+
+ ## StartEngine: Invest in Startups Online
+ - [https://www.startengine.com](https://www.startengine.com)
+ - date_published: 2024-05-06T23:28:23.775940+00:00
+
+ ## Starter Story: Learn How People Are Starting Successful Businesses
+ - [https://www.starterstory.com](https://www.starterstory.com)
+ - date_published: 2023-10-25T17:15:33.599452+00:00
+
+ ## StarterTab - A customizable homepage
+ - [https://startertab.com](https://startertab.com)
+ - date_published: 2024-01-09T02:49:26.648679+00:00
+
+ ## Starter Templates - Kadence Theme
+ - [https://startertemplatecloud.com](https://startertemplatecloud.com)
+ - date_published: 2020-08-27T16:04:49+00:00
+
+ ## Starting Harry Potter - Quizzes, Characters & Games for Kids!
+ - [http://startingharrypotter.com](http://startingharrypotter.com)
+ - date_published: 2024-05-07T14:32:01.673718+00:00
+
+ ## Starting Harry Potter - Quizzes, Characters & Games for Kids!
+ - [https://www.startingharrypotter.com](https://www.startingharrypotter.com)
+ - date_published: 2024-05-07T14:31:58.681733+00:00
+
+ ## StartIsBack: real start menu for Windows 8 and Windows 10
+ - [https://www.startisback.com](https://www.startisback.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+ - tags: ['windows tweaking']
+
+ ## Start Killer • Removes the Windows Start Button
+ - [http://www.startkiller.com](http://www.startkiller.com)
+ - date_published: 2024-05-10T05:40:44.576090+00:00
+
+ ## StartMail - Private email you can trust
+ - [https://www.startmail.com](https://www.startmail.com)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Startpage - Private Search Engine. No Tracking. No Search History.
+ - [https://startpage.com](https://startpage.com)
+ - date_published: 2024-05-08T10:45:15.715907+00:00
+
+ ## Startpage - Private Search Engine. No Tracking. No Search History.
+ - [https://www.startpage.com](https://www.startpage.com)
+ - date_published: 2023-10-30T12:57:24.455062+00:00
+ - tags: ['search engine']
+
+ ## A Start Page that you will actually use - Start Page Machine
+ - [https://www.startpagemachine.com](https://www.startpagemachine.com)
+ - date_published: 2024-05-09T07:50:16.135923+00:00
+
+ ## Coming Soon
+ - [https://startparking.com](https://startparking.com)
+ - date_published: 2024-05-12T05:12:02.758131+00:00
+
+ ## Star Trek | Official Site
+ - [http://startrek.com](http://startrek.com)
+ - date_published: 2024-04-28T06:00:11.489811+00:00
+
+ ## Star Trek | Official Site
+ - [https://www.startrek.com](https://www.startrek.com)
+ - date_published: 2023-10-25T14:10:12.970610+00:00
+ - tags: ['science-fiction', 'star trek']
+
+ ## Latest Minnesota news, weather, and sports.
+ - [https://www.startribune.com](https://www.startribune.com)
+ - date_published: 2023-10-25T17:15:40.882414+00:00
+
+ ## Start TV |
+ - [https://starttv.com](https://starttv.com)
+ - date_published: 2024-05-09T05:41:42.673167+00:00
+
+ ## Start TV |
+ - [https://www.starttv.com](https://www.starttv.com)
+ - date_published: 2024-04-30T07:30:05.431662+00:00
+
+ ## About Us | Startup Grind
+ - [https://www.startupgrind.com](https://www.startupgrind.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Startup Pirate by Alex Alexakis | Substack
+ - [https://www.startuppirate.com](https://www.startuppirate.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## The Startups For the Rest of Us Podcast
+ - [https://www.startupsfortherestofus.com](https://www.startupsfortherestofus.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Tax, Accounting and Startups
+ - [https://blog.startuptaxaccounting.com](https://blog.startuptaxaccounting.com)
+ - date_published: 2024-06-01T04:57:44.275680+00:00
+ - tags: ['personal']
+
+ ## Invest in the best startups with the best investors
+ - [https://startupxplore.com](https://startupxplore.com)
+ - date_published: 2024-05-07T13:29:39.029809+00:00
+
+ ## Start Your Impossible
+ - [https://www.startyourimpossible.com](https://www.startyourimpossible.com)
+ - date_published: 2024-05-06T20:14:21.013461+00:00
+
+ ## Start Your Own ISP
+ - [https://startyourownisp.com](https://startyourownisp.com)
+ - date_published: 2024-04-25T19:06:58+00:00
+ - tags: ['internet service provider', 'self-host']
+
+ ## StarWars.com | The Official Star Wars Website
+ - [https://www.starwars.com](https://www.starwars.com)
+ - date_published: 2024-04-24T19:49:59+00:00
+ - tags: ['star wars']
+
+ ## Nathan P. Butler – Educator, Writer, Podcaster, Collector
+ - [https://www.starwarsfanworks.com](https://www.starwarsfanworks.com)
+ - date_published: 2024-02-15T22:31:57.877041+00:00
+ - tags: ['star wars']
+
+ ## HOME
+ - [https://www.starwarsholidayspecial.com](https://www.starwarsholidayspecial.com)
+ - date_published: 2024-02-15T22:32:01.735950+00:00
+ - tags: ['star wars']
+
+ ## The Cantina
+ - [https://thecantina.starwarsnewsnet.com](https://thecantina.starwarsnewsnet.com)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Star Wars News Net
+ - [https://www.starwarsnewsnet.com](https://www.starwarsnewsnet.com)
+ - date_published: 2024-02-26T13:11:07.450185+00:00
+ - tags: ['star wars']
+
+ ## Star Wars Outlaws™ na XBOX, PS5, PC i więcej | Ubisoft (PL)
+ - [https://www.starwarsoutlaws.com](https://www.starwarsoutlaws.com)
+ - date_published: 2024-05-06T21:04:08.240948+00:00
+ - tags: ['star wars', 'video game']
+
+ ## Star Wars Reporter – Reporting on Star Wars, Disney and Other Galaxies, Near and Far
+ - [https://starwarsreporter.com](https://starwarsreporter.com)
+ - date_published: 2024-06-02T10:52:23.590895+00:00
+ - tags: ['star wars', 'news']
+
+ ## WWW.STARWARZ.COM - Everything for the Star Wars Enthusiast
+ - [https://starwarz.com](https://starwarz.com)
+ - date_published: 2024-02-12T08:08:40+00:00
+ - tags: ['star wars']
+
+ ## WWW.STARWARZ.COM - Everything for the Star Wars Enthusiast
+ - [https://www.starwarz.com](https://www.starwarz.com)
+ - date_published: 2024-02-15T22:32:04.212446+00:00
+ - tags: ['star wars']
+
+ ## StasoSphere Base
+ - [https://stasosphere.com](https://stasosphere.com)
+ - date_published: 2024-05-18T02:42:22.057157+00:00
+
+ ## Secure Technology Alliance Identity & Payments Summit – Trust, Security and Privacy in a Hyperconnected World
+ - [https://www.stasummit.com](https://www.stasummit.com)
+ - date_published: 2024-05-12T03:58:18.191433+00:00
+
+ ## Statamic is a powerful, highly scalable CMS built on Laravel.
+ - [https://statamic.com](https://statamic.com)
+ - date_published: 2024-05-04T11:50:16.772349+00:00
+
+ - [https://cdn.statcdn.com](https://cdn.statcdn.com)
+ - date_published: 2024-02-24T18:06:53.976903+00:00
+
+ ## Statcounter Global Stats - Browser, OS, Search Engine including Mobile Usage Share
+ - [https://gs.statcounter.com](https://gs.statcounter.com)
+ - date_published: 2024-05-06T13:25:45.717412+00:00
+
+ ## Statecraft | Online Student Led IR and Gov Simulations
+ - [http://www.statecraftsim.com](http://www.statecraftsim.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## The State Exchange Bank | Your Hometown Bank since 1901
+ - [http://www.stateexchangebank.com](http://www.stateexchangebank.com)
+ - date_published: 2024-05-09T07:35:20.532774+00:00
+
+ ## Good Neighbor Stories
+ - [https://newsroom.statefarm.com](https://newsroom.statefarm.com)
+ - date_published: 2023-10-25T17:15:42.417830+00:00
+
+ ## State Farm Insurance Companies | Like a Good Neighbor
+ - [https://www.statefarm.com](https://www.statefarm.com)
+ - date_published: 2024-05-01T06:34:22.517972+00:00
+
+ ## CloudOps made Self-Serve • Stateful
+ - [https://stateful.com](https://stateful.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## State Net
+ - [https://custom.statenet.com](https://custom.statenet.com)
+ - date_published: 2024-05-06T17:11:55.622789+00:00
+
+ ## The State News
+ - [https://statenews.com](https://statenews.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## State of APIs 2022 | Rapid Developer Survey Results
+ - [https://stateofapis.com](https://stateofapis.com)
+ - date_published: 2024-05-06T21:42:42.438373+00:00
+
+ ## State of CSS 2023
+ - [https://2023.stateofcss.com](https://2023.stateofcss.com)
+ - date_published: 2024-04-30T02:02:36.986107+00:00
+
+ ## State of data 2023
+ - [https://state-of-data.com](https://state-of-data.com)
+ - date_published: 2024-05-01T02:46:40.458854+00:00
+
+ ## State of Databases Survey - 2023
+ - [https://stateofdb.com](https://stateofdb.com)
+ - date_published: 2024-05-06T21:42:09.559064+00:00
+
+ ## State of Developer Relations
+ - [https://www.stateofdeveloperrelations.com](https://www.stateofdeveloperrelations.com)
+ - date_published: 2024-05-06T21:42:18.815551+00:00
+
+ ## The State of European Tech by Atomico
+ - [https://2020.stateofeuropeantech.com](https://2020.stateofeuropeantech.com)
+ - date_published: 2024-05-10T06:47:02.898712+00:00
+
+ ## The State of JavaScript 2018: Home
+ - [https://2018.stateofjs.com](https://2018.stateofjs.com)
+ - date_published: 2024-05-06T13:47:58.358804+00:00
+
+ ## The State of JavaScript 2019
+ - [https://2019.stateofjs.com](https://2019.stateofjs.com)
+ - date_published: 2024-05-06T13:05:02.993628+00:00
+
+ ## State of JS 2020
+ - [https://2020.stateofjs.com](https://2020.stateofjs.com)
+ - date_published: 2024-05-04T13:58:23.889687+00:00
+
+ ## The State of JS 2021
+ - [https://2021.stateofjs.com](https://2021.stateofjs.com)
+ - date_published: 2024-05-06T09:10:47.800172+00:00
+
+ ## State of JavaScript 2022
+ - [https://2022.stateofjs.com](https://2022.stateofjs.com)
+ - date_published: 2023-10-25T17:15:45.689391+00:00
+
+ ## StateScoop | Local & State Government IT News, Breaking Tech News
+ - [https://statescoop.com](https://statescoop.com)
+ - date_published: 2023-11-21T19:28:50.154454+00:00
+
+ ## Austin American-Statesman: Local News, Politics & Sports in Austin, TX
+ - [https://www.statesman.com](https://www.statesman.com)
+ - date_published: 2024-01-07T17:58:22.907409+00:00
+
+ ## Home • States Newsroom
+ - [https://statesnewsroom.com](https://statesnewsroom.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Asset Manager | State Street
+ - [https://www.statestreet.com](https://www.statestreet.com)
+ - date_published: 2023-10-25T16:16:42.971262+00:00
+ - tags: ['new world order']
+
+ ## Static Media®
+ - [https://static.com](https://static.com)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Static Media®
+ - [https://www.static.com](https://www.static.com)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## staticbattery.com
+ - [https://staticbattery.com](https://staticbattery.com)
+ - date_published: 2024-05-10T02:48:41.908500+00:00
+
+ ## Static Site Generators - Top Open Source SSGs | Jamstack
+ - [https://www.staticgen.com](https://www.staticgen.com)
+ - date_published: 2024-05-06T14:03:26.715314+00:00
+ - tags: ['open source', 'static website generator']
+
+ ## Leading JAMStack Development Agency | StaticMania
+ - [https://staticmania.com](https://staticmania.com)
+ - date_published: 2024-05-09T08:30:29.063794+00:00
+
+ ## Station Display
+ - [https://www.stationdisplay.com](https://www.stationdisplay.com)
+ - date_published: 2024-05-04T15:32:39.650564+00:00
+
+ ## Station HYPO
+ - [http://stationhypo.com](http://stationhypo.com)
+ - date_published: 2024-05-04T11:57:08.340279+00:00
+
+ ## askStatista
+ - [https://ask.statista.com](https://ask.statista.com)
+ - date_published: 2024-05-09T06:55:50.072895+00:00
+
+ ## Statista - Das Statistik-Portal
+ - [https://de.statista.com](https://de.statista.com)
+ - date_published: 2024-04-07T14:02:37.414968+00:00
+
+ ## Statista - El portal de estadísticas
+ - [https://es.statista.com](https://es.statista.com)
+ - date_published: 2024-05-09T06:55:47.547225+00:00
+
+ ## Statista - Le Portail de Statistiques
+ - [https://fr.statista.com](https://fr.statista.com)
+ - date_published: 2024-05-09T06:55:45.268904+00:00
+
+ ## Statista Q | Turning Questions Into Insights
+ - [https://q.statista.com](https://q.statista.com)
+ - date_published: 2024-05-09T06:56:03.541755+00:00
+
+ ## Statista R – Recognizing the Best
+ - [https://r.statista.com](https://r.statista.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Statista - The Statistics Portal
+ - [https://statista.com](https://statista.com)
+ - date_published: 2024-03-13T08:11:46+00:00
+ - tags: ['statistics']
+
+ ## nxt statista
+ - [https://www.nxt.statista.com](https://www.nxt.statista.com)
+ - date_published: 2024-05-09T06:55:42.894008+00:00
+
+ ## Statista - The Statistics Portal for Market Data, Market Research and Market Studies
+ - [https://www.statista.com](https://www.statista.com)
+ - date_published: 2023-10-25T17:15:49.586308+00:00
+ - tags: ['statistics']
+
+ ## Home - Statistically Relevant
+ - [https://statisticallyrelevant.com](https://statisticallyrelevant.com)
+ - date_published: 2023-10-25T17:15:58.229909+00:00
+
+ ## Welcome — Statistics Done Wrong
+ - [http://www.statisticsdonewrong.com](http://www.statisticsdonewrong.com)
+ - date_published: 2024-05-07T15:42:13.680513+00:00
+
+ ## Statkraft
+ - [https://www.statkraft.com](https://www.statkraft.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## STAT - Reporting from the frontiers of health and medicine
+ - [https://www.statnews.com](https://www.statnews.com)
+ - date_published: 2023-10-25T10:46:15.019573+00:00
+
+ ## Digital Marketing Agency in San Diego, Los Angeles and Southern California - Conversion Optimization | Stats Digital
+ - [https://statsdigital.com](https://statsdigital.com)
+ - date_published: 2024-04-29T01:49:08.866963+00:00
+
+ ## Stat Significant | Daniel Parris | Substack
+ - [https://www.statsignificant.com](https://www.statsignificant.com)
+ - date_published: 2023-12-07T14:48:35.612575+00:00
+
+ ## Stats, Maps n Pix
+ - [https://www.statsmapsnpix.com](https://www.statsmapsnpix.com)
+ - date_published: 2023-10-25T17:16:02.812082+00:00
+
+ ## Stats Medic
+ - [https://www.statsmedic.com](https://www.statsmedic.com)
+ - date_published: 2024-05-04T13:45:04.949028+00:00
+
+ ## StatusCake - Log In
+ - [https://app.statuscake.com](https://app.statuscake.com)
+ - date_published: 2024-04-28T03:24:46.345345+00:00
+
+ ## StatusCake - Uptime monitoring, Page speed monitoring, and more
+ - [https://statuscake.com](https://statuscake.com)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## StatusCake - Uptime monitoring, Page speed monitoring, and more
+ - [https://www.statuscake.com](https://www.statuscake.com)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Signin
+ - [https://auth.statused.com](https://auth.statused.com)
+ - date_published: 2024-05-11T07:02:38.103911+00:00
+
+ ## Show HN: I built a tool to get "Your app was approved/rejected " alerts on Slack
+ - [https://statused.com](https://statused.com)
+ - date_published: 2023-11-09T09:51:26+00:00
+
+ ## StatusGator
+ - [https://statusgator.com](https://statusgator.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Statvoo
+ - [https://statvoo.com](https://statvoo.com)
+ - date_published: 2024-05-07T13:55:39.093658+00:00
+
+ ## K&Mfest Stavanger
+ - [https://www.stavangerkmfestival.com](https://www.stavangerkmfestival.com)
+ - date_published: 2024-04-29T05:14:50.311599+00:00
+
+ ## Stay
+ - [https://www.stayatmentone.com](https://www.stayatmentone.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Apartment Aplend Vila Beatrice Tatranska Lomnica, Slovak Republic - book now, 2024 prices
+ - [https://aplend-villa-beatrice.stayinslovakia.com](https://aplend-villa-beatrice.stayinslovakia.com)
+ - date_published: 2024-05-04T13:04:09.019808+00:00
+
+ ## Stay SaaSy | Substack
+ - [https://blog.staysaasy.com](https://blog.staysaasy.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Stay SaaSy | Keeping it SaaSy
+ - [https://staysaasy.com](https://staysaasy.com)
+ - date_published: 2023-10-25T17:16:04.075504+00:00
+
+ ## Stay Sketchy
+ - [https://www.staysketchy.com](https://www.staysketchy.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## https://www.steadipulse.com
+ - [https://www.steadipulse.com](https://www.steadipulse.com)
+ - date_published: 2023-10-25T17:16:04.897773+00:00
+
+ ## Steadybit - Chaos Engineering and Resilience platform
+ - [https://steadybit.com](https://steadybit.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Steady — One ecosystem for those who create
+ - [https://steadyhq.com](https://steadyhq.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Products - EMTECH QRP Amateur Radio Gear
+ - [http://emtech.steadynet.com](http://emtech.steadynet.com)
+ - date_published: 2024-05-07T09:49:50.642255+00:00
+
+ ## Steal the Show with Michael Port
+ - [http://stealtheshow.com](http://stealtheshow.com)
+ - date_published: 2024-05-06T14:13:42.834536+00:00
+
+ ## Steal This Wiki
+ - [https://stealthiswiki.com](https://stealthiswiki.com)
+ - date_published: 2024-05-06T14:32:16.685206+00:00
+
+ ## The Feedback Wizard by Steamclock
+ - [https://feedbackwizard.steamclock.com](https://feedbackwizard.steamclock.com)
+ - date_published: 2024-05-01T03:16:20.818664+00:00
+
+ ## Steamclock - iOS and Android app development and consulting in Vancouver
+ - [https://steamclock.com](https://steamclock.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Steamclock - iOS and Android app development and consulting in Vancouver
+ - [http://www.steamclock.com](http://www.steamclock.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Steam Community
+ - [https://steamcommunity.com](https://steamcommunity.com)
+ - date_published: 2023-11-05T19:13:40.009701+00:00
+
+ ## Steam Deck
+ - [https://www.steamdeck.com](https://www.steamdeck.com)
+ - date_published: 2023-10-27T12:54:20.650329+00:00
+ - tags: ['steam deck', 'hardware']
+
+ ## Steam Deck HQ
+ - [https://steamdeckhq.com](https://steamdeckhq.com)
+ - date_published: 2022-06-17T15:33:45+00:00
+ - tags: ['steam deck']
+
+ ## Steamforged Games - The Home of Board Games & Roleplaying Games
+ - [http://steamforged.com](http://steamforged.com)
+ - date_published: 2024-05-11T07:16:47.483648+00:00
+ - tags: ['tabletop game publisher', 'guild ball', 'runescape kingdoms', 'monster hunter world', 'board game publisher']
+
+ ## Steamworks - Build & Distribute Your Games on Steam
+ - [https://partner.steamgames.com](https://partner.steamgames.com)
+ - date_published: 2024-05-06T21:29:48.747486+00:00
+
+ ## Steam Community :: Discussions
+ - [http://forums.steampowered.com](http://forums.steampowered.com)
+ - date_published: 2024-05-06T21:29:43.329639+00:00
+
+ ## Steam Support
+ - [https://help.steampowered.com](https://help.steampowered.com)
+ - date_published: 2024-05-04T09:16:19.825663+00:00
+
+ ## Steam Store
+ - [https://steampowered.com](https://steampowered.com)
+ - date_published: 2024-05-02T09:43:29.015930+00:00
+
+ ## Steam Store
+ - [https://store.steampowered.com](https://store.steampowered.com)
+ - date_published: 2023-10-24T20:12:11.678324+00:00
+ - tags: ['gatekeeper', 'game store']
+
+ ## Steam Support
+ - [https://support.steampowered.com](https://support.steampowered.com)
+ - date_published: 2024-05-01T06:56:18.190307+00:00
+
+ ## Steam Store
+ - [http://www.steampowered.com](http://www.steampowered.com)
+ - date_published: 2024-05-06T21:29:47.141170+00:00
+
+ ## Steamship
+ - [https://www.steamship.com](https://www.steamship.com)
+ - date_published: 2023-10-25T17:16:11.048919+00:00
+ - tags: ['artificial intelligence']
+
+ ## https://cdn.cloudflare.steamstatic.com
+ - [https://cdn.cloudflare.steamstatic.com](https://cdn.cloudflare.steamstatic.com)
+ - date_published: 2024-01-09T02:49:27.393282+00:00
+
+ ## Simplified EDI, now with flat pricing - Stedi
+ - [https://www.stedi.com](https://www.stedi.com)
+ - date_published: 2023-10-25T17:16:12.750079+00:00
+
+ ## Steelcase Netherlands Online Store
+ - [https://nl.steelcase.com](https://nl.steelcase.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Home
+ - [https://www.steelmarketupdate.com](https://www.steelmarketupdate.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Steel Rift
+ - [http://www.steelrift.com](http://www.steelrift.com)
+ - date_published: 2024-05-17T14:32:43+00:00
+ - tags: ['miniatures', 'tabletop games', 'wargames']
+
+ ## Steel Town Fire
+ - [http://www.steeltownfire.com](http://www.steeltownfire.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Steemit
+ - [https://steemit.com](https://steemit.com)
+ - date_published: 2023-10-25T17:16:19.491738+00:00
+
+ ## Steep Canyon Rangers
+ - [https://www.steepcanyon.com](https://www.steepcanyon.com)
+ - date_published: 2024-04-26T17:46:47+00:00
+ - tags: ['music band', 'steve martin']
+
+ ## Steepster — A Tea Community
+ - [https://steepster.com](https://steepster.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Stefan Abi-Karam
+ - [https://stefanabikaram.com](https://stefanabikaram.com)
+ - date_published: 2023-10-25T17:16:20.232528+00:00
+
+ ## Stefan Baeurle
+ - [http://www.stefanbaeurle.com](http://www.stefanbaeurle.com)
+ - date_published: 2024-05-06T18:14:11.598437+00:00
+
+ ## About Me | Stefan Bohacek
+ - [https://stefanbohacek.com](https://stefanbohacek.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Stefanie Egedy
+ - [https://stefanieegedy.com](https://stefanieegedy.com)
+ - date_published: 2024-04-30T07:18:59.390883+00:00
+
+ ## Stefanie Hetjens – Enabling People to flourish
+ - [https://www.stefanie-hetjens.com](https://www.stefanie-hetjens.com)
+ - date_published: 2024-02-14T08:47:58.812696+00:00
+ - tags: ['personal']
+
+ ## Developer, writer and speaker | Stefan Judis Web Development
+ - [https://stefanjudis.com](https://stefanjudis.com)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Developer, writer and speaker | Stefan Judis Web Development
+ - [https://www.stefanjudis.com](https://www.stefanjudis.com)
+ - date_published: 2023-10-25T17:16:21.789433+00:00
+
+ ## Stefan Koopmanschap
+ - [https://stefankoopmanschap.com](https://stefankoopmanschap.com)
+ - date_published: 2024-01-15T14:06:24.517252+00:00
+
+ ## Stefan Prodan
+ - [https://stefanprodan.com](https://stefanprodan.com)
+ - date_published: 2024-05-01T03:47:03.465876+00:00
+ - tags: ['personal']
+
  ## Hello, I’m Ste Grainer. » SteGrainer.com
  - [https://stegrainer.com](https://stegrainer.com)
  - date_published: 2023-12-13T20:59:04.125988+00:00
@@ -2263,6 +3066,7 @@
  ## Blizzplanet Substack | Substack
  - [https://blizzplanet.substack.com](https://blizzplanet.substack.com)
  - date_published: 2024-05-13T03:55:36.546641+00:00
+ - tags: ['diablo', 'warcraft', 'news', 'blizzard']
 
  ## Block21M  | Substack
  - [https://block21m.substack.com](https://block21m.substack.com)
@@ -3384,814 +4188,4 @@
  ## FVCK THE FED | Substack
  - [https://fckthefed.substack.com](https://fckthefed.substack.com)
  - date_published: 2024-05-09T05:54:23.442136+00:00
-
- ## The Personable Engineer | Fernando Villalba | Substack
- - [https://fernandovillalba.substack.com](https://fernandovillalba.substack.com)
- - date_published: 2023-12-29T02:25:36.002765+00:00
-
- ## Figs in Winter: New Stoicism and beyond | Massimo Pigliucci | Substack
- - [https://figsinwinter.substack.com](https://figsinwinter.substack.com)
- - date_published: 2024-01-09T01:40:19.337613+00:00
-
- ## Fintech Business Weekly | Jason Mikula | Substack
- - [https://fintechbusinessweekly.substack.com](https://fintechbusinessweekly.substack.com)
- - date_published: 2024-04-29T07:28:07.332661+00:00
-
- ## Fintech Law TL;DR | Substack
- - [https://fintechtldr.substack.com](https://fintechtldr.substack.com)
- - date_published: 2024-04-29T07:28:03.686239+00:00
-
- ## 5 Points | Sam Haskell | Substack
- - [https://fivepoint.substack.com](https://fivepoint.substack.com)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## Flappers & Fiction Substack | Flappers And Fiction | Substack
- - [https://flappersandfiction.substack.com](https://flappersandfiction.substack.com)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## The One Journal | Fo Fera | Substack
- - [https://fofera.substack.com](https://fofera.substack.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Fog Chaser | FogChaser | Substack
- - [https://fogchaser.substack.com](https://fogchaser.substack.com)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Folk Computer Newsletter | Substack
- - [https://folkcomputer.substack.com](https://folkcomputer.substack.com)
- - date_published: 2024-05-07T19:02:01.621672+00:00
-
- ## Footnotes2Plato | Matthew David Segall | Substack
- - [https://footnotes2plato.substack.com](https://footnotes2plato.substack.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Forecasting | Nuño Sempere | Substack
- - [https://forecasting.substack.com](https://forecasting.substack.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## The Forgotten Files | Peter Pappas | Substack
- - [https://forgottenfiles.substack.com](https://forgottenfiles.substack.com)
- - date_published: 2023-10-25T11:46:05.435815+00:00
- - tags: ['substack']
-
- ## For Starters | Garrick van Buren | Substack
- - [https://forstarters.substack.com](https://forstarters.substack.com)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Found Object | Dilpreet | Substack
- - [http://foundobject.substack.com](http://foundobject.substack.com)
- - date_published: 2024-04-30T06:40:45.243736+00:00
-
- ## Freddie deBoer | Substack
- - [https://freddiedeboer.substack.com](https://freddiedeboer.substack.com)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## FREST Substack | Guyren Howe | Substack
- - [https://frest.substack.com](https://frest.substack.com)
- - date_published: 2024-06-01T04:56:31.505364+00:00
-
- ## From the Desk | Miles Farnsworth | Substack
- - [https://fromthedesk.substack.com](https://fromthedesk.substack.com)
- - date_published: 2024-01-09T01:40:21.393376+00:00
-
- ## Full Steam Ahead | Harry Rushworth | Substack
- - [https://fullsteamahead.substack.com](https://fullsteamahead.substack.com)
- - date_published: 2024-04-29T00:35:39.212051+00:00
-
- ## Furiously Rotating Shapes | furiousRotator | Substack
- - [https://furiouslyrotatingshapes.substack.com](https://furiouslyrotatingshapes.substack.com)
- - date_published: 2024-01-09T01:40:23.966529+00:00
-
- ## Tá Todo Mundo Tentando | Gaía Passarelli | Substack
- - [http://gaiapassarelli.substack.com](http://gaiapassarelli.substack.com)
- - date_published: 2024-05-04T07:18:17.490934+00:00
-
- ## Gaius Baltar’s Substack | Substack
- - [https://gaiusbaltar.substack.com](https://gaiusbaltar.substack.com)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Galen’s Corner | Galen Marchetti | Substack
- - [https://galenmarchetti.substack.com](https://galenmarchetti.substack.com)
- - date_published: 2023-10-25T11:46:17.171143+00:00
- - tags: ['substack']
-
- ## GamerBraves Newsletter | Substack
- - [https://gamerbraves.substack.com](https://gamerbraves.substack.com)
- - date_published: 2024-05-04T07:19:40.465428+00:00
-
- ## Gamestorming | Dave Gray | Substack
- - [https://gamestorming.substack.com](https://gamestorming.substack.com)
- - date_published: 2024-05-02T13:58:36.626898+00:00
-
- ## Garbage Day | Ryan Broderick | Substack
- - [https://garbageday.substack.com](https://garbageday.substack.com)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Marcus on AI | Gary Marcus | Substack
- - [https://garymarcus.substack.com](https://garymarcus.substack.com)
- - date_published: 2023-12-29T01:35:20.032814+00:00
-
- ## https://generallyintelligent.substack.com
- - [https://generallyintelligent.substack.com](https://generallyintelligent.substack.com)
- - date_published: 2023-12-05T17:46:50.096294+00:00
-
- ## General Robots | Benjie Holson | Substack
- - [https://generalrobots.substack.com](https://generalrobots.substack.com)
- - date_published: 2023-10-25T11:46:22.101723+00:00
- - tags: ['substack']
-
- ## Generating Conversation | Joseph E. Gonzalez | Substack
- - [https://generatingconversation.substack.com](https://generatingconversation.substack.com)
- - date_published: 2023-10-25T17:19:03.436504+00:00
-
- ## Geopolitical Economy Report | Ben Norton | Substack
- - [https://geopoliticaleconomy.substack.com](https://geopoliticaleconomy.substack.com)
- - date_published: 2024-02-10T00:00:00+00:00
-
- ## Anglo Reaction | George Francis | Substack
- - [https://georgefrancis.substack.com](https://georgefrancis.substack.com)
- - date_published: 2024-05-02T15:02:16.886596+00:00
-
- ## dev/random/ | Substack
- - [https://georgemandis.substack.com](https://georgemandis.substack.com)
- - date_published: 2024-05-06T15:11:58.448429+00:00
-
- ## Alex Ghiculescu's Newsletter | Substack
- - [https://ghiculescu.substack.com](https://ghiculescu.substack.com)
- - date_published: 2024-01-09T01:40:25.488363+00:00
-
- ## Michael Girdley's Newsletter | Substack
- - [https://girdley.substack.com](https://girdley.substack.com)
- - date_published: 2024-01-09T01:40:27.407232+00:00
-
- ## Gleaning Words | Eric Beaty | Substack
- - [https://gleaningwords.substack.com](https://gleaningwords.substack.com)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Game Math Done Quick | Jak Marshall | Substack
- - [https://gmdq.substack.com](https://gmdq.substack.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Wigs on the Green | Matthew Schoolfield | Substack
- - [https://golfcoursewiki.substack.com](https://golfcoursewiki.substack.com)
- - date_published: 2024-06-01T04:55:27.908841+00:00
-
- ## Gonzo ML | Grigory Sapunov | Substack
- - [https://gonzoml.substack.com](https://gonzoml.substack.com)
- - date_published: 2023-10-25T11:46:30.729151+00:00
- - tags: ['substack']
-
- ## A Good Enough Newsletter | Shawn Liu | Substack
- - [https://goodenoughnews.substack.com](https://goodenoughnews.substack.com)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Good Reason | Andre Cooper | Substack
- - [https://goodreason.substack.com](https://goodreason.substack.com)
- - date_published: 2024-01-09T01:40:29.168190+00:00
-
- ## The Good Science Project | Stuart Buck | Substack
- - [https://goodscience.substack.com](https://goodscience.substack.com)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## The Good Teacher | Matthew Kaul | Substack
- - [https://goodteacher.substack.com](https://goodteacher.substack.com)
- - date_published: 2023-11-18T19:08:05.233065+00:00
- - tags: ['substack']
-
- ## Gould Asks | Substack
- - [https://gouldasks.substack.com](https://gouldasks.substack.com)
- - date_published: 2024-01-09T01:40:31.573735+00:00
-
- ## Gradient Flow | Ben Lorica 罗瑞卡 | Substack
- - [https://gradientflow.substack.com](https://gradientflow.substack.com)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## The Grandiose Journal | Substack
- - [https://grandiose.substack.com](https://grandiose.substack.com)
- - date_published: 2023-10-25T11:46:41.608888+00:00
- - tags: ['substack']
-
- ## Fútbol with Grant Wahl | Substack
- - [https://grantwahl.substack.com](https://grantwahl.substack.com)
- - date_published: 2024-01-09T01:40:33.661467+00:00
-
- ## Grappling Lane | tibi | Substack
- - [https://grapplinglane.substack.com](https://grapplinglane.substack.com)
- - date_published: 2023-10-25T11:46:50.347636+00:00
- - tags: ['substack']
-
- ## Gray Mirror | Curtis Yarvin | Substack
- - [https://graymirror.substack.com](https://graymirror.substack.com)
- - date_published: 2024-05-02T07:56:33.851313+00:00
-
- ## Green Investing  | Ryan Northover | Substack
- - [https://greeninvesting.substack.com](https://greeninvesting.substack.com)
- - date_published: 2024-04-30T06:44:45.288660+00:00
-
- ## https://greglukianoff.substack.com
- - [https://greglukianoff.substack.com](https://greglukianoff.substack.com)
- - date_published: 2024-01-25T01:47:52.972038+00:00
-
- ## The Reese Report | Greg Reese | Substack
- - [https://gregreese.substack.com](https://gregreese.substack.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## The Info Op | the grugq | Substack
- - [https://grugq.substack.com](https://grugq.substack.com)
- - date_published: 2024-05-07T09:48:10.978758+00:00
-
- ## The Prism | Gurwinder | Substack
- - [https://gurwinder.substack.com](https://gurwinder.substack.com)
- - date_published: 2023-10-25T11:46:58.520291+00:00
- - tags: ['substack']
-
- ## Gwern.net Newsletter | Substack
- - [https://gwern.substack.com](https://gwern.substack.com)
- - date_published: 2024-02-25T20:35:20.331613+00:00
-
- ## Hacker Stations Newsletter | Substack
- - [https://hackerstations.substack.com](https://hackerstations.substack.com)
- - date_published: 2024-05-04T09:13:51.420911+00:00
-
- ## The Hagakure | Paulo André | Substack
- - [https://hagakure.substack.com](https://hagakure.substack.com)
- - date_published: 2024-01-09T01:40:36.254592+00:00
-
- ## Maybe Baby | Haley Nahman | Substack
- - [https://haleynahman.substack.com](https://haleynahman.substack.com)
- - date_published: 2024-01-09T01:40:38.764256+00:00
-
- ## Half-Page Essays | Ken Lane | Substack
- - [https://halfpageessays.substack.com](https://halfpageessays.substack.com)
- - date_published: 2024-05-10T04:55:31.204265+00:00
-
- ## Hands-on Agile by Stefan Wolpers | Substack
- - [https://handsonagile.substack.com](https://handsonagile.substack.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Sustainability by numbers | Hannah Ritchie | Substack
- - [https://hannahritchie.substack.com](https://hannahritchie.substack.com)
- - date_published: 2024-01-09T01:40:40.867001+00:00
-
- ## Happy Chasing | Petter Haga | Substack
- - [https://happychasing.substack.com](https://happychasing.substack.com)
- - date_published: 2023-10-25T09:53:28.318342+00:00
- - tags: ['substack']
-
- ## Hard Pivot | jeff tang | Substack
- - [https://hardpivot.substack.com](https://hardpivot.substack.com)
- - date_published: 2023-10-25T09:53:30.197949+00:00
- - tags: ['substack']
-
- ## Occasional Viewpoints | Peter Hargreaves | Substack
- - [https://hargreavesp.substack.com](https://hargreavesp.substack.com)
- - date_published: 2024-05-13T02:46:33.548468+00:00
-
- ## Harry’s Substack | Substack
- - [https://harrytaussig.substack.com](https://harrytaussig.substack.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Harmony | Harshal Patil | Substack
- - [https://harshalpatil.substack.com](https://harshalpatil.substack.com)
- - date_published: 2024-05-04T09:19:08.135773+00:00
-
- ## The Thom Hartmann Radio & TV Program | Substack
- - [https://hartmannprogram.substack.com](https://hartmannprogram.substack.com)
- - date_published: 2024-05-04T09:19:29.556838+00:00
-
- ## Hasen Judi | Substack
- - [https://hasen.substack.com](https://hasen.substack.com)
- - date_published: 2023-10-25T09:53:32.676350+00:00
- - tags: ['substack']
-
- ## Headlines | Fitt Insider | Substack
- - [https://headlineshq.substack.com](https://headlineshq.substack.com)
- - date_published: 2023-10-25T09:53:34.487257+00:00
- - tags: ['substack']
-
- ## The Healthy Dev | Tom White | Substack
- - [https://healthydev.substack.com](https://healthydev.substack.com)
- - date_published: 2024-06-01T04:51:57.145979+00:00
-
- ## imperfect offerings | Helen Beetham | Substack
- - [https://helenbeetham.substack.com](https://helenbeetham.substack.com)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Wondering Freely | Helen De Cruz | Substack
- - [https://helendecruz.substack.com](https://helendecruz.substack.com)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Herbert's Highlights | Kaylee | Substack
- - [https://herbertshighlights.substack.com](https://herbertshighlights.substack.com)
- - date_published: 2024-05-08T04:05:07.968899+00:00
-
- ## John’s Substack | Substack
- - [https://hermitian.substack.com](https://hermitian.substack.com)
- - date_published: 2024-01-09T01:40:49.351640+00:00
-
- ## Heterodox Thinking | Jonatan | Substack
- - [https://heterodoxthinking.substack.com](https://heterodoxthinking.substack.com)
- - date_published: 2024-05-02T07:56:35.151077+00:00
-
- ## Hey! Howdy | Seth Piper | Substack
- - [https://heyhowdy.substack.com](https://heyhowdy.substack.com)
- - date_published: 2024-05-12T05:24:45.676695+00:00
-
- ## Hidden Japan | Leon | Substack
- - [https://hiddenjapan.substack.com](https://hiddenjapan.substack.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## HIGH MODERNISM | Nick Whitaker | Substack
- - [https://highmodernism.substack.com](https://highmodernism.substack.com)
- - date_published: 2024-04-30T07:02:33.933577+00:00
-
- ## This&That | Hiran Venugopalan | Substack
- - [https://hiran.substack.com](https://hiran.substack.com)
- - date_published: 2024-04-28T01:40:33.743643+00:00
-
- ## History Buzz | History Buzz editorial team | Substack
- - [https://historybuzz.substack.com](https://historybuzz.substack.com)
- - date_published: 2024-05-04T12:19:24.238483+00:00
-
- ## Hitesh Writes | Hitesh Yadav | Substack
- - [https://hiteshyadav.substack.com](https://hiteshyadav.substack.com)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Holly Elmore | Substack
- - [https://hollyelmore.substack.com](https://hollyelmore.substack.com)
- - date_published: 2024-05-08T09:58:51.197839+00:00
-
- ## Housing is a Human Right | Fran Quigley | Substack
- - [https://housingisahumanright.substack.com](https://housingisahumanright.substack.com)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Hudi Newsletter | Substack
- - [https://hudinewsletter.substack.com](https://hudinewsletter.substack.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Human Programming | Daniel Sosebee | Substack
- - [https://humanprogramming.substack.com](https://humanprogramming.substack.com)
- - date_published: 2023-10-25T09:53:38.961944+00:00
- - tags: ['substack']
-
- ## Handwaving Freakoutery | Substack
- - [https://hwfo.substack.com](https://hwfo.substack.com)
- - date_published: 2024-01-09T01:40:51.174941+00:00
-
- ## Heterodox STEM | Dorian Abbot | Substack
- - [https://hxstem.substack.com](https://hxstem.substack.com)
- - date_published: 2023-10-25T09:53:44.146234+00:00
- - tags: ['substack']
-
- ## Hyperdimensional | Dean W. Ball | Substack
- - [https://hyperdimensional.substack.com](https://hyperdimensional.substack.com)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Iah’s Substack | Substack
- - [https://iahwrites.substack.com](https://iahwrites.substack.com)
- - date_published: 2023-10-25T09:53:45.650210+00:00
- - tags: ['substack']
-
- ## I Am Not A Product | Kev Fitzsimons | Substack
- - [https://iamnotaproduct.substack.com](https://iamnotaproduct.substack.com)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## I Am Not a Robot | Diego Basch | Substack
- - [https://iamnotarobot.substack.com](https://iamnotarobot.substack.com)
- - date_published: 2023-10-25T09:53:47.300720+00:00
- - tags: ['substack']
-
- ## Ian Brighthope's Substack | Substack
- - [https://ianbrighthope.substack.com](https://ianbrighthope.substack.com)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## The Ruffian | Ian Leslie | Substack
- - [https://ianleslie.substack.com](https://ianleslie.substack.com)
- - date_published: 2023-10-25T09:54:01.013922+00:00
- - tags: ['substack']
-
- ## https://iatia.substack.com
- - [https://iatia.substack.com](https://iatia.substack.com)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## I Changed My Mind | Xin Yi (She/Her) | Substack
- - [https://ichangedmymind.substack.com](https://ichangedmymind.substack.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## The Ideal Gas Newsletter | Substack
- - [https://idealgas.substack.com](https://idealgas.substack.com)
- - date_published: 2023-10-25T09:54:03.827327+00:00
- - tags: ['substack']
-
- ## 50 Years of Text Games | Aaron A. Reed | Substack
- - [https://if50.substack.com](https://if50.substack.com)
- - date_published: 2023-10-25T09:54:06.218172+00:00
- - tags: ['substack']
-
- ## I have thoughts | Thomas Poinsot | Substack
- - [https://ihavemanythoughts.substack.com](https://ihavemanythoughts.substack.com)
- - date_published: 2023-10-25T09:54:07.794382+00:00
- - tags: ['substack']
-
- ## Be Bold or italic, never regular. | Ikuo Hiraishi | Substack
- - [https://ikuohiraishi.substack.com](https://ikuohiraishi.substack.com)
- - date_published: 2024-05-06T09:20:22.633940+00:00
-
- ## I Might Be Wrong | Jeff Maurer | Substack
- - [https://imightbewrong.substack.com](https://imightbewrong.substack.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Impact Supporters | August Solliv | Substack
- - [https://impactvc.substack.com](https://impactvc.substack.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Impertinent | Bill french | Substack
- - [https://impertinent.substack.com](https://impertinent.substack.com)
- - date_published: 2024-05-06T13:00:12.449793+00:00
-
- ## Implementing | Marco Moauro | Substack
- - [https://implementing.substack.com](https://implementing.substack.com)
- - date_published: 2024-02-10T00:00:00+00:00
-
- ## Ivan's Notes | Ivan Malopinsky | Substack
- - [https://imsky.substack.com](https://imsky.substack.com)
- - date_published: 2024-05-10T06:47:54.612876+00:00
-
- ## a newsletter for infovores. | Age of Infovores | Substack
- - [https://infovores.substack.com](https://infovores.substack.com)
- - date_published: 2023-10-25T09:54:08.800392+00:00
- - tags: ['substack']
-
- ## Patterns in Humanity | Inquisitive Bird | Substack
- - [https://inquisitivebird.substack.com](https://inquisitivebird.substack.com)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Institute for Progress | Substack
- - [https://instituteforprogress.substack.com](https://instituteforprogress.substack.com)
- - date_published: 2014-03-20T00:00:00+00:00
-
- ## Interconnected | Kevin Xu | Substack
- - [https://interconnect.substack.com](https://interconnect.substack.com)
- - date_published: 2023-10-25T09:54:16.997332+00:00
- - tags: ['substack']
-
- ## That's Interesting | Substack
- - [https://interestingcontent.substack.com](https://interestingcontent.substack.com)
- - date_published: 2023-12-21T19:33:37.713703+00:00
-
- ## inter human agreement | linked zero sync | Substack
- - [https://interhumanagreement.substack.com](https://interhumanagreement.substack.com)
- - date_published: 2023-10-25T09:54:18.928911+00:00
- - tags: ['substack']
-
- ## Intuitive AI | Will Seltzer | Substack
- - [https://intuitiveai.substack.com](https://intuitiveai.substack.com)
- - date_published: 2023-10-25T09:54:20.839554+00:00
- - tags: ['substack']
-
- ## Investing 101 | Kyle Harrison | Substack
- - [https://investing1012dot0.substack.com](https://investing1012dot0.substack.com)
- - date_published: 2023-10-25T09:54:23.993215+00:00
- - tags: ['substack']
-
- ## Intention’s climate investing community | Substack
- - [https://investwithintention.substack.com](https://investwithintention.substack.com)
- - date_published: 2024-05-08T05:36:12.889849+00:00
-
- ## Ironic Sans | David Friedman | Substack
- - [https://ironicsans.substack.com](https://ironicsans.substack.com)
- - date_published: 2023-10-25T09:54:27.002372+00:00
- - tags: ['substack']
-
- ## A Song Of Bugs And Patches | Ivan Burmistrov | Substack
- - [https://isburmistrov.substack.com](https://isburmistrov.substack.com)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Ivan's Indie Journey | Ivan Klimchuk | Substack
- - [https://ivanklimchuk.substack.com](https://ivanklimchuk.substack.com)
- - date_published: 2024-01-09T01:40:54.321638+00:00
-
- ## Gordian Knot News | Jack Devanney | Substack
- - [https://jackdevanney.substack.com](https://jackdevanney.substack.com)
- - date_published: 2024-01-09T01:40:56.135107+00:00
-
- ## Cracking the PM Newsletter | Jackie Bavaro | Substack
- - [https://jackiebavaro.substack.com](https://jackiebavaro.substack.com)
- - date_published: 2024-01-09T01:40:58.041645+00:00
-
- ## All-Source Intelligence Fusion | Jack Poulson | Substack
- - [https://jackpoulson.substack.com](https://jackpoulson.substack.com)
- - date_published: 2023-11-18T19:07:51.838890+00:00
-
- ## Jacob’s Tech Tavern | Jacob Bartlett | Substack
- - [https://jacobbartlett.substack.com](https://jacobbartlett.substack.com)
- - date_published: 2023-12-17T23:23:08.731195+00:00
-
- ## As Clay Awakens | Jacob Buckman | Substack
- - [https://jacobbuckman.substack.com](https://jacobbuckman.substack.com)
- - date_published: 2024-01-09T01:41:04.546089+00:00
-
- ## Signal Fire 📡🔥 | Jakob Writes | Substack
- - [https://jakobwrites.substack.com](https://jakobwrites.substack.com)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## james.claims | James Heathers | Substack
- - [https://jamesclaims.substack.com](https://jamesclaims.substack.com)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## Chapter 23 by James Garside | Substack
- - [https://jamesgarside.substack.com](https://jamesgarside.substack.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## kind words for big feelings | James Kerti | Substack
- - [https://jameskerti.substack.com](https://jameskerti.substack.com)
- - date_published: 2024-05-10T06:26:34.375892+00:00
-
- ## The Turbulent World with James M. Dorsey | Substack
- - [https://jamesmdorsey.substack.com](https://jamesmdorsey.substack.com)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## James Roguski | Substack
- - [https://jamesroguski.substack.com](https://jamesroguski.substack.com)
- - date_published: 2024-05-08T06:44:28.045304+00:00
-
- ## The Jamestown Foundation | Substack
- - [https://jamestown.substack.com](https://jamestown.substack.com)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Japanomics | Julian Smith | Substack
- - [https://japanomics.substack.com](https://japanomics.substack.com)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## Japan Optimist | Jesper Koll | Substack
- - [https://japanoptimist.substack.com](https://japanoptimist.substack.com)
- - date_published: 2024-05-04T10:00:12.185799+00:00
-
- ## jasonbock’s Substack | Jason Bock | Substack
- - [https://jasonbock.substack.com](https://jasonbock.substack.com)
- - date_published: 2024-01-10T03:58:01.479440+00:00
-
- ## Crime & Psychology | Jason Frowley PhD | Substack
- - [https://jasonfrowley.substack.com](https://jasonfrowley.substack.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Seeking Rents | Jason Garcia | Substack
- - [https://jasongarcia.substack.com](https://jasongarcia.substack.com)
- - date_published: 2024-05-02T12:56:53.565467+00:00
-
- ## Jason Pargin’s Newsletter | jasonpargin | Substack
- - [https://jasonpargin.substack.com](https://jasonpargin.substack.com)
- - date_published: 2024-03-16T03:36:41.460320+00:00
-
- ## The Experiment | Jason Stanford | Substack
- - [https://jasonstanford.substack.com](https://jasonstanford.substack.com)
- - date_published: 2023-11-28T22:06:34.502561+00:00
-
- ## Politics, News, Novels and More | MJ Javani | Substack
- - [https://javani.substack.com](https://javani.substack.com)
- - date_published: 2024-01-09T01:41:06.222556+00:00
-
- ## These Are Systems | Jacob Bayless | Substack
- - [https://jbconsulting.substack.com](https://jbconsulting.substack.com)
- - date_published: 2024-01-09T01:41:08.420577+00:00
-
- ## Tech and Tea | Jean Hsu | Substack
- - [https://jeanhsu.substack.com](https://jeanhsu.substack.com)
- - date_published: 2024-01-09T01:41:11.957328+00:00
-
- ## Generation Tech | Jean M. Twenge | Substack
- - [https://jeanmtwenge.substack.com](https://jeanmtwenge.substack.com)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## White Rabbit Pursuits | Substack
- - [https://jeannette.substack.com](https://jeannette.substack.com)
- - date_published: 2024-05-10T06:14:27.470104+00:00
-
- ## Points And Figures | Jeffrey Carter | Substack
- - [https://jeffreycarter.substack.com](https://jeffreycarter.substack.com)
- - date_published: 2023-10-25T09:55:01.324163+00:00
- - tags: ['substack']
-
- ## An Educated Guess | Jeroen van Baar | Substack
- - [https://jeroenvanbaar.substack.com](https://jeroenvanbaar.substack.com)
- - date_published: 2023-12-01T21:29:00.031789+00:00
-
- ## Jérôme à Paris  | Substack
- - [https://jeromeaparis.substack.com](https://jeromeaparis.substack.com)
- - date_published: 2023-10-25T09:55:06.824850+00:00
- - tags: ['substack']
-
- ## work in progress | jero | Substack
- - [https://jero.substack.com](https://jero.substack.com)
- - date_published: 2024-05-12T05:28:14.910849+00:00
-
- ## Singal-Minded | Jesse Singal | Substack
- - [https://jessesingal.substack.com](https://jessesingal.substack.com)
- - date_published: 2024-01-09T01:41:19.060592+00:00
-
- ## Jesse Ventura's Die First Then Quit | Jesse & Tyrel Ventura | Substack
- - [https://jesseventura.substack.com](https://jesseventura.substack.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Unconditional Jessica | Jessica Rose | Substack
- - [https://jessica5b3.substack.com](https://jessica5b3.substack.com)
- - date_published: 2024-05-06T20:11:56.419708+00:00
-
- ## The Unpublishable | Jessica DeFino | Substack
- - [https://jessicadefino.substack.com](https://jessicadefino.substack.com)
- - date_published: 2023-10-25T09:55:15.775970+00:00
- - tags: ['substack']
-
- ## Celebrating Connectedness | Jessica Rath | Substack
- - [https://jessicarath.substack.com](https://jessicarath.substack.com)
- - date_published: 2024-04-30T06:59:49.598687+00:00
-
- ## JFK Facts | Jefferson Morley | Substack
- - [https://jfkfacts.substack.com](https://jfkfacts.substack.com)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Joseph Gefroh | Substack
- - [https://jgefroh.substack.com](https://jgefroh.substack.com)
- - date_published: 2024-02-10T00:00:00+00:00
-
- ## Noted | Jillian Hess | Substack
- - [https://jillianhess.substack.com](https://jillianhess.substack.com)
- - date_published: 2023-10-25T17:19:11.075658+00:00
-
- ## Jinay's Substack | Jinay Jain | Substack
- - [https://jjain.substack.com](https://jjain.substack.com)
- - date_published: 2023-10-25T09:55:19.692399+00:00
- - tags: ['substack']
-
- ## Pryor Thoughts | JJ Pryor | Substack
- - [https://jjpryor.substack.com](https://jjpryor.substack.com)
- - date_published: 2023-10-25T09:55:26.042636+00:00
- - tags: ['substack']
-
- ## Lanyon, In Theory | Substack
- - [https://jlanyon.substack.com](https://jlanyon.substack.com)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Causal Deference | John McDonnell | Substack
- - [https://jmcdonnell.substack.com](https://jmcdonnell.substack.com)
- - date_published: 2023-10-25T09:55:29.223040+00:00
- - tags: ['substack']
-
- ## Building Beautiful Things | Joanna Lord | Substack
- - [https://joannalord.substack.com](https://joannalord.substack.com)
- - date_published: 2024-05-04T06:13:07.831078+00:00
-
- ## Curious About Everything | Jodi Ettenberg | Substack
- - [https://jodiettenberg.substack.com](https://jodiettenberg.substack.com)
- - date_published: 2024-01-28T00:00:00+00:00
-
- ## A Closer Look with Joe Morrison | Substack
- - [https://joemorrison.substack.com](https://joemorrison.substack.com)
- - date_published: 2024-01-09T01:41:21.259857+00:00
-
- ## JoeBlogs | Joe Posnanski | Substack
- - [https://joeposnanski.substack.com](https://joeposnanski.substack.com)
- - date_published: 2023-10-25T09:55:38.595856+00:00
- - tags: ['substack']
-
- ## Baseline | Joey Banks | Substack
- - [https://joeyabanks.substack.com](https://joeyabanks.substack.com)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## The Human Connection Experience  | Jo Gifford | Substack
- - [https://jogifford.substack.com](https://jogifford.substack.com)
- - date_published: 2024-04-30T06:46:23.836875+00:00
-
- ## Unpopular Front | Substack
- - [https://johnganz.substack.com](https://johnganz.substack.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Memex 1.1 | John Naughton | Substack
- - [https://johnnaughton.substack.com](https://johnnaughton.substack.com)
- - date_published: 2024-05-08T10:42:59.606354+00:00
-
- ## Global Guerrillas | John Robb | Substack
- - [https://johnrobb.substack.com](https://johnrobb.substack.com)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## After Babel | Jon Haidt | Substack
- - [https://jonathanhaidt.substack.com](https://jonathanhaidt.substack.com)
- - date_published: 2024-01-09T01:41:24.980838+00:00
-
- ## Jonathan Nolan's substack | Substack
- - [https://jonathannolan.substack.com](https://jonathannolan.substack.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Jones Notebook | Nicole Jones Herron | Substack
- - [https://jonesnotebook.substack.com](https://jonesnotebook.substack.com)
- - date_published: 2024-05-11T09:36:16.439967+00:00
-
- ## The Newsletter of (Not Quite) Everything | Jonn Elledge | Substack
- - [https://jonn.substack.com](https://jonn.substack.com)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Joscha Bach | Substack
- - [https://joscha.substack.com](https://joscha.substack.com)
- - date_published: 2023-10-25T09:55:48.369614+00:00
- - tags: ['substack']
-
- ## Longer Tables with José Andrés | Substack
- - [https://joseandres.substack.com](https://joseandres.substack.com)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Moving Offline | Jose Briones | Substack
- - [https://josebriones.substack.com](https://josebriones.substack.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## In Due Course | Joseph Heath | Substack
- - [https://josephheath.substack.com](https://josephheath.substack.com)
- - date_published: 2023-12-31T16:29:29.512997+00:00
-
- ## Sanity Clause | Joe Klein | Substack
- - [https://josephklein.substack.com](https://josephklein.substack.com)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## Josh Baldwin | Substack
- - [https://joshbaldwin.substack.com](https://joshbaldwin.substack.com)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## That's Marvelous! | Josh Gondelman | Substack
- - [https://joshgondelman.substack.com](https://joshgondelman.substack.com)
- - date_published: 2024-05-04T09:16:38.035288+00:00
-
- ## The Josh Review of Books | Josh Dunigan | Substack
- - [https://joshreviewofbooks.substack.com](https://joshreviewofbooks.substack.com)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Josie Peters | Substack
- - [https://josieapeters.substack.com](https://josieapeters.substack.com)
- - date_published: 2024-05-02T10:12:17.179332+00:00
-
- ## Wednesday Wisdom | Jos Visser | Substack
- - [https://josvisser.substack.com](https://josvisser.substack.com)
- - date_published: 2023-12-07T03:05:59.094132+00:00
-
- ## quite useless | a. natasha joukovsky | Substack
- - [https://joukovsky.substack.com](https://joukovsky.substack.com)
- - date_published: 2023-10-25T09:55:57.553758+00:00
- - tags: ['substack']
-
- ## Finding Joy | Joy Lere, Psy.D. | Substack
- - [https://joylere.substack.com](https://joylere.substack.com)
- - date_published: 2023-10-25T09:56:00.200869+00:00
- - tags: ['substack']
-
- ## MP's former JPG Newsletter (soon notepad) | María Paula | Substack
- - [https://jpg100.substack.com](https://jpg100.substack.com)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Pandith’s Newsletter | Pandith Jantakahalli | Substack
- - [https://jppandith.substack.com](https://jppandith.substack.com)
- - date_published: 2024-05-06T13:33:48.114705+00:00
-
- ## Delayed Branch | Jason Rahman | Substack
- - [https://jprahman.substack.com](https://jprahman.substack.com)
- - date_published: 2024-01-09T01:41:28.615386+00:00
-
- ## JSLegendDev’s Substack | Substack
- - [https://jslegenddev.substack.com](https://jslegenddev.substack.com)
- - date_published: 2024-03-02T00:00:00+00:00
-
- ## On Looking | Julien Posture | Substack
- - [https://julienposture.substack.com](https://julienposture.substack.com)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## The Jungle Gym | Nick DeWilde | Substack
- - [https://junglegym.substack.com](https://junglegym.substack.com)
- - date_published: 2024-05-07T12:52:13.595878+00:00
-
- ## Teaching computers how to talk | Jurgen Gravestein | Substack
- - [https://jurgengravestein.substack.com](https://jurgengravestein.substack.com)
- - date_published: 2023-10-25T09:56:12.153586+00:00
- - tags: ['substack']
-
- ## Justifications | Fergus McCullough | Substack
- - [https://justifications.substack.com](https://justifications.substack.com)
- - date_published: 2024-05-06T16:46:05.389873+00:00
-
- ## Justin Smith-Ruiu’s Hinternet | Substack
- - [https://justinehsmith.substack.com](https://justinehsmith.substack.com)
- - date_published: 2024-01-09T01:41:31.303927+00:00
-
- ## Think Like A Game Designer  | Justin Gary | Substack
- - [https://justingarydesign.substack.com](https://justingarydesign.substack.com)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## The Kaitchup – AI on a Budget | Benjamin Marie, PhD | Substack
- - [https://kaitchup.substack.com](https://kaitchup.substack.com)
- - date_published: 2023-10-25T09:56:18.279130+00:00
- - tags: ['substack']
-
- ## Kanekoa News | Substack
- - [https://kanekoa.substack.com](https://kanekoa.substack.com)
- - date_published: 2024-01-09T01:41:35.705314+00:00
-
- ## Nine Lives | Karawynn Long | Substack
- - [https://karawynn.substack.com](https://karawynn.substack.com)
- - date_published: 2024-01-09T01:41:39.328336+00:00
 

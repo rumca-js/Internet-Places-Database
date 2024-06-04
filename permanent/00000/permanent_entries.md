@@ -1174,6 +1174,10 @@
  - [https://freesubtitles.ai](https://freesubtitles.ai)
  - date_published: 2023-10-24T20:19:28.143608+00:00
 
+ ## Fritz ai - The best AI tools for writing, designing, development, and more
+ - [https://heartbeat.fritz.ai](https://heartbeat.fritz.ai)
+ - date_published: 2024-03-02T00:00:00+00:00
+
  ## fylm.ai - AI Powered Colour Grading and Collaboration in Cloud
  - [https://fylm.ai](https://fylm.ai)
  - date_published: 2023-10-25T11:39:00.490575+00:00
@@ -3169,6 +3173,10 @@
  - [https://www.citroen.co.ao](https://www.citroen.co.ao)
  - date_published: 2023-12-11T15:58:22.023737+00:00
 
+ ## Zero Data App
+ - [https://0data.app](https://0data.app)
+ - date_published: 2024-06-03T11:18:00.880792+00:00
+
  ## 1paragraph
  - [https://1paragraph.app](https://1paragraph.app)
  - date_published: 2023-10-25T11:45:28.341586+00:00
@@ -3230,6 +3238,10 @@
  ## Audiogest: Transcribe and summarize your audio and video
  - [https://audiogest.app](https://audiogest.app)
  - date_published: 2024-05-11T06:55:07.593290+00:00
+
+ ## Avain.app
+ - [https://avain.app](https://avain.app)
+ - date_published: 2024-06-03T11:17:56.677551+00:00
 
  ## Awtomic Subscriptions
  - [https://help.awtomatic.app](https://help.awtomatic.app)
@@ -3397,6 +3409,10 @@
  ## Title management for the modern book publisher | Consonance
  - [https://www.consonance.app](https://www.consonance.app)
  - date_published: 2024-04-29T07:49:48.991612+00:00
+
+ ## Contrax.app
+ - [https://contrax.app](https://contrax.app)
+ - date_published: 2024-06-03T11:18:08.746229+00:00
 
  ## Browse, organise, search and switch tabs with one simple shortcut
  - [https://controlspace.app](https://controlspace.app)
@@ -3566,6 +3582,10 @@
  ## Fable — The collaborative creative studio
  - [https://fable.app](https://fable.app)
  - date_published: 2024-05-06T00:00:00+00:00
+
+ ## farmOS Field Kit
+ - [https://farmos.app](https://farmos.app)
+ - date_published: 2024-06-03T11:19:01.917475+00:00
 
  ## Fedilab
  - [https://fedilab.app](https://fedilab.app)
@@ -4051,24 +4071,4 @@
  ## 2021 HD Color > CSS Camp < Talk by Adam Argyle
  - [https://2021-hd-color-at-css-camp.netlify.app](https://2021-hd-color-at-css-camp.netlify.app)
  - date_published: 2024-04-30T02:01:19.846709+00:00
-
- ## Hover Conf 2021 - Whats New In CSS
- - [https://2021-hover-conf-new-in-css.netlify.app](https://2021-hover-conf-new-in-css.netlify.app)
- - date_published: 2024-04-30T02:02:41.304652+00:00
-
- ## swyx.io home
- - [https://604bf32dcfdb601163498323--scout-videos-51664.netlify.app](https://604bf32dcfdb601163498323--scout-videos-51664.netlify.app)
- - date_published: 2024-05-06T14:00:49.019275+00:00
-
- ## swyx.io home
- - [https://604bfc8099765a1bd20fce77--scout-videos-51664.netlify.app](https://604bfc8099765a1bd20fce77--scout-videos-51664.netlify.app)
- - date_published: 2024-05-06T14:16:14.782902+00:00
-
- ## Introduction | a11y-dialog
- - [https://a11y-dialog.netlify.app](https://a11y-dialog.netlify.app)
- - date_published: 2023-07-22T00:00:00+00:00
-
- ## Home
- - [https://aatmunbaxi.netlify.app](https://aatmunbaxi.netlify.app)
- - date_published: 2024-04-28T06:12:13.574366+00:00
 

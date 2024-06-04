@@ -1,3 +1,79 @@
+ ## Comunicar para Mudar
+ - [https://comunicarparamudar.reporterbrasil.org.br](https://comunicarparamudar.reporterbrasil.org.br)
+ - date_published: 2024-01-09T02:27:01.376800+00:00
+
+ ## Mapa da Água: O que sai da sua torneira?
+ - [https://mapadaagua.reporterbrasil.org.br](https://mapadaagua.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:32:28.275445+00:00
+
+ ## Narcogarimpos – Especial – Narcogarimpos
+ - [https://narcogarimpos.reporterbrasil.org.br](https://narcogarimpos.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:34:35.359408+00:00
+
+ ## Nome aos Bois – Reporter Brasil
+ - [https://nomeaosbois.reporterbrasil.org.br](https://nomeaosbois.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:34:47.478056+00:00
+
+ ## Repórter Brasil
+ - [https://reporterbrasil.org.br](https://reporterbrasil.org.br)
+ - date_published: 2023-11-14T17:00:02.121596+00:00
+
+ ## Ruralômetro - Medindo a febre ruralista dos candidatos
+ - [https://ruralometro2018.reporterbrasil.org.br](https://ruralometro2018.reporterbrasil.org.br)
+ - date_published: 2024-05-10T03:48:46.273300+00:00
+
+ ## Ruralômetro 2022 - Ferramenta ajuda a escolher deputados
+ - [https://ruralometro2022.reporterbrasil.org.br](https://ruralometro2022.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:31:35.115572+00:00
+
+ ## Repórter Brasil
+ - [http://www.reporterbrasil.org.br](http://www.reporterbrasil.org.br)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## The Nature Conservancy
+ - [https://www.tnc.org.br](https://www.tnc.org.br)
+ - date_published: 2024-05-08T10:42:44.077294+00:00
+
+ ## Vocação - Você em Ação
+ - [https://www.vocacao.org.br](https://www.vocacao.org.br)
+ - date_published: 2024-05-07T14:58:15.444029+00:00
+
+ ## WWF-Brasil
+ - [https://www.wwf.org.br](https://www.wwf.org.br)
+ - date_published: 2024-05-07T23:56:56.112200+00:00
+
+ ## Paulo Ghiraldelli
+ - [http://ghiraldelli.pro.br](http://ghiraldelli.pro.br)
+ - date_published: 2024-05-07T18:22:04.178518+00:00
+
+ ## SHOUTcast Server
+ - [https://nos.radio.br](https://nos.radio.br)
+ - date_published: 2017-08-24T00:00:00+00:00
+
+ ## Baffa-2+ Computer
+ - [https://baffa-2p.baffa.tec.br](https://baffa-2p.baffa.tec.br)
+ - date_published: 2023-11-28T00:00:00+00:00
+
+ ## Darmowe szablony do wydrukowania i dostosowywania | Creative Center
+ - [https://www.creativecenter.brother](https://www.creativecenter.brother)
+ - date_published: 2024-05-02T11:28:15.164126+00:00
+
+ ## Industrial Garment Printer | Brother
+ - [https://garmentprinter.global.brother](https://garmentprinter.global.brother)
+ - date_published: 2024-05-02T11:35:25.463119+00:00
+
+ ## Welcome to Brother Global
+ - [https://global.brother](https://global.brother)
+ - date_published: 2024-05-02T11:25:26.280633+00:00
+
+ ## Industrial Sewing Machine | Brother
+ - [https://industrialsewingmachine.global.brother](https://industrialsewingmachine.global.brother)
+ - date_published: 2024-05-02T11:29:39.596747+00:00
+
+ ## Machine Tools | Brother
+ - [https://machinetool.global.brother](https://machinetool.global.brother)
+ - date_published: 2024-05-02T11:22:53.110007+00:00
+
  ## https://www.bahamas.gov.bs
  - [https://www.bahamas.gov.bs](https://www.bahamas.gov.bs)
  - date_published: 2024-02-08T17:59:29.118171+00:00
@@ -431,6 +507,11 @@
  - [https://www.benjaminrancourt.ca](https://www.benjaminrancourt.ca)
  - date_published: 2023-04-11T00:00:00+00:00
 
+ ## Java Decompiler
+ - [http://jd.benow.ca](http://jd.benow.ca)
+ - date_published: 2024-06-03T07:53:19.464256+00:00
+ - tags: ['java', 'reverse engineering', 'java decompiler']
+
  ## benui mastodon instance
  - [https://m.benui.ca](https://m.benui.ca)
  - date_published: 2024-05-08T12:34:33.090302+00:00
@@ -624,6 +705,10 @@
  ## https://cdrom.ca
  - [https://cdrom.ca](https://cdrom.ca)
  - date_published: 2023-01-01T00:00:00+00:00
+
+ ## Computational Geometry Lab - Index
+ - [http://cglab.ca](http://cglab.ca)
+ - date_published: 2024-06-03T06:26:38.573261+00:00
 
  ## Chase Payment Solutions | Chase Canada | chase.ca
  - [http://www.chase.ca](http://www.chase.ca)
@@ -974,6 +1059,10 @@
  ## eContact!
  - [https://econtact.ca](https://econtact.ca)
  - date_published: 2023-10-25T12:09:30.076113+00:00
+
+ ## eharmony dating site | Meet singles & find real love in the UK
+ - [https://www.eharmony.ca](https://www.eharmony.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
 
  ## Élections Canada en ligne - Elections Canada On-line
  - [https://elections.ca](https://elections.ca)
@@ -2015,6 +2104,22 @@
  ## rongrimes
  - [https://www.rongrimes.ca](https://www.rongrimes.ca)
  - date_published: 2024-01-09T00:11:46.895827+00:00
+
+ ## Emoji Log
+ - [https://emojilog.rosano.ca](https://emojilog.rosano.ca)
+ - date_published: 2024-06-03T11:21:14.034494+00:00
+
+ ## Hyperdraft
+ - [https://hyperdraft.rosano.ca](https://hyperdraft.rosano.ca)
+ - date_published: 2024-06-03T11:19:41.330247+00:00
+
+ ## Joybox
+ - [https://joybox.rosano.ca](https://joybox.rosano.ca)
+ - date_published: 2024-06-03T11:18:42.942296+00:00
+
+ ## Kommit
+ - [https://kommit.rosano.ca](https://kommit.rosano.ca)
+ - date_published: 2024-06-03T11:20:33.482633+00:00
 
  ## Rosano
  - [https://rosano.ca](https://rosano.ca)
@@ -3981,113 +4086,4 @@
  ## Toot.Cat
  - [https://toot.cat](https://toot.cat)
  - date_published: 2023-10-25T12:10:42.383525+00:00
-
- ## 0x44.cc · InfoSec, Reversing, and more
- - [https://0x44.cc](https://0x44.cc)
- - date_published: 2024-03-14T11:16:02.668575+00:00
- - tags: ['personal']
-
- ## Abominable | karlkerschl
- - [http://www.abominable.cc](http://www.abominable.cc)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## ACNH Fringe Fest
- - [https://acnhfringe.cc](https://acnhfringe.cc)
- - date_published: 2024-05-10T06:45:11.099751+00:00
-
- ## Arduino Blog
- - [https://blog.arduino.cc](https://blog.arduino.cc)
- - date_published: 2023-10-25T11:14:33.506767+00:00
-
- ## Arduino Cloud | Build, Control, Monitor Your IoT Projects
- - [https://cloud.arduino.cc](https://cloud.arduino.cc)
- - date_published: 2024-04-29T09:35:10.850667+00:00
-
- ## Arduino Cloud
- - [https://create.arduino.cc](https://create.arduino.cc)
- - date_published: 2024-04-29T09:34:34.331192+00:00
-
- ## Arduino Forum
- - [https://forum.arduino.cc](https://forum.arduino.cc)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Arduino - Home
- - [https://login.arduino.cc](https://login.arduino.cc)
- - date_published: 2024-04-29T09:35:17.766841+00:00
-
- ## Arduino Playground - HomePage
- - [http://playground.arduino.cc](http://playground.arduino.cc)
- - date_published: 2024-05-09T04:18:52.112456+00:00
-
- ## Arduino Project Hub
- - [https://projecthub.arduino.cc](https://projecthub.arduino.cc)
- - date_published: 2023-10-25T11:14:36.830518+00:00
- - tags: ['dyi', 'pronects']
-
- ## Arduino Official Store | Boards Shields Kits Accessories
- - [https://store.arduino.cc](https://store.arduino.cc)
- - date_published: 2023-10-25T11:14:39.964485+00:00
-
- ## Arduino Official Store | Boards Shields Kits Accessories
- - [https://store-usa.arduino.cc](https://store-usa.arduino.cc)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://support.arduino.cc](https://support.arduino.cc)
- - date_published: 2024-04-30T05:41:53.697776+00:00
-
- ## Arduino - Home
- - [https://www.arduino.cc](https://www.arduino.cc)
- - date_published: 2024-04-29T09:29:22+00:00
- - tags: ['microcontrollers', 'arduino']
-
- ## A hackable text editor for the 21st Century
- - [https://atom-editor.cc](https://atom-editor.cc)
- - date_published: 2023-12-11T12:08:34+00:00
- - tags: ['programming ide']
-
- ## Atom
- - [https://flight-manual.atom-editor.cc](https://flight-manual.atom-editor.cc)
- - date_published: 2024-04-30T05:42:12.116988+00:00
-
- ## GitHub for Atom
- - [https://github.atom-editor.cc](https://github.atom-editor.cc)
- - date_published: 2024-04-30T05:42:13.235252+00:00
-
- ## Code together in real time in Atom
- - [https://teletype.atom-editor.cc](https://teletype.atom-editor.cc)
- - date_published: 2024-04-30T05:42:17.681523+00:00
-
- ## Autonomi.cc
- - [https://autonomi.cc](https://autonomi.cc)
- - date_published: 2024-05-09T07:46:16.893873+00:00
-
- ## Bash Stack Documentation
- - [https://bashsta.cc](https://bashsta.cc)
- - date_published: 2023-10-25T12:10:44.064244+00:00
-
- ## Connect 4 MMO
- - [https://connect4.bashsta.cc](https://connect4.bashsta.cc)
- - date_published: 2024-04-30T05:42:21.376314+00:00
-
- ## Better by Design | Patrick Morgan | Substack
- - [https://www.betterbydesign.cc](https://www.betterbydesign.cc)
- - date_published: 2023-10-25T12:10:52.432204+00:00
-
- ## BitCore ... Voting Time
- - [https://bitcore.cc](https://bitcore.cc)
- - date_published: 2024-05-04T09:03:21.945576+00:00
-
- ## Hello | Ben's Blog
- - [https://ben.bolte.cc](https://ben.bolte.cc)
- - date_published: 2024-03-26T00:00:00+00:00
- - tags: ['personal']
-
- ## We move people to act on the most important issues of our time
- - [https://www.brandresponse.cc](https://www.brandresponse.cc)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Home | USA Business Directory
- - [https://usa.businessdirectory.cc](https://usa.businessdirectory.cc)
- - date_published: 2022-09-17T00:00:00+00:00
 
