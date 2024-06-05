@@ -1,3 +1,251 @@
+ ## Department of Electrical & Computer Engineering - Northeastern University
+ - [http://www.ece.neu.edu](http://www.ece.neu.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home - University of Nevada Press
+ - [https://unpress.nevada.edu](https://unpress.nevada.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home | NIU Newsroom
+ - [https://newsroom.niu.edu](https://newsroom.niu.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Homepage | Barbara and Leonard Littman Architecture and Design Library
+ - [https://archlib.njit.edu](https://archlib.njit.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Strategic Events and Conference Services | Conference Services
+ - [https://campuscenter.njit.edu](https://campuscenter.njit.edu)
+ - date_published: 2024-05-07T19:46:38.297602+00:00
+
+ ## Welcome | Research Institutes, Centers and Specialized Laboratories
+ - [https://centers.njit.edu](https://centers.njit.edu)
+ - date_published: 2024-05-07T19:46:48.376683+00:00
+
+ ## LDI Courses Archive
+ - [https://continuing.njit.edu](https://continuing.njit.edu)
+ - date_published: 2024-05-07T19:46:53.330351+00:00
+
+ ## Directory Search | People
+ - [http://directory.njit.edu](http://directory.njit.edu)
+ - date_published: 2024-05-07T19:46:46.639082+00:00
+
+ ## Home | Robert W. Van Houten Library
+ - [https://library.njit.edu](https://library.njit.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Webauth Authentication Service
+ - [http://my.njit.edu](http://my.njit.edu)
+ - date_published: 2016-07-26T00:00:00+00:00
+
+ ## NJIT News
+ - [https://news.njit.edu](https://news.njit.edu)
+ - date_published: 2023-12-24T14:21:23.481370+00:00
+
+ ## Research | Research
+ - [https://research.njit.edu](https://research.njit.edu)
+ - date_published: 2024-05-07T19:46:33.495049+00:00
+
+ ## Webauth Authentication Service
+ - [http://webmail.njit.edu](http://webmail.njit.edu)
+ - date_published: 2016-07-26T00:00:00+00:00
+
+ ## New Jersey Institute of Technology |
+ - [https://www.njit.edu](https://www.njit.edu)
+ - date_published: 2024-05-07T19:46:26.999979+00:00
+
+ ## ACES About Home
+ - [https://aces-about.nmsu.edu](https://aces-about.nmsu.edu)
+ - date_published: 2024-05-07T19:47:50.508147+00:00
+
+ ## Academic Programs Home
+ - [https://aces-academics.nmsu.edu](https://aces-academics.nmsu.edu)
+ - date_published: 2024-05-07T19:47:48.930373+00:00
+
+ ## For Employees Home
+ - [https://aces-employee.nmsu.edu](https://aces-employee.nmsu.edu)
+ - date_published: 2024-05-07T19:47:28.006281+00:00
+
+ ## Alumni and Giving Home
+ - [https://aces-giving.nmsu.edu](https://aces-giving.nmsu.edu)
+ - date_published: 2024-05-07T19:47:00.744286+00:00
+
+ ## 2022 News
+ - [https://aces-news.nmsu.edu](https://aces-news.nmsu.edu)
+ - date_published: 2024-05-07T19:47:38.778687+00:00
+
+ ## College of Agricultural, Consumer and Environmental Sciences | New Mexico State University
+ - [https://aces.nmsu.edu](https://aces.nmsu.edu)
+ - date_published: 2018-08-24T00:00:00+00:00
+
+ ## ACES Quick Links Home
+ - [https://aces-quicklinks.nmsu.edu](https://aces-quicklinks.nmsu.edu)
+ - date_published: 2024-05-07T19:47:26.404283+00:00
+
+ ## ACES Social Media Home
+ - [https://aces-socialmedia.nmsu.edu](https://aces-socialmedia.nmsu.edu)
+ - date_published: 2024-05-07T19:47:33.906326+00:00
+
+ ## AES Main Home
+ - [https://aes.nmsu.edu](https://aes.nmsu.edu)
+ - date_published: 2024-05-07T19:47:40.903224+00:00
+
+ ## Catron County Extension Office Home
+ - [https://catronextension.nmsu.edu](https://catronextension.nmsu.edu)
+ - date_published: 2024-02-08T17:58:40.694600+00:00
+
+ ## Desert Blooms Home
+ - [https://desertblooms.nmsu.edu](https://desertblooms.nmsu.edu)
+ - date_published: 2024-05-07T19:47:25.100209+00:00
+
+ ## #discoverNMSUextension Home
+ - [https://discovernmsuextension.nmsu.edu](https://discovernmsuextension.nmsu.edu)
+ - date_published: 2024-05-07T19:47:12.933939+00:00
+
+ ## CES Home
+ - [https://extension.nmsu.edu](https://extension.nmsu.edu)
+ - date_published: 2024-05-07T19:47:08.939342+00:00
+
+ ## Family Life Home
+ - [https://family.nmsu.edu](https://family.nmsu.edu)
+ - date_published: 2024-05-07T19:46:58.605702+00:00
+
+ ## Welcome to Hobbes
+ - [https://hobbes.nmsu.edu](https://hobbes.nmsu.edu)
+ - date_published: 2024-01-09T21:08:23.894605+00:00
+
+ ## Sign in to your account
+ - [https://inside.nmsu.edu](https://inside.nmsu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## LEADS 2025 Strategic Planning
+ - [https://leads2025.nmsu.edu](https://leads2025.nmsu.edu)
+ - date_published: 2024-05-07T19:47:47.251655+00:00
+
+ ## Learn | New Mexico State University
+ - [https://learn.nmsu.edu](https://learn.nmsu.edu)
+ - date_published: 2024-05-07T19:47:18.341354+00:00
+
+ ## Library | NMSU
+ - [http://lib.nmsu.edu](http://lib.nmsu.edu)
+ - date_published: 2024-05-07T19:47:42.772572+00:00
+
+ ## Sign in to Outlook
+ - [http://mail.nmsu.edu](http://mail.nmsu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## New Mexico State University
+ - [https://map.nmsu.edu](https://map.nmsu.edu)
+ - date_published: 2024-05-07T19:47:57.434600+00:00
+
+ ## NMSU: Accounts
+ - [https://myaccount.nmsu.edu](https://myaccount.nmsu.edu)
+ - date_published: 2024-05-07T19:47:30.973237+00:00
+
+ ## my.nmsu.edu
+ - [https://my.nmsu.edu](https://my.nmsu.edu)
+ - date_published: 2024-05-07T19:47:16.602907+00:00
+
+ ## 4-H Home
+ - [https://nm4h.nmsu.edu](https://nm4h.nmsu.edu)
+ - date_published: 2024-05-07T19:46:56.710859+00:00
+
+ ## NM Beef Home
+ - [https://nmbeef.nmsu.edu](https://nmbeef.nmsu.edu)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## New Mexico State University | BE BOLD. Shape the Future.
+ - [https://nmsu.edu](https://nmsu.edu)
+ - date_published: 2024-05-07T19:47:23.389773+00:00
+
+ ## Aggie One Stop
+ - [https://onestop.nmsu.edu](https://onestop.nmsu.edu)
+ - date_published: 2024-05-07T19:47:53.681436+00:00
+
+ ## SWBFPEPC Home
+ - [https://preparedness.nmsu.edu](https://preparedness.nmsu.edu)
+ - date_published: 2024-05-07T19:47:32.294377+00:00
+
+ ## Publications | CES
+ - [https://pubs.nmsu.edu](https://pubs.nmsu.edu)
+ - date_published: 2024-05-07T19:47:14.337909+00:00
+
+ ## Home | New Mexico State University - BE BOLD. Shape the Future.
+ - [https://records.nmsu.edu](https://records.nmsu.edu)
+ - date_published: 2024-05-07T19:47:29.219047+00:00
+
+ ## Sam Steel Society Home
+ - [https://samsteel.nmsu.edu](https://samsteel.nmsu.edu)
+ - date_published: 2024-05-07T19:47:35.078081+00:00
+
+ ## Valencia County Extension Office Home
+ - [http://valenciaextension.nmsu.edu](http://valenciaextension.nmsu.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Untitled Document
+ - [https://www.cs.nmsu.edu](https://www.cs.nmsu.edu)
+ - date_published: 2024-06-03T06:27:56.289531+00:00
+
+ ## New Mexico State University | BE BOLD. Shape the Future.
+ - [https://www.nmsu.edu](https://www.nmsu.edu)
+ - date_published: 2024-05-07T19:47:55.556660+00:00
+
+ ## About the EPIC | EarthScope Primary Instrument Center
+ - [https://www.passcal.nmt.edu](https://www.passcal.nmt.edu)
+ - date_published: 2024-05-09T07:09:20.926833+00:00
+
+ ## Public University in Michigan | Northern Michigan University
+ - [https://www.nmu.edu](https://www.nmu.edu)
+ - date_published: 2024-05-08T04:30:43.607589+00:00
+
+ ## Welcome! - The Mathematics Genealogy Project
+ - [http://genealogy.math.ndsu.nodak.edu](http://genealogy.math.ndsu.nodak.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.noirlab.edu](https://matomo.noirlab.edu)
+ - date_published: 2024-05-07T19:48:05.266631+00:00
+
+ ## NOIRLab / NSF’s National Optical-IR Astronomy Research Laboratory
+ - [https://noirlab.edu](https://noirlab.edu)
+ - date_published: 2024-01-09T02:59:27.072163+00:00
+
+ ## NOIRLab / NSF’s National Optical-IR Astronomy Research Laboratory
+ - [https://www.noirlab.edu](https://www.noirlab.edu)
+ - date_published: 2024-05-07T19:48:11.614482+00:00
+
+ ## NOLS | The Leader in Wilderness Education
+ - [http://www.nols.edu](http://www.nols.edu)
+ - date_published: 2024-05-10T06:59:56.449167+00:00
+
+ ## UNC System – UNC System
+ - [https://www.northcarolina.edu](https://www.northcarolina.edu)
+ - date_published: 2024-05-07T21:38:45.841567+00:00
+
+ ## Home - Northeastern University College of Science
+ - [https://cos.northeastern.edu](https://cos.northeastern.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## CV4Smalls Workshop – Just another Sites at Northeastern site
+ - [https://cv4smalls.sites.northeastern.edu](https://cv4smalls.sites.northeastern.edu)
+ - date_published: 2024-01-07T00:00:00+00:00
+
+ ## Department of Electrical & Computer Engineering - Northeastern University
+ - [https://ece.northeastern.edu](https://ece.northeastern.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home - Khoury College of Computer Sciences
+ - [https://khoury.northeastern.edu](https://khoury.northeastern.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Northeastern Global News - News, Discovery, and Analysis from Around the World
+ - [https://news.northeastern.edu](https://news.northeastern.edu)
+ - date_published: 2023-10-25T18:55:44.990462+00:00
+
+ ## Home - Northeastern University
+ - [https://northeastern.edu](https://northeastern.edu)
+ - date_published: 2024-05-02T10:14:10.515291+00:00
+
  ## Home - Programming Research Laboratory - Northeastern University
  - [https://prl.khoury.northeastern.edu](https://prl.khoury.northeastern.edu)
  - date_published: 2023-10-25T18:55:46.864652+00:00
@@ -3760,263 +4008,4 @@
  ## MyAdmissions | UC Davis
  - [https://myadmissions.ucdavis.edu](https://myadmissions.ucdavis.edu)
  - date_published: 2024-05-07T20:44:33.426787+00:00
-
- ## myucdavis
- - [https://my.ucdavis.edu](https://my.ucdavis.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Orientation
- - [http://orientation.ucdavis.edu](http://orientation.ucdavis.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Search Results -
-        UC Davis Health
- - [https://physicians.ucdavis.edu](https://physicians.ucdavis.edu)
- - date_published: 2024-05-07T20:43:09.723076+00:00
-
- ## Welcome - AP Recruit
- - [https://recruit.ucdavis.edu](https://recruit.ucdavis.edu)
- - date_published: 2024-05-07T20:43:12.170875+00:00
-
- ## Office of the University Registrar (OUR)
- - [https://registrar.ucdavis.edu](https://registrar.ucdavis.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## UC Davis Office of Research - Davis, California - University
- - [https://research.ucdavis.edu](https://research.ucdavis.edu)
- - date_published: 2024-05-07T20:44:57.360595+00:00
-
- ## Learning & Organizational Development
- - [http://sdps.ucdavis.edu](http://sdps.ucdavis.edu)
- - date_published: 2022-09-27T20:45:36+00:00
-
- ## Student Health and Counseling Services
- - [https://shcs.ucdavis.edu](https://shcs.ucdavis.edu)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Sisweb, the student information system on the web
- - [https://sisweb.ucdavis.edu](https://sisweb.ucdavis.edu)
- - date_published: 2024-05-07T20:44:18.105436+00:00
-
- ## Home | SiteFarm
- - [https://sitefarm.ucdavis.edu](https://sitefarm.ucdavis.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## System Support Group (SSG)
- - [http://ssg.cs.ucdavis.edu](http://ssg.cs.ucdavis.edu)
- - date_published: 2024-01-13T00:00:00+00:00
-
- ## Staff Assembly
- - [http://staff.ucdavis.edu](http://staff.ucdavis.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Student Parent Resources
- - [https://studentparents.ucdavis.edu](https://studentparents.ucdavis.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Transfer Admission Guarantee
- - [http://tag.ucdavis.edu](http://tag.ucdavis.edu)
- - date_published: 2021-03-02T17:52:06+00:00
-
- ## Tahoe Environmental Research Center
- - [https://tahoe.ucdavis.edu](https://tahoe.ucdavis.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## UC Davis
- - [http://ucdavis.edu](http://ucdavis.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home | UC Davis Magazine
- - [http://ucdavismagazine.ucdavis.edu](http://ucdavismagazine.ucdavis.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Undergraduate Research Center | Undergraduate Research Center
- - [https://urc.ucdavis.edu](https://urc.ucdavis.edu)
- - date_published: 2024-05-07T20:44:22.520926+00:00
-
- ## Visit UC Davis
- - [http://visit.ucdavis.edu](http://visit.ucdavis.edu)
- - date_published: 2021-01-08T22:29:29+00:00
-
- ## Computer Science
- - [https://web.cs.ucdavis.edu](https://web.cs.ucdavis.edu)
- - date_published: 2023-10-25T18:59:47.853350+00:00
-
- ## UC Davis Alumni and Affiliate Relations
- - [http://www.alumni.ucdavis.edu](http://www.alumni.ucdavis.edu)
- - date_published: 2024-05-07T20:44:29.781847+00:00
-
- ## Computer Science
- - [https://www.cs.ucdavis.edu](https://www.cs.ucdavis.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## School of Law
- - [https://www.law.ucdavis.edu](https://www.law.ucdavis.edu)
- - date_published: 2024-05-09T02:38:25.218545+00:00
-
- ## UC Davis | California's College Town
- - [https://www.ucdavis.edu](https://www.ucdavis.edu)
- - date_published: 2023-10-25T18:59:54.439947+00:00
-
- ## UC Davis Health | University of California, Davis
- - [http://www.ucdmc.ucdavis.edu](http://www.ucdmc.ucdavis.edu)
- - date_published: 2024-05-07T20:44:40.873243+00:00
-
- ## UC Davis School of Veterinary Medicine
- - [http://www.vetmed.ucdavis.edu](http://www.vetmed.ucdavis.edu)
- - date_published: 2024-05-07T20:45:35.013277+00:00
-
- ## E-Directory
- - [https://directory.ucdenver.edu](https://directory.ucdenver.edu)
- - date_published: 2024-04-30T04:02:27.047675+00:00
-
- ## Sign in to Outlook
- - [http://myemail.ucdenver.edu](http://myemail.ucdenver.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## University of Colorado Denver | CU Denver
- - [http://ucdenver.edu](http://ucdenver.edu)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## University of Colorado Denver | CU Denver
- - [https://www.ucdenver.edu](https://www.ucdenver.edu)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Advising
- - [https://appleseed.cs.ucf.edu](https://appleseed.cs.ucf.edu)
- - date_published: 2024-05-11T07:18:07.290047+00:00
-
- ## Autonomous and Intelligent Systems – Just another WordPress site
- - [https://eecs.ucf.edu](https://eecs.ucf.edu)
- - date_published: 2024-01-09T03:28:03.267934+00:00
-
- ## Home - College of Graduate Studies
- - [https://graduate.ucf.edu](https://graduate.ucf.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## University of Central Florida Pressbooks – A Resource for Academic & Educational Publishing at UCF
- - [https://pressbooks.online.ucf.edu](https://pressbooks.online.ucf.edu)
- - date_published: 2024-05-02T09:55:32.588928+00:00
-
- ## Department of Computer Science
- - [http://www.cs.ucf.edu](http://www.cs.ucf.edu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## University of Central Florida | Top-Ranked by U.S News & World Reports
- - [https://www.ucf.edu](https://www.ucf.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Access UChicago Now | The University of Chicago
- - [https://accessibility.uchicago.edu](https://accessibility.uchicago.edu)
- - date_published: 2024-05-07T20:45:44.535009+00:00
-
- ## Home | UChicago Alumni Weekend
- - [https://alumniweekend.uchicago.edu](https://alumniweekend.uchicago.edu)
- - date_published: 2024-05-07T14:13:58.243002+00:00
-
- ## Admissions - UChicagoGRAD | The University of Chicago
- - [https://apply-psd.uchicago.edu](https://apply-psd.uchicago.edu)
- - date_published: 2024-05-07T20:46:36.545286+00:00
-
- ## Becker Friedman Institute for Economics at University of Chicago — Frontier Research, Global Impact. | BFI
- - [https://bfi.uchicago.edu](https://bfi.uchicago.edu)
- - date_published: 2023-10-25T18:59:59.078924+00:00
-
- ## Biological Sciences Division at the University of Chicago
- - [https://biologicalsciences.uchicago.edu](https://biologicalsciences.uchicago.edu)
- - date_published: 2023-11-27T16:10:30.419743+00:00
-
- ## UChicago Biosciences | The University of Chicago
- - [https://biosciences.uchicago.edu](https://biosciences.uchicago.edu)
- - date_published: 2024-05-07T20:46:05.638600+00:00
-
- ## Biological Sciences Collegiate Division
- - [https://bscd.uchicago.edu](https://bscd.uchicago.edu)
- - date_published: 2024-05-07T20:46:08.412983+00:00
-
- ## Home
- - [https://bsdis.uchicago.edu](https://bsdis.uchicago.edu)
- - date_published: 2024-05-07T20:46:01.960212+00:00
-
- ## Biological Sciences Postdoctoral Affairs and Association – Providing career and professional development training to BSD postdocs
- - [https://bsdpostdoc.uchicago.edu](https://bsdpostdoc.uchicago.edu)
- - date_published: 2024-05-07T20:45:58.533847+00:00
-
- ## Search Home :: Library Catalog
- - [https://catalog.lib.uchicago.edu](https://catalog.lib.uchicago.edu)
- - date_published: 2024-05-07T20:52:33.373077+00:00
-
- ## Center for Continuing Medical Education |
- - [https://cme.uchicago.edu](https://cme.uchicago.edu)
- - date_published: 2024-05-07T20:46:10.878930+00:00
-
- ## Ecology & Evolution | The University of Chicago
- - [https://ecologyandevolution.uchicago.edu](https://ecologyandevolution.uchicago.edu)
- - date_published: 2024-05-07T14:14:13.363606+00:00
-
- ## Calendar of Events | The University of Chicago
- - [https://events.uchicago.edu](https://events.uchicago.edu)
- - date_published: 2024-05-07T20:46:00.260987+00:00
-
- ## Financial Mathematics | The University of Chicago
- - [https://finmath.uchicago.edu](https://finmath.uchicago.edu)
- - date_published: 2024-05-01T04:44:01.419765+00:00
-
- ## Geophysical Sciences
- - [https://geosci.uchicago.edu](https://geosci.uchicago.edu)
- - date_published: 2023-10-25T19:00:02.742597+00:00
-
- ## Homepage
- - [https://givetomedicine.uchicago.edu](https://givetomedicine.uchicago.edu)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Glaze - Protecting Artists from Generative AI
- - [https://glaze.cs.uchicago.edu](https://glaze.cs.uchicago.edu)
- - date_published: 2023-10-25T19:00:05.496930+00:00
-
- ## Home - UChicagoGRAD | The University of Chicago
- - [https://grad.uchicago.edu](https://grad.uchicago.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Welcome to
- - [https://graham.uchicago.edu](https://graham.uchicago.edu)
- - date_published: 2024-05-07T20:46:53.098712+00:00
-
- ## Library Guides: Research Guides: Subject Guides
- - [https://guides.lib.uchicago.edu](https://guides.lib.uchicago.edu)
- - date_published: 2024-05-07T20:52:31.938288+00:00
-
- ## Harris | The University of Chicago Harris School of Public Policy
- - [http://harris.uchicago.edu](http://harris.uchicago.edu)
- - date_published: 2024-05-08T00:13:10.966049+00:00
-
- ## IFK
- - [https://ifk.uchicago.edu](https://ifk.uchicago.edu)
- - date_published: 2024-02-24T18:19:38.969915+00:00
-
- ## Knowledge UChicago
- - [https://knowledge.uchicago.edu](https://knowledge.uchicago.edu)
- - date_published: 2024-05-07T20:52:28.163602+00:00
-
- ## Neuroscience at the University of Chicago
- - [https://neuroscience.uchicago.edu](https://neuroscience.uchicago.edu)
- - date_published: 2024-05-07T20:46:04.000431+00:00
-
- ## News
-                
-            
-            
-                
-                    
-                        - The University of Chicago Library News
-                    
-                
-            
-            - The University of Chicago Library
- - [http://news.lib.uchicago.edu](http://news.lib.uchicago.edu)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## University of Chicago News
- - [https://news.uchicago.edu](https://news.uchicago.edu)
- - date_published: 2023-10-25T19:00:12.204385+00:00
 

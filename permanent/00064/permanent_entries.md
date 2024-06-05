@@ -1,3 +1,253 @@
+ ## Sites@GeorgiaTech
+ - [https://sites.gatech.edu](https://sites.gatech.edu)
+ - date_published: 2024-04-30T04:18:23.519546+00:00
+
+ ## Welcome | Special Events
+ - [https://specialevents.gatech.edu](https://specialevents.gatech.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home | STUDENT LIFE
+ - [https://studentlife.gatech.edu](https://studentlife.gatech.edu)
+ - date_published: 2024-04-30T04:19:30.644896+00:00
+
+ ## Equity and Compliance Programs | Equity & Compliance Programs
+ - [https://titleix.gatech.edu](https://titleix.gatech.edu)
+ - date_published: 2024-04-30T04:17:17.251284+00:00
+
+ ## Home | Office of Information Technology
+ - [https://twofactor.oit.gatech.edu](https://twofactor.oit.gatech.edu)
+ - date_published: 2024-05-01T07:16:31.936347+00:00
+
+ ## Vortex: OpenCL Compatible RISC-V Gpgpu
+ - [https://vortex.cc.gatech.edu](https://vortex.cc.gatech.edu)
+ - date_published: 2024-04-11T16:19:20+00:00
+
+ ## College of Computing | Involvement, Innovation and Impact
+ - [https://www.cc.gatech.edu](https://www.cc.gatech.edu)
+ - date_published: 2023-11-26T01:05:44.391396+00:00
+
+ ## Welcome
+ - [https://www.gatech.edu](https://www.gatech.edu)
+ - date_published: 2024-04-28T04:00:35.395154+00:00
+
+ ## Online Master of Science in Computer Science (OMSCS)
+ - [http://www.omscs.gatech.edu](http://www.omscs.gatech.edu)
+ - date_published: 2024-05-06T13:41:51.495789+00:00
+
+ ## Home Page | Policy Library
+ - [https://www.policylibrary.gatech.edu](https://www.policylibrary.gatech.edu)
+ - date_published: 2024-04-30T04:17:47.439005+00:00
+
+ ## login home page - default - Main View | Home Page | Campus Web
+ - [https://campusweb.gbc.edu](https://campusweb.gbc.edu)
+ - date_published: 2024-04-30T04:20:18.705462+00:00
+
+ ## Goldey-Beacom College
+ - [https://www.gbc.edu](https://www.gbc.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Home Page - Accessibility at Georgetown
+ - [https://accessibility.georgetown.edu](https://accessibility.georgetown.edu)
+ - date_published: 2024-05-11T07:22:42.660229+00:00
+
+ ## Home Page - Biomedical Graduate Education
+ - [https://biomedicalprograms.georgetown.edu](https://biomedicalprograms.georgetown.edu)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Home Page - Biomedical and Health Sciences
+ - [https://biomedicalresearch.georgetown.edu](https://biomedicalresearch.georgetown.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Homepage
+ - [https://chinaforum.georgetown.edu](https://chinaforum.georgetown.edu)
+ - date_published: 2024-05-04T11:46:00.311110+00:00
+
+ ## CSET | Center for Security and Emerging Technology
+ - [https://cset.georgetown.edu](https://cset.georgetown.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home Page - Dahlgren Memorial Library
+ - [https://dml.georgetown.edu](https://dml.georgetown.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Events - Georgetown University
+ - [http://guevents.georgetown.edu](http://guevents.georgetown.edu)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Georgetown University Faculty Directory
+ - [https://gufaculty360.georgetown.edu](https://gufaculty360.georgetown.edu)
+ - date_published: 2024-05-11T07:22:33.544336+00:00
+
+ ## Home Page - Georgetown University Medical Center
+ - [https://gumc.georgetown.edu](https://gumc.georgetown.edu)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Home Page - School of Health
+ - [https://health.georgetown.edu](https://health.georgetown.edu)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Home Page - Innovation Center for Biomedical Informatics
+ - [https://icbi.georgetown.edu](https://icbi.georgetown.edu)
+ - date_published: 2024-05-02T12:54:49.491417+00:00
+
+ ## Home Page - Institutional Diversity, Equity & Affirmative Action
+ - [https://ideaa.georgetown.edu](https://ideaa.georgetown.edu)
+ - date_published: 2024-05-11T07:22:12.283502+00:00
+ - tags: ['dei']
+
+ ## ir@Georgetown - Home
+ - [http://ir.cs.georgetown.edu](http://ir.cs.georgetown.edu)
+ - date_published: 2024-05-02T12:54:55.813113+00:00
+
+ ## Home Page | Georgetown University Library
+ - [https://library.georgetown.edu](https://library.georgetown.edu)
+ - date_published: 2024-05-12T07:26:18.286613+00:00
+
+ ## Home Page - Lombardi Comprehensive Cancer Center
+ - [https://lombardi.georgetown.edu](https://lombardi.georgetown.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Georgetown University Campus Map
+ - [http://maps.georgetown.edu](http://maps.georgetown.edu)
+ - date_published: 2024-05-02T12:55:05.726685+00:00
+
+ ## Home Page - School of Nursing
+ - [https://nursing.georgetown.edu](https://nursing.georgetown.edu)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Joint Office of Research Administration (JORA) - Georgetown Research Services
+ - [https://osr.gumc.georgetown.edu](https://osr.gumc.georgetown.edu)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## DigitalGeorgetown Home
+ - [https://repository.library.georgetown.edu](https://repository.library.georgetown.edu)
+ - date_published: 2024-04-05T18:55:25.692886+00:00
+
+ ## Search - Georgetown University
+ - [https://search.georgetown.edu](https://search.georgetown.edu)
+ - date_published: 2024-05-11T07:22:44.344735+00:00
+
+ ## Search - Georgetown University
+ - [https://search.uis.georgetown.edu](https://search.uis.georgetown.edu)
+ - date_published: 2024-05-11T07:22:36.935626+00:00
+
+ ## Home Page - School of Medicine
+ - [https://som.georgetown.edu](https://som.georgetown.edu)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Georgetown Today - Georgetown Today
+ - [https://today.advancement.georgetown.edu](https://today.advancement.georgetown.edu)
+ - date_published: 2024-05-11T07:22:18.614196+00:00
+
+ ## Georgetown University in Washington DC
+ - [https://www.georgetown.edu](https://www.georgetown.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home Page | Georgetown University Library
+ - [https://www.library.georgetown.edu](https://www.library.georgetown.edu)
+ - date_published: 2024-05-12T07:26:19.938003+00:00
+
+ ## Georgia Southern University | A Public Research University
+ - [https://www.georgiasouthern.edu](https://www.georgiasouthern.edu)
+ - date_published: 2014-05-30T17:42:01+00:00
+
+ ## Getty: Resources for Visual Art and Cultural Heritage
+ - [https://getty.edu](https://getty.edu)
+ - date_published: 2024-01-09T02:59:10.633338+00:00
+
+ ## The Getty Museum Store
+ - [https://shop.getty.edu](https://shop.getty.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://subscriptions.getty.edu](https://subscriptions.getty.edu)
+ - date_published: 2024-04-30T04:25:35.695582+00:00
+
+ ## Getty: Resources for Visual Art and Cultural Heritage
+ - [https://www.getty.edu](https://www.getty.edu)
+ - date_published: 2023-10-25T18:51:15.051347+00:00
+
+ ## Speech Accent Archive
+ - [http://accent.gmu.edu](http://accent.gmu.edu)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Accessibility @ Mason – George Mason University
+ - [https://accessibility.gmu.edu](https://accessibility.gmu.edu)
+ - date_published: 2024-04-30T04:25:54.131087+00:00
+
+ ## Home Page - Academic Advising
+ - [https://advising.gmu.edu](https://advising.gmu.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Home Page
+ - [http://alumni.gmu.edu](http://alumni.gmu.edu)
+ - date_published: 2024-04-30T04:29:06.154024+00:00
+
+ ## Home
+ - [https://careers.gmu.edu](https://careers.gmu.edu)
+ - date_published: 2024-04-30T04:28:28.079759+00:00
+
+ ## Cashier’s Office – Student Accounts Office
+ - [http://cashiersoffice.gmu.edu](http://cashiersoffice.gmu.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## George Mason University < George Mason University
+ - [https://catalog.gmu.edu](https://catalog.gmu.edu)
+ - date_published: 2024-04-30T04:28:32.203342+00:00
+
+ ## CEC
+ - [https://cec.gmu.edu](https://cec.gmu.edu)
+ - date_published: 2024-04-30T04:25:41.501650+00:00
+
+ ## Event Calendar
+ - [https://cfa.calendar.gmu.edu](https://cfa.calendar.gmu.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Home
+ - [https://chhs.gmu.edu](https://chhs.gmu.edu)
+ - date_published: 2024-04-30T04:27:23.529467+00:00
+
+ ## 2024 Peak Bloom Predictions - International Cherry Blossom Prediction Competition
+ - [https://competition.statistics.gmu.edu](https://competition.statistics.gmu.edu)
+ - date_published: 2024-03-01T20:30:41+00:00
+
+ ## Home
+ - [https://computing.gmu.edu](https://computing.gmu.edu)
+ - date_published: 2024-04-30T04:25:46.875464+00:00
+
+ ## Home
+ - [https://content.sitemasonry.gmu.edu](https://content.sitemasonry.gmu.edu)
+ - date_published: 2024-04-30T04:28:19.070514+00:00
+
+ ## Yotam Gingold - Computational Reality, Creativity and Graphics Lab (CraGL)
+ - [https://cragl.cs.gmu.edu](https://cragl.cs.gmu.edu)
+ - date_published: 2024-04-28T03:54:50.045737+00:00
+
+ ## Home |
+             George Mason Department of Computer Science
+ - [https://cs.gmu.edu](https://cs.gmu.edu)
+ - date_published: 2024-01-09T02:59:13.641642+00:00
+
+ ## Home
+ - [https://cvpa.gmu.edu](https://cvpa.gmu.edu)
+ - date_published: 2024-04-30T04:28:49.181719+00:00
+
+ ## Home
+ - [https://diversity.gmu.edu](https://diversity.gmu.edu)
+ - date_published: 2024-04-30T04:26:08.756307+00:00
+
+ ## Home
+ - [https://faculty.gmu.edu](https://faculty.gmu.edu)
+ - date_published: 2024-04-30T04:28:26.008796+00:00
+
+ ## Fiscal Services – George Mason University
+ - [https://fiscal.gmu.edu](https://fiscal.gmu.edu)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Home
+ - [https://gch.gmu.edu](https://gch.gmu.edu)
+ - date_published: 2024-04-30T04:27:37.154365+00:00
+
  ## Home
  - [https://gmu.edu](https://gmu.edu)
  - date_published: 2024-04-30T04:28:24.321720+00:00
@@ -3766,252 +4016,4 @@ Data Services
  ## NEU PRL
  - [https://prl.ccs.neu.edu](https://prl.ccs.neu.edu)
  - date_published: 2024-05-07T19:48:15.637520+00:00
-
- ## Department of Electrical & Computer Engineering - Northeastern University
- - [http://www.ece.neu.edu](http://www.ece.neu.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Home - University of Nevada Press
- - [https://unpress.nevada.edu](https://unpress.nevada.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home | NIU Newsroom
- - [https://newsroom.niu.edu](https://newsroom.niu.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Homepage | Barbara and Leonard Littman Architecture and Design Library
- - [https://archlib.njit.edu](https://archlib.njit.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Strategic Events and Conference Services | Conference Services
- - [https://campuscenter.njit.edu](https://campuscenter.njit.edu)
- - date_published: 2024-05-07T19:46:38.297602+00:00
-
- ## Welcome | Research Institutes, Centers and Specialized Laboratories
- - [https://centers.njit.edu](https://centers.njit.edu)
- - date_published: 2024-05-07T19:46:48.376683+00:00
-
- ## LDI Courses Archive
- - [https://continuing.njit.edu](https://continuing.njit.edu)
- - date_published: 2024-05-07T19:46:53.330351+00:00
-
- ## Directory Search | People
- - [http://directory.njit.edu](http://directory.njit.edu)
- - date_published: 2024-05-07T19:46:46.639082+00:00
-
- ## Home | Robert W. Van Houten Library
- - [https://library.njit.edu](https://library.njit.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Webauth Authentication Service
- - [http://my.njit.edu](http://my.njit.edu)
- - date_published: 2016-07-26T00:00:00+00:00
-
- ## NJIT News
- - [https://news.njit.edu](https://news.njit.edu)
- - date_published: 2023-12-24T14:21:23.481370+00:00
-
- ## Research | Research
- - [https://research.njit.edu](https://research.njit.edu)
- - date_published: 2024-05-07T19:46:33.495049+00:00
-
- ## Webauth Authentication Service
- - [http://webmail.njit.edu](http://webmail.njit.edu)
- - date_published: 2016-07-26T00:00:00+00:00
-
- ## New Jersey Institute of Technology |
- - [https://www.njit.edu](https://www.njit.edu)
- - date_published: 2024-05-07T19:46:26.999979+00:00
-
- ## ACES About Home
- - [https://aces-about.nmsu.edu](https://aces-about.nmsu.edu)
- - date_published: 2024-05-07T19:47:50.508147+00:00
-
- ## Academic Programs Home
- - [https://aces-academics.nmsu.edu](https://aces-academics.nmsu.edu)
- - date_published: 2024-05-07T19:47:48.930373+00:00
-
- ## For Employees Home
- - [https://aces-employee.nmsu.edu](https://aces-employee.nmsu.edu)
- - date_published: 2024-05-07T19:47:28.006281+00:00
-
- ## Alumni and Giving Home
- - [https://aces-giving.nmsu.edu](https://aces-giving.nmsu.edu)
- - date_published: 2024-05-07T19:47:00.744286+00:00
-
- ## 2022 News
- - [https://aces-news.nmsu.edu](https://aces-news.nmsu.edu)
- - date_published: 2024-05-07T19:47:38.778687+00:00
-
- ## College of Agricultural, Consumer and Environmental Sciences | New Mexico State University
- - [https://aces.nmsu.edu](https://aces.nmsu.edu)
- - date_published: 2018-08-24T00:00:00+00:00
-
- ## ACES Quick Links Home
- - [https://aces-quicklinks.nmsu.edu](https://aces-quicklinks.nmsu.edu)
- - date_published: 2024-05-07T19:47:26.404283+00:00
-
- ## ACES Social Media Home
- - [https://aces-socialmedia.nmsu.edu](https://aces-socialmedia.nmsu.edu)
- - date_published: 2024-05-07T19:47:33.906326+00:00
-
- ## AES Main Home
- - [https://aes.nmsu.edu](https://aes.nmsu.edu)
- - date_published: 2024-05-07T19:47:40.903224+00:00
-
- ## Catron County Extension Office Home
- - [https://catronextension.nmsu.edu](https://catronextension.nmsu.edu)
- - date_published: 2024-02-08T17:58:40.694600+00:00
-
- ## Desert Blooms Home
- - [https://desertblooms.nmsu.edu](https://desertblooms.nmsu.edu)
- - date_published: 2024-05-07T19:47:25.100209+00:00
-
- ## #discoverNMSUextension Home
- - [https://discovernmsuextension.nmsu.edu](https://discovernmsuextension.nmsu.edu)
- - date_published: 2024-05-07T19:47:12.933939+00:00
-
- ## CES Home
- - [https://extension.nmsu.edu](https://extension.nmsu.edu)
- - date_published: 2024-05-07T19:47:08.939342+00:00
-
- ## Family Life Home
- - [https://family.nmsu.edu](https://family.nmsu.edu)
- - date_published: 2024-05-07T19:46:58.605702+00:00
-
- ## Welcome to Hobbes
- - [https://hobbes.nmsu.edu](https://hobbes.nmsu.edu)
- - date_published: 2024-01-09T21:08:23.894605+00:00
-
- ## Sign in to your account
- - [https://inside.nmsu.edu](https://inside.nmsu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## LEADS 2025 Strategic Planning
- - [https://leads2025.nmsu.edu](https://leads2025.nmsu.edu)
- - date_published: 2024-05-07T19:47:47.251655+00:00
-
- ## Learn | New Mexico State University
- - [https://learn.nmsu.edu](https://learn.nmsu.edu)
- - date_published: 2024-05-07T19:47:18.341354+00:00
-
- ## Library | NMSU
- - [http://lib.nmsu.edu](http://lib.nmsu.edu)
- - date_published: 2024-05-07T19:47:42.772572+00:00
-
- ## Sign in to Outlook
- - [http://mail.nmsu.edu](http://mail.nmsu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## New Mexico State University
- - [https://map.nmsu.edu](https://map.nmsu.edu)
- - date_published: 2024-05-07T19:47:57.434600+00:00
-
- ## NMSU: Accounts
- - [https://myaccount.nmsu.edu](https://myaccount.nmsu.edu)
- - date_published: 2024-05-07T19:47:30.973237+00:00
-
- ## my.nmsu.edu
- - [https://my.nmsu.edu](https://my.nmsu.edu)
- - date_published: 2024-05-07T19:47:16.602907+00:00
-
- ## 4-H Home
- - [https://nm4h.nmsu.edu](https://nm4h.nmsu.edu)
- - date_published: 2024-05-07T19:46:56.710859+00:00
-
- ## NM Beef Home
- - [https://nmbeef.nmsu.edu](https://nmbeef.nmsu.edu)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## New Mexico State University | BE BOLD. Shape the Future.
- - [https://nmsu.edu](https://nmsu.edu)
- - date_published: 2024-05-07T19:47:23.389773+00:00
-
- ## Aggie One Stop
- - [https://onestop.nmsu.edu](https://onestop.nmsu.edu)
- - date_published: 2024-05-07T19:47:53.681436+00:00
-
- ## SWBFPEPC Home
- - [https://preparedness.nmsu.edu](https://preparedness.nmsu.edu)
- - date_published: 2024-05-07T19:47:32.294377+00:00
-
- ## Publications | CES
- - [https://pubs.nmsu.edu](https://pubs.nmsu.edu)
- - date_published: 2024-05-07T19:47:14.337909+00:00
-
- ## Home | New Mexico State University - BE BOLD. Shape the Future.
- - [https://records.nmsu.edu](https://records.nmsu.edu)
- - date_published: 2024-05-07T19:47:29.219047+00:00
-
- ## Sam Steel Society Home
- - [https://samsteel.nmsu.edu](https://samsteel.nmsu.edu)
- - date_published: 2024-05-07T19:47:35.078081+00:00
-
- ## Valencia County Extension Office Home
- - [http://valenciaextension.nmsu.edu](http://valenciaextension.nmsu.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Untitled Document
- - [https://www.cs.nmsu.edu](https://www.cs.nmsu.edu)
- - date_published: 2024-06-03T06:27:56.289531+00:00
-
- ## New Mexico State University | BE BOLD. Shape the Future.
- - [https://www.nmsu.edu](https://www.nmsu.edu)
- - date_published: 2024-05-07T19:47:55.556660+00:00
-
- ## About the EPIC | EarthScope Primary Instrument Center
- - [https://www.passcal.nmt.edu](https://www.passcal.nmt.edu)
- - date_published: 2024-05-09T07:09:20.926833+00:00
-
- ## Public University in Michigan | Northern Michigan University
- - [https://www.nmu.edu](https://www.nmu.edu)
- - date_published: 2024-05-08T04:30:43.607589+00:00
-
- ## Welcome! - The Mathematics Genealogy Project
- - [http://genealogy.math.ndsu.nodak.edu](http://genealogy.math.ndsu.nodak.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://matomo.noirlab.edu](https://matomo.noirlab.edu)
- - date_published: 2024-05-07T19:48:05.266631+00:00
-
- ## NOIRLab / NSF’s National Optical-IR Astronomy Research Laboratory
- - [https://noirlab.edu](https://noirlab.edu)
- - date_published: 2024-01-09T02:59:27.072163+00:00
-
- ## NOIRLab / NSF’s National Optical-IR Astronomy Research Laboratory
- - [https://www.noirlab.edu](https://www.noirlab.edu)
- - date_published: 2024-05-07T19:48:11.614482+00:00
-
- ## NOLS | The Leader in Wilderness Education
- - [http://www.nols.edu](http://www.nols.edu)
- - date_published: 2024-05-10T06:59:56.449167+00:00
-
- ## UNC System – UNC System
- - [https://www.northcarolina.edu](https://www.northcarolina.edu)
- - date_published: 2024-05-07T21:38:45.841567+00:00
-
- ## Home - Northeastern University College of Science
- - [https://cos.northeastern.edu](https://cos.northeastern.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## CV4Smalls Workshop – Just another Sites at Northeastern site
- - [https://cv4smalls.sites.northeastern.edu](https://cv4smalls.sites.northeastern.edu)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## Department of Electrical & Computer Engineering - Northeastern University
- - [https://ece.northeastern.edu](https://ece.northeastern.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Home - Khoury College of Computer Sciences
- - [https://khoury.northeastern.edu](https://khoury.northeastern.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Northeastern Global News - News, Discovery, and Analysis from Around the World
- - [https://news.northeastern.edu](https://news.northeastern.edu)
- - date_published: 2023-10-25T18:55:44.990462+00:00
-
- ## Home - Northeastern University
- - [https://northeastern.edu](https://northeastern.edu)
- - date_published: 2024-05-02T10:14:10.515291+00:00
 

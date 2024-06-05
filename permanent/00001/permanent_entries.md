@@ -1287,6 +1287,10 @@
  - [https://mud-docs-6z1ag54lx-latticexyz.vercel.app](https://mud-docs-6z1ag54lx-latticexyz.vercel.app)
  - date_published: 2024-04-30T01:55:29.205632+00:00
 
+ ## MUD | Framework for onchain applications
+ - [https://mud-docs-o2hla2qt0-latticexyz.vercel.app](https://mud-docs-o2hla2qt0-latticexyz.vercel.app)
+ - date_published: 2024-06-04T12:50:57.860875+00:00
+
  ## Not a Number
  - [https://nan-archive.vercel.app](https://nan-archive.vercel.app)
  - date_published: 2024-05-08T00:41:24.126353+00:00
@@ -2121,6 +2125,7 @@
  ## Tickets | Coinfest Asia 2024
  - [https://ticket.coinfest.asia](https://ticket.coinfest.asia)
  - date_published: 2024-04-27T07:11:46.103458+00:00
+ - tags: ['conference', 'crypto']
 
  ## CSSConf.Asia Singapore 2014
  - [https://2014.cssconf.asia](https://2014.cssconf.asia)
@@ -4071,8 +4076,4 @@
  ## Visa, a trusted leader in digital payments.
  - [https://www.visa.com.au](https://www.visa.com.au)
  - date_published: 2024-05-12T03:59:51.186958+00:00
-
- ## Vogue Australia
- - [https://www.vogue.com.au](https://www.vogue.com.au)
- - date_published: 2024-05-07T10:58:36.262603+00:00
 

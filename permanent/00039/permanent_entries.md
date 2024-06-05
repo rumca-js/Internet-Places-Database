@@ -1,3 +1,155 @@
+ ## pCloud - Europe's Most Secure Cloud Storage
+ - [https://www.pcloud.com](https://www.pcloud.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Intro: P.C. Maffey
+ - [https://pcmaffey.com](https://pcmaffey.com)
+ - date_published: 2023-10-25T08:47:24.013987+00:00
+ - tags: ['personal']
+
+ ## PCMag Australia
+ - [https://au.pcmag.com](https://au.pcmag.com)
+ - date_published: 2024-05-06T22:46:50.373804+00:00
+
+ ## PCMag Greece
+ - [https://gr.pcmag.com](https://gr.pcmag.com)
+ - date_published: 2024-05-06T22:46:47.530881+00:00
+
+ ## PCMAG Israel
+ - [https://il.pcmag.com](https://il.pcmag.com)
+ - date_published: 2024-05-06T22:46:51.840519+00:00
+
+ ## PCMag Middle East
+ - [https://me.pcmag.com](https://me.pcmag.com)
+ - date_published: 2024-05-06T22:46:46.016470+00:00
+
+ ## PCMag.com - Technology Product Reviews, News, Prices & Tips
+ - [https://uk.pcmag.com](https://uk.pcmag.com)
+ - date_published: 2023-10-25T09:34:32.882984+00:00
+
+ ## The Latest Technology Product Reviews, News, Tips, and Deals | PCMag
+ - [https://www.pcmag.com](https://www.pcmag.com)
+ - date_published: 2023-10-25T09:34:47.167027+00:00
+
+ ## PC should be ministering to user, not other way round
+ - [https://pcministry.com](https://pcministry.com)
+ - date_published: 2024-04-25T18:38:58+00:00
+ - tags: ['telemetry', 'privacy', 'operating systems']
+
+ ## The Starman's Realm
+ - [https://thestarman.pcministry.com](https://thestarman.pcministry.com)
+ - date_published: 2023-10-25T16:31:49.593366+00:00
+ - tags: ['personal']
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://at.pcpartpicker.com](https://at.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:32.053520+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://au.pcpartpicker.com](https://au.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:25.746782+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://be.pcpartpicker.com](https://be.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:40.461358+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://ca.pcpartpicker.com](https://ca.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:27.946206+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://cz.pcpartpicker.com](https://cz.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:36.327289+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://de.pcpartpicker.com](https://de.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:23.637079+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://dk.pcpartpicker.com](https://dk.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:46.132271+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://es.pcpartpicker.com](https://es.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:21.408716+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://fi.pcpartpicker.com](https://fi.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:14.420090+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://fr.pcpartpicker.com](https://fr.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:34.358852+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://hu.pcpartpicker.com](https://hu.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:00.341083+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://ie.pcpartpicker.com](https://ie.pcpartpicker.com)
+ - date_published: 2024-05-16T02:48:58.111784+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://it.pcpartpicker.com](https://it.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:12.371708+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://nl.pcpartpicker.com](https://nl.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:29.843387+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://no.pcpartpicker.com](https://no.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:05.976403+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://nz.pcpartpicker.com](https://nz.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:07.955143+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://pcpartpicker.com](https://pcpartpicker.com)
+ - date_published: 2024-04-11T00:30:08.486980+00:00
+ - tags: ['hardware', 'shop', 'pc parts']
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://pt.pcpartpicker.com](https://pt.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:38.577025+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://ro.pcpartpicker.com](https://ro.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:43.829725+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://sa.pcpartpicker.com](https://sa.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:10.154235+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://se.pcpartpicker.com](https://se.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:16.668650+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://sk.pcpartpicker.com](https://sk.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:03.170111+00:00
+
+ ## Pick parts. Build your PC. Compare and share. - PCPartPicker
+ - [https://uk.pcpartpicker.com](https://uk.pcpartpicker.com)
+ - date_published: 2024-05-16T02:49:19.171799+00:00
+
+ ## Publisher's Creative Systems
+ - [https://subscribe.pcspublink.com](https://subscribe.pcspublink.com)
+ - date_published: 2024-05-01T04:34:14.700150+00:00
+
+ ## PCWorld
+ - [https://www.pcworld.com](https://www.pcworld.com)
+ - date_published: 2023-10-25T09:34:49.726201+00:00
+
+ ## Patricia C. Wrede – Six impossible things
+ - [http://pcwrede.com](http://pcwrede.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Peter DeScioli
+ - [https://pdescioli.com](https://pdescioli.com)
+ - date_published: 2024-05-04T14:45:08.679594+00:00
+
  ## pdf → gpt - summarize large PDFs using GPT
  - [https://pdf2gpt.com](https://pdf2gpt.com)
  - date_published: 2024-05-07T18:38:46.898318+00:00
@@ -3947,154 +4099,4 @@
  ## Pocket Devices | Simplifying Life, Anywhere
  - [https://pocket-devices.com](https://pocket-devices.com)
  - date_published: 2024-06-03T11:21:19.935066+00:00
-
- ## Pocket History
- - [https://m.pockethistory.com](https://m.pockethistory.com)
- - date_published: 2024-05-12T05:01:04.752432+00:00
-
- ## Pocket Guide to World History
- - [https://pockethistory.com](https://pockethistory.com)
- - date_published: 2024-05-12T05:01:13.427811+00:00
-
- ## Pocket JavaScript
- - [http://www.pocketjavascript.com](http://www.pocketjavascript.com)
- - date_published: 2024-06-03T11:20:30.550500+00:00
- - tags: ['personal', 'blog']
-
- ## Lim's Pocket on the web
- - [http://pocketlim.com](http://pocketlim.com)
- - date_published: 2023-11-29T17:09:28.869542+00:00
- - tags: ['personal']
-
- ## Lim's Pocket on the web
- - [http://www.pocketlim.com](http://www.pocketlim.com)
- - date_published: 2024-05-10T06:27:00.356378+00:00
-
- ## Online Magazines - Digital Magazine Subscriptions | Pocketmags
- - [https://pocketmags.com](https://pocketmags.com)
- - date_published: 2023-10-27T07:50:21.626150+00:00
-
- ## The Global Digital Magazine Newsstand | Pocketmags Sellers
- - [https://sellers.pocketmags.com](https://sellers.pocketmags.com)
- - date_published: 2024-05-06T23:31:25.626401+00:00
-
- ## Pocket Operations
- - [https://pocketoperations.com](https://pocketoperations.com)
- - date_published: 2024-05-11T11:05:26.521077+00:00
-
- ## PocketSmith Learn Center
- - [https://learn.pocketsmith.com](https://learn.pocketsmith.com)
- - date_published: 2024-05-01T06:34:06.974540+00:00
-
- ## Home
- - [https://www.pocketsmith.com](https://www.pocketsmith.com)
- - date_published: 2024-04-29T20:57:22+00:00
-
- ## Pocketwatch Games
- - [https://pocketwatchgames.com](https://pocketwatchgames.com)
- - date_published: 2024-05-09T08:31:57.703590+00:00
-
- ## P&O Cruises: Cruise Holidays 2024, 2025 & 2026
- - [https://www.pocruises.com](https://www.pocruises.com)
- - date_published: 2024-05-06T17:04:26.265470+00:00
-
- ## The British Broadcasting Century with Paul Kerensa | Paul Kerensa
- - [https://bbcentury.podbean.com](https://bbcentury.podbean.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Beyond the Microchip | Microchip Technology Inc
- - [https://beyondthemicrochip.podbean.com](https://beyondthemicrochip.podbean.com)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## BJSM Podcast | BMJ Group
- - [https://bjsmbmj.podbean.com](https://bjsmbmj.podbean.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Cascade PBS Ideas Festival | Cascade PBS
- - [https://crosscuttalks.podbean.com](https://crosscuttalks.podbean.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Decide for Impact podcast | Erno Hannink: Business Coach | Auteur | Ondernemer
- - [https://ernohannink.podbean.com](https://ernohannink.podbean.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Fraunhofer MEVIS (English) | Fraunhofer MEVIS
- - [https://fraunhofermevis.podbean.com](https://fraunhofermevis.podbean.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Government Digital Service Podcast | Government Digital Service
- - [https://governmentdigitalservice.podbean.com](https://governmentdigitalservice.podbean.com)
- - date_published: 2024-05-02T12:28:50.840543+00:00
-
- ## Gut Podcast | BMJ Group
- - [https://gutbmj.podbean.com](https://gutbmj.podbean.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## KRDO NewsRadio 105.5 FM, 1240 AM 92.5 FM | KRDO Newsradio
- - [https://krdonewsradio.podbean.com](https://krdonewsradio.podbean.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## The MIT Press Podcast | The MIT Press
- - [https://mitpress.podbean.com](https://mitpress.podbean.com)
- - date_published: 2021-10-13T00:00:00+00:00
-
- ## Modern Web | Modern Web
- - [https://modernweb.podbean.com](https://modernweb.podbean.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Morrus’ Unofficial Tabletop RPG Talk | EN Publishing
- - [https://morrus.podbean.com](https://morrus.podbean.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Mossback | Cascade PBS
- - [https://mossback.podbean.com](https://mossback.podbean.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## The Evidence Based Rheumatology Podcast | Michael Putman
- - [http://msputman.podbean.com](http://msputman.podbean.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## The RetroRockets Podcast | retrorocketspodcast
- - [https://retrorocketspodcast.podbean.com](https://retrorocketspodcast.podbean.com)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## They Create Worlds | Alex Smith, and Jeffrey Daum
- - [https://tcwpodcast.podbean.com](https://tcwpodcast.podbean.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Login to your Podbean Account | Podbean
- - [https://theflatearthpodcast.podbean.com](https://theflatearthpodcast.podbean.com)
- - date_published: 2024-05-29T04:37:50.549962+00:00
-
- ## TRASHFUTURE | TRASHFUTURE
- - [https://trashfuturepodcast.podbean.com](https://trashfuturepodcast.podbean.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Voice of Design | Mule Design
- - [https://vod.podbean.com](https://vod.podbean.com)
- - date_published: 2020-05-08T00:00:00+00:00
-
- ## Worldbuilding for Masochists | worldbuildingformasochists
- - [https://worldbuildingformasochists.podbean.com](https://worldbuildingformasochists.podbean.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Free Podcast hosting and Monetizing Platform | Podbean
- - [https://www.podbean.com](https://www.podbean.com)
- - date_published: 2024-05-01T04:57:38.403958+00:00
-
- ## podCast411 -  Learn about Podcasters and Podcasting News
- - [http://podcast411.com](http://podcast411.com)
- - date_published: 2024-05-20T02:48:56.383307+00:00
-
- ## Podcast Addict - Popular podcasts
- - [https://podcastaddict.com](https://podcastaddict.com)
- - date_published: 2024-05-01T04:30:27.412456+00:00
-
- ## Podcast AP
- - [https://podcastap.com](https://podcastap.com)
- - date_published: 2024-05-01T02:19:23.224676+00:00
-
- ## The Python Podcast.__init__
- - [https://www.podcastinit.com](https://www.podcastinit.com)
- - date_published: 2024-05-04T15:33:49.030540+00:00
 

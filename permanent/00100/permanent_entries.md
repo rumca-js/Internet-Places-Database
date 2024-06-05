@@ -1,3 +1,485 @@
+ ## BrunoBrito.PT - Marketing Digital e Web Development
+ - [https://brunobrito.pt](https://brunobrito.pt)
+ - date_published: 2023-12-29T00:00:00+00:00
+
+ ## ChatControl.pt
+ - [https://chatcontrol.pt](https://chatcontrol.pt)
+ - date_published: 2024-05-06T23:56:51.853587+00:00
+
+ ## Início - Citizen
+ - [http://www.citizen.pt](http://www.citizen.pt)
+ - date_published: 2021-11-05T07:31:55+00:00
+
+ ## Veículos Novos | Citroën Portugal
+ - [https://www.citroen.pt](https://www.citroen.pt)
+ - date_published: 2023-12-11T16:04:31.153758+00:00
+
+ ## Correio da Manhã: Portugal, Mundo, Sociedade, Cultura. Classificados.
+ - [https://www.cmjornal.pt](https://www.cmjornal.pt)
+ - date_published: 2024-05-10T06:15:34.075946+00:00
+
+ ## Centro Nacional de Cultura – Desde o 25 de Abril de 1974, o CNC tem-se esforçado por transmitir uma noção de cultura sem fronteiras, quer disciplinares, quer geográficas. Ele tenta ser o elo de ligação entre aqueles cujos caminhos normalmente não se cruzam: velhos e jovens, artistas e empresários, setor público e privado. Grande parte da sua ação é dedicada à defesa do património cultural português, à divulgação do papel desempenhado pela cultura portuguesa no mundo, e à atualização das suas relações com outras culturas.
+ - [https://www.cnc.pt](https://www.cnc.pt)
+ - date_published: 2023-12-04T13:08:24.757701+00:00
+
+ ## DigiKey Home
+ - [https://www.digikey.pt](https://www.digikey.pt)
+ - date_published: 2024-05-01T05:01:36.054518+00:00
+
+ ## Dining Out
+ - [https://www.diningout.pt](https://www.diningout.pt)
+ - date_published: 2024-05-06T17:17:13.642211+00:00
+
+ ## Diogo Ferreira
+ - [https://diogoferreira.pt](https://diogoferreira.pt)
+ - date_published: 2024-05-07T23:13:40.190677+00:00
+
+ ## D3 - Defesa dos Direitos Digitais
+ - [https://direitosdigitais.pt](https://direitosdigitais.pt)
+ - date_published: 2024-05-06T23:56:22.109149+00:00
+
+ ## Disney Portugal | Site Oficial
+ - [https://www.disney.pt](https://www.disney.pt)
+ - date_published: 2024-05-01T05:17:38.612454+00:00
+
+ ## Visualização de status
+ - [https://downdetector.pt](https://downdetector.pt)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## DPD - Envio de encomendas para clientes empresariais e particulares » DPD
+ - [https://dpd.pt](https://dpd.pt)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Home
+ - [https://emanuelpina.pt](https://emanuelpina.pt)
+ - date_published: 2024-05-09T08:06:36.833382+00:00
+
+ ## ESOP
+ - [https://www.esop.pt](https://www.esop.pt)
+ - date_published: 2024-05-06T23:57:20.739038+00:00
+
+ ## Eventbrite
+ - [https://www.eventbrite.pt](https://www.eventbrite.pt)
+ - date_published: 2024-05-12T05:55:29.207508+00:00
+
+ ## Expresso
+ - [https://expresso.pt](https://expresso.pt)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Gonçalo MB
+ - [http://gmb.pt](http://gmb.pt)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Golden Eagle | Smart Living in Nature
+ - [https://goldeneagle.pt](https://goldeneagle.pt)
+ - date_published: 2024-04-05T16:41:06+00:00
+
+ ## Google
+ - [https://www.google.pt](https://www.google.pt)
+ - date_published: 2024-05-26T13:42:31.881937+00:00
+
+ ## Atualidade Moda Grooming Bon Vivant GQ TV MOTY
+ - [https://www.gqportugal.pt](https://www.gqportugal.pt)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Alojamento Web Feito Para Si - Fique Online com a Hostinger
+ - [https://www.hostinger.pt](https://www.hostinger.pt)
+ - date_published: 2024-05-11T07:50:38.927157+00:00
+
+ ## Instituto Português do Mar e da Atmosfera
+ - [https://www.ipma.pt](https://www.ipma.pt)
+ - date_published: 2024-04-28T02:22:39.098512+00:00
+
+ ## Home
+ - [https://cies.iscte.pt](https://cies.iscte.pt)
+ - date_published: 2024-05-07T23:40:40.296153+00:00
+
+ ## ISOC.PT – Internet Society Portugal
+ - [https://isoc.pt](https://isoc.pt)
+ - date_published: 2024-05-06T23:55:57.568419+00:00
+
+ ## Jornal de Notícias
+ - [https://www.jn.pt](https://www.jn.pt)
+ - date_published: 2024-05-10T06:16:41.978312+00:00
+
+ ## Segurança cibernética Kaspersky para particulares e empresas  | Kaspersky
+ - [https://www.kaspersky.pt](https://www.kaspersky.pt)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Konecranes
+ - [https://www.konecranes.pt](https://www.konecranes.pt)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Meteorologia França - Previsões METEOROLOGIA DETALHADAS para 15 dias - METEO CONSULT
+ - [https://pro.meteoconsult.pt](https://pro.meteoconsult.pt)
+ - date_published: 2024-05-08T00:38:10.903322+00:00
+
+ ## Museu do Aljube
+ - [https://www.museudoaljube.pt](https://www.museudoaljube.pt)
+ - date_published: 2024-05-04T13:34:48.830766+00:00
+
+ ## Site oficial da Nintendo Ibérica
+ - [https://www.nintendo.pt](https://www.nintendo.pt)
+ - date_published: 2024-05-06T15:46:50.860153+00:00
+
+ ## Crie o seu Currículo Vencedor de Vagas - (Grátis) Criador de Currículos
+ - [https://onlinecurriculo.pt](https://onlinecurriculo.pt)
+ - date_published: 2024-05-06T09:21:33.033344+00:00
+
+ ## O Tempo
+ - [https://www.otempo.pt](https://www.otempo.pt)
+ - date_published: 2024-05-06T17:25:23.029213+00:00
+
+ ## ARTV | canal parlamento
+ - [http://www.canal.parlamento.pt](http://www.canal.parlamento.pt)
+ - date_published: 2024-05-10T06:16:55.546588+00:00
+
+ ## Home - Perfect Portugal
+ - [https://perfectportugal.pt](https://perfectportugal.pt)
+ - date_published: 2024-05-06T17:17:11.527367+00:00
+
+ ## PÚBLICO
+ - [https://www.publico.pt](https://www.publico.pt)
+ - date_published: 2024-05-10T06:15:48.860838+00:00
+
+ ## PyCon Portugal 2023 Website
+ - [https://2023.pycon.pt](https://2023.pycon.pt)
+ - date_published: 2024-05-07T23:45:25.883570+00:00
+
+ ## Rafael Albuquerque (rafaqueque)
+ - [http://rafael.pt](http://rafael.pt)
+ - date_published: 2024-05-29T20:59:32.195771+00:00
+
+ ## Rui Carlos Gonçalves
+ - [https://rcgoncalves.pt](https://rcgoncalves.pt)
+ - date_published: 2024-05-08T03:15:38.189196+00:00
+
+ ## Antena 1 - RTP
+ - [https://antena1.rtp.pt](https://antena1.rtp.pt)
+ - date_published: 2024-05-09T06:22:39.314246+00:00
+
+ ## RTP Arquivos
+ - [https://arquivos.rtp.pt](https://arquivos.rtp.pt)
+ - date_published: 2024-05-09T06:22:41.568773+00:00
+
+ ## RTP Ensina
+ - [https://ensina.rtp.pt](https://ensina.rtp.pt)
+ - date_published: 2024-05-09T06:22:44.030543+00:00
+
+ ## 404 Page,  www.rtp.pt
+ - [https://media.rtp.pt](https://media.rtp.pt)
+ - date_published: 2024-05-09T06:22:37.964402+00:00
+
+ ## Museu Virtual da RTP
+ - [https://museu.rtp.pt](https://museu.rtp.pt)
+ - date_published: 2024-05-09T06:22:47.291315+00:00
+
+ ## RTP | Comercial
+ - [https://publicidade.rtp.pt](https://publicidade.rtp.pt)
+ - date_published: 2024-05-09T06:22:54.498005+00:00
+
+ ## RDP África - RTP
+ - [https://rdpafrica.rtp.pt](https://rdpafrica.rtp.pt)
+ - date_published: 2024-05-09T06:22:59.735075+00:00
+
+ ## RTP África
+ - [https://rtpafrica.rtp.pt](https://rtpafrica.rtp.pt)
+ - date_published: 2024-05-09T06:22:52.497659+00:00
+
+ ## RTP - Rádio e Televisão de Portugal
+ - [https://www.rtp.pt](https://www.rtp.pt)
+ - date_published: 2024-03-09T22:52:42.458441+00:00
+
+ ## SAPO Blogs
+ - [https://blogs.sapo.pt](https://blogs.sapo.pt)
+ - date_published: 2024-05-10T06:15:29.612455+00:00
+
+ ## Delito de Opinião
+ - [https://delitodeopiniao.blogs.sapo.pt](https://delitodeopiniao.blogs.sapo.pt)
+ - date_published: 2024-05-10T06:15:39.781013+00:00
+
+ ## DOISDINHOS MP3
+ - [http://doisdinhosmp3.blogs.sapo.pt](http://doisdinhosmp3.blogs.sapo.pt)
+ - date_published: 2024-05-10T06:16:19.589522+00:00
+
+ ## IP
+ - [https://edicoespqp.blogs.sapo.pt](https://edicoespqp.blogs.sapo.pt)
+ - date_published: 2023-11-29T20:43:51.552919+00:00
+ - tags: ['personal']
+
+ ## Jornal i - notícias, política, opinião
+ - [https://ionline.sapo.pt](https://ionline.sapo.pt)
+ - date_published: 2024-05-10T06:15:36.824941+00:00
+
+ ## nothing
+ - [https://js.sapo.pt](https://js.sapo.pt)
+ - date_published: 2024-05-10T06:15:44.985758+00:00
+
+ ## SILVA
+ - [http://novasilva.blogs.sapo.pt](http://novasilva.blogs.sapo.pt)
+ - date_published: 2024-05-10T06:16:27.045173+00:00
+
+ ## SAPO Vídeos
+ - [https://videos.sapo.pt](https://videos.sapo.pt)
+ - date_published: 2024-05-07T23:39:41.906819+00:00
+
+ ## Mastodon
+ - [https://schelling.pt](https://schelling.pt)
+ - date_published: 2024-05-09T07:38:34.919157+00:00
+
+ ## sequel  fumpt
+ - [https://sqlfum.pt](https://sqlfum.pt)
+ - date_published: 2024-05-08T04:29:30.815238+00:00
+
+ ## Imprima os seus autocolantes e as suas etiquetas personalizadas!
+ - [https://stickerapp.pt](https://stickerapp.pt)
+ - date_published: 2024-04-30T02:46:12.280628+00:00
+
+ ## mesa digitalizadora com tela, tablet gráfico de desenho | XP-PEN Portugal Loja Oficial
+ - [https://www.storexppen.pt](https://www.storexppen.pt)
+ - date_published: 2024-05-30T18:42:28.916038+00:00
+
+ ## Tempo & Radar Portugal
+ - [https://www.tempoeradar.pt](https://www.tempoeradar.pt)
+ - date_published: 2024-05-07T13:25:10.701026+00:00
+
+ ## Início | Trade Stories
+ - [https://tradestories.pt](https://tradestories.pt)
+ - date_published: 2024-05-11T09:35:48.634502+00:00
+
+ ## Repositório Institucional da Universidade de Aveiro: Home
+ - [https://ria.ua.pt](https://ria.ua.pt)
+ - date_published: 2024-05-12T05:44:34.119743+00:00
+
+ ## Instituto Superior Técnico
+ - [https://tecnico.ulisboa.pt](https://tecnico.ulisboa.pt)
+ - date_published: 2024-04-28T04:06:37.502433+00:00
+
+ ## Green Software Lab
+ - [https://greenlab.di.uminho.pt](https://greenlab.di.uminho.pt)
+ - date_published: 2023-10-25T22:34:20.189594+00:00
+
+ ## Visa, na liderança global dos pagamentos digitais
+ - [https://www.visa.pt](https://www.visa.pt)
+ - date_published: 2024-05-12T03:58:29.126432+00:00
+
+ ## Vodafone Portugal - 5G, Telemóveis, Internet, Televisão
+ - [https://www.vodafone.pt](https://www.vodafone.pt)
+ - date_published: 2024-05-07T10:58:22.291734+00:00
+
+ ## Moda Beleza Lifestyle Inspiring Women Vogue TV Casamentos
+ - [https://www.vogue.pt](https://www.vogue.pt)
+ - date_published: 2024-05-07T10:58:32.208947+00:00
+
+ ## Home
+ - [https://women4cyber.pt](https://women4cyber.pt)
+ - date_published: 2024-05-06T23:57:12.999433+00:00
+
+ ## mesa digitalizadora com tela & mesa de desenho digital | XPPen
+ - [https://www.xp-pen.pt](https://www.xp-pen.pt)
+ - date_published: 2024-05-30T18:42:59.249343+00:00
+
+ ## Yelp
+ - [https://www.yelp.pt](https://www.yelp.pt)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## 0xADADA, Software Engineer / Writer / Motorsports Driver
+ - [https://0xadada.pub](https://0xadada.pub)
+ - date_published: 2024-04-03T12:42:14.892635+00:00
+ - tags: ['personal']
+
+ ## Better Humans
+ - [https://betterhumans.pub](https://betterhumans.pub)
+ - date_published: 2024-05-04T15:00:35.604096+00:00
+
+ ## Better Programming
+ - [https://betterprogramming.pub](https://betterprogramming.pub)
+ - date_published: 2023-10-25T22:34:23.958673+00:00
+
+ ## Distill — Latest articles about machine learning
+ - [https://distill.pub](https://distill.pub)
+ - date_published: 2023-10-25T22:34:26.137138+00:00
+
+ ## Encyclopedia MDPI | Scholarly Community
+ - [https://encyclopedia.pub](https://encyclopedia.pub)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Fanfare
+ - [https://fanfare.pub](https://fanfare.pub)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## FAUN — Developer Community 🐾
+ - [https://faun.pub](https://faun.pub)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Infosec.Pub
+ - [https://infosec.pub](https://infosec.pub)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## JAMS Journal Management System - Run your journals with ease
+ - [https://jams.pub](https://jams.pub)
+ - date_published: 2024-05-04T14:59:10.526003+00:00
+
+ ## kbin-core
+ - [https://git.kbin.pub](https://git.kbin.pub)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Home | kbin.pub - Fediverse of content
+ - [https://kbin.pub](https://kbin.pub)
+ - date_published: 2024-04-08T19:29:13.123675+00:00
+ - tags: ['self-host', 'cms', 'fediverse']
+
+ - [https://keybase.pub](https://keybase.pub)
+ - date_published: 2024-01-09T03:44:59.538703+00:00
+
+ ## microblog.pub - A self-hosted, single-user, ActivityPub powered microblog.
+ - [https://docs.microblog.pub](https://docs.microblog.pub)
+ - date_published: 2023-10-25T22:34:28.204374+00:00
+
+ ## Homepage
+ - [https://microblog.pub](https://microblog.pub)
+ - date_published: 2024-04-08T19:18:13+00:00
+ - tags: ['activitypub', 'self-host']
+
+ ## Newspack - The platform for news.
+ - [https://newspack.pub](https://newspack.pub)
+ - date_published: 2024-05-04T12:34:09.883222+00:00
+
+ ## Outpost
+ - [https://404mediaco.outpost.pub](https://404mediaco.outpost.pub)
+ - date_published: 2024-04-30T06:26:37.961181+00:00
+
+ ## Welcome to nginx!
+ - [https://assets.outpost.pub](https://assets.outpost.pub)
+ - date_published: 2024-04-30T06:26:36.960607+00:00
+
+ ## Outpost
+ - [https://broadbandbreakfastghostio.outpost.pub](https://broadbandbreakfastghostio.outpost.pub)
+ - date_published: 2024-05-08T03:47:01.710903+00:00
+
+ ## Outpost
+ - [https://dailyposter.outpost.pub](https://dailyposter.outpost.pub)
+ - date_published: 2024-05-04T12:19:53.645856+00:00
+
+ ## Outpost
+ - [https://reviewfirstroundcom.outpost.pub](https://reviewfirstroundcom.outpost.pub)
+ - date_published: 2024-05-04T06:12:43.709800+00:00
+
+ ## Outpost
+ - [https://runtimenews.outpost.pub](https://runtimenews.outpost.pub)
+ - date_published: 2024-05-12T04:39:00.659980+00:00
+
+ ## Outpost
+ - [https://vallejosun.outpost.pub](https://vallejosun.outpost.pub)
+ - date_published: 2024-05-06T21:29:41.580304+00:00
+
+ ## Proof of Concept | David Hoang | Substack
+ - [https://www.proofofconcept.pub](https://www.proofofconcept.pub)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## QUAKE PUB
+ - [https://quake.pub](https://quake.pub)
+ - date_published: 2024-05-02T09:43:58.126077+00:00
+ - tags: ['quake']
+
+ ## Index
+ - [https://ryansquared.pub](https://ryansquared.pub)
+ - date_published: 2023-10-03T00:00:00+00:00
+
+ ## 📜 Scroll is a Language for Bloggers
+ - [https://scroll.pub](https://scroll.pub)
+ - date_published: 2024-05-13T03:44:48.600507+00:00
+
+ ## Try Scroll - The extensible alternative to Markdown
+ - [https://try.scroll.pub](https://try.scroll.pub)
+ - date_published: 2023-10-25T22:34:29.566508+00:00
+
+ ## Sean MacAvaney's Publications - smac.pub
+ - [https://smac.pub](https://smac.pub)
+ - date_published: 2024-05-02T12:54:47.341210+00:00
+
+ ## Soapbox
+ - [https://soapbox.pub](https://soapbox.pub)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Statecraft | Santi Ruiz | Substack
+ - [https://www.statecraft.pub](https://www.statecraft.pub)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Welcome to OpenResty!
+ - [https://p1-ofp.static.pub](https://p1-ofp.static.pub)
+ - date_published: 2024-05-04T12:16:57.750375+00:00
+
+ ## Welcome to OpenResty!
+ - [https://p2-ofp.static.pub](https://p2-ofp.static.pub)
+ - date_published: 2024-05-04T12:16:52.457903+00:00
+
+ ## Welcome to OpenResty!
+ - [https://p3-ofp.static.pub](https://p3-ofp.static.pub)
+ - date_published: 2024-05-04T12:17:00.503639+00:00
+
+ ## Welcome to OpenResty!
+ - [https://p4-ofp.static.pub](https://p4-ofp.static.pub)
+ - date_published: 2024-05-04T12:16:54.445974+00:00
+
+ ## סטודנטים מובילים חדשנות במגזר הציבורי 10.0
+ - [https://www.studentinnovation.pub](https://www.studentinnovation.pub)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Techforge Media | Technology News, Insights & Events
+ - [https://techforge.pub](https://techforge.pub)
+ - date_published: 2024-05-01T04:55:17.082880+00:00
+
+ ## Techforge Media | Technology News, Insights & Events
+ - [https://www.techforge.pub](https://www.techforge.pub)
+ - date_published: 2024-05-01T04:49:43.324145+00:00
+
+ ## T-Shirts Starting at $16 Featuring Your Favorite TV Shows, Movies, Comics, and More | TeePublic
+ - [http://tee.pub](http://tee.pub)
+ - date_published: 2024-05-04T12:30:16.917617+00:00
+
+ ## The Gradient
+ - [https://thegradient.pub](https://thegradient.pub)
+ - date_published: 2023-10-25T22:34:33.803128+00:00
+
+ ## The Seeds of Science | Substack
+ - [https://www.theseedsofscience.pub](https://www.theseedsofscience.pub)
+ - date_published: 2023-11-01T23:07:01.330196+00:00
+
+ ## Transformer Circuits Thread
+ - [https://transformer-circuits.pub](https://transformer-circuits.pub)
+ - date_published: 2023-10-25T22:34:37.152134+00:00
+
+ ## site index
+ - [https://www.extua.pw](https://www.extua.pw)
+ - date_published: 2024-05-09T08:06:37.591290+00:00
+
+ ## GEORGE
+ - [https://george.gh0.pw](https://george.gh0.pw)
+ - date_published: 2024-05-06T15:03:35.941384+00:00
+
+ ## Justus Perlwitz
+ - [https://www.justus.pw](https://www.justus.pw)
+ - date_published: 2023-10-25T09:24:27.703412+00:00
+ - tags: ['personal']
+
+ ## A table that looks good on mobile and desktop.
+ - [https://many.pw](https://many.pw)
+ - date_published: 2023-10-25T22:34:44.264363+00:00
+
+ ## metasyn
+ - [https://metasyn.pw](https://metasyn.pw)
+ - date_published: 2024-04-29T07:26:17.044686+00:00
+
+ ## nuel island
+ - [https://nuel.pw](https://nuel.pw)
+ - date_published: 2024-03-16T00:00:00+00:00
+
+ ## The Industry | Substack
+ - [https://www.theindustry.pw](https://www.theindustry.pw)
+ - date_published: 2023-10-25T10:08:44.517714+00:00
+ - tags: ['substack']
+
  ## zotan.pw >> home
  - [https://zotan.pw](https://zotan.pw)
  - date_published: 2024-05-09T08:16:24.340000+00:00
@@ -954,6 +1436,7 @@
  ## ETH Belgrade
  - [https://ethbelgrade.rs](https://ethbelgrade.rs)
  - date_published: 2024-06-05T00:00:00+00:00
+ - tags: ['convention', 'etherum', 'crypto']
 
  ## Euronews.rs
  - [https://www.euronews.rs](https://www.euronews.rs)
@@ -1030,6 +1513,15 @@
  ## Home – NAPI-RS
  - [https://napi.rs](https://napi.rs)
  - date_published: 2023-10-25T22:36:03.323637+00:00
+
+ ## Netokracija.rs - Internet tehnologije, poslovanje i kultura
+ - [https://netokracija.rs](https://netokracija.rs)
+ - date_published: 2024-06-04T10:00:47+00:00
+
+ ## Netokracija.rs - Internet tehnologije, poslovanje i kultura
+ - [https://www.netokracija.rs](https://www.netokracija.rs)
+ - date_published: 2024-06-04T06:14:02.910110+00:00
+ - tags: ['tech news']
 
  ## Ntex: Powerful, pragmatic, fast framework for composable networking services
  - [https://ntex.rs](https://ntex.rs)
@@ -1144,6 +1636,10 @@
  ## Starship: Cross-Shell Prompt
  - [https://starship.rs](https://starship.rs)
  - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Preduzetništvo i tehnologija – Startit
+ - [https://startit.rs](https://startit.rs)
+ - date_published: 2024-06-04T06:13:53.507200+00:00
 
  ## Rust-based platform for the Web – SWC
  - [https://swc.rs](https://swc.rs)
@@ -3602,515 +4098,4 @@ Art Product Supply
  ## Ministry of Health
  - [https://www.moh.gov.sg](https://www.moh.gov.sg)
  - date_published: 2024-03-28T00:00:00+00:00
-
- ## BiblioAsia
- - [https://biblioasia.nlb.gov.sg](https://biblioasia.nlb.gov.sg)
- - date_published: 2023-10-25T22:38:00.760584+00:00
-
- ## Home | STB
- - [https://www.stb.gov.sg](https://www.stb.gov.sg)
- - date_published: 2024-05-04T09:03:43.161960+00:00
-
- ## gov.sg | Home
- - [https://www.gov.sg](https://www.gov.sg)
- - date_published: 2024-05-04T09:10:33.851082+00:00
-
- ## The Association of Banks in Singapore
- - [https://abs.org.sg](https://abs.org.sg)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Home
- - [https://twc2.org.sg](https://twc2.org.sg)
- - date_published: 2024-05-04T09:04:28.693161+00:00
-
- ## About Amazon
- - [https://www.aboutamazon.sg](https://www.aboutamazon.sg)
- - date_published: 2024-05-01T02:01:54.812865+00:00
-
- ## Amazon.sg: Shop Online for Electronics, Computers, Books, Toys, DVDs, Baby, Grocery, & more
- - [https://www.amazon.sg](https://www.amazon.sg)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## SCDKey.com
- - [https://myscedkcey.blogspot.sg](https://myscedkcey.blogspot.sg)
- - date_published: 2024-05-06T21:20:21.954458+00:00
-
- ## Can I go _____?
- - [https://canigo.sg](https://canigo.sg)
- - date_published: 2024-05-01T07:55:37.795426+00:00
-
- ## Citroën Origins
- - [http://www.citroenorigins.sg](http://www.citroenorigins.sg)
- - date_published: 2024-05-10T04:41:32.311079+00:00
-
- ## Debbie Ding
- - [http://dbbd.sg](http://dbbd.sg)
- - date_published: 2024-05-29T20:59:13.867299+00:00
- - tags: ['personal']
-
- ## DigiKey Home
- - [https://www.digikey.sg](https://www.digikey.sg)
- - date_published: 2024-05-01T05:10:18.161395+00:00
-
- ## Disney.sg | The official home for all things Disney
- - [http://www.disney.sg](http://www.disney.sg)
- - date_published: 2024-05-01T05:19:38.949305+00:00
-
- ## Status overview
- - [https://downdetector.sg](https://downdetector.sg)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Eatbook.sg - Singapore Food Reviews And Recommendations
- - [https://eatbook.sg](https://eatbook.sg)
- - date_published: 2024-05-06T13:43:19.030926+00:00
-
- ## Finance Jobs, Banking and Tech Jobs - Singapore - eFinancialCareers
- - [https://www.efinancialcareers.sg](https://www.efinancialcareers.sg)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Engineers.SG
- - [https://engineers.sg](https://engineers.sg)
- - date_published: 2024-05-06T13:25:31.039072+00:00
-
- ## Eventbrite
- - [https://www.eventbrite.sg](https://www.eventbrite.sg)
- - date_published: 2024-05-12T05:55:32.200667+00:00
-
- ## Garena
- - [https://www.garena.sg](https://www.garena.sg)
- - date_published: 2024-05-01T06:18:23.442474+00:00
-
- ## Security | Glassdoor
- - [https://www.glassdoor.sg](https://www.glassdoor.sg)
- - date_published: 2024-05-10T06:02:56.752129+00:00
-
- ## International News, Analysis, Politics, Business, Technology, Entertainment - IB Times SG Edition
- - [https://www.ibtimes.sg](https://www.ibtimes.sg)
- - date_published: 2023-12-04T09:13:30.199869+00:00
-
- ## JuniorDev.SG
- - [https://juniordev.sg](https://juniordev.sg)
- - date_published: 2024-05-06T14:13:46.644433+00:00
-
- ## Boost Recommendation
- - [https://recommend-zoom.mediacorp.sg](https://recommend-zoom.mediacorp.sg)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## MeID Edge Demo
- - [https://uid.mediacorp.sg](https://uid.mediacorp.sg)
- - date_published: 2024-05-08T04:49:24.976445+00:00
-
- ## Mediacorp: Create, Connect, Inspire
- - [https://www.mediacorp.sg](https://www.mediacorp.sg)
- - date_published: 2024-05-08T04:49:19.512401+00:00
-
- ## melisten - Listen to Mediacorp's Radio Stations, Music and Podcasts
- - [https://www.melisten.sg](https://www.melisten.sg)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Local On-Demand TV Shows, Movies, Sports, News & LIVE programmes - mewatch
- - [https://www.mewatch.sg](https://www.mewatch.sg)
- - date_published: 2024-04-29T05:02:11.445376+00:00
-
- ## Mothership.SG - News from Singapore, Asia and around the world
- - [https://mothership.sg](https://mothership.sg)
- - date_published: 2023-12-06T09:13:19.357127+00:00
- - tags: ['asia news', 'sinapore news']
-
- ## Singapore Public Holidays - PublicHolidays.sg
- - [https://publicholidays.sg](https://publicholidays.sg)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Pen Display Monitors,Graphic Drawing Tablets | XP-Pen Singapore official store
- - [https://www.storexppen.sg](https://www.storexppen.sg)
- - date_published: 2024-05-30T18:41:54.912348+00:00
-
- ## The New Paper - Breaking News, Sports, Entertainment & Lifestyle News
- - [https://www.tnp.sg](https://www.tnp.sg)
- - date_published: 2024-05-04T09:04:35.964003+00:00
-
- ## Vogue Singapore
- - [https://vogue.sg](https://vogue.sg)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## when trees fall...
- - [https://blog.wtf.sg](https://blog.wtf.sg)
- - date_published: 2023-10-25T22:38:01.640867+00:00
-
- ## WWF-Singapore | Home
- - [https://www.wwf.sg](https://www.wwf.sg)
- - date_published: 2024-05-08T00:00:18.779939+00:00
-
- ## Aakash Patel
- - [https://aaka.sh](https://aaka.sh)
- - date_published: 2023-10-25T08:55:35.693568+00:00
- - tags: ['personal']
-
- ## GitHub - acmesh-official/acme.sh: A pure Unix shell script implementing ACME client protocol
- - [https://acme.sh](https://acme.sh)
- - date_published: 2024-04-29T07:19:17.285071+00:00
-
- ## Alma
- - [https://www.alma.sh](https://www.alma.sh)
- - date_published: 2023-10-25T22:38:01.970470+00:00
-
- ## Asahi Linux
- - [https://alx.sh](https://alx.sh)
- - date_published: 2024-05-17T02:58:42.811839+00:00
-
- ## Alyx Wijers
- - [https://alyx.sh](https://alyx.sh)
- - date_published: 2023-12-02T08:30:28.363026+00:00
-
- ## Home
- - [https://ani.sh](https://ani.sh)
- - date_published: 2024-02-08T17:43:24.266089+00:00
-
- ## Arhan's Homepage
- - [https://arhan.sh](https://arhan.sh)
- - date_published: 2024-04-25T19:40:28+00:00
- - tags: ['personal']
-
- ## NAND
- - [https://nand.arhan.sh](https://nand.arhan.sh)
- - date_published: 2024-04-25T18:54:27.305160+00:00
-
- ## Artemis Everfree
- - [https://artemis.sh](https://artemis.sh)
- - date_published: 2023-10-25T08:55:44.400225+00:00
- - tags: ['personal']
-
- ## Astral: Next-gen Python tooling
- - [https://astral.sh](https://astral.sh)
- - date_published: 2023-10-25T22:38:03.500791+00:00
-
- ## Atuin - Magical Shell History
- - [https://atuin.sh](https://atuin.sh)
- - date_published: 2024-01-10T08:42:47+00:00
- - tags: ['shell program', 'open source']
-
- ## Ayesh Karunaratne
- - [https://aye.sh](https://aye.sh)
- - date_published: 2024-05-09T07:46:27.201627+00:00
-
- ## Code-Native Data Privacy
- - [https://batch.sh](https://batch.sh)
- - date_published: 2024-05-08T06:21:09.381498+00:00
-
- ## donjon; RPG Tools
- - [https://donjon.bin.sh](https://donjon.bin.sh)
- - date_published: 2024-05-01T07:56:09.149326+00:00
-
- ## Blacksmith
- - [https://blacksmith.sh](https://blacksmith.sh)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Why Blacksmith? - Blacksmith
- - [https://docs.blacksmith.sh](https://docs.blacksmith.sh)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Status | Blacksmith - Status
- - [https://status.blacksmith.sh](https://status.blacksmith.sh)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Quick Start Guide ‚Äì Blink Shell
- - [https://docs.blink.sh](https://docs.blink.sh)
- - date_published: 2024-05-28T05:54:51.380405+00:00
-
- ## BlueBird Shell
- - [https://bluebird.sh](https://bluebird.sh)
- - date_published: 2024-05-27T00:50:59.041998+00:00
-
- ## Noah's Rug (5784) — Hanukkah of Data
- - [https://hanukkah.bluebird.sh](https://hanukkah.bluebird.sh)
- - date_published: 2023-12-07T19:20:29.682884+00:00
- - tags: ['wtf', 'programming', 'internet', 'puzzle game', 'challnege']
-
- ## Leo Gao
- - [https://bmk.sh](https://bmk.sh)
- - date_published: 2023-10-25T22:38:04.762550+00:00
-
- ## erock's blog
- - [https://bower.sh](https://bower.sh)
- - date_published: 2023-10-25T09:24:33.663418+00:00
- - tags: ['personal']
-
- ## Brainfish: Next Decade's Customer Experience.
- - [https://www.brainfi.sh](https://www.brainfi.sh)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Bref – Simple and scalable PHP with serverless
- - [https://bref.sh](https://bref.sh)
- - date_published: 2023-11-01T15:23:20.187581+00:00
-
- ## Homebrew — The Missing Package Manager for macOS (or Linux)
- - [https://brew.sh](https://brew.sh)
- - date_published: 2023-10-25T22:38:06.165257+00:00
- - tags: ['package manager']
-
- ## Documentation — Homebrew Documentation
- - [https://docs.brew.sh](https://docs.brew.sh)
- - date_published: 2023-10-25T22:38:07.697226+00:00
-
- ## Homebrew Formulae
- - [https://formulae.brew.sh](https://formulae.brew.sh)
- - date_published: 2024-05-04T15:48:59.664761+00:00
-
- ## Browsh
- - [https://www.brow.sh](https://www.brow.sh)
- - date_published: 2024-01-17T07:56:37.169488+00:00
-
- ## Build your APIs as a team · Bump.sh
- - [https://bump.sh](https://bump.sh)
- - date_published: 2024-05-06T18:18:29.591409+00:00
-
- ## Bun — A fast all-in-one JavaScript runtime
- - [https://bun.sh](https://bun.sh)
- - date_published: 2023-10-25T22:38:10.782566+00:00
- - tags: ['javascript runtime']
-
- ## Carapace: A multi-shell completion library and binary
- - [https://carapace.sh](https://carapace.sh)
- - date_published: 2024-04-23T00:36:35+00:00
- - tags: ['cli tool', 'shell completion']
-
- ## Christo Wilson
- - [https://cbw.sh](https://cbw.sh)
- - date_published: 2024-05-04T15:27:58.699748+00:00
-
- ## Charm
- - [https://charm.sh](https://charm.sh)
- - date_published: 2023-11-03T09:56:30.357523+00:00
-
- ## checksum.sh - Verify Every Install Script | checksum.sh
- - [https://checksum.sh](https://checksum.sh)
- - date_published: 2023-10-25T22:38:11.607869+00:00
-
- ## Chimera
- - [https://chimera.sh](https://chimera.sh)
- - date_published: 2024-04-30T02:19:39.192747+00:00
-
- ## copy's home
- - [https://copy.sh](https://copy.sh)
- - date_published: 2023-10-25T22:38:12.223744+00:00
- - tags: ['personal']
-
- ## crt.sh | Certificate Search
- - [https://crt.sh](https://crt.sh)
- - date_published: 2024-04-29T07:19:25.798517+00:00
-
- ## Cursor - The AI-first Code Editor
- - [https://cursor.sh](https://cursor.sh)
- - date_published: 2023-10-25T22:38:12.999026+00:00
-
- ## Cursor - The AI-first Code Editor
- - [https://www.cursor.sh](https://www.cursor.sh)
- - date_published: 2024-05-06T20:44:34.848753+00:00
-
- ## DansLeRuSH # Info·Graphique
- - [https://dansleru.sh](https://dansleru.sh)
- - date_published: 2024-05-09T08:28:08.296158+00:00
-
- ## Davis Haupt | Davis Haupt
- - [https://davi.sh](https://davi.sh)
- - date_published: 2024-04-25T16:37:41.213259+00:00
- - tags: ['personal']
-
- ## Demyx - Demyx is a Docker image that automates WordPress installations. Traefik for reverse proxy with Lets Encrypt SSL/TLS. WordPress sites are powered by NGINX, PHP, and MariaDB.
- - [https://demyx.sh](https://demyx.sh)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Fast, Declarative, Reproduble and Composable Developer Environments Using Nix
- - [https://devenv.sh](https://devenv.sh)
- - date_published: 2024-04-12T10:08:23+00:00
-
- ## DevPod - Open Source Dev-Environments-As-Code
- - [https://devpod.sh](https://devpod.sh)
- - date_published: 2023-10-25T22:38:13.978640+00:00
-
- ## Jan Harasym on Svbtle
- - [https://blog.dijit.sh](https://blog.dijit.sh)
- - date_published: 2024-01-09T03:46:50.814381+00:00
-
- ## disease.sh
- - [https://disease.sh](https://disease.sh)
- - date_published: 2000-01-01T00:00:00+00:00
- - tags: ['open api', 'digital database']
-
- ## Dmytro on Things
- - [https://dmytro.sh](https://dmytro.sh)
- - date_published: 2023-10-25T22:38:14.858579+00:00
-
- ## [Michał Sapka's website]
- - [https://d-s.sh](https://d-s.sh)
- - date_published: 2023-10-25T09:24:36.592874+00:00
- - tags: ['personal']
-
- ## Dub - Link Management for Modern Marketing Teams
- - [https://dub.sh](https://dub.sh)
- - date_published: 2023-10-25T22:38:22.951450+00:00
-
- ## Elias' homepage
- - [https://elias.sh](https://elias.sh)
- - date_published: 2024-05-09T08:17:37.225380+00:00
-
- ## GitHub - benborgers/emojicdn: 🥳 A fast, global content delivery network for emojis.
- - [https://emojicdn.elk.sh](https://emojicdn.elk.sh)
- - date_published: 2024-05-02T13:28:14.215086+00:00
-
- ## Elvish, expressive programming language and a versatile interactive shell
- - [https://elv.sh](https://elv.sh)
- - date_published: 2024-05-10T06:38:44+00:00
- - tags: ['programming language']
-
- ## AI Emoji Generator
- - [https://emojis.sh](https://emojis.sh)
- - date_published: 2024-04-28T04:37:23.405534+00:00
-
- ## Emotion – Introduction
- - [https://emotion.sh](https://emotion.sh)
- - date_published: 2024-05-04T14:00:38.287492+00:00
-
- ## Engram
- - [https://engram.sh](https://engram.sh)
- - date_published: 2024-05-02T13:43:41.117110+00:00
-
- ## ESM>CDN
- - [https://esm.sh](https://esm.sh)
- - date_published: 2024-04-30T02:02:42.626244+00:00
-
- ## Foundry Book
- - [https://book.getfoundry.sh](https://book.getfoundry.sh)
- - date_published: 2024-04-29T07:33:09.296478+00:00
-
- ## ./gibson.sh --blog
- - [https://blog.gibson.sh](https://blog.gibson.sh)
- - date_published: 2023-10-25T09:24:37.801883+00:00
- - tags: ['personal']
-
- ## Polaslot138 - Pola Slot Scatter Gacor Hari Ini JP Tertinggi
- - [https://gitkube.sh](https://gitkube.sh)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## GROSS.SH
- - [https://gross.sh](https://gross.sh)
- - date_published: 1999-01-01T00:00:00+00:00
- - tags: ['personal']
-
- ## Harlequin: The DuckDB IDE for Your Terminal.
- - [https://harlequin.sh](https://harlequin.sh)
- - date_published: 2023-10-25T22:38:24.159361+00:00
-
- ## ‎
- - [https://hashbang.sh](https://hashbang.sh)
- - date_published: 2024-05-10T06:55:18.567728+00:00
-
- ## Helm
- - [https://helm.sh](https://helm.sh)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Aloha! · hia.sh
- - [https://hia.sh](https://hia.sh)
- - date_published: 2024-04-04T19:29:31.587698+00:00
-
- ## ian carroll
- - [https://ian.sh](https://ian.sh)
- - date_published: 2023-10-25T22:38:25.169602+00:00
-
- ## icyphox
- - [https://icyphox.sh](https://icyphox.sh)
- - date_published: 2024-05-07T23:26:49.461879+00:00
-
- ## OpenOrb
- - [https://openorb.idiot.sh](https://openorb.idiot.sh)
- - date_published: 2024-04-22T11:17:31.753435+00:00
- - tags: ['rss', 'search engine']
-
- ## interviewing.io
- - [https://iio.sh](https://iio.sh)
- - date_published: 2020-08-27T00:00:00+00:00
-
- ## cool repos
- - [https://git.ikl.sh](https://git.ikl.sh)
- - date_published: 2024-05-12T06:11:12.446305+00:00
-
- ## j3s.sh
- - [https://j3s.sh](https://j3s.sh)
- - date_published: 2023-10-25T22:38:25.955497+00:00
-
- ## Show HN: Jeeves – A Pythonic Alternative to GNU Make
- - [https://jeeves.sh](https://jeeves.sh)
- - date_published: 2023-11-06T00:04:25+00:00
-
- ## jrnl - The Command Line Journal
- - [https://jrnl.sh](https://jrnl.sh)
- - date_published: 2024-05-04T21:55:53.625149+00:00
-
- ## Karpenter
- - [https://karpenter.sh](https://karpenter.sh)
- - date_published: 2024-05-11T07:03:28.139386+00:00
-
- ## kaushikgopal - Overview
- - [https://github.kau.sh](https://github.kau.sh)
- - date_published: 2024-05-20T09:43:20.919179+00:00
-
- ## Kaushik Gopal's Site
- - [https://kau.sh](https://kau.sh)
- - date_published: 2023-10-25T08:55:45.952108+00:00
- - tags: ['personal']
-
- ## Kaushik Gopal - Instacart | LinkedIn
- - [https://linkedin.kau.sh](https://linkedin.kau.sh)
- - date_published: 2024-05-20T09:43:17.067617+00:00
-
- ## Kaushik Gopal (@kaush@hachyderm.io)
- - [https://mastodon.kau.sh](https://mastodon.kau.sh)
- - date_published: 2024-05-20T09:43:18.221994+00:00
-
- ## Threads
- - [https://threads.kau.sh](https://threads.kau.sh)
- - date_published: 2024-05-20T09:43:25.689453+00:00
-
- ## Kevin B. Ridgway's Digital Garden
- - [https://kbr.sh](https://kbr.sh)
- - date_published: 2024-06-01T04:55:22.315140+00:00
- - tags: ['personal']
-
- ## Keptn - Supercharge your Deployments - Keptn - Supercharge Your Deployments
- - [https://keptn.sh](https://keptn.sh)
- - date_published: 2024-05-09T08:44:18.056219+00:00
-
- ## Software Licensing and Distribution API
- - [https://keygen.sh](https://keygen.sh)
- - date_published: 2024-05-06T23:46:06.178380+00:00
-
- ## Kullish by Notado: BYOL Comment Aggregation
- - [https://kulli.sh](https://kulli.sh)
- - date_published: 2024-05-04T12:26:36.245313+00:00
-
- ## Kunal Shah
- - [https://kunal.sh](https://kunal.sh)
- - date_published: 2023-12-27T10:11:48.670216+00:00
- - tags: ['personal']
-
- ## 토토사이트 최고의 메이저놀이터 추천 - 2024년 3월 순위
- - [https://linc.sh](https://linc.sh)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Linux Matters
- - [https://linuxmatters.sh](https://linuxmatters.sh)
- - date_published: 2024-04-30T19:15:00+00:00
-
- ## lor.sh
- - [https://lor.sh](https://lor.sh)
- - date_published: 2024-04-28T06:15:12.200559+00:00
- - tags: ['mastodon']
-
- ## markets.sh
- - [https://markets.sh](https://markets.sh)
- - date_published: 2024-05-30T21:14:10.877982+00:00
-
- ## change is - matt.sh
- - [https://matt.sh](https://matt.sh)
- - date_published: 2023-10-25T22:38:28.757019+00:00
 

@@ -1,3 +1,128 @@
+ ## Home - Makerdiary Blog
+ - [https://blog.makerdiary.com](https://blog.makerdiary.com)
+ - date_published: 2024-05-04T14:10:55.154168+00:00
+
+ ## Makerdiary Community
+ - [https://community.makerdiary.com](https://community.makerdiary.com)
+ - date_published: 2024-05-04T14:10:59.966065+00:00
+
+ ## makerdiary - Your Connected Hardware Partner
+ - [https://makerdiary.com](https://makerdiary.com)
+ - date_published: 2024-05-04T14:10:58.742810+00:00
+
+ ## Home - Makerdiary Wiki
+ - [https://wiki.makerdiary.com](https://wiki.makerdiary.com)
+ - date_published: 2023-10-25T15:54:46.717561+00:00
+
+ ## Maker Faire |
+ - [https://makerfaire.com](https://makerfaire.com)
+ - date_published: 2023-10-25T15:54:51.642732+00:00
+
+ ## 7th Annual - Maker Faire NoVa
+ - [http://makerfairenova.com](http://makerfairenova.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## 7th Annual - Maker Faire NoVa
+ - [http://www.makerfairenova.com](http://www.makerfairenova.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## 3D Printers | MakerGear
+ - [http://www.makergear.com](http://www.makergear.com)
+ - date_published: 2024-05-07T15:59:24.184850+00:00
+
+ ## Welcome to Maker Hacks
+ - [https://www.makerhacks.com](https://www.makerhacks.com)
+ - date_published: 2023-12-11T17:52:35.069448+00:00
+ - tags: ['hardware tinkering', 'hardware hacking']
+
+ ## Make: Projects
+ - [https://makershare.com](https://makershare.com)
+ - date_published: 2024-05-09T04:19:19.322925+00:00
+
+ ## Maker Shed: Official Store of Make: and Maker Faire since 2005
+ - [https://makershed.com](https://makershed.com)
+ - date_published: 2024-05-04T14:11:21.534371+00:00
+
+ ## Maker Shed: Official Store of Make: and Maker Faire since 2005
+ - [https://www.makershed.com](https://www.makershed.com)
+ - date_published: 2024-05-04T14:11:08.832119+00:00
+
+ ## Makers Mashup Wiki
+ - [https://wiki.makersmashup.com](https://wiki.makersmashup.com)
+ - date_published: 2022-04-18T00:00:00+00:00
+
+ ## DIY | Makers Mashup
+ - [https://www.makersmashup.com](https://www.makersmashup.com)
+ - date_published: 2023-10-27T10:17:04.972576+00:00
+ - tags: ['3d printing', 'dyi', 'hobby']
+
+ ## Maker Portal
+ - [https://makersportal.com](https://makersportal.com)
+ - date_published: 2024-05-09T04:20:07.889543+00:00
+
+ ## MakerWidget
+ - [https://makerwidget.com](https://makerwidget.com)
+ - date_published: 2024-05-06T12:58:49.512188+00:00
+
+ ## MakerWorld
+ - [https://makerworld.com](https://makerworld.com)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## make-safe-ai/is-bing-chat-safe
+ - [https://www.make-safe-ai.com](https://www.make-safe-ai.com)
+ - date_published: 2023-10-25T15:54:39.527554+00:00
+
+ ## Makeship
+ - [https://www.makeship.com](https://www.makeship.com)
+ - date_published: 2024-05-07T10:34:41.873552+00:00
+
+ ## Makeswift | The composable visual editor for elite marketing teams
+ - [https://www.makeswift.com](https://www.makeswift.com)
+ - date_published: 2024-05-06T06:39:56.142703+00:00
+
+ ## Make Tech Easier
+ - [https://www.maketecheasier.com](https://www.maketecheasier.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+ - tags: ['tech news', 'tech articles']
+
+ ## Matter Unlimited - Award-Winning Social Impact Marketing Agency
+ - [https://www.makethingsmatter.com](https://www.makethingsmatter.com)
+ - date_published: 2024-01-09T02:42:19.097936+00:00
+ - tags: ['personal']
+
+ - [https://www.makeuseof.com](https://www.makeuseof.com)
+ - date_published: 2024-02-24T09:58:55.467712+00:00
+ - tags: ['tech news']
+
+ ## Home
+ - [https://makezine.com](https://makezine.com)
+ - date_published: 2023-11-27T16:27:53+00:00
+ - tags: ['single-board', '3d printing', 'creators', 'tech']
+
+ ## Make
+ - [https://subscribe.makezine.com](https://subscribe.makezine.com)
+ - date_published: 2024-05-04T14:11:05.944312+00:00
+
+ ## Home
+ - [http://www.makezine.com](http://www.makezine.com)
+ - date_published: 2024-05-04T13:42:42.113862+00:00
+
+ ## Making It with Chris G.
+ - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
+ - date_published: 2023-11-29T17:12:52.483030+00:00
+
+ ## (no title)
+ - [http://makingnoiseandhearingthings.com](http://makingnoiseandhearingthings.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Makino | CNC Machine Tool Manufacturer & Machining Centers
+ - [https://www.makino.com](https://www.makino.com)
+ - date_published: 2024-05-12T06:31:19.804800+00:00
+
+ ## HOME | Maki's Curry Buns | Rowarth
+ - [https://www.makiscurrybuns.com](https://www.makiscurrybuns.com)
+ - date_published: 2024-02-08T18:16:51.734772+00:00
+
  ## Home
  - [https://makoncline.com](https://makoncline.com)
  - date_published: 2024-05-11T10:21:57.800936+00:00
@@ -3929,6 +4054,7 @@
  ## Dikshant Rajput – Medium
  - [https://dikshantraj2001.medium.com](https://dikshantraj2001.medium.com)
  - date_published: 2024-04-07T00:00:00+00:00
+ - tags: ['personal']
 
  ## Thomas Ricouard – Medium
  - [https://dimillian.medium.com](https://dimillian.medium.com)
@@ -4002,128 +4128,4 @@
  ## Enrique Dans – Medium
  - [https://edans.medium.com](https://edans.medium.com)
  - date_published: 2024-04-26T00:00:00+00:00
-
- ## Eduardo – Medium
- - [https://eddiebarth.medium.com](https://eddiebarth.medium.com)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Ederson Melo – Medium
- - [https://edersonmelo.medium.com](https://edersonmelo.medium.com)
- - date_published: 2024-05-10T06:45:56.326126+00:00
- - tags: ['personal']
-
- ## /e/ Developers Blog – Medium
- - [https://edevelopers-blog.medium.com](https://edevelopers-blog.medium.com)
- - date_published: 2024-05-28T18:05:55.801947+00:00
-
- ## Elaine Cao – Medium
- - [https://elaine-cao-93.medium.com](https://elaine-cao-93.medium.com)
- - date_published: 2023-10-25T10:20:00.285620+00:00
-
- ## Elemental
- - [https://elemental.medium.com](https://elemental.medium.com)
- - date_published: 2024-05-12T04:27:16.141978+00:00
-
- ## End Forced Arbitration – Medium
- - [https://endforcedarbitration.medium.com](https://endforcedarbitration.medium.com)
- - date_published: 2024-01-23T09:08:02.722628+00:00
-
- ## enzu.ru – Medium
- - [https://enzuru.medium.com](https://enzuru.medium.com)
- - date_published: 2024-05-24T18:19:26.544148+00:00
-
- ## Erik P.M. Vermeulen, PhD – Medium
- - [https://erikpmvermeulen.medium.com](https://erikpmvermeulen.medium.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Erik van de Ven – Medium
- - [https://erikvandeven.medium.com](https://erikvandeven.medium.com)
- - date_published: 2023-10-25T10:20:02.499859+00:00
- - tags: ['personal']
-
- ## Erman Misirlisoy, PhD – Medium
- - [https://ermanmisirlisoy.medium.com](https://ermanmisirlisoy.medium.com)
- - date_published: 2024-02-08T17:00:44.179573+00:00
-
- ## Esther Crawford – Medium
- - [https://esthercrawford.medium.com](https://esthercrawford.medium.com)
- - date_published: 2023-10-25T10:20:04.645101+00:00
-
- ## Eran Stiller – Medium
- - [https://estiller.medium.com](https://estiller.medium.com)
- - date_published: 2024-05-02T09:37:30.563527+00:00
-
- ## E.A. – Medium
- - [https://etakc.medium.com](https://etakc.medium.com)
- - date_published: 2024-02-08T16:43:13.388196+00:00
-
- ## Eva Schicker – Medium
- - [https://evaschicker.medium.com](https://evaschicker.medium.com)
- - date_published: 2024-04-30T05:46:18.768610+00:00
-
- ## exAspArk – Medium
- - [https://exaspark.medium.com](https://exaspark.medium.com)
- - date_published: 2024-02-24T04:35:47.325483+00:00
-
- ## Fabricio Teixeira – Medium
- - [https://fabriciot.medium.com](https://fabriciot.medium.com)
- - date_published: 2024-04-30T05:46:56.820371+00:00
-
- ## Felipe Pepe – Medium
- - [https://felipepepe.medium.com](https://felipepepe.medium.com)
- - date_published: 2024-01-09T01:46:29.522794+00:00
- - tags: ['personal']
-
- ## Flipboard – Medium
- - [https://flipboard.medium.com](https://flipboard.medium.com)
- - date_published: 2023-11-21T21:54:55.251511+00:00
-
- ## Robert Barron – Medium
- - [https://flyingbarron.medium.com](https://flyingbarron.medium.com)
- - date_published: 2023-10-25T10:20:12.651490+00:00
-
- ## Forge
- - [https://forge.medium.com](https://forge.medium.com)
- - date_published: 2024-05-08T04:03:34.693107+00:00
-
- ## Francisco Trindade – Medium
- - [https://franciscomt.medium.com](https://franciscomt.medium.com)
- - date_published: 2023-10-25T10:20:15.354599+00:00
-
- ## fred benenson – Medium
- - [https://fredbenenson.medium.com](https://fredbenenson.medium.com)
- - date_published: 2024-03-15T16:04:45.638100+00:00
-
- ## Fred Grott – Medium
- - [https://fredgrott.medium.com](https://fredgrott.medium.com)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Fredrick Brennan – Medium
- - [https://fredrickbrennan.medium.com](https://fredrickbrennan.medium.com)
- - date_published: 2023-10-25T10:20:17.725128+00:00
-
- ## Sara, CTRC-A, IFS – Medium
- - [https://fullcirclewellspring.medium.com](https://fullcirclewellspring.medium.com)
- - date_published: 2024-02-08T22:20:24.261282+00:00
- - tags: ['personal']
-
- ## Fungai Tichawangana – Medium
- - [https://fungaicreates.medium.com](https://fungaicreates.medium.com)
- - date_published: 2024-05-04T07:14:08.907863+00:00
-
- ## fwsGonzo – Medium
- - [https://fwsgonzo.medium.com](https://fwsgonzo.medium.com)
- - date_published: 2023-10-25T10:20:24.721924+00:00
-
- ## Ayush Singh – Medium
- - [https://g147.medium.com](https://g147.medium.com)
- - date_published: 2023-10-25T10:20:26.675224+00:00
-
- ## Gaby Goldberg – Medium
- - [https://gabygoldberg.medium.com](https://gabygoldberg.medium.com)
- - date_published: 2024-05-04T14:02:37.442027+00:00
-
- ## ＧΛËＬ ＤＵＶΛＬ – Medium
- - [https://gael-duval.medium.com](https://gael-duval.medium.com)
- - date_published: 2023-10-25T10:20:28.861577+00:00
 

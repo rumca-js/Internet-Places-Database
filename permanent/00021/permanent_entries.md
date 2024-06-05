@@ -1,3 +1,105 @@
+ ## Factor: Get 50% Off + 20% Your Next Month
+ - [https://go.factor75.com](https://go.factor75.com)
+ - date_published: 2024-05-02T13:58:54.726698+00:00
+
+ ## Factor
+ - [https://www.factor75.com](https://www.factor75.com)
+ - date_published: 2024-02-24T07:20:11.027848+00:00
+
+ ## Factor Capital
+ - [https://www.factorcapital.com](https://www.factorcapital.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Factor Daily - Stories that shape our future
+ - [https://factordaily.com](https://factordaily.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## factordb.com
+ - [http://factordb.com](http://factordb.com)
+ - date_published: 2024-05-11T07:32:12.145639+00:00
+
+ ## factordb.com
+ - [http://www.factordb.com](http://www.factordb.com)
+ - date_published: 2024-04-10T08:11:16.508097+00:00
+
+ ## All-in-One Human Resources (HR) Software - FactorialHR
+ - [https://factorialhr.com](https://factorialhr.com)
+ - date_published: 2024-04-21T06:24:03+00:00
+ - tags: ['software', 'employee tracking', 'company', 'hr', 'proprietary']
+
+ ## Factories in Space - Making products for Earth and space
+ - [https://www.factoriesinspace.com](https://www.factoriesinspace.com)
+ - date_published: 2023-10-25T14:25:11.646782+00:00
+
+ ## prod-mod-assets
+ - [https://assets-mod.factorio.com](https://assets-mod.factorio.com)
+ - date_published: 2024-05-02T14:01:17.887011+00:00
+
+ ## Your Push Zone has been created.
+ - [https://cdn.factorio.com](https://cdn.factorio.com)
+ - date_published: 2024-05-02T14:01:18.636603+00:00
+
+ ## Factorio
+ - [https://factorio.com](https://factorio.com)
+ - date_published: 2023-10-25T08:39:33.185785+00:00
+ - tags: ['video game']
+
+ ## Index page
+ - [https://forums.factorio.com](https://forums.factorio.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## API Docs | Factorio
+ - [https://lua-api.factorio.com](https://lua-api.factorio.com)
+ - date_published: 2024-05-02T14:01:44.579941+00:00
+
+ ## Recently updated | Factorio Mods
+ - [https://mods.factorio.com](https://mods.factorio.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Official Factorio Wiki
+ - [https://wiki.factorio.com](https://wiki.factorio.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Factorio
+ - [https://www.factorio.com](https://www.factorio.com)
+ - date_published: 2023-10-25T08:39:39.486807+00:00
+
+ ## Factory Joe
+ - [https://factoryjoe.com](https://factoryjoe.com)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Middle East And North Africa — Facts and Details
+ - [https://africame.factsanddetails.com](https://africame.factsanddetails.com)
+ - date_published: 2024-05-02T14:01:59.522403+00:00
+
+ ## Early European History And Religion — Facts and Details
+ - [https://europe.factsanddetails.com](https://europe.factsanddetails.com)
+ - date_published: 2024-05-02T14:01:54.382819+00:00
+
+ ## Facts and Details
+ - [https://factsanddetails.com](https://factsanddetails.com)
+ - date_published: 2023-12-22T07:45:44.024955+00:00
+
+ ## Sea Life, Islands and Oceania — Facts and Details
+ - [https://ioa.factsanddetails.com](https://ioa.factsanddetails.com)
+ - date_published: 2024-05-02T14:02:03.129804+00:00
+
+ ## FactSet
+ - [https://go.factset.com](https://go.factset.com)
+ - date_published: 2024-05-04T06:58:41.144273+00:00
+
+ ## FactSet
+ - [https://www.factset.com](https://www.factset.com)
+ - date_published: 2024-05-04T06:57:36.256880+00:00
+
+ ## FactSet Digital Solutions
+ - [https://foxbusinessp.factsetdigitalsolutions.com](https://foxbusinessp.factsetdigitalsolutions.com)
+ - date_published: 2024-05-04T06:57:58.284371+00:00
+
+ ## Faculty
+ - [https://faculty.com](https://faculty.com)
+ - date_published: 2024-05-12T04:15:14.815631+00:00
+
  ## Facu Montanaro
  - [https://facumontanaro.com](https://facumontanaro.com)
  - date_published: 2024-05-09T06:19:06.920099+00:00
@@ -3906,107 +4008,4 @@
  ## Zeke and Luther Wiki
  - [https://zekeandluther.fandom.com](https://zekeandluther.fandom.com)
  - date_published: 2024-05-02T14:10:59.588228+00:00
-
- ## Zelda Wiki
- - [https://zelda.fandom.com](https://zelda.fandom.com)
- - date_published: 2024-05-02T14:19:30.819649+00:00
-
- ## Zero Punctuation Wiki
- - [https://zeropunctuation.fandom.com](https://zeropunctuation.fandom.com)
- - date_published: 2024-05-02T15:00:03.827083+00:00
-
- ## Invader ZIM Wiki
- - [https://zim.fandom.com](https://zim.fandom.com)
- - date_published: 2024-05-02T14:45:30.951275+00:00
-
- ## Wiki Index |  | Fandom
- - [https://zod.fandom.com](https://zod.fandom.com)
- - date_published: 2024-05-09T09:01:58.611149+00:00
-
- ## Zool: The Alien Ninja from the Nth Dimension Wiki
- - [https://zool-the-alien-ninja-from-the-nth-dimension.fandom.com](https://zool-the-alien-ninja-from-the-nth-dimension.fandom.com)
- - date_published: 2024-05-02T14:16:36.654651+00:00
-
- ## FandomSpot
- - [https://www.fandomspot.com](https://www.fandomspot.com)
- - date_published: 2023-10-25T11:16:25.035308+00:00
-
- ## FandomWire - #1 Source for All Things Entertainment
- - [https://fandomwire.com](https://fandomwire.com)
- - date_published: 2023-12-09T10:18:19.951990+00:00
-
- ## Fangamer - Video game shirts, plushes, books, and more.
- - [https://fulfillment.fangamer.com](https://fulfillment.fangamer.com)
- - date_published: 2024-05-13T09:32:58.758882+00:00
-
- ## Fangamer - Video game shirts, plushes, books, and more.
- - [https://www.fangamer.com](https://www.fangamer.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## fangohr, llc — for a better tomorr[oh]
- - [http://fangohr.com](http://fangohr.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Fang-Pen's coding note
- - [https://fangpenlin.com](https://fangpenlin.com)
- - date_published: 2024-01-15T18:30:18.650651+00:00
-
- ## FanGraphs Baseball | Baseball Statistics and Analysis
- - [https://www.fangraphs.com](https://www.fangraphs.com)
- - date_published: 2024-04-23T17:31:38.824633+00:00
- - tags: ['baseball statistics']
-
- ## Private Site
- - [https://fangya18.com](https://fangya18.com)
- - date_published: 2023-12-30T09:52:26.070111+00:00
- - tags: ['personal']
-
- ## Capital Markets Activities & News
- - [https://capitalmarkets.fanniemae.com](https://capitalmarkets.fanniemae.com)
- - date_published: 2024-05-02T15:02:01.120353+00:00
-
- ## Careers | Fannie Mae
- - [https://careers.fanniemae.com](https://careers.fanniemae.com)
- - date_published: 2024-05-02T15:01:59.290848+00:00
-
- ## Home | Fannie Mae Multifamily
- - [https://multifamily.fanniemae.com](https://multifamily.fanniemae.com)
- - date_published: 2024-05-02T15:02:04.246343+00:00
-
- ## Reset Password - Fannie Mae
- - [https://passwordreset.fanniemae.com](https://passwordreset.fanniemae.com)
- - date_published: 2024-05-02T15:02:02.458183+00:00
-
- ## Single-Family Homepage | Fannie Mae
- - [https://singlefamily.fanniemae.com](https://singlefamily.fanniemae.com)
- - date_published: 2023-10-25T14:26:57.305682+00:00
-
- ## Mortgage Financing and Reliable Housing Information | Fannie Mae
- - [https://www.fanniemae.com](https://www.fanniemae.com)
- - date_published: 2024-05-02T15:01:54.228624+00:00
-
- ## Rongbin FAN
- - [https://fanrongbin.com](https://fanrongbin.com)
- - date_published: 2024-05-06T14:59:28.212469+00:00
-
- ## Fansided Blogs - FanSided Sites Fansided Blogs
- - [https://cdn.fansided.com](https://cdn.fansided.com)
- - date_published: 2024-05-13T02:47:10.348573+00:00
-
- ## The most customizable sports email newsletter on the web - FanSided Daily
- - [https://daily.fansided.com](https://daily.fansided.com)
- - date_published: 2024-05-13T02:47:14.384746+00:00
-
- ## FanSided Sports News & Updates: NFL, NBA, MLB, College & More
- - [https://fansided.com](https://fansided.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## FansOfBatman.com - The Ultimate Batman Fansite
- - [https://fansofbatman.com](https://fansofbatman.com)
- - date_published: 2023-11-27T12:53:57+00:00
- - tags: ['batman']
-
- ## Fansplaining
- - [https://www.fansplaining.com](https://www.fansplaining.com)
- - date_published: 2024-05-07T14:14:43.364153+00:00
 

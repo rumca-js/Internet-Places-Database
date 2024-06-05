@@ -1,3 +1,90 @@
+ ## EU Notice | Dallas Morning News
+ - [https://dfwishiring.dallasnews.com](https://dfwishiring.dallasnews.com)
+ - date_published: 2024-05-01T03:42:56.746581+00:00
+
+ ## Dallas News
+ - [https://epaper.dallasnews.com](https://epaper.dallasnews.com)
+ - date_published: 2024-05-01T03:42:38.810224+00:00
+
+ ## Sign In | The Dallas Morning News
+ - [https://myaccount.dallasnews.com](https://myaccount.dallasnews.com)
+ - date_published: 2024-05-01T03:43:17.358075+00:00
+
+ ## BlueConic: Log In
+ - [https://newsstat.dallasnews.com](https://newsstat.dallasnews.com)
+ - date_published: 2024-05-01T03:42:51.651714+00:00
+
+ ## Dallas Morning News Store
+ - [https://store.dallasnews.com](https://store.dallasnews.com)
+ - date_published: 2024-05-01T03:42:45.766518+00:00
+
+ ## Dallas News | Breaking News for DFW, Texas, World
+ - [https://www.dallasnews.com](https://www.dallasnews.com)
+ - date_published: 2023-10-25T11:02:56.988420+00:00
+
+ ## Home - DallasNews Corporation
+ - [https://www.dallasnewscorporation.com](https://www.dallasnewscorporation.com)
+ - date_published: 2023-03-27T00:00:00+00:00
+
+ ## Dallas Observer | The Leading Independent News Source in Dallas, Texas
+ - [https://www.dallasobserver.com](https://www.dallasobserver.com)
+ - date_published: 2024-05-06T23:15:36.189471+00:00
+
+ ## Dalus Capital
+ - [https://daluscapital.com](https://daluscapital.com)
+ - date_published: 2020-01-23T23:36:22+00:00
+
+ ## CHARLES DALY
+ - [https://dalyprose.com](https://dalyprose.com)
+ - date_published: 2023-11-29T15:17:02.140272+00:00
+
+ ## daMaia
+ - [https://www.damaia.com](https://www.damaia.com)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Software Engineering
+ - [https://damienbod.com](https://damienbod.com)
+ - date_published: 2024-01-09T05:07:20.296639+00:00
+
+ ## Home » DamienG
+ - [https://damieng.com](https://damieng.com)
+ - date_published: 2023-10-25T09:19:59.490554+00:00
+ - tags: ['personal']
+
+ ## Ben's Bay
+ - [https://dammfine.com](https://dammfine.com)
+ - date_published: 1999-01-01T00:00:00+00:00
+ - tags: ['personal']
+
+ ## DAMM Good Sleep
+ - [https://www.dammgoodsleep.com](https://www.dammgoodsleep.com)
+ - date_published: 2024-05-12T04:59:43.801580+00:00
+
+ ## Damn Interesting • Obscure true stories from science & history
+ - [https://www.damninteresting.com](https://www.damninteresting.com)
+ - date_published: 2023-10-25T13:42:23.621997+00:00
+
+ ## Damola Morenikeji
+ - [https://damolamorenikeji.com](https://damolamorenikeji.com)
+ - date_published: 2024-05-01T03:56:59.197891+00:00
+ - tags: ['personal']
+
+ ## Damola Morenikeji
+ - [https://www.damolamorenikeji.com](https://www.damolamorenikeji.com)
+ - date_published: 2024-01-30T14:45:52.255540+00:00
+
+ ## Buy and Sell Domain Names | Dan.com
+ - [https://cdn0.dan.com](https://cdn0.dan.com)
+ - date_published: 2024-04-28T06:08:01.025573+00:00
+
+ ## Buy and Sell Domain Names | Dan.com
+ - [https://cdn1.dan.com](https://cdn1.dan.com)
+ - date_published: 2024-04-28T06:08:05.016814+00:00
+
+ ## Buy and Sell Domain Names | Dan.com
+ - [https://cdn2.dan.com](https://cdn2.dan.com)
+ - date_published: 2024-04-28T06:08:03.874366+00:00
+
  ## Buy and Sell Domain Names | Dan.com
  - [https://cdn3.dan.com](https://cdn3.dan.com)
  - date_published: 2024-04-28T06:08:07.294972+00:00
@@ -1263,6 +1350,10 @@
  ## Dave Paquette
  - [http://www.davepaquette.com](http://www.davepaquette.com)
  - date_published: 2024-05-01T03:55:55.854272+00:00
+
+ ## Dave Perrett
+ - [https://www.daveperrett.com](https://www.daveperrett.com)
+ - date_published: 2021-08-19T00:00:00+00:00
 
  ## Data Scientist | Dave Ramsey | PHL | blog
  - [https://www.daveramseymusic.com](https://www.daveramseymusic.com)
@@ -2695,6 +2786,10 @@
  - [https://www.definitivetechnology.com](https://www.definitivetechnology.com)
  - date_published: 2024-05-04T14:33:30.166100+00:00
 
+ ## DeFi Saver — Advanced DeFi Management
+ - [https://defisaver.com](https://defisaver.com)
+ - date_published: 2024-06-04T06:12:42.750963+00:00
+
  ## Defold - Official Homepage - Cross platform game engine
  - [https://defold.com](https://defold.com)
  - date_published: 2024-05-13T12:38:14+00:00
@@ -4033,98 +4128,4 @@
  ## DeviantArt Media Kit
  - [https://deviantartads.com](https://deviantartads.com)
  - date_published: 2024-05-01T04:56:02.817670+00:00
-
- ## DeviantArt
- - [https://www.deviantartprotect.com](https://www.deviantartprotect.com)
- - date_published: 2024-05-01T04:56:01.184491+00:00
-
- ## DeviantArt
- - [https://www.deviantartsupport.com](https://www.deviantartsupport.com)
- - date_published: 2024-05-01T04:56:06.338719+00:00
-
- ## デヴィエーションゲーム
- - [https://deviationgame.com](https://deviationgame.com)
- - date_published: 2023-10-25T13:51:04.144622+00:00
-
- ## Home - Ultimate Mac
- - [http://www.deviceforge.com](http://www.deviceforge.com)
- - date_published: 2024-05-08T00:09:45.769014+00:00
-
- ## DeviceTalks | Medtech Events & Podcasts
- - [https://www.devicetalks.com](https://www.devicetalks.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Devicu
- - [https://www.devicu.com](https://www.devicu.com)
- - date_published: 2024-04-27T07:33:08.986037+00:00
-
- ## Devildash - Das verrückte Magazin für Technik
- - [http://devildash.com](http://devildash.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Dev Fern | Devinfernandez.com
- - [https://www.devinfernandez.com](https://www.devinfernandez.com)
- - date_published: 2023-10-25T00:00:00+00:00
-
- ## Developmental Interpretability
- - [https://devinterp.com](https://devinterp.com)
- - date_published: 2024-05-08T09:52:02.370957+00:00
-
- ## DEVintersection
- - [https://devintersection.com](https://devintersection.com)
- - date_published: 2024-05-01T07:32:11.733259+00:00
-
- ## DEVintersection
- - [https://www.devintersection.com](https://www.devintersection.com)
- - date_published: 2024-05-01T07:31:53.488722+00:00
-
- ## DevIQ
- - [https://deviq.com](https://deviq.com)
- - date_published: 2024-05-06T08:55:06.098157+00:00
-
- ## Dev Kimchi
- - [https://devkimchi.com](https://devkimchi.com)
- - date_published: 2024-05-01T03:44:18.728498+00:00
-
- ## Devletics
- - [https://devletics.com](https://devletics.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Devnexus 2024
- - [https://devnexus.com](https://devnexus.com)
- - date_published: 2024-05-07T10:28:07.914101+00:00
- - tags: ['programming', 'conference', 'java']
-
- ## /dev/nonsense
- - [https://dev-nonsense.com](https://dev-nonsense.com)
- - date_published: 2023-10-25T13:50:39.258445+00:00
-
- ## /dev/nonsense
- - [https://devnonsense.com](https://devnonsense.com)
- - date_published: 2023-10-25T13:51:05.256311+00:00
-
- ## GoatCounter
- - [https://karma.devnonsense.com](https://karma.devnonsense.com)
- - date_published: 2024-05-01T04:49:26.373365+00:00
-
- ## Devographics Surveys
- - [https://survey.devographics.com](https://survey.devographics.com)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Devolver Digital
- - [https://www.devolverdigital.com](https://www.devolverdigital.com)
- - date_published: 2024-05-06T14:40:31.711794+00:00
-
- ## Home - DE Digital
- - [https://www.devoneddydigital.com](https://www.devoneddydigital.com)
- - date_published: 2022-04-03T00:00:00+00:00
-
- ## 500
- - [https://i2-prod.devonlive.com](https://i2-prod.devonlive.com)
- - date_published: 2024-05-02T11:22:16.005893+00:00
-
- ## Dev On Track!
- - [https://blog.devontrack.com](https://blog.devontrack.com)
- - date_published: 2024-06-01T05:05:43.096760+00:00
- - tags: ['personal']
 

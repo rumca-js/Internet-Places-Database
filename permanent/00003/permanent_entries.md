@@ -1,3 +1,11 @@
+ ## Pivô
+ - [https://www.pivo.org.br](https://www.pivo.org.br)
+ - date_published: 2024-02-08T17:51:49.160299+00:00
+
+ ## Portas Abertas – Tudo sobre cristãos perseguidos e a Igreja Perseguida
+ - [https://www.portasabertas.org.br](https://www.portasabertas.org.br)
+ - date_published: 2024-05-08T11:12:55.979392+00:00
+
  ## Comunicar para Mudar
  - [https://comunicarparamudar.reporterbrasil.org.br](https://comunicarparamudar.reporterbrasil.org.br)
  - date_published: 2024-01-09T02:27:01.376800+00:00
@@ -2342,6 +2350,7 @@
  ## Best Online Casinos and Slots for Canadians 2024 - Slots Online Canada
  - [https://slots-online-canada.ca](https://slots-online-canada.ca)
  - date_published: 2024-05-06T16:14:28.110225+00:00
+ - tags: ['gambling']
 
  ## Tall, Snarky Canadian
  - [https://snarky.ca](https://snarky.ca)
@@ -3890,6 +3899,10 @@
  - date_published: 2023-10-25T12:10:02.392667+00:00
  - tags: ['company']
 
+ ## About – Dewhales
+ - [https://dewhales.capital](https://dewhales.capital)
+ - date_published: 2024-06-04T11:33:07.419190+00:00
+
  ## Home | OSS Capital
  - [https://oss.capital](https://oss.capital)
  - date_published: 2024-05-07T11:04:26.335641+00:00
@@ -4074,16 +4087,4 @@
  ## The Cozy Cat – Welcome to my cozy corner of the internet.
  - [https://cottage.thecozy.cat](https://cottage.thecozy.cat)
  - date_published: 2024-04-30T05:41:18.535012+00:00
-
- ## thecozy.cat – Welcome to my cozy corner of the internet.
- - [https://thecozy.cat](https://thecozy.cat)
- - date_published: 2023-10-25T12:10:38.975800+00:00
-
- ## The Cozy Cat – Welcome to my cozy corner of the internet.
- - [https://town.thecozy.cat](https://town.thecozy.cat)
- - date_published: 2024-04-30T05:41:34.589307+00:00
-
- ## Toot.Cat
- - [https://toot.cat](https://toot.cat)
- - date_published: 2023-10-25T12:10:42.383525+00:00
 

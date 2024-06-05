@@ -1,3 +1,191 @@
+ ## Science Codex
+ - [http://www.sciencecodex.com](http://www.sciencecodex.com)
+ - date_published: 2024-04-28T03:42:59.124538+00:00
+
+ ## ScienceDaily: Your source for the latest research news
+ - [https://sciencedaily.com](https://sciencedaily.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## ScienceDaily: Your source for the latest research news
+ - [https://www.sciencedaily.com](https://www.sciencedaily.com)
+ - date_published: 2023-10-25T10:10:58.373293+00:00
+ - tags: ['science']
+
+ ## ScienceDirect
+ - [https://www.sciencedirect.com](https://www.sciencedirect.com)
+ - date_published: 2023-10-25T10:10:59.662060+00:00
+ - tags: ['science news']
+
+ ## ScienceDirect
+ - [https://pdf.sciencedirectassets.com](https://pdf.sciencedirectassets.com)
+ - date_published: 2024-05-07T15:12:23.981663+00:00
+
+ ## ScienceDirect
+ - [https://sdfestaticassets-us-east-1.sciencedirectassets.com](https://sdfestaticassets-us-east-1.sciencedirectassets.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## BBC Science Focus Magazine - science, nature, technology, Q&As
+ - [https://sciencefocus.com](https://sciencefocus.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## BBC Science Focus Magazine - science, nature, technology, Q&As
+ - [https://www.sciencefocus.com](https://www.sciencefocus.com)
+ - date_published: 2023-10-25T16:59:02.217981+00:00
+
+ ## ScienceFriday.com
+ - [http://sciencefriday.com](http://sciencefriday.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Science Friday
+ - [https://www.sciencefriday.com](https://www.sciencefriday.com)
+ - date_published: 2023-10-25T16:59:05.373137+00:00
+
+ ## Science Friday Store
+ - [https://www.sciencefridaystore.com](https://www.sciencefridaystore.com)
+ - date_published: 2024-04-29T02:29:01.629768+00:00
+
+ ## Science Integrity Digest
+ - [https://scienceintegritydigest.com](https://scienceintegritydigest.com)
+ - date_published: 2024-05-04T06:41:53.853349+00:00
+
+ ## Science is Weird
+ - [http://scienceisweird.com](http://scienceisweird.com)
+ - date_published: 2024-05-08T09:58:00.187015+00:00
+ - tags: ['education', 'science']
+
+ ## Science Mastodon
+ - [https://sciencemastodon.com](https://sciencemastodon.com)
+ - date_published: 2024-04-30T05:57:44.155281+00:00
+
+ ## Science of Copywriting – Weekly Hints and Tips for Copywriters
+ - [https://scienceofcopywriting.com](https://scienceofcopywriting.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## The Science of Doom
+ - [http://scienceofdoom.com](http://scienceofdoom.com)
+ - date_published: 2024-05-07T15:17:13.416319+00:00
+
+ ## ScienceOpen
+ - [https://www.scienceopen.com](https://www.scienceopen.com)
+ - date_published: 2024-05-02T10:55:06.476045+00:00
+
+ ## Science Shot: Professional Insights, Unique Perspectives.
+ - [https://www.scienceshot.com](https://www.scienceshot.com)
+ - date_published: 2023-12-29T20:02:33.354446+00:00
+
+ ## Science Speak Home Page
+ - [http://sciencespeak.com](http://sciencespeak.com)
+ - date_published: 2024-05-07T14:59:45.023524+00:00
+
+ ## ScienceSwitch – Exploring the Depths of Curiosity
+ - [https://scienceswitch.com](https://scienceswitch.com)
+ - date_published: 2023-10-25T16:59:08.691306+00:00
+
+ ## Science The World – Science The World: An Engineering Education Research Group
+ - [http://sciencetheworld.com](http://sciencetheworld.com)
+ - date_published: 2024-05-13T03:26:25.576854+00:00
+
+ ## Science X Network :: Phys.org, Medical Xpress, Tech Xplore
+ - [https://sciencex.com](https://sciencex.com)
+ - date_published: 2024-05-04T14:59:52.423796+00:00
+
+ ## Sciencing
+ - [https://sciencing.com](https://sciencing.com)
+ - date_published: 2024-05-06T13:17:16.149680+00:00
+ - tags: ['science news']
+
+ - [https://intapi.sciendo.com](https://intapi.sciendo.com)
+ - date_published: 2024-02-24T09:58:14.488510+00:00
+
+ ## Sciendo
+ - [https://sciendo.com](https://sciendo.com)
+ - date_published: 2024-05-08T16:50:11.696264+00:00
+
+ ## Scienmag | Science Magazine : Latest Discoveries in Cancer, Medicine,
+ - [https://scienmag.com](https://scienmag.com)
+ - date_published: 2024-05-07T22:44:23.762091+00:00
+
+ ## 2nd International Conference on Dermatology and Cosmetology
+ - [https://www.dermatology.scientexconference.com](https://www.dermatology.scientexconference.com)
+ - date_published: 2024-05-09T05:39:59.905013+00:00
+
+ ## Scientific American Blog Network - Scientific American Blog Network
+ - [https://blogs.scientificamerican.com](https://blogs.scientificamerican.com)
+ - date_published: 2023-10-25T16:59:13.314083+00:00
+
+ ## Scientific American
+ - [https://scientificamerican.com](https://scientificamerican.com)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Scientific American: Science News, Expert Analysis, Health Research - Scientific American
+ - [https://www.scientificamerican.com](https://www.scientificamerican.com)
+ - date_published: 2023-10-25T10:11:03.956799+00:00
+
+ ## The Scientific Coder
+ - [https://scientificcoder.com](https://scientificcoder.com)
+ - date_published: 2023-10-25T16:59:14.570457+00:00
+
+ ## Scientific Computing | Scientific Computing World
+ - [https://www.scientific-computing.com](https://www.scientific-computing.com)
+ - date_published: 2023-10-25T16:59:10.313762+00:00
+
+ ## Open Access Peer Reviewed Journals | Science and Education Publishing: Home
+ - [http://www.sciepub.com](http://www.sciepub.com)
+ - date_published: 2024-05-07T19:53:43.606350+00:00
+
+ ## Sci-Fi Movie News & Forums: Alien, Godzilla, Jurassic World & More - Scified
+ - [https://www.scified.com](https://www.scified.com)
+ - date_published: 2024-05-07T14:02:10+00:00
+ - tags: ['science fiction']
+
+ ## Sci-fi interfaces
+ - [https://scifiinterfaces.com](https://scifiinterfaces.com)
+ - date_published: 2023-12-14T07:38:40.007550+00:00
+
+ ## Scimago Journal & Country Rank
+ - [https://www.scimagojr.com](https://www.scimagojr.com)
+ - date_published: 2024-05-08T08:42:43.079889+00:00
+
+ ## Cierpliwości...
+ - [https://sciprofiles.com](https://sciprofiles.com)
+ - date_published: 2024-05-04T14:58:55.925629+00:00
+
+ ## SciProgramming - Home
+ - [https://sciprogramming.com](https://sciprogramming.com)
+ - date_published: 2023-10-25T16:59:15.991666+00:00
+
+ ## Top arXiv papers
+ - [https://scirate.com](https://scirate.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Home
+ - [https://www.scisafari.com](https://www.scisafari.com)
+ - date_published: 2024-05-02T09:44:59.174962+00:00
+
+ ## SciStarter - SciStarter
+ - [http://scistarter.com](http://scistarter.com)
+ - date_published: 2024-05-09T04:11:26.821324+00:00
+
+ ## SciTechDaily - Science, Space and Technology News 2023
+ - [https://scitechdaily.com](https://scitechdaily.com)
+ - date_published: 2023-10-25T10:11:08.449489+00:00
+
+ ## SciTechDaily - Science, Space and Technology News 2024
+ - [http://www.scitechdaily.com](http://www.scitechdaily.com)
+ - date_published: 2024-05-04T07:41:30.514563+00:00
+
+ ## Sciter Documentation | Sciter
+ - [https://docs.sciter.com](https://docs.sciter.com)
+ - date_published: 2024-04-29T02:30:33.375631+00:00
+
+ ## Sciter Notes – Take your notes… back home.
+ - [http://notes.sciter.com](http://notes.sciter.com)
+ - date_published: 2024-04-29T02:30:45.890734+00:00
+
+ ## Quark – HTML/CSS/script Application Compiler
+ - [https://quark.sciter.com](https://quark.sciter.com)
+ - date_published: 2024-04-29T02:30:37.098236+00:00
+
  ## sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Desktop and Mobile Application
  - [https://sciter.com](https://sciter.com)
  - date_published: 2023-10-25T16:59:18.546109+00:00
@@ -3224,6 +3412,7 @@ Scopus - Welcome to Scopus
  ## Shawn Yeager
  - [https://shawnyeager.com](https://shawnyeager.com)
  - date_published: 2024-01-08T00:00:00+00:00
+ - tags: ['personal']
 
  ## Shay Bocks · Brand Strategist and Enneagram Practitioner
  - [http://shaybocks.com](http://shaybocks.com)
@@ -3687,6 +3876,10 @@ Scopus - Welcome to Scopus
  - [https://www.shorpy.com](https://www.shorpy.com)
  - date_published: 2024-05-07T15:03:47.631648+00:00
 
+ ## Show HN: Shortbread App – AI-powered, romantic comics for women
+ - [https://www.shortbreadapp.com](https://www.shortbreadapp.com)
+ - date_published: 2024-06-04T15:22:31+00:00
+
  ## Shortcut | Focus on Outcomes, not Output
  - [https://shortcut.com](https://shortcut.com)
  - date_published: 2024-04-28T00:00:00+00:00
@@ -3914,201 +4107,4 @@ Scopus - Welcome to Scopus
  ## KamloopsBCNow - stuff that matters to Kamloops
  - [https://www.shuswapnow.com](https://www.shuswapnow.com)
  - date_published: 2024-05-07T10:43:38.462134+00:00
-
- ## Shutterfly: Photo Books, Cards, Prints, Wall Art, Gifts, Wedding
- - [https://talkovlaw.shutterfly.com](https://talkovlaw.shutterfly.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Stock Images, Photos, Vectors, Video, and Music | Shutterstock
- - [https://avatar-thumbs.shutterstock.com](https://avatar-thumbs.shutterstock.com)
- - date_published: 2024-04-29T03:44:33.795390+00:00
-
- ## Welcome to nginx!
- - [https://cdn.shutterstock.com](https://cdn.shutterstock.com)
- - date_published: 2024-04-29T03:45:48.090688+00:00
-
- ## Premium content that simplifies creativity for your team
- - [https://enterprise.shutterstock.com](https://enterprise.shutterstock.com)
- - date_published: 2024-04-29T03:44:26.293589+00:00
-
- ## Welcome to nginx!
- - [https://image.shutterstock.com](https://image.shutterstock.com)
- - date_published: 2024-04-29T03:44:28.605428+00:00
-
- ## Premium content that simplifies creativity for your team
- - [https://premier.shutterstock.com](https://premier.shutterstock.com)
- - date_published: 2024-04-29T03:44:23.093449+00:00
-
- ## Error
- - [https://user-assets.shutterstock.com](https://user-assets.shutterstock.com)
- - date_published: 2024-04-29T03:45:56.251529+00:00
-
- ## Stock Images, Photos, Vectors, Video, and Music | Shutterstock
- - [https://www.shutterstock.com](https://www.shutterstock.com)
- - date_published: 2023-10-25T11:35:43.225421+00:00
- - tags: ['assets']
-
- ## Shuttl - India's largest office commute App
- - [https://ride.shuttl.com](https://ride.shuttl.com)
- - date_published: 2024-05-10T06:31:46.029903+00:00
-
- ## ShuttleCloud - Email and contact migration made easy
- - [https://www.shuttlecloud.com](https://www.shuttlecloud.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Shut Up & Sit Down
- - [https://shutupandsitdown.com](https://shutupandsitdown.com)
- - date_published: 2024-04-29T03:46:04.050581+00:00
-
- ## Shut Up & Sit Down
- - [https://www.shutupandsitdown.com](https://www.shutupandsitdown.com)
- - date_published: 2023-10-25T11:11:32.580373+00:00
- - tags: ['tabletop games', 'board games', 'wargames']
-
- ## Tomer Shvueli's Landing Page
- - [https://tomer.shvueli.com](https://tomer.shvueli.com)
- - date_published: 2024-01-07T22:19:26.984238+00:00
-
- ## Shyam Jos
- - [https://shyamjos.com](https://shyamjos.com)
- - date_published: 2024-06-01T05:04:50.495984+00:00
- - tags: ['personal']
-
- ## Video Games on Sports Illustrated
- - [https://videogames.si.com](https://videogames.si.com)
- - date_published: 2024-05-13T03:53:01.547555+00:00
-
- ## Siakula Art | Digital Art - Procreate Drawing Tutorials
- - [https://www.siakulaart.com](https://www.siakulaart.com)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## The Siasat Daily | Latest Hyderabad News, Telangana, Entertainment, India
- - [https://cdn.siasat.com](https://cdn.siasat.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## The Siasat Daily: Breaking News, Hyderabad, India, Islamic, World
- - [https://epaper.siasat.com](https://epaper.siasat.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Siasat Daily: Hyderabad News, Bollywood, World, Islamic News in urdu
- - [https://urdu.siasat.com](https://urdu.siasat.com)
- - date_published: 2024-04-29T03:47:34.728527+00:00
-
- ## Latest News from Hyderabad, Telangana, Bollywood, India | Siasat.com
- - [https://www.siasat.com](https://www.siasat.com)
- - date_published: 2023-10-25T17:03:56.554286+00:00
-
- ## Accelerating the transition to smart buying and smarter supply chain | Sibi
- - [https://www.sibipro.com](https://www.sibipro.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## siboehm
- - [https://siboehm.com](https://siboehm.com)
- - date_published: 2023-10-25T17:03:57.531359+00:00
-
- ## TEAM ZUKUNFT
- - [https://q5kf46ry.sibpages.com](https://q5kf46ry.sibpages.com)
- - date_published: 2024-05-13T03:11:56.412124+00:00
-
- ## Sibyl Surveys by Signet Research
- - [https://appv2.sibylsurveys.com](https://appv2.sibylsurveys.com)
- - date_published: 2024-05-08T04:00:45.782235+00:00
-
- ## SICK | Sensor Intelligence
- - [https://www.sick.com](https://www.sick.com)
- - date_published: 2024-04-28T05:23:30.621498+00:00
-
- ## Sidabitball
- - [http://www.sidabitball.com](http://www.sidabitball.com)
- - date_published: 2024-05-08T10:04:14.356052+00:00
-
- ## Siddarth RG
- - [https://siddarthrg.com](https://siddarthrg.com)
- - date_published: 2024-04-03T06:23:07.794024+00:00
- - tags: ['personal']
-
- ## https://siddhantpyasi.com
- - [https://siddhantpyasi.com](https://siddhantpyasi.com)
- - date_published: 2024-01-08T07:27:25.364006+00:00
- - tags: ['personal']
-
- ## Sidecar Health
- - [https://app.sidecarhealth.com](https://app.sidecarhealth.com)
- - date_published: 2024-04-29T03:47:55.976803+00:00
-
- ## Cash Prices for Medical Procedures | Sidecar Health Care Calculator
- - [https://cost.sidecarhealth.com](https://cost.sidecarhealth.com)
- - date_published: 2023-10-25T17:03:58.680063+00:00
-
- ## Health insurance the way it should be | Sidecar Health
- - [https://sidecarhealth.com](https://sidecarhealth.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Home page | Side Hustle School
- - [http://sidehustleschool.com](http://sidehustleschool.com)
- - date_published: 2024-05-06T14:03:16.970186+00:00
-
- ## SideQuest: Oculus Quest Games & Apps including AppLab Games ( Oculus App Lab )
- - [https://sidequestvr.com](https://sidequestvr.com)
- - date_published: 2023-12-06T10:34:52+00:00
- - tags: ['virtual reality']
-
- ## Find TV Episodes, Track Shows to Watch Online | SideReel
- - [https://www.sidereel.com](https://www.sidereel.com)
- - date_published: 2024-05-01T03:16:42.698316+00:00
-
- ## Omni
- - [https://omni.siderolabs.com](https://omni.siderolabs.com)
- - date_published: 2024-05-21T02:46:41.116482+00:00
-
- ## A Better Way to Run Kubernetes - Sidero Labs
- - [https://www.siderolabs.com](https://www.siderolabs.com)
- - date_published: 2024-03-04T00:00:00+00:00
- - tags: ['kubernetes']
-
- ## Home | Sidewalk Labs | Urban Innovation
- - [http://www.sidewalklabs.com](http://www.sidewalklabs.com)
- - date_published: 2024-05-19T02:47:27.896690+00:00
-
- ## The sideways view
- - [https://sideways-view.com](https://sideways-view.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Sidiostedalimones
- - [https://sidiostedalimones.com](https://sidiostedalimones.com)
- - date_published: 2024-05-09T08:02:06.023443+00:00
-
- ## Sidley Austin LLP | Global Law Firm
- - [https://www.sidley.com](https://www.sidley.com)
- - date_published: 2024-04-30T04:45:37.432422+00:00
-
- ## sidsite | The site of Sid.
- - [https://sidsite.com](https://sidsite.com)
- - date_published: 2023-10-25T17:03:59.649008+00:00
-
- ## EDA Software, Hardware & Tools
- - [https://eda.sw.siemens.com](https://eda.sw.siemens.com)
- - date_published: 2024-04-29T03:13:50.349128+00:00
-
- ## Siemens global Website
- - [https://siemens.com](https://siemens.com)
- - date_published: 2024-04-16T00:00:00+00:00
- - tags: ['automation', 'company']
-
- ## Siemens global Website
- - [https://www.siemens.com](https://www.siemens.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Sierra
- - [https://www.sierra.com](https://www.sierra.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## The Sierra Chest
- - [https://sierrachest.com](https://sierrachest.com)
- - date_published: 2024-04-07T17:58:43+00:00
- - tags: ['sierra games fan page']
-
- ## The Sierra Chest
- - [http://www.sierrachest.com](http://www.sierrachest.com)
- - date_published: 2024-05-13T03:55:11.170798+00:00
 

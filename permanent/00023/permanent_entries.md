@@ -1,3 +1,109 @@
+ ## Ford Performance
+ - [https://performance.ford.com](https://performance.ford.com)
+ - date_published: 2024-05-04T06:43:02.896235+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://shareholder.ford.com](https://shareholder.ford.com)
+ - date_published: 2024-05-04T06:43:21.948308+00:00
+
+ ## Ford® - New Hybrid & Electric Vehicles, SUVs, Crossovers, Trucks, Vans & Cars
+ - [https://shop.ford.com](https://shop.ford.com)
+ - date_published: 2024-05-04T06:42:37.844162+00:00
+
+ ## Ford® - New Hybrid & Electric Vehicles, SUVs, Crossovers, Trucks, Vans & Cars
+ - [https://www.clw.ford.com](https://www.clw.ford.com)
+ - date_published: 2024-05-04T06:43:07.077811+00:00
+
+ ## Ford® - New Hybrid & Electric Vehicles, SUVs, Crossovers, Trucks, Vans & Cars
+ - [https://www.ford.com](https://www.ford.com)
+ - date_published: 2023-11-01T08:42:08.838585+00:00
+
+ ## Ford® - New Hybrid & Electric Vehicles, SUVs, Crossovers, Trucks, Vans & Cars
+ - [https://www.vdm.ford.com](https://www.vdm.ford.com)
+ - date_published: 2024-05-04T06:43:32.817582+00:00
+
+ ## Ford Warriors In Pink
+ - [https://www.warriorsinpink.ford.com](https://www.warriorsinpink.ford.com)
+ - date_published: 2024-05-04T06:43:09.374013+00:00
+
+ ## FordAuthority
+ - [https://fordauthority.com](https://fordauthority.com)
+ - date_published: 2024-04-14T00:57:14+00:00
+ - tags: ['car news', 'ford']
+
+ ## Ford Barn
+ - [http://www.fordbarn.com](http://www.fordbarn.com)
+ - date_published: 2024-05-11T08:07:00.001647+00:00
+
+ ## Shop Ford Blue Advantage Certified Used Vehicles
+ - [https://www.fordblueadvantage.com](https://www.fordblueadvantage.com)
+ - date_published: 2024-05-04T06:43:14.976439+00:00
+
+ ## Ford Hurley
+ - [https://fordhurley.com](https://fordhurley.com)
+ - date_published: 2024-05-07T23:11:18.743307+00:00
+
+ ## Home - FordMuscle
+ - [http://www.fordmuscle.com](http://www.fordmuscle.com)
+ - date_published: 2024-05-02T09:28:26.552043+00:00
+
+ ## Ford Pro™ | Commercial Fleet Vehicles, Services & Telematics
+ - [https://www.fordpro.com](https://www.fordpro.com)
+ - date_published: 2024-05-04T06:42:40.728479+00:00
+
+ ## LocalWeather
+ - [https://lw.foreca.com](https://lw.foreca.com)
+ - date_published: 2024-05-11T08:22:15.101690+00:00
+
+ ## Forecast7.com - Weather Forecast
+ - [https://forecast7.com](https://forecast7.com)
+ - date_published: 2024-05-08T00:09:39.382182+00:00
+
+ ## Defense Security Monitor
+ - [https://dsm.forecastinternational.com](https://dsm.forecastinternational.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Foreexcel
+ - [http://www.foreexcel.com](http://www.foreexcel.com)
+ - date_published: 2024-05-29T15:23:42.456804+00:00
+
+ ## Foreign Affairs
+ - [https://cdn-live.foreignaffairs.com](https://cdn-live.foreignaffairs.com)
+ - date_published: 2024-05-04T06:43:38.926003+00:00
+
+ ## Foreign Affairs Magazine
+ - [https://www.foreignaffairs.com](https://www.foreignaffairs.com)
+ - date_published: 2023-10-25T15:10:16.234805+00:00
+
+ ## Foreign Brief
+ - [https://foreignbrief.com](https://foreignbrief.com)
+ - date_published: 2023-12-29T05:28:44.166117+00:00
+
+ ## Home
+ - [https://foreignlanguagecollective.com](https://foreignlanguagecollective.com)
+ - date_published: 2021-02-07T13:55:14+00:00
+
+ ## Foreign Policy – the Global Magazine of News and Ideas
+ - [https://foreignpolicy.com](https://foreignpolicy.com)
+ - date_published: 2023-10-25T15:10:25.310637+00:00
+ - tags: ['politics news']
+
+ ## FP Analytics - FP Analytics
+ - [https://fpanalytics.foreignpolicy.com](https://fpanalytics.foreignpolicy.com)
+ - date_published: 2024-05-12T07:00:56.916622+00:00
+
+ ## Welcome to the FP Education Guides - Foreign Policy Guide
+ - [https://fpguide.foreignpolicy.com](https://fpguide.foreignpolicy.com)
+ - date_published: 2024-05-12T07:01:02.103168+00:00
+
+ ## PeaceGame - Foreign Policy
+ - [https://peacegame.foreignpolicy.com](https://peacegame.foreignpolicy.com)
+ - date_published: 2024-05-12T07:01:17.786887+00:00
+
+ ## Best Defense – Foreign Policy
+ - [http://ricks.foreignpolicy.com](http://ricks.foreignpolicy.com)
+ - date_published: 2024-05-06T20:50:28.223129+00:00
+
  ## FP Solutions
  - [https://solutions.foreignpolicy.com](https://solutions.foreignpolicy.com)
  - date_published: 2024-05-12T07:01:10.026448+00:00
@@ -2543,6 +2649,10 @@
  - date_published: 2024-05-09T08:53:12.616275+00:00
  - tags: ['open source', 'dune 2', 'video game port', 'dune']
 
+ ## Crosswords for Developers.
+ - [https://funfordevs.com](https://funfordevs.com)
+ - date_published: 2024-06-04T21:00:54.776763+00:00
+
  ## Fungai Creates – The Creative Journey of Fungai Tichawangana
  - [https://fungaicreates.com](https://fungaicreates.com)
  - date_published: 2023-11-29T14:23:46.434681+00:00
@@ -3990,115 +4100,4 @@
  - [https://www.gautamnarula.com](https://www.gautamnarula.com)
  - date_published: 2023-11-29T16:20:08.747690+00:00
  - tags: ['personal']
-
- ## Home | gautampk.com
- - [https://www.gautampk.com](https://www.gautampk.com)
- - date_published: 2024-05-07T23:28:18.642732+00:00
-
- ## Gautam Rao | Homepage
- - [https://gautam-rao.com](https://gautam-rao.com)
- - date_published: 2024-05-04T14:45:24.567627+00:00
-
- ## Gauthier Roussilhe
- - [https://gauthierroussilhe.com](https://gauthierroussilhe.com)
- - date_published: 2023-12-11T16:12:10.777950+00:00
-
- ## Gavin D. Howard
- - [https://gavinhoward.com](https://gavinhoward.com)
- - date_published: 2023-10-25T14:42:07.699227+00:00
-
- ## Gavin Rehkemper
- - [https://gavinr.com](https://gavinr.com)
- - date_published: 2024-04-01T00:00:00+00:00
- - tags: ['personal']
-
- ## Gavin Rehkemper
- - [https://www.gavinr.com](https://www.gavinr.com)
- - date_published: 2024-04-01T00:00:00+00:00
- - tags: ['personal']
-
- ## Gawker
- - [https://gawker.com](https://gawker.com)
- - date_published: 2024-05-04T07:31:47.485294+00:00
-
- ## Gawker
- - [https://www.gawker.com](https://www.gawker.com)
- - date_published: 2023-10-25T14:42:10.336138+00:00
-
- ## Gay Chicago Guide - Gay Bars & Clubs, Hotels, Beaches, Reviews and Maps
- - [https://chicago.gaycities.com](https://chicago.gaycities.com)
- - date_published: 2024-05-07T10:02:22.728027+00:00
-
- ## Gay Dallas Guide - Gay Bars & Clubs, Hotels, Beaches, Reviews and Maps
- - [https://dallas.gaycities.com](https://dallas.gaycities.com)
- - date_published: 2024-05-07T10:02:13.556402+00:00
-
- ## Gay London Guide - Gay Bars & Clubs, Hotels, Beaches, Reviews and Maps
- - [https://london.gaycities.com](https://london.gaycities.com)
- - date_published: 2024-05-07T10:01:58.259788+00:00
-
- ## Gay Los Angeles Guide - Gay Bars & Clubs, Hotels, Beaches, Reviews and Maps
- - [https://losangeles.gaycities.com](https://losangeles.gaycities.com)
- - date_published: 2024-05-07T10:02:10.399533+00:00
-
- ## Gay New York City Guide - Gay Bars & Clubs, Hotels, Beaches, Reviews and Maps
- - [https://newyork.gaycities.com](https://newyork.gaycities.com)
- - date_published: 2024-05-07T10:01:54.916687+00:00
-
- ## Gay San Francisco Guide - Gay Bars & Clubs, Hotels, Beaches, Reviews and Maps
- - [https://sanfrancisco.gaycities.com](https://sanfrancisco.gaycities.com)
- - date_published: 2024-05-07T10:02:04.624667+00:00
-
- ## Gay Saskatoon Guide - Gay Bars & Clubs, Hotels, Beaches, Reviews and Maps
- - [https://saskatoon.gaycities.com](https://saskatoon.gaycities.com)
- - date_published: 2024-05-07T10:01:45.488876+00:00
-
- ## Gay Washington, DC Guide - Gay Bars & Clubs, Hotels, Beaches, Reviews and Maps
- - [https://washingtondc.gaycities.com](https://washingtondc.gaycities.com)
- - date_published: 2024-05-07T10:02:19.271575+00:00
-
- ## GayCities - Gay bars, hotels, restaurants with reviews, maps, photos
- - [https://www.gaycities.com](https://www.gaycities.com)
- - date_published: 2024-05-07T10:01:48.232237+00:00
- - tags: ['gay', 'homosexual', 'lgbt']
-
- ## Gayle Laakmann McDowell
- - [http://www.gayle.com](http://www.gayle.com)
- - date_published: 2024-05-01T04:13:35.890989+00:00
-
- ## Sports Betting Information | Gazette
- - [https://betting.gazette.com](https://betting.gazette.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## The Gazette E-Edition
- - [https://daily.gazette.com](https://daily.gazette.com)
- - date_published: 2024-05-10T05:34:16.826454+00:00
-
- ## gazette.com
- - [https://gazette.com](https://gazette.com)
- - date_published: 2023-12-07T22:20:50.347259+00:00
-
- ## Adportal Self Service Advertising
- - [https://placead.gazette.com](https://placead.gazette.com)
- - date_published: 2024-05-10T05:33:59.225716+00:00
-
- ## gazette.com
- - [https://www.gazette.com](https://www.gazette.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## GazetteLeader
- - [https://www.gazetteleader.com](https://www.gazetteleader.com)
- - date_published: 2024-05-10T05:54:42.326556+00:00
-
- ## Daily Hampshire Gazette
- - [https://www.gazettenet.com](https://www.gazettenet.com)
- - date_published: 2024-05-07T21:24:10.608183+00:00
-
- ## Peoples Gazette - Truth, Courage or Nothing...
- - [https://gazettengr.com](https://gazettengr.com)
- - date_published: 2023-10-25T14:42:16.982105+00:00
-
- ## gazettetimes.com | Read Corvallis and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [http://www.gazettetimes.com](http://www.gazettetimes.com)
- - date_published: 2024-04-29T00:00:00+00:00
 

@@ -1,3 +1,264 @@
+ ## Justin's personal site
+ - [https://randomshit.dev](https://randomshit.dev)
+ - date_published: 2023-10-25T18:41:11.166727+00:00
+ - tags: ['personal']
+
+ ## Home
+ - [https://raptori.dev](https://raptori.dev)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Rasbora.dev
+ - [https://rasbora.dev](https://rasbora.dev)
+ - date_published: 2023-10-25T08:48:56.751019+00:00
+ - tags: ['personal']
+
+ ## Website and Blog
+ - [https://raulmelo.dev](https://raulmelo.dev)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Ryan's Dev Blog
+ - [https://rbates.dev](https://rbates.dev)
+ - date_published: 2023-10-25T08:58:48.184268+00:00
+ - tags: ['personal']
+
+ ## React
+ - [https://react.dev](https://react.dev)
+ - date_published: 2023-10-25T18:41:12.872406+00:00
+ - tags: ['javascript library', 'web development library', 'open source']
+
+ ## React Native · Learn once, write anywhere
+ - [https://reactnative.dev](https://reactnative.dev)
+ - date_published: 2024-05-06T23:18:52.962106+00:00
+
+ ## React Spring
+ - [https://react-spring.dev](https://react-spring.dev)
+ - date_published: 2024-05-07T09:35:16.371146+00:00
+
+ ## Template Runner
+ - [https://tmplrunner.rebelmouse.dev](https://tmplrunner.rebelmouse.dev)
+ - date_published: 2024-05-06T16:26:24.666421+00:00
+
+ ## refine CRM App
+ - [https://example.crm.refine.dev](https://example.crm.refine.dev)
+ - date_published: 2024-04-30T02:12:33.145447+00:00
+
+ ## refine | Build your React-based CRUD applications, without constraints! | refine
+ - [https://refine.dev](https://refine.dev)
+ - date_published: 2023-10-25T18:41:19.334120+00:00
+
+ ## GitHub - refinedev/refine: A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+ - [https://s.refine.dev](https://s.refine.dev)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## refine Store | Show Your Support Proudly
+ - [https://store.refine.dev](https://store.refine.dev)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Reflex · Web apps in Pure Python
+ - [https://reflex.dev](https://reflex.dev)
+ - date_published: 2024-03-22T20:49:47.677432+00:00
+
+ ## RelaGit
+ - [https://rela.dev](https://rela.dev)
+ - date_published: 2024-05-09T09:14:53.762708+00:00
+
+ ## Relay
+ - [https://relay.dev](https://relay.dev)
+ - date_published: 2024-05-06T13:33:58.620095+00:00
+
+ ## Remotion | Make videos programmatically in React
+ - [https://remotion.dev](https://remotion.dev)
+ - date_published: 2024-04-30T02:12:44.863470+00:00
+
+ ## Remotion | Make videos programmatically in React
+ - [https://www.remotion.dev](https://www.remotion.dev)
+ - date_published: 2023-12-01T16:42:33.542293+00:00
+
+ ## Renaissance Suite, a benchmark suite for the JVM
+ - [https://renaissance.dev](https://renaissance.dev)
+ - date_published: 2024-04-29T06:28:52.582496+00:00
+
+ ## Replicache: Framework for local-first web apps.
+ - [https://replicache.dev](https://replicache.dev)
+ - date_published: 2024-04-30T00:29:55.203329+00:00
+
+ ## SDXL – A settings guide by Replicate
+ - [https://sdxl.replicate.dev](https://sdxl.replicate.dev)
+ - date_published: 2023-10-25T18:41:20.011892+00:00
+
+ ## Restate documentation
+ - [https://docs.restate.dev](https://docs.restate.dev)
+ - date_published: 2024-04-30T02:12:57.372099+00:00
+
+ ## Restate
+ - [https://restate.dev](https://restate.dev)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Restate
+ - [https://www.restate.dev](https://www.restate.dev)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Restfox
+ - [https://restfox.dev](https://restfox.dev)
+ - date_published: 2023-10-25T18:41:21.360876+00:00
+
+ ## reyem.dev blog
+ - [https://blog.reyem.dev](https://blog.reyem.dev)
+ - date_published: 2023-10-25T08:58:49.186324+00:00
+ - tags: ['personal']
+
+ ## Romain Herault - Web developer, creative developer and animals lover
+ - [https://rherault.dev](https://rherault.dev)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Richard Taylor
+     · Richard Taylor
+ - [https://www.richardtaylor.dev](https://www.richardtaylor.dev)
+ - date_published: 2023-10-25T18:41:22.096940+00:00
+
+ ## Rida F'kih — Developer & Designer
+ - [https://next.rida.dev](https://next.rida.dev)
+ - date_published: 2024-04-30T02:13:25.307878+00:00
+
+ ## Rida F'kih — Developer & Designer
+ - [https://www.rida.dev](https://www.rida.dev)
+ - date_published: 2023-10-25T08:48:57.534022+00:00
+ - tags: ['personal']
+
+ ## RisingWave
+ - [https://www.risingwave.dev](https://www.risingwave.dev)
+ - date_published: 2024-04-28T05:08:12.497113+00:00
+
+ ## River Phillips
+ - [https://www.riverphillips.dev](https://www.riverphillips.dev)
+ - date_published: 2023-11-07T19:56:32.446810+00:00
+
+ ## Rizwan - iOS Developer
+ - [https://blog.rizwan.dev](https://blog.rizwan.dev)
+ - date_published: 2024-05-11T10:08:07.281450+00:00
+
+ ## Overview - Practical third-party library sandboxing with RLBox
+ - [https://rlbox.dev](https://rlbox.dev)
+ - date_published: 2024-05-04T15:41:05.739908+00:00
+
+ ## rmkit
+ - [https://rmkit.dev](https://rmkit.dev)
+ - date_published: 2023-10-25T18:41:23.340976+00:00
+
+ ## Rocicorp, LLC
+ - [https://rocicorp.dev](https://rocicorp.dev)
+ - date_published: 2023-10-27T11:57:00.995943+00:00
+
+ ## roe.dev
+ - [https://mastodon.roe.dev](https://mastodon.roe.dev)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Daniel Roe
+ - [https://roe.dev](https://roe.dev)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Plausible · Web analytics
+ - [https://v.roe.dev](https://v.roe.dev)
+ - date_published: 2024-04-30T02:13:42.332510+00:00
+
+ ## illuminati
+ - [https://illuminati.rohitagarwal.dev](https://illuminati.rohitagarwal.dev)
+ - date_published: 2024-04-30T02:13:50.804262+00:00
+
+ ## Rohit's Programming Notes
+ - [https://notes.rohitagarwal.dev](https://notes.rohitagarwal.dev)
+ - date_published: 2024-04-30T02:13:48.570975+00:00
+
+ ## ./
+ - [https://rohitagarwal.dev](https://rohitagarwal.dev)
+ - date_published: 2024-02-25T14:02:26.120894+00:00
+
+ ## ./
+ - [https://www.rohitagarwal.dev](https://www.rohitagarwal.dev)
+ - date_published: 2024-01-20T02:44:55.146355+00:00
+
+ ## Romain Guy
+ - [https://www.romainguy.dev](https://www.romainguy.dev)
+ - date_published: 2024-05-07T09:28:54.635365+00:00
+ - tags: ['personal']
+
+ ## dpromanko
+ - [https://romanko.dev](https://romanko.dev)
+ - date_published: 2024-05-07T23:13:42.299146+00:00
+
+ ## ronin-rb
+ - [https://merch.ronin-rb.dev](https://merch.ronin-rb.dev)
+ - date_published: 2024-04-30T02:14:25.313080+00:00
+
+ ## Ronin
+ - [https://ronin-rb.dev](https://ronin-rb.dev)
+ - date_published: 2023-10-25T18:41:29.801869+00:00
+
+ ## ROT256 : Cryptography & Other Random Bits.
+ - [https://rot256.dev](https://rot256.dev)
+ - date_published: 2023-10-25T18:41:30.428116+00:00
+
+ ## ROTO - Software Engineer
+ - [https://roto.dev](https://roto.dev)
+ - date_published: 2024-05-11T10:22:14.307357+00:00
+
+ ## Royce Hsu — Web Person, Musician
+ - [https://roycifer.dev](https://roycifer.dev)
+ - date_published: 2024-04-28T05:53:38.565341+00:00
+ - tags: ['personal']
+
+ ## RPGGen: Tabletop role-playing game generator web directory
+ - [https://rpggen.dev](https://rpggen.dev)
+ - date_published: 2024-01-09T14:11:25+00:00
+ - tags: ['tabletop games', 'online tool']
+
+ ## Rspack
+ - [https://rspack.dev](https://rspack.dev)
+ - date_published: 2024-05-08T09:01:28.167877+00:00
+
+ ## Rubén Rodríguez
+ - [https://www.rubenr.dev](https://www.rubenr.dev)
+ - date_published: 2024-05-11T10:11:07.904484+00:00
+ - tags: ['personal']
+
+ ## ruflas
+ - [https://ruflas.dev](https://ruflas.dev)
+ - date_published: 2023-12-03T09:19:05.397560+00:00
+ - tags: ['personal']
+
+ ## Runme
+ - [https://app.runme.dev](https://app.runme.dev)
+ - date_published: 2024-04-30T02:14:28.028116+00:00
+
+ ## Home  •  RUNME
+ - [https://docs.runme.dev](https://docs.runme.dev)
+ - date_published: 2024-04-30T02:14:27.587649+00:00
+
+ ## Runme turns your documentation into interactive runbooks
+ - [https://runme.dev](https://runme.dev)
+ - date_published: 2023-10-25T18:41:31.705501+00:00
+
+ ## G'day Champion
+ - [https://assets.runno.dev](https://assets.runno.dev)
+ - date_published: 2024-04-30T02:14:28.629591+00:00
+
+ ## Runno
+ - [https://runno.dev](https://runno.dev)
+ - date_published: 2023-10-25T18:41:32.158796+00:00
+
+ ## Blog | Roger Oriol
+ - [https://ruxu.dev](https://ruxu.dev)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Blog | Roger Oriol
+ - [https://www.ruxu.dev](https://www.ruxu.dev)
+ - date_published: 2023-10-25T08:58:50.191072+00:00
+ - tags: ['personal']
+
+ ## rviscomi.dev
+ - [https://rviscomi.dev](https://rviscomi.dev)
+ - date_published: 2024-05-06T23:03:49.996420+00:00
+
  ## RxJS
  - [https://rxjs.dev](https://rxjs.dev)
  - date_published: 2024-05-11T05:41:06.755214+00:00
@@ -3810,252 +4071,4 @@
  ## Media Relations & Strategic Communications | Arizona State University
  - [https://newsroom.asu.edu](https://newsroom.asu.edu)
  - date_published: 2024-04-30T03:11:24.106269+00:00
-
- ## President Michael Crow | Office of the President
- - [https://president.asu.edu](https://president.asu.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## ASU Search | Arizona State University
- - [https://search.asu.edu](https://search.asu.edu)
- - date_published: 2024-05-09T06:51:17.185359+00:00
-
- ## Home
- - [https://sefcom.asu.edu](https://sefcom.asu.edu)
- - date_published: 2024-04-30T07:18:11.795462+00:00
-
- ## Homepage | School of Social Transformation
- - [https://sst.asu.edu](https://sst.asu.edu)
- - date_published: 2024-05-09T05:35:55.602788+00:00
-
- ## Home | ASU Students
- - [https://students.asu.edu](https://students.asu.edu)
- - date_published: 2024-04-30T03:11:45.321917+00:00
-
- ## ASU Homepage | Arizona State University
- - [https://www.asu.edu](https://www.asu.edu)
- - date_published: 2024-04-30T03:10:47.503374+00:00
-
- ## The Association of Theological Schools
- - [https://www.ats.edu](https://www.ats.edu)
- - date_published: 2024-05-07T20:31:56.521868+00:00
-
- ## Accessibility || Auburn University
- - [https://accessibility.auburn.edu](https://accessibility.auburn.edu)
- - date_published: 2024-04-30T03:12:58.673704+00:00
-
- ## Home
- - [https://alumni.auburn.edu](https://alumni.auburn.edu)
- - date_published: 2024-04-30T03:12:48.892467+00:00
-
- ## AlumnIQ
- - [https://alumniq.auburn.edu](https://alumniq.auburn.edu)
- - date_published: 2024-04-30T03:11:56.838985+00:00
-
- ## Login - AUthenticate
- - [http://auaccess.auburn.edu](http://auaccess.auburn.edu)
- - date_published: 2024-04-30T03:12:54.741278+00:00
-
- ## Auburn University Homepage
- - [http://auburn.edu](http://auburn.edu)
- - date_published: 2024-04-30T03:12:56.980800+00:00
-
- ## Auburn University Bulletin < Auburn University
- - [http://bulletin.auburn.edu](http://bulletin.auburn.edu)
- - date_published: 2024-04-30T03:13:04.810601+00:00
-
- ## Auburn University Template
- - [https://cdn.auburn.edu](https://cdn.auburn.edu)
- - date_published: 2024-04-30T03:11:47.346753+00:00
-
- ## OIT Web Application Server
- - [https://cws.auburn.edu](https://cws.auburn.edu)
- - date_published: 2024-04-30T03:11:52.494361+00:00
-
- ## AUETD Home
- - [http://etd.auburn.edu](http://etd.auburn.edu)
- - date_published: 2024-04-30T03:13:11.690729+00:00
-
- ## Jay and Susie Gogue Performing Arts Center | at Auburn University
- - [https://goguecenter.auburn.edu](https://goguecenter.auburn.edu)
- - date_published: 2024-05-23T19:07:17.624948+00:00
-
- ## Graduate School Forms
- - [https://gradforms.auburn.edu](https://gradforms.auburn.edu)
- - date_published: 2024-04-30T03:12:50.332998+00:00
-
- ## Graduate School Home - Graduate School
- - [https://graduate.auburn.edu](https://graduate.auburn.edu)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Auburn University
- - [http://lib.auburn.edu](http://lib.auburn.edu)
- - date_published: 2024-04-30T03:13:07.785254+00:00
-
- ## Office of Communications and Marketing
- - [http://ocm.auburn.edu](http://ocm.auburn.edu)
- - date_published: 2024-04-30T03:11:55.792894+00:00
-
- ## OIT Web Application Server
- - [https://oitapps.auburn.edu](https://oitapps.auburn.edu)
- - date_published: 2024-04-30T03:12:38.886557+00:00
-
- ## Auburn University
- - [https://search.auburn.edu](https://search.auburn.edu)
- - date_published: 2024-04-30T03:12:00.122504+00:00
-
- ## Auburn University Homepage
- - [https://www.auburn.edu](https://www.auburn.edu)
- - date_published: 2024-04-30T03:11:58.881670+00:00
-
- ## Samuel Ginn College of Engineering
- - [http://www.eng.auburn.edu](http://www.eng.auburn.edu)
- - date_published: 2024-05-07T22:23:50.010230+00:00
-
- ## Office of Communications and Marketing
- - [http://www.ocm.auburn.edu](http://www.ocm.auburn.edu)
- - date_published: 2024-04-30T03:13:13.326022+00:00
-
- ## The American University in Cairo | The American University in Cairo
- - [https://www.aucegypt.edu](https://www.aucegypt.edu)
- - date_published: 2024-04-28T03:27:08.141982+00:00
-
- ## AUI | We make scientific breakthroughs possible
- - [http://www.aui.edu](http://www.aui.edu)
- - date_published: 2024-05-07T19:49:08.720348+00:00
-
- ## Alumni/ae Network at Bard College
- - [https://alums.bard.edu](https://alums.bard.edu)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Bard College Division of the Arts at Bard College
- - [https://arts.bard.edu](https://arts.bard.edu)
- - date_published: 2024-04-30T03:13:15.340332+00:00
-
- ## Bard College at Bard College
- - [https://bard.edu](https://bard.edu)
- - date_published: 2024-04-30T03:13:35.109615+00:00
-
- ## Bard College at Bard College
- - [https://bardian.bard.edu](https://bardian.bard.edu)
- - date_published: 2024-04-30T03:13:32.578878+00:00
-
- ## Bard Early College
- - [https://bhsec.bard.edu](https://bhsec.bard.edu)
- - date_published: 2024-04-30T03:13:28.182080+00:00
-
- ## Bard Office of Sustainability at Bard College
- - [https://bos.bard.edu](https://bos.bard.edu)
- - date_published: 2024-04-30T03:13:19.580747+00:00
-
- ## Center for Civic Engagement at Bard College
- - [https://cce.bard.edu](https://cce.bard.edu)
- - date_published: 2024-04-30T03:13:24.455361+00:00
-
- ## Undergraduate Admission at Bard College
- - [https://connect.bard.edu](https://connect.bard.edu)
- - date_published: 2024-04-30T03:13:37.832511+00:00
-
- ## Economic Democracy Initiative at Bard College
- - [https://edi.bard.edu](https://edi.bard.edu)
- - date_published: 2024-05-12T05:46:40.670973+00:00
-
- ## The Bard Family Network at Bard College
- - [https://families.bard.edu](https://families.bard.edu)
- - date_published: 2024-04-30T03:13:40.103087+00:00
-
- ## Home - Fisher Center at Bard
- - [https://fishercenter.bard.edu](https://fishercenter.bard.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Giving at Bard College
- - [https://giving.bard.edu](https://giving.bard.edu)
- - date_published: 2024-04-30T03:13:22.832473+00:00
-
- ## Health, Counseling, and Wellness at Bard College at Bard College
- - [https://hcw.bard.edu](https://hcw.bard.edu)
- - date_published: 2024-04-30T03:13:30.419167+00:00
-
- ## Bard College
- - [https://www.bard.edu](https://www.bard.edu)
- - date_published: 2023-10-25T18:47:01.280987+00:00
-
- ## Reacting to the Past
- - [https://reacting.barnard.edu](https://reacting.barnard.edu)
- - date_published: 2024-05-09T05:24:59.795451+00:00
-
- ## About Baylor
- - [https://about.web.baylor.edu](https://about.web.baylor.edu)
- - date_published: 2022-10-22T05:19:00+00:00
-
- ## Undergraduate Admissions
- - [https://admissions.web.baylor.edu](https://admissions.web.baylor.edu)
- - date_published: 2022-05-20T15:32:00+00:00
-
- ## Advancement
- - [https://advancement.web.baylor.edu](https://advancement.web.baylor.edu)
- - date_published: 2023-04-26T12:32:00+00:00
-
- ## Alumni
- - [https://alumni.web.baylor.edu](https://alumni.web.baylor.edu)
- - date_published: 2023-07-05T13:18:00+00:00
-
- ## College of Arts & Sciences
- - [https://artsandsciences.baylor.edu](https://artsandsciences.baylor.edu)
- - date_published: 2022-12-12T15:02:00+00:00
-
- ## Baylor University
- - [https://bbis.baylor.edu](https://bbis.baylor.edu)
- - date_published: 2024-04-30T03:15:01.030395+00:00
-
- ## Hankamer School of Business
- - [https://business.baylor.edu](https://business.baylor.edu)
- - date_published: 2022-06-07T10:09:00+00:00
-
- ## Events | Calendar | Baylor University
- - [https://calendar.web.baylor.edu](https://calendar.web.baylor.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Cherry Award
- - [https://cherryaward.web.baylor.edu](https://cherryaward.web.baylor.edu)
- - date_published: 2023-02-09T11:05:00+00:00
-
- ## Counseling Center
- - [https://counselingcenter.web.baylor.edu](https://counselingcenter.web.baylor.edu)
- - date_published: 2023-04-24T11:42:00+00:00
-
- ## Legal Disclosures
- - [https://disclosures.web.baylor.edu](https://disclosures.web.baylor.edu)
- - date_published: 2022-02-21T16:50:00+00:00
-
- ## Faculty and Staff
- - [https://facultystaff.web.baylor.edu](https://facultystaff.web.baylor.edu)
- - date_published: 2023-01-05T13:26:00+00:00
-
- ## Give Light
- - [https://givelight.web.baylor.edu](https://givelight.web.baylor.edu)
- - date_published: 2023-07-10T13:27:00+00:00
-
- ## Go
- - [https://go.web.baylor.edu](https://go.web.baylor.edu)
- - date_published: 2022-05-19T09:43:00+00:00
-
- ## Graduate School
- - [https://graduate.baylor.edu](https://graduate.baylor.edu)
- - date_published: 2023-05-16T15:56:00+00:00
-
- ## Hankamer School of Business
- - [https://hankamer.baylor.edu](https://hankamer.baylor.edu)
- - date_published: 2022-06-07T10:09:00+00:00
-
- ## Honors College
- - [https://honors.baylor.edu](https://honors.baylor.edu)
- - date_published: 2023-05-02T16:01:00+00:00
-
- ## Human Resources
- - [https://hr.web.baylor.edu](https://hr.web.baylor.edu)
- - date_published: 2022-10-15T13:59:00+00:00
-
- ## Illuminate
- - [https://illuminate.web.baylor.edu](https://illuminate.web.baylor.edu)
- - date_published: 2021-03-02T11:17:00+00:00
 

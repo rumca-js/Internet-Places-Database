@@ -1,3 +1,184 @@
+ ## Rogule - a dungeon a day keeps the Balrog away
+ - [https://rogule.com](https://rogule.com)
+ - date_published: 2023-10-25T16:53:50.312363+00:00
+
+ ## Industry-leading technology group
+ - [https://www.rohde-schwarz.com](https://www.rohde-schwarz.com)
+ - date_published: 2024-05-02T13:45:35.923907+00:00
+
+ ## Rohdesign
+ - [https://rohdesign.com](https://rohdesign.com)
+ - date_published: 2023-12-09T14:59:37.930775+00:00
+ - tags: ['personal']
+
+ ## Free Software and Source Code | Feed Your Brain | rohitab.com
+ - [http://www.rohitab.com](http://www.rohitab.com)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Documentations by Rohit Farmer
+ - [https://docs.rohitfarmer.com](https://docs.rohitfarmer.com)
+ - date_published: 2024-05-14T03:30:43.296934+00:00
+
+ ## Rohit Farmer's Personal Website
+ - [https://rohitfarmer.com](https://rohitfarmer.com)
+ - date_published: 2024-02-01T03:07:26.250335+00:00
+ - tags: ['personal']
+
+ ## About
+ - [https://rohitpaulk.com](https://rohitpaulk.com)
+ - date_published: 2023-11-29T16:18:54.093413+00:00
+ - tags: ['personal']
+
+ ## 403 Forbidden
+ - [https://www.roi-nj.com](https://www.roi-nj.com)
+ - date_published: 2023-12-10T00:14:16.296424+00:00
+
+ ## Maximize your marketing attribution - Roivenue
+ - [https://roivenue.com](https://roivenue.com)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Rokfin | The best way to monetize your content
+ - [https://rokfin.com](https://rokfin.com)
+ - date_published: 2020-12-03T00:00:00+00:00
+
+ ## Roku
+ - [https://advertising.roku.com](https://advertising.roku.com)
+ - date_published: 2024-04-28T05:31:10.400485+00:00
+
+ ## Roku
+ - [https://blog.roku.com](https://blog.roku.com)
+ - date_published: 2024-04-28T05:31:06.942005+00:00
+
+ ## Roku
+ - [https://channelstore.roku.com](https://channelstore.roku.com)
+ - date_published: 2024-04-28T05:31:08.538558+00:00
+
+ ## Roku Community Support | Fast Responses | Roku Community
+ - [https://community.roku.com](https://community.roku.com)
+ - date_published: 2023-10-25T16:54:01.511231+00:00
+
+ ## Roku
+ - [https://developer.roku.com](https://developer.roku.com)
+ - date_published: 2024-04-28T05:30:57.003143+00:00
+
+ ## Roku
+ - [https://docs.roku.com](https://docs.roku.com)
+ - date_published: 2024-02-25T21:17:55.796599+00:00
+
+ ## Roku
+ - [https://ir.roku.com](https://ir.roku.com)
+ - date_published: 2024-04-28T05:31:02.100271+00:00
+
+ ## Cierpliwości...
+ - [https://my.roku.com](https://my.roku.com)
+ - date_published: 2024-04-28T05:30:54.650203+00:00
+
+ ## Roku
+ - [https://newsroom.roku.com](https://newsroom.roku.com)
+ - date_published: 2024-04-28T05:30:55.619884+00:00
+
+ ## Roku
+ - [https://photostreams.roku.com](https://photostreams.roku.com)
+ - date_published: 2024-04-28T05:39:18.383855+00:00
+
+ ## Roku
+ - [https://privacy.roku.com](https://privacy.roku.com)
+ - date_published: 2024-04-28T05:30:58.798911+00:00
+
+ ## Roku
+ - [https://support.roku.com](https://support.roku.com)
+ - date_published: 2024-04-28T05:30:59.708719+00:00
+
+ ## Roku
+ - [https://therokuchannel.roku.com](https://therokuchannel.roku.com)
+ - date_published: 2024-04-28T05:30:52.060084+00:00
+
+ ## Roku
+ - [https://www.roku.com](https://www.roku.com)
+ - date_published: 2023-10-24T20:19:37.202078+00:00
+
+ ## Roland Articles | Home
+ - [https://articles.roland.com](https://articles.roland.com)
+ - date_published: 2023-10-25T16:54:06.876407+00:00
+
+ ## Roland - Content Store Migration
+ - [https://contentstore.roland.com](https://contentstore.roland.com)
+ - date_published: 2024-05-09T06:53:07.414973+00:00
+
+ ## IR | ローランド株式会社
+ - [https://ir.roland.com](https://ir.roland.com)
+ - date_published: 2024-03-09T00:00:00+00:00
+
+ ## Roland Pro A/V - Global
+ - [https://proav.roland.com](https://proav.roland.com)
+ - date_published: 2024-05-09T06:53:14.952933+00:00
+
+ ## https://static.roland.com
+ - [https://static.roland.com](https://static.roland.com)
+ - date_published: 2024-01-09T02:48:11.992808+00:00
+
+ ## Roland - Global
+ - [https://www.roland.com](https://www.roland.com)
+ - date_published: 2023-11-06T09:56:02.793816+00:00
+ - tags: ['audio equipment']
+
+ ## Notes
+ - [https://notes.rolandcrosby.com](https://notes.rolandcrosby.com)
+ - date_published: 2024-02-22T03:55:09.090463+00:00
+
+ ## Rolepad
+ - [https://app.rolepad.com](https://app.rolepad.com)
+ - date_published: 2024-04-28T05:40:12.956565+00:00
+
+ ## Rolepad - Take the work out of the job search
+ - [https://rolepad.com](https://rolepad.com)
+ - date_published: 2023-10-25T16:54:13.237013+00:00
+
+ ## Roleplaying Fun - Fantasy Memes & RPG News
+ - [http://www.roleplaying-fun.com](http://www.roleplaying-fun.com)
+ - date_published: 2024-05-09T07:07:28.875260+00:00
+ - tags: ['rpg', 'warhammer', 'memes', 'fantasy']
+
+ ## Official Rolex Website - Swiss Luxury Watches
+ - [https://www.rolex.com](https://www.rolex.com)
+ - date_published: 2024-05-10T06:57:42.038132+00:00
+
+ ## ROLI | Feel the Music | ROLI
+ - [https://roli.com](https://roli.com)
+ - date_published: 2024-04-28T03:25:30.634174+00:00
+
+ ## Home
+ - [https://cdn.rollbar.com](https://cdn.rollbar.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Overview
+ - [https://docs.rollbar.com](https://docs.rollbar.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Home
+ - [https://rollbar.com](https://rollbar.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Roll Call - Covering Capitol Hill Since 1955
+ - [https://rollcall.com](https://rollcall.com)
+ - date_published: 2023-10-25T16:54:16.275639+00:00
+
+ ## Roll Call - Covering Capitol Hill Since 1955
+ - [https://www.rollcall.com](https://www.rollcall.com)
+ - date_published: 2024-04-28T05:40:17.776722+00:00
+
+ ## Rollerblade Inline Skates Official Website
+ - [http://www.rollerblade.com](http://www.rollerblade.com)
+ - date_published: 2024-05-04T15:34:20.320865+00:00
+
+ ## Cierpliwości...
+ - [https://rollercoin.com](https://rollercoin.com)
+ - date_published: 2024-05-04T07:34:03.057621+00:00
+
+ ## Welcome to Roll for Fantasy
+ - [https://rollforfantasy.com](https://rollforfantasy.com)
+ - date_published: 2024-05-09T07:02:41.603366+00:00
+
  ## Rolling Stone
  - [https://brandstudio.rollingstone.com](https://brandstudio.rollingstone.com)
  - date_published: 2024-04-28T05:41:49.283779+00:00
@@ -1173,6 +1354,10 @@
  - [https://www.rustprooflabs.com](https://www.rustprooflabs.com)
  - date_published: 2024-04-28T05:59:40.558005+00:00
 
+ ## Rust Summit
+ - [https://rustsummit.com](https://rustsummit.com)
+ - date_published: 2024-06-06T00:00:00+00:00
+
  ## Rusty Bishop's Website
  - [https://rustybishop.com](https://rustybishop.com)
  - date_published: 2024-02-05T07:23:43.066908+00:00
@@ -1569,7 +1754,7 @@
  ## SaaStr Europa 2024 | June 4-5, London
  - [https://www.saastreuropa.com](https://www.saastreuropa.com)
  - date_published: 2024-06-04T00:00:00+00:00
- - tags: ['convention']
+ - tags: ['convention', 'saas']
 
  ## SaaStr Fund / 2024
  - [http://www.saastrfund.com](http://www.saastrfund.com)
@@ -2562,6 +2747,10 @@
  ## Samsung Developers Community
  - [https://forum.developer.samsung.com](https://forum.developer.samsung.com)
  - date_published: 2023-12-08T12:56:20.855768+00:00
+
+ ## Samsung Galaxy Store
+ - [https://galaxystore.samsung.com](https://galaxystore.samsung.com)
+ - date_published: 2024-06-04T15:41:10.271960+00:00
 
  ## Samsung LED | Samsung LED Global Website
  - [https://led.samsung.com](https://led.samsung.com)
@@ -3928,192 +4117,4 @@ Scribbles
  ## ScienceBlogs - Where the world discusses science.
  - [http://www.scienceblogs.com](http://www.scienceblogs.com)
  - date_published: 2024-05-15T20:54:22.908566+00:00
-
- ## Science Codex
- - [http://www.sciencecodex.com](http://www.sciencecodex.com)
- - date_published: 2024-04-28T03:42:59.124538+00:00
-
- ## ScienceDaily: Your source for the latest research news
- - [https://sciencedaily.com](https://sciencedaily.com)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## ScienceDaily: Your source for the latest research news
- - [https://www.sciencedaily.com](https://www.sciencedaily.com)
- - date_published: 2023-10-25T10:10:58.373293+00:00
- - tags: ['science']
-
- ## ScienceDirect
- - [https://www.sciencedirect.com](https://www.sciencedirect.com)
- - date_published: 2023-10-25T10:10:59.662060+00:00
- - tags: ['science news']
-
- ## ScienceDirect
- - [https://pdf.sciencedirectassets.com](https://pdf.sciencedirectassets.com)
- - date_published: 2024-05-07T15:12:23.981663+00:00
-
- ## ScienceDirect
- - [https://sdfestaticassets-us-east-1.sciencedirectassets.com](https://sdfestaticassets-us-east-1.sciencedirectassets.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## BBC Science Focus Magazine - science, nature, technology, Q&As
- - [https://sciencefocus.com](https://sciencefocus.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## BBC Science Focus Magazine - science, nature, technology, Q&As
- - [https://www.sciencefocus.com](https://www.sciencefocus.com)
- - date_published: 2023-10-25T16:59:02.217981+00:00
-
- ## ScienceFriday.com
- - [http://sciencefriday.com](http://sciencefriday.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Science Friday
- - [https://www.sciencefriday.com](https://www.sciencefriday.com)
- - date_published: 2023-10-25T16:59:05.373137+00:00
-
- ## Science Friday Store
- - [https://www.sciencefridaystore.com](https://www.sciencefridaystore.com)
- - date_published: 2024-04-29T02:29:01.629768+00:00
-
- ## Science Integrity Digest
- - [https://scienceintegritydigest.com](https://scienceintegritydigest.com)
- - date_published: 2024-05-04T06:41:53.853349+00:00
-
- ## Science is Weird
- - [http://scienceisweird.com](http://scienceisweird.com)
- - date_published: 2024-05-08T09:58:00.187015+00:00
- - tags: ['education', 'science']
-
- ## Science Mastodon
- - [https://sciencemastodon.com](https://sciencemastodon.com)
- - date_published: 2024-04-30T05:57:44.155281+00:00
-
- ## Science of Copywriting – Weekly Hints and Tips for Copywriters
- - [https://scienceofcopywriting.com](https://scienceofcopywriting.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## The Science of Doom
- - [http://scienceofdoom.com](http://scienceofdoom.com)
- - date_published: 2024-05-07T15:17:13.416319+00:00
-
- ## ScienceOpen
- - [https://www.scienceopen.com](https://www.scienceopen.com)
- - date_published: 2024-05-02T10:55:06.476045+00:00
-
- ## Science Shot: Professional Insights, Unique Perspectives.
- - [https://www.scienceshot.com](https://www.scienceshot.com)
- - date_published: 2023-12-29T20:02:33.354446+00:00
-
- ## Science Speak Home Page
- - [http://sciencespeak.com](http://sciencespeak.com)
- - date_published: 2024-05-07T14:59:45.023524+00:00
-
- ## ScienceSwitch – Exploring the Depths of Curiosity
- - [https://scienceswitch.com](https://scienceswitch.com)
- - date_published: 2023-10-25T16:59:08.691306+00:00
-
- ## Science The World – Science The World: An Engineering Education Research Group
- - [http://sciencetheworld.com](http://sciencetheworld.com)
- - date_published: 2024-05-13T03:26:25.576854+00:00
-
- ## Science X Network :: Phys.org, Medical Xpress, Tech Xplore
- - [https://sciencex.com](https://sciencex.com)
- - date_published: 2024-05-04T14:59:52.423796+00:00
-
- ## Sciencing
- - [https://sciencing.com](https://sciencing.com)
- - date_published: 2024-05-06T13:17:16.149680+00:00
- - tags: ['science news']
-
- - [https://intapi.sciendo.com](https://intapi.sciendo.com)
- - date_published: 2024-02-24T09:58:14.488510+00:00
-
- ## Sciendo
- - [https://sciendo.com](https://sciendo.com)
- - date_published: 2024-05-08T16:50:11.696264+00:00
-
- ## Scienmag | Science Magazine : Latest Discoveries in Cancer, Medicine,
- - [https://scienmag.com](https://scienmag.com)
- - date_published: 2024-05-07T22:44:23.762091+00:00
-
- ## 2nd International Conference on Dermatology and Cosmetology
- - [https://www.dermatology.scientexconference.com](https://www.dermatology.scientexconference.com)
- - date_published: 2024-05-09T05:39:59.905013+00:00
-
- ## Scientific American Blog Network - Scientific American Blog Network
- - [https://blogs.scientificamerican.com](https://blogs.scientificamerican.com)
- - date_published: 2023-10-25T16:59:13.314083+00:00
-
- ## Scientific American
- - [https://scientificamerican.com](https://scientificamerican.com)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Scientific American: Science News, Expert Analysis, Health Research - Scientific American
- - [https://www.scientificamerican.com](https://www.scientificamerican.com)
- - date_published: 2023-10-25T10:11:03.956799+00:00
-
- ## The Scientific Coder
- - [https://scientificcoder.com](https://scientificcoder.com)
- - date_published: 2023-10-25T16:59:14.570457+00:00
-
- ## Scientific Computing | Scientific Computing World
- - [https://www.scientific-computing.com](https://www.scientific-computing.com)
- - date_published: 2023-10-25T16:59:10.313762+00:00
-
- ## Open Access Peer Reviewed Journals | Science and Education Publishing: Home
- - [http://www.sciepub.com](http://www.sciepub.com)
- - date_published: 2024-05-07T19:53:43.606350+00:00
-
- ## Sci-Fi Movie News & Forums: Alien, Godzilla, Jurassic World & More - Scified
- - [https://www.scified.com](https://www.scified.com)
- - date_published: 2024-05-07T14:02:10+00:00
- - tags: ['science fiction']
-
- ## Sci-fi interfaces
- - [https://scifiinterfaces.com](https://scifiinterfaces.com)
- - date_published: 2023-12-14T07:38:40.007550+00:00
-
- ## Scimago Journal & Country Rank
- - [https://www.scimagojr.com](https://www.scimagojr.com)
- - date_published: 2024-05-08T08:42:43.079889+00:00
-
- ## Cierpliwości...
- - [https://sciprofiles.com](https://sciprofiles.com)
- - date_published: 2024-05-04T14:58:55.925629+00:00
-
- ## SciProgramming - Home
- - [https://sciprogramming.com](https://sciprogramming.com)
- - date_published: 2023-10-25T16:59:15.991666+00:00
-
- ## Top arXiv papers
- - [https://scirate.com](https://scirate.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Home
- - [https://www.scisafari.com](https://www.scisafari.com)
- - date_published: 2024-05-02T09:44:59.174962+00:00
-
- ## SciStarter - SciStarter
- - [http://scistarter.com](http://scistarter.com)
- - date_published: 2024-05-09T04:11:26.821324+00:00
-
- ## SciTechDaily - Science, Space and Technology News 2023
- - [https://scitechdaily.com](https://scitechdaily.com)
- - date_published: 2023-10-25T10:11:08.449489+00:00
-
- ## SciTechDaily - Science, Space and Technology News 2024
- - [http://www.scitechdaily.com](http://www.scitechdaily.com)
- - date_published: 2024-05-04T07:41:30.514563+00:00
-
- ## Sciter Documentation | Sciter
- - [https://docs.sciter.com](https://docs.sciter.com)
- - date_published: 2024-04-29T02:30:33.375631+00:00
-
- ## Sciter Notes – Take your notes… back home.
- - [http://notes.sciter.com](http://notes.sciter.com)
- - date_published: 2024-04-29T02:30:45.890734+00:00
-
- ## Quark – HTML/CSS/script Application Compiler
- - [https://quark.sciter.com](https://quark.sciter.com)
- - date_published: 2024-04-29T02:30:37.098236+00:00
 

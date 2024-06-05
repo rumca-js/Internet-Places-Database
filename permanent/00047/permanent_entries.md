@@ -1,3 +1,205 @@
+ ## StackSocial: The Hottest Tech Deals, Delivered Daily
+ - [https://www.stacksocial.com](https://www.stacksocial.com)
+ - date_published: 2024-05-10T16:54:51.540711+00:00
+
+ ## About the Retro-Printer Module | RetroPrinter.com
+ - [http://retroprinter-com.stackstaging.com](http://retroprinter-com.stackstaging.com)
+ - date_published: 2015-07-02T20:03:57+00:00
+
+ ## StackStorm Documentation — StackStorm 3.8.0 documentation
+ - [https://docs.stackstorm.com](https://docs.stackstorm.com)
+ - date_published: 2024-05-11T07:04:19.334952+00:00
+
+ ## StackStorm – IFTTT for Ops
+ - [https://stackstorm.com](https://stackstorm.com)
+ - date_published: 2023-11-05T09:32:01+00:00
+
+ ## Home | Stacy Karyn
+ - [https://stacykaryn.com](https://stacykaryn.com)
+ - date_published: 2024-01-05T16:52:29.932878+00:00
+
+ ## Krizmi
+ - [https://www.stadai.com](https://www.stadai.com)
+ - date_published: 2023-10-25T17:14:49.261880+00:00
+
+ ## Community - Stadia Community
+ - [https://community.stadia.com](https://community.stadia.com)
+ - date_published: 2023-10-25T17:14:53.188546+00:00
+
+ ## Cloud Dosage - Cloud Gaming News, Stats and Community
+ - [https://stadiadosage.com](https://stadiadosage.com)
+ - date_published: 2023-10-25T17:15:02.831617+00:00
+
+ ## Stories of reaching Staff-plus engineering roles - StaffEng
+ - [https://staffeng.com](https://staffeng.com)
+ - date_published: 2024-05-02T13:42:34.957410+00:00
+
+ ## Home page
+ - [https://www2.staffingindustry.com](https://www2.staffingindustry.com)
+ - date_published: 2024-05-04T09:35:13.618508+00:00
+
+ ## spacetraders
+ - [https://spacetraders.staffordwilliams.com](https://spacetraders.staffordwilliams.com)
+ - date_published: 2024-05-06T12:57:49.294581+00:00
+
+ ## Home - UMG UK WP Staging Platform
+ - [https://elliegoulding.stage-umg-uk-wp.com](https://elliegoulding.stage-umg-uk-wp.com)
+ - date_published: 2022-11-01T00:00:00+00:00
+
+ ## Staggering Beauty
+ - [https://www.staggeringbeauty.com](https://www.staggeringbeauty.com)
+ - date_published: 2023-10-27T10:52:14.870047+00:00
+ - tags: ['wtf']
+
+ ## Stainless ✨ | Generate best-in-class SDKs
+ - [https://stainlessapi.com](https://stainlessapi.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Stainless ✨ | Generate best-in-class SDKs
+ - [https://www.stainlessapi.com](https://www.stainlessapi.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Stairways Software: Excellence In Software – Only with a Mac
+ - [https://www.stairways.com](https://www.stairways.com)
+ - date_published: 2023-10-26T06:39:49.777154+00:00
+
+ ## Stake Ventures
+ - [https://blog.stakeventures.com](https://blog.stakeventures.com)
+ - date_published: 2023-12-31T16:48:37.961452+00:00
+
+ ## Crypto Staking Explorer | Staking Rewards
+ - [https://www.stakingrewards.com](https://www.stakingrewards.com)
+ - date_published: 2024-05-09T05:35:04.508101+00:00
+
+ ## St. Albert Local News
+ - [https://www.stalbertgazette.com](https://www.stalbertgazette.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## S.T.A.L.K.E.R. 2: Heart of Chornobyl —  Official website
+ - [https://www.stalker2.com](https://www.stalker2.com)
+ - date_published: 2022-11-10T13:36:00+00:00
+ - tags: ['video game']
+
+ ## STALKER 2 Mods | S.T.A.L.K.E.R. 2 PC Mods
+ - [https://www.stalker2mod.com](https://www.stalker2mod.com)
+ - date_published: 2024-05-04T08:55:53.309107+00:00
+
+ - [https://www.stalker-game.com](https://www.stalker-game.com)
+ - date_published: 2024-05-09T11:17:06+00:00
+ - tags: ['video game']
+
+ ## Anton Stallbörger
+ - [https://stallboerger.com](https://stallboerger.com)
+ - date_published: 2024-05-09T06:12:01.907532+00:00
+
+ ## André Staltz
+ - [https://staltz.com](https://staltz.com)
+ - date_published: 2023-10-25T08:47:54.035732+00:00
+ - tags: ['personal']
+
+ ## Hello, this domain has been purchased at Hostpoint
+ - [https://stamara.com](https://stamara.com)
+ - date_published: 2001-01-01T00:00:00+00:00
+
+ ## Stamen | Data Visualization Design Agency & Cartography Firm
+ - [https://stamen.com](https://stamen.com)
+ - date_published: 2023-10-25T17:15:09.970317+00:00
+
+ ## an Indianapolis Colts community
+ - [http://www.stampedeblue.com](http://www.stampedeblue.com)
+ - date_published: 2024-04-29T02:05:34.022381+00:00
+
+ ## Stampington & Company | Free DIY Projects and Inspirational Magazines
+ - [https://stampington.com](https://stampington.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Stan Bright's Notes
+ - [https://stanbright.com](https://stanbright.com)
+ - date_published: 2021-11-25T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Stan Carey editing and proofreading | Tidy, tighten, or transform your text
+ - [https://stancarey.com](https://stancarey.com)
+ - date_published: 2099-12-31T00:00:00+00:00
+
+ ## Stance Socks - Uncover the Uncommon
+ - [https://www.stance.com](https://www.stance.com)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Standard Industries
+ - [https://www.standardindustries.com](https://www.standardindustries.com)
+ - date_published: 2024-04-30T04:43:39.977160+00:00
+
+ ## Standardista – Estelle Weyl
+ - [http://standardista.com](http://standardista.com)
+ - date_published: 2024-05-31T01:34:19.230187+00:00
+
+ ## JavaScript Standard Style
+ - [https://standardjs.com](https://standardjs.com)
+ - date_published: 2024-05-09T09:13:13.036097+00:00
+ - tags: ['javascript']
+
+ ## Standard Media Group
+ - [https://standardmedia.com](https://standardmedia.com)
+ - date_published: 2024-05-04T09:48:46.168641+00:00
+
+ ## Decrypted | Standard Notes
+ - [https://blog.standardnotes.com](https://blog.standardnotes.com)
+ - date_published: 2023-10-25T17:15:17.057873+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.standardnotes.com](https://plausible.standardnotes.com)
+ - date_published: 2024-05-02T13:46:44.871077+00:00
+
+ ## Standard Notes | End-To-End Encrypted Notes App
+ - [https://standardnotes.com](https://standardnotes.com)
+ - date_published: 2023-10-25T17:15:18.077449+00:00
+
+ ## Data sets and utilities for fluid data patterns and transformations.
+ - [https://www.standardsets.com](https://www.standardsets.com)
+ - date_published: 2024-04-28T06:01:05.976850+00:00
+
+ ## Standfirst - Software, Design, Development & Strategy
+ - [https://standfirst.com](https://standfirst.com)
+ - date_published: 2024-05-02T12:21:55.723033+00:00
+
+ ## Stanford-Clark.com
+ - [https://stanford-clark.com](https://stanford-clark.com)
+ - date_published: 2024-04-28T03:59:53.170304+00:00
+
+ ## The Stanford Daily | Breaking news from the Farm since 1892
+ - [https://stanforddaily.com](https://stanforddaily.com)
+ - date_published: 2024-01-01T00:46:36.339932+00:00
+
+ ## The Stanford Daily | Breaking news from the Farm since 1892
+ - [https://www.stanforddaily.com](https://www.stanforddaily.com)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Stanford in real life
+ - [https://stanfordirl.com](https://stanfordirl.com)
+ - date_published: 2024-04-30T05:45:04.509067+00:00
+
+ ## Custom Rare Earth Magnets and Magnetic Assemblies | Stanford Magnets
+ - [https://www.stanfordmagnets.com](https://www.stanfordmagnets.com)
+ - date_published: 2024-02-18T00:00:00+00:00
+
+ ## Stanky Rich
+ - [https://www.stankyrich.com](https://www.stankyrich.com)
+ - date_published: 2024-05-11T08:33:37.739765+00:00
+
+ ## Stanley The Dog
+ - [https://stanleydog.com](https://stanleydog.com)
+ - date_published: 2024-05-12T04:15:16.952705+00:00
+
+ ## Stanley Louis Remarkable Books
+ - [http://www.stanleylouisremarkablebooks.com](http://www.stanleylouisremarkablebooks.com)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## The Stanley Parable: Ultra Deluxe
+ - [https://www.stanleyparable.com](https://www.stanleyparable.com)
+ - date_published: 2023-10-27T11:52:46.954868+00:00
+ - tags: ['video game']
+
  ## Stantec
  - [http://www.stantec.com](http://www.stantec.com)
  - date_published: 2024-05-12T07:38:42.918320+00:00
@@ -3984,208 +4186,4 @@
  ## eieio games | nolen | Substack
  - [https://eieio.substack.com](https://eieio.substack.com)
  - date_published: 2024-03-13T00:00:00+00:00
-
- ## eigenrobot,s Blog | Substack
- - [https://eigenrobot.substack.com](https://eigenrobot.substack.com)
- - date_published: 2024-01-09T01:39:54.987097+00:00
-
- ## Wednesday's Ghost | Elaine Kasket | Substack
- - [https://elainekasket.substack.com](https://elainekasket.substack.com)
- - date_published: 2024-05-02T10:12:14.195297+00:00
-
- ## Elena's Growth Scoop | Elena Verna | Substack
- - [https://elenaverna.substack.com](https://elenaverna.substack.com)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Elizabeth Hummel | Substack
- - [https://elizabethhummel.substack.com](https://elizabethhummel.substack.com)
- - date_published: 2024-05-01T08:46:10.012650+00:00
-
- ## Tai Tales - Chinese Malaysian culture, weekly-ish | Elizabeth Tai | Substack
- - [https://elizabethtai.substack.com](https://elizabethtai.substack.com)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Do you know what these are? | Liam Quigley | Substack
- - [https://elkue.substack.com](https://elkue.substack.com)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## Else’s Productpourri | Else van der Berg | Substack
- - [https://elsevanderberg.substack.com](https://elsevanderberg.substack.com)
- - date_published: 2024-05-04T12:03:42.738998+00:00
-
- ## Embedded | Nick  Catucci | Substack
- - [https://embedded.substack.com](https://embedded.substack.com)
- - date_published: 2023-10-25T09:49:25.916960+00:00
- - tags: ['substack']
-
- ## Empathy: The Remnant Pieces | Andrew Johnston | Substack
- - [https://empathynovel.substack.com](https://empathynovel.substack.com)
- - date_published: 2024-01-09T01:39:56.752914+00:00
-
- ## Engineer’s Codex | Substack
- - [https://engineercodex.substack.com](https://engineercodex.substack.com)
- - date_published: 2023-10-25T09:49:38.971740+00:00
- - tags: ['substack']
-
- ## Engineering At Scale | Animesh Gaitonde | Substack
- - [https://engineeringatscale.substack.com](https://engineeringatscale.substack.com)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## Environ / mental Health | Dan Vekhter | Substack
- - [https://environmentalhealth.substack.com](https://environmentalhealth.substack.com)
- - date_published: 2024-05-07T14:58:44.262803+00:00
-
- ## More Lucid | George | Substack
- - [https://epistemink.substack.com](https://epistemink.substack.com)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## PubliCola | Erica C Barnett | Substack
- - [https://ericacbarnett.substack.com](https://ericacbarnett.substack.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Erica Drayton Writes | Substack
- - [https://ericadrayton.substack.com](https://ericadrayton.substack.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Journey Before Destination | Eric | Substack
- - [https://ericsandroni.substack.com](https://ericsandroni.substack.com)
- - date_published: 2024-05-02T09:39:18.903053+00:00
-
- ## Asphalt Jungle | Eric Weatherholtz | Substack
- - [https://ericweatherholtz.substack.com](https://ericweatherholtz.substack.com)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Eric Zorn: The Picayune Sentinel | Substack
- - [https://ericzorn.substack.com](https://ericzorn.substack.com)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Erik de Stefanis | Substack
- - [https://erikdestefanis.substack.com](https://erikdestefanis.substack.com)
- - date_published: 2024-01-09T01:39:58.842519+00:00
-
- ## Erik Examines | Erik Engheim | Substack
- - [https://erikexamines.substack.com](https://erikexamines.substack.com)
- - date_published: 2024-01-09T01:40:02.387175+00:00
-
- ## Erik Explores | Erik Engheim | Substack
- - [https://erikexplores.substack.com](https://erikexplores.substack.com)
- - date_published: 2024-01-09T01:40:05.656538+00:00
-
- ## The Intrinsic Perspective | Erik Hoel | Substack
- - [https://erikhoel.substack.com](https://erikhoel.substack.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Erik Torenberg | Substack
- - [https://eriktorenberg.substack.com](https://eriktorenberg.substack.com)
- - date_published: 2024-01-09T01:40:08.307454+00:00
-
- ## Escaping Flatland | Henrik Karlsson | Substack
- - [https://escapingflatland.substack.com](https://escapingflatland.substack.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## The ESG Advocate | Matthew Sekol | Substack
- - [https://esgadvocate.substack.com](https://esgadvocate.substack.com)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Espresso Doble | juan silva | Substack
- - [https://espressodoble.substack.com](https://espressodoble.substack.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Clown World - Honk | Etana Hecht | Substack
- - [https://etana.substack.com](https://etana.substack.com)
- - date_published: 2024-05-11T09:36:00.408360+00:00
-
- ## Atlas of Wonders and Monsters | Étienne Fortier-Dubois | Substack
- - [https://etiennefd.substack.com](https://etiennefd.substack.com)
- - date_published: 2023-10-25T09:50:13.292516+00:00
- - tags: ['substack']
-
- ## Europe in Space | Andrew Parsonson | Substack
- - [https://europeanspaceflight.substack.com](https://europeanspaceflight.substack.com)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## EvangelosSciFi | Aristotle Evangelos | Substack
- - [https://evangelosscifi.substack.com](https://evangelosscifi.substack.com)
- - date_published: 2024-05-02T10:00:12.651359+00:00
-
- ## Problem Solving Incorporated | Evan J. Sillings | Substack
- - [https://evanjsillings.substack.com](https://evanjsillings.substack.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Everything Is Bullshit | David Pinsof | Substack
- - [https://everythingisbullshit.substack.com](https://everythingisbullshit.substack.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Evil Inc | Brad Guigar | Substack
- - [https://evilinc.substack.com](https://evilinc.substack.com)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## Experimental Fat Loss | Substack
- - [https://exfatloss.substack.com](https://exfatloss.substack.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Experimental History | Adam Mastroianni | Substack
- - [https://experimentalhistory.substack.com](https://experimentalhistory.substack.com)
- - date_published: 2023-10-25T09:50:23.915520+00:00
- - tags: ['substack']
-
- ## Exponentially | Jamie | Substack
- - [https://exponentially.substack.com](https://exponentially.substack.com)
- - date_published: 2023-10-25T09:50:29.724540+00:00
- - tags: ['substack']
-
- ## Extraordinary Aliens  | Substack
- - [https://extraordinaryaliens.substack.com](https://extraordinaryaliens.substack.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## John’s Substack | Tom Jordell | Substack
- - [https://ezali.substack.com](https://ezali.substack.com)
- - date_published: 2023-12-15T11:11:56.718524+00:00
-
- ## Ed Zitron's Where's Your Ed At | Substack
- - [https://ez.substack.com](https://ez.substack.com)
- - date_published: 2024-01-09T01:40:10.352159+00:00
-
- ## Fake Money News | Substack
- - [https://fakemoneynews.substack.com](https://fakemoneynews.substack.com)
- - date_published: 2023-10-25T09:50:38.816311+00:00
- - tags: ['substack']
-
- ## Fake  Noûs | Michael Huemer | Substack
- - [https://fakenous.substack.com](https://fakenous.substack.com)
- - date_published: 2024-01-09T01:40:12.504642+00:00
-
- ## Breaking the News | James Fallows | Substack
- - [https://fallows.substack.com](https://fallows.substack.com)
- - date_published: 2023-10-25T11:45:42.200431+00:00
- - tags: ['substack']
-
- ## Faridaily | Farida Rustamova | Substack
- - [https://faridaily.substack.com](https://faridaily.substack.com)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Things Worth Knowing with Farrah Storr | Farrah @Substack | Substack
- - [https://farrah.substack.com](https://farrah.substack.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Farrs’s Substack | Farrs T | Substack
- - [https://farrs.substack.com](https://farrs.substack.com)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## Faster, Please! | James Pethokoukis | Substack
- - [https://fasterplease.substack.com](https://fasterplease.substack.com)
- - date_published: 2023-10-25T11:45:50.876655+00:00
- - tags: ['substack']
-
- ## The Fat Software Engineer | Substack
- - [https://fatsoftwareengineer.substack.com](https://fatsoftwareengineer.substack.com)
- - date_published: 2024-01-09T01:40:14.579959+00:00
-
- ## Sparks in the Wind | François Chollet | Substack
- - [https://fchollet.substack.com](https://fchollet.substack.com)
- - date_published: 2024-01-09T01:40:17.620631+00:00
-
- ## FVCK THE FED | Substack
- - [https://fckthefed.substack.com](https://fckthefed.substack.com)
- - date_published: 2024-05-09T05:54:23.442136+00:00
 

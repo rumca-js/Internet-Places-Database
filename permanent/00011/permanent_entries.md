@@ -1,3 +1,41 @@
+ ## Betty Junod
+ - [https://www.bettyjunod.com](https://www.bettyjunod.com)
+ - date_published: 2024-04-11T20:55:37.390257+00:00
+ - tags: ['personal']
+
+ ## Information Page
+ - [https://www.betvictor.com](https://www.betvictor.com)
+ - date_published: 2024-05-01T06:29:04.342080+00:00
+
+ ## Betweenle - Word Guessing Game
+ - [https://betweenle.com](https://betweenle.com)
+ - date_published: 2024-05-06T23:25:41.548101+00:00
+
+ ## Between Exchange
+ - [https://en.betweenx.com](https://en.betweenx.com)
+ - date_published: 2024-05-06T18:03:40.060629+00:00
+
+ ## Otaku – Cedric's blog
+ - [http://www.beust.com](http://www.beust.com)
+ - date_published: 2024-05-01T04:13:44.076363+00:00
+ - tags: ['personal']
+
+ ## BevSource Beverage Outsourcing, Development, Startup Services
+ - [https://www.bevsource.com](https://www.bevsource.com)
+ - date_published: 2024-05-04T07:28:16.316647+00:00
+
+ ## AI for Real Communities | Bevy
+ - [https://www.bevy.com](https://www.bevy.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home Custom Content | Twitter Events
+ - [https://twitterdev.bevylabs.com](https://twitterdev.bevylabs.com)
+ - date_published: 2024-05-06T20:47:29.227460+00:00
+
+ ## Show HN: BewCloud is a simpler alternative to Nextcloud written in TypeScript
+ - [https://bewcloud.com](https://bewcloud.com)
+ - date_published: 2024-03-16T14:20:33+00:00
+
  ## About tweaking the fundamental settings of your brain
  - [http://bewelltuned.com](http://bewelltuned.com)
  - date_published: 2024-03-16T22:47:31+00:00
@@ -1017,7 +1055,7 @@
  ## Buy Bitcoin & cryptocurrency | Wallet, news, education.
  - [https://bitcoin.com](https://bitcoin.com)
  - date_published: 2024-03-28T08:17:49+00:00
- - tags: ['crypto news']
+ - tags: ['crypto news', 'bitcoin']
 
  ## Crypto Wallet | Supports Bitcoin (BTC), Bitcoin Cash (BCH), Ethereum (ETH), and ERC-20 tokens
  - [https://branch.wallet.bitcoin.com](https://branch.wallet.bitcoin.com)
@@ -1038,6 +1076,11 @@
  ## Bitcoin Magazine - Bitcoin News, Articles and Expert Insights
  - [https://bitcoinmagazine.com](https://bitcoinmagazine.com)
  - date_published: 2024-05-07T18:52:12.890762+00:00
+
+ ## Bitcoin Quotes
+ - [https://www.bitcoin-quotes.com](https://www.bitcoin-quotes.com)
+ - date_published: 2024-06-04T11:22:25.771081+00:00
+ - tags: ['quotes', 'bitcoin']
 
  ## Bitcoin Resources
  - [https://bitcoin-resources.com](https://bitcoin-resources.com)
@@ -1982,6 +2025,7 @@
  ## Blockchain.com | Be early to the future of finance
  - [https://www.blockchain.com](https://www.blockchain.com)
  - date_published: 2024-01-07T11:17:18.108682+00:00
+ - tags: ['blockchain']
 
  ## Blockchain Status
  - [https://www.blockchain-status.com](https://www.blockchain-status.com)
@@ -2031,6 +2075,10 @@
  ## Blockscan Chat - Wallet to Wallet Messaging for Web3
  - [https://chat.blockscan.com](https://chat.blockscan.com)
  - date_published: 2024-04-28T03:08:41.724360+00:00
+
+ ## Blockscout
+ - [https://www.blockscout.com](https://www.blockscout.com)
+ - date_published: 2024-06-03T00:00:00+00:00
 
  ## Web campaigns at scale
  - [https://blocksedit.com](https://blocksedit.com)
@@ -2274,6 +2322,10 @@
  - [http://albertis-window.blogspot.com](http://albertis-window.blogspot.com)
  - date_published: 2024-05-06T16:58:15.223069+00:00
  - tags: ['art', 'history', 'blog']
+
+ ## Алёна C++
+ - [https://alenacpp.blogspot.com](https://alenacpp.blogspot.com)
+ - date_published: 2024-06-04T20:17:19.656534+00:00
 
  ## Aletho News
  - [http://aletho-news.blogspot.com](http://aletho-news.blogspot.com)
@@ -4106,53 +4158,4 @@
  ## Oubliette Magazine
  - [http://oubliettemagazine.blogspot.com](http://oubliettemagazine.blogspot.com)
  - date_published: 2024-05-17T18:19:00+00:00
-
- ## Our Lady of Second Helpings
- - [http://ourladyofsecondhelpings.blogspot.com](http://ourladyofsecondhelpings.blogspot.com)
- - date_published: 2024-05-07T15:04:39.074324+00:00
-
- ## outofprintmath
- - [http://outofprintmath.blogspot.com](http://outofprintmath.blogspot.com)
- - date_published: 2024-05-07T15:57:18.802358+00:00
-
- ## Outside Your Heaven
- - [http://outsideyourheaven.blogspot.com](http://outsideyourheaven.blogspot.com)
- - date_published: 2024-05-11T05:34:48.201812+00:00
-
- ## oz.Typewriter
- - [https://oztypewriter.blogspot.com](https://oztypewriter.blogspot.com)
- - date_published: 2024-04-09T02:01:22.033251+00:00
- - tags: ['personal', 'blog']
-
- ## Paint Bard
- - [http://paintbard.blogspot.com](http://paintbard.blogspot.com)
- - date_published: 2024-05-17T10:41:00+00:00
-
- ## Paleoglot
- - [http://paleoglot.blogspot.com](http://paleoglot.blogspot.com)
- - date_published: 2024-05-07T21:54:34.038344+00:00
-
- ## PaleoJudaica.com
- - [http://paleojudaica.blogspot.com](http://paleojudaica.blogspot.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## paperpools
- - [http://paperpools.blogspot.com](http://paperpools.blogspot.com)
- - date_published: 2024-05-07T21:46:58.642350+00:00
-
- ## this is mine
- - [https://paradoxslush.blogspot.com](https://paradoxslush.blogspot.com)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Paranormal in Origin
- - [http://paranormalorigin.blogspot.com](http://paranormalorigin.blogspot.com)
- - date_published: 2024-05-08T09:46:37.688955+00:00
-
- ## Jesus' General
- - [http://patriotboy.blogspot.com](http://patriotboy.blogspot.com)
- - date_published: 2024-05-06T23:49:27.831983+00:00
-
- ## Wandering Around The Family Tree
- - [https://pattyhankins.blogspot.com](https://pattyhankins.blogspot.com)
- - date_published: 2024-04-30T02:32:23.163704+00:00
 

@@ -1,3 +1,7 @@
+ ## Vogue Australia
+ - [https://www.vogue.com.au](https://www.vogue.com.au)
+ - date_published: 2024-05-07T10:58:36.262603+00:00
+
  ## Breaking News from Perth & Western Australia | WAtoday.com.au
  - [https://www.watoday.com.au](https://www.watoday.com.au)
  - date_published: 2024-05-01T02:32:44.303943+00:00
@@ -740,6 +744,10 @@
  ## The Australia Institute's Centre for Future Work
  - [https://futurework.org.au](https://futurework.org.au)
  - date_published: 2023-10-25T11:58:03.137578+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.gamblinghelponline.org.au](https://www.gamblinghelponline.org.au)
+ - date_published: 2024-06-04T15:16:38.505777+00:00
 
  ## Welcome to Girl Guides Victoria - Girl Guides Victoria
  - [https://guidesvic.org.au](https://guidesvic.org.au)
@@ -4106,12 +4114,4 @@ Educação
  ## Museu do Amanhã
  - [https://museudoamanha.org.br](https://museudoamanha.org.br)
  - date_published: 2024-02-15T00:00:00+00:00
-
- ## Pivô
- - [https://www.pivo.org.br](https://www.pivo.org.br)
- - date_published: 2024-02-08T17:51:49.160299+00:00
-
- ## Portas Abertas – Tudo sobre cristãos perseguidos e a Igreja Perseguida
- - [https://www.portasabertas.org.br](https://www.portasabertas.org.br)
- - date_published: 2024-05-08T11:12:55.979392+00:00
 

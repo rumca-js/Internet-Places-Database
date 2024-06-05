@@ -1,3 +1,467 @@
+ ## GSPDA Web Server
+ - [https://gspda.jlab.org](https://gspda.jlab.org)
+ - date_published: 2024-05-08T08:59:16.557107+00:00
+
+ ## JLab Emergency Site
+ - [http://status.jlab.org](http://status.jlab.org)
+ - date_published: 2024-05-08T08:59:18.478786+00:00
+
+ ## Thomas Jefferson National Accelerator Facility
+ - [https://www.jlab.org](https://www.jlab.org)
+ - date_published: 2024-01-28T13:02:30.709192+00:00
+
+ ## Before you continue to YouTube
+ - [http://arcade.jmac.org](http://arcade.jmac.org)
+ - date_published: 2024-05-10T05:58:22.983539+00:00
+
+ ## ComicsML
+ - [http://comicsml.jmac.org](http://comicsml.jmac.org)
+ - date_published: 2024-05-10T05:58:28.141958+00:00
+
+ ## The Gameshelf | Independent Game Criticism
+and other interesting stuff
+ - [http://gameshelf.jmac.org](http://gameshelf.jmac.org)
+ - date_published: 2024-05-10T05:58:18.010421+00:00
+
+ ## Jason McIntosh
+ - [https://jmac.org](https://jmac.org)
+ - date_published: 2023-12-03T23:31:24.435686+00:00
+ - tags: ['personal']
+
+ ## Jason McIntosh
+ - [https://www.jmac.org](https://www.jmac.org)
+ - date_published: 2024-05-10T05:58:11.960968+00:00
+
+ ## JMI - JMIR Medical Informatics
+ - [https://medinform.jmir.org](https://medinform.jmir.org)
+ - date_published: 2024-05-01T07:32:27.908915+00:00
+
+ ## Journal of Machine Learning Research
+ - [https://jmlr.org](https://jmlr.org)
+ - date_published: 2024-05-11T11:25:23.803606+00:00
+
+ ## Journal of Machine Learning Research
+ - [https://www.jmlr.org](https://www.jmlr.org)
+ - date_published: 2023-10-25T21:34:26.430835+00:00
+
+ ## Don Norman's JND.org
+ - [https://jnd.org](https://jnd.org)
+ - date_published: 2024-04-29T02:48:44.667605+00:00
+
+ ## Don Norman's JND.org
+ - [http://www.jnd.org](http://www.jnd.org)
+ - date_published: 2024-04-29T07:03:56.813895+00:00
+ - tags: ['personal']
+
+ ## Journal of Neuroscience
+ - [https://www.jneurosci.org](https://www.jneurosci.org)
+ - date_published: 2023-12-07T08:21:12.636553+00:00
+
+ ## JNS
+ - [https://crm.jns.org](https://crm.jns.org)
+ - date_published: 2024-05-08T08:59:40.052774+00:00
+
+ ## JNS.org
+ - [https://www.jns.org](https://www.jns.org)
+ - date_published: 2023-11-02T15:51:39.301436+00:00
+
+ ## The Job Guarantee Program
+ - [https://www.jobguarantee.org](https://www.jobguarantee.org)
+ - date_published: 2024-04-03T06:39:07.169690+00:00
+ - tags: ['job']
+
+ ## Joblint
+ - [https://joblint.org](https://joblint.org)
+ - date_published: 2023-10-25T21:34:29.523770+00:00
+
+ ## Jobs-to-be-Done | It's more than just Milkshakes. Get the latest on Jobs-to-be-Done here.
+ - [http://jobstobedone.org](http://jobstobedone.org)
+ - date_published: 2099-12-31T00:00:00+00:00
+
+ ## John Carter of Mars Official Site from Edgar Rice Burroughs, Inc., Tarzana, California
+ - [http://www.johncarterofmars.org](http://www.johncarterofmars.org)
+ - date_published: 2024-05-08T11:34:27.588593+00:00
+
+ ## John and Heather Tobey
+ - [http://john-edwin-tobey.org](http://john-edwin-tobey.org)
+ - date_published: 2016-07-25T00:00:00+00:00
+
+ ## John Horgan (The Science Writer)
+ - [https://johnhorgan.org](https://johnhorgan.org)
+ - date_published: 2023-10-25T08:54:50.144199+00:00
+ - tags: ['personal']
+
+ ## John Horgan (The Science Writer)
+ - [https://www.johnhorgan.org](https://www.johnhorgan.org)
+ - date_published: 2023-10-25T21:34:35.099221+00:00
+
+ ## Johnny-Depp.org, an Admirer's site dedicated to Johnny Depp
+ - [https://johnny-depp.org](https://johnny-depp.org)
+ - date_published: 2024-04-26T18:04:07+00:00
+ - tags: ['actor', 'fan page', 'johnny depp']
+
+ ## John Salvatier
+ - [https://johnsalvatier.org](https://johnsalvatier.org)
+ - date_published: 2024-01-09T03:41:08.851103+00:00
+
+ ## Johnson Ohana Charitable Foundation - Home
+ - [https://johnsonohana.org](https://johnsonohana.org)
+ - date_published: 2024-05-24T06:12:44.467009+00:00
+
+ ## All of Us Research Program
+ - [https://az.joinallofus.org](https://az.joinallofus.org)
+ - date_published: 2024-04-30T03:04:30.630526+00:00
+
+ ## Campaign Zero
+ - [https://www.joincampaignzero.org](https://www.joincampaignzero.org)
+ - date_published: 2024-05-11T10:48:23.155198+00:00
+
+ ## Lemmy - A link aggregator for the fediverse
+ - [https://join-lemmy.org](https://join-lemmy.org)
+ - date_published: 2023-10-24T20:15:04.346134+00:00
+
+ ## Weblate
+ - [https://weblate.join-lemmy.org](https://weblate.join-lemmy.org)
+ - date_published: 2024-05-08T09:00:04.960537+00:00
+
+ ## Mastodon Blog
+ - [https://blog.joinmastodon.org](https://blog.joinmastodon.org)
+ - date_published: 2023-10-24T20:17:06.109620+00:00
+
+ ## Mastodon documentation
+ - [https://docs.joinmastodon.org](https://docs.joinmastodon.org)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## Mastodon - Decentralized social media
+ - [https://joinmastodon.org](https://joinmastodon.org)
+ - date_published: 2024-04-08T19:29:10.342030+00:00
+ - tags: ['self-host', 'social media platform']
+
+ ## Chat Freely with Matrix.
+ - [https://joinmatrix.org](https://joinmatrix.org)
+ - date_published: 2024-05-08T00:24:27.356218+00:00
+ - tags: ['matrix', 'social communicator']
+
+ ## #JoinMobilizon - Reprenons le contrôle de nos événements
+ - [https://joinmobilizon.org](https://joinmobilizon.org)
+ - date_published: 2024-05-08T03:04:25.384261+00:00
+
+ ## PeerTube documentation
+ - [https://docs.joinpeertube.org](https://docs.joinpeertube.org)
+ - date_published: 2024-05-08T09:00:13.306197+00:00
+
+ ## PeerTube instances
+ - [https://instances.joinpeertube.org](https://instances.joinpeertube.org)
+ - date_published: 2023-10-25T11:44:39.511568+00:00
+ - tags: ['video streaming']
+
+ ## What is PeerTube? | JoinPeerTube
+ - [https://joinpeertube.org](https://joinpeertube.org)
+ - date_published: 2023-10-24T20:06:01.634426+00:00
+
+ ## Sepia Search
+ - [https://search.joinpeertube.org](https://search.joinpeertube.org)
+ - date_published: 2024-04-30T06:19:34.246294+00:00
+
+ ## Soutenir PeerTube
+ - [https://support.joinpeertube.org](https://support.joinpeertube.org)
+ - date_published: 2024-05-08T09:00:06.344272+00:00
+
+ ## Takahē documentation
+ - [https://docs.jointakahe.org](https://docs.jointakahe.org)
+ - date_published: 2024-05-15T02:50:12.016562+00:00
+
+ ## Welcome | Takahē
+ - [https://jointakahe.org](https://jointakahe.org)
+ - date_published: 2023-10-25T21:34:38.084888+00:00
+ - tags: ['activitypub', 'self-host']
+
+ ## Driving Adoption of Open Source and Standards - Joint Development Foundation
+ - [https://jointdevelopment.org](https://jointdevelopment.org)
+ - date_published: 2024-05-04T08:30:38.400018+00:00
+
+ ## Joint Mathematics Meetings
+ - [https://www.jointmathematicsmeetings.org](https://www.jointmathematicsmeetings.org)
+ - date_published: 2024-05-07T15:55:42.086694+00:00
+
+ ## Joker
+ - [https://joker-lang.org](https://joker-lang.org)
+ - date_published: 2023-10-25T21:34:44.306193+00:00
+ - tags: ['programming language']
+
+ ## Jonathan LE ROUX
+ - [https://www.jonathanleroux.org](https://www.jonathanleroux.org)
+ - date_published: 2024-05-12T04:29:12.900174+00:00
+
+ ## JONATHAN TURLEY – Res ipsa loquitur – The thing itself speaks
+ - [https://jonathanturley.org](https://jonathanturley.org)
+ - date_published: 2023-10-25T21:34:51.595319+00:00
+
+ ## Emploi en France - 810.000+ des nouvelles offres d'emploi - Jooble
+ - [https://fr.jooble.org](https://fr.jooble.org)
+ - date_published: 2024-05-01T01:57:41.997161+00:00
+
+ ## Jooble: Jobs in USA - 1.567.000+ current vacancies
+ - [https://jooble.org](https://jooble.org)
+ - date_published: 2024-05-10T06:25:36.674461+00:00
+
+ ## Praca w Polsce - 126.000+ aktualnych ofert pracy - Jooble
+ - [https://pl.jooble.org](https://pl.jooble.org)
+ - date_published: 2024-05-26T18:51:34.789738+00:00
+
+ ## Build Your Website, Blog or Store Today | Joomla 5
+ - [https://5.joomla.org](https://5.joomla.org)
+ - date_published: 2024-05-12T03:56:03.519359+00:00
+
+ ## Joomla! API
+ - [https://api.joomla.org](https://api.joomla.org)
+ - date_published: 2024-05-12T03:56:01.506084+00:00
+
+ ## Welcome to the website of the Joomla! Certification Program™
+ - [https://certification.joomla.org](https://certification.joomla.org)
+ - date_published: 2024-05-12T03:55:50.417406+00:00
+
+ ## The Joomla! Community Portal
+ - [https://community.joomla.org](https://community.joomla.org)
+ - date_published: 2024-05-12T03:55:56.896504+00:00
+
+ ## Joomla! Developer Network
+ - [https://developer.joomla.org](https://developer.joomla.org)
+ - date_published: 2024-05-12T03:55:54.457023+00:00
+
+ ## Joomla! Documentation
+ - [https://docs.joomla.org](https://docs.joomla.org)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Portal Home - Joomla! Domains by ABION
+ - [https://domains.joomla.org](https://domains.joomla.org)
+ - date_published: 2024-05-12T03:56:12.268538+00:00
+
+ ## Joomla! Downloads - Build your website with the CMS Joomla!
+ - [https://downloads.joomla.org](https://downloads.joomla.org)
+ - date_published: 2024-05-12T03:55:48.720399+00:00
+
+ ## Joomla! Extensions Directory
+ - [https://extensions.joomla.org](https://extensions.joomla.org)
+ - date_published: 2024-04-24T08:17:29+00:00
+
+ ## Joomla! Forum - community, help and support - Index page
+ - [https://forum.joomla.org](https://forum.joomla.org)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Joomla! Framework, a framework for developing PHP applications
+ - [https://framework.joomla.org](https://framework.joomla.org)
+ - date_published: 2024-05-12T03:56:29.717538+00:00
+
+ ## Joomla! Issue Tracker | Joomla! CMS Issues
+ - [https://issues.joomla.org](https://issues.joomla.org)
+ - date_published: 2024-05-12T03:56:05.485397+00:00
+
+ ## Joomla! Launch
+ - [https://launch.joomla.org](https://launch.joomla.org)
+ - date_published: 2024-05-12T03:56:24.617393+00:00
+
+ ## Magazine - The Joomla Community Magazine
+ - [https://magazine.joomla.org](https://magazine.joomla.org)
+ - date_published: 2024-05-12T03:56:36.694329+00:00
+
+ ## Buy Official Joomla! Merchandise here!
+ - [https://shop.joomla.org](https://shop.joomla.org)
+ - date_published: 2024-05-12T03:56:14.405470+00:00
+
+ ## Home - Joomla! Showcase Directory
+ - [https://showcase.joomla.org](https://showcase.joomla.org)
+ - date_published: 2024-05-12T03:56:09.833177+00:00
+
+ ## Joomla! Trademark and Licensing
+ - [https://tm.joomla.org](https://tm.joomla.org)
+ - date_published: 2024-05-12T03:56:28.339835+00:00
+
+ ## Tutorials:Beginners - Joomla! Documentation
+ - [https://training.joomla.org](https://training.joomla.org)
+ - date_published: 2024-05-12T03:55:52.641407+00:00
+
+ ## Joomla! Volunteers Portal - Home of the Joomlers!
+ - [https://volunteers.joomla.org](https://volunteers.joomla.org)
+ - date_published: 2024-05-12T03:56:00.680645+00:00
+
+ ## Joomla Content Management System (CMS) - try it! It's free!
+ - [https://www.joomla.org](https://www.joomla.org)
+ - date_published: 2024-03-19T00:00:00+00:00
+ - tags: ['open source', 'cms']
+
+ ## Promoting the use of Open Source Software
+ - [https://joomlafoundation.org](https://joomlafoundation.org)
+ - date_published: 2024-05-12T03:56:06.593528+00:00
+
+ ## jOOQ: The easiest way to write SQL in Java
+ - [https://jooq.org](https://jooq.org)
+ - date_published: 2024-05-09T07:22:17.849484+00:00
+
+ ## Joplin Forum
+ - [https://discourse.joplinapp.org](https://discourse.joplinapp.org)
+ - date_published: 2024-05-09T04:35:47.596208+00:00
+
+ ## Joplin is an open source note-taking app
+ - [https://joplinapp.org](https://joplinapp.org)
+ - date_published: 2024-03-03T16:23:34+00:00
+ - tags: ['program']
+
+ ## Home - JordanCon
+ - [http://www.jordancon.org](http://www.jordancon.org)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Jose Briones
+ - [https://josebriones.org](https://josebriones.org)
+ - date_published: 2024-01-08T00:32:13.058182+00:00
+
+ ## Simon Josefsson's blog
+ - [https://blog.josefsson.org](https://blog.josefsson.org)
+ - date_published: 2023-10-25T09:24:02.008742+00:00
+ - tags: ['personal']
+
+ ## Jotai, primitive and flexible state management for React
+ - [https://jotai.org](https://jotai.org)
+ - date_published: 2024-05-08T02:33:03.752677+00:00
+
+ ## News Habits & Media
+ - [https://www.journalism.org](https://www.journalism.org)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Center for Journalism & Liberty
+ - [https://www.journalismliberty.org](https://www.journalismliberty.org)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Journalism research news
+ - [http://journalismresearchnews.org](http://journalismresearchnews.org)
+ - date_published: 2024-04-30T06:01:32.993376+00:00
+
+ ## SPJ Toolbox
+ - [http://www.journaliststoolbox.org](http://www.journaliststoolbox.org)
+ - date_published: 2024-05-07T10:31:08.161074+00:00
+
+ ## Journal of Democracy
+ - [https://www.journalofdemocracy.org](https://www.journalofdemocracy.org)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Jovia Credit Union | Loans, Credit Cards, Mortgages | Jovia
+ - [https://www.jovia.org](https://www.jovia.org)
+ - date_published: 2024-02-10T00:00:00+00:00
+
+ ## Journal of the American Physicians and Surgeons
+ - [http://www.jpands.org](http://www.jpands.org)
+ - date_published: 2024-05-07T14:59:34.038742+00:00
+
+ ## Home
+ - [https://jpc2.org](https://jpc2.org)
+ - date_published: 2024-04-03T12:49:04.549276+00:00
+ - tags: ['personal']
+
+ ## jpdm.org
+ - [https://www.jpdm.org](https://www.jpdm.org)
+ - date_published: 2024-05-09T07:40:00.235690+00:00
+
+ ## Contribute to jQuery
+ - [https://contribute.jquery.org](https://contribute.jquery.org)
+ - date_published: 2024-05-10T03:58:59.463585+00:00
+
+ ## OpenJS Foundation Events | OpenJS Foundation
+ - [https://events.jquery.org](https://events.jquery.org)
+ - date_published: 2024-05-10T03:58:58.269138+00:00
+
+ ## A safe and modern home for JavaScript technologies | OpenJS Foundation
+ - [https://jquery.org](https://jquery.org)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Home
+ - [https://jrmf.org](https://jrmf.org)
+ - date_published: 2024-02-18T00:00:00+00:00
+ - tags: ['community event', 'math', 'festival']
+
+ ## 98.js - Windows 98 Online
+ - [https://98.js.org](https://98.js.org)
+ - date_published: 2024-05-11T11:06:37.059567+00:00
+ - tags: ['windows 98', 'online']
+
+ ## bundlejs
+ - [https://bundle.js.org](https://bundle.js.org)
+ - date_published: 2024-06-03T11:19:32.647556+00:00
+
+ ## caffeine
+ - [https://caffeine.js.org](https://caffeine.js.org)
+ - date_published: 2024-05-08T09:02:19.066576+00:00
+
+ ## Day.js · 2kB JavaScript date utility library
+ - [https://day.js.org](https://day.js.org)
+ - date_published: 2023-10-25T21:35:01.156471+00:00
+
+ ## Eleven – Self-taught web developer.
+ - [https://eleven.js.org](https://eleven.js.org)
+ - date_published: 2024-05-07T23:25:27.951904+00:00
+
+ ## Simplified JavaScript Jargon
+ - [https://jargon.js.org](https://jargon.js.org)
+ - date_published: 2024-05-04T09:45:40.401091+00:00
+
+ ## Introduction - JSON-e
+ - [https://json-e.js.org](https://json-e.js.org)
+ - date_published: 2024-05-12T06:12:42.544180+00:00
+
+ ## JS.ORG
+ - [https://js.org](https://js.org)
+ - date_published: 2024-05-08T09:02:18.194771+00:00
+ - tags: ['javascript']
+
+ ## Leonardo Kewitz
+ - [https://kewitz.js.org](https://kewitz.js.org)
+ - date_published: 2024-04-29T07:28:51.024859+00:00
+
+ ## LIPS: Powerful Scheme based Lisp interpreter in JavaScript
+ - [https://lips.js.org](https://lips.js.org)
+ - date_published: 2023-12-30T21:13:03+00:00
+
+ ## Loki · Visual Regression Testing for Storybook
+ - [https://loki.js.org](https://loki.js.org)
+ - date_published: 2024-05-04T15:20:09.191872+00:00
+
+ ## McFly: Back to the Basics. Into the Future. 😱
+ - [https://mcfly.js.org](https://mcfly.js.org)
+ - date_published: 2024-04-28T02:42:05.539646+00:00
+
+ ## Mermaid | Diagramming and charting tool
+ - [https://mermaid.js.org](https://mermaid.js.org)
+ - date_published: 2024-05-08T04:12:29.362917+00:00
+
+ ## Mithril.js
+ - [https://mithril.js.org](https://mithril.js.org)
+ - date_published: 2024-05-07T10:27:27.619312+00:00
+ - tags: ['javascript', 'programming framework']
+
+ ## MobX
+ - [https://mobx.js.org](https://mobx.js.org)
+ - date_published: 2024-05-06T13:01:26.167583+00:00
+
+ ## Build lightweight cross-platform desktop apps with JavaScript, HTML, and CSS | Neutralinojs
+ - [https://neutralino.js.org](https://neutralino.js.org)
+ - date_published: 2023-10-25T21:35:04.047579+00:00
+
+ ## Next.js
+ - [https://next.js.org](https://next.js.org)
+ - date_published: 2024-05-09T08:46:07.923542+00:00
+
+ ## Nostalgist.js
+ - [https://nostalgist.js.org](https://nostalgist.js.org)
+ - date_published: 2023-10-25T21:35:11.516801+00:00
+
+ ## NPKILL - Maintain your development workspace clean.
+ - [https://npkill.js.org](https://npkill.js.org)
+ - date_published: 2023-12-13T11:29:20+00:00
+ - tags: ['npm', 'javascript']
+
+ ## opentype.js – JavaScript parser/writer for OpenType and TrueType fonts.
+ - [https://opentype.js.org](https://opentype.js.org)
+ - date_published: 2024-05-08T06:05:06.798268+00:00
+
  ## OS GUI — Windows 98 CSS+JS Library Demo
  - [https://os-gui.js.org](https://os-gui.js.org)
  - date_published: 2024-03-25T07:47:29+00:00
@@ -2219,6 +2683,10 @@ Hosted by Panix.com.
  - [https://levlaz.org](https://levlaz.org)
  - date_published: 2024-01-20T17:36:08.936473+00:00
 
+ ## Levy Economics Institute of Bard College
+ - [https://www.levyinstitute.org](https://www.levyinstitute.org)
+ - date_published: 2024-06-04T16:37:05.527878+00:00
+
  ## Home - CS Lewis Society of California
  - [https://lewissociety.org](https://lewissociety.org)
  - date_published: 2024-04-22T00:00:00+00:00
@@ -3645,465 +4113,4 @@ Hosted by Panix.com.
  ## Home - Mad in Mexico
  - [http://madinmexico.org](http://madinmexico.org)
  - date_published: 2024-05-04T13:47:56.694996+00:00
-
- ## index - Mad in Norway
- - [https://madinnorway.org](https://madinnorway.org)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## DNS points to prohibited IP | www.madinportugal.org | Cloudflare
- - [https://www.madinportugal.org](https://www.madinportugal.org)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## DNS points to prohibited IP | www.madinsouthasia.org | Cloudflare
- - [https://www.madinsouthasia.org](https://www.madinsouthasia.org)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## inicio - Mad in (S)pain
- - [https://madinspain.org](https://madinspain.org)
- - date_published: 2024-05-04T13:47:53.776421+00:00
-
- ## Hem - Mad In Sweden
- - [https://madinsweden.org](https://madinsweden.org)
- - date_published: 2024-05-04T13:47:44.264508+00:00
-
- ## Mad in the Netherlands
- - [https://madinthenetherlands.org](https://madinthenetherlands.org)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## www.madore.org
- - [http://www.madore.org](http://www.madore.org)
- - date_published: 2024-05-02T14:26:30.507957+00:00
-
- ## Madsci Network: Research
- - [http://madsci.org](http://madsci.org)
- - date_published: 2024-05-08T09:50:09.181315+00:00
-
- ## Madsci Network: Research
- - [http://research.madsci.org](http://research.madsci.org)
- - date_published: 2024-05-08T09:50:20.743057+00:00
-
- ## MadSciNet: The 24-hour exploding laboratory.
- - [https://www.madsci.org](https://www.madsci.org)
- - date_published: 2023-10-25T21:40:09.904654+00:00
-
- ## Homepage - MadWizard.org
- - [http://www.madwizard.org](http://www.madwizard.org)
- - date_published: 2024-04-25T18:39:27.440237+00:00
- - tags: ['personal']
-
- ## Give
- - [https://give.maf.org](https://give.maf.org)
- - date_published: 2024-02-08T18:07:08.697933+00:00
-
- ## Home - Mission Aviation Fellowship
- - [https://maf.org](https://maf.org)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Mage :: Mage
- - [https://magefile.org](https://magefile.org)
- - date_published: 2024-05-06T08:59:39.598620+00:00
-
- ## Mageia Bugzilla Main Page
- - [https://bugs.mageia.org](https://bugs.mageia.org)
- - date_published: 2024-05-06T14:25:29.683164+00:00
-
- ## mageia-app-db
- - [https://madb.mageia.org](https://madb.mageia.org)
- - date_published: 2024-05-11T08:03:25.678256+00:00
-
- ## ViewVC Repository Listing
- - [http://svnweb.mageia.org](http://svnweb.mageia.org)
- - date_published: 2024-05-06T14:25:27.127679+00:00
-
- ## Home of the Mageia project
- - [https://www.mageia.org](https://www.mageia.org)
- - date_published: 2024-05-08T09:17:02.829366+00:00
-
- ## Magical Moon Farm & Foundation
- - [https://www.magicalmoon.org](https://www.magicalmoon.org)
- - date_published: 2024-05-07T15:28:17.343070+00:00
-
- ## Home | MAG
- - [https://www.maginternational.org](https://www.maginternational.org)
- - date_published: 2024-05-12T06:31:15.812860+00:00
-
- ## Observatory Magna Charta Universitatum
- - [http://www.magna-charta.org](http://www.magna-charta.org)
- - date_published: 2024-04-29T06:59:06.093065+00:00
-
- ## Magpie Guide: Welcome
- - [http://magpie-lang.org](http://magpie-lang.org)
- - date_published: 2024-05-08T06:48:27.651281+00:00
-
- ## magzDB | Вся периодика мира
- - [http://magzdb.org](http://magzdb.org)
- - date_published: 2024-05-06T15:11:49.566976+00:00
-
- ## MAHRP – Maldives Association of Human Resources Professionals
- - [https://mahrp.org](https://mahrp.org)
- - date_published: 2024-05-10T06:33:51.299681+00:00
-
- ## Knowledge Base
- - [https://kb.mailbox.org](https://kb.mailbox.org)
- - date_published: 2024-05-01T07:12:30.379788+00:00
-
- ## mailbox.org | Login
- - [https://login.mailbox.org](https://login.mailbox.org)
- - date_published: 2024-05-08T09:50:48.088404+00:00
-
- ## Secure e-mail for private and business customers | mailbox.org
- - [https://mailbox.org](https://mailbox.org)
- - date_published: 2023-10-25T21:40:11.120497+00:00
-
- ## Package Selection
- - [https://register.mailbox.org](https://register.mailbox.org)
- - date_published: 2024-05-08T09:50:46.639586+00:00
-
- ## mailbox.org-Mastodon
- - [https://social.mailbox.org](https://social.mailbox.org)
- - date_published: 2024-05-08T09:50:47.600523+00:00
-
- ## mailbox.org Support
- - [https://userforum-en.mailbox.org](https://userforum-en.mailbox.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home - Maine Indoor Air Quality Council
- - [https://maineindoorair.org](https://maineindoorair.org)
- - date_published: 2023-03-17T00:00:00+00:00
-
- ## Maine State Legislature - Home
- - [https://www.mainelegislature.org](https://www.mainelegislature.org)
- - date_published: 2023-10-25T21:40:12.533641+00:00
-
- ## Maine Policy Institute
- - [https://www.mainepolicy.org](https://www.mainepolicy.org)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Main Street Martial Arts – Where the Arts and Life Are One!
- - [https://mainstma.org](https://mainstma.org)
- - date_published: 2024-02-08T17:51:41.811106+00:00
-
- ## 403 Error
- - [https://new.mainstma.org](https://new.mainstma.org)
- - date_published: 2024-05-08T09:51:03.918607+00:00
-
- ## Index of /.
- - [https://maizure.org](https://maizure.org)
- - date_published: 2023-10-25T21:40:18.210567+00:00
-
- ## Major League Cyber
- - [https://majorleaguecyber.org](https://majorleaguecyber.org)
- - date_published: 2024-04-30T06:46:56.195451+00:00
-
- ## MakerNet
- - [https://makernet.org](https://makernet.org)
- - date_published: 2024-04-30T15:47:02.509392+00:00
-
- ## Make the Road New York | Se Hace Camino Nueva York
- - [https://maketheroadny.org](https://maketheroadny.org)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Simple Analytics
- - [https://api.makie.org](https://api.makie.org)
- - date_published: 2024-05-08T09:51:08.641160+00:00
-
- ## Beautiful Makie
- - [https://beautiful.makie.org](https://beautiful.makie.org)
- - date_published: 2024-05-08T09:51:07.682570+00:00
-
- ## https://makie.org
- - [https://makie.org](https://makie.org)
- - date_published: 2024-01-09T03:41:29.122373+00:00
-
- ## welcome to Mako!
- - [http://www.makotemplates.org](http://www.makotemplates.org)
- - date_published: 2024-05-07T22:44:41.017922+00:00
-
- ## Home
- - [http://blog.malde.org](http://blog.malde.org)
- - date_published: 2024-05-28T00:44:49.164519+00:00
-
- ## maltris.org – Warte auf /kosmos um vollständig bevölkert zu werden.
- - [https://maltris.org](https://maltris.org)
- - date_published: 2024-06-01T04:55:01.406962+00:00
-
- ## Milwaukee Art Museum
- - [http://mam.org](http://mam.org)
- - date_published: 2024-05-04T08:27:34.596809+00:00
-
- ## MAME Documentation — MAME Documentation 0.266 documentation
- - [https://docs.mamedev.org](https://docs.mamedev.org)
- - date_published: 2024-05-08T09:51:20.157024+00:00
-
- ## MAMEDEV Forum - Index page
- - [https://forum.mamedev.org](https://forum.mamedev.org)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## MAMEdev.org | Home of The MAME Project
- - [http://mamedev.org](http://mamedev.org)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## MAMEDEV Wiki
- - [https://wiki.mamedev.org](https://wiki.mamedev.org)
- - date_published: 2024-05-08T09:51:21.391515+00:00
-
- ## MAMEdev.org | Home of The MAME Project
- - [https://www.mamedev.org](https://www.mamedev.org)
- - date_published: 2023-10-25T08:33:59.180459+00:00
-
- ## man7.org
- - [http://blog.man7.org](http://blog.man7.org)
- - date_published: 2024-05-08T09:51:26.685859+00:00
-
- ## Michael Kerrisk - man7.org
- - [https://man7.org](https://man7.org)
- - date_published: 2023-10-25T08:54:54.932586+00:00
- - tags: ['personal']
-
- ## Michael Kerrisk - man7.org
- - [https://www.man7.org](https://www.man7.org)
- - date_published: 2023-11-01T08:44:26.382114+00:00
-
- ## MangoPi Forum
- - [https://forum.mangopi.org](https://forum.mangopi.org)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Mango Pi official website | Tiny and Elegant SBC | start
- - [https://mangopi.org](https://mangopi.org)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Manifund
- - [https://manifund.org](https://manifund.org)
- - date_published: 2023-10-25T21:40:31.014774+00:00
-
- ## Blog
- - [https://blog.manjaro.org](https://blog.manjaro.org)
- - date_published: 2024-05-23T02:48:22.468703+00:00
-
- ## Official Manjaro Documentation
- - [https://docs.manjaro.org](https://docs.manjaro.org)
- - date_published: 2024-05-23T02:48:23.852145+00:00
-
- ## Manjaro Linux Forum
- - [https://forum.manjaro.org](https://forum.manjaro.org)
- - date_published: 2024-05-19T02:58:20.985001+00:00
-
- ## Explore groups · GitLab
- - [https://gitlab.manjaro.org](https://gitlab.manjaro.org)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## lists.manjaro.org Mailing Lists
- - [https://lists.manjaro.org](https://lists.manjaro.org)
- - date_published: 2024-05-23T02:48:20.594774+00:00
-
- ## Manjaro
- - [https://manjaro.org](https://manjaro.org)
- - date_published: 2023-10-25T08:32:30.040310+00:00
- - tags: ['linux', 'operating system', 'open source']
-
- ## Manjaro Repository - Status of mirrors
- - [https://repo.manjaro.org](https://repo.manjaro.org)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Manjaro - Upptime
- - [https://status.manjaro.org](https://status.manjaro.org)
- - date_published: 2024-05-23T02:48:32.027387+00:00
-
- ## Main Page
- - [https://wiki.manjaro.org](https://wiki.manjaro.org)
- - date_published: 2024-05-10T18:08:44+00:00
-
- ## Home - Manner of speaking
- - [https://mannerofspeaking.org](https://mannerofspeaking.org)
- - date_published: 2024-01-11T12:22:38.220954+00:00
-
- ## Mantis Bug Tracker
- - [http://www.mantisbt.org](http://www.mantisbt.org)
- - date_published: 2024-04-29T07:04:40.818070+00:00
-
- ## Manton Reece
- - [https://www.manton.org](https://www.manton.org)
- - date_published: 2023-10-25T08:54:57.479172+00:00
- - tags: ['personal']
-
- ## Manuscript Cookbooks Survey
- - [https://www.manuscriptcookbookssurvey.org](https://www.manuscriptcookbookssurvey.org)
- - date_published: 2024-05-07T10:25:46.068059+00:00
-
- ## Manylabs
- - [https://www.manylabs.org](https://www.manylabs.org)
- - date_published: 2024-05-09T04:21:38.049151+00:00
-
- ## Your online toolshed: many tools for web developers, system admins & webworkers (a.o. Network configuration, Image conversion, String manipulation, etc)
- - [https://manytools.org](https://manytools.org)
- - date_published: 2023-10-30T13:46:40.956044+00:00
-
- ## MAPC Tiles
- - [http://tiles.mapc.org](http://tiles.mapc.org)
- - date_published: 2024-05-13T03:59:24.807266+00:00
-
- ## Tiled
- - [https://mapeditor.org](https://mapeditor.org)
- - date_published: 2024-04-25T21:21:42.371144+00:00
- - tags: ['game map editor']
-
- ## Tiled
- - [https://www.mapeditor.org](https://www.mapeditor.org)
- - date_published: 2024-04-25T15:51:22.681874+00:00
- - tags: ['pixel art', 'open source', 'game map editor']
-
- ## CTF @ UBC
- - [https://maplebacon.org](https://maplebacon.org)
- - date_published: 2024-05-09T07:39:35.262895+00:00
-
- ## MapLibre
- - [https://maplibre.org](https://maplibre.org)
- - date_published: 2024-02-24T15:49:15.755512+00:00
-
- ## Martin — vector tiles server
- - [https://martin.maplibre.org](https://martin.maplibre.org)
- - date_published: 2024-05-08T10:00:10.306810+00:00
-
- ## maplibre demo
- - [https://webgpu.demo.maplibre-rs.maplibre.org](https://webgpu.demo.maplibre-rs.maplibre.org)
- - date_published: 2024-05-08T10:00:05.285660+00:00
-
- ## Museo de Arte de Puerto Rico |
- - [http://mapr.org](http://mapr.org)
- - date_published: 2024-05-08T10:00:15.630653+00:00
-
- ## Museo de Arte de Puerto Rico - Compra boletos, membresías, donaciones y artículos en nuestra tienda - Inicio
- - [https://tienda.mapr.org](https://tienda.mapr.org)
- - date_published: 2024-05-08T10:00:17.114998+00:00
-
- ## Museo de Arte de Puerto Rico |
- - [https://www.mapr.org](https://www.mapr.org)
- - date_published: 2023-11-13T13:47:30.668564+00:00
- - tags: ['museum']
-
- ## mapshaper
- - [https://mapshaper.org](https://mapshaper.org)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Home
- - [https://patientportal.maranahealthcenter.org](https://patientportal.maranahealthcenter.org)
- - date_published: 2024-05-08T10:06:53.538417+00:00
-
- ## Help us improve the health of all moms and babies | March of Dimes
- - [https://www.marchofdimes.org](https://www.marchofdimes.org)
- - date_published: 2024-05-07T14:41:15.981365+00:00
-
- ## Marco.org
- - [https://marco.org](https://marco.org)
- - date_published: 2023-10-25T08:55:03.700528+00:00
- - tags: ['personal']
-
- ## Home - Marcosticks
- - [https://marcosticks.org](https://marcosticks.org)
- - date_published: 2023-10-25T21:40:39.086833+00:00
-
- ## Now - kms
- - [https://kyle.marek-spartz.org](https://kyle.marek-spartz.org)
- - date_published: 2024-01-03T04:06:26.789875+00:00
-
- ## home – Mary Marek-Spartz
- - [http://mary.marek-spartz.org](http://mary.marek-spartz.org)
- - date_published: 2024-05-08T10:00:44.624277+00:00
-
- ## MariaDB Foundation - MariaDB.org
- - [https://mariadb.org](https://mariadb.org)
- - date_published: 2024-02-16T00:00:00+00:00
- - tags: ['open source', 'database system']
-
- ## Mariano Guerra's Log | Mariano Guerra's Log
- - [http://marianoguerra.org](http://marianoguerra.org)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Tjänster I Stockholm
- - [https://www.marinegenomics.org](https://www.marinegenomics.org)
- - date_published: 2024-02-08T16:34:21.088706+00:00
-
- ## Home - Ages of Exploration
- - [https://exploration.marinersmuseum.org](https://exploration.marinersmuseum.org)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## MATE - Marine Advanced Technology Education :: Home
- - [http://www.marinetech.org](http://www.marinetech.org)
- - date_published: 2024-05-09T04:19:06.560505+00:00
-
- ## Mario Sanchez Carrion | mariosanchez.org
- - [https://mariosanchez.org](https://mariosanchez.org)
- - date_published: 2023-11-29T15:48:28.173933+00:00
- - tags: ['personal']
-
- ## Maritime Environmental Resource Center (MERC)
- - [https://www.maritime-enviro.org](https://www.maritime-enviro.org)
- - date_published: 2024-05-06T16:17:09.413350+00:00
-
- ## Markdown Guide
- - [https://www.markdownguide.org](https://www.markdownguide.org)
- - date_published: 2024-04-25T12:23:23+00:00
- - tags: ['markdown', 'open source']
-
- ## Business News & Economic Stories For Everyone
- - [http://marketplace.org](http://marketplace.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Support Minnesota Public Radio Today! | American Public Media
- - [https://support.marketplace.org](https://support.marketplace.org)
- - date_published: 2024-05-08T10:02:00.866997+00:00
-
- ## Marketplace - Business News & Economic Stories For Everyone.
- - [https://www.marketplace.org](https://www.marketplace.org)
- - date_published: 2023-10-25T21:40:43.366236+00:00
-
- ## Mark Goodacre's Homepage
- - [http://markgoodacre.org](http://markgoodacre.org)
- - date_published: 2024-05-06T23:58:37.351260+00:00
- - tags: ['personal']
-
- ## Mark O'Neill
- - [https://markoneill.org](https://markoneill.org)
- - date_published: 2023-12-12T07:04:45.862225+00:00
- - tags: ['personal']
-
- ## Mark O'Neill
- - [https://www.markoneill.org](https://www.markoneill.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Marsz dla Życia i Rodziny 2023
- - [https://marsz.org](https://marsz.org)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## MarTech
- - [https://downloads.martech.org](https://downloads.martech.org)
- - date_published: 2024-05-08T10:02:13.623431+00:00
-
- ## MarTech
- - [https://martech.org](https://martech.org)
- - date_published: 2024-01-09T05:07:40.902644+00:00
-
- ## MA Senior Care Association | Mass Senior Care
- - [https://www.maseniorcare.org](https://www.maseniorcare.org)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## MA Senior Care Foundation | Mass Senior Care Foundation
- - [https://www.maseniorcarefoundation.org](https://www.maseniorcarefoundation.org)
- - date_published: 2024-05-08T10:02:17.155965+00:00
-
- ## Mass Audubon
- - [https://www.massaudubon.org](https://www.massaudubon.org)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Home - MassCUE
- - [https://www.masscue.org](https://www.masscue.org)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Award-winning cancer care in Virginia
- - [https://cm.masseycancercenter.org](https://cm.masseycancercenter.org)
- - date_published: 2024-05-08T10:02:34.651686+00:00
-
- ## Award-winning cancer care in Virginia
- - [https://www.masseycancercenter.org](https://www.masseycancercenter.org)
- - date_published: 2023-11-07T14:33:04.946309+00:00
 

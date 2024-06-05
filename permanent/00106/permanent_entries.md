@@ -1,3 +1,566 @@
+ ## insecure.ws
+ - [https://www.insecure.ws](https://www.insecure.ws)
+ - date_published: 2024-05-06T14:13:31.690582+00:00
+
+ ## justus.ws
+ - [https://justus.ws](https://justus.ws)
+ - date_published: 2022-08-05T00:00:00+00:00
+
+ ## Justus Grunow
+ - [https://photos.justus.ws](https://photos.justus.ws)
+ - date_published: 2024-05-10T06:43:57.540134+00:00
+
+ ## justus.ws
+ - [https://www.justus.ws](https://www.justus.ws)
+ - date_published: 2023-11-29T15:45:02.094794+00:00
+ - tags: ['personal']
+
+ ## Local News Now | Elevating local news.
+ - [https://locne.ws](https://locne.ws)
+ - date_published: 2024-05-10T05:49:12.797971+00:00
+
+ ## LORN
+ - [https://www.lorn.ws](https://www.lorn.ws)
+ - date_published: 2023-11-13T09:48:10.746658+00:00
+ - tags: ['music band']
+
+ ## Wolf9466
+ - [https://lovehindpa.ws](https://lovehindpa.ws)
+ - date_published: 2024-05-09T11:37:09.598682+00:00
+ - tags: ['personal']
+
+ ## OpenArena EX - オープンアリーナ
+ - [https://openarena.ws](https://openarena.ws)
+ - date_published: 2023-10-27T13:51:31.986419+00:00
+ - tags: ['quake', 'video game', 'open source']
+
+ ## Home - Eduardo Reveles
+ - [https://www.osiux.ws](https://www.osiux.ws)
+ - date_published: 2024-05-11T10:21:05.859570+00:00
+
+ ## Copyright Infringement Notification
+ - [https://ak2.rmbl.ws](https://ak2.rmbl.ws)
+ - date_published: 2024-04-28T05:57:41.111021+00:00
+
+ ## Copyright Infringement Notification
+ - [https://sp.rmbl.ws](https://sp.rmbl.ws)
+ - date_published: 2024-04-28T05:57:54.219016+00:00
+
+ ## Sched CDN
+ - [http://schd.ws](http://schd.ws)
+ - date_published: 2024-04-28T01:54:46.669877+00:00
+
+ ## News
+ - [http://air.in.silo.tilda.ws](http://air.in.silo.tilda.ws)
+ - date_published: 2024-05-31T19:49:25.077271+00:00
+
+ ## Tilda
+ - [http://opencall20222023.tilda.ws](http://opencall20222023.tilda.ws)
+ - date_published: 2024-05-31T19:49:15.917999+00:00
+
+ ## WordSeed - Amplify Your Brand
+ - [https://visit.ws](https://visit.ws)
+ - date_published: 2024-05-11T07:17:33.677690+00:00
+
+ ## Rogues of Clwyd-Rhan - Overview
+ - [http://rocr.webcomic.ws](http://rocr.webcomic.ws)
+ - date_published: 2024-05-13T03:23:01.892904+00:00
+
+ ## World of Warships
+ - [https://wo.ws](https://wo.ws)
+ - date_published: 2024-02-24T09:58:01.832887+00:00
+
+ ## An IndieWeb Webring
+ - [https://xn--sr8hvo.ws](https://xn--sr8hvo.ws)
+ - date_published: 2023-05-20T00:00:00+00:00
+
+ ## Yoav's blog thing
+ - [https://blog.yoav.ws](https://blog.yoav.ws)
+ - date_published: 2023-10-25T23:01:59.005141+00:00
+
+ ## Bodhi
+ - [https://bodhi.wtf](https://bodhi.wtf)
+ - date_published: 2024-05-07T18:53:56.014442+00:00
+
+ ## BRAIN
+ - [https://brain.wtf](https://brain.wtf)
+ - date_published: 2024-05-08T03:30:03.155919+00:00
+
+ ## charity.wtf – charity wtf's about technology, databases, startups, engineering management, and whiskey.
+ - [https://charity.wtf](https://charity.wtf)
+ - date_published: 2023-10-25T23:02:09.605011+00:00
+
+ ## cliophate.wtf
+ - [https://cliophate.wtf](https://cliophate.wtf)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Django.WTF: The Django package index
+ - [https://django.wtf](https://django.wtf)
+ - date_published: 2024-05-21T04:18:50.962394+00:00
+ - tags: ['python', 'django']
+
+ ## Ellie's Notes
+ - [https://ellie.wtf](https://ellie.wtf)
+ - date_published: 2023-10-25T09:25:02.764286+00:00
+ - tags: ['personal']
+
+ ## WTF? w/ QuHarrison
+ - [https://www.everydays.wtf](https://www.everydays.wtf)
+ - date_published: 2024-05-07T10:03:09.798808+00:00
+
+ ## Framed - The daily movie guessing game
+ - [https://framed.wtf](https://framed.wtf)
+ - date_published: 2024-05-09T07:19:06.002370+00:00
+
+ ## fx – command-line tool for JSON
+ - [https://fx.wtf](https://fx.wtf)
+ - date_published: 2023-10-25T08:34:35.904683+00:00
+ - tags: ['cli program', 'json']
+
+ ## Genders.WTF
+ - [https://genders.wtf](https://genders.wtf)
+ - date_published: 2023-10-25T23:02:12.421357+00:00
+
+ ## Gnars DAO
+ - [https://www.gnars.wtf](https://www.gnars.wtf)
+ - date_published: 2024-05-02T13:43:43.908527+00:00
+
+ ## Hurl, the Exceptional Language
+ - [https://hurl.wtf](https://hurl.wtf)
+ - date_published: 2024-05-26T05:57:52+00:00
+ - tags: ['programming language']
+
+ ## WTF is Jamstack?
+ - [https://jamstack.wtf](https://jamstack.wtf)
+ - date_published: 2024-05-04T14:03:03.334256+00:00
+
+ ## Jerry Liu
+ - [https://jerry.wtf](https://jerry.wtf)
+ - date_published: 2024-04-16T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Will twitter outlast this lettuce?
+ - [https://lettuce.wtf](https://lettuce.wtf)
+ - date_published: 2023-10-25T23:02:13.189906+00:00
+
+ ## Dmitry Non
+ - [https://nondv.wtf](https://nondv.wtf)
+ - date_published: 2023-11-08T22:10:31.500527+00:00
+ - tags: ['devlog']
+
+ ## overkill.wtf | Steam Deck news, reviews and more
+ - [https://overkill.wtf](https://overkill.wtf)
+ - date_published: 2023-10-25T23:02:15.238658+00:00
+ - tags: ['steam deck', 'video game news']
+
+ ## Home
+ - [https://patrick.wtf](https://patrick.wtf)
+ - date_published: 2024-05-07T23:10:51.057859+00:00
+
+ ## Q and Z
+ - [http://qaz.wtf](http://qaz.wtf)
+ - date_published: 2024-05-06T23:55:27.667478+00:00
+
+ ## Retrokram
+ - [https://retro.wtf](https://retro.wtf)
+ - date_published: 2024-05-07T19:09:36.071909+00:00
+
+ ## SADGIRLSCLUB
+ - [https://sadgirlsclub.wtf](https://sadgirlsclub.wtf)
+ - date_published: 2024-05-06T15:04:13.429920+00:00
+
+ ## VOLE.wtf 🐹⁉️ because internet is stupid
+ - [https://vole.wtf](https://vole.wtf)
+ - date_published: 2023-10-27T13:08:52.494279+00:00
+ - tags: ['wtf']
+
+ ## Volts | Fanfare
+ - [https://transcripts.volts.wtf](https://transcripts.volts.wtf)
+ - date_published: 2023-10-25T23:02:22.636567+00:00
+
+ ## Volts | David Roberts | Substack
+ - [https://www.volts.wtf](https://www.volts.wtf)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Darnell (Hard News)
+ - [https://darnell.xxx](https://darnell.xxx)
+ - date_published: 2024-05-04T00:00:00+00:00
+ - tags: ['police news']
+
+ ## XXX: Find all XXX sites at your fingertips!
+ - [http://xxx.xxx](http://xxx.xxx)
+ - date_published: 2024-05-09T00:37:15+00:00
+ - tags: ['pornography']
+
+ ## welcome — aaoth.xyz
+ - [https://aaoth.xyz](https://aaoth.xyz)
+ - date_published: 2024-05-09T08:27:00.016903+00:00
+
+ ## Aaron's notes
+ - [https://aarnphm.xyz](https://aarnphm.xyz)
+ - date_published: 2024-05-11T10:24:29.868802+00:00
+
+ ## Alphabet Investor Relations
+ - [https://abc.xyz](https://abc.xyz)
+ - date_published: 2023-10-25T23:02:24.106484+00:00
+
+ ## Alphabet Investor Relations
+ - [https://www.abc.xyz](https://www.abc.xyz)
+ - date_published: 2024-05-02T13:43:17.222835+00:00
+
+ ## ADHD Pro - Increase Productivity with ADHD
+ - [https://adhdpro.xyz](https://adhdpro.xyz)
+ - date_published: 2024-05-07T14:15:10.033004+00:00
+
+ ## A flower woman by 1500+ artists
+ - [https://gorgeous.adityashankar.xyz](https://gorgeous.adityashankar.xyz)
+ - date_published: 2023-10-25T23:02:25.831785+00:00
+
+ ## https://adrw.xyz
+ - [https://adrw.xyz](https://adrw.xyz)
+ - date_published: 2024-01-10T22:41:08.215186+00:00
+
+ ## Age of Invention, by Anton Howes | Substack
+ - [https://www.ageofinvention.xyz](https://www.ageofinvention.xyz)
+ - date_published: 2023-11-25T15:09:01.737458+00:00
+
+ ## Agora: The onchain governance company
+ - [https://www.agora.xyz](https://www.agora.xyz)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Hi, my name is Lemon.
+ - [https://ahoylemon.xyz](https://ahoylemon.xyz)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Index of /
+ - [https://files.aikoyori.xyz](https://files.aikoyori.xyz)
+ - date_published: 2024-05-09T09:13:42.255079+00:00
+
+ ## Alex Garcia - Freelance Software Engineer
+ - [https://alexgarcia.xyz](https://alexgarcia.xyz)
+ - date_published: 2024-05-03T18:45:21.041368+00:00
+
+ ## Plausible · Web analytics
+ - [https://analyticsdashboard.xyz](https://analyticsdashboard.xyz)
+ - date_published: 2024-04-29T07:41:50.135429+00:00
+
+ ## My Corner of the Internet - andrei.xyz
+ - [https://andrei.xyz](https://andrei.xyz)
+ - date_published: 2024-05-06T15:10:26.016319+00:00
+
+ ## Home - ~ajhalili2006
+ - [https://andreijiroh.xyz](https://andreijiroh.xyz)
+ - date_published: 2024-04-28T02:12:03.848346+00:00
+
+ ## Ándros
+ - [https://andresz.xyz](https://andresz.xyz)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Andy Arditi
+ - [https://andyrdt.xyz](https://andyrdt.xyz)
+ - date_published: 2023-12-08T00:00:00+00:00
+
+ ## Ankaph
+ - [https://ankaph.xyz](https://ankaph.xyz)
+ - date_published: 2023-11-17T09:50:30.848678+00:00
+
+ ## the art of technology
+ - [https://annasofia.xyz](https://annasofia.xyz)
+ - date_published: 2023-10-25T23:02:28.986043+00:00
+ - tags: ['blog', 'personal']
+
+ ## to oblique lair
+ - [https://araw.xyz](https://araw.xyz)
+ - date_published: 2024-05-09T07:49:10.268442+00:00
+
+ ## The Arcade
+ - [https://articexploit.xyz](https://articexploit.xyz)
+ - date_published: 2024-05-06T14:58:30.937092+00:00
+
+ ## Asindu's Journal
+ - [https://asindu.xyz](https://asindu.xyz)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Alexander Smirnov
+ - [https://asmirnov.xyz](https://asmirnov.xyz)
+ - date_published: 2023-11-27T17:46:34.896239+00:00
+ - tags: ['personal']
+
+ ## Show HN: I made a GPU VRAM calculator for transformer-based models
+ - [https://vram.asmirnov.xyz](https://vram.asmirnov.xyz)
+ - date_published: 2023-12-26T17:53:56+00:00
+
+ ## bookbear express | Ava | Substack
+ - [https://www.avabear.xyz](https://www.avabear.xyz)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Axiom
+ - [https://www.axiom.xyz](https://www.axiom.xyz)
+ - date_published: 2024-05-06T14:56:54.514755+00:00
+
+ ## Fermat - AI Toolbox
+ - [https://batou.xyz](https://batou.xyz)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Home | beepb00p
+ - [https://beepb00p.xyz](https://beepb00p.xyz)
+ - date_published: 2023-10-25T23:02:30.621444+00:00
+ - tags: ['personal']
+
+ ## Ben Kettle
+ - [https://benkettle.xyz](https://benkettle.xyz)
+ - date_published: 2023-10-25T08:56:55.771554+00:00
+ - tags: ['personal']
+
+ ## Betty
+ - [https://bettychang.xyz](https://bettychang.xyz)
+ - date_published: 2024-04-13T15:58:20.970572+00:00
+ - tags: ['personal']
+
+ ## Betty
+ - [http://www.bettychang.xyz](http://www.bettychang.xyz)
+ - date_published: 2024-05-19T02:47:20.307487+00:00
+
+ - [https://very.bignutty.xyz](https://very.bignutty.xyz)
+ - date_published: 2023-10-25T23:02:46.093112+00:00
+
+ ## Blackbird
+ - [https://www.blackbird.xyz](https://www.blackbird.xyz)
+ - date_published: 2024-04-30T06:30:38.133436+00:00
+
+ ## Block, Inc. - Investor Relations
+ - [https://investors.block.xyz](https://investors.block.xyz)
+ - date_published: 2023-10-25T23:02:54.736904+00:00
+
+ ## Bluesky
+ - [https://blueskyweb.xyz](https://blueskyweb.xyz)
+ - date_published: 2023-10-25T23:02:56.208988+00:00
+
+ ## Benedict Neo
+ - [https://bneo.xyz](https://bneo.xyz)
+ - date_published: 2024-05-11T10:54:47.519868+00:00
+
+ ## Benedict Neo
+ - [https://www.bneo.xyz](https://www.bneo.xyz)
+ - date_published: 2024-03-24T17:45:54+00:00
+ - tags: ['personal']
+
+ ## Show HN: I made a multiplayer browser game
+ - [http://boxfight.xyz](http://boxfight.xyz)
+ - date_published: 2024-02-22T20:01:37+00:00
+
+ ## Brian Fitzgerald | Brian Fitzgerald
+ - [https://brianfitzgerald.xyz](https://brianfitzgerald.xyz)
+ - date_published: 2024-03-11T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Brilliant Labs
+ - [https://brilliant.xyz](https://brilliant.xyz)
+ - date_published: 2024-02-09T22:55:50.205224+00:00
+
+ ## Welcome
+ - [https://docs.brilliant.xyz](https://docs.brilliant.xyz)
+ - date_published: 2024-04-30T15:42:48.401468+00:00
+
+ ## Brodie's Soon To Be Blog
+ - [https://brodierobertson.xyz](https://brodierobertson.xyz)
+ - date_published: 2023-12-21T21:44:33+00:00
+ - tags: ['personal', 'youtuber', 'linux']
+
+ ## Bryce Vandegrift's Website
+ - [https://brycevandegrift.xyz](https://brycevandegrift.xyz)
+ - date_published: 2023-10-25T08:56:56.627071+00:00
+ - tags: ['personal']
+
+ ## Build In Public Hub
+ - [https://www.buildinpublic.xyz](https://www.buildinpublic.xyz)
+ - date_published: 2024-05-01T02:26:12.480914+00:00
+
+ ## Build Onchain Apps Template
+ - [https://buildonchainapps.xyz](https://buildonchainapps.xyz)
+ - date_published: 2024-05-08T05:51:44.510327+00:00
+
+ ## kilo.bytesize
+ - [https://kilo.bytesize.xyz](https://kilo.bytesize.xyz)
+ - date_published: 2024-04-29T10:16:44.192206+00:00
+ - tags: ['personal']
+
+ ## 7.dev – Learn how to code with us 🫡
+ - [https://www.bytesized.xyz](https://www.bytesized.xyz)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Antonin Carette
+ - [https://www.carette.xyz](https://www.carette.xyz)
+ - date_published: 2024-01-15T01:59:21.228629+00:00
+ - tags: ['personal']
+
+ ## Source Cat: Git with a ball of yarn
+ - [https://git.catmonad.xyz](https://git.catmonad.xyz)
+ - date_published: 2024-05-02T13:43:34.984255+00:00
+
+ ## Monadic Cat Stuff
+ - [https://www.catmonad.xyz](https://www.catmonad.xyz)
+ - date_published: 2023-10-25T23:02:57.812680+00:00
+
+ ## Connor's Blog
+ - [https://cedwards.xyz](https://cedwards.xyz)
+ - date_published: 2023-10-25T09:25:04.020886+00:00
+ - tags: ['personal']
+
+ ## Jellyfin Rewind - Review Your Music of 2023
+ - [https://jellyfin-rewind.chaphasilor.xyz](https://jellyfin-rewind.chaphasilor.xyz)
+ - date_published: 2024-04-08T19:29:09.220115+00:00
+
+ ## Charlie Say | Full-stack developer
+ - [https://www.charliesay.xyz](https://www.charliesay.xyz)
+ - date_published: 2024-05-11T10:18:24.227426+00:00
+
+ ## Chitter
+ - [https://chitter.xyz](https://chitter.xyz)
+ - date_published: 2024-05-02T13:58:05.273577+00:00
+
+ ## Chris Jung - Ich teile meine persönlichen Geschichten, Erfahrungen und Erkenntnisse.
+ - [https://chrisjung.xyz](https://chrisjung.xyz)
+ - date_published: 2024-05-04T14:14:49.615279+00:00
+
+ ## Chris Xiao
+ - [https://chrisx.xyz](https://chrisx.xyz)
+ - date_published: 2023-10-25T08:56:57.114963+00:00
+ - tags: ['personal']
+
+ ## L-0011000000110101 | Ciii111o0o111iiiC
+ - [https://ciosyam.xyz](https://ciosyam.xyz)
+ - date_published: 2024-05-06T15:10:46.070274+00:00
+
+ ## johnvertisement — advertisement via john
+ - [https://john.citrons.xyz](https://john.citrons.xyz)
+ - date_published: 2022-09-01T00:00:00+00:00
+
+ ## CleanIcons
+ - [https://cleanicons.xyz](https://cleanicons.xyz)
+ - date_published: 2024-04-29T03:46:19.945020+00:00
+
+ ## Clever Laziness
+ - [https://cleverlaziness.xyz](https://cleverlaziness.xyz)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Coder Spirit :: Home
+ - [https://blog.coderspirit.xyz](https://blog.coderspirit.xyz)
+ - date_published: 2024-01-02T15:36:17.740032+00:00
+
+ ## Home
+ - [https://oversharing.coderspirit.xyz](https://oversharing.coderspirit.xyz)
+ - date_published: 2024-04-30T15:43:50.587416+00:00
+
+ ## Don't Panic
+ - [http://commaok.xyz](http://commaok.xyz)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## commutative.xyz
+ - [https://commutative.xyz](https://commutative.xyz)
+ - date_published: 2024-03-19T13:44:08.496994+00:00
+
+ ## Home
+ - [http://www.connectingcomputers.xyz](http://www.connectingcomputers.xyz)
+ - date_published: 2024-05-01T03:56:48.706340+00:00
+
+ ## Corentin Derbré
+ - [https://corentin.xyz](https://corentin.xyz)
+ - date_published: 1994-01-01T00:00:00+00:00
+ - tags: ['personal']
+
+ ## CoverLetterGPT
+ - [https://coverlettergpt.xyz](https://coverlettergpt.xyz)
+ - date_published: 2024-04-30T02:29:32.028588+00:00
+
+ ## Home • Kostas Heaven on Net
+ - [https://www.cpard.xyz](https://www.cpard.xyz)
+ - date_published: 2023-10-25T23:03:00.217974+00:00
+
+ ## Craig Hooper. A designer living and working in Ottawa, Canada..
+ - [https://craighooper.xyz](https://craighooper.xyz)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Umami
+ - [https://umami.crapstone.xyz](https://umami.crapstone.xyz)
+ - date_published: 2024-04-28T02:10:46.146878+00:00
+
+ ## Cremieux Recueil | Substack
+ - [https://www.cremieux.xyz](https://www.cremieux.xyz)
+ - date_published: 2024-02-17T00:00:00+00:00
+
+ ## Cyber Farm
+ - [https://cyberfarmer.xyz](https://cyberfarmer.xyz)
+ - date_published: 2022-06-26T00:00:00+00:00
+
+ ## Home - Dahlia Foo
+ - [https://dahliafoo.xyz](https://dahliafoo.xyz)
+ - date_published: 2023-10-04T12:24:59+00:00
+ - tags: ['personal']
+
+ ## Hi! | DanPetrov
+ - [https://danpetrov.xyz](https://danpetrov.xyz)
+ - date_published: 2023-10-25T09:26:55.333245+00:00
+ - tags: ['personal']
+
+ ## blog.dataparty
+ - [https://blog.dataparty.xyz](https://blog.dataparty.xyz)
+ - date_published: 2023-10-25T23:03:01.859378+00:00
+
+ ## DataParty - sense, stream, party
+ - [https://dataparty.xyz](https://dataparty.xyz)
+ - date_published: 2024-05-02T13:43:39.484385+00:00
+
+ ## Deniz's blog
+ - [https://blog.dendiz.xyz](https://blog.dendiz.xyz)
+ - date_published: 2024-03-23T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Desvl's blog
+ - [https://desvl.xyz](https://desvl.xyz)
+ - date_published: 2024-04-30T07:49:04.426784+00:00
+ - tags: ['personal']
+
+ ## dev/tails | Thoughts, stories, and tutorials about software development
+ - [https://devtails.xyz](https://devtails.xyz)
+ - date_published: 2023-10-25T23:03:04.726572+00:00
+
+ ## DFWORKS | Online Threat Mitigation
+ - [https://dfworks.xyz](https://dfworks.xyz)
+ - date_published: 2024-06-01T04:50:57.435211+00:00
+
+ ## Dick Wyn Yong
+ - [https://dickwyn.xyz](https://dickwyn.xyz)
+ - date_published: 2024-05-11T10:23:20.953124+00:00
+
+ ## Directory Template
+ - [https://www.directorykit.xyz](https://www.directorykit.xyz)
+ - date_published: 2024-05-09T08:38:36.180402+00:00
+
+ ## DJMcG
+ - [https://djmcg.xyz](https://djmcg.xyz)
+ - date_published: 2024-02-02T20:24:51.933760+00:00
+
+ ## doamatto.xyz
+ - [https://www.doamatto.xyz](https://www.doamatto.xyz)
+ - date_published: 2024-05-09T08:15:04.468376+00:00
+
+ ## Show HN: Cylinder HN – View Trending Hacker News and Search Everything
+ - [https://cylinder.doforce.xyz](https://cylinder.doforce.xyz)
+ - date_published: 2024-03-08T07:24:01+00:00
+
+ ## Umami
+ - [https://stats.doforce.xyz](https://stats.doforce.xyz)
+ - date_published: 2024-05-09T07:18:19.266648+00:00
+
+ ## Doomscroller.xyz
+ - [https://doomscroller.xyz](https://doomscroller.xyz)
+ - date_published: 2024-04-20T15:40:40+00:00
+
+ ## Work - Duong Tran
+ - [https://duongtran.xyz](https://duongtran.xyz)
+ - date_published: 2024-02-12T00:00:00+00:00
+
  ## Home
  - [https://dusanmitrovic.xyz](https://dusanmitrovic.xyz)
  - date_published: 2024-04-01T00:00:00+00:00
@@ -198,6 +761,14 @@
  - [https://getimiskon.xyz](https://getimiskon.xyz)
  - date_published: 2024-05-06T15:02:14.121606+00:00
 
+ ## PizzaDAO's Global Pizza Party
+ - [https://www.globalpizzaparty.xyz](https://www.globalpizzaparty.xyz)
+ - date_published: 2024-06-04T11:33:31.447291+00:00
+
+ ## BOB - Build everything on Bitcoin
+ - [https://www.gobob.xyz](https://www.gobob.xyz)
+ - date_published: 2024-05-22T00:00:00+00:00
+
  ## GPT Calculator
  - [https://www.gptcalculator.xyz](https://www.gptcalculator.xyz)
  - date_published: 2023-10-25T23:03:15.215738+00:00
@@ -278,6 +849,10 @@
  ## time2reach
  - [https://map.henryn.xyz](https://map.henryn.xyz)
  - date_published: 2023-10-25T23:03:24.075895+00:00
+
+ ## H.E.R. DAO
+ - [https://www.her-dao.xyz](https://www.her-dao.xyz)
+ - date_published: 2024-04-24T00:00:00+00:00
 
  ## Hey
  - [https://hey.xyz](https://hey.xyz)
@@ -454,6 +1029,10 @@
  - [https://newsletter.lattice.xyz](https://newsletter.lattice.xyz)
  - date_published: 2024-02-20T00:00:00+00:00
 
+ ## LayerX
+ - [https://layerx.xyz](https://layerx.xyz)
+ - date_published: 2024-06-04T06:12:43.842373+00:00
+
  ## Leonardo Pacheco
  - [https://leonardopacheco.xyz](https://leonardopacheco.xyz)
  - date_published: 2024-01-30T17:18:24.012654+00:00
@@ -505,6 +1084,10 @@
  ## Tap Tab - Switching tabs is just a tap away.
  - [https://taptab.manibatra.xyz](https://taptab.manibatra.xyz)
  - date_published: 2023-10-25T23:03:35.553802+00:00
+
+ ## Mantle | Mass Adoption of Decentralized and Token-Governed Technologies
+ - [https://www.mantle.xyz](https://www.mantle.xyz)
+ - date_published: 2024-04-15T00:00:00+00:00
 
  ## Discord Spectrum
  - [https://instances.mastodon.xyz](https://instances.mastodon.xyz)
@@ -1237,6 +1820,10 @@
  ## ZLive |  10-11 Oct 2024 - London's Hottest Web3 Event
  - [https://www.zebulive.xyz](https://www.zebulive.xyz)
  - date_published: 2024-04-26T00:00:00+00:00
+
+ ## ZLive |  10-11 Oct 2024 - London's Hottest Web3 Event
+ - [https://zebulive.xyz](https://zebulive.xyz)
+ - date_published: 2024-05-29T00:00:00+00:00
 
  ## Zood
  - [https://www.zood.xyz](https://www.zood.xyz)

@@ -1,3 +1,39 @@
+ ## Awwwards - Website Awards - Best Web Design Trends
+ - [https://www.awwwards.com](https://www.awwwards.com)
+ - date_published: 2024-04-28T05:27:10.773362+00:00
+
+ ## Awyisser
+ - [http://www.awyisser.com](http://www.awyisser.com)
+ - date_published: 2024-05-07T10:03:34.249114+00:00
+
+ ## Axate
+ - [https://www.axate.com](https://www.axate.com)
+ - date_published: 2024-05-06T18:01:24.079855+00:00
+
+ ## 安盛天平财产保险有限公司网站|安盛保险-安盛天平-AXA保险
+ - [https://www.axatp.com](https://www.axatp.com)
+ - date_published: 2023-07-01T00:00:00+00:00
+
+ ## Axautik Group Reports
+ - [https://reports.axautikgroup.com](https://reports.axautikgroup.com)
+ - date_published: 2024-04-29T03:18:01.571909+00:00
+
+ ## axbom - digital ethics and compassionate design
+ - [https://axbom.com](https://axbom.com)
+ - date_published: 2023-10-25T12:51:15.089918+00:00
+
+ ## axbom - digital ethics and compassionate design
+ - [http://www.axbom.com](http://www.axbom.com)
+ - date_published: 2024-05-08T05:43:38.684429+00:00
+
+ ## AX Cinema Nights™
+ - [https://www.ax-cinemanights.com](https://www.ax-cinemanights.com)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## AXE COP
+ - [http://axecop.com](http://axecop.com)
+ - date_published: 2024-05-09T05:18:30.870709+00:00
+
  ## Axel Kacelnik Webmaster
  - [http://www.axel-k.com](http://www.axel-k.com)
  - date_published: 2024-05-11T11:26:39.231633+00:00
@@ -3776,6 +3812,7 @@
  ## Casinos not on Gamstop ᐅ Best UK Non GamStop Casinos 2024
  - [https://bestbonusmoney.com](https://bestbonusmoney.com)
  - date_published: 2024-05-09T04:51:34.361251+00:00
+ - tags: ['gambling']
 
  ## Best Buy International: Select your Country - Best Buy
  - [https://www.bestbuy.com](https://www.bestbuy.com)
@@ -3856,7 +3893,7 @@
  ## Best of Las Vegas | Best of Las Vegas
  - [https://bestoflasvegas.com](https://bestoflasvegas.com)
  - date_published: 2024-04-28T04:52:01.732930+00:00
- - tags: ['gambling']
+ - tags: ['las vegas']
 
  ## Best of Middle Georgia | Best of Middle Georgia
  - [https://www.bestofmiddlegeorgia.com](https://www.bestofmiddlegeorgia.com)
@@ -3949,6 +3986,7 @@
  ## 🎰 Aussie Online Casino Guide - Betpokies.com
  - [https://betpokies.com](https://betpokies.com)
  - date_published: 2024-02-02T00:00:00+00:00
+ - tags: ['gambling']
 
  ## Home Page - 2023 - Artist Betsy Krebs
  - [http://www.betsykrebs.com](http://www.betsykrebs.com)
@@ -4033,42 +4071,4 @@
  - [https://bettybrennan.com](https://bettybrennan.com)
  - date_published: 2024-02-09T22:22:28.684639+00:00
  - tags: ['personal']
-
- ## Betty Junod
- - [https://www.bettyjunod.com](https://www.bettyjunod.com)
- - date_published: 2024-04-11T20:55:37.390257+00:00
- - tags: ['personal']
-
- ## Information Page
- - [https://www.betvictor.com](https://www.betvictor.com)
- - date_published: 2024-05-01T06:29:04.342080+00:00
-
- ## Betweenle - Word Guessing Game
- - [https://betweenle.com](https://betweenle.com)
- - date_published: 2024-05-06T23:25:41.548101+00:00
-
- ## Between Exchange
- - [https://en.betweenx.com](https://en.betweenx.com)
- - date_published: 2024-05-06T18:03:40.060629+00:00
-
- ## Otaku – Cedric's blog
- - [http://www.beust.com](http://www.beust.com)
- - date_published: 2024-05-01T04:13:44.076363+00:00
- - tags: ['personal']
-
- ## BevSource Beverage Outsourcing, Development, Startup Services
- - [https://www.bevsource.com](https://www.bevsource.com)
- - date_published: 2024-05-04T07:28:16.316647+00:00
-
- ## AI for Real Communities | Bevy
- - [https://www.bevy.com](https://www.bevy.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home Custom Content | Twitter Events
- - [https://twitterdev.bevylabs.com](https://twitterdev.bevylabs.com)
- - date_published: 2024-05-06T20:47:29.227460+00:00
-
- ## Show HN: BewCloud is a simpler alternative to Nextcloud written in TypeScript
- - [https://bewcloud.com](https://bewcloud.com)
- - date_published: 2024-03-16T14:20:33+00:00
 

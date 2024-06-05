@@ -1,3 +1,15 @@
+ ## ASU Hacking Club
+ - [http://asuhacking.club](http://asuhacking.club)
+ - date_published: 2024-04-30T07:18:09.291255+00:00
+
+ ## Bayes Club
+ - [https://bayes.club](https://bayes.club)
+ - date_published: 2024-04-30T03:49:27.963674+00:00
+
+ ## Big Feels Club
+ - [https://www.bigfeels.club](https://www.bigfeels.club)
+ - date_published: 2023-10-25T12:15:50.350658+00:00
+
  ## Bookmarked | A Book Club for Exploring Big Ideas
  - [https://www.bookmarked.club](https://www.bookmarked.club)
  - date_published: 2024-05-25T00:00:00+00:00
@@ -80,6 +92,10 @@
  ## Ebin Club Shitpost Central
  - [https://post.ebin.club](https://post.ebin.club)
  - date_published: 2024-05-14T03:59:42.911361+00:00
+
+ ## Encode Club
+ - [https://www.encode.club](https://www.encode.club)
+ - date_published: 2024-06-23T00:00:00+00:00
 
  ## Famiclub - Arcade
  - [https://fami.club](https://fami.club)
@@ -593,6 +609,10 @@
  ## Jiemin Fang
  - [https://jaminfong.cn](https://jaminfong.cn)
  - date_published: 2024-04-28T03:52:33.255632+00:00
+
+ ## 金色财经_在这里，读懂区块链
+ - [https://jinse.cn](https://jinse.cn)
+ - date_published: 2024-05-29T00:00:00+00:00
 
  ## 经济参考网 - 新华社《经济参考报》官方网站
  - [http://www.jjckb.cn](http://www.jjckb.cn)
@@ -2710,6 +2730,15 @@
  - [https://designremotely.co](https://designremotely.co)
  - date_published: 2024-05-12T07:47:24.050328+00:00
 
+ ## Devfolio - Your one application to the best hackathons
+ - [https://devfolio.co](https://devfolio.co)
+ - date_published: 2024-06-04T11:33:40.527939+00:00
+
+ ## ETHDubai 2024 Hackathon | Devfolio
+ - [https://ethdubai-2024.devfolio.co](https://ethdubai-2024.devfolio.co)
+ - date_published: 2024-06-04T11:31:44.287676+00:00
+ - tags: ['hacking', 'cybersecurity', 'hackathon']
+
  - [https://newsletter.devmoh.co](https://newsletter.devmoh.co)
  - date_published: 2024-01-09T02:27:45.242187+00:00
 
@@ -3964,6 +3993,10 @@ It’s what you do.
  - [https://www.mural.co](https://www.mural.co)
  - date_published: 2024-05-02T00:00:00+00:00
 
+ ## Leading Web3 & Blockchain Solutions Studio | MVP Workshop
+ - [https://mvpworkshop.co](https://mvpworkshop.co)
+ - date_published: 2024-01-14T00:00:00+00:00
+
  ## Show HN: An AI-Generated Encyclopedia
  - [https://mycyclopedia.co](https://mycyclopedia.co)
  - date_published: 2023-11-23T13:53:10+00:00
@@ -4043,36 +4076,4 @@ It’s what you do.
  ## Well, hello there! - Just Some Dev
  - [https://www.nickyt.co](https://www.nickyt.co)
  - date_published: 2024-05-06T00:00:00+00:00
-
- ## Nineteen80
- - [https://www.nineteen80.co](https://www.nineteen80.co)
- - date_published: 2024-05-09T09:16:45.864739+00:00
-
- ## Leading Courier Company In Southeast Asia | Ninja Van
- - [https://www.ninjavan.co](https://www.ninjavan.co)
- - date_published: 2024-05-01T07:33:28.647143+00:00
-
- ## Layanan Pengiriman Barang | Ninja Xpress Indonesia
- - [https://www.ninjaxpress.co](https://www.ninjaxpress.co)
- - date_published: 2024-05-01T07:33:51.724714+00:00
-
- ## Fontify
- - [https://fontify.nitroapps.co](https://fontify.nitroapps.co)
- - date_published: 2024-05-09T07:08:11.401243+00:00
-
- ## Norgram — Design Studio
- - [https://www.norgram.co](https://www.norgram.co)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Not Boring by Packy McCormick | Substack
- - [https://www.notboring.co](https://www.notboring.co)
- - date_published: 2023-10-25T12:20:07.539847+00:00
-
- ## Notepin - Extremely simple blogging platform
- - [https://notepin.co](https://notepin.co)
- - date_published: 2023-10-25T12:20:11.005522+00:00
-
- ## Thought dump
- - [https://terms.notepin.co](https://terms.notepin.co)
- - date_published: 2024-04-30T06:57:42.561193+00:00
 
