@@ -3198,6 +3198,10 @@
  - [https://acklo.app](https://acklo.app)
  - date_published: 2024-05-01T03:11:31.974131+00:00
 
+ ## Age Calculators
+ - [https://agecalculators.app](https://agecalculators.app)
+ - date_published: 2024-06-05T09:55:51.534182+00:00
+
  ## DeArrow - A Browser Extension for Better Titles and Thumbnails - DeArrow
  - [https://dearrow.ajay.app](https://dearrow.ajay.app)
  - date_published: 2023-10-25T11:45:29.402391+00:00
@@ -3324,6 +3328,11 @@
  ## capitalyse-website-nuxtjs
  - [http://capitalyse.app](http://capitalyse.app)
  - date_published: 2024-04-25T08:13:45.023998+00:00
+
+ ## Cierpliwości...
+ - [https://cara.app](https://cara.app)
+ - date_published: 2024-06-05T19:54:21+00:00
+ - tags: ['art gallery', 'art community']
 
  ## https://carina.app
  - [https://carina.app](https://carina.app)
@@ -4063,12 +4072,4 @@
  ## 2021 Color for CSS Cafe - Talk by Adam Argyle
  - [https://2021-css-cafe.netlify.app](https://2021-css-cafe.netlify.app)
  - date_published: 2024-04-30T02:02:30.031440+00:00
-
- ## Great Developer Tools - Talk by Adam Argyle
- - [https://2021-great-developer-tools.netlify.app](https://2021-great-developer-tools.netlify.app)
- - date_published: 2021-08-17T00:00:00+00:00
-
- ## 2021 HD Color > CSS Camp < Talk by Adam Argyle
- - [https://2021-hd-color-at-css-camp.netlify.app](https://2021-hd-color-at-css-camp.netlify.app)
- - date_published: 2024-04-30T02:01:19.846709+00:00
 

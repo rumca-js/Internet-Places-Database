@@ -1,3 +1,702 @@
+ ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [http://depue.design](http://depue.design)
+ - date_published: 2024-05-07T14:16:59.528736+00:00
+
+ ## Endless — Design as a Subscription
+ - [https://endless.design](https://endless.design)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Eric Bailey – Inclusive design advocate, writer, developer, and speaker
+ - [https://ericwbailey.design](https://ericwbailey.design)
+ - date_published: 2024-05-07T23:12:46.782732+00:00
+
+ ## École supérieure d’art et de design d’Amiens / design | accueil
+ - [https://esad-amiens.design](https://esad-amiens.design)
+ - date_published: 2023-12-11T16:19:11.537933+00:00
+
+ ## FAST
+ - [https://explore.fast.design](https://explore.fast.design)
+ - date_published: 2024-04-29T07:18:19.287649+00:00
+
+ ## FAST
+ - [https://www.fast.design](https://www.fast.design)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## feedme.design
+ - [https://www.feedme.design](https://www.feedme.design)
+ - date_published: 2023-12-24T10:58:53.703752+00:00
+
+ ## Felipe — Designer and Artist
+ - [https://felipe.design](https://felipe.design)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## femke.design / Femke van Schoonhoven
+ - [https://www.femke.design](https://www.femke.design)
+ - date_published: 2023-10-25T09:21:33.094419+00:00
+ - tags: ['personal']
+
+ ## Formaat - Design system studio
+ - [https://formaat.design](https://formaat.design)
+ - date_published: 2024-05-09T06:20:02.852582+00:00
+
+ ## UX Design Portfolio of Gary Bacon - Home
+ - [https://gary.design](https://gary.design)
+ - date_published: 2024-01-12T02:34:44.601604+00:00
+
+ ## Growth.Design — Better Products, Better Growth.
+ - [https://growth.design](https://growth.design)
+ - date_published: 2023-10-25T18:34:22.781659+00:00
+
+ ## Helios Design System
+ - [https://helios.hashicorp.design](https://helios.hashicorp.design)
+ - date_published: 2024-05-09T08:30:39.939743+00:00
+
+ ## Hendricks Design
+ - [https://hendricks.design](https://hendricks.design)
+ - date_published: 2024-05-06T16:13:25.120886+00:00
+
+ ## Portal Home
+         - hostingby.design
+ - [https://my.hostingby.design](https://my.hostingby.design)
+ - date_published: 2024-05-10T06:03:48.479459+00:00
+
+ ## Iconify API
+ - [https://api.iconify.design](https://api.iconify.design)
+ - date_published: 2024-04-30T02:00:49.170618+00:00
+
+ ## Repository for code.iconify.design
+ - [https://code.iconify.design](https://code.iconify.design)
+ - date_published: 2024-04-28T04:14:43.255250+00:00
+
+ ## Iconify Design: All popular icon sets, one framework.
+ - [https://iconify.design](https://iconify.design)
+ - date_published: 2024-05-08T11:51:53.697165+00:00
+
+ ## Hey, I'm Jake.
+ - [https://jake.design](https://jake.design)
+ - date_published: 2024-05-09T06:20:15.168522+00:00
+
+ ## Journalisme, design et technologie pour imaginer des médias désirables
+ - [https://journalism.design](https://journalism.design)
+ - date_published: 2024-11-04T00:00:00+00:00
+
+ ## Julie Chabin
+ - [https://www.julie.design](https://www.julie.design)
+ - date_published: 2023-10-25T09:21:34.151926+00:00
+ - tags: ['personal']
+
+ ## A mechanical keyboard with programmable knobs and full color screen panel
+ - [https://knob.design](https://knob.design)
+ - date_published: 2024-02-29T19:38:07+00:00
+
+ ## Kundo
+ - [https://kundo.design](https://kundo.design)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Learn UI Design
+ - [https://learnui.design](https://learnui.design)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Lessons of Design
+ - [https://lessons.design](https://lessons.design)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Ben Luby - UX, Content Design, Accessibility
+ - [https://luby.design](https://luby.design)
+ - date_published: 2024-05-09T08:21:21.309633+00:00
+
+ ## Magic UI: UI Library for Design Engineers
+ - [https://magicui.design](https://magicui.design)
+ - date_published: 2024-05-23T03:23:54+00:00
+ - tags: ['web ui', 'programming library']
+
+ ## Home | Valery Marier
+ - [https://marier.design](https://marier.design)
+ - date_published: 2024-04-29T07:13:57.627738+00:00
+
+ ## mastodon.design
+ - [https://mastodon.design](https://mastodon.design)
+ - date_published: 2023-12-11T16:19:14.967288+00:00
+
+ ## Medium.design
+ - [https://medium.design](https://medium.design)
+ - date_published: 2024-03-22T15:04:13.826927+00:00
+
+ ## Home • Mel Choyce
+ - [http://melchoyce.design](http://melchoyce.design)
+ - date_published: 2024-05-07T23:12:31.267573+00:00
+
+ ## MESHLESS DESIGN
+ - [https://meshless.design](https://meshless.design)
+ - date_published: 2024-03-07T19:36:39.228012+00:00
+
+ ## Microsoft Design
+ - [https://fluent1.microsoft.design](https://fluent1.microsoft.design)
+ - date_published: 2024-04-29T07:18:50.432364+00:00
+
+ ## Home - Fluent 2 Design System
+ - [https://fluent2.microsoft.design](https://fluent2.microsoft.design)
+ - date_published: 2023-10-25T18:34:24.950370+00:00
+
+ ## Microsoft Inclusive Design
+ - [https://inclusive.microsoft.design](https://inclusive.microsoft.design)
+ - date_published: 2024-04-29T07:16:45.355247+00:00
+
+ ## Microsoft Design
+ - [https://microsoft.design](https://microsoft.design)
+ - date_published: 2024-04-29T07:18:49.713895+00:00
+
+ ## Mindstate Design Labs
+ - [https://www.mindstate.design](https://www.mindstate.design)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Miris Whispers
+ - [https://blog.miris.design](https://blog.miris.design)
+ - date_published: 2023-10-25T18:34:31.450280+00:00
+
+ ## Home - Mozilla Dot Design
+ - [https://mozilla.design](https://mozilla.design)
+ - date_published: 2024-05-08T10:31:09.668343+00:00
+
+ ## Nord Design System
+ - [https://nordhealth.design](https://nordhealth.design)
+ - date_published: 2024-05-14T04:03:47.126834+00:00
+
+ ## Onur Çoban
+ - [https://onur.design](https://onur.design)
+ - date_published: 2024-05-09T06:17:43.310266+00:00
+
+ ## Open Up! – Community for open design
+ - [https://openup.design](https://openup.design)
+ - date_published: 2024-04-25T15:31:54.993786+00:00
+
+ ## plaintext design
+ - [https://plaintext.design](https://plaintext.design)
+ - date_published: 2024-05-09T08:24:19.272356+00:00
+
+ ## Logo & Guidelines
+ - [http://porkbun.design](http://porkbun.design)
+ - date_published: 2024-06-03T06:11:57.271223+00:00
+
+ ## Presentation.Design
+ - [https://www.presentation.design](https://www.presentation.design)
+ - date_published: 2023-10-26T00:00:00+00:00
+
+ ## Primo - The Better Banner Builder
+ - [https://primo.design](https://primo.design)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Design Principles
+ - [https://principles.design](https://principles.design)
+ - date_published: 2024-04-29T07:17:48.715040+00:00
+
+ ## Rafa's website
+ - [https://rafa.design](https://rafa.design)
+ - date_published: 2024-05-08T03:05:18.408616+00:00
+
+ ## Reconstrained Design
+ - [https://reconstrained.design](https://reconstrained.design)
+ - date_published: 2023-12-11T16:18:13.316990+00:00
+
+ ## Refero — design references for your next project
+ - [https://refero.design](https://refero.design)
+ - date_published: 2024-04-29T07:15:44.898000+00:00
+
+ ## Roland Szabó | Senior Web Designer
+ - [https://rolandszabo.design](https://rolandszabo.design)
+ - date_published: 2024-05-07T23:12:34.912941+00:00
+
+ ## @rolle / Full Stack Developer = Front-end developer, designer, sysadmin
+ - [https://rolle.design](https://rolle.design)
+ - date_published: 2023-12-19T02:59:27.788104+00:00
+ - tags: ['personal']
+
+ ## Ron Bronson
+ - [https://ronbronson.design](https://ronbronson.design)
+ - date_published: 2024-05-10T06:32:12.680284+00:00
+ - tags: ['personal']
+
+ ## Ron Bronson
+ - [https://www.ronbronson.design](https://www.ronbronson.design)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Saman Archive
+ - [https://archive.saman.design](https://archive.saman.design)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Saman Icons
+ - [https://icons.saman.design](https://icons.saman.design)
+ - date_published: 2024-05-10T05:33:21.544366+00:00
+
+ ## Slack Design
+ - [https://slack.design](https://slack.design)
+ - date_published: 2023-11-02T16:39:18.847159+00:00
+
+ ## spline_my_design
+ - [https://my.spline.design](https://my.spline.design)
+ - date_published: 2024-05-06T18:18:09.104310+00:00
+
+ ## Home
+ - [https://spotify.design](https://spotify.design)
+ - date_published: 2024-04-29T07:17:03.664294+00:00
+
+ ## Stammy.design
+ - [https://stammy.design](https://stammy.design)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Statista Content & Design
+ - [https://statista.design](https://statista.design)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Stéphanie Walter - UX Researcher & Product designer, Mobile Expert, Speaker, Blog writer.
+ - [https://stephaniewalter.design](https://stephaniewalter.design)
+ - date_published: 2024-05-07T23:17:07.469502+00:00
+
+ ## Steve Polito is a full stack web developer in the Boston Area
+ - [https://stevepolito.design](https://stevepolito.design)
+ - date_published: 2023-10-25T18:34:32.217038+00:00
+
+ ## Superposition: Use the design system you already have
+ - [https://superposition.design](https://superposition.design)
+ - date_published: 2024-05-04T09:34:48.301571+00:00
+
+ ## Houston Webflow Web Design Experts | Sweven.design
+ - [https://www.sweven.design](https://www.sweven.design)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Home
+ - [https://think.design](https://think.design)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Top Level Design
+ - [http://toplevel.design](http://toplevel.design)
+ - date_published: 2024-06-03T06:11:53.064696+00:00
+
+ ## Undertone.design | Academic graphic design
+ - [https://www.undertone.design](https://www.undertone.design)
+ - date_published: 2024-04-30T06:03:28.489976+00:00
+
+ ## Wise Design
+ - [https://wise.design](https://wise.design)
+ - date_published: 2023-10-25T18:34:32.784058+00:00
+
+ ## 0x7D0
+ - [https://0x7d0.dev](https://0x7d0.dev)
+ - date_published: 2024-01-20T00:00:00+00:00
+ - tags: ['personal', 'hacking']
+
+ ## 0x7D0
+ - [https://blog.0x7d0.dev](https://blog.0x7d0.dev)
+ - date_published: 2023-10-25T18:34:34.220775+00:00
+ - tags: ['personal', 'hacking']
+
+ ## 0x7f Inc.
+ - [https://0x7f.dev](https://0x7f.dev)
+ - date_published: 2023-10-25T18:34:34.827334+00:00
+
+ ## Eleventy is a simpler static site generator
+ - [https://11ty.dev](https://11ty.dev)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## 11ty’s International Symposium on Making Web Sites Real Good
+ - [https://conf.11ty.dev](https://conf.11ty.dev)
+ - date_published: 2024-05-07T18:48:43.330288+00:00
+
+ ## 11ty Merch
+ - [https://merch.11ty.dev](https://merch.11ty.dev)
+ - date_published: 2024-05-07T18:48:40.563426+00:00
+
+ ## Eleventy is a simpler static site generator
+ - [https://www.11ty.dev](https://www.11ty.dev)
+ - date_published: 2024-04-08T19:31:23.831073+00:00
+ - tags: ['self-host', 'static websites']
+
+ ## THE Eleventy Meetup
+ - [https://11tymeetup.dev](https://11tymeetup.dev)
+ - date_published: 2024-04-29T07:27:21.280515+00:00
+
+ ## 12 Days of Web
+ - [https://12daysofweb.dev](https://12daysofweb.dev)
+ - date_published: 2024-04-30T00:34:50.848266+00:00
+
+ ## Saeed Salehi · Stories from a developer :)
+ - [https://1saeed.dev](https://1saeed.dev)
+ - date_published: 2024-05-22T02:44:12.037451+00:00
+
+ ## A world where people pay for software
+ - [https://1sub.dev](https://1sub.dev)
+ - date_published: 2023-10-25T18:34:35.457611+00:00
+
+ ## Aaron Bos' Blog
+ - [https://aaronbos.dev](https://aaronbos.dev)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Loading aOS Beta...
+ - [https://aaronos.dev](https://aaronos.dev)
+ - date_published: 2024-06-01T04:49:08.492137+00:00
+
+ ## It works
+ - [https://blog.aawadia.dev](https://blog.aawadia.dev)
+ - date_published: 2023-10-25T18:34:36.448442+00:00
+
+ ## A-squared Software Consulting
+ - [https://consulting.aawadia.dev](https://consulting.aawadia.dev)
+ - date_published: 2024-04-29T07:18:59.889467+00:00
+
+ ## aceto.dev
+ - [https://aceto.dev](https://aceto.dev)
+ - date_published: 2024-05-11T10:20:09.695989+00:00
+
+ ## Alire -
+ - [https://alire.ada.dev](https://alire.ada.dev)
+ - date_published: 2024-04-23T15:17:38.643084+00:00
+ - tags: ['programming libraries', 'ada']
+
+ ## Engineering Manager at Meta • Advisor • Speaker • Writer
+ - [https://adamconrad.dev](https://adamconrad.dev)
+ - date_published: 2024-06-01T04:54:30.142602+00:00
+ - tags: ['personal']
+
+ ## Ahmed Adebisi's Portfolio
+ - [https://adebisiahmed.dev](https://adebisiahmed.dev)
+ - date_published: 2024-05-11T10:08:30.309271+00:00
+
+ ## AENAC Devices
+ - [https://aenac.dev](https://aenac.dev)
+ - date_published: 2024-05-12T05:41:54.477312+00:00
+
+ ## Aerolite Studios
+ - [https://aerolite.dev](https://aerolite.dev)
+ - date_published: 2023-10-25T18:34:37.299684+00:00
+
+ ## A habitual developer
+ - [https://ahabitual.dev](https://ahabitual.dev)
+ - date_published: 2024-05-09T08:21:11.132007+00:00
+
+ - [https://www.ahart.dev](https://www.ahart.dev)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## The Aha Stack
+ - [https://ahastack.dev](https://ahastack.dev)
+ - date_published: 2024-01-03T14:54:40+00:00
+
+ ## Aigur
+ - [https://aigur.dev](https://aigur.dev)
+ - date_published: 2024-04-29T07:28:50.477109+00:00
+
+ ## Home | airfusion.dev
+ - [https://airfusion.dev](https://airfusion.dev)
+ - date_published: 2024-05-11T10:23:56.164066+00:00
+
+ ## Airplane | The developer platform for internal tools
+ - [https://www.airplane.dev](https://www.airplane.dev)
+ - date_published: 2023-10-25T18:34:38.548749+00:00
+
+ ## Akash Goswami
+ - [https://akashgoswami.dev](https://akashgoswami.dev)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## AksDev
+ - [https://akselmo.dev](https://akselmo.dev)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## Contact - akselmo.dev
+ - [https://contact.akselmo.dev](https://contact.akselmo.dev)
+ - date_published: 2024-04-29T07:19:06.536675+00:00
+
+ ## AksDev
+ - [https://www.akselmo.dev](https://www.akselmo.dev)
+ - date_published: 2023-10-25T18:34:39.206217+00:00
+
+ ## Of Chaos and Order - Index
+ - [https://alexbilson.dev](https://alexbilson.dev)
+ - date_published: 2024-05-07T23:15:35.361064+00:00
+
+ ## Alex DeLorenzo - Software Engineer
+ - [https://alexdelorenzo.dev](https://alexdelorenzo.dev)
+ - date_published: 2024-05-07T23:24:09.124204+00:00
+
+ ## Alex Saveau | https://alexsaveau.dev
+ - [https://alexsaveau.dev](https://alexsaveau.dev)
+ - date_published: 2023-10-25T18:34:44.776986+00:00
+
+ ## Home | Ali Alaa - Front-end Web Developer
+ - [https://www.alialaa.dev](https://www.alialaa.dev)
+ - date_published: 2024-05-11T10:23:08.010684+00:00
+
+ ## Adrian Alic - Blogging about High-Performance Systems
+ - [https://alic.dev](https://alic.dev)
+ - date_published: 2023-10-25T08:48:21.706613+00:00
+ - tags: ['personal']
+
+ ## Alpine.js
+ - [https://alpinejs.dev](https://alpinejs.dev)
+ - date_published: 2023-10-25T18:34:45.599743+00:00
+
+ ## Home | Alvezs
+ - [https://www.alvez.dev](https://www.alvez.dev)
+ - date_published: 2024-05-07T23:11:54.541598+00:00
+
+ ## mastodon.ameo.dev
+ - [https://mastodon.ameo.dev](https://mastodon.ameo.dev)
+ - date_published: 2024-05-08T12:14:43.368185+00:00
+
+ ## Plausible · Web analytics
+ - [https://pause.ameo.dev](https://pause.ameo.dev)
+ - date_published: 2024-05-08T12:14:44.461695+00:00
+
+ ## Technical blog by Alexander Ameye.
+ - [https://ameye.dev](https://ameye.dev)
+ - date_published: 2023-10-25T18:34:46.760527+00:00
+
+ ## Amoenus Dev
+ - [https://amoenus.dev](https://amoenus.dev)
+ - date_published: 2023-12-07T17:36:20.416462+00:00
+ - tags: ['personal']
+
+ ## AMOLAS
+ - [https://www.amolas.dev](https://www.amolas.dev)
+ - date_published: 2024-01-09T02:56:39.751957+00:00
+
+ ## Amorpheuz's Portfolio
+ - [https://amorpheuz.dev](https://amorpheuz.dev)
+ - date_published: 2024-05-11T10:19:19.024970+00:00
+
+ ## We believe in a future where developers are amplified, not automated
+ - [https://amplified.dev](https://amplified.dev)
+ - date_published: 2024-04-29T07:30:27.199091+00:00
+
+ ## Amr Diab - Web Developer
+ - [https://www.amrdiab.dev](https://www.amrdiab.dev)
+ - date_published: 2023-12-29T18:59:56.823678+00:00
+ - tags: ['personal']
+
+ ## Analysis Tools and Linters to Improve Code Quality and Avoid Bugs
+ - [https://analysis-tools.dev](https://analysis-tools.dev)
+ - date_published: 2024-04-29T07:41:48.998128+00:00
+
+ ## Show HN: Anchor – developer-friendly private CAs for internal TLS
+ - [https://anchor.dev](https://anchor.dev)
+ - date_published: 2023-11-01T14:17:14+00:00
+
+ ## Effortless Encryption
+ - [https://blog.anchor.dev](https://blog.anchor.dev)
+ - date_published: 2023-11-01T14:43:17.307157+00:00
+
+ ## Introduction to Anchor – Anchor
+ - [https://docs.anchor.dev](https://docs.anchor.dev)
+ - date_published: 2024-04-29T07:19:19.641300+00:00
+
+ ## andersource
+ - [https://andersource.dev](https://andersource.dev)
+ - date_published: 2024-01-09T23:47:51.887993+00:00
+
+ ## andrea simone costa
+ - [https://andreasimonecosta.dev](https://andreasimonecosta.dev)
+ - date_published: 2024-01-07T16:03:32.309409+00:00
+
+ ## Home
+ - [https://www.andrewbyrd.dev](https://www.andrewbyrd.dev)
+ - date_published: 2021-10-19T00:00:00+00:00
+
+ ## Home
+ - [https://www.andrewgilliland.dev](https://www.andrewgilliland.dev)
+ - date_published: 2024-05-11T10:18:07.250167+00:00
+
+ ## Andrew Chan
+ - [https://andrewkchan.dev](https://andrewkchan.dev)
+ - date_published: 2023-12-19T18:48:03.347748+00:00
+
+ ## Andrew Nolan
+ - [https://andrewnolan.dev](https://andrewnolan.dev)
+ - date_published: 2024-06-01T04:57:27.248594+00:00
+ - tags: ['personal']
+
+ ## Bienvenido al blog
+ - [https://angelcruz.dev](https://angelcruz.dev)
+ - date_published: 2024-05-11T10:05:48.139150+00:00
+
+ ## Angular
+ - [https://angular.dev](https://angular.dev)
+ - date_published: 2024-04-28T02:37:23.759656+00:00
+
+ ## Angular Blog
+ - [https://blog.angular.dev](https://blog.angular.dev)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Hi! I'm Anjana · Anjana Sofia Vakil
+ - [https://anjana.dev](https://anjana.dev)
+ - date_published: 2024-04-29T07:30:30.767227+00:00
+
+ ## Annotate | Craft walkthroughs that clarify code
+ - [https://annotate.dev](https://annotate.dev)
+ - date_published: 2024-03-23T00:00:00+00:00
+
+ ## Francis Rubio
+ - [https://francisrubio.antaresph.dev](https://francisrubio.antaresph.dev)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## There's no place like /home
+ - [https://anthonymorris.dev](https://anthonymorris.dev)
+ - date_published: 2024-05-11T10:06:03.266692+00:00
+
+ ## Yet another place where a developer rants
+ - [https://www.antopiras.dev](https://www.antopiras.dev)
+ - date_published: 2024-05-11T10:22:22.547294+00:00
+
+ ## Anzui.dev - Home
+ - [https://anzui.dev](https://anzui.dev)
+ - date_published: 2024-05-09T07:52:02.202397+00:00
+
+ ## The personal garden of a broken doll. - Aphrodite.dev
+ - [https://www.aphrodite.dev](https://www.aphrodite.dev)
+ - date_published: 2024-05-09T08:15:34.356700+00:00
+
+ ## API RANK | Benchmarks of public APIs, by Escape
+ - [https://apirank.dev](https://apirank.dev)
+ - date_published: 2023-10-25T18:34:50.703389+00:00
+
+ ## Apoxy - The Proxy Platform
+ - [https://apoxy.dev](https://apoxy.dev)
+ - date_published: 2024-04-29T07:19:40.352175+00:00
+
+ ## PostHog
+ - [https://e.apoxy.dev](https://e.apoxy.dev)
+ - date_published: 2023-07-07T00:00:00+00:00
+
+ ## Envoy Playground
+ - [https://envoy-playground.apoxy.dev](https://envoy-playground.apoxy.dev)
+ - date_published: 2023-10-25T18:34:51.661054+00:00
+
+ ## App Defense Alliance
+ - [https://appdefensealliance.dev](https://appdefensealliance.dev)
+ - date_published: 2024-05-04T08:30:39.774766+00:00
+
+ ## Appwrite - Build like a team of hundreds
+ - [https://apwr.dev](https://apwr.dev)
+ - date_published: 2024-05-04T09:14:37.842234+00:00
+
+ ## A Question of Code
+ - [https://aqoc.dev](https://aqoc.dev)
+ - date_published: 2024-05-10T05:32:37.733318+00:00
+
+ ## Aran Wilkinson
+ - [https://aran.dev](https://aran.dev)
+ - date_published: 2024-03-11T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Hire top remote developers, designers, and marketers | Arc
+ - [https://arc.dev](https://arc.dev)
+ - date_published: 2024-05-07T13:28:56.855738+00:00
+
+ ## Archsense | Architecture visualization
+ - [https://www.archsense.dev](https://www.archsense.dev)
+ - date_published: 2023-10-25T18:34:53.556550+00:00
+
+ ## Argbash: Bash argument parsing made easy
+ - [https://argbash.dev](https://argbash.dev)
+ - date_published: 2023-10-25T18:34:54.594624+00:00
+
+ ## Arge Niño - Software Engineer
+ - [https://argenh.dev](https://argenh.dev)
+ - date_published: 2024-05-11T10:11:00.182238+00:00
+
+ ## Arik Chakma - Developer, creator.
+ - [https://arikko.dev](https://arikko.dev)
+ - date_published: 2024-05-09T06:18:47.974528+00:00
+
+ ## - Home
+ - [https://armand1m.dev](https://armand1m.dev)
+ - date_published: 2024-05-07T23:26:04.212828+00:00
+
+ ## Introduction - Arroyo Documentation
+ - [https://doc.arroyo.dev](https://doc.arroyo.dev)
+ - date_published: 2024-05-11T07:48:06.615214+00:00
+
+ ## Arroyo — Serverless stream processing
+ - [https://www.arroyo.dev](https://www.arroyo.dev)
+ - date_published: 1920-01-01T00:00:00+00:00
+
+ ## Artem R.
+ - [https://artm.dev](https://artm.dev)
+ - date_published: 2024-05-07T23:25:47.049532+00:00
+
+ ## Arturo Campos – Front-end Engineer
+ - [https://arturocampos.dev](https://arturocampos.dev)
+ - date_published: 2024-05-11T10:24:59.607965+00:00
+
+ ## Darwin
+ - [https://darwin.arweave.dev](https://darwin.arweave.dev)
+ - date_published: 2024-04-29T07:19:51.042612+00:00
+
+ ## Introducing Darwin: An Evolutionary App Framework
+ - [https://evolutionary.arweave.dev](https://evolutionary.arweave.dev)
+ - date_published: 2023-10-25T18:34:55.983152+00:00
+
+ ## permapages
+ - [https://pages.arweave.dev](https://pages.arweave.dev)
+ - date_published: 2024-04-29T07:19:49.229026+00:00
+
+ ## Arwes
+ - [https://arwes.dev](https://arwes.dev)
+ - date_published: 2023-08-13T00:00:00+00:00
+
+ ## Rebrandly
+ - [https://a.as.dev](https://a.as.dev)
+ - date_published: 2024-05-01T03:01:38.182685+00:00
+
+ ## Freelance software consultant - Asko Nõmm
+ - [https://asko.dev](https://asko.dev)
+ - date_published: 2023-10-25T18:34:56.669192+00:00
+
+ ## aspiring.dev
+ - [https://www.aspiring.dev](https://www.aspiring.dev)
+ - date_published: 2024-02-25T16:14:53.641737+00:00
+
+ ## Un blog by Asur 🧐
+ - [https://asur.dev](https://asur.dev)
+ - date_published: 2024-05-11T10:20:56.102405+00:00
+
+ ## Athabasca - Home
+ - [https://www.athabasca.dev](https://www.athabasca.dev)
+ - date_published: 2024-05-07T14:27:26.076597+00:00
+
+ ## Home - The Audio Developer Conference
+ - [https://audio.dev](https://audio.dev)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Clerk | Authentication and User Management
+ - [http://auth.dev](http://auth.dev)
+ - date_published: 2024-05-07T15:20:03.162865+00:00
+
+ ## Auth.js
+ - [https://authjs.dev](https://authjs.dev)
+ - date_published: 2023-10-25T18:34:57.550961+00:00
+
+ ## Join the Auth.js Discord Server!
+ - [https://discord.authjs.dev](https://discord.authjs.dev)
+ - date_published: 2024-04-29T07:20:06.782060+00:00
+
+ ## Avestura's Blog
+ - [https://avestura.dev](https://avestura.dev)
+ - date_published: 2023-10-25T18:34:58.986618+00:00
+
+ ## Avestura’s Personal Website
+ - [https://github.avestura.dev](https://github.avestura.dev)
+ - date_published: 2024-04-29T07:20:07.610334+00:00
+
+ ## Developer Avocados
+ - [https://avocados.dev](https://avocados.dev)
+ - date_published: 2021-12-24T00:00:00+00:00
+
+ ## The AWK Programming Language, Second Edition
+ - [https://awk.dev](https://awk.dev)
+ - date_published: 2023-10-25T18:35:00.619087+00:00
+
+ ## The AWK Programming Language, Second Edition
+ - [https://www.awk.dev](https://www.awk.dev)
+ - date_published: 2023-10-27T11:56:59.977208+00:00
+
  ## Axflow
  - [https://axflow.dev](https://axflow.dev)
  - date_published: 2024-01-08T19:27:16.030595+00:00
@@ -189,6 +888,11 @@
  ## 📚 Austin Merrick’s Blog
  - [https://onsclom.bearblog.dev](https://onsclom.bearblog.dev)
  - date_published: 2023-10-25T09:21:36.944070+00:00
+ - tags: ['personal']
+
+ ## Here be dragons
+ - [https://paulogpd.bearblog.dev](https://paulogpd.bearblog.dev)
+ - date_published: 2024-06-05T19:52:30.423983+00:00
  - tags: ['personal']
 
  ## Robert
@@ -3424,719 +4128,4 @@
  ## Index - neko.dev
  - [http://neko.dev](http://neko.dev)
  - date_published: 2024-04-30T02:00:30.189357+00:00
-
- ## Neosync
- - [https://neosync.dev](https://neosync.dev)
- - date_published: 2024-05-22T18:06:04.271854+00:00
-
- ## Neovide - Neovide
- - [https://neovide.dev](https://neovide.dev)
- - date_published: 2024-05-06T08:57:58.734949+00:00
-
- ## Adam Argyle
- - [https://nerdy.dev](https://nerdy.dev)
- - date_published: 2023-10-25T08:48:53.943604+00:00
- - tags: ['personal']
-
- ## NetBox Documentation
- - [https://docs.netbox.dev](https://docs.netbox.dev)
- - date_published: 2024-04-30T02:02:55.294847+00:00
-
- ## Home
- - [https://netbox.dev](https://netbox.dev)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Nick Babcock
- - [https://nickb.dev](https://nickb.dev)
- - date_published: 2024-04-14T00:00:00+00:00
-
- ## [ NICKipedia ]
- - [https://nickipedia.dev](https://nickipedia.dev)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Nicolo.dev
- - [https://nicolo.dev](https://nicolo.dev)
- - date_published: 2023-10-25T08:58:41.536333+00:00
- - tags: ['personal']
-
- ## My Knowledge Wiki 🌿 | Everything I Know
- - [https://wiki.nikiv.dev](https://wiki.nikiv.dev)
- - date_published: 2024-05-09T08:39:11.447522+00:00
-
- ## Blog
- - [https://nikkin.dev](https://nikkin.dev)
- - date_published: 2024-05-04T14:14:29.984267+00:00
- - tags: ['personal']
-
- ## nilstriebs blog
- - [https://blog.nilstrieb.dev](https://blog.nilstrieb.dev)
- - date_published: 2024-01-13T00:00:00+00:00
- - tags: ['personal']
-
- ## niui
- - [https://niui.dev](https://niui.dev)
- - date_published: 2023-10-25T18:40:16.339018+00:00
-
- ## Welcome to nix.dev — nix.dev  documentation
- - [https://nix.dev](https://nix.dev)
- - date_published: 2024-05-02T13:33:53.069989+00:00
-
- ## Home - du.nkel.dev
- - [https://du.nkel.dev](https://du.nkel.dev)
- - date_published: 2024-02-10T00:00:00+00:00
-
- ## Norberto's personal website
- - [https://nlopes.dev](https://nlopes.dev)
- - date_published: 2023-10-25T08:48:54.951889+00:00
- - tags: ['personal']
-
- ## IAMOps Platform | NOQ
- - [http://www.noq.dev](http://www.noq.dev)
- - date_published: 2023-10-25T18:40:17.657120+00:00
-
- ## Antonin HEBERT
- - [https://notnian.dev](https://notnian.dev)
- - date_published: 2024-05-09T08:12:46.320293+00:00
-
- ## Plausible · Web analytics
- - [https://analytics.nray.dev](https://analytics.nray.dev)
- - date_published: 2024-04-30T02:03:51.578921+00:00
-
- ## Nicholas Ray
- - [https://www.nray.dev](https://www.nray.dev)
- - date_published: 2023-10-25T08:58:47.329801+00:00
- - tags: ['personal']
-
- ## Streamlit
- - [https://trial.nuanced.dev](https://trial.nuanced.dev)
- - date_published: 2024-03-18T19:23:39.249499+00:00
-
- ## Nuanced: Detecting Authenticity in the age of AI
- - [https://www.nuanced.dev](https://www.nuanced.dev)
- - date_published: 2024-03-18T19:23:38.383722+00:00
-
- ## nutjs.dev
- - [https://nutjs.dev](https://nutjs.dev)
- - date_published: 2024-04-24T03:45:23.857591+00:00
- - tags: ['open source', 'desktop automation']
-
- ## Nx: Smart Monorepos ¬∑ Fast CI
- - [https://nx.dev](https://nx.dev)
- - date_published: 2024-02-22T11:56:06.815784+00:00
-
- ## OC3 | Open Confidential Computing Conference 2024
- - [https://www.oc3.dev](https://www.oc3.dev)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## olano.dev
- - [https://olano.dev](https://olano.dev)
- - date_published: 2023-12-01T10:46:06.534286+00:00
-
- ## OneBite.Dev - Coding blog in a bite size
- - [https://onebite.dev](https://onebite.dev)
- - date_published: 2024-05-07T23:27:22.315889+00:00
-
- ## Onur Şuyalçınkaya
- - [https://onur.dev](https://onur.dev)
- - date_published: 2023-12-16T07:29:32.330441+00:00
- - tags: ['personal']
-
- ## OP3: The Open Podcast Prefix Project
- - [https://op3.dev](https://op3.dev)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## OpenFeature
- - [https://openfeature.dev](https://openfeature.dev)
- - date_published: 2024-05-01T04:49:38.992649+00:00
-
- ## https://www.open-fire.dev
- - [https://www.open-fire.dev](https://www.open-fire.dev)
- - date_published: 2024-01-09T02:57:19.590490+00:00
-
- ## OpenGOAL | OpenGOAL
- - [https://opengoal.dev](https://opengoal.dev)
- - date_published: 2023-10-25T18:40:19.039679+00:00
- - tags: ['open source', 'video game']
-
- ## OpenInfra Foundation: We build communities who write software that runs in production
- - [https://openinfra.dev](https://openinfra.dev)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## An open-source alternative to Mixpanel | Openpanel.dev
- - [https://openpanel.dev](https://openpanel.dev)
- - date_published: 2024-05-21T23:49:05.664899+00:00
-
- ## Individual Dashboard | The Linux Foundation
- - [https://openprofile.dev](https://openprofile.dev)
- - date_published: 2024-05-07T23:52:43.583741+00:00
-
- ## open-source-silicon.dev
- - [https://open-source-silicon.dev](https://open-source-silicon.dev)
- - date_published: 2024-04-29T08:54:15+00:00
-
- ## open-source-silicon #general
- - [https://web.open-source-silicon.dev](https://web.open-source-silicon.dev)
- - date_published: 2024-04-29T07:59:44.042359+00:00
-
- ## What is OpenStatus? - OpenStatus Docs
- - [https://docs.openstatus.dev](https://docs.openstatus.dev)
- - date_published: 2024-04-30T02:05:11.379864+00:00
-
- ## marimo
- - [https://marimo.openstatus.dev](https://marimo.openstatus.dev)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Papermark Status
- - [https://papermark.openstatus.dev](https://papermark.openstatus.dev)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## OpenStatus Status Page
- - [https://status.openstatus.dev](https://status.openstatus.dev)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Trigger.dev Status
- - [https://trigger.openstatus.dev](https://trigger.openstatus.dev)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## OpenStatus
- - [https://www.openstatus.dev](https://www.openstatus.dev)
- - date_published: 2023-10-25T18:40:21.230486+00:00
-
- ## Corporate Conundrum
- - [https://conundrum.ophir.dev](https://conundrum.ophir.dev)
- - date_published: 2024-04-30T02:05:18.461555+00:00
-
- ## SQLPage
- - [https://sql.ophir.dev](https://sql.ophir.dev)
- - date_published: 2023-10-25T18:40:22.802342+00:00
-
- ## OrbStack · Fast, light, simple Docker & Linux on macOS
- - [https://orbstack.dev](https://orbstack.dev)
- - date_published: 2023-10-25T18:40:25.084437+00:00
-
- ## Orhun's Blog
- - [https://blog.orhun.dev](https://blog.orhun.dev)
- - date_published: 2023-10-25T18:40:26.754894+00:00
- - tags: ['personal']
-
- ## Support My Work
- - [https://donate.orhun.dev](https://donate.orhun.dev)
- - date_published: 2024-04-30T02:05:18.874135+00:00
-
- ## orhun(1)
- - [https://orhun.dev](https://orhun.dev)
- - date_published: 2024-04-30T02:05:20.061372+00:00
-
- ## Umami
- - [https://umami.orhun.dev](https://umami.orhun.dev)
- - date_published: 2024-04-30T02:05:19.472665+00:00
-
- ## orionc.dev
- - [https://orionc.dev](https://orionc.dev)
- - date_published: 2023-11-29T17:14:05.577990+00:00
- - tags: ['personal']
-
- ## Gram Publishing v2
- - [https://blog.orsinium.dev](https://blog.orsinium.dev)
- - date_published: 2023-10-25T18:40:28.464597+00:00
-
- ## Hi, I'm Gram
- - [https://orsinium.dev](https://orsinium.dev)
- - date_published: 2024-04-30T02:05:20.761869+00:00
-
- ## Ory - API-first Identity Management, Authentication and Authorization. For Secure, Global, GDPR-compliant Apps | Ory
- - [https://www.ory.dev](https://www.ory.dev)
- - date_published: 2023-10-25T18:40:33.383690+00:00
-
- ## oscard0m Blog
- - [https://www.oscardom.dev](https://www.oscardom.dev)
- - date_published: 2024-01-05T10:28:24.995014+00:00
- - tags: ['personal']
-
- ## Oscar Marion - Javascript engineer in Stockholm
- - [https://www.oscarmarion.dev](https://www.oscarmarion.dev)
- - date_published: 2024-05-11T10:22:13.792071+00:00
- - tags: ['personal']
-
- ## Home
- - [https://osgood.dev](https://osgood.dev)
- - date_published: 2024-05-11T10:06:23.170372+00:00
-
- ## Dennis Schubert
- - [https://overengineer.dev](https://overengineer.dev)
- - date_published: 2024-04-14T20:39:43+00:00
- - tags: ['personal']
-
- ## Photography - Dennis Schubert
- - [https://photos.overengineer.dev](https://photos.overengineer.dev)
- - date_published: 2024-05-20T02:48:45.155582+00:00
- - tags: ['personal']
-
- ## Introduction | develop | Overseerr
- - [https://docs.overseerr.dev](https://docs.overseerr.dev)
- - date_published: 2024-05-14T03:52:59.019222+00:00
-
- ## Overseerr
- - [https://overseerr.dev](https://overseerr.dev)
- - date_published: 2024-04-08T19:30:06.081189+00:00
- - tags: ['self-host', 'plex']
-
- ## Pacstall - The AUR for Ubuntu
- - [https://pacstall.dev](https://pacstall.dev)
- - date_published: 2024-05-08T10:50:50.332739+00:00
-
- ## Filip Iulian Pacurar's website - Base-station page 😎
- - [https://pacurar.dev](https://pacurar.dev)
- - date_published: 2024-05-11T10:23:39.537348+00:00
-
- - [https://ad8e.pages.dev](https://ad8e.pages.dev)
- - date_published: 2024-01-09T02:57:22.291725+00:00
-
- ## AstroPaper
- - [https://astro-paper.pages.dev](https://astro-paper.pages.dev)
- - date_published: 2024-01-15T00:00:00+00:00
-
- - [https://bifrost-bfp.pages.dev](https://bifrost-bfp.pages.dev)
- - date_published: 2024-04-17T18:24:29.401875+00:00
-
- ## Contort Plotter
- - [https://contort-plotter.pages.dev](https://contort-plotter.pages.dev)
- - date_published: 2024-04-30T07:49:03.394482+00:00
-
- ## Animotion – a visual CSS animation app
- - [https://cssanimotion.pages.dev](https://cssanimotion.pages.dev)
- - date_published: 2023-11-24T11:16:25+00:00
-
- ## Show HN: Caltrans CCTV
- - [https://ctcctv.pages.dev](https://ctcctv.pages.dev)
- - date_published: 2024-03-13T14:42:55+00:00
- - tags: ['california cctv']
-
- ## Welcome to the Parallel Future of Computation
- - [https://hvm-page.pages.dev](https://hvm-page.pages.dev)
- - date_published: 2024-05-17T07:37:19+00:00
-
- ## ICML 2024 Mechanistic Interpretability Workshop
- - [https://icml2024mi.pages.dev](https://icml2024mi.pages.dev)
- - date_published: 2024-05-04T12:17:37.113749+00:00
-
- ## Indeed Job Scam
- - [https://indeedjobscam.pages.dev](https://indeedjobscam.pages.dev)
- - date_published: 2023-10-25T18:40:43.826797+00:00
-
- ## Show HN: A user-friendly UI for viewing and editing Markdown files
- - [https://marker.pages.dev](https://marker.pages.dev)
- - date_published: 2024-03-13T12:47:43+00:00
-
- ## Data Narratives: Data Research for the Real Economy
- - [https://nextjs.fsd-research.pages.dev](https://nextjs.fsd-research.pages.dev)
- - date_published: 2024-05-01T04:04:39.148708+00:00
-
- ## nonnullish
- - [https://nonnullish.pages.dev](https://nonnullish.pages.dev)
- - date_published: 2023-12-24T14:19:01.273158+00:00
-
- ## rue21.com Custom Pages
- - [https://rue21-custom-pages.pages.dev](https://rue21-custom-pages.pages.dev)
- - date_published: 2024-05-04T09:55:52.996620+00:00
-
- ## Sample audio from the web | Sampurr
- - [https://sampurr.pages.dev](https://sampurr.pages.dev)
- - date_published: 2024-05-09T09:12:04.223987+00:00
-
- ## Space Cards
- - [https://space-card.pages.dev](https://space-card.pages.dev)
- - date_published: 2024-04-09T03:24:11.552963+00:00
-
- ## SQLSync Demo
- - [https://sqlsync-todo.pages.dev](https://sqlsync-todo.pages.dev)
- - date_published: 2024-04-30T02:18:32.288170+00:00
-
- ## TLS, byte by byte
- - [https://subtls.pages.dev](https://subtls.pages.dev)
- - date_published: 2023-10-25T18:40:44.490273+00:00
-
- ## SWE to ML Engineer
- - [https://swe-to-mle.pages.dev](https://swe-to-mle.pages.dev)
- - date_published: 2024-03-17T00:00:00+00:00
-
- ## Treemap of World GDP by Purchasing Power Parity (PPP) 2020
- - [https://treemap-world-economy.pages.dev](https://treemap-world-economy.pages.dev)
- - date_published: 2024-03-28T06:59:55+00:00
-
- ## https://tropical.pages.dev
- - [https://tropical.pages.dev](https://tropical.pages.dev)
- - date_published: 2024-01-10T01:32:32.654649+00:00
-
- ## Van Element - Docs | Van Element - Docs
- - [https://van-element.pages.dev](https://van-element.pages.dev)
- - date_published: 2024-05-09T09:13:32.302962+00:00
-
- ## step by step
- - [https://vxdev.pages.dev](https://vxdev.pages.dev)
- - date_published: 2024-01-22T18:02:01.724826+00:00
-
- ## Yaksha Programming Language - Playground
- - [https://yaksha.pages.dev](https://yaksha.pages.dev)
- - date_published: 2024-05-04T15:42:31.732732+00:00
-
- ## Palladio - Email templates and widgets for ConvertKit
- - [https://palladio.dev](https://palladio.dev)
- - date_published: 2024-05-01T07:31:35.007379+00:00
-
- ## Portfolio
- - [https://paolocorti.dev](https://paolocorti.dev)
- - date_published: 2024-05-09T09:14:14.822767+00:00
-
- ## Parca - Open Source infrastructure-wide continuous profiling
- - [https://parca.dev](https://parca.dev)
- - date_published: 2024-05-06T23:34:20.978749+00:00
-
- ## PartyKit
- - [https://cursor-party.genmon.partykit.dev](https://cursor-party.genmon.partykit.dev)
- - date_published: 2024-05-08T08:47:58.239044+00:00
-
- ## TinyRooms
- - [https://tinyrooms.jamesgpearce.partykit.dev](https://tinyrooms.jamesgpearce.partykit.dev)
- - date_published: 2024-04-30T00:30:11.305774+00:00
-
- ## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date_published: 2023-01-31T00:00:00+00:00
-
- ## Patterns.dev
- - [https://patterns.dev](https://patterns.dev)
- - date_published: 2024-04-27T08:05:02.700720+00:00
- - tags: ['programming patterns', 'javascript']
-
- ## Hello! • Paul Armstrong
- - [https://paularmstrong.dev](https://paularmstrong.dev)
- - date_published: 2023-10-25T08:48:56.005230+00:00
- - tags: ['personal']
-
- ## umami
- - [https://stats.paulsblog.dev](https://stats.paulsblog.dev)
- - date_published: 2024-04-29T06:16:29.719870+00:00
-
- ## //pauls dev blog
- - [https://www.paulsblog.dev](https://www.paulsblog.dev)
- - date_published: 2024-02-25T14:02:35.061521+00:00
- - tags: ['personal']
-
- ## pcloadletter
- - [https://www.pcloadletter.dev](https://www.pcloadletter.dev)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## pdoc – Generate API Documentation for Python Projects
- - [https://pdoc.dev](https://pdoc.dev)
- - date_published: 2024-05-08T10:20:48.015955+00:00
-
- ## Hey there! · pema.dev
- - [https://pema.dev](https://pema.dev)
- - date_published: 2023-10-25T18:40:45.349933+00:00
-
- ## Vadim Makeev
- - [https://pepelsbey.dev](https://pepelsbey.dev)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Petals – Decentralized platform for running large language models
- - [https://chat.petals.dev](https://chat.petals.dev)
- - date_published: 2024-04-30T02:10:54.138729+00:00
-
- ## Petals Health Monitor
- - [https://health.petals.dev](https://health.petals.dev)
- - date_published: 2024-04-30T02:10:53.472594+00:00
-
- ## Petals – Run LLMs at home, BitTorrent-style
- - [https://petals.dev](https://petals.dev)
- - date_published: 2023-10-25T18:40:45.976979+00:00
-
- ## Florian Pfisterer
- - [https://pfisterer.dev](https://pfisterer.dev)
- - date_published: 2024-01-12T10:31:39.595981+00:00
-
- ## PGJones.dev
- - [https://pgjones.dev](https://pgjones.dev)
- - date_published: 2024-06-01T04:52:10.227878+00:00
- - tags: ['personal']
-
- ## Trunk
- - [https://pgt.dev](https://pgt.dev)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Nicolas Goutay — Software Engineer, Speaker, Open Source tinkerer
- - [https://phacks.dev](https://phacks.dev)
- - date_published: 2024-06-01T04:54:37.202942+00:00
- - tags: ['personal']
-
- ## Umami
- - [https://umami.pheralb.dev](https://umami.pheralb.dev)
- - date_published: 2024-05-09T09:14:50.945228+00:00
-
- ## Photobox
- - [https://www.photobox.dev](https://www.photobox.dev)
- - date_published: 2024-04-23T19:53:33+00:00
- - tags: ['self-host', 'photo library', 'image library', 'open source']
-
- ## Pierre Couy’s tech corner | Freelance developper, computer science teacher, passionate about programming. I enjoy sharing my work with the world.
- - [https://pierre-couy.dev](https://pierre-couy.dev)
- - date_published: 2023-10-25T18:40:46.733153+00:00
-
- ## Pigweed
- - [https://pigweed.dev](https://pigweed.dev)
- - date_published: 2024-05-07T23:00:16.853198+00:00
-
- ## Pika - Search npm for fast, modern packages.
- - [https://www.pika.dev](https://www.pika.dev)
- - date_published: 2024-05-06T13:27:08.155900+00:00
-
- ## Playground — LAB.PINTO.DEV
- - [https://manuel.pinto.dev](https://manuel.pinto.dev)
- - date_published: 2024-05-02T11:37:06.639330+00:00
-
- ## Piraces Personal Blog
- - [https://piraces.dev](https://piraces.dev)
- - date_published: 2024-05-11T10:25:04.849628+00:00
-
- ## pkg-size | Find the true size of a npm package
- - [https://pkg-size.dev](https://pkg-size.dev)
- - date_published: 2023-10-25T18:40:47.132424+00:00
-
- ## Plane – run WebSocket backends at scale – Plane
- - [https://plane.dev](https://plane.dev)
- - date_published: 2024-05-01T07:46:41.271304+00:00
-
- ## Fast and reliable end-to-end testing for modern web apps | Playwright
- - [https://playwright.dev](https://playwright.dev)
- - date_published: 2024-03-14T15:14:49.454739+00:00
-
- ## 프날 오토핫키 v2 : 오토핫키, 시작은 프날 강좌와 함께!
- - [https://ahkv2.pnal.dev](https://ahkv2.pnal.dev)
- - date_published: 2024-05-12T04:14:16.119129+00:00
-
- ## Poletto.dev
- - [https://poletto.dev](https://poletto.dev)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Portr: Open-Source Ngrok Alternative
- - [https://portr.dev](https://portr.dev)
- - date_published: 2024-04-20T22:45:27+00:00
- - tags: ['ngrok', 'self-host', 'open source']
-
- ## POURIA 🦋
- - [https://pouria.dev](https://pouria.dev)
- - date_published: 2023-10-25T18:40:48.495860+00:00
-
- ## Puppeteer | Puppeteer
- - [https://pptr.dev](https://pptr.dev)
- - date_published: 2024-01-17T09:19:59+00:00
- - tags: ['web scraping']
-
- ## pql – pql docs
- - [https://docs.pql.dev](https://docs.pql.dev)
- - date_published: 2024-05-09T07:20:38.920989+00:00
-
- ## Pql, a pipelined query language that compiles to SQL (written in Go)
- - [https://pql.dev](https://pql.dev)
- - date_published: 2024-02-28T15:33:56+00:00
-
- ## Precursor
- - [https://precursor.dev](https://precursor.dev)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Preevy by Livecycle | Preevy
- - [https://preevy.dev](https://preevy.dev)
- - date_published: 2024-05-06T06:41:20.265566+00:00
-
- ## prefix.dev â€“ solving software package management
- - [https://prefix.dev](https://prefix.dev)
- - date_published: 2024-02-26T14:06:05.894255+00:00
-
- ## My personal website.
- - [https://prince.dev](https://prince.dev)
- - date_published: 2024-05-09T08:44:37.168272+00:00
-
- ## Introduction – PrivateGPT | Docs
- - [https://docs.privategpt.dev](https://docs.privategpt.dev)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## https://www.privatemarket.dev
- - [https://www.privatemarket.dev](https://www.privatemarket.dev)
- - date_published: 2024-01-09T02:57:31.384269+00:00
-
- ## Emil Privér
- - [https://priver.dev](https://priver.dev)
- - date_published: 2024-05-08T11:01:00.346353+00:00
-
- ## PrivSec - A practical approach to Privacy and Security
- - [https://privsec.dev](https://privsec.dev)
- - date_published: 2023-10-25T18:40:49.926726+00:00
-
- ## prma
- - [https://prma.dev](https://prma.dev)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## 🏝 Roadmap - Grigora
- - [https://grigora.productlift.dev](https://grigora.productlift.dev)
- - date_published: 2024-05-11T05:39:42.628921+00:00
-
- ## React Job Simulator by Profy.dev
- - [https://profy.dev](https://profy.dev)
- - date_published: 2023-10-25T18:40:51.947206+00:00
-
- ## All gists - Opengist
- - [https://blocks.programming.dev](https://blocks.programming.dev)
- - date_published: 2024-04-30T02:11:43.912498+00:00
-
- ## Programming.Dev Bytes
- - [https://bytes.programming.dev](https://bytes.programming.dev)
- - date_published: 2024-04-30T02:11:40.682651+00:00
-
- ## Git
- - [https://git.programming.dev](https://git.programming.dev)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## | P.D Legal
- - [https://legal.programming.dev](https://legal.programming.dev)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Programming.Dev
- - [https://me.programming.dev](https://me.programming.dev)
- - date_published: 2024-04-30T02:11:39.570934+00:00
-
- ## programming.dev - A collection of programming communities
- - [https://programming.dev](https://programming.dev)
- - date_published: 2023-10-25T18:40:53.820318+00:00
-
- ## Voyager for Lemmy
- - [https://v.programming.dev](https://v.programming.dev)
- - date_published: 2024-04-30T02:11:42.185729+00:00
-
- ## Wiki
- - [https://wiki.programming.dev](https://wiki.programming.dev)
- - date_published: 2024-04-30T02:11:34.113213+00:00
-
- ## Protocol Buffers
- - [https://protobuf.dev](https://protobuf.dev)
- - date_published: 2024-04-29T07:32:35.346159+00:00
-
- ## The official repository for Dart and Flutter packages.
- - [https://pub.dev](https://pub.dev)
- - date_published: 2024-04-29T07:44:05.422236+00:00
- - tags: ['package manager', 'dart', 'flutter']
-
- ## Home |
- - [https://pulsar-edit.dev](https://pulsar-edit.dev)
- - date_published: 2023-10-25T18:41:00.178641+00:00
-
- ## Pulsar Package Explorer
- - [https://web.pulsar-edit.dev](https://web.pulsar-edit.dev)
- - date_published: 2024-04-30T02:11:45.108911+00:00
-
- ## PWA Store
- - [https://www.pwastore.dev](https://www.pwastore.dev)
- - date_published: 2024-06-03T11:11:44+00:00
- - tags: ['progressive web apps']
-
- ## Redirecting...
- - [https://blog.pydantic.dev](https://blog.pydantic.dev)
- - date_published: 2024-04-30T02:12:09.320810+00:00
-
- ## Welcome to Pydantic - Pydantic
- - [https://docs.pydantic.dev](https://docs.pydantic.dev)
- - date_published: 2023-10-25T18:41:02.319299+00:00
-
- ## Pydantic Logfire
- - [https://logfire.pydantic.dev](https://logfire.pydantic.dev)
- - date_published: 2024-06-04T23:45:38.614929+00:00
-
- ## Pydantic
- - [https://pydantic.dev](https://pydantic.dev)
- - date_published: 2024-01-09T00:00:00+00:00
- - tags: ['online tool', 'online validation']
-
- ## Flox
- - [https://flox-demo.pyxl.dev](https://flox-demo.pyxl.dev)
- - date_published: 2024-04-08T19:28:27.177415+00:00
-
- ## | Ivan's blog
- - [https://qdiv.dev](https://qdiv.dev)
- - date_published: 2024-04-09T00:00:00+00:00
- - tags: ['personal']
-
- ## Qian Li
- - [https://qianli.dev](https://qianli.dev)
- - date_published: 2024-04-28T03:38:49.813786+00:00
-
- ## Quary
- - [https://quary.dev](https://quary.dev)
- - date_published: 2024-05-15T15:49:57.343883+00:00
-
- ## Quary
- - [https://www.quary.dev](https://www.quary.dev)
- - date_published: 2024-05-15T15:50:07.945117+00:00
-
- ## Quasar Framework - Build high-performance VueJS user interfaces in record time
- - [https://quasar.dev](https://quasar.dev)
- - date_published: 2024-05-08T09:01:47.216382+00:00
-
- ## Chris James - Learn Go with Tests reaches 20k stars
- - [https://quii.dev](https://quii.dev)
- - date_published: 2023-10-25T18:41:02.923807+00:00
-
- ## https://blog.qwertyforce.dev
- - [https://blog.qwertyforce.dev](https://blog.qwertyforce.dev)
- - date_published: 2024-01-09T02:57:33.591668+00:00
-
- ## Framework reimagined for the edge! 📚 Qwik Documentation
- - [https://qwik.dev](https://qwik.dev)
- - date_published: 2024-04-28T02:52:03.847627+00:00
-
- ## Not Found
- - [https://pub-02bff1796dd84d2d842f219d10ae945d.r2.dev](https://pub-02bff1796dd84d2d842f219d10ae945d.r2.dev)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Not Found
- - [https://pub-b1f092b6867f4495b8f149d222a3bffe.r2.dev](https://pub-b1f092b6867f4495b8f149d222a3bffe.r2.dev)
- - date_published: 2024-04-28T03:42:02.922811+00:00
-
- ## Not Found
- - [https://pub-d2efe3e17529441382e3a932c9b9deca.r2.dev](https://pub-d2efe3e17529441382e3a932c9b9deca.r2.dev)
- - date_published: 2024-04-28T03:22:52.753715+00:00
-
- ## Not Found
- - [https://pub-deb0055557834ed6ba5dbc2a44e5eaf0.r2.dev](https://pub-deb0055557834ed6ba5dbc2a44e5eaf0.r2.dev)
- - date_published: 2024-04-29T07:44:13.817159+00:00
-
- ## Semgrep — Find bugs and enforce code standards
- - [https://r2c.dev](https://r2c.dev)
- - date_published: 2023-10-25T18:41:07.216345+00:00
-
- ## PostHog
- - [https://logs.radekmie.dev](https://logs.radekmie.dev)
- - date_published: 2021-04-29T00:00:00+00:00
-
- ## @radekmie’s take on IT and stuff
- - [https://radekmie.dev](https://radekmie.dev)
- - date_published: 2024-05-04T15:25:55.657035+00:00
-
- ## Radiki Dev
- - [https://radiki.dev](https://radiki.dev)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Raed's blog
- - [https://blog.raed.dev](https://blog.raed.dev)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Roni Äikäs
- - [https://raikas.dev](https://raikas.dev)
- - date_published: 2024-01-12T10:32:49.573822+00:00
-
- ## Carmen Huidobro
- - [https://ramonh.dev](https://ramonh.dev)
- - date_published: 2024-05-07T23:10:50.023509+00:00
-
- ## Full-Stack Laravel Developer
- - [https://randallwilk.dev](https://randallwilk.dev)
- - date_published: 2024-05-11T10:11:02.621041+00:00
 

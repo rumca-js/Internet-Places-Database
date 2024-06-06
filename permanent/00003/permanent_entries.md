@@ -1,3 +1,38 @@
+ ## Escravo, nem pensar!
+ - [https://www.escravonempensar.org.br](https://www.escravonempensar.org.br)
+ - date_published: 2024-01-09T02:26:57.139425+00:00
+
+ ## ICOM Brasil
+ - [http://www.icom.org.br](http://www.icom.org.br)
+ - date_published: 2024-05-29T00:37:52.847010+00:00
+
+ ## Home - Inhotim
+ - [https://www.inhotim.org.br](https://www.inhotim.org.br)
+ - date_published: 2023-11-13T13:54:33.035629+00:00
+ - tags: ['museum']
+
+ ## Instituto Ricardo Brennand
+ - [https://www.institutoricardobrennand.org.br](https://www.institutoricardobrennand.org.br)
+ - date_published: 2023-11-13T13:53:50.117261+00:00
+ - tags: ['museum']
+
+ ## Home - IPAM Amazônia
+ - [https://ipam.org.br](https://ipam.org.br)
+ - date_published: 2024-05-10T02:49:03.266225+00:00
+
+ ## MASP
+ - [https://masp.org.br](https://masp.org.br)
+ - date_published: 2023-11-13T13:41:34.414087+00:00
+ - tags: ['museum']
+
+ ## Mercy For Animals – Maior Organização do Mundo em Promoção do Veganismo e Defesa dos Direitos dos Animais Explorados para Consumo
+ - [http://mercyforanimals.org.br](http://mercyforanimals.org.br)
+ - date_published: 2024-05-10T06:58:15.910935+00:00
+
+ ## Museu do Amanhã
+ - [https://museudoamanha.org.br](https://museudoamanha.org.br)
+ - date_published: 2024-02-15T00:00:00+00:00
+
  ## Pivô
  - [https://www.pivo.org.br](https://www.pivo.org.br)
  - date_published: 2024-02-08T17:51:49.160299+00:00
@@ -4055,36 +4090,4 @@
  ## Capítol Català de la Societat Internet - Catalan Chapter of the Internet Society
  - [https://www.isoc.cat](https://www.isoc.cat)
  - date_published: 2024-05-06T23:55:49.836985+00:00
-
- ## mastodont.cat, cultura catalana.
- - [https://mastodont.cat](https://mastodont.cat)
- - date_published: 2024-05-09T08:22:54.387775+00:00
-
- ## Parc de Salut Mar
- - [http://www.parcdesalutmar.cat](http://www.parcdesalutmar.cat)
- - date_published: 2024-05-08T08:49:33.681184+00:00
-
- ## 502 Bad Gateway
- - [https://peertube.public.cat](https://peertube.public.cat)
- - date_published: 2024-04-29T06:00:22.458550+00:00
-
- ## ShiSH.cat
- - [https://shish.cat](https://shish.cat)
- - date_published: 2024-05-11T10:07:48.644215+00:00
-
- ## sizeof(cat)
- - [https://sizeof.cat](https://sizeof.cat)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## soggy cat
- - [https://soggy.cat](https://soggy.cat)
- - date_published: 2024-05-08T10:45:11.258764+00:00
-
- ## TecnoCampus | Centres adscrits a la Universitat Pompeu Fabra i Parc empresarial
- - [http://www.tecnocampus.cat](http://www.tecnocampus.cat)
- - date_published: 2024-05-07T22:00:07.643019+00:00
-
- ## The Cozy Cat – Welcome to my cozy corner of the internet.
- - [https://cottage.thecozy.cat](https://cottage.thecozy.cat)
- - date_published: 2024-04-30T05:41:18.535012+00:00
 

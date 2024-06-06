@@ -1,3 +1,154 @@
+ ## Global drinks industry news, analysis and brand updates
+ - [http://drinksint.com](http://drinksint.com)
+ - date_published: 2024-05-02T11:54:15.174351+00:00
+
+ ## Glacéau smartwater - Original Products & Details | Coca-Cola US
+ - [https://www.drinksmartwater.com](https://www.drinksmartwater.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Shop Coffee | Coffee Subscription | Trade
+ - [https://www.drinktrade.com](https://www.drinktrade.com)
+ - date_published: 2024-05-01T07:46:54.320670+00:00
+
+ ## Irrigation Supplies at Drip Depot
+ - [https://www.dripdepot.com](https://www.dripdepot.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## DRIVE™
+ - [https://drivecomic.com](https://drivecomic.com)
+ - date_published: 2024-05-13T03:15:00.454372+00:00
+
+ ## Driven Coffee Roasters: Buy the Best Coffee Beans Online
+ - [https://www.drivencoffee.com](https://www.drivencoffee.com)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Your Future Car Rental | SHARE NOW International
+ - [https://www.drive-now.com](https://www.drive-now.com)
+ - date_published: 2024-05-01T03:57:01.586039+00:00
+
+ ## FCA DrivePlus Mastercard. Drive for Rewards starts here.
+ - [https://www.drivepluscard.com](https://www.drivepluscard.com)
+ - date_published: 2024-05-04T05:57:21.242069+00:00
+
+ ## DMV Test - Free Practice Permit Test | DriverKnowledge.com
+ - [https://www.driverknowledge.com](https://www.driverknowledge.com)
+ - date_published: 2014-07-14T08:41:46+00:00
+
+ ## Find all the drivers for download, update PC
+ - [https://www.driverscloud.com](https://www.driverscloud.com)
+ - date_published: 2024-05-08T06:47:56.649862+00:00
+
+ ## https://driverscoops.com
+ - [https://driverscoops.com](https://driverscoops.com)
+ - date_published: 2023-10-25T13:58:44.198864+00:00
+
+ ## Drive Shack: Golf Range, Interactive Games, Food & Drinks
+ - [https://www.driveshack.com](https://www.driveshack.com)
+ - date_published: 2024-05-07T16:18:06.139164+00:00
+
+ ## DriveThruCards.com - Connecting card game designers and players
+ - [https://www.drivethrucards.com](https://www.drivethrucards.com)
+ - date_published: 2000-01-01T00:00:00+00:00
+ - tags: ['shop', 'magazines']
+
+ ## DriveThruRPG
+ - [https://preview.drivethrucomics.com](https://preview.drivethrucomics.com)
+ - date_published: 2024-05-01T07:47:02.700255+00:00
+
+ ## DriveThruComics.com - The First Download Comic Shop
+ - [https://www.drivethrucomics.com](https://www.drivethrucomics.com)
+ - date_published: 2000-01-01T00:00:00+00:00
+ - tags: ['shop', 'magazines']
+
+ ## DriveThruFiction.com - The best in downloadable fiction titles
+ - [https://www.drivethrufiction.com](https://www.drivethrufiction.com)
+ - date_published: 2024-01-22T10:00:24+00:00
+ - tags: ['shop', 'magazines']
+
+ ## DriveThruRPG.com - The Largest RPG Download Store!
+ - [https://legacy.drivethrurpg.com](https://legacy.drivethrurpg.com)
+ - date_published: 2024-05-01T05:43:04.449981+00:00
+
+ ## DriveThruRPG
+ - [https://preview.drivethrurpg.com](https://preview.drivethrurpg.com)
+ - date_published: 2023-10-27T07:46:17.734170+00:00
+ - tags: ['shop', 'magazines']
+
+ ## DriveThruRPG
+ - [https://www.drivethrurpg.com](https://www.drivethrurpg.com)
+ - date_published: 2024-04-28T05:55:14.473911+00:00
+
+ ## Dr. John Bergman D.C.
+ - [https://drjohnbergman.com](https://drjohnbergman.com)
+ - date_published: 2024-05-08T03:35:54.138121+00:00
+
+ ## Dr Karl | an answer looking for a question
+ - [https://drkarl.com](https://drkarl.com)
+ - date_published: 2023-12-02T20:11:08.430448+00:00
+
+ ## Dr. Lindsey Fitzharris • Dr. Lindsey Fitzharris
+ - [https://drlindseyfitzharris.com](https://drlindseyfitzharris.com)
+ - date_published: 2024-02-22T16:55:40.329543+00:00
+
+ ## Consulting with David R. MacIver
+ - [https://consulting.drmaciver.com](https://consulting.drmaciver.com)
+ - date_published: 2024-05-01T07:47:12.692679+00:00
+
+ ## David R. MacIver
+ - [https://drmaciver.com](https://drmaciver.com)
+ - date_published: 2024-05-01T07:47:15.318420+00:00
+ - tags: ['personal']
+
+ ## Thoughts from David R. MacIver
+ - [https://notebook.drmaciver.com](https://notebook.drmaciver.com)
+ - date_published: 2024-02-08T22:19:25.831862+00:00
+
+ ## David R. MacIver
+ - [https://www.drmaciver.com](https://www.drmaciver.com)
+ - date_published: 2024-01-31T17:45:45.567034+00:00
+
+ ## Dr.Mani - Writing From The Heart
+ - [https://drmani.com](https://drmani.com)
+ - date_published: 2024-04-03T12:44:44.353945+00:00
+ - tags: ['personal']
+
+ ## Dr.Mani - Author. Heart Surgeon. Fund Raiser.
+ - [https://www.drmani.com](https://www.drmani.com)
+ - date_published: 2023-12-20T11:46:05.266048+00:00
+ - tags: ['personal']
+
+ ## drhastings | Instagram | Linktree
+ - [http://drmcninja.com](http://drmcninja.com)
+ - date_published: 2019-12-20T00:00:00+00:00
+
+ ## drhastings | Instagram | Linktree
+ - [http://www.drmcninja.com](http://www.drmcninja.com)
+ - date_published: 2019-12-20T00:00:00+00:00
+
+ ## Dr. Mindy Pelz
+ - [https://drmindypelz.com](https://drmindypelz.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## DRMTLGY - Medical Grade Skin Care | Official Site
+ - [https://www.drmtlgy.com](https://www.drmtlgy.com)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## DrNegri.com
+ - [https://drnegri.com](https://drnegri.com)
+ - date_published: 2024-05-06T16:49:20.469142+00:00
+
+ ## TheDuranShop
+ - [http://drnshop.com](http://drnshop.com)
+ - date_published: 2024-05-08T03:35:23.472001+00:00
+
+ ## Vadim Drobinin: iOS consultant and software engineer
+ - [https://drobinin.com](https://drobinin.com)
+ - date_published: 2024-01-14T17:10:41.162993+00:00
+
+ ## drodigger
+ - [https://www.drodigger.com](https://www.drodigger.com)
+ - date_published: 2024-05-01T04:29:26.294452+00:00
+
  ## drodin.com
  - [https://drodin.com](https://drodin.com)
  - date_published: 2021-01-01T00:00:00+00:00
@@ -425,6 +576,7 @@
  ## Dumb Password Rules
  - [https://dumbpasswordrules.com](https://dumbpasswordrules.com)
  - date_published: 2023-10-25T13:59:43.811839+00:00
+ - tags: ['passwords']
 
  ## The Dumbphones Blog · The Dumbphones Blog
  - [https://dumbph.com](https://dumbph.com)
@@ -3961,154 +4113,4 @@
  ## Embarcadero RAD Studio, Delphi, & C++Builder Blogs
  - [https://blogs.embarcadero.com](https://blogs.embarcadero.com)
  - date_published: 2023-10-25T14:06:20.365385+00:00
-
- ## Celebrating Delphi's 29th Anniversary – Rapid Application Development
- - [https://delphi.embarcadero.com](https://delphi.embarcadero.com)
- - date_published: 2024-05-02T07:51:47.432517+00:00
-
- ## Embarcadero GetIt
- - [https://getitnow.embarcadero.com](https://getitnow.embarcadero.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Registered Products Portal
- - [https://my.embarcadero.com](https://my.embarcadero.com)
- - date_published: 2024-05-02T07:51:38.968303+00:00
-
- ## Embarcadero Cross-Platform App Development Software
- - [https://www.embarcadero.com](https://www.embarcadero.com)
- - date_published: 2023-10-25T14:06:28.486531+00:00
- - tags: ['company', 'programming ide']
-
- ## | Embarcadero Media |
- - [https://embarcaderomediagroup.com](https://embarcaderomediagroup.com)
- - date_published: 2024-05-06T22:28:20.036819+00:00
-
- ## Home - Embark Studios
- - [https://careers.embark-studios.com](https://careers.embark-studios.com)
- - date_published: 2024-05-08T00:41:37.620671+00:00
-
- ## Embark Studios
- - [https://embark-studios.com](https://embark-studios.com)
- - date_published: 2024-05-04T15:30:13.922498+00:00
-
- ## Embecosm – The Open Source Software Tool Chain Experts
- - [https://www.embecosm.com](https://www.embecosm.com)
- - date_published: 2024-05-04T15:30:22.621358+00:00
- - tags: ['open source']
-
- ## Embedded: News & Resources For The Electronics Community
- - [https://embedded.com](https://embedded.com)
- - date_published: 2024-05-01T19:51:36.883027+00:00
-
- ## Embedded: News & Resources For The Electronics Community
- - [https://www.embedded.com](https://www.embedded.com)
- - date_published: 2024-05-01T08:29:13.560628+00:00
- - tags: ['embedded', 'tech news']
-
- ## Home - Embedded Artistry
- - [https://embeddedartistry.com](https://embeddedartistry.com)
- - date_published: 2023-10-25T14:06:31.554945+00:00
- - tags: ['embedded systemem', 'programming']
-
- ## Home
- - Embedded Computing Design
- - [https://embeddedcomputing.com](https://embeddedcomputing.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## EmbeddedRelated.com - All About Embedded Systems
- - [https://www.embeddedrelated.com](https://www.embeddedrelated.com)
- - date_published: 2024-04-24T12:50:36.313655+00:00
- - tags: ['embedded systems']
-
- ## embeddedTS | Industrial Embedded Computing Solutions
- - [https://embeddedts.com](https://embeddedts.com)
- - date_published: 2024-05-08T05:46:54.651789+00:00
-
- ## Burkhard Stubert – The Specialist in Smart User Interfaces for Industrial Machinery
- - [https://embeddeduse.com](https://embeddeduse.com)
- - date_published: 2023-10-25T14:06:38.483095+00:00
-
- ## EmbedQuiz
- - [https://app.embedquiz.com](https://app.embedquiz.com)
- - date_published: 2024-05-02T07:52:08.056355+00:00
-
- ## Free quiz maker with unlimited responses - EmbedQuiz
- - [https://embedquiz.com](https://embedquiz.com)
- - date_published: 2023-10-25T14:06:42.402334+00:00
-
- ## EmbedSocial
- - [https://embedsocial.com](https://embedsocial.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## API Reference
- - [https://api-docs.embedworkflow.com](https://api-docs.embedworkflow.com)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Embed Workflow Blog
- - [https://blog.embedworkflow.com](https://blog.embedworkflow.com)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Workflow Infrastructure for Developers by Embed Workflow.
- - [https://embedworkflow.com](https://embedworkflow.com)
- - date_published: 2023-10-25T14:06:45.604536+00:00
-
- ## API Reference
- - [https://ui-docs.embedworkflow.com](https://ui-docs.embedworkflow.com)
- - date_published: 2024-05-02T07:52:12.921431+00:00
-
- ## Ember.js - A framework for ambitious web developers
- - [https://emberjs.com](https://emberjs.com)
- - date_published: 2024-05-06T09:10:58.004350+00:00
-
- ## EmberMap
- - [https://embermap.com](https://embermap.com)
- - date_published: 2024-05-06T13:04:13.977212+00:00
-
- ## embeX – Your embedded eXperts - Führender Dienstleister für Safety, Security und Explosionsschutz
- - [https://www.embex-engineering.com](https://www.embex-engineering.com)
- - date_published: 2024-04-29T04:46:26.645037+00:00
-
- ## Home - Embracer Group
- - [https://embracer.com](https://embracer.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Embrace The Red - Cybersecurity Attacks and Red Team Strategies
- - [https://embracethered.com](https://embracethered.com)
- - date_published: 2023-11-13T17:47:37.808032+00:00
-
- ## Portal Embraer
- - [http://www.embraer.com](http://www.embraer.com)
- - date_published: 2024-05-09T06:48:56.920850+00:00
-
- ## Emergence Capital. We invest in people who change the way the world works.
- - [https://www.emcap.com](https://www.emcap.com)
- - date_published: 2024-05-06T13:40:24.941285+00:00
-
- ## High Frequency Measurements Site Index
- - [https://emcesd.com](https://emcesd.com)
- - date_published: 2023-10-25T14:06:50.177934+00:00
-
- ## eM Client - Email Client and Calendar Software for Windows and Mac
- - [https://cz.emclient.com](https://cz.emclient.com)
- - date_published: 2024-05-02T07:54:56.154842+00:00
-
- ## eM Client - Email Client and Calendar Software for Windows and Mac
- - [https://de.emclient.com](https://de.emclient.com)
- - date_published: 2024-05-02T07:54:05.277314+00:00
-
- ## eM Client - Email Client and Calendar Software for Windows and Mac
- - [https://emclient.com](https://emclient.com)
- - date_published: 2024-05-02T07:54:29.382543+00:00
-
- ## eM Client - Email Client and Calendar Software for Windows and Mac
- - [https://es.emclient.com](https://es.emclient.com)
- - date_published: 2024-05-02T07:54:41.457984+00:00
-
- ## eM Client
- - [https://forum.emclient.com](https://forum.emclient.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## eM Client - Client de messagerie et logiciel de calendrier pour Windows et macOS
- - [https://fr.emclient.com](https://fr.emclient.com)
- - date_published: 2024-05-02T07:54:19.189276+00:00
 

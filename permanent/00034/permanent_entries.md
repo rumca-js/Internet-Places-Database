@@ -1,3 +1,539 @@
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://startups.medicaltechoutlook.com](https://startups.medicaltechoutlook.com)
+ - date_published: 2024-05-07T14:00:07.677530+00:00
+
+ ## Medical World News
+ - [http://medicalworldnews.com](http://medicalworldnews.com)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Medical World News
+ - [https://www.medicalworldnews.com](https://www.medicalworldnews.com)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Medical Xpress - medical research advances and health news
+ - [https://medicalxpress.com](https://medicalxpress.com)
+ - date_published: 2023-10-25T10:46:01.116429+00:00
+
+ ## Medicine Hat News
+ - [https://medicinehatnews.com](https://medicinehatnews.com)
+ - date_published: 2024-05-06T21:30:35.823816+00:00
+
+ ## MedicineNet - Health and Medical Information Produced by Doctors
+ - [https://www.medicinenet.com](https://www.medicinenet.com)
+ - date_published: 2024-05-02T12:08:48.631156+00:00
+
+ ## Medien und Bildung RLP: Medien und Bildung RLP
+ - [http://medienundbildung.com](http://medienundbildung.com)
+ - date_published: 2024-05-07T23:40:34.830217+00:00
+
+ ## Medievia - Do You Dare Enter?
+ - [https://www.medievia.com](https://www.medievia.com)
+ - date_published: 2024-03-27T20:51:11.183692+00:00
+ - tags: ['mud game']
+
+ ## mediocregopher's lil web corner
+ - [https://mediocregopher.com](https://mediocregopher.com)
+ - date_published: 2024-02-19T05:01:38.203415+00:00
+
+ ## 504 Gateway Time-out
+ - [https://medispank.com](https://medispank.com)
+ - date_published: 2024-01-09T02:43:41.258516+00:00
+
+ ## - Meditación y Psicología
+ - [https://meditacionypsicologia.com](https://meditacionypsicologia.com)
+ - date_published: 2023-12-20T19:15:11.085725+00:00
+ - tags: ['personal']
+
+ ## Paul Greenberg – Medium
+ - [https://4fishgreenberg.medium.com](https://4fishgreenberg.medium.com)
+ - date_published: 2023-10-25T10:18:26.978914+00:00
+
+ ## 7h3h4ckv157 – Medium
+ - [https://7h3h4ckv157.medium.com](https://7h3h4ckv157.medium.com)
+ - date_published: 2024-05-11T08:32:27.865885+00:00
+ - tags: ['personal']
+
+ ## Alexander Adamov – Medium
+ - [https://aadamov.medium.com](https://aadamov.medium.com)
+ - date_published: 2024-02-08T17:51:08.104135+00:00
+
+ ## Medium
+ - [https://aaryanapex.medium.com](https://aaryanapex.medium.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Abby Aker – Medium
+ - [https://abbyaker.medium.com](https://abbyaker.medium.com)
+ - date_published: 2024-05-11T09:23:23.073284+00:00
+
+ ## Aaron Billings – Medium
+ - [https://abdevelops.medium.com](https://abdevelops.medium.com)
+ - date_published: 2024-02-08T22:16:08.656155+00:00
+
+ ## Abhishek Maheshwarappa – Medium
+ - [https://abhishek-maheshwarappa.medium.com](https://abhishek-maheshwarappa.medium.com)
+ - date_published: 2024-02-08T17:36:14.230997+00:00
+
+ ## The Data Observer – Medium
+ - [https://acceldataio.medium.com](https://acceldataio.medium.com)
+ - date_published: 2023-10-25T10:18:29.480316+00:00
+
+ ## ACM CSCW – Medium
+ - [https://acm-cscw.medium.com](https://acm-cscw.medium.com)
+ - date_published: 2024-05-12T06:00:29.526616+00:00
+
+ ## Jeremy Keith – Medium
+ - [https://adactio.medium.com](https://adactio.medium.com)
+ - date_published: 2024-02-17T00:00:00+00:00
+
+ ## Admiral Cloudberg – Medium
+ - [https://admiralcloudberg.medium.com](https://admiralcloudberg.medium.com)
+ - date_published: 2023-10-25T10:18:31.319523+00:00
+
+ ## Adriana Sim – Medium
+ - [https://adrianasim.medium.com](https://adrianasim.medium.com)
+ - date_published: 2024-02-08T17:47:48.359467+00:00
+
+ ## adrian cockcroft – Medium
+ - [https://adrianco.medium.com](https://adrianco.medium.com)
+ - date_published: 2023-10-25T10:18:33.437352+00:00
+
+ ## Joakim Ahnfelt-Rønne – Medium
+ - [https://ahnfelt.medium.com](https://ahnfelt.medium.com)
+ - date_published: 2024-06-01T04:51:12.623401+00:00
+ - tags: ['personal']
+
+ ## AI2 – Medium
+ - [https://ai2.medium.com](https://ai2.medium.com)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Sander Mertens – Medium
+ - [https://ajmmertens.medium.com](https://ajmmertens.medium.com)
+ - date_published: 2023-10-25T10:18:35.461737+00:00
+
+ ## Akshay Raveendran – Medium
+ - [https://akshayraveendran.medium.com](https://akshayraveendran.medium.com)
+ - date_published: 2023-11-01T08:42:30.094336+00:00
+
+ ## Aksh Garg – Medium
+ - [https://aksh-garg.medium.com](https://aksh-garg.medium.com)
+ - date_published: 2024-05-28T22:18:22.803338+00:00
+
+ ## Alaina Kafkes – Medium
+ - [https://alainakafkes.medium.com](https://alainakafkes.medium.com)
+ - date_published: 2024-05-07T22:59:56.414177+00:00
+
+ ## Alen Tred – Medium
+ - [https://alentred.medium.com](https://alentred.medium.com)
+ - date_published: 2023-10-25T10:18:37.466546+00:00
+
+ ## Ale Patrón – Medium
+ - [https://alep.medium.com](https://alep.medium.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Alexandre Olive – Medium
+ - [https://alexandreolive.medium.com](https://alexandreolive.medium.com)
+ - date_published: 2023-10-25T10:18:39.600805+00:00
+
+ ## Alexis Lloyd – Medium
+ - [https://alexis.medium.com](https://alexis.medium.com)
+ - date_published: 2024-05-11T09:23:57.659332+00:00
+
+ ## Alexander Obenauer – Medium
+ - [https://alexobenauer.medium.com](https://alexobenauer.medium.com)
+ - date_published: 2024-05-01T03:04:33.052204+00:00
+
+ ## Ali H Khanafer – Medium
+ - [https://ali-h-khanafer.medium.com](https://ali-h-khanafer.medium.com)
+ - date_published: 2024-04-30T07:42:58.143417+00:00
+
+ ## Ali – Medium
+ - [https://ali.medium.com](https://ali.medium.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## allen farrington – Medium
+ - [https://allenfarrington.medium.com](https://allenfarrington.medium.com)
+ - date_published: 2024-05-01T00:32:56.406102+00:00
+
+ ## Annie Altman – Medium
+ - [https://allhumansarehuman.medium.com](https://allhumansarehuman.medium.com)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Aloha Browser – Medium
+ - [https://alohabrowser.medium.com](https://alohabrowser.medium.com)
+ - date_published: 2024-05-01T03:17:50.963671+00:00
+
+ ## Maryam Alsayed – Medium
+ - [https://alsayedmi.medium.com](https://alsayedmi.medium.com)
+ - date_published: 2024-02-08T21:50:59.498293+00:00
+
+ ## Anand Tyagi – Medium
+ - [https://anandtyagi.medium.com](https://anandtyagi.medium.com)
+ - date_published: 2023-10-25T16:00:43.989533+00:00
+ - tags: ['personal']
+
+ ## Chris Anderson – Medium
+ - [https://andersonchris.medium.com](https://andersonchris.medium.com)
+ - date_published: 2024-05-04T15:02:47.285969+00:00
+
+ ## Andreas Naoum – Medium
+ - [https://andreasnaoum.medium.com](https://andreasnaoum.medium.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Andrew S Klug // ASK – Medium
+ - [https://andrew-s-klug.medium.com](https://andrew-s-klug.medium.com)
+ - date_published: 2024-05-12T04:25:44.389605+00:00
+
+ ## Andy Walker – Medium
+ - [https://andzwa.medium.com](https://andzwa.medium.com)
+ - date_published: 2023-10-25T10:18:41.766784+00:00
+
+ ## Angus Montgomery – Medium
+ - [https://angusmontgomery.medium.com](https://angusmontgomery.medium.com)
+ - date_published: 2024-04-30T06:28:08.905281+00:00
+
+ ## Antti Havanko – Medium
+ - [https://anttihavanko.medium.com](https://anttihavanko.medium.com)
+ - date_published: 2024-05-04T08:33:15.406726+00:00
+
+ ## Ariel Meadow Stallings – Medium
+ - [https://arielist.medium.com](https://arielist.medium.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Armin B. Puehringer – Medium
+ - [https://arminpuehringer.medium.com](https://arminpuehringer.medium.com)
+ - date_published: 2024-02-08T16:21:27.740998+00:00
+
+ ## Artist Rights Alliance – Medium
+ - [https://artistrightsnow.medium.com](https://artistrightsnow.medium.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Ashan Priyadarshana – Medium
+ - [https://ashanpriyadarshana.medium.com](https://ashanpriyadarshana.medium.com)
+ - date_published: 2024-05-04T08:34:10.398562+00:00
+
+ ## Ashley Lim – Medium
+ - [https://ashleylim.medium.com](https://ashleylim.medium.com)
+ - date_published: 2024-05-06T13:17:25.306842+00:00
+ - tags: ['personal']
+
+ ## Avi Loeb – Medium
+ - [https://avi-loeb.medium.com](https://avi-loeb.medium.com)
+ - date_published: 2023-10-25T10:18:43.733455+00:00
+
+ ## Babylon.js – Medium
+ - [https://babylonjs.medium.com](https://babylonjs.medium.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Medium
+ - [https://barryleung.medium.com](https://barryleung.medium.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Bashir – Medium
+ - [https://bashiralhanshali.medium.com](https://bashiralhanshali.medium.com)
+ - date_published: 2024-02-08T22:52:31.160961+00:00
+
+ ## Behdad Esfahbod – Medium
+ - [https://behdadesfahbod.medium.com](https://behdadesfahbod.medium.com)
+ - date_published: 2023-10-25T10:18:46.008539+00:00
+
+ ## Marianne Bellotti – Medium
+ - [https://bellmar.medium.com](https://bellmar.medium.com)
+ - date_published: 2023-10-25T10:18:48.828996+00:00
+
+ ## Ben Kehoe – Medium
+ - [https://ben11kehoe.medium.com](https://ben11kehoe.medium.com)
+ - date_published: 2024-03-01T06:00:54.588354+00:00
+
+ ## Ben Einstein – Medium
+ - [https://beneinstein.medium.com](https://beneinstein.medium.com)
+ - date_published: 2023-10-25T10:18:51.271180+00:00
+
+ ## Benya Clark – Medium
+ - [https://benyaclark.medium.com](https://benyaclark.medium.com)
+ - date_published: 2024-02-08T16:45:53.072106+00:00
+
+ ## Bilal Mahmood – Medium
+ - [https://bilalmahmood.medium.com](https://bilalmahmood.medium.com)
+ - date_published: 2023-10-25T10:18:53.537436+00:00
+
+ ## Xin Cheng – Medium
+ - [https://billtcheng2013.medium.com](https://billtcheng2013.medium.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Billy Chasen – Medium
+ - [https://billychasen.medium.com](https://billychasen.medium.com)
+ - date_published: 2023-10-25T10:18:55.524086+00:00
+
+ ## Billy Lo – Medium
+ - [https://billylo.medium.com](https://billylo.medium.com)
+ - date_published: 2024-06-01T04:56:22.628191+00:00
+
+ ## The Medium Blog
+ - [https://blog.medium.com](https://blog.medium.com)
+ - date_published: 2023-10-25T10:18:57.853664+00:00
+
+ ## Vladimir Smirnov – Medium
+ - [https://boredengineer.medium.com](https://boredengineer.medium.com)
+ - date_published: 2023-10-25T10:18:59.986959+00:00
+
+ ## Bruce Sterling – Medium
+ - [https://bruces.medium.com](https://bruces.medium.com)
+ - date_published: 2023-10-25T10:19:02.375482+00:00
+
+ ## Buster Benson – Medium
+ - [https://buster.medium.com](https://buster.medium.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Bárbara Vieira – Medium
+ - [https://b-vieira.medium.com](https://b-vieira.medium.com)
+ - date_published: 2024-05-01T03:47:20.550977+00:00
+ - tags: ['personal']
+
+ ## Byrne Hobart – Medium
+ - [https://byrnehobart.medium.com](https://byrnehobart.medium.com)
+ - date_published: 2023-10-25T10:19:04.794986+00:00
+
+ ## Catherine Andrews – Medium
+ - [https://candrews.medium.com](https://candrews.medium.com)
+ - date_published: 2023-10-25T10:19:07.319497+00:00
+
+ ## Carlos Arguelles – Medium
+ - [https://carloarg02.medium.com](https://carloarg02.medium.com)
+ - date_published: 2023-11-14T03:03:34.674567+00:00
+
+ ## Casey Fiesler – Medium
+ - [https://cfiesler.medium.com](https://cfiesler.medium.com)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Chang Jun Cho – Medium
+ - [https://changjuc.medium.com](https://changjuc.medium.com)
+ - date_published: 2024-02-08T17:46:27.277208+00:00
+
+ ## Chenny Ren – Medium
+ - [https://chennylmf.medium.com](https://chennylmf.medium.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Medium
+ - [https://cherp.medium.com](https://cherp.medium.com)
+ - date_published: 2023-10-25T10:19:08.602659+00:00
+
+ ## Chet Haase – Medium
+ - [https://chethaase.medium.com](https://chethaase.medium.com)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## Chris Stoneman – Medium
+ - [https://chrisstoneman.medium.com](https://chrisstoneman.medium.com)
+ - date_published: 2024-02-03T19:51:36.051962+00:00
+ - tags: ['personal']
+
+ ## Christine Vallaure – Medium
+ - [https://christinevallaure.medium.com](https://christinevallaure.medium.com)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## Charles Chen – Medium
+ - [https://chrlschn.medium.com](https://chrlschn.medium.com)
+ - date_published: 2023-10-25T10:19:10.864666+00:00
+
+ ## Clive Thompson – Medium
+ - [https://clivethompson.medium.com](https://clivethompson.medium.com)
+ - date_published: 2023-10-25T10:19:18.196307+00:00
+
+ ## Clockwork Labs – Medium
+ - [https://clockwork-labs.medium.com](https://clockwork-labs.medium.com)
+ - date_published: 2024-05-09T05:53:27.800793+00:00
+
+ ## Cole Frederick – Medium
+ - [https://colefp.medium.com](https://colefp.medium.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Corinne Marie Riley – Medium
+ - [https://corinneriley.medium.com](https://corinneriley.medium.com)
+ - date_published: 2024-05-06T13:48:54.394508+00:00
+ - tags: ['personal']
+
+ ## Cortical Labs – Medium
+ - [https://corticallabs.medium.com](https://corticallabs.medium.com)
+ - date_published: 2024-05-08T06:45:14.590315+00:00
+
+ ## Andrew Coyle – Medium
+ - [https://coyleandrew.medium.com](https://coyleandrew.medium.com)
+ - date_published: 2024-01-10T20:25:33.997993+00:00
+
+ ## Arthur Hayes – Medium
+ - [https://cryptohayes.medium.com](https://cryptohayes.medium.com)
+ - date_published: 2023-10-25T10:19:20.082601+00:00
+
+ ## CtrlAlt – Medium
+ - [https://ctrlalt.medium.com](https://ctrlalt.medium.com)
+ - date_published: 2024-02-16T13:25:29.542268+00:00
+
+ ## Christina Wodtke – Medium
+ - [https://cwodtke.medium.com](https://cwodtke.medium.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Craig Younkins – Medium
+ - [https://cyounkins.medium.com](https://cyounkins.medium.com)
+ - date_published: 2023-10-25T10:19:22.286315+00:00
+
+ ## Dan Hislop – Medium
+ - [https://danhislop.medium.com](https://danhislop.medium.com)
+ - date_published: 2024-02-08T17:06:16.746423+00:00
+
+ ## Danny Chung, MBA,Associate CISSP, GCIA, GCIH, GSEC – Medium
+ - [https://danny-chung.medium.com](https://danny-chung.medium.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Takahiko Kawasaki – Medium
+ - [https://darutk.medium.com](https://darutk.medium.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## DataFinnovation - ChainArgos - 4AC – Medium
+ - [https://datafinnovation.medium.com](https://datafinnovation.medium.com)
+ - date_published: 2023-10-25T10:19:24.661478+00:00
+
+ ## DataStax – Medium
+ - [https://datastax.medium.com](https://datastax.medium.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## DS - VRP – Medium
+ - [https://datavrpscience.medium.com](https://datavrpscience.medium.com)
+ - date_published: 2024-02-08T16:32:00.203010+00:00
+
+ ## Dave On Cyber – Medium
+ - [https://daveoncyber.medium.com](https://daveoncyber.medium.com)
+ - date_published: 2024-05-01T04:10:40.079101+00:00
+
+ ## David Delassus – Medium
+ - [https://david-delassus.medium.com](https://david-delassus.medium.com)
+ - date_published: 2023-10-25T10:19:26.852264+00:00
+
+ ## Davide Wiest – Medium
+ - [https://davidewiest.medium.com](https://davidewiest.medium.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## David Gilbertson – Medium
+ - [https://david-gilbertson.medium.com](https://david-gilbertson.medium.com)
+ - date_published: 2023-10-25T10:19:29.708680+00:00
+
+ ## David Mokotoff, MD – Medium
+ - [https://davidmokotoff.medium.com](https://davidmokotoff.medium.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## David Fu – Medium
+ - [https://davidthefu.medium.com](https://davidthefu.medium.com)
+ - date_published: 2024-04-30T06:35:07.660414+00:00
+ - tags: ['personal']
+
+ ## David Varghese – Medium
+ - [https://david-varghese.medium.com](https://david-varghese.medium.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Debugger
+ - [https://debugger.medium.com](https://debugger.medium.com)
+ - date_published: 2023-10-25T10:19:31.889138+00:00
+
+ ## Delphine Brunetière – Medium
+ - [https://delphinebrunetiere.medium.com](https://delphinebrunetiere.medium.com)
+ - date_published: 2024-02-08T22:51:38.649958+00:00
+
+ ## David Lu – Medium
+ - [https://delu.medium.com](https://delu.medium.com)
+ - date_published: 2023-10-25T10:19:34.250111+00:00
+
+ ## Dennis Sanders – Medium
+ - [https://dennissanders.medium.com](https://dennissanders.medium.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Denys Linkov – Medium
+ - [https://denyslinkov.medium.com](https://denyslinkov.medium.com)
+ - date_published: 2023-10-25T10:19:36.501051+00:00
+
+ ## Devrim Danyal – Medium
+ - [https://devrimdanyal.medium.com](https://devrimdanyal.medium.com)
+ - date_published: 2024-04-28T03:56:06.313236+00:00
+
+ ## Dave Feldman – Medium
+ - [https://dfeldman.medium.com](https://dfeldman.medium.com)
+ - date_published: 2023-10-25T10:19:38.830473+00:00
+
+ ## Dikshant Rajput – Medium
+ - [https://dikshantraj2001.medium.com](https://dikshantraj2001.medium.com)
+ - date_published: 2024-04-07T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Thomas Ricouard – Medium
+ - [https://dimillian.medium.com](https://dimillian.medium.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Dirk Petersen – Medium
+ - [https://dirk-petersen.medium.com](https://dirk-petersen.medium.com)
+ - date_published: 2024-03-16T10:31:53.536080+00:00
+
+ ## Pardis Noorzad – Medium
+ - [https://djpardis.medium.com](https://djpardis.medium.com)
+ - date_published: 2023-10-25T10:19:41.017651+00:00
+
+ ## Deepti Kannapan – Medium
+ - [https://dkannapan.medium.com](https://dkannapan.medium.com)
+ - date_published: 2024-05-01T04:31:27.917950+00:00
+
+ ## Jan Carroza – Medium
+ - [https://dmcenter.medium.com](https://dmcenter.medium.com)
+ - date_published: 2024-05-01T05:42:53.346354+00:00
+ - tags: ['personal']
+
+ ## Dmitry Kan – Medium
+ - [https://dmitry-kan.medium.com](https://dmitry-kan.medium.com)
+ - date_published: 2023-10-25T10:19:43.394552+00:00
+
+ ## Doc Burford – Medium
+ - [https://docseuss.medium.com](https://docseuss.medium.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Cory Doctorow – Medium
+ - [https://doctorow.medium.com](https://doctorow.medium.com)
+ - date_published: 2023-10-25T08:57:40.550974+00:00
+ - tags: ['personal']
+
+ ## Don Hopkins – Medium
+ - [https://donhopkins.medium.com](https://donhopkins.medium.com)
+ - date_published: 2023-10-25T10:19:46.013612+00:00
+ - tags: ['personal']
+
+ ## Douglas Balmain – Medium
+ - [https://douglasbalmain.medium.com](https://douglasbalmain.medium.com)
+ - date_published: 2024-02-08T17:34:58.599115+00:00
+
+ ## Doug Shapiro – Medium
+ - [https://dougshapiro.medium.com](https://dougshapiro.medium.com)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Dr. Donna Marks – Medium
+ - [https://drdonnamarks.medium.com](https://drdonnamarks.medium.com)
+ - date_published: 2024-02-08T16:57:29.939239+00:00
+ - tags: ['personal']
+
+ ## Doc Searls – Medium
+ - [https://dsearls.medium.com](https://dsearls.medium.com)
+ - date_published: 2024-04-29T02:48:07.108769+00:00
+
+ ## Dustin Godevais – Medium
+ - [https://dustin-godevais.medium.com](https://dustin-godevais.medium.com)
+ - date_published: 2023-10-25T10:19:54.217237+00:00
+
+ ## Daniel Vassallo – Medium
+ - [https://dvassallo.medium.com](https://dvassallo.medium.com)
+ - date_published: 2023-10-25T10:19:56.210495+00:00
+
+ ## Raju Dawadi – Medium
+ - [https://dwdraju.medium.com](https://dwdraju.medium.com)
+ - date_published: 2023-10-25T10:19:58.595133+00:00
+
+ ## Enrique Dans – Medium
+ - [https://edans.medium.com](https://edans.medium.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
  ## Eduardo – Medium
  - [https://eddiebarth.medium.com](https://eddiebarth.medium.com)
  - date_published: 2024-03-18T00:00:00+00:00
@@ -3577,540 +4113,4 @@
  ## MindLytiX - Your Life Moment
  - [https://mindlytix.com](https://mindlytix.com)
  - date_published: 2024-05-06T17:43:39.628657+00:00
-
- ## MindMeister: Online Mind Mapping and Brainstorming
- - [https://www.mindmeister.com](https://www.mindmeister.com)
- - date_published: 2024-05-11T08:24:31.933414+00:00
-
- ## Minds
- - [https://cdn.minds.com](https://cdn.minds.com)
- - date_published: 2024-05-31T02:31:48.466039+00:00
-
- ## Welcome to your Strapi app
- - [https://cms.minds.com](https://cms.minds.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Minds Docs
- - [https://developers.minds.com](https://developers.minds.com)
- - date_published: 2024-05-01T06:02:29.973869+00:00
-
- ## Own your network | Minds
- - [https://minds.com](https://minds.com)
- - date_published: 2024-05-07T19:08:16.995342+00:00
-
- ## Minds Status
- - [https://status.minds.com](https://status.minds.com)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## Minds
- - [https://support.minds.com](https://support.minds.com)
- - date_published: 2024-05-31T02:31:54.031466+00:00
-
- ## Minds | Minds
- - [https://www.minds.com](https://www.minds.com)
- - date_published: 2024-02-20T17:20:31+00:00
- - tags: ['content creators']
-
- ## Minds Behind Maps
- - [http://mindsbehindmaps.com](http://mindsbehindmaps.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Minds Behind Maps
- - [https://www.mindsbehindmaps.com](https://www.mindsbehindmaps.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## MindsDB - Platform for Customizing AI - MindsDB
- - [https://docs.mindsdb.com](https://docs.mindsdb.com)
- - date_published: 2024-05-11T07:23:55.023262+00:00
-
- ## AI Development Cloud Platform | Real Time AI & ML | Deploy & Manage AI
- - [https://mindsdb.com](https://mindsdb.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## MindsetWorks | Growth Mindset | Growth Mindset Programs
- - [https://www.mindsetworks.com](https://www.mindsetworks.com)
- - date_published: 2024-05-02T13:42:41.764290+00:00
-
- ## (no title)
- - [https://minds-international.com](https://minds-international.com)
- - date_published: 2024-05-11T09:36:19.357094+00:00
-
- ## MindTake Research
- - [https://www.mindtake.com](https://www.mindtake.com)
- - date_published: 2024-05-06T18:01:01.404896+00:00
-
- ## MindTime – The Best Tools for Understanding People
- - [https://mindtime.com](https://mindtime.com)
- - date_published: 2024-05-08T05:14:18.562207+00:00
-
- ## Mindwhirl 2023 - One Page
- - [https://www.mindwhirl.com](https://www.mindwhirl.com)
- - date_published: 2023-10-01T00:00:00+00:00
-
- ## Minecraft Maps
- - [https://www.minecraftmaps.com](https://www.minecraftmaps.com)
- - date_published: 2024-03-21T00:00:00+00:00
- - tags: ['minecraft maps']
-
- ## Minecraft Mods | Mods for Minecraft
- - [https://www.minecraftmods.com](https://www.minecraftmods.com)
- - date_published: 2023-10-25T11:09:27.371524+00:00
- - tags: ['minecraft', 'video game mods']
-
- ## Minecraft PE / Bedrock Mods | MCPE Mods | MCPEDL Mods
- - [https://www.minecraftpemod.com](https://www.minecraftpemod.com)
- - date_published: 2024-05-04T08:55:50.307839+00:00
-
- ## Minecraft Servers - Minecraft Server List
- - [https://minecraft-server-list.com](https://minecraft-server-list.com)
- - date_published: 2023-10-25T11:09:25.967048+00:00
-
- ## https://www.minecraftskins.com
- - [https://www.minecraftskins.com](https://www.minecraftskins.com)
- - date_published: 2023-10-30T15:19:29.516955+00:00
- - tags: ['minecraft']
-
- ## Minecraft Skins | Skins for Minecraft
- - [https://www.minecraftskinshub.com](https://www.minecraftskinshub.com)
- - date_published: 2024-05-04T08:56:05.935944+00:00
-
- ## Minecraft Station - Minecraft tips, tricks, and error solutions
- - [https://www.minecraftstation.com](https://www.minecraftstation.com)
- - date_published: 2023-12-13T16:20:51.592513+00:00
-
- ## Minerva Project
- - [https://www.minervaproject.com](https://www.minervaproject.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Diagrams · Diagram as Code
- - [https://diagrams.mingrammer.com](https://diagrams.mingrammer.com)
- - date_published: 2024-05-08T04:12:32.876036+00:00
-
- ## Miniatua Limited Edition | Home
- - [https://www.miniatua.com](https://www.miniatua.com)
- - date_published: 2023-10-25T16:04:28.404066+00:00
-
- ## Miniature Market - Board Games, Magic The Gathering, Table Top Games, Dungeons & Dragons, Role Playing Games | Miniature Market
- - [https://www.miniaturemarket.com](https://www.miniaturemarket.com)
- - date_published: 2023-10-25T11:19:41.464959+00:00
- - tags: ['miniatures', 'ttrpg']
-
- ## Checking requirements...
- - [http://www.miniatures-workshop.com](http://www.miniatures-workshop.com)
- - date_published: 2024-06-03T12:51:20.882969+00:00
-
- ## MINIBC
- - [https://apps.minibc.com](https://apps.minibc.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Miniclip
- - [https://www.miniclip.com](https://www.miniclip.com)
- - date_published: 2024-05-12T06:56:07.809164+00:00
-
- ## Minify JavaScript - Free JavaScript Compressor
- - [http://www.minifyjavascript.com](http://www.minifyjavascript.com)
- - date_published: 2024-05-07T09:56:43.635118+00:00
-
- ## mini-itx.com - news
- - [http://www.mini-itx.com](http://www.mini-itx.com)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Mini: The Minimal Language
- - [https://minilanguage.com](https://minilanguage.com)
- - date_published: 2023-10-25T16:04:29.104260+00:00
-
- ## minimal changes
- - [https://minimalchanges.com](https://minimalchanges.com)
- - date_published: 2023-10-20T00:00:00+00:00
-
- ## Minimalism Life - Crafting a simpler life with less
- - [https://minimalism.com](https://minimalism.com)
- - date_published: 2024-04-29T06:00:29.283782+00:00
-
- ## Minimalissimo – Minimalism in Design
- - [https://minimalissimo.com](https://minimalissimo.com)
- - date_published: 2024-04-29T06:00:31.208891+00:00
-
- ## Max Woolf's Blog
- - [https://minimaxir.com](https://minimaxir.com)
- - date_published: 2023-10-25T16:04:30.326063+00:00
-
- ## Mini Misfits
- - [https://minimisfits.com](https://minimisfits.com)
- - date_published: 2024-05-01T02:17:10.431139+00:00
-
- ## MINING.COM - No 1 source of global mining news and opinion
- - [https://www.mining.com](https://www.mining.com)
- - date_published: 2023-10-25T16:04:41.697139+00:00
-
- ## Home
- - [https://www.mining-technology.com](https://www.mining-technology.com)
- - date_published: 2024-04-28T05:11:18.487039+00:00
-
- ## miniOrange - Secure It Right
- - [http://miniorange.com](http://miniorange.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Single sign on (SSO) | 2FA | Social Login | Plugins
- - [https://plugins.miniorange.com](https://plugins.miniorange.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## NO BULLSHIT TEXTBOOKS
- - [https://minireference.com](https://minireference.com)
- - date_published: 2024-06-01T04:51:15.845032+00:00
- - tags: ['book']
-
- ## MinisBarter.com - Miniature wargaming marketplace
- - [https://minisbarter.com](https://minisbarter.com)
- - date_published: 2023-10-25T11:11:29.320355+00:00
- - tags: ['tabletop games', 'digital marketplace']
-
- ## minisforum
- - [https://minisforum.com](https://minisforum.com)
- - date_published: 2024-05-20T18:30:58+00:00
-
- ## Minisforum
- - [https://store.minisforum.com](https://store.minisforum.com)
- - date_published: 2024-05-20T09:39:29.044773+00:00
-
- ## minisforum
- - [https://www.minisforum.com](https://www.minisforum.com)
- - date_published: 2024-05-11T11:40:09.145152+00:00
-
- ## Data Analysis, Statistical & Process Improvement Tools | Minitab
- - [https://www.minitab.com](https://www.minitab.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Mini Tokyo 3D
- - [https://minitokyo3d.com](https://minitokyo3d.com)
- - date_published: 2023-10-25T08:25:12.186869+00:00
-
- ## Animal reproduction technologies  | Minitube
- - [https://www.minitube.com](https://www.minitube.com)
- - date_published: 2023-11-27T13:33:12+00:00
-
- ## MiniWarGaming - Warhammer 40K | Age of Sigmar | Battle Reports | Narrative Campaigns
- - [http://www.miniwargaming.com](http://www.miniwargaming.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home - Minnesota Reformer
- - [https://minnesotareformer.com](https://minnesotareformer.com)
- - date_published: 2023-10-25T16:04:44.605436+00:00
-
- ## MinnPost — Nonprofit, independent journalism
- - [https://www.minnpost.com](https://www.minnpost.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Minority Trip Report Podcast Episodes
- - [https://www.minoritytrip.com](https://www.minoritytrip.com)
- - date_published: 2024-05-07T10:05:24.731015+00:00
-
- ## China PTZ Camera, Auto Tracking Camera Manufacturers, Web Camera Suppliers - Minrray
- - [https://www.minrraycam.com](https://www.minrraycam.com)
- - date_published: 2024-05-02T12:50:23.256525+00:00
-
- ## Budget Tracker & Planner | Free Online Money Management | Mint
- - [https://www.mint.com](https://www.mint.com)
- - date_published: 2024-05-04T09:11:53.235548+00:00
-
- ## Mintegral: Data-Driven, Programmatic, and Interactive Ad Platform
- - [https://www.mintegral.com](https://www.mintegral.com)
- - date_published: 2024-05-06T17:41:36.136370+00:00
-
- ## Mintlify - The modern standard for documentation
- - [https://mintlify.com](https://mintlify.com)
- - date_published: 2024-03-17T00:20:14.529873+00:00
-
- ## mintlify Status
- - [https://status.mintlify.com](https://status.mintlify.com)
- - date_published: 2024-05-11T07:23:50.713644+00:00
-
- ## Mint Mobile | Wireless that's Easy, Online, $15 Bucks a Month
- - [https://www.mintmobile.com](https://www.mintmobile.com)
- - date_published: 2023-10-25T08:24:23.034947+00:00
-
- ## MintPress News
- - [https://www.mintpressnews.com](https://www.mintpressnews.com)
- - date_published: 2023-10-25T11:05:23.202392+00:00
-
- ## Subscribe Hindustan times, Mint and Hindustan Hindi newspaper online.
- - [https://www.mintreaders.com](https://www.mintreaders.com)
- - date_published: 2024-05-04T12:59:12.322990+00:00
-
- ## Mint Simon
- - [https://mintsimon.com](https://mintsimon.com)
- - date_published: 2024-05-07T18:37:55.755143+00:00
- - tags: ['personal']
-
- ## Minute Maid® - All Varieties & Products | Coca-Cola US
- - [https://www.minutemaid.com](https://www.minutemaid.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Minuteman Missile
- - [https://minutemanmissile.com](https://minutemanmissile.com)
- - date_published: 2024-03-07T08:02:17.914684+00:00
-
- ## Minute Media - We Power Passion - Tech, Media & Advertising Company
- - [https://www.minutemedia.com](https://www.minutemedia.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## MiOS Apps
- - [http://apps.mios.com](http://apps.mios.com)
- - date_published: 2024-05-14T03:35:22.713000+00:00
-
- ## Home : mipumi.com
- - [https://www.mipumi.com](https://www.mipumi.com)
- - date_published: 2024-05-09T08:31:45.330169+00:00
-
- ## Sign in - Matomo
- - [https://app1.mirabelanalytics.com](https://app1.mirabelanalytics.com)
- - date_published: 2024-05-01T04:33:56.111732+00:00
-
- ## The Miracle Morning
- - [https://www.miraclemorning.com](https://www.miraclemorning.com)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Miradore MDM Software | Smarter Mobile Device Management
- - [https://www.miradore.com](https://www.miradore.com)
- - date_published: 2018-10-25T03:13:06+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.miragefloors.com](https://www.miragefloors.com)
- - date_published: 2024-05-02T09:52:45.143857+00:00
-
- ## Mirage JS • An API mocking library for frontend developers
- - [https://miragejs.com](https://miragejs.com)
- - date_published: 2024-05-06T13:16:17.006863+00:00
-
- ## mIRC: Internet Relay Chat client
- - [https://www.mirc.com](https://www.mirc.com)
- - date_published: 2023-10-25T08:36:59.140579+00:00
- - tags: ['social communicator']
-
- ## Learn Advanced Software Design
- - [https://mirdin.com](https://mirdin.com)
- - date_published: 2024-05-04T15:20:06.660892+00:00
-
- ## Learn Advanced Software Design
- - [https://self-service.mirdin.com](https://self-service.mirdin.com)
- - date_published: 2024-05-06T22:34:08.592648+00:00
-
- ## Learn Advanced Software Design
- - [http://www.mirdin.com](http://www.mirdin.com)
- - date_published: 2024-05-06T22:34:33.517493+00:00
-
- ## МИР ЭСПЕРАНТО
- - [https://miresperanto.com](https://miresperanto.com)
- - date_published: 2024-01-09T02:43:54.014575+00:00
-
- ## Mirha Masala
- - [https://www.mirhamasala.com](https://www.mirhamasala.com)
- - date_published: 2023-11-29T17:11:25.073563+00:00
- - tags: ['personal']
-
- ## MIRIAM EVE MORA, PHD
- - [https://www.miriamevemora.com](https://www.miriamevemora.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Miriam Gordis
- - [https://miriamgordis.com](https://miriamgordis.com)
- - date_published: 2024-05-08T00:40:50.756026+00:00
-
- ## Miriam Eric Suzanne
- - [https://miriamsuzanne.com](https://miriamsuzanne.com)
- - date_published: 2024-05-07T23:26:54.814950+00:00
-
- ## Miriam Eric Suzanne
- - [https://www.miriamsuzanne.com](https://www.miriamsuzanne.com)
- - date_published: 2024-05-07T23:25:44.446009+00:00
-
- ## Miro | The Visual Workspace for Innovation
- - [https://miro.com](https://miro.com)
- - date_published: 2024-02-14T21:45:05+00:00
- - tags: ['project management']
-
- ## Rich Mironov's Product Bytes
- - [https://www.mironov.com](https://www.mironov.com)
- - date_published: 2023-10-25T16:04:55.298712+00:00
-
- ## Click the link to make a call.
- - [https://p2p.mirotalk.com](https://p2p.mirotalk.com)
- - date_published: 2024-04-08T19:30:10.302707+00:00
- - tags: ['self-host', 'video calls']
-
- ## Mirror Bingo: Play Online Bingo, Slot & Casino Games
- - [https://www.mirrorbingo.com](https://www.mirrorbingo.com)
- - date_published: 2024-05-02T11:22:42.199445+00:00
- - tags: ['gambling']
-
- ## Mirror Networking – Open Source Networking for Unity
- - [https://mirror-networking.com](https://mirror-networking.com)
- - date_published: 2024-05-06T21:15:55.045702+00:00
-
- ## Live news, entertainment & features. Breaking news, incredible real life stories and the very best …
- - [https://www.mirrorpix.com](https://www.mirrorpix.com)
- - date_published: 2019-03-20T21:54:24+00:00
-
- ## Mirror | We're the Ruby on Rails & JavaScript Recruiters
- - [https://www.mirrorplacement.com](https://www.mirrorplacement.com)
- - date_published: 2024-05-06T14:29:06.589667+00:00
-
- ## Mirs
- - [http://mirsmusic.com](http://mirsmusic.com)
- - date_published: 2024-05-10T06:41:38.589215+00:00
-
- ## Mirs
- - [https://www.mirsmusic.com](https://www.mirsmusic.com)
- - date_published: 2024-05-10T06:41:22.481495+00:00
-
- ## Misalignment Museum
- - [https://misalignmentmuseum.com](https://misalignmentmuseum.com)
- - date_published: 2024-02-26T09:12:34.053053+00:00
-
- ## Misalignment Museum – Learn about and reflect on the possibilities of AI technology
- - [https://www.misalignmentmuseum.com](https://www.misalignmentmuseum.com)
- - date_published: 2023-10-25T16:05:00.740586+00:00
-
- ## About
- - [https://www.mishalaskin.com](https://www.mishalaskin.com)
- - date_published: 2023-10-25T16:05:02.311743+00:00
-
- ## misha things
- - [https://mishathings.com](https://mishathings.com)
- - date_published: 2024-03-23T00:00:00+00:00
-
- ## MishTalk
- - [https://mishtalk.com](https://mishtalk.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## MiSight® 1 day for myopia control | CooperVision
- - [https://www.misight.com](https://www.misight.com)
- - date_published: 2024-05-09T07:25:23.077567+00:00
-
- ## MisinfoCon
- - [http://www.misinfocon.com](http://www.misinfocon.com)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Misinformation Game: A social-media simulator for research.
- - [https://misinfogame.com](https://misinfogame.com)
- - date_published: 2023-10-25T16:05:03.528783+00:00
-
- ## Misja.com
- - [https://misja.com](https://misja.com)
- - date_published: 2024-05-11T05:41:33.051756+00:00
-
- ## Misse Daniel
- - [https://www.missedaniel.com](https://www.missedaniel.com)
- - date_published: 2024-05-01T04:43:56.326003+00:00
-
- ## MISSENA
- - [https://missena.com](https://missena.com)
- - date_published: 2024-05-06T17:35:17.599829+00:00
-
- ## Home
- - [https://misshosting.com](https://misshosting.com)
- - date_published: 2014-10-03T00:00:00+00:00
-
- ## missingfont - Open Waitlist
- - [https://missingfont.com](https://missingfont.com)
- - date_published: 2024-05-09T06:20:49.673781+00:00
-
- ## PMADs | Mission: Motherhood | United States
- - [https://www.missionmotherhoodfw.com](https://www.missionmotherhoodfw.com)
- - date_published: 2024-05-08T03:44:53.630295+00:00
-
- ## Missive: Team Email, Chat & Tasks
- - [https://missiveapp.com](https://missiveapp.com)
- - date_published: 2024-04-29T04:02:57.867129+00:00
-
- ## Latest updates on Movie News, Bollywood news, Celebrity gossips, Movie Articles
- - [https://www.misskyra.com](https://www.misskyra.com)
- - date_published: 2024-05-06T18:29:23.845226+00:00
-
- ## Home • Missouri Independent
- - [https://missouriindependent.com](https://missouriindependent.com)
- - date_published: 2023-10-25T16:05:06.679051+00:00
-
- ## Art Supplies, Craft Supplies, Artist Materials, Kids' Crafts and more | MisterArt.com
- - [http://www.misterart.com](http://www.misterart.com)
- - date_published: 2024-05-24T10:22:21.067618+00:00
-
- ## welcome - mister chad
- - [https://mister-chad.com](https://mister-chad.com)
- - date_published: 2023-12-18T01:35:14.727669+00:00
- - tags: ['personal']
-
- ## Mister Jones Health
- - [https://misterjoneshealth.com](https://misterjoneshealth.com)
- - date_published: 2024-04-29T04:28:58.021000+00:00
-
- ## about - Mister Kick
- - [http://misterkick.com](http://misterkick.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Welcome from Mister Smith | Mister Smith
- - [https://mistersmithent.com](https://mistersmithent.com)
- - date_published: 2024-05-27T04:31:19.719102+00:00
-
- ## Mistral 7B Free Chatbot online and zephyr-7b chatbot
- - [https://mistral-7b.com](https://mistral-7b.com)
- - date_published: 2024-01-09T02:43:57.591242+00:00
-
- ## MISUMI South East Asia: Industrial Configurable Components Supply
- - [https://sg.misumi-ec.com](https://sg.misumi-ec.com)
- - date_published: 2024-05-08T03:58:11.943110+00:00
-
- ## In the solution
- - [https://www.mitchellfriedman.com](https://www.mitchellfriedman.com)
- - date_published: 2024-01-08T15:37:32.858228+00:00
-
- ## Mitchell Hashimoto
- - [https://mitchellh.com](https://mitchellh.com)
- - date_published: 2023-10-25T08:47:17.283545+00:00
- - tags: ['personal']
-
- ## Mitchell Hanberg
- - [https://mitchellhanberg.com](https://mitchellhanberg.com)
- - date_published: 2024-05-11T10:09:48.468693+00:00
-
- ## Hi. I’m Mitchell. 👋 - Mitchell Landon
- - [https://mitchelllandon.com](https://mitchelllandon.com)
- - date_published: 2024-01-07T22:18:47.513866+00:00
-
- ## Mitchell Daily Republic | Mitchell, South Dakota
- - [https://www.mitchellrepublic.com](https://www.mitchellrepublic.com)
- - date_published: 2023-10-25T16:05:16.003254+00:00
-
- ## About - Mitchell Rice
- - [http://www.mitchellrice.com](http://www.mitchellrice.com)
- - date_published: 2019-12-04T00:00:00+00:00
-
- ## Mitch's Website
- - [http://www.mitchleblanc.com](http://www.mitchleblanc.com)
- - date_published: 2024-05-10T06:29:26.871456+00:00
-
- ## Mitch Whitehead
- - [https://mitchwhitehead.com](https://mitchwhitehead.com)
- - date_published: 2024-03-23T11:39:26.142653+00:00
- - tags: ['personal']
-
- ## MIT Sloan CIO Community
- - [https://mitcio.com](https://mitcio.com)
- - date_published: 2024-05-07T19:35:43.667926+00:00
-
- ## Mitec Medical
- - [http://www.mitecmedical.com](http://www.mitecmedical.com)
- - date_published: 2024-05-08T04:36:58.332445+00:00
-
- ## Inicio
- - [https://mitelefe.com](https://mitelefe.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## MitonOptimal
- - [https://www.mitonoptimal.com](https://www.mitonoptimal.com)
- - date_published: 2023-06-27T00:00:00+00:00
-
- ## MIT Recreation - Aquatics, Fitness, Wellness and more.
- - [http://www.mitrecsports.com](http://www.mitrecsports.com)
- - date_published: 2024-04-02T00:00:00+00:00
 

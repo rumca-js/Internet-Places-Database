@@ -1,3 +1,532 @@
+ ## まぐまぐ！ - 読みたいメルマガ、きっと見つかる。
+ - [http://www.mag2.com](http://www.mag2.com)
+ - date_published: 2024-05-08T03:51:57.948039+00:00
+
+ ## Magari Poa
+ - [https://www.magaripoa.com](https://www.magaripoa.com)
+ - date_published: 2024-03-10T02:17:31.132740+00:00
+
+ ## Portal
+ - [https://portal.magazinecloner.com](https://portal.magazinecloner.com)
+ - date_published: 2024-05-06T23:31:20.974201+00:00
+
+ ## Magazine Newsstand Digital Magazines
+ - [https://www.magazines.com](https://www.magazines.com)
+ - date_published: 2024-05-02T10:10:02.909845+00:00
+
+ ## Magazine Subscriptions At Great Prices | Magazines Direct
+ - [https://www.magazinesdirect.com](https://www.magazinesdirect.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## MagCloud | Print and Digital Content Publishing
+ - [https://www.magcloud.com](https://www.magcloud.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Magento, now Adobe Commerce | eCommerce Software
+ - [https://magento.com](https://magento.com)
+ - date_published: 2024-03-28T06:55:22+00:00
+ - tags: ['cms']
+
+ ## Magento, Shopify, Adobe Commerce Developer in Belfast, NI
+ - [https://magentoni.com](https://magentoni.com)
+ - date_published: 2024-05-10T05:32:33.708593+00:00
+
+ ## Partner Management & Engagement Platform | Magentrix PRM
+ - [https://www.magentrix.com](https://www.magentrix.com)
+ - date_published: 2024-05-14T03:36:37.519859+00:00
+
+ ## Magallanes v5 - Documentation
+ - [https://www.magephp.com](https://www.magephp.com)
+ - date_published: 2024-05-12T06:39:15.918787+00:00
+
+ ## MagGamer.com
+ - [https://maggamer.com](https://maggamer.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+ - tags: ['video game news']
+
+ ## Maggie Appleton
+ - [https://maggieappleton.com](https://maggieappleton.com)
+ - date_published: 2023-10-25T08:47:09.508828+00:00
+ - tags: ['personal']
+
+ ## Harry Potter: Magic Awakened
+ - [https://www.magicawakened.com](https://www.magicawakened.com)
+ - date_published: 2024-05-14T02:52:05.080213+00:00
+
+ ## Magic Baby Names - Quickly find a baby name you love!
+ - [http://www.magicbabynames.com](http://www.magicbabynames.com)
+ - date_published: 2024-05-02T14:02:25.780124+00:00
+
+ ## In-app & Push Notifications for Progressive Web Apps | MagicBell
+ - [https://www.magicbell.com](https://www.magicbell.com)
+ - date_published: 2024-06-03T11:18:27.571261+00:00
+
+ ## Magic Earth - Free Navigation & Maps App for Android and iPhone
+ - [https://www.magicearth.com](https://www.magicearth.com)
+ - date_published: 2023-10-25T08:24:50.926584+00:00
+
+ ## Trend & Young Contemporary Women's Fashion - MAGIC
+ - [https://www.magicfashionevents.com](https://www.magicfashionevents.com)
+ - date_published: 2024-05-06T14:19:33.866858+00:00
+
+ ## AR for Business | Augmented Reality
+ - [https://magicleap.com](https://magicleap.com)
+ - date_published: 2024-05-04T14:03:38.977658+00:00
+
+ ## Magic Leap
+ - [https://ml2-developer.magicleap.com](https://ml2-developer.magicleap.com)
+ - date_published: 2024-05-04T14:03:37.744835+00:00
+
+ ## Augmented reality platform for Enterprise
+ - [https://resources.magicleap.com](https://resources.magicleap.com)
+ - date_published: 2024-05-04T14:03:40.522708+00:00
+
+ ## Homepage
+ - [https://www.magicleap.com](https://www.magicleap.com)
+ - date_published: 2024-01-09T02:42:14.951941+00:00
+
+ ## Magic Toolbox: Image Zoom Plugins, 360 Spin & Slideshow
+ - [http://www.magictoolbox.com](http://www.magictoolbox.com)
+ - date_published: 2024-04-28T00:27:29.610272+00:00
+
+ ## Maginative
+ - [https://www.maginative.com](https://www.maginative.com)
+ - date_published: 2024-02-18T18:22:36.600888+00:00
+
+ ## Magma Partners | Investing in Latin America's top founders
+ - [https://magmapartners.com](https://magmapartners.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Magma Partners venture capital firm
+ - [https://www.magmapartners.com](https://www.magmapartners.com)
+ - date_published: 2024-01-14T08:13:22.897327+00:00
+
+ ## Magnet Forensics | Unlock the truth. Protect the innocent.
+ - [https://www.magnetforensics.com](https://www.magnetforensics.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Home - Magnetic Magazine
+ - [https://magneticmag.com](https://magneticmag.com)
+ - date_published: 2024-03-28T10:24:01+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.magnifymoney.com](https://www.magnifymoney.com)
+ - date_published: 2024-05-04T12:15:45.776343+00:00
+
+ ## Home
+ - [https://www.magnite.com](https://www.magnite.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Home | MAGNiTT
+ - [https://magnitt.com](https://magnitt.com)
+ - date_published: 2024-05-06T23:28:39.735720+00:00
+
+ ## Magnolia Arts Center
+ - [http://magnoliaartscenter.com](http://magnoliaartscenter.com)
+ - date_published: 2024-05-07T14:30:58.563036+00:00
+
+ ## Magnum Photos | Iconic images, authentic visual storytelling Magnum Photos
+ - [https://www.magnumphotos.com](https://www.magnumphotos.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Solutions & efficiency for Mining, Cement, Aggregates, Power stations
+ - [https://www.magotteaux.com](https://www.magotteaux.com)
+ - date_published: 2024-02-08T16:59:31.141818+00:00
+
+ ## Magrathea Metals
+ - [https://magratheametals.com](https://magratheametals.com)
+ - date_published: 2023-10-25T15:54:22.803149+00:00
+
+ ## Magrathea Metals
+ - [https://www.magratheametals.com](https://www.magratheametals.com)
+ - date_published: 2024-05-04T14:03:52.859019+00:00
+
+ ## Mahallem
+ - [https://mahallem.com](https://mahallem.com)
+ - date_published: 2024-05-07T13:55:16.368204+00:00
+
+ ## Maharashtra Times
+ - [https://maharashtratimes.com](https://maharashtratimes.com)
+ - date_published: 2024-05-06T18:29:08.059845+00:00
+
+ ## Mahesh Rijal
+ - [https://maheshrijal.com](https://maheshrijal.com)
+ - date_published: 2024-02-09T14:09:20.115113+00:00
+ - tags: ['personal']
+
+ ## Used Cars - Multibrand Certified Second Hand Cars - Mahindra First Choice Wheels
+ - [https://www.mahindrafirstchoice.com](https://www.mahindrafirstchoice.com)
+ - date_published: 2024-05-08T04:28:02.001248+00:00
+
+ ## Mahoney Environmental® Official | Used Cooking Oil Collection & Recycling
+ - [https://www.mahoneyes.com](https://www.mahoneyes.com)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Trusted Maid, House Cleaning, & Disinfection Services | Maid Brigade
+ - [https://www.maidbrigade.com](https://www.maidbrigade.com)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Help Center
+ - [https://support.mail.com](https://support.mail.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Free email accounts with mail.com | Log in here or register today
+ - [https://www.mail.com](https://www.mail.com)
+ - date_published: 2024-05-01T05:48:30.263803+00:00
+ - tags: ['e-mail server']
+
+ ## The Mail Archive
+ - [https://www.mail-archive.com](https://www.mail-archive.com)
+ - date_published: 2023-10-25T15:54:23.776186+00:00
+
+ ## Login | Mailchimp
+ - [https://admin.mailchimp.com](https://admin.mailchimp.com)
+ - date_published: 2024-04-26T18:51:43.282131+00:00
+
+ ## Help Center | Mailchimp
+ - [https://kb.mailchimp.com](https://kb.mailchimp.com)
+ - date_published: 2024-05-01T07:19:25.415575+00:00
+
+ ## Login | Mailchimp
+ - [https://login.mailchimp.com](https://login.mailchimp.com)
+ - date_published: 2024-04-26T18:51:52.808688+00:00
+
+ ## Marketing, Automation & Email Platform | Mailchimp
+ - [https://mailchimp.com](https://mailchimp.com)
+ - date_published: 2023-10-25T15:54:35.137582+00:00
+ - tags: ['email', 'monetization', 'ad business']
+
+ ## Mailchimp Server Status
+ - [https://status.mailchimp.com](https://status.mailchimp.com)
+ - date_published: 2024-04-26T18:51:46.963629+00:00
+
+ ## Mailchimp Integrations Directory: Find the Right Tools for Your Business | Mailchimp
+ - [https://conduit.mailchimpapp.com](https://conduit.mailchimpapp.com)
+ - date_published: 2024-05-08T03:05:52.219888+00:00
+
+ ## MailerLite Academy | Get a head start in the fast-growing email marketing industry
+ - [https://academy.mailerlite.com](https://academy.mailerlite.com)
+ - date_published: 2024-05-04T14:04:09.071270+00:00
+
+ ## Sign in to your MailerLite account
+ - [https://accounts.mailerlite.com](https://accounts.mailerlite.com)
+ - date_published: 2024-05-04T14:04:06.957807+00:00
+
+ ## MailerLite | Login
+ - [https://app.mailerlite.com](https://app.mailerlite.com)
+ - date_published: 2024-05-04T11:46:51.842145+00:00
+
+ ## Not found | MailerLite
+ - [https://assets.mailerlite.com](https://assets.mailerlite.com)
+ - date_published: 2024-04-28T03:30:37.803982+00:00
+
+ ## MailerLite developers website
+ - [https://connect.mailerlite.com](https://connect.mailerlite.com)
+ - date_published: 2024-05-10T06:40:46.919331+00:00
+
+ ## Login | MailerLite
+ - [https://dashboard.mailerlite.com](https://dashboard.mailerlite.com)
+ - date_published: 2024-05-02T13:56:30.381714+00:00
+
+ ## MailerLite developers website
+ - [https://developers.mailerlite.com](https://developers.mailerlite.com)
+ - date_published: 2024-05-04T14:04:06.303349+00:00
+
+ ## Sign in ・ Cloudflare Access
+ - [https://groot.mailerlite.com](https://groot.mailerlite.com)
+ - date_published: 2024-04-28T13:01:31.016188+00:00
+
+ ## Create Email Marketing Your Audience Will Love - MailerLite
+ - [https://landing.mailerlite.com](https://landing.mailerlite.com)
+ - date_published: 2024-05-02T13:56:27.399788+00:00
+
+ ## Create Email Marketing Your Audience Will Love - MailerLite
+ - [https://mailerlite.com](https://mailerlite.com)
+ - date_published: 2024-05-04T14:04:11.915221+00:00
+
+ ## Create Email Marketing Your Audience Will Love - MailerLite
+ - [https://static.mailerlite.com](https://static.mailerlite.com)
+ - date_published: 2023-12-13T14:56:54.663028+00:00
+
+ ## MailerLite Status
+ - [https://status.mailerlite.com](https://status.mailerlite.com)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Create Email Marketing Your Audience Will Love - MailerLite
+ - [https://www.mailerlite.com](https://www.mailerlite.com)
+ - date_published: 2024-05-04T14:03:58.524741+00:00
+
+ ## Maileroo
+ - [https://app.maileroo.com](https://app.maileroo.com)
+ - date_published: 2024-05-09T09:15:24.362527+00:00
+
+ ## Transactional Email Delivery Made Easy
+ - [https://maileroo.com](https://maileroo.com)
+ - date_published: 2023-12-16T05:53:51+00:00
+
+ ## Secure and private email | Mailfence encrypted email service
+ - [https://mailfence.com](https://mailfence.com)
+ - date_published: 2024-05-01T06:14:18.738737+00:00
+
+ ## Mailgun Developer Documentation | Mailgun by Sinch
+ - [https://documentation.mailgun.com](https://documentation.mailgun.com)
+ - date_published: 2024-05-04T14:04:17.101733+00:00
+
+ ## Tell Us What You Think
+ - [https://feedback.mailgun.com](https://feedback.mailgun.com)
+ - date_published: 2024-05-04T14:04:27.336475+00:00
+
+ ## Login | Mailgun
+ - [https://login.mailgun.com](https://login.mailgun.com)
+ - date_published: 2024-05-04T14:04:15.426334+00:00
+
+ ## Transactional Email API Service For Developers | Mailgun
+ - [https://mailgun.com](https://mailgun.com)
+ - date_published: 2024-04-28T03:11:43.961891+00:00
+
+ ## Mailgun | Trust Center
+ - [https://security.mailgun.com](https://security.mailgun.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Sign Up Free | Mailgun
+ - [https://signup.mailgun.com](https://signup.mailgun.com)
+ - date_published: 2024-05-04T14:04:35.004355+00:00
+
+ ## mailgun Status
+ - [https://status.mailgun.com](https://status.mailgun.com)
+ - date_published: 2024-05-04T14:04:25.879749+00:00
+
+ ## Transactional Email API Service For Developers | Mailgun
+ - [https://www.mailgun.com](https://www.mailgun.com)
+ - date_published: 2024-01-10T03:28:10.263497+00:00
+
+ ## Sign in - Matomo
+ - [https://stats.mailhardener.com](https://stats.mailhardener.com)
+ - date_published: 2024-05-04T14:04:35.739900+00:00
+
+ ## Harden your email - Mailhardener
+ - [https://www.mailhardener.com](https://www.mailhardener.com)
+ - date_published: 2023-10-25T15:54:36.141918+00:00
+
+ ## Mailjet
+ - [https://app.mailjet.com](https://app.mailjet.com)
+ - date_published: 2024-04-29T03:50:14.025639+00:00
+
+ ## Email Delivery Service for Marketing & Developer Teams | Mailjet
+ - [https://www.mailjet.com](https://www.mailjet.com)
+ - date_published: 2024-05-04T14:04:30.057251+00:00
+
+ ## Show HN: I built a tool to send 10k emails for $1 via AWS
+ - [https://maillayer.com](https://maillayer.com)
+ - date_published: 2024-01-07T12:35:00+00:00
+
+ ## List Index - lists.mailman3.com
+ - [https://lists.mailman3.com](https://lists.mailman3.com)
+ - date_published: 2024-04-28T03:40:13.849732+00:00
+
+ ## Mailmunch | Lead Generation and Email Marketing for Businesses
+ - [https://www.mailmunch.com](https://www.mailmunch.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## maimounayoussef.com | 523: Origin is unreachable
+ - [https://maimounayoussef.com](https://maimounayoussef.com)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## MainAd - Bid Less, Convert More with LOGICO
+ - [https://www.mainad.com](https://www.mainad.com)
+ - date_published: 2020-03-26T00:00:00+00:00
+
+ ## Job Search | LiveAndWorkInMaine
+ - [http://mainejobs.com](http://mainejobs.com)
+ - date_published: 2024-05-07T09:17:28.357450+00:00
+
+ ## Public Notice Maine | Maine Press Assocation
+ - [http://www.mainenotices.com](http://www.mainenotices.com)
+ - date_published: 2024-05-07T09:17:56.227434+00:00
+
+ ## STEVE SMITH Trial Lawyers | Maine Family Law Attorneys | Maine Criminal Defense Attorneys
+ - [http://www.mainetriallaw.com](http://www.mainetriallaw.com)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## MAINGEAR Support
+ - [https://help.maingear.com](https://help.maingear.com)
+ - date_published: 2024-05-04T14:05:19.720868+00:00
+
+ ## Home
+ - [https://maingear.com](https://maingear.com)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Mainly Miles
+ - [https://mainlymiles.com](https://mainlymiles.com)
+ - date_published: 2024-03-04T11:59:32.294710+00:00
+
+ ## Mainmatter
+ - [https://mainmatter.com](https://mainmatter.com)
+ - date_published: 2023-10-25T15:54:37.268613+00:00
+
+ ## Maintainers Anonymous
+ - [https://maintainersanonymous.com](https://maintainersanonymous.com)
+ - date_published: 2020-09-23T00:00:00+00:00
+
+ ## Maintenance Phase
+ - [http://maintenancephase.com](http://maintenancephase.com)
+ - date_published: 2024-05-12T07:12:53.875505+00:00
+
+ ## Redirection
+ - [http://www.mairedesign.com](http://www.mairedesign.com)
+ - date_published: 2024-05-11T05:39:10.173330+00:00
+
+ ## Voyage sur mesure, circuit et sejour - Les Maisons du Voyage
+ - [https://media.maisonsduvoyage.com](https://media.maisonsduvoyage.com)
+ - date_published: 2024-05-04T14:05:23.345206+00:00
+
+ ## Voyage sur mesure, circuit et sejour - Les Maisons du Voyage
+ - [https://www.maisonsduvoyage.com](https://www.maisonsduvoyage.com)
+ - date_published: 2023-12-18T17:19:14.453560+00:00
+
+ ## The Iteration | Kenn Costales | Substack
+ - [https://iteration.maiwriter.com](https://iteration.maiwriter.com)
+ - date_published: 2023-11-05T11:29:59.648908+00:00
+
+ ## Mai Writer | Best AI Writer & AI Marketing Assistant
+ - [https://maiwriter.com](https://maiwriter.com)
+ - date_published: 2024-05-04T14:10:35.058918+00:00
+
+ ## Mai Writer | Best AI Writer & AI Marketing Assistant
+ - [https://www.maiwriter.com](https://www.maiwriter.com)
+ - date_published: 2024-05-04T14:10:37.557172+00:00
+
+ ## 迈云达技术有限公司-深圳市迈云达技术有限公司
+ - [https://www.maiyunda.com](https://www.maiyunda.com)
+ - date_published: 2024-04-28T02:53:27.147378+00:00
+
+ ## MAJESTIC JUKEBOX RADIO #HIGH QUALITY SOUND
+ - [https://www.majesticjukeboxradio.com](https://www.majesticjukeboxradio.com)
+ - date_published: 2024-04-30T08:05:19.633383+00:00
+
+ ## Fire Resistant Hoods | Majestic Fire Apparel, Inc.
+ - [http://www.majhoods.com](http://www.majhoods.com)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## The Majority Report
+ - [https://majorityreportradio.com](https://majorityreportradio.com)
+ - date_published: 2024-05-08T05:04:35.865456+00:00
+
+ ## Xbox Wire
+ - [http://majornelson.com](http://majornelson.com)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Makalu
+ - [https://makaluinc.com](https://makaluinc.com)
+ - date_published: 2024-05-06T06:37:01.065948+00:00
+
+ ## makandra: Your partner for successful digital projects
+ - [https://makandra.com](https://makandra.com)
+ - date_published: 2024-04-29T06:55:55.860393+00:00
+
+ ## makandra cards
+ - [https://makandracards.com](https://makandracards.com)
+ - date_published: 2024-04-29T06:55:51.044491+00:00
+
+ ## Home - Makansutra
+ - [https://makansutra.com](https://makansutra.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## A blog by @makaroni4
+ - [https://makaroni4.com](https://makaroni4.com)
+ - date_published: 2020-01-01T00:00:00+00:00
+
+ ## Make Amazon Pay for garment worker safety
+ - [https://makeamazonpay.com](https://makeamazonpay.com)
+ - date_published: 2024-04-29T05:15:11.918211+00:00
+
+ ## Make America Walkable Again
+ - [https://makeamericawalkable.com](https://makeamericawalkable.com)
+ - date_published: 2023-10-25T15:54:41.558574+00:00
+
+ ## Make Art with Python
+ - [https://www.makeartwithpython.com](https://www.makeartwithpython.com)
+ - date_published: 2023-10-25T15:54:43.070926+00:00
+ - tags: ['programming', 'python']
+
+ ## Climate & Environment
+ - [http://www.makechangefly.com](http://www.makechangefly.com)
+ - date_published: 2024-05-12T05:11:18.121152+00:00
+
+ ## Microsoft MakeCode Arcade
+ - [https://arcade.makecode.com](https://arcade.makecode.com)
+ - date_published: 2024-04-30T02:28:26.103806+00:00
+
+ ## OPEN LETTER: Make DMs Safe
+ - [https://www.makedmssafe.com](https://www.makedmssafe.com)
+ - date_published: 2024-05-12T06:08:26.775820+00:00
+
+ ## The magic button — Make Everything OK
+ - [https://make-everything-ok.com](https://make-everything-ok.com)
+ - date_published: 2023-12-12T12:07:19+00:00
+
+ ## Makefile Tutorial By Example
+ - [https://makefiletutorial.com](https://makefiletutorial.com)
+ - date_published: 2023-10-25T15:54:44.493732+00:00
+
+ ## MakeItFrom.com: Material Properties Database
+ - [https://www.makeitfrom.com](https://www.makeitfrom.com)
+ - date_published: 2023-10-25T15:54:45.799547+00:00
+
+ ## Working, studying, living in Germany
+ - [https://www.make-it-in-germany.com](https://www.make-it-in-germany.com)
+ - date_published: 2024-05-11T08:03:02.188061+00:00
+
+ ## MakeitMania.
+ - [https://makeitmania.com](https://makeitmania.com)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Make Life Work podcast with Si Jobling
+ - [http://makelifeworkpodcast.com](http://makelifeworkpodcast.com)
+ - date_published: 2024-04-29T03:50:43.571109+00:00
+
+ ## Makelog | Continuous communication for today's fast-shipping teams
+ - [https://www.makelog.com](https://www.makelog.com)
+ - date_published: 2024-04-30T06:58:45.524637+00:00
+
+ ## Events
+ - [http://www.makeoutroom.com](http://www.makeoutroom.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Sell digital downloads—commission free with Make Post Sell
+ - [https://www.makepostsell.com](https://www.makepostsell.com)
+ - date_published: 2024-05-09T07:47:54.597148+00:00
+
+ ## Maker Advisor
+ - [https://makeradvisor.com](https://makeradvisor.com)
+ - date_published: 2024-05-07T10:18:14.769679+00:00
+
+ ## MakerBot CloudPrint™
+ - [https://login.makerbot.com](https://login.makerbot.com)
+ - date_published: 2024-04-30T14:02:13.978267+00:00
+
+ ## MakerBot 3D Printers
+ - [https://makerbot.com](https://makerbot.com)
+ - date_published: 2024-04-09T00:00:00+00:00
+ - tags: ['3d printing']
+
+ ## UltiMaker | MakerBot | Shop 3D Printers Built for Professional and Education Applications
+ - [https://store.makerbot.com](https://store.makerbot.com)
+ - date_published: 2024-04-30T14:02:28.345097+00:00
+
+ ## MakerBot 3D Printers
+ - [https://www.makerbot.com](https://www.makerbot.com)
+ - date_published: 2024-04-09T00:00:00+00:00
+ - tags: ['3d printing']
+
+ ## Maker By Mistake
+ - [http://makerbymistake.com](http://makerbymistake.com)
+ - date_published: 2024-05-01T07:34:06.300336+00:00
+
+ ## Maker Camp on Make: Community
+ - [https://makercamp.com](https://makercamp.com)
+ - date_published: 2024-02-28T00:00:00+00:00
+
  ## Home - Makerdiary Blog
  - [https://blog.makerdiary.com](https://blog.makerdiary.com)
  - date_published: 2024-05-04T14:10:55.154168+00:00
@@ -1019,6 +1548,7 @@
  ## Marine Insight - The Maritime Industry Guide
  - [https://www.marineinsight.com](https://www.marineinsight.com)
  - date_published: 2023-10-25T15:56:27.679998+00:00
+ - tags: ['news', 'maritime']
 
  ## Marine Corps Marathon
  - [http://www.marinemarathon.com](http://www.marinemarathon.com)
@@ -3592,540 +4122,4 @@
  ## MedTech Outlook: Medical Technology Magazine for Healthcare System
  - [https://neurology.medicaltechoutlook.com](https://neurology.medicaltechoutlook.com)
  - date_published: 2024-05-07T13:59:59.189697+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://startups.medicaltechoutlook.com](https://startups.medicaltechoutlook.com)
- - date_published: 2024-05-07T14:00:07.677530+00:00
-
- ## Medical World News
- - [http://medicalworldnews.com](http://medicalworldnews.com)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Medical World News
- - [https://www.medicalworldnews.com](https://www.medicalworldnews.com)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Medical Xpress - medical research advances and health news
- - [https://medicalxpress.com](https://medicalxpress.com)
- - date_published: 2023-10-25T10:46:01.116429+00:00
-
- ## Medicine Hat News
- - [https://medicinehatnews.com](https://medicinehatnews.com)
- - date_published: 2024-05-06T21:30:35.823816+00:00
-
- ## MedicineNet - Health and Medical Information Produced by Doctors
- - [https://www.medicinenet.com](https://www.medicinenet.com)
- - date_published: 2024-05-02T12:08:48.631156+00:00
-
- ## Medien und Bildung RLP: Medien und Bildung RLP
- - [http://medienundbildung.com](http://medienundbildung.com)
- - date_published: 2024-05-07T23:40:34.830217+00:00
-
- ## Medievia - Do You Dare Enter?
- - [https://www.medievia.com](https://www.medievia.com)
- - date_published: 2024-03-27T20:51:11.183692+00:00
- - tags: ['mud game']
-
- ## mediocregopher's lil web corner
- - [https://mediocregopher.com](https://mediocregopher.com)
- - date_published: 2024-02-19T05:01:38.203415+00:00
-
- ## 504 Gateway Time-out
- - [https://medispank.com](https://medispank.com)
- - date_published: 2024-01-09T02:43:41.258516+00:00
-
- ## - Meditación y Psicología
- - [https://meditacionypsicologia.com](https://meditacionypsicologia.com)
- - date_published: 2023-12-20T19:15:11.085725+00:00
- - tags: ['personal']
-
- ## Paul Greenberg – Medium
- - [https://4fishgreenberg.medium.com](https://4fishgreenberg.medium.com)
- - date_published: 2023-10-25T10:18:26.978914+00:00
-
- ## 7h3h4ckv157 – Medium
- - [https://7h3h4ckv157.medium.com](https://7h3h4ckv157.medium.com)
- - date_published: 2024-05-11T08:32:27.865885+00:00
- - tags: ['personal']
-
- ## Alexander Adamov – Medium
- - [https://aadamov.medium.com](https://aadamov.medium.com)
- - date_published: 2024-02-08T17:51:08.104135+00:00
-
- ## Medium
- - [https://aaryanapex.medium.com](https://aaryanapex.medium.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Abby Aker – Medium
- - [https://abbyaker.medium.com](https://abbyaker.medium.com)
- - date_published: 2024-05-11T09:23:23.073284+00:00
-
- ## Aaron Billings – Medium
- - [https://abdevelops.medium.com](https://abdevelops.medium.com)
- - date_published: 2024-02-08T22:16:08.656155+00:00
-
- ## Abhishek Maheshwarappa – Medium
- - [https://abhishek-maheshwarappa.medium.com](https://abhishek-maheshwarappa.medium.com)
- - date_published: 2024-02-08T17:36:14.230997+00:00
-
- ## The Data Observer – Medium
- - [https://acceldataio.medium.com](https://acceldataio.medium.com)
- - date_published: 2023-10-25T10:18:29.480316+00:00
-
- ## ACM CSCW – Medium
- - [https://acm-cscw.medium.com](https://acm-cscw.medium.com)
- - date_published: 2024-05-12T06:00:29.526616+00:00
-
- ## Jeremy Keith – Medium
- - [https://adactio.medium.com](https://adactio.medium.com)
- - date_published: 2024-02-17T00:00:00+00:00
-
- ## Admiral Cloudberg – Medium
- - [https://admiralcloudberg.medium.com](https://admiralcloudberg.medium.com)
- - date_published: 2023-10-25T10:18:31.319523+00:00
-
- ## Adriana Sim – Medium
- - [https://adrianasim.medium.com](https://adrianasim.medium.com)
- - date_published: 2024-02-08T17:47:48.359467+00:00
-
- ## adrian cockcroft – Medium
- - [https://adrianco.medium.com](https://adrianco.medium.com)
- - date_published: 2023-10-25T10:18:33.437352+00:00
-
- ## Joakim Ahnfelt-Rønne – Medium
- - [https://ahnfelt.medium.com](https://ahnfelt.medium.com)
- - date_published: 2024-06-01T04:51:12.623401+00:00
- - tags: ['personal']
-
- ## AI2 – Medium
- - [https://ai2.medium.com](https://ai2.medium.com)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Sander Mertens – Medium
- - [https://ajmmertens.medium.com](https://ajmmertens.medium.com)
- - date_published: 2023-10-25T10:18:35.461737+00:00
-
- ## Akshay Raveendran – Medium
- - [https://akshayraveendran.medium.com](https://akshayraveendran.medium.com)
- - date_published: 2023-11-01T08:42:30.094336+00:00
-
- ## Aksh Garg – Medium
- - [https://aksh-garg.medium.com](https://aksh-garg.medium.com)
- - date_published: 2024-05-28T22:18:22.803338+00:00
-
- ## Alaina Kafkes – Medium
- - [https://alainakafkes.medium.com](https://alainakafkes.medium.com)
- - date_published: 2024-05-07T22:59:56.414177+00:00
-
- ## Alen Tred – Medium
- - [https://alentred.medium.com](https://alentred.medium.com)
- - date_published: 2023-10-25T10:18:37.466546+00:00
-
- ## Ale Patrón – Medium
- - [https://alep.medium.com](https://alep.medium.com)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Alexandre Olive – Medium
- - [https://alexandreolive.medium.com](https://alexandreolive.medium.com)
- - date_published: 2023-10-25T10:18:39.600805+00:00
-
- ## Alexis Lloyd – Medium
- - [https://alexis.medium.com](https://alexis.medium.com)
- - date_published: 2024-05-11T09:23:57.659332+00:00
-
- ## Alexander Obenauer – Medium
- - [https://alexobenauer.medium.com](https://alexobenauer.medium.com)
- - date_published: 2024-05-01T03:04:33.052204+00:00
-
- ## Ali H Khanafer – Medium
- - [https://ali-h-khanafer.medium.com](https://ali-h-khanafer.medium.com)
- - date_published: 2024-04-30T07:42:58.143417+00:00
-
- ## Ali – Medium
- - [https://ali.medium.com](https://ali.medium.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## allen farrington – Medium
- - [https://allenfarrington.medium.com](https://allenfarrington.medium.com)
- - date_published: 2024-05-01T00:32:56.406102+00:00
-
- ## Annie Altman – Medium
- - [https://allhumansarehuman.medium.com](https://allhumansarehuman.medium.com)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Aloha Browser – Medium
- - [https://alohabrowser.medium.com](https://alohabrowser.medium.com)
- - date_published: 2024-05-01T03:17:50.963671+00:00
-
- ## Maryam Alsayed – Medium
- - [https://alsayedmi.medium.com](https://alsayedmi.medium.com)
- - date_published: 2024-02-08T21:50:59.498293+00:00
-
- ## Anand Tyagi – Medium
- - [https://anandtyagi.medium.com](https://anandtyagi.medium.com)
- - date_published: 2023-10-25T16:00:43.989533+00:00
- - tags: ['personal']
-
- ## Chris Anderson – Medium
- - [https://andersonchris.medium.com](https://andersonchris.medium.com)
- - date_published: 2024-05-04T15:02:47.285969+00:00
-
- ## Andreas Naoum – Medium
- - [https://andreasnaoum.medium.com](https://andreasnaoum.medium.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Andrew S Klug // ASK – Medium
- - [https://andrew-s-klug.medium.com](https://andrew-s-klug.medium.com)
- - date_published: 2024-05-12T04:25:44.389605+00:00
-
- ## Andy Walker – Medium
- - [https://andzwa.medium.com](https://andzwa.medium.com)
- - date_published: 2023-10-25T10:18:41.766784+00:00
-
- ## Angus Montgomery – Medium
- - [https://angusmontgomery.medium.com](https://angusmontgomery.medium.com)
- - date_published: 2024-04-30T06:28:08.905281+00:00
-
- ## Antti Havanko – Medium
- - [https://anttihavanko.medium.com](https://anttihavanko.medium.com)
- - date_published: 2024-05-04T08:33:15.406726+00:00
-
- ## Ariel Meadow Stallings – Medium
- - [https://arielist.medium.com](https://arielist.medium.com)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Armin B. Puehringer – Medium
- - [https://arminpuehringer.medium.com](https://arminpuehringer.medium.com)
- - date_published: 2024-02-08T16:21:27.740998+00:00
-
- ## Artist Rights Alliance – Medium
- - [https://artistrightsnow.medium.com](https://artistrightsnow.medium.com)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Ashan Priyadarshana – Medium
- - [https://ashanpriyadarshana.medium.com](https://ashanpriyadarshana.medium.com)
- - date_published: 2024-05-04T08:34:10.398562+00:00
-
- ## Ashley Lim – Medium
- - [https://ashleylim.medium.com](https://ashleylim.medium.com)
- - date_published: 2024-05-06T13:17:25.306842+00:00
- - tags: ['personal']
-
- ## Avi Loeb – Medium
- - [https://avi-loeb.medium.com](https://avi-loeb.medium.com)
- - date_published: 2023-10-25T10:18:43.733455+00:00
-
- ## Babylon.js – Medium
- - [https://babylonjs.medium.com](https://babylonjs.medium.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Medium
- - [https://barryleung.medium.com](https://barryleung.medium.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Bashir – Medium
- - [https://bashiralhanshali.medium.com](https://bashiralhanshali.medium.com)
- - date_published: 2024-02-08T22:52:31.160961+00:00
-
- ## Behdad Esfahbod – Medium
- - [https://behdadesfahbod.medium.com](https://behdadesfahbod.medium.com)
- - date_published: 2023-10-25T10:18:46.008539+00:00
-
- ## Marianne Bellotti – Medium
- - [https://bellmar.medium.com](https://bellmar.medium.com)
- - date_published: 2023-10-25T10:18:48.828996+00:00
-
- ## Ben Kehoe – Medium
- - [https://ben11kehoe.medium.com](https://ben11kehoe.medium.com)
- - date_published: 2024-03-01T06:00:54.588354+00:00
-
- ## Ben Einstein – Medium
- - [https://beneinstein.medium.com](https://beneinstein.medium.com)
- - date_published: 2023-10-25T10:18:51.271180+00:00
-
- ## Benya Clark – Medium
- - [https://benyaclark.medium.com](https://benyaclark.medium.com)
- - date_published: 2024-02-08T16:45:53.072106+00:00
-
- ## Bilal Mahmood – Medium
- - [https://bilalmahmood.medium.com](https://bilalmahmood.medium.com)
- - date_published: 2023-10-25T10:18:53.537436+00:00
-
- ## Xin Cheng – Medium
- - [https://billtcheng2013.medium.com](https://billtcheng2013.medium.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Billy Chasen – Medium
- - [https://billychasen.medium.com](https://billychasen.medium.com)
- - date_published: 2023-10-25T10:18:55.524086+00:00
-
- ## Billy Lo – Medium
- - [https://billylo.medium.com](https://billylo.medium.com)
- - date_published: 2024-06-01T04:56:22.628191+00:00
-
- ## The Medium Blog
- - [https://blog.medium.com](https://blog.medium.com)
- - date_published: 2023-10-25T10:18:57.853664+00:00
-
- ## Vladimir Smirnov – Medium
- - [https://boredengineer.medium.com](https://boredengineer.medium.com)
- - date_published: 2023-10-25T10:18:59.986959+00:00
-
- ## Bruce Sterling – Medium
- - [https://bruces.medium.com](https://bruces.medium.com)
- - date_published: 2023-10-25T10:19:02.375482+00:00
-
- ## Buster Benson – Medium
- - [https://buster.medium.com](https://buster.medium.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Bárbara Vieira – Medium
- - [https://b-vieira.medium.com](https://b-vieira.medium.com)
- - date_published: 2024-05-01T03:47:20.550977+00:00
- - tags: ['personal']
-
- ## Byrne Hobart – Medium
- - [https://byrnehobart.medium.com](https://byrnehobart.medium.com)
- - date_published: 2023-10-25T10:19:04.794986+00:00
-
- ## Catherine Andrews – Medium
- - [https://candrews.medium.com](https://candrews.medium.com)
- - date_published: 2023-10-25T10:19:07.319497+00:00
-
- ## Carlos Arguelles – Medium
- - [https://carloarg02.medium.com](https://carloarg02.medium.com)
- - date_published: 2023-11-14T03:03:34.674567+00:00
-
- ## Casey Fiesler – Medium
- - [https://cfiesler.medium.com](https://cfiesler.medium.com)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Chang Jun Cho – Medium
- - [https://changjuc.medium.com](https://changjuc.medium.com)
- - date_published: 2024-02-08T17:46:27.277208+00:00
-
- ## Chenny Ren – Medium
- - [https://chennylmf.medium.com](https://chennylmf.medium.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Medium
- - [https://cherp.medium.com](https://cherp.medium.com)
- - date_published: 2023-10-25T10:19:08.602659+00:00
-
- ## Chet Haase – Medium
- - [https://chethaase.medium.com](https://chethaase.medium.com)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## Chris Stoneman – Medium
- - [https://chrisstoneman.medium.com](https://chrisstoneman.medium.com)
- - date_published: 2024-02-03T19:51:36.051962+00:00
- - tags: ['personal']
-
- ## Christine Vallaure – Medium
- - [https://christinevallaure.medium.com](https://christinevallaure.medium.com)
- - date_published: 2024-03-17T00:00:00+00:00
-
- ## Charles Chen – Medium
- - [https://chrlschn.medium.com](https://chrlschn.medium.com)
- - date_published: 2023-10-25T10:19:10.864666+00:00
-
- ## Clive Thompson – Medium
- - [https://clivethompson.medium.com](https://clivethompson.medium.com)
- - date_published: 2023-10-25T10:19:18.196307+00:00
-
- ## Clockwork Labs – Medium
- - [https://clockwork-labs.medium.com](https://clockwork-labs.medium.com)
- - date_published: 2024-05-09T05:53:27.800793+00:00
-
- ## Cole Frederick – Medium
- - [https://colefp.medium.com](https://colefp.medium.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Corinne Marie Riley – Medium
- - [https://corinneriley.medium.com](https://corinneriley.medium.com)
- - date_published: 2024-05-06T13:48:54.394508+00:00
- - tags: ['personal']
-
- ## Cortical Labs – Medium
- - [https://corticallabs.medium.com](https://corticallabs.medium.com)
- - date_published: 2024-05-08T06:45:14.590315+00:00
-
- ## Andrew Coyle – Medium
- - [https://coyleandrew.medium.com](https://coyleandrew.medium.com)
- - date_published: 2024-01-10T20:25:33.997993+00:00
-
- ## Arthur Hayes – Medium
- - [https://cryptohayes.medium.com](https://cryptohayes.medium.com)
- - date_published: 2023-10-25T10:19:20.082601+00:00
-
- ## CtrlAlt – Medium
- - [https://ctrlalt.medium.com](https://ctrlalt.medium.com)
- - date_published: 2024-02-16T13:25:29.542268+00:00
-
- ## Christina Wodtke – Medium
- - [https://cwodtke.medium.com](https://cwodtke.medium.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Craig Younkins – Medium
- - [https://cyounkins.medium.com](https://cyounkins.medium.com)
- - date_published: 2023-10-25T10:19:22.286315+00:00
-
- ## Dan Hislop – Medium
- - [https://danhislop.medium.com](https://danhislop.medium.com)
- - date_published: 2024-02-08T17:06:16.746423+00:00
-
- ## Danny Chung, MBA,Associate CISSP, GCIA, GCIH, GSEC – Medium
- - [https://danny-chung.medium.com](https://danny-chung.medium.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Takahiko Kawasaki – Medium
- - [https://darutk.medium.com](https://darutk.medium.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## DataFinnovation - ChainArgos - 4AC – Medium
- - [https://datafinnovation.medium.com](https://datafinnovation.medium.com)
- - date_published: 2023-10-25T10:19:24.661478+00:00
-
- ## DataStax – Medium
- - [https://datastax.medium.com](https://datastax.medium.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## DS - VRP – Medium
- - [https://datavrpscience.medium.com](https://datavrpscience.medium.com)
- - date_published: 2024-02-08T16:32:00.203010+00:00
-
- ## Dave On Cyber – Medium
- - [https://daveoncyber.medium.com](https://daveoncyber.medium.com)
- - date_published: 2024-05-01T04:10:40.079101+00:00
-
- ## David Delassus – Medium
- - [https://david-delassus.medium.com](https://david-delassus.medium.com)
- - date_published: 2023-10-25T10:19:26.852264+00:00
-
- ## Davide Wiest – Medium
- - [https://davidewiest.medium.com](https://davidewiest.medium.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## David Gilbertson – Medium
- - [https://david-gilbertson.medium.com](https://david-gilbertson.medium.com)
- - date_published: 2023-10-25T10:19:29.708680+00:00
-
- ## David Mokotoff, MD – Medium
- - [https://davidmokotoff.medium.com](https://davidmokotoff.medium.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## David Fu – Medium
- - [https://davidthefu.medium.com](https://davidthefu.medium.com)
- - date_published: 2024-04-30T06:35:07.660414+00:00
- - tags: ['personal']
-
- ## David Varghese – Medium
- - [https://david-varghese.medium.com](https://david-varghese.medium.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Debugger
- - [https://debugger.medium.com](https://debugger.medium.com)
- - date_published: 2023-10-25T10:19:31.889138+00:00
-
- ## Delphine Brunetière – Medium
- - [https://delphinebrunetiere.medium.com](https://delphinebrunetiere.medium.com)
- - date_published: 2024-02-08T22:51:38.649958+00:00
-
- ## David Lu – Medium
- - [https://delu.medium.com](https://delu.medium.com)
- - date_published: 2023-10-25T10:19:34.250111+00:00
-
- ## Dennis Sanders – Medium
- - [https://dennissanders.medium.com](https://dennissanders.medium.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Denys Linkov – Medium
- - [https://denyslinkov.medium.com](https://denyslinkov.medium.com)
- - date_published: 2023-10-25T10:19:36.501051+00:00
-
- ## Devrim Danyal – Medium
- - [https://devrimdanyal.medium.com](https://devrimdanyal.medium.com)
- - date_published: 2024-04-28T03:56:06.313236+00:00
-
- ## Dave Feldman – Medium
- - [https://dfeldman.medium.com](https://dfeldman.medium.com)
- - date_published: 2023-10-25T10:19:38.830473+00:00
-
- ## Dikshant Rajput – Medium
- - [https://dikshantraj2001.medium.com](https://dikshantraj2001.medium.com)
- - date_published: 2024-04-07T00:00:00+00:00
- - tags: ['personal']
-
- ## Thomas Ricouard – Medium
- - [https://dimillian.medium.com](https://dimillian.medium.com)
- - date_published: 2024-04-11T00:00:00+00:00
- - tags: ['personal']
-
- ## Dirk Petersen – Medium
- - [https://dirk-petersen.medium.com](https://dirk-petersen.medium.com)
- - date_published: 2024-03-16T10:31:53.536080+00:00
-
- ## Pardis Noorzad – Medium
- - [https://djpardis.medium.com](https://djpardis.medium.com)
- - date_published: 2023-10-25T10:19:41.017651+00:00
-
- ## Deepti Kannapan – Medium
- - [https://dkannapan.medium.com](https://dkannapan.medium.com)
- - date_published: 2024-05-01T04:31:27.917950+00:00
-
- ## Jan Carroza – Medium
- - [https://dmcenter.medium.com](https://dmcenter.medium.com)
- - date_published: 2024-05-01T05:42:53.346354+00:00
- - tags: ['personal']
-
- ## Dmitry Kan – Medium
- - [https://dmitry-kan.medium.com](https://dmitry-kan.medium.com)
- - date_published: 2023-10-25T10:19:43.394552+00:00
-
- ## Doc Burford – Medium
- - [https://docseuss.medium.com](https://docseuss.medium.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Cory Doctorow – Medium
- - [https://doctorow.medium.com](https://doctorow.medium.com)
- - date_published: 2023-10-25T08:57:40.550974+00:00
- - tags: ['personal']
-
- ## Don Hopkins – Medium
- - [https://donhopkins.medium.com](https://donhopkins.medium.com)
- - date_published: 2023-10-25T10:19:46.013612+00:00
- - tags: ['personal']
-
- ## Douglas Balmain – Medium
- - [https://douglasbalmain.medium.com](https://douglasbalmain.medium.com)
- - date_published: 2024-02-08T17:34:58.599115+00:00
-
- ## Doug Shapiro – Medium
- - [https://dougshapiro.medium.com](https://dougshapiro.medium.com)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Dr. Donna Marks – Medium
- - [https://drdonnamarks.medium.com](https://drdonnamarks.medium.com)
- - date_published: 2024-02-08T16:57:29.939239+00:00
- - tags: ['personal']
-
- ## Doc Searls – Medium
- - [https://dsearls.medium.com](https://dsearls.medium.com)
- - date_published: 2024-04-29T02:48:07.108769+00:00
-
- ## Dustin Godevais – Medium
- - [https://dustin-godevais.medium.com](https://dustin-godevais.medium.com)
- - date_published: 2023-10-25T10:19:54.217237+00:00
-
- ## Daniel Vassallo – Medium
- - [https://dvassallo.medium.com](https://dvassallo.medium.com)
- - date_published: 2023-10-25T10:19:56.210495+00:00
-
- ## Raju Dawadi – Medium
- - [https://dwdraju.medium.com](https://dwdraju.medium.com)
- - date_published: 2023-10-25T10:19:58.595133+00:00
-
- ## Enrique Dans – Medium
- - [https://edans.medium.com](https://edans.medium.com)
- - date_published: 2024-04-26T00:00:00+00:00
 

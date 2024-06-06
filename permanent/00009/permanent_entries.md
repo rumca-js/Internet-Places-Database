@@ -1,3 +1,76 @@
+ ## Apocalyptica | Official homepage
+ - [https://www.apocalyptica.com](https://www.apocalyptica.com)
+ - date_published: 2023-11-13T10:24:20.609730+00:00
+ - tags: ['music band']
+
+ ## Starship Asterisk* - Index page
+ - [http://asterisk.apod.com](http://asterisk.apod.com)
+ - date_published: 2024-05-18T00:00:00+00:00
+
+ ## —
+my personal blog
+ - [https://apogliaghi.com](https://apogliaghi.com)
+ - date_published: 2024-06-01T05:06:31.243139+00:00
+ - tags: ['personal']
+
+ ## Apollo Academy - Apollo Academy
+ - [https://apolloacademy.com](https://apolloacademy.com)
+ - date_published: 2024-01-09T13:02:16.965527+00:00
+
+ ## Explore the next-generation Amiga-compatible technology
+ - [https://www.apollo-computer.com](https://www.apollo-computer.com)
+ - date_published: 2024-01-09T02:29:43.414020+00:00
+ - tags: ['amiga']
+
+ ## APOLLO 68080 - High Performance Processor
+ - [http://www.apollo-core.com](http://www.apollo-core.com)
+ - date_published: 2023-10-27T14:33:14.667975+00:00
+ - tags: ['apollo 68080', 'retro hardware']
+
+ ## Apollo GraphQL Blog – latest insights and news on API and GraphQL solutions
+ - [https://dev-blog.apollodata.com](https://dev-blog.apollodata.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Streamlining APIs, Databases, & Microservices | Apollo GraphQL
+ - [https://apollographql.com](https://apollographql.com)
+ - date_published: 2024-04-28T03:11:55.870806+00:00
+
+ ## Apollo GraphQL Blog – latest insights and news on API and GraphQL solutions
+ - [https://blog.apollographql.com](https://blog.apollographql.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Streamlining APIs, Databases, & Microservices | Apollo GraphQL
+ - [https://www.apollographql.com](https://www.apollographql.com)
+ - date_published: 2023-10-25T12:42:38.687177+00:00
+
+ ## Apollo – The International Art Magazine
+ - [https://www.apollo-magazine.com](https://www.apollo-magazine.com)
+ - date_published: 2024-04-29T05:41:53.760915+00:00
+
+ ## Finish Your Novel - Online Novel Writing Software - ApolloPad
+ - [https://apollopad.com](https://apollopad.com)
+ - date_published: 2024-05-01T03:17:56.885672+00:00
+
+ ## Apoorva Srinivasan
+ - [https://www.apoorva-srinivasan.com](https://www.apoorva-srinivasan.com)
+ - date_published: 2024-05-14T04:13:48.046534+00:00
+
+ ## Aporia | Substack
+ - [https://www.aporiamagazine.com](https://www.aporiamagazine.com)
+ - date_published: 2024-01-07T01:07:08.817139+00:00
+
+ ## Cierpliwości...
+ - [https://apothecarium.com](https://apothecarium.com)
+ - date_published: 2024-05-07T11:14:07.789350+00:00
+
+ ## Apowersoft - Multimedia Solutions for Business and Daily Needs
+ - [https://www.apowersoft.com](https://www.apowersoft.com)
+ - date_published: 2024-05-06T14:47:10.559737+00:00
+
+ ## Mobile Market Data and App Insights | data.ai (fka App Annie)
+ - [https://www.appannie.com](https://www.appannie.com)
+ - date_published: 2024-05-06T23:30:12.421769+00:00
+
  ## Best Apps Bundle - Top iPhone Apps
  - [https://appbundles.com](https://appbundles.com)
  - date_published: 2024-05-09T03:51:13.791961+00:00
@@ -2582,6 +2655,10 @@
  - [http://www.atabusinesssolutions.com](http://www.atabusinesssolutions.com)
  - date_published: 2024-05-11T11:33:06.525245+00:00
 
+ ## ATACC Group - First Aid and Medical Rescue Training Courses
+ - [https://www.ataccgroup.com](https://www.ataccgroup.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
  ## Articles about Software Engineering, AI, DevOps, Cloud and more
  - [https://ataiva.com](https://ataiva.com)
  - date_published: 2023-10-25T09:31:56.080655+00:00
@@ -4022,77 +4099,4 @@
  - [https://awhitelee.com](https://awhitelee.com)
  - date_published: 2023-12-19T10:00:20.226120+00:00
  - tags: ['personal']
-
- ## Awkward Zombie - Salesmanship
- - [http://awkwardzombie.com](http://awkwardzombie.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Hi, I'm Andrew
- - [https://awnvo.com](https://awnvo.com)
- - date_published: 2024-05-11T10:20:37.454506+00:00
-
- ## å…¨å¿—åœ¨çº¿å¼€å�‘è€…è®ºå�›
- - [https://bbs.aw-ol.com](https://bbs.aw-ol.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## A Working Library
- - [https://aworkinglibrary.com](https://aworkinglibrary.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## AWS Bites podcast
- - [https://awsbites.com](https://awsbites.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## AWS Support and Customer Service Contact Info | Amazon Web Services
- - [https://pages.awscloud.com](https://pages.awscloud.com)
- - date_published: 2024-05-11T08:25:18.932344+00:00
-
- ## AWS Docs GPT
- - [https://www.awsdocsgpt.com](https://www.awsdocsgpt.com)
- - date_published: 2023-10-25T12:51:03.280111+00:00
-
- ## AWS re:Inforce | AWS Events
- - [https://register.reinforce.awsevents.com](https://register.reinforce.awsevents.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## AWS re:Invent 2023 | Amazon Web Services
- - [https://reinvent.awsevents.com](https://reinvent.awsevents.com)
- - date_published: 2023-10-25T12:51:05.928646+00:00
-
- ## AWS Icon Quiz
- - [https://awsiconquiz.com](https://awsiconquiz.com)
- - date_published: 2023-10-25T12:51:10.159299+00:00
-
- ## SVG and PNG AWS icons | AWS Icons
- - [https://aws-icons.com](https://aws-icons.com)
- - date_published: 2023-10-25T09:07:44.572730+00:00
-
- ## Awesome F/OSS
- - [https://awsmfoss.com](https://awsmfoss.com)
- - date_published: 2024-05-06T14:42:55.486518+00:00
- - tags: ['open source']
-
- ## 404 Not Found
- - [https://ressource.gdpr-banner.awsmpsa.com](https://ressource.gdpr-banner.awsmpsa.com)
- - date_published: 2023-12-11T16:01:48.552436+00:00
-
- ## AWS Purity Test
- - [https://www.awspuritytest.com](https://www.awspuritytest.com)
- - date_published: 2023-10-25T12:51:11.708080+00:00
-
- ## AWS Thinkbox
- - [https://www.awsthinkbox.com](https://www.awsthinkbox.com)
- - date_published: 2024-04-28T01:55:51.308643+00:00
-
- ## Awtomic Subscriptions
- - [https://www.awtomic.com](https://www.awtomic.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## a. w. walker
- - [https://awwalker.com](https://awwalker.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Andrew Watson
- - [https://www.awwsmm.com](https://www.awwsmm.com)
- - date_published: 2024-02-01T00:00:00+00:00
 
