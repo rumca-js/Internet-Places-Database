@@ -1,3 +1,31 @@
+ ## Home - UniSA Health Medical Clinic
+ - [https://www.unisamedical.com.au](https://www.unisamedical.com.au)
+ - date_published: 2024-05-09T02:35:53.549344+00:00
+
+ ## Process Systems - Manufacture Valves & Flow Control Equipment
+ - [https://www.valvesonline.com.au](https://www.valvesonline.com.au)
+ - date_published: 2024-02-08T16:42:46.852616+00:00
+
+ ## VELCRO® Brand Fastening Solutions | Velcro Companies
+ - [https://www.velcro.com.au](https://www.velcro.com.au)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## VentraIP | 100% Australian Website Hosting & Domain Names
+ - [https://ventraip.com.au](https://ventraip.com.au)
+ - date_published: 2024-05-01T06:00:50.480261+00:00
+
+ ## Houses & Apartments, Property for Sale | view.com.au
+ - [https://view.com.au](https://view.com.au)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## View Insurance
+ - [https://viewinsurance.com.au](https://viewinsurance.com.au)
+ - date_published: 2024-05-09T06:37:40.252148+00:00
+
+ ## Search for Jobs in Australia | ViewJobs
+ - [https://viewjobs.com.au](https://viewjobs.com.au)
+ - date_published: 2024-05-09T06:37:17.644557+00:00
+
  ## Violins Australia Music Wholesale Distribution
  - [https://violinsaustralia.com.au](https://violinsaustralia.com.au)
  - date_published: 2024-02-08T17:42:55.991198+00:00
@@ -853,6 +881,10 @@
  ## Australian Academy of Science
  - [http://www.science.org.au](http://www.science.org.au)
  - date_published: 2024-05-07T15:55:46.963070+00:00
+
+ ## Official Church of Scientology: What is Scientology?
+ - [https://www.scientology.org.au](https://www.scientology.org.au)
+ - date_published: 0001-01-01T00:00:00+00:00
 
  ## Home - SENVIC
  - [https://senvic.org.au](https://senvic.org.au)
@@ -1725,6 +1757,10 @@
  ## Personal Training Regio Antwerpen - Science Based Training
  - [http://sciencebasedtraining.be](http://sciencebasedtraining.be)
  - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Officiële Scientology Kerk: L. Ron Hubbard, Dianetics, Wat is Scientology?, Boeken, Overtuiging, David Miscavige
+ - [https://www.scientology.be](https://www.scientology.be)
+ - date_published: 0001-01-01T00:00:00+00:00
 
  ## Home: New - Shakalaka
  - [https://shakalaka.be](https://shakalaka.be)
@@ -4075,42 +4111,4 @@ Educação
  ## VLibras
  - [http://www.vlibras.gov.br](http://www.vlibras.gov.br)
  - date_published: 2024-05-10T03:46:03.472453+00:00
-
- ## GOV.BR
- - [https://www.gov.br](https://www.gov.br)
- - date_published: 2023-12-11T19:33:23.992575+00:00
- - tags: ['government']
-
- ## Divulgação de Candidaturas e Contas Eleitorais
- - [https://divulgacandcontas.tse.jus.br](https://divulgacandcontas.tse.jus.br)
- - date_published: 2024-05-10T02:48:51.518311+00:00
-
- ## Resultados Oficial
- - [https://resultados.tse.jus.br](https://resultados.tse.jus.br)
- - date_published: 2023-10-25T12:02:51.440167+00:00
-
- ## Portal da Câmara dos Deputados
- - [https://www.camara.leg.br](https://www.camara.leg.br)
- - date_published: 2024-05-07T23:30:03.588334+00:00
-
- ## Marinha do Brasil
- - [https://www.marinha.mil.br](https://www.marinha.mil.br)
- - date_published: 2024-06-05T07:28:50.631346+00:00
- - tags: ['maritime']
-
- ## Consequência Editora. Livros de Geografia, História, Ciências Sociais, Educação, Política, Humanas..
- - [http://www.consequenciaeditora.net.br](http://www.consequenciaeditora.net.br)
- - date_published: 2024-05-10T06:57:20.058367+00:00
-
- ## Parafernália Interativa – Intelligent Digital Experiences
- - [https://www.parafernalia.net.br](https://www.parafernalia.net.br)
- - date_published: 2024-05-11T09:07:35.154578+00:00
-
- ## ABC – Academia Brasileira de Ciências
- - [http://www.abc.org.br](http://www.abc.org.br)
- - date_published: 2024-05-07T20:15:39.987342+00:00
-
- ## Escravo, nem pensar!
- - [https://escravonempensar.org.br](https://escravonempensar.org.br)
- - date_published: 2024-01-09T02:26:51.999598+00:00
 

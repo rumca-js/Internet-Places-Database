@@ -1,3 +1,519 @@
+ ## itratos - Ihre eCommerce & eBusiness Agentur für OXID eShop, TYPO3, xt:Commerce Shops, Drupal und Joomla Projekte - Modul Entwicklung für openERP und Ihr Partner für ausgereifte Deployment Lösungen
+ - [http://www.itratos.de](http://www.itratos.de)
+ - date_published: 2024-04-29T07:11:28.139813+00:00
+
+ ## Willkommen - IT Solutions Neef
+ - [https://it-solutions-neef.de](https://it-solutions-neef.de)
+ - date_published: 2024-05-02T13:34:01.551864+00:00
+
+ ## Startseite | Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V.
+ - [https://www.ivw.de](https://www.ivw.de)
+ - date_published: 2024-04-29T06:48:52.129626+00:00
+
+ ## IWR Online Nachrichten - iwr.de
+ - [https://www.iwr.de](https://www.iwr.de)
+ - date_published: 2024-04-29T06:15:26.444868+00:00
+
+ ## Energie Pressecenter - Pressemitteilungen - IWR-Pressedienst - IWR-Pressedienst
+ - [https://www.iwrpressedienst.de](https://www.iwrpressedienst.de)
+ - date_published: 2023-12-30T11:20:43.474269+00:00
+
+ ## Articles
+ - [https://android.izzysoft.de](https://android.izzysoft.de)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## IzzySoft Apt Repositories
+ - [https://apt.izzysoft.de](https://apt.izzysoft.de)
+ - date_published: 2016-03-27T00:00:00+00:00
+
+ ## j6b72s site
+ - [https://j6b72.de](https://j6b72.de)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Jana Reddemann
+ - [https://janareddemann.de](https://janareddemann.de)
+ - date_published: 2024-05-11T07:41:19.047652+00:00
+
+ ## JavE - Java Ascii Versatile Editor
+ - [http://www.jave.de](http://www.jave.de)
+ - date_published: 2023-10-25T18:31:23.796550+00:00
+ - tags: ['java ascii versatile editor']
+
+ ## Home
+ - [https://jetzt.de](https://jetzt.de)
+ - date_published: 2024-04-29T06:48:07.688471+00:00
+
+ ## Home
+ - [https://www.jetzt.de](https://www.jetzt.de)
+ - date_published: 2024-04-29T06:48:27.802133+00:00
+
+ ## jff.de
+ - [http://www.jff.de](http://www.jff.de)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Jochen Hoenicke
+ - [https://jhoenicke.de](https://jhoenicke.de)
+ - date_published: 2024-04-28T01:58:34.085506+00:00
+
+ ## Joshua Humpfer - Hochzeitsfotografie
+ - [http://jhvisuals.de](http://jhvisuals.de)
+ - date_published: 2024-05-11T08:19:50.338603+00:00
+
+ ## DJH Jugendherberge Berlin-Am Wannsee - Angebote + mehr | Berlin
+ - [http://www.jh-wannsee.de](http://www.jh-wannsee.de)
+ - date_published: 2024-05-04T12:18:33.681694+00:00
+
+ ## jj's USEFUL and UGLY pages
+ - [https://www.jjj.de](https://www.jjj.de)
+ - date_published: 2023-10-25T18:31:25.414779+00:00
+
+ ## SOPHISTICATES – Mehr Gewinn durch Digitalisierung.
+ - [https://jjs.de](https://jjs.de)
+ - date_published: 2024-01-01T17:21:22.428881+00:00
+
+ ## punker76
+ - [https://jkarger.de](https://jkarger.de)
+ - date_published: 2024-04-03T12:42:34.117438+00:00
+ - tags: ['personal']
+
+ ## Wissenschafts- und Bildungsjournalist
+ - [https://www.jmwiarda.de](https://www.jmwiarda.de)
+ - date_published: 2024-04-29T07:13:07.519575+00:00
+
+ ## Blog – Joachim Breitner's Homepage
+ - [http://joachim-breitner.de](http://joachim-breitner.de)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Blog – Joachim Breitner's Homepage
+ - [https://www.joachim-breitner.de](https://www.joachim-breitner.de)
+ - date_published: 2023-10-25T18:31:28.248214+00:00
+
+ ## Joe Wein's Homepage (www.joewein.de)
+ - [http://www.joewein.de](http://www.joewein.de)
+ - date_published: 2024-05-15T14:26:03.877922+00:00
+ - tags: ['personal']
+
+ ## Johannes Kopf
+ - [http://johanneskopf.de](http://johanneskopf.de)
+ - date_published: 2024-05-04T15:12:17.506744+00:00
+
+ ## almereyda
+ - [https://jonrichter.de](https://jonrichter.de)
+ - date_published: 2024-05-09T08:27:21.065891+00:00
+
+ ## JouMxyzptlk - 4K HD, Ultra HD, 6K HD, 8K, 10k, 15k HighRes game videos and panoramas
+ - [https://joumxyzptlk.de](https://joumxyzptlk.de)
+ - date_published: 2023-10-25T18:31:29.862637+00:00
+
+ ## Info-Zentrum der JOYCE-User-AG e.V.
+ - [http://www.joyce.de](http://www.joyce.de)
+ - date_published: 2024-05-15T14:26:33.352034+00:00
+
+ ## JPlace
+ - [https://jplace.de](https://jplace.de)
+ - date_published: 2024-05-11T10:09:12.296991+00:00
+
+ ## Startseite
+ - [https://jtl-url.de](https://jtl-url.de)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Home - JusProg Jugendschutzprogramm
+ - [http://www.jugendschutzprogramm.de](http://www.jugendschutzprogramm.de)
+ - date_published: 2024-05-13T03:45:22.293720+00:00
+
+ ## Julian Stark: WordPress Freelancer in Tübingen und Umgebung
+ - [https://julianstark.de](https://julianstark.de)
+ - date_published: 2024-04-03T06:25:03.971882+00:00
+ - tags: ['personal']
+
+ ## junge liberale - Deine Vertretung in der deutschen Politik
+ - [https://julis.de](https://julis.de)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.jurgrad.de](https://www.jurgrad.de)
+ - date_published: 2024-04-29T07:01:12.442349+00:00
+
+ ## Käufersiegel Kundenbewertung | Orientierungshilfe für Verbraucher
+ - [https://www.kaeufersiegel.de](https://www.kaeufersiegel.de)
+ - date_published: 2024-05-09T04:07:15.436863+00:00
+
+ ## Kai's Blog
+ - [https://kai-greshake.de](https://kai-greshake.de)
+ - date_published: 2009-01-01T00:00:00+00:00
+
+ ## Marketingberater Berlin für B2B: Enno E. Peter
+ - [https://www.kairos-marketing.de](https://www.kairos-marketing.de)
+ - date_published: 2024-01-17T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Erebos
+ - [https://erebos.kaishi.de](https://erebos.kaishi.de)
+ - date_published: 2024-05-06T12:57:51.246505+00:00
+
+ ## Jonas Breyer – Rechtsanwaltskanzlei Wiesbaden
+ - [https://www.kanzlei-breyer.de](https://www.kanzlei-breyer.de)
+ - date_published: 2024-05-07T23:53:42.720500+00:00
+
+ ## Kaspersky-Cybersicherheitslösungen für Privatanwender und Unternehmen  | Kaspersky
+ - [https://www.kaspersky.de](https://www.kaspersky.de)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## roka . Home
+ - [https://robert.katzki.de](https://robert.katzki.de)
+ - date_published: 2024-05-07T23:11:05.369412+00:00
+
+ ## Offizielle KEEN® Europe Seite | Größte Auswahl an KEEN Schuhen, Stiefeln & Sandalen | KEEN Footwear Europe
+ - [https://www.keenfootwear.de](https://www.keenfootwear.de)
+ - date_published: 2024-05-11T10:47:07.133754+00:00
+
+ ## High-availability cloud & server hosting from Germany | Keyweb AG
+ - [https://keyweb.de](https://keyweb.de)
+ - date_published: 2024-05-05T09:58:06.029102+00:00
+
+ ## Akshay Khobragade
+ - [https://akshay.khobraga.de](https://akshay.khobraga.de)
+ - date_published: 2023-11-29T13:54:01.010194+00:00
+ - tags: ['personal']
+
+ ## KI Community
+ - [https://www.kicommunity.de](https://www.kicommunity.de)
+ - date_published: 2023-09-11T00:00:00+00:00
+
+ ## KiKA: Kinderserien, Kinderfilme, Spiele und Bastelideen | KiKA
+ - [https://www.kika.de](https://www.kika.de)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Kilotype
+ - [https://kilotype.de](https://kilotype.de)
+ - date_published: 2024-05-07T10:45:06.310399+00:00
+
+ ## KI macht Schule!
+ - [https://ki-macht-schule.de](https://ki-macht-schule.de)
+ - date_published: 2024-05-21T03:04:26.552588+00:00
+
+ ## Ballett für Kinder & Jugendliche in Frankfurt - Kinderballett Frankfurt
+ - [https://kinderballett-frankfurt.de](https://kinderballett-frankfurt.de)
+ - date_published: 2024-05-10T06:48:38.139431+00:00
+
+ ## https://www.kinder-hd-uni.de
+ - [https://www.kinder-hd-uni.de](https://www.kinder-hd-uni.de)
+ - date_published: 2024-02-08T16:45:10.107730+00:00
+
+ ## Startseite SWR Kindernetz
+ - [https://www.kindernetz.de](https://www.kindernetz.de)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Herzlich willkommen bei Ihrer Kirchengemeinde – Ev.-Luth. Kirchengemeinde St. Willehad Groß Grönau
+ - [https://www.kirche-gross-groenau.de](https://www.kirche-gross-groenau.de)
+ - date_published: 2024-05-11T05:40:22.244800+00:00
+
+ ## Hopp-Kindertumorzentrum Heidelberg - Hopp-Kindertumorzentrum Heidelberg - KiTZ
+ - [https://www.kitz-heidelberg.de](https://www.kitz-heidelberg.de)
+ - date_published: 2024-04-29T06:03:11.254600+00:00
+
+ ## kajomi MAIL
+ - [http://asmusik.kjm6.de](http://asmusik.kjm6.de)
+ - date_published: 2024-04-29T06:26:48.906313+00:00
+
+ ## klimareporter°
+ - [https://www.klimareporter.de](https://www.klimareporter.de)
+ - date_published: 2024-12-05T00:00:00+00:00
+
+ ## Start: Uniklinik Mannheim
+ - [http://www.klinikum-mannheim.de](http://www.klinikum-mannheim.de)
+ - date_published: 2024-04-29T06:03:39.779857+00:00
+
+ ## Startseite | Kompetenzzentrum Nachhaltiger Konsum
+ - [https://k-n-k.de](https://k-n-k.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## knowmates GmbH: E-Commerce & Online-Marketing in Leipzig
+ - [https://www.knowmates.de](https://www.knowmates.de)
+ - date_published: 2024-05-02T13:47:54.030797+00:00
+
+ ## //pauls dev blog
+ - [https://www.knulst.de](https://www.knulst.de)
+ - date_published: 2024-01-09T11:06:39.475779+00:00
+
+ ## Plausible · Web analytics
+ - [https://analytics.kolaente.de](https://analytics.kolaente.de)
+ - date_published: 2024-05-14T03:31:52.758275+00:00
+
+ ## KONTEXT:Wochenzeitung - Aktuelle Ausgabe
+ - [https://www.kontextwochenzeitung.de](https://www.kontextwochenzeitung.de)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## koray er
+ - [https://korayer.de](https://korayer.de)
+ - date_published: 2024-05-06T15:03:14.714356+00:00
+
+ ## koreanischesrestaurant-edmw.de
+ - [http://www.koreanischesrestaurant-edmw.de](http://www.koreanischesrestaurant-edmw.de)
+ - date_published: 2024-04-30T07:12:33.065758+00:00
+
+ ## KOSMOS Verlag
+ - [https://www.kosmos.de](https://www.kosmos.de)
+ - date_published: 2024-05-08T04:34:47.403212+00:00
+
+ ## Sign In | KVH Analytics
+ - [https://analytics.kovah.de](https://analytics.kovah.de)
+ - date_published: 2024-05-14T04:06:17.792327+00:00
+
+ ## Kevin Woblick
+ - [https://kovah.de](https://kovah.de)
+ - date_published: 2024-05-14T04:06:18.322359+00:00
+
+ ## Kevin Woblick
+ - [https://www.kovah.de](https://www.kovah.de)
+ - date_published: 2024-05-11T10:17:42.489025+00:00
+
+ ## IOAM
+ - [https://data-f1e447fbcf.kreiszeitung.de](https://data-f1e447fbcf.kreiszeitung.de)
+ - date_published: 2024-04-29T06:16:36.089918+00:00
+
+ ## Kisad Sporttabellen - kreiszeitung
+ - [https://tabellen.kreiszeitung.de](https://tabellen.kreiszeitung.de)
+ - date_published: 2024-04-29T06:16:37.348891+00:00
+
+ ## Nachrichten aus Bremen und Niedersachsen | kreiszeitung.de
+ - [https://www.kreiszeitung.de](https://www.kreiszeitung.de)
+ - date_published: 2023-10-25T18:31:36.569218+00:00
+
+ ## Kölner Stadt-Anzeiger - Aktuelle Nachrichten aus Köln und der ganzen Welt
+ - [https://www.ksta.de](https://www.ksta.de)
+ - date_published: 2024-04-29T06:31:39.214787+00:00
+
+ ## Kuketz IT-Security Blog
+ - [https://www.kuketz-blog.de](https://www.kuketz-blog.de)
+ - date_published: 2024-05-17T02:45:57.901685+00:00
+ - tags: ['cybersecurity', 'hacking']
+
+ ## kulturator
+ - [https://kulturator.de](https://kulturator.de)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Die Kulturgesichter in NRW
+ - [https://www.kulturgesichternrw.de](https://www.kulturgesichternrw.de)
+ - date_published: 2024-04-29T06:20:33.631724+00:00
+
+ ## Kunstverein Gundelfingen
+ - [http://kunstverein-gundelfingen.de](http://kunstverein-gundelfingen.de)
+ - date_published: 2024-04-29T06:27:09.235127+00:00
+
+ ## Startseite
+ - [https://www.kupona.de](https://www.kupona.de)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Kinderportal des Deutschen Bundestages
+ - [https://www.kuppelkucker.de](https://www.kuppelkucker.de)
+ - date_published: 2024-04-29T05:56:25.127775+00:00
+
+ ## Michael Kuron's Blog
+ - [https://blog.michael.kuron-germany.de](https://blog.michael.kuron-germany.de)
+ - date_published: 2023-10-25T18:31:39.282220+00:00
+
+ ## Michael Kuron's Blog
+ - [http://michael.kuron-germany.de](http://michael.kuron-germany.de)
+ - date_published: 2024-04-29T06:16:57.699593+00:00
+ - tags: ['personal']
+
+ ## Jacob 'kurtextrem' Groß | Jacob Groß | kurtextrem.de
+ - [https://kurtextrem.de](https://kurtextrem.de)
+ - date_published: 2023-10-25T18:31:39.984385+00:00
+
+ ## Kunstverein Ost | KVOST
+ - [https://kvost.de](https://kvost.de)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Home - LAG Jungen*- & Männer*arbeit Baden-Württemberg
+ - [https://www.lag-jungenarbeit.de](https://www.lag-jungenarbeit.de)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Umfrage erstellen | Top Umfrage-Tool | Kostenlose Fragebögen
+ - [https://www.lamapoll.de](https://www.lamapoll.de)
+ - date_published: 2024-05-07T23:53:47.139803+00:00
+
+ ## Deutschland - Land der Ideen
+ - [https://land-der-ideen.de](https://land-der-ideen.de)
+ - date_published: 2024-05-11T08:03:03.091518+00:00
+
+ ## Landtiere: Alles über Katzen, Hunde, Pferde & mehr | Landtiere.de
+ - [https://www.landtiere.de](https://www.landtiere.de)
+ - date_published: 2024-04-29T06:04:47.842673+00:00
+
+ ## larsjung.de
+ - [https://larsjung.de](https://larsjung.de)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Lauritz Kramberger – Just another WordPress site
+ - [https://lauritzkr.de](https://lauritzkr.de)
+ - date_published: 2024-05-09T08:04:53.070130+00:00
+
+ ## Welcome!
+ - [https://lead-server.de](https://lead-server.de)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Hjem - Learnist - Programmierkurs für Kinder
+ - [https://learnist.de](https://learnist.de)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Lebensmittelklarheit | Portal für mehr Durchblick
+ - [http://www.lebensmittelklarheit.de](http://www.lebensmittelklarheit.de)
+ - date_published: 2024-04-29T07:02:45.484855+00:00
+
+ ## Legimi - E-Books lesen und Hörbücher hören - ohne Limit
+ - [https://www.legimi.de](https://www.legimi.de)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Lehrer-Online
+ - [https://www.lehrer-online.de](https://www.lehrer-online.de)
+ - date_published: 2024-05-02T10:26:54.142986+00:00
+
+ ## Leibniz-Gemeinschaft: Startseite
+ - [https://www.leibniz-gemeinschaft.de](https://www.leibniz-gemeinschaft.de)
+ - date_published: 2024-04-29T06:55:59.729923+00:00
+
+ ## Start - Leipziger KUBUS
+ - [http://www.leipziger-kubus.de](http://www.leipziger-kubus.de)
+ - date_published: 2024-05-11T08:53:04.474577+00:00
+
+ ## Lennart Jörgens - Software Engineer
+ - [https://www.lekoarts.de](https://www.lekoarts.de)
+ - date_published: 2024-05-02T13:43:20.951849+00:00
+ - tags: ['personal']
+
+ ## Lemke Software: Mac Fotobearbeitung, Mac Diashow, Mac Grafikprogramm, Mac Bildbetrachter
+ - [https://www.lemkesoft.de](https://www.lemkesoft.de)
+ - date_published: 2024-05-06T20:15:27.795760+00:00
+
+ ## Lemmini
+ - [http://lemmini.de](http://lemmini.de)
+ - date_published: 2024-05-09T09:09:34.944008+00:00
+ - tags: ['video game engine']
+
+ ## Start - Waldschule Groß Grönau
+ - [https://ws-gg.lernnetz.de](https://ws-gg.lernnetz.de)
+ - date_published: 2023-12-13T14:01:00+00:00
+
+ ## Filius - Startseite
+ - [https://www.lernsoftware-filius.de](https://www.lernsoftware-filius.de)
+ - date_published: 2024-05-08T03:29:58.523202+00:00
+
+ ## Startseite: LGNU
+ - [https://www.lgnu.de](https://www.lgnu.de)
+ - date_published: 2024-05-10T06:17:12.796431+00:00
+
+ ## libquantum - Simulation of quantum mechanics
+ - [http://www.libquantum.de](http://www.libquantum.de)
+ - date_published: 2024-05-11T11:52:26.047482+00:00
+
+ ## LIBRANET.de | Home
+ - [https://libranet.de](https://libranet.de)
+ - date_published: 2024-05-04T12:47:50.895186+00:00
+
+ ## LibraryThing | Katalogisiere deine Bücher online | LibraryThing auf Deutsch
+ - [http://www.librarything.de](http://www.librarything.de)
+ - date_published: 2024-05-04T12:29:06.991417+00:00
+
+ ## liebermannkiepe.de is available for purchase - Sedo.com
+ - [http://liebermannkiepe.de](http://liebermannkiepe.de)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Latest logs
+ - [https://lille-oe.de](https://lille-oe.de)
+ - date_published: 2024-05-08T00:11:10.181831+00:00
+
+ ## Technische Gase von Linde Gas online kaufen
+ - [https://linde.de](https://linde.de)
+ - date_published: 2024-05-06T08:57:25.337187+00:00
+
+ ## Home - LinuxCommunity
+ - [https://www.linux-community.de](https://www.linux-community.de)
+ - date_published: 2024-05-02T13:42:44.085107+00:00
+
+ ## Startpage - Linuxhotel
+ - [https://linuxhotel.de](https://linuxhotel.de)
+ - date_published: 2016-07-01T11:24:33+00:00
+
+ ## LinuxNews.de
+ - [https://linuxnews.de](https://linuxnews.de)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Chemnitzer Linux-Tage 2024 · Chemnitz Linux Days 2024
+ - [https://chemnitzer.linux-tage.de](https://chemnitzer.linux-tage.de)
+ - date_published: 2024-05-12T06:58:16.806485+00:00
+
+ ## Tickets und Tourdaten | Live Nation Deutschland
+ - [https://www.livenation.de](https://www.livenation.de)
+ - date_published: 2024-05-13T03:41:34.358760+00:00
+
+ ## DICE 2014 – Developments in Implicit Computational Complexity
+ - [https://dice14.tcs.ifi.lmu.de](https://dice14.tcs.ifi.lmu.de)
+ - date_published: 2014-01-01T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.medien.ifi.lmu.de](https://matomo.medien.ifi.lmu.de)
+ - date_published: 2024-04-29T06:20:03.063867+00:00
+
+ ## Sign in - Matomo
+ - [https://web-analytics.lmu.de](https://web-analytics.lmu.de)
+ - date_published: 2024-04-29T06:20:00.523924+00:00
+
+ ## Institut für Informatik - LMU München
+ - [http://www.ifi.lmu.de](http://www.ifi.lmu.de)
+ - date_published: 2024-04-29T06:20:08.402309+00:00
+
+ ## Startseite - LMU München
+ - [https://www.lmu.de](https://www.lmu.de)
+ - date_published: 2023-11-26T11:11:04.642177+00:00
+ - tags: ['university']
+
+ ## LMU Munich - Media Informatics
+ - [https://www.medien.ifi.lmu.de](https://www.medien.ifi.lmu.de)
+ - date_published: 2023-10-25T18:31:46.269292+00:00
+
+ ## Lehr- und Forschungseinheit für Theoretische Informatik und Theorembeweisen
+ - [http://www.tcs.ifi.lmu.de](http://www.tcs.ifi.lmu.de)
+ - date_published: 2024-04-29T06:17:55.944887+00:00
+
+ ## LN - Lübecker Nachrichten
+ - [https://www.ln-online.de](https://www.ln-online.de)
+ - date_published: 2024-05-11T05:40:26.016967+00:00
+
+ ## LOAD e.V. – Verein für liberale Netzpolitik
+ - [https://www.load-ev.de](https://www.load-ev.de)
+ - date_published: 2024-05-06T23:57:28.786424+00:00
+
+ ## LobbyControl - Initiative für Transparenz und Demokratie
+ - [http://www.lobbycontrol.de](http://www.lobbycontrol.de)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Jobs & Stellenangebote auf Ihrer regionalen Jobbörse localjob.de
+ - [https://www.localjob.de](https://www.localjob.de)
+ - date_published: 2024-04-29T06:05:13.967798+00:00
+
+ ## Verlag für Videospielkultur - Look Behind You
+ - [https://lookbehindyou.de](https://lookbehindyou.de)
+ - date_published: 2024-04-29T05:48:10.007380+00:00
+
+ ## LostFocus
+ - [https://lostfocus.de](https://lostfocus.de)
+ - date_published: 2023-12-20T21:30:15.642798+00:00
+ - tags: ['personal']
+
+ ## LovelyBooks - Leser empfehlen Dir die besten Bücher und Autoren
+ - [https://www.lovelybooks.de](https://www.lovelybooks.de)
+ - date_published: 2024-04-29T06:34:27.873110+00:00
+
+ ## L. Ron Hubbard – Gründer von Dianetics und Scientology
+ - [https://www.lronhubbard.de](https://www.lronhubbard.de)
+ - date_published: 2024-06-06T19:38:41.386739+00:00
+
+ ## Files - lsww.de
+ - [https://files.lsww.de](https://files.lsww.de)
+ - date_published: 2024-04-29T06:20:25.492484+00:00
+
  ## Not Found | Shlink
  - [https://go.lsww.de](https://go.lsww.de)
  - date_published: 2024-04-29T06:20:24.909327+00:00
@@ -264,6 +780,10 @@
  ## Michael Wehram Personal Blog – Freie Software und die Ubuntu Linux Welt
  - [https://michaelwehram.de](https://michaelwehram.de)
  - date_published: 2024-05-09T07:47:10.039282+00:00
+
+ ## Microsoft – chmura, komputery, aplikacje i gry
+ - [https://login.microsoftonline.de](https://login.microsoftonline.de)
+ - date_published: 2024-06-06T00:52:19.381523+00:00
 
  ## midzers Flimmerkiste
  - [https://midzer.de](https://midzer.de)
@@ -1504,6 +2024,14 @@
  - [https://www.scieneers.de](https://www.scieneers.de)
  - date_published: 2024-03-19T00:00:00+00:00
 
+ ## Offizielle Scientology Kirche: L. Ron Hubbard, Dianetik, Was ist Scientology?, Bücher, Anschauungen, David Miscavige
+ - [https://www.scientology.de](https://www.scientology.de)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Der Hintergrund, die Theologie und die religiöse Praktik der Scientology Religion
+ - [http://www.scientologyreligion.de](http://www.scientologyreligion.de)
+ - date_published: 2024-06-06T19:41:32.897000+00:00
+
  ## Score Media Group – Die nationale Vermarktungsplattform regionaler Medienmarken
  - [https://score-media.de](https://score-media.de)
  - date_published: 2024-05-02T00:00:00+00:00
@@ -1841,6 +2369,7 @@
  ## Computer-Magazin Archiv: Klassische Computer-Magazine
  - [https://www.stcarchiv.de](https://www.stcarchiv.de)
  - date_published: 2024-05-07T15:33:15.051702+00:00
+ - tags: ['atari', 'retro games']
 
  ## STEALTHCHIP.DE :: I WANT TO DECRYPT.
  - [http://www.stealthchip.de](http://www.stealthchip.de)
@@ -3541,528 +4070,4 @@
  ## Unternehmen - WELT
  - [https://unternehmen.welt.de](https://unternehmen.welt.de)
  - date_published: 2024-01-09T00:00:00+00:00
-
- ## Das aktuelle Wetter und 5-Tage Wettervorhersage für Deutschland
- - [https://wetter.welt.de](https://wetter.welt.de)
- - date_published: 2024-04-29T07:02:56.301706+00:00
-
- ## Fehler
- - [https://whoami-web.prod.ps.welt.de](https://whoami-web.prod.ps.welt.de)
- - date_published: 2024-04-29T07:03:24.425259+00:00
-
- ## WELT - Aktuelle Nachrichten, News, Hintergründe & Videos
- - [https://www.welt.de](https://www.welt.de)
- - date_published: 2023-10-25T18:33:41+00:00
- - tags: ['german news']
-
- ## WELT - Zeitung
- - [https://zeitung.welt.de](https://zeitung.welt.de)
- - date_published: 2024-04-29T07:03:21.882065+00:00
-
- ## Welt-Aids-Tag am 01.12. | Leben mit HIV / Welt-AIDS-Tag
- - [http://www.welt-aids-tag.de](http://www.welt-aids-tag.de)
- - date_published: 2024-05-16T02:45:51.972851+00:00
-
- ## Wendik Pumpen Service: Startseite
- - [http://www.wendik.de](http://www.wendik.de)
- - date_published: 2024-05-10T04:00:02.089418+00:00
-
- ## Modell und Ruine – Werkleitz Festival 2019
- - [https://modell-und-ruine.werkleitz.de](https://modell-und-ruine.werkleitz.de)
- - date_published: 2024-05-11T07:47:02.290103+00:00
-
- ## Wetter in Deutschland | wetterlabs.de
- - [https://wetterlabs.de](https://wetterlabs.de)
- - date_published: 2024-05-02T10:30:08.449303+00:00
-
- ## API
- - [https://api-app.wetteronline.de](https://api-app.wetteronline.de)
- - date_published: 2024-05-07T13:25:25.803230+00:00
-
- ## Wetter aktuell, Wettervorhersage und Wetterbericht - WetterOnline
- - [https://www.wetteronline.de](https://www.wetteronline.de)
- - date_published: 2024-05-07T13:25:19.135988+00:00
-
- ## The Weather Network - Weather forecasts, maps, news and videos
- - [http://www.wetterplus.de](http://www.wetterplus.de)
- - date_published: 2024-05-06T17:20:05.063104+00:00
-
- ## Features - wger
- - [https://wger.de](https://wger.de)
- - date_published: 2024-04-08T19:31:22.733511+00:00
- - tags: ['workout manager']
-
- ## whatheco.de – Discussions on software, design, and software design.
- - [https://whatheco.de](https://whatheco.de)
- - date_published: 2023-10-25T18:33:46.115321+00:00
-
- ## Sign in - Matomo
- - [https://t.whats-up.de](https://t.whats-up.de)
- - date_published: 2024-05-10T06:33:59.559701+00:00
-
- ## Main - WHDLoad MantisBT
- - [https://mantis.whdload.de](https://mantis.whdload.de)
- - date_published: 2024-01-09T02:56:25.035953+00:00
-
- ## WHDLoad
- - [https://whdload.de](https://whdload.de)
- - date_published: 2024-01-09T02:56:26.610993+00:00
-
- ## WHDLoad
- - [https://www.whdload.de](https://www.whdload.de)
- - date_published: 2024-01-23T00:00:00+00:00
- - tags: ['amiga']
-
- ## Whistleblower-Netzwerk
- - [https://www.whistleblower-net.de](https://www.whistleblower-net.de)
- - date_published: 2024-05-06T23:56:01.877058+00:00
-
- ## WHUDAT
- - [http://www.whudat.de](http://www.whudat.de)
- - date_published: 2024-05-11T11:10:00.657860+00:00
-
- ## Wikipedia, die freie Enzyklopädie
- - [http://www.wikipedia.de](http://www.wikipedia.de)
- - date_published: 2024-05-04T12:25:46.095318+00:00
-
- ## Page Redirection
- - [https://application.wiley-vch.de](https://application.wiley-vch.de)
- - date_published: 2024-05-11T09:35:51.001541+00:00
-
- ## Boris Wilhelms
- - [https://blog.wille-zone.de](https://blog.wille-zone.de)
- - date_published: 2024-05-01T03:55:34.995694+00:00
- - tags: ['personal']
-
- ## Serialized Gedanken
- - [https://valentin.willscher.de](https://valentin.willscher.de)
- - date_published: 2023-12-25T08:33:59.217539+00:00
-
- ## Windenergie in Deutschland, Europa und der Welt - Windbranche.de
- - [https://www.windbranche.de](https://www.windbranche.de)
- - date_published: 2024-04-29T06:15:25.393073+00:00
-
- ## winterworks: Pure game developing awesomeness!
- - [https://www.winterworks.de](https://www.winterworks.de)
- - date_published: 2024-05-09T09:10:10.481950+00:00
-
- ## Auto & Technik
- - [https://www.wired.de](https://www.wired.de)
- - date_published: 2017-07-03T09:39:59+00:00
-
- ## witcher's blog
- - [https://wiredspace.de](https://wiredspace.de)
- - date_published: 2023-06-21T00:00:00+00:00
-
- ## Wissen vom Fass
- - [https://www.wissenvomfass.de](https://www.wissenvomfass.de)
- - date_published: 2024-04-29T06:02:32.861967+00:00
-
- ## WISTA Management GmbH - Standortentwicklung und Wirtschaftsförderung in Berlin
- - [https://www.wista.de](https://www.wista.de)
- - date_published: 2024-04-29T06:13:57.229381+00:00
-
- ## WITTENSTEIN SE
- - [https://www.wittenstein.de](https://www.wittenstein.de)
- - date_published: 2024-05-12T05:08:29.611161+00:00
-
- ## WirtschaftsWoche: Das führende Wirtschaftsmagazin | WiWo
- - [http://app.wiwo.de](http://app.wiwo.de)
- - date_published: 2024-05-02T13:40:21.453479+00:00
-
- ## WirtschaftsWoche: Das führende Wirtschaftsmagazin | WiWo
- - [https://www.wiwo.de](https://www.wiwo.de)
- - date_published: 2024-04-29T07:12:02.194378+00:00
-
- ## Mike McBike @ Home
- - [http://www.wolfgangrobel.de](http://www.wolfgangrobel.de)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Offizielle Webseite von Wondershare: Kreativität, Produktivität, Nützlichkeit
- - [https://www.wondershare.de](https://www.wondershare.de)
- - date_published: 2024-05-11T08:35:11.578837+00:00
-
- ## Die Zukunft der Schichtplanung mit WorkforcePlus
- - [https://www.workforceplus.de](https://www.workforceplus.de)
- - date_published: 2023-04-26T10:16:18+00:00
-
- ## Der Working Draft Podcast
- - [https://workingdraft.de](https://workingdraft.de)
- - date_published: 2024-04-30T00:32:53.131591+00:00
-
- ## TERRA HOME | WORTMANN AG - IT Made in Germany
- - [https://www.wortmann.de](https://www.wortmann.de)
- - date_published: 2024-05-11T07:36:19.900272+00:00
-
- ## WP-Dojo  -  Ein Club für WordPress begeisterte
- - [https://wp-dojo.de](https://wp-dojo.de)
- - date_published: 2024-05-10T06:44:02.638329+00:00
-
- ## WordPress Meetup Nürnberg
- - [https://wpmeetup-nuernberg.de](https://wpmeetup-nuernberg.de)
- - date_published: 2024-05-10T06:44:00.493437+00:00
-
- ## Wunder der Prärie | Care City — Internationales Live-Art Festival30. Sep – 10. Okt 2021 / Hafenstrasse 68, Mannheim
- - [https://www.wunderderpraerie.de](https://www.wunderderpraerie.de)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## WWF Deutschland – Organisation für Natur- und Artenschutz
- - [https://www.wwf.de](https://www.wwf.de)
- - date_published: 2024-05-07T23:59:23.007361+00:00
-
- ## Welcome - Wyrms.de
- - [https://www.wyrms.de](https://www.wyrms.de)
- - date_published: 2024-05-10T06:29:42.717273+00:00
-
- ## extra 3 - Der Irrsinn der Woche
- - [https://www.x3.de](https://www.x3.de)
- - date_published: 2024-05-13T03:12:03.287855+00:00
-
- ## Ode to capitalism
- - [https://blog.xa0.de](https://blog.xa0.de)
- - date_published: 2023-10-25T18:33:54.731626+00:00
-
- ## X-Force: Fight For Destiny - Home
- - [http://www.xforce-online.de](http://www.xforce-online.de)
- - date_published: 2024-05-09T08:55:51.863967+00:00
-
- ## xine - A Free Video Player - Home
- - [http://xinehq.de](http://xinehq.de)
- - date_published: 2024-05-17T07:00:27+00:00
- - tags: ['media player']
-
- ## Konrad Zuse
- - [http://www.xn--plankalkl-x9a.de](http://www.xn--plankalkl-x9a.de)
- - date_published: 2024-04-02T17:44:22+00:00
-
- ## Thüringen-Shop - Thüringen-Shop
- - [https://www.xn--thringen-shop-xob.de](https://www.xn--thringen-shop-xob.de)
- - date_published: 2024-05-10T05:40:29.991765+00:00
-
- ## grafiktablett mit display, profi zeichentablett für pc | XPPen
- - [https://www.xp-pen.de](https://www.xp-pen.de)
- - date_published: 2024-05-30T18:42:01.389157+00:00
-
- ## Xyllomer: The Mud Concept
- - [https://www.xyllomer.de](https://www.xyllomer.de)
- - date_published: 2024-03-27T20:54:09.317532+00:00
- - tags: ['mud game']
-
- ## Willkommen
- - [http://shop.yaml.de](http://shop.yaml.de)
- - date_published: 2024-04-29T07:11:23.153153+00:00
-
- ## YAML CSS Framework — for truly flexible, accessible and responsive websites
- - [https://www.yaml.de](https://www.yaml.de)
- - date_published: 2024-01-09T02:56:27.311542+00:00
-
- ## Yelp
- - [https://www.yelp.de](https://www.yelp.de)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## YouGov Deutschland
- - [https://yougov.de](https://yougov.de)
- - date_published: 2024-05-10T05:11:49.788355+00:00
-
- ## Storage Share
- - [https://nx12042.your-storageshare.de](https://nx12042.your-storageshare.de)
- - date_published: 2024-05-14T03:34:55.429326+00:00
-
- ## The Unofficial CP/M Web Site
- - [http://www.cpm.z80.de](http://www.cpm.z80.de)
- - date_published: 2024-05-09T06:56:23.019986+00:00
-
- ## ZDF - Next Generation Player
- - [https://ngp.zdf.de](https://ngp.zdf.de)
- - date_published: 2024-05-13T03:13:56.677809+00:00
-
- ## Start
- - [https://presseportal.zdf.de](https://presseportal.zdf.de)
- - date_published: 2024-05-13T03:13:55.560209+00:00
-
- ## ZDF Ticketservice
- - [https://ticketservice.zdf.de](https://ticketservice.zdf.de)
- - date_published: 2024-05-13T03:13:58.198760+00:00
-
- ## ZDFmediathek
- - [https://www.zdf.de](https://www.zdf.de)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## ZDFmediathek
- - [http://zdf.de](http://zdf.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## ZDFtext
- - [https://www.zdftext.de](https://www.zdftext.de)
- - date_published: 2024-05-13T03:13:59.269129+00:00
-
- ## Mit dem Zweiten wirbt man besser – ZDF Werbefernsehen
- - [https://www.zdf-werbefernsehen.de](https://www.zdf-werbefernsehen.de)
- - date_published: 2024-05-13T03:14:01.284466+00:00
-
- ## ZDNet.de
- - [https://www.zdnet.de](https://www.zdnet.de)
- - date_published: 2024-05-07T18:49:45.562787+00:00
-
- ## DIE ZEIT und die ZEIT Magazine im Abo
- - [https://abo.zeit.de](https://abo.zeit.de)
- - date_published: 2024-04-29T07:11:54.596037+00:00
-
- ## Welcher Beruf passt zu mir? - Der Berufstest von ZEIT Campus
- - [https://berufstest.zeit.de](https://berufstest.zeit.de)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Blogs
- - [https://blog.zeit.de](https://blog.zeit.de)
- - date_published: 2024-04-29T07:12:36.743029+00:00
-
- ## ZEIT ONLINE Startseite
- - [https://cmk.zeit.de](https://cmk.zeit.de)
- - date_published: 2024-04-29T07:00:14.167012+00:00
-
- ## 403
- - [https://datenschutz.zeit.de](https://datenschutz.zeit.de)
- - date_published: 2024-04-29T07:12:24.987920+00:00
-
- ## 404 Fehler
- - [https://img.zeit.de](https://img.zeit.de)
- - date_published: 2024-04-29T07:11:36.595535+00:00
-
- ## Anzeigenerfassung | DIE ZEIT
- - [https://inserieren.zeit.de](https://inserieren.zeit.de)
- - date_published: 2024-04-29T07:12:50.059154+00:00
-
- ## ZEIT ONLINE Stellenmarkt - Jobbörse der ZEIT - Alle aktuellen Jobs im ZEIT ONLINE Stellenmarkt
- - [https://jobs.zeit.de](https://jobs.zeit.de)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## ZEIT ONLINE
- - [https://meine.zeit.de](https://meine.zeit.de)
- - date_published: 2024-04-29T07:12:29.476682+00:00
-
- ## ZEIT ONLINE | Nachrichten, News, Hintergründe und Debatten
- - [https://newsfeed.zeit.de](https://newsfeed.zeit.de)
- - date_published: 2024-02-26T14:40:39.110166+00:00
-
- ## Newsletter | ZEIT ONLINE
- - [https://newsletter.zeit.de](https://newsletter.zeit.de)
- - date_published: 2024-04-29T07:12:52.059216+00:00
-
- ## ZEIT ONLINE Partnersuche - Zeit für Liebe!
- - [https://partnersuche.zeit.de](https://partnersuche.zeit.de)
- - date_published: 2024-04-29T07:12:53.100204+00:00
-
- ## ZEIT ABO - Die digitale ZEIT im Abo
- - [https://premium.zeit.de](https://premium.zeit.de)
- - date_published: 2024-04-29T07:12:03.558506+00:00
-
- ## ZEIT ONLINE
- - [https://profile.zeit.de](https://profile.zeit.de)
- - date_published: 2024-04-29T07:12:15.150605+00:00
-
- ## Quiz des Tages: Der tägliche Wissenstest | ZEIT Spiele
- - [https://quiz.zeit.de](https://quiz.zeit.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## DIE ZEIT Shop - Besondere Ideen, erlesene Geschenke
- - [https://shop.zeit.de](https://shop.zeit.de)
- - date_published: 2024-04-29T07:11:53.071897+00:00
-
- ## Spiele und Rätsel
- - [https://spiele.zeit.de](https://spiele.zeit.de)
- - date_published: 2024-04-29T07:12:18.003863+00:00
-
- ## 404 Fehler
- - [https://static.zeit.de](https://static.zeit.de)
- - date_published: 2024-04-29T07:11:43.281389+00:00
-
- ## Die besten Studiengänge finden mit HeyStudium
- - [https://studiengaenge.zeit.de](https://studiengaenge.zeit.de)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Sudoku online spielen | ZEIT Spiele
- - [https://sudoku.zeit.de](https://sudoku.zeit.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Freunde der ZEIT - Das Programm für alle Abonnentinnen und Abonnenten
- - [https://verlag.zeit.de](https://verlag.zeit.de)
- - date_published: 2024-04-29T07:12:57.977695+00:00
-
- ## ZEIT ONLINE | Nachrichten, News, Hintergründe und Debatten
- - [https://www.zeit.de](https://www.zeit.de)
- - date_published: 2023-10-25T18:34:07.682068+00:00
-
- ## Startseite | ZEIT REISEN - Reiseprogramm der ZEIT
- - [https://zeitreisen.zeit.de](https://zeitreisen.zeit.de)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Die Zukunft des Lernens hat begonnen - Die ZEIT Akademie
- - [https://www.zeitakademie.de](https://www.zeitakademie.de)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## ZEIT für X – Startseite
- - [https://zeitfuerx.de](https://zeitfuerx.de)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## DIE ZEIT Verlagsgruppe
- - [https://www.zeit-verlagsgruppe.de](https://www.zeit-verlagsgruppe.de)
- - date_published: 2024-04-29T07:11:44.508327+00:00
-
- ## Zettelkasten knowledge and info management • Zettelkasten Method
- - [https://zettelkasten.de](https://zettelkasten.de)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Home | zib.de
- - [https://www.zib.de](https://www.zib.de)
- - date_published: 2024-05-04T15:14:50.864936+00:00
-
- ## Home - Konrad Zuse Internet Archive
- - [http://zuse-z1.zib.de](http://zuse-z1.zib.de)
- - date_published: 2024-05-11T11:53:30.414999+00:00
-
- ## ZITATE-ONLINE.DE +++ Starke Sprüche - treffende Zitate +++ Sprichwörter +++ Zitat des Tages +++ Forum +++ Lieblingszitate verwalten u.v.m.
- - [http://www.zitate-online.de](http://www.zitate-online.de)
- - date_published: 2024-04-29T06:31:46.394671+00:00
-
- ## Z-Node 51
- - [http://www.znode51.de](http://www.znode51.de)
- - date_published: 2024-05-09T07:02:04.780112+00:00
-
- ## Tierbedarf, Tierfutter, Tiernahrung günstig bestellen | zooplus
- - [https://www.zooplus.de](https://www.zooplus.de)
- - date_published: 2024-05-01T05:49:20.497610+00:00
-
- ## package finder tool
- - [https://maintainer.zq1.de](https://maintainer.zq1.de)
- - date_published: 2024-05-08T08:49:54.518164+00:00
-
- ## Zentrum für Transfusionsmedizin & Zelltherapie | ZTB
- - [https://www.ztb-blutspende.de](https://www.ztb-blutspende.de)
- - date_published: 2024-04-29T05:58:51.372800+00:00
-
- ## zufallsheld
- - [https://www.zufallsheld.de](https://www.zufallsheld.de)
- - date_published: 2024-02-22T13:05:21.693897+00:00
-
- ## https://zukunft-der-sub.de
- - [https://zukunft-der-sub.de](https://zukunft-der-sub.de)
- - date_published: 2024-01-09T02:56:28.461043+00:00
-
- ## Falko Zurell | wondering about stuff
- - [https://falko.zurell.de](https://falko.zurell.de)
- - date_published: 2024-05-09T07:59:10.675642+00:00
-
- ## Home - Weinstube Zur Kiste
- - [http://www.zur-kiste.de](http://www.zur-kiste.de)
- - date_published: 2024-04-30T07:12:17.640198+00:00
-
- ## Jelly Deals
- - [https://www.jelly.deals](https://www.jelly.deals)
- - date_published: 2023-12-13T15:40:49.601884+00:00
-
- ## Surfshark: secure online VPN service & more
- - [https://surfshark.deals](https://surfshark.deals)
- - date_published: 2024-02-24T09:57:36.415179+00:00
-
- ## Explore - git.meli.delivery
- - [https://git.meli.delivery](https://git.meli.delivery)
- - date_published: 2023-10-25T18:34:11.386923+00:00
-
- ## meli terminal mail client
- - [https://meli.delivery](https://meli.delivery)
- - date_published: 2024-04-29T07:13:36.005635+00:00
-
- ## Alessandro De Simone - Software Engineer - London
- - [https://alessandro.desi](https://alessandro.desi)
- - date_published: 2023-12-19T09:58:57.272282+00:00
- - tags: ['personal']
-
- ## 1984.design • Expand your knowledge & improve your design skills.
- - [https://1984.design](https://1984.design)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://www.1984.design](https://www.1984.design)
- - date_published: 2023-10-25T18:34:13.186299+00:00
-
- ## Adobe Design
- - [https://adobe.design](https://adobe.design)
- - date_published: 2024-05-01T02:27:37.750190+00:00
-
- ## aimpie.design
- - [https://aimpie.design](https://aimpie.design)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Airbnb Design
- - [https://airbnb.design](https://airbnb.design)
- - date_published: 2024-04-29T07:18:12.718027+00:00
-
- ## Algorithm-Driven Design — How Artificial Intelligence is Changing Design by Yury Vetrov
- - [https://algorithms.design](https://algorithms.design)
- - date_published: 2023-11-17T00:00:00+00:00
-
- ## archives.design
- - [https://archives.design](https://archives.design)
- - date_published: 2023-10-25T18:34:15.291934+00:00
-
- ## Artificial Design
- - [https://artificial.design](https://artificial.design)
- - date_published: 2024-05-09T08:23:25.805542+00:00
-
- ## About
- - [https://bald.design](https://bald.design)
- - date_published: 2024-05-07T23:16:54.259184+00:00
-
- ## Being Design | Branding and Marketing Consultants
- - [https://being.design](https://being.design)
- - date_published: 2024-05-10T06:47:25.912587+00:00
-
- ## Enterprise & Consumer Apps that get results
- - [https://www.bigrocket.design](https://www.bigrocket.design)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Bingham Design | Digital Marketing for Your Cause
- - [https://bingham.design](https://bingham.design)
- - date_published: 2024-01-11T13:29:06.035129+00:00
-
- ## Brutalist Web Design
- - [https://brutalist-web.design](https://brutalist-web.design)
- - date_published: 2023-09-29T00:00:00+00:00
- - tags: ['brutalist web', 'web1', 'internet']
-
- ## Design For Awareness | Cap_able Design
- - [https://www.capable.design](https://www.capable.design)
- - date_published: 2023-10-25T18:34:17.686429+00:00
-
- ## Clarity Design System
- - [https://core.clarity.design](https://core.clarity.design)
- - date_published: 2024-04-30T00:28:52.873940+00:00
-
- ## Cloudscape - Cloudscape Design System
- - [https://cloudscape.design](https://cloudscape.design)
- - date_published: 2024-05-09T08:30:53.901042+00:00
-
- ## Craftcode Design – Home
- - [https://craftcode.design](https://craftcode.design)
- - date_published: 2024-05-07T23:15:44.352319+00:00
-
- ## Craftwork: UX/UI kits, illustrations, mockups, fonts and more
- - [https://craftwork.design](https://craftwork.design)
- - date_published: 2024-04-29T07:14:35.316192+00:00
-
- ## Curated web design inspiration catalog
- - [https://www.curated.design](https://www.curated.design)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## index
- - [https://daveon.design](https://daveon.design)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Deceptive Patterns - Home
- - [https://www.deceptive.design](https://www.deceptive.design)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Product design & UX design resources – Degreeless.Design
- - [https://www.degreeless.design](https://www.degreeless.design)
- - date_published: 2023-10-25T18:34:21.863194+00:00
 

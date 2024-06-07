@@ -663,6 +663,23 @@
  - [https://cleanlab.ai](https://cleanlab.ai)
  - date_published: 2023-10-25T11:37:20.608121+00:00
 
+ ## Attention Required! | Cloudflare
+ - [https://app.clearview.ai](https://app.clearview.ai)
+ - date_published: 2024-06-06T11:41:47.753173+00:00
+
+ ## Clearview AI | Facial Recognition
+ - [https://clearview.ai](https://clearview.ai)
+ - date_published: 2024-04-16T00:00:00+00:00
+ - tags: ['mass surveillance', 'artificial intelligence', 'facial recognition']
+
+ ## Clearview AI | Facial Recognition
+ - [https://go.clearview.ai](https://go.clearview.ai)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Clearview AI | Facial Recognition
+ - [http://www.clearview.ai](http://www.clearview.ai)
+ - date_published: 2024-04-16T00:00:00+00:00
+
  ## Climate Change AI
  - [https://www.climatechange.ai](https://www.climatechange.ai)
  - date_published: 2024-05-08T02:33:18.454780+00:00
@@ -4056,20 +4073,4 @@
  ## MuffinTerm • A Terminal for the Classic BBS Experience
  - [https://muffinterm.app](https://muffinterm.app)
  - date_published: 2024-05-08T04:06:32.485774+00:00
-
- ## Nanoc: a static-site generator written in Ruby » home
- - [https://nanoc.app](https://nanoc.app)
- - date_published: 2024-05-13T02:43:14.382890+00:00
-
- ## Not Found
- - [https://rss.nebula.app](https://rss.nebula.app)
- - date_published: 2024-02-26T09:23:05.699053+00:00
-
- ## 特務機関NERV防災
- - [https://nerv.app](https://nerv.app)
- - date_published: 2024-01-01T22:14:48.864192+00:00
-
- ## 2021 Color for CSS Cafe - Talk by Adam Argyle
- - [https://2021-css-cafe.netlify.app](https://2021-css-cafe.netlify.app)
- - date_published: 2024-04-30T02:02:30.031440+00:00
 

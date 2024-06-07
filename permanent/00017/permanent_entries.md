@@ -1,3 +1,241 @@
+ ## The Daily Dot | Your Internet. Your Internet news.
+ - [https://www.dailydot.com](https://www.dailydot.com)
+ - date_published: 2023-10-25T13:41:22.508047+00:00
+
+ ## The Daily Free Press – The Independent Student Newspaper at Boston University
+ - [https://dailyfreepress.com](https://dailyfreepress.com)
+ - date_published: 2024-01-09T02:33:30.244800+00:00
+
+ ## The Boston Hockey Blog
+ - [https://hockey.dailyfreepress.com](https://hockey.dailyfreepress.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Trading News & Analysis for Forex, Commodities and Indices
+ - [https://www.dailyfx.com](https://www.dailyfx.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## The Daily Hodl
+ - [https://dailyhodl.com](https://dailyhodl.com)
+ - date_published: 2023-12-11T16:05:08.521032+00:00
+ - tags: ['finance news']
+
+ ## Daily Investor Company Hub
+ - [https://companies.dailyinvestor.com](https://companies.dailyinvestor.com)
+ - date_published: 2024-05-01T03:30:14.586490+00:00
+
+ ## Daily Investor – Investing and business news, financial data, and insights for intelligent South African investors.
+ - [https://dailyinvestor.com](https://dailyinvestor.com)
+ - date_published: 2023-10-25T13:41:40.446699+00:00
+
+ ## Smart Money
+ - [https://watch.dailyinvestor.com](https://watch.dailyinvestor.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Daily Jugarr
+ - [https://dailyjugarr.com](https://dailyjugarr.com)
+ - date_published: 2024-03-29T04:27:16.475098+00:00
+
+ ## Daily Kos: Comics
+ - [https://comics.dailykos.com](https://comics.dailykos.com)
+ - date_published: 2024-05-01T03:30:44.107276+00:00
+
+ ## Daily Kos
+ - [https://dailykos.com](https://dailykos.com)
+ - date_published: 2024-05-01T03:30:27.820533+00:00
+
+ ## Daily Kos: Daily Kos Elections
+ - [https://elections.dailykos.com](https://elections.dailykos.com)
+ - date_published: 2024-05-01T03:30:37.300094+00:00
+
+ ## Daily Kos
+ - [https://feeds.dailykos.com](https://feeds.dailykos.com)
+ - date_published: 2024-05-01T02:31:22+00:00
+
+ ## DailyKos
+ - [https://store.dailykos.com](https://store.dailykos.com)
+ - date_published: 2024-05-01T03:30:45.758639+00:00
+
+ ## Daily Kos
+ - [https://www.dailykos.com](https://www.dailykos.com)
+ - date_published: 2024-01-23T19:07:08.621253+00:00
+
+ ## Dailymotion for Developers – Build great video applications
+ - [https://developer.dailymotion.com](https://developer.dailymotion.com)
+ - date_published: 2024-03-23T00:00:00+00:00
+
+ ## Dailymotion Legal – Legal Information
+ - [https://legal.dailymotion.com](https://legal.dailymotion.com)
+ - date_published: 2022-02-23T00:00:00+00:00
+
+ ## Dailymotion
+ - [https://www.dailymotion.com](https://www.dailymotion.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Subscription Panel
+ - [https://checkout.dailynews.com](https://checkout.dailynews.com)
+ - date_published: 2024-05-01T03:31:34.534323+00:00
+
+ ## Sign In with MNG
+ - [https://enewspaper.dailynews.com](https://enewspaper.dailynews.com)
+ - date_published: 2024-05-01T03:30:47.733180+00:00
+
+ ## Shop the Los Angeles Daily News Official Store
+ - [https://store.dailynews.com](https://store.dailynews.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Los Angeles Daily News
+ - [https://www.dailynews.com](https://www.dailynews.com)
+ - date_published: 2023-10-25T11:02:39.182115+00:00
+
+ ## Dailynewsegypt
+ - [https://dailynewsegypt.com](https://dailynewsegypt.com)
+ - date_published: 2022-04-08T00:39:27+00:00
+
+ ## Dailynewsegypt
+ - [https://www.dailynewsegypt.com](https://www.dailynewsegypt.com)
+ - date_published: 2023-11-05T22:14:24.944012+00:00
+
+ ## Home - Daily News Hungary
+ - [https://contentf5.dailynewshungary.com](https://contentf5.dailynewshungary.com)
+ - date_published: 2024-05-01T03:32:02.890645+00:00
+
+ ## Home - Daily News Hungary
+ - [https://dailynewshungary.com](https://dailynewshungary.com)
+ - date_published: 2024-02-25T21:16:34.183217+00:00
+
+ ## a Minnesota Vikings community
+ - [http://www.dailynorseman.com](http://www.dailynorseman.com)
+ - date_published: 2024-04-29T02:14:10.405855+00:00
+
+ ## The Daily Northwestern
+ - [https://dailynorthwestern.com](https://dailynorthwestern.com)
+ - date_published: 2024-05-08T09:00:19.284495+00:00
+
+ ## Daily Nous - news for & about the philosophy profession
+ - [https://dailynous.com](https://dailynous.com)
+ - date_published: 2023-10-25T13:41:48.743475+00:00
+
+ ## Supporting the Students and Alumni of the DP, 34th Street and UTB
+ - [https://dailypennalumni.com](https://dailypennalumni.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## BlueConic: Log In
+ - [https://a433.dailypress.com](https://a433.dailypress.com)
+ - date_published: 2024-05-01T03:33:31.743148+00:00
+
+ ## Daily Press
+ - [http://articles.dailypress.com](http://articles.dailypress.com)
+ - date_published: 2024-05-12T06:10:04.732717+00:00
+
+ ## Daily Press
+ - [https://enewspaper.dailypress.com](https://enewspaper.dailypress.com)
+ - date_published: 2024-05-01T03:33:24.359331+00:00
+
+ ## Fun & Games | Free Online Games, Puzzles, Crosswords & Jumbles | Daily Press
+ - [https://fun.dailypress.com](https://fun.dailypress.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## EU Notice | Daily Press
+ - [https://jobs.dailypress.com](https://jobs.dailypress.com)
+ - date_published: 2024-05-01T03:33:32.538482+00:00
+
+ ## Shop the Daily Press Official Store
+ - [http://store.dailypress.com](http://store.dailypress.com)
+ - date_published: 2024-05-01T03:33:39.319267+00:00
+
+ ## Tidewater Review
+ - [https://tr-enewspaper.dailypress.com](https://tr-enewspaper.dailypress.com)
+ - date_published: 2024-05-01T03:33:20.465015+00:00
+
+ ## Daily Press
+ - [https://www.dailypress.com](https://www.dailypress.com)
+ - date_published: 2023-12-04T14:48:50.055297+00:00
+
+ ## Media Kit | The Princetonian
+ - [https://business.dailyprincetonian.com](https://business.dailyprincetonian.com)
+ - date_published: 2024-05-01T03:33:47.761141+00:00
+
+ ## Crosswords | The Daily Princetonian
+ - [http://crossword.dailyprincetonian.com](http://crossword.dailyprincetonian.com)
+ - date_published: 2024-05-01T03:33:42.587256+00:00
+
+ ## The Daily Princetonian Quizzes
+ - [https://quizzes.dailyprincetonian.com](https://quizzes.dailyprincetonian.com)
+ - date_published: 2024-05-01T03:33:41.779240+00:00
+
+ ## Subscribe @ Daily Princetonian
+ - [https://subscribe.dailyprincetonian.com](https://subscribe.dailyprincetonian.com)
+ - date_published: 2024-05-01T03:33:50.227174+00:00
+
+ ## The Daily Princetonian
+ - [https://www.dailyprincetonian.com](https://www.dailyprincetonian.com)
+ - date_published: 2023-10-25T13:41:55.082519+00:00
+
+ ## The Daily Reckoning
+ - [https://dailyreckoning.com](https://dailyreckoning.com)
+ - date_published: 2023-10-25T13:41:59.032119+00:00
+
+ ## Daily Sabah | Latest & Breaking News from Turkey | Istanbul
+ - [https://www.dailysabah.com](https://www.dailysabah.com)
+ - date_published: 2024-01-03T00:55:08.271284+00:00
+ - tags: ['turkey news']
+
+ ## Home
+ - [http://dailyscandinavian.com](http://dailyscandinavian.com)
+ - date_published: 2023-08-24T13:17:46+00:00
+
+ ## Home
+ - [https://www.dailyscandinavian.com](https://www.dailyscandinavian.com)
+ - date_published: 2024-01-09T02:33:39.365837+00:00
+
+ ## Home
+ - [https://dailysecurityreview.com](https://dailysecurityreview.com)
+ - date_published: 2024-01-03T09:09:03.746373+00:00
+
+ ## The Daily Signal: Policy News, Conservative Analysis and Opinion
+ - [https://www.dailysignal.com](https://www.dailysignal.com)
+ - date_published: 2023-10-25T13:42:12.168369+00:00
+
+ ## Daily Stoic | Stoic Wisdom For Everyday Life
+ - [https://dailystoic.com](https://dailystoic.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## The Daily Stoic Store -- Memento Mori Medallions, Books, and Courses
+ - [https://store.dailystoic.com](https://store.dailystoic.com)
+ - date_published: 2024-05-12T05:39:23.912537+00:00
+
+ ## Daily Study Bible: Online Devotions and Daily Readings
+ - [https://dailystudybible.com](https://dailystudybible.com)
+ - date_published: 2024-06-02T20:51:26.185847+00:00
+
+ ## The Daily Targum
+ - [http://www.dailytargum.com](http://www.dailytargum.com)
+ - date_published: 2024-05-07T20:22:21.590021+00:00
+
+ ## The Daily Wire Advertise
+ - [https://advertise.dailywire.com](https://advertise.dailywire.com)
+ - date_published: 2024-05-01T03:35:00.619599+00:00
+
+ ## Subscribe to DailyWire+ & Bentkey
+ - [https://get.dailywire.com](https://get.dailywire.com)
+ - date_published: 2024-05-01T03:34:53.426249+00:00
+
+ ## Daily Wire+ Shop
+ - [https://store.dailywire.com](https://store.dailywire.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## The Daily Wire
+ - [https://www.dailywire.com](https://www.dailywire.com)
+ - date_published: 2023-10-25T09:30:01.904012+00:00
+
+ ## Daily Word: May/June 2024
+ - [http://www.dailyword.com](http://www.dailyword.com)
+ - date_published: 2024-05-10T03:49:14.290335+00:00
+
+ ## Mercedes-Benz Media
+ - [http://media.daimler.com](http://media.daimler.com)
+ - date_published: 2024-05-04T14:47:58.461340+00:00
+
  ## Daimto - Simple tutorials that just work!
  - [https://www.daimto.com](https://www.daimto.com)
  - date_published: 2024-05-01T03:45:22.692394+00:00
@@ -3894,243 +4132,4 @@
  ## Home of Demotivators® - The World's Best Demotivational Posters
  - [https://despair.com](https://despair.com)
  - date_published: 2024-04-29T02:50:28.736649+00:00
-
- ## despair labs
- - [https://despairlabs.com](https://despairlabs.com)
- - date_published: 2023-12-26T10:22:28.435042+00:00
-
- ## Accueil | Médiathèque de Destination Rennes
- - [https://mediatheque.destination-rennes.com](https://mediatheque.destination-rennes.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Destination: zero bars
- - [https://destinationzerobars.com](https://destinationzerobars.com)
- - date_published: 2013-07-18T00:00:00+00:00
- - tags: ['personal']
-
- ## Destiny Discover | Follett School Solutions | School Picker
- - [https://www.destinydiscover.com](https://www.destinydiscover.com)
- - date_published: 2024-05-04T06:31:05.737341+00:00
-
- ## DestinyExpress.com
- - [http://destinyexpress.com](http://destinyexpress.com)
- - date_published: 2024-05-04T06:31:31.282368+00:00
-
- ## Destinypedia
- - [https://www.destinypedia.com](https://www.destinypedia.com)
- - date_published: 2024-03-02T02:33:04+00:00
-
- ## Destroy All Software
- - [https://www.destroyallsoftware.com](https://www.destroyallsoftware.com)
- - date_published: 2023-10-25T13:50:36.567326+00:00
-
- ## Home
- - [https://destructoid.com](https://destructoid.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Destructoid
- - [https://www.destructoid.com](https://www.destructoid.com)
- - date_published: 2006-02-07T00:00:00+00:00
- - tags: ['video game news']
-
- ## SEO Blog by full-time search analysts - Detailed.com
- - [https://detailed.com](https://detailed.com)
- - date_published: 2024-05-11T11:07:04.348951+00:00
-
- ## Complete External Attack Surface Management
- - [https://detectify.com](https://detectify.com)
- - date_published: 2024-05-01T06:31:19.383674+00:00
-
- ## Detectify Labs - Writeups, ethical hacker insights, security guidance
- - [https://labs.detectify.com](https://labs.detectify.com)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Support
- - [https://support.detectify.com](https://support.detectify.com)
- - date_published: 2024-05-01T07:13:11.773607+00:00
-
- ## Snarling Badger Studios
- - [https://www.dethwizardsgame.com](https://www.dethwizardsgame.com)
- - date_published: 2024-05-24T08:53:23+00:00
- - tags: ['miniatures', 'tabletop game']
-
- ## a Detroit Pistons community
- - [http://www.detroitbadboys.com](http://www.detroitbadboys.com)
- - date_published: 2024-04-29T02:03:14.339109+00:00
-
- ## Detroit News - Home
- - [https://cm.detroitnews.com](https://cm.detroitnews.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Detroit News - Home
- - [https://content-static.detroitnews.com](https://content-static.detroitnews.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Help Center - The Detroit News
- - [https://help.detroitnews.com](https://help.detroitnews.com)
- - date_published: 2024-05-01T04:49:24.858485+00:00
-
- ## Newsletters | The Detroit News
- - [https://profile.detroitnews.com](https://profile.detroitnews.com)
- - date_published: 2024-05-01T04:49:23.124827+00:00
-
- ## Detroit News - Home
- - [https://www.detroitnews.com](https://www.detroitnews.com)
- - date_published: 2023-10-25T13:50:38.587182+00:00
-
- ## Detyens Shipyards - Ship Repair and Service - East Coast USA - Charleston SC
- - [https://www.detyens.com](https://www.detyens.com)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Deusex Machina
- - [http://www.deusex-machina.com](http://www.deusex-machina.com)
- - date_published: 2024-05-06T17:28:32.852941+00:00
-
- ## Deus Ex Musica
- - [https://www.deus-ex-musica.com](https://www.deus-ex-musica.com)
- - date_published: 2024-05-08T14:08:41+00:00
-
- ## Deus Ex Network
- - [https://www.deusexnetwork.com](https://www.deusexnetwork.com)
- - date_published: 2024-05-08T14:07:12+00:00
-
- ## Akademie Deutsche POP: Ausbildung & Studium Kreativberufe
- - [https://deutsche-pop.com](https://deutsche-pop.com)
- - date_published: 2024-05-10T06:17:19.393944+00:00
-
- ## Premium WordPress Themes, Templates & Plugins @ ThemeIsle
- - [http://dev7studios.com](http://dev7studios.com)
- - date_published: 2024-05-12T05:43:53.163897+00:00
-
- ## Evidence-based medicine | Deva Boone, MD
- - [https://www.devaboone.com](https://www.devaboone.com)
- - date_published: 2024-03-18T16:03:48.224318+00:00
-
- ## Tech Discovery and Inspiration
- - [https://devandgear.com](https://devandgear.com)
- - date_published: 2024-05-08T03:05:24.411783+00:00
-
- ## Devart: Database Management Software and Developer Tools
- - [https://www.devart.com](https://www.devart.com)
- - date_published: 2024-05-01T07:34:48.213398+00:00
-
- ## Home • DEVCLASS
- - [https://devclass.com](https://devclass.com)
- - date_published: 2023-10-25T13:50:42.438218+00:00
-
- ## One Click Social Login | Social Login Integration for your Website
- - [https://oneclicksociallogin.devcloudsoftware.com](https://oneclicksociallogin.devcloudsoftware.com)
- - date_published: 2024-05-08T12:29:47.501587+00:00
-
- ## DevCurry
- - [http://www.devcurry.com](http://www.devcurry.com)
- - date_published: 2024-05-01T03:55:42.761535+00:00
-
- ## Log in | DevCycle Dashboard
- - [https://app.devcycle.com](https://app.devcycle.com)
- - date_published: 2024-05-01T04:49:37.722610+00:00
-
- ## DevCycle
- - [https://blog.devcycle.com](https://blog.devcycle.com)
- - date_published: 2024-05-01T04:49:31.292630+00:00
-
- ## DevCycle | Feature Flag Management for Developers
- - [https://devcycle.com](https://devcycle.com)
- - date_published: 2023-10-25T13:50:46.064161+00:00
-
- ## Welcome to DevCycle | DevCycle Docs
- - [https://docs.devcycle.com](https://docs.devcycle.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Roland's Mastodon
- - [https://devdilettante.com](https://devdilettante.com)
- - date_published: 2024-05-15T20:53:35.417983+00:00
-
- ## International Development News, Breaking News, Opinion and Analysis - Devdiscourse
- - [https://www.devdiscourse.com](https://www.devdiscourse.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## imgix - Image Processing On-Demand, Served By CDN
- - [https://cdn.devdojo.com](https://cdn.devdojo.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Dev Community - DevDojo
- - [https://devdojo.com](https://devdojo.com)
- - date_published: 2023-10-25T13:50:50.978170+00:00
-
- ## Static · The Static Site Generator you're going to love
- - [https://static.devdojo.com](https://static.devdojo.com)
- - date_published: 2024-05-01T04:49:41.040701+00:00
-
- ## The Developer Advocacy Handbook
- - [https://developer-advocacy.com](https://developer-advocacy.com)
- - date_published: 2024-05-08T05:15:58.648731+00:00
-
- ## Developer DAO
- - [https://www.developerdao.com](https://www.developerdao.com)
- - date_published: 2024-04-29T03:11:23.921428+00:00
-
- ## Developer Markepear: developer marketing resources from a startup CMO
- - [https://developermarkepear.com](https://developermarkepear.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Developer Markepear: developer marketing resources from a startup CMO
- - [https://www.developermarkepear.com](https://www.developermarkepear.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Login
- - [https://apps.developermedia.com](https://apps.developermedia.com)
- - date_published: 2024-05-08T05:49:22.048270+00:00
-
- ## Login
- - [https://cdn1.developermedia.com](https://cdn1.developermedia.com)
- - date_published: 2024-05-08T05:49:25.730849+00:00
-
- ## Home
- - [http://developermedia.com](http://developermedia.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Developer On Fire
- - [https://developeronfire.com](https://developeronfire.com)
- - date_published: 2024-05-04T15:33:44.282519+00:00
-
- ## Home | Developer Pitstop
- - [https://developerpitstop.com](https://developerpitstop.com)
- - date_published: 2023-10-25T13:50:57.547624+00:00
-
- ## Web Stats Service
- - [http://stats-service.developers4web.com](http://stats-service.developers4web.com)
- - date_published: 2024-05-10T03:49:22.436328+00:00
-
- ## Developer Tech News | Latest App Developer News & Insights
- - [https://developer-tech.com](https://developer-tech.com)
- - date_published: 2024-05-01T04:55:14.632053+00:00
-
- ## Developer Tech News | Latest App Developer News & Insights
- - [https://www.developer-tech.com](https://www.developer-tech.com)
- - date_published: 2023-10-25T10:13:59.122086+00:00
-
- ## Developing Philly - A web series about the rise of the Philly innovation community
- - [http://developingphilly.com](http://developingphilly.com)
- - date_published: 2024-05-19T02:42:28.511833+00:00
-
- ## Development Friendly – Coding and web development advice for all.
- - [https://developmentfriendly.com](https://developmentfriendly.com)
- - date_published: 2023-10-25T13:51:00.761063+00:00
-
- ## Development Simply Put | Software Engineering Hub
- - [https://www.developmentsimplyput.com](https://www.developmentsimplyput.com)
- - date_published: 2023-12-28T04:56:24.867354+00:00
-
- ## Programmation 2D/3D/Jeux : Apprendre à créer des jeux vidéo
- - [http://jeux.developpez.com](http://jeux.developpez.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Sécurité : Actualités, cours, tutoriels, FAQ, forum...
- - [https://securite.developpez.com](https://securite.developpez.com)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Home - Dever Justice Professional Development by faculty, for faculty
- - [https://deverjustice.com](https://deverjustice.com)
- - date_published: 2022-06-27T00:00:00+00:00
 

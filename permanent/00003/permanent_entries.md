@@ -1,3 +1,41 @@
+ ## GOV.BR
+ - [https://www.gov.br](https://www.gov.br)
+ - date_published: 2023-12-11T19:33:23.992575+00:00
+ - tags: ['government']
+
+ ## Divulgação de Candidaturas e Contas Eleitorais
+ - [https://divulgacandcontas.tse.jus.br](https://divulgacandcontas.tse.jus.br)
+ - date_published: 2024-05-10T02:48:51.518311+00:00
+
+ ## Resultados Oficial
+ - [https://resultados.tse.jus.br](https://resultados.tse.jus.br)
+ - date_published: 2023-10-25T12:02:51.440167+00:00
+
+ ## Portal da Câmara dos Deputados
+ - [https://www.camara.leg.br](https://www.camara.leg.br)
+ - date_published: 2024-05-07T23:30:03.588334+00:00
+
+ ## Marinha do Brasil
+ - [https://www.marinha.mil.br](https://www.marinha.mil.br)
+ - date_published: 2024-06-05T07:28:50.631346+00:00
+ - tags: ['maritime']
+
+ ## Consequência Editora. Livros de Geografia, História, Ciências Sociais, Educação, Política, Humanas..
+ - [http://www.consequenciaeditora.net.br](http://www.consequenciaeditora.net.br)
+ - date_published: 2024-05-10T06:57:20.058367+00:00
+
+ ## Parafernália Interativa – Intelligent Digital Experiences
+ - [https://www.parafernalia.net.br](https://www.parafernalia.net.br)
+ - date_published: 2024-05-11T09:07:35.154578+00:00
+
+ ## ABC – Academia Brasileira de Ciências
+ - [http://www.abc.org.br](http://www.abc.org.br)
+ - date_published: 2024-05-07T20:15:39.987342+00:00
+
+ ## Escravo, nem pensar!
+ - [https://escravonempensar.org.br](https://escravonempensar.org.br)
+ - date_published: 2024-01-09T02:26:51.999598+00:00
+
  ## Escravo, nem pensar!
  - [https://www.escravonempensar.org.br](https://www.escravonempensar.org.br)
  - date_published: 2024-01-09T02:26:57.139425+00:00
@@ -1593,6 +1631,10 @@
  - [https://www.loopnet.ca](https://www.loopnet.ca)
  - date_published: 2024-05-12T07:41:00.330334+00:00
 
+ ## L. Ron Hubbard - Scientology & Dianetics Founder
+ - [http://www.lronhubbard.ca](http://www.lronhubbard.ca)
+ - date_published: 2024-06-06T19:38:31.754675+00:00
+
  ## @luqman
  - [https://luqman.ca](https://luqman.ca)
  - date_published: 2023-10-25T12:05:19.912761+00:00
@@ -2253,6 +2295,14 @@
  - [https://schroer.ca](https://schroer.ca)
  - date_published: 2023-10-25T09:02:45.716038+00:00
  - tags: ['personal']
+
+ ## Scientology - l'Eglise de la Scientology de France, Portail officiel
+ - [https://fr.scientology.ca](https://fr.scientology.ca)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Official Church of Scientology: What is Scientology?
+ - [https://www.scientology.ca](https://www.scientology.ca)
+ - date_published: 0001-01-01T00:00:00+00:00
 
  ## Home
  - [https://www.scintillation.ca](https://www.scintillation.ca)
@@ -4041,53 +4091,4 @@
  ## Zcash: Privacy-protecting digital currency
  - [https://z.cash](https://z.cash)
  - date_published: 2024-05-08T07:04:28.191422+00:00
-
- ## Associació Catalana d'Universitats Públiques | ACUP
- - [http://www.acup.cat](http://www.acup.cat)
- - date_published: 2024-05-07T21:59:15.254400+00:00
-
- ## Airbnb | Lloguers vacacionals, casetes, cases a la platja i molt més
- - [https://www.airbnb.cat](https://www.airbnb.cat)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Estacions i intercanviadors - albertguillaumes.cat
- - [http://estacions.albertguillaumes.cat](http://estacions.albertguillaumes.cat)
- - date_published: 2024-05-09T07:18:26.435309+00:00
-
- ## Metro Stations and Transfers
- - [http://stations.albertguillaumes.cat](http://stations.albertguillaumes.cat)
- - date_published: 2024-03-08T00:20:19+00:00
-
- ## albertguillaumes.cat
- - [http://www.albertguillaumes.cat](http://www.albertguillaumes.cat)
- - date_published: 2024-05-09T07:18:28.860855+00:00
-
- ## El web de la ciutat de Barcelona | Ajuntament de Barcelona
- - [http://www.bcn.cat](http://www.bcn.cat)
- - date_published: 2024-05-08T08:49:35.701086+00:00
-
- ## El grup - CCMA
- - [http://www.ccma.cat](http://www.ccma.cat)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Inici - CERCA
- - [https://cerca.cat](https://cerca.cat)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Dario Castañé
- - [https://dario.cat](https://dario.cat)
- - date_published: 2024-05-09T08:12:41.816016+00:00
-
- ## Inici
- - [http://www.gencat.cat](http://www.gencat.cat)
- - date_published: 2024-05-08T08:49:49.796888+00:00
-
- ## HTTP Cats
- - [https://http.cat](https://http.cat)
- - date_published: 2023-10-25T12:10:29.119183+00:00
- - tags: ['cats', 'wtf', 'funny', 'http', 'internet']
-
- ## Capítol Català de la Societat Internet - Catalan Chapter of the Internet Society
- - [https://www.isoc.cat](https://www.isoc.cat)
- - date_published: 2024-05-06T23:55:49.836985+00:00
 

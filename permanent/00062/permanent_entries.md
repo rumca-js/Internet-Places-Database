@@ -1,3 +1,538 @@
+ ## lunnova.dev
+ - [https://lunnova.dev](https://lunnova.dev)
+ - date_published: 2023-10-25T18:39:36.570613+00:00
+
+ ## Eddy Luten
+ - [https://luten.dev](https://luten.dev)
+ - date_published: 2024-06-01T04:56:04.907278+00:00
+ - tags: ['personal']
+
+ ## Plausible · Web analytics
+ - [https://plausible.cr.lvtd.dev](https://plausible.cr.lvtd.dev)
+ - date_published: 2024-05-07T10:27:23.964670+00:00
+
+ ## Learn. Build. Grow. Together.
+ - [https://lwj.dev](https://lwj.dev)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## lyte.dev
+ - [https://lyte.dev](https://lyte.dev)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Index • lzrd.dev
+ - [https://lzrd.dev](https://lzrd.dev)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Scott Mabin
+ - [https://mabez.dev](https://mabez.dev)
+ - date_published: 2023-10-25T08:48:38.285682+00:00
+ - tags: ['personal']
+
+ ## Maggie's Website
+ - [https://maggieliu.dev](https://maggieliu.dev)
+ - date_published: 2024-04-30T07:46:34.412779+00:00
+ - tags: ['personal']
+
+ ## Magic Loops
+ - [https://blog.magicloops.dev](https://blog.magicloops.dev)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Magic Loops
+ - [https://magicloops.dev](https://magicloops.dev)
+ - date_published: 2023-10-25T18:39:37.627469+00:00
+ - tags: ['artificial intelligence', 'llm', 'web scraping']
+
+ ## Mahmoud Ashraf
+ - [https://mahmoudashraf.dev](https://mahmoudashraf.dev)
+ - date_published: 2024-05-07T23:24:34.732828+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://mahood.dev](https://mahood.dev)
+ - date_published: 2024-05-14T03:31:06.625410+00:00
+
+ ## mais.dev
+ - [http://mais.dev](http://mais.dev)
+ - date_published: 2024-05-01T03:58:36.828291+00:00
+
+ ## React.js SaaS Starter Kit | Makerkit
+ - [https://makerkit.dev](https://makerkit.dev)
+ - date_published: 2024-05-09T08:38:51.289681+00:00
+
+ ## Malloy
+ - [https://www.malloydata.dev](https://www.malloydata.dev)
+ - date_published: 2024-05-08T04:29:45.619371+00:00
+
+ ## Home
+ - [https://www.mandymak.dev](https://www.mandymak.dev)
+ - date_published: 2023-12-14T06:54:37.710670+00:00
+ - tags: ['personal']
+
+ ## Mantine
+ - [https://mantine.dev](https://mantine.dev)
+ - date_published: 2024-05-08T00:40:47.350138+00:00
+
+ ## manuels.dev
+ - [https://manuels.dev](https://manuels.dev)
+ - date_published: 2024-05-11T10:20:48.699407+00:00
+
+ ## manumateos.dev
+ - [https://www.manumateos.dev](https://www.manumateos.dev)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## ManupaDev | Home
+ - [https://manupa.dev](https://manupa.dev)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Developer Marketing Community
+ - [https://marketingto.dev](https://marketingto.dev)
+ - date_published: 2024-04-28T05:43:22.756474+00:00
+
+ ## Markok.dev - Blog about web development and other random things
+ - [https://markok.dev](https://markok.dev)
+ - date_published: 2023-12-12T23:24:05.386377+00:00
+ - tags: ['personal']
+
+ ## umami
+ - [https://analytic-api.marsx.dev](https://analytic-api.marsx.dev)
+ - date_published: 2024-05-10T05:29:46.226274+00:00
+
+ ## MarsX is a dev tool that unites AI, NoCode, Code and MicroApps
+ - [https://marsx.dev](https://marsx.dev)
+ - date_published: 2024-05-10T05:29:31.160676+00:00
+
+ ## Martin Bean: software engineer and web developer
+ - [https://martinbean.dev](https://martinbean.dev)
+ - date_published: 2023-01-27T00:00:00+00:00
+
+ - [https://martinheinz.dev](https://martinheinz.dev)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Martin Hicks - Freelance developer and AWS certified consultant in Manchester, UK
+ - [https://martinhicks.dev](https://martinhicks.dev)
+ - date_published: 2024-05-07T14:12:12.446788+00:00
+ - tags: ['personal']
+
+ ## Marvin Hagemeister Frontend Developer
+ - [https://marvinh.dev](https://marvinh.dev)
+ - date_published: 2023-10-25T08:48:41.375132+00:00
+ - tags: ['personal']
+
+ ## Mastermind Dev - Publishing house for software engineers
+ - [https://assets.mastermind.dev](https://assets.mastermind.dev)
+ - date_published: 2024-04-30T00:33:02.848703+00:00
+
+ ## Become mastermind
+ - [https://blog.mastermind.dev](https://blog.mastermind.dev)
+ - date_published: 2023-10-25T18:39:41.085781+00:00
+
+ ## Mastermind Dev - Publishing house for software engineers
+ - [https://mastermind.dev](https://mastermind.dev)
+ - date_published: 2024-04-30T00:33:00.825736+00:00
+
+ ## Matchu Says Words | Emi Matchu (they/she), tech professional turned hobbyist! Aspiring to do what’s right, in the places and ways I can.
+ - [https://blog.matchu.dev](https://blog.matchu.dev)
+ - date_published: 2023-10-31T19:57:41.845855+00:00
+
+ ## Home | MateusRodCosta
+ - [https://www.mateusrodcosta.dev](https://www.mateusrodcosta.dev)
+ - date_published: 2024-05-11T09:05:49.726096+00:00
+
+ ## Matias Pan's blog
+ - [https://blog.matiaspan.dev](https://blog.matiaspan.dev)
+ - date_published: 2023-11-21T19:09:54.203670+00:00
+
+ ## mattferraro.dev
+ - [https://mattferraro.dev](https://mattferraro.dev)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Matt Greer
+ - [https://mattgreer.dev](https://mattgreer.dev)
+ - date_published: 2020-01-01T00:00:00+00:00
+
+ ## Matthew C Dev
+ - [https://matthewc.dev](https://matthewc.dev)
+ - date_published: 2023-10-25T18:39:42.826551+00:00
+
+ ## Matthew Kim
+ - [https://www.matthewkim.dev](https://www.matthewkim.dev)
+ - date_published: 2024-01-22T18:19:15.032834+00:00
+
+ ## Matt Hughes
+ - [https://matthughes.dev](https://matthughes.dev)
+ - date_published: 2024-05-11T10:21:40.248804+00:00
+
+ ## Matt Klein
+ - [https://mattklein123.dev](https://mattklein123.dev)
+ - date_published: 2023-06-12T00:00:00+00:00
+
+ ## Matt Walsh dot DEV
+ - [https://mattwalsh.dev](https://mattwalsh.dev)
+ - date_published: 2024-05-11T10:24:34.673390+00:00
+
+ ## Ignatius Bagussuputra | Alchemauss
+ - [https://mauss.dev](https://mauss.dev)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## MaxGit
+ - [https://git.max-richter.dev](https://git.max-richter.dev)
+ - date_published: 2024-05-10T05:57:47.991741+00:00
+
+ ## [jim-fx] Home
+ - [https://max-richter.dev](https://max-richter.dev)
+ - date_published: 2023-12-04T12:08:16.954803+00:00
+ - tags: ['personal']
+
+ ## Show HN: Simulate 3D Plants in the Browser
+ - [https://plant.max-richter.dev](https://plant.max-richter.dev)
+ - date_published: 2023-12-03T10:55:35+00:00
+
+ ## Umami
+ - [https://umami.max-richter.dev](https://umami.max-richter.dev)
+ - date_published: 2024-05-10T06:10:51.052919+00:00
+
+ ## Matteo Bianchi – Medium
+ - [https://blog.mb-consulting.dev](https://blog.mb-consulting.dev)
+ - date_published: 2024-01-15T16:49:18.050849+00:00
+
+ ## git.mcmillen.dev
+ - [https://git.mcmillen.dev](https://git.mcmillen.dev)
+ - date_published: 2024-04-30T00:33:50.965011+00:00
+
+ ## Colin McMillen
+ - [https://www.mcmillen.dev](https://www.mcmillen.dev)
+ - date_published: 2022-11-07T00:00:00+00:00
+
+ ## MeadSteve's Dev Blog
+ - [https://blog.meadsteve.dev](https://blog.meadsteve.dev)
+ - date_published: 2023-10-25T08:58:39.127357+00:00
+ - tags: ['personal']
+
+ ## Hello - Meg Risdal
+ - [https://meg.dev](https://meg.dev)
+ - date_published: 2023-10-25T09:26:20.086165+00:00
+ - tags: ['personal']
+
+ ## Hello
+ - [https://www.meg.dev](https://www.meg.dev)
+ - date_published: 2023-05-02T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Sine Machine, a new additive synth · Melatonin
+ - [https://melatonin.dev](https://melatonin.dev)
+ - date_published: 2023-11-10T14:03:59.822755+00:00
+
+ ## Superstream | Improve And Optimize Your Kafka
+ - [https://memphis.dev](https://memphis.dev)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Merge Link
+ - [https://cdn.merge.dev](https://cdn.merge.dev)
+ - date_published: 2024-05-11T08:36:08.674022+00:00
+
+ ## metahead | the world's 1st enterprise-grade metarepo
+ - [https://www.metahead.dev](https://www.metahead.dev)
+ - date_published: 2024-01-10T22:30:13.454038+00:00
+
+ ## Mezzio Documentation
+ - [https://docs.mezzio.dev](https://docs.mezzio.dev)
+ - date_published: 2024-05-14T04:02:16.516361+00:00
+
+ ## mhdm.dev
+ - [https://mhdm.dev](https://mhdm.dev)
+ - date_published: 2023-10-25T18:39:43.340614+00:00
+ - tags: ['personal', 'tech', 'microcontrollers']
+
+ ## Michael Bonner | Developer in Salt Lake, UT
+ - [https://michaelbonner.dev](https://michaelbonner.dev)
+ - date_published: 2024-05-11T10:18:40.863256+00:00
+
+ ## Home | Michal Slepko - Software Developer, Content creator
+ - [https://michalslepko.dev](https://michalslepko.dev)
+ - date_published: 2024-05-11T10:21:28.366372+00:00
+
+ ## Micro | A Platform built for developers
+ - [https://micro.dev](https://micro.dev)
+ - date_published: 2023-10-25T18:39:44.219958+00:00
+
+ ## Blog - Mihai Serban
+ - [https://www.mihaiserban.dev](https://www.mihaiserban.dev)
+ - date_published: 2024-05-11T10:20:24.786667+00:00
+
+ ## Mike Mwanje's Blog
+ - [https://blog.mikemwanje.dev](https://blog.mikemwanje.dev)
+ - date_published: 2023-10-25T08:58:40.213617+00:00
+ - tags: ['personal']
+
+ ## Mike Mwanje
+ - [https://mikemwanje.dev](https://mikemwanje.dev)
+ - date_published: 2024-04-30T00:34:34.953530+00:00
+
+ ## Million.js | Million.js
+ - [https://million.dev](https://million.dev)
+ - date_published: 2024-05-08T09:01:17.638578+00:00
+
+ ## https://minios.dev
+ - [https://minios.dev](https://minios.dev)
+ - date_published: 2023-10-25T18:39:44.564001+00:00
+
+ ## MiniZinc Playground
+ - [https://play.minizinc.dev](https://play.minizinc.dev)
+ - date_published: 2024-05-08T10:19:18.057821+00:00
+
+ ## mirrord
+ - [https://mirrord.dev](https://mirrord.dev)
+ - date_published: 2020-10-06T00:00:00+00:00
+
+ ## GitHub - FiloSottile/mkcert: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+ - [https://mkcert.dev](https://mkcert.dev)
+ - date_published: 2024-04-28T03:11:13.610431+00:00
+
+ ## Khafizi Noh
+ - [https://mkfizi.dev](https://mkfizi.dev)
+ - date_published: 2024-05-11T10:20:47.728904+00:00
+
+ ## An Internet Canvas
+ - [https://paper.mmm.dev](https://paper.mmm.dev)
+ - date_published: 2023-10-25T18:39:44.966705+00:00
+
+ ## Mnpn
+ - [https://mnpn.dev](https://mnpn.dev)
+ - date_published: 2024-05-04T15:17:52.855005+00:00
+
+ ## RSS for AniList
+ - [https://rfa.mnpn.dev](https://rfa.mnpn.dev)
+ - date_published: 2024-05-04T15:17:53.796749+00:00
+
+ ## What is Maestro? | Maestro by mobile.dev
+ - [https://maestro.mobile.dev](https://maestro.mobile.dev)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## ModelFusion
+ - [https://modelfusion.dev](https://modelfusion.dev)
+ - date_published: 2023-10-25T18:39:50.499764+00:00
+
+ ## 3D model-viewer embed
+ - [https://modelviewer.dev](https://modelviewer.dev)
+ - date_published: 2024-04-28T03:42:03.513997+00:00
+
+ ## Modern CSS Challenges
+ - [https://challenges.moderncss.dev](https://challenges.moderncss.dev)
+ - date_published: 2024-04-30T00:34:51.676636+00:00
+
+ ## Modern CSS Solutions
+ - [https://moderncss.dev](https://moderncss.dev)
+ - date_published: 2023-10-25T18:39:51.550252+00:00
+
+ ## Mojo Dojo
+ - [https://mojodojo.dev](https://mojodojo.dev)
+ - date_published: 2023-10-25T18:39:53.691349+00:00
+
+ ## Mojo Dojo
+ - [https://www.mojodojo.dev](https://www.mojodojo.dev)
+ - date_published: 2023-05-08T00:00:00+00:00
+
+ ## Monolog
+ - [https://www.monolog.dev](https://www.monolog.dev)
+ - date_published: 2024-05-09T06:20:08.987585+00:00
+
+ ## Pieter Montoulieu
+ - [https://montoulieu.dev](https://montoulieu.dev)
+ - date_published: 2024-05-07T23:25:24.512041+00:00
+
+ ## Fathom Analytics: A Better Google Analytics Alternative
+ - [https://analytics.blog.moonguard.dev](https://analytics.blog.moonguard.dev)
+ - date_published: 2024-04-30T00:35:00.267766+00:00
+
+ ## MoonGuard - Web Monitoring Tools | MoonGuard - Web Monitoring Tools
+ - [https://blog.moonguard.dev](https://blog.moonguard.dev)
+ - date_published: 2023-11-07T19:56:34.884228+00:00
+
+ ## Meet MoonGuard | Docs
+ - [https://docs.moonguard.dev](https://docs.moonguard.dev)
+ - date_published: 2024-04-30T00:35:02.770213+00:00
+
+ ## MoonGuard
+ - [https://moonguard.dev](https://moonguard.dev)
+ - date_published: 2024-04-30T00:35:01.548601+00:00
+
+ ## A developer productivity tooling platform. | moonrepo
+ - [https://moonrepo.dev](https://moonrepo.dev)
+ - date_published: 2024-04-29T07:34:56.789601+00:00
+
+ ## Gunnar Morling
+ - [https://morling.dev](https://morling.dev)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Gunnar Morling - Random Musings on All Things Software Engineering
+ - [https://www.morling.dev](https://www.morling.dev)
+ - date_published: 2023-10-25T18:39:54.535047+00:00
+
+ ## moomou
+ - [https://paul.mou.dev](https://paul.mou.dev)
+ - date_published: 2024-01-14T17:10:52.532910+00:00
+
+ ## Hello, I'm Thomas - mozzy.dev
+ - [https://mozzy.dev](https://mozzy.dev)
+ - date_published: 2024-06-01T05:05:58.524536+00:00
+ - tags: ['personal']
+
+ ## MPTCP
+ - [https://mptcp.dev](https://mptcp.dev)
+ - date_published: 2024-05-08T10:34:01.725208+00:00
+
+ ## Multipath TCP for Linux (2022)
+ - [https://www.mptcp.dev](https://www.mptcp.dev)
+ - date_published: 2024-04-19T17:28:45+00:00
+ - tags: ['open source', 'protocole']
+
+ ## Eduar Bastidas
+ - [https://mreduar.dev](https://mreduar.dev)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## Karan Sharma
+ - [https://mrkaran.dev](https://mrkaran.dev)
+ - date_published: 2024-06-01T04:58:00.909425+00:00
+ - tags: ['personal']
+
+ ## Kamal — Deploy web apps anywhere
+ - [https://mrsk.dev](https://mrsk.dev)
+ - date_published: 2023-10-25T18:39:55.589208+00:00
+
+ ## Harsh Shandilya
+ - [https://msfjarvis.dev](https://msfjarvis.dev)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Madhav Singhal
+ - [https://www.msinghal.dev](https://www.msinghal.dev)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Mohammed Sohail - Full Stack Engineer
+ - [https://www.msohail.dev](https://www.msohail.dev)
+ - date_published: 2024-05-11T10:06:33.025657+00:00
+
+ ## Issues · latticexyz/mud
+ - [https://contribute.mud.dev](https://contribute.mud.dev)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## OPCraft
+ - [https://craft.mud.dev](https://craft.mud.dev)
+ - date_published: 2024-04-30T00:35:34.997985+00:00
+
+ ## MUD – a framework for ambitious Ethereum applications
+ - [https://mud.dev](https://mud.dev)
+ - date_published: 2023-10-27T13:33:33.855803+00:00
+
+ ## MUD • latticexyz
+ - [https://roadmap.mud.dev](https://roadmap.mud.dev)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://status.mud.dev](https://status.mud.dev)
+ - date_published: 2024-04-30T01:50:14.231316+00:00
+
+ ## muhammadoka
+ - [https://muhammadoka.dev](https://muhammadoka.dev)
+ - date_published: 2024-05-11T10:19:50.981939+00:00
+
+ ## Mult.dev - Animated Travel Maps
+ - [https://mult.dev](https://mult.dev)
+ - date_published: 2023-10-25T18:39:56.399255+00:00
+
+ ## Coming soon... | Multiple
+ - [https://app.multiple.dev](https://app.multiple.dev)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Introduction - Multiple | Documentation
+ - [https://docs.multiple.dev](https://docs.multiple.dev)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Coming soon... | Multiple
+ - [https://www.multiple.dev](https://www.multiple.dev)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Mustafa Akın
+ - [https://mustafaakin.dev](https://mustafaakin.dev)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Minimum Viable Secure Product
+ - [https://mvsp.dev](https://mvsp.dev)
+ - date_published: 2023-10-25T18:39:57.092486+00:00
+
+ ## Max Böck
+ - [https://mxb.dev](https://mxb.dev)
+ - date_published: 2024-03-24T17:41:32+00:00
+ - tags: ['personal']
+
+ ## Speedlify
+ - [https://speedlify.mxb.dev](https://speedlify.mxb.dev)
+ - date_published: 2024-05-11T10:54:14.314436+00:00
+
+ ## N64brew Wiki
+ - [https://n64brew.dev](https://n64brew.dev)
+ - date_published: 2023-10-25T19:36:17+00:00
+
+ ## Hire Me - Najad.dev
+ - [https://najad.dev](https://najad.dev)
+ - date_published: 2020-03-23T03:06:03+00:00
+
+ ## Nango
+ - [https://app.nango.dev](https://app.nango.dev)
+ - date_published: 2024-04-25T15:31:29.259476+00:00
+
+ ## Introduction - Nango Docs
+ - [https://docs.nango.dev](https://docs.nango.dev)
+ - date_published: 2024-04-25T15:31:28.242706+00:00
+
+ ## Nango - The open unified API
+ - [https://nango.dev](https://nango.dev)
+ - date_published: 2023-10-25T18:40:04.494324+00:00
+ - tags: ['proprietary', 'monetization']
+
+ ## Nango status
+ - [https://status.nango.dev](https://status.nango.dev)
+ - date_published: 2024-04-30T02:00:19.928548+00:00
+
+ ## Nango - The open unified API
+ - [https://www.nango.dev](https://www.nango.dev)
+ - date_published: 2023-10-25T18:40:06.457916+00:00
+
+ ## Becoming Rustacean: A Beginners Guide to the Rustverse
+ - [https://www.nativebyx.dev](https://www.nativebyx.dev)
+ - date_published: 2023-10-25T18:40:13.005761+00:00
+
+ ## natto.dev - write JavaScript on a 2D canvas
+ - [https://natto.dev](https://natto.dev)
+ - date_published: 2024-05-04T13:56:32.356233+00:00
+
+ ## Naveen Singh's Blogs
+ - [https://naveensingh.dev](https://naveensingh.dev)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Naxon.dev
+ - [https://naxon.dev](https://naxon.dev)
+ - date_published: 2024-05-11T10:06:39.996479+00:00
+
+ ## neilalexander.dev
+ - [https://neilalexander.dev](https://neilalexander.dev)
+ - date_published: 2023-10-25T18:40:13.691485+00:00
+
+ ## neizod's speculation
+ - [https://neizod.dev](https://neizod.dev)
+ - date_published: 2024-04-30T07:42:41.059668+00:00
+
+ ## Blog@neko.dev - blog.neko.dev
+ - [https://blog.neko.dev](https://blog.neko.dev)
+ - date_published: 2023-10-25T08:58:40.756473+00:00
+ - tags: ['personal']
+
+ ## Index of /
+ - [http://code.neko.dev](http://code.neko.dev)
+ - date_published: 2024-04-30T02:00:31.067391+00:00
+
+ ## Index - neko.dev
+ - [http://neko.dev](http://neko.dev)
+ - date_published: 2024-04-30T02:00:30.189357+00:00
+
  ## Neosync
  - [https://neosync.dev](https://neosync.dev)
  - date_published: 2024-05-22T18:06:04.271854+00:00
@@ -2576,7 +3111,7 @@
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Arnon Shimoni
- - [https://arnon.dk](https://arnon.dk)
+ - [http://arnon.dk](http://arnon.dk)
  - date_published: 2024-02-19T00:00:00+00:00
 
  ## Aarhus Universitet
@@ -2682,6 +3217,10 @@
  ## Institut for Fysik og Astronomi
  - [https://phys.au.dk](https://phys.au.dk)
  - date_published: 2024-04-30T02:33:35.705902+00:00
+
+ ## projects.au.dk
+ - [https://projects.au.dk](https://projects.au.dk)
+ - date_published: 2024-06-06T08:57:15.412834+00:00
 
  ## Pure
  - [https://pure.au.dk](https://pure.au.dk)
@@ -3250,6 +3789,10 @@
  - [https://healthsciences.ku.dk](https://healthsciences.ku.dk)
  - date_published: 2023-11-14T09:26:10.548804+00:00
 
+ ## Det Humanistiske Fakultet – Københavns Universitet
+ - [https://hum.ku.dk](https://hum.ku.dk)
+ - date_published: 2024-05-28T00:00:00+00:00
+
  ## Informationssikkerhed – Københavns Universitet
  - [https://informationssikkerhed.ku.dk](https://informationssikkerhed.ku.dk)
  - date_published: 2024-04-30T02:41:19.562536+00:00
@@ -3399,6 +3942,10 @@
  - date_published: 2023-11-13T13:41:52.770181+00:00
  - tags: ['museum']
 
+ ## L. Ron Hubbard – grundlægger af Scientology og Dianetics
+ - [http://www.lronhubbard.dk](http://www.lronhubbard.dk)
+ - date_published: 2024-06-06T19:38:45.236162+00:00
+
  ## Flashlight information
  - [http://lygte-info.dk](http://lygte-info.dk)
  - date_published: 2024-05-09T04:18:48.030178+00:00
@@ -3413,7 +3960,7 @@
 
  ## Mark Wrobel
  - [https://www.markwrobel.dk](https://www.markwrobel.dk)
- - date_published: 2023-11-02T10:46:34.460851+00:00
+ - date_published: 2022-08-13T16:56:35+00:00
  - tags: ['amiga', 'personal']
 
  ## MitSDU – Studerende – Syddansk Universitet
@@ -3524,6 +4071,14 @@
  - [http://sciencenews.dk](http://sciencenews.dk)
  - date_published: 2024-05-11T08:20:06.473545+00:00
 
+ ## Scientology kirkens officielle hjemmeside: L. Ron Hubbard, Dianetics, Hvad er Scientology?, bøger, tro, David Miscavige
+ - [https://www.scientology.dk](https://www.scientology.dk)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Religionen Scientology: Dens baggrund, teologi og religiøse udøvelse
+ - [https://www.scientologyreligion.dk](https://www.scientologyreligion.dk)
+ - date_published: 2024-06-06T19:41:31.428696+00:00
+
  ## SDU Bibliotek
  - [https://books.sdu.dk](https://books.sdu.dk)
  - date_published: 2024-04-30T02:45:47.330250+00:00
@@ -3555,546 +4110,4 @@
  ## SektorCERT
  - [https://sektorcert.dk](https://sektorcert.dk)
  - date_published: 2023-11-12T14:44:45.072325+00:00
-
- ## Seniormonitor
- - [https://seniormonitor.dk](https://seniormonitor.dk)
- - date_published: 2024-04-30T02:44:15.460810+00:00
-
- ## Forside
- - [http://www.seriousgames.dk](http://www.seriousgames.dk)
- - date_published: 2023-05-05T00:00:00+00:00
-
- ## SIDFX | The ultimate dual SID solution
- - [https://www.sidfx.dk](https://www.sidfx.dk)
- - date_published: 2024-03-27T12:18:13+00:00
- - tags: ['sid music']
-
- ## Skolemonitor
- - [https://skolemonitor.dk](https://skolemonitor.dk)
- - date_published: 2024-04-30T02:44:38.122014+00:00
-
- ## SMK - Statens Museum for Kunst
- - [https://www.smk.dk](https://www.smk.dk)
- - date_published: 2024-05-07T12:51:45.018965+00:00
-
- ## Forside
- - [https://www.smukfest.dk](https://www.smukfest.dk)
- - date_published: 2024-05-06T17:18:20.517762+00:00
-
- ## Socialmonitor
- - [https://socialmonitor.dk](https://socialmonitor.dk)
- - date_published: 2024-04-30T02:43:36.129785+00:00
-
- - [https://spacecontroller.dk](https://spacecontroller.dk)
- - date_published: 2024-02-08T21:47:23.123244+00:00
-
- ## English
- - [https://en.ssi.dk](https://en.ssi.dk)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Sundhedsstyrelsen
- - [https://www.sst.dk](https://www.sst.dk)
- - date_published: 2023-10-25T18:46:10.089946+00:00
-
- ## S.Stenbæk Webudvikling
- - [https://sstenbaek.dk](https://sstenbaek.dk)
- - date_published: 2024-05-11T10:04:58.399294+00:00
-
- ## Station Next - Den danske ungdomsfilmskole - Station Next
- - [http://station-next.dk](http://station-next.dk)
- - date_published: 2024-05-07T23:40:47.349913+00:00
-
- ## Design selv klistermærker og stickers!
- - [https://stickerapp.dk](https://stickerapp.dk)
- - date_published: 2024-02-08T17:52:02.329878+00:00
-
- ## Foredrag til Erhvervslivet >> Bookes hos StrongMind
- - [https://www.strongmind.dk](https://www.strongmind.dk)
- - date_published: 2024-05-12T07:47:39.652373+00:00
-
- ## Sundhedsmonitor
- - [https://sundhedsmonitor.dk](https://sundhedsmonitor.dk)
- - date_published: 2024-04-30T02:45:06.848796+00:00
-
- ## Blog | Tangram
- - [http://tangramgames.dk](http://tangramgames.dk)
- - date_published: 2024-05-08T09:45:46.310821+00:00
-
- ## tberg
- - [https://tberg.dk](https://tberg.dk)
- - date_published: 2023-07-16T00:00:00+00:00
-
- ## The Local Denmark - News and practical guides in English
- - [https://www.thelocal.dk](https://www.thelocal.dk)
- - date_published: 2024-05-06T15:16:51.406696+00:00
-
- ## Thor Vestergaard Christiansen
- - [https://www.thorshammer.dk](https://www.thorshammer.dk)
- - date_published: 2024-05-04T15:18:09.571411+00:00
-
- ## Time2Learn webshop
- - [https://shop.time2learn.dk](https://shop.time2learn.dk)
- - date_published: 2024-04-30T02:46:36.406591+00:00
-
- ## Time2learn – Alle har lyst til at lære!
- - [https://time2learn.dk](https://time2learn.dk)
- - date_published: 2024-02-08T21:50:32.897108+00:00
-
- ## Tomas Norre's Blog
- - [https://blog.tomasnorre.dk](https://blog.tomasnorre.dk)
- - date_published: 2024-05-09T08:16:08.547966+00:00
-
- ## TRSAC 2023
- - [https://trsac.dk](https://trsac.dk)
- - date_published: 2024-05-08T17:09:28.280815+00:00
-
- ## Turistmonitor - dansk turismes uafhængige medie
- - [https://turistmonitor.dk](https://turistmonitor.dk)
- - date_published: 2024-04-30T02:44:25.845386+00:00
-
- ## TV 2 - bedst på breaking og live
- - [https://auth.tv2.dk](https://auth.tv2.dk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## TV 2 Echo | Historier fra dit liv og verden omkring dig - TV 2
- - [https://echo.tv2.dk](https://echo.tv2.dk)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## TV 2 Kundeservice
- - [https://kundeservice.tv2.dk](https://kundeservice.tv2.dk)
- - date_published: 2024-04-30T02:46:54.996487+00:00
-
- ## Livsstil - TV 2
- - [https://livsstil.tv2.dk](https://livsstil.tv2.dk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## TV 2 Nyheder | Få overblik over de seneste nyheder - TV 2
- - [https://nyheder.tv2.dk](https://nyheder.tv2.dk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Om TV 2
- - [https://omtv2.tv2.dk](https://omtv2.tv2.dk)
- - date_published: 2024-04-30T02:46:45.569266+00:00
-
- ## TV 2 Play - Serier, nyheder og underholdning
- - [https://play.tv2.dk](https://play.tv2.dk)
- - date_published: 2024-04-30T02:46:51.847311+00:00
-
- ## Cierpliwości...
- - [https://privatliv.tv2.dk](https://privatliv.tv2.dk)
- - date_published: 2024-04-30T02:47:34.606163+00:00
-
- ## Søg på TV 2
- - [https://search.tv2.dk](https://search.tv2.dk)
- - date_published: 2024-04-30T02:47:40.705133+00:00
-
- ## TV 2 Sport | Få sidste nyt fra sportens verden
- - [https://sport.tv2.dk](https://sport.tv2.dk)
- - date_published: 2023-10-25T18:46:14.828525+00:00
-
- ## Seernes redaktør
- - [https://sr.tv2.dk](https://sr.tv2.dk)
- - date_published: 2024-04-30T02:47:00.445620+00:00
-
- ## TV 2 - bedst på breaking og live
- - [https://tv2.dk](https://tv2.dk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## TV-guide | Se komplet programoversigt for alle tv-kanaler her
- - [https://tvtid.tv2.dk](https://tvtid.tv2.dk)
- - date_published: 2024-04-30T02:46:59.679140+00:00
-
- ## TV 2 programguide | Se programmet for TV 2s kanaler i dag
- - [https://tv.tv2.dk](https://tv.tv2.dk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Underholdning - TV 2
- - [https://underholdning.tv2.dk](https://underholdning.tv2.dk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## TV 2 Vejr | Se vejret i dag, i morgen og 7 dage frem
- - [https://vejr.tv2.dk](https://vejr.tv2.dk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## imgix - Image Processing On-Demand, Served By CDN
- - [https://cdn-free-external.tv2i.dk](https://cdn-free-external.tv2i.dk)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## imgix - Image Processing On-Demand, Served By CDN
- - [https://cdn-free.tv2i.dk](https://cdn-free.tv2i.dk)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Annoncering hos TV 2
- - [https://tv2media.dk](https://tv2media.dk)
- - date_published: 2024-04-30T02:47:39.165796+00:00
-
- ## Forside
- - [https://urk.dk](https://urk.dk)
- - date_published: 2024-05-08T02:29:39.194897+00:00
-
- ## valberg.dk
- - [https://valberg.dk](https://valberg.dk)
- - date_published: 2023-10-25T18:46:16.069620+00:00
-
- ## Michael Bang's blog
- - [https://blog.vbang.dk](https://blog.vbang.dk)
- - date_published: 2024-05-29T13:53:31.863069+00:00
-
- ## Vejr & Radar Danmark
- - [https://www.vejrogradar.dk](https://www.vejrogradar.dk)
- - date_published: 2024-05-07T12:52:56.918903+00:00
-
- ## Veterancentret
- - [https://www.veterancentret.dk](https://www.veterancentret.dk)
- - date_published: 2024-04-30T02:35:15.382023+00:00
-
- ## Libre.vin – [Vin først, så natur]
- - [https://www.vinhacker.dk](https://www.vinhacker.dk)
- - date_published: 2024-01-22T18:19:36.906668+00:00
-
- ## Visa, en af de pålidelige ledere inden for digitale betalinger
- - [https://www.visa.dk](https://www.visa.dk)
- - date_published: 2024-05-12T03:59:08.726730+00:00
-
- ## Den Nationale Whistleblowerordning
- - [https://whistleblower.dk](https://whistleblower.dk)
- - date_published: 2024-04-30T02:34:31.241884+00:00
-
- ## WWF Danmark | Verdens største uafhængige naturorganisation
- - [https://www.wwf.dk](https://www.wwf.dk)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Yelp
- - [https://www.yelp.dk](https://www.yelp.dk)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## me.dm by Medium.com
- - [https://me.dm](https://me.dm)
- - date_published: 2024-05-01T05:42:33.983359+00:00
-
- ## Citroën República Dominicana: Automóviles Nuevos. Post Venta
- - [https://www.citroen.com.do](https://www.citroen.com.do)
- - date_published: 2023-12-11T16:03:59.081023+00:00
-
- ## ESPN República Dominicana - Lo Último del Mundo Deportivo
- - [https://www.espn.com.do](https://www.espn.com.do)
- - date_published: 2024-05-02T09:41:26.565027+00:00
-
- ## Visa, un líder confiable en pagos digitales
- - [https://www.visa.com.do](https://www.visa.com.do)
- - date_published: 2024-05-12T04:00:04.501872+00:00
-
- ## Any.do Help Center
- - [https://support.any.do](https://support.any.do)
- - date_published: 2024-05-01T06:43:05.474582+00:00
-
- ## Organize your life and manage your team's work with Any.do
- - [https://web.any.do](https://web.any.do)
- - date_published: 2024-05-01T06:18:26.769621+00:00
-
- ## Armand Cognetta
- - [https://arman.do](https://arman.do)
- - date_published: 2023-11-29T15:51:37.182223+00:00
- - tags: ['personal']
-
- ## Vim | Armand B. Cognetta III | Substack
- - [https://writing.arman.do](https://writing.arman.do)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Armand Cognetta
- - [https://www.arman.do](https://www.arman.do)
- - date_published: 2024-05-10T06:33:02.851469+00:00
- - tags: ['personal']
-
- ## Blardo's Braindump
- - [https://blar.do](https://blar.do)
- - date_published: 2023-12-20T22:45:30.871318+00:00
-
- ## Brick: Homepage
- - [https://brick.do](https://brick.do)
- - date_published: 2024-04-30T02:48:01.765172+00:00
-
- ## Evgenia Karunus
- - [https://lakesare.brick.do](https://lakesare.brick.do)
- - date_published: 2023-10-25T18:46:17.838584+00:00
-
- ## Craft – The Future of Documents
- - [https://craft.do](https://craft.do)
- - date_published: 2024-05-15T02:44:49.229779+00:00
-
- ## Craft – The Future of Documents
- - [https://www.craft.do](https://www.craft.do)
- - date_published: 2024-05-04T14:31:57.688277+00:00
-
- ## Daniel Immke’s Personal Website
- - [https://daniel.do](https://daniel.do)
- - date_published: 2023-10-25T18:46:19.691750+00:00
-
- ## Gather
- - [https://gather.do](https://gather.do)
- - date_published: 2024-05-09T06:17:05.765323+00:00
-
- ## Hawaii Interactive - code, web & design
- - [https://www.hawaii.do](https://www.hawaii.do)
- - date_published: 2023-02-08T00:00:00+00:00
-
- ## Ichido Blog
- - [https://blog.ichi.do](https://blog.ichi.do)
- - date_published: 2023-10-15T00:00:00+00:00
-
- ## Ichido
- - [https://ichi.do](https://ichi.do)
- - date_published: 2024-01-09T02:57:52.397377+00:00
-
- ## Ichido
- - [https://metaverse.ichi.do](https://metaverse.ichi.do)
- - date_published: 2024-04-30T02:48:04.170623+00:00
-
- ## Jonas Downey | digital goods & greats
- - [https://jonas.do](https://jonas.do)
- - date_published: 2024-05-07T23:16:41.750462+00:00
-
- ## umami
- - [https://umami.journal.do](https://umami.journal.do)
- - date_published: 2024-05-04T13:00:09.316736+00:00
-
- ## Alejandro Machado – Projects
- - [https://alejandro.macha.do](https://alejandro.macha.do)
- - date_published: 2024-01-02T18:28:44.845981+00:00
-
- ## MiguelPimentel.do
- - [https://miguelpimentel.do](https://miguelpimentel.do)
- - date_published: 2024-06-01T04:50:36.379959+00:00
- - tags: ['personal']
-
- ## Redirecting to Rottmann Ventures GmbH
- - [https://rv.do](https://rv.do)
- - date_published: 2024-05-09T07:50:42.255866+00:00
-
- ## HOME | LIS.DOCTOR
- - [https://lis.doctor](https://lis.doctor)
- - date_published: 2024-01-19T01:54:20.473301+00:00
-
- ## Brian Lui's blog
- - [https://brianlui.dog](https://brianlui.dog)
- - date_published: 2023-11-29T15:44:45.049341+00:00
- - tags: ['personal']
-
- ## CogDog is Alan Levine
- - [https://cog.dog](https://cog.dog)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## social.cryptography.dog
- - [https://social.cryptography.dog](https://social.cryptography.dog)
- - date_published: 2024-05-09T07:40:40.660172+00:00
-
- ## Dog API by kinduff
- - [https://dogapi.dog](https://dogapi.dog)
- - date_published: 2023-10-25T18:46:20.933530+00:00
-
- ## No Idea Blog
- - [https://noidea.dog](https://noidea.dog)
- - date_published: 2024-01-09T02:58:03.964927+00:00
-
- ## This is the internet homepage of Bix Frankonis
- - [https://slow.dog](https://slow.dog)
- - date_published: 2023-12-11T23:17:44.912955+00:00
- - tags: ['personal']
-
- ## That Slow Dog
- - [https://that.slow.dog](https://that.slow.dog)
- - date_published: 2024-02-26T14:07:35.467462+00:00
-
- ## landing @ sof.dog
- - [https://sof.dog](https://sof.dog)
- - date_published: 2024-05-07T23:45:42.363696+00:00
-
- ## Zdog · Round, flat, designer-friendly pseudo-3D engine for canvas and SVG
- - [https://zzz.dog](https://zzz.dog)
- - date_published: 2024-05-07T09:14:12.569675+00:00
-
- ## ENS
- - [https://app.ens.domains](https://app.ens.domains)
- - date_published: 2024-04-29T07:49:45.857628+00:00
-
- ## ENS Documentation
- - [https://docs.ens.domains](https://docs.ens.domains)
- - date_published: 2024-04-29T03:10:57.344859+00:00
-
- ## Red Flag Domains
- - [https://red.flag.domains](https://red.flag.domains)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## MKVToolNix news – Matroska tools for Linux/Unix and Windows
- - [https://mkvtoolnix.download](https://mkvtoolnix.download)
- - date_published: 2024-04-30T08:00:59.400583+00:00
- - tags: ['matroska', 'video encoding']
-
- ## VCMI Project Builds
- - [https://builds.vcmi.download](https://builds.vcmi.download)
- - date_published: 2024-05-07T23:55:36.243945+00:00
-
- ## EF Education First | ef.dz
- - [https://www.ef.dz](https://www.ef.dz)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Solutions de cybersécurité pour particuliers et entreprises | Kaspersky Algerie
- - [https://kaspersky.dz](https://kaspersky.dz)
- - date_published: 2024-05-02T12:07:02.006788+00:00
-
- ## All posts
- - [https://ashen.earth](https://ashen.earth)
- - date_published: 2023-10-25T18:46:22.771402+00:00
-
- ## Home
- - [https://astraea.earth](https://astraea.earth)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Conquer Earth
- - [https://conquer.earth](https://conquer.earth)
- - date_published: 2024-05-04T15:42:55.637960+00:00
-
- ## Dialogue Earth
- - [https://dialogue.earth](https://dialogue.earth)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Distilled | Michael Thomas | Substack
- - [https://www.distilled.earth](https://www.distilled.earth)
- - date_published: 2023-10-25T18:46:26.279244+00:00
-
- ## fantastic.earth
- - [https://fantastic.earth](https://fantastic.earth)
- - date_published: 2024-04-28T01:37:00.640464+00:00
-
- ## Giving Green | High-impact climate giving
- - [https://www.givinggreen.earth](https://www.givinggreen.earth)
- - date_published: 2024-05-02T12:53:56.753956+00:00
-
- ## html.earth: Markdown to HTML Converter & Site Generator
- - [https://html.earth](https://html.earth)
- - date_published: 2024-05-06T21:41:05.344633+00:00
-
- ## Mastodon
- - [https://social.mkj.earth](https://social.mkj.earth)
- - date_published: 2024-04-30T06:11:46.194737+00:00
-
- ## MOTHERLAND
- - [https://motherland.earth](https://motherland.earth)
- - date_published: 2024-05-10T06:13:32.301129+00:00
-
- ## Stop Ecocide International
- - [https://www.stopecocide.earth](https://www.stopecocide.earth)
- - date_published: 2024-05-07T23:56:13.369247+00:00
-
- ## Valinor Earth
- - [https://valinor.earth](https://valinor.earth)
- - date_published: 2024-05-08T03:21:28.716693+00:00
-
- ## https://vienna.earth
- - [https://vienna.earth](https://vienna.earth)
- - date_published: 2024-01-09T02:58:05.377373+00:00
-
- ## Error 403
- - [https://tiles.zoom.earth](https://tiles.zoom.earth)
- - date_published: 2024-04-30T02:48:48.892765+00:00
-
- ## Zoom Earth | Weather Maps & Live Hurricane Tracker
- - [https://zoom.earth](https://zoom.earth)
- - date_published: 2023-10-24T20:19:17.010702+00:00
-
- ## Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más
- - [https://www.airbnb.com.ec](https://www.airbnb.com.ec)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Déposez votre avis sur un véhicule ou un point de vente
- - [http://www.advisor.citroen.com.ec](http://www.advisor.citroen.com.ec)
- - date_published: 2024-05-10T04:41:34.195774+00:00
-
- ## Citroën, Vehículos Inspirados en Ti. Encuéntralos en Grupo Mavesa
- - [https://www.citroen.com.ec](https://www.citroen.com.ec)
- - date_published: 2023-12-11T16:01:37.530178+00:00
-
- ## EF Education First | Ecuador
- - [https://www.ef.com.ec](https://www.ef.com.ec)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## ESPN Ecuador - Lo Último del Mundo Deportivo
- - [https://www.espn.com.ec](https://www.espn.com.ec)
- - date_published: 2024-05-02T09:42:30.626831+00:00
-
- ## Visa, un líder confiable en pagos digitales
- - [https://www.visa.com.ec](https://www.visa.com.ec)
- - date_published: 2024-05-12T04:00:12.943533+00:00
-
- ## Citroën Origins
- - [http://www.citroenorigins.ec](http://www.citroenorigins.ec)
- - date_published: 2024-05-10T04:41:35.757455+00:00
-
- ## Resumen del estado
- - [https://downdetector.ec](https://downdetector.ec)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## ROOTSEC
- - [https://roots.ec](https://roots.ec)
- - date_published: 2024-05-11T06:54:45.270984+00:00
-
- ## Welcome to CodeIgniter
- - [http://directorio.ikiam.edu.ec](http://directorio.ikiam.edu.ec)
- - date_published: 2024-04-30T02:49:11.242290+00:00
-
- ## Transparencia Ikiam
- - [https://lotaip.ikiam.edu.ec](https://lotaip.ikiam.edu.ec)
- - date_published: 2022-01-01T00:00:00+00:00
-
- ## Inicio | Universidad San Francisco de Quito - Ecuador
- - [https://www.usfq.edu.ec](https://www.usfq.edu.ec)
- - date_published: 2024-05-01T08:01:48.061447+00:00
-
- ## Home
- - [https://www.wwf.org.ec](https://www.wwf.org.ec)
- - date_published: 2024-05-07T23:56:29.282375+00:00
-
- ## Data Desk | Louis Goddard | Substack
- - [https://blog.datadesk.eco](https://blog.datadesk.eco)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## GUN — the database for freedom fighters - Docs v2.0
- - [https://gun.eco](https://gun.eco)
- - date_published: 2024-04-30T00:29:46.242785+00:00
-
- ## Mouvement Impact France - Ensemble, changeons l'économie
- - [https://www.impactfrance.eco](https://www.impactfrance.eco)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Loes van Mierlo - Regenerative Coaching
- - [https://www.loes.eco](https://www.loes.eco)
- - date_published: 2024-04-28T02:12:02.689845+00:00
-
- ## Home | Minimum
- - [https://minimum.eco](https://minimum.eco)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://www.aau.edu](https://www.aau.edu)
- - date_published: 2024-05-07T19:32:37.872855+00:00
-
- ## Australian Catholic University
- - [https://acu-au.academia.edu](https://acu-au.academia.edu)
- - date_published: 2024-04-30T03:03:22.148714+00:00
-
- ## The Australian National University
- - [https://anu-au.academia.edu](https://anu-au.academia.edu)
- - date_published: 2024-04-30T02:57:41.815540+00:00
-
- ## University of Brighton
- - [https://brighton.academia.edu](https://brighton.academia.edu)
- - date_published: 2024-04-30T02:59:39.003488+00:00
-
- ## Boston University
- - [https://bu.academia.edu](https://bu.academia.edu)
- - date_published: 2024-04-30T03:00:21.443795+00:00
-
- ## University of Cambridge
- - [https://cambridge.academia.edu](https://cambridge.academia.edu)
- - date_published: 2024-04-30T02:58:24.076871+00:00
 

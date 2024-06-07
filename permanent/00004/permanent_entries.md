@@ -1,3 +1,52 @@
+ ## Associació Catalana d'Universitats Públiques | ACUP
+ - [http://www.acup.cat](http://www.acup.cat)
+ - date_published: 2024-05-07T21:59:15.254400+00:00
+
+ ## Airbnb | Lloguers vacacionals, casetes, cases a la platja i molt més
+ - [https://www.airbnb.cat](https://www.airbnb.cat)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Estacions i intercanviadors - albertguillaumes.cat
+ - [http://estacions.albertguillaumes.cat](http://estacions.albertguillaumes.cat)
+ - date_published: 2024-05-09T07:18:26.435309+00:00
+
+ ## Metro Stations and Transfers
+ - [http://stations.albertguillaumes.cat](http://stations.albertguillaumes.cat)
+ - date_published: 2024-03-08T00:20:19+00:00
+
+ ## albertguillaumes.cat
+ - [http://www.albertguillaumes.cat](http://www.albertguillaumes.cat)
+ - date_published: 2024-05-09T07:18:28.860855+00:00
+
+ ## El web de la ciutat de Barcelona | Ajuntament de Barcelona
+ - [http://www.bcn.cat](http://www.bcn.cat)
+ - date_published: 2024-05-08T08:49:35.701086+00:00
+
+ ## El grup - CCMA
+ - [http://www.ccma.cat](http://www.ccma.cat)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Inici - CERCA
+ - [https://cerca.cat](https://cerca.cat)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Dario Castañé
+ - [https://dario.cat](https://dario.cat)
+ - date_published: 2024-05-09T08:12:41.816016+00:00
+
+ ## Inici
+ - [http://www.gencat.cat](http://www.gencat.cat)
+ - date_published: 2024-05-08T08:49:49.796888+00:00
+
+ ## HTTP Cats
+ - [https://http.cat](https://http.cat)
+ - date_published: 2023-10-25T12:10:29.119183+00:00
+ - tags: ['cats', 'wtf', 'funny', 'http', 'internet']
+
+ ## Capítol Català de la Societat Internet - Catalan Chapter of the Internet Society
+ - [https://www.isoc.cat](https://www.isoc.cat)
+ - date_published: 2024-05-06T23:55:49.836985+00:00
+
  ## mastodont.cat, cultura catalana.
  - [https://mastodont.cat](https://mastodont.cat)
  - date_published: 2024-05-09T08:22:54.387775+00:00
@@ -1337,6 +1386,7 @@
  ## Enderman
  - [https://enderman.ch](https://enderman.ch)
  - date_published: 2025-02-19T00:00:00+00:00
+ - tags: ['personal']
 
  ## Enderman
  - [https://go.enderman.ch](https://go.enderman.ch)
@@ -1737,6 +1787,7 @@
  ## ETH Zürich - Homepage | ETH Zürich
  - [https://ethz.ch](https://ethz.ch)
  - date_published: 2023-10-25T12:13:42.696984+00:00
+ - tags: ['technology institute']
 
  ## Departement Geistes-, Sozial- und Staatswissenschaften
  - [https://gess.ethz.ch](https://gess.ethz.ch)
@@ -1781,6 +1832,10 @@
  ## Homepage - Department of Management, Technology, and Economics
  - [https://mtec.ethz.ch](https://mtec.ethz.ch)
  - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Persönliche Website
+ - [https://n.ethz.ch](https://n.ethz.ch)
+ - date_published: 2024-06-06T18:16:38.575180+00:00
 
  ## 403 Forbidden
  - [https://people.inf.ethz.ch](https://people.inf.ethz.ch)
@@ -1833,6 +1888,10 @@
  ## MAS UTD
  - [https://www.mas-utd.arch.ethz.ch](https://www.mas-utd.arch.ethz.ch)
  - date_published: 2024-05-12T07:16:27.891819+00:00
+
+ ## NEXUS Personalized Health Technologies
+ - [https://www.nexus.ethz.ch](https://www.nexus.ethz.ch)
+ - date_published: 2024-06-06T18:26:54.739975+00:00
 
  ## Welcome - DPHYS
  - [https://www.phys.ethz.ch](https://www.phys.ethz.ch)
@@ -2577,6 +2636,10 @@
  - [https://www.schweizerfamilie.ch](https://www.schweizerfamilie.ch)
  - date_published: 2024-04-22T00:00:00+00:00
 
+ ## Scientology - l'Eglise de la Scientology de France, Portail officiel
+ - [https://www.scientology.ch](https://www.scientology.ch)
+ - date_published: 0001-01-01T00:00:00+00:00
+
  ## Nicolas Seriot
  - [https://seriot.ch](https://seriot.ch)
  - date_published: 2024-03-24T13:32:42.663592+00:00
@@ -2756,6 +2819,10 @@
  ## The Local Switzerland - News and practical guides in English
  - [https://www.thelocal.ch](https://www.thelocal.ch)
  - date_published: 2024-05-06T15:16:49.291442+00:00
+
+ ## Home - The LOOP Zurich
+ - [https://theloopzurich.ch](https://theloopzurich.ch)
+ - date_published: 2024-06-06T18:26:53.612314+00:00
 
  ## Wählen Sie Ihr passendes Abonnement
  - [https://abo.themarket.ch](https://abo.themarket.ch)
@@ -3483,6 +3550,10 @@
  - [https://www.pinterest.cl](https://www.pinterest.cl)
  - date_published: 2024-04-22T00:00:00+00:00
 
+ ## Iglesia Oficial de Scientology: L. Ronald Hubbard, Dianética, ¿Qué es Scientology?, Libros, Creencias, David Miscavige
+ - [https://www.scientology.cl](https://www.scientology.cl)
+ - date_published: 0001-01-01T00:00:00+00:00
+
  ## Custom Domain by Bitly
  - [http://supr.cl](http://supr.cl)
  - date_published: 2024-05-12T06:55:58.864521+00:00
@@ -3980,73 +4051,4 @@
  ## The Most Advanced WYSIWYG Editor | Trusted Rich Text Editor | TinyMCE
  - [https://www.tiny.cloud](https://www.tiny.cloud)
  - date_published: 2024-05-06T13:15:47.371760+00:00
-
- ## Unison Cloud
- - [https://app.unison.cloud](https://app.unison.cloud)
- - date_published: 2024-04-30T06:18:16.943198+00:00
-
- ## The Unison‚Ñ¢ Cloud Platform
- - [https://unison.cloud](https://unison.cloud)
- - date_published: 2024-04-30T06:18:20.477474+00:00
-
- ## The Unison™ Cloud Platform
- - [https://www.unison.cloud](https://www.unison.cloud)
- - date_published: 2024-02-07T19:29:32.882768+00:00
-
- ## Unum | Scaling Intelligence
- - [https://www.unum.cloud](https://www.unum.cloud)
- - date_published: 2023-10-25T12:15:40.179031+00:00
-
- ## Valetudo – Cloud replacement for vacuum robots enabling local-only operation
- - [https://valetudo.cloud](https://valetudo.cloud)
- - date_published: 2023-12-27T23:51:24+00:00
-
- ## The to do app to organize your life & work | Vikunja Cloud
- - [https://vikunja.cloud](https://vikunja.cloud)
- - date_published: 2024-05-14T03:31:49.663155+00:00
-
- ## Cloud Storage: облачное объектное хранилище S3 ☁ VK Cloud
- - [https://hb.vkcs.cloud](https://hb.vkcs.cloud)
- - date_published: 2024-05-06T14:26:08.397763+00:00
-
- ## Voltage | Lightning Network Infrastructure Provider | Nodes, Liquidity, Monitoring
- - [https://voltage.cloud](https://voltage.cloud)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## WCS | Log in
- - [https://console.weaviate.cloud](https://console.weaviate.cloud)
- - date_published: 2024-05-06T14:47:56.539785+00:00
-
- ## webots.cloud
- - [https://webots.cloud](https://webots.cloud)
- - date_published: 2024-05-10T05:10:41.929651+00:00
-
- ## wikibase.cloud
- - [https://wikibase.cloud](https://wikibase.cloud)
- - date_published: 2024-05-11T09:06:19.264353+00:00
-
- ## Wing Cloud
- - [https://www.wing.cloud](https://www.wing.cloud)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Show HN: Learn 3 words today with Gemini 1.5 Pro
- - [https://wordlab.cloud](https://wordlab.cloud)
- - date_published: 2024-04-17T13:03:54+00:00
- - tags: ['artificial intelligence bot']
-
- ## WP Cloud
- - [https://wp.cloud](https://wp.cloud)
- - date_published: 2024-05-02T10:29:45.475765+00:00
-
- ## Cloud Services in Georgia - YER Hosted Service Provider (xSP)
- - [https://geo.yer.cloud](https://geo.yer.cloud)
- - date_published: 2024-04-30T06:18:33.830057+00:00
-
- ## Login - YER Cloud
- - [https://portal.yer.cloud](https://portal.yer.cloud)
- - date_published: 2024-04-30T06:18:30.677865+00:00
-
- ## Azerbaijan Cloud Service Provider - YER Hosted Service Provider (xSP)
- - [https://yer.cloud](https://yer.cloud)
- - date_published: 2023-10-25T12:15:42.985430+00:00
 
