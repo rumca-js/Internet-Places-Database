@@ -1,3 +1,212 @@
+ ## Home | Global Michigan
+ - [http://global.umich.edu](http://global.umich.edu)
+ - date_published: 2024-05-07T21:28:59.379833+00:00
+
+ ## Computing Education Research
+ - [https://guzdial.engin.umich.edu](https://guzdial.engin.umich.edu)
+ - date_published: 2024-05-07T14:56:25.236437+00:00
+
+ ## Health Information Technology & Services
+ - [http://hits.medicine.umich.edu](http://hits.medicine.umich.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Michigan Engineering Intranet – Michigan Engineering Intranet
+ - [http://intranet.engin.umich.edu](http://intranet.engin.umich.edu)
+ - date_published: 2024-05-07T21:28:39.228859+00:00
+
+ ## Institute for Social Research
+ - [https://isr.umich.edu](https://isr.umich.edu)
+ - date_published: 2024-05-07T21:29:21.885598+00:00
+
+ ## Mardigian Library
+ - [https://library.umd.umich.edu](https://library.umd.umich.edu)
+ - date_published: 2024-05-07T21:27:20.775339+00:00
+
+ ## Language Information and Technologies
+ - [https://lit.eecs.umich.edu](https://lit.eecs.umich.edu)
+ - date_published: 2002-01-01T00:00:00+00:00
+
+ ## College of LSA | U-M LSA U-M College of LSA
+ - [https://lsa.umich.edu](https://lsa.umich.edu)
+ - date_published: 2024-05-07T14:56:35.487227+00:00
+
+ ## Michigan Medicine
+ - [https://medicine.umich.edu](https://medicine.umich.edu)
+ - date_published: 2024-01-05T20:59:14.155377+00:00
+
+ ## Michigan Medicine Research Home | University of Michigan Medical School Research
+ - [https://medresearch.umich.edu](https://medresearch.umich.edu)
+ - date_published: 2024-05-08T10:12:32.486876+00:00
+
+ ## Education Homepage | University of Michigan Medical School
+ - [https://medschool.umich.edu](https://medschool.umich.edu)
+ - date_published: 2024-05-08T10:12:35.252467+00:00
+
+ ## HTML Meta Tag
+ - [http://med.umich.edu](http://med.umich.edu)
+ - date_published: 2024-05-07T21:27:59.024269+00:00
+
+ ## University of Michigan Law School
+ - [https://michigan.law.umich.edu](https://michigan.law.umich.edu)
+ - date_published: 2024-05-07T21:29:27.768410+00:00
+
+ ## Home
+ - [http://michigantoday.umich.edu](http://michigantoday.umich.edu)
+ - date_published: 2024-05-07T21:29:13.012105+00:00
+
+ ## UMich MSE
+ - [https://mse.engin.umich.edu](https://mse.engin.umich.edu)
+ - date_published: 2024-05-12T05:16:53.209449+00:00
+
+ ## Engineering Research News - Michigan Engineering News
+ - [https://news.engin.umich.edu](https://news.engin.umich.edu)
+ - date_published: 2023-10-25T19:02:17.444168+00:00
+
+ ## University of Michigan News
+ - [https://news.umich.edu](https://news.umich.edu)
+ - date_published: 2023-10-25T19:02:26.050077+00:00
+
+ ## Home | Equity, Civil Rights & Title IX Office
+ - [https://oie.umich.edu](https://oie.umich.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## PRBA | The Program for Research on Black Americans
+ - [https://prba.isr.umich.edu](https://prba.isr.umich.edu)
+ - date_published: 2024-02-08T17:48:53.662680+00:00
+
+ ## Office of the President
+ - [https://president.umich.edu](https://president.umich.edu)
+ - date_published: 2024-05-04T06:11:00.310049+00:00
+
+ ## U-M Public Affairs
+ - [http://publicaffairs.vpcomm.umich.edu](http://publicaffairs.vpcomm.umich.edu)
+ - date_published: 2024-05-07T21:28:53.650630+00:00
+
+ ## Research Center for Group Dynamics |
+ - [https://rcgd.isr.umich.edu](https://rcgd.isr.umich.edu)
+ - date_published: 2024-05-07T21:29:17.799449+00:00
+
+ ## The University Record
+ - [https://record.umich.edu](https://record.umich.edu)
+ - date_published: 2024-04-20T14:55:31.813935+00:00
+ - tags: ['university news']
+
+ ## Homepage
+ - [https://regents.umich.edu](https://regents.umich.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## University of Michigan Law School Scholarship Repository
+ - [https://repository.law.umich.edu](https://repository.law.umich.edu)
+ - date_published: 2023-10-25T19:02:35.321840+00:00
+
+ ## Office of Research
+ - [https://research.medicine.umich.edu](https://research.medicine.umich.edu)
+ - date_published: 2024-05-07T21:28:02.926633+00:00
+
+ ## Michigan Robotics | University of Michigan
+ - [https://robotics.umich.edu](https://robotics.umich.edu)
+ - date_published: 2013-07-09T19:23:43+00:00
+
+ ## CoE Safety
+ - [http://safety.engin.umich.edu](http://safety.engin.umich.edu)
+ - date_published: 2024-05-07T21:28:45.451956+00:00
+
+ ## Scalar
+ - [https://scalar.eecs.umich.edu](https://scalar.eecs.umich.edu)
+ - date_published: 2024-05-07T14:56:30.959795+00:00
+
+ ## WordPress Websites – Offered by LSA Technology Services
+ - [https://sites.lsa.umich.edu](https://sites.lsa.umich.edu)
+ - date_published: 2024-03-22T20:49:48.942501+00:00
+
+ ## University of Michigan Marsal Family School of Education
+ - [https://soe.umich.edu](https://soe.umich.edu)
+ - date_published: 2024-05-07T14:56:22.276920+00:00
+
+ ## Strategic Vision - Michigan Engineering - University of Michigan
+ - [http://strategicvision.engin.umich.edu](http://strategicvision.engin.umich.edu)
+ - date_published: 2023-07-12T00:00:00+00:00
+
+ ## Taubman College of Architecture and Urban Planning - University of Michigan
+ - [http://taubmancollege.umich.edu](http://taubmancollege.umich.edu)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## University of Michigan
+ - [https://umich.edu](https://umich.edu)
+ - date_published: 2024-05-02T12:42:38.088438+00:00
+
+ ## Office of the Vice President for Communications
+ - [https://vpcomm.umich.edu](https://vpcomm.umich.edu)
+ - date_published: 2024-05-07T21:27:48.263741+00:00
+
+ ## EECS Department
+ - [https://web.eecs.umich.edu](https://web.eecs.umich.edu)
+ - date_published: 2024-01-09T03:28:40.266068+00:00
+
+ ## Wolverine Access - Find & Favorite University of Michigan Resources
+ - [https://wolverineaccess.umich.edu](https://wolverineaccess.umich.edu)
+ - date_published: 2024-05-07T21:27:09.394140+00:00
+
+ ## Biomedical Engineering - BME
+ - [http://www.bme.umich.edu](http://www.bme.umich.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Center for the Study of Complex Systems | U-M LSA Center for the Study of Complex Systems
+ - [http://www.cscs.umich.edu](http://www.cscs.umich.edu)
+ - date_published: 2024-05-07T15:26:41.313724+00:00
+
+ ## Computer Science and Engineering at Michigan
+ - [https://www.cse.umich.edu](https://www.cse.umich.edu)
+ - date_published: 2024-05-08T00:01:12.026182+00:00
+
+ ## Electrical Engineering and Computer Science at the University of Michigan
+ - [https://www.eecs.umich.edu](https://www.eecs.umich.edu)
+ - date_published: 2024-05-07T21:29:41.357227+00:00
+
+ ## University of Michigan: College of Engineering
+ - [https://www.engin.umich.edu](https://www.engin.umich.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## University of Michigan Law School
+ - [https://www.law.umich.edu](https://www.law.umich.edu)
+ - date_published: 2024-05-04T07:29:47.778798+00:00
+
+ ## redirect
+ - [http://www.math.lsa.umich.edu](http://www.math.lsa.umich.edu)
+ - date_published: 2024-05-08T09:49:24.106095+00:00
+
+ ## HTML Meta Tag
+ - [http://www.med.umich.edu](http://www.med.umich.edu)
+ - date_published: 2024-05-07T21:28:16.527531+00:00
+
+ ## Department of Pathology
+ - [http://www.pathology.med.umich.edu](http://www.pathology.med.umich.edu)
+ - date_published: 2024-05-07T21:28:09.619892+00:00
+
+ ## University of Michigan Press
+ - [https://www.press.umich.edu](https://www.press.umich.edu)
+ - date_published: 2024-05-02T10:13:34.061829+00:00
+
+ ## U-M Safe Computing / safecomputing.umich.edu
+ - [https://www.safecomputing.umich.edu](https://www.safecomputing.umich.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## University of Michigan
+ - [https://www.umich.edu](https://www.umich.edu)
+ - date_published: 2024-05-01T06:40:38.254778+00:00
+
+ ## The University of Missouri-Kansas City
+ - [https://www.umkc.edu](https://www.umkc.edu)
+ - date_published: 2024-05-08T09:05:35.626954+00:00
+
+ ## Faculty/Staff Websites & Bios | Communications Strategy | Expertise | Brand, Communications & Creative Strategy
+ - [https://faculty.uml.edu](https://faculty.uml.edu)
+ - date_published: 2024-05-07T15:18:30.018327+00:00
+
+ ## UMass Lowell
+ - [https://www.uml.edu](https://www.uml.edu)
+ - date_published: 2024-05-07T15:18:25.179625+00:00
+
  ## Office of Admissions | University of Minnesota Twin Cities
  - [https://admissions.tc.umn.edu](https://admissions.tc.umn.edu)
  - date_published: 2024-05-11T07:55:17.419038+00:00
@@ -3802,225 +4011,4 @@
  ## Office of Public Affairs & Communications
  - [http://communications.yale.edu](http://communications.yale.edu)
  - date_published: 2024-05-07T22:42:29.173803+00:00
-
- ## Welcome to the COSINE-100 Website!
- | COSINE-100 Dark Matter Experiment
- - [https://cosine.yale.edu](https://cosine.yale.edu)
- - date_published: 2024-02-08T16:33:40.809072+00:00
-
- ## Search Yale Courses
- - [https://courses.yale.edu](https://courses.yale.edu)
- - date_published: 2024-05-07T22:42:08.997011+00:00
-
- ## Welcome
- | Computer Science
- - [http://cpsc.yale.edu](http://cpsc.yale.edu)
- - date_published: 2024-04-28T02:51:13.876263+00:00
-
- ## https://cs-www.cs.yale.edu
- - [https://cs-www.cs.yale.edu](https://cs-www.cs.yale.edu)
- - date_published: 2024-01-09T03:29:01.849380+00:00
-
- ## Home | Yale Cybersecurity
- - [https://cybersecurity.yale.edu](https://cybersecurity.yale.edu)
- - date_published: 2024-05-07T22:42:58.802164+00:00
-
- ## Directories | Yale University
- - [http://directory.yale.edu](http://directory.yale.edu)
- - date_published: 2024-05-07T22:41:35.047159+00:00
-
- ## Yale E360
- - [https://e360.yale.edu](https://e360.yale.edu)
- - date_published: 2023-10-25T19:06:53.110107+00:00
-
- ## SDL
- - [https://edit.yale.edu](https://edit.yale.edu)
- - date_published: 2024-05-07T22:42:48.847716+00:00
-
- ## Welcome
- | Yale Environmental Health & Safety
- - [https://ehs.yale.edu](https://ehs.yale.edu)
- - date_published: 2024-05-07T22:42:39.683123+00:00
-
- ## Welcome
- | Emergency Management
- - [https://emergency.yale.edu](https://emergency.yale.edu)
- - date_published: 2024-05-07T22:42:54.723593+00:00
-
- ## Energy History – Energy History Online
- - [https://energyhistory.yale.edu](https://energyhistory.yale.edu)
- - date_published: 2023-11-16T01:58:56.369597+00:00
-
- ## Yale School of the Environment
- - [https://environment.yale.edu](https://environment.yale.edu)
- - date_published: 2024-05-07T22:43:58.314347+00:00
-
- ## Yale Office of Facilities
- | Office of Facilities
- - [https://facilities.yale.edu](https://facilities.yale.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Faculty Development & Diversity
- | Faculty Development & Diversity
- - [https://faculty.yale.edu](https://faculty.yale.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## For Humanity
- - [http://forhumanity.yale.edu](http://forhumanity.yale.edu)
- - date_published: 2024-05-07T22:44:07.264999+00:00
-
- ## Welcome
- - [https://foxfellowship.yale.edu](https://foxfellowship.yale.edu)
- - date_published: 2024-05-07T22:43:54.917895+00:00
-
- ## Health Insurance Portability and Accountability Act
- - [https://hipaa.yale.edu](https://hipaa.yale.edu)
- - date_published: 2024-05-07T22:43:07.725858+00:00
-
- ## Welcome
- | Yale Hospitality
- - [https://hospitality.yale.edu](https://hospitality.yale.edu)
- - date_published: 2024-05-07T22:43:09.035378+00:00
-
- ## Welcome
- | Yale Housing
- - [https://housing.yale.edu](https://housing.yale.edu)
- - date_published: 2024-05-07T22:42:18.524914+00:00
-
- ## Home
- | The MacMillan Center Hellenic Studies Program
- - [https://hsp.macmillan.yale.edu](https://hsp.macmillan.yale.edu)
- - date_published: 2024-02-08T17:35:48.928417+00:00
-
- ## Ideas from the Yale School of Management | Yale Insights
- - [https://insights.som.yale.edu](https://insights.som.yale.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Homepage - IT at Yale
- - [https://its.yale.edu](https://its.yale.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Homepage
- - [https://law.yale.edu](https://law.yale.edu)
- - date_published: 2024-01-02T00:04:15.577147+00:00
-
- ## Lillian Goldman Law Library
- - [https://library.law.yale.edu](https://library.law.yale.edu)
- - date_published: 2024-05-07T22:41:28.514651+00:00
-
- ## Harvey Cushing/John Hay Whitney Medical Library
- - [http://library.medicine.yale.edu](http://library.medicine.yale.edu)
- - date_published: 2024-05-07T22:41:36.380491+00:00
-
- ## The MacMillan Report
- - [http://macmillanreport.yale.edu](http://macmillanreport.yale.edu)
- - date_published: 2024-05-07T22:41:25.423892+00:00
-
- ## The MacMillan Center
- - [https://macmillan.yale.edu](https://macmillan.yale.edu)
- - date_published: 2024-05-07T22:41:11.409861+00:00
-
- ## Yale School of Medicine
- - [https://medicine.yale.edu](https://medicine.yale.edu)
- - date_published: 2023-12-27T12:02:00.358239+00:00
-
- ## Homepage | Yale School of Music
- - [http://music.yale.edu](http://music.yale.edu)
- - date_published: 2024-05-07T22:42:56.515651+00:00
-
- ## YaleNews | Home
- - [https://news.yale.edu](https://news.yale.edu)
- - date_published: 2023-10-25T19:06:55.320385+00:00
-
- ## Yale Law School Legal Scholarship Repository
- - [https://openyls.law.yale.edu](https://openyls.law.yale.edu)
- - date_published: 2024-05-07T22:41:26.950761+00:00
-
- ## Yale Physician Assistant Online Program
- - [https://paonline.yale.edu](https://paonline.yale.edu)
- - date_published: 2024-05-07T22:43:04.552092+00:00
-
- ## Yale Center for Research Computing
- - [http://research.computing.yale.edu](http://research.computing.yale.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Home
- | Sexual Harassment and Assault Response & Education (SHARE)
- - [http://sharecenter.yale.edu](http://sharecenter.yale.edu)
- - date_published: 2024-05-07T22:42:02.922924+00:00
-
- ## Services - IT at Yale
- - [https://software.yale.edu](https://software.yale.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Yale School of Management | Educating Leaders for Business and Society
- - [https://som.yale.edu](https://som.yale.edu)
- - date_published: 2024-05-07T22:43:51.615080+00:00
-
- ## Yale School of Public Health
- - [https://sph.yale.edu](https://sph.yale.edu)
- - date_published: 2024-05-07T22:44:18.373285+00:00
-
- ## Student Resources
- | IT at Yale
- - [https://studenttechnology.yale.edu](https://studenttechnology.yale.edu)
- - date_published: 2024-05-07T22:42:13.027761+00:00
-
- ## Usability & Web Accessibility | Create useful, usable websites that meet the needs of your audience
- - [https://usability.yale.edu](https://usability.yale.edu)
- - date_published: 2024-05-07T22:41:03.128353+00:00
-
- ## Welcome
- | Department of Mathematics
- - [https://users.math.yale.edu](https://users.math.yale.edu)
- - date_published: 2024-05-28T04:48:51.458519+00:00
-
- ## Application Unavailable | IT at Yale
- - [https://veritas.its.yale.edu](https://veritas.its.yale.edu)
- - date_published: 2024-05-07T22:42:36.117435+00:00
-
- ## Welcome to the Visitor Center | Yale Visitor Center
- - [https://visitorcenter.yale.edu](https://visitorcenter.yale.edu)
- - date_published: 2024-05-07T22:42:43.773305+00:00
-
- ## Welcome
- | International Toolkit
- - [http://world-toolkit.yale.edu](http://world-toolkit.yale.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Yale and the World |
- - [https://world.yale.edu](https://world.yale.edu)
- - date_published: 2024-05-07T22:43:59.761008+00:00
-
- ## Home - Yale Architecture
- - [https://www.architecture.yale.edu](https://www.architecture.yale.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Home - Yale School of Art
- - [https://www.art.yale.edu](https://www.art.yale.edu)
- - date_published: 2024-05-11T07:41:36.743220+00:00
-
- ## https://www.cs.yale.edu
- - [https://www.cs.yale.edu](https://www.cs.yale.edu)
- - date_published: 2024-01-09T03:29:02.859570+00:00
-
- ## Yale Department of Economics
- - [http://www.econ.yale.edu](http://www.econ.yale.edu)
- - date_published: 2024-05-11T11:10:38.698986+00:00
-
- ## redirecting...
- - [http://www.eng.yale.edu](http://www.eng.yale.edu)
- - date_published: 2024-04-30T03:56:41.099275+00:00
-
- ## Home | Yale Peabody Museum
- - [http://www.peabody.yale.edu](http://www.peabody.yale.edu)
- - date_published: 2024-05-07T22:42:42.154924+00:00
-
- ## Yale University
- - [https://www.yale.edu](https://www.yale.edu)
- - date_published: 2024-05-07T22:41:29.830662+00:00
-
- ## Yale College
- - [https://yalecollege.yale.edu](https://yalecollege.yale.edu)
- - date_published: 2024-05-08T00:00:00+00:00
 

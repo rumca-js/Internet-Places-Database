@@ -1,3 +1,123 @@
+ ## Latest In Space/ Weekly Space Newsletter | The Space Newsletter | Substack
+ - [https://thespacenewsletter.substack.com](https://thespacenewsletter.substack.com)
+ - date_published: 2024-05-18T02:47:43.508767+00:00
+
+ ## Rec Room | Substack
+ - [https://thespinoffrecroom.substack.com](https://thespinoffrecroom.substack.com)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## The Bulletin | The Spinoff | Substack
+ - [https://thespinoff.substack.com](https://thespinoff.substack.com)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## The Weekend with Madeleine Chapman | The Weekend with Mad Chapman | Substack
+ - [https://thespinoffweekly.substack.com](https://thespinoffweekly.substack.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## The VC Corner | Ruben Dominguez Ibar | Substack
+ - [https://thevccorner.substack.com](https://thevccorner.substack.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## The Walrus | Substack
+ - [https://thewalrusca.substack.com](https://thewalrusca.substack.com)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## The Walters File | Andy Walters | Substack
+ - [https://thewaltersfile.substack.com](https://thewaltersfile.substack.com)
+ - date_published: 2023-11-19T22:14:18.392857+00:00
+
+ ## The Why Axis | Christopher Ingraham | Substack
+ - [https://thewhyaxis.substack.com](https://thewhyaxis.substack.com)
+ - date_published: 2024-01-09T01:45:36.113692+00:00
+
+ ## The Willful Writer | Will J Murphy | Substack
+ - [https://thewillfulwriter.substack.com](https://thewillfulwriter.substack.com)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## The Wonder Project | Dan Vekhter | Substack
+ - [https://thewonderproject.substack.com](https://thewonderproject.substack.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## The Writing Life by Matt Taibbi | Substack
+ - [https://thewritinglife.substack.com](https://thewritinglife.substack.com)
+ - date_published: 2024-05-07T12:52:01.047742+00:00
+
+ ## Don't Worry About the Vase | Substack
+ - [https://thezvi.substack.com](https://thezvi.substack.com)
+ - date_published: 2023-11-22T18:18:35.241169+00:00
+
+ ## Thing of Things | Ozy Brennan | Substack
+ - [https://thingofthings.substack.com](https://thingofthings.substack.com)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## The Big Picture | Substack
+ - [https://thinkbigpicture.substack.com](https://thinkbigpicture.substack.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## This is indexing. | Michelle Guiliano | Substack
+ - [https://thisisindexing.substack.com](https://thisisindexing.substack.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## This is the Top | Douglas A. Boneparth | Substack
+ - [https://thisisthetop.substack.com](https://thisisthetop.substack.com)
+ - date_published: 2024-05-06T15:16:59.382060+00:00
+
+ ## Unpacked | Viggy Balagopalakrishnan | Substack
+ - [https://thisisunpacked.substack.com](https://thisisunpacked.substack.com)
+ - date_published: 2023-12-17T00:30:40.265669+00:00
+
+ ## This Week in Africa | Jeffrey Paller | Substack
+ - [https://thisweekinafrica.substack.com](https://thisweekinafrica.substack.com)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Thoguhts | Akshay Raveendran | Substack
+ - [https://thoguhts.substack.com](https://thoguhts.substack.com)
+ - date_published: 2023-11-08T09:45:32.418742+00:00
+
+ ## Thomas Kidd’s Substack | Thomas S. Kidd | Substack
+ - [https://thomaskidd.substack.com](https://thomaskidd.substack.com)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## The Path Not Taken | Thomas Prosser | Substack
+ - [https://thomasprosser.substack.com](https://thomasprosser.substack.com)
+ - date_published: 2023-10-25T10:06:26.448291+00:00
+ - tags: ['substack']
+
+ ## Ideas Big & Simple | Thom Scott-Phillips | Substack
+ - [https://thomscottphillips.substack.com](https://thomscottphillips.substack.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Thot's Thoughts | Nikhil Thota | Substack
+ - [https://thot.substack.com](https://thot.substack.com)
+ - date_published: 2024-05-12T06:17:29.138394+00:00
+
+ ## Software Design: Tidy First? | Kent Beck | Substack
+ - [https://tidyfirst.substack.com](https://tidyfirst.substack.com)
+ - date_published: 2023-10-25T10:06:29.035400+00:00
+ - tags: ['substack']
+
+ ## Intellectual Insights | Tim Robinson | Substack
+ - [https://timjrobinson.substack.com](https://timjrobinson.substack.com)
+ - date_published: 2024-05-06T18:31:19.669340+00:00
+
+ ## Tiny Empires | JT | Substack
+ - [https://tinyempires.substack.com](https://tinyempires.substack.com)
+ - date_published: 2023-10-25T10:06:31.208743+00:00
+ - tags: ['substack']
+
+ ## Tjaart’s Substack | Substack
+ - [https://tjaart.substack.com](https://tjaart.substack.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## tldraw | Steve Ruiz | Substack
+ - [https://tldraw.substack.com](https://tldraw.substack.com)
+ - date_published: 2023-10-25T10:06:33.454002+00:00
+ - tags: ['substack']
+
+ ## Terry Mattingly -- Rational Sheep | tmatt | Substack
+ - [https://tmattingly.substack.com](https://tmattingly.substack.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
  ## The Modern Software Developer | Richard Donovan | Substack
  - [https://tmsd.substack.com](https://tmsd.substack.com)
  - date_published: 2024-03-21T00:00:00+00:00
@@ -2654,6 +2774,10 @@
  - [https://www.tandfonline.com](https://www.tandfonline.com)
  - date_published: 2023-10-25T17:23:01.206050+00:00
 
+ ## Tanel Poder Consulting
+ - [https://tanelpoder.com](https://tanelpoder.com)
+ - date_published: 2024-06-07T13:00:06.503463+00:00
+
  ## Tangaria
  - [https://tangaria.com](https://tangaria.com)
  - date_published: 2024-04-28T05:29:48.990646+00:00
@@ -3323,6 +3447,11 @@
  - [https://www.teamblind.com](https://www.teamblind.com)
  - date_published: 2023-10-25T17:24:03.818771+00:00
 
+ ## Home - Team Board Game
+ - [https://www.teamboardgame.com](https://www.teamboardgame.com)
+ - date_published: 2024-06-06T00:00:00+00:00
+ - tags: ['board games', 'shop']
+
  ## Team BRG | Gaming guides and coverage
  - [https://teambrg.com](https://teambrg.com)
  - date_published: 2023-12-13T16:22:56.736564+00:00
@@ -3983,135 +4112,4 @@
  ## TED Courses
  - [https://courses.ted.com](https://courses.ted.com)
  - date_published: 2023-06-26T00:00:00+00:00
-
- ## TED: Ideas change everything
- - [https://embed.ted.com](https://embed.ted.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## TED Fellows
- - [https://fellowsblog.ted.com](https://fellowsblog.ted.com)
- - date_published: 2024-04-30T07:18:35.649376+00:00
-
- ## GraphQL Playground
- - [https://graphql.ted.com](https://graphql.ted.com)
- - date_published: 2024-05-11T09:22:49.926087+00:00
-
- ## ideas.ted.com
- - [https://ideas.ted.com](https://ideas.ted.com)
- - date_published: 2024-05-11T09:22:47.542266+00:00
-
- ## Log in | TED Page Builder
- - [https://page-builder.ted.com](https://page-builder.ted.com)
- - date_published: 2024-05-11T09:22:46.626402+00:00
-
- ## TED@Work : Inspire new ways of working
- - [https://tedatwork.ted.com](https://tedatwork.ted.com)
- - date_published: 2024-05-11T09:22:45.460259+00:00
-
- ## TED: Ideas Worth Spreading
- - [https://ted.com](https://ted.com)
- - date_published: 2023-11-12T01:39:05.401960+00:00
- - tags: ['conferences', 'video streaming', 'podcasts']
-
- ## TED: Ideas Worth Spreading
- - [https://www.ted.com](https://www.ted.com)
- - date_published: 2023-10-25T17:26:06.996712+00:00
-
- ## TED: Ideas change everything
- - [https://pa.tedcdn.com](https://pa.tedcdn.com)
- - date_published: 2024-05-11T09:22:36.139578+00:00
-
- ## Teddy Katz’s Blog
- - [https://blog.teddykatz.com](https://blog.teddykatz.com)
- - date_published: 2022-02-23T00:00:00+00:00
-
- ## Teddy Zetterlund – Product Coach
- - [https://teddyzetterlund.com](https://teddyzetterlund.com)
- - date_published: 2023-11-29T17:13:59.532978+00:00
- - tags: ['personal']
-
- ## Attention Required! | Cloudflare
- - [https://www.tedeytan.com](https://www.tedeytan.com)
- - date_published: 2023-12-27T01:10:34.556213+00:00
- - tags: ['personal']
-
- ## Ted Gioia
- - [http://www.tedgioia.com](http://www.tedgioia.com)
- - date_published: 2024-05-12T05:25:28.237530+00:00
-
- ## I’m a reliable product designer and front-end developer working on websites, applications, and HTML emails. | Ted Goas
- - [https://www.tedgoas.com](https://www.tedgoas.com)
- - date_published: 2023-10-25T09:21:10.808694+00:00
- - tags: ['personal']
-
- ## TEDMED - Talks
- - [https://www.tedmed.com](https://www.tedmed.com)
- - date_published: 2024-05-12T06:59:22.465205+00:00
-
- ## flak
- - [https://flak.tedunangst.com](https://flak.tedunangst.com)
- - date_published: 2023-10-25T17:26:08.173750+00:00
-
- ## The Stone and the Shell – Using large digital libraries to advance  literary history
- - [https://tedunderwood.com](https://tedunderwood.com)
- - date_published: 2023-10-25T17:26:17.888935+00:00
-
- ## TEDxSantaBarbara 2022 Making Waves - Influencers and Disruptors
- - [https://tedxsantabarbara.com](https://tedxsantabarbara.com)
- - date_published: 2020-02-13T20:13:39+00:00
-
- ## Tee Times
- - [https://forest-akers.book.teeitup.com](https://forest-akers.book.teeitup.com)
- - date_published: 2024-05-07T19:38:46.451003+00:00
-
- ## Teejay VanSlyke
- - [http://teejayvanslyke.com](http://teejayvanslyke.com)
- - date_published: 2023-12-23T03:00:36.749123+00:00
- - tags: ['personal']
-
- ## Home
- - [https://webbed-briefs.teemill.com](https://webbed-briefs.teemill.com)
- - date_published: 2024-05-02T13:19:08.123697+00:00
-
- ## WLED merch
- - [https://wled.teemill.com](https://wled.teemill.com)
- - date_published: 2024-05-08T02:29:23.201753+00:00
-
- ## Teen Counseling
- - [https://www.teencounseling.com](https://www.teencounseling.com)
- - date_published: 2024-05-08T12:29:33.753716+00:00
-
- ## Teen Vogue: Fashion, Beauty, Entertainment News for Teens | Teen Vogue
- - [https://www.teenvogue.com](https://www.teenvogue.com)
- - date_published: 2023-10-25T17:26:19.996429+00:00
-
- ## T-Shirts Starting at $16 Featuring Your Favorite TV Shows, Movies, Comics, and More | TeePublic
- - [https://www.teepublic.com](https://www.teepublic.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Dental staffing made simple | Teero
- - [https://www.teero.com](https://www.teero.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## teesche.com
- - [https://www.teesche.com](https://www.teesche.com)
- - date_published: 2023-12-25T04:56:35.952703+00:00
- - tags: ['personal']
-
- ## Teesnap: All-in-One Golf Course Management Software | Streamline Operations & Boost Revenue
- - [https://www.teesnap.com](https://www.teesnap.com)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Dashboard | Spring
- - [https://dashboard.teespring.com](https://dashboard.teespring.com)
- - date_published: 2024-06-01T03:03:04.243954+00:00
-
- ## Create with Spring, sell on social - Spring. For creators.
- - [https://teespring.com](https://teespring.com)
- - date_published: 2023-12-11T17:45:33.713090+00:00
- - tags: ['merchendise']
-
- ## Teflon™ Home | Teflon™ Fluoropolymers
- - [https://www.teflon.com](https://www.teflon.com)
- - date_published: 2023-11-05T16:32:38.956419+00:00
 

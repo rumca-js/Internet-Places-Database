@@ -1,3 +1,88 @@
+ ## Laradir - Where the Laravel developers are
+ - [https://laradir.com](https://laradir.com)
+ - date_published: 2024-05-04T05:59:12.847022+00:00
+
+ ## Ship Fast with Larafast - Laravel Boilerplate
+ - [https://larafast.com](https://larafast.com)
+ - date_published: 2024-05-04T11:50:04.151965+00:00
+
+ ## LARAIDER - Fansite Officiel Français
+ - [http://www.laraider.com](http://www.laraider.com)
+ - date_published: 2024-05-11T08:36:30.820308+00:00
+
+ ## LaraJobs
+ - [https://larajobs.com](https://larajobs.com)
+ - date_published: 2024-05-04T11:50:08.182799+00:00
+
+ ## Laramie County Events
+ - [https://www.laramiecountyevents.com](https://www.laramiecountyevents.com)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Deploy your Laravel PHP application painlessly
+ - [https://forge.laravel.com](https://forge.laravel.com)
+ - date_published: 2024-05-01T05:59:05.508917+00:00
+
+ ## Laravel - The PHP Framework For Web Artisans
+ - [https://laravel.com](https://laravel.com)
+ - date_published: 2024-05-01T00:28:51.363668+00:00
+
+ ## Livewire | Laravel
+ - [https://livewire.laravel.com](https://livewire.laravel.com)
+ - date_published: 2024-05-02T12:27:44.153606+00:00
+
+ ## Laravel Spark
+ - [https://spark.laravel.com](https://spark.laravel.com)
+ - date_published: 2024-05-09T08:38:54.996455+00:00
+
+ ## Laravel Daily
+ - [https://laraveldaily.com](https://laraveldaily.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Livewire | Livewire
+ - [https://laravel-livewire.com](https://laravel-livewire.com)
+ - date_published: 2024-05-04T05:59:11.572097+00:00
+
+ ## Laravel News
+ - [https://feed.laravel-news.com](https://feed.laravel-news.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Laravel News
+ - [https://laravel-news.com](https://laravel-news.com)
+ - date_published: 2023-10-25T15:41:11.614231+00:00
+
+ ## Laravel News Podcast
+ - [https://podcast.laravel-news.com](https://podcast.laravel-news.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Laravel Shift
+ - [https://laravelshift.com](https://laravelshift.com)
+ - date_published: 2024-05-02T12:28:17.568654+00:00
+
+ ## LARB Pub Lab | Reassembling publishing | Incubating ideas from the LA Review of Books Publishing Workshop
+ - [https://larbpublab.com](https://larbpublab.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## home - larch lab
+ - [https://www.larchlab.com](https://www.larchlab.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Lares Labs
+ - [https://labs.lares.com](https://labs.lares.com)
+ - date_published: 2024-02-11T14:35:07.711728+00:00
+ - tags: ['tech news']
+
+ ## Lares - Empowering Organizations to Maximize Their Security Potential
+ - [https://lares.com](https://lares.com)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Lares - Empowering Organizations to Maximize Their Security Potential
+ - [https://www.lares.com](https://www.lares.com)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Larian Merch Store
+ - [https://apac.merch.larian.com](https://apac.merch.larian.com)
+ - date_published: 2024-05-04T11:56:10.877993+00:00
+
  ## Larian Merch Store
  - [https://eu.merch.larian.com](https://eu.merch.larian.com)
  - date_published: 2024-05-04T11:55:56.841345+00:00
@@ -2446,6 +2531,11 @@ Chamber Music, Symphony
  - [https://libbylife.com](https://libbylife.com)
  - date_published: 2024-05-06T00:00:00+00:00
 
+ ## LibCal -
+        Carnegie Mellon University
+ - [https://cmu.libcal.com](https://cmu.libcal.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
  ## The Liberal Patriot | John Halpin | Substack
  - [https://www.liberalpatriot.com](https://www.liberalpatriot.com)
  - date_published: 2024-05-07T10:32:14.327887+00:00
@@ -3541,6 +3631,10 @@ Chamber Music, Symphony
  - date_published: 2024-05-06T13:34:01.566155+00:00
  - tags: ['podcast']
 
+ ## Linguistic Antipatterns
+ - [https://www.linguistic-antipatterns.com](https://www.linguistic-antipatterns.com)
+ - date_published: 2024-06-07T02:05:50+00:00
+
  ## Linguistrix
  - [http://www.linguistrix.com](http://www.linguistrix.com)
  - date_published: 2024-05-07T21:54:13.471253+00:00
@@ -3989,102 +4083,4 @@ Chamber Music, Symphony
  ## Welcome!
  - [https://login.linode.com](https://login.linode.com)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## Partner Directory
- - [https://partner-directory.linode.com](https://partner-directory.linode.com)
- - date_published: 2024-05-04T12:44:06.235308+00:00
-
- ## Linode Status
- - [https://status.linode.com](https://status.linode.com)
- - date_published: 2023-10-25T15:47:26.436826+00:00
-
- ## Cloud Computing & Linux Servers | Alternative to AWS | Linode
- - [https://www.linode.com](https://www.linode.com)
- - date_published: 2023-10-25T08:26:29.738346+00:00
- - tags: ['hosting service', 'cloud service']
-
- ## Linotype: Fonts for Desktop, Web & More
- - [http://www.linotype.com](http://www.linotype.com)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [https://www.linugen.com](https://www.linugen.com)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Inventory
- - [https://inventory.linusrogge.com](https://inventory.linusrogge.com)
- - date_published: 2024-05-09T06:19:55.083187+00:00
-
- ## Linus Rogge
- - [https://linusrogge.com](https://linusrogge.com)
- - date_published: 2023-12-08T08:33:18.420569+00:00
- - tags: ['personal']
-
- ## Forums - Linus Tech Tips
- - [https://linustechtips.com](https://linustechtips.com)
- - date_published: 2023-10-25T11:28:17.081250+00:00
- - tags: ['tech forum', 'youtuber', 'hardware forum']
-
- ## Linux.com - News For Open Source Professionals
- - [http://linux.com](http://linux.com)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Linux.com - News For Open Source Professionals
- - [https://www.linux.com](https://www.linux.com)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Browse  Latest | https://www.linux-apps.com/browse/
- - [https://www.linux-apps.com](https://www.linux-apps.com)
- - date_published: 2024-04-04T21:18:04+00:00
-
- ## Help! Linux ate my RAM!
- - [https://www.linuxatemyram.com](https://www.linuxatemyram.com)
- - date_published: 2023-10-25T15:47:28.247026+00:00
-
- ## LinuxBabe Community - For new and seasoned Linux users.
- - [https://community.linuxbabe.com](https://community.linuxbabe.com)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## LinuxBabe
- - [https://newsletter.linuxbabe.com](https://newsletter.linuxbabe.com)
- - date_published: 2024-05-04T12:45:01.350103+00:00
-
- ## LinuxBabe
- - [https://www.linuxbabe.com](https://www.linuxbabe.com)
- - date_published: 2023-12-16T21:47:15.387109+00:00
- - tags: ['linux news']
-
- ## Radar - O’Reilly
- - [http://linuxdevcenter.com](http://linuxdevcenter.com)
- - date_published: 2024-05-12T04:31:18.691983+00:00
-
- ## Linux Game Cast
- - [https://linuxgamecast.com](https://linuxgamecast.com)
- - date_published: 2024-05-01T05:28:41.349377+00:00
-
- ## Linux-games.com
- - [https://www.linux-games.com](https://www.linux-games.com)
- - date_published: 2024-05-09T09:09:22.931433+00:00
-
- ## Linux Gaming Central
- - [https://linuxgamingcentral.com](https://linuxgamingcentral.com)
- - date_published: 2023-10-25T15:47:34.851584+00:00
- - tags: ['linux', 'video game news']
-
- ## Swift Money® - Instant Payday Loans - 90% Approval & No Fees
- - [http://www.linuxgazette.com](http://www.linuxgazette.com)
- - date_published: 2024-05-11T07:04:28.737737+00:00
-
- ## LinuxGizmos.com:  embedded Linux news & devices
- - [https://linuxgizmos.com](https://linuxgizmos.com)
- - date_published: 2023-10-25T09:33:53.181592+00:00
-
- ## Home | LinuxGSM_
- - [https://linuxgsm.com](https://linuxgsm.com)
- - date_published: 2024-04-30T15:57:24.423983+00:00
- - tags: ['cli program', 'linux', 'open source']
-
- ## LinuxH2O
- - [https://linuxh2o.com](https://linuxh2o.com)
- - date_published: 2024-05-04T00:00:00+00:00
 

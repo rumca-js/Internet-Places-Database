@@ -1,3 +1,35 @@
+ ## The Daily Caller
+ - [https://cdn01.dailycaller.com](https://cdn01.dailycaller.com)
+ - date_published: 2024-05-01T03:29:37.805810+00:00
+
+ ## The Daily Caller
+ - [https://dailycaller.com](https://dailycaller.com)
+ - date_published: 2023-10-25T13:41:19.635856+00:00
+
+ ## Daily Caller Merchandise
+ - [https://store.dailycaller.com](https://store.dailycaller.com)
+ - date_published: 2024-05-01T03:29:59.721476+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://welcome.dailycaller.com](https://welcome.dailycaller.com)
+ - date_published: 2024-05-01T03:29:53.526785+00:00
+
+ ## DailyContributors - Berita Terkini dan Akurat
+ - [https://dailycontributors.com](https://dailycontributors.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home - The Daily Dad
+ - [https://dailydad.com](https://dailydad.com)
+ - date_published: 2024-05-08T04:19:54.510497+00:00
+
+ ## Daily Dev Tips just for you - Daily Dev Tips
+ - [https://daily-dev-tips.com](https://daily-dev-tips.com)
+ - date_published: 2024-05-06T14:12:56.515821+00:00
+
+ ## imgix - Image Processing On-Demand, Served By CDN
+ - [https://uploads.dailydot.com](https://uploads.dailydot.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
  ## The Daily Dot | Your Internet. Your Internet news.
  - [https://www.dailydot.com](https://www.dailydot.com)
  - date_published: 2023-10-25T13:41:22.508047+00:00
@@ -4100,36 +4132,4 @@
  ## Help Center - The Des Moines Register
  - [https://help.desmoinesregister.com](https://help.desmoinesregister.com)
  - date_published: 2024-05-01T04:48:57.540386+00:00
-
- ## Newsletters | The Des Moines Register
- - [https://profile.desmoinesregister.com](https://profile.desmoinesregister.com)
- - date_published: 2024-05-01T04:48:56.283882+00:00
-
- ## Home
- - [https://www.desmoinesregister.com](https://www.desmoinesregister.com)
- - date_published: 2024-01-05T01:39:55.710157+00:00
-
- ## Desmos | Let's learn together.
- - [https://desmos.com](https://desmos.com)
- - date_published: 2024-05-01T04:49:05.590181+00:00
-
- ## Desmos Engineering
- - [https://engineering.desmos.com](https://engineering.desmos.com)
- - date_published: 2023-10-25T13:50:26.275795+00:00
-
- ## Learn Desmos
- - [https://learn.desmos.com](https://learn.desmos.com)
- - date_published: 2024-05-01T04:49:03.802171+00:00
-
- ## Desmos Classroom Activities
- - [https://teacher.desmos.com](https://teacher.desmos.com)
- - date_published: 2024-05-01T04:49:07.572900+00:00
-
- ## Desmos | Let's learn together.
- - [https://www.desmos.com](https://www.desmos.com)
- - date_published: 2023-10-25T13:50:34.193461+00:00
-
- ## Home of Demotivators® - The World's Best Demotivational Posters
- - [https://despair.com](https://despair.com)
- - date_published: 2024-04-29T02:50:28.736649+00:00
 

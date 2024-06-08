@@ -1,3 +1,66 @@
+ ## Hollywood - Multimedia Application Layer
+ - [https://www.hollywood-mal.com](https://www.hollywood-mal.com)
+ - date_published: 2024-01-09T02:38:17.146607+00:00
+
+ ## The Hollywood Reporter
+ - [https://hollywoodreporter.com](https://hollywoodreporter.com)
+ - date_published: 2024-04-28T05:41:24.176840+00:00
+
+ ## The Hollywood Reporter – Movie news, TV news, awards news, lifestyle news, business news and more from The Hollywood Reporter.
+ - [https://www.hollywoodreporter.com](https://www.hollywoodreporter.com)
+ - date_published: 2023-10-25T10:51:28.356602+00:00
+ - tags: ['movie news']
+
+ ## Holman Ranch
+ - [http://www.holmanranch.com](http://www.holmanranch.com)
+ - date_published: 2024-05-15T14:24:58.042230+00:00
+
+ ## Holm Security | Next-Gen Vulnerability Management
+ - [https://www.holmsecurity.com](https://www.holmsecurity.com)
+ - date_published: 2024-05-07T23:32:16.767330+00:00
+
+ ## Holmusk
+ - [https://www.holmusk.com](https://www.holmusk.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Hologic - Discover the Science of Sure
+ - [https://www.hologic.com](https://www.hologic.com)
+ - date_published: 2024-05-11T07:35:07.205461+00:00
+
+ ## Handling Source in a Database
+ - [https://holonforth.com](https://holonforth.com)
+ - date_published: 2023-10-25T15:00:26.928600+00:00
+
+ ## HolonIQ. Global Impact Intelligence
+ - [https://www.holoniq.com](https://www.holoniq.com)
+ - date_published: 2023-10-25T15:00:30.316249+00:00
+
+ ## Adrian Holovaty
+ - [https://www.holovaty.com](https://www.holovaty.com)
+ - date_published: 2023-10-25T09:20:38.353317+00:00
+ - tags: ['personal']
+
+ ## Tools and inspiration for a more meaningful life.
+ - [http://www.holstee.com](http://www.holstee.com)
+ - date_published: 2024-05-12T05:42:09.092079+00:00
+
+ ## Holt Integrated Circuits
+ - [https://holtic.com](https://holtic.com)
+ - date_published: 2024-04-25T13:06:46+00:00
+ - tags: ['arinc', 'avionics', 'electronic parts']
+
+ ## Holt Integrated Circuits
+ - [https://www.holtic.com](https://www.holtic.com)
+ - date_published: 2024-05-30T15:40:32.624229+00:00
+
+ ## Holvi Blog for Makers and Doers
+ - [https://blog.holvi.com](https://blog.holvi.com)
+ - date_published: 2024-05-01T06:10:57.403243+00:00
+
+ ## Business account for solopreneurs and teams | Holvi Europe
+ - [https://www.holvi.com](https://www.holvi.com)
+ - date_published: 2024-05-01T06:26:56.378298+00:00
+
  ## Monty Python and the Holy Grail in Cinemas
  - [https://holygrailincinemas.com](https://holygrailincinemas.com)
  - date_published: 2023-11-14T20:29:17+00:00
@@ -4032,66 +4095,4 @@ Weinberger)
  ## Indie Hackers: Work Together to Build Profitable Online Businesses
  - [https://indiehackers.com](https://indiehackers.com)
  - date_published: 2024-04-29T04:04:05.281746+00:00
-
- ## Indie Hackers: Work Together to Build Profitable Online Businesses
- - [https://www.indiehackers.com](https://www.indiehackers.com)
- - date_published: 2023-10-25T15:19:02.764869+00:00
-
- ## Home - Indie Ink Awards
- - [https://indieinkawards.com](https://indieinkawards.com)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Indie London - The UK's #1 Indie Hackers Community
- - [https://www.indieldn.com](https://www.indieldn.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## IndieLogin.com
- - [https://indielogin.com](https://indielogin.com)
- - date_published: 2024-05-08T03:30:44.463337+00:00
-
- ## Stand out as a Solopreneur and Build a Personal Brand | Indie Logs
- - [https://indielogs.com](https://indielogs.com)
- - date_published: 2024-05-15T02:45:30.020172+00:00
-
- ## Home page - Indie Pearls Awards
- - [https://indiepearlsawards.com](https://indiepearlsawards.com)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## IndiePressRevolution
- - [https://www.indiepressrevolution.com](https://www.indiepressrevolution.com)
- - date_published: 2024-05-12T03:54:18.049725+00:00
-
- ## indiepubs
- - [https://indiepubs.com](https://indiepubs.com)
- - date_published: 2024-05-12T04:30:18.349821+00:00
-
- ## Indie Retro News
- - [https://www.indieretronews.com](https://www.indieretronews.com)
- - date_published: 2023-10-25T15:19:06.586961+00:00
- - tags: ['news', 'amiga', 'retro games']
-
- ## Indie Story Geek
- - [https://www.indiestorygeek.com](https://www.indiestorygeek.com)
- - date_published: 2024-05-08T04:15:00.500463+00:00
-
- ## The Indieverse Awards
- - [https://www.indieverseawards.com](https://www.indieverseawards.com)
- - date_published: 2024-05-08T04:15:03.656113+00:00
-
- ## IndieWeb
- - [https://indiewebcamp.com](https://indiewebcamp.com)
- - date_published: 2024-05-15T00:00:00+00:00
- - tags: ['standards', 'personal sites', 'indie web']
-
- ## IndieWire – The Voice of Creative Independence
- - [https://www.indiewire.com](https://www.indiewire.com)
- - date_published: 2023-10-25T15:19:11.524821+00:00
-
- ## About | Indira Pranabudi
- - [https://indirapranabudi.com](https://indirapranabudi.com)
- - date_published: 2024-05-06T21:34:10.436707+00:00
-
- ## INDIVISA
- - [https://www.indivisa.com](https://www.indivisa.com)
- - date_published: 2024-05-04T08:17:59.140012+00:00
 

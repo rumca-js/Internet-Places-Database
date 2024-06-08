@@ -1,3 +1,31 @@
+ ## Snowflake Observability Software | Cito Data
+ - [https://www.citodata.com](https://www.citodata.com)
+ - date_published: 2023-10-25T13:25:04.311443+00:00
+
+ ## Citric Sheep - AI Development Services
+ - [https://citricsheep.com](https://citricsheep.com)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Citrini Research | Substack
+ - [https://www.citriniresearch.com](https://www.citriniresearch.com)
+ - date_published: 2024-05-02T10:22:49.567650+00:00
+
+ ## Citrix Blogs - Official Citrix Blogs
+ - [http://blogs.citrix.com](http://blogs.citrix.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Citrix Secure Sign In
+ - [https://cloud.citrix.com](https://cloud.citrix.com)
+ - date_published: 2024-05-08T05:37:06.823651+00:00
+
+ ## Explore the Enhanced Citrix Platform: Secure, Scalable, and High-Performing IT Solutions - Citrix
+ - [https://www.citrix.com](https://www.citrix.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## AoC
+ - [https://accessories.citroen.com](https://accessories.citroen.com)
+ - date_published: 2024-04-29T06:00:09.357697+00:00
+
  ## Le Chevron Paris
  - [https://lechevron.citroen.com](https://lechevron.citroen.com)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -4053,32 +4081,4 @@
  ## Coach
  - [https://www.confidecoaching.com](https://www.confidecoaching.com)
  - date_published: 2024-04-15T00:00:00+00:00
-
- ## Confident AI - Open Source Evaluation Infrastructure For LLMs
- - [https://confident-ai.com](https://confident-ai.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## DeepEval
- - [https://docs.confident-ai.com](https://docs.confident-ai.com)
- - date_published: 2023-10-25T13:33:10.255539+00:00
-
- ## End of Survey Page
- - [https://survey.euro.confirmit.com](https://survey.euro.confirmit.com)
- - date_published: 2024-05-29T10:38:08.054717+00:00
-
- ## End of Survey Page
- - [https://survey.us.confirmit.com](https://survey.us.confirmit.com)
- - date_published: 2024-05-29T01:13:00.428975+00:00
-
- ## An error has occurred
- - [https://confirmsubscription.com](https://confirmsubscription.com)
- - date_published: 2024-05-02T12:39:01.587855+00:00
-
- ## Confluent Forms - creating beautiful websites and smart digital marketing strategies
- - [http://www.confluentforms.com](http://www.confluentforms.com)
- - date_published: 2024-05-08T11:47:10.469733+00:00
-
- ## Confreaks | Conference Filming & Streaming
- - [http://confreaks.com](http://confreaks.com)
- - date_published: 2024-02-23T00:00:00+00:00
 

@@ -1,3 +1,224 @@
+ ## Welcome to the COSINE-100 Website!
+ | COSINE-100 Dark Matter Experiment
+ - [https://cosine.yale.edu](https://cosine.yale.edu)
+ - date_published: 2024-02-08T16:33:40.809072+00:00
+
+ ## Search Yale Courses
+ - [https://courses.yale.edu](https://courses.yale.edu)
+ - date_published: 2024-05-07T22:42:08.997011+00:00
+
+ ## Welcome
+ | Computer Science
+ - [http://cpsc.yale.edu](http://cpsc.yale.edu)
+ - date_published: 2024-04-28T02:51:13.876263+00:00
+
+ ## https://cs-www.cs.yale.edu
+ - [https://cs-www.cs.yale.edu](https://cs-www.cs.yale.edu)
+ - date_published: 2024-01-09T03:29:01.849380+00:00
+
+ ## Home | Yale Cybersecurity
+ - [https://cybersecurity.yale.edu](https://cybersecurity.yale.edu)
+ - date_published: 2024-05-07T22:42:58.802164+00:00
+
+ ## Directories | Yale University
+ - [http://directory.yale.edu](http://directory.yale.edu)
+ - date_published: 2024-05-07T22:41:35.047159+00:00
+
+ ## Yale E360
+ - [https://e360.yale.edu](https://e360.yale.edu)
+ - date_published: 2023-10-25T19:06:53.110107+00:00
+
+ ## SDL
+ - [https://edit.yale.edu](https://edit.yale.edu)
+ - date_published: 2024-05-07T22:42:48.847716+00:00
+
+ ## Welcome
+ | Yale Environmental Health & Safety
+ - [https://ehs.yale.edu](https://ehs.yale.edu)
+ - date_published: 2024-05-07T22:42:39.683123+00:00
+
+ ## Welcome
+ | Emergency Management
+ - [https://emergency.yale.edu](https://emergency.yale.edu)
+ - date_published: 2024-05-07T22:42:54.723593+00:00
+
+ ## Energy History – Energy History Online
+ - [https://energyhistory.yale.edu](https://energyhistory.yale.edu)
+ - date_published: 2023-11-16T01:58:56.369597+00:00
+
+ ## Yale School of the Environment
+ - [https://environment.yale.edu](https://environment.yale.edu)
+ - date_published: 2024-05-07T22:43:58.314347+00:00
+
+ ## Yale Office of Facilities
+ | Office of Facilities
+ - [https://facilities.yale.edu](https://facilities.yale.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Faculty Development & Diversity
+ | Faculty Development & Diversity
+ - [https://faculty.yale.edu](https://faculty.yale.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## For Humanity
+ - [http://forhumanity.yale.edu](http://forhumanity.yale.edu)
+ - date_published: 2024-05-07T22:44:07.264999+00:00
+
+ ## Welcome
+ - [https://foxfellowship.yale.edu](https://foxfellowship.yale.edu)
+ - date_published: 2024-05-07T22:43:54.917895+00:00
+
+ ## Health Insurance Portability and Accountability Act
+ - [https://hipaa.yale.edu](https://hipaa.yale.edu)
+ - date_published: 2024-05-07T22:43:07.725858+00:00
+
+ ## Welcome
+ | Yale Hospitality
+ - [https://hospitality.yale.edu](https://hospitality.yale.edu)
+ - date_published: 2024-05-07T22:43:09.035378+00:00
+
+ ## Welcome
+ | Yale Housing
+ - [https://housing.yale.edu](https://housing.yale.edu)
+ - date_published: 2024-05-07T22:42:18.524914+00:00
+
+ ## Home
+ | The MacMillan Center Hellenic Studies Program
+ - [https://hsp.macmillan.yale.edu](https://hsp.macmillan.yale.edu)
+ - date_published: 2024-02-08T17:35:48.928417+00:00
+
+ ## Ideas from the Yale School of Management | Yale Insights
+ - [https://insights.som.yale.edu](https://insights.som.yale.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Homepage - IT at Yale
+ - [https://its.yale.edu](https://its.yale.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Homepage
+ - [https://law.yale.edu](https://law.yale.edu)
+ - date_published: 2024-01-02T00:04:15.577147+00:00
+
+ ## Lillian Goldman Law Library
+ - [https://library.law.yale.edu](https://library.law.yale.edu)
+ - date_published: 2024-05-07T22:41:28.514651+00:00
+
+ ## Harvey Cushing/John Hay Whitney Medical Library
+ - [http://library.medicine.yale.edu](http://library.medicine.yale.edu)
+ - date_published: 2024-05-07T22:41:36.380491+00:00
+
+ ## The MacMillan Report
+ - [http://macmillanreport.yale.edu](http://macmillanreport.yale.edu)
+ - date_published: 2024-05-07T22:41:25.423892+00:00
+
+ ## The MacMillan Center
+ - [https://macmillan.yale.edu](https://macmillan.yale.edu)
+ - date_published: 2024-05-07T22:41:11.409861+00:00
+
+ ## Yale School of Medicine
+ - [https://medicine.yale.edu](https://medicine.yale.edu)
+ - date_published: 2023-12-27T12:02:00.358239+00:00
+
+ ## Homepage | Yale School of Music
+ - [http://music.yale.edu](http://music.yale.edu)
+ - date_published: 2024-05-07T22:42:56.515651+00:00
+
+ ## YaleNews | Home
+ - [https://news.yale.edu](https://news.yale.edu)
+ - date_published: 2023-10-25T19:06:55.320385+00:00
+
+ ## Yale Law School Legal Scholarship Repository
+ - [https://openyls.law.yale.edu](https://openyls.law.yale.edu)
+ - date_published: 2024-05-07T22:41:26.950761+00:00
+
+ ## Yale Physician Assistant Online Program
+ - [https://paonline.yale.edu](https://paonline.yale.edu)
+ - date_published: 2024-05-07T22:43:04.552092+00:00
+
+ ## Yale Center for Research Computing
+ - [http://research.computing.yale.edu](http://research.computing.yale.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Home
+ | Sexual Harassment and Assault Response & Education (SHARE)
+ - [http://sharecenter.yale.edu](http://sharecenter.yale.edu)
+ - date_published: 2024-05-07T22:42:02.922924+00:00
+
+ ## Services - IT at Yale
+ - [https://software.yale.edu](https://software.yale.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Yale School of Management | Educating Leaders for Business and Society
+ - [https://som.yale.edu](https://som.yale.edu)
+ - date_published: 2024-05-07T22:43:51.615080+00:00
+
+ ## Yale School of Public Health
+ - [https://sph.yale.edu](https://sph.yale.edu)
+ - date_published: 2024-05-07T22:44:18.373285+00:00
+
+ ## Student Resources
+ | IT at Yale
+ - [https://studenttechnology.yale.edu](https://studenttechnology.yale.edu)
+ - date_published: 2024-05-07T22:42:13.027761+00:00
+
+ ## Usability & Web Accessibility | Create useful, usable websites that meet the needs of your audience
+ - [https://usability.yale.edu](https://usability.yale.edu)
+ - date_published: 2024-05-07T22:41:03.128353+00:00
+
+ ## Welcome
+ | Department of Mathematics
+ - [https://users.math.yale.edu](https://users.math.yale.edu)
+ - date_published: 2024-05-28T04:48:51.458519+00:00
+
+ ## Application Unavailable | IT at Yale
+ - [https://veritas.its.yale.edu](https://veritas.its.yale.edu)
+ - date_published: 2024-05-07T22:42:36.117435+00:00
+
+ ## Welcome to the Visitor Center | Yale Visitor Center
+ - [https://visitorcenter.yale.edu](https://visitorcenter.yale.edu)
+ - date_published: 2024-05-07T22:42:43.773305+00:00
+
+ ## Welcome
+ | International Toolkit
+ - [http://world-toolkit.yale.edu](http://world-toolkit.yale.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Yale and the World |
+ - [https://world.yale.edu](https://world.yale.edu)
+ - date_published: 2024-05-07T22:43:59.761008+00:00
+
+ ## Home - Yale Architecture
+ - [https://www.architecture.yale.edu](https://www.architecture.yale.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Home - Yale School of Art
+ - [https://www.art.yale.edu](https://www.art.yale.edu)
+ - date_published: 2024-05-11T07:41:36.743220+00:00
+
+ ## https://www.cs.yale.edu
+ - [https://www.cs.yale.edu](https://www.cs.yale.edu)
+ - date_published: 2024-01-09T03:29:02.859570+00:00
+
+ ## Yale Department of Economics
+ - [http://www.econ.yale.edu](http://www.econ.yale.edu)
+ - date_published: 2024-05-11T11:10:38.698986+00:00
+
+ ## redirecting...
+ - [http://www.eng.yale.edu](http://www.eng.yale.edu)
+ - date_published: 2024-04-30T03:56:41.099275+00:00
+
+ ## Home | Yale Peabody Museum
+ - [http://www.peabody.yale.edu](http://www.peabody.yale.edu)
+ - date_published: 2024-05-07T22:42:42.154924+00:00
+
+ ## Yale University
+ - [https://www.yale.edu](https://www.yale.edu)
+ - date_published: 2024-05-07T22:41:29.830662+00:00
+
+ ## Yale College
+ - [https://yalecollege.yale.edu](https://yalecollege.yale.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
  ## Yale University
  - [https://yale.edu](https://yale.edu)
  - date_published: 2024-05-07T22:43:02.347115+00:00
@@ -3857,217 +4078,4 @@ Out-of-Order Execution
  ## Peter Kudeláš | Full Stack Web Developer
  - [https://www.peterkudelas.eu](https://www.peterkudelas.eu)
  - date_published: 2024-05-07T23:53:51.348423+00:00
-
- ## Petrol Group
- - [https://www.petrol.eu](https://www.petrol.eu)
- - date_published: 2024-04-30T07:11:11.647619+00:00
-
- ## PostgreSQL Conference Europe 2019
- - [https://2019.pgconf.eu](https://2019.pgconf.eu)
- - date_published: 2024-05-08T06:48:44.841479+00:00
-
- ## Blog entries by date
- - [https://blog.pgpkeys.eu](https://blog.pgpkeys.eu)
- - date_published: 2024-01-09T03:29:22.983994+00:00
-
- ## OpenPGP Keyserver
- - [https://pgpkeys.eu](https://pgpkeys.eu)
- - date_published: 2024-05-07T23:53:55.993886+00:00
-
- ## Home - Platform Power
- - [https://platformpower.eu](https://platformpower.eu)
- - date_published: 2023-01-11T00:00:00+00:00
-
- ## pnote | Przemek | Substack
- - [https://newsletter.pnote.eu](https://newsletter.pnote.eu)
- - date_published: 2024-01-01T16:29:16.021094+00:00
-
- ## pnote.eu
- - [https://pnote.eu](https://pnote.eu)
- - date_published: 2023-11-12T09:42:04.084639+00:00
-
- ## Pograne
- - [https://pograne.eu](https://pograne.eu)
- - date_published: 2023-12-13T15:18:08.619232+00:00
- - tags: ['video games']
-
- ## Cierpliwości...
- - [https://jobs.politico.eu](https://jobs.politico.eu)
- - date_published: 2024-05-07T23:54:28.232918+00:00
-
- ## POLITICO Pro
- - [https://pro.politico.eu](https://pro.politico.eu)
- - date_published: 2024-05-11T07:05:28.368463+00:00
-
- ## POLITICO – European Politics, Policy, Government News
- - [https://www.politico.eu](https://www.politico.eu)
- - date_published: 2023-10-25T10:30:34.441140+00:00
-
- ## Population Europe | Population Europe
- - [https://population-europe.eu](https://population-europe.eu)
- - date_published: 2024-06-04T16:37:01.366842+00:00
-
- ## Welcome - PostgreSQL Europe
- - [https://www.postgresql.eu](https://www.postgresql.eu)
- - date_published: 2024-05-07T15:16:06.016006+00:00
-
- ## Postojna Cave Park
- - [https://www.postojnska-jama.eu](https://www.postojnska-jama.eu)
- - date_published: 2024-05-06T22:41:03.501294+00:00
-
- ## pozol.eu
- - [http://pozol.eu](http://pozol.eu)
- - date_published: 2024-05-07T15:47:16.103830+00:00
-
- ## pretix – Reinventing ticket sales for conferences, festivals, exhibitions, ...
- - [https://pretix.eu](https://pretix.eu)
- - date_published: 2024-05-07T23:45:22.501871+00:00
-
- ## Principal IT | Home
- - [https://principal-it.eu](https://principal-it.eu)
- - date_published: 2024-05-09T08:03:15.808101+00:00
-
- ## Annual Privacy Forum 2014 - closing the loop from research to policy
- - [http://2014.privacyforum.eu](http://2014.privacyforum.eu)
- - date_published: 2024-05-06T15:12:50.185237+00:00
-
- ## Prognosfruit | Gathering the European apple and pear industry
- - [https://prognosfruit.eu](https://prognosfruit.eu)
- - date_published: 2024-05-04T07:05:22.435370+00:00
-
- ## Mines Paris - PSL / Bienvenue  sur le site du Centre Efficacité énergétique des Systèmes (CES)
- - [https://www.ces.minesparis.psl.eu](https://www.ces.minesparis.psl.eu)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## https://publiccode.eu/en/
- - [https://publiccode.eu](https://publiccode.eu)
- - date_published: 2023-10-25T19:11:20.936558+00:00
-
- ## Home Page - Quercus
- - [https://www.qrqs.eu](https://www.qrqs.eu)
- - date_published: 2022-02-03T00:00:00+00:00
-
- ## L'expert des visites et appels mystères - Qualisens
- - [http://qualisens.eu](http://qualisens.eu)
- - date_published: 2022-01-23T15:01:34+00:00
-
- ## Electric Bikes For Everyone | Award-winning & Affordable Ebikes
- - [https://radpowerbikes.eu](https://radpowerbikes.eu)
- - date_published: 2023-06-27T00:00:00+00:00
-
- ## RAILTARGET
- - [https://www.railtarget.eu](https://www.railtarget.eu)
- - date_published: 2024-05-16T22:22:38.161265+00:00
-
- ## On Programming, Software Architecture, and Sociotechnical Systems
- - [https://www.reactivesystems.eu](https://www.reactivesystems.eu)
- - date_published: 2023-10-25T19:11:27.315296+00:00
-
- ## belsat.eu
- - [https://bel1.rebeltv.eu](https://bel1.rebeltv.eu)
- - date_published: 2024-05-30T01:12:34.007589+00:00
-
- ## Facial recognition is racist, sexist & creepy
- - [https://reclaimyourface.eu](https://reclaimyourface.eu)
- - date_published: 2024-05-07T23:29:57.700211+00:00
-
- ## CamBuildr - Login
- - [https://community.reneweuropegroup.eu](https://community.reneweuropegroup.eu)
- - date_published: 2024-05-07T23:54:45.072187+00:00
-
- ## Your voice in the European Parliament - Renew Europe
- - [https://www.reneweuropegroup.eu](https://www.reneweuropegroup.eu)
- - date_published: 2023-10-25T19:11:30.012318+00:00
-
- ## Home - Right to Repair Europe
- - [https://repair.eu](https://repair.eu)
- - date_published: 2023-11-03T10:38:49.832941+00:00
-
- ## retronagazie – Gry RETRO, recenzje, wspominki, publicystyka
- - [http://retronagazie.eu](http://retronagazie.eu)
- - date_published: 2024-05-07T23:54:47.805549+00:00
-
- ## retronagazie – Gry RETRO, recenzje, wspominki, publicystyka
- - [https://www.retronagazie.eu](https://www.retronagazie.eu)
- - date_published: 2023-12-12T09:19:43+00:00
- - tags: ['retro games']
-
- ## Retronics.EU
- - [https://retronics.eu](https://retronics.eu)
- - date_published: 2024-05-23T11:08:15.852022+00:00
-
- ## Bystroushaak's blog
- - [https://blog.rfox.eu](https://blog.rfox.eu)
- - date_published: 2023-10-25T11:45:10.258800+00:00
- - tags: ['personal']
-
- ## Ridge EU
- - [https://ridgewallet.eu](https://ridgewallet.eu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Rosa-Luxemburg-Stiftung Brussels Office
- - [https://rosalux.eu](https://rosalux.eu)
- - date_published: 2024-05-02T09:58:28.864090+00:00
-
- ## RustFest.eu
- - [https://paris.rustfest.eu](https://paris.rustfest.eu)
- - date_published: 2024-05-04T15:19:35.225730+00:00
-
- ## | /home/Samsai
- - [https://samsai.eu](https://samsai.eu)
- - date_published: 2024-05-09T08:14:25.049589+00:00
-
- ## Welcome - Nectarine
- - [http://www.scenemusic.eu](http://www.scenemusic.eu)
- - date_published: 2024-02-15T22:12:25.202781+00:00
- - tags: ['demoscene']
-
- ## Searchlab Community
- - [https://community.searchlab.eu](https://community.searchlab.eu)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Web Harvesting for Data Mining - YaCy Searchlab
- - [https://searchlab.eu](https://searchlab.eu)
- - date_published: 2024-05-09T05:34:53.934697+00:00
-
- ## Secretlab Gaming Chairs & Gaming Desk | Secretlab EU
- - [https://secretlab.eu](https://secretlab.eu)
- - date_published: 2024-06-19T00:00:00+00:00
- - tags: ['shop', 'video games']
-
- ## Severe Weather Europe » “Follow severe weather as it happens. Anywhere. Any time.”
- - [https://www.severe-weather.eu](https://www.severe-weather.eu)
- - date_published: 2023-10-25T19:11:37.267092+00:00
-
- ## Sharefox - Secure file sharing has never been easier
- - [https://sharefox.eu](https://sharefox.eu)
- - date_published: 2024-05-06T09:08:22.630992+00:00
-
- ## Zaloguj się
- - [https://login.shinden.eu](https://login.shinden.eu)
- - date_published: 2024-05-24T13:38:07.713501+00:00
-
- ## Advertisement Management Control Panel
- - [https://reklama.shinden.eu](https://reklama.shinden.eu)
- - date_published: 2024-05-24T13:38:06.310091+00:00
-
- ## SIDE Project - Successful Innovators on Digital Culture Citizenship
- - [https://sideeurope.eu](https://sideeurope.eu)
- - date_published: 2024-05-07T23:44:07.746623+00:00
-
- ## imgix - Image Processing On-Demand, Served By CDN
- - [https://images.sifted.eu](https://images.sifted.eu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Startup Europe — The Sifted Podcast
- - [https://podcast.sifted.eu](https://podcast.sifted.eu)
- - date_published: 2024-05-07T23:55:02.166815+00:00
-
- ## The latest startup news and analysis from Europe | Sifted
- - [https://sifted.eu](https://sifted.eu)
- - date_published: 2023-10-25T19:11:43.124785+00:00
-
- ## Sifted Summit
- - [https://summit.sifted.eu](https://summit.sifted.eu)
- - date_published: 2024-05-07T23:54:58.518354+00:00
 

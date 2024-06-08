@@ -1,3 +1,35 @@
+ ## Newsletters | The Des Moines Register
+ - [https://profile.desmoinesregister.com](https://profile.desmoinesregister.com)
+ - date_published: 2024-05-01T04:48:56.283882+00:00
+
+ ## Home
+ - [https://www.desmoinesregister.com](https://www.desmoinesregister.com)
+ - date_published: 2024-01-05T01:39:55.710157+00:00
+
+ ## Desmos | Let's learn together.
+ - [https://desmos.com](https://desmos.com)
+ - date_published: 2024-05-01T04:49:05.590181+00:00
+
+ ## Desmos Engineering
+ - [https://engineering.desmos.com](https://engineering.desmos.com)
+ - date_published: 2023-10-25T13:50:26.275795+00:00
+
+ ## Learn Desmos
+ - [https://learn.desmos.com](https://learn.desmos.com)
+ - date_published: 2024-05-01T04:49:03.802171+00:00
+
+ ## Desmos Classroom Activities
+ - [https://teacher.desmos.com](https://teacher.desmos.com)
+ - date_published: 2024-05-01T04:49:07.572900+00:00
+
+ ## Desmos | Let's learn together.
+ - [https://www.desmos.com](https://www.desmos.com)
+ - date_published: 2023-10-25T13:50:34.193461+00:00
+
+ ## Home of Demotivators® - The World's Best Demotivational Posters
+ - [https://despair.com](https://despair.com)
+ - date_published: 2024-04-29T02:50:28.736649+00:00
+
  ## despair labs
  - [https://despairlabs.com](https://despairlabs.com)
  - date_published: 2023-12-26T10:22:28.435042+00:00
@@ -4053,43 +4085,11 @@
  - [https://www.drchrono.com](https://www.drchrono.com)
  - date_published: 2024-05-01T05:57:14.805084+00:00
 
+ ## Dr. Chuck Online - Free Courses in Technology and Programming
+ - [https://online.dr-chuck.com](https://online.dr-chuck.com)
+ - date_published: 2024-06-07T15:15:52.093876+00:00
+
  ## Dr. Cox Consulting |
  - [https://drcoxconsulting.com](https://drcoxconsulting.com)
  - date_published: 2024-02-25T18:42:46.375096+00:00
-
- ## Dr. Cox Consulting |
- - [https://www.drcoxconsulting.com](https://www.drcoxconsulting.com)
- - date_published: 6667-01-01T00:00:00+00:00
-
- ## Dr David Grimes
- - [http://www.drdavidgrimes.com](http://www.drdavidgrimes.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Dr. Dobb's | Good stuff for serious developers: Programming Tools, Code, C++, Java, HTML5, Cloud, Mobile, Testing
- - [http://www.drdobbs.com](http://www.drdobbs.com)
- - date_published: 2024-05-09T07:38:58.271229+00:00
-
- ## Systems & Strategy To Make More Money. Period.
- - [https://dreallday.com](https://dreallday.com)
- - date_published: 2024-01-08T07:27:18.679327+00:00
-
- ## Systems & Strategy To Make More Money. Period.
- - [https://www.dreallday.com](https://www.dreallday.com)
- - date_published: 2024-05-01T07:46:20.258111+00:00
-
- ## Dream3D
- - [https://dream3d.com](https://dream3d.com)
- - date_published: 2024-05-11T07:23:19.088125+00:00
-
- ## The Dream Café
- - [http://dreamcafe.com](http://dreamcafe.com)
- - date_published: 2024-05-01T20:00:43.629640+00:00
-
- ## Dreame Stories | Great Story Starts Here
- - [https://dreame.com](https://dreame.com)
- - date_published: 2024-05-01T07:46:33.897363+00:00
-
- ## Dreame FM, a world of audible books & fictions
- - [https://dreamefm.com](https://dreamefm.com)
- - date_published: 2024-01-24T18:03:01.831693+00:00
 

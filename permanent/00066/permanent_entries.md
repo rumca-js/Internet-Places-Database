@@ -1,3 +1,212 @@
+ ## Joe Fields' Homepage
+ - [https://giam.southernct.edu](https://giam.southernct.edu)
+ - date_published: 2024-04-03T07:50:07.239772+00:00
+ - tags: ['personal']
+
+ ## Inside Southern | Southern Connecticut State University
+ - [https://inside.southernct.edu](https://inside.southernct.edu)
+ - date_published: 2024-05-12T06:09:14.083361+00:00
+
+ ## - OwlConnect @ SCSU
+ - [https://owlconnect.southernct.edu](https://owlconnect.southernct.edu)
+ - date_published: 2024-05-12T06:09:21.379951+00:00
+
+ ## Southern Connecticut State University
+ - [https://www.southernct.edu](https://www.southernct.edu)
+ - date_published: 2024-05-12T06:09:16.357027+00:00
+
+ ## Administrative Guide
+ - [https://adminguide.stanford.edu](https://adminguide.stanford.edu)
+ - date_published: 2024-05-07T20:25:07.492650+00:00
+
+ ## Undergraduate Admission : Stanford University
+ - [https://admission.stanford.edu](https://admission.stanford.edu)
+ - date_published: 2024-05-07T20:31:08.669167+00:00
+
+ ## Artificial Intelligence Index
+ - [https://aiindex.stanford.edu](https://aiindex.stanford.edu)
+ - date_published: 2023-10-25T18:58:07.854720+00:00
+
+ ## Stanford Artificial Intelligence Laboratory
+ - [https://ai.stanford.edu](https://ai.stanford.edu)
+ - date_published: 2023-10-25T18:58:06.440600+00:00
+
+ ## Welcome to the Stanford Alumni Association
+ - [http://alumni.stanford.edu](http://alumni.stanford.edu)
+ - date_published: 2024-05-07T20:31:05.422665+00:00
+
+ ## Kunle Olukotun
+ - [http://arsenalfc.stanford.edu](http://arsenalfc.stanford.edu)
+ - date_published: 2024-05-01T08:47:35.903404+00:00
+
+ ## Stanford Arts
+ - [http://arts.stanford.edu](http://arts.stanford.edu)
+ - date_published: 2024-05-07T20:30:31.849575+00:00
+
+ ## Stanford ASdb Dataset
+ - [https://asdb.stanford.edu](https://asdb.stanford.edu)
+ - date_published: 2024-05-04T15:11:57.973663+00:00
+
+ ## Search Results
+ - [http://ask.stanford.edu](http://ask.stanford.edu)
+ - date_published: 2024-05-07T20:26:08.500822+00:00
+
+ ## Autonomous Systems Laboratory
+ - [http://asl.stanford.edu](http://asl.stanford.edu)
+ - date_published: 2024-05-07T10:17:56.429005+00:00
+
+ ## Associated Students of Stanford University
+ - [http://assu.stanford.edu](http://assu.stanford.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Department of Biology
+ - [https://biology.stanford.edu](https://biology.stanford.edu)
+ - date_published: 2024-05-07T20:29:32.574767+00:00
+
+ ## Knight Initiative
+ - [https://brainresilience.stanford.edu](https://brainresilience.stanford.edu)
+ - date_published: 2024-05-11T11:24:06.122496+00:00
+
+ ## Brown Institute
+ - [http://brown.stanford.edu](http://brown.stanford.edu)
+ - date_published: 2024-05-07T20:27:56.428711+00:00
+
+ ## Stanford Searchable Map
+ - [https://campus-map.stanford.edu](https://campus-map.stanford.edu)
+ - date_published: 2024-05-07T20:25:40.739874+00:00
+
+ ## Job Opportunities at Stanford University
+ - [https://careersearch.stanford.edu](https://careersearch.stanford.edu)
+ - date_published: 2024-05-07T20:30:50.759748+00:00
+
+ ## Center for Advanced Study in the Behavioral Sciences
+ - [https://casbs.stanford.edu](https://casbs.stanford.edu)
+ - date_published: 2024-05-07T20:27:28.196250+00:00
+
+ ## Computer Science
+ - [http://cf.stanford.edu](http://cf.stanford.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## ChEM-H Building and Neurosciences Building
+ - [https://chemhneuro.stanford.edu](https://chemhneuro.stanford.edu)
+ - date_published: 2024-05-11T11:24:08.006481+00:00
+
+ ## CareWait
+ - [https://childcare.stanford.edu](https://childcare.stanford.edu)
+ - date_published: 2024-02-08T16:43:24.926878+00:00
+
+ ## Clinical Trials
+ - [https://clinicaltrials.stanford.edu](https://clinicaltrials.stanford.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Home
+ - [http://cocolab.stanford.edu](http://cocolab.stanford.edu)
+ - date_published: 2024-05-04T15:15:17.753402+00:00
+
+ ## Community
+ - [https://community.stanford.edu](https://community.stanford.edu)
+ - date_published: 2024-05-07T20:30:52.367842+00:00
+
+ ## CPU DB, a complete database of processors for researchers and hobbyists alike
+ - [http://cpudb.stanford.edu](http://cpudb.stanford.edu)
+ - date_published: 2024-05-12T21:41:30+00:00
+
+ ## Stanford CRFM
+ - [https://crfm.stanford.edu](https://crfm.stanford.edu)
+ - date_published: 2023-10-25T18:58:08.596511+00:00
+
+ ## Applied Cryptography Group | Stanford University
+ - [https://crypto.stanford.edu](https://crypto.stanford.edu)
+ - date_published: 2024-05-02T17:20:35.993261+00:00
+
+ ## Stanford University CS231n: Deep Learning for Computer Vision
+ - [http://cs231n.stanford.edu](http://cs231n.stanford.edu)
+ - date_published: 2024-04-28T04:07:32.746098+00:00
+
+ ## CS249i: The Modern Internet
+ - [https://cs249i.stanford.edu](https://cs249i.stanford.edu)
+ - date_published: 2024-05-04T15:11:51.253843+00:00
+
+ ## CS356: Topics in Computer and Network Security
+ - [https://cs356.stanford.edu](https://cs356.stanford.edu)
+ - date_published: 2024-05-04T15:12:02.488727+00:00
+
+ ## Computer Science
+ - [https://csd9.sites.stanford.edu](https://csd9.sites.stanford.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Stanford Computer Science Department
+ - [http://csl.stanford.edu](http://csl.stanford.edu)
+ - date_published: 2024-05-07T20:25:59.570946+00:00
+
+ ## Computer Science
+ - [https://cs.stanford.edu](https://cs.stanford.edu)
+ - date_published: 2023-10-25T11:23:16.227465+00:00
+
+ ## Stanford CVA Group - Concurrent VLSI Architecture Group
+ - [http://cva.stanford.edu](http://cva.stanford.edu)
+ - date_published: 2023-10-25T18:58:09.358599+00:00
+
+ ## Cyber Policy Center | FSI
+ - [https://cyber.fsi.stanford.edu](https://cyber.fsi.stanford.edu)
+ - date_published: 2023-10-25T18:58:18.772573+00:00
+
+ ## Center for Internet and Society | The Center for Internet and Society is a leader in the study of the law & policy around the Internet & emerging technologies.
+ - [https://cyberlaw.stanford.edu](https://cyberlaw.stanford.edu)
+ - date_published: 2023-10-25T18:58:20.662315+00:00
+
+ ## Data Science
+ - [https://datascience.stanford.edu](https://datascience.stanford.edu)
+ - date_published: 2023-11-12T13:46:11.993969+00:00
+
+ ## Stanford DAWN · DAWN
+ - [https://dawn.cs.stanford.edu](https://dawn.cs.stanford.edu)
+ - date_published: 2024-05-07T20:26:54.451434+00:00
+
+ ## Home
+ - [https://digitaleconomy.stanford.edu](https://digitaleconomy.stanford.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Stanford d.school
+ - [https://dschool.stanford.edu](https://dschool.stanford.edu)
+ - date_published: 2024-05-01T04:14:47.181085+00:00
+
+ ## Stanford Graduate School of Education
+ - [https://ed.stanford.edu](https://ed.stanford.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## EE108A Redirect
+ - [http://ee108a.stanford.edu](http://ee108a.stanford.edu)
+ - date_published: 2024-05-07T20:26:02.994318+00:00
+
+ ## https://ee380.stanford.edu
+ - [https://ee380.stanford.edu](https://ee380.stanford.edu)
+ - date_published: 2024-01-09T03:27:56.799112+00:00
+
+ ## Emergency Information | Stanford University
+ - [https://emergency.stanford.edu](https://emergency.stanford.edu)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Stanford University School of Engineering
+ - [https://engineering.stanford.edu](https://engineering.stanford.edu)
+ - date_published: 2024-05-07T20:25:33.144127+00:00
+
+ ## Events Calendar
+ - [https://events.stanford.edu](https://events.stanford.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Stanford University Explore Courses
+ - [https://explorecourses.stanford.edu](https://explorecourses.stanford.edu)
+ - date_published: 2024-05-06T23:12:41.668136+00:00
+
+ ## Stanford University Bulletin
+ - [https://exploredegrees.stanford.edu](https://exploredegrees.stanford.edu)
+ - date_published: 2024-05-07T20:25:19.667900+00:00
+
+ ## Facts
+ - [https://facts.stanford.edu](https://facts.stanford.edu)
+ - date_published: 2024-05-07T20:31:11.947829+00:00
+
  ## Faculty Affairs
  - [https://facultyaffairs-humsci.stanford.edu](https://facultyaffairs-humsci.stanford.edu)
  - date_published: 2024-05-07T20:28:15.011247+00:00
@@ -3819,213 +4028,4 @@
  ## Your Passion. Your Impact. - Michigan Giving
  - [https://giving.umich.edu](https://giving.umich.edu)
  - date_published: 2024-05-07T21:27:54.104840+00:00
-
- ## Home | Global Michigan
- - [http://global.umich.edu](http://global.umich.edu)
- - date_published: 2024-05-07T21:28:59.379833+00:00
-
- ## Computing Education Research
- - [https://guzdial.engin.umich.edu](https://guzdial.engin.umich.edu)
- - date_published: 2024-05-07T14:56:25.236437+00:00
-
- ## Health Information Technology & Services
- - [http://hits.medicine.umich.edu](http://hits.medicine.umich.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Michigan Engineering Intranet – Michigan Engineering Intranet
- - [http://intranet.engin.umich.edu](http://intranet.engin.umich.edu)
- - date_published: 2024-05-07T21:28:39.228859+00:00
-
- ## Institute for Social Research
- - [https://isr.umich.edu](https://isr.umich.edu)
- - date_published: 2024-05-07T21:29:21.885598+00:00
-
- ## Mardigian Library
- - [https://library.umd.umich.edu](https://library.umd.umich.edu)
- - date_published: 2024-05-07T21:27:20.775339+00:00
-
- ## Language Information and Technologies
- - [https://lit.eecs.umich.edu](https://lit.eecs.umich.edu)
- - date_published: 2002-01-01T00:00:00+00:00
-
- ## College of LSA | U-M LSA U-M College of LSA
- - [https://lsa.umich.edu](https://lsa.umich.edu)
- - date_published: 2024-05-07T14:56:35.487227+00:00
-
- ## Michigan Medicine
- - [https://medicine.umich.edu](https://medicine.umich.edu)
- - date_published: 2024-01-05T20:59:14.155377+00:00
-
- ## Michigan Medicine Research Home | University of Michigan Medical School Research
- - [https://medresearch.umich.edu](https://medresearch.umich.edu)
- - date_published: 2024-05-08T10:12:32.486876+00:00
-
- ## Education Homepage | University of Michigan Medical School
- - [https://medschool.umich.edu](https://medschool.umich.edu)
- - date_published: 2024-05-08T10:12:35.252467+00:00
-
- ## HTML Meta Tag
- - [http://med.umich.edu](http://med.umich.edu)
- - date_published: 2024-05-07T21:27:59.024269+00:00
-
- ## University of Michigan Law School
- - [https://michigan.law.umich.edu](https://michigan.law.umich.edu)
- - date_published: 2024-05-07T21:29:27.768410+00:00
-
- ## Home
- - [http://michigantoday.umich.edu](http://michigantoday.umich.edu)
- - date_published: 2024-05-07T21:29:13.012105+00:00
-
- ## UMich MSE
- - [https://mse.engin.umich.edu](https://mse.engin.umich.edu)
- - date_published: 2024-05-12T05:16:53.209449+00:00
-
- ## Engineering Research News - Michigan Engineering News
- - [https://news.engin.umich.edu](https://news.engin.umich.edu)
- - date_published: 2023-10-25T19:02:17.444168+00:00
-
- ## University of Michigan News
- - [https://news.umich.edu](https://news.umich.edu)
- - date_published: 2023-10-25T19:02:26.050077+00:00
-
- ## Home | Equity, Civil Rights & Title IX Office
- - [https://oie.umich.edu](https://oie.umich.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## PRBA | The Program for Research on Black Americans
- - [https://prba.isr.umich.edu](https://prba.isr.umich.edu)
- - date_published: 2024-02-08T17:48:53.662680+00:00
-
- ## Office of the President
- - [https://president.umich.edu](https://president.umich.edu)
- - date_published: 2024-05-04T06:11:00.310049+00:00
-
- ## U-M Public Affairs
- - [http://publicaffairs.vpcomm.umich.edu](http://publicaffairs.vpcomm.umich.edu)
- - date_published: 2024-05-07T21:28:53.650630+00:00
-
- ## Research Center for Group Dynamics |
- - [https://rcgd.isr.umich.edu](https://rcgd.isr.umich.edu)
- - date_published: 2024-05-07T21:29:17.799449+00:00
-
- ## The University Record
- - [https://record.umich.edu](https://record.umich.edu)
- - date_published: 2024-04-20T14:55:31.813935+00:00
- - tags: ['university news']
-
- ## Homepage
- - [https://regents.umich.edu](https://regents.umich.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## University of Michigan Law School Scholarship Repository
- - [https://repository.law.umich.edu](https://repository.law.umich.edu)
- - date_published: 2023-10-25T19:02:35.321840+00:00
-
- ## Office of Research
- - [https://research.medicine.umich.edu](https://research.medicine.umich.edu)
- - date_published: 2024-05-07T21:28:02.926633+00:00
-
- ## Michigan Robotics | University of Michigan
- - [https://robotics.umich.edu](https://robotics.umich.edu)
- - date_published: 2013-07-09T19:23:43+00:00
-
- ## CoE Safety
- - [http://safety.engin.umich.edu](http://safety.engin.umich.edu)
- - date_published: 2024-05-07T21:28:45.451956+00:00
-
- ## Scalar
- - [https://scalar.eecs.umich.edu](https://scalar.eecs.umich.edu)
- - date_published: 2024-05-07T14:56:30.959795+00:00
-
- ## WordPress Websites – Offered by LSA Technology Services
- - [https://sites.lsa.umich.edu](https://sites.lsa.umich.edu)
- - date_published: 2024-03-22T20:49:48.942501+00:00
-
- ## University of Michigan Marsal Family School of Education
- - [https://soe.umich.edu](https://soe.umich.edu)
- - date_published: 2024-05-07T14:56:22.276920+00:00
-
- ## Strategic Vision - Michigan Engineering - University of Michigan
- - [http://strategicvision.engin.umich.edu](http://strategicvision.engin.umich.edu)
- - date_published: 2023-07-12T00:00:00+00:00
-
- ## Taubman College of Architecture and Urban Planning - University of Michigan
- - [http://taubmancollege.umich.edu](http://taubmancollege.umich.edu)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## University of Michigan
- - [https://umich.edu](https://umich.edu)
- - date_published: 2024-05-02T12:42:38.088438+00:00
-
- ## Office of the Vice President for Communications
- - [https://vpcomm.umich.edu](https://vpcomm.umich.edu)
- - date_published: 2024-05-07T21:27:48.263741+00:00
-
- ## EECS Department
- - [https://web.eecs.umich.edu](https://web.eecs.umich.edu)
- - date_published: 2024-01-09T03:28:40.266068+00:00
-
- ## Wolverine Access - Find & Favorite University of Michigan Resources
- - [https://wolverineaccess.umich.edu](https://wolverineaccess.umich.edu)
- - date_published: 2024-05-07T21:27:09.394140+00:00
-
- ## Biomedical Engineering - BME
- - [http://www.bme.umich.edu](http://www.bme.umich.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Center for the Study of Complex Systems | U-M LSA Center for the Study of Complex Systems
- - [http://www.cscs.umich.edu](http://www.cscs.umich.edu)
- - date_published: 2024-05-07T15:26:41.313724+00:00
-
- ## Computer Science and Engineering at Michigan
- - [https://www.cse.umich.edu](https://www.cse.umich.edu)
- - date_published: 2024-05-08T00:01:12.026182+00:00
-
- ## Electrical Engineering and Computer Science at the University of Michigan
- - [https://www.eecs.umich.edu](https://www.eecs.umich.edu)
- - date_published: 2024-05-07T21:29:41.357227+00:00
-
- ## University of Michigan: College of Engineering
- - [https://www.engin.umich.edu](https://www.engin.umich.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## University of Michigan Law School
- - [https://www.law.umich.edu](https://www.law.umich.edu)
- - date_published: 2024-05-04T07:29:47.778798+00:00
-
- ## redirect
- - [http://www.math.lsa.umich.edu](http://www.math.lsa.umich.edu)
- - date_published: 2024-05-08T09:49:24.106095+00:00
-
- ## HTML Meta Tag
- - [http://www.med.umich.edu](http://www.med.umich.edu)
- - date_published: 2024-05-07T21:28:16.527531+00:00
-
- ## Department of Pathology
- - [http://www.pathology.med.umich.edu](http://www.pathology.med.umich.edu)
- - date_published: 2024-05-07T21:28:09.619892+00:00
-
- ## University of Michigan Press
- - [https://www.press.umich.edu](https://www.press.umich.edu)
- - date_published: 2024-05-02T10:13:34.061829+00:00
-
- ## U-M Safe Computing / safecomputing.umich.edu
- - [https://www.safecomputing.umich.edu](https://www.safecomputing.umich.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## University of Michigan
- - [https://www.umich.edu](https://www.umich.edu)
- - date_published: 2024-05-01T06:40:38.254778+00:00
-
- ## The University of Missouri-Kansas City
- - [https://www.umkc.edu](https://www.umkc.edu)
- - date_published: 2024-05-08T09:05:35.626954+00:00
-
- ## Faculty/Staff Websites & Bios | Communications Strategy | Expertise | Brand, Communications & Creative Strategy
- - [https://faculty.uml.edu](https://faculty.uml.edu)
- - date_published: 2024-05-07T15:18:30.018327+00:00
-
- ## UMass Lowell
- - [https://www.uml.edu](https://www.uml.edu)
- - date_published: 2024-05-07T15:18:25.179625+00:00
 

@@ -1,3 +1,7 @@
+ ## MuffinTerm • A Terminal for the Classic BBS Experience
+ - [https://muffinterm.app](https://muffinterm.app)
+ - date_published: 2024-05-08T04:06:32.485774+00:00
+
  ## Nanoc: a static-site generator written in Ruby » home
  - [https://nanoc.app](https://nanoc.app)
  - date_published: 2024-05-13T02:43:14.382890+00:00
@@ -1952,6 +1956,11 @@
  - [https://www.lightcube.art](https://www.lightcube.art)
  - date_published: 2024-05-30T09:28:33+00:00
  - tags: ['pixel art']
+
+ ## Lucas
+ - [https://lucas.art](https://lucas.art)
+ - date_published: 2024-06-07T08:34:39.335167+00:00
+ - tags: ['personal']
 
  ## Lucas
  - [https://www.lucas.art](https://www.lucas.art)
@@ -4068,13 +4077,4 @@
  ## Traveller | Your Destination for Travel Inspiration
  - [https://www.traveller.com.au](https://www.traveller.com.au)
  - date_published: 2024-05-04T15:33:52.829336+00:00
-
- ## Füm - The Good Habit™
- - [https://tryfum.com.au](https://tryfum.com.au)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Optimizing - Tyler Campbell
- - [https://tylercampbell.com.au](https://tylercampbell.com.au)
- - date_published: 2024-04-03T06:28:38.518951+00:00
- - tags: ['personal']
 

@@ -1,3 +1,65 @@
+ ## Indie Hackers: Work Together to Build Profitable Online Businesses
+ - [https://www.indiehackers.com](https://www.indiehackers.com)
+ - date_published: 2023-10-25T15:19:02.764869+00:00
+
+ ## Home - Indie Ink Awards
+ - [https://indieinkawards.com](https://indieinkawards.com)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Indie London - The UK's #1 Indie Hackers Community
+ - [https://www.indieldn.com](https://www.indieldn.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## IndieLogin.com
+ - [https://indielogin.com](https://indielogin.com)
+ - date_published: 2024-05-08T03:30:44.463337+00:00
+
+ ## Stand out as a Solopreneur and Build a Personal Brand | Indie Logs
+ - [https://indielogs.com](https://indielogs.com)
+ - date_published: 2024-05-15T02:45:30.020172+00:00
+
+ ## Home page - Indie Pearls Awards
+ - [https://indiepearlsawards.com](https://indiepearlsawards.com)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## IndiePressRevolution
+ - [https://www.indiepressrevolution.com](https://www.indiepressrevolution.com)
+ - date_published: 2024-05-12T03:54:18.049725+00:00
+
+ ## indiepubs
+ - [https://indiepubs.com](https://indiepubs.com)
+ - date_published: 2024-05-12T04:30:18.349821+00:00
+
+ ## Indie Retro News
+ - [https://www.indieretronews.com](https://www.indieretronews.com)
+ - date_published: 2023-10-25T15:19:06.586961+00:00
+ - tags: ['news', 'amiga', 'retro games']
+
+ ## Indie Story Geek
+ - [https://www.indiestorygeek.com](https://www.indiestorygeek.com)
+ - date_published: 2024-05-08T04:15:00.500463+00:00
+
+ ## The Indieverse Awards
+ - [https://www.indieverseawards.com](https://www.indieverseawards.com)
+ - date_published: 2024-05-08T04:15:03.656113+00:00
+
+ ## IndieWeb
+ - [https://indiewebcamp.com](https://indiewebcamp.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+ - tags: ['standards', 'personal sites', 'indie web']
+
+ ## IndieWire – The Voice of Creative Independence
+ - [https://www.indiewire.com](https://www.indiewire.com)
+ - date_published: 2023-10-25T15:19:11.524821+00:00
+
+ ## About | Indira Pranabudi
+ - [https://indirapranabudi.com](https://indirapranabudi.com)
+ - date_published: 2024-05-06T21:34:10.436707+00:00
+
+ ## INDIVISA
+ - [https://www.indivisa.com](https://www.indivisa.com)
+ - date_published: 2024-05-04T08:17:59.140012+00:00
+
  ## Homepage
  - [https://www.indivisibleguide.com](https://www.indivisibleguide.com)
  - date_published: 2024-05-12T05:45:02.103237+00:00
@@ -4078,67 +4140,4 @@
  - [http://www.jasontako.com](http://www.jasontako.com)
  - date_published: 2024-05-31T04:19:22.954510+00:00
  - tags: ['personal']
-
- ## Jason Crabtree's Internet Hangtime
- - [https://blog.jasontcrabtree.com](https://blog.jasontcrabtree.com)
- - date_published: 2024-05-07T23:28:31.428320+00:00
-
- ## Jason Crabtree | Full Stack Developer
- - [https://jasontcrabtree.com](https://jasontcrabtree.com)
- - date_published: 2024-05-07T23:27:16.618824+00:00
-
- ## Jason Vincion
- - [https://www.jasonvincion.com](https://www.jasonvincion.com)
- - date_published: 2024-01-12T22:14:28.431705+00:00
-
- ## Jason Zweig | A safe haven for investors by Jason Zweig of The Wall Street Journal.
- - [https://jasonzweig.com](https://jasonzweig.com)
- - date_published: 2023-10-25T15:27:17.416854+00:00
-
- ## Jasper Morrison | Home
- - [https://jaspermorrison.com](https://jaspermorrison.com)
- - date_published: 2024-05-08T06:05:06.013277+00:00
-
- ## https://lib.jasperplayer.com
- - [https://lib.jasperplayer.com](https://lib.jasperplayer.com)
- - date_published: 2023-12-12T08:41:31.534121+00:00
-
- ## Embedded Analytics & Reporting Platform | Jaspersoft
- - [https://www.jaspersoft.com](https://www.jaspersoft.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## The global hub for automotive market intelligence and analysis
- - [https://www.jato.com](https://www.jato.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## https://www.java.com
- - [https://www.java.com](https://www.java.com)
- - date_published: 2023-11-01T08:42:20.753072+00:00
- - tags: ['programming language']
-
- ## Welcome To The Java Advent Calendar - JVM Advent
- - [https://www.javaadvent.com](https://www.javaadvent.com)
- - date_published: 2023-10-25T15:27:22.352791+00:00
-
- ## Java Code Geeks
- - [https://www.javacodegeeks.com](https://www.javacodegeeks.com)
- - date_published: 2024-05-04T15:13:09.078434+00:00
-
- ## The Java GUI programming resources and its open source friends - PHP, Apache, MySQL database, Java GUI, Java visual web applications, NetBeans IDE etc
- - [https://www.javaguicodexample.com](https://www.javaguicodexample.com)
- - date_published: 2024-05-06T16:10:25.675144+00:00
-
- ## Java Playground
- - [https://java-playground.com](https://java-playground.com)
- - date_published: 2023-10-25T15:27:20.226781+00:00
- - tags: ['online tool']
-
- ## Learn JavaScript Online - Courses for Beginners - javascript.com
- - [http://javascript.com](http://javascript.com)
- - date_published: 2024-05-11T10:37:40.785662+00:00
-
- ## Learn JavaScript Online - Courses for Beginners - javascript.com
- - [https://www.javascript.com](https://www.javascript.com)
- - date_published: 2023-11-01T08:42:21.170598+00:00
- - tags: ['tutorials', 'javascript']
 

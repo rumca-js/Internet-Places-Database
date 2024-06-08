@@ -1,3 +1,50 @@
+ ## Account Suspended
+ - [https://www.gamebryo.com](https://www.gamebryo.com)
+ - date_published: 2024-01-09T02:37:05.537681+00:00
+
+ ## GameBurnWorld- Cheats, Game Fixes, No-DVD Patches, Trainers, Covers, No-CD Files
+ - [https://gameburnworld.com](https://gameburnworld.com)
+ - date_published: 2015-01-01T00:00:00+00:00
+ - tags: ['game trainers']
+
+ ## GameBurnWorld- Cheats, Game Fixes, No-DVD Patches, Trainers, Covers, No-CD Files
+ - [https://www.gameburnworld.com](https://www.gameburnworld.com)
+ - date_published: 2015-01-01T00:00:00+00:00
+
+ ## PC Game Trainers, Cheats   No-CD / No-DVD PlayFixes Patches | GameCopyWorld
+ - [https://gamecopyworld.com](https://gamecopyworld.com)
+ - date_published: 2024-03-17T00:00:00+00:00
+ - tags: ['game trainers']
+
+ ## Gamecritics.com – Games. Culture. Criticism.
+ - [https://gamecritics.com](https://gamecritics.com)
+ - date_published: 2024-05-12T02:44:52.973497+00:00
+
+ ## The Definition of Game
+ - [http://www.gamedefinitions.com](http://www.gamedefinitions.com)
+ - date_published: 2024-05-14T03:17:34.523723+00:00
+
+ ## Free Information Technology Research Library of White Papers, Magazines, Reports, and eBooks
+ - [https://gd-resources.gamedeveloper.com](https://gd-resources.gamedeveloper.com)
+ - date_published: 2024-05-04T07:19:06.055571+00:00
+
+ ## Game Developer Jobs - Find your next job in game development
+ - [https://jobs.gamedeveloper.com](https://jobs.gamedeveloper.com)
+ - date_published: 2024-05-04T07:18:55.392664+00:00
+
+ ## Game Developer
+ - [https://www.gamedeveloper.com](https://www.gamedeveloper.com)
+ - date_published: 2023-10-25T10:47:56.348736+00:00
+
+ ## High quality 2d Game assets and 2d game sprites
+ - [https://www.gamedeveloperstudio.com](https://www.gamedeveloperstudio.com)
+ - date_published: 2024-04-08T18:03:32+00:00
+ - tags: ['image assets']
+
+ ## Gamedev.js Weekly - newsletter about HTML5 Game Development
+ - [http://weekly.gamedevjs.com](http://weekly.gamedevjs.com)
+ - date_published: 2024-05-11T10:34:26.327269+00:00
+
  ## Gameflip Forum
  - [https://forum.gameflip.com](https://forum.gameflip.com)
  - date_published: 2024-04-03T00:00:00+00:00
@@ -770,6 +817,11 @@
  ## Gauthier Roussilhe
  - [https://gauthierroussilhe.com](https://gauthierroussilhe.com)
  - date_published: 2023-12-11T16:12:10.777950+00:00
+
+ ## Gavekal Research
+    - Independent Macro Research
+ - [https://research.gavekal.com](https://research.gavekal.com)
+ - date_published: 2024-06-07T05:24:36.531079+00:00
 
  ## Gavin D. Howard
  - [https://gavinhoward.com](https://gavinhoward.com)
@@ -3505,6 +3557,11 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - [http://www.givesendgo.com](http://www.givesendgo.com)
  - date_published: 2024-05-08T03:42:28.657270+00:00
 
+ ## Wyrd - Online Web Store
+ - [https://giveusyourmoneypleasethankyou-wyrd.com](https://giveusyourmoneypleasethankyou-wyrd.com)
+ - date_published: 2024-06-07T14:59:55.447943+00:00
+ - tags: ['tabletop game developer', 'interesting domain name', 'malifaux']
+
  ## Home
  - [https://givewp.com](https://givewp.com)
  - date_published: 2024-05-02T12:41:18.341306+00:00
@@ -4066,56 +4123,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  ## GM Defense: Driving the Future of Military Mobility | GM Defense L.L.C.
  - [https://www.gmdefensellc.com](https://www.gmdefensellc.com)
  - date_published: 2024-05-04T08:17:08.564902+00:00
-
- ## GMDD
- - [http://gmdiversitydealerrelations.com](http://gmdiversitydealerrelations.com)
- - date_published: 2024-05-04T08:16:29.888631+00:00
-
- ## gmdstudios
- - [http://www.gmdstudios.com](http://www.gmdstudios.com)
- - date_published: 2024-05-08T09:50:21.801173+00:00
-
- ## Business Doesn’t Grow by Chance. It Grows by Change.
- - [https://www.gmenvolve.com](https://www.gmenvolve.com)
- - date_published: 2024-05-04T08:16:02.546633+00:00
-
- ## Home
- - [https://www.gmfinancial.com](https://www.gmfinancial.com)
- - date_published: 2024-05-04T08:16:50.301068+00:00
-
- ## GMG Research
- - [https://www.gmgresearch.com](https://www.gmgresearch.com)
- - date_published: 2024-05-07T18:52:30.382700+00:00
-
- ## Las Vegas | Greenspun Media Group
- - [https://gmgvegas.com](https://gmgvegas.com)
- - date_published: 2024-05-08T12:20:15.723053+00:00
-
- ## GM Ignition Update  - United States - Home
- - [https://www.gmignitionupdate.com](https://www.gmignitionupdate.com)
- - date_published: 2024-05-04T08:16:07.267392+00:00
-
- ## GmodStore API Documentation
- - [https://docs.gmodstore.com](https://docs.gmodstore.com)
- - date_published: 2024-05-13T03:47:05.249777+00:00
-
- ## GmodStore Status Page
- - [https://status.gmodstore.com](https://status.gmodstore.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Featured Addons · gmodstore
- - [https://www.gmodstore.com](https://www.gmodstore.com)
- - date_published: 2024-04-07T17:38:40+00:00
-
- ## Shop GM Parts - GM Genuine Parts & ACDelco
- - [https://parts.gmparts.com](https://parts.gmparts.com)
- - date_published: 2024-05-04T08:16:43.518689+00:00
-
- ## OEM & Aftermarket Auto Parts | Genuine GM Parts & ACDelco
- - [https://www.gmparts.com](https://www.gmparts.com)
- - date_published: 2024-05-04T08:16:55.354818+00:00
-
- ## GMR Marketing: Experience Marketing Agency.
- - [https://gmrmarketing.com](https://gmrmarketing.com)
- - date_published: 2024-05-02T10:05:36.061869+00:00
 

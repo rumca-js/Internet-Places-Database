@@ -1,3 +1,213 @@
+ ## Home | DEA.gov
+ - [https://www.dea.gov](https://www.dea.gov)
+ - date_published: 2024-04-04T02:34:26.560996+00:00
+ - tags: ['government', 'dea']
+
+ ## Home
+ - [https://business.defense.gov](https://business.defense.gov)
+ - date_published: 2024-05-08T02:44:25.812495+00:00
+
+ ## Home
+ - [https://comptroller.defense.gov](https://comptroller.defense.gov)
+ - date_published: 2024-05-08T02:44:28.228068+00:00
+
+ ## Chief Information Officer - U.S. Department of Defense
+ - [https://dodcio.defense.gov](https://dodcio.defense.gov)
+ - date_published: 2024-01-09T03:30:24.563437+00:00
+
+ ## Legacy Homepage
+ - [https://dod.defense.gov](https://dod.defense.gov)
+ - date_published: 2024-05-08T02:43:06.081378+00:00
+
+ ## Privacy, Civil Liberties and FOIA Directorate
+ - [https://dpcld.defense.gov](https://dpcld.defense.gov)
+ - date_published: 2024-05-08T02:43:40.510443+00:00
+
+ ## U.S. Department of Defense
+ - [https://media.defense.gov](https://media.defense.gov)
+ - date_published: 2023-10-25T19:19:33.802662+00:00
+
+ ## DoD Open Government
+ - [https://open.defense.gov](https://open.defense.gov)
+ - date_published: 2024-05-08T02:43:10.182653+00:00
+
+ ## Home
+ - [https://policy.defense.gov](https://policy.defense.gov)
+ - date_published: 2024-05-08T02:44:29.529233+00:00
+
+ ## Office Of The Under Secretary of Defense For Personnel & Readiness | Home
+ - [https://prhome.defense.gov](https://prhome.defense.gov)
+ - date_published: 2024-05-08T02:43:00.505172+00:00
+
+ ## U.S. Department of Defense
+ - [https://www.defense.gov](https://www.defense.gov)
+ - date_published: 2023-10-25T19:19:38.874037+00:00
+ - tags: ['military', 'security intelligence']
+
+ ## Home - Delaware General Assembly
+ - [https://legis.delaware.gov](https://legis.delaware.gov)
+ - date_published: 2023-10-25T19:19:49.711045+00:00
+
+ ## Delta County
+ - [https://deltacountymi.gov](https://deltacountymi.gov)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Home | Homeland Security
+ - [https://dhs.gov](https://dhs.gov)
+ - date_published: 2024-05-08T02:47:37.258099+00:00
+
+ ## CBP DTOPS
+ - [https://dtops.cbp.dhs.gov](https://dtops.cbp.dhs.gov)
+ - date_published: 2024-05-06T22:41:14.636981+00:00
+
+ ## Home | Homeland Security
+ - [https://www.dhs.gov](https://www.dhs.gov)
+ - date_published: 2023-10-25T19:19:55.186821+00:00
+
+ ## Home | Office of Inspector General
+ - [https://www.oig.dhs.gov](https://www.oig.dhs.gov)
+ - date_published: 2024-05-08T02:37:10.705872+00:00
+
+ ## USWDS: The United States Web Design System | U.S. Web Design System (USWDS)
+ - [https://designsystem.digital.gov](https://designsystem.digital.gov)
+ - date_published: 2023-10-25T19:20:02.198655+00:00
+
+ ## Digital.gov
+ - [https://digital.gov](https://digital.gov)
+ - date_published: 2024-05-09T08:30:21.565024+00:00
+
+ ## U.S. Web Design System: A design system for the federal government
+ - [https://v1.designsystem.digital.gov](https://v1.designsystem.digital.gov)
+ - date_published: 2024-05-08T02:44:54.667139+00:00
+
+ ## Home | disasterassistance.gov
+ - [https://www.disasterassistance.gov](https://www.disasterassistance.gov)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Home
+ - [https://www.dni.gov](https://www.dni.gov)
+ - date_published: 2023-10-25T19:20:05.412646+00:00
+
+ ## Electronic FOIA
+ - [https://efoia.bis.doc.gov](https://efoia.bis.doc.gov)
+ - date_published: 2024-05-08T02:45:17.572655+00:00
+
+ ## Commerce Research Library: Commerce Research Library - Home: Home
+ - [http://library.doc.gov](http://library.doc.gov)
+ - date_published: 2024-05-08T02:37:20.476351+00:00
+
+ ## Homepage
+ - [http://osec.doc.gov](http://osec.doc.gov)
+ - date_published: 2024-05-08T02:34:51.691213+00:00
+
+ ## BIS SNAP-R Exporter Web Application
+ - [https://snapr.bis.doc.gov](https://snapr.bis.doc.gov)
+ - date_published: 2024-05-08T02:45:19.861609+00:00
+
+ ## BIS Website
+ - [https://www.bis.doc.gov](https://www.bis.doc.gov)
+ - date_published: 2023-10-25T19:20:19.432638+00:00
+
+ ## Office of Inspector General
+ - [https://www.oig.doc.gov](https://www.oig.doc.gov)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Homepage
+ - [http://www.osec.doc.gov](http://www.osec.doc.gov)
+ - date_published: 2024-05-08T02:34:56.127351+00:00
+
+ ## Home — DOE Directives, Guidance, and Delegations
+ - [https://www.directives.doe.gov](https://www.directives.doe.gov)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Home
+ - [https://revenuedata.doi.gov](https://revenuedata.doi.gov)
+ - date_published: 2024-05-06T17:11:57.313027+00:00
+
+ ## U.S. Department of the Interior
+ - [https://www.doi.gov](https://www.doi.gov)
+ - date_published: 2024-05-01T08:10:33.171434+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://dojmt.gov](https://dojmt.gov)
+ - date_published: 2024-05-01T03:34:43.583096+00:00
+
+ ## Home
+ - [https://blog.dol.gov](https://blog.dol.gov)
+ - date_published: 2024-05-08T02:45:41.015499+00:00
+
+ ## Redirect
+ - [https://webapps.dol.gov](https://webapps.dol.gov)
+ - date_published: 2024-05-08T02:45:31.998974+00:00
+
+ ## Home | U.S. Department of Labor
+ - [https://www.dol.gov](https://www.dol.gov)
+ - date_published: 2023-10-25T19:20:24.712207+00:00
+
+ ## Office of Inspector General - U.S. Department of Labor
+ - [https://www.oig.dol.gov](https://www.oig.dol.gov)
+ - date_published: 2024-05-08T02:35:04.001248+00:00
+
+ ## Federal Highway Administration
+ - [https://highways.dot.gov](https://highways.dot.gov)
+ - date_published: 2023-10-25T19:20:28.006537+00:00
+
+ ## Home - LTBP InfoBridge
+ - [https://infobridge.fhwa.dot.gov](https://infobridge.fhwa.dot.gov)
+ - date_published: 2024-05-08T02:45:55.684362+00:00
+
+ ## Manual on Uniform Traffic Control Devices (MUTCD) - FHWA
+ - [https://mutcd.fhwa.dot.gov](https://mutcd.fhwa.dot.gov)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## FHWA Operations
+ - [https://ops.fhwa.dot.gov](https://ops.fhwa.dot.gov)
+ - date_published: 2024-05-08T02:45:57.636581+00:00
+
+ ## Federal Railroad Administration
+ - [https://railroads.dot.gov](https://railroads.dot.gov)
+ - date_published: 2024-05-12T07:28:45.336733+00:00
+
+ ## Safety | FHWA
+ - [https://safety.fhwa.dot.gov](https://safety.fhwa.dot.gov)
+ - date_published: 2024-05-16T02:46:44.197723+00:00
+
+ ## Departmental Office of Civil Rights | US Department of Transportation
+ - [https://www.civilrights.dot.gov](https://www.civilrights.dot.gov)
+ - date_published: 2024-05-08T02:45:53.154137+00:00
+
+ ## Federal Highway Administration
+ - [https://www.fhwa.dot.gov](https://www.fhwa.dot.gov)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Federal Motor Carrier Safety Administration
+ - [https://www.fmcsa.dot.gov](https://www.fmcsa.dot.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Maritime Administration
+ - [https://www.maritime.dot.gov](https://www.maritime.dot.gov)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## National Highway Institute | Home
+ - [https://www.nhi.fhwa.dot.gov](https://www.nhi.fhwa.dot.gov)
+ - date_published: 2024-05-08T02:45:59.170449+00:00
+
+ ## Home | NHTSA
+ - [http://www-odi.nhtsa.dot.gov](http://www-odi.nhtsa.dot.gov)
+ - date_published: 2024-05-11T08:19:23.304550+00:00
+
+ ## Home | DOT OIG
+ - [https://www.oig.dot.gov](https://www.oig.dot.gov)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Pipeline and Hazardous Materials Safety Administration
+ - [https://www.phmsa.dot.gov](https://www.phmsa.dot.gov)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Great Lakes St. Lawrence Seaway Development Corporation
+ - [https://www.seaway.dot.gov](https://www.seaway.dot.gov)
+ - date_published: 2024-03-22T00:00:00+00:00
+
  ## Federal Transit Administration
  - [https://www.transit.dot.gov](https://www.transit.dot.gov)
  - date_published: 2024-04-05T18:55:53.475581+00:00
@@ -3834,215 +4044,4 @@
  ## Yelp
  - [https://en.yelp.com.hk](https://en.yelp.com.hk)
  - date_published: 2024-08-05T00:00:00+00:00
-
- ## Yelp
- - [https://zh.yelp.com.hk](https://zh.yelp.com.hk)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## City University of Hong Kong
- - [https://www.cityu.edu.hk](https://www.cityu.edu.hk)
- - date_published: 2023-11-12T14:24:15.942518+00:00
-
- ## Department of Systems Engineering and Engineering Management, CUHK
- - [https://www1.se.cuhk.edu.hk](https://www1.se.cuhk.edu.hk)
- - date_published: 2024-04-28T03:41:35.234039+00:00
-
- ## Big Data Decision Analytics (BDDA) Research Centre, CUHK
- - [https://www.bdda.cuhk.edu.hk](https://www.bdda.cuhk.edu.hk)
- - date_published: 2024-04-28T03:41:44.410082+00:00
-
- ## Homepage - CUHK CSE
- - [https://www.cse.cuhk.edu.hk](https://www.cse.cuhk.edu.hk)
- - date_published: 2024-04-28T03:41:30.484544+00:00
-
- ## The Chinese University of Hong Kong
- - [https://www.cuhk.edu.hk](https://www.cuhk.edu.hk)
- - date_published: 2024-05-08T11:14:35.922238+00:00
-
- ## Electronic Engineering Department, The Chinese University of Hong Kong
- - [https://www.ee.cuhk.edu.hk](https://www.ee.cuhk.edu.hk)
- - date_published: 2024-04-28T03:41:42.090398+00:00
-
- ## Home Page
- - [https://www.erg.cuhk.edu.hk](https://www.erg.cuhk.edu.hk)
- - date_published: 2014-11-14T08:17:46+00:00
-
- ## Department of Systems Engineering and Engineering Management, CUHK
- - [https://www.se.cuhk.edu.hk](https://www.se.cuhk.edu.hk)
- - date_published: 2024-04-28T03:40:43.319867+00:00
-
- ## Hong Kong Baptist University – HKBU
- - [https://www.hkbu.edu.hk](https://www.hkbu.edu.hk)
- - date_published: 2024-05-08T00:27:03.526201+00:00
-
- ## 主頁  | Business Wire
- - [http://www.businesswire.hk](http://www.businesswire.hk)
- - date_published: 2024-05-08T04:02:32.986609+00:00
-
- ## Centre for Perceptual and Interactive Intelligence (CPII)
- - [https://cpii.hk](https://cpii.hk)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## DigiKey Home
- - [https://www.digikey.hk](https://www.digikey.hk)
- - date_published: 2024-05-01T05:03:31.120175+00:00
-
- ## Status overview
- - [https://downdetector.hk](https://downdetector.hk)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Finance Jobs, Banking and Tech Jobs - Hong Kong - eFinancialCareers
- - [https://www.efinancialcareers.hk](https://www.efinancialcareers.hk)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Eventbrite
- - [https://www.eventbrite.hk](https://www.eventbrite.hk)
- - date_published: 2024-05-12T05:55:30.746543+00:00
-
- ## Hong Kong FinTech Week | 28 Oct - 1 Nov 2024
- - [https://www.fintechweek.hk](https://www.fintechweek.hk)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## HKU Faculty of Architecture | HKURBANLABS
- - [http://fac.arch.hku.hk](http://fac.arch.hku.hk)
- - date_published: 2024-05-08T11:44:26.478020+00:00
-
- ## jon.hk
- - [https://jon.hk](https://jon.hk)
- - date_published: 2023-10-25T19:28:01.121455+00:00
-
- ## Technology and Business Training
- - [https://oreilly.hk](https://oreilly.hk)
- - date_published: 2024-05-06T22:10:39.930329+00:00
-
- ## ��ҳ-T1�����콢����� - ��è����
- - [https://t1.tmall.hk](https://t1.tmall.hk)
- - date_published: 2024-05-08T02:32:03.672578+00:00
-
- ## 偽基百科
- - [https://uncyclopedia.hk](https://uncyclopedia.hk)
- - date_published: 2024-05-11T09:52:33.431049+00:00
-
- ## Home | The Hong Kong University of Science and Technology
- - [https://www.ust.hk](https://www.ust.hk)
- - date_published: 2024-04-28T03:52:56.574118+00:00
-
- ## wootwoot.hk
- - [https://wootwoot.hk](https://wootwoot.hk)
- - date_published: 2024-01-05T10:28:54.623061+00:00
-
- ## 主頁
- - [https://www.opendoors.org.hk](https://www.opendoors.org.hk)
- - date_published: 2024-05-08T11:13:09.591493+00:00
-
- ## 大自然保護協會
- - [https://secure.tnc.org.hk](https://secure.tnc.org.hk)
- - date_published: 2024-05-08T10:42:39.144140+00:00
-
- ## 大自然保護協會
- - [https://www.tnc.org.hk](https://www.tnc.org.hk)
- - date_published: 2024-05-08T10:42:30.035454+00:00
-
- ## 世界自然基金會香港分會
- - [https://www.wwf.org.hk](https://www.wwf.org.hk)
- - date_published: 2024-05-07T23:58:49.758889+00:00
-
- ## Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más
- - [https://www.airbnb.com.hn](https://www.airbnb.com.hn)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Visa, un líder confiable en pagos digitales.
- - [https://www.visa.com.hn](https://www.visa.com.hn)
- - date_published: 2024-05-12T03:59:24.677440+00:00
-
- ## blogs.hn
- - [https://blogs.hn](https://blogs.hn)
- - date_published: 2023-12-18T15:10:33+00:00
- - tags: ['blogs', 'personal', 'personal sites source']
-
- ## Hacker News Blogroll
- - [https://dm.hn](https://dm.hn)
- - date_published: 2023-10-25T19:28:02.288614+00:00
- - tags: ['hacker news']
-
- ## Partnerize Tracking
- - [https://adobe-creative.prf.hn](https://adobe-creative.prf.hn)
- - date_published: 2024-05-08T12:00:41.463413+00:00
-
- ## Partnerize | Flexible Tracking that Powers Partner Channel Insights
- - [https://adobe.prf.hn](https://adobe.prf.hn)
- - date_published: 2022-03-01T00:00:00+00:00
-
- ## Partnerize | Flexible Tracking that Powers Partner Channel Insights
- - [https://game.prf.hn](https://game.prf.hn)
- - date_published: 2022-03-01T00:00:00+00:00
-
- ## Partnerize | Flexible Tracking that Powers Partner Channel Insights
- - [https://linkfire.prf.hn](https://linkfire.prf.hn)
- - date_published: 2022-03-01T00:00:00+00:00
-
- ## Partnerize | Flexible Tracking that Powers Partner Channel Insights
- - [https://stubhub.prf.hn](https://stubhub.prf.hn)
- - date_published: 2022-03-01T00:00:00+00:00
-
- ## Partnerize | Flexible Tracking that Powers Partner Channel Insights
- - [https://viagogo.prf.hn](https://viagogo.prf.hn)
- - date_published: 2022-03-01T00:00:00+00:00
-
- ## Resonance – The tech intelligence engine of the Future
- - [https://resonance.holdings](https://resonance.holdings)
- - date_published: 2024-04-28T13:01:51.981356+00:00
-
- ## Honda Motor Co.,Ltd.｜Honda Global Corporate Website
- - [https://global.honda](https://global.honda)
- - date_published: 2023-11-04T02:27:34.117726+00:00
-
- ## Horse Browser - The Browser for Research - Horse Browser
- - [https://browser.horse](https://browser.horse)
- - date_published: 2024-05-06T23:34:24.869610+00:00
-
- ## hooooooooooooooooooooooooooooooooooooooooooooooooooooooooorse
- - [https://endless.horse](https://endless.horse)
- - date_published: 2024-01-09T03:31:49.202260+00:00
-
- ## Donald Trump Text to Speech and Voice — Trumped
- - [http://jungle.horse](http://jungle.horse)
- - date_published: 2024-05-29T20:57:38.288095+00:00
- - tags: ['deep fake']
-
- ## https://lyra.horse
- - [https://lyra.horse](https://lyra.horse)
- - date_published: 2024-01-06T10:04:23.683116+00:00
-
- ## the uncolouring book
- - [https://lines.potato.horse](https://lines.potato.horse)
- - date_published: 2023-10-25T19:28:03.445035+00:00
-
- ## Important Meeting Notes
- - [https://potato.horse](https://potato.horse)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Sit
- - [https://sit.potato.horse](https://sit.potato.horse)
- - date_published: 2024-05-09T08:31:18.230587+00:00
-
- ## The (Medieval) Times
- - [https://tidings.potato.horse](https://tidings.potato.horse)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Sheep.Horse - The Blog of Andrew Stephens
- - [https://sheep.horse](https://sheep.horse)
- - date_published: 2023-10-25T19:28:04.559800+00:00
-
- ## Birds.host | Affordable VPS Hosting
- - [http://birds.host](http://birds.host)
- - date_published: 2024-05-12T07:55:31.496647+00:00
-
- ## BlackHOST -  The Web is what we make of it!
- - [https://black.host](https://black.host)
- - date_published: 2024-05-31T10:09:14.983744+00:00
-
- ## SAS Information Technology Office
- - [https://siteresources-rutgers.cloudaccess.host](https://siteresources-rutgers.cloudaccess.host)
- - date_published: 2024-05-07T20:09:41.253607+00:00
 

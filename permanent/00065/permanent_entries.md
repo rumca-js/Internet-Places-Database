@@ -1,3 +1,211 @@
+ ## Office of Financial Aid –  | Kalamazoo College
+ - [https://finaid.kzoo.edu](https://finaid.kzoo.edu)
+ - date_published: 2024-05-07T19:25:02.513515+00:00
+
+ ## Fitness & Wellness Center –  | Kalamazoo College
+ - [https://fitnesscenter.kzoo.edu](https://fitnesscenter.kzoo.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Log in to Faculty Personnel Committee
+ - [https://fpc.kzoo.edu](https://fpc.kzoo.edu)
+ - date_published: 2024-05-07T19:22:24.888096+00:00
+
+ ## French and Francophone Studies –  | Kalamazoo College
+ - [https://french.kzoo.edu](https://french.kzoo.edu)
+ - date_published: 2024-05-07T19:24:36.709196+00:00
+
+ ## First Year Experience –  | Kalamazoo College
+ - [https://fye.kzoo.edu](https://fye.kzoo.edu)
+ - date_published: 2024-09-01T00:00:00+00:00
+
+ ## Gardens and Growing Spaces –  | Kalamazoo College
+ - [https://gardens.kzoo.edu](https://gardens.kzoo.edu)
+ - date_published: 2024-05-07T19:24:50.232506+00:00
+
+ ## Department of German Studies –  | Kalamazoo College
+ - [https://german.kzoo.edu](https://german.kzoo.edu)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Global Crossroads –  | Kalamazoo College
+ - [https://globalcrossroads.kzoo.edu](https://globalcrossroads.kzoo.edu)
+ - date_published: 2024-05-07T19:22:29.079782+00:00
+
+ ## Student Health Center –  | Kalamazoo College
+ - [https://healthcenter.kzoo.edu](https://healthcenter.kzoo.edu)
+ - date_published: 2024-05-07T19:21:36.379512+00:00
+
+ ## HILL Project – Humanities Integrated Locational Learning –  | Kalamazoo College
+ - [https://hill.kzoo.edu](https://hill.kzoo.edu)
+ - date_published: 2024-05-07T19:24:19.761219+00:00
+
+ ## History Department –  | Kalamazoo College
+ - [https://history.kzoo.edu](https://history.kzoo.edu)
+ - date_published: 2024-05-07T19:23:57.402201+00:00
+
+ ## Log in to Hornet Hive
+ - [https://hive.kzoo.edu](https://hive.kzoo.edu)
+ - date_published: 2024-05-07T19:20:54.316236+00:00
+
+ ## Kalamazoo College Hornet HQ - Ellucian Student Application
+ - [https://hornethq.kzoo.edu](https://hornethq.kzoo.edu)
+ - date_published: 2024-05-07T19:20:56.475717+00:00
+
+ ## Kalamazoo College Athletics
+ - [https://hornets.kzoo.edu](https://hornets.kzoo.edu)
+ - date_published: 2024-05-07T19:21:09.425711+00:00
+
+ ## Human Resources –  | Kalamazoo College
+ - [https://hr.kzoo.edu](https://hr.kzoo.edu)
+ - date_published: 2024-05-07T19:22:18.632001+00:00
+
+ ## Institutional Assessment –  | Kalamazoo College
+ - [https://ia.kzoo.edu](https://ia.kzoo.edu)
+ - date_published: 2024-05-07T19:20:47.849753+00:00
+
+ ## International and Area Studies –  | Kalamazoo College
+ - [https://ias.kzoo.edu](https://ias.kzoo.edu)
+ - date_published: 2024-05-07T19:24:54.522691+00:00
+
+ ## Inclusive Excellence Initiatives –  | Kalamazoo College
+ - [https://inclusiveexcellence.kzoo.edu](https://inclusiveexcellence.kzoo.edu)
+ - date_published: 2024-05-07T19:20:34.033986+00:00
+
+ ## The Index – The Student Newspaper of Kalamazoo College
+ - [https://index.kzoo.edu](https://index.kzoo.edu)
+ - date_published: 2024-05-07T19:24:38.235925+00:00
+
+ ## Intercultural Student Life –  | Kalamazoo College
+ - [https://intercultural.kzoo.edu](https://intercultural.kzoo.edu)
+ - date_published: 2024-05-07T19:23:37.547180+00:00
+
+ ## Intramural Sports –  | Kalamazoo College
+ - [https://intramurals.kzoo.edu](https://intramurals.kzoo.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Institutional Review Board –  | Kalamazoo College
+ - [https://irb.kzoo.edu](https://irb.kzoo.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Institutional Research –  | Kalamazoo College
+ - [http://ir.kzoo.edu](http://ir.kzoo.edu)
+ - date_published: 2024-05-07T19:21:41.665156+00:00
+
+ ## Information Services –  | Kalamazoo College
+ - [https://is.kzoo.edu](https://is.kzoo.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Jewish Studies –  | Kalamazoo College
+ - [https://jewishstudies.kzoo.edu](https://jewishstudies.kzoo.edu)
+ - date_published: 2024-05-07T19:30:18.804746+00:00
+
+ ## LandSea –  | Kalamazoo College
+ - [https://landsea.kzoo.edu](https://landsea.kzoo.edu)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Learning Commons –  | Kalamazoo College
+ - [https://learningcommons.kzoo.edu](https://learningcommons.kzoo.edu)
+ - date_published: 2024-05-07T19:23:22.437613+00:00
+
+ ## Learning Support –  | Kalamazoo College
+ - [https://learningsupport.kzoo.edu](https://learningsupport.kzoo.edu)
+ - date_published: 2024-05-07T19:22:12.610474+00:00
+
+ ## Resources for LGBTQAI+ Students –  | Kalamazoo College
+ - [https://lgbtqaiplus.kzoo.edu](https://lgbtqaiplus.kzoo.edu)
+ - date_published: 2024-05-07T19:22:31.049956+00:00
+
+ ## Library –  | Kalamazoo College
+ - [https://library.kzoo.edu](https://library.kzoo.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Mail and Copy Center –  | Kalamazoo College
+ - [https://mailandcopy.kzoo.edu](https://mailandcopy.kzoo.edu)
+ - date_published: 2024-05-07T19:24:15.465235+00:00
+
+ ## Math Department –  | Kalamazoo College
+ - [https://mathematics.kzoo.edu](https://mathematics.kzoo.edu)
+ - date_published: 2024-05-07T19:21:21.736782+00:00
+
+ ## Kalamazoo College Moodle
+ - [https://moodle.kzoo.edu](https://moodle.kzoo.edu)
+ - date_published: 2024-05-07T19:21:27.963153+00:00
+
+ ## Math/Physics Center –  | Kalamazoo College
+ - [https://mpc.kzoo.edu](https://mpc.kzoo.edu)
+ - date_published: 2024-05-07T19:23:24.951429+00:00
+
+ ## Music Department –  | Kalamazoo College
+ - [https://music.kzoo.edu](https://music.kzoo.edu)
+ - date_published: 2024-05-07T19:22:22.689215+00:00
+
+ ## Office of Religious and Spiritual Life –  | Kalamazoo College
+ - [https://orsl.kzoo.edu](https://orsl.kzoo.edu)
+ - date_published: 2024-05-07T19:25:12.361773+00:00
+
+ ## Outdoor Programs –  | Kalamazoo College
+ - [https://outdoor.kzoo.edu](https://outdoor.kzoo.edu)
+ - date_published: 2024-05-07T19:30:14.043520+00:00
+
+ ## For Parents and Families –  | Kalamazoo College
+ - [https://parents.kzoo.edu](https://parents.kzoo.edu)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Physical Education –  | Kalamazoo College
+ - [https://pe.kzoo.edu](https://pe.kzoo.edu)
+ - date_published: 2024-05-07T19:21:13.896670+00:00
+
+ ## Phi Beta Kappa –  | Kalamazoo College
+ - [https://phibetakappa.kzoo.edu](https://phibetakappa.kzoo.edu)
+ - date_published: 2024-05-07T19:24:59.306343+00:00
+
+ ## Kalamazoo Philharmonia –  | Kalamazoo College
+ - [https://philharmonia.kzoo.edu](https://philharmonia.kzoo.edu)
+ - date_published: 2024-05-07T19:23:19.815414+00:00
+
+ ## Philosophy Department –  | Kalamazoo College
+ - [https://philosophy.kzoo.edu](https://philosophy.kzoo.edu)
+ - date_published: 2024-05-07T19:20:44.980188+00:00
+
+ ## Physics Department –  | Kalamazoo College
+ - [https://physics.kzoo.edu](https://physics.kzoo.edu)
+ - date_published: 2024-05-07T19:20:59.149175+00:00
+
+ ## Political Science –  | Kalamazoo College
+ - [https://politicalscience.kzoo.edu](https://politicalscience.kzoo.edu)
+ - date_published: 2024-05-07T19:22:48.516111+00:00
+
+ ## Pre-Law Advising Program –  | Kalamazoo College
+ - [https://prelawadvising.kzoo.edu](https://prelawadvising.kzoo.edu)
+ - date_published: 2024-05-07T19:21:53.156120+00:00
+
+ ## Office of the Provost –  | Kalamazoo College
+ - [https://provost.kzoo.edu](https://provost.kzoo.edu)
+ - date_published: 2024-05-07T19:23:52.862089+00:00
+
+ ## Psychology Department –  | Kalamazoo College
+ - [https://psychology.kzoo.edu](https://psychology.kzoo.edu)
+ - date_published: 2024-05-07T19:24:00.215974+00:00
+
+ ## Office of the Registrar –  | Kalamazoo College
+ - [https://registrar.kzoo.edu](https://registrar.kzoo.edu)
+ - date_published: 2024-05-07T19:20:42.501618+00:00
+
+ ## Religion Department –  | Kalamazoo College
+ - [https://religion.kzoo.edu](https://religion.kzoo.edu)
+ - date_published: 2024-05-07T19:21:11.743419+00:00
+
+ ## Residential Life –  | Kalamazoo College
+ - [https://reslife.kzoo.edu](https://reslife.kzoo.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Sexual Violence Prevention and Advocacy –  | Kalamazoo College
+ - [https://sexualsafety.kzoo.edu](https://sexualsafety.kzoo.edu)
+ - date_published: 2024-05-07T19:23:48.236571+00:00
+
+ ## Shared Passages Program –  | Kalamazoo College
+ - [https://sharedpassages.kzoo.edu](https://sharedpassages.kzoo.edu)
+ - date_published: 2024-05-07T19:22:34.885488+00:00
+
  ## Sophomore Experience –  | Kalamazoo College
  - [https://sophomore.kzoo.edu](https://sophomore.kzoo.edu)
  - date_published: 2024-05-07T19:23:04.203597+00:00
@@ -3798,213 +4006,4 @@
  ## Southern Oregon University - Challenge Accepted
  - [https://www.sou.edu](https://www.sou.edu)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## Joe Fields' Homepage
- - [https://giam.southernct.edu](https://giam.southernct.edu)
- - date_published: 2024-04-03T07:50:07.239772+00:00
- - tags: ['personal']
-
- ## Inside Southern | Southern Connecticut State University
- - [https://inside.southernct.edu](https://inside.southernct.edu)
- - date_published: 2024-05-12T06:09:14.083361+00:00
-
- ## - OwlConnect @ SCSU
- - [https://owlconnect.southernct.edu](https://owlconnect.southernct.edu)
- - date_published: 2024-05-12T06:09:21.379951+00:00
-
- ## Southern Connecticut State University
- - [https://www.southernct.edu](https://www.southernct.edu)
- - date_published: 2024-05-12T06:09:16.357027+00:00
-
- ## Administrative Guide
- - [https://adminguide.stanford.edu](https://adminguide.stanford.edu)
- - date_published: 2024-05-07T20:25:07.492650+00:00
-
- ## Undergraduate Admission : Stanford University
- - [https://admission.stanford.edu](https://admission.stanford.edu)
- - date_published: 2024-05-07T20:31:08.669167+00:00
-
- ## Artificial Intelligence Index
- - [https://aiindex.stanford.edu](https://aiindex.stanford.edu)
- - date_published: 2023-10-25T18:58:07.854720+00:00
-
- ## Stanford Artificial Intelligence Laboratory
- - [https://ai.stanford.edu](https://ai.stanford.edu)
- - date_published: 2023-10-25T18:58:06.440600+00:00
-
- ## Welcome to the Stanford Alumni Association
- - [http://alumni.stanford.edu](http://alumni.stanford.edu)
- - date_published: 2024-05-07T20:31:05.422665+00:00
-
- ## Kunle Olukotun
- - [http://arsenalfc.stanford.edu](http://arsenalfc.stanford.edu)
- - date_published: 2024-05-01T08:47:35.903404+00:00
-
- ## Stanford Arts
- - [http://arts.stanford.edu](http://arts.stanford.edu)
- - date_published: 2024-05-07T20:30:31.849575+00:00
-
- ## Stanford ASdb Dataset
- - [https://asdb.stanford.edu](https://asdb.stanford.edu)
- - date_published: 2024-05-04T15:11:57.973663+00:00
-
- ## Search Results
- - [http://ask.stanford.edu](http://ask.stanford.edu)
- - date_published: 2024-05-07T20:26:08.500822+00:00
-
- ## Autonomous Systems Laboratory
- - [http://asl.stanford.edu](http://asl.stanford.edu)
- - date_published: 2024-05-07T10:17:56.429005+00:00
-
- ## Associated Students of Stanford University
- - [http://assu.stanford.edu](http://assu.stanford.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Department of Biology
- - [https://biology.stanford.edu](https://biology.stanford.edu)
- - date_published: 2024-05-07T20:29:32.574767+00:00
-
- ## Knight Initiative
- - [https://brainresilience.stanford.edu](https://brainresilience.stanford.edu)
- - date_published: 2024-05-11T11:24:06.122496+00:00
-
- ## Brown Institute
- - [http://brown.stanford.edu](http://brown.stanford.edu)
- - date_published: 2024-05-07T20:27:56.428711+00:00
-
- ## Stanford Searchable Map
- - [https://campus-map.stanford.edu](https://campus-map.stanford.edu)
- - date_published: 2024-05-07T20:25:40.739874+00:00
-
- ## Job Opportunities at Stanford University
- - [https://careersearch.stanford.edu](https://careersearch.stanford.edu)
- - date_published: 2024-05-07T20:30:50.759748+00:00
-
- ## Center for Advanced Study in the Behavioral Sciences
- - [https://casbs.stanford.edu](https://casbs.stanford.edu)
- - date_published: 2024-05-07T20:27:28.196250+00:00
-
- ## Computer Science
- - [http://cf.stanford.edu](http://cf.stanford.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## ChEM-H Building and Neurosciences Building
- - [https://chemhneuro.stanford.edu](https://chemhneuro.stanford.edu)
- - date_published: 2024-05-11T11:24:08.006481+00:00
-
- ## CareWait
- - [https://childcare.stanford.edu](https://childcare.stanford.edu)
- - date_published: 2024-02-08T16:43:24.926878+00:00
-
- ## Clinical Trials
- - [https://clinicaltrials.stanford.edu](https://clinicaltrials.stanford.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Home
- - [http://cocolab.stanford.edu](http://cocolab.stanford.edu)
- - date_published: 2024-05-04T15:15:17.753402+00:00
-
- ## Community
- - [https://community.stanford.edu](https://community.stanford.edu)
- - date_published: 2024-05-07T20:30:52.367842+00:00
-
- ## CPU DB, a complete database of processors for researchers and hobbyists alike
- - [http://cpudb.stanford.edu](http://cpudb.stanford.edu)
- - date_published: 2024-05-12T21:41:30+00:00
-
- ## Stanford CRFM
- - [https://crfm.stanford.edu](https://crfm.stanford.edu)
- - date_published: 2023-10-25T18:58:08.596511+00:00
-
- ## Applied Cryptography Group | Stanford University
- - [https://crypto.stanford.edu](https://crypto.stanford.edu)
- - date_published: 2024-05-02T17:20:35.993261+00:00
-
- ## Stanford University CS231n: Deep Learning for Computer Vision
- - [http://cs231n.stanford.edu](http://cs231n.stanford.edu)
- - date_published: 2024-04-28T04:07:32.746098+00:00
-
- ## CS249i: The Modern Internet
- - [https://cs249i.stanford.edu](https://cs249i.stanford.edu)
- - date_published: 2024-05-04T15:11:51.253843+00:00
-
- ## CS356: Topics in Computer and Network Security
- - [https://cs356.stanford.edu](https://cs356.stanford.edu)
- - date_published: 2024-05-04T15:12:02.488727+00:00
-
- ## Computer Science
- - [https://csd9.sites.stanford.edu](https://csd9.sites.stanford.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Stanford Computer Science Department
- - [http://csl.stanford.edu](http://csl.stanford.edu)
- - date_published: 2024-05-07T20:25:59.570946+00:00
-
- ## Computer Science
- - [https://cs.stanford.edu](https://cs.stanford.edu)
- - date_published: 2023-10-25T11:23:16.227465+00:00
-
- ## Stanford CVA Group - Concurrent VLSI Architecture Group
- - [http://cva.stanford.edu](http://cva.stanford.edu)
- - date_published: 2023-10-25T18:58:09.358599+00:00
-
- ## Cyber Policy Center | FSI
- - [https://cyber.fsi.stanford.edu](https://cyber.fsi.stanford.edu)
- - date_published: 2023-10-25T18:58:18.772573+00:00
-
- ## Center for Internet and Society | The Center for Internet and Society is a leader in the study of the law & policy around the Internet & emerging technologies.
- - [https://cyberlaw.stanford.edu](https://cyberlaw.stanford.edu)
- - date_published: 2023-10-25T18:58:20.662315+00:00
-
- ## Data Science
- - [https://datascience.stanford.edu](https://datascience.stanford.edu)
- - date_published: 2023-11-12T13:46:11.993969+00:00
-
- ## Stanford DAWN · DAWN
- - [https://dawn.cs.stanford.edu](https://dawn.cs.stanford.edu)
- - date_published: 2024-05-07T20:26:54.451434+00:00
-
- ## Home
- - [https://digitaleconomy.stanford.edu](https://digitaleconomy.stanford.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Stanford d.school
- - [https://dschool.stanford.edu](https://dschool.stanford.edu)
- - date_published: 2024-05-01T04:14:47.181085+00:00
-
- ## Stanford Graduate School of Education
- - [https://ed.stanford.edu](https://ed.stanford.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## EE108A Redirect
- - [http://ee108a.stanford.edu](http://ee108a.stanford.edu)
- - date_published: 2024-05-07T20:26:02.994318+00:00
-
- ## https://ee380.stanford.edu
- - [https://ee380.stanford.edu](https://ee380.stanford.edu)
- - date_published: 2024-01-09T03:27:56.799112+00:00
-
- ## Emergency Information | Stanford University
- - [https://emergency.stanford.edu](https://emergency.stanford.edu)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Stanford University School of Engineering
- - [https://engineering.stanford.edu](https://engineering.stanford.edu)
- - date_published: 2024-05-07T20:25:33.144127+00:00
-
- ## Events Calendar
- - [https://events.stanford.edu](https://events.stanford.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Stanford University Explore Courses
- - [https://explorecourses.stanford.edu](https://explorecourses.stanford.edu)
- - date_published: 2024-05-06T23:12:41.668136+00:00
-
- ## Stanford University Bulletin
- - [https://exploredegrees.stanford.edu](https://exploredegrees.stanford.edu)
- - date_published: 2024-05-07T20:25:19.667900+00:00
-
- ## Facts
- - [https://facts.stanford.edu](https://facts.stanford.edu)
- - date_published: 2024-05-07T20:31:11.947829+00:00
 

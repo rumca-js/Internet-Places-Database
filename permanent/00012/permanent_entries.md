@@ -1,3 +1,29 @@
+ ## The Art is Long
+ - [https://multixden.blogspot.com](https://multixden.blogspot.com)
+ - date_published: 2023-10-25T09:10:09.729418+00:00
+ - tags: ['personal']
+
+ ## The Mumpsimus
+ - [http://mumpsimus.blogspot.com](http://mumpsimus.blogspot.com)
+ - date_published: 2024-05-08T06:35:54.032952+00:00
+
+ ## that munanga linguist
+ - [http://munanga.blogspot.com](http://munanga.blogspot.com)
+ - date_published: 2024-05-07T21:54:18.127886+00:00
+
+ ## Metadata
+ - [https://muratbuffalo.blogspot.com](https://muratbuffalo.blogspot.com)
+ - date_published: 2023-10-25T09:10:15.224216+00:00
+ - tags: ['personal']
+
+ ## Blogger
+ - [http://musculoskeletalmri.blogspot.com](http://musculoskeletalmri.blogspot.com)
+ - date_published: 2024-05-04T07:44:51.936825+00:00
+
+ ## To, co mi gra czyli muzyczny blog Piotra K.
+ - [http://musicblog-piotrk.blogspot.com](http://musicblog-piotrk.blogspot.com)
+ - date_published: 2024-05-07T15:31:58.941730+00:00
+
  ## My Biased Coin
  - [http://mybiasedcoin.blogspot.com](http://mybiasedcoin.blogspot.com)
  - date_published: 2024-05-07T16:15:59.968052+00:00
@@ -1620,6 +1646,10 @@
  ## Home | Blue Origin
  - [https://www.blueorigin.com](https://www.blueorigin.com)
  - date_published: 2023-10-25T13:07:05.076275+00:00
+
+ ## Homepage - Blueprint
+ - [https://blueprint2024.com](https://blueprint2024.com)
+ - date_published: 2023-10-31T02:31:11+00:00
 
  ## Saint Louis Specialty Coffee Roaster and Coffee Bar — Blueprint Coffee
  - [https://blueprintcoffee.com](https://blueprintcoffee.com)
@@ -4091,32 +4121,4 @@
  ## Brett Macfarlane
  - [https://www.brettmacfarlane.com](https://www.brettmacfarlane.com)
  - date_published: 2023-10-25T13:12:32.562589+00:00
-
- ## Login - Brevo
- - [https://app.brevo.com](https://app.brevo.com)
- - date_published: 2024-05-01T03:56:37.020101+00:00
-
- ## Login - Brevo
- - [https://app-smtp.brevo.com](https://app-smtp.brevo.com)
- - date_published: 2024-05-01T03:56:32.299753+00:00
-
- ## Brevo Conversations
- - [https://conversations-widget.brevo.com](https://conversations-widget.brevo.com)
- - date_published: 2024-05-06T06:42:00.659266+00:00
-
- ## Brevo API
- - [https://developers.brevo.com](https://developers.brevo.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Brevo (formerly Sendinblue) | Email Marketing, Automation & CRM
- - [https://www.brevo.com](https://www.brevo.com)
- - date_published: 2024-04-29T06:05:48.945423+00:00
-
- ## a Milwaukee Brewers community
- - [http://www.brewcrewball.com](http://www.brewcrewball.com)
- - date_published: 2024-04-29T02:15:13.801688+00:00
-
- ## a Milwaukee Bucks community
- - [http://www.brewhoop.com](http://www.brewhoop.com)
- - date_published: 2024-04-29T02:13:11.777568+00:00
 

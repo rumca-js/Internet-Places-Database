@@ -1,3 +1,15 @@
+ ## Double Dutch | Cash with a cause
+ - [https://doubledutch.cash](https://doubledutch.cash)
+ - date_published: 2024-05-12T06:26:38.987868+00:00
+
+ ## Play – Music lovers, rejoice.
+ - [https://play.cash](https://play.cash)
+ - date_published: 2024-05-09T09:13:14.555722+00:00
+
+ ## Zcash: Privacy-protecting digital currency
+ - [https://z.cash](https://z.cash)
+ - date_published: 2024-05-08T07:04:28.191422+00:00
+
  ## Associació Catalana d'Universitats Públiques | ACUP
  - [http://www.acup.cat](http://www.acup.cat)
  - date_published: 2024-05-07T21:59:15.254400+00:00
@@ -4039,16 +4051,4 @@
  ## t00t.cloud
  - [https://t00t.cloud](https://t00t.cloud)
  - date_published: 2024-05-04T00:00:00+00:00
-
- ## TiDB Serverless: Cost-Efficient, Simple, Modern MySQL That Scales Effortlessly
- - [https://tidb.cloud](https://tidb.cloud)
- - date_published: 2024-05-09T05:54:59.628086+00:00
-
- ## The Most Advanced WYSIWYG Editor | Trusted Rich Text Editor | TinyMCE
- - [https://cdn.tiny.cloud](https://cdn.tiny.cloud)
- - date_published: 2024-04-30T06:48:40.428055+00:00
-
- ## The Most Advanced WYSIWYG Editor | Trusted Rich Text Editor | TinyMCE
- - [https://www.tiny.cloud](https://www.tiny.cloud)
- - date_published: 2024-05-06T13:15:47.371760+00:00
 

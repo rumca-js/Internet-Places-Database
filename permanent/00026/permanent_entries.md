@@ -1,3 +1,64 @@
+ ## Gregor Ojstersek
+ - [https://gregorojstersek.gumroad.com](https://gregorojstersek.gumroad.com)
+ - date_published: 2024-05-09T06:24:38.836928+00:00
+
+ ## Gumroad – Sell what you know and see what sticks
+ - [https://gumroad.com](https://gumroad.com)
+ - date_published: 2024-04-07T06:00:14+00:00
+ - tags: ['digital marketplace']
+
+ ## Subscribe to Hani
+ - [https://hanibiarie.gumroad.com](https://hanibiarie.gumroad.com)
+ - date_published: 2024-05-13T02:44:28.385686+00:00
+
+ ## Subscribe to Mike Yu on Gumroad
+ - [https://immikeyu.gumroad.com](https://immikeyu.gumroad.com)
+ - date_published: 2024-05-13T02:44:33.443408+00:00
+
+ ## Jose Munoz Matos
+ - [https://josemunozmatos.gumroad.com](https://josemunozmatos.gumroad.com)
+ - date_published: 2024-05-10T02:47:43.087026+00:00
+
+ ## Kevin Kelly
+ - [https://kevinkelly.gumroad.com](https://kevinkelly.gumroad.com)
+ - date_published: 2024-05-08T09:18:27.935688+00:00
+
+ ## Subscribe to ksafjanuser
+ - [https://ksafjanuser.gumroad.com](https://ksafjanuser.gumroad.com)
+ - date_published: 2024-04-28T06:22:57.359825+00:00
+
+ ## Merely Sounds
+ - [https://merelysounds.gumroad.com](https://merelysounds.gumroad.com)
+ - date_published: 2024-05-02T13:46:43.585774+00:00
+
+ ## Subscribe to Martin Finkel on Gumroad
+ - [https://mfkl.gumroad.com](https://mfkl.gumroad.com)
+ - date_published: 2024-05-04T15:16:48.107694+00:00
+
+ ## Subscribe to MineBricks on Gumroad
+ - [https://minebricks.gumroad.com](https://minebricks.gumroad.com)
+ - date_published: 2024-05-04T08:59:17.948092+00:00
+
+ ## Subscribe to OpenFaaS Store on Gumroad
+ - [https://openfaas.gumroad.com](https://openfaas.gumroad.com)
+ - date_published: 2024-05-06T22:00:33.508169+00:00
+
+ ## Subscribe to Prolost on Gumroad
+ - [https://prolost.gumroad.com](https://prolost.gumroad.com)
+ - date_published: 2024-05-07T09:34:40.733323+00:00
+
+ ## Subscribe to Rasika Singal on Gumroad
+ - [https://rasikasingal.gumroad.com](https://rasikasingal.gumroad.com)
+ - date_published: 2024-05-04T08:34:31.373864+00:00
+
+ ## Subscribe to Refractify on Gumroad
+ - [https://refractify.gumroad.com](https://refractify.gumroad.com)
+ - date_published: 2024-05-09T07:25:27.677748+00:00
+
+ ## Subscribe to John Allison on Gumroad
+ - [https://scarygoround.gumroad.com](https://scarygoround.gumroad.com)
+ - date_published: 2024-05-13T03:17:44.775748+00:00
+
  ## Scott Nesbitt
  - [https://scottnesbitt.gumroad.com](https://scottnesbitt.gumroad.com)
  - date_published: 2024-05-10T06:18:11.962943+00:00
@@ -4043,67 +4104,4 @@
  ## Hollywood Life
  - [https://hollywoodlife.com](https://hollywoodlife.com)
  - date_published: 2024-05-01T04:19:05.421646+00:00
-
- ## Hollywood - Multimedia Application Layer
- - [https://www.hollywood-mal.com](https://www.hollywood-mal.com)
- - date_published: 2024-01-09T02:38:17.146607+00:00
-
- ## The Hollywood Reporter
- - [https://hollywoodreporter.com](https://hollywoodreporter.com)
- - date_published: 2024-04-28T05:41:24.176840+00:00
-
- ## The Hollywood Reporter – Movie news, TV news, awards news, lifestyle news, business news and more from The Hollywood Reporter.
- - [https://www.hollywoodreporter.com](https://www.hollywoodreporter.com)
- - date_published: 2023-10-25T10:51:28.356602+00:00
- - tags: ['movie news']
-
- ## Holman Ranch
- - [http://www.holmanranch.com](http://www.holmanranch.com)
- - date_published: 2024-05-15T14:24:58.042230+00:00
-
- ## Holm Security | Next-Gen Vulnerability Management
- - [https://www.holmsecurity.com](https://www.holmsecurity.com)
- - date_published: 2024-05-07T23:32:16.767330+00:00
-
- ## Holmusk
- - [https://www.holmusk.com](https://www.holmusk.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Hologic - Discover the Science of Sure
- - [https://www.hologic.com](https://www.hologic.com)
- - date_published: 2024-05-11T07:35:07.205461+00:00
-
- ## Handling Source in a Database
- - [https://holonforth.com](https://holonforth.com)
- - date_published: 2023-10-25T15:00:26.928600+00:00
-
- ## HolonIQ. Global Impact Intelligence
- - [https://www.holoniq.com](https://www.holoniq.com)
- - date_published: 2023-10-25T15:00:30.316249+00:00
-
- ## Adrian Holovaty
- - [https://www.holovaty.com](https://www.holovaty.com)
- - date_published: 2023-10-25T09:20:38.353317+00:00
- - tags: ['personal']
-
- ## Tools and inspiration for a more meaningful life.
- - [http://www.holstee.com](http://www.holstee.com)
- - date_published: 2024-05-12T05:42:09.092079+00:00
-
- ## Holt Integrated Circuits
- - [https://holtic.com](https://holtic.com)
- - date_published: 2024-04-25T13:06:46+00:00
- - tags: ['arinc', 'avionics', 'electronic parts']
-
- ## Holt Integrated Circuits
- - [https://www.holtic.com](https://www.holtic.com)
- - date_published: 2024-05-30T15:40:32.624229+00:00
-
- ## Holvi Blog for Makers and Doers
- - [https://blog.holvi.com](https://blog.holvi.com)
- - date_published: 2024-05-01T06:10:57.403243+00:00
-
- ## Business account for solopreneurs and teams | Holvi Europe
- - [https://www.holvi.com](https://www.holvi.com)
- - date_published: 2024-05-01T06:26:56.378298+00:00
 

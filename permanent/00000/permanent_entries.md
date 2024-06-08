@@ -2969,6 +2969,11 @@
  - [https://xeek.ai](https://xeek.ai)
  - date_published: 2024-03-15T00:00:00+00:00
 
+ ## Xin Wang's Personal Homepage
+ - [https://xinw.ai](https://xinw.ai)
+ - date_published: 2024-06-07T02:02:44.950947+00:00
+ - tags: ['personal']
+
  ## xpln.ai - Améliorez l’efficacité de vos campagnes publicitaires digitales
  - [https://xpln.ai](https://xpln.ai)
  - date_published: 2024-01-29T00:00:00+00:00
@@ -4069,8 +4074,4 @@
  ## Mu
  - [https://mu.app](https://mu.app)
  - date_published: 2023-10-25T11:47:22.709061+00:00
-
- ## MuffinTerm • A Terminal for the Classic BBS Experience
- - [https://muffinterm.app](https://muffinterm.app)
- - date_published: 2024-05-08T04:06:32.485774+00:00
 

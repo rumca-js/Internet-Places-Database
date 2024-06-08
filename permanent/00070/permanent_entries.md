@@ -1,3 +1,212 @@
+ ## Sign in - Matomo
+ - [https://piwik.inria.fr](https://piwik.inria.fr)
+ - date_published: 2024-05-08T00:24:36.246043+00:00
+
+ ## Inria 2023 teams activities reports
+ - [https://radar.inria.fr](https://radar.inria.fr)
+ - date_published: 2024-05-08T00:24:57.097893+00:00
+
+ ## Test Page for the HTTP Server on Fedora
+ - [https://repo-sam.inria.fr](https://repo-sam.inria.fr)
+ - date_published: 2024-05-10T05:44:03.917525+00:00
+
+ ## Team.inria.fr – Service d'hébergement pour sites d'équipe, équipe projet, équipe associée
+ - [https://team.inria.fr](https://team.inria.fr)
+ - date_published: 2024-04-28T03:54:29.674190+00:00
+
+ ## Accueil | Inria
+ - [https://www.inria.fr](https://www.inria.fr)
+ - date_published: 2024-05-08T00:24:32.864587+00:00
+
+ ## Centre Inria d'Université Côte d'Azur | Inria
+ - [https://www-sop.inria.fr](https://www-sop.inria.fr)
+ - date_published: 2023-10-25T19:15:12.301697+00:00
+
+ ## Inria Alumni - Vous avez une expérience Inria ? Rejoignez-nous !
+ - [https://www.inria-alumni.fr](https://www.inria-alumni.fr)
+ - date_published: 2024-05-08T00:24:52.645824+00:00
+
+ ## Accueil − Insee − Institut national de la statistique et des études économiques | Insee
+ - [https://www.insee.fr](https://www.insee.fr)
+ - date_published: 2024-05-08T09:03:42.624724+00:00
+
+ ## Intel | Solutions pour centres de données, IoT et innovation PC
+ - [https://www.intel.fr](https://www.intel.fr)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## iPerf - The TCP, UDP and SCTP network bandwidth measurement tool
+ - [https://iperf.fr](https://iperf.fr)
+ - date_published: 2024-05-11T05:40:56.606919+00:00
+
+ ## ipfyx blog
+ - [https://ipfyx.fr](https://ipfyx.fr)
+ - date_published: 2024-01-09T03:30:03.245945+00:00
+
+ ## Institut de Physique Théorique
+ - [https://www.ipht.fr](https://www.ipht.fr)
+ - date_published: 2024-05-12T05:14:52.226272+00:00
+
+ ## Institut Polytechnique de Paris
+ - [https://www.ip-paris.fr](https://www.ip-paris.fr)
+ - date_published: 2024-05-06T23:41:21.881077+00:00
+
+ ## Le Laboratoire des Sciences du Climat et de l'Environnement
+ - [https://www.lsce.ipsl.fr](https://www.lsce.ipsl.fr)
+ - date_published: 2024-05-12T05:15:15.559613+00:00
+
+ ## École de commerce agroalimentaire et de la Naturalité à Avignon • Isema
+ - [https://www.isema.fr](https://www.isema.fr)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Accueil - Galerie Itinerrance
+ - [http://www.itinerrance.fr](http://www.itinerrance.fr)
+ - date_published: 2024-05-04T08:27:53.757497+00:00
+
+ ## Accueil | JCDecaux
+ - [http://www.jcdecaux.fr](http://www.jcdecaux.fr)
+ - date_published: 2024-05-01T01:56:33.076681+00:00
+
+ ## Joueurs Info Service
+ - [https://joueurs-info-service.fr](https://joueurs-info-service.fr)
+ - date_published: 2024-05-11T07:35:50.370540+00:00
+
+ ## Julien Brionne | Senior Product Manager
+ - [https://julien-brionne.fr](https://julien-brionne.fr)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Julien Brionne | Senior Product Manager
+ - [https://www.julien-brionne.fr](https://www.julien-brionne.fr)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Karmine Corp
+ - [http://karminecorp.fr](http://karminecorp.fr)
+ - date_published: 2024-03-10T19:37:11.370900+00:00
+
+ ## Karmine Corp
+ - [https://www.karminecorp.fr](https://www.karminecorp.fr)
+ - date_published: 2024-05-09T06:24:52.621157+00:00
+
+ ## Solutions de cybersécurité pour particuliers et entreprises | Kaspersky
+ - [https://www.kaspersky.fr](https://www.kaspersky.fr)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Kermorgant Photographie
+ - [https://kermorgant.fr](https://kermorgant.fr)
+ - date_published: 2024-05-12T06:15:52.582228+00:00
+
+ ## Index of /cours
+ - [https://kleinbauer.fr](https://kleinbauer.fr)
+ - date_published: 2024-05-09T07:48:31.491891+00:00
+
+ ## Accueil | Knds
+ - [https://www.knds.fr](https://www.knds.fr)
+ - date_published: 2024-04-29T04:46:32.785522+00:00
+
+ ## k-sper.fr – On joue à cache-cache ?
+ - [https://www.k-sper.fr](https://www.k-sper.fr)
+ - date_published: 2024-04-10T18:33:12.013047+00:00
+
+ ## Boutique Officielle Raspberry PI- Vente cartes Arduino, gaming et robotique
+ - [https://kubii.fr](https://kubii.fr)
+ - date_published: 2023-12-11T17:25:33.070964+00:00
+
+ ## Boutique Officielle Raspberry PI- Vente cartes Arduino, gaming et robotique
+ - [https://www.kubii.fr](https://www.kubii.fr)
+ - date_published: 2024-05-10T04:12:11.993822+00:00
+
+ ## Page d'accueil
+ - [https://www.labanquepostale.fr](https://www.labanquepostale.fr)
+ - date_published: 2024-05-01T06:16:27.794578+00:00
+
+ ## La bonne anime!
+ - [http://labonneanime.fr](http://labonneanime.fr)
+ - date_published: 2024-05-08T00:16:19.254939+00:00
+
+ ## https://dept-info.labri.fr
+ - [https://dept-info.labri.fr](https://dept-info.labri.fr)
+ - date_published: 2024-01-09T03:30:03.853411+00:00
+
+ ## La Coopérative des Internets - Agence numérique responsable à Lyon
+ - [https://www.lacooperativedesinternets.fr](https://www.lacooperativedesinternets.fr)
+ - date_published: 2024-05-08T09:00:15.457605+00:00
+
+ ## Lagardère Publicité News – Lagardère Publicité News est la régie publicitaire des marques Europe 1, Paris Match, Le Journal du Dimanche, Europe 2, RFM, OÜI FM (en Île-de-France), FG Radio (en Île-de-France et à Nice), Radio Meuh, Radio Public Santé et Replay New.
+ - [https://www.lagarderepublicitenews.fr](https://www.lagarderepublicitenews.fr)
+ - date_published: 2024-05-08T00:23:43.353038+00:00
+
+ ## Jeux en Ligne Gratuits - Lagged.fr
+ - [https://lagged.fr](https://lagged.fr)
+ - date_published: 2024-05-04T11:46:14.775591+00:00
+
+ ## Lalouvesc
+ - [https://www.lalouvesc.fr](https://www.lalouvesc.fr)
+ - date_published: 2024-05-10T04:32:35.210579+00:00
+
+ ## FAQ L'Identité Numérique
+ - [https://aide.lidentitenumerique.laposte.fr](https://aide.lidentitenumerique.laposte.fr)
+ - date_published: 2024-05-01T06:41:50.054972+00:00
+
+ ## https://www.lauragais-patrimoine.fr
+ - [https://www.lauragais-patrimoine.fr](https://www.lauragais-patrimoine.fr)
+ - date_published: 2024-02-08T21:46:07.549352+00:00
+
+ ## La Vie – Actualité, Débat, Christianisme, Idées, Débats, Spiritualité
+ - [https://www.lavie.fr](https://www.lavie.fr)
+ - date_published: 2024-05-08T00:30:47.073894+00:00
+
+ ## Homepage - Lazard Frères Gestion  - France (EN)
+ - [https://www.lazardfreresgestion.fr](https://www.lazardfreresgestion.fr)
+ - date_published: 2024-05-04T12:02:44.094032+00:00
+
+ ## LBKE - From Data To Knowledge
+ - [https://www.lbke.fr](https://www.lbke.fr)
+ - date_published: 2024-05-08T06:19:30.444146+00:00
+
+ ## Lycée public, professionnel et technologique : de la Seconde à la licence à Paris 14
+ - [https://www.ldmraspail.fr](https://www.ldmraspail.fr)
+ - date_published: 2024-05-07T10:04:22.550740+00:00
+
+ ## leboncoin, site de petites annonces gratuites
+ - [https://www.leboncoin.fr](https://www.leboncoin.fr)
+ - date_published: 2024-05-01T01:56:58.944333+00:00
+
+ ## Le Coq de Wall Street – Investissement et Liberté Financière
+ - [https://lecoqdewallst.fr](https://lecoqdewallst.fr)
+ - date_published: 2023-12-21T18:50:33.754796+00:00
+ - tags: ['personal']
+
+ ## Espace Personnel Le Particulier - Connectez-vous à votre compte client
+ - [https://abo.leparticulier.lefigaro.fr](https://abo.leparticulier.lefigaro.fr)
+ - date_published: 2024-05-08T00:25:37.163231+00:00
+
+ ## Abonnement Le Figaro - Découvrez nos offres
+ - [https://abonnement.lefigaro.fr](https://abonnement.lefigaro.fr)
+ - date_published: 2023-12-18T17:12:57.675595+00:00
+
+ ## https://adresses-incontournables.madame.lefigaro.fr
+ - [https://adresses-incontournables.madame.lefigaro.fr](https://adresses-incontournables.madame.lefigaro.fr)
+ - date_published: 2024-05-08T00:29:29.638843+00:00
+
+ ## Publiez vos annonces légales avec Le Figaro au meilleur prix – Annonces légales du Figaro
+ - [https://annonces-legales.lefigaro.fr](https://annonces-legales.lefigaro.fr)
+ - date_published: 2023-12-18T17:10:36.151946+00:00
+
+ ## Trouvez et prenez rendez-vous avec votre médecin sur Le Figaro Santé
+ - [http://annuaire.lefigaro.fr](http://annuaire.lefigaro.fr)
+ - date_published: 2024-05-02T10:13:56.458399+00:00
+
+ ## Access Denied
+ - [https://api-graphql.lefigaro.fr](https://api-graphql.lefigaro.fr)
+ - date_published: 2023-12-18T17:11:36.827228+00:00
+
+ ## Les applications du Figaro
+ - [https://applications-mobiles.lefigaro.fr](https://applications-mobiles.lefigaro.fr)
+ - date_published: 2023-12-22T00:00:00+00:00
+
+ ## Le Figaro - Sitemap
+ - [https://articles.lefigaro.fr](https://articles.lefigaro.fr)
+ - date_published: 2023-12-18T17:12:16.400645+00:00
+
  ## Welcome to nginx!
  - [https://assets.proprietes.lefigaro.fr](https://assets.proprietes.lefigaro.fr)
  - date_published: 2024-05-08T00:30:08.178444+00:00
@@ -3839,214 +4048,4 @@
  ## Take Back Day
  - [https://takebackday.dea.gov](https://takebackday.dea.gov)
  - date_published: 2024-05-12T06:40:38.440674+00:00
-
- ## Home | DEA.gov
- - [https://www.dea.gov](https://www.dea.gov)
- - date_published: 2024-04-04T02:34:26.560996+00:00
- - tags: ['government', 'dea']
-
- ## Home
- - [https://business.defense.gov](https://business.defense.gov)
- - date_published: 2024-05-08T02:44:25.812495+00:00
-
- ## Home
- - [https://comptroller.defense.gov](https://comptroller.defense.gov)
- - date_published: 2024-05-08T02:44:28.228068+00:00
-
- ## Chief Information Officer - U.S. Department of Defense
- - [https://dodcio.defense.gov](https://dodcio.defense.gov)
- - date_published: 2024-01-09T03:30:24.563437+00:00
-
- ## Legacy Homepage
- - [https://dod.defense.gov](https://dod.defense.gov)
- - date_published: 2024-05-08T02:43:06.081378+00:00
-
- ## Privacy, Civil Liberties and FOIA Directorate
- - [https://dpcld.defense.gov](https://dpcld.defense.gov)
- - date_published: 2024-05-08T02:43:40.510443+00:00
-
- ## U.S. Department of Defense
- - [https://media.defense.gov](https://media.defense.gov)
- - date_published: 2023-10-25T19:19:33.802662+00:00
-
- ## DoD Open Government
- - [https://open.defense.gov](https://open.defense.gov)
- - date_published: 2024-05-08T02:43:10.182653+00:00
-
- ## Home
- - [https://policy.defense.gov](https://policy.defense.gov)
- - date_published: 2024-05-08T02:44:29.529233+00:00
-
- ## Office Of The Under Secretary of Defense For Personnel & Readiness | Home
- - [https://prhome.defense.gov](https://prhome.defense.gov)
- - date_published: 2024-05-08T02:43:00.505172+00:00
-
- ## U.S. Department of Defense
- - [https://www.defense.gov](https://www.defense.gov)
- - date_published: 2023-10-25T19:19:38.874037+00:00
- - tags: ['military', 'security intelligence']
-
- ## Home - Delaware General Assembly
- - [https://legis.delaware.gov](https://legis.delaware.gov)
- - date_published: 2023-10-25T19:19:49.711045+00:00
-
- ## Delta County
- - [https://deltacountymi.gov](https://deltacountymi.gov)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Home | Homeland Security
- - [https://dhs.gov](https://dhs.gov)
- - date_published: 2024-05-08T02:47:37.258099+00:00
-
- ## CBP DTOPS
- - [https://dtops.cbp.dhs.gov](https://dtops.cbp.dhs.gov)
- - date_published: 2024-05-06T22:41:14.636981+00:00
-
- ## Home | Homeland Security
- - [https://www.dhs.gov](https://www.dhs.gov)
- - date_published: 2023-10-25T19:19:55.186821+00:00
-
- ## Home | Office of Inspector General
- - [https://www.oig.dhs.gov](https://www.oig.dhs.gov)
- - date_published: 2024-05-08T02:37:10.705872+00:00
-
- ## USWDS: The United States Web Design System | U.S. Web Design System (USWDS)
- - [https://designsystem.digital.gov](https://designsystem.digital.gov)
- - date_published: 2023-10-25T19:20:02.198655+00:00
-
- ## Digital.gov
- - [https://digital.gov](https://digital.gov)
- - date_published: 2024-05-09T08:30:21.565024+00:00
-
- ## U.S. Web Design System: A design system for the federal government
- - [https://v1.designsystem.digital.gov](https://v1.designsystem.digital.gov)
- - date_published: 2024-05-08T02:44:54.667139+00:00
-
- ## Home | disasterassistance.gov
- - [https://www.disasterassistance.gov](https://www.disasterassistance.gov)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Home
- - [https://www.dni.gov](https://www.dni.gov)
- - date_published: 2023-10-25T19:20:05.412646+00:00
-
- ## Electronic FOIA
- - [https://efoia.bis.doc.gov](https://efoia.bis.doc.gov)
- - date_published: 2024-05-08T02:45:17.572655+00:00
-
- ## Commerce Research Library: Commerce Research Library - Home: Home
- - [http://library.doc.gov](http://library.doc.gov)
- - date_published: 2024-05-08T02:37:20.476351+00:00
-
- ## Homepage
- - [http://osec.doc.gov](http://osec.doc.gov)
- - date_published: 2024-05-08T02:34:51.691213+00:00
-
- ## BIS SNAP-R Exporter Web Application
- - [https://snapr.bis.doc.gov](https://snapr.bis.doc.gov)
- - date_published: 2024-05-08T02:45:19.861609+00:00
-
- ## BIS Website
- - [https://www.bis.doc.gov](https://www.bis.doc.gov)
- - date_published: 2023-10-25T19:20:19.432638+00:00
-
- ## Office of Inspector General
- - [https://www.oig.doc.gov](https://www.oig.doc.gov)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Homepage
- - [http://www.osec.doc.gov](http://www.osec.doc.gov)
- - date_published: 2024-05-08T02:34:56.127351+00:00
-
- ## Home — DOE Directives, Guidance, and Delegations
- - [https://www.directives.doe.gov](https://www.directives.doe.gov)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Home
- - [https://revenuedata.doi.gov](https://revenuedata.doi.gov)
- - date_published: 2024-05-06T17:11:57.313027+00:00
-
- ## U.S. Department of the Interior
- - [https://www.doi.gov](https://www.doi.gov)
- - date_published: 2024-05-01T08:10:33.171434+00:00
-
- ## Attention Required! | Cloudflare
- - [https://dojmt.gov](https://dojmt.gov)
- - date_published: 2024-05-01T03:34:43.583096+00:00
-
- ## Home
- - [https://blog.dol.gov](https://blog.dol.gov)
- - date_published: 2024-05-08T02:45:41.015499+00:00
-
- ## Redirect
- - [https://webapps.dol.gov](https://webapps.dol.gov)
- - date_published: 2024-05-08T02:45:31.998974+00:00
-
- ## Home | U.S. Department of Labor
- - [https://www.dol.gov](https://www.dol.gov)
- - date_published: 2023-10-25T19:20:24.712207+00:00
-
- ## Office of Inspector General - U.S. Department of Labor
- - [https://www.oig.dol.gov](https://www.oig.dol.gov)
- - date_published: 2024-05-08T02:35:04.001248+00:00
-
- ## Federal Highway Administration
- - [https://highways.dot.gov](https://highways.dot.gov)
- - date_published: 2023-10-25T19:20:28.006537+00:00
-
- ## Home - LTBP InfoBridge
- - [https://infobridge.fhwa.dot.gov](https://infobridge.fhwa.dot.gov)
- - date_published: 2024-05-08T02:45:55.684362+00:00
-
- ## Manual on Uniform Traffic Control Devices (MUTCD) - FHWA
- - [https://mutcd.fhwa.dot.gov](https://mutcd.fhwa.dot.gov)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## FHWA Operations
- - [https://ops.fhwa.dot.gov](https://ops.fhwa.dot.gov)
- - date_published: 2024-05-08T02:45:57.636581+00:00
-
- ## Federal Railroad Administration
- - [https://railroads.dot.gov](https://railroads.dot.gov)
- - date_published: 2024-05-12T07:28:45.336733+00:00
-
- ## Safety | FHWA
- - [https://safety.fhwa.dot.gov](https://safety.fhwa.dot.gov)
- - date_published: 2024-05-16T02:46:44.197723+00:00
-
- ## Departmental Office of Civil Rights | US Department of Transportation
- - [https://www.civilrights.dot.gov](https://www.civilrights.dot.gov)
- - date_published: 2024-05-08T02:45:53.154137+00:00
-
- ## Federal Highway Administration
- - [https://www.fhwa.dot.gov](https://www.fhwa.dot.gov)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Federal Motor Carrier Safety Administration
- - [https://www.fmcsa.dot.gov](https://www.fmcsa.dot.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Maritime Administration
- - [https://www.maritime.dot.gov](https://www.maritime.dot.gov)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## National Highway Institute | Home
- - [https://www.nhi.fhwa.dot.gov](https://www.nhi.fhwa.dot.gov)
- - date_published: 2024-05-08T02:45:59.170449+00:00
-
- ## Home | NHTSA
- - [http://www-odi.nhtsa.dot.gov](http://www-odi.nhtsa.dot.gov)
- - date_published: 2024-05-11T08:19:23.304550+00:00
-
- ## Home | DOT OIG
- - [https://www.oig.dot.gov](https://www.oig.dot.gov)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Pipeline and Hazardous Materials Safety Administration
- - [https://www.phmsa.dot.gov](https://www.phmsa.dot.gov)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Great Lakes St. Lawrence Seaway Development Corporation
- - [https://www.seaway.dot.gov](https://www.seaway.dot.gov)
- - date_published: 2024-03-22T00:00:00+00:00
 

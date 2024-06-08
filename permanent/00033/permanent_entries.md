@@ -1,3 +1,96 @@
+ ## Client Portal | Macify.com
+ - [https://my.macify.com](https://my.macify.com)
+ - date_published: 2024-05-20T02:46:37.969978+00:00
+
+ ## MacInTouch – timely, accurate info since 1985
+ - [https://www.macintouch.com](https://www.macintouch.com)
+ - date_published: 2024-01-23T16:31:45.602470+00:00
+
+ ## MacKiDo - Mac Information & More
+ - [https://www.mackido.com](https://www.mackido.com)
+ - date_published: 2024-04-28T01:59:38.978044+00:00
+
+ ## MACKIE
+ - [https://mackie.com](https://mackie.com)
+ - date_published: 2024-05-02T12:44:54.505148+00:00
+
+ ## Home
+ - [https://macmartine.com](https://macmartine.com)
+ - date_published: 2024-05-12T05:41:32.197356+00:00
+
+ ## Home
+ - [https://www.macmartine.com](https://www.macmartine.com)
+ - date_published: 2007-01-01T00:00:00+00:00
+
+ ## Homepage - Tradebooks for Courses
+ - [https://academic.macmillan.com](https://academic.macmillan.com)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## https://read.macmillan.com
+ - [https://read.macmillan.com](https://read.macmillan.com)
+ - date_published: 2023-12-19T05:35:05.029547+00:00
+
+ ## Macmillan Sustainability – Sustainability Is More Than an Aspiration. It’s an Essential Part of Our Mission.
+ - [https://sustainability.macmillan.com](https://sustainability.macmillan.com)
+ - date_published: 2024-05-04T13:45:21.455301+00:00
+
+ ## https://us.macmillan.com
+ - [https://us.macmillan.com](https://us.macmillan.com)
+ - date_published: 2024-01-22T08:33:27.805103+00:00
+
+ ## Welcome to Macmillan Education Customer Support
+ - [http://www.macmillandictionary.com](http://www.macmillandictionary.com)
+ - date_published: 2024-05-07T15:45:01.934285+00:00
+
+ ## Macmillan Teaching Learning Community
+ - [https://community.macmillanlearning.com](https://community.macmillanlearning.com)
+ - date_published: 2023-10-25T15:53:25.295893+00:00
+
+ ## Macmillan Learning US | Textbooks & Resources for Higher Education
+ - [https://go.macmillanlearning.com](https://go.macmillanlearning.com)
+ - date_published: 2024-05-04T13:45:07.753180+00:00
+
+ ## Macmillan Learning Student Store | Rent or Buy Textbooks
+ - [https://store.macmillanlearning.com](https://store.macmillanlearning.com)
+ - date_published: 2024-05-04T13:45:13.700801+00:00
+
+ ## Macmillan Learning US | Textbooks & Resources for Higher Education
+ - [https://www.macmillanlearning.com](https://www.macmillanlearning.com)
+ - date_published: 2024-05-04T13:45:03.526995+00:00
+
+ ## home page | macmonta
+ - [https://macmonta.com](https://macmonta.com)
+ - date_published: 2024-01-26T22:23:45.915149+00:00
+
+ ## The Mac Observer
+ - [https://www.macobserver.com](https://www.macobserver.com)
+ - date_published: 2024-04-15T22:18:58.162633+00:00
+ - tags: ['apple news', 'tech news']
+
+ ## EU Notice | The Telegraph
+ - [https://jobs.macon.com](https://jobs.macon.com)
+ - date_published: 2024-05-04T13:45:43.362647+00:00
+
+ ## Macon Breaking News & Crime | Macon Telegraph
+ - [https://macon.com](https://macon.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Macon Breaking News & Crime | Macon Telegraph
+ - [https://www.macon.com](https://www.macon.com)
+ - date_published: 2023-10-25T15:53:29.296276+00:00
+
+ ## Mac OS 9 Lives - Home
+ - [http://macos9lives.com](http://macos9lives.com)
+ - date_published: 2024-05-04T13:40:55.276622+00:00
+
+ ## macOS Automation
+ - [https://macosxautomation.com](https://macosxautomation.com)
+ - date_published: 2024-05-04T13:45:57.375018+00:00
+
+ ## macOS Automation
+ - [https://www.macosxautomation.com](https://www.macosxautomation.com)
+ - date_published: 2023-10-25T15:53:32.819790+00:00
+
  ## Macworld
  - [http://www.macosxhints.com](http://www.macosxhints.com)
  - date_published: 2024-05-04T07:59:29.912709+00:00
@@ -4025,97 +4118,4 @@
  ## National, World & Politics News |  McClatchy Washington Bureau
  - [https://www.mcclatchydc.com](https://www.mcclatchydc.com)
  - date_published: 2024-03-14T12:26:19.798061+00:00
-
- ## 500 | undefined
- - [https://www.mcclatchy-partners.com](https://www.mcclatchy-partners.com)
- - date_published: 2024-04-28T06:11:02.503166+00:00
-
- ## a San Francisco Giants community
- - [http://www.mccoveychronicles.com](http://www.mccoveychronicles.com)
- - date_published: 2024-04-29T02:12:28.263398+00:00
-
- ## McCulloch Group
- - [https://resources.mccullochgroup.com](https://resources.mccullochgroup.com)
- - date_published: 2024-05-07T10:15:53.066815+00:00
-
- ## MCD BOOKS
- - [https://www.mcdbooks.com](https://www.mcdbooks.com)
- - date_published: 2024-04-28T05:13:51.973827+00:00
-
- ## Akun Slot Demo Anti Lag Mirip Asli x500 Maxwin PG Soft Pragmatic Play Zeus Mahjong Anti Rungkad
- - [https://mcdeliveryatmcdonalds.com](https://mcdeliveryatmcdonalds.com)
- - date_published: 2024-05-04T14:49:15.369444+00:00
-
- ## McDonald's Restaurant Global Careers
- - [https://careers.mcdonalds.com](https://careers.mcdonalds.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Home | McDonald’s Corporation
- - [https://corporate.mcdonalds.com](https://corporate.mcdonalds.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## McDonald's Restaurant Careers in the US
- - [https://restaurantjobs.mcdonalds.com](https://restaurantjobs.mcdonalds.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## McDonald's: Burgers, Fries & More. Quality Ingredients.
- - [https://www.mcdonalds.com](https://www.mcdonalds.com)
- - date_published: 2023-11-01T08:42:28.940798+00:00
-
- ## McDonald's: Burgers, Fries & More. Quality Ingredients.
- - [http://www.mcdonaldsarabia.com](http://www.mcdonaldsarabia.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## mcdonaldsjustforyou.com
- - [http://www.mcdonaldsjustforyou.com](http://www.mcdonaldsjustforyou.com)
- - date_published: 2024-05-04T14:55:25.121462+00:00
-
- ## مونت كارلو الدولية MCD - أخبار عربية, أبراج, برامج متنوعة
- - [https://www.mc-doualiya.com](https://www.mc-doualiya.com)
- - date_published: 2024-05-04T06:59:11.404343+00:00
-
- ## - McFarland
- - [https://mcfarlandbooks.com](https://mcfarlandbooks.com)
- - date_published: 2017-12-13T07:56:24+00:00
-
- ## Dan McKinley :: Math, Programming, and Minority Reports
- - [https://mcfunley.com](https://mcfunley.com)
- - date_published: 2023-10-25T15:59:38.297240+00:00
-
- ## McGST
- - [https://mcgst.com](https://mcgst.com)
- - date_published: 2023-10-25T15:59:41.737647+00:00
-
- ## McDonald's Restaurant Careers in the US
- - [https://jobs.mchire.com](https://jobs.mchire.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## MCH170
- - [http://mchtools.com](http://mchtools.com)
- - date_published: 2024-05-04T08:41:04.712175+00:00
-
- ## Maersk Container Industry - Maersk Container Industry
- - [https://www.mcicontainers.com](https://www.mcicontainers.com)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Ian McKellen | Official Home Page | Acting | Activism
- - [https://www.mckellen.com](https://www.mckellen.com)
- - date_published: 2024-04-26T17:56:57+00:00
- - tags: ['actor']
-
- ## Home
- - [https://mobileservices.mckinsey.com](https://mobileservices.mckinsey.com)
- - date_published: 2024-05-04T14:55:37.179158+00:00
-
- ## Global management consulting | McKinsey & Company
- - [https://www.mckinsey.com](https://www.mckinsey.com)
- - date_published: 2023-10-25T15:59:45.217952+00:00
-
- ## The McKittrick Hotel | Home of Sleep No More NYC & Gallow Green
- - [https://mckittrickhotel.com](https://mckittrickhotel.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## McKnight's Long Term Care News
- - [https://directory.mcknights.com](https://directory.mcknights.com)
- - date_published: 2024-05-04T14:56:24.863542+00:00
 

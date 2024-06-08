@@ -1,3 +1,112 @@
+ ## Tile Art Design
+ - [https://nans-path.squarespace.com](https://nans-path.squarespace.com)
+ - date_published: 2024-05-12T06:15:24.180589+00:00
+
+ ## Neal Ungerleider
+ - [https://neal-ungerleider.squarespace.com](https://neal-ungerleider.squarespace.com)
+ - date_published: 2024-05-10T05:14:04.184215+00:00
+
+ ## The Official Squarespace Newsroom
+ - [https://newsroom.squarespace.com](https://newsroom.squarespace.com)
+ - date_published: 2023-10-25T17:11:33.322378+00:00
+
+ ## Rec Room
+ - [https://nick-fajt-h2gx.squarespace.com](https://nick-fajt-h2gx.squarespace.com)
+ - date_published: 2024-05-07T10:34:45.858119+00:00
+
+ ## No Idea Blog
+ - [https://noideadog.squarespace.com](https://noideadog.squarespace.com)
+ - date_published: 2024-04-30T02:48:20.141577+00:00
+
+ ## Cathy Grier aka NYC Subway Girl
+ - [https://nycsubwaygirl.squarespace.com](https://nycsubwaygirl.squarespace.com)
+ - date_published: 2024-05-12T05:41:29.519181+00:00
+
+ ## Oakwood Cemetery
+ - [https://oakwood-cemetery-troy.squarespace.com](https://oakwood-cemetery-troy.squarespace.com)
+ - date_published: 2024-05-08T11:00:30.909001+00:00
+
+ ## Chrissy Gillmore
+ - [https://oboe-greyhound-dns9.squarespace.com](https://oboe-greyhound-dns9.squarespace.com)
+ - date_published: 2024-05-08T05:15:02.603267+00:00
+
+ ## Olivia King
+ - [https://oboe-spinach-xtn3.squarespace.com](https://oboe-spinach-xtn3.squarespace.com)
+ - date_published: 2024-05-11T11:18:29.393007+00:00
+
+ ## Coaching Amsterdam | Robert de Wilde Coaching
+ - [https://octahedron-helix-gnmz.squarespace.com](https://octahedron-helix-gnmz.squarespace.com)
+ - date_published: 2024-05-10T06:24:29.034803+00:00
+
+ ## Petra Palusova
+ - [https://octopus-dahlia-a5fy.squarespace.com](https://octopus-dahlia-a5fy.squarespace.com)
+ - date_published: 2024-05-06T23:13:51.533136+00:00
+
+ ## Felipe Venetiglio
+ - [https://okra-chicory-ycde.squarespace.com](https://okra-chicory-ycde.squarespace.com)
+ - date_published: 2024-05-21T02:47:44.752873+00:00
+
+ ## OMD Ventures
+ - [https://oldmandan.squarespace.com](https://oldmandan.squarespace.com)
+ - date_published: 2024-05-10T02:46:58.111420+00:00
+
+ ## AMIGA
+ - [https://olive-dove-amhz.squarespace.com](https://olive-dove-amhz.squarespace.com)
+ - date_published: 2023-12-11T18:34:11.976151+00:00
+
+ ## OMAR ITANI
+ - [https://omar-itani.squarespace.com](https://omar-itani.squarespace.com)
+ - date_published: 2024-05-09T06:38:42.643522+00:00
+
+ ## Omniflux
+ - [http://omniflux.squarespace.com](http://omniflux.squarespace.com)
+ - date_published: 2024-05-06T21:46:37.997342+00:00
+
+ ## Open Markets Institute
+ - [https://openmarketsinstitute.squarespace.com](https://openmarketsinstitute.squarespace.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Chris Lewicki
+ - [https://orb-beige-36zw.squarespace.com](https://orb-beige-36zw.squarespace.com)
+ - date_published: 2024-05-08T05:14:56.744618+00:00
+
+ ## Paleofuture
+ - [https://paleo-future.squarespace.com](https://paleo-future.squarespace.com)
+ - date_published: 2024-05-06T22:27:03.984943+00:00
+
+ ## Kimbra
+ - [https://parakeet-nectarine-ltkk.squarespace.com](https://parakeet-nectarine-ltkk.squarespace.com)
+ - date_published: 2024-05-04T09:41:45.388968+00:00
+
+ ## Pixar Animation Studios
+ - [https://parallax-pixar.squarespace.com](https://parallax-pixar.squarespace.com)
+ - date_published: 2024-05-06T23:19:52.988274+00:00
+
+ ## Paul Pedrazzi
+ - [https://paul-pedrazzi.squarespace.com](https://paul-pedrazzi.squarespace.com)
+ - date_published: 2024-05-06T22:40:28.801616+00:00
+
+ ## Pauls Valley
+ - [https://paulsvalley.squarespace.com](https://paulsvalley.squarespace.com)
+ - date_published: 2024-05-06T22:45:38.853636+00:00
+
+ ## Red Shirt Jeff
+ - [https://penguin-bluebird-xh4g.squarespace.com](https://penguin-bluebird-xh4g.squarespace.com)
+ - date_published: 2024-06-02T05:21:54.548570+00:00
+
+ ## The Naked Watchmaker
+ - [https://peter-speakemarin-gxph.squarespace.com](https://peter-speakemarin-gxph.squarespace.com)
+ - date_published: 2024-05-06T17:03:53.808698+00:00
+ - tags: ['watchmaking', 'hobby', 'clocks']
+
+ ## Philosophy Bro
+ - [https://philosophybro.squarespace.com](https://philosophybro.squarespace.com)
+ - date_published: 2024-05-06T23:15:23.287601+00:00
+
+ ## Careers at Bright
+ - [https://plane-trout-rfx7.squarespace.com](https://plane-trout-rfx7.squarespace.com)
+ - date_published: 2024-05-08T04:28:45.923691+00:00
+
  ## Denise Cornell - Customer Marketing
  - [https://plantain-algae-7l7g.squarespace.com](https://plantain-algae-7l7g.squarespace.com)
  - date_published: 2024-05-10T05:47:34.443129+00:00
@@ -382,6 +491,10 @@
  ## Website Builder — Create a Website in Minutes — Squarespace
  - [https://www.squarespace.com](https://www.squarespace.com)
  - date_published: 2023-10-25T08:24:15.197115+00:00
+
+ ## Wyrd Games
+ - [https://wyrd.squarespace.com](https://wyrd.squarespace.com)
+ - date_published: 2024-06-07T14:59:57.560853+00:00
 
  ## https://images.squarespace-cdn.com
  - [https://images.squarespace-cdn.com](https://images.squarespace-cdn.com)
@@ -4024,127 +4137,4 @@
  ## The API Changelog | Bruno Pedro | Substack
  - [https://apichangelog.substack.com](https://apichangelog.substack.com)
  - date_published: 2024-01-19T00:00:00+00:00
-
- ## Apperceptive (moved to buttondown) | sam | Substack
- - [https://apperceptive.substack.com](https://apperceptive.substack.com)
- - date_published: 2024-05-07T09:31:29.620885+00:00
-
- ## Runner’s Newsletter | Substack
- - [https://applewatchrunner.substack.com](https://applewatchrunner.substack.com)
- - date_published: 2023-10-25T09:42:29.442208+00:00
- - tags: ['substack']
-
- ## Mindful Musings | Apurva Chitnis | Substack
- - [https://apuchitnis.substack.com](https://apuchitnis.substack.com)
- - date_published: 2023-10-25T09:42:32.956411+00:00
- - tags: ['substack']
-
- ## Google Ads y Facebook Ads desde cero | Arantxa y Guille | Substack
- - [https://arantxayguille.substack.com](https://arantxayguille.substack.com)
- - date_published: 2024-05-13T06:53:10.986443+00:00
-
- ## Cabinet of Wonders | Samuel Arbesman | Substack
- - [https://arbesman.substack.com](https://arbesman.substack.com)
- - date_published: 2023-10-25T09:42:37.648122+00:00
- - tags: ['substack']
-
- ## Transmissions from the floor | Drew Schorno | Substack
- - [https://arcove.substack.com](https://arcove.substack.com)
- - date_published: 2023-10-25T09:42:40.395493+00:00
- - tags: ['substack']
-
- ## A Diletante | Ariela K. | Substack
- - [https://arielak.substack.com](https://arielak.substack.com)
- - date_published: 2024-05-04T07:18:19.260037+00:00
-
- ## Consumer & Culture | Hugo Amsellem | Substack
- - [https://armthecreators.substack.com](https://armthecreators.substack.com)
- - date_published: 2024-05-06T15:17:47.278096+00:00
-
- ## In My Tribe | Arnold Kling | Substack
- - [https://arnoldkling.substack.com](https://arnoldkling.substack.com)
- - date_published: 2023-10-25T09:42:46.788508+00:00
- - tags: ['substack']
-
- ## Arrivals and Departures | Reena Kapoor | Substack
- - [https://arrivalsanddepartures.substack.com](https://arrivalsanddepartures.substack.com)
- - date_published: 2024-05-04T13:42:13.080202+00:00
-
- ## The EU AI Act Newsletter | Risto Uuk | Substack
- - [https://artificialintelligenceact.substack.com](https://artificialintelligenceact.substack.com)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Artificial Intelligence Made Simple | Devansh | Substack
- - [https://artificialintelligencemadesimple.substack.com](https://artificialintelligencemadesimple.substack.com)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Practical Self Reliance | Ashley Adamant | Substack
- - [https://ashleyadamant.substack.com](https://ashleyadamant.substack.com)
- - date_published: 2024-05-07T09:13:46.536610+00:00
-
- ## The Asianometry Newsletter | Jon Y | Substack
- - [https://asianometry.substack.com](https://asianometry.substack.com)
- - date_published: 2023-10-25T09:42:50.856135+00:00
- - tags: ['substack']
-
- ## Assisted Everything | Marco Witzmann | Substack
- - [https://assistedeverything.substack.com](https://assistedeverything.substack.com)
- - date_published: 2023-10-25T09:42:57.739698+00:00
- - tags: ['substack']
-
- ## Adrian’s Letters | Adrian Stobbe | Substack
- - [https://astobbe.substack.com](https://astobbe.substack.com)
- - date_published: 2024-05-01T02:27:58.962036+00:00
-
- ## Astral Codex Ten | Scott Alexander | Substack
- - [https://astralcodexten.substack.com](https://astralcodexten.substack.com)
- - date_published: 2023-10-25T09:43:00.399502+00:00
- - tags: ['substack']
-
- ## Athelas Engineering | Aakash Adesara | Substack
- - [https://athelaseng.substack.com](https://athelaseng.substack.com)
- - date_published: 2023-10-25T09:43:02.627661+00:00
- - tags: ['substack']
-
- ## Cold Brew | Atit Kothari | Substack
- - [https://atitkothari.substack.com](https://atitkothari.substack.com)
- - date_published: 2024-05-04T10:03:27.672762+00:00
-
- ## atomic14 | Chris Greening | Substack
- - [https://atomic14.substack.com](https://atomic14.substack.com)
- - date_published: 2023-11-04T18:28:36.332399+00:00
-
- ## Auerstack | David B. Auerbach | Substack
- - [https://auerstack.substack.com](https://auerstack.substack.com)
- - date_published: 2023-10-25T09:43:04.705340+00:00
- - tags: ['substack']
-
- ## Thought Thumbstack | Utkarsh Singh | Substack
- - [https://auralie.substack.com](https://auralie.substack.com)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Trying to Understand the World | Aurelien | Substack
- - [https://aurelien2022.substack.com](https://aurelien2022.substack.com)
- - date_published: 2023-10-25T09:43:13.295537+00:00
- - tags: ['substack']
-
- ## The Total State | Auron MacIntyre | Substack
- - [https://auronmacintyre.substack.com](https://auronmacintyre.substack.com)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Austin Kleon | Substack
- - [https://austinkleon.substack.com](https://austinkleon.substack.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Austin Vernon's Substack | Substack
- - [https://austinvernon.substack.com](https://austinvernon.substack.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Authors Alliance | Substack
- - [https://authorsalliance.substack.com](https://authorsalliance.substack.com)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Avalanche VC Newsletter | Substack
- - [https://avalanchevc.substack.com](https://avalanchevc.substack.com)
- - date_published: 2024-05-07T11:17:03.525316+00:00
 

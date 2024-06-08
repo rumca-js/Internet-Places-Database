@@ -1,3 +1,126 @@
+ ## Apperceptive (moved to buttondown) | sam | Substack
+ - [https://apperceptive.substack.com](https://apperceptive.substack.com)
+ - date_published: 2024-05-07T09:31:29.620885+00:00
+
+ ## Runner’s Newsletter | Substack
+ - [https://applewatchrunner.substack.com](https://applewatchrunner.substack.com)
+ - date_published: 2023-10-25T09:42:29.442208+00:00
+ - tags: ['substack']
+
+ ## Mindful Musings | Apurva Chitnis | Substack
+ - [https://apuchitnis.substack.com](https://apuchitnis.substack.com)
+ - date_published: 2023-10-25T09:42:32.956411+00:00
+ - tags: ['substack']
+
+ ## Google Ads y Facebook Ads desde cero | Arantxa y Guille | Substack
+ - [https://arantxayguille.substack.com](https://arantxayguille.substack.com)
+ - date_published: 2024-05-13T06:53:10.986443+00:00
+
+ ## Cabinet of Wonders | Samuel Arbesman | Substack
+ - [https://arbesman.substack.com](https://arbesman.substack.com)
+ - date_published: 2023-10-25T09:42:37.648122+00:00
+ - tags: ['substack']
+
+ ## Transmissions from the floor | Drew Schorno | Substack
+ - [https://arcove.substack.com](https://arcove.substack.com)
+ - date_published: 2023-10-25T09:42:40.395493+00:00
+ - tags: ['substack']
+
+ ## A Diletante | Ariela K. | Substack
+ - [https://arielak.substack.com](https://arielak.substack.com)
+ - date_published: 2024-05-04T07:18:19.260037+00:00
+
+ ## Consumer & Culture | Hugo Amsellem | Substack
+ - [https://armthecreators.substack.com](https://armthecreators.substack.com)
+ - date_published: 2024-05-06T15:17:47.278096+00:00
+
+ ## In My Tribe | Arnold Kling | Substack
+ - [https://arnoldkling.substack.com](https://arnoldkling.substack.com)
+ - date_published: 2023-10-25T09:42:46.788508+00:00
+ - tags: ['substack']
+
+ ## Arrivals and Departures | Reena Kapoor | Substack
+ - [https://arrivalsanddepartures.substack.com](https://arrivalsanddepartures.substack.com)
+ - date_published: 2024-05-04T13:42:13.080202+00:00
+
+ ## The EU AI Act Newsletter | Risto Uuk | Substack
+ - [https://artificialintelligenceact.substack.com](https://artificialintelligenceact.substack.com)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Artificial Intelligence Made Simple | Devansh | Substack
+ - [https://artificialintelligencemadesimple.substack.com](https://artificialintelligencemadesimple.substack.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Practical Self Reliance | Ashley Adamant | Substack
+ - [https://ashleyadamant.substack.com](https://ashleyadamant.substack.com)
+ - date_published: 2024-05-07T09:13:46.536610+00:00
+
+ ## The Asianometry Newsletter | Jon Y | Substack
+ - [https://asianometry.substack.com](https://asianometry.substack.com)
+ - date_published: 2023-10-25T09:42:50.856135+00:00
+ - tags: ['substack']
+
+ ## Assisted Everything | Marco Witzmann | Substack
+ - [https://assistedeverything.substack.com](https://assistedeverything.substack.com)
+ - date_published: 2023-10-25T09:42:57.739698+00:00
+ - tags: ['substack']
+
+ ## Adrian’s Letters | Adrian Stobbe | Substack
+ - [https://astobbe.substack.com](https://astobbe.substack.com)
+ - date_published: 2024-05-01T02:27:58.962036+00:00
+
+ ## Astral Codex Ten | Scott Alexander | Substack
+ - [https://astralcodexten.substack.com](https://astralcodexten.substack.com)
+ - date_published: 2023-10-25T09:43:00.399502+00:00
+ - tags: ['substack']
+
+ ## Athelas Engineering | Aakash Adesara | Substack
+ - [https://athelaseng.substack.com](https://athelaseng.substack.com)
+ - date_published: 2023-10-25T09:43:02.627661+00:00
+ - tags: ['substack']
+
+ ## Cold Brew | Atit Kothari | Substack
+ - [https://atitkothari.substack.com](https://atitkothari.substack.com)
+ - date_published: 2024-05-04T10:03:27.672762+00:00
+
+ ## atomic14 | Chris Greening | Substack
+ - [https://atomic14.substack.com](https://atomic14.substack.com)
+ - date_published: 2023-11-04T18:28:36.332399+00:00
+
+ ## Auerstack | David B. Auerbach | Substack
+ - [https://auerstack.substack.com](https://auerstack.substack.com)
+ - date_published: 2023-10-25T09:43:04.705340+00:00
+ - tags: ['substack']
+
+ ## Thought Thumbstack | Utkarsh Singh | Substack
+ - [https://auralie.substack.com](https://auralie.substack.com)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Trying to Understand the World | Aurelien | Substack
+ - [https://aurelien2022.substack.com](https://aurelien2022.substack.com)
+ - date_published: 2023-10-25T09:43:13.295537+00:00
+ - tags: ['substack']
+
+ ## The Total State | Auron MacIntyre | Substack
+ - [https://auronmacintyre.substack.com](https://auronmacintyre.substack.com)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Austin Kleon | Substack
+ - [https://austinkleon.substack.com](https://austinkleon.substack.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Austin Vernon's Substack | Substack
+ - [https://austinvernon.substack.com](https://austinvernon.substack.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Authors Alliance | Substack
+ - [https://authorsalliance.substack.com](https://authorsalliance.substack.com)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Avalanche VC Newsletter | Substack
+ - [https://avalanchevc.substack.com](https://avalanchevc.substack.com)
+ - date_published: 2024-05-07T11:17:03.525316+00:00
+
  ## bookbear express | Ava | Substack
  - [https://ava.substack.com](https://ava.substack.com)
  - date_published: 2023-10-25T09:43:14.791735+00:00
@@ -853,6 +976,10 @@
  - [https://deepsub.substack.com](https://deepsub.substack.com)
  - date_published: 2023-10-25T09:47:42.736089+00:00
  - tags: ['substack']
+
+ ## Defender’s corner | Defender of the Basic | Substack
+ - [https://defenderofthebasic.substack.com](https://defenderofthebasic.substack.com)
+ - date_published: 2024-03-14T00:00:00+00:00
 
  ## vivek’s Substack | vivek l alex | Substack
  - [https://defogdata.substack.com](https://defogdata.substack.com)
@@ -4074,124 +4201,4 @@
  ## The Software Engineering Times | Ryan Murphy | Substack
  - [https://thesoftwareengineeringtimes.substack.com](https://thesoftwareengineeringtimes.substack.com)
  - date_published: 2024-03-03T00:00:00+00:00
-
- ## Latest In Space/ Weekly Space Newsletter | The Space Newsletter | Substack
- - [https://thespacenewsletter.substack.com](https://thespacenewsletter.substack.com)
- - date_published: 2024-05-18T02:47:43.508767+00:00
-
- ## Rec Room | Substack
- - [https://thespinoffrecroom.substack.com](https://thespinoffrecroom.substack.com)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## The Bulletin | The Spinoff | Substack
- - [https://thespinoff.substack.com](https://thespinoff.substack.com)
- - date_published: 2024-03-02T00:00:00+00:00
-
- ## The Weekend with Madeleine Chapman | The Weekend with Mad Chapman | Substack
- - [https://thespinoffweekly.substack.com](https://thespinoffweekly.substack.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## The VC Corner | Ruben Dominguez Ibar | Substack
- - [https://thevccorner.substack.com](https://thevccorner.substack.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## The Walrus | Substack
- - [https://thewalrusca.substack.com](https://thewalrusca.substack.com)
- - date_published: 2024-03-02T00:00:00+00:00
-
- ## The Walters File | Andy Walters | Substack
- - [https://thewaltersfile.substack.com](https://thewaltersfile.substack.com)
- - date_published: 2023-11-19T22:14:18.392857+00:00
-
- ## The Why Axis | Christopher Ingraham | Substack
- - [https://thewhyaxis.substack.com](https://thewhyaxis.substack.com)
- - date_published: 2024-01-09T01:45:36.113692+00:00
-
- ## The Willful Writer | Will J Murphy | Substack
- - [https://thewillfulwriter.substack.com](https://thewillfulwriter.substack.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## The Wonder Project | Dan Vekhter | Substack
- - [https://thewonderproject.substack.com](https://thewonderproject.substack.com)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## The Writing Life by Matt Taibbi | Substack
- - [https://thewritinglife.substack.com](https://thewritinglife.substack.com)
- - date_published: 2024-05-07T12:52:01.047742+00:00
-
- ## Don't Worry About the Vase | Substack
- - [https://thezvi.substack.com](https://thezvi.substack.com)
- - date_published: 2023-11-22T18:18:35.241169+00:00
-
- ## Thing of Things | Ozy Brennan | Substack
- - [https://thingofthings.substack.com](https://thingofthings.substack.com)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## The Big Picture | Substack
- - [https://thinkbigpicture.substack.com](https://thinkbigpicture.substack.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## This is indexing. | Michelle Guiliano | Substack
- - [https://thisisindexing.substack.com](https://thisisindexing.substack.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## This is the Top | Douglas A. Boneparth | Substack
- - [https://thisisthetop.substack.com](https://thisisthetop.substack.com)
- - date_published: 2024-05-06T15:16:59.382060+00:00
-
- ## Unpacked | Viggy Balagopalakrishnan | Substack
- - [https://thisisunpacked.substack.com](https://thisisunpacked.substack.com)
- - date_published: 2023-12-17T00:30:40.265669+00:00
-
- ## This Week in Africa | Jeffrey Paller | Substack
- - [https://thisweekinafrica.substack.com](https://thisweekinafrica.substack.com)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## Thoguhts | Akshay Raveendran | Substack
- - [https://thoguhts.substack.com](https://thoguhts.substack.com)
- - date_published: 2023-11-08T09:45:32.418742+00:00
-
- ## Thomas Kidd’s Substack | Thomas S. Kidd | Substack
- - [https://thomaskidd.substack.com](https://thomaskidd.substack.com)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## The Path Not Taken | Thomas Prosser | Substack
- - [https://thomasprosser.substack.com](https://thomasprosser.substack.com)
- - date_published: 2023-10-25T10:06:26.448291+00:00
- - tags: ['substack']
-
- ## Ideas Big & Simple | Thom Scott-Phillips | Substack
- - [https://thomscottphillips.substack.com](https://thomscottphillips.substack.com)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Thot's Thoughts | Nikhil Thota | Substack
- - [https://thot.substack.com](https://thot.substack.com)
- - date_published: 2024-05-12T06:17:29.138394+00:00
-
- ## Software Design: Tidy First? | Kent Beck | Substack
- - [https://tidyfirst.substack.com](https://tidyfirst.substack.com)
- - date_published: 2023-10-25T10:06:29.035400+00:00
- - tags: ['substack']
-
- ## Intellectual Insights | Tim Robinson | Substack
- - [https://timjrobinson.substack.com](https://timjrobinson.substack.com)
- - date_published: 2024-05-06T18:31:19.669340+00:00
-
- ## Tiny Empires | JT | Substack
- - [https://tinyempires.substack.com](https://tinyempires.substack.com)
- - date_published: 2023-10-25T10:06:31.208743+00:00
- - tags: ['substack']
-
- ## Tjaart’s Substack | Substack
- - [https://tjaart.substack.com](https://tjaart.substack.com)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## tldraw | Steve Ruiz | Substack
- - [https://tldraw.substack.com](https://tldraw.substack.com)
- - date_published: 2023-10-25T10:06:33.454002+00:00
- - tags: ['substack']
-
- ## Terry Mattingly -- Rational Sheep | tmatt | Substack
- - [https://tmattingly.substack.com](https://tmattingly.substack.com)
- - date_published: 2024-03-01T00:00:00+00:00
 
