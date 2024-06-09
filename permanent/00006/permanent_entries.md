@@ -1,3 +1,44 @@
+ ## Milestones Co. – Helping you launch and scale your business through conscious marketing / branding
+ - [https://milestones.co](https://milestones.co)
+ - date_published: 2023-11-29T20:44:20.556521+00:00
+ - tags: ['personal']
+
+ ## Millennial Mind Sync
+ - [https://www.millennialmind.co](https://www.millennialmind.co)
+ - date_published: 2024-01-09T02:28:34.013087+00:00
+
+ ## Minecraft Seeds - Find Your World
+ - [http://www.minecraftseeds.co](http://www.minecraftseeds.co)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Before you continue to YouTube
+ - [http://beginner.miniac.co](http://beginner.miniac.co)
+ - date_published: 2024-05-07T18:37:37.922780+00:00
+
+ ## Facebook
+ - [http://facebook.miniac.co](http://facebook.miniac.co)
+ - date_published: 2024-05-07T18:37:12.309781+00:00
+
+ ## Instagram
+ - [http://instagram.miniac.co](http://instagram.miniac.co)
+ - date_published: 2024-05-07T18:37:17.918903+00:00
+
+ ## miniacal
+ - [https://miniac.co](https://miniac.co)
+ - date_published: 2023-10-25T11:11:09.294633+00:00
+
+ ## Miniac's School for Mini People
+ - [https://necropolis.miniac.co](https://necropolis.miniac.co)
+ - date_published: 2024-05-07T18:37:19.705913+00:00
+
+ ## Get more from Scott on Patreon
+ - [http://patreon.miniac.co](http://patreon.miniac.co)
+ - date_published: 2024-05-07T18:37:23.085426+00:00
+
+ ## Before you continue to YouTube
+ - [http://videos.miniac.co](http://videos.miniac.co)
+ - date_published: 2024-05-07T18:37:27.544497+00:00
+
  ## Miter Blog
  - [https://blog.miter.co](https://blog.miter.co)
  - date_published: 2024-05-04T15:11:20.184525+00:00
@@ -1425,6 +1466,11 @@
  ## Nexxen
  - [https://unruly.co](https://unruly.co)
  - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Tools for Better Thinking
+ - [https://untools.co](https://untools.co)
+ - date_published: 2020-05-08T04:33:09+00:00
+ - tags: ['curated list', 'personal', 'programs']
 
  ## Untranslatable
  - [https://untranslatable.co](https://untranslatable.co)
@@ -4074,50 +4120,4 @@
  ## Diary of a SysAdmin
  - [https://blog.abctaylor.com](https://blog.abctaylor.com)
  - date_published: 2023-11-17T18:44:51.502563+00:00
-
- ## abdz - Have you given up on being inspired?
- - [http://abduzeedo.com](http://abduzeedo.com)
- - date_published: 2024-05-10T03:46:48.547878+00:00
-
- - [https://pictures.abebooks.com](https://pictures.abebooks.com)
- - date_published: 2024-01-02T00:02:12.772750+00:00
-
- ## AbeBooks | Shop for Books, Art & Collectibles
- - [https://www.abebooks.com](https://www.abebooks.com)
- - date_published: 2024-05-01T02:05:06.380857+00:00
-
- ## The Complete List of Software Tools for Online Entrepreneurs
- - [https://abechallah.com](https://abechallah.com)
- - date_published: 2024-04-03T06:29:52.025586+00:00
- - tags: ['personal']
-
- ## Bucket App 2.0
- - [https://quiz.abechallah.com](https://quiz.abechallah.com)
- - date_published: 2024-05-12T05:41:07.040514+00:00
-
- ## Abenezer Belachew / Software Developer
- - [https://abenezerbelachew.com](https://abenezerbelachew.com)
- - date_published: 2024-05-01T02:01:12.994971+00:00
-
- ## Abenezer Belachew / Software Developer
- - [https://www.abenezerbelachew.com](https://www.abenezerbelachew.com)
- - date_published: 2023-10-30T08:53:04.273441+00:00
-
- ## ABHealthShop
- - [http://abhealthshop.com](http://abhealthshop.com)
- - date_published: 2024-05-01T02:00:11.141735+00:00
-
- ## Abhinav Bhatt
- - [https://abhinavbhatt.com](https://abhinavbhatt.com)
- - date_published: 2024-01-13T22:54:15.913288+00:00
- - tags: ['personal']
-
- ## embedded sigproc
- - [https://abhipray.com](https://abhipray.com)
- - date_published: 2024-04-02T17:26:51.421090+00:00
- - tags: ['personal']
-
- ## Abhishaike’s Substack | Abhishaike Mahajan | Substack
- - [https://www.abhishaike.com](https://www.abhishaike.com)
- - date_published: 2024-06-02T00:00:00+00:00
 

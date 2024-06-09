@@ -1,3 +1,153 @@
+ ## D3 in Depth
+ - [https://www.d3indepth.com](https://www.d3indepth.com)
+ - date_published: 2024-05-16T14:18:07+00:00
+
+ ## Maximum Stats on Items - Diablo 3: Reaper of Souls - D3 Max Stats
+ - [https://www.d3maxstats.com](https://www.d3maxstats.com)
+ - date_published: 2023-12-13T16:21:35.452239+00:00
+ - tags: ['diablo']
+
+ ## Diablo 3 Resources
+ - [https://d3resource.com](https://d3resource.com)
+ - date_published: 2023-10-25T11:08:36.624986+00:00
+ - tags: ['diablo']
+
+ ## https://d3sanctuary.com
+ - [https://d3sanctuary.com](https://d3sanctuary.com)
+ - date_published: 2023-12-13T16:21:58.317851+00:00
+
+ ## Smart SOAR - The World's Leading Independent SOAR Platform
+ - [https://d3security.com](https://d3security.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Casino Affiliate Guide Community Online Casino Affiliate Program
+ - [http://www.d4wstats.com](http://www.d4wstats.com)
+ - date_published: 2019-09-30T00:00:00+00:00
+ - tags: ['gambling']
+
+ ## D6 Combat - Geeking out about Tabletop Wargames and D&D
+ - [https://d6combat.com](https://d6combat.com)
+ - date_published: 2024-04-28T04:44:07.735311+00:00
+
+ ## D6 TEAM - indie app & game developer
+ - [http://d6team.com](http://d6team.com)
+ - date_published: 2024-05-08T17:19:52.226645+00:00
+
+ ## DAAily
+ - [https://daaily.com](https://daaily.com)
+ - date_published: 2024-05-11T11:09:31.615710+00:00
+
+ ## Daasity | ELT & Analytics for Consumer Brands
+ - [https://www.daasity.com](https://www.daasity.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## dabblet.com
+ - [http://dabblet.com](http://dabblet.com)
+ - date_published: 2024-04-28T04:28:53.276787+00:00
+
+ ## Dabl TV Network - Get Into It!
+ - [https://www.dabl.com](https://www.dabl.com)
+ - date_published: 2024-04-30T07:28:59.809985+00:00
+
+ ## The Detroit Association of Black Organizations (DABO) is a federation of over 130 black, and non-black organizations working to build community unity.
+ - [https://dabodetroitinc.com](https://dabodetroitinc.com)
+ - date_published: 2024-05-04T14:05:07.768226+00:00
+
+ ## About the Dabo Application Framework
+ - [https://dabodev.com](https://dabodev.com)
+ - date_published: 2024-02-08T16:34:11.456390+00:00
+
+ ## Design Automation Conference
+ - [https://www.dac.com](https://www.dac.com)
+ - date_published: 2024-04-29T03:14:00.804754+00:00
+
+ ## Video Hosting and Live Streaming Solutions
+ - [https://www.dacast.com](https://www.dacast.com)
+ - date_published: 2024-04-30T08:01:50.134745+00:00
+
+ ## PHP Database front-end & Web/Database Application Builder - DaDaBIK
+ - [https://dadabik.com](https://dadabik.com)
+ - date_published: 2024-05-17T17:17:09.513457+00:00
+
+ ## Dadagrams
+ - [https://dadagrams.com](https://dadagrams.com)
+ - date_published: 2023-10-25T13:41:06.381836+00:00
+
+ ## Programming in the 21st Century
+ - [https://prog21.dadgum.com](https://prog21.dadgum.com)
+ - date_published: 2023-10-25T13:41:08.490703+00:00
+
+ ## Stories about Software
+ - [https://daedtech.com](https://daedtech.com)
+ - date_published: 2023-10-25T13:41:13.942994+00:00
+
+ ## Stories about Software
+ - [http://www.daedtech.com](http://www.daedtech.com)
+ - date_published: 2024-05-01T03:45:11.762629+00:00
+
+ ## DLNK Works
+ - [http://www.daelonik.com](http://www.daelonik.com)
+ - date_published: 2024-05-06T21:14:59.171218+00:00
+
+ ## Dafacto – The personal website of Matt Henderson
+ - [https://dafacto.com](https://dafacto.com)
+ - date_published: 2023-12-12T08:08:43.622992+00:00
+ - tags: ['personal']
+
+ ## Hello World
+ - [https://files.dafacto.com](https://files.dafacto.com)
+ - date_published: 2024-05-10T02:46:26.716701+00:00
+
+ ## Simple Analytics
+ - [https://sa.dafacto.com](https://sa.dafacto.com)
+ - date_published: 2024-05-10T02:46:26.274138+00:00
+
+ ## DaFluffyPotato
+ - [https://dafluffypotato.com](https://dafluffypotato.com)
+ - date_published: 2024-05-04T16:00:44.809334+00:00
+
+ ## DaFont - Download fonts
+ - [https://www.dafont.com](https://www.dafont.com)
+ - date_published: 2024-05-09T08:39:50.157243+00:00
+
+ ## Daft Punk
+ - [https://www.daftpunk.com](https://www.daftpunk.com)
+ - date_published: 2023-10-30T13:57:06.791776+00:00
+ - tags: ['music band']
+
+ ## Daft Social
+ - [https://daftsocial.com](https://daftsocial.com)
+ - date_published: 2024-05-09T06:17:15.738239+00:00
+
+ ## Dagens.com - Today's news and entertainment
+ - [https://www.dagens.com](https://www.dagens.com)
+ - date_published: 2023-11-20T21:14:16.632281+00:00
+
+ - [https://dagfrode.com](https://dagfrode.com)
+ - date_published: 2024-04-03T06:30:56.035786+00:00
+ - tags: ['personal']
+
+ ## DagsHub: The Home for Machine Learning Collaboration
+ - [https://dagshub.com](https://dagshub.com)
+ - date_published: 2024-05-04T09:14:31.896817+00:00
+
+ ## Every Fucking Bootstrap Website Ever
+ - [https://www.dagusa.com](https://www.dagusa.com)
+ - date_published: 2023-10-25T13:41:15.121541+00:00
+ - tags: ['wtf', 'funny']
+
+ ## DailyAI | Exploring the World of Artificial Intelligence
+ - [https://dailyai.com](https://dailyai.com)
+ - date_published: 2023-12-06T19:47:31.408770+00:00
+
+ ## Daily Business Updates – Your Daily Source for Timely Business Updates and News
+ - [https://dailybusinessupdates.com](https://dailybusinessupdates.com)
+ - date_published: 2023-12-19T11:09:27.832473+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://aslp.dailycaller.com](https://aslp.dailycaller.com)
+ - date_published: 2024-05-01T03:29:49.064287+00:00
+
  ## The Daily Caller
  - [https://cdn01.dailycaller.com](https://cdn01.dailycaller.com)
  - date_published: 2024-05-01T03:29:37.805810+00:00
@@ -2093,6 +2243,11 @@
  - date_published: 2023-12-28T22:25:55.782138+00:00
  - tags: ['personal']
 
+ ## The Day Before Mods | Best Day Before PC Mods
+ - [http://www.daybeforemods.com](http://www.daybeforemods.com)
+ - date_published: 2024-06-08T21:16:24.972420+00:00
+ - tags: ['video game mods']
+
  ## Day By Day
  - [http://www.daybydaycartoon.com](http://www.daybydaycartoon.com)
  - date_published: 2024-05-04T07:35:06.285296+00:00
@@ -2599,6 +2754,10 @@
  ## All posts | Archy de Berker
  - [https://archy.deberker.com](https://archy.deberker.com)
  - date_published: 2023-10-25T13:47:02.854781+00:00
+
+ ## Guillaume Fortin-Debigaré
+ - [https://www.debigare.com](https://www.debigare.com)
+ - date_published: 2024-05-13T00:00:00+00:00
 
  ## Home | debjitbanerjee
  - [https://www.debjitbanerjee.com](https://www.debjitbanerjee.com)
@@ -3979,157 +4138,4 @@
  ## Design Better Learning – Make learning that really works.
  - [https://designbetterlearning.com](https://designbetterlearning.com)
  - date_published: 2024-05-06T21:25:24.713868+00:00
-
- ## designboom | architecture & design magazine
- - [https://designboom.com](https://designboom.com)
- - date_published: 2024-05-01T04:48:13.742123+00:00
-
- ## designboom ad system
- - [https://grinx.designboom.com](https://grinx.designboom.com)
- - date_published: 2024-05-01T04:48:12.187289+00:00
-
- ## designboom magazine | your first source for architecture, design & art news
- - [https://www.designboom.com](https://www.designboom.com)
- - date_published: 2023-10-25T13:50:14.647949+00:00
-
- ## Design By Humans Blog
- - [http://blog.designbyhumans.com](http://blog.designbyhumans.com)
- - date_published: 2024-05-01T04:48:22.297803+00:00
-
- ## Graphic Tees, Cool T Shirt Designs For Men And Women - DesignByHumans
- - [https://www.designbyhumans.com](https://www.designbyhumans.com)
- - date_published: 2023-12-13T15:37:22.113867+00:00
-
- ## Designcember
- - [https://designcember.com](https://designcember.com)
- - date_published: 2024-04-30T02:01:56.812704+00:00
-
- ## Core77 Design Directory - Where Business Finds Design
- - [http://www.designdirectory.com](http://www.designdirectory.com)
- - date_published: 2024-05-08T06:43:53.337447+00:00
-
- ## Design Epic Life – Self Mastery and Life Design for High Achievers
- - [https://designepiclife.com](https://designepiclife.com)
- - date_published: 2018-05-19T03:20:18+00:00
-
- ## Designer Fund
- - [https://www.designerfund.com](https://www.designerfund.com)
- - date_published: 2024-04-29T07:15:07.143997+00:00
-
- ## DesignFast Component Selection Made Simple - DesignFast
- - [https://www.designfast.com](https://www.designfast.com)
- - date_published: 2021-10-29T00:00:00+00:00
-
- ## Design Kindle | Free Premium Web Design Resources
- - [http://www.designkindle.com](http://www.designkindle.com)
- - date_published: 2024-05-07T10:46:39.053306+00:00
-
- ## Online UI and UX Design Courses and Bootcamps | Designlab
- - [https://designlab.com](https://designlab.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Simple WordPress Themes to Build Your Dream Website
- - [https://www.designlabthemes.com](https://www.designlabthemes.com)
- - date_published: 2024-04-28T01:54:27.728305+00:00
-
- ## Design Made in Japan
- - [https://designmadeinjapan.com](https://designmadeinjapan.com)
- - date_published: 2024-01-09T02:34:32.514694+00:00
-
- ## Create Email Newsletter Design & Website - Designmodo
- - [https://designmodo.com](https://designmodo.com)
- - date_published: 2024-05-10T04:14:15.487743+00:00
-
- ## Unlimited Graphic Design | Same Day Turnaround | Design Pickle
- - [https://designpickle.com](https://designpickle.com)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Design And Reuse, The System-On-Chip Design Resource - IP, Core, SoC
- - [https://www.design-reuse.com](https://www.design-reuse.com)
- - date_published: 2023-10-25T13:50:05.038562+00:00
-
- ## Design And Reuse, The System-On-Chip Design Resource - IP, Core, SoC
- - [https://www.us.design-reuse.com](https://www.us.design-reuse.com)
- - date_published: 2024-05-01T04:48:04.281771+00:00
-
- ## Design and Reuse Embedded - From Silicon on Chip Solutions to Asic Design Platforms
- - [https://www.design-reuse-embedded.com](https://www.design-reuse-embedded.com)
- - date_published: 2024-05-01T04:48:01.130453+00:00
-
- ## Download Free Bootstrap Templates & Website Themes | Designstub
- - [http://www.designstub.com](http://www.designstub.com)
- - date_published: 2024-04-28T03:45:32.607688+00:00
-
- ## Design System Canvas — Download Now!
- - [https://designsystemcanvas.com](https://designsystemcanvas.com)
- - date_published: 2024-05-06T22:19:41.343386+00:00
-
- ## Show HN: Possibly the most comprehensive design system collection
- - [https://www.designsystemhunt.com](https://www.designsystemhunt.com)
- - date_published: 2024-01-05T03:23:31+00:00
-
- ## DesignSystems.com
- - [https://www.designsystems.com](https://www.designsystems.com)
- - date_published: 2024-04-29T07:15:19.862644+00:00
-
- ## Design Systems Repo
- - [https://designsystemsrepo.com](https://designsystemsrepo.com)
- - date_published: 2024-05-06T13:44:56.044080+00:00
-
- ## DesignWanted
- - [https://designwanted.com](https://designwanted.com)
- - date_published: 2021-11-23T13:44:47+00:00
-
- ## Free Engineering Research Library of White Papers, Magazines, Reports, and eBooks
- - [https://dw-resources.designworldonline.com](https://dw-resources.designworldonline.com)
- - date_published: 2024-05-02T09:27:57.357159+00:00
-
- ## Home
- - [https://www.designworldonline.com](https://www.designworldonline.com)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Design You Trust
- - [https://designyoutrust.com](https://designyoutrust.com)
- - date_published: 2023-10-25T13:50:22.315830+00:00
-
- ## Home - desimslaughter
- - [https://desimslaughter.com](https://desimslaughter.com)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Career - Desi M. Slaughter | @desimslaughter
- - [http://www.desireeslaughter.com](http://www.desireeslaughter.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Services financiers aux particuliers
- - [https://www.desjardins.com](https://www.desjardins.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## DeskTime | A Time Tracker For Both Remote And On-site Teams
- - [https://desktime.com](https://desktime.com)
- - date_published: 2024-05-07T15:20:07.373093+00:00
-
- ## Show HN: I made a Mac app to search my images and videos with AI
- - [https://desktopdocs.com](https://desktopdocs.com)
- - date_published: 2024-05-15T19:44:46+00:00
-
- ## Desktop of Samuel
- - [https://desktopofsamuel.com](https://desktopofsamuel.com)
- - date_published: 2024-05-11T10:18:27.575023+00:00
-
- ## DeSmog
- - [https://www.desmog.com](https://www.desmog.com)
- - date_published: 2024-01-09T02:21:59.409554+00:00
- - tags: ['fact check']
-
- ## Home
- - [https://cm.desmoinesregister.com](https://cm.desmoinesregister.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home
- - [https://connect.desmoinesregister.com](https://connect.desmoinesregister.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Help Center - The Des Moines Register
- - [https://help.desmoinesregister.com](https://help.desmoinesregister.com)
- - date_published: 2024-05-01T04:48:57.540386+00:00
 

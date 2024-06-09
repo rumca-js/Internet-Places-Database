@@ -1,3 +1,7 @@
+ ## API RecomGov
+ - [https://api.recomgov.df-1.estaleiro.serpro.gov.br](https://api.recomgov.df-1.estaleiro.serpro.gov.br)
+ - date_published: 2024-05-10T03:45:28.970230+00:00
+
  ## gov.br - Search Console
  - [https://portalunico.estaleiro.serpro.gov.br](https://portalunico.estaleiro.serpro.gov.br)
  - date_published: 2024-05-10T03:45:22.211916+00:00
@@ -697,6 +701,10 @@
  - [https://www.boeing.ca](https://www.boeing.ca)
  - date_published: 2024-01-03T00:00:00+00:00
 
+ ## Bookmark Bookstores Location Picker
+ - [https://bookmarkreads.ca](https://bookmarkreads.ca)
+ - date_published: 2024-06-08T13:09:59.854132+00:00
+
  ## Home
  - [https://www.borden-carleton.ca](https://www.borden-carleton.ca)
  - date_published: 2024-01-15T00:00:00+00:00
@@ -1182,6 +1190,10 @@
  - [https://www.evanjones.ca](https://www.evanjones.ca)
  - date_published: 2023-10-25T12:04:49.962005+00:00
 
+ ## Alexander Manu on 'Artificial Intelligence & the Future of Creativity'
+ - [https://alexandermanu.eventbrite.ca](https://alexandermanu.eventbrite.ca)
+ - date_published: 2024-06-05T00:00:00+00:00
+
  ## Eventbrite
  - [https://www.eventbrite.ca](https://www.eventbrite.ca)
  - date_published: 2024-02-24T18:11:15.206135+00:00
@@ -1360,6 +1372,10 @@
  ## Healthing.ca
  - [https://www.healthing.ca](https://www.healthing.ca)
  - date_published: 2024-05-06T21:31:11.747212+00:00
+
+ ## Home Page - Healthy Debate
+ - [https://healthydebate.ca](https://healthydebate.ca)
+ - date_published: 2024-06-05T00:00:00+00:00
 
  ## Chaire de commerce Omer DeSerres – Un site utilisant WordPress
  - [https://chaireomerdesserres.hec.ca](https://chaireomerdesserres.hec.ca)
@@ -1602,6 +1618,11 @@
  - [https://kevincox.ca](https://kevincox.ca)
  - date_published: 2023-10-25T08:42:59.460120+00:00
  - tags: ['personal']
+
+ ## Home Page
+ - [https://kineticfit.ca](https://kineticfit.ca)
+ - date_published: 2024-06-08T13:10:10.259674+00:00
+ - tags: ['fitness']
 
  ## Kipp Scott GMC Buick: Vehicle Sales and Auto Repair | Red Deer AB
  - [https://www.kippscott.ca](https://www.kippscott.ca)
@@ -2198,6 +2219,10 @@
  - [https://roguewavecoffee.ca](https://roguewavecoffee.ca)
  - date_published: 2024-05-08T09:06:31.366868+00:00
 
+ ## Hollywood Cres Toronto Canada
+ - [http://weather.rongrimes.ca](http://weather.rongrimes.ca)
+ - date_published: 2024-06-08T00:00:00+00:00
+
  ## rongrimes
  - [https://www.rongrimes.ca](https://www.rongrimes.ca)
  - date_published: 2024-01-09T00:11:46.895827+00:00
@@ -2230,6 +2255,11 @@
  - [https://rsc-src.ca](https://rsc-src.ca)
  - date_published: 2024-04-30T05:11:46.408983+00:00
 
+ ## Crafting {:} a Life – A Charlottetown Unconference, June 2019
+ - [https://cal.ruk.ca](https://cal.ruk.ca)
+ - date_published: 2024-06-08T13:10:07.653599+00:00
+ - tags: ['conference', 'personal']
+
  ## ruk.ca
  - [https://ruk.ca](https://ruk.ca)
  - date_published: 2023-12-24T18:31:10.288244+00:00
@@ -2244,7 +2274,7 @@
  - date_published: 2024-02-11T00:00:00+00:00
 
  ## Software Analysis Research Group
- - [http://sarg.ryerson.ca](http://sarg.ryerson.ca)
+ - [https://sarg.ryerson.ca](https://sarg.ryerson.ca)
  - date_published: 1999-01-01T00:00:00+00:00
 
  ## Toronto Metropolitan University Home
@@ -2287,6 +2317,10 @@
  - [https://bookclubs.scholastic.ca](https://bookclubs.scholastic.ca)
  - date_published: 2024-04-30T05:03:33.889310+00:00
 
+ ## Login
+ - [https://bookfairtoolkit.scholastic.ca](https://bookfairtoolkit.scholastic.ca)
+ - date_published: 2024-06-08T13:35:19.607814+00:00
+
  ## Scholastic Canada
  - [https://digital.scholastic.ca](https://digital.scholastic.ca)
  - date_published: 2024-04-01T00:00:00+00:00
@@ -2323,7 +2357,7 @@
 
  ## Scott Redmond
  - [https://www.scottredmond.ca](https://www.scottredmond.ca)
- - date_published: 2024-01-23T03:27:52.039443+00:00
+ - date_published: 2022-06-20T10:54:19+00:00
  - tags: ['personal']
 
  ## SCUMB
@@ -2618,7 +2652,7 @@
 
  ## Timur Ochakovsky | Web Developer
  - [https://www.timur.ca](https://www.timur.ca)
- - date_published: 2023-11-29T14:23:08.617547+00:00
+ - date_published: 2023-11-08T12:51:06+00:00
 
  ## Todd Industries ©
  - [https://toddindustries.ca](https://toddindustries.ca)
@@ -3293,7 +3327,7 @@
 
  ## https://utcc.utoronto.ca
  - [https://utcc.utoronto.ca](https://utcc.utoronto.ca)
- - date_published: 2023-12-13T01:37:35.107341+00:00
+ - date_published: 2011-04-20T17:30:24+00:00
 
  ## Home | University of Toronto Scarborough Campus
  - [https://utsc.library.utoronto.ca](https://utsc.library.utoronto.ca)
@@ -4059,36 +4093,4 @@
  ## Shimmer | ADHD Coaching That Fit Into Your Life | Expert & Affordable
  - [https://www.shimmer.care](https://www.shimmer.care)
  - date_published: 2023-10-25T12:10:12.016239+00:00
-
- ## Appwrite
- - [https://appwrite.careers](https://appwrite.careers)
- - date_published: 2024-05-14T03:35:02.833364+00:00
-
- ## GitHub Careers
- - [https://github.careers](https://github.careers)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Kubernetes jobs in May 24 (28 new) | Kube Careers
- - [https://kube.careers](https://kube.careers)
- - date_published: 2024-05-08T06:21:39.894635+00:00
-
- ## Our vacancies | lufthansagroup.careers
- - [https://apply.lufthansagroup.careers](https://apply.lufthansagroup.careers)
- - date_published: 2024-05-12T07:54:12.729621+00:00
-
- ## Lufthansa Group Careers
- - [https://lufthansagroup.careers](https://lufthansagroup.careers)
- - date_published: 2024-05-12T05:11:06.078396+00:00
-
- ## Careers at Wake Forest University - Human Resources
- - [http://www.wfu.careers](http://www.wfu.careers)
- - date_published: 2024-05-07T22:28:48.542607+00:00
-
- ## cujo.casa
- - [https://cujo.casa](https://cujo.casa)
- - date_published: 2024-05-07T23:14:40.730456+00:00
-
- ## Izzy Muerte • Self Unemployed
- - [https://izzys.casa](https://izzys.casa)
- - date_published: 2023-10-25T12:10:14.071392+00:00
 

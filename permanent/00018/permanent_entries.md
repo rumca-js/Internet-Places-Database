@@ -1,3 +1,156 @@
+ ## designboom | architecture & design magazine
+ - [https://designboom.com](https://designboom.com)
+ - date_published: 2024-05-01T04:48:13.742123+00:00
+
+ ## designboom ad system
+ - [https://grinx.designboom.com](https://grinx.designboom.com)
+ - date_published: 2024-05-01T04:48:12.187289+00:00
+
+ ## designboom magazine | your first source for architecture, design & art news
+ - [https://www.designboom.com](https://www.designboom.com)
+ - date_published: 2023-10-25T13:50:14.647949+00:00
+
+ ## Design By Humans Blog
+ - [http://blog.designbyhumans.com](http://blog.designbyhumans.com)
+ - date_published: 2024-05-01T04:48:22.297803+00:00
+
+ ## Graphic Tees, Cool T Shirt Designs For Men And Women - DesignByHumans
+ - [https://www.designbyhumans.com](https://www.designbyhumans.com)
+ - date_published: 2023-12-13T15:37:22.113867+00:00
+
+ ## Designcember
+ - [https://designcember.com](https://designcember.com)
+ - date_published: 2024-04-30T02:01:56.812704+00:00
+
+ ## Core77 Design Directory - Where Business Finds Design
+ - [http://www.designdirectory.com](http://www.designdirectory.com)
+ - date_published: 2024-05-08T06:43:53.337447+00:00
+
+ ## Design Epic Life – Self Mastery and Life Design for High Achievers
+ - [https://designepiclife.com](https://designepiclife.com)
+ - date_published: 2018-05-19T03:20:18+00:00
+
+ ## Designer Fund
+ - [https://www.designerfund.com](https://www.designerfund.com)
+ - date_published: 2024-04-29T07:15:07.143997+00:00
+
+ ## DesignFast Component Selection Made Simple - DesignFast
+ - [https://www.designfast.com](https://www.designfast.com)
+ - date_published: 2021-10-29T00:00:00+00:00
+
+ ## Design Kindle | Free Premium Web Design Resources
+ - [http://www.designkindle.com](http://www.designkindle.com)
+ - date_published: 2024-05-07T10:46:39.053306+00:00
+
+ ## Online UI and UX Design Courses and Bootcamps | Designlab
+ - [https://designlab.com](https://designlab.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Simple WordPress Themes to Build Your Dream Website
+ - [https://www.designlabthemes.com](https://www.designlabthemes.com)
+ - date_published: 2024-04-28T01:54:27.728305+00:00
+
+ ## Design Made in Japan
+ - [https://designmadeinjapan.com](https://designmadeinjapan.com)
+ - date_published: 2024-01-09T02:34:32.514694+00:00
+
+ ## Create Email Newsletter Design & Website - Designmodo
+ - [https://designmodo.com](https://designmodo.com)
+ - date_published: 2024-05-10T04:14:15.487743+00:00
+
+ ## Unlimited Graphic Design | Same Day Turnaround | Design Pickle
+ - [https://designpickle.com](https://designpickle.com)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Design And Reuse, The System-On-Chip Design Resource - IP, Core, SoC
+ - [https://www.design-reuse.com](https://www.design-reuse.com)
+ - date_published: 2023-10-25T13:50:05.038562+00:00
+
+ ## Design And Reuse, The System-On-Chip Design Resource - IP, Core, SoC
+ - [https://www.us.design-reuse.com](https://www.us.design-reuse.com)
+ - date_published: 2024-05-01T04:48:04.281771+00:00
+
+ ## Design and Reuse Embedded - From Silicon on Chip Solutions to Asic Design Platforms
+ - [https://www.design-reuse-embedded.com](https://www.design-reuse-embedded.com)
+ - date_published: 2024-05-01T04:48:01.130453+00:00
+
+ ## Download Free Bootstrap Templates & Website Themes | Designstub
+ - [http://www.designstub.com](http://www.designstub.com)
+ - date_published: 2024-04-28T03:45:32.607688+00:00
+
+ ## Design System Canvas — Download Now!
+ - [https://designsystemcanvas.com](https://designsystemcanvas.com)
+ - date_published: 2024-05-06T22:19:41.343386+00:00
+
+ ## Show HN: Possibly the most comprehensive design system collection
+ - [https://www.designsystemhunt.com](https://www.designsystemhunt.com)
+ - date_published: 2024-01-05T03:23:31+00:00
+
+ ## DesignSystems.com
+ - [https://www.designsystems.com](https://www.designsystems.com)
+ - date_published: 2024-04-29T07:15:19.862644+00:00
+
+ ## Design Systems Repo
+ - [https://designsystemsrepo.com](https://designsystemsrepo.com)
+ - date_published: 2024-05-06T13:44:56.044080+00:00
+
+ ## DesignWanted
+ - [https://designwanted.com](https://designwanted.com)
+ - date_published: 2021-11-23T13:44:47+00:00
+
+ ## Free Engineering Research Library of White Papers, Magazines, Reports, and eBooks
+ - [https://dw-resources.designworldonline.com](https://dw-resources.designworldonline.com)
+ - date_published: 2024-05-02T09:27:57.357159+00:00
+
+ ## Home
+ - [https://www.designworldonline.com](https://www.designworldonline.com)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Design You Trust
+ - [https://designyoutrust.com](https://designyoutrust.com)
+ - date_published: 2023-10-25T13:50:22.315830+00:00
+
+ ## Home - desimslaughter
+ - [https://desimslaughter.com](https://desimslaughter.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Career - Desi M. Slaughter | @desimslaughter
+ - [http://www.desireeslaughter.com](http://www.desireeslaughter.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Services financiers aux particuliers
+ - [https://www.desjardins.com](https://www.desjardins.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## DeskTime | A Time Tracker For Both Remote And On-site Teams
+ - [https://desktime.com](https://desktime.com)
+ - date_published: 2024-05-07T15:20:07.373093+00:00
+
+ ## Show HN: I made a Mac app to search my images and videos with AI
+ - [https://desktopdocs.com](https://desktopdocs.com)
+ - date_published: 2024-05-15T19:44:46+00:00
+
+ ## Desktop of Samuel
+ - [https://desktopofsamuel.com](https://desktopofsamuel.com)
+ - date_published: 2024-05-11T10:18:27.575023+00:00
+
+ ## DeSmog
+ - [https://www.desmog.com](https://www.desmog.com)
+ - date_published: 2024-01-09T02:21:59.409554+00:00
+ - tags: ['fact check']
+
+ ## Home
+ - [https://cm.desmoinesregister.com](https://cm.desmoinesregister.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home
+ - [https://connect.desmoinesregister.com](https://connect.desmoinesregister.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Help Center - The Des Moines Register
+ - [https://help.desmoinesregister.com](https://help.desmoinesregister.com)
+ - date_published: 2024-05-01T04:48:57.540386+00:00
+
  ## Newsletters | The Des Moines Register
  - [https://profile.desmoinesregister.com](https://profile.desmoinesregister.com)
  - date_published: 2024-05-01T04:48:56.283882+00:00
@@ -704,6 +857,10 @@
  ## Dave Heinemann
  - [https://dheinemann.com](https://dheinemann.com)
  - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Dhenara.com
+ - [https://dhenara.com](https://dhenara.com)
+ - date_published: 2024-06-08T11:04:52.686502+00:00
 
  ## DHgate - Buy China Wholesale Products Online Shopping from China Suppliers.
  - [https://www.dhgate.com](https://www.dhgate.com)
@@ -1439,6 +1596,10 @@
  ## Dioxus | An elegant GUI library for Rust
  - [https://dioxuslabs.com](https://dioxuslabs.com)
  - date_published: 2023-10-25T13:52:52.991858+00:00
+
+ ## Dipak C. Gajjar • Freelance WordPress Developer London
+ - [https://dipakgajjar.com](https://dipakgajjar.com)
+ - date_published: 2021-01-05T16:47:58+00:00
 
  ## Diploma Makers – Buy a Fake Diploma & Transcript Fast!
  - [https://diploma-makers.com](https://diploma-makers.com)
@@ -3171,6 +3332,10 @@
  - [https://donnytruong.com](https://donnytruong.com)
  - date_published: 2024-05-07T10:44:31.790580+00:00
 
+ ## Donny Wals – Your source to learn Swift, iOS Development and become a better programmer
+ - [https://www.donnywals.com](https://www.donnywals.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
  ## Darmowy przycisk darowizny Donorbox – fundraising non-profit
  - [https://donorbox.com](https://donorbox.com)
  - date_published: 2024-05-09T06:11:32.790994+00:00
@@ -3927,169 +4092,4 @@
  ## Redirect
  - [https://aspencore.dragonforms.com](https://aspencore.dragonforms.com)
  - date_published: 2024-05-01T08:29:22.095847+00:00
-
- ## Redirect
- - [https://bnp.dragonforms.com](https://bnp.dragonforms.com)
- - date_published: 2024-04-29T03:01:04.770642+00:00
-
- ## Redirect
- - [https://businessinsurance.dragonforms.com](https://businessinsurance.dragonforms.com)
- - date_published: 2024-05-08T04:00:47.840192+00:00
-
- ## Redirect
- - [https://charlemagne.dragonforms.com](https://charlemagne.dragonforms.com)
- - date_published: 2024-05-08T08:46:57.142297+00:00
-
- ## Redirect
- - [https://endeavor.dragonforms.com](https://endeavor.dragonforms.com)
- - date_published: 2024-05-01T08:42:51.257637+00:00
-
- ## Redirect
- - [https://flyingmag.dragonforms.com](https://flyingmag.dragonforms.com)
- - date_published: 2024-05-06T23:26:01.681870+00:00
-
- ## Redirect
- - [https://flyingmedia.dragonforms.com](https://flyingmedia.dragonforms.com)
- - date_published: 2024-05-04T06:27:53.177571+00:00
-
- ## Redirect
- - [https://foodlogistics.dragonforms.com](https://foodlogistics.dragonforms.com)
- - date_published: 2024-05-04T06:34:53.714617+00:00
-
- ## Redirect
- - [https://gams.dragonforms.com](https://gams.dragonforms.com)
- - date_published: 2024-05-04T12:26:18.858074+00:00
-
- ## Redirect
- - [https://kalmbach.dragonforms.com](https://kalmbach.dragonforms.com)
- - date_published: 2024-05-01T05:14:34.180833+00:00
-
- ## Redirect
- - [https://northstar.dragonforms.com](https://northstar.dragonforms.com)
- - date_published: 2024-05-08T04:02:04.032828+00:00
-
- ## Redirect
- - [https://ntg.dragonforms.com](https://ntg.dragonforms.com)
- - date_published: 2024-05-08T04:01:18.313881+00:00
-
- ## Redirect
- - [https://payloadspace.dragonforms.com](https://payloadspace.dragonforms.com)
- - date_published: 2024-05-06T22:46:17.586387+00:00
-
- ## Redirect
- - [https://peerless.dragonforms.com](https://peerless.dragonforms.com)
- - date_published: 2024-04-28T05:23:22.209983+00:00
-
- ## Redirect
- - [https://publishersweekly.dragonforms.com](https://publishersweekly.dragonforms.com)
- - date_published: 2024-05-07T09:46:01.930631+00:00
-
- ## Redirect
- - [https://sightline.dragonforms.com](https://sightline.dragonforms.com)
- - date_published: 2024-05-01T02:47:35.756303+00:00
-
- ## Redirect
- - [https://skyandtelescope.dragonforms.com](https://skyandtelescope.dragonforms.com)
- - date_published: 2024-05-11T08:18:08.864338+00:00
-
- ## Dragon Lady Today | U-2 Dragon Lady latest news and books by Chris Pocock
- - [https://dragonladytoday.com](https://dragonladytoday.com)
- - date_published: 2023-10-25T13:58:17.023100+00:00
-
- ## Coming Soon
- - [https://www.dragons-gate.com](https://www.dragons-gate.com)
- - date_published: 2024-03-27T20:50:13.970468+00:00
-
- ## home
- - [http://dragonstairs.com](http://dragonstairs.com)
- - date_published: 2024-05-11T09:11:00.468848+00:00
-
- ## Dragonsteel Books
- - [https://www.dragonsteelbooks.com](https://www.dragonsteelbooks.com)
- - date_published: 2024-05-08T03:21:56.490621+00:00
-
- ## Home - Dragzine
- - [http://www.dragzine.com](http://www.dragzine.com)
- - date_published: 2024-05-02T09:28:40.406593+00:00
-
- ## Draken Harald Hårfagre
- - [https://www.drakenhh.com](https://www.drakenhh.com)
- - date_published: 2023-10-25T13:58:19.519096+00:00
-
- ## Draken Harald Hårfagre Official Shop
- - [https://drakenshop.com](https://drakenshop.com)
- - date_published: 2024-05-01T07:45:59.140096+00:00
-
- ## Drake Rossman's Website
- - [https://drakerossman.com](https://drakerossman.com)
- - date_published: 2023-10-25T13:58:21.086766+00:00
-
- ## Free flowchart, mind map, and checklist software—DrakonHub
- - [https://drakonhub.com](https://drakonhub.com)
- - date_published: 2023-10-25T13:58:22.226558+00:00
-
- ## DramaDose
- - [https://www.dramadose.com](https://www.dramadose.com)
- - date_published: 2024-05-08T06:59:45.920710+00:00
-
- ## Welcome to dranger.com
- - [https://dranger.com](https://dranger.com)
- - date_published: 2024-01-09T02:35:22.654698+00:00
-
- ## Welcome to dranger.com
- - [http://www.dranger.com](http://www.dranger.com)
- - date_published: 2006-01-01T00:00:00+00:00
-
- ## Drapers
- - [https://www.drapersonline.com](https://www.drapersonline.com)
- - date_published: 2024-05-02T10:21:58.052288+00:00
-
- ## Dr. Ashley Turner
- - [https://www.drashleyturner.com](https://www.drashleyturner.com)
- - date_published: 2024-05-06T16:43:02.544456+00:00
-
- ## Drata CDN
- - [https://cdn.drata.com](https://cdn.drata.com)
- - date_published: 2024-05-02T07:58:30.966765+00:00
-
- ## Automated SOC 2, HIPAA, GDPR, Risk Management, & More | Drata
- - [https://drata.com](https://drata.com)
- - date_published: 2024-05-02T07:58:30.010983+00:00
-
- ## Drawabox | A free, exercise based approach to learning the fundamentals of drawing
- - [https://www.drawabox.com](https://www.drawabox.com)
- - date_published: 2024-05-02T13:47:20.222164+00:00
-
- ## Brandon B.
- - [http://www.drawbrandondraw.com](http://www.drawbrandondraw.com)
- - date_published: 2024-05-11T10:32:49.730013+00:00
- - tags: ['personal', 'comics']
-
- ## DrawingsOf.com - Educational Art about Language and Life by Lillie
- - [https://drawingsof.com](https://drawingsof.com)
- - date_published: 2024-04-14T00:00:00+00:00
-
- ## a Tampa Bay Rays community
- - [http://www.draysbay.com](http://www.draysbay.com)
- - date_published: 2024-04-29T02:04:58.299308+00:00
-
- ## Dr. Brandt Skincare Take The Doctor Home
- - [https://www.drbrandtskincare.com](https://www.drbrandtskincare.com)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Dr. Cat Hicks | Resilient Productivity
- - [https://www.drcathicks.com](https://www.drcathicks.com)
- - date_published: 2023-10-25T13:58:26.111396+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.drchrono.com](https://www.drchrono.com)
- - date_published: 2024-05-01T05:57:14.805084+00:00
-
- ## Dr. Chuck Online - Free Courses in Technology and Programming
- - [https://online.dr-chuck.com](https://online.dr-chuck.com)
- - date_published: 2024-06-07T15:15:52.093876+00:00
-
- ## Dr. Cox Consulting |
- - [https://drcoxconsulting.com](https://drcoxconsulting.com)
- - date_published: 2024-02-25T18:42:46.375096+00:00
 

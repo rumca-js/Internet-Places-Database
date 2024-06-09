@@ -1,3 +1,570 @@
+ ## Shades of Greaves | Carlos Greaves | Substack
+ - [https://shadesofgreaves.substack.com](https://shadesofgreaves.substack.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## The Art of Enchantment, with Dr Sharon Blackie | Substack
+ - [https://sharonblackie.substack.com](https://sharonblackie.substack.com)
+ - date_published: 2024-04-03T07:50:08.134506+00:00
+
+ ## Shatter Zone | The Only Robert Evans | Substack
+ - [https://shatterzone.substack.com](https://shatterzone.substack.com)
+ - date_published: 2024-01-09T01:44:13.433867+00:00
+
+ ## the shimmering void | Ben Follington | Substack
+ - [https://shimmeringvoid.substack.com](https://shimmeringvoid.substack.com)
+ - date_published: 2024-01-09T01:44:15.644681+00:00
+
+ ## Shawn’s Substack | Substack
+ - [https://shmck.substack.com](https://shmck.substack.com)
+ - date_published: 2023-11-03T14:50:19.834430+00:00
+
+ ## Madhur’s Writings | Madhur Shrimal | Substack
+ - [https://shrimalmadhur.substack.com](https://shrimalmadhur.substack.com)
+ - date_published: 2023-10-25T10:03:33.706563+00:00
+ - tags: ['substack']
+
+ ## Startup Investing | Shruti Gandhi | Substack
+ - [https://shrutigandhi.substack.com](https://shrutigandhi.substack.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Sibelius’s Newsletter | Sibelius Seraphini | Substack
+ - [https://sibelius.substack.com](https://sibelius.substack.com)
+ - date_published: 2023-10-25T17:19:21.199989+00:00
+
+ ## Siddarth's Newsletter  | Substack
+ - [https://siddarthrg.substack.com](https://siddarthrg.substack.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Obvious Bicycle | Siddhesh | Substack
+ - [https://siddhesh.substack.com](https://siddhesh.substack.com)
+ - date_published: 2023-12-19T00:38:00.924670+00:00
+
+ ## Simon Grimm | Substack
+ - [https://simongrimm.substack.com](https://simongrimm.substack.com)
+ - date_published: 2024-04-29T03:58:29.546033+00:00
+
+ ## The Map is Mostly Water | Simon Sarris | Substack
+ - [https://simonsarris.substack.com](https://simonsarris.substack.com)
+ - date_published: 2023-10-25T10:03:37.881602+00:00
+ - tags: ['substack']
+
+ ## Simon Willison’s Newsletter | Substack
+ - [https://simonw.substack.com](https://simonw.substack.com)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Simplicity is SOTA | Richard Demsyn-Jones | Substack
+ - [https://simplicityissota.substack.com](https://simplicityissota.substack.com)
+ - date_published: 2024-01-09T01:44:19.327248+00:00
+
+ ## Simply Orthodox | Jamey Bennett | Substack
+ - [https://simplyorthodox.substack.com](https://simplyorthodox.substack.com)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Sinica | Kaiser Y Kuo | Substack
+ - [https://sinica.substack.com](https://sinica.substack.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Stupid Fresh Mess | Skottie Young | Substack
+ - [https://skottieyoung.substack.com](https://skottieyoung.substack.com)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Skunk Ledger | BLAP | Substack
+ - [https://skunkledger.substack.com](https://skunkledger.substack.com)
+ - date_published: 2024-01-09T01:44:21.881309+00:00
+
+ ## Irregular Ideas with Paul Kedrosky & Eric Norlin of SKV | SK Ventures | Substack
+ - [https://skventures.substack.com](https://skventures.substack.com)
+ - date_published: 2024-01-09T01:44:24.174332+00:00
+
+ ## Skybrian’s Blog | Substack
+ - [https://skybrian.substack.com](https://skybrian.substack.com)
+ - date_published: 2023-10-25T10:03:51.030062+00:00
+ - tags: ['substack']
+
+ ## Slower News - Quarterly | E. Ferreira | Substack
+ - [https://slowernews.substack.com](https://slowernews.substack.com)
+ - date_published: 2024-05-12T04:26:16.466693+00:00
+
+ ## Soaring Twenties | Thomas J Bevan | Substack
+ - [https://soaringtwenties.substack.com](https://soaringtwenties.substack.com)
+ - date_published: 2024-01-09T01:44:31.480800+00:00
+
+ ## Social’s Substack | Social Protocols | Substack
+ - [https://socialprotocols.substack.com](https://socialprotocols.substack.com)
+ - date_published: 2024-05-21T02:47:54.146843+00:00
+
+ ## Social Warming by Charles Arthur | Substack
+ - [https://socialwarming.substack.com](https://socialwarming.substack.com)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Reverie by Daniel Cawrey | Substack
+ - [https://somereverie.substack.com](https://somereverie.substack.com)
+ - date_published: 2023-10-25T10:03:59.905705+00:00
+ - tags: ['substack']
+
+ ## NeoNarrative | Sotonye | Substack
+ - [https://sotonye.substack.com](https://sotonye.substack.com)
+ - date_published: 2023-10-25T10:04:03.629604+00:00
+ - tags: ['substack']
+
+ ## Not Found
+ - [https://sowhatseries.substack.com](https://sowhatseries.substack.com)
+ - date_published: 2024-04-28T03:25:03.532843+00:00
+
+ ## Little Spark Stack | Lisa Colón DeLay | SparkMyMuse | Substack
+ - [https://sparkmymuse.substack.com](https://sparkmymuse.substack.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## As If We Were Staying | Spencer R. Scott | Substack
+ - [https://spencerrscott.substack.com](https://spencerrscott.substack.com)
+ - date_published: 2024-04-30T06:18:48.416937+00:00
+
+ ## Future Proof  | Substack
+ - [https://spinofffutureproof.substack.com](https://spinofffutureproof.substack.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Ensign's Log, Stardate... | Substack
+ - [https://stardate.substack.com](https://stardate.substack.com)
+ - date_published: 2024-05-10T06:46:47.082658+00:00
+
+ ## Stars After Stars After Stars | James Barber | Substack
+ - [https://starsafterstarsafterstars.substack.com](https://starsafterstarsafterstars.substack.com)
+ - date_published: 2024-01-10T03:57:55.390842+00:00
+
+ ## Startup Dad | Adam Fishman | Substack
+ - [https://startupdadpod.substack.com](https://startupdadpod.substack.com)
+ - date_published: 2024-05-04T06:13:31.518965+00:00
+
+ ## Innovation Nation | George Patterson Sibble | Substack
+ - [https://startupdreams.substack.com](https://startupdreams.substack.com)
+ - date_published: 2023-10-25T10:04:12.459507+00:00
+ - tags: ['substack']
+
+ ## Startup Pirate by Alex Alexakis | Substack
+ - [https://startuppirate.substack.com](https://startuppirate.substack.com)
+ - date_published: 2024-01-09T01:44:39.384964+00:00
+
+ ## Start-up Society | Substack
+ - [https://startupsociety.substack.com](https://startupsociety.substack.com)
+ - date_published: 2024-05-07T10:05:11.374062+00:00
+
+ ## The Future of Statistical Modeling | Andrew Gelman | Substack
+ - [https://statmodeling.substack.com](https://statmodeling.substack.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## The Status Kuo | Jay Kuo | Substack
+ - [https://statuskuo.substack.com](https://statuskuo.substack.com)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## Steady | Dan Rather | Substack
+ - [https://steady.substack.com](https://steady.substack.com)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Pink Animal Light | St. White | Substack
+ - [https://stefanwhite.substack.com](https://stefanwhite.substack.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Software and the energy transition | Stephen Young | Substack
+ - [https://stephendeyoung.substack.com](https://stephendeyoung.substack.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## One First | Steve Vladeck | Substack
+ - [https://stevevladeck.substack.com](https://stevevladeck.substack.com)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## stiankri's blog | Stian Kristoffersen | Substack
+ - [https://stiankri.substack.com](https://stiankri.substack.com)
+ - date_published: 2024-04-09T17:39:17.780885+00:00
+
+ ## Stillness in the West | Jack Leahy | Substack
+ - [https://stillnessinthewest.substack.com](https://stillnessinthewest.substack.com)
+ - date_published: 2024-01-06T00:00:00+00:00
+
+ ## Data People Etc. | Stephen Bailey | Substack
+ - [https://stkbailey.substack.com](https://stkbailey.substack.com)
+ - date_published: 2023-10-25T10:04:23.504857+00:00
+ - tags: ['substack']
+
+ ## Data Streaming Journey | Yaroslav Tkachenko | Substack
+ - [https://streamingdata.substack.com](https://streamingdata.substack.com)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Series Business (fka Strikegeist) | Richard Rushfield | Substack
+ - [https://strikegeist.substack.com](https://strikegeist.substack.com)
+ - date_published: 2024-05-06T16:16:02.228213+00:00
+
+ ## Science Fictions | Stuart Ritchie | Substack
+ - [https://stuartritchie.substack.com](https://stuartritchie.substack.com)
+ - date_published: 2023-10-25T10:04:31.154160+00:00
+ - tags: ['substack']
+
+ ## Subconscious | Gordon Brander | Substack
+ - [https://subconscious.substack.com](https://subconscious.substack.com)
+ - date_published: 2023-10-25T10:04:33.464701+00:00
+ - tags: ['substack']
+
+ ## Substack - A new economic engine for culture
+ - [https://substack.com](https://substack.com)
+ - date_published: 2023-10-25T10:04:35.854636+00:00
+ - tags: ['substack']
+
+ ## Sudo Apps | Samir Khoja | Substack
+ - [https://sudoapps.substack.com](https://sudoapps.substack.com)
+ - date_published: 2024-01-09T01:44:47.657089+00:00
+
+ ## Suhweet Driving School | Substack
+ - [https://suhweet.substack.com](https://suhweet.substack.com)
+ - date_published: 2024-01-01T08:05:08.288220+00:00
+
+ ## Sungho Yahng | Substack
+ - [https://sunghoyahng.substack.com](https://sunghoyahng.substack.com)
+ - date_published: 2023-10-25T10:04:44.363089+00:00
+ - tags: ['substack']
+
+ ## Superb Owl | Max Goodbird | Substack
+ - [https://superbowl.substack.com](https://superbowl.substack.com)
+ - date_published: 2024-01-09T01:44:49.704709+00:00
+
+ ## Super Self | Lewis Kallow | Substack
+ - [https://superself.substack.com](https://superself.substack.com)
+ - date_published: 2024-01-09T01:44:53.116651+00:00
+
+ ## An Engineering Self-Study | Surjan Singh | Substack
+ - [https://surjan.substack.com](https://surjan.substack.com)
+ - date_published: 2024-05-06T13:48:46.292492+00:00
+
+ ## Why Aren't I Writing? | Suw Charman-Anderson | Substack
+ - [https://suwca.substack.com](https://suwca.substack.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Latent Space | swyx & Alessio | Substack
+ - [https://swyx.substack.com](https://swyx.substack.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Synthedia | Bret Kinsella | Substack
+ - [https://synthedia.substack.com](https://synthedia.substack.com)
+ - date_published: 2023-10-25T10:04:58.013922+00:00
+ - tags: ['substack']
+
+ ## Syntopikon | Substack
+ - [https://syntopikon.substack.com](https://syntopikon.substack.com)
+ - date_published: 2023-10-25T10:05:00.115504+00:00
+ - tags: ['substack']
+
+ ## Synystron Synlogica | Substack
+ - [https://synystron.substack.com](https://synystron.substack.com)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Systems Approach | Bruce Davie | Substack
+ - [https://systemsapproach.substack.com](https://systemsapproach.substack.com)
+ - date_published: 2023-10-25T10:05:02.967943+00:00
+ - tags: ['substack']
+
+ ## Racket News | Matt Taibbi | Substack
+ - [https://taibbi.substack.com](https://taibbi.substack.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Talk Therapy | Fiona Smith | Substack
+ - [https://talktherapy.substack.com](https://talktherapy.substack.com)
+ - date_published: 2024-05-06T13:56:04.416572+00:00
+
+ ## Tamer’s Substack | Tamer Noah | Substack
+ - [https://tamernoah.substack.com](https://tamernoah.substack.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Tatsuya's Comics | Tatsuya Ishida | Substack
+ - [https://tatsuyaishida.substack.com](https://tatsuyaishida.substack.com)
+ - date_published: 2024-05-11T10:48:07.471440+00:00
+
+ ## Thats Another Fine Mess | TCinLA | Substack
+ - [https://tcinla757.substack.com](https://tcinla757.substack.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Tech Arena | Paul | Substack
+ - [https://techarena.substack.com](https://techarena.substack.com)
+ - date_published: 2023-11-20T17:03:59.764776+00:00
+
+ ## The Tech Leader Docs | Victoria Drake | Substack
+ - [https://techleaderdocs.substack.com](https://techleaderdocs.substack.com)
+ - date_published: 2024-04-30T02:27:14.299494+00:00
+
+ ## The Technically Challenged Newsletter | Jesse | Substack
+ - [https://technicallychallenged.substack.com](https://technicallychallenged.substack.com)
+ - date_published: 2023-10-25T10:05:10.127902+00:00
+ - tags: ['substack']
+
+ ## The Reactionary | Techno Fog | Substack
+ - [https://technofog.substack.com](https://technofog.substack.com)
+ - date_published: 2023-10-25T10:05:12.420026+00:00
+ - tags: ['substack']
+
+ ## https://techtalksweekly.substack.com
+ - [https://techtalksweekly.substack.com](https://techtalksweekly.substack.com)
+ - date_published: 2024-01-14T11:06:13.211779+00:00
+
+ ## The Honest Broker | Ted Gioia | Substack
+ - [https://tedgioia.substack.com](https://tedgioia.substack.com)
+ - date_published: 2023-10-25T10:05:14.471020+00:00
+ - tags: ['substack']
+
+ ## Hope For Film | Ted Hope | Substack
+ - [https://tedhope.substack.com](https://tedhope.substack.com)
+ - date_published: 2023-10-25T10:05:16.815969+00:00
+ - tags: ['substack']
+
+ ## Textual Variations | Mikhail Skoptsov | Substack
+ - [https://textualvariations.substack.com](https://textualvariations.substack.com)
+ - date_published: 2023-10-25T10:05:24.832937+00:00
+ - tags: ['substack']
+
+ ## TheAbbie Blog | Abhishek Chaudhary | Substack
+ - [https://theabbie.substack.com](https://theabbie.substack.com)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## The Adam Thomas Product Newsletter | Substack
+ - [https://theadamthomas.substack.com](https://theadamthomas.substack.com)
+ - date_published: 2024-05-06T16:14:49.852245+00:00
+
+ ## The AI Report | Substack
+ - [https://theaireport.substack.com](https://theaireport.substack.com)
+ - date_published: 2023-10-25T10:05:28.121557+00:00
+ - tags: ['substack']
+
+ ## The AI Underwriter | Otakar G. Hubschmann | Substack
+ - [https://theaiunderwriter.substack.com](https://theaiunderwriter.substack.com)
+ - date_published: 2023-10-25T10:05:29.847109+00:00
+ - tags: ['substack']
+
+ ## The Algorithmic Bridge | Alberto Romero | Substack
+ - [https://thealgorithmicbridge.substack.com](https://thealgorithmicbridge.substack.com)
+ - date_published: 2023-11-18T13:29:05.300485+00:00
+
+ ## The Alternative Hypothesis | Ryan Faulk | Substack
+ - [https://thealternativehypothesis.substack.com](https://thealternativehypothesis.substack.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## The AP (Alex Pareene) Newsletter | Substack
+ - [https://theap.substack.com](https://theap.substack.com)
+ - date_published: 2024-01-09T01:44:55.633176+00:00
+
+ ## The Armchair Strategist | MJT | Substack
+ - [https://thearmchairstrategist.substack.com](https://thearmchairstrategist.substack.com)
+ - date_published: 2024-05-11T09:36:15.496554+00:00
+
+ ## a/symmetric | Force Distance Times | Substack
+ - [https://theasymmetric.substack.com](https://theasymmetric.substack.com)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## The Banter - Washington DC  | Ben Cohen | Substack
+ - [https://thebanter.substack.com](https://thebanter.substack.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## The Biography Project | Dan Vekhter | Substack
+ - [https://thebiographyproject.substack.com](https://thebiographyproject.substack.com)
+ - date_published: 2024-05-07T14:58:46.306923+00:00
+
+ ## The Boil Up | Substack
+ - [https://theboilup.substack.com](https://theboilup.substack.com)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Breather | Debjit Banerjee | Substack
+ - [https://thebreather.substack.com](https://thebreather.substack.com)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## The Builder JR’s Newsletter | Substack
+ - [https://thebuilderjr.substack.com](https://thebuilderjr.substack.com)
+ - date_published: 2024-01-09T01:45:03.099174+00:00
+
+ ## The Business Leader Daily | Josh at Business Leader Daily | Substack
+ - [https://thebusinessleaderdaily.substack.com](https://thebusinessleaderdaily.substack.com)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## The Chancery Daily | Chance the Lawyer | Substack
+ - [https://thechancerydaily.substack.com](https://thechancerydaily.substack.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## The Chip Letter | Babbage | Substack
+ - [https://thechipletter.substack.com](https://thechipletter.substack.com)
+ - date_published: 2023-10-25T10:05:37.013524+00:00
+ - tags: ['substack']
+
+ ## The Climate Brink | Andrew Dessler | Substack
+ - [https://theclimatebrink.substack.com](https://theclimatebrink.substack.com)
+ - date_published: 2023-10-25T10:05:41.214841+00:00
+ - tags: ['substack']
+
+ ## The Column  | Adam Johnson | Substack
+ - [https://thecolumn.substack.com](https://thecolumn.substack.com)
+ - date_published: 2023-10-25T10:05:48.708696+00:00
+ - tags: ['substack']
+
+ ## The Common Sensei | Neil Bierbaum | Substack
+ - [https://thecommonsensei.substack.com](https://thecommonsensei.substack.com)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## The Convivial Society | L. M. Sacasas | Substack
+ - [https://theconvivialsociety.substack.com](https://theconvivialsociety.substack.com)
+ - date_published: 2024-01-09T01:45:04.895361+00:00
+
+ ## The Cookie Castle News | Pat Condelli The Cookie Queen | Substack
+ - [https://thecookiequeen.substack.com](https://thecookiequeen.substack.com)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## The Daily Developer | Dave Paola | Substack
+ - [https://thedailydeveloper.substack.com](https://thedailydeveloper.substack.com)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## The Deliberate | Sam Spurlin | Substack
+ - [https://thedeliberate.substack.com](https://thedeliberate.substack.com)
+ - date_published: 2024-04-29T01:45:22.447179+00:00
+
+ ## The Egg And The Rock | Julian Gough | Substack
+ - [https://theeggandtherock.substack.com](https://theeggandtherock.substack.com)
+ - date_published: 2024-01-09T01:45:12.611281+00:00
+
+ ## The Exit Game | Mujavid Bukhari | Substack
+ - [https://theexitgame.substack.com](https://theexitgame.substack.com)
+ - date_published: 2024-01-09T01:45:15.805900+00:00
+
+ ## The Folk Forecast | Substack
+ - [https://thefolkforecast.substack.com](https://thefolkforecast.substack.com)
+ - date_published: 2024-04-28T01:57:12.797072+00:00
+
+ ## The Fucking News | Jonathan Larsen | Substack
+ - [https://thefuckingnews.substack.com](https://thefuckingnews.substack.com)
+ - date_published: 2024-01-21T00:00:00+00:00
+
+ ## The Gauntlet | Julia Doubleday | Substack
+ - [https://thegauntlet.substack.com](https://thegauntlet.substack.com)
+ - date_published: 2023-10-25T10:05:59.859496+00:00
+ - tags: ['substack']
+
+ ## The Generalist | Mario Gabriele | Substack
+ - [https://thegeneralist.substack.com](https://thegeneralist.substack.com)
+ - date_published: 2024-04-30T06:56:25.225922+00:00
+
+ ## The Golden Hour: climate, children, mental health | Anya Kamenetz | Substack
+ - [https://thegoldenhour.substack.com](https://thegoldenhour.substack.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## The Gradient | Substack
+ - [https://thegradientpub.substack.com](https://thegradientpub.substack.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## The Handbasket | Marisa Kabas | Substack
+ - [https://thehandbasket.substack.com](https://thehandbasket.substack.com)
+ - date_published: 2023-10-25T10:06:03.171125+00:00
+ - tags: ['substack']
+
+ ## The Hustling Engineer | Hemant Pandey | Substack
+ - [https://thehustlingengineer.substack.com](https://thehustlingengineer.substack.com)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## The Ice Man  | Seth Hettena | Substack
+ - [https://theiceman.substack.com](https://theiceman.substack.com)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## The Introverted Networker | Greg | Substack
+ - [https://theintrovertednetworker.substack.com](https://theintrovertednetworker.substack.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## The Jewish Table | Leah Koenig | Substack
+ - [https://thejewishtable.substack.com](https://thejewishtable.substack.com)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Become The Wild | Kat | Substack
+ - [https://thekatgeorga.substack.com](https://thekatgeorga.substack.com)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## The Kennedy Beacon | Substack
+ - [https://thekennedybeacon.substack.com](https://thekennedybeacon.substack.com)
+ - date_published: 2024-05-07T10:32:15.530674+00:00
+
+ ## The Ladybird Purse • Opening up about money | Keris Fox | Substack
+ - [https://theladybirdpurse.substack.com](https://theladybirdpurse.substack.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## The Land of Random | David Nichols | Substack
+ - [https://thelandofrandom.substack.com](https://thelandofrandom.substack.com)
+ - date_published: 2024-05-01T04:29:28.870910+00:00
+
+ ## The Lap | Charlie Daly | Substack
+ - [https://thelap.substack.com](https://thelap.substack.com)
+ - date_published: 2024-05-10T06:46:46.106332+00:00
+
+ ## The Lettuce | Dave Macleod | Substack
+ - [https://thelettuce.substack.com](https://thelettuce.substack.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## The Lineup | John Pugh | Substack
+ - [https://thelineupwithjohnpugh.substack.com](https://thelineupwithjohnpugh.substack.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Living Fossils | The Living Fossils | Substack
+ - [https://thelivingfossils.substack.com](https://thelivingfossils.substack.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## The Macro Compass | Alfonso Peccatiello (Alf) | Substack
+ - [https://themacrocompass.substack.com](https://themacrocompass.substack.com)
+ - date_published: 2024-01-09T01:45:22.656513+00:00
+
+ ## The Magnet | Mark Frauenfelder | Substack
+ - [https://themagnet.substack.com](https://themagnet.substack.com)
+ - date_published: 2024-04-03T06:41:26.030404+00:00
+
+ ## The New Urban Order | Diana Lind | Substack
+ - [https://thenewurbanorder.substack.com](https://thenewurbanorder.substack.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## The Optionist  | Janice Min | Substack
+ - [https://theoptionist.substack.com](https://theoptionist.substack.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## The Outlaw Ocean Project | Ian Urbina | Substack
+ - [https://theoutlawocean.substack.com](https://theoutlawocean.substack.com)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## Owen’s Newsletter | Owen Young | Substack
+ - [https://theowenyoung.substack.com](https://theowenyoung.substack.com)
+ - date_published: 2024-05-06T22:18:48.326848+00:00
+
+ ## The Perceptron | Casey Frechette | Substack
+ - [https://theperceptron.substack.com](https://theperceptron.substack.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## The Pudding | Substack
+ - [https://thepuddingmail.substack.com](https://thepuddingmail.substack.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## The Rationalist | Petra | Substack
+ - [https://therationalist.substack.com](https://therationalist.substack.com)
+ - date_published: 2023-10-25T10:06:07.569258+00:00
+ - tags: ['substack']
+
+ ## The Rebooting | Brian Morrissey | Substack
+ - [https://therebooting.substack.com](https://therebooting.substack.com)
+ - date_published: 2024-04-30T06:56:31.533394+00:00
+
+ ## The Rectangle | Callum Booth | Substack
+ - [https://therectangle.substack.com](https://therectangle.substack.com)
+ - date_published: 2024-01-09T01:45:25.693485+00:00
+
+ ## Rick Wilson’s Substack | Substack
+ - [https://therickwilson.substack.com](https://therickwilson.substack.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## The Sauce | Charlie Brown | Substack
+ - [https://thesaucemag.substack.com](https://thesaucemag.substack.com)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## TheSequence | Jesus Rodriguez | Substack
+ - [https://thesequence.substack.com](https://thesequence.substack.com)
+ - date_published: 2024-01-09T01:45:33.787078+00:00
+
+ ## The Software Engineering Times | Ryan Murphy | Substack
+ - [https://thesoftwareengineeringtimes.substack.com](https://thesoftwareengineeringtimes.substack.com)
+ - date_published: 2024-03-03T00:00:00+00:00
+
  ## Latest In Space/ Weekly Space Newsletter | The Space Newsletter | Substack
  - [https://thespacenewsletter.substack.com](https://thespacenewsletter.substack.com)
  - date_published: 2024-05-18T02:47:43.508767+00:00
@@ -2303,6 +2870,11 @@
  - [https://www.systems-souls-society.com](https://www.systems-souls-society.com)
  - date_published: 2024-03-21T00:00:00+00:00
 
+ ## Systemverilog Academy
+ - [https://systemverilogacademy.com](https://systemverilogacademy.com)
+ - date_published: 2024-06-08T11:01:12+00:00
+ - tags: ['fpga', 'verilog']
+
  ## System Weakness
  - [https://systemweakness.com](https://systemweakness.com)
  - date_published: 2024-05-10T00:00:00+00:00
@@ -2400,6 +2972,22 @@
  ## Tabletop Publishers: a board game publisher database
  - [https://tabletoppublishers.com](https://tabletoppublishers.com)
  - date_published: 2024-02-03T00:00:00+00:00
+
+ ## Introduction - Tabletop Simulator API
+ - [https://api.tabletopsimulator.com](https://api.tabletopsimulator.com)
+ - date_published: 2024-06-08T18:16:21.687132+00:00
+
+ ## Home | Tabletop Simulator
+ - [https://forums.tabletopsimulator.com](https://forums.tabletopsimulator.com)
+ - date_published: 2024-06-08T18:16:20.144327+00:00
+
+ ## Tabletop Simulator - Tabletop Simulator Knowledge Base
+ - [https://kb.tabletopsimulator.com](https://kb.tabletopsimulator.com)
+ - date_published: 2024-06-08T18:16:23.224902+00:00
+
+ ## Home | Tabletop Simulator
+ - [https://tabletopsimulator.com](https://tabletopsimulator.com)
+ - date_published: 2024-06-08T18:03:36+00:00
 
  ## Home | Tabletop Simulator
  - [https://www.tabletopsimulator.com](https://www.tabletopsimulator.com)
@@ -3542,574 +4130,4 @@
  ## Teamtailor
  - [https://app.na.teamtailor.com](https://app.na.teamtailor.com)
  - date_published: 2024-05-06T20:27:41.525347+00:00
-
- ## Careers - Epidemic Sound
- - [https://epidemic-sound.teamtailor.com](https://epidemic-sound.teamtailor.com)
- - date_published: 2024-05-02T09:36:16.860144+00:00
-
- ## Careers at Le Wagon - Le Wagon
- - [https://lewagon.teamtailor.com](https://lewagon.teamtailor.com)
- - date_published: 2024-05-10T04:32:17.562633+00:00
-
- ## Careers - Varnish Software
- - [https://varnish-software.teamtailor.com](https://varnish-software.teamtailor.com)
- - date_published: 2024-05-06T21:34:05.230039+00:00
-
- ## TEAMtalk | Football transfers, transfer news, rumours and stats
- - [https://www.teamtalk.com](https://www.teamtalk.com)
- - date_published: 2024-04-29T04:42:01.692790+00:00
-
- ## Lawrence Kesteloot
- - [https://www.teamten.com](https://www.teamten.com)
- - date_published: 2024-04-15T01:05:36.996176+00:00
- - tags: ['personal']
-
- ## Team Topologies
- - [https://teamtopologies.com](https://teamtopologies.com)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Treehouse Blog
- - [https://blog.teamtreehouse.com](https://blog.teamtreehouse.com)
- - date_published: 2024-04-14T00:00:00+00:00
-
- ## Learn to Code Online | Treehouse
- - [https://teamtreehouse.com](https://teamtreehouse.com)
- - date_published: 2024-05-12T06:38:40.260709+00:00
-
- ## Homepage
- - [https://teamup.com](https://teamup.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## TeamViewer Status
- - [https://status.teamviewer.com](https://status.teamviewer.com)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## TeamViewer – oprogramowanie do łączności zdalnej
- - [https://www.teamviewer.com](https://www.teamviewer.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Walnut
- - [https://app.teamwalnut.com](https://app.teamwalnut.com)
- - date_published: 2024-05-06T20:18:18.307229+00:00
-
- ## Project and Team Management Software | Teamwork.com
- - [https://support.teamwork.com](https://support.teamwork.com)
- - date_published: 2024-05-01T05:49:47.304540+00:00
-
- ## The All In One Team Project Management Software - Teamwork.com
- - [https://www.teamwork.com](https://www.teamwork.com)
- - date_published: 2024-05-01T07:27:22.943906+00:00
-
- ## #1 Way To Find Jobs In Sports & Entertainment
- - [https://www.teamworkonline.com](https://www.teamworkonline.com)
- - date_published: 2024-05-11T07:35:18.057996+00:00
-
- ## Fate of A Nation Game
- - [https://aiw.team-yankee.com](https://aiw.team-yankee.com)
- - date_published: 2024-05-04T06:16:33.313574+00:00
-
- ## Vietnam Miniatures Game – Team Yankee Vietnam
- - [https://vietnam.team-yankee.com](https://vietnam.team-yankee.com)
- - date_published: 2024-05-04T06:15:32.693763+00:00
-
- ## Team Yankee
- - [https://www.team-yankee.com](https://www.team-yankee.com)
- - date_published: 2024-05-04T06:16:43.135831+00:00
-
- ## Tea Trekker – Pure, origin-specific, seasonal leaf teas from China, Japan, India, Korea, Nepal, Taiwan. Sourced by us at tea farms and tea factories that we visit and air shipped to us at the time of harvest / manufacture for maximum freshness.
- - [http://www.teatrekker.com](http://www.teatrekker.com)
- - date_published: 2024-04-30T05:00:34.483147+00:00
-
- ## Home
- - [https://www.teavaro.com](https://www.teavaro.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Tea with Tolkien
- - [https://www.teawithtolkien.com](https://www.teawithtolkien.com)
- - date_published: 2023-10-25T13:56:06.179784+00:00
- - tags: ['lord of the rings', 'hobbit']
-
- ## Tech Addressed - Self Hosting / Homelab / Hardware / Open Source
- - [https://www.techaddressed.com](https://www.techaddressed.com)
- - date_published: 2023-10-01T00:00:00+00:00
-
- ## Tech Advisor – Homepage
- - [https://www.techadvisor.com](https://www.techadvisor.com)
- - date_published: 2024-05-04T13:47:08.357682+00:00
-
- ## TechAint – The New Staff From Technology
- - [https://techaint.com](https://techaint.com)
- - date_published: 2023-10-25T17:24:18.770437+00:00
-
- ## Tech At Bloomberg - Pushing the boundaries on innovation | Bloomberg LP
- - [http://techatbloomberg.com](http://techatbloomberg.com)
- - date_published: 2024-05-25T09:50:42.783988+00:00
-
- ## Tech At Bloomberg - Pushing the boundaries on innovation | Bloomberg LP
- - [https://www.techatbloomberg.com](https://www.techatbloomberg.com)
- - date_published: 2024-05-08T11:30:37.857715+00:00
-
- ## TechBeezer
- - [https://techbeezer.com](https://techbeezer.com)
- - date_published: 2024-05-08T10:15:36.294618+00:00
-
- ## Top IT Companies for Your Projects - TechBehemoths
- - [https://techbehemoths.com](https://techbehemoths.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Techbmc
- - [https://www.techbmc.com](https://www.techbmc.com)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Technical Briefs, Design Engineering News | TECH BRIEFS
- - [https://www.techbriefs.com](https://www.techbriefs.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Tech Central Station
- - [http://www.techcentralstation.com](http://www.techcentralstation.com)
- - date_published: 2024-05-04T07:34:41.872501+00:00
-
- ## TechCrunch is part of the Yahoo family of brands
- - [https://techcrunch.com](https://techcrunch.com)
- - date_published: 2024-02-06T12:59:42.243187+00:00
- - tags: ['tech news']
-
- ## TechCrunch is part of the Yahoo family of brands
- - [https://www.techcrunch.com](https://www.techcrunch.com)
- - date_published: 2024-04-30T06:14:20.467858+00:00
-
- ## Techdirt
- - [http://techdirt.com](http://techdirt.com)
- - date_published: 2024-05-04T07:40:31.395664+00:00
-
- ## Techdirt.
- - [https://www.techdirt.com](https://www.techdirt.com)
- - date_published: 2023-10-25T10:15:01.446813+00:00
-
- ## Techdows - Latest Technology News
- - [https://techdows.com](https://techdows.com)
- - date_published: 2023-10-25T17:24:21.014976+00:00
-
- ## TechEBlog
- - [http://www.techeblog.com](http://www.techeblog.com)
- - date_published: 2024-05-04T13:42:48.479453+00:00
-
- ## Internal Tech Emails | Substack
- - [https://www.techemails.com](https://www.techemails.com)
- - date_published: 2023-10-25T17:24:24.810743+00:00
-
- ## TechEmpower, Inc
- - [https://www.techempower.com](https://www.techempower.com)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Tech Equity Collective - Accelerating Black innovation in tech
- - [https://www.techequitycollective.com](https://www.techequitycollective.com)
- - date_published: 2024-05-04T08:29:34.623191+00:00
-
- ## Home - Discover TechEx Events
- - [https://techexevent.com](https://techexevent.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Tech Explorist - Latest Science and Technology News
- - [https://www.techexplorist.com](https://www.techexplorist.com)
- - date_published: 2023-10-25T17:24:28.491926+00:00
-
- ## Tech Funding News | Global technology startup funding news
- - [https://techfundingnews.com](https://techfundingnews.com)
- - date_published: 2023-10-25T17:24:35.857919+00:00
-
- ## https://techgenix.com
- - [https://techgenix.com](https://techgenix.com)
- - date_published: 2023-10-25T17:24:36.123076+00:00
-
- ## Default Inventory : Largest Tech Community | Hackathons, Programming & Coding Challenges | TechGig.com
- - [https://www.techgig.com](https://www.techgig.com)
- - date_published: 2024-05-06T18:29:13.975853+00:00
-
- ## Techgoeasy
- - [https://techgoeasy.com](https://techgoeasy.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## TechHive
- - [https://www.techhive.com](https://www.techhive.com)
- - date_published: 2024-04-29T02:55:51.947658+00:00
-
- ## Techie Media | A leading Managed Hosting and Colocation Provider
- - [http://www.techiemedia.com](http://www.techiemedia.com)
- - date_published: 2024-04-29T03:16:57.485042+00:00
-
- ## Tech in Asia - Connecting Asia's startup ecosystem
- - [http://www.techinasia.com](http://www.techinasia.com)
- - date_published: 2024-05-10T03:47:30.650606+00:00
-
- ## Tech Interrupt | Tristan Greaves | Substack
- - [https://www.techinterrupt.com](https://www.techinterrupt.com)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Find your dream California tech job
- - [https://www.techjobscalifornia.com](https://www.techjobscalifornia.com)
- - date_published: 2024-04-28T04:30:43.437723+00:00
-
- ## Find your dream New York City tech job
- - [https://www.techjobsnewyorkcity.com](https://www.techjobsnewyorkcity.com)
- - date_published: 2024-04-28T04:30:36.245674+00:00
-
- ## Tech-KnowHow.com | Helping you help yourself to technology solutions
- - [https://www.tech-knowhow.com](https://www.tech-knowhow.com)
- - date_published: 2023-10-25T17:24:10.603392+00:00
-
- ## Azyl pielgrzymów
- - [https://pilgrimoutpost.techlandgg.com](https://pilgrimoutpost.techlandgg.com)
- - date_published: 2024-05-01T07:58:43.598440+00:00
-
- ## Techland Gamers & Goodies
- - [https://techlandgg.com](https://techlandgg.com)
- - date_published: 2024-05-01T07:58:44.761451+00:00
- - tags: ['video game developer', 'techland']
-
- ## Techlead Mentor | Raviraj Achar | Substack
- - [https://newsletter.techleadmentor.com](https://newsletter.techleadmentor.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## @ederson
- - [https://www.techleadpodcast.com](https://www.techleadpodcast.com)
- - date_published: 2024-05-10T06:45:58.021556+00:00
-
- ## Techmeme
- - [https://techmeme.com](https://techmeme.com)
- - date_published: 2023-10-25T17:24:58.613645+00:00
-
- ## Techmeme
- - [https://www.techmeme.com](https://www.techmeme.com)
- - date_published: 2024-02-26T00:00:00+00:00
- - tags: ['tech news']
-
- ## TechMentor
- - [https://techmentorevents.com](https://techmentorevents.com)
- - date_published: 2024-05-07T10:29:57.673992+00:00
-
- ## Technic3D.com
- - [https://www.technic3d.com](https://www.technic3d.com)
- - date_published: 2024-04-29T06:35:47.512722+00:00
-
- ## technicianonline.com | NC State's student newspaper since 1920
- - [http://www.technicianonline.com](http://www.technicianonline.com)
- - date_published: 2024-04-29T03:47:28.152329+00:00
-
- ## Technics Polska
- - [https://www.technics.com](https://www.technics.com)
- - date_published: 2024-05-06T22:30:24.575653+00:00
-
- ## Creatures of Thought
- - [https://technicshistory.com](https://technicshistory.com)
- - date_published: 2023-10-25T17:25:03.668553+00:00
- - tags: ['steam', 'hostory']
-
- ## TechniStuff
- - [https://technistuff.com](https://technistuff.com)
- - date_published: 2024-01-20T12:00:43.189682+00:00
-
- ## Technitium | Push The Limits
- - [https://technitium.com](https://technitium.com)
- - date_published: 2024-01-17T08:33:15.522181+00:00
-
- ## Technoblogy
- - [http://www.technoblogy.com](http://www.technoblogy.com)
- - date_published: 2023-10-25T17:25:05.692742+00:00
-
- ## Latest Technology News & Gadgets News | TechnoBugg
- - [https://www.technobugg.com](https://www.technobugg.com)
- - date_published: 2023-10-25T17:25:15.753498+00:00
-
- ## TechNode - Latest China Tech Trends
- - [https://technode.com](https://technode.com)
- - date_published: 2023-10-25T09:35:57.836282+00:00
-
- ## Technologizer by Harry McCracken
- - [https://technologizer.com](https://technologizer.com)
- - date_published: 2024-01-26T19:59:58.276399+00:00
-
- ## Home
- - [https://solutions.technologyadvice.com](https://solutions.technologyadvice.com)
- - date_published: 2024-05-02T10:10:20.429933+00:00
-
- ## B2B Media Services for Technology Companies | TechnologyAdvice
- - [https://technologyadvice.com](https://technologyadvice.com)
- - date_published: 2024-05-02T10:10:06.856425+00:00
-
- ## Tech & AI LIVE 2024
- - [https://live.technologymagazine.com](https://live.technologymagazine.com)
- - date_published: 2024-05-01T02:45:30.887666+00:00
-
- ## Home of Technology News
- - [https://technologymagazine.com](https://technologymagazine.com)
- - date_published: 2024-05-01T02:45:27.662778+00:00
- - tags: ['tech news']
-
- ## Technology Networks - The Online Scientific Community
- - [https://www.technologynetworks.com](https://www.technologynetworks.com)
- - date_published: 2023-10-25T17:25:18.998962+00:00
-
- ## MIT Technology Review
- - [https://www.technologyreview.com](https://www.technologyreview.com)
- - date_published: 2023-10-25T09:36:02.543423+00:00
-
- ## Welcome to Technorati
- - [http://technorati.com](http://technorati.com)
- - date_published: 2024-04-28T02:14:11.805687+00:00
-
- ## Welcome to Technorati
- - [http://www.technorati.com](http://www.technorati.com)
- - date_published: 2024-05-01T08:19:00.333296+00:00
-
- ## TechnoSlipstream | TechnoCritique for a Future Worth Wanting
- - [https://technoslipstream.com](https://technoslipstream.com)
- - date_published: 2024-05-10T05:12:03.884911+00:00
-
- ## TechnoSlipstream | TechnoCritique for a Future Worth Wanting
- - [https://www.technoslipstream.com](https://www.technoslipstream.com)
- - date_published: 2024-05-10T05:12:01.826491+00:00
-
- ## Inventions and Ideas from Science Fiction Books and Movies at Technovelgy.com
- - [http://technovelgy.com](http://technovelgy.com)
- - date_published: 2024-04-29T03:27:10.748936+00:00
-
- ## Inventions and Ideas from Science Fiction Books and Movies at Technovelgy.com
- - [http://www.technovelgy.com](http://www.technovelgy.com)
- - date_published: 2024-05-04T07:41:35.895505+00:00
-
- ## TechOnline - Electronics Papers, Webinars and Resources
- - [https://www.techonline.com](https://www.techonline.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Techopedia - The #1 Source for IT, Tech & Crypto Knowledge
- - [https://www.techopedia.com](https://www.techopedia.com)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Tech Photo Guy Aaron Hockley
- - [https://techphotoguy.com](https://techphotoguy.com)
- - date_published: 2024-01-15T02:46:02.380834+00:00
-
- ## TechPowerUp
- - [https://www.techpowerup.com](https://www.techpowerup.com)
- - date_published: 2023-10-25T17:25:26.426085+00:00
-
- ## TechRadar | the technology experts
- - [https://techradar.com](https://techradar.com)
- - date_published: 2024-05-15T02:59:55.173323+00:00
-
- ## TechRadar | the technology experts
- - [https://www.techradar.com](https://www.techradar.com)
- - date_published: 2023-10-25T10:28:41.163318+00:00
-
- ## TechRepublic: News, Tips & Advice for Technology Professionals
- - [https://www.techrepublic.com](https://www.techrepublic.com)
- - date_published: 2023-10-25T09:36:05.591340+00:00
-
- ## Tech Shop Magazine: Automotive Repair Tools, Supplies and Equipment
- - [https://www.techshopmag.com](https://www.techshopmag.com)
- - date_published: 2024-05-11T08:48:21.148371+00:00
-
- ## Techslang — Tech Explained in Simple Terms
- - [https://www.techslang.com](https://www.techslang.com)
- - date_published: 2024-01-16T18:51:50.284580+00:00
-
- ## TechSpot | Tech Enthusiasts, Power Users, Gamers
- - [https://www.techspot.com](https://www.techspot.com)
- - date_published: 2023-10-25T09:36:09.058914+00:00
-
- ## The Tech Stack Podcast – Interviewing Entrepreneurs, CEOs and Makers about the kit they use.
- - [https://techstackpod.com](https://techstackpod.com)
- - date_published: 2024-04-28T04:55:51.497016+00:00
-
- ## Accelerate Your Success | Techstars Global Startup Network
- - [https://techstars.com](https://techstars.com)
- - date_published: 2024-05-06T14:40:42.256743+00:00
-
- ## Accelerate Your Success | Techstars Global Startup Network
- - [https://www.techstars.com](https://www.techstars.com)
- - date_published: 2024-05-12T06:23:46.197343+00:00
-
- ## TechStartups | Startups and Technology news
- - [https://techstartups.com](https://techstartups.com)
- - date_published: 2023-10-25T17:25:32.553890+00:00
-
- ## Home - Techstrong Group
- - [https://techstronggroup.com](https://techstronggroup.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Techstrong TV Podcasts
- - [https://techstrongpodcasts.com](https://techstrongpodcasts.com)
- - date_published: 2024-05-01T04:56:45.118936+00:00
-
- ## Techstrong TV Podcasts
- - [https://www.techstrongpodcasts.com](https://www.techstrongpodcasts.com)
- - date_published: 2024-05-01T04:57:32.317119+00:00
-
- ## Home - Techstrong Research
- - [https://techstrongresearch.com](https://techstrongresearch.com)
- - date_published: 2024-04-14T00:00:00+00:00
-
- ## Homepage - Gizmo's Best
- - [https://www.techsupportalert.com](https://www.techsupportalert.com)
- - date_published: 2024-05-01T04:29:31.403444+00:00
-
- ## Tech Tactics in Education
- - [https://techtacticsineducation.com](https://techtacticsineducation.com)
- - date_published: 2024-05-07T10:29:41.672075+00:00
-
- ## Tech Talent Vet - Unlock Tech Talent with Precision Vetting
- - [https://techtalentvet.com](https://techtalentvet.com)
- - date_published: 2024-05-12T05:23:27.671588+00:00
-
- ## Resin® Default Home Page
- - [https://go.techtarget.com](https://go.techtarget.com)
- - date_published: 2024-05-08T06:14:16.031896+00:00
-
- ## Data Center Information, News and Tips from TechTarget
- - [https://searchdatacenter.techtarget.com](https://searchdatacenter.techtarget.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Networking Information, News and Tips from TechTarget
- - [https://searchnetworking.techtarget.com](https://searchnetworking.techtarget.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Networking Information, News and Tips from TechTarget
- - [https://searchsdn.techtarget.com](https://searchsdn.techtarget.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## SearchWindowsServer Information, News and Tips from TechTarget
- - [https://searchwindowsserver.techtarget.com](https://searchwindowsserver.techtarget.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## TechTarget
- - [https://users.techtarget.com](https://users.techtarget.com)
- - date_published: 2024-05-08T06:14:19.236863+00:00
-
- ## Computer Glossary, Computer Terms - Technology Definitions and Cheat Sheets from WhatIs.com - The Tech Dictionary and IT Encyclopedia
- - [https://whatis.techtarget.com](https://whatis.techtarget.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Purchase Intent Data for Enterprise Tech Sales and Marketing | TechTarget
- - [https://www.techtarget.com](https://www.techtarget.com)
- - date_published: 2023-10-25T17:25:43.327954+00:00
-
- ## Learn and be better everyday - TechTello
- - [https://www.techtello.com](https://www.techtello.com)
- - date_published: 2023-10-25T17:25:46.707708+00:00
-
- ## TechTerms.com - The Computer Dictionary
- - [https://techterms.com](https://techterms.com)
- - date_published: 2024-05-12T07:08:31.317299+00:00
-
- ## Tech Three Dots
- - [https://techthreedots.com](https://techthreedots.com)
- - date_published: 2023-11-11T23:40:58.568624+00:00
-
- ## Tech Times | Tech News, Science, Health, Reviews
- - [https://www.techtimes.com](https://www.techtimes.com)
- - date_published: 2023-11-27T16:23:40+00:00
- - tags: ['tech news']
-
- ## TechTinkering - Retro Computers, Programming, General Technical Tinkering
- - [https://techtinkering.com](https://techtinkering.com)
- - date_published: 2023-10-25T17:25:47.542481+00:00
-
- ## TechURLs – A neat technology news aggregator
- - [https://techurls.com](https://techurls.com)
- - date_published: 2024-04-09T00:00:00+00:00
- - tags: ['tech news', 'link aggregator']
-
- ## EveryDayIsNewDay
- - [https://techwaltz.com](https://techwaltz.com)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## Tech Week 2024
- - [https://www.tech-week.com](https://www.tech-week.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Tech Week - Gadgets, news and reviews
- - [https://www.techweekmag.com](https://www.techweekmag.com)
- - date_published: 2024-01-09T02:50:04.206010+00:00
-
- ## Agile + DevOps USA | October 13-18, 2024 | Orlando, FL + Online
- - [https://agiledevopsusa.techwell.com](https://agiledevopsusa.techwell.com)
- - date_published: 2024-05-01T02:41:01.048534+00:00
-
- ## AI Conference | June 2-7, 2024 | Las Vegas, NV
- - [https://aiconusa.techwell.com](https://aiconusa.techwell.com)
- - date_published: 2024-05-01T02:41:10.041483+00:00
-
- ## Join TechWell Hub on Slack
- - [https://hub.techwell.com](https://hub.techwell.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## STAREAST Testing Conference | April 28–May 3, 2024 | Orlando, FL + Online
- - [https://stareast.techwell.com](https://stareast.techwell.com)
- - date_published: 2024-05-01T02:42:12.438441+00:00
-
- ## STARWEST Conference | September 22-27, 2024 | Anaheim, CA and Streaming Live
- - [https://starwest.techwell.com](https://starwest.techwell.com)
- - date_published: 2024-05-01T02:41:56.096702+00:00
-
- ## Software Conferences, Training, & Resources | TechWell
- - [https://www.techwell.com](https://www.techwell.com)
- - date_published: 2024-05-01T02:42:05.759746+00:00
-
- ## TechWiser - Tips, Tricks & How to
- - [https://techwiser.com](https://techwiser.com)
- - date_published: 2023-10-25T17:25:51.110378+00:00
-
- ## Tech World With Milan Newsletter | Dr Milan Milanović | Substack
- - [https://newsletter.techworld-with-milan.com](https://newsletter.techworld-with-milan.com)
- - date_published: 2023-12-23T10:43:34.120923+00:00
-
- ## Tech Xplore - Technology and Engineering news
- - [https://techxplore.com](https://techxplore.com)
- - date_published: 2023-10-25T17:25:54.520888+00:00
- - tags: ['science news', 'tech news']
-
- ## TechYourChance
- - [https://www.techyourchance.com](https://www.techyourchance.com)
- - date_published: 2023-10-28T02:15:09.534742+00:00
-
- ## TechZene
- - [http://www.techzene.com](http://www.techzene.com)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## TechZerker
- - [https://techzerker.com](https://techzerker.com)
- - date_published: 2023-04-07T00:00:00+00:00
-
- ## ABQ Techzonics Tech Superstore - Electronic,Scientific,Industrial
- - [https://techzonics.com](https://techzonics.com)
- - date_published: 2023-10-25T17:25:56.943934+00:00
-
- ## Tecmint: Linux Howtos, Tutorials & Guides
- - [https://www.tecmint.com](https://www.tecmint.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Teconce - Most Popular Best WordPress Themes Based on Niche
- - [https://teconce.com](https://teconce.com)
- - date_published: 2024-04-29T05:14:57.967669+00:00
-
- ## TED Audio Collective
- - [https://audiocollective.ted.com](https://audiocollective.ted.com)
- - date_published: 2024-05-11T09:22:43.521163+00:00
-
- ## TED: Ideas worth spreading
- - [https://auth.ted.com](https://auth.ted.com)
- - date_published: 2024-05-11T09:22:37.372399+00:00
-
- ## TED Blog: Further reading on ideas worth spreading
- - [https://blog.ted.com](https://blog.ted.com)
- - date_published: 2024-05-11T09:22:44.766352+00:00
-
- ## TED Countdown | Championing and accelerating solutions to the climate crisis
- - [https://countdown.ted.com](https://countdown.ted.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## TED Courses
- - [https://courses.ted.com](https://courses.ted.com)
- - date_published: 2023-06-26T00:00:00+00:00
 
