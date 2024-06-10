@@ -1,3 +1,47 @@
+ ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://shl.capital](https://shl.capital)
+ - date_published: 2024-04-29T00:29:38.924014+00:00
+
+ ## CS Cards
+ - [https://cs.cards](https://cs.cards)
+ - date_published: 2024-04-30T05:35:19.508107+00:00
+
+ ## CS Cards
+ - [https://www.cs.cards](https://www.cs.cards)
+ - date_published: 2023-10-25T12:10:03.681440+00:00
+
+ ## DO NOT REPLY STICKERS
+ - [https://buy.donotreply.cards](https://buy.donotreply.cards)
+ - date_published: 2024-05-09T04:36:18.934508+00:00
+
+ ## DONOTREPLY.CARDS->EN
+ - [https://donotreply.cards](https://donotreply.cards)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## Facilitator Cards: A Deck for You, Not Your Participants
+ - [https://www.facilitator.cards](https://www.facilitator.cards)
+ - date_published: 2024-04-29T01:48:25.683541+00:00
+
+ ## Deck of Cards
+ - [https://deck.of.cards](https://deck.of.cards)
+ - date_published: 2023-10-25T12:10:08.746785+00:00
+
+ ## The Compendium
+ - [https://thecompendium.cards](https://thecompendium.cards)
+ - date_published: 2024-05-04T09:56:36.471526+00:00
+
+ ## Health Labs Care
+ - [https://www.healthlabs.care](https://www.healthlabs.care)
+ - date_published: 1920-01-01T00:00:00+00:00
+
+ ## Shimmer
+ - [https://app.shimmer.care](https://app.shimmer.care)
+ - date_published: 2024-04-30T05:35:20.495645+00:00
+
+ ## Shimmer | ADHD Coaching That Fit Into Your Life | Expert & Affordable
+ - [https://www.shimmer.care](https://www.shimmer.care)
+ - date_published: 2023-10-25T12:10:12.016239+00:00
+
  ## Appwrite
  - [https://appwrite.careers](https://appwrite.careers)
  - date_published: 2024-05-14T03:35:02.833364+00:00
@@ -291,7 +335,7 @@
 
  ## NVIDIA Deep Imagination Research
  - [https://deepimagination.cc](https://deepimagination.cc)
- - date_published: 2024-01-09T02:27:21.119539+00:00
+ - date_published: 2023-07-17T14:52:50+00:00
 
  ## dict.cc | German-English dictionary
  - [https://www.dict.cc](https://www.dict.cc)
@@ -591,15 +635,15 @@
  - date_published: 2024-05-09T07:49:35.187585+00:00
 
  ## Icecast Streaming Media Server
- - [http://allrelays.rainwave.cc](http://allrelays.rainwave.cc)
+ - [https://allrelays.rainwave.cc](https://allrelays.rainwave.cc)
  - date_published: 1999-01-01T00:00:00+00:00
 
  ## Icecast Streaming Media Server
- - [http://allstream.rainwave.cc](http://allstream.rainwave.cc)
+ - [https://allstream.rainwave.cc](https://allstream.rainwave.cc)
  - date_published: 1999-01-01T00:00:00+00:00
 
  ## Icecast Streaming Media Server
- - [http://chipstream.rainwave.cc](http://chipstream.rainwave.cc)
+ - [https://chipstream.rainwave.cc](https://chipstream.rainwave.cc)
  - date_published: 1999-01-01T00:00:00+00:00
 
  ## Rainwave Video Game Music Radio
@@ -607,15 +651,15 @@
  - date_published: 2024-04-30T05:45:19.725494+00:00
 
  ## Icecast Streaming Media Server
- - [http://coverstream.rainwave.cc](http://coverstream.rainwave.cc)
+ - [https://coverstream.rainwave.cc](https://coverstream.rainwave.cc)
  - date_published: 1999-01-01T00:00:00+00:00
 
  ## Icecast Streaming Media Server
- - [http://gamestream.rainwave.cc](http://gamestream.rainwave.cc)
+ - [https://gamestream.rainwave.cc](https://gamestream.rainwave.cc)
  - date_published: 1999-01-01T00:00:00+00:00
 
  ## Icecast Streaming Media Server
- - [http://ocrstream.rainwave.cc](http://ocrstream.rainwave.cc)
+ - [https://ocrstream.rainwave.cc](https://ocrstream.rainwave.cc)
  - date_published: 1999-01-01T00:00:00+00:00
 
  ## Rainwave Video Game Music Radio
@@ -1021,7 +1065,7 @@
 
  ## Services of cable.ayra.ch
  - [https://cable.ayra.ch](https://cable.ayra.ch)
- - date_published: 2023-10-25T12:13:00.282518+00:00
+ - date_published: 2023-10-12T13:44:48+00:00
 
  ## Home - TS3 Identity generator
  - [https://identity.ayra.ch](https://identity.ayra.ch)
@@ -1370,6 +1414,10 @@
  ## Elektronik, Autos, Mode, Sammlerstücke, Gutscheine und mehr Online-Shopping | eBay
  - [https://www.ebay.ch](https://www.ebay.ch)
  - date_published: 2024-05-01T08:15:10.815993+00:00
+
+ ## EBU Academy Home
+ - [https://academy.ebu.ch](https://academy.ebu.ch)
+ - date_published: 2024-06-13T00:00:00+00:00
 
  ## Home
  - [https://www.ebu.ch](https://www.ebu.ch)
@@ -3284,6 +3332,10 @@
  - [https://jmp.chat](https://jmp.chat)
  - date_published: 2024-05-06T22:13:08.305825+00:00
 
+ ## Chat now
+ - [https://direct.lc.chat](https://direct.lc.chat)
+ - date_published: 2024-06-09T20:51:38.442211+00:00
+
  ## Lei.Chat()
  - [https://www.lei.chat](https://www.lei.chat)
  - date_published: 2023-10-25T12:15:03.468259+00:00
@@ -3999,56 +4051,4 @@
  ## Strona główna - Proxi.cloud
  - [https://proxi.cloud](https://proxi.cloud)
  - date_published: 2024-04-22T00:00:00+00:00
-
- ## Genesys Cloud
- - [https://apps.euw2.pure.cloud](https://apps.euw2.pure.cloud)
- - date_published: 2024-05-04T08:14:50.171972+00:00
-
- ## retro.cloud - trickle-down thinking
- - [https://retro.cloud](https://retro.cloud)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Rumble Cloud
- - [https://www.rumble.cloud](https://www.rumble.cloud)
- - date_published: 2024-04-28T05:58:02.697790+00:00
-
- ## Resume of Sebastian Schürmann - Created as part of the "cloud resume challenge"
- - [https://resume.schuermann.cloud](https://resume.schuermann.cloud)
- - date_published: 2024-05-09T08:01:01.723911+00:00
-
- ## Scramble Cloud - End-to-End encrypted cloud storage
- - [https://info.scramble.cloud](https://info.scramble.cloud)
- - date_published: 2023-10-25T12:15:36.043196+00:00
-
- ## Scramble
- - [https://scramble.cloud](https://scramble.cloud)
- - date_published: 2024-04-30T06:17:42.500393+00:00
-
- ## Attention Required! | Cloudflare
- - [https://matomo.mgmt.sharks.cloud](https://matomo.mgmt.sharks.cloud)
- - date_published: 2024-05-08T06:04:44.706092+00:00
-
- ## Welcome to Shelly Knowledge Base!
- - [https://kb.shelly.cloud](https://kb.shelly.cloud)
- - date_published: 2024-05-01T02:45:15.329806+00:00
-
- ## Welcome to Shelly Technical Documentation | Shelly Technical Documentation
- - [https://shelly-api-docs.shelly.cloud](https://shelly-api-docs.shelly.cloud)
- - date_published: 2024-05-01T02:45:01.510875+00:00
-
- ## Cierpliwości...
- - [https://www.shelly.cloud](https://www.shelly.cloud)
- - date_published: 2024-05-01T02:44:36.870296+00:00
-
- ## Silvan Cloud
- - [https://silvan.cloud](https://silvan.cloud)
- - date_published: 2024-05-04T07:49:09.433409+00:00
-
- ## AI Art Gallery - SINTEF
- - [https://ai-art-gallery.sintef.cloud](https://ai-art-gallery.sintef.cloud)
- - date_published: 2023-10-25T12:15:38.861088+00:00
-
- ## Sign in
- - [https://nos-p-001.sitecorecontenthub.cloud](https://nos-p-001.sitecorecontenthub.cloud)
- - date_published: 2024-05-12T07:54:13.522199+00:00
 

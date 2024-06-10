@@ -1,3 +1,112 @@
+ ## Cyclingnews Forum
+ - [https://forum.cyclingnews.com](https://forum.cyclingnews.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Cyclingnews | Cycling News, Race Results and Bike Reviews
+ - [https://www.cyclingnews.com](https://www.cyclingnews.com)
+ - date_published: 2023-10-25T10:52:58.775912+00:00
+
+ ## VELO - Competitive Cycling News, Race Results and Bike Reviews - Velo
+ - [https://cyclingtips.com](https://cyclingtips.com)
+ - date_published: 2023-10-25T13:41:05.475606+00:00
+
+ ## Cygwin
+ - [https://cygwin.com](https://cygwin.com)
+ - date_published: 2024-05-01T03:28:13.335316+00:00
+
+ ## Cygwin
+ - [https://www.cygwin.com](https://www.cygwin.com)
+ - date_published: 2023-10-30T14:02:57.357923+00:00
+ - tags: ['compiler', 'open source']
+
+ ## Cygwin/X
+ - [http://x.cygwin.com](http://x.cygwin.com)
+ - date_published: 2024-05-01T03:28:14.188123+00:00
+
+ ## Delivering Intelligent Engineering and Technology Solutions
+ - [https://www.cyient.com](https://www.cyient.com)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Cynet AutoXDR™ | Cybersecurity Made Easy
+ - [https://www.cynet.com](https://www.cynet.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Cynicus Rex, a sentient stack of stardust
+ - [https://www.cynicusrex.com](https://www.cynicusrex.com)
+ - date_published: 2024-05-09T08:00:07.519742+00:00
+
+ ## Cynozure - Data and Analytics Strategy Consultancy
+ - [https://www.cynozure.com](https://www.cynozure.com)
+ - date_published: 2024-05-06T08:59:02.277524+00:00
+
+ ## Choose Your Own Adventure
+ - [https://www.cyoa.com](https://www.cyoa.com)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## 新闻频道
+ - [http://news.cyol.com](http://news.cyol.com)
+ - date_published: 2024-05-12T05:58:02.139742+00:00
+
+ ## CypherCon – Wisconsin Hacker Conference 2025 – Largest Technology Conference in Wisconsin
+ - [https://cyphercon.com](https://cyphercon.com)
+ - date_published: 2024-05-04T09:13:44.908574+00:00
+
+ ## Cyprus Daily News Briefing - CyprusBeat
+ - [https://cyprusbeat.com](https://cyprusbeat.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Cyprus Mail
+ - [https://cyprus-mail.com](https://cyprus-mail.com)
+ - date_published: 2023-11-23T13:54:27.955298+00:00
+
+ ## #VisitCzechia
+ - [http://www.czechtourism.com](http://www.czechtourism.com)
+ - date_published: 2024-05-13T03:16:18.990017+00:00
+
+ ## D23: The Official Disney Fan Club
+ - [https://d23.com](https://d23.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+ - tags: ['news', 'disney', 'fan page']
+
+ ## D23 2024: The Ultimate Disney Fan Event
+ - [http://ultimatefanevent.d23.com](http://ultimatefanevent.d23.com)
+ - date_published: 2024-06-06T11:13:06.549627+00:00
+
+ ## Marketing Consultant Home
+ - [https://d2emerge.com](https://d2emerge.com)
+ - date_published: 2024-04-29T02:45:26.519746+00:00
+
+ ## www.lmp.d2g.com
+ - [http://www.lmp.d2g.com](http://www.lmp.d2g.com)
+ - date_published: 2024-02-15T22:11:46.351392+00:00
+ - tags: ['demoscene']
+
+ ## @storybook/cli - Storybook
+ - [http://design-system.d2iq.com](http://design-system.d2iq.com)
+ - date_published: 2024-05-08T09:02:27.434353+00:00
+
+ ## Home | D2 Documentation
+ - [https://d2lang.com](https://d2lang.com)
+ - date_published: 2024-05-06T16:10:34.133168+00:00
+
+ ## D2 Playground
+ - [https://play.d2lang.com](https://play.d2lang.com)
+ - date_published: 2024-03-24T06:56:58+00:00
+
+ ## Tools, Resources, and News for Diablo 2 Resurrected - D2Runewizard
+ - [https://d2runewizard.com](https://d2runewizard.com)
+ - date_published: 2023-10-30T15:21:18.226777+00:00
+ - tags: ['diablo']
+
+ ## Diablo 3 - AnDre#2616 pl
+ - [https://www.d3andre.com](https://www.d3andre.com)
+ - date_published: 2023-10-29T11:09:37.660995+00:00
+ - tags: ['diablo']
+
+ ## The D3 Graph Gallery – Simple charts made in d3.js
+ - [https://www.d3-graph-gallery.com](https://www.d3-graph-gallery.com)
+ - date_published: 2024-05-07T10:30:02.245538+00:00
+
  ## D3 in Depth
  - [https://www.d3indepth.com](https://www.d3indepth.com)
  - date_published: 2024-05-16T14:18:07+00:00
@@ -2768,6 +2877,11 @@
  - [https://deblauwetijger.com](https://deblauwetijger.com)
  - date_published: 2020-11-20T10:11:15+00:00
 
+ ## Thinking as a skill | de Bono
+ - [https://www.debono.com](https://www.debono.com)
+ - date_published: 2024-06-09T17:28:08.228871+00:00
+ - tags: ['personal']
+
  ## Deborah Peacock Photography - Home
  - [http://deborahpeacock.com](http://deborahpeacock.com)
  - date_published: 2024-05-01T04:19:22.395506+00:00
@@ -2831,6 +2945,10 @@
  ## Decembersoft Inc.
  - [https://decembersoft.com](https://decembersoft.com)
  - date_published: 2024-05-06T13:34:02.873731+00:00
+
+ ## Decent Patterns
+ - [https://decentpatterns.com](https://decentpatterns.com)
+ - date_published: 2024-06-09T04:22:39+00:00
 
  ## Décibulles - 12, 13 & 14 juillet 2024 - Vallée de Villé / Neuve-Eglise (67)
  - [https://www.decibulles.com](https://www.decibulles.com)
@@ -4024,118 +4142,4 @@
  ## Tech Innovations from Our Experts | Deriv Tech blog
  - [https://tech.deriv.com](https://tech.deriv.com)
  - date_published: 2024-05-30T13:10:54.725228+00:00
-
- ## Disk Inventory X
- - [http://www.derlien.com](http://www.derlien.com)
- - date_published: 2024-05-06T14:12:35.318319+00:00
-
- ## Home
- - [https://www.dermatologyadvisor.com](https://www.dermatologyadvisor.com)
- - date_published: 2024-05-17T02:44:16.047628+00:00
-
- ## One - Dermatology Times
- - [https://one.dermatologytimes.com](https://one.dermatologytimes.com)
- - date_published: 2024-05-09T05:39:49.522486+00:00
-
- ## Dermatology Times and Multimedia Medical, LLC
- - [https://www.dermatologytimes.com](https://www.dermatologytimes.com)
- - date_published: 2024-03-06T21:11:40.002363+00:00
-
- ## Daniel P. Dern, Freelance Writer | Tech Journalist, Custom/Sponsored, PR/"ghostwriting" — plus science fiction, humor & more!
- - [https://dern.com](https://dern.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Derrick Reimer — Contemplations of an indie SaaS founder
- - [https://derrickreimer.com](https://derrickreimer.com)
- - date_published: 2024-05-06T13:42:47.166532+00:00
- - tags: ['personal']
-
- ## Derringer Wallet Pen
- - [http://www.derringerpen.com](http://www.derringerpen.com)
- - date_published: 2024-05-10T06:30:17.770815+00:00
-
- ## imagesLoaded
- - [http://imagesloaded.desandro.com](http://imagesloaded.desandro.com)
- - date_published: 2024-05-08T09:06:51.326866+00:00
-
- ## Masonry
- - [https://masonry.desandro.com](https://masonry.desandro.com)
- - date_published: 2024-05-02T11:09:02.235070+00:00
-
- ## Descript | All-in-one video & podcast editing, easy as a doc.
- - [https://descript.com](https://descript.com)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Descript | All-in-one video & podcast editing, easy as a doc.
- - [https://share.descript.com](https://share.descript.com)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Descript | All-in-one video & podcast editing, easy as a doc.
- - [https://www.descript.com](https://www.descript.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Deseret News
- - [https://pages.deseret.com](https://pages.deseret.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Deseret News Marathon
- - [https://run.deseret.com](https://run.deseret.com)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Utah High School Sports - Deseret News
- - [https://sports.deseret.com](https://sports.deseret.com)
- - date_published: 2024-05-01T04:47:42.956229+00:00
-
- ## Deseret News
- - [https://www.deseret.com](https://www.deseret.com)
- - date_published: 2023-10-25T13:49:44.338672+00:00
- - tags: ['utah news']
-
- ## HOME | Deseret Digital
- - [http://deseretdigital.com](http://deseretdigital.com)
- - date_published: 2024-05-09T05:32:40.308419+00:00
-
- ## HOME | Deseret Digital
- - [https://www.deseretdigital.com](https://www.deseretdigital.com)
- - date_published: 2024-05-09T05:32:41.414245+00:00
-
- ## Deseret Management Corporation
- - [http://deseretmediacompanies.com](http://deseretmediacompanies.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Arizona’s Best Local Credit Union | Desert Financial
- - [https://www.desertfinancial.com](https://www.desertfinancial.com)
- - date_published: 2024-05-01T06:12:52.683852+00:00
-
- ## High Frequency Measurements Site Index
- - [http://desertlabrat.com](http://desertlabrat.com)
- - date_published: 2024-05-02T07:52:30.836573+00:00
-
- ## Home
- - [https://cm.desertsun.com](https://cm.desertsun.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Help Center - The Desert Sun
- - [https://help.desertsun.com](https://help.desertsun.com)
- - date_published: 2024-05-01T04:47:53.490499+00:00
-
- ## Newsletters | The Desert Sun
- - [https://profile.desertsun.com](https://profile.desertsun.com)
- - date_published: 2024-05-01T04:47:52.040922+00:00
-
- ## Home
- - [https://www.desertsun.com](https://www.desertsun.com)
- - date_published: 2024-01-09T02:34:25.445218+00:00
-
- ## Desiderata - Desiderata Poem - Desiderata Prints
- - [https://www.desiderata.com](https://www.desiderata.com)
- - date_published: 2023-10-25T13:49:58.782774+00:00
-
- ## D&R Web Site -  Loading: Please Wait
- - [https://static.designandreuse.com](https://static.designandreuse.com)
- - date_published: 2024-05-01T04:47:58.784150+00:00
-
- ## Design Better Learning – Make learning that really works.
- - [https://designbetterlearning.com](https://designbetterlearning.com)
- - date_published: 2024-05-06T21:25:24.713868+00:00
 

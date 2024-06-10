@@ -1,3 +1,194 @@
+ ## Ricardo Ramírez
+ - [https://ricardoerl.com](https://ricardoerl.com)
+ - date_published: 2020-06-17T00:00:00+00:00
+
+ ## Ricardo Magalhães, Wealthsimple Senior Web Developer
+ - [http://ricardofilipe.com](http://ricardofilipe.com)
+ - date_published: 2024-05-07T10:45:34.752927+00:00
+
+ ## Ricardo Juchem – I use squares to make some art. Pixel art.
+ - [https://ricardojuchem.com](https://ricardojuchem.com)
+ - date_published: 2024-04-28T02:21:35.896814+00:00
+
+ ## CDN Riccardo Giorato
+ - [https://cdn.riccardogiorato.com](https://cdn.riccardogiorato.com)
+ - date_published: 2024-05-12T05:27:32.940600+00:00
+
+ ## mentomento: mentoring with Riccardo a Full Stack Engineer
+ - [https://mentomento.riccardogiorato.com](https://mentomento.riccardogiorato.com)
+ - date_published: 2024-05-12T05:27:30.345099+00:00
+
+ ## Riccardo Giorato: Blog, Experiments, Remote work, Newsletter and more!
+ - [https://riccardogiorato.com](https://riccardogiorato.com)
+ - date_published: 1920-01-01T00:00:00+00:00
+
+ ## Riccardo Giorato: Blog, Experiments, Remote work, Newsletter and more!
+ - [https://www.riccardogiorato.com](https://www.riccardogiorato.com)
+ - date_published: 2024-05-12T05:27:29.758048+00:00
+
+ ## Rice-Boy.com
+ - [http://rice-boy.com](http://rice-boy.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Rice University Athletics - Official Athletics Website
+ - [https://riceowls.com](https://riceowls.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home - Richard Aboulafia
+ - [http://www.richardaboulafia.com](http://www.richardaboulafia.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Bézier Curves - and the logic behind them | Richard Ekwonye
+ - [https://blog.richardekwonye.com](https://blog.richardekwonye.com)
+ - date_published: 2023-10-25T16:51:18.543659+00:00
+
+ ## Richard Ekwonye
+ - [https://richardekwonye.com](https://richardekwonye.com)
+ - date_published: 2024-04-28T04:55:41.452351+00:00
+
+ ## Bézier Curves - and the logic behind them | Richard Ekwonye
+ - [https://www.blog.richardekwonye.com](https://www.blog.richardekwonye.com)
+ - date_published: 2024-04-28T04:55:42.394870+00:00
+
+ ## Homepage | RichardHerring.com
+ - [http://richardherring.com](http://richardherring.com)
+ - date_published: 2024-04-28T04:55:46.246898+00:00
+
+ ## Homepage | RichardHerring.com
+ - [https://www.richardherring.com](https://www.richardherring.com)
+ - date_published: 2024-02-13T17:35:46.763245+00:00
+ - tags: ['personal']
+
+ ## HelpFully IT - IT Support Consultancy
+ - [https://richardhickson.com](https://richardhickson.com)
+ - date_published: 2024-01-11T07:52:49.571068+00:00
+
+ ## richardkramen.com
+ - [https://richardkramen.com](https://richardkramen.com)
+ - date_published: 2024-05-09T08:17:20.904051+00:00
+
+ ## Richard Lucas
+ - [https://richardlucas.com](https://richardlucas.com)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Richard Lucas
+ - [https://www.richardlucas.com](https://www.richardlucas.com)
+ - date_published: 2024-01-02T10:19:40.499602+00:00
+
+ ## Richards Variety Store
+ - [https://www.richardsvarietystore.com](https://www.richardsvarietystore.com)
+ - date_published: 2024-05-02T09:44:48.738402+00:00
+
+ ## https://richardthames.com
+ - [https://richardthames.com](https://richardthames.com)
+ - date_published: 2023-12-02T10:25:48.205930+00:00
+ - tags: ['personal']
+
+ ## Richard Towers | Home
+ - [https://www.richard-towers.com](https://www.richard-towers.com)
+ - date_published: 2023-10-25T16:51:17.775661+00:00
+
+ ## Rich Audience Marketplace
+ - [https://richaudience.com](https://richaudience.com)
+ - date_published: 2024-05-06T17:43:27.645276+00:00
+
+ ## richbowdler.com - Ta strona jest na sprzedaż! - richbowdler Zasoby i informacje.
+ - [https://richbowdler.com](https://richbowdler.com)
+ - date_published: 2023-12-30T22:21:45.238245+00:00
+ - tags: ['personal']
+
+ ## Rich Dad Store
+ - [https://store.richdad.com](https://store.richdad.com)
+ - date_published: 2024-05-12T06:52:57.099464+00:00
+
+ ## Full Access - All Available Memberships
+ - [https://study.richdad.com](https://study.richdad.com)
+ - date_published: 2024-05-12T06:53:09.183132+00:00
+
+ ## Rich Dad Poor Dad: The #1 Best-Selling Personal Finance Book Ever
+ - [https://www.richdad.com](https://www.richdad.com)
+ - date_published: 2014-12-10T00:00:00+00:00
+
+ ## Performance Marketing Platform
+ - [https://ef.richdadespanol.com](https://ef.richdadespanol.com)
+ - date_published: 2024-05-12T06:52:54.683214+00:00
+
+ ## Rich Dad Latino - Casa de Padre Rico Padre Pobre
+ - [https://www.richdadlatino.com](https://www.richdadlatino.com)
+ - date_published: 2024-05-12T06:53:03.026604+00:00
+
+ ## Rich Dad Directory
+ - [https://richdadu.com](https://richdadu.com)
+ - date_published: 2024-05-12T06:52:52.416220+00:00
+
+ ## Performance Marketing Platform
+ - [https://ef.richdadworld.com](https://ef.richdadworld.com)
+ - date_published: 2024-05-12T06:52:53.730799+00:00
+
+ ## Rich Dad World | Rich Dad World
+ - [https://www.richdadworld.com](https://www.richdadworld.com)
+ - date_published: 2024-05-12T06:52:59.336709+00:00
+
+ ## Richard D. Bartlett
+ - [https://richdecibels.com](https://richdecibels.com)
+ - date_published: 2024-05-12T06:00:59.987588+00:00
+
+ ## Stumbling Over Diamonds – The Music of Rich DeVore
+ - [https://www.richdevore.com](https://www.richdevore.com)
+ - date_published: 2024-01-24T17:15:30.142004+00:00
+ - tags: ['personal']
+
+ ## Accueil | Riche au Féminin
+ - [https://riche-au-feminin.com](https://riche-au-feminin.com)
+ - date_published: 2024-05-01T01:57:07.202777+00:00
+
+ ## Rich Gee High-Performance Coaching
+ - [https://richgee.com](https://richgee.com)
+ - date_published: 2023-12-02T10:25:43.025735+00:00
+ - tags: ['personal']
+
+ ## Rich Gee High-Performance Coaching
+ - [https://www.richgee.com](https://www.richgee.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Rich Keeble – Actor, voiceover artist, comedian, musician, man
+ - [https://www.richkeeble.com](https://www.richkeeble.com)
+ - date_published: 2024-01-21T13:31:19.816138+00:00
+
+ ## Richmond Local News
+ - [https://www.richmond-news.com](https://www.richmond-news.com)
+ - date_published: 2024-05-06T21:30:53.416589+00:00
+
+ ## Rich PalmerVoice actor, narrator, storyteller, audio producer.
+ - [https://richpalmer.com](https://richpalmer.com)
+ - date_published: 2024-01-09T02:47:56.721503+00:00
+
+ ## Rich Tabor - Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress.
+ - [https://richtabor.com](https://richtabor.com)
+ - date_published: 2023-12-19T09:59:46.789011+00:00
+ - tags: ['personal']
+
+ ## Rich Whitehouse
+ - [http://richwhitehouse.com](http://richwhitehouse.com)
+ - date_published: 2024-05-12T05:47:22.938355+00:00
+
+ ## Rich Whitehouse
+ - [https://www.richwhitehouse.com](https://www.richwhitehouse.com)
+ - date_published: 2024-05-09T14:27:28.947481+00:00
+ - tags: ['emulation', 'retro games', 'personal']
+
+ ## Rick Carabba - Home of BrainBank
+ - [https://www.rickcarabba.com](https://www.rickcarabba.com)
+ - date_published: 2024-01-15T13:59:06.069303+00:00
+
+ ## The Blog of Rick Carlino
+ - [https://rickcarlino.com](https://rickcarlino.com)
+ - date_published: 2024-01-15T22:21:01.483442+00:00
+
+ ## rickconsole.com | 502: Bad gateway
+ - [https://rickconsole.com](https://rickconsole.com)
+ - date_published: 2024-02-26T00:00:00+00:00
+
  ## rick@console:/
  - [https://staging.rickconsole.com](https://staging.rickconsole.com)
  - date_published: 2023-10-25T16:51:19.430482+00:00
@@ -3245,6 +3436,18 @@
  - date_published: 2023-12-11T10:57:12.973341+00:00
  - tags: ['personal']
 
+ ## SaaS Academy Campus
+ - [https://campus.saasacademy.com](https://campus.saasacademy.com)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## SaaS Academy Training Courses to Scale Your SaaS Business
+ - [https://saasacademy.com](https://saasacademy.com)
+ - date_published: 2024-06-09T20:46:02+00:00
+
+ ## SaaS Academy Training Courses to Scale Your SaaS Business
+ - [https://www.saasacademy.com](https://www.saasacademy.com)
+ - date_published: 2024-06-09T17:27:43.259227+00:00
+
  ## SaaS AI Tools | #1 Directory of Generative AI Tools
  - [https://saasaitools.com](https://saasaitools.com)
  - date_published: 2024-04-08T00:00:00+00:00
@@ -3940,205 +4143,4 @@
  ## Login | Salesforce
  - [https://webto.salesforce.com](https://webto.salesforce.com)
  - date_published: 2024-05-04T09:15:01.233620+00:00
-
- ## The Number 1 CRM Software
- - [https://wp.salesforce.com](https://wp.salesforce.com)
- - date_published: 2024-04-29T00:30:03.841759+00:00
-
- ## The Number 1 CRM Software
- - [https://www.salesforce.com](https://www.salesforce.com)
- - date_published: 2024-04-29T00:29:59.622546+00:00
-
- ## Salesforce AI
- - [https://blog.salesforceairesearch.com](https://blog.salesforceairesearch.com)
- - date_published: 2023-10-25T16:56:52.248548+00:00
-
- ## Salesforce AI Research
- - [https://www.salesforceairesearch.com](https://www.salesforceairesearch.com)
- - date_published: 2024-04-29T00:30:01.458220+00:00
-
- ## Site Login
- - [https://grainger.my.salesforce-sites.com](https://grainger.my.salesforce-sites.com)
- - date_published: 2024-05-04T08:42:44.394833+00:00
-
- ## Down For Maintenance
- - [https://legocrm.my.salesforce-sites.com](https://legocrm.my.salesforce-sites.com)
- - date_published: 2024-05-11T08:49:00.526888+00:00
-
- ## Freedom of Information Request Form | Ofcom
- - [https://ofcomlive.my.salesforce-sites.com](https://ofcomlive.my.salesforce-sites.com)
- - date_published: 2024-05-02T12:39:03.268214+00:00
-
- ## Salesforce - Unlimited Edition
- - [https://thomsonreutersglis2e.my.salesforce-sites.com](https://thomsonreutersglis2e.my.salesforce-sites.com)
- - date_published: 2024-05-06T18:16:24.765018+00:00
-
- ## Salesforce Brandstore
- - [https://www.salesforcestore.com](https://www.salesforcestore.com)
- - date_published: 2024-04-29T04:43:09.619628+00:00
-
- ## GTMnow | Experience, strategy, and expert insights.
- - [https://www.saleshacker.com](https://www.saleshacker.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Salesloft: The Leading Sales Engagement Platform
- - [https://www.salesloft.com](https://www.salesloft.com)
- - date_published: 2024-05-11T11:09:17.803151+00:00
-
- ## Find businesses in your area | Local Business
- - [https://www.salespider.com](https://www.salespider.com)
- - date_published: 2024-05-07T13:41:37.061956+00:00
-
- ## Progress Coaching Training Reinforcement Partner Company
- - [http://www.salesprogress.com](http://www.salesprogress.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## SalesQualia – Improve Your Sales Performance
- - [http://www.salesqualia.com](http://www.salesqualia.com)
- - date_published: 2024-05-10T04:56:06.577268+00:00
-
- ## 6sense - The Only ABM Platform Powered by Revenue AI™
- - [https://www.saleswhale.com](https://www.saleswhale.com)
- - date_published: 2024-04-28T03:10:30.312411+00:00
-
- ## Sal Ferrarello
- - [https://salferrarello.com](https://salferrarello.com)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Sallie Mae
- - [https://www.salliemae.com](https://www.salliemae.com)
- - date_published: 2024-05-09T07:36:36.439023+00:00
-
- ## Sally Beauty
- - [https://www.sallybeauty.com](https://www.sallybeauty.com)
- - date_published: 2024-05-01T07:42:59.609620+00:00
-
- ## Sally Kelly Consulting | Digital Business Consultant
- - [https://www.sallykellyconsulting.com](https://www.sallykellyconsulting.com)
- - date_published: 2024-05-02T11:37:31.138505+00:00
-
- ## Sally
- - [https://sallylait.com](https://sallylait.com)
- - date_published: 2024-05-07T23:24:46.029376+00:00
-
- ## Salmon Bay Wealth Management, LLC – Financial Planner – Seattle
- - [https://salmonbaywealthmanagement.com](https://salmonbaywealthmanagement.com)
- - date_published: 2024-05-12T06:26:31.957573+00:00
-
- ## Salmon Bay Wealth Management, LLC – Financial Planner – Seattle
- - [https://www.salmonbaywealthmanagement.com](https://www.salmonbaywealthmanagement.com)
- - date_published: 2024-05-12T06:26:29.956081+00:00
-
- ## Salomón Acuña | Diseño y Desarrollo Web WordPress
- - [https://design.salomonacuna.com](https://design.salomonacuna.com)
- - date_published: 2024-05-10T05:29:02.731907+00:00
-
- ## Inicio - Salomón Acuña
- - [https://salomonacuna.com](https://salomonacuna.com)
- - date_published: 2023-12-09T10:38:52.029039+00:00
- - tags: ['personal']
-
- ## Salomón Muriel
- - [https://salomonmuriel.com](https://salomonmuriel.com)
- - date_published: 2024-04-25T05:10:05.334935+00:00
- - tags: ['personal']
-
- ## Salomón Muriel
- - [https://www.salomonmuriel.com](https://www.salomonmuriel.com)
- - date_published: 2024-04-03T06:23:01.312535+00:00
- - tags: ['personal']
-
- ## Márton Salomváry
- - [https://salomvary.com](https://salomvary.com)
- - date_published: 2023-12-04T00:00:00+00:00
-
- ## 410 Gone
- - [https://mediaproxy.salon.com](https://mediaproxy.salon.com)
- - date_published: 2024-04-29T00:30:08.903084+00:00
-
- ## Salon Homepage
- - [https://www.salon.com](https://www.salon.com)
- - date_published: 2023-10-27T13:18:14.457594+00:00
-
- ## Главная
- - [http://www.salonav.com](http://www.salonav.com)
- - date_published: 2024-05-19T02:42:11.614839+00:00
-
- ## Saltcorn blog
- - [https://blog.saltcorn.com](https://blog.saltcorn.com)
- - date_published: 2024-05-14T04:01:50.402406+00:00
-
- ## WidgetCo - Widgets for all your needs
- - [https://landingpage.saltcorn.com](https://landingpage.saltcorn.com)
- - date_published: 2024-05-14T04:01:53.377219+00:00
-
- ## Projects
- - [https://project_management.saltcorn.com](https://project_management.saltcorn.com)
- - date_published: 2024-05-14T04:01:53.951326+00:00
-
- ## Saltcorn - open-source no-code
- - [https://saltcorn.com](https://saltcorn.com)
- - date_published: 2024-04-08T19:30:41.040390+00:00
- - tags: ['nocode', 'app building', 'open source']
-
- ## Saltcorn plugin and pack store
- - [https://store.saltcorn.com](https://store.saltcorn.com)
- - date_published: 2024-05-14T04:02:00.193237+00:00
-
- ## Saltcorn todo list
- - [https://todo.saltcorn.com](https://todo.saltcorn.com)
- - date_published: 2024-05-14T04:01:51.035939+00:00
-
- ## Saltcorn wiki
- - [https://wiki.saltcorn.com](https://wiki.saltcorn.com)
- - date_published: 2024-05-14T04:01:48.971887+00:00
-
- ## Salter Cane
- - [https://saltercane.com](https://saltercane.com)
- - date_published: 2024-05-01T02:17:31.880871+00:00
-
- ## Multi-award-winning independent publisher | Salt Publishing
- - [http://www.saltpublishing.com](http://www.saltpublishing.com)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Salvatore Ganacci
- - [https://shop.salvatoreganacci.com](https://shop.salvatoreganacci.com)
- - date_published: 2020-11-02T00:00:00+00:00
-
- ## Salvatore Ganacci
- - [https://www.salvatoreganacci.com](https://www.salvatoreganacci.com)
- - date_published: 2023-10-30T15:37:09.133549+00:00
- - tags: ['music band']
-
- ## Salvatore Scibona
- - [http://salvatorescibona.com](http://salvatorescibona.com)
- - date_published: 2024-05-07T20:24:55.806050+00:00
-
- ## ➡️ Consultor SEO Madrid SALYSEO - Estrategia Efectiva para tu Negocio
- - [https://salyseo.com](https://salyseo.com)
- - date_published: 2024-01-01T03:38:29.844211+00:00
-
- ## SamaGame – The Gaming News Arena – English
- - [https://samagame.com](https://samagame.com)
- - date_published: 2023-10-25T10:50:09.269662+00:00
-
- ## Samaki Media
- - [http://www.samakimedia.com](http://www.samakimedia.com)
- - date_published: 2024-05-04T09:33:42.795395+00:00
-
- ## Sam Altman
- - [https://blog.samaltman.com](https://blog.samaltman.com)
- - date_published: 2023-10-25T16:57:03.444504+00:00
-
- ## Moore's Law for Everything
- - [https://moores.samaltman.com](https://moores.samaltman.com)
- - date_published: 2023-10-25T16:57:09.038103+00:00
-
- ## Startup Playbook
- - [https://playbook.samaltman.com](https://playbook.samaltman.com)
- - date_published: 2023-10-25T16:57:10.270548+00:00
-
- ## How to Start a Startup
- - [http://startupclass.samaltman.com](http://startupclass.samaltman.com)
- - date_published: 2024-04-29T00:35:21.928032+00:00
 

@@ -1,3 +1,266 @@
+ ## Home
+ - [https://zjui.illinois.edu](https://zjui.illinois.edu)
+ - date_published: 2024-04-30T04:59:14.809185+00:00
+
+ ## First page
+ - [https://blogs.libraries.indiana.edu](https://blogs.libraries.indiana.edu)
+ - date_published: 2024-05-07T15:44:35.471608+00:00
+
+ ## Luddy CGI Server
+ - [http://cgi.cs.indiana.edu](http://cgi.cs.indiana.edu)
+ - date_published: 2024-05-08T10:47:33.954439+00:00
+
+ ## College of Arts & Sciences
+ - [https://college.indiana.edu](https://college.indiana.edu)
+ - date_published: 2024-04-30T05:01:30.492920+00:00
+
+ ## Hamilton Lugar School of Global and International Studies
+ - [https://hls.indiana.edu](https://hls.indiana.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ - [https://legacy.cs.indiana.edu](https://legacy.cs.indiana.edu)
+ - date_published: 2024-02-18T22:06:38.959795+00:00
+
+ ## Indiana University Libraries
+ - [https://libraries.indiana.edu](https://libraries.indiana.edu)
+ - date_published: 2024-04-30T05:01:25.148354+00:00
+
+ ## Ostrom Workshop
+ - [https://ostromworkshop.indiana.edu](https://ostromworkshop.indiana.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Explore computer science at IU Bloomington
+ - [http://www.cs.indiana.edu](http://www.cs.indiana.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Indiana University Bloomington
+ - [https://www.indiana.edu](https://www.indiana.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## The Business School for the World | INSEAD
+ - [https://www.insead.edu](https://www.insead.edu)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## SAGE: 
+Data Services
+ - [https://ds.iris.edu](https://ds.iris.edu)
+ - date_published: 2024-05-09T07:09:18.968854+00:00
+
+ ## SAGE
+ - [https://www.iris.edu](https://www.iris.edu)
+ - date_published: 2024-05-09T07:09:14.945431+00:00
+
+ ## USC Information Sciences Insitute
+ - [https://ai.isi.edu](https://ai.isi.edu)
+ - date_published: 2024-04-30T05:01:02.237687+00:00
+
+ ## Information Sciences Institute
+ - [https://www.isi.edu](https://www.isi.edu)
+ - date_published: 2023-10-25T18:53:13.988342+00:00
+
+ ## Accessibility
+ - [https://accessibility.iu.edu](https://accessibility.iu.edu)
+ - date_published: 2024-04-30T05:01:14.874264+00:00
+
+ ## Alumni Association
+ - [https://alumni.iu.edu](https://alumni.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Branding
+ - [https://assets.iu.edu](https://assets.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Investors generally underestimated the risk and impact of hurricanes, prior to feeling “Superstorm” Sandy’s fury on Wall Street
+ - [https://blog.kelley.iu.edu](https://blog.kelley.iu.edu)
+ - date_published: 2024-06-08T11:45:05.690945+00:00
+
+ ## Canvas:
+ - [https://canvas.iu.edu](https://canvas.iu.edu)
+ - date_published: 2024-04-30T05:01:28.442979+00:00
+
+ ## IU Login
+ - [https://coreapis.sitehost.iu.edu](https://coreapis.sitehost.iu.edu)
+ - date_published: 2024-05-11T08:02:06.342186+00:00
+
+ ## IU Directory
+ - [https://directory.iu.edu](https://directory.iu.edu)
+ - date_published: 2024-04-30T05:01:23.042703+00:00
+
+ ## Office of the Vice President for Diversity, Equity & Inclusion
+ - [https://diversity.iu.edu](https://diversity.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+ - tags: ['dei']
+
+ ## Eclipse Project
+ - [https://eclipse.iu.edu](https://eclipse.iu.edu)
+ - date_published: 2024-04-29T02:49:54.988565+00:00
+
+ ## Events Calendar
+ - [https://events.iu.edu](https://events.iu.edu)
+ - date_published: 2024-04-29T02:49:59.985204+00:00
+
+ ## Richard M. Fairbanks School of Public Health
+ - [https://fairbanks.indianapolis.iu.edu](https://fairbanks.indianapolis.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Available Fonts: IU Communications
+ - [https://fonts.iu.edu](https://fonts.iu.edu)
+ - date_published: 2024-05-11T08:01:57.839652+00:00
+
+ ## Global engagement for all
+ - [https://global.iu.edu](https://global.iu.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Welcome to the Indiana University Library Catalog (IUCAT) | Indiana University Libraries
+ - [https://iucat.iu.edu](https://iucat.iu.edu)
+ - date_published: 2024-05-11T08:02:11.560418+00:00
+
+ ## Forms - Digital Campus
+ - [https://iudcdi-fireform.eas.iu.edu](https://iudcdi-fireform.eas.iu.edu)
+ - date_published: 2024-04-30T05:01:09.572178+00:00
+
+ ## Indiana University
+ - [https://iu.edu](https://iu.edu)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Jobs at IU
+ - [https://jobs.iu.edu](https://jobs.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Indiana University Knowledge Base
+ - [https://kb.iu.edu](https://kb.iu.edu)
+ - date_published: 2024-04-30T05:01:11.474016+00:00
+
+ ## Page Title
+ - [https://lkml.iu.edu](https://lkml.iu.edu)
+ - date_published: 2022-02-21T20:07:28+00:00
+
+ ## Indiana University School of Medicine
+ - [https://medicine.iu.edu](https://medicine.iu.edu)
+ - date_published: 2024-04-30T05:01:19.347043+00:00
+
+ ## News at IU: Indiana University
+ - [https://news.iu.edu](https://news.iu.edu)
+ - date_published: 2023-11-16T10:46:18.918497+00:00
+
+ ## Service Discovery
+ - [https://one.iu.edu](https://one.iu.edu)
+ - date_published: 2024-04-30T05:01:16.255311+00:00
+
+ ## Protect IU
+ - [https://protect.iu.edu](https://protect.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Research Impact
+ - [https://research.impact.iu.edu](https://research.impact.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## IU Today
+ - [https://today.iu.edu](https://today.iu.edu)
+ - date_published: 2024-04-30T05:01:13.138368+00:00
+
+ ## University Information Technology Services
+ - [https://uits.iu.edu](https://uits.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Indiana University
+ - [https://www.iu.edu](https://www.iu.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## myJH - Landing
+ - [https://my.jh.edu](https://my.jh.edu)
+ - date_published: 2024-04-30T05:01:40.187413+00:00
+
+ ## Support
+ - [https://webhelp.jhsph.edu](https://webhelp.jhsph.edu)
+ - date_published: 2024-05-11T07:26:30.341275+00:00
+
+ ## Project MUSE
+ - [https://about.muse.jhu.edu](https://about.muse.jhu.edu)
+ - date_published: 2024-04-30T05:01:43.072036+00:00
+
+ ## Digital Accessibility
+ - [https://accessibility.jhu.edu](https://accessibility.jhu.edu)
+ - date_published: 2024-05-09T04:33:34.206084+00:00
+
+ ## Home | Johns Hopkins Alumni
+ - [https://alumni.jhu.edu](https://alumni.jhu.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Undergraduate Admissions | Johns Hopkins University
+ - [https://apply.jhu.edu](https://apply.jhu.edu)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## CGPO – The Commerical and Government Program Office
+ - [https://cgpo.jhu.edu](https://cgpo.jhu.edu)
+ - date_published: 2024-05-09T04:33:26.909643+00:00
+
+ ## CoursePlus Home
+ - [https://courseplus.jhu.edu](https://courseplus.jhu.edu)
+ - date_published: 2024-05-11T07:26:25.803897+00:00
+
+ ## The Johns Hopkins University < Johns Hopkins University
+ - [https://e-catalogue.jhu.edu](https://e-catalogue.jhu.edu)
+ - date_published: 2024-05-09T04:33:32.529730+00:00
+
+ ## Home
+ - [https://engineering.jhu.edu](https://engineering.jhu.edu)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Johns Hopkins Engineering for Professionals
+ - [https://ep.jhu.edu](https://ep.jhu.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## JHU Faculty Careers
+ - [https://facultyjobs.jhu.edu](https://facultyjobs.jhu.edu)
+ - date_published: 2024-05-09T04:33:36.095510+00:00
+
+ ## Homepage - Scholarship For All | Project Muse
+ - [https://getstarted.muse.jhu.edu](https://getstarted.muse.jhu.edu)
+ - date_published: 2022-08-05T00:00:00+00:00
+
+ ## HFS: We Distribute Knowledge
+ - [https://hfs.jhu.edu](https://hfs.jhu.edu)
+ - date_published: 2024-04-30T05:01:48.660476+00:00
+
+ ## Johns Hopkins University Human Resources
+ - [https://hr.jhu.edu](https://hr.jhu.edu)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Home
+        
+       | Hub
+ - [https://hub.jhu.edu](https://hub.jhu.edu)
+ - date_published: 2023-10-25T18:53:19.413125+00:00
+
+ ## Johns Hopkins ASPIRE Postdoctoral Fellowship
+ - [https://iracda.jhu.edu](https://iracda.jhu.edu)
+ - date_published: 2023-03-16T00:00:00+00:00
+
+ ## Home - JHU Information Security Institute
+ - [https://isi.jhu.edu](https://isi.jhu.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Jobs at Johns Hopkins University
+ - [https://jobs.jhu.edu](https://jobs.jhu.edu)
+ - date_published: 2024-05-09T04:33:44.137924+00:00
+
+ ## Hopkins Bloomberg Public Health Magazine
+ - [https://magazine.publichealth.jhu.edu](https://magazine.publichealth.jhu.edu)
+ - date_published: 2024-05-11T07:26:22.367914+00:00
+
+ ## User Login | Johns Hopkins Secure eCommerce
+ - [https://makeagift.jhu.edu](https://makeagift.jhu.edu)
+ - date_published: 2024-05-09T04:33:47.629379+00:00
+
+ ## Home | Mathematics
+ - [http://mathematics.jhu.edu](http://mathematics.jhu.edu)
+ - date_published: 2013-06-06T15:36:22+00:00
+
+ ## Project MUSE
+ - [https://muse.jhu.edu](https://muse.jhu.edu)
+ - date_published: 2023-12-23T15:28:40.919614+00:00
+
  ## PeopleGrove
  - [https://onehop.jhu.edu](https://onehop.jhu.edu)
  - date_published: 2024-05-09T04:33:34.825666+00:00
@@ -1202,6 +1465,10 @@
  - [http://cap.csail.mit.edu](http://cap.csail.mit.edu)
  - date_published: 2024-05-07T19:33:54.697062+00:00
 
+ ## Career Advising & Professional Development | MIT
+ - [https://capd.mit.edu](https://capd.mit.edu)
+ - date_published: 2024-06-09T17:27:14.522346+00:00
+
  ## Jobs at MIT Lincoln Laboratory
  - [https://careers.ll.mit.edu](https://careers.ll.mit.edu)
  - date_published: 2024-05-07T19:38:14.314198+00:00
@@ -1393,6 +1660,10 @@
  ## IPC | Innovation. Productivity. Competitiveness.
  - [https://ipc.mit.edu](https://ipc.mit.edu)
  - date_published: 2024-05-07T10:00:20.661194+00:00
+
+ ## Journal of Design and Science
+ - [https://jods.mitpress.mit.edu](https://jods.mitpress.mit.edu)
+ - date_published: 2024-05-27T00:00:00+00:00
 
  ## The Knowledge Base - Home - Hermes
  - [https://kb.mit.edu](https://kb.mit.edu)
@@ -3734,273 +4005,4 @@
  ## Top Global University and Research Leader | Rice University
  - [https://global.rice.edu](https://global.rice.edu)
  - date_published: 2024-05-07T20:05:18.680149+00:00
-
- ## Home
- - [https://gradadmissions.rice.edu](https://gradadmissions.rice.edu)
- - date_published: 2024-05-07T20:06:18.645335+00:00
-
- ## Home
- - [https://graduate.rice.edu](https://graduate.rice.edu)
- - date_published: 2024-05-07T20:05:17.391901+00:00
-
- ## Login
- - [http://helpdesk.rice.edu](http://helpdesk.rice.edu)
- - date_published: 2024-05-07T20:06:11.527443+00:00
-
- ## Login
- - [https://help.rice.edu](https://help.rice.edu)
- - date_published: 2024-05-07T20:06:08.094857+00:00
-
- ## School of Humanities
- - [https://humanities.rice.edu](https://humanities.rice.edu)
- - date_published: 2024-05-07T20:05:26.877289+00:00
-
- ## 2024 INFORMS Optimization Society Conference
- - [https://ios2024.rice.edu](https://ios2024.rice.edu)
- - date_published: 2024-05-04T15:43:56.017559+00:00
-
- ## OIT
- - [http://it.rice.edu](http://it.rice.edu)
- - date_published: 2024-05-07T20:06:10.049090+00:00
-
- ## Home
- - [https://jobs.rice.edu](https://jobs.rice.edu)
- - date_published: 2024-05-07T20:05:51.231193+00:00
-
- ## Rice University KB
- - [https://kb.rice.edu](https://kb.rice.edu)
- - date_published: 2024-05-07T20:06:02.177119+00:00
-
- ## Welcome | Fondren Library
- - [https://library.rice.edu](https://library.rice.edu)
- - date_published: 2024-05-07T20:05:32.296725+00:00
-
- ## Home
- - [https://magazine.rice.edu](https://magazine.rice.edu)
- - date_published: 2024-05-07T20:04:41.853490+00:00
-
- ## Moody Center for the Arts | Moody Center for The Arts
- - [https://moody.rice.edu](https://moody.rice.edu)
- - date_published: 2024-05-07T20:05:06.817675+00:00
-
- ## The Shepherd School of Music |The Shepherd School of Music
- - [https://music.rice.edu](https://music.rice.edu)
- - date_published: 2024-05-07T20:05:49.016959+00:00
-
- ## School of Natural Sciences
- - [https://naturalsciences.rice.edu](https://naturalsciences.rice.edu)
- - date_published: 2024-05-07T20:05:14.921204+00:00
-
- ## Rice University News & Media
- - [https://news2.rice.edu](https://news2.rice.edu)
- - date_published: 2024-05-07T20:04:27.352349+00:00
-
- ## Rice News | News and Media Relations | Rice University
- - [https://news.rice.edu](https://news.rice.edu)
- - date_published: 2023-10-25T09:29:39.683713+00:00
-
- ## Office of Institutional Effectiveness
- - [https://oie.rice.edu](https://oie.rice.edu)
- - date_published: 2024-05-07T20:05:53.797048+00:00
-
- ## OIT
- - [https://oit.rice.edu](https://oit.rice.edu)
- - date_published: 2024-05-07T20:05:44.457469+00:00
-
- ## Online Learning
- - [https://online.rice.edu](https://online.rice.edu)
- - date_published: 2024-05-07T20:05:05.242596+00:00
-
- ## Public Affairs
- - [https://pa.rice.edu](https://pa.rice.edu)
- - date_published: 2024-05-07T20:04:44.433827+00:00
-
- ## Parking
- - [https://parking.rice.edu](https://parking.rice.edu)
- - date_published: 2024-05-07T20:04:50.676569+00:00
-
- ## Rice Policies
- - [https://policy.rice.edu](https://policy.rice.edu)
- - date_published: 2024-05-07T20:05:46.183936+00:00
-
- ## Office of the President
- - [https://president.rice.edu](https://president.rice.edu)
- - date_published: 2024-05-07T20:04:31.343233+00:00
-
- ## Rice University Privacy Notice
- - [https://privacy.rice.edu](https://privacy.rice.edu)
- - date_published: 2024-05-07T20:04:38.617521+00:00
-
- ## Home
- - [https://provost.rice.edu](https://provost.rice.edu)
- - date_published: 2024-05-07T20:04:43.129020+00:00
-
- ## Public Affairs
- - [https://publicaffairs.rice.edu](https://publicaffairs.rice.edu)
- - date_published: 2024-05-07T20:04:48.601637+00:00
-
- ## Rec Center
- - [https://recreation.rice.edu](https://recreation.rice.edu)
- - date_published: 2024-05-07T20:05:50.074379+00:00
-
- ## Office of the Registrar
- - [https://registrar.rice.edu](https://registrar.rice.edu)
- - date_published: 2024-05-07T20:04:34.622204+00:00
-
- ## Home
- - [https://research.rice.edu](https://research.rice.edu)
- - date_published: 2024-05-07T20:04:47.791640+00:00
-
- ## Rice
- - [https://rice.edu](https://rice.edu)
- - date_published: 2023-10-27T13:02:00.219008+00:00
- - tags: ['university']
-
- ## Rice University » Search
- - [https://search.rice.edu](https://search.rice.edu)
- - date_published: 2024-05-07T20:04:33.188958+00:00
-
- ## School of Social Sciences
- - [https://socialsciences.rice.edu](https://socialsciences.rice.edu)
- - date_published: 2024-05-07T20:05:41.917329+00:00
-
- ## Rice
- - [https://studentcenter.rice.edu](https://studentcenter.rice.edu)
- - date_published: 2024-05-07T20:05:47.501470+00:00
-
- ## The Rice Investment
- - [https://thericeinvestment.rice.edu](https://thericeinvestment.rice.edu)
- - date_published: 2024-05-07T20:05:24.019149+00:00
-
- ## Home
- - [https://titleix.rice.edu](https://titleix.rice.edu)
- - date_published: 2024-05-07T20:05:33.018700+00:00
-
- ## Volunteer
- - [https://volunteer.rice.edu](https://volunteer.rice.edu)
- - date_published: 2024-05-07T20:05:10.024820+00:00
-
- ## Welcome
- - [https://welcome.rice.edu](https://welcome.rice.edu)
- - date_published: 2024-05-07T20:05:40.418424+00:00
-
- ## Home - Public - Rice University Campus Wiki
- - [https://wiki.rice.edu](https://wiki.rice.edu)
- - date_published: 2024-05-07T20:06:16.681647+00:00
-
- ## CMOR
- - [https://www.caam.rice.edu](https://www.caam.rice.edu)
- - date_published: 2024-05-01T04:32:57.055307+00:00
-
- ## Rice University
- - [https://www.clear.rice.edu](https://www.clear.rice.edu)
- - date_published: 2023-10-25T11:22:50.744610+00:00
-
- ## Rice CS
- - [https://www.cs.rice.edu](https://www.cs.rice.edu)
- - date_published: 2024-01-21T02:57:02.989746+00:00
-
- ## Rice
- - [http://www.rcsg.rice.edu](http://www.rcsg.rice.edu)
- - date_published: 2024-05-07T20:06:00.070894+00:00
-
- ## Rice
- - [https://www.rice.edu](https://www.rice.edu)
- - date_published: 2024-05-07T20:04:36.390193+00:00
-
- ## University of Richmond Writing Center & WAC Program
- - [http://writing2.richmond.edu](http://writing2.richmond.edu)
- - date_published: 2024-03-07T17:56:47.784966+00:00
-
- ## Privacy Policy - Consent - University of Richmond
- - [http://writing.richmond.edu](http://writing.richmond.edu)
- - date_published: 2024-05-09T05:51:53.259610+00:00
-
- ## - Involved@RISD
- - [https://involved.risd.edu](https://involved.risd.edu)
- - date_published: 2024-04-01T15:14:15.340595+00:00
-
- ## RIT Certified
- - [https://certified.rit.edu](https://certified.rit.edu)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## RIT Login
- - [https://claws.rit.edu](https://claws.rit.edu)
- - date_published: 2024-05-07T20:06:30.470692+00:00
-
- ## Apply | RIT
- - [https://join.rit.edu](https://join.rit.edu)
- - date_published: 2024-05-07T20:06:43.066927+00:00
-
- ## RIT Libraries | RIT
- - [https://library.rit.edu](https://library.rit.edu)
- - date_published: 2024-05-07T20:06:33.841185+00:00
-
- ## Rochester Institute of Technology | RIT
- - [https://www.rit.edu](https://www.rit.edu)
- - date_published: 2023-10-25T18:57:15.262189+00:00
-
- ## Pages - RLC Forms: Covid-19 Testing | Vax Status | Book Order forms
- - [https://rlcforms.rlc.edu](https://rlcforms.rlc.edu)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Pages - RLC Forms: Covid-19 Testing | Vax Status | Book Order forms
- - [https://studentforms.rlc.edu](https://studentforms.rlc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Sign in to your account
- - [https://sentry.rmu.edu](https://sentry.rmu.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home - Undergraduate Admissions
- - [https://admissions.rochester.edu](https://admissions.rochester.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Astronomy and Astrophysics
- - [http://astro.pas.rochester.edu](http://astro.pas.rochester.edu)
- - date_published: 2024-04-30T04:59:55.845877+00:00
-
- ## 2030 University of Rochester Strategic Plan – Boundless Possibility
- - [https://boundless.rochester.edu](https://boundless.rochester.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Department of Computer Science
- - [https://cs.rochester.edu](https://cs.rochester.edu)
- - date_published: 2024-09-27T00:00:00+00:00
-
- ## Events Calendar
- - [https://events.rochester.edu](https://events.rochester.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Blackboard Learn
- - [https://learn.rochester.edu](https://learn.rochester.edu)
- - date_published: 2024-05-07T20:07:05.656583+00:00
-
- ## Home | Memorial Art Gallery
- - [https://mag.rochester.edu](https://mag.rochester.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Sign into MyPath | University of Rochester
- - [https://mypath.rochester.edu](https://mypath.rochester.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Online Directory
- - [https://onlinedirectory.ur.rochester.edu](https://onlinedirectory.ur.rochester.edu)
- - date_published: 2024-05-07T20:06:55.185509+00:00
-
- ## The University of Rochester | Make the World Ever Better
- - [https://rochester.edu](https://rochester.edu)
- - date_published: 2024-05-07T20:06:51.768784+00:00
-
- ## Simon Business School
- - [https://simon.rochester.edu](https://simon.rochester.edu)
- - date_published: 2024-05-07T20:07:11.699586+00:00
-
- ## University IT - University of Rochester
- - [https://tech.rochester.edu](https://tech.rochester.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Department of Computer Science : University of Rochester
- - [https://www.cs.rochester.edu](https://www.cs.rochester.edu)
- - date_published: 2023-10-25T11:22:54.164400+00:00
 

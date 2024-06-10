@@ -1,3 +1,254 @@
+ ## felix fisgus | Felix Fisgus
+ - [https://felixfisgus.de](https://felixfisgus.de)
+ - date_published: 2023-10-25T18:30:12.186826+00:00
+
+ ## Felix Geisendörfer
+ - [https://blog.felixge.de](https://blog.felixge.de)
+ - date_published: 2023-10-25T18:30:14.021327+00:00
+
+ ## Fenix Magazin - Početna
+ - [https://fenix-magazin.de](https://fenix-magazin.de)
+ - date_published: 2023-10-30T19:00:12.736074+00:00
+
+ ## feststelltaste – About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
+ - [https://www.feststelltaste.de](https://www.feststelltaste.de)
+ - date_published: 2023-10-25T18:30:19.967784+00:00
+
+ ## FW Groß Grönau | Home
+ - [https://www.ff-grossgroenau.de](https://www.ff-grossgroenau.de)
+ - date_published: 2024-05-11T05:40:28.180176+00:00
+
+ ## FFII
+ - [http://www.ffii.de](http://www.ffii.de)
+ - date_published: 2024-05-11T07:48:35.650332+00:00
+
+ ## Florian Heidenreich – Indie Software Developer from Dresden
+ - [https://fheidenreich.de](https://fheidenreich.de)
+ - date_published: 2024-01-07T17:48:40.202500+00:00
+
+ ## Plausible · Web analytics
+ - [https://stats.fheidenreich.de](https://stats.fheidenreich.de)
+ - date_published: 2024-04-29T06:04:40.606581+00:00
+
+ ## OpenGTA
+ - [http://ogta.fifengine.de](http://ogta.fifengine.de)
+ - date_published: 2024-05-09T09:01:38.279937+00:00
+ - tags: ['grand theft auto', 'open source']
+
+ ## Finalmedia
+ - [http://finalmedia.de](http://finalmedia.de)
+ - date_published: 2024-05-06T14:57:44.665975+00:00
+
+ ## Finanz-Designerin: Finanziell frei in 5 Jahren.
+ - [https://www.finanz-designerin.de](https://www.finanz-designerin.de)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## finception - Unternehmenssoftware & Digitalisierung in 2024
+ - [https://finception.de](https://finception.de)
+ - date_published: 2024-04-29T06:15:49.124232+00:00
+
+ ## Diese Domain wurde erfolgreich für den Höchstbieter der Auction registriert.
+ - [http://www.findeen.de](http://www.findeen.de)
+ - date_published: 2024-06-03T06:37:48.742485+00:00
+
+ ## finkhaeuser consulting
+ - [https://finkhaeuser.de](https://finkhaeuser.de)
+ - date_published: 2024-05-04T15:59:22.891848+00:00
+
+ ## FITBOOK
+ - [https://www.fitbook.de](https://www.fitbook.de)
+ - date_published: 2024-04-29T05:49:55.943456+00:00
+
+ ## Flashback – Museum & Event
+ - [https://www.flashback-event.de](https://www.flashback-event.de)
+ - date_published: 2024-05-23T11:08:07.377563+00:00
+ - tags: ['amiga', 'zx spectrum', 'retro games']
+
+ ## flatex
+ - [https://www.flatex.de](https://www.flatex.de)
+ - date_published: 2024-05-01T07:10:54.572557+00:00
+
+ ## Kirstin Rohwer's homepage
+ - [https://flauschzelle.de](https://flauschzelle.de)
+ - date_published: 2024-05-11T07:26:13.991147+00:00
+
+ ## FLMH | Labor für Politik und Kommunikation
+ - [http://www.flmh.de](http://www.flmh.de)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Flora Incognita | DE – Die Flora Incognita App – Interaktive Pflanzenbestimmung
+ - [https://floraincognita.de](https://floraincognita.de)
+ - date_published: 2024-05-04T06:26:47.392521+00:00
+
+ ## Blog · Florian Hopf
+ - [http://blog.florian-hopf.de](http://blog.florian-hopf.de)
+ - date_published: 2024-05-01T03:44:26.866274+00:00
+
+ ## WordPress Programmierer/Entwickler Florian Simeth
+ - [https://florian-simeth.de](https://florian-simeth.de)
+ - date_published: 2024-05-10T03:56:23.604292+00:00
+ - tags: ['personal']
+
+ ## Flüstertüte Marketing für kleine Unternehmen und Selbstständige
+ - [https://www.fluestertuete-marketing.de](https://www.fluestertuete-marketing.de)
+ - date_published: 2021-02-09T00:00:00+00:00
+
+ ## Home - FMX | EN
+ - [http://www.fmx.de](http://www.fmx.de)
+ - date_published: 2024-04-29T06:29:59.809601+00:00
+
+ ## Fnordon
+ - [https://fnordon.de](https://fnordon.de)
+ - date_published: 2024-05-09T07:50:38.936097+00:00
+
+ ## Lebensmittel teilen statt wegwerfen – foodsharing
+ - [http://www.foodsharing.de](http://www.foodsharing.de)
+ - date_published: 2024-06-01T22:16:54.888100+00:00
+
+ ## Formfacade - 
+        
+        Customize Google Forms UI
+ - [https://formfaca.de](https://formfaca.de)
+ - date_published: 2024-02-08T22:06:36.088214+00:00
+
+ ## Forum64
+ - [https://www.forum64.de](https://www.forum64.de)
+ - date_published: 2024-05-06T22:25:34.845142+00:00
+
+ ## Startseite - Forum Fischschutz & Fischabstieg | Forum Fischschutz & Fischabstieg
+ - [https://forum-fischschutz.de](https://forum-fischschutz.de)
+ - date_published: 2024-04-29T06:58:38.059126+00:00
+
+ ## Startseite
+ - [https://www.fossgis.de](https://www.fossgis.de)
+ - date_published: 2024-04-29T05:56:04.071125+00:00
+
+ ## IOAM
+ - [https://data-f1e447fbcf.fr.de](https://data-f1e447fbcf.fr.de)
+ - date_published: 2024-04-29T06:05:11.240101+00:00
+
+ ## Partner - FR.de
+ - [https://partner.fr.de](https://partner.fr.de)
+ - date_published: 2024-04-29T06:04:49.307802+00:00
+
+ ## Aktuelle Prospekte und Beilagen
+ - [https://webkiosk.fr.de](https://webkiosk.fr.de)
+ - date_published: 2024-04-29T06:04:57.405996+00:00
+
+ ## Nachrichten aus Deutschland und der Welt | Frankfurter Rundschau
+ - [https://www.fr.de](https://www.fr.de)
+ - date_published: 2023-11-28T20:39:40+00:00
+ - tags: ['politic news', 'german news']
+
+ ## FragDenStaat – Portal für Informationsfreiheit
+ - [https://fragdenstaat.de](https://fragdenstaat.de)
+ - date_published: 2024-05-07T23:29:34.233558+00:00
+
+ ## Hilfe für Seniorinnen und Senioren, die ankommt - FR-Altenhilfe
+ - [http://www.fr-altenhilfe.de](http://www.fr-altenhilfe.de)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Homepage
+ - [https://www.franka.de](https://www.franka.de)
+ - date_published: 2024-05-04T15:29:20.133805+00:00
+
+ ## Franzi.Flows - Franzi.Flows
+ - [https://franziflows.de](https://franziflows.de)
+ - date_published: 2024-01-11T20:48:30.425372+00:00
+
+ ## Frauen MINT-Award
+ - [http://www.frauen-mint-award.de](http://www.frauen-mint-award.de)
+ - date_published: 2024-04-29T06:30:02.983947+00:00
+
+ ## Startseite Fraunhofer-Gesellschaft
+ - [https://fraunhofer.de](https://fraunhofer.de)
+ - date_published: 2024-03-14T00:00:00+00:00
+ - tags: ['news']
+
+ ## Karriere Fraunhofer-Gesellschaft
+ - [https://jobs.fraunhofer.de](https://jobs.fraunhofer.de)
+ - date_published: 2024-04-29T06:10:51.917844+00:00
+
+ ## Malpedia (Fraunhofer FKIE)
+ - [https://malpedia.caad.fkie.fraunhofer.de](https://malpedia.caad.fkie.fraunhofer.de)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Institute for Digital Medicine -  Fraunhofer MEVIS
+ - [https://mevis.fraunhofer.de](https://mevis.fraunhofer.de)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://stats.ise.fraunhofer.de](https://stats.ise.fraunhofer.de)
+ - date_published: 2024-04-28T01:53:40.624712+00:00
+
+ ## Startseite Fraunhofer Forschungsfertigung Batteriezelle
+ - [https://www.ffb.fraunhofer.de](https://www.ffb.fraunhofer.de)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Deutsch -  Fraunhofer FKIE
+ - [https://www.fkie.fraunhofer.de](https://www.fkie.fraunhofer.de)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## WIR VERNETZEN ALLES
+ - [https://www.fokus.fraunhofer.de](https://www.fokus.fraunhofer.de)
+ - date_published: 2024-04-29T06:11:03.522887+00:00
+
+ ## Startseite Fraunhofer-Gesellschaft
+ - [https://www.fraunhofer.de](https://www.fraunhofer.de)
+ - date_published: 2023-10-25T18:30:27.906517+00:00
+
+ ## Fraunhofer Heinrich-Hertz-Institut
+ - [https://www.hhi.fraunhofer.de](https://www.hhi.fraunhofer.de)
+ - date_published: 2024-04-29T06:11:22.064460+00:00
+
+ ## Fraunhofer IAIS
+ - [https://www.iais.fraunhofer.de](https://www.iais.fraunhofer.de)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Fraunhofer IISB (English)
+ - [https://www.iisb.fraunhofer.de](https://www.iisb.fraunhofer.de)
+ - date_published: 2023-10-25T18:30:29.853786+00:00
+
+ ## Deutsch -  Fraunhofer IMS
+ - [https://www.ims.fraunhofer.de](https://www.ims.fraunhofer.de)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Forschen für die Energiewende - Fraunhofer-Institut für Solare Energiesysteme ISE -  Fraunhofer ISE
+ - [https://www.ise.fraunhofer.de](https://www.ise.fraunhofer.de)
+ - date_published: 2023-10-25T18:30:39.964840+00:00
+
+ ## Institute for Digital Medicine -  Fraunhofer MEVIS
+ - [https://www.mevis.fraunhofer.de](https://www.mevis.fraunhofer.de)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Aktuelle Nachrichten, E-Mail, Cloud & Hosting - freenet.de
+ - [https://www.freenet.de](https://www.freenet.de)
+ - date_published: 2024-05-01T06:28:34.489550+00:00
+
+ ## Top-Handys und Tarife in allen Netzen | freenet-mobilfunk.de
+ - [https://www.freenet-mobilfunk.de](https://www.freenet-mobilfunk.de)
+ - date_published: 2024-05-01T05:58:33.071238+00:00
+
+ ## ChainReaction
+ - [http://cr.freewarepoint.de](http://cr.freewarepoint.de)
+ - date_published: 2013-02-07T00:00:00+00:00
+
+ ## FreshPlaza: Aktuelle Nachrichten aus der globalen Obst- und Gemüsebranche
+ - [https://www.freshplaza.de](https://www.freshplaza.de)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Unterstützen Sie die Charité & fördern Sie die Arbeit der Charité
+ - [http://www.freundeskreis-charite.de](http://www.freundeskreis-charite.de)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Deutschland vom Montag, 29.04.2024 | FR ePaper
+ - [https://epaper.fr-online.de](https://epaper.fr-online.de)
+ - date_published: 2024-04-29T06:05:00.558288+00:00
+
+ ## FrOSCon
+ - [https://www.froscon.de](https://www.froscon.de)
+ - date_published: 2024-05-14T04:01:03.749612+00:00
+
  ## Das Fruchthandel Magazin - Deutschlands führende Fachzeitschrift für die Frischebranche
  - [https://www.fruchthandel.de](https://www.fruchthandel.de)
  - date_published: 2024-05-04T00:00:00+00:00
@@ -1383,6 +1634,10 @@
  ## Tach auch! | Marek Maras • Webentwicklung aus'm Ruhrpott
  - [https://www.marek-maras.de](https://www.marek-maras.de)
  - date_published: 2024-01-16T03:18:50.121445+00:00
+
+ ## Marian's Blog
+ - [https://marian42.de](https://marian42.de)
+ - date_published: 2024-06-01T00:00:00+00:00
 
  ## Home | Mario Keipert: textwärts
  - [https://mariokeipert.de](https://mariokeipert.de)
@@ -3821,253 +4076,4 @@
  ## Startseite | Technische Universität Ilmenau
  - [https://www.tu-ilmenau.de](https://www.tu-ilmenau.de)
  - date_published: 2024-05-04T06:26:49.778793+00:00
-
- ## Loading
- - [https://campus.tum.de](https://campus.tum.de)
- - date_published: 2024-04-29T06:57:12.485784+00:00
-
- ## Chair for Database Systems
- - [https://db.in.tum.de](https://db.in.tum.de)
- - date_published: 2024-05-29T01:37:53.244255+00:00
-
- ## Systems Research Group | Department of Computer Science // TUM School of Computation, Information and Technology
- - [https://dse.in.tum.de](https://dse.in.tum.de)
- - date_published: 2024-05-04T15:27:57.079929+00:00
-
- ## Isabelle
- - [https://isabelle.in.tum.de](https://isabelle.in.tum.de)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Standorte - NavigaTUM
- - [https://nav.tum.de](https://nav.tum.de)
- - date_published: 2024-04-29T06:57:11.219692+00:00
-
- ## Home | Online Shop | Technische Universität München
- - [https://shop.tum.de](https://shop.tum.de)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## The Entrepreneurial University - TUM
- - [https://tum.de](https://tum.de)
- - date_published: 2024-04-29T06:56:29.965799+00:00
-
- ## Login - BayernCollab
- - [https://wiki.tum.de](https://wiki.tum.de)
- - date_published: 2024-04-29T06:57:07.882141+00:00
-
- ## Startseite
- - [https://www.chancengleichheit.tum.de](https://www.chancengleichheit.tum.de)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## TUM School of Computation, Information and Technology
- - [https://www.cit.tum.de](https://www.cit.tum.de)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Startseite - TUM Community
- - [https://www.community.tum.de](https://www.community.tum.de)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## Department of Computer Science - TUM School of Computation, Information and Technology - Department of Computer Science
- - [https://www.cs.cit.tum.de](https://www.cs.cit.tum.de)
- - date_published: 2023-10-25T18:33:05.751862+00:00
-
- ## MDCO_Home
- - [http://www.dualcareer.tum.de](http://www.dualcareer.tum.de)
- - date_published: 2024-04-29T06:57:00.323508+00:00
-
- ## TUM School of Engineering and Design (ED)
- - [https://www.ed.tum.de](https://www.ed.tum.de)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Effektive Förderung: Unterstützung für die Technische Universität München
- - [https://www.fundraising.tum.de](https://www.fundraising.tum.de)
- - date_published: 2024-04-29T06:56:54.029375+00:00
-
- ## Promovieren an der Technischen Universität München
- - [https://www.gs.tum.de](https://www.gs.tum.de)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Startseite
- - [https://www.international.tum.de](https://www.international.tum.de)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## TUM Institute for LifeLong Learning - Executive & Professional Education
- - [https://www.lll.tum.de](https://www.lll.tum.de)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Startseite
- - [https://www.ls.tum.de](https://www.ls.tum.de)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Startseite der TUM School of Medicine and Health | TUM School of Medicine and Health
- - [https://www.med.tum.de](https://www.med.tum.de)
- - date_published: 2024-04-29T06:57:06.066785+00:00
-
- ## Uniting Management and Technology | TUM School of Management
- - [https://www.mgt.tum.de](https://www.mgt.tum.de)
- - date_published: 2024-04-29T06:56:57.887730+00:00
-
- ## Startseite
- - [https://www.nat.tum.de](https://www.nat.tum.de)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Professoren an der Technischen Universität München (TUM) - Akademische Exzellenz
- - [http://www.professoren.tum.de](http://www.professoren.tum.de)
- - date_published: 2024-04-29T06:56:38.550596+00:00
-
- ## Home
- - [https://www.prolehre.tum.de](https://www.prolehre.tum.de)
- - date_published: 2024-04-29T06:56:41.969327+00:00
-
- ## Home
- - [https://www.sot.tum.de](https://www.sot.tum.de)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Startseite - TUM Community
- - [http://www.together.tum.de](http://www.together.tum.de)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## The Entrepreneurial University - TUM
- - [https://www.tum.de](https://www.tum.de)
- - date_published: 2023-12-12T22:22:55.827588+00:00
-
- ## Universitätsbibliothek der TUM |
- - [https://www.ub.tum.de](https://www.ub.tum.de)
- - date_published: 2024-04-29T06:56:50.124217+00:00
-
- ## Startseite
- - [https://www.zv.tum.de](https://www.zv.tum.de)
- - date_published: 2024-04-29T06:56:36.119166+00:00
-
- ## Startseite
- - [https://www.tum4health.de](https://www.tum4health.de)
- - date_published: 2024-04-29T06:57:01.568063+00:00
-
- ## TUM Universitätsstiftung: gemeinsam die TUM fördern
- - [https://www.tum-universitaetsstiftung.de](https://www.tum-universitaetsstiftung.de)
- - date_published: 2024-04-29T06:57:08.865106+00:00
-
- ## TUM Venture Labs x TUM Venture Labs
- - [https://www.tum-venture-labs.de](https://www.tum-venture-labs.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Tunkl.de  |  IT-Consulting – SEA, E-Commerce und Online Marketing Consulting
- - [https://tunkl.de](https://tunkl.de)
- - date_published: 2024-01-01T03:39:24.415411+00:00
-
- ## Andreas Zwinkau
- - [https://beza1e1.tuxen.de](https://beza1e1.tuxen.de)
- - date_published: 2023-10-25T18:33:06.452394+00:00
-
- ## tuxproject.de :: Scheibe Wurst dazu?
- - [https://tuxproject.de](https://tuxproject.de)
- - date_published: 2024-05-09T07:49:05.827641+00:00
-
- ## RTL+
- - [https://www.tvnow.de](https://www.tvnow.de)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Imperialism Remake | An open source project.
- - [http://remake.twelvepm.de](http://remake.twelvepm.de)
- - date_published: 2024-05-09T08:56:14.895790+00:00
-
- ## A Pocket Guide to Master Every Day’s Typographic Adventures
- - [http://www.typogui.de](http://www.typogui.de)
- - date_published: 2024-04-29T07:17:26.057338+00:00
-
- ## map.apps
- - [https://gis.uba.de](https://gis.uba.de)
- - date_published: 2024-04-29T06:57:33.414583+00:00
-
- ## SNS Portal
- - [https://sns.uba.de](https://sns.uba.de)
- - date_published: 2024-04-29T06:57:37.177818+00:00
-
- ## UFORDAT
- - [http://ufordat.uba.de](http://ufordat.uba.de)
- - date_published: 2024-04-29T06:57:57.262579+00:00
-
- ## IIS Windows Server
- - [http://webetox.uba.de](http://webetox.uba.de)
- - date_published: 2024-04-29T06:58:41.143646+00:00
-
- ## IIS Windows Server
- - [https://webrigoletto.uba.de](https://webrigoletto.uba.de)
- - date_published: 2024-04-29T06:57:32.274357+00:00
-
- ## Willkommen auf infosis
- - [http://www.infosis.uba.de](http://www.infosis.uba.de)
- - date_published: 2024-04-29T06:58:31.051663+00:00
-
- ## Umweltbundesamt | Für Mensch und Umwelt
- - [http://www.uba.de](http://www.uba.de)
- - date_published: 2024-04-29T06:58:35.440121+00:00
-
- ## UberBlogr - Webring für Blogger
- - [https://uberblogr.de](https://uberblogr.de)
- - date_published: 2024-05-07T23:07:20.186612+00:00
-
- ## Uberspace - Hosting on Asteroids
- - [https://uberspace.de](https://uberspace.de)
- - date_published: 2024-04-29T05:57:31.152532+00:00
-
- ## Ubuntu User - Informationen aus der Welt der Technik
- - [https://ubuntu-user.de](https://ubuntu-user.de)
- - date_published: 2024-06-08T18:08:11.767581+00:00
-
- ## Home
- - [https://www.udiscover-music.de](https://www.udiscover-music.de)
- - date_published: 2024-05-06T21:11:29.060295+00:00
-
- ## udse.de - Foren-Übersicht
- - [http://forum.udse.de](http://forum.udse.de)
- - date_published: 2024-05-30T20:39:22.341802+00:00
-
- ## Startseite - Ulrich Decker Software
- - [https://udse.de](https://udse.de)
- - date_published: 2024-05-30T20:35:23+00:00
-
- ## Startseite - Ulrich Decker Software
- - [https://www.udse.de](https://www.udse.de)
- - date_published: 2024-05-30T20:39:21.270356+00:00
-
- ## Startseite - Ulrich Decker Software
- - [http://ud-soft.de](http://ud-soft.de)
- - date_published: 2024-05-30T20:38:56.024951+00:00
-
- ## NetX
- - [https://mediap.ufz.de](https://mediap.ufz.de)
- - date_published: 2024-05-11T08:53:11.494965+00:00
-
- ## Ticketsystem PACE
- - [https://pace-support.ufz.de](https://pace-support.ufz.de)
- - date_published: 2024-05-11T08:53:10.947345+00:00
-
- ## PRinS
- - [https://presse.ufz.de](https://presse.ufz.de)
- - date_published: 2024-05-11T08:53:07.635460+00:00
-
- ## Home - Helmholtz-Centre for Environmental Research
- - [https://www.ufz.de](https://www.ufz.de)
- - date_published: 2024-03-20T19:12:24.334536+00:00
- - tags: ['environment', 'climate change']
-
- ## UKB Startseite
- - [https://www.ukbonn.de](https://www.ukbonn.de)
- - date_published: 2024-05-06T08:57:18.627830+00:00
-
- ## Ukrinform News
- - [https://www.ukrinform.de](https://www.ukrinform.de)
- - date_published: 2024-05-02T10:44:11.730534+00:00
-
- ## ULLSTEIN Buchverlage
- - [https://www.ullstein.de](https://www.ullstein.de)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Beckenbodentraining & somatisches Frauencoaching
- - [https://ulyaversum.de](https://ulyaversum.de)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Denkwerkstatt Konsum: Nachhaltigen Konsum besser verstehen | Denkwerkstatt Konsum
- - [https://denkwerkstatt-konsum.umweltbundesamt.de](https://denkwerkstatt-konsum.umweltbundesamt.de)
- - date_published: 2024-04-29T06:58:40.423108+00:00
 

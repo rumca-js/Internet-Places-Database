@@ -1,3 +1,55 @@
+ ## Genesys Cloud
+ - [https://apps.euw2.pure.cloud](https://apps.euw2.pure.cloud)
+ - date_published: 2024-05-04T08:14:50.171972+00:00
+
+ ## retro.cloud - trickle-down thinking
+ - [https://retro.cloud](https://retro.cloud)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Rumble Cloud
+ - [https://www.rumble.cloud](https://www.rumble.cloud)
+ - date_published: 2024-04-28T05:58:02.697790+00:00
+
+ ## Resume of Sebastian Schürmann - Created as part of the "cloud resume challenge"
+ - [https://resume.schuermann.cloud](https://resume.schuermann.cloud)
+ - date_published: 2024-05-09T08:01:01.723911+00:00
+
+ ## Scramble Cloud - End-to-End encrypted cloud storage
+ - [https://info.scramble.cloud](https://info.scramble.cloud)
+ - date_published: 2023-10-25T12:15:36.043196+00:00
+
+ ## Scramble
+ - [https://scramble.cloud](https://scramble.cloud)
+ - date_published: 2024-04-30T06:17:42.500393+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://matomo.mgmt.sharks.cloud](https://matomo.mgmt.sharks.cloud)
+ - date_published: 2024-05-08T06:04:44.706092+00:00
+
+ ## Welcome to Shelly Knowledge Base!
+ - [https://kb.shelly.cloud](https://kb.shelly.cloud)
+ - date_published: 2024-05-01T02:45:15.329806+00:00
+
+ ## Welcome to Shelly Technical Documentation | Shelly Technical Documentation
+ - [https://shelly-api-docs.shelly.cloud](https://shelly-api-docs.shelly.cloud)
+ - date_published: 2024-05-01T02:45:01.510875+00:00
+
+ ## Cierpliwości...
+ - [https://www.shelly.cloud](https://www.shelly.cloud)
+ - date_published: 2024-05-01T02:44:36.870296+00:00
+
+ ## Silvan Cloud
+ - [https://silvan.cloud](https://silvan.cloud)
+ - date_published: 2024-05-04T07:49:09.433409+00:00
+
+ ## AI Art Gallery - SINTEF
+ - [https://ai-art-gallery.sintef.cloud](https://ai-art-gallery.sintef.cloud)
+ - date_published: 2023-10-25T12:15:38.861088+00:00
+
+ ## Sign in
+ - [https://nos-p-001.sitecorecontenthub.cloud](https://nos-p-001.sitecorecontenthub.cloud)
+ - date_published: 2024-05-12T07:54:13.522199+00:00
+
  ## SlashNext CMS
  - [https://cms.slashnext.cloud](https://cms.slashnext.cloud)
  - date_published: 2024-04-29T04:43:58.801440+00:00
@@ -2408,6 +2460,10 @@
  - [https://www.bitrix24.co](https://www.bitrix24.co)
  - date_published: 2024-05-12T03:57:34.736561+00:00
 
+ ## Bits of Wonder | Kasra | Substack
+ - [https://www.bitsofwonder.co](https://www.bitsofwonder.co)
+ - date_published: 2024-06-08T00:00:00+00:00
+
  ## BLAQ - Detoxifying Beauty
  - [https://blaq.co](https://blaq.co)
  - date_published: 2024-05-04T09:42:23.262097+00:00
@@ -4017,60 +4073,4 @@ It’s what you do.
  ## MD&A | Philo | Substack
  - [https://www.md-a.co](https://www.md-a.co)
  - date_published: 2024-02-26T08:51:48.767440+00:00
-
- ## Home
- - [https://mediumgiant.co](https://mediumgiant.co)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Memo
- - [https://app.memo.co](https://app.memo.co)
- - date_published: 2024-04-30T06:48:45.367662+00:00
-
- ## Memo | A data platform for the new era of PR measurement
- - [https://info.memo.co](https://info.memo.co)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Memo | A data platform for the new era of PR measurement
- - [https://memo.co](https://memo.co)
- - date_published: 2023-10-25T12:19:29.350477+00:00
-
- ## MentorPass | Online Startup Mentors 🚀
- - [https://www.mentorpass.co](https://www.mentorpass.co)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Flickity v2 · Touch, responsive, flickable carousels
- - [https://flickity.metafizzy.co](https://flickity.metafizzy.co)
- - date_published: 2024-01-09T02:28:31.648726+00:00
-
- ## Isotope · Filter & sort magical layouts
- - [https://isotope.metafizzy.co](https://isotope.metafizzy.co)
- - date_published: 2024-04-30T06:49:03.006081+00:00
-
- ## Metafizzy · Delightful JavaScript plugins & logos
- - [https://metafizzy.co](https://metafizzy.co)
- - date_published: 2024-04-30T06:49:22.854448+00:00
-
- ## Packery
- - [https://packery.metafizzy.co](https://packery.metafizzy.co)
- - date_published: 2024-04-30T06:49:19.142855+00:00
-
- ## MetalBear 🐻 - Tools for Backend Engineers
- - [https://metalbear.co](https://metalbear.co)
- - date_published: 2023-10-25T12:19:31.866187+00:00
-
- ## Investors | The Metals Company
- - [https://investors.metals.co](https://investors.metals.co)
- - date_published: 2023-10-25T12:19:35.204975+00:00
-
- ## Home Page - The Metals Company
- - [https://metals.co](https://metals.co)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## METAMATIC
- - [https://www.metamatic.co](https://www.metamatic.co)
- - date_published: 2024-05-07T14:13:49.828826+00:00
-
- ## MICES 2024 - Mix-camp E-Commerce Search
- - [http://mices.co](http://mices.co)
- - date_published: 2024-05-06T22:00:51.223671+00:00
 

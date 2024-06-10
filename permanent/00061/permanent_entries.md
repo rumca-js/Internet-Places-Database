@@ -1,3 +1,252 @@
+ ## Loading
+ - [https://campus.tum.de](https://campus.tum.de)
+ - date_published: 2024-04-29T06:57:12.485784+00:00
+
+ ## Chair for Database Systems
+ - [https://db.in.tum.de](https://db.in.tum.de)
+ - date_published: 2024-05-29T01:37:53.244255+00:00
+
+ ## Systems Research Group | Department of Computer Science // TUM School of Computation, Information and Technology
+ - [https://dse.in.tum.de](https://dse.in.tum.de)
+ - date_published: 2024-05-04T15:27:57.079929+00:00
+
+ ## Isabelle
+ - [https://isabelle.in.tum.de](https://isabelle.in.tum.de)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Standorte - NavigaTUM
+ - [https://nav.tum.de](https://nav.tum.de)
+ - date_published: 2024-04-29T06:57:11.219692+00:00
+
+ ## Home | Online Shop | Technische Universität München
+ - [https://shop.tum.de](https://shop.tum.de)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## The Entrepreneurial University - TUM
+ - [https://tum.de](https://tum.de)
+ - date_published: 2024-04-29T06:56:29.965799+00:00
+
+ ## Login - BayernCollab
+ - [https://wiki.tum.de](https://wiki.tum.de)
+ - date_published: 2024-04-29T06:57:07.882141+00:00
+
+ ## Startseite
+ - [https://www.chancengleichheit.tum.de](https://www.chancengleichheit.tum.de)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## TUM School of Computation, Information and Technology
+ - [https://www.cit.tum.de](https://www.cit.tum.de)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Startseite - TUM Community
+ - [https://www.community.tum.de](https://www.community.tum.de)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Department of Computer Science - TUM School of Computation, Information and Technology - Department of Computer Science
+ - [https://www.cs.cit.tum.de](https://www.cs.cit.tum.de)
+ - date_published: 2023-10-25T18:33:05.751862+00:00
+
+ ## MDCO_Home
+ - [http://www.dualcareer.tum.de](http://www.dualcareer.tum.de)
+ - date_published: 2024-04-29T06:57:00.323508+00:00
+
+ ## TUM School of Engineering and Design (ED)
+ - [https://www.ed.tum.de](https://www.ed.tum.de)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Effektive Förderung: Unterstützung für die Technische Universität München
+ - [https://www.fundraising.tum.de](https://www.fundraising.tum.de)
+ - date_published: 2024-04-29T06:56:54.029375+00:00
+
+ ## Promovieren an der Technischen Universität München
+ - [https://www.gs.tum.de](https://www.gs.tum.de)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.international.tum.de](https://www.international.tum.de)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## TUM Institute for LifeLong Learning - Executive & Professional Education
+ - [https://www.lll.tum.de](https://www.lll.tum.de)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.ls.tum.de](https://www.ls.tum.de)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Startseite der TUM School of Medicine and Health | TUM School of Medicine and Health
+ - [https://www.med.tum.de](https://www.med.tum.de)
+ - date_published: 2024-04-29T06:57:06.066785+00:00
+
+ ## Uniting Management and Technology | TUM School of Management
+ - [https://www.mgt.tum.de](https://www.mgt.tum.de)
+ - date_published: 2024-04-29T06:56:57.887730+00:00
+
+ ## Startseite
+ - [https://www.nat.tum.de](https://www.nat.tum.de)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Professoren an der Technischen Universität München (TUM) - Akademische Exzellenz
+ - [http://www.professoren.tum.de](http://www.professoren.tum.de)
+ - date_published: 2024-04-29T06:56:38.550596+00:00
+
+ ## Home
+ - [https://www.prolehre.tum.de](https://www.prolehre.tum.de)
+ - date_published: 2024-04-29T06:56:41.969327+00:00
+
+ ## Home
+ - [https://www.sot.tum.de](https://www.sot.tum.de)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Startseite - TUM Community
+ - [http://www.together.tum.de](http://www.together.tum.de)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## The Entrepreneurial University - TUM
+ - [https://www.tum.de](https://www.tum.de)
+ - date_published: 2023-12-12T22:22:55.827588+00:00
+
+ ## Universitätsbibliothek der TUM |
+ - [https://www.ub.tum.de](https://www.ub.tum.de)
+ - date_published: 2024-04-29T06:56:50.124217+00:00
+
+ ## Startseite
+ - [https://www.zv.tum.de](https://www.zv.tum.de)
+ - date_published: 2024-04-29T06:56:36.119166+00:00
+
+ ## Startseite
+ - [https://www.tum4health.de](https://www.tum4health.de)
+ - date_published: 2024-04-29T06:57:01.568063+00:00
+
+ ## TUM Universitätsstiftung: gemeinsam die TUM fördern
+ - [https://www.tum-universitaetsstiftung.de](https://www.tum-universitaetsstiftung.de)
+ - date_published: 2024-04-29T06:57:08.865106+00:00
+
+ ## TUM Venture Labs x TUM Venture Labs
+ - [https://www.tum-venture-labs.de](https://www.tum-venture-labs.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Tunkl.de  |  IT-Consulting – SEA, E-Commerce und Online Marketing Consulting
+ - [https://tunkl.de](https://tunkl.de)
+ - date_published: 2024-01-01T03:39:24.415411+00:00
+
+ ## Andreas Zwinkau
+ - [https://beza1e1.tuxen.de](https://beza1e1.tuxen.de)
+ - date_published: 2023-10-25T18:33:06.452394+00:00
+
+ ## tuxproject.de :: Scheibe Wurst dazu?
+ - [https://tuxproject.de](https://tuxproject.de)
+ - date_published: 2024-05-09T07:49:05.827641+00:00
+
+ ## RTL+
+ - [https://www.tvnow.de](https://www.tvnow.de)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Imperialism Remake | An open source project.
+ - [http://remake.twelvepm.de](http://remake.twelvepm.de)
+ - date_published: 2024-05-09T08:56:14.895790+00:00
+
+ ## A Pocket Guide to Master Every Day’s Typographic Adventures
+ - [http://www.typogui.de](http://www.typogui.de)
+ - date_published: 2024-04-29T07:17:26.057338+00:00
+
+ ## map.apps
+ - [https://gis.uba.de](https://gis.uba.de)
+ - date_published: 2024-04-29T06:57:33.414583+00:00
+
+ ## SNS Portal
+ - [https://sns.uba.de](https://sns.uba.de)
+ - date_published: 2024-04-29T06:57:37.177818+00:00
+
+ ## UFORDAT
+ - [http://ufordat.uba.de](http://ufordat.uba.de)
+ - date_published: 2024-04-29T06:57:57.262579+00:00
+
+ ## IIS Windows Server
+ - [http://webetox.uba.de](http://webetox.uba.de)
+ - date_published: 2024-04-29T06:58:41.143646+00:00
+
+ ## IIS Windows Server
+ - [https://webrigoletto.uba.de](https://webrigoletto.uba.de)
+ - date_published: 2024-04-29T06:57:32.274357+00:00
+
+ ## Willkommen auf infosis
+ - [http://www.infosis.uba.de](http://www.infosis.uba.de)
+ - date_published: 2024-04-29T06:58:31.051663+00:00
+
+ ## Umweltbundesamt | Für Mensch und Umwelt
+ - [http://www.uba.de](http://www.uba.de)
+ - date_published: 2024-04-29T06:58:35.440121+00:00
+
+ ## UberBlogr - Webring für Blogger
+ - [https://uberblogr.de](https://uberblogr.de)
+ - date_published: 2024-05-07T23:07:20.186612+00:00
+
+ ## Uberspace - Hosting on Asteroids
+ - [https://uberspace.de](https://uberspace.de)
+ - date_published: 2024-04-29T05:57:31.152532+00:00
+
+ ## Ubuntu User - Informationen aus der Welt der Technik
+ - [https://ubuntu-user.de](https://ubuntu-user.de)
+ - date_published: 2024-06-08T18:08:11.767581+00:00
+
+ ## Home
+ - [https://www.udiscover-music.de](https://www.udiscover-music.de)
+ - date_published: 2024-05-06T21:11:29.060295+00:00
+
+ ## udse.de - Foren-Übersicht
+ - [http://forum.udse.de](http://forum.udse.de)
+ - date_published: 2024-05-30T20:39:22.341802+00:00
+
+ ## Startseite - Ulrich Decker Software
+ - [https://udse.de](https://udse.de)
+ - date_published: 2024-05-30T20:35:23+00:00
+
+ ## Startseite - Ulrich Decker Software
+ - [https://www.udse.de](https://www.udse.de)
+ - date_published: 2024-05-30T20:39:21.270356+00:00
+
+ ## Startseite - Ulrich Decker Software
+ - [http://ud-soft.de](http://ud-soft.de)
+ - date_published: 2024-05-30T20:38:56.024951+00:00
+
+ ## NetX
+ - [https://mediap.ufz.de](https://mediap.ufz.de)
+ - date_published: 2024-05-11T08:53:11.494965+00:00
+
+ ## Ticketsystem PACE
+ - [https://pace-support.ufz.de](https://pace-support.ufz.de)
+ - date_published: 2024-05-11T08:53:10.947345+00:00
+
+ ## PRinS
+ - [https://presse.ufz.de](https://presse.ufz.de)
+ - date_published: 2024-05-11T08:53:07.635460+00:00
+
+ ## Home - Helmholtz-Centre for Environmental Research
+ - [https://www.ufz.de](https://www.ufz.de)
+ - date_published: 2024-03-20T19:12:24.334536+00:00
+ - tags: ['environment', 'climate change']
+
+ ## UKB Startseite
+ - [https://www.ukbonn.de](https://www.ukbonn.de)
+ - date_published: 2024-05-06T08:57:18.627830+00:00
+
+ ## Ukrinform News
+ - [https://www.ukrinform.de](https://www.ukrinform.de)
+ - date_published: 2024-05-02T10:44:11.730534+00:00
+
+ ## ULLSTEIN Buchverlage
+ - [https://www.ullstein.de](https://www.ullstein.de)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Beckenbodentraining & somatisches Frauencoaching
+ - [https://ulyaversum.de](https://ulyaversum.de)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Denkwerkstatt Konsum: Nachhaltigen Konsum besser verstehen | Denkwerkstatt Konsum
+ - [https://denkwerkstatt-konsum.umweltbundesamt.de](https://denkwerkstatt-konsum.umweltbundesamt.de)
+ - date_published: 2024-04-29T06:58:40.423108+00:00
+
  ## Stories
  - [https://stories.umweltbundesamt.de](https://stories.umweltbundesamt.de)
  - date_published: 2024-04-29T06:57:58.814478+00:00
@@ -2075,6 +2324,10 @@
  - date_published: 2024-05-01T21:07:21.387573+00:00
  - tags: ['personal']
 
+ ## Asim
+ - [https://asim.bearblog.dev](https://asim.bearblog.dev)
+ - date_published: 2024-06-09T00:00:00+00:00
+
  ## Barely Managing
  - [https://barely-managing.bearblog.dev](https://barely-managing.bearblog.dev)
  - date_published: 2023-10-25T18:35:04.253109+00:00
@@ -3835,271 +4088,4 @@
  ## Strona główna - semipythonic
  - [https://gronkiewicz.dev](https://gronkiewicz.dev)
  - date_published: 2024-01-06T22:17:07.896380+00:00
-
- ## The Grug Brained Developer
- - [https://grugbrain.dev](https://grugbrain.dev)
- - date_published: 2024-01-09T02:57:17.142416+00:00
-
- ## Guru Das Srinagesh
- - [https://gurudas.dev](https://gurudas.dev)
- - date_published: 2024-02-09T00:21:14.311084+00:00
- - tags: ['personal']
-
- ## Gut - Ease your journey with Git
- - [https://gut-cli.dev](https://gut-cli.dev)
- - date_published: 2023-10-25T18:38:12.352081+00:00
-
- ## Simple Analytics
- - [https://simple.gut-cli.dev](https://simple.gut-cli.dev)
- - date_published: 2024-04-29T07:46:17.636483+00:00
-
- ## On coding and tools
- - [https://gutov.dev](https://gutov.dev)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## The Container Security Platform | gVisor
- - [https://gvisor.dev](https://gvisor.dev)
- - date_published: 2023-10-25T18:38:13.344166+00:00
-
- ## Gym Documentation
- - [https://www.gymlibrary.dev](https://www.gymlibrary.dev)
- - date_published: 2024-05-06T09:19:48.626158+00:00
-
- ## Blot
- - [https://blot.hackclub.dev](https://blot.hackclub.dev)
- - date_published: 2024-05-04T09:12:49.087770+00:00
-
- ## Hamel’s Blog
- - [https://hamel.dev](https://hamel.dev)
- - date_published: 2023-10-25T08:58:29.383909+00:00
- - tags: ['personal']
-
- ## Harris Jose
- - [https://harrisjose.dev](https://harrisjose.dev)
- - date_published: 2023-12-12T13:08:55.908400+00:00
- - tags: ['personal']
-
- ## Harry Llewelyn - Developer
- - [https://harry.dev](https://harry.dev)
- - date_published: 2023-12-28T22:26:50.855629+00:00
- - tags: ['personal']
-
- ## Haseeb Majid
- - [https://haseebmajid.dev](https://haseebmajid.dev)
- - date_published: 2024-05-11T10:19:31.928258+00:00
-
- ## Abid Moon
- - [https://abidmoon.hashnode.dev](https://abidmoon.hashnode.dev)
- - date_published: 2023-10-25T18:38:19.386013+00:00
-
- ## CodeSnap
- - [https://codesnapmag.hashnode.dev](https://codesnapmag.hashnode.dev)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Dan Dan Da Developer Man
- - [https://danfitdegree.hashnode.dev](https://danfitdegree.hashnode.dev)
- - date_published: 2023-10-25T18:38:20.191019+00:00
-
- ## Dr. Ehoneah Obed
- - [https://ehoneahobed.hashnode.dev](https://ehoneahobed.hashnode.dev)
- - date_published: 2024-05-01T08:40:23.545973+00:00
-
- ## Hardik Sachan
- - [https://hardiksachan.hashnode.dev](https://hardiksachan.hashnode.dev)
- - date_published: 2024-05-04T09:18:24.512744+00:00
-
- ## Start a Developer Blog: Custom Domains, Sub-paths & Headless CMS Options — Hashnode
- - [https://hashnode.dev](https://hashnode.dev)
- - date_published: 2024-06-02T06:57:21+00:00
- - tags: ['web hosting']
-
- ## Mike Mwanje's  blog
- - [https://mikemwanje.hashnode.dev](https://mikemwanje.hashnode.dev)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Quincy Oghenetejiri's Blog
- - [https://quincyoghenetejiri.hashnode.dev](https://quincyoghenetejiri.hashnode.dev)
- - date_published: 2024-05-02T13:57:09.765491+00:00
- - tags: ['personal']
-
- ## Shaunak Sen's Blog
- - [https://shaunaksen.hashnode.dev](https://shaunaksen.hashnode.dev)
- - date_published: 2024-04-30T07:42:35.038637+00:00
- - tags: ['personal']
-
- ## SoNiC-HeRE
- - [https://sonichere.hashnode.dev](https://sonichere.hashnode.dev)
- - date_published: 2024-05-11T09:06:13.977387+00:00
-
- ## Steel Rods
- - [https://steelrods.hashnode.dev](https://steelrods.hashnode.dev)
- - date_published: 2023-11-12T13:46:14.283644+00:00
- - tags: ['personal']
-
- ## Learned to Share
- - [https://tanmaysarkar.hashnode.dev](https://tanmaysarkar.hashnode.dev)
- - date_published: 2024-06-01T04:55:17.869008+00:00
-
- ## Techlatest Blogs
- - [https://techlatest.hashnode.dev](https://techlatest.hashnode.dev)
- - date_published: 2024-06-01T04:54:48.827485+00:00
-
- ## Show HN: Hashquery, a Python library for defining reusable analysis
- - [https://hashquery.dev](https://hashquery.dev)
- - date_published: 2024-04-23T14:31:12+00:00
- - tags: ['programming library', 'python', 'data analysis']
-
- ## Hathora
- - [https://blog.hathora.dev](https://blog.hathora.dev)
- - date_published: 2024-03-16T00:26:26.846171+00:00
-
- ## Hathora | Server Orchestration for Multiplayer Games
- - [https://hathora.dev](https://hathora.dev)
- - date_published: 2024-04-23T10:08:25+00:00
- - tags: ['server hosting', 'online service']
-
- ## Headless UI
- - [https://headlessui.dev](https://headlessui.dev)
- - date_published: 2024-04-30T02:20:07.294350+00:00
-
- ## Helius - Solana's Leading RPC & API Platform
- - [http://helius.dev](http://helius.dev)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Hellō World
- - [https://blog.hello.dev](https://blog.hello.dev)
- - date_published: 2024-05-07T19:03:36.473998+00:00
-
- ## Hellō Playground
- - [https://playground.hello.dev](https://playground.hello.dev)
- - date_published: 2024-05-07T19:03:28.926733+00:00
-
- ## hello.dev | hello.dev
- - [https://www.hello.dev](https://www.hello.dev)
- - date_published: 2024-05-07T19:03:26.406304+00:00
-
- ## Welcome - hello, yes. I'm Thomas Michael Semmler: CSS Developer, Designer & Developer from Vienna, Austria
- - [https://helloyes.dev](https://helloyes.dev)
- - date_published: 2024-05-06T22:19:09.005545+00:00
-
- ## Henrique Vicente
- - [https://henvic.dev](https://henvic.dev)
- - date_published: 2023-10-25T09:21:40.457532+00:00
- - tags: ['personal']
-
- ## hermes/README.md at main · facebook/hermes
- - [https://hermesengine.dev](https://hermesengine.dev)
- - date_published: 2024-05-06T13:56:30.682943+00:00
-
- ## Build better business applications, faster, with Hilla
- - [https://hilla.dev](https://hilla.dev)
- - date_published: 2024-04-30T00:28:58.130696+00:00
-
- ## Intro
- - [https://hiranyey.dev](https://hiranyey.dev)
- - date_published: 2023-10-25T18:38:20.773984+00:00
-
- ## Histoire controls
- - [https://controls.histoire.dev](https://controls.histoire.dev)
- - date_published: 2024-04-29T07:46:54.786866+00:00
-
- ## Histoire | Histoire
- - [https://histoire.dev](https://histoire.dev)
- - date_published: 2023-10-25T18:38:21.786006+00:00
-
- ## Attention Required! | Cloudflare
- - [https://hoanganh.dev](https://hoanganh.dev)
- - date_published: 2024-05-11T10:17:50.204655+00:00
-
- ## Hocus | Automated Self-Hosted Dev Environments
- - [https://hocus.dev](https://hocus.dev)
- - date_published: 2023-10-25T18:38:23.102654+00:00
- - tags: ['self-host']
-
- ## PostHog
- - [https://phog.hocus.dev](https://phog.hocus.dev)
- - date_published: 2023-07-07T00:00:00+00:00
-
- ## Homarr Demo
- - [https://demo.homarr.dev](https://demo.homarr.dev)
- - date_published: 2024-05-14T03:46:23.271083+00:00
-
- ## Homarr documentation
- - [https://homarr.dev](https://homarr.dev)
- - date_published: 2024-04-08T19:28:57.512411+00:00
- - tags: ['self-host', 'server administration']
-
- ## Umami
- - [https://umami.homarr.dev](https://umami.homarr.dev)
- - date_published: 2024-05-14T03:46:22.779870+00:00
-
- ## Hono - Ultrafast web framework for the Edges
- - [https://hono.dev](https://hono.dev)
- - date_published: 2024-04-29T07:30:37.261287+00:00
-
- ## hoop.dev - Protect access to customer data. Anywhere.
- - [https://hoop.dev](https://hoop.dev)
- - date_published: 2023-10-25T18:38:24.467829+00:00
-
- ## Hoop
- - [https://use.hoop.dev](https://use.hoop.dev)
- - date_published: 2024-04-29T07:47:04.897395+00:00
-
- ## hotio.dev
- - [https://hotio.dev](https://hotio.dev)
- - date_published: 2024-05-14T03:32:08.303055+00:00
-
- ## Hotwire Discussion
- - [https://discuss.hotwired.dev](https://discuss.hotwired.dev)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## HTML Over The Wire | Hotwire
- - [https://hotwired.dev](https://hotwired.dev)
- - date_published: 2024-04-29T07:47:09.617459+00:00
-
- ## Stimulus: A modest JavaScript framework for the HTML you already have.
- - [https://stimulus.hotwired.dev](https://stimulus.hotwired.dev)
- - date_published: 2024-04-29T07:47:10.643497+00:00
-
- ## Strada: Create high fidelity native interactions driven by your web app.
- - [https://strada.hotwired.dev](https://strada.hotwired.dev)
- - date_published: 2023-10-25T18:38:25.376940+00:00
-
- ## Turbo: The speed of a single-page web application without having to write any JavaScript.
- - [https://turbo.hotwired.dev](https://turbo.hotwired.dev)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Markup from hell - HTMHell
- - [https://www.htmhell.dev](https://www.htmhell.dev)
- - date_published: 2023-12-02T12:10:35.500652+00:00
- - tags: ['html', 'tutorial', 'funny']
-
- ## The personal website of Andrei Hudovich, freelance front-end engineer and web enthusiast.
- - [https://hudovich.dev](https://hudovich.dev)
- - date_published: 2024-05-11T10:21:52.364350+00:00
-
- ## Document
- - [https://blog.hugos29.dev](https://blog.hugos29.dev)
- - date_published: 2024-04-30T07:44:27.804376+00:00
-
- ## Hurl - Run and Test HTTP Requests
- - [https://hurl.dev](https://hurl.dev)
- - date_published: 2023-10-25T18:38:27.301484+00:00
-
- ## Wilson Husin
- - [https://husin.dev](https://husin.dev)
- - date_published: 2024-04-06T13:22:27.195376+00:00
-
- ## Héctor Valls: Sr. Software Engineer
- - [https://hvalls.dev](https://hvalls.dev)
- - date_published: 2024-06-01T05:04:30.405585+00:00
- - tags: ['personal']
-
- ## hyper.dev · hyper.dev @ well come
- - [https://hyper.dev](https://hyper.dev)
- - date_published: 2024-05-09T08:28:54.490203+00:00
-
- ## Code Examples and Guides of Functionality with Alpine JS | HyperJS
- - [https://js.hyperui.dev](https://js.hyperui.dev)
- - date_published: 2024-04-29T07:47:29.458745+00:00
 

@@ -1,3 +1,272 @@
+ ## Home
+ - [https://gradadmissions.rice.edu](https://gradadmissions.rice.edu)
+ - date_published: 2024-05-07T20:06:18.645335+00:00
+
+ ## Home
+ - [https://graduate.rice.edu](https://graduate.rice.edu)
+ - date_published: 2024-05-07T20:05:17.391901+00:00
+
+ ## Login
+ - [http://helpdesk.rice.edu](http://helpdesk.rice.edu)
+ - date_published: 2024-05-07T20:06:11.527443+00:00
+
+ ## Login
+ - [https://help.rice.edu](https://help.rice.edu)
+ - date_published: 2024-05-07T20:06:08.094857+00:00
+
+ ## School of Humanities
+ - [https://humanities.rice.edu](https://humanities.rice.edu)
+ - date_published: 2024-05-07T20:05:26.877289+00:00
+
+ ## 2024 INFORMS Optimization Society Conference
+ - [https://ios2024.rice.edu](https://ios2024.rice.edu)
+ - date_published: 2024-05-04T15:43:56.017559+00:00
+
+ ## OIT
+ - [http://it.rice.edu](http://it.rice.edu)
+ - date_published: 2024-05-07T20:06:10.049090+00:00
+
+ ## Home
+ - [https://jobs.rice.edu](https://jobs.rice.edu)
+ - date_published: 2024-05-07T20:05:51.231193+00:00
+
+ ## Rice University KB
+ - [https://kb.rice.edu](https://kb.rice.edu)
+ - date_published: 2024-05-07T20:06:02.177119+00:00
+
+ ## Welcome | Fondren Library
+ - [https://library.rice.edu](https://library.rice.edu)
+ - date_published: 2024-05-07T20:05:32.296725+00:00
+
+ ## Home
+ - [https://magazine.rice.edu](https://magazine.rice.edu)
+ - date_published: 2024-05-07T20:04:41.853490+00:00
+
+ ## Moody Center for the Arts | Moody Center for The Arts
+ - [https://moody.rice.edu](https://moody.rice.edu)
+ - date_published: 2024-05-07T20:05:06.817675+00:00
+
+ ## The Shepherd School of Music |The Shepherd School of Music
+ - [https://music.rice.edu](https://music.rice.edu)
+ - date_published: 2024-05-07T20:05:49.016959+00:00
+
+ ## School of Natural Sciences
+ - [https://naturalsciences.rice.edu](https://naturalsciences.rice.edu)
+ - date_published: 2024-05-07T20:05:14.921204+00:00
+
+ ## Rice University News & Media
+ - [https://news2.rice.edu](https://news2.rice.edu)
+ - date_published: 2024-05-07T20:04:27.352349+00:00
+
+ ## Rice News | News and Media Relations | Rice University
+ - [https://news.rice.edu](https://news.rice.edu)
+ - date_published: 2023-10-25T09:29:39.683713+00:00
+
+ ## Office of Institutional Effectiveness
+ - [https://oie.rice.edu](https://oie.rice.edu)
+ - date_published: 2024-05-07T20:05:53.797048+00:00
+
+ ## OIT
+ - [https://oit.rice.edu](https://oit.rice.edu)
+ - date_published: 2024-05-07T20:05:44.457469+00:00
+
+ ## Online Learning
+ - [https://online.rice.edu](https://online.rice.edu)
+ - date_published: 2024-05-07T20:05:05.242596+00:00
+
+ ## Public Affairs
+ - [https://pa.rice.edu](https://pa.rice.edu)
+ - date_published: 2024-05-07T20:04:44.433827+00:00
+
+ ## Parking
+ - [https://parking.rice.edu](https://parking.rice.edu)
+ - date_published: 2024-05-07T20:04:50.676569+00:00
+
+ ## Rice Policies
+ - [https://policy.rice.edu](https://policy.rice.edu)
+ - date_published: 2024-05-07T20:05:46.183936+00:00
+
+ ## Office of the President
+ - [https://president.rice.edu](https://president.rice.edu)
+ - date_published: 2024-05-07T20:04:31.343233+00:00
+
+ ## Rice University Privacy Notice
+ - [https://privacy.rice.edu](https://privacy.rice.edu)
+ - date_published: 2024-05-07T20:04:38.617521+00:00
+
+ ## Home
+ - [https://provost.rice.edu](https://provost.rice.edu)
+ - date_published: 2024-05-07T20:04:43.129020+00:00
+
+ ## Public Affairs
+ - [https://publicaffairs.rice.edu](https://publicaffairs.rice.edu)
+ - date_published: 2024-05-07T20:04:48.601637+00:00
+
+ ## Rec Center
+ - [https://recreation.rice.edu](https://recreation.rice.edu)
+ - date_published: 2024-05-07T20:05:50.074379+00:00
+
+ ## Office of the Registrar
+ - [https://registrar.rice.edu](https://registrar.rice.edu)
+ - date_published: 2024-05-07T20:04:34.622204+00:00
+
+ ## Home
+ - [https://research.rice.edu](https://research.rice.edu)
+ - date_published: 2024-05-07T20:04:47.791640+00:00
+
+ ## Rice
+ - [https://rice.edu](https://rice.edu)
+ - date_published: 2023-10-27T13:02:00.219008+00:00
+ - tags: ['university']
+
+ ## Rice University » Search
+ - [https://search.rice.edu](https://search.rice.edu)
+ - date_published: 2024-05-07T20:04:33.188958+00:00
+
+ ## School of Social Sciences
+ - [https://socialsciences.rice.edu](https://socialsciences.rice.edu)
+ - date_published: 2024-05-07T20:05:41.917329+00:00
+
+ ## Rice
+ - [https://studentcenter.rice.edu](https://studentcenter.rice.edu)
+ - date_published: 2024-05-07T20:05:47.501470+00:00
+
+ ## The Rice Investment
+ - [https://thericeinvestment.rice.edu](https://thericeinvestment.rice.edu)
+ - date_published: 2024-05-07T20:05:24.019149+00:00
+
+ ## Home
+ - [https://titleix.rice.edu](https://titleix.rice.edu)
+ - date_published: 2024-05-07T20:05:33.018700+00:00
+
+ ## Volunteer
+ - [https://volunteer.rice.edu](https://volunteer.rice.edu)
+ - date_published: 2024-05-07T20:05:10.024820+00:00
+
+ ## Welcome
+ - [https://welcome.rice.edu](https://welcome.rice.edu)
+ - date_published: 2024-05-07T20:05:40.418424+00:00
+
+ ## Home - Public - Rice University Campus Wiki
+ - [https://wiki.rice.edu](https://wiki.rice.edu)
+ - date_published: 2024-05-07T20:06:16.681647+00:00
+
+ ## CMOR
+ - [https://www.caam.rice.edu](https://www.caam.rice.edu)
+ - date_published: 2024-05-01T04:32:57.055307+00:00
+
+ ## Rice University
+ - [https://www.clear.rice.edu](https://www.clear.rice.edu)
+ - date_published: 2023-10-25T11:22:50.744610+00:00
+
+ ## Rice CS
+ - [https://www.cs.rice.edu](https://www.cs.rice.edu)
+ - date_published: 2024-01-21T02:57:02.989746+00:00
+
+ ## Rice
+ - [http://www.rcsg.rice.edu](http://www.rcsg.rice.edu)
+ - date_published: 2024-05-07T20:06:00.070894+00:00
+
+ ## Rice
+ - [https://www.rice.edu](https://www.rice.edu)
+ - date_published: 2024-05-07T20:04:36.390193+00:00
+
+ ## University of Richmond Writing Center & WAC Program
+ - [http://writing2.richmond.edu](http://writing2.richmond.edu)
+ - date_published: 2024-03-07T17:56:47.784966+00:00
+
+ ## Privacy Policy - Consent - University of Richmond
+ - [http://writing.richmond.edu](http://writing.richmond.edu)
+ - date_published: 2024-05-09T05:51:53.259610+00:00
+
+ ## - Involved@RISD
+ - [https://involved.risd.edu](https://involved.risd.edu)
+ - date_published: 2024-04-01T15:14:15.340595+00:00
+
+ ## RIT Certified
+ - [https://certified.rit.edu](https://certified.rit.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## RIT Login
+ - [https://claws.rit.edu](https://claws.rit.edu)
+ - date_published: 2024-05-07T20:06:30.470692+00:00
+
+ ## Apply | RIT
+ - [https://join.rit.edu](https://join.rit.edu)
+ - date_published: 2024-05-07T20:06:43.066927+00:00
+
+ ## RIT Libraries | RIT
+ - [https://library.rit.edu](https://library.rit.edu)
+ - date_published: 2024-05-07T20:06:33.841185+00:00
+
+ ## Rochester Institute of Technology | RIT
+ - [https://www.rit.edu](https://www.rit.edu)
+ - date_published: 2023-10-25T18:57:15.262189+00:00
+
+ ## Pages - RLC Forms: Covid-19 Testing | Vax Status | Book Order forms
+ - [https://rlcforms.rlc.edu](https://rlcforms.rlc.edu)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Pages - RLC Forms: Covid-19 Testing | Vax Status | Book Order forms
+ - [https://studentforms.rlc.edu](https://studentforms.rlc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://sentry.rmu.edu](https://sentry.rmu.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home - Undergraduate Admissions
+ - [https://admissions.rochester.edu](https://admissions.rochester.edu)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Astronomy and Astrophysics
+ - [http://astro.pas.rochester.edu](http://astro.pas.rochester.edu)
+ - date_published: 2024-04-30T04:59:55.845877+00:00
+
+ ## 2030 University of Rochester Strategic Plan – Boundless Possibility
+ - [https://boundless.rochester.edu](https://boundless.rochester.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Department of Computer Science
+ - [https://cs.rochester.edu](https://cs.rochester.edu)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## Events Calendar
+ - [https://events.rochester.edu](https://events.rochester.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Blackboard Learn
+ - [https://learn.rochester.edu](https://learn.rochester.edu)
+ - date_published: 2024-05-07T20:07:05.656583+00:00
+
+ ## Home | Memorial Art Gallery
+ - [https://mag.rochester.edu](https://mag.rochester.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Sign into MyPath | University of Rochester
+ - [https://mypath.rochester.edu](https://mypath.rochester.edu)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Online Directory
+ - [https://onlinedirectory.ur.rochester.edu](https://onlinedirectory.ur.rochester.edu)
+ - date_published: 2024-05-07T20:06:55.185509+00:00
+
+ ## The University of Rochester | Make the World Ever Better
+ - [https://rochester.edu](https://rochester.edu)
+ - date_published: 2024-05-07T20:06:51.768784+00:00
+
+ ## Simon Business School
+ - [https://simon.rochester.edu](https://simon.rochester.edu)
+ - date_published: 2024-05-07T20:07:11.699586+00:00
+
+ ## University IT - University of Rochester
+ - [https://tech.rochester.edu](https://tech.rochester.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Department of Computer Science : University of Rochester
+ - [https://www.cs.rochester.edu](https://www.cs.rochester.edu)
+ - date_published: 2023-10-25T11:22:54.164400+00:00
+
  ## Eastman Home
  - [https://www.esm.rochester.edu](https://www.esm.rochester.edu)
  - date_published: 2024-05-07T20:07:43.776401+00:00
@@ -3762,274 +4031,4 @@
  ## University of Florida Experts | Search & Connect
  - [https://experts.ufl.edu](https://experts.ufl.edu)
  - date_published: 2024-05-07T21:11:34.496371+00:00
-
- ## Liao Lab »  » University of Florida
- - [https://liao.acb.med.ufl.edu](https://liao.acb.med.ufl.edu)
- - date_published: 2024-02-08T16:20:48.739035+00:00
-
- ## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
- - [https://mbi-cam.sites.medinfo.ufl.edu](https://mbi-cam.sites.medinfo.ufl.edu)
- - date_published: 2024-05-07T21:11:06.799717+00:00
-
- ## McKnight Brain Institute » University of Florida
- - [https://mbi.ufl.edu](https://mbi.ufl.edu)
- - date_published: 2024-05-07T21:11:20.615371+00:00
-
- ## Department of Neuroscience » College of Medicine » University of Florida
- - [https://neuroscience.ufl.edu](https://neuroscience.ufl.edu)
- - date_published: 2024-05-07T21:11:17.576118+00:00
-
- ## Home - News - University of Florida
- - [https://news.ufl.edu](https://news.ufl.edu)
- - date_published: 2024-01-04T17:18:14.446846+00:00
-
- ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
- - [https://phhp.ufl.edu](https://phhp.ufl.edu)
- - date_published: 2024-05-07T21:10:59.230316+00:00
-
- ## http://plaza.ufl.edu
- - [http://plaza.ufl.edu](http://plaza.ufl.edu)
- - date_published: 2023-10-25T19:01:27.333883+00:00
-
- ## Privacy » University of Florida
- - [http://privacy.ufl.edu](http://privacy.ufl.edu)
- - date_published: 2024-05-07T21:11:12.619267+00:00
-
- ## Research Activities » College of Public Health and Health Professions » University of Florida
- - [https://research.phhp.ufl.edu](https://research.phhp.ufl.edu)
- - date_published: 2024-05-07T21:10:54.372575+00:00
-
- ## Search » University of Florida
- - [http://search.ufl.edu](http://search.ufl.edu)
- - date_published: 2024-05-07T21:11:36.945840+00:00
-
- ## Information Security – University of Florida
- - [https://security.ufl.edu](https://security.ufl.edu)
- - date_published: 2024-05-07T21:10:52.267199+00:00
-
- ## Web Services » UF Health » University of Florida
- - [https://sites.medinfo.ufl.edu](https://sites.medinfo.ufl.edu)
- - date_published: 2024-05-07T21:11:23.235964+00:00
-
- ## Home
- - [https://ufl.edu](https://ufl.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## J. Crayton Pruitt Family Department of Biomedical Engineering – University of Florida
- - [https://www.bme.ufl.edu](https://www.bme.ufl.edu)
- - date_published: 2024-05-07T21:11:14.981767+00:00
-
- ## Florida Museum
- - [https://www.floridamuseum.ufl.edu](https://www.floridamuseum.ufl.edu)
- - date_published: 2023-11-09T19:00:22.567256+00:00
-
- ## University of Florida Advancement
- - [https://www.uff.ufl.edu](https://www.uff.ufl.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Home
- - [https://www.ufl.edu](https://www.ufl.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Events Calendar
- - [https://calendar.uga.edu](https://calendar.uga.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## CTL SITES
- - [https://ctlsites.uga.edu](https://ctlsites.uga.edu)
- - date_published: 2024-05-08T05:47:13.179862+00:00
-
- ## Home - Carl Vinson Institute of Government
- - [https://cviog.uga.edu](https://cviog.uga.edu)
- - date_published: 2024-05-07T21:12:53.258501+00:00
-
- ## https://digilab.libs.uga.edu
- - [https://digilab.libs.uga.edu](https://digilab.libs.uga.edu)
- - date_published: 2024-01-09T03:28:33.119214+00:00
-
- ## Home - UGA Student Affairs
- - [http://dos.uga.edu](http://dos.uga.edu)
- - date_published: 2024-05-07T21:11:50.660759+00:00
-
- ## Home | Enterprise Information Technology Services
- - [https://eits.uga.edu](https://eits.uga.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## ERROR: HTTP 403
- - [https://estore.uga.edu](https://estore.uga.edu)
- - date_published: 2024-05-07T21:11:40.385219+00:00
-
- ## Extension | UGA Cooperative Extension
- - [https://extension.uga.edu](https://extension.uga.edu)
- - date_published: 2006-06-07T00:00:00+00:00
-
- ## Give to UGA for a Better Tomorrow - Support the Future of Georgia
- - [https://give.uga.edu](https://give.uga.edu)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Division of Marketing & Communications, University of Georgia
- - [http://mc.uga.edu](http://mc.uga.edu)
- - date_published: 2024-05-07T21:11:41.782223+00:00
-
- ## MyUGA: Welcome
- - [https://my.uga.edu](https://my.uga.edu)
- - date_published: 2024-05-07T21:11:53.881319+00:00
-
- ## National Center for Home Food Preservation
- - [https://nchfp.uga.edu](https://nchfp.uga.edu)
- - date_published: 2023-11-01T08:43:32.942121+00:00
-
- ## UGA Today - Today’s top news from the University of Georgia
- - [https://news.uga.edu](https://news.uga.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Athena Homepage
- - [https://oasisweb.uga.edu](https://oasisweb.uga.edu)
- - date_published: 2024-05-07T21:12:29.498653+00:00
-
- ## Office of Global Engagement
- - [http://oie.uga.edu](http://oie.uga.edu)
- - date_published: 2024-05-07T21:12:27.283573+00:00
-
- ## Home - UGA Student Financial Aid
- - [http://osfa.uga.edu](http://osfa.uga.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Home | University of Georgia Extension
- - [https://register.extension.uga.edu](https://register.extension.uga.edu)
- - date_published: 2024-05-07T21:11:55.519588+00:00
-
- ## UGA Stratigraphy Lab
- - [http://strata.uga.edu](http://strata.uga.edu)
- - date_published: 2024-05-07T22:37:42.739618+00:00
-
- ## TinyUGA - link shortener for University of Georgia websites
- - [https://t.uga.edu](https://t.uga.edu)
- - date_published: 2023-11-07T14:54:18.985053+00:00
-
- ## Home - University of Georgia College of Veterinary Medicine
- - [https://vet.uga.edu](https://vet.uga.edu)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## UGA Admissions
- - [https://www.admissions.uga.edu](https://www.admissions.uga.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## College of Agricultural & Environmental Sciences | University of Georgia
- - [https://www.caes.uga.edu](https://www.caes.uga.edu)
- - date_published: 2024-05-07T21:12:19.491625+00:00
-
- ## UGA
- - [https://www.uga.edu](https://www.uga.edu)
- - date_published: 2024-05-07T21:11:43.033100+00:00
-
- ## AccessUH
- - [https://accessuh.uh.edu](https://accessuh.uh.edu)
- - date_published: 2024-05-07T21:13:08.310845+00:00
-
- ## UH ALERT Emergency Notification System - University of Houston
- - [https://alerts.uh.edu](https://alerts.uh.edu)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## The Engines of Our Ingenuity
- - [https://engines.egr.uh.edu](https://engines.egr.uh.edu)
- - date_published: 2024-03-08T09:51:49.224941+00:00
- - tags: ['personal']
-
- ## Home - UH Health - Eye Care
- - [https://eyecare.opt.uh.edu](https://eyecare.opt.uh.edu)
- - date_published: 2021-09-02T00:00:00+00:00
-
- ## Gethelp
- - [https://gethelp.uh.edu](https://gethelp.uh.edu)
- - date_published: 2024-05-07T21:13:24.840125+00:00
-
- ## University of Houston Advancement and Alumni
- - [https://giveto.uh.edu](https://giveto.uh.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## University of Houston Advancement and Alumni
- - [https://giving.uh.edu](https://giving.uh.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## University of Houston Libraries
- - [https://libraries.uh.edu](https://libraries.uh.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## University of Houston - Acalog ACMS™
- - [https://publications.uh.edu](https://publications.uh.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## UH Division of Research
- - [https://research.uh.edu](https://research.uh.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Stories - University of Houston
- - [https://stories.uh.edu](https://stories.uh.edu)
- - date_published: 2023-10-25T19:01:29.577878+00:00
-
- ## University of Houston
- - [https://uh.edu](https://uh.edu)
- - date_published: 2023-10-25T19:01:32.158915+00:00
- - tags: ['university']
-
- ## C. T. Bauer College of Business at the University of Houston
- - [https://www.bauer.uh.edu](https://www.bauer.uh.edu)
- - date_published: 2024-05-07T21:13:32.114097+00:00
-
- ## University of Houston Cullen College of Engineering
- - [https://www.egr.uh.edu](https://www.egr.uh.edu)
- - date_published: 2024-05-07T21:14:10.247343+00:00
-
- ## University of Houston Law Center  – A nationally ranked Texas law school – Houston, Texas
- - [https://www.law.uh.edu](https://www.law.uh.edu)
- - date_published: 2024-05-07T21:13:45.017129+00:00
-
- ## Home - College of Optometry
- - [https://www.opt.uh.edu](https://www.opt.uh.edu)
- - date_published: 2010-12-14T00:00:00+00:00
-
- ## University of Houston
- - [https://www.uh.edu](https://www.uh.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## University of Houston - University of Houston System
- - [https://uhsystem.edu](https://uhsystem.edu)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## University of Houston - University of Houston System
- - [https://www.uhsystem.edu](https://www.uhsystem.edu)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## College of Applied Health Sciences | University of Illinois at Chicago
- - [https://ahs.uic.edu](https://ahs.uic.edu)
- - date_published: 2024-05-04T12:30:31.024816+00:00
-
- ## University of Illinois Chicago < University of Illinois Chicago
- - [https://catalog.uic.edu](https://catalog.uic.edu)
- - date_published: 2024-05-07T21:14:42.882549+00:00
-
- ## Disability Resources | University of Illinois Chicago
- - [http://disabilityresources.uic.edu](http://disabilityresources.uic.edu)
- - date_published: 2024-05-07T21:15:07.158529+00:00
-
- ## Office of the Dean of Students | University of Illinois Chicago
- - [http://dos.uic.edu](http://dos.uic.edu)
- - date_published: 2024-05-07T21:14:46.387096+00:00
-
- ## Emergency Communications
- - [http://emergency.uic.edu](http://emergency.uic.edu)
- - date_published: 2024-05-07T21:15:02.826770+00:00
-
- ## Events | UIC today
- - [http://events.uic.edu](http://events.uic.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## University Library | University of Illinois Chicago
- - [http://library.uic.edu](http://library.uic.edu)
- - date_published: 2024-05-07T21:14:41.570523+00:00
-
- ## Campus Map | University of Illinois at Chicago
- - [http://maps.uic.edu](http://maps.uic.edu)
- - date_published: 2024-05-07T21:15:09.937582+00:00
 

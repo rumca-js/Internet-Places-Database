@@ -1,3 +1,129 @@
+ ## Improve bad code - Become a better developer
+ - [https://www.improvebadcode.com](https://www.improvebadcode.com)
+ - date_published: 2020-01-26T00:00:00+00:00
+
+ ## Improv Everywhere
+ - [http://www.improveverywhere.com](http://www.improveverywhere.com)
+ - date_published: 2024-05-14T03:19:25.410189+00:00
+
+ ## Improv, Texas - Where Comedy Begins
+ - [https://improvtx.com](https://improvtx.com)
+ - date_published: 2024-04-28T06:07:13.012274+00:00
+
+ ## Projects
+ - [https://www.improwis.com](https://www.improwis.com)
+ - date_published: 2024-01-09T02:39:39.088600+00:00
+
+ ## ImpulseAdventure - Digital Photography, Robotics, Weight Training, Freediving
+ - [http://www.impulseadventure.com](http://www.impulseadventure.com)
+ - date_published: 2024-05-04T13:45:22.643308+00:00
+
+ ## Impulse: Battery-Integrated Home Appliances
+ - [https://www.impulselabs.com](https://www.impulselabs.com)
+ - date_published: 2024-01-08T15:10:34.694357+00:00
+
+ ## Things I've written over the years
+ - [https://imrannazar.com](https://imrannazar.com)
+ - date_published: 2024-05-11T10:20:34.442923+00:00
+ - tags: ['emulation', 'personal']
+
+ ## Media Analytics and the IMS Report
+ - [http://www.imsreport.com](http://www.imsreport.com)
+ - date_published: 2024-05-07T11:12:59.848295+00:00
+
+ ## Home Page - Iowa Mold Tooling Co., Inc.
+ - [https://www.imt.com](https://www.imt.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Home - imtothrive.com
+ - [https://imtothrive.com](https://imtothrive.com)
+ - date_published: 2023-11-27T16:50:58.342063+00:00
+ - tags: ['personal']
+
+ ## IMV Europe | Imaging and Machine Vision Europe
+ - [https://www.imveurope.com](https://www.imveurope.com)
+ - date_published: 2024-04-29T02:29:18.791059+00:00
+
+ ## iMyFone® | Offers Solutions to iOS/Android Devices, Windows PC, and Mac.
+ - [https://www.imyfone.com](https://www.imyfone.com)
+ - date_published: 2024-05-06T14:16:42.485562+00:00
+
+ ## Inicio
+ - [https://imzaldih.com](https://imzaldih.com)
+ - date_published: 2024-05-08T09:01:07.035376+00:00
+
+ ## U.S. Inflation Calculator: 1635→2024, Department of Labor data
+ - [https://www.in2013dollars.com](https://www.in2013dollars.com)
+ - date_published: 2024-05-08T11:02:20.079817+00:00
+
+ - [https://news.i-n24.com](https://news.i-n24.com)
+ - date_published: 2024-01-09T02:38:35.926850+00:00
+
+ ## Prototype Making Company China, 3d Printing Prototype Service
+ - [https://www.in3dtec.com](https://www.in3dtec.com)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Logistics and Supply Chain Articles, News, Tools, and Resources - Inbound Logistics
+ - [https://www.inboundlogistics.com](https://www.inboundlogistics.com)
+ - date_published: 2024-02-24T10:09:32.873579+00:00
+
+ ## Inbox Collective | Together, let's make better newsletters.
+ - [https://inboxcollective.com](https://inboxcollective.com)
+ - date_published: 2024-05-08T05:03:29.694281+00:00
+
+ ## InboxFirst
+ - [http://if.inboxfirst.com](http://if.inboxfirst.com)
+ - date_published: 2024-05-06T14:35:15.952565+00:00
+
+ ## Show HN: I made a Chrome extension to clean up your Gmail inbox locally
+ - [https://www.inboxpurge.com](https://www.inboxpurge.com)
+ - date_published: 2024-05-15T14:33:32+00:00
+ - tags: ['browser extension']
+
+ ## Everything You Need to Know to Start and Grow Your Business
+ - [https://img-cdn.inc.com](https://img-cdn.inc.com)
+ - date_published: 2024-05-04T05:44:45.149262+00:00
+
+ ## Everything You Need to Know to Start and Grow Your Business
+ - [https://inc.com](https://inc.com)
+ - date_published: 2024-05-04T11:42:50.332318+00:00
+
+ ## inc.com
+ - [https://www.inc.com](https://www.inc.com)
+ - date_published: 2023-10-25T15:18:17.265068+00:00
+
+ - [https://inc42.com](https://inc42.com)
+ - date_published: 2024-04-07T20:29:06.501796+00:00
+
+ ## InCaptions: Search in YouTube Captions (Subtitles)
+ - [https://incaptions.com](https://incaptions.com)
+ - date_published: 2023-10-25T09:07:22.960705+00:00
+
+ ## inchword : translation tools to help people translate books
+ - [https://inchword.com](https://inchword.com)
+ - date_published: 2024-05-26T23:41:08.007337+00:00
+
+ ## Incisive Media - Award-Winning B2B Digital Media and Events Business
+ - [https://assets.incisivemedia.com](https://assets.incisivemedia.com)
+ - date_published: 2024-05-08T03:59:33.127420+00:00
+
+ ## Incisive Media - Award-Winning B2B Digital Media and Events Business
+ - [https://www.incisivemedia.com](https://www.incisivemedia.com)
+ - date_published: 2024-05-08T03:58:59.836737+00:00
+
+ ## Group Purchasing for Senior Living – Incite Strategic Partners
+ - [https://incitesp.com](https://incitesp.com)
+ - date_published: 2024-04-14T00:00:00+00:00
+
+ ## LinkStack
+ - [https://links.inclusiveladyship.com](https://links.inclusiveladyship.com)
+ - date_published: 2024-04-29T02:16:54.916695+00:00
+
+ ## Incogni - Personal Information Removal Service
+ - [https://incogni.com](https://incogni.com)
+ - date_published: 2024-02-24T09:55:40.214636+00:00
+ - tags: ['personal information removal service']
+
  ## incolumitas.com
  - [https://incolumitas.com](https://incolumitas.com)
  - date_published: 2023-10-25T15:18:18.546695+00:00
@@ -404,6 +530,10 @@
  ## Industry Idle
  - [https://industryidle.com](https://industryidle.com)
  - date_published: 2024-04-28T05:58:49.138828+00:00
+
+ ## INDUSTRY of Us
+ - [https://www.industryofus.com](https://www.industryofus.com)
+ - date_published: 2024-05-23T00:00:00+00:00
 
  ## Home | IndustryWeek
  - [https://www.industryweek.com](https://www.industryweek.com)
@@ -2025,6 +2155,10 @@
  ## The TurboTax Blog | It's all about the refund
  - [https://blog.turbotax.intuit.com](https://blog.turbotax.intuit.com)
  - date_published: 2024-04-16T00:00:00+00:00
+
+ ## The Dub - Intuit's Design Hub
+ - [https://design.intuit.com](https://design.intuit.com)
+ - date_published: 2024-02-28T00:00:00+00:00
 
  ## Intuit®: Complete Financial Confidence
  - [https://intuit.com](https://intuit.com)
@@ -3976,145 +4110,4 @@
  ## James Watling - Founding CTO at EarlyDay
  - [https://jameswatling.com](https://jameswatling.com)
  - date_published: 2024-05-12T05:23:28.496975+00:00
-
- ## James Watling - Founding CTO at EarlyDay
- - [https://www.jameswatling.com](https://www.jameswatling.com)
- - date_published: 2024-04-03T06:22:46.679520+00:00
- - tags: ['personal']
-
- ## James Webb Discovery
- - [https://www.jameswebbdiscovery.com](https://www.jameswebbdiscovery.com)
- - date_published: 2023-10-25T15:26:43.819893+00:00
-
- ## jameswwhite.com
- - [https://jameswwhite.com](https://jameswwhite.com)
- - date_published: 2024-01-16T23:47:32.314421+00:00
-
- ## Machine learning | James Zou | Stanford
- - [https://james-zou.com](https://james-zou.com)
- - date_published: 2024-05-07T20:26:59.217816+00:00
-
- ## Machine learning | James Zou | Stanford
- - [https://www.james-zou.com](https://www.james-zou.com)
- - date_published: 2024-05-07T20:26:53.205226+00:00
-
- ## Jamf Apple Device Management. Mac iPad iPhone TV Apple MDM
- - [https://www.jamf.com](https://www.jamf.com)
- - date_published: 2024-05-08T11:00:46.560254+00:00
-
- ## Jamie Christopherson | Film TV Game Composer
- - [https://www.jamiechristopherson.com](https://www.jamiechristopherson.com)
- - date_published: 2024-05-13T09:28:10.431322+00:00
- - tags: ['personal']
-
- ## Personal website | Jamie McHale
- - [https://jamiemchale.com](https://jamiemchale.com)
- - date_published: 2024-01-24T19:38:04.060312+00:00
-
- ## New Home | Marketing and Technology for Coaches, Consultants and Experts | Jamie McKean
- - [https://jamiemckean.com](https://jamiemckean.com)
- - date_published: 2023-11-29T15:46:24.695168+00:00
- - tags: ['personal']
-
- ## HOME | jamie-notarthomas
- - [https://www.jamienotarthomas.com](https://www.jamienotarthomas.com)
- - date_published: 2024-02-08T22:24:29.890187+00:00
-
- ## Jamie Oliver | Official website for recipes, books, tv shows and restaurants
- - [https://www.jamieoliver.com](https://www.jamieoliver.com)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## Jamie Oliver Cookery School | Cooking Classes in London
- - [https://jamieolivercookeryschool.com](https://jamieolivercookeryschool.com)
- - date_published: 2024-05-11T10:53:30.644749+00:00
-
- ## Jamie Oliver Cookery School | Cooking Classes in London
- - [https://www.jamieolivercookeryschool.com](https://www.jamieolivercookeryschool.com)
- - date_published: 2024-05-11T10:53:27.226640+00:00
-
- ## The Jamie Oliver Group - media, restaurants & products
- - [https://www.jamieolivergroup.com](https://www.jamieolivergroup.com)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Jamie's Ministry of Food
- - [https://www.jamiesministryoffood.com](https://www.jamiesministryoffood.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Zero Wind :: Jamie Wong
- - [https://jamie-wong.com](https://jamie-wong.com)
- - date_published: 2020-09-14T00:00:00+00:00
-
- ## Jamiroquai | Official Website
- - [https://www.jamiroquai.com](https://www.jamiroquai.com)
- - date_published: 2023-11-13T10:36:27.517504+00:00
- - tags: ['music band']
-
- ## Jamon Holmgren's Personal Website
- - [https://jamonholmgren.com](https://jamonholmgren.com)
- - date_published: 2023-11-29T19:26:51.788492+00:00
- - tags: ['personal']
-
- ## Jampack: Event Tickets, Hotel Packages for Music Festivals & More
- - [https://www.jampack.com](https://www.jampack.com)
- - date_published: 2024-05-04T14:11:30.345085+00:00
-
- ## JAMS: Mediation, Arbitration and ADR Services
- - [https://www.jamsadr.com](https://www.jamsadr.com)
- - date_published: 2024-05-11T08:49:27.080752+00:00
-
- ## Jamsheed Master
- - [https://jamsheedmaster.com](https://jamsheedmaster.com)
- - date_published: 2008-01-01T00:00:00+00:00
- - tags: ['personal']
-
- ## Jamsocket
- - [https://jamsocket.com](https://jamsocket.com)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## JAMstack_conf
- - [https://2018.jamstackconf.com](https://2018.jamstackconf.com)
- - date_published: 2024-05-06T13:05:07.626060+00:00
-
- ## Jamstack Conf
- - [https://jamstackconf.com](https://jamstackconf.com)
- - date_published: 2024-05-06T13:20:12.541499+00:00
- - tags: ['conference']
-
- ## Jamstik | MIDI Guitar Technology, Software and Apps
- - [https://jamstik.com](https://jamstik.com)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Homepage
- - [https://janakiev.com](https://janakiev.com)
- - date_published: 2024-05-11T10:04:07.125089+00:00
-
- ## Urubu
- - [http://urubu.jandecaluwe.com](http://urubu.jandecaluwe.com)
- - date_published: 2024-05-06T14:15:32.511301+00:00
-
- ## Book Online at Local Health & Corporate Wellness
- - [https://localhealth.janeapp.com](https://localhealth.janeapp.com)
- - date_published: 2024-05-01T04:32:32.387771+00:00
-
- ## Jane Friedman | Reporting on the Publishing Industry
- - [https://janefriedman.com](https://janefriedman.com)
- - date_published: 2023-10-25T15:26:46.348517+00:00
-
- ## Janelle Holden
- - [https://www.janelleholden.com](https://www.janelleholden.com)
- - date_published: 2024-01-04T22:43:13.537350+00:00
-
- ## Janelle Shane
- - [https://janelleshane.com](https://janelleshane.com)
- - date_published: 2024-05-01T02:55:25.258134+00:00
- - tags: ['personal']
-
- ## Janelle Shane
- - [https://www.janelleshane.com](https://www.janelleshane.com)
- - date_published: 2024-05-01T02:55:23.750550+00:00
-
- ## Janell Sihay
- - [https://janellsihay.com](https://janellsihay.com)
- - date_published: 2023-10-25T09:20:42.428341+00:00
- - tags: ['personal']
 

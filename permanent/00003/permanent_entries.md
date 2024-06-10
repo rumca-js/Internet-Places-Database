@@ -1,3 +1,23 @@
+ ## Banco Central do Brasil
+ - [https://www.bcb.gov.br](https://www.bcb.gov.br)
+ - date_published: 2024-05-12T04:09:19.217035+00:00
+
+ ## CAPES
+ - [http://www.capes.gov.br](http://www.capes.gov.br)
+ - date_published: 2024-05-11T08:09:05.282834+00:00
+
+ ## Fala.BR - Plataforma Integrada de Ouvidoria e Acesso à Informação
+ - [https://falabr.cgu.gov.br](https://falabr.cgu.gov.br)
+ - date_published: 2024-05-10T03:45:31.683367+00:00
+
+ ## Painel de Compras
+ - [http://paineldecompras.economia.gov.br](http://paineldecompras.economia.gov.br)
+ - date_published: 2024-05-10T03:46:31.262882+00:00
+
+ ## Finep - Início
+ - [http://www.finep.gov.br](http://www.finep.gov.br)
+ - date_published: 2024-05-11T08:08:50.663796+00:00
+
  ## API RecomGov
  - [https://api.recomgov.df-1.estaleiro.serpro.gov.br](https://api.recomgov.df-1.estaleiro.serpro.gov.br)
  - date_published: 2024-05-10T03:45:28.970230+00:00
@@ -1369,6 +1389,10 @@
  - [http://www.harbeck.ca](http://www.harbeck.ca)
  - date_published: 2024-04-29T03:19:13.991943+00:00
 
+ ## Home Page | Hart House
+ - [https://harthouse.ca](https://harthouse.ca)
+ - date_published: 2024-06-08T00:00:00+00:00
+
  ## Healthing.ca
  - [https://www.healthing.ca](https://www.healthing.ca)
  - date_published: 2024-05-06T21:31:11.747212+00:00
@@ -2458,6 +2482,11 @@
  - [https://shopico.ca](https://shopico.ca)
  - date_published: 2024-05-10T02:40:56.514738+00:00
 
+ ## Showboard
+ - [https://showboard.ca](https://showboard.ca)
+ - date_published: 2024-06-09T19:19:33+00:00
+ - tags: ['bookmark manager']
+
  ## Home
  - [https://simonandrews.ca](https://simonandrews.ca)
  - date_published: 2000-01-01T00:00:00+00:00
@@ -3249,6 +3278,10 @@
  - [https://jobs.utoronto.ca](https://jobs.utoronto.ca)
  - date_published: 1999-01-01T00:00:00+00:00
 
+ ## Home | UofT - Faculty of Kinesiology & Physical Education
+ - [https://kpe.utoronto.ca](https://kpe.utoronto.ca)
+ - date_published: 2024-06-09T00:56:08.459806+00:00
+
  ## School of Continuing Studies - University of Toronto
  - [https://learn.utoronto.ca](https://learn.utoronto.ca)
  - date_published: 2024-04-30T05:30:52.828597+00:00
@@ -3340,6 +3373,10 @@
  ## Media Room & Blue Book – University of Toronto
  - [http://www.bluebook.utoronto.ca](http://www.bluebook.utoronto.ca)
  - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Dalla Lana School of Public Health
+ - [https://www.dlsph.utoronto.ca](https://www.dlsph.utoronto.ca)
+ - date_published: 2024-06-09T00:56:10.915327+00:00
 
  ## Home - Dunlap Institute
  - [https://www.dunlap.utoronto.ca](https://www.dunlap.utoronto.ca)
@@ -3577,6 +3614,10 @@
  - [http://support.wpcloud.ca](http://support.wpcloud.ca)
  - date_published: 2024-04-02T00:00:00+00:00
 
+ ## Analytics by WP Expert
+ - [https://stats.wpexpert.ca](https://stats.wpexpert.ca)
+ - date_published: 2024-05-30T00:00:00+00:00
+
  ## Your #1 WordPress Expert in Canada | WP Expert
  - [https://wpexpert.ca](https://wpexpert.ca)
  - date_published: 2024-01-13T18:26:09.369871+00:00
@@ -3762,6 +3803,10 @@
  ## Home - Travel.gc.ca
  - [https://travel.gc.ca](https://travel.gc.ca)
  - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Language selection - Vanier Canada Graduate Scholarships  / Sélection de la langue - Bourses d'études supérieures du Canada Vanier
+ - [https://vanier.gc.ca](https://vanier.gc.ca)
+ - date_published: 2024-06-09T01:06:28.920656+00:00
 
  ## Manitoba Child Care Search - Government of Manitoba
  - [https://childcaresearch.gov.mb.ca](https://childcaresearch.gov.mb.ca)
@@ -4049,48 +4094,4 @@
  ## Radiant
  - [https://radiant.capital](https://radiant.capital)
  - date_published: 2024-05-01T05:40:18.482056+00:00
-
- ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://shl.capital](https://shl.capital)
- - date_published: 2024-04-29T00:29:38.924014+00:00
-
- ## CS Cards
- - [https://cs.cards](https://cs.cards)
- - date_published: 2024-04-30T05:35:19.508107+00:00
-
- ## CS Cards
- - [https://www.cs.cards](https://www.cs.cards)
- - date_published: 2023-10-25T12:10:03.681440+00:00
-
- ## DO NOT REPLY STICKERS
- - [https://buy.donotreply.cards](https://buy.donotreply.cards)
- - date_published: 2024-05-09T04:36:18.934508+00:00
-
- ## DONOTREPLY.CARDS->EN
- - [https://donotreply.cards](https://donotreply.cards)
- - date_published: 2024-03-02T00:00:00+00:00
-
- ## Facilitator Cards: A Deck for You, Not Your Participants
- - [https://www.facilitator.cards](https://www.facilitator.cards)
- - date_published: 2024-04-29T01:48:25.683541+00:00
-
- ## Deck of Cards
- - [https://deck.of.cards](https://deck.of.cards)
- - date_published: 2023-10-25T12:10:08.746785+00:00
-
- ## The Compendium
- - [https://thecompendium.cards](https://thecompendium.cards)
- - date_published: 2024-05-04T09:56:36.471526+00:00
-
- ## Health Labs Care
- - [https://www.healthlabs.care](https://www.healthlabs.care)
- - date_published: 1920-01-01T00:00:00+00:00
-
- ## Shimmer
- - [https://app.shimmer.care](https://app.shimmer.care)
- - date_published: 2024-04-30T05:35:20.495645+00:00
-
- ## Shimmer | ADHD Coaching That Fit Into Your Life | Expert & Affordable
- - [https://www.shimmer.care](https://www.shimmer.care)
- - date_published: 2023-10-25T12:10:12.016239+00:00
 

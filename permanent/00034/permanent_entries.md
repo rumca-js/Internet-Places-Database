@@ -1,3 +1,163 @@
+ ## Maven Securities - Advanced Trading & Technology
+ - [https://www.mavensecurities.com](https://www.mavensecurities.com)
+ - date_published: 2024-05-14T04:00:37.048353+00:00
+
+ ## California water news
+ - [http://mavensnotebook.com](http://mavensnotebook.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Maverick Servers and Gaming
+ - [http://www.maverickservers.com](http://www.maverickservers.com)
+ - date_published: 2024-06-06T11:48:20.809045+00:00
+
+ ## DJI Mavic Accessories & Tips | Mavic Help
+ - [https://www.mavichelp.com](https://www.mavichelp.com)
+ - date_published: 2024-05-04T06:26:23.407413+00:00
+
+ ## a Dallas Mavericks community
+ - [http://www.mavsmoneyball.com](http://www.mavsmoneyball.com)
+ - date_published: 2024-04-29T02:15:04.080892+00:00
+
+ ## Availability | Max
+ - [https://help.max.com](https://help.max.com)
+ - date_published: 2024-05-04T14:44:04.826278+00:00
+
+ ## Max | The One to Watch
+ - [https://play.max.com](https://play.max.com)
+ - date_published: 2024-05-04T14:43:53.381852+00:00
+
+ ## Availability | Max
+ - [https://www.max.com](https://www.max.com)
+ - date_published: 2023-10-24T20:05:43.408291+00:00
+ - tags: ['video streaming']
+
+ ## Maxar Intelligence & Maxar Space Systems
+ - [https://www.maxar.com](https://www.maxar.com)
+ - date_published: 2024-05-22T02:38:26.237060+00:00
+
+ ## Max Barry
+ - [https://maxbarry.com](https://maxbarry.com)
+ - date_published: 1973-01-01T00:00:00+00:00
+
+ - [https://oss.maxcdn.com](https://oss.maxcdn.com)
+ - date_published: 2023-12-11T16:36:15.248509+00:00
+
+ ## twemoji CDN by jsDelivr - A free, fast, and reliable Open Source CDN
+ - [https://twemoji.maxcdn.com](https://twemoji.maxcdn.com)
+ - date_published: 2024-04-29T07:19:34.822340+00:00
+
+ ## Blog Archives
+ - [https://www.maxcdn.com](https://www.maxcdn.com)
+ - date_published: 2024-05-01T06:04:22.234173+00:00
+
+ ## Max Countryman - People first leader, technologist, and indie hacker
+ - [https://www.maxcountryman.com](https://www.maxcountryman.com)
+ - date_published: 2023-10-25T15:58:43.515740+00:00
+
+ ## Home ·
+      maxdeviant.com
+ - [https://maxdeviant.com](https://maxdeviant.com)
+ - date_published: 2024-05-11T10:20:44.018937+00:00
+
+ ## Maxime Heckel's Blog
+ - [https://blog.maximeheckel.com](https://blog.maximeheckel.com)
+ - date_published: 2023-10-31T16:58:23.142701+00:00
+
+ ## Maxime Heckel | Personal Portfolio
+ - [https://maximeheckel.com](https://maximeheckel.com)
+ - date_published: 2024-05-04T14:44:46.821269+00:00
+
+ ## Maxime le Grelle
+ - [https://www.maximelegrelle.com](https://www.maximelegrelle.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Accueil | MAXMETAL
+ - [https://www.maximetal.com](https://www.maximetal.com)
+ - date_published: 2024-05-12T07:28:12.957564+00:00
+
+ ## Maxime Terrée est en cours de construction
+ - [https://maximeterree.com](https://maximeterree.com)
+ - date_published: 2024-05-09T08:16:13.706618+00:00
+
+ ## Maximiles - Rejoignez-nous maintenant !
+ - [https://www.maximiles.com](https://www.maximiles.com)
+ - date_published: 2024-05-06T17:57:27.910978+00:00
+
+ ## Maximilian Golla
+ - [https://maximiliangolla.com](https://maximiliangolla.com)
+ - date_published: 2023-10-25T15:58:56.149767+00:00
+
+ ## Maximize Market Research Pvt Ltd
+ - [https://www.maximizemarketresearch.com](https://www.maximizemarketresearch.com)
+ - date_published: 2024-04-28T02:16:04.070649+00:00
+
+ ## Maxim Massenkoff | Homepage
+ - [https://maximmassenkoff.com](https://maximmassenkoff.com)
+ - date_published: 2023-10-25T15:58:57.718905+00:00
+
+ ## Maxim Siebert — Designer + Developer
+ - [https://maximsiebert.com](https://maximsiebert.com)
+ - date_published: 2024-05-09T06:17:41.316473+00:00
+
+ ## Volodymyr Gubarkov
+ - [https://maximullaris.com](https://maximullaris.com)
+ - date_published: 2024-03-01T08:15:42.288361+00:00
+ - tags: ['devlog', 'personal']
+
+ ## Watch Maximum Effort Channel on Fubo | Maximum Effort Channel
+ - [https://www.maximumeffortchannel.com](https://www.maximumeffortchannel.com)
+ - date_published: 2023-11-28T21:01:12+00:00
+ - tags: ['video streaming']
+
+ ## Maximum New York | Daniel Golliher | Substack
+ - [https://www.maximumnewyork.com](https://www.maximumnewyork.com)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## Maximum Progress | Maxwell Tabarrok | Substack
+ - [https://www.maximum-progress.com](https://www.maximum-progress.com)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Maximum Settings – Dedicated Game Streaming
+ - [https://login.maximumsettings.com](https://login.maximumsettings.com)
+ - date_published: 2024-05-04T14:45:49.906129+00:00
+
+ ## Maximum Settings Cloud Gaming – Dedicated PC Cloud Game Streaming
+ - [https://maximumsettings.com](https://maximumsettings.com)
+ - date_published: 2024-01-29T21:12:04.442203+00:00
+
+ ## Maximum Settings – Dedicated Game Streaming
+ - [https://orders.maximumsettings.com](https://orders.maximumsettings.com)
+ - date_published: 2024-05-04T14:45:46.651697+00:00
+
+ ## MaximumSettings
+ - [https://support.maximumsettings.com](https://support.maximumsettings.com)
+ - date_published: 2024-05-04T14:45:48.559596+00:00
+
+ ## Moving people forward | Maximus
+ - [https://maximus.com](https://maximus.com)
+ - date_published: 2024-05-12T04:39:53.223372+00:00
+
+ ## Simple Analytics
+ - [https://ape.maximzubarev.com](https://ape.maximzubarev.com)
+ - date_published: 2024-05-04T14:45:52.381563+00:00
+
+ ## Maxim Zubarev
+ - [https://maximzubarev.com](https://maximzubarev.com)
+ - date_published: 2024-01-06T17:58:20.079646+00:00
+
+ ## Maxinomics
+ - [https://maxinomics.com](https://maxinomics.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Maxinomics
+ - [https://www.maxinomics.com](https://www.maxinomics.com)
+ - date_published: 2023-10-25T15:58:59.765746+00:00
+
+ ## Dive down the rabbit hole of Max Keiser’s mind
+ - [http://maxkeiser.com](http://maxkeiser.com)
+ - date_published: 2024-05-07T18:52:57.551630+00:00
+ - tags: ['book']
+
  ## Drift
  - [https://drift.maxleiter.com](https://drift.maxleiter.com)
  - date_published: 2024-05-04T14:46:30.340275+00:00
@@ -927,6 +1087,10 @@
  - [https://andrew-s-klug.medium.com](https://andrew-s-klug.medium.com)
  - date_published: 2024-05-12T04:25:44.389605+00:00
 
+ ## Andy Bhattacharyya – Medium
+ - [https://andyuxpro.medium.com](https://andyuxpro.medium.com)
+ - date_published: 2024-06-09T17:06:50.116981+00:00
+
  ## Andy Walker – Medium
  - [https://andzwa.medium.com](https://andzwa.medium.com)
  - date_published: 2023-10-25T10:18:41.766784+00:00
@@ -934,6 +1098,10 @@
  ## Angus Montgomery – Medium
  - [https://angusmontgomery.medium.com](https://angusmontgomery.medium.com)
  - date_published: 2024-04-30T06:28:08.905281+00:00
+
+ ## Anna – Medium
+ - [https://anipasce.medium.com](https://anipasce.medium.com)
+ - date_published: 2024-06-09T17:28:18.049962+00:00
 
  ## Antti Havanko – Medium
  - [https://anttihavanko.medium.com](https://anttihavanko.medium.com)
@@ -1571,6 +1739,10 @@
  ## Josh Ephraim – Medium
  - [https://joshephraim.medium.com](https://joshephraim.medium.com)
  - date_published: 2024-05-06T14:15:51.608901+00:00
+
+ ## Joshua Tauberer – Medium
+ - [https://joshuatauberer.medium.com](https://joshuatauberer.medium.com)
+ - date_published: 2024-06-09T07:26:42.821803+00:00
 
  ## Jarrod Overson – Medium
  - [https://jsoverson.medium.com](https://jsoverson.medium.com)
@@ -3933,175 +4105,4 @@
  ## Micro Focus is now OpenText
  - [https://www.microfocus.com](https://www.microfocus.com)
  - date_published: 2023-10-25T16:03:01.109438+00:00
-
- ## Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
- - [https://microjs.com](https://microjs.com)
- - date_published: 2024-01-09T02:43:52.181231+00:00
-
- ## Microkhan by Brendan I. Koerner
- - [https://microkhan.com](https://microkhan.com)
- - date_published: 2024-02-08T21:16:04.718097+00:00
- - tags: ['personal']
-
- ## MicroLED-Info | The Micro-LED Experts
- - [https://www.microled-info.com](https://www.microled-info.com)
- - date_published: 2024-05-04T09:33:13.274629+00:00
-
- ## MicroMac Technology's Home Page for Macintosh Upgrades and Accelerators
- - [https://www.micromac.com](https://www.micromac.com)
- - date_published: 2023-12-02T08:30:30.624398+00:00
-
- ## Home - Micromat
- - [https://www.micromat.com](https://www.micromat.com)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## MicroMiga – Boutique Amiga et Commodore
- - [https://www.micromiga.com](https://www.micromiga.com)
- - date_published: 2024-05-07T10:27:10.834638+00:00
-
- ## Micron Technology | Global Leaders in Semiconductors
- - [https://www.micron.com](https://www.micron.com)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Microphone Test: Online mic test
- - [https://www.microphonetest.com](https://www.microphonetest.com)
- - date_published: 2024-05-11T07:04:41.012511+00:00
-
- ## MicroProse | The name of the game in strategy and simulation
- - [https://www.microprose.com](https://www.microprose.com)
- - date_published: 2023-11-06T10:58:40.981934+00:00
- - tags: ['video game developer', 'amiga']
-
- ## Micro SaaS HQ
- - [https://microsaashq.com](https://microsaashq.com)
- - date_published: 2023-10-25T16:03:04.818064+00:00
-
- ## End-to-End Digital Marketing Solutions for Advertisers - Microsoft Advertising
- - [https://about.ads.microsoft.com](https://about.ads.microsoft.com)
- - date_published: 2024-05-06T17:41:43.760524+00:00
-
- ## Microsoft – chmura, komputery, aplikacje i gry
- - [https://academic.microsoft.com](https://academic.microsoft.com)
- - date_published: 2024-05-08T12:02:00.290456+00:00
-
- ## Microsoft account | Sign In or Create Your Account Today – Microsoft
- - [https://account.microsoft.com](https://account.microsoft.com)
- - date_published: 2024-04-29T04:05:21.996416+00:00
-
- ## Sign in to your account
- - [https://admin.exchange.microsoft.com](https://admin.exchange.microsoft.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Power Platform admin center
- - [https://admin.powerplatform.microsoft.com](https://admin.powerplatform.microsoft.com)
- - date_published: 2024-05-07T09:12:44.137692+00:00
-
- ## Microsoft Ajax Content Delivery Network Assets
- - [https://ajax.microsoft.com](https://ajax.microsoft.com)
- - date_published: 2024-03-02T00:00:00+00:00
-
- ## Redirecting
- - [https://answers.microsoft.com](https://answers.microsoft.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Microsoft Apps
- - [https://apps.microsoft.com](https://apps.microsoft.com)
- - date_published: 2023-10-25T13:36:42.240354+00:00
- - tags: ['app store']
-
- ## Find the right app | Microsoft AppSource
- - [https://appsource.microsoft.com](https://appsource.microsoft.com)
- - date_published: 2023-10-25T16:03:13.347631+00:00
-
- ## Microsoft Azure Marketplace
- - [https://azuremarketplace.microsoft.com](https://azuremarketplace.microsoft.com)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Cloud Computing Services | Microsoft Azure
- - [https://azure.microsoft.com](https://azure.microsoft.com)
- - date_published: 2023-10-25T16:03:25.472197+00:00
-
- ## Blog usługi Microsoft Fabric
- - [https://blog.fabric.microsoft.com](https://blog.fabric.microsoft.com)
- - date_published: 2023-10-25T09:34:04.976907+00:00
-
- ## The Official Microsoft Blog
- - [https://blogs.microsoft.com](https://blogs.microsoft.com)
- - date_published: 2023-10-25T09:34:08.525842+00:00
-
- ## Archived MSDN and TechNet Blogs
- - [https://blogs.msdn.microsoft.com](https://blogs.msdn.microsoft.com)
- - date_published: 2024-05-01T03:44:07.007173+00:00
-
- ## Archived MSDN and TechNet Blogs
- - [https://blogs.technet.microsoft.com](https://blogs.technet.microsoft.com)
- - date_published: 2024-05-11T11:33:38.486546+00:00
-
- ## Microsoft Build | May 21-23, 2024 | Seattle and Online
- - [https://build.microsoft.com](https://build.microsoft.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Microsoft Careers
- - [https://careers.microsoft.com](https://careers.microsoft.com)
- - date_published: 2024-04-28T02:27:15.800256+00:00
-
- ## Microsoft account | Privacy
- - [https://choice.microsoft.com](https://choice.microsoft.com)
- - date_published: 2024-04-28T02:26:31.382339+00:00
-
- ## Microsoft Clarity - Free Heatmaps & Session Recordings
- - [https://clarity.microsoft.com](https://clarity.microsoft.com)
- - date_published: 2024-05-06T08:59:04.538279+00:00
-
- ## Home - Cloud Perspectives Blog
- - [https://cloudblogs.microsoft.com](https://cloudblogs.microsoft.com)
- - date_published: 2023-10-25T09:34:15.781614+00:00
-
- ## Sign in to your account
- - [https://compliance.microsoft.com](https://compliance.microsoft.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Info
- - [https://connect.microsoft.com](https://connect.microsoft.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Microsoft Copilot: Your everyday AI companion
- - [https://copilot.microsoft.com](https://copilot.microsoft.com)
- - date_published: 2024-04-29T02:49:49.964886+00:00
-
- ## Microsoft Customer Stories
- - [https://customers.microsoft.com](https://customers.microsoft.com)
- - date_published: 2024-05-08T07:27:26.402375+00:00
-
- ## Microsoft Designer - Stunning designs in a flash
- - [https://designer.microsoft.com](https://designer.microsoft.com)
- - date_published: 2023-10-25T16:03:31.208056+00:00
-
- ## DevBlogs - Microsoft Developer Blogs
- - [https://devblogs.microsoft.com](https://devblogs.microsoft.com)
- - date_published: 2023-10-25T10:14:03.592606+00:00
-
- ## Microsoft Developer Community
- - [https://developercommunity.microsoft.com](https://developercommunity.microsoft.com)
- - date_published: 2024-05-08T07:27:28.574938+00:00
-
- ## Microsoft Developer
- - [https://developer.microsoft.com](https://developer.microsoft.com)
- - date_published: 2024-01-15T13:49:47.590358+00:00
-
- ## Microsoft Learn: Build skills that open doors in your career
- - [https://docs.microsoft.com](https://docs.microsoft.com)
- - date_published: 2023-10-25T11:30:47.045143+00:00
-
- ## .NET | Build. Test. Deploy.
- - [https://dotnet.microsoft.com](https://dotnet.microsoft.com)
- - date_published: 2024-04-30T02:31:00.357576+00:00
-
- ## Download Drivers & Updates for Microsoft, Windows and more - Microsoft Download Center
- - [http://download.microsoft.com](http://download.microsoft.com)
- - date_published: 2024-05-01T07:31:51.863543+00:00
-
- ## Business Applications | Microsoft Dynamics 365
- - [https://dynamics.microsoft.com](https://dynamics.microsoft.com)
- - date_published: 2024-04-28T02:27:06.759348+00:00
 

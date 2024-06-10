@@ -1,3 +1,12 @@
+ ## Thompson Organisations
+ - [https://www.thompsonorganisations.com.au](https://www.thompsonorganisations.com.au)
+ - date_published: 2023-12-28T22:26:11.353151+00:00
+ - tags: ['personal']
+
+ ## Tickets for Concerts, Sport, Arts, Theatre, Family, Events, more. Official Ticketmaster site
+ - [https://www.ticketmaster.com.au](https://www.ticketmaster.com.au)
+ - date_published: 2024-04-28T06:07:11.934578+00:00
+
  ## Traveller | Your Destination for Travel Inspiration
  - [https://www.traveller.com.au](https://www.traveller.com.au)
  - date_published: 2024-05-04T15:33:52.829336+00:00
@@ -3161,6 +3170,15 @@
  - date_published: 2023-12-17T05:07:12.878570+00:00
  - tags: ['personal']
 
+ ## Product Leaders
+ - [https://productleaders.blog](https://productleaders.blog)
+ - date_published: 2024-06-09T20:46:29+00:00
+ - tags: ['business']
+
+ ## Product Leaders
+ - [https://www.productleaders.blog](https://www.productleaders.blog)
+ - date_published: 2024-06-09T17:27:37.178746+00:00
+
  ## The Stream of Thought That Waters the Garden
  - [https://quantumgardener.blog](https://quantumgardener.blog)
  - date_published: 2023-11-29T14:25:56.871546+00:00
@@ -3736,6 +3754,10 @@ Educação
  - [https://www.digikey.com.br](https://www.digikey.com.br)
  - date_published: 2024-05-01T05:02:10.808018+00:00
 
+ ## Diogo Cortiz
+ - [https://diogocortiz.com.br](https://diogocortiz.com.br)
+ - date_published: 2024-06-09T17:27:41.530628+00:00
+
  ## Disney Brasil | O site oficial da Disney
  - [https://www.disney.com.br](https://www.disney.com.br)
  - date_published: 2024-04-29T00:00:00+00:00
@@ -4093,24 +4115,4 @@ Educação
  ## Portal Logado
  - [https://sso.acesso.gov.br](https://sso.acesso.gov.br)
  - date_published: 2024-05-10T03:45:56.569657+00:00
-
- ## Banco Central do Brasil
- - [https://www.bcb.gov.br](https://www.bcb.gov.br)
- - date_published: 2024-05-12T04:09:19.217035+00:00
-
- ## CAPES
- - [http://www.capes.gov.br](http://www.capes.gov.br)
- - date_published: 2024-05-11T08:09:05.282834+00:00
-
- ## Fala.BR - Plataforma Integrada de Ouvidoria e Acesso à Informação
- - [https://falabr.cgu.gov.br](https://falabr.cgu.gov.br)
- - date_published: 2024-05-10T03:45:31.683367+00:00
-
- ## Painel de Compras
- - [http://paineldecompras.economia.gov.br](http://paineldecompras.economia.gov.br)
- - date_published: 2024-05-10T03:46:31.262882+00:00
-
- ## Finep - Início
- - [http://www.finep.gov.br](http://www.finep.gov.br)
- - date_published: 2024-05-11T08:08:50.663796+00:00
 

@@ -1,3 +1,117 @@
+ ## Disk Inventory X
+ - [http://www.derlien.com](http://www.derlien.com)
+ - date_published: 2024-05-06T14:12:35.318319+00:00
+
+ ## Home
+ - [https://www.dermatologyadvisor.com](https://www.dermatologyadvisor.com)
+ - date_published: 2024-05-17T02:44:16.047628+00:00
+
+ ## One - Dermatology Times
+ - [https://one.dermatologytimes.com](https://one.dermatologytimes.com)
+ - date_published: 2024-05-09T05:39:49.522486+00:00
+
+ ## Dermatology Times and Multimedia Medical, LLC
+ - [https://www.dermatologytimes.com](https://www.dermatologytimes.com)
+ - date_published: 2024-03-06T21:11:40.002363+00:00
+
+ ## Daniel P. Dern, Freelance Writer | Tech Journalist, Custom/Sponsored, PR/"ghostwriting" — plus science fiction, humor & more!
+ - [https://dern.com](https://dern.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Derrick Reimer — Contemplations of an indie SaaS founder
+ - [https://derrickreimer.com](https://derrickreimer.com)
+ - date_published: 2024-05-06T13:42:47.166532+00:00
+ - tags: ['personal']
+
+ ## Derringer Wallet Pen
+ - [http://www.derringerpen.com](http://www.derringerpen.com)
+ - date_published: 2024-05-10T06:30:17.770815+00:00
+
+ ## imagesLoaded
+ - [http://imagesloaded.desandro.com](http://imagesloaded.desandro.com)
+ - date_published: 2024-05-08T09:06:51.326866+00:00
+
+ ## Masonry
+ - [https://masonry.desandro.com](https://masonry.desandro.com)
+ - date_published: 2024-05-02T11:09:02.235070+00:00
+
+ ## Descript | All-in-one video & podcast editing, easy as a doc.
+ - [https://descript.com](https://descript.com)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Descript | All-in-one video & podcast editing, easy as a doc.
+ - [https://share.descript.com](https://share.descript.com)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Descript | All-in-one video & podcast editing, easy as a doc.
+ - [https://www.descript.com](https://www.descript.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Deseret News
+ - [https://pages.deseret.com](https://pages.deseret.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Deseret News Marathon
+ - [https://run.deseret.com](https://run.deseret.com)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Utah High School Sports - Deseret News
+ - [https://sports.deseret.com](https://sports.deseret.com)
+ - date_published: 2024-05-01T04:47:42.956229+00:00
+
+ ## Deseret News
+ - [https://www.deseret.com](https://www.deseret.com)
+ - date_published: 2023-10-25T13:49:44.338672+00:00
+ - tags: ['utah news']
+
+ ## HOME | Deseret Digital
+ - [http://deseretdigital.com](http://deseretdigital.com)
+ - date_published: 2024-05-09T05:32:40.308419+00:00
+
+ ## HOME | Deseret Digital
+ - [https://www.deseretdigital.com](https://www.deseretdigital.com)
+ - date_published: 2024-05-09T05:32:41.414245+00:00
+
+ ## Deseret Management Corporation
+ - [http://deseretmediacompanies.com](http://deseretmediacompanies.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Arizona’s Best Local Credit Union | Desert Financial
+ - [https://www.desertfinancial.com](https://www.desertfinancial.com)
+ - date_published: 2024-05-01T06:12:52.683852+00:00
+
+ ## High Frequency Measurements Site Index
+ - [http://desertlabrat.com](http://desertlabrat.com)
+ - date_published: 2024-05-02T07:52:30.836573+00:00
+
+ ## Home
+ - [https://cm.desertsun.com](https://cm.desertsun.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Help Center - The Desert Sun
+ - [https://help.desertsun.com](https://help.desertsun.com)
+ - date_published: 2024-05-01T04:47:53.490499+00:00
+
+ ## Newsletters | The Desert Sun
+ - [https://profile.desertsun.com](https://profile.desertsun.com)
+ - date_published: 2024-05-01T04:47:52.040922+00:00
+
+ ## Home
+ - [https://www.desertsun.com](https://www.desertsun.com)
+ - date_published: 2024-01-09T02:34:25.445218+00:00
+
+ ## Desiderata - Desiderata Poem - Desiderata Prints
+ - [https://www.desiderata.com](https://www.desiderata.com)
+ - date_published: 2023-10-25T13:49:58.782774+00:00
+
+ ## D&R Web Site -  Loading: Please Wait
+ - [https://static.designandreuse.com](https://static.designandreuse.com)
+ - date_published: 2024-05-01T04:47:58.784150+00:00
+
+ ## Design Better Learning – Make learning that really works.
+ - [https://designbetterlearning.com](https://designbetterlearning.com)
+ - date_published: 2024-05-06T21:25:24.713868+00:00
+
  ## designboom | architecture & design magazine
  - [https://designboom.com](https://designboom.com)
  - date_published: 2024-05-01T04:48:13.742123+00:00
@@ -3976,120 +4090,4 @@
  ## Doximity Technology Blog
  - [https://technology.doximity.com](https://technology.doximity.com)
  - date_published: 2023-10-25T13:57:48.725314+00:00
-
- ## Work @ Doximity
- - [https://workat.doximity.com](https://workat.doximity.com)
- - date_published: 2024-05-01T07:33:01.363591+00:00
-
- ## Doximity
- - [https://www.doximity.com](https://www.doximity.com)
- - date_published: 2024-05-01T02:25:08.512448+00:00
-
- ## Doyensec's Blog
- - [https://blog.doyensec.com](https://blog.doyensec.com)
- - date_published: 2023-10-25T13:57:51.254946+00:00
-
- ## Doyensec - Web and Mobile Application Security Experts
- - [https://doyensec.com](https://doyensec.com)
- - date_published: 2024-05-01T07:33:02.681189+00:00
-
- ## ElectroNG - Building secure ElectronJS-based applications is possible
- - [https://imagemagick-secevaluator.doyensec.com](https://imagemagick-secevaluator.doyensec.com)
- - date_published: 2024-05-06T23:44:29.926037+00:00
-
- ## Doyensec - Web and Mobile Application Security Experts
- - [https://www.doyensec.com](https://www.doyensec.com)
- - date_published: 2024-05-01T07:33:11.471675+00:00
-
- ## dpa Deutsche Presse-Agentur – Den Fakten verpflichtet
- - [https://www.dpa.com](https://www.dpa.com)
- - date_published: 2024-05-06T18:17:11.753438+00:00
-
- ## We are DPD - DPD
- - [https://www.dpd.com](https://www.dpd.com)
- - date_published: 2023-11-01T08:42:04.426875+00:00
-
- ## {DPHacks}
- - [https://dphacks.com](https://dphacks.com)
- - date_published: 2024-01-23T16:02:22+00:00
- - tags: ['hardware tinkering', 'hardware hacking']
-
- ## Digital Photography Review
- - [https://m.dpreview.com](https://m.dpreview.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Digital Photography Review
- - [https://www.dpreview.com](https://www.dpreview.com)
- - date_published: 2023-10-25T13:58:06.498473+00:00
-
- ## Kazuhiko Arase's Workplace
- - [http://www.d-project.com](http://www.d-project.com)
- - date_published: 2024-05-04T15:35:00.036061+00:00
-
- ## Need WordPress Help? Or WordPress Maintenance services
- - [http://www.dp-websolutions.com](http://www.dp-websolutions.com)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Dan Quach Blog
- - [https://www.dquach.com](https://www.dquach.com)
- - date_published: 2023-10-25T09:20:08.760417+00:00
- - tags: ['personal']
-
- ## Dracula Daily
- - [https://draculadaily.com](https://draculadaily.com)
- - date_published: 2024-05-01T07:55:44.854933+00:00
-
- ## Dracula — Dark theme for 300+ apps
- - [https://draculatheme.com](https://draculatheme.com)
- - date_published: 2023-10-25T13:58:15.118303+00:00
- - tags: ['themes', 'code editor']
-
- ## Dracula Syntax Highlighting Specification
- - [https://spec.draculatheme.com](https://spec.draculatheme.com)
- - date_published: 2024-05-01T07:45:46.632553+00:00
-
- ## Subscribe to Dracula on Gumroad
- - [https://store.draculatheme.com](https://store.draculatheme.com)
- - date_published: 2023-10-16T00:00:00+00:00
-
- ## Sunsetting Dracula UI
- - [https://ui.draculatheme.com](https://ui.draculatheme.com)
- - date_published: 2024-05-01T07:45:50.069337+00:00
-
- ## Draftkings
- - [https://dknation.draftkings.com](https://dknation.draftkings.com)
- - date_published: 2024-04-29T02:14:54.634225+00:00
-
- ## Draftkings
- - [https://dknetwork.draftkings.com](https://dknetwork.draftkings.com)
- - date_published: 2024-04-29T02:05:15.011281+00:00
-
- ## Draftkings
- - [https://draftkings.com](https://draftkings.com)
- - date_published: 2024-04-29T02:13:14.255298+00:00
-
- ## Dragon Ball Multiverse - Webcomic
- - [https://www.dragonball-multiverse.com](https://www.dragonball-multiverse.com)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## 【公式】ドラゴンボールオフィシャルサイト
- - [https://dragon-ball-official.com](https://dragon-ball-official.com)
- - date_published: 2024-05-30T05:47:21.831165+00:00
- - tags: ['dragon ball']
-
- ## Store
- - [https://www.dragonbyte-tech.com](https://www.dragonbyte-tech.com)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Redirect
- - [https://1105.dragonforms.com](https://1105.dragonforms.com)
- - date_published: 2024-05-07T10:29:28.283149+00:00
-
- ## Redirect
- - [https://acbusiness.dragonforms.com](https://acbusiness.dragonforms.com)
- - date_published: 2024-05-04T06:34:49.561291+00:00
-
- ## Redirect
- - [https://aspencore.dragonforms.com](https://aspencore.dragonforms.com)
- - date_published: 2024-05-01T08:29:22.095847+00:00
 

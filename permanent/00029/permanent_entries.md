@@ -1,3 +1,144 @@
+ ## James Watling - Founding CTO at EarlyDay
+ - [https://www.jameswatling.com](https://www.jameswatling.com)
+ - date_published: 2024-04-03T06:22:46.679520+00:00
+ - tags: ['personal']
+
+ ## James Webb Discovery
+ - [https://www.jameswebbdiscovery.com](https://www.jameswebbdiscovery.com)
+ - date_published: 2023-10-25T15:26:43.819893+00:00
+
+ ## jameswwhite.com
+ - [https://jameswwhite.com](https://jameswwhite.com)
+ - date_published: 2024-01-16T23:47:32.314421+00:00
+
+ ## Machine learning | James Zou | Stanford
+ - [https://james-zou.com](https://james-zou.com)
+ - date_published: 2024-05-07T20:26:59.217816+00:00
+
+ ## Machine learning | James Zou | Stanford
+ - [https://www.james-zou.com](https://www.james-zou.com)
+ - date_published: 2024-05-07T20:26:53.205226+00:00
+
+ ## Jamf Apple Device Management. Mac iPad iPhone TV Apple MDM
+ - [https://www.jamf.com](https://www.jamf.com)
+ - date_published: 2024-05-08T11:00:46.560254+00:00
+
+ ## Jamie Christopherson | Film TV Game Composer
+ - [https://www.jamiechristopherson.com](https://www.jamiechristopherson.com)
+ - date_published: 2024-05-13T09:28:10.431322+00:00
+ - tags: ['personal']
+
+ ## Personal website | Jamie McHale
+ - [https://jamiemchale.com](https://jamiemchale.com)
+ - date_published: 2024-01-24T19:38:04.060312+00:00
+
+ ## New Home | Marketing and Technology for Coaches, Consultants and Experts | Jamie McKean
+ - [https://jamiemckean.com](https://jamiemckean.com)
+ - date_published: 2023-11-29T15:46:24.695168+00:00
+ - tags: ['personal']
+
+ ## HOME | jamie-notarthomas
+ - [https://www.jamienotarthomas.com](https://www.jamienotarthomas.com)
+ - date_published: 2024-02-08T22:24:29.890187+00:00
+
+ ## Jamie Oliver | Official website for recipes, books, tv shows and restaurants
+ - [https://www.jamieoliver.com](https://www.jamieoliver.com)
+ - date_published: 2024-03-24T00:00:00+00:00
+
+ ## Jamie Oliver Cookery School | Cooking Classes in London
+ - [https://jamieolivercookeryschool.com](https://jamieolivercookeryschool.com)
+ - date_published: 2024-05-11T10:53:30.644749+00:00
+
+ ## Jamie Oliver Cookery School | Cooking Classes in London
+ - [https://www.jamieolivercookeryschool.com](https://www.jamieolivercookeryschool.com)
+ - date_published: 2024-05-11T10:53:27.226640+00:00
+
+ ## The Jamie Oliver Group - media, restaurants & products
+ - [https://www.jamieolivergroup.com](https://www.jamieolivergroup.com)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Jamie's Ministry of Food
+ - [https://www.jamiesministryoffood.com](https://www.jamiesministryoffood.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Zero Wind :: Jamie Wong
+ - [https://jamie-wong.com](https://jamie-wong.com)
+ - date_published: 2020-09-14T00:00:00+00:00
+
+ ## Jamiroquai | Official Website
+ - [https://www.jamiroquai.com](https://www.jamiroquai.com)
+ - date_published: 2023-11-13T10:36:27.517504+00:00
+ - tags: ['music band']
+
+ ## Jamon Holmgren's Personal Website
+ - [https://jamonholmgren.com](https://jamonholmgren.com)
+ - date_published: 2023-11-29T19:26:51.788492+00:00
+ - tags: ['personal']
+
+ ## Jampack: Event Tickets, Hotel Packages for Music Festivals & More
+ - [https://www.jampack.com](https://www.jampack.com)
+ - date_published: 2024-05-04T14:11:30.345085+00:00
+
+ ## JAMS: Mediation, Arbitration and ADR Services
+ - [https://www.jamsadr.com](https://www.jamsadr.com)
+ - date_published: 2024-05-11T08:49:27.080752+00:00
+
+ ## Jamsheed Master
+ - [https://jamsheedmaster.com](https://jamsheedmaster.com)
+ - date_published: 2008-01-01T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Jamsocket
+ - [https://jamsocket.com](https://jamsocket.com)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## JAMstack_conf
+ - [https://2018.jamstackconf.com](https://2018.jamstackconf.com)
+ - date_published: 2024-05-06T13:05:07.626060+00:00
+
+ ## Jamstack Conf
+ - [https://jamstackconf.com](https://jamstackconf.com)
+ - date_published: 2024-05-06T13:20:12.541499+00:00
+ - tags: ['conference']
+
+ ## Jamstik | MIDI Guitar Technology, Software and Apps
+ - [https://jamstik.com](https://jamstik.com)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Homepage
+ - [https://janakiev.com](https://janakiev.com)
+ - date_published: 2024-05-11T10:04:07.125089+00:00
+
+ ## Urubu
+ - [http://urubu.jandecaluwe.com](http://urubu.jandecaluwe.com)
+ - date_published: 2024-05-06T14:15:32.511301+00:00
+
+ ## Book Online at Local Health & Corporate Wellness
+ - [https://localhealth.janeapp.com](https://localhealth.janeapp.com)
+ - date_published: 2024-05-01T04:32:32.387771+00:00
+
+ ## Jane Friedman | Reporting on the Publishing Industry
+ - [https://janefriedman.com](https://janefriedman.com)
+ - date_published: 2023-10-25T15:26:46.348517+00:00
+
+ ## Janelle Holden
+ - [https://www.janelleholden.com](https://www.janelleholden.com)
+ - date_published: 2024-01-04T22:43:13.537350+00:00
+
+ ## Janelle Shane
+ - [https://janelleshane.com](https://janelleshane.com)
+ - date_published: 2024-05-01T02:55:25.258134+00:00
+ - tags: ['personal']
+
+ ## Janelle Shane
+ - [https://www.janelleshane.com](https://www.janelleshane.com)
+ - date_published: 2024-05-01T02:55:23.750550+00:00
+
+ ## Janell Sihay
+ - [https://janellsihay.com](https://janellsihay.com)
+ - date_published: 2023-10-25T09:20:42.428341+00:00
+ - tags: ['personal']
+
  ## Jane Street Tech Blog
  - [https://blog.janestreet.com](https://blog.janestreet.com)
  - date_published: 2023-10-25T09:20:44.071103+00:00
@@ -2850,6 +2991,11 @@
  - [https://www.joshuaredman.com](https://www.joshuaredman.com)
  - date_published: 2024-05-02T10:29:43.129861+00:00
 
+ ## Joshua Seiden
+ - [https://www.joshuaseiden.com](https://www.joshuaseiden.com)
+ - date_published: 2024-06-09T17:28:04.639582+00:00
+ - tags: ['personal']
+
  ## Joshua Wold
  - [https://joshuawold.com](https://joshuawold.com)
  - date_published: 2023-12-19T19:08:21.027670+00:00
@@ -4073,145 +4219,4 @@
  ## Shop Our Stores - Kalmbach Media
  - [https://apps.kalmbach.com](https://apps.kalmbach.com)
  - date_published: 2024-05-18T02:44:44.310223+00:00
-
- ## Home - Kalmbach Media
- - [https://kalmbach.com](https://kalmbach.com)
- - date_published: 2024-05-06T20:16:29.966253+00:00
-
- ## IIS Windows
- - [https://secure.kalmbach.com](https://secure.kalmbach.com)
- - date_published: 2024-04-29T05:30:13.937949+00:00
-
- ## Home - Kalmbach Media
- - [https://www.kalmbach.com](https://www.kalmbach.com)
- - date_published: 2024-04-29T05:30:17.604550+00:00
-
- ## Kalmbach Hobby Store
- - [https://kalmbachhobbystore.com](https://kalmbachhobbystore.com)
- - date_published: 2024-05-06T20:16:23.046746+00:00
-
- ## Adam Kalsey
- - [http://www.kalsey.com](http://www.kalsey.com)
- - date_published: 2024-05-11T08:36:50.012225+00:00
-
- ## Kaltura | Homepage
- - [http://cdnapi.kaltura.com](http://cdnapi.kaltura.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Kaltura | Homepage
- - [https://cdnapisec.kaltura.com](https://cdnapisec.kaltura.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Kaltura | Homepage
- - [https://cdnsecakmi.kaltura.com](https://cdnsecakmi.kaltura.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Kaltura | Homepage
- - [https://cfvod.kaltura.com](https://cfvod.kaltura.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Kaltura | Homepage
- - [http://corp.kaltura.com](http://corp.kaltura.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Kaltura | Homepage
- - [http://kaltura.com](http://kaltura.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Kaltura Knowledge Center
- - [http://knowledge.kaltura.com](http://knowledge.kaltura.com)
- - date_published: 2023-06-06T00:00:00+00:00
-
- ## Kalwabed Rizki - Software engineer
- - [https://www.kalwabed.com](https://www.kalwabed.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Bits about Money by Patrick McKenzie (patio11)
- - [https://bam.kalzumeus.com](https://bam.kalzumeus.com)
- - date_published: 2023-10-25T15:34:14.688386+00:00
-
- ## Kalzumeus Software
- - [https://kalzumeus.com](https://kalzumeus.com)
- - date_published: 2024-05-06T13:57:18.553568+00:00
-
- ## Patrick McKenzie (patio11) Teaches You To Sell More Software | Kalzumeus Training
- - [https://training.kalzumeus.com](https://training.kalzumeus.com)
- - date_published: 2023-10-25T15:34:15.693875+00:00
-
- ## Kalzumeus Software
- - [https://www.kalzumeus.com](https://www.kalzumeus.com)
- - date_published: 2023-10-25T15:34:16.823180+00:00
-
- ## Kamal Marhubi
- - [http://kamalmarhubi.com](http://kamalmarhubi.com)
- - date_published: 2024-04-28T03:38:27.256427+00:00
-
- ## Kamanu Composites, LLC - Outrigger Canoes, Made in Hawai'i
- - [https://www.kamanucomposites.com](https://www.kamanucomposites.com)
- - date_published: 2024-05-04T08:49:12.806137+00:00
-
- ## Kambrya Pettit – Author. Artist.
- - [https://kambryapettit.com](https://kambryapettit.com)
- - date_published: 2024-01-08T07:25:51.974779+00:00
- - tags: ['personal']
-
- ## Get started | Kameleoon Documentation
- - [https://developers.kameleoon.com](https://developers.kameleoon.com)
- - date_published: 2024-05-06T17:57:01.492343+00:00
-
- ## A/B testing platform and AI-driven personalization | Kameleoon
- - [https://www.kameleoon.com](https://www.kameleoon.com)
- - date_published: 2024-04-29T04:49:59.534159+00:00
-
- ## Kami | For Teachers and Students
- - [https://www.kamiapp.com](https://www.kamiapp.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Kombat Lives Here – Kamidogu
- - [http://www.kamidogu.com](http://www.kamidogu.com)
- - date_published: 2024-03-23T00:00:00+00:00
-
- ## Kamino Retail | Retail Media Monetization Platform
- - [https://www.kaminoretail.com](https://www.kaminoretail.com)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## KamloopsBCNow - stuff that matters to Kamloops
- - [https://www.kamloopsbcnow.com](https://www.kamloopsbcnow.com)
- - date_published: 2024-05-07T10:43:43.893578+00:00
-
- ## @kamranicus
- - [https://kamranicus.com](https://kamranicus.com)
- - date_published: 2021-01-01T00:00:00+00:00
-
- ## KaM Remake – Knights and Merchants Remake
- - [https://kamremake.com](https://kamremake.com)
- - date_published: 2024-06-08T21:16:36+00:00
-
- ## KaM Remake – Knights and Merchants Remake
- - [https://www.kamremake.com](https://www.kamremake.com)
- - date_published: 2024-05-09T08:57:48.779049+00:00
- - tags: ['knights and merchants', 'video game mod']
-
- ## Home
- - [https://www.kanavkhurana.com](https://www.kanavkhurana.com)
- - date_published: 2023-12-21T18:50:44.618412+00:00
- - tags: ['personal']
-
- ## Kandria
- - [https://kandria.com](https://kandria.com)
- - date_published: 2024-05-14T12:14:08.136513+00:00
- - tags: ['open source', 'video game']
-
- ## Kay Belardinelli
- - [https://www.kangabell.com](https://www.kangabell.com)
- - date_published: 2024-05-08T05:14:33.222201+00:00
-
- ## Home | KANG MINSUK
- - [https://kangminsuk.com](https://kangminsuk.com)
- - date_published: 2024-04-26T22:49:57.325584+00:00
- - tags: ['personal']
-
- ## Kangrejos
- - [https://kangrejos.com](https://kangrejos.com)
- - date_published: 2023-09-16T00:00:00+00:00
 

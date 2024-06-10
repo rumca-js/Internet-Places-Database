@@ -1624,6 +1624,10 @@
  - [https://login.legislate.ai](https://login.legislate.ai)
  - date_published: 2024-05-06T00:00:00+00:00
 
+ ## AI Image Generator - Create Art, Images & Video | Leonardo AI
+ - [https://leonardo.ai](https://leonardo.ai)
+ - date_published: 2024-06-09T17:27:09.406362+00:00
+
  ## Build AI The Simple Way | Lepton AI
  - [https://www.lepton.ai](https://www.lepton.ai)
  - date_published: 2023-10-25T11:39:50.228711+00:00
@@ -3696,6 +3700,10 @@
  - [https://getaegis.app](https://getaegis.app)
  - date_published: 2023-10-25T11:46:37.370107+00:00
 
+ ## Your Phone, Minus the Distractions
+ - [https://getbrick.app](https://getbrick.app)
+ - date_published: 2024-06-09T04:16:51+00:00
+
  ## Getcho | Fast & Reliable on-demand delivery
  - [https://www.getcho.app](https://www.getcho.app)
  - date_published: 2024-05-04T10:01:50.872779+00:00
@@ -4066,12 +4074,4 @@
  ## MonsterWriter - A Pleasant Way to Write a Thesis or Article
  - [https://www.monsterwriter.app](https://www.monsterwriter.app)
  - date_published: 2023-10-25T11:47:21.821251+00:00
-
- ## ADHD Diagnosis in the Browser
- - [https://adhdtest.moodmap.app](https://adhdtest.moodmap.app)
- - date_published: 2024-04-25T14:08:42.212683+00:00
-
- ## Mu
- - [https://mu.app](https://mu.app)
- - date_published: 2023-10-25T11:47:22.709061+00:00
 

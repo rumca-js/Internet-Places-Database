@@ -1,3 +1,253 @@
+ ## Zulip
+ - [https://radicle.zulipchat.com](https://radicle.zulipchat.com)
+ - date_published: 2024-04-30T15:43:45.304763+00:00
+
+ ## Repair Preservation Group
+ - [https://repairpreservation.zulipchat.com](https://repairpreservation.zulipchat.com)
+ - date_published: 2024-05-07T18:36:56.989809+00:00
+
+ ## Roc
+ - [https://roc.zulipchat.com](https://roc.zulipchat.com)
+ - date_published: 2024-05-11T05:38:57.361271+00:00
+
+ ## Zulip
+ - [https://xi.zulipchat.com](https://xi.zulipchat.com)
+ - date_published: 2024-05-08T09:36:55.393227+00:00
+
+ ## ZuluSCSI - A hardware SCSI HDD & CD-ROM emulator
+ - [https://zuluscsi.com](https://zuluscsi.com)
+ - date_published: 2024-04-30T07:20:13.560558+00:00
+ - tags: ['emulator']
+
+ ## Cierpliwości...
+ - [http://www.zumasys.com](http://www.zumasys.com)
+ - date_published: 2024-05-07T09:35:01.753905+00:00
+
+ ## Industry Leading Subscription and Monetization Solutions
+ - [https://www.zuora.com](https://www.zuora.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## z'Up North Realty - North East MN Real Estate For Sale
+ - [https://www.zupnorth.com](https://www.zupnorth.com)
+ - date_published: 2024-05-10T04:12:31.948134+00:00
+
+ ## The most advanced responsive front-end framework in the world. | Foundation
+ - [http://foundation.zurb.com](http://foundation.zurb.com)
+ - date_published: 2024-04-29T03:46:50.260889+00:00
+
+ ## Zurich Art Weekend
+ - [https://zurichartweekend.com](https://zurichartweekend.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## zutrinken
+ - [http://zutrinken.com](http://zutrinken.com)
+ - date_published: 2024-04-29T03:20:11.756651+00:00
+
+ ## Create Digital Ads at Scale | Zuuvi
+ - [https://www.zuuvi.com](https://www.zuuvi.com)
+ - date_published: 2024-05-06T17:42:47.649767+00:00
+
+ ## ZVAB - Zentrales Verzeichnis Antiquarischer Bücher | Antiquarische und vergriffene Bücher online bestellen
+ - [https://www.zvab.com](https://www.zvab.com)
+ - date_published: 2024-05-09T04:33:00.118836+00:00
+
+ ## Razer | zVentures Investments
+ - [https://www.zvntrs.com](https://www.zvntrs.com)
+ - date_published: 2023-10-30T00:00:00+00:00
+
+ ## Z-Wave Makes Smart Homes  - Z-Wave
+ - [http://www.z-wave.com](http://www.z-wave.com)
+ - date_published: 2024-05-04T15:55:31.143493+00:00
+
+ ## Zweig Group
+ - [https://www.zweiggroup.com](https://www.zweiggroup.com)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## ZwillGen – Practical. Creative. Trusted.
+ - [https://www.zwillgen.com](https://www.zwillgen.com)
+ - date_published: 2023-12-12T09:00:50.007145+00:00
+
+ ## zwischenzugs
+ - [https://zwischenzugs.com](https://zwischenzugs.com)
+ - date_published: 2023-12-30T10:51:16.692475+00:00
+
+ ## ZX2C4 Git Repository
+ - [https://git.zx2c4.com](https://git.zx2c4.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Zxch3n's Blog | Zxch3n
+ - [https://www.zxch3n.com](https://www.zxch3n.com)
+ - date_published: 2023-10-25T18:25:50.490464+00:00
+
+ ## Zexin HE
+ - [https://zxhezexin.com](https://zxhezexin.com)
+ - date_published: 2024-04-28T03:40:39.773622+00:00
+
+ ## The Intellectual Wilderness – There is nothing more useless than doing efficiently that which should not be done at all.
+ - [https://zxq9.com](https://zxq9.com)
+ - date_published: 2023-10-25T18:25:54.864362+00:00
+
+ ## Музыканты по никам : Музыка для ZX Spectrum : AY, Beeper, Digital : zxtunes.com
+ - [http://zxtunes.com](http://zxtunes.com)
+ - date_published: 2024-06-03T10:21:55.237505+00:00
+ - tags: ['zx spectrum', 'demoscene']
+
+ ## Zygor Guides
+ - [https://zygorguides.com](https://zygorguides.com)
+ - date_published: 2024-05-11T11:50:14.433915+00:00
+
+ ## Zymphonies | Enterprise Drupal Solutions
+ - [http://www.zymphonies.com](http://www.zymphonies.com)
+ - date_published: 2024-05-12T06:16:37.052054+00:00
+
+ ## World's Leading Web Scraping Service | Zyte
+ - [https://www.zyte.com](https://www.zyte.com)
+ - date_published: 2024-01-17T09:14:05+00:00
+ - tags: ['web scraping service']
+
+ ## ZZZ Projects
+ - [https://zzzprojects.com](https://zzzprojects.com)
+ - date_published: 2024-04-28T05:08:03.613266+00:00
+
+ ## Legal Lullabies
+ - [https://www.zzzuckerberg.com](https://www.zzzuckerberg.com)
+ - date_published: 2023-10-25T11:08:13.765188+00:00
+ - tags: ['wtf']
+
+ ## Scrip: Pharma Intelligence
+ - [https://scrip.citeline.com:443](https://scrip.citeline.com:443)
+ - date_published: 2024-03-28T13:39:03.230570+00:00
+
+ ## CityDensity.com
+ - [https://citydensity.com:443](https://citydensity.com:443)
+ - date_published: 2024-05-09T07:19:20.439407+00:00
+
+ ## Linkidex
+ - [https://www.linkidex.com:443](https://www.linkidex.com:443)
+ - date_published: 2024-05-04T12:43:56.587131+00:00
+
+ ## Embedded Industrial Computers for Edge & IoT  | OnLogic
+ - [https://www.onlogic.com:443](https://www.onlogic.com:443)
+ - date_published: 2024-05-10T04:11:03.038928+00:00
+
+ ## Passbolt: The Open Source Password Manager For Teams
+ - [https://www.passbolt.com:443](https://www.passbolt.com:443)
+ - date_published: 2024-05-14T03:58:49.834151+00:00
+
+ ## Tines | The smart, secure workflow builder
+ - [https://www.tines.com:443](https://www.tines.com:443)
+ - date_published: 2024-05-06T19:57:59.405104+00:00
+
+ ## Home - 1Password Community
+ - [https://1password.community](https://1password.community)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Buildkite Community Forum
+ - [https://forum.buildkite.community](https://forum.buildkite.community)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## How to play C&C guides, C&C News, C&C Remastered Leaderboards - Command & Conquer
+ - [https://cnc.community](https://cnc.community)
+ - date_published: 2023-11-17T21:46:11+00:00
+ - tags: ['command and conquer', 'red alert']
+
+ ## 代码厨房
+ - [https://codekitchen.community](https://codekitchen.community)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://www.codesandbox.community](https://www.codesandbox.community)
+ - date_published: 2024-04-28T02:56:34.132869+00:00
+
+ ## Dots - automation & insights for Discord & Slack
+ - [https://dots.community](https://dots.community)
+ - date_published: 2023-07-13T00:00:00+00:00
+
+ ## Introduction - Building Games with DragonRuby
+ - [https://book.dragonriders.community](https://book.dragonriders.community)
+ - date_published: 2023-10-25T18:25:56.311837+00:00
+
+ ## The Hangar
+ - [https://dx.community](https://dx.community)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Join firebase-community on Slack!
+ - [https://firebase.community](https://firebase.community)
+ - date_published: 2024-05-08T07:31:44.404462+00:00
+
+ ## Flux — A platform for change
+ - [https://flux.community](https://flux.community)
+ - date_published: 2023-10-25T18:25:58.051970+00:00
+
+ ## Flux | Matthew Sheffield | Substack
+ - [https://plus.flux.community](https://plus.flux.community)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Get Together
+ - [https://gettogether.community](https://gettogether.community)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## Build software better, together
+ - [https://github.community](https://github.community)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## H1 | HackerOne Community
+ - [https://h1.community](https://h1.community)
+ - date_published: 2024-01-28T00:00:00+00:00
+
+ ## IceWhale Community Forum
+ - [https://icewhale.community](https://icewhale.community)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## It's FOSS Community
+ - [https://itsfoss.community](https://itsfoss.community)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Linux.Community - Linux.Chat Communities is a fun, friendly and inclusive place for all things Linux® and opensource.
+ - [https://linux.community](https://linux.community)
+ - date_published: 2024-03-23T00:00:00+00:00
+
+ ## Nothing Community
+ - [https://nothing.community](https://nothing.community)
+ - date_published: 2023-11-16T06:39:37.887354+00:00
+
+ ## Home - Orb Dynamic Edge Observability
+ - [https://orb.community](https://orb.community)
+ - date_published: 2024-04-30T02:02:53.437805+00:00
+
+ ## Path of Building Community Fork
+ - [https://pathofbuilding.community](https://pathofbuilding.community)
+ - date_published: 2024-05-08T02:09:18.125397+00:00
+
+ ## Run Percona: Embrace Open
+ - [https://percona.community](https://percona.community)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Persuasion | Yascha Mounk | Substack
+ - [https://www.persuasion.community](https://www.persuasion.community)
+ - date_published: 2023-10-25T18:26:06.826791+00:00
+
+ ## Join the Shinobi Community Discord Server!
+ - [https://shinobi.community](https://shinobi.community)
+ - date_published: 2024-05-14T03:32:54.719628+00:00
+
+ ## SignalWire Community
+ - [https://forum.signalwire.community](https://forum.signalwire.community)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Join SignalWire Community on Slack
+ - [https://signalwire.community](https://signalwire.community)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## home
+ - [http://tga.community](http://tga.community)
+ - date_published: 2024-05-07T19:01:55.242250+00:00
+ - tags: ['tabletop games', 'age of sigmar', 'miniatures', 'warhammer']
+
+ ## home
+ - [https://www.tga.community](https://www.tga.community)
+ - date_published: 2023-11-01T18:31:03.321945+00:00
+
  ## toot.community
  - [https://toot.community](https://toot.community)
  - date_published: 2024-04-29T04:19:23.506696+00:00
@@ -3827,255 +4077,4 @@ Heinsohn
  ## Felix Dorner
  - [https://felixdorner.de](https://felixdorner.de)
  - date_published: 2024-04-17T00:00:00+00:00
-
- ## felix fisgus | Felix Fisgus
- - [https://felixfisgus.de](https://felixfisgus.de)
- - date_published: 2023-10-25T18:30:12.186826+00:00
-
- ## Felix Geisendörfer
- - [https://blog.felixge.de](https://blog.felixge.de)
- - date_published: 2023-10-25T18:30:14.021327+00:00
-
- ## Fenix Magazin - Početna
- - [https://fenix-magazin.de](https://fenix-magazin.de)
- - date_published: 2023-10-30T19:00:12.736074+00:00
-
- ## feststelltaste – About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
- - [https://www.feststelltaste.de](https://www.feststelltaste.de)
- - date_published: 2023-10-25T18:30:19.967784+00:00
-
- ## FW Groß Grönau | Home
- - [https://www.ff-grossgroenau.de](https://www.ff-grossgroenau.de)
- - date_published: 2024-05-11T05:40:28.180176+00:00
-
- ## FFII
- - [http://www.ffii.de](http://www.ffii.de)
- - date_published: 2024-05-11T07:48:35.650332+00:00
-
- ## Florian Heidenreich – Indie Software Developer from Dresden
- - [https://fheidenreich.de](https://fheidenreich.de)
- - date_published: 2024-01-07T17:48:40.202500+00:00
-
- ## Plausible · Web analytics
- - [https://stats.fheidenreich.de](https://stats.fheidenreich.de)
- - date_published: 2024-04-29T06:04:40.606581+00:00
-
- ## OpenGTA
- - [http://ogta.fifengine.de](http://ogta.fifengine.de)
- - date_published: 2024-05-09T09:01:38.279937+00:00
- - tags: ['grand theft auto', 'open source']
-
- ## Finalmedia
- - [http://finalmedia.de](http://finalmedia.de)
- - date_published: 2024-05-06T14:57:44.665975+00:00
-
- ## Finanz-Designerin: Finanziell frei in 5 Jahren.
- - [https://www.finanz-designerin.de](https://www.finanz-designerin.de)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## finception - Unternehmenssoftware & Digitalisierung in 2024
- - [https://finception.de](https://finception.de)
- - date_published: 2024-04-29T06:15:49.124232+00:00
-
- ## Diese Domain wurde erfolgreich für den Höchstbieter der Auction registriert.
- - [http://www.findeen.de](http://www.findeen.de)
- - date_published: 2024-06-03T06:37:48.742485+00:00
-
- ## finkhaeuser consulting
- - [https://finkhaeuser.de](https://finkhaeuser.de)
- - date_published: 2024-05-04T15:59:22.891848+00:00
-
- ## FITBOOK
- - [https://www.fitbook.de](https://www.fitbook.de)
- - date_published: 2024-04-29T05:49:55.943456+00:00
-
- ## Flashback – Museum & Event
- - [https://www.flashback-event.de](https://www.flashback-event.de)
- - date_published: 2024-05-23T11:08:07.377563+00:00
- - tags: ['amiga', 'zx spectrum', 'retro games']
-
- ## flatex
- - [https://www.flatex.de](https://www.flatex.de)
- - date_published: 2024-05-01T07:10:54.572557+00:00
-
- ## Kirstin Rohwer's homepage
- - [https://flauschzelle.de](https://flauschzelle.de)
- - date_published: 2024-05-11T07:26:13.991147+00:00
-
- ## FLMH | Labor für Politik und Kommunikation
- - [http://www.flmh.de](http://www.flmh.de)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Flora Incognita | DE – Die Flora Incognita App – Interaktive Pflanzenbestimmung
- - [https://floraincognita.de](https://floraincognita.de)
- - date_published: 2024-05-04T06:26:47.392521+00:00
-
- ## Blog · Florian Hopf
- - [http://blog.florian-hopf.de](http://blog.florian-hopf.de)
- - date_published: 2024-05-01T03:44:26.866274+00:00
-
- ## WordPress Programmierer/Entwickler Florian Simeth
- - [https://florian-simeth.de](https://florian-simeth.de)
- - date_published: 2024-05-10T03:56:23.604292+00:00
- - tags: ['personal']
-
- ## Flüstertüte Marketing für kleine Unternehmen und Selbstständige
- - [https://www.fluestertuete-marketing.de](https://www.fluestertuete-marketing.de)
- - date_published: 2021-02-09T00:00:00+00:00
-
- ## Home - FMX | EN
- - [http://www.fmx.de](http://www.fmx.de)
- - date_published: 2024-04-29T06:29:59.809601+00:00
-
- ## Fnordon
- - [https://fnordon.de](https://fnordon.de)
- - date_published: 2024-05-09T07:50:38.936097+00:00
-
- ## Lebensmittel teilen statt wegwerfen – foodsharing
- - [http://www.foodsharing.de](http://www.foodsharing.de)
- - date_published: 2024-06-01T22:16:54.888100+00:00
-
- ## Formfacade - 
-        
-        Customize Google Forms UI
- - [https://formfaca.de](https://formfaca.de)
- - date_published: 2024-02-08T22:06:36.088214+00:00
-
- ## Forum64
- - [https://www.forum64.de](https://www.forum64.de)
- - date_published: 2024-05-06T22:25:34.845142+00:00
-
- ## Startseite - Forum Fischschutz & Fischabstieg | Forum Fischschutz & Fischabstieg
- - [https://forum-fischschutz.de](https://forum-fischschutz.de)
- - date_published: 2024-04-29T06:58:38.059126+00:00
-
- ## Startseite
- - [https://www.fossgis.de](https://www.fossgis.de)
- - date_published: 2024-04-29T05:56:04.071125+00:00
-
- ## IOAM
- - [https://data-f1e447fbcf.fr.de](https://data-f1e447fbcf.fr.de)
- - date_published: 2024-04-29T06:05:11.240101+00:00
-
- ## Partner - FR.de
- - [https://partner.fr.de](https://partner.fr.de)
- - date_published: 2024-04-29T06:04:49.307802+00:00
-
- ## Aktuelle Prospekte und Beilagen
- - [https://webkiosk.fr.de](https://webkiosk.fr.de)
- - date_published: 2024-04-29T06:04:57.405996+00:00
-
- ## Nachrichten aus Deutschland und der Welt | Frankfurter Rundschau
- - [https://www.fr.de](https://www.fr.de)
- - date_published: 2023-11-28T20:39:40+00:00
- - tags: ['politic news', 'german news']
-
- ## FragDenStaat – Portal für Informationsfreiheit
- - [https://fragdenstaat.de](https://fragdenstaat.de)
- - date_published: 2024-05-07T23:29:34.233558+00:00
-
- ## Hilfe für Seniorinnen und Senioren, die ankommt - FR-Altenhilfe
- - [http://www.fr-altenhilfe.de](http://www.fr-altenhilfe.de)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## Homepage
- - [https://www.franka.de](https://www.franka.de)
- - date_published: 2024-05-04T15:29:20.133805+00:00
-
- ## Franzi.Flows - Franzi.Flows
- - [https://franziflows.de](https://franziflows.de)
- - date_published: 2024-01-11T20:48:30.425372+00:00
-
- ## Frauen MINT-Award
- - [http://www.frauen-mint-award.de](http://www.frauen-mint-award.de)
- - date_published: 2024-04-29T06:30:02.983947+00:00
-
- ## Startseite Fraunhofer-Gesellschaft
- - [https://fraunhofer.de](https://fraunhofer.de)
- - date_published: 2024-03-14T00:00:00+00:00
- - tags: ['news']
-
- ## Karriere Fraunhofer-Gesellschaft
- - [https://jobs.fraunhofer.de](https://jobs.fraunhofer.de)
- - date_published: 2024-04-29T06:10:51.917844+00:00
-
- ## Malpedia (Fraunhofer FKIE)
- - [https://malpedia.caad.fkie.fraunhofer.de](https://malpedia.caad.fkie.fraunhofer.de)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Institute for Digital Medicine -  Fraunhofer MEVIS
- - [https://mevis.fraunhofer.de](https://mevis.fraunhofer.de)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://stats.ise.fraunhofer.de](https://stats.ise.fraunhofer.de)
- - date_published: 2024-04-28T01:53:40.624712+00:00
-
- ## Startseite Fraunhofer Forschungsfertigung Batteriezelle
- - [https://www.ffb.fraunhofer.de](https://www.ffb.fraunhofer.de)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Deutsch -  Fraunhofer FKIE
- - [https://www.fkie.fraunhofer.de](https://www.fkie.fraunhofer.de)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## WIR VERNETZEN ALLES
- - [https://www.fokus.fraunhofer.de](https://www.fokus.fraunhofer.de)
- - date_published: 2024-04-29T06:11:03.522887+00:00
-
- ## Startseite Fraunhofer-Gesellschaft
- - [https://www.fraunhofer.de](https://www.fraunhofer.de)
- - date_published: 2023-10-25T18:30:27.906517+00:00
-
- ## Fraunhofer Heinrich-Hertz-Institut
- - [https://www.hhi.fraunhofer.de](https://www.hhi.fraunhofer.de)
- - date_published: 2024-04-29T06:11:22.064460+00:00
-
- ## Fraunhofer IAIS
- - [https://www.iais.fraunhofer.de](https://www.iais.fraunhofer.de)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Fraunhofer IISB (English)
- - [https://www.iisb.fraunhofer.de](https://www.iisb.fraunhofer.de)
- - date_published: 2023-10-25T18:30:29.853786+00:00
-
- ## Deutsch -  Fraunhofer IMS
- - [https://www.ims.fraunhofer.de](https://www.ims.fraunhofer.de)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Forschen für die Energiewende - Fraunhofer-Institut für Solare Energiesysteme ISE -  Fraunhofer ISE
- - [https://www.ise.fraunhofer.de](https://www.ise.fraunhofer.de)
- - date_published: 2023-10-25T18:30:39.964840+00:00
-
- ## Institute for Digital Medicine -  Fraunhofer MEVIS
- - [https://www.mevis.fraunhofer.de](https://www.mevis.fraunhofer.de)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Aktuelle Nachrichten, E-Mail, Cloud & Hosting - freenet.de
- - [https://www.freenet.de](https://www.freenet.de)
- - date_published: 2024-05-01T06:28:34.489550+00:00
-
- ## Top-Handys und Tarife in allen Netzen | freenet-mobilfunk.de
- - [https://www.freenet-mobilfunk.de](https://www.freenet-mobilfunk.de)
- - date_published: 2024-05-01T05:58:33.071238+00:00
-
- ## ChainReaction
- - [http://cr.freewarepoint.de](http://cr.freewarepoint.de)
- - date_published: 2013-02-07T00:00:00+00:00
-
- ## FreshPlaza: Aktuelle Nachrichten aus der globalen Obst- und Gemüsebranche
- - [https://www.freshplaza.de](https://www.freshplaza.de)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Unterstützen Sie die Charité & fördern Sie die Arbeit der Charité
- - [http://www.freundeskreis-charite.de](http://www.freundeskreis-charite.de)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Deutschland vom Montag, 29.04.2024 | FR ePaper
- - [https://epaper.fr-online.de](https://epaper.fr-online.de)
- - date_published: 2024-04-29T06:05:00.558288+00:00
-
- ## FrOSCon
- - [https://www.froscon.de](https://www.froscon.de)
- - date_published: 2024-05-14T04:01:03.749612+00:00
 
