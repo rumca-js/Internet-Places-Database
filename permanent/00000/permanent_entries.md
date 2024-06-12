@@ -79,6 +79,10 @@
  - [https://kt.academy](https://kt.academy)
  - date_published: 2023-10-25T11:36:04.338918+00:00
 
+ ## LJLA
+ - [https://associates.ljla.academy](https://associates.ljla.academy)
+ - date_published: 2024-06-12T01:48:50.943456+00:00
+
  ## Home | Moodle Academy
  - [https://moodle.academy](https://moodle.academy)
  - date_published: 2024-05-08T10:30:04.367653+00:00
@@ -119,6 +123,10 @@
  - [https://www.roq.ad](https://www.roq.ad)
  - date_published: 2024-05-06T17:56:32.657353+00:00
 
+ ## ADNOC - Maximum Energy Minimum Emissions
+ - [https://www.adnoc.ae](https://www.adnoc.ae)
+ - date_published: 2024-06-10T12:47:09.326381+00:00
+
  ## Airbnb | Vacation rentals, cabins, beach houses, & more
  - [https://www.airbnb.ae](https://www.airbnb.ae)
  - date_published: 2024-05-06T00:00:00+00:00
@@ -127,6 +135,10 @@
  - [https://www.amazon.ae](https://www.amazon.ae)
  - date_published: 2024-04-27T00:00:00+00:00
 
+ ## ASPIRE
+ - [https://www.aspireuae.ae](https://www.aspireuae.ae)
+ - date_published: 2024-06-10T12:47:28.986449+00:00
+
  ## Printer, Scanner, Sewing Machine, Label Maker | Brother Gulf
  - [https://www.brother.ae](https://www.brother.ae)
  - date_published: 2024-05-02T11:25:24.655943+00:00
@@ -134,6 +146,10 @@
  ## Citroën United Arab Emirates: Brand new cars for sale in the UAE
  - [https://www.citroen.ae](https://www.citroen.ae)
  - date_published: 2023-12-11T16:02:29.483067+00:00
+
+ ## Mobile Plans, Home Internet & TV packages and much more! | du
+ - [https://www.du.ae](https://www.du.ae)
+ - date_published: 2024-06-10T12:47:01.781688+00:00
 
  ## United Arab Emirates Property - 90,690 Condos & Houses For Sale | FazWaz.ae
  - [https://www.fazwaz.ae](https://www.fazwaz.ae)
@@ -160,6 +176,10 @@
  - date_published: 2023-12-20T11:45:17.376653+00:00
  - tags: ['personal']
 
+ ## Live In Five LLC. | Event Communication Services
+ - [https://liveinfive.ae](https://liveinfive.ae)
+ - date_published: 2024-06-10T12:47:11.463580+00:00
+
  ## خرائط للويب و للتطبيقات الذكية – MapTiler
  - [https://www.maptiler.ae](https://www.maptiler.ae)
  - date_published: 2024-05-04T14:16:36.924897+00:00
@@ -171,6 +191,10 @@
  ## Cierpliwości...
  - [https://qr.ae](https://qr.ae)
  - date_published: 2024-04-30T07:49:21.303269+00:00
+
+ ## startAD - ACCELERATING INNOVATION IN THE UAE
+ - [https://startad.ae](https://startad.ae)
+ - date_published: 2024-06-06T00:00:00+00:00
 
  ## The National - Latest world news, sport & opinion
  - [http://www.thenational.ae](http://www.thenational.ae)
@@ -196,17 +220,34 @@
  - [http://www.wam.ae](http://www.wam.ae)
  - date_published: 2024-04-28T03:44:05.281372+00:00
 
+ ## What's On
+ - [https://whatson.ae](https://whatson.ae)
+ - date_published: 2024-06-10T12:47:31.771775+00:00
+ - tags: ['uae', 'abu dhabi', 'news']
+
  ## موقع Wondershare الرسمي: الإبداع والإنتاجية وحلول المرافق
  - [https://www.wondershare.ae](https://www.wondershare.ae)
  - date_published: 2024-05-11T08:34:38.810556+00:00
+
+ ## Home
+ - [https://admobility.gov.ae](https://admobility.gov.ae)
+ - date_published: 2024-06-10T12:46:38.034699+00:00
 
  ## The Advanced Technology Research Council (ATRC)
  - [https://www.atrc.gov.ae](https://www.atrc.gov.ae)
  - date_published: 2024-05-09T02:34:55.219153+00:00
 
+ ## ACI World - The Voice of the World's Airports
+ - [https://aci.aero](https://aci.aero)
+ - date_published: 2021-04-07T00:00:00+00:00
+
  ## Accueil - BEA - Bureau d'Enquêtes et d'Analyses pour la sécurité de l'aviation civile
  - [https://bea.aero](https://bea.aero)
  - date_published: 2024-01-18T13:04:11.749735+00:00
+
+ ## Aeropuerto Internacional El Dorado | Bogotá, Colombia
+ - [https://eldorado.aero](https://eldorado.aero)
+ - date_published: 2024-06-11T22:59:16.432735+00:00
 
  ## FutureFlight | Urban Air Mobility News, Special Reports, Programs
  - [https://www.futureflight.aero](https://www.futureflight.aero)
@@ -261,6 +302,10 @@
  ## Darnell (Africa)
  - [https://darnell.africa](https://darnell.africa)
  - date_published: 2024-05-07T19:08:12.709856+00:00
+
+ ## DjangoCon Africa 2023
+ - [https://2023.djangocon.africa](https://2023.djangocon.africa)
+ - date_published: 2024-01-28T00:00:00+00:00
 
  ## Nation ePaper: The Truth wherever you go.
  - [https://epaper.nation.africa](https://epaper.nation.africa)
@@ -657,7 +702,7 @@
  ## Claude
  - [https://claude.ai](https://claude.ai)
  - date_published: 2024-05-09T05:04:34.358359+00:00
- - tags: ['artificial intelligence bot', 'search engine']
+ - tags: ['artificial intelligence bot']
 
  ## Cleanlab
  - [https://cleanlab.ai](https://cleanlab.ai)
@@ -1515,6 +1560,10 @@
  - [https://justwords.ai](https://justwords.ai)
  - date_published: 2024-02-01T00:00:00+00:00
 
+ ## Question answering service - Kagi.ai
+ - [https://kagi.ai](https://kagi.ai)
+ - date_published: 2024-06-10T07:07:07.153904+00:00
+
  ## Dashboard | kapa.ai
  - [https://app.kapa.ai](https://app.kapa.ai)
  - date_published: 2024-05-09T05:39:35.040202+00:00
@@ -1575,6 +1624,10 @@
  ## World’s #1 Noise Cancelling App and AI Meeting Assistant
  - [https://krisp.ai](https://krisp.ai)
  - date_published: 2024-05-06T13:46:44.242865+00:00
+
+ ## Kwai
+ - [https://s.kw.ai](https://s.kw.ai)
+ - date_published: 2024-06-10T00:00:00+00:00
 
  ## LAION
  - [https://laion.ai](https://laion.ai)
@@ -2370,6 +2423,7 @@
  ## Home - RIOS
  - [https://www.rios.ai](https://www.rios.ai)
  - date_published: 2024-04-03T00:00:00+00:00
+ - tags: ['artificial intelligence', 'robotics']
 
  ## ROASTED
  - [https://www.roastedby.ai](https://www.roastedby.ai)
@@ -2820,6 +2874,7 @@
  ## AI News & Robotics News - Unite.AI
  - [https://www.unite.ai](https://www.unite.ai)
  - date_published: 2023-10-25T11:00:48.637068+00:00
+ - tags: ['artificial intelligence', 'robotics', 'news']
 
  ## Unriddle | Faster research
  - [https://www.unriddle.ai](https://www.unriddle.ai)
@@ -2841,6 +2896,10 @@
  ## UpTrain | Full-Stack LLMOps Platform
  - [https://uptrain.ai](https://uptrain.ai)
  - date_published: 2024-05-11T07:39:34.490821+00:00
+
+ ## Service Robot: AI Services for a Better Life. - URSROBOT
+ - [https://ursrobot.ai](https://ursrobot.ai)
+ - date_published: 2023-11-28T03:51:01+00:00
 
  ## Usage AI | Save 57% on AWS
  - [https://www.usage.ai](https://www.usage.ai)
@@ -2891,6 +2950,10 @@
  ## vi :: Home
  - [https://www.vi.ai](https://www.vi.ai)
  - date_published: 2024-05-06T18:01:52.239479+00:00
+
+ ## ViVum | Technology Evolved
+ - [https://vivum.ai](https://vivum.ai)
+ - date_published: 2024-03-04T14:24:02+00:00
 
  ## NeurIPS 2023 Posters Cluster Visualization
  - [https://neurips2023.vizhub.ai](https://neurips2023.vizhub.ai)
@@ -3199,6 +3262,54 @@
  - [https://www.citroen.co.ao](https://www.citroen.co.ao)
  - date_published: 2023-12-11T15:58:22.023737+00:00
 
+ ## Amarta99 ⚡️ Login Terbaru Daftar Slot Gacor Anti Rungkad Hari Ini
+ - [https://amarta99.devsoft.co.ao](https://amarta99.devsoft.co.ao)
+ - date_published: 2024-05-28T07:56:38+00:00
+
+ ## Horus303 ⚡️ Login Terbaru Daftar Slot Gacor Anti Rungkad Hari Ini
+ - [https://horus303.devsoft.co.ao](https://horus303.devsoft.co.ao)
+ - date_published: 2024-05-28T07:52:49+00:00
+
+ ## S128 ☄️ Login S128 Sabung Ayam Online 7x Win Beruntun Bisa Claim 3x Sehari
+ - [http://s128.devsoft.co.ao](http://s128.devsoft.co.ao)
+ - date_published: 2024-05-28T09:04:50+00:00
+
+ ## Sboku99 ⚡️ Login Terbaru Daftar Slot Gacor Anti Rungkad Hari Ini
+ - [https://sboku99.devsoft.co.ao](https://sboku99.devsoft.co.ao)
+ - date_published: 2024-05-28T07:55:27+00:00
+
+ ## Senang303 ⚡️ Login Terbaru Daftar Slot Gacor Anti Rungkad Hari Ini
+ - [https://senang303.devsoft.co.ao](https://senang303.devsoft.co.ao)
+ - date_published: 2024-05-28T07:44:14+00:00
+
+ ## Slot Dana ☄️ Link Situs Slot Deposit Dana Super Gacor Deposit 10K Auto Maxin
+ - [https://slot-dana.devsoft.co.ao](https://slot-dana.devsoft.co.ao)
+ - date_published: 2024-05-28T08:17:33+00:00
+
+ ## Slot Gacor 4D 💦 Situs Slot Gacor 4D Tergacor RTP Paling Tinggi Akurat Gampang Menang
+ - [https://slot-gacor-4d.devsoft.co.ao](https://slot-gacor-4d.devsoft.co.ao)
+ - date_published: 2024-05-28T09:43:01+00:00
+
+ ## Spesial4D ⚡️ Login Terbaru Daftar Slot Gacor Anti Rungkad Hari Ini
+ - [https://spesial4d.devsoft.co.ao](https://spesial4d.devsoft.co.ao)
+ - date_published: 2024-06-12T02:26:31.287760+00:00
+
+ ## Sukses303 ⚡️ Login Terbaru Daftar Slot Gacor Anti Rungkad Hari Ini
+ - [https://sukses303.devsoft.co.ao](https://sukses303.devsoft.co.ao)
+ - date_published: 2024-05-28T07:49:04+00:00
+
+ ## SV388 ☄️ Login SV388 Sabung Ayam Online 7x Win Beruntun Bisa Claim 3x Sehari
+ - [http://sv388.devsoft.co.ao](http://sv388.devsoft.co.ao)
+ - date_published: 2024-06-12T01:44:47.550113+00:00
+
+ ## WS168 ☄️ Login WS168 Sabung Ayam Online 7x Win Beruntun Bisa Claim 3x Sehari
+ - [https://ws168.devsoft.co.ao](https://ws168.devsoft.co.ao)
+ - date_published: 2024-05-28T09:07:14+00:00
+
+ ## Zeus Slot ☄️ Login Zeus Slot X500 Gampang Keluar Hari Ini Resmi Terpercaya
+ - [https://zeus-slot.devsoft.co.ao](https://zeus-slot.devsoft.co.ao)
+ - date_published: 2024-05-28T08:45:18+00:00
+
  ## Zero Data App
  - [https://0data.app](https://0data.app)
  - date_published: 2024-06-03T11:18:00.880792+00:00
@@ -3407,6 +3518,10 @@
  ## Chronophoto
  - [https://www.chronophoto.app](https://www.chronophoto.app)
  - date_published: 2023-10-25T11:45:47.691138+00:00
+
+ ## Show HN: A keyboard-centric clipboard history app for macOS
+ - [https://clipbook.app](https://clipbook.app)
+ - date_published: 2024-06-11T16:40:12+00:00
 
  ## ClubHopr
  - [https://clubhopr.app](https://clubhopr.app)
@@ -3654,6 +3769,10 @@
  - [https://downloads.filestash.app](https://downloads.filestash.app)
  - date_published: 2024-05-14T03:31:31.695587+00:00
 
+ ## Filestash
+ - [http://filestash.app](http://filestash.app)
+ - date_published: 2023-05-01T00:00:00+00:00
+
  ## Filestash — Self-hosted client for your data
  - [https://www.filestash.app](https://www.filestash.app)
  - date_published: 2023-10-25T11:46:29.675741+00:00
@@ -3671,6 +3790,10 @@
  - [https://floorp.app](https://floorp.app)
  - date_published: 2024-01-09T02:23:28.716049+00:00
  - tags: ['web browser']
+
+ ## Flowershow
+ - [https://flowershow.app](https://flowershow.app)
+ - date_published: 2024-06-12T06:04:06.349932+00:00
 
  ## forms.app: Online Form Builder
  - [https://forms.app](https://forms.app)
@@ -3708,6 +3831,10 @@
  - [https://www.getcho.app](https://www.getcho.app)
  - date_published: 2024-05-04T10:01:50.872779+00:00
 
+ ## gumdrop
+ - [https://www.getgumdrop.app](https://www.getgumdrop.app)
+ - date_published: 2024-06-10T12:48:23.633923+00:00
+
  ## Landscape - Mountaineering and Alpine Climbing App
  - [https://getlandscape.app](https://getlandscape.app)
  - date_published: 2024-05-06T21:34:12.949335+00:00
@@ -3726,7 +3853,8 @@
 
  ## UTM
  - [https://getutm.app](https://getutm.app)
- - date_published: 2024-05-07T16:11:05.520372+00:00
+ - date_published: 2023-05-01T17:37:17+00:00
+ - tags: ['risc-v', 'arm64', 'x86_64', 'emulator', 'virtualization']
 
  ## Guide - Whisky Documentation
  - [https://docs.getwhisky.app](https://docs.getwhisky.app)
@@ -3863,6 +3991,10 @@
  - [https://knock.app](https://knock.app)
  - date_published: 2023-12-12T22:57:59.485222+00:00
 
+ ## Kolo – Generate working tests, instantly
+ - [https://www.kolo.app](https://www.kolo.app)
+ - date_published: 2024-06-11T09:07:49.177575+00:00
+
  ## Umami
  - [https://umami-maurice.koyeb.app](https://umami-maurice.koyeb.app)
  - date_published: 2024-04-29T06:25:50.745749+00:00
@@ -3918,7 +4050,7 @@
  ## Linkwarden
  - [https://linkwarden.app](https://linkwarden.app)
  - date_published: 2024-04-08T19:29:29.155254+00:00
- - tags: ['self-host', 'link aggregator', 'internet archive']
+ - tags: ['self-host', 'link aggregator', 'bookmark manager', 'internet archive']
 
  ## Listen and publish YouTube shows as podcasts - Listenbox
  - [https://listenbox.app](https://listenbox.app)
@@ -3940,138 +4072,4 @@
  ## Show HN: I created an app for you to be a more unpredictable romantic partner
  - [https://www.lovefuel.app](https://www.lovefuel.app)
  - date_published: 2024-05-12T19:14:39+00:00
-
- ## Lowercase – A simple way to take and share notes
- - [https://www.lowercase.app](https://www.lowercase.app)
- - date_published: 2024-05-03T14:39:49+00:00
- - tags: ['online tool', 'notes', 'monetization']
-
- ## Lucid visual collaboration suite: Log in
- - [https://lucid.app](https://lucid.app)
- - date_published: 2024-05-06T14:03:14.137469+00:00
-
- ## LunaSea – Self-Hosted Controller
- - [https://www.lunasea.app](https://www.lunasea.app)
- - date_published: 2021-01-14T00:00:00+00:00
-
- ## Lunette
- - [https://lunette.app](https://lunette.app)
- - date_published: 2023-10-25T11:47:04.152892+00:00
-
- ## Lungy App: Next-Gen Breathing Exercises
- - [https://www.lungy.app](https://www.lungy.app)
- - date_published: 2023-10-25T11:47:06.937675+00:00
-
- ## MAC Address Vendor Lookup | MAC Address Lookup
- - [https://maclookup.app](https://maclookup.app)
- - date_published: 2023-10-25T11:47:09.365217+00:00
-
- ## Infinite Mac
- - [https://macos8.app](https://macos8.app)
- - date_published: 2024-05-08T08:45:17.713590+00:00
-
- ## Infinite Mac
- - [https://macos9.app](https://macos9.app)
- - date_published: 2023-10-25T11:47:10.340547+00:00
-
- ## Mailcoach, the affordable, privacy-first email marketing service
- - [https://mailcoach.app](https://mailcoach.app)
- - date_published: 2023-10-25T11:47:12.630480+00:00
-
- ## The Calm Inbox: Introducing the new Mail Pilot
- - [https://mailpilot.app](https://mailpilot.app)
- - date_published: 2023-09-30T00:00:00+00:00
-
- ## Stop making Linux distributions, make applications instead
- - [https://makealinux.app](https://makealinux.app)
- - date_published: 2023-12-09T16:50:49+00:00
-
- ## Manyfold
- - [https://manyfold.app](https://manyfold.app)
- - date_published: 2024-04-08T19:29:35.002124+00:00
- - tags: ['self-host', '3d file library']
-
- ## Manyfold
- - [https://try.manyfold.app](https://try.manyfold.app)
- - date_published: 2024-05-14T03:49:54.307225+00:00
-
- ## marimo | a next-generation Python notebook
- - [https://marimo.app](https://marimo.app)
- - date_published: 2024-02-29T18:41:02.482986+00:00
-
- ## Marp: Markdown Presentation Ecosystem
- - [https://marp.app](https://marp.app)
- - date_published: 2023-10-25T11:47:16.353357+00:00
-
- ## Mava - Customer Support for Communities
- - [https://mava.app](https://mava.app)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## MeetSpace - Home
- - [https://meetspace.app](https://meetspace.app)
- - date_published: 2024-05-08T12:18:20.114776+00:00
-
- ## Mikage: A 3DS emulator for PC & Android
- - [https://mikage.app](https://mikage.app)
- - date_published: 2024-03-06T20:59:32.532890+00:00
- - tags: ['3ds', 'emulator']
-
- ## Mind Garden - A better way to share notes
- - [https://mindgarden.app](https://mindgarden.app)
- - date_published: 2024-05-02T13:55:18.858481+00:00
-
- ## minidemo
- - [https://www.minidemo.app](https://www.minidemo.app)
- - date_published: 2023-10-25T11:47:17.378371+00:00
-
- ## Miniflux - Minimalist and Opinionated Feed Reader
- - [https://miniflux.app](https://miniflux.app)
- - date_published: 2024-04-08T19:29:50.205632+00:00
- - tags: ['self-host', 'rss']
-
- ## Sign In - Miniflux
- - [https://reader.miniflux.app](https://reader.miniflux.app)
- - date_published: 2024-05-14T03:51:09.108854+00:00
-
- ## Miniflux Hosting
- - [https://status.miniflux.app](https://status.miniflux.app)
- - date_published: 2024-05-14T03:51:07.630206+00:00
-
- ## Minimal | Writing + Notes
- - [https://minimal.app](https://minimal.app)
- - date_published: 2023-10-25T11:47:19.318703+00:00
-
- ## MinimalChat
- - [https://minimalgpt.app](https://minimalgpt.app)
- - date_published: 2024-04-21T20:46:14.448048+00:00
- - tags: ['llm', 'artificial intelligence bot', 'open source']
-
- ## Okapi Documentation - Okapi Documentation
- - [https://okapi.mintlify.app](https://okapi.mintlify.app)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Mixing Station
- - [https://mixingstation.app](https://mixingstation.app)
- - date_published: 2024-05-02T12:50:30.184476+00:00
-
- ## Mixpost Documentation | Mixpost Documentation
- - [https://docs.mixpost.app](https://docs.mixpost.app)
- - date_published: 2024-05-14T03:51:14.763618+00:00
-
- ## Self-hosted, Open Source Social Media Management - Mixpost
- - [https://mixpost.app](https://mixpost.app)
- - date_published: 2024-04-08T19:29:51.366167+00:00
- - tags: ['social media', 'self-host']
-
- ## Mixpost Roadmap
- - [https://roadmap.mixpost.app](https://roadmap.mixpost.app)
- - date_published: 2024-05-14T03:51:14.164609+00:00
-
- ## Монетал - Учет расходов
- - [https://monetal.app](https://monetal.app)
- - date_published: 2023-10-25T11:47:20.214755+00:00
-
- ## MonsterWriter - A Pleasant Way to Write a Thesis or Article
- - [https://www.monsterwriter.app](https://www.monsterwriter.app)
- - date_published: 2023-10-25T11:47:21.821251+00:00
 
