@@ -75,6 +75,10 @@
  - [https://hyperlink.academy](https://hyperlink.academy)
  - date_published: 2024-05-04T13:59:30.788023+00:00
 
+ ## Inner Compass // Life Design Academy
+ - [http://www.innercompass.academy](http://www.innercompass.academy)
+ - date_published: 2024-04-19T00:00:00+00:00
+
  ## Kt. Academy
  - [https://kt.academy](https://kt.academy)
  - date_published: 2023-10-25T11:36:04.338918+00:00
@@ -237,6 +241,10 @@
  - [https://www.atrc.gov.ae](https://www.atrc.gov.ae)
  - date_published: 2024-05-09T02:34:55.219153+00:00
 
+ ## Open Data UAE
+ - [https://opendata.fcsc.gov.ae](https://opendata.fcsc.gov.ae)
+ - date_published: 2024-06-12T12:52:03.334048+00:00
+
  ## ACI World - The Voice of the World's Airports
  - [https://aci.aero](https://aci.aero)
  - date_published: 2021-04-07T00:00:00+00:00
@@ -326,6 +334,10 @@
  ## Zindi
  - [https://zindi.africa](https://zindi.africa)
  - date_published: 2024-05-10T05:00:39.914326+00:00
+
+ ## Planeta W Gestão de Marcas
+ - [https://planetaw.ag](https://planetaw.ag)
+ - date_published: 2024-06-12T13:17:04.908350+00:00
 
  ## Predrag Gruevski's blog and personal site.
  - [https://predr.ag](https://predr.ag)
@@ -449,6 +461,10 @@
  ## Agenthost.ai - Turn your AI Chatbot into a business
  - [https://www.agenthost.ai](https://www.agenthost.ai)
  - date_published: 2024-03-30T07:42:12.102692+00:00
+
+ ## Log in | Airtrain
+ - [https://app.airtrain.ai](https://app.airtrain.ai)
+ - date_published: 2024-06-12T20:13:18.861555+00:00
 
  ## alphaMountain | Domain Threat Intel, IP Reputation & Classification
  - [https://www.alphamountain.ai](https://www.alphamountain.ai)
@@ -1369,6 +1385,10 @@
  - [https://haist.ai](https://haist.ai)
  - date_published: 2024-05-08T09:51:36.201282+00:00
 
+ ## Hamming - Eval-driven development made simple
+ - [https://hamming.ai](https://hamming.ai)
+ - date_published: 2024-06-12T11:04:18.172529+00:00
+
  ## Harambe AI Token Presale
  - [https://harambetoken.ai](https://harambetoken.ai)
  - date_published: 2024-05-05T00:00:00+00:00
@@ -2093,6 +2113,10 @@
  - [https://outropy.ai](https://outropy.ai)
  - date_published: 2024-05-11T10:39:10.616026+00:00
 
+ ## Overwatch = real-time, global understanding
+ - [https://www.overwatchdata.ai](https://www.overwatchdata.ai)
+ - date_published: 2024-04-11T00:00:00+00:00
+
  ## Oxen.ai
  - [https://blog.oxen.ai](https://blog.oxen.ai)
  - date_published: 2023-11-27T04:06:39.316301+00:00
@@ -2556,6 +2580,10 @@
  ## Create a Simple Blog in seconds, Post From Google Docs, Office 365.
  - [https://simpleblog.ai](https://simpleblog.ai)
  - date_published: 2023-10-25T11:42:46.174552+00:00
+
+ ## Introduction - SITUATIONAL AWARENESS: The Decade Ahead
+ - [https://situational-awareness.ai](https://situational-awareness.ai)
+ - date_published: 2024-06-12T23:57:53.496867+00:00
 
  ## Sketch Logo AI
  - [https://www.sketchlogo.ai](https://www.sketchlogo.ai)
@@ -3795,6 +3823,10 @@
  - [https://flowershow.app](https://flowershow.app)
  - date_published: 2024-06-12T06:04:06.349932+00:00
 
+ ## FL Studio: Professional Music Production Software
+ - [https://flstudio.app](https://flstudio.app)
+ - date_published: 2024-04-16T15:33:18+00:00
+
  ## forms.app: Online Form Builder
  - [https://forms.app](https://forms.app)
  - date_published: 2024-05-06T14:27:30.513023+00:00
@@ -4038,38 +4070,4 @@
  ## Linkwarden
  - [https://blog.linkwarden.app](https://blog.linkwarden.app)
  - date_published: 2024-03-06T00:00:00+00:00
-
- ## Linkwarden
- - [https://cloud.linkwarden.app](https://cloud.linkwarden.app)
- - date_published: 2024-05-14T03:49:12.485860+00:00
-
- ## Linkwarden
- - [https://docs.linkwarden.app](https://docs.linkwarden.app)
- - date_published: 2024-05-14T03:49:09.242508+00:00
-
- ## Linkwarden
- - [https://linkwarden.app](https://linkwarden.app)
- - date_published: 2024-04-08T19:29:29.155254+00:00
- - tags: ['self-host', 'link aggregator', 'bookmark manager', 'internet archive']
-
- ## Listen and publish YouTube shows as podcasts - Listenbox
- - [https://listenbox.app](https://listenbox.app)
- - date_published: 2024-05-12T06:23:26.569730+00:00
-
- ## listmonk - Mailing list
- - [https://demo.listmonk.app](https://demo.listmonk.app)
- - date_published: 2024-05-14T03:49:19.242863+00:00
-
- ## listmonk - Free and open source self-hosted newsletter, mailing list manager, and transactional mails
- - [https://listmonk.app](https://listmonk.app)
- - date_published: 2024-02-04T00:00:00+00:00
- - tags: ['self-host', 'open source']
-
- ## Taiki Radio
- - [https://lofimusic.app](https://lofimusic.app)
- - date_published: 2024-04-29T07:45:26.290737+00:00
-
- ## Show HN: I created an app for you to be a more unpredictable romantic partner
- - [https://www.lovefuel.app](https://www.lovefuel.app)
- - date_published: 2024-05-12T19:14:39+00:00
 

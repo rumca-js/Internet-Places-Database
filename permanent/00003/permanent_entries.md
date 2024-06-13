@@ -1,3 +1,445 @@
+ ## ℤ→ℤ
+ - [https://ztoz.blog](https://ztoz.blog)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## deck.blue
+ - [https://deck.blue](https://deck.blue)
+ - date_published: 2024-05-02T13:43:30.287593+00:00
+
+ ## Project MIRACLE
+ - [https://miracle.blue](https://miracle.blue)
+ - date_published: 2024-05-10T06:12:41.006662+00:00
+
+ ## BlueSCSI - A hardware SCSI HDD & CD-ROM emulator
+ - [https://scsi.blue](https://scsi.blue)
+ - date_published: 2024-05-08T08:58:04.469629+00:00
+
+ ## Matt Steele
+ - [https://steele.blue](https://steele.blue)
+ - date_published: 2023-10-25T12:07:42.553308+00:00
+
+ ## sub.blue
+ - [http://sub.blue](http://sub.blue)
+ - date_published: 2024-05-29T20:58:01.609616+00:00
+ - tags: ['interesting page design', 'personal']
+
+ ## Citroen Brunei : Auto and new car for sale
+ - [https://www.citroen.com.bn](https://www.citroen.com.bn)
+ - date_published: 2023-12-11T16:01:17.353726+00:00
+
+ ## Banque BNP Paribas | La banque d'un monde qui change
+ - [https://group.bnpparibas](https://group.bnpparibas)
+ - date_published: 2024-05-04T15:44:27.044354+00:00
+
+ ## Source d'Histoire BNP Paribas : 2 siècles d'archives
+ - [https://histoire.bnpparibas](https://histoire.bnpparibas)
+ - date_published: 2024-01-22T00:00:00+00:00
+ - tags: ['bank']
+
+ ## Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más
+ - [https://www.airbnb.com.bo](https://www.airbnb.com.bo)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Inicio - Great Place To Work
+ - [https://www.greatplacetowork.com.bo](https://www.greatplacetowork.com.bo)
+ - date_published: 2024-06-12T10:41:43.076321+00:00
+
+ ## SANTILLANA Bolivia
+ - [https://santillana.com.bo](https://santillana.com.bo)
+ - date_published: 2024-06-12T13:05:35.679730+00:00
+
+ ## SANTILLANA Bolivia
+ - [https://www.santillana.com.bo](https://www.santillana.com.bo)
+ - date_published: 2024-06-12T12:55:36.618511+00:00
+
+ ## Donde sea que te encuentres,  Visa está contigo.
+ - [https://www.visa.com.bo](https://www.visa.com.bo)
+ - date_published: 2024-05-12T03:58:34.058668+00:00
+
+ ## Noticias de conservación ambiental en Bolivia
+ - [https://www.wwf.org.bo](https://www.wwf.org.bo)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Without boats, dreams dry up
+ - [https://without.boats](https://without.boats)
+ - date_published: 2023-10-25T12:02:01.933989+00:00
+
+ ## Cierpliwości...
+ - [http://www.namesilo.bond](http://www.namesilo.bond)
+ - date_published: 2024-05-01T05:45:52.072724+00:00
+
+ ## Claim your own spooky or sweet domain | hey.boo
+ - [https://hey.boo](https://hey.boo)
+ - date_published: 2024-05-10T05:46:44.992017+00:00
+
+ ## sodi.boo
+ - [https://sodi.boo](https://sodi.boo)
+ - date_published: 2024-05-23T06:40:31.381770+00:00
+ - tags: ['personal']
+
+ ## Show HN: Gobble Bot
+ - [https://gobble.bot](https://gobble.bot)
+ - date_published: 2023-12-03T12:57:13+00:00
+
+ ## Audit Boutique
+ - [https://audit.boutique](https://audit.boutique)
+ - date_published: 2024-04-30T05:58:16.745696+00:00
+
+ ## Portfolio
+ - [https://cardume.art.br](https://cardume.art.br)
+ - date_published: 2024-01-09T02:26:44.691691+00:00
+
+ ## Página Inicial
+ - [http://www.cnpq.br](http://www.cnpq.br)
+ - date_published: 2024-05-11T08:08:09.177336+00:00
+
+ ## Fundação de Amparo à Pesquisa do Estado de Minas Gerais
+ - [http://www.fapemig.br](http://www.fapemig.br)
+ - date_published: 2024-05-11T08:08:13.082628+00:00
+
+ ## Agência FAPESP
+ - [https://agencia.fapesp.br](https://agencia.fapesp.br)
+ - date_published: 2024-01-05T15:18:41.204636+00:00
+
+ ## Login
+ - [https://assinador.iti.br](https://assinador.iti.br)
+ - date_published: 2024-05-10T03:45:53.589618+00:00
+
+ ## Núcleo de Informação e Coordenação do Ponto BR - Início
+ - [https://www.nic.br](https://www.nic.br)
+ - date_published: 2024-05-14T03:51:51.865000+00:00
+
+ ## PUC-Rio - Pontifícia Universidade Católica do Rio de Janeiro
+ - [https://www.puc-rio.br](https://www.puc-rio.br)
+ - date_published: 2024-05-08T09:46:24.884177+00:00
+
+ ## Tecgraf, PUC-Rio
+ - [https://www.tecgraf.puc-rio.br](https://www.tecgraf.puc-rio.br)
+ - date_published: 2023-10-25T12:02:07.692461+00:00
+
+ ## Registro.br
+ - [https://registro.br](https://registro.br)
+ - date_published: 2024-05-01T06:42:03.573779+00:00
+
+ ## Simepar
+ - [http://www.simepar.br](http://www.simepar.br)
+ - date_published: 2024-06-12T11:18:45.164578+00:00
+
+ ## Softex
+ - [http://www.ftp.softex.br](http://www.ftp.softex.br)
+ - date_published: 2024-06-12T11:17:22.624511+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [http://www2.ic.uff.br](http://www2.ic.uff.br)
+ - date_published: 2024-05-06T13:35:12.673644+00:00
+
+ ## atoba.fisica.ufmg.br
+ - [http://atoba.fisica.ufmg.br](http://atoba.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:08:47.217872+00:00
+
+ ## Sala de Demonstrações de Física - UFMG
+ - [http://demonstracoes.fisica.ufmg.br](http://demonstracoes.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:09:12.771306+00:00
+
+ ## LCPNano - Física/UFMG
+ - [http://lcpnano.ufmg.br](http://lcpnano.ufmg.br)
+ - date_published: 2024-05-11T08:08:57.602511+00:00
+
+ ## Física - UFMG -Site secundario
+ - [https://lilith.fisica.ufmg.br](https://lilith.fisica.ufmg.br)
+ - date_published: 2024-03-18T22:49:00.695043+00:00
+
+ ## SSO - minhaUFMG
+ - [http://minha.ufmg.br](http://minha.ufmg.br)
+ - date_published: 2024-05-11T08:08:00.331088+00:00
+
+ ## SGSED - Sistema de Encargos Didáticos
+ - [http://sgsed.fisica.ufmg.br](http://sgsed.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:08:42.754957+00:00
+
+ ## .
+ - [http://tupi.fisica.ufmg.br](http://tupi.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:09:15.884426+00:00
+
+ ## Physics Department - UFMG - Departamento
+ - [http://www.fisica.ufmg.br](http://www.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:08:36.475825+00:00
+
+ ## Fundep
+ - [http://www.fundep.ufmg.br](http://www.fundep.ufmg.br)
+ - date_published: 2024-05-11T08:09:00.660884+00:00
+
+ ## Universidade Federal de Minas Gerais
+ - [http://www.icex.ufmg.br](http://www.icex.ufmg.br)
+ - date_published: 2024-05-11T08:09:23.781459+00:00
+
+ ## LabCri – Laboratório de Cristalografia da UFMG
+ - [http://www.labcri.ufmg.br](http://www.labcri.ufmg.br)
+ - date_published: 2024-05-11T08:08:20.604803+00:00
+
+ ## OBSERVATÓRIO ASTRONÔMICO FREI ROSÁRIO
+ - [http://www.observatorio.ufmg.br](http://www.observatorio.ufmg.br)
+ - date_published: 2024-05-11T08:09:08.436766+00:00
+
+ ## ITU2021 | ML5G PHY
+ - [https://ai5gchallenge.ufpa.br](https://ai5gchallenge.ufpa.br)
+ - date_published: 2024-05-10T05:02:45.114479+00:00
+
+ ## CIn UFPE
+ - [https://www.cin.ufpe.br](https://www.cin.ufpe.br)
+ - date_published: 2024-04-29T07:46:51.033400+00:00
+
+ ## Redes de Computadores e aplicações na
+Educação
+ - [http://penta2.ufrgs.br](http://penta2.ufrgs.br)
+ - date_published: 2024-05-01T04:00:14.718260+00:00
+
+ ## Eventos UFU | Portal de Eventos da Universidade Federal de Uberlândia
+ - [https://eventos.ufu.br](https://eventos.ufu.br)
+ - date_published: 2024-05-10T06:57:17.711249+00:00
+
+ ## Universidade de Brasília - Início
+ - [http://www.unb.br](http://www.unb.br)
+ - date_published: 2024-05-19T02:41:42.253885+00:00
+
+ ## Moodle USP: e-Disciplinas
+ - [https://edisciplinas.usp.br](https://edisciplinas.usp.br)
+ - date_published: 2024-05-06T21:59:53.301285+00:00
+
+ ## NILC
+ - [http://nilc.icmc.usp.br](http://nilc.icmc.usp.br)
+ - date_published: 2024-04-28T03:36:29.997707+00:00
+
+ ## HOME
+ - [https://www.ime.usp.br](https://www.ime.usp.br)
+ - date_published: 2020-10-20T12:40:07+00:00
+
+ ## Loja 3D Lab - Impressão 3D é aqui!
+ - [https://3dlab.com.br](https://3dlab.com.br)
+ - date_published: 2024-05-11T09:35:46.693058+00:00
+
+ ## 80.000 Horas: Como fazer a diferença com a sua carreira
+ - [https://80000horas.com.br](https://80000horas.com.br)
+ - date_published: 2023-12-31T00:00:00+00:00
+
+ ## About Amazon Brasil
+ - [https://www.aboutamazon.com.br](https://www.aboutamazon.com.br)
+ - date_published: 2024-05-01T02:01:36.597204+00:00
+
+ ## Adler Medrado's little piece of turf
+ - [https://adlermedrado.com.br](https://adlermedrado.com.br)
+ - date_published: 2024-02-11T04:54:28.132837+00:00
+ - tags: ['personal']
+
+ ## Home - Vale do Pinhão
+ - [http://valedopinhao.agenciacuritiba.com.br](http://valedopinhao.agenciacuritiba.com.br)
+ - date_published: 2024-06-12T11:25:14.141592+00:00
+
+ ## Home - Agência Curitiba
+ - [http://www.agenciacuritiba.com.br](http://www.agenciacuritiba.com.br)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Home - Vale do Pinhão
+ - [http://www.valedopinhao.agenciacuritiba.com.br](http://www.valedopinhao.agenciacuritiba.com.br)
+ - date_published: 2024-06-12T11:25:10.030446+00:00
+
+ ## Airbnb | Locações por temporada, chalés, casas de praia e muito mais
+ - [https://www.airbnb.com.br](https://www.airbnb.com.br)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Alefe Souza | Training and Consulting
+ - [https://alefesouza.com.br](https://alefesouza.com.br)
+ - date_published: 2024-01-07T00:00:00+00:00
+
+ ## Aliança - Especialista em Logística Integrada
+ - [https://www.alianca.com.br](https://www.alianca.com.br)
+ - date_published: 2024-05-04T13:50:03.029166+00:00
+
+ ## Amazon.com.br | Tudo pra você, de A a Z.
+ - [https://www.amazon.com.br](https://www.amazon.com.br)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## ANSA Brasil
+ - [https://ansabrasil.com.br](https://ansabrasil.com.br)
+ - date_published: 2024-05-06T15:14:38.371552+00:00
+
+ ## HOME - Apema
+ - [https://apema.com.br](https://apema.com.br)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## RadASM assembler IDE
+ - [http://www.assembly.com.br](http://www.assembly.com.br)
+ - date_published: 2024-04-25T18:39:26.645719+00:00
+ - tags: ['programming ide', 'assembly']
+
+ ## Assine Coquetel
+ - [https://assinecoquetel.com.br](https://assinecoquetel.com.br)
+ - date_published: 2024-05-10T07:03:26.697586+00:00
+
+ ## Audible | Audible.com.br
+ - [https://www.audible.com.br](https://www.audible.com.br)
+ - date_published: 2024-05-27T07:40:04.946488+00:00
+
+ ## Awari - Cursos Online com Mentoria
+ - [https://awari.com.br](https://awari.com.br)
+ - date_published: 2024-05-10T06:47:10.475964+00:00
+
+ ## Beleza Natural
+ - [https://www.belezanatural.com.br](https://www.belezanatural.com.br)
+ - date_published: 2024-05-10T06:56:38.618004+00:00
+
+ ## Ripio Trade
+ - [https://bitcointrade.com.br](https://bitcointrade.com.br)
+ - date_published: 2024-05-01T07:26:56.364071+00:00
+
+ ## Bitrix24 - darmowa przestrzeń robocza dla Twojego biznesu: CRM, zadania, spotkania online i nie tylko.
+ - [https://www.bitrix24.com.br](https://www.bitrix24.com.br)
+ - date_published: 2024-05-12T03:57:46.635766+00:00
+
+ ## Blocos Online
+ - [http://www.blocosonline.com.br](http://www.blocosonline.com.br)
+ - date_published: 2024-05-10T06:16:12.131479+00:00
+
+ ## Galera Record
+ - [http://galerarecord.blogspot.com.br](http://galerarecord.blogspot.com.br)
+ - date_published: 2024-05-10T06:57:46.657878+00:00
+
+ ## Brazil
+ - [https://www.boeing.com.br](https://www.boeing.com.br)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Bright Data - A plataforma de dados da Web nº 1 do mundo
+ - [https://brightdata.com.br](https://brightdata.com.br)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Britannica Education - Parceira na digitalização na educação
+ - [https://britannica.com.br](https://britannica.com.br)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Novo PicPay Consignado: mais rápido e barato
+ - [https://bxblue.com.br](https://bxblue.com.br)
+ - date_published: 2024-05-08T06:16:16.296357+00:00
+
+ ## Canal 3 Expo 2023 - Canal 3 Expo
+ - [https://canal3expo.com.br](https://canal3expo.com.br)
+ - date_published: 2024-05-08T10:33:09.380279+00:00
+
+ ## CASU/UFMG
+ - [https://www.casu.com.br](https://www.casu.com.br)
+ - date_published: 2024-05-11T08:08:40.024641+00:00
+
+ ## Celso Palmeira Neto's HP
+ - [https://celsoneto.com.br](https://celsoneto.com.br)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Citroën Home
+ - [https://www.citroen.com.br](https://www.citroen.com.br)
+ - date_published: 2023-12-11T16:02:47.705230+00:00
+
+ ## Clima & Radar Brasil
+ - [https://www.climaeradar.com.br](https://www.climaeradar.com.br)
+ - date_published: 2024-05-07T13:25:28.245646+00:00
+
+ ## 'Serviços em Cloud Computing | CloudScript'
+ - [https://cloudscript.com.br](https://cloudscript.com.br)
+ - date_published: 2024-05-11T07:03:29.671668+00:00
+
+ ## Resort all-Inclusive: viagens no Brasil e no mundo | Club Med
+ - [https://www.clubmed.com.br](https://www.clubmed.com.br)
+ - date_published: 2024-05-10T06:56:17.662518+00:00
+
+ ## Código Fonte – Tecnologia de [a-Z]
+ - [https://codigofonte.com.br](https://codigofonte.com.br)
+ - date_published: 2024-05-06T14:19:59.313706+00:00
+
+ ## Collabora | Consultoria Open Source
+ - [https://www.collabora.com.br](https://www.collabora.com.br)
+ - date_published: 2024-05-09T06:25:05.176412+00:00
+
+ ## COMARCH - Gestão de fidelização, Intercâmbio eletrônico de dados, Telecomunicações
+ - [https://www.comarch.com.br](https://www.comarch.com.br)
+ - date_published: 2024-05-12T04:00:55.746668+00:00
+
+ ## Compaq
+ - [https://www.compaq.com.br](https://www.compaq.com.br)
+ - date_published: 2024-05-08T06:06:07.424307+00:00
+
+ ## Home | Contract Treinamentos
+ - [http://contracttreinamentos.com.br](http://contracttreinamentos.com.br)
+ - date_published: 2022-12-22T00:00:00+00:00
+
+ ## Jogos grátis online aqui na CrazyGames | Jogue Agora!
+ - [https://www.crazygames.com.br](https://www.crazygames.com.br)
+ - date_published: 2024-05-08T06:51:36.310066+00:00
+
+ ## Cultura Acadêmica – E-books gratuitos
+ - [https://www.culturaacademica.com.br](https://www.culturaacademica.com.br)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Home | My Site
+ - [https://www.culturama.com.br](https://www.culturama.com.br)
+ - date_published: 2024-05-10T06:57:00.183581+00:00
+
+ ## Instituto Municipal de Turismo de Curitiba
+ - [https://curtacuritiba.com.br](https://curtacuritiba.com.br)
+ - date_published: 2024-06-12T11:18:50.421305+00:00
+
+ ## Grupo Juizforano de CW
+ - [http://www.cwjf.com.br](http://www.cwjf.com.br)
+ - date_published: 2024-05-07T09:56:16.240398+00:00
+
+ ## Bug bounty and hacking writeups from past activities
+ - [https://danielv.com.br](https://danielv.com.br)
+ - date_published: 2022-07-20T00:00:00+00:00
+
+ ## Home
+ - [https://www.deif.com.br](https://www.deif.com.br)
+ - date_published: 2024-05-01T04:33:23.594676+00:00
+
+ ## Desenlatar
+ - [http://desenlatar.com.br](http://desenlatar.com.br)
+ - date_published: 2024-05-01T03:58:43.217660+00:00
+
+ ## DigiKey Home
+ - [https://www.digikey.com.br](https://www.digikey.com.br)
+ - date_published: 2024-05-01T05:02:10.808018+00:00
+
+ ## Diogo Cortiz
+ - [https://diogocortiz.com.br](https://diogocortiz.com.br)
+ - date_published: 2024-06-09T17:27:41.530628+00:00
+
+ ## Disney Brasil | O site oficial da Disney
+ - [https://www.disney.com.br](https://www.disney.com.br)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## This Mastodon-Twitter crossposter instance is now offline
+ - [https://crossposter.masto.donte.com.br](https://crossposter.masto.donte.com.br)
+ - date_published: 2024-01-09T02:26:48.543826+00:00
+
+ ## Downdetector
+ - [https://downdetector.com.br](https://downdetector.com.br)
+ - date_published: 2024-05-12T06:29:02.360283+00:00
+
+ ## Cursos, webinars e treinamento para os profissionais online — EBAC Online
+ - [https://ebaconline.com.br](https://ebaconline.com.br)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Agência Gov
+ - [https://agenciagov.ebc.com.br](https://agenciagov.ebc.com.br)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Site em manutenção!
+ - [https://www.ediouro.com.br](https://www.ediouro.com.br)
+ - date_published: 2024-05-10T06:56:48.450857+00:00
+
+ ## Loja Editora Agir
+ - [https://www.editoraagir.com.br](https://www.editoraagir.com.br)
+ - date_published: 2024-05-10T07:03:37.681199+00:00
+
+ ## Loja Editora Pixel
+ - [https://www.editorapixel.com.br](https://www.editorapixel.com.br)
+ - date_published: 2024-05-10T07:03:34.263956+00:00
+
  ## EF Education First | Brasil
  - [https://www.ef.com.br](https://www.ef.com.br)
  - date_published: 2024-05-01T00:00:00+00:00
@@ -47,6 +489,10 @@
  - [http://www.fernandoquadro.com.br](http://www.fernandoquadro.com.br)
  - date_published: 2024-05-12T05:29:24.835086+00:00
 
+ ## FCC - Fundação Cultural de Curitiba
+ - [http://www.fundacaoculturaldecuritiba.com.br](http://www.fundacaoculturaldecuritiba.com.br)
+ - date_published: 2024-06-12T11:18:30.371953+00:00
+
  ## Participate in one of the biggest B2B events in the gaming industry
  - [https://www.gamescom.com.br](https://www.gamescom.com.br)
  - date_published: 2024-05-03T00:00:00+00:00
@@ -58,6 +504,14 @@
  ## Google
  - [https://www.google.com.br](https://www.google.com.br)
  - date_published: 2024-04-28T05:06:34.429158+00:00
+
+ ## Home - GPTW
+ - [http://www.greatplacetowork.com.br](http://www.greatplacetowork.com.br)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Santillana
+ - [https://www.gruposantillana.com.br](https://www.gruposantillana.com.br)
+ - date_published: 2024-06-12T12:55:57.533717+00:00
 
  ## Mods GTA San Andreas
  - [https://www.gta-sa.com.br](https://www.gta-sa.com.br)
@@ -112,6 +566,10 @@
  - [https://www.intrinseca.com.br](https://www.intrinseca.com.br)
  - date_published: 2024-05-10T06:57:10.843398+00:00
 
+ ## Invest Curitiba | Venha para Curitiba
+ - [http://investcuritiba.com.br](http://investcuritiba.com.br)
+ - date_published: 2024-03-06T00:00:00+00:00
+
  ## Jo Nakashima
  - [https://jonakashima.com.br](https://jonakashima.com.br)
  - date_published: 2024-05-02T09:39:51.879042+00:00
@@ -155,9 +613,29 @@
  - [https://www.mercadobitcoin.com.br](https://www.mercadobitcoin.com.br)
  - date_published: 2024-05-01T06:55:39.097619+00:00
 
+ ## Pedido Web Moderna
+ - [https://loja.moderna.com.br](https://loja.moderna.com.br)
+ - date_published: 2024-06-12T13:04:13.082783+00:00
+
+ ## Redes Moderna
+ - [https://redes.moderna.com.br](https://redes.moderna.com.br)
+ - date_published: 2024-06-12T13:04:11.253116+00:00
+
+ ## Home - Território da Leitura - Editora Moderna
+ - [https://territoriodaleitura.moderna.com.br](https://territoriodaleitura.moderna.com.br)
+ - date_published: 2024-06-12T13:04:00.985432+00:00
+
+ ## Santillana
+ - [https://web.moderna.com.br](https://web.moderna.com.br)
+ - date_published: 2024-06-12T13:04:06.530141+00:00
+
  ## Editora Moderna
  - [https://www.moderna.com.br](https://www.moderna.com.br)
  - date_published: 2024-06-12T06:05:10.259252+00:00
+
+ ## Home
+ - [https://www.modernacompartilha.com.br](https://www.modernacompartilha.com.br)
+ - date_published: 2024-01-19T00:00:00+00:00
 
  ## Central de Conhecimento
  - [https://ajuda.nordinvestimentos.com.br](https://ajuda.nordinvestimentos.com.br)
@@ -224,6 +702,10 @@
  - [https://retropolis.com.br](https://retropolis.com.br)
  - date_published: 2024-05-08T04:06:37.967708+00:00
 
+ ## Portal Richmond
+ - [http://www.richmond.com.br](http://www.richmond.com.br)
+ - date_published: 2024-06-12T13:02:44.833617+00:00
+
  ## Editora Rocco – Loja virtual da Editora Rocco
  - [https://www.rocco.com.br](https://www.rocco.com.br)
  - date_published: 2024-05-12T05:44:54.068899+00:00
@@ -231,6 +713,14 @@
  ## Soluções Santander para você. Abrir conta corrente, pedir cartão de crédito, solicitar empréstimo e mais.
  - [https://www.santander.com.br](https://www.santander.com.br)
  - date_published: 2024-05-01T06:16:49.087723+00:00
+
+ ## Santillana
+ - [https://www.santillana.com.br](https://www.santillana.com.br)
+ - date_published: 2024-06-12T13:06:22.843415+00:00
+
+ ## Portal Santillana
+ - [https://www.santillanaespanol.com.br](https://www.santillanaespanol.com.br)
+ - date_published: 2024-06-12T13:04:16.037536+00:00
 
  ## Sethi3D
  - [https://www.sethi.com.br](https://www.sethi.com.br)
@@ -296,6 +786,10 @@
  - [https://www1.folha.uol.com.br](https://www1.folha.uol.com.br)
  - date_published: 2023-11-18T08:17:46.153355+00:00
 
+ ## Home - Vale do Pinhão
+ - [http://www.valedopinhao.com.br](http://www.valedopinhao.com.br)
+ - date_published: 2024-06-12T11:20:08.862192+00:00
+
  ## Compañías Velcro - Sistemas de Sujeição de gancho e argola
  - [https://www.velcro.com.br](https://www.velcro.com.br)
  - date_published: 2024-02-14T00:00:00+00:00
@@ -324,9 +818,17 @@
  - [https://www.wondershare.com.br](https://www.wondershare.com.br)
  - date_published: 2024-05-11T08:34:39.990969+00:00
 
+ ## Home - Worktiba
+ - [http://worktiba.com.br](http://worktiba.com.br)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## Yelp
  - [https://www.yelp.com.br](https://www.yelp.com.br)
  - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Home - Bom Negócio
+ - [http://www.bomnegocio.curitiba.br](http://www.bomnegocio.curitiba.br)
+ - date_published: 2024-02-29T00:00:00+00:00
 
  ## calebe.dev.br
  - [https://blog.calebe.dev.br](https://blog.calebe.dev.br)
@@ -367,6 +869,14 @@
  ## Finep - Início
  - [http://www.finep.gov.br](http://www.finep.gov.br)
  - date_published: 2024-05-11T08:08:50.663796+00:00
+
+ ## PRESIDÊNCIA DA REPÚBLICA
+ - [http://www.planalto.gov.br](http://www.planalto.gov.br)
+ - date_published: 2024-06-12T11:18:07.812245+00:00
+
+ ## PRESIDÊNCIA DA REPÚBLICA
+ - [http://www.presidencia.gov.br](http://www.presidencia.gov.br)
+ - date_published: 2024-06-12T11:17:42.018552+00:00
 
  ## API RecomGov
  - [https://api.recomgov.df-1.estaleiro.serpro.gov.br](https://api.recomgov.df-1.estaleiro.serpro.gov.br)
@@ -419,16 +929,44 @@
  - date_published: 2024-05-07T20:15:39.987342+00:00
 
  ## ANM - Academia Nacional de Medicina - :
+ - [https://anm.org.br](https://anm.org.br)
+ - date_published: 2024-06-12T13:17:10.907097+00:00
+
+ ## ANM - Academia Nacional de Medicina - :
  - [https://www.anm.org.br](https://www.anm.org.br)
  - date_published: 2024-06-12T06:11:45.871338+00:00
 
+ ## Central de Atendimento 156
+ - [http://www.central156.org.br](http://www.central156.org.br)
+ - date_published: 2024-06-12T11:19:42.908816+00:00
+
+ ## Portal do Instituto das Cidades Inteligentes
+ - [https://cidadesinteligentes.org.br](https://cidadesinteligentes.org.br)
+ - date_published: 2024-06-12T11:17:39.012950+00:00
+
+ ## ICI Carreiras - Instituto das Cidades Inteligentes
+ - [https://carreiras.ici.curitiba.org.br](https://carreiras.ici.curitiba.org.br)
+ - date_published: 2024-06-12T11:17:29.011098+00:00
+
  ## CDN ICI
  - [https://cdn.ici.curitiba.org.br](https://cdn.ici.curitiba.org.br)
- - date_published: 2024-06-12T03:30:18.764410+00:00
+ - date_published: 2019-02-06T16:17:26+00:00
 
  ## Portal do Instituto das Cidades Inteligentes
  - [https://ici.curitiba.org.br](https://ici.curitiba.org.br)
  - date_published: 2024-06-12T03:30:14.046448+00:00
+
+ ## ICI - Instituto das Cidades Inteligentes
+ - [http://servicedesk.ici.curitiba.org.br](http://servicedesk.ici.curitiba.org.br)
+ - date_published: 2024-06-12T11:19:37.807369+00:00
+
+ ## ICI | Login
+ - [https://service.ici.curitiba.org.br](https://service.ici.curitiba.org.br)
+ - date_published: 2024-06-12T11:19:25.802005+00:00
+
+ ## Portal do Instituto das Cidades Inteligentes
+ - [https://www.ici.curitiba.org.br](https://www.ici.curitiba.org.br)
+ - date_published: 2024-06-12T08:33:44.565078+00:00
 
  ## Escravo, nem pensar!
  - [https://escravonempensar.org.br](https://escravonempensar.org.br)
@@ -437,6 +975,14 @@
  ## Escravo, nem pensar!
  - [https://www.escravonempensar.org.br](https://www.escravonempensar.org.br)
  - date_published: 2024-01-09T02:26:57.139425+00:00
+
+ ## Home
+ - [https://www.estrategiaods.org.br](https://www.estrategiaods.org.br)
+ - date_published: 2024-06-12T11:17:25.476740+00:00
+
+ ## Página Inicial - Fundação Santillana
+ - [https://fundacaosantillana.org.br](https://fundacaosantillana.org.br)
+ - date_published: 2024-05-15T00:00:00+00:00
 
  ## ICOM Brasil
  - [http://www.icom.org.br](http://www.icom.org.br)
@@ -456,6 +1002,10 @@
  - [https://ipam.org.br](https://ipam.org.br)
  - date_published: 2024-05-10T02:49:03.266225+00:00
 
+ ## IPPUC | Prefeitura Municipal de Curitiba
+ - [https://ippuc.org.br](https://ippuc.org.br)
+ - date_published: 2024-06-12T11:18:33.045868+00:00
+
  ## Utag –  Unidade Técnico-Administrativa de Gerenciamento
  - [https://utag.ippuc.org.br](https://utag.ippuc.org.br)
  - date_published: 2024-06-12T03:30:42.682396+00:00
@@ -472,6 +1022,10 @@
  ## Museu do Amanhã
  - [https://museudoamanha.org.br](https://museudoamanha.org.br)
  - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Home - Open Knowledge Brasil
+ - [https://go.ok.org.br](https://go.ok.org.br)
+ - date_published: 2024-06-12T12:34:04.833924+00:00
 
  ## Home - Open Knowledge Brasil
  - [https://ok.org.br](https://ok.org.br)
@@ -529,9 +1083,17 @@
  - [https://www.wwf.org.br](https://www.wwf.org.br)
  - date_published: 2024-05-07T23:56:56.112200+00:00
 
+ ## Página Inicial — Portal da Câmara Municipal de Curitiba
+ - [http://www.cmc.pr.gov.br](http://www.cmc.pr.gov.br)
+ - date_published: 2024-06-12T00:00:00+00:00
+
  ## Central de Atendimento 156
  - [https://156.curitiba.pr.gov.br](https://156.curitiba.pr.gov.br)
  - date_published: 2024-06-12T03:30:24.570844+00:00
+
+ ## Coleta de Lixo - Prefeitura de Curitiba
+ - [http://coletalixo.curitiba.pr.gov.br](http://coletalixo.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:22.191362+00:00
 
  ## Comunicação Social - Prefeitura de Curitiba
  - [https://comunicacao.curitiba.pr.gov.br](https://comunicacao.curitiba.pr.gov.br)
@@ -541,9 +1103,21 @@
  - [https://controladoria.curitiba.pr.gov.br](https://controladoria.curitiba.pr.gov.br)
  - date_published: 2024-06-12T03:30:06.297486+00:00
 
+ ## ImunizaJáCuritiba - Prefeitura de Curitiba
+ - [https://coronavirus.curitiba.pr.gov.br](https://coronavirus.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:17:53.636747+00:00
+
  ## Prefeitura Municipal de Curitiba
  - [https://curitiba.pr.gov.br](https://curitiba.pr.gov.br)
  - date_published: 2024-06-12T03:30:09.478209+00:00
+
+ ## Secretaria Municipal da Educação
+ - [https://educacao.curitiba.pr.gov.br](https://educacao.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:18.932345+00:00
+
+ ## Fala Curitiba - Prefeitura de Curitiba
+ - [https://fala.curitiba.pr.gov.br](https://fala.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:10.734623+00:00
 
  ## Gabinete do Prefeito - Prefeitura de Curitiba
  - [https://gabineteprefeito.curitiba.pr.gov.br](https://gabineteprefeito.curitiba.pr.gov.br)
@@ -557,6 +1131,14 @@
  - [https://guia.curitiba.pr.gov.br](https://guia.curitiba.pr.gov.br)
  - date_published: 2024-06-12T03:30:49.203800+00:00
 
+ ## Home Page - ICICore.Servidor
+ - [https://hubchat-siac156.curitiba.pr.gov.br](https://hubchat-siac156.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:23.930507+00:00
+
+ ## IMAP
+ - [http://imap.curitiba.pr.gov.br](http://imap.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:17:11.734092+00:00
+
  ## Consulta Externa de Atos
  - [https://legisladocexterno.curitiba.pr.gov.br](https://legisladocexterno.curitiba.pr.gov.br)
  - date_published: 2024-06-12T03:30:27.832937+00:00
@@ -565,9 +1147,29 @@
  - [https://mid-guia.curitiba.pr.gov.br](https://mid-guia.curitiba.pr.gov.br)
  - date_published: 2024-06-12T03:30:43.588967+00:00
 
+ ## mid-servidor.curitiba.pr.gov.br - /
+ - [https://mid-servidor.curitiba.pr.gov.br](https://mid-servidor.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:19:55.374914+00:00
+
+ ## Turismo - Prefeitura de Curitiba
+ - [https://mid-turismo.curitiba.pr.gov.br](https://mid-turismo.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:52.463670+00:00
+
+ ## Orçamento e Planejamento
+ - [https://orcamentos.curitiba.pr.gov.br](https://orcamentos.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:01.327323+00:00
+
+ ## Portal dos Conselhos
+ - [http://portaldosconselhos.curitiba.pr.gov.br](http://portaldosconselhos.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:05.549511+00:00
+
  ## Portal do Servidor de Curitiba
  - [https://servidor.curitiba.pr.gov.br](https://servidor.curitiba.pr.gov.br)
  - date_published: 2024-06-12T03:30:57.625983+00:00
+
+ ## Trânsito - Secretaria Municipal de Defesa Social e Trânsito
+ - [https://transito.curitiba.pr.gov.br](https://transito.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:28.545524+00:00
 
  ## Instituto Municipal de Turismo de Curitiba
  - [https://turismo.curitiba.pr.gov.br](https://turismo.curitiba.pr.gov.br)
@@ -584,6 +1186,10 @@
  ## Portal da Transparência da Prefeitura de Curitiba
  - [https://www.transparencia.curitiba.pr.gov.br](https://www.transparencia.curitiba.pr.gov.br)
  - date_published: 2024-06-12T03:30:16.818256+00:00
+
+ ## URBS - Urbanização de Curitiba
+ - [https://www.urbs.curitiba.pr.gov.br](https://www.urbs.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:17:58.059160+00:00
 
  ## Paulo Ghiraldelli
  - [http://ghiraldelli.pro.br](http://ghiraldelli.pro.br)
@@ -718,7 +1324,7 @@
  - date_published: 2024-05-07T13:46:51.482719+00:00
 
  ## Huebee
- - [http://huebee.buzz](http://huebee.buzz)
+ - [https://huebee.buzz](https://huebee.buzz)
  - date_published: 2024-06-12T03:29:49.262892+00:00
 
  ## Andrew Chou
@@ -1648,6 +2254,10 @@
  - [https://alexandermanu.eventbrite.ca](https://alexandermanu.eventbrite.ca)
  - date_published: 2024-06-05T00:00:00+00:00
 
+ ## Prepare to Study, Work, Live, and Migrate to Canada NOW!
+ - [https://cometocanada2024withsun-corkuyas.eventbrite.ca](https://cometocanada2024withsun-corkuyas.eventbrite.ca)
+ - date_published: 2024-08-10T00:00:00+00:00
+
  ## Eventbrite
  - [https://www.eventbrite.ca](https://www.eventbrite.ca)
  - date_published: 2024-02-24T18:11:15.206135+00:00
@@ -1795,6 +2405,10 @@
  - [https://www.grainger.ca](https://www.grainger.ca)
  - date_published: 2024-05-04T08:42:48.913807+00:00
 
+ ## Home | Great Place to Work® Canada
+ - [https://www.greatplacetowork.ca](https://www.greatplacetowork.ca)
+ - date_published: 2024-06-12T00:00:00+00:00
+
  ## HOME - Great West Media
  - [https://www.greatwest.ca](https://www.greatwest.ca)
  - date_published: 2024-04-28T05:09:54.916751+00:00
@@ -1930,6 +2544,10 @@
  ## Welcome - Identi.ca
  - [https://identi.ca](https://identi.ca)
  - date_published: 2024-04-30T05:44:44.767731+00:00
+
+ ## IDRC - International Development Research Centre
+ - [https://idrc-crdi.ca](https://idrc-crdi.ca)
+ - date_published: 2024-06-12T12:33:50.045959+00:00
 
  ## IEEE Toronto Metropolitan University Student Branch – Empower students by bridging the gap between industry and academia
  - [https://ieeetorontomu.ca](https://ieeetorontomu.ca)
@@ -3479,620 +4097,4 @@
  ## Carabins de l'Université de Montréal
  - [https://carabins.umontreal.ca](https://carabins.umontreal.ca)
  - date_published: 2024-04-29T00:00:00+00:00
-
- ## Direction de l'enseignement de service en informatique
- - [https://desi.umontreal.ca](https://desi.umontreal.ca)
- - date_published: 2024-04-30T05:27:09.037559+00:00
-
- ## Département d'informatique et de recherche opérationnelle - Université de Montréal
- - [https://diro.umontreal.ca](https://diro.umontreal.ca)
- - date_published: 2024-04-30T05:26:36.229716+00:00
-
- ## Faire un don
- - [http://donner.umontreal.ca](http://donner.umontreal.ca)
- - date_published: 2024-04-30T05:26:51.286649+00:00
-
- ## Développement durable - Université de Montréal
- - [http://durable.umontreal.ca](http://durable.umontreal.ca)
- - date_published: 2024-04-30T05:26:15.176753+00:00
-
- ## Faculté des arts et des sciences - Université de Montréal
- - [https://fas.umontreal.ca](https://fas.umontreal.ca)
- - date_published: 2024-04-30T05:26:30.266368+00:00
-
- ## Hackathon du DIRO 2024
- - [https://hackathon.iro.umontreal.ca](https://hackathon.iro.umontreal.ca)
- - date_published: 2024-04-30T05:27:04.895862+00:00
-
- ## L'heure est brave - La grande campagne philanthropique de l'UdeM
- - [https://lheureestbrave.umontreal.ca](https://lheureestbrave.umontreal.ca)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## UdeMNouvelles, l’actualité de l’Université de Montréal | UdeMNouvelles
- - [https://nouvelles.umontreal.ca](https://nouvelles.umontreal.ca)
- - date_published: 2023-11-04T12:47:25.272671+00:00
-
- ## Montréal - Plan Campus - Université de Montréal
- - [https://plancampus.umontreal.ca](https://plancampus.umontreal.ca)
- - date_published: 2024-04-30T05:27:11.744077+00:00
-
- ## Les presses de l'Université de Montréal
- - [https://pum.umontreal.ca](https://pum.umontreal.ca)
- - date_published: 2024-04-30T05:26:05.728241+00:00
-
- ## La recherche - Université de Montréal
- - [https://recherche.umontreal.ca](https://recherche.umontreal.ca)
- - date_published: 2024-04-30T05:26:21.384321+00:00
-
- ## Réflexes Numériques |
- - [https://reflexesnumeriques.umontreal.ca](https://reflexesnumeriques.umontreal.ca)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Bureau du registraire - Université de Montréal
- - [https://registraire.umontreal.ca](https://registraire.umontreal.ca)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Service d'appui à la formation interdisciplinaire et à la réussite étudiante (SAFIRE) - Université de Montréal
- - [https://safire.umontreal.ca](https://safire.umontreal.ca)
- - date_published: 2024-04-30T05:27:13.511008+00:00
-
- ## Secrétariat général - Université de Montréal
- - [https://secretariatgeneral.umontreal.ca](https://secretariatgeneral.umontreal.ca)
- - date_published: 2024-04-30T05:27:01.003000+00:00
-
- ## Home | StudiUM
- - [https://studium.umontreal.ca](https://studium.umontreal.ca)
- - date_published: 2024-04-30T05:26:37.582044+00:00
-
- ## Université de Montréal
- - [https://umontreal.ca](https://umontreal.ca)
- - date_published: 2024-05-01T02:10:38.445199+00:00
-
- ## URGENCE - Université de Montréal
- - [https://urgence.umontreal.ca](https://urgence.umontreal.ca)
- - date_published: 2024-04-30T05:26:02.268138+00:00
-
- ## Bibliothèques - Université de Montréal
- - [http://www.bib.umontreal.ca](http://www.bib.umontreal.ca)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Calendrier de l'Université de Montréal
- - [http://www.calendrier.umontreal.ca](http://www.calendrier.umontreal.ca)
- - date_published: 2024-04-30T05:26:00.717207+00:00
-
- ## Carabins de l'Université de Montréal
- - [http://www.carabins.umontreal.ca](http://www.carabins.umontreal.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Page Redirection
- - [http://www.crm.umontreal.ca](http://www.crm.umontreal.ca)
- - date_published: 2024-04-28T03:55:11.496307+00:00
-
- ## Département d'informatique et de recherche opérationnelle - Université de Montréal
- - [https://www.iro.umontreal.ca](https://www.iro.umontreal.ca)
- - date_published: 2023-10-25T12:08:56.540416+00:00
-
- ## Recherche : Service web
- - [http://www-labs.iro.umontreal.ca](http://www-labs.iro.umontreal.ca)
- - date_published: 2013-06-27T00:00:00+00:00
-
- ## Mon UdeM
- - [http://www.portail.umontreal.ca](http://www.portail.umontreal.ca)
- - date_published: 2024-04-30T05:26:28.235481+00:00
-
- ## Les presses de l'Université de Montréal
- - [https://www.pum.umontreal.ca](https://www.pum.umontreal.ca)
- - date_published: 2024-04-30T05:26:04.255158+00:00
-
- ## Université de Montréal
- - [https://www.umontreal.ca](https://www.umontreal.ca)
- - date_published: 2024-04-30T05:26:32.182696+00:00
-
- ## #1 Electronic Online Store Canada For Hobby And Education
- - [https://universal-solder.ca](https://universal-solder.ca)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Home
- - [https://universitymagazine.ca](https://universitymagazine.ca)
- - date_published: 2019-04-23T02:59:04+00:00
-
- ## Home
- - [https://www.universitymagazine.ca](https://www.universitymagazine.ca)
- - date_published: 2023-10-31T21:38:04.165908+00:00
-
- ## Alumni | Alumni
- - [https://alumni.uottawa.ca](https://alumni.uottawa.ca)
- - date_published: 2024-04-30T05:27:39.204010+00:00
-
- ## uOttawa Catalogue < uOttawa
- - [https://catalogue.uottawa.ca](https://catalogue.uottawa.ca)
- - date_published: 2024-04-30T05:27:40.893041+00:00
-
- ## Campus maps | About us
- - [https://maps.uottawa.ca](https://maps.uottawa.ca)
- - date_published: 2024-04-30T05:27:32.131616+00:00
-
- ## Home
- - [https://pdinstitute.uottawa.ca](https://pdinstitute.uottawa.ca)
- - date_published: 2024-04-30T05:27:43.655424+00:00
-
- ## Home - TLSS
- - [http://saea-tlss.uottawa.ca](http://saea-tlss.uottawa.ca)
- - date_published: 2021-08-18T16:25:28+00:00
-
- ## Home
- - [https://telfer.uottawa.ca](https://telfer.uottawa.ca)
- - date_published: 2024-04-30T05:27:47.150767+00:00
-
- ## Sign in to your account
- - [https://virtuo.uottawa.ca](https://virtuo.uottawa.ca)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Home | University of Ottawa
- - [https://www.uottawa.ca](https://www.uottawa.ca)
- - date_published: 2023-12-01T11:39:31.990444+00:00
-
- ## weblogin idpz | University of Toronto
- - [https://acorn.utoronto.ca](https://acorn.utoronto.ca)
- - date_published: 2024-04-30T05:30:45.955931+00:00
-
- ## University of Toronto Alumni
- - [https://alumni.utoronto.ca](https://alumni.utoronto.ca)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Lawrence Bloomberg Faculty of Nursing
- - [https://bloomberg.nursing.utoronto.ca](https://bloomberg.nursing.utoronto.ca)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Defy Gravity Campaign
- - [https://boundless.utoronto.ca](https://boundless.utoronto.ca)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Careers – The Division of People Strategy, Equity & Culture
- - [http://careers.hrandequity.utoronto.ca](http://careers.hrandequity.utoronto.ca)
- - date_published: 2024-04-30T05:30:44.223588+00:00
-
- ## Home | Daniels
- - [http://daniels.utoronto.ca](http://daniels.utoronto.ca)
- - date_published: 2024-05-08T11:44:38.391545+00:00
-
- ## Defy Gravity Campaign
- - [https://defygravitycampaign.utoronto.ca](https://defygravitycampaign.utoronto.ca)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## University of Toronto
- - [https://donate.utoronto.ca](https://donate.utoronto.ca)
- - date_published: 2024-04-30T05:28:29.464641+00:00
-
- ## University of Toronto
- - [https://engage.utoronto.ca](https://engage.utoronto.ca)
- - date_published: 2024-04-30T05:29:16.716810+00:00
-
- ## Home | Engineering & Computer Science Library
- - [https://engineering.library.utoronto.ca](https://engineering.library.utoronto.ca)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## HR Service Centre – The Division of People Strategy, Equity & Culture
- - [http://ess.hrandequity.utoronto.ca](http://ess.hrandequity.utoronto.ca)
- - date_published: 2024-04-30T05:29:10.527570+00:00
-
- ## Exhibits
- - [https://exhibits.library.utoronto.ca](https://exhibits.library.utoronto.ca)
- - date_published: 2024-04-30T05:28:39.291395+00:00
-
- ## Home - Parents & Supporters
- - [http://family.utoronto.ca](http://family.utoronto.ca)
- - date_published: 2022-01-14T00:00:00+00:00
-
- ## BMO Financial Group Finance Research and Trading Lab
- - [http://financelab.rotman.utoronto.ca](http://financelab.rotman.utoronto.ca)
- - date_published: 2024-04-30T05:30:07.926058+00:00
-
- ## Thomas Fisher Rare Book Library
- - [https://fisher.library.utoronto.ca](https://fisher.library.utoronto.ca)
- - date_published: 2024-04-30T05:28:46.773041+00:00
-
- ## Gerstein Science Information Centre
- - [https://gerstein.library.utoronto.ca](https://gerstein.library.utoronto.ca)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Research guides | University of Toronto Libraries
- - [https://guides.library.utoronto.ca](https://guides.library.utoronto.ca)
- - date_published: 2024-04-30T05:29:03.420725+00:00
-
- ## The Division of People Strategy, Equity & Culture – Work where the world comes to think, discover, and learn.
- - [https://hrandequity.utoronto.ca](https://hrandequity.utoronto.ca)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## RLogin - Rotman User Authentication
- - [https://hub.rotman.utoronto.ca](https://hub.rotman.utoronto.ca)
- - date_published: 2024-04-30T05:30:25.422037+00:00
-
- ## Indigenous University of Toronto
- - [https://indigenous.utoronto.ca](https://indigenous.utoronto.ca)
- - date_published: 2024-04-30T05:30:50.272217+00:00
-
- ## Inside Rotman – Inside Rotman
- - [https://inside.rotman.utoronto.ca](https://inside.rotman.utoronto.ca)
- - date_published: 2024-04-30T05:29:20.870727+00:00
-
- ## Careers at U of T
- - [https://jobs.utoronto.ca](https://jobs.utoronto.ca)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Home | UofT - Faculty of Kinesiology & Physical Education
- - [https://kpe.utoronto.ca](https://kpe.utoronto.ca)
- - date_published: 2024-06-09T00:56:08.459806+00:00
-
- ## School of Continuing Studies - University of Toronto
- - [https://learn.utoronto.ca](https://learn.utoronto.ca)
- - date_published: 2024-04-30T05:30:52.828597+00:00
-
- ## Welcome | University of Toronto Mississauga Library
- - [https://library.utm.utoronto.ca](https://library.utm.utoronto.ca)
- - date_published: 2024-04-30T05:28:49.798139+00:00
-
- ## University of Toronto Libraries
- - [https://library.utoronto.ca](https://library.utoronto.ca)
- - date_published: 2024-05-10T06:24:35.491733+00:00
-
- ## Department of Linguistics | University of Toronto
- - [https://linguistics.utoronto.ca](https://linguistics.utoronto.ca)
- - date_published: 2024-05-16T16:26:33.927688+00:00
-
- ## University of Toronto Magazine
- - [https://magazine.utoronto.ca](https://magazine.utoronto.ca)
- - date_published: 2024-04-30T05:31:07.034675+00:00
-
- ## Working...
- - [https://mail.utoronto.ca](https://mail.utoronto.ca)
- - date_published: 2024-04-30T05:30:11.319113+00:00
-
- ## University of Toronto
- - [http://map.utoronto.ca](http://map.utoronto.ca)
- - date_published: 2024-04-30T05:31:12.063691+00:00
-
- ## Munk School of Global Affairs & Public Policy
- - [http://munkschool.utoronto.ca](http://munkschool.utoronto.ca)
- - date_published: 2024-04-30T05:30:14.576417+00:00
-
- ## Welcome | OISE Library
- - [https://oise.library.utoronto.ca](https://oise.library.utoronto.ca)
- - date_published: 2024-04-30T05:28:37.849250+00:00
-
- ## University of Toronto Libraries
- - [https://onesearch.library.utoronto.ca](https://onesearch.library.utoronto.ca)
- - date_published: 2024-04-30T05:28:23.048700+00:00
-
- ## Occupational Science & Occupational Therapy
- - [http://ot.utoronto.ca](http://ot.utoronto.ca)
- - date_published: 2024-04-30T05:30:56.871646+00:00
-
- ## The Division of People Strategy, Equity & Culture – Work where the world comes to think, discover, and learn.
- - [https://people.utoronto.ca](https://people.utoronto.ca)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## weblogin idpz | University of Toronto
- - [https://q.utoronto.ca](https://q.utoronto.ca)
- - date_published: 2024-04-30T05:28:45.010073+00:00
-
- ## Home - University of Toronto Robotics Institute
- - [https://robotics.utoronto.ca](https://robotics.utoronto.ca)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Rotman Commerce - University of Toronto
- - [https://rotmancommerce.utoronto.ca](https://rotmancommerce.utoronto.ca)
- - date_published: 2024-04-30T05:30:23.467887+00:00
-
- ## Safety & Support – University of Toronto
- - [https://safety.utoronto.ca](https://safety.utoronto.ca)
- - date_published: 2024-04-30T05:28:51.472594+00:00
-
- ## Schwartz Reisman Institute for Technology and Society
- - [https://srinstitute.utoronto.ca](https://srinstitute.utoronto.ca)
- - date_published: 2024-04-30T05:31:04.915887+00:00
-
- ## Home - UofT Student Life
- - [https://studentlife.utoronto.ca](https://studentlife.utoronto.ca)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## TSpace Repository: Home
- - [https://tspace.library.utoronto.ca](https://tspace.library.utoronto.ca)
- - date_published: 2024-05-02T09:56:15.217226+00:00
-
- ## https://utcc.utoronto.ca
- - [https://utcc.utoronto.ca](https://utcc.utoronto.ca)
- - date_published: 2011-04-20T17:30:24+00:00
-
- ## Home | University of Toronto Scarborough Campus
- - [https://utsc.library.utoronto.ca](https://utsc.library.utoronto.ca)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Student Web Services | University of Toronto
- - [https://www.acorn.utoronto.ca](https://www.acorn.utoronto.ca)
- - date_published: 2024-05-07T20:38:36.392863+00:00
-
- ## Media Room & Blue Book – University of Toronto
- - [http://www.bluebook.utoronto.ca](http://www.bluebook.utoronto.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Dalla Lana School of Public Health
- - [https://www.dlsph.utoronto.ca](https://www.dlsph.utoronto.ca)
- - date_published: 2024-06-09T00:56:10.915327+00:00
-
- ## Home - Dunlap Institute
- - [https://www.dunlap.utoronto.ca](https://www.dunlap.utoronto.ca)
- - date_published: 2024-05-15T18:05:14.650883+00:00
-
- ## Home - Family Care Office
- - [http://www.familycare.utoronto.ca](http://www.familycare.utoronto.ca)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Information Technology Services - University of Toronto
- - [http://www.its.utoronto.ca](http://www.its.utoronto.ca)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## University of Toronto Libraries
- - [https://www-jstor-org.myaccess.library.utoronto.ca](https://www-jstor-org.myaccess.library.utoronto.ca)
- - date_published: 2024-04-30T05:28:36.444236+00:00
-
- ## Home | University of Toronto Faculty of Law
- - [https://www.law.utoronto.ca](https://www.law.utoronto.ca)
- - date_published: 2024-04-30T05:29:58.708671+00:00
-
- ## University of Toronto Libraries
- - [https://www.library.utoronto.ca](https://www.library.utoronto.ca)
- - date_published: 2023-10-27T10:23:57.087268+00:00
- - tags: ['university']
-
- ## Welcome to the MD Program
- - [http://www.md.utoronto.ca](http://www.md.utoronto.ca)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Department of Physics
- - [https://www.physics.utoronto.ca](https://www.physics.utoronto.ca)
- - date_published: 2024-05-08T04:21:20.803709+00:00
-
- ## Division of the Vice-President & Provost – University of Toronto
- - [https://www.provost.utoronto.ca](https://www.provost.utoronto.ca)
- - date_published: 2024-05-12T05:53:21.602613+00:00
-
- ## Rotman School of Management | University of Toronto - Rotman School of Management
- - [https://www.rotman.utoronto.ca](https://www.rotman.utoronto.ca)
- - date_published: 2023-11-18T08:17:18.470993+00:00
-
- ## Home - UofT Student Life
- - [https://www.studentlife.utoronto.ca](https://www.studentlife.utoronto.ca)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Home | University of Toronto Mississauga
- - [https://www.utm.utoronto.ca](https://www.utm.utoronto.ca)
- - date_published: 2023-11-08T22:51:00.987663+00:00
-
- ## University of Toronto
- - [https://www.utoronto.ca](https://www.utoronto.ca)
- - date_published: 2023-10-25T11:21:50.526226+00:00
- - tags: ['university']
-
- ## Home | University of Toronto Scarborough
- - [https://www.utsc.utoronto.ca](https://www.utsc.utoronto.ca)
- - date_published: 2024-05-01T03:32:21.569197+00:00
-
- ## University of Victoria - Sign in Service
- - [https://bright.uvic.ca](https://bright.uvic.ca)
- - date_published: 2024-05-09T05:41:58.606624+00:00
-
- ## Electronic Textual Cultures Lab | A Canadian Social Knowledge Institute lab
- - [http://etcl.uvic.ca](http://etcl.uvic.ca)
- - date_published: 2024-05-09T09:12:01.255401+00:00
-
- ## UVic Events - University of Victoria
- - [https://events.uvic.ca](https://events.uvic.ca)
- - date_published: 2024-05-09T05:41:55.790539+00:00
-
- ## Computer Science - University of Victoria
- - [https://webhome.cs.uvic.ca](https://webhome.cs.uvic.ca)
- - date_published: 2024-05-04T15:27:24.149804+00:00
-
- ## Home - University of Victoria - University of Victoria
- - [https://www.uvic.ca](https://www.uvic.ca)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## UVIC Bookstore
- - [https://www.uvicbookstore.ca](https://www.uvicbookstore.ca)
- - date_published: 2024-05-09T05:42:01.284701+00:00
-
- ## Waterloo Computer Graphics Lab
- - [https://cgl.uwaterloo.ca](https://cgl.uwaterloo.ca)
- - date_published: 2024-04-30T15:47:46.036512+00:00
-
- ## CSC - University of Waterloo
- - [https://csclub.uwaterloo.ca](https://csclub.uwaterloo.ca)
- - date_published: 2023-10-25T11:22:02.876946+00:00
-
- ## Home | Cheriton School of Computer Science | University of Waterloo
- - [https://cs.uwaterloo.ca](https://cs.uwaterloo.ca)
- - date_published: 2023-10-25T12:09:06.920644+00:00
-
- ## Welcome to Electrical and Computer Engineering (ECE) at the University of Waterloo | Electrical and Computer Engineering
- - [https://ece.uwaterloo.ca](https://ece.uwaterloo.ca)
- - date_published: 2024-05-04T15:44:35.975092+00:00
-
- ## University of Waterloo CS HCI Lab
- - [http://hci.cs.uwaterloo.ca](http://hci.cs.uwaterloo.ca)
- - date_published: 2024-04-30T05:16:57.184542+00:00
-
- ## List Index - CSC Mailman
- - [https://mailman.csclub.uwaterloo.ca](https://mailman.csclub.uwaterloo.ca)
- - date_published: 2024-04-30T05:31:16.864412+00:00
-
- ## A powerhouse of discovery and innovation | Mathematics
- - [https://math.uwaterloo.ca](https://math.uwaterloo.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Home | University of Waterloo
- - [https://uwaterloo.ca](https://uwaterloo.ca)
- - date_published: 2023-10-25T12:09:14.024143+00:00
-
- ## UWSpace Home
- - [https://uwspace.uwaterloo.ca](https://uwspace.uwaterloo.ca)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## CSCWiki
- - [https://wiki.csclub.uwaterloo.ca](https://wiki.csclub.uwaterloo.ca)
- - date_published: 2024-04-30T05:31:18.725502+00:00
-
- ## Atmospheric Chemistry Experiment
- - [http://www.ace.uwaterloo.ca](http://www.ace.uwaterloo.ca)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Home | Cheriton School of Computer Science
- - [http://www.cs.uwaterloo.ca](http://www.cs.uwaterloo.ca)
- - date_published: 2017-02-02T21:23:26+00:00
-
- ## A powerhouse of discovery and innovation | Mathematics
- - [https://www.math.uwaterloo.ca](https://www.math.uwaterloo.ca)
- - date_published: 2023-10-25T12:09:20.191511+00:00
-
- ## Discovery and Innovation through Science at Waterloo | Science
- - [http://www.science.uwaterloo.ca](http://www.science.uwaterloo.ca)
- - date_published: 2024-05-07T15:00:10.819850+00:00
-
- ## Home | Computer Science Computing Facility
- - [https://www.student.cs.uwaterloo.ca](https://www.student.cs.uwaterloo.ca)
- - date_published: 2012-01-13T20:47:23+00:00
-
- ## Western University
- - [http://instruct.uwo.ca](http://instruct.uwo.ca)
- - date_published: 2024-05-11T09:53:56.691645+00:00
-
- ## Western University
- - [http://www.uwo.ca](http://www.uwo.ca)
- - date_published: 2024-05-06T16:49:05.646987+00:00
-
- ## About
- - [https://varun.ca](https://varun.ca)
- - date_published: 2023-10-25T09:02:48.656185+00:00
- - tags: ['personal']
-
- ## Wind turbine manufacturing and service | Vestas CA
- - [https://www.vestas.ca](https://www.vestas.ca)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## City of Victoria
- - [https://www.victoria.ca](https://www.victoria.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://www.visa.ca](https://www.visa.ca)
- - date_published: 2024-03-28T07:01:27.954091+00:00
-
- ## Vitalik Buterin's website
- - [https://vitalik.ca](https://vitalik.ca)
- - date_published: 2023-10-25T09:03:03.847296+00:00
- - tags: ['personal']
-
- ## Village Media
- - [https://www.vmcdn.ca](https://www.vmcdn.ca)
- - date_published: 2024-04-28T05:09:32.999885+00:00
-
- ## Warner Music Canada Online Store
- - [https://store.warnermusic.ca](https://store.warnermusic.ca)
- - date_published: 2024-05-13T03:42:21.998285+00:00
-
- ## Weather forecast Canada : The best FREE weather 15 day forecast - Weather Crave
- - [https://www.weathercrave.ca](https://www.weathercrave.ca)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Centova Cast
- - [https://radio01.websavers.ca](https://radio01.websavers.ca)
- - date_published: 2024-05-01T00:28:39.340823+00:00
-
- ## Wes Cook, Developer
- - [https://wescook.ca](https://wescook.ca)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Okotoks Local News
- - [https://www.westernwheel.ca](https://www.westernwheel.ca)
- - date_published: 2024-04-28T05:09:49.792079+00:00
-
- ## Home Page - Women in Food Industry Management
- - [https://wfim.ca](https://wfim.ca)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Whatbox - App hosting
- - [https://whatbox.ca](https://whatbox.ca)
- - date_published: 2024-05-01T02:10:40.450221+00:00
-
- ## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
- - [https://wingfelder.ca](https://wingfelder.ca)
- - date_published: 2024-01-11T13:28:46.842673+00:00
-
- ## Wireless Netware Technology: Canada's Leading MikroTik Store & Training Hub
- - [https://www.wirelessnetware.ca](https://www.wirelessnetware.ca)
- - date_published: 2024-05-09T04:09:20.500703+00:00
-
- ## Physics & Computer Science
- - [https://bohr.wlu.ca](https://bohr.wlu.ca)
- - date_published: 2022-06-25T00:00:00+00:00
-
- ## Women of Influence –
- - [https://www.womenofinfluence.ca](https://www.womenofinfluence.ca)
- - date_published: 2023-10-25T12:09:32.572588+00:00
-
- ## Woodworking for engineers
- - [https://woodgears.ca](https://woodgears.ca)
- - date_published: 2024-05-04T13:33:37.189470+00:00
-
- ## WOODSGOOD - The premier site on the net for Ottawa-based Custom Woodworking
- - [http://woodsgood.ca](http://woodsgood.ca)
- - date_published: 2024-05-09T04:26:15.922081+00:00
-
- ## wozniak.ca
- - [https://wozniak.ca](https://wozniak.ca)
- - date_published: 2024-01-03T04:13:05.405674+00:00
-
- ## Portal Home - WPCloud.ca
- - [http://support.wpcloud.ca](http://support.wpcloud.ca)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Analytics by WP Expert
- - [https://stats.wpexpert.ca](https://stats.wpexpert.ca)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Your #1 WordPress Expert in Canada | WP Expert
- - [https://wpexpert.ca](https://wpexpert.ca)
- - date_published: 2024-01-13T18:26:09.369871+00:00
-
- ## World Wildlife Fund Canada | WWF.ca
- - [https://www.wwf.ca](https://www.wwf.ca)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Yelp
- - [https://fr.yelp.ca](https://fr.yelp.ca)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Yelp
- - [https://www.yelp.ca](https://www.yelp.ca)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Student Accessibility Services | Division of Students | York University
- - [https://accessibility.students.yorku.ca](https://accessibility.students.yorku.ca)
- - date_published: 2024-04-30T05:32:31.061365+00:00
-
- ## Advanced Disaster, Emergency and Rapid Response Simulation (ADERSIM)
- - [https://adersim.info.yorku.ca](https://adersim.info.yorku.ca)
- - date_published: 2024-05-09T05:23:02.624437+00:00
-
- ## York Atlas - Phone and E-mail Directory
- - [https://atlas.yorku.ca](https://atlas.yorku.ca)
- - date_published: 2024-04-30T05:32:21.381565+00:00
-
- ## Career Centre | We help connect York University students and new graduates with career opportunities!
- - [https://careers.yorku.ca](https://careers.yorku.ca)
- - date_published: 2024-05-09T06:47:47.200130+00:00
-
- ## Current Students | Division of Students | York University
- - [https://currentstudents.yorku.ca](https://currentstudents.yorku.ca)
- - date_published: 2024-04-30T05:32:23.896619+00:00
 

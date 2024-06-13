@@ -1,3 +1,37 @@
+ ## Linkwarden
+ - [https://cloud.linkwarden.app](https://cloud.linkwarden.app)
+ - date_published: 2024-05-14T03:49:12.485860+00:00
+
+ ## Linkwarden
+ - [https://docs.linkwarden.app](https://docs.linkwarden.app)
+ - date_published: 2024-05-14T03:49:09.242508+00:00
+
+ ## Linkwarden
+ - [https://linkwarden.app](https://linkwarden.app)
+ - date_published: 2024-04-08T19:29:29.155254+00:00
+ - tags: ['self-host', 'link aggregator', 'bookmark manager', 'internet archive']
+
+ ## Listen and publish YouTube shows as podcasts - Listenbox
+ - [https://listenbox.app](https://listenbox.app)
+ - date_published: 2024-05-12T06:23:26.569730+00:00
+
+ ## listmonk - Mailing list
+ - [https://demo.listmonk.app](https://demo.listmonk.app)
+ - date_published: 2024-05-14T03:49:19.242863+00:00
+
+ ## listmonk - Free and open source self-hosted newsletter, mailing list manager, and transactional mails
+ - [https://listmonk.app](https://listmonk.app)
+ - date_published: 2024-02-04T00:00:00+00:00
+ - tags: ['self-host', 'open source']
+
+ ## Taiki Radio
+ - [https://lofimusic.app](https://lofimusic.app)
+ - date_published: 2024-04-29T07:45:26.290737+00:00
+
+ ## Show HN: I created an app for you to be a more unpredictable romantic partner
+ - [https://www.lovefuel.app](https://www.lovefuel.app)
+ - date_published: 2024-05-12T19:14:39+00:00
+
  ## Lowercase – A simple way to take and share notes
  - [https://www.lowercase.app](https://www.lowercase.app)
  - date_published: 2024-05-03T14:39:49+00:00
@@ -80,6 +114,11 @@
  ## minidemo
  - [https://www.minidemo.app](https://www.minidemo.app)
  - date_published: 2023-10-25T11:47:17.378371+00:00
+
+ ## Mini Diary
+ - [https://minidiary.app](https://minidiary.app)
+ - date_published: 2024-06-12T20:14:22.357862+00:00
+ - tags: ['journal', 'open source']
 
  ## Miniflux - Minimalist and Opinionated Feed Reader
  - [https://miniflux.app](https://miniflux.app)
@@ -1539,6 +1578,10 @@
  - [https://pokefit.vercel.app](https://pokefit.vercel.app)
  - date_published: 2023-10-25T11:50:37.123212+00:00
 
+ ## PolarShare
+ - [https://polarshare.vercel.app](https://polarshare.vercel.app)
+ - date_published: 2024-06-12T20:14:21.343854+00:00
+
  ## Precedent - Building blocks for your Next.js project
  - [https://precedent.vercel.app](https://precedent.vercel.app)
  - date_published: 2023-10-25T11:50:38.827832+00:00
@@ -1554,6 +1597,10 @@
  ## Protein Project
  - [https://protein-project.vercel.app](https://protein-project.vercel.app)
  - date_published: 2024-04-30T02:13:47.069835+00:00
+
+ ## Proxmox VE Helper-Scripts
+ - [https://proxmox-helper-scripts.vercel.app](https://proxmox-helper-scripts.vercel.app)
+ - date_published: 2024-06-12T22:12:33.402620+00:00
 
  ## PWA NES
  - [https://pwa-nes.vercel.app](https://pwa-nes.vercel.app)
@@ -1591,6 +1638,10 @@
  ## Row Zero - The World's Fastest Spreadsheet
  - [https://rz-web.vercel.app](https://rz-web.vercel.app)
  - date_published: 2024-05-09T07:20:33.563427+00:00
+
+ ## Blog | Sam Curry
+ - [https://samcurry-jm6pabd5c-sam-currys-projects.vercel.app](https://samcurry-jm6pabd5c-sam-currys-projects.vercel.app)
+ - date_published: 2024-06-03T00:00:00+00:00
 
  ## Scribble Diffusion
  - [https://scribble-diffusion-r2g1z7mzx-replicate.vercel.app](https://scribble-diffusion-r2g1z7mzx-replicate.vercel.app)
@@ -1901,6 +1952,10 @@
  - [https://reim.ar](https://reim.ar)
  - date_published: 2024-05-07T23:22:31.288342+00:00
 
+ ## Pulsar UBA
+ - [https://pulsar.uba.ar](https://pulsar.uba.ar)
+ - date_published: 2024-03-11T00:00:00+00:00
+
  ## 『 0x61 』
  - [https://x61.ar](https://x61.ar)
  - date_published: 2024-05-10T16:04:40.590647+00:00
@@ -1931,6 +1986,10 @@
  - [https://www.citroen.com.ar](https://www.citroen.com.ar)
  - date_published: 2024-05-08T05:29:49.774943+00:00
 
+ ## Home - Comunicar igualdad
+ - [https://comunicarigualdad.com.ar](https://comunicarigualdad.com.ar)
+ - date_published: 2024-06-04T00:00:00+00:00
+
  ## Postfix Admin - services.delellis.com.ar
  - [https://services.delellis.com.ar](https://services.delellis.com.ar)
  - date_published: 2024-05-14T03:34:43.692484+00:00
@@ -1947,9 +2006,17 @@
  - [https://www.espn.com.ar](https://www.espn.com.ar)
  - date_published: 2024-05-02T09:41:40.532528+00:00
 
+ ## Editorial Eudeba | Editorial Universitaria de Buenos Aires, libros académicos - Boris el lector digital
+ - [https://www.eudeba.com.ar](https://www.eudeba.com.ar)
+ - date_published: 2024-06-12T10:45:21.296350+00:00
+
  ## Eventbrite
  - [https://www.eventbrite.com.ar](https://www.eventbrite.com.ar)
  - date_published: 2024-05-12T05:54:45.031077+00:00
+
+ ## Inicio | Great Place To Work
+ - [https://www.greatplacetowork.com.ar](https://www.greatplacetowork.com.ar)
+ - date_published: 2024-06-12T10:42:22.277360+00:00
 
  ## Indice General de Histarmar
  - [https://www.histarmar.com.ar](https://www.histarmar.com.ar)
@@ -1967,6 +2034,10 @@
  - [https://malba.liit.com.ar](https://malba.liit.com.ar)
  - date_published: 2024-05-28T02:48:24.618498+00:00
 
+ ## LOS40 AR
+ - [https://los40.com.ar](https://los40.com.ar)
+ - date_published: 2024-06-11T00:00:00+00:00
+
  ## Mercado Libre Argentina - Envíos Gratis en el día
  - [https://www.mercadolibre.com.ar](https://www.mercadolibre.com.ar)
  - date_published: 2024-05-01T06:46:28.880422+00:00
@@ -1982,6 +2053,14 @@
  ## USBA – Sitio de USBA
  - [https://www.perfileducacion.com.ar](https://www.perfileducacion.com.ar)
  - date_published: 2024-05-06T23:03:20.164494+00:00
+
+ ## Richmond Web
+ - [http://www.richmond.com.ar](http://www.richmond.com.ar)
+ - date_published: 2024-06-12T13:03:12.509466+00:00
+
+ ## SANTILLANA Argentina -  www.santillana.com.ar
+ - [http://www.santillana.com.ar](http://www.santillana.com.ar)
+ - date_published: 2024-06-12T12:55:30.074911+00:00
 
  ## Página en reconstrucción
  - [https://www.telam.com.ar](https://www.telam.com.ar)
@@ -2003,6 +2082,10 @@
  - [https://www.itba.edu.ar](https://www.itba.edu.ar)
  - date_published: 2024-05-04T14:16:52.399540+00:00
 
+ ## Universidad Católica de Córdoba | UCC
+ - [https://www.ucc.edu.ar](https://www.ucc.edu.ar)
+ - date_published: 2024-06-12T10:48:14.294293+00:00
+
  ## Argentina.gob.ar
  - [https://www.argentina.gob.ar](https://www.argentina.gob.ar)
  - date_published: 2024-05-04T11:57:13.457999+00:00
@@ -2010,6 +2093,10 @@
  ## Cultura
  - [http://www.cultura.gob.ar](http://www.cultura.gob.ar)
  - date_published: 2018-06-18T14:19:12+00:00
+
+ ## Rosario Participa
+ - [https://participa.rosario.gob.ar](https://participa.rosario.gob.ar)
+ - date_published: 2024-06-12T10:47:14.524878+00:00
 
  ## Inicio
  - [https://coleccion.malba.org.ar](https://coleccion.malba.org.ar)
@@ -2023,6 +2110,10 @@
  ## Museo de Arte Latinoamericano de Buenos Aires Malba
  - [https://www.malba.org.ar](https://www.malba.org.ar)
  - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Inicio
+ - [https://www.premiovivalectura.org.ar](https://www.premiovivalectura.org.ar)
+ - date_published: 2024-06-12T13:05:27.103052+00:00
 
  ## WWF Argentina
  - [https://www.vidasilvestre.org.ar](https://www.vidasilvestre.org.ar)
@@ -2479,6 +2570,10 @@
  - [https://www.bankaustria.at](https://www.bankaustria.at)
  - date_published: 2024-05-06T17:32:51.030231+00:00
 
+ ## basemap.at
+ - [https://www.basemap.at](https://www.basemap.at)
+ - date_published: 2024-06-12T14:27:53.155145+00:00
+
  ## Belvedere Museum Wien | Startseite
  - [https://www.belvedere.at](https://www.belvedere.at)
  - date_published: 2024-03-15T00:00:00+00:00
@@ -2621,6 +2716,10 @@
  ## GMX Suche
  - [https://suche.gmx.at](https://suche.gmx.at)
  - date_published: 2024-06-10T06:54:19.334419+00:00
+
+ ## Zertifizieren Sie Ihre Unternehmenskultur | Great Place to Work®
+ - [http://www.greatplacetowork.at](http://www.greatplacetowork.at)
+ - date_published: 2024-06-12T10:40:57.710821+00:00
 
  ## Rezepte, Restaurants und Wein & Winzern - das Gourmet Portal
  - [https://www.gutekueche.at](https://www.gutekueche.at)
@@ -3222,6 +3321,14 @@
  - [https://aoi.com.au](https://aoi.com.au)
  - date_published: 2024-01-09T02:25:03.495028+00:00
 
+ ## Recruitment Platform API
+ - [https://api-nsw-cdn.applydirect.com.au](https://api-nsw-cdn.applydirect.com.au)
+ - date_published: 2024-06-12T12:20:05.210414+00:00
+
+ ## Applydirect – Opportunity begins here.
+ - [https://www.applydirect.com.au](https://www.applydirect.com.au)
+ - date_published: 2024-06-12T12:20:09.419693+00:00
+
  ## Art Guide Australia
  - [https://artguide.com.au](https://artguide.com.au)
  - date_published: 2024-04-26T00:00:00+00:00
@@ -3427,6 +3534,10 @@
  ## New and used country cars for sale on countrycars.com.au
  - [https://www.countrycars.com.au](https://www.countrycars.com.au)
  - date_published: 2024-05-09T06:36:59.735542+00:00
+
+ ## COURAGE & RENEWAL WA
+ - [https://www.couragerenewalwa.com.au](https://www.couragerenewalwa.com.au)
+ - date_published: 2024-06-12T12:34:52.632111+00:00
 
  ## 404 Not Found
  - [https://www.couriermail.com.au](https://www.couriermail.com.au)
@@ -3686,6 +3797,10 @@
  - [https://www.gq.com.au](https://www.gq.com.au)
  - date_published: 2024-05-02T00:00:00+00:00
 
+ ## Great Place To Work Australia
+ - [http://www.greatplacetowork.com.au](http://www.greatplacetowork.com.au)
+ - date_published: 2024-06-11T00:00:00+00:00
+
  ## Grok
  - [https://grokonline.com.au](https://grokonline.com.au)
  - date_published: 2015-07-03T00:52:47+00:00
@@ -3828,6 +3943,10 @@
  - [https://khaki-green.com.au](https://khaki-green.com.au)
  - date_published: 2024-05-25T01:29:23.223494+00:00
 
+ ## Kids Helpline | Phone & Web Counselling | Ages 5-25
+ - [https://www.kidshelpline.com.au](https://www.kidshelpline.com.au)
+ - date_published: 2024-06-12T12:32:52.473428+00:00
+
  ## KidsNews
  - [https://www.kidsnews.com.au](https://www.kidsnews.com.au)
  - date_published: 2024-04-02T00:00:00+00:00
@@ -3910,6 +4029,10 @@
  - [https://www.marieclaire.com.au](https://www.marieclaire.com.au)
  - date_published: 2024-05-06T00:00:00+00:00
 
+ ## Mills & Boon Australia – the home of romance
+ - [https://www.millsandboon.com.au](https://www.millsandboon.com.au)
+ - date_published: 2024-06-12T11:31:08.711025+00:00
+
  ## Mod Apps
  - [https://modapps.com.au](https://modapps.com.au)
  - date_published: 2024-04-29T01:58:15.186940+00:00
@@ -3965,124 +4088,4 @@
  ## news.com.au — Australia’s leading news site
  - [https://news.com.au](https://news.com.au)
  - date_published: 2024-04-02T00:00:00+00:00
-
- ## PrivacyPortal
- - [https://preferences.news.com.au](https://preferences.news.com.au)
- - date_published: 2024-05-10T05:55:49.161445+00:00
-
- ## news.com.au — Australia’s leading news site
- - [https://www.news.com.au](https://www.news.com.au)
- - date_published: 2023-12-04T17:36:45.340493+00:00
-
- ## Newsletters
- - [https://www.newsletters.news.com.au](https://www.newsletters.news.com.au)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Newspix Home Page
- - [https://www.newspix.com.au](https://www.newspix.com.au)
- - date_published: 2024-05-10T05:55:28.347318+00:00
-
- ## nine.com.au -- the new ninemsn - News, Sport, TV, Entertainment, Lifestyle | Latest Breaking News Headlines from Australia and the world
- - [https://9.nine.com.au](https://9.nine.com.au)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Celebrity entertainment news, gossip and photos on 9Honey Celebrity
- - [https://celebrity.nine.com.au](https://celebrity.nine.com.au)
- - date_published: 2024-05-10T04:59:41.575118+00:00
-
- ## Health & Fitness, Diet, Training & Exercise
- - [https://coach.nine.com.au](https://coach.nine.com.au)
- - date_published: 2024-05-10T05:00:10.152957+00:00
-
- ## Online Coupons and Discount codes in May - Nine Coupons
- - [https://coupons.nine.com.au](https://coupons.nine.com.au)
- - date_published: 2024-05-10T04:59:14.443553+00:00
-
- ## Finance News Headlines | 9News
- - [https://finance.nine.com.au](https://finance.nine.com.au)
- - date_published: 2024-05-10T04:59:34.124612+00:00
-
- ## Australia’s leading women’s network
- - [https://honey.nine.com.au](https://honey.nine.com.au)
- - date_published: 2024-05-10T04:59:39.427569+00:00
-
- ## Recipes, Food, Diet, Cooking & Entertaining
- - [https://kitchen.nine.com.au](https://kitchen.nine.com.au)
- - date_published: 2024-05-10T05:00:04.731027+00:00
-
- ## login.nine.com.au | Geoblocked
- - [https://login.nine.com.au](https://login.nine.com.au)
- - date_published: 2024-05-01T02:32:45.679074+00:00
-
- ## The Sydney Morning Herald and The Age Photos
- - [https://professional.licensing-publishing.nine.com.au](https://professional.licensing-publishing.nine.com.au)
- - date_published: 2024-05-01T02:32:56.288837+00:00
-
- ## Fashion & Beauty, Runway, Makeup, Bags, Shoes
- - [https://style.nine.com.au](https://style.nine.com.au)
- - date_published: 2024-05-10T05:00:08.505542+00:00
-
- ## 9Travel - Holiday Destinations, Travel Guides and all the best things to do in Australia and around the world - Nine.com.au
- - [https://travel.nine.com.au](https://travel.nine.com.au)
- - date_published: 2024-05-10T04:59:52.047069+00:00
-
- ## Nine's Wide World of Sports, Match Results & Live Scores
- - [https://wwos.nine.com.au](https://wwos.nine.com.au)
- - date_published: 2024-05-10T04:59:16.878915+00:00
-
- ## nine.com.au -- the new ninemsn - News, Sport, TV, Entertainment, Lifestyle | Latest Breaking News Headlines from Australia and the world
- - [https://www.nine.com.au](https://www.nine.com.au)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Careers at Nine | Explore Open Opportunities
- - [https://ninecareers.com.au](https://ninecareers.com.au)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Careers at Nine | Explore Open Opportunities
- - [https://www.ninecareers.com.au](https://www.ninecareers.com.au)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Nine for Brands - Australia's Media Company
- - [https://www.nineforbrands.com.au](https://www.nineforbrands.com.au)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Nintendo - Official Site - Video Game Consoles, Games
- - [https://www.nintendo.com.au](https://www.nintendo.com.au)
- - date_published: 2024-05-06T15:46:40.779306+00:00
-
- ## Novated Lease Australia | Reduce your taxable income & save
- - [https://www.novatedleaseaustralia.com.au](https://www.novatedleaseaustralia.com.au)
- - date_published: 2024-05-06T14:26:49.852390+00:00
-
- ## Openair Cinemas - The #1 Outdoor Cinema Experience
- - [https://www.openaircinemas.com.au](https://www.openaircinemas.com.au)
- - date_published: 2024-05-06T16:32:22.944904+00:00
-
- ## Optus - Mobile Phones, nbn, Home Internet, Entertainment and Sport
- - [https://www.optus.com.au](https://www.optus.com.au)
- - date_published: 2023-10-25T11:55:30.728146+00:00
-
- ## IIS7
- - [http://palgn.com.au](http://palgn.com.au)
- - date_published: 2024-04-28T04:42:12.694203+00:00
-
- ## Home - Pan Macmillan Australia
- - [https://www.panmacmillan.com.au](https://www.panmacmillan.com.au)
- - date_published: 2023-12-01T06:58:10+00:00
-
- ## Patagonia Outdoor Clothing & Gear | Australia
- - [https://www.patagonia.com.au](https://www.patagonia.com.au)
- - date_published: 2024-05-06T22:33:28.410405+00:00
-
- ## Pedestrian Group | Home of PEDESTRIAN.TV, Vice, Refinery29, Pedestrian JOBS, Business Insider, Gizmodo, Lifehacker, Kotaku and Openair Cinemas
- - [https://pedestriangroup.com.au](https://pedestriangroup.com.au)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Penguin Books Australia
- - [https://www.penguin.com.au](https://www.penguin.com.au)
- - date_published: 2023-11-13T17:27:35.903796+00:00
-
- ## Home
- - [http://www.perthnow.com.au](http://www.perthnow.com.au)
- - date_published: 2024-05-07T13:58:48.125977+00:00
 
