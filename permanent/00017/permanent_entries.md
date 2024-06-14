@@ -1,3 +1,238 @@
+ ## Codepip
+ - [https://codepip.com](https://codepip.com)
+ - date_published: 2024-04-30T07:11:54.217996+00:00
+
+ ## Home · Codepipes Blog
+ - [http://blog.codepipes.com](http://blog.codepipes.com)
+ - date_published: 2024-05-06T21:47:42.514912+00:00
+
+ ## 3CX Webclient
+ - [https://codepipet.com](https://codepipet.com)
+ - date_published: 2024-01-09T02:32:23.488008+00:00
+
+ ## CodeProject - For those who code
+ - [https://www.codeproject.com](https://www.codeproject.com)
+ - date_published: 2023-10-25T10:13:50.403402+00:00
+
+ ## CodeQL
+ - [https://codeql.com](https://codeql.com)
+ - date_published: 2024-05-04T08:04:38.227065+00:00
+
+ ## Coder - Your Self-Hosted Remote Development Platform
+ - [https://coder.com](https://coder.com)
+ - date_published: 2024-04-08T19:27:29.860838+00:00
+ - tags: ['remote development', 'self-host']
+
+ ## Simple Analytics
+ - [https://sa.coder.com](https://sa.coder.com)
+ - date_published: 2024-05-14T03:36:20.144533+00:00
+
+ ## CodeRed Documentation Library
+ - [https://docs.coderedcorp.com](https://docs.coderedcorp.com)
+ - date_published: 2024-05-08T05:49:28.259318+00:00
+
+ ## CodeRed - Wagtail web development and hosting for businesses.
+ - [https://www.coderedcorp.com](https://www.coderedcorp.com)
+ - date_published: 2023-10-27T13:11:12.513520+00:00
+
+ ## Scalable & Secure Dedicated Server Solutions - Codero Hosting
+ - [http://www.codero.com](http://www.codero.com)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## The VPSNode Blog
+ - [https://coderoasis.com](https://coderoasis.com)
+ - date_published: 2024-01-09T02:32:24.871671+00:00
+
+ ## CoderOasis Forums
+ - [https://forums.coderoasis.com](https://forums.coderoasis.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## umami
+ - [https://umami.coderoasis.com](https://umami.coderoasis.com)
+ - date_published: 2024-05-08T05:49:30.312035+00:00
+
+ ## Nick Chamberlain
+ - [http://coderoaster.com](http://coderoaster.com)
+ - date_published: 2024-05-08T03:50:41.315973+00:00
+
+ ## Coders at Work: Reflections on the Craft of Programming
+ - [http://www.codersatwork.com](http://www.codersatwork.com)
+ - date_published: 2024-05-04T07:58:31.406473+00:00
+
+ ## codersnotes.com
+ - [http://www.codersnotes.com](http://www.codersnotes.com)
+ - date_published: 2024-04-15T12:51:08+00:00
+ - tags: ['programming', 'tech', 'personal']
+
+ ## A community of great programmers and their programming tips
+ - [https://coderwall.com](https://coderwall.com)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Pluralsight + Code School: Code Courses | Pluralsight
+ - [http://coffeescript.codeschool.com](http://coffeescript.codeschool.com)
+ - date_published: 2024-05-25T09:10:24.631656+00:00
+
+ ## Pluralsight + Code School: Code Courses | Pluralsight
+ - [https://fivejs.codeschool.com](https://fivejs.codeschool.com)
+ - date_published: 2024-05-11T10:37:24.014097+00:00
+
+ ## Pluralsight + Code School: Code Courses | Pluralsight
+ - [https://www.codeschool.com](https://www.codeschool.com)
+ - date_published: 2024-05-25T09:11:03.086836+00:00
+
+ ## codeshaunted | code’s haunted
+ - [https://codeshaunted.com](https://codeshaunted.com)
+ - date_published: 2023-10-25T13:28:26.229731+00:00
+
+ ## CloudBees CodeShip | Software as a Service (SaaS) CI/CD Solution
+ - [https://codeship.com](https://codeship.com)
+ - date_published: 2024-05-01T06:29:28.629091+00:00
+
+ ## Online Resumé of Martin Finnerup
+ - [https://www.codeslasher.com](https://www.codeslasher.com)
+ - date_published: 2024-05-09T06:05:41.723925+00:00
+ - tags: ['personal']
+
+ ## Codesolvent Blog
+ - [https://blog.codesolvent.com](https://blog.codesolvent.com)
+ - date_published: 2023-10-25T13:28:28.190326+00:00
+
+ ## Codesolvent - Web development on the web - java ruby python javascript clojure groovy velocity
+ - [http://codesolvent.com](http://codesolvent.com)
+ - date_published: 2024-05-08T05:49:33.481110+00:00
+
+ ## Welcome to malus.exotica.org.uk
+ - [https://www.codetapper.com](https://www.codetapper.com)
+ - date_published: 2024-01-09T02:32:27.005228+00:00
+
+ ## codethirtytwo
+ - [https://codethirtytwo.com](https://codethirtytwo.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## | codethrasher
+ - [https://codethrasher.com](https://codethrasher.com)
+ - date_published: 2023-10-25T13:28:29.506444+00:00
+
+ ## Codewars - Achieve mastery through coding practice and developer mentorship
+ - [https://www.codewars.com](https://www.codewars.com)
+ - date_published: 2024-04-30T07:12:40.861122+00:00
+
+ ## Index of /
+ - [https://media.codeweavers.com](https://media.codeweavers.com)
+ - date_published: 2021-01-06T00:00:00+00:00
+
+ ## CodeWeavers Knowledge Base
+ - [https://support.codeweavers.com](https://support.codeweavers.com)
+ - date_published: 2024-05-08T05:49:48.791251+00:00
+
+ ## Windows Software on Mac, Linux, and ChromeOS with CrossOver | CodeWeavers
+ - [https://www.codeweavers.com](https://www.codeweavers.com)
+ - date_published: 2023-10-25T13:28:37.655699+00:00
+
+ ## Code With Antonio
+ - [https://www.codewithantonio.com](https://www.codewithantonio.com)
+ - date_published: 2024-04-29T07:32:31.093345+00:00
+
+ ## Code with Dan
+ - [http://www.codewithdan.com](http://www.codewithdan.com)
+ - date_published: 2024-05-01T03:47:35.307313+00:00
+
+ ## Code with Hugo
+ - [https://codewithhugo.com](https://codewithhugo.com)
+ - date_published: 2024-05-11T10:19:14.076137+00:00
+
+ ## Code with Jason - Learn Ruby on Rails, Rails Testing, Docker, OOP
+ - [https://www.codewithjason.com](https://www.codewithjason.com)
+ - date_published: 2023-10-25T13:28:40.388558+00:00
+ - tags: ['ruby', 'personal', 'rails', 'tutorials']
+
+ ## Code Without Rules
+ - [https://codewithoutrules.com](https://codewithoutrules.com)
+ - date_published: 2024-05-06T13:03:48.712076+00:00
+
+ ## Code With Tomi
+ - [https://codewithtomi.com](https://codewithtomi.com)
+ - date_published: 2024-04-26T10:30:59+00:00
+ - tags: ['python', 'personal']
+
+ ## code-worrier.com
+ - [http://code-worrier.com](http://code-worrier.com)
+ - date_published: 2024-05-06T13:11:01.805530+00:00
+
+ ## CodeWritePlay – Game Development, Tech, Humor
+ - [https://codewriteplay.com](https://codewriteplay.com)
+ - date_published: 2023-10-25T13:28:50.815482+00:00
+
+ ## Codex 99
+ - [https://www.codex99.com](https://www.codex99.com)
+ - date_published: 2024-01-09T02:32:31.105130+00:00
+
+ ## A weekly newsletter that explain tech terms in plain, everyday language
+ - [https://codictionary.com](https://codictionary.com)
+ - date_published: 2024-01-09T02:32:34.042018+00:00
+
+ ## Homepage 2024
+ - [https://app.codility.com](https://app.codility.com)
+ - date_published: 2024-05-04T11:56:37.727046+00:00
+
+ ## Learn to Code. Step by Step.
+ - [https://www.codingforentrepreneurs.com](https://www.codingforentrepreneurs.com)
+ - date_published: 2024-05-12T07:47:42.015268+00:00
+
+ ## Coding Horror
+ - [https://blog.codinghorror.com](https://blog.codinghorror.com)
+ - date_published: 2023-10-25T09:19:51.330520+00:00
+ - tags: ['personal']
+
+ ## Coding Horror Discussion
+ - [https://discourse.codinghorror.com](https://discourse.codinghorror.com)
+ - date_published: 2024-01-07T00:00:00+00:00
+
+ ## Coding Horror
+ - [https://www.codinghorror.com](https://www.codinghorror.com)
+ - date_published: 2024-05-12T04:32:10.706605+00:00
+
+ ## Coding Militia
+ - [https://blog.codingmilitia.com](https://blog.codingmilitia.com)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## CodingNeko
+ - [https://codingneko.com](https://codingneko.com)
+ - date_published: 2024-05-09T08:30:01.994339+00:00
+
+ ## The Coding Nest
+ - [https://codingnest.com](https://codingnest.com)
+ - date_published: 2023-10-25T13:28:59.884471+00:00
+
+ ## Home - Coding Otaku
+ - [https://codingotaku.com](https://codingotaku.com)
+ - date_published: 2023-10-25T08:45:26.168140+00:00
+ - tags: ['personal']
+
+ ## Coding Potions - Blog de programación y desarrollo web
+ - [https://codingpotions.com](https://codingpotions.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Coding Shiksha
+ - [https://www.codingshiksha.com](https://www.codingshiksha.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Coding VC | Leo Polovets | Substack
+ - [https://www.codingvc.com](https://www.codingvc.com)
+ - date_published: 2023-10-25T13:29:03.799383+00:00
+
+ ## Coding with Empathy
+ - [https://codingwithempathy.com](https://codingwithempathy.com)
+ - date_published: 2024-05-12T05:30:49.789309+00:00
+
+ ## Coding with Intelligence | Rick Lamers | Substack
+ - [https://codingwithintelligence.com](https://codingwithintelligence.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Coding with Jesse
+ - [https://www.codingwithjesse.com](https://www.codingwithjesse.com)
+ - date_published: 2024-05-07T23:24:53.839036+00:00
+
  ## Web & App Agentur Wien
  - [https://www.codista.com](https://www.codista.com)
  - date_published: 2024-05-11T10:54:15.740673+00:00
@@ -2699,6 +2934,10 @@
  - date_published: 2024-03-14T10:39:51+00:00
  - tags: ['vfx', 'special effects', 'corridor crew']
 
+ ## Image and Video Upload, Storage, Optimization and CDN
+ - [https://assets.corsair.com](https://assets.corsair.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
  ## Części komputerowe | Sprzęt dla graczy | CORSAIR
  - [https://www.corsair.com](https://www.corsair.com)
  - date_published: 2024-04-17T00:00:00+00:00
@@ -3858,247 +4097,4 @@
  - [https://www.credit-suisse.com](https://www.credit-suisse.com)
  - date_published: 2024-03-16T18:26:55.762222+00:00
  - tags: ['banking']
-
- ## Credly by Pearson
- - [https://credly.com](https://credly.com)
- - date_published: 2024-04-29T00:30:46.965395+00:00
-
- ## Credly by Pearson
- - [https://www.credly.com](https://www.credly.com)
- - date_published: 2024-04-30T06:17:24.032286+00:00
-
- ## Creed - Official Website
- - [https://creed.com](https://creed.com)
- - date_published: 2023-11-13T10:35:50.547381+00:00
- - tags: ['music band']
-
- ## The Creek and The Cave in Austin, Texas
- - [https://www.creekandcave.com](https://www.creekandcave.com)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Troy Wilson Site – Your SUPER-powered WP Engine Site
- - [https://assets.cree-led.com](https://assets.cree-led.com)
- - date_published: 2024-05-08T06:58:34.774770+00:00
-
- ## Home - Cree LED: Application-Optimized LED Solutions
- - [https://cree-led.com](https://cree-led.com)
- - date_published: 2023-10-25T13:36:42.415996+00:00
-
- ## Home - Cree LED: Application-Optimized LED Solutions
- - [https://www.cree-led.com](https://www.cree-led.com)
- - date_published: 2024-05-08T06:58:31.965398+00:00
-
- ## Loading | CreeperPanel
- - [https://creeperpanel.com](https://creeperpanel.com)
- - date_published: 2024-05-04T14:46:27.782482+00:00
-
- ## Boris Wülffe's Creepy Classics
- - [http://creepyclassicsonline.com](http://creepyclassicsonline.com)
- - date_published: 2024-05-08T05:32:35.679254+00:00
-
- ## Cretezy - Technology & Programming
- - [https://cretezy.com](https://cretezy.com)
- - date_published: 2024-06-01T04:51:19.262578+00:00
- - tags: ['personal']
-
- ## Swagger UI
- - [https://t.crexi.com](https://t.crexi.com)
- - date_published: 2024-05-12T07:41:33.869760+00:00
-
- ## Crexi.com
- - [https://www.crexi.com](https://www.crexi.com)
- - date_published: 2024-04-05T18:57:07.608713+00:00
-
- ## Crezcamos S.A. Compañía de Financiamiento
- - [https://crezcamos.com](https://crezcamos.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Live Cricket Score, Schedule, Latest News, Stats &amp; Videos
- - [https://cricbuzz.com](https://cricbuzz.com)
- - date_published: 2024-05-06T18:29:12.436004+00:00
-
- ## Home - Cricket Country
- - [https://www.cricketcountry.com](https://www.cricketcountry.com)
- - date_published: 2024-05-11T07:56:18.274454+00:00
-
- ## CrimeReads
- - [https://crimereads.com](https://crimereads.com)
- - date_published: 2023-11-07T14:07:13.850793+00:00
-
- ## CrimethInc. ex-Workers’ Collective: Your ticket to a world free of charge
- - [https://crimethinc.com](https://crimethinc.com)
- - date_published: 2023-11-01T08:41:53.567673+00:00
- - tags: ['activism', 'anarchist']
-
- ## CrimethInc. ex-Workers’ Collective: Your ticket to a world free of charge
- - [https://lite.crimethinc.com](https://lite.crimethinc.com)
- - date_published: 2024-05-08T06:58:43.103516+00:00
-
- ## Home - Crimtan
- - [https://www.crimtan.com](https://www.crimtan.com)
- - date_published: 2024-05-06T17:41:58.495957+00:00
-
- ## I, Cringely
- - [https://www.cringely.com](https://www.cringely.com)
- - date_published: 2023-10-25T13:36:47.106347+00:00
-
- ## Notes on the Crises
- - [https://www.crisesnotes.com](https://www.crisesnotes.com)
- - date_published: 2023-11-07T19:56:40.157638+00:00
-
- ## Cristine Chen
- - [https://cristinechen.com](https://cristinechen.com)
- - date_published: 2023-12-08T08:32:11.970323+00:00
- - tags: ['personal']
-
- ## Cristine Chen
- - [https://www.cristinezen.com](https://www.cristinezen.com)
- - date_published: 2024-05-10T05:33:25.616001+00:00
-
- ## Employee Testing, Pre-Employment Testing | Criteria
- - [https://www.criteriacorp.com](https://www.criteriacorp.com)
- - date_published: 2024-04-30T02:10:48.223602+00:00
-
- ## The Criterion Collection
- - [https://criterion.com](https://criterion.com)
- - date_published: 2024-05-08T06:59:07.549015+00:00
-
- ## The Criterion Collection
- - [https://www.criterion.com](https://www.criterion.com)
- - date_published: 2023-10-25T13:36:50.135480+00:00
-
- ## The Criterion Channel
- - [https://criterionchannel.com](https://criterionchannel.com)
- - date_published: 2024-05-17T07:13:42+00:00
- - tags: ['video streaming', 'movies']
-
- ## The Criterion Channel
- - [https://www.criterionchannel.com](https://www.criterionchannel.com)
- - date_published: 2024-05-08T06:59:04.148045+00:00
- - tags: ['video streaming']
-
- ## Critical Hits
- - [http://www.critical-hits.com](http://www.critical-hits.com)
- - date_published: 2022-03-24T00:00:00+00:00
- - tags: ['blog']
-
- ## Home Critical Legal Thinking
- - [https://criticallegalthinking.com](https://criticallegalthinking.com)
- - date_published: 2024-02-24T18:07:45.943151+00:00
-
- ## Home | Charlie Marsh
- - [https://notes.crmarsh.com](https://notes.crmarsh.com)
- - date_published: 2023-10-25T13:36:54.436746+00:00
-
- ## Home | Charlie Marsh
- - [https://www.crmarsh.com](https://www.crmarsh.com)
- - date_published: 2024-05-08T06:59:15.491682+00:00
-
- ## Clanring CRMod
- - [http://www.crmod.com](http://www.crmod.com)
- - date_published: 2024-02-06T15:24:58.539113+00:00
- - tags: ['quake']
-
- ## Technology News For IT Channel Partners and Solution Providers | CRN
- - [https://www.crn.com](https://www.crn.com)
- - date_published: 2024-05-09T05:56:36.110463+00:00
-
- ## Croatia Honestly Shop - unique cookbooks and homeware
- - [https://croatiahonestly.com](https://croatiahonestly.com)
- - date_published: 2024-05-06T20:17:08.002869+00:00
-
- ## Croc capital – Investments and support for projects
- - [https://croc-capital.com](https://croc-capital.com)
- - date_published: 2024-06-04T11:32:10.492611+00:00
-
- ## CrociDBlog - A blog about programming, gamedev, hacking projects, creative code, photography and my thoughts. Written by Bruno Croci.
- - [https://crocidb.com](https://crocidb.com)
- - date_published: 2023-10-25T13:36:56.108747+00:00
- - tags: ['personal']
-
- ## Crocker Park Wine Festival – Presented by HealthSource of Avon
- - [https://crockerparkwinefestival.com](https://crockerparkwinefestival.com)
- - date_published: 2024-05-08T05:34:55.761107+00:00
-
- ## crockford.com
- - [https://www.crockford.com](https://www.crockford.com)
- - date_published: 2023-12-31T13:20:44.916201+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.crokes.com](https://www.crokes.com)
- - date_published: 2024-05-07T13:55:17.306311+00:00
-
- ## Cromattica
- - [https://mail.cromattica.com](https://mail.cromattica.com)
- - date_published: 2024-05-02T09:27:01.764457+00:00
-
- ## Bob Cromwell on Linux, Cybersecurity, Travel, and More
- - [https://cromwell-intl.com](https://cromwell-intl.com)
- - date_published: 2023-10-25T13:36:59.002500+00:00
-
- ## Cron
- - [https://calendar.cron.com](https://calendar.cron.com)
- - date_published: 2024-05-06T19:57:42.155467+00:00
-
- ## Cron Calendar
- - [https://cron.com](https://cron.com)
- - date_published: 2024-05-04T13:58:04.801127+00:00
-
- ## La Crónica del Quindí­o
- - [https://www.cronicadelquindio.com](https://www.cronicadelquindio.com)
- - date_published: 2024-06-12T01:29:43.340940+00:00
-
- ## Cronofy Docs
- - [https://docs.cronofy.com](https://docs.cronofy.com)
- - date_published: 2024-05-10T05:32:38.616374+00:00
-
- ## Cronometer: Eat smarter. Live better.
- - [https://cronometer.com](https://cronometer.com)
- - date_published: 2024-04-29T05:15:51.836628+00:00
-
- ## Cronometer Community
- - [https://forums.cronometer.com](https://forums.cronometer.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://support.cronometer.com](https://support.cronometer.com)
- - date_published: 2024-04-29T05:15:18.018669+00:00
-
- ## Crononauta | Barcelona | Servicios Gestionados y 24x7 | Amazon AWS, GCP, Linux
- - [https://www.crononauta.com](https://www.crononauta.com)
- - date_published: 2024-05-14T04:00:06.921455+00:00
-
- ## Home | Crooked Media
- - [https://crooked.com](https://crooked.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Progressive news and media coverage on Crooks and Liars
- - [https://crooksandliars.com](https://crooksandliars.com)
- - date_published: 2024-05-13T20:59:54.478780+00:00
-
- ## CrossCountry App
- - [https://www.crosscountryapp.com](https://www.crosscountryapp.com)
- - date_published: 2024-05-08T06:20:02.227318+00:00
-
- ## Black Arts Legacies: A celebration across time and genres
- - [https://blackartslegacies.crosscut.com](https://blackartslegacies.crosscut.com)
- - date_published: 2024-05-08T06:59:35.011746+00:00
-
- ## Crosscut | Washington state & Seattle News
- - [https://crosscut.com](https://crosscut.com)
- - date_published: 2023-11-09T07:35:36.311494+00:00
- - tags: ['news']
-
- ## Crossmap Blogs - Read Christian Blogs All in One Place
- - [https://blogs.crossmap.com](https://blogs.crossmap.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Crossmap - Christian Search, Portal and Online Community
- - [https://www.crossmap.com](https://www.crossmap.com)
- - date_published: 2024-05-08T05:17:02.632079+00:00
- - tags: ['christian', 'religion']
-
- ## Off The Grid Living - Off The Grid Living
- - [http://www.crossmyt.com](http://www.crossmyt.com)
- - date_published: 2024-05-07T15:41:44.858042+00:00
 

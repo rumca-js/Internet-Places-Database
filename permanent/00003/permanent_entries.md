@@ -1,3 +1,59 @@
+ ## Tiny Theme for Micro.blog
+ - [https://tinyformicro.blog](https://tinyformicro.blog)
+ - date_published: 2024-05-04T14:42:55.366898+00:00
+
+ ## tiny poems
+ - [https://tinypoems.blog](https://tinypoems.blog)
+ - date_published: 2024-05-02T12:54:41.281272+00:00
+
+ ## Tony Dang's Blog
+ - [https://tonydang.blog](https://tonydang.blog)
+ - date_published: 2023-12-12T04:54:16.406463+00:00
+ - tags: ['personal']
+
+ ## | Troof
+ - [https://troof.blog](https://troof.blog)
+ - date_published: 2024-05-02T15:03:39.461851+00:00
+ - tags: ['personal']
+
+ ## twdev.blog
+ - [https://twdev.blog](https://twdev.blog)
+ - date_published: 2023-10-25T12:01:34.984757+00:00
+
+ ## Unfashionable | Sven Schnieders | Substack
+ - [https://unfashionable.blog](https://unfashionable.blog)
+ - date_published: 2023-11-15T19:47:13.588134+00:00
+
+ ## Psychotic, Obscene, and Unoriginal
+ - [https://unoriginal.blog](https://unoriginal.blog)
+ - date_published: 2023-12-09T12:58:13.135218+00:00
+
+ ## Vanilla Java
+ - [https://blog.vanillajava.blog](https://blog.vanillajava.blog)
+ - date_published: 2023-10-25T12:01:45.438171+00:00
+
+ ## w6csn’s outdoor amateur radio
+ - [https://w6csn.blog](https://w6csn.blog)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## weitergedacht – Idee für Idee etwas erwachsener
+ - [https://weitergedacht.blog](https://weitergedacht.blog)
+ - date_published: 2024-01-04T22:41:37.082776+00:00
+
+ ## Hi 👋
+ - [https://yetanother.blog](https://yetanother.blog)
+ - date_published: 2024-05-09T08:17:45.751129+00:00
+ - tags: ['personal']
+
+ ## yield code(); - Dmitry Kudryavtsev
+ - [https://www.yieldcode.blog](https://www.yieldcode.blog)
+ - date_published: 2023-10-25T09:02:08.513966+00:00
+ - tags: ['personal']
+
+ ## يونس بن عمارة
+ - [https://youdo.blog](https://youdo.blog)
+ - date_published: 2024-05-06T13:46:38.200533+00:00
+
  ## ℤ→ℤ
  - [https://ztoz.blog](https://ztoz.blog)
  - date_published: 2024-02-27T00:00:00+00:00
@@ -108,6 +164,10 @@
  ## Núcleo de Informação e Coordenação do Ponto BR - Início
  - [https://www.nic.br](https://www.nic.br)
  - date_published: 2024-05-14T03:51:51.865000+00:00
+
+ ## WWW-DI - Departamento de Informatica - PUC-Rio
+ - [http://www-di.inf.puc-rio.br](http://www-di.inf.puc-rio.br)
+ - date_published: 2023-01-02T16:27:07+00:00
 
  ## PUC-Rio - Pontifícia Universidade Católica do Rio de Janeiro
  - [https://www.puc-rio.br](https://www.puc-rio.br)
@@ -1846,6 +1906,10 @@ Educação
  - [https://canfilmday.ca](https://canfilmday.ca)
  - date_published: 2024-05-01T00:00:00+00:00
 
+ ## Find Software
+ - [https://www.capterra.ca](https://www.capterra.ca)
+ - date_published: 2024-06-13T06:42:11.073248+00:00
+
  ## Carleton University
  - [https://carleton.ca](https://carleton.ca)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -2917,6 +2981,10 @@ Educação
  - [https://muezza.ca](https://muezza.ca)
  - date_published: 2024-01-09T02:27:18.773960+00:00
 
+ ## Computer Science | Computer Science
+ - [http://www.cs.mun.ca](http://www.cs.mun.ca)
+ - date_published: 2024-06-13T18:04:48.721533+00:00
+
  ## MurphysLab.ca
  - [https://murphyslab.ca](https://murphyslab.ca)
  - date_published: 2024-06-01T04:56:30.751877+00:00
@@ -3505,6 +3573,10 @@ Educação
  - [http://pkp.sfu.ca](http://pkp.sfu.ca)
  - date_published: 2024-01-09T00:00:00+00:00
 
+ ## Welcome!
+ - [https://theses.lib.sfu.ca](https://theses.lib.sfu.ca)
+ - date_published: 2024-06-13T18:04:39.173849+00:00
+
  ## Computing Science
  - [https://www2.cs.sfu.ca](https://www2.cs.sfu.ca)
  - date_published: 2023-11-05T04:50:03.089549+00:00
@@ -4028,73 +4100,4 @@ Educação
  ## UCalgary Profiles
  - [https://profiles.ucalgary.ca](https://profiles.ucalgary.ca)
  - date_published: 2024-04-30T05:19:15.196115+00:00
-
- ## Welcome to SAPL
- - [https://sapl.ucalgary.ca](https://sapl.ucalgary.ca)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Home
- - [https://schulich.ucalgary.ca](https://schulich.ucalgary.ca)
- - date_published: 2024-04-30T05:19:08.849087+00:00
-
- ## SCIENCE Home
- - [https://science.ucalgary.ca](https://science.ucalgary.ca)
- - date_published: 2024-04-30T05:19:20.857774+00:00
-
- ## Home
- - [https://spp.ucalgary.ca](https://spp.ucalgary.ca)
- - date_published: 2024-04-30T05:25:37.161520+00:00
-
- ## University of Calgary
- - [https://ucalgary.ca](https://ucalgary.ca)
- - date_published: 2023-10-25T12:08:42.919794+00:00
- - tags: ['university']
-
- ## Home
- - [https://vet.ucalgary.ca](https://vet.ucalgary.ca)
- - date_published: 2024-04-30T05:25:39.359449+00:00
-
- ## Home
- - [https://werklund.ucalgary.ca](https://werklund.ucalgary.ca)
- - date_published: 2024-04-30T05:20:24.145947+00:00
-
- ## Top Degree Programs and Research in Canada
- - [https://www.ucalgary.ca](https://www.ucalgary.ca)
- - date_published: 2024-04-30T05:19:06.036688+00:00
-
- ## uDiscover Music: discover more about the world’s greatest music
- - [https://udiscovermusic.ca](https://udiscovermusic.ca)
- - date_published: 2024-05-06T21:11:24.115013+00:00
-
- ## uDiscover Music: discover more about the world’s greatest music
- - [http://www.udiscovermusic.ca](http://www.udiscovermusic.ca)
- - date_published: 2024-05-06T21:11:27.034376+00:00
-
- ## Welcome to the Urban Exploration Resource! - Urban Exploration Resource
- - [http://www.uer.ca](http://www.uer.ca)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## UX Designer Corner
- - [https://uglyduck.ca](https://uglyduck.ca)
- - date_published: 2024-05-07T23:15:32.149187+00:00
-
- ## -| LVSN -Accueil |-
- - [https://vision.gel.ulaval.ca](https://vision.gel.ulaval.ca)
- - date_published: 2024-05-09T08:59:55.817645+00:00
-
- ## Home - Umoja Operation Compassion Society
- - [https://umojaoperation.ca](https://umojaoperation.ca)
- - date_published: 2024-02-08T16:43:37.261232+00:00
-
- ## Bibliothèques - Université de Montréal
- - [https://bib.umontreal.ca](https://bib.umontreal.ca)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Calendrier de l'Université de Montréal
- - [http://calendrier.umontreal.ca](http://calendrier.umontreal.ca)
- - date_published: 2024-04-30T05:25:50.277279+00:00
-
- ## Carabins de l'Université de Montréal
- - [https://carabins.umontreal.ca](https://carabins.umontreal.ca)
- - date_published: 2024-04-29T00:00:00+00:00
 

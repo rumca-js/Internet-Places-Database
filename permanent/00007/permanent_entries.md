@@ -1,3 +1,103 @@
+ ## Inicio | Fundación Universitaria Juan N. Corpas
+ - [https://www.juanncorpas.edu.co](https://www.juanncorpas.edu.co)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Biblioteca Juan Alberto Aragón Bateman catalog
+ - [https://biblioteca.konradlorenz.edu.co](https://biblioteca.konradlorenz.edu.co)
+ - date_published: 2024-06-12T11:04:03.979999+00:00
+
+ ## Ser Konradista - Fundación Universitaria Konrad Lorenz
+ - [https://la.konradlorenz.edu.co](https://la.konradlorenz.edu.co)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Medio Universitario | Fundación Universitaria Konrad Lorenz
+ - [https://mediouniversitario.konradlorenz.edu.co](https://mediouniversitario.konradlorenz.edu.co)
+ - date_published: 2024-06-12T03:20:50.480962+00:00
+
+ ## Apache Tomcat/9.0.71
+ - [https://serviciosweb.konradlorenz.edu.co](https://serviciosweb.konradlorenz.edu.co)
+ - date_published: 2024-06-12T03:20:58.564438+00:00
+
+ ## Home - Aspirantes - Pregrados y Posgrados en Bogotá
+ - [https://www.konradlorenz.edu.co](https://www.konradlorenz.edu.co)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Secretaría de Educación ⋆ Secretaría de Educación
+ - [https://medellin.edu.co](https://medellin.edu.co)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Secretaría de Educación ⋆ Secretaría de Educación
+ - [https://www.medellin.edu.co](https://www.medellin.edu.co)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Página de inicio - Unidad de Educación Continua - I.U. Pascual Bravo
+ - [https://educacioncontinua.pascualbravo.edu.co](https://educacioncontinua.pascualbravo.edu.co)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Unidad de EducaciÃ³n Digital
+ - [https://mercurio.pascualbravo.edu.co](https://mercurio.pascualbravo.edu.co)
+ - date_published: 2024-06-12T11:28:15.432028+00:00
+
+ ## Inicio - Institución Universitaria Pascual Bravo
+ - [https://pascualbravo.edu.co](https://pascualbravo.edu.co)
+ - date_published: 2024-06-12T03:34:57.633125+00:00
+
+ ## Institucion Universitaria Pascual Bravo: Home
+ - [https://repositorio.pascualbravo.edu.co](https://repositorio.pascualbravo.edu.co)
+ - date_published: 2024-06-12T11:28:32.568514+00:00
+
+ ## Revista CINTEX
+ - [https://revistas.pascualbravo.edu.co](https://revistas.pascualbravo.edu.co)
+ - date_published: 2024-06-12T11:28:27.678794+00:00
+
+ ## SICAU - Acceso no autorizado
+ - [https://sicau.pascualbravo.edu.co](https://sicau.pascualbravo.edu.co)
+ - date_published: 2024-06-12T11:28:13.930418+00:00
+
+ ## Inicio - Institución Universitaria Pascual Bravo
+ - [https://www.pascualbravo.edu.co](https://www.pascualbravo.edu.co)
+ - date_published: 2024-06-12T11:29:22.759651+00:00
+
+ ## Campus Digital
+ - [https://www.pascualbravovirtual.edu.co](https://www.pascualbravovirtual.edu.co)
+ - date_published: 2024-06-12T11:28:12.198264+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [https://directorio.pedagogica.edu.co](https://directorio.pedagogica.edu.co)
+ - date_published: 2014-10-16T13:20:58+00:00
+
+ ## Inicio | UPN
+ - [https://pqrsfd.pedagogica.edu.co](https://pqrsfd.pedagogica.edu.co)
+ - date_published: 2024-06-12T03:12:24.934979+00:00
+
+ ## UPN
+ - [http://www.pedagogica.edu.co](http://www.pedagogica.edu.co)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## | Politécnico Grancolombiano
+ - [https://www.poli.edu.co](https://www.poli.edu.co)
+ - date_published: 2024-06-12T12:15:01.726761+00:00
+
+ ## Index Page
+ - [https://opscs.ucc.edu.co](https://opscs.ucc.edu.co)
+ - date_published: 2024-06-12T11:31:04.426220+00:00
+
+ ## Universidad Cooperativa de Colombia | UCC
+ - [https://ucc.edu.co](https://ucc.edu.co)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Universidad Cooperativa de Colombia | UCC
+ - [https://www.ucc.edu.co](https://www.ucc.edu.co)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Universidad Central – Sitio oficial
+ - [https://www.ucentral.edu.co](https://www.ucentral.edu.co)
+ - date_published: 2024-06-11T23:04:25+00:00
+
+ ## Inicio - Universidad Distrital Francisco José de Caldas
+ - [http://acreditacion-ambiental.udistrital.edu.co](http://acreditacion-ambiental.udistrital.edu.co)
+ - date_published: 2024-06-12T10:58:56.141788+00:00
+
  ## inicio - Universidad Distrital Francisco José de Caldas
  - [http://acreditacion-facciencias.udistrital.edu.co](http://acreditacion-facciencias.udistrital.edu.co)
  - date_published: 2024-06-12T10:58:53.351404+00:00
@@ -3389,6 +3489,10 @@
  - date_published: 2024-05-01T03:48:59.735235+00:00
 
  ## Portable 3D Scanners | For 3D Printing & Design | 3DMakerpro
+ - [https://link.3dmakerpro.com](https://link.3dmakerpro.com)
+ - date_published: 2024-06-13T22:56:12.901167+00:00
+
+ ## Portable 3D Scanners | For 3D Printing & Design | 3DMakerpro
  - [https://store.3dmakerpro.com](https://store.3dmakerpro.com)
  - date_published: 2024-04-30T07:49:45.368647+00:00
  - tags: ['3d printing', '3d scanning']
@@ -3559,7 +3663,7 @@
 
  ## 42nd Indiana Volunteer Infantry
  - [https://www.42ndindiana.com](https://www.42ndindiana.com)
- - date_published: 2024-02-08T16:33:06.239796+00:00
+ - date_published: 2023-12-26T18:44:34+00:00
 
  ## 45TV
  - [https://www.45tv.com](https://www.45tv.com)
@@ -3673,8 +3777,8 @@
  - date_published: 2024-04-17T00:00:00+00:00
 
  ## 50 Plus Reinvented
- - [http://50plusreinvented.com](http://50plusreinvented.com)
- - date_published: 2023-12-22T22:30:43.074005+00:00
+ - [https://50plusreinvented.com](https://50plusreinvented.com)
+ - date_published: 2019-05-11T03:26:45+00:00
  - tags: ['personal']
 
  ## Personal Banking
@@ -3683,7 +3787,7 @@
 
  ## A Journey in Creating an Operating System Kernel: The 539kernel Book - Home
  - [https://539kernel.com](https://539kernel.com)
- - date_published: 2023-10-25T12:27:47.416154+00:00
+ - date_published: 2022-12-04T13:20:47+00:00
 
  ## 55 The Game – Swiper
  - [https://55thegame.com](https://55thegame.com)
@@ -3971,114 +4075,4 @@
  ## Access Denied
  - [https://www.9news.com](https://www.9news.com)
  - date_published: 2023-11-22T04:44:23.039556+00:00
-
- ## 9 Tailed Kitsune – Get Your Daily Dose of Quality Anime Content
- - [https://9tailedkitsune.com](https://9tailedkitsune.com)
- - date_published: 2023-10-25T15:04:47.546602+00:00
- - tags: ['anime']
-
- ## Compose your favorite armies !
- - [https://9thbuilder.com](https://9thbuilder.com)
- - date_published: 2024-03-22T00:00:00+00:00
- - tags: ['army builder', 'wargames', 'warhammer']
-
- ## Compose your favorite armies !
- - [https://assets.9thbuilder.com](https://assets.9thbuilder.com)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Compose your favorite armies !
- - [https://www.9thbuilder.com](https://www.9thbuilder.com)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## 9to5Google - Google news, Pixel, Android, Home, Chrome OS, more
- - [https://9to5google.com](https://9to5google.com)
- - date_published: 2023-10-25T12:28:19.255185+00:00
- - tags: ['google news']
-
- ## 9to5Linux - Linux news, reviews, tutorials, and more
- - [https://9to5linux.com](https://9to5linux.com)
- - date_published: 2023-10-25T10:35:55.257332+00:00
- - tags: ['linux news']
-
- ## 9to5Mac - Apple News & Mac Rumors Breaking All Day
- - [https://9to5mac.com](https://9to5mac.com)
- - date_published: 2023-10-25T09:30:57.911213+00:00
-
- ## 9to5Mac - Apple News & Mac Rumors Breaking All Day
- - [https://www.9to5mac.com](https://www.9to5mac.com)
- - date_published: 2024-04-30T08:01:07.631365+00:00
-
- ## 9to5Toys
- - [https://9to5toys.com](https://9to5toys.com)
- - date_published: 2024-04-30T08:00:33.279627+00:00
-
- ## 9x0rg
- - [https://9x0rg.com](https://9x0rg.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Home - The A11Y Project
- - [https://www.a11yproject.com](https://www.a11yproject.com)
- - date_published: 2024-04-29T06:02:03.561192+00:00
-
- ## A16 Pizza | Neighborhood Restaurant and Wine Spot in CA
- - [https://www.a16pizza.com](https://www.a16pizza.com)
- - date_published: 2024-05-06T16:28:21.469883+00:00
-
- ## Andreessen Horowitz | Software Is Eating the World
- - [https://a16z.com](https://a16z.com)
- - date_published: 2023-10-25T12:28:40.833485+00:00
-
- ## Future | Understand the Future and How to Build It
- - [https://future.a16z.com](https://future.a16z.com)
- - date_published: 2024-04-29T03:10:52.999261+00:00
-
- ## Andreessen Horowitz | Software Is Eating the World
- - [https://info.a16z.com](https://info.a16z.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Jobs at Andreessen Horowitz Companies | Andreessen Horowitz
- - [https://jobs.a16z.com](https://jobs.a16z.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Andreessen Horowitz | Software Is Eating the World
- - [https://www.a16z.com](https://www.a16z.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## a16z crypto
- - [https://a16zcrypto.com](https://a16zcrypto.com)
- - date_published: 2023-10-25T12:28:43.527947+00:00
-
- ## A2 Hosting Affiliate Program
- - [https://affiliates.a2hosting.com](https://affiliates.a2hosting.com)
- - date_published: 2024-05-14T04:05:58.307734+00:00
-
- ## The Best Web Hosting Services at 20x Speeds - A2Hosting
- - [https://www.a2hosting.com](https://www.a2hosting.com)
- - date_published: 2022-11-07T15:32:40+00:00
-
- ## Midway Authentication Portal
- - [https://info.analytics.a2z.com](https://info.analytics.a2z.com)
- - date_published: 2024-05-04T08:26:33.828888+00:00
-
- ## A600GS from AmigaKit Ltd
- - [https://www.a600gs.com](https://www.a600gs.com)
- - date_published: 2024-05-08T17:19:17.976027+00:00
- - tags: ['amiga']
-
- ## Amazon.com
- - [http://a9.com](http://a9.com)
- - date_published: 2024-04-29T03:05:42.780810+00:00
-
- ## Citi® / AAdvantage® - American Airlines Credit Card Offers - Travel Card Bonus Mile Rewards | AA.com
- - [https://creditcards.aa.com](https://creditcards.aa.com)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Gift Cards - Home Page - American Airlines
- - [https://giftcards.aa.com](https://giftcards.aa.com)
- - date_published: 2024-05-12T05:13:47.173419+00:00
-
- ## American Airlines - Airline tickets and low fares at aa.com
- - [https://www.aa.com](https://www.aa.com)
- - date_published: 2024-04-02T14:28:42+00:00
- - tags: ['airline']
 

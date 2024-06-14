@@ -1,3 +1,72 @@
+ ## Welcome to SAPL
+ - [https://sapl.ucalgary.ca](https://sapl.ucalgary.ca)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Home
+ - [https://schulich.ucalgary.ca](https://schulich.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:08.849087+00:00
+
+ ## SCIENCE Home
+ - [https://science.ucalgary.ca](https://science.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:20.857774+00:00
+
+ ## Home
+ - [https://spp.ucalgary.ca](https://spp.ucalgary.ca)
+ - date_published: 2024-04-30T05:25:37.161520+00:00
+
+ ## University of Calgary
+ - [https://ucalgary.ca](https://ucalgary.ca)
+ - date_published: 2023-10-25T12:08:42.919794+00:00
+ - tags: ['university']
+
+ ## Home
+ - [https://vet.ucalgary.ca](https://vet.ucalgary.ca)
+ - date_published: 2024-04-30T05:25:39.359449+00:00
+
+ ## Home
+ - [https://werklund.ucalgary.ca](https://werklund.ucalgary.ca)
+ - date_published: 2024-04-30T05:20:24.145947+00:00
+
+ ## Top Degree Programs and Research in Canada
+ - [https://www.ucalgary.ca](https://www.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:06.036688+00:00
+
+ ## uDiscover Music: discover more about the world’s greatest music
+ - [https://udiscovermusic.ca](https://udiscovermusic.ca)
+ - date_published: 2024-05-06T21:11:24.115013+00:00
+
+ ## uDiscover Music: discover more about the world’s greatest music
+ - [http://www.udiscovermusic.ca](http://www.udiscovermusic.ca)
+ - date_published: 2024-05-06T21:11:27.034376+00:00
+
+ ## Welcome to the Urban Exploration Resource! - Urban Exploration Resource
+ - [http://www.uer.ca](http://www.uer.ca)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## UX Designer Corner
+ - [https://uglyduck.ca](https://uglyduck.ca)
+ - date_published: 2024-05-07T23:15:32.149187+00:00
+
+ ## -| LVSN -Accueil |-
+ - [https://vision.gel.ulaval.ca](https://vision.gel.ulaval.ca)
+ - date_published: 2024-05-09T08:59:55.817645+00:00
+
+ ## Home - Umoja Operation Compassion Society
+ - [https://umojaoperation.ca](https://umojaoperation.ca)
+ - date_published: 2024-02-08T16:43:37.261232+00:00
+
+ ## Bibliothèques - Université de Montréal
+ - [https://bib.umontreal.ca](https://bib.umontreal.ca)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Calendrier de l'Université de Montréal
+ - [http://calendrier.umontreal.ca](http://calendrier.umontreal.ca)
+ - date_published: 2024-04-30T05:25:50.277279+00:00
+
+ ## Carabins de l'Université de Montréal
+ - [https://carabins.umontreal.ca](https://carabins.umontreal.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
  ## Direction de l'enseignement de service en informatique
  - [https://desi.umontreal.ca](https://desi.umontreal.ca)
  - date_published: 2024-04-30T05:27:09.037559+00:00
@@ -333,6 +402,10 @@
  ## Media Room & Blue Book – University of Toronto
  - [http://www.bluebook.utoronto.ca](http://www.bluebook.utoronto.ca)
  - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Department of Computer Science, University of Toronto
+ - [https://www.cs.utoronto.ca](https://www.cs.utoronto.ca)
+ - date_published: 2024-06-13T18:04:54.685024+00:00
 
  ## Dalla Lana School of Public Health
  - [https://www.dlsph.utoronto.ca](https://www.dlsph.utoronto.ca)
@@ -1248,6 +1321,7 @@
  ## Abominable | karlkerschl
  - [http://www.abominable.cc](http://www.abominable.cc)
  - date_published: 2024-06-14T00:00:00+00:00
+ - tags: ['comics', 'webcomics']
 
  ## ACNH Fringe Fest
  - [https://acnhfringe.cc](https://acnhfringe.cc)
@@ -1464,9 +1538,15 @@
  - [https://llava.hliu.cc](https://llava.hliu.cc)
  - date_published: 2024-01-30T00:00:00+00:00
 
+ ## ICLR Blog – ICLR Blog
+ - [https://blog.iclr.cc](https://blog.iclr.cc)
+ - date_published: 2024-06-13T18:25:39.318477+00:00
+ - tags: ['conference', 'dei']
+
  ## 2024 Conference
  - [https://iclr.cc](https://iclr.cc)
  - date_published: 2024-04-28T03:38:38.671982+00:00
+ - tags: ['dei']
 
  ## ICML 2024
  - [https://icml.cc](https://icml.cc)
@@ -1869,6 +1949,10 @@
  ## The V Programming Language (@vlang) | Veery
  - [https://vlang.veery.cc](https://vlang.veery.cc)
  - date_published: 2023-07-01T00:00:00+00:00
+
+ ## Sign in | VK
+ - [https://vk.cc](https://vk.cc)
+ - date_published: 2024-06-13T16:58:57.420045+00:00
 
  ## web0 - Reader view page generator
  - [https://web0.cc](https://web0.cc)
@@ -3870,6 +3954,10 @@
  - date_published: 2024-05-09T06:56:35.613376+00:00
  - tags: ['personal']
 
+ ## Schreibszene und CMA
+ - [https://video.schreibszene.ch](https://video.schreibszene.ch)
+ - date_published: 2024-06-13T22:10:58+00:00
+
  ## Postgrey - Postfix Greylisting Policy Server
  - [https://postgrey.schweikert.ch](https://postgrey.schweikert.ch)
  - date_published: 2024-05-14T03:49:44.773687+00:00
@@ -3968,89 +4056,4 @@
  ## Startseite Portal der Stadt Zürich - Stadt Zürich
  - [https://www.stadt-zuerich.ch](https://www.stadt-zuerich.ch)
  - date_published: 2024-04-11T00:00:00+00:00
-
- ## About
- - [https://michael.stapelberg.ch](https://michael.stapelberg.ch)
- - date_published: 2023-10-25T09:03:20.383919+00:00
- - tags: ['personal']
-
- ## Starfish: Photos of fishes, invertebrates (molluscs, crustaceans, echinoderms, worms, corals, sponges, jellyfish and more), reptiles, rays and sharks. Start your dive into the coral reef!
- - [http://www.starfish.ch](http://www.starfish.ch)
- - date_published: 2024-05-07T22:32:01.296516+00:00
-
- ## SwissTech Convention Center
- - [https://www.stcc.ch](https://www.stcc.ch)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Error 403
- - [https://www.studenthome.ch](https://www.studenthome.ch)
- - date_published: 2024-05-12T07:24:51.165480+00:00
-
- ## Home - Students Village Lausanne
- - [https://studentvillage-lausanne.ch](https://studentvillage-lausanne.ch)
- - date_published: 2024-05-12T07:16:10.009129+00:00
-
- ## Mobile, TV, Internet: Swisscom Residential Customers
- - [https://www.swisscom.ch](https://www.swisscom.ch)
- - date_published: 2024-05-01T05:57:58.272424+00:00
-
- ## Dialog.ue.o
- - [https://dialogue.swissinfo.ch](https://dialogue.swissinfo.ch)
- - date_published: 2024-06-10T09:34:20.214078+00:00
-
- ## Startseite
- - [https://jobs.swissinfo.ch](https://jobs.swissinfo.ch)
- - date_published: 2024-04-30T06:12:14.152096+00:00
-
- ## Play SWI
- - [https://play.swissinfo.ch](https://play.swissinfo.ch)
- - date_published: 2024-04-30T06:12:20.676544+00:00
-
- ## Switzerland - News and perspectives - SWI swissinfo.ch
- - [https://www.swissinfo.ch](https://www.swissinfo.ch)
- - date_published: 2023-10-25T12:14:25.180277+00:00
-
- ## SwissMOOC Service - SwissMOOC Service
- - [https://www.swissmooc.ch](https://www.swissmooc.ch)
- - date_published: 2024-05-12T07:17:27.873693+00:00
-
- ## Home - swissuniversities
- - [https://www.swissuniversities.ch](https://www.swissuniversities.ch)
- - date_published: 2024-04-30T06:14:59.013792+00:00
-
- ## SWITCH edu-ID Login
- - [https://drive.switch.ch](https://drive.switch.ch)
- - date_published: 2024-05-12T07:15:00.403905+00:00
-
- ## Switzerland Times | Latest Switzerland News
- - [https://switzerlandtimes.ch](https://switzerlandtimes.ch)
- - date_published: 2023-10-25T12:14:30.377990+00:00
-
- ## Schwyzer Kantonalbank - Gut beraten, Schwyzer Art
- - [https://www.szkb.ch](https://www.szkb.ch)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Agenda - Tages-Anzeiger
- - [https://agenda.tagesanzeiger.ch](https://agenda.tagesanzeiger.ch)
- - date_published: 2024-04-30T06:13:13.396498+00:00
-
- ## Home
- - [https://gesundheit.tagesanzeiger.ch](https://gesundheit.tagesanzeiger.ch)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Tages-Anzeiger
- - [https://helpcenter.tagesanzeiger.ch](https://helpcenter.tagesanzeiger.ch)
- - date_published: 2024-04-30T06:12:33.763411+00:00
-
- ## It works
- - [https://interaktiv-mf.dev-disco.tagesanzeiger.ch](https://interaktiv-mf.dev-disco.tagesanzeiger.ch)
- - date_published: 2024-04-30T06:12:48.688051+00:00
-
- ## Home
- - [https://unternehmen.tagesanzeiger.ch](https://unternehmen.tagesanzeiger.ch)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Tages-Anzeiger | Aktuelle Nachrichten und Hintergründe.
- - [https://www.tagesanzeiger.ch](https://www.tagesanzeiger.ch)
- - date_published: 2023-10-25T12:14:40.969018+00:00
 

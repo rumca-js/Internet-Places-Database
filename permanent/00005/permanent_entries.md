@@ -1,3 +1,88 @@
+ ## About
+ - [https://michael.stapelberg.ch](https://michael.stapelberg.ch)
+ - date_published: 2023-10-25T09:03:20.383919+00:00
+ - tags: ['personal']
+
+ ## Starfish: Photos of fishes, invertebrates (molluscs, crustaceans, echinoderms, worms, corals, sponges, jellyfish and more), reptiles, rays and sharks. Start your dive into the coral reef!
+ - [http://www.starfish.ch](http://www.starfish.ch)
+ - date_published: 2024-05-07T22:32:01.296516+00:00
+
+ ## SwissTech Convention Center
+ - [https://www.stcc.ch](https://www.stcc.ch)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Error 403
+ - [https://www.studenthome.ch](https://www.studenthome.ch)
+ - date_published: 2024-05-12T07:24:51.165480+00:00
+
+ ## Home - Students Village Lausanne
+ - [https://studentvillage-lausanne.ch](https://studentvillage-lausanne.ch)
+ - date_published: 2024-05-12T07:16:10.009129+00:00
+
+ ## Mobile, TV, Internet: Swisscom Residential Customers
+ - [https://www.swisscom.ch](https://www.swisscom.ch)
+ - date_published: 2024-05-01T05:57:58.272424+00:00
+
+ ## Dialog.ue.o
+ - [https://dialogue.swissinfo.ch](https://dialogue.swissinfo.ch)
+ - date_published: 2024-06-10T09:34:20.214078+00:00
+
+ ## Startseite
+ - [https://jobs.swissinfo.ch](https://jobs.swissinfo.ch)
+ - date_published: 2024-04-30T06:12:14.152096+00:00
+
+ ## Play SWI
+ - [https://play.swissinfo.ch](https://play.swissinfo.ch)
+ - date_published: 2024-04-30T06:12:20.676544+00:00
+
+ ## Switzerland - News and perspectives - SWI swissinfo.ch
+ - [https://www.swissinfo.ch](https://www.swissinfo.ch)
+ - date_published: 2023-10-25T12:14:25.180277+00:00
+
+ ## SwissMOOC Service - SwissMOOC Service
+ - [https://www.swissmooc.ch](https://www.swissmooc.ch)
+ - date_published: 2024-05-12T07:17:27.873693+00:00
+
+ ## Home - swissuniversities
+ - [https://www.swissuniversities.ch](https://www.swissuniversities.ch)
+ - date_published: 2024-04-30T06:14:59.013792+00:00
+
+ ## SWITCH edu-ID Login
+ - [https://drive.switch.ch](https://drive.switch.ch)
+ - date_published: 2024-05-12T07:15:00.403905+00:00
+
+ ## Switzerland Times | Latest Switzerland News
+ - [https://switzerlandtimes.ch](https://switzerlandtimes.ch)
+ - date_published: 2023-10-25T12:14:30.377990+00:00
+
+ ## Schwyzer Kantonalbank - Gut beraten, Schwyzer Art
+ - [https://www.szkb.ch](https://www.szkb.ch)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Agenda - Tages-Anzeiger
+ - [https://agenda.tagesanzeiger.ch](https://agenda.tagesanzeiger.ch)
+ - date_published: 2024-04-30T06:13:13.396498+00:00
+
+ ## Home
+ - [https://gesundheit.tagesanzeiger.ch](https://gesundheit.tagesanzeiger.ch)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Tages-Anzeiger
+ - [https://helpcenter.tagesanzeiger.ch](https://helpcenter.tagesanzeiger.ch)
+ - date_published: 2024-04-30T06:12:33.763411+00:00
+
+ ## It works
+ - [https://interaktiv-mf.dev-disco.tagesanzeiger.ch](https://interaktiv-mf.dev-disco.tagesanzeiger.ch)
+ - date_published: 2024-04-30T06:12:48.688051+00:00
+
+ ## Home
+ - [https://unternehmen.tagesanzeiger.ch](https://unternehmen.tagesanzeiger.ch)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Tages-Anzeiger | Aktuelle Nachrichten und Hintergründe.
+ - [https://www.tagesanzeiger.ch](https://www.tagesanzeiger.ch)
+ - date_published: 2023-10-25T12:14:40.969018+00:00
+
  ## Deine Karriere bei Tamedia | Tamedia
  - [https://jobs.tamedia.ch](https://jobs.tamedia.ch)
  - date_published: 2024-04-30T06:13:17.650790+00:00
@@ -959,6 +1044,10 @@
  - [https://mcm.click](https://mcm.click)
  - date_published: 2024-05-02T12:37:34.227991+00:00
 
+ ## Plausible · Web analytics
+ - [https://click.pageview.click](https://click.pageview.click)
+ - date_published: 2024-06-13T06:42:50.540429+00:00
+
  ## Find Mental Health Treatment: London Psychiatry Clinic
  - [https://londonpsychiatry.clinic](https://londonpsychiatry.clinic)
  - date_published: 2024-04-26T00:00:00+00:00
@@ -1732,6 +1821,10 @@
  ## Oku - the companion app for your bookshelf
  - [https://static.oku.club](https://static.oku.club)
  - date_published: 2024-05-09T05:11:43.808633+00:00
+
+ ## Palm Creek Computer Club - Taking Your Skills to the Next Level
+ - [https://pccomputer.club](https://pccomputer.club)
+ - date_published: 2024-06-13T22:11:00.792464+00:00
 
  ## Peer Video Club
  - [https://peervideo.club](https://peervideo.club)
@@ -2670,6 +2763,10 @@
  - [https://www.asus.com.cn](https://www.asus.com.cn)
  - date_published: 2024-04-30T06:17:00.289031+00:00
 
+ ## Autodesk empowers innovators everywhere to make the new possible
+ - [https://www.autodesk.com.cn](https://www.autodesk.com.cn)
+ - date_published: 2024-02-06T13:40:58+00:00
+
  ## | BenQ 中国
  - [https://www.benq.com.cn](https://www.benq.com.cn)
  - date_published: 2024-05-07T23:30:38.577768+00:00
@@ -3061,6 +3158,10 @@
  ## 清华大学
  - [https://www.tsinghua.edu.cn](https://www.tsinghua.edu.cn)
  - date_published: 2024-05-04T15:42:08.985965+00:00
+
+ ## home.ustc.edu.cn
+ - [http://home.ustc.edu.cn](http://home.ustc.edu.cn)
+ - date_published: 2022-10-10T01:45:13+00:00
 
  ## 浙江大学计算机辅助设计与图形学国家重点实验室
  - [http://www.cad.zju.edu.cn](http://www.cad.zju.edu.cn)
@@ -3944,105 +4045,4 @@
  ## Log in to your account | Campaign Monitor
  - [https://mailings.bryanjohnson.co](https://mailings.bryanjohnson.co)
  - date_published: 2024-05-08T03:49:12.692522+00:00
-
- ## BTCPOP Blog
- - [https://blog.btcpop.co](https://blog.btcpop.co)
- - date_published: 2024-05-01T06:28:22.771940+00:00
-
- ## Bubblic – End loneliness together.
- - [https://bubblic.co](https://bubblic.co)
- - date_published: 2023-10-25T12:17:13.739153+00:00
-
- ## built by z
- - [https://builtbyz.co](https://builtbyz.co)
- - date_published: 2024-05-07T18:55:13.492524+00:00
-
- ## The Bullet Train Blog
- - [https://blog.bullettrain.co](https://blog.bullettrain.co)
- - date_published: 2024-04-30T06:31:36.431270+00:00
-
- ## The Ruby on Rails SaaS Template | Bullet Train
- - [https://bullettrain.co](https://bullettrain.co)
- - date_published: 2023-10-25T12:17:16.481583+00:00
-
- ## Home
- - [https://burf.co](https://burf.co)
- - date_published: 2024-06-10T07:06:21.547122+00:00
- - tags: ['personal']
-
- ## Business Side | Substack
- - [https://www.businessside.co](https://www.businessside.co)
- - date_published: 2023-10-25T12:17:20.577548+00:00
-
- ## Control spend with procurement software | Ramp
- - [https://www.buyer.co](https://www.buyer.co)
- - date_published: 2024-05-06T13:47:18.215332+00:00
-
- ## BYLT — Minimalist WordPress Themes
- - [https://bylt.co](https://bylt.co)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Be Yourself
- - [https://byrslf.co](https://byrslf.co)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Sign in - Campsite
- - [https://app.campsite.co](https://app.campsite.co)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Sign in - Campsite
- - [https://auth.campsite.co](https://auth.campsite.co)
- - date_published: 2024-04-30T06:32:01.130084+00:00
-
- ## Campsite — The easiest way to keep everyone in the loop.
- - [https://campsite.co](https://campsite.co)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## RSUs simplified
- - [https://candor.co](https://candor.co)
- - date_published: 2024-05-06T14:11:58.623034+00:00
-
- ## Data Extraction & Automation Platform | Captain Data
- - [https://www.captaindata.co](https://www.captaindata.co)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Cardsmith - Sticky Notes For Brainstorming & Tracking Projects
- - [https://cardsmith.co](https://cardsmith.co)
- - date_published: 2024-05-06T13:56:50.487093+00:00
-
- ## Patient Portal | Powered by Carebit
- - [https://london-psychiatry-clinic.carebit.co](https://london-psychiatry-clinic.carebit.co)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Caribou
- - [https://caribou.co](https://caribou.co)
- - date_published: 2024-05-07T10:03:33.612349+00:00
-
- ## Carolina Carvajal - Cirujana Plástica
- - [https://carolinacarvajal.co](https://carolinacarvajal.co)
- - date_published: 2023-06-27T00:00:00+00:00
-
- ## anglefan commission info
- - [https://afncms.carrd.co](https://afncms.carrd.co)
- - date_published: 2024-05-08T10:43:54.847372+00:00
-
- ## Ways To Help
- - [https://blacklivesmatters.carrd.co](https://blacklivesmatters.carrd.co)
- - date_published: 2024-05-01T04:04:47.227285+00:00
-
- ## the burrito zone
- - [https://burritogal.carrd.co](https://burritogal.carrd.co)
- - date_published: 2024-05-08T10:44:05.540678+00:00
-
- ## Carrd - Simple, free, fully responsive one-page sites for pretty much anything
- - [https://carrd.co](https://carrd.co)
- - date_published: 2024-05-06T14:11:35.023290+00:00
-
- ## Music Industry Job Board
- - [https://musicjobboard.carrd.co](https://musicjobboard.carrd.co)
- - date_published: 2024-05-07T14:12:54.300312+00:00
-
- ## nykTV
- - [https://nyktv.carrd.co](https://nyktv.carrd.co)
- - date_published: 2024-05-09T08:22:17.272823+00:00
 
