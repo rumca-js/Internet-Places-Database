@@ -91,6 +91,14 @@ Remember: a good page is always ranked higher.
 
 You may wonder, why am I writing about search engine "keywords" meta field, if Google does not need them. Well I don't like Google. If we want alternative solutions to exist, it should be possible to easily find your page from simpler search engines. Provide keywords field if you support open web.
 
+# Benefit - Security
+
+Google Search is known to be susceptible to malvertising. Predatory web pages can "disguise" them as other pages. The displayed link in Google Search does not have to be the linked you will be transported to.
+
+ - This local search does not require Internet to operate. Once downloaded - you can just search these meta information
+ - This local search might be faster than your ISP, depending on drive, machine, etc
+ - It may be more secure. You can verify domain, it's status, how long it operates before accessing the Internet
+
 # Tags
 
 Each entry can be tagged. Most notable examples of tags
