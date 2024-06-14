@@ -143,9 +143,9 @@ Other
  - artificial intelligence bot - bots that can respond to your queries
  - gatekeeper - platforms that are too big to fail. Monopolies, big tech, etc.
 
-# Realses
+# Releases
 
-Binary releases will be provided in form of SQLite table. The tables should be similar, if not exatcly same as in [Django link archive](https://github.com/rumca-js/Django-link-archive) project. Use SQL viewer to see what kind of data it contains. Most likely "entries" with fields such as "title", "description" etc.
+Binary releases will be provided in form of SQLite table. The tables should be similar, if not exatcly same as in [Django link archive](https://github.com/rumca-js/Django-link-archive) project. Use SQL viewer to see what kind of data it contains. Table "entries" with fields such as "title", "description" etc.
 
 This binary release can be used directly as-is in any project you like.
 
