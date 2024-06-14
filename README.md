@@ -49,6 +49,14 @@ Sources:
   <img alt="Meme" src="images/ihavewatched.png" style="width:450px">
 </div>
 
+# Benefit - Security
+
+Google Search is known to be susceptible to malvertising. Predatory web pages can "disguise" them as other pages. The displayed link in Google Search does not have to be the linked you will be transported to.
+
+ - This local search does not require Internet to operate. Once downloaded - you can just search these meta information
+ - This local search might be faster than your ISP, depending on drive, machine, etc
+ - It may be more secure. You can verify domain, it's status, how long it operates before accessing the Internet
+
 # Alternative solutions
 
 - [Internet Archive](https://www.archive.org/)
@@ -90,14 +98,6 @@ Your page, domain exist alongside thousands of other pages. Imagine your meta da
 Remember: a good page is always ranked higher.
 
 You may wonder, why am I writing about search engine "keywords" meta field, if Google does not need them. Well I don't like Google. If we want alternative solutions to exist, it should be possible to easily find your page from simpler search engines. Provide keywords field if you support open web.
-
-# Benefit - Security
-
-Google Search is known to be susceptible to malvertising. Predatory web pages can "disguise" them as other pages. The displayed link in Google Search does not have to be the linked you will be transported to.
-
- - This local search does not require Internet to operate. Once downloaded - you can just search these meta information
- - This local search might be faster than your ISP, depending on drive, machine, etc
- - It may be more secure. You can verify domain, it's status, how long it operates before accessing the Internet
 
 # Tags
 
@@ -142,6 +142,12 @@ Other
 
  - artificial intelligence bot - bots that can respond to your queries
  - gatekeeper - platforms that are too big to fail. Monopolies, big tech, etc.
+
+# Realses
+
+Binary releases will be provided in form of SQLite table. The tables should be similar, if not exatcly same as in [Django link archive](https://github.com/rumca-js/Django-link-archive) project. Use SQL viewer to see what kind of data it contains. Most likely "entries" with fields such as "title", "description" etc.
+
+This binary release can be used directly as-is in any project you like.
 
 # Notes
 
