@@ -145,11 +145,11 @@ Other
 
 # Releases
 
-Binary releases will be provided in form of SQLite table. The tables should be similar, if not exatcly same as in [Django link archive](https://github.com/rumca-js/Django-link-archive) project. Use SQL viewer to see what kind of data it contains. Table "entries" with fields such as "title", "description" etc.
+Binary releases are provided in form of SQLite table. The tables will be similar, or exatcly same as in [Django link archive](https://github.com/rumca-js/Django-link-archive) project. Use SQL viewer to see what kind of data it contains. Table "entries" with fields such as "title", "description" etc.
 
 This binary release can be used directly as-is in any project you like.
 
-Binary releases will be generated on-demand, when necessary.
+I plan to make binary releases will be generated for each quarter. In case of necessity on-demand releasese might occur.
 
 # Notes
 
@@ -172,8 +172,10 @@ Might not be working. Used for development: [https://renegat0x0.ddns.net/apps/pl
 - [x] Define clean tag names, so that the database can easily be searched
 - [x] Advertise in indie web sources. Potentially: HN, reddit self-host, reddit web scraping forums. Amiga board. Nice, hackery places
 - [x] Provide binary releases. SQLlite database, so that it would be easily imported by other tools
-- [ ] Establish plan for binary releases
+- [x] Establish plan for binary releases
 - [ ] Create a browser extension. The extension should provide domain info for each link. Provides rating according to page_rating, and since when page operates. The longer domain is active - the better
+- [ ] Create mobile app for searching. Upload to Google play & F-Droid
+- [ ] Gather data using VPN, to receive english meta information
 - [ ] Secure funds for a organisation. Kickstarter?
 - [ ] Establish valid, simple domain for the project
 - [ ] Provide google-like search on the domain
