@@ -1,4055 +1,4032 @@
- ## National Institute of Standards and Technology
- - [https://www.nist.gov](https://www.nist.gov)
- - date_published: 2023-10-25T11:20:30.382440+00:00
+ ## UAF Home | University of Alaska Fairbanks
+ - [https://www.uaf.edu](https://www.uaf.edu)
+ - date_published: 2024-01-22T18:01:55.229298+00:00
 
- ## Redirecting
- - [https://xlinux.nist.gov](https://xlinux.nist.gov)
- - date_published: 2023-10-25T19:23:45.687533+00:00
+ ## IdeaExchange@UAkron
+ - [https://ideaexchange.uakron.edu](https://ideaexchange.uakron.edu)
+ - date_published: 2024-05-06T18:31:01.062758+00:00
 
- ## State of New Jersey
- - [https://www.nj.gov](https://www.nj.gov)
- - date_published: 2024-06-15T17:45:47.743673+00:00
+ ## University of Arkansas at Little Rock
+ - [http://ualr.edu](http://ualr.edu)
+ - date_published: 2024-05-09T06:34:25.789119+00:00
 
- ## NJ Legislature
- - [https://pub.njleg.gov](https://pub.njleg.gov)
- - date_published: 2024-05-06T17:02:38.917240+00:00
+ ## University of Arkansas for Medical Sciences (UAMS)
+ - [https://www.uams.edu](https://www.uams.edu)
+ - date_published: 2024-05-04T10:01:45.943536+00:00
 
- ## https://www.nlrb.gov
- - [https://www.nlrb.gov](https://www.nlrb.gov)
- - date_published: 2024-01-09T03:31:29.688759+00:00
+ ## Fay Jones School of Architecture and Design | University of Arkansas
+ - [http://fayjones.uark.edu](http://fayjones.uark.edu)
+ - date_published: 2024-05-08T11:43:35.793457+00:00
 
- ## Home
- - [https://geodesy.noaa.gov](https://geodesy.noaa.gov)
- - date_published: 2024-05-09T07:09:00.657242+00:00
+ ## University of the Arts
+ - [https://www.uarts.edu](https://www.uarts.edu)
+ - date_published: 2024-05-08T05:03:49.738636+00:00
 
- ## NOAA Global Monitoring Laboratory
- - [https://gml.noaa.gov](https://gml.noaa.gov)
- - date_published: 2024-02-23T00:00:00+00:00
+ ## University of Alabama System
+ - [https://www.uasystem.edu](https://www.uasystem.edu)
+ - date_published: 2024-05-11T07:33:09.964448+00:00
 
- ## Monitor National Marine Sanctuary
- - [http://monitor.noaa.gov](http://monitor.noaa.gov)
- - date_published: 2024-03-09T00:00:00+00:00
+ ## UB - Universitat de Barcelona - UB
+ - [http://www.ub.edu](http://www.ub.edu)
+ - date_published: 2024-05-08T08:49:51.683500+00:00
 
- ## National Centers for Environmental Information (NCEI)
- - [https://ncdc.noaa.gov](https://ncdc.noaa.gov)
- - date_published: 2024-05-08T11:33:04.384732+00:00
+ ## Undergraduate Admissions
+ - [https://admissions.uc.edu](https://admissions.uc.edu)
+ - date_published: 2024-05-07T20:42:16.163979+00:00
 
- ## NOAA's National Ocean Service
- - [https://oceanservice.noaa.gov](https://oceanservice.noaa.gov)
- - date_published: 2023-10-25T19:23:48.997984+00:00
+ ## UC Alumni Association
+ - [https://alumni.uc.edu](https://alumni.uc.edu)
+ - date_published: 2024-05-07T20:42:10.398358+00:00
 
- ## Ocean Today | Watch. Discover. Learn. | Ocean Today videos focus on both the ocean's influence on us and our influence upon the ocean.
- - [https://oceantoday.noaa.gov](https://oceantoday.noaa.gov)
- - date_published: 2014-12-08T00:00:00+00:00
+ ## University Of Cincinnati
+ - [https://bearcatportal.uc.edu](https://bearcatportal.uc.edu)
+ - date_published: 2024-05-07T20:42:39.878095+00:00
 
- ## Index of /
- - [https://services.swpc.noaa.gov](https://services.swpc.noaa.gov)
- - date_published: 2024-04-11T00:00:00+00:00
+ ## University Of Cincinnati
+ - [https://canopy.uc.edu](https://canopy.uc.edu)
+ - date_published: 2024-05-07T20:42:47.246742+00:00
 
- ## Science On a Sphere
- - [https://sos.noaa.gov](https://sos.noaa.gov)
- - date_published: 2023-10-25T19:24:08.336867+00:00
+ ## University of Cincinnati
+ - [https://catalyst.uc.edu](https://catalyst.uc.edu)
+ - date_published: 2024-05-07T20:42:54.023882+00:00
 
- ## Alaska
- - [https://www.afsc.noaa.gov](https://www.afsc.noaa.gov)
- - date_published: 2024-06-15T01:07:00+00:00
+ ## Digital Collections & Exhibits
+ - [http://digproj.libraries.uc.edu](http://digproj.libraries.uc.edu)
+ - date_published: 2024-04-29T02:57:13.321021+00:00
 
- ## Climate Prediction Center
- - [https://www.cpc.ncep.noaa.gov](https://www.cpc.ncep.noaa.gov)
- - date_published: 2023-10-25T19:24:13.204472+00:00
+ ## Give to UC and UC Health - Primary Donation Form - University of Cincinnati
+ - [https://giveto.uc.edu](https://giveto.uc.edu)
+ - date_published: 2024-05-07T20:42:13.017814+00:00
 
- ## Welcome to NOAA | NOAA Fisheries
- - [https://www.fisheries.noaa.gov](https://www.fisheries.noaa.gov)
- - date_published: 2023-10-25T19:24:18.167307+00:00
+ ## 1819 Innovation Hub
+ - [https://innovation.uc.edu](https://innovation.uc.edu)
+ - date_published: 2024-05-07T20:42:42.312411+00:00
 
- ## National Centers for Environmental Information (NCEI)
- - [https://www.ncdc.noaa.gov](https://www.ncdc.noaa.gov)
- - date_published: 2024-04-28T05:44:13.324923+00:00
+ ## University of Cincinnati
+ - [https://mail.uc.edu](https://mail.uc.edu)
+ - date_published: 2024-05-07T20:42:24.723425+00:00
 
- ## National Centers for Environmental Information (NCEI)
- - [https://www.ncei.noaa.gov](https://www.ncei.noaa.gov)
- - date_published: 2023-10-25T19:24:22.011014+00:00
+ ## Enrollment Services
+ - [https://onestop.uc.edu](https://onestop.uc.edu)
+ - date_published: 2024-05-07T20:42:50.103480+00:00
 
- ## NCEP Central Operations
- - [https://www.nco.ncep.noaa.gov](https://www.nco.ncep.noaa.gov)
- - date_published: 2023-10-25T19:24:25.360125+00:00
-
- ## National Hurricane Center
- - [https://www.nhc.noaa.gov](https://www.nhc.noaa.gov)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## National Oceanic and Atmospheric Administration
- - [https://www.noaa.gov](https://www.noaa.gov)
- - date_published: 2023-10-25T19:24:27.385106+00:00
-
- ## Home Page | Office of Marine and Aviation Operations
- - [https://www.omao.noaa.gov](https://www.omao.noaa.gov)
- - date_published: 2024-05-04T07:32:50.236150+00:00
-
- ## STAR - NOAA / NESDIS / Center for Satellite Applications and Research
- - [https://www.star.nesdis.noaa.gov](https://www.star.nesdis.noaa.gov)
- - date_published: 2023-10-25T19:24:30.758583+00:00
-
- ## Homepage | NOAA / NWS Space Weather Prediction Center
- - [https://www.swpc.noaa.gov](https://www.swpc.noaa.gov)
- - date_published: 2023-10-25T19:24:35.156999+00:00
-
- ## Test Page for the HTTP Server on Red Hat Enterprise Linux
- - [http://www.wrh.noaa.gov](http://www.wrh.noaa.gov)
- - date_published: 2024-05-08T10:27:35.893063+00:00
-
- ## NPS.gov Homepage (U.S. National Park Service)
- - [https://www.nps.gov](https://www.nps.gov)
- - date_published: 2023-10-25T11:20:15.724610+00:00
-
- ## home
- - [https://www.nrc.gov](https://www.nrc.gov)
- - date_published: 2024-01-09T03:31:30.889825+00:00
-
- ## National Renewable Energy Laboratory (NREL) Home Page | NREL
- - [https://www.nrel.gov](https://www.nrel.gov)
- - date_published: 2023-10-25T19:24:44.925788+00:00
-
- ## > Home
- - [https://www.nro.gov](https://www.nro.gov)
- - date_published: 2024-05-12T07:25:51.279303+00:00
-
- ## Home | Open Source @ NSA
- - [https://code.nsa.gov](https://code.nsa.gov)
- - date_published: 2024-05-26T10:15:54.746013+00:00
- - tags: ['open source', 'nsa']
-
- ## National Security Agency | Central Security Service
- - [https://www.nsa.gov](https://www.nsa.gov)
- - date_published: 2023-10-25T19:24:48.246865+00:00
- - tags: ['usa security intelligence', 'government', 'espionage', 'security intelligence']
-
- ## NSF - National Science Foundation
- - [https://new.nsf.gov](https://new.nsf.gov)
- - date_published: 2023-12-20T18:03:43.696281+00:00
-
- ## NSF - National Science Foundation
- - [https://nsf.gov](https://nsf.gov)
- - date_published: 2024-04-28T02:51:17.482974+00:00
-
- ## NSF Public Access
- - [https://par.nsf.gov](https://par.nsf.gov)
- - date_published: 2023-10-25T19:24:50.680036+00:00
-
- ## America’s Seed Fund – NSF SBIR/STTR | NSF SBIR
- - [https://seedfund.nsf.gov](https://seedfund.nsf.gov)
- - date_published: 2021-12-31T00:00:00+00:00
-
- ## Research.gov - Homepage
- - [http://www.fastlane.nsf.gov](http://www.fastlane.nsf.gov)
- - date_published: 2010-01-15T00:00:00+00:00
-
- ## NSF - National Science Foundation
- - [https://www.nsf.gov](https://www.nsf.gov)
- - date_published: 2024-04-28T04:06:30.027828+00:00
-
- ## Home Page | National Telecommunications and Information Administration
- - [https://www.ntia.gov](https://www.ntia.gov)
- - date_published: 2024-05-08T10:07:24.734187+00:00
-
- ## https://ntrl.ntis.gov
- - [https://ntrl.ntis.gov](https://ntrl.ntis.gov)
- - date_published: 2024-01-09T03:31:33.773574+00:00
+ ## Template
+ - [https://ucdirectory.uc.edu](https://ucdirectory.uc.edu)
+ - date_published: 2024-05-07T20:42:18.256515+00:00
 
  ## Home
- - [https://www.ntsb.gov](https://www.ntsb.gov)
- - date_published: 2023-10-25T19:24:54.011991+00:00
-
- ## Joe Lombardo, Governor of Nevada
- - [https://gov.nv.gov](https://gov.nv.gov)
- - date_published: 2024-05-06T17:11:33.129996+00:00
-
- ## Nevada Division of Environmental Protection | NDEP
- - [https://ndep.nv.gov](https://ndep.nv.gov)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home | New York State Attorney General
- - [https://ag.ny.gov](https://ag.ny.gov)
- - date_published: 2023-10-25T19:24:55.587930+00:00
-
- ## Agriculture and Markets
- - [https://agriculture.ny.gov](https://agriculture.ny.gov)
- - date_published: 2024-06-13T13:57:17+00:00
-
- ## Adirondack Park Agency
- - [https://apa.ny.gov](https://apa.ny.gov)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## COVID-19
- - [https://coronavirus.health.ny.gov](https://coronavirus.health.ny.gov)
- - date_published: 2024-05-06T20:40:30.862940+00:00
-
- ## Sign in - Google Accounts
- - [https://covid19tracker.health.ny.gov](https://covid19tracker.health.ny.gov)
- - date_published: 2024-05-07T14:01:57.032934+00:00
-
- ## State of New York | Open Data | State of New York
- - [https://data.ny.gov](https://data.ny.gov)
- - date_published: 2024-05-06T20:35:09.294406+00:00
-
- ## Success
- - [https://encryption.ny.gov](https://encryption.ny.gov)
- - date_published: 2024-05-11T09:25:31.152395+00:00
-
- ## New York State Department of Health
- - [https://health.ny.gov](https://health.ny.gov)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://nyenr.elections.ny.gov](https://nyenr.elections.ny.gov)
- - date_published: 2024-04-02T18:07:10.090471+00:00
-
- ## Home
- - [https://www.dec.ny.gov](https://www.dec.ny.gov)
- - date_published: 2024-05-11T09:25:27.207623+00:00
-
- ## Department of State
- - [https://www.dos.ny.gov](https://www.dos.ny.gov)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## The Official Website of Governor Kathy Hochul
- - [https://www.governor.ny.gov](https://www.governor.ny.gov)
- - date_published: 2024-04-29T03:12:36.486669+00:00
-
- ## New York State Department of Health
- - [https://www.health.ny.gov](https://www.health.ny.gov)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## The Official Website of New York State
- - [http://www.ny.gov](http://www.ny.gov)
- - date_published: 2024-05-11T09:25:20.986139+00:00
-
- ## NYSERDA - New York State Energy Research & Development Authority - NYSERDA
- - [https://www.nyserda.ny.gov](https://www.nyserda.ny.gov)
- - date_published: 2024-05-08T06:31:58.064149+00:00
-
- ## https://www.osc.ny.gov
- - [https://www.osc.ny.gov](https://www.osc.ny.gov)
- - date_published: 2023-12-19T17:57:44.445591+00:00
-
- ## Mayor's Office NYC
- - [https://a002-oom03.nyc.gov](https://a002-oom03.nyc.gov)
- - date_published: 2023-10-25T19:24:56.465502+00:00
-
- ## Home
-		 · NYC311
- - [https://portal.311.nyc.gov](https://portal.311.nyc.gov)
- - date_published: 2024-05-12T05:41:23.554612+00:00
-
- ## Property Information Portal
- - [https://propertyinformationportal.nyc.gov](https://propertyinformationportal.nyc.gov)
- - date_published: 2024-05-20T06:53:15.468150+00:00
-
- ## Welcome to NYC.gov | City of New York
- - [http://www1.nyc.gov](http://www1.nyc.gov)
- - date_published: 2024-05-06T20:35:17.057679+00:00
-
- ## Welcome to NYC.gov | City of New York
- - [https://www.nyc.gov](https://www.nyc.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## FAQ's about Ask a Law Librarian - Ask a Law Librarian
- - [https://askalawlibrarian.nycourts.gov](https://askalawlibrarian.nycourts.gov)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## NYCOURTS.GOV - New York State Unified Court System
- - [https://justicetraining.nycourts.gov](https://justicetraining.nycourts.gov)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## NYS UCS Payment Services
- - [https://payments.nycourts.gov](https://payments.nycourts.gov)
- - date_published: 2024-05-02T12:53:16.954450+00:00
-
- ## Home
-		 · Customer Self-Service
- - [https://portal.nycourts.gov](https://portal.nycourts.gov)
- - date_published: 2024-05-02T12:52:37.814527+00:00
-
- ## NYCOURTS.GOV - New York State Unified Court System
- - [https://ww2.nycourts.gov](https://ww2.nycourts.gov)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## NYCOURTS.GOV - New York State Unified Court System
- - [https://www.nycourts.gov](https://www.nycourts.gov)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Office of the Professions | Office of the Professions
- - [http://www.op.nysed.gov](http://www.op.nysed.gov)
- - date_published: 2024-05-09T02:37:11.093477+00:00
-
- ## The New York State Senate
- - [https://www.nysenate.gov](https://www.nysenate.gov)
- - date_published: 2023-10-25T19:24:58.425689+00:00
-
- ## Homepage
- - [https://www.oaklandca.gov](https://www.oaklandca.gov)
- - date_published: 2024-05-08T11:00:28.073943+00:00
-
- ## OCC Search
- - [https://apps.occ.gov](https://apps.occ.gov)
- - date_published: 2024-05-12T05:54:17.172114+00:00
-
- ## OCC Careers Home page
- - [https://careers.occ.gov](https://careers.occ.gov)
- - date_published: 2022-05-14T00:00:00+00:00
-
- ## Office of the Comptroller of the Currency (OCC)
- - [https://www.occ.gov](https://www.occ.gov)
- - date_published: 2024-04-03T06:40:03.944278+00:00
-
- ## USOGE | OGE
- - [https://www.oge.gov](https://www.oge.gov)
- - date_published: 2024-06-15T06:14:50+00:00
-
- ## Home
- - [https://toledo.oh.gov](https://toledo.oh.gov)
- - date_published: 2024-04-30T07:26:06.794675+00:00
-
- ## Ohio Secretary of State's Office Website Maintenance
- - [https://olvr.ohiosos.gov](https://olvr.ohiosos.gov)
- - date_published: 2024-05-06T21:44:27.190449+00:00
-
- ## Ohio Secretary of State's Office Website Maintenance
- - [https://registrationreadiness.ohiosos.gov](https://registrationreadiness.ohiosos.gov)
- - date_published: 2024-05-04T06:49:48.941211+00:00
-
- ## Ohio Secretary of State's Office Website Maintenance
- - [https://www.ohiosos.gov](https://www.ohiosos.gov)
- - date_published: 2024-05-06T21:44:08.850706+00:00
-
- ## Home | Bureau of Justice Assistance
- - [https://bja.ojp.gov](https://bja.ojp.gov)
- - date_published: 2024-05-04T09:27:08.890517+00:00
-
- ## Strengthen science. Advance justice.
- - [https://nij.ojp.gov](https://nij.ojp.gov)
- - date_published: 2024-02-24T18:06:29.327243+00:00
-
- ## Oklahoma.gov Home
- - [https://oklahoma.gov](https://oklahoma.gov)
- - date_published: 2024-01-08T15:10:22.537667+00:00
-
- ## Opelika, AL | Official Website
- - [https://www.opelika-al.gov](https://www.opelika-al.gov)
- - date_published: 2024-04-30T03:12:42.107237+00:00
-
- ## Combined Federal Campaign
- - [https://cfcgiving.opm.gov](https://cfcgiving.opm.gov)
- - date_published: 2024-05-08T02:37:17.757418+00:00
-
- ## Home - Oregon State Parks
- - [https://stateparks.oregon.gov](https://stateparks.oregon.gov)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Oregon.gov : State of Oregon
- - [https://www.oregon.gov](https://www.oregon.gov)
- - date_published: 2024-05-11T11:18:08.630376+00:00
-
- ## Information about Organ, Eye, and Tissue Donation | organdonor.gov
- - [https://www.organdonor.gov](https://www.organdonor.gov)
- - date_published: 2024-05-04T06:40:57.009815+00:00
-
- ## National Household Travel Survey
- - [https://nhts.ornl.gov](https://nhts.ornl.gov)
- - date_published: 2020-02-22T00:00:00+00:00
-
- ## Home
- - [https://www.olcf.ornl.gov](https://www.olcf.ornl.gov)
- - date_published: 2024-05-01T08:47:23.868723+00:00
-
- ## Oak Ridge National Laboratory: Solving the Big Problems | ORNL
- - [https://www.ornl.gov](https://www.ornl.gov)
- - date_published: 2023-10-25T19:25:00.286836+00:00
-
- ## Home
- - [https://osc.gov](https://osc.gov)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Home | Occupational Safety and Health Administration
- - [https://www.osha.gov](https://www.osha.gov)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home | U.S. DOE Office of Science (SC)
- - [https://science.osti.gov](https://science.osti.gov)
- - date_published: 2011-02-08T09:19:00+00:00
-
- ## Pandemic Oversight - Home | Pandemic Oversight
- - [https://pandemic.oversight.gov](https://pandemic.oversight.gov)
- - date_published: 2024-05-08T02:59:45.567726+00:00
-
- ## Oversight.gov | All Federal Inspector General Reports In One Place
- - [https://www.oversight.gov](https://www.oversight.gov)
- - date_published: 2024-05-08T02:59:40.863754+00:00
-
- ## PA Dept. of Agriculture
- - [https://agriculture.pa.gov](https://agriculture.pa.gov)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## We Keep the Region Moving | Port Authority of New York and New Jersey
- - [https://www.panynj.gov](https://www.panynj.gov)
- - date_published: 2024-05-06T22:50:06.496310+00:00
-
- ## Home Page | Pension Benefit Guaranty Corporation
- - [https://www.pbgc.gov](https://www.pbgc.gov)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Pima County Public Library
- - [http://www.library.pima.gov](http://www.library.pima.gov)
- - date_published: 2024-05-08T10:21:42.615885+00:00
-
- ## Pacific Northwest National Laboratory
- - [https://www.pnnl.gov](https://www.pnnl.gov)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## City of Portland, Oregon | Portland.gov
- - [https://www.portland.gov](https://www.portland.gov)
- - date_published: 2024-05-04T10:03:49.625546+00:00
-
- ## Data Privacy Framework
- - [https://www.privacyshield.gov](https://www.privacyshield.gov)
- - date_published: 2024-05-08T11:32:32.074427+00:00
-
- ## Plan Ahead for Disasters | Ready.gov
- - [https://www.ready.gov](https://www.ready.gov)
- - date_published: 2024-05-08T02:44:35.015844+00:00
-
- ## Plan. Prepare. Stay Informed. | Ready NC
- - [https://www.readync.gov](https://www.readync.gov)
- - date_published: 2024-05-07T13:57:42.492965+00:00
-
- ## Regulations.gov
- - [https://www.regulations.gov](https://www.regulations.gov)
- - date_published: 2023-10-25T19:25:01.549850+00:00
-
- ## Welcome | Rhode Island Department of Environmental Management
- - [http://www.dem.ri.gov](http://www.dem.ri.gov)
- - date_published: 2024-06-14T19:05:23+00:00
-
- ## Sacramento County Board of Supervisors Meetings
- - [https://agendanet.saccounty.gov](https://agendanet.saccounty.gov)
- - date_published: 2024-04-28T04:28:27.708351+00:00
-
- ## Consolidated Utilities Billing & Services
- - [https://sacutilities.saccounty.gov](https://sacutilities.saccounty.gov)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Home - SaferProducts
- - [https://www.saferproducts.gov](https://www.saferproducts.gov)
- - date_published: 2024-05-08T02:42:42.184193+00:00
-
- ## SAM.gov | Home
- - [https://sam.gov](https://sam.gov)
- - date_published: 2023-10-25T19:25:02.207175+00:00
-
- ## SAM.gov | Home
- - [http://www.sam.gov](http://www.sam.gov)
- - date_published: 2024-06-14T03:25:42+00:00
-
- ## FindTreatment.gov
- - [https://findtreatment.samhsa.gov](https://findtreatment.samhsa.gov)
- - date_published: 2024-05-12T06:40:36.468468+00:00
-
- ## SAMHSA - Substance Abuse and Mental Health Services Administration
- - [https://www.samhsa.gov](https://www.samhsa.gov)
- - date_published: 2024-05-04T09:00:22.403967+00:00
-
- ## Sandia National Laboratories: Netlib Mirror
- - [http://netlib.sandia.gov](http://netlib.sandia.gov)
- - date_published: 2024-04-28T02:25:13.801301+00:00
-
- ## Sandia National Laboratories: News Releases
- - [https://newsreleases.sandia.gov](https://newsreleases.sandia.gov)
- - date_published: 2023-10-25T19:25:05.661482+00:00
-
- ## Sandia National Laboratories: Exceptional Service in the National Interest
- - [http://sandia.gov](http://sandia.gov)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Small Business Administration
- - [https://www.sba.gov](https://www.sba.gov)
- - date_published: 2024-05-08T02:58:05.016050+00:00
-
- ## Home — South Carolina Department of Agriculture
- - [https://agriculture.sc.gov](https://agriculture.sc.gov)
+ - [https://www.uc.edu](https://www.uc.edu)
+ - date_published: 2023-11-03T10:54:50.239840+00:00
+
+ ## Home | Education, Engagement & Early-Career Development
+ - [https://edec.ucar.edu](https://edec.ucar.edu)
+ - date_published: 2024-06-16T22:58:31+00:00
+
+ ## NSF National Center for Atmospheric Research | National Center for Atmospheric Research
+ - [https://ncar.ucar.edu](https://ncar.ucar.edu)
+ - date_published: 2024-06-16T22:46:16+00:00
+
+ ## RAL Home | Research Applications Laboratory
+ - [https://ral.ucar.edu](https://ral.ucar.edu)
+ - date_published: 2024-06-16T22:58:34.432879+00:00
+
+ ## Home Page | Center for Science Education
+ - [https://scied.ucar.edu](https://scied.ucar.edu)
+ - date_published: 2024-05-01T08:10:31.247681+00:00
+
+ ## Blogs | SEA
+ - [http://sea.ucar.edu](http://sea.ucar.edu)
+ - date_published: 2024-05-07T09:19:58.305587+00:00
+
+ ## Homepage | Significant Opportunities in Atmospheric Research and Science
+ - [https://soars.ucar.edu](https://soars.ucar.edu)
+ - date_published: 2024-06-16T22:58:30+00:00
+
+ ## Home | staff.ucar.edu
+ - [https://staff.ucar.edu](https://staff.ucar.edu)
+ - date_published: 2024-04-29T06:29:09.381330+00:00
+
+ ## Sign in to your account
+ - [https://sundog.ucar.edu](https://sundog.ucar.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Home | Atmospheric Chemistry Observations & Modeling
+ - [https://www2.acom.ucar.edu](https://www2.acom.ucar.edu)
+ - date_published: 2024-06-16T20:40:01+00:00
+
+ ## Home | High Altitude Observatory
+ - [https://www2.hao.ucar.edu](https://www2.hao.ucar.edu)
+ - date_published: 2024-06-16T22:52:08+00:00
+
+ ## Home | Climate & Global Dynamics
+ - [https://www.cgd.ucar.edu](https://www.cgd.ucar.edu)
+ - date_published: 2024-06-16T22:58:21+00:00
+
+ ## Home | Computational and Information Systems Lab
+ - [https://www.cisl.ucar.edu](https://www.cisl.ucar.edu)
+ - date_published: 2024-05-04T05:59:36.587074+00:00
+
+ ## Home | Earth Observing Laboratory
+ - [https://www.eol.ucar.edu](https://www.eol.ucar.edu)
+ - date_published: 2024-06-16T22:58:23.698104+00:00
+
+ ## Home | Mesoscale & Microscale Meteorology
+ - [https://www.mmm.ucar.edu](https://www.mmm.ucar.edu)
+ - date_published: 2024-06-16T22:58:37.764805+00:00
+
+ ## University Corporation for Atmospheric Research | University Corporation for Atmospheric Research
+ - [https://www.ucar.edu](https://www.ucar.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Home | UCCS
+ - [https://www.uccs.edu](https://www.uccs.edu)
+ - date_published: 2024-04-30T04:01:58.740318+00:00
+
+ ## Academic Senate
+ - [http://academicsenate.ucdavis.edu](http://academicsenate.ucdavis.edu)
+ - date_published: 2024-05-07T20:45:27.719908+00:00
+
+ ## Alumni Resources
+ - [https://alumni.engineering.ucdavis.edu](https://alumni.engineering.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:13.873439+00:00
+
+ ## UC Davis Alumni and Affiliate Relations
+ - [https://alumni.ucdavis.edu](https://alumni.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:55.042173+00:00
+
+ ## CAS – Central Authentication Service
+ - [https://appointments.ucdavis.edu](https://appointments.ucdavis.edu)
+ - date_published: 2024-05-07T20:43:29.415076+00:00
+
+ ## Computer Architecture Research
+ - [https://arch.cs.ucdavis.edu](https://arch.cs.ucdavis.edu)
+ - date_published: 2024-06-08T17:59:57.436302+00:00
+
+ ## UC Davis: Campus Map
+ - [http://campusmap.ucdavis.edu](http://campusmap.ucdavis.edu)
+ - date_published: 2024-05-07T20:45:05.323953+00:00
+
+ ## Campus Ready
+ - [https://campusready.ucdavis.edu](https://campusready.ucdavis.edu)
  - date_published: 2024-04-05T00:00:00+00:00
 
- ## ERROR: The request could not be satisfied
- - [https://ddsn.sc.gov](https://ddsn.sc.gov)
- - date_published: 2024-05-04T06:58:21.032014+00:00
+ ## UC Davis Canvas Discovery
+ - [https://canvas.ucdavis.edu](https://canvas.ucdavis.edu)
+ - date_published: 2024-05-07T20:45:15.906888+00:00
 
- ## MySCVotes Login
- - [https://vrems.scvotes.sc.gov](https://vrems.scvotes.sc.gov)
- - date_published: 2024-05-04T06:58:03.530727+00:00
+ ## General Catalog - General Catalog Home
+ - [https://catalog.ucdavis.edu](https://catalog.ucdavis.edu)
+ - date_published: 2024-05-07T20:45:25.522512+00:00
 
- ## Homepage | SCDHEC
- - [https://scdhec.gov](https://scdhec.gov)
- - date_published: 2024-07-01T00:00:00+00:00
+ ## Campus Community Book Project
+ - [https://ccbp.ucdavis.edu](https://ccbp.ucdavis.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
 
- ## Science.gov - Open Science Announcements from Federal Agencies
- - [https://open.science.gov](https://open.science.gov)
- - date_published: 2024-05-08T09:03:39.187923+00:00
+ ## Science & Climate
+ - [https://climatechange.ucdavis.edu](https://climatechange.ucdavis.edu)
+ - date_published: 2021-05-04T18:38:25+00:00
 
- ## Science.gov
- - [https://www.science.gov](https://www.science.gov)
- - date_published: 2024-06-01T03:53:20.319012+00:00
+ ## Welcome to Cows.
+ - [https://cows.ucdavis.edu](https://cows.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:21.199665+00:00
 
- ## South Carolina Legislature Online
- - [https://www.scstatehouse.gov](https://www.scstatehouse.gov)
- - date_published: 2024-01-09T00:00:00+00:00
+ ## UC Davis Continuing and Professional Education
+ - [https://cpe.ucdavis.edu](https://cpe.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:36.223883+00:00
 
- ## Home - SC Votes - South Carolina Election Commission
- - [https://scvotes.gov](https://scvotes.gov)
- - date_published: 2024-05-03T00:00:00+00:00
+ ## Computer Science Instructional Facility (CSIF)
+ - [https://csif.cs.ucdavis.edu](https://csif.cs.ucdavis.edu)
+ - date_published: 2024-01-25T00:00:00+00:00
 
- ## Parkways
- - [https://parkways.seattle.gov](https://parkways.seattle.gov)
- - date_published: 2024-04-29T05:28:21.110159+00:00
+ ## Computer Science
+ - [https://cs.ucdavis.edu](https://cs.ucdavis.edu)
+ - date_published: 2024-02-16T00:00:00+00:00
 
- ## Seattle.gov Home
- - [https://www.seattle.gov](https://www.seattle.gov)
- - date_published: 2024-04-29T05:30:10.219273+00:00
+ ## Diversity, Equity & Inclusion
+ - [https://diversity.ucdavis.edu](https://diversity.ucdavis.edu)
+ - date_published: 2024-05-07T20:43:16.846137+00:00
+ - tags: ['dei']
 
- ## SEC.gov | HOME
- - [https://www.sec.gov](https://www.sec.gov)
- - date_published: 2023-10-25T19:25:07.736929+00:00
+ ## EggHeads
+ - [https://eggheads.ucdavis.edu](https://eggheads.ucdavis.edu)
+ - date_published: 2024-05-07T20:45:07.442801+00:00
 
- ## Section508.gov
- - [https://www.section508.gov](https://www.section508.gov)
- - date_published: 2024-07-31T00:00:00+00:00
+ ## Home | College of Engineering
+ - [https://engineering.ucdavis.edu](https://engineering.ucdavis.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
 
- ## U.S. Senator Michael Bennet
- - [https://www.bennet.senate.gov](https://www.bennet.senate.gov)
- - date_published: 2024-05-04T09:46:20.198965+00:00
+ ## UC Davis Give Day 2024
+ - [https://giveday.ucdavis.edu](https://giveday.ucdavis.edu)
+ - date_published: 2024-05-07T20:43:51.489515+00:00
 
- ## Home - Senator Katie Britt
- - [https://www.britt.senate.gov](https://www.britt.senate.gov)
- - date_published: 2024-03-26T00:00:00+00:00
+ ## Donate to the University of California at Davis
+ - [https://give.ucdavis.edu](https://give.ucdavis.edu)
+ - date_published: 2024-05-07T20:43:55.207600+00:00
 
- ## U.S. Senate Committee on Commerce, Science, & Transportation
- - [https://www.commerce.senate.gov](https://www.commerce.senate.gov)
- - date_published: 2023-10-25T19:25:10.798994+00:00
+ ## Home | UC Davis Giving
+ - [https://giving.ucdavis.edu](https://giving.ucdavis.edu)
+ - date_published: 2022-10-13T16:58:30+00:00
 
- ## Home | Senator Cornyn
- - [https://www.cornyn.senate.gov](https://www.cornyn.senate.gov)
- - date_published: 2024-05-06T22:26:30.816686+00:00
+ ## UC Davis Graduate Studies
+ - [https://gradstudies.ucdavis.edu](https://gradstudies.ucdavis.edu)
+ - date_published: 2024-05-07T20:45:38.691378+00:00
 
- ## Senator Catherine Cortez Masto of Nevada
- - [https://www.cortezmasto.senate.gov](https://www.cortezmasto.senate.gov)
- - date_published: 2024-05-06T17:11:25.767356+00:00
+ ## UC Davis Health | University of California, Davis
+ - [https://health.ucdavis.edu](https://health.ucdavis.edu)
+ - date_published: 2024-02-24T10:01:59.909607+00:00
 
- ## Home | Senate Democratic Leadership
- - [https://www.democrats.senate.gov](https://www.democrats.senate.gov)
- - date_published: 2024-01-01T01:29:16.688384+00:00
-
- ## U.S. Senate Committee on Environment and Public Works
- - [https://www.epw.senate.gov](https://www.epw.senate.gov)
+ ## UC Davis Human Resources
+ - [https://hr.ucdavis.edu](https://hr.ucdavis.edu)
  - date_published: 2024-05-02T00:00:00+00:00
 
- ## Home | Senate Committee on Health, Education, Labor and Pensions
- - [https://www.help.senate.gov](https://www.help.senate.gov)
- - date_published: 2023-10-25T19:25:12.573868+00:00
-
- ## Committee on Homeland Security & Governmental Affairs
- - [https://www.hsgac.senate.gov](https://www.hsgac.senate.gov)
- - date_published: 2023-10-25T19:25:16.853062+00:00
-
- ## U.S. Senate Select Committee on Intelligence
- - [https://www.intelligence.senate.gov](https://www.intelligence.senate.gov)
- - date_published: 2024-05-06T22:26:42.528979+00:00
-
- ## Home | United States Senate Committee on the Judiciary
- - [https://www.judiciary.senate.gov](https://www.judiciary.senate.gov)
- - date_published: 2023-10-25T19:25:20.250645+00:00
-
- - [https://www.klobuchar.senate.gov](https://www.klobuchar.senate.gov)
- - date_published: 2024-02-24T18:11:06.609059+00:00
-
- ## Senator Cynthia Lummis
- - [https://www.lummis.senate.gov](https://www.lummis.senate.gov)
- - date_published: 2023-07-25T00:00:00+00:00
-
- ## Home | U.S. Senator Ed Markey of Massachusetts
- - [https://www.markey.senate.gov](https://www.markey.senate.gov)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Home - Merkley
- - [https://www.merkley.senate.gov](https://www.merkley.senate.gov)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Homepage - Senator Rubio
- - [https://www.rubio.senate.gov](https://www.rubio.senate.gov)
- - date_published: 2023-10-25T19:25:23.279421+00:00
-
- ## U.S. Senate
- - [https://www.senate.gov](https://www.senate.gov)
- - date_published: 2023-10-25T19:25:25.397474+00:00
-
- ## Home | U.S. Senator Elizabeth Warren of Massachusetts
- - [https://www.warren.senate.gov](https://www.warren.senate.gov)
- - date_published: 2023-10-25T19:25:26.821293+00:00
-
- ## Home | U.S. Senator Ron Wyden of Oregon
- - [https://www.wyden.senate.gov](https://www.wyden.senate.gov)
- - date_published: 2023-10-25T19:25:32.843708+00:00
- - tags: ['senator']
-
- ## City and County of San Francisco
- - [https://www.sf.gov](https://www.sf.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Public Login • Shelby County Intranet, TN • CivicEngage
- - [https://my.shelbycountytn.gov](https://my.shelbycountytn.gov)
- - date_published: 2024-06-15T03:18:54.348283+00:00
-
- ## Shelby County, TN - Official Website | Official Website
- - [https://shelbycountytn.gov](https://shelbycountytn.gov)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## Shelby County, TN - Official Website | Official Website
- - [https://www.shelbycountytn.gov](https://www.shelbycountytn.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Sourcewell | Cooperative Purchasing Advantages
- - [https://www.sourcewell-mn.gov](https://www.sourcewell-mn.gov)
- - date_published: 2024-05-12T07:27:49.602476+00:00
-
- ## Homepage | NOAA / NWS Space Weather Prediction Center
- - [https://www.spaceweather.gov](https://www.spaceweather.gov)
- - date_published: 2023-10-25T19:25:37.411659+00:00
-
- ## The United States Social Security Administration | SSA
- - [https://www.ssa.gov](https://www.ssa.gov)
- - date_published: 2023-10-25T19:25:44.249873+00:00
-
- ## U.S. Department of State - United States Department of State
- - [https://2017-2021.state.gov](https://2017-2021.state.gov)
- - date_published: 2023-10-25T19:25:50.695939+00:00
-
- ## U.S. Department of State | Home Page
- - [https://aoprals.state.gov](https://aoprals.state.gov)
- - date_published: 2024-05-08T02:58:46.443772+00:00
-
- ## U.S. Department of State – Art in Embassies
- - [https://art.state.gov](https://art.state.gov)
- - date_published: 2024-05-09T07:03:26.316082+00:00
-
- ## Home - Careers
- - [https://careers.state.gov](https://careers.state.gov)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## The National Museum of American Diplomacy
- - [https://diplomacy.state.gov](https://diplomacy.state.gov)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## EducationUSA
- - [https://educationusa.state.gov](https://educationusa.state.gov)
- - date_published: 2024-05-10T06:56:29.872727+00:00
-
- ## Form Finder
- - [https://eforms.state.gov](https://eforms.state.gov)
- - date_published: 2024-05-09T07:03:24.345700+00:00
-
- ## Home Page  : Foreign Affairs Manual
- - [https://fam.state.gov](https://fam.state.gov)
- - date_published: 2024-05-09T07:03:10.744706+00:00
-
- ## FOIA: U.S. State Department
- - [https://foia.state.gov](https://foia.state.gov)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Latest News - Office of the Historian
- - [https://history.state.gov](https://history.state.gov)
- - date_published: 2024-05-09T07:03:16.940131+00:00
-
- ## Welcome to stories.state.gov
- - [https://stories.state.gov](https://stories.state.gov)
- - date_published: 2024-05-09T07:02:57.423604+00:00
-
- ## U.S. Department of State – Home
- - [https://www.state.gov](https://www.state.gov)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Sylvania Township Fire Department EMS
- - [https://www.stfd-oh.gov](https://www.stfd-oh.gov)
- - date_published: 2024-04-30T07:26:08.878283+00:00
-
- ## Federal Student Aid
- - [https://studentaid.gov](https://studentaid.gov)
- - date_published: 2023-10-25T19:25:51.614124+00:00
-
- ## Home - Supreme Court of the United States
- - [https://www.supremecourt.gov](https://www.supremecourt.gov)
- - date_published: 2024-01-09T03:31:35.235119+00:00
-
- ## Interactive Apps
- - [https://apps.highered.texas.gov](https://apps.highered.texas.gov)
- - date_published: 2024-05-07T21:14:21.338090+00:00
-
- ## TLO
- - [https://capitol.texas.gov](https://capitol.texas.gov)
- - date_published: 2024-06-15T12:38:57.243874+00:00
-
- ## Home Comptroller.Texas.Gov
- - [https://comptroller.texas.gov](https://comptroller.texas.gov)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Homepage
- - [https://gov.texas.gov](https://gov.texas.gov)
- - date_published: 2024-05-07T21:13:52.177228+00:00
-
- ## Texas House of Representatives
- - [https://house.texas.gov](https://house.texas.gov)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Texas Constitution and Statutes - Home
- - [https://statutes.capitol.texas.gov](https://statutes.capitol.texas.gov)
- - date_published: 2024-05-07T18:36:59.010555+00:00
-
- ## State Preservation Board
- - [https://tspb.texas.gov](https://tspb.texas.gov)
- - date_published: 2024-05-28T19:34:52+00:00
-
- ## Texas.gov | The Official Website of the State of Texas
- - [https://txapps.texas.gov](https://txapps.texas.gov)
- - date_published: 2024-05-10T05:17:05.869436+00:00
-
- ## Texas Veterans Portal
- - [https://veterans.portal.texas.gov](https://veterans.portal.texas.gov)
- - date_published: 2024-05-07T21:14:23.888856+00:00
-
- ## Who Represents Me?
- - [https://wrm.capitol.texas.gov](https://wrm.capitol.texas.gov)
- - date_published: 2024-05-07T18:36:53.951368+00:00
-
- ## Welcome to the Texas Department of Public Safety | Department of Public Safety
- - [https://www.dps.texas.gov](https://www.dps.texas.gov)
- - date_published: 2024-06-14T18:27:33+00:00
-
- ## Home - Texas Higher Education Coordinating Board
- - [https://www.highered.texas.gov](https://www.highered.texas.gov)
+ ## Internship and Career Center
+ - [https://icc.ucdavis.edu](https://icc.ucdavis.edu)
  - date_published: 2024-05-01T00:00:00+00:00
 
- ## The Railroad Commission of Texas
- - [https://www.rrc.texas.gov](https://www.rrc.texas.gov)
- - date_published: 2024-05-05T00:00:00+00:00
+ ## The IDEA
+ - [https://idea.ucdavis.edu](https://idea.ucdavis.edu)
+ - date_published: 2024-01-25T00:00:00+00:00
 
- ## Texas Department of Criminal Justice
- - [https://www.tdcj.texas.gov](https://www.tdcj.texas.gov)
- - date_published: 2024-01-09T03:31:36.838462+00:00
-
- ## Texas.gov | The Official Website of the State of Texas
- - [https://www.texas.gov](https://www.texas.gov)
- - date_published: 2024-05-07T21:13:11.477723+00:00
-
- ## TSLAC | Texas State Library And Archives Commission
- - [https://www.tsl.texas.gov](https://www.tsl.texas.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home
- - [https://www.texasagriculture.gov](https://www.texasagriculture.gov)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Office of the Attorney General
- - [https://www.texasattorneygeneral.gov](https://www.texasattorneygeneral.gov)
- - date_published: 2023-11-21T04:24:19.389027+00:00
-
- ## The Official U.S. Time | NIST
- - [https://www.time.gov](https://www.time.gov)
- - date_published: 2024-05-09T05:09:46.890174+00:00
-
- ## Connection denied by Geolocation
- - [https://wapp.capitol.tn.gov](https://wapp.capitol.tn.gov)
- - date_published: 2024-05-07T16:27:00.917865+00:00
-
- ## Tennessee State Government - TN.gov
- - [https://www.tn.gov](https://www.tn.gov)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## International Trade Administration
- - [https://www.trade.gov](https://www.trade.gov)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Traffic Safety Marketing | NHTSA
- - [https://www.trafficsafetymarketing.gov](https://www.trafficsafetymarketing.gov)
+ ## Home | College of Engineering Intranet
+ - [https://intranet.engineering.ucdavis.edu](https://intranet.engineering.ucdavis.edu)
  - date_published: 2024-05-13T00:00:00+00:00
 
- ## Transparency Florida Home
- - [http://www.transparencyflorida.gov](http://www.transparencyflorida.gov)
- - date_published: 2024-06-15T08:51:58.793780+00:00
+ ## Krishna Kumar Singh
+ - [http://krsingh.cs.ucdavis.edu](http://krsingh.cs.ucdavis.edu)
+ - date_published: 2024-05-04T15:20:21.251932+00:00
 
- ## Department of Transportation
- - [https://www.transportation.gov](https://www.transportation.gov)
- - date_published: 2024-04-05T00:00:00+00:00
+ ## UC Davis College of Letters and Science
+ - [https://lettersandscience.ucdavis.edu](https://lettersandscience.ucdavis.edu)
+ - date_published: 2023-11-03T19:14:18.151008+00:00
 
- ## Home Page
- - [https://bsaefiling.fincen.treas.gov](https://bsaefiling.fincen.treas.gov)
- - date_published: 2024-05-08T02:47:45.345360+00:00
+ ## College of Letters and Science Research Services
+ - [https://lsresearch.ucdavis.edu](https://lsresearch.ucdavis.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
 
- ## Front page | U.S. Department of the Treasury
- - [https://home.treasury.gov](https://home.treasury.gov)
- - date_published: 2023-10-25T19:26:01.602069+00:00
-
- ## Home
- - [https://ofac.treasury.gov](https://ofac.treasury.gov)
- - date_published: 2023-03-23T00:00:00+00:00
-
- ## Home | Office of Inspector General
- - [https://oig.treasury.gov](https://oig.treasury.gov)
- - date_published: 2024-05-08T02:47:44.250199+00:00
-
- ## Front page | U.S. Department of the Treasury
- - [https://www.treasury.gov](https://www.treasury.gov)
- - date_published: 2024-05-08T02:47:42.661336+00:00
-
- ## Home — TreasuryDirect
- - [https://www.treasurydirect.gov](https://www.treasurydirect.gov)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Transportation Security Administration | Transportation Security Administration
- - [https://www.tsa.gov](https://www.tsa.gov)
- - date_published: 2023-10-25T19:26:03.310372+00:00
-
- ## Home
- - [https://www.tsp.gov](https://www.tsp.gov)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## City of Tucson
- - [https://www.tucsonaz.gov](https://www.tucsonaz.gov)
- - date_published: 2024-05-04T09:56:17.610670+00:00
-
- ## analytics.usa.gov | The US government's web traffic.
- - [https://analytics.usa.gov](https://analytics.usa.gov)
- - date_published: 2024-05-06T13:55:22.070352+00:00
-
- ## Small business | USAGov
- - [https://business.usa.gov](https://business.usa.gov)
- - date_published: 2024-05-08T02:34:45.226950+00:00
-
- ## Información del Gobierno de Estados Unidos a su alcance | USAGov
- - [https://gobierno.usa.gov](https://gobierno.usa.gov)
- - date_published: 2024-06-14T14:30:30+00:00
-
- ## We're sorry - something went wrong. 403
- - [https://search.usa.gov](https://search.usa.gov)
- - date_published: 2024-05-08T02:44:44.100583+00:00
-
- ## Making government services easier to find | USAGov
- - [https://usa.gov](https://usa.gov)
- - date_published: 2024-05-08T02:36:22.098793+00:00
-
- ## Making government services easier to find | USAGov
- - [https://www.usa.gov](https://www.usa.gov)
- - date_published: 2024-05-08T02:34:46.637055+00:00
-
- ## USAJOBS - The Federal Government's official employment site
- - [https://www.usajobs.gov](https://www.usajobs.gov)
- - date_published: 2024-05-08T02:44:57.915412+00:00
-
- ## The USAP Portal: Science and Support in Antarctica - Welcome to the United States Antarctic Program Portal
- - [https://www.usap.gov](https://www.usap.gov)
- - date_published: 2023-10-25T19:26:06.918908+00:00
-
- ## USAspending.gov
- - [https://www.usaspending.gov](https://www.usaspending.gov)
- - date_published: 2024-04-05T18:56:05.482787+00:00
-
- ## Home Page | CISA
- - [https://www.us-cert.gov](https://www.us-cert.gov)
- - date_published: 2024-05-10T05:31:18.333353+00:00
-
- ## Home | Navigation Center
- - [https://www.navcen.uscg.gov](https://www.navcen.uscg.gov)
- - date_published: 2024-05-07T23:46:30.165149+00:00
-
- ## Home
- - [https://www.uscis.gov](https://www.uscis.gov)
- - date_published: 2024-01-31T00:36:18.599353+00:00
-
- ## Oregon U.S. District Court
- - [https://ord.uscourts.gov](https://ord.uscourts.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## PACER | PACER Case Locator
- - [https://pcl.uscourts.gov](https://pcl.uscourts.gov)
- - date_published: 2024-05-12T06:08:39.352216+00:00
-
- ## www.mdd.uscourts.gov
- - [https://www2.mdd.uscourts.gov](https://www2.mdd.uscourts.gov)
- - date_published: 2024-05-12T06:08:42.300849+00:00
-
- ## Tenth Circuit | The United States Court of Appeals
- - [https://www.ca10.uscourts.gov](https://www.ca10.uscourts.gov)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## United States Court of Appeals 2nd Circuit
- - [https://www.ca2.uscourts.gov](https://www.ca2.uscourts.gov)
- - date_published: 2023-10-25T19:26:11.758897+00:00
-
- ## United States Court of Appeals for the Fourth Circuit
- - [http://www.ca4.uscourts.gov](http://www.ca4.uscourts.gov)
- - date_published: 2024-05-12T06:08:33.554638+00:00
-
- ## Fifth Circuit Court of Appeals
- - [https://www.ca5.uscourts.gov](https://www.ca5.uscourts.gov)
- - date_published: 2023-10-25T19:26:14.905641+00:00
-
- ## United States District Court, Northern District of California | Richard Seeborg, Chief Judge.  Mark B. Busby, Clerk of Court
- - [https://www.cand.uscourts.gov](https://www.cand.uscourts.gov)
- - date_published: 2024-05-04T08:04:51.531183+00:00
-
- ## District of Columbia | United States District Court
- - [https://www.dcd.uscourts.gov](https://www.dcd.uscourts.gov)
- - date_published: 2023-10-25T19:26:18.152336+00:00
-
- ## U.S. District Court - Northern District of Illinois
- - [https://www.ilnd.uscourts.gov](https://www.ilnd.uscourts.gov)
- - date_published: 2024-06-15T18:53:14.782814+00:00
-
- ## Judicial Panel on Multidistrict Litigation | United States
- - [https://www.jpml.uscourts.gov](https://www.jpml.uscourts.gov)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## The United States Bankruptcy Court for the District of Maryland
- - [http://www.mdb.uscourts.gov](http://www.mdb.uscourts.gov)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## District of Maryland | United States District Court
- - [https://www.mdd.uscourts.gov](https://www.mdd.uscourts.gov)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Object not found!
- - [https://www.txnd.uscourts.gov](https://www.txnd.uscourts.gov)
- - date_published: 2024-01-09T03:31:38.226546+00:00
-
- ## United States Courts
- - [http://www.uscourts.gov](http://www.uscourts.gov)
- - date_published: 2024-05-12T06:08:30.585643+00:00
-
- ## The U.S. Currency Education Program
- - [https://www.uscurrency.gov](https://www.uscurrency.gov)
- - date_published: 2024-05-08T02:47:33.454720+00:00
-
- ## https://directives.sc.egov.usda.gov
- - [https://directives.sc.egov.usda.gov](https://directives.sc.egov.usda.gov)
- - date_published: 2023-12-19T17:57:55.296864+00:00
-
- ## Eligibility
- - [https://eligibility.sc.egov.usda.gov](https://eligibility.sc.egov.usda.gov)
- - date_published: 2024-06-15T17:44:26.067082+00:00
-
- ## Beginning Farmers and Ranchers
- - [https://newfarmers.usda.gov](https://newfarmers.usda.gov)
- - date_published: 2023-02-01T19:50:25+00:00
-
- ## 2023 USDA Plant Hardiness Zone Map | USDA Plant Hardiness Zone Map
- - [https://planthardiness.ars.usda.gov](https://planthardiness.ars.usda.gov)
- - date_published: 2024-05-01T08:04:12.769759+00:00
-
- ## USDA Plants Database
- - [https://plants.usda.gov](https://plants.usda.gov)
- - date_published: 2024-05-01T08:04:10.866700+00:00
-
- ## Home | Agricultural Marketing Service
- - [https://www.ams.usda.gov](https://www.ams.usda.gov)
- - date_published: 2024-06-14T23:30:46.337203+00:00
-
- ## eAuthentication
- - [https://www.eauth.usda.gov](https://www.eauth.usda.gov)
- - date_published: 2020-01-13T22:12:00+00:00
-
- ## USDA ERS - Home
- - [https://www.ers.usda.gov](https://www.ers.usda.gov)
- - date_published: 2023-11-01T05:24:12.673713+00:00
-
- ## USDA Farm Service Agency Home Page
- - [https://www.fsa.usda.gov](https://www.fsa.usda.gov)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Home | Food Safety and Inspection Service
- - [https://www.fsis.usda.gov](https://www.fsis.usda.gov)
- - date_published: 2024-05-04T06:41:02.141993+00:00
-
- ## Home | US Forest Service
- - [https://www.fs.usda.gov](https://www.fs.usda.gov)
- - date_published: 2021-02-01T15:28:00+00:00
-
- ## National Agricultural Library
- - [https://www.nal.usda.gov](https://www.nal.usda.gov)
- - date_published: 2024-06-14T11:49:53+00:00
-
- ## NASS - National Agricultural Statistics Service
- - [https://www.nass.usda.gov](https://www.nass.usda.gov)
- - date_published: 2024-05-08T11:05:14.153289+00:00
-
- ## | National Institute of Food and Agriculture
- - [https://www.nifa.usda.gov](https://www.nifa.usda.gov)
- - date_published: 2024-04-29T04:47:39.676254+00:00
-
- ## | Natural Resources Conservation Service
- - [https://www.nrcs.usda.gov](https://www.nrcs.usda.gov)
- - date_published: 2024-06-15T17:44:19.282856+00:00
-
- ## Departmental Directives
- - [https://www.ocio.usda.gov](https://www.ocio.usda.gov)
- - date_published: 2024-06-15T17:20:45+00:00
-
- ## Rural Development
- - [https://www.rd.usda.gov](https://www.rd.usda.gov)
- - date_published: 2024-06-15T17:21:06+00:00
-
- ## USDA
- - [https://www.usda.gov](https://www.usda.gov)
- - date_published: 2024-05-01T08:04:15.691020+00:00
-
- ## COPS OFFICE
- - [https://cops.usdoj.gov](https://cops.usdoj.gov)
- - date_published: 2024-05-09T06:51:24.561847+00:00
-
- ## Diversion Control Division | Welcome
- - [https://www.deadiversion.usdoj.gov](https://www.deadiversion.usdoj.gov)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Homepage
- - [https://gt.usembassy.gov](https://gt.usembassy.gov)
+ ## Coastal and Marine Sciences Institute
+ - [https://marinescience.ucdavis.edu](https://marinescience.ucdavis.edu)
  - date_published: 2024-05-06T00:00:00+00:00
 
- ## Homepage
- - [https://il.usembassy.gov](https://il.usembassy.gov)
- - date_published: 2024-04-10T00:00:00+00:00
+ ## UC Davis Mobile
+ - [http://mobile.ucdavis.edu](http://mobile.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:03.545138+00:00
 
- ## Homepage
- - [https://jo.usembassy.gov](https://jo.usembassy.gov)
- - date_published: 2024-05-09T07:03:20.372274+00:00
+ ## MyAdmissions | UC Davis
+ - [https://myadmissions.ucdavis.edu](https://myadmissions.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:33.426787+00:00
 
- ## Homepage
- - [https://uk.usembassy.gov](https://uk.usembassy.gov)
- - date_published: 2024-01-24T20:56:16.257977+00:00
-
- ## Homepage
- - [https://www.usembassy.gov](https://www.usembassy.gov)
- - date_published: 2022-06-16T00:00:00+00:00
-
- ## Earthquake Hazards Program | U.S. Geological Survey
- - [https://earthquake.usgs.gov](https://earthquake.usgs.gov)
- - date_published: 2023-10-25T19:26:27.821782+00:00
-
- ## U.S. Geological Survey Publications Warehouse
- - [https://pubs.er.usgs.gov](https://pubs.er.usgs.gov)
- - date_published: 2023-10-25T19:26:29.739829+00:00
-
- ## USGS Publications Warehouse
- - [https://pubs.usgs.gov](https://pubs.usgs.gov)
- - date_published: 2024-02-26T14:18:28.677910+00:00
-
- ## USGS.gov | Science for a changing world
- - [https://www.usgs.gov](https://www.usgs.gov)
- - date_published: 2023-10-25T19:26:34.516955+00:00
-
- ## Home
- - [https://www.usmarshals.gov](https://www.usmarshals.gov)
- - date_published: 2023-11-01T08:43:37.168607+00:00
-
- ## United States Postal Inspection Service – Protecting you and everyone the post reaches.
- - [https://www.uspis.gov](https://www.uspis.gov)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home | Office of Inspector General OIG
- - [https://www.uspsoig.gov](https://www.uspsoig.gov)
- - date_published: 2024-05-06T21:27:41.759901+00:00
-
- ## HTTP Status 404 – Not Found
- - [https://image-ppubs.uspto.gov](https://image-ppubs.uspto.gov)
- - date_published: 2024-01-09T03:31:39.680391+00:00
-
- ## Trademark Status & Document Retrieval
- - [http://tarr.uspto.gov](http://tarr.uspto.gov)
- - date_published: 2024-05-06T23:44:36.407334+00:00
-
- ## Trademark Electronic Search System (TESS)
- - [https://tmsearch.uspto.gov](https://tmsearch.uspto.gov)
- - date_published: 2023-10-25T19:26:42.135004+00:00
-
- ## Trademark Status & Document Retrieval
- - [https://tsdr.uspto.gov](https://tsdr.uspto.gov)
- - date_published: 2023-10-25T19:26:49.816767+00:00
-
- ## United States Patent and Trademark Office
- - [https://www.uspto.gov](https://www.uspto.gov)
- - date_published: 2023-10-25T19:26:53.299790+00:00
-
- ## Utah Department of Agriculture and Food
- - [https://ag.utah.gov](https://ag.utah.gov)
- - date_published: 2024-04-29T04:48:16.025771+00:00
-
- ## Home | Utah Legislature
- - [https://le.utah.gov](https://le.utah.gov)
- - date_published: 2024-04-29T04:48:37.340217+00:00
-
- ## ChooseVA
- - [https://choose.va.gov](https://choose.va.gov)
- - date_published: 2024-05-08T12:13:56.893678+00:00
-
- ## U.S. Department of Veterans Affairs
- - [https://department.va.gov](https://department.va.gov)
- - date_published: 2022-04-23T13:59:32+00:00
-
- ## VA.gov Design System
- - [https://design.va.gov](https://design.va.gov)
- - date_published: 2024-05-08T12:13:49.729983+00:00
-
- ## VA API Platform
- - [https://developer.va.gov](https://developer.va.gov)
- - date_published: 2024-05-08T12:13:27.524010+00:00
-
- ## DigitalVA
- - [https://digital.va.gov](https://digital.va.gov)
- - date_published: 2022-09-16T12:52:39+00:00
-
- ## DiscoverVA
- - [https://discover.va.gov](https://discover.va.gov)
- - date_published: 2023-06-09T18:27:51+00:00
-
- ## Home Page
- - [https://mobile.va.gov](https://mobile.va.gov)
- - date_published: 2024-05-08T12:13:55.327890+00:00
-
- ## VA News and Information
- - [https://news.va.gov](https://news.va.gov)
- - date_published: 2023-12-21T16:18:24+00:00
-
- ## VA Telehealth Services | Telehealth VA
- - [https://telehealth.va.gov](https://telehealth.va.gov)
- - date_published: 2024-05-08T12:14:24.987070+00:00
-
- ## Department of Veterans Affairs Open Data Portal
- - [https://www.data.va.gov](https://www.data.va.gov)
- - date_published: 2024-05-08T12:13:33.235563+00:00
-
- ## DigitalVA
- - [https://www.digital.va.gov](https://www.digital.va.gov)
- - date_published: 2022-09-16T12:52:39+00:00
-
- ## VA.gov | Veterans Affairs
- - [https://www.mentalhealth.va.gov](https://www.mentalhealth.va.gov)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## MVP Home | Veterans Affairs
- - [https://www.mvp.va.gov](https://www.mvp.va.gov)
- - date_published: 2024-05-08T12:13:46.845956+00:00
-
- ## DigitalVA
- - [https://www.oit.va.gov](https://www.oit.va.gov)
- - date_published: 2023-10-25T19:27:00.114442+00:00
-
- ## Veteran Affairs Pathfinder
- - [https://www.pathfinder.va.gov](https://www.pathfinder.va.gov)
- - date_published: 2024-05-08T12:14:20.652784+00:00
-
- ## VA Careers
- - [https://www.vacareers.va.gov](https://www.vacareers.va.gov)
- - date_published: 2022-09-01T21:28:39+00:00
-
- ## VA.gov Home | Veterans Affairs
- - [https://www.va.gov](https://www.va.gov)
- - date_published: 2024-05-01T07:04:47.700570+00:00
-
- ## VA Terms and Conditions - yourIT Service Portal
- - [https://yourit.va.gov](https://yourit.va.gov)
- - date_published: 2024-05-08T12:14:15.531949+00:00
-
- ## Find COVID‑19 vaccine locations near you
- - [https://www.vaccines.gov](https://www.vaccines.gov)
- - date_published: 2024-05-01T08:45:52.812714+00:00
-
- ## Department of General Services
- - [https://dgs.virginia.gov](https://dgs.virginia.gov)
- - date_published: 2024-04-30T04:26:11.588679+00:00
-
- ## Virginia Voter Information – Citizen Portal
- - [https://vote.elections.virginia.gov](https://vote.elections.virginia.gov)
- - date_published: 2024-05-07T10:48:56.256427+00:00
-
- ## Governor Glenn Youngkin | Governor.Virginia.gov
- - [https://www.governor.virginia.gov](https://www.governor.virginia.gov)
- - date_published: 2024-06-05T05:37:54+00:00
-
- ## Editorials on Voice of America
- - [https://editorials.voa.gov](https://editorials.voa.gov)
+ ## myucdavis
+ - [https://my.ucdavis.edu](https://my.ucdavis.edu)
  - date_published: 2024-05-07T00:00:00+00:00
 
- ## Check Voter Registration Deadlines and Laws in Your State
- - [https://vote.gov](https://vote.gov)
- - date_published: 2024-05-08T02:44:56.249857+00:00
-
- ## Check Voter Registration Deadlines and Laws in Your State
- - [https://www.vote.gov](https://www.vote.gov)
- - date_published: 2024-05-08T02:35:01.776298+00:00
-
- ## Welcome to VoteTexas.gov
- - [https://www.votetexas.gov](https://www.votetexas.gov)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Washington State Department of Agriculture
- - [https://agr.wa.gov](https://agr.wa.gov)
- - date_published: 2024-06-15T17:44:47.613599+00:00
-
- ## Home - Washington Senate Democrats
- - [https://senatedemocrats.wa.gov](https://senatedemocrats.wa.gov)
- - date_published: 2023-10-25T19:27:05.211655+00:00
-
- ## Washington Department of Fish and Wildlife
- - [http://wdfw.wa.gov](http://wdfw.wa.gov)
- - date_published: 2024-06-15T03:32:44+00:00
-
- ## Washington State Department of Transportation
- - [https://wsdot.wa.gov](https://wsdot.wa.gov)
- - date_published: 2024-05-06T22:48:28.762977+00:00
-
- ## Washington State | Office of the Attorney General
- - [https://www.atg.wa.gov](https://www.atg.wa.gov)
- - date_published: 2023-10-25T19:27:08.100270+00:00
-
- ## ESDWAGOV - Home
- - [http://www.esd.wa.gov](http://www.esd.wa.gov)
- - date_published: 2024-06-15T18:35:21.896535+00:00
-
- ## National Weather Service
- - [https://forecast.weather.gov](https://forecast.weather.gov)
- - date_published: 2023-10-24T20:19:23.078078+00:00
-
- ## Ocean Prediction Center
- - [https://ocean.weather.gov](https://ocean.weather.gov)
- - date_published: 2023-10-25T19:27:10.683788+00:00
-
- ## NWS Radar
- - [https://radar.weather.gov](https://radar.weather.gov)
- - date_published: 2024-05-06T22:11:19.616496+00:00
-
- ## National Weather Service
- - [https://w2.weather.gov](https://w2.weather.gov)
- - date_published: 2024-06-14T23:31:26.261794+00:00
-
- ## https://water.weather.gov
- - [https://water.weather.gov](https://water.weather.gov)
- - date_published: 2024-05-07T13:31:34.883041+00:00
-
- ## National Weather Service
- - [https://www.weather.gov](https://www.weather.gov)
- - date_published: 2023-10-25T19:27:16.778437+00:00
-
- ## National Archives
- - [http://webharvest.gov](http://webharvest.gov)
- - date_published: 2024-05-08T02:59:27.822341+00:00
-
- ## CFTC's Whistleblower Program | Whistleblower.gov
- - [https://www.whistleblower.gov](https://www.whistleblower.gov)
- - date_published: 2024-05-08T02:37:00.206417+00:00
-
- ## The White House
- - [https://www.whitehouse.gov](https://www.whitehouse.gov)
- - date_published: 2023-10-25T19:27:21.217032+00:00
-
- ## DATCP Home
-            
-            
-            Homepage
- - [https://datcp.wi.gov](https://datcp.wi.gov)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Home - Worker Organizing Resource and Knowledge Center
- - [https://www.workcenter.gov](https://www.workcenter.gov)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Home - Worker.gov
- - [https://www.worker.gov](https://www.worker.gov)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## https://wyoleg.gov
- - [https://wyoleg.gov](https://wyoleg.gov)
- - date_published: 2023-10-25T19:27:23.611011+00:00
-
- ## Home Page
- - [https://www.yorksc.gov](https://www.yorksc.gov)
- - date_published: 2024-05-07T12:50:36.483329+00:00
-
- ## Homepage | Fatherhood.gov
- - [https://fatherhood.gov:443](https://fatherhood.gov:443)
- - date_published: 2023-12-29T00:50:59.625462+00:00
-
- ## Homepage | Fatherhood.gov
- - [https://www.fatherhood.gov:443](https://www.fatherhood.gov:443)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Vente et achat voitures neuves - Citroen Guadeloupe
- - [https://www.citroen.gp](https://www.citroen.gp)
- - date_published: 2023-12-11T16:03:13.872308+00:00
-
- ## Magasin de Sport
- - [https://decathlon.gp](https://decathlon.gp)
- - date_published: 2024-06-15T20:22:54.433394+00:00
-
- ## Decathlon Guadeloupe - Recrutement
- - [http://recrutement.decathlon.gp](http://recrutement.decathlon.gp)
- - date_published: 2024-06-15T20:22:46+00:00
-
- ## Magasin de Sport
- - [https://www.decathlon.gp](https://www.decathlon.gp)
- - date_published: 2024-05-01T04:25:48.214719+00:00
-
- ## Scientology - l'Eglise de la Scientology de France, Portail officiel
- - [https://www.scientology.gp](https://www.scientology.gp)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Visa, a trusted leader in digital payments.
- - [https://www.visa.gp](https://www.visa.gp)
- - date_published: 2024-05-12T03:58:26.830792+00:00
-
- ## The Eternal Jukebox
- - [https://jukebox.davi.gq](https://jukebox.davi.gq)
- - date_published: 2024-01-02T16:20:15.152611+00:00
-
- ## Private Site
- - [https://gru.gq](https://gru.gq)
- - date_published: 2024-04-28T06:24:52.233397+00:00
- - tags: ['private resource']
-
- ## Decathlon Ελλάδα | Αθλητικά Ρούχα & Αθλητικός Εξοπλισμός
- - [https://www.decathlon.com.gr](https://www.decathlon.com.gr)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## tripadvisor.com.gr
- - [https://www.tripadvisor.com.gr](https://www.tripadvisor.com.gr)
- - date_published: 2024-06-01T04:38:35.099126+00:00
-
- ## Home
- - [https://certifications.gamingcommission.gov.gr](https://certifications.gamingcommission.gov.gr)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Acropolis Museum Kids
- - [https://acropolismuseumkids.gr](https://acropolismuseumkids.gr)
- - date_published: 2024-06-01T04:38:26.539837+00:00
-
- ## Airbnb | Ενοικιαζόμενα για διακοπές, ξυλόσπιτα, σπίτια σε παραλία και πολλά άλλα
- - [https://www.airbnb.gr](https://www.airbnb.gr)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home | AmiCamp
- - [https://amicamp.gr](https://amicamp.gr)
- - date_published: 2023-12-11T17:37:01.573253+00:00
- - tags: ['convention', 'amiga', 'community event']
-
- ## Home | AmiCamp
- - [http://www.amicamp.gr](http://www.amicamp.gr)
- - date_published: 2024-05-24T05:32:40.720823+00:00
- - tags: ['amiga']
-
- ## amiga.gr
- - [https://amiga.gr](https://amiga.gr)
- - date_published: 2024-05-08T17:11:14.210977+00:00
- - tags: ['amiga']
-
- ## amiga.gr
- - [http://www.amiga.gr](http://www.amiga.gr)
- - date_published: 2024-05-10T03:58:38.464639+00:00
- - tags: ['amiga']
-
- ## Andrew Gritsevskiy
- - [https://andrew.gr](https://andrew.gr)
- - date_published: 2024-05-08T09:57:51.016668+00:00
- - tags: ['personal']
-
- ## St. Paul’s Anglican Church | Athens
- - [https://anglicanchurchathens.gr](https://anglicanchurchathens.gr)
- - date_published: 2024-02-08T22:20:29.434459+00:00
-
- ## Υψηλής Ποιότητας Ηλεκτρονικο Τσιγαρο Με Γρήγορη Αποστολή
- - [https://www.apxvape.gr](https://www.apxvape.gr)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## Athens Lifelong Learning
- - [https://athenslifelonglearning.gr](https://athenslifelonglearning.gr)
- - date_published: 2024-05-07T23:41:12.765798+00:00
-
- ## Home
- - [https://www.biocomp.gr](https://www.biocomp.gr)
- - date_published: 2024-05-21T03:04:32.560178+00:00
-
- ## Αγγελίες μοναδικών ακινήτων προς πώληση & ενοικίαση | BLUEKEY
- - [https://www.bluekey.gr](https://www.bluekey.gr)
- - date_published: 2024-05-01T08:41:30.822876+00:00
-
- ## Homepage - AMI WEBSTORE
- - [https://amistore.citroen.gr](https://amistore.citroen.gr)
- - date_published: 2024-05-10T04:42:02.604178+00:00
-
- ## Eπιλεγμένα μεταχειρισμένα αυτοκίνητα της Citroën
- - [http://approved.citroen.gr](http://approved.citroen.gr)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Πρόγραμμα συντήρησης κατασκευαστού - Citroen
- - [https://onlinebooking.citroen.gr](https://onlinebooking.citroen.gr)
- - date_published: 2024-05-10T04:42:06.644078+00:00
-
- ## Νέα αυτοκίνητα | Κατασκευαστής αυτοκινήτων | Citroën
- - [https://www.citroen.gr](https://www.citroen.gr)
- - date_published: 2023-12-11T16:01:26.638908+00:00
-
- ## Citroën Origins
- - [https://www.citroenorigins.gr](https://www.citroenorigins.gr)
- - date_published: 2024-05-10T04:41:58.247397+00:00
-
- ## Δημιουργήστε ένα επιτυχημένο βιογραφικό – (Δωρεάν) εφαρμογή βιογραφικού
- - [https://cvapp.gr](https://cvapp.gr)
- - date_published: 2024-05-06T09:20:46.650742+00:00
-
- ## DigiKey Home
- - [https://www.digikey.gr](https://www.digikey.gr)
- - date_published: 2024-05-01T05:03:57.985114+00:00
-
- ## Disney Ελλάδας | To Επίσημο Site
- - [https://www.disney.gr](https://www.disney.gr)
- - date_published: 2024-05-01T05:17:43.743085+00:00
-
- ## Dmitry.GR: Projects
- - [https://dmitry.gr](https://dmitry.gr)
- - date_published: 2023-10-25T19:27:25.347944+00:00
-
- ## Επισκόπηση κατάστασης
- - [https://downdetector.gr](https://downdetector.gr)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## ΔΥΝΑΜΙΚΗ Α.Ε. | Το κορυφάιο δίκτυο διανομής ποτών και οίνων στην Ελλάδα
- - [https://www.dynamiki-sa.gr](https://www.dynamiki-sa.gr)
- - date_published: 2024-05-10T07:00:47.127221+00:00
-
- ## Domain names, Web Hosting, Sitebuilder, Eshop,VoIP | Easy.gr
- - [https://easy.gr](https://easy.gr)
- - date_published: 2024-05-01T05:58:49.266878+00:00
- - tags: ['web hosting']
-
- ## ΕΛΙΔΕΚ, Ελληνικό Ίδρυμα Έρευνας & Καινοτομίας
- - [https://www.elidek.gr](https://www.elidek.gr)
- - date_published: 2024-06-14T01:51:03.703663+00:00
-
- ## Homepage - EnExGroup
- - [https://www.enexgroup.gr](https://www.enexgroup.gr)
- - date_published: 2024-05-20T02:45:38.864707+00:00
-
- ## Centova Cast
- - [http://s2.e-resellers.gr](http://s2.e-resellers.gr)
- - date_published: 2024-06-13T10:37:19.648486+00:00
-
- ## Euractiv Greece
- - [https://www.euractiv.gr](https://www.euractiv.gr)
- - date_published: 2024-05-02T09:58:46.532355+00:00
-
- ## Find F
- - [http://findf.gr](http://findf.gr)
- - date_published: 2024-04-30T07:49:05.167434+00:00
-
- ## Αρχική - FRESKON
- - [https://www.freskon-expo.gr](https://www.freskon-expo.gr)
- - date_published: 2024-05-04T07:11:09.252441+00:00
-
- ## Gastronomos.gr
- - [https://www.gastronomos.gr](https://www.gastronomos.gr)
- - date_published: 2024-05-01T08:41:16.137821+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.generation-y.gr](https://www.generation-y.gr)
- - date_published: 2024-06-01T04:38:29.426305+00:00
-
- ## Πλανήτης GNOME Ελλάδα/Κύπρος
- - [http://planet.gnome.gr](http://planet.gnome.gr)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## Έρευνα ικανοποίησης εργαζομένων - Great Place to Work® Hellas
- - [http://www.greatplacetowork.gr](http://www.greatplacetowork.gr)
- - date_published: 2021-04-22T10:54:51+00:00
-
- ## ΕΜΥ, Εθνική Μετεωρολογική Υπηρεσία
- - [http://www.hnms.gr](http://www.hnms.gr)
- - date_published: 2024-04-28T02:23:20.737661+00:00
-
- ## Homo digitalis – Protect your rights
- - [https://www.homodigitalis.gr](https://www.homodigitalis.gr)
- - date_published: 2024-05-06T23:55:53.433487+00:00
-
- ## Η δική σας πλατφόρμα hosting - Online με την Hostinger
- - [https://www.hostinger.gr](https://www.hostinger.gr)
- - date_published: 2024-05-11T07:50:33.027580+00:00
-
- ## HuffPost - Ειδήσεις και Απόψεις από την Ελλάδα και τον Κόσμο
- - [https://www.huffingtonpost.gr](https://www.huffingtonpost.gr)
- - date_published: 2024-05-02T11:55:11.259697+00:00
-
- ## iGuRu Νέα Τεχνολογίας σε πραγματικό χρόνο Best Tech site in Greece
- - [https://iguru.gr](https://iguru.gr)
- - date_published: 2024-05-11T07:05:49.892230+00:00
-
- ## Ασφάλεια Υγείας | Σύγκριση τιμών
- - [https://www.infomax.gr](https://www.infomax.gr)
- - date_published: 2024-05-09T08:17:54.514479+00:00
-
- ## InnovED
- - [https://www.innoved.gr](https://www.innoved.gr)
- - date_published: 2024-05-07T23:39:33.408787+00:00
-
- ## inside story
- - [https://insidestory.gr](https://insidestory.gr)
- - date_published: 2024-05-06T23:56:13.134265+00:00
-
- ## Ασφαλιστικό Γραφείο Παλαιό Φάληρο | InsuranceTime
- - [https://www.insurancetime.gr](https://www.insurancetime.gr)
- - date_published: 2020-04-01T18:05:07+00:00
-
- ## José Galisteo Ruiz | Just my personal site
- - [https://jose.gr](https://jose.gr)
- - date_published: 2024-04-30T08:13:15.929718+00:00
- - tags: ['personal']
-
- ## Καιρός & Ραντάρ Ελλάδα
- - [https://www.kairosradar.gr](https://www.kairosradar.gr)
- - date_published: 2024-05-07T13:25:35.541490+00:00
-
- ## Λύσεις Kaspersky Cyber Security για οικιακή χρήση και επιχειρήσεις  | Kaspersky
- - [https://www.kaspersky.gr](https://www.kaspersky.gr)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## ΚΑΘΗΜΕΡΙΝΗ - ΣΥΝΔΡΟΜΕΣ
- - [https://subscription.kathimerini.gr](https://subscription.kathimerini.gr)
- - date_published: 2024-05-01T08:41:34.763439+00:00
-
- ## Νέα και Ειδήσεις από την Ελλάδα και τον Κόσμο | Η ΚΑΘΗΜΕΡΙΝΗ
- - [https://www.kathimerini.gr](https://www.kathimerini.gr)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Kudzu Website
- - [https://kudzu.gr](https://kudzu.gr)
- - date_published: 2024-05-09T04:06:18.059991+00:00
-
- ## Δωρεάν διαδικτυακά παιχνίδια - Lagged.gr
- - [https://lagged.gr](https://lagged.gr)
- - date_published: 2024-05-04T11:46:06.811836+00:00
-
- ## Blog
-
-		🎤 Lexxman
- - [https://www.lexx.gr](https://www.lexx.gr)
- - date_published: 2023-10-25T19:27:32.020037+00:00
-
- ## Λ. Ρον Χάμπαρντ – Ιδρυτής της Scientology και της Dianetics
- - [https://www.lronhubbard.gr](https://www.lronhubbard.gr)
- - date_published: 2024-06-06T19:38:58.159638+00:00
-
- ## Mame.gr – To MAME στα ελληνικά !
- - [https://mame.gr](https://mame.gr)
- - date_published: 2024-05-22T11:12:29+00:00
-
- ## MATTLE.GR - A Dub.co Custom Domain
- - [http://mattle.gr](http://mattle.gr)
- - date_published: 2024-04-28T04:38:09.722557+00:00
-
- ## ΜέΡΑ25 - Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής
- - [https://mera25.gr](https://mera25.gr)
+ ## Orientation
+ - [http://orientation.ucdavis.edu](http://orientation.ucdavis.edu)
  - date_published: 2024-05-07T00:00:00+00:00
 
- ## Arduino, ESP32, Processing,  Digital Arts, Συλλεκτικοί Υπολογιστές
- - [https://microdev.gr](https://microdev.gr)
- - date_published: 2024-04-29T09:26:46+00:00
- - tags: ['microcontrollers', 'esp32']
+ ## Promise Engineering Institute
+ - [https://pei.ucdavis.edu](https://pei.ucdavis.edu)
+ - date_published: 2024-06-07T21:35:59+00:00
 
- ## Moneyreview.gr
- - [https://www.moneyreview.gr](https://www.moneyreview.gr)
- - date_published: 2024-05-01T08:41:27.206554+00:00
+ ## Search Results -
+        UC Davis Health
+ - [https://physicians.ucdavis.edu](https://physicians.ucdavis.edu)
+ - date_published: 2024-05-07T20:43:09.723076+00:00
 
- ## Homepage
- - [https://www.neolaia.gr](https://www.neolaia.gr)
- - date_published: 2024-05-01T00:00:00+00:00
+ ## Welcome - AP Recruit
+ - [https://recruit.ucdavis.edu](https://recruit.ucdavis.edu)
+ - date_published: 2024-05-07T20:43:12.170875+00:00
 
- ## New Era Publications International ApS
- - [http://www.newerapublications.gr](http://www.newerapublications.gr)
- - date_published: 2024-06-06T19:42:22.520745+00:00
+ ## Redwood SEED Scholars Program
+ - [https://redwoodseed.ucdavis.edu](https://redwoodseed.ucdavis.edu)
+ - date_published: 2024-06-02T03:57:59+00:00
 
- ## Nova - EON TV, ταχύτατο Fiber internet & απεριόριστη επικοινωνία
- - [https://www.nova.gr](https://www.nova.gr)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## ECE • Home
- - [https://www.ece.ntua.gr](https://www.ece.ntua.gr)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Software Engineering Laboratory - N.T.U.A.
- - [http://www.softlab.ntua.gr](http://www.softlab.ntua.gr)
- - date_published: 2024-04-28T04:06:23.167761+00:00
-
- ## Software developers, Web Developers, Home - NXCODE
- - [https://nxcode.gr](https://nxcode.gr)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## MainPage
- - [https://okfn.gr](https://okfn.gr)
- - date_published: 2023-10-31T12:39:27+00:00
-
- ## Αρχική
- - [https://parthenonfrieze.gr](https://parthenonfrieze.gr)
- - date_published: 2024-06-01T04:38:34.132785+00:00
-
- ## protothemanews.com | Protothema.gr news in english
- - [https://en.protothema.gr](https://en.protothema.gr)
- - date_published: 2023-10-25T19:27:36.235371+00:00
-
- ## Public #1 για είδη τεχνολογίας, ψυχαγωγίας και οικιακές συσκευές!
- - [http://www.public.gr](http://www.public.gr)
- - date_published: 2024-06-13T07:56:53+00:00
-
- ## Radial - Web Design - Web Development - Digital Marketing
- - [https://radial.gr](https://radial.gr)
- - date_published: 2022-11-24T12:57:10+00:00
-
- ## Reporters United
- - [https://www.reportersunited.gr](https://www.reportersunited.gr)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Περιοδικό Retroid
- - [https://retroid.gr](https://retroid.gr)
- - date_published: 2024-05-08T17:11:12.977804+00:00
- - tags: ['retro games', 'amiga']
-
- ## Retro Planet
- - [https://www.retroplanet.gr](https://www.retroplanet.gr)
- - date_published: 2024-05-08T17:11:16.695871+00:00
- - tags: ['retro games', 'amiga']
-
- ## Κάνε subscribe στις αναμνήσεις σου
- - [https://retropolis.gr](https://retropolis.gr)
+ ## Office of the University Registrar (OUR)
+ - [https://registrar.ucdavis.edu](https://registrar.ucdavis.edu)
  - date_published: 2024-05-08T00:00:00+00:00
 
- ## Επίσημη Εκκλησία της Σαηεντολογίας: Λ. Ρον Χάμπαρντ, Διανοητική, Τι είναι η Σαηεντολογία;, Βιβλία, πεποιθήσεις, Ντέιβιντ Μισκάβιτς
- - [https://www.scientology.gr](https://www.scientology.gr)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Θρησκείας της Σαηεντολογίας – Υπόβαθρο, Θεολογία και Θρησκευτική Πρακτική
- - [https://www.scientologyreligion.gr](https://www.scientologyreligion.gr)
- - date_published: 2024-06-06T19:41:29.028850+00:00
-
- ## SHOPFLIX - Το MARKETPLACE όλης της Ελλάδας
- - [https://shopflix.gr](https://shopflix.gr)
- - date_published: 2024-05-10T07:00:48.542829+00:00
-
- ## Sivann's page
- - [http://www.sivann.gr](http://www.sivann.gr)
- - date_published: 2024-06-14T15:51:13.977209+00:00
-
- ## Skroutz Engineering
- - [https://engineering.skroutz.gr](https://engineering.skroutz.gr)
- - date_published: 2023-10-25T19:27:37.896244+00:00
-
- ## SPARTOO | Παπούτσια, τσάντες και ρούχα | Δωρεάν μεταφορικά
- - [https://www.spartoo.gr](https://www.spartoo.gr)
- - date_published: 2024-06-12T11:13:01.566459+00:00
-
- ## Star.gr | Ειδήσεις, Lifestyle Νέα, Επικαιρότητα
- - [https://www.star.gr](https://www.star.gr)
- - date_published: 2024-05-26T20:56:26.754893+00:00
- - tags: ['news']
-
- ## Acropolis Museum | Tickets
- - [https://etickets.theacropolismuseum.gr](https://etickets.theacropolismuseum.gr)
- - date_published: 2024-06-01T04:38:23.510394+00:00
-
- ## Αρχική | Μουσείο Ακρόπολης | Επίσημος ιστοχώρος
- - [https://www.theacropolismuseum.gr](https://www.theacropolismuseum.gr)
- - date_published: 2023-11-13T13:51:11.767913+00:00
- - tags: ['museum']
-
- ## Acropolis Timeline
- - [https://xronologio.theacropolismuseum.gr](https://xronologio.theacropolismuseum.gr)
- - date_published: 2024-06-01T04:38:30.302391+00:00
-
- ## The Epoch Times - Αλήθεια και Παράδοση
- - [https://theepochtimes.gr](https://theepochtimes.gr)
- - date_published: 2024-05-06T16:44:27.546532+00:00
-
- ## trib.al
- - [http://therin.gr](http://therin.gr)
- - date_published: 2024-05-06T14:28:32.218899+00:00
-
- ## topgeargreece.gr
- - [https://www.topgeargreece.gr](https://www.topgeargreece.gr)
- - date_published: 2024-05-10T05:43:38.533794+00:00
-
- ## ΤΟ ΒΗΜΑ | Ειδήσεις και Ενημέρωση από την Ελλάδα και τον Κόσμο
- - [https://www.tovima.gr](https://www.tovima.gr)
- - date_published: 2024-05-10T05:45:56.698348+00:00
-
- ## Department of Mathematics
- - [https://en.math.uoa.gr](https://en.math.uoa.gr)
- - date_published: 2022-10-04T00:00:00+00:00
-
- ## Κέντρο Λειτουργίας και Διαχείρισης Δικτύου - ΕΚΠΑ - Προσωπικές Ιστοσελίδες
- - [http://users.uoa.gr](http://users.uoa.gr)
- - date_published: 2024-06-14T01:50:56.290509+00:00
-
- ## ftp.cc.uoc.gr - University of Crete / Computer Center
- - [http://ftp.cc.uoc.gr](http://ftp.cc.uoc.gr)
- - date_published: 2024-05-17T02:58:29.984765+00:00
-
- ## Τμήμα Επιστήμης Υπολογιστών - Πανεπιστήμιο Κρήτης
- - [https://www.csd.uoc.gr](https://www.csd.uoc.gr)
- - date_published: 2023-10-25T19:27:39.747201+00:00
-
- ## Visa, ένας από τους έμπιστους ηγέτες στις ψηφιακές πληρωμές.
- - [https://www.visa.gr](https://www.visa.gr)
- - date_published: 2024-05-12T03:58:31.609122+00:00
-
- ## Visit Greece
- - [https://www.visitgreece.gr](https://www.visitgreece.gr)
- - date_published: 2024-05-12T05:12:33.546386+00:00
-
- ## Vodafone | Τηλεόραση, Internet, Σταθερή & Κινητή
- - [https://www.vodafone.gr](https://www.vodafone.gr)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Home | VOGUE.GR
- - [https://vogue.gr](https://vogue.gr)
- - date_published: 2024-05-01T08:40:52.614890+00:00
-
- ## My blog | Georgios (walkero) Sokianos
- - [https://walkero.gr](https://walkero.gr)
- - date_published: 2020-06-25T00:00:00+00:00
-
- ## Πάλεψε για τον κόσμο σου!
- - [https://www.wwf.gr](https://www.wwf.gr)
- - date_published: 2024-05-07T23:59:04.938591+00:00
-
- ## Barbara
- - [https://www.barbara.graphics](https://www.barbara.graphics)
- - date_published: 2023-10-25T19:27:40.717243+00:00
-
- ## Homepage EN - Klär.graphics
- - [http://klar.graphics](http://klar.graphics)
- - date_published: 2021-10-07T18:01:38+00:00
-
- ## homepage :: sebastian.graphics
- - [https://sebastian.graphics](https://sebastian.graphics)
- - date_published: 2024-05-09T07:45:28.005397+00:00
-
- ## Redirecting to Michael's link…
- - [https://michael.gratis](https://michael.gratis)
- - date_published: 2024-04-29T04:47:04.933812+00:00
-
- ## Nur.Gratis: Kostenlose Dinge aus dem Web mit Mehrwert + Gutscheine
- - [https://nur.gratis](https://nur.gratis)
- - date_published: 2024-06-03T06:37:49.769077+00:00
-
- ## Mastodon.green
- - [https://mastodon.green](https://mastodon.green)
- - date_published: 2024-05-04T07:48:59.264690+00:00
-
- ## Booklet
- - [https://www.booklet.group](https://www.booklet.group)
- - date_published: 2023-10-25T19:27:41.800887+00:00
-
- ## TC39
- - [https://es.discourse.group](https://es.discourse.group)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Fortran Discourse - Fortran open source community
- - [https://fortran-lang.discourse.group](https://fortran-lang.discourse.group)
- - date_published: 2023-10-25T19:27:46.377370+00:00
-
- ## Kanboard
- - [https://kanboard.discourse.group](https://kanboard.discourse.group)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Kopia Forum
- - [https://kopia.discourse.group](https://kopia.discourse.group)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Meshtastic
- - [https://meshtastic.discourse.group](https://meshtastic.discourse.group)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Numba Discussion
- - [https://numba.discourse.group](https://numba.discourse.group)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## openziti
- - [https://openziti.discourse.group](https://openziti.discourse.group)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Universal Blue
- - [https://universal-blue.discourse.group](https://universal-blue.discourse.group)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## WLED
- - [https://wled.discourse.group](https://wled.discourse.group)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Zola
- - [https://zola.discourse.group](https://zola.discourse.group)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Fitch Ratings: Credit Ratings & Analysis For Financial Markets
- - [https://your.fitch.group](https://your.fitch.group)
- - date_published: 2024-05-04T06:13:39.074263+00:00
-
- ## GAMURS Group
- - [https://gamurs.group](https://gamurs.group)
- - date_published: 2024-05-01T04:49:11.051290+00:00
-
- ## Cyber Security solutions for Companies and Government
- - [https://www.negg.group](https://www.negg.group)
- - date_published: 2024-02-06T11:06:38+00:00
- - tags: ['spyware vendor']
-
- ## Kim-Jong Cracks Social
- - [https://nso.group](https://nso.group)
- - date_published: 2023-10-25T19:27:46.890969+00:00
-
- ## Startseite
- - [https://onetech.group](https://onetech.group)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## The Opsgroup Story – What we are about
- - [https://ops.group](https://ops.group)
- - date_published: 2023-12-04T00:36:57.850661+00:00
-
- ## Signal Messenger Group
- - [https://signal.group](https://signal.group)
- - date_published: 2024-04-29T04:17:19.750767+00:00
-
- ## SMG Swiss Marketplace Group | Welcome to Switzerland's new digital hub
- - [https://swissmarketplace.group](https://swissmarketplace.group)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Untitled Document
- - [https://cdn.theardent.group](https://cdn.theardent.group)
- - date_published: 2024-04-28T04:24:33.342721+00:00
-
- ## Login
- - [https://em.theardent.group](https://em.theardent.group)
- - date_published: 2024-05-04T12:32:45.325386+00:00
-
- ## The Ardent Group – Growth. Reimagined.
- - [https://theardent.group](https://theardent.group)
- - date_published: 2024-04-28T04:26:12.283813+00:00
-
- ## New Perspectives, Every Day – TX Group
- - [https://tx.group](https://tx.group)
- - date_published: 2024-05-06T17:59:12.973322+00:00
-
- ## Welcome to your Strapi app
- - [https://cms.worldhost.group](https://cms.worldhost.group)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Anna’s Archive
- - [https://annas-archive.gs](https://annas-archive.gs)
- - date_published: 2024-06-13T16:12:50+00:00
-
- ## Fry
- - [https://fry.gs](https://fry.gs)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Juiced.GS - A quarterly Apple II magazine
- - [https://juiced.gs](https://juiced.gs)
- - date_published: 2024-01-02T21:43:13.244766+00:00
- - tags: ['retro', 'apple ii']
-
- ## Marcus Siegel
- - [https://sie.gs](https://sie.gs)
- - date_published: 2024-06-15T09:19:39.824682+00:00
-
- ## A nice guy's view on life
- - [https://jon.sprig.gs](https://jon.sprig.gs)
- - date_published: 2024-01-29T09:24:08.004263+00:00
-
- ## Rebrandly
- - [https://srs.gs](https://srs.gs)
- - date_published: 2024-04-29T05:33:13.536249+00:00
-
- ## 3D model community. Search & download free 3D models. Share 3D models
- - [https://than.gs](https://than.gs)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Gitea: Git with a cup of tea
- - [https://code.ur.gs](https://code.ur.gs)
- - date_published: 2024-05-09T08:58:46.764396+00:00
-
- ## Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más
- - [https://www.airbnb.com.gt](https://www.airbnb.com.gt)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## ESPN Guatemala - Lo Último del Mundo Deportivo
- - [https://www.espn.com.gt](https://www.espn.com.gt)
- - date_published: 2024-05-02T09:42:09.186160+00:00
-
- ## LOS40 Guatemala 93.3 FM - La radio de los Éxitos
- - [https://www.los40.com.gt](https://www.los40.com.gt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## SANTILLANA
- - [https://santillana.com.gt](https://santillana.com.gt)
- - date_published: 2024-06-12T13:05:37.977431+00:00
-
- ## SANTILLANA
- - [https://www.santillana.com.gt](https://www.santillana.com.gt)
- - date_published: 2024-06-12T12:56:21.108389+00:00
-
- ## Visa, un líder confiable en pagos digitales
- - [https://www.visa.com.gt](https://www.visa.com.gt)
- - date_published: 2024-05-12T03:58:51.962942+00:00
-
- ## Redgate Software - End-to-end Database DevOps Solutions and Tools For SQL Server, Oracle, PostgreSQL, and more
- - [https://cdn.rd.gt](https://cdn.rd.gt)
- - date_published: 2024-05-07T10:35:13.262939+00:00
-
- ## Introduction
- - [https://appsec.guide](https://appsec.guide)
- - date_published: 2024-05-06T20:15:45.865874+00:00
-
- ## Bed & Breakfast.guide
- - [https://bedandbreakfast.guide](https://bedandbreakfast.guide)
- - date_published: 2024-04-28T01:55:08.108328+00:00
-
- ## Bitcoiner.Guide
- - [https://bitcoiner.guide](https://bitcoiner.guide)
- - date_published: 2024-06-15T22:31:29.348691+00:00
-
- ## Home | DSi Guide
- - [https://dsi.cfw.guide](https://dsi.cfw.guide)
- - date_published: 2024-05-09T12:42:19.109862+00:00
-
- ## d2r.guide · Diablo II: Resurrected Cheat Sheet
- - [https://d2r.guide](https://d2r.guide)
- - date_published: 2023-12-13T16:04:31.872838+00:00
- - tags: ['diablo']
-
- ## Dimensions | Database of Dimensioned Drawings
- - [https://www.dimensions.guide](https://www.dimensions.guide)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## FFmpeg.guide - One stop solution to all things FFmpeg
- - [https://ffmpeg.guide](https://ffmpeg.guide)
- - date_published: 2024-01-09T03:31:46.199295+00:00
-
- ## The Ultimate Guide To First Principles Thinking
- - [https://fpt.guide](https://fpt.guide)
- - date_published: 2024-05-06T14:04:39.457540+00:00
-
- ## Game.Guide: Value Lists, Tier Lists, Codes, & Guides
- - [https://www.game.guide](https://www.game.guide)
- - date_published: 2024-04-16T13:22:34+00:00
-
- ## 3DS Hacks Guide
- - [https://3ds.hacks.guide](https://3ds.hacks.guide)
- - date_published: 2024-05-09T12:42:17.086204+00:00
-
- ## Hacks.Guide
- - [https://hacks.guide](https://hacks.guide)
- - date_published: 2024-05-09T13:08:20+00:00
- - tags: ['hardware repair', 'hacking']
-
- ## Home | Vita Guide
- - [https://vita.hacks.guide](https://vita.hacks.guide)
- - date_published: 2024-05-09T12:42:16.031626+00:00
-
- ## Wii Hacks Guide
- - [https://wii.hacks.guide](https://wii.hacks.guide)
- - date_published: 2024-05-09T12:42:08.697768+00:00
-
- ## Wii U Hacks Guide
- - [https://wiiu.hacks.guide](https://wiiu.hacks.guide)
- - date_published: 2024-05-09T12:42:07.044364+00:00
-
- ## Welcome to homeserver.guide
- - [https://homeserver.guide](https://homeserver.guide)
- - date_published: 2024-04-24T20:34:09.250783+00:00
-
- ## The Quickstart Guide to Game Mastering
- - [https://howtogm.guide](https://howtogm.guide)
- - date_published: 2024-06-15T04:38:37.943720+00:00
-
- ## Nine casino ➤ Expert review of the best online casino 【2024】
- - [http://images.guide](http://images.guide)
- - date_published: 2024-05-06T13:01:32.865747+00:00
- - tags: ['gambling']
-
- ## Install Guide · Mac
- - [https://mac.install.guide](https://mac.install.guide)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Show HN: IP Guide – info on IP addresses, Networks, and ASNs
- - [https://ip.guide](https://ip.guide)
- - date_published: 2023-11-24T22:37:16+00:00
-
- ## Janet for Mortals
- - [https://janet.guide](https://janet.guide)
- - date_published: 2023-10-25T19:27:47.704736+00:00
-
- ## Open Source Guides
- - [https://opensource.guide](https://opensource.guide)
- - date_published: 2024-04-29T07:30:07.253753+00:00
-
- ## The Practical Guide to Experience Design
- - [https://practical.guide](https://practical.guide)
- - date_published: 2024-05-11T05:35:48.308692+00:00
-
- ## Programming.Guide
- - [https://programming.guide](https://programming.guide)
- - date_published: 2023-10-25T19:27:49.280845+00:00
-
- ## Remix Guide
- - [https://remix.guide](https://remix.guide)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Introduction - The Marketplace Guide
- - [https://themarketplace.guide](https://themarketplace.guide)
- - date_published: 2023-10-25T19:27:51.233231+00:00
-
- ## Guide to Web Authentication
- - [https://webauthn.guide](https://webauthn.guide)
- - date_published: 2024-01-24T09:42:32+00:00
- - tags: ['passkeys']
-
- ## Hexagon's Blog
- - [https://dev.hexagon.56k.guru](https://dev.hexagon.56k.guru)
- - date_published: 2023-10-25T09:21:56.086882+00:00
- - tags: ['personal']
-
- ## A Cloud Guru - Get Cloud Certified
- - [https://acloud.guru](https://acloud.guru)
- - date_published: 2024-05-06T13:16:15.153210+00:00
-
- ## A Cloud Guru
- - [https://learn.acloud.guru](https://learn.acloud.guru)
- - date_published: 2024-05-06T23:30:20.835016+00:00
-
- ## Blog
- - [https://read.acloud.guru](https://read.acloud.guru)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Crontab.guru - The cron schedule expression generator
- - [https://crontab.guru](https://crontab.guru)
- - date_published: 2024-05-04T15:49:50.411740+00:00
-
- ## Nightcap Guru
- - [https://www.nightcap.guru](https://www.nightcap.guru)
- - date_published: 2023-10-25T19:27:52.113533+00:00
-
- ## Refactoring and Design Patterns
- - [https://refactoring.guru](https://refactoring.guru)
- - date_published: 2024-05-11T05:41:08.552259+00:00
-
- ## Spring Framework Guru - Spring Framework Guru
- - [https://springframework.guru](https://springframework.guru)
- - date_published: 2024-04-29T05:57:20.691959+00:00
-
- ## SuperMemo Guru - supermemo.guru
- - [https://supermemo.guru](https://supermemo.guru)
- - date_published: 2024-01-09T03:31:47.346129+00:00
-
- ## Watcher Guru - Fastest Finance & Crypto News
- - [https://watcher.guru](https://watcher.guru)
- - date_published: 2023-10-25T19:27:53.247909+00:00
-
- ## Ian Wold | Software Engineer, Architect, and Team Leader
- - [https://ian.wold.guru](https://ian.wold.guru)
- - date_published: 2024-04-03T12:49:01.199465+00:00
- - tags: ['personal']
-
- ## Guyana Telephone and Telegraph Company
- - [https://gtt.co.gy](https://gtt.co.gy)
- - date_published: 2024-05-10T05:39:53.731883+00:00
-
- ## Home | Ministry of Foreign Affairs
- - [https://www.minfor.gov.gy](https://www.minfor.gov.gy)
- - date_published: 2024-05-10T05:39:44.358853+00:00
-
- ## Airbnb | Vacation rentals, cabins, beach houses, & more
- - [https://www.airbnb.gy](https://www.airbnb.gy)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Photo albums
- - [https://i.amy.gy](https://i.amy.gy)
- - date_published: 2024-06-15T04:15:36.835774+00:00
-
- ## Bridgy
- - [https://brid.gy](https://brid.gy)
- - date_published: 2024-05-01T08:46:26.063911+00:00
-
- ## Bridgy Fed
- - [https://fed.brid.gy](https://fed.brid.gy)
- - date_published: 2024-04-29T06:25:58.005862+00:00
-
- ## Bridgy Fed
- - [https://web.brid.gy](https://web.brid.gy)
- - date_published: 2024-04-28T02:53:42.737201+00:00
-
- ## Bridgy
- - [https://www.brid.gy](https://www.brid.gy)
- - date_published: 2024-05-10T04:31:04.392106+00:00
-
- ## Citroën Origins
- - [http://www.citroenorigins.gy](http://www.citroenorigins.gy)
- - date_published: 2024-05-10T04:45:26.395018+00:00
-
- ## PREMIER Insurance Inc. Guyana | Insurance Company Guyana
- - [https://premierinsurance.gy](https://premierinsurance.gy)
- - date_published: 2024-05-04T09:01:32.453902+00:00
-
- ## Prodigy · Prodigy · An annotation tool for AI, Machine Learning & NLP
- - [https://prodi.gy](https://prodi.gy)
- - date_published: 2024-05-04T15:57:56.342953+00:00
-
- ## Free URL Shortener | Powered by Rebrandly
- - [https://rb.gy](https://rb.gy)
- - date_published: 2024-04-29T03:15:54.334681+00:00
-
- ## bcin.short.gy is a custom short domain
- - [https://bcin.short.gy](https://bcin.short.gy)
- - date_published: 2024-05-07T18:38:47.673682+00:00
-
- ## cn4h.short.gy is a custom short domain
- - [https://cn4h.short.gy](https://cn4h.short.gy)
- - date_published: 2024-05-07T18:38:51.592237+00:00
-
- ## tgy - Overview
- - [https://too.gy](https://too.gy)
- - date_published: 2024-05-09T08:20:27.343285+00:00
-
- ## y.gy | Free QR Code Creator and Link Shortener
- - [https://app.y.gy](https://app.y.gy)
- - date_published: 2024-03-01T20:33:20.614440+00:00
-
- ## Backyard | Kaderníctvo v Bratislave
- - [https://backyard.hair](https://backyard.hair)
- - date_published: 2024-05-10T07:00:41.096617+00:00
-
- ## 404 Not Found
- - [http://blog.deckc.hair](http://blog.deckc.hair)
- - date_published: 2023-10-25T19:27:53.491662+00:00
-
- ## Digitales Stadtmagazin | FINK.Hamburg
- - [https://fink.hamburg](https://fink.hamburg)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Grapevine
- - [https://gossip.haus](https://gossip.haus)
- - date_published: 2024-05-12T02:42:23.777395+00:00
-
- ## Grapevine
- - [https://grapevine.haus](https://grapevine.haus)
- - date_published: 2024-05-12T02:38:55.575204+00:00
-
- ## Haihaus
- - [https://www.hai.haus](https://www.hai.haus)
- - date_published: 2024-01-09T03:31:48.037056+00:00
-
- ## mash
- - [https://www.mash.haus](https://www.mash.haus)
- - date_published: 2024-05-09T06:11:48.861571+00:00
-
- ## RamenHaus — Homepage
- - [https://ramen.haus](https://ramen.haus)
- - date_published: 2024-04-05T23:54:35.153096+00:00
- - tags: ['interesting', 'ramen']
-
- ## Nicholas Scheurich
- - [https://scheurich.haus](https://scheurich.haus)
- - date_published: 2024-05-09T08:17:51.916575+00:00
-
- ## Vineyard - Free Shell Accounts for MUDs, talkers, web pages, and more.
- - [https://vineyard.haus](https://vineyard.haus)
- - date_published: 2024-03-27T20:49:10+00:00
- - tags: ['mud game']
-
- ## Headlight - Therapy & Mental Health Services
- - [https://headlight.health](https://headlight.health)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Klarity Health Library
- - [https://my.klarity.health](https://my.klarity.health)
- - date_published: 2022-10-24T21:14:09+00:00
-
- ## Radiant Chat | Your medical reference bot
- - [https://chat.radiantai.health](https://chat.radiantai.health)
- - date_published: 2023-10-25T19:27:56.604094+00:00
-
- ## Introducing FlexBeam - A wearable infrared therapy device
- - [https://recharge.health](https://recharge.health)
- - date_published: 2023-11-05T12:54:56+00:00
-
- ## Turquoise Health Blog
- - [https://blog.turquoise.health](https://blog.turquoise.health)
- - date_published: 2023-10-25T19:27:58.234456+00:00
-
- ## The Wellness Company
- - [https://www.twc.health](https://www.twc.health)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## AI in Healthcare | Artificial intelligence in healthcare news
- - [https://aiin.healthcare](https://aiin.healthcare)
- - date_published: 2024-05-10T05:40:10.832910+00:00
-
- ## eBuyClub
- - [https://ebuyclub.crisp.help](https://ebuyclub.crisp.help)
- - date_published: 2024-06-15T01:03:15.563189+00:00
-
- ## FAQ
- - [https://threefoldfaq.crisp.help](https://threefoldfaq.crisp.help)
- - date_published: 2024-05-10T06:14:03.573909+00:00
-
- ## Documentation & Help
- - [https://documentation.help](https://documentation.help)
- - date_published: 2024-04-25T11:02:51+00:00
- - tags: ['documentation']
-
- ## Fastmail
- - [https://www.fastmail.help](https://www.fastmail.help)
- - date_published: 2024-04-28T03:22:42.934683+00:00
-
- ## Friends With Benefits
- - [https://www.fwb.help](https://www.fwb.help)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## CultureHustle.com Help Desk
- - [https://culture-hustle-us-np9m1eektai.gorgias.help](https://culture-hustle-us-np9m1eektai.gorgias.help)
- - date_published: 2024-05-08T07:14:18.679255+00:00
-
- ## Füm™ Support Center | Welcome to the Good Habit
- - [https://fum-support.gorgias.help](https://fum-support.gorgias.help)
- - date_published: 2024-05-09T07:07:59.050786+00:00
-
- ## INTO THE AM Help Center
- - [https://intotheam.gorgias.help](https://intotheam.gorgias.help)
- - date_published: 2024-05-08T12:28:54.944938+00:00
-
- ## The Satanic Temple Shop Help Center
- - [https://shopsatan.gorgias.help](https://shopsatan.gorgias.help)
- - date_published: 2024-05-06T14:29:10.313982+00:00
-
- ## Singer Help Center Help Center
- - [https://singer.gorgias.help](https://singer.gorgias.help)
- - date_published: 2024-05-06T23:13:54.816258+00:00
-
- ## Stimara Help Center
- - [https://stimara.gorgias.help](https://stimara.gorgias.help)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Trade Coffee Help Center
- - [https://trade-coffee.gorgias.help](https://trade-coffee.gorgias.help)
- - date_published: 2024-05-01T07:46:58.012984+00:00
-
- ## Proactive Support | Intercom
- - [https://intercom.help](https://intercom.help)
- - date_published: 2024-05-11T07:36:58.862346+00:00
-
- ## interviews.help
- - [https://www.interviews.help](https://www.interviews.help)
- - date_published: 2024-04-29T12:56:40.591668+00:00
-
- ## Home | Hello Merch Help Center
- - [https://hellomerch.kb.help](https://hellomerch.kb.help)
- - date_published: 2024-05-10T04:47:13.223664+00:00
-
- ## Home | ThreatLocker Help Center
- - [https://threatlocker.kb.help](https://threatlocker.kb.help)
- - date_published: 2024-05-11T09:19:34.727222+00:00
-
- ## Framework Knowledge Base
- - [https://framework.kustomer.help](https://framework.kustomer.help)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## TuneIn
- - [https://tunein.kustomer.help](https://tunein.kustomer.help)
- - date_published: 2024-05-01T00:28:23.106597+00:00
-
- ## Listen Notes Help Center
- - [https://www.listennotes.help](https://www.listennotes.help)
- - date_published: 2024-05-04T12:49:22.981834+00:00
-
- ## Readable KnowledgeBase
- - [https://readable.help](https://readable.help)
- - date_published: 2024-06-15T11:12:35.490820+00:00
-
- ## Where work happens
- - [https://get.slack.help](https://get.slack.help)
- - date_published: 2024-05-01T06:43:33.855819+00:00
-
- ## Stack Overflow for Teams Help Center
- - [https://stackoverflow.help](https://stackoverflow.help)
- - date_published: 2024-04-30T07:03:59.155503+00:00
-
- ## Stack Overflow for Teams Help Center
- - [https://stackoverflowteams.help](https://stackoverflowteams.help)
- - date_published: 2024-04-30T07:04:01.447789+00:00
-
- ## Planestic - UD
- - [https://planestic-ud.tawk.help](https://planestic-ud.tawk.help)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Airbnb｜度假屋、小木屋及海邊獨立屋等
- - [https://www.airbnb.com.hk](https://www.airbnb.com.hk)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Autodesk empowers innovators everywhere to make the new possible
- - [https://www.autodesk.com.hk](https://www.autodesk.com.hk)
- - date_published: 2024-04-25T03:30:00+00:00
-
- ## Discover the full range of Citroën cars
- - [https://www.citroen.com.hk](https://www.citroen.com.hk)
- - date_published: 2024-05-08T05:30:44.410590+00:00
-
- ## Decathlon Hong Kong
- - [https://www.decathlon.com.hk](https://www.decathlon.com.hk)
- - date_published: 2024-05-01T04:25:35.871574+00:00
-
- ## 電子產品、汽車、時裝、收藏品、優惠券等精彩網上購物 | eBay
- - [https://www.ebay.com.hk](https://www.ebay.com.hk)
- - date_published: 2024-05-01T08:15:57.865370+00:00
-
- ## EF海外遊學留學和語言課程 | EF香港和澳門
- - [https://www.ef.com.hk](https://www.ef.com.hk)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Garmin Hong Kong
- - [https://www.garmin.com.hk](https://www.garmin.com.hk)
- - date_published: 2024-05-04T07:27:37.936595+00:00
-
- ## Google Scholar
- - [https://scholar.google.com.hk](https://scholar.google.com.hk)
- - date_published: 2024-04-28T03:29:06.042703+00:00
-
- ## Google
- - [https://www.google.com.hk](https://www.google.com.hk)
- - date_published: 2024-05-12T05:57:03.470665+00:00
-
- ## Home - GPTW Greater China
- - [http://www.greatplacetowork.com.hk](http://www.greatplacetowork.com.hk)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## 为您打造的托管平台 - 选择Hostinger上线
- - [https://www.hostinger.com.hk](https://www.hostinger.com.hk)
- - date_published: 2024-05-11T07:50:59.974370+00:00
-
- ## Kaspersky 家庭和企業網絡安全解決方案 | 卡巴斯基香港 Kaspersky Hong Kong
- - [https://www.kaspersky.com.hk](https://www.kaspersky.com.hk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## 任天堂(香港)有限公司網站
- - [https://www.nintendo.com.hk](https://www.nintendo.com.hk)
- - date_published: 2024-05-06T15:46:55.502074+00:00
-
- ## Monthly Traffic Exceeded
- - [http://www.noahlab.com.hk](http://www.noahlab.com.hk)
- - date_published: 2024-04-28T03:30:14.182744+00:00
-
- ## Home
- - [https://www.schwab.com.hk](https://www.schwab.com.hk)
- - date_published: 2024-04-29T02:26:09.296883+00:00
-
- ## Sony Hong Kong / Sony 香港
- - [https://www.sony.com.hk](https://www.sony.com.hk)
- - date_published: 2024-05-09T13:47:20.855630+00:00
-
- ## VELCRO® Brand Fastening Solutions | Velcro Companies
- - [https://en.velcro.com.hk](https://en.velcro.com.hk)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## VELCRO® Brand Fastening Solutions | Velcro Companies
- - [https://www.velcro.com.hk](https://www.velcro.com.hk)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Visa, a trusted leader in digital payments.
- - [https://www.visa.com.hk](https://www.visa.com.hk)
- - date_published: 2024-05-12T03:58:45.013597+00:00
-
- ## Yelp
- - [https://en.yelp.com.hk](https://en.yelp.com.hk)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Yelp
- - [https://zh.yelp.com.hk](https://zh.yelp.com.hk)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## City University of Hong Kong
- - [https://www.cityu.edu.hk](https://www.cityu.edu.hk)
- - date_published: 2023-11-12T14:24:15.942518+00:00
-
- ## Redirect after 2 seconds
- - [http://bzhou.ie.cuhk.edu.hk](http://bzhou.ie.cuhk.edu.hk)
- - date_published: 2021-09-30T02:22:09+00:00
-
- ## Department of Systems Engineering and Engineering Management, CUHK
- - [https://www1.se.cuhk.edu.hk](https://www1.se.cuhk.edu.hk)
- - date_published: 2024-04-28T03:41:35.234039+00:00
-
- ## Big Data Decision Analytics (BDDA) Research Centre, CUHK
- - [https://www.bdda.cuhk.edu.hk](https://www.bdda.cuhk.edu.hk)
- - date_published: 2024-04-28T03:41:44.410082+00:00
-
- ## Homepage - CUHK CSE
- - [https://www.cse.cuhk.edu.hk](https://www.cse.cuhk.edu.hk)
- - date_published: 2024-04-28T03:41:30.484544+00:00
-
- ## The Chinese University of Hong Kong
- - [https://www.cuhk.edu.hk](https://www.cuhk.edu.hk)
- - date_published: 2024-05-08T11:14:35.922238+00:00
-
- ## Electronic Engineering Department, The Chinese University of Hong Kong
- - [https://www.ee.cuhk.edu.hk](https://www.ee.cuhk.edu.hk)
- - date_published: 2024-04-28T03:41:42.090398+00:00
-
- ## Home Page
- - [https://www.erg.cuhk.edu.hk](https://www.erg.cuhk.edu.hk)
- - date_published: 2014-11-14T08:17:46+00:00
-
- ## ieweb
- - [http://www.ie.cuhk.edu.hk](http://www.ie.cuhk.edu.hk)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Department of Systems Engineering and Engineering Management, CUHK
- - [https://www.se.cuhk.edu.hk](https://www.se.cuhk.edu.hk)
- - date_published: 2024-04-28T03:40:43.319867+00:00
-
- ## Hong Kong Baptist University – HKBU
- - [https://www.hkbu.edu.hk](https://www.hkbu.edu.hk)
- - date_published: 2024-05-08T00:27:03.526201+00:00
-
- ## Welcom to COMP's Personal Webpage Server
- - [https://asiaccs2021.comp.polyu.edu.hk](https://asiaccs2021.comp.polyu.edu.hk)
- - date_published: 2016-11-28T04:13:02+00:00
-
- ## 主頁  | Business Wire
- - [http://www.businesswire.hk](http://www.businesswire.hk)
- - date_published: 2024-05-08T04:02:32.986609+00:00
-
- ## Centre for Perceptual and Interactive Intelligence (CPII)
- - [https://cpii.hk](https://cpii.hk)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## DigiKey Home
- - [https://www.digikey.hk](https://www.digikey.hk)
- - date_published: 2024-05-01T05:03:31.120175+00:00
-
- ## Status overview
- - [https://downdetector.hk](https://downdetector.hk)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Finance Jobs, Banking and Tech Jobs - Hong Kong - eFinancialCareers
- - [https://www.efinancialcareers.hk](https://www.efinancialcareers.hk)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Eventbrite
- - [https://www.eventbrite.hk](https://www.eventbrite.hk)
- - date_published: 2024-05-12T05:55:30.746543+00:00
-
- ## Hong Kong FinTech Week | 28 Oct - 1 Nov 2024
- - [https://www.fintechweek.hk](https://www.fintechweek.hk)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Shenzhen GPD Technology Co., Ltd. - GPD Pocket 3 GPD WIN 4 GPD WIN Max 2 GPD WIN Mini GPD MicroPC GamePad Headheld Game Console Video Game Play Mini Laptop
- - [https://www.gpd.hk](https://www.gpd.hk)
- - date_published: 2024-06-15T07:22:57.623278+00:00
-
- ## HKU Faculty of Architecture | HKURBANLABS
- - [http://fac.arch.hku.hk](http://fac.arch.hku.hk)
- - date_published: 2024-05-08T11:44:26.478020+00:00
-
- ## School of Public Health of the University of Hong Kong
- - [http://sph.hku.hk](http://sph.hku.hk)
- - date_published: 2024-06-15T18:57:28.126577+00:00
-
- ## jon.hk
- - [https://jon.hk](https://jon.hk)
- - date_published: 2023-10-25T19:28:01.121455+00:00
-
- ## Technology and Business Training
- - [https://oreilly.hk](https://oreilly.hk)
- - date_published: 2024-05-06T22:10:39.930329+00:00
-
- ## ��ҳ-T1�����콢����� - ��è����
- - [https://t1.tmall.hk](https://t1.tmall.hk)
- - date_published: 2024-05-08T02:32:03.672578+00:00
-
- ## 偽基百科
- - [https://uncyclopedia.hk](https://uncyclopedia.hk)
- - date_published: 2024-05-11T09:52:33.431049+00:00
-
- ## Home | The Hong Kong University of Science and Technology
- - [https://www.ust.hk](https://www.ust.hk)
- - date_published: 2024-04-28T03:52:56.574118+00:00
-
- ## wootwoot.hk
- - [https://wootwoot.hk](https://wootwoot.hk)
- - date_published: 2024-01-05T10:28:54.623061+00:00
-
- ## 主頁
- - [https://www.opendoors.org.hk](https://www.opendoors.org.hk)
- - date_published: 2024-05-08T11:13:09.591493+00:00
-
- ## 大自然保護協會
- - [https://secure.tnc.org.hk](https://secure.tnc.org.hk)
- - date_published: 2024-05-08T10:42:39.144140+00:00
-
- ## 大自然保護協會
- - [https://www.tnc.org.hk](https://www.tnc.org.hk)
- - date_published: 2024-05-08T10:42:30.035454+00:00
-
- ## 世界自然基金會香港分會
- - [https://www.wwf.org.hk](https://www.wwf.org.hk)
- - date_published: 2024-05-07T23:58:49.758889+00:00
-
- ## Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más
- - [https://www.airbnb.com.hn](https://www.airbnb.com.hn)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## SANTILLANA
- - [https://santillana.com.hn](https://santillana.com.hn)
- - date_published: 2024-06-12T13:04:55.138040+00:00
-
- ## SANTILLANA
- - [https://www.santillana.com.hn](https://www.santillana.com.hn)
- - date_published: 2024-06-12T12:55:27.006040+00:00
-
- ## Visa, un líder confiable en pagos digitales.
- - [https://www.visa.com.hn](https://www.visa.com.hn)
- - date_published: 2024-05-12T03:59:24.677440+00:00
-
- ## Show HN: Markdown HN profiles at {user}.at.hn
- - [https://at.hn](https://at.hn)
- - date_published: 2024-06-10T12:19:46+00:00
-
- ## blogs.hn
- - [https://blogs.hn](https://blogs.hn)
- - date_published: 2023-12-18T15:10:33+00:00
- - tags: ['blogs', 'personal', 'personal sites source']
-
- ## Hacker News Blogroll
- - [https://dm.hn](https://dm.hn)
- - date_published: 2023-10-25T19:28:02.288614+00:00
- - tags: ['hacker news']
-
- ## Partnerize Tracking
- - [https://adobe-creative.prf.hn](https://adobe-creative.prf.hn)
- - date_published: 2024-05-08T12:00:41.463413+00:00
-
- ## Partnerize | Flexible Tracking that Powers Partner Channel Insights
- - [https://adobe.prf.hn](https://adobe.prf.hn)
- - date_published: 2022-03-01T00:00:00+00:00
-
- ## Partnerize | Flexible Tracking that Powers Partner Channel Insights
- - [https://game.prf.hn](https://game.prf.hn)
- - date_published: 2022-03-01T00:00:00+00:00
-
- ## Partnerize | Flexible Tracking that Powers Partner Channel Insights
- - [https://linkfire.prf.hn](https://linkfire.prf.hn)
- - date_published: 2022-03-01T00:00:00+00:00
-
- ## Partnerize | Flexible Tracking that Powers Partner Channel Insights
- - [https://stubhub.prf.hn](https://stubhub.prf.hn)
- - date_published: 2022-03-01T00:00:00+00:00
-
- ## Partnerize | Flexible Tracking that Powers Partner Channel Insights
- - [https://viagogo.prf.hn](https://viagogo.prf.hn)
- - date_published: 2022-03-01T00:00:00+00:00
-
- ## Resonance – The tech intelligence engine of the Future
- - [https://resonance.holdings](https://resonance.holdings)
- - date_published: 2024-04-28T13:01:51.981356+00:00
-
- ## Honda Motor Co.,Ltd.｜Honda Global Corporate Website
- - [https://global.honda](https://global.honda)
- - date_published: 2023-11-04T02:27:34.117726+00:00
-
- ## Horse Browser - The Browser for Research - Horse Browser
- - [https://browser.horse](https://browser.horse)
- - date_published: 2024-05-06T23:34:24.869610+00:00
-
- ## hooooooooooooooooooooooooooooooooooooooooooooooooooooooooorse
- - [https://endless.horse](https://endless.horse)
- - date_published: 2024-01-09T03:31:49.202260+00:00
-
- ## Icon Horse
- - [https://icon.horse](https://icon.horse)
- - date_published: 2024-06-11T23:18:56.174488+00:00
-
- ## Donald Trump Text to Speech and Voice — Trumped
- - [http://jungle.horse](http://jungle.horse)
- - date_published: 2024-05-29T20:57:38.288095+00:00
- - tags: ['deep fake']
-
- ## https://lyra.horse
- - [https://lyra.horse](https://lyra.horse)
- - date_published: 2024-01-06T10:04:23.683116+00:00
-
- ## the uncolouring book
- - [https://lines.potato.horse](https://lines.potato.horse)
- - date_published: 2023-10-25T19:28:03.445035+00:00
-
- ## Important Meeting Notes
- - [https://potato.horse](https://potato.horse)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Sit
- - [https://sit.potato.horse](https://sit.potato.horse)
- - date_published: 2024-05-09T08:31:18.230587+00:00
-
- ## The (Medieval) Times
- - [https://tidings.potato.horse](https://tidings.potato.horse)
+ ## UC Davis Office of Research - Davis, California - University
+ - [https://research.ucdavis.edu](https://research.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:57.360595+00:00
+
+ ## Learning & Organizational Development
+ - [http://sdps.ucdavis.edu](http://sdps.ucdavis.edu)
+ - date_published: 2022-09-27T20:45:36+00:00
+
+ ## Student Health and Counseling Services
+ - [https://shcs.ucdavis.edu](https://shcs.ucdavis.edu)
  - date_published: 2024-05-27T00:00:00+00:00
 
- ## Sheep.Horse - The Blog of Andrew Stephens
- - [https://sheep.horse](https://sheep.horse)
- - date_published: 2023-10-25T19:28:04.559800+00:00
-
- ## Birds.host | Affordable VPS Hosting
- - [http://birds.host](http://birds.host)
- - date_published: 2024-05-12T07:55:31.496647+00:00
-
- ## BlackHOST -  The Web is what we make of it!
- - [https://black.host](https://black.host)
- - date_published: 2024-05-31T10:09:14.983744+00:00
-
- ## SAS Information Technology Office
- - [https://siteresources-rutgers.cloudaccess.host](https://siteresources-rutgers.cloudaccess.host)
- - date_published: 2024-05-07T20:09:41.253607+00:00
-
- ## APILayer | Hassle-free API marketplace
- - [https://api.exchangerate.host](https://api.exchangerate.host)
- - date_published: 2024-05-07T10:41:16.062139+00:00
-
- ## Exchangerate API - Free, Reliable Historical Exchange Rate API
- - [https://exchangerate.host](https://exchangerate.host)
- - date_published: 2024-05-09T07:44:29.987309+00:00
-
- ## Gnet is the fastest networking framework in Go
- - [https://gnet.host](https://gnet.host)
- - date_published: 2024-03-14T19:14:12+00:00
-
- ## Holo | Cloud Hosting Market Powered by Holochain
- - [https://holo.host](https://holo.host)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## iActivate: Apple MDM Bypass Software
- - [https://iactivate.host](https://iactivate.host)
- - date_published: 2024-05-11T09:31:58.203532+00:00
-
- ## Journa.host
- - [https://journa.host](https://journa.host)
- - date_published: 2024-05-06T16:26:12.086963+00:00
-
- ## lcl.host
- - [https://lcl.host](https://lcl.host)
- - date_published: 2024-04-29T07:19:26.441160+00:00
-
- ## LottieFiles - free animation files built for Lottie
- - [https://lottie.host](https://lottie.host)
- - date_published: 2024-05-06T14:27:31.418658+00:00
-
- ## Mastodon
- - [https://data-folks.masto.host](https://data-folks.masto.host)
- - date_published: 2024-05-04T15:11:21.358366+00:00
-
- ## Masto.host - Fully Managed Mastodon Hosting
- - [https://masto.host](https://masto.host)
- - date_published: 2024-05-07T15:29:31.569008+00:00
-
- ## Mastodon
- - [https://paquita.masto.host](https://paquita.masto.host)
- - date_published: 2024-05-14T03:20:30.771427+00:00
-
- ## Mastodon
- - [https://religion.masto.host](https://religion.masto.host)
- - date_published: 2024-05-15T20:53:39.237576+00:00
-
- ## Masto.host - Status
- - [https://status.masto.host](https://status.masto.host)
- - date_published: 2024-05-10T04:31:36.947300+00:00
-
- ## Sign in - Matomo
- - [https://analytics.medlab.host](https://analytics.medlab.host)
- - date_published: 2024-04-28T01:52:18.518311+00:00
-
- ## Hosting, Cloud, Domeinnamen | mijn.host 🥇
- - [https://mijn.host](https://mijn.host)
- - date_published: 2024-05-12T04:46:27.639950+00:00
-
- ## Financial Services - Just another Oxygen Design Sets site
- - [https://financial.oxy.host](https://financial.oxy.host)
- - date_published: 2023-12-11T18:58:45.988317+00:00
-
- ## Hyperion - Just another Oxygen Design Sets site
- - [https://hyperion.oxy.host](https://hyperion.oxy.host)
- - date_published: 2024-05-10T07:00:18.755512+00:00
-
- ## Random Bits
- - [https://blog.randombits.host](https://blog.randombits.host)
- - date_published: 2023-10-25T19:28:05.304724+00:00
-
- ## Publish sheet music: Sheethost
- - [https://sheet.host](https://sheet.host)
- - date_published: 2024-05-08T04:50:16.198983+00:00
-
- ## We champion the writer in every child - Ministry of Stories
- - [https://ministry-of-stories.tempurl.host](https://ministry-of-stories.tempurl.host)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Virtual Systems LLC - Web Hosting Service Provider | Reliable Hosting Company ★ VSYS Host
- - [https://vsys.host](https://vsys.host)
- - date_published: 2024-05-17T02:56:25.155660+00:00
-
- ## If Americans Knew presents - Israel Palestine News
- - [https://iakn.wpmudev.host](https://iakn.wpmudev.host)
- - date_published: 2023-10-26T00:00:00+00:00
-
- ## Allium House
- - [https://allium.house](https://allium.house)
- - date_published: 2024-03-01T10:14:49.687453+00:00
- - tags: ['personal']
-
- ## covid.house
- - [https://covid.house](https://covid.house)
- - date_published: 2024-05-10T06:28:13.030997+00:00
- - tags: ['blog', 'personal']
-
- ## Goop House
- - [https://goop.house](https://goop.house)
- - date_published: 2024-05-08T02:29:05.752377+00:00
-
- ## The Nostrich.House - Get your Nostr address NIP-05
- - [https://nostrich.house](https://nostrich.house)
- - date_published: 2024-06-15T22:33:50.138579+00:00
-
- ## Packhouse Git
- - [https://git.pack.house](https://git.pack.house)
- - date_published: 2024-05-17T21:10:31.609518+00:00
-
- ## Runhouse | Programmable Remote Compute and Data
- - [https://www.run.house](https://www.run.house)
- - date_published: 2023-10-25T19:28:07.838403+00:00
-
- ## skip’s house
- - [https://skip.house](https://skip.house)
- - date_published: 2024-03-11T00:00:00+00:00
-
- - [https://abby.how](https://abby.how)
- - date_published: 2024-01-09T03:31:50.062520+00:00
-
- ## Is It Toxic To? | Check if a plant is toxic to an animal
- - [https://iitt.chester.how](https://iitt.chester.how)
- - date_published: 2024-01-09T03:31:51.181707+00:00
-
- ## Teach the world .how
- - [https://www.get.how](https://www.get.how)
- - date_published: 2024-05-10T05:47:13.815973+00:00
-
- ## Hollow (Netflix OSS)
- - [http://hollow.how](http://hollow.how)
- - date_published: 2024-05-04T15:19:21.492925+00:00
-
- ## Decentralized publishing for the web
- - [https://nostr.how](https://nostr.how)
- - date_published: 2024-06-15T22:32:25.057659+00:00
-
- ## Decentralized publishing for the web
- - [https://www.nostr.how](https://www.nostr.how)
- - date_published: 2023-10-25T19:28:09.438206+00:00
-
- ## REMOTE.HOW | Gabriele Proni | Substack
- - [https://remote.how](https://remote.how)
- - date_published: 2024-05-04T12:04:10.866696+00:00
-
- ## this.how index
- - [https://this.how](https://this.how)
- - date_published: 2023-10-25T19:28:11.834590+00:00
-
- ## SPARTOO | Obuća, odjeća i torbe | Besplatna dostava *.
- - [https://www.spartoo.com.hr](https://www.spartoo.com.hr)
- - date_published: 2024-06-12T11:12:55.752645+00:00
-
- ## Visa, lider u digitalnim plaćanjima
- - [https://www.visa.com.hr](https://www.visa.com.hr)
- - date_published: 2024-05-12T04:00:07.013711+00:00
-
- ## AAI@EduHr | Autentikacijska i autorizacijska infrastruktura sustava znanosti i visokog obrazovanja u Republici Hrvatskoj
- - [https://www.aaiedu.hr](https://www.aaiedu.hr)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Addiko Bank Hrvatska
- - [https://www.addiko.hr](https://www.addiko.hr)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Autobus ili dijeljenje prijevoza? Putuj povoljno. | BlaBlaCar
- - [https://www.blablacar.hr](https://www.blablacar.hr)
- - date_published: 2024-06-15T01:01:05.619599+00:00
-
- ## Come work with us.
- - [https://akuity.breezy.hr](https://akuity.breezy.hr)
- - date_published: 2024-04-28T02:36:32.229438+00:00
-
- ## Breezy HR CDN
- - [https://assets-cdn.breezy.hr](https://assets-cdn.breezy.hr)
- - date_published: 2024-05-11T09:33:26.321515+00:00
-
- ## Modern Hiring Software & Applicant Tracking System | Breezy HR
- - [https://breezy.hr](https://breezy.hr)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## %DOC_TITLE%Ivy
- - [https://deep-ivy-ltd.breezy.hr](https://deep-ivy-ltd.breezy.hr)
- - date_published: 2023-10-25T19:28:13.386126+00:00
-
- ## Breezy HR CDN
- - [https://gallery-cdn.breezy.hr](https://gallery-cdn.breezy.hr)
- - date_published: 2024-05-11T09:33:26.785897+00:00
-
- ## Grow With Us
- - [https://givecampus.breezy.hr](https://givecampus.breezy.hr)
- - date_published: 2024-02-08T18:15:48.045927+00:00
-
- ## %DOC_TITLE%HiOperator
- - [https://hioperator.breezy.hr](https://hioperator.breezy.hr)
- - date_published: 2023-10-25T19:28:14.989325+00:00
-
- ## %DOC_TITLE%Manara
- - [https://manara.breezy.hr](https://manara.breezy.hr)
- - date_published: 2023-10-25T19:28:16.673859+00:00
-
- ## %DOC_TITLE%Optery
- - [https://optery.breezy.hr](https://optery.breezy.hr)
- - date_published: 2023-10-25T19:28:18.453398+00:00
-
- ## Uredski uređaji | poslovna rješenja | Brother
- - [https://www.brother.hr](https://www.brother.hr)
- - date_published: 2024-05-02T11:29:54.034222+00:00
-
- ## Burin
- - [https://burin.hr](https://burin.hr)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Osobna vozila | Gospodarska vozila | Citroën
- - [https://citroen.hr](https://citroen.hr)
- - date_published: 2024-05-10T04:40:44.325484+00:00
-
- ## Proizvođačko održavanje - Citroen
- - [https://servisonline.citroen.hr](https://servisonline.citroen.hr)
- - date_published: 2024-05-10T04:40:41.081107+00:00
-
- ## Osobna vozila | Gospodarska vozila | Citroën
- - [https://www.citroen.hr](https://www.citroen.hr)
- - date_published: 2023-12-11T16:02:20.579873+00:00
-
- ## MREŽA CITROËN PRODAJNIH MJESTA U HRVATSKOJ
- - [https://www.citroenmreza.hr](https://www.citroenmreza.hr)
- - date_published: 2024-05-10T04:40:39.795223+00:00
-
- ## HRVATSKA BURZA ELEKTRIČNE ENERGIJE - HRVATSKA BURZA ELEKTRIČNE ENERGIJE d.o.o. - cropex.hr
- - [https://www.cropex.hr](https://www.cropex.hr)
- - date_published: 2024-05-20T02:45:46.348791+00:00
-
- ## Decathlon | Sportska obuća, sportska odjeća i sportska oprema
- - [https://www.decathlon.hr](https://www.decathlon.hr)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## DIRECT DESIGN, obrt za web i grafički dizajn i usluge
- - [https://directdesign.hr](https://directdesign.hr)
- - date_published: 2024-05-04T07:26:42.970278+00:00
-
- ## Status overview
- - [https://downdetector.hr](https://downdetector.hr)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Home - Hotels in Croatia
- - [https://ehotel.hr](https://ehotel.hr)
- - date_published: 2024-05-01T07:57:07.700900+00:00
-
- ## eKupi.hr - Vaša Internet trgovina | Vaša internet trgovina | Početna
- - [https://www.ekupi.hr](https://www.ekupi.hr)
- - date_published: 2024-06-15T03:28:05.891308+00:00
-
- ## Građanstvo
- - [https://www.erstebank.hr](https://www.erstebank.hr)
- - date_published: 2024-05-01T06:31:46.979544+00:00
-
- ## Frigo Plus – Smart and Natural Cooling
- - [https://www.frigo-plus.hr](https://www.frigo-plus.hr)
- - date_published: 2024-05-07T10:04:59.445109+00:00
-
- ## Gong
- - [https://gong.hr](https://gong.hr)
- - date_published: 2022-08-31T10:30:48+00:00
-
- ## Hosting Platforma Stvorena Za Vas - Krenite Online Uz Hostinger
- - [https://www.hostinger.hr](https://www.hostinger.hr)
- - date_published: 2024-05-11T07:50:07.167981+00:00
-
- ## Emisije na zahtjev - HRT
- - [https://enz.hrt.hr](https://enz.hrt.hr)
- - date_published: 2024-02-22T21:01:22.502514+00:00
-
- ## Hrvatski radio - HRT
- - [https://radio.hrt.hr](https://radio.hrt.hr)
- - date_published: 2024-01-04T14:59:28.124402+00:00
-
- ## Svijet igara i gaming industrije - Igre.hr
- - [https://igre.hr](https://igre.hr)
- - date_published: 2024-05-01T07:57:04.781917+00:00
-
- ## Hrvatski web hosting, Managed VPS, Reseller | InfoNET hosting
- - [http://www.infonet.hr](http://www.infonet.hr)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Links.hr: Informatika i oprema, Sport, Dronovi i Roboti, Bijela tehnika i Kućanski aparati
- - [https://www.links.hr](https://www.links.hr)
- - date_published: 2024-06-15T03:28:58.346108+00:00
-
- ## Medijska pismenost
- - [http://www.medijskapismenost.hr](http://www.medijskapismenost.hr)
- - date_published: 2024-05-07T23:39:27.889198+00:00
-
- ## DHMZ - Državni hidrometeorološki zavod
- - [https://meteo.hr](https://meteo.hr)
- - date_published: 2024-04-28T02:23:30.028934+00:00
-
- ## Klub Mama / Multimedijalni Institut
- - [http://mi2.hr](http://mi2.hr)
- - date_published: 2024-05-10T06:54:57.767937+00:00
-
- ## TV Program - MojTV.hr - Najopširniji tjedni TV raspored za 180+ kanala
- - [https://mojtv.hr](https://mojtv.hr)
- - date_published: 2024-04-29T05:01:48.294999+00:00
-
- ## Možemo!
- - [http://www.mozemo.hr](http://www.mozemo.hr)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Početna
- - [https://n1info.hr](https://n1info.hr)
- - date_published: 2023-11-07T20:56:46.124743+00:00
-
- ## Naslovnica
- - [https://www.nacional.hr](https://www.nacional.hr)
- - date_published: 2024-05-24T19:42:42+00:00
-
- ## NAIS - Niko Airport Information System
- - [https://niko.hr](https://niko.hr)
- - date_published: 2024-05-12T05:11:42.470770+00:00
-
- ## Orbis.hr
- - [https://orbis.hr](https://orbis.hr)
- - date_published: 2024-05-07T23:46:50.940243+00:00
-
- ## OTP banka d.d.
- - [https://www.otpbanka.hr](https://www.otpbanka.hr)
- - date_published: 2024-06-14T21:07:55+00:00
-
- ## Podravska banka
- - [https://www.poba.hr](https://www.poba.hr)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Sancta Domenica Webshop | Top Brandovi na jednom mjestu‎
- - [https://www.sancta-domenica.hr](https://www.sancta-domenica.hr)
- - date_published: 2024-06-15T03:28:40.509288+00:00
-
- ## Zeitz Museum of Contemporary Art Africa
- - [https://zeitzmocaa.simplify.hr](https://zeitzmocaa.simplify.hr)
- - date_published: 2024-05-30T03:22:10.614776+00:00
-
- ## Siva Zona | Home
- - [http://sivazona.hr](http://sivazona.hr)
- - date_published: 2024-05-07T15:43:53.720159+00:00
-
- ## Najam vozila - SIXT rent a car
- - [https://www.sixt.hr](https://www.sixt.hr)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Početna
-     - SmartAccount
- - [https://smartaccount.hr](https://smartaccount.hr)
- - date_published: 2024-04-29T07:18:58.686026+00:00
-
- ## SophosLab - Site
- - [http://www.sophoslab.hr](http://www.sophoslab.hr)
- - date_published: 2024-06-15T03:33:58.507989+00:00
-
- ## Svijet-medija.hr: Premium tehnika - televizori, mobiteli, laptopi, pametni satovi, gaming, kućanski aparati; najveći izbor, najnoviji modeli i akcijske cijene
- - [https://www.svijet-medija.hr](https://www.svijet-medija.hr)
- - date_published: 2024-06-15T03:29:54+00:00
-
- ## Naslovnica - Udruga Tata i pol
- - [http://www.tataipol.hr](http://www.tataipol.hr)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Vrijeme & Radar Hrvatska
- - [https://www.vrijemeradar.hr](https://www.vrijemeradar.hr)
- - date_published: 2024-05-07T13:25:15.379733+00:00
-
- ## whw / what, how & for whom
- - [https://www.whw.hr](https://www.whw.hr)
- - date_published: 2024-05-08T10:29:30.361649+00:00
-
- ## Zagrebačka banka d.d.
- - [https://www.zaba.hr](https://www.zaba.hr)
- - date_published: 2024-05-01T06:13:45.232710+00:00
-
- ## Zagreb je NAŠ!
- - [http://zagrebjenas.hr](http://zagrebjenas.hr)
- - date_published: 2024-05-10T06:55:10.725640+00:00
-
- ## Zelda gaming shop
- - [http://www.zelda.hr](http://www.zelda.hr)
- - date_published: 2024-06-15T03:32:23.187816+00:00
-
- ## Making software better without sacrificing user experience.
- - [https://bt.ht](https://bt.ht)
- - date_published: 2023-10-25T19:28:21.149097+00:00
-
- ## Shinobi Website | A text-based, RSS focused blogging "system"
- - [https://shinobi.bt.ht](https://shinobi.bt.ht)
- - date_published: 2023-10-25T19:28:22.061141+00:00
-
- ## Charlie Hothersall-Thomas
- - [https://charlie.ht](https://charlie.ht)
- - date_published: 2024-05-02T11:57:31.974511+00:00
-
- ## GitHoot: blogging as simple as creating a GitHub gist
- - [https://git.ht](https://git.ht)
- - date_published: 2023-10-25T19:28:22.898103+00:00
-
- ## Insight Timer - #1 Free Meditation App for Sleep, Relax & More
- - [https://insig.ht](https://insig.ht)
- - date_published: 2024-05-04T14:47:12.473067+00:00
-
- ## linkhut
- - [https://ln.ht](https://ln.ht)
- - date_published: 2024-01-10T05:07:53.720715+00:00
-
- ## Generative Voice AI News and Research by PlayHT
- - [https://news.play.ht](https://news.play.ht)
- - date_published: 2023-10-25T19:28:24.482195+00:00
-
- ## AI Voice Generator: Realistic Text to Speech and AI Voiceover
- - [https://play.ht](https://play.ht)
- - date_published: 2024-04-29T03:26:30.700039+00:00
-
- ## The world's open source leader
- - [https://red.ht](https://red.ht)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## builds.sr.ht
- - [https://builds.sr.ht](https://builds.sr.ht)
- - date_published: 2024-05-14T03:32:04.416670+00:00
-
- ## git.sr.ht
- - [https://git.sr.ht](https://git.sr.ht)
- - date_published: 2023-12-31T14:27:47.547611+00:00
-
- ## lists.sr.ht
- - [https://lists.sr.ht](https://lists.sr.ht)
- - date_published: 2023-10-25T19:28:25.248561+00:00
-
- ## sourcehut docs - man.sr.ht
- - [https://man.sr.ht](https://man.sr.ht)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## meta.sr.ht
- - [https://meta.sr.ht](https://meta.sr.ht)
- - date_published: 2024-04-28T03:22:45.307013+00:00
-
- ## Statement regarding the ongoing SourceHut outage
- - [https://outage.sr.ht](https://outage.sr.ht)
- - date_published: 2024-01-12T10:26:28.064983+00:00
-
- ## paste.sr.ht
- - [https://paste.sr.ht](https://paste.sr.ht)
- - date_published: 2024-04-28T06:12:10.734339+00:00
-
- ## sourcehut hub
- - [https://sr.ht](https://sr.ht)
- - date_published: 2023-10-25T19:28:26.035376+00:00
-
- ## todo.sr.ht
- - [https://todo.sr.ht](https://todo.sr.ht)
- - date_published: 2024-05-14T03:32:00.923815+00:00
-
- ## about me
- - [https://thelig.ht](https://thelig.ht)
- - date_published: 2023-10-25T09:21:57.537936+00:00
- - tags: ['personal']
-
- ## Ultralight - Display Web Content Everywhere
- - [https://ultralig.ht](https://ultralig.ht)
- - date_published: 2024-04-28T05:58:49.971085+00:00
-
- ## Decathlon webáruház - 75 sport egy helyen
- - [http://www.decathlon.co.hu](http://www.decathlon.co.hu)
- - date_published: 2024-06-15T20:09:42.394640+00:00
-
- ## EF Education First | Magyarország
- - [https://www.ef.co.hu](https://www.ef.co.hu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## 20Y
- - [https://20y.hu](https://20y.hu)
- - date_published: 2024-02-22T13:05:20.229433+00:00
-
- ## PlayIT Store - Videójáték webáruház
- - [https://576kb.hu](https://576kb.hu)
- - date_published: 2024-06-15T03:29:48+00:00
-
- ## Adózóna - Adó, könyvelés, társadalombiztosítás, munkajog és cégjog egy helyen - jogszabályok, törvénymagyarázatok, kérdések és válaszok, kalkulátorok
- - [https://adozona.hu](https://adozona.hu)
- - date_published: 2024-05-13T03:08:40.744715+00:00
-
- ## Home
- - [https://advancedweb.hu](https://advancedweb.hu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Airbnb | Nyaralók, víkendházak, strandközeli házak és egyebek
- - [https://www.airbnb.hu](https://www.airbnb.hu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Akadémiai Kiadó
- - [http://akademiai.hu](http://akademiai.hu)
- - date_published: 2024-05-09T06:32:24.559810+00:00
-
- ## Redirecting...
- - [https://web.akademiai.hu](https://web.akademiai.hu)
- - date_published: 2024-05-09T06:32:19.593235+00:00
-
- ## amigaspirit.hu
- - [http://www.amigaspirit.hu](http://www.amigaspirit.hu)
- - date_published: 2023-12-11T18:55:28.039900+00:00
- - tags: ['amiga']
-
- ## Maintenance
- - [http://www.asvanytan.hu](http://www.asvanytan.hu)
- - date_published: 2024-05-09T08:42:48.334738+00:00
-
- ## ATLAS FOR MEN - A kültéri ruházat és kiegészítők szakértője
- - [https://www.atlasformen.hu](https://www.atlasformen.hu)
- - date_published: 2024-05-29T10:08:22.409083+00:00
-
- ## Webtárhely, VPS, Domain, Szerver hosting • ATW.hu
- - [https://atw.hu](https://atw.hu)
- - date_published: 2024-06-06T11:48:04.723578+00:00
- - tags: ['vps', 'server hosting']
-
- ## Auchan Online
- - [https://www.auchan.hu](https://www.auchan.hu)
- - date_published: 2024-06-15T03:33:53.605185+00:00
-
- ## Ismerje meg az autoDNA szolgáltatást
- - [https://www.autodna.hu](https://www.autodna.hu)
- - date_published: 2024-05-11T08:19:39.420356+00:00
-
- ## Balaton Piknik 2024
- - [https://balatonpiknik.hu](https://balatonpiknik.hu)
- - date_published: 2024-05-08T00:39:49.216287+00:00
-
- ## BAMA - Baranya vármegyei hírportál
- - [http://bama.hu](http://bama.hu)
- - date_published: 2024-06-01T05:14:17.650923+00:00
-
- ## Bankmonitor
- - [https://bankmonitor.hu](https://bankmonitor.hu)
- - date_published: 2024-05-13T03:09:52.565726+00:00
-
- ## https://www.benyovszky.hu
- - [https://www.benyovszky.hu](https://www.benyovszky.hu)
- - date_published: 2024-02-08T17:57:51.449601+00:00
-
- ## Busz- és telekocsiutak kedvező áron.  | BlaBlaCar
- - [https://www.blablacar.hu](https://www.blablacar.hu)
- - date_published: 2024-06-15T01:01:08.740947+00:00
-
- ## Blog.hu - nyitó
- - [https://blog.hu](https://blog.hu)
- - date_published: 2024-06-01T05:14:23.057975+00:00
-
- ## Blog.hu - nyitó
- - [https://m.blog.hu](https://m.blog.hu)
- - date_published: 2024-06-01T05:14:12.360154+00:00
-
- ## Mindennapi kockaságok
- - [http://napigeek.blog.hu](http://napigeek.blog.hu)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Numlock Holmes
- - [https://numlockholmes.blog.hu](https://numlockholmes.blog.hu)
- - date_published: 2024-02-03T00:00:00+00:00
- - tags: ['personal']
-
- ## Simonyi Konferencia - 2024. 03. 19.
- - [http://konferencia.simonyi.bme.hu](http://konferencia.simonyi.bme.hu)
- - date_published: 2024-06-01T05:14:21.381074+00:00
-
- ## zero.eik.bme.hu
- - [http://zero.eik.bme.hu](http://zero.eik.bme.hu)
- - date_published: 2024-05-02T09:36:45.392459+00:00
-
- ## Irodai nyomtatók | Üzleti megoldások | Brother
- - [https://www.brother.hu](https://www.brother.hu)
- - date_published: 2024-05-02T11:25:39.811952+00:00
-
- ## Budapest Data+ML Fórum 2024 - Budapest ML Forum 2024
- - [https://budapestml.hu](https://budapestml.hu)
- - date_published: 2024-02-05T12:39:43+00:00
-
- ## C3 - Center for Culture & Communication Foundation
- - [http://www.c3.hu](http://www.c3.hu)
- - date_published: 2024-05-07T23:39:59.191614+00:00
-
- ## Új autók | Személygépkocsik és haszongépjárművek | Szerviz | Citroën
- - [https://citroen.hu](https://citroen.hu)
- - date_published: 2024-05-10T04:41:21.624024+00:00
-
- ## Hasznaltauto
- - [https://hasznaltauto.citroen.hu](https://hasznaltauto.citroen.hu)
- - date_published: 2024-05-10T04:41:15.874572+00:00
-
- ## Gyakori kérdések (GYIK)
- - [https://kapcsolat.citroen.hu](https://kapcsolat.citroen.hu)
- - date_published: 2024-05-10T04:41:16.728979+00:00
-
- ## Citroën Magyarország | Citroën készletautók
- - [https://keszletauto.citroen.hu](https://keszletauto.citroen.hu)
- - date_published: 2024-05-10T04:41:17.938589+00:00
-
- ## Karbantartás a gyártó szakértelmével! - Citroen
- - [https://szerviz-bejelentkezes.citroen.hu](https://szerviz-bejelentkezes.citroen.hu)
- - date_published: 2024-05-10T04:41:18.758727+00:00
-
- ## Új autók | Személygépkocsik és haszongépjárművek | Szerviz | Citroën
- - [https://www.citroen.hu](https://www.citroen.hu)
- - date_published: 2023-12-11T16:02:04.779070+00:00
-
- ## Citroën Zöldváltó
- - [https://zoldvalto.citroen.hu](https://zoldvalto.citroen.hu)
- - date_published: 2024-05-10T04:41:22.720018+00:00
-
- ## conspiracy | beyond.expectations
- - [https://conspiracy.hu](https://conspiracy.hu)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Ingyenes online játékok a CrazyGames oldalon | Játssz most!
- - [https://www.crazygames.hu](https://www.crazygames.hu)
- - date_published: 2024-05-08T06:51:50.717807+00:00
-
- ## Készítsen Nyertes Önéletrajzot - (Ingyenes) Önéletrajz készítés
- - [https://cvapp.hu](https://cvapp.hu)
- - date_published: 2024-05-06T09:21:16.300195+00:00
-
- ## Random thoughts of Peter 'CzP' Czanik
- - [https://peter.czanik.hu](https://peter.czanik.hu)
- - date_published: 2023-10-25T19:28:27.255307+00:00
-
- ## Decathlon webáruház - 75 sport egy helyen
- - [https://www.decathlon.hu](https://www.decathlon.hu)
- - date_published: 2024-06-15T20:23:18.251462+00:00
-
- ## Demetrovics Zsolt
- - [http://demetrovics.hu](http://demetrovics.hu)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## DigiKey Home
- - [https://www.digikey.hu](https://www.digikey.hu)
- - date_published: 2024-05-01T05:04:29.183562+00:00
-
- ## Disney Magyarország | A Disney hivatalos weboldala
- - [https://www.disney.hu](https://www.disney.hu)
- - date_published: 2024-05-01T05:25:32.789924+00:00
-
- ## Állapot áttekintése
- - [https://downdetector.hu](https://downdetector.hu)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Extreme Digital Kapcsolat | eMAG Help
- - [https://edigital.hu](https://edigital.hu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## eduline.hu
- - [https://eduline.hu](https://eduline.hu)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Page Redirection
- - [http://atomcsill.elte.hu](http://atomcsill.elte.hu)
- - date_published: 2024-06-01T05:13:47.471798+00:00
-
- ## BIÖP -- ELTE BTK Bölcsészettudományi Informatika Önálló Program
- - [http://magyar-irodalom.elte.hu](http://magyar-irodalom.elte.hu)
- - date_published: 2024-06-01T05:14:59.284893+00:00
-
- ## www.cs.elte.hu - Matematikai Intézet
- - [https://web.cs.elte.hu](https://web.cs.elte.hu)
- - date_published: 2024-05-07T15:02:18.846648+00:00
-
- ## Page Redirection
- - [http://www.atomcsill.elte.hu](http://www.atomcsill.elte.hu)
- - date_published: 2024-06-01T05:13:45.737711+00:00
-
- ## https://www.facebook.com/eotvoskiado
- - [http://www.eotvoskiado.hu](http://www.eotvoskiado.hu)
- - date_published: 2023-11-10T00:00:00+00:00
-
- ## Euronics Műszaki Webáruház
- - [https://euronics.hu](https://euronics.hu)
- - date_published: 2024-06-15T03:30:16.697675+00:00
-
- ## Sporthírek, élő közvetítések és eredmények - Eurosport
- - [https://www.eurosport.hu](https://www.eurosport.hu)
- - date_published: 2024-05-10T05:28:12.783060+00:00
-
- ## frank zhu
- - [https://frankz.hu](https://frankz.hu)
- - date_published: 2023-01-01T00:00:00+00:00
-
- ## Glamour
- - [https://www.glamour.hu](https://www.glamour.hu)
- - date_published: 2020-10-21T12:24:00+00:00
-
- ## Golem keyboard project
- - [https://golem.hu](https://golem.hu)
- - date_published: 2024-05-09T08:40:07.753190+00:00
-
- ## Google Scholar
- - [https://scholar.google.hu](https://scholar.google.hu)
- - date_published: 2024-05-14T03:32:06.871566+00:00
-
- ## Főoldal - Helló Magyar
- - [https://hellomagyar.hu](https://hellomagyar.hu)
- - date_published: 2024-05-01T03:32:05.762391+00:00
-
- ## Horváth Loránd oldala!
- - [http://hlorand.hu](http://hlorand.hu)
- - date_published: 2024-06-01T05:14:19.517591+00:00
- - tags: ['personal']
-
- ## Neked készített tárhely platform - online jelenlét a Hostingerrel
- - [https://www.hostinger.hu](https://www.hostinger.hu)
- - date_published: 2024-05-11T07:51:03.171250+00:00
-
- ## A mű
- - [https://amu.hvg.hu](https://amu.hvg.hu)
- - date_published: 2024-05-13T03:09:50.622785+00:00
-
- ## HVG kiadványok, magazinok, különszámok
-	     -  bolt.hvg.hu
- - [https://bolt.hvg.hu](https://bolt.hvg.hu)
- - date_published: 2024-05-13T03:08:55.530787+00:00
-
- ## cdn.hvg.hu
- - [https://cdn.hvg.hu](https://cdn.hvg.hu)
- - date_published: 2024-05-13T03:08:46.627266+00:00
-
- ## Megrendelés
- - [https://elofizetes.hvg.hu](https://elofizetes.hvg.hu)
- - date_published: 2024-05-13T03:10:00.540385+00:00
-
- ## HVG.hu
- - [https://hvg.hu](https://hvg.hu)
- - date_published: 2024-04-07T00:00:00+00:00
-
- ## Welcome to nginx on Debian!
- - [https://images.hvg.hu](https://images.hvg.hu)
- - date_published: 2024-05-13T03:09:37.247065+00:00
-
- ## Hírek | hvg.hu
- - [https://m.hvg.hu](https://m.hvg.hu)
- - date_published: 2024-05-13T03:09:32.049807+00:00
-
- ## HVG Pártoló Tagság
- - [https://tagsag.hvg.hu](https://tagsag.hvg.hu)
- - date_published: 2024-05-13T03:10:08.213345+00:00
-
- ## B1 BLOGCSALÁD – Őszintén a politikáról, hogy a fal adja a másikat
- - [https://b1.hvgblog.hu](https://b1.hvgblog.hu)
- - date_published: 2024-05-13T03:10:09.748727+00:00
-
- ## ENERGIABOX – Az Energiaklub hivatalos blogja
- - [https://energiabox.hvgblog.hu](https://energiabox.hvgblog.hu)
- - date_published: 2024-05-13T03:09:43.361706+00:00
-
- ## Nyomor széle – A leszakadók Magyarországon
- - [https://nyomorszele.hvgblog.hu](https://nyomorszele.hvgblog.hu)
- - date_published: 2024-05-13T03:08:49.878054+00:00
-
- ## HVG Könyvek Kiadó, az online könyvesbolt
- - [https://hvgkonyvek.hu](https://hvgkonyvek.hu)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## hvg-sales.github.io
- - [https://static.hvgrt.hu](https://static.hvgrt.hu)
- - date_published: 2024-05-13T03:09:13.691348+00:00
-
- ## Időjárás és Radar Magyarország
- - [https://www.idojarasesradar.hu](https://www.idojarasesradar.hu)
- - date_published: 2024-05-07T13:25:37.875377+00:00
-
- ## Indapass
- - [https://indapass.hu](https://indapass.hu)
- - date_published: 2024-06-01T05:14:51.618381+00:00
-
- ## Infostart
- - [https://infostart.hu](https://infostart.hu)
- - date_published: 2024-06-14T18:44:01.694031+00:00
-
- ## Iparigrafika
- - [https://iparigrafika.hu](https://iparigrafika.hu)
- - date_published: 2024-04-29T18:26:29.994756+00:00
-
- ## Home
- - [https://joshua.hu](https://joshua.hu)
- - date_published: 2023-10-25T08:59:04.037423+00:00
- - tags: ['personal']
-
- ## kibu.hu
- - [http://kibu.hu](http://kibu.hu)
- - date_published: 2024-05-08T03:51:23.638688+00:00
-
- ## Konecranes
- - [https://www.konecranes.hu](https://www.konecranes.hu)
- - date_published: 2024-05-04T09:59:26.881991+00:00
-
- ## Konzolvilág - Az ország legnagyobb videojáték üzlethálózata
- - [https://www.konzolvilag.hu](https://www.konzolvilag.hu)
- - date_published: 2024-06-15T03:28:48+00:00
-
- ## KÖVET Egyesület a Fenntartható Gazdaságért – Egy lépéssel közelebb a fenntarthatósághoz.
- - [https://kovet.hu](https://kovet.hu)
- - date_published: 2024-05-08T11:22:12.826528+00:00
-
- ## L. Ron Hubbard – A Dianetics és a Scientology Alapítója
- - [https://www.lronhubbard.hu](https://www.lronhubbard.hu)
- - date_published: 2024-06-06T19:38:53.615961+00:00
-
- ## Madách Színház
- - [https://madachszinhaz.hu](https://madachszinhaz.hu)
- - date_published: 2024-05-08T04:36:32.615768+00:00
-
- ## MaPeMa
- - [https://mapema.hu](https://mapema.hu)
- - date_published: 2024-05-09T08:58:45.755299+00:00
-
- ## Home | Márk Mihályi
- - [https://markmihalyi.hu](https://markmihalyi.hu)
- - date_published: 2024-05-11T10:05:50.139163+00:00
-
- ## met.hu - HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zrt.
- - [https://www.met.hu](https://www.met.hu)
- - date_published: 2024-04-28T00:23:18+00:00
-
- ## Milyen nap van
- - [http://www.milyennapvanma.hu](http://www.milyennapvanma.hu)
- - date_published: 2024-06-01T05:15:08.860782+00:00
- - tags: ['personal']
-
- ## mndl.hu
- - [https://www.mndl.hu](https://www.mndl.hu)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Főoldal - MoonShot
- - [https://www.moonshot.hu](https://www.moonshot.hu)
- - date_published: 2024-05-08T09:59:31.238322+00:00
-
- ## FFmpeg
- - [http://ffmpeg.mplayerhq.hu](http://ffmpeg.mplayerhq.hu)
- - date_published: 2024-05-08T10:17:16.729228+00:00
-
- ## RTMPDump
- - [http://rtmpdump.mplayerhq.hu](http://rtmpdump.mplayerhq.hu)
- - date_published: 2024-05-12T06:58:15.779788+00:00
-
- ## Entering MPlayer homepage
- - [http://www.mplayerhq.hu](http://www.mplayerhq.hu)
- - date_published: 2024-05-12T06:58:11.743785+00:00
- - tags: ['media player', 'video player']
-
- ## muszáj.hu | muszály.hu
- - [http://www.muszaly.hu](http://www.muszaly.hu)
- - date_published: 2024-06-01T05:14:37.669580+00:00
-
- ## https://nepszava.hu
- - [https://nepszava.hu](https://nepszava.hu)
- - date_published: 2023-12-18T10:02:11.561136+00:00
-
- ## PepeCyB's Welt
- - [https://pepecyb.hu](https://pepecyb.hu)
- - date_published: 2024-05-09T07:51:54.589265+00:00
-
- ## YunoHost Portal
- - [https://pericles.hu](https://pericles.hu)
- - date_published: 2024-05-09T08:23:35.119588+00:00
-
- ## Porsche Centrum Budapest
- - [http://www.porsche.hu](http://www.porsche.hu)
- - date_published: 2024-05-06T23:43:06.373487+00:00
-
- ## |related|Intelligent content recommendation and native advertising system
- - [https://related.hu](https://related.hu)
- - date_published: 2024-05-06T17:57:35.074332+00:00
-
- ## ROCK1 Ticket
- - [https://jegy.rock1.hu](https://jegy.rock1.hu)
- - date_published: 2024-05-20T06:33:14.548942+00:00
-
- ## A Szcientológia vallás – Háttér, teológia és vallási gyakorlat
- - [https://www.scientologyvallas.hu](https://www.scientologyvallas.hu)
- - date_published: 2024-06-06T19:41:15.595562+00:00
-
- ## Webtar.hu
- - [http://www.semmi.hu](http://www.semmi.hu)
- - date_published: 2024-06-01T05:14:24.287810+00:00
-
- ## Autókölcsönzés, autóbérlés, tartós bérlet | SIXT
- - [https://www.sixt.hu](https://www.sixt.hu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## SPARTOO | Cipők, táskák és ruhák | Ingyenes Kiszállítás
- - [https://www.spartoo.hu](https://www.spartoo.hu)
- - date_published: 2024-06-12T11:14:16.257377+00:00
-
- ## Sun Team Studio | Reklámajándékok stsreklamajandek.hu
- - [https://stsreklamajandek.hu](https://stsreklamajandek.hu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Stunts Forum - Index
- - [https://forum.stunts.hu](https://forum.stunts.hu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Superprof - Magántanárok közössége
- - [https://www.super-prof.hu](https://www.super-prof.hu)
- - date_published: 2024-06-15T01:27:33.807555+00:00
-
- ## Tibor Szász
- - [https://tibor.szasz.hu](https://tibor.szasz.hu)
- - date_published: 2024-04-12T18:03:41.267303+00:00
- - tags: ['personal']
-
- ## Home - Televele Médiapedagógiai Műhely Egyesület
- - [http://televele.hu](http://televele.hu)
- - date_published: 2024-05-07T23:43:58.046359+00:00
-
- ## telex
- - [https://telex.hu](https://telex.hu)
- - date_published: 2023-11-22T17:38:44.501720+00:00
-
- ## Total Commander ...a magyar oldal
- - [https://www.totalcommander.hu](https://www.totalcommander.hu)
- - date_published: 2023-09-01T00:00:00+00:00
-
- ## TV2 Play
- - [https://tv2play.hu](https://tv2play.hu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Gargaj
- - [http://gargaj.umlaut.hu](http://gargaj.umlaut.hu)
- - date_published: 2024-05-08T00:17:13.734985+00:00
-
- ## Matematikai Intézet
- - [http://math.unideb.hu](http://math.unideb.hu)
- - date_published: 2024-05-08T04:21:25.112334+00:00
-
- ## UNO-SOFT Kft.
- - [https://www.unosoft.hu](https://www.unosoft.hu)
- - date_published: 2024-05-14T04:00:26.534097+00:00
-
- ## internet állapot
- - [http://www.vanenet.hu](http://www.vanenet.hu)
- - date_published: 2024-06-01T05:13:56.971317+00:00
-
- ## Vasért Gastromodul Kft. Webáruház - vasert-gastro.hu
- - [http://vasert-gastro.hu](http://vasert-gastro.hu)
- - date_published: 2024-04-28T04:36:31.698778+00:00
-
- ## Vatera - az online piactér: Vásárlás, aukció, eladás
- - [http://elektronika.vatera.hu](http://elektronika.vatera.hu)
- - date_published: 2024-06-01T05:15:11.391336+00:00
-
- ## Vatera - az online piactér: Vásárlás, aukció, eladás
- - [http://www.vatera.hu](http://www.vatera.hu)
- - date_published: 2024-06-01T05:14:25.918600+00:00
-
- ## Visa. Megbízható partner a digitális fizetésben
- - [https://www.visa.hu](https://www.visa.hu)
- - date_published: 2024-05-12T03:58:36.536074+00:00
-
- ## Services
- - [https://voidcomputing.hu](https://voidcomputing.hu)
- - date_published: 2024-03-13T17:39:46.172552+00:00
-
- ## Document
- - [https://webdraft.hu](https://webdraft.hu)
- - date_published: 2024-06-05T23:12:32.799854+00:00
-
- ## Főoldal
- - [https://www.wwf.hu](https://www.wwf.hu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## KÉK
- - [http://kek.org.hu](http://kek.org.hu)
- - date_published: 2024-05-08T03:51:24.601851+00:00
-
- ## A Szcientológia Egyház hivatalos weboldala: L. Ron Hubbard, Dianetika, Mi a Szcientológia?, Könyvek, Hittételek, David Miscavige
- - [https://www.szcientologia.org.hu](https://www.szcientologia.org.hu)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## 海角
- - [https://cdqa3wlv.icu](https://cdqa3wlv.icu)
- - date_published: 2024-05-09T07:04:52.904722+00:00
-
- ## Chaf's Blog
- - [https://chaphlagical.icu](https://chaphlagical.icu)
- - date_published: 2023-03-03T00:00:00+00:00
-
- ## Hackstodon
- - [https://social.dino.icu](https://social.dino.icu)
- - date_published: 2024-05-04T09:13:01.148144+00:00
-
- ## goose.icu
- - [https://goose.icu](https://goose.icu)
- - date_published: 2023-10-27T20:10:59.917422+00:00
-
- ## Invidious
- - [https://invidious.lunar.icu](https://invidious.lunar.icu)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## SCIO - 知识革命
- - [https://scio.icu](https://scio.icu)
- - date_published: 2024-05-06T15:03:28.087094+00:00
-
- ## Snippets
- - [https://snippets.icu](https://snippets.icu)
- - date_published: 2024-03-17T14:52:53.279122+00:00
- - tags: ['personal']
-
- ## TheSauna
- - [https://the-sauna.icu](https://the-sauna.icu)
- - date_published: 2023-12-19T10:05:35.430811+00:00
- - tags: ['personal']
-
- ## Wayfarer - The MorphOS' WebKit Browser
- - [https://wayfarer.icu](https://wayfarer.icu)
- - date_published: 2023-12-11T17:41:50.652090+00:00
-
- ## Beranda -
- - [https://itb.ac.id](https://itb.ac.id)
- - date_published: 2024-05-04T15:27:49.048012+00:00
-
- ## Jurnal Ilmu Komputer dan Informasi
- - [https://jiki.cs.ui.ac.id](https://jiki.cs.ui.ac.id)
- - date_published: 2023-01-01T00:00:00+00:00
-
- ## UNIVERSITAS ISLAM MALANG – DARI NU UNTUK INDONESIA DAN PERADABAN DUNIA
- - [https://unisma.ac.id](https://unisma.ac.id)
- - date_published: 2024-05-04T07:00:56.313676+00:00
-
- ## UNTAG | Universitas 17 Agustus 1945 Samarinda
- - [http://www.untag-smd.ac.id](http://www.untag-smd.ac.id)
- - date_published: 2024-05-23T02:47:53.365968+00:00
-
- ## Airbnb | Sewa tempat liburan, kabin, rumah pantai, & lainnya
- - [https://www.airbnb.co.id](https://www.airbnb.co.id)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## BCA - Senantiasa di sisi Anda
- - [https://www.bca.co.id](https://www.bca.co.id)
- - date_published: 2024-05-01T06:05:15.448624+00:00
-
- ## Welcome to nginx!
- - [http://www.borobudurpark.co.id](http://www.borobudurpark.co.id)
- - date_published: 2024-05-04T08:26:40.000402+00:00
-
- ## PT. Catalyst Network Indonesia | Company Profile
- - [https://cni.catalyst.co.id](https://cni.catalyst.co.id)
- - date_published: 2024-05-07T09:45:10.230880+00:00
-
- ## PT. Catalyst Solusi Integrasi
- - [https://csi.catalyst.co.id](https://csi.catalyst.co.id)
- - date_published: 2024-05-07T09:45:08.679576+00:00
-
- ## Game Online Gratis di CrazyGames | Main Sekarang!
- - [https://www.crazygames.co.id](https://www.crazygames.co.id)
- - date_published: 2024-05-08T06:50:56.284476+00:00
-
- ## Aktivitas dan pelajaran olahraga - Komunitas Decathlon
- - [https://activities.decathlon.co.id](https://activities.decathlon.co.id)
- - date_published: 2024-06-15T20:07:30.666919+00:00
-
- ## Toko Peralatan Olahraga Terlengkap & Terbesar | Decathlon
- - [https://www.decathlon.co.id](https://www.decathlon.co.id)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Belajar Bahasa Inggris Cepat dengan English First
- - [https://www.ef.co.id](https://www.ef.co.id)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## PT Pratapa Nirmala | Fahrenheit Indonesia
- - [https://otc.fahrenheit.co.id](https://otc.fahrenheit.co.id)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Garmin Indonesia
- - [https://www.garmin.co.id](https://www.garmin.co.id)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Google
- - [https://www.google.co.id](https://www.google.co.id)
- - date_published: 2024-05-11T10:49:31.763436+00:00
-
- ## Hosting Pilihan Banyak Fitur | Onlinekan Website di Hostinger
- - [https://www.hostinger.co.id](https://www.hostinger.co.id)
- - date_published: 2024-05-11T07:50:36.130808+00:00
-
- ## Intel | Solusi Pusat Data, IoT, dan Inovasi PC
- - [https://www.intel.co.id](https://www.intel.co.id)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## J.P. Morgan Indonesia | About us
- - [https://www.jpmorgan.co.id](https://www.jpmorgan.co.id)
- - date_published: 2024-06-14T19:33:29+00:00
-
- ## NOW! Bali Magazine | Discover Life on the Island
- - [https://nowbali.co.id](https://nowbali.co.id)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## CupangJP Login dan Daftar Link Alternatif Terbaru
- - [https://cupangjp.omiland.co.id](https://cupangjp.omiland.co.id)
- - date_published: 2024-05-04T05:48:19.784602+00:00
-
- ## Robopragma Gratis Download Aplikasi Turbo Gampang Maxwin
- - [https://robopragma.omiland.co.id](https://robopragma.omiland.co.id)
- - date_published: 2024-05-04T05:47:55.591515+00:00
-
- ## Perum Perumnas - Hunian untuk Indonesia
- - [https://perumnas.co.id](https://perumnas.co.id)
- - date_published: 2024-06-12T01:48:12.922148+00:00
-
- ## Aplikasi Jual Beli Bitcoin Gampang. Praktis. Instan. | Pintu
- - [https://pintu.co.id](https://pintu.co.id)
- - date_published: 2024-05-06T18:27:11.900847+00:00
-
- ## Preloved - Jual-Beli Baju Vintage di Thrift Shop Online
- - [https://preloved.co.id](https://preloved.co.id)
- - date_published: 2023-10-25T19:28:30.280862+00:00
-
- ## Indonesia Public Holidays - PublicHolidays.co.id
- - [https://publicholidays.co.id](https://publicholidays.co.id)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## IndoRouter
- - [http://lp.router.co.id](http://lp.router.co.id)
- - date_published: 2024-05-09T04:08:14.991832+00:00
-
- ## RS Graha Juanda
- - [https://rsgrahajuanda.co.id](https://rsgrahajuanda.co.id)
- - date_published: 2024-06-12T07:05:38+00:00
-
- ## RTV - RAJAWALI TELEVISI | RTV.CO.ID
- - [https://www.rtv.co.id](https://www.rtv.co.id)
- - date_published: 2024-04-29T05:02:21.067228+00:00
-
- ## Superprof - Platform untuk para guru privat
- - [https://www.superprof.co.id](https://www.superprof.co.id)
- - date_published: 2024-06-15T01:27:51.597743+00:00
-
- ## Solusi pembayaran digital
- - [https://www.visa.co.id](https://www.visa.co.id)
- - date_published: 2024-05-12T03:58:43.804664+00:00
-
- ## Situs web resmi Wondershare: Kreativitas, Produktivitas, Utilitas
- - [https://www.wondershare.co.id](https://www.wondershare.co.id)
- - date_published: 2024-05-11T08:34:51.683855+00:00
-
- ## Badan Kepegawaian & Pengembangan Sumber Daya Manusia Kabupaten Melawi - Kepegawaian, Pengembangan Sumber Daya Manusia, Kalimantan Barat, Indonesia
- - [https://bkpsdm.melawikab.go.id](https://bkpsdm.melawikab.go.id)
- - date_published: 2024-05-04T05:47:40.543552+00:00
-
- ## AltaFocus Media Center
- - [https://altafocus.id](https://altafocus.id)
- - date_published: 2023-09-02T18:16:08+00:00
-
- ## Aneroid | Applications by Andrew Miskelly
- - [https://anero.id](https://anero.id)
- - date_published: 2024-05-17T07:27:50+00:00
-
- ## Home | Animo
- - [https://animo.id](https://animo.id)
- - date_published: 2024-04-15T15:28:10+00:00
-
- ## Demo | Animo Self-Sovereign Identity Demo
- - [https://demo.animo.id](https://demo.animo.id)
- - date_published: 2023-08-17T07:51:15+00:00
-
- ## Home | Animo
- - [https://www.animo.id](https://www.animo.id)
- - date_published: 2024-04-15T15:28:10+00:00
-
- ## Ariadne Identity
- - [https://ariadne.id](https://ariadne.id)
- - date_published: 2023-09-14T09:31:40+00:00
-
- ## By Benny
- - [https://benny.id](https://benny.id)
- - date_published: 2024-01-08T07:26:12.846132+00:00
-
- ## Bitrix24 - darmowa przestrzeń robocza dla Twojego biznesu: CRM, zadania, spotkania online i nie tylko.
- - [https://www.bitrix24.id](https://www.bitrix24.id)
- - date_published: 2024-05-12T03:57:32.772819+00:00
-
- ## BTV - Bersatu Menginspirasi
- - [https://btv.id](https://btv.id)
- - date_published: 2024-05-09T06:11:19.208840+00:00
-
- ## B Universe - Bersatu Menginspirasi
- - [http://b-universe.id](http://b-universe.id)
- - date_published: 2024-05-09T06:11:02.460816+00:00
-
- ## CNA.id: Berita Indonesia, Asia dan Dunia
- - [https://www.cna.id](https://www.cna.id)
- - date_published: 2024-05-08T04:49:15.135577+00:00
-
- ## Disney.id | The official home for all things Disney
- - [http://www.disney.id](http://www.disney.id)
- - date_published: 2024-05-01T05:26:57.359666+00:00
-
- ## Ikhtisar status
- - [https://downdetector.id](https://downdetector.id)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Eris – DataMarketing
- - [https://eris.id](https://eris.id)
- - date_published: 2024-05-06T18:03:12.300604+00:00
-
- ## ErlanggaPedia
- - [https://erlanggapedia.id](https://erlanggapedia.id)
- - date_published: 2024-05-04T05:47:27.517891+00:00
-
- ## Slot Luar Negeri 🍀 Rekomendasi Link Daftar Akun Pro Platinum Terbaru dan Tergacor Hari Ini Mudah Maxwin.
- - [https://sstb.genota.id](https://sstb.genota.id)
- - date_published: 2024-06-12T02:27:35.366858+00:00
-
- ## Home - Humaid Alqasimi
- - [https://huma.id](https://huma.id)
- - date_published: 2024-04-05T07:46:33.942260+00:00
- - tags: ['personal']
-
- ## Humanitarian ID
- - [https://auth.humanitarian.id](https://auth.humanitarian.id)
- - date_published: 2024-04-28T02:24:18.356640+00:00
-
- ## ID-Networkers - Training Cisco Mikrotik Juniper Programming Sysadmin Terbaik
- - [https://www.idn.id](https://www.idn.id)
- - date_published: 2024-01-06T00:00:00+00:00
-
- ## Indonesia Update | Akurat Komprehensif
- - [https://www.indonesiaupdate.id](https://www.indonesiaupdate.id)
- - date_published: 2024-06-12T02:41:42.073542+00:00
-
- ## Investor Daily - Berita Ekonomi, Bisnis, dan Pasar Modal Hari Ini
- - [https://investor.id](https://investor.id)
- - date_published: 2024-05-09T06:11:21.176313+00:00
-
- ## INVESTOR DAILY - ePaper
- - [https://subscribe.investor.id](https://subscribe.investor.id)
- - date_published: 2024-05-09T06:11:13.965093+00:00
-
- ## Investor Daily - Berita Ekonomi, Bisnis, dan Pasar Modal Hari Ini
- - [https://www.investor.id](https://www.investor.id)
- - date_published: 2024-05-09T06:11:09.105272+00:00
-
- ## Islamic Grand Village – Rumah Syariah Tajur Halang Bogor
- - [https://islamicgrandvillage.id](https://islamicgrandvillage.id)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Jakarta Globe - breaking news today | Your City, Your World, Your Indonesia
- - [https://jakartaglobe.id](https://jakartaglobe.id)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## Jakarta Globe - breaking news today | Your City, Your World, Your Indonesia
- - [https://www.jakartaglobe.id](https://www.jakartaglobe.id)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Komedia - KomputerMedan Media
- - [https://komedia.id](https://komedia.id)
- - date_published: 2019-12-08T19:55:37+00:00
-
- ## Game Online Gratis - Lagged.id
- - [https://lagged.id](https://lagged.id)
- - date_published: 2024-05-04T11:46:13.400388+00:00
-
- ## Lemdro.id
- - [https://lemdro.id](https://lemdro.id)
- - date_published: 2024-04-28T04:09:49.718993+00:00
-
- ## Lissi Docs
- - [https://docs.lissi.id](https://docs.lissi.id)
- - date_published: 2024-06-15T16:43:59.383640+00:00
-
- ## Interact with European Digital Identity Wallets according to eIDAS 2
- - [https://lissi.id](https://lissi.id)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## lissi
- - [https://try.lissi.id](https://try.lissi.id)
- - date_published: 2023-11-20T09:43:47+00:00
-
- ## Interact with European Digital Identity Wallets according to eIDAS 2
- - [https://www.lissi.id](https://www.lissi.id)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Cint™ | Digital Insights Gathering Platform
- - [https://luc.id](https://luc.id)
- - date_published: 2024-05-06T17:44:48.417127+00:00
-
- ## Mainkit.ID
- - [https://www.mainkit.id](https://www.mainkit.id)
- - date_published: 2023-12-29T03:11:59.838466+00:00
- - tags: ['personal']
-
- ## Mike Simmonds
- - [https://mike.id](https://mike.id)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Moongate
- - [https://app.moongate.id](https://app.moongate.id)
- - date_published: 2024-06-04T06:13:54.241592+00:00
- - tags: ['web3', 'nft']
-
- ## Moongate - NFT Ticketing and Membership Platform
- - [https://moongate.id](https://moongate.id)
- - date_published: 2024-05-29T00:00:00+00:00
- - tags: ['nft']
-
- ## Movavi Personal account
- - [https://movavi.id](https://movavi.id)
- - date_published: 2024-05-17T02:54:05.744289+00:00
-
- ## Resin Id
- - [https://www.mylo.id](https://www.mylo.id)
- - date_published: 2024-04-29T03:41:14.266912+00:00
-
- ## nathiasID
- - [https://nathias.id](https://nathias.id)
- - date_published: 2024-06-10T20:18:33.704286+00:00
- - tags: ['interesting page content', 'personal']
-
- ## Next.ID
- - [https://next.id](https://next.id)
- - date_published: 2024-05-12T06:01:41.902710+00:00
-
- ## Technology and Business Training
- - [https://oreilly.id](https://oreilly.id)
- - date_published: 2024-05-06T22:10:40.488702+00:00
-
- ## Paradym - The easiest way to build self-sovereign identity solutions.
- - [https://paradym.id](https://paradym.id)
- - date_published: 2024-06-15T15:39:45.397759+00:00
-
- ## Passwordless Authentication Powered by Passkeys | Passage by 1Password
- - [https://passage.id](https://passage.id)
- - date_published: 2023-10-25T19:28:32.133386+00:00
-
- ## Reinhart Previano K.
- - [https://reinhart1010.id](https://reinhart1010.id)
- - date_published: 2024-05-11T10:09:23.080067+00:00
-
- ## Retr0id
- - [https://retr0.id](https://retr0.id)
- - date_published: 2023-10-25T19:28:32.529500+00:00
-
- ## Rifat Najmi | Visual Artist and Designer based in Jakarta
- - [https://rifat.id](https://rifat.id)
- - date_published: 2024-04-28T05:00:07.040304+00:00
-
- ## Pabrik Kardus Cetak Box Makanan Jakarta & Tangerang
- - [https://sentramedia.id](https://sentramedia.id)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Monitor Pen Display & tablet gambar digital | XPPen Indonesia official Store
- - [https://www.storexppen.id](https://www.storexppen.id)
- - date_published: 2024-05-30T18:42:18.155158+00:00
-
- ## Tenggara Strategics
- - [https://tenggara.id](https://tenggara.id)
- - date_published: 2024-05-11T07:47:35.627969+00:00
-
- ## Threema – The Secure Messenger For Individuals and Companies
- - [https://threema.id](https://threema.id)
- - date_published: 2024-06-03T15:57:00.471992+00:00
-
- ## Trinsic Identity Verification Demo
- - [https://demo.trinsic.id](https://demo.trinsic.id)
- - date_published: 2024-06-14T16:28:43+00:00
-
- ## Trust Center
- - [http://security.trinsic.id](http://security.trinsic.id)
- - date_published: 2024-06-15T16:30:29.819797+00:00
-
- ## Home - Trinsic
- - [https://trinsic.id](https://trinsic.id)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Waydroid | Waydroid
- - [https://docs.waydro.id](https://docs.waydro.id)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Waydroid - Android in a Linux container
- - [https://waydro.id](https://waydro.id)
- - date_published: 2024-05-11T11:39:55.014726+00:00
-
- ## Home | xavd.id
- - [https://xavd.id](https://xavd.id)
- - date_published: 2023-10-25T19:28:33.367988+00:00
-
- ## Akif Al Hakim | Freelance Frontend Developer
- - [https://akif.my.id](https://akif.my.id)
- - date_published: 2024-05-11T10:20:46.912736+00:00
-
- ## NAWAN
- - [https://nawan.my.id](https://nawan.my.id)
- - date_published: 2024-01-25T00:00:00+00:00
-
- - [https://rtnf.my.id](https://rtnf.my.id)
- - date_published: 2024-01-09T03:31:52.858843+00:00
-
- ## MICROSITE
- - [https://pramukacilacap.or.id](https://pramukacilacap.or.id)
- - date_published: 2024-06-12T02:35:10.917956+00:00
-
- ## Yayasan Konservasi Alam Nusantara (YKAN)
- - [https://www.ykan.or.id](https://www.ykan.or.id)
- - date_published: 2024-05-08T10:42:48.586524+00:00
-
- ## Education
- - [https://sman3pwt.sch.id](https://sman3pwt.sch.id)
- - date_published: 2024-06-12T01:59:37.453483+00:00
-
- ## Penjualan dan jasa pembuatan program pos|retail|koperasi|klinik
- - [https://coinbali.web.id](https://coinbali.web.id)
- - date_published: 2023-09-16T12:49:26+00:00
-
- ## European Structural and Investment Funds in Ireland 2014-2020 | EU Funding: the European Structural and Investment Funding in Ireland
- - [http://eufunds.gov.ie](http://eufunds.gov.ie)
- - date_published: 2024-05-08T12:18:40.838731+00:00
-
- ## Search for services or information
- - [https://www.gov.ie](https://www.gov.ie)
- - date_published: 2024-05-11T08:23:02.787333+00:00
-
- ## Adams Auctioneers of Dublin
- - [http://adams.ie](http://adams.ie)
+ ## Sisweb, the student information system on the web
+ - [https://sisweb.ucdavis.edu](https://sisweb.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:18.105436+00:00
+
+ ## Home | SiteFarm
+ - [https://sitefarm.ucdavis.edu](https://sitefarm.ucdavis.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## System Support Group (SSG)
+ - [http://ssg.cs.ucdavis.edu](http://ssg.cs.ucdavis.edu)
+ - date_published: 2024-01-13T00:00:00+00:00
+
+ ## Staff Assembly
+ - [http://staff.ucdavis.edu](http://staff.ucdavis.edu)
  - date_published: 2024-05-14T00:00:00+00:00
 
- ## Elevate with Addy Osmani
- - [https://addy.ie](https://addy.ie)
- - date_published: 2024-04-27T12:54:46+00:00
+ ## Student Parent Resources
+ - [https://studentparents.ucdavis.edu](https://studentparents.ucdavis.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Transfer Admission Guarantee
+ - [http://tag.ucdavis.edu](http://tag.ucdavis.edu)
+ - date_published: 2021-03-02T17:52:06+00:00
+
+ ## Tahoe Environmental Research Center
+ - [https://tahoe.ucdavis.edu](https://tahoe.ucdavis.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## UC Davis
+ - [http://ucdavis.edu](http://ucdavis.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home | UC Davis Magazine
+ - [http://ucdavismagazine.ucdavis.edu](http://ucdavismagazine.ucdavis.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Undergraduate Research Center | Undergraduate Research Center
+ - [https://urc.ucdavis.edu](https://urc.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:22.520926+00:00
+
+ ## Visit UC Davis
+ - [http://visit.ucdavis.edu](http://visit.ucdavis.edu)
+ - date_published: 2021-01-08T22:29:29+00:00
+
+ ## Computer Science
+ - [https://web.cs.ucdavis.edu](https://web.cs.ucdavis.edu)
+ - date_published: 2023-10-25T18:59:47.853350+00:00
+
+ ## UC Davis Alumni and Affiliate Relations
+ - [http://www.alumni.ucdavis.edu](http://www.alumni.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:29.781847+00:00
+
+ ## Computer Science
+ - [https://www.cs.ucdavis.edu](https://www.cs.ucdavis.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## School of Law
+ - [https://www.law.ucdavis.edu](https://www.law.ucdavis.edu)
+ - date_published: 2024-05-09T02:38:25.218545+00:00
+
+ ## UC Davis | California's College Town
+ - [https://www.ucdavis.edu](https://www.ucdavis.edu)
+ - date_published: 2023-10-25T18:59:54.439947+00:00
+
+ ## UC Davis Health | University of California, Davis
+ - [http://www.ucdmc.ucdavis.edu](http://www.ucdmc.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:40.873243+00:00
+
+ ## UC Davis School of Veterinary Medicine
+ - [http://www.vetmed.ucdavis.edu](http://www.vetmed.ucdavis.edu)
+ - date_published: 2024-05-07T20:45:35.013277+00:00
+
+ ## E-Directory
+ - [https://directory.ucdenver.edu](https://directory.ucdenver.edu)
+ - date_published: 2024-04-30T04:02:27.047675+00:00
+
+ ## Sign in to Outlook
+ - [http://myemail.ucdenver.edu](http://myemail.ucdenver.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## University of Colorado Denver | CU Denver
+ - [http://ucdenver.edu](http://ucdenver.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## University of Colorado Denver | CU Denver
+ - [https://www.ucdenver.edu](https://www.ucdenver.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Advising
+ - [https://appleseed.cs.ucf.edu](https://appleseed.cs.ucf.edu)
+ - date_published: 2024-05-11T07:18:07.290047+00:00
+
+ ## Autonomous and Intelligent Systems – Just another WordPress site
+ - [https://eecs.ucf.edu](https://eecs.ucf.edu)
+ - date_published: 2024-01-09T03:28:03.267934+00:00
+
+ ## Home - College of Graduate Studies
+ - [https://graduate.ucf.edu](https://graduate.ucf.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## University of Central Florida Pressbooks – A Resource for Academic & Educational Publishing at UCF
+ - [https://pressbooks.online.ucf.edu](https://pressbooks.online.ucf.edu)
+ - date_published: 2024-05-02T09:55:32.588928+00:00
+
+ ## Department of Computer Science
+ - [http://www.cs.ucf.edu](http://www.cs.ucf.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## University of Central Florida | Top-Ranked by U.S News & World Reports
+ - [https://www.ucf.edu](https://www.ucf.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Access UChicago Now | The University of Chicago
+ - [https://accessibility.uchicago.edu](https://accessibility.uchicago.edu)
+ - date_published: 2024-05-07T20:45:44.535009+00:00
+
+ ## Home | UChicago Alumni Weekend
+ - [https://alumniweekend.uchicago.edu](https://alumniweekend.uchicago.edu)
+ - date_published: 2024-05-07T14:13:58.243002+00:00
+
+ ## Admissions - UChicagoGRAD | The University of Chicago
+ - [https://apply-psd.uchicago.edu](https://apply-psd.uchicago.edu)
+ - date_published: 2024-05-07T20:46:36.545286+00:00
+
+ ## Becker Friedman Institute for Economics at University of Chicago — Frontier Research, Global Impact. | BFI
+ - [https://bfi.uchicago.edu](https://bfi.uchicago.edu)
+ - date_published: 2023-10-25T18:59:59.078924+00:00
+
+ ## Biological Sciences Division at the University of Chicago
+ - [https://biologicalsciences.uchicago.edu](https://biologicalsciences.uchicago.edu)
+ - date_published: 2023-11-27T16:10:30.419743+00:00
+
+ ## UChicago Biosciences | The University of Chicago
+ - [https://biosciences.uchicago.edu](https://biosciences.uchicago.edu)
+ - date_published: 2024-05-07T20:46:05.638600+00:00
+
+ ## Biological Sciences Collegiate Division
+ - [https://bscd.uchicago.edu](https://bscd.uchicago.edu)
+ - date_published: 2024-05-07T20:46:08.412983+00:00
+
+ ## Home
+ - [https://bsdis.uchicago.edu](https://bsdis.uchicago.edu)
+ - date_published: 2024-05-07T20:46:01.960212+00:00
+
+ ## Biological Sciences Postdoctoral Affairs and Association – Providing career and professional development training to BSD postdocs
+ - [https://bsdpostdoc.uchicago.edu](https://bsdpostdoc.uchicago.edu)
+ - date_published: 2024-05-07T20:45:58.533847+00:00
+
+ ## Search Home :: Library Catalog
+ - [https://catalog.lib.uchicago.edu](https://catalog.lib.uchicago.edu)
+ - date_published: 2024-05-07T20:52:33.373077+00:00
+
+ ## Center for Continuing Medical Education |
+ - [https://cme.uchicago.edu](https://cme.uchicago.edu)
+ - date_published: 2024-05-07T20:46:10.878930+00:00
+
+ ## Ecology & Evolution | The University of Chicago
+ - [https://ecologyandevolution.uchicago.edu](https://ecologyandevolution.uchicago.edu)
+ - date_published: 2024-05-07T14:14:13.363606+00:00
+
+ ## Calendar of Events | The University of Chicago
+ - [https://events.uchicago.edu](https://events.uchicago.edu)
+ - date_published: 2024-05-07T20:46:00.260987+00:00
+
+ ## Financial Mathematics | The University of Chicago
+ - [https://finmath.uchicago.edu](https://finmath.uchicago.edu)
+ - date_published: 2024-05-01T04:44:01.419765+00:00
+
+ ## Geophysical Sciences
+ - [https://geosci.uchicago.edu](https://geosci.uchicago.edu)
+ - date_published: 2023-10-25T19:00:02.742597+00:00
+
+ ## Homepage
+ - [https://givetomedicine.uchicago.edu](https://givetomedicine.uchicago.edu)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Glaze - Protecting Artists from Generative AI
+ - [https://glaze.cs.uchicago.edu](https://glaze.cs.uchicago.edu)
+ - date_published: 2023-10-25T19:00:05.496930+00:00
+
+ ## Home - UChicagoGRAD | The University of Chicago
+ - [https://grad.uchicago.edu](https://grad.uchicago.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Welcome to
+ - [https://graham.uchicago.edu](https://graham.uchicago.edu)
+ - date_published: 2024-05-07T20:46:53.098712+00:00
+
+ ## Library Guides: Research Guides: Subject Guides
+ - [https://guides.lib.uchicago.edu](https://guides.lib.uchicago.edu)
+ - date_published: 2024-05-07T20:52:31.938288+00:00
+
+ ## Harris | The University of Chicago Harris School of Public Policy
+ - [http://harris.uchicago.edu](http://harris.uchicago.edu)
+ - date_published: 2024-05-08T00:13:10.966049+00:00
+
+ ## IFK
+ - [https://ifk.uchicago.edu](https://ifk.uchicago.edu)
+ - date_published: 2024-02-24T18:19:38.969915+00:00
+
+ ## Knowledge UChicago
+ - [https://knowledge.uchicago.edu](https://knowledge.uchicago.edu)
+ - date_published: 2024-05-07T20:52:28.163602+00:00
+
+ ## UChicago Maps
+ - [https://maps.uchicago.edu](https://maps.uchicago.edu)
+ - date_published: 2024-06-15T21:16:04+00:00
+
+ ## Department of Mathematics | The University of Chicago
+ - [https://math.uchicago.edu](https://math.uchicago.edu)
+ - date_published: 2024-06-15T21:29:28+00:00
+
+ ## Neuroscience at the University of Chicago
+ - [https://neuroscience.uchicago.edu](https://neuroscience.uchicago.edu)
+ - date_published: 2024-05-07T20:46:04.000431+00:00
+
+ ## News
+                
+            
+            
+                
+                    
+                        - The University of Chicago Library News
+                    
+                
+            
+            - The University of Chicago Library
+ - [http://news.lib.uchicago.edu](http://news.lib.uchicago.edu)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## University of Chicago News
+ - [https://news.uchicago.edu](https://news.uchicago.edu)
+ - date_published: 2023-10-25T19:00:12.204385+00:00
+
+ ## Nightshade: Protecting Copyright
+ - [https://nightshade.cs.uchicago.edu](https://nightshade.cs.uchicago.edu)
+ - date_published: 2019-02-12T00:00:00+00:00
+
+ ## Sir Thomas Browne
+ - [http://penelope.uchicago.edu](http://penelope.uchicago.edu)
+ - date_published: 2024-05-06T17:00:03.680182+00:00
+ - tags: ['literature', 'writing']
+
+ ## Physical Sciences Division | The University of Chicago
+ - [https://physical-sciences.uchicago.edu](https://physical-sciences.uchicago.edu)
+ - date_published: 2024-06-15T22:11:19+00:00
+
+ ## Home | Pritzker School of Molecular Engineering | The University of Chicago
+ - [https://pme.uchicago.edu](https://pme.uchicago.edu)
+ - date_published: 2023-10-25T11:20:47.091123+00:00
+
+ ## The South Pole Telescope
+ - [https://pole.uchicago.edu](https://pole.uchicago.edu)
+ - date_published: 2024-05-11T20:46:53.603684+00:00
+
+ ## University of Chicago Press
+ - [https://press.uchicago.edu](https://press.uchicago.edu)
+ - date_published: 2024-05-04T14:26:31.219516+00:00
+
+ ## Unified Printing: Copying, Printing, and Scanning
+ - [https://printing.uchicago.edu](https://printing.uchicago.edu)
+ - date_published: 2024-05-07T20:52:35.256335+00:00
+
+ ## Pritzker School of Medicine | The University of Chicago
+ - [https://pritzker.uchicago.edu](https://pritzker.uchicago.edu)
+ - date_published: 2024-05-07T20:45:56.669107+00:00
+
+ ## Welcome | Office of the Provost
+ - [https://provost.uchicago.edu](https://provost.uchicago.edu)
+ - date_published: 2024-05-07T14:14:06.624687+00:00
+
+ ## Shibboleth Authentication Request
+ - [http://proxy.uchicago.edu](http://proxy.uchicago.edu)
+ - date_published: 2024-05-07T20:52:23.620802+00:00
+
+ ## Reservations -
+        UChicago Library
+ - [https://rooms.lib.uchicago.edu](https://rooms.lib.uchicago.edu)
+ - date_published: 2024-05-07T20:52:29.917877+00:00
+
+ ## Rose and Chess: Le Roman de la Rose and Le Jeu des échecs moralisé
+ - [https://roseandchess.lib.uchicago.edu](https://roseandchess.lib.uchicago.edu)
+ - date_published: 2024-04-30T06:27:14.763934+00:00
+
+ ## Science and Liberalism: April 7-8, 2023 (5733 S. University Ave)
+ - [https://scienceandliberalism.event.uchicago.edu](https://scienceandliberalism.event.uchicago.edu)
+ - date_published: 2023-04-07T00:00:00+00:00
+
+ ## BSD Information Security Office | BSD Information Security Office
+ - [http://security.bsd.uchicago.edu](http://security.bsd.uchicago.edu)
+ - date_published: 2024-05-07T20:45:55.184326+00:00
+
+ ## IFK
+ - [https://sifk.uchicago.edu](https://sifk.uchicago.edu)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Department of Statistics | The University of Chicago
+ - [https://stat.uchicago.edu](https://stat.uchicago.edu)
+ - date_published: 2024-05-12T04:29:05.715527+00:00
+
+ ## Stevanovich Center for Financial Mathematics | Stevanovich Center for Financial Mathematics
+ - [https://stevanovichcenter.uchicago.edu](https://stevanovichcenter.uchicago.edu)
+ - date_published: 2024-06-15T22:11:16.943534+00:00
+
+ ## UCAIR Accident/Incident Reporting System
+ - [https://ucair.uchicago.edu](https://ucair.uchicago.edu)
+ - date_published: 2024-05-07T20:47:02.755454+00:00
+
+ ## The University of Chicago
+ - [https://uchicago.edu](https://uchicago.edu)
+ - date_published: 2024-05-07T20:47:12.944443+00:00
+
+ ## Visit UChicago – A Beautiful Campus in a World-Class City
+ - [https://visit.uchicago.edu](https://visit.uchicago.edu)
+ - date_published: 2024-05-07T20:47:08.194797+00:00
+
+ ## UChicago Voices | A platform for sharing your voice
+ - [https://voices.uchicago.edu](https://voices.uchicago.edu)
+ - date_published: 2024-05-07T20:45:52.468264+00:00
+
+ ## UChicago Website Resource Center | The University of Chicago
+ - [https://websitesdev.uchicago.edu](https://websitesdev.uchicago.edu)
+ - date_published: 2024-05-07T20:47:15.994608+00:00
+
+ ## UChicago Website Resource Center | The University of Chicago
+ - [https://websites.uchicago.edu](https://websites.uchicago.edu)
+ - date_published: 2024-05-07T20:47:19.516737+00:00
+
+ ## The University of Chicago Library
+                
+            
+            
+                
+            
+            - The University of Chicago Library
+ - [https://www2.lib.uchicago.edu](https://www2.lib.uchicago.edu)
+ - date_published: 2023-10-25T19:00:18.639938+00:00
+
+ ## Access UChicago Now | The University of Chicago
+ - [https://www.accessibility.uchicago.edu](https://www.accessibility.uchicago.edu)
+ - date_published: 2024-06-15T21:18:00+00:00
+
+ ## https://www.journals.uchicago.edu
+ - [https://www.journals.uchicago.edu](https://www.journals.uchicago.edu)
+ - date_published: 2023-10-25T19:00:13.234205+00:00
+
+ ## The University of Chicago Library
+                
+            
+            
+                
+            
+            - The University of Chicago Library
+ - [https://www.lib.uchicago.edu](https://www.lib.uchicago.edu)
+ - date_published: 2024-05-07T20:52:22.085559+00:00
+
+ ## The University of Chicago
+ - [https://www.uchicago.edu](https://www.uchicago.edu)
+ - date_published: 2024-05-07T14:14:20.281599+00:00
+
+ ## Accessibility Research Collective
+ - [https://accessibility.ics.uci.edu](https://accessibility.ics.uci.edu)
+ - date_published: 2022-01-01T00:00:00+00:00
+
+ ## Home // Accessibility // UCI
+ - [https://accessibility.uci.edu](https://accessibility.uci.edu)
+ - date_published: 2024-05-09T06:49:56.338854+00:00
+
+ ## UCI Machine Learning Repository
+ - [https://archive.ics.uci.edu](https://archive.ics.uci.edu)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Home // Brand // UCI
+ - [https://brand.uci.edu](https://brand.uci.edu)
+ - date_published: 2024-05-09T06:49:44.603622+00:00
+
+ ## Home - Brilliant Future: The Campaign for UCI
+ - [https://brilliantfuture.uci.edu](https://brilliantfuture.uci.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## University of California, Irvine General Catalogue < University of California Irvine
+ - [http://catalogue.uci.edu](http://catalogue.uci.edu)
+ - date_published: 2024-05-07T20:54:06.718099+00:00
+
+ ## Center for Machine Learning and Intelligent Systems | University of California, Irvine
+ - [https://cml.ics.uci.edu](https://cml.ics.uci.edu)
+ - date_published: 2024-05-07T20:53:27.536388+00:00
+
+ ## Home // Strategic Communications & Public Affairs // UCI
+ - [https://communications.uci.edu](https://communications.uci.edu)
+ - date_published: 2024-05-09T06:50:22.332352+00:00
+
+ ## Home - Connected Learning Lab
+ - [https://connectedlearning.uci.edu](https://connectedlearning.uci.edu)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## landing - UCI Cybersecurity Policy & Research Institute
+ - [https://cpri.uci.edu](https://cpri.uci.edu)
+ - date_published: 2024-05-07T20:52:40.293444+00:00
+
+ ## UCI’s Steckler Center for Responsible, Ethical, and Accessible Technology
+ - [https://create.ics.uci.edu](https://create.ics.uci.edu)
+ - date_published: 2024-05-07T20:53:25.866925+00:00
+
+ ## Home
+ - [https://cs.uci.edu](https://cs.uci.edu)
+ - date_published: 2024-05-07T20:52:56.467791+00:00
+
+ ## Data Science Initiative – UCI's Data Science Initiative
+ - [https://datascience.uci.edu](https://datascience.uci.edu)
+ - date_published: 2024-05-07T20:52:48.849995+00:00
+
+ ## UCI Directory
+ - [https://directory.uci.edu](https://directory.uci.edu)
+ - date_published: 2024-05-07T20:52:51.027853+00:00
+
+ ## UCI Division of Teaching Excellence and Innovation |
+ - [http://dtei.uci.edu](http://dtei.uci.edu)
+ - date_published: 2024-05-09T06:49:42.209475+00:00
+
+ ## UCI School of Education
+ - [http://education.uci.edu](http://education.uci.edu)
+ - date_published: 2024-05-09T06:50:20.102298+00:00
+
+ ## Home // Emergency Management // UCI
+ - [https://em.uci.edu](https://em.uci.edu)
+ - date_published: 2024-05-07T20:52:45.484382+00:00
+
+ ## Home | Samueli School of Engineering at UC Irvine
+ - [http://engineering.uci.edu](http://engineering.uci.edu)
+ - date_published: 2024-05-09T06:50:09.529482+00:00
+
+ ## Our Experts // Find an Expert // UCI
+ - [https://experts.communications.uci.edu](https://experts.communications.uci.edu)
+ - date_published: 2024-05-09T06:50:53.476925+00:00
+
+ ## UCI Institute for Future Health
+ - [https://futurehealth.ics.uci.edu](https://futurehealth.ics.uci.edu)
+ - date_published: 2024-05-07T20:53:22.787974+00:00
+
+ ## UCI Institute for Future Health
+ - [https://futurehealth.uci.edu](https://futurehealth.uci.edu)
+ - date_published: 2024-05-07T20:53:02.542030+00:00
+
+ ## Hall of Fame – Engineering and ICS at UCI
+ - [https://halloffame.tech.uci.edu](https://halloffame.tech.uci.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## HPI Research Center in Machine Learning and Data Science at UCI
+ - [https://hpi.ics.uci.edu](https://hpi.ics.uci.edu)
+ - date_published: 2024-05-07T20:54:01.513372+00:00
+
+ ## Home
+ - [https://ics.uci.edu](https://ics.uci.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Informatics @ the University of California, Irvine
+ - [https://informatics.uci.edu](https://informatics.uci.edu)
+ - date_published: 2024-05-07T20:53:13.149689+00:00
+
+ ## Institute for Software Research
+ - [http://isr.uci.edu](http://isr.uci.edu)
+ - date_published: 2024-05-07T20:53:46.475495+00:00
+
+ ## Home | UCI Mathematics
+ - [https://math.uci.edu](https://math.uci.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## UCI School of Medicine
+ - [https://medschool.uci.edu](https://medschool.uci.edu)
+ - date_published: 2024-05-09T06:50:27.936856+00:00
+
+ ## Welcome to the UCI Paul Merage School of Business | Paul Merage School of Business | UCI
+ - [https://merage.uci.edu](https://merage.uci.edu)
+ - date_published: 2024-05-09T06:49:50.587312+00:00
+
+ ## Home
+ - [https://news.uci.edu](https://news.uci.edu)
+ - date_published: 2024-03-12T20:01:51.680591+00:00
+
+ ## UC Irvine Sue & Bill Gross School of Nursing
+ - [http://nursing.uci.edu](http://nursing.uci.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Home
+ - [https://oai.ics.uci.edu](https://oai.ics.uci.edu)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## Home page | UCI
+ - [https://ps.uci.edu](https://ps.uci.edu)
+ - date_published: 2024-05-07T20:54:27.866988+00:00
+
+ ## UCI Program in Public Health
+ - [http://publichealth.uci.edu](http://publichealth.uci.edu)
+ - date_published: 2024-05-09T06:49:54.144882+00:00
+
+ ## Search // UCI
+ - [https://search.uci.edu](https://search.uci.edu)
+ - date_published: 2024-05-09T06:50:58.929452+00:00
+
+ ## UCI Information Security
+ - [https://security.uci.edu](https://security.uci.edu)
+ - date_published: 2024-05-09T06:50:03.969085+00:00
+
+ ## HTTP Server Test Page powered by: Rocky Linux
+ - [https://sites.socsci.uci.edu](https://sites.socsci.uci.edu)
+ - date_published: 2024-05-08T04:21:00.373176+00:00
+
+ ## UCI Sites – Simple Websites & Blogs
+ - [https://sites.uci.edu](https://sites.uci.edu)
+ - date_published: 2024-05-07T20:54:22.322980+00:00
+
+ ## School of Social Ecology | Science Driving Solutions
+ - [http://socialecology.uci.edu](http://socialecology.uci.edu)
+ - date_published: 2024-05-09T06:50:25.328453+00:00
+
+ ## Home // Special Reports // UCI
+ - [https://specialreports.news.uci.edu](https://specialreports.news.uci.edu)
+ - date_published: 2024-05-09T06:50:41.687164+00:00
+
+ ## Department of Statistics - Donald Bren School of Information & Computer Sciences – Department of Statistics - Donald Bren School of Information & Computer Sciences
+ - [https://stat.uci.edu](https://stat.uci.edu)
+ - date_published: 2024-05-07T20:53:51.530226+00:00
+
+ ## Featured Events // Today // UCI
+ - [https://today.uci.edu](https://today.uci.edu)
+ - date_published: 2024-05-09T06:50:40.161441+00:00
+
+ ## Home // Trademarks & Licensing // UCI
+ - [https://trademarks.uci.edu](https://trademarks.uci.edu)
+ - date_published: 2024-05-09T06:50:55.058610+00:00
+
+ ## Home | UCI
+ - [https://uci.edu](https://uci.edu)
+ - date_published: 2024-05-07T20:53:16.486745+00:00
+
+ ## Schedule of Classes
+ - [http://websoc.reg.uci.edu](http://websoc.reg.uci.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Main | UCI
+ - [https://wp.communications.uci.edu](https://wp.communications.uci.edu)
+ - date_published: 2024-05-09T06:49:39.363658+00:00
+
+ ## UCI Claire Trevor School of the Arts
+ - [http://www.arts.uci.edu](http://www.arts.uci.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## UCI BioSci - Mind | Body | World. Life Interconnected.
+ - [https://www.bio.uci.edu](https://www.bio.uci.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Home
+ - [http://www.cogsci.uci.edu](http://www.cogsci.uci.edu)
+ - date_published: 2024-05-02T15:03:29.874133+00:00
+
+ ## Home
+ - [https://www.cs.uci.edu](https://www.cs.uci.edu)
+ - date_published: 2024-05-07T20:53:31.882811+00:00
+
+ ## UCI General Catalogue Archives
+ - [http://www.editor.uci.edu](http://www.editor.uci.edu)
+ - date_published: 2024-05-07T20:54:24.973533+00:00
+
+ ## UCI School of Humanities
+ - [https://www.humanities.uci.edu](https://www.humanities.uci.edu)
+ - date_published: 2024-05-09T06:50:30.346817+00:00
+
+ ## Home - UC Irvine Donald Bren School of Information & Computer Sciences
+ - [https://www.ics.uci.edu](https://www.ics.uci.edu)
+ - date_published: 2023-10-25T19:00:29.565931+00:00
+
+ ## UCI Institute for Genomics & Bioinformatics – IGB at UC Irvine
+ - [https://www.igb.uci.edu](https://www.igb.uci.edu)
+ - date_published: 2024-05-07T20:54:04.188674+00:00
+
+ ## Informatics @ the University of California, Irvine
+ - [https://www.informatics.uci.edu](https://www.informatics.uci.edu)
+ - date_published: 2024-05-07T20:53:58.308630+00:00
+
+ ## Institute for Software Research
+ - [http://www.isr.uci.edu](http://www.isr.uci.edu)
+ - date_published: 2024-05-02T09:37:51.824584+00:00
+
+ ## Home | UCI Law
+ - [http://www.law.uci.edu](http://www.law.uci.edu)
+ - date_published: 2024-05-09T06:50:37.366098+00:00
+
+ ## Home | UCI Mathematics
+ - [https://www.math.uci.edu](https://www.math.uci.edu)
+ - date_published: 2023-10-25T19:00:33.632611+00:00
+
+ ## Office of Information Technology | UCI
+ - [https://www.oit.uci.edu](https://www.oit.uci.edu)
+ - date_published: 2024-05-09T06:50:16.729665+00:00
+
+ ## Home // Policies & Procedures // UCI
+ - [https://www.policies.uci.edu](https://www.policies.uci.edu)
+ - date_published: 2024-05-09T06:50:57.336437+00:00
+
+ ## Home
+ - [https://www.socsci.uci.edu](https://www.socsci.uci.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Department of Statistics - Donald Bren School of Information & Computer Sciences – Department of Statistics - Donald Bren School of Information & Computer Sciences
+ - [https://www.stat.uci.edu](https://www.stat.uci.edu)
+ - date_published: 2024-05-07T20:53:06.052921+00:00
+
+ ## Home | UCI
+ - [https://www.uci.edu](https://www.uci.edu)
+ - date_published: 2024-05-07T20:53:09.186125+00:00
+
+ ## AskCHIS Neighborhood Edition - Local Level Health Data
+ - [http://askchisne.ucla.edu](http://askchisne.ucla.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## PSTI
+ - [http://cbp.physics.ucla.edu](http://cbp.physics.ucla.edu)
+ - date_published: 2024-05-07T20:55:57.877188+00:00
+
+ ## Home
+ - [https://cdli.ucla.edu](https://cdli.ucla.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## UCLA COVID-19 Resources - Coronavirus information for the campus community
+ - [https://covid-19.ucla.edu](https://covid-19.ucla.edu)
+ - date_published: 2024-05-07T20:55:24.036838+00:00
+
+ ## Index of /
+ - [https://ftp.cs.ucla.edu](https://ftp.cs.ucla.edu)
+ - date_published: 2024-03-23T00:00:00+00:00
+
+ ## UCLA is responding to COVID-19
+ - [http://giveto.ucla.edu](http://giveto.ucla.edu)
+ - date_published: 2024-05-07T20:54:59.420873+00:00
+
+ ## Giving to UCLA
+ - [https://giving.ucla.edu](https://giving.ucla.edu)
+ - date_published: 2024-05-07T20:55:32.392874+00:00
+
+ ## Calendars
+ - [http://happenings.ucla.edu](http://happenings.ucla.edu)
+ - date_published: 2024-05-07T20:54:34.739703+00:00
+
+ ## Institute for Research on Labor and Employment
+ - [https://irle.ucla.edu](https://irle.ucla.edu)
+ - date_published: 2024-05-07T20:55:11.391952+00:00
+
+ ## Lawyers. Leaders. UCLA School of Law. | UCLA Law
+ - [https://law.ucla.edu](https://law.ucla.edu)
+ - date_published: 2024-05-04T14:42:25.180876+00:00
+
+ ## School of Public Affairs | UCLA Luskin
+ - [https://luskin.ucla.edu](https://luskin.ucla.edu)
+ - date_published: 2024-05-07T20:55:15.920022+00:00
+
+ ## Home | Transportation
+ - [https://main.transportation.ucla.edu](https://main.transportation.ucla.edu)
+ - date_published: 2024-05-07T20:55:26.311984+00:00
+
+ ## Sign in to your account
+ - [https://my.law.ucla.edu](https://my.law.ucla.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Newsroom | UCLA
+ - [https://newsroom.ucla.edu](https://newsroom.ucla.edu)
+ - date_published: 2023-10-25T19:00:36.419553+00:00
+
+ ## UCLA Fielding School of Public Health | UCLA Fielding
+ - [https://ph.ucla.edu](https://ph.ucla.edu)
+ - date_published: 2023-10-25T19:00:39.211230+00:00
+
+ ## UCLA Cognitive Systems Laboratory (Experimental)
+ - [http://singapore.cs.ucla.edu](http://singapore.cs.ucla.edu)
+ - date_published: 2023-10-25T19:00:41.031479+00:00
+
+ ## Smadar Naoz
+ - [https://snaoz.astro.ucla.edu](https://snaoz.astro.ucla.edu)
+ - date_published: 2024-04-30T03:33:26.794955+00:00
+
+ ## Home - The Center for 17th- & 18th-Century Studies
+ - [https://www.1718.ucla.edu](https://www.1718.ucla.edu)
+ - date_published: 2024-05-07T10:26:20.505488+00:00
+
+ ## Lawyers. Leaders. UCLA School of Law. | UCLA Law
+ - [https://www2.law.ucla.edu](https://www2.law.ucla.edu)
+ - date_published: 2023-10-25T19:00:46.288421+00:00
+
+ ## Home | Bruins Safe Online
+ - [https://www.bso.ucla.edu](https://www.bso.ucla.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home (New)
+ - [https://www.college.ucla.edu](https://www.college.ucla.edu)
+ - date_published: 2024-05-07T20:55:21.916268+00:00
+
+ ## UCLA Campus Directory
+ - [http://www.directory.ucla.edu](http://www.directory.ucla.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Samueli Electrical and Computer Engineering
+ - [https://www.ee.ucla.edu](https://www.ee.ucla.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Home | Bruins Safe Online
+ - [https://www.emergency.ucla.edu](https://www.emergency.ucla.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Lewis Home - UCLA Lewis Center for Regional Policy Studies
+ - [https://www.lewis.ucla.edu](https://www.lewis.ucla.edu)
+ - date_published: 2024-04-30T05:05:25.842498+00:00
+
+ ## UCLA MII – Medical and Imaging Informatics
+ - [http://www.mii.ucla.edu](http://www.mii.ucla.edu)
+ - date_published: 2024-05-07T15:26:25.393622+00:00
+
+ ## Welcome! | UCLA Registrar’s Office
+ - [https://www.registrar.ucla.edu](https://www.registrar.ucla.edu)
+ - date_published: 2024-05-07T20:55:03.392932+00:00
+
+ ## UCLA
+ - [https://www.ucla.edu](https://www.ucla.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Zocchi Laboratory
+ - [https://zocchi.physics.ucla.edu](https://zocchi.physics.ucla.edu)
+ - date_published: 2024-02-08T21:48:42.972695+00:00
+
+ ## UCLA Extension - Continuing Education Courses & Certificates
+ - [https://www.uclaextension.edu](https://www.uclaextension.edu)
+ - date_published: 2024-05-07T20:55:05.477271+00:00
+
+ ## Apply Now | Graduate Division
+ - [https://applygrad.ucmerced.edu](https://applygrad.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:30.115935+00:00
+
+ ## Biological Engineering and Small-Scale Technologies
+ - [https://best.ucmerced.edu](https://best.ucmerced.edu)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Bioengineering
+ - [https://bioe.ucmerced.edu](https://bioe.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:24.812623+00:00
+
+ ## Graduate Division
+ - [https://graduatedivision.ucmerced.edu](https://graduatedivision.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:27.415446+00:00
+
+ ## Materials and Biomaterials Science and Engineering
+ - [https://mbse.ucmerced.edu](https://mbse.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:19.947352+00:00
+
+ ## The Karen Merritt Writing Program
+ - [http://writingprogram.ucmerced.edu](http://writingprogram.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:22.838187+00:00
+
+ ## University of California, Merced
+ - [http://www.ucmerced.edu](http://www.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:17.110274+00:00
+
+ ## Home | Accessibility
+ - [https://accessibility.uconn.edu](https://accessibility.uconn.edu)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Home | Aurora
+ - [http://arthur-parzygnat.uconn.edu](http://arthur-parzygnat.uconn.edu)
+ - date_published: 2024-05-04T14:40:31.233891+00:00
+
+ ## Keith Conrad's Home Page
+ - [https://kconrad.math.uconn.edu](https://kconrad.math.uconn.edu)
+ - date_published: 2024-05-07T15:58:32.946320+00:00
  - tags: ['personal']
+
+ ## Home | Kendall Lab
+ - [https://kendalllab.uconn.edu](https://kendalllab.uconn.edu)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## UConn Magazine
+ - [https://magazine.uconn.edu](https://magazine.uconn.edu)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Department of Pharmaceutical Sciences | UConn School of Pharmacy
+ - [http://pharmsci.uconn.edu](http://pharmsci.uconn.edu)
+ - date_published: 2019-05-16T14:22:20+00:00
+
+ ## Home | UConn Privacy
+ - [https://privacy.uconn.edu](https://privacy.uconn.edu)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Home  - UConn Today
+ - [https://today.uconn.edu](https://today.uconn.edu)
+ - date_published: 2023-10-25T19:00:48.881073+00:00
+
+ ## Home | Polynomial-Sized LP Models for Hard COPs
+ - [https://tsplp.research.uconn.edu](https://tsplp.research.uconn.edu)
+ - date_published: 2023-10-25T19:00:52.126830+00:00
+
+ ## University of Connecticut
+ - [https://uconn.edu](https://uconn.edu)
+ - date_published: 2024-05-07T20:56:38.013761+00:00
+
+ ## University of Connecticut | University Communications
+ - [https://universitycommunications.uconn.edu](https://universitycommunications.uconn.edu)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## UConn School of Business | School of Business
+ - [https://www.business.uconn.edu](https://www.business.uconn.edu)
+ - date_published: 2024-05-07T20:56:51.424555+00:00
+
+ ## Aurora outage
+ - [https://www.math.uconn.edu](https://www.math.uconn.edu)
+ - date_published: 2024-04-30T07:32:52.315694+00:00
+
+ ## University of California | Office of The President
+ - [https://www.ucop.edu](https://www.ucop.edu)
+ - date_published: 2024-05-07T20:55:37.074158+00:00
+
+ ## University of California Press
+ - [https://www.ucpress.edu](https://www.ucpress.edu)
+ - date_published: 2024-05-02T09:55:47.640355+00:00
+
+ ## Connect with Asian Pacific Student Programs (APSP)!
+ - [https://apsp.ucr.edu](https://apsp.ucr.edu)
+ - date_published: 2024-05-07T20:56:52.659163+00:00
+
+ ## UCR African Student Programs
+ - [https://asp.ucr.edu](https://asp.ucr.edu)
+ - date_published: 2024-05-07T20:57:10.969841+00:00
+
+ ## University of California, Riverside
+ - [https://campusmap.ucr.edu](https://campusmap.ucr.edu)
+ - date_published: 2024-05-07T20:57:29.964689+00:00
+
+ ## Campus Emergency Status
+ - [https://campusstatus.ucr.edu](https://campusstatus.ucr.edu)
+ - date_published: 2024-05-07T20:56:57.501578+00:00
+
+ ## CARE Program
+ - [https://care.ucr.edu](https://care.ucr.edu)
+ - date_published: 2024-05-07T20:57:01.705119+00:00
+
+ ## Case Management
+ - [https://casemanagement.ucr.edu](https://casemanagement.ucr.edu)
+ - date_published: 2024-05-07T20:57:13.794566+00:00
+
+ ## California Digital Newspaper Collection
+ - [https://cdnc.ucr.edu](https://cdnc.ucr.edu)
+ - date_published: 2024-05-07T09:16:04.491684+00:00
+
+ ## Counseling & Psychological Services
+ - [https://counseling.ucr.edu](https://counseling.ucr.edu)
+ - date_published: 2024-05-07T20:56:56.771638+00:00
+
+ ## The Creator State
+ - [https://creatorstate.ucr.edu](https://creatorstate.ucr.edu)
+ - date_published: 2024-05-07T20:57:46.311251+00:00
+
+ ## Share the spirit of Raza with UCR's Chicano Student Programs!
+ - [https://csp.ucr.edu](https://csp.ucr.edu)
+ - date_published: 2024-05-07T20:57:33.431969+00:00
+
+ ## UCR Dean of Students
+ - [https://deanofstudents.ucr.edu](https://deanofstudents.ucr.edu)
+ - date_published: 2024-05-07T20:57:17.897630+00:00
+
+ ## Office of Diversity, Equity & Inclusion
+ - [https://diversity.ucr.edu](https://diversity.ucr.edu)
+ - date_published: 2024-05-07T20:57:34.669512+00:00
+
+ ## Events Calendar
+ - [https://events.ucr.edu](https://events.ucr.edu)
+ - date_published: 2024-05-07T20:57:21.046479+00:00
+
+ ## The Office of Financial Aid
+ - [https://financialaid.ucr.edu](https://financialaid.ucr.edu)
+ - date_published: 2024-05-07T20:57:15.365680+00:00
+
+ ## Connect with the Office of Foster Youth Support Services
+ - [https://fosteryouth.ucr.edu](https://fosteryouth.ucr.edu)
+ - date_published: 2024-05-07T20:57:06.418302+00:00
+
+ ## Highlander Empowerment Student Services Referendum
+ - [https://hessr.ucr.edu](https://hessr.ucr.edu)
+ - date_published: 2024-05-07T20:56:59.409038+00:00
+
+ ## Inclusion at UCR
+ - [https://inclusion.ucr.edu](https://inclusion.ucr.edu)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Inside UCR | UC Riverside
+ - [https://insideucr.ucr.edu](https://insideucr.ucr.edu)
+ - date_published: 2024-05-07T20:57:44.934793+00:00
+
+ ## Jobs
+ - [https://jobs.ucr.edu](https://jobs.ucr.edu)
+ - date_published: 2024-05-07T20:57:26.431360+00:00
+
+ ## Library
+ - [https://library.ucr.edu](https://library.ucr.edu)
+ - date_published: 2024-05-07T20:57:31.232994+00:00
+
+ ## UCR Magazine
+ - [https://magazine.ucr.edu](https://magazine.ucr.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Department of Mathematics
+ - [http://mathdept.ucr.edu](http://mathdept.ucr.edu)
+ - date_published: 2024-05-07T20:57:41.720908+00:00
+
+ ## https://math.ucr.edu
+ - [https://math.ucr.edu](https://math.ucr.edu)
+ - date_published: 2024-01-09T03:28:05.221200+00:00
+
+ ## Connect with UCR's MESC!
+ - [https://mesc.ucr.edu](https://mesc.ucr.edu)
+ - date_published: 2024-05-07T20:57:35.616451+00:00
+
+ ## Giving
+ - [https://myadv.ucr.edu](https://myadv.ucr.edu)
+ - date_published: 2024-05-07T20:57:39.804859+00:00
+
+ ## Native American Student Programs
+ - [https://nasp.ucr.edu](https://nasp.ucr.edu)
+ - date_published: 2024-05-07T20:57:07.491047+00:00
+
+ ## | News
+ - [https://news.ucr.edu](https://news.ucr.edu)
+ - date_published: 2023-10-25T19:00:55.178548+00:00
+
+ ## Connect with UCR's LGBT Resource Center!
+ - [https://out.ucr.edu](https://out.ucr.edu)
+ - date_published: 2024-05-07T20:56:53.721165+00:00
+
+ ## Student Affairs
+ - [https://studentaffairs.ucr.edu](https://studentaffairs.ucr.edu)
+ - date_published: 2024-05-07T20:57:32.478438+00:00
+
+ ## Get High-Quality Medical Care from Student Health Services
+ - [https://studenthealth.ucr.edu](https://studenthealth.ucr.edu)
+ - date_published: 2024-05-07T20:57:03.745633+00:00
+
+ ## Health, Well-being & Safety
+ - [https://studentwellness.ucr.edu](https://studentwellness.ucr.edu)
+ - date_published: 2024-05-07T20:57:28.220544+00:00
+
+ ## Tobacco Free
+ - [http://tobaccofree.ucr.edu](http://tobaccofree.ucr.edu)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## University of California, Riverside
+ - [https://ucr.edu](https://ucr.edu)
+ - date_published: 2024-05-07T20:57:23.081434+00:00
+
+ ## Undocumented Student Programs
+ - [https://usp.ucr.edu](https://usp.ucr.edu)
+ - date_published: 2024-05-07T20:57:12.406484+00:00
+
+ ## Art of Assembly Language Programming and HLA by Randall Hyde
+ - [http://webster.cs.ucr.edu](http://webster.cs.ucr.edu)
+ - date_published: 2024-04-25T18:39:22.189939+00:00
+
+ ## The Well
+ - [https://well.ucr.edu](https://well.ucr.edu)
+ - date_published: 2024-05-07T20:57:16.479338+00:00
+
+ ## Discover UCR's WRC!
+ - [https://wrc.ucr.edu](https://wrc.ucr.edu)
+ - date_published: 2024-05-07T20:57:05.013766+00:00
+
+ ## University of California, Riverside
+ - [https://www.ucr.edu](https://www.ucr.edu)
+ - date_published: 2024-05-07T20:56:55.248686+00:00
+
+ ## Home | Undergraduate Admissions
+ - [http://admissions.sa.ucsb.edu](http://admissions.sa.ucsb.edu)
+ - date_published: 2024-06-12T15:15:10+00:00
+
+ ## The Agrippa Files
+ - [https://agrippa.english.ucsb.edu](https://agrippa.english.ucsb.edu)
+ - date_published: 2024-01-09T03:28:12.292436+00:00
+
+ ## Home
+ - [https://brand.ucsb.edu](https://brand.ucsb.edu)
+ - date_published: 2024-05-23T21:20:08+00:00
+
+ ## UCSB College of Creative Studies
+ - [https://ccs.ucsb.edu](https://ccs.ucsb.edu)
+ - date_published: 2024-04-29T03:32:44.065533+00:00
+
+ ## College of Engineering - UC Santa Barbara
+ - [https://engineering.ucsb.edu](https://engineering.ucsb.edu)
+ - date_published: 2024-06-13T23:55:26+00:00
+
+ ## UCSB Professional and Continuing Education
+ - [https://extension.ucsb.edu](https://extension.ucsb.edu)
+ - date_published: 2024-06-14T14:39:37.464428+00:00
+
+ ## Giving to the University of California, Santa Barbara
+ - [https://giving.ucsb.edu](https://giving.ucsb.edu)
+ - date_published: 2024-05-07T20:58:47.966068+00:00
+
+ ## Home | Ludkovski
+ - [https://ludkovski.pstat.ucsb.edu](https://ludkovski.pstat.ucsb.edu)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Fall/Winter 2023 Home
+ - [https://magazine.ucsb.edu](https://magazine.ucsb.edu)
+ - date_published: 2024-05-07T20:58:41.991720+00:00
+
+ ## UC Santa Barbara Campus Map
+ - [https://maps.ucsb.edu](https://maps.ucsb.edu)
+ - date_published: 2024-06-14T14:39:06.348042+00:00
+
+ ## UC Santa Barbara Campus Map
+ - [https://map.ucsb.edu](https://map.ucsb.edu)
+ - date_published: 2024-06-14T14:39:08.512610+00:00
+
+ ## MyUCSB Start Page
+ - [https://my.sa.ucsb.edu](https://my.sa.ucsb.edu)
+ - date_published: 2024-06-14T14:39:40.224233+00:00
+
+ ## UC Santa Barbara News & Events | The Current
+ - [https://news.ucsb.edu](https://news.ucsb.edu)
+ - date_published: 2023-10-25T19:00:57.283089+00:00
+
+ ## Home | Department of Recreation
+ - [http://recreation.sa.ucsb.edu](http://recreation.sa.ucsb.edu)
+ - date_published: 2024-06-13T22:25:46+00:00
+
+ ## scg-ucsb
+ - [http://scg.ece.ucsb.edu](http://scg.ece.ucsb.edu)
+ - date_published: 2020-04-08T20:57:24+00:00
+
+ ## Home | Student Life
+ - [https://studentlife.sa.ucsb.edu](https://studentlife.sa.ucsb.edu)
+ - date_published: 2024-05-31T19:10:21+00:00
+
+ ## Home | Title IX Compliance and Discrimination and Harassment Prevention Ofﬁce
+ - [https://titleix.ucsb.edu](https://titleix.ucsb.edu)
+ - date_published: 2024-06-13T18:18:34+00:00
+
+ ## Transcriptions {UCSB English Department Center for Digital Humanities & New Media Studies}
+ - [http://transcriptions.english.ucsb.edu](http://transcriptions.english.ucsb.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## UCSB Undergraduate Research
+ - [https://undergrad.research.ucsb.edu](https://undergrad.research.ucsb.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home | Wellbeing
+ - [https://wellbeing.ucsb.edu](https://wellbeing.ucsb.edu)
+ - date_published: 2024-06-12T19:59:35+00:00
+
+ ## Home
+ - [http://www.alumni.ucsb.edu](http://www.alumni.ucsb.edu)
+ - date_published: 2024-06-11T18:31:02+00:00
+
+ ## Events Calendar
+ - [https://www.campuscalendar.ucsb.edu](https://www.campuscalendar.ucsb.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Center for Financial Mathematics and Actuarial Research - UC Santa Barbara
+ - [http://www.cfmar.pstat.ucsb.edu](http://www.cfmar.pstat.ucsb.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Home | College of Letters & Science
+ - [http://www.college.ucsb.edu](http://www.college.ucsb.edu)
+ - date_published: 2024-05-07T20:58:45.475138+00:00
+
+ ## Home | Institutional Advancement
+ - [https://www.dia.ucsb.edu](https://www.dia.ucsb.edu)
+ - date_published: 2024-05-07T20:58:40.757409+00:00
+
+ ## UCSB English Department
+ - [http://www.english.ucsb.edu](http://www.english.ucsb.edu)
+ - date_published: 2024-05-07T20:58:11.492113+00:00
+
+ ## Home | Graduate Division
+ - [http://www.graddiv.ucsb.edu](http://www.graddiv.ucsb.edu)
+ - date_published: 2024-06-12T23:43:23+00:00
+
+ ## Home | Campus Housing
+ - [http://www.housing.ucsb.edu](http://www.housing.ucsb.edu)
+ - date_published: 2024-06-14T14:39:34.554272+00:00
+
+ ## UCSB Library
+ - [https://www.library.ucsb.edu](https://www.library.ucsb.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## McNair Scholars Program - UC Santa Barbara
+ - [https://www.mcnair.ucsb.edu](https://www.mcnair.ucsb.edu)
+ - date_published: 2024-02-08T22:06:39.602435+00:00
+
+ ## UC Santa Barbara News & Events | The Current
+ - [https://www.news.ucsb.edu](https://www.news.ucsb.edu)
+ - date_published: 2023-10-25T19:00:59.328877+00:00
+
+ ## Home | UC Santa Barbara | Policies & Procedures
+ - [http://www.policy.ucsb.edu](http://www.policy.ucsb.edu)
+ - date_published: 2024-05-07T20:58:49.552323+00:00
+
+ ## Welcome to The American Presidency Project | The American Presidency Project
+ - [https://www.presidency.ucsb.edu](https://www.presidency.ucsb.edu)
+ - date_published: 2024-05-04T05:25:28.570604+00:00
+
+ ## Home | UC Santa Barbara | Privacy
+ - [https://www.privacy.ucsb.edu](https://www.privacy.ucsb.edu)
+ - date_published: 2024-05-07T20:58:43.684216+00:00
+
+ ## Department of Statistics and Applied Probability - UC Santa Barbara
+ - [https://www.pstat.ucsb.edu](https://www.pstat.ucsb.edu)
+ - date_published: 2024-05-07T20:58:20.273983+00:00
+
+ ## Home | Office of Research
+ - [https://www.research.ucsb.edu](https://www.research.ucsb.edu)
+ - date_published: 2024-06-13T20:42:36+00:00
+
+ ## Home | UCSB Summer Sessions
+ - [http://www.summer.ucsb.edu](http://www.summer.ucsb.edu)
+ - date_published: 2024-06-14T14:39:41.577396+00:00
+
+ ## Home
+ - [https://www.ucsb.edu](https://www.ucsb.edu)
+ - date_published: 2024-04-30T15:47:47.439884+00:00
+
+ ## UCSC Academic Affairs
+ - [https://academicaffairs.ucsc.edu](https://academicaffairs.ucsc.edu)
+ - date_published: 2024-05-07T20:59:53.699414+00:00
+
+ ## ALT Games Lab – Alternative Learning Technologies and Games Lab
+ - [https://altgameslab.soe.ucsc.edu](https://altgameslab.soe.ucsc.edu)
+ - date_published: 2024-05-04T15:17:38.418725+00:00
+
+ ## The Ramirez Lab – This site describes the people, facilities, and research being pursued in Art Ramirez's lab
+ - [https://aprlab.sites.ucsc.edu](https://aprlab.sites.ucsc.edu)
+ - date_published: 2024-05-07T15:14:35.485550+00:00
+
+ ## Events Calendar - Events at UC Santa Cruz
+ - [https://calendar.ucsc.edu](https://calendar.ucsc.edu)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Digital Karnak – University of California Santa Cruz
+ - [https://digitalkarnak.ucsc.edu](https://digitalkarnak.ucsc.edu)
+ - date_published: 2024-05-09T06:06:44.060160+00:00
+
+ ## Home Page | EIS
+ - [https://eis.ucsc.edu](https://eis.ucsc.edu)
+ - date_published: 2024-05-04T15:17:34.362396+00:00
+
+ ## UC Santa Cruz - Earth & Planetary Sciences
+ - [http://eps.ucsc.edu](http://eps.ucsc.edu)
+ - date_published: 2024-05-07T20:59:32.734118+00:00
+
+ ## UC Santa Cruz Financial Aid Office
+ - [http://financialaid.ucsc.edu](http://financialaid.ucsc.edu)
+ - date_published: 2024-05-07T21:00:16.333368+00:00
+
+ ## Division of Graduate Studies
+ - [http://graddiv.ucsc.edu](http://graddiv.ucsc.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Inquiry @ UC Santa Cruz
+ - [https://inquiry.ucsc.edu](https://inquiry.ucsc.edu)
+ - date_published: 2024-05-07T21:00:10.499147+00:00
+
+ ## UC Santa Cruz - Information Technology Services
+ - [https://its.ucsc.edu](https://its.ucsc.edu)
+ - date_published: 2024-05-07T20:59:42.623589+00:00
+
+ ## Home | Kavli Summer Program in Astrophysics
+ - [https://kspa.soe.ucsc.edu](https://kspa.soe.ucsc.edu)
+ - date_published: 2021-12-12T00:00:00+00:00
+
+ ## UC Santa Cruz Magazine
+ - [https://magazine.ucsc.edu](https://magazine.ucsc.edu)
+ - date_published: 2024-05-07T20:59:39.177672+00:00
+
+ ## MyUCSC redirect to Login Page
+ - [https://my.ucsc.edu](https://my.ucsc.edu)
+ - date_published: 2024-05-07T20:59:57.113876+00:00
+
+ ## University News & Events
+ - [https://news.ucsc.edu](https://news.ucsc.edu)
+ - date_published: 2023-10-25T19:01:04.525669+00:00
+
+ ## Physics Redirection page
+ - [http://physics.ucsc.edu](http://physics.ucsc.edu)
+ - date_published: 2024-05-07T20:59:13.024174+00:00
+
+ ## AIS PISA Application Services
+ - [https://pisa.ucsc.edu](https://pisa.ucsc.edu)
+ - date_published: 2024-05-07T21:00:21.950420+00:00
+
+ ## Privacy & Information Practices Department
+ - [https://privacy.ucsc.edu](https://privacy.ucsc.edu)
+ - date_published: 2024-04-30T05:50:19.456117+00:00
+
+ ## UCSC Special Reports
+ - [https://reports.news.ucsc.edu](https://reports.news.ucsc.edu)
+ - date_published: 2024-05-07T21:00:02.527977+00:00
+
+ ## UCSC Faculty Website Service
+ - [https://sites.ucsc.edu](https://sites.ucsc.edu)
+ - date_published: 2024-05-07T21:00:04.682580+00:00
+
+ ## Summer Session
+ - [http://summer.ucsc.edu](http://summer.ucsc.edu)
+ - date_published: 2024-05-07T21:00:13.683129+00:00
+
+ ## Toolkit | Your Science Intranet
+ - [https://toolkit.science.ucsc.edu](https://toolkit.science.ucsc.edu)
+ - date_published: 2024-05-07T21:00:07.441148+00:00
+
+ ## Veronica Terriquez – Associate Professor of Sociology
+ - [https://vterriquez.sites.ucsc.edu](https://vterriquez.sites.ucsc.edu)
+ - date_published: 2024-02-08T18:45:33.632313+00:00
+
+ ## Web Assets
+ - [https://webassets.ucsc.edu](https://webassets.ucsc.edu)
+ - date_published: 2024-05-07T20:59:58.077369+00:00
+
+ ## Baskin School of Engineering – Baskin Engineering provides unique educational opportunities, world-class research with an eye to social responsibility and diversity.
+ - [http://www.ams.ucsc.edu](http://www.ams.ucsc.edu)
+ - date_published: 2024-05-07T20:59:10.632585+00:00
+
+ ## Astronomy and Astrophysics
+ - [http://www.astro.ucsc.edu](http://www.astro.ucsc.edu)
+ - date_published: 2024-05-07T20:59:35.539856+00:00
+
+ ## UC Santa Cruz - Ecology & Evolutionary Biology
+ - [https://www.eeb.ucsc.edu](https://www.eeb.ucsc.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## UC Santa Cruz – A world-class public research institution comprised of ten residential college communities nestled in the redwood forests and meadows overlooking central California's Monterey Bay.
+ - [https://www.ucsc.edu](https://www.ucsc.edu)
+ - date_published: 2024-05-07T20:59:43.491454+00:00
+
+ ## Accessibility
+ - [https://accessibility.ucsd.edu](https://accessibility.ucsd.edu)
+ - date_published: 2024-05-07T21:00:49.158678+00:00
+
+ ## Accreditation
+ - [https://accreditation.ucsd.edu](https://accreditation.ucsd.edu)
+ - date_published: 2024-03-26T19:41:22+00:00
+
+ ## Admissions
+ - [https://admissions.ucsd.edu](https://admissions.ucsd.edu)
+ - date_published: 2024-06-11T19:06:51+00:00
+
+ ## Advancement
+ - [https://advancement.ucsd.edu](https://advancement.ucsd.edu)
+ - date_published: 2024-04-12T23:23:12+00:00
+
+ ## Home | Artificial Intelligence
+ - [https://ai.ucsd.edu](https://ai.ucsd.edu)
+ - date_published: 2024-05-07T21:00:47.190968+00:00
+
+ ## UC San Diego Alumni Home
+ - [https://alumni.ucsd.edu](https://alumni.ucsd.edu)
+ - date_published: 2024-06-13T23:27:49+00:00
+
+ ## Home - Epstein Family Amphitheater
+ - [https://amphitheater.ucsd.edu](https://amphitheater.ucsd.edu)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## ArtPower
+ - [https://artpower.ucsd.edu](https://artpower.ucsd.edu)
+ - date_published: 2024-05-11T07:09:24.396175+00:00
+
+ ## School of Arts and Humanities
+ - [https://artsandhumanities.ucsd.edu](https://artsandhumanities.ucsd.edu)
+ - date_published: 2024-05-07T21:07:20.815141+00:00
+
+ ## Biological Sciences
+ - [https://biology.ucsd.edu](https://biology.ucsd.edu)
+ - date_published: 2024-05-07T21:01:48.889985+00:00
+
+ ## Blink: Information for UC San Diego Faculty & Staff
+ - [https://blink.ucsd.edu](https://blink.ucsd.edu)
+ - date_published: 2024-06-12T01:31:50+00:00
+
+ ## Home | UC San Diego Event Calendar
+ - [https://calendar.ucsd.edu](https://calendar.ucsd.edu)
+ - date_published: 2024-05-07T21:02:13.196489+00:00
+
+ ## Giving
+ - [https://campaign.ucsd.edu](https://campaign.ucsd.edu)
+ - date_published: 2024-06-05T18:05:18+00:00
+
+ ## SINGLE SIGN-ON
+ - [https://canvas.ucsd.edu](https://canvas.ucsd.edu)
+ - date_published: 2024-05-04T15:27:04.127461+00:00
+
+ ## Career Center
+ - [https://career.ucsd.edu](https://career.ucsd.edu)
+ - date_published: 2024-04-08T14:36:08+00:00
+
+ ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+ - [https://cdn.ucsd.edu](https://cdn.ucsd.edu)
+ - date_published: 2023-04-28T16:52:29+00:00
+
+ ## Office of the Chancellor
+ - [https://chancellor.ucsd.edu](https://chancellor.ucsd.edu)
+ - date_published: 2024-06-07T19:25:28+00:00
+
+ ## Cog Sci
+ - [https://cogsci.ucsd.edu](https://cogsci.ucsd.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## UC San Diego Commencement
+ - [https://commencement.ucsd.edu](https://commencement.ucsd.edu)
+ - date_published: 2024-06-16T14:32:14+00:00
+
+ ## Welcome to Contextual Robotics Institute | Contextual Robotics Institute
+ - [https://contextualrobotics.ucsd.edu](https://contextualrobotics.ucsd.edu)
+ - date_published: 2024-05-04T15:43:44.384148+00:00
+
+ ## CoralNet
+ - [https://coralnet.ucsd.edu](https://coralnet.ucsd.edu)
+ - date_published: 2024-06-13T17:54:35.315107+00:00
+
+ ## CSE 35th Anniversary
+ - [https://cse35.ucsd.edu](https://cse35.ucsd.edu)
+ - date_published: 2024-05-07T21:00:29.549788+00:00
+
+ ## CSE Annual Report
+ - [https://cse-annual-report.ucsd.edu](https://cse-annual-report.ucsd.edu)
+ - date_published: 2024-05-07T21:00:36.116463+00:00
+
+ ## CSE Research Open House| UC San Diego
+ - [http://cseopenhouse.ucsd.edu](http://cseopenhouse.ucsd.edu)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Home | Computer Science
+ - [https://cse.ucsd.edu](https://cse.ucsd.edu)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Home | Computer Science
+ - [https://cseweb.ucsd.edu](https://cseweb.ucsd.edu)
+ - date_published: 2023-10-25T19:01:08.426811+00:00
+
+ ## Home - Halıcıoğlu Data Science Institute - UC San Diego
+ - [https://datascience.ucsd.edu](https://datascience.ucsd.edu)
+ - date_published: 2022-01-28T19:27:27+00:00
+
+ ## Digital Learning
+ - [https://digitallearning.ucsd.edu](https://digitallearning.ucsd.edu)
+ - date_published: 2024-04-25T17:24:37+00:00
+
+ ## Disability Resources
+ - [http://disabilities.ucsd.edu](http://disabilities.ucsd.edu)
+ - date_published: 2024-05-07T21:07:27.966600+00:00
+
+ ## Office for Equity, Diversity, and Inclusion
+ - [https://diversity.ucsd.edu](https://diversity.ucsd.edu)
+ - date_published: 2024-04-25T20:48:20+00:00
+ - tags: ['dei']
+
+ ## Do the Math | Using physics and estimation to assess energy, growth, options—by Tom Murphy
+ - [https://dothemath.ucsd.edu](https://dothemath.ucsd.edu)
+ - date_published: 2023-10-25T19:01:13.139500+00:00
+
+ ## Home | Electrical and Computer Engineering
+ - [http://ece.ucsd.edu](http://ece.ucsd.edu)
+ - date_published: 2024-05-07T21:01:11.880265+00:00
+
+ ## Careers at UC San Diego
+ - [https://employment.ucsd.edu](https://employment.ucsd.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## UC San Diego Division of Extended Studies | Continuing Education
+ - [https://extendedstudies.ucsd.edu](https://extendedstudies.ucsd.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## UC San Diego Division of Extended Studies | Continuing Education
+ - [https://extension.ucsd.edu](https://extension.ucsd.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Center for Faculty Diversity and Inclusion
+ - [http://facultydiversity.ucsd.edu](http://facultydiversity.ucsd.edu)
+ - date_published: 2024-05-07T18:11:54+00:00
+
+ ## Financial Aid & Scholarships
+ - [https://fas.ucsd.edu](https://fas.ucsd.edu)
+ - date_published: 2024-06-13T17:27:40+00:00
+
+ ## https://fmeyer.ucsd.edu
+ - [https://fmeyer.ucsd.edu](https://fmeyer.ucsd.edu)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## UC San Diego Foundation
+ - [https://foundation.ucsd.edu](https://foundation.ucsd.edu)
+ - date_published: 2024-05-24T23:30:49+00:00
+
+ ## Giving
+ - [https://giving.ucsd.edu](https://giving.ucsd.edu)
+ - date_published: 2024-06-05T18:05:18+00:00
+
+ ## Index of /
+ - [https://goto.ucsd.edu](https://goto.ucsd.edu)
+ - date_published: 2023-10-25T19:01:14.176997+00:00
+
+ ## School of Global Policy and Strategy
+ - [https://gps.ucsd.edu](https://gps.ucsd.edu)
+ - date_published: 2024-05-07T21:01:58.215434+00:00
+
+ ## Grad Ed & Postdoc Affrs
+ - [https://grad.ucsd.edu](https://grad.ucsd.edu)
+ - date_published: 2024-05-07T21:07:25.397224+00:00
+
+ ## UC San Diego Health | San Diego Hospital, Healthcare
+ - [https://health.ucsd.edu](https://health.ucsd.edu)
+ - date_published: 2024-06-16T21:57:30.228377+00:00
+
+ ## Herbgrind analyzes binaries to find inaccurate floating point expressions
+ - [https://herbgrind.ucsd.edu](https://herbgrind.ucsd.edu)
+ - date_published: 2024-02-26T22:35:09+00:00
+
+ ## UC San Diego Herbert Wertheim School of Public Health and Human Longevity Science
+ - [https://hwsph.ucsd.edu](https://hwsph.ucsd.edu)
+ - date_published: 2024-05-07T21:07:30.231970+00:00
+
+ ## Information Theory and Applications Workshop
+ - [https://ita.ucsd.edu](https://ita.ucsd.edu)
+ - date_published: 2024-05-04T15:43:42.162848+00:00
+
+ ## Home | Jacobs School of Engineering
+ - [https://jacobsschool.ucsd.edu](https://jacobsschool.ucsd.edu)
+ - date_published: 2024-05-07T21:07:44.469671+00:00
+
+ ## Welcome to KIBM | Kavli Institute for Brain & Mind
+ - [https://kibm.ucsd.edu](https://kibm.ucsd.edu)
+ - date_published: 2024-02-08T17:58:45.152063+00:00
+
+ ## UC San Diego Library Home Page
+ - [https://library.ucsd.edu](https://library.ucsd.edu)
+ - date_published: 2024-06-16T07:01:08+00:00
+
+ ## Index of /
+ - [https://mathweb.ucsd.edu](https://mathweb.ucsd.edu)
+ - date_published: 2024-05-06T22:45:49.583465+00:00
+
+ ## UC San Diego School of Medicine
+ - [https://medschool.ucsd.edu](https://medschool.ucsd.edu)
+ - date_published: 2024-05-07T21:07:32.978621+00:00
+
+ ## Miller Puckette
+ - [https://msp.ucsd.edu](https://msp.ucsd.edu)
+ - date_published: 2024-01-09T03:28:22.857191+00:00
+
+ ## Philip Guo - UC San Diego
+ - [https://pg.ucsd.edu](https://pg.ucsd.edu)
+ - date_published: 2024-05-07T14:57:24.157789+00:00
+
+ ## Home | Pharmacogenomics
+ - [https://pharmacogenomics.ucsd.edu](https://pharmacogenomics.ucsd.edu)
+ - date_published: 2024-02-08T16:21:07.592803+00:00
+
+ ## Home | Skaggs School of Pharmacy and Pharmaceutical Sciences
+ - [https://pharmacy.ucsd.edu](https://pharmacy.ucsd.edu)
+ - date_published: 2024-05-07T21:02:18.473109+00:00
+
+ ## School of Physical Sciences
+ - [https://physicalsciences.ucsd.edu](https://physicalsciences.ucsd.edu)
+ - date_published: 2024-05-07T21:07:39.195102+00:00
+
+ ## Home | Department of Physics
+ - [http://physics.ucsd.edu](http://physics.ucsd.edu)
+ - date_published: 2024-05-07T15:17:04.240347+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [http://pisa.ucsd.edu](http://pisa.ucsd.edu)
+ - date_published: 2024-05-01T08:47:32.993150+00:00
+
+ ## Police Department
+ - [https://police.ucsd.edu](https://police.ucsd.edu)
+ - date_published: 2024-05-07T21:00:32.062479+00:00
+
+ ## Rady School of Management
+ - [https://rady.ucsd.edu](https://rady.ucsd.edu)
+ - date_published: 2024-05-07T21:07:46.518473+00:00
+
+ ## Scripps Institution of Oceanography
+ - [https://scripps.ucsd.edu](https://scripps.ucsd.edu)
+ - date_published: 2024-05-07T21:01:41.337120+00:00
+
+ ## School of Social Sciences
+ - [http://socialsciences.ucsd.edu](http://socialsciences.ucsd.edu)
+ - date_published: 2024-05-07T21:07:41.621478+00:00
+
+ ## SPACES: REDEFINING EMPOWERMENT
+ - [http://spaces.ucsd.edu](http://spaces.ucsd.edu)
+ - date_published: 2024-05-12T03:54:55.373344+00:00
+
+ ## Current Students
+ - [https://students.ucsd.edu](https://students.ucsd.edu)
+ - date_published: 2024-06-15T07:00:59+00:00
+
+ ## Study Abroad
+ - [https://studyabroad.ucsd.edu](https://studyabroad.ucsd.edu)
+ - date_published: 2024-05-02T18:35:35+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [http://terrano.ucsd.edu](http://terrano.ucsd.edu)
+ - date_published: 2024-05-04T15:43:45.661503+00:00
+
+ ## Tom Murphy
+ - [https://tmurphy.physics.ucsd.edu](https://tmurphy.physics.ucsd.edu)
+ - date_published: 2024-05-07T21:00:52.342444+00:00
+
+ ## UC San Diego Today
+ - [https://today.ucsd.edu](https://today.ucsd.edu)
+ - date_published: 2023-12-18T14:34:21.556636+00:00
+
+ ## University of California San Diego
+ - [https://ucsd.edu](https://ucsd.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## UC San Diego Today
+ - [https://ucsdnews.ucsd.edu](https://ucsdnews.ucsd.edu)
+ - date_published: 2024-01-09T03:28:28.295212+00:00
+
+ ## Undergraduate Education
+ - [https://undergrad.ucsd.edu](https://undergrad.ucsd.edu)
+ - date_published: 2024-05-07T21:07:23.201886+00:00
+
+ ## University Communications
+ - [https://univcomms.ucsd.edu](https://univcomms.ucsd.edu)
+ - date_published: 2024-05-07T21:02:06.679262+00:00
+
+ ## UC San Diego Updates
+ - [https://updates.ucsd.edu](https://updates.ucsd.edu)
+ - date_published: 2024-06-06T15:25:24+00:00
+
+ ## Cog Sci
+ - [http://www.cogsci.ucsd.edu](http://www.cogsci.ucsd.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Home | Electrical and Computer Engineering
+ - [https://www.ece.ucsd.edu](https://www.ece.ucsd.edu)
+ - date_published: 2024-05-04T15:43:54.769842+00:00
+
+ ## Mathematical Neuroscience Lab
+ - [http://www.silva.ucsd.edu](http://www.silva.ucsd.edu)
+ - date_published: 2024-05-07T21:01:46.744170+00:00
+
+ ## University of California San Diego
+ - [https://www.ucsd.edu](https://www.ucsd.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Events Calendar
+ - [https://calendar.ucsf.edu](https://calendar.ucsf.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Campus Life Services | Campus Life Services
+ - [https://campuslifeserviceshome.ucsf.edu](https://campuslifeserviceshome.ucsf.edu)
+ - date_published: 2024-05-07T21:08:30.121576+00:00
+
+ ## Campus Life Services
+ - [https://campuslifeservices.ucsf.edu](https://campuslifeservices.ucsf.edu)
+ - date_published: 2024-05-07T21:07:51.271045+00:00
+
+ ## Home
+ - [https://career.ucsf.edu](https://career.ucsf.edu)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Welcome to the General Catalog of the University of California, San Francisco | UC San Francisco
+ - [https://catalog.ucsf.edu](https://catalog.ucsf.edu)
+ - date_published: 2024-05-07T21:09:22.619700+00:00
+
+ ## Home | Office of the Chancellor
+ - [https://chancellor.ucsf.edu](https://chancellor.ucsf.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Clinical Trials at UCSF
+ - [https://clinicaltrials.ucsf.edu](https://clinicaltrials.ucsf.edu)
+ - date_published: 2024-05-07T21:09:34.197296+00:00
+
+ ## COVID-19 Resources
+ - [https://coronavirus.ucsf.edu](https://coronavirus.ucsf.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home | School of Dentistry
+ - [http://dentistry.ucsf.edu](http://dentistry.ucsf.edu)
+ - date_published: 2024-05-07T21:09:37.870275+00:00
+
+ ## UCSF Directory
+ - [https://directory.ucsf.edu](https://directory.ucsf.edu)
+ - date_published: 2024-05-07T21:09:41.945405+00:00
+
+ ## Homepage | Office of Diversity and Outreach UCSF
+ - [https://diversity.ucsf.edu](https://diversity.ucsf.edu)
+ - date_published: 2024-05-07T21:09:29.897306+00:00
+
+ ## Sign In
+ - [https://email.ucsf.edu](https://email.ucsf.edu)
+ - date_published: 2024-05-07T21:09:17.604072+00:00
+
+ ## EVCP Organization | Executive Vice Chancellor & Provost
+ - [https://evcprovost.ucsf.edu](https://evcprovost.ucsf.edu)
+ - date_published: 2024-05-07T21:09:06.650556+00:00
+
+ ## About Our Services
+ - [https://fas.ucsf.edu](https://fas.ucsf.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## UCSF Student Financial Services
+ - [https://finaid.ucsf.edu](https://finaid.ucsf.edu)
+ - date_published: 2024-05-07T21:08:08.320300+00:00
+
+ ## Your gift can ignite discovery and inspire cures
+ - [https://giving.ucsf.edu](https://giving.ucsf.edu)
+ - date_published: 2024-05-07T21:08:41.367080+00:00
+
+ ## UCSF Institute for Global Health Sciences | Institute for Global Health Sciences
+ - [https://globalhealthsciences.ucsf.edu](https://globalhealthsciences.ucsf.edu)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## UC San Francisco Graduate Division
+ - [https://graduate.ucsf.edu](https://graduate.ucsf.edu)
+ - date_published: 2024-05-07T21:09:36.451286+00:00
+
+ ## UCSF Human Resources | UCSF Human Resources
+ - [https://hr.ucsf.edu](https://hr.ucsf.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home
+ - [https://identity.ucsf.edu](https://identity.ucsf.edu)
+ - date_published: 2024-05-07T21:09:27.329315+00:00
+
+ ## About Us
+ - [https://innovation.ucsf.edu](https://innovation.ucsf.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home | UCSF IT
+ - [https://it.ucsf.edu](https://it.ucsf.edu)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Office of Legal Affairs
+ - [https://legal.ucsf.edu](https://legal.ucsf.edu)
+ - date_published: 2024-05-07T21:09:13.745970+00:00
+
+ ## UCSF Magazine
+ - [https://magazine.ucsf.edu](https://magazine.ucsf.edu)
+ - date_published: 2024-05-07T21:09:44.345297+00:00
+
+ ## Home | UCSF School of Medicine
+ - [https://medschool.ucsf.edu](https://medschool.ucsf.edu)
+ - date_published: 2024-05-07T21:09:09.026443+00:00
+
+ ## University of California, San Francisco - MyAccess - Loading Session Information
+ - [https://myaccess.ucsf.edu](https://myaccess.ucsf.edu)
+ - date_published: 2024-05-07T21:08:39.463840+00:00
+
+ ## Home
+ - [http://nic.ucsf.edu](http://nic.ucsf.edu)
+ - date_published: 2024-05-02T10:08:50.424455+00:00
+
+ ## Home | UCSF School of Nursing
+ - [https://nursing.ucsf.edu](https://nursing.ucsf.edu)
+ - date_published: 2024-05-07T21:09:24.970801+00:00
+
+ ## UCSF School of Pharmacy
+ - [https://pharmacy.ucsf.edu](https://pharmacy.ucsf.edu)
+ - date_published: 2024-05-07T21:08:11.071638+00:00
+
+ ## Home
+ - [https://police.ucsf.edu](https://police.ucsf.edu)
+ - date_published: 2024-05-07T21:08:45.814832+00:00
+
+ ## Home | Campus Administrative Policies
+ - [https://policies.ucsf.edu](https://policies.ucsf.edu)
+ - date_published: 2024-05-07T21:08:12.703899+00:00
+
+ ## UCSF Postdocs
+ - [https://postdocs.ucsf.edu](https://postdocs.ucsf.edu)
+ - date_published: 2024-05-07T21:08:43.275417+00:00
+
+ ## UCSF Profiles • Find/collaborate with leading health researchers
+ - [https://profiles.ucsf.edu](https://profiles.ucsf.edu)
+ - date_published: 2024-05-07T21:08:27.094538+00:00
+
+ ## UCSF Department of Psychiatry and Behavioral Sciences
+ - [https://psych.ucsf.edu](https://psych.ucsf.edu)
+ - date_published: 2024-05-07T21:08:51.999465+00:00
+
+ ## HomePage
+ - [https://registrar.ucsf.edu](https://registrar.ucsf.edu)
+ - date_published: 2024-05-07T21:08:54.318403+00:00
+
+ ## Home
+ - [https://research.ucsf.edu](https://research.ucsf.edu)
+ - date_published: 2024-05-07T21:09:46.218415+00:00
+
+ ## HOME
+ - [https://success.ucsf.edu](https://success.ucsf.edu)
+ - date_published: 2024-05-07T21:07:48.715308+00:00
+
+ ## Home | UCSF Together
+ - [https://together.ucsf.edu](https://together.ucsf.edu)
+ - date_published: 2024-05-07T21:07:53.774272+00:00
+
+ ## Homepage
+ - [https://websites.ucsf.edu](https://websites.ucsf.edu)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Home - UCSF Library
+ - [https://www.library.ucsf.edu](https://www.library.ucsf.edu)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Home | UC San Francisco
+ - [https://www.ucsf.edu](https://www.ucsf.edu)
+ - date_published: 2023-10-25T19:01:18.504331+00:00
+
+ ## Home
+ - [https://gradweb.ucumberlands.edu](https://gradweb.ucumberlands.edu)
+ - date_published: 2024-02-08T17:58:04.593788+00:00
+
+ ## Home
+ - [https://www.ucumberlands.edu](https://www.ucumberlands.edu)
+ - date_published: 2024-05-07T21:10:08.991388+00:00
+
+ ## Events Calendar
+ - [https://calendar.udallas.edu](https://calendar.udallas.edu)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## University of Dallas News - American Council of Trustees and Alumni
+ - [https://news.udallas.edu](https://news.udallas.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## University of Dallas - The Catholic University for Independent Thinkers
+ - [https://udallas.edu](https://udallas.edu)
+ - date_published: 2024-05-01T03:33:02.211564+00:00
+
+ ## Events Calendar - University of Delaware
+ - [https://events.udel.edu](https://events.udel.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## University of Delaware Graduate College | Graduate College | University of Delaware
+ - [http://grad.udel.edu](http://grad.udel.edu)
+ - date_published: 2024-05-07T21:10:33.985298+00:00
+
+ ## UD Library, Museums and Press
+ - [https://library.udel.edu](https://library.udel.edu)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## My UD
+ - [https://my.udel.edu](https://my.udel.edu)
+ - date_published: 2024-05-07T21:10:20.790392+00:00
+
+ ## Online Degree Programs | University of Delaware
+ - [http://online.udel.edu](http://online.udel.edu)
+ - date_published: 2024-05-07T21:10:28.553956+00:00
+
+ ## University of Delaware Research Office
+ - [https://research.udel.edu](https://research.udel.edu)
+ - date_published: 2024-05-07T21:10:45.959700+00:00
+
+ ## WordPress at UD |
+ - [https://sites.udel.edu](https://sites.udel.edu)
+ - date_published: 2024-05-07T21:10:31.254051+00:00
+
+ ## University of Delaware
+ - [https://udel.edu](https://udel.edu)
+ - date_published: 2023-12-23T17:33:38.138635+00:00
+
+ ## University of Delaware
+ - [https://www1.udel.edu](https://www1.udel.edu)
+ - date_published: 2024-05-07T21:10:24.567419+00:00
+
+ ## Home - Advising Central
+ - [https://www.advising.udel.edu](https://www.advising.udel.edu)
+ - date_published: 2024-05-07T21:10:50.020124+00:00
+
+ ## ECE/CIS
+ - [https://www.eecis.udel.edu](https://www.eecis.udel.edu)
+ - date_published: 2024-05-24T22:39:08.772559+00:00
+
+ ## Home - University of Delaware Div. of Professional and Continuing Studies
+ - [http://www.pcs.udel.edu](http://www.pcs.udel.edu)
+ - date_published: 2024-05-07T21:10:35.232512+00:00
+
+ ## University of Delaware
+ - [https://www.udel.edu](https://www.udel.edu)
+ - date_published: 2024-05-07T21:10:13.929818+00:00
+
+ ## Accessibility at UF
+ - [https://accessibility.ufl.edu](https://accessibility.ufl.edu)
+ - date_published: 2024-05-07T21:11:08.489230+00:00
+
+ ## Agricultural Education and Communication - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://aec.ifas.ufl.edu](https://aec.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:21.398370+00:00
+
+ ## Welcome
+ - [https://asq.africa.ufl.edu](https://asq.africa.ufl.edu)
+ - date_published: 2024-05-08T10:03:56.364600+00:00
+
+ ## UF/IFAS Blogs Homepage - What's Happening Around Florida
+ - [https://blogs.ifas.ufl.edu](https://blogs.ifas.ufl.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## College of Agricultural and Life Sciences - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [http://cals.ufl.edu](http://cals.ufl.edu)
+ - date_published: 2024-06-16T22:50:43.417250+00:00
+
+ ## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
+ - [https://cam.mbi.ufl.edu](https://cam.mbi.ufl.edu)
+ - date_published: 2023-10-25T19:01:26.632166+00:00
+
+ ## Liao Lab »  » University of Florida
+ - [https://com-acb-liao.sites.medinfo.ufl.edu](https://com-acb-liao.sites.medinfo.ufl.edu)
+ - date_published: 2024-05-07T21:11:31.450474+00:00
+
+ ## Ask IFAS - Powered by EDIS
+ - [https://edis.ifas.ufl.edu](https://edis.ifas.ufl.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## University of Florida Experts | Search & Connect
+ - [https://experts.ufl.edu](https://experts.ufl.edu)
+ - date_published: 2024-05-07T21:11:34.496371+00:00
+
+ ## UF/IFAS Extension Administration - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://extadmin.ifas.ufl.edu](https://extadmin.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:35.898558+00:00
+
+ ## ArchivesSpace Public Interface | Special & Area Studies Collections
+ - [https://findingaids.uflib.ufl.edu](https://findingaids.uflib.ufl.edu)
+ - date_published: 2024-06-14T04:11:54.363246+00:00
+
+ ## Florida SeaGrant Programs - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [http://flseagrant.ifas.ufl.edu](http://flseagrant.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:29.562040+00:00
+
+ ## Food and Resource Economics Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://fred.ifas.ufl.edu](https://fred.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:33.872122+00:00
+
+ ## Gulf Coast Research and Education Center - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [http://gcrec.ifas.ufl.edu](http://gcrec.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:31.793095+00:00
+
+ ## IFAS Communications - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://ics.ifas.ufl.edu](https://ics.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:23.630749+00:00
+
+ ## Home
+ - [https://ifasbooks.ifas.ufl.edu](https://ifasbooks.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:27.774795+00:00
+
+ ## Institute of Food and Agricultural Sciences - University of Florida
+ - [https://ifas.ufl.edu](https://ifas.ufl.edu)
+ - date_published: 2024-06-14T23:31:44.295638+00:00
+
+ ## Liao Lab »  » University of Florida
+ - [https://liao.acb.med.ufl.edu](https://liao.acb.med.ufl.edu)
+ - date_published: 2024-02-08T16:20:48.739035+00:00
+
+ ## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
+ - [https://mbi-cam.sites.medinfo.ufl.edu](https://mbi-cam.sites.medinfo.ufl.edu)
+ - date_published: 2024-05-07T21:11:06.799717+00:00
+
+ ## McKnight Brain Institute » University of Florida
+ - [https://mbi.ufl.edu](https://mbi.ufl.edu)
+ - date_published: 2024-05-07T21:11:20.615371+00:00
+
+ ## Department of Neuroscience » College of Medicine » University of Florida
+ - [https://neuroscience.ufl.edu](https://neuroscience.ufl.edu)
+ - date_published: 2024-05-07T21:11:17.576118+00:00
+
+ ## Home - News - University of Florida
+ - [https://news.ufl.edu](https://news.ufl.edu)
+ - date_published: 2024-01-04T17:18:14.446846+00:00
+
+ ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
+ - [https://phhp.ufl.edu](https://phhp.ufl.edu)
+ - date_published: 2024-05-07T21:10:59.230316+00:00
+
+ ## http://plaza.ufl.edu
+ - [http://plaza.ufl.edu](http://plaza.ufl.edu)
+ - date_published: 2023-10-25T19:01:27.333883+00:00
+
+ ## Privacy » University of Florida
+ - [http://privacy.ufl.edu](http://privacy.ufl.edu)
+ - date_published: 2024-05-07T21:11:12.619267+00:00
+
+ ## Research - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [http://research.ifas.ufl.edu](http://research.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:40.362339+00:00
+
+ ## Research Activities » College of Public Health and Health Professions » University of Florida
+ - [https://research.phhp.ufl.edu](https://research.phhp.ufl.edu)
+ - date_published: 2024-05-07T21:10:54.372575+00:00
+
+ ## Search » University of Florida
+ - [http://search.ufl.edu](http://search.ufl.edu)
+ - date_published: 2024-05-07T21:11:36.945840+00:00
+
+ ## Information Security – University of Florida
+ - [https://security.ufl.edu](https://security.ufl.edu)
+ - date_published: 2024-05-07T21:10:52.267199+00:00
+
+ ## Solutions For Your Life - Real Solutions for Real Life
+ - [http://sfyl.ifas.ufl.edu](http://sfyl.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:19.568229+00:00
+
+ ## Web Services » UF Health » University of Florida
+ - [https://sites.medinfo.ufl.edu](https://sites.medinfo.ufl.edu)
+ - date_published: 2024-05-07T21:11:23.235964+00:00
+
+ ## Home
+ - [https://ufl.edu](https://ufl.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## J. Crayton Pruitt Family Department of Biomedical Engineering – University of Florida
+ - [https://www.bme.ufl.edu](https://www.bme.ufl.edu)
+ - date_published: 2024-05-07T21:11:14.981767+00:00
+
+ ## Florida Museum
+ - [https://www.floridamuseum.ufl.edu](https://www.floridamuseum.ufl.edu)
+ - date_published: 2023-11-09T19:00:22.567256+00:00
+
+ ## Food and Resource Economics Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [http://www.fred.ifas.ufl.edu](http://www.fred.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:45.878411+00:00
+
+ ## University of Florida Advancement
+ - [https://www.uff.ufl.edu](https://www.uff.ufl.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Home
+ - [https://www.ufl.edu](https://www.ufl.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Events Calendar
+ - [https://calendar.uga.edu](https://calendar.uga.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## CTL SITES
+ - [https://ctlsites.uga.edu](https://ctlsites.uga.edu)
+ - date_published: 2024-05-08T05:47:13.179862+00:00
+
+ ## Home - Carl Vinson Institute of Government
+ - [https://cviog.uga.edu](https://cviog.uga.edu)
+ - date_published: 2024-05-07T21:12:53.258501+00:00
+
+ ## https://digilab.libs.uga.edu
+ - [https://digilab.libs.uga.edu](https://digilab.libs.uga.edu)
+ - date_published: 2024-01-09T03:28:33.119214+00:00
+
+ ## Home - UGA Student Affairs
+ - [http://dos.uga.edu](http://dos.uga.edu)
+ - date_published: 2024-05-07T21:11:50.660759+00:00
+
+ ## Home | Enterprise Information Technology Services
+ - [https://eits.uga.edu](https://eits.uga.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## ERROR: HTTP 403
+ - [https://estore.uga.edu](https://estore.uga.edu)
+ - date_published: 2024-05-07T21:11:40.385219+00:00
+
+ ## Extension | UGA Cooperative Extension
+ - [https://extension.uga.edu](https://extension.uga.edu)
+ - date_published: 2006-06-07T00:00:00+00:00
+
+ ## Give to UGA for a Better Tomorrow - Support the Future of Georgia
+ - [https://give.uga.edu](https://give.uga.edu)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Division of Marketing & Communications, University of Georgia
+ - [http://mc.uga.edu](http://mc.uga.edu)
+ - date_published: 2024-05-07T21:11:41.782223+00:00
+
+ ## MyUGA: Welcome
+ - [https://my.uga.edu](https://my.uga.edu)
+ - date_published: 2024-05-07T21:11:53.881319+00:00
+
+ ## National Center for Home Food Preservation
+ - [https://nchfp.uga.edu](https://nchfp.uga.edu)
+ - date_published: 2023-11-01T08:43:32.942121+00:00
+
+ ## UGA Today - Today’s top news from the University of Georgia
+ - [https://news.uga.edu](https://news.uga.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Athena Homepage
+ - [https://oasisweb.uga.edu](https://oasisweb.uga.edu)
+ - date_published: 2024-05-07T21:12:29.498653+00:00
+
+ ## Office of Global Engagement
+ - [http://oie.uga.edu](http://oie.uga.edu)
+ - date_published: 2024-05-07T21:12:27.283573+00:00
+
+ ## Home - UGA Student Financial Aid
+ - [http://osfa.uga.edu](http://osfa.uga.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Home | University of Georgia Extension
+ - [https://register.extension.uga.edu](https://register.extension.uga.edu)
+ - date_published: 2024-05-07T21:11:55.519588+00:00
+
+ ## UGA Stratigraphy Lab
+ - [http://strata.uga.edu](http://strata.uga.edu)
+ - date_published: 2024-05-07T22:37:42.739618+00:00
+
+ ## TinyUGA - link shortener for University of Georgia websites
+ - [https://t.uga.edu](https://t.uga.edu)
+ - date_published: 2023-11-07T14:54:18.985053+00:00
+
+ ## Home - University of Georgia College of Veterinary Medicine
+ - [https://vet.uga.edu](https://vet.uga.edu)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## UGA Admissions
+ - [https://www.admissions.uga.edu](https://www.admissions.uga.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## College of Agricultural & Environmental Sciences | University of Georgia
+ - [https://www.caes.uga.edu](https://www.caes.uga.edu)
+ - date_published: 2024-05-07T21:12:19.491625+00:00
+
+ ## UGA
+ - [https://www.uga.edu](https://www.uga.edu)
+ - date_published: 2024-05-07T21:11:43.033100+00:00
+
+ ## AccessUH
+ - [https://accessuh.uh.edu](https://accessuh.uh.edu)
+ - date_published: 2024-05-07T21:13:08.310845+00:00
+
+ ## UH ALERT Emergency Notification System - University of Houston
+ - [https://alerts.uh.edu](https://alerts.uh.edu)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## The Engines of Our Ingenuity
+ - [https://engines.egr.uh.edu](https://engines.egr.uh.edu)
+ - date_published: 2024-03-08T09:51:49.224941+00:00
+ - tags: ['personal']
+
+ ## Home - UH Health - Eye Care
+ - [https://eyecare.opt.uh.edu](https://eyecare.opt.uh.edu)
+ - date_published: 2021-09-02T00:00:00+00:00
+
+ ## Gethelp
+ - [https://gethelp.uh.edu](https://gethelp.uh.edu)
+ - date_published: 2024-05-07T21:13:24.840125+00:00
+
+ ## University of Houston Advancement and Alumni
+ - [https://giveto.uh.edu](https://giveto.uh.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## University of Houston Advancement and Alumni
+ - [https://giving.uh.edu](https://giving.uh.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## University of Houston Libraries
+ - [https://libraries.uh.edu](https://libraries.uh.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## University of Houston - Acalog ACMS™
+ - [https://publications.uh.edu](https://publications.uh.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## UH Division of Research
+ - [https://research.uh.edu](https://research.uh.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Stories - University of Houston
+ - [https://stories.uh.edu](https://stories.uh.edu)
+ - date_published: 2023-10-25T19:01:29.577878+00:00
+
+ ## University of Houston
+ - [https://uh.edu](https://uh.edu)
+ - date_published: 2023-10-25T19:01:32.158915+00:00
+ - tags: ['university']
+
+ ## C. T. Bauer College of Business at the University of Houston
+ - [https://www.bauer.uh.edu](https://www.bauer.uh.edu)
+ - date_published: 2024-05-07T21:13:32.114097+00:00
+
+ ## University of Houston Cullen College of Engineering
+ - [https://www.egr.uh.edu](https://www.egr.uh.edu)
+ - date_published: 2024-05-07T21:14:10.247343+00:00
+
+ ## University of Houston Law Center  – A nationally ranked Texas law school – Houston, Texas
+ - [https://www.law.uh.edu](https://www.law.uh.edu)
+ - date_published: 2024-05-07T21:13:45.017129+00:00
+
+ ## Home - College of Optometry
+ - [https://www.opt.uh.edu](https://www.opt.uh.edu)
+ - date_published: 2010-12-14T00:00:00+00:00
+
+ ## University of Houston
+ - [https://www.uh.edu](https://www.uh.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## University of Houston - University of Houston System
+ - [https://uhsystem.edu](https://uhsystem.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## University of Houston - University of Houston System
+ - [https://www.uhsystem.edu](https://www.uhsystem.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## College of Applied Health Sciences | University of Illinois at Chicago
+ - [https://ahs.uic.edu](https://ahs.uic.edu)
+ - date_published: 2024-05-04T12:30:31.024816+00:00
+
+ ## University of Illinois Chicago < University of Illinois Chicago
+ - [https://catalog.uic.edu](https://catalog.uic.edu)
+ - date_published: 2024-05-07T21:14:42.882549+00:00
+
+ ## Disability Resources | University of Illinois Chicago
+ - [http://disabilityresources.uic.edu](http://disabilityresources.uic.edu)
+ - date_published: 2024-05-07T21:15:07.158529+00:00
+
+ ## Office of the Dean of Students | University of Illinois Chicago
+ - [http://dos.uic.edu](http://dos.uic.edu)
+ - date_published: 2024-05-07T21:14:46.387096+00:00
+
+ ## Emergency Communications
+ - [http://emergency.uic.edu](http://emergency.uic.edu)
+ - date_published: 2024-05-07T21:15:02.826770+00:00
+
+ ## Events | UIC today
+ - [http://events.uic.edu](http://events.uic.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## University Library | University of Illinois Chicago
+ - [http://library.uic.edu](http://library.uic.edu)
+ - date_published: 2024-05-07T21:14:41.570523+00:00
+
+ ## Campus Map | University of Illinois at Chicago
+ - [http://maps.uic.edu](http://maps.uic.edu)
+ - date_published: 2024-05-07T21:15:09.937582+00:00
+
+ ## Report a Concern | University of Illinois Chicago
+ - [https://reportaconcern.uic.edu](https://reportaconcern.uic.edu)
+ - date_published: 2024-05-07T21:15:15.269521+00:00
+
+ ## UIC today
+ - [https://today.uic.edu](https://today.uic.edu)
+ - date_published: 2023-10-25T19:01:36.433328+00:00
+
+ ## University of Illinois Chicago
+ - [http://uic.edu](http://uic.edu)
+ - date_published: 2024-05-07T21:14:54.855233+00:00
+
+ ## Dept of Math, Stat, & Comp Sci | University of Illinois Chicago
+ - [http://www.math.uic.edu](http://www.math.uic.edu)
+ - date_published: 2024-05-12T06:09:10.409396+00:00
+
+ ## University of Illinois Chicago
+ - [http://www.uic.edu](http://www.uic.edu)
+ - date_published: 2024-05-07T15:42:29.416753+00:00
+
+ ## Biomedical Optics and Ophthalmic Imaging Laboratory | University of Illinois Chicago
+ - [https://yaolab.bioe.uic.edu](https://yaolab.bioe.uic.edu)
+ - date_published: 2024-05-06T20:00:45.734451+00:00
+
+ ## Sign in to your account
+ - [https://bannerssb4.uidaho.edu](https://bannerssb4.uidaho.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://canvas.uidaho.edu](https://canvas.uidaho.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Campus Directory - University of Idaho
+ - [https://directory.uidaho.edu](https://directory.uidaho.edu)
+ - date_published: 2024-06-16T08:35:58.417080+00:00
+
+ ## Sign in to Outlook
+ - [http://mail.uidaho.edu](http://mail.uidaho.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://my.uidaho.edu](https://my.uidaho.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Home
+ - [https://support.uidaho.edu](https://support.uidaho.edu)
+ - date_published: 2024-05-01T07:27:03.955857+00:00
+
+ ## Sign in to your account
+ - [https://vandalstar.uidaho.edu](https://vandalstar.uidaho.edu)
+ - date_published: 2024-06-16T08:36:33.120948+00:00
+
+ ## Sign in to Outlook
+ - [https://vandals.uidaho.edu](https://vandals.uidaho.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://vandalweb.uidaho.edu](https://vandalweb.uidaho.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## 404 - University of Idaho
+ - [https://webpages.uidaho.edu](https://webpages.uidaho.edu)
+ - date_published: 2024-04-18T06:18:28+00:00
+
+ ## University of Idaho Library Home
+ - [http://www.lib.uidaho.edu](http://www.lib.uidaho.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## University of Idaho - Offering top-ranked programs in the Northwest
+ - [https://www.uidaho.edu](https://www.uidaho.edu)
+ - date_published: 2024-05-01T06:11:45.198378+00:00
+
+ ## System Homepage
+ - [https://help.uillinois.edu](https://help.uillinois.edu)
+ - date_published: 2024-05-07T21:15:05.676777+00:00
+
+ ## UI Health: University of Illinois Hospital and Health Sciences System in Chicago
+ - [http://hospital.uillinois.edu](http://hospital.uillinois.edu)
+ - date_published: 2024-05-07T21:14:57.628583+00:00
+
+ ## UIF | University of Illinois Foundation
+ - [https://uif.uillinois.edu](https://uif.uillinois.edu)
+ - date_published: 2024-04-30T04:56:45.328381+00:00
+
+ ## Home - University of Illinois System
+ - [https://uillinois.edu](https://uillinois.edu)
+ - date_published: 2024-05-07T21:14:51.814206+00:00
+
+ ## UI Press | University of Illinois
+ - [https://www.press.uillinois.edu](https://www.press.uillinois.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Home - EVPAA
+ - [https://www.vpaa.uillinois.edu](https://www.vpaa.uillinois.edu)
+ - date_published: 2024-04-30T04:57:25.699666+00:00
+
+ ## Christel DeHaan Center for Global Engagement - University of Indianapolis
+ - [http://archlab.uindy.edu](http://archlab.uindy.edu)
+ - date_published: 2024-05-07T15:19:04.853289+00:00
+
+ ## College of Liberal Arts and Sciences | The University of Iowa
+ - [https://clas.uiowa.edu](https://clas.uiowa.edu)
+ - date_published: 2024-05-07T21:15:56.514442+00:00
+
+ ## College of Dentistry and Dental Clinics | The University of Iowa
+ - [https://dentistry.uiowa.edu](https://dentistry.uiowa.edu)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Events Calendar
+ - [https://events.uiowa.edu](https://events.uiowa.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## University of Iowa HawkID Login
+ - [https://hris.uiowa.edu](https://hris.uiowa.edu)
+ - date_published: 2024-05-07T21:15:40.272963+00:00
+
+ ## Jobs @ Uiowa
+ - [https://jobs.uiowa.edu](https://jobs.uiowa.edu)
+ - date_published: 2024-05-07T21:15:52.716987+00:00
+
+ ## Carver College of Medicine
+ - [https://medicine.uiowa.edu](https://medicine.uiowa.edu)
+ - date_published: 2024-05-07T21:15:54.496687+00:00
+
+ ## Yannick Meurice | The University of Iowa
+ - [https://meurice.sites.uiowa.edu](https://meurice.sites.uiowa.edu)
+ - date_published: 2024-02-08T17:59:53.820467+00:00
+
+ ## Native American Council | The University of Iowa
+ - [https://nativeamericancouncil.org.uiowa.edu](https://nativeamericancouncil.org.uiowa.edu)
+ - date_published: 2024-05-07T21:15:22.740154+00:00
+
+ ## Iowa Now | The University of Iowa
+ - [https://now.uiowa.edu](https://now.uiowa.edu)
+ - date_published: 2023-11-19T05:08:59.202397+00:00
+
+ ## Sign In
+ - [https://office365.uiowa.edu](https://office365.uiowa.edu)
+ - date_published: 2024-05-07T21:15:34.590089+00:00
+
+ ## Policy Manual |
+ - [https://opsmanual.uiowa.edu](https://opsmanual.uiowa.edu)
+ - date_published: 2024-05-07T21:15:19.104730+00:00
+
+ ## Office of Strategic Communication | The University of Iowa
+ - [https://osc.uiowa.edu](https://osc.uiowa.edu)
+ - date_published: 2024-05-07T21:15:28.143264+00:00
+
+ ## Physics and Astronomy | College of Liberal Arts and Sciences | The University of Iowa
+ - [https://physics.uiowa.edu](https://physics.uiowa.edu)
+ - date_published: 2024-05-07T21:15:21.211087+00:00
+
+ ## SiteNow | The University of Iowa
+ - [https://sitenow.uiowa.edu](https://sitenow.uiowa.edu)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## The University of Iowa | The University of Iowa
+ - [https://uiowa.edu](https://uiowa.edu)
+ - date_published: 2024-05-18T00:00:00+00:00
+
+ ## Home | University of Illinois Springfield
+ - [https://uis.edu](https://uis.edu)
+ - date_published: 2024-05-07T21:15:13.777835+00:00
+
+ ## Welcome to wx.atmos
+ - [http://arctic.atmos.uiuc.edu](http://arctic.atmos.uiuc.edu)
+ - date_published: 2024-05-06T23:34:05.279210+00:00
+
+ ## Home
+ - [http://www.cs.uiuc.edu](http://www.cs.uiuc.edu)
+ - date_published: 2024-04-30T04:59:53.075263+00:00
+
+ ## Home | University of Illinois Urbana-Champaign
+ - [http://www.uiuc.edu](http://www.uiuc.edu)
+ - date_published: 2024-05-08T09:32:00.383313+00:00
+
+ ## Home | Admission
+ - [https://admission.uky.edu](https://admission.uky.edu)
+ - date_published: 2024-06-16T22:20:47.763854+00:00
+
+ ## The Aggregate
+ - [http://aggregate.ee.engr.uky.edu](http://aggregate.ee.engr.uky.edu)
+ - date_published: 2023-10-25T19:01:38.933454+00:00
+
+ ## Home | Office of Philanthropy and Alumni
+ - [http://alumni.ca.uky.edu](http://alumni.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:13.535531+00:00
+
+ ## Home | Admission
+ - [https://apply.uky.edu](https://apply.uky.edu)
+ - date_published: 2024-05-07T21:23:34.617902+00:00
+
+ ## Office of Business Engagement | Office of Business Engagement
+ - [https://businessengagement.uky.edu](https://businessengagement.uky.edu)
+ - date_published: 2024-06-16T22:21:52.096709+00:00
+
+ ## Events Calendar - University of Kentucky
+ - [https://calendar.uky.edu](https://calendar.uky.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Home | UK Center for Clinical and Translation Science
+ - [http://ccts.uky.edu](http://ccts.uky.edu)
+ - date_published: 2024-05-09T05:52:34.813008+00:00
+
+ ## Content not found
+ - [https://cdn.as.uky.edu](https://cdn.as.uky.edu)
+ - date_published: 2024-05-07T21:23:36.241713+00:00
+
+ ## Home
+ - [https://ci.uky.edu](https://ci.uky.edu)
+ - date_published: 2024-06-16T22:21:58.581394+00:00
+
+ ## home | Coldstream Research Campus
+ - [https://coldstream.uky.edu](https://coldstream.uky.edu)
+ - date_published: 2024-06-16T22:21:37.173525+00:00
+
+ ## Home | Commencement
+ - [https://commencement.uky.edu](https://commencement.uky.edu)
+ - date_published: 2024-06-16T22:20:59.328687+00:00
+
+ ## Home | Diversity, Equity and Inclusion
+ - [https://dei.uky.edu](https://dei.uky.edu)
+ - date_published: 2024-06-16T22:22:02.221486+00:00
+
+ ## The College of Dentistry |
+ - [https://dentistry.uky.edu](https://dentistry.uky.edu)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## University of Kentucky College of Design – 38°84° the power of place
+ - [https://design.uky.edu](https://design.uky.edu)
+ - date_published: 2024-06-16T22:21:31.798037+00:00
+
+ ## UK Directory - University of Kentucky
+ - [https://directory.uky.edu](https://directory.uky.edu)
+ - date_published: 2024-06-16T22:20:43.675455+00:00
+
+ ## Home | College of Education
+ - [https://education.uky.edu](https://education.uky.edu)
+ - date_published: 2024-06-16T22:21:08.578572+00:00
+
+ ## ExploreUK - rare and unique research materials from UK Libraries.
+ - [http://exploreuk.uky.edu](http://exploreuk.uky.edu)
+ - date_published: 2024-06-16T22:22:00.711262+00:00
+
+ ## Extension
+ - [http://extension.ca.uky.edu](http://extension.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:28.424805+00:00
+
+ ## Home | Parent and Family Association
+ - [https://families.uky.edu](https://families.uky.edu)
+ - date_published: 2024-06-16T22:20:45.623819+00:00
+
+ ## Family & Consumer Sciences Extension
+ - [https://fcs-hes.ca.uky.edu](https://fcs-hes.ca.uky.edu)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Welcome | College of Fine Arts
+ - [https://finearts.uky.edu](https://finearts.uky.edu)
+ - date_published: 2024-06-12T18:36:40+00:00
+
+ ## Gatton College of Business and Economics
+ - [https://gatton.uky.edu](https://gatton.uky.edu)
+ - date_published: 2024-06-16T19:13:23+00:00
+
+ ## Home | Graduate School
+ - [https://gradschool.uky.edu](https://gradschool.uky.edu)
+ - date_published: 2024-06-16T22:21:19.212685+00:00
+
+ ## Human Environmental Sciences
+ - [http://hes.ca.uky.edu](http://hes.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:08.927796+00:00
+
+ ## Home | Office of Institutional Equity and Equal Opportunity
+ - [https://ieeo.uky.edu](https://ieeo.uky.edu)
+ - date_published: 2024-05-09T05:52:36.470700+00:00
+
+ ## Home | International Center
+ - [https://international.uky.edu](https://international.uky.edu)
+ - date_published: 2024-06-16T22:20:54.583092+00:00
+
+ ## Homepage | University of Kentucky - Philanthropy
+ - [https://kentuckycan.uky.edu](https://kentuckycan.uky.edu)
+ - date_published: 2024-05-07T21:22:25.620006+00:00
+
+ ## Nutrition Education Program
+ - [http://kynep.ca.uky.edu](http://kynep.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:03.663553+00:00
+
+ ## Home | J. David Rosenberg College of Law
+ - [https://law.uky.edu](https://law.uky.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Research Guides: Research Guides @ UK: Research Guides by Subject
+ - [https://libguides.uky.edu](https://libguides.uky.edu)
+ - date_published: 2024-06-14T04:12:18.385529+00:00
+
+ ## Home | UK Libraries
+ - [http://libraries.uky.edu](http://libraries.uky.edu)
+ - date_published: 2024-06-16T22:20:50.349699+00:00
+
+ ## University of Kentucky - University of Kentucky :: directions
+ - [https://maps.uky.edu](https://maps.uky.edu)
+ - date_published: 2024-05-09T05:52:32.862949+00:00
+
+ ## Home | Martin School of Public Policy and Administration
+ - [https://martin.uky.edu](https://martin.uky.edu)
+ - date_published: 2024-06-16T22:21:43.704819+00:00
+
+ ## University of Kentucky College of Medicine | University of Kentucky College of Medicine
+ - [https://medicine.uky.edu](https://medicine.uky.edu)
+ - date_published: 2024-06-16T19:26:16+00:00
+
+ ## SAP Netweaver Portal
+ - [https://myuk.uky.edu](https://myuk.uky.edu)
+ - date_published: 2024-05-07T21:23:02.127030+00:00
+
+ ## Home | College News
+ - [https://news.ca.uky.edu](https://news.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:26.480355+00:00
+
+ ## UK Online | University of Kentucky
+ - [https://online.uky.edu](https://online.uky.edu)
+ - date_published: 2024-06-16T22:22:05.187310+00:00
+
+ ## Homepage | UK College of Pharmacy
+ - [https://pharmacy.uky.edu](https://pharmacy.uky.edu)
+ - date_published: 2024-06-16T22:21:21.392317+00:00
+
+ ## Office of the President | Office of the President
+ - [https://pres.uky.edu](https://pres.uky.edu)
+ - date_published: 2024-06-16T22:21:26.981908+00:00
+
+ ## Home | Office of The Provost
+ - [https://provost.uky.edu](https://provost.uky.edu)
+ - date_published: 2024-06-16T22:21:23.232339+00:00
+
+ ## Home | Office of the University Registrar
+ - [https://registrar.uky.edu](https://registrar.uky.edu)
+ - date_published: 2024-06-16T22:20:52.636123+00:00
+
+ ## Research |
+ - [http://research.ca.uky.edu](http://research.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:15.884052+00:00
+
+ ## University of Kentucky
+ - [https://scholars.uky.edu](https://scholars.uky.edu)
+ - date_published: 2024-05-09T05:52:38.676763+00:00
+
+ ## Search | University of Kentucky
+ - [https://search.uky.edu](https://search.uky.edu)
+ - date_published: 2024-05-07T21:23:37.683095+00:00
+
+ ## Home - University of Kentucky College of Social Work
+ - [https://socialwork.uky.edu](https://socialwork.uky.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Student Success
+ - [http://students.ca.uky.edu](http://students.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:10.988797+00:00
+
+ ## Home | Student Success
+ - [https://studentsuccess.uky.edu](https://studentsuccess.uky.edu)
+ - date_published: 2024-06-16T22:21:33.437472+00:00
+
+ ## Home - Technology Help Center
+ - [https://techhelpcenter.uky.edu](https://techhelpcenter.uky.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## University of Kentucky HealthCare
+ - [https://ukhealthcare.uky.edu](https://ukhealthcare.uky.edu)
+ - date_published: 2024-06-16T07:52:11+00:00
+
+ ## University of Kentucky Applicant Site | Home
+ - [https://ukjobs.uky.edu](https://ukjobs.uky.edu)
+ - date_published: 2024-05-07T21:22:37.497361+00:00
+
+ ## Home | UKNow
+ - [http://uknow.uky.edu](http://uknow.uky.edu)
+ - date_published: 2024-05-07T21:23:18.048525+00:00
+
+ ## Visitor Center | Visitor Center
+ - [https://visit.uky.edu](https://visit.uky.edu)
+ - date_published: 2024-06-16T22:21:55.718836+00:00
+
+ ## Home | Wildcat Living
+ - [https://wildcatliving.uky.edu](https://wildcatliving.uky.edu)
+ - date_published: 2024-06-16T22:21:02.982128+00:00
+
+ ## Home | University of Kentucky College of Arts & Sciences
+ - [https://wrd.as.uky.edu](https://wrd.as.uky.edu)
+ - date_published: 2023-10-25T19:01:42.368454+00:00
+
+ ## Martin-Gatton College of Agriculture, Food and Environment
+ - [https://www2.ca.uky.edu](https://www2.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:07.454287+00:00
+
+ ## The College of Arts Sciences | University of Kentucky College of Arts & Sciences
+ - [https://www.as.uky.edu](https://www.as.uky.edu)
+ - date_published: 2024-05-07T21:23:30.795240+00:00
+
+ ## Martin-Gatton College of Agriculture, Food and Environment
+ - [http://www.ca.uky.edu](http://www.ca.uky.edu)
+ - date_published: 2024-05-07T21:22:40.456877+00:00
+
+ ## Home | UK Center for Clinical and Translation Science
+ - [https://www.ccts.uky.edu](https://www.ccts.uky.edu)
+ - date_published: 2024-06-16T22:21:29.827989+00:00
+
+ ## Computer Science
+ - [http://www.cs.uky.edu](http://www.cs.uky.edu)
+ - date_published: 2017-11-05T00:51:35+00:00
+
+ ## University of Kentucky College of Engineering
+ - [https://www.engr.uky.edu](https://www.engr.uky.edu)
+ - date_published: 2024-05-07T21:22:51.555065+00:00
+
+ ## Home | University of Kentucky Research
+ - [https://www.research.uky.edu](https://www.research.uky.edu)
+ - date_published: 2024-03-07T18:28:27.352122+00:00
+
+ ## Home | University of Kentucky
+ - [https://www.uky.edu](https://www.uky.edu)
+ - date_published: 2024-05-01T08:03:16.039216+00:00
+
+ ## .: BINDS lab : WELCOME :.
+ - [http://binds.cs.umass.edu](http://binds.cs.umass.edu)
+ - date_published: 2007-05-29T00:00:00+00:00
+
+ ## UMass Amherst – Educational blogs from our community
+ - [https://blogs.umass.edu](https://blogs.umass.edu)
+ - date_published: 2024-02-24T18:07:22.063916+00:00
+
+ ## Recent Jobs | Human Resources | UMass Amherst
+ - [https://careers.umass.edu](https://careers.umass.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Department of Earth, Geographic, and Climate Sciences | Programs in Earth, Geographic, and Climate Sciences
+ - [https://eclogite.geo.umass.edu](https://eclogite.geo.umass.edu)
+ - date_published: 2024-02-08T17:01:53.198569+00:00
+
+ ## Extension Outreach Overview
+ - [https://extension.umass.edu](https://extension.umass.edu)
+ - date_published: 2016-09-21T20:41:41+00:00
+
+ ## UMass Amherst Fine Arts Center
+ - [https://fac.umass.edu](https://fac.umass.edu)
+ - date_published: 2024-05-07T21:24:26.521869+00:00
+
+ ## The Massachusetts Geological Survey |
+ - [https://mgs.geo.umass.edu](https://mgs.geo.umass.edu)
+ - date_published: 2024-05-07T21:23:56.350515+00:00
+
+ ## Home Page : NE CASC
+ - [https://necasc.umass.edu](https://necasc.umass.edu)
+ - date_published: 2024-05-07T21:24:02.548017+00:00
+
+ ## Manning College of Information & Computer Sciences
+ - [https://people.cs.umass.edu](https://people.cs.umass.edu)
+ - date_published: 2024-05-08T11:29:40.576829+00:00
+
+ ## ScholarWorks@UMass Amherst
+ - [https://scholarworks.umass.edu](https://scholarworks.umass.edu)
+ - date_published: 2024-05-25T17:54:24.234412+00:00
+
+ ## Manning College of Information and Computer Sciences | UMass Amherst
+ - [https://web.cs.umass.edu](https://web.cs.umass.edu)
+ - date_published: 2023-10-25T19:01:52.332060+00:00
+
+ ## UMass Amherst – Educational blogs from our community
+ - [https://websites.umass.edu](https://websites.umass.edu)
+ - date_published: 2024-05-07T21:23:39.485437+00:00
+
+ ## Manning College of Information & Computer Sciences
+ - [https://www.cics.umass.edu](https://www.cics.umass.edu)
+ - date_published: 2024-02-26T08:56:15.973474+00:00
+
+ ## College of Natural Sciences : UMass Amherst
+ - [https://www.cns.umass.edu](https://www.cns.umass.edu)
+ - date_published: 2024-05-07T21:24:13.101506+00:00
+
+ ## Department of Earth, Geographic, and Climate Sciences | Programs in Earth, Geographic, and Climate Sciences
+ - [https://www.geo.umass.edu](https://www.geo.umass.edu)
+ - date_published: 2024-05-07T21:23:50.418927+00:00
+
+ ## UMass Amherst Libraries
+ - [https://www.library.umass.edu](https://www.library.umass.edu)
+ - date_published: 2024-05-07T21:24:30.869955+00:00
+
+ ## UMass Amherst
+ - [https://www.umass.edu](https://www.umass.edu)
+ - date_published: 2023-10-25T19:01:54.548019+00:00
+
+ ## Admissions | UMass Amherst
+ - [https://yes.umass.edu](https://yes.umass.edu)
+ - date_published: 2024-05-07T21:24:19.506907+00:00
+
+ ## University of Massachusetts Foundation
+ - [http://alumni.umassmed.edu](http://alumni.umassmed.edu)
+ - date_published: 2024-05-07T21:25:13.235244+00:00
+
+ ## BRIDGE Innovation & Business Development
+ - [https://bridge.umassmed.edu](https://bridge.umassmed.edu)
+ - date_published: 2024-05-07T21:24:39.205779+00:00
+
+ ## Homepage | ForHealth Consulting
+ - [https://forhealthconsulting.umassmed.edu](https://forhealthconsulting.umassmed.edu)
+ - date_published: 2024-05-07T21:24:36.526196+00:00
+
+ ## Home | Lamar Soutter Library - University of Massachusetts Medical School
+ - [https://library.umassmed.edu](https://library.umassmed.edu)
+ - date_published: 2024-05-07T21:25:04.477280+00:00
+
+ ## UMass Chan Medical School
+ - [https://www.umassmed.edu](https://www.umassmed.edu)
+ - date_published: 2024-01-05T12:16:22.119217+00:00
+
+ ## Human Resources
+ - [https://hr.umb.edu](https://hr.umb.edu)
+ - date_published: 2024-06-15T02:20:30+00:00
+
+ ## UMass Boston Online
+ - [https://online.umb.edu](https://online.umb.edu)
+ - date_published: 2024-03-06T05:34:01+00:00
+
+ ## Home
+ - [https://portal.cs.umb.edu](https://portal.cs.umb.edu)
+ - date_published: 2024-06-15T17:47:59.398378+00:00
+
+ ## UMass Boston
+ - [https://umb.edu](https://umb.edu)
+ - date_published: 2024-05-01T02:10:35.249584+00:00
+
+ ## UMass Boston CS
+ - [https://www.cs.umb.edu](https://www.cs.umb.edu)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## UMass Boston
+ - [https://www.umb.edu](https://www.umb.edu)
+ - date_published: 2024-06-15T02:49:33.453832+00:00
+
+ ## About UMBC - University Of Maryland, Baltimore County
+ - [https://about.umbc.edu](https://about.umbc.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Welcome Retrievers!
+ - [https://accessibility.umbc.edu](https://accessibility.umbc.edu)
+ - date_published: 2024-05-07T21:26:14.537880+00:00
+
+ ## UMBC App
+ - [https://app.umbc.edu](https://app.umbc.edu)
+ - date_published: 2024-05-07T21:26:22.814210+00:00
+
+ ## bwtech@UMBC Research and Technology Park | Baltimore
+ - [https://bwtech.umbc.edu](https://bwtech.umbc.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Campus Life
+ - [https://campuslife.umbc.edu](https://campuslife.umbc.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Home
+ - [https://careers.umbc.edu](https://careers.umbc.edu)
+ - date_published: 2024-05-07T21:25:52.660484+00:00
+
+ ## Home
+ - [https://enrollment.umbc.edu](https://enrollment.umbc.edu)
+ - date_published: 2024-05-07T21:25:18.050904+00:00
+
+ ## Events - myUMBC
+ - [https://events.umbc.edu](https://events.umbc.edu)
+ - date_published: 2024-05-07T21:25:39.239743+00:00
+
+ ## Home
+ - [http://financialaid.umbc.edu](http://financialaid.umbc.edu)
+ - date_published: 2024-05-07T21:26:00.138561+00:00
+
+ ## Home
+ - [https://gritstarter.umbc.edu](https://gritstarter.umbc.edu)
+ - date_published: 2024-05-07T21:25:55.938507+00:00
+
+ ## Welcome to UMBC Jobs
+ - [https://jobs.umbc.edu](https://jobs.umbc.edu)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## AOK Library
+ - [https://library.umbc.edu](https://library.umbc.edu)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## myUMBC
+ - [https://my.umbc.edu](https://my.umbc.edu)
+ - date_published: 2024-05-07T21:26:12.709528+00:00
+
+ ## About
+ - [https://oei.umbc.edu](https://oei.umbc.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Home Page
+ - [https://police.umbc.edu](https://police.umbc.edu)
+ - date_published: 2024-05-07T21:25:35.711980+00:00
+
+ ## Department of Computer Science and Electrical Engineering
+ - [https://redirect.cs.umbc.edu](https://redirect.cs.umbc.edu)
+ - date_published: 2024-05-26T18:42:18.246666+00:00
+
+ ## Home
+ - [https://registrar.umbc.edu](https://registrar.umbc.edu)
+ - date_published: 2024-05-07T21:25:57.683613+00:00
+
+ ## Research and Creative Achievement at UMBC
+ - [https://research.umbc.edu](https://research.umbc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home
+ - [https://reslife.umbc.edu](https://reslife.umbc.edu)
+ - date_published: 2024-05-07T21:25:28.582851+00:00
+
+ ## Welcome To UMBC - UMBC: University Of Maryland, Baltimore County
+ - [https://umbc.edu](https://umbc.edu)
+ - date_published: 2023-11-02T22:08:17.285186+00:00
+
+ ## UMBC Undergraduate Admissions Home
+ - [https://undergraduate.umbc.edu](https://undergraduate.umbc.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home
+ - [https://ur.umbc.edu](https://ur.umbc.edu)
+ - date_published: 2024-05-07T21:26:20.533258+00:00
+
+ ## https://userpages.umbc.edu
+ - [https://userpages.umbc.edu](https://userpages.umbc.edu)
+ - date_published: 2024-01-09T03:28:34.496004+00:00
+
+ ## Welcome To UMBC - UMBC: University Of Maryland, Baltimore County
+ - [https://www2.umbc.edu](https://www2.umbc.edu)
+ - date_published: 2022-10-31T23:14:43+00:00
+
+ ## Retriever Net: UMBC's Alumni Website
+ - [https://www.alumni.umbc.edu](https://www.alumni.umbc.edu)
+ - date_published: 2024-05-07T21:26:17.983880+00:00
+
+ ## Sign in - Google Accounts
+ - [http://arclab.isr.umd.edu](http://arclab.isr.umd.edu)
+ - date_published: 2024-05-04T15:19:45.337931+00:00
+
+ ## Home | College of Arts and Humanities
+ - [https://arhu.umd.edu](https://arhu.umd.edu)
+ - date_published: 2024-06-14T21:26:40+00:00
+
+ ## Home
+ - [https://calendar.umd.edu](https://calendar.umd.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Department of Electrical and Computer Engineering
+ - [https://ece.umd.edu](https://ece.umd.edu)
+ - date_published: 2024-05-04T15:19:47.511806+00:00
+
+ ## University of Maryland College Park Employment Site | Home
+ - [https://ejobs.umd.edu](https://ejobs.umd.edu)
+ - date_published: 2024-05-07T21:26:28.719146+00:00
+
+ ## Support Maryland / Giving at UMD
+ - [https://giving.umd.edu](https://giving.umd.edu)
+ - date_published: 2024-06-13T20:58:30.585527+00:00
+
+ ## Directory Tools
+ - [https://identity.umd.edu](https://identity.umd.edu)
+ - date_published: 2024-05-07T21:26:53.366138+00:00
+
+ ## Iribe Initiative for Inclusion and Diversity in Computing | Bringing extraordinary women to computing fields
+ - [https://inclusion.cs.umd.edu](https://inclusion.cs.umd.edu)
+ - date_published: 2024-05-07T21:26:39.666373+00:00
+ - tags: ['dei']
+
+ ## Institute for Systems Research
+ - [https://isr.umd.edu](https://isr.umd.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Home | Office of Marketing and Communications
+ - [https://osc.umd.edu](https://osc.umd.edu)
+ - date_published: 2024-05-09T05:20:02.382633+00:00
+
+ ## Home | Department of Philosophy
+ - [https://philosophy.umd.edu](https://philosophy.umd.edu)
+ - date_published: 2024-05-01T03:33:04.932130+00:00
+
+ ## QuICS
+ - [https://quics.umd.edu](https://quics.umd.edu)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Maryland Robotics Center
+ - [https://robotics.umd.edu](https://robotics.umd.edu)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Science Academy | College of Computer, Mathematical, and Natural Sciences | University of Maryland
+ - [https://scienceacademy.umd.edu](https://scienceacademy.umd.edu)
+ - date_published: 2024-05-07T21:26:56.514594+00:00
+
+ ## Home | University of Maryland | School of Public Health
+ - [https://sph.umd.edu](https://sph.umd.edu)
+ - date_published: 2023-10-25T19:01:57.872396+00:00
+
+ ## Talks
+ - [http://talks.cs.umd.edu](http://talks.cs.umd.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home
+ - [https://terp.umd.edu](https://terp.umd.edu)
+ - date_published: 2024-05-09T05:19:45.983807+00:00
+
+ ## Maryland Today | Latest News, Stories & Announcements - University of…
+ - [https://today.umd.edu](https://today.umd.edu)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Home | The University of Maryland
+ - [https://umd.edu](https://umd.edu)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## University of Maryland
+ - [https://umd-header.umd.edu](https://umd-header.umd.edu)
+ - date_published: 2024-05-07T21:26:38.257456+00:00
+
+ ## UMD Right Now | UMD | UMD Right Now
+ - [https://umdrightnow.umd.edu](https://umdrightnow.umd.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## University of Maryland Institute for Advanced Computer Studies | UMIACS
+ - [http://umiacs.umd.edu](http://umiacs.umd.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Undergraduate Studies In Computer Science At The University Of Maryland | Undergraduate Computer Science at UMD
+ - [https://undergrad.cs.umd.edu](https://undergrad.cs.umd.edu)
+ - date_published: 2024-05-07T21:26:45.393345+00:00
+
+ ## University of Maryland: Department of Astronomy
+ - [http://www.astro.umd.edu](http://www.astro.umd.edu)
+ - date_published: 2024-05-18T02:46:37.546598+00:00
+
+ ## Welcome | UMD Department of Computer Science
+ - [https://www.cs.umd.edu](https://www.cs.umd.edu)
+ - date_published: 2023-10-25T19:02:00.597734+00:00
+
+ ## Home | ICONS Project
+ - [http://www.icons.umd.edu](http://www.icons.umd.edu)
+ - date_published: 2024-05-09T05:23:40.660768+00:00
+
+ ## The Office of Civil Rights and Sexual Misconduct
+ - [https://www.ocrsm.umd.edu](https://www.ocrsm.umd.edu)
+ - date_published: 2024-05-07T21:26:36.361131+00:00
+
+ ## Welcome to the Maryland Population Research Center — Maryland Population Research Center
+ - [https://www.popcenter.umd.edu](https://www.popcenter.umd.edu)
+ - date_published: 2024-04-30T03:50:06.126217+00:00
+
+ ## Reimagining Teaching and Learning at UMD  The… | Office of the Provost
+ - [https://www.provost.umd.edu](https://www.provost.umd.edu)
+ - date_published: 2024-05-07T21:26:42.608062+00:00
+
+ ## Home | The University of Maryland
+ - [https://www.umd.edu](https://www.umd.edu)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## University of Maryland Police - Dept. of Public Safety
+ - [http://www.umpd.umd.edu](http://www.umpd.umd.edu)
+ - date_published: 2024-05-07T21:26:32.327819+00:00
+
+ ## University of Michigan-Dearborn | University of Michigan-Dearborn
+ - [https://umdearborn.edu](https://umdearborn.edu)
+ - date_published: 2024-02-24T18:06:35.384429+00:00
+
+ ## Home of the Bengals | UMFK Athletics
+ - [https://athletics.umfk.edu](https://athletics.umfk.edu)
+ - date_published: 2024-05-07T21:27:36.965110+00:00
+
+ ## University of Maine at Fort Kent - Campus Store
+ - [https://campusstore.umfk.edu](https://campusstore.umfk.edu)
+ - date_published: 2024-05-07T21:27:42.767417+00:00
+
+ ## University of Maine at Fort Kent - Acalog ACMS™
+ - [https://catalog.umfk.edu](https://catalog.umfk.edu)
+ - date_published: 2024-05-07T21:27:32.625402+00:00
+
+ ## University of Maine at Fort Kent - UMFK
+ - [https://www.umfk.edu](https://www.umfk.edu)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## University of Michigan-Flint – UM-Flint
+ - [https://umflint.edu](https://umflint.edu)
+ - date_published: 2024-06-16T11:47:29.972882+00:00
+
+ ## University of Michigan-Flint – UM-Flint
+ - [https://www.umflint.edu](https://www.umflint.edu)
+ - date_published: 2024-05-07T21:27:07.639086+00:00
+
+ ## IT Accessibility at the University of Michigan | accessibility.umich.edu
+ - [https://accessibility.umich.edu](https://accessibility.umich.edu)
+ - date_published: 2024-05-11T09:25:02.272773+00:00
+
+ ## Associate Dean for Graduate & Professional Education – Home for the Associate Dean for Graduate & Professional Education
+ - [http://adgpe.engin.umich.edu](http://adgpe.engin.umich.edu)
+ - date_published: 2024-05-07T21:28:47.525218+00:00
+
+ ## Home | University of Michigan Office of Undergraduate Admissions
+ - [https://admissions.umich.edu](https://admissions.umich.edu)
+ - date_published: 2024-06-13T17:09:38+00:00
+
+ ## Associate Dean for Undergraduate Education |
+ - [http://adue.engin.umich.edu](http://adue.engin.umich.edu)
+ - date_published: 2024-05-07T21:28:24.740306+00:00
+
+ ## Index of /
+ - [https://ai.eecs.umich.edu](https://ai.eecs.umich.edu)
+ - date_published: 2023-10-25T19:02:06.146914+00:00
+
+ ## ADW: Home
+ - [http://animaldiversity.ummz.umich.edu](http://animaldiversity.ummz.umich.edu)
+ - date_published: 2024-05-07T22:31:35.712086+00:00
+
+ ## Homepage | Arts & Culture
+ - [http://arts.umich.edu](http://arts.umich.edu)
+ - date_published: 2024-05-07T21:29:05.670819+00:00
+
+ ## Questions? Click. Connect. | Campus Information
+ - [https://campusinfo.umich.edu](https://campusinfo.umich.edu)
+ - date_published: 2024-06-04T18:34:18+00:00
+
+ ## U-M Canvas
+ - [https://canvas.umich.edu](https://canvas.umich.edu)
+ - date_published: 2023-08-31T19:25:31+00:00
+
+ ## Home | U-M Careers
+ - [https://careers.umich.edu](https://careers.umich.edu)
+ - date_published: 2024-05-07T14:56:57.185321+00:00
+
+ ## https://click.dev.umich.edu
+ - [https://click.dev.umich.edu](https://click.dev.umich.edu)
+ - date_published: 2024-02-08T18:21:01.277345+00:00
+
+ ## LSA Course Sites – Course Sites
+ - [https://courses.lsa.umich.edu](https://courses.lsa.umich.edu)
+ - date_published: 2024-05-11T09:25:00.078533+00:00
+
+ ## Michigan Creative
+ - [https://creative.umich.edu](https://creative.umich.edu)
+ - date_published: 2024-05-07T21:27:51.513893+00:00
+
+ ## Computer Science and Engineering at Michigan
+ - [https://cse.engin.umich.edu](https://cse.engin.umich.edu)
+ - date_published: 2024-05-08T12:34:03.112071+00:00
+
+ ## Homepage | Center for Sustainable Systems
+ - [https://css.umich.edu](https://css.umich.edu)
+ - date_published: 2023-10-25T19:02:12.673588+00:00
+
+ ## Deep Blue Repositories
+ - [http://deepblue.lib.umich.edu](http://deepblue.lib.umich.edu)
+ - date_published: 2024-05-07T21:29:31.143545+00:00
+
+ ## Engaged Michigan
+ - [http://engaged.umich.edu](http://engaged.umich.edu)
+ - date_published: 2024-05-07T21:29:08.575763+00:00
+
+ ## University of Michigan: College of Engineering
+ - [http://engin.umich.edu](http://engin.umich.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Español
+ - [http://espanol.umich.edu](http://espanol.umich.edu)
+ - date_published: 2024-06-16T11:47:35.575611+00:00
+
+ ## Happening @ Michigan
+ - [http://events.umich.edu](http://events.umich.edu)
+ - date_published: 2024-06-16T11:47:53.730508+00:00
+
+ ## Your Passion. Your Impact. - Michigan Giving
+ - [https://giving.umich.edu](https://giving.umich.edu)
+ - date_published: 2024-05-07T21:27:54.104840+00:00
+
+ ## Home | Global Michigan
+ - [http://global.umich.edu](http://global.umich.edu)
+ - date_published: 2024-05-07T21:28:59.379833+00:00
+
+ ## Computing Education Research
+ - [https://guzdial.engin.umich.edu](https://guzdial.engin.umich.edu)
+ - date_published: 2024-05-07T14:56:25.236437+00:00
+
+ ## Health Information Technology & Services
+ - [http://hits.medicine.umich.edu](http://hits.medicine.umich.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Michigan Engineering Intranet – Michigan Engineering Intranet
+ - [http://intranet.engin.umich.edu](http://intranet.engin.umich.edu)
+ - date_published: 2024-05-07T21:28:39.228859+00:00
+
+ ## Institute for Social Research
+ - [https://isr.umich.edu](https://isr.umich.edu)
+ - date_published: 2024-05-07T21:29:21.885598+00:00
+
+ ## ITS Home Page / U-M Information and Technology Services
+ - [https://its.umich.edu](https://its.umich.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## U-M Office of the VPIT-CIO | Office of the VPIT-CIO | University of Michigan
+ - [https://it.umich.edu](https://it.umich.edu)
+ - date_published: 2024-06-16T06:07:18+00:00
+
+ ## Mardigian Library
+ - [https://library.umd.umich.edu](https://library.umd.umich.edu)
+ - date_published: 2024-05-07T21:27:20.775339+00:00
+
+ ## Language Information and Technologies
+ - [https://lit.eecs.umich.edu](https://lit.eecs.umich.edu)
+ - date_published: 2002-01-01T00:00:00+00:00
+
+ ## College of LSA | U-M LSA U-M College of LSA
+ - [https://lsa.umich.edu](https://lsa.umich.edu)
+ - date_published: 2024-05-07T14:56:35.487227+00:00
+
+ ## MCommunity
+ - [https://mcommunity.umich.edu](https://mcommunity.umich.edu)
+ - date_published: 2023-11-03T00:47:03+00:00
+
+ ## Michigan Medicine
+ - [https://medicine.umich.edu](https://medicine.umich.edu)
+ - date_published: 2024-01-05T20:59:14.155377+00:00
+
+ ## Michigan Medicine Research Home | University of Michigan Medical School Research
+ - [https://medresearch.umich.edu](https://medresearch.umich.edu)
+ - date_published: 2024-05-08T10:12:32.486876+00:00
+
+ ## Education Homepage | University of Michigan Medical School
+ - [https://medschool.umich.edu](https://medschool.umich.edu)
+ - date_published: 2024-05-08T10:12:35.252467+00:00
+
+ ## HTML Meta Tag
+ - [http://med.umich.edu](http://med.umich.edu)
+ - date_published: 2024-05-07T21:27:59.024269+00:00
+
+ ## For the Michigan IT Community | Office of the VPIT-CIO | University of Michigan
+ - [https://michigan.it.umich.edu](https://michigan.it.umich.edu)
+ - date_published: 2024-06-16T07:33:14+00:00
+
+ ## University of Michigan Law School
+ - [https://michigan.law.umich.edu](https://michigan.law.umich.edu)
+ - date_published: 2024-05-07T21:29:27.768410+00:00
+
+ ## Home
+ - [http://michigantoday.umich.edu](http://michigantoday.umich.edu)
+ - date_published: 2024-05-07T21:29:13.012105+00:00
+
+ ## UMich MSE
+ - [https://mse.engin.umich.edu](https://mse.engin.umich.edu)
+ - date_published: 2024-05-12T05:16:53.209449+00:00
+
+ ## Engineering Research News - Michigan Engineering News
+ - [https://news.engin.umich.edu](https://news.engin.umich.edu)
+ - date_published: 2023-10-25T19:02:17.444168+00:00
+
+ ## University of Michigan News
+ - [https://news.umich.edu](https://news.umich.edu)
+ - date_published: 2023-10-25T19:02:26.050077+00:00
+
+ ## Office of Budget and Planning
+ - [https://obp.umich.edu](https://obp.umich.edu)
+ - date_published: 2024-06-16T06:16:20+00:00
+
+ ## Home | Equity, Civil Rights & Title IX Office
+ - [https://oie.umich.edu](https://oie.umich.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Home
+ - [https://planetblue.umich.edu](https://planetblue.umich.edu)
+ - date_published: 2024-06-16T11:48:03.637548+00:00
+
+ ## PRBA | The Program for Research on Black Americans
+ - [https://prba.isr.umich.edu](https://prba.isr.umich.edu)
+ - date_published: 2024-02-08T17:48:53.662680+00:00
+
+ ## Office of the President
+ - [https://president.umich.edu](https://president.umich.edu)
+ - date_published: 2024-05-04T06:11:00.310049+00:00
+
+ ## U-M Public Affairs
+ - [http://publicaffairs.vpcomm.umich.edu](http://publicaffairs.vpcomm.umich.edu)
+ - date_published: 2024-05-07T21:28:53.650630+00:00
+
+ ## Research Center for Group Dynamics |
+ - [https://rcgd.isr.umich.edu](https://rcgd.isr.umich.edu)
+ - date_published: 2024-05-07T21:29:17.799449+00:00
+
+ ## The University Record
+ - [https://record.umich.edu](https://record.umich.edu)
+ - date_published: 2024-04-20T14:55:31.813935+00:00
+ - tags: ['university news']
+
+ ## Homepage
+ - [https://regents.umich.edu](https://regents.umich.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Equity, Civil Rights, and Title IX Offices
+ - [https://report.ecrt.umich.edu](https://report.ecrt.umich.edu)
+ - date_published: 2024-06-16T11:47:42.612426+00:00
+
+ ## University of Michigan Law School Scholarship Repository
+ - [https://repository.law.umich.edu](https://repository.law.umich.edu)
+ - date_published: 2023-10-25T19:02:35.321840+00:00
+
+ ## Office of Research
+ - [https://research.medicine.umich.edu](https://research.medicine.umich.edu)
+ - date_published: 2024-05-07T21:28:02.926633+00:00
+
+ ## Research to Serve the World
+ - [https://research.umich.edu](https://research.umich.edu)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Michigan Robotics | University of Michigan
+ - [https://robotics.umich.edu](https://robotics.umich.edu)
+ - date_published: 2013-07-09T19:23:43+00:00
+
+ ## Home | Office of the Registrar
+ - [https://ro.umich.edu](https://ro.umich.edu)
+ - date_published: 2024-06-16T11:47:32+00:00
+
+ ## U-M Safe Computing / safecomputing.umich.edu
+ - [https://safecomputing.umich.edu](https://safecomputing.umich.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## CoE Safety
+ - [http://safety.engin.umich.edu](http://safety.engin.umich.edu)
+ - date_published: 2024-05-07T21:28:45.451956+00:00
+
+ ## Scalar
+ - [https://scalar.eecs.umich.edu](https://scalar.eecs.umich.edu)
+ - date_published: 2024-05-07T14:56:30.959795+00:00
+
+ ## U-M Library Search
+ - [https://search.lib.umich.edu](https://search.lib.umich.edu)
+ - date_published: 2024-06-13T11:34:05+00:00
+
+ ## WordPress Websites – Offered by LSA Technology Services
+ - [https://sites.lsa.umich.edu](https://sites.lsa.umich.edu)
+ - date_published: 2024-03-22T20:49:48.942501+00:00
+
+ ## University of Michigan Marsal Family School of Education
+ - [https://soe.umich.edu](https://soe.umich.edu)
+ - date_published: 2024-05-07T14:56:22.276920+00:00
+
+ ## U-M School of Public Health
+ - [https://sph.umich.edu](https://sph.umich.edu)
+ - date_published: 2024-06-16T11:47:37.412686+00:00
+
+ ## Strategic Vision - Michigan Engineering - University of Michigan
+ - [http://strategicvision.engin.umich.edu](http://strategicvision.engin.umich.edu)
+ - date_published: 2023-07-12T00:00:00+00:00
+
+ ## Taubman College of Architecture and Urban Planning - University of Michigan
+ - [http://taubmancollege.umich.edu](http://taubmancollege.umich.edu)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## University of Michigan
+ - [https://umich.edu](https://umich.edu)
+ - date_published: 2024-05-02T12:42:38.088438+00:00
+
+ ## Office of the Vice President for Communications
+ - [https://vpcomm.umich.edu](https://vpcomm.umich.edu)
+ - date_published: 2024-05-07T21:27:48.263741+00:00
+
+ ## EECS Department
+ - [https://web.eecs.umich.edu](https://web.eecs.umich.edu)
+ - date_published: 2024-01-09T03:28:40.266068+00:00
+
+ ## Wolverine Access - Find & Favorite University of Michigan Resources
+ - [https://wolverineaccess.umich.edu](https://wolverineaccess.umich.edu)
+ - date_published: 2024-05-07T21:27:09.394140+00:00
+
+ ## Biomedical Engineering - BME
+ - [http://www.bme.umich.edu](http://www.bme.umich.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Center for the Study of Complex Systems | U-M LSA Center for the Study of Complex Systems
+ - [http://www.cscs.umich.edu](http://www.cscs.umich.edu)
+ - date_published: 2024-05-07T15:26:41.313724+00:00
+
+ ## Computer Science and Engineering at Michigan
+ - [https://www.cse.umich.edu](https://www.cse.umich.edu)
+ - date_published: 2024-05-08T00:01:12.026182+00:00
+
+ ## Electrical Engineering and Computer Science at the University of Michigan
+ - [https://www.eecs.umich.edu](https://www.eecs.umich.edu)
+ - date_published: 2024-05-07T21:29:41.357227+00:00
+
+ ## University of Michigan: College of Engineering
+ - [https://www.engin.umich.edu](https://www.engin.umich.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## University of Michigan Law School
+ - [https://www.law.umich.edu](https://www.law.umich.edu)
+ - date_published: 2024-05-04T07:29:47.778798+00:00
+
+ ## redirect
+ - [http://www.math.lsa.umich.edu](http://www.math.lsa.umich.edu)
+ - date_published: 2024-05-08T09:49:24.106095+00:00
+
+ ## HTML Meta Tag
+ - [http://www.med.umich.edu](http://www.med.umich.edu)
+ - date_published: 2024-05-07T21:28:16.527531+00:00
+
+ ## Department of Pathology
+ - [http://www.pathology.med.umich.edu](http://www.pathology.med.umich.edu)
+ - date_published: 2024-05-07T21:28:09.619892+00:00
+
+ ## University of Michigan Press
+ - [https://www.press.umich.edu](https://www.press.umich.edu)
+ - date_published: 2024-05-02T10:13:34.061829+00:00
+
+ ## U-M Safe Computing / safecomputing.umich.edu
+ - [https://www.safecomputing.umich.edu](https://www.safecomputing.umich.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## University of Michigan
+ - [https://www.umich.edu](https://www.umich.edu)
+ - date_published: 2024-05-01T06:40:38.254778+00:00
+
+ ## The University of Missouri-Kansas City
+ - [https://www.umkc.edu](https://www.umkc.edu)
+ - date_published: 2024-05-08T09:05:35.626954+00:00
+
+ ## Faculty/Staff Websites & Bios | Communications Strategy | Expertise | Brand, Communications & Creative Strategy
+ - [https://faculty.uml.edu](https://faculty.uml.edu)
+ - date_published: 2024-05-07T15:18:30.018327+00:00
+
+ ## UMass Lowell
+ - [https://www.uml.edu](https://www.uml.edu)
+ - date_published: 2024-05-07T15:18:25.179625+00:00
+
+ ## Office of Admissions | University of Minnesota Twin Cities
+ - [https://admissions.tc.umn.edu](https://admissions.tc.umn.edu)
+ - date_published: 2024-05-11T07:55:17.419038+00:00
+
+ ## Academic Advising
+ - [http://advisingblog.cse.umn.edu](http://advisingblog.cse.umn.edu)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Home | Minnesota Landscape Arboretum
+ - [https://arb.umn.edu](https://arb.umn.edu)
+ - date_published: 2024-05-06T17:28:57.044339+00:00
+
+ ## About Architecture | College of Design
+ - [https://arch.design.umn.edu](https://arch.design.umn.edu)
+ - date_published: 2024-05-08T11:43:59.977564+00:00
+
+ ## Biographies | Medical Scientist Training Program (MD/PhD) Student Directory
+ - [https://bios.mdphd.umn.edu](https://bios.mdphd.umn.edu)
+ - date_published: 2024-05-07T21:30:24.597159+00:00
+
+ ## University of Minnesota Bookstores |
+ - [https://bookstores.umn.edu](https://bookstores.umn.edu)
+ - date_published: 2024-05-11T07:55:31.338281+00:00
+
+ ## Campus Maps Home | Campus Maps
+ - [https://campusmaps.umn.edu](https://campusmaps.umn.edu)
+ - date_published: 2024-05-11T07:53:05.390948+00:00
+
+ ## COLLEGE of BIOLOGICAL SCIENCES | College of Biological Sciences
+ - [http://cbs.umn.edu](http://cbs.umn.edu)
+ - date_published: 2024-05-07T21:31:42.664145+00:00
+
+ ## The Circuits and Biology Lab at UMN
+ - [http://cctbio.ece.umn.edu](http://cctbio.ece.umn.edu)
+ - date_published: 2024-05-07T21:31:20.029655+00:00
+
+ ## Continuing Professional Development
+ - [http://cme.umn.edu](http://cme.umn.edu)
+ - date_published: 2024-05-07T21:29:47.977021+00:00
+
+ ## University Digital Conservancy :: Home
+ - [https://conservancy.umn.edu](https://conservancy.umn.edu)
+ - date_published: 2024-06-14T04:12:21.363184+00:00
+
+ ## Engage to Change - CREATE Initative
+ - [https://create.umn.edu](https://create.umn.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Homepage | University of Minnesota Crookston
+ - [https://crk.umn.edu](https://crk.umn.edu)
+ - date_published: 2024-05-11T07:55:50.641136+00:00
+
+ ## College of Science & Engineering
+ - [https://cse.umn.edu](https://cse.umn.edu)
+ - date_published: 2024-03-18T18:13:43.091656+00:00
+
+ ## Coronavirus Vaccines R&D Roadmap | CIDRAP
+ - [https://cvr.cidrap.umn.edu](https://cvr.cidrap.umn.edu)
+ - date_published: 2024-05-07T21:31:09.883012+00:00
+
+ ## Welcome to the Office for Equity and Diversity | Office for Equity and Diversity
+ - [https://diversity.umn.edu](https://diversity.umn.edu)
+ - date_published: 2024-05-11T07:55:11.108131+00:00
+
+ ## University of Minnesota Duluth
+ - [https://d.umn.edu](https://d.umn.edu)
+ - date_published: 2024-05-11T07:55:21.237868+00:00
+
+ ## University of Minnesota Twin Cities: Events Calendar
+ - [https://events.tc.umn.edu](https://events.tc.umn.edu)
+ - date_published: 2024-05-07T21:30:38.772907+00:00
+
+ ## Home | Give to the University of Minnesota
+ - [https://give.umn.edu](https://give.umn.edu)
+ - date_published: 2024-05-11T07:52:57.604741+00:00
+
+ ## Graduate Medical Education
+ - [https://gme.umn.edu](https://gme.umn.edu)
+ - date_published: 2024-05-07T21:30:35.938955+00:00
+
+ ## On-Campus Living
+ - [https://housing.umn.edu](https://housing.umn.edu)
+ - date_published: 2024-05-11T07:55:40.804057+00:00
+
+ ## Home | University of Minnesota Office of Human Resources
+ - [https://hr.umn.edu](https://hr.umn.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home | University of Minnesota Office of Human Resources
+ - [https://humanresources.umn.edu](https://humanresources.umn.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## IVR Initiative Home Page | CIDRAP
+ - [https://ivr.cidrap.umn.edu](https://ivr.cidrap.umn.edu)
+ - date_published: 2024-05-07T21:30:46.779392+00:00
+
+ ## Libraries home | University of Minnesota Libraries
+ - [https://lib.umn.edu](https://lib.umn.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Donate to the University of Minnesota
+ - [https://makingagift.umn.edu](https://makingagift.umn.edu)
+ - date_published: 2024-05-07T21:30:21.659502+00:00
+
+ ## Medical School
+ - [https://med-d9.prd.umn.edu](https://med-d9.prd.umn.edu)
+ - date_published: 2024-05-07T21:30:07.863681+00:00
+
+ ## Medical School
+ - [https://med.umn.edu](https://med.umn.edu)
+ - date_published: 2023-10-25T19:02:48.728498+00:00
+
+ ## University of Minnesota Morris
+ - [https://morris.umn.edu](https://morris.umn.edu)
+ - date_published: 2024-05-11T07:55:42.951152+00:00
+
+ ## The Circuits and Biology Lab at UMN
+ - [https://mriedel.ece.umn.edu](https://mriedel.ece.umn.edu)
+ - date_published: 2024-05-07T21:31:14.438714+00:00
+
+ ## Report Web Disability-Related Issue
+ - [https://oit-drupal-prd-web.oit.umn.edu](https://oit-drupal-prd-web.oit.umn.edu)
+ - date_published: 2024-05-07T21:29:50.648111+00:00
+
+ ## Home | Twin Cities One Stop Student Services
+ - [https://onestop.umn.edu](https://onestop.umn.edu)
+ - date_published: 2024-05-07T21:30:12.406123+00:00
+
+ ## Publishing Services
+ - [https://open.lib.umn.edu](https://open.lib.umn.edu)
+ - date_published: 2024-05-08T06:58:55.509369+00:00
+
+ ## Center for Open Education
+ - [https://open.umn.edu](https://open.umn.edu)
+ - date_published: 2023-10-25T19:02:55.930942+00:00
+
+ ## About | Preceptor Resources
+ - [https://preceptor.umn.edu](https://preceptor.umn.edu)
+ - date_published: 2024-05-07T21:30:41.797420+00:00
+
+ ## Website Privacy | Online Privacy
+ - [https://privacy.umn.edu](https://privacy.umn.edu)
+ - date_published: 2024-05-07T21:30:45.450807+00:00
+
+ ## Board of Regents | University of Minnesota
+ - [http://regents.umn.edu](http://regents.umn.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Welcome | Medical School Media Mentions
+ - [https://reporterpass.umn.edu](https://reporterpass.umn.edu)
+ - date_published: 2024-05-07T21:30:26.588937+00:00
+
+ ## Home
+ - [http://research.cems.umn.edu](http://research.cems.umn.edu)
+ - date_published: 2024-05-07T21:32:01.102011+00:00
+
+ ## RIO | RIO
+ - [https://research.umn.edu](https://research.umn.edu)
+ - date_published: 2024-05-07T21:31:02.688245+00:00
+
+ ## Sign in to your account
+ - [https://resource.umn.edu](https://resource.umn.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home | University of Minnesota Rochester
+ - [https://r.umn.edu](https://r.umn.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Homepage
+ - [https://safe-campus.umn.edu](https://safe-campus.umn.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Welcome | The Scope
+ - [https://scope.umn.edu](https://scope.umn.edu)
+ - date_published: 2024-05-07T21:30:18.113850+00:00
+
+ ## Homepage
+ - [https://system.umn.edu](https://system.umn.edu)
+ - date_published: 2024-05-07T21:30:32.400056+00:00
+
+ ## University of Minnesota Twin Cities
+ - [https://twin-cities.umn.edu](https://twin-cities.umn.edu)
+ - date_published: 2024-05-07T21:29:42.402596+00:00
+
+ ## University of Minnesota Twin Cities
+ - [https://umn.edu](https://umn.edu)
+ - date_published: 2024-03-18T20:21:28+00:00
+
+ ## Search UMN Twin Cities | Search UMN
+ - [https://usearch.umn.edu](https://usearch.umn.edu)
+ - date_published: 2024-05-11T07:55:12.631809+00:00
+
+ ## Where Discovery Creates Hope
+ - [http://wherediscoverycreateshope.umn.edu](http://wherediscoverycreateshope.umn.edu)
+ - date_published: 2024-05-07T21:30:10.696844+00:00
+
+ ## University of Minnesota Morris
+ - [https://www4.morris.umn.edu](https://www4.morris.umn.edu)
+ - date_published: 2024-05-11T07:55:15.375707+00:00
+
+ ## Home | ARCTiC Labs
+ - [http://www.arctic.umn.edu](http://www.arctic.umn.edu)
+ - date_published: 2024-05-07T21:31:45.029489+00:00
+
+ ## College of Education and Human Development
+ - [http://www.cehd.umn.edu](http://www.cehd.umn.edu)
+ - date_published: 2024-05-07T21:30:44.236374+00:00
+
+ ## Home
+ - [https://www.cems.umn.edu](https://www.cems.umn.edu)
+ - date_published: 2024-05-07T21:31:17.139887+00:00
+
+ ## Homepage | CIDRAP
+ - [https://www.cidrap.umn.edu](https://www.cidrap.umn.edu)
+ - date_published: 2023-10-25T19:02:58.423919+00:00
+
+ ## Homepage | University of Minnesota Crookston
+ - [https://www.crk.umn.edu](https://www.crk.umn.edu)
+ - date_published: 2024-05-11T07:55:29.570525+00:00
+
+ ## Home
+ - [https://www.csom.umn.edu](https://www.csom.umn.edu)
+ - date_published: 2024-05-08T03:31:31.963979+00:00
+
+ ## College of Science & Engineering
+ - [http://www.dtc.umn.edu](http://www.dtc.umn.edu)
+ - date_published: 2024-05-11T07:08:34.033624+00:00
+
+ ## University of Minnesota Duluth
+ - [https://www.d.umn.edu](https://www.d.umn.edu)
+ - date_published: 2024-05-11T07:55:26.157833+00:00
+
+ ## ECE
+ - [https://www.ece.umn.edu](https://www.ece.umn.edu)
+ - date_published: 2024-05-07T21:32:02.594343+00:00
+
+ ## Home | The Graduate School
+ - [http://www.grad.umn.edu](http://www.grad.umn.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Libraries home | University of Minnesota Libraries
+ - [https://www.lib.umn.edu](https://www.lib.umn.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Medical School
+ - [https://www.med.umn.edu](https://www.med.umn.edu)
+ - date_published: 2024-05-07T21:30:30.325781+00:00
+
+ ## The Circuits and Biology Lab at UMN
+ - [https://www.mriedel.ece.umn.edu](https://www.mriedel.ece.umn.edu)
+ - date_published: 2023-10-25T19:03:11.903000+00:00
+
+ ## School of Physics and Astronomy
+ - [https://www.physics.umn.edu](https://www.physics.umn.edu)
+ - date_published: 2024-05-07T15:14:46.382218+00:00
+
+ ## Website Privacy | Online Privacy
+ - [http://www.privacy.umn.edu](http://www.privacy.umn.edu)
+ - date_published: 2024-05-07T21:32:14.093099+00:00
+
+ ## Parking & Transportation Services | UMN Parking & Transportation Services
+ - [https://www.pts.umn.edu](https://www.pts.umn.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## University of Minnesota Twin Cities
+ - [https://www.umn.edu](https://www.umn.edu)
+ - date_published: 2024-05-04T15:14:23.442134+00:00
+
+ ## University of Minnesota Press
+ - [https://www.upress.umn.edu](https://www.upress.umn.edu)
+ - date_published: 2023-11-22T15:59:30.119351+00:00
+
+ ## Index of /
+ - [https://www-users.cse.umn.edu](https://www-users.cse.umn.edu)
+ - date_published: 2023-08-16T00:00:00+00:00
+
+ ## Index of /
+ - [https://www-users.cs.umn.edu](https://www-users.cs.umn.edu)
+ - date_published: 2023-08-16T00:00:00+00:00
+
+ ## Z
+ - [http://z.umn.edu](http://z.umn.edu)
+ - date_published: 2024-05-07T21:32:12.111832+00:00
+
+ ## MOspace Home
+ - [https://mospace.umsystem.edu](https://mospace.umsystem.edu)
+ - date_published: 2024-05-23T21:58:47.088507+00:00
+
+ ## University of Missouri System
+ - [https://www.umsystem.edu](https://www.umsystem.edu)
+ - date_published: 2024-05-07T19:32:14.949908+00:00
+
+ ## University of Montana | Public Flagship in Missoula
+ - [http://www.umt.edu](http://www.umt.edu)
+ - date_published: 2024-05-08T10:33:27.321299+00:00
+
+ ## Alert Carolina – UNC-Chapel Hill
+ - [https://alertcarolina.unc.edu](https://alertcarolina.unc.edu)
+ - date_published: 2024-05-07T21:38:30.980249+00:00
+
+ ## Carolina Alumni
+ - [https://alumni.unc.edu](https://alumni.unc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Events Calendar
+ - [https://calendar.unc.edu](https://calendar.unc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## UNC Campus Recreation
+ - [https://campusrec.unc.edu](https://campusrec.unc.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home - Carolina Next
+ - [http://carolinanext.unc.edu](http://carolinanext.unc.edu)
+ - date_published: 2024-05-07T21:39:18.369412+00:00
+
+ ## Carolina Union
+ - [https://carolinaunion.unc.edu](https://carolinaunion.unc.edu)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Home - North Carolina Collaboratory
+ - [https://collaboratory.unc.edu](https://collaboratory.unc.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Home - College of Arts and Sciences
+ - [https://college.unc.edu](https://college.unc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Connect Carolina
+ - [http://connectcarolina.unc.edu](http://connectcarolina.unc.edu)
+ - date_published: 2024-05-07T21:39:00.075708+00:00
+
+ ## Department of Computer Science - Computer Science
+ - [https://cs.unc.edu](https://cs.unc.edu)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Digital Accessibility Office
+ - [http://digitalaccess.unc.edu](http://digitalaccess.unc.edu)
+ - date_published: 2024-05-07T21:38:11.971969+00:00
+
+ ## Directory Search
+ - [https://dir.itsapps.unc.edu](https://dir.itsapps.unc.edu)
+ - date_published: 2024-05-07T21:39:15.240278+00:00
+
+ ## Directory Search
+ - [https://dir.unc.edu](https://dir.unc.edu)
+ - date_published: 2024-05-07T21:39:16.294910+00:00
+
+ ## University Office of Diversity & Inclusion
+ - [http://diversity.unc.edu](http://diversity.unc.edu)
+ - date_published: 2024-05-07T21:38:14.244237+00:00
+
+ ## Endeavors Front Page - Endeavors
+ - [https://endeavors.unc.edu](https://endeavors.unc.edu)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Home - Ethics and Policy
+ - [https://ethicspolicy.unc.edu](https://ethicspolicy.unc.edu)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Events Calendar
+ - [http://events.unc.edu](http://events.unc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home - Giving | University of North Carolina at Chapel Hill
+ - [https://giveto.unc.edu](https://giveto.unc.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Make a Gift to UNC-Chapel Hill Today
+ - [https://give.unc.edu](https://give.unc.edu)
+ - date_published: 2024-05-07T21:37:35.410505+00:00
+
+ ## GiveUNC is 3.26.24 | GiveUNC
+ - [https://giveunc.unc.edu](https://giveunc.unc.edu)
+ - date_published: 2024-05-07T21:38:03.194189+00:00
+
+ ## Home - Giving | University of North Carolina at Chapel Hill
+ - [http://giving.unc.edu](http://giving.unc.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Home - UNC Global Affairs
+ - [https://global.unc.edu](https://global.unc.edu)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Service Portal Decision page - The University of North Carolina at Chapel Hill
+ - [https://help.unc.edu](https://help.unc.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Welcome - UNC Human Resources
+ - [https://hr.unc.edu](https://hr.unc.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## University Branding and Identity Guidelines
+ - [https://identity.unc.edu](https://identity.unc.edu)
+ - date_published: 2024-05-07T21:38:49.902466+00:00
+
+ ## UNC School of Information and Library Science
+ - [https://ils.unc.edu](https://ils.unc.edu)
+ - date_published: 2024-05-04T13:59:07.777727+00:00
+
+ ## Home - Information Technology Services
+ - [https://its.unc.edu](https://its.unc.edu)
+ - date_published: 2024-05-07T21:37:23.906306+00:00
+
+ ## Homepage - UNC-Chapel Hill Libraries
+ - [https://library.unc.edu](https://library.unc.edu)
+ - date_published: 2024-05-06T16:59:29.519023+00:00
+
+ ## Lifelong Learning
+ - [https://lifelonglearning.unc.edu](https://lifelonglearning.unc.edu)
+ - date_published: 2024-05-07T21:38:33.008677+00:00
+
+ ## Home - Maps - The University of North Carolina at Chapel Hill
+ - [https://maps.unc.edu](https://maps.unc.edu)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## EZproxy - UNC-Chapel Hill Libraries
+ - [http://onlinelibrary.wiley.com.libproxy.lib.unc.edu](http://onlinelibrary.wiley.com.libproxy.lib.unc.edu)
+ - date_published: 2024-05-07T21:37:26.015068+00:00
+
+ ## Home - UNC Eshelman School of Pharmacy
+ - [https://pharmacy.unc.edu](https://pharmacy.unc.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Welcome to the Registrar's Office - Office of the University Registrar
+ - [https://registrar.unc.edu](https://registrar.unc.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## UNC Research
+ - [https://research.unc.edu](https://research.unc.edu)
+ - date_published: 2023-12-18T18:13:30.339368+00:00
+
+ ## Richard L. Smith
+ - [https://rls.sites.oasis.unc.edu](https://rls.sites.oasis.unc.edu)
+ - date_published: 2024-01-22T14:28:28.722387+00:00
+
+ ## The Well - The University of North Carolina at Chapel Hill
+ - [https://thewell.unc.edu](https://thewell.unc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## The University of North Carolina at Chapel Hill
+ - [https://unc.edu](https://unc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
 
