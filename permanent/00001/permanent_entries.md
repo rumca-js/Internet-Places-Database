@@ -1,3 +1,108 @@
+ ## Jake Weidokal
+ - [https://weidok.al](https://weidok.al)
+ - date_published: 2024-04-03T06:31:55.800090+00:00
+ - tags: ['personal']
+
+ ## Punësoni Freelancera & Gjeni Punë Freelance Online
+ - [https://www.freelancer.com.al](https://www.freelancer.com.al)
+ - date_published: 2024-06-16T12:01:25.626120+00:00
+
+ ## Sot News
+ - [https://sot.com.al](https://sot.com.al)
+ - date_published: 2023-11-11T16:04:51.715456+00:00
+
+ ## Car Insurance | Get An Auto Insurance Quote | Allstate
+ - [http://www.auto.allstate](http://www.auto.allstate)
+ - date_published: 2024-06-16T05:47:32.335801+00:00
+
+ ## Airbnb | Վարձով հանգստի տներ, տնակներ, լողափնյա տներ և այլն
+ - [https://www.airbnb.am](https://www.airbnb.am)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Freedom Be With All | I’m your worst nightmare…
+ - [https://weblog.antranigv.am](https://weblog.antranigv.am)
+ - date_published: 2023-10-25T11:45:23.684006+00:00
+
+ ## Радио Азатутюн
+ - [https://rus.azatutyun.am](https://rus.azatutyun.am)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Ազատություն Ռադիոկայան
+ - [https://www.azatutyun.am](https://www.azatutyun.am)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Deepgram Voice AI: Text to Speech + Speech to Text APIs | Deepgram
+ - [https://dpgr.am](https://dpgr.am)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## HTML Codes, Editors, and Generators
+ - [http://www.html.am](http://www.html.am)
+ - date_published: 2024-04-30T03:46:55.617332+00:00
+
+ ## Instagram
+ - [https://instagr.am](https://instagr.am)
+ - date_published: 2024-05-08T05:17:31.028770+00:00
+
+ ## kwant.am
+ - [https://kwant.am](https://kwant.am)
+ - date_published: 2024-05-08T08:58:21.100486+00:00
+
+ ## Գլխավոր – Mediainitiatives
+ - [http://www.mediainitiatives.am](http://www.mediainitiatives.am)
+ - date_published: 2024-05-07T23:42:13.359843+00:00
+
+ ## Technical subdomain
+ - [https://19vx.mj.am](https://19vx.mj.am)
+ - date_published: 2024-05-04T08:34:57.816281+00:00
+
+ ## NEWS.am TECH - Innovations and science
+ - [https://tech.news.am](https://tech.news.am)
+ - date_published: 2023-10-25T11:45:27.043615+00:00
+
+ ## Custom Domain by Bitly
+ - [http://oxf.am](http://oxf.am)
+ - date_published: 2024-05-08T03:19:38.157344+00:00
+
+ ## MONIQUE INTERNATIONAL – The legend is back!
+ - [https://radiomonique.am](https://radiomonique.am)
+ - date_published: 2024-06-13T21:27:14.846784+00:00
+
+ ## Safer Internet Armenia - SAFE.am
+ - [http://safe.am](http://safe.am)
+ - date_published: 2024-05-07T23:40:49.249693+00:00
+
+ ## S I L E N T }{ f a n l i s t i n g s
+ - [https://silent.am](https://silent.am)
+ - date_published: 2024-04-30T07:04:09.363497+00:00
+
+ ## All about Armando Denny Shannan
+ - [https://armando-denny-shannan.web.sp.am](https://armando-denny-shannan.web.sp.am)
+ - date_published: 2024-05-17T02:55:20.844228+00:00
+
+ ## All about Constantine Ariel Geri
+ - [https://constantine-ariel-geri.web.sp.am](https://constantine-ariel-geri.web.sp.am)
+ - date_published: 2024-05-17T02:55:27.882894+00:00
+
+ ## All about Gregorio Andres Alexandria
+ - [https://gregorio-andres-alexandria.web.sp.am](https://gregorio-andres-alexandria.web.sp.am)
+ - date_published: 2024-05-17T02:55:24.928158+00:00
+
+ ## All about Guadalupe Angelo Jerrold
+ - [https://guadalupe-angelo-jerrold.web.sp.am](https://guadalupe-angelo-jerrold.web.sp.am)
+ - date_published: 2024-05-17T02:55:23.646611+00:00
+
+ ## All about Jerold Annmarie Brant
+ - [https://jerold-annmarie-brant.web.sp.am](https://jerold-annmarie-brant.web.sp.am)
+ - date_published: 2024-05-17T02:55:31.584834+00:00
+
+ ## All about Petra Cody Carlene
+ - [https://petra-cody-carlene.web.sp.am](https://petra-cody-carlene.web.sp.am)
+ - date_published: 2024-05-17T02:55:29.199675+00:00
+
+ ## All about Rena Ryan Josefina
+ - [https://rena-ryan-josefina.web.sp.am](https://rena-ryan-josefina.web.sp.am)
+ - date_published: 2024-05-17T02:55:22.566039+00:00
+
  ## All about Rodrigo Jarrett Edwardo
  - [https://rodrigo-jarrett-edwardo.web.sp.am](https://rodrigo-jarrett-edwardo.web.sp.am)
  - date_published: 2024-05-17T02:55:19.513058+00:00
@@ -10,6 +115,14 @@
  - [https://www.web.sp.am](https://www.web.sp.am)
  - date_published: 2024-04-11T19:49:17+00:00
  - tags: ['web spam']
+
+ ## Բարի գալուստ Տոյոտա Հայաստան - Toyota
+ - [https://www.toyota.am](https://www.toyota.am)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Wolfram: Computation Meets Knowledge
+ - [https://wolfr.am](https://wolfr.am)
+ - date_published: 2024-06-17T12:13:59.162375+00:00
 
  ## This is Awful
  - [https://awful.amsterdam](https://awful.amsterdam)
@@ -103,6 +216,14 @@
  - [https://docs.2fauth.app](https://docs.2fauth.app)
  - date_published: 2024-04-08T19:27:57.009071+00:00
  - tags: ['self-host', 'one time passcode']
+
+ ## Workouts at Home | 30 Day Fitness Challenge
+ - [https://30dayfitness.app](https://30dayfitness.app)
+ - date_published: 2024-03-13T16:47:11+00:00
+
+ ## Ablestar Link Manager
+ - [https://linkmanager.ablestar.app](https://linkmanager.ablestar.app)
+ - date_published: 2024-06-17T09:51:08.393485+00:00
 
  ## Abot | Slack Anonymous Poll, Suggestion Box & Feedback App
  - [https://abot.app](https://abot.app)
@@ -214,6 +335,10 @@
  - [https://booksbyai.app](https://booksbyai.app)
  - date_published: 2023-11-16T14:14:55.138763+00:00
 
+ ## Blockchain Analytics: Crypto Tracker | Breadcrumbs Crypto
+ - [https://www.breadcrumbs.app](https://www.breadcrumbs.app)
+ - date_published: 2024-06-17T09:08:43.926079+00:00
+
  ## Three Lessons from Threema: Analysis of a Secure Messenger
  - [https://breakingthe3ma.app](https://breakingthe3ma.app)
  - date_published: 2023-10-25T11:45:41.239888+00:00
@@ -279,6 +404,10 @@
  ## Attention Required! | Cloudflare
  - [https://click.cash.app](https://click.cash.app)
  - date_published: 2024-06-14T16:39:52.990061+00:00
+
+ ## Home
+ - [https://code.cash.app](https://code.cash.app)
+ - date_published: 2024-05-01T00:00:00+00:00
 
  ## Cash App Status
  - [https://status.cash.app](https://status.cash.app)
@@ -1329,6 +1458,10 @@
  - date_published: 2024-03-22T18:34:56+00:00
  - tags: ['css']
 
+ ## QtPromise
+ - [https://qtpromise.netlify.app](https://qtpromise.netlify.app)
+ - date_published: 2024-06-17T03:15:07.381639+00:00
+
  ## Queen Of...
  - [https://queenof.netlify.app](https://queenof.netlify.app)
  - date_published: 2024-05-07T10:28:03.838636+00:00
@@ -1433,6 +1566,10 @@
  ## Particle Life
  - [https://webgpulife.netlify.app](https://webgpulife.netlify.app)
  - date_published: 2024-05-11T07:52:48.920513+00:00
+
+ ## Netron
+ - [https://netron.app](https://netron.app)
+ - date_published: 2024-06-15T00:00:00+00:00
 
  ## Niagara Launcher ðŸ”¹ fresh & clean homescreen for Android
  - [https://niagaralauncher.app](https://niagaralauncher.app)
@@ -2259,6 +2396,10 @@
  - [https://aiincidentsreport.vercel.app](https://aiincidentsreport.vercel.app)
  - date_published: 2023-10-25T11:49:53.003545+00:00
 
+ ## AJ's Portfolio
+ - [https://alexjportfolio.vercel.app](https://alexjportfolio.vercel.app)
+ - date_published: 2024-06-17T03:31:54.031030+00:00
+
  ## All roads lead to Rome, a colorful problem
  - [https://allroadslead2rome.vercel.app](https://allroadslead2rome.vercel.app)
  - date_published: 2024-04-30T07:40:49.647411+00:00
@@ -2834,6 +2975,10 @@
  - [https://virtualface.app](https://virtualface.app)
  - date_published: 2023-10-25T11:51:19.247159+00:00
 
+ ## Vitals™ | The all-in-one app to grow your Shopify store
+ - [https://vitals.app](https://vitals.app)
+ - date_published: 2024-05-15T00:00:00+00:00
+
  ## Volanta — Your personal flight tracker
  - [https://volanta.app](https://volanta.app)
  - date_published: 2024-06-08T18:16:10.315571+00:00
@@ -3057,6 +3202,10 @@
  - [https://blitiri.com.ar](https://blitiri.com.ar)
  - date_published: 2023-12-03T19:58:30.732690+00:00
 
+ ## CD Market Argentina - Venta en Argentina de Consolas, Videojuegos, Gadgets, y Merchandising
+ - [https://www.cdmarket.com.ar](https://www.cdmarket.com.ar)
+ - date_published: 2024-06-17T05:43:17.237569+00:00
+
  ## Citroën
  - [https://www.citroen.com.ar](https://www.citroen.com.ar)
  - date_published: 2024-05-08T05:29:49.774943+00:00
@@ -3181,6 +3330,10 @@
  - [https://www.meteored.com.ar](https://www.meteored.com.ar)
  - date_published: 2024-05-06T00:00:00+00:00
 
+ ## minono.com.ar
+ - [http://shop.minono.com.ar](http://shop.minono.com.ar)
+ - date_published: 2024-06-17T10:00:23.268362+00:00
+
  ## Juegos - Sitio oficial de Nintendo
  - [https://store.nintendo.com.ar](https://store.nintendo.com.ar)
  - date_published: 2024-06-15T03:43:44.357302+00:00
@@ -3211,7 +3364,11 @@
 
  ## Página en reconstrucción
  - [https://www.telam.com.ar](https://www.telam.com.ar)
- - date_published: 2024-05-02T10:37:56.559691+00:00
+ - date_published: 2024-03-04T00:32:56+00:00
+
+ ## The Best | Los demás no existen
+ - [https://www.thebest.com.ar](https://www.thebest.com.ar)
+ - date_published: 2024-06-17T05:41:54.178224+00:00
 
  ## Tiempo & Radar Argentina
  - [https://www.tiempoyradar.com.ar](https://www.tiempoyradar.com.ar)
@@ -3490,6 +3647,10 @@
  - date_published: 2024-05-29T07:54:29.067892+00:00
  - tags: ['interesting page design', 'personal']
 
+ ## Space2inspire
+ - [https://space2inspire.art](https://space2inspire.art)
+ - date_published: 2024-06-17T16:27:13.204475+00:00
+
  ## Stalwart Labs
  - [https://stalw.art](https://stalw.art)
  - date_published: 2024-04-08T19:30:54.373072+00:00
@@ -3736,6 +3897,10 @@
  - [https://www.oeaw.ac.at](https://www.oeaw.ac.at)
  - date_published: 2024-06-16T22:24:07.269549+00:00
 
+ ## Misc
+ - [http://data.onb.ac.at](http://data.onb.ac.at)
+ - date_published: 2020-01-09T17:01:09+00:00
+
  ## Compilers and Languages
  - [https://www.complang.tuwien.ac.at](https://www.complang.tuwien.ac.at)
  - date_published: 2023-10-25T11:52:40.504756+00:00
@@ -3833,6 +3998,10 @@
  - [https://www.bosch-home.at](https://www.bosch-home.at)
  - date_published: 2024-06-16T21:35:40.384152+00:00
 
+ ## Brother Online
+ - [https://atyourside.brother.at](https://atyourside.brother.at)
+ - date_published: 2024-06-17T21:03:52.172392+00:00
+
  ## Hersteller von Drucker, Laserdrucker & Scanner | Brother
  - [https://www.brother.at](https://www.brother.at)
  - date_published: 2024-05-02T11:36:03.685174+00:00
@@ -3910,174 +4079,4 @@
  ## Konto eröffnen | easybank
  - [https://produktantrag.easybank.at](https://produktantrag.easybank.at)
  - date_published: 2024-06-06T14:00:09+00:00
-
- ## easybank Online Bank - schnell, flexibel & günstig | easybank.at
- - [https://www.easybank.at](https://www.easybank.at)
- - date_published: 2024-05-01T06:02:07.326277+00:00
-
- ## easyleasing - Like it. Lease it. | easyleasing-at
- - [https://www.easyleasing.at](https://www.easyleasing.at)
- - date_published: 2024-06-16T08:06:19.301159+00:00
-
- ## eBay shopping cart
- - [https://cart.ebay.at](https://cart.ebay.at)
- - date_published: 2024-06-16T23:21:58.743534+00:00
-
- ## Elektronik, Autos, Mode, Sammlerstücke, Gutscheine und mehr Online-Shopping | eBay
- - [http://ebay.at](http://ebay.at)
- - date_published: 2024-06-16T23:21:44.123551+00:00
-
- ## Elektronik, Autos, Mode, Sammlerstücke, Gutscheine und mehr Online-Shopping | eBay
- - [http://m.ebay.at](http://m.ebay.at)
- - date_published: 2024-06-16T23:21:41.125311+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://mesg.ebay.at](https://mesg.ebay.at)
- - date_published: 2024-06-16T23:21:49.290655+00:00
-
- ## Elektronik, Autos, Mode, Sammlerstücke, Gutscheine und mehr Online-Shopping | eBay
- - [https://pages.ebay.at](https://pages.ebay.at)
- - date_published: 2024-06-16T23:21:55.851243+00:00
-
- ## Sicherheitsmaßnahme
- - [https://signin.ebay.at](https://signin.ebay.at)
- - date_published: 2024-06-16T23:21:46.397546+00:00
-
- ## Elektronik, Autos, Mode, Sammlerstücke, Gutscheine und mehr Online-Shopping | eBay
- - [https://www.ebay.at](https://www.ebay.at)
- - date_published: 2024-05-01T08:15:31.027555+00:00
-
- ## EduGroup.at - EduGroup
- - [https://www.edugroup.at](https://www.edugroup.at)
- - date_published: 2024-05-07T23:39:24.093075+00:00
-
- ## EF Education First | Österreich
- - [https://www.ef.at](https://www.ef.at)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Egger Apps: Database software for macOS
- - [https://eggerapps.at](https://eggerapps.at)
- - date_published: 2024-05-06T14:45:51.527824+00:00
-
- ## eLib.at
- - [https://elib.at](https://elib.at)
- - date_published: 2023-12-31T19:02:05.887806+00:00
-
- ## en|crypted.at – Private tech and tutorial blog
- - [https://www.encrypted.at](https://www.encrypted.at)
- - date_published: 2023-10-25T11:52:43.964694+00:00
-
- ## Eventbrite
- - [https://www.eventbrite.at](https://www.eventbrite.at)
- - date_published: 2024-05-12T05:55:23.849130+00:00
-
- ## EXAA - Die Strombörse mit vier Auktionen in AT und DE
- - [https://www.exaa.at](https://www.exaa.at)
- - date_published: 2023-12-31T00:00:00+00:00
-
- ## Experts Live Austria - Experts Live Austria
- - [https://www.expertslive.at](https://www.expertslive.at)
- - date_published: 2022-09-21T16:24:35+00:00
-
- ## FALTER.at - Hol mich hier raus, FALTER!
- - [https://www.falter.at](https://www.falter.at)
- - date_published: 2024-05-25T01:49:42.064384+00:00
-
- ## F.A.T.
- - [http://fffff.at](http://fffff.at)
- - date_published: 2024-06-14T15:13:46+00:00
-
- ## Jobs für Finance-Experten – financejobs.at
- - [https://www.financejobs.at](https://www.financejobs.at)
- - date_published: 2024-06-16T08:46:37.891907+00:00
-
- ## (c) 2005 EDIS.AT Internet Services
- - [https://www.finsi.at](https://www.finsi.at)
- - date_published: 2024-05-09T08:22:57.246988+00:00
-
- ## Sparen, Handeln & Anlegen bei den Profis | flatex.at
- - [https://www.flatex.at](https://www.flatex.at)
- - date_published: 2024-06-16T13:43:09+00:00
-
- ## Home
- - [https://www.forbes.at](https://www.forbes.at)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Christian Mayer
- - [https://fox21.at](https://fox21.at)
- - date_published: 2023-12-19T02:59:36.471166+00:00
- - tags: ['personal']
-
- ## Fraidycat
- - [https://fraidyc.at](https://fraidyc.at)
- - date_published: 2021-05-29T00:00:00+00:00
-
- ## FunkFeuer - Initiative für freie Netze
- - [http://funkfeuer.at](http://funkfeuer.at)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## futurezone.at
- - [https://futurezone.at](https://futurezone.at)
- - date_published: 2024-05-07T23:53:31.848426+00:00
-
- ## galaxus.at – more than an online shop
- - [https://www.galaxus.at](https://www.galaxus.at)
- - date_published: 2024-04-30T06:03:47.845076+00:00
-
- ## GameStop Österreich
- - [https://www.gamestop.at](https://www.gamestop.at)
- - date_published: 2023-07-31T10:51:24+00:00
-
- ## GDP-Forum - Foren-Übersicht
- - [http://forum.gdp-planetarium.at](http://forum.gdp-planetarium.at)
- - date_published: 2024-05-08T11:46:25.159234+00:00
-
- ## Geizhals Preisvergleich Österreich
- - [https://www.geizhals.at](https://www.geizhals.at)
- - date_published: 2024-04-29T06:12:19.252825+00:00
-
- ## GMX Suche
- - [https://suche.gmx.at](https://suche.gmx.at)
- - date_published: 2024-06-10T06:54:19.334419+00:00
-
- ## GMX: E-Mail, FreeMail & Nachrichten
- - [https://www.gmx.at](https://www.gmx.at)
- - date_published: 2024-06-16T09:20:40.870245+00:00
-
- ## Zertifizieren Sie Ihre Unternehmenskultur | Great Place to Work®
- - [http://www.greatplacetowork.at](http://www.greatplacetowork.at)
- - date_published: 2024-06-12T10:40:57.710821+00:00
-
- ## Rezepte, Restaurants und Wein & Winzern - das Gourmet Portal
- - [https://www.gutekueche.at](https://www.gutekueche.at)
- - date_published: 2024-05-11T05:33:55.093916+00:00
-
- ## Geizhals Static Content
- - [https://gzhls.at](https://gzhls.at)
- - date_published: 2024-04-29T06:12:39.482208+00:00
-
- ## Start | Håck ma's Castle
- - [https://hack-mas.at](https://hack-mas.at)
- - date_published: 2024-04-29T05:58:03.656053+00:00
-
- ## Futurelopment
- - [https://blog.haschek.at](https://blog.haschek.at)
- - date_published: 2023-10-25T11:52:46.396385+00:00
-
- ## HelloFresh: Österreichs Nummer 1 Kochbox
- - [https://www.hellofresh.at](https://www.hellofresh.at)
- - date_published: 2024-05-02T14:01:02.244963+00:00
-
- ## Samuel Hobl
- - [https://samuel.hobl.at](https://samuel.hobl.at)
- - date_published: 2024-04-03T12:47:05.291994+00:00
- - tags: ['personal']
-
- ## GoatCounter
- - [https://stats.hobl.at](https://stats.hobl.at)
- - date_published: 2024-05-12T06:23:29.726882+00:00
-
- ## hokify - deine mobile Job-Plattform | Jobbörse | Stellenangebote
- - [https://hokify.at](https://hokify.at)
- - date_published: 2024-02-02T00:00:00+00:00
 
