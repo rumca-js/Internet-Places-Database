@@ -1,3 +1,114 @@
+ ## YData data quality for Data Science | Synthetic data Data-Centric AI
+ - [https://ydata.ai](https://ydata.ai)
+ - date_published: 2024-04-28T02:52:42.235759+00:00
+
+ ## ZeroBot - Internet's #1 verbal chatbot
+ - [https://www.zerobot.ai](https://www.zerobot.ai)
+ - date_published: 2024-06-14T08:55:42.378226+00:00
+
+ ## AI-Driven Credit Underwriting Software
+ - [https://www.zest.ai](https://www.zest.ai)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## 智谱AI
+ - [https://www.zhipu.ai](https://www.zhipu.ai)
+ - date_published: 2020-11-06T00:00:00+00:00
+
+ ## Best AI Chat For E-Commerce  - Zipchat
+ - [https://zipchat.ai](https://zipchat.ai)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## ZipZip
+ - [https://chat.zipzip.ai](https://chat.zipzip.ai)
+ - date_published: 2024-05-06T20:27:34.712196+00:00
+
+ ## Improving the quality of life
+ - [https://the.akdn](https://the.akdn)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Video Game Store - PS5, PS4, Xbox S/X, Xbox One, PC, Switch and Toys
+ - [https://www.albagame.al](https://www.albagame.al)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Home | albamedia
+ - [http://albamedia.al](http://albamedia.al)
+ - date_published: 2024-06-17T20:18:30.588904+00:00
+
+ ## Aral Balkan
+ - [https://ar.al](https://ar.al)
+ - date_published: 2023-10-25T08:41:38.253677+00:00
+ - tags: ['personal']
+
+ ## Aral’s fediverse server
+ - [https://mastodon.ar.al](https://mastodon.ar.al)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## CNA - Pa censurë!
+ - [https://www.cna.al](https://www.cna.al)
+ - date_published: 2023-11-06T08:34:19.526910+00:00
+
+ ## decomposition ∘ al
+ - [https://decomposition.al](https://decomposition.al)
+ - date_published: 2023-10-25T11:45:10.348415+00:00
+
+ ## Home - Euronews Albania
+ - [https://euronews.al](https://euronews.al)
+ - date_published: 2020-09-23T11:01:18+00:00
+
+ ## Home - Euronews Albania
+ - [https://www.euronews.al](https://www.euronews.al)
+ - date_published: 2020-09-23T11:01:18+00:00
+
+ ## Charles Féval
+ - [https://fev.al](https://fev.al)
+ - date_published: 2023-10-25T11:45:10.977889+00:00
+
+ ## About · Jesal Gadhia
+ - [https://jes.al](https://jes.al)
+ - date_published: 2023-10-25T09:01:04.989896+00:00
+ - tags: ['personal']
+
+ ## juan.al
+ - [https://juan.al](https://juan.al)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Pitch your startup to top angels, VCs and accelerators
+ - [https://kern.al](https://kern.al)
+ - date_published: 2024-06-18T17:38:53.786565+00:00
+
+ ## Alpro Development
+ - [https://lushka.al](https://lushka.al)
+ - date_published: 2024-05-09T08:24:21.122959+00:00
+
+ ## Ariq Naufal
+ - [https://ariq.nauf.al](https://ariq.nauf.al)
+ - date_published: 2023-03-19T04:36:00+00:00
+
+ ## Naval
+ - [https://nav.al](https://nav.al)
+ - date_published: 2023-10-25T11:45:20.135109+00:00
+
+ ## Real Estate in Tirana. Office, villa, apartment for rent or sale Albania.
+ - [https://www.realestate.al](https://www.realestate.al)
+ - date_published: 2024-02-08T22:20:07.666981+00:00
+
+ ## Al's blog
+ - [https://blog.the.al](https://blog.the.al)
+ - date_published: 2024-04-09T00:00:00+00:00
+ - tags: ['personal']
+
+ ## trib.al
+ - [https://trib.al](https://trib.al)
+ - date_published: 2024-05-06T14:34:57.200773+00:00
+
+ ## Personale - Vodafone
+ - [https://www.vodafone.al](https://www.vodafone.al)
+ - date_published: 2024-05-07T10:57:37.324893+00:00
+
+ ## Jake's Digital Garden
+ - [https://garden.weidok.al](https://garden.weidok.al)
+ - date_published: 2024-05-06T00:00:00+00:00
+
  ## Jake Weidokal
  - [https://weidok.al](https://weidok.al)
  - date_published: 2024-04-03T06:31:55.800090+00:00
@@ -335,6 +446,10 @@
  - [https://booksbyai.app](https://booksbyai.app)
  - date_published: 2023-11-16T14:14:55.138763+00:00
 
+ ## Bopple - Order pick-up, delivery & dine-in.
+ - [https://bopple.app](https://bopple.app)
+ - date_published: 2024-06-18T06:31:55.025119+00:00
+
  ## Blockchain Analytics: Crypto Tracker | Breadcrumbs Crypto
  - [https://www.breadcrumbs.app](https://www.breadcrumbs.app)
  - date_published: 2024-06-17T09:08:43.926079+00:00
@@ -363,6 +478,10 @@
  ## Hey, I'm imgproxy!
  - [https://cdn.bsky.app](https://cdn.bsky.app)
  - date_published: 2024-06-15T04:24:02.451274+00:00
+
+ ## Bluesky Documentation | Bluesky
+ - [https://docs.bsky.app](https://docs.bsky.app)
+ - date_published: 2024-06-18T00:31:46+00:00
 
  ## Bluesky
  - [https://staging.bsky.app](https://staging.bsky.app)
@@ -932,6 +1051,10 @@
  - [https://digital.imnews.app](https://digital.imnews.app)
  - date_published: 2024-05-02T11:36:54.544047+00:00
 
+ ## IM News App - Download Now - Iliffe Media
+ - [https://imnews.app](https://imnews.app)
+ - date_published: 2023-01-05T14:42:51+00:00
+
  ## instaprice
  - [https://instaprice.app](https://instaprice.app)
  - date_published: 2024-05-08T00:42:20.645652+00:00
@@ -980,6 +1103,10 @@
  ## Knock | Notifications infrastructure for developers
  - [https://knock.app](https://knock.app)
  - date_published: 2023-12-12T22:57:59.485222+00:00
+
+ ## Kolo – Generate working tests, instantly
+ - [https://kolo.app](https://kolo.app)
+ - date_published: 2024-06-18T06:33:24.771294+00:00
 
  ## Kolo – Generate working tests, instantly
  - [https://www.kolo.app](https://www.kolo.app)
@@ -1587,6 +1714,10 @@
  - [https://nordot.app](https://nordot.app)
  - date_published: 2023-10-25T11:48:00.245663+00:00
 
+ ## nostter
+ - [https://nostter.app](https://nostter.app)
+ - date_published: 2024-06-18T20:56:12.262192+00:00
+
  ## Content-first Bookmarking  - Notado
  - [https://notado.app](https://notado.app)
  - date_published: 2024-05-04T12:26:33.768576+00:00
@@ -2088,6 +2219,10 @@
  - [https://smartgrocery.app](https://smartgrocery.app)
  - date_published: 2024-05-06T21:34:35.523632+00:00
 
+ ## Football - scores, schedule & odds | Sofascore
+ - [https://api.sofascore.app](https://api.sofascore.app)
+ - date_published: 2024-06-18T06:24:31.834934+00:00
+
  ## SolarAssets | Micro-Investments in Photovoltaic Projects
  - [https://solarassets.app](https://solarassets.app)
  - date_published: 2024-05-10T07:01:27.220472+00:00
@@ -2135,6 +2270,10 @@
  - date_published: 2024-06-14T09:17:12+00:00
  - tags: ['online tool', 'sqllite']
 
+ ## Squoosh
+ - [https://squoosh.app](https://squoosh.app)
+ - date_published: 2024-06-18T09:25:50.273289+00:00
+
  ## Stemstr
  - [https://stemstr.app](https://stemstr.app)
  - date_published: 2024-06-15T22:34:21.119193+00:00
@@ -2178,6 +2317,10 @@
  ## Sublime
  - [https://sublime.app](https://sublime.app)
  - date_published: 2024-05-12T05:40:38.314509+00:00
+
+ ## Superkey
+ - [https://superkey.app](https://superkey.app)
+ - date_published: 2024-06-18T11:35:47.035289+00:00
 
  ## Supernotes | The best collaborative note-taking app
  - [https://supernotes.app](https://supernotes.app)
@@ -2364,6 +2507,10 @@
  - [https://token.unlocks.app](https://token.unlocks.app)
  - date_published: 2024-05-01T05:33:04.680652+00:00
 
+ ## The Unwanteds App
+ - [http://unwanteds.app](http://unwanteds.app)
+ - date_published: 2020-07-13T08:26:50+00:00
+
  ## Upmind - Commerce and Billing Platform
  - [https://embed.upmind.app](https://embed.upmind.app)
  - date_published: 2024-06-15T22:45:16.883753+00:00
@@ -2518,6 +2665,10 @@
  - [https://eth-accra-website.vercel.app](https://eth-accra-website.vercel.app)
  - date_published: 2024-06-16T04:06:24.585136+00:00
 
+ ## Redstone | Cost-effective chain for MUD apps, games, and worlds
+ - [https://ethereum-redstone-bridge-hcgdbgr9b-latticexyz.vercel.app](https://ethereum-redstone-bridge-hcgdbgr9b-latticexyz.vercel.app)
+ - date_published: 2024-06-18T16:13:04.949816+00:00
+
  ## Express Auth Example
  - [https://express-auth-example.vercel.app](https://express-auth-example.vercel.app)
  - date_published: 2024-04-29T07:20:01.999198+00:00
@@ -2604,6 +2755,10 @@
 
  - [https://honeyy.vercel.app](https://honeyy.vercel.app)
  - date_published: 2024-04-08T19:28:58.472118+00:00
+
+ ## Independent Wiki Federation
+ - [https://iwf-website.vercel.app](https://iwf-website.vercel.app)
+ - date_published: 2024-06-18T14:58:54.278665+00:00
 
  ## Jermanuts
  - [https://jermanuts.vercel.app](https://jermanuts.vercel.app)
@@ -2709,6 +2864,10 @@
  ## NgChat
  - [https://ng-chat-v.vercel.app](https://ng-chat-v.vercel.app)
  - date_published: 2024-05-20T18:18:54.812115+00:00
+
+ ## Notes
+ - [https://notes-ibnmaghreb.vercel.app](https://notes-ibnmaghreb.vercel.app)
+ - date_published: 2024-06-02T00:00:00+00:00
 
  ## OctoArt
  - [https://octoart.vercel.app](https://octoart.vercel.app)
@@ -3067,7 +3226,7 @@
 
  ## Touco Lab
  - [https://touco-website.web.app](https://touco-website.web.app)
- - date_published: 2024-05-02T13:34:08.567205+00:00
+ - date_published: 2021-01-26T13:00:05+00:00
 
  ## VisBug Sandbox
  - [http://visbug.web.app](http://visbug.web.app)
@@ -3214,6 +3373,10 @@
  - [https://comunicarigualdad.com.ar](https://comunicarigualdad.com.ar)
  - date_published: 2024-06-04T00:00:00+00:00
 
+ ## Convertite en Au Pair en Estados Unidos | Cultural Care
+ - [https://www.culturalcare.com.ar](https://www.culturalcare.com.ar)
+ - date_published: 2024-03-21T00:00:00+00:00
+
  ## Postfix Admin - services.delellis.com.ar
  - [https://services.delellis.com.ar](https://services.delellis.com.ar)
  - date_published: 2024-05-14T03:34:43.692484+00:00
@@ -3241,6 +3404,10 @@
  ## Contrata a freelancers y encuentra trabajo freelance en línea
  - [https://www.freelancer.com.ar](https://www.freelancer.com.ar)
  - date_published: 2024-06-16T12:02:05.514464+00:00
+
+ ## Google
+ - [https://google.com.ar](https://google.com.ar)
+ - date_published: 2024-06-18T12:08:19.100822+00:00
 
  ## Google
  - [https://www.google.com.ar](https://www.google.com.ar)
@@ -3475,6 +3642,10 @@
  - [https://www.canesso.art](https://www.canesso.art)
  - date_published: 2024-05-09T06:33:28.801536+00:00
 
+ ## caroline makes art
+ - [http://carolinemakes.art](http://carolinemakes.art)
+ - date_published: 2024-06-15T12:38:29+00:00
+
  ## Chercheur d'Art
  - [https://www.chercheurd.art](https://www.chercheurd.art)
  - date_published: 2024-05-07T23:26:56.310326+00:00
@@ -3584,6 +3755,10 @@
  ## niklasgoeke.com - Lessons from life outside the comfort zone
  - [https://nik.art](https://nik.art)
  - date_published: 2024-02-26T00:00:00+00:00
+
+ ## New Masters Academy
+ - [https://nma.art](https://nma.art)
+ - date_published: 2024-06-18T16:16:49.524477+00:00
 
  ## New Masters Academy
  - [https://www.nma.art](https://www.nma.art)
@@ -3904,179 +4079,4 @@
  ## Compilers and Languages
  - [https://www.complang.tuwien.ac.at](https://www.complang.tuwien.ac.at)
  - date_published: 2023-10-25T11:52:40.504756+00:00
-
- ## Home | 
-      Computational Logic | University of Innsbruck
- - [http://cl-informatik.uibk.ac.at](http://cl-informatik.uibk.ac.at)
- - date_published: 2024-04-29T06:19:16.986431+00:00
-
- ## Webseiten
- - [https://homepage.univie.ac.at](https://homepage.univie.ac.at)
- - date_published: 2024-04-30T07:47:14.236254+00:00
-
- ## Faculty of Mathematics
- - [https://mat.univie.ac.at](https://mat.univie.ac.at)
- - date_published: 2024-02-08T18:02:47.499311+00:00
-
- ## IFIP WG 2.5
- - [https://wg25.taa.univie.ac.at](https://wg25.taa.univie.ac.at)
- - date_published: 2007-09-07T00:00:00+00:00
-
- ## Universität Wien
- - [https://www.univie.ac.at](https://www.univie.ac.at)
- - date_published: 2024-06-16T22:24:15.587056+00:00
-
- ## Zentralanstalt für Meteorologie und Geodynamik — ZAMG
- - [https://www.zamg.ac.at](https://www.zamg.ac.at)
- - date_published: 2024-04-28T02:22:49.641037+00:00
-
- ## Airbnb | Ferienwohnungen, Blockhütten, Häuser in Strandnähe & mehr
- - [https://www.airbnb.at](https://www.airbnb.at)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## AKH Wien, Universitätsklinikum - AKH Wien
- - [https://www.akhwien.at](https://www.akhwien.at)
- - date_published: 2024-05-09T06:26:10.772176+00:00
-
- ## WEBDESIGN Wien von Ameisenhaufen.at - Webseiten & App Entwicklung
- - [https://www.ameisenhaufen.at](https://www.ameisenhaufen.at)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Stop the AMS algorithm!
- - [https://amsalgorithmus.at](https://amsalgorithmus.at)
- - date_published: 2024-05-02T13:35:01.562798+00:00
-
- ## Anarcat - anarcat
- - [https://anarc.at](https://anarc.at)
- - date_published: 2023-10-25T11:52:42.006171+00:00
-
- ## My Notebook - Linux, Open Source, Web Development and other Stuff
- - [https://andreasrohner.at](https://andreasrohner.at)
- - date_published: 2015-10-24T00:00:00+00:00
-
- ## APA – Austria Presse Agentur | Nationale Nachrichtenagentur
- - [https://apa.at](https://apa.at)
- - date_published: 2024-05-08T06:16:13.660416+00:00
-
- ## Nachhilfe/Unterricht durch einen unserer ausgewählten Lehrer zu Hause
- - [https://www.apprentus.at](https://www.apprentus.at)
- - date_published: 2024-06-15T01:45:29.821855+00:00
-
- ## AWEKAS – Automatic Weather Map System
- - [https://www.awekas.at](https://www.awekas.at)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Bank Austria - Wir erledigen Ihre Bankgeschäfte
- - [https://www.bankaustria.at](https://www.bankaustria.at)
- - date_published: 2024-05-06T17:32:51.030231+00:00
-
- ## basemap.at
- - [https://www.basemap.at](https://www.basemap.at)
- - date_published: 2024-06-12T14:27:53.155145+00:00
-
- ## Fusedeck Privacy
- - [https://fd.bawag.at](https://fd.bawag.at)
- - date_published: 2023-06-27T08:15:03+00:00
-
- ## BAWAG | Das ist Bank
- - [https://www.bawag.at](https://www.bawag.at)
- - date_published: 2024-06-16T08:06:23.664995+00:00
-
- ## Belvedere Museum Wien | Startseite
- - [https://www.belvedere.at](https://www.belvedere.at)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Blogheim.at | Die Heimat der Österreichischen Blogszene
- - [https://www.blogheim.at](https://www.blogheim.at)
- - date_published: 2024-05-12T06:40:45.460990+00:00
-
- ## Books in the Fridge
- - [https://booksinthefridge.at](https://booksinthefridge.at)
- - date_published: 2024-05-11T07:10:21.648548+00:00
-
- ## Hausgeräte, Werkzeuge & Smart Home | Bosch AT
- - [https://www.bosch-home.at](https://www.bosch-home.at)
- - date_published: 2024-06-16T21:35:40.384152+00:00
-
- ## Brother Online
- - [https://atyourside.brother.at](https://atyourside.brother.at)
- - date_published: 2024-06-17T21:03:52.172392+00:00
-
- ## Hersteller von Drucker, Laserdrucker & Scanner | Brother
- - [https://www.brother.at](https://www.brother.at)
- - date_published: 2024-05-02T11:36:03.685174+00:00
-
- ## Capitalist Exploits – Global Investment Research
- - [https://capitalistexploits.at](https://capitalistexploits.at)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## Capitalist Exploits – Global Investment Research
- - [http://www.capitalistexploits.at](http://www.capitalistexploits.at)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Citroën PKW, Nutzfahrzeuge, Elektroautos | Citroën Austria
- - [https://www.citroen.at](https://www.citroen.at)
- - date_published: 2023-12-11T16:02:43.331356+00:00
-
- ## start [CryptoParty Austria]
- - [https://cryptoparty.at](https://cryptoparty.at)
- - date_published: 2024-05-11T07:10:19.969346+00:00
-
- ## Home
- - [https://danielrotter.at](https://danielrotter.at)
- - date_published: 2024-04-02T00:00:00+00:00
- - tags: ['personal']
-
- ## DATUM – Seiten der Zeit
- - [https://datum.at](https://datum.at)
- - date_published: 2024-05-02T13:34:59.439323+00:00
-
- ## rhonda.deb.at
- - [http://rhonda.deb.at](http://rhonda.deb.at)
- - date_published: 2024-05-11T07:11:08.897830+00:00
-
- ## DECATHLON Österreich | Über 70 Sportarten
- - [http://www.decathlon.at](http://www.decathlon.at)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Online Wertpapierhandel | Günstige Gebühren | Broker DEGIRO
- - [https://www.degiro.at](https://www.degiro.at)
- - date_published: 2024-05-22T10:58:04+00:00
-
- ## derStandard.at
- - [http://derstandard.at](http://derstandard.at)
- - date_published: 2024-05-02T13:40:24.633291+00:00
-
- ## derStandard.at
- - [https://www.derstandard.at](https://www.derstandard.at)
- - date_published: 2024-05-11T07:05:44.081625+00:00
-
- ## DigiKey
- - [https://www.digikey.at](https://www.digikey.at)
- - date_published: 2024-05-01T05:04:03.961654+00:00
-
- ## Dosenkiwi
- - [https://dosenkiwi.at](https://dosenkiwi.at)
- - date_published: 2024-05-11T07:10:28.258793+00:00
-
- ## Tony Finch
- - [https://dotat.at](https://dotat.at)
- - date_published: 2023-10-25T09:07:46.063856+00:00
- - tags: ['personal']
-
- ## Schulungen | easybank Börsen-Führerschein
- - [https://ausbildung.easybank.at](https://ausbildung.easybank.at)
- - date_published: 2024-06-16T08:06:16.118340+00:00
-
- ## easy internetbanking
- - [https://ebanking.easybank.at](https://ebanking.easybank.at)
- - date_published: 2024-06-16T08:06:25.022035+00:00
-
- ## Hilfe & Services | easybank.at
- - [https://hilfe.easybank.at](https://hilfe.easybank.at)
- - date_published: 2024-06-16T08:06:21.187566+00:00
-
- ## Konto eröffnen | easybank
- - [https://produktantrag.easybank.at](https://produktantrag.easybank.at)
- - date_published: 2024-06-06T14:00:09+00:00
 
