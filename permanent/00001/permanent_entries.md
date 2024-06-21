@@ -1,3 +1,109 @@
+ ## Marketology.ai
+ - [https://www.marketology.ai](https://www.marketology.ai)
+ - date_published: 2023-05-13T09:06:35+00:00
+
+ ## Launch Your All-in-One Creator Storefront | Marketsy.ai
+ - [https://marketsy.ai](https://marketsy.ai)
+ - date_published: 2024-05-10T05:29:41.570330+00:00
+
+ ## Markopolo - eCommerce growth platform
+ - [https://www.markopolo.ai](https://www.markopolo.ai)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Marqo | Increase Relevance with Vector search
+ - [https://www.marqo.ai](https://www.marqo.ai)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Maskr.AI - Instant famous with our AI generated photos
+ - [https://maskr.ai](https://maskr.ai)
+ - date_published: 2023-05-09T19:58:21+00:00
+
+ ## Mastodon
+ - [https://masto.ai](https://masto.ai)
+ - date_published: 2023-10-24T20:13:16.747974+00:00
+ - tags: ['mastodon']
+
+ ## Maths.ai - AI Math tutor Online
+ - [https://maths.ai](https://maths.ai)
+ - date_published: 2024-06-19T20:54:51.478446+00:00
+
+ ## Crayon Data - B2B AI Solutions for Enterprises
+ - [https://maya.ai](https://maya.ai)
+ - date_published: 2024-03-19T06:28:21+00:00
+
+ ## MealGenie - Your AI Recipe Generator
+ - [https://mealgenie.ai](https://mealgenie.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## jamie - Summarize Any Meeting.
+ - [https://www.meetjamie.ai](https://www.meetjamie.ai)
+ - date_published: 2023-10-25T11:39:55.404261+00:00
+
+ ## Meetra AI - Conversation Intelligence for the Future of Work
+ - [https://meetra.ai](https://meetra.ai)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Run perfect meetings. Every. Single. Time. | Meetrics
+ - [https://www.meetrics.ai](https://www.meetrics.ai)
+ - date_published: 2024-01-28T00:00:00+00:00
+
+ ## Home - Meetz
+ - [https://www.meetz.ai](https://www.meetz.ai)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Home | Melon
+ - [https://www.meln.ai](https://www.meln.ai)
+ - date_published: 2024-06-14T08:52:19.865456+00:00
+
+ ## Mem
+ - [https://mem.ai](https://mem.ai)
+ - date_published: 2024-05-24T20:02:08+00:00
+
+ ## Mendable
+ - [https://www.mendable.ai](https://www.mendable.ai)
+ - date_published: 2024-06-19T04:36:33.497173+00:00
+
+ ## Mendel AI - Know More, Know Now
+ - [https://www.mendel.ai](https://www.mendel.ai)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Mentat | Blog
+ - [https://blog.mentat.ai](https://blog.mentat.ai)
+ - date_published: 2023-11-09T13:45:29.329129+00:00
+
+ ## Mentioned - Automating email outreach for your blog
+ - [https://www.mentioned.ai](https://www.mentioned.ai)
+ - date_published: 2023-01-03T00:00:00+00:00
+
+ ## Menu Bot | AI-powered Meal Planner
+ - [https://www.menubot.ai](https://www.menubot.ai)
+ - date_published: 2024-06-19T19:26:22.648798+00:00
+
+ ## Meta AI
+ - [https://meta.ai](https://meta.ai)
+ - date_published: 2024-04-29T02:42:18.732739+00:00
+
+ ## Meta AI
+ - [https://www.meta.ai](https://www.meta.ai)
+ - date_published: 2024-04-18T18:18:08+00:00
+ - tags: ['artificial intelligence']
+
+ ## Blog - Metaphysic.ai
+ - [https://blog.metaphysic.ai](https://blog.metaphysic.ai)
+ - date_published: 2023-11-28T13:23:04.184625+00:00
+
+ ## Home - Metaphysic.ai
+ - [https://metaphysic.ai](https://metaphysic.ai)
+ - date_published: 2023-10-25T11:39:58.601124+00:00
+
+ ## metastory · Empowering product owner with AI
+ - [https://metastory.ai](https://metastory.ai)
+ - date_published: 2024-06-19T20:59:49.565322+00:00
+
+ ## Automatic, AI-generated interview notes | Metaview
+ - [https://www.metaview.ai](https://www.metaview.ai)
+ - date_published: 2023-10-25T11:39:59.444780+00:00
+
  ## Meticulate App
  - [https://meticulate.ai](https://meticulate.ai)
  - date_published: 2024-03-14T17:29:48.537561+00:00
@@ -9,6 +115,10 @@
  ## MgrWorkbench.ai
  - [https://www.mgrworkbench.ai](https://www.mgrworkbench.ai)
  - date_published: 2024-06-19T20:07:40.810712+00:00
+
+ ## Show HN: Midday – Run your business smarter (open-source)
+ - [https://midday.ai](https://midday.ai)
+ - date_published: 2024-06-20T12:25:10+00:00
 
  ## Mid Journey AI
  - [https://mid-journey.ai](https://mid-journey.ai)
@@ -495,6 +605,10 @@
  - [https://blog.oxen.ai](https://blog.oxen.ai)
  - date_published: 2023-11-27T04:06:39.316301+00:00
 
+ ## PageGenie
+ - [https://pagegenie.ai](https://pagegenie.ai)
+ - date_published: 2024-06-13T00:00:00+00:00
+
  ## Innovate Your Business with Paka AI Bot Agents | Advanced Voice and Chat Solutions
  - [https://www.paka.ai](https://www.paka.ai)
  - date_published: 2024-06-19T21:28:36.742383+00:00
@@ -555,6 +669,10 @@
  - [https://app.penelope.ai](https://app.penelope.ai)
  - date_published: 2024-05-08T03:01:32.442324+00:00
 
+ ## PennyLane
+ - [https://pennylane.ai](https://pennylane.ai)
+ - date_published: 2024-06-19T14:40:25+00:00
+
  ## Unlock your GTM's complete story with SalesAI
  - [https://www.people.ai](https://www.people.ai)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -608,6 +726,10 @@
  ## PetPic
  - [https://www.petpic.ai](https://www.petpic.ai)
  - date_published: 2023-10-25T08:25:31.233721+00:00
+
+ ## Home
+ - [https://phasechange.ai](https://phasechange.ai)
+ - date_published: 2024-05-30T00:00:00+00:00
 
  ## Home
  - [https://www.phasechange.ai](https://www.phasechange.ai)
@@ -1034,6 +1156,14 @@
  ## Radix - Superpowering People with Artificial Intelligence
  - [https://radix.ai](https://radix.ai)
  - date_published: 2024-04-29T04:02:24.291363+00:00
+
+ ## Raffle Insights
+ - [https://app.raffle.ai](https://app.raffle.ai)
+ - date_published: 2024-06-20T05:52:40.779330+00:00
+
+ ## Documentation
+ - [https://docs.raffle.ai](https://docs.raffle.ai)
+ - date_published: 2024-06-04T13:50:21+00:00
 
  ## Raffle AI Search and AI Chat
  - [https://raffle.ai](https://raffle.ai)
@@ -1612,6 +1742,10 @@
  - [https://soca.ai](https://soca.ai)
  - date_published: 2024-03-25T00:00:00+00:00
 
+ ## Ecommerce Stores shouldn't be static | Loup
+ - [https://socialchat.ai](https://socialchat.ai)
+ - date_published: 2024-06-20T22:00:16.146299+00:00
+
  ## Stay curious about wine tech | softwine
  - [https://www.softwine.ai](https://www.softwine.ai)
  - date_published: 2023-10-25T11:42:48.387434+00:00
@@ -1757,6 +1891,10 @@
  ## Bypass AI Detection | Get 100% Human Score | Rewrite AI Text into Human Content
  - [https://stealthwriter.ai](https://stealthwriter.ai)
  - date_published: 2024-06-19T21:26:02.391021+00:00
+
+ ## AI-Driven Unified Security Operations Powered by Open XDR
+ - [https://stellarcyber.ai](https://stellarcyber.ai)
+ - date_published: 2023-09-29T21:15:15+00:00
 
  ## Steno.ai
  - [https://steno.ai](https://steno.ai)
@@ -1928,6 +2066,10 @@
  - [https://www.supportagent.ai](https://www.supportagent.ai)
  - date_published: 2024-06-19T20:06:32.724071+00:00
 
+ ## Supportzeal AI Chatbot
+ - [https://www.supportzeal.ai](https://www.supportzeal.ai)
+ - date_published: 2024-05-31T00:00:00+00:00
+
  ## Surge AI | World's Most Powerful Data Labeling Platform
  - [https://www.surgehq.ai](https://www.surgehq.ai)
  - date_published: 2023-10-25T11:43:14.011821+00:00
@@ -1996,6 +2138,10 @@
  - [https://www.tarteel.ai](https://www.tarteel.ai)
  - date_published: 2023-10-25T11:43:16.959219+00:00
 
+ ## TAWNY
+ - [https://www.tawny.ai](https://www.tawny.ai)
+ - date_published: 2024-06-20T15:38:32.738108+00:00
+
  ## teachology.ai - The Ultimate for AI Lesson Plans
  - [https://www.teachology.ai](https://www.teachology.ai)
  - date_published: 2024-05-10T18:04:45+00:00
@@ -2050,6 +2196,10 @@
  ## Texta - AI blog writer and article ideas generator.
  - [https://texta.ai](https://texta.ai)
  - date_published: 2024-06-19T18:48:21.441178+00:00
+
+ ## TextBrew: automated product description generator
+ - [https://textbrew.ai](https://textbrew.ai)
+ - date_published: 2024-06-18T00:00:00+00:00
 
  ## Textero AI Essay Writer
  - [https://textero.ai](https://textero.ai)
@@ -2117,6 +2267,10 @@
  ## EmbedAI | Custom ChatGPT for your website
  - [https://thesamur.ai](https://thesamur.ai)
  - date_published: 2024-06-19T00:00:00+00:00
+
+ ## TheXPlace
+ - [https://www.blog.thexplace.ai](https://www.blog.thexplace.ai)
+ - date_published: 2024-06-20T13:14:45.625769+00:00
 
  ## Thinkstack
  - [https://app.thinkstack.ai](https://app.thinkstack.ai)
@@ -2206,6 +2360,10 @@
  - [https://tooltips.ai](https://tooltips.ai)
  - date_published: 2024-06-19T19:20:50.251296+00:00
 
+ ## Free Online AI Video Editor for Video Creation | TopView
+ - [https://www.topview.ai](https://www.topview.ai)
+ - date_published: 2024-06-20T07:24:27.037118+00:00
+
  ## Discover the future of education
  - [https://www.to-teach.ai](https://www.to-teach.ai)
  - date_published: 2024-06-19T19:08:54.846357+00:00
@@ -2294,6 +2452,10 @@
  ## Tyba — Develop and Operate with Confidence
  - [https://www.tyba.ai](https://www.tyba.ai)
  - date_published: 2024-01-15T00:00:00+00:00
+
+ ## The AI-powered document generator and editor.
+ - [https://type.ai](https://type.ai)
+ - date_published: 2024-06-17T00:00:00+00:00
 
  ## AI Voice Generator with Emotional Text to Speech
  - [https://typecast.ai](https://typecast.ai)
@@ -2469,6 +2631,10 @@
  - [https://optimist.varied.ai](https://optimist.varied.ai)
  - date_published: 2024-06-19T20:43:02.965925+00:00
 
+ ## Redefining Video Advertising Across All Platforms
+ - [https://a.vdo.ai](https://a.vdo.ai)
+ - date_published: 2024-06-20T01:10:05.594004+00:00
+
  ## VectorArt.ai - Unlimited AI Generated Vector Images
  - [https://vectorart.ai](https://vectorart.ai)
  - date_published: 2023-10-25T11:44:51.285364+00:00
@@ -2637,6 +2803,14 @@ Creative Solutions
  ## WARMER.ai - AI Email Writer
  - [https://warmer.ai](https://warmer.ai)
  - date_published: 2024-06-19T19:50:34.740656+00:00
+
+ ## Warmly Resource Library
+ - [https://help.warmly.ai](https://help.warmly.ai)
+ - date_published: 2024-06-20T04:55:43.682785+00:00
+
+ ## Warmly Trust Center | Powered by SafeBase
+ - [https://security.warmly.ai](https://security.warmly.ai)
+ - date_published: 2024-06-20T00:00:00+00:00
 
  ## Best Text-to-Speech Voice Solutions for Videos And Localization
  - [https://wavel.ai](https://wavel.ai)
@@ -2944,6 +3118,10 @@ Creative Solutions
  - [https://zzzcode.ai](https://zzzcode.ai)
  - date_published: 2024-06-19T19:21:07.240089+00:00
 
+ ## imgix - Image Processing On-Demand, Served By CDN
+ - [https://static.the.akdn](https://static.the.akdn)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## Improving the quality of life
  - [https://the.akdn](https://the.akdn)
  - date_published: 2024-05-04T00:00:00+00:00
@@ -2968,6 +3146,10 @@ Creative Solutions
  ## CNA - Pa censurë!
  - [https://www.cna.al](https://www.cna.al)
  - date_published: 2023-11-06T08:34:19.526910+00:00
+
+ ## Colorprinter - Colorprinter©
+ - [https://colorprinter.al](https://colorprinter.al)
+ - date_published: 2021-05-02T21:19:19+00:00
 
  ## decomposition ∘ al
  - [https://decomposition.al](https://decomposition.al)
@@ -3327,6 +3509,10 @@ Creative Solutions
  - [https://www.ajir.app](https://www.ajir.app)
  - date_published: 2023-10-25T11:45:36.751576+00:00
 
+ ## Alfred Gallery
+ - [https://alfred.app](https://alfred.app)
+ - date_published: 2024-06-20T07:00:50+00:00
+
  ## All Quiet: IT Incident Escalation, Management & Collaboration
  - [https://allquiet.app](https://allquiet.app)
  - date_published: 2023-10-25T11:45:38.508939+00:00
@@ -3684,6 +3870,10 @@ Creative Solutions
  - [https://createlogo.app](https://createlogo.app)
  - date_published: 2024-06-14T08:55:58.325305+00:00
 
+ ## TalkingHead
+ - [https://assistant.creatus.app](https://assistant.creatus.app)
+ - date_published: 2024-02-06T14:07:15+00:00
+
  ## Running and monitoring cron jobs | Cronly
  - [https://cronly.app](https://cronly.app)
  - date_published: 2024-06-16T23:01:54.069448+00:00
@@ -3852,194 +4042,4 @@ Creative Solutions
  ## Rebrandly
  - [https://elodin.app](https://elodin.app)
  - date_published: 2024-05-09T05:41:46.722172+00:00
-
- ## EmailEngine Blog
- - [https://docs.emailengine.app](https://docs.emailengine.app)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## EmailEngine Email API
- - [https://emailengine.app](https://emailengine.app)
- - date_published: 2024-06-16T19:41:31.941805+00:00
-
- ## Embra - The AI assistant for teams & professionals
- - [https://embra.app](https://embra.app)
- - date_published: 2024-06-19T19:51:39.634518+00:00
-
- ## Emoji Search
- - [https://www.emojisearch.app](https://www.emojisearch.app)
- - date_published: 2024-05-04T15:11:31.460202+00:00
-
- ## Talkative Engage
- - [https://eu.engage.app](https://eu.engage.app)
- - date_published: 2024-05-02T11:11:22.340643+00:00
-
- ## Talkative Engage
- - [https://us.engage.app](https://us.engage.app)
- - date_published: 2024-06-16T10:52:07.399635+00:00
-
- ## Equals | The next-generation spreadsheet
- - [https://equals.app](https://equals.app)
- - date_published: 2023-10-25T11:46:17.748837+00:00
-
- ## Essay
- - [https://essay.app](https://essay.app)
- - date_published: 2024-05-29T20:17:12.368194+00:00
-
- ## Estimaker
- - [http://estimaker.app](http://estimaker.app)
- - date_published: 2024-05-08T09:59:09.340703+00:00
-
- ## Events in Amsterdam
- - [https://eventsin.app](https://eventsin.app)
- - date_published: 2024-05-12T05:40:39.529976+00:00
-
- ## Every Door
- - [https://every-door.app](https://every-door.app)
- - date_published: 2023-10-25T11:46:18.725740+00:00
-
- ## EvolveAi | Providing affordable expert coaching
- - [https://www.evolveai.app](https://www.evolveai.app)
- - date_published: 2024-06-19T19:53:54.591476+00:00
-
- ## explanations.app
- - [https://explanations.app](https://explanations.app)
- - date_published: 2024-03-27T10:11:03.132303+00:00
-
- ## explanations.app
- - [https://www.explanations.app](https://www.explanations.app)
- - date_published: 2024-05-11T11:34:00.657351+00:00
-
- ## Extrapolate - Transform your face with Artificial Intelligence
- - [https://extrapolate.app](https://extrapolate.app)
- - date_published: 2024-06-19T20:42:17.614830+00:00
-
- ## EZ Fulfill
- - [https://shopify.ezfulfill.app](https://shopify.ezfulfill.app)
- - date_published: 2024-05-12T05:43:44.241062+00:00
-
- ## Home | F3D
- - [https://f3d.app](https://f3d.app)
- - date_published: 2023-10-25T11:46:25.386150+00:00
-
- ## Fable — The collaborative creative studio
- - [https://fable.app](https://fable.app)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Fable — The collaborative creative studio
- - [https://www.fable.app](https://www.fable.app)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Faith Forward | Tap Into Deeper Devotion With AI
- - [https://www.faithforward.app](https://www.faithforward.app)
- - date_published: 2024-06-19T21:26:14.903274+00:00
-
- ## farmOS Field Kit
- - [https://farmos.app](https://farmos.app)
- - date_published: 2024-06-03T11:19:01.917475+00:00
-
- ## Fedilab
- - [https://fedilab.app](https://fedilab.app)
- - date_published: 2024-05-15T20:53:36.825159+00:00
-
- ## Sign in to Feedbase
- - [https://dash.feedbase.app](https://dash.feedbase.app)
- - date_published: 2024-05-14T03:37:56.637668+00:00
-
- ## Feedbase
- - [https://feedbase.app](https://feedbase.app)
- - date_published: 2024-04-08T19:28:15.815682+00:00
-
- ## Feedback - Feedbase
- - [https://hub.feedbase.app](https://hub.feedbase.app)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## Fellow.app | The Most Integrated AI Meeting Notes & Summaries
- - [https://fellow.app](https://fellow.app)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## figr.app - Your notepad calculator
- - [https://www.figr.app](https://www.figr.app)
- - date_published: 2023-10-25T11:46:26.735024+00:00
-
- ## Home | Fileside
- - [https://www.fileside.app](https://www.fileside.app)
- - date_published: 2023-10-25T11:46:27.851566+00:00
-
- ## Filestash
- - [https://demo.filestash.app](https://demo.filestash.app)
- - date_published: 2024-05-14T03:31:30.980624+00:00
-
- ## Archive
- - [https://downloads.filestash.app](https://downloads.filestash.app)
- - date_published: 2024-05-14T03:31:31.695587+00:00
-
- ## Filestash
- - [http://filestash.app](http://filestash.app)
- - date_published: 2023-05-01T00:00:00+00:00
-
- ## Filestash — Self-hosted client for your data
- - [https://www.filestash.app](https://www.filestash.app)
- - date_published: 2023-10-25T11:46:29.675741+00:00
- - tags: ['self-host']
-
- ## Sign in - Google Accounts
- - [https://onlive-site-default-rtdb.europe-west1.firebasedatabase.app](https://onlive-site-default-rtdb.europe-west1.firebasedatabase.app)
- - date_published: 2024-05-26T13:41:29.568394+00:00
-
- ## Sign in - Google Accounts
- - [https://s-euw1b-nss-207.europe-west1.firebasedatabase.app](https://s-euw1b-nss-207.europe-west1.firebasedatabase.app)
- - date_published: 2024-05-26T13:41:44.746233+00:00
-
- ## Flagger
- - [https://flagger.app](https://flagger.app)
- - date_published: 2024-03-26T13:45:31+00:00
-
- ## https://floorp.app
- - [https://floorp.app](https://floorp.app)
- - date_published: 2024-01-09T02:23:28.716049+00:00
- - tags: ['web browser']
-
- ## Flowershow
- - [https://flowershow.app](https://flowershow.app)
- - date_published: 2024-06-12T06:04:06.349932+00:00
-
- ## FlowSavvy - Time blocking on easy mode
- - [https://flowsavvy.app](https://flowsavvy.app)
- - date_published: 2024-06-19T21:37:54.900470+00:00
-
- ## FL Studio: Professional Music Production Software
- - [https://flstudio.app](https://flstudio.app)
- - date_published: 2024-04-16T15:33:18+00:00
-
- ## FoodAI.app | Generate cooking recipes with AI!
- - [https://www.foodai.app](https://www.foodai.app)
- - date_published: 2024-06-19T20:39:49.896690+00:00
-
- ## AI-powered Resource and Project Management Software | Forecast App
- - [https://www.forecast.app](https://www.forecast.app)
- - date_published: 2024-06-19T19:08:25+00:00
-
- ## forms.app: Online Form Builder
- - [https://forms.app](https://forms.app)
- - date_published: 2024-05-06T14:27:30.513023+00:00
-
- ## forms.app: Online Form Builder
- - [https://show.forms.app](https://show.forms.app)
- - date_published: 2024-05-08T09:35:31.886590+00:00
-
- ## Excel AI Formula generator
- - [https://formulagenerator.app](https://formulagenerator.app)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Dashboard  | FOSSA
- - [https://fossa.app](https://fossa.app)
- - date_published: 2024-06-19T17:38:22.043592+00:00
-
- ## Foundation
- - [https://foundation.app](https://foundation.app)
- - date_published: 2024-04-30T15:44:18.621471+00:00
-
- ## Framework | Sustainability
- - [https://perfect-hiring-822947.framer.app](https://perfect-hiring-822947.framer.app)
- - date_published: 2023-10-25T11:46:34.235514+00:00
 
