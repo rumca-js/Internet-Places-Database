@@ -1,3 +1,7 @@
+ ## Polskie Piksele
+ - [https://polskiepiksele.pl](https://polskiepiksele.pl)
+ - date_published: 2024-05-06T23:34:43.420649+00:00
+
  ## Podcasty Polskiego Radia
  - [https://podcasty.polskieradio.pl](https://podcasty.polskieradio.pl)
  - date_published: 2024-05-12T00:00:00+00:00
@@ -4103,8 +4107,4 @@
  - [https://edicoespqp.blogs.sapo.pt](https://edicoespqp.blogs.sapo.pt)
  - date_published: 2023-11-29T20:43:51.552919+00:00
  - tags: ['personal']
-
- ## SAPO Emprego - Encontre o emprego certo
- - [https://emprego.sapo.pt](https://emprego.sapo.pt)
- - date_published: 2024-06-10T06:57:09.847156+00:00
 

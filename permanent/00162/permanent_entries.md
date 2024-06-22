@@ -1,3 +1,7 @@
+ ## FullControl - Unconstrained Design
+ - [https://fullcontrol.xyz](https://fullcontrol.xyz)
+ - date_published: 2023-10-25T23:03:10.123415+00:00
+
  ## Future Fonts
  - [https://www.futurefonts.xyz](https://www.futurefonts.xyz)
  - date_published: 2024-06-19T03:14:01.306694+00:00
@@ -2753,8 +2757,4 @@
  ## The Sunday Mail | The Leading Family Newspaper in Zimbabwe
  - [https://www.sundaymail.co.zw](https://www.sundaymail.co.zw)
  - date_published: 2024-06-18T17:15:19+00:00
-
- ## The Zimbabwe Sphere
- - [https://www.zimsphere.co.zw](https://www.zimsphere.co.zw)
- - date_published: 2024-01-09T03:49:05.321457+00:00
 

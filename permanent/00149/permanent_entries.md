@@ -1,3 +1,7 @@
+ ## Sklep Bartekwpodrozy.pl - ebooki podróżnicze, mapki atrakcji, gotowe plany wycieczek
+ - [https://sklep.bartekwpodrozy.pl](https://sklep.bartekwpodrozy.pl)
+ - date_published: 2024-05-11T08:41:18.312536+00:00
+
  ## Wydawnictwo Bauer
  - [https://bauer.pl](https://bauer.pl)
  - date_published: 2024-01-29T00:00:00+00:00
@@ -4217,8 +4221,4 @@
  ## Polska Księgarnia Narodowa
  - [http://www.polskaksiegarnianarodowa.pl](http://www.polskaksiegarnianarodowa.pl)
  - date_published: 2024-04-28T05:28:44.229447+00:00
-
- ## Polskie Piksele
- - [https://polskiepiksele.pl](https://polskiepiksele.pl)
- - date_published: 2024-05-06T23:34:43.420649+00:00
 

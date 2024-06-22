@@ -1,3 +1,7 @@
+ ## ویکی‌پدیا، آچیق بیلیک‌لیک
+ - [https://azb.wikipedia.org](https://azb.wikipedia.org)
+ - date_published: 2024-05-10T04:24:46.601004+00:00
+
  ## Vikipediya
  - [https://az.wikipedia.org](https://az.wikipedia.org)
  - date_published: 2024-05-10T03:55:29.856842+00:00
@@ -4011,8 +4015,4 @@
  ## WWF China
  - [https://en.wwfchina.org](https://en.wwfchina.org)
  - date_published: 2024-05-08T00:00:12.845746+00:00
-
- ## Global environmental conservation organization
- - [https://www.wwfdrc.org](https://www.wwfdrc.org)
- - date_published: 2024-03-18T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## Driving Socio-Economic Diversity at Senior Level across UK Financial Services
+ - [https://www.progresstogether.co.uk](https://www.progresstogether.co.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
  ## Project Heating Solutions | Air Source Heat Pump & Solar Installers
  - [https://www.projectheatingsolutions.co.uk](https://www.projectheatingsolutions.co.uk)
  - date_published: 2024-02-25T00:00:00+00:00
@@ -4042,8 +4046,4 @@ Bracknell
  ## Cats Protection | UK’s Largest Cat Welfare Charity
  - [https://www.cats.org.uk](https://www.cats.org.uk)
  - date_published: 2023-11-28T20:50:12+00:00
-
- ## Homepage - Centre for Mental Health
- - [https://www.centreformentalhealth.org.uk](https://www.centreformentalhealth.org.uk)
- - date_published: 2024-06-11T00:00:00+00:00
 

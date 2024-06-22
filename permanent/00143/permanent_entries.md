@@ -1,3 +1,7 @@
+ ## Planned Obsolescence
+ - [https://www.planned-obsolescence.org](https://www.planned-obsolescence.org)
+ - date_published: 2024-06-15T06:35:42.083012+00:00
+
  ## Plano Economic Development, TX - Official Website | Official Website
  - [https://www.planotexas.org](https://www.planotexas.org)
  - date_published: 2024-05-01T03:42:25.849867+00:00
@@ -4078,8 +4082,4 @@
  ## Welcome to the Royal Society | Royal Society
  - [https://royalsociety.org](https://royalsociety.org)
  - date_published: 2024-06-17T11:02:03.924905+00:00
-
- ## https://royalsocietypublishing.org
- - [https://royalsocietypublishing.org](https://royalsocietypublishing.org)
- - date_published: 2023-10-27T12:07:07.849182+00:00
 

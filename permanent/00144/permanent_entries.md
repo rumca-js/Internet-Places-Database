@@ -1,3 +1,7 @@
+ ## https://royalsocietypublishing.org
+ - [https://royalsocietypublishing.org](https://royalsocietypublishing.org)
+ - date_published: 2023-10-27T12:07:07.849182+00:00
+
  ## Cierpliwości...
  - [http://rsos.royalsocietypublishing.org](http://rsos.royalsocietypublishing.org)
  - date_published: 2024-05-07T18:39:27.386941+00:00
@@ -4073,8 +4077,4 @@
  ## The MGS home page
  - [http://mgs.spatial-computing.org](http://mgs.spatial-computing.org)
  - date_published: 2024-02-16T14:48:01.118490+00:00
-
- ## Spatial
- - [https://spatial-lang.org](https://spatial-lang.org)
- - date_published: 2023-10-25T22:10:16.765918+00:00
 

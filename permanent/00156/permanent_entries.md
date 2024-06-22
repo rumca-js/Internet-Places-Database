@@ -1,3 +1,7 @@
+ ## CAPCOM TAIWAN
+ - [https://www.capcom.com.tw](https://www.capcom.com.tw)
+ - date_published: 2024-05-09T14:42:21.961851+00:00
+
  ## Citi 台灣
  - [https://www.citibank.com.tw](https://www.citibank.com.tw)
  - date_published: 2024-04-06T00:00:00+00:00
@@ -4008,8 +4012,4 @@
  ## Interactive Map
  - [http://maps.ox.ac.uk](http://maps.ox.ac.uk)
  - date_published: 2022-10-09T04:28:19+00:00
-
- ## Worcester College MCR – Welcome to Worcester MCR
- - [https://mcr.worc.ox.ac.uk](https://mcr.worc.ox.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
 

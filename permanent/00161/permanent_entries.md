@@ -1,3 +1,7 @@
+ ## Home - Jason Whitehorn
+ - [https://jason.whitehorn.us](https://jason.whitehorn.us)
+ - date_published: 2024-02-05T07:23:15.514290+00:00
+
  ## Hire and retain hourly workers | Workstream
  - [https://www.workstream.us](https://www.workstream.us)
  - date_published: 2024-06-16T07:50:47+00:00
@@ -4081,8 +4085,4 @@ Floor: 66 & 67
  ## OpenSci | FrontierDAO - Fusion, Space, Climate
  - [https://frontierdao.xyz](https://frontierdao.xyz)
  - date_published: 2024-05-08T09:58:50.133140+00:00
-
- ## FullControl - Unconstrained Design
- - [https://fullcontrol.xyz](https://fullcontrol.xyz)
- - date_published: 2023-10-25T23:03:10.123415+00:00
 

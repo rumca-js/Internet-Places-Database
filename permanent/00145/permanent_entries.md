@@ -1,3 +1,7 @@
+ ## Spatial
+ - [https://spatial-lang.org](https://spatial-lang.org)
+ - date_published: 2023-10-25T22:10:16.765918+00:00
+
  ## SpawnFest 2023
  - [https://spawnfest.org](https://spawnfest.org)
  - date_published: 2024-04-30T00:29:19.487030+00:00
@@ -4089,8 +4093,4 @@ of Life Web Project
  ## https://trueelena.org
  - [https://trueelena.org](https://trueelena.org)
  - date_published: 2023-12-02T09:10:35+00:00
-
- ## Homepage of Elena ``of Valhalla'' - Elena ``of Valhalla'' Homepage
- - [https://www.trueelena.org](https://www.trueelena.org)
- - date_published: 1999-01-01T00:00:00+00:00
 

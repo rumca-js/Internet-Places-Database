@@ -1,3 +1,7 @@
+ ## SAPO Emprego - Encontre o emprego certo
+ - [https://emprego.sapo.pt](https://emprego.sapo.pt)
+ - date_published: 2024-06-10T06:57:09.847156+00:00
+
  ## Estação Diária
  - [https://estacaodiariajornal.sapo.pt](https://estacaodiariajornal.sapo.pt)
  - date_published: 2024-06-10T06:59:30.392136+00:00
@@ -4064,8 +4068,4 @@
  ## Журнал "Самиздат"
  - [http://samlib.ru](http://samlib.ru)
  - date_published: 2024-06-21T14:42:04+00:00
-
- ## SAMMLER.RU
- - [http://sammler.ru](http://sammler.ru)
- - date_published: 2024-04-27T00:00:00+00:00
 

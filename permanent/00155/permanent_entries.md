@@ -1,3 +1,8 @@
+ ## Glyphe.top
+ - [https://glyphe.top](https://glyphe.top)
+ - date_published: 2024-04-03T06:32:11.574946+00:00
+ - tags: ['personal']
+
  ## Corvid's pages
  - [https://hoodedcrow.top](https://hoodedcrow.top)
  - date_published: 2024-05-30T01:52:28.750369+00:00
@@ -4043,8 +4048,4 @@
  ## 博世家電：品質、可靠與精確的美好體驗。
  - [https://www.bosch-home.com.tw](https://www.bosch-home.com.tw)
  - date_published: 2024-06-16T21:35:17.259808+00:00
-
- ## CAPCOM TAIWAN
- - [https://www.capcom.com.tw](https://www.capcom.com.tw)
- - date_published: 2024-05-09T14:42:21.961851+00:00
 

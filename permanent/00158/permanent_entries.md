@@ -1,3 +1,7 @@
+ ## Who Said... Subtitle Search, by Matthew Somerville
+ - [https://whosaid.dracos.co.uk](https://whosaid.dracos.co.uk)
+ - date_published: 2024-05-02T11:42:15.804482+00:00
+
  ## Matthew Somerville
  - [https://www.dracos.co.uk](https://www.dracos.co.uk)
  - date_published: 2024-05-02T11:42:31.894170+00:00
@@ -4064,8 +4068,4 @@
  ## Production Advice - make your music sound great
  - [https://www.productionadvice.co.uk](https://www.productionadvice.co.uk)
  - date_published: 2024-06-18T09:19:12.119071+00:00
-
- ## Driving Socio-Economic Diversity at Senior Level across UK Financial Services
- - [https://www.progresstogether.co.uk](https://www.progresstogether.co.uk)
- - date_published: 2024-05-02T00:00:00+00:00
 

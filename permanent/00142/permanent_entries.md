@@ -345,6 +345,10 @@
  - [https://www.opendefinition.org](https://www.opendefinition.org)
  - date_published: 2024-02-12T09:11:31+00:00
 
+ ## www.opendesktop.org
+ - [https://opendesktop.org](https://opendesktop.org)
+ - date_published: 2024-06-22T04:15:33+00:00
+
  ## OpenDesktop Social
  - [https://social.opendesktop.org](https://social.opendesktop.org)
  - date_published: 2024-06-21T23:53:16.646579+00:00
@@ -4099,8 +4103,4 @@ OpenJDK Wiki
  ## Reason Foundation
  - [https://reason.plannedgiving.org](https://reason.plannedgiving.org)
  - date_published: 2024-05-06T23:55:42.362829+00:00
-
- ## Planned Obsolescence
- - [https://www.planned-obsolescence.org](https://www.planned-obsolescence.org)
- - date_published: 2024-06-15T06:35:42.083012+00:00
 
