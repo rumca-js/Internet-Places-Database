@@ -65,6 +65,10 @@
  - [https://www.ancientwisdom.academy](https://www.ancientwisdom.academy)
  - date_published: 2024-05-10T09:09:32.718345+00:00
 
+ ## ARC Academy: Turning Dreamers into Game Industry Pros!
+ - [https://arc.academy](https://arc.academy)
+ - date_published: 2019-04-15T06:57:47+00:00
+
  ## Python Arcade 2.6.17
  - [https://api.arcade.academy](https://api.arcade.academy)
  - date_published: 2023-08-05T16:07:52+00:00
@@ -90,6 +94,10 @@
  ## Hyperlink Academy
  - [https://hyperlink.academy](https://hyperlink.academy)
  - date_published: 2024-05-04T13:59:30.788023+00:00
+
+ ## notes.hyperlink.academy
+ - [https://notes.hyperlink.academy](https://notes.hyperlink.academy)
+ - date_published: 2024-03-29T00:00:00+00:00
 
  ## Inner Compass // Life Design Academy
  - [http://www.innercompass.academy](http://www.innercompass.academy)
@@ -143,6 +151,10 @@
  - [https://working.actor](https://working.actor)
  - date_published: 2024-05-10T05:13:32.252851+00:00
 
+ ## Google
+ - [https://www.google.ad](https://www.google.ad)
+ - date_published: 2024-06-21T22:24:15.850586+00:00
+
  ## Roqad - Identity Solutions - Resolution for a Cookieless World
  - [https://www.roq.ad](https://www.roq.ad)
  - date_published: 2024-05-06T17:56:32.657353+00:00
@@ -194,6 +206,10 @@
  ## Photo Gifts: Gifts Personalised Online with Your Photos or Designs
  - [https://www.bagsoflove.ae](https://www.bagsoflove.ae)
  - date_published: 2024-06-17T12:18:40.797770+00:00
+
+ ## SEO Dubai | Best SEO Company, PPC and SMM Experts in the UAE | BeOnTop
+ - [https://www.beontop.ae](https://www.beontop.ae)
+ - date_published: 2024-06-21T15:06:29.199036+00:00
 
  ## Product Registration - Brother
  - [https://register.brother.ae](https://register.brother.ae)
@@ -279,6 +295,10 @@
  - [https://www.hostinger.ae](https://www.hostinger.ae)
  - date_published: 2024-05-11T07:49:51.365727+00:00
 
+ ## Hostwinds: حلول استضافة الويب التي تركز على العملاء
+ - [https://www.hostwinds.ae](https://www.hostwinds.ae)
+ - date_published: 2024-06-18T17:39:33+00:00
+
  ## Home - Humaid Alqasimi
  - [https://humaidq.ae](https://humaidq.ae)
  - date_published: 2023-12-20T11:45:17.376653+00:00
@@ -302,7 +322,7 @@
 
  ## خرائط للويب و للتطبيقات الذكية – MapTiler
  - [https://www.maptiler.ae](https://www.maptiler.ae)
- - date_published: 2024-05-04T14:16:36.924897+00:00
+ - date_published: 2024-02-10T12:31:05+00:00
 
  ## home
  - [https://moorfields.ae](https://moorfields.ae)
@@ -479,6 +499,10 @@
  - [https://sputnik.af](https://sputnik.af)
  - date_published: 2024-06-15T08:47:35.764152+00:00
 
+ ## Google
+ - [https://www.google.com.af](https://www.google.com.af)
+ - date_published: 2024-06-21T22:24:23.664482+00:00
+
  ## Home | MRRD
  - [https://www.mrrd.gov.af](https://www.mrrd.gov.af)
  - date_published: 2024-02-05T00:00:00+00:00
@@ -543,6 +567,10 @@
  - [https://zindi.africa](https://zindi.africa)
  - date_published: 2024-05-10T05:00:39.914326+00:00
 
+ ## Welcome to CellAgri
+ - [https://www.cell.ag](https://www.cell.ag)
+ - date_published: 2024-05-08T00:00:00+00:00
+
  ## freenet.ag - Startseite
  - [https://www.freenet.ag](https://www.freenet.ag)
  - date_published: 2024-06-16T10:12:14.403378+00:00
@@ -564,6 +592,10 @@
  ## Index
  - [http://tx.ag](http://tx.ag)
  - date_published: 2024-05-07T20:37:56.644697+00:00
+
+ ## Google
+ - [https://www.google.com.ag](https://www.google.com.ag)
+ - date_published: 2024-06-21T22:24:24.779476+00:00
 
  ## A. G. Cook â Apple
  - [http://apple.net.ag](http://apple.net.ag)
@@ -629,6 +661,10 @@
  - [https://hahn.agency](https://hahn.agency)
  - date_published: 2024-05-08T11:12:42.452502+00:00
 
+ ## Hedengren Agency
+ - [https://hedengren.agency](https://hedengren.agency)
+ - date_published: 2024-06-21T22:19:18.300500+00:00
+
  ## Idolme Agency
  - [https://idolme.agency](https://idolme.agency)
  - date_published: 2024-05-13T11:32:46+00:00
@@ -644,6 +680,10 @@
  ## Lemongrass Agency – PR Agency Zurich
  - [https://lemongrass.agency](https://lemongrass.agency)
  - date_published: 2024-06-19T15:39:39.602039+00:00
+
+ ## LITTLE ROOM
+ - [https://littleroom.agency](https://littleroom.agency)
+ - date_published: 2024-06-18T21:11:18+00:00
 
  ## Naslovna | Želiš pune apartmane u sezoni? | Litto za Partnere
  - [https://www.litto.agency](https://www.litto.agency)
@@ -1189,6 +1229,10 @@
  - [https://bertha.ai](https://bertha.ai)
  - date_published: 2024-06-11T00:00:00+00:00
 
+ ## The Ultimate Generative AI Chatbot App Builder Platform - Best Brain
+ - [http://bestbrain.ai](http://bestbrain.ai)
+ - date_published: 2024-03-08T00:00:00+00:00
+
  ## bestflights.ai
  - [https://www.bestflights.ai](https://www.bestflights.ai)
  - date_published: 2024-06-19T21:25:15.306961+00:00
@@ -1254,6 +1298,14 @@
  - date_published: 2024-03-26T10:28:25+00:00
 
  ## Blaze | The AI Tool for Teams of One
+ - [https://app.blaze.ai](https://app.blaze.ai)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Blaze | The AI Tool for Teams of One
+ - [http://blaze.ai](http://blaze.ai)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Blaze | The AI Tool for Teams of One
  - [https://www.blaze.ai](https://www.blaze.ai)
  - date_published: 2024-04-30T00:00:00+00:00
 
@@ -1317,6 +1369,10 @@
  - [https://www.botsquare.ai](https://www.botsquare.ai)
  - date_published: 2024-06-19T19:22:25.673812+00:00
 
+ ## Home
+ - [https://brainsave.ai](https://brainsave.ai)
+ - date_published: 2024-06-21T19:53:48.081921+00:00
+
  ## Empower Your Brand with AI Technology ~ Brandmate
  - [https://brandmate.ai](https://brandmate.ai)
  - date_published: 2023-05-30T12:13:52+00:00
@@ -1360,6 +1416,10 @@
  ## Bunch - AI Coaching | Become a Better Leader in 2 Mins a Day
  - [https://bunch.ai](https://bunch.ai)
  - date_published: 2023-10-25T11:36:43.928399+00:00
+
+ ## Bunni.AI: Chat to your PDF documents - Summarise and ask questions
+ - [https://www.bunni.ai](https://www.bunni.ai)
+ - date_published: 2024-06-21T11:09:55.229614+00:00
 
  ## Bypass AI: Anti AI Detector & AI Detection Remover
  - [https://bypassai.ai](https://bypassai.ai)
@@ -1481,9 +1541,13 @@
  - [https://charstar.ai](https://charstar.ai)
  - date_published: 2024-06-19T20:58:57.848573+00:00
 
+ ## ChartMyLife.ai - Your life tracker
+ - [https://app.chartmylife.ai](https://app.chartmylife.ai)
+ - date_published: 2024-06-21T09:12:12.849789+00:00
+
  ## ChartMyLife
  - [https://chartmylife.ai](https://chartmylife.ai)
- - date_published: 2024-05-04T11:46:45.380116+00:00
+ - date_published: 2023-12-29T13:41:49+00:00
 
  ## ChatDev.ai | ai agent
  - [https://chatdev.ai](https://chatdev.ai)
@@ -1585,6 +1649,14 @@ Welcome
  ## Home
  - [https://citymonitor.ai](https://citymonitor.ai)
  - date_published: 2024-06-18T09:18:51.659628+00:00
+
+ ## ClaimScore
+ - [https://app.claimscore.ai](https://app.claimscore.ai)
+ - date_published: 2024-06-04T22:22:40+00:00
+
+ ## ClaimScore
+ - [https://cases.claimscore.ai](https://cases.claimscore.ai)
+ - date_published: 2023-07-28T14:14:08+00:00
 
  ## ClaimScore | Automation for Class Action Administrators
  - [https://www.claimscore.ai](https://www.claimscore.ai)
@@ -1848,6 +1920,34 @@ Welcome
  - [https://coolgpts.ai](https://coolgpts.ai)
  - date_published: 2023-11-21T21:11:42+00:00
 
+ ## copy.ai
+ - [https://app.copy.ai](https://app.copy.ai)
+ - date_published: 2024-06-21T20:10:08.865680+00:00
+
+ ## CopyAI Community | Community
+ - [https://community.copy.ai](https://community.copy.ai)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Future proof your business with GTM AI
+ - [https://copy.ai](https://copy.ai)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Copy.ai API: A Quick Start Guide
+ - [https://docs.copy.ai](https://docs.copy.ai)
+ - date_published: 2024-06-21T20:10:25.440739+00:00
+
+ ## The First GTM AI Platform
+ - [https://sales.copy.ai](https://sales.copy.ai)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## CopyAI Status
+ - [https://status.copy.ai](https://status.copy.ai)
+ - date_published: 2024-03-24T00:00:00+00:00
+
+ ## CopyAI Community | Community
+ - [https://support.copy.ai](https://support.copy.ai)
+ - date_published: 2024-06-21T00:00:00+00:00
+
  ## Future proof your business with GTM AI
  - [https://www.copy.ai](https://www.copy.ai)
  - date_published: 2024-05-03T00:00:00+00:00
@@ -1956,6 +2056,7 @@ Welcome
  ## CuteChat - NSFW Character AI Chat - No Filter AI Girlfriends
  - [https://cutechat.ai](https://cutechat.ai)
  - date_published: 2024-06-14T08:59:33.328030+00:00
+ - tags: ['artificial intelligence bot', 'nsfw']
 
  ## Cyberrunner – robot playing Labyrinth board game
  - [https://www.cyberrunner.ai](https://www.cyberrunner.ai)
@@ -2117,6 +2218,10 @@ Welcome
  - [https://detangle.ai](https://detangle.ai)
  - date_published: 2023-10-25T11:38:15.628900+00:00
 
+ ## Local AI LLMs | Test AI models on your system | Opera Browser
+ - [https://www.devicetest.ai](https://www.devicetest.ai)
+ - date_published: 2024-06-14T08:06:42+00:00
+
  ## Devtron - The Software Delivery Platform for Kubernetes Applications
  - [https://devtron.ai](https://devtron.ai)
  - date_published: 2023-10-25T11:38:18.347919+00:00
@@ -2157,8 +2262,12 @@ Welcome
  - [https://www.doctrina.ai](https://www.doctrina.ai)
  - date_published: 2024-06-19T20:39:41.183748+00:00
 
+ ## Login -DocuWriter.ai  ✨ #1 AI Tools for Automated Code & Api documentation, Testing, & Refactoring
+ - [https://app.docuwriter.ai](https://app.docuwriter.ai)
+ - date_published: 2024-06-21T09:35:39.749991+00:00
+
  ## DocuWriter.ai: AI Code documentation, Testing and Refactor
- - [http://www.docuwriter.ai](http://www.docuwriter.ai)
+ - [https://www.docuwriter.ai](https://www.docuwriter.ai)
  - date_published: 2024-05-04T11:55:39.890668+00:00
 
  ## Domino Data Lab: Enterprise AI platform
@@ -2324,6 +2433,10 @@ Welcome
  ## Login | Eightfold
  - [https://app.eightfold.ai](https://app.eightfold.ai)
  - date_published: 2024-06-17T16:21:23.268147+00:00
+
+ ## Submit Form
+ - [https://paypal.eightfold.ai](https://paypal.eightfold.ai)
+ - date_published: 2024-06-21T23:51:26.438830+00:00
 
  ## Puppetry is the easiest way to create videos with talking AI Avatars
  - [https://art.elbo.ai](https://art.elbo.ai)
@@ -2500,6 +2613,10 @@ Welcome
  - [https://far.ai](https://far.ai)
  - date_published: 2024-04-17T00:00:00+00:00
 
+ ## Adversarial policies in Go
+ - [https://goattack.far.ai](https://goattack.far.ai)
+ - date_published: 2024-06-21T11:28:03.025262+00:00
+
  ## Projects and Ramblings
  - [https://www.farley.ai](https://www.farley.ai)
  - date_published: 2023-12-16T04:39:04.636256+00:00
@@ -2607,6 +2724,14 @@ Welcome
  ## Fletch | Live ahead of cyberthreats
  - [https://fletch.ai](https://fletch.ai)
  - date_published: 2024-05-04T11:48:18.466153+00:00
+
+ ## Fletch Security Portal | Powered by SafeBase
+ - [https://security.fletch.ai](https://security.fletch.ai)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Fletch | World's first cyber threat AI
+ - [https://www.fletch.ai](https://www.fletch.ai)
+ - date_published: 2024-06-21T09:16:28+00:00
 
  ## FlowChai  - AI For Your Business
  - [https://flowch.ai](https://flowch.ai)
@@ -3029,6 +3154,10 @@ Welcome
  - [https://hamming.ai](https://hamming.ai)
  - date_published: 2024-06-12T11:04:18.172529+00:00
 
+ ## Handy 5.0 | Handy 2024
+ - [https://handy.ai](https://handy.ai)
+ - date_published: 2024-06-21T02:12:27.948532+00:00
+
  ## Harambe AI Token Presale
  - [https://harambetoken.ai](https://harambetoken.ai)
  - date_published: 2024-05-05T00:00:00+00:00
@@ -3037,6 +3166,14 @@ Welcome
  - [https://harpa.ai](https://harpa.ai)
  - date_published: 2024-06-19T20:12:17.163263+00:00
 
+ ## Harvey
+ - [https://app.harvey.ai](https://app.harvey.ai)
+ - date_published: 2024-06-21T10:34:39.419041+00:00
+
+ ## Generative AI for Professional Services | Harvey
+ - [https://harvey.ai](https://harvey.ai)
+ - date_published: 2024-06-21T10:34:43.826140+00:00
+
  ## Generative AI for Professional Services | Harvey
  - [https://www.harvey.ai](https://www.harvey.ai)
  - date_published: 2024-05-04T12:02:12.960251+00:00
@@ -3044,6 +3181,10 @@ Welcome
  ## HASH - a workspace for structured knowledge.
  - [https://hash.ai](https://hash.ai)
  - date_published: 2024-05-04T13:56:05.367161+00:00
+
+ ## HASH - a workspace for structured knowledge.
+ - [https://hashdotai-lq9d3no7k.stage.hash.ai](https://hashdotai-lq9d3no7k.stage.hash.ai)
+ - date_published: 2024-06-21T19:55:30.779115+00:00
 
  ## Haye AI - In-context AI writing assistant for macOS
  - [https://haye.ai](https://haye.ai)
@@ -3156,6 +3297,10 @@ Welcome
  ## Center for Human-Compatible Artificial Intelligence – Center for Human-Compatible AI is building exceptional AI for humanity
  - [https://humancompatible.ai](https://humancompatible.ai)
  - date_published: 2024-05-08T09:51:55.550980+00:00
+
+ ## Human or Not
+ - [https://app.humanornot.ai](https://app.humanornot.ai)
+ - date_published: 2024-06-10T22:22:27+00:00
 
  ## Humata: ChatGPT for Your Data Files
  - [https://www.humata.ai](https://www.humata.ai)
@@ -3305,6 +3450,10 @@ Welcome
  ## Intellecs.ai
  - [https://www.intellecs.ai](https://www.intellecs.ai)
  - date_published: 2024-06-19T19:17:52.936358+00:00
+
+ ## Intelligence.AI
+ - [https://intelligence.ai](https://intelligence.ai)
+ - date_published: 2024-06-21T20:34:38.805648+00:00
 
  ## Content Platform
  - [https://show.intellinode.ai](https://show.intellinode.ai)
@@ -3505,6 +3654,10 @@ Welcome
  - date_published: 2023-10-25T08:41:25.837395+00:00
  - tags: ['personal']
 
+ ## Krueger AI Safety Lab – Technical AI Safety Research
+ - [https://www.kasl.ai](https://www.kasl.ai)
+ - date_published: 2024-06-21T11:38:12.328786+00:00
+
  ## Leverage Human Intelligence | Kern AI
  - [https://www.kern.ai](https://www.kern.ai)
  - date_published: 2024-05-08T06:21:36.784679+00:00
@@ -3526,12 +3679,20 @@ Welcome
  - date_published: 2024-03-05T04:13:47+00:00
 
  ## Meet KLapper Legal Assistant - KLapper
+ - [https://klapper.ai](https://klapper.ai)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Meet KLapper Legal Assistant - KLapper
  - [https://www.klapper.ai](https://www.klapper.ai)
  - date_published: 2024-03-18T00:00:00+00:00
 
  ## Klavier AI
  - [https://klavier.ai](https://klavier.ai)
  - date_published: 2023-10-25T11:39:40.335086+00:00
+
+ ## KLapper Builder
+ - [https://builder.klobot.ai](https://builder.klobot.ai)
+ - date_published: 2024-06-20T07:55:27+00:00
 
  ## KLoBot Inc – Incredibly Intelligent Products for Law Firms & General Counsels
  - [https://www.klobot.ai](https://www.klobot.ai)
@@ -3576,6 +3737,10 @@ Welcome
  ## Komo Search - AI Search & Explore
  - [https://komo.ai](https://komo.ai)
  - date_published: 2024-06-19T20:10:05.308757+00:00
+
+ ## An unparalleled return on your content
+ - [https://kontent.ai](https://kontent.ai)
+ - date_published: 2024-06-21T20:21:36.878790+00:00
 
  ## koolio.ai - What's your story?
  - [https://www.koolio.ai](https://www.koolio.ai)
@@ -3644,6 +3809,11 @@ Welcome
  ## Gandalf | Lakera – Test your prompting skills to make Gandalf reveal secret information.
  - [https://gandalf.lakera.ai](https://gandalf.lakera.ai)
  - date_published: 2023-10-25T11:39:42.986573+00:00
+
+ ## Vocal Remover & Instrumental AI Splitter | LALAL.AI
+ - [https://lalal.ai](https://lalal.ai)
+ - date_published: 2024-06-21T11:15:58+00:00
+ - tags: ['artificial intelligence', 'music generation', 'music splitter']
 
  ## Vocal Remover & Instrumental AI Splitter | LALAL.AI
  - [https://www.lalal.ai](https://www.lalal.ai)
@@ -3863,173 +4033,4 @@ Welcome
  ## LlamaIndex - LlamaIndex
  - [https://docs.llamaindex.ai](https://docs.llamaindex.ai)
  - date_published: 2024-05-04T08:32:21.835719+00:00
-
- ## What is LlamaIndex? | LlamaIndex.TS
- - [https://ts.llamaindex.ai](https://ts.llamaindex.ai)
- - date_published: 2024-06-20T10:49:58.030522+00:00
-
- ## LlamaIndex, Data Framework for LLM Applications
- - [https://www.llamaindex.ai](https://www.llamaindex.ai)
- - date_published: 2024-05-11T07:39:41.017814+00:00
-
- ## LM Studio – Discover, download, and run local LLMs
- - [https://lmstudio.ai](https://lmstudio.ai)
- - date_published: 2023-11-22T09:38:46+00:00
-
- - [https://www.locofy.ai](https://www.locofy.ai)
- - date_published: 2024-04-25T21:21:22.657949+00:00
-
- ## Free Logo Maker | Create a Logo Online - Logomakerr.ai
- - [https://logomakerr.ai](https://logomakerr.ai)
- - date_published: 2024-06-19T21:07:56.681395+00:00
-
- ## Free Logo Maker | Create Your Own Logo Design | Logomaster.ai
- - [https://logomaster.ai](https://logomaster.ai)
- - date_published: 2024-06-17T01:47:08+00:00
-
- ## LongShot: AI Co-Pilot for High-Ranking Factual Content
- - [https://longshot.ai](https://longshot.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Speak English with Loora AI
- - [https://www.loora.ai](https://www.loora.ai)
- - date_published: 2024-06-19T19:19:20.527768+00:00
-
- ## Louis Bouchard
- - [https://www.louisbouchard.ai](https://www.louisbouchard.ai)
- - date_published: 2024-06-20T05:36:42.655581+00:00
-
- ## Ecommerce Stores shouldn't be static | Loup
- - [https://loup.ai](https://loup.ai)
- - date_published: 2024-06-20T21:59:26.009841+00:00
-
- ## AI Voice Generator: Realistic Text to Speech & Voice Cloning
- - [https://lovo.ai](https://lovo.ai)
- - date_published: 2024-06-19T21:38:44.245037+00:00
-
- ## Mario Lucic
- - [https://lucic.ai](https://lucic.ai)
- - date_published: 2024-05-09T09:15:56.848427+00:00
- - tags: ['personal']
-
- ## Stronger Business Insights with AI-Powered Knowledge Management | Lucy
- - [https://www.lucy.ai](https://www.lucy.ai)
- - date_published: 2024-06-19T18:48:11+00:00
-
- ## Create hit games with the power of AI with Ludo
- - [https://ludo.ai](https://ludo.ai)
- - date_published: 2024-06-19T21:11:20.193367+00:00
-
- ## Loading ...
- - [https://www.luis.ai](https://www.luis.ai)
- - date_published: 2024-05-02T12:44:26.847441+00:00
-
- ## Luma AI - Featured Captures
- - [https://captures.lumalabs.ai](https://captures.lumalabs.ai)
- - date_published: 2024-06-19T19:50:02.023641+00:00
-
- ## Luma AI
- - [https://lumalabs.ai](https://lumalabs.ai)
- - date_published: 2023-10-25T11:39:54.133649+00:00
-
- ## Introduction - Documentation
- - [https://docs.lume.ai](https://docs.lume.ai)
- - date_published: 2023-12-06T19:47:41.218118+00:00
-
- ## Show HN: Lume – automate data mappings using AI
- - [https://www.lume.ai](https://www.lume.ai)
- - date_published: 2023-12-06T17:37:48+00:00
-
- ## Lumona
- - [https://lumona.ai](https://lumona.ai)
- - date_published: 2024-03-29T20:12:06.449920+00:00
-
- ## Lumona
- - [https://www.lumona.ai](https://www.lumona.ai)
- - date_published: 2024-05-12T04:30:58.691924+00:00
-
- ## LunarTech - Empowering Tomorrow's Innovators
- - [https://academy.lunartech.ai](https://academy.lunartech.ai)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## LunarTech - Empowering Tomorrow's Innovators
- - [https://lunartech.ai](https://lunartech.ai)
- - date_published: 2024-04-25T21:21:17.760872+00:00
- - tags: ['monetization', 'service', 'education']
-
- ## Free AI Room Planner & Virtual Home Designer for Interior & Exterior | Luw.ai
- - [https://luw.ai](https://luw.ai)
- - date_published: 2024-05-29T19:41:10+00:00
-
- ## Macha - Search Infrastructure for New Internet
- - [http://macha.ai](http://macha.ai)
- - date_published: 2023-09-25T11:19:04+00:00
-
- ## MACHINES OF TOMORROW
- - [http://www.machinesoftomorrow.ai](http://www.machinesoftomorrow.ai)
- - date_published: 2024-06-19T23:45:29.065210+00:00
-
- ## macky
- - [https://macky.ai](https://macky.ai)
- - date_published: 2024-06-14T08:53:46.619734+00:00
-
- ## Give your data team magical powers
- - [https://mage.ai](https://mage.ai)
- - date_published: 2024-06-14T22:46:55.433750+00:00
-
- ## Mage Data : Best Data Security Platform For Enterprises
- - [https://magedata.ai](https://magedata.ai)
- - date_published: 2024-06-19T11:08:51.998593+00:00
-
- ## Gen AI Workspace - Magicflow
- - [https://www.magicflow.ai](https://www.magicflow.ai)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## MagicForm
- - [https://www.magicform.ai](https://www.magicform.ai)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Reach - Generate more sales pipeline with lead and account based triggers across multiple data sources
- - [https://www.magicreach.ai](https://www.magicreach.ai)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## MagicSchool.ai - AI for teachers - lesson planning and more!
- - [https://www.magicschool.ai](https://www.magicschool.ai)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## PropertyPen
- - [https://try.magictools.ai](https://try.magictools.ai)
- - date_published: 2024-06-19T20:41:26.313209+00:00
-
- ## MagicType.AI - Discover the Magic in you
- - [https://magictype.ai](https://magictype.ai)
- - date_published: 2024-06-19T20:05:40.194589+00:00
-
- ## MagicType.AI - Discover the Magic in you
- - [https://www.magictype.ai](https://www.magictype.ai)
- - date_published: 2024-06-19T19:48:15.256606+00:00
-
- ## Magnific AI
- - [https://magnific.ai](https://magnific.ai)
- - date_published: 2024-04-28T04:38:00.866111+00:00
-
- ## Mails.ai | AI Cold Email Software
- - [https://mails.ai](https://mails.ai)
- - date_published: 2024-06-19T19:06:05.241577+00:00
-
- ## Build Beautiful landing pages Instantly With AI | Makelanding
- - [https://makelanding.ai](https://makelanding.ai)
- - date_published: 2024-06-19T20:39:56.397572+00:00
-
- ## Generative Design | Architecture Design Software | Maket
- - [https://www.maket.ai](https://www.maket.ai)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## ManyTools.ai lists the best ai tools sites of 2024!
- - [https://manytools.ai](https://manytools.ai)
- - date_published: 2024-05-06T21:05:17.277748+00:00
-
- ## Marcus Aurelius AI
- - [https://marcusaurelius.ai](https://marcusaurelius.ai)
- - date_published: 2023-11-09T07:28:27+00:00
 

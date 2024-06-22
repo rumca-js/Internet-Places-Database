@@ -1,3 +1,237 @@
+ ## Show HN: CodeRev.app – Code Review as Interview
+ - [https://coderev.app](https://coderev.app)
+ - date_published: 2024-02-19T11:46:49+00:00
+
+ ## ColorMagic | AI Color Palette Generator
+ - [https://colormagic.app](https://colormagic.app)
+ - date_published: 2024-06-19T19:19:07.523354+00:00
+
+ ## Comentario Demo
+ - [https://demo.comentario.app](https://demo.comentario.app)
+ - date_published: 2024-05-05T11:53:32.531441+00:00
+
+ ## https://docs.comentario.app/en/
+ - [https://docs.comentario.app](https://docs.comentario.app)
+ - date_published: 2024-05-05T11:53:31.791677+00:00
+
+ ## Show HN: CompressX, my FFmpeg wrapper for macOS, made $9k in the last 4 months
+ - [https://compressx.app](https://compressx.app)
+ - date_published: 2024-04-10T06:32:18+00:00
+ - tags: ['propietary', 'monetization']
+
+ ## Consensus - Evidence-Based Answers, Faster
+ - [https://consensus.app](https://consensus.app)
+ - date_published: 2023-10-25T11:45:54.897673+00:00
+
+ ## console.app
+ - [http://console.app](http://console.app)
+ - date_published: 2024-04-28T01:59:59.092251+00:00
+
+ ## Title management for the modern book publisher | Consonance
+ - [https://www.consonance.app](https://www.consonance.app)
+ - date_published: 2024-04-29T07:49:48.991612+00:00
+
+ ## Contrax.app
+ - [https://contrax.app](https://contrax.app)
+ - date_published: 2024-06-03T11:18:08.746229+00:00
+
+ ## Browse, organise, search and switch tabs with one simple shortcut
+ - [https://controlspace.app](https://controlspace.app)
+ - date_published: 2024-05-02T11:41:43.845843+00:00
+
+ ## Free English and Tagalog Grammar Checker
+ - [https://corrector.app](https://corrector.app)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Count the Hours
+ - [https://www.countthehours.app](https://www.countthehours.app)
+ - date_published: 2023-10-25T11:45:56.370816+00:00
+
+ ## AI Cover Letters, Examples & Templates - coverletter.app
+ - [https://coverletter.app](https://coverletter.app)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## COVID Shield
+ - [https://www.covidshield.app](https://www.covidshield.app)
+ - date_published: 2024-05-12T04:14:35.287763+00:00
+
+ ## CreateLogo | AI logo generator
+ - [https://createlogo.app](https://createlogo.app)
+ - date_published: 2024-06-14T08:55:58.325305+00:00
+
+ ## TalkingHead
+ - [https://assistant.creatus.app](https://assistant.creatus.app)
+ - date_published: 2024-02-06T14:07:15+00:00
+
+ ## Running and monitoring cron jobs | Cronly
+ - [https://cronly.app](https://cronly.app)
+ - date_published: 2024-06-16T23:01:54.069448+00:00
+
+ ## Show HN: CriticalPath – Advanced Profiler for Android
+ - [https://crpath.app](https://crpath.app)
+ - date_published: 2024-02-28T20:52:32+00:00
+
+ ## CryptoPunks
+ - [https://cryptopunks.app](https://cryptopunks.app)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## React App
+ - [https://6vmc1n.csb.app](https://6vmc1n.csb.app)
+ - date_published: 2024-05-06T21:26:24.258629+00:00
+
+ ## Static Template
+ - [https://n8ngnc.csb.app](https://n8ngnc.csb.app)
+ - date_published: 2024-06-16T08:06:11.547243+00:00
+
+ ## Static Template
+ - [https://q14t91.csb.app](https://q14t91.csb.app)
+ - date_published: 2024-06-16T05:46:11.027244+00:00
+
+ ## CYNCROCITY
+ - [https://cyncrocity.app](https://cyncrocity.app)
+ - date_published: 2024-06-19T21:05:43.609986+00:00
+
+ ## Umami
+ - [https://web-analytics.danielroelfs.app](https://web-analytics.danielroelfs.app)
+ - date_published: 2024-05-09T07:43:24.619656+00:00
+
+ ## DataPulse - Simple, fun & lightweight web analytics solution
+ - [https://datapulse.app](https://datapulse.app)
+ - date_published: 2024-06-16T20:49:07.461191+00:00
+
+ ## Dateforce | Salesforce, but for dating
+ - [https://dateforce.app](https://dateforce.app)
+ - date_published: 2023-10-25T11:45:57.324167+00:00
+ - tags: ['dating']
+
+ ## DecisionMentor – Let us be your decision making compass.
+ - [https://decisionmentor.app](https://decisionmentor.app)
+ - date_published: 2024-06-19T20:39:15.865331+00:00
+
+ ## deploybot
+ - [https://deploybot.app](https://deploybot.app)
+ - date_published: 2024-05-06T09:18:30.757531+00:00
+
+ ## Diagrams: A Native Diagram Editor for Mac
+ - [https://diagrams.app](https://diagrams.app)
+ - date_published: 2024-05-12T06:23:53.449350+00:00
+
+ ## Didthis
+ - [https://didthis.app](https://didthis.app)
+ - date_published: 2024-05-08T10:31:33.250502+00:00
+
+ ## Digiboard by La Digitale
+ - [https://digiboard.app](https://digiboard.app)
+ - date_published: 2024-06-19T22:13:52.808568+00:00
+
+ ## Digibuzzer by La Digitale
+ - [https://digibuzzer.app](https://digibuzzer.app)
+ - date_published: 2024-06-19T22:21:57.705558+00:00
+
+ ## Digipad by La Digitale
+ - [https://digipad.app](https://digipad.app)
+ - date_published: 2024-06-19T22:14:29.585680+00:00
+
+ ## Digistorm by La Digitale
+ - [https://digistorm.app](https://digistorm.app)
+ - date_published: 2024-06-19T22:35:03.515046+00:00
+
+ ## Digiwall by La Digitale
+ - [https://digiwall.app](https://digiwall.app)
+ - date_published: 2024-06-19T22:12:03.314315+00:00
+
+ ## Loading…
+ - [https://marketing.directus.app](https://marketing.directus.app)
+ - date_published: 2024-05-19T02:57:27.093137+00:00
+
+ ## Loading…
+ - [https://ripleys.directus.app](https://ripleys.directus.app)
+ - date_published: 2024-04-28T05:07:44.617119+00:00
+
+ ## Loading…
+ - [https://tv.directus.app](https://tv.directus.app)
+ - date_published: 2024-05-19T02:57:34.991470+00:00
+
+ ## Doc Converter - Convert PDF files to Word documents (docx)
+ - [https://docconverter.app](https://docconverter.app)
+ - date_published: 2023-10-25T11:45:58.590918+00:00
+
+ ## DoubleLoop – Develop an impact-oriented strategy
+ - [https://doubleloop.app](https://doubleloop.app)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Draw Anything - Stable Diffusion Playground
+ - [https://www.drawanything.app](https://www.drawanything.app)
+ - date_published: 2023-10-25T11:46:04.375493+00:00
+
+ ## Dream Voyage - Unlock the Mysteries of Your Dreams
+ - [https://dreamore.app](https://dreamore.app)
+ - date_published: 2024-06-19T19:55:29.506273+00:00
+
+ ## Duck, a chat-based note app for your knowledge base
+ - [https://site.ducknote.app](https://site.ducknote.app)
+ - date_published: 2023-10-25T11:46:05.662968+00:00
+
+ ## Duolicious | Meet People Who Get You | Date, Make Friends & Chat
+ - [https://duolicious.app](https://duolicious.app)
+ - date_published: 2024-05-17T02:55:36.190670+00:00
+
+ ## Easy Indie App
+ - [https://easyindie.app](https://easyindie.app)
+ - date_published: 2024-06-19T22:35:08.072422+00:00
+
+ ## EchoFeed
+ - [https://echofeed.app](https://echofeed.app)
+ - date_published: 2024-05-04T14:15:00.185964+00:00
+
+ ## Home - Edge
+ - [https://edge.app](https://edge.app)
+ - date_published: 2024-05-08T05:59:54.071896+00:00
+
+ ## Home | Edifi
+ - [https://edifi.app](https://edifi.app)
+ - date_published: 2024-05-08T05:16:51.130272+00:00
+
+ ## EditAir: AI-Driven Video Editing
+ - [https://www.editair.app](https://www.editair.app)
+ - date_published: 2024-06-19T21:11:08.612781+00:00
+
+ ## eesel - The new tab for work
+ - [https://www.eesel.app](https://www.eesel.app)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Efficient App | Top Software Reviews & Comparisons
+ - [https://efficient.app](https://efficient.app)
+ - date_published: 2024-05-14T03:37:37.676630+00:00
+
+ ## YouTube Video Summaries with Eightify AI ChatGPT
+ - [https://www.eightify.app](https://www.eightify.app)
+ - date_published: 2023-10-25T11:46:08.020954+00:00
+
+ ## eightpoint
+ - [https://eightpoint.app](https://eightpoint.app)
+ - date_published: 2024-05-23T13:30:40.880013+00:00
+
+ ## Elephas - Personal AI Writing Assistant for Mac
+ - [https://elephas.app](https://elephas.app)
+ - date_published: 2024-06-19T21:05:49.065293+00:00
+
+ ## harmy.link
+ - [https://peertube-a5egg-u8148.vm.elestio.app](https://peertube-a5egg-u8148.vm.elestio.app)
+ - date_published: 2023-10-25T11:46:08.629410+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://elevault.app](https://elevault.app)
+ - date_published: 2024-05-09T07:36:26.715253+00:00
+
+ ## Bleib in Kontakt mit elim. - der virtuellen Karten-App
+ - [https://www.elim.app](https://www.elim.app)
+ - date_published: 2023-10-25T11:46:10.548444+00:00
+
+ ## Rebrandly
+ - [https://elodin.app](https://elodin.app)
+ - date_published: 2024-05-09T05:41:46.722172+00:00
+
  ## EmailEngine Blog
  - [https://docs.emailengine.app](https://docs.emailengine.app)
  - date_published: 2024-02-27T00:00:00+00:00
@@ -101,6 +335,26 @@
  ## Fellow.app | The Most Integrated AI Meeting Notes & Summaries
  - [https://fellow.app](https://fellow.app)
  - date_published: 2024-06-11T00:00:00+00:00
+
+ ## New to Fermat | Fermat docs
+ - [https://docs.fermat.app](https://docs.fermat.app)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Fermat - Fashion Design, Accelerated
+ - [https://fermat.app](https://fermat.app)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Login
+ - [https://home.fermat.app](https://home.fermat.app)
+ - date_published: 2024-06-21T20:01:35.020130+00:00
+
+ ## Fermat Research
+ - [https://research.fermat.app](https://research.fermat.app)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Login - Fermat Toolmaker
+ - [https://toolmaker.fermat.app](https://toolmaker.fermat.app)
+ - date_published: 2024-06-21T20:01:36.491097+00:00
 
  ## figr.app - Your notepad calculator
  - [https://www.figr.app](https://www.figr.app)
@@ -468,6 +722,14 @@
  - [https://www.kolo.app](https://www.kolo.app)
  - date_published: 2024-06-11T09:07:49.177575+00:00
 
+ ## Kosmik
+ - [https://play.kosmik.app](https://play.kosmik.app)
+ - date_published: 2024-06-12T09:25:29+00:00
+
+ ## Kosmik - A better way to do for visual research
+ - [https://www.kosmik.app](https://www.kosmik.app)
+ - date_published: 2024-05-24T00:00:00+00:00
+
  ## Umami
  - [https://umami-maurice.koyeb.app](https://umami-maurice.koyeb.app)
  - date_published: 2024-04-29T06:25:50.745749+00:00
@@ -495,6 +757,10 @@
  ## Linear – A better way to build products
  - [https://linear.app](https://linear.app)
  - date_published: 2023-10-25T11:47:02.657603+00:00
+
+ ## Linear – Plan and build products
+ - [https://www.linear.app](https://www.linear.app)
+ - date_published: 2024-06-21T22:05:03.087295+00:00
 
  ## LinearMouse | The mouse and trackpad utility for Mac.
  - [https://linearmouse.app](https://linearmouse.app)
@@ -576,6 +842,10 @@
  - [https://www.lovefuel.app](https://www.lovefuel.app)
  - date_published: 2024-05-12T19:14:39+00:00
 
+ ## Quick Start
+ - [https://learn.lowercase.app](https://learn.lowercase.app)
+ - date_published: 2024-06-21T02:05:40.174002+00:00
+
  ## Lowercase – A simple way to take and share notes
  - [https://www.lowercase.app](https://www.lowercase.app)
  - date_published: 2024-05-03T14:39:49+00:00
@@ -620,6 +890,10 @@
  ## AI Presentation Maker - Presentation from Topic, YouTube, PDF, URL with AI
  - [https://www.magicslides.app](https://www.magicslides.app)
  - date_published: 2024-06-19T20:38:41.927054+00:00
+
+ ## Mailcoach
+ - [https://lunar.mailcoach.app](https://lunar.mailcoach.app)
+ - date_published: 2024-06-21T09:27:06.589960+00:00
 
  ## Mailcoach, the affordable, privacy-first email marketing service
  - [https://mailcoach.app](https://mailcoach.app)
@@ -839,6 +1113,14 @@
  - [https://astro-modern-personal-website.netlify.app](https://astro-modern-personal-website.netlify.app)
  - date_published: 2024-04-29T07:28:42.208361+00:00
 
+ ## Astro
+ - [https://astro-moon-landing.netlify.app](https://astro-moon-landing.netlify.app)
+ - date_published: 2024-06-21T20:50:37.430616+00:00
+
+ ## Welcome to Astro.
+ - [https://astro-platform-starter.netlify.app](https://astro-platform-starter.netlify.app)
+ - date_published: 2024-06-21T20:50:36.040615+00:00
+
  ## Astrolize - Starter Template for Astro
  - [https://astro-starter-theme.netlify.app](https://astro-starter-theme.netlify.app)
  - date_published: 2024-05-09T08:14:29.616339+00:00
@@ -892,6 +1174,10 @@
  ## Un garçon pas comme les autres (Bayes)
  - [https://dansblog.netlify.app](https://dansblog.netlify.app)
  - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Dante
+ - [https://dante-astro-theme.netlify.app](https://dante-astro-theme.netlify.app)
+ - date_published: 2024-01-11T00:00:00+00:00
 
  ## Pokémon Cards CSS Holographic Effect
  - [https://deck-24abcd.netlify.app](https://deck-24abcd.netlify.app)
@@ -1000,6 +1286,10 @@
  - date_published: 2024-03-23T07:29:16+00:00
  - tags: ['online service']
 
+ ## Netlify Starter
+ - [https://nextjs-platform-starter.netlify.app](https://nextjs-platform-starter.netlify.app)
+ - date_published: 2024-06-21T20:50:50.302472+00:00
+
  ## Nicky blogs
  - [https://nickymeuleman.netlify.app](https://nickymeuleman.netlify.app)
  - date_published: 2024-05-11T10:05:17.106408+00:00
@@ -1092,6 +1382,10 @@
  ## Stavros' web corner
  - [https://stavros-wb.netlify.app](https://stavros-wb.netlify.app)
  - date_published: 2024-05-07T23:25:55.864258+00:00
+
+ ## React App
+ - [https://stb-socialcards.netlify.app](https://stb-socialcards.netlify.app)
+ - date_published: 2024-06-21T20:52:54.061541+00:00
 
  ## Sudoku
  - [https://sudoku-aj.netlify.app](https://sudoku-aj.netlify.app)
@@ -1252,6 +1546,7 @@
  ## OnlyFakes - Uncensored AI Images | NSFW AI Generator
  - [https://onlyfakes.app](https://onlyfakes.app)
  - date_published: 2024-06-19T19:57:21.581224+00:00
+ - tags: ['nsfw']
 
  ## OpenIV - Download #1 Best Modding Tool for GTA V (OFFICIAL)
  - [https://openiv.app](https://openiv.app)
@@ -1399,6 +1694,14 @@
  ## Pieces for Developers - Your Workflow Copilot
  - [https://pieces.app](https://pieces.app)
  - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Pigment Product Updates
+ - [https://changelog.pigment.app](https://changelog.pigment.app)
+ - date_published: 2024-06-21T09:15:37.802537+00:00
+
+ ## Pigment.app
+ - [https://pigment.app](https://pigment.app)
+ - date_published: 2024-06-20T00:00:00+00:00
 
  ## Pindigo
  - [https://pindigo.app](https://pindigo.app)
@@ -1554,6 +1857,10 @@
  ## Railway
  - [https://railway.app](https://railway.app)
  - date_published: 2024-05-06T13:13:16.253808+00:00
+
+ ## Railway - Status
+ - [https://status.railway.app](https://status.railway.app)
+ - date_published: 2024-06-21T00:00:00+00:00
 
  ## Umami
  - [https://umami-production-9867.up.railway.app](https://umami-production-9867.up.railway.app)
@@ -2003,6 +2310,10 @@
  - [https://thankyounote.app](https://thankyounote.app)
  - date_published: 2022-08-16T21:00:27+00:00
 
+ ## thechat.app - Decentralized Web3 group chat
+ - [https://thechat.app](https://thechat.app)
+ - date_published: 2024-06-21T20:22:20.499267+00:00
+
  ## The Companion
  - [https://www.thecompanion.app](https://www.thecompanion.app)
  - date_published: 2023-10-25T11:49:20.174746+00:00
@@ -2243,6 +2554,18 @@
  - [https://analyzeme.vercel.app](https://analyzeme.vercel.app)
  - date_published: 2024-06-19T19:40:50.889083+00:00
 
+ ## Andromeda Astro
+ - [https://andromeda-astro.vercel.app](https://andromeda-astro.vercel.app)
+ - date_published: 2024-06-21T23:48:54.270722+00:00
+
+ ## Andromeda Light Nextjs
+ - [https://andromeda-light-nextjs.vercel.app](https://andromeda-light-nextjs.vercel.app)
+ - date_published: 2024-06-21T23:49:01.195057+00:00
+
+ ## Andromeda Nextjs
+ - [https://andromeda-nextjs.vercel.app](https://andromeda-nextjs.vercel.app)
+ - date_published: 2024-06-21T23:49:03.664414+00:00
+
  ## Antidepressants or Tolkien
  - [https://antidepressantsortolkien.vercel.app](https://antidepressantsortolkien.vercel.app)
  - date_published: 2023-11-08T02:53:20+00:00
@@ -2273,13 +2596,41 @@
  - date_published: 2023-12-20T04:44:54+00:00
  - tags: ['artificial intelligence bot']
 
+ ## Bigspring Astro and Tailwindcss
+ - [https://bigspring-astro.vercel.app](https://bigspring-astro.vercel.app)
+ - date_published: 2024-06-21T23:48:57.222025+00:00
+
+ ## Bigspring Light Astro
+ - [https://bigspring-light-astro.vercel.app](https://bigspring-light-astro.vercel.app)
+ - date_published: 2024-06-21T23:49:13.604384+00:00
+
+ ## Bigspring Light Nextjs
+ - [https://bigspring-light-nextjs.vercel.app](https://bigspring-light-nextjs.vercel.app)
+ - date_published: 2024-06-21T23:48:43.830527+00:00
+
+ ## Bigspring with nextjs and tailwindcss
+ - [https://bigspring-nextjs.vercel.app](https://bigspring-nextjs.vercel.app)
+ - date_published: 2024-06-21T23:48:43.140927+00:00
+
  ## Biz Browsing
  - [https://biz-browsing.vercel.app](https://biz-browsing.vercel.app)
  - date_published: 2024-04-30T02:13:49.791693+00:00
 
+ ## Biztrox Astro
+ - [https://biztrox-astro.vercel.app](https://biztrox-astro.vercel.app)
+ - date_published: 2024-06-21T23:48:51.616550+00:00
+
  ## Homepage | BJSM
  - [https://bjsmsite.vercel.app](https://bjsmsite.vercel.app)
  - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Bookworm Light Astro | Blog Template
+ - [https://bookworm-light-astro.vercel.app](https://bookworm-light-astro.vercel.app)
+ - date_published: 2024-06-21T23:48:45.898700+00:00
+
+ ## Bookworm Next | Personal Blog Theme
+ - [https://bookworm-light-nextjs.vercel.app](https://bookworm-light-nextjs.vercel.app)
+ - date_published: 2024-06-21T23:48:55.895779+00:00
 
  ## Boot & Shoe Blog
  - [https://boot-and-shoe.vercel.app](https://boot-and-shoe.vercel.app)
@@ -2373,6 +2724,10 @@
  - [https://cool-readme.vercel.app](https://cool-readme.vercel.app)
  - date_published: 2023-10-25T11:50:01.532222+00:00
 
+ ## Copper Astro
+ - [https://copper-astro.vercel.app](https://copper-astro.vercel.app)
+ - date_published: 2024-06-21T23:48:50.055455+00:00
+
  ## Barely Comunity CSS page
  - [https://css-comments.vercel.app](https://css-comments.vercel.app)
  - date_published: 2024-01-09T02:23:36.958321+00:00
@@ -2401,6 +2756,14 @@
  - [https://delta-inflight.vercel.app](https://delta-inflight.vercel.app)
  - date_published: 2024-05-04T14:13:13.818416+00:00
 
+ ## Dexler Astro
+ - [https://dexler-astro.vercel.app](https://dexler-astro.vercel.app)
+ - date_published: 2024-06-21T23:48:53.301755+00:00
+
+ ## Docbox
+ - [https://docbox-astro.vercel.app](https://docbox-astro.vercel.app)
+ - date_published: 2024-06-21T23:49:02.523206+00:00
+
  ## Create Next App
  - [https://doodle-ai-ogimage.vercel.app](https://doodle-ai-ogimage.vercel.app)
  - date_published: 2024-05-01T04:02:33.427826+00:00
@@ -2424,6 +2787,10 @@
  ## Dynamic Open Graph Image Generator
  - [https://dynamic-og-image-generator.vercel.app](https://dynamic-og-image-generator.vercel.app)
  - date_published: 2024-05-01T03:02:00.755365+00:00
+
+ ## Effective Altruism Funds
+ - [https://ea-funds-6ve1owvft-centreea.vercel.app](https://ea-funds-6ve1owvft-centreea.vercel.app)
+ - date_published: 2024-06-21T11:38:57.174210+00:00
 
  ## Overview - ETHAccra
  - [https://eth-accra-website.vercel.app](https://eth-accra-website.vercel.app)
@@ -2528,6 +2895,10 @@
  ## highlight.io: The open source monitoring platform.
  - [https://highlight-landing-79rzcxb86-highlight-run.vercel.app](https://highlight-landing-79rzcxb86-highlight-run.vercel.app)
  - date_published: 2024-05-04T15:50:23.907835+00:00
+
+ ## highlight.io: The open source monitoring platform.
+ - [https://highlight-landing-b1fcgfh7d-highlight-run.vercel.app](https://highlight-landing-b1fcgfh7d-highlight-run.vercel.app)
+ - date_published: 2024-06-21T08:19:19.505459+00:00
 
  ## Find Hacker News candidates and jobs powered by ChatGPT
  - [https://hn-hiring-tpipr43zp-u-turn.vercel.app](https://hn-hiring-tpipr43zp-u-turn.vercel.app)
@@ -2677,6 +3048,10 @@
  - [https://ng-chat-v.vercel.app](https://ng-chat-v.vercel.app)
  - date_published: 2024-05-20T18:18:54.812115+00:00
 
+ ## Northendlab | Astro Blog Theme
+ - [https://northendlab-light-astro.vercel.app](https://northendlab-light-astro.vercel.app)
+ - date_published: 2024-06-21T23:48:46.626162+00:00
+
  ## Notes
  - [https://notes-ibnmaghreb.vercel.app](https://notes-ibnmaghreb.vercel.app)
  - date_published: 2024-06-02T00:00:00+00:00
@@ -2744,6 +3119,10 @@
  ## Pilcrow
  - [https://pilcrow.vercel.app](https://pilcrow.vercel.app)
  - date_published: 2023-10-25T11:50:35.181793+00:00
+
+ ## Pinwheel Astro
+ - [https://pinwheel-astro.vercel.app](https://pinwheel-astro.vercel.app)
+ - date_published: 2024-06-21T23:48:44.741663+00:00
 
  ## planifAI by Andres Paulino
  - [https://planifai.vercel.app](https://planifai.vercel.app)
@@ -2858,6 +3237,10 @@
  - [https://single-emoji.vercel.app](https://single-emoji.vercel.app)
  - date_published: 2023-10-25T11:50:49.105285+00:00
 
+ ## Sirius
+ - [https://sirius-astro.vercel.app](https://sirius-astro.vercel.app)
+ - date_published: 2024-06-21T23:49:08.583190+00:00
+
  ## Create Next App
  - [https://skin-museum-og-captbaritone-webamp.vercel.app](https://skin-museum-og-captbaritone-webamp.vercel.app)
  - date_published: 2024-05-12T04:23:33.646853+00:00
@@ -2877,6 +3260,14 @@
  ## Spirals
  - [https://spirals.vercel.app](https://spirals.vercel.app)
  - date_published: 2023-10-25T11:50:52.349082+00:00
+
+ ## Spydea Astro
+ - [https://spydea-astro.vercel.app](https://spydea-astro.vercel.app)
+ - date_published: 2024-06-21T23:48:58.745344+00:00
+
+ ## Spydea | Sass Theme
+ - [https://spydea-nextjs.vercel.app](https://spydea-nextjs.vercel.app)
+ - date_published: 2024-06-21T23:48:40.221775+00:00
 
  ## Introduction – react-tweet
  - [https://static-tweet.vercel.app](https://static-tweet.vercel.app)
@@ -2949,6 +3340,14 @@
  ## Verifiable Credentials
  - [https://verifiable-credentials-website.vercel.app](https://verifiable-credentials-website.vercel.app)
  - date_published: 2024-04-30T02:27:09.367081+00:00
+
+ ## Visionex
+ - [https://visionex-astro.vercel.app](https://visionex-astro.vercel.app)
+ - date_published: 2024-06-21T23:49:05.267676+00:00
+
+ ## Visionex
+ - [https://visionex-nextjs.vercel.app](https://visionex-nextjs.vercel.app)
+ - date_published: 2024-06-21T23:49:10.068306+00:00
 
  ## Vizionova - Build Intelligent Map Diagramming
  - [https://vizionova.vercel.app](https://vizionova.vercel.app)
@@ -3034,6 +3433,10 @@
  - [https://wakeout.app](https://wakeout.app)
  - date_published: 2024-06-20T05:35:00.311184+00:00
 
+ ## Wallaroo • Wallpapers Just For You!
+ - [https://wallaroo.app](https://wallaroo.app)
+ - date_published: 2024-01-05T22:33:22+00:00
+
  ## WATCH3R
  - [https://watch3r.app](https://watch3r.app)
  - date_published: 2024-06-14T14:48:09.194760+00:00
@@ -3062,6 +3465,10 @@
  ## Angular
  - [https://angular-gr.web.app](https://angular-gr.web.app)
  - date_published: 2024-05-31T11:09:05.185015+00:00
+
+ ## Bayes-Up
+ - [https://bayes-up.web.app](https://bayes-up.web.app)
+ - date_published: 2020-04-22T09:56:12+00:00
 
  ## React App
  - [https://binderpos-big-calendar-1490e.web.app](https://binderpos-big-calendar-1490e.web.app)
@@ -3210,9 +3617,13 @@
  - [https://song.xlog.app](https://song.xlog.app)
  - date_published: 2024-01-15T14:06:39.285330+00:00
 
+ ## Blog
+ - [https://blog.xumm.app](https://blog.xumm.app)
+ - date_published: 2024-06-20T00:00:00+00:00
+
  ## Yakk
  - [https://yakk.app](https://yakk.app)
- - date_published: 2024-05-04T14:31:52.114715+00:00
+ - date_published: 2024-01-23T16:13:48+00:00
 
  ## YourDoctor AI
  - [https://doctor.yourmed.app](https://doctor.yourmed.app)
@@ -3489,6 +3900,10 @@
  - [http://www.santillana.com.ar](http://www.santillana.com.ar)
  - date_published: 2024-06-12T12:55:30.074911+00:00
 
+ ## Attention Required! | Cloudflare
+ - [https://www.segu-info.com.ar](https://www.segu-info.com.ar)
+ - date_published: 2024-06-21T23:56:39.907081+00:00
+
  ## Alquiler de autos con Sixt rent a car
  - [https://www.sixt.com.ar](https://www.sixt.com.ar)
  - date_published: 2024-06-14T00:00:00+00:00
@@ -3516,6 +3931,18 @@
  ## Yelp
  - [https://www.yelp.com.ar](https://www.yelp.com.ar)
  - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Blackboard Learn
+ - [https://campus.itba.edu.ar](https://campus.itba.edu.ar)
+ - date_published: 2004-06-21T22:34:39+00:00
+
+ ## Innovacion – Escuela de Innovación ITBA
+ - [https://innovacion.itba.edu.ar](https://innovacion.itba.edu.ar)
+ - date_published: 2024-06-21T22:34:38.548621+00:00
+
+ ## ITBA | Instituto Tecnológico de Buenos Aires
+ - [https://wordpress-test.itba.edu.ar](https://wordpress-test.itba.edu.ar)
+ - date_published: 2024-06-21T22:34:45.911795+00:00
 
  ## Instituto Tecnológico de Buenos Aires - ITBA
  - [https://www.itba.edu.ar](https://www.itba.edu.ar)
@@ -3625,449 +4052,4 @@
  ## Agent Content :)
  - [http://agentcontent.art](http://agentcontent.art)
  - date_published: 2024-05-07T19:02:54.564714+00:00
-
- ## ALL.ART - Web3 Solutions for Real World Assets - AART Token
- - [https://all.art](https://all.art)
- - date_published: 2024-03-23T00:00:00+00:00
-
- ## Amzx Art - Simplifique, Compartilhe, Cresça!
- - [https://amzx.art](https://amzx.art)
- - date_published: 2024-06-16T02:58:27.047107+00:00
-
- ## AssetsAI
- - [https://www.assetsai.art](https://www.assetsai.art)
- - date_published: 2024-06-19T19:09:35.882469+00:00
-
- ## Bashable.art
- - [https://bashable.art](https://bashable.art)
- - date_published: 2024-06-19T21:35:52.416441+00:00
-
- ## Biennale of Sydney
- - [https://www.biennaleofsydney.art](https://www.biennaleofsydney.art)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Whimsical Watercolors - brushify.art
- - [https://brushify.art](https://brushify.art)
- - date_published: 2023-10-25T11:52:28.663714+00:00
-
- ## Bueno | No-Code Tools for NFT Creators
- - [https://bueno.art](https://bueno.art)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Galerie Canesso Paris
- - [https://www.canesso.art](https://www.canesso.art)
- - date_published: 2024-05-09T06:33:28.801536+00:00
-
- ## caroline makes art
- - [http://carolinemakes.art](http://carolinemakes.art)
- - date_published: 2024-06-15T12:38:29+00:00
-
- ## Chercheur d'Art
- - [https://www.chercheurd.art](https://www.chercheurd.art)
- - date_published: 2024-05-07T23:26:56.310326+00:00
-
- ## Chris Lovie-Tyler ‚Äì Learning to see
- - [https://chrislt.art](https://chrislt.art)
- - date_published: 2024-03-05T10:22:07.285624+00:00
- - tags: ['personal']
-
- ## comiCSS
- - [https://comicss.art](https://comicss.art)
- - date_published: 2024-06-06T07:27:26.676433+00:00
- - tags: ['comics', 'css']
-
- ## Dave Bauer | Maker / Artist - Dave Bauer - Web Nerd/Maker/Artist
- - [https://davebauer.art](https://davebauer.art)
- - date_published: 2024-04-18T13:58:34.979672+00:00
- - tags: ['personal']
-
- ## Emilia Frias
- - [https://demilurii.art](https://demilurii.art)
- - date_published: 2024-02-28T07:43:05.211230+00:00
- - tags: ['animation artist', 'personal']
-
- ## Free AI Art Generator, AI Art Maker | Stable Diffusion Online
- - [https://dreamlike.art](https://dreamlike.art)
- - date_published: 2024-06-19T21:06:45.385812+00:00
-
- ## Dreamspace.art
- - [https://dreamspace.art](https://dreamspace.art)
- - date_published: 2024-06-19T19:19:17.412291+00:00
-
- ## EthBlock.art
- - [https://ethblock.art](https://ethblock.art)
- - date_published: 2024-06-16T03:35:51.367269+00:00
-
- ## For the Wall | AI Generated Wall Art | forthewall.art
- - [https://forthewall.art](https://forthewall.art)
- - date_published: 2024-06-19T20:50:16.499803+00:00
-
- ## Francesca Sciandra
- - [https://francescasciandra.art](https://francescasciandra.art)
- - date_published: 2024-04-03T06:29:25.051254+00:00
- - tags: ['personal']
-
- ## GabJo Art
- - [https://gabjo.art](https://gabjo.art)
- - date_published: 2024-05-07T23:00:19.629152+00:00
-
- ## Genuary 2024: Generative Art / Creative Coding Month
- - [https://genuary.art](https://genuary.art)
- - date_published: 2023-12-31T14:09:15+00:00
-
- ## Mantra
- - [https://glyphe.art](https://glyphe.art)
- - date_published: 2023-11-29T17:10:47.669540+00:00
- - tags: ['personal']
-
- ## HotConvo
- - [https://hotconvo.art](https://hotconvo.art)
- - date_published: 2023-11-22T12:17:56+00:00
-
- ## ImagineArt AI Art Generator | Free AI Image Generator
- - [https://www.imagine.art](https://www.imagine.art)
- - date_published: 2024-06-19T19:50:48.342662+00:00
-
- ## iooner.ART - Innovative problems to existing solutions
- - [https://iooner.art](https://iooner.art)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## John Peart
- - [https://johnpe.art](https://johnpe.art)
- - date_published: 2024-05-12T05:43:12.180188+00:00
-
- ## John Peart
- - [https://www.johnpe.art](https://www.johnpe.art)
- - date_published: 2024-04-03T06:31:32.893358+00:00
- - tags: ['personal']
-
- ## Juan Silva
- - [https://juansilva.art](https://juansilva.art)
- - date_published: 2024-02-26T08:26:28.279964+00:00
-
- ## Kidz Fun Art - Make drawing fun
- - [https://kidzfun.art](https://kidzfun.art)
- - date_published: 2024-05-07T15:41:07.994191+00:00
-
- ## Laboratoria.art
- - [https://laboratoria.art](https://laboratoria.art)
- - date_published: 2024-05-06T22:12:16.517408+00:00
-
- ## Lexica
- - [https://lexica.art](https://lexica.art)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Show HN: I made a pixel art editor for Windows desktop
- - [https://www.lightcube.art](https://www.lightcube.art)
- - date_published: 2024-05-30T09:28:33+00:00
- - tags: ['pixel art']
-
- ## Lucas
- - [https://lucas.art](https://lucas.art)
- - date_published: 2024-06-07T08:34:39.335167+00:00
- - tags: ['personal']
-
- ## Lucas
- - [https://www.lucas.art](https://www.lucas.art)
- - date_published: 2024-05-09T08:12:05.904038+00:00
-
- ## Martín Bonadeo
- - [https://www.martinbonadeo.art](https://www.martinbonadeo.art)
- - date_published: 2019-03-02T15:15:30+00:00
-
- ## Mar Williams Art
- - [https://marwilliams.art](https://marwilliams.art)
- - date_published: 2024-02-05T17:23:15.778256+00:00
-
- ## Masterworks
- - [https://www.masterworks.art](https://www.masterworks.art)
- - date_published: 2024-01-24T20:54:06.806591+00:00
-
- ## Mastodon.ART
- - [https://mastodon.art](https://mastodon.art)
- - date_published: 2024-04-07T14:24:47.816310+00:00
-
- ## Mervi Eskelinen | Artist, illustrator and content creator
- - [https://mervi.art](https://mervi.art)
- - date_published: 2024-02-13T18:07:49.947136+00:00
- - tags: ['personal']
-
- ## niklasgoeke.com - Lessons from life outside the comfort zone
- - [https://nik.art](https://nik.art)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## New Masters Academy
- - [https://nma.art](https://nma.art)
- - date_published: 2024-06-18T16:16:49.524477+00:00
-
- ## New Masters Academy
- - [https://www.nma.art](https://www.nma.art)
- - date_published: 2024-05-04T13:56:45.135873+00:00
-
- ## nonkiru.art
- - [https://nonkiru.art](https://nonkiru.art)
- - date_published: 2024-05-09T08:41:33.897203+00:00
-
- ## Art, technology, and NFTs - Outland
- - [https://outland.art](https://outland.art)
- - date_published: 2023-10-25T11:52:36.812240+00:00
-
- ## Owl AI - Logo generator powered by gpt-4o
- - [https://app.owlai.art](https://app.owlai.art)
- - date_published: 2024-06-14T08:55:01.621965+00:00
-
- ## Peter Croxon - South African Artist
- - [https://www.petercroxon.art](https://www.petercroxon.art)
- - date_published: 2024-05-02T13:56:34.501885+00:00
-
- ## Picture it - Turn Your Thoughts Into Art
- - [https://pictureit.art](https://pictureit.art)
- - date_published: 2024-06-19T21:25:37.824872+00:00
-
- ## Pika
- - [https://pika.art](https://pika.art)
- - date_published: 2024-04-30T15:43:41.264219+00:00
-
- ## PixAI - Anime AI Art Generator for Free
- - [https://pixai.art](https://pixai.art)
- - date_published: 2024-06-14T08:52:04.857922+00:00
-
- ## Humberto Poidomani | Humberto Poidomani Art
- - [https://poidomani.art](https://poidomani.art)
- - date_published: 2024-05-02T12:55:50.384903+00:00
-
- ## PRIM4T – Web, Design and other stuff…
- - [https://prim4t.art](https://prim4t.art)
- - date_published: 2024-05-07T23:12:06.859728+00:00
-
- ## Procreate® – Sketch, Paint, Create.
- - [https://procreate.art](https://procreate.art)
- - date_published: 2024-05-04T14:02:09.430854+00:00
-
- ## Home - Public Prompts
- - [https://publicprompts.art](https://publicprompts.art)
- - date_published: 2024-06-19T18:55:04.158081+00:00
-
- ## Quick QR Art - QR Code AI Art Generator
- - [https://quickqr.art](https://quickqr.art)
- - date_published: 2024-06-19T20:11:39.351978+00:00
-
- ## Quill
- - [https://quill.art](https://quill.art)
- - date_published: 2024-05-07T09:34:26.518156+00:00
-
- ## Running Dog – An online arts publication
- - [https://rundog.art](https://rundog.art)
- - date_published: 2021-04-28T00:00:00+00:00
-
- ## saba Feleke
- - [https://sabafeleke.art](https://sabafeleke.art)
- - date_published: 2024-04-03T06:24:25.571383+00:00
- - tags: ['personal']
-
- ## SEESPACE
- - [https://seespace.art](https://seespace.art)
- - date_published: 2024-05-09T08:17:53.292157+00:00
-
- ## Skykristal - Digital Artist
- - [https://skykristal.art](https://skykristal.art)
- - date_published: 2024-05-29T07:54:29.067892+00:00
- - tags: ['interesting page design', 'personal']
-
- ## Space2inspire
- - [https://space2inspire.art](https://space2inspire.art)
- - date_published: 2024-06-17T16:27:13.204475+00:00
-
- ## Stalwart Labs
- - [https://stalw.art](https://stalw.art)
- - date_published: 2024-04-08T19:30:54.373072+00:00
- - tags: ['self-host', 'e-mail server']
-
- ## teia
- - [https://lists.teia.art](https://lists.teia.art)
- - date_published: 2024-06-14T11:22:24.044127+00:00
-
- ## teia
- - [https://teia.art](https://teia.art)
- - date_published: 2024-04-30T15:43:59.640599+00:00
-
- ## Teshie F. | Hello!
- - [https://teshief.art](https://teshief.art)
- - date_published: 2024-05-06T15:04:25.967385+00:00
-
- ## ThioJoe - Digital Art Portfolio
- - [https://thiojoe.art](https://thiojoe.art)
- - date_published: 2024-03-02T19:56:25.310354+00:00
- - tags: ['youtuber']
-
- ## ThumbnailMaker - #1 AI thumbnail maker!
- - [https://thumbnailmaker.art](https://thumbnailmaker.art)
- - date_published: 2024-06-19T20:04:46.849198+00:00
-
- ## Tom Stuart
- - [https://tomstu.art](https://tomstu.art)
- - date_published: 2024-04-30T06:27:46.162561+00:00
- - tags: ['blog', 'personal']
-
- ## Tony's stash of textual information
- - [https://blog.tonyshouse.art](https://blog.tonyshouse.art)
- - date_published: 2024-05-03T00:00:00+00:00
-
- - [https://tonyshouse.art](https://tonyshouse.art)
- - date_published: 2024-04-03T12:49:27.043405+00:00
- - tags: ['personal']
-
- ## https://travelgpt.art
- - [https://travelgpt.art](https://travelgpt.art)
- - date_published: 2024-01-09T02:23:42.162820+00:00
-
- ## Головна / VOLOSHYN GALLERY
- - [https://voloshyngallery.art](https://voloshyngallery.art)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Wasongo's Gallery
- - [https://wasongo.art](https://wasongo.art)
- - date_published: 2024-05-09T08:41:34.615694+00:00
-
- ## Home | Will Carhart
- - [http://willcarh.art](http://willcarh.art)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Dream by WOMBO
- - [https://www.wombo.art](https://www.wombo.art)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## yummypillow dot art
- - [https://yummypillow.art](https://yummypillow.art)
- - date_published: 2024-06-15T16:07:31+00:00
-
- ## César Ferradas
- - [https://ferrad.as](https://ferrad.as)
- - date_published: 2024-02-09T00:13:34.119208+00:00
- - tags: ['personal']
-
- ## Magenta
- - [https://magenta.as](https://magenta.as)
- - date_published: 2024-05-08T03:04:18.911992+00:00
-
- ## Opera Web Browser | Faster, Safer, Smarter | Opera
- - [https://opr.as](https://opr.as)
- - date_published: 2024-04-30T21:00:26.730054+00:00
-
- ## PlayCanvas - The Web-First Game Engine
- - [https://playcanv.as](https://playcanv.as)
- - date_published: 2024-05-10T05:44:02.186526+00:00
-
- ## Reverse Engineering
- - [https://reverse.put.as](https://reverse.put.as)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Remark.as
- - [https://blog.remark.as](https://blog.remark.as)
- - date_published: 2022-02-07T00:00:00+00:00
-
- ## Remark.as
- - [https://remark.as](https://remark.as)
- - date_published: 2024-05-04T07:48:26.761133+00:00
-
- ## Snap.as
- - [https://snap.as](https://snap.as)
- - date_published: 2024-05-10T07:01:19.652734+00:00
-
- ## Submit.as
- - [https://submit.as](https://submit.as)
- - date_published: 2024-05-10T07:01:24.502009+00:00
-
- ## Mike Tigas (mtigas)
- - [https://mike.tig.as](https://mike.tig.as)
- - date_published: 2002-11-18T04:59:59+00:00
-
- ## Unity Asset Store - The Best Assets for Game Making
- - [https://u3d.as](https://u3d.as)
- - date_published: 2024-05-06T21:14:25.835721+00:00
-
- ## Provizní systém - WEDOS Affiliate
- - [https://wedos.as](https://wedos.as)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Provizní systém - WEDOS Affiliate
- - [https://www.wedos.as](https://www.wedos.as)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Write.as Developer Center
- - [https://developers.write.as](https://developers.write.as)
- - date_published: 2024-04-30T05:34:53.453417+00:00
-
- ## Discuss Write.as
- - [https://discuss.write.as](https://discuss.write.as)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## How to Use Write.as
- - [https://howto.write.as](https://howto.write.as)
- - date_published: 2024-05-10T07:01:22.258665+00:00
-
- ## Read Write.as
- - [https://read.write.as](https://read.write.as)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Write.as
- - [https://write.as](https://write.as)
- - date_published: 2023-11-29T13:54:48.349537+00:00
- - tags: ['personal']
-
- ## 12Go: Book Trains, Buses, Ferries, Transfers & Flights
- - [https://thaitrainguide.12go.asia](https://thaitrainguide.12go.asia)
- - date_published: 2024-05-06T16:13:13.354089+00:00
-
- ## Analyse Asia
- - [https://analyse.asia](https://analyse.asia)
- - date_published: 2024-05-06T13:44:54.588359+00:00
- - tags: ['podcast']
-
- ## CNA: Breaking News, Singapore News, World and Asia
- - [https://cna.asia](https://cna.asia)
- - date_published: 2024-02-27T12:33:36.266108+00:00
- - tags: ['singapore news', 'asia news']
-
- ## Tickets | Coinfest Asia 2024
- - [https://ticket.coinfest.asia](https://ticket.coinfest.asia)
- - date_published: 2024-04-27T07:11:46.103458+00:00
- - tags: ['conference', 'crypto']
-
- ## Coins.ph | Coins.ph
- - [https://pro.coins.asia](https://pro.coins.asia)
- - date_published: 2024-06-16T13:25:38.324235+00:00
-
- ## CSSConf.Asia Singapore 2014
- - [https://2014.cssconf.asia](https://2014.cssconf.asia)
- - date_published: 2024-05-11T10:51:21.005639+00:00
-
- ## Development Asia
- - [https://development.asia](https://development.asia)
- - date_published: 2024-05-12T07:25:28.044501+00:00
-
- ## ADB Knowledge Events
- - [https://events.development.asia](https://events.development.asia)
- - date_published: 2024-05-12T07:25:24.789921+00:00
-
- ## Disney Store | Official Site for Disney Merchandise
- - [https://www.disneystore.asia](https://www.disneystore.asia)
- - date_published: 2024-06-16T02:01:36.352145+00:00
-
- ## GovInsider
- - [https://govinsider.asia](https://govinsider.asia)
- - date_published: 2024-05-04T09:03:28.545035+00:00
-
- ## Homepage | IIAS
- - [https://www.iias.asia](https://www.iias.asia)
- - date_published: 2023-10-25T11:52:39.989545+00:00
-
- ## JSConf.Asia
- - [https://2013.jsconf.asia](https://2013.jsconf.asia)
- - date_published: 2024-05-11T10:51:23.752648+00:00
- - tags: ['conference']
-
- ## JSConf.Asia - 25-27 Jan 2018, Singapore
- - [https://2018.jsconf.asia](https://2018.jsconf.asia)
- - date_published: 1999-01-01T00:00:00+00:00
 
