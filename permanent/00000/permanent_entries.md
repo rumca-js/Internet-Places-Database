@@ -61,6 +61,10 @@
  - date_published: 2024-03-22T20:49:42.626365+00:00
  - tags: ['archive program', 'program', 'open source']
 
+ ## Scratchpad of Mathias Sablé-Meyer
+ - [https://blog.s-m.ac](https://blog.s-m.ac)
+ - date_published: 2021-07-08T18:52:48+00:00
+
  ## Ancient Wisdom Courses
  - [https://www.ancientwisdom.academy](https://www.ancientwisdom.academy)
  - date_published: 2024-05-10T09:09:32.718345+00:00
@@ -107,6 +111,10 @@
  - [https://kt.academy](https://kt.academy)
  - date_published: 2023-10-25T11:36:04.338918+00:00
 
+ ## KubeAcademy - Unlock your full potential with Kubernetes courses designed by experts.
+ - [https://kube.academy](https://kube.academy)
+ - date_published: 2024-06-22T07:44:52+00:00
+
  ## LJLA
  - [https://associates.ljla.academy](https://associates.ljla.academy)
  - date_published: 2024-06-12T01:48:50.943456+00:00
@@ -130,6 +138,14 @@
  ## Free Online Textbooks for Math and Computer Science - Runestone Academy
  - [https://runestone.academy](https://runestone.academy)
  - date_published: 2024-05-07T14:56:40.058818+00:00
+
+ ## Spring Academy - Unlock your full potential with Spring courses from the Spring team.
+ - [https://spring.academy](https://spring.academy)
+ - date_published: 2024-06-22T07:44:57+00:00
+
+ ## Tanzu Academy - Unlock your full potential with Tanzu courses designed by experts.
+ - [https://tanzu.academy](https://tanzu.academy)
+ - date_published: 2024-06-22T07:44:55+00:00
 
  ## The Digital Cat Academy
  - [https://www.thedigitalcat.academy](https://www.thedigitalcat.academy)
@@ -158,6 +174,10 @@
  ## Roqad - Identity Solutions - Resolution for a Cookieless World
  - [https://www.roq.ad](https://www.roq.ad)
  - date_published: 2024-05-06T17:56:32.657353+00:00
+
+ ## MBZUAI - Mohamed bin Zayed University of Artificial Intelligence
+ - [https://mbzuai.ac.ae](https://mbzuai.ac.ae)
+ - date_published: 2024-05-24T00:00:00+00:00
 
  ## ADNOC - Maximum Energy Minimum Emissions
  - [https://www.adnoc.ae](https://www.adnoc.ae)
@@ -721,6 +741,10 @@
  - [https://thecurious.agency](https://thecurious.agency)
  - date_published: 2024-05-08T00:00:00+00:00
 
+ ## 零一万物-AI2.0大模型技术和应用的全球公司（01.AI）
+ - [https://01.ai](https://01.ai)
+ - date_published: 2024-06-21T00:00:00+00:00
+
  ## 零一万物-AI2.0大模型技术和应用的全球公司（01.ai）
  - [https://www.01.ai](https://www.01.ai)
  - date_published: 2023-11-06T06:15:11.901481+00:00
@@ -813,6 +837,10 @@
  ## Agenthost.ai - Turn your AI Chatbot into a business
  - [https://www.agenthost.ai](https://www.agenthost.ai)
  - date_published: 2024-03-30T07:42:12.102692+00:00
+
+ ## Agentic | AI Players As a Service
+ - [https://www.agentic.ai](https://www.agentic.ai)
+ - date_published: 2024-06-22T14:01:26.399471+00:00
 
  ## Capably
  - [https://www.agentrunner.ai](https://www.agentrunner.ai)
@@ -1152,6 +1180,10 @@
  - [https://axiom.ai](https://axiom.ai)
  - date_published: 2024-06-17T15:57:01+00:00
 
+ ## Backyard AI | Home
+ - [https://backyard.ai](https://backyard.ai)
+ - date_published: 2024-06-22T17:26:34.501135+00:00
+
  ## Bad Idea AI | A New Decentralized Experiment
  - [https://badidea.ai](https://badidea.ai)
  - date_published: 2024-06-11T00:00:00+00:00
@@ -1458,6 +1490,18 @@
  ## Home
  - [https://capitalmonitor.ai](https://capitalmonitor.ai)
  - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Captions | Your AI-powered creative studio
+ - [https://captions.ai](https://captions.ai)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Projects - Captions
+ - [https://desktop.captions.ai](https://desktop.captions.ai)
+ - date_published: 2024-06-22T22:32:51.304535+00:00
+
+ ## Introduction to Captions - Captions
+ - [https://help.captions.ai](https://help.captions.ai)
+ - date_published: 2024-06-22T22:32:50.029275+00:00
 
  ## Captions | Your AI-powered creative studio
  - [https://www.captions.ai](https://www.captions.ai)
@@ -2029,6 +2073,10 @@ Welcome
  - [https://crystalsound.ai](https://crystalsound.ai)
  - date_published: 2023-08-21T00:00:00+00:00
 
+ ## CS50.ai
+ - [https://cs50.ai](https://cs50.ai)
+ - date_published: 2024-06-22T10:42:49.029515+00:00
+
  ## CSM — Turn photos, text or sketch into 3D Worlds
  - [https://csm.ai](https://csm.ai)
  - date_published: 2024-05-31T00:00:00+00:00
@@ -2138,6 +2186,10 @@ Welcome
  - [https://console.dataherald.ai](https://console.dataherald.ai)
  - date_published: 2024-02-14T21:17:08.089087+00:00
 
+ ## Leading NLP Labeling and Private LLM Development Platform | Datasaur
+ - [https://datasaur.ai](https://datasaur.ai)
+ - date_published: 2024-06-21T00:00:00+00:00
+
  ## Dates.ai | AI Dating App - Chatbot Matchmaking
  - [https://dates.ai](https://dates.ai)
  - date_published: 2024-06-19T18:54:31.707741+00:00
@@ -2145,6 +2197,10 @@ Welcome
  ## Datr | Organize Your Dates
  - [https://datr.ai](https://datr.ai)
  - date_published: 2023-03-17T16:58:23+00:00
+
+ ## Search TAS
+ - [https://chat.ddalabs.ai](https://chat.ddalabs.ai)
+ - date_published: 2024-06-22T20:55:29.865712+00:00
 
  ## Advanced Analytics Agency | AI/ML Consulting Brisbane, Australia
  - [https://ddalabs.ai](https://ddalabs.ai)
@@ -2233,6 +2289,10 @@ Welcome
  ## Dexa — Where Curiosity Meets Credibility
  - [https://dexa.ai](https://dexa.ai)
  - date_published: 2024-05-15T02:51:27.742994+00:00
+
+ ## Dify.AI · The Innovation Engine for Generative AI Applications
+ - [https://dify.ai](https://dify.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
 
  ## Best AI Avatar
  - [https://digiface.ai](https://digiface.ai)
@@ -2561,6 +2621,10 @@ Welcome
  - [https://explosion.ai](https://explosion.ai)
  - date_published: 2024-05-03T00:00:00+00:00
 
+ ## Explosion status
+ - [https://status.explosion.ai](https://status.explosion.ai)
+ - date_published: 2024-06-22T13:05:49.737791+00:00
+
  ## ExtendImageAI - Expand your images with generative AI - Try it for free
  - [https://www.extendimage.ai](https://www.extendimage.ai)
  - date_published: 2024-06-19T20:54:58.037676+00:00
@@ -2580,6 +2644,10 @@ Welcome
  ## Fabled.ai | The Ultimate AI Story Generator
  - [https://fabled.ai](https://fabled.ai)
  - date_published: 2024-02-12T20:12:39+00:00
+
+ ## Log in or sign up to view
+ - [https://facebook.ai](https://facebook.ai)
+ - date_published: 2024-06-22T09:02:43.227370+00:00
 
  ## Transform Your Selfies Instantly with FaceHub. Let’s Face Swap Now!
  - [https://www.facengine.ai](https://www.facengine.ai)
@@ -2732,6 +2800,10 @@ Welcome
  ## Fletch | World's first cyber threat AI
  - [https://www.fletch.ai](https://www.fletch.ai)
  - date_published: 2024-06-21T09:16:28+00:00
+
+ ## Flitig
+ - [http://flitig.ai](http://flitig.ai)
+ - date_published: 2024-04-01T00:00:00+00:00
 
  ## FlowChai  - AI For Your Business
  - [https://flowch.ai](https://flowch.ai)
@@ -2974,6 +3046,10 @@ Welcome
  - [https://ggml.ai](https://ggml.ai)
  - date_published: 2023-10-25T11:39:05.096898+00:00
 
+ ## AI GIF Generator 🖼
+ - [https://gifgenerator.ai](https://gifgenerator.ai)
+ - date_published: 2024-02-23T11:08:46+00:00
+
  ## Gifts Finder AI - Gifts Finder & Search Engine
  - [https://giftsfinder.ai](https://giftsfinder.ai)
  - date_published: 2024-05-22T23:06:05+00:00
@@ -3025,6 +3101,10 @@ Welcome
  ## Goodhues.ai - AI generated interior design
  - [https://goodhues.ai](https://goodhues.ai)
  - date_published: 2024-06-19T21:05:36.053472+00:00
+
+ ## Siddhartha Srinivasa
+ - [https://goodrobot.ai](https://goodrobot.ai)
+ - date_published: 2023-01-17T22:33:16+00:00
 
  ## GOODY-2 | The world's most responsible AI model
  - [https://www.goody2.ai](https://www.goody2.ai)
@@ -3398,6 +3478,10 @@ Welcome
  - [https://imajinn.ai](https://imajinn.ai)
  - date_published: 2024-06-19T18:48:20.350394+00:00
 
+ ## Home of Reasoning as a Service® | Imandra Inc.
+ - [https://www.imandra.ai](https://www.imandra.ai)
+ - date_published: 2024-06-22T09:46:59.565346+00:00
+
  ## Welcome to the Artificial Intelligence Incident Database
  - [https://incidentdatabase.ai](https://incidentdatabase.ai)
  - date_published: 2023-10-25T11:52:19.311811+00:00
@@ -3410,6 +3494,10 @@ Welcome
  - [https://inflection.ai](https://inflection.ai)
  - date_published: 2023-10-25T11:39:23.848682+00:00
  - tags: ['artificial intelligence bot']
+
+ ## demo.infoforge.ai
+ - [https://demo.infoforge.ai](https://demo.infoforge.ai)
+ - date_published: 2024-06-21T23:57:46+00:00
 
  ## The email marketing platform to communicate with your customers.
  - [https://www.infomail.ai](https://www.infomail.ai)
@@ -3674,6 +3762,10 @@ Welcome
  - [https://keywrds.ai](https://keywrds.ai)
  - date_published: 2024-06-19T21:22:31+00:00
 
+ ## KHIPU
+ - [https://khipu.ai](https://khipu.ai)
+ - date_published: 2024-06-21T20:30:55+00:00
+
  ## KindBuds.ai - Build a Bot
  - [https://www.kindbuds.ai](https://www.kindbuds.ai)
  - date_published: 2024-03-05T04:13:47+00:00
@@ -3804,7 +3896,7 @@ Welcome
 
  ## Welcome to GitHub Pages
  - [https://projects.laion.ai](https://projects.laion.ai)
- - date_published: 2024-05-06T09:07:03.882228+00:00
+ - date_published: 2022-06-10T07:08:01+00:00
 
  ## Gandalf | Lakera – Test your prompting skills to make Gandalf reveal secret information.
  - [https://gandalf.lakera.ai](https://gandalf.lakera.ai)
@@ -3846,6 +3938,18 @@ Welcome
  ## Machine Learning Group @ UHH
  - [https://laue.ai](https://laue.ai)
  - date_published: 2024-05-08T10:03:50.314186+00:00
+
+ ## LaVague Blog
+ - [http://blog.lavague.ai](http://blog.lavague.ai)
+ - date_published: 2024-06-22T20:39:46.637818+00:00
+
+ ## LaVague Documentation
+ - [https://docs.lavague.ai](https://docs.lavague.ai)
+ - date_published: 2024-06-18T12:49:34+00:00
+
+ ## LaVague
+ - [https://lavague.ai](https://lavague.ai)
+ - date_published: 2024-06-14T00:00:00+00:00
 
  ## LaVague
  - [https://www.lavague.ai](https://www.lavague.ai)
@@ -3926,111 +4030,4 @@ Welcome
  ## GitHub - danny-avila/LibreChat: Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
  - [https://github.librechat.ai](https://github.librechat.ai)
  - date_published: 2024-05-15T07:24:07.074378+00:00
-
- ## LibreChat
- - [https://librechat.ai](https://librechat.ai)
- - date_published: 2024-04-13T17:25:08+00:00
- - tags: ['self-host', 'artificial intelligence bot']
-
- ## LibreChat | LinkedIn
- - [https://linkedin.librechat.ai](https://linkedin.librechat.ai)
- - date_published: 2024-05-15T07:24:14.784876+00:00
-
- ## LibreChat status
- - [https://status.librechat.ai](https://status.librechat.ai)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## LibreChat
- - [https://www.librechat.ai](https://www.librechat.ai)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Dr Alan D. Thompson – Life Architect
- - [https://lifearchitect.ai](https://lifearchitect.ai)
- - date_published: 2023-10-25T08:41:31.295096+00:00
- - tags: ['personal']
-
- ## Lightning AI
- - [https://lightning.ai](https://lightning.ai)
- - date_published: 2023-10-25T11:39:51.150860+00:00
-
- ## Rethink AI for the Enterprise - LightOn
- - [https://www.lighton.ai](https://www.lighton.ai)
- - date_published: 2023-10-25T11:39:52.169704+00:00
-
- ## Limbic | Clinical AI for Mental Healthcare Providers
- - [https://limbic.ai](https://limbic.ai)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Limitless
- - [https://app.limitless.ai](https://app.limitless.ai)
- - date_published: 2024-06-18T14:30:56.809795+00:00
-
- ## Limitless feature requests | Frill.co
- - [https://feedback.limitless.ai](https://feedback.limitless.ai)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Limitless Help Center
- - [https://help.limitless.ai](https://help.limitless.ai)
- - date_published: 2024-06-18T14:30:56.209659+00:00
-
- ## Limitless
- - [https://limitless.ai](https://limitless.ai)
- - date_published: 2024-05-02T13:27:27.031244+00:00
-
- ## Limitless: Personalized AI powered by what you've seen, said, and heard
- - [https://www.limitless.ai](https://www.limitless.ai)
- - date_published: 2024-04-15T13:04:34+00:00
-
- ## Liner.ai - Machine Learning without Code
- - [https://liner.ai](https://liner.ai)
- - date_published: 2023-12-12T04:57:58+00:00
-
- ## Lingostar | Real Conversations with Artificial Intelligence
- - [https://www.lingostar.ai](https://www.lingostar.ai)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Hacker News in Slow Italian - AI-generated podcast (with code)
- - [https://hn.lingually.ai](https://hn.lingually.ai)
- - date_published: 2023-10-25T11:39:53.272458+00:00
-
- ## Lingually: Learn Languages with AI
- - [https://lingually.ai](https://lingually.ai)
- - date_published: 2024-04-05T02:36:03+00:00
-
- ## LinTO, framework open-source de technologies vocales
- - [https://linto.ai](https://linto.ai)
- - date_published: 2024-05-09T02:34:22.544371+00:00
-
- ## Liquid AI: A New Generation of Foundation Models from First Principles
- - [https://www.liquid.ai](https://www.liquid.ai)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Credible Real-time News, Tailored Just For You
- - [https://listen2.ai](https://listen2.ai)
- - date_published: 2024-06-14T09:00:01.861216+00:00
-
- ## listingcopy.ai - Implement AI in your Real Estate Content With a Click
- - [https://listingcopy.ai](https://listingcopy.ai)
- - date_published: 2024-06-19T18:51:13.727875+00:00
-
- ## Your Talent Management AI Copilot - Radix
- - [https://litto.ai](https://litto.ai)
- - date_published: 2024-04-29T04:02:22.885622+00:00
-
- ## Llama Hub
- - [https://llamahub.ai](https://llamahub.ai)
- - date_published: 2024-06-20T10:49:56.322945+00:00
- - tags: ['artificial intelligence', 'fan page']
-
- ## LlamaIndex Blog
- - [https://blog.llamaindex.ai](https://blog.llamaindex.ai)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## LlamaCloud
- - [https://cloud.llamaindex.ai](https://cloud.llamaindex.ai)
- - date_published: 2024-06-20T10:49:55.580208+00:00
-
- ## LlamaIndex - LlamaIndex
- - [https://docs.llamaindex.ai](https://docs.llamaindex.ai)
- - date_published: 2024-05-04T08:32:21.835719+00:00
 
