@@ -1,3 +1,19 @@
+ ## Գլխավոր – Mediainitiatives
+ - [http://www.mediainitiatives.am](http://www.mediainitiatives.am)
+ - date_published: 2024-05-07T23:42:13.359843+00:00
+
+ ## Technical subdomain
+ - [https://19vx.mj.am](https://19vx.mj.am)
+ - date_published: 2024-05-04T08:34:57.816281+00:00
+
+ ## NEWS.am TECH - Innovations and science
+ - [https://tech.news.am](https://tech.news.am)
+ - date_published: 2023-10-25T11:45:27.043615+00:00
+
+ ## Custom Domain by Bitly
+ - [http://oxf.am](http://oxf.am)
+ - date_published: 2024-05-08T03:19:38.157344+00:00
+
  ## MONIQUE INTERNATIONAL – The legend is back!
  - [https://radiomonique.am](https://radiomonique.am)
  - date_published: 2024-06-13T21:27:14.846784+00:00
@@ -694,6 +710,10 @@
  - [https://dateforce.app](https://dateforce.app)
  - date_published: 2023-10-25T11:45:57.324167+00:00
  - tags: ['dating']
+
+ ## AI-powered Content Workflows for Teams | DC I/O
+ - [https://dcio.app](https://dcio.app)
+ - date_published: 2024-01-30T00:00:00+00:00
 
  ## DecisionMentor – Let us be your decision making compass.
  - [https://decisionmentor.app](https://decisionmentor.app)
@@ -4030,24 +4050,4 @@
  ## Notes
  - [https://notes-ibnmaghreb.vercel.app](https://notes-ibnmaghreb.vercel.app)
  - date_published: 2024-06-02T00:00:00+00:00
-
- ## OctoArt
- - [https://octoart.vercel.app](https://octoart.vercel.app)
- - date_published: 2023-10-30T18:59:23.812847+00:00
-
- ## Oggie Sutrisna - Mushroom's Diary
- - [https://oggiesutrisna.vercel.app](https://oggiesutrisna.vercel.app)
- - date_published: 2024-06-19T09:31:26.313882+00:00
-
- ## Open Graph Image as a Service
- - [https://og-image-io.vercel.app](https://og-image-io.vercel.app)
- - date_published: 2024-05-22T02:44:07.569797+00:00
-
- ## Vercel OG Image Playground
- - [https://og-image.vercel.app](https://og-image.vercel.app)
- - date_published: 2024-05-04T05:55:37.250336+00:00
-
- ## Vercel OG Image Playground
- - [https://og-playground.vercel.app](https://og-playground.vercel.app)
- - date_published: 2024-06-19T08:24:01.982562+00:00
 

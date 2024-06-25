@@ -1,3 +1,19 @@
+ ## Krisp | Noise Cancelling App
+ - [https://app.krisp.ai](https://app.krisp.ai)
+ - date_published: 2024-06-23T07:57:38.497786+00:00
+
+ ## World’s #1 Noise Cancelling App and AI Meeting Assistant
+ - [https://krisp.ai](https://krisp.ai)
+ - date_published: 2024-05-06T13:46:44.242865+00:00
+
+ ## World’s #1 Noise Cancelling App and AI Meeting Assistant
+ - [https://www.krisp.ai](https://www.krisp.ai)
+ - date_published: 2024-06-23T05:58:08+00:00
+
+ ## @kuki_ai
+ - [https://www.kuki.ai](https://www.kuki.ai)
+ - date_published: 2024-06-19T20:41:47.434039+00:00
+
  ## Cierpliwości...
  - [https://kupid.ai](https://kupid.ai)
  - date_published: 2024-06-19T20:42:11.272009+00:00
@@ -4025,20 +4041,4 @@ Creative Solutions
  ## Mayday: The AI-Assisted Calendar
  - [https://mayday.am](https://mayday.am)
  - date_published: 2024-05-05T00:00:00+00:00
-
- ## Գլխավոր – Mediainitiatives
- - [http://www.mediainitiatives.am](http://www.mediainitiatives.am)
- - date_published: 2024-05-07T23:42:13.359843+00:00
-
- ## Technical subdomain
- - [https://19vx.mj.am](https://19vx.mj.am)
- - date_published: 2024-05-04T08:34:57.816281+00:00
-
- ## NEWS.am TECH - Innovations and science
- - [https://tech.news.am](https://tech.news.am)
- - date_published: 2023-10-25T11:45:27.043615+00:00
-
- ## Custom Domain by Bitly
- - [http://oxf.am](http://oxf.am)
- - date_published: 2024-05-08T03:19:38.157344+00:00
 
