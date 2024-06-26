@@ -1,3 +1,118 @@
+ ## About · Jesal Gadhia
+ - [https://jes.al](https://jes.al)
+ - date_published: 2023-10-25T09:01:04.989896+00:00
+ - tags: ['personal']
+
+ ## juan.al
+ - [https://juan.al](https://juan.al)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Pitch your startup to top angels, VCs and accelerators
+ - [https://kern.al](https://kern.al)
+ - date_published: 2024-06-18T17:38:53.786565+00:00
+
+ ## Alpro Development
+ - [https://lushka.al](https://lushka.al)
+ - date_published: 2024-05-09T08:24:21.122959+00:00
+
+ ## Ariq Naufal
+ - [https://ariq.nauf.al](https://ariq.nauf.al)
+ - date_published: 2023-03-19T04:36:00+00:00
+
+ ## Naval
+ - [https://nav.al](https://nav.al)
+ - date_published: 2023-10-25T11:45:20.135109+00:00
+
+ ## Real Estate in Tirana. Office, villa, apartment for rent or sale Albania.
+ - [https://www.realestate.al](https://www.realestate.al)
+ - date_published: 2024-02-08T22:20:07.666981+00:00
+
+ ## Al's blog
+ - [https://blog.the.al](https://blog.the.al)
+ - date_published: 2024-04-09T00:00:00+00:00
+ - tags: ['personal']
+
+ ## trib.al
+ - [https://trib.al](https://trib.al)
+ - date_published: 2024-05-06T14:34:57.200773+00:00
+
+ ## Personale - Vodafone
+ - [https://www.vodafone.al](https://www.vodafone.al)
+ - date_published: 2024-05-07T10:57:37.324893+00:00
+
+ ## Jake's Digital Garden
+ - [https://garden.weidok.al](https://garden.weidok.al)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Jake Weidokal
+ - [https://weidok.al](https://weidok.al)
+ - date_published: 2024-04-03T06:31:55.800090+00:00
+ - tags: ['personal']
+
+ ## Punësoni Freelancera & Gjeni Punë Freelance Online
+ - [https://www.freelancer.com.al](https://www.freelancer.com.al)
+ - date_published: 2024-06-16T12:01:25.626120+00:00
+
+ ## Sot News
+ - [https://sot.com.al](https://sot.com.al)
+ - date_published: 2023-11-11T16:04:51.715456+00:00
+
+ ## Car Insurance | Get An Auto Insurance Quote | Allstate
+ - [http://www.auto.allstate](http://www.auto.allstate)
+ - date_published: 2024-06-16T05:47:32.335801+00:00
+
+ ## Airbnb | Վարձով հանգստի տներ, տնակներ, լողափնյա տներ և այլն
+ - [https://www.airbnb.am](https://www.airbnb.am)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Freedom Be With All | I’m your worst nightmare…
+ - [https://weblog.antranigv.am](https://weblog.antranigv.am)
+ - date_published: 2023-10-25T11:45:23.684006+00:00
+
+ ## Радио Азатутюн
+ - [https://rus.azatutyun.am](https://rus.azatutyun.am)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Ազատություն Ռադիոկայան
+ - [https://www.azatutyun.am](https://www.azatutyun.am)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Deepgram Voice AI: Text to Speech + Speech to Text APIs | Deepgram
+ - [https://dpgr.am](https://dpgr.am)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## home - Fiat Professional Armenia
+ - [https://www.fiatprofessional.am](https://www.fiatprofessional.am)
+ - date_published: 2015-07-12T14:50:38+00:00
+
+ ## Google
+ - [https://www.google.am](https://www.google.am)
+ - date_published: 2024-06-21T22:24:45.518495+00:00
+
+ ## · Hesham Abd-Elmegid
+ - [https://hesh.am](https://hesh.am)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## HTML Codes, Editors, and Generators
+ - [http://www.html.am](http://www.html.am)
+ - date_published: 2024-04-30T03:46:55.617332+00:00
+
+ ## Instagram
+ - [https://instagr.am](https://instagr.am)
+ - date_published: 2024-05-08T05:17:31.028770+00:00
+
+ ## Kopiti.am
+ - [https://kopiti.am](https://kopiti.am)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## kwant.am
+ - [https://kwant.am](https://kwant.am)
+ - date_published: 2024-05-08T08:58:21.100486+00:00
+
+ ## Mayday: The AI-Assisted Calendar
+ - [https://mayday.am](https://mayday.am)
+ - date_published: 2024-05-05T00:00:00+00:00
+
  ## Գլխավոր – Mediainitiatives
  - [http://www.mediainitiatives.am](http://www.mediainitiatives.am)
  - date_published: 2024-05-07T23:42:13.359843+00:00
@@ -682,6 +797,14 @@
  - [https://6vmc1n.csb.app](https://6vmc1n.csb.app)
  - date_published: 2024-05-06T21:26:24.258629+00:00
 
+ ## Venatus Sandbox
+ - [https://cwn77d.csb.app](https://cwn77d.csb.app)
+ - date_published: 2024-06-25T21:37:13.010738+00:00
+
+ ## Static Template
+ - [https://fgj2bc.csb.app](https://fgj2bc.csb.app)
+ - date_published: 2024-06-25T21:36:06.885352+00:00
+
  ## Static Template
  - [https://n8ngnc.csb.app](https://n8ngnc.csb.app)
  - date_published: 2024-06-16T08:06:11.547243+00:00
@@ -1072,6 +1195,10 @@
  ## Framework | Sustainability
  - [https://perfect-hiring-822947.framer.app](https://perfect-hiring-822947.framer.app)
  - date_published: 2023-10-25T11:46:34.235514+00:00
+
+ ## Google Colab
+ - [https://fursona.app](https://fursona.app)
+ - date_published: 2024-06-25T23:40:40.074398+00:00
 
  ## Fynbos
  - [https://fynbos.app](https://fynbos.app)
@@ -3925,129 +4052,4 @@
  ## João Vitor - Front-end Developer
  - [https://jvzaniolo.vercel.app](https://jvzaniolo.vercel.app)
  - date_published: 2024-05-11T10:25:07.249525+00:00
-
- ## kbar – command+k interface for your site
- - [https://kbar.vercel.app](https://kbar.vercel.app)
- - date_published: 2024-05-04T13:57:48.823881+00:00
-
- ## Design, Deploy, and Optimize LLM Apps with Klu — Klu.ai
- - [https://klu-cmftltnj8-klu.vercel.app](https://klu-cmftltnj8-klu.vercel.app)
- - date_published: 2024-05-08T04:48:10.553080+00:00
-
- ## Link Book
- - [https://link-book.vercel.app](https://link-book.vercel.app)
- - date_published: 2023-10-25T11:50:29.441703+00:00
-
- ## Hello Luna
- - [https://luna-demo.vercel.app](https://luna-demo.vercel.app)
- - date_published: 2023-10-25T08:36:44.066507+00:00
-
- ## Open Graph Image as a Service
- - [https://madog.vercel.app](https://madog.vercel.app)
- - date_published: 2024-05-14T03:35:03.934653+00:00
-
- ## Mapframe - Solar System
- - [https://mapframe.vercel.app](https://mapframe.vercel.app)
- - date_published: 2024-06-20T15:37:48.502063+00:00
-
- ## Show HN: I made a tool to clean and convert any webpage to Markdown
- - [https://markdowndown.vercel.app](https://markdowndown.vercel.app)
- - date_published: 2024-04-14T19:03:58+00:00
-
- ## Martin di Martino-Marriott | Front-end Web Developer, Nottingham
- - [https://martindm-uk.vercel.app](https://martindm-uk.vercel.app)
- - date_published: 2024-01-07T17:48:29.845931+00:00
-
- ## Mastodon Flock
- - [https://mastodon-flock.vercel.app](https://mastodon-flock.vercel.app)
- - date_published: 2023-10-25T08:36:46.987018+00:00
-
- ## GitHub - blairanderson/microicon: SVG icon microservice
- - [https://microicon-clone.vercel.app](https://microicon-clone.vercel.app)
- - date_published: 2024-04-30T00:34:05.252523+00:00
-
- ## Moddermore
- - [https://moddermore.vercel.app](https://moddermore.vercel.app)
- - date_published: 2024-05-15T02:48:31.617481+00:00
-
- ## A Modern Web for Hacker News – Open-Source and Seeking Feedback
- - [https://modern-hacker-news.vercel.app](https://modern-hacker-news.vercel.app)
- - date_published: 2023-12-31T14:00:00+00:00
-
- ## Moments: Personalised Meditations in Seconds
- - [https://momentsai.vercel.app](https://momentsai.vercel.app)
- - date_published: 2024-06-19T20:50:51.727960+00:00
-
- ## Show HN: I made a Pinterest clone using SigLIP image embeddings
- - [https://mood-amber.vercel.app](https://mood-amber.vercel.app)
- - date_published: 2024-02-16T02:52:01+00:00
-
- ## Moogle: Semantic search over mathlib4
- - [https://moogle-morphlabs.vercel.app](https://moogle-morphlabs.vercel.app)
- - date_published: 2024-05-07T15:57:45.618859+00:00
-
- ## Movie/Book Recommender
- - [https://movie-and-book-recommender.vercel.app](https://movie-and-book-recommender.vercel.app)
- - date_published: 2024-06-19T21:38:47.595790+00:00
-
- ## movie-web
- - [https://movie-web-alpha-eight.vercel.app](https://movie-web-alpha-eight.vercel.app)
- - date_published: 2024-05-08T10:44:20.844587+00:00
-
- ## Best Medical Record Review Services for Attorneys in USA
- - [https://mrr-health-tech.vercel.app](https://mrr-health-tech.vercel.app)
- - date_published: 2024-06-22T22:33:42.875723+00:00
-
- ## MUD | Framework for onchain applications
- - [https://mud-docs-6z1ag54lx-latticexyz.vercel.app](https://mud-docs-6z1ag54lx-latticexyz.vercel.app)
- - date_published: 2024-04-30T01:55:29.205632+00:00
-
- ## MUD | Framework for onchain applications
- - [https://mud-docs-o2hla2qt0-latticexyz.vercel.app](https://mud-docs-o2hla2qt0-latticexyz.vercel.app)
- - date_published: 2024-06-04T12:50:57.860875+00:00
-
- ## Not a Number
- - [https://nan-archive.vercel.app](https://nan-archive.vercel.app)
- - date_published: 2024-05-08T00:41:24.126353+00:00
-
- ## React App
- - [https://native-ads-two.vercel.app](https://native-ads-two.vercel.app)
- - date_published: 2024-05-04T06:41:03.171139+00:00
-
- ## Show HN: I built a website to share files and messages without any server
- - [https://neighbor-share.vercel.app](https://neighbor-share.vercel.app)
- - date_published: 2024-05-05T07:42:13+00:00
-
- ## Neobrutalism components
- - [https://neobrutalism-components.vercel.app](https://neobrutalism-components.vercel.app)
- - date_published: 2024-04-07T06:03:59+00:00
- - tags: ['brutalist web']
-
- ## Emil Kowalski
- - [https://new-emilkowalski.vercel.app](https://new-emilkowalski.vercel.app)
- - date_published: 2024-06-22T13:58:54.989772+00:00
-
- ## NextAuth.js Example
- - [https://next-auth-example.vercel.app](https://next-auth-example.vercel.app)
- - date_published: 2024-04-29T07:20:05.749263+00:00
-
- ## Jobify Dev
- - [https://nextjs-jobify-production.vercel.app](https://nextjs-jobify-production.vercel.app)
- - date_published: 2024-06-19T06:57:50.743139+00:00
-
- ## Nextra – Next.js Static Site Generator – Nextra
- - [https://nextra.vercel.app](https://nextra.vercel.app)
- - date_published: 2024-06-15T02:03:04.197742+00:00
-
- ## NgChat
- - [https://ng-chat-v.vercel.app](https://ng-chat-v.vercel.app)
- - date_published: 2024-05-20T18:18:54.812115+00:00
-
- ## Northendlab | Astro Blog Theme
- - [https://northendlab-light-astro.vercel.app](https://northendlab-light-astro.vercel.app)
- - date_published: 2024-06-21T23:48:46.626162+00:00
-
- ## Notes
- - [https://notes-ibnmaghreb.vercel.app](https://notes-ibnmaghreb.vercel.app)
- - date_published: 2024-06-02T00:00:00+00:00
 

@@ -1,3 +1,95 @@
+ ## Klavier AI
+ - [https://klavier.ai](https://klavier.ai)
+ - date_published: 2023-10-25T11:39:40.335086+00:00
+
+ ## KLapper Builder
+ - [https://builder.klobot.ai](https://builder.klobot.ai)
+ - date_published: 2024-06-20T07:55:27+00:00
+
+ ## KLoBot Inc – Incredibly Intelligent Products for Law Firms & General Counsels
+ - [https://www.klobot.ai](https://www.klobot.ai)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Access Your Workspace / Klu.ai
+ - [https://app.klu.ai](https://app.klu.ai)
+ - date_published: 2024-05-08T04:48:12.060141+00:00
+
+ ## Klu.ai Documentation
+ - [https://docs.klu.ai](https://docs.klu.ai)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## Klu.ai Copilot
+ - [https://help.klu.ai](https://help.klu.ai)
+ - date_published: 2024-05-08T04:48:12.827815+00:00
+
+ ## Design, Deploy, and Optimize LLM Apps with Klu — Klu.ai
+ - [https://klu.ai](https://klu.ai)
+ - date_published: 2024-05-08T04:48:09.254021+00:00
+
+ ## Klu.ai Release Notes
+ - [https://ship.klu.ai](https://ship.klu.ai)
+ - date_published: 2024-05-08T04:48:16.055291+00:00
+
+ ## KnowBuddy
+ - [https://www.knowbuddy.ai](https://www.knowbuddy.ai)
+ - date_published: 2023-03-31T00:00:00+00:00
+
+ ## Knowlee AI - AI Teams Automating Every Business Flow
+ - [https://www.knowlee.ai](https://www.knowlee.ai)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Knowmax: Omnichannel KM Platform For Customer Experience
+ - [https://knowmax.ai](https://knowmax.ai)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## ControlMeme
+ - [https://meme.koll.ai](https://meme.koll.ai)
+ - date_published: 2023-10-25T11:39:41.128911+00:00
+
+ ## Komo Search - AI Search & Explore
+ - [https://komo.ai](https://komo.ai)
+ - date_published: 2024-06-19T20:10:05.308757+00:00
+
+ ## An unparalleled return on your content
+ - [https://kontent.ai](https://kontent.ai)
+ - date_published: 2024-06-21T20:21:36.878790+00:00
+
+ ## koolio.ai - What's your story?
+ - [https://www.koolio.ai](https://www.koolio.ai)
+ - date_published: 2024-01-28T05:33:39+00:00
+
+ ## Dialpad Ai Contact Center - Customer Service Software
+ - [https://eu-west.app.koopid.ai](https://eu-west.app.koopid.ai)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Homepage
+ - [https://kore.ai](https://kore.ai)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## Korewa AI — The Otaku Dream
+ - [https://korewa.ai](https://korewa.ai)
+ - date_published: 2024-06-19T19:27:22.809972+00:00
+
+ ## Home
+ - [https://korra.ai](https://korra.ai)
+ - date_published: 2024-06-19T13:51:08+00:00
+
+ ## Krater.ai – Your AI SuperApp
+ - [https://www.krater.ai](https://www.krater.ai)
+ - date_published: 2024-06-19T21:14:22.008328+00:00
+
+ ## KREA
+ - [https://www.krea.ai](https://www.krea.ai)
+ - date_published: 2024-06-14T18:14:53.182257+00:00
+
+ ## Animation Video Maker | Krikey AI
+ - [https://www.krikey.ai](https://www.krikey.ai)
+ - date_published: 2024-06-19T19:57:04.341022+00:00
+
+ ## Krisp | Noise Cancelling App
+ - [https://account.krisp.ai](https://account.krisp.ai)
+ - date_published: 2024-06-23T07:57:40.804959+00:00
+
  ## Krisp | Noise Cancelling App
  - [https://app.krisp.ai](https://app.krisp.ai)
  - date_published: 2024-06-23T07:57:38.497786+00:00
@@ -957,6 +1049,18 @@
  - [https://noty.ai](https://noty.ai)
  - date_published: 2024-06-19T00:00:00+00:00
 
+ ## Control Panel
+ - [https://app.nrich.ai](https://app.nrich.ai)
+ - date_published: 2024-06-20T05:27:27+00:00
+
+ ## Privacy Notice | N.Rich
+ - [https://privacy.nrich.ai](https://privacy.nrich.ai)
+ - date_published: 2024-06-25T22:03:43.356441+00:00
+
+ ## Control Panel
+ - [https://us.nrich.ai](https://us.nrich.ai)
+ - date_published: 2024-06-20T05:27:21+00:00
+
  ## NSFWCharacter.ai
  - [https://nsfwcharacter.ai](https://nsfwcharacter.ai)
  - date_published: 2024-06-19T19:19:40+00:00
@@ -1692,6 +1796,10 @@
  ## QR code generator - QRCode AI
  - [https://qrcode.ai](https://qrcode.ai)
  - date_published: 2024-06-19T20:06:39.737756+00:00
+
+ ## 큐샵 Qshop
+ - [https://qshop.ai](https://qshop.ai)
+ - date_published: 2024-06-25T20:32:58.050581+00:00
 
  ## Home - Qualifyed
  - [https://qualifyed.ai](https://qualifyed.ai)
@@ -3377,7 +3485,7 @@
 
  ## vi :: Home
  - [https://www.vi.ai](https://www.vi.ai)
- - date_published: 2024-05-06T18:01:52.239479+00:00
+ - date_published: 2023-11-13T09:04:47+00:00
 
  ## Accounting AI software for faster invoice processing
  - [https://www.vic.ai](https://www.vic.ai)
@@ -3706,6 +3814,10 @@ Creative Solutions
  - [https://xno.ai](https://xno.ai)
  - date_published: 2024-06-19T18:00:01+00:00
 
+ ## xpln.ai - Improve the efficiency of your digital advertising campaigns
+ - [https://en.xpln.ai](https://en.xpln.ai)
+ - date_published: 2024-01-29T00:00:00+00:00
+
  ## xpln.ai - Améliorez l’efficacité de vos campagnes publicitaires digitales
  - [https://xpln.ai](https://xpln.ai)
  - date_published: 2024-01-29T00:00:00+00:00
@@ -3926,119 +4038,4 @@ Creative Solutions
  ## home - Jeep Albania
  - [https://www.jeep.al](https://www.jeep.al)
  - date_published: 2015-07-12T14:50:38+00:00
-
- ## About · Jesal Gadhia
- - [https://jes.al](https://jes.al)
- - date_published: 2023-10-25T09:01:04.989896+00:00
- - tags: ['personal']
-
- ## juan.al
- - [https://juan.al](https://juan.al)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Pitch your startup to top angels, VCs and accelerators
- - [https://kern.al](https://kern.al)
- - date_published: 2024-06-18T17:38:53.786565+00:00
-
- ## Alpro Development
- - [https://lushka.al](https://lushka.al)
- - date_published: 2024-05-09T08:24:21.122959+00:00
-
- ## Ariq Naufal
- - [https://ariq.nauf.al](https://ariq.nauf.al)
- - date_published: 2023-03-19T04:36:00+00:00
-
- ## Naval
- - [https://nav.al](https://nav.al)
- - date_published: 2023-10-25T11:45:20.135109+00:00
-
- ## Real Estate in Tirana. Office, villa, apartment for rent or sale Albania.
- - [https://www.realestate.al](https://www.realestate.al)
- - date_published: 2024-02-08T22:20:07.666981+00:00
-
- ## Al's blog
- - [https://blog.the.al](https://blog.the.al)
- - date_published: 2024-04-09T00:00:00+00:00
- - tags: ['personal']
-
- ## trib.al
- - [https://trib.al](https://trib.al)
- - date_published: 2024-05-06T14:34:57.200773+00:00
-
- ## Personale - Vodafone
- - [https://www.vodafone.al](https://www.vodafone.al)
- - date_published: 2024-05-07T10:57:37.324893+00:00
-
- ## Jake's Digital Garden
- - [https://garden.weidok.al](https://garden.weidok.al)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Jake Weidokal
- - [https://weidok.al](https://weidok.al)
- - date_published: 2024-04-03T06:31:55.800090+00:00
- - tags: ['personal']
-
- ## Punësoni Freelancera & Gjeni Punë Freelance Online
- - [https://www.freelancer.com.al](https://www.freelancer.com.al)
- - date_published: 2024-06-16T12:01:25.626120+00:00
-
- ## Sot News
- - [https://sot.com.al](https://sot.com.al)
- - date_published: 2023-11-11T16:04:51.715456+00:00
-
- ## Car Insurance | Get An Auto Insurance Quote | Allstate
- - [http://www.auto.allstate](http://www.auto.allstate)
- - date_published: 2024-06-16T05:47:32.335801+00:00
-
- ## Airbnb | Վարձով հանգստի տներ, տնակներ, լողափնյա տներ և այլն
- - [https://www.airbnb.am](https://www.airbnb.am)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Freedom Be With All | I’m your worst nightmare…
- - [https://weblog.antranigv.am](https://weblog.antranigv.am)
- - date_published: 2023-10-25T11:45:23.684006+00:00
-
- ## Радио Азатутюн
- - [https://rus.azatutyun.am](https://rus.azatutyun.am)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Ազատություն Ռադիոկայան
- - [https://www.azatutyun.am](https://www.azatutyun.am)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Deepgram Voice AI: Text to Speech + Speech to Text APIs | Deepgram
- - [https://dpgr.am](https://dpgr.am)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## home - Fiat Professional Armenia
- - [https://www.fiatprofessional.am](https://www.fiatprofessional.am)
- - date_published: 2015-07-12T14:50:38+00:00
-
- ## Google
- - [https://www.google.am](https://www.google.am)
- - date_published: 2024-06-21T22:24:45.518495+00:00
-
- ## · Hesham Abd-Elmegid
- - [https://hesh.am](https://hesh.am)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## HTML Codes, Editors, and Generators
- - [http://www.html.am](http://www.html.am)
- - date_published: 2024-04-30T03:46:55.617332+00:00
-
- ## Instagram
- - [https://instagr.am](https://instagr.am)
- - date_published: 2024-05-08T05:17:31.028770+00:00
-
- ## Kopiti.am
- - [https://kopiti.am](https://kopiti.am)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## kwant.am
- - [https://kwant.am](https://kwant.am)
- - date_published: 2024-05-08T08:58:21.100486+00:00
-
- ## Mayday: The AI-Assisted Calendar
- - [https://mayday.am](https://mayday.am)
- - date_published: 2024-05-05T00:00:00+00:00
 
