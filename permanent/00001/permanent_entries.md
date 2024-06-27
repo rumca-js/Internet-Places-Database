@@ -1,3 +1,47 @@
+ ## Blockchain Courses | Best Blockchain Training Institute India | KBA
+ - [https://kba.ai](https://kba.ai)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Leverage Human Intelligence | Kern AI
+ - [https://www.kern.ai](https://www.kern.ai)
+ - date_published: 2024-05-08T06:21:36.784679+00:00
+
+ ## AI-Powered Video & Creative Technology | KERV
+ - [https://kerv.ai](https://kerv.ai)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Kesem.ai
+ - [https://app.kesem.ai](https://app.kesem.ai)
+ - date_published: 2023-09-18T20:34:24+00:00
+
+ ## AI Driven Content Marketing Platform | Keyword Insights
+ - [https://www.keywordinsights.ai](https://www.keywordinsights.ai)
+ - date_published: 2023-05-03T12:13:24+00:00
+
+ ## Keywrds.ai | Find keywords your competition can only dream of
+ - [https://keywrds.ai](https://keywrds.ai)
+ - date_published: 2024-06-19T21:22:31+00:00
+
+ ## Meet Khanmigo: Khan Academy's AI-powered teaching assistant & tutor
+ - [https://www.khanmigo.ai](https://www.khanmigo.ai)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## KHIPU
+ - [https://khipu.ai](https://khipu.ai)
+ - date_published: 2024-06-21T20:30:55+00:00
+
+ ## KindBuds.ai - Build a Bot
+ - [https://www.kindbuds.ai](https://www.kindbuds.ai)
+ - date_published: 2024-03-05T04:13:47+00:00
+
+ ## Meet KLapper Legal Assistant - KLapper
+ - [https://klapper.ai](https://klapper.ai)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Meet KLapper Legal Assistant - KLapper
+ - [https://www.klapper.ai](https://www.klapper.ai)
+ - date_published: 2024-03-18T00:00:00+00:00
+
  ## Klavier AI
  - [https://klavier.ai](https://klavier.ai)
  - date_published: 2023-10-25T11:39:40.335086+00:00
@@ -2217,6 +2261,14 @@
  - [https://sciml.ai](https://sciml.ai)
  - date_published: 2023-10-25T11:42:32.506316+00:00
 
+ ## Introduction - The open source AI powered answer engine.
+ - [https://r2r-docs.sciphi.ai](https://r2r-docs.sciphi.ai)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## SciPhi
+ - [https://sciphi.ai](https://sciphi.ai)
+ - date_published: 2024-06-26T21:23:41.288567+00:00
+
  ## SciPhi - The fastest way to build retrieval for your AI
  - [https://www.sciphi.ai](https://www.sciphi.ai)
  - date_published: 2024-02-26T15:43:02.531873+00:00
@@ -3401,6 +3453,10 @@
  - [https://www.usage.ai](https://www.usage.ai)
  - date_published: 2024-05-06T13:47:37.452226+00:00
 
+ ## Show HN: Find AI – Perplexity Meets LinkedIn
+ - [https://usefind.ai](https://usefind.ai)
+ - date_published: 2024-06-26T16:02:57+00:00
+
  ## Galileo AI
  - [https://www.usegalileo.ai](https://www.usegalileo.ai)
  - date_published: 2023-10-25T11:44:45.723617+00:00
@@ -3981,61 +4037,4 @@ Creative Solutions
  ## Video Game Store - PS5, PS4, Xbox S/X, Xbox One, PC, Switch and Toys
  - [https://www.albagame.al](https://www.albagame.al)
  - date_published: 2024-04-24T00:00:00+00:00
-
- ## Home | albamedia
- - [http://albamedia.al](http://albamedia.al)
- - date_published: 2024-06-17T20:18:30.588904+00:00
-
- ## Aral Balkan
- - [https://ar.al](https://ar.al)
- - date_published: 2023-10-25T08:41:38.253677+00:00
- - tags: ['personal']
-
- ## Aral’s fediverse server
- - [https://mastodon.ar.al](https://mastodon.ar.al)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## CNA - Pa censurë!
- - [https://www.cna.al](https://www.cna.al)
- - date_published: 2023-11-06T08:34:19.526910+00:00
-
- ## Colorprinter - Colorprinter©
- - [https://colorprinter.al](https://colorprinter.al)
- - date_published: 2021-05-02T21:19:19+00:00
-
- ## decomposition ∘ al
- - [https://decomposition.al](https://decomposition.al)
- - date_published: 2023-10-25T11:45:10.348415+00:00
-
- ## Doodal
- - [http://dood.al](http://dood.al)
- - date_published: 2014-07-01T18:09:07+00:00
-
- ## Home - Euronews Albania
- - [https://euronews.al](https://euronews.al)
- - date_published: 2020-09-23T11:01:18+00:00
-
- ## Home - Euronews Albania
- - [https://www.euronews.al](https://www.euronews.al)
- - date_published: 2020-09-23T11:01:18+00:00
-
- ## Charles Féval
- - [https://fev.al](https://fev.al)
- - date_published: 2023-10-25T11:45:10.977889+00:00
-
- ## Faqja Zyrtare e Fiat Albania | Makina të reja dhe të përdorura, furgona...
- - [https://www.fiat.al](https://www.fiat.al)
- - date_published: 2023-11-27T18:16:53+00:00
-
- ## home - Fiat Professional Albania
- - [https://www.fiatprofessional.al](https://www.fiatprofessional.al)
- - date_published: 2015-07-12T14:50:38+00:00
-
- ## Google
- - [https://www.google.al](https://www.google.al)
- - date_published: 2024-06-21T22:26:00.556206+00:00
-
- ## home - Jeep Albania
- - [https://www.jeep.al](https://www.jeep.al)
- - date_published: 2015-07-12T14:50:38+00:00
 

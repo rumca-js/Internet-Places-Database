@@ -31,6 +31,10 @@
  - [https://cultm.ac](https://cultm.ac)
  - date_published: 2024-05-08T00:00:00+00:00
 
+ ## DISCO
+ - [https://strangespecial.disco.ac](https://strangespecial.disco.ac)
+ - date_published: 2024-06-26T22:55:34.897510+00:00
+
  ## The University of Edinburgh
  - [https://edin.ac](https://edin.ac)
  - date_published: 2024-05-02T10:53:52.088689+00:00
@@ -485,9 +489,20 @@
  - [https://eldorado.aero](https://eldorado.aero)
  - date_published: 2024-06-11T22:59:16.432735+00:00
 
+ ## FutureFlight | AIN
+ - [https://futureflight.aero](https://futureflight.aero)
+ - date_published: 2024-06-25T00:00:00+00:00
+ - tags: ['aviation news']
+
  ## FutureFlight | Urban Air Mobility News, Special Reports, Programs
  - [https://www.futureflight.aero](https://www.futureflight.aero)
  - date_published: 2023-12-16T22:26:53.868701+00:00
+ - tags: ['aviation news']
+
+ ## Stralis Aircraft
+ - [https://hfa.aero](https://hfa.aero)
+ - date_published: 2024-06-26T11:33:03.046016+00:00
+ - tags: ['aviation']
 
  ## Universal Hydrogen | Fueling Carbon-Free Flight
  - [https://hydrogen.aero](https://hydrogen.aero)
@@ -508,7 +523,11 @@
  ## Stralis Aircraft – Emission free hydrogen electric aircraft
  - [https://stralis.aero](https://stralis.aero)
  - date_published: 2023-11-20T20:24:12.351020+00:00
- - tags: ['aircraft', 'airspace', 'avionics']
+ - tags: ['airspace', 'avionics', 'aviation', 'aircraft']
+
+ ## Stralis Aircraft
+ - [https://www.stralis.aero](https://www.stralis.aero)
+ - date_published: 2024-06-26T11:33:04.707699+00:00
 
  ## Swoop Aero - Onwards is upwards
  - [https://swoop.aero](https://swoop.aero)
@@ -517,6 +536,11 @@
  ## Home | Times Aerospace
  - [https://www.timesaerospace.aero](https://www.timesaerospace.aero)
  - date_published: 2023-10-25T10:58:58.652022+00:00
+
+ ## Wisk | We've Arrived.
+ - [https://wisk.aero](https://wisk.aero)
+ - date_published: 2024-06-26T11:19:09.857168+00:00
+ - tags: ['vtol', 'avionics', 'aviation']
 
  ## Aerospace Accelerator - Aerospace Xelerated
  - [https://xelerated.aero](https://xelerated.aero)
@@ -586,6 +610,10 @@
  ## Gumzo (Mastodon)
  - [https://gumzo.africa](https://gumzo.africa)
  - date_published: 2024-06-23T17:13:59.738348+00:00
+
+ ## ITWeb Africa | Business Technology News
+ - [https://itweb.africa](https://itweb.africa)
+ - date_published: 2024-06-26T11:49:12.142766+00:00
 
  ## Nation ePaper: The Truth wherever you go.
  - [https://epaper.nation.africa](https://epaper.nation.africa)
@@ -732,6 +760,10 @@
  ## Hahn.agency
  - [https://hahn.agency](https://hahn.agency)
  - date_published: 2024-05-08T11:12:42.452502+00:00
+
+ ## Hands
+ - [https://hands.agency](https://hands.agency)
+ - date_published: 2024-06-26T21:44:49.925948+00:00
 
  ## Hedengren Agency
  - [https://hedengren.agency](https://hedengren.agency)
@@ -1138,6 +1170,10 @@
  ## Ask an AI
  - [https://www.askan.ai](https://www.askan.ai)
  - date_published: 2024-06-19T19:49:49+00:00
+
+ ## AskBuddha: Let's Chat with AI Buddha
+ - [https://askbuddha.ai](https://askbuddha.ai)
+ - date_published: 2024-06-26T09:04:29.337739+00:00
 
  ## Analytics made simpler using AI
  - [https://www.askedith.ai](https://www.askedith.ai)
@@ -2953,6 +2989,14 @@ Welcome
  - [https://www.finito.ai](https://www.finito.ai)
  - date_published: 2024-06-19T19:26:10.844524+00:00
 
+ ## Fireflies.ai - Free Meeting Recorder
+ - [https://app.fireflies.ai](https://app.fireflies.ai)
+ - date_published: 2024-06-26T13:50:14.824140+00:00
+
+ ## Introduction - Fireflies.ai API Documentation
+ - [https://docs.fireflies.ai](https://docs.fireflies.ai)
+ - date_published: 2024-01-12T00:00:00+00:00
+
  ## Fireflies.ai | AI notetaker to transcribe, summarize, analyze meetings
  - [https://fireflies.ai](https://fireflies.ai)
  - date_published: 2024-05-06T19:48:12.423957+00:00
@@ -3989,44 +4033,4 @@ Welcome
  ## Krueger AI Safety Lab – Technical AI Safety Research
  - [https://www.kasl.ai](https://www.kasl.ai)
  - date_published: 2024-06-21T11:38:12.328786+00:00
-
- ## Leverage Human Intelligence | Kern AI
- - [https://www.kern.ai](https://www.kern.ai)
- - date_published: 2024-05-08T06:21:36.784679+00:00
-
- ## AI-Powered Video & Creative Technology | KERV
- - [https://kerv.ai](https://kerv.ai)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Kesem.ai
- - [https://app.kesem.ai](https://app.kesem.ai)
- - date_published: 2023-09-18T20:34:24+00:00
-
- ## AI Driven Content Marketing Platform | Keyword Insights
- - [https://www.keywordinsights.ai](https://www.keywordinsights.ai)
- - date_published: 2023-05-03T12:13:24+00:00
-
- ## Keywrds.ai | Find keywords your competition can only dream of
- - [https://keywrds.ai](https://keywrds.ai)
- - date_published: 2024-06-19T21:22:31+00:00
-
- ## Meet Khanmigo: Khan Academy's AI-powered teaching assistant & tutor
- - [https://www.khanmigo.ai](https://www.khanmigo.ai)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## KHIPU
- - [https://khipu.ai](https://khipu.ai)
- - date_published: 2024-06-21T20:30:55+00:00
-
- ## KindBuds.ai - Build a Bot
- - [https://www.kindbuds.ai](https://www.kindbuds.ai)
- - date_published: 2024-03-05T04:13:47+00:00
-
- ## Meet KLapper Legal Assistant - KLapper
- - [https://klapper.ai](https://klapper.ai)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Meet KLapper Legal Assistant - KLapper
- - [https://www.klapper.ai](https://www.klapper.ai)
- - date_published: 2024-03-18T00:00:00+00:00
 

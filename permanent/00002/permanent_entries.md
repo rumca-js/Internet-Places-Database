@@ -1,3 +1,60 @@
+ ## Home | albamedia
+ - [http://albamedia.al](http://albamedia.al)
+ - date_published: 2024-06-17T20:18:30.588904+00:00
+
+ ## Aral Balkan
+ - [https://ar.al](https://ar.al)
+ - date_published: 2023-10-25T08:41:38.253677+00:00
+ - tags: ['personal']
+
+ ## Aral’s fediverse server
+ - [https://mastodon.ar.al](https://mastodon.ar.al)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## CNA - Pa censurë!
+ - [https://www.cna.al](https://www.cna.al)
+ - date_published: 2023-11-06T08:34:19.526910+00:00
+
+ ## Colorprinter - Colorprinter©
+ - [https://colorprinter.al](https://colorprinter.al)
+ - date_published: 2021-05-02T21:19:19+00:00
+
+ ## decomposition ∘ al
+ - [https://decomposition.al](https://decomposition.al)
+ - date_published: 2023-10-25T11:45:10.348415+00:00
+
+ ## Doodal
+ - [http://dood.al](http://dood.al)
+ - date_published: 2014-07-01T18:09:07+00:00
+
+ ## Home - Euronews Albania
+ - [https://euronews.al](https://euronews.al)
+ - date_published: 2020-09-23T11:01:18+00:00
+
+ ## Home - Euronews Albania
+ - [https://www.euronews.al](https://www.euronews.al)
+ - date_published: 2020-09-23T11:01:18+00:00
+
+ ## Charles Féval
+ - [https://fev.al](https://fev.al)
+ - date_published: 2023-10-25T11:45:10.977889+00:00
+
+ ## Faqja Zyrtare e Fiat Albania | Makina të reja dhe të përdorura, furgona...
+ - [https://www.fiat.al](https://www.fiat.al)
+ - date_published: 2023-11-27T18:16:53+00:00
+
+ ## home - Fiat Professional Albania
+ - [https://www.fiatprofessional.al](https://www.fiatprofessional.al)
+ - date_published: 2015-07-12T14:50:38+00:00
+
+ ## Google
+ - [https://www.google.al](https://www.google.al)
+ - date_published: 2024-06-21T22:26:00.556206+00:00
+
+ ## home - Jeep Albania
+ - [https://www.jeep.al](https://www.jeep.al)
+ - date_published: 2015-07-12T14:50:38+00:00
+
  ## About · Jesal Gadhia
  - [https://jes.al](https://jes.al)
  - date_published: 2023-10-25T09:01:04.989896+00:00
@@ -1414,6 +1471,10 @@
  - [https://homey.app](https://homey.app)
  - date_published: 2024-04-29T04:04:01.939925+00:00
 
+ ## Hondana: Virtual Bookshelf & Community
+ - [https://hondana.app](https://hondana.app)
+ - date_published: 2024-06-23T00:00:00+00:00
+
  ## HumanIPO - Turn your fans into shareholders
  - [https://humanipo.app](https://humanipo.app)
  - date_published: 2024-05-12T05:28:23.256428+00:00
@@ -1859,6 +1920,11 @@
  - [https://adhdtest.moodmap.app](https://adhdtest.moodmap.app)
  - date_published: 2024-04-25T14:08:42.212683+00:00
 
+ ## Motrix
+ - [https://motrix.app](https://motrix.app)
+ - date_published: 2024-06-26T12:43:02+00:00
+ - tags: ['download manager']
+
  ## Mu
  - [https://mu.app](https://mu.app)
  - date_published: 2023-10-25T11:47:22.709061+00:00
@@ -2041,6 +2107,10 @@
  - [https://deck-24abcd.netlify.app](https://deck-24abcd.netlify.app)
  - date_published: 2023-10-25T11:47:24.028454+00:00
 
+ ## Developer Ipsum
+ - [https://developer-ipsum.netlify.app](https://developer-ipsum.netlify.app)
+ - date_published: 2024-06-26T07:19:08.435479+00:00
+
  ## Bingus Bwamp’s Emporium of Enchanted Stones
  - [https://dnd-lamp-store.netlify.app](https://dnd-lamp-store.netlify.app)
  - date_published: 2024-04-29T07:31:56.578472+00:00
@@ -2101,6 +2171,10 @@
  ## HTML with Superpowers | HTML with Superpowers
  - [https://htmlwithsuperpowers.netlify.app](https://htmlwithsuperpowers.netlify.app)
  - date_published: 2023-10-25T11:47:32.982005+00:00
+
+ ## Umami
+ - [https://ilf-site-analytics.netlify.app](https://ilf-site-analytics.netlify.app)
+ - date_published: 2024-06-26T08:03:26.755243+00:00
 
  ## Is This Site Netlify?
  - [https://is-this.netlify.app](https://is-this.netlify.app)
@@ -3596,6 +3670,10 @@
  - [https://www.verble.app](https://www.verble.app)
  - date_published: 2024-06-13T14:11:50+00:00
 
+ ## Payments and much more – Barion
+ - [https://2023-barion-com-facelift.vercel.app](https://2023-barion-com-facelift.vercel.app)
+ - date_published: 2024-06-26T08:03:10.435917+00:00
+
  ## Travel with the 49 Euro ticket
  - [https://49travel.vercel.app](https://49travel.vercel.app)
  - date_published: 2023-10-25T11:49:45.612462+00:00
@@ -3942,6 +4020,10 @@
  - [https://frodo-chi.vercel.app](https://frodo-chi.vercel.app)
  - date_published: 2024-06-14T08:55:25.158102+00:00
 
+ ## GA Consumer Navigation
+ - [https://ga-marketing-navigation-production.vercel.app](https://ga-marketing-navigation-production.vercel.app)
+ - date_published: 2024-06-26T22:51:15.443713+00:00
+
  ## getavatar.vercel.app: Get unified user gvatar from Twitter, GitHub, Intagram, Reddit, etc.
  - [https://getavatar.vercel.app](https://getavatar.vercel.app)
  - date_published: 2018-10-20T01:46:40+00:00
@@ -3973,83 +4055,4 @@
  ## AI Greeting Card Generator
  - [https://greetingcardgenerator.vercel.app](https://greetingcardgenerator.vercel.app)
  - date_published: 2024-06-19T19:54:48.154366+00:00
-
- ## greg — a small replacement for cal
- - [https://greg-calendar.vercel.app](https://greg-calendar.vercel.app)
- - date_published: 2024-05-08T10:46:41.196847+00:00
-
- ## Evidence
- - [https://hackernews-insight.vercel.app](https://hackernews-insight.vercel.app)
- - date_published: 2023-10-25T11:50:22.132412+00:00
-
- ## https://hackernews-semafor-duhw.vercel.app
- - [https://hackernews-semafor-duhw.vercel.app](https://hackernews-semafor-duhw.vercel.app)
- - date_published: 2024-01-09T02:23:40.160327+00:00
-
- ## HackerNews Readings: Thinking, Fast and Slow
- - [https://hacker-recommended-books.vercel.app](https://hacker-recommended-books.vercel.app)
- - date_published: 2024-05-06T14:03:40.761356+00:00
-
- ## Hackreels
- - [https://hackreels-f6j7ah3uf-davidtparks-s-team.vercel.app](https://hackreels-f6j7ah3uf-davidtparks-s-team.vercel.app)
- - date_published: 2024-05-04T09:14:19.706401+00:00
-
- ## Happy Mama
- - [https://happy-mama.vercel.app](https://happy-mama.vercel.app)
- - date_published: 2024-06-19T19:23:58.058715+00:00
-
- ## HEN DJ
- - [https://hen-dj.vercel.app](https://hen-dj.vercel.app)
- - date_published: 2024-05-06T23:12:06.631278+00:00
-
- ## highlight.io: The open source monitoring platform.
- - [https://highlight-landing-79rzcxb86-highlight-run.vercel.app](https://highlight-landing-79rzcxb86-highlight-run.vercel.app)
- - date_published: 2024-05-04T15:50:23.907835+00:00
-
- ## highlight.io: The open source monitoring platform.
- - [https://highlight-landing-b1fcgfh7d-highlight-run.vercel.app](https://highlight-landing-b1fcgfh7d-highlight-run.vercel.app)
- - date_published: 2024-06-21T08:19:19.505459+00:00
-
- ## Find Hacker News candidates and jobs powered by ChatGPT
- - [https://hn-hiring-tpipr43zp-u-turn.vercel.app](https://hn-hiring-tpipr43zp-u-turn.vercel.app)
- - date_published: 2024-04-30T02:25:43.297259+00:00
-
- - [https://honeyy.vercel.app](https://honeyy.vercel.app)
- - date_published: 2024-04-08T19:28:58.472118+00:00
-
- ## 정현수 포트폴리오
- - [https://hyeonsu-jung.vercel.app](https://hyeonsu-jung.vercel.app)
- - date_published: 2024-06-20T17:12:21.116394+00:00
-
- ## ImageWise
- - [https://imagewise-oqkz.vercel.app](https://imagewise-oqkz.vercel.app)
- - date_published: 2024-06-19T20:04:24.420090+00:00
-
- ## Inpainting with Stable Diffusion & Replicate
- - [https://inpainter.vercel.app](https://inpainter.vercel.app)
- - date_published: 2024-06-19T20:11:29.557083+00:00
-
- ## Independent Wiki Federation
- - [https://iwf-website.vercel.app](https://iwf-website.vercel.app)
- - date_published: 2024-06-18T14:58:54.278665+00:00
-
- ## Jermanuts
- - [https://jermanuts.vercel.app](https://jermanuts.vercel.app)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## João Paulo
- - [https://joaopaulo-developer.vercel.app](https://joaopaulo-developer.vercel.app)
- - date_published: 2024-06-23T08:12:07.097551+00:00
-
- ## About
- - [https://jusdeleon.vercel.app](https://jusdeleon.vercel.app)
- - date_published: 2024-05-11T10:11:14.813809+00:00
-
- ## Just Prompts
- - [https://just-prompt.vercel.app](https://just-prompt.vercel.app)
- - date_published: 2023-03-18T00:00:00+00:00
-
- ## João Vitor - Front-end Developer
- - [https://jvzaniolo.vercel.app](https://jvzaniolo.vercel.app)
- - date_published: 2024-05-11T10:25:07.249525+00:00
 
