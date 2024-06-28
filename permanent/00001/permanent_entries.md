@@ -1,3 +1,108 @@
+ ## BestBanner - Text to Banners, No Prompts Needed!
+ - [https://bestbanner.jina.ai](https://bestbanner.jina.ai)
+ - date_published: 2024-02-28T06:32:17+00:00
+
+ ## Jina AI - Your Portal to Multimodal AI
+ - [https://jina.ai](https://jina.ai)
+ - date_published: 2023-10-25T11:39:32.941807+00:00
+
+ ## PromptPerfect - Elevate Your Prompts to Perfection. Prompt Engineering, Optimizing, Debugging and Hosting.
+ - [https://promptperfect.jina.ai](https://promptperfect.jina.ai)
+ - date_published: 2023-10-25T11:39:38.753656+00:00
+
+ ## Rationale - a revolutionary decision-making AI powered by the latest GPT and in-context learning
+ - [https://rationale.jina.ai](https://rationale.jina.ai)
+ - date_published: 2024-02-28T06:44:52+00:00
+
+ ## Job Description Generator using AI | Job Description AI
+ - [https://jobdescription.ai](https://jobdescription.ai)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Jotte
+ - [https://jotte.ai](https://jotte.ai)
+ - date_published: 2023-10-25T11:39:39.545457+00:00
+
+ ## Jounce - Free AI Copywriting & Art for Marketers
+ - [https://www.jounce.ai](https://www.jounce.ai)
+ - date_published: 2023-09-09T00:00:00+00:00
+
+ ## Joyland.ai | Joyful AI Character & Story
+ - [https://www.joyland.ai](https://www.joyland.ai)
+ - date_published: 2024-06-18T12:17:17+00:00
+
+ ## Julep AI - Crafting a better AI ecosystem
+ - [https://julep.ai](https://julep.ai)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Jumper.ai | All-in-one conversational commerce solution
+ - [https://jumper.ai](https://jumper.ai)
+ - date_published: 2024-06-16T12:31:33.615797+00:00
+
+ ## Jungle AI
+ - [https://www.jungle.ai](https://www.jungle.ai)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Junia AI - #1 AI Writer for SEO & Content Generation
+ - [https://www.junia.ai](https://www.junia.ai)
+ - date_published: 2024-06-19T20:37:57.957034+00:00
+
+ ## Personal Comment Assistant - JustComment
+ - [https://www.justcomment.ai](https://www.justcomment.ai)
+ - date_published: 2024-06-19T20:09:28.324402+00:00
+
+ ## boost user growth with  continuous copy testing
+ - [https://justwords.ai](https://justwords.ai)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## K8sGPT
+ - [https://k8sgpt.ai](https://k8sgpt.ai)
+ - date_published: 2023-12-19T00:00:00+00:00
+
+ ## Question answering service - Kagi.ai
+ - [https://kagi.ai](https://kagi.ai)
+ - date_published: 2024-06-10T07:07:07.153904+00:00
+
+ ## Kaiber
+ - [https://kaiber.ai](https://kaiber.ai)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## Building the future of relationship management through AI
+ - [https://kaizan.ai](https://kaizan.ai)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Create AI Characters and Chat with AI
+ - [https://kajiwoto.ai](https://kajiwoto.ai)
+ - date_published: 2024-06-19T19:39:47.862236+00:00
+
+ ## Kalami
+ - [https://kalami.ai](https://kalami.ai)
+ - date_published: 2024-06-20T07:23:45.703975+00:00
+
+ ## Dashboard | kapa.ai
+ - [https://app.kapa.ai](https://app.kapa.ai)
+ - date_published: 2024-05-09T05:39:35.040202+00:00
+
+ ## Introduction | kapa.ai docs
+ - [https://docs.kapa.ai](https://docs.kapa.ai)
+ - date_published: 2024-03-06T20:39:38.057663+00:00
+
+ ## kapa.ai - Instant AI Answers to Technical Questions
+ - [https://www.kapa.ai](https://www.kapa.ai)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## AI Chatbots for Website
+ - [https://karabo.ai](https://karabo.ai)
+ - date_published: 2024-06-20T07:23:40.854139+00:00
+
+ ## Andrej Karpathy
+ - [https://karpathy.ai](https://karpathy.ai)
+ - date_published: 2023-10-25T08:41:25.837395+00:00
+ - tags: ['personal']
+
+ ## Krueger AI Safety Lab – Technical AI Safety Research
+ - [https://www.kasl.ai](https://www.kasl.ai)
+ - date_published: 2024-06-21T11:38:12.328786+00:00
+
  ## Blockchain Courses | Best Blockchain Training Institute India | KBA
  - [https://kba.ai](https://kba.ai)
  - date_published: 2024-04-11T00:00:00+00:00
@@ -385,6 +490,10 @@
  - [https://lingually.ai](https://lingually.ai)
  - date_published: 2024-04-05T02:36:03+00:00
 
+ ## Link Manager
+ - [https://linkmanager.ai](https://linkmanager.ai)
+ - date_published: 2023-09-15T00:00:00+00:00
+
  ## LinTO, framework open-source de technologies vocales
  - [https://linto.ai](https://linto.ai)
  - date_published: 2024-05-09T02:34:22.544371+00:00
@@ -452,6 +561,10 @@
  ## Free Logo Maker | Create Your Own Logo Design | Logomaster.ai
  - [https://logomaster.ai](https://logomaster.ai)
  - date_published: 2024-06-17T01:47:08+00:00
+
+ ## Loman | The 24/7 AI Phone Agent for Restaurants
+ - [https://www.loman.ai](https://www.loman.ai)
+ - date_published: 2024-06-26T00:00:00+00:00
 
  ## LongShot: AI Co-Pilot for High-Ranking Factual Content
  - [https://longshot.ai](https://longshot.ai)
@@ -602,6 +715,10 @@
  ## ManyTools.ai lists the best ai tools sites of 2024!
  - [https://manytools.ai](https://manytools.ai)
  - date_published: 2024-05-06T21:05:17.277748+00:00
+
+ ## ManyTools.ai lists the best ai tools sites of 2024!
+ - [https://www.manytools.ai](https://www.manytools.ai)
+ - date_published: 2024-06-21T11:10:48+00:00
 
  ## Marcus Aurelius AI
  - [https://marcusaurelius.ai](https://marcusaurelius.ai)
@@ -970,6 +1087,10 @@
  ## Nansen | Onchain Analytics for Crypto Investors & Teams
  - [https://nansen.ai](https://nansen.ai)
  - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Homepage - Naratix
+ - [https://naratix.ai](https://naratix.ai)
+ - date_published: 2024-06-20T00:00:00+00:00
 
  ## Nastia | The Uncensored AI Companion
  - [https://www.nastia.ai](https://www.nastia.ai)
@@ -1371,6 +1492,10 @@
  - [https://app.penelope.ai](https://app.penelope.ai)
  - date_published: 2024-05-08T03:01:32.442324+00:00
 
+ ## Penly AI: Custom Anime & Real Girl Art Generator - Free Trial
+ - [https://penly.ai](https://penly.ai)
+ - date_published: 2024-01-01T05:10:32+00:00
+
  ## PennyLane
  - [https://pennylane.ai](https://pennylane.ai)
  - date_published: 2024-06-19T14:40:25+00:00
@@ -1461,6 +1586,10 @@
  ## phospho
  - [https://platform.phospho.ai](https://platform.phospho.ai)
  - date_published: 2024-05-09T07:07:47.412997+00:00
+
+ ## Every photo has a story to tell, unearth yours.
+ - [https://photojourney.ai](https://photojourney.ai)
+ - date_published: 2024-06-27T10:51:49.917233+00:00
 
  ## Phrasly: Best AI Detection Remover | Bypass AI Detection
  - [https://phrasly.ai](https://phrasly.ai)
@@ -2370,6 +2499,10 @@
  - [https://seomatic.ai](https://seomatic.ai)
  - date_published: 2024-06-19T19:04:01.999088+00:00
 
+ ## Sequens.ai - AI contents at scale checked by B2B marketers
+ - [https://www.sequens.ai](https://www.sequens.ai)
+ - date_published: 2024-06-17T00:00:00+00:00
+
  ## %s | Serif.ai
  - [https://app.serif.ai](https://app.serif.ai)
  - date_published: 2024-05-02T07:51:28.192995+00:00
@@ -2421,6 +2554,10 @@
  ## ShoppingBotAI | Chatbots trained on your own eCommerce data
  - [https://www.shoppingbot.ai](https://www.shoppingbot.ai)
  - date_published: 2024-06-19T20:38:56.536082+00:00
+
+ ## Shop That Look - the search engine for fashion
+ - [https://shopthatlook.ai](https://shopthatlook.ai)
+ - date_published: 2024-06-27T10:51:36.494540+00:00
 
  ## Shortbread | Create comics with AI in minutes
  - [https://shortbread.ai](https://shortbread.ai)
@@ -3013,6 +3150,10 @@
  - [https://www.tended.ai](https://www.tended.ai)
  - date_published: 2024-06-19T20:41:07.323768+00:00
 
+ ## Tendi | Your Personal AI Financial Advisor
+ - [https://tendi.ai](https://tendi.ai)
+ - date_published: 2024-04-08T00:00:00+00:00
+
  ## Tesseract Analytics & AI – For Data-Driven Decisions
  - [https://tesseractanalytics.ai](https://tesseractanalytics.ai)
  - date_published: 2023-10-25T11:44:18.736977+00:00
@@ -3032,6 +3173,10 @@
  ## Textero AI Essay Writer
  - [https://textero.ai](https://textero.ai)
  - date_published: 2024-06-08T00:00:00+00:00
+
+ ## AI Humanizer and AI Remover Tool ⭐️ TextFlip
+ - [https://textflip.ai](https://textflip.ai)
+ - date_published: 2011-05-20T18:49:43+00:00
 
  ## Textify
  - [https://textify.ai](https://textify.ai)
@@ -3119,6 +3264,10 @@
  ## Free Thumbnail Maker - Ai thumbnail creator  - Thumbnail.AI
  - [https://thumbnail.ai](https://thumbnail.ai)
  - date_published: 2024-06-19T20:50:41.221119+00:00
+
+ ## Tidyread - AI-Powered Customizable Information Digest
+ - [https://tidyread.ai](https://tidyread.ai)
+ - date_published: 2024-06-27T10:52:40.545590+00:00
 
  ## TigerLab – Adversarial Testing for LLMs and Chatbots
  - [https://www.tigerlab.ai](https://www.tigerlab.ai)
@@ -3440,6 +3589,10 @@
  ## UpTrain | Full-Stack LLMOps Platform
  - [https://uptrain.ai](https://uptrain.ai)
  - date_published: 2024-05-11T07:39:34.490821+00:00
+
+ ## Uptrends.ai | Track Trending Stocks
+ - [https://www.uptrends.ai](https://www.uptrends.ai)
+ - date_published: 2024-06-26T00:00:00+00:00
 
  ## Upword - Your AI Research Assistant for Smarter Knowledge Management
  - [https://www.upword.ai](https://www.upword.ai)
@@ -3820,6 +3973,10 @@ Creative Solutions
  - [https://writehuman.ai](https://writehuman.ai)
  - date_published: 2024-06-14T08:56:27.190198+00:00
 
+ ## Writemail
+ - [https://app.writemail.ai](https://app.writemail.ai)
+ - date_published: 2024-06-27T10:54:12.929534+00:00
+
  ## WriteMail.ai: Effortless Email Composition AI Tool for Enhanced Productivity
  - [https://writemail.ai](https://writemail.ai)
  - date_published: 2024-05-06T21:05:18.784038+00:00
@@ -3881,160 +4038,4 @@ Creative Solutions
  ## Yaara - Unlock Your Writing Potential
  - [https://yaara.ai](https://yaara.ai)
  - date_published: 2024-06-19T19:41:25.362692+00:00
-
- ## Ben Yafai
- - [https://ben.yaf.ai](https://ben.yaf.ai)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Kai Yan
- - [https://yank.ai](https://yank.ai)
- - date_published: 2024-04-02T02:59:23+00:00
-
- ## YData data quality for Data Science | Synthetic data Data-Centric AI
- - [https://ydata.ai](https://ydata.ai)
- - date_published: 2024-04-28T02:52:42.235759+00:00
-
- ## Yellow.ai | Enterprise-grade Conversational AI Platform
- - [https://cloud.yellow.ai](https://cloud.yellow.ai)
- - date_published: 2024-06-22T12:24:02+00:00
-
- ## Articles | yono.ai
- - [https://yono.ai](https://yono.ai)
- - date_published: 2022-06-10T00:00:00+00:00
-
- ## Yoodli | Free Communication Coach
- - [https://app.yoodli.ai](https://app.yoodli.ai)
- - date_published: 2024-06-19T21:13:46.649419+00:00
-
- ## Youper: Artificial Intelligence For Mental Health Care
- - [https://www.youper.ai](https://www.youper.ai)
- - date_published: 2023-11-15T00:00:00+00:00
-
- ## yourfriends.ai
- - [https://yourfriends.ai](https://yourfriends.ai)
- - date_published: 2024-06-19T11:45:56+00:00
-
- ## YourGPT - Next-Gen AI and GPT Suite for Your Needs
- - [https://yourgpt.ai](https://yourgpt.ai)
- - date_published: 2024-06-19T19:57:35.217634+00:00
-
- ## Meet Hana — The Perfect AI Companion - YourHana.AI
- - [https://yourhana.ai](https://yourhana.ai)
- - date_published: 2024-06-19T18:48:14.877810+00:00
-
- ## YourMove Texting Assistant
- - [https://app.yourmove.ai](https://app.yourmove.ai)
- - date_published: 2024-06-19T20:06:13.051605+00:00
-
- ## YourMove AI
- - [https://www.yourmove.ai](https://www.yourmove.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## yournews.ai
- - [https://yournews.ai](https://yournews.ai)
- - date_published: 2024-02-13T10:31:05+00:00
-
- ## YOUS - Messenger with AI-based translator
- - [http://yous.ai](http://yous.ai)
- - date_published: 2024-06-19T20:09:07.829376+00:00
-
- ## Yuma AI, Automating Ecommerce Customer Service
- - [https://yuma.ai](https://yuma.ai)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Best Vendor Management Software
- - [https://zapro.ai](https://zapro.ai)
- - date_published: 2024-06-08T10:44:38+00:00
-
- ## Zeemo AI | Add Subtitles to Video - Powerful Caption Generator
- - [https://zeemo.ai](https://zeemo.ai)
- - date_published: 2024-06-17T02:17:43+00:00
-
- ## ZenCall - AI Answers Your Calls
- - [https://www.zencall.ai](https://www.zencall.ai)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Zenen AI - Creative AI That Understands Human-like Conversations
- - [https://zenen.ai](https://zenen.ai)
- - date_published: 2023-02-21T01:59:02+00:00
-
- ## Zeni AI Bookkeeping | Automated Accounting For Your Business
- - [https://www.zeni.ai](https://www.zeni.ai)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Master Prompt Engineering | ZenPrompts
- - [https://www.zenprompts.ai](https://www.zenprompts.ai)
- - date_published: 2024-06-19T21:25:07.399576+00:00
-
- ## ZeroBot - Internet's #1 verbal chatbot
- - [https://www.zerobot.ai](https://www.zerobot.ai)
- - date_published: 2024-06-14T08:55:42.378226+00:00
-
- ## ERROR: The request could not be satisfied
- - [https://zerotax.ai](https://zerotax.ai)
- - date_published: 2024-06-19T20:35:20.957181+00:00
-
- ## AI-Driven Credit Underwriting Software
- - [https://www.zest.ai](https://www.zest.ai)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Zeta AI Assistant: Beyond Chatting, Taking Action!
- - [https://www.zetalabs.ai](https://www.zetalabs.ai)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Zevi: AI Powered Site Search & Discovery Platform
- - [https://www.zevi.ai](https://www.zevi.ai)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## 智谱AI
- - [https://www.zhipu.ai](https://www.zhipu.ai)
- - date_published: 2020-11-06T00:00:00+00:00
-
- ## Best AI Chat For E-Commerce  - Zipchat
- - [https://app.zipchat.ai](https://app.zipchat.ai)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Best AI Chat For E-Commerce  - Zipchat
- - [https://zipchat.ai](https://zipchat.ai)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## ZipZip
- - [https://chat.zipzip.ai](https://chat.zipzip.ai)
- - date_published: 2024-05-06T20:27:34.712196+00:00
-
- ## Remover
- - [https://remover.zmo.ai](https://remover.zmo.ai)
- - date_published: 2024-01-10T11:38:40+00:00
-
- ## Free AI Image Generator To Create AI Art
- - [https://www.zmo.ai](https://www.zmo.ai)
- - date_published: 2022-10-31T19:59:38+00:00
-
- ## Zust QR - AI-Generated artistic QR codes
- - [https://qr.zust.ai](https://qr.zust.ai)
- - date_published: 2024-06-14T06:07:37+00:00
-
- ## Contracts AI that's dead simple to use | Zuva
- - [https://zuva.ai](https://zuva.ai)
- - date_published: 2024-06-12T20:32:46+00:00
-
- ## FREE Online AI Tools for Coding: Best AI Website for Programming
- - [https://zzzcode.ai](https://zzzcode.ai)
- - date_published: 2024-06-19T19:21:07.240089+00:00
-
- ## Google
- - [https://www.google.com.ai](https://www.google.com.ai)
- - date_published: 2024-06-21T22:24:00.542755+00:00
-
- ## imgix - Image Processing On-Demand, Served By CDN
- - [https://static.the.akdn](https://static.the.akdn)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Improving the quality of life
- - [https://the.akdn](https://the.akdn)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Video Game Store - PS5, PS4, Xbox S/X, Xbox One, PC, Switch and Toys
- - [https://www.albagame.al](https://www.albagame.al)
- - date_published: 2024-04-24T00:00:00+00:00
 

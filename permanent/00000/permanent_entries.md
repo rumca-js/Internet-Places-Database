@@ -388,6 +388,10 @@
  - [https://www.moorfields.ae](https://www.moorfields.ae)
  - date_published: 2024-03-13T00:00:00+00:00
 
+ ## #1 Korean Restaurant in Dubai and Abu Dhabi - Korean BBQ
+ - [https://mukbangshow.ae](https://mukbangshow.ae)
+ - date_published: 2024-06-15T00:00:00+00:00
+
  ## Nike UAE Official Website - Shop Shoes, Clothing & Accessories
  - [https://www.nike.ae](https://www.nike.ae)
  - date_published: 2024-06-12T00:00:00+00:00
@@ -528,6 +532,10 @@
  ## Stralis Aircraft
  - [https://www.stralis.aero](https://www.stralis.aero)
  - date_published: 2024-06-26T11:33:04.707699+00:00
+
+ ## Supernal.aero
+ - [https://www.supernal.aero](https://www.supernal.aero)
+ - date_published: 2024-06-27T16:26:29+00:00
 
  ## Swoop Aero - Onwards is upwards
  - [https://swoop.aero](https://swoop.aero)
@@ -729,6 +737,14 @@
  - [https://text.causal.agency](https://text.causal.agency)
  - date_published: 2023-12-26T19:22:32.249924+00:00
 
+ ## The Developer First Agency | DevRel.Agency
+ - [http://www.devrel.agency](http://www.devrel.agency)
+ - date_published: 2024-06-27T13:44:35.920866+00:00
+
+ ## HealthTech digital agency in London | Doublesided
+ - [https://doublesided.agency](https://doublesided.agency)
+ - date_published: 2024-05-15T11:16:40+00:00
+
  ## HealthTech digital agency in London | Doublesided
  - [https://www.doublesided.agency](https://www.doublesided.agency)
  - date_published: 2024-05-06T22:12:25.026215+00:00
@@ -772,6 +788,10 @@
  ## Idolme Agency
  - [https://idolme.agency](https://idolme.agency)
  - date_published: 2024-05-13T11:32:46+00:00
+
+ ## Ignore No More | SaaS Marketing Agency
+ - [https://www.ignorenomore.agency](https://www.ignorenomore.agency)
+ - date_published: 2024-05-21T00:00:00+00:00
 
  ## Julia Camino. Management & Booking Agency.
  - [http://julia.agency](http://julia.agency)
@@ -828,6 +848,10 @@
  ## Web design agency York | Yorkshire web design | Branding | eCommerce
  - [https://vital.agency](https://vital.agency)
  - date_published: 2024-06-25T19:00:27.898263+00:00
+
+ ## Write View
+ - [http://www.writeview.agency](http://www.writeview.agency)
+ - date_published: 2024-06-27T16:02:50.969315+00:00
 
  ## YALA! - Agence événementielle
  - [https://www.yala.agency](https://www.yala.agency)
@@ -926,6 +950,10 @@
  - [https://www.adept.ai](https://www.adept.ai)
  - date_published: 2023-10-25T11:36:32.301944+00:00
 
+ ## AdIntelli - Earn revenue from your AI Agent with in-chat ads
+ - [https://adintelli.ai](https://adintelli.ai)
+ - date_published: 2024-06-27T10:54:06.583788+00:00
+
  ## Home - AdsGency AI
  - [https://adsgency.ai](https://adsgency.ai)
  - date_published: 2024-06-19T21:38:12.209893+00:00
@@ -962,6 +990,10 @@
  - [https://agnostiq.ai](https://agnostiq.ai)
  - date_published: 2024-06-01T00:00:00+00:00
 
+ ## AI Copywriter: aicopywriter.ai
+ - [https://aicopywriter.ai](https://aicopywriter.ai)
+ - date_published: 2024-06-27T10:51:45.712630+00:00
+
  ## Aiflow - Powerful AI Content Generator for WooCommerce
  - [https://aiflow.ai](https://aiflow.ai)
  - date_published: 2024-06-19T12:51:50+00:00
@@ -973,6 +1005,10 @@
  ## Free AI Music Generator - ai-music-generator.ai
  - [https://ai-music-generator.ai](https://ai-music-generator.ai)
  - date_published: 2024-06-13T00:00:00+00:00
+
+ ## AIPhone.AI: AI-powered Phone Call App with Live Translation and Transcription
+ - [https://www.aiphone.ai](https://www.aiphone.ai)
+ - date_published: 2024-06-11T10:43:42+00:00
 
  ## Airbrush Home
  - [https://www.airbrush.ai](https://www.airbrush.ai)
@@ -1421,6 +1457,10 @@
  - [https://becominghuman.ai](https://becominghuman.ai)
  - date_published: 2024-04-09T00:00:00+00:00
 
+ ## BeeBee AI - AI Earnings call analysis tool
+ - [https://www.beebee.ai](https://www.beebee.ai)
+ - date_published: 2024-06-27T10:52:16.088167+00:00
+
  ## The world's most advanced interactive AI English tutor - Befluent.ai
  - [https://www.befluent.ai](https://www.befluent.ai)
  - date_published: 2024-06-07T00:00:00+00:00
@@ -1729,6 +1769,10 @@
  - [https://linen.cerebralvalley.ai](https://linen.cerebralvalley.ai)
  - date_published: 2024-04-29T07:59:14.238351+00:00
 
+ ## Show HN: Voice bots with 500ms response times
+ - [https://fastvoiceagent.cerebrium.ai](https://fastvoiceagent.cerebrium.ai)
+ - date_published: 2024-06-26T21:51:03+00:00
+
  ## ChadGPT - AI Pick-Up Line Generator
  - [https://www.chad-gpt.ai](https://www.chad-gpt.ai)
  - date_published: 2024-06-19T20:10:25.900539+00:00
@@ -1740,6 +1784,10 @@
  ## ChainForge: A visual programming environment for prompt engineering
  - [https://chainforge.ai](https://chainforge.ai)
  - date_published: 2023-10-25T11:37:05.698258+00:00
+
+ ## Chapple: Revolutionizing AI Tools for Creativity and Efficiency
+ - [https://chapple.ai](https://chapple.ai)
+ - date_published: 2024-05-16T00:00:00+00:00
 
  ## character.ai
  - [https://beta.character.ai](https://beta.character.ai)
@@ -1808,6 +1856,10 @@
  ## Checkbox - Leading Service Hub | Intake & Workflow Software
  - [https://www.checkbox.ai](https://www.checkbox.ai)
  - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Chef kitty ai: get recipes from your favorite food photos
+ - [https://www.chefkitty.ai](https://www.chefkitty.ai)
+ - date_published: 2024-06-27T10:52:48.877699+00:00
 
  ## CHEQ | The Leader in Go-to-Market Security
  - [https://cheq.ai](https://cheq.ai)
@@ -2418,6 +2470,10 @@ Welcome
  - [https://www.deciphr.ai](https://www.deciphr.ai)
  - date_published: 2024-06-19T19:35:28.500310+00:00
 
+ ## Home | DeepFiction
+ - [https://www.deepfiction.ai](https://www.deepfiction.ai)
+ - date_published: 2024-06-27T10:52:21.442731+00:00
+
  ## Deep-Image.ai Upscale images, remove background, generate avatars, interiors and doodles
  - [https://deep-image.ai](https://deep-image.ai)
  - date_published: 2024-06-07T09:29:24+00:00
@@ -2678,6 +2734,10 @@ Welcome
  - [https://www.eduaide.ai](https://www.eduaide.ai)
  - date_published: 2024-06-19T20:36:24.780595+00:00
 
+ ## eesel AI - Instant answers to every company question
+ - [https://www.eesel.ai](https://www.eesel.ai)
+ - date_published: 2024-06-24T00:00:00+00:00
+
  ## Course - MIT HAN Lab
  - [https://efficientml.ai](https://efficientml.ai)
  - date_published: 2023-10-25T11:38:20.763882+00:00
@@ -2701,6 +2761,10 @@ Welcome
  ## Login | Eightfold
  - [https://app.eightfold.ai](https://app.eightfold.ai)
  - date_published: 2024-06-17T16:21:23.268147+00:00
+
+ ## MLP - Sign In
+ - [https://mlp.eightfold.ai](https://mlp.eightfold.ai)
+ - date_published: 2024-06-27T10:41:23.319055+00:00
 
  ## Submit Form
  - [https://paypal.eightfold.ai](https://paypal.eightfold.ai)
@@ -2743,6 +2807,10 @@ Welcome
  - [https://emailtree.ai](https://emailtree.ai)
  - date_published: 2024-06-19T19:19:36.606820+00:00
 
+ ## Embedditor.ai
+ - [https://embedditor.ai](https://embedditor.ai)
+ - date_published: 2024-06-27T10:52:34.371613+00:00
+
  ## GitHub - embedchain/embedchain: Memory for AI agents
  - [https://embedstore.ai](https://embedstore.ai)
  - date_published: 2024-06-18T00:00:00+00:00
@@ -2775,6 +2843,10 @@ Welcome
  ## Ermine.ai | Local Audio Transcription
  - [https://ermine.ai](https://ermine.ai)
  - date_published: 2024-05-07T10:49:45.809768+00:00
+
+ ## Ermine.ai | Local Audio Transcription
+ - [https://www.ermine.ai](https://www.ermine.ai)
+ - date_published: 2024-06-27T10:52:43.176451+00:00
 
  ## Erogen
  - [https://erogen.ai](https://erogen.ai)
@@ -2830,8 +2902,12 @@ Welcome
  - date_published: 2024-06-19T21:23:35.050862+00:00
 
  ## explained.ai
- - [http://explained.ai](http://explained.ai)
- - date_published: 2024-05-06T21:55:31.372956+00:00
+ - [https://explained.ai](https://explained.ai)
+ - date_published: 2022-06-18T22:24:27+00:00
+
+ ## The Mechanics of Machine Learning
+ - [https://mlbook.explained.ai](https://mlbook.explained.ai)
+ - date_published: 2019-07-15T20:52:06+00:00
 
  ## ExplainThis
  - [https://explainthis.ai](https://explainthis.ai)
@@ -2908,6 +2984,10 @@ Welcome
  ## Fantasy.ai
  - [https://fantasy.ai](https://fantasy.ai)
  - date_published: 2024-05-30T10:30:10+00:00
+
+ ## FantasyGF.ai - Best AI Girlfriend App - Start Chatting
+ - [https://fantasygf.ai](https://fantasygf.ai)
+ - date_published: 2024-06-27T10:52:30.192218+00:00
 
  ## FAR AI
  - [https://far.ai](https://far.ai)
@@ -3016,6 +3096,10 @@ Welcome
  ## Fixie.ai Blog
  - [https://blog.fixie.ai](https://blog.fixie.ai)
  - date_published: 2023-10-25T11:38:51.003257+00:00
+
+ ## Fixie
+ - [https://console.fixie.ai](https://console.fixie.ai)
+ - date_published: 2024-06-27T05:32:05.424531+00:00
 
  ## Fixie.ai
  - [https://fixie.ai](https://fixie.ai)
@@ -3176,6 +3260,10 @@ Welcome
  ## furl | Proactively Remediate Risks with Confidence using Autonomous AI
  - [https://furl.ai](https://furl.ai)
  - date_published: 2024-06-19T18:48:57.399031+00:00
+
+ ## FusionOS.ai AI Generative Advertising platform for businesses and their agencies
+ - [https://www.fusionos.ai](https://www.fusionos.ai)
+ - date_published: 2024-06-27T00:00:00+00:00
 
  ## fylm.ai - AI Powered Colour Grading and Collaboration in Cloud
  - [https://fylm.ai](https://fylm.ai)
@@ -3550,6 +3638,10 @@ Welcome
  - [https://www.hellorobin.ai](https://www.hellorobin.ai)
  - date_published: 2023-01-11T00:00:00+00:00
 
+ ## Custom ChatGPT for Your Data | Help-Desk.ai
+ - [https://help-desk.ai](https://help-desk.ai)
+ - date_published: 2023-05-20T18:49:43+00:00
+
  ## Helsing Blog
  - [https://blog.helsing.ai](https://blog.helsing.ai)
  - date_published: 2024-04-28T05:59:30.133288+00:00
@@ -3678,6 +3770,10 @@ Welcome
  - [https://hybrid.ai](https://hybrid.ai)
  - date_published: 2023-11-17T06:52:13+00:00
 
+ ## hypergro: AI-Powered UGC Video Ads for Smart Customer Acquisition
+ - [https://hypergro.ai](https://hypergro.ai)
+ - date_published: 2024-06-27T10:52:57.385251+00:00
+
  ## Umami
  - [https://data.cloud.hyperparam.ai](https://data.cloud.hyperparam.ai)
  - date_published: 2024-05-08T11:49:23.315430+00:00
@@ -3729,6 +3825,10 @@ Welcome
  ## IFCA
  - [https://www.ifca.ai](https://www.ifca.ai)
  - date_published: 2023-10-25T11:39:11.249743+00:00
+
+ ## AI Photo Studio: Elevate Your E-Commerce with Our Magic Studio | iFoto
+ - [https://www.ifoto.ai](https://www.ifoto.ai)
+ - date_published: 2024-06-27T10:51:29.268074+00:00
 
  ## Artificial Ignorance | Charlie Guo | Substack
  - [https://www.ignorance.ai](https://www.ignorance.ai)
@@ -3884,6 +3984,10 @@ Welcome
  - date_published: 2023-10-25T09:01:03.717603+00:00
  - tags: ['personal']
 
+ ## Remember Recall Reuse Your Knowledge | iWeaver AI Memory Tool
+ - [https://www.iweaver.ai](https://www.iweaver.ai)
+ - date_published: 2024-06-27T10:52:09.406543+00:00
+
  ## Manage large scale Juju deployments with Jaas | Juju
  - [https://jaas.ai](https://jaas.ai)
  - date_published: 2024-05-23T02:48:01.556101+00:00
@@ -3928,109 +4032,4 @@ Welcome
  ## Try to impeach this? Challenge accepted!
  - [https://try-to-impeach-this.jetpack.ai](https://try-to-impeach-this.jetpack.ai)
  - date_published: 2024-04-29T02:30:12.597510+00:00
-
- ## BestBanner - Text to Banners, No Prompts Needed!
- - [https://bestbanner.jina.ai](https://bestbanner.jina.ai)
- - date_published: 2024-02-28T06:32:17+00:00
-
- ## Jina AI - Your Portal to Multimodal AI
- - [https://jina.ai](https://jina.ai)
- - date_published: 2023-10-25T11:39:32.941807+00:00
-
- ## PromptPerfect - Elevate Your Prompts to Perfection. Prompt Engineering, Optimizing, Debugging and Hosting.
- - [https://promptperfect.jina.ai](https://promptperfect.jina.ai)
- - date_published: 2023-10-25T11:39:38.753656+00:00
-
- ## Rationale - a revolutionary decision-making AI powered by the latest GPT and in-context learning
- - [https://rationale.jina.ai](https://rationale.jina.ai)
- - date_published: 2024-02-28T06:44:52+00:00
-
- ## Job Description Generator using AI | Job Description AI
- - [https://jobdescription.ai](https://jobdescription.ai)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Jotte
- - [https://jotte.ai](https://jotte.ai)
- - date_published: 2023-10-25T11:39:39.545457+00:00
-
- ## Jounce - Free AI Copywriting & Art for Marketers
- - [https://www.jounce.ai](https://www.jounce.ai)
- - date_published: 2023-09-09T00:00:00+00:00
-
- ## Joyland.ai | Joyful AI Character & Story
- - [https://www.joyland.ai](https://www.joyland.ai)
- - date_published: 2024-06-18T12:17:17+00:00
-
- ## Julep AI - Crafting a better AI ecosystem
- - [https://julep.ai](https://julep.ai)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Jumper.ai | All-in-one conversational commerce solution
- - [https://jumper.ai](https://jumper.ai)
- - date_published: 2024-06-16T12:31:33.615797+00:00
-
- ## Jungle AI
- - [https://www.jungle.ai](https://www.jungle.ai)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Junia AI - #1 AI Writer for SEO & Content Generation
- - [https://www.junia.ai](https://www.junia.ai)
- - date_published: 2024-06-19T20:37:57.957034+00:00
-
- ## Personal Comment Assistant - JustComment
- - [https://www.justcomment.ai](https://www.justcomment.ai)
- - date_published: 2024-06-19T20:09:28.324402+00:00
-
- ## boost user growth with  continuous copy testing
- - [https://justwords.ai](https://justwords.ai)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## K8sGPT
- - [https://k8sgpt.ai](https://k8sgpt.ai)
- - date_published: 2023-12-19T00:00:00+00:00
-
- ## Question answering service - Kagi.ai
- - [https://kagi.ai](https://kagi.ai)
- - date_published: 2024-06-10T07:07:07.153904+00:00
-
- ## Kaiber
- - [https://kaiber.ai](https://kaiber.ai)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## Building the future of relationship management through AI
- - [https://kaizan.ai](https://kaizan.ai)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Create AI Characters and Chat with AI
- - [https://kajiwoto.ai](https://kajiwoto.ai)
- - date_published: 2024-06-19T19:39:47.862236+00:00
-
- ## Kalami
- - [https://kalami.ai](https://kalami.ai)
- - date_published: 2024-06-20T07:23:45.703975+00:00
-
- ## Dashboard | kapa.ai
- - [https://app.kapa.ai](https://app.kapa.ai)
- - date_published: 2024-05-09T05:39:35.040202+00:00
-
- ## Introduction | kapa.ai docs
- - [https://docs.kapa.ai](https://docs.kapa.ai)
- - date_published: 2024-03-06T20:39:38.057663+00:00
-
- ## kapa.ai - Instant AI Answers to Technical Questions
- - [https://www.kapa.ai](https://www.kapa.ai)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## AI Chatbots for Website
- - [https://karabo.ai](https://karabo.ai)
- - date_published: 2024-06-20T07:23:40.854139+00:00
-
- ## Andrej Karpathy
- - [https://karpathy.ai](https://karpathy.ai)
- - date_published: 2023-10-25T08:41:25.837395+00:00
- - tags: ['personal']
-
- ## Krueger AI Safety Lab – Technical AI Safety Research
- - [https://www.kasl.ai](https://www.kasl.ai)
- - date_published: 2024-06-21T11:38:12.328786+00:00
 

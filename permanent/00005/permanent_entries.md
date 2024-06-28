@@ -1,3 +1,436 @@
+ ## Raise The Age
+ - [https://www.raisetheage.org.au](https://www.raisetheage.org.au)
+ - date_published: 2024-05-10T06:40:27.617069+00:00
+
+ ## Home
+ - [https://www.redcross.org.au](https://www.redcross.org.au)
+ - date_published: 2024-06-18T09:27:49.482422+00:00
+
+ ## RiAus Education Always Question, Always Wonder, Explore with Us - RiAus Education
+ - [https://education.riaus.org.au](https://education.riaus.org.au)
+ - date_published: 2018-04-17T23:57:29+00:00
+
+ ## Home - RiAus
+ - [https://riaus.org.au](https://riaus.org.au)
+ - date_published: 2020-07-09T03:39:29+00:00
+
+ ## Triple R Shop
+ - [https://shop.rrr.org.au](https://shop.rrr.org.au)
+ - date_published: 2024-06-22T13:10:57.436317+00:00
+
+ ## Triple R 102.7FM, Melbourne Independent Radio
+ - [https://www.rrr.org.au](https://www.rrr.org.au)
+ - date_published: 2024-05-04T15:58:34.358275+00:00
+
+ ## Freemasons South Australia and The Northern Territory Inc.
+ - [https://www.santfreemasons.org.au](https://www.santfreemasons.org.au)
+ - date_published: 2024-06-17T11:41:23+00:00
+ - tags: ['freemasonry']
+
+ ## Australian Academy of Science
+ - [http://www.science.org.au](http://www.science.org.au)
+ - date_published: 2024-05-07T15:55:46.963070+00:00
+
+ ## Official Church of Scientology: What is Scientology?
+ - [https://www.scientology.org.au](https://www.scientology.org.au)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Ancient & Accepted Scottish Rite for Australia – Ordo Ab Chao
+ - [https://www.scottishrite.org.au](https://www.scottishrite.org.au)
+ - date_published: 2024-06-17T14:04:45.493915+00:00
+
+ ## Home - SENVIC
+ - [https://senvic.org.au](https://senvic.org.au)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Southlakes Anglican Church, Morisset – Blessing and supporting the communities of Southlakes with the good news story of Jesus
+ - [https://southlakes.org.au](https://southlakes.org.au)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Home - Sutherland Shire Environment Centre
+ - [https://www.ssec.org.au](https://www.ssec.org.au)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Taxonomy Australia
+ - [https://www.taxonomyaustralia.org.au](https://www.taxonomyaustralia.org.au)
+ - date_published: 2024-03-22T00:26:14.409680+00:00
+
+ ## Freemasons Queensland | A Tradition of Self Improvement & Service
+ - [https://uglq.org.au](https://uglq.org.au)
+ - date_published: 2024-06-17T14:04:58.669070+00:00
+
+ ## UNICEF Australia | Children's Charity That Delivers Hope
+ - [https://www.unicef.org.au](https://www.unicef.org.au)
+ - date_published: 2024-05-06T19:58:30.468632+00:00
+
+ ## Mark & Royal Arch Masons of NSW & ACT
+ - [https://usgcnsw.org.au](https://usgcnsw.org.au)
+ - date_published: 2024-06-17T14:04:49.214984+00:00
+
+ ## Weeds Australia
+ - [https://weeds.org.au](https://weeds.org.au)
+ - date_published: 2024-10-29T00:00:00+00:00
+
+ ## WIRES Australian Wildlife Rescue Organisation
+ - [https://www.wires.org.au](https://www.wires.org.au)
+ - date_published: 2024-04-29T03:35:02.802740+00:00
+
+ ## WWF Australia | Protecting Wildlife and their Habitat |   | WWF Australia
+ - [https://www.wwf.org.au](https://www.wwf.org.au)
+ - date_published: 2024-05-07T23:56:48.917702+00:00
+
+ ## Zoos Victoria
+ - [https://www.zoo.org.au](https://www.zoo.org.au)
+ - date_published: 2024-05-08T06:03:15.682337+00:00
+
+ ## Danny Yee's home page
+ - [https://danny.oz.au](https://danny.oz.au)
+ - date_published: 2024-05-01T04:00:30.136799+00:00
+ - tags: ['personal']
+
+ ## Darling Downs Adventist College
+ - [http://ddcs.qld.edu.au](http://ddcs.qld.edu.au)
+ - date_published: 2024-06-18T06:31:51.253984+00:00
+
+ ## St Edward's Catholic Primary School
+ - [https://www.stedwards.qld.edu.au](https://www.stedwards.qld.edu.au)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Queensland Health
+ - [https://www.health.qld.gov.au](https://www.health.qld.gov.au)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Sunshine Coast Council
+ - [https://www.sunshinecoast.qld.gov.au](https://www.sunshinecoast.qld.gov.au)
+ - date_published: 2024-06-26T09:02:54.875950+00:00
+
+ ## Home
+ - [http://www.tr.qld.gov.au](http://www.tr.qld.gov.au)
+ - date_published: 2024-06-18T06:31:41+00:00
+
+ ## Dental services for all kids under 18 & eligible adults
+ - [https://www.dental.sa.gov.au](https://www.dental.sa.gov.au)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Home | SA Health
+ - [https://www.sahealth.sa.gov.au](https://www.sahealth.sa.gov.au)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Home
+ - [https://www.sa.gov.au](https://www.sa.gov.au)
+ - date_published: 2024-06-15T10:15:40.459210+00:00
+
+ ## Tasmanian Department of Health
+ - [https://www.health.tas.gov.au](https://www.health.tas.gov.au)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Agriculture Victoria
+ - [https://agriculture.vic.gov.au](https://agriculture.vic.gov.au)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Better Health Channel
+ - [https://www.betterhealth.vic.gov.au](https://www.betterhealth.vic.gov.au)
+ - date_published: 2024-05-10T06:26:19.646510+00:00
+
+ ## Careers in the Victorian government public sector
+ - [http://www.careers.vic.gov.au](http://www.careers.vic.gov.au)
+ - date_published: 2024-06-18T09:28:00.104053+00:00
+
+ ## Attend / Reserve - Geelong Regional Libraries
+ - [https://events.grlc.vic.gov.au](https://events.grlc.vic.gov.au)
+ - date_published: 2024-06-16T21:00:13.555134+00:00
+
+ ## Health.vic
+ - [https://www2.health.vic.gov.au](https://www2.health.vic.gov.au)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## NGV
+ - [https://www.ngv.vic.gov.au](https://www.ngv.vic.gov.au)
+ - date_published: 2024-02-08T16:29:33.741812+00:00
+
+ ## State Library Victoria   Blogs
+ - [https://blogs.slv.vic.gov.au](https://blogs.slv.vic.gov.au)
+ - date_published: 2024-06-24T10:46:47.910592+00:00
+
+ ## SRO eBusiness
+ - [https://www.e-business.sro.vic.gov.au](https://www.e-business.sro.vic.gov.au)
+ - date_published: 2017-11-09T23:52:30+00:00
+
+ ## Mindarie Senior College | Where your future begins
+ - [https://www.mindarie.wa.edu.au](https://www.mindarie.wa.edu.au)
+ - date_published: 2024-06-12T11:14:48.479556+00:00
+
+ ## DFES - Department of Fire and Emergency Services
+ - [https://www.dfes.wa.gov.au](https://www.dfes.wa.gov.au)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Department of the Premier and Cabinet
+ - [https://www.dpc.wa.gov.au](https://www.dpc.wa.gov.au)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## WA Health, Government of Western Australia
+ - [https://ww2.health.wa.gov.au](https://ww2.health.wa.gov.au)
+ - date_published: 2024-06-12T12:32:30.355798+00:00
+
+ ## Article Audio - Convert Articles In Audio
+ - [https://article.audio](https://article.audio)
+ - date_published: 2023-10-25T11:58:18.239668+00:00
+
+ ## Listen & discover over 20+ million free podcasts
+ - [https://www.breaker.audio](https://www.breaker.audio)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Everlit
+ - [https://everlit.audio](https://everlit.audio)
+ - date_published: 2024-06-21T13:24:02.974452+00:00
+
+ ## Existential Audio
+ - [https://existential.audio](https://existential.audio)
+ - date_published: 2024-06-23T05:54:41.402153+00:00
+
+ ## Funkwhale
+ - [https://funkwhale.audio](https://funkwhale.audio)
+ - date_published: 2024-05-11T09:33:35.467035+00:00
+
+ ## Funkwhale
+ - [https://www.funkwhale.audio](https://www.funkwhale.audio)
+ - date_published: 2024-05-05T13:48:40.375351+00:00
+ - tags: ['music', 'online platform']
+
+ ## Lidarr
+ - [https://lidarr.audio](https://lidarr.audio)
+ - date_published: 2024-05-14T03:32:09.235900+00:00
+
+ ## Soft Skills Engineering
+ - [https://softskills.audio](https://softskills.audio)
+ - date_published: 2024-05-06T14:17:06.572831+00:00
+
+ ## Home - Starburns Audio
+ - [https://starburns.audio](https://starburns.audio)
+ - date_published: 2022-01-11T00:00:00+00:00
+
+ ## turtle.audio
+ - [http://turtle.audio](http://turtle.audio)
+ - date_published: 2024-06-16T21:13:45.268891+00:00
+
+ ## TYPE III AUDIO
+ - [https://preview.type3.audio](https://preview.type3.audio)
+ - date_published: 2024-06-19T10:02:02.622490+00:00
+
+ ## .Audio Domain Names
+ - [https://xyz.audio](https://xyz.audio)
+ - date_published: 2024-06-17T07:44:56.034169+00:00
+
+ ## EV Personal Car Leasing Deals & Offers | PCH | ElectricAuto
+ - [https://electric.auto](https://electric.auto)
+ - date_published: 2024-06-16T10:53:37.657186+00:00
+
+ ## .Auto Domains | Find Your Perfect Domain Name
+ - [https://go.auto](https://go.auto)
+ - date_published: 2024-06-17T07:44:09.705886+00:00
+
+ ## Renew Approved Used Vehicles For Sale
+ - [https://uk.renew.auto](https://uk.renew.auto)
+ - date_published: 2024-06-12T20:52:56.130085+00:00
+
+ ## ZenAuto: Personal & Business Car Leasing | Contract Hire UK
+ - [https://zen.auto](https://zen.auto)
+ - date_published: 2024-06-16T10:53:45.102591+00:00
+
+ ## .Autos Domain Names
+ - [https://xyz.autos](https://xyz.autos)
+ - date_published: 2024-06-17T07:44:03.966556+00:00
+
+ ## BIOMES | CRYPTO-NATIVE EXPERIENCES USING ONCHAIN SANDBOXES
+ - [https://biomes.aw](https://biomes.aw)
+ - date_published: 2024-05-03T21:25:57+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://bna.aw](https://bna.aw)
+ - date_published: 2024-06-14T04:12:45.478925+00:00
+
+ ## Full Stack Development - Web and Mobile Apps - AWS Amplify
+ - [https://amplify.aws](https://amplify.aws)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Amplify Documentation - AWS Amplify Documentation
+ - [https://docs.amplify.aws](https://docs.amplify.aws)
+ - date_published: 2024-04-30T00:30:00.261374+00:00
+
+ ## Amplify UI - Build UI fast with Amplify on React
+ - [https://ui.docs.amplify.aws](https://ui.docs.amplify.aws)
+ - date_published: 2024-05-09T08:30:32.845303+00:00
+
+ ## AWS Cloud Community | Home
+ - [http://www.buildon.aws](http://www.buildon.aws)
+ - date_published: 2024-06-16T05:47:47.613070+00:00
+
+ ## AWS Pricing Calculator
+ - [https://calculator.aws](https://calculator.aws)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Community | Home
+ - [https://community.aws](https://community.aws)
+ - date_published: 2023-10-25T11:58:25.976473+00:00
+
+ ## Honeycode Help & Community - Honeycode Community
+ - [https://honeycodecommunity.aws](https://honeycodecommunity.aws)
+ - date_published: 2023-10-25T11:58:35.214250+00:00
+
+ ## Access expert technical guidance and AWS Knowledge Center
+ - [https://repost.aws](https://repost.aws)
+ - date_published: 2024-02-24T09:55:38.974804+00:00
+
+ ## SageMaker Studio Lab
+ - [https://studiolab.sagemaker.aws](https://studiolab.sagemaker.aws)
+ - date_published: 2024-05-10T07:02:17.360710+00:00
+
+ ## Self-paced digital training on AWS - AWS Skill Builder
+ - [https://explore.skillbuilder.aws](https://explore.skillbuilder.aws)
+ - date_published: 2024-04-15T22:31:40+00:00
+
+ ## Sign in
+ - [https://login.us-east-1.auth.skillbuilder.aws](https://login.us-east-1.auth.skillbuilder.aws)
+ - date_published: 2024-06-20T13:06:23+00:00
+
+ ## Workshop Studio
+ - [https://amplify-photo-sharing.workshop.aws](https://amplify-photo-sharing.workshop.aws)
+ - date_published: 2024-05-06T14:16:33.226407+00:00
+
+ ## Workshop Studio
+ - [https://ecs-cats-dogs.workshop.aws](https://ecs-cats-dogs.workshop.aws)
+ - date_published: 2024-06-21T23:54:34+00:00
+
+ ## Parallax: Building better digital experiences together
+ - [http://parall.ax](http://parall.ax)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Quantum
+ - [https://qt.ax](https://qt.ax)
+ - date_published: 2024-04-30T05:01:50.463501+00:00
+
+ ## Airbnb | Tətil icarələri, kabinələr, çimərliyə yaxın evlər və daha çoxu
+ - [https://www.airbnb.az](https://www.airbnb.az)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## home
+ - [https://www.alfaromeo.az](https://www.alfaromeo.az)
+ - date_published: 2024-05-29T07:55:31+00:00
+
+ ## APA.AZ- Latest news from Azerbaijan and the world
+ - [https://en.apa.az](https://en.apa.az)
+ - date_published: 2023-12-03T14:58:27.568836+00:00
+
+ ## AzerNews - News from Azerbaijan, Business, Energy, Analysis
+ - [https://www.azernews.az](https://www.azernews.az)
+ - date_published: 2024-01-08T04:23:58.550484+00:00
+
+ ## Jeep Azerbaijan
+ - [https://www.jeep.co.az](https://www.jeep.co.az)
+ - date_published: 2015-07-12T14:50:38+00:00
+
+ ## Fiat professional
+ - [https://www.fiatprofessional.az](https://www.fiatprofessional.az)
+ - date_published: 2019-10-10T14:50:38+00:00
+
+ ## Google
+ - [https://www.google.az](https://www.google.az)
+ - date_published: 2024-06-21T22:23:21.451928+00:00
+
+ ## Report İnformasiya Agentliyi
+ - [https://report.az](https://report.az)
+ - date_published: 2024-02-26T20:38:01.874181+00:00
+
+ ## Sputnik Azerbaycan – En son xeberler bu gun canli video
+ - [https://sputnik.az](https://sputnik.az)
+ - date_published: 2024-06-15T08:47:03.006377+00:00
+
+ ## Arzuladığınız avtomobili sürün | Toyota Azərbaycan
+ - [https://www.toyota.az](https://www.toyota.az)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Trend - Az…ôrbaycan x…ôb…ôrl…ôri, GΟΦrcΟΦstan, QazaxΡ±stan, TΟΦrkm…ônistan, Ο•zb…ôkistan, ΡΑran, TΟΦrkiy…ô x…ôb…ôrl…ôri.
+ - [https://az.trend.az](https://az.trend.az)
+ - date_published: 2024-02-08T17:31:43.768246+00:00
+
+ ## Azərbaycanda yerləşmiş Hostinq xidmətləri, Bulud həlləri, Ayrılmış serverlər - YER Yerləşmiş Hostinq Xidmətləri provayderi
+ - [https://yer.az](https://yer.az)
+ - date_published: 2024-04-30T06:18:32.224724+00:00
+
+ ## 1win ⭐️ Azerbaycan
+ - [https://1win.com.az](https://1win.com.az)
+ - date_published: 2024-03-03T00:00:00+00:00
+
+ ## Visa – лидер цифровых оплат, которому доверяют
+ - [https://www.visa.com.az](https://www.visa.com.az)
+ - date_published: 2024-05-12T03:58:49.765378+00:00
+
+ ## Airbnb | Smještaji za odmor, brvnare, kuće blizu plaže i još mnogo toga
+ - [https://www.airbnb.ba](https://www.airbnb.ba)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Produžite garanciju vašim Bosch uređajima - Bosch-promocije.ba
+ - [https://www.bosch-promocije.ba](https://www.bosch-promocije.ba)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Uredski uređaji | poslovna rješenja | Brother
+ - [https://www.brother.ba](https://www.brother.ba)
+ - date_published: 2024-05-02T11:24:16.051973+00:00
+
+ ## CITROËN Bosna i Hercegovina
+ - [https://www.citroen.ba](https://www.citroen.ba)
+ - date_published: 2023-12-11T16:04:10.573381+00:00
+
+ ## Plausible · Web analytics
+ - [https://pl.csa.ba](https://pl.csa.ba)
+ - date_published: 2024-05-08T02:28:17.642258+00:00
+
+ ## Ford BiH |
+ - [http://www.ford.ba](http://www.ford.ba)
+ - date_published: 2024-06-19T16:59:38.497070+00:00
+
+ ## Google
+ - [https://www.google.ba](https://www.google.ba)
+ - date_published: 2024-06-21T22:23:29.983698+00:00
+
+ ## Imtec Web Shop
+ - [https://imtec.ba](https://imtec.ba)
+ - date_published: 2024-06-15T03:32:14.661323+00:00
+
+ ## Forbes - Biznis. Uspjeh. Forbes
+ - [https://forbes.n1info.ba](https://forbes.n1info.ba)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## TOYOTA u BiH. Saznajte sve o Toyota modelima.
+ - [https://www.toyota.ba](https://www.toyota.ba)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Vrijeme & Radar Bosna i Hercegovina
+ - [https://www.vrijemeradar.ba](https://www.vrijemeradar.ba)
+ - date_published: 2024-05-07T13:25:20.099072+00:00
+
+ ## Izbor jezika
+ - [https://www.mod.gov.ba](https://www.mod.gov.ba)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Register Your .Baby Domain Name
+ - [https://get.baby](https://get.baby)
+ - date_published: 2024-06-17T07:44:45.125834+00:00
+
+ ## Brother & Sister | Family Tribute Band
+ - [https://www.brotherandsister.band](https://www.brotherandsister.band)
+ - date_published: 2024-02-08T17:01:44.107125+00:00
+
+ ## HOME | laleroux
+ - [https://www.leroux.band](https://www.leroux.band)
+ - date_published: 2023-11-13T10:38:43.858200+00:00
+ - tags: ['music band']
+
+ ## LITTLE BIG | MAIN
+ - [https://littlebig.band](https://littlebig.band)
+ - date_published: 2024-05-02T15:48:00+00:00
+ - tags: ['music band']
+
  ## LITTLE BIG SHOP
  - [https://shop.littlebig.band](https://shop.littlebig.band)
  - date_published: 2024-04-10T00:00:00+00:00
@@ -278,6 +711,10 @@
  ## Home
  - [https://bacbi.be](https://bacbi.be)
  - date_published: 2024-05-08T12:01:08.995530+00:00
+
+ ## Digital products to shape our world
+ - [https://www.bagaar.be](https://www.bagaar.be)
+ - date_published: 2024-04-19T00:00:00+00:00
 
  ## Basile Van Hoorick
  - [https://basile.be](https://basile.be)
@@ -893,6 +1330,10 @@
  ## Jeune Et Citoyen ASBL - Augmenter le pouvoir des jeunes par leur participation
  - [http://www.jeuneetcitoyen.be](http://www.jeuneetcitoyen.be)
  - date_published: 2022-09-19T11:26:18+00:00
+
+ ## The James Bond Dossier: news & views on James Bond 007
+ - [https://jmsbnd.be](https://jmsbnd.be)
+ - date_published: 2024-05-13T00:00:00+00:00
 
  ## Joeri Timmermans – Freelance IT Consultant
  - [https://www.joeritimmermans.be](https://www.joeritimmermans.be)
@@ -2527,7 +2968,7 @@
  - date_published: 2023-10-25T11:59:38.520881+00:00
 
  ## Pro Posts – Billboard
- - [http://www.billboard.biz](http://www.billboard.biz)
+ - [https://www.billboard.biz](https://www.billboard.biz)
  - date_published: 2024-05-06T20:59:32.618966+00:00
 
  ## BlockchainGamerBiz - Where blockchain meets the games industry
@@ -2557,7 +2998,7 @@
 
  ## 中钨合金科技（莆田）有限公司,高比重钨合金，硬质合金
  - [http://www.china-tungsten.biz](http://www.china-tungsten.biz)
- - date_published: 2024-05-06T20:43:42.976909+00:00
+ - date_published: 2023-12-06T10:47:13+00:00
 
  ## Basic business page
  - [https://www.cityq.biz](https://www.cityq.biz)
@@ -3005,6 +3446,10 @@
  - date_published: 2023-12-30T05:22:55.385833+00:00
  - tags: ['personal']
 
+ ## totally normal girl
+ - [https://borschtwife.blog](https://borschtwife.blog)
+ - date_published: 2024-06-27T02:49:48.707293+00:00
+
  ## Bring Back Blogs! January 2023
  - [https://bringback.blog](https://bringback.blog)
  - date_published: 2023-01-20T18:42:44+00:00
@@ -3141,6 +3586,10 @@
  ## Digging Developer
  - [https://diggingdeveloper.blog](https://diggingdeveloper.blog)
  - date_published: 2024-06-23T15:45:43.066097+00:00
+
+ ## Digital Discipline
+ - [https://digitaldiscipline.blog](https://digitaldiscipline.blog)
+ - date_published: 2024-06-26T00:00:00+00:00
 
  ## Disconnect
  - [https://disconnect.blog](https://disconnect.blog)
@@ -3624,477 +4073,4 @@
  ## Paul Kafasis
  - [https://pbones.micro.blog](https://pbones.micro.blog)
  - date_published: 2024-05-06T22:46:27.036995+00:00
-
- ## Sidebar For Tiny Theme
- - [https://sidebar-for-tiny-theme.micro.blog](https://sidebar-for-tiny-theme.micro.blog)
- - date_published: 2024-04-06T02:02:05+00:00
-
- ## tbc aka tbc0 aka Tim Chambers
- - [https://tbc.micro.blog](https://tbc.micro.blog)
- - date_published: 2024-06-22T04:49:21+00:00
-
- ## Tiny Theme for Micro.blog
- - [https://tiny.micro.blog](https://tiny.micro.blog)
- - date_published: 2024-05-04T09:41:08.873707+00:00
-
- ## Maurice Parker
-    - Maurice Parker
- - [https://vincode.micro.blog](https://vincode.micro.blog)
- - date_published: 2023-04-28T20:52:33+00:00
-
- ## wings open wide
- - [https://wow.micro.blog](https://wow.micro.blog)
- - date_published: 2024-03-29T15:43:43+00:00
-
- ## mikeshafer.blog
- - [https://mikeshafer.blog](https://mikeshafer.blog)
- - date_published: 2023-12-20T05:39:06.849238+00:00
- - tags: ['personal']
-
- ## Doing Our Bit
- - [http://militaryandfamilyhistory.blog](http://militaryandfamilyhistory.blog)
- - date_published: 2024-06-21T09:41:14.325834+00:00
-
- ## Mindsers Blog: Inspirer les devs, un article à la fois
- - [https://mindsers.blog](https://mindsers.blog)
- - date_published: 2024-05-11T10:18:14.861792+00:00
-
- - [https://miris.blog](https://miris.blog)
- - date_published: 2024-02-26T09:12:32.456732+00:00
-
- ## mixable Blog | A mix of digital topics.
- - [https://mixable.blog](https://mixable.blog)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Cosmic Column | Kai Christensen | Substack
- - [https://www.mkaic.blog](https://www.mkaic.blog)
- - date_published: 2024-02-25T19:26:35.474528+00:00
-
- ## (no title)
- - [https://mlatgt.blog](https://mlatgt.blog)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## mmap(blog)
- - [https://mmapped.blog](https://mmapped.blog)
- - date_published: 2023-10-25T09:25:23.417879+00:00
- - tags: ['personal']
-
- ## More is Different | Dan Elton | Substack
- - [https://moreisdifferent.blog](https://moreisdifferent.blog)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Museum of Health Care Blog
- - [https://museumofhealthcare.blog](https://museumofhealthcare.blog)
- - date_published: 2024-02-24T18:08:23.471594+00:00
-
- ## The Music Aficionado
- - [https://musicaficionado.blog](https://musicaficionado.blog)
- - date_published: 2024-06-22T12:04:24+00:00
-
- ## <mxstbr/>
- - [https://mxstbr.blog](https://mxstbr.blog)
- - date_published: 2018-02-21T00:00:00+00:00
-
- ## NBMG
- - [http://nbmg.blog](http://nbmg.blog)
- - date_published: 2024-06-24T07:37:33+00:00
-
- ## near.blog | personal website
- - [https://near.blog](https://near.blog)
- - date_published: 2024-05-11T10:54:48.598948+00:00
-
- ## Neil Madden
- - [https://neilmadden.blog](https://neilmadden.blog)
- - date_published: 2023-10-25T09:01:51.726758+00:00
- - tags: ['personal']
-
- ## NetNewsWire
- - [https://netnewswire.blog](https://netnewswire.blog)
- - date_published: 2024-02-26T09:24:21.621475+00:00
-
- ## Nicheless | Think. Write away.
- - [https://nicheless.blog](https://nicheless.blog)
- - date_published: 2023-10-25T08:41:08.563849+00:00
-
- ## NOAA Teacher at Sea Blog
- - [https://noaateacheratsea.blog](https://noaateacheratsea.blog)
- - date_published: 2024-06-17T16:25:52+00:00
-
- ## Noahpinion | Noah Smith | Substack
- - [https://www.noahpinion.blog](https://www.noahpinion.blog)
- - date_published: 2023-10-25T09:39:20.899129+00:00
- - tags: ['substack']
-
- ## No Bells
- - [https://nobells.blog](https://nobells.blog)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## notizBlog
- - [https://notiz.blog](https://notiz.blog)
- - date_published: 2024-01-07T08:45:39.431652+00:00
-
- ## NTDEV
- - [https://ntdev.blog](https://ntdev.blog)
- - date_published: 2024-05-07T15:27:08.241538+00:00
-
- ## Oh Hello Ana
- - [https://ohhelloana.blog](https://ohhelloana.blog)
- - date_published: 2024-01-03T04:05:44.287778+00:00
-
- ## Om Malik
- - [https://om.blog](https://om.blog)
- - date_published: 2024-05-10T03:47:47.138641+00:00
-
- ## Blogging On Rails
- - [https://onrails.blog](https://onrails.blog)
- - date_published: 2024-04-28T05:57:03.045256+00:00
- - tags: ['ruby', 'ruby on rails']
-
- ## Outside the Asylum
- - [https://outsidetheasylum.blog](https://outsidetheasylum.blog)
- - date_published: 2024-05-08T09:57:24.649518+00:00
-
- - [https://overemployee.blog](https://overemployee.blog)
- - date_published: 2024-01-09T02:26:42.986613+00:00
-
- ## Padlet Gazette
- - [https://padlet.blog](https://padlet.blog)
- - date_published: 2024-05-06T15:25:23.339273+00:00
-
- ## Painting In The Dark
- - [https://paintinginthedark.blog](https://paintinginthedark.blog)
- - date_published: 2024-06-18T23:30:07.623393+00:00
-
- ## Paperless
- - [https://paperless.blog](https://paperless.blog)
- - date_published: 2023-10-25T08:57:53.071595+00:00
- - tags: ['personal']
-
- ## Perceiving Systems Blog
- - [https://perceiving-systems.blog](https://perceiving-systems.blog)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Petros Amoiridis
- - [https://petros.blog](https://petros.blog)
- - date_published: 2023-12-15T21:43:49.329150+00:00
- - tags: ['personal']
-
- ## Pine.blog – The Official Blog of Pine.blog | A Feed Reader Like Never Before
- - [https://blog.pine.blog](https://blog.pine.blog)
- - date_published: 2024-05-08T03:30:27.711793+00:00
-
- ## Pine.blog
- - [https://pine.blog](https://pine.blog)
- - date_published: 2024-05-08T03:30:24.768222+00:00
-
- ## Niklas's blog
- - [https://pivic.blog](https://pivic.blog)
- - date_published: 2024-01-22T00:00:00+00:00
- - tags: ['personal']
-
- ## Pixelfed Blog
- - [https://pixelfed.blog](https://pixelfed.blog)
- - date_published: 2023-10-25T12:00:46.045454+00:00
-
- ## pixiv inside
- - [https://inside.pixiv.blog](https://inside.pixiv.blog)
- - date_published: 2024-06-18T22:08:57.141279+00:00
-
- ## Power Moves
- - [https://powermoves.blog](https://powermoves.blog)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Prashanth's Blog
- - [https://prashanths.blog](https://prashanths.blog)
- - date_published: 2023-12-17T05:07:12.878570+00:00
- - tags: ['personal']
-
- ## Product Leaders
- - [https://productleaders.blog](https://productleaders.blog)
- - date_published: 2024-06-09T20:46:29+00:00
- - tags: ['business']
-
- ## Product Leaders
- - [https://www.productleaders.blog](https://www.productleaders.blog)
- - date_published: 2024-06-09T17:27:37.178746+00:00
-
- ## James Mills
-		- James Mills
- - [https://www.prologic.blog](https://www.prologic.blog)
- - date_published: 2024-06-10T07:08:51.981977+00:00
- - tags: ['personal']
-
- ## The Stream of Thought That Waters the Garden
- - [https://quantumgardener.blog](https://quantumgardener.blog)
- - date_published: 2023-11-29T14:25:56.871546+00:00
- - tags: ['personal']
-
- ## Quigs.blog
- - [https://quigs.blog](https://quigs.blog)
- - date_published: 2023-12-18T01:34:04.013330+00:00
- - tags: ['personal']
-
- ## Raku Advent Calendar – Raku is a multi-paradigm language where there's more than one way to do it
- - [https://raku-advent.blog](https://raku-advent.blog)
- - date_published: 2023-10-25T12:00:54.086156+00:00
-
- ## Jeannette Goon
- - [https://realhumangirl.blog](https://realhumangirl.blog)
- - date_published: 2023-12-02T10:25:54.865102+00:00
- - tags: ['personal']
-
- ## Realize Engineering | An engineering commentary for everyone every Wednesday since 2012
- - [https://realizeengineering.blog](https://realizeengineering.blog)
- - date_published: 2023-10-25T12:01:02.147552+00:00
-
- ## Reese Richardson
- - [https://reeserichardson.blog](https://reeserichardson.blog)
- - date_published: 2024-02-04T02:18:53.099471+00:00
-
- ## Research Degree Insiders
- - [https://researchinsiders.blog](https://researchinsiders.blog)
- - date_published: 2024-05-02T10:13:36.139493+00:00
-
- ## Cooking Pancakes | revi
- - [https://revi.blog](https://revi.blog)
- - date_published: 2024-06-10T07:07:48.083451+00:00
- - tags: ['personal']
-
- ## home · Joseph Thacker
- - [https://rez0.blog](https://rez0.blog)
- - date_published: 2023-10-25T12:01:04.204782+00:00
-
- ## Rich Tabor
- - [https://rich.blog](https://rich.blog)
- - date_published: 2024-04-03T12:46:23.521811+00:00
- - tags: ['personal']
-
- ## Richard Bloomfield's Blog • Technology, church music, bicycles, and life in Ireland
- - [https://richardbloomfield.blog](https://richardbloomfield.blog)
- - date_published: 2024-04-23T10:12:37.646980+00:00
- - tags: ['personal']
-
- ## Riley Harris
- - [https://rileyharris.blog](https://rileyharris.blog)
- - date_published: 2024-01-19T13:02:00.009123+00:00
-
- ## RunSignup Blog
- - [https://runsignup.blog](https://runsignup.blog)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## sarah.blog
- - [https://sarah.blog](https://sarah.blog)
- - date_published: 2023-11-29T14:44:35.706152+00:00
- - tags: ['personal']
-
- ## Shtetl-Optimized
- - [https://scottaaronson.blog](https://scottaaronson.blog)
- - date_published: 2023-10-25T12:01:16.273400+00:00
-
- ## Semantically Secure
- - [https://scottarc.blog](https://scottarc.blog)
- - date_published: 2024-04-13T07:41:59.654361+00:00
- - tags: ['personal']
-
- ## Scott Lamb – Medium
- - [https://scottlamb.blog](https://scottlamb.blog)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Seth's Blog
- - [https://seths.blog](https://seths.blog)
- - date_published: 2023-10-25T09:01:55.034633+00:00
- - tags: ['personal']
-
- ## Shyam's Blog
- - [https://shyam.blog](https://shyam.blog)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## silv.blog
- - [https://silv.blog](https://silv.blog)
- - date_published: 2024-06-22T12:54:13+00:00
-
- ## Smarter.Blog Newsletter | Mahesh | Substack
- - [https://newsletter.smarter.blog](https://newsletter.smarter.blog)
- - date_published: 2023-10-25T09:39:31.008633+00:00
- - tags: ['substack']
-
- ## Dhole Moments - Software, Security, Cryptography, and Furries
- - [https://soatok.blog](https://soatok.blog)
- - date_published: 2023-10-25T12:01:20.604773+00:00
-
- ## The Sorcerer's Blog
- - [https://sorcerer.blog](https://sorcerer.blog)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## The Stack Overflow Blog - Stack Overflow
- - [https://stackoverflow.blog](https://stackoverflow.blog)
- - date_published: 2023-10-25T12:01:26.888673+00:00
-
- ## The Seven Deadly Stupidities | GP | Substack
- - [https://www.stupid.blog](https://www.stupid.blog)
- - date_published: 2023-12-16T16:48:24.781015+00:00
-
- ## Executive Coaching with George Sudarkoff
- - [https://www.sudarkoff.blog](https://www.sudarkoff.blog)
- - date_published: 2023-10-25T09:39:42.624484+00:00
- - tags: ['substack']
-
- ## SuperAngel.Fund | Ben Zises | Substack
- - [https://www.superangel.blog](https://www.superangel.blog)
- - date_published: 2024-05-07T11:16:38.192143+00:00
-
- ## Surfing Complexity – Lorin Hochstein's ramblings about software, complex systems, and incidents.
- - [https://surfingcomplexity.blog](https://surfingcomplexity.blog)
- - date_published: 2023-10-25T12:01:31.469329+00:00
-
- ## Tanjas blog
- - [https://tanjas.blog](https://tanjas.blog)
- - date_published: 2024-04-03T12:42:58.498067+00:00
- - tags: ['personal']
-
- ## Texts.blog, the blog of Texts.com
- - [https://texts.blog](https://texts.blog)
- - date_published: 2024-01-29T22:46:36.155318+00:00
-
- ## The Auditorium: a research culture and researcher development blog
- - [http://theauditorium.blog](http://theauditorium.blog)
- - date_published: 2024-06-17T14:06:53.639392+00:00
-
- ## Theory Dish
- - [https://theorydish.blog](https://theorydish.blog)
- - date_published: 2024-06-21T03:52:55+00:00
-
- ## The Overspill: when there's more that I want to say
- - [https://theoverspill.blog](https://theoverspill.blog)
- - date_published: 2024-05-08T10:43:11.660044+00:00
-
- ## The Platform Law Blog
- - [https://theplatformlaw.blog](https://theplatformlaw.blog)
- - date_published: 2024-05-12T04:11:55.214912+00:00
-
- ## A Spoonful of Poetry: A poetry collection by Saalik Lokhandwala
- - [https://poetry.thespoonful.blog](https://poetry.thespoonful.blog)
- - date_published: 2024-04-28T06:08:30.388290+00:00
-
- ## The Spoonful | Saalik Lokhandwala | Substack
- - [https://www.thespoonful.blog](https://www.thespoonful.blog)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## The Tech Trailblazer
- - [https://thetechtrailblazer.blog](https://thetechtrailblazer.blog)
- - date_published: 2023-10-25T09:01:58.683638+00:00
- - tags: ['personal']
-
- ## Things I read
- - [http://things-i-read.blog](http://things-i-read.blog)
- - date_published: 2024-06-17T04:49:45.040086+00:00
-
- ## Tiago Lopes
- - [https://tiagolopes.blog](https://tiagolopes.blog)
- - date_published: 2024-06-23T04:33:17+00:00
-
- ## Tibz
- - [https://www.tibz.blog](https://www.tibz.blog)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## The Blog of Author Tim Ferriss
- - [https://tim.blog](https://tim.blog)
- - date_published: 2023-10-25T09:02:05.192967+00:00
- - tags: ['personal']
-
- ## Home - Time Scavengers
- - [https://timescavengers.blog](https://timescavengers.blog)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Tiny Theme for Micro.blog
- - [https://tinyformicro.blog](https://tinyformicro.blog)
- - date_published: 2024-05-04T14:42:55.366898+00:00
-
- ## tiny poems
- - [https://tinypoems.blog](https://tinypoems.blog)
- - date_published: 2024-05-02T12:54:41.281272+00:00
-
- ## Tony Dang's Blog
- - [https://tonydang.blog](https://tonydang.blog)
- - date_published: 2023-12-12T04:54:16.406463+00:00
- - tags: ['personal']
-
- ## Townsend Music Blog
- - [https://www.townsendmusic.blog](https://www.townsendmusic.blog)
- - date_published: 2024-06-25T17:02:36.967218+00:00
-
- ## | Troof
- - [https://troof.blog](https://troof.blog)
- - date_published: 2024-05-02T15:03:39.461851+00:00
- - tags: ['personal']
-
- ## twdev.blog
- - [https://twdev.blog](https://twdev.blog)
- - date_published: 2023-10-25T12:01:34.984757+00:00
-
- ## Unfashionable | Sven Schnieders | Substack
- - [https://unfashionable.blog](https://unfashionable.blog)
- - date_published: 2023-11-15T19:47:13.588134+00:00
-
- ## Psychotic, Obscene, and Unoriginal
- - [https://unoriginal.blog](https://unoriginal.blog)
- - date_published: 2023-12-09T12:58:13.135218+00:00
-
- ## Unsolicited Feedback
- - [https://unsolicitedfeedback.blog](https://unsolicitedfeedback.blog)
- - date_published: 2024-06-15T10:19:47.092706+00:00
-
- ## Vanilla Java
- - [https://blog.vanillajava.blog](https://blog.vanillajava.blog)
- - date_published: 2023-10-25T12:01:45.438171+00:00
-
- ## Volatile Rune
- - [https://volatilerune.blog](https://volatilerune.blog)
- - date_published: 2024-06-15T10:20:28.867787+00:00
-
- ## w6csn’s outdoor amateur radio
- - [https://w6csn.blog](https://w6csn.blog)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## weitergedacht – Idee für Idee etwas erwachsener
- - [https://weitergedacht.blog](https://weitergedacht.blog)
- - date_published: 2024-01-04T22:41:37.082776+00:00
-
- ## Minimalist Headless Blog for Next.js 14
- - [https://www.wisp.blog](https://www.wisp.blog)
- - date_published: 2024-06-21T20:50:39.310911+00:00
-
- ## Hi 👋
- - [https://yetanother.blog](https://yetanother.blog)
- - date_published: 2024-05-09T08:17:45.751129+00:00
- - tags: ['personal']
-
- ## yield code(); - Dmitry Kudryavtsev
- - [https://www.yieldcode.blog](https://www.yieldcode.blog)
- - date_published: 2023-10-25T09:02:08.513966+00:00
- - tags: ['personal']
-
- ## يونس بن عمارة
- - [https://youdo.blog](https://youdo.blog)
- - date_published: 2024-05-06T13:46:38.200533+00:00
-
- ## ℤ→ℤ
- - [https://ztoz.blog](https://ztoz.blog)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Who’s Afraid of The Blues
- - [https://afraid.blue](https://afraid.blue)
- - date_published: 2022-12-23T13:31:45+00:00
-
- ## Documentation
- - [https://atproto.blue](https://atproto.blue)
- - date_published: 2024-06-16T18:23:16+00:00
-
- ## deck.blue
- - [https://deck.blue](https://deck.blue)
- - date_published: 2024-05-02T13:43:30.287593+00:00
-
- ## Project MIRACLE
- - [https://miracle.blue](https://miracle.blue)
- - date_published: 2024-05-10T06:12:41.006662+00:00
 
