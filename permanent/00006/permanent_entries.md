@@ -1,3 +1,442 @@
+ ## Eliot Andres - eliot.blog
+ - [https://eliot.blog](https://eliot.blog)
+ - date_published: 2023-10-25T12:00:04.356787+00:00
+
+ ## Emily Short's Interactive Storytelling
+ - [https://emshort.blog](https://emshort.blog)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Engraved
+ - [https://www.engraved.blog](https://www.engraved.blog)
+ - date_published: 2023-10-25T12:00:15.735106+00:00
+
+ ## Combining the Ordinary to Become Extraordinary
+ - [https://erinshaw.blog](https://erinshaw.blog)
+ - date_published: 2024-01-05T10:38:31.333598+00:00
+
+ ## Home
+ | eval.blog
+ - [https://eval.blog](https://eval.blog)
+ - date_published: 2023-11-01T08:41:26.691929+00:00
+ - tags: ['personal']
+
+ ## Everything Is Bullshit | David Pinsof | Substack
+ - [https://www.everythingisbullshit.blog](https://www.everythingisbullshit.blog)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Fabric Of Happiness
+ - [https://fabricofhappiness.blog](https://fabricofhappiness.blog)
+ - date_published: 2023-12-13T06:04:10.402537+00:00
+ - tags: ['personal']
+
+ ## THERE STOOD NO FRIENDLY FINGER-POST TO GUIDE US
+ - [https://finger-post.blog](https://finger-post.blog)
+ - date_published: 2024-06-21T09:43:39.248838+00:00
+
+ ## The Firebase Blog
+ - [https://firebase.blog](https://firebase.blog)
+ - date_published: 2023-10-25T12:00:17.338871+00:00
+
+ ## FIVE STARS
+ - [https://www.fivestars.blog](https://www.fivestars.blog)
+ - date_published: 2022-05-09T10:53:11+00:00
+
+ ## Learn faster, Think better, and make Smart Decisions
+ - [https://fs.blog](https://fs.blog)
+ - date_published: 2023-10-25T12:00:21.226812+00:00
+
+ ## The Apple Theory
+ - [http://ganji.blog](http://ganji.blog)
+ - date_published: 2024-04-06T20:42:48.291763+00:00
+
+ ## garadinervi : repertori
+ - [https://garadinervi-repertori.blog](https://garadinervi-repertori.blog)
+ - date_published: 2024-06-22T13:47:31.882454+00:00
+
+ ## Guillermo Garron
+ - [https://www.garron.blog](https://www.garron.blog)
+ - date_published: 2024-06-23T18:48:57.990910+00:00
+
+ ## garry.net
+ - [https://garry.blog](https://garry.blog)
+ - date_published: 2023-10-25T09:01:42.242618+00:00
+ - tags: ['personal']
+
+ ## Numerous Narratives — Trying To Create Worthwhile Words, Sent...
+ - [https://garyarmstrong.blog](https://garyarmstrong.blog)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## The Official Gen Con Blog
+ - [https://gencon.blog](https://gencon.blog)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## genehack.blog
+ - [https://genehack.blog](https://genehack.blog)
+ - date_published: 2023-11-22T09:04:44.779260+00:00
+ - tags: ['personal']
+
+ ## Get On With It - Writing and drawings about work, family and the stuff in-between
+ - [https://getonwithit.blog](https://getonwithit.blog)
+ - date_published: 2024-01-28T13:20:52.795737+00:00
+
+ ## Gibberish - Blog like you text.
+ - [https://gibber.blog](https://gibber.blog)
+ - date_published: 2024-05-04T07:00:31.960299+00:00
+
+ ## Random musings on life, tech, and whatever else
+ - [https://gigatexal.blog](https://gigatexal.blog)
+ - date_published: 2024-06-01T04:53:53.025102+00:00
+
+ ## The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.
+ - [https://github.blog](https://github.blog)
+ - date_published: 2023-10-25T11:32:12.073420+00:00
+
+ ## Home | etcetera
+ - [https://giuliomagnifico.blog](https://giuliomagnifico.blog)
+ - date_published: 2023-10-25T12:00:23.624308+00:00
+
+ ## Gloria González Fuster
+ - [https://glgonzalezfuster.blog](https://glgonzalezfuster.blog)
+ - date_published: 2024-06-23T03:24:13+00:00
+
+ ## Good Thoughts | Richard Y Chappell | Substack
+ - [https://www.goodthoughts.blog](https://www.goodthoughts.blog)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## The Prism | Gurwinder | Substack
+ - [https://www.gurwinder.blog](https://www.gurwinder.blog)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## Haikal Kushahrin
+ - [https://haikal.blog](https://haikal.blog)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## handwritten.blog
+ - [https://handwritten.blog](https://handwritten.blog)
+ - date_published: 2023-10-25T09:01:43.570784+00:00
+ - tags: ['personal']
+
+ ## The Happy Developer
+ - [https://happydev.blog](https://happydev.blog)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Personal website | grevehoiby.dk
+ - [https://haralds.blog](https://haralds.blog)
+ - date_published: 2024-04-30T14:21:51.979778+00:00
+
+ ## Hari Shanker R
+ - [https://hari.blog](https://hari.blog)
+ - date_published: 2024-05-12T06:26:27.986579+00:00
+
+ ## Harper Reed's Blog
+ - [https://harper.blog](https://harper.blog)
+ - date_published: 2024-04-13T15:58:22.195168+00:00
+ - tags: ['personal']
+
+ ## Havn
+ - [https://havn.blog](https://havn.blog)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Home
+ - [https://hidde.blog](https://hidde.blog)
+ - date_published: 2024-06-21T22:18:15.765567+00:00
+
+ ## Hive
+ - [https://hive.blog](https://hive.blog)
+ - date_published: 2024-04-30T07:34:16.203098+00:00
+
+ ## some compact thoughts
+ - [https://backus.home.blog](https://backus.home.blog)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## DonDagen
+ - [https://dondagen.home.blog](https://dondagen.home.blog)
+ - date_published: 2023-12-14T06:53:35.668494+00:00
+ - tags: ['personal']
+
+ ## Glork
+ - [https://glork.home.blog](https://glork.home.blog)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Our Looney Barn
+ - [https://graveyardhouse.home.blog](https://graveyardhouse.home.blog)
+ - date_published: 2024-06-24T10:51:45.888235+00:00
+
+ ## Grumpy Wizard
+ - [https://grumpywizard.home.blog](https://grumpywizard.home.blog)
+ - date_published: 2023-12-23T19:27:09.883564+00:00
+ - tags: ['personal']
+
+ ## Just Coasting
+ - [http://justcoasting.home.blog](http://justcoasting.home.blog)
+ - date_published: 2024-05-07T14:47:04.252481+00:00
+
+ ## To Be Determined
+ - [https://locationtbd.home.blog](https://locationtbd.home.blog)
+ - date_published: 2023-10-25T09:01:46.793235+00:00
+ - tags: ['personal']
+
+ ## Around These Islands
+ - [http://novaroundbritain.home.blog](http://novaroundbritain.home.blog)
+ - date_published: 2024-05-07T14:47:12.542485+00:00
+
+ ## Imogen is Reading and Watching the World: On Books, Film, Art & More
+ - [https://readingandwatchingtheworld.home.blog](https://readingandwatchingtheworld.home.blog)
+ - date_published: 2024-06-15T00:01:36+00:00
+
+ ## Scorpios
+ - [https://scorpios.home.blog](https://scorpios.home.blog)
+ - date_published: 2024-06-23T14:38:26.656326+00:00
+
+ ## She’s  inspired
+ - [http://shesinspired.home.blog](http://shesinspired.home.blog)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## SOBERANIA ALIMENTAR MARÉ
+ - [https://soberania-alimentar-mare.home.blog](https://soberania-alimentar-mare.home.blog)
+ - date_published: 2024-05-10T06:57:04.002656+00:00
+
+ ## Home With The Armadillo
+ - [https://homewiththearmadillo.blog](https://homewiththearmadillo.blog)
+ - date_published: 2024-06-21T22:09:52.098809+00:00
+
+ ## Hoppla!
+ - [https://hopplaausrufezeichen.blog](https://hopplaausrufezeichen.blog)
+ - date_published: 2023-11-29T14:18:55.206080+00:00
+ - tags: ['personal']
+
+ ## Hover Blog
+ - [https://hover.blog](https://hover.blog)
+ - date_published: 2024-05-08T06:31:47.738225+00:00
+
+ ## Hugo's Blog
+ - [https://hugo.blog](https://hugo.blog)
+ - date_published: 2024-03-15T15:03:02.371297+00:00
+ - tags: ['personal']
+
+ ## Hypersphere
+ - [https://hypersphere.blog](https://hypersphere.blog)
+ - date_published: 2023-10-25T12:00:24.491597+00:00
+
+ ## As I said the other day... — PR hack, dog walker, nature love...
+ - [https://iainmaclean.blog](https://iainmaclean.blog)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## illuminator dot blog
+ - [https://www.illuminator.blog](https://www.illuminator.blog)
+ - date_published: 2024-06-18T22:07:04+00:00
+
+ ## Inner Wilds | River Kenna | Substack
+ - [https://innerwilds.blog](https://innerwilds.blog)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## Innovation Nation | George Patterson Sibble | Substack
+ - [https://innovationnation.blog](https://innovationnation.blog)
+ - date_published: 2023-10-25T12:00:28.316276+00:00
+
+ ## Interconnected | Where Tech, Investing, Geopolitics Come Together
+ - [https://interconnected.blog](https://interconnected.blog)
+ - date_published: 2023-10-25T12:00:31.197795+00:00
+
+ ## Islamic Law Blog
+ - [https://islamiclaw.blog](https://islamiclaw.blog)
+ - date_published: 2024-06-28T20:54:12.194786+00:00
+
+ ## Home | James' Coffee Blog
+ - [https://jamesg.blog](https://jamesg.blog)
+ - date_published: 2023-10-25T08:42:49.809384+00:00
+ - tags: ['personal']
+
+ ## Jason A. Hoffman
+ - [https://jasonhoffman.blog](https://jasonhoffman.blog)
+ - date_published: 2024-05-02T10:30:04.834735+00:00
+
+ ## Jay Clouse | Sign up for Jay's Newsletter
+ - [https://jay.blog](https://jay.blog)
+ - date_published: 2024-06-23T00:01:36.948530+00:00
+
+ ## Jeff Wilcox
+ - [https://jeffwilcox.blog](https://jeffwilcox.blog)
+ - date_published: 2023-10-25T09:25:21.956648+00:00
+ - tags: ['personal']
+
+ ## Jeremey DuVall — Customer-Focused Product Manager
+ - [https://jeremey.blog](https://jeremey.blog)
+ - date_published: 2023-12-20T14:33:15.143478+00:00
+ - tags: ['personal']
+
+ ## Gavi's Blog
+ - [https://jewy.blog](https://jewy.blog)
+ - date_published: 2024-05-01T04:17:30.599184+00:00
+
+ ## Gavi's Blog
+ - [https://my.jewy.blog](https://my.jewy.blog)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Jan-Lukas Else
+ - [https://jlelse.blog](https://jlelse.blog)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## jonbeckett.blog
+ - [https://jonbeckett.blog](https://jonbeckett.blog)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Jordan Cooper's Blog: startups, venture capital, etc...
+ - [http://jordancooper.blog](http://jordancooper.blog)
+ - date_published: 2024-06-19T00:07:49+00:00
+
+ ## joshua johnson – learn more. know less.
+ - [https://joshj.blog](https://joshj.blog)
+ - date_published: 2024-01-07T17:48:58.133412+00:00
+
+ ## Josh Withers, the group chat
+ - [https://joshwithers.blog](https://joshwithers.blog)
+ - date_published: 2024-06-01T05:04:00.212824+00:00
+ - tags: ['personal']
+
+ ## json.blog
+ - [https://json.blog](https://json.blog)
+ - date_published: 2023-11-29T17:16:21.010658+00:00
+ - tags: ['personal']
+
+ ## Home by JustDesi
+ - [https://justdesi.blog](https://justdesi.blog)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## KajMagnus' Blog
+ - [https://www.kajmagnus.blog](https://www.kajmagnus.blog)
+ - date_published: 2024-06-23T12:44:50.255646+00:00
+
+ ## Blog (Swift, iOS)
+ - [https://kean.blog](https://kean.blog)
+ - date_published: 2023-01-24T00:00:00+00:00
+
+ ## Web-focused software development - kimmo.blog
+ - [https://kimmo.blog](https://kimmo.blog)
+ - date_published: 2023-10-25T12:00:33.095001+00:00
+
+ ## TeamMapper
+ - [https://map.kits.blog](https://map.kits.blog)
+ - date_published: 2024-06-11T11:49:33+00:00
+
+ ## Kojo's blog
+ - [http://kojo.blog](http://kojo.blog)
+ - date_published: 2024-06-14T14:36:05.638608+00:00
+
+ ## Home - Konstantin Kovshenin
+ - [https://konstantin.blog](https://konstantin.blog)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## The Journeyman
+ - [https://kraft.blog](https://kraft.blog)
+ - date_published: 2024-05-09T08:19:11.914468+00:00
+
+ ## Lat × Long
+ - [https://latlong.blog](https://latlong.blog)
+ - date_published: 2023-10-25T12:00:41.450594+00:00
+
+ ## Laurie J. Marks
+ - [https://lauriejmarks.blog](https://lauriejmarks.blog)
+ - date_published: 2024-06-22T14:04:51.290899+00:00
+
+ ## Comparing Notes
+ - [https://leviconrad.blog](https://leviconrad.blog)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## linusdata
+ - [https://linusdata.blog](https://linusdata.blog)
+ - date_published: 2024-06-15T16:56:52.601875+00:00
+
+ ## Loopholes
+ - [https://loopholes.blog](https://loopholes.blog)
+ - date_published: 2024-05-02T09:54:09.423097+00:00
+
+ ## ash
+ - [https://ash.mataroa.blog](https://ash.mataroa.blog)
+ - date_published: 2022-12-20T00:00:00+00:00
+
+ ## C.H. Atpin
+ - [https://chatpin.mataroa.blog](https://chatpin.mataroa.blog)
+ - date_published: 2022-01-28T00:00:00+00:00
+
+ ## johnpublic
+ - [https://johnpublic.mataroa.blog](https://johnpublic.mataroa.blog)
+ - date_published: 2023-10-25T12:00:42.570358+00:00
+
+ ## Ludicity
+ - [https://ludic.mataroa.blog](https://ludic.mataroa.blog)
+ - date_published: 2023-10-25T12:00:43.846678+00:00
+
+ ## Mataroa — Blogging platform for minimalists
+ - [https://mataroa.blog](https://mataroa.blog)
+ - date_published: 2024-04-30T06:58:27.742458+00:00
+
+ ## rep lodsb
+ - [https://rep-lodsb.mataroa.blog](https://rep-lodsb.mataroa.blog)
+ - date_published: 2022-08-13T00:00:00+00:00
+
+ ## Matt Baker's Math Blog
+ - [https://mattbaker.blog](https://mattbaker.blog)
+ - date_published: 2024-05-07T16:15:55.235865+00:00
+
+ ## Kayla
+ - [https://mckayla.blog](https://mckayla.blog)
+ - date_published: 2023-10-25T09:01:48.490146+00:00
+ - tags: ['personal']
+
+ ## melkat.blog - hi there! please enjoy my blog of things i think are interesting
+ - [https://melkat.blog](https://melkat.blog)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Lisa Sieverts
+ - [https://agilelisa.micro.blog](https://agilelisa.micro.blog)
+ - date_published: 2023-11-29T15:29:38.973597+00:00
+ - tags: ['personal']
+
+ ## Lou Plummer
+ - [https://amerpiegateway.micro.blog](https://amerpiegateway.micro.blog)
+ - date_published: 2024-06-11T23:48:23+00:00
+
+ ## annie mueller
+ - [https://annie.micro.blog](https://annie.micro.blog)
+ - date_published: 2024-06-19T14:19:45+00:00
+
+ ## bapsi
+ - [https://bapsi.micro.blog](https://bapsi.micro.blog)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Micro.blog Community Challenges
+ - [https://challenges.micro.blog](https://challenges.micro.blog)
+ - date_published: 2024-05-12T05:43:36.214261+00:00
+
+ ## Dave Winer
+ - [https://dave.micro.blog](https://dave.micro.blog)
+ - date_published: 2024-04-29T02:42:34.726615+00:00
+
+ ## Jarrod Blundy —
+ - [https://jarrod.micro.blog](https://jarrod.micro.blog)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Ken Kocienda
+ - [https://kocienda.micro.blog](https://kocienda.micro.blog)
+ - date_published: 2024-04-11T17:12:36+00:00
+
+ ## Link Punk: A Linkblog
+ - [https://linkpunk.micro.blog](https://linkpunk.micro.blog)
+ - date_published: 2024-06-17T22:01:16+00:00
+
+ ## Micro.blog
+ - [https://micro.blog](https://micro.blog)
+ - date_published: 2023-11-29T15:49:12.955798+00:00
+
+ ## NRH
+ - [http://nathanrhale.micro.blog](http://nathanrhale.micro.blog)
+ - date_published: 2024-06-15T04:23:57+00:00
+
+ ## Paul Kafasis
+ - [https://pbones.micro.blog](https://pbones.micro.blog)
+ - date_published: 2024-03-22T21:04:24+00:00
+
  ## Sidebar For Tiny Theme
  - [https://sidebar-for-tiny-theme.micro.blog](https://sidebar-for-tiny-theme.micro.blog)
  - date_published: 2024-04-06T02:02:05+00:00
@@ -105,6 +544,10 @@
  ## notizBlog
  - [https://notiz.blog](https://notiz.blog)
  - date_published: 2024-01-07T08:45:39.431652+00:00
+
+ ## NSMC Internship
+ - [https://www.nsmc.blog](https://www.nsmc.blog)
+ - date_published: 2024-06-28T11:51:32.290325+00:00
 
  ## NTDEV
  - [https://ntdev.blog](https://ntdev.blog)
@@ -583,6 +1026,10 @@
  - [https://www.mercadolibre.com.bo](https://www.mercadolibre.com.bo)
  - date_published: 2024-06-16T12:56:33.782041+00:00
 
+ ## Pronóstico del tiempo 14 días - Meteored
+ - [https://www.meteored.com.bo](https://www.meteored.com.bo)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## Palpito - ¡Participa en Encuestas Pagadas en Bolivia!
  - [http://palpito.com.bo](http://palpito.com.bo)
  - date_published: 2021-05-30T17:08:16+00:00
@@ -986,6 +1433,10 @@ Educação
  - [https://www.ametek.com.br](https://www.ametek.com.br)
  - date_published: 2024-06-15T10:44:33.059141+00:00
 
+ ## AnaMaria Receitas - Receitas Testadas e Aprovadas
+ - [https://anamariareceitas.com.br](https://anamariareceitas.com.br)
+ - date_published: 2024-06-28T15:30:58+00:00
+
  ## ANSA Brasil
  - [https://ansabrasil.com.br](https://ansabrasil.com.br)
  - date_published: 2024-05-06T15:14:38.371552+00:00
@@ -1095,6 +1546,10 @@ Educação
  - [https://www.boeing.com.br](https://www.boeing.com.br)
  - date_published: 2024-01-03T00:00:00+00:00
 
+ ## Brasil de Fato
+ - [https://www.brasildefato.com.br](https://www.brasildefato.com.br)
+ - date_published: 2024-06-28T21:41:57.628853+00:00
+
  ## Bright Data - A plataforma de dados da Web nº 1 do mundo
  - [https://brightdata.com.br](https://brightdata.com.br)
  - date_published: 2024-03-26T00:00:00+00:00
@@ -1190,6 +1645,10 @@ Educação
  ## COMARCH - Gestão de fidelização, Intercâmbio eletrônico de dados, Telecomunicações
  - [https://www.comarch.com.br](https://www.comarch.com.br)
  - date_published: 2024-05-12T04:00:55.746668+00:00
+
+ ## Grupo Companhia das Letras
+ - [https://www.companhiadasletras.com.br](https://www.companhiadasletras.com.br)
+ - date_published: 2024-06-28T14:51:13.975249+00:00
 
  ## Compaq
  - [https://www.compaq.com.br](https://www.compaq.com.br)
@@ -1388,6 +1847,14 @@ Educação
  - [https://www.fiat.com.br](https://www.fiat.com.br)
  - date_published: 2024-06-17T11:54:04+00:00
 
+ ## Fiquem Sabendo
+ - [https://fiquemsabendo.com.br](https://fiquemsabendo.com.br)
+ - date_published: 2024-06-28T21:49:29.808218+00:00
+
+ ## FlixBus: Affordable Global Bus Travel
+ - [https://www.flixbus.com.br](https://www.flixbus.com.br)
+ - date_published: 2024-06-27T15:43:02+00:00
+
  ## HOME
  - [https://www.forbes.com.br](https://www.forbes.com.br)
  - date_published: 2024-02-07T00:00:00+00:00
@@ -1532,6 +1999,10 @@ Educação
  ## Home  | Jeep
  - [https://www.jeep.com.br](https://www.jeep.com.br)
  - date_published: 2024-06-17T18:45:44+00:00
+
+ ## Home - JMS Comunicação
+ - [https://jmscomunicacao.com.br](https://jmscomunicacao.com.br)
+ - date_published: 2024-06-28T15:59:44.949652+00:00
 
  ## Jogo Fortune Rabbit lll▷ Fortune Rabbit PG Soft
  - [https://jogo-fortune-rabbit.com.br](https://jogo-fortune-rabbit.com.br)
@@ -1813,6 +2284,10 @@ Educação
  - [https://www.publicidadeeditoraglobo.com.br](https://www.publicidadeeditoraglobo.com.br)
  - date_published: 2024-06-18T07:13:11.196965+00:00
 
+ ## PythonClub //
+ - [https://pythonclub.com.br](https://pythonclub.com.br)
+ - date_published: 2022-10-17T00:00:00+00:00
+
  ## quenerd.com.br
  - [http://www.quenerd.com.br](http://www.quenerd.com.br)
  - date_published: 2024-06-20T04:01:25.213290+00:00
@@ -2045,9 +2520,37 @@ Educação
  - [https://www.tripadvisor.com.br](https://www.tripadvisor.com.br)
  - date_published: 2024-05-29T00:37:46.198131+00:00
 
+ ## Aventuras na História
+ - [https://aventurasnahistoria.uol.com.br](https://aventurasnahistoria.uol.com.br)
+ - date_published: 2024-06-28T15:59:54.159071+00:00
+
  ## CARAS Brasil
  - [https://caras.uol.com.br](https://caras.uol.com.br)
  - date_published: 2024-05-10T02:43:46.919114+00:00
+
+ ## CineBuzz
+ - [https://cinebuzz.uol.com.br](https://cinebuzz.uol.com.br)
+ - date_published: 2024-06-28T15:59:49.368483+00:00
+
+ ## Contigo!
+ - [https://contigo.uol.com.br](https://contigo.uol.com.br)
+ - date_published: 2024-06-28T15:59:58.931677+00:00
+
+ ## Máxima
+ - [https://maxima.uol.com.br](https://maxima.uol.com.br)
+ - date_published: 2024-06-28T16:00:10.594455+00:00
+
+ ## Recreio
+ - [https://recreio.uol.com.br](https://recreio.uol.com.br)
+ - date_published: 2024-06-28T16:00:03.852827+00:00
+
+ ## Rolling Stone Brasil
+ - [https://rollingstone.uol.com.br](https://rollingstone.uol.com.br)
+ - date_published: 2024-06-28T15:59:51.949519+00:00
+
+ ## Sportbuzz
+ - [https://sportbuzz.uol.com.br](https://sportbuzz.uol.com.br)
+ - date_published: 2024-06-28T15:59:56.745164+00:00
 
  ## Notícias de hoje do Brasil e do Mundo | Folha de S.Paulo
  - [https://www1.folha.uol.com.br](https://www1.folha.uol.com.br)
@@ -2365,6 +2868,14 @@ Educação
  - [https://utag.ippuc.org.br](https://utag.ippuc.org.br)
  - date_published: 2024-06-12T03:30:42.682396+00:00
 
+ ## Página Inicial
+ - [https://www.labre.org.br](https://www.labre.org.br)
+ - date_published: 2024-06-28T22:47:17.458043+00:00
+
+ ## - Home
+ - [https://laut.org.br](https://laut.org.br)
+ - date_published: 2024-06-27T00:00:00+00:00
+
  ## MASP
  - [https://masp.org.br](https://masp.org.br)
  - date_published: 2023-11-13T13:41:34.414087+00:00
@@ -2398,6 +2909,10 @@ Educação
  - [https://www.portasabertas.org.br](https://www.portasabertas.org.br)
  - date_published: 2024-05-08T11:12:55.979392+00:00
 
+ ## PythonBrasil - PythonBrasil
+ - [http://wiki.python.org.br](http://wiki.python.org.br)
+ - date_published: 2024-06-28T19:57:47.783697+00:00
+
  ## Comunicar para Mudar
  - [https://comunicarparamudar.reporterbrasil.org.br](https://comunicarparamudar.reporterbrasil.org.br)
  - date_published: 2024-01-09T02:27:01.376800+00:00
@@ -2429,6 +2944,10 @@ Educação
  ## Repórter Brasil
  - [http://www.reporterbrasil.org.br](http://www.reporterbrasil.org.br)
  - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Página inicial - Sociedade Brasileira de Reumatologia
+ - [https://www.reumatologia.org.br](https://www.reumatologia.org.br)
+ - date_published: 2024-06-17T00:00:00+00:00
 
  ## The Nature Conservancy
  - [https://www.tnc.org.br](https://www.tnc.org.br)
@@ -2706,9 +3225,25 @@ Educação
  - [https://miguel.build](https://miguel.build)
  - date_published: 2024-02-01T00:00:00+00:00
 
+ ## Momentum Brand
+ - [https://brand.mmntm.build](https://brand.mmntm.build)
+ - date_published: 2024-06-28T11:03:49.615484+00:00
+
+ ## Momentum
+ - [https://feed.mmntm.build](https://feed.mmntm.build)
+ - date_published: 2024-06-28T11:04:08.200144+00:00
+
+ ## Momentum — Build and sell your digital products
+ - [http://mmntm.build](http://mmntm.build)
+ - date_published: 2024-01-16T00:00:00+00:00
+
  ## Momentum Page
  - [https://page.mmntm.build](https://page.mmntm.build)
  - date_published: 2024-06-19T18:51:50.420948+00:00
+
+ ## Momentum Post
+ - [https://post.mmntm.build](https://post.mmntm.build)
+ - date_published: 2024-06-28T11:03:52.098362+00:00
 
  ## Wave by Momentum
  - [https://wave.mmntm.build](https://wave.mmntm.build)
@@ -2888,12 +3423,16 @@ Educação
  - date_published: 2023-11-26T12:56:13.830280+00:00
 
  ## Anwar Tours | Tour Operator | Belize
- - [https://www.anwartours.bz](https://www.anwartours.bz)
+ - [https://anwartours.bz](https://anwartours.bz)
  - date_published: 2024-05-06T22:41:11.214787+00:00
 
  ## STACK – Library
  - [https://stack.cld.bz](https://stack.cld.bz)
  - date_published: 2024-06-16T17:23:03.102241+00:00
+
+ ## Discover Belize with Belize Exotic Adventures – Belize Tours, Cave Tubing, Rainforest Tours, ATV Tours, Zipline Tours, Mayan Temples and Ruins
+ - [https://www.discoverbelize.bz](https://www.discoverbelize.bz)
+ - date_published: 2024-06-28T11:39:33.980240+00:00
 
  ## Homepage@c.dup.bz
  - [https://c.dup.bz](https://c.dup.bz)
@@ -3039,6 +3578,10 @@ Educação
  ## Inclusive Design Research Centre
  - [https://achecker.ca](https://achecker.ca)
  - date_published: 2024-05-01T03:48:03.617062+00:00
+
+ ## Submit An Offer!
+ - [https://actionrecovery.ca](https://actionrecovery.ca)
+ - date_published: 2024-06-28T12:09:06.271358+00:00
 
  ## Adam Bell
  - [https://blog.adambell.ca](https://blog.adambell.ca)
@@ -3202,6 +3745,10 @@ Educação
  - [https://apenwarr.ca](https://apenwarr.ca)
  - date_published: 2023-10-25T12:03:23.733666+00:00
 
+ ## Apocryphicity
+ - [http://www.apocryphicity.ca](http://www.apocryphicity.ca)
+ - date_published: 2024-06-28T19:27:51+00:00
+
  ## Alana Cattapan
  - [https://arcattapan.ca](https://arcattapan.ca)
  - date_published: 2024-05-09T09:11:39.883714+00:00
@@ -3218,6 +3765,14 @@ Educação
  ## Ars Medica
  - [http://www.ars-medica.ca](http://www.ars-medica.ca)
  - date_published: 2024-06-24T09:33:40.227600+00:00
+
+ ## Home | Arthritis Society Canada
+ - [https://arthritis.ca](https://arthritis.ca)
+ - date_published: 2024-06-28T12:08:12.188114+00:00
+
+ ## Capa | Canadian Arthritis Patient Alliance
+ - [http://arthritispatient.ca](http://arthritispatient.ca)
+ - date_published: 2024-06-28T11:54:28.514753+00:00
 
  ## Atlantic Auto Sales
  - [https://atlanticautosales.ca](https://atlanticautosales.ca)
@@ -3465,8 +4020,12 @@ Educação
  - date_published: 2023-11-15T19:08:07+00:00
 
  ## Tom Nelson
- - [http://tomnelson.blogspot.ca](http://tomnelson.blogspot.ca)
+ - [https://tomnelson.blogspot.ca](https://tomnelson.blogspot.ca)
  - date_published: 2024-05-06T23:32:23.707679+00:00
+
+ ## Transit Futures
+ - [http://transitfutures.blogspot.ca](http://transitfutures.blogspot.ca)
+ - date_published: 2024-02-07T06:29:13+00:00
 
  ## Pacific Blue Cross - BC's #1 provider of health, dental and travel benefits
  - [https://www.pac.bluecross.ca](https://www.pac.bluecross.ca)
@@ -3515,551 +4074,4 @@ Educação
  ## box of chocolates
  - [https://boxofchocolates.ca](https://boxofchocolates.ca)
  - date_published: 2024-05-01T02:19:25.427285+00:00
-
- ## Brad Hussey - Start a Business as a Freelancer, Coach or Consultant
- - [https://www.bradhussey.ca](https://www.bradhussey.ca)
- - date_published: 2024-01-06T17:58:08.994162+00:00
-
- ## Bradley Thompson- Team Canada Duathlete, Digital Marketing Expert, Podcaster, Marketing Professor & Creative Content Creator
- - [https://bradleythompson.ca](https://bradleythompson.ca)
- - date_published: 2024-01-15T22:20:27.125154+00:00
-
- ## Brady's Site
- - [https://bradyt.ca](https://bradyt.ca)
- - date_published: 2024-06-14T14:33:11.631739+00:00
-
- ## Brar Homes Ltd. | Calgary
- - [https://brarhomes.ca](https://brarhomes.ca)
- - date_published: 2024-06-23T11:43:13+00:00
-
- ## The Breach
- - [https://breachmedia.ca](https://breachmedia.ca)
- - date_published: 2023-10-25T12:04:07.809857+00:00
-
- ## Brennan Kenneth Brown: Digital Marketer & Web Developer
- - [https://brennanbrown.ca](https://brennanbrown.ca)
- - date_published: 2024-05-07T23:14:05.571089+00:00
-
- ## Home - Brighton Speedway
- - [https://www.brightonspeedway.ca](https://www.brightonspeedway.ca)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## The British Colonist 1858-1980
- - [https://britishcolonist.ca](https://britishcolonist.ca)
- - date_published: 2021-11-05T18:55:30+00:00
-
- ## Printers, Labellers, Scanners, Fax & Sewing | Brother Canada
- - [https://brother.ca](https://brother.ca)
- - date_published: 2024-06-17T21:03:04.028127+00:00
-
- ## Brother Canada Inspiration
- - [https://inspiration.brother.ca](https://inspiration.brother.ca)
- - date_published: 2024-06-17T21:03:04+00:00
-
- ## Brother Canada - All In Ones, Laser Printers, Fax Machines, Label Printers, Sewing and more...
- - [https://service.brother.ca](https://service.brother.ca)
- - date_published: 2024-06-17T21:02:59.277372+00:00
-
- ## Printers, Labellers, Scanners, Fax & Sewing | Brother Canada
- - [https://www.brother.ca](https://www.brother.ca)
- - date_published: 2024-05-02T11:26:08.801076+00:00
-
- ## Bruce Dowbiggin Books
- - [http://brucedowbigginbooks.ca](http://brucedowbigginbooks.ca)
- - date_published: 2024-06-26T22:37:03.858607+00:00
-
- ## Buick Canada | SUV & Crossover | Envista, Encore GX, Envision, Enclave
- - [https://www.buick.ca](https://www.buick.ca)
- - date_published: 2024-06-20T07:46:19.676571+00:00
-
- ## CADDAC: Canadian ADHD Awareness | Education | Advocacy
- - [https://caddac.ca](https://caddac.ca)
- - date_published: 2024-05-07T14:16:38.480742+00:00
-
- ## Cadillac Canada | Luxury Cars, SUVs & Crossovers
- - [https://www.cadillaccanada.ca](https://www.cadillaccanada.ca)
- - date_published: 2024-06-20T07:44:42.488732+00:00
-
- ## CafePress | Best merchandise to express yourself
- - [http://www.cafepress.ca](http://www.cafepress.ca)
- - date_published: 2024-04-29T03:19:10.117588+00:00
-
- ## Home - University of Calgary Bookstore
- - [https://www.calgarybookstore.ca](https://www.calgarybookstore.ca)
- - date_published: 2024-04-30T05:19:03.329840+00:00
-
- ## Support CAMH
- - [https://give.camh.ca](https://give.camh.ca)
- - date_published: 2024-05-10T04:57:08.647789+00:00
-
- ## The Centre for Addiction and Mental Health
- - [https://www.camh.ca](https://www.camh.ca)
- - date_published: 2023-12-11T10:52:06.321718+00:00
-
- ## CAMH: Centre for Addiction & Mental Health--
- - [http://www.camhx.ca](http://www.camhx.ca)
- - date_published: 2012-05-17T00:00:00+00:00
-
- ## Home
- - [https://www.campaigncanada.ca](https://www.campaigncanada.ca)
- - date_published: 2023-11-16T00:00:00+00:00
-
- ## York University - Shibboleth - Loading Session Information
- - [https://yorku.campuslabs.ca](https://yorku.campuslabs.ca)
- - date_published: 2024-05-09T06:47:33.598625+00:00
-
- ## Products - Canadian Digital Service
- - [https://digital.canada.ca](https://digital.canada.ca)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Health Infobase - Health data in Canada - Canada.ca
- - [https://health-infobase.canada.ca](https://health-infobase.canada.ca)
- - date_published: 2024-05-11T08:23:31.778833+00:00
-
- ## Produits - Service numérique canadien
- - [https://numerique.canada.ca](https://numerique.canada.ca)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Parks Canada
- - [https://parks.canada.ca](https://parks.canada.ca)
- - date_published: 2024-06-21T09:43:27.846233+00:00
-
- ## Transport Canada / Transports Canada
- - [https://tc.canada.ca](https://tc.canada.ca)
- - date_published: 2024-01-31T13:48:29+00:00
-
- ## Canada.ca
- - [https://www.canada.ca](https://www.canada.ca)
- - date_published: 2023-10-25T11:26:45.357716+00:00
- - tags: ['government', 'canada']
-
- ## Canada Blockchain Consortium
- - [https://www.canadablockchain.ca](https://www.canadablockchain.ca)
- - date_published: 2024-06-16T02:52:13+00:00
-
- ## Attention Required! | Cloudflare
- - [https://corp.canadiantire.ca](https://corp.canadiantire.ca)
- - date_published: 2024-06-19T09:55:41.264802+00:00
-
- ## Shop Canada’s Top Department Store Online & at 500+ Locations
- - [https://www.canadiantire.ca](https://www.canadiantire.ca)
- - date_published: 2024-06-23T04:07:29+00:00
-
- ## National Canadian Film Day
- - [https://canfilmday.ca](https://canfilmday.ca)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Find Software
- - [https://www.capterra.ca](https://www.capterra.ca)
- - date_published: 2024-06-13T06:42:11.073248+00:00
-
- ## Carleton University
- - [https://carleton.ca](https://carleton.ca)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## HotSoft: Software as Interactive Media at Carleton University
- - [http://hotsoft.carleton.ca](http://hotsoft.carleton.ca)
- - date_published: 2024-06-23T20:38:14.826096+00:00
-
- ## Carleton Computer Security Lab (CCSL)
- - [https://www.ccsl.carleton.ca](https://www.ccsl.carleton.ca)
- - date_published: 2023-05-31T02:29:08+00:00
-
- ## Chris Carlier
- - [https://carlier.ca](https://carlier.ca)
- - date_published: 2023-12-28T18:49:41.221395+00:00
- - tags: ['personal']
-
- ## Carlo Franco
- - [http://www.carlofranco.ca](http://www.carlofranco.ca)
- - date_published: 2014-03-26T00:00:00+00:00
-
- ## CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
- - [https://cbc.ca](https://cbc.ca)
- - date_published: 2024-06-15T21:05:27.624030+00:00
-
- ## CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
- - [https://www.cbc.ca](https://www.cbc.ca)
- - date_published: 2023-10-25T10:55:51.069895+00:00
-
- ## Accueil | National Collaborating Centre for Environmental Health | NCCEH - CCSNE | National Collaborating Centre for Environmental Health | NCCEH - CCSNE
- - [https://ccnse.ca](https://ccnse.ca)
- - date_published: 2024-06-18T14:56:16+00:00
-
- ## CDEACF
- - [http://cdeacf.ca](http://cdeacf.ca)
- - date_published: 2024-06-19T17:35:00+00:00
-
- ## Canada Deposit Insurance Corporation
- - [https://www.cdic.ca](https://www.cdic.ca)
- - date_published: 2024-06-16T09:41:29.651739+00:00
-
- ## https://cdrom.ca
- - [https://cdrom.ca](https://cdrom.ca)
- - date_published: 2023-01-01T00:00:00+00:00
-
- ## CertaPro Painters | Professional House Painting Contractors and Professional Commercial Painting Contractors
- - [https://certapro.ca](https://certapro.ca)
- - date_published: 2024-06-18T16:27:51.055478+00:00
-
- ## Peintre professionnel Certapro Montréal
- - [http://www.certapromontreal.ca](http://www.certapromontreal.ca)
- - date_published: 2024-05-21T21:06:41+00:00
-
- ## Computational Geometry Lab - Index
- - [http://cglab.ca](http://cglab.ca)
- - date_published: 2024-06-03T06:26:38.573261+00:00
-
- ## CharityCAN - Canada's Prospect Research and Relationship Mapping Tool
- - [http://www.charitycan.ca](http://www.charitycan.ca)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Chase Payment Solutions | Chase Canada | chase.ca
- - [https://www.chase.ca](https://www.chase.ca)
- - date_published: 2024-05-04T06:12:33.436323+00:00
-
- ## ISD2.0-AWS
- - [https://chatterboxnorth.ca](https://chatterboxnorth.ca)
- - date_published: 2021-12-30T00:43:55+00:00
-
- ## Chevrolet Canada | Cars, Trucks, SUVs, Crossovers & Vans
- - [https://www.chevrolet.ca](https://www.chevrolet.ca)
- - date_published: 2024-06-20T07:45:15.310364+00:00
-
- ## Choly's Blog
- - [https://choly.ca](https://choly.ca)
- - date_published: 2024-03-26T02:08:40.229638+00:00
- - tags: ['devlog', 'personal']
-
- ## Alemany and Jensen Family Mastodon
- - [https://mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca)
- - date_published: 2024-06-23T17:15:02.754829+00:00
-
- ## Home Page | Christmas Cheer Board
- - [https://www.christmascheerboard.ca](https://www.christmascheerboard.ca)
- - date_published: 2024-06-19T09:54:25+00:00
-
- ## Discover Chrysler Canada | Chrysler Canada
- - [https://www.chrysler.ca](https://www.chrysler.ca)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Personal Banking and Financial Services | CIBC
- - [https://www.cibc.ca](https://www.cibc.ca)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Home - CIFAR
- - [https://cifar.ca](https://cifar.ca)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## CIFST | Canadian Institute of Food Science & Technology
- - [https://cifst.ca](https://cifst.ca)
- - date_published: 2024-05-01T07:56:02.118511+00:00
-
- ## Canadian Institute for Health Information | CIHI
- - [https://www.cihi.ca](https://www.cihi.ca)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Your Health System | CIHI
- - [https://yourhealthsystem.cihi.ca](https://yourhealthsystem.cihi.ca)
- - date_published: 2024-06-22T15:55:03.262223+00:00
-
- ## Canadian Investor Protection Fund
- - [https://www.cipf.ca](https://www.cipf.ca)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Canadian Internet Registration Authority | CIRA
- - [https://cira.ca](https://cira.ca)
- - date_published: 2024-06-16T06:39:52.870868+00:00
-
- ## Canadian Internet Registration Authority | CIRA
- - [https://www.cira.ca](https://www.cira.ca)
- - date_published: 2024-05-14T03:51:57.753150+00:00
-
- ## Homepage
- - [http://www.ciro.ca](http://www.ciro.ca)
- - date_published: 2022-10-12T19:35:27+00:00
-
- ## The Citizen Lab - University of Toronto
- - [https://citizenlab.ca](https://citizenlab.ca)
- - date_published: 2023-10-25T12:09:16.663748+00:00
- - tags: ['human rights', 'privacy']
-
- ## Breaking News | Top Local Stories | CityNews Calgary
- - [https://calgary.citynews.ca](https://calgary.citynews.ca)
- - date_published: 2024-01-14T14:56:16.599498+00:00
- - tags: ['canada', 'news']
-
- ## Breaking News | Top Local Stories | CityNews Montreal
- - [https://montreal.citynews.ca](https://montreal.citynews.ca)
- - date_published: 2023-11-05T06:28:16.282544+00:00
-
- ## Breaking News | Top Local Stories | CityNews Toronto
- - [https://toronto.citynews.ca](https://toronto.citynews.ca)
- - date_published: 2023-12-04T13:48:22.408481+00:00
-
- ## Breaking News | Top Local Stories | CityNews Vancouver
- - [https://vancouver.citynews.ca](https://vancouver.citynews.ca)
- - date_published: 2023-12-23T07:31:06.657092+00:00
-
- ## TORSTAR Classroom Connection
- - [https://www.classroomconnection.ca](https://www.classroomconnection.ca)
- - date_published: 2024-05-06T14:31:08.747813+00:00
-
- ## Canada's #1 Glasses and Contact Lenses Store | Clearly
- - [https://www.clearly.ca](https://www.clearly.ca)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Learn about the Climate Change discussion | Climate Change 101
- - [http://www.climatechange101.ca](http://www.climatechange101.ca)
- - date_published: 2024-06-15T09:05:08.951304+00:00
-
- ## Canadian Climate Institute: Climate Change Canada Policy Research
- - [https://climateinstitute.ca](https://climateinstitute.ca)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Workload-Optimized Cloud Services - IaaS | Hypertec Cloud
- - [https://cloud.ca](https://cloud.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## CMAJ
- - [https://www.cmaj.ca](https://www.cmaj.ca)
- - date_published: 2023-10-25T10:45:45.207661+00:00
-
- ## CN - Transportation Services - Rail Shipping, Intermodal, trucking, warehousing and international transportation
- - [https://www.cn.ca](https://www.cn.ca)
- - date_published: 2024-06-19T09:55:44.749736+00:00
-
- ## CNMC - Le Conseil national des musulmans Canadiens
- - [https://cnmc.ca](https://cnmc.ca)
- - date_published: 2024-06-13T17:07:16+00:00
-
- ## Town of Cochrane
- - [https://www.cochrane.ca](https://www.cochrane.ca)
- - date_published: 2024-06-27T09:00:11+00:00
-
- ## Cochrane News - Daily Local News for Cochrane, Alberta
- - [https://www.cochraneeagle.ca](https://www.cochraneeagle.ca)
- - date_published: 2024-04-28T05:10:01.422489+00:00
-
- ## Cochrane News - Daily Local News for Cochrane, Alberta
- - [https://www.cochranetoday.ca](https://www.cochranetoday.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Cocoon | Tailored for you
- - [https://www.cocoonapp.ca](https://www.cocoonapp.ca)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Colorprinter - Colorprinter©
- - [https://colorprinter.ca](https://colorprinter.ca)
- - date_published: 2024-02-04T18:52:43+00:00
-
- ## CRC - Home Page / Accueil
- - [http://www.committeerepubliccanada.ca](http://www.committeerepubliccanada.ca)
- - date_published: 2024-05-11T08:05:30.094739+00:00
-
- ## Life Insurance Quotes | Insurance Broker | Comox Valley BC
- - [https://www.comoxvalleylifeinsurance.ca](https://www.comoxvalleylifeinsurance.ca)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Status | Alliance
- - [https://www.computecanada.ca](https://www.computecanada.ca)
- - date_published: 2022-04-01T00:00:00+00:00
-
- ## Hybrid
- - [https://hybrid.concordia.ca](https://hybrid.concordia.ca)
- - date_published: 2024-05-09T08:13:39.781018+00:00
-
- ## Concordia University
- - [https://www.concordia.ca](https://www.concordia.ca)
- - date_published: 2023-10-25T11:21:43.402681+00:00
-
- ## Travel Expense Management - SAP Concur
- - [https://www.concur.ca](https://www.concur.ca)
- - date_published: 2024-05-01T04:19:36.238347+00:00
-
- ## Montreal 2024 | ConFoo.ca
- - [https://confoo.ca](https://confoo.ca)
- - date_published: 2024-04-29T06:28:37.246643+00:00
-
- ## Consumed by Ink
- - [https://consumedbyink.ca](https://consumedbyink.ca)
- - date_published: 2024-06-15T10:20:10.347161+00:00
-
- ## Law Practice Management Software | CosmoLex Canada
- - [https://www.cosmolex.ca](https://www.cosmolex.ca)
- - date_published: 2019-12-19T01:55:27+00:00
-
- ## Welcome! - CoSocial Community Cooperative
- - [https://blog.cosocial.ca](https://blog.cosocial.ca)
- - date_published: 2023-04-07T21:25:17+00:00
-
- ## CoSocial
- - [https://cosocial.ca](https://cosocial.ca)
- - date_published: 2024-05-06T14:49:26.495813+00:00
-
- ## Canada's Marketplace for Education | CourseCompare.ca
- - [https://www.coursecompare.ca](https://www.coursecompare.ca)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## CPAC.ca
- - [https://www.cpac.ca](https://www.cpac.ca)
- - date_published: 2024-06-27T11:51:46.269941+00:00
-
- ## CPA Canada
- - [https://www.cpacanada.ca](https://www.cpacanada.ca)
- - date_published: 2024-06-16T00:56:48.372499+00:00
-
- ## Protecting and promoting the health and well-being of children and youth | Canadian Paediatric Society
- - [https://cps.ca](https://cps.ca)
- - date_published: 2024-01-26T10:31:49.585956+00:00
-
- ## CreativePEI – A catalyst for Prince Edward Island's Creative Industries
- - [https://creativepei.ca](https://creativepei.ca)
- - date_published: 2024-05-08T09:06:34.258869+00:00
-
- ## Credit Karma Customer Community
- - [https://support.creditkarma.ca](https://support.creditkarma.ca)
- - date_published: 2023-06-17T06:10:52+00:00
-
- ## Credit Karma
- - [https://www.creditkarma.ca](https://www.creditkarma.ca)
- - date_published: 2024-05-31T20:19:05.638595+00:00
-
- ## CRRS Publications
- - [https://pubs.crrs.ca](https://pubs.crrs.ca)
- - date_published: 2024-06-26T21:36:12.691806+00:00
-
- ## CryptoChicks – Blockchain, AI, Programming and Emerging Tech Education For Women
- - [https://cryptochicks.ca](https://cryptochicks.ca)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Cryptoducation  is  L3arn.BTC – Education & Consulting Services about Bitcoin
- - [https://cryptoducation.ca](https://cryptoducation.ca)
- - date_published: 2024-06-16T04:17:56.482247+00:00
-
- ## Canadian Society of Christian Philosophers
- - [https://cscp-scpc.ca](https://cscp-scpc.ca)
- - date_published: 2024-06-17T03:01:27.690326+00:00
-
- ## Charles T. Low - ctLow
- - [http://www.ctlow.ca](http://www.ctlow.ca)
- - date_published: 2024-05-08T03:03:35.869469+00:00
-
- ## CTV | Extras
- - [https://more.ctv.ca](https://more.ctv.ca)
- - date_published: 2024-05-10T02:41:39.983330+00:00
-
- ## https://www.ctv.ca
- - [https://www.ctv.ca](https://www.ctv.ca)
- - date_published: 2023-12-12T08:41:11.546084+00:00
-
- ## Bell Media Account
- - [https://account.ctvnews.ca](https://account.ctvnews.ca)
- - date_published: 2024-05-09T09:25:16.287600+00:00
-
- ## Atlantic News | Local Breaking | CTV News Atlantic
- - [https://atlantic.ctvnews.ca](https://atlantic.ctvnews.ca)
- - date_published: 2023-12-12T08:42:19.488706+00:00
-
- ## Barrie News | Local Breaking | CTV News Barrie
- - [https://barrie.ctvnews.ca](https://barrie.ctvnews.ca)
- - date_published: 2023-12-12T08:40:59.543668+00:00
-
- ## Vancouver News | Local Breaking | CTV News Vancouver
- - [https://bc.ctvnews.ca](https://bc.ctvnews.ca)
- - date_published: 2023-10-25T10:55:57.032920+00:00
-
- ## Calgary News | Local Breaking | CTV News Calgary
- - [https://calgary.ctvnews.ca](https://calgary.ctvnews.ca)
- - date_published: 2023-12-12T09:06:04.685094+00:00
-
- ## CTV News - Breaking News, Canada News Today
- - [https://ctvnews.ca](https://ctvnews.ca)
- - date_published: 2023-12-12T09:06:16.335891+00:00
-
- ## Edmonton News | CTV News | Edmonton Weather
- - [https://edmonton.ctvnews.ca](https://edmonton.ctvnews.ca)
- - date_published: 2023-12-12T08:42:34.458083+00:00
-
- ## Kitchener News | Local Breaking | CTV News Kitchener
- - [https://kitchener.ctvnews.ca](https://kitchener.ctvnews.ca)
- - date_published: 2023-12-12T09:06:38.784881+00:00
-
- ## London News | Weather & Local Breaking | CTV News London
- - [https://london.ctvnews.ca](https://london.ctvnews.ca)
- - date_published: 2023-10-25T10:52:18.091793+00:00
-
- ## Montreal News | Local Breaking | CTV News Montreal
- - [https://montreal.ctvnews.ca](https://montreal.ctvnews.ca)
- - date_published: 2023-11-09T19:00:28.953347+00:00
-
- ## Northern Ontario News | Local Breaking | CTV News Northern Ontario
- - [https://northernontario.ctvnews.ca](https://northernontario.ctvnews.ca)
- - date_published: 2023-12-12T08:40:48.811443+00:00
-
- ## Ottawa News | Local Breaking | CTV News Ottawa
- - [https://ottawa.ctvnews.ca](https://ottawa.ctvnews.ca)
- - date_published: 2023-10-25T10:56:04.116973+00:00
-
- ## Regina News | Regina Weather | CTV News Regina
- - [https://regina.ctvnews.ca](https://regina.ctvnews.ca)
- - date_published: 2023-12-12T08:42:43.297708+00:00
-
- ## Saskatoon News | Local Breaking | CTV News Saskatoon
- - [https://saskatoon.ctvnews.ca](https://saskatoon.ctvnews.ca)
- - date_published: 2023-12-12T08:41:36.159326+00:00
-
- ## Access Denied
- - [https://stats.ctvnews.ca](https://stats.ctvnews.ca)
- - date_published: 2023-12-12T08:41:53.588641+00:00
-
- ## Toronto News | Breaking News | CTV News Toronto
- - [https://toronto.ctvnews.ca](https://toronto.ctvnews.ca)
- - date_published: 2023-10-25T10:56:11.669804+00:00
-
- ## Victoria News | Local Breaking | CTV News Vancouver Island
- - [https://vancouverisland.ctvnews.ca](https://vancouverisland.ctvnews.ca)
- - date_published: 2023-12-12T09:06:50.809150+00:00
-
- ## Windsor News | Local Breaking | CTV News Windsor
- - [https://windsor.ctvnews.ca](https://windsor.ctvnews.ca)
- - date_published: 2023-12-12T09:06:32.505848+00:00
-
- ## Winnipeg News | CTV News Winnipeg
- - [https://winnipeg.ctvnews.ca](https://winnipeg.ctvnews.ca)
- - date_published: 2023-12-12T09:06:26.016061+00:00
-
- ## CTV News - Breaking News, Canada News Today
- - [https://www.ctvnews.ca](https://www.ctvnews.ca)
- - date_published: 2023-12-07T21:20:38.599780+00:00
- - tags: ['canada news']
-
- ## Cypherpunks Canada
- - [https://cypherpunks.ca](https://cypherpunks.ca)
- - date_published: 2023-11-06T12:33:33.276999+00:00
-
- ## Daily Guardian | Latest Canada News and Updates
- - [https://dailyguardian.ca](https://dailyguardian.ca)
- - date_published: 2021-01-13T21:29:55+00:00
-
- ## Dalhousie University ‑ Nova Scotia, Canada
- - [https://www.dal.ca](https://www.dal.ca)
- - date_published: 2023-10-25T12:09:24.220580+00:00
-
- ## Daniel Frank – Frankly Speaking
- - [https://danfrank.ca](https://danfrank.ca)
- - date_published: 2024-06-19T02:11:12.251966+00:00
-
- ## Dan Millar
- - [https://danmillar.ca](https://danmillar.ca)
- - date_published: 2024-04-08T09:33:51.903896+00:00
- - tags: ['personal']
-
- ## danso - home
- - [https://danso.ca](https://danso.ca)
- - date_published: 2024-04-07T15:12:43+00:00
-
- ## Daniel Chan: searching for counterworlds
- - [https://danwchan.ca](https://danwchan.ca)
- - date_published: 2024-05-09T08:18:02.215738+00:00
 

@@ -1,3 +1,48 @@
+ ## Manage large scale Juju deployments with Jaas | Juju
+ - [https://jaas.ai](https://jaas.ai)
+ - date_published: 2024-05-23T02:48:01.556101+00:00
+
+ ## Online tutoring with the help of artificial intelligence
+ - [https://www.jagoda.ai](https://www.jagoda.ai)
+ - date_published: 2024-06-19T19:54:11.585874+00:00
+
+ ## Open-Source ChatGPT Alternative Jan
+ - [https://jan.ai](https://jan.ai)
+ - date_published: 2024-01-01T23:10:57+00:00
+ - tags: ['artificial intelligence bot', 'artificial intelligence']
+
+ ## Nitro: A fast, lightweight 3MB inference server with OpenAI-Compatible API
+ - [https://nitro.jan.ai](https://nitro.jan.ai)
+ - date_published: 2024-01-06T01:50:14+00:00
+
+ ## Jaq & Jil - AI Writing Assistant
+ - [https://jaqnjil.ai](https://jaqnjil.ai)
+ - date_published: 2024-02-13T02:03:33+00:00
+
+ ## Jasper | AI copilot for enterprise marketing teams
+ - [https://jasper.ai](https://jasper.ai)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Jasper | AI copilot for enterprise marketing teams
+ - [https://www.jasper.ai](https://www.jasper.ai)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## JECT.AI |
+ - [https://ject.ai](https://ject.ai)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Generative AI Workspace for Visual Productivity — Jeda.ai
+ - [https://www.jeda.ai](https://www.jeda.ai)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Jenni AI
+ - [https://jenni.ai](https://jenni.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Try to impeach this? Challenge accepted!
+ - [https://try-to-impeach-this.jetpack.ai](https://try-to-impeach-this.jetpack.ai)
+ - date_published: 2024-04-29T02:30:12.597510+00:00
+
  ## BestBanner - Text to Banners, No Prompts Needed!
  - [https://bestbanner.jina.ai](https://bestbanner.jina.ai)
  - date_published: 2024-02-28T06:32:17+00:00
@@ -73,6 +118,10 @@
  ## Create AI Characters and Chat with AI
  - [https://kajiwoto.ai](https://kajiwoto.ai)
  - date_published: 2024-06-19T19:39:47.862236+00:00
+
+ ## Kakao i 브랜드 사이트
+ - [https://kakao.ai](https://kakao.ai)
+ - date_published: 2024-06-28T15:31:36.419394+00:00
 
  ## Kalami
  - [https://kalami.ai](https://kalami.ai)
@@ -935,6 +984,10 @@
  - [https://modelz.ai](https://modelz.ai)
  - date_published: 2023-10-25T11:40:34.578938+00:00
 
+ ## Modulate | Leader in the Fight Against Toxic Online Behavior
+ - [https://www.modulate.ai](https://www.modulate.ai)
+ - date_published: 2024-06-27T00:00:00+00:00
+
  ## Moises App: The Musician's App | Vocal Remover & much more
  - [https://moises.ai](https://moises.ai)
  - date_published: 2024-06-14T08:52:34.804959+00:00
@@ -1015,6 +1068,10 @@
  ## AI Voice Generator: Versatile Text to Speech Software | Murf AI
  - [https://murf.ai](https://murf.ai)
  - date_published: 2023-10-25T11:40:41.933283+00:00
+
+ ## muse.ai | Next-gen video hosting with the most advanced in-video search
+ - [https://muse.ai](https://muse.ai)
+ - date_published: 2024-06-28T23:41:55.062267+00:00
 
  ## mutable.ai
  - [https://mutable.ai](https://mutable.ai)
@@ -1443,6 +1500,10 @@
  ## Olivia
  - [https://stg.paradox.ai](https://stg.paradox.ai)
  - date_published: 2024-06-18T13:52:20.421988+00:00
+
+ ## Parafin – AI-Powered Real Estate Development
+ - [http://parafin.ai](http://parafin.ai)
+ - date_published: 2024-06-28T13:23:08.771801+00:00
 
  ## Trusted Vision AI | Paravision
  - [https://www.paravision.ai](https://www.paravision.ai)
@@ -2591,8 +2652,16 @@
  - [https://www.silo.ai](https://www.silo.ai)
  - date_published: 2024-05-15T00:00:00+00:00
 
+ ## Overview – Siml.ai Documentation
+ - [https://docs.siml.ai](https://docs.siml.ai)
+ - date_published: 2024-06-28T10:55:41.532890+00:00
+
+ ## Siml.ai - platform for AI-driven engineering and science
+ - [https://platform.siml.ai](https://platform.siml.ai)
+ - date_published: 2024-06-28T10:55:46.766454+00:00
+
  ## Siml.ai - Platform for fast AI-driven physics simulations
- - [http://siml.ai](http://siml.ai)
+ - [https://siml.ai](https://siml.ai)
  - date_published: 2024-05-06T22:32:04.949047+00:00
 
  ## Create a Simple Blog in seconds, Post From Google Docs, Office 365.
@@ -3026,6 +3095,10 @@
  ## Fast Alternative for Medium and Wordpress Blogs
  - [https://www.supertranslate.ai](https://www.supertranslate.ai)
  - date_published: 2024-06-19T19:34:25.155691+00:00
+
+ ## Model Observability Platform | Observe, Monitor & Improve ML
+ - [https://superwise.ai](https://superwise.ai)
+ - date_published: 2024-05-06T00:00:00+00:00
 
  ## AI Support Agent for Help Scout
  - [https://www.supportagent.ai](https://www.supportagent.ai)
@@ -3964,78 +4037,4 @@ Creative Solutions
  ## Free Video Knowledge Base Software | WowTo
  - [https://wowto.ai](https://wowto.ai)
  - date_published: 2024-02-22T14:07:16+00:00
-
- ## WriteGPT: Your AI-Driven Development Partner
- - [https://writegpt.ai](https://writegpt.ai)
- - date_published: 2024-02-08T17:00:55+00:00
-
- ## WriteHuman: Undetectable AI and AI Humanizer
- - [https://writehuman.ai](https://writehuman.ai)
- - date_published: 2024-06-14T08:56:27.190198+00:00
-
- ## Writemail
- - [https://app.writemail.ai](https://app.writemail.ai)
- - date_published: 2024-06-27T10:54:12.929534+00:00
-
- ## WriteMail.ai: Effortless Email Composition AI Tool for Enhanced Productivity
- - [https://writemail.ai](https://writemail.ai)
- - date_published: 2024-05-06T21:05:18.784038+00:00
-
- ## WriteMe.ai - Ai Writer - Your Personal Content Writing Assistant & Creator
- - [https://writeme.ai](https://writeme.ai)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## writeout.ai – Transcribe and translate any audio file
- - [https://writeout.ai](https://writeout.ai)
- - date_published: 2023-10-25T11:45:07.277649+00:00
-
- ## WriterBuddy - Write Better Content Faster With AI
- - [https://writerbuddy.ai](https://writerbuddy.ai)
- - date_published: 2024-06-19T21:35:50.055685+00:00
-
- ## AI Music Visualizer
- - [https://wzrd.ai](https://wzrd.ai)
- - date_published: 2024-06-19T20:38:04.225020+00:00
-
- ## Announcing Grok
- - [https://x.ai](https://x.ai)
- - date_published: 2023-11-06T17:18:02.778679+00:00
- - tags: ['artificial intelligence']
-
- ## Xanadu | Welcome to Xanadu
- - [https://www.xanadu.ai](https://www.xanadu.ai)
- - date_published: 2024-05-04T15:29:08.742243+00:00
-
- ## Onward - A Platform for Change
- - [https://xeek.ai](https://xeek.ai)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Xinva AI - Design with AI
- - [https://xinva.ai](https://xinva.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Xin Wang's Personal Homepage
- - [https://xinw.ai](https://xinw.ai)
- - date_published: 2024-06-07T02:02:44.950947+00:00
- - tags: ['personal']
-
- ## Welcome to xChat: Empower Your Workflow with AI
- - [https://www.xmagic.ai](https://www.xmagic.ai)
- - date_published: 2024-06-19T11:52:46+00:00
-
- ## Hosted by Qoddi
- - [https://xno.ai](https://xno.ai)
- - date_published: 2024-06-19T18:00:01+00:00
-
- ## xpln.ai - Improve the efficiency of your digital advertising campaigns
- - [https://en.xpln.ai](https://en.xpln.ai)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## xpln.ai - Améliorez l’efficacité de vos campagnes publicitaires digitales
- - [https://xpln.ai](https://xpln.ai)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Yaara - Unlock Your Writing Potential
- - [https://yaara.ai](https://yaara.ai)
- - date_published: 2024-06-19T19:41:25.362692+00:00
 

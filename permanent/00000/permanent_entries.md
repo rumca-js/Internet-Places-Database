@@ -295,6 +295,10 @@
  - [https://dxh.ae](https://dxh.ae)
  - date_published: 2024-06-18T10:53:44.195802+00:00
 
+ ## Emirates Society for Rheumatology – The Emirates Society for Rheumatology (ESR) is a leading specialist medical society which aims to bring innovative information about rheumatic diseases. We support our members to help deliver the best care for their patients, to improve the lives of children and adults with rheumatic and musculoskeletal disease.
+ - [http://www.esr.ae](http://www.esr.ae)
+ - date_published: 2024-06-28T11:57:21.878771+00:00
+
  ## Experian Middle East
  - [https://www.experian.ae](https://www.experian.ae)
  - date_published: 2024-06-25T21:32:28.550400+00:00
@@ -399,6 +403,10 @@
  ## OUNASS UAE | The Definitive Home of Luxury
  - [https://www.ounass.ae](https://www.ounass.ae)
  - date_published: 2024-06-20T13:45:52.165875+00:00
+
+ ## تطوير و إجراء اختبارات محوسبة :: بيرسون فيو
+ - [https://www.pearsonvue.ae](https://www.pearsonvue.ae)
+ - date_published: 2024-06-28T12:46:21.788382+00:00
 
  ## Cierpliwości...
  - [https://qr.ae](https://qr.ae)
@@ -520,6 +528,10 @@
  - [https://www.nats.aero](https://www.nats.aero)
  - date_published: 2024-06-18T09:55:15.481007+00:00
 
+ ## Home page
+ - [https://www.navblue.aero](https://www.navblue.aero)
+ - date_published: 2024-03-13T00:00:00+00:00
+
  ## Parken im Flughafen | Park.Aero
  - [https://eurowings.park.aero](https://eurowings.park.aero)
  - date_published: 2024-06-16T16:24:42.722438+00:00
@@ -555,7 +567,7 @@
  - date_published: 2024-05-28T00:00:00+00:00
 
  ## Home - Afghan Telecom
- - [https://www.afghantelecom.af](https://www.afghantelecom.af)
+ - [https://afghantelecom.af](https://afghantelecom.af)
  - date_published: 2024-05-06T22:25:57.024124+00:00
 
  ## Smooth Shadow
@@ -618,6 +630,10 @@
  ## Gumzo (Mastodon)
  - [https://gumzo.africa](https://gumzo.africa)
  - date_published: 2024-06-23T17:13:59.738348+00:00
+
+ ## Forum on Internet Freedom in Africa (FIFAFRICA) – Growing the #InternetFreedomAfrica Community
+ - [https://internetfreedom.africa](https://internetfreedom.africa)
+ - date_published: 2024-06-28T21:41:21.616526+00:00
 
  ## ITWeb Africa | Business Technology News
  - [https://itweb.africa](https://itweb.africa)
@@ -812,6 +828,10 @@
  ## Naslovna | Želiš pune apartmane u sezoni? | Litto za Partnere
  - [https://www.litto.agency](https://www.litto.agency)
  - date_published: 2024-06-16T04:19:54.092741+00:00
+
+ ## eCommerce Web Development & Consulting Agency
+ - [https://www.magecloud.agency](https://www.magecloud.agency)
+ - date_published: 2024-06-26T00:00:00+00:00
 
  ## Paranoid.Agency
  - [https://paranoid.agency](https://paranoid.agency)
@@ -1641,6 +1661,10 @@
  - [https://www.browse.ai](https://www.browse.ai)
  - date_published: 2024-06-14T08:53:43.132514+00:00
 
+ ## BrXnd Dispatch  | Noah Brier | Substack
+ - [https://newsletter.brxnd.ai](https://newsletter.brxnd.ai)
+ - date_published: 2024-06-28T16:41:14.507225+00:00
+
  ## Buildel
  - [https://buildel.ai](https://buildel.ai)
  - date_published: 2024-04-29T07:45:48.255534+00:00
@@ -1820,6 +1844,10 @@
  ## ChartMyLife
  - [https://chartmylife.ai](https://chartmylife.ai)
  - date_published: 2023-12-29T13:41:49+00:00
+
+ ## ChatDB | Build dashboards for your database with AI
+ - [https://www.chatdb.ai](https://www.chatdb.ai)
+ - date_published: 2024-06-28T08:50:30.580243+00:00
 
  ## ChatDev.ai | ai agent
  - [https://chatdev.ai](https://chatdev.ai)
@@ -2252,6 +2280,10 @@ Welcome
  - [https://app.copysmith.ai](https://app.copysmith.ai)
  - date_published: 2023-11-22T14:56:50+00:00
 
+ ## Homepage - Copysmith
+ - [https://copysmith.ai](https://copysmith.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
  ## Coqui
  - [https://coqui.ai](https://coqui.ai)
  - date_published: 2023-10-25T09:07:21.416755+00:00
@@ -2426,6 +2458,10 @@ Welcome
  ## Dash AI: Enterprise AI Knowledge Assistant | Dashworks.ai
  - [https://www.dashworks.ai](https://www.dashworks.ai)
  - date_published: 2023-10-25T11:37:54.337559+00:00
+
+ ## data.ai | Community
+ - [https://community.data.ai](https://community.data.ai)
+ - date_published: 2024-06-28T00:00:00+00:00
 
  ## Mobile Market Data and App Insights | data.ai (fka App Annie)
  - [http://data.ai](http://data.ai)
@@ -3009,6 +3045,10 @@ Welcome
  - [https://course.fast.ai](https://course.fast.ai)
  - date_published: 2023-10-25T11:38:36.146725+00:00
 
+ ## fast.ai - fast.ai—Making neural nets uncool again
+ - [http://fast.ai](http://fast.ai)
+ - date_published: 2024-02-29T06:55:23+00:00
+
  ## nbdev – Create delightful software with Jupyter Notebooks
  - [https://nbdev.fast.ai](https://nbdev.fast.ai)
  - date_published: 2023-10-25T11:38:37.601075+00:00
@@ -3514,8 +3554,12 @@ Welcome
  - [https://www.graphable.ai](https://www.graphable.ai)
  - date_published: 2021-05-07T09:42:30+00:00
 
+ ## Graphcore Documents — Graphcore Documents
+ - [https://docs.graphcore.ai](https://docs.graphcore.ai)
+ - date_published: 2024-02-26T13:27:00+00:00
+
  ## Graphcore: Accelerating machine learning in the cloud
- - [https://www.graphcore.ai](https://www.graphcore.ai)
+ - [https://graphcore.ai](https://graphcore.ai)
  - date_published: 2024-05-06T22:31:58.603758+00:00
 
  ## Graphica Studio â€“Â Brand &amp; Product Design
@@ -3987,49 +4031,4 @@ Welcome
  ## Remember Recall Reuse Your Knowledge | iWeaver AI Memory Tool
  - [https://www.iweaver.ai](https://www.iweaver.ai)
  - date_published: 2024-06-27T10:52:09.406543+00:00
-
- ## Manage large scale Juju deployments with Jaas | Juju
- - [https://jaas.ai](https://jaas.ai)
- - date_published: 2024-05-23T02:48:01.556101+00:00
-
- ## Online tutoring with the help of artificial intelligence
- - [https://www.jagoda.ai](https://www.jagoda.ai)
- - date_published: 2024-06-19T19:54:11.585874+00:00
-
- ## Open-Source ChatGPT Alternative Jan
- - [https://jan.ai](https://jan.ai)
- - date_published: 2024-01-01T23:10:57+00:00
- - tags: ['artificial intelligence bot', 'artificial intelligence']
-
- ## Nitro: A fast, lightweight 3MB inference server with OpenAI-Compatible API
- - [https://nitro.jan.ai](https://nitro.jan.ai)
- - date_published: 2024-01-06T01:50:14+00:00
-
- ## Jaq & Jil - AI Writing Assistant
- - [https://jaqnjil.ai](https://jaqnjil.ai)
- - date_published: 2024-02-13T02:03:33+00:00
-
- ## Jasper | AI copilot for enterprise marketing teams
- - [https://jasper.ai](https://jasper.ai)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Jasper | AI copilot for enterprise marketing teams
- - [https://www.jasper.ai](https://www.jasper.ai)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## JECT.AI |
- - [https://ject.ai](https://ject.ai)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Generative AI Workspace for Visual Productivity — Jeda.ai
- - [https://www.jeda.ai](https://www.jeda.ai)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Jenni AI
- - [https://jenni.ai](https://jenni.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Try to impeach this? Challenge accepted!
- - [https://try-to-impeach-this.jetpack.ai](https://try-to-impeach-this.jetpack.ai)
- - date_published: 2024-04-29T02:30:12.597510+00:00
 
