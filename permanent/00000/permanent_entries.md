@@ -85,6 +85,10 @@
  - [https://acoding.academy](https://acoding.academy)
  - date_published: 2024-05-09T00:00:00+00:00
 
+ ## Alcor Academy
+ - [https://alcor.academy](https://alcor.academy)
+ - date_published: 2024-06-29T22:44:00.344421+00:00
+
  ## Ancient Wisdom Courses
  - [https://www.ancientwisdom.academy](https://www.ancientwisdom.academy)
  - date_published: 2024-05-10T09:09:32.718345+00:00
@@ -101,6 +105,10 @@
  - [https://guide.bash.academy](https://guide.bash.academy)
  - date_published: 2024-04-25T10:50:47+00:00
  - tags: ['bash']
+
+ ## DDD Academy - Domain-Driven Design courses
+ - [https://ddd.academy](https://ddd.academy)
+ - date_published: 2024-06-29T01:10:43+00:00
 
  ## Home | epicenter.academy
  - [https://epicenter.academy](https://epicenter.academy)
@@ -170,6 +178,10 @@
  ## The Digital Cat Academy
  - [https://www.thedigitalcat.academy](https://www.thedigitalcat.academy)
  - date_published: 2023-12-11T19:04:23.141198+00:00
+
+ ## TheSign - Comics & Arts Academy Firenze
+ - [https://thesign.academy](https://thesign.academy)
+ - date_published: 2024-06-29T04:21:49+00:00
 
  ## WebGL Academy
  - [http://webgl.academy](http://webgl.academy)
@@ -439,6 +451,10 @@
  ## Welcome – Thomann United Arab Emirates
  - [https://www.thomann.ae](https://www.thomann.ae)
  - date_published: 2023-10-25T11:36:13.551700+00:00
+
+ ## Psychologist in Dubai | Thrive Wellbeing | Dr. Sarah Rasmi
+ - [https://www.thrive.ae](https://www.thrive.ae)
+ - date_published: 2024-06-29T19:12:36.817678+00:00
 
  ## Falcon LLM
  - [https://falconllm.tii.ae](https://falconllm.tii.ae)
@@ -729,6 +745,11 @@
  - [https://actual.agency](https://actual.agency)
  - date_published: 2024-06-25T00:00:00+00:00
 
+ ## Adopta Agency 
+    Adopta Agency
+ - [http://adopta.agency](http://adopta.agency)
+ - date_published: 2018-01-07T00:03:48+00:00
+
  ## index
  - [https://arcades.agency](https://arcades.agency)
  - date_published: 2024-05-09T07:47:08.750519+00:00
@@ -812,6 +833,10 @@
  ## Julia Camino. Management & Booking Agency.
  - [http://julia.agency](http://julia.agency)
  - date_published: 2024-05-07T19:02:49.657928+00:00
+
+ ## KOBU Agency Insights aka Newsletter
+ - [https://insights.kobu.agency](https://insights.kobu.agency)
+ - date_published: 2024-06-29T11:56:10.622528+00:00
 
  ## KOBU Agency - A Laboratory for Brands and Digital Experiences
  - [https://kobu.agency](https://kobu.agency)
@@ -1074,6 +1099,10 @@
  ## Alethea AI - Enabling Ownership of Generative AI
  - [https://alethea.ai](https://alethea.ai)
  - date_published: 2024-05-15T10:41:50+00:00
+
+ ## Aloud - dubbing for everyone
+ - [https://aloud.ai](https://aloud.ai)
+ - date_published: 2024-06-29T22:47:05.566410+00:00
 
  ## alphaMountain | Domain Threat Intel, IP Reputation & Classification
  - [https://www.alphamountain.ai](https://www.alphamountain.ai)
@@ -1845,6 +1874,10 @@
  - [https://chartmylife.ai](https://chartmylife.ai)
  - date_published: 2023-12-29T13:41:49+00:00
 
+ ## TeamAI - A better ChatGPT for you & your team
+ - [https://app.chatabc.ai](https://app.chatabc.ai)
+ - date_published: 2024-06-29T16:43:12.684142+00:00
+
  ## ChatDB | Build dashboards for your database with AI
  - [https://www.chatdb.ai](https://www.chatdb.ai)
  - date_published: 2024-06-28T08:50:30.580243+00:00
@@ -2506,6 +2539,10 @@ Welcome
  - [https://www.deciphr.ai](https://www.deciphr.ai)
  - date_published: 2024-06-19T19:35:28.500310+00:00
 
+ ## Decision Point – The Analytics Think Tank
+ - [https://latam.decisionpoint.ai](https://latam.decisionpoint.ai)
+ - date_published: 2024-06-29T04:46:51.520276+00:00
+
  ## Home | DeepFiction
  - [https://www.deepfiction.ai](https://www.deepfiction.ai)
  - date_published: 2024-06-27T10:52:21.442731+00:00
@@ -2854,6 +2891,10 @@ Welcome
  ## Emergence AI
  - [https://www.emergence.ai](https://www.emergence.ai)
  - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Automated Language Testing | Emmersion
+ - [https://emmersion.ai](https://emmersion.ai)
+ - date_published: 2024-06-29T19:36:34.420790+00:00
 
  ## Energy Monitor - Inside the global transition to net zero
  - [https://www.energymonitor.ai](https://www.energymonitor.ai)
@@ -3399,7 +3440,7 @@ Welcome
  - date_published: 2024-05-07T10:33:27.377930+00:00
 
  ## Recall - Summarize and save any online content
- - [https://www.getrecall.ai](https://www.getrecall.ai)
+ - [https://getrecall.ai](https://getrecall.ai)
  - date_published: 2024-05-07T10:33:23.375476+00:00
 
  ## Revamp: Smarter Customer Segmentation for eCommerce
@@ -3990,45 +4031,4 @@ Welcome
  ## Interior decorator AI | InteriorDecorator.ai
  - [https://interiordecorator.ai](https://interiordecorator.ai)
  - date_published: 2024-06-19T19:25:31.102205+00:00
-
- ## Interviews by AI | AI-powered Interview Preparation
- - [https://interviewsby.ai](https://interviewsby.ai)
- - date_published: 2024-06-19T19:27:28.574718+00:00
-
- ## Home | Intrinsic
- - [https://intrinsic.ai](https://intrinsic.ai)
- - date_published: 2024-04-29T03:49:09.044137+00:00
-
- ## Intrinsic
- - [http://www.intrinsic.ai](http://www.intrinsic.ai)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Grammar Builder
- - [https://grammar.intrinsiclabs.ai](https://grammar.intrinsiclabs.ai)
- - date_published: 2023-10-25T11:39:32.215737+00:00
-
- ## Inworld: AI-powered gameplay
- - [https://www.inworld.ai](https://www.inworld.ai)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Home
- - [https://www.inzura.ai](https://www.inzura.ai)
- - date_published: 2024-02-08T17:35:44.312771+00:00
-
- ## Ipso AI
- - [https://ipso.ai](https://ipso.ai)
- - date_published: 2024-04-04T16:25:46+00:00
-
- ## Iris.ai - Your Researcher Workspace – Leading AI for your research challenge
- - [https://iris.ai](https://iris.ai)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Hello
- - [https://islamov.ai](https://islamov.ai)
- - date_published: 2023-10-25T09:01:03.717603+00:00
- - tags: ['personal']
-
- ## Remember Recall Reuse Your Knowledge | iWeaver AI Memory Tool
- - [https://www.iweaver.ai](https://www.iweaver.ai)
- - date_published: 2024-06-27T10:52:09.406543+00:00
 

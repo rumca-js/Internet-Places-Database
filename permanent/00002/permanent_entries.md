@@ -1,3 +1,83 @@
+ ## Wizzy for Shopify
+ - [https://shopify-app.wizzy.ai](https://shopify-app.wizzy.ai)
+ - date_published: 2024-06-15T20:22:59.465481+00:00
+
+ ## WNR.AI: The best in conversational AI
+ - [https://wnr.ai](https://wnr.ai)
+ - date_published: 2024-06-19T21:22:40.422378+00:00
+
+ ## AI Powered Audio Studio - Wondercraft
+ - [https://app.wondercraft.ai](https://app.wondercraft.ai)
+ - date_published: 2024-06-23T07:39:08.347253+00:00
+
+ ## Wondercraft Guides
+ - [https://support.wondercraft.ai](https://support.wondercraft.ai)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## AI Powered Audio Studio - Wondercraft
+ - [https://wondercraft.ai](https://wondercraft.ai)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## AI Powered Audio Studio - Wondercraft
+ - [https://www.wondercraft.ai](https://www.wondercraft.ai)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Wanda Design System
+ - [https://design.wonderflow.ai](https://design.wonderflow.ai)
+ - date_published: 2024-06-23T07:33:45.563110+00:00
+
+ ## Wonderplan - Best AI Trip Planner, AI Travel Planner
+ - [https://wonderplan.ai](https://wonderplan.ai)
+ - date_published: 2024-06-19T19:47:59.508688+00:00
+
+ ## WonsultingAI by Wonsulting - AI Job Search Simplified
+ - [https://www.wonsulting.ai](https://www.wonsulting.ai)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Best Quality AI Content writer - Wordkraft
+ - [https://app.wordkraft.ai](https://app.wordkraft.ai)
+ - date_published: 2024-02-19T18:15:22+00:00
+
+ ## AI Copywriting & Online Content Generator - Wordkraft
+ - [https://wordkraft.ai](https://wordkraft.ai)
+ - date_published: 2019-06-27T09:53:43+00:00
+
+ ## Wordmax - AI Writer for Content Generation
+ - [https://wordmax.ai](https://wordmax.ai)
+ - date_published: 2024-01-18T12:17:09+00:00
+
+ ## AI Article Writer & Bulk Article Generator - Wordplay.ai
+ - [https://wordplay.ai](https://wordplay.ai)
+ - date_published: 2024-06-19T19:53:27.332888+00:00
+
+ ## Wordplus.ai | AI Text Generator | AI Copywriter Tool
+ - [https://wordplus.ai](https://wordplus.ai)
+ - date_published: 2024-06-19T19:38:24.612665+00:00
+
+ ## Wordster.ai | Unlock the Power of AI Content Writing
+ - [https://wordster.ai](https://wordster.ai)
+ - date_published: 2024-06-19T18:54:30.805338+00:00
+
+ ## AI-Powered SaaS Finder & Manager - Workflos.ai
+ - [https://workflos.ai](https://workflos.ai)
+ - date_published: 2023-06-19T09:23:22+00:00
+
+ ## WorkHub | Conversational AI Platform for Knowledge Management
+ - [https://www.workhub.ai](https://www.workhub.ai)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Increase your revenue by saving 70% of the time spent on proposals
+ - [https://workif.ai](https://workif.ai)
+ - date_published: 2024-06-19T18:53:03.525342+00:00
+
+ ## Home Podcast Launch - FLI Worldbuilding Contest
+ - [https://worldbuild.ai](https://worldbuild.ai)
+ - date_published: 2023-09-05T00:00:00+00:00
+
+ ## Free Video Knowledge Base Software | WowTo
+ - [https://wowto.ai](https://wowto.ai)
+ - date_published: 2024-02-22T14:07:16+00:00
+
  ## WriteGPT: Your AI-Driven Development Partner
  - [https://writegpt.ai](https://writegpt.ai)
  - date_published: 2024-02-08T17:00:55+00:00
@@ -236,6 +316,10 @@
  - [https://the.akdn](https://the.akdn)
  - date_published: 2024-05-04T00:00:00+00:00
 
+ ## Personale - Vodafone
+ - [https://portal.abcom.al](https://portal.abcom.al)
+ - date_published: 2024-06-29T13:40:07+00:00
+
  ## Video Game Store - PS5, PS4, Xbox S/X, Xbox One, PC, Switch and Toys
  - [https://www.albagame.al](https://www.albagame.al)
  - date_published: 2024-04-24T00:00:00+00:00
@@ -339,12 +423,24 @@
  - date_published: 2024-04-09T00:00:00+00:00
  - tags: ['personal']
 
+ ## Tidal Labs - Creator Communities
+ - [http://tid.al](http://tid.al)
+ - date_published: 2024-06-29T18:23:06.231746+00:00
+
  ## trib.al
  - [https://trib.al](https://trib.al)
  - date_published: 2024-05-06T14:34:57.200773+00:00
 
+ ## E-bill | Vodafone.al
+ - [https://ebill.vodafone.al](https://ebill.vodafone.al)
+ - date_published: 2024-02-27T16:08:20+00:00
+
+ ## MVA10
+ - [https://my.vodafone.al](https://my.vodafone.al)
+ - date_published: 2023-12-12T16:00:26+00:00
+
  ## Personale - Vodafone
- - [https://www.vodafone.al](https://www.vodafone.al)
+ - [https://vodafone.al](https://vodafone.al)
  - date_published: 2024-05-07T10:57:37.324893+00:00
 
  ## Jake's Digital Garden
@@ -1132,6 +1228,10 @@
  - [https://n8ngnc.csb.app](https://n8ngnc.csb.app)
  - date_published: 2024-06-16T08:06:11.547243+00:00
 
+ ## HTML + CSS
+ - [https://pl3f69-5000.csb.app](https://pl3f69-5000.csb.app)
+ - date_published: 2024-06-29T08:54:25.889225+00:00
+
  ## Static Template
  - [https://q14t91.csb.app](https://q14t91.csb.app)
  - date_published: 2024-06-16T05:46:11.027244+00:00
@@ -1683,6 +1783,18 @@
  ## Hardcover
  - [https://hardcover.app](https://hardcover.app)
  - date_published: 2024-05-07T14:34:18.728544+00:00
+
+ ## Mastodon
+ - [https://mastodon.hardcover.app](https://mastodon.hardcover.app)
+ - date_published: 2024-06-29T23:26:16.950334+00:00
+
+ ## Hardcover Feedback
+ - [https://roadmap.hardcover.app](https://roadmap.hardcover.app)
+ - date_published: 2024-06-29T23:26:16.054530+00:00
+
+ ## Hardcover - API for the blog.
+ - [https://wp.hardcover.app](https://wp.hardcover.app)
+ - date_published: 2024-06-29T23:26:24.079520+00:00
 
  ## Headliner
  - [https://make.headliner.app](https://make.headliner.app)
@@ -2397,6 +2509,10 @@
  - [https://dnd-lamp-store.netlify.app](https://dnd-lamp-store.netlify.app)
  - date_published: 2024-04-29T07:31:56.578472+00:00
 
+ ## Clear Car Sell/Trade Tool Development Page
+ - [https://drvtrd-widget.netlify.app](https://drvtrd-widget.netlify.app)
+ - date_published: 2024-06-29T20:40:37.911077+00:00
+
  ## ecommerce-netlify
  - [https://ecommerce-netlify.netlify.app](https://ecommerce-netlify.netlify.app)
  - date_published: 2024-06-23T10:26:31.300922+00:00
@@ -2753,6 +2869,10 @@
  ## What is wrong with your dog?
  - [https://whatiswrongwithyourdog.netlify.app](https://whatiswrongwithyourdog.netlify.app)
  - date_published: 2024-06-23T18:46:05.474866+00:00
+
+ ## Weight Tracker App | [ NICKipedia ]
+ - [https://wizardly-booth-2a48d0.netlify.app](https://wizardly-booth-2a48d0.netlify.app)
+ - date_published: 2024-06-29T09:49:39.997423+00:00
 
  ## Xiaochen Zhao's Homepage
  - [https://xiaochen-zhao.netlify.app](https://xiaochen-zhao.netlify.app)
@@ -3133,6 +3253,10 @@
  - [https://polypane.app](https://polypane.app)
  - date_published: 2024-02-21T00:00:00+00:00
 
+ ## Polyvox - Practise Speaking Chinese
+ - [https://polyvox.app](https://polyvox.app)
+ - date_published: 2024-06-29T01:30:40.937046+00:00
+
  ## Pomerium Zero
  - [https://console.pomerium.app](https://console.pomerium.app)
  - date_published: 2024-05-29T16:33:13.050214+00:00
@@ -3340,6 +3464,10 @@
  ## Reviewbunny - Pull request reminders for teams
  - [https://reviewbunny.app](https://reviewbunny.app)
  - date_published: 2024-05-06T21:28:54.955912+00:00
+
+ ## Revoicer - Emotion-based Text To Speech
+ - [https://revoicer.app](https://revoicer.app)
+ - date_published: 2024-06-29T22:55:26.713147+00:00
 
  ## Riter
  - [https://riter.app](https://riter.app)
@@ -3928,132 +4056,4 @@
  ## Undress AI - Create Deepnude for FREE
  - [https://undress.app](https://undress.app)
  - date_published: 2024-06-19T20:59:14.370131+00:00
-
- ## Unfolder for Mac - Create papercraft easily
- - [https://www.unfolder.app](https://www.unfolder.app)
- - date_published: 2023-10-25T11:49:41.773041+00:00
-
- ## Introduction | TokenUnlocks
- - [https://docs.unlocks.app](https://docs.unlocks.app)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## TokenUnlocks
- - [https://feedback.unlocks.app](https://feedback.unlocks.app)
- - date_published: 2024-06-16T03:52:30.669262+00:00
-
- ## Unlocks Insights | TokenUnlocks's Blog
- - [https://insights.unlocks.app](https://insights.unlocks.app)
- - date_published: 2024-06-16T03:52:11.445724+00:00
-
- ## Custom Domain by Bitly
- - [https://pro.unlocks.app](https://pro.unlocks.app)
- - date_published: 2024-06-15T00:55:38+00:00
-
- ## Token Unlocks - Your Unlock Schedule & Tokenomics Data
- - [https://token.unlocks.app](https://token.unlocks.app)
- - date_published: 2024-05-01T05:33:04.680652+00:00
-
- ## The Unwanteds App
- - [http://unwanteds.app](http://unwanteds.app)
- - date_published: 2020-07-13T08:26:50+00:00
-
- ## UpCat - Upwork Assistant
- - [https://upcat.app](https://upcat.app)
- - date_published: 2023-10-10T16:36:57+00:00
-
- ## UpLift
- - [https://www.uplift.app](https://www.uplift.app)
- - date_published: 2021-11-16T23:48:11+00:00
-
- ## Upmind - Commerce and Billing Platform
- - [https://embed.upmind.app](https://embed.upmind.app)
- - date_published: 2024-06-15T22:45:16.883753+00:00
-
- ## Made an app that summarizes recent popular stories from Hacker News
- - [https://hackerdigest.upstash.app](https://hackerdigest.upstash.app)
- - date_published: 2023-11-16T12:26:14+00:00
-
- ## UpVPN: Serverless VPN - Prepaid - Pay as you go VPN
- - [https://upvpn.app](https://upvpn.app)
- - date_published: 2023-10-25T11:49:43.710632+00:00
-
- ## Node.js SaaS Boilerplate & Starter Kit with React.js | Gravity
- - [https://usegravity.app](https://usegravity.app)
- - date_published: 2024-05-09T08:38:39.631713+00:00
-
- ## VIA
- - [https://www.usevia.app](https://www.usevia.app)
- - date_published: 2024-06-07T22:19:05+00:00
-
- ## Is it vegan? – Veganify
- - [https://veganify.app](https://veganify.app)
- - date_published: 2024-06-03T11:18:59.757200+00:00
-
- ## Your AI speech-writing assistant
- - [https://www.verble.app](https://www.verble.app)
- - date_published: 2024-06-13T14:11:50+00:00
-
- ## Payments and much more – Barion
- - [https://2023-barion-com-facelift.vercel.app](https://2023-barion-com-facelift.vercel.app)
- - date_published: 2024-06-26T08:03:10.435917+00:00
-
- ## Travel with the 49 Euro ticket
- - [https://49travel.vercel.app](https://49travel.vercel.app)
- - date_published: 2023-10-25T11:49:45.612462+00:00
-
- ## acon
- - [https://aconlin.vercel.app](https://aconlin.vercel.app)
- - date_published: 2024-06-20T15:37:41.437178+00:00
-
- ## active app
- - [https://active-ten.vercel.app](https://active-ten.vercel.app)
- - date_published: 2024-06-22T22:21:55.730098+00:00
-
- ## The Adventure of Penelope the Porcupine and the Land of Whimsy
- - [https://adventure-of-penelope.vercel.app](https://adventure-of-penelope.vercel.app)
- - date_published: 2023-10-25T11:49:51.698766+00:00
-
- ## AI Bookstore | AI that helps you find the books you want to read
- - [https://ai-book-store.vercel.app](https://ai-book-store.vercel.app)
- - date_published: 2024-06-19T19:12:23.941020+00:00
-
- ## Image Variations: AI Generator - Generate variations of any input image with AI
- - [https://ai-imagegenerator.vercel.app](https://ai-imagegenerator.vercel.app)
- - date_published: 2024-06-19T19:57:46.116728+00:00
-
- ## AI Incident Reports
- - [https://aiincidentsreport.vercel.app](https://aiincidentsreport.vercel.app)
- - date_published: 2023-10-25T11:49:53.003545+00:00
-
- ## AI photo organizer
- - [https://ai-photo-sorter.vercel.app](https://ai-photo-sorter.vercel.app)
- - date_published: 2024-06-19T19:19:19.397639+00:00
-
- ## Aladdin AI
- - [https://aladdinai.vercel.app](https://aladdinai.vercel.app)
- - date_published: 2024-06-27T10:52:44.933476+00:00
-
- ## AJ's Portfolio
- - [https://alexjportfolio.vercel.app](https://alexjportfolio.vercel.app)
- - date_published: 2024-06-17T03:31:54.031030+00:00
-
- ## All roads lead to Rome, a colorful problem
- - [https://allroadslead2rome.vercel.app](https://allroadslead2rome.vercel.app)
- - date_published: 2024-04-30T07:40:49.647411+00:00
-
- ## A Resume Portfolio Website
- - [https://amodukehinde.vercel.app](https://amodukehinde.vercel.app)
- - date_published: 2024-05-11T10:23:06.569749+00:00
-
- ## AnalyzeMe
- - [https://analyzeme.vercel.app](https://analyzeme.vercel.app)
- - date_published: 2024-06-19T19:40:50.889083+00:00
-
- ## Andromeda Astro
- - [https://andromeda-astro.vercel.app](https://andromeda-astro.vercel.app)
- - date_published: 2024-06-21T23:48:54.270722+00:00
-
- ## Andromeda Light Nextjs
- - [https://andromeda-light-nextjs.vercel.app](https://andromeda-light-nextjs.vercel.app)
- - date_published: 2024-06-21T23:49:01.195057+00:00
 
