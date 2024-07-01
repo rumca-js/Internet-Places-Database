@@ -1,3 +1,31 @@
+ ## Intelligence.AI
+ - [https://intelligence.ai](https://intelligence.ai)
+ - date_published: 2024-06-21T20:34:38.805648+00:00
+
+ ## Content Platform
+ - [https://show.intellinode.ai](https://show.intellinode.ai)
+ - date_published: 2024-06-19T21:26:51.690709+00:00
+
+ ## Intent GPT
+ - [https://intentgpt.ai](https://intentgpt.ai)
+ - date_published: 2024-06-07T16:38:04+00:00
+
+ ## Leadoo
+ - [https://app.interactiveads.ai](https://app.interactiveads.ai)
+ - date_published: 2024-06-25T11:30:20+00:00
+
+ ## Interconnects | Nathan Lambert | Substack
+ - [https://www.interconnects.ai](https://www.interconnects.ai)
+ - date_published: 2023-10-25T11:39:29.532383+00:00
+
+ ## Interdimensional
+ - [https://interdimensional.ai](https://interdimensional.ai)
+ - date_published: 2024-05-07T14:42:37.255902+00:00
+
+ ## Interior decorator AI | InteriorDecorator.ai
+ - [https://interiordecorator.ai](https://interiordecorator.ai)
+ - date_published: 2024-06-19T19:25:31.102205+00:00
+
  ## Interviews by AI | AI-powered Interview Preparation
  - [https://interviewsby.ai](https://interviewsby.ai)
  - date_published: 2024-06-19T19:27:28.574718+00:00
@@ -357,6 +385,10 @@
  - [https://s.kw.ai](https://s.kw.ai)
  - date_published: 2024-06-10T00:00:00+00:00
 
+ ## Kwaai
+ - [https://www.kwaai.ai](https://www.kwaai.ai)
+ - date_published: 2024-06-30T04:48:52.606682+00:00
+
  ## Community of Creators Building with State-of-the-Art AI
  - [https://lablab.ai](https://lablab.ai)
  - date_published: 2024-06-15T00:00:00+00:00
@@ -551,6 +583,10 @@
  ## Lightning AI
  - [https://lightning.ai](https://lightning.ai)
  - date_published: 2023-10-25T11:39:51.150860+00:00
+
+ ## Private, scalable and customizable Gen AI - LightOn
+ - [http://lighton.ai](http://lighton.ai)
+ - date_published: 2024-06-30T05:42:38.772207+00:00
 
  ## Rethink AI for the Enterprise - LightOn
  - [https://www.lighton.ai](https://www.lighton.ai)
@@ -1088,6 +1124,10 @@
  ## Montreal AI Ethics Institute | Democratizing AI ethics literacy.
  - [https://montrealethics.ai](https://montrealethics.ai)
  - date_published: 2019-01-01T00:00:00+00:00
+
+ ## Moogle: Semantic search over mathlib4
+ - [https://moogle.ai](https://moogle.ai)
+ - date_published: 2024-06-30T09:20:49.794392+00:00
 
  ## Moonbeam - Unlocking Global Innovation Networks
  - [https://moonbeam.ai](https://moonbeam.ai)
@@ -3197,6 +3237,10 @@
  - [https://www.surveyswan.ai](https://www.surveyswan.ai)
  - date_published: 2024-06-14T09:26:53.022872+00:00
 
+ ## SVAI
+ - [https://sv.ai](https://sv.ai)
+ - date_published: 2024-06-30T09:42:03.729543+00:00
+
  ## Swan — AI Virtual Fitting Rooms
  - [https://www.swanvision.ai](https://www.swanvision.ai)
  - date_published: 2024-04-29T07:14:44.767427+00:00
@@ -3994,48 +4038,4 @@ Creative Solutions
  ## Pioneering a new approach to self-driving: AV2.0 – Wayve
  - [https://wayve.ai](https://wayve.ai)
  - date_published: 2023-10-25T11:45:04.460915+00:00
-
- ## Video Editing Software | Simple Online Video Editing Platform
- - [https://wearenova.ai](https://wearenova.ai)
- - date_published: 2024-06-19T19:38:22.368439+00:00
-
- ## Weather4cast 2023 - Weather4cast
- - [http://weather4cast.ai](http://weather4cast.ai)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Test Automation Platform Powered by AI | Webo.AI
- - [https://webo.ai](https://webo.ai)
- - date_published: 2024-06-19T19:41:02.807160+00:00
-
- ## Webscape
- - [https://webscape.ai](https://webscape.ai)
- - date_published: 2024-05-09T07:25:15.770192+00:00
-
- ## Home - WeCareer
- - [http://wecareer.ai](http://wecareer.ai)
- - date_published: 2022-05-06T00:00:00+00:00
-
- ## Wegic | The first AI web designer & developer by your side.
- - [https://wegic.ai](https://wegic.ai)
- - date_published: 2024-06-14T08:53:31.371770+00:00
-
- ## What-the-Diff – AI-powered code review assistant
- - [https://whatthediff.ai](https://whatthediff.ai)
- - date_published: 2024-06-19T19:25:03.500757+00:00
-
- ## WhyHow.AI
- - [https://www.whyhow.ai](https://www.whyhow.ai)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Wild Moose
- - [https://www.wildmoose.ai](https://www.wildmoose.ai)
- - date_published: 2023-10-25T11:45:06.456495+00:00
-
- ## WisdomPlan: Your AI-Powered Learning Companion
- - [https://wisdomplan.ai](https://wisdomplan.ai)
- - date_published: 2024-06-14T08:58:47.993270+00:00
-
- ## Wispr
- - [https://wispr.ai](https://wispr.ai)
- - date_published: 2024-03-13T00:00:00+00:00
 

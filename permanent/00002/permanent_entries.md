@@ -1,3 +1,47 @@
+ ## Video Editing Software | Simple Online Video Editing Platform
+ - [https://wearenova.ai](https://wearenova.ai)
+ - date_published: 2024-06-19T19:38:22.368439+00:00
+
+ ## Weather4cast 2023 - Weather4cast
+ - [http://weather4cast.ai](http://weather4cast.ai)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Test Automation Platform Powered by AI | Webo.AI
+ - [https://webo.ai](https://webo.ai)
+ - date_published: 2024-06-19T19:41:02.807160+00:00
+
+ ## Webscape
+ - [https://webscape.ai](https://webscape.ai)
+ - date_published: 2024-05-09T07:25:15.770192+00:00
+
+ ## Home - WeCareer
+ - [http://wecareer.ai](http://wecareer.ai)
+ - date_published: 2022-05-06T00:00:00+00:00
+
+ ## Wegic | The first AI web designer & developer by your side.
+ - [https://wegic.ai](https://wegic.ai)
+ - date_published: 2024-06-14T08:53:31.371770+00:00
+
+ ## What-the-Diff – AI-powered code review assistant
+ - [https://whatthediff.ai](https://whatthediff.ai)
+ - date_published: 2024-06-19T19:25:03.500757+00:00
+
+ ## WhyHow.AI
+ - [https://www.whyhow.ai](https://www.whyhow.ai)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Wild Moose
+ - [https://www.wildmoose.ai](https://www.wildmoose.ai)
+ - date_published: 2023-10-25T11:45:06.456495+00:00
+
+ ## WisdomPlan: Your AI-Powered Learning Companion
+ - [https://wisdomplan.ai](https://wisdomplan.ai)
+ - date_published: 2024-06-14T08:58:47.993270+00:00
+
+ ## Wispr
+ - [https://wispr.ai](https://wispr.ai)
+ - date_published: 2024-03-13T00:00:00+00:00
+
  ## Wizzy for Shopify
  - [https://shopify-app.wizzy.ai](https://shopify-app.wizzy.ai)
  - date_published: 2024-06-15T20:22:59.465481+00:00
@@ -418,6 +462,10 @@
  - [https://www.realestate.al](https://www.realestate.al)
  - date_published: 2024-02-08T22:20:07.666981+00:00
 
+ ## Statkraft Shqipëri
+ - [https://www.statkraft.al](https://www.statkraft.al)
+ - date_published: 2024-03-11T00:00:00+00:00
+
  ## Al's blog
  - [https://blog.the.al](https://blog.the.al)
  - date_published: 2024-04-09T00:00:00+00:00
@@ -471,6 +519,10 @@
  ## Freedom Be With All | I’m your worst nightmare…
  - [https://weblog.antranigv.am](https://weblog.antranigv.am)
  - date_published: 2023-10-25T11:45:23.684006+00:00
+
+ ## arak29.am
+ - [http://www.arak29.am](http://www.arak29.am)
+ - date_published: 2024-06-30T07:22:52+00:00
 
  ## Радио Азатутюн
  - [https://rus.azatutyun.am](https://rus.azatutyun.am)
@@ -1172,6 +1224,10 @@
  - [https://corrector.app](https://corrector.app)
  - date_published: 2024-06-19T00:00:00+00:00
 
+ ## Countdoku - Multiplayer Sudoku
+ - [https://countdoku.app](https://countdoku.app)
+ - date_published: 2024-06-30T06:57:24.271582+00:00
+
  ## Count the Hours
  - [https://www.countthehours.app](https://www.countthehours.app)
  - date_published: 2023-10-25T11:45:56.370816+00:00
@@ -1215,6 +1271,10 @@
  ## React App
  - [https://6vmc1n.csb.app](https://6vmc1n.csb.app)
  - date_published: 2024-05-06T21:26:24.258629+00:00
+
+ ## CodeSandbox
+ - [https://75jqhf.csb.app](https://75jqhf.csb.app)
+ - date_published: 2024-06-30T03:12:53.006276+00:00
 
  ## Venatus Sandbox
  - [https://cwn77d.csb.app](https://cwn77d.csb.app)
@@ -1492,6 +1552,10 @@
  ## Fedilab
  - [https://fedilab.app](https://fedilab.app)
  - date_published: 2024-05-15T20:53:36.825159+00:00
+
+ ## Fedilab
+ - [https://toot.fedilab.app](https://toot.fedilab.app)
+ - date_published: 2024-06-30T06:04:30.323154+00:00
 
  ## Sign in to Feedbase
  - [https://dash.feedbase.app](https://dash.feedbase.app)
@@ -2672,6 +2736,10 @@
  - [https://nickymeuleman.netlify.app](https://nickymeuleman.netlify.app)
  - date_published: 2024-05-11T10:05:17.106408+00:00
 
+ ## Homepage of Nicolas Marque
+ - [https://nicolasmarque.netlify.app](https://nicolasmarque.netlify.app)
+ - date_published: 2022-04-07T00:00:00+00:00
+
  ## Harry Potter and the Sacred Text
  - [https://not-sorry.netlify.app](https://not-sorry.netlify.app)
  - date_published: 2024-05-30T00:00:00+00:00
@@ -2764,6 +2832,10 @@
  ## San Diego Development
  - [https://sd-dev-list.netlify.app](https://sd-dev-list.netlify.app)
  - date_published: 2024-05-12T05:43:30.807301+00:00
+
+ ## Hospitality & Restaurant Marketing & Operations Software | SevenRooms
+ - [https://sevenrooms-marketing-site.netlify.app](https://sevenrooms-marketing-site.netlify.app)
+ - date_published: 2024-06-30T12:09:50.860955+00:00
 
  ## Siddharth Roy
  - [https://siddharthroy.netlify.app](https://siddharthroy.netlify.app)
@@ -2938,6 +3010,10 @@
  ## Nova
  - [https://nova.app](https://nova.app)
  - date_published: 2024-05-22T19:02:18+00:00
+
+ ## NOW Tracker – the best free portfolio tracker by ChangeNOW
+ - [https://nowtracker.app](https://nowtracker.app)
+ - date_published: 2024-06-30T06:03:56.607868+00:00
 
  ## Log in | Nx Cloud
  - [https://cloud.nx.app](https://cloud.nx.app)
@@ -3445,6 +3521,10 @@
  - [https://partnerships-form-util.replit.app](https://partnerships-form-util.replit.app)
  - date_published: 2024-04-28T04:38:19.545080+00:00
 
+ ## Fatal Force Database entry 8171: Jason Neal Puckett
+ - [https://police-shooting-sampler.replit.app](https://police-shooting-sampler.replit.app)
+ - date_published: 2024-06-30T09:51:01.947193+00:00
+
  ## Reporty - Get Shopify Order Notifications & Reports in Slack
  - [https://reporty.app](https://reporty.app)
  - date_published: 2024-06-23T02:59:25.371789+00:00
@@ -3496,6 +3576,10 @@
  ## Checkout
  - [https://ecom.roller.app](https://ecom.roller.app)
  - date_published: 2024-06-17T01:19:54+00:00
+
+ ## Roon
+ - [https://roon.app](https://roon.app)
+ - date_published: 2024-06-30T05:28:32.098266+00:00
 
  ## Rossum - Registration
  - [https://rossum.app](https://rossum.app)
@@ -3555,6 +3639,10 @@
  ## sci.app | A window to Science
  - [https://sci.app](https://sci.app)
  - date_published: 2024-05-10T06:40:41.329753+00:00
+
+ ## ScienceGate : Academic Search Engine
+ - [https://www.sciencegate.app](https://www.sciencegate.app)
+ - date_published: 2024-06-30T00:00:00+00:00
 
  ## Buy ScreenMemory
  - [https://screenmemory.app](https://screenmemory.app)
@@ -3968,92 +4056,4 @@
  ## Tramline - The Mobile DevOps Platform
  - [https://www.tramline.app](https://www.tramline.app)
  - date_published: 2024-06-14T00:00:00+00:00
-
- ## TranscribeMe
- - [https://www.transcribeme.app](https://www.transcribeme.app)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Home
- - [https://transportr.app](https://transportr.app)
- - date_published: 2020-10-12T12:31:28+00:00
-
- ## Trash: One Tap Video
- - [https://trash.app](https://trash.app)
- - date_published: 2020-12-19T06:58:23+00:00
-
- ## Treeverse
- - [https://treeverse.app](https://treeverse.app)
- - date_published: 2024-05-09T04:38:48.254295+00:00
-
- ## TripGeeks - where experiences happen
- - [https://tripgeeks.app](https://tripgeeks.app)
- - date_published: 2024-03-28T17:08:23.215676+00:00
-
- ## Share
- - [https://simulator.tryshare.app](https://simulator.tryshare.app)
- - date_published: 2023-10-25T11:49:37.534331+00:00
-
- ## Tuple: a remote pair programming tool designed for developers
- - [https://tuple.app](https://tuple.app)
- - date_published: 2024-04-29T05:42:17.171936+00:00
-
- ## Discover. Plan. Travel. Share.
- - [https://turas.app](https://turas.app)
- - date_published: 2024-04-29T07:28:43.082100+00:00
-
- ## AImpostor
- - [https://www.turingjest.app](https://www.turingjest.app)
- - date_published: 2023-10-25T11:49:39.188876+00:00
-
- ## Tusky - Mastodon client for Android
- - [https://tusky.app](https://tusky.app)
- - date_published: 2024-05-11T11:40:24.932671+00:00
-
- ## Console
- - [https://console.twake.app](https://console.twake.app)
- - date_published: 2024-05-09T02:34:47.795510+00:00
-
- ## Twilar
- - [https://www.twilar.app](https://www.twilar.app)
- - date_published: 2024-05-06T14:50:17.598645+00:00
-
- ## TwitterFeedback.app by Olvy
- - [https://twitterfeedback.app](https://twitterfeedback.app)
- - date_published: 2024-04-30T06:57:51.797221+00:00
-
- ## Twizzle
- - [https://twizzle.app](https://twizzle.app)
- - date_published: 2023-05-25T15:09:21+00:00
-
- ## Typewise - AI Communication Assistant
- - [https://www.typewise.app](https://www.typewise.app)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Typly | Conversation level next!
- - [https://typly.app](https://typly.app)
- - date_published: 2023-05-12T00:00:00+00:00
-
- ## Plausible · Web analytics
- - [https://misc-a.typst.app](https://misc-a.typst.app)
- - date_published: 2024-05-11T05:38:49.782737+00:00
-
- ## Typst – Compose Papers Faster
- - [https://typst.app](https://typst.app)
- - date_published: 2023-11-20T20:44:03+00:00
-
- ## UESPWiki - Apps on Google Play
- - [https://uesp.app](https://uesp.app)
- - date_published: 2024-05-14T03:19:04.249631+00:00
-
- ## Tailwind CSS Color Generator | UI Colors
- - [https://uicolors.app](https://uicolors.app)
- - date_published: 2024-04-28T05:29:31.234765+00:00
-
- ## quiver
- - [https://q.uiver.app](https://q.uiver.app)
- - date_published: 2024-05-07T15:48:40.661008+00:00
-
- ## Undress AI - Create Deepnude for FREE
- - [https://undress.app](https://undress.app)
- - date_published: 2024-06-19T20:59:14.370131+00:00
 
