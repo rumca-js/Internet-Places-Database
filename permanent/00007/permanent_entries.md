@@ -1,3 +1,63 @@
+ ## Recreio
+ - [https://recreio.uol.com.br](https://recreio.uol.com.br)
+ - date_published: 2024-06-28T16:00:03.852827+00:00
+
+ ## Rolling Stone Brasil
+ - [https://rollingstone.uol.com.br](https://rollingstone.uol.com.br)
+ - date_published: 2024-06-28T15:59:51.949519+00:00
+
+ ## Sportbuzz
+ - [https://sportbuzz.uol.com.br](https://sportbuzz.uol.com.br)
+ - date_published: 2024-06-28T15:59:56.745164+00:00
+
+ ## Notícias de hoje do Brasil e do Mundo | Folha de S.Paulo
+ - [https://www1.folha.uol.com.br](https://www1.folha.uol.com.br)
+ - date_published: 2023-11-18T08:17:46.153355+00:00
+
+ ## UOL - Seu universo online
+ - [https://www.uol.com.br](https://www.uol.com.br)
+ - date_published: 2024-06-26T21:57:42+00:00
+
+ ## Vagas de Emprego e Oportunidades de Trabalho Hoje
+ - [https://site.vagas.com.br](https://site.vagas.com.br)
+ - date_published: 2024-06-18T07:12:47.452062+00:00
+
+ ## Vagas de Emprego e Oportunidades de Trabalho Hoje
+ - [https://www.vagas.com.br](https://www.vagas.com.br)
+ - date_published: 2024-06-29T15:12:28.980646+00:00
+
+ ## Home - Vale do Pinhão
+ - [http://www.valedopinhao.com.br](http://www.valedopinhao.com.br)
+ - date_published: 2024-06-12T11:20:08.862192+00:00
+
+ ## Valor Econômico
+ - [http://www.valor.com.br](http://www.valor.com.br)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Compañías Velcro - Sistemas de Sujeição de gancho e argola
+ - [https://www.velcro.com.br](https://www.velcro.com.br)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Authentication - GLPI
+ - [https://chamados.vestcasa.com.br](https://chamados.vestcasa.com.br)
+ - date_published: 2024-06-16T15:36:44.390502+00:00
+
+ ## ViajaNet - Agência de viagens líder no Brasil
+ - [http://www.viajanet.com.br](http://www.viajanet.com.br)
+ - date_published: 2024-06-16T19:11:16.977140+00:00
+
+ ## Viajar com Alê
+ - [https://viajarcomale.com.br](https://viajarcomale.com.br)
+ - date_published: 2024-06-15T08:39:39.759369+00:00
+
+ ## Visa, líder confiável em pagamentos digitais
+ - [https://www.visa.com.br](https://www.visa.com.br)
+ - date_published: 2024-05-06T09:09:47.941693+00:00
+
+ ## WarnerBros.com.br | Home de Filmes WB, TV, Games e mais!
+ - [https://warnerbros.com.br](https://warnerbros.com.br)
+ - date_published: 2024-05-07T11:19:31.436385+00:00
+
  ## WEB3DEV
  - [https://www.web3dev.com.br](https://www.web3dev.com.br)
  - date_published: 2024-06-16T00:00:00+00:00
@@ -2575,6 +2635,10 @@
  - [https://www.edealer.ca](https://www.edealer.ca)
  - date_published: 2024-06-26T22:36:33.392327+00:00
 
+ ## Edmonton Police Service
+ - [http://www.edmontonpolice.ca](http://www.edmontonpolice.ca)
+ - date_published: 2024-07-02T05:40:18.356570+00:00
+
  ## eharmony dating site | Meet singles & find real love in the UK
  - [https://www.eharmony.ca](https://www.eharmony.ca)
  - date_published: 2024-06-03T00:00:00+00:00
@@ -2916,6 +2980,10 @@
  ## Royalty-Free Stock Photos, Creative Images & Vectors | News, Fashion, and Entertainment imagery - Getty Images
  - [https://www.gettyimages.ca](https://www.gettyimages.ca)
  - date_published: 2024-06-20T01:48:50.997991+00:00
+
+ ## Gilead Sciences
+ - [https://www.gilead.ca](https://www.gilead.ca)
+ - date_published: 2024-07-02T04:08:12.955063+00:00
 
  ## Home - Glacier Media
  - [https://glaciermedia.ca](https://glaciermedia.ca)
@@ -3956,6 +4024,10 @@
  - [https://michael.mior.ca](https://michael.mior.ca)
  - date_published: 2024-05-11T10:09:02.314423+00:00
 
+ ## www.mirabilis.ca
+ - [http://www.mirabilis.ca](http://www.mirabilis.ca)
+ - date_published: 2024-07-02T06:37:02.568959+00:00
+
  ## Mitul Shah
  - [https://mitul.ca](https://mitul.ca)
  - date_published: 2024-05-09T06:18:35.899229+00:00
@@ -3981,78 +4053,4 @@
  ## MoneySense | Helping You Make Better Financial Decisions
  - [http://www.moneysense.ca](http://www.moneysense.ca)
  - date_published: 2024-06-23T00:00:00+00:00
-
- ## monotone
- - [https://www.monotone.ca](https://www.monotone.ca)
- - date_published: 2024-05-08T11:29:22.249853+00:00
-
- ## Find Jobs. Build a Better Career. Find Your Calling | Monster.ca
- - [https://www.monster.ca](https://www.monster.ca)
- - date_published: 2024-06-16T13:58:03.441256+00:00
-
- ## Attention Required! | Cloudflare
- - [https://montreal.ca](https://montreal.ca)
- - date_published: 2024-07-01T09:29:43.979465+00:00
-
- ## change.mooc.ca ~ #change11
- - [http://change.mooc.ca](http://change.mooc.ca)
- - date_published: 2022-02-16T00:36:41+00:00
-
- ## Morning Brief
- - [https://signup.morningbrief.ca](https://signup.morningbrief.ca)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Guerrero, Bichette lead Blue Jays past Royals 5-4 to kick off 10-game homestand
- - [https://morns.ca](https://morns.ca)
- - date_published: 2023-11-23T02:53:51.311374+00:00
-
- ## CTO with a CMO flavor
- - [https://morozov.ca](https://morozov.ca)
- - date_published: 2019-01-30T00:00:00+00:00
-
- ## MotherFrunker
- - [https://motherfrunker.ca](https://motherfrunker.ca)
- - date_published: 2023-12-13T11:42:43.612748+00:00
- - tags: ['personal']
-
- ## Motor Gear Trader
- - [https://motorgeartrader.ca](https://motorgeartrader.ca)
- - date_published: 2024-06-16T09:41:54.378191+00:00
-
- ## Home | Mountain Biking BC
- - [https://www.mountainbikingbc.ca](https://www.mountainbikingbc.ca)
- - date_published: 2024-06-15T11:58:31.328920+00:00
-
- ## Mountain View County and Innisfail News
- - [https://www.mountainviewtoday.ca](https://www.mountainviewtoday.ca)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Electronic Components Distributor - Mouser Electronics Canada
- - [https://www.mouser.ca](https://www.mouser.ca)
- - date_published: 2024-07-01T20:56:54.136625+00:00
-
- ## Top 5 Top 5 Toronto Move Contractors for 2020 | Move.ca Plumbers and Plumbing Contractors for 2020 | Move.ca
- - [http://www.move.ca](http://www.move.ca)
- - date_published: 2024-06-29T17:36:52.883622+00:00
-
- ## Mastodon Canada
- - [https://mstdn.ca](https://mstdn.ca)
- - date_published: 2024-04-28T02:21:20.589492+00:00
-
- ## MUES – Metropolitan Undergraduate Engineering Society
- - [http://www.mues.ca](http://www.mues.ca)
- - date_published: 2024-04-30T05:17:32.327916+00:00
-
- ## Connor Oliver - Muezza.ca
- - [https://muezza.ca](https://muezza.ca)
- - date_published: 2024-01-09T02:27:18.773960+00:00
-
- ## Computer Science | Computer Science
- - [http://www.cs.mun.ca](http://www.cs.mun.ca)
- - date_published: 2024-06-13T18:04:48.721533+00:00
-
- ## MurphysLab.ca
- - [https://murphyslab.ca](https://murphyslab.ca)
- - date_published: 2024-06-01T04:56:30.751877+00:00
- - tags: ['personal']
 

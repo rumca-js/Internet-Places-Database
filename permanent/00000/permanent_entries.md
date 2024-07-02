@@ -64,6 +64,10 @@
  - [https://heyst.ac](https://heyst.ac)
  - date_published: 2024-05-02T11:11:28.481415+00:00
 
+ ## Welcome to iContact's Social Tools!
+ - [https://icont.ac](https://icont.ac)
+ - date_published: 2010-08-23T19:07:24+00:00
+
  ## Daniel Kennett - Home
  - [https://ikennd.ac](https://ikennd.ac)
  - date_published: 2024-05-13T15:03:31+00:00
@@ -4027,8 +4031,4 @@ Welcome
  ## demo.infoforge.ai
  - [https://demo.infoforge.ai](https://demo.infoforge.ai)
  - date_published: 2024-06-21T23:57:46+00:00
-
- ## The email marketing platform to communicate with your customers.
- - [https://www.infomail.ai](https://www.infomail.ai)
- - date_published: 2024-06-05T00:00:00+00:00
 

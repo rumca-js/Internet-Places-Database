@@ -1,3 +1,88 @@
+ ## Home
+ - [http://marcelhauri.ch](http://marcelhauri.ch)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Marcel Waldvogel
+ - [https://marcel-waldvogel.ch](https://marcel-waldvogel.ch)
+ - date_published: 2024-06-23T17:15:18.050079+00:00
+
+ ## Mario Winkler Company
+ - [http://mariowinkler.ch](http://mariowinkler.ch)
+ - date_published: 2019-05-13T21:33:52+00:00
+
+ ## Markustinner – Design, Music, Plugins
+ - [http://www.markustinner.ch](http://www.markustinner.ch)
+ - date_published: 2024-06-24T05:18:18.170323+00:00
+
+ ## Methods & Tools Editor Blog
+ - [http://blog.martinig.ch](http://blog.martinig.ch)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Martinig & Associates | Home
+ - [https://www.martinig.ch](https://www.martinig.ch)
+ - date_published: 2024-06-23T06:48:02.342865+00:00
+
+ ## Pasar Jalan Petaling
+ - [https://www.maurits.ch](https://www.maurits.ch)
+ - date_published: 2023-10-25T08:43:18.862210+00:00
+ - tags: ['personal']
+
+ ## Home page
+ - [http://mclean.ch](http://mclean.ch)
+ - date_published: 2020-06-06T14:00:00+00:00
+
+ ## MDTURP | MDTURP
+ - [https://blog.mdturp.ch](https://blog.mdturp.ch)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Urgences Vaud by medigo - Les urgences à portée de main
+ - [https://www.medigo.ch](https://www.medigo.ch)
+ - date_published: 2024-04-30T05:59:25.869431+00:00
+
+ ## Welcome in MPZ
+ - [https://meinungsplatz.ch](https://meinungsplatz.ch)
+ - date_published: 2024-06-25T22:24:35.815349+00:00
+
+ ## Home
+ - [https://mesh.ch](https://mesh.ch)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Météo & Radar Suisse
+ - [https://meteoetradar.ch](https://meteoetradar.ch)
+ - date_published: 2024-05-07T12:52:58.197087+00:00
+
+ ## METOKI – Marketing, Digitalisierung, Wissensmanagement
+ - [https://www.metoki.ch](https://www.metoki.ch)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Michelle Gisin - Home
+ - [https://www.michellegisin.ch](https://www.michellegisin.ch)
+ - date_published: 2024-06-16T09:05:54.566023+00:00
+
+ ## Miler.ch – Casa d’Arte Miler
+ - [http://miler.ch](http://miler.ch)
+ - date_published: 2024-06-14T11:59:26.055050+00:00
+
+ ## Matteo's Blog
+ - [https://ml-software.ch](https://ml-software.ch)
+ - date_published: 2021-06-04T00:00:00+00:00
+
+ ## Multiplayer Online Science
+ - [http://mmos.ch](http://mmos.ch)
+ - date_published: 2023-12-28T20:56:18+00:00
+
+ ## Moneyhouse - Handelsregister- & Wirtschaftsinformationen
+ - [https://www.moneyhouse.ch](https://www.moneyhouse.ch)
+ - date_published: 2024-06-29T08:33:14.654363+00:00
+
+ ## Jobs | Stellenangebote | Jobsuche | Jobbörse | Monster.ch
+ - [https://www.monster.ch](https://www.monster.ch)
+ - date_published: 2024-06-16T13:57:55.151097+00:00
+
+ ## Mood/Wood — Marc Zenhäusern
+ - [https://moodwood.ch](https://moodwood.ch)
+ - date_published: 2024-06-19T16:21:00.319623+00:00
+
  ## Home page - Visit Morcote - Turismo
  - [http://morcoteturismo.ch](http://morcoteturismo.ch)
  - date_published: 2024-06-14T11:59:35.683395+00:00
@@ -2226,6 +2311,10 @@ Fakultät | Universität Basel
  - [https://chrysler.cl](https://chrysler.cl)
  - date_published: 2020-09-22T18:37:20+00:00
 
+ ## Centro Interuniversitario de Desarrollo - CINDA
+ - [http://www.cinda.cl](http://www.cinda.cl)
+ - date_published: 2020-09-21T16:52:39+00:00
+
  ## Autos nuevos: vehículos, city cars, furgones y más. | Citroën
  - [https://www.citroen.cl](https://www.citroen.cl)
  - date_published: 2024-05-08T05:30:01.405358+00:00
@@ -3077,6 +3166,10 @@ Fakultät | Universität Basel
  ## Sign in - Matomo
  - [https://saitotech.matomo.cloud](https://saitotech.matomo.cloud)
  - date_published: 2024-05-06T12:50:01.206904+00:00
+
+ ## Sign in - Matomo
+ - [https://salk.matomo.cloud](https://salk.matomo.cloud)
+ - date_published: 2024-07-02T01:33:57.433533+00:00
 
  ## Sign in - Matomo
  - [https://siliconrepublic.matomo.cloud](https://siliconrepublic.matomo.cloud)
@@ -3943,98 +4036,4 @@ Fakultät | Universität Basel
  ## Retroedicola Videoludica Club – Stay Together, Play Forever!
  - [https://www.retroedicola.club](https://www.retroedicola.club)
  - date_published: 2024-06-14T15:20:07.651775+00:00
-
- ## Roguelike Celebration
- - [https://roguelike.club](https://roguelike.club)
- - date_published: 2024-04-28T05:30:46.663759+00:00
-
- ## Roguelike Celebration
- - [https://www.roguelike.club](https://www.roguelike.club)
- - date_published: 2023-10-25T12:16:02.060980+00:00
-
- ## Romancelandia
- - [https://romancelandia.club](https://romancelandia.club)
- - date_published: 2024-06-27T03:00:41.194360+00:00
-
- ## Simple Analytics
- - [https://a.sandspiel.club](https://a.sandspiel.club)
- - date_published: 2020-01-10T12:35:14+00:00
-
- ## sandspiel
- - [https://sandspiel.club](https://sandspiel.club)
- - date_published: 2024-04-13T17:44:43+00:00
-
- ## secret club | We Break Software
- - [https://secret.club](https://secret.club)
- - date_published: 2023-10-25T12:16:05.805445+00:00
- - tags: ['reverse engineering', 'hacking']
-
- ## no you shut the fuck up dad
- - [https://secretinternet.club](https://secretinternet.club)
- - date_published: 2024-05-07T22:23:57.812786+00:00
-
- ## Get started | Shipped
- - [https://docs.shipped.club](https://docs.shipped.club)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Show HN: Launch your product within hours
- - [https://shipped.club](https://shipped.club)
- - date_published: 2023-12-07T01:13:21+00:00
-
- ## Simply Complicated
- - [https://simplycomplicated.club](https://simplycomplicated.club)
- - date_published: 2024-05-02T10:39:42.247526+00:00
-
- ## SlopCrew v2.2.1
- - [https://sloppers.club](https://sloppers.club)
- - date_published: 2024-06-19T02:25:23.608599+00:00
-
- ## snake.club - Mastodon
- - [https://snake.club](https://snake.club)
- - date_published: 2024-05-10T05:29:04.468926+00:00
-
- ## SoNoMu
- - [https://sonomu.club](https://sonomu.club)
- - date_published: 2024-05-02T12:09:23.787109+00:00
-
- ## Streak Club
- - [https://streak.club](https://streak.club)
- - date_published: 2024-06-22T14:46:27.835909+00:00
-
- ## Tabby's Cat Tree
- - [https://tabbygarf.club](https://tabbygarf.club)
- - date_published: 2024-06-09T17:28:21+00:00
-
- ## Home | Tampon Club
- - [https://tampon.club](https://tampon.club)
- - date_published: 2019-04-14T20:15:40+00:00
-
- ## Home | Tampon Club
- - [https://www.tampon.club](https://www.tampon.club)
- - date_published: 2019-04-14T20:15:40+00:00
-
- ## Tara Booth
- - [https://www.tarabooth.club](https://www.tarabooth.club)
- - date_published: 2024-06-20T02:36:20.201296+00:00
-
- ## teaspot.club - teaspot Zasoby i informacje.
- - [https://teaspot.club](https://teaspot.club)
- - date_published: 2024-05-29T07:53:50.255535+00:00
-
- ## TechShort Annual Pass
- - [https://www.techshorts.club](https://www.techshorts.club)
- - date_published: 2024-05-04T07:49:34.504850+00:00
-
- ## My Blog
- - [https://themeplanet.club](https://themeplanet.club)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## The Print Shop Club – Create Apple II Print Shop Printouts On-Line!
- - [https://theprintshop.club](https://theprintshop.club)
- - date_published: 2023-10-25T12:16:08.782455+00:00
-
- ## The Web Scraping Club | Pierluigi Vinciguerra | Substack
- - [https://substack.thewebscraping.club](https://substack.thewebscraping.club)
- - date_published: 2023-10-25T12:16:16.183663+00:00
- - tags: ['news', 'web scraping']
 

@@ -1,3 +1,15 @@
+ ## WaifuChat
+ - [https://waifuchat.ai](https://waifuchat.ai)
+ - date_published: 2024-06-19T19:23:40.731098+00:00
+
+ ## wallet.AI
+ - [https://wallet.ai](https://wallet.ai)
+ - date_published: 2024-01-12T13:03:16+00:00
+
+ ## Weights & Biases
+ - [https://app.wandb.ai](https://app.wandb.ai)
+ - date_published: 2024-06-15T19:46:31.087097+00:00
+
  ## W&B Community
  - [https://community.wandb.ai](https://community.wandb.ai)
  - date_published: 2024-06-14T00:00:00+00:00
@@ -4045,16 +4057,4 @@
  ## teachyourselfmath
  - [https://teachyourselfmath.app](https://teachyourselfmath.app)
  - date_published: 2024-01-24T06:49:02.414761+00:00
-
- ## Find your dream Canadian tech job
- - [https://www.techjobscanada.app](https://www.techjobscanada.app)
- - date_published: 2024-04-28T04:30:40.131321+00:00
-
- ## Home - Terrastories
- - [https://terrastories.app](https://terrastories.app)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Home | texti.app
- - [https://texti.app](https://texti.app)
- - date_published: 2024-06-19T20:40:34.862692+00:00
 

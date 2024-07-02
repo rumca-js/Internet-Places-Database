@@ -1,3 +1,77 @@
+ ## monotone
+ - [https://www.monotone.ca](https://www.monotone.ca)
+ - date_published: 2024-05-08T11:29:22.249853+00:00
+
+ ## Find Jobs. Build a Better Career. Find Your Calling | Monster.ca
+ - [https://www.monster.ca](https://www.monster.ca)
+ - date_published: 2024-06-16T13:58:03.441256+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://montreal.ca](https://montreal.ca)
+ - date_published: 2024-07-01T09:29:43.979465+00:00
+
+ ## change.mooc.ca ~ #change11
+ - [http://change.mooc.ca](http://change.mooc.ca)
+ - date_published: 2022-02-16T00:36:41+00:00
+
+ ## Morning Brief
+ - [https://signup.morningbrief.ca](https://signup.morningbrief.ca)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Guerrero, Bichette lead Blue Jays past Royals 5-4 to kick off 10-game homestand
+ - [https://morns.ca](https://morns.ca)
+ - date_published: 2023-11-23T02:53:51.311374+00:00
+
+ ## CTO with a CMO flavor
+ - [https://morozov.ca](https://morozov.ca)
+ - date_published: 2019-01-30T00:00:00+00:00
+
+ ## MotherFrunker
+ - [https://motherfrunker.ca](https://motherfrunker.ca)
+ - date_published: 2023-12-13T11:42:43.612748+00:00
+ - tags: ['personal']
+
+ ## Motor Gear Trader
+ - [https://motorgeartrader.ca](https://motorgeartrader.ca)
+ - date_published: 2024-06-16T09:41:54.378191+00:00
+
+ ## Home | Mountain Biking BC
+ - [https://www.mountainbikingbc.ca](https://www.mountainbikingbc.ca)
+ - date_published: 2024-06-15T11:58:31.328920+00:00
+
+ ## Mountain View County and Innisfail News
+ - [https://www.mountainviewtoday.ca](https://www.mountainviewtoday.ca)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Electronic Components Distributor - Mouser Electronics Canada
+ - [https://www.mouser.ca](https://www.mouser.ca)
+ - date_published: 2024-07-01T20:56:54.136625+00:00
+
+ ## Top 5 Top 5 Toronto Move Contractors for 2020 | Move.ca Plumbers and Plumbing Contractors for 2020 | Move.ca
+ - [http://www.move.ca](http://www.move.ca)
+ - date_published: 2024-06-29T17:36:52.883622+00:00
+
+ ## Mastodon Canada
+ - [https://mstdn.ca](https://mstdn.ca)
+ - date_published: 2024-04-28T02:21:20.589492+00:00
+
+ ## MUES – Metropolitan Undergraduate Engineering Society
+ - [http://www.mues.ca](http://www.mues.ca)
+ - date_published: 2024-04-30T05:17:32.327916+00:00
+
+ ## Connor Oliver - Muezza.ca
+ - [https://muezza.ca](https://muezza.ca)
+ - date_published: 2024-01-09T02:27:18.773960+00:00
+
+ ## Computer Science | Computer Science
+ - [http://www.cs.mun.ca](http://www.cs.mun.ca)
+ - date_published: 2024-06-13T18:04:48.721533+00:00
+
+ ## MurphysLab.ca
+ - [https://murphyslab.ca](https://murphyslab.ca)
+ - date_published: 2024-06-01T04:56:30.751877+00:00
+ - tags: ['personal']
+
  ## Music City North |
  - [https://musiccitynorth.ca](https://musiccitynorth.ca)
  - date_published: 2024-04-29T03:50:01.747336+00:00
@@ -1826,6 +1900,10 @@
  ## Bear Tracks - University of Alberta
  - [https://www.beartracks.ualberta.ca](https://www.beartracks.ualberta.ca)
  - date_published: 2024-04-30T05:17:47.033511+00:00
+
+ ## Computing Science
+ - [http://www.cs.ualberta.ca](http://www.cs.ualberta.ca)
+ - date_published: 2024-05-28T15:33:31+00:00
 
  ## Electrical and Computer Engineering University of Alberta
  - [http://www.ece.ualberta.ca](http://www.ece.ualberta.ca)
@@ -3964,81 +4042,4 @@
  ## Halide Mark II: Pro. Camera. Action.
  - [https://www.halide.cam](https://www.halide.cam)
  - date_published: 2024-04-30T05:35:10.516432+00:00
-
- ## Polycam Learn
- - [https://learn.poly.cam](https://learn.poly.cam)
- - date_published: 2024-04-30T05:35:06.503204+00:00
-
- ## Polycam - LiDAR & 3D Scanner for iPhone & Android
- - [https://poly.cam](https://poly.cam)
- - date_published: 2023-10-25T08:38:30.080927+00:00
-
- ## Spectre
- - [https://spectre.cam](https://spectre.cam)
- - date_published: 2024-04-30T05:35:11.723117+00:00
-
- ## Lux
- - [https://lux.camera](https://lux.camera)
- - date_published: 2023-10-25T12:09:56.046567+00:00
-
- ## Lux
- - [https://www.lux.camera](https://www.lux.camera)
- - date_published: 2024-02-26T08:51:18.111691+00:00
-
- ## meow.camera
- - [https://meow.camera](https://meow.camera)
- - date_published: 2024-06-20T02:56:52.252276+00:00
-
- ## VWFNDR
- - [https://vwfndr.camera](https://vwfndr.camera)
- - date_published: 2024-04-29T07:14:37.211339+00:00
-
- ## AI Safety Camp
- - [https://aisafety.camp](https://aisafety.camp)
- - date_published: 2024-05-04T12:17:46.253900+00:00
-
- ## Corbin.Camp
- - [https://corbin.camp](https://corbin.camp)
- - date_published: 2008-01-01T00:00:00+00:00
-
- ## International Hacking & Cyber Security Community - DefCamp 2024
- - [https://def.camp](https://def.camp)
- - date_published: 2024-06-21T11:58:10.659942+00:00
-
- ## Dice.camp
- - [https://dice.camp](https://dice.camp)
- - date_published: 2024-05-12T05:41:48.220110+00:00
-
- ## Friend Camp
- - [https://friend.camp](https://friend.camp)
- - date_published: 2024-05-06T19:58:34.209137+00:00
-
- ## Micro Camp: a virtual gathering of the Micro.blog community
- - [https://micro.camp](https://micro.camp)
- - date_published: 2024-05-04T07:00:21.898447+00:00
-
- ## Home - MOCA2024
- - [https://moca.camp](https://moca.camp)
- - date_published: 2024-06-20T16:14:02+00:00
-
- ## OpenCat Forum | Petoi LLC | United States
- - [https://www.petoi.camp](https://www.petoi.camp)
- - date_published: 2024-05-11T09:24:50.843560+00:00
-
- ## White Christian Family - The white Christian family is the foundation of Western civilization
- - [https://saints.camp](https://saints.camp)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Sleepawake Camp
- - [https://www.sleepawake.camp](https://www.sleepawake.camp)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Canon Creative Park
- - [https://creativepark.canon](https://creativepark.canon)
- - date_published: 2024-04-30T05:35:17.800340+00:00
-
- ## Canon Global
- - [https://global.canon](https://global.canon)
- - date_published: 2023-10-25T12:10:02.392667+00:00
- - tags: ['company']
 

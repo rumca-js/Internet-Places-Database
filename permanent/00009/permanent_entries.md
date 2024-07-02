@@ -1,3 +1,80 @@
+ ## Polycam Learn
+ - [https://learn.poly.cam](https://learn.poly.cam)
+ - date_published: 2024-04-30T05:35:06.503204+00:00
+
+ ## Polycam - LiDAR & 3D Scanner for iPhone & Android
+ - [https://poly.cam](https://poly.cam)
+ - date_published: 2023-10-25T08:38:30.080927+00:00
+
+ ## Spectre
+ - [https://spectre.cam](https://spectre.cam)
+ - date_published: 2024-04-30T05:35:11.723117+00:00
+
+ ## Lux
+ - [https://lux.camera](https://lux.camera)
+ - date_published: 2023-10-25T12:09:56.046567+00:00
+
+ ## Lux
+ - [https://www.lux.camera](https://www.lux.camera)
+ - date_published: 2024-02-26T08:51:18.111691+00:00
+
+ ## meow.camera
+ - [https://meow.camera](https://meow.camera)
+ - date_published: 2024-06-20T02:56:52.252276+00:00
+
+ ## VWFNDR
+ - [https://vwfndr.camera](https://vwfndr.camera)
+ - date_published: 2024-04-29T07:14:37.211339+00:00
+
+ ## AI Safety Camp
+ - [https://aisafety.camp](https://aisafety.camp)
+ - date_published: 2024-05-04T12:17:46.253900+00:00
+
+ ## Corbin.Camp
+ - [https://corbin.camp](https://corbin.camp)
+ - date_published: 2008-01-01T00:00:00+00:00
+
+ ## International Hacking & Cyber Security Community - DefCamp 2024
+ - [https://def.camp](https://def.camp)
+ - date_published: 2024-06-21T11:58:10.659942+00:00
+
+ ## Dice.camp
+ - [https://dice.camp](https://dice.camp)
+ - date_published: 2024-05-12T05:41:48.220110+00:00
+
+ ## Friend Camp
+ - [https://friend.camp](https://friend.camp)
+ - date_published: 2024-05-06T19:58:34.209137+00:00
+
+ ## Micro Camp: a virtual gathering of the Micro.blog community
+ - [https://micro.camp](https://micro.camp)
+ - date_published: 2024-05-04T07:00:21.898447+00:00
+
+ ## Home - MOCA2024
+ - [https://moca.camp](https://moca.camp)
+ - date_published: 2024-06-20T16:14:02+00:00
+
+ ## OpenCat Forum | Petoi LLC | United States
+ - [https://www.petoi.camp](https://www.petoi.camp)
+ - date_published: 2024-05-11T09:24:50.843560+00:00
+
+ ## White Christian Family - The white Christian family is the foundation of Western civilization
+ - [https://saints.camp](https://saints.camp)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Sleepawake Camp
+ - [https://www.sleepawake.camp](https://www.sleepawake.camp)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Canon Creative Park
+ - [https://creativepark.canon](https://creativepark.canon)
+ - date_published: 2024-04-30T05:35:17.800340+00:00
+
+ ## Canon Global
+ - [https://global.canon](https://global.canon)
+ - date_published: 2023-10-25T12:10:02.392667+00:00
+ - tags: ['company']
+
  ## Canon Global
  - [http://www.global.canon](http://www.global.canon)
  - date_published: 2024-06-16T05:47:37.107846+00:00
@@ -833,6 +910,10 @@
  ## Indystry.cc – Open Source Machines
  - [https://indystry.cc](https://indystry.cc)
  - date_published: 2024-05-08T04:06:51.243288+00:00
+
+ ## Wordcraft Home Page
+ - [http://wordcraft.infopop.cc](http://wordcraft.infopop.cc)
+ - date_published: 2019-05-21T17:20:28+00:00
 
  ## InterServer Live Chat
  - [https://chat.is.cc](https://chat.is.cc)
@@ -3444,6 +3525,10 @@
  - [https://ghsear.ch](https://ghsear.ch)
  - date_published: 2024-05-09T08:40:17.662442+00:00
 
+ ## Gilead – Creating Possible | Gilead Schweiz
+ - [https://www.gileadswitzerland.ch](https://www.gileadswitzerland.ch)
+ - date_published: 2024-07-02T04:08:19.547920+00:00
+
  ## Glassdoor-Jobsuche
  - [https://de.glassdoor.ch](https://de.glassdoor.ch)
  - date_published: 2024-06-22T21:19:40.227601+00:00
@@ -3955,89 +4040,4 @@
  ## Marcus Fischer
  - [https://mapmap.ch](https://mapmap.ch)
  - date_published: 2024-06-22T07:01:51.192608+00:00
-
- ## Home
- - [http://marcelhauri.ch](http://marcelhauri.ch)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Marcel Waldvogel
- - [https://marcel-waldvogel.ch](https://marcel-waldvogel.ch)
- - date_published: 2024-06-23T17:15:18.050079+00:00
-
- ## Mario Winkler Company
- - [http://mariowinkler.ch](http://mariowinkler.ch)
- - date_published: 2019-05-13T21:33:52+00:00
-
- ## Markustinner – Design, Music, Plugins
- - [http://www.markustinner.ch](http://www.markustinner.ch)
- - date_published: 2024-06-24T05:18:18.170323+00:00
-
- ## Methods & Tools Editor Blog
- - [http://blog.martinig.ch](http://blog.martinig.ch)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Martinig & Associates | Home
- - [https://www.martinig.ch](https://www.martinig.ch)
- - date_published: 2024-06-23T06:48:02.342865+00:00
-
- ## Pasar Jalan Petaling
- - [https://www.maurits.ch](https://www.maurits.ch)
- - date_published: 2023-10-25T08:43:18.862210+00:00
- - tags: ['personal']
-
- ## Home page
- - [http://mclean.ch](http://mclean.ch)
- - date_published: 2020-06-06T14:00:00+00:00
-
- ## MDTURP | MDTURP
- - [https://blog.mdturp.ch](https://blog.mdturp.ch)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Urgences Vaud by medigo - Les urgences à portée de main
- - [https://www.medigo.ch](https://www.medigo.ch)
- - date_published: 2024-04-30T05:59:25.869431+00:00
-
- ## Welcome in MPZ
- - [https://meinungsplatz.ch](https://meinungsplatz.ch)
- - date_published: 2024-06-25T22:24:35.815349+00:00
-
- ## Home
- - [https://mesh.ch](https://mesh.ch)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Météo & Radar Suisse
- - [https://meteoetradar.ch](https://meteoetradar.ch)
- - date_published: 2024-05-07T12:52:58.197087+00:00
-
- ## METOKI – Marketing, Digitalisierung, Wissensmanagement
- - [https://www.metoki.ch](https://www.metoki.ch)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Michelle Gisin - Home
- - [https://www.michellegisin.ch](https://www.michellegisin.ch)
- - date_published: 2024-06-16T09:05:54.566023+00:00
-
- ## Miler.ch – Casa d’Arte Miler
- - [http://miler.ch](http://miler.ch)
- - date_published: 2024-06-14T11:59:26.055050+00:00
-
- ## Matteo's Blog
- - [https://ml-software.ch](https://ml-software.ch)
- - date_published: 2021-06-04T00:00:00+00:00
-
- ## Multiplayer Online Science
- - [http://mmos.ch](http://mmos.ch)
- - date_published: 2023-12-28T20:56:18+00:00
-
- ## Moneyhouse - Handelsregister- & Wirtschaftsinformationen
- - [https://www.moneyhouse.ch](https://www.moneyhouse.ch)
- - date_published: 2024-06-29T08:33:14.654363+00:00
-
- ## Jobs | Stellenangebote | Jobsuche | Jobbörse | Monster.ch
- - [https://www.monster.ch](https://www.monster.ch)
- - date_published: 2024-06-16T13:57:55.151097+00:00
-
- ## Mood/Wood — Marc Zenhäusern
- - [https://moodwood.ch](https://moodwood.ch)
- - date_published: 2024-06-19T16:21:00.319623+00:00
 

@@ -1,3 +1,7 @@
+ ## The email marketing platform to communicate with your customers.
+ - [https://www.infomail.ai](https://www.infomail.ai)
+ - date_published: 2024-06-05T00:00:00+00:00
+
  ## Idea Validator • Informly • Validate your Business Idea instantly. Powered with AI.
  - [https://validator.informly.ai](https://validator.informly.ai)
  - date_published: 2024-06-14T08:51:46.429014+00:00
@@ -3192,6 +3196,10 @@
  - [https://www.struct.ai](https://www.struct.ai)
  - date_published: 2023-10-25T11:43:08.482350+00:00
 
+ ## StudentAdvisor
+ - [https://uga.studentadvisor.ai](https://uga.studentadvisor.ai)
+ - date_published: 2024-06-18T17:47:36+00:00
+
  ## StudioShot | Premium headshots from anywhere
  - [https://www.studioshot.ai](https://www.studioshot.ai)
  - date_published: 2024-01-14T00:00:00+00:00
@@ -3522,6 +3530,10 @@
  ## Tiipe | AI-Powered Content for Busy Creative Teams
  - [https://tiipe.ai](https://tiipe.ai)
  - date_published: 2023-12-03T00:00:00+00:00
+
+ ## TILOS – The Institute for Learning-enabled Optimization at Scale
+ - [https://www.tilos.ai](https://www.tilos.ai)
+ - date_published: 2024-07-02T01:35:05.665829+00:00
 
  ## Hello from Timbr Documentation | Timbr Documentation
  - [https://docs.timbr.ai](https://docs.timbr.ai)
@@ -4026,16 +4038,4 @@ Creative Solutions
  ## Waabi – The next generation of self-driving technology starts here.
  - [https://waabi.ai](https://waabi.ai)
  - date_published: 2023-10-25T11:44:58.055462+00:00
-
- ## WaifuChat
- - [https://waifuchat.ai](https://waifuchat.ai)
- - date_published: 2024-06-19T19:23:40.731098+00:00
-
- ## wallet.AI
- - [https://wallet.ai](https://wallet.ai)
- - date_published: 2024-01-12T13:03:16+00:00
-
- ## Weights & Biases
- - [https://app.wandb.ai](https://app.wandb.ai)
- - date_published: 2024-06-15T19:46:31.087097+00:00
 
