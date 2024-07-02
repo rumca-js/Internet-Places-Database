@@ -1,3 +1,355 @@
+ ## allУМНИ.клуб — „Аз мога - тук и сега”
+ - [https://allumni.az-moga.bg](https://allumni.az-moga.bg)
+ - date_published: 2024-05-07T16:33:01+00:00
+
+ ## „Аз мога — тук и сега”
+ - [https://az-moga.bg](https://az-moga.bg)
+ - date_published: 2024-05-04T12:18:53.316527+00:00
+
+ ## 403
+ - [https://cdn.az-moga.bg](https://cdn.az-moga.bg)
+ - date_published: 2024-06-21T11:44:06.834014+00:00
+
+ ## 2024 — Състезание по IT, информатика и визуални изкуства
+ - [https://contest.az-moga.bg](https://contest.az-moga.bg)
+ - date_published: 2024-06-01T07:07:57+00:00
+
+ ## Поход на вдъхновителите — „Аз мога - тук и сега”
+ - [https://inspirers.az-moga.bg](https://inspirers.az-moga.bg)
+ - date_published: 2024-04-16T09:50:40+00:00
+
+ ## Plausible · Web analytics
+ - [https://stat.az-moga.bg](https://stat.az-moga.bg)
+ - date_published: 2024-06-21T11:50:16.160765+00:00
+
+ ## Bloomberg Europe
+ - [https://bloom.bg](https://bloom.bg)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Начало
+ - [https://www.bloombergtv.bg](https://www.bloombergtv.bg)
+ - date_published: 2024-06-16T22:05:52.543568+00:00
+
+ ## БНР Новини - най-важното от България и света
+ - [https://bnr.bg](https://bnr.bg)
+ - date_published: 2024-06-21T11:55:46.838042+00:00
+
+ ## Качествени, устойчиви домакински уреди | Bosch
+ - [https://www.bosch-home.bg](https://www.bosch-home.bg)
+ - date_published: 2024-06-16T21:36:40.997723+00:00
+
+ ## Brother Online
+ - [https://atyourside.brother.bg](https://atyourside.brother.bg)
+ - date_published: 2024-06-17T21:03:53.497775+00:00
+
+ ## Офис принтери | Бизнес решения | Brother
+ - [https://www.brother.bg](https://www.brother.bg)
+ - date_published: 2024-05-02T11:28:52.161819+00:00
+
+ ## BTA
+ - [http://old.bta.bg](http://old.bta.bg)
+ - date_published: 2024-05-11T09:36:23.617095+00:00
+
+ ## БТА
+ - [https://www.bta.bg](https://www.bta.bg)
+ - date_published: 2024-03-23T20:19:13.028549+00:00
+
+ ## Капитал - прогнози, които се сбъдват. Новини и анализи от България, политика и икономика, финансова информация, начин на живот.
+ - [https://www.capital.bg](https://www.capital.bg)
+ - date_published: 2024-06-21T11:56:19.901808+00:00
+
+ ## Citroën България | София Франс Ауто  | Автомобили Citroën
+ - [https://www.citroen.bg](https://www.citroen.bg)
+ - date_published: 2024-05-08T05:30:26.816778+00:00
+
+ ## Създай своето успешно CV – (безплатен) инструмент за писане на CV
+ - [https://cvapp.bg](https://cvapp.bg)
+ - date_published: 2024-05-06T09:21:09.902325+00:00
+
+ ## CVapp.bg FAQ
+ - [https://help.cvapp.bg](https://help.cvapp.bg)
+ - date_published: 2024-06-22T22:11:41.532844+00:00
+
+ ## Спортни събития и тренировки - Decathlon Community
+ - [https://activities.decathlon.bg](https://activities.decathlon.bg)
+ - date_published: 2024-06-15T20:21:51.427458+00:00
+
+ ## Спортни събития и тренировки - Decathlon Community
+ - [https://play.decathlon.bg](https://play.decathlon.bg)
+ - date_published: 2024-06-15T20:21:56.402600+00:00
+
+ ## Декатлон | Спорт за всички. Всичко за спорта.
+ - [https://www.decathlon.bg](https://www.decathlon.bg)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Delete BG by Blend: Free Image Background Removal
+ - [https://www.delete.bg](https://www.delete.bg)
+ - date_published: 2024-06-19T18:54:27.224231+00:00
+
+ ## DigiKey Home
+ - [https://www.digikey.bg](https://www.digikey.bg)
+ - date_published: 2024-05-01T05:02:22.515962+00:00
+
+ ## Дисни България | Официалният сайт на Дисни
+ - [https://disney.bg](https://disney.bg)
+ - date_published: 2024-06-16T01:50:47.594390+00:00
+
+ ## Дисни България | Официалният сайт на Дисни
+ - [https://www.disney.bg](https://www.disney.bg)
+ - date_published: 2024-05-01T05:27:32.100618+00:00
+
+ ## DSP law office
+ - [http://dsp.bg](http://dsp.bg)
+ - date_published: 2021-01-11T03:35:51+00:00
+
+ ## Economic.bg | За да разбереш: икономика, бизнес новини
+ - [https://www.economic.bg](https://www.economic.bg)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Economy.bg - бизнесът в България
+ - [https://www.economy.bg](https://www.economy.bg)
+ - date_published: 2024-06-21T11:56:10.714898+00:00
+
+ ## Epoch Times Bulgaria: Истината и традицията
+ - [https://epochtimes.bg](https://epochtimes.bg)
+ - date_published: 2019-07-11T12:32:40+00:00
+
+ ## Free Background Image Remover: Remove BG from HD Images Online - Erase.bg
+ - [https://www.erase.bg](https://www.erase.bg)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Euractiv Bulgaria
+ - [https://euractiv.bg](https://euractiv.bg)
+ - date_published: 2024-05-02T09:58:45.077706+00:00
+
+ ## Euractiv Bulgaria
+ - [http://www.euractiv.bg](http://www.euractiv.bg)
+ - date_published: 2024-06-17T11:28:09.797072+00:00
+
+ ## Концерти, спорт, културни и други събития ~ Твоят билет е тук EVENTIM.bg
+ - [https://www.eventim.bg](https://www.eventim.bg)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## За Experian България
+ - [https://www.experian.bg](https://www.experian.bg)
+ - date_published: 2024-06-25T21:32:08.642373+00:00
+
+ ## Българската страница на Ferrero
+ - [https://www.ferrero.bg](https://www.ferrero.bg)
+ - date_published: 2024-06-19T08:38:11.181695+00:00
+
+ ## FIAT BG | SFA AUTOMOTIVE | Нови автомобили - хибридни и електрически
+ - [https://www.fiat.bg](https://www.fiat.bg)
+ - date_published: 2024-06-14T15:18:46+00:00
+
+ ## FIAT BG | SFA AUTOMOTIVE | Нови автомобили - хибридни и електрически
+ - [https://www.fiatprofessional.bg](https://www.fiatprofessional.bg)
+ - date_published: 2024-06-14T15:18:46+00:00
+
+ ## Flatio - Short, mid and long-term rentals for digital nomads
+ - [https://www.flatio.bg](https://www.flatio.bg)
+ - date_published: 2024-06-25T17:49:15.856168+00:00
+
+ ## Изгодни автобусни превози в Европа → FlixBus
+ - [https://www.flixbus.bg](https://www.flixbus.bg)
+ - date_published: 2024-06-28T10:09:43+00:00
+
+ ## Ford Bulgaria | Ford България
+ - [http://www.ford.bg](http://www.ford.bg)
+ - date_published: 2024-06-19T17:00:57.177017+00:00
+
+ ## Gani Georgiev
+ - [https://gani.bg](https://gani.bg)
+ - date_published: 2024-05-09T07:44:30.924202+00:00
+
+ ## Cierpliwości...
+ - [https://gdbop.bg](https://gdbop.bg)
+ - date_published: 2024-06-21T11:44:12.269625+00:00
+
+ ## Glamour
+ - [https://glamour.bg](https://glamour.bg)
+ - date_published: 2024-05-04T08:12:37.419091+00:00
+
+ ## Glamour
+ - [http://www.glamour.bg](http://www.glamour.bg)
+ - date_published: 2024-06-20T07:14:32.279336+00:00
+
+ ## Google
+ - [https://www.google.bg](https://www.google.bg)
+ - date_published: 2024-06-21T22:24:43.114824+00:00
+
+ ## Homepage
+ - [https://www.hilti.bg](https://www.hilti.bg)
+ - date_published: 2024-06-20T07:27:00.802602+00:00
+
+ ## Web Hosting and domain name, from only for 1.99€ | Hostico
+ - [https://hostico.bg](https://hostico.bg)
+ - date_published: 2024-06-16T14:57:27.478310+00:00
+
+ ## IBEX – Your Most Trusted Partner
+ - [https://www.ibex.bg](https://www.ibex.bg)
+ - date_published: 2024-05-20T02:45:42.686692+00:00
+
+ ## Borislav Stanimirov
+ - [https://ibob.bg](https://ibob.bg)
+ - date_published: 2023-10-25T09:01:22.391586+00:00
+ - tags: ['personal']
+
+ ## Новини Благоевград, Региона, Югозапада-Илинден Прес
+ - [https://ilindenpres.bg](https://ilindenpres.bg)
+ - date_published: 2024-06-21T11:55:11.115109+00:00
+
+ ## Jeep® BG | SFA AUTOMOTIVE | Нови автомобили - SUV, кросоувър и 4х4
+ - [http://www.jeep.bg](http://www.jeep.bg)
+ - date_published: 2015-07-12T12:50:38+00:00
+
+ ## Обяви за работа - JobTiger - HR компания и кариерен сайт
+ - [https://www.jobtiger.bg](https://www.jobtiger.bg)
+ - date_published: 2024-06-21T11:50:27+00:00
+
+ ## Хостинг и домейни - премиум услуги на конкурентни цени! | Jump.bg
+ - [https://www.jump.bg](https://www.jump.bg)
+ - date_published: 2024-06-21T11:50:44.429292+00:00
+
+ ## Решения за киберсигурност на Kaspersky за дома и бизнеса | Kaspersky
+ - [https://www.kaspersky.bg](https://www.kaspersky.bg)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Начало
+ - [https://www.kaufland.bg](https://www.kaufland.bg)
+ - date_published: 2024-06-25T19:02:03.274615+00:00
+
+ ## Безплатни онлайн игри - Lagged.bg
+ - [https://lagged.bg](https://lagged.bg)
+ - date_published: 2024-05-04T11:46:17.725410+00:00
+
+ ## Актуални бизнес новини от България и света
+ - [https://lider.bg](https://lider.bg)
+ - date_published: 2024-06-20T22:28:21+00:00
+
+ ## Lidl. Верига от любими продукти
+ - [https://www.lidl.bg](https://www.lidl.bg)
+ - date_published: 2024-06-25T19:03:36.439040+00:00
+
+ ## Mail.bg: Вход
+ - [https://mail.bg](https://mail.bg)
+ - date_published: 2024-06-21T11:50:22.747161+00:00
+
+ ## Miss Hosting
+ - [https://misshosting.bg](https://misshosting.bg)
+ - date_published: 2014-11-05T00:00:00+00:00
+
+ ## Бизнес, икономически и финансови новини от България и света
+ - [https://money.bg](https://money.bg)
+ - date_published: 2024-06-21T11:55:08.766458+00:00
+
+ ## Electronic Components Distributor - Mouser Electronics Bulgaria
+ - [https://www.mouser.bg](https://www.mouser.bg)
+ - date_published: 2024-07-01T20:55:43.408073+00:00
+
+ ## National Geographic България
+ - [https://www.nationalgeographic.bg](https://www.nationalgeographic.bg)
+ - date_published: 2024-06-16T22:11:09.383026+00:00
+
+ ## Начална страница
+ - [https://www.nbu.bg](https://www.nbu.bg)
+ - date_published: 2024-06-21T11:52:11.476925+00:00
+
+ ## Mагазин за игри, книги, геймърски аксесоари и играчки | Ozone.bg
+ - [https://www.ozone.bg](https://www.ozone.bg)
+ - date_published: 2024-06-17T05:42:42.455399+00:00
+
+ ## A Media Company
+ - [https://www.publico.bg](https://www.publico.bg)
+ - date_published: 2024-05-08T03:51:26.143455+00:00
+
+ ## publics.bg - public services knowledge network - мрежа за знания в публичните услуги
+ - [https://www.publics.bg](https://www.publics.bg)
+ - date_published: 2024-06-21T11:55:18.084177+00:00
+
+ ## tourist wannabe
+ - [https://rado.bg](https://rado.bg)
+ - date_published: 2024-02-13T17:36:00.453841+00:00
+ - tags: ['personal']
+
+ ## Новини от Благоевград и страната
+ - [https://regiona.bg](https://regiona.bg)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Remove Background from Image for Free – remove.bg
+ - [https://www.remove.bg](https://www.remove.bg)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Начало
+ - [http://www.safenet.bg](http://www.safenet.bg)
+ - date_published: 2024-05-07T23:39:47.801136+00:00
+
+ ## Глобални Консултации по Преговаряне, Глобално Обучение по Преговаряне | Скотуърк България
+ - [https://www.scotwork.bg](https://www.scotwork.bg)
+ - date_published: 2024-06-18T09:42:42.954445+00:00
+
+ ## Курсове и уроци по програмиране - Софтуерен университет
+ - [https://softuni.bg](https://softuni.bg)
+ - date_published: 2024-06-21T11:50:29.700425+00:00
+
+ ## Застрахователни Услуги в България | SOGELIFE
+ - [https://sogelife.bg](https://sogelife.bg)
+ - date_published: 2024-06-29T22:17:51.221311+00:00
+
+ ## SPARTOO| Shoes, bags and clothes | Free Delivery
+ - [https://www.spartoo.bg](https://www.spartoo.bg)
+ - date_published: 2024-06-12T11:13:35.285273+00:00
+
+ ## MySpeedy
+			
+			 - Вход
+ - [https://myspeedy.speedy.bg](https://myspeedy.speedy.bg)
+ - date_published: 2024-06-16T19:54:56.428494+00:00
+
+ ## Начало | Speedy
+ - [https://speedy.bg](https://speedy.bg)
+ - date_published: 2024-06-16T19:54:58.844764+00:00
+
+ ## Начало | Speedy
+ - [https://www.speedy.bg](https://www.speedy.bg)
+ - date_published: 2024-05-01T07:33:54.919942+00:00
+
+ ## Начало
+ - [http://www.speedygoesgreen.bg](http://www.speedygoesgreen.bg)
+ - date_published: 2024-06-16T19:55:00.307016+00:00
+
+ ## Telepoint — Colocation Data Center
+ - [https://telepoint.bg](https://telepoint.bg)
+ - date_published: 2024-05-12T06:58:13.101805+00:00
+
+ ## Telepoint — Colocation Data Center
+ - [http://www.telepoint.bg](http://www.telepoint.bg)
+ - date_published: 2024-05-12T06:58:18.158621+00:00
+
+ ## Добре дошли в официалния сайт на Toyota България
+ - [https://www.toyota.bg](https://www.toyota.bg)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## ТУ - София
+ - [http://www.tu-sofia.bg](http://www.tu-sofia.bg)
+ - date_published: 2024-06-21T11:44:05.448727+00:00
+
+ ## Университет по библиотекознание и информационни технологии
+ - [http://www.unibit.bg](http://www.unibit.bg)
+ - date_published: 2024-06-21T11:50:12.955324+00:00
+
+ ## Пловдивски университет "Паисий Хилендарски"
+ - [http://uni-plovdiv.bg](http://uni-plovdiv.bg)
+ - date_published: 2024-06-21T11:50:33.840004+00:00
+
+ ## Начало - Софийски университет "Св. Климент Охридски"
+ - [https://www.uni-sofia.bg](https://www.uni-sofia.bg)
+ - date_published: 2024-05-07T23:43:52.994180+00:00
+
+ ## VAGABOND Bulgaria’s English Magazine
+ - [https://vagabond.bg](https://vagabond.bg)
+ - date_published: 2024-06-21T11:56:07+00:00
+
  ## Време & Радар България
  - [https://vremeiradar.bg](https://vremeiradar.bg)
  - date_published: 2024-05-07T13:25:33.910218+00:00
@@ -97,6 +449,10 @@
  ## Cradle — Design Better Proteins
  - [https://cradle.bio](https://cradle.bio)
  - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Darnell (Bio)
+ - [http://darnell.bio](http://darnell.bio)
+ - date_published: 2024-07-01T10:38:38.045278+00:00
 
  ## Darnell (Bio)
  - [https://www.darnell.bio](https://www.darnell.bio)
@@ -218,6 +574,10 @@
  ## Nick Babich
  - [https://babich.biz](https://babich.biz)
  - date_published: 2024-05-20T14:33:05+00:00
+
+ ## Barnhardt | Judica me, Deus, et discerne causam meam de gente non sancta.
+ - [http://barnhardt.biz](http://barnhardt.biz)
+ - date_published: 2024-07-01T08:56:49.312264+00:00
 
  ## BEAMSTART - Global Entrepreneurship Community
  - [https://beam.biz](https://beam.biz)
@@ -490,6 +850,11 @@
  - [https://authoring-docs-microsoft.poolparty.biz](https://authoring-docs-microsoft.poolparty.biz)
  - date_published: 2024-03-11T00:00:00+00:00
 
+ ## Purdue University Online | Online Master's Degrees and Non-Credit Programs - 
+			 Purdue University Online -  Purdue University
+ - [https://purdue.biz](https://purdue.biz)
+ - date_published: 2024-07-01T17:47:14.572416+00:00
+
  ## Pushkins Prefers
  - [https://pushkinsprefers.biz](https://pushkinsprefers.biz)
  - date_published: 2024-05-02T11:54:08.605362+00:00
@@ -578,6 +943,10 @@
  ## Washington Wine and Gourmet – A place for wine enthusiasts
  - [http://wineandwords.biz](http://wineandwords.biz)
  - date_published: 2024-05-08T10:33:16.746453+00:00
+
+ ## Wyborcza.biz | Biznes Ludzie Pieniądze | Kursy walut | notowania giełdowe
+ - [https://wyborcza.biz](https://wyborcza.biz)
+ - date_published: 2024-07-01T08:02:03.575775+00:00
 
  ## CFAO Motors - Citroën Bénin
  - [https://www.citroen.bj](https://www.citroen.bj)
@@ -769,6 +1138,10 @@
  ## totally normal girl
  - [https://borschtwife.blog](https://borschtwife.blog)
  - date_published: 2024-06-27T02:49:48.707293+00:00
+
+ ## The Bottom Line
+ - [http://bottomline.blog](http://bottomline.blog)
+ - date_published: 2024-07-01T00:00:00+00:00
 
  ## Bring Back Blogs! January 2023
  - [https://bringback.blog](https://bringback.blog)
@@ -1257,6 +1630,10 @@
  ## Jordan Cooper's Blog: startups, venture capital, etc...
  - [http://jordancooper.blog](http://jordancooper.blog)
  - date_published: 2024-06-19T00:07:49+00:00
+
+ ## Josh Betz – Made with 🧀 in Madison
+ - [https://josh.blog](https://josh.blog)
+ - date_published: 2024-07-01T03:39:14.372420+00:00
 
  ## joshua johnson – learn more. know less.
  - [https://joshj.blog](https://joshj.blog)
@@ -3320,6 +3697,10 @@ Educação
  - [https://onlinecurriculo.com.br](https://onlinecurriculo.com.br)
  - date_published: 2024-05-06T09:21:04.370760+00:00
 
+ ## Optum | Serviços, Consultoria e Inovação em Saúde
+ - [https://www.optum.com.br](https://www.optum.com.br)
+ - date_published: 2024-02-16T00:00:00+00:00
+
  ## Home
  - [https://www.orama.com.br](https://www.orama.com.br)
  - date_published: 2024-06-12T00:00:00+00:00
@@ -3335,6 +3716,10 @@ Educação
  ## Panografias
  - [https://panografias.com.br](https://panografias.com.br)
  - date_published: 2024-03-16T00:00:00+00:00
+
+ ## Paulo Ghiraldelli – provocação filosófica
+ - [https://pauloghiraldelli.com.br](https://pauloghiraldelli.com.br)
+ - date_published: 2024-07-01T06:41:25.261248+00:00
 
  ## Attention Required! | Cloudflare
  - [https://petlove.com.br](https://petlove.com.br)
@@ -3408,6 +3793,10 @@ Educação
  ## Online newsletter software from rapidmail
  - [https://www.rapidmail.com.br](https://www.rapidmail.com.br)
  - date_published: 2024-06-22T22:22:32.195463+00:00
+
+ ## Delivery de Comida e Mercado na sua Casa - Rappi Brasil
+ - [https://www.rappi.com.br](https://www.rappi.com.br)
+ - date_published: 2024-07-01T06:26:18.117994+00:00
 
  ## RD Station | Automação de Marketing Digital - CRM de Vendas
  - [https://www.rdstation.com.br](https://www.rdstation.com.br)
@@ -3700,393 +4089,4 @@ Educação
  ## WarnerBros.com.br | Home de Filmes WB, TV, Games e mais!
  - [https://warnerbros.com.br](https://warnerbros.com.br)
  - date_published: 2024-05-07T11:19:31.436385+00:00
-
- ## WEB3DEV
- - [https://www.web3dev.com.br](https://www.web3dev.com.br)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## ERROR: The request could not be satisfied
- - [https://www.webmotors.com.br](https://www.webmotors.com.br)
- - date_published: 2024-06-16T09:16:12.815384+00:00
-
- ## WETCO
- - [https://wetco.com.br](https://wetco.com.br)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Home - Wi Digital
- - [https://widigital.com.br](https://widigital.com.br)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Wildtech Cursos e Consultoria
- - [https://www.wildtech.com.br](https://www.wildtech.com.br)
- - date_published: 2024-05-01T03:58:34.843327+00:00
-
- ## Your expert for installation material, maritime lighting and CCTV. - WISKA - make power smile
- - [https://www.wiska.com.br](https://www.wiska.com.br)
- - date_published: 2024-06-29T09:37:07.934504+00:00
-
- ## Site Oficial Wondershare: Criatividade, Produtividade, Utilidade
- - [https://www.wondershare.com.br](https://www.wondershare.com.br)
- - date_published: 2024-05-11T08:34:39.990969+00:00
-
- ## Home - Worktiba
- - [http://worktiba.com.br](http://worktiba.com.br)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Top Cassinos Online Brasil | Melhores sites de casino online brasileiros junho 2024
- - [https://worldcasinoexpert.com.br](https://worldcasinoexpert.com.br)
- - date_published: 2024-06-29T08:06:56.281573+00:00
-
- ## Home - XRBR
- - [https://xrbr.com.br](https://xrbr.com.br)
- - date_published: 2024-06-26T00:55:09+00:00
-
- ## Yelp
- - [https://www.yelp.com.br](https://www.yelp.com.br)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Zendesk: A Solução Completa de Atendimento ao Cliente
- - [https://www.zendesk.com.br](https://www.zendesk.com.br)
- - date_published: 2020-10-15T12:00:00+00:00
-
- ## Empréstimo para turbinar o seu negócio | Zippi: Empréstimo para autônomos que potencializa seu negócio
- - [https://zippi.com.br](https://zippi.com.br)
- - date_published: 2024-06-19T08:26:10.338655+00:00
-
- ## Zoetis
- - [https://www2.zoetis.com.br](https://www2.zoetis.com.br)
- - date_published: 2024-06-27T09:52:48+00:00
-
- ## Home - Bom Negócio
- - [http://www.bomnegocio.curitiba.br](http://www.bomnegocio.curitiba.br)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## calebe.dev.br
- - [https://blog.calebe.dev.br](https://blog.calebe.dev.br)
- - date_published: 2022-02-05T00:00:00+00:00
-
- ## Leandro Ferreira - Desenvolvedor PHP Laravel
- - [https://leandroferreira.dev.br](https://leandroferreira.dev.br)
- - date_published: 2024-06-19T09:30:46.786702+00:00
-
- ## Sistemas IFCE Paracuru
- - [http://webserver.paracuru.ifce.edu.br](http://webserver.paracuru.ifce.edu.br)
- - date_published: 2019-09-15T17:44:15+00:00
-
- ## Authentication - GLPI
- - [https://suporte.feliz.ifrs.edu.br](https://suporte.feliz.ifrs.edu.br)
- - date_published: 2024-06-16T15:29:11.962485+00:00
-
- ## Home - Inteli - Instituto de Tecnologia e Liderança
- - [https://www.inteli.edu.br](https://www.inteli.edu.br)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## UNIFEOB - Centro Universitário Fundação de Ensino Octávio Bastos
- - [https://unifeob.edu.br](https://unifeob.edu.br)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Acesso GovBR
- - [https://contas.acesso.gov.br](https://contas.acesso.gov.br)
- - date_published: 2024-05-10T03:45:33.147454+00:00
-
- ## Empresas gov.br
- - [https://empresas.acesso.gov.br](https://empresas.acesso.gov.br)
- - date_published: 2024-05-10T03:46:27.022059+00:00
-
- ## Portal Logado
- - [https://servicos.acesso.gov.br](https://servicos.acesso.gov.br)
- - date_published: 2024-05-10T03:45:20.670648+00:00
-
- ## Portal Logado
- - [https://sso.acesso.gov.br](https://sso.acesso.gov.br)
- - date_published: 2024-05-10T03:45:56.569657+00:00
-
- ## Banco Central do Brasil
- - [https://www.bcb.gov.br](https://www.bcb.gov.br)
- - date_published: 2024-05-12T04:09:19.217035+00:00
-
- ## CAPES
- - [http://www.capes.gov.br](http://www.capes.gov.br)
- - date_published: 2024-05-11T08:09:05.282834+00:00
-
- ## Fala.BR - Plataforma Integrada de Ouvidoria e Acesso à Informação
- - [https://falabr.cgu.gov.br](https://falabr.cgu.gov.br)
- - date_published: 2024-05-10T03:45:31.683367+00:00
-
- ## Painel de Compras
- - [http://paineldecompras.economia.gov.br](http://paineldecompras.economia.gov.br)
- - date_published: 2024-05-10T03:46:31.262882+00:00
-
- ## Finep - Início
- - [http://www.finep.gov.br](http://www.finep.gov.br)
- - date_published: 2024-05-11T08:08:50.663796+00:00
-
- ## MJSP
- - [https://www.justica.gov.br](https://www.justica.gov.br)
- - date_published: 2024-06-27T05:59:17.125020+00:00
-
- ## PRESIDÊNCIA DA REPÚBLICA
- - [http://www.planalto.gov.br](http://www.planalto.gov.br)
- - date_published: 2024-06-12T11:18:07.812245+00:00
-
- ## PRESIDÊNCIA DA REPÚBLICA
- - [http://www.presidencia.gov.br](http://www.presidencia.gov.br)
- - date_published: 2024-06-12T11:17:42.018552+00:00
-
- ## API RecomGov
- - [https://api.recomgov.df-1.estaleiro.serpro.gov.br](https://api.recomgov.df-1.estaleiro.serpro.gov.br)
- - date_published: 2024-05-10T03:45:28.970230+00:00
-
- ## gov.br - Search Console
- - [https://portalunico.estaleiro.serpro.gov.br](https://portalunico.estaleiro.serpro.gov.br)
- - date_published: 2024-05-10T03:45:22.211916+00:00
-
- ## Serpro
- - [http://www.serpro.gov.br](http://www.serpro.gov.br)
- - date_published: 2024-06-18T12:06:56.402259+00:00
-
- ## VLibras
- - [https://vlibras.gov.br](https://vlibras.gov.br)
- - date_published: 2024-05-10T03:45:38.908101+00:00
-
- ## VLibras
- - [http://www.vlibras.gov.br](http://www.vlibras.gov.br)
- - date_published: 2024-05-10T03:46:03.472453+00:00
-
- ## GOV.BR
- - [https://www.gov.br](https://www.gov.br)
- - date_published: 2023-12-11T19:33:23.992575+00:00
- - tags: ['government']
-
- ## Divulgação de Candidaturas e Contas Eleitorais
- - [https://divulgacandcontas.tse.jus.br](https://divulgacandcontas.tse.jus.br)
- - date_published: 2024-05-10T02:48:51.518311+00:00
-
- ## Resultados Oficial
- - [https://resultados.tse.jus.br](https://resultados.tse.jus.br)
- - date_published: 2023-10-25T12:02:51.440167+00:00
-
- ## Portal da Câmara dos Deputados
- - [https://www.camara.leg.br](https://www.camara.leg.br)
- - date_published: 2024-05-07T23:30:03.588334+00:00
-
- ## Authentication - GLPI
- - [https://homologcsti.teofilootoni.mg.gov.br](https://homologcsti.teofilootoni.mg.gov.br)
- - date_published: 2024-06-16T15:32:46.115274+00:00
-
- ## Marinha do Brasil
- - [https://www.marinha.mil.br](https://www.marinha.mil.br)
- - date_published: 2024-06-05T07:28:50.631346+00:00
- - tags: ['maritime']
-
- ## Consequência Editora. Livros de Geografia, História, Ciências Sociais, Educação, Política, Humanas..
- - [http://www.consequenciaeditora.net.br](http://www.consequenciaeditora.net.br)
- - date_published: 2024-05-10T06:57:20.058367+00:00
-
- ## Sputnik Brasil – Notícias Atuais do Mundo, Notícias Urgentes
- - [https://noticiabrasil.net.br](https://noticiabrasil.net.br)
- - date_published: 2024-06-15T08:41:29.275411+00:00
-
- ## Parafernália Interativa – Intelligent Digital Experiences
- - [https://www.parafernalia.net.br](https://www.parafernalia.net.br)
- - date_published: 2024-05-11T09:07:35.154578+00:00
-
- ## ABC – Academia Brasileira de Ciências
- - [http://www.abc.org.br](http://www.abc.org.br)
- - date_published: 2024-05-07T20:15:39.987342+00:00
-
- ## Análise de Capacidade Pessoal
- - [https://www.analisedecapacidadeoxford.org.br](https://www.analisedecapacidadeoxford.org.br)
- - date_published: 2024-06-17T16:41:04.571841+00:00
-
- ## ANM - Academia Nacional de Medicina - :
- - [https://anm.org.br](https://anm.org.br)
- - date_published: 2024-06-12T13:17:10.907097+00:00
-
- ## ANM - Academia Nacional de Medicina - :
- - [https://www.anm.org.br](https://www.anm.org.br)
- - date_published: 2024-06-12T06:11:45.871338+00:00
-
- ## Central de Atendimento 156
- - [http://www.central156.org.br](http://www.central156.org.br)
- - date_published: 2024-06-12T11:19:42.908816+00:00
-
- ## Portal do Instituto das Cidades Inteligentes
- - [https://cidadesinteligentes.org.br](https://cidadesinteligentes.org.br)
- - date_published: 2024-06-12T11:17:39.012950+00:00
-
- ## ICI Carreiras - Instituto das Cidades Inteligentes
- - [https://carreiras.ici.curitiba.org.br](https://carreiras.ici.curitiba.org.br)
- - date_published: 2024-06-12T11:17:29.011098+00:00
-
- ## CDN ICI
- - [https://cdn.ici.curitiba.org.br](https://cdn.ici.curitiba.org.br)
- - date_published: 2019-02-06T16:17:26+00:00
-
- ## Portal do Instituto das Cidades Inteligentes
- - [https://ici.curitiba.org.br](https://ici.curitiba.org.br)
- - date_published: 2024-06-12T03:30:14.046448+00:00
-
- ## ICI - Instituto das Cidades Inteligentes
- - [http://servicedesk.ici.curitiba.org.br](http://servicedesk.ici.curitiba.org.br)
- - date_published: 2024-06-12T11:19:37.807369+00:00
-
- ## ICI | Login
- - [https://service.ici.curitiba.org.br](https://service.ici.curitiba.org.br)
- - date_published: 2024-06-12T11:19:25.802005+00:00
-
- ## Portal do Instituto das Cidades Inteligentes
- - [https://www.ici.curitiba.org.br](https://www.ici.curitiba.org.br)
- - date_published: 2024-06-12T08:33:44.565078+00:00
-
- ## Escravo, nem pensar!
- - [https://escravonempensar.org.br](https://escravonempensar.org.br)
- - date_published: 2024-01-09T02:26:51.999598+00:00
-
- ## Escravo, nem pensar!
- - [https://www.escravonempensar.org.br](https://www.escravonempensar.org.br)
- - date_published: 2024-01-09T02:26:57.139425+00:00
-
- ## Home
- - [https://www.estrategiaods.org.br](https://www.estrategiaods.org.br)
- - date_published: 2024-06-12T11:17:25.476740+00:00
-
- ## Página Inicial - Fundação Santillana
- - [https://fundacaosantillana.org.br](https://fundacaosantillana.org.br)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## 1. Home - GFI Brasil
- - [https://gfi.org.br](https://gfi.org.br)
- - date_published: 2024-06-20T17:52:44+00:00
-
- ## ICOM Brasil
- - [http://www.icom.org.br](http://www.icom.org.br)
- - date_published: 2024-05-29T00:37:52.847010+00:00
-
- ## Home - Inhotim
- - [https://www.inhotim.org.br](https://www.inhotim.org.br)
- - date_published: 2023-11-13T13:54:33.035629+00:00
- - tags: ['museum']
-
- ## Instituto Ricardo Brennand
- - [https://www.institutoricardobrennand.org.br](https://www.institutoricardobrennand.org.br)
- - date_published: 2023-11-13T13:53:50.117261+00:00
- - tags: ['museum']
-
- ## Home - IPAM Amazônia
- - [https://ipam.org.br](https://ipam.org.br)
- - date_published: 2024-05-10T02:49:03.266225+00:00
-
- ## IPPUC | Prefeitura Municipal de Curitiba
- - [https://ippuc.org.br](https://ippuc.org.br)
- - date_published: 2024-06-12T11:18:33.045868+00:00
-
- ## Utag –  Unidade Técnico-Administrativa de Gerenciamento
- - [https://utag.ippuc.org.br](https://utag.ippuc.org.br)
- - date_published: 2024-06-12T03:30:42.682396+00:00
-
- ## Página Inicial
- - [https://www.labre.org.br](https://www.labre.org.br)
- - date_published: 2024-06-28T22:47:17.458043+00:00
-
- ## - Home
- - [https://laut.org.br](https://laut.org.br)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## MASP
- - [https://masp.org.br](https://masp.org.br)
- - date_published: 2023-11-13T13:41:34.414087+00:00
- - tags: ['museum']
-
- ## Mercy For Animals – Maior Organização do Mundo em Promoção do Veganismo e Defesa dos Direitos dos Animais Explorados para Consumo
- - [http://mercyforanimals.org.br](http://mercyforanimals.org.br)
- - date_published: 2024-05-10T06:58:15.910935+00:00
-
- ## Home - Museu de Arte do Rio – MAR
- - [https://museudeartedorio.org.br](https://museudeartedorio.org.br)
- - date_published: 2024-06-16T05:05:02.469317+00:00
-
- ## Museu do Amanhã
- - [https://museudoamanha.org.br](https://museudoamanha.org.br)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Home - Open Knowledge Brasil
- - [https://go.ok.org.br](https://go.ok.org.br)
- - date_published: 2024-06-12T12:34:04.833924+00:00
-
- ## Home - Open Knowledge Brasil
- - [https://ok.org.br](https://ok.org.br)
- - date_published: 2024-06-12T06:03:34.762017+00:00
-
- ## Pivô
- - [https://www.pivo.org.br](https://www.pivo.org.br)
- - date_published: 2024-02-08T17:51:49.160299+00:00
-
- ## Portas Abertas – Tudo sobre cristãos perseguidos e a Igreja Perseguida
- - [https://www.portasabertas.org.br](https://www.portasabertas.org.br)
- - date_published: 2024-05-08T11:12:55.979392+00:00
-
- ## Planeta PythonBrasil
- - [https://planet.python.org.br](https://planet.python.org.br)
- - date_published: 2021-07-11T00:00:00+00:00
-
- ## PythonBrasil - PythonBrasil
- - [http://wiki.python.org.br](http://wiki.python.org.br)
- - date_published: 2024-06-28T19:57:47.783697+00:00
-
- ## Comunicar para Mudar
- - [https://comunicarparamudar.reporterbrasil.org.br](https://comunicarparamudar.reporterbrasil.org.br)
- - date_published: 2024-01-09T02:27:01.376800+00:00
-
- ## Mapa da Água: O que sai da sua torneira?
- - [https://mapadaagua.reporterbrasil.org.br](https://mapadaagua.reporterbrasil.org.br)
- - date_published: 2023-12-11T19:32:28.275445+00:00
-
- ## Narcogarimpos – Especial – Narcogarimpos
- - [https://narcogarimpos.reporterbrasil.org.br](https://narcogarimpos.reporterbrasil.org.br)
- - date_published: 2023-12-11T19:34:35.359408+00:00
-
- ## Nome aos Bois – Reporter Brasil
- - [https://nomeaosbois.reporterbrasil.org.br](https://nomeaosbois.reporterbrasil.org.br)
- - date_published: 2023-12-11T19:34:47.478056+00:00
-
- ## Repórter Brasil
- - [https://reporterbrasil.org.br](https://reporterbrasil.org.br)
- - date_published: 2023-11-14T17:00:02.121596+00:00
-
- ## Ruralômetro - Medindo a febre ruralista dos candidatos
- - [https://ruralometro2018.reporterbrasil.org.br](https://ruralometro2018.reporterbrasil.org.br)
- - date_published: 2024-05-10T03:48:46.273300+00:00
-
- ## Ruralômetro 2022 - Ferramenta ajuda a escolher deputados
- - [https://ruralometro2022.reporterbrasil.org.br](https://ruralometro2022.reporterbrasil.org.br)
- - date_published: 2023-12-11T19:31:35.115572+00:00
-
- ## Repórter Brasil
- - [http://www.reporterbrasil.org.br](http://www.reporterbrasil.org.br)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Página inicial - Sociedade Brasileira de Reumatologia
- - [https://www.reumatologia.org.br](https://www.reumatologia.org.br)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## The Nature Conservancy
- - [https://www.tnc.org.br](https://www.tnc.org.br)
- - date_published: 2024-05-08T10:42:44.077294+00:00
-
- ## Vocação - Você em Ação
- - [https://vocacao.org.br](https://vocacao.org.br)
- - date_published: 2024-05-07T14:58:15.444029+00:00
-
- ## WWF-Brasil
- - [https://www.wwf.org.br](https://www.wwf.org.br)
- - date_published: 2024-05-07T23:56:56.112200+00:00
-
- ## PMPE - Polícia Militar de Pernambuco
- - [https://www.pm.pe.gov.br](https://www.pm.pe.gov.br)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Página Inicial — Portal da Câmara Municipal de Curitiba
- - [http://www.cmc.pr.gov.br](http://www.cmc.pr.gov.br)
- - date_published: 2024-06-12T00:00:00+00:00
 

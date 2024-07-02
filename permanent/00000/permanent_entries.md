@@ -15,9 +15,21 @@
  - date_published: 2024-04-11T02:30:03.805708+00:00
  - tags: ['dns resolver', 'cloudflare']
 
+ ## ABB Group. Leading digital technologies for industry
+ - [https://global.abb](https://global.abb)
+ - date_published: 2024-07-01T08:13:31+00:00
+
+ ## Blackboard Ally - Accessible content is better content
+ - [https://ally.ac](https://ally.ac)
+ - date_published: 2023-05-19T13:34:25+00:00
+
  ## Blackboard Ally - Accessible content is better content
  - [https://prod.ally.ac](https://prod.ally.ac)
- - date_published: 2024-05-07T19:19:59.708309+00:00
+ - date_published: 2023-05-19T13:34:25+00:00
+
+ ## Dashboard - Ally User Group
+ - [https://usergroup.ally.ac](https://usergroup.ally.ac)
+ - date_published: 2024-07-01T12:35:24.762619+00:00
 
  ## AstroLAB
  - [https://astrolab.ac](https://astrolab.ac)
@@ -484,6 +496,10 @@
  - [https://topgolfdubai.ae](https://topgolfdubai.ae)
  - date_published: 2024-06-30T11:34:45.263434+00:00
 
+ ## Home
+ - [https://trapezegroup.ae](https://trapezegroup.ae)
+ - date_published: 2024-05-07T00:00:00+00:00
+
  ## Virgin Megastore | Shop Online for Tech, Toys, Home Decor & More
  - [https://www.virginmegastore.ae](https://www.virginmegastore.ae)
  - date_published: 2024-06-15T03:30:56.589448+00:00
@@ -738,7 +754,7 @@
  - tags: ['personal']
 
  ## Index
- - [http://tx.ag](http://tx.ag)
+ - [https://tx.ag](https://tx.ag)
  - date_published: 2024-05-07T20:37:56.644697+00:00
 
  ## YesMovies - Watch Movies & Series in High Quality!
@@ -851,7 +867,7 @@
  - date_published: 2024-05-21T00:00:00+00:00
 
  ## Julia Camino. Management & Booking Agency.
- - [http://julia.agency](http://julia.agency)
+ - [https://julia.agency](https://julia.agency)
  - date_published: 2024-05-07T19:02:49.657928+00:00
 
  ## KOBU Agency Insights aka Newsletter
@@ -1364,6 +1380,10 @@
  ## Audyo - Audyo
  - [https://www.audyo.ai](https://www.audyo.ai)
  - date_published: 2024-06-19T19:05:12.807213+00:00
+
+ ## Index of /
+ - [http://auggi.ai](http://auggi.ai)
+ - date_published: 2024-07-01T19:49:47.427858+00:00
 
  ## AI Assistant One Tap Away: Write, Chat, Transcribe | Auri.AI
  - [https://auri.ai](https://auri.ai)
@@ -2126,6 +2146,10 @@ Welcome
  - date_published: 2023-09-04T20:46:24+00:00
 
  ## Meaningful Code Tests for Busy Devs | CodiumAI
+ - [https://codium.ai](https://codium.ai)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Meaningful Code Tests for Busy Devs | CodiumAI
  - [https://www.codium.ai](https://www.codium.ai)
  - date_published: 2024-05-08T00:00:00+00:00
 
@@ -2345,6 +2369,10 @@ Welcome
  - [https://coral.ai](https://coral.ai)
  - date_published: 2024-01-12T03:16:41.370771+00:00
 
+ ## Homepage - Cortico
+ - [http://www.cortico.ai](http://www.cortico.ai)
+ - date_published: 2024-06-25T00:00:00+00:00
+
  ## Corvidae
  - [https://corvidae.ai](https://corvidae.ai)
  - date_published: 2021-06-15T10:52:01+00:00
@@ -2527,6 +2555,10 @@ Welcome
  ## DataComp
  - [https://www.datacomp.ai](https://www.datacomp.ai)
  - date_published: 2024-05-04T15:29:05.304344+00:00
+
+ ## Data Council 2024
+ - [https://www.datacouncil.ai](https://www.datacouncil.ai)
+ - date_published: 2024-07-01T18:53:02+00:00
 
  - [https://console.dataherald.ai](https://console.dataherald.ai)
  - date_published: 2024-02-14T21:17:08.089087+00:00
@@ -3195,7 +3227,7 @@ Welcome
  - date_published: 2024-05-24T19:34:58.576030+00:00
 
  ## First Impression
- - [https://www.firstimpression.ai](https://www.firstimpression.ai)
+ - [https://firstimpression.ai](https://firstimpression.ai)
  - date_published: 2024-05-07T18:22:13.318552+00:00
 
  ## Fixie.ai Blog
@@ -3293,6 +3325,10 @@ Welcome
  ## folivora.ai - Great Tools for your Mac!
  - [https://folivora.ai](https://folivora.ai)
  - date_published: 2024-05-04T14:46:35.223475+00:00
+
+ ## Cohere For AI (C4AI)
+ - [https://cohere.for.ai](https://cohere.for.ai)
+ - date_published: 2024-07-01T14:59:50.877603+00:00
 
  ## Forestwalk Labs
  - [https://forestwalk.ai](https://forestwalk.ai)
@@ -3931,6 +3967,10 @@ Welcome
  - [https://fc20.ifca.ai](https://fc20.ifca.ai)
  - date_published: 2024-05-02T09:52:22.693822+00:00
 
+ ## FC'24 : Financial Cryptography 2024
+ - [http://fc24.ifca.ai](http://fc24.ifca.ai)
+ - date_published: 2024-07-01T06:40:54.106121+00:00
+
  ## IFCA
  - [http://ifca.ai](http://ifca.ai)
  - date_published: 2024-06-17T10:11:16.631788+00:00
@@ -3991,44 +4031,4 @@ Welcome
  ## The email marketing platform to communicate with your customers.
  - [https://www.infomail.ai](https://www.infomail.ai)
  - date_published: 2024-06-05T00:00:00+00:00
-
- ## Idea Validator • Informly • Validate your Business Idea instantly. Powered with AI.
- - [https://validator.informly.ai](https://validator.informly.ai)
- - date_published: 2024-06-14T08:51:46.429014+00:00
-
- ## Home - Inkdrop
- - [https://inkdrop.ai](https://inkdrop.ai)
- - date_published: 2024-01-22T16:24:51+00:00
-
- ## InOrbit
- - [https://www.inorbit.ai](https://www.inorbit.ai)
- - date_published: 2024-04-28T05:22:51.383424+00:00
-
- ## IN SCHOOL — business knowledge from Silicon Valley
- - [https://inschool.ai](https://inschool.ai)
- - date_published: 2024-06-24T11:18:33.191843+00:00
-
- ## Inscribe: Fraudulent Document & Risk Detection Software
- - [https://www.inscribe.ai](https://www.inscribe.ai)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## ZoomInfo Chat
- - [https://freightwaves.widget.insent.ai](https://freightwaves.widget.insent.ai)
- - date_published: 2023-10-18T08:56:50+00:00
-
- ## InsightBase | Chat with your database using AI
- - [https://insightbase.ai](https://insightbase.ai)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## InstaNovel - Generate your Novel with AI
- - [https://instanovel.ai](https://instanovel.ai)
- - date_published: 2023-02-11T17:40:24+00:00
-
- ## Instantly.ai - Sales Engagement & Lead Intelligence
- - [https://instantly.ai](https://instantly.ai)
- - date_published: 2024-06-19T19:35:16.338059+00:00
-
- ## Intellecs.ai
- - [https://www.intellecs.ai](https://www.intellecs.ai)
- - date_published: 2024-06-19T19:17:52.936358+00:00
 
