@@ -35,6 +35,10 @@
  - [https://astrolab.ac](https://astrolab.ac)
  - date_published: 2024-05-08T11:36:45.111123+00:00
 
+ ## BUREAU
+ - [http://bureau.ac](http://bureau.ac)
+ - date_published: 2024-07-02T19:00:45.754131+00:00
+
  ## Goran Butorac
  - [https://goran.butor.ac](https://goran.butor.ac)
  - date_published: 2024-05-09T08:14:06.195409+00:00
@@ -91,7 +95,7 @@
  ## Pack
  - [https://pack.ac](https://pack.ac)
  - date_published: 2024-03-22T20:49:42.626365+00:00
- - tags: ['archive program', 'program', 'open source']
+ - tags: ['archive program', 'desktop program', 'open source']
 
  ## Scratchpad of Mathias Sablé-Meyer
  - [https://blog.s-m.ac](https://blog.s-m.ac)
@@ -172,7 +176,7 @@
  - date_published: 2024-06-19T21:24:30.162457+00:00
 
  ## Philosophy Academy
- - [https://www.philosophy.academy](https://www.philosophy.academy)
+ - [https://philosophy.academy](https://philosophy.academy)
  - date_published: 2024-01-29T00:00:00+00:00
 
  ## Rancher Academy
@@ -898,6 +902,10 @@
  - [https://www.magecloud.agency](https://www.magecloud.agency)
  - date_published: 2024-06-26T00:00:00+00:00
 
+ ## Craft CMS Web Design & Development Agency in the UK - Mutual
+ - [https://www.mutual.agency](https://www.mutual.agency)
+ - date_published: 2024-07-02T19:45:33.332109+00:00
+
  ## Paranoid.Agency
  - [https://paranoid.agency](https://paranoid.agency)
  - date_published: 2024-01-09T02:23:14.014553+00:00
@@ -1145,7 +1153,7 @@
  - date_published: 2024-06-29T22:47:05.566410+00:00
 
  ## alphaMountain | Domain Threat Intel, IP Reputation & Classification
- - [https://www.alphamountain.ai](https://www.alphamountain.ai)
+ - [https://alphamountain.ai](https://alphamountain.ai)
  - date_published: 2023-08-03T00:00:00+00:00
 
  ## AlphaSignal | The Most Read Technical Newsletter in AI
@@ -1598,6 +1606,18 @@
  - [https://bfore.ai](https://bfore.ai)
  - date_published: 2024-05-07T23:38:16.472444+00:00
 
+ ## BforeAI Blog
+ - [https://blog.bfore.ai](https://blog.bfore.ai)
+ - date_published: 2024-07-02T04:46:08+00:00
+
+ ## Log in | Client Panel 2.0
+ - [https://client.bfore.ai](https://client.bfore.ai)
+ - date_published: 2024-07-02T22:14:10.733222+00:00
+
+ ## BforeAI – Fighting cyberthreats with intelligence
+ - [https://stg4.bfore.ai](https://stg4.bfore.ai)
+ - date_published: 2024-07-02T22:14:02.825481+00:00
+
  ## BgRem — Incredible AI Tools for Creating Images & Videos
  - [https://bgrem.ai](https://bgrem.ai)
  - date_published: 2024-06-19T19:10:13.408259+00:00
@@ -1786,6 +1806,10 @@
  ## C3 AI - Enterprise AI
  - [https://c3.ai](https://c3.ai)
  - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Caffe2
+ - [https://caffe2.ai](https://caffe2.ai)
+ - date_published: 2019-05-30T18:44:09+00:00
 
  ## Caktus AI | Homework Helper
  - [https://www.caktus.ai](https://www.caktus.ai)
@@ -2815,6 +2839,10 @@ Welcome
  - [https://dubverse.ai](https://dubverse.ai)
  - date_published: 2024-04-24T00:00:00+00:00
 
+ ## DuckDuckGo at DuckDuckGo
+ - [https://duck.ai](https://duck.ai)
+ - date_published: 2024-07-02T20:20:30.408207+00:00
+
  ## Durable - Custom Software: Designed by you, Built by Generative AI.
  - [https://durable.ai](https://durable.ai)
  - date_published: 2024-05-29T16:52:40+00:00
@@ -2961,9 +2989,17 @@ Welcome
  - date_published: 2023-10-25T11:38:25.700332+00:00
  - tags: ['global warming', 'climate change']
 
+ ## Ento
+ - [https://app.ento.ai](https://app.ento.ai)
+ - date_published: 2024-07-02T17:17:55.060778+00:00
+
  ## ENTO - Great energy savings. Little effort.
  - [https://ento.ai](https://ento.ai)
  - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://learn.ento.ai](https://learn.ento.ai)
+ - date_published: 2024-07-02T17:17:53.248398+00:00
 
  ## Epique AI | Epique Cloud
  - [https://epique.ai](https://epique.ai)
@@ -3197,6 +3233,10 @@ Welcome
  ## ficc.ai
  - [https://ficc.ai](https://ficc.ai)
  - date_published: 2024-05-08T03:06:29.340276+00:00
+
+ ## Fiddler AI – AI Observability, ML Model Monitoring, LLM Monitoring, and Explainable AI
+ - [https://www.fiddler.ai](https://www.fiddler.ai)
+ - date_published: 2024-07-01T00:00:00+00:00
 
  ## Film Recommendation Using GenAI
  - [http://filmfinder.ai](http://filmfinder.ai)
@@ -3871,6 +3911,10 @@ Welcome
  - [https://hopshop.ai](https://hopshop.ai)
  - date_published: 2024-06-19T19:21:39.043544+00:00
 
+ ## Hopsworks - The Real-time AI Lakehouse
+ - [https://www.hopsworks.ai](https://www.hopsworks.ai)
+ - date_published: 2024-07-02T00:00:00+00:00
+
  ## Home – Horizon3.ai
  - [https://www.horizon3.ai](https://www.horizon3.ai)
  - date_published: 2024-05-08T00:00:00+00:00
@@ -3986,49 +4030,4 @@ Welcome
  ## AI Photo Studio: Elevate Your E-Commerce with Our Magic Studio | iFoto
  - [https://www.ifoto.ai](https://www.ifoto.ai)
  - date_published: 2024-06-27T10:51:29.268074+00:00
-
- ## Artificial Ignorance | Charlie Guo | Substack
- - [https://www.ignorance.ai](https://www.ignorance.ai)
- - date_published: 2023-10-25T11:39:13.090034+00:00
-
- ## Iliad
- - [https://iliad.ai](https://iliad.ai)
- - date_published: 2024-06-19T20:08:12.399600+00:00
-
- ## iLuminary: Revolutionary AI Wallet Solutions
- - [https://iluminary.ai](https://iluminary.ai)
- - date_published: 2023-12-03T00:00:00+00:00
-
- ## Best AI image generator - AI edit photo online free
- - [https://www.imagewith.ai](https://www.imagewith.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Imagine· The next-gen project starter and code generator
- - [https://www.imagine.ai](https://www.imagine.ai)
- - date_published: 2023-10-25T11:39:15.017406+00:00
-
- ## Imajinn AI
- - [https://imajinn.ai](https://imajinn.ai)
- - date_published: 2024-06-19T18:48:20.350394+00:00
-
- ## Home of Reasoning as a Service® | Imandra Inc.
- - [https://www.imandra.ai](https://www.imandra.ai)
- - date_published: 2024-06-22T09:46:59.565346+00:00
-
- ## Welcome to the Artificial Intelligence Incident Database
- - [https://incidentdatabase.ai](https://incidentdatabase.ai)
- - date_published: 2023-10-25T11:52:19.311811+00:00
-
- ## Infinity AI
- - [https://infinity.ai](https://infinity.ai)
- - date_published: 2024-04-30T05:24:19+00:00
-
- ## Inflection
- - [https://inflection.ai](https://inflection.ai)
- - date_published: 2023-10-25T11:39:23.848682+00:00
- - tags: ['artificial intelligence bot']
-
- ## demo.infoforge.ai
- - [https://demo.infoforge.ai](https://demo.infoforge.ai)
- - date_published: 2024-06-21T23:57:46+00:00
 

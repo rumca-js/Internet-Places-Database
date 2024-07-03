@@ -1,3 +1,320 @@
+ ## Scrypted Cloud
+ - [https://home.scrypted.app](https://home.scrypted.app)
+ - date_published: 2024-05-14T04:02:09.834278+00:00
+
+ ## Scrypted
+ - [https://scrypted.app](https://scrypted.app)
+ - date_published: 2024-04-08T19:30:45.555957+00:00
+ - tags: ['alexa', 'smart home', 'video streaming', 'google home']
+
+ ## Scrypted
+ - [https://www.scrypted.app](https://www.scrypted.app)
+ - date_published: 2024-05-14T04:02:03.718759+00:00
+
+ ## Seatsurfing
+ - [https://seatsurfing.app](https://seatsurfing.app)
+ - date_published: 2024-05-23T20:09:17+00:00
+
+ ## Show HN: Seedling – A Decentralised Medium
+ - [https://seedling-d.app](https://seedling-d.app)
+ - date_published: 2024-01-05T22:54:58+00:00
+
+ ## Every mountain, building and tree shadow in the world simulated for any time
+ - [https://shademap.app](https://shademap.app)
+ - date_published: 2024-05-31T05:09:24+00:00
+
+ ## AI with Brain Inside Google Sheets
+ - [https://sheetai.app](https://sheetai.app)
+ - date_published: 2024-06-19T21:11:38.165510+00:00
+
+ ## ShinyTracker
+ - [https://shinytracker.app](https://shinytracker.app)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## https://go.shop.app
+ - [https://go.shop.app](https://go.shop.app)
+ - date_published: 2024-02-24T09:57:16.776865+00:00
+
+ ## Weryfikowanie połączenia...
+ - [https://shop.app](https://shop.app)
+ - date_published: 2024-04-28T03:00:17.300790+00:00
+
+ ## Newsroom • Sidetrack
+ - [https://blog.sidetrack.app](https://blog.sidetrack.app)
+ - date_published: 2024-06-23T15:08:11.349556+00:00
+
+ ## Signet App – Your digital identity and security of communications at your palm
+ - [https://signet.app](https://signet.app)
+ - date_published: 2023-12-02T18:33:02+00:00
+
+ ## Sindri - Modernized ZK DevOps and Accelerated Proving Infrastructure
+ - [https://www.sindri.app](https://www.sindri.app)
+ - date_published: 2024-06-04T21:21:46+00:00
+
+ ## Sizzy — The browser for web developers
+ - [https://sizzy.app](https://sizzy.app)
+ - date_published: 2024-06-15T03:54:49+00:00
+
+ ## SkyFeed
+ - [https://skyfeed.app](https://skyfeed.app)
+ - date_published: 2024-05-02T13:43:24.763590+00:00
+
+ ## Slant it - Screen recordings to catchy 3D videos in minutes
+ - [https://slantit.app](https://slantit.app)
+ - date_published: 2024-05-01T02:57:40.601612+00:00
+
+ ## Slater | AI Custom Code Tool For Webflow Projects
+ - [https://slater.app](https://slater.app)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Feedback | Playtronica
+ - [https://playtronica.sleekplan.app](https://playtronica.sleekplan.app)
+ - date_published: 2024-05-11T08:47:57.819194+00:00
+
+ ## SleepEasy Website Monitor | Proactive monitoring for your site's most important user flows.
+ - [https://www.sleepeasy.app](https://www.sleepeasy.app)
+ - date_published: 2024-02-09T00:43:13.667002+00:00
+
+ ## the smallest app studio
+ - [https://smallest.app](https://smallest.app)
+ - date_published: 2024-02-21T17:56:13.597364+00:00
+
+ ## Grocery App
+ - [https://smartgrocery.app](https://smartgrocery.app)
+ - date_published: 2022-08-12T01:13:29+00:00
+
+ ## Photo Editor Online - AI Editing Photo Free - SnapEdit.App
+ - [https://snapedit.app](https://snapedit.app)
+ - date_published: 2024-06-19T19:26:12.195912+00:00
+
+ ## snippet generator
+ - [https://snippet-generator.app](https://snippet-generator.app)
+ - date_published: 2024-06-23T06:14:36.817703+00:00
+
+ ## Snowpixel App
+ - [https://snowpixel.app](https://snowpixel.app)
+ - date_published: 2024-04-11T19:45:39+00:00
+
+ ## Football - scores, schedule & odds | Sofascore
+ - [https://api.sofascore.app](https://api.sofascore.app)
+ - date_published: 2024-06-18T06:24:31.834934+00:00
+
+ ## AI Recipe Generator
+ - [https://ai-recipes.softr.app](https://ai-recipes.softr.app)
+ - date_published: 2023-02-12T00:00:00+00:00
+
+ ## Home
+ - [https://startify.softr.app](https://startify.softr.app)
+ - date_published: 2023-09-04T00:00:00+00:00
+
+ ## soketi
+ - [https://soketi.app](https://soketi.app)
+ - date_published: 2024-06-19T22:08:57.323278+00:00
+
+ ## SolarAssets | Micro-Investments in Photovoltaic Projects
+ - [https://solarassets.app](https://solarassets.app)
+ - date_published: 2024-05-10T07:01:27.220472+00:00
+
+ ## Solid Movies
+ - [https://solid-movies.app](https://solid-movies.app)
+ - date_published: 2024-06-23T03:22:51.413659+00:00
+
+ ## Soon: Fully Automated Crypto Investing
+ - [https://www.soon.app](https://www.soon.app)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Soupault: A static website management tool
+ - [https://soupault.app](https://soupault.app)
+ - date_published: 2024-03-23T02:19:13+00:00
+ - tags: ['static websites']
+
+ ## Space Capsule
+ - [https://spacecapsule.app](https://spacecapsule.app)
+ - date_published: 2024-06-22T06:22:34.279205+00:00
+
+ ## SparkLoop
+ - [https://dash.sparkloop.app](https://dash.sparkloop.app)
+ - date_published: 2024-04-28T06:24:15.100391+00:00
+
+ ## SparkLoop
+ - [https://js.sparkloop.app](https://js.sparkloop.app)
+ - date_published: 2024-05-02T12:58:16.744885+00:00
+
+ ## Proof
+ - [https://proof.sparkloop.app](https://proof.sparkloop.app)
+ - date_published: 2024-06-19T06:58:35.450662+00:00
+
+ ## Spartacus
+ - [http://www.spartacus.app](http://www.spartacus.app)
+ - date_published: 2024-05-08T09:58:04.953286+00:00
+
+ ## Speakle
+ - [https://speakle.app](https://speakle.app)
+ - date_published: 2024-05-18T02:48:01.004735+00:00
+
+ ## Spectrolite
+ - [https://spectrolite.app](https://spectrolite.app)
+ - date_published: 2023-10-25T11:48:58.865948+00:00
+
+ ## Welcome to Asm-Editor
+ - [https://asm-editor.specy.app](https://asm-editor.specy.app)
+ - date_published: 2023-10-25T11:49:02.976604+00:00
+ - tags: ['online tool', 'programming ide', 'm68k', 'asm-editor', 'assembly']
+
+ ## speedscope
+ - [https://www.speedscope.app](https://www.speedscope.app)
+ - date_published: 2024-04-30T05:16:40.305745+00:00
+
+ ## SpellBox - AI programming assistant
+ - [https://spellbox.app](https://spellbox.app)
+ - date_published: 2024-06-19T20:54:53.002663+00:00
+
+ ## AI Face Swap Online | Anakin.ai
+ - [https://www.spreadai.app](https://www.spreadai.app)
+ - date_published: 2024-06-19T19:03:56.021247+00:00
+
+ ## SQL Genius - SQL AI generator - Translate English to SQL Query
+ - [https://sqlgenius.app](https://sqlgenius.app)
+ - date_published: 2024-01-11T02:10:43+00:00
+
+ ## SQLite Viewer Web
+ - [https://alpha.sqliteviewer.app](https://alpha.sqliteviewer.app)
+ - date_published: 2024-06-14T09:17:47.544921+00:00
+
+ ## SQLite Viewer Web App
+ - [https://sqliteviewer.app](https://sqliteviewer.app)
+ - date_published: 2024-06-14T09:17:12+00:00
+ - tags: ['online tool', 'sqllite']
+
+ ## Squoosh
+ - [https://squoosh.app](https://squoosh.app)
+ - date_published: 2024-06-18T09:25:50.273289+00:00
+
+ ## Stacky - Create micro websites with QR codes
+ - [https://stacky.app](https://stacky.app)
+ - date_published: 2024-07-02T20:15:48.537819+00:00
+
+ ## Stemstr
+ - [https://stemstr.app](https://stemstr.app)
+ - date_published: 2024-06-15T22:34:21.119193+00:00
+
+ ## Show HN: I built a tool for repeatable checklists
+ - [https://steplist.app](https://steplist.app)
+ - date_published: 2024-05-02T14:21:59+00:00
+
+ ## Please don’t theme our apps
+ - [https://stopthemingmy.app](https://stopthemingmy.app)
+ - date_published: 2023-10-25T11:49:07.204497+00:00
+
+ ## https://store.app
+ - [https://store.app](https://store.app)
+ - date_published: 2023-10-24T20:06:24.975812+00:00
+
+ ## Store Leads
+ - [https://storeleads.app](https://storeleads.app)
+ - date_published: 2024-05-13T02:40:46.387100+00:00
+
+ ## StoryCapsule
+ - [https://storycapsule.app](https://storycapsule.app)
+ - date_published: 2024-05-06T21:20:02.129499+00:00
+
+ ## StoryCatcher® for iOS ~ What's your story?
+ - [https://storycatcher.app](https://storycatcher.app)
+ - date_published: 2024-05-06T20:17:56.760550+00:00
+
+ ## Book Planning & Writer's Block Cure in One App
+ - [https://storypath.app](https://storypath.app)
+ - date_published: 2024-06-19T19:36:05.047718+00:00
+
+ ## Interaktive Geschichten für Kinder und Jugendliche
+ - [https://www.story-world.app](https://www.story-world.app)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## https://nl-compare.streamlit.app
+ - [https://nl-compare.streamlit.app](https://nl-compare.streamlit.app)
+ - date_published: 2024-01-30T23:17:28.574256+00:00
+
+ ## StreetComplete
+ - [https://streetcomplete.app](https://streetcomplete.app)
+ - date_published: 2024-05-11T11:32:38.406145+00:00
+
+ ## Structpad - notepad-database hybrid
+ - [https://structpad.app](https://structpad.app)
+ - date_published: 2023-10-25T11:49:13.505963+00:00
+
+ ## Studyable - AI Homework Help & Flash Cards
+ - [https://studyable.app](https://studyable.app)
+ - date_published: 2024-06-19T20:38:05.241325+00:00
+
+ ## Sublime
+ - [https://sublime.app](https://sublime.app)
+ - date_published: 2024-05-12T05:40:38.314509+00:00
+
+ ## Subtxt - Write a Better Story
+ - [https://subtxt.app](https://subtxt.app)
+ - date_published: 2024-06-19T19:26:53.865337+00:00
+
+ ## Summarify AI For YouTube Powered By ChatGPT | Summarify
+ - [https://summarify.app](https://summarify.app)
+ - date_published: 2024-06-19T19:35:09.224988+00:00
+
+ ## Superkey
+ - [https://superkey.app](https://superkey.app)
+ - date_published: 2024-06-18T11:35:47.035289+00:00
+
+ ## Supernotes | The best collaborative note-taking app
+ - [https://supernotes.app](https://supernotes.app)
+ - date_published: 2024-02-22T13:05:18.857072+00:00
+
+ ## svgl
+ - [https://svgl.app](https://svgl.app)
+ - date_published: 2024-05-09T09:14:46.297079+00:00
+
+ ## SwipeWell | Swipe File Software
+ - [https://swipewell.app](https://swipewell.app)
+ - date_published: 2024-06-23T06:43:43.895285+00:00
+
+ ## Syncly – Surface real customer pains from everyday customer communication
+ - [https://syncly.app](https://syncly.app)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Synctify – Sync a music drop with a time in the real world
+ - [https://synctify.app](https://synctify.app)
+ - date_published: 2023-12-31T15:05:32+00:00
+
+ ## SynthMind AI
+ - [https://synthmind.app](https://synthmind.app)
+ - date_published: 2024-06-09T04:07:51+00:00
+
+ ## Infinite Mac
+ - [https://system6.app](https://system6.app)
+ - date_published: 2024-05-08T08:45:23.629527+00:00
+
+ ## Infinite Mac
+ - [https://system7.app](https://system7.app)
+ - date_published: 2024-05-08T08:45:14.154595+00:00
+
+ ## Private group chat and collaboration
+ - [https://tap.app](https://tap.app)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Discover Things You Enjoy For Your Mood With AI
+ - [https://taranify.app](https://taranify.app)
+ - date_published: 2024-06-27T10:52:46.492628+00:00
+
+ ## Hardened foundation for your web apps.
+ - [https://beta.tauri.app](https://beta.tauri.app)
+ - date_published: 2024-02-23T21:18:24.945566+00:00
+
+ ## Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps
+ - [https://tauri.app](https://tauri.app)
+ - date_published: 2023-10-25T11:49:16.037626+00:00
+ - tags: ['software development platform']
+
+ ## teachyourselfmath
+ - [https://teachyourselfmath.app](https://teachyourselfmath.app)
+ - date_published: 2024-01-24T06:49:02.414761+00:00
+
  ## Find your dream Canadian tech job
  - [https://www.techjobscanada.app](https://www.techjobscanada.app)
  - date_published: 2024-04-28T04:30:40.131321+00:00
@@ -125,6 +442,10 @@
  ## AImpostor
  - [https://www.turingjest.app](https://www.turingjest.app)
  - date_published: 2023-10-25T11:49:39.188876+00:00
+
+ ## The World's Easiest B2B eCommerce Platform - Turis
+ - [https://turis.app](https://turis.app)
+ - date_published: 2024-06-21T00:00:00+00:00
 
  ## Tusky - Mastodon client for Android
  - [https://tusky.app](https://tusky.app)
@@ -360,6 +681,10 @@
  - [https://bigspring-nextjs.vercel.app](https://bigspring-nextjs.vercel.app)
  - date_published: 2024-06-21T23:48:43.140927+00:00
 
+ ## Biotree - Organize your multiple links.
+ - [https://biotree.vercel.app](https://biotree.vercel.app)
+ - date_published: 2024-07-02T20:14:16.778881+00:00
+
  ## Biz Browsing
  - [https://biz-browsing.vercel.app](https://biz-browsing.vercel.app)
  - date_published: 2024-04-30T02:13:49.791693+00:00
@@ -401,6 +726,10 @@
  - [https://calculator-app-tau.vercel.app](https://calculator-app-tau.vercel.app)
  - date_published: 2024-06-03T11:21:03.781802+00:00
 
+ ## Create Next App
+ - [https://cards-patrick-wtf-patrick91.vercel.app](https://cards-patrick-wtf-patrick91.vercel.app)
+ - date_published: 2024-07-02T18:28:00.219092+00:00
+
  ## Celebrity Private Jet Flights & Environmental Impact | CelebrityFlight
  - [https://celebrity-flights-next-p06eue34w-topa-team.vercel.app](https://celebrity-flights-next-p06eue34w-topa-team.vercel.app)
  - date_published: 2024-03-25T00:00:00+00:00
@@ -416,6 +745,10 @@
  ## Run Chromium on Vercel without external services
  - [https://chromium-on-vercel.vercel.app](https://chromium-on-vercel.vercel.app)
  - date_published: 2024-07-01T21:31:31+00:00
+
+ ## Cleanshot | Developed By Visualway
+ - [https://cleanshot.vercel.app](https://cleanshot.vercel.app)
+ - date_published: 2024-07-02T20:58:24.226352+00:00
 
  ## Files within /
  - [https://cloud-35gbvrq0s.vercel.app](https://cloud-35gbvrq0s.vercel.app)
@@ -473,6 +806,10 @@
  - [https://comebacks-web.vercel.app](https://comebacks-web.vercel.app)
  - date_published: 2024-06-19T21:11:56.012774+00:00
 
+ ## Contact Card Generator
+ - [https://contact-card.vercel.app](https://contact-card.vercel.app)
+ - date_published: 2024-07-02T19:35:36.576053+00:00
+
  ## WDB Application Portal
  - [https://convex-application-portal.vercel.app](https://convex-application-portal.vercel.app)
  - date_published: 2024-04-29T07:31:52.887080+00:00
@@ -488,6 +825,10 @@
  ## Copper Astro
  - [https://copper-astro.vercel.app](https://copper-astro.vercel.app)
  - date_published: 2024-06-21T23:48:50.055455+00:00
+
+ ## Bondbridge
+ - [https://crm-clone.vercel.app](https://crm-clone.vercel.app)
+ - date_published: 2024-07-02T20:50:35.415942+00:00
 
  ## Barely Comunity CSS page
  - [https://css-comments.vercel.app](https://css-comments.vercel.app)
@@ -1230,6 +1571,10 @@
  - [https://visionex-nextjs.vercel.app](https://visionex-nextjs.vercel.app)
  - date_published: 2024-06-21T23:49:10.068306+00:00
 
+ ## Visit Again
+ - [https://visitagain.vercel.app](https://visitagain.vercel.app)
+ - date_published: 2024-07-02T20:50:22.224329+00:00
+
  ## Vizionova - Build Intelligent Map Diagramming
  - [https://vizionova.vercel.app](https://vizionova.vercel.app)
  - date_published: 2024-06-19T19:19:06.685652+00:00
@@ -1294,6 +1639,10 @@
  - [https://yc-idea-matcher.vercel.app](https://yc-idea-matcher.vercel.app)
  - date_published: 2023-10-25T11:51:16.534056+00:00
 
+ ## Year In Music
+ - [https://year-in-music-workshop.vercel.app](https://year-in-music-workshop.vercel.app)
+ - date_published: 2024-07-02T20:41:55.395698+00:00
+
  ## YT idea generator
  - [https://yt-ideas.vercel.app](https://yt-ideas.vercel.app)
  - date_published: 2024-06-14T08:57:57.169654+00:00
@@ -1309,6 +1658,10 @@
  ## Virtual Staging AI
  - [https://virtualstagingai.app](https://virtualstagingai.app)
  - date_published: 2024-06-19T18:53:39.687773+00:00
+
+ ## Visti - RSS reader
+ - [https://visti.app](https://visti.app)
+ - date_published: 2024-07-02T20:35:10.424388+00:00
 
  ## Vitals™ | The all-in-one app to grow your Shopify store
  - [https://vitals.app](https://vitals.app)
@@ -1362,6 +1715,10 @@
  ## Watchworthy
  - [https://watchworthy.app](https://watchworthy.app)
  - date_published: 2024-06-11T19:02:26+00:00
+
+ ## Wavelength is Shutting Down on July 31st, 2024
+ - [https://www.wavelength.app](https://www.wavelength.app)
+ - date_published: 2024-07-02T13:29:06.734193+00:00
 
  ## Wavacity | Online Audio Editor Based on Audacity
  - [https://wavvy.app](https://wavvy.app)
@@ -1475,6 +1832,10 @@
  ## WebDB – Open Source and Efficient Database IDE
  - [https://webdb.app](https://webdb.app)
  - date_published: 2024-06-08T08:47:27+00:00
+
+ ## Automate your outgoing webmentions
+ - [https://webmention.app](https://webmention.app)
+ - date_published: 2024-07-02T20:20:14.010054+00:00
 
  ## WhatGPT
  - [https://whatgpt.app](https://whatgpt.app)
@@ -2159,7 +2520,7 @@
  - date_published: 2024-06-15T12:38:29+00:00
 
  ## Chercheur d'Art
- - [https://www.chercheurd.art](https://www.chercheurd.art)
+ - [https://chercheurd.art](https://chercheurd.art)
  - date_published: 2024-05-07T23:26:56.310326+00:00
 
  ## Chris Lovie-Tyler ‚Äì Learning to see
@@ -2403,11 +2764,15 @@
  ## Procreate® – Sketch, Paint, Create.
  - [https://procreate.art](https://procreate.art)
  - date_published: 2024-05-04T14:02:09.430854+00:00
- - tags: ['program', 'graphics']
+ - tags: ['desktop program', 'graphics']
 
  ## Home - Public Prompts
  - [https://publicprompts.art](https://publicprompts.art)
  - date_published: 2024-06-19T18:55:04.158081+00:00
+
+ ## Qartist
+ - [https://qartist.art](https://qartist.art)
+ - date_published: 2024-07-02T18:36:36.666150+00:00
 
  ## Quick QR Art - QR Code AI Art Generator
  - [https://quickqr.art](https://quickqr.art)
@@ -2502,12 +2867,16 @@
  - [https://voloshyngallery.art](https://voloshyngallery.art)
  - date_published: 2024-05-07T00:00:00+00:00
 
+ ## wargaluk · art – Home
+ - [https://wargaluk.art](https://wargaluk.art)
+ - date_published: 2024-07-02T20:33:20.659447+00:00
+
  ## Wasongo's Gallery
  - [https://wasongo.art](https://wasongo.art)
  - date_published: 2024-05-09T08:41:34.615694+00:00
 
  ## Home | Will Carhart
- - [http://willcarh.art](http://willcarh.art)
+ - [https://willcarh.art](https://willcarh.art)
  - date_published: 2024-03-13T00:00:00+00:00
 
  ## Dream by WOMBO
@@ -2891,6 +3260,10 @@ October 2024 in Singapore
  - [http://www.nhm-wien.ac.at](http://www.nhm-wien.ac.at)
  - date_published: 2024-06-24T09:35:30.216641+00:00
 
+ ## VICAV - Vienna Corpus of Arabic Varieties
+ - [https://vicav.acdh.oeaw.ac.at](https://vicav.acdh.oeaw.ac.at)
+ - date_published: 2024-01-09T00:00:00+00:00
+
  ## Österreichische Akademie der Wissenschaften
  - [https://www.oeaw.ac.at](https://www.oeaw.ac.at)
  - date_published: 2024-06-16T22:24:07.269549+00:00
@@ -2951,6 +3324,10 @@ October 2024 in Singapore
  ## Zentralanstalt für Meteorologie und Geodynamik — ZAMG
  - [https://www.zamg.ac.at](https://www.zamg.ac.at)
  - date_published: 2024-04-28T02:22:49.641037+00:00
+
+ ## A1 digital.campus
+ - [https://a1digitalcampus.at](https://a1digitalcampus.at)
+ - date_published: 2024-06-21T00:00:00+00:00
 
  ## Universität Klagenfurt
  - [https://www.aau.at](https://www.aau.at)
@@ -3152,6 +3529,10 @@ October 2024 in Singapore
  - [https://concordia.at](https://concordia.at)
  - date_published: 2024-06-18T15:37:53.602074+00:00
 
+ ## Meeting Destination Vienna
+ - [https://www.vienna.convention.at](https://www.vienna.convention.at)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## start [CryptoParty Austria]
  - [https://cryptoparty.at](https://cryptoparty.at)
  - date_published: 2024-05-11T07:10:19.969346+00:00
@@ -3216,6 +3597,10 @@ October 2024 in Singapore
  ## Digital Society
  - [https://digisociety.at](https://digisociety.at)
  - date_published: 2015-05-24T14:01:18+00:00
+
+ ## Digitaler Kompass - Institut für Nachrichtenkompetenz und digitale Bildung
+ - [https://www.digitalerkompass.at](https://www.digitalerkompass.at)
+ - date_published: 2024-07-02T22:28:23.699396+00:00
 
  ## Client XSS Introduction - DomGoat
  - [https://domgo.at](https://domgo.at)
@@ -3282,8 +3667,12 @@ October 2024 in Singapore
  - [https://www.ebay.at](https://www.ebay.at)
  - date_published: 2024-05-01T08:15:31.027555+00:00
 
+ ## Sign in - Matomo
+ - [https://tracking.edugroup.at](https://tracking.edugroup.at)
+ - date_published: 2024-07-02T22:21:06.398907+00:00
+
  ## EduGroup.at - EduGroup
- - [https://www.edugroup.at](https://www.edugroup.at)
+ - [https://edugroup.at](https://edugroup.at)
  - date_published: 2024-05-07T23:39:24.093075+00:00
 
  ## EF Education First | Österreich
@@ -3345,6 +3734,10 @@ October 2024 in Singapore
  ## FALTER.at - Hol mich hier raus, FALTER!
  - [https://www.falter.at](https://www.falter.at)
  - date_published: 2024-05-25T01:49:42.064384+00:00
+
+ ## Home - FANUC Academy
+ - [https://fanuc-academy.at](https://fanuc-academy.at)
+ - date_published: 2023-01-18T10:52:47+00:00
 
  ## F.A.T.
  - [http://fffff.at](http://fffff.at)
@@ -3593,6 +3986,10 @@ October 2024 in Singapore
  - [http://www.irisehrlich.at](http://www.irisehrlich.at)
  - date_published: 2024-06-26T23:29:27.655750+00:00
 
+ ## österreichischer Verband: ISPA- ISPA
+ - [https://www.ispa.at](https://www.ispa.at)
+ - date_published: 2024-07-02T22:20:07.425606+00:00
+
  ## Jobs für IT-Fachkräfte – itstellen.at
  - [https://www.itstellen.at](https://www.itstellen.at)
  - date_published: 2024-06-16T08:46:39.533324+00:00
@@ -3649,400 +4046,4 @@ October 2024 in Singapore
  - [https://karl-voit.at](https://karl-voit.at)
  - date_published: 2023-10-25T09:07:49.887813+00:00
  - tags: ['personal']
-
- ## karriere.at: Jobs - Jobsuche - Jobbörse - Stellenangebote
- - [https://content.karriere.at](https://content.karriere.at)
- - date_published: 2024-06-16T08:46:40.853576+00:00
-
- ## karriere.at: Jobs - Jobsuche - Jobbörse - Stellenangebote
- - [https://karriere.at](https://karriere.at)
- - date_published: 2024-06-22T23:47:43.357422+00:00
-
- ## karriere.at: Jobs - Jobsuche - Jobbörse - Stellenangebote
- - [https://www.karriere.at](https://www.karriere.at)
- - date_published: 2024-05-01T06:13:27.083061+00:00
-
- ## Museen der Vielfalt
- - [https://diversity.khm.at](https://diversity.khm.at)
- - date_published: 2024-05-28T03:08:19.681046+00:00
-
- ## Kunsthistorisches Museum Wien
- - [https://khm.at](https://khm.at)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Presse
- - [http://press.khm.at](http://press.khm.at)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Renaissance im Norden | KHM Sonderausstellung 2024
- - [http://renaissance-im-norden.khm.at](http://renaissance-im-norden.khm.at)
- - date_published: 2024-05-28T03:08:24.393288+00:00
-
- ## KHM Shop : KHM Shop
- - [https://shop.khm.at](https://shop.khm.at)
- - date_published: 2024-05-28T03:08:47.573670+00:00
-
- ## Kunsthistorisches Museum Wien
- - [https://www.khm.at](https://www.khm.at)
- - date_published: 2023-11-13T13:47:09.993986+00:00
- - tags: ['museum']
-
- ## KIDLAT News | Philippine news satire
- - [https://kidl.at](https://kidl.at)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Klangforum Wien
- - [https://en.klangforum.at](https://en.klangforum.at)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Klangforum Wien
- - [https://www.klangforum.at](https://www.klangforum.at)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Kleine Zeitung
- - [https://www.kleinezeitung.at](https://www.kleinezeitung.at)
- - date_published: 2024-06-25T22:03:05.383602+00:00
-
- ## ict &amp; web technologies
- - [https://kleinundpartner.at](https://kleinundpartner.at)
- - date_published: 2024-05-09T07:46:12.534664+00:00
-
- ## KlimaTicket
- - [https://www.klimaticket.at](https://www.klimaticket.at)
- - date_published: 2024-05-12T04:24:48.983768+00:00
-
- ## SEO Agentur Wien - Digital Marketing, SEO & SEA | .kloos
- - [https://www.kloos.at](https://www.kloos.at)
- - date_published: 2021-05-20T00:00:00+00:00
-
- ## Konecranes
- - [https://www.konecranes.at](https://www.konecranes.at)
- - date_published: 2024-06-20T23:01:11.974351+00:00
-
- ## Kriesi.at Jobs – Just another WordPress site
- - [http://jobs.kriesi.at](http://jobs.kriesi.at)
- - date_published: 2024-06-26T23:29:24.959696+00:00
-
- ## Home - Kriesi.at - Premium WordPress Themes
- - [https://kriesi.at](https://kriesi.at)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home - Kriesi.at - Premium WordPress Themes
- - [http://www.kriesi.at](http://www.kriesi.at)
- - date_published: 2024-05-19T00:00:00+00:00
-
- ## Kronen Zeitung | Aktuelle Nachrichten | krone.at
- - [https://www.krone.at](https://www.krone.at)
- - date_published: 2024-06-25T22:03:08.635531+00:00
-
- ## Lancia Services, Ersatzteile und Zubehör | Mopar Österreich
- - [http://www.lancia.at](http://www.lancia.at)
- - date_published: 2024-05-15T09:00:14+00:00
-
- ## LAOLA1 - Sportnachrichten, LIVE-Ticker, Streams und Videos
- - [https://www.laola1.at](https://www.laola1.at)
- - date_published: 2024-06-19T15:20:38.424551+00:00
-
- ## Lebenslaufapp.at FAQ
- - [https://help.lebenslaufapp.at](https://help.lebenslaufapp.at)
- - date_published: 2024-06-22T22:10:42.410212+00:00
-
- ## Erstelle deinen erfolgreichen Lebenslauf – (kostenloser) Lebenslauf-Generator
- - [https://lebenslaufapp.at](https://lebenslaufapp.at)
- - date_published: 2024-05-06T09:20:49.013150+00:00
-
- ## Let's Connect
- - [https://app.letsconnect.at](https://app.letsconnect.at)
- - date_published: 2024-06-25T09:24:21+00:00
-
- ## LEUCHTTURM1917
- - [https://www.leuchtturm1917.at](https://www.leuchtturm1917.at)
- - date_published: 2024-06-21T23:24:10.455536+00:00
-
- ## LEVEL UP – The Gaming Festival
- - [https://www.levelup-salzburg.at](https://www.levelup-salzburg.at)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Lidl Österreich | Lidl.at
- - [https://www.lidl.at](https://www.lidl.at)
- - date_published: 2024-06-25T19:02:11.848726+00:00
-
- ## Liechtenecker UX Design Studio | Gute UX ist gutes Business‎
- - [http://liechtenecker.at](http://liechtenecker.at)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Lobby4Kids - Kinderlobbys
- - [https://lobby4kids.at](https://lobby4kids.at)
- - date_published: 2024-05-06T23:56:48.102818+00:00
-
- ## Website
- - [https://sammlung.mak.at](https://sammlung.mak.at)
- - date_published: 2024-06-17T10:32:16.438775+00:00
-
- ## MAK Wien  - MAK Museum Wien
- - [https://www.mak.at](https://www.mak.at)
- - date_published: 2024-06-17T10:32:26.821807+00:00
-
- ## MANZ Webshop | Recht, Steuern, Wirtschaft uvm.
- - [https://shop.manz.at](https://shop.manz.at)
- - date_published: 2024-05-09T06:26:15.372557+00:00
-
- ## Maserati Österreich Startseite | Maserati AT
- - [http://www.maserati.at](http://www.maserati.at)
- - date_published: 2024-06-19T09:07:39+00:00
-
- ## mass:werk <home>
- - [https://www.masswerk.at](https://www.masswerk.at)
- - date_published: 2023-10-25T11:26:47.402439+00:00
-
- ## Home - Manuel Matuzovic
- - [https://matuzo.at](https://matuzo.at)
- - date_published: 2024-01-05T10:25:13.748351+00:00
-
- ## Home - Manuel Matuzovic
- - [https://www.matuzo.at](https://www.matuzo.at)
- - date_published: 2023-10-25T08:57:51.245566+00:00
- - tags: ['personal']
-
- ## Home - Med Austron
- - [http://www.medaustron.at](http://www.medaustron.at)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Welcome in MPZ
- - [https://meinungsplatz.at](https://meinungsplatz.at)
- - date_published: 2024-06-25T22:24:22.404763+00:00
-
- ## Home Page of Markus Triska
- - [https://www.metalevel.at](https://www.metalevel.at)
- - date_published: 2023-10-25T09:07:52.175776+00:00
- - tags: ['personal']
-
- ## Molindo
- - [http://www.molindo.at](http://www.molindo.at)
- - date_published: 2024-06-20T15:50:22.716304+00:00
-
- ## Momentum Institut | Momentum Institut
- - [https://www.momentum-institut.at](https://www.momentum-institut.at)
- - date_published: 2024-06-18T15:38:17.582838+00:00
-
- ## Karriere | Jobbörse | Jobs | Jobsuche | Monster.at
- - [https://www.monster.at](https://www.monster.at)
- - date_published: 2024-06-16T14:03:23.438896+00:00
-
- ## Ihr Anbieter für ganzheitliche Energiekonzepte in Österreich
- - [https://www.moon-power.at](https://www.moon-power.at)
- - date_published: 2024-06-28T19:28:06.808145+00:00
-
- ## Moose.at wurde eingstellt - Österreichische Suchmaschine 👀
- - [https://www.moose.at](https://www.moose.at)
- - date_published: 2024-06-10T07:08:46.896920+00:00
-
- ## Distributor für elektronische Bauteile - Mouser Electronics Österreich
- - [https://www.mouser.at](https://www.mouser.at)
- - date_published: 2024-07-01T20:55:48.942273+00:00
-
- ## esc medien kunst labor | Initiiert und ermöglicht Kunstprojekte, sammelt, verarbeitet und veröffentlicht kulturelle Daten.
- - [https://esc.mur.at](https://esc.mur.at)
- - date_published: 2024-05-31T19:49:27.394280+00:00
-
- ## Museum gemeinsam weiterdenken
- - [https://www.museumsguetesiegel.at](https://www.museumsguetesiegel.at)
- - date_published: 2024-05-28T03:08:45.998594+00:00
-
- ## Musical Vienna | Offizielle Infos & Tickets | Vereinigte Bühnen Wien
- - [https://www.musicalvienna.at](https://www.musicalvienna.at)
- - date_published: 2024-05-08T04:36:44.019013+00:00
-
- ## Max Böck
- - [https://mxb.at](https://mxb.at)
- - date_published: 2024-05-07T23:16:33.200925+00:00
-
- ## Oberösterreichische Nachrichten | OÖN
- - [https://www.nachrichten.at](https://www.nachrichten.at)
- - date_published: 2024-05-11T07:10:49.233055+00:00
-
- ## narrenturm.at
- - [http://www.narrenturm.at](http://www.narrenturm.at)
- - date_published: 2024-06-24T09:47:32.419755+00:00
-
- ## NCM - Ihr Erfolg im Internet! Web Agentur in Salzburg
- - [http://ncm.at](http://ncm.at)
- - date_published: 2024-06-28T18:18:47.477719+00:00
-
- ## netzeffekt | Digitalagentur für messbare Erfolge
- - [https://www.netzeffekt.at](https://www.netzeffekt.at)
- - date_published: 2024-06-25T18:53:59.112452+00:00
-
- ## Newsflix
- - [https://www.newsflix.at](https://www.newsflix.at)
- - date_published: 2024-05-11T07:10:23.862769+00:00
-
- ## Offizielle Nintendo-Webseite für Österreich
- - [https://www.nintendo.at](https://www.nintendo.at)
- - date_published: 2024-05-06T15:46:35.192251+00:00
-
- ## Noctua.at - Premium cooling components designed in Austria
- - [https://noctua.at](https://noctua.at)
- - date_published: 2024-05-11T11:40:49.599274+00:00
-
- ## Andreas Demmelbauer - public profile
- - [https://i.notice.at](https://i.notice.at)
- - date_published: 2022-11-18T14:34:55+00:00
-
- ## Nova Rock Festival | 13.-16. Juni 2024
- - [https://www.novarock.at](https://www.novarock.at)
- - date_published: 2024-05-20T06:33:30.683967+00:00
- - tags: ['music festival']
-
- ## Novasign | Speed Up Bioprocess Development
- - [https://www.novasign.at](https://www.novasign.at)
- - date_published: 2024-02-08T16:59:06.101366+00:00
-
- ## Objective Development
- - [https://obdev.at](https://obdev.at)
- - date_published: 2023-10-25T11:52:53.837734+00:00
-
- ## Objective Development — Network Monitoring & Productivity Software for macOS
- - [https://www.obdev.at](https://www.obdev.at)
- - date_published: 2024-05-22T04:49:12.753153+00:00
-
- ## ICDCS 2018 – 38th IEEE International Conference on Distributed Computing Systems, July 2 – 5, 2018, Vienna, Austria
- - [http://icdcs2018.ocg.at](http://icdcs2018.ocg.at)
- - date_published: 2024-06-22T09:22:48.552813+00:00
-
- ## Reiseangebote in Österreich und innerhalb Europas.
- - [https://www.oebb.at](https://www.oebb.at)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## OMV in Österreich | OMV.at
- - [https://www.omv.at](https://www.omv.at)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Peloton® | Workouts Streamen, Live & On-Demand
- - [https://www.onepeloton.at](https://www.onepeloton.at)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Open Doors - Home
- - [http://www.opendoors.at](http://www.opendoors.at)
- - date_published: 2024-05-08T11:13:15.579833+00:00
-
- ## Homepage - Brillenmode und Kontaktlinsen
- - [http://www.optiker.at](http://www.optiker.at)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## ORF-Enterprise - Content Sales International
- - [https://contentsales.orf.at](https://contentsales.orf.at)
- - date_published: 2024-04-02T09:47:25+00:00
-
- ## IOAM
- - [https://data-d6e13c60e8.orf.at](https://data-d6e13c60e8.orf.at)
- - date_published: 2024-01-17T09:13:53+00:00
-
- ## debatte.ORF.at
- - [https://debatte.orf.at](https://debatte.orf.at)
- - date_published: 2024-06-18T15:41:18.527247+00:00
-
- ## der.ORF.at - Startseite - der.ORF.at
- - [https://der.orf.at](https://der.orf.at)
- - date_published: 2024-06-18T15:37:41.559327+00:00
-
- ## ORF DIGITAL - Startseite
- - [https://digital.orf.at](https://digital.orf.at)
- - date_published: 2024-06-18T15:41:11.271991+00:00
-
- ## ORF-Enterprise
- - [https://enterprise.orf.at](https://enterprise.orf.at)
- - date_published: 2024-06-18T15:41:14.885298+00:00
-
- ## Startseite - extra.ORF.at
- - [https://extra.orf.at](https://extra.orf.at)
- - date_published: 2024-06-18T15:41:12.627396+00:00
-
- ## fm4.ORF.at
- - [https://fm4.orf.at](https://fm4.orf.at)
- - date_published: 2024-05-02T13:40:23.496110+00:00
-
- ## help.ORF.at
- - [https://help.orf.at](https://help.orf.at)
- - date_published: 2024-06-18T15:41:16.699407+00:00
-
- ## Licht ins Dunkel - lichtinsdunkel.ORF.at
- - [https://lichtinsdunkel.orf.at](https://lichtinsdunkel.orf.at)
- - date_published: 2024-06-18T15:41:30.006385+00:00
-
- ## newsletter.extra.orf.at
- - [https://newsletter.extra.orf.at](https://newsletter.extra.orf.at)
- - date_published: 2024-06-18T15:37:39.344991+00:00
-
- ## news.ORF.at
- - [https://news.orf.at](https://news.orf.at)
- - date_published: 2024-06-18T15:37:36.537120+00:00
-
- ## oe1.ORF.at
- - [https://oe1.orf.at](https://oe1.orf.at)
- - date_published: 2024-06-18T15:37:40.423248+00:00
-
- ## oe3.ORF.at
- - [https://oe3.orf.at](https://oe3.orf.at)
- - date_published: 2024-06-18T15:41:31.205197+00:00
-
- ## oesterreich.ORF.at
- - [https://oesterreich.orf.at](https://oesterreich.orf.at)
- - date_published: 2024-06-18T15:41:19.673724+00:00
-
- ## ORF ON
- - [https://on.orf.at](https://on.orf.at)
- - date_published: 2024-06-18T15:37:45.324610+00:00
-
- ## news.ORF.at
- - [https://orf.at](https://orf.at)
- - date_published: 2024-06-18T15:37:35.277210+00:00
-
- ## Presseportal
- - [https://presse.orf.at](https://presse.orf.at)
- - date_published: 2024-05-27T15:27:05+00:00
-
- ## ORF Publikumsrat - der.ORF.at
- - [https://publikumsrat.orf.at](https://publikumsrat.orf.at)
- - date_published: 2024-06-18T15:41:13.553542+00:00
-
- ## RKH Startpage
- - [https://radiokulturhaus.orf.at](https://radiokulturhaus.orf.at)
- - date_published: 2024-05-02T13:34:58.141062+00:00
-
- ## religion.ORF.at
- - [https://religion.orf.at](https://religion.orf.at)
- - date_published: 2024-06-18T15:41:29.274051+00:00
-
- ## Startseite | rso.ORF.at
- - [https://rso.orf.at](https://rso.orf.at)
- - date_published: 2024-06-18T15:37:42.354407+00:00
-
- ## ORF.at Open News
- - [https://rss.orf.at](https://rss.orf.at)
- - date_published: 2024-05-22T04:08:23+00:00
-
- ## science.ORF.at
- - [https://science.orf.at](https://science.orf.at)
- - date_published: 2024-06-18T15:41:17.578483+00:00
-
- ## ORF-Shop
- - [https://shop.orf.at](https://shop.orf.at)
- - date_published: 2024-06-18T15:37:46.845343+00:00
-
- ## ORF Sound
- - [https://sound.orf.at](https://sound.orf.at)
- - date_published: 2024-06-17T14:13:20+00:00
-
- ## sport.ORF.at
- - [https://sport.orf.at](https://sport.orf.at)
- - date_published: 2024-06-18T15:41:07.840370+00:00
-
- ## teletext.ORF.at
- - [https://teletext.orf.at](https://teletext.orf.at)
- - date_published: 2023-08-30T21:06:19+00:00
-
- ## Home - ORF-Ticketservice
- - [https://tickets.orf.at](https://tickets.orf.at)
- - date_published: 2024-06-18T15:41:25.598773+00:00
 
