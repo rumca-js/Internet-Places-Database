@@ -97,6 +97,10 @@
  - date_published: 2024-03-22T20:49:42.626365+00:00
  - tags: ['archive program', 'desktop program', 'open source']
 
+ ## Universal Cup - Universal Cup
+ - [https://universal-cup-website.qoj.ac](https://universal-cup-website.qoj.ac)
+ - date_published: 2024-07-03T10:32:53.259638+00:00
+
  ## Scratchpad of Mathias Sablé-Meyer
  - [https://blog.s-m.ac](https://blog.s-m.ac)
  - date_published: 2021-07-08T18:52:48+00:00
@@ -133,6 +137,10 @@
  ## Home | epicenter.academy
  - [https://epicenter.academy](https://epicenter.academy)
  - date_published: 2024-05-02T13:40:25.608544+00:00
+
+ ## Home
+ - [https://www.freetech.academy](https://www.freetech.academy)
+ - date_published: 2024-07-03T00:00:00+00:00
 
  ## About · Game Hacking Academy
  - [https://gamehacking.academy](https://gamehacking.academy)
@@ -235,6 +243,10 @@
  - [https://www.google.ad](https://www.google.ad)
  - date_published: 2024-06-21T22:24:15.850586+00:00
 
+ ## The Business School for the World | INSEAD
+ - [http://inse.ad](http://inse.ad)
+ - date_published: 2024-05-28T00:00:00+00:00
+
  ## Roqad - Identity Solutions - Resolution for a Cookieless World
  - [https://www.roq.ad](https://www.roq.ad)
  - date_published: 2024-05-06T17:56:32.657353+00:00
@@ -334,6 +346,10 @@
  ## Dubai Medical Tourism | Medical Tourism Agency in Dubai - DXH
  - [https://dxh.ae](https://dxh.ae)
  - date_published: 2024-06-18T10:53:44.195802+00:00
+
+ ## Gaming Chair | Best Gaming Chair Brand For Gamers | DXRacer UAE
+ - [https://www.dxracer.ae](https://www.dxracer.ae)
+ - date_published: 2024-07-03T12:26:10.370581+00:00
 
  ## Emirates Society for Rheumatology – The Emirates Society for Rheumatology (ESR) is a leading specialist medical society which aims to bring innovative information about rheumatic diseases. We support our members to help deliver the best care for their patients, to improve the lives of children and adults with rheumatic and musculoskeletal disease.
  - [http://www.esr.ae](http://www.esr.ae)
@@ -471,6 +487,14 @@
  ## SIXT rent a car UAE | Top Deals on Premium Car Rental
  - [https://www.sixt.ae](https://www.sixt.ae)
  - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Skullcandy Middle East
+ - [https://skullcandy.ae](https://skullcandy.ae)
+ - date_published: 2024-07-03T12:39:58.611611+00:00
+
+ ## Sony World - UAE | Official Store - Buy Sony Products Online in UAE
+ - [https://sonyworld.ae](https://sonyworld.ae)
+ - date_published: 2024-07-03T16:45:27.523434+00:00
 
  ## startAD - ACCELERATING INNOVATION IN THE UAE
  - [https://startad.ae](https://startad.ae)
@@ -671,6 +695,10 @@
  - [https://youth.allafricamediasummit.africa](https://youth.allafricamediasummit.africa)
  - date_published: 2024-06-15T10:45:55.848914+00:00
 
+ ## Home - APAC
+ - [https://apacongress.africa](https://apacongress.africa)
+ - date_published: 2024-07-03T00:00:00+00:00
+
  ## Bizcommunity | Daily business news, companies, jobs and events across 19 industries in Africa
  - [https://www.bizcommunity.africa](https://www.bizcommunity.africa)
  - date_published: 2024-06-19T16:45:41+00:00
@@ -710,6 +738,10 @@
  ## Nation - Breaking News, Kenya, Africa, Politics, Business, Sports | HOME
  - [https://nation.africa](https://nation.africa)
  - date_published: 2024-01-02T13:15:24.294379+00:00
+
+ ## Africa’s leading innovative media company
+ - [https://link.pulse.africa](https://link.pulse.africa)
+ - date_published: 2024-07-03T20:30:45.665543+00:00
 
  ## Africa’s leading innovative media company
  - [https://pulse.africa](https://pulse.africa)
@@ -2097,8 +2129,20 @@ Welcome
  - [http://www.clearview.ai](http://www.clearview.ai)
  - date_published: 2024-04-16T00:00:00+00:00
 
+ ## Cierpliwości...
+ - [https://community.climatechange.ai](https://community.climatechange.ai)
+ - date_published: 2024-07-03T12:50:08.756064+00:00
+
+ ## Climate Change AI Directory
+ - [https://directory.climatechange.ai](https://directory.climatechange.ai)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Climate Change AI Wiki
+ - [https://wiki.climatechange.ai](https://wiki.climatechange.ai)
+ - date_published: 2021-08-26T17:27:49+00:00
+
  ## Climate Change AI
- - [https://www.climatechange.ai](https://www.climatechange.ai)
+ - [https://climatechange.ai](https://climatechange.ai)
  - date_published: 2024-05-08T02:33:18.454780+00:00
 
  ## ClimateFire AI
@@ -2397,6 +2441,10 @@ Welcome
  - [https://coral.ai](https://coral.ai)
  - date_published: 2024-01-12T03:16:41.370771+00:00
 
+ ## Virtual Assistant for LIC
+ - [https://lic.corover.ai](https://lic.corover.ai)
+ - date_published: 2024-06-12T13:54:20+00:00
+
  ## Homepage - Cortico
  - [http://www.cortico.ai](http://www.cortico.ai)
  - date_published: 2024-06-25T00:00:00+00:00
@@ -2580,6 +2628,10 @@ Welcome
  - [https://databorg.ai](https://databorg.ai)
  - date_published: 2023-10-25T11:37:55.764213+00:00
 
+ ## DataChat-Meet the no-code, generative AI platform for instant analytics
+ - [https://datachat.ai](https://datachat.ai)
+ - date_published: 2024-01-31T00:00:00+00:00
+
  ## DataComp
  - [https://www.datacomp.ai](https://www.datacomp.ai)
  - date_published: 2024-05-04T15:29:05.304344+00:00
@@ -2706,6 +2758,10 @@ Welcome
  ## Dexa — Where Curiosity Meets Credibility
  - [https://dexa.ai](https://dexa.ai)
  - date_published: 2024-05-15T02:51:27.742994+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://dexcheck.ai](https://dexcheck.ai)
+ - date_published: 2024-07-03T10:43:59.492727+00:00
 
  ## Dify.AI · The Innovation Engine for Generative AI Applications
  - [https://dify.ai](https://dify.ai)
@@ -3234,6 +3290,10 @@ Welcome
  - [https://ficc.ai](https://ficc.ai)
  - date_published: 2024-05-08T03:06:29.340276+00:00
 
+ ## ficc.ai
+ - [https://pricing.ficc.ai](https://pricing.ficc.ai)
+ - date_published: 2024-07-03T16:15:49.490682+00:00
+
  ## Fiddler AI – AI Observability, ML Model Monitoring, LLM Monitoring, and Explainable AI
  - [https://www.fiddler.ai](https://www.fiddler.ai)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -3632,6 +3692,10 @@ Welcome
  - date_published: 2023-01-17T22:33:16+00:00
 
  ## GOODY-2 | The world's most responsible AI model
+ - [https://goody2.ai](https://goody2.ai)
+ - date_published: 2024-07-03T18:01:28.436161+00:00
+
+ ## GOODY-2 | The world's most responsible AI model
  - [https://www.goody2.ai](https://www.goody2.ai)
  - date_published: 2024-02-09T19:21:56.409095+00:00
 
@@ -3966,68 +4030,4 @@ Welcome
  ## The leading programmatic marketing platform | Hybrid DSP programmatic advertising
  - [https://hybrid.ai](https://hybrid.ai)
  - date_published: 2023-11-17T06:52:13+00:00
-
- ## hypergro: AI-Powered UGC Video Ads for Smart Customer Acquisition
- - [https://hypergro.ai](https://hypergro.ai)
- - date_published: 2024-06-27T10:52:57.385251+00:00
-
- ## Umami
- - [https://data.cloud.hyperparam.ai](https://data.cloud.hyperparam.ai)
- - date_published: 2024-05-08T11:49:23.315430+00:00
-
- ## Hypotenuse AI: AI Writing Assistant & Text Generator
- - [https://hypotenuse.ai](https://hypotenuse.ai)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Ask AI Questions · Free AI Search Engine · iAsk.Ai is a Free Answer Engine, Enabling Users to Ask ChatGPT AI Any Question (iAsk)
- - [https://iask.ai](https://iask.ai)
- - date_published: 2024-06-19T19:22:00.167904+00:00
-
- ## Idea Generator | Unlimited Free Ideas Generated by AI
- - [https://www.ideagenerator.ai](https://www.ideagenerator.ai)
- - date_published: 2024-06-19T19:22:42.032981+00:00
-
- ## A Better way to Brainstorm with AI
- - [https://ideamap.ai](https://ideamap.ai)
- - date_published: 2024-06-11T14:53:37+00:00
-
- ## Attention Required! | Cloudflare
- - [https://ideogram.ai](https://ideogram.ai)
- - date_published: 2024-06-16T19:20:46.516638+00:00
-
- ## FC'10 : Financial Cryptography 2010
- - [https://fc10.ifca.ai](https://fc10.ifca.ai)
- - date_published: 2010-02-04T09:32:53+00:00
-
- ## FC'11 : Financial Cryptography 2011
- - [https://fc11.ifca.ai](https://fc11.ifca.ai)
- - date_published: 2024-05-06T15:12:42.430968+00:00
-
- ## FC'16 : Financial Cryptography 2016
- - [https://fc16.ifca.ai](https://fc16.ifca.ai)
- - date_published: 2024-05-02T09:52:19.581294+00:00
-
- ## FC'18 : Financial Cryptography 2018
- - [https://fc18.ifca.ai](https://fc18.ifca.ai)
- - date_published: 2024-05-06T15:13:18.091009+00:00
-
- ## FC'20 : Financial Cryptography 2020
- - [https://fc20.ifca.ai](https://fc20.ifca.ai)
- - date_published: 2024-05-02T09:52:22.693822+00:00
-
- ## FC'24 : Financial Cryptography 2024
- - [http://fc24.ifca.ai](http://fc24.ifca.ai)
- - date_published: 2024-07-01T06:40:54.106121+00:00
-
- ## IFCA
- - [http://ifca.ai](http://ifca.ai)
- - date_published: 2024-06-17T10:11:16.631788+00:00
-
- ## IFCA
- - [https://www.ifca.ai](https://www.ifca.ai)
- - date_published: 2023-10-25T11:39:11.249743+00:00
-
- ## AI Photo Studio: Elevate Your E-Commerce with Our Magic Studio | iFoto
- - [https://www.ifoto.ai](https://www.ifoto.ai)
- - date_published: 2024-06-27T10:51:29.268074+00:00
 
