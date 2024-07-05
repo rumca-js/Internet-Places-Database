@@ -1,3 +1,79 @@
+ ## HitWit.ai
+ - [https://www.hitwit.ai](https://www.hitwit.ai)
+ - date_published: 2024-06-12T17:44:58+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://hix.ai](https://hix.ai)
+ - date_published: 2024-06-19T19:35:53.167308+00:00
+
+ ## Holly - AI for recruitment and staffing agencies
+ - [https://www.hollyhires.ai](https://www.hollyhires.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Offline GPT Store 😉
+ - [https://uneven-macaw-bef2.hony.ai](https://uneven-macaw-bef2.hony.ai)
+ - date_published: 2024-01-24T17:05:23.757347+00:00
+
+ ## Monetize Your Fashion Influence with HopShop - Earn Commissions Effortlessly
+ - [https://hopshop.ai](https://hopshop.ai)
+ - date_published: 2024-06-19T19:21:39.043544+00:00
+
+ ## Hopsworks - The Real-time AI Lakehouse
+ - [https://www.hopsworks.ai](https://www.hopsworks.ai)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Home – Horizon3.ai
+ - [https://www.horizon3.ai](https://www.horizon3.ai)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Free Daily Horoscopes By The AI Astrologer | Horoscope AI
+ - [https://horoscope.ai](https://horoscope.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Hotpot.ai: AI image generator, AI headshots, and other AI tools to spark creativity and productivity
+ - [https://hotpot.ai](https://hotpot.ai)
+ - date_published: 2024-06-19T18:47:59.188892+00:00
+
+ ## Gen AI Video: Creating Content Workflows for Enterprise Growth - Hour One
+ - [https://hourone.ai](https://hourone.ai)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Howdy
+ - [https://blog.howdy.ai](https://blog.howdy.ai)
+ - date_published: 2024-05-02T12:44:32.505561+00:00
+
+ ## Center for Human-Compatible Artificial Intelligence – Center for Human-Compatible AI is building exceptional AI for humanity
+ - [https://humancompatible.ai](https://humancompatible.ai)
+ - date_published: 2024-05-08T09:51:55.550980+00:00
+
+ ## Human or Not
+ - [https://app.humanornot.ai](https://app.humanornot.ai)
+ - date_published: 2024-06-10T22:22:27+00:00
+
+ ## Humata: ChatGPT for Your Data Files
+ - [https://www.humata.ai](https://www.humata.ai)
+ - date_published: 2024-06-19T21:05:41.979443+00:00
+
+ ## AI Humanizer - Humanize AI - AI Detector Bypass | Humbot
+ - [https://humbot.ai](https://humbot.ai)
+ - date_published: 2024-06-19T19:41:47.142990+00:00
+
+ ## Home • Hume AI
+ - [https://hume.ai](https://hume.ai)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Humyn.ai
+ - [https://app.humyn.ai](https://app.humyn.ai)
+ - date_published: 2024-05-10T05:00:49.349649+00:00
+
+ ## Console
+ - [https://console.hybrid.ai](https://console.hybrid.ai)
+ - date_published: 2024-06-10T07:06:22+00:00
+
+ ## The leading programmatic marketing platform | Hybrid DSP programmatic advertising
+ - [https://hybrid.ai](https://hybrid.ai)
+ - date_published: 2023-11-17T06:52:13+00:00
+
  ## hypergro: AI-Powered UGC Video Ads for Smart Customer Acquisition
  - [https://hypergro.ai](https://hypergro.ai)
  - date_published: 2024-06-27T10:52:57.385251+00:00
@@ -297,6 +373,10 @@
  - [https://jobdescription.ai](https://jobdescription.ai)
  - date_published: 2024-04-02T00:00:00+00:00
 
+ ## Job Ring: Where it pays to know people, literally
+ - [https://jobring.ai](https://jobring.ai)
+ - date_published: 2024-01-18T22:50:51+00:00
+
  ## Jotte
  - [https://jotte.ai](https://jotte.ai)
  - date_published: 2023-10-25T11:39:39.545457+00:00
@@ -395,7 +475,7 @@
  - date_published: 2024-04-11T00:00:00+00:00
 
  ## Leverage Human Intelligence | Kern AI
- - [https://www.kern.ai](https://www.kern.ai)
+ - [https://kern.ai](https://kern.ai)
  - date_published: 2024-05-08T06:21:36.784679+00:00
 
  ## AI-Powered Video & Creative Technology | KERV
@@ -465,6 +545,10 @@
  ## Klu.ai Release Notes
  - [https://ship.klu.ai](https://ship.klu.ai)
  - date_published: 2024-05-08T04:48:16.055291+00:00
+
+ ## Klu.ai status
+ - [https://status.klu.ai](https://status.klu.ai)
+ - date_published: 2024-07-04T03:55:46.533420+00:00
 
  ## KnowBuddy
  - [https://www.knowbuddy.ai](https://www.knowbuddy.ai)
@@ -537,6 +621,10 @@
  ## World’s #1 Noise Cancelling App and AI Meeting Assistant
  - [https://www.krisp.ai](https://www.krisp.ai)
  - date_published: 2024-06-23T05:58:08+00:00
+
+ ## Kubiya.ai - ChatGPT for DevOps
+ - [https://kubiya.ai](https://kubiya.ai)
+ - date_published: 2024-06-03T00:00:00+00:00
 
  ## @kuki_ai
  - [https://www.kuki.ai](https://www.kuki.ai)
@@ -809,6 +897,10 @@
  - [https://linto.ai](https://linto.ai)
  - date_published: 2024-05-09T02:34:22.544371+00:00
 
+ ## Lippincott PLAY
+ - [https://lippincott.ai](https://lippincott.ai)
+ - date_published: 2024-06-11T12:48:56+00:00
+
  ## Liquid AI: A New Generation of Foundation Models from First Principles
  - [https://www.liquid.ai](https://www.liquid.ai)
  - date_published: 2024-04-24T00:00:00+00:00
@@ -1071,6 +1163,10 @@
  ## Crayon Data - B2B AI Solutions for Enterprises
  - [https://maya.ai](https://maya.ai)
  - date_published: 2024-03-19T06:28:21+00:00
+
+ ## MindsDB
+ - [https://mdb.ai](https://mdb.ai)
+ - date_published: 2024-06-25T16:05:53+00:00
 
  ## MealGenie - Your AI Recipe Generator
  - [https://mealgenie.ai](https://mealgenie.ai)
@@ -2018,6 +2114,10 @@
  - [https://pixverse.ai](https://pixverse.ai)
  - date_published: 2024-06-11T03:38:23+00:00
 
+ ## Placer Discover | Grocery Virtual Event
+ - [https://discover.placer.ai](https://discover.placer.ai)
+ - date_published: 2024-06-30T00:00:00+00:00
+
  ## Customer Footfall Analysis & Insights | PlaceSense
  - [https://placesense.ai](https://placesense.ai)
  - date_published: 2024-05-06T17:30:53.379384+00:00
@@ -2194,6 +2294,10 @@
  ## Professionelles Prompting
  - [https://www.promptwhispering.ai](https://www.promptwhispering.ai)
  - date_published: 2024-05-01T08:41:50.678547+00:00
+
+ ## Propelix: Admin
+ - [https://cdn.propelix.ai](https://cdn.propelix.ai)
+ - date_published: 2024-07-04T06:55:49.814048+00:00
 
  ## Propelix: Admin
  - [https://propelix.ai](https://propelix.ai)
@@ -3930,110 +4034,4 @@
  ## Unbound – AI Product Photos
  - [https://www.unboundcontent.ai](https://www.unboundcontent.ai)
  - date_published: 2024-01-11T00:00:00+00:00
-
- ## Undermind
- - [https://app.undermind.ai](https://app.undermind.ai)
- - date_published: 2024-01-24T17:05:57.127775+00:00
-
- ## AI Detector, AI Checker, & AI Humanizer | Undetectable AI
- - [https://undetectable.ai](https://undetectable.ai)
- - date_published: 2024-06-19T19:20:13.900514+00:00
-
- ## Unhinged AI
- - [https://www.unhinged.ai](https://www.unhinged.ai)
- - date_published: 2024-06-19T19:21:53.012075+00:00
-
- ## Unify (YC W23) Is Hiring
- - [https://apply.unify.ai](https://apply.unify.ai)
- - date_published: 2024-03-23T17:00:05+00:00
-
- ## Unify: The Best LLM on Every Prompt
- - [https://unify.ai](https://unify.ai)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Introduction — union-docs 1.0 documentation
- - [https://docs.union.ai](https://docs.union.ai)
- - date_published: 2024-06-19T02:22:59.340247+00:00
-
- ## Union Serverless Sign-up
- - [https://signup.union.ai](https://signup.union.ai)
- - date_published: 2024-06-19T02:23:00.147943+00:00
-
- ## Union.ai • Infrastructure for AI, ML, and Data Workloads
- - [https://www.union.ai](https://www.union.ai)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## AI News & Robotics News - Unite.AI
- - [https://www.unite.ai](https://www.unite.ai)
- - date_published: 2023-10-25T11:00:48.637068+00:00
- - tags: ['artificial intelligence', 'robotics', 'news']
-
- ## Optimize Clinical Trials with AI-powered Digital Twins
- - [https://unlearn.ai](https://unlearn.ai)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Optimize Clinical Trials with AI-powered Digital Twins
- - [https://www.unlearn.ai](https://www.unlearn.ai)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Delightful Dishes Served Up by Artificial Intelligence | 👨‍🍳🤖 UnrealMeal.ai
- - [https://unrealmeal.ai](https://unrealmeal.ai)
- - date_published: 2024-06-19T21:26:03.947082+00:00
-
- ## Unriddle | Faster research
- - [https://www.unriddle.ai](https://www.unriddle.ai)
- - date_published: 2023-10-25T11:44:43.100828+00:00
-
- ## Unsloth AI | Finetune Llama 3 & Mistral LLMs
- - [https://unsloth.ai](https://unsloth.ai)
- - date_published: 2024-06-22T17:58:11.285250+00:00
-
- ## Unstable Diffusion
- - [https://www.unstability.ai](https://www.unstability.ai)
- - date_published: 2024-06-19T21:38:06.649666+00:00
-
- ## UPDF AI
- - [https://updf.ai](https://updf.ai)
- - date_published: 2024-05-09T09:28:54.353195+00:00
- - tags: ['pdf reader']
-
- ## Upollo | Know who is ready to convert, upgrade or churn and why
- - [https://upollo.ai](https://upollo.ai)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## AI-Powered IELTS Writing Assistant | Improve Your Score with Mock Tests & Instant Feedback
- - [https://upscore.ai](https://upscore.ai)
- - date_published: 2024-06-19T19:52:17.041402+00:00
-
- ## Introduction - UpTrain
- - [https://docs.uptrain.ai](https://docs.uptrain.ai)
- - date_published: 2024-05-11T07:39:45.740414+00:00
-
- ## UpTrain | Full-Stack LLMOps Platform
- - [https://uptrain.ai](https://uptrain.ai)
- - date_published: 2024-05-11T07:39:34.490821+00:00
-
- ## Uptrends.ai | Track Trending Stocks
- - [https://www.uptrends.ai](https://www.uptrends.ai)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Upword - Your AI Research Assistant for Smarter Knowledge Management
- - [https://www.upword.ai](https://www.upword.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Service Robot: AI Services for a Better Life. - URSROBOT
- - [https://ursrobot.ai](https://ursrobot.ai)
- - date_published: 2023-11-28T03:51:01+00:00
-
- ## Usage AI | Save 57% on AWS
- - [https://www.usage.ai](https://www.usage.ai)
- - date_published: 2024-05-06T13:47:37.452226+00:00
-
- ## Show HN: Find AI – Perplexity Meets LinkedIn
- - [https://usefind.ai](https://usefind.ai)
- - date_published: 2024-06-26T16:02:57+00:00
-
- ## Galileo AI
- - [https://www.usegalileo.ai](https://www.usegalileo.ai)
- - date_published: 2023-10-25T11:44:45.723617+00:00
 

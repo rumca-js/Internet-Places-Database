@@ -323,6 +323,10 @@
  - [https://www.citroen.ae](https://www.citroen.ae)
  - date_published: 2023-12-11T16:02:29.483067+00:00
 
+ ## Costa Coffee | UAE
+ - [https://www.costacoffee.ae](https://www.costacoffee.ae)
+ - date_published: 2024-07-04T08:06:02+00:00
+
  ## CryptoniteUAE: Empowering Web3 Entrepreneurs | Latest News & Community
  - [http://cryptonite.ae](http://cryptonite.ae)
  - date_published: 2024-06-16T01:37:22+00:00
@@ -779,6 +783,10 @@
  - [https://www.freenet.ag](https://www.freenet.ag)
  - date_published: 2024-06-16T10:12:14.403378+00:00
 
+ ## Jupiter Terminal
+ - [https://terminal.jup.ag](https://terminal.jup.ag)
+ - date_published: 2024-07-04T10:16:53.982270+00:00
+
  ## Planeta W Gestão de Marcas
  - [https://planetaw.ag](https://planetaw.ag)
  - date_published: 2024-06-12T13:17:04.908350+00:00
@@ -953,6 +961,10 @@
  ## Poppy Websites - Helping startups accelarate growths
  - [https://www.poppywebsites.agency](https://www.poppywebsites.agency)
  - date_published: 2024-05-04T09:46:51.911836+00:00
+
+ ## Rabbithole
+ - [https://rabbithole.agency](https://rabbithole.agency)
+ - date_published: 2024-07-04T00:00:00+00:00
 
  ## SHRIMPTON AGENCY  - Shrimpton Agency
  - [https://shrimpton.agency](https://shrimpton.agency)
@@ -1701,6 +1713,10 @@
  ## Blaze | The AI Tool for Teams of One
  - [https://www.blaze.ai](https://www.blaze.ai)
  - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://fcabmc.cs.blip.ai](https://fcabmc.cs.blip.ai)
+ - date_published: 2024-07-04T07:32:38.741311+00:00
 
  ## BLOGBOOSTER.ai - AI autopilot for your blog
  - [https://blogbooster.ai](https://blogbooster.ai)
@@ -2612,6 +2628,14 @@ Welcome
  - [https://dasha.ai](https://dasha.ai)
  - date_published: 2024-05-08T06:17:04.759991+00:00
 
+ ## Dasha Studio
+ - [https://playground.dasha.ai](https://playground.dasha.ai)
+ - date_published: 2024-06-25T04:56:57+00:00
+
+ ## Dasha status
+ - [https://status.dasha.ai](https://status.dasha.ai)
+ - date_published: 2024-07-04T00:00:00+00:00
+
  ## Dash AI: Enterprise AI Knowledge Assistant | Dashworks.ai
  - [https://www.dashworks.ai](https://www.dashworks.ai)
  - date_published: 2023-10-25T11:37:54.337559+00:00
@@ -2662,6 +2686,10 @@ Welcome
  ## Advanced Analytics Agency | AI/ML Consulting Brisbane, Australia
  - [https://ddalabs.ai](https://ddalabs.ai)
  - date_published: 2020-06-16T17:36:23+00:00
+
+ ## Debug coding problems with AI and solve any programming doubt - Codedamn
+ - [https://debugcode.ai](https://debugcode.ai)
+ - date_published: 2024-07-04T09:16:38.444179+00:00
 
  ## The Deep Learning Development Platform | Deci
  - [https://deci.ai](https://deci.ai)
@@ -2778,6 +2806,10 @@ Welcome
  ## Digma Continuous Feedback
  - [https://digma.ai](https://digma.ai)
  - date_published: 2023-07-04T06:58:51+00:00
+
+ ## Welcome to the Digma Docs! | Digma Developer Guide
+ - [https://docs.digma.ai](https://docs.digma.ai)
+ - date_published: 2024-03-21T00:00:00+00:00
 
  ## DimeADozen.ai - Your AI Toolkit
  - [https://www.dimeadozen.ai](https://www.dimeadozen.ai)
@@ -3114,6 +3146,10 @@ Welcome
  - [https://e-volution.ai](https://e-volution.ai)
  - date_published: 2024-05-06T18:02:52.670864+00:00
 
+ ## AI-led Experience Optimization | Evolv AI
+ - [https://go.evolv.ai](https://go.evolv.ai)
+ - date_published: 2024-07-04T12:13:25+00:00
+
  ## EVOTO, AI-powered Photo Editor
  - [https://www.evoto.ai](https://www.evoto.ai)
  - date_published: 2024-06-19T20:04:30.485425+00:00
@@ -3266,9 +3302,37 @@ Welcome
  - [https://fennel.ai](https://fennel.ai)
  - date_published: 2023-10-25T11:38:43.141732+00:00
 
+ ## Fera - Fera Admin Sign In
+ - [https://admin.fera.ai](https://admin.fera.ai)
+ - date_published: 2024-07-04T17:58:03.258647+00:00
+
+ ## Fera - Sign In
+ - [https://app-cdn.fera.ai](https://app-cdn.fera.ai)
+ - date_published: 2024-07-04T17:57:57.723295+00:00
+
+ ## Fera - Sign In
+ - [https://app.fera.ai](https://app.fera.ai)
+ - date_published: 2024-07-04T17:57:52.971651+00:00
+
  ## Fera - Sign In
  - [https://cdn.fera.ai](https://cdn.fera.ai)
  - date_published: 2024-05-08T07:14:23.713356+00:00
+
+ ## Fera Help Center
+ - [https://help.fera.ai](https://help.fera.ai)
+ - date_published: 2024-07-04T17:58:07.754486+00:00
+
+ ## Fera - Partner Sign In
+ - [https://partners.fera.ai](https://partners.fera.ai)
+ - date_published: 2024-07-04T17:58:04.956594+00:00
+
+ ## Fera Status
+ - [https://status.fera.ai](https://status.fera.ai)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## Fera - Reviews App for Shopify
+ - [https://www.fera.ai](https://www.fera.ai)
+ - date_published: 2024-07-04T17:58:00.304306+00:00
 
  ## Ferret | Relationship Intelligence in your pocket
  - [https://www.ferret.ai](https://www.ferret.ai)
@@ -3446,6 +3510,10 @@ Welcome
  - [https://solve-widget.forethought.ai](https://solve-widget.forethought.ai)
  - date_published: 2024-06-16T08:34:56.231319+00:00
 
+ ## Conceptual Boundaries Workshop: Feb. 10-12 in Austin, TX
+ - [https://formalizingboundaries.ai](https://formalizingboundaries.ai)
+ - date_published: 2024-07-04T06:10:24.237186+00:00
+
  ## Formless by Typeform
  - [https://formless.ai](https://formless.ai)
  - date_published: 2024-05-10T02:43:09.886746+00:00
@@ -3539,6 +3607,10 @@ Welcome
  - [https://gamma.ai](https://gamma.ai)
  - date_published: 2022-04-28T17:58:27+00:00
 
+ ## Gemma - The AI design assistant
+ - [https://web.gemma.ai](https://web.gemma.ai)
+ - date_published: 2024-06-25T14:58:13+00:00
+
  ## GenForge |  Accelerate your Productivity with Personal AI
  - [https://www.genforge.ai](https://www.genforge.ai)
  - date_published: 2024-06-19T19:08:43.529767+00:00
@@ -3580,7 +3652,7 @@ Welcome
  - date_published: 2024-05-23T19:33:30+00:00
 
  ## Intelekt - Leading enterprise teams saved $100Mn+ with Intelekt AI
- - [https://www.getintelekt.ai](https://www.getintelekt.ai)
+ - [https://getintelekt.ai](https://getintelekt.ai)
  - date_published: 2024-05-08T06:21:28.572891+00:00
 
  ## Leon - Your Open-Source Personal Assistant
@@ -3646,6 +3718,10 @@ Welcome
  ## ChatGPT Writer - Write emails, messages, and more using AI
  - [https://gimmesummary.ai](https://gimmesummary.ai)
  - date_published: 2024-06-19T20:59:05.858888+00:00
+
+ ## GirlJams.AI: An AI-powered songwriting experience
+ - [https://girljams.ai](https://girljams.ai)
+ - date_published: 2023-12-01T21:30:28+00:00
 
  ## Giskard Documentation
  - [https://docs.giskard.ai](https://docs.giskard.ai)
@@ -3954,80 +4030,4 @@ Welcome
  ## hirex.ai
  - [https://www.hirex.ai](https://www.hirex.ai)
  - date_published: 2024-04-01T18:09:35+00:00
-
- ## HitWit.ai
- - [https://www.hitwit.ai](https://www.hitwit.ai)
- - date_published: 2024-06-12T17:44:58+00:00
-
- ## Attention Required! | Cloudflare
- - [https://hix.ai](https://hix.ai)
- - date_published: 2024-06-19T19:35:53.167308+00:00
-
- ## Holly - AI for recruitment and staffing agencies
- - [https://www.hollyhires.ai](https://www.hollyhires.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Offline GPT Store 😉
- - [https://uneven-macaw-bef2.hony.ai](https://uneven-macaw-bef2.hony.ai)
- - date_published: 2024-01-24T17:05:23.757347+00:00
-
- ## Monetize Your Fashion Influence with HopShop - Earn Commissions Effortlessly
- - [https://hopshop.ai](https://hopshop.ai)
- - date_published: 2024-06-19T19:21:39.043544+00:00
-
- ## Hopsworks - The Real-time AI Lakehouse
- - [https://www.hopsworks.ai](https://www.hopsworks.ai)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home – Horizon3.ai
- - [https://www.horizon3.ai](https://www.horizon3.ai)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Free Daily Horoscopes By The AI Astrologer | Horoscope AI
- - [https://horoscope.ai](https://horoscope.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Hotpot.ai: AI image generator, AI headshots, and other AI tools to spark creativity and productivity
- - [https://hotpot.ai](https://hotpot.ai)
- - date_published: 2024-06-19T18:47:59.188892+00:00
-
- ## Gen AI Video: Creating Content Workflows for Enterprise Growth - Hour One
- - [https://hourone.ai](https://hourone.ai)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Howdy
- - [https://blog.howdy.ai](https://blog.howdy.ai)
- - date_published: 2024-05-02T12:44:32.505561+00:00
-
- ## Center for Human-Compatible Artificial Intelligence – Center for Human-Compatible AI is building exceptional AI for humanity
- - [https://humancompatible.ai](https://humancompatible.ai)
- - date_published: 2024-05-08T09:51:55.550980+00:00
-
- ## Human or Not
- - [https://app.humanornot.ai](https://app.humanornot.ai)
- - date_published: 2024-06-10T22:22:27+00:00
-
- ## Humata: ChatGPT for Your Data Files
- - [https://www.humata.ai](https://www.humata.ai)
- - date_published: 2024-06-19T21:05:41.979443+00:00
-
- ## AI Humanizer - Humanize AI - AI Detector Bypass | Humbot
- - [https://humbot.ai](https://humbot.ai)
- - date_published: 2024-06-19T19:41:47.142990+00:00
-
- ## Home • Hume AI
- - [https://hume.ai](https://hume.ai)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Humyn.ai
- - [https://app.humyn.ai](https://app.humyn.ai)
- - date_published: 2024-05-10T05:00:49.349649+00:00
-
- ## Console
- - [https://console.hybrid.ai](https://console.hybrid.ai)
- - date_published: 2024-06-10T07:06:22+00:00
-
- ## The leading programmatic marketing platform | Hybrid DSP programmatic advertising
- - [https://hybrid.ai](https://hybrid.ai)
- - date_published: 2023-11-17T06:52:13+00:00
 
