@@ -151,6 +151,10 @@ This binary release can be used directly as-is in any project you like.
 
 I plan to make binary releases will be generated for each quarter. In case of necessity on-demand releasese might occur.
 
+# You don't like it? Fork it!
+
+I have my own opinions, with which you do not have to agree. Most of tags, votes are added manually. You can use this repository, as a starting point, to kick off your own project. Add your own tags. Create your own version of search engine. Good luck!
+
 # Notes
 
  - Not all domains have to be stored here. I think it would be best to have valuable domains. Certainly we do not want content farms. We do not need sites that do not contribute anything useful to the society, to the reader
