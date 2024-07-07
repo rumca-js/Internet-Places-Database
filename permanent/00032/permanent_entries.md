@@ -1,3 +1,290 @@
+ ## architectural ruminations
+ - [http://remiss63.blogspot.com](http://remiss63.blogspot.com)
+ - date_published: 2024-05-24T19:40:48+00:00
+
+ ## Ostrzeżenie dotyczące treści o charakterze kontrowersyjnym
+ - [https://remittanceman.blogspot.com](https://remittanceman.blogspot.com)
+ - date_published: 2024-07-03T21:53:48.020104+00:00
+
+ ## making apps, making webs.
+ - [http://renesd.blogspot.com](http://renesd.blogspot.com)
+ - date_published: 2019-01-04T00:00:00+00:00
+
+ ## repilogue
+ - [http://repi.blogspot.com](http://repi.blogspot.com)
+ - date_published: 2024-03-07T22:52:10+00:00
+
+ ## RepositoryMan
+ - [http://repositoryman.blogspot.com](http://repositoryman.blogspot.com)
+ - date_published: 2024-05-24T09:29:24+00:00
+
+ ## Request for Logic
+ - [http://requestforlogic.blogspot.com](http://requestforlogic.blogspot.com)
+ - date_published: 2024-05-28T07:02:36+00:00
+
+ ## Research Practices and Tools
+ - [https://researchpracticesandtools.blogspot.com](https://researchpracticesandtools.blogspot.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Res Obscura
+ - [http://resobscura.blogspot.com](http://resobscura.blogspot.com)
+ - date_published: 2024-05-29T03:25:46+00:00
+
+ ## ResoluteReader
+ - [http://resolutereader.blogspot.com](http://resolutereader.blogspot.com)
+ - date_published: 2024-06-28T21:06:51+00:00
+
+ ## RÉSONAANCES
+ - [http://resonaances.blogspot.com](http://resonaances.blogspot.com)
+ - date_published: 2024-05-12T06:30:02.719445+00:00
+
+ ## Respectful of Otters
+ - [http://respectfulofotters.blogspot.com](http://respectfulofotters.blogspot.com)
+ - date_published: 2006-07-11T23:39:00+00:00
+
+ ## RETRO DUNDEE
+ - [https://retrodundee.blogspot.com](https://retrodundee.blogspot.com)
+ - date_published: 2024-06-17T18:29:32+00:00
+
+ ## Retro Game On
+ - [http://retrogameon.blogspot.com](http://retrogameon.blogspot.com)
+ - date_published: 2024-04-28T04:41:39.875520+00:00
+
+ ## Retro Hampton Roads
+ - [http://retrohamptonroads.blogspot.com](http://retrohamptonroads.blogspot.com)
+ - date_published: 2024-06-24T17:06:58+00:00
+
+ ## Retro Ports
+ - [http://retroports.blogspot.com](http://retroports.blogspot.com)
+ - date_published: 2024-06-03T17:38:34+00:00
+
+ ## Retro Synth Ads
+ - [https://retrosynthads.blogspot.com](https://retrosynthads.blogspot.com)
+ - date_published: 2024-05-07T15:46:06.815665+00:00
+
+ ## Retro Treasures
+ - [http://retro-treasures.blogspot.com](http://retro-treasures.blogspot.com)
+ - date_published: 2024-07-01T09:05:39+00:00
+
+ ## Blogger
+ - [http://return42.blogspot.com](http://return42.blogspot.com)
+ - date_published: 2024-06-20T05:07:36.328528+00:00
+
+ ## Rex Parker Does the NYT Crossword Puzzle
+ - [http://rexwordpuzzle.blogspot.com](http://rexwordpuzzle.blogspot.com)
+ - date_published: 2024-07-04T16:26:39+00:00
+
+ ## Reza
+ - [http://rezabe.blogspot.com](http://rezabe.blogspot.com)
+ - date_published: 2024-03-23T18:18:10+00:00
+
+ ## Blogger
+ - [http://rezkowatch.blogspot.com](http://rezkowatch.blogspot.com)
+ - date_published: 2024-06-27T10:20:42.212008+00:00
+
+ ## Bob Walters
+ - [http://rfcwalters.blogspot.com](http://rfcwalters.blogspot.com)
+ - date_published: 2024-03-13T22:17:41+00:00
+
+ ## rgba32
+ - [http://rgba32.blogspot.com](http://rgba32.blogspot.com)
+ - date_published: 2024-03-14T09:10:37+00:00
+
+ ## My Life
+ - [http://rh0dium.blogspot.com](http://rh0dium.blogspot.com)
+ - date_published: 2024-02-21T03:48:58+00:00
+
+ ## The Rheol World
+ - [http://rheolworld.blogspot.com](http://rheolworld.blogspot.com)
+ - date_published: 2023-11-16T07:02:32+00:00
+
+ ## Rheumatologe
+ - [https://rheumatologe.blogspot.com](https://rheumatologe.blogspot.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Blogger
+ - [http://richardkovitch-thedrift.blogspot.com](http://richardkovitch-thedrift.blogspot.com)
+ - date_published: 2024-06-30T05:57:59.224885+00:00
+
+ ## RLC
+ - [http://richardlawrencecohen.blogspot.com](http://richardlawrencecohen.blogspot.com)
+ - date_published: 2024-04-23T09:23:23+00:00
+
+ ## Richard T Kelly
+ - [http://richard-t-kelly.blogspot.com](http://richard-t-kelly.blogspot.com)
+ - date_published: 2024-05-04T15:45:32+00:00
+
+ ## Richard Geldreich's Blog
+ - [https://richg42.blogspot.com](https://richg42.blogspot.com)
+ - date_published: 2023-10-25T09:10:49.721564+00:00
+ - tags: ['personal']
+
+ ## On Location With Rick Lee
+ - [http://rickleephoto.blogspot.com](http://rickleephoto.blogspot.com)
+ - date_published: 2024-07-01T17:58:09+00:00
+
+ ## Rico's rants
+ - [http://ricorant.blogspot.com](http://ricorant.blogspot.com)
+ - date_published: 2024-07-03T09:10:39+00:00
+
+ ## Blogger
+ - [http://ridenshoot.blogspot.com](http://ridenshoot.blogspot.com)
+ - date_published: 2024-07-03T23:37:55.682768+00:00
+
+ ## Riders of the Cosmic Serpent
+ - [https://riderofthecosmicserpent.blogspot.com](https://riderofthecosmicserpent.blogspot.com)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## The Right-Brained Engineer
+ - [http://rightbrainedengineer.blogspot.com](http://rightbrainedengineer.blogspot.com)
+ - date_published: 2024-05-09T11:21:54+00:00
+
+ ## The Right Nation [english version]
+ - [http://rightnation.blogspot.com](http://rightnation.blogspot.com)
+ - date_published: 2024-03-13T10:57:50+00:00
+
+ ## Diary of a Right Wing Pussycat
+ - [https://rightwingcat.blogspot.com](https://rightwingcat.blogspot.com)
+ - date_published: 2024-06-15T08:43:19+00:00
+
+ ## RIGHTWINGSPARKLE
+ - [http://rightwingsparkle.blogspot.com](http://rightwingsparkle.blogspot.com)
+ - date_published: 2024-03-23T17:43:17+00:00
+
+ ## Right Wing Theocrat
+ - [http://rightwingtheocrat.blogspot.com](http://rightwingtheocrat.blogspot.com)
+ - date_published: 2012-04-04T15:03:42+00:00
+ - tags: ['abandoned']
+
+ ## RILYBOT
+ - [http://rilybot.blogspot.com](http://rilybot.blogspot.com)
+ - date_published: 2024-02-20T07:38:48+00:00
+
+ ## R in the Antipodes
+ - [https://rinantipodes.blogspot.com](https://rinantipodes.blogspot.com)
+ - date_published: 2024-02-20T09:43:22+00:00
+
+ ## Poemas del río Wang
+ - [https://riowang.blogspot.com](https://riowang.blogspot.com)
+ - date_published: 2023-10-25T09:17:38.044539+00:00
+ - tags: ['personal']
+
+ ## The Rise and Sprawl
+ - [http://riseandsprawl.blogspot.com](http://riseandsprawl.blogspot.com)
+ - date_published: 2024-06-08T04:43:42+00:00
+
+ ## Rising Hegemon
+ - [http://rising-hegemon.blogspot.com](http://rising-hegemon.blogspot.com)
+ - date_published: 2024-06-28T07:50:00+00:00
+
+ ## Baghdad Burning
+ - [http://riverbendblog.blogspot.com](http://riverbendblog.blogspot.com)
+ - date_published: 2024-02-28T17:26:19+00:00
+
+ ## Drifting through life
+ - [https://river-driftingthroughlife.blogspot.com](https://river-driftingthroughlife.blogspot.com)
+ - date_published: 2024-06-24T07:29:08+00:00
+
+ ## Arkady's Thoughts
+ - [https://rkdpolitics.blogspot.com](https://rkdpolitics.blogspot.com)
+ - date_published: 2024-05-06T20:55:36.563620+00:00
+
+ ## Atom-Bomb Bikini
+ - [http://rkullman.blogspot.com](http://rkullman.blogspot.com)
+ - date_published: 2024-04-17T16:51:36+00:00
+
+ ## Rob's Blog o' Stuff
+ - [http://robbedford.blogspot.com](http://robbedford.blogspot.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Thoughts On Economics
+ - [http://robertvienneau.blogspot.com](http://robertvienneau.blogspot.com)
+ - date_published: 2024-06-27T21:53:57+00:00
+
+ ## Final Protective Fire
+ - [http://robinroberts.blogspot.com](http://robinroberts.blogspot.com)
+ - date_published: 2024-03-08T16:29:24+00:00
+
+ ## PANHARMONICON: Remarks on music composition, analysis, and the occasional non-human primate.
+ - [http://robisonmusic.blogspot.com](http://robisonmusic.blogspot.com)
+ - date_published: 2024-05-28T12:37:00+00:00
+
+ ## Rocket Song
+ - [http://rocketsong.blogspot.com](http://rocketsong.blogspot.com)
+ - date_published: 2024-06-16T17:38:50+00:00
+
+ ## Roger Ailes
+ - [http://rogerailes.blogspot.com](http://rogerailes.blogspot.com)
+ - date_published: 2024-06-28T15:33:00+00:00
+
+ ## Roger Pielke Jr.'s Blog
+ - [http://rogerpielkejr.blogspot.com](http://rogerpielkejr.blogspot.com)
+ - date_published: 2024-03-12T23:25:31+00:00
+
+ ## Rogue Heresy
+ - [http://rogueheresy.blogspot.com](http://rogueheresy.blogspot.com)
+ - date_published: 2024-06-28T23:16:24+00:00
+
+ ## The Rogue Jew
+ - [http://roguejew.blogspot.com](http://roguejew.blogspot.com)
+ - date_published: 2024-03-14T01:59:37+00:00
+
+ ## roice
+ - [http://roice3.blogspot.com](http://roice3.blogspot.com)
+ - date_published: 2024-03-14T09:45:58+00:00
+
+ ## Roice's G+ Posts
+ - [https://roice3-gplus.blogspot.com](https://roice3-gplus.blogspot.com)
+ - date_published: 2018-10-06T00:00:00+00:00
+
+ ## Roman Archaeology
+ - [http://romanarch.blogspot.com](http://romanarch.blogspot.com)
+ - date_published: 2024-03-19T21:23:06+00:00
+
+ ## Cara Terbaru
+ - [http://romans828pslm23.blogspot.com](http://romans828pslm23.blogspot.com)
+ - date_published: 2017-05-02T00:00:00+00:00
+
+ ## The Rosa Parks of Blogs
+ - [http://rosaparksofblogs.blogspot.com](http://rosaparksofblogs.blogspot.com)
+ - date_published: 2024-03-08T06:21:26+00:00
+
+ ## Rosemary Knits
+ - [https://rosemaryknits.blogspot.com](https://rosemaryknits.blogspot.com)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Rosemary's Thoughts
+ - [http://rosemarysthoughts.blogspot.com](http://rosemarysthoughts.blogspot.com)
+ - date_published: 2024-03-13T20:55:47+00:00
+
+ ## Rosen-blog
+ - [http://rosenbach.blogspot.com](http://rosenbach.blogspot.com)
+ - date_published: 2024-05-16T18:04:56+00:00
+
+ ## Round England Walk
+ - [https://roundenglandwalk.blogspot.com](https://roundenglandwalk.blogspot.com)
+ - date_published: 2024-06-01T06:23:34+00:00
+
+ ## Royal Rendezvous
+ - [http://royalrendezvous.blogspot.com](http://royalrendezvous.blogspot.com)
+ - date_published: 2024-05-30T07:37:26+00:00
+
+ ## Royal Splendor
+ - [http://royal-splendor.blogspot.com](http://royal-splendor.blogspot.com)
+ - date_published: 2024-06-24T09:04:21+00:00
+
+ ## The Other McCain
+ - [http://rsmccain.blogspot.com](http://rsmccain.blogspot.com)
+ - date_published: 2024-06-26T12:05:12+00:00
+
+ ## Ron Schuler's Parlour Tricks
+ - [http://rsparlourtricks.blogspot.com](http://rsparlourtricks.blogspot.com)
+ - date_published: 2024-04-21T19:04:08+00:00
+
+ ## RTDriver.com
+ - [http://rtdriver.blogspot.com](http://rtdriver.blogspot.com)
+ - date_published: 2023-11-16T07:12:01+00:00
+
  ## RT Rider
  - [http://rtrider.blogspot.com](http://rtrider.blogspot.com)
  - date_published: 2024-02-20T18:27:24+00:00
@@ -3745,289 +4032,4 @@
  ## Navi and Stuff
  - [http://www.naviandstuff.blogspot.com](http://www.naviandstuff.blogspot.com)
  - date_published: 2024-03-08T08:41:03+00:00
-
- ## An NC Gun Blog
- - [http://www.ncguns.blogspot.com](http://www.ncguns.blogspot.com)
- - date_published: 2024-03-19T10:34:33+00:00
-
- ## Obscura Antiques & Oddities
- - [http://www.obscuraantiques.blogspot.com](http://www.obscuraantiques.blogspot.com)
- - date_published: 2024-05-09T13:21:03+00:00
-
- ## Odious and Peculiar
- - [http://www.odiousandpeculiar.blogspot.com](http://www.odiousandpeculiar.blogspot.com)
- - date_published: 2024-05-15T23:33:33+00:00
-
- ## Tooned Out
- - [http://www.onlinegameaddict.blogspot.com](http://www.onlinegameaddict.blogspot.com)
- - date_published: 2024-05-09T06:32:29.429077+00:00
-
- ## ORACULATIONS
- - [http://www.oraculations.blogspot.com](http://www.oraculations.blogspot.com)
- - date_published: 2024-06-19T03:58:01+00:00
-
- ## Polite Company
- - [http://www.politecompany.blogspot.com](http://www.politecompany.blogspot.com)
- - date_published: 2024-06-01T06:21:39+00:00
-
- ## potfry
- - [http://www.potfry.blogspot.com](http://www.potfry.blogspot.com)
- - date_published: 2024-02-08T12:02:19+00:00
-
- ## Primeval Papa
- - [http://www.primevalpapa.blogspot.com](http://www.primevalpapa.blogspot.com)
- - date_published: 2024-04-08T17:55:29+00:00
-
- ## The Heart Chronicles
- - [http://www.redheartcult.blogspot.com](http://www.redheartcult.blogspot.com)
- - date_published: 2024-03-21T18:44:50+00:00
-
- ## Reuben Kincaid
- - [http://www.reubenkincaid.blogspot.com](http://www.reubenkincaid.blogspot.com)
- - date_published: 2024-02-22T13:21:47+00:00
-
- ## SACRAMENTO LAND(ING)
- - [http://www.sacramentolanding.blogspot.com](http://www.sacramentolanding.blogspot.com)
- - date_published: 2024-04-23T18:42:46+00:00
-
- ## Science, AntiScience and Geology
- - [http://www.scienceantiscience.blogspot.com](http://www.scienceantiscience.blogspot.com)
- - date_published: 2024-03-25T13:57:59+00:00
-
- ## Sense of Events
- - [http://www.senseofevents.blogspot.com](http://www.senseofevents.blogspot.com)
- - date_published: 2024-04-07T06:31:12+00:00
-
- ## shawn w flynn
- - [http://www.shawnwflynn.blogspot.com](http://www.shawnwflynn.blogspot.com)
- - date_published: 2024-03-08T22:32:44+00:00
-
- ## SHOTSMAG CONFIDENTIAL
- - [http://wwwshotsmagcouk.blogspot.com](http://wwwshotsmagcouk.blogspot.com)
- - date_published: 2024-07-04T13:55:05+00:00
-
- ## Signal 94
- - [http://www.signal94.blogspot.com](http://www.signal94.blogspot.com)
- - date_published: 2024-03-13T22:04:53+00:00
-
- ## Socialist Aotearoa
- - [http://www.socialistaotearoa.blogspot.com](http://www.socialistaotearoa.blogspot.com)
- - date_published: 2024-03-19T07:39:02+00:00
-
- ## Guns & Knives
- - [https://www.sportingoutdoors.blogspot.com](https://www.sportingoutdoors.blogspot.com)
- - date_published: 2024-03-21T09:51:24+00:00
-
- ## Stand by Liberty
- - [https://www.standbyliberty.blogspot.com](https://www.standbyliberty.blogspot.com)
- - date_published: 2024-02-20T13:31:55+00:00
-
- ## Struggles With Philosophy
- - [http://www.struggleswithphilosophy.blogspot.com](http://www.struggleswithphilosophy.blogspot.com)
- - date_published: 2024-06-06T14:56:15+00:00
-
- ## Sumer's Radiology Blog
- - [http://www.sumerdoc.blogspot.com](http://www.sumerdoc.blogspot.com)
- - date_published: 2023-05-11T00:00:00+00:00
-
- ## The Old Jarhead
- - [http://www.tartanmarine.blogspot.com](http://www.tartanmarine.blogspot.com)
- - date_published: 2024-05-25T07:04:54+00:00
-
- ## Blogger
- - [http://www.theconservativemanifesto.blogspot.com](http://www.theconservativemanifesto.blogspot.com)
- - date_published: 2024-06-27T08:09:00.402170+00:00
-
- ## The Curmudgeon
- - [http://www.thecurmudgeonly.blogspot.com](http://www.thecurmudgeonly.blogspot.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## The Drunkablog
- - [http://www.thedrunkablog.blogspot.com](http://www.thedrunkablog.blogspot.com)
- - date_published: 2024-06-11T17:57:40+00:00
-
- ## The Ghost of Watt Tyler
- - [http://www.theghostofwatttyler.blogspot.com](http://www.theghostofwatttyler.blogspot.com)
- - date_published: 2024-03-07T08:50:29+00:00
-
- ## The Green Artist / Amazing Art from Ordinary Things
- - [http://www.thegreenartist.blogspot.com](http://www.thegreenartist.blogspot.com)
- - date_published: 2024-03-05T06:56:37+00:00
-
- ## The Manhattan Beat
- - [http://www.themanhattanbeat.blogspot.com](http://www.themanhattanbeat.blogspot.com)
- - date_published: 2024-06-30T09:06:48+00:00
-
- ## the-meme-pool
- - [http://www.the-meme-pool.blogspot.com](http://www.the-meme-pool.blogspot.com)
- - date_published: 2024-02-20T20:23:06+00:00
-
- ## The New Conservatives
- - [http://www.thenewconservatives.blogspot.com](http://www.thenewconservatives.blogspot.com)
- - date_published: 2024-03-13T05:53:27+00:00
-
- ## On An Overgrown Path
- - [http://www.theovergrownpath.blogspot.com](http://www.theovergrownpath.blogspot.com)
- - date_published: 2024-07-01T20:03:05+00:00
-
- ## The Reaction
- - [http://www.the-reaction.blogspot.com](http://www.the-reaction.blogspot.com)
- - date_published: 2024-06-13T03:58:34+00:00
-
- ## THE RIGHT IS RIGHT
- - [http://www.therightisright.blogspot.com](http://www.therightisright.blogspot.com)
- - date_published: 2024-03-23T17:51:40+00:00
-
- ## The Unbearable Banishment
- - [http://www.theunbearablebanishment.blogspot.com](http://www.theunbearablebanishment.blogspot.com)
- - date_published: 2024-03-22T02:10:43+00:00
-
- ## The World Of Greasywrench / AKA Rich B
- - [http://www.theworldofgreasywrench.blogspot.com](http://www.theworldofgreasywrench.blogspot.com)
- - date_published: 2024-03-05T18:52:17+00:00
-
- ## Undercover Black Man
- - [http://www.undercoverblackman.blogspot.com](http://www.undercoverblackman.blogspot.com)
- - date_published: 2024-06-25T21:59:33+00:00
-
- ## Urban Infidel
- - [http://www.urbaninfidel.blogspot.com](http://www.urbaninfidel.blogspot.com)
- - date_published: 2024-03-23T18:04:22+00:00
-
- ## Systematics and Biogeography
- - [http://www.urhomology.blogspot.com](http://www.urhomology.blogspot.com)
- - date_published: 2024-02-21T06:03:13+00:00
-
- ## Viking Pundit
- - [http://www.vikingpundit.blogspot.com](http://www.vikingpundit.blogspot.com)
- - date_published: 2024-06-27T09:21:46+00:00
-
- ## Virginia Shooting Sports Association
- - [http://www.virginiashootingsportsassociation.blogspot.com](http://www.virginiashootingsportsassociation.blogspot.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## OTOMOTIFMANIA
- - [http://www.voice4fact.blogspot.com](http://www.voice4fact.blogspot.com)
- - date_published: 2023-11-15T16:10:36+00:00
-
- ## Panoptikum - literarisch
- - [http://www.wachsfigurenkabinett.blogspot.com](http://www.wachsfigurenkabinett.blogspot.com)
- - date_published: 2024-02-03T15:44:11+00:00
-
- ## Waites and Balances
- - [http://www.waitesandbalances.blogspot.com](http://www.waitesandbalances.blogspot.com)
- - date_published: 2024-03-08T16:01:10+00:00
-
- ## Workingclass Conservative
- - [http://www.workingclassconservative.blogspot.com](http://www.workingclassconservative.blogspot.com)
- - date_published: 2024-05-15T18:03:02+00:00
-
- ## WorldoReason
- - [http://www.worldoreason.blogspot.com](http://www.worldoreason.blogspot.com)
- - date_published: 2024-03-05T04:45:15+00:00
-
- ## WW1:  Experiences of an English Soldier
- - [https://www.wwar1.blogspot.com](https://www.wwar1.blogspot.com)
- - date_published: 2024-04-07T06:31:13+00:00
- - tags: ['world war', 'history']
-
- ## Yale70
- - [http://www.yale70.blogspot.com](http://www.yale70.blogspot.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Blogger
- - [http://www.yalefreepress.blogspot.com](http://www.yalefreepress.blogspot.com)
- - date_published: 2024-06-27T08:43:11.968426+00:00
-
- ## Zionist Conspiracy
- - [http://www.zioncon.blogspot.com](http://www.zioncon.blogspot.com)
- - date_published: 2017-01-01T00:00:00+00:00
-
- ## Wired by England by Weird
- - [http://wxexw.blogspot.com](http://wxexw.blogspot.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## GROUND XERO Live From L.A.
- - [http://xanaduxero.blogspot.com](http://xanaduxero.blogspot.com)
- - date_published: 2024-03-05T15:25:51+00:00
-
- ## Xavier Thoughts
- - [http://xavierthoughts.blogspot.com](http://xavierthoughts.blogspot.com)
- - date_published: 2024-06-08T04:43:41+00:00
-
- ## Xenophilic.  The Return.
- - [http://xenophilicthereturn.blogspot.com](http://xenophilicthereturn.blogspot.com)
- - date_published: 2024-06-27T09:21:41+00:00
-
- ## Xooglers
- - [https://xooglers.blogspot.com](https://xooglers.blogspot.com)
- - date_published: 2024-03-14T08:19:12+00:00
-
- ## xpostfactoid
- - [https://xpostfactoid.blogspot.com](https://xpostfactoid.blogspot.com)
- - date_published: 2024-06-28T06:11:31+00:00
-
- ## Paralipomena (3)
- - [https://xtractsof.blogspot.com](https://xtractsof.blogspot.com)
- - date_published: 2024-03-13T15:17:20+00:00
-
- ## Xulutec
- - [http://xulutec.blogspot.com](http://xulutec.blogspot.com)
- - date_published: 2024-06-19T03:58:33+00:00
-
- ## Xye!  The blog.
- - [http://xyegame.blogspot.com](http://xyegame.blogspot.com)
- - date_published: 2024-05-09T08:55:42.629071+00:00
-
- ## Yet Another Blogger Tips Blog
- - [http://yabtb.blogspot.com](http://yabtb.blogspot.com)
- - date_published: 2024-06-28T05:58:36+00:00
-
- ## Yale70
- - [http://yale70.blogspot.com](http://yale70.blogspot.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Flares into Darkness
- - [http://yargb.blogspot.com](http://yargb.blogspot.com)
- - date_published: 2024-06-27T02:45:51+00:00
-
- ## Machine Learning, etc
- - [http://yaroslavvb.blogspot.com](http://yaroslavvb.blogspot.com)
- - date_published: 2024-06-23T08:07:55+00:00
-
- ## The Rectification of Names
- - [http://yastreblyansky.blogspot.com](http://yastreblyansky.blogspot.com)
- - date_published: 2024-06-28T11:28:00+00:00
-
- ## "The Lid"
- - [http://yidwithlid.blogspot.com](http://yidwithlid.blogspot.com)
- - date_published: 2024-03-23T17:53:36+00:00
-
- ## 9th Btn Y & L War Diaries
- - [http://yldiaries.blogspot.com](http://yldiaries.blogspot.com)
- - date_published: 2024-02-07T03:15:10+00:00
-
- ## Blogger
- - [http://yonathanbert.blogspot.com](http://yonathanbert.blogspot.com)
- - date_published: 2024-06-27T09:41:05.483599+00:00
-
- ## The Yorkshire Ranter
- - [https://yorkshire-ranter.blogspot.com](https://yorkshire-ranter.blogspot.com)
- - date_published: 2024-03-13T05:31:21+00:00
-
- ## Consider The Source
- - [http://yougotttaconsiderthesource.blogspot.com](http://yougotttaconsiderthesource.blogspot.com)
- - date_published: 2024-05-30T09:46:47+00:00
-
- ## Good Weight Loss Tips | Good Weight Loss Tips
- - [http://youmademesayit.blogspot.com](http://youmademesayit.blogspot.com)
- - date_published: 2024-03-13T06:20:38+00:00
-
- ## *The Essentials Of Cool*
- - [http://youneedpeaceofmindheresapieceofmine.blogspot.com](http://youneedpeaceofmindheresapieceofmine.blogspot.com)
- - date_published: 2024-03-29T22:28:59+00:00
-
- ## Youngstown Eats
- - [http://youngstowneats.blogspot.com](http://youngstowneats.blogspot.com)
- - date_published: 2024-03-05T04:41:42+00:00
 

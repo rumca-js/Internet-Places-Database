@@ -1,3 +1,150 @@
+ ## Pixelverse GmbH
+ - [https://pixelverse.ch](https://pixelverse.ch)
+ - date_published: 2024-05-06T12:59:34.328969+00:00
+ - tags: ['software developer', 'company']
+
+ ## Placid C (Mathias Nöthiger): Music - WebArt - WebDesign - About me
+ - [https://www.placid-c.ch](https://www.placid-c.ch)
+ - date_published: 2023-08-24T06:29:58+00:00
+
+ ## Schule für Gestaltung Basel | Plakatsammlung der SfG Basel
+ - [http://plakatsammlungbasel.ch](http://plakatsammlungbasel.ch)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Your source of geek knowledge
+ - [https://www.planetgeek.ch](https://www.planetgeek.ch)
+ - date_published: 2017-03-31T13:50:09+00:00
+
+ ## Die intelligente Personaleinsatzplanung | Planik – Dienstpläne auf Knopfdruck
+ - [https://about.planik.ch](https://about.planik.ch)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Die intelligente Personaleinsatzplanung | Planik – Dienstpläne auf Knopfdruck
+ - [https://www.planik.ch](https://www.planik.ch)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Pacman Canvas in HTML5
+ - [https://pacman.platzh1rsch.ch](https://pacman.platzh1rsch.ch)
+ - date_published: 2021-03-22T00:00:00+00:00
+
+ ## Play Suisse
+ - [https://www.playsuisse.ch](https://www.playsuisse.ch)
+ - date_published: 2024-04-30T06:12:12.270623+00:00
+
+ ## Tinker, Tamper, Alter, Fry - Random musings
+ - [https://blog.ploetzli.ch](https://blog.ploetzli.ch)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## PocketBook guarantees a perfect reading experience
+ - [https://pocketbook.ch](https://pocketbook.ch)
+ - date_published: 2024-05-21T02:47:08.412519+00:00
+
+ ## Polympiads
+ - [https://polympiads.ch](https://polympiads.ch)
+ - date_published: 2024-04-29T13:43:17+00:00
+
+ ## Portes Ouvertes Suisse
+ - [http://www.portesouvertes.ch](http://www.portesouvertes.ch)
+ - date_published: 2024-05-08T11:13:12.275111+00:00
+
+ ## Die Schweizerische Post
+ - [https://www.post.ch](https://www.post.ch)
+ - date_published: 2024-06-22T21:40:18.011766+00:00
+
+ ## Power Vision Engineering | Expertise, services and softwares for hydro engineering.
+ - [http://www.powervision-eng.ch](http://www.powervision-eng.ch)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Pro Helvetia - Swiss Arts Council
+ - [https://prohelvetia.ch](https://prohelvetia.ch)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Projekte. ungefiltert. – Erlebnisse und Erfahrungen aus dem Alltag eines IT Projektleiters
+ - [https://www.projekte-ungefiltert.ch](https://www.projekte-ungefiltert.ch)
+ - date_published: 2024-06-15T16:56:49.660159+00:00
+
+ ## ProSieben - WE LOVE TO ENTERTAIN YOU.
+ - [http://www.prosieben.ch](http://www.prosieben.ch)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## PROTOtypes
+ - [https://proto-types.ch](https://proto-types.ch)
+ - date_published: 2024-04-30T07:18:21.536182+00:00
+
+ ## Paul Scherrer Institute PSI
+ - [http://www.psi.ch](http://www.psi.ch)
+ - date_published: 2024-06-22T07:47:04+00:00
+
+ ## Herzlich willkommen | PUBLICA
+ - [https://www.publica.ch](https://www.publica.ch)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Alle Public Eye Reportagen
+ - [https://stories.publiceye.ch](https://stories.publiceye.ch)
+ - date_published: 2024-04-17T18:04:28.301107+00:00
+
+ ## A Python Conference in Switzerland — Swiss Python Summit
+ - [https://python-summit.ch](https://python-summit.ch)
+ - date_published: 2024-05-07T23:45:40.843646+00:00
+
+ ## SSII à Genève, Lausanne, Zurich, Bâle et Annecy | Qim info
+ - [https://www.qiminfo.ch](https://www.qiminfo.ch)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## Logback Home
+ - [https://logback.qos.ch](https://logback.qos.ch)
+ - date_published: 2024-05-04T15:13:14.133474+00:00
+
+ ## Quadstack GmbH - Professional. Software. Engineering.
+ - [https://www.quadstack.ch](https://www.quadstack.ch)
+ - date_published: 2024-01-11T10:59:24+00:00
+
+ ## Quartierblog | QV Oerlikon
+ - [https://www.qv-oerlikon.ch](https://www.qv-oerlikon.ch)
+ - date_published: 2024-02-08T18:02:00.718065+00:00
+
+ ## Radio Central | Radio Central
+ - [https://www.radiocentral.ch](https://www.radiocentral.ch)
+ - date_published: 2024-06-16T06:11:50.481287+00:00
+
+ ## Homepage
+ - [http://radiochablais.ch](http://radiochablais.ch)
+ - date_published: 2024-06-30T11:09:58+00:00
+
+ ## Ralph Lauren® CH | Sommer-Sale mit bis zu 50% Rabatt
+ - [https://www.ralphlauren.ch](https://www.ralphlauren.ch)
+ - date_published: 2024-06-19T23:58:28.769569+00:00
+
+ ## RAYDEN - Home of the NetGame Convention  LAN-Party LAN-Parties LAN Party House Comix Switzerland Hardware Software Clan Quake3 Quake Age of Empires 2 Games Multiplayer
+ - [http://www.rayden.ch](http://www.rayden.ch)
+ - date_published: 2023-08-11T19:24:00+00:00
+
+ ## SECURIX - IAM, Observability, Experts on Demand
+ - [https://www.realstuff.ch](https://www.realstuff.ch)
+ - date_published: 2021-06-08T10:34:18+00:00
+
+ ## Kubernetes Threat Matrix
+ - [https://kubernetes-threat-matrix.redguard.ch](https://kubernetes-threat-matrix.redguard.ch)
+ - date_published: 2022-11-04T10:51:23+00:00
+
+ ## REDS blog – REDS Institute, HEIG-VD
+ - [https://blog.reds.ch](https://blog.reds.ch)
+ - date_published: 2023-10-25T12:14:18.446449+00:00
+
+ ## Recherche appliquée et développement - REDS - Institut de la HEIG-VD
+ - [https://www.reds.ch](https://www.reds.ch)
+ - date_published: 2024-04-30T06:11:35.331620+00:00
+
+ ## RELEC – Software & Hardware Amiga
+ - [http://relec.ch](http://relec.ch)
+ - date_published: 2024-05-08T12:13:24.992180+00:00
+ - tags: ['amiga']
+
+ ## RELEC – Software & Hardware Amiga
+ - [https://www.relec.ch](https://www.relec.ch)
+ - date_published: 2024-01-09T02:27:25.294187+00:00
+ - tags: ['amiga', 'shop']
+
  ## Renuo AG – Web based software development in Zurich
  - [https://renuo.ch](https://renuo.ch)
  - date_published: 2024-06-22T23:19:28.489781+00:00
@@ -327,6 +474,10 @@
  ## Switzerland - News and perspectives - SWI swissinfo.ch
  - [https://www.swissinfo.ch](https://www.swissinfo.ch)
  - date_published: 2023-10-25T12:14:25.180277+00:00
+
+ ## Welcome | Swiss IPv6 Council
+ - [http://www.swissipv6council.ch](http://www.swissipv6council.ch)
+ - date_published: 2024-07-07T00:01:39.059928+00:00
 
  ## Schweizer Milch & saisonale Rezepte | Swissmilk
  - [http://www.swissmilk.ch](http://www.swissmilk.ch)
@@ -2400,6 +2551,10 @@ Fakultät | Universität Basel
  - [https://mastodon.catgirl.cloud](https://mastodon.catgirl.cloud)
  - date_published: 2024-04-28T06:13:14.441880+00:00
 
+ ## Cegedim Secure Cloud
+ - [https://vpn.cegedim.cloud](https://vpn.cegedim.cloud)
+ - date_published: 2024-07-06T23:41:52.578972+00:00
+
  ## Hello World
  - [https://assets.chrism.cloud](https://assets.chrism.cloud)
  - date_published: 2024-04-29T07:28:16.674637+00:00
@@ -2648,6 +2803,10 @@ Fakultät | Universität Basel
  ## Magic Leap 2 Developer Forums
  - [https://forum.magicleap.cloud](https://forum.magicleap.cloud)
  - date_published: 2024-06-21T21:05:37.996980+00:00
+
+ ## MapleCloud
+ - [https://maple.cloud](https://maple.cloud)
+ - date_published: 2024-07-06T23:17:29.484726+00:00
 
  ## Massdriver Blog
  - [https://blog.massdriver.cloud](https://blog.massdriver.cloud)
@@ -3875,162 +4034,4 @@ Fakultät | Universität Basel
  - [https://substack.thewebscraping.club](https://substack.thewebscraping.club)
  - date_published: 2023-10-25T12:16:16.183663+00:00
  - tags: ['news', 'web scraping']
-
- ## The Web Scraping Club
- - [https://thewebscraping.club](https://thewebscraping.club)
- - date_published: 2023-01-01T00:00:00+00:00
- - tags: ['web scraping', 'tech news']
-
- ## The Zero Club | Your web development base
- - [https://www.thezero.club](https://www.thezero.club)
- - date_published: 2020-07-27T17:08:55+00:00
-
- ## Welcome to ~tilde.club~
- - [https://tilde.club](https://tilde.club)
- - date_published: 2023-10-25T12:16:21.152568+00:00
- - tags: ['community platform', 'indie web']
-
- ## https://tilde.club/ status page
- - [http://updown.tilde.club](http://updown.tilde.club)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## ufa191 สมัครใหม่ ufabet191 รับโบนัส 100% แทงบอลออนไลน์ ยูฟ่าเบท
- - [https://ufabet191.club](https://ufabet191.club)
- - date_published: 2024-07-04T01:51:50+00:00
-
- ## uncoverux.club
- - [https://uncoverux.club](https://uncoverux.club)
- - date_published: 2024-04-29T07:15:45.742550+00:00
-
- ## Wargaming | USA Fight Club
- - [https://usafight.club](https://usafight.club)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## The Whimsical Web
- - [https://whimsical.club](https://whimsical.club)
- - date_published: 2024-05-06T15:04:42.927606+00:00
-
- ## Switchy: shorten, customize & track your links. Capture & retarget everyone who clicks.
- - [https://go.yougrow.club](https://go.yougrow.club)
- - date_published: 2024-04-29T03:29:52.381272+00:00
-
- ## Cameroon Telecommunications – …Et ce n'est pas fini !
- - [https://camtel.cm](https://camtel.cm)
- - date_published: 2024-07-01T10:38:51.787650+00:00
-
- ## CAMI Motors - Citroën Cameroun
- - [https://citroen.cm](https://citroen.cm)
- - date_published: 2024-05-08T05:29:52.666151+00:00
-
- ## The Art of Mastery
- - [https://fold.cm](https://fold.cm)
- - date_published: 2024-05-08T03:04:22.888747+00:00
-
- ## Google
- - [https://www.google.cm](https://www.google.cm)
- - date_published: 2024-06-21T22:24:07.520613+00:00
-
- ## sean.cm
- - [https://sean.cm](https://sean.cm)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Send files
- - [https://send.cm](https://send.cm)
- - date_published: 2024-06-15T20:46:37.417595+00:00
-
- ## 国家广播电视总局广播电视科学研究院
- - [http://www.abs.ac.cn](http://www.abs.ac.cn)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## 国家粮食和物资储备局科学研究院
- - [http://www.ags.ac.cn](http://www.ags.ac.cn)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## 中国林业科学研究院
- - [http://www.caf.ac.cn](http://www.caf.ac.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 中国水产科学研究院
- - [http://www.cafs.ac.cn](http://www.cafs.ac.cn)
- - date_published: 2024-06-28T14:10:37+00:00
-
- ## 全国SDK管理服务平台-汇聚全网主流SDK产品，指引正品SDK下载
- - [https://sdk.caict.ac.cn](https://sdk.caict.ac.cn)
- - date_published: 2024-06-13T04:36:21+00:00
-
- ## 中国医学科学院北京协和医学院
- - [http://www.cams.ac.cn](http://www.cams.ac.cn)
- - date_published: 2024-06-27T10:57:57+00:00
-
- ## 中国科学院
- - [http://www.cas.ac.cn](http://www.cas.ac.cn)
- - date_published: 2024-06-30T13:32:58.832360+00:00
-
- ## 欢迎访问中国科学院大气物理研究所期刊网站！
- - [http://www.dqkxqk.ac.cn](http://www.dqkxqk.ac.cn)
- - date_published: 2022-11-06T12:44:15+00:00
-
- ## 合肥现代科技馆
- - [http://kjg.hfcas.ac.cn](http://kjg.hfcas.ac.cn)
- - date_published: 2024-06-30T18:19:15.190681+00:00
-
- ## MMLAB
- - [http://mmlab.siat.ac.cn](http://mmlab.siat.ac.cn)
- - date_published: 2024-06-12T04:07:22+00:00
-
- ## 苏州热工研究院网站
- - [http://www.snpi.ac.cn](http://www.snpi.ac.cn)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## 中国藏学研究中心
- - [http://www.tibetology.ac.cn](http://www.tibetology.ac.cn)
- - date_published: 2024-06-30T11:31:36+00:00
-
- ## 陈嘉庚科学奖基金会
- - [http://www.tsaf.ac.cn](http://www.tsaf.ac.cn)
- - date_published: 2024-06-30T18:09:59.737648+00:00
-
- ## 首页 - 人工智能学院
- - [https://ai.ucas.ac.cn](https://ai.ucas.ac.cn)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## 中国科学院大学
- - [http://www.ucas.ac.cn](http://www.ucas.ac.cn)
- - date_published: 2024-06-30T17:23:24+00:00
-
- ## About me (Curriculum Vitae)
- - [https://xiangli.ac.cn](https://xiangli.ac.cn)
- - date_published: 2024-05-08T19:03:00+00:00
-
- ## 移动商城触屏版 - 中国移动
- - [http://touch.10086.cn](http://touch.10086.cn)
- - date_published: 2024-06-30T20:00:34.813551+00:00
-
- ## 403错误
- - [http://www.12315.cn](http://www.12315.cn)
- - date_published: 2024-06-30T16:33:12.517860+00:00
-
- ## 12321网络不良与垃圾信息举报受理中心
- - [https://www.12321.cn](https://www.12321.cn)
- - date_published: 2024-06-30T19:06:38.891024+00:00
-
- ## New Document
- - [https://news.12371.cn](https://news.12371.cn)
- - date_published: 2024-05-07T16:45:35.245203+00:00
-
- ## 共产党员网_中共中央组织部
- - [https://www.12371.cn](https://www.12371.cn)
- - date_published: 2024-06-30T04:02:39.003875+00:00
-
- ## Welcome to nginx!
- - [https://stats.12377.cn](https://stats.12377.cn)
- - date_published: 2023-12-11T06:52:20+00:00
-
- ## 违法和不良信息举报中心
- - [https://www.12377.cn](https://www.12377.cn)
- - date_published: 2024-05-07T16:46:14.122533+00:00
-
- ## 360手机助手|手机软件下载|手机游戏下载|安卓软件|安卓游戏|Android手机应用|手机主题壁纸下载|手机视频电影电视剧下载|手机小说杂志下载
- - [https://zhushou.360.cn](https://zhushou.360.cn)
- - date_published: 2024-06-29T13:11:43.665014+00:00
 

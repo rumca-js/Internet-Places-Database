@@ -1,3 +1,117 @@
+ ## Policies, procedures, guidelines, directives & bylaws | Royal Roads University
+ - [https://policies.royalroads.ca](https://policies.royalroads.ca)
+ - date_published: 2024-06-15T02:17:31+00:00
+
+ ## Home | Royal Roads University
+ - [https://www.royalroads.ca](https://www.royalroads.ca)
+ - date_published: 2024-05-01T07:10:49.520351+00:00
+
+ ## The Royal Society of Canada
+ - [https://rsc-src.ca](https://rsc-src.ca)
+ - date_published: 2024-04-30T05:11:46.408983+00:00
+
+ ## Crafting {:} a Life – A Charlottetown Unconference, June 2019
+ - [https://cal.ruk.ca](https://cal.ruk.ca)
+ - date_published: 2024-06-08T13:10:07.653599+00:00
+ - tags: ['conference', 'personal']
+
+ ## ruk.ca
+ - [https://ruk.ca](https://ruk.ca)
+ - date_published: 2023-12-24T18:31:10.288244+00:00
+ - tags: ['personal']
+
+ ## rukapedia
+ - [https://wiki.ruk.ca](https://wiki.ruk.ca)
+ - date_published: 2024-04-30T05:03:31.732767+00:00
+
+ ## Russell’s Portfolio
+ - [https://russellmcwhae.ca](https://russellmcwhae.ca)
+ - date_published: 2024-02-11T00:00:00+00:00
+
+ ## Software Analysis Research Group
+ - [https://sarg.ryerson.ca](https://sarg.ryerson.ca)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Toronto Metropolitan University Home
+ - [https://www.ryerson.ca](https://www.ryerson.ca)
+ - date_published: 2024-04-30T05:17:27.141666+00:00
+
+ ## RYOBI Home
+ - [https://www.ryobitools.ca](https://www.ryobitools.ca)
+ - date_published: 2024-06-23T03:54:19.309926+00:00
+
+ ## RythmHacks - Experience the magic of tech
+ - [https://rythmhacks.ca](https://rythmhacks.ca)
+ - date_published: 2024-05-04T09:13:02.521400+00:00
+
+ ## Home - Safe Quiet Lakes
+ - [https://safequiet.ca](https://safequiet.ca)
+ - date_published: 2023-08-30T00:00:00+00:00
+
+ ## Sage Solutions | Drupal Website Solutions based in Kitchener / Waterloo
+ - [https://www.sagesolutions.ca](https://www.sagesolutions.ca)
+ - date_published: 2024-06-30T22:56:40+00:00
+
+ ## SalesWise | Create a strong, healthy, collaborative culture
+ - [http://www.saleswise.ca](http://www.saleswise.ca)
+ - date_published: 2024-06-28T11:24:10.438450+00:00
+
+ ## Samsung Ads Canada - Join our team
+ - [https://samsungads.ca](https://samsungads.ca)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Sandbox Software Solutions | Web, Software, and Intranet Design
+ - [https://www.sandboxsoftware.ca](https://www.sandboxsoftware.ca)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Saskatchewan News
+ - [https://www.sasktoday.ca](https://www.sasktoday.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Insecure vehicles should be banned, not security tools like the Flipper Zero
+ - [https://saveflipper.ca](https://saveflipper.ca)
+ - date_published: 2024-02-21T11:20:49+00:00
+
+ ## Savour Life Inspiration
+ - [https://savourelgin.ca](https://savourelgin.ca)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## sbobet แทงบอลออนไลน์ สมัครใหม่รับโบนัส 100%
+ - [https://www.sbobet.ca](https://www.sbobet.ca)
+ - date_published: 2024-07-03T20:03:58+00:00
+
+ ## SCARCS
+ - [https://scarcs.ca](https://scarcs.ca)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Entry Door Knobs, Door Locks & Hardware for Doors | Schlage
+ - [https://www.schlage.ca](https://www.schlage.ca)
+ - date_published: 2024-05-09T05:19:15.492632+00:00
+
+ ## Book Clubs | Scholastic Canada
+ - [https://bookclubs.scholastic.ca](https://bookclubs.scholastic.ca)
+ - date_published: 2024-04-30T05:03:33.889310+00:00
+
+ ## Login
+ - [https://bookfairtoolkit.scholastic.ca](https://bookfairtoolkit.scholastic.ca)
+ - date_published: 2024-06-08T13:35:19.607814+00:00
+
+ ## Scholastic Canada
+ - [https://digital.scholastic.ca](https://digital.scholastic.ca)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Scholastic Canada
+ - [https://www2.scholastic.ca](https://www2.scholastic.ca)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Scholastic Canada
+ - [https://www.scholastic.ca](https://www.scholastic.ca)
+ - date_published: 2024-01-02T00:03:11.274641+00:00
+
+ ## Schools in Canada, Canada
+ - [http://www.schools.ca](http://www.schools.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
  ## Ackee
  - [https://eyes.schroer.ca](https://eyes.schroer.ca)
  - date_published: 2024-04-30T05:03:44.595986+00:00
@@ -288,7 +402,7 @@
  - tags: ['personal']
 
  ## SNOLAB | World-class underground science facility
- - [https://www.snolab.ca](https://www.snolab.ca)
+ - [https://snolab.ca](https://snolab.ca)
  - date_published: 2024-04-29T00:00:00+00:00
 
  ## Snook.ca: Life & Times of a Web Developer.
@@ -472,6 +586,10 @@
  ## Tarzana and Tarzana Ranch, California
  - [http://www.tarzana.ca](http://www.tarzana.ca)
  - date_published: 2024-05-08T11:34:31.220776+00:00
+
+ ## Tau Games
+ - [https://taugames.ca](https://taugames.ca)
+ - date_published: 2023-10-04T18:07:10+00:00
 
  ## Victoria Free-Net Association
  - [http://victoria.tc.ca](http://victoria.tc.ca)
@@ -1197,7 +1315,7 @@
  - date_published: 2024-05-06T21:11:27.034376+00:00
 
  ## Welcome to the Urban Exploration Resource! - Urban Exploration Resource
- - [http://www.uer.ca](http://www.uer.ca)
+ - [https://uer.ca](https://uer.ca)
  - date_published: 2024-05-08T00:00:00+00:00
 
  ## UX Designer Corner
@@ -2267,6 +2385,10 @@
  - [https://vestas.ca](https://vestas.ca)
  - date_published: 2024-02-23T00:00:00+00:00
 
+ ## VIA Rail Canada
+ - [http://viarail.ca](http://viarail.ca)
+ - date_published: 2024-06-10T00:00:00+00:00
+
  ## Have Your Say
  - [https://engage.victoria.ca](https://engage.victoria.ca)
  - date_published: 2024-06-20T00:00:00+00:00
@@ -2769,6 +2891,10 @@
  ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
  - [https://www.statcan.gc.ca](https://www.statcan.gc.ca)
  - date_published: 2013-12-13T00:00:00+00:00
+
+ ## Language selection - Treasury Board of Canada Secretariat / Sélection de la langue - Secrétariat du Conseil du Trésor du Canada
+ - [http://tbs-sct.gc.ca](http://tbs-sct.gc.ca)
+ - date_published: 2024-07-06T00:00:00+00:00
 
  ## Transport Canada / Transports Canada
  - [https://wwwapps.tc.gc.ca](https://wwwapps.tc.gc.ca)
@@ -3907,129 +4033,4 @@
  ## 精神食粮
  - [https://depth.buzzing.cc](https://depth.buzzing.cc)
  - date_published: 2024-02-25T00:00:00+00:00
-
- ## Hacker News 最新提交
- - [https://hnnew.buzzing.cc](https://hnnew.buzzing.cc)
- - date_published: 2024-05-12T06:42:14.113999+00:00
-
- ## Buzzing
- - [https://www.buzzing.cc](https://www.buzzing.cc)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## MAN - Byron Davis
- - [http://byron.cc](http://byron.cc)
- - date_published: 2024-05-10T04:56:49.712839+00:00
-
- ## Carlos Molina Barriga
- - [https://carlosmolina.cc](https://carlosmolina.cc)
- - date_published: 2024-06-16T23:02:41.814971+00:00
-
- ## CEIT Development CC
- - [http://www.ceit.cc](http://www.ceit.cc)
- - date_published: 2024-06-20T07:31:03.362088+00:00
-
- ## Chardon, OH - Official Website | Official Website
- - [https://www.chardon.cc](https://www.chardon.cc)
- - date_published: 2024-07-04T08:03:00.414888+00:00
-
- ## TOP China Truck Supplier, Get China Trucks Latest Price - www.Chinatruck.cc
- - [http://www.chinatruck.cc](http://www.chinatruck.cc)
- - date_published: 2024-06-28T17:14:28.289783+00:00
-
- ## ちょびっと (chobit) | 体験版&デモムービー 80,000作品以上から探せる、見つかる！
- - [https://chobit.cc](https://chobit.cc)
- - date_published: 2024-06-22T14:32:58.123024+00:00
-
- ## Homepage - Chocolate Cloud
- - [https://www.chocolate-cloud.cc](https://www.chocolate-cloud.cc)
- - date_published: 2024-06-27T13:26:07.689030+00:00
-
- ## Chris Cummins
- - [http://chriscummins.cc](http://chriscummins.cc)
- - date_published: 2022-11-10T19:29:40+00:00
-
- ## Chris Merritt | Personal Site & Blog
- - [https://chrismerritt.cc](https://chrismerritt.cc)
- - date_published: 2024-07-02T19:12:37.054458+00:00
-
- ## Custom AdTech & MarTech Development | Clearcode
- - [https://clearcode.cc](https://clearcode.cc)
- - date_published: 2024-04-28T03:28:24.938070+00:00
-
- ## Colors - A nicer color palette for the web.
- - [https://clrs.cc](https://clrs.cc)
- - date_published: 2021-06-14T03:36:27+00:00
-
- ## 首页
- - [http://www.cnpe.cc](http://www.cnpe.cc)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Arduino Cloud IDE - Codebender
- - [https://codebender.cc](https://codebender.cc)
- - date_published: 2024-05-09T04:26:04.406534+00:00
- - tags: ['arduino', 'code editor', 'online tool']
-
- ## Commercial Aircraft Corporation of China, Ltd.
- - [http://english.comac.cc](http://english.comac.cc)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## COMN Technologies - Land • Air • Space
- - [https://www.comn.cc](https://www.comn.cc)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://conta.cc](https://conta.cc)
- - date_published: 2024-05-02T07:53:02.599282+00:00
-
- ## 首页 - CubieBoard中文论坛
- - [http://cubie.cc](http://cubie.cc)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## NameBright - Coming Soon
- - [http://cynic.cc](http://cynic.cc)
- - date_published: 2024-05-12T06:59:10.915328+00:00
-
- ## d e a d . w i n t e r
- - [http://deadwinter.cc](http://deadwinter.cc)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## NVIDIA Deep Imagination Research
- - [https://deepimagination.cc](https://deepimagination.cc)
- - date_published: 2023-07-17T14:52:50+00:00
-
- ## dict.cc | German-English dictionary
- - [https://www.dict.cc](https://www.dict.cc)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Hi, DIYgod
- - [https://diygod.cc](https://diygod.cc)
- - date_published: 2024-03-10T00:00:00+00:00
-
- ## Akkoma
- - [https://dlvn.cc](https://dlvn.cc)
- - date_published: 2024-05-12T06:01:24.009751+00:00
-
- ## DOC
- - [https://doc.cc](https://doc.cc)
- - date_published: 2024-06-21T22:06:55.568800+00:00
-
- ## DOC
- - [https://www.doc.cc](https://www.doc.cc)
- - date_published: 2024-05-04T14:14:32.507112+00:00
-
- ## Happy Thank U GIF by Barnaby - Find & Share on GIPHY
- - [http://drmst.cc](http://drmst.cc)
- - date_published: 2024-07-01T05:15:46.147120+00:00
-
- ## 恭喜，站点创建成功！
- - [https://static.dxracer.cc](https://static.dxracer.cc)
- - date_published: 2024-06-05T07:40:31+00:00
-
- ## Easy Surf
- - [http://www.easysurf.cc](http://www.easysurf.cc)
- - date_published: 2023-01-18T20:53:06+00:00
-
- ## eay.cc – Weblog von Stefan Grund
- - [https://eay.cc](https://eay.cc)
- - date_published: 2024-07-02T17:59:45.646895+00:00
 

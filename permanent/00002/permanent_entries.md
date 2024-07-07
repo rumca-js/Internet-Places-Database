@@ -1,3 +1,33 @@
+ ## Uberduck | Make Music with AI Vocals
+ - [https://www.uberduck.ai](https://www.uberduck.ai)
+ - date_published: 2024-02-08T00:00:00+00:00
+ - tags: ['artificial intelligence', 'music generating']
+
+ ## Uden AI Network
+ - [https://social.uden.ai](https://social.uden.ai)
+ - date_published: 2024-06-21T19:06:30.635565+00:00
+
+ ## Uden AI - Öko-hosting und Cybersicherheit
+ - [https://uden.ai](https://uden.ai)
+ - date_published: 2024-05-09T08:16:37.596142+00:00
+
+ ## ULTRACODE AI: Coding Interview Co-Pilot
+ - [https://ultracode.ai](https://ultracode.ai)
+ - date_published: 2024-05-13T00:00:00+00:00
+ - tags: ['artificial intelligence', 'interview']
+
+ ## Unakin - AI Game Developer
+ - [https://www.unakin.ai](https://www.unakin.ai)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Unboring – Online Face Swapping & Photo Animation Tool
+ - [https://unboring.ai](https://unboring.ai)
+ - date_published: 2024-06-19T19:10:07.017231+00:00
+
+ ## Unbound – AI Product Photos
+ - [https://www.unboundcontent.ai](https://www.unboundcontent.ai)
+ - date_published: 2024-01-11T00:00:00+00:00
+
  ## Undermind
  - [https://app.undermind.ai](https://app.undermind.ai)
  - date_published: 2024-01-24T17:05:57.127775+00:00
@@ -398,6 +428,10 @@ Creative Solutions
  ## Wizzy for Shopify
  - [https://shopify-app.wizzy.ai](https://shopify-app.wizzy.ai)
  - date_published: 2024-06-15T20:22:59.465481+00:00
+
+ ## WMDP Benchmark
+ - [https://www.wmdp.ai](https://www.wmdp.ai)
+ - date_published: 2024-07-06T19:50:39.915365+00:00
 
  ## WNR.AI: The best in conversational AI
  - [https://wnr.ai](https://wnr.ai)
@@ -1367,6 +1401,10 @@ Creative Solutions
  - tags: ['self-host']
 
  ## Bar Assistant
+ - [https://docs.barassistant.app](https://docs.barassistant.app)
+ - date_published: 2024-06-30T09:57:17+00:00
+
+ ## Bar Assistant
  - [https://my.barassistant.app](https://my.barassistant.app)
  - date_published: 2024-05-14T03:35:07.703869+00:00
 
@@ -2251,6 +2289,10 @@ Creative Solutions
  ## Excel AI Formula generator
  - [https://formulagenerator.app](https://formulagenerator.app)
  - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Formulaic: Create and test generative AI prompts. Share them with an open community.
+ - [https://formulaic.app](https://formulaic.app)
+ - date_published: 2024-07-06T20:56:30.517454+00:00
 
  ## Dashboard  | FOSSA
  - [https://fossa.app](https://fossa.app)
@@ -3832,6 +3874,10 @@ Creative Solutions
  - [https://status.nx.app](https://status.nx.app)
  - date_published: 2024-04-30T02:04:17.351042+00:00
 
+ ## NYU Langone Health App
+ - [https://nyulangone.app](https://nyulangone.app)
+ - date_published: 2024-07-06T21:41:02.641532+00:00
+
  ## org à la mode
  - [https://oalm.app](https://oalm.app)
  - date_published: 2024-04-30T07:25:34.276072+00:00
@@ -4002,51 +4048,4 @@ Creative Solutions
  ## Attention Required! | Cloudflare
  - [https://00917082-71e9-498e-8343-00c3df06b798.edge.permutive.app](https://00917082-71e9-498e-8343-00c3df06b798.edge.permutive.app)
  - date_published: 2024-05-06T22:46:44.420167+00:00
-
- ## PersonaGen: AI User-Persona Generator
- - [https://personagen.app](https://personagen.app)
- - date_published: 2024-06-19T19:36:44.122256+00:00
-
- ## Plausible · Web analytics
- - [https://a.photoprism.app](https://a.photoprism.app)
- - date_published: 2024-05-12T04:58:34.205404+00:00
-
- ## PhotoPrism+: Demo
- - [https://demo.photoprism.app](https://demo.photoprism.app)
- - date_published: 2024-06-19T22:10:46.696536+00:00
-
- ## PhotoPrism - Features
- - [https://docs.photoprism.app](https://docs.photoprism.app)
- - date_published: 2024-04-20T15:04:18.703361+00:00
- - tags: ['image library', 'self-host']
-
- ## PhotoPrism: Browse Your Life in Pictures
- - [https://link.photoprism.app](https://link.photoprism.app)
- - date_published: 2024-05-12T04:58:29.441276+00:00
-
- ## PhotoPrism: Browse Your Life in Pictures
- - [https://photoprism.app](https://photoprism.app)
- - date_published: 2024-05-12T04:58:19.907236+00:00
- - tags: ['photo storage', 'open source']
-
- ## PhotoPrism Translations
- - [https://translate.photoprism.app](https://translate.photoprism.app)
- - date_published: 2024-05-12T04:58:33.196347+00:00
-
- ## PhotoPrism+: Demo
- - [https://try.photoprism.app](https://try.photoprism.app)
- - date_published: 2024-05-12T04:58:30.971299+00:00
-
- ## PhotoPrism: Browse Your Life in Pictures
- - [https://web.photoprism.app](https://web.photoprism.app)
- - date_published: 2024-05-12T04:58:31.882933+00:00
-
- ## Browse Your Life in Pictures – PhotoPrism
- - [https://www.photoprism.app](https://www.photoprism.app)
- - date_published: 2023-10-25T11:48:28.969069+00:00
- - tags: ['self-host', 'image hosting']
-
- ## Phrasing: To Fluency & Beyond!
- - [https://phrasing.app](https://phrasing.app)
- - date_published: 2024-01-29T16:56:42.292979+00:00
 

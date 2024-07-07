@@ -1,3 +1,128 @@
+ ## Hacker News 最新提交
+ - [https://hnnew.buzzing.cc](https://hnnew.buzzing.cc)
+ - date_published: 2024-05-12T06:42:14.113999+00:00
+
+ ## Buzzing
+ - [https://www.buzzing.cc](https://www.buzzing.cc)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## MAN - Byron Davis
+ - [http://byron.cc](http://byron.cc)
+ - date_published: 2024-05-10T04:56:49.712839+00:00
+
+ ## Carlos Molina Barriga
+ - [https://carlosmolina.cc](https://carlosmolina.cc)
+ - date_published: 2024-06-16T23:02:41.814971+00:00
+
+ ## CEIT Development CC
+ - [http://www.ceit.cc](http://www.ceit.cc)
+ - date_published: 2024-06-20T07:31:03.362088+00:00
+
+ ## Chardon, OH - Official Website | Official Website
+ - [https://www.chardon.cc](https://www.chardon.cc)
+ - date_published: 2024-07-04T08:03:00.414888+00:00
+
+ ## TOP China Truck Supplier, Get China Trucks Latest Price - www.Chinatruck.cc
+ - [http://www.chinatruck.cc](http://www.chinatruck.cc)
+ - date_published: 2024-06-28T17:14:28.289783+00:00
+
+ ## ちょびっと (chobit) | 体験版&デモムービー 80,000作品以上から探せる、見つかる！
+ - [https://chobit.cc](https://chobit.cc)
+ - date_published: 2024-06-22T14:32:58.123024+00:00
+
+ ## Homepage - Chocolate Cloud
+ - [https://www.chocolate-cloud.cc](https://www.chocolate-cloud.cc)
+ - date_published: 2024-06-27T13:26:07.689030+00:00
+
+ ## Chris Cummins
+ - [http://chriscummins.cc](http://chriscummins.cc)
+ - date_published: 2022-11-10T19:29:40+00:00
+
+ ## Chris Merritt | Personal Site & Blog
+ - [https://chrismerritt.cc](https://chrismerritt.cc)
+ - date_published: 2024-07-02T19:12:37.054458+00:00
+
+ ## Custom AdTech & MarTech Development | Clearcode
+ - [https://clearcode.cc](https://clearcode.cc)
+ - date_published: 2024-04-28T03:28:24.938070+00:00
+
+ ## Colors - A nicer color palette for the web.
+ - [https://clrs.cc](https://clrs.cc)
+ - date_published: 2021-06-14T03:36:27+00:00
+
+ ## 首页
+ - [http://www.cnpe.cc](http://www.cnpe.cc)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Arduino Cloud IDE - Codebender
+ - [https://codebender.cc](https://codebender.cc)
+ - date_published: 2024-05-09T04:26:04.406534+00:00
+ - tags: ['arduino', 'code editor', 'online tool']
+
+ ## Commercial Aircraft Corporation of China, Ltd.
+ - [http://english.comac.cc](http://english.comac.cc)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## COMN Technologies - Land • Air • Space
+ - [https://www.comn.cc](https://www.comn.cc)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://conta.cc](https://conta.cc)
+ - date_published: 2024-05-02T07:53:02.599282+00:00
+
+ ## 首页 - CubieBoard中文论坛
+ - [http://cubie.cc](http://cubie.cc)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## NameBright - Coming Soon
+ - [http://cynic.cc](http://cynic.cc)
+ - date_published: 2024-05-12T06:59:10.915328+00:00
+
+ ## d e a d . w i n t e r
+ - [http://deadwinter.cc](http://deadwinter.cc)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## NVIDIA Deep Imagination Research
+ - [https://deepimagination.cc](https://deepimagination.cc)
+ - date_published: 2023-07-17T14:52:50+00:00
+
+ ## dict.cc | German-English dictionary
+ - [https://www.dict.cc](https://www.dict.cc)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Hi, DIYgod
+ - [https://diygod.cc](https://diygod.cc)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## Akkoma
+ - [https://dlvn.cc](https://dlvn.cc)
+ - date_published: 2024-05-12T06:01:24.009751+00:00
+
+ ## DOC
+ - [https://doc.cc](https://doc.cc)
+ - date_published: 2024-06-21T22:06:55.568800+00:00
+
+ ## DOC
+ - [https://www.doc.cc](https://www.doc.cc)
+ - date_published: 2024-05-04T14:14:32.507112+00:00
+
+ ## Happy Thank U GIF by Barnaby - Find & Share on GIPHY
+ - [http://drmst.cc](http://drmst.cc)
+ - date_published: 2024-07-01T05:15:46.147120+00:00
+
+ ## 恭喜，站点创建成功！
+ - [https://static.dxracer.cc](https://static.dxracer.cc)
+ - date_published: 2024-06-05T07:40:31+00:00
+
+ ## Easy Surf
+ - [http://www.easysurf.cc](http://www.easysurf.cc)
+ - date_published: 2023-01-18T20:53:06+00:00
+
+ ## eay.cc – Weblog von Stefan Grund
+ - [https://eay.cc](https://eay.cc)
+ - date_published: 2024-07-02T17:59:45.646895+00:00
+
  ## パズドラ裏ワザ＆攻略LABO
  - [http://eldred.cc](http://eldred.cc)
  - date_published: 2024-06-17T02:41:55.919683+00:00
@@ -294,6 +419,10 @@
  - [https://nannou.cc](https://nannou.cc)
  - date_published: 2023-10-25T12:11:08.415162+00:00
 
+ ## neue cc
+ - [http://neue.cc](http://neue.cc)
+ - date_published: 2024-06-13T00:00:00+00:00
+
  ## NeurIPS Blog – NeurIPS conference blog
  - [https://blog.neurips.cc](https://blog.neurips.cc)
  - date_published: 2024-05-07T20:25:05.690267+00:00
@@ -406,6 +535,10 @@
  ## pronouns.cc status
  - [https://status.pronouns.cc](https://status.pronouns.cc)
  - date_published: 2024-07-03T09:30:55.560124+00:00
+
+ ## QDAC数据访问组件网站 – QDAC-Delphi/C++ Builder快速数据访问组件库
+ - [http://www.qdac.cc](http://www.qdac.cc)
+ - date_published: 2021-06-15T00:00:00+00:00
 
  ## QR URL - QR Code & Url Shortener
  - [http://qrurl.cc](http://qrurl.cc)
@@ -872,6 +1005,10 @@
  ## CLARK | Cybersecurity Library
  - [https://clark.center](https://clark.center)
  - date_published: 2023-10-25T12:12:15.527679+00:00
+
+ ## Community Center | Home of the Divi Church Theme Chrysalis
+ - [https://community.center](https://community.center)
+ - date_published: 2020-10-27T21:04:36+00:00
 
  ## Delos Center
  - [https://delos.center](https://delos.center)
@@ -3022,6 +3159,10 @@
  - [http://www.hes-so.ch](http://www.hes-so.ch)
  - date_published: 2024-07-03T06:43:40.867378+00:00
 
+ ## Home
+ - [http://edgecom.hevs.ch](http://edgecom.hevs.ch)
+ - date_published: 2024-07-06T00:00:00+00:00
+
  ## Etudier et innover en Suisse | HES-SO Valais-Wallis
  - [http://www.hevs.ch](http://www.hevs.ch)
  - date_published: 2024-05-23T02:49:50.118266+00:00
@@ -3757,6 +3898,10 @@
  - date_published: 2024-06-22T08:03:45.940505+00:00
 
  ## OpenBooking - Meta-Suche für Schweizer Unterkünfte
+ - [https://openbooking.ch](https://openbooking.ch)
+ - date_published: 2024-07-06T22:27:15.460232+00:00
+
+ ## OpenBooking - Meta-Suche für Schweizer Unterkünfte
  - [https://www.openbooking.ch](https://www.openbooking.ch)
  - date_published: 2024-05-08T11:49:50.331553+00:00
 
@@ -3891,151 +4036,4 @@
  ## Raspberry Pi - Willkommen im Raspberry Pi-Shop.ch
  - [http://www.pi-shop.ch](http://www.pi-shop.ch)
  - date_published: 2024-07-01T07:38:45.837229+00:00
-
- ## Pixelverse GmbH
- - [https://pixelverse.ch](https://pixelverse.ch)
- - date_published: 2024-05-06T12:59:34.328969+00:00
- - tags: ['software developer', 'company']
-
- ## Placid C (Mathias Nöthiger): Music - WebArt - WebDesign - About me
- - [https://www.placid-c.ch](https://www.placid-c.ch)
- - date_published: 2023-08-24T06:29:58+00:00
-
- ## Schule für Gestaltung Basel | Plakatsammlung der SfG Basel
- - [http://plakatsammlungbasel.ch](http://plakatsammlungbasel.ch)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Your source of geek knowledge
- - [https://www.planetgeek.ch](https://www.planetgeek.ch)
- - date_published: 2017-03-31T13:50:09+00:00
-
- ## Die intelligente Personaleinsatzplanung | Planik – Dienstpläne auf Knopfdruck
- - [https://about.planik.ch](https://about.planik.ch)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Die intelligente Personaleinsatzplanung | Planik – Dienstpläne auf Knopfdruck
- - [https://www.planik.ch](https://www.planik.ch)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Pacman Canvas in HTML5
- - [https://pacman.platzh1rsch.ch](https://pacman.platzh1rsch.ch)
- - date_published: 2021-03-22T00:00:00+00:00
-
- ## Play Suisse
- - [https://www.playsuisse.ch](https://www.playsuisse.ch)
- - date_published: 2024-04-30T06:12:12.270623+00:00
-
- ## Tinker, Tamper, Alter, Fry - Random musings
- - [https://blog.ploetzli.ch](https://blog.ploetzli.ch)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## PocketBook guarantees a perfect reading experience
- - [https://pocketbook.ch](https://pocketbook.ch)
- - date_published: 2024-05-21T02:47:08.412519+00:00
-
- ## Polympiads
- - [https://polympiads.ch](https://polympiads.ch)
- - date_published: 2024-04-29T13:43:17+00:00
-
- ## Portes Ouvertes Suisse
- - [http://www.portesouvertes.ch](http://www.portesouvertes.ch)
- - date_published: 2024-05-08T11:13:12.275111+00:00
-
- ## Die Schweizerische Post
- - [https://www.post.ch](https://www.post.ch)
- - date_published: 2024-06-22T21:40:18.011766+00:00
-
- ## Power Vision Engineering | Expertise, services and softwares for hydro engineering.
- - [http://www.powervision-eng.ch](http://www.powervision-eng.ch)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Pro Helvetia - Swiss Arts Council
- - [https://prohelvetia.ch](https://prohelvetia.ch)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Projekte. ungefiltert. – Erlebnisse und Erfahrungen aus dem Alltag eines IT Projektleiters
- - [https://www.projekte-ungefiltert.ch](https://www.projekte-ungefiltert.ch)
- - date_published: 2024-06-15T16:56:49.660159+00:00
-
- ## ProSieben - WE LOVE TO ENTERTAIN YOU.
- - [http://www.prosieben.ch](http://www.prosieben.ch)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## PROTOtypes
- - [https://proto-types.ch](https://proto-types.ch)
- - date_published: 2024-04-30T07:18:21.536182+00:00
-
- ## Paul Scherrer Institute PSI
- - [http://www.psi.ch](http://www.psi.ch)
- - date_published: 2024-06-22T07:47:04+00:00
-
- ## Herzlich willkommen | PUBLICA
- - [https://www.publica.ch](https://www.publica.ch)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Alle Public Eye Reportagen
- - [https://stories.publiceye.ch](https://stories.publiceye.ch)
- - date_published: 2024-04-17T18:04:28.301107+00:00
-
- ## A Python Conference in Switzerland — Swiss Python Summit
- - [https://python-summit.ch](https://python-summit.ch)
- - date_published: 2024-05-07T23:45:40.843646+00:00
-
- ## SSII à Genève, Lausanne, Zurich, Bâle et Annecy | Qim info
- - [https://www.qiminfo.ch](https://www.qiminfo.ch)
- - date_published: 2024-03-17T00:00:00+00:00
-
- ## Logback Home
- - [https://logback.qos.ch](https://logback.qos.ch)
- - date_published: 2024-05-04T15:13:14.133474+00:00
-
- ## Quadstack GmbH - Professional. Software. Engineering.
- - [https://www.quadstack.ch](https://www.quadstack.ch)
- - date_published: 2024-01-11T10:59:24+00:00
-
- ## Quartierblog | QV Oerlikon
- - [https://www.qv-oerlikon.ch](https://www.qv-oerlikon.ch)
- - date_published: 2024-02-08T18:02:00.718065+00:00
-
- ## Radio Central | Radio Central
- - [https://www.radiocentral.ch](https://www.radiocentral.ch)
- - date_published: 2024-06-16T06:11:50.481287+00:00
-
- ## Homepage
- - [http://radiochablais.ch](http://radiochablais.ch)
- - date_published: 2024-06-30T11:09:58+00:00
-
- ## Ralph Lauren® CH | Sommer-Sale mit bis zu 50% Rabatt
- - [https://www.ralphlauren.ch](https://www.ralphlauren.ch)
- - date_published: 2024-06-19T23:58:28.769569+00:00
-
- ## RAYDEN - Home of the NetGame Convention  LAN-Party LAN-Parties LAN Party House Comix Switzerland Hardware Software Clan Quake3 Quake Age of Empires 2 Games Multiplayer
- - [http://www.rayden.ch](http://www.rayden.ch)
- - date_published: 2023-08-11T19:24:00+00:00
-
- ## SECURIX - IAM, Observability, Experts on Demand
- - [https://www.realstuff.ch](https://www.realstuff.ch)
- - date_published: 2021-06-08T10:34:18+00:00
-
- ## Kubernetes Threat Matrix
- - [https://kubernetes-threat-matrix.redguard.ch](https://kubernetes-threat-matrix.redguard.ch)
- - date_published: 2022-11-04T10:51:23+00:00
-
- ## REDS blog – REDS Institute, HEIG-VD
- - [https://blog.reds.ch](https://blog.reds.ch)
- - date_published: 2023-10-25T12:14:18.446449+00:00
-
- ## Recherche appliquée et développement - REDS - Institut de la HEIG-VD
- - [https://www.reds.ch](https://www.reds.ch)
- - date_published: 2024-04-30T06:11:35.331620+00:00
-
- ## RELEC – Software & Hardware Amiga
- - [http://relec.ch](http://relec.ch)
- - date_published: 2024-05-08T12:13:24.992180+00:00
- - tags: ['amiga']
-
- ## RELEC – Software & Hardware Amiga
- - [https://www.relec.ch](https://www.relec.ch)
- - date_published: 2024-01-09T02:27:25.294187+00:00
- - tags: ['amiga', 'shop']
 

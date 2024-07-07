@@ -1930,6 +1930,10 @@
  - date_published: 2023-10-25T09:25:20.588228+00:00
  - tags: ['personal']
 
+ ## Cambridge Boston Alignment Initiative
+ - [https://www.cbai.ai](https://www.cbai.ai)
+ - date_published: 2024-07-06T19:51:16.091861+00:00
+
  ## Censius | AI Observability For Everyone
  - [https://censius.ai](https://censius.ai)
  - date_published: 2024-05-29T00:00:00+00:00
@@ -3290,6 +3294,10 @@ Welcome
  - [https://www.fast.ai](https://www.fast.ai)
  - date_published: 2023-10-25T11:38:41.151336+00:00
 
+ ## FastBots | Login
+ - [https://app.fastbots.ai](https://app.fastbots.ai)
+ - date_published: 2024-07-06T21:52:06.663238+00:00
+
  ## Ai Customer Service ChatBots Trained On Your Custom Data
  - [https://fastbots.ai](https://fastbots.ai)
  - date_published: 2024-06-14T09:00:13.596852+00:00
@@ -4022,12 +4030,4 @@ Welcome
  ## HireStack API Docs
  - [https://docs.hirestack.ai](https://docs.hirestack.ai)
  - date_published: 2024-06-25T23:32:56.106377+00:00
-
- ## HireStack - Video Interviews to 10x your hiring
- - [https://hirestack.ai](https://hirestack.ai)
- - date_published: 2024-05-06T18:11:47.697982+00:00
-
- ## hirex.ai
- - [https://www.hirex.ai](https://www.hirex.ai)
- - date_published: 2024-04-01T18:09:35+00:00
 

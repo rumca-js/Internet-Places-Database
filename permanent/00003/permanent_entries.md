@@ -1,3 +1,50 @@
+ ## PersonaGen: AI User-Persona Generator
+ - [https://personagen.app](https://personagen.app)
+ - date_published: 2024-06-19T19:36:44.122256+00:00
+
+ ## Plausible · Web analytics
+ - [https://a.photoprism.app](https://a.photoprism.app)
+ - date_published: 2024-05-12T04:58:34.205404+00:00
+
+ ## PhotoPrism+: Demo
+ - [https://demo.photoprism.app](https://demo.photoprism.app)
+ - date_published: 2024-06-19T22:10:46.696536+00:00
+
+ ## PhotoPrism - Features
+ - [https://docs.photoprism.app](https://docs.photoprism.app)
+ - date_published: 2024-04-20T15:04:18.703361+00:00
+ - tags: ['image library', 'self-host']
+
+ ## PhotoPrism: Browse Your Life in Pictures
+ - [https://link.photoprism.app](https://link.photoprism.app)
+ - date_published: 2024-05-12T04:58:29.441276+00:00
+
+ ## PhotoPrism: Browse Your Life in Pictures
+ - [https://photoprism.app](https://photoprism.app)
+ - date_published: 2024-05-12T04:58:19.907236+00:00
+ - tags: ['photo storage', 'open source']
+
+ ## PhotoPrism Translations
+ - [https://translate.photoprism.app](https://translate.photoprism.app)
+ - date_published: 2024-05-12T04:58:33.196347+00:00
+
+ ## PhotoPrism+: Demo
+ - [https://try.photoprism.app](https://try.photoprism.app)
+ - date_published: 2024-05-12T04:58:30.971299+00:00
+
+ ## PhotoPrism: Browse Your Life in Pictures
+ - [https://web.photoprism.app](https://web.photoprism.app)
+ - date_published: 2024-05-12T04:58:31.882933+00:00
+
+ ## Browse Your Life in Pictures – PhotoPrism
+ - [https://www.photoprism.app](https://www.photoprism.app)
+ - date_published: 2023-10-25T11:48:28.969069+00:00
+ - tags: ['self-host', 'image hosting']
+
+ ## Phrasing: To Fluency & Beyond!
+ - [https://phrasing.app](https://phrasing.app)
+ - date_published: 2024-01-29T16:56:42.292979+00:00
+
  ## Pickwick | Find your next favorite series
  - [https://pickwick.app](https://pickwick.app)
  - date_published: 2024-04-30T02:48:03.200792+00:00
@@ -777,6 +824,10 @@
  ## Discover Things You Enjoy For Your Mood With AI
  - [https://taranify.app](https://taranify.app)
  - date_published: 2024-06-27T10:52:46.492628+00:00
+
+ ## Tasmota - #1 Software for Smart Home Integration
+ - [https://tasmota.app](https://tasmota.app)
+ - date_published: 2023-01-26T11:15:23+00:00
 
  ## Hardened foundation for your web apps.
  - [https://beta.tauri.app](https://beta.tauri.app)
@@ -2268,9 +2319,17 @@
  - [https://citroenvr-valk360.web.app](https://citroenvr-valk360.web.app)
  - date_published: 2024-05-10T04:40:38.973501+00:00
 
+ ## contrib.rocks
+ - [https://contributors-img.web.app](https://contributors-img.web.app)
+ - date_published: 2023-07-02T03:33:42+00:00
+
  ## Easy Outlines
  - [https://easyoutlines-f5115.web.app](https://easyoutlines-f5115.web.app)
  - date_published: 2023-10-06T21:21:38+00:00
+
+ ## Focus on Features | Prevent Harm Through Design
+ - [https://gbw-ii-fellowship.web.app](https://gbw-ii-fellowship.web.app)
+ - date_published: 2023-12-14T23:37:42+00:00
 
  ## AI for communication
  - [https://gen-gen.web.app](https://gen-gen.web.app)
@@ -2287,6 +2346,10 @@
  ## ing griyanipun Damar
  - [https://indrdmr.web.app](https://indrdmr.web.app)
  - date_published: 2024-01-28T02:44:54+00:00
+
+ ## Ipv6 seminar
+ - [https://ipv6-free-webinar.web.app](https://ipv6-free-webinar.web.app)
+ - date_published: 2023-04-26T04:10:09+00:00
 
  ## Portfolio
  - [https://manthanank.web.app](https://manthanank.web.app)
@@ -3397,6 +3460,10 @@
  - date_published: 2024-04-08T19:30:54.373072+00:00
  - tags: ['self-host', 'e-mail server']
 
+ ## Steven's Web Thoughts
+ - [https://stevenbas.art](https://stevenbas.art)
+ - date_published: 2024-04-25T00:00:00+00:00
+
  ## ‎Art of the Movies
  - [https://p9gx00hq.tapc.art](https://p9gx00hq.tapc.art)
  - date_published: 2024-02-19T00:00:00+00:00
@@ -3984,68 +4051,4 @@ October 2024 in Singapore
  ## Anarcat - anarcat
  - [https://anarc.at](https://anarc.at)
  - date_published: 2023-10-25T11:52:42.006171+00:00
-
- ## My Notebook - Linux, Open Source, Web Development and other Stuff
- - [https://andreasrohner.at](https://andreasrohner.at)
- - date_published: 2015-10-24T00:00:00+00:00
-
- ## angular-austria.at
- - [https://angular-austria.at](https://angular-austria.at)
- - date_published: 2024-06-22T23:47:38.527272+00:00
-
- ## Anton Pirker
- - [https://anton-pirker.at](https://anton-pirker.at)
- - date_published: 2024-06-21T21:31:28+00:00
-
- ## APA – Austria Presse Agentur | Nationale Nachrichtenagentur
- - [https://apa.at](https://apa.at)
- - date_published: 2024-05-08T06:16:13.660416+00:00
-
- ## Playbook | Homebase | APA
- - [https://playbook.apa.at](https://playbook.apa.at)
- - date_published: 2024-07-04T11:29:30.991442+00:00
-
- ## Workshops
- - [https://www.apa-campus.at](https://www.apa-campus.at)
- - date_published: 2024-07-04T11:29:34.909463+00:00
-
- ## Nachhilfe/Unterricht durch einen unserer ausgewählten Lehrer zu Hause
- - [https://www.apprentus.at](https://www.apprentus.at)
- - date_published: 2024-06-15T01:45:29.821855+00:00
-
- ## Startseite
- - [https://ooe.arbeiterkammer.at](https://ooe.arbeiterkammer.at)
- - date_published: 2024-06-18T15:38:12.839001+00:00
-
- ## Attac Österreich
- - [https://attac.at](https://attac.at)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Hotels in Austria & Slovenia | Austria Trend Hotels
- - [https://www.austria-trend.at](https://www.austria-trend.at)
- - date_published: 2024-06-22T07:50:28.741878+00:00
-
- ## Startseite | Autoverbrauch
- - [http://www.autoverbrauch.at](http://www.autoverbrauch.at)
- - date_published: 2024-06-28T08:30:17+00:00
-
- ## AWEKAS – Automatic Weather Map System
- - [https://www.awekas.at](https://www.awekas.at)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Bank Austria
- - [https://banking.bankaustria.at](https://banking.bankaustria.at)
- - date_published: 2024-05-27T22:01:02+00:00
-
- ## Bank Austria
- - [https://filialen.bankaustria.at](https://filialen.bankaustria.at)
- - date_published: 2024-06-25T19:06:53.381608+00:00
-
- ## OnlineBanking | BusinessNet Login & Anmeldung | Bank Austria
- - [https://online.bankaustria.at](https://online.bankaustria.at)
- - date_published: 2024-06-25T19:08:39.458448+00:00
-
- ## Wirtschaft Online: Analysen & Research
- - [http://wirtschaft-online.bankaustria.at](http://wirtschaft-online.bankaustria.at)
- - date_published: 2024-06-25T19:08:34.259867+00:00
 

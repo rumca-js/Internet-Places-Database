@@ -1,3 +1,83 @@
+ ## Havn
+ - [https://havn.blog](https://havn.blog)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Home
+ - [https://hidde.blog](https://hidde.blog)
+ - date_published: 2024-06-21T22:18:15.765567+00:00
+
+ ## Hive
+ - [https://hive.blog](https://hive.blog)
+ - date_published: 2024-04-30T07:34:16.203098+00:00
+
+ ## In jawls humble opinion. Christians Blog.
+ - [https://hmbl.blog](https://hmbl.blog)
+ - date_published: 2024-07-02T17:53:22+00:00
+
+ ## some compact thoughts
+ - [https://backus.home.blog](https://backus.home.blog)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## DonDagen
+ - [https://dondagen.home.blog](https://dondagen.home.blog)
+ - date_published: 2023-12-14T06:53:35.668494+00:00
+ - tags: ['personal']
+
+ ## Glork
+ - [https://glork.home.blog](https://glork.home.blog)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Our Looney Barn
+ - [https://graveyardhouse.home.blog](https://graveyardhouse.home.blog)
+ - date_published: 2024-06-24T10:51:45.888235+00:00
+
+ ## Grumpy Wizard
+ - [https://grumpywizard.home.blog](https://grumpywizard.home.blog)
+ - date_published: 2023-12-23T19:27:09.883564+00:00
+ - tags: ['personal']
+
+ ## Hand in Hand
+ - [http://handinhand.home.blog](http://handinhand.home.blog)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Just Coasting
+ - [https://justcoasting.home.blog](https://justcoasting.home.blog)
+ - date_published: 2024-05-07T14:47:04.252481+00:00
+
+ ## To Be Determined
+ - [https://locationtbd.home.blog](https://locationtbd.home.blog)
+ - date_published: 2023-10-25T09:01:46.793235+00:00
+ - tags: ['personal']
+
+ ## Around These Islands
+ - [https://novaroundbritain.home.blog](https://novaroundbritain.home.blog)
+ - date_published: 2024-05-07T14:47:12.542485+00:00
+
+ ## Imogen is Reading and Watching the World: On Books, Film, Art & More
+ - [https://readingandwatchingtheworld.home.blog](https://readingandwatchingtheworld.home.blog)
+ - date_published: 2024-06-15T00:01:36+00:00
+
+ ## Scorpios
+ - [https://scorpios.home.blog](https://scorpios.home.blog)
+ - date_published: 2024-06-23T14:38:26.656326+00:00
+
+ ## She’s  inspired
+ - [https://shesinspired.home.blog](https://shesinspired.home.blog)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## SOBERANIA ALIMENTAR MARÉ
+ - [https://soberania-alimentar-mare.home.blog](https://soberania-alimentar-mare.home.blog)
+ - date_published: 2024-05-10T06:57:04.002656+00:00
+
+ ## Home With The Armadillo
+ - [https://homewiththearmadillo.blog](https://homewiththearmadillo.blog)
+ - date_published: 2024-06-21T22:09:52.098809+00:00
+
+ ## Hoppla!
+ - [https://hopplaausrufezeichen.blog](https://hopplaausrufezeichen.blog)
+ - date_published: 2023-11-29T14:18:55.206080+00:00
+ - tags: ['personal']
+
  ## Hover Blog
  - [https://hover.blog](https://hover.blog)
  - date_published: 2024-05-08T06:31:47.738225+00:00
@@ -1209,6 +1289,10 @@ Educação
  - [http://www.foa.unesp.br](http://www.foa.unesp.br)
  - date_published: 2024-06-29T10:06:42.639580+00:00
 
+ ## UNIMEP - Universidade Metodista de Piracicaba —
+ - [http://unimep.br](http://unimep.br)
+ - date_published: 2024-07-02T00:00:00+00:00
+
  ## Notícias — Universidade Federal do Estado do Rio de Janeiro
  - [https://www.unirio.br](https://www.unirio.br)
  - date_published: 2024-02-22T00:00:00+00:00
@@ -1490,6 +1574,10 @@ Educação
  ## Galera Record
  - [http://galerarecord.blogspot.com.br](http://galerarecord.blogspot.com.br)
  - date_published: 2024-05-10T06:57:46.657878+00:00
+
+ ## Blog LabCisco
+ - [http://labcisco.blogspot.com.br](http://labcisco.blogspot.com.br)
+ - date_published: 2024-07-06T20:43:15+00:00
 
  ## Brazil
  - [https://www.boeing.com.br](https://www.boeing.com.br)
@@ -3976,90 +4064,4 @@ Educação
  ## Amazon Ads: Online advertising for businesses of all sizes
  - [https://advertising.amazon.ca](https://advertising.amazon.ca)
  - date_published: 2024-05-08T00:00:00+00:00
-
- ## Amazon.ca: Low Prices – Fast Shipping – Millions of Items
- - [http://amazon.ca](http://amazon.ca)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## Amazon.ca Associates Central
- - [https://associates.amazon.ca](https://associates.amazon.ca)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Amazon Brand Protection: Protect the Brand You Built
- - [https://brandservices.amazon.ca](https://brandservices.amazon.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Amazon Kindle: Your free personal library you can take anywhere
- - [https://read.amazon.ca](https://read.amazon.ca)
- - date_published: 2024-06-24T04:14:19.790726+00:00
-
- ## Sell on Amazon.ca | Build Your Ecommerce Business
- - [https://sell.amazon.ca](https://sell.amazon.ca)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Supplier Connect
- - [https://supply.amazon.ca](https://supply.amazon.ca)
- - date_published: 2024-05-13T02:39:09.205396+00:00
-
- ## Amazon.ca: Low Prices – Fast Shipping – Millions of Items
- - [https://www.amazon.ca](https://www.amazon.ca)
- - date_published: 2024-02-28T00:00:00+00:00
- - tags: ['amazon canada']
-
- ## Alberta Machine Intelligence Institute | AI for good and for all
- - [https://www.amii.ca](https://www.amii.ca)
- - date_published: 2023-10-25T12:03:17.667569+00:00
-
- ## Ammonite Coatings | Concrete Floor Resurfacing & Coating Systems
- - [https://ammonitecoatings.ca](https://ammonitecoatings.ca)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## anderegg.ca | Something (slightly) less boring than nothing.
- - [https://anderegg.ca](https://anderegg.ca)
- - date_published: 2023-10-25T12:03:20.730751+00:00
-
- ## Andrew King
- - [https://andrewking.ca](https://andrewking.ca)
- - date_published: 2024-06-23T15:44:43.918702+00:00
-
- ## Animalhospitals in Canada, Canada
- - [http://www.animalhospitals.ca](http://www.animalhospitals.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Annie's Homegrown | Delicious Organic Food for Everybunny
- - [https://www.annieshomegrown.ca](https://www.annieshomegrown.ca)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## Anthony Chu
- - [https://anthonychu.ca](https://anthonychu.ca)
- - date_published: 2023-08-31T00:00:00+00:00
-
- ## Kit Builder
- - [https://kb-load.anvasoft.ca](https://kb-load.anvasoft.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## 202310 - apenwarr
- - [https://apenwarr.ca](https://apenwarr.ca)
- - date_published: 2023-10-25T12:03:23.733666+00:00
-
- ## Apocryphicity
- - [http://www.apocryphicity.ca](http://www.apocryphicity.ca)
- - date_published: 2024-06-28T19:27:51+00:00
-
- ## Arcadia Earth | An Immersive Art & Technology Experience
- - [http://www.arcadiaearth.ca](http://www.arcadiaearth.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Alana Cattapan
- - [https://arcattapan.ca](https://arcattapan.ca)
- - date_published: 2024-05-09T09:11:39.883714+00:00
- - tags: ['personal']
-
- ## Home
- - [https://arctiq.ca](https://arctiq.ca)
- - date_published: 2024-05-09T04:54:47.297920+00:00
-
- ## Arearugs in Canada, Canada
- - [http://www.arearugs.ca](http://www.arearugs.ca)
- - date_published: 2024-06-03T00:00:00+00:00
 
