@@ -227,10 +227,6 @@
  - [https://wisdominanutshell.academy](https://wisdominanutshell.academy)
  - date_published: 2023-11-25T20:14:38.285477+00:00
 
- ## Wisdom In a Nutshell
- - [https://www.wisdominanutshell.academy](https://www.wisdominanutshell.academy)
- - date_published: 2023-11-14T14:40:46.425150+00:00
-
  ## ACO Building Drainage - Home
  - [https://www.buildingdrainage.aco](https://www.buildingdrainage.aco)
  - date_published: 2024-05-04T08:13:25.551053+00:00
@@ -355,6 +351,10 @@
  - [https://www.dxracer.ae](https://www.dxracer.ae)
  - date_published: 2024-07-03T12:26:10.370581+00:00
 
+ ## Dyson UAE | Official Site | Shop
+ - [https://www.dyson.ae](https://www.dyson.ae)
+ - date_published: 2024-07-07T01:57:26.698062+00:00
+
  ## Emirates Society for Rheumatology – The Emirates Society for Rheumatology (ESR) is a leading specialist medical society which aims to bring innovative information about rheumatic diseases. We support our members to help deliver the best care for their patients, to improve the lives of children and adults with rheumatic and musculoskeletal disease.
  - [http://www.esr.ae](http://www.esr.ae)
  - date_published: 2024-06-28T11:57:21.878771+00:00
@@ -428,6 +428,10 @@
  - [http://inkas.ae](http://inkas.ae)
  - date_published: 2024-03-19T00:00:00+00:00
 
+ ## Page Moved
+ - [http://www.it-innovations.ae](http://www.it-innovations.ae)
+ - date_published: 2019-09-22T11:03:01+00:00
+
  ## Konecranes
  - [https://www.konecranes.ae](https://www.konecranes.ae)
  - date_published: 2024-06-20T22:57:27.126693+00:00
@@ -446,10 +450,6 @@
 
  ## home
  - [https://moorfields.ae](https://moorfields.ae)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## home
- - [https://www.moorfields.ae](https://www.moorfields.ae)
  - date_published: 2024-03-13T00:00:00+00:00
 
  ## #1 Korean Restaurant in Dubai and Abu Dhabi - Korean BBQ
@@ -594,11 +594,6 @@
  - date_published: 2024-06-25T00:00:00+00:00
  - tags: ['aviation news']
 
- ## FutureFlight | Urban Air Mobility News, Special Reports, Programs
- - [https://www.futureflight.aero](https://www.futureflight.aero)
- - date_published: 2023-12-16T22:26:53.868701+00:00
- - tags: ['aviation news']
-
  ## Stralis Aircraft
  - [https://hfa.aero](https://hfa.aero)
  - date_published: 2024-06-26T11:33:03.046016+00:00
@@ -628,10 +623,6 @@
  - [https://stralis.aero](https://stralis.aero)
  - date_published: 2023-11-20T20:24:12.351020+00:00
  - tags: ['airspace', 'avionics', 'aviation', 'aircraft']
-
- ## Stralis Aircraft
- - [https://www.stralis.aero](https://www.stralis.aero)
- - date_published: 2024-06-26T11:33:04.707699+00:00
 
  ## Supernal.aero
  - [https://www.supernal.aero](https://www.supernal.aero)
@@ -858,6 +849,10 @@
  - [https://text.causal.agency](https://text.causal.agency)
  - date_published: 2023-12-26T19:22:32.249924+00:00
 
+ ## A kickstartDS Demo Showcase: Systemics, your Design System &amp; Headless Agency
+ - [https://about.design-system.agency](https://about.design-system.agency)
+ - date_published: 2024-07-07T03:09:38.602074+00:00
+
  ## The Developer First Agency | DevRel.Agency
  - [http://www.devrel.agency](http://www.devrel.agency)
  - date_published: 2024-06-27T13:44:35.920866+00:00
@@ -865,10 +860,6 @@
  ## HealthTech digital agency in London | Doublesided
  - [https://doublesided.agency](https://doublesided.agency)
  - date_published: 2024-05-15T11:16:40+00:00
-
- ## HealthTech digital agency in London | Doublesided
- - [https://www.doublesided.agency](https://www.doublesided.agency)
- - date_published: 2024-05-06T22:12:25.026215+00:00
 
  ## DoubleUp
  - [http://www.doubleup.agency](http://www.doubleup.agency)
@@ -970,10 +961,6 @@
  - [https://shrimpton.agency](https://shrimpton.agency)
  - date_published: 2024-05-01T05:44:18.141457+00:00
 
- ## SHRIMPTON AGENCY  - Shrimpton Agency
- - [https://www.shrimpton.agency](https://www.shrimpton.agency)
- - date_published: 2024-06-16T05:34:19.757043+00:00
-
  ## SYMBIO: Brand & Product Marketing Agency for Tech
  - [https://symbio.agency](https://symbio.agency)
  - date_published: 2024-06-11T00:00:00+00:00
@@ -998,13 +985,13 @@
  - [https://01.ai](https://01.ai)
  - date_published: 2024-06-21T00:00:00+00:00
 
- ## 零一万物-AI2.0大模型技术和应用的全球公司（01.ai）
- - [https://www.01.ai](https://www.01.ai)
- - date_published: 2023-11-06T06:15:11.901481+00:00
-
  ## 1001 Nights - AI Native Game  | 1001 Nights
  - [https://www.1001nights.ai](https://www.1001nights.ai)
  - date_published: 2024-06-15T23:17:09.816983+00:00
+
+ ## 10W.AI
+ - [https://10w.ai](https://10w.ai)
+ - date_published: 2024-02-29T02:11:21+00:00
 
  ## 2short.ai - AI short clip generator
  - [https://2short.ai](https://2short.ai)
@@ -1168,6 +1155,10 @@
  - [https://ai-shakespeare.ai](https://ai-shakespeare.ai)
  - date_published: 2024-06-19T21:23:50.717200+00:00
 
+ ## AI Safety Ideas
+ - [https://aisi.ai](https://aisi.ai)
+ - date_published: 2024-07-07T07:22:11.441533+00:00
+
  ## AI Tidbits | Sahar Mor | Substack
  - [https://www.aitidbits.ai](https://www.aitidbits.ai)
  - date_published: 2024-02-17T00:00:00+00:00
@@ -1212,6 +1203,10 @@
  - [https://www.altered.ai](https://www.altered.ai)
  - date_published: 2024-04-16T00:00:00+00:00
 
+ ## Login -  AlwaysOn
+ - [https://app.alwayson.ai](https://app.alwayson.ai)
+ - date_published: 2024-07-07T08:33:28.890415+00:00
+
  ## Open Source Python ETL
  - [https://amphi.ai](https://amphi.ai)
  - date_published: 2024-06-19T00:02:23+00:00
@@ -1249,7 +1244,7 @@
  - date_published: 2023-10-25T11:36:34.953273+00:00
 
  ## Apollo Research
- - [https://www.apolloresearch.ai](https://www.apolloresearch.ai)
+ - [https://apolloresearch.ai](https://apolloresearch.ai)
  - date_published: 2024-05-08T09:57:56.336096+00:00
 
  ## Create beautiful AI-generated app icons.
@@ -1359,15 +1354,11 @@
  ## AskGuru
  - [https://askguru.ai](https://askguru.ai)
  - date_published: 2024-02-13T00:00:00+00:00
+ - tags: ['artificial intelligence']
 
  ## AskGuru Chat Pop-Up
  - [https://chat-popup.askguru.ai](https://chat-popup.askguru.ai)
  - date_published: 2024-05-28T01:03:12.804515+00:00
-
- ## AskGuru
- - [https://www.askguru.ai](https://www.askguru.ai)
- - date_published: 2023-11-28T20:45:58+00:00
- - tags: ['artificial intelligence']
 
  ## Ask
  - [https://askmarcus.ai](https://askmarcus.ai)
@@ -1376,10 +1367,6 @@
  ## Marvin
  - [https://askmarvin.ai](https://askmarvin.ai)
  - date_published: 2024-05-15T14:31:40+00:00
-
- ## Marvin
- - [https://www.askmarvin.ai](https://www.askmarvin.ai)
- - date_published: 2023-10-25T08:40:47.099148+00:00
 
  ## AskNow
  - [https://www.asknow.ai](https://www.asknow.ai)
@@ -1822,10 +1809,6 @@
  - [https://bulletpapers.ai](https://bulletpapers.ai)
  - date_published: 2024-05-09T00:00:00+00:00
 
- ## Show HN: Bulletpapers – ArXiv AI paper summarizer, won Anthropic Hackathon
- - [https://www.bulletpapers.ai](https://www.bulletpapers.ai)
- - date_published: 2023-11-08T18:20:11+00:00
-
  ## Bunch - AI Coaching | Become a Better Leader in 2 Mins a Day
  - [https://bunch.ai](https://bunch.ai)
  - date_published: 2023-10-25T11:36:43.928399+00:00
@@ -1887,10 +1870,6 @@
  ## Introduction to Captions - Captions
  - [https://help.captions.ai](https://help.captions.ai)
  - date_published: 2024-06-22T22:32:50.029275+00:00
-
- ## Captions | Your AI-powered creative studio
- - [https://www.captions.ai](https://www.captions.ai)
- - date_published: 2024-05-02T00:00:00+00:00
 
  ## Careerdekho AI — AI Career Discovery Tool
  - [https://careerdekho.ai](https://careerdekho.ai)
@@ -2050,10 +2029,6 @@
  - [https://essentials.cheq.ai](https://essentials.cheq.ai)
  - date_published: 2024-06-17T16:39:34.192034+00:00
 
- ## CHEQ | The Leader in Go-to-Market Security
- - [https://www.cheq.ai](https://www.cheq.ai)
- - date_published: 2024-03-26T12:47:10+00:00
-
  ## Show HN: Chessdream – Generate realistic chess positions with AI
  - [https://chessdream.ai](https://chessdream.ai)
  - date_published: 2024-05-16T12:56:31+00:00
@@ -2098,10 +2073,6 @@ Welcome
  ## Circleback | Security Portal
  - [https://security.circleback.ai](https://security.circleback.ai)
  - date_published: 2024-03-06T00:00:00+00:00
-
- ## Circleback
- - [https://www.circleback.ai](https://www.circleback.ai)
- - date_published: 2024-06-11T00:00:00+00:00
 
  ## Home
  - [https://citymonitor.ai](https://citymonitor.ai)
@@ -2166,7 +2137,7 @@ Welcome
  - date_published: 2024-05-08T02:33:18.454780+00:00
 
  ## ClimateFire AI
- - [https://www.climatefire.ai](https://www.climatefire.ai)
+ - [https://climatefire.ai](https://climatefire.ai)
  - date_published: 2024-05-08T09:59:10.358954+00:00
 
  ## clipnote.ai - Watch. Learn. Capture.
@@ -2241,10 +2212,6 @@ Welcome
  - [https://codium.ai](https://codium.ai)
  - date_published: 2024-05-27T00:00:00+00:00
 
- ## Meaningful Code Tests for Busy Devs | CodiumAI
- - [https://www.codium.ai](https://www.codium.ai)
- - date_published: 2024-05-08T00:00:00+00:00
-
  ## Coframe
  - [https://coframe.ai](https://coframe.ai)
  - date_published: 2024-05-01T03:10:21.571081+00:00
@@ -2276,10 +2243,6 @@ Welcome
  ## The Cognitive Revolution
  - [https://cognitiverevolution.ai](https://cognitiverevolution.ai)
  - date_published: 2024-06-23T07:11:01.198165+00:00
-
- ## The Cognitive Revolution
- - [https://www.cognitiverevolution.ai](https://www.cognitiverevolution.ai)
- - date_published: 2024-05-06T13:41:28.697346+00:00
 
  ## Cohere | The leading AI platform for enterprise
  - [https://cohere.ai](https://cohere.ai)
@@ -2429,10 +2392,6 @@ Welcome
  - [https://support.copy.ai](https://support.copy.ai)
  - date_published: 2024-06-21T00:00:00+00:00
 
- ## Future proof your business with GTM AI
- - [https://www.copy.ai](https://www.copy.ai)
- - date_published: 2024-05-03T00:00:00+00:00
-
  ## Generate Content & Copy In Seconds With AI
  - [https://copymatic.ai](https://copymatic.ai)
  - date_published: 2021-04-19T16:03:07+00:00
@@ -2471,10 +2430,6 @@ Welcome
 
  ## Corvidae
  - [https://corvidae.ai](https://corvidae.ai)
- - date_published: 2021-06-15T10:52:01+00:00
-
- ## Corvidae
- - [https://www.corvidae.ai](https://www.corvidae.ai)
  - date_published: 2021-06-15T10:52:01+00:00
 
  ## Write Powerful Cover Letters, Master Interviews & Negotiate Like a Pro using AI | CoverDoc.ai
@@ -2859,10 +2814,6 @@ Welcome
  - [https://dqlabs.ai](https://dqlabs.ai)
  - date_published: 2024-03-11T00:00:00+00:00
 
- ## DQLabs Modern Data Quality Platform
- - [https://www.dqlabs.ai](https://www.dqlabs.ai)
- - date_published: 2024-06-13T00:00:00+00:00
-
  ## DraftLab AI: Write better emails faster with AI
  - [https://draftlab.ai](https://draftlab.ai)
  - date_published: 2024-06-19T19:40:03.311999+00:00
@@ -3109,10 +3060,6 @@ Welcome
  - [https://ermine.ai](https://ermine.ai)
  - date_published: 2024-05-07T10:49:45.809768+00:00
 
- ## Ermine.ai | Local Audio Transcription
- - [https://www.ermine.ai](https://www.ermine.ai)
- - date_published: 2024-06-27T10:52:43.176451+00:00
-
  ## Erogen
  - [https://erogen.ai](https://erogen.ai)
  - date_published: 2024-06-14T08:54:32+00:00
@@ -3200,10 +3147,6 @@ Welcome
 
  ## EyeLevel.ai
  - [https://eyelevel.ai](https://eyelevel.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## EyeLevel.ai
- - [https://www.eyelevel.ai](https://www.eyelevel.ai)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## ChatGPT for Gmail Free Chrome Extension | EzMail.AI
@@ -3305,6 +3248,10 @@ Welcome
  ## Show HN: Real-time image generation with SDXL Lightning
  - [https://fastsdxl.ai](https://fastsdxl.ai)
  - date_published: 2024-02-22T22:52:46+00:00
+
+ ## FedML - The Production AI Platform for Federated Learning at Scale
+ - [https://fedml.ai](https://fedml.ai)
+ - date_published: 2024-05-11T01:53:07+00:00
 
  ## Realtime Feature Store for Machine Learning | Fennel
  - [https://fennel.ai](https://fennel.ai)
@@ -3418,10 +3365,6 @@ Welcome
  - [https://fixie.ai](https://fixie.ai)
  - date_published: 2024-04-30T00:00:00+00:00
 
- ## Fixie.ai
- - [https://www.fixie.ai](https://www.fixie.ai)
- - date_published: 2024-05-24T00:00:00+00:00
-
  ## Flamel.ai - The Social Media Hub for Multi-Location Brands
  - [https://flamel.ai](https://flamel.ai)
  - date_published: 2024-05-31T00:00:00+00:00
@@ -3433,10 +3376,6 @@ Welcome
  ## Fletch Security Portal | Powered by SafeBase
  - [https://security.fletch.ai](https://security.fletch.ai)
  - date_published: 2024-06-21T00:00:00+00:00
-
- ## Fletch | World's first cyber threat AI
- - [https://www.fletch.ai](https://www.fletch.ai)
- - date_published: 2024-06-21T09:16:28+00:00
 
  ## Flitig
  - [http://flitig.ai](http://flitig.ai)
@@ -3585,6 +3524,10 @@ Welcome
  ## FusionOS.ai AI Generative Advertising platform for businesses and their agencies
  - [https://www.fusionos.ai](https://www.fusionos.ai)
  - date_published: 2024-06-27T00:00:00+00:00
+
+ ## FutureSearch: unbiased, in-depth answers to hard questions
+ - [https://futuresearch.ai](https://futuresearch.ai)
+ - date_published: 2024-02-21T00:00:00+00:00
 
  ## fylm.ai - AI Powered Colour Grading and Collaboration in Cloud
  - [https://fylm.ai](https://fylm.ai)
@@ -3779,10 +3722,6 @@ Welcome
  - [https://goody2.ai](https://goody2.ai)
  - date_published: 2024-07-03T18:01:28.436161+00:00
 
- ## GOODY-2 | The world's most responsible AI model
- - [https://www.goody2.ai](https://www.goody2.ai)
- - date_published: 2024-02-09T19:21:56.409095+00:00
-
  ## Gooey.AI - The best of private & open source AI
  - [https://gooey.ai](https://gooey.ai)
  - date_published: 2024-06-19T19:09:15.415021+00:00
@@ -3805,10 +3744,6 @@ Welcome
 
  ## Global Partnership on Artificial Intelligence - GPAI
  - [https://gpai.ai](https://gpai.ai)
- - date_published: 2024-02-19T14:34:31+00:00
-
- ## Global Partnership on Artificial Intelligence - GPAI
- - [https://www.gpai.ai](https://www.gpai.ai)
  - date_published: 2024-02-19T14:34:31+00:00
 
  ## Show HN: Clone someone and talk to them like in real life
@@ -3895,17 +3830,9 @@ Welcome
  - [https://h2o.ai](https://h2o.ai)
  - date_published: 2024-06-14T08:56:57.568098+00:00
 
- ## H2O.ai | Convergence of The World's Best Predictive & Generative AI
- - [https://www.h2o.ai](https://www.h2o.ai)
- - date_published: 2024-06-19T07:38:33.610163+00:00
-
  ## HaiHai Labs
  - [https://haihai.ai](https://haihai.ai)
  - date_published: 2024-06-23T11:29:31.920182+00:00
-
- ## HaiHai Labs - What will we build with AI?
- - [https://www.haihai.ai](https://www.haihai.ai)
- - date_published: 2023-10-25T11:26:46.096389+00:00
 
  ## Preview your FUE/FUT hair transplant using AI | Hairgen.ai
  - [https://www.hairgen.ai](https://www.hairgen.ai)
@@ -3946,10 +3873,6 @@ Welcome
  ## Generative AI for Professional Services | Harvey
  - [https://harvey.ai](https://harvey.ai)
  - date_published: 2024-06-21T10:34:43.826140+00:00
-
- ## Generative AI for Professional Services | Harvey
- - [https://www.harvey.ai](https://www.harvey.ai)
- - date_published: 2024-05-04T12:02:12.960251+00:00
 
  ## HASH - a workspace for structured knowledge.
  - [https://hash.ai](https://hash.ai)
@@ -4030,4 +3953,80 @@ Welcome
  ## HireStack API Docs
  - [https://docs.hirestack.ai](https://docs.hirestack.ai)
  - date_published: 2024-06-25T23:32:56.106377+00:00
+
+ ## HireStack - Video Interviews to 10x your hiring
+ - [https://hirestack.ai](https://hirestack.ai)
+ - date_published: 2024-05-06T18:11:47.697982+00:00
+
+ ## hirex.ai
+ - [https://www.hirex.ai](https://www.hirex.ai)
+ - date_published: 2024-04-01T18:09:35+00:00
+
+ ## HitWit.ai
+ - [https://www.hitwit.ai](https://www.hitwit.ai)
+ - date_published: 2024-06-12T17:44:58+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://hix.ai](https://hix.ai)
+ - date_published: 2024-06-19T19:35:53.167308+00:00
+
+ ## Holly - AI for recruitment and staffing agencies
+ - [https://www.hollyhires.ai](https://www.hollyhires.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Offline GPT Store 😉
+ - [https://uneven-macaw-bef2.hony.ai](https://uneven-macaw-bef2.hony.ai)
+ - date_published: 2024-01-24T17:05:23.757347+00:00
+
+ ## Monetize Your Fashion Influence with HopShop - Earn Commissions Effortlessly
+ - [https://hopshop.ai](https://hopshop.ai)
+ - date_published: 2024-06-19T19:21:39.043544+00:00
+
+ ## Hopsworks - The Real-time AI Lakehouse
+ - [https://www.hopsworks.ai](https://www.hopsworks.ai)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Home – Horizon3.ai
+ - [https://www.horizon3.ai](https://www.horizon3.ai)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Free Daily Horoscopes By The AI Astrologer | Horoscope AI
+ - [https://horoscope.ai](https://horoscope.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Hotpot.ai: AI image generator, AI headshots, and other AI tools to spark creativity and productivity
+ - [https://hotpot.ai](https://hotpot.ai)
+ - date_published: 2024-06-19T18:47:59.188892+00:00
+
+ ## Gen AI Video: Creating Content Workflows for Enterprise Growth - Hour One
+ - [https://hourone.ai](https://hourone.ai)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Howdy
+ - [https://blog.howdy.ai](https://blog.howdy.ai)
+ - date_published: 2024-05-02T12:44:32.505561+00:00
+
+ ## Center for Human-Compatible Artificial Intelligence – Center for Human-Compatible AI is building exceptional AI for humanity
+ - [https://humancompatible.ai](https://humancompatible.ai)
+ - date_published: 2024-05-08T09:51:55.550980+00:00
+
+ ## Human or Not
+ - [https://app.humanornot.ai](https://app.humanornot.ai)
+ - date_published: 2024-06-10T22:22:27+00:00
+
+ ## Humata: ChatGPT for Your Data Files
+ - [https://www.humata.ai](https://www.humata.ai)
+ - date_published: 2024-06-19T21:05:41.979443+00:00
+
+ ## AI Humanizer - Humanize AI - AI Detector Bypass | Humbot
+ - [https://humbot.ai](https://humbot.ai)
+ - date_published: 2024-06-19T19:41:47.142990+00:00
+
+ ## Home • Hume AI
+ - [https://hume.ai](https://hume.ai)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Humyn.ai
+ - [https://app.humyn.ai](https://app.humyn.ai)
+ - date_published: 2024-05-10T05:00:49.349649+00:00
 
