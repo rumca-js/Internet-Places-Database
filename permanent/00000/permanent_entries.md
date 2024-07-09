@@ -19,6 +19,10 @@
  - [https://global.abb](https://global.abb)
  - date_published: 2024-07-01T08:13:31+00:00
 
+ ## Adi Chakravarty
+ - [https://adi.ac](https://adi.ac)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## Blackboard Ally - Accessible content is better content
  - [https://ally.ac](https://ally.ac)
  - date_published: 2023-05-19T13:34:25+00:00
@@ -138,6 +142,10 @@
  - [https://epicenter.academy](https://epicenter.academy)
  - date_published: 2024-05-02T13:40:25.608544+00:00
 
+ ## Fastweb Digital Academy
+ - [https://www.fastwebdigital.academy](https://www.fastwebdigital.academy)
+ - date_published: 2024-07-08T11:50:03+00:00
+
  ## Home
  - [https://www.freetech.academy](https://www.freetech.academy)
  - date_published: 2024-07-03T00:00:00+00:00
@@ -150,6 +158,10 @@
  ## The Generalist Academy – Learn widely
  - [https://generalist.academy](https://generalist.academy)
  - date_published: 2023-10-25T11:36:02.149656+00:00
+
+ ## Archbishop Sentamu Academy – To lead the best life possible
+ - [https://asa.hslt.academy](https://asa.hslt.academy)
+ - date_published: 2024-07-08T12:58:30.698329+00:00
 
  ## Hyperlink Academy
  - [https://hyperlink.academy](https://hyperlink.academy)
@@ -179,6 +191,10 @@
  - [https://moodle.academy](https://moodle.academy)
  - date_published: 2024-05-08T10:30:04.367653+00:00
 
+ ## Home | OmniScience
+ - [https://omniscience.academy](https://omniscience.academy)
+ - date_published: 2024-07-08T18:17:06.968215+00:00
+
  ## OpenRead - Let's reshape research
  - [https://www.openread.academy](https://www.openread.academy)
  - date_published: 2024-06-19T21:24:30.162457+00:00
@@ -186,6 +202,10 @@
  ## Philosophy Academy
  - [https://philosophy.academy](https://philosophy.academy)
  - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Pipou Academy
+ - [https://pipou.academy](https://pipou.academy)
+ - date_published: 2024-07-08T11:03:29.668331+00:00
 
  ## Rancher Academy
  - [https://www.rancher.academy](https://www.rancher.academy)
@@ -294,6 +314,14 @@
  ## ASPIRE
  - [https://www.aspireuae.ae](https://www.aspireuae.ae)
  - date_published: 2024-06-10T12:47:28.986449+00:00
+
+ ## ATRC STEM Youth Mentorship Program
+ - [https://mentorship.atrc.ae](https://mentorship.atrc.ae)
+ - date_published: 2024-07-08T19:52:24.574876+00:00
+
+ ## Advanced Technology Research Council | ATRC Abu Dhabi, UAE
+ - [https://sciencekits.atrc.ae](https://sciencekits.atrc.ae)
+ - date_published: 2024-01-29T11:35:00+00:00
 
  ## Photo Gifts: Gifts Personalised Online with Your Photos or Designs
  - [https://www.bagsoflove.ae](https://www.bagsoflove.ae)
@@ -476,6 +504,10 @@
  - [https://qr.ae](https://qr.ae)
  - date_published: 2024-04-30T07:49:21.303269+00:00
 
+ ## ResearchHub
+ - [https://researchhub.ae](https://researchhub.ae)
+ - date_published: 2024-06-27T13:05:44+00:00
+
  ## سبوتنيك عربي – أخبار الدول العربية والعالم | آخر الأخبار
  - [https://sarabic.ae](https://sarabic.ae)
  - date_published: 2024-06-15T08:47:30.394025+00:00
@@ -525,7 +557,7 @@
  - date_published: 2023-10-25T11:36:14.302367+00:00
 
  ## Home
- - [https://www.tii.ae](https://www.tii.ae)
+ - [https://tii.ae](https://tii.ae)
  - date_published: 2024-02-26T00:00:00+00:00
 
  ## IT'S GOLF. IT'S NOT GOLF. IT'S TOPGOLF.
@@ -535,6 +567,10 @@
  ## Home
  - [https://trapezegroup.ae](https://trapezegroup.ae)
  - date_published: 2024-05-07T00:00:00+00:00
+
+ ## UAE Research Map
+ - [https://uaeresearchmap.ae](https://uaeresearchmap.ae)
+ - date_published: 2024-04-29T06:41:08+00:00
 
  ## Virgin Megastore | Shop Online for Tech, Toys, Home Decor & More
  - [https://www.virginmegastore.ae](https://www.virginmegastore.ae)
@@ -837,6 +873,10 @@
  - [http://www.backbeat.agency](http://www.backbeat.agency)
  - date_published: 2024-05-10T06:29:14.971678+00:00
 
+ ## Beech Agency | Strategy & creative for non-profit & for-purpose orgs
+ - [https://www.beech.agency](https://www.beech.agency)
+ - date_published: 2024-05-08T00:00:00+00:00
+
  ## Bulletproof web design & WordPress development - Brave New
  - [https://bravenew.agency](https://bravenew.agency)
  - date_published: 2024-05-02T13:45:00.236397+00:00
@@ -848,6 +888,10 @@
  ## Index of /
  - [https://text.causal.agency](https://text.causal.agency)
  - date_published: 2023-12-26T19:22:32.249924+00:00
+
+ ## Defensive Lab Agency
+ - [https://defensive-lab.agency](https://defensive-lab.agency)
+ - date_published: 2024-06-17T12:31:18+00:00
 
  ## A kickstartDS Demo Showcase: Systemics, your Design System &amp; Headless Agency
  - [https://about.design-system.agency](https://about.design-system.agency)
@@ -942,7 +986,7 @@
  - date_published: 2024-01-09T02:23:14.014553+00:00
 
  ## We Work With Brands - connect with the world’s leading vegan media platform.
- - [https://www.pbndigital.agency](https://www.pbndigital.agency)
+ - [https://pbndigital.agency](https://pbndigital.agency)
  - date_published: 2024-04-29T00:00:00+00:00
 
  ## PixelFactory - Digital Imaging Agency
@@ -968,6 +1012,10 @@
  ## The Curious: A Branding & Digital Creative Agency
  - [https://thecurious.agency](https://thecurious.agency)
  - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Troopers - Agence Web - Conception et développement de sites et d'applications Web - Nantes
+ - [https://troopers.agency](https://troopers.agency)
+ - date_published: 2024-07-08T11:03:57.539987+00:00
 
  ## Web design agency York | Yorkshire web design | Branding | eCommerce
  - [https://vital.agency](https://vital.agency)
@@ -1222,6 +1270,10 @@
  ## AnChainAI - Web3 Security and Compliance
  - [https://www.anchain.ai](https://www.anchain.ai)
  - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Andromeda Cluster: 10 exaflops for startups
+ - [https://andromeda.ai](https://andromeda.ai)
+ - date_published: 2024-07-08T08:34:46.085311+00:00
 
  ## Anlatan
  - [https://anlatan.ai](https://anlatan.ai)
@@ -2237,6 +2289,10 @@ Welcome
  - date_published: 2024-04-12T00:00:00+00:00
 
  ## Cognition
+ - [https://cognition.ai](https://cognition.ai)
+ - date_published: 2024-07-08T23:01:14.226421+00:00
+
+ ## Cognition
  - [https://www.cognition.ai](https://www.cognition.ai)
  - date_published: 2024-05-08T00:00:00+00:00
 
@@ -2514,7 +2570,7 @@ Welcome
  - date_published: 2023-06-09T18:28:29+00:00
 
  ## Custom Vision - Home
- - [https://www.customvision.ai](https://www.customvision.ai)
+ - [https://customvision.ai](https://customvision.ai)
  - date_published: 2024-05-08T11:50:14.946655+00:00
 
  ## CuteChat - NSFW Character AI Chat - No Filter AI Girlfriends
@@ -2522,9 +2578,9 @@ Welcome
  - date_published: 2024-06-14T08:59:33.328030+00:00
  - tags: ['artificial intelligence bot', 'nsfw']
 
- ## Cyberrunner – robot playing Labyrinth board game
- - [https://www.cyberrunner.ai](https://www.cyberrunner.ai)
- - date_published: 2023-12-22T11:46:22+00:00
+ ## CyberRunner
+ - [https://cyberrunner.ai](https://cyberrunner.ai)
+ - date_published: 2023-12-20T22:50:38+00:00
 
  ## Cyble Vision
  - [https://cyble.ai](https://cyble.ai)
@@ -2742,6 +2798,10 @@ Welcome
  - [https://devv.ai](https://devv.ai)
  - date_published: 2024-05-08T15:19:40+00:00
 
+ ## Feedback - Devv
+ - [https://hub.devv.ai](https://hub.devv.ai)
+ - date_published: 2024-07-08T00:00:00+00:00
+
  ## Dexa — Where Curiosity Meets Credibility
  - [https://dexa.ai](https://dexa.ai)
  - date_published: 2024-05-15T02:51:27.742994+00:00
@@ -2781,6 +2841,14 @@ Welcome
  ## Dimensions Badges
  - [https://badge.dimensions.ai](https://badge.dimensions.ai)
  - date_published: 2024-04-28T03:39:48.517297+00:00
+
+ ## Dimensions AI | The most advanced scientific research database
+ - [https://www.dimensions.ai](https://www.dimensions.ai)
+ - date_published: 2024-07-01T12:50:23+00:00
+
+ ## Dittto
+ - [https://dittto.ai](https://dittto.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
 
  ## Doctrina | AI Education Suite
  - [https://www.doctrina.ai](https://www.doctrina.ai)
@@ -2980,11 +3048,11 @@ Welcome
 
  ## The Pile is a 825 GiB diverse, open source language modelling data set
  - [https://pile.eleuther.ai](https://pile.eleuther.ai)
- - date_published: 2024-03-07T17:14:51+00:00
+ - date_published: 2023-02-17T21:25:57+00:00
  - tags: ['artificial intelligence data', 'database']
 
  ## EleutherAI
- - [https://www.eleuther.ai](https://www.eleuther.ai)
+ - [https://eleuther.ai](https://eleuther.ai)
  - date_published: 2024-02-12T00:00:00+00:00
 
  ## Elf Help
@@ -3028,7 +3096,7 @@ Welcome
  - date_published: 2024-06-21T00:24:25+00:00
 
  ## Energy Monitor - Inside the global transition to net zero
- - [https://www.energymonitor.ai](https://www.energymonitor.ai)
+ - [https://energymonitor.ai](https://energymonitor.ai)
  - date_published: 2023-10-25T11:38:25.700332+00:00
  - tags: ['global warming', 'climate change']
 
@@ -3097,6 +3165,10 @@ Welcome
  - [https://e-volution.ai](https://e-volution.ai)
  - date_published: 2024-05-06T18:02:52.670864+00:00
 
+ ## EvolutionaryScale
+ - [https://www.evolutionaryscale.ai](https://www.evolutionaryscale.ai)
+ - date_published: 2024-07-03T00:00:00+00:00
+
  ## AI-led Experience Optimization | Evolv AI
  - [https://go.evolv.ai](https://go.evolv.ai)
  - date_published: 2024-07-04T12:13:25+00:00
@@ -3142,7 +3214,7 @@ Welcome
  - date_published: 2024-06-19T20:54:58.037676+00:00
 
  ## Extropic | A new paradigm for computing
- - [https://www.extropic.ai](https://www.extropic.ai)
+ - [https://extropic.ai](https://extropic.ai)
  - date_published: 2024-03-11T00:00:00+00:00
 
  ## EyeLevel.ai
@@ -3957,76 +4029,4 @@ Welcome
  ## HireStack - Video Interviews to 10x your hiring
  - [https://hirestack.ai](https://hirestack.ai)
  - date_published: 2024-05-06T18:11:47.697982+00:00
-
- ## hirex.ai
- - [https://www.hirex.ai](https://www.hirex.ai)
- - date_published: 2024-04-01T18:09:35+00:00
-
- ## HitWit.ai
- - [https://www.hitwit.ai](https://www.hitwit.ai)
- - date_published: 2024-06-12T17:44:58+00:00
-
- ## Attention Required! | Cloudflare
- - [https://hix.ai](https://hix.ai)
- - date_published: 2024-06-19T19:35:53.167308+00:00
-
- ## Holly - AI for recruitment and staffing agencies
- - [https://www.hollyhires.ai](https://www.hollyhires.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Offline GPT Store 😉
- - [https://uneven-macaw-bef2.hony.ai](https://uneven-macaw-bef2.hony.ai)
- - date_published: 2024-01-24T17:05:23.757347+00:00
-
- ## Monetize Your Fashion Influence with HopShop - Earn Commissions Effortlessly
- - [https://hopshop.ai](https://hopshop.ai)
- - date_published: 2024-06-19T19:21:39.043544+00:00
-
- ## Hopsworks - The Real-time AI Lakehouse
- - [https://www.hopsworks.ai](https://www.hopsworks.ai)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home – Horizon3.ai
- - [https://www.horizon3.ai](https://www.horizon3.ai)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Free Daily Horoscopes By The AI Astrologer | Horoscope AI
- - [https://horoscope.ai](https://horoscope.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Hotpot.ai: AI image generator, AI headshots, and other AI tools to spark creativity and productivity
- - [https://hotpot.ai](https://hotpot.ai)
- - date_published: 2024-06-19T18:47:59.188892+00:00
-
- ## Gen AI Video: Creating Content Workflows for Enterprise Growth - Hour One
- - [https://hourone.ai](https://hourone.ai)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Howdy
- - [https://blog.howdy.ai](https://blog.howdy.ai)
- - date_published: 2024-05-02T12:44:32.505561+00:00
-
- ## Center for Human-Compatible Artificial Intelligence – Center for Human-Compatible AI is building exceptional AI for humanity
- - [https://humancompatible.ai](https://humancompatible.ai)
- - date_published: 2024-05-08T09:51:55.550980+00:00
-
- ## Human or Not
- - [https://app.humanornot.ai](https://app.humanornot.ai)
- - date_published: 2024-06-10T22:22:27+00:00
-
- ## Humata: ChatGPT for Your Data Files
- - [https://www.humata.ai](https://www.humata.ai)
- - date_published: 2024-06-19T21:05:41.979443+00:00
-
- ## AI Humanizer - Humanize AI - AI Detector Bypass | Humbot
- - [https://humbot.ai](https://humbot.ai)
- - date_published: 2024-06-19T19:41:47.142990+00:00
-
- ## Home • Hume AI
- - [https://hume.ai](https://hume.ai)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Humyn.ai
- - [https://app.humyn.ai](https://app.humyn.ai)
- - date_published: 2024-05-10T05:00:49.349649+00:00
 
