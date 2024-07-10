@@ -80,6 +80,10 @@
  - [https://ikennd.ac](https://ikennd.ac)
  - date_published: 2024-05-13T15:03:31+00:00
 
+ ## ISC E-journals
+ - [https://ecc.isc.ac](https://ecc.isc.ac)
+ - date_published: 2024-07-09T21:17:23.395954+00:00
+
  ## 基礎有機化学会　JPOC ： The Society of Physical Organic Chemistry, Japan
  - [http://jpoc.ac](http://jpoc.ac)
  - date_published: 2024-06-23T23:15:50.692597+00:00
@@ -105,6 +109,10 @@
  - [https://universal-cup-website.qoj.ac](https://universal-cup-website.qoj.ac)
  - date_published: 2024-07-03T10:32:53.259638+00:00
 
+ ## Ryan Kavanagh's /dev/brain
+ - [https://rak.ac](https://rak.ac)
+ - date_published: 2024-04-05T02:18:14+00:00
+
  ## Scratchpad of Mathias Sablé-Meyer
  - [https://blog.s-m.ac](https://blog.s-m.ac)
  - date_published: 2021-07-08T18:52:48+00:00
@@ -128,6 +136,10 @@
  ## Python Arcade 2.6.17
  - [https://api.arcade.academy](https://api.arcade.academy)
  - date_published: 2023-08-05T16:07:52+00:00
+
+ ## Arzamas
+ - [https://arzamas.academy](https://arzamas.academy)
+ - date_published: 2024-07-09T06:55:56.593900+00:00
 
  ## The Bash Guide
  - [https://guide.bash.academy](https://guide.bash.academy)
@@ -484,6 +496,10 @@
  - [https://mukbangshow.ae](https://mukbangshow.ae)
  - date_published: 2024-06-15T00:00:00+00:00
 
+ ## درع الوطن :: مجلة عسكرية واستراتيجية ::
+ - [http://nationshield.ae](http://nationshield.ae)
+ - date_published: 2024-07-09T22:03:58.943768+00:00
+
  ## Nike UAE Official Website - Shop Shoes, Clothing & Accessories
  - [https://www.nike.ae](https://www.nike.ae)
  - date_published: 2024-06-12T00:00:00+00:00
@@ -499,6 +515,10 @@
  ## تطوير و إجراء اختبارات محوسبة :: بيرسون فيو
  - [https://www.pearsonvue.ae](https://www.pearsonvue.ae)
  - date_published: 2024-06-28T12:46:21.788382+00:00
+
+ ## PERI LLC, Dubai, Abu Dhabi - Formwork Scaffolding Engineering
+ - [https://www.peri.ae](https://www.peri.ae)
+ - date_published: 2024-07-01T00:00:00+00:00
 
  ## Cierpliwości...
  - [https://qr.ae](https://qr.ae)
@@ -609,9 +629,25 @@
  - [https://aci.aero](https://aci.aero)
  - date_published: 2021-04-07T00:00:00+00:00
 
+ ## Home | Times Aerospace
+ - [http://www.africanaerospace.aero](http://www.africanaerospace.aero)
+ - date_published: 2024-07-09T21:47:49+00:00
+
+ ## Air Transport News
+ - [http://www.airtransportnews.aero](http://www.airtransportnews.aero)
+ - date_published: 2019-10-30T11:08:47+00:00
+
  ## ARGUS International
  - [https://www.argus.aero](https://www.argus.aero)
  - date_published: 2024-06-16T16:50:25.868983+00:00
+
+ ## Web Server's Default Page
+ - [http://www.asgroup.aero](http://www.asgroup.aero)
+ - date_published: 2021-07-13T09:35:53+00:00
+
+ ## AVIATOR - airline market intelligence
+ - [https://www.aviator.aero](https://www.aviator.aero)
+ - date_published: 2024-07-09T00:00:00+00:00
 
  ## BBGA
  - [https://bbga.aero](https://bbga.aero)
@@ -630,6 +666,14 @@
  - date_published: 2024-06-25T00:00:00+00:00
  - tags: ['aviation news']
 
+ ## Home - GAMA
+ - [http://www.gama.aero](http://www.gama.aero)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Continental Aerospace Technologies
+ - [http://www.genuinecontinental.aero](http://www.genuinecontinental.aero)
+ - date_published: 2024-07-09T22:07:11.500487+00:00
+
  ## Stralis Aircraft
  - [https://hfa.aero](https://hfa.aero)
  - date_published: 2024-06-26T11:33:03.046016+00:00
@@ -643,6 +687,18 @@
  - [https://www.jetzero.aero](https://www.jetzero.aero)
  - date_published: 2022-01-01T00:00:00+00:00
 
+ ## Kestrel Private Jet - Official site of private aviation business jets
+ - [http://www.kestrel.aero](http://www.kestrel.aero)
+ - date_published: 2023-02-22T10:22:31+00:00
+
+ ## Your aviation destination
+ - [http://www.key.aero](http://www.key.aero)
+ - date_published: 2024-07-09T22:05:01.674476+00:00
+
+ ## LOOP - Private jets and helicopters business aviation
+ - [http://www.loop.aero](http://www.loop.aero)
+ - date_published: 2024-07-09T22:19:05.579810+00:00
+
  ## NATS
  - [https://www.nats.aero](https://www.nats.aero)
  - date_published: 2024-06-18T09:55:15.481007+00:00
@@ -654,6 +710,10 @@
  ## Parken im Flughafen | Park.Aero
  - [https://eurowings.park.aero](https://eurowings.park.aero)
  - date_published: 2024-06-16T16:24:42.722438+00:00
+
+ ## Welcome to SkyDemon, VFR Flight Planning Software and GPS Navigation
+ - [https://www.skydemon.aero](https://www.skydemon.aero)
+ - date_published: 2024-07-09T21:43:30.847103+00:00
 
  ## Stralis Aircraft – Emission free hydrogen electric aircraft
  - [https://stralis.aero](https://stralis.aero)
@@ -684,6 +744,10 @@
  ## Home - Afghan Telecom
  - [https://afghantelecom.af](https://afghantelecom.af)
  - date_published: 2024-05-06T22:25:57.024124+00:00
+
+ ## Blunt
+ - [http://blunt.af](http://blunt.af)
+ - date_published: 2019-06-20T00:17:10+00:00
 
  ## Smooth Shadow
  - [https://shadows.brumm.af](https://shadows.brumm.af)
@@ -814,6 +878,14 @@
  - [https://terminal.jup.ag](https://terminal.jup.ag)
  - date_published: 2024-07-04T10:16:53.982270+00:00
 
+ ## Paul Tagliamonte
+ - [https://blog.pault.ag](https://blog.pault.ag)
+ - date_published: 2024-07-09T08:12:20.706881+00:00
+
+ ## Paul's Notes
+ - [https://notes.pault.ag](https://notes.pault.ag)
+ - date_published: 2024-04-13T00:00:00+00:00
+
  ## Planeta W Gestão de Marcas
  - [https://planetaw.ag](https://planetaw.ag)
  - date_published: 2024-06-12T13:17:04.908350+00:00
@@ -873,9 +945,17 @@
  - [http://www.backbeat.agency](http://www.backbeat.agency)
  - date_published: 2024-05-10T06:29:14.971678+00:00
 
+ ## Banfield | Forward together
+ - [https://banfield.agency](https://banfield.agency)
+ - date_published: 2024-07-05T00:00:00+00:00
+
  ## Beech Agency | Strategy & creative for non-profit & for-purpose orgs
  - [https://www.beech.agency](https://www.beech.agency)
  - date_published: 2024-05-08T00:00:00+00:00
+
+ ## BOKEH | WE'RE NOT AD PEOPLE
+ - [http://bokeh.agency](http://bokeh.agency)
+ - date_published: 2024-07-09T19:06:08.257505+00:00
 
  ## Bulletproof web design & WordPress development - Brave New
  - [https://bravenew.agency](https://bravenew.agency)
@@ -961,6 +1041,10 @@
  - [https://kobu.agency](https://kobu.agency)
  - date_published: 2024-03-18T00:00:00+00:00
 
+ ## LCA
+ - [https://www.latecheckout.agency](https://www.latecheckout.agency)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## Lemongrass Agency – PR Agency Zurich
  - [https://lemongrass.agency](https://lemongrass.agency)
  - date_published: 2024-06-19T15:39:39.602039+00:00
@@ -990,7 +1074,7 @@
  - date_published: 2024-04-29T00:00:00+00:00
 
  ## PixelFactory - Digital Imaging Agency
- - [https://www.pixelfactory.agency](https://www.pixelfactory.agency)
+ - [https://pixelfactory.agency](https://pixelfactory.agency)
  - date_published: 2024-02-27T00:00:00+00:00
 
  ## Poppy Websites - Helping startups accelarate growths
@@ -1012,6 +1096,10 @@
  ## The Curious: A Branding & Digital Creative Agency
  - [https://thecurious.agency](https://thecurious.agency)
  - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Thought Catalog Agency
+ - [https://thoughtcatalog.agency](https://thoughtcatalog.agency)
+ - date_published: 2024-07-09T11:36:49.462411+00:00
 
  ## Troopers - Agence Web - Conception et développement de sites et d'applications Web - Nantes
  - [https://troopers.agency](https://troopers.agency)
@@ -1299,6 +1387,10 @@
  - [https://apolloresearch.ai](https://apolloresearch.ai)
  - date_published: 2024-05-08T09:57:56.336096+00:00
 
+ ## AppDirect AI
+ - [https://appdirect.ai](https://appdirect.ai)
+ - date_published: 2024-07-09T12:01:52.274454+00:00
+
  ## Create beautiful AI-generated app icons.
  - [https://appicons.ai](https://appicons.ai)
  - date_published: 2024-06-19T20:05:25.512523+00:00
@@ -1318,6 +1410,10 @@
  ## SSP | AppMonsta
  - [https://media.appmonsta.ai](https://media.appmonsta.ai)
  - date_published: 2024-06-25T22:50:58.340845+00:00
+
+ ## AppSentinels - API Security Platform
+ - [https://appsentinels.ai](https://appsentinels.ai)
+ - date_published: 2024-07-02T00:00:00+00:00
 
  ## Arabic ai - موقع لكل أدوات الذكاء الاصطناعي بالعربي
  - [https://araby.ai](https://araby.ai)
@@ -1355,9 +1451,17 @@
  - [https://arthub.ai](https://arthub.ai)
  - date_published: 2024-06-19T19:04:16.527088+00:00
 
+ ## Arthur AI
+ - [https://app.arthur.ai](https://app.arthur.ai)
+ - date_published: 2024-07-03T13:18:44+00:00
+
  ## Arthur
  - [https://arthur.ai](https://arthur.ai)
  - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Welcome to Arthur Scope!
+ - [https://docs.arthur.ai](https://docs.arthur.ai)
+ - date_published: 2024-07-09T12:02:42.288006+00:00
 
  ## ArtiBot.ai — AI Powered Bot for Lead Capture
  - [https://app.artibot.ai](https://app.artibot.ai)
@@ -1427,6 +1531,10 @@
  ## What would RBG (probably) say?
  - [https://ask-rbg.ai](https://ask-rbg.ai)
  - date_published: 2024-06-19T20:39:23.531168+00:00
+
+ ## askwise.ai
+ - [https://askwise.ai](https://askwise.ai)
+ - date_published: 2024-07-10T00:02:48.582321+00:00
 
  ## Astria - Tailor-made AI
  - [https://www.astria.ai](https://www.astria.ai)
@@ -2196,6 +2304,10 @@ Welcome
  - [https://clipnote.ai](https://clipnote.ai)
  - date_published: 2024-06-19T21:24:23.953328+00:00
 
+ ## Top CNAPP that Secures from Code to Cloud​ | CloudDefense.AI
+ - [https://www.clouddefense.ai](https://www.clouddefense.ai)
+ - date_published: 2023-08-17T12:00:58+00:00
+
  ## Cloudevo | Growth Marketing Agency
  - [https://cloudevo.ai](https://cloudevo.ai)
  - date_published: 2023-04-28T13:33:39+00:00
@@ -2291,10 +2403,6 @@ Welcome
  ## Cognition
  - [https://cognition.ai](https://cognition.ai)
  - date_published: 2024-07-08T23:01:14.226421+00:00
-
- ## Cognition
- - [https://www.cognition.ai](https://www.cognition.ai)
- - date_published: 2024-05-08T00:00:00+00:00
 
  ## The Cognitive Revolution
  - [https://cognitiverevolution.ai](https://cognitiverevolution.ai)
@@ -3142,7 +3250,7 @@ Welcome
  - date_published: 2023-12-12T21:31:11+00:00
 
  ## Transformers on Chips
- - [https://www.etched.ai](https://www.etched.ai)
+ - [https://etched.ai](https://etched.ai)
  - date_published: 2023-12-16T23:31:29+00:00
 
  ## EvaDB: Bring AI inside your Database System
@@ -3484,6 +3592,10 @@ Welcome
  ## Read Better With AI wih FluentRead.ai
  - [https://fluentread.ai](https://fluentread.ai)
  - date_published: 2024-05-06T06:38:30.098519+00:00
+
+ ## Fluidworks
+ - [https://fluidworks.ai](https://fluidworks.ai)
+ - date_published: 2024-07-10T00:02:47.622031+00:00
 
  ## https://docs.flux.ai
  - [https://docs.flux.ai](https://docs.flux.ai)
@@ -3917,116 +4029,4 @@ Welcome
  ## Halist AI
  - [https://halist.ai](https://halist.ai)
  - date_published: 2023-03-01T00:00:00+00:00
-
- ## Hallidai
- - [https://hallid.ai](https://hallid.ai)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Hamming - Eval-driven development made simple
- - [https://hamming.ai](https://hamming.ai)
- - date_published: 2024-06-12T11:04:18.172529+00:00
-
- ## Handy 5.0 | Handy 2024
- - [https://handy.ai](https://handy.ai)
- - date_published: 2024-06-21T02:12:27.948532+00:00
-
- ## Harambe AI Token Presale
- - [https://harambetoken.ai](https://harambetoken.ai)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## HARPA AI | GPT Chrome Automation Copilot
- - [https://harpa.ai](https://harpa.ai)
- - date_published: 2024-06-19T20:12:17.163263+00:00
-
- ## Harvey
- - [https://app.harvey.ai](https://app.harvey.ai)
- - date_published: 2024-06-21T10:34:39.419041+00:00
-
- ## Generative AI for Professional Services | Harvey
- - [https://harvey.ai](https://harvey.ai)
- - date_published: 2024-06-21T10:34:43.826140+00:00
-
- ## HASH - a workspace for structured knowledge.
- - [https://hash.ai](https://hash.ai)
- - date_published: 2024-05-04T13:56:05.367161+00:00
-
- ## HASH - a workspace for structured knowledge.
- - [https://hashdotai-lq9d3no7k.stage.hash.ai](https://hashdotai-lq9d3no7k.stage.hash.ai)
- - date_published: 2024-06-21T19:55:30.779115+00:00
-
- ## Haye AI - In-context AI writing assistant for macOS
- - [https://haye.ai](https://haye.ai)
- - date_published: 2024-05-15T02:44:53.979260+00:00
-
- ## Introduction - Helicone
- - [https://docs.helicone.ai](https://docs.helicone.ai)
- - date_published: 2024-05-11T07:39:44.274489+00:00
-
- ## Helicone
- - [https://www.helicone.ai](https://www.helicone.ai)
- - date_published: 2024-05-11T07:40:00.286757+00:00
-
- ## Hello History - Chat with AI Generated Historical Figures
- - [https://www.hellohistory.ai](https://www.hellohistory.ai)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Robin AI | The Future of Sales Automation
- - [https://www.hellorobin.ai](https://www.hellorobin.ai)
- - date_published: 2023-01-11T00:00:00+00:00
-
- ## Custom ChatGPT for Your Data | Help-Desk.ai
- - [https://help-desk.ai](https://help-desk.ai)
- - date_published: 2023-05-20T18:49:43+00:00
-
- ## Helsing Blog
- - [https://blog.helsing.ai](https://blog.helsing.ai)
- - date_published: 2024-04-28T05:59:30.133288+00:00
-
- ## Helsing | Artificial Intelligence to serve our democracies
- - [https://helsing.ai](https://helsing.ai)
- - date_published: 2024-04-28T05:59:38.445143+00:00
-
- ## Homepage - hermann.ai
- - [https://hermann.ai](https://hermann.ai)
- - date_published: 2024-06-15T03:14:14+00:00
-
- ## hessian.AI | The Hessian Center for Artificial Intelligence
- - [https://hessian.ai](https://hessian.ai)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Heyday Chat
- - [https://webchat.eu.heyday.ai](https://webchat.eu.heyday.ai)
- - date_published: 2024-02-29T15:17:28+00:00
-
- ## HeyFriday - Ultimate AI Writer
- - [https://www.heyfriday.ai](https://www.heyfriday.ai)
- - date_published: 2024-05-06T05:52:42+00:00
-
- ## Hey Internet: Your AI-Powered Text Message Assistant
- - [https://heyinternet.ai](https://heyinternet.ai)
- - date_published: 2024-06-19T20:38:33.529211+00:00
-
- ## HeyScience - your personal AI assistant
- - [https://www.heyscience.ai](https://www.heyscience.ai)
- - date_published: 2024-06-19T19:40:02.749863+00:00
-
- ## HideMyAl - Make Al Content Undetectable and Humanlike
- - [https://hidemy.ai](https://hidemy.ai)
- - date_published: 2023-07-24T20:01:35+00:00
-
- ## HirelakeAI: Turnkey Solution for Hiring - HireLakeAI
- - [https://hirelake.ai](https://hirelake.ai)
- - date_published: 2022-06-20T15:29:33+00:00
-
- ## HireStack - the best way to hire
- - [https://app.hirestack.ai](https://app.hirestack.ai)
- - date_published: 2024-06-25T23:32:55.027501+00:00
-
- ## HireStack API Docs
- - [https://docs.hirestack.ai](https://docs.hirestack.ai)
- - date_published: 2024-06-25T23:32:56.106377+00:00
-
- ## HireStack - Video Interviews to 10x your hiring
- - [https://hirestack.ai](https://hirestack.ai)
- - date_published: 2024-05-06T18:11:47.697982+00:00
 
