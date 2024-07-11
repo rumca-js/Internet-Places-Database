@@ -47,6 +47,10 @@
  - [https://goran.butor.ac](https://goran.butor.ac)
  - date_published: 2024-05-09T08:14:06.195409+00:00
 
+ ## Sometimes I write
+ - [https://words.of.goran.butor.ac](https://words.of.goran.butor.ac)
+ - date_published: 2024-04-01T00:00:00+00:00
+
  ## Cult of Mac | Apple news, rumors, reviews and how-tos
  - [https://cultm.ac](https://cultm.ac)
  - date_published: 2024-05-08T00:00:00+00:00
@@ -548,6 +552,10 @@
  - [https://skullcandy.ae](https://skullcandy.ae)
  - date_published: 2024-07-03T12:39:58.611611+00:00
 
+ ## Skyscanner
+ - [https://www.skyscanner.ae](https://www.skyscanner.ae)
+ - date_published: 2024-05-14T10:10:11+00:00
+
  ## Sony World - UAE | Official Store - Buy Sony Products Online in UAE
  - [https://sonyworld.ae](https://sonyworld.ae)
  - date_published: 2024-07-03T16:45:27.523434+00:00
@@ -793,6 +801,14 @@
  ## Home - APAC
  - [https://apacongress.africa](https://apacongress.africa)
  - date_published: 2024-07-03T00:00:00+00:00
+
+ ## AWPL – African Women in Political Leadership – Empowering Next Generation of Women in Political Leadership
+ - [https://awpl.africa](https://awpl.africa)
+ - date_published: 2024-07-10T07:31:25.702884+00:00
+
+ ## AYA Africa Is Your One Stop Shop For All Things Africa
+ - [https://aya.africa](https://aya.africa)
+ - date_published: 2024-06-22T00:00:00+00:00
 
  ## Bizcommunity | Daily business news, companies, jobs and events across 19 industries in Africa
  - [https://www.bizcommunity.africa](https://www.bizcommunity.africa)
@@ -1128,6 +1144,10 @@
  ## 10W.AI
  - [https://10w.ai](https://10w.ai)
  - date_published: 2024-02-29T02:11:21+00:00
+
+ ## 1PX.AI
+ - [https://www.1px.ai](https://www.1px.ai)
+ - date_published: 2024-07-05T10:46:02+00:00
 
  ## 2short.ai - AI short clip generator
  - [https://2short.ai](https://2short.ai)
@@ -1849,6 +1869,10 @@
  - [https://bito.ai](https://bito.ai)
  - date_published: 2024-03-26T10:28:25+00:00
 
+ ## Business Plan & Cash Flow Forecast Software | Bizplanr
+ - [https://bizplanr.ai](https://bizplanr.ai)
+ - date_published: 2024-07-09T13:11:11+00:00
+
  ## Blaze | The AI Tool for Teams of One
  - [https://app.blaze.ai](https://app.blaze.ai)
  - date_published: 2024-06-20T00:00:00+00:00
@@ -1932,6 +1956,10 @@
  ## Empower Your Brand with AI Technology ~ Brandmate
  - [https://brandmate.ai](https://brandmate.ai)
  - date_published: 2023-05-30T12:13:52+00:00
+
+ ## Brandwise | Social Engagement Manager
+ - [https://brandwise.ai](https://brandwise.ai)
+ - date_published: 2024-07-10T11:15:45.132110+00:00
 
  ## Breezemail - Organize your inbox with AI categories
  - [https://www.breezemail.ai](https://www.breezemail.ai)
@@ -2368,6 +2396,10 @@ Welcome
  - [https://codestory.ai](https://codestory.ai)
  - date_published: 2023-10-25T11:37:23.032983+00:00
 
+ ## Data Mentor | Unlocking Your Data Potential
+ - [https://codetutor.ai](https://codetutor.ai)
+ - date_published: 2024-07-10T11:07:29.284969+00:00
+
  ## CodeWP - AI For WordPress Creators
  - [https://codewp.ai](https://codewp.ai)
  - date_published: 2023-09-04T20:46:24+00:00
@@ -2471,6 +2503,10 @@ Welcome
  ## Compose AI: Automated Your Writing
  - [https://www.compose.ai](https://www.compose.ai)
  - date_published: 2024-06-19T19:53:40.685942+00:00
+
+ ## Frame
+ - [https://analytics.conductive.ai](https://analytics.conductive.ai)
+ - date_published: 2024-07-10T11:21:35.594163+00:00
 
  ## Confetti AI | Ace Your Machine Learning and Data Science Interviews
  - [https://www.confetti.ai](https://www.confetti.ai)
@@ -3289,6 +3325,10 @@ Welcome
  - [https://exa.ai](https://exa.ai)
  - date_published: 2024-06-23T11:27:14.231899+00:00
 
+ ## Exactly.ai
+ - [https://exactly.ai](https://exactly.ai)
+ - date_published: 2024-07-10T01:49:20.350621+00:00
+
  ## ExcelMaster.ai
  - [https://excelmaster.ai](https://excelmaster.ai)
  - date_published: 2024-06-14T08:56:48.374464+00:00
@@ -3701,6 +3741,10 @@ Welcome
  - [https://www.functime.ai](https://www.functime.ai)
  - date_published: 2024-06-19T21:06:12.252798+00:00
 
+ ## AI Girlfriend Builder - Chat and Generate Images
+ - [https://www.funfun.ai](https://www.funfun.ai)
+ - date_published: 2024-07-10T00:00:00+00:00
+
  ## furl | Proactively Remediate Risks with Confidence using Autonomous AI
  - [https://furl.ai](https://furl.ai)
  - date_published: 2024-06-19T18:48:57.399031+00:00
@@ -3985,48 +4029,4 @@ Welcome
  ## Graph Maker | Make any chart in seconds with AI
  - [https://www.graphmaker.ai](https://www.graphmaker.ai)
  - date_published: 2024-06-19T19:07:47.812763+00:00
-
- ## Marketing expertise meets artificial intelligence
- - [https://greatheadlines.ai](https://greatheadlines.ai)
- - date_published: 2024-06-19T18:53:59.159476+00:00
-
- ## Greenbids - Less carbon from Ads
- - [https://www.greenbids.ai](https://www.greenbids.ai)
- - date_published: 2024-05-06T17:46:29.668329+00:00
-
- ## Gretel.ai — The synthetic data platform for developers
- - [https://gretel.ai](https://gretel.ai)
- - date_published: 2023-10-25T11:39:10.186534+00:00
-
- ## Guides.ai - Tutorials for Artificial Intelligence (AI)
- - [https://guides.ai](https://guides.ai)
- - date_published: 2023-11-12T22:06:18.850956+00:00
-
- ## Guru: Your ultimate AI friend right inside WhatsApp
- - [https://www.gurubot.ai](https://www.gurubot.ai)
- - date_published: 2024-06-19T19:20:15.843319+00:00
-
- ## GymBuddy | Your AI workout planner
- - [https://www.gymbuddy.ai](https://www.gymbuddy.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## H2O.ai | Convergence of The World's Best Predictive & Generative AI
- - [https://h2o.ai](https://h2o.ai)
- - date_published: 2024-06-14T08:56:57.568098+00:00
-
- ## HaiHai Labs
- - [https://haihai.ai](https://haihai.ai)
- - date_published: 2024-06-23T11:29:31.920182+00:00
-
- ## Preview your FUE/FUT hair transplant using AI | Hairgen.ai
- - [https://www.hairgen.ai](https://www.hairgen.ai)
- - date_published: 2024-06-19T20:41:52.035180+00:00
-
- ## AISST
- - [https://haist.ai](https://haist.ai)
- - date_published: 2024-05-08T09:51:36.201282+00:00
-
- ## Halist AI
- - [https://halist.ai](https://halist.ai)
- - date_published: 2023-03-01T00:00:00+00:00
 

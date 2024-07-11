@@ -1,3 +1,47 @@
+ ## Marketing expertise meets artificial intelligence
+ - [https://greatheadlines.ai](https://greatheadlines.ai)
+ - date_published: 2024-06-19T18:53:59.159476+00:00
+
+ ## Greenbids - Less carbon from Ads
+ - [https://www.greenbids.ai](https://www.greenbids.ai)
+ - date_published: 2024-05-06T17:46:29.668329+00:00
+
+ ## Gretel.ai — The synthetic data platform for developers
+ - [https://gretel.ai](https://gretel.ai)
+ - date_published: 2023-10-25T11:39:10.186534+00:00
+
+ ## Guides.ai - Tutorials for Artificial Intelligence (AI)
+ - [https://guides.ai](https://guides.ai)
+ - date_published: 2023-11-12T22:06:18.850956+00:00
+
+ ## Guru: Your ultimate AI friend right inside WhatsApp
+ - [https://www.gurubot.ai](https://www.gurubot.ai)
+ - date_published: 2024-06-19T19:20:15.843319+00:00
+
+ ## GymBuddy | Your AI workout planner
+ - [https://www.gymbuddy.ai](https://www.gymbuddy.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## H2O.ai | Convergence of The World's Best Predictive & Generative AI
+ - [https://h2o.ai](https://h2o.ai)
+ - date_published: 2024-06-14T08:56:57.568098+00:00
+
+ ## HaiHai Labs
+ - [https://haihai.ai](https://haihai.ai)
+ - date_published: 2024-06-23T11:29:31.920182+00:00
+
+ ## Preview your FUE/FUT hair transplant using AI | Hairgen.ai
+ - [https://www.hairgen.ai](https://www.hairgen.ai)
+ - date_published: 2024-06-19T20:41:52.035180+00:00
+
+ ## AISST
+ - [https://haist.ai](https://haist.ai)
+ - date_published: 2024-05-08T09:51:36.201282+00:00
+
+ ## Halist AI
+ - [https://halist.ai](https://halist.ai)
+ - date_published: 2023-03-01T00:00:00+00:00
+
  ## Hallidai
  - [https://hallid.ai](https://hallid.ai)
  - date_published: 2024-01-19T00:00:00+00:00
@@ -501,6 +545,10 @@
  - [https://try-to-impeach-this.jetpack.ai](https://try-to-impeach-this.jetpack.ai)
  - date_published: 2024-04-29T02:30:12.597510+00:00
 
+ ## Jiahao Li
+ - [https://jiahao.ai](https://jiahao.ai)
+ - date_published: 2024-03-02T22:36:47+00:00
+
  ## BestBanner - Text to Banners, No Prompts Needed!
  - [https://bestbanner.jina.ai](https://bestbanner.jina.ai)
  - date_published: 2024-02-28T06:32:17+00:00
@@ -908,6 +956,10 @@
  - [https://www.lessonplans.ai](https://www.lessonplans.ai)
  - date_published: 2024-06-19T21:12:38.808701+00:00
 
+ ## LetsAsk.AI
+ - [https://letsask.ai](https://letsask.ai)
+ - date_published: 2024-07-10T11:16:10.005472+00:00
+
  ## Show HN: Let's Build AI
  - [https://letsbuild.ai](https://letsbuild.ai)
  - date_published: 2024-03-18T08:38:08+00:00
@@ -1061,6 +1113,10 @@
  ## GitHub - Mozilla-Ocho/llamafile: Distribute and run LLMs with a single file.
  - [https://llamafile.ai](https://llamafile.ai)
  - date_published: 2024-07-01T00:00:00+00:00
+
+ ## LlamaGen.Ai | ACG Copilot for Dream Makers, create your own comics, webtoon, manga and manhwa online with AI
+ - [https://llamagen.ai](https://llamagen.ai)
+ - date_published: 2024-07-10T11:05:32.363630+00:00
 
  ## Llama Hub
  - [https://llamahub.ai](https://llamahub.ai)
@@ -1251,6 +1307,10 @@
  ## Generative Design | Architecture Design Software | Maket
  - [https://www.maket.ai](https://www.maket.ai)
  - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Stay at the top of AI
+ - [https://mammouth.ai](https://mammouth.ai)
+ - date_published: 2024-07-10T01:49:09.171841+00:00
 
  ## ManyTools.ai lists the best ai tools sites of 2024!
  - [https://manytools.ai](https://manytools.ai)
@@ -1487,6 +1547,10 @@
  - [https://modelex.ai](https://modelex.ai)
  - date_published: 2024-06-16T03:53:04.703109+00:00
 
+ ## Modelia
+ - [https://www.modelia.ai](https://www.modelia.ai)
+ - date_published: 2024-07-03T19:27:12+00:00
+
  ## ModelZ
  - [https://modelz.ai](https://modelz.ai)
  - date_published: 2023-10-25T11:40:34.578938+00:00
@@ -1687,6 +1751,10 @@
  ## neptune.ai | The MLOps stack component for experiment tracking
  - [https://neptune.ai](https://neptune.ai)
  - date_published: 2024-06-18T00:00:00+00:00
+
+ ## NeroBot - The LLM powered scraper for your LLM Apps
+ - [https://www.nero.ai](https://www.nero.ai)
+ - date_published: 2024-02-06T00:00:00+00:00
 
  ## Neural Voice: Realistic AI Conversations
  - [https://www.neural-voice.ai](https://www.neural-voice.ai)
@@ -1988,6 +2056,10 @@
  - [https://otter.ai](https://otter.ai)
  - date_published: 2024-04-18T00:00:00+00:00
 
+ ## Ottic - Evaluate LLM-powered applications
+ - [https://ottic.ai](https://ottic.ai)
+ - date_published: 2024-04-29T00:00:00+00:00
+
  ## outdraw.ai
  - [https://outdraw.ai](https://outdraw.ai)
  - date_published: 2024-03-09T00:00:00+00:00
@@ -2165,6 +2237,10 @@
  ## Home
  - [https://phonely.ai](https://phonely.ai)
  - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Login - phospho
+ - [https://auth.phospho.ai](https://auth.phospho.ai)
+ - date_published: 2024-07-10T02:08:02.572359+00:00
 
  ## phospho
  - [https://blog.phospho.ai](https://blog.phospho.ai)
@@ -2407,7 +2483,7 @@
  - date_published: 2024-07-03T16:45:50.436442+00:00
 
  ## New Home
- - [https://www.productscience.ai](https://www.productscience.ai)
+ - [https://productscience.ai](https://productscience.ai)
  - date_published: 2024-05-08T00:00:00+00:00
 
  ## AI Product Photography & Amazon Lising Optimizer for Brands
@@ -3374,6 +3450,10 @@
  - [https://www.softwine.ai](https://www.softwine.ai)
  - date_published: 2023-10-25T11:42:48.387434+00:00
 
+ ## Socratic Lab
+ - [https://www.solab.ai](https://www.solab.ai)
+ - date_published: 2024-07-10T01:49:32.090990+00:00
+
  ## SolidPoint
  - [https://solidpoint.ai](https://solidpoint.ai)
  - date_published: 2024-06-17T23:38:36+00:00
@@ -3682,6 +3762,10 @@
  - [https://supermanage.ai](https://supermanage.ai)
  - date_published: 2024-02-01T00:00:00+00:00
 
+ ## Generate Memes with AI | Supermeme.ai
+ - [https://app.supermeme.ai](https://app.supermeme.ai)
+ - date_published: 2024-07-10T11:15:49.239911+00:00
+
  ## Turn text into AI memes | AI Meme Generator | Supermeme.ai
  - [https://supermeme.ai](https://supermeme.ai)
  - date_published: 2024-06-19T19:39:53.435456+00:00
@@ -3948,88 +4032,4 @@
  ## EmbedAI | Custom ChatGPT for your website
  - [https://thesamur.ai](https://thesamur.ai)
  - date_published: 2024-06-19T00:00:00+00:00
-
- ## Streamline AI - Intelligent intake, triage, and workflow automation for in-house legal teams.
- - [https://www.thestreamline.ai](https://www.thestreamline.ai)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## TheXPlace
- - [https://www.blog.thexplace.ai](https://www.blog.thexplace.ai)
- - date_published: 2024-06-20T13:14:45.625769+00:00
-
- ## Thinkstack
- - [https://app.thinkstack.ai](https://app.thinkstack.ai)
- - date_published: 2024-06-13T10:14:45+00:00
-
- ## Portal Login
- - [https://portal.threathunter.ai](https://portal.threathunter.ai)
- - date_published: 2024-07-09T17:17:33.762020+00:00
-
- ## Threathunter.ai Shop
- - [https://shop.threathunter.ai](https://shop.threathunter.ai)
- - date_published: 2024-07-09T17:17:34.666848+00:00
-
- ## Home
- - [https://threathunter.ai](https://threathunter.ai)
- - date_published: 2024-05-09T05:51:44.060041+00:00
-
- ## Tokee: Instant Viral Growth for YouTube Videos
- - [https://thumbly.ai](https://thumbly.ai)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Free Thumbnail Maker - Ai thumbnail creator  - Thumbnail.AI
- - [https://thumbnail.ai](https://thumbnail.ai)
- - date_published: 2024-06-19T20:50:41.221119+00:00
-
- ## Tidyread - AI-Powered Customizable Information Digest
- - [https://tidyread.ai](https://tidyread.ai)
- - date_published: 2024-06-27T10:52:40.545590+00:00
-
- ## TigerLab – Adversarial Testing for LLMs and Chatbots
- - [https://www.tigerlab.ai](https://www.tigerlab.ai)
- - date_published: 2023-11-22T06:52:56+00:00
-
- ## Tiipe | AI-Powered Content for Busy Creative Teams
- - [https://tiipe.ai](https://tiipe.ai)
- - date_published: 2023-12-03T00:00:00+00:00
-
- ## TILOS – The Institute for Learning-enabled Optimization at Scale
- - [https://www.tilos.ai](https://www.tilos.ai)
- - date_published: 2024-07-02T01:35:05.665829+00:00
-
- ## Hello from Timbr Documentation | Timbr Documentation
- - [https://docs.timbr.ai](https://docs.timbr.ai)
- - date_published: 2024-06-16T20:23:48.301332+00:00
-
- ## Home New
- - [https://timbr.ai](https://timbr.ai)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## TimeComplexity.ai
- - [https://www.timecomplexity.ai](https://www.timecomplexity.ai)
- - date_published: 2024-06-19T20:04:20.936965+00:00
-
- ## Supercharge your
- - [https://www.timemaster.ai](https://www.timemaster.ai)
- - date_published: 2020-10-06T00:00:00+00:00
-
- ## 🥇 Maximize Your Matches with AI | TinderProfile.ai
- - [https://tinderprofile.ai](https://tinderprofile.ai)
- - date_published: 2024-06-19T20:55:49.211815+00:00
-
- ## Tinq.ai | Ready-to-use NLP API Toolkit - NLP as a Service
- - [https://tinq.ai](https://tinq.ai)
- - date_published: 2024-06-19T19:34:27.911605+00:00
-
- ## TodoBot
- - [https://todobot.ai](https://todobot.ai)
- - date_published: 2023-10-25T11:44:27.284509+00:00
-
- ## Quickstart
- - [https://docs.together.ai](https://docs.together.ai)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Together AI
- - [https://together.ai](https://together.ai)
- - date_published: 2023-10-25T11:44:34.809336+00:00
 
