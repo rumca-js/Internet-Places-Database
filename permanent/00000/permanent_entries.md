@@ -56,6 +56,10 @@
  - date_published: 2024-05-08T00:00:00+00:00
 
  ## DISCO
+ - [https://burnettscore.disco.ac](https://burnettscore.disco.ac)
+ - date_published: 2024-07-11T19:13:29.270379+00:00
+
+ ## DISCO
  - [https://strangespecial.disco.ac](https://strangespecial.disco.ac)
  - date_published: 2024-06-26T22:55:34.897510+00:00
 
@@ -283,6 +287,10 @@
  - [https://www.roq.ad](https://www.roq.ad)
  - date_published: 2024-05-06T17:56:32.657353+00:00
 
+ ## SubscribeStar.adult - The best way to start your own adult subscription business
+ - [https://subscribestar.adult](https://subscribestar.adult)
+ - date_published: 2024-07-11T23:14:57.054538+00:00
+
  ## MBZUAI - Mohamed bin Zayed University of Artificial Intelligence
  - [https://mbzuai.ac.ae](https://mbzuai.ac.ae)
  - date_published: 2024-05-24T00:00:00+00:00
@@ -360,7 +368,7 @@
  - date_published: 2024-06-16T05:07:55.229436+00:00
 
  ## Citroën United Arab Emirates: Brand new cars for sale in the UAE
- - [https://www.citroen.ae](https://www.citroen.ae)
+ - [https://citroen.ae](https://citroen.ae)
  - date_published: 2023-12-11T16:02:29.483067+00:00
 
  ## Costa Coffee | UAE
@@ -1367,6 +1375,10 @@
  - [https://amphi.ai](https://amphi.ai)
  - date_published: 2024-06-19T00:02:23+00:00
 
+ ## 190903-amplified-logo-updated
+ - [https://amplified.ai](https://amplified.ai)
+ - date_published: 2024-07-11T16:48:16.653616+00:00
+
  ## Anakin.ai - One-Stop AI App Platform
  - [https://anakin.ai](https://anakin.ai)
  - date_published: 2024-06-19T20:58:11.600674+00:00
@@ -1567,6 +1579,10 @@
  ## AstroTeller - Know Your Stars using AI
  - [https://www.astroteller.ai](https://www.astroteller.ai)
  - date_published: 2024-06-19T19:49:44.197471+00:00
+
+ ## Athena Intelligence | AI-native analytics platform and artificial employee
+ - [https://www.athenaintelligence.ai](https://www.athenaintelligence.ai)
+ - date_published: 2024-07-10T00:00:00+00:00
 
  ## Athina AI
  - [https://athina.ai](https://athina.ai)
@@ -2736,7 +2752,7 @@ Welcome
 
  ## Dive into Deep Learning: Interactive deep learning book with codes and maths
  - [https://d2l.ai](https://d2l.ai)
- - date_published: 2023-11-27T04:55:20+00:00
+ - date_published: 2023-08-18T23:29:03+00:00
 
  ## D2L Discussion
  - [https://discuss.d2l.ai](https://discuss.d2l.ai)
@@ -2953,6 +2969,10 @@ Welcome
  ## Attention Required! | Cloudflare
  - [https://dexcheck.ai](https://dexcheck.ai)
  - date_published: 2024-07-03T10:43:59.492727+00:00
+
+ ## Dicer.ai | AI Marketing Insights
+ - [https://www.dicer.ai](https://www.dicer.ai)
+ - date_published: 2024-07-11T16:51:35.245629+00:00
 
  ## Dify.AI · The Innovation Engine for Generative AI Applications
  - [https://dify.ai](https://dify.ai)
@@ -4009,24 +4029,4 @@ Welcome
  ## Assisted data exploration for everyone
  - [https://grapha.ai](https://grapha.ai)
  - date_published: 2024-06-14T08:55:05.828865+00:00
-
- ## Graphable - Your Trusted Data Experts
- - [https://www.graphable.ai](https://www.graphable.ai)
- - date_published: 2021-05-07T09:42:30+00:00
-
- ## Graphcore Documents — Graphcore Documents
- - [https://docs.graphcore.ai](https://docs.graphcore.ai)
- - date_published: 2024-02-26T13:27:00+00:00
-
- ## Graphcore: Accelerating machine learning in the cloud
- - [https://graphcore.ai](https://graphcore.ai)
- - date_published: 2024-05-06T22:31:58.603758+00:00
-
- ## Graphica Studio â€“Â Brand &amp; Product Design
- - [https://studio.graphica.ai](https://studio.graphica.ai)
- - date_published: 2024-05-28T01:03:40.460834+00:00
-
- ## Graph Maker | Make any chart in seconds with AI
- - [https://www.graphmaker.ai](https://www.graphmaker.ai)
- - date_published: 2024-06-19T19:07:47.812763+00:00
 
