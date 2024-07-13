@@ -291,6 +291,10 @@
  - [https://subscribestar.adult](https://subscribestar.adult)
  - date_published: 2024-07-11T23:14:57.054538+00:00
 
+ ## Top Ranked, Research-Intensive University in UAE - Khalifa University
+ - [https://www.ku.ac.ae](https://www.ku.ac.ae)
+ - date_published: 2024-03-05T00:00:00+00:00
+
  ## MBZUAI - Mohamed bin Zayed University of Artificial Intelligence
  - [https://mbzuai.ac.ae](https://mbzuai.ac.ae)
  - date_published: 2024-05-24T00:00:00+00:00
@@ -371,6 +375,10 @@
  - [https://citroen.ae](https://citroen.ae)
  - date_published: 2023-12-11T16:02:29.483067+00:00
 
+ ## Home
+ - [https://www.clevelandclinicabudhabi.ae](https://www.clevelandclinicabudhabi.ae)
+ - date_published: 2024-07-12T21:54:44.007044+00:00
+
  ## Costa Coffee | UAE
  - [https://www.costacoffee.ae](https://www.costacoffee.ae)
  - date_published: 2024-07-04T08:06:02+00:00
@@ -432,7 +440,7 @@
  - date_published: 2024-05-20T00:00:00+00:00
 
  ## قناة الفجيرة | مصدر لا نهاية له من الأخبار والترفيه
- - [https://www.fujairahtv.ae](https://www.fujairahtv.ae)
+ - [https://fujairahtv.ae](https://fujairahtv.ae)
  - date_published: 2024-05-10T04:48:36.948199+00:00
 
  ## Royalty-Free Stock Photos, Creative Images & Vectors | News, Fashion, and Entertainment imagery - Getty Images
@@ -883,6 +891,10 @@
  - date_published: 2024-01-31T12:28:06+00:00
 
  ## Zindi
+ - [https://assets.zindi.africa](https://assets.zindi.africa)
+ - date_published: 2024-07-10T07:05:17+00:00
+
+ ## Zindi
  - [https://zindi.africa](https://zindi.africa)
  - date_published: 2024-05-10T05:00:39.914326+00:00
 
@@ -966,7 +978,7 @@
  - date_published: 2024-05-02T13:48:24.050833+00:00
 
  ## Backbeat Agency – a creative agency
- - [http://www.backbeat.agency](http://www.backbeat.agency)
+ - [http://backbeat.agency](http://backbeat.agency)
  - date_published: 2024-05-10T06:29:14.971678+00:00
 
  ## Banfield | Forward together
@@ -1210,6 +1222,10 @@
  - [https://acrostic.ai](https://acrostic.ai)
  - date_published: 2024-06-19T21:28:59.695056+00:00
 
+ ## Actionize - Custom GPT Actions made easy
+ - [http://actionize.ai](http://actionize.ai)
+ - date_published: 2024-05-31T00:00:00+00:00
+
  ## Activeloop
  - [https://learn.activeloop.ai](https://learn.activeloop.ai)
  - date_published: 2024-06-20T05:36:55.412837+00:00
@@ -1254,6 +1270,10 @@
  - [https://adversa.ai](https://adversa.ai)
  - date_published: 2019-09-18T22:42:54+00:00
 
+ ## 4Sight Intelligent Sensing Platform
+ - [https://aeye.ai](https://aeye.ai)
+ - date_published: 2024-02-26T00:00:00+00:00
+
  ## Bazaarvoice Affable.ai
  - [https://www.affable.ai](https://www.affable.ai)
  - date_published: 2024-05-31T00:00:00+00:00
@@ -1274,6 +1294,10 @@
  - [https://www.agentrunner.ai](https://www.agentrunner.ai)
  - date_published: 2024-06-19T20:58:17.236750+00:00
 
+ ## Mobile the World
+ - [https://global.agilex.ai](https://global.agilex.ai)
+ - date_published: 2024-07-12T08:56:23.181698+00:00
+
  ## Home - Agnostiq
  - [https://agnostiq.ai](https://agnostiq.ai)
  - date_published: 2024-06-01T00:00:00+00:00
@@ -1285,6 +1309,10 @@
  ## Aiflow - Powerful AI Content Generator for WooCommerce
  - [https://aiflow.ai](https://aiflow.ai)
  - date_published: 2024-06-19T12:51:50+00:00
+
+ ## AI Future Lab
+ - [https://www.aifuturelab.ai](https://www.aifuturelab.ai)
+ - date_published: 2023-10-26T00:00:00+00:00
 
  ## TensorPix - Online AI Video and Image Enhancer and Upscaler
  - [https://aimages.ai](https://aimages.ai)
@@ -1454,6 +1482,10 @@
  ## The Most Realistic AI Headshot Generator Ever.
  - [https://www.aragon.ai](https://www.aragon.ai)
  - date_published: 2024-06-19T20:07:03.238813+00:00
+
+ ## ARAHUB
+ - [https://arahub.ai](https://arahub.ai)
+ - date_published: 2024-07-12T08:37:45.088031+00:00
 
  ## Genera.so | Home to generative applications
  - [https://www.arch-e.ai](https://www.arch-e.ai)
@@ -1917,6 +1949,10 @@
  - [https://bloop.ai](https://bloop.ai)
  - date_published: 2023-10-25T11:36:42.110600+00:00
 
+ ## BlueSpace
+ - [https://www.bluespace.ai](https://www.bluespace.ai)
+ - date_published: 2024-07-12T07:24:11.351048+00:00
+
  ## BlueWillow | Free AI Art Generator
  - [https://www.bluewillow.ai](https://www.bluewillow.ai)
  - date_published: 2024-04-09T00:00:00+00:00
@@ -2041,6 +2077,14 @@
  ## C3 AI - Enterprise AI
  - [https://c3.ai](https://c3.ai)
  - date_published: 2024-03-22T00:00:00+00:00
+
+ ## C3.ai Developer Portal | C3.ai Developer Portal
+ - [https://developer.c3.ai](https://developer.c3.ai)
+ - date_published: 2024-07-12T08:17:18.848522+00:00
+
+ ## Investor Relations | C3.ai, Inc.
+ - [https://ir.c3.ai](https://ir.c3.ai)
+ - date_published: 2024-07-12T07:53:53+00:00
 
  ## Caffe2
  - [https://caffe2.ai](https://caffe2.ai)
@@ -2253,6 +2297,10 @@ Welcome
  ## 🌶️ Chilli
  - [https://www.chilli.ai](https://www.chilli.ai)
  - date_published: 2024-04-13T00:00:00+00:00
+
+ ## Chipper AI day
+ - [https://www.chipper.ai](https://www.chipper.ai)
+ - date_published: 2024-07-12T16:55:02.320376+00:00
 
  ## AI Social Network | Chirper AI
  - [https://chirper.ai](https://chirper.ai)
@@ -2511,6 +2559,10 @@ Welcome
  ## Comigo - Your AI Companion for ADHD
  - [https://www.comigo.ai](https://www.comigo.ai)
  - date_published: 2023-10-25T11:37:40.443111+00:00
+
+ ## comma.ai — make driving chill
+ - [https://comma.ai](https://comma.ai)
+ - date_published: 2024-07-11T03:55:45+00:00
 
  ## Components AI — A new way to explore generative design systems
  - [https://components.ai](https://components.ai)
@@ -2894,6 +2946,10 @@ Welcome
  - [https://www.deeplearning.ai](https://www.deeplearning.ai)
  - date_published: 2023-10-25T11:38:12.397045+00:00
 
+ ## Self-Driving Cars Technology & Solutions | NVIDIA Automotive
+ - [https://www.deepmap.ai](https://www.deepmap.ai)
+ - date_published: 2024-06-17T00:00:00+00:00
+
  ## DeepMode.ai - Create your own AI clone model
  - [https://deepmode.ai](https://deepmode.ai)
  - date_published: 2024-06-20T07:24:17.088353+00:00
@@ -2985,6 +3041,10 @@ Welcome
  ## The Digital Dogs™
  - [https://digitaldogs.ai](https://digitaldogs.ai)
  - date_published: 2023-02-09T17:48:08+00:00
+
+ ## Digital Transformation: Survive & Thrive in an Era of Mass Extinction
+ - [https://digitaltransformation.ai](https://digitaltransformation.ai)
+ - date_published: 2024-07-12T08:17:20.533366+00:00
 
  ## Digma Continuous Feedback
  - [https://digma.ai](https://digma.ai)
@@ -3144,7 +3204,7 @@ Welcome
 
  ## Ecole
  - [https://www.ecole.ai](https://www.ecole.ai)
- - date_published: 2024-05-10T05:01:17.450582+00:00
+ - date_published: 2022-08-29T19:54:01+00:00
 
  ## Ecomtent: AI Optimize Product Content Across Ecommerce Channels
  - [https://www.ecomtent.ai](https://www.ecomtent.ai)
@@ -3433,6 +3493,10 @@ Welcome
  - [https://faiss.ai](https://faiss.ai)
  - date_published: 2024-05-11T07:39:27.056441+00:00
 
+ ## fal
+ - [https://blog.fal.ai](https://blog.fal.ai)
+ - date_published: 2024-07-12T03:56:30.679072+00:00
+
  ## Fantasy.ai
  - [https://fantasy.ai](https://fantasy.ai)
  - date_published: 2024-05-30T10:30:10+00:00
@@ -3593,6 +3657,10 @@ Welcome
  - [https://firstimpression.ai](https://firstimpression.ai)
  - date_published: 2024-05-07T18:22:13.318552+00:00
 
+ ## Autonomous vehicle development and safety assurance platform
+ - [https://five.ai](https://five.ai)
+ - date_published: 2024-04-08T00:00:00+00:00
+
  ## Fixie.ai Blog
  - [https://blog.fixie.ai](https://blog.fixie.ai)
  - date_published: 2023-10-25T11:38:51.003257+00:00
@@ -3749,6 +3817,10 @@ Welcome
  - [https://heartbeat.fritz.ai](https://heartbeat.fritz.ai)
  - date_published: 2024-03-02T00:00:00+00:00
 
+ ## Fritz ai - The best AI tools for writing, designing, development, and more
+ - [https://www.fritz.ai](https://www.fritz.ai)
+ - date_published: 2024-03-02T00:00:00+00:00
+
  ## FRVR | AI Game Creator
  - [https://beta.frvr.ai](https://beta.frvr.ai)
  - date_published: 2024-06-13T00:00:00+00:00
@@ -3805,6 +3877,10 @@ Welcome
  ## AI Powered Cloud DLP for SaaS
  - [https://gamma.ai](https://gamma.ai)
  - date_published: 2022-04-28T17:58:27+00:00
+
+ ## Gatik
+ - [http://www.gatik.ai](http://www.gatik.ai)
+ - date_published: 2024-06-25T00:00:00+00:00
 
  ## Gemma - The AI design assistant
  - [https://web.gemma.ai](https://web.gemma.ai)
@@ -3935,7 +4011,7 @@ Welcome
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## Glean.ai | Accounts Payable Spend Intelligence
- - [https://www.glean.ai](https://www.glean.ai)
+ - [https://glean.ai](https://glean.ai)
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Gling - AI Video Editing Software for YouTube
@@ -3953,80 +4029,4 @@ Welcome
  ## Sider: ChatGPT Sidebar + GPT-4o, Claude 3, Gemini 1.5 & AI Tools
  - [https://gochitchat.ai](https://gochitchat.ai)
  - date_published: 2024-06-19T19:11:40.892147+00:00
-
- ## GoEnhance AI - Video to video, Image enhancer and upscaler
- - [https://www.goenhance.ai](https://www.goenhance.ai)
- - date_published: 2024-06-14T08:59:21.004126+00:00
-
- ## Goodhues.ai - AI generated interior design
- - [https://goodhues.ai](https://goodhues.ai)
- - date_published: 2024-06-19T21:05:36.053472+00:00
-
- ## Siddhartha Srinivasa
- - [https://goodrobot.ai](https://goodrobot.ai)
- - date_published: 2023-01-17T22:33:16+00:00
-
- ## GOODY-2 | The world's most responsible AI model
- - [https://goody2.ai](https://goody2.ai)
- - date_published: 2024-07-03T18:01:28.436161+00:00
-
- ## Gooey.AI - The best of private & open source AI
- - [https://gooey.ai](https://gooey.ai)
- - date_published: 2024-06-19T19:09:15.415021+00:00
-
- ## GPTGO - ChatGPT Free combined Search Engine
- - [https://googpt.ai](https://googpt.ai)
- - date_published: 2024-06-19T20:58:29.985541+00:00
-
- ## GooseAI - Stop overpaying for your AI infrastructure.
- - [https://goose.ai](https://goose.ai)
- - date_published: 2024-06-19T19:21:43.768301+00:00
-
- ## Centre for the Governance of AI | Home
- - [https://www.governance.ai](https://www.governance.ai)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## The Most Trusted AI Detector | ChatGPT Detection Tool
- - [https://gowinston.ai](https://gowinston.ai)
- - date_published: 2024-06-19T11:43:10+00:00
-
- ## Global Partnership on Artificial Intelligence - GPAI
- - [https://gpai.ai](https://gpai.ai)
- - date_published: 2024-02-19T14:34:31+00:00
-
- ## Show HN: Clone someone and talk to them like in real life
- - [https://gptclone.ai](https://gptclone.ai)
- - date_published: 2023-11-01T01:18:44+00:00
-
- ## Success!
- - [https://gptform.ai](https://gptform.ai)
- - date_published: 2024-02-25T06:07:32+00:00
-
- ## Find the best GPTs of ChatGPT | GPTStore.AI
- - [https://gptstore.ai](https://gptstore.ai)
- - date_published: 2024-06-23T06:18:04.471198+00:00
-
- ## GPUX
- - [https://gpux.ai](https://gpux.ai)
- - date_published: 2023-10-25T11:39:08.196097+00:00
-
- ## Gradient: AI for Enterprise
- - [https://gradient.ai](https://gradient.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Grammarly: Free AI Writing Assistance
- - [https://grammarly.ai](https://grammarly.ai)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Liquid cooled server - Comino Grando
- - [https://grando.ai](https://grando.ai)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Training Data Platform | Granica AI
- - [https://www.granica.ai](https://www.granica.ai)
- - date_published: 2024-06-18T20:19:41+00:00
-
- ## Assisted data exploration for everyone
- - [https://grapha.ai](https://grapha.ai)
- - date_published: 2024-06-14T08:55:05.828865+00:00
 
