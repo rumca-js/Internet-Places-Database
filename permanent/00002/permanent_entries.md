@@ -1,3 +1,233 @@
+ ## Large Language Models Capture-the-Flag (LLM CTF) Competition
+ - [https://ctf.spylab.ai](https://ctf.spylab.ai)
+ - date_published: 2024-05-10T05:01:52.474733+00:00
+
+ ## Home
+ - [https://www.spyne.ai](https://www.spyne.ai)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Generate SQL Queries in Seconds for Free - SQLAI.ai
+ - [https://www.sqlai.ai](https://www.sqlai.ai)
+ - date_published: 2024-07-10T00:03:12.088909+00:00
+
+ ## SQL Chat
+ - [https://sqlchat.ai](https://sqlchat.ai)
+ - date_published: 2024-06-23T00:01:08.359533+00:00
+
+ ## Squeaky | The privacy friendly analytics platform
+ - [https://squeaky.ai](https://squeaky.ai)
+ - date_published: 2023-10-25T11:42:53.549367+00:00
+
+ ## Introducing Squigl AI™ by TruScribe®, a Microsoft Partner
+ - [https://squigl.ai](https://squigl.ai)
+ - date_published: 2024-06-19T18:54:03.833247+00:00
+
+ ## Stability AI - Developer Platform
+ - [https://platform.stability.ai](https://platform.stability.ai)
+ - date_published: 2024-05-06T18:19:28.147254+00:00
+
+ ## Stability AI
+ - [https://stability.ai](https://stability.ai)
+ - date_published: 2023-10-25T11:42:56.624602+00:00
+
+ ## Staccato | AI Tools for Music Makers | MIDI Music & Lyrics
+ - [https://staccato.ai](https://staccato.ai)
+ - date_published: 2024-06-19T21:28:28.112726+00:00
+
+ ## Staf - AI Employees
+ - [https://www.staf.ai](https://www.staf.ai)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## AI Safety Advocacy: Safer AI Grassroots Movement for AI Laws
+ - [https://stakeout.ai](https://stakeout.ai)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Home - Standard AI
+ - [https://standard.ai](https://standard.ai)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Starmind | AI-Powered, Organization-Wide Expertise Directory
+ - [https://www.starmind.ai](https://www.starmind.ai)
+ - date_published: 2024-06-16T20:43:49+00:00
+
+ ## Stately - Build complex logic intelligently
+ - [https://stately.ai](https://stately.ai)
+ - date_published: 2024-05-08T09:02:55.286819+00:00
+
+ ## State of AI Report 2023
+ - [https://www.stateof.ai](https://www.stateof.ai)
+ - date_published: 2024-05-01T02:49:48.158900+00:00
+
+ ## Undetectable AI: StealthGPT and Free AI Checker
+ - [https://stealthgpt.ai](https://stealthgpt.ai)
+ - date_published: 2024-06-19T18:56:10.157074+00:00
+
+ ## Bypass AI Detection | Get 100% Human Score | Rewrite AI Text into Human Content
+ - [https://stealthwriter.ai](https://stealthwriter.ai)
+ - date_published: 2024-06-19T21:26:02.391021+00:00
+
+ ## AI-Driven Unified Security Operations Powered by Open XDR
+ - [https://stellarcyber.ai](https://stellarcyber.ai)
+ - date_published: 2023-09-29T21:15:15+00:00
+
+ ## Steno.ai
+ - [https://steno.ai](https://steno.ai)
+ - date_published: 2024-06-19T18:49:37.133770+00:00
+
+ ## Stenomatic: Live Translation Platform
+ - [https://www.stenomatic.ai](https://www.stenomatic.ai)
+ - date_published: 2024-04-14T00:00:00+00:00
+
+ ## Steve.AI | AI Video Generator Tool to create videos using Text
+ - [https://www.steve.ai](https://www.steve.ai)
+ - date_published: 2024-06-11T12:49:18+00:00
+
+ ## Stock Imagery AI
+ - [https://www.stockimagery.ai](https://www.stockimagery.ai)
+ - date_published: 2024-06-14T08:52:30.821296+00:00
+
+ ## AI Photo Generator: Logo, Art, Stock Image, Illustration | Stockimg
+ - [https://stockimg.ai](https://stockimg.ai)
+ - date_published: 2024-06-19T19:53:22.668050+00:00
+
+ ## Crypto Trading Bot by Stoic
+ - [https://stoic.ai](https://stoic.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Stories by AI | Substack
+ - [https://storiesby.ai](https://storiesby.ai)
+ - date_published: 2023-10-25T11:43:00.387019+00:00
+
+ ## StoriesForKids.ai
+ - [https://blog.storiesforkids.ai](https://blog.storiesforkids.ai)
+ - date_published: 2024-06-15T06:53:40.028069+00:00
+
+ ## StoriesForKids.ai: Personalized Kid's Books using AI
+ - [https://www.storiesforkids.ai](https://www.storiesforkids.ai)
+ - date_published: 2024-05-01T02:44:13.132052+00:00
+
+ ## AI App Directory & Marketplace
+ - [https://stork.ai](https://stork.ai)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Story.com | Storytelling Meets AI
+ - [https://storybird.ai](https://storybird.ai)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## AI Storyboard Generator - Create Storyboards in Minutes - Storyboard Hero
+ - [https://storyboardhero.ai](https://storyboardhero.ai)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Storybooks.ai – illustrating books using humankind's imagination
+ - [https://storybooks.ai](https://storybooks.ai)
+ - date_published: 2023-10-25T11:43:05.047316+00:00
+
+ ## STORYD - Business presentations leaders love, in seconds
+ - [https://www.storyd.ai](https://www.storyd.ai)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## The Modern Marketers AI Content Creation Toolkit - StoryLab.ai
+ - [https://storylab.ai](https://storylab.ai)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## StoryNest.ai - AI powered Interactive Novels and Stories
+ - [https://storynest.ai](https://storynest.ai)
+ - date_published: 2023-11-03T22:58:52.962008+00:00
+
+ ## Storypitch.ai – Your story & pitch powered by AI & 10 years of storytelling expertise (co
+ - [https://storypitch.ai](https://storypitch.ai)
+ - date_published: 2024-06-14T08:56:03.184633+00:00
+
+ ## Storywizard.ai | Create incredible learning experiences using AI
+ - [https://www.storywizard.ai](https://www.storywizard.ai)
+ - date_published: 2024-05-01T02:44:19.074852+00:00
+
+ ## Stratup.ai | AI-powered startup idea generator
+ - [https://stratup.ai](https://stratup.ai)
+ - date_published: 2024-06-14T09:00:49.822297+00:00
+
+ ## Stripchats.ai - AI Sexting Chatbots For Free
+ - [https://stripchats.ai](https://stripchats.ai)
+ - date_published: 2024-01-11T08:00:41+00:00
+
+ ## Log in | Struct Global ID
+ - [https://app.struct.ai](https://app.struct.ai)
+ - date_published: 2024-05-08T12:17:16.780521+00:00
+
+ ## Struct
+ - [https://struct.ai](https://struct.ai)
+ - date_published: 2024-02-01T00:00:00+00:00
+ - tags: ['social media bot']
+
+ ## Studdy AI | An AI Tutor In Your Pocket
+ - [https://studdy.ai](https://studdy.ai)
+ - date_published: 2024-07-09T19:13:59.003336+00:00
+
+ ## StudentAdvisor
+ - [https://uga.studentadvisor.ai](https://uga.studentadvisor.ai)
+ - date_published: 2024-06-18T17:47:36+00:00
+
+ ## StudioShot | Premium headshots from anywhere
+ - [https://www.studioshot.ai](https://www.studioshot.ai)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## StudyNinja: Your Study Buddy
+ - [https://studyninja.ai](https://studyninja.ai)
+ - date_published: 2024-06-19T20:52:43.257886+00:00
+
+ ## Home - Suki AI
+ - [https://www.suki.ai](https://www.suki.ai)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Suno
+ - [https://app.suno.ai](https://app.suno.ai)
+ - date_published: 2024-05-06T23:31:36.852937+00:00
+
+ ## Suno
+ - [https://suno.ai](https://suno.ai)
+ - date_published: 2024-05-11T07:23:21.566526+00:00
+ - tags: ['artificial intelligence', 'music generation']
+
+ ## SuperCopy.ai
+ - [https://www.app.supercopy.ai](https://www.app.supercopy.ai)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Supercreator.ai - Turn yourself into a digital supercreator
+ - [https://app.supercreator.ai](https://app.supercreator.ai)
+ - date_published: 2024-05-19T03:35:26+00:00
+
+ ## Create videos 10x faster with AI
+ - [https://www.supercreator.ai](https://www.supercreator.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## AI Assistant for your software product | Superflows
+ - [https://www.superflows.ai](https://www.superflows.ai)
+ - date_published: 2024-06-19T19:12:38.380440+00:00
+
+ ## Superhuman AI
+ - [https://www.superhuman.ai](https://www.superhuman.ai)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Supermanage AI ✦
+ - [https://supermanage.ai](https://supermanage.ai)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Generate Memes with AI | Supermeme.ai
+ - [https://app.supermeme.ai](https://app.supermeme.ai)
+ - date_published: 2024-07-10T11:15:49.239911+00:00
+
+ ## Turn text into AI memes | AI Meme Generator | Supermeme.ai
+ - [https://supermeme.ai](https://supermeme.ai)
+ - date_published: 2024-06-19T19:39:53.435456+00:00
+
+ ## Loading...
+ - [https://euserv.superops.ai](https://euserv.superops.ai)
+ - date_published: 2024-07-12T14:41:25+00:00
+
+ ## Modern PSA-RMM Software for MSPs and IT teams | SuperOps
+ - [https://superops.ai](https://superops.ai)
+ - date_published: 2024-05-10T06:32:23.608347+00:00
+
  ## Loading...
  - [https://usserv.superops.ai](https://usserv.superops.ai)
  - date_published: 2024-07-12T14:41:05+00:00
@@ -373,6 +603,10 @@
  - [https://tooltips.ai](https://tooltips.ai)
  - date_published: 2024-06-19T19:20:50.251296+00:00
 
+ ## 斗象科技 - 让安全无法撼动
+ - [https://www.tophant.ai](https://www.tophant.ai)
+ - date_published: 2024-07-13T16:57:21.635115+00:00
+
  ## Free Online AI Video Editor for Video Creation | TopView
  - [https://www.topview.ai](https://www.topview.ai)
  - date_published: 2024-06-20T07:24:27.037118+00:00
@@ -642,6 +876,10 @@
  - [https://upscore.ai](https://upscore.ai)
  - date_published: 2024-06-19T19:52:17.041402+00:00
 
+ ## UpTrain AI
+ - [https://blog.uptrain.ai](https://blog.uptrain.ai)
+ - date_published: 2024-07-13T14:13:58+00:00
+
  ## Introduction - UpTrain
  - [https://docs.uptrain.ai](https://docs.uptrain.ai)
  - date_published: 2024-05-11T07:39:45.740414+00:00
@@ -808,6 +1046,18 @@
  - [https://www.vizcom.ai](https://www.vizcom.ai)
  - date_published: 2024-06-11T00:00:00+00:00
 
+ ## AMHN Workshop @NeurIPS 2023
+ - [https://amhn.vizhub.ai](https://amhn.vizhub.ai)
+ - date_published: 2024-04-11T19:51:13+00:00
+
+ ## exBERT
+ - [https://exbert.vizhub.ai](https://exbert.vizhub.ai)
+ - date_published: 2024-02-07T18:56:05+00:00
+
+ ## Svelte app
+ - [https://flyvec.vizhub.ai](https://flyvec.vizhub.ai)
+ - date_published: 2023-07-18T14:03:09+00:00
+
  ## NeurIPS 2023 Posters Cluster Visualization
  - [https://neurips2023.vizhub.ai](https://neurips2023.vizhub.ai)
  - date_published: 2023-12-05T20:33:52+00:00
@@ -872,6 +1122,10 @@ Creative Solutions
  ## wallet.AI
  - [https://wallet.ai](https://wallet.ai)
  - date_published: 2024-01-12T13:03:16+00:00
+
+ ## WAMcast
+ - [https://wamcast.ai](https://wamcast.ai)
+ - date_published: 2024-07-13T09:29:34.428227+00:00
 
  ## Weights & Biases
  - [https://app.wandb.ai](https://app.wandb.ai)
@@ -960,6 +1214,14 @@ Creative Solutions
  ## WhyHow.AI
  - [https://www.whyhow.ai](https://www.whyhow.ai)
  - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Introduction | WhyLabs Documentation
+ - [https://docs.whylabs.ai](https://docs.whylabs.ai)
+ - date_published: 2024-07-13T14:17:59.669249+00:00
+
+ ## Join R2AI by WhyLabs on Slack
+ - [http://join.slack.whylabs.ai](http://join.slack.whylabs.ai)
+ - date_published: 2024-04-24T00:00:00+00:00
 
  ## Wild Moose
  - [https://www.wildmoose.ai](https://www.wildmoose.ai)
@@ -1127,6 +1389,10 @@ Creative Solutions
  - [https://www.xmagic.ai](https://www.xmagic.ai)
  - date_published: 2024-06-19T11:52:46+00:00
 
+ ## Xmind AI
+ - [https://xmind.ai](https://xmind.ai)
+ - date_published: 2024-07-13T20:04:14.744329+00:00
+
  ## Hosted by Qoddi
  - [https://xno.ai](https://xno.ai)
  - date_published: 2024-06-19T18:00:01+00:00
@@ -1214,6 +1480,10 @@ Creative Solutions
  ## Yuma AI, Automating Ecommerce Customer Service
  - [https://yuma.ai](https://yuma.ai)
  - date_published: 2024-06-17T00:00:00+00:00
+
+ ## z.aiPremium domain name trading - z.aiBuy and sell domain names at a fixed price- Dn.com domain name trading platform
+ - [https://z.ai](https://z.ai)
+ - date_published: 2024-07-13T04:04:27.502422+00:00
 
  ## Zama - Fully Homomorphic Encryption
  - [https://zama.ai](https://zama.ai)
@@ -1319,6 +1589,10 @@ Creative Solutions
  - [https://zyfo.ai](https://zyfo.ai)
  - date_published: 2024-07-10T01:49:27.535997+00:00
 
+ ## Zylon
+ - [https://zylon.ai](https://zylon.ai)
+ - date_published: 2024-07-08T00:00:00+00:00
+
  ## FREE Online AI Tools for Coding: Best AI Website for Programming
  - [https://zzzcode.ai](https://zzzcode.ai)
  - date_published: 2024-06-19T19:21:07.240089+00:00
@@ -1347,6 +1621,10 @@ Creative Solutions
  - [http://albamedia.al](http://albamedia.al)
  - date_published: 2024-06-17T20:18:30.588904+00:00
 
+ ## Juan Anibal Micheli • Full Stack Web & Mobile developer
+ - [https://anib.al](https://anib.al)
+ - date_published: 2018-04-25T10:06:17+00:00
+
  ## Aral Balkan
  - [https://ar.al](https://ar.al)
  - date_published: 2023-10-25T08:41:38.253677+00:00
@@ -1355,6 +1633,14 @@ Creative Solutions
  ## Aral’s fediverse server
  - [https://mastodon.ar.al](https://mastodon.ar.al)
  - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Enon Avital: UX Designer, Artist, and Illustrator
+ - [https://avit.al](https://avit.al)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## ( ͡° ͜ʖ ͡°)
+ - [https://bil.al](https://bil.al)
+ - date_published: 2024-07-13T04:16:39.128891+00:00
 
  ## CNA - Pa censurë!
  - [https://www.cna.al](https://www.cna.al)
@@ -1367,6 +1653,10 @@ Creative Solutions
  ## composition.al - Ta strona jest na sprzedaż! - composition Zasoby i informacje.
  - [http://composition.al](http://composition.al)
  - date_published: 2024-07-04T11:15:57+00:00
+
+ ## Daniyal - Software Engineer
+ - [https://daniy.al](https://daniy.al)
+ - date_published: 2024-07-13T04:16:45.184704+00:00
 
  ## decomposition ∘ al
  - [https://decomposition.al](https://decomposition.al)
@@ -1395,6 +1685,10 @@ Creative Solutions
  ## Udhëtim me autobus në Evropë | FlixBus
  - [https://www.flixbus.al](https://www.flixbus.al)
  - date_published: 2024-06-28T10:10:06+00:00
+
+ ## Goethe-Zentrum
+ - [http://www.goethe.al](http://www.goethe.al)
+ - date_published: 2024-07-13T04:29:17+00:00
 
  ## Google
  - [https://www.google.al](https://www.google.al)
@@ -1425,6 +1719,10 @@ Creative Solutions
  - [https://lushka.al](https://lushka.al)
  - date_published: 2024-05-09T08:24:21.122959+00:00
 
+ ## www.make-it-in-germany.com/al
+ - [https://www.make-it-in-germany.al](https://www.make-it-in-germany.al)
+ - date_published: 2024-07-13T17:32:33.978174+00:00
+
  ## Ariq Naufal
  - [https://ariq.nauf.al](https://ariq.nauf.al)
  - date_published: 2023-03-19T04:36:00+00:00
@@ -1433,9 +1731,33 @@ Creative Solutions
  - [https://nav.al](https://nav.al)
  - date_published: 2023-10-25T11:45:20.135109+00:00
 
+ ## Workshops | Nihal Ahmed | Ikigai Coach
+ - [https://nih.al](https://nih.al)
+ - date_published: 2024-07-13T04:25:57.040533+00:00
+
+ ## Nihaal Sangha
+ - [https://niha.al](https://niha.al)
+ - date_published: 2024-07-13T04:12:51.838606+00:00
+
+ ## Rafal Stapinski
+ - [https://raf.al](https://raf.al)
+ - date_published: 2024-07-13T04:12:15.537263+00:00
+
  ## Real Estate in Tirana. Office, villa, apartment for rent or sale Albania.
  - [https://www.realestate.al](https://www.realestate.al)
  - date_published: 2024-02-08T22:20:07.666981+00:00
+
+ ## Samal Shrikant
+ - [https://sam.al](https://sam.al)
+ - date_published: 2024-07-13T04:16:41.420656+00:00
+
+ ## Nadav Shoval
+ - [https://shov.al](https://shov.al)
+ - date_published: 2024-07-13T04:03:31.976680+00:00
+
+ ## Ernesto Sigal - Software Engineer and Deputy CTO at LMR Partners | Ernesto Sigal
+ - [https://sig.al](https://sig.al)
+ - date_published: 2023-12-04T12:57:48+00:00
 
  ## Statkraft Shqipëri
  - [https://www.statkraft.al](https://www.statkraft.al)
@@ -1483,6 +1805,10 @@ Creative Solutions
  - date_published: 2024-04-03T06:31:55.800090+00:00
  - tags: ['personal']
 
+ ## Yuval Adam | יובל אדם
+ - [https://yuv.al](https://yuv.al)
+ - date_published: 2024-07-13T04:28:50.689968+00:00
+
  ## Punësoni Freelancera & Gjeni Punë Freelance Online
  - [https://www.freelancer.com.al](https://www.freelancer.com.al)
  - date_published: 2024-06-16T12:01:25.626120+00:00
@@ -1495,9 +1821,17 @@ Creative Solutions
  - [http://www.auto.allstate](http://www.auto.allstate)
  - date_published: 2024-06-16T05:47:32.335801+00:00
 
+ ## Abraham Williams
+ - [https://abrah.am](https://abrah.am)
+ - date_published: 2024-03-10T22:41:31+00:00
+
  ## Airbnb | Վարձով հանգստի տներ, տնակներ, լողափնյա տներ և այլն
- - [https://www.airbnb.am](https://www.airbnb.am)
+ - [https://airbnb.am](https://airbnb.am)
  - date_published: 2024-05-06T00:00:00+00:00
+
+ ## akr.am
+ - [https://akr.am](https://akr.am)
+ - date_published: 2024-05-29T08:33:17+00:00
 
  ## Freedom Be With All | I’m your worst nightmare…
  - [https://weblog.antranigv.am](https://weblog.antranigv.am)
@@ -1516,8 +1850,12 @@ Creative Solutions
  - date_published: 2024-05-11T00:00:00+00:00
 
  ## Ազատություն Ռադիոկայան
- - [https://www.azatutyun.am](https://www.azatutyun.am)
+ - [https://azatutyun.am](https://azatutyun.am)
  - date_published: 2024-03-18T00:00:00+00:00
+
+ ## elomatreb / Ole
+ - [https://bertr.am](https://bertr.am)
+ - date_published: 2024-04-01T15:29:12+00:00
 
  ## Circle.am | Try our great links
  - [http://www.circle.am](http://www.circle.am)
@@ -1539,13 +1877,25 @@ Creative Solutions
  - [https://www.fiatprofessional.am](https://www.fiatprofessional.am)
  - date_published: 2015-07-12T14:50:38+00:00
 
+ ## Gautam Gupta
+ - [https://gaut.am](https://gaut.am)
+ - date_published: 2023-12-24T22:43:12+00:00
+
  ## Google
  - [https://www.google.am](https://www.google.am)
  - date_published: 2024-06-21T22:24:45.518495+00:00
 
+ ## Beau Grantham
+ - [https://granth.am](https://granth.am)
+ - date_published: 2023-10-04T01:06:54+00:00
+
  ## · Hesham Abd-Elmegid
  - [https://hesh.am](https://hesh.am)
  - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Hiram Hibbard - Lead Front End Engineer
+ - [https://hir.am](https://hir.am)
+ - date_published: 2024-07-13T04:16:47.657515+00:00
 
  ## HTML Codes, Editors, and Generators
  - [http://www.html.am](http://www.html.am)
@@ -1635,9 +1985,21 @@ Creative Solutions
  - [https://safe.am](https://safe.am)
  - date_published: 2024-05-07T23:40:49.249693+00:00
 
+ ## Shivam Rastogi
+ - [https://shiv.am](https://shiv.am)
+ - date_published: 2024-07-13T04:04:34.850225+00:00
+
+ ## Shyam Guthikonda - Full-Stack Software Engineer
+ - [https://shy.am](https://shy.am)
+ - date_published: 2024-07-13T04:04:09.399080+00:00
+
  ## S I L E N T }{ f a n l i s t i n g s
  - [https://silent.am](https://silent.am)
  - date_published: 2024-04-30T07:04:09.363497+00:00
+
+ ## Soham Sankaran is not dead yet
+ - [https://soh.am](https://soh.am)
+ - date_published: 2023-08-22T19:01:46+00:00
 
  ## All about Armando Denny Shannan
  - [https://armando-denny-shannan.web.sp.am](https://armando-denny-shannan.web.sp.am)
@@ -1683,6 +2045,14 @@ Creative Solutions
  ## Բարի գալուստ Տոյոտա Հայաստան - Toyota
  - [https://www.toyota.am](https://www.toyota.am)
  - date_published: 2024-04-10T00:00:00+00:00
+
+ ## trist.am
+ - [https://trist.am](https://trist.am)
+ - date_published: 2024-07-13T04:17:45.946513+00:00
+
+ ## Will Anderson
+ - [https://willi.am](https://willi.am)
+ - date_published: 2020-12-07T18:29:19+00:00
 
  ## Wolfram: Computation Meets Knowledge
  - [https://wolfr.am](https://wolfr.am)
@@ -1963,6 +2333,10 @@ Creative Solutions
  - [https://asksocrates.app](https://asksocrates.app)
  - date_published: 2024-06-11T07:21:53+00:00
 
+ ## Atopics
+ - [https://atopic.app](https://atopic.app)
+ - date_published: 2024-07-13T16:13:29.863133+00:00
+
  ## Device integrity monitoring
  - [https://attestation.app](https://attestation.app)
  - date_published: 2024-02-24T10:01:24.175770+00:00
@@ -1970,6 +2344,10 @@ Creative Solutions
  ## Audiogest: Transcribe and summarize your audio and video
  - [https://audiogest.app](https://audiogest.app)
  - date_published: 2024-05-11T06:55:07.593290+00:00
+
+ ## Loading…
+ - [https://directus.audiogest.app](https://directus.audiogest.app)
+ - date_published: 2024-07-13T09:07:06.013698+00:00
 
  ## AutoWrite - The Best AI SEO Writer
  - [https://autowrite.app](https://autowrite.app)
@@ -3139,9 +3517,17 @@ Creative Solutions
  - [https://godaferd.app](https://godaferd.app)
  - date_published: 2024-05-04T12:15:24.823503+00:00
 
+ ## GPT Engineer Docs
+ - [https://docs.gptengineer.app](https://docs.gptengineer.app)
+ - date_published: 2024-07-13T14:13:36.067240+00:00
+
  ## GPT Engineer - Build interactive web apps using AI
  - [https://gptengineer.app](https://gptengineer.app)
  - date_published: 2024-04-27T00:00:00+00:00
+
+ ## GPT Engineer
+ - [https://run.gptengineer.app](https://run.gptengineer.app)
+ - date_published: 2024-07-13T14:13:37.593010+00:00
 
  ## GPTFlow
  - [https://gptflow.app](https://gptflow.app)
@@ -3283,6 +3669,10 @@ Creative Solutions
  ## Home Care App
  - [https://home-care.app](https://home-care.app)
  - date_published: 2022-07-20T06:08:45+00:00
+
+ ## Homechart | Your Household's Happy Place
+ - [https://homechart.app](https://homechart.app)
+ - date_published: 2024-06-07T00:00:00+00:00
 
  ## Homerow — Keyboard shortcuts for every button in macOS
  - [https://www.homerow.app](https://www.homerow.app)
@@ -3466,6 +3856,10 @@ Creative Solutions
  - [https://kindavim.app](https://kindavim.app)
  - date_published: 2024-05-10T07:00:29.670714+00:00
 
+ ## No Bedtime™ for kindaVim
+ - [https://subscribe.kindavim.app](https://subscribe.kindavim.app)
+ - date_published: 2024-07-13T02:57:41.647632+00:00
+
  ## Knock | Notifications infrastructure for developers
  - [https://knock.app](https://knock.app)
  - date_published: 2023-12-12T22:57:59.485222+00:00
@@ -3493,6 +3887,11 @@ Creative Solutions
  ## Kukai
  - [https://wallet.kukai.app](https://wallet.kukai.app)
  - date_published: 2024-07-09T19:41:38.282727+00:00
+
+ ## Smarta verktyg för bättre kundservice
+ | Kundo
+ - [https://kundo.app](https://kundo.app)
+ - date_published: 2024-07-13T17:30:07.133510+00:00
 
  ## Kwote
  - [https://kwote.app](https://kwote.app)
@@ -3638,407 +4037,4 @@ Creative Solutions
  ## Lucid visual collaboration suite: Log in
  - [https://lucid.app](https://lucid.app)
  - date_published: 2024-05-06T14:03:14.137469+00:00
-
- ## LunaSea – Self-Hosted Controller
- - [https://www.lunasea.app](https://www.lunasea.app)
- - date_published: 2021-01-14T00:00:00+00:00
-
- ## Lunette
- - [https://lunette.app](https://lunette.app)
- - date_published: 2023-10-25T11:47:04.152892+00:00
-
- ## Lungy App: Next-Gen Breathing Exercises
- - [https://www.lungy.app](https://www.lungy.app)
- - date_published: 2023-10-25T11:47:06.937675+00:00
-
- ## MAC Address Vendor Lookup | MAC Address Lookup
- - [https://maclookup.app](https://maclookup.app)
- - date_published: 2023-10-25T11:47:09.365217+00:00
-
- ## Infinite Mac
- - [https://macos8.app](https://macos8.app)
- - date_published: 2024-05-08T08:45:17.713590+00:00
-
- ## Infinite Mac
- - [https://macos9.app](https://macos9.app)
- - date_published: 2023-10-25T11:47:10.340547+00:00
-
- ## Maester
- - [https://maester.app](https://maester.app)
- - date_published: 2024-06-19T19:18:44.410920+00:00
-
- ## Create Quiz with AI from any text
- - [https://www.magicform.app](https://www.magicform.app)
- - date_published: 2024-06-19T20:57:42.746452+00:00
-
- ## AI Presentation Maker - Presentation from Topic, YouTube, PDF, URL with AI
- - [https://www.magicslides.app](https://www.magicslides.app)
- - date_published: 2024-06-19T20:38:41.927054+00:00
-
- ## Magma matching
- - [https://candidate.magma.app](https://candidate.magma.app)
- - date_published: 2024-07-03T05:40:25.991979+00:00
-
- ## Mailcoach
- - [https://lunar.mailcoach.app](https://lunar.mailcoach.app)
- - date_published: 2024-06-21T09:27:06.589960+00:00
-
- ## Mailcoach, the affordable, privacy-first email marketing service
- - [https://mailcoach.app](https://mailcoach.app)
- - date_published: 2023-10-25T11:47:12.630480+00:00
-
- ## Mailcoach
- - [https://simonhamp.mailcoach.app](https://simonhamp.mailcoach.app)
- - date_published: 2024-06-19T09:30:22.354867+00:00
-
- ## The Calm Inbox: Introducing the new Mail Pilot
- - [https://mailpilot.app](https://mailpilot.app)
- - date_published: 2023-09-30T00:00:00+00:00
-
- ## Stop making Linux distributions, make applications instead
- - [https://makealinux.app](https://makealinux.app)
- - date_published: 2023-11-30T13:49:51+00:00
-
- ## Manyfold
- - [https://manyfold.app](https://manyfold.app)
- - date_published: 2024-04-08T19:29:35.002124+00:00
- - tags: ['self-host', '3d file library']
-
- ## Manyfold
- - [https://try.manyfold.app](https://try.manyfold.app)
- - date_published: 2024-05-14T03:49:54.307225+00:00
-
- ## MRBL: The #1 Link in Golf
- - [https://get.marble.app](https://get.marble.app)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Marble
- - [https://marble.app](https://marble.app)
- - date_published: 2024-07-02T20:06:03.342800+00:00
-
- ## marimo | a next-generation Python notebook
- - [https://marimo.app](https://marimo.app)
- - date_published: 2024-02-29T18:41:02.482986+00:00
-
- ## Marp: Markdown Presentation Ecosystem
- - [https://marp.app](https://marp.app)
- - date_published: 2023-10-25T11:47:16.353357+00:00
-
- ## Mastodon Scheduler - Learn More and Sign Up!
- - [https://mastodon-scheduler.app](https://mastodon-scheduler.app)
- - date_published: 2024-01-02T18:02:46+00:00
-
- ## Mava - Customer Support for Communities
- - [https://mava.app](https://mava.app)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## MeetSpace - Home
- - [https://meetspace.app](https://meetspace.app)
- - date_published: 2024-05-08T12:18:20.114776+00:00
-
- ## mmhmm | Video call companion app and quick video recorder
- - [https://www.memix.app](https://www.memix.app)
- - date_published: 2024-07-03T04:36:03.453754+00:00
-
- ## Middle
- - [https://middleclick.app](https://middleclick.app)
- - date_published: 2024-06-22T06:22:39.792621+00:00
-
- ## Mikage: A 3DS emulator for PC & Android
- - [https://mikage.app](https://mikage.app)
- - date_published: 2024-03-06T20:59:32.532890+00:00
- - tags: ['3ds', 'emulator']
-
- ## Mind Garden - A better way to share notes
- - [https://mindgarden.app](https://mindgarden.app)
- - date_published: 2024-05-02T13:55:18.858481+00:00
-
- ## MindMac — Elegant and Fullfil ChatGPT Client for macOS
- - [https://mindmac.app](https://mindmac.app)
- - date_published: 2024-06-14T08:54:48.681121+00:00
-
- ## minidemo
- - [https://www.minidemo.app](https://www.minidemo.app)
- - date_published: 2023-10-25T11:47:17.378371+00:00
-
- ## Mini Diary
- - [https://minidiary.app](https://minidiary.app)
- - date_published: 2024-06-12T20:14:22.357862+00:00
- - tags: ['journal', 'open source']
-
- ## Miniflux - Minimalist and Opinionated Feed Reader
- - [https://miniflux.app](https://miniflux.app)
- - date_published: 2024-04-08T19:29:50.205632+00:00
- - tags: ['self-host', 'rss']
-
- ## Sign In - Miniflux
- - [https://reader.miniflux.app](https://reader.miniflux.app)
- - date_published: 2024-05-14T03:51:09.108854+00:00
-
- ## Miniflux Hosting
- - [https://status.miniflux.app](https://status.miniflux.app)
- - date_published: 2024-05-14T03:51:07.630206+00:00
-
- ## Minima | To-do lists done right
- - [https://minima.app](https://minima.app)
- - date_published: 2024-06-22T09:47:19.396759+00:00
-
- ## Minimal | Writing + Notes
- - [https://minimal.app](https://minimal.app)
- - date_published: 2023-10-25T11:47:19.318703+00:00
-
- ## MinimalChat
- - [https://minimalgpt.app](https://minimalgpt.app)
- - date_published: 2024-04-21T20:46:14.448048+00:00
- - tags: ['llm', 'artificial intelligence bot', 'open source']
-
- ## Okapi Documentation - Okapi Documentation
- - [https://okapi.mintlify.app](https://okapi.mintlify.app)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Miracle Morning App
- - [https://miraclemorning.app](https://miraclemorning.app)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Mixing Station
- - [https://mixingstation.app](https://mixingstation.app)
- - date_published: 2024-05-02T12:50:30.184476+00:00
-
- ## Mixpost Documentation | Mixpost Documentation
- - [https://docs.mixpost.app](https://docs.mixpost.app)
- - date_published: 2024-05-14T03:51:14.763618+00:00
-
- ## Self-hosted, Open Source Social Media Management - Mixpost
- - [https://mixpost.app](https://mixpost.app)
- - date_published: 2024-04-08T19:29:51.366167+00:00
- - tags: ['social media', 'self-host']
-
- ## Mixpost Roadmap
- - [https://roadmap.mixpost.app](https://roadmap.mixpost.app)
- - date_published: 2024-05-14T03:51:14.164609+00:00
-
- ## mmhmm | Video call companion app and quick video recorder
- - [https://www.mmhmm.app](https://www.mmhmm.app)
- - date_published: 2024-06-23T05:59:27.239400+00:00
-
- ## end | MODIF
- - [https://www.modif.app](https://www.modif.app)
- - date_published: 2024-06-19T19:52:09.142586+00:00
-
- ## ModularMind | AI Assitant
- - [https://www.join.modularmind.app](https://www.join.modularmind.app)
- - date_published: 2024-06-19T19:33:06.298001+00:00
-
- ## Modulz
- - [https://www.modulz.app](https://www.modulz.app)
- - date_published: 2024-06-23T06:10:40.621855+00:00
-
- ## Монетал - Учет расходов
- - [https://monetal.app](https://monetal.app)
- - date_published: 2023-10-25T11:47:20.214755+00:00
-
- ## MonsterWriter - A Pleasant Way to Write a Thesis or Article
- - [https://www.monsterwriter.app](https://www.monsterwriter.app)
- - date_published: 2023-10-25T11:47:21.821251+00:00
-
- ## ADHD Diagnosis in the Browser
- - [https://adhdtest.moodmap.app](https://adhdtest.moodmap.app)
- - date_published: 2024-04-25T14:08:42.212683+00:00
-
- ## Motrix
- - [https://motrix.app](https://motrix.app)
- - date_published: 2024-06-26T12:43:02+00:00
- - tags: ['download manager']
-
- ## Mu
- - [https://mu.app](https://mu.app)
- - date_published: 2023-10-25T11:47:22.709061+00:00
-
- ## MuffinTerm • A Terminal for the Classic BBS Experience
- - [https://muffinterm.app](https://muffinterm.app)
- - date_published: 2024-05-08T04:06:32.485774+00:00
-
- ## Multi— Multiplayer Collaboration for MacOS
- - [https://multi.app](https://multi.app)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Multitouch
- - [https://multitouch.app](https://multitouch.app)
- - date_published: 2024-06-22T06:22:37.503014+00:00
-
- ## Museo
- - [https://museo.app](https://museo.app)
- - date_published: 2024-07-02T21:03:54.024411+00:00
-
- ## Plausible · Web analytics
- - [https://analytics.mxroute.app](https://analytics.mxroute.app)
- - date_published: 2024-06-16T09:48:43.001702+00:00
-
- ## MyBudgetCoach
- - [http://www.mybudgetcoach.app](http://www.mybudgetcoach.app)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Intimate AI Girlfriend - #1 Sexting AI
- - [https://myintimate.app](https://myintimate.app)
- - date_published: 2024-06-14T08:54:09.978200+00:00
-
- ## My Little GPT
- - [https://mylittlegpt.app](https://mylittlegpt.app)
- - date_published: 2024-07-07T09:00:32.608778+00:00
-
- ## Understand and fix bugs faster using Ray
- - [https://myray.app](https://myray.app)
- - date_published: 2024-06-23T06:03:44.343532+00:00
-
- ## Mystics 0.0.2
- - [https://mystics.app](https://mystics.app)
- - date_published: 2024-07-09T19:28:37.208121+00:00
-
- ## Offline topo maps - MyTrails
- - [https://mytrails.app](https://mytrails.app)
- - date_published: 2016-12-02T00:00:00+00:00
-
- ## Nameverse – Web3 for everyone
- - [https://nameverse.app](https://nameverse.app)
- - date_published: 2024-06-19T21:14:43.890690+00:00
-
- ## Nanoc: a static-site generator written in Ruby » home
- - [https://nanoc.app](https://nanoc.app)
- - date_published: 2024-05-13T02:43:14.382890+00:00
-
- ## Transform Your Videos with AI Sports Commentary | Narrify AI
- - [https://narrify.app](https://narrify.app)
- - date_published: 2024-07-10T00:03:00.962095+00:00
-
- ## Not Found
- - [https://rss.nebula.app](https://rss.nebula.app)
- - date_published: 2024-02-26T09:23:05.699053+00:00
-
- ## Neomind
- - [https://neomind.app](https://neomind.app)
- - date_published: 2024-06-19T19:38:54.291941+00:00
-
- ## 特務機関NERV防災
- - [https://nerv.app](https://nerv.app)
- - date_published: 2024-01-01T22:14:48.864192+00:00
-
- ## 2021 Color for CSS Cafe - Talk by Adam Argyle
- - [https://2021-css-cafe.netlify.app](https://2021-css-cafe.netlify.app)
- - date_published: 2024-04-30T02:02:30.031440+00:00
-
- ## Great Developer Tools - Talk by Adam Argyle
- - [https://2021-great-developer-tools.netlify.app](https://2021-great-developer-tools.netlify.app)
- - date_published: 2021-08-17T00:00:00+00:00
-
- ## 2021 HD Color > CSS Camp < Talk by Adam Argyle
- - [https://2021-hd-color-at-css-camp.netlify.app](https://2021-hd-color-at-css-camp.netlify.app)
- - date_published: 2024-04-30T02:01:19.846709+00:00
-
- ## Hover Conf 2021 - Whats New In CSS
- - [https://2021-hover-conf-new-in-css.netlify.app](https://2021-hover-conf-new-in-css.netlify.app)
- - date_published: 2024-04-30T02:02:41.304652+00:00
-
- ## swyx.io home
- - [https://604bf32dcfdb601163498323--scout-videos-51664.netlify.app](https://604bf32dcfdb601163498323--scout-videos-51664.netlify.app)
- - date_published: 2024-05-06T14:00:49.019275+00:00
-
- ## swyx.io home
- - [https://604bfc8099765a1bd20fce77--scout-videos-51664.netlify.app](https://604bfc8099765a1bd20fce77--scout-videos-51664.netlify.app)
- - date_published: 2024-05-06T14:16:14.782902+00:00
-
- ## Michael V.
- - [https://65eb5a4aaf4baf0008d6dd18--mvieira-fr.netlify.app](https://65eb5a4aaf4baf0008d6dd18--mvieira-fr.netlify.app)
- - date_published: 2024-07-10T08:52:46.188801+00:00
-
- ## Introduction | a11y-dialog
- - [https://a11y-dialog.netlify.app](https://a11y-dialog.netlify.app)
- - date_published: 2023-07-22T00:00:00+00:00
-
- ## Home
- - [https://aatmunbaxi.netlify.app](https://aatmunbaxi.netlify.app)
- - date_published: 2024-04-28T06:12:13.574366+00:00
-
- ## Acing The Internet Webring
- - [https://acingtheinternet.netlify.app](https://acingtheinternet.netlify.app)
- - date_published: 2024-06-23T17:44:02.737494+00:00
-
- ## SIC2019 - Deceive For Good
- - [https://adam-at-sic-2019.netlify.app](https://adam-at-sic-2019.netlify.app)
- - date_published: 2024-04-30T02:02:14.979510+00:00
-
- ## akham
- - [https://akham.netlify.app](https://akham.netlify.app)
- - date_published: 2024-06-23T18:07:20.407554+00:00
-
- ## Albert Extensions
- - [https://alberthub.netlify.app](https://alberthub.netlify.app)
- - date_published: 2024-07-10T06:26:45.567740+00:00
-
- ## AltTab - Windows alt-tab on macOS
- - [https://alt-tab-macos.netlify.app](https://alt-tab-macos.netlify.app)
- - date_published: 2024-07-02T18:43:35.322990+00:00
-
- ## Anugerah
- - [https://anugerah.netlify.app](https://anugerah.netlify.app)
- - date_published: 2024-05-09T08:27:29.832345+00:00
-
- ## article-submission-app
- - [https://article-submission.netlify.app](https://article-submission.netlify.app)
- - date_published: 2024-06-23T02:03:34.351595+00:00
-
- ## Astro Guestbook
- - [https://astro-guestbook.netlify.app](https://astro-guestbook.netlify.app)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Astrofy | Personal Portfolio Website Template
- - [https://astro-modern-personal-website.netlify.app](https://astro-modern-personal-website.netlify.app)
- - date_published: 2024-04-29T07:28:42.208361+00:00
-
- ## Astro
- - [https://astro-moon-landing.netlify.app](https://astro-moon-landing.netlify.app)
- - date_published: 2024-06-21T20:50:37.430616+00:00
-
- ## Welcome to Astro.
- - [https://astro-platform-starter.netlify.app](https://astro-platform-starter.netlify.app)
- - date_published: 2024-06-21T20:50:36.040615+00:00
-
- ## Astrolize - Starter Template for Astro
- - [https://astro-starter-theme.netlify.app](https://astro-starter-theme.netlify.app)
- - date_published: 2024-05-09T08:14:29.616339+00:00
-
- ## Ackee
- - [https://at-ackee.netlify.app](https://at-ackee.netlify.app)
- - date_published: 2024-04-29T07:56:01.462065+00:00
-
- ## Bắc Kỳ Vietnamese Canteen
- - [https://backy.netlify.app](https://backy.netlify.app)
- - date_published: 2024-07-09T19:05:49.221193+00:00
-
- ## Batakköylü Düğün Salonu
- - [https://batakkoylu.netlify.app](https://batakkoylu.netlify.app)
- - date_published: 2024-07-02T19:30:54.065906+00:00
-
- ## Beautiful Experiences
- - [https://beautifulexperiences.netlify.app](https://beautifulexperiences.netlify.app)
- - date_published: 2024-07-09T19:28:18.992370+00:00
-
- ## Bonso
- - [https://bonso-hugo.netlify.app](https://bonso-hugo.netlify.app)
- - date_published: 2020-05-29T00:00:00+00:00
-
- ## Bookmark Divider
- - [https://bookmark-divider.netlify.app](https://bookmark-divider.netlify.app)
- - date_published: 2024-07-02T18:43:40.284445+00:00
-
- ## React App
- - [https://bubble-wrap.netlify.app](https://bubble-wrap.netlify.app)
- - date_published: 2024-07-02T20:49:37.828116+00:00
-
- ## 🦉 Bubo Reader
- - [https://bubo-rss-demo.netlify.app](https://bubo-rss-demo.netlify.app)
- - date_published: 2024-06-19T22:13:39.589238+00:00
-
- ## Canada Learning Code
- - [https://canadalearningcode-blunt.netlify.app](https://canadalearningcode-blunt.netlify.app)
- - date_published: 2024-07-09T19:05:21.443820+00:00
 
