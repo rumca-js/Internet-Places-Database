@@ -1,3 +1,68 @@
+ ## Fritz ai - The best AI tools for writing, designing, development, and more
+ - [https://heartbeat.fritz.ai](https://heartbeat.fritz.ai)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## Fritz ai - The best AI tools for writing, designing, development, and more
+ - [https://www.fritz.ai](https://www.fritz.ai)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## FRVR | AI Game Creator
+ - [https://beta.frvr.ai](https://beta.frvr.ai)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Your AI-powered SDR... who can show your product | FullContext
+ - [https://fullcontext.ai](https://fullcontext.ai)
+ - date_published: 2024-06-16T20:09:09.597163+00:00
+
+ ## functime | Time-series machine learning at scale.
+ - [https://www.functime.ai](https://www.functime.ai)
+ - date_published: 2024-06-19T21:06:12.252798+00:00
+
+ ## AI Girlfriend Builder - Chat and Generate Images
+ - [https://www.funfun.ai](https://www.funfun.ai)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## furl | Proactively Remediate Risks with Confidence using Autonomous AI
+ - [https://furl.ai](https://furl.ai)
+ - date_published: 2024-06-19T18:48:57.399031+00:00
+
+ ## FusionOS.ai AI Generative Advertising platform for businesses and their agencies
+ - [https://www.fusionos.ai](https://www.fusionos.ai)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## FutureSearch: unbiased, in-depth answers to hard questions
+ - [https://futuresearch.ai](https://futuresearch.ai)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## fylm.ai - AI Powered Colour Grading and Collaboration in Cloud
+ - [https://fylm.ai](https://fylm.ai)
+ - date_published: 2023-10-25T11:39:00.490575+00:00
+
+ ## G3D.AI {Jedi}
+ - [https://g3d.ai](https://g3d.ai)
+ - date_published: 2023-02-17T15:44:55+00:00
+
+ ## Gab AI | An Uncensored and Unbiased AI Platform
+ - [https://gab.ai](https://gab.ai)
+ - date_published: 2024-02-20T17:23:39+00:00
+ - tags: ['artificial intelligence bot']
+
+ ## Gabble.ai | AI Powered Speaking Coach
+ - [https://gabble.ai](https://gabble.ai)
+ - date_published: 2024-06-19T21:22:49.529670+00:00
+
+ ## Gadfly AI
+ - [https://www.gadfly.ai](https://www.gadfly.ai)
+ - date_published: 2024-06-06T01:47:28+00:00
+
+ ## Momentum
+ - [https://gainmomentum.ai](https://gainmomentum.ai)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## AI Powered Cloud DLP for SaaS
+ - [https://gamma.ai](https://gamma.ai)
+ - date_published: 2022-04-28T17:58:27+00:00
+
  ## Gatik
  - [http://www.gatik.ai](http://www.gatik.ai)
  - date_published: 2024-06-25T00:00:00+00:00
@@ -165,6 +230,10 @@
  ## Siddhartha Srinivasa
  - [https://goodrobot.ai](https://goodrobot.ai)
  - date_published: 2023-01-17T22:33:16+00:00
+
+ ## Goodspace AI - India's first AI powered Recruitment Platform
+ - [https://goodspace.ai](https://goodspace.ai)
+ - date_published: 2024-07-11T08:01:57+00:00
 
  ## GOODY-2 | The world's most responsible AI model
  - [https://goody2.ai](https://goody2.ai)
@@ -354,10 +423,6 @@
  - [https://us.helicone.ai](https://us.helicone.ai)
  - date_published: 2024-07-13T14:17:07.801907+00:00
 
- ## Helicone
- - [https://www.helicone.ai](https://www.helicone.ai)
- - date_published: 2024-05-11T07:40:00.286757+00:00
-
  ## Hello History - Chat with AI Generated Historical Figures
  - [https://www.hellohistory.ai](https://www.hellohistory.ai)
  - date_published: 2024-06-10T00:00:00+00:00
@@ -501,6 +566,10 @@
  ## Human or Not
  - [https://app.humanornot.ai](https://app.humanornot.ai)
  - date_published: 2024-06-10T22:22:27+00:00
+
+ ## Human or Not? // A Social Turing Game
+ - [https://www.humanornot.ai](https://www.humanornot.ai)
+ - date_published: 2024-04-07T00:00:00+00:00
 
  ## Humata: ChatGPT for Your Data Files
  - [https://www.humata.ai](https://www.humata.ai)
@@ -759,10 +828,6 @@
  - [https://intrinsic.ai](https://intrinsic.ai)
  - date_published: 2024-04-29T03:49:09.044137+00:00
 
- ## Intrinsic
- - [https://www.intrinsic.ai](https://www.intrinsic.ai)
- - date_published: 2024-05-09T00:00:00+00:00
-
  ## Grammar Builder
  - [https://grammar.intrinsiclabs.ai](https://grammar.intrinsiclabs.ai)
  - date_published: 2023-10-25T11:39:32.215737+00:00
@@ -896,6 +961,10 @@
  ## Joyland.ai | Joyful AI Character & Story
  - [https://www.joyland.ai](https://www.joyland.ai)
  - date_published: 2024-06-18T12:17:17+00:00
+
+ ## Introduction | Julep AI
+ - [https://docs.julep.ai](https://docs.julep.ai)
+ - date_published: 2024-05-21T00:00:00+00:00
 
  ## Julep AI - Crafting a better AI ecosystem
  - [https://julep.ai](https://julep.ai)
@@ -1377,6 +1446,10 @@
  ## Limitless
  - [https://limitless.ai](https://limitless.ai)
  - date_published: 2024-05-02T13:27:27.031244+00:00
+
+ ## Lindy.ai — Meet Your AI Assistant
+ - [https://lindy.ai](https://lindy.ai)
+ - date_published: 2024-07-12T00:00:00+00:00
 
  ## Liner.ai - Machine Learning without Code
  - [https://liner.ai](https://liner.ai)
@@ -2178,6 +2251,14 @@
  - [https://atlas.nomic.ai](https://atlas.nomic.ai)
  - date_published: 2024-05-12T04:12:14.650722+00:00
 
+ ## Introduction | Nomic Atlas Documentation
+ - [https://docs.nomic.ai](https://docs.nomic.ai)
+ - date_published: 2024-07-14T22:29:29.622966+00:00
+
+ ## Nomic Platform Status
+ - [https://status.nomic.ai](https://status.nomic.ai)
+ - date_published: 2024-07-14T22:29:28.819589+00:00
+
  ## NOOZ AI
  - [https://nooz.ai](https://nooz.ai)
  - date_published: 2023-12-12T20:12:10+00:00
@@ -2878,6 +2959,10 @@
  - [https://prisms.ai](https://prisms.ai)
  - date_published: 2024-06-19T19:03:57.102094+00:00
 
+ ## Commercial real estate software - PRODA
+ - [https://www.proda.ai](https://www.proda.ai)
+ - date_published: 2024-06-21T00:00:00+00:00
+
  ## productkit.ai
  - [http://productkit.ai](http://productkit.ai)
  - date_published: 2024-07-03T16:45:50.436442+00:00
@@ -3105,8 +3190,12 @@
  - [https://www.quickchat.ai](https://www.quickchat.ai)
  - date_published: 2024-06-17T00:00:00+00:00
 
+ ## Quickcode
+ - [https://hs.quickcode.ai](https://hs.quickcode.ai)
+ - date_published: 2024-07-10T15:51:33+00:00
+
  ## Home
- - [https://www.quickcode.ai](https://www.quickcode.ai)
+ - [https://quickcode.ai](https://quickcode.ai)
  - date_published: 2024-04-25T00:00:00+00:00
 
  ## Quicklines Lifetime Access | Only $59
@@ -3742,6 +3831,10 @@
  - [https://sheety.ai](https://sheety.ai)
  - date_published: 2024-01-01T14:55:59+00:00
 
+ ## Shield AI - Building The World’s Best AI Pilot
+ - [https://shield.ai](https://shield.ai)
+ - date_published: 2024-03-21T00:00:00+00:00
+
  ## Shiken.ai - Microlearning Platform for Faster Learning & Results
  - [https://shiken.ai](https://shiken.ai)
  - date_published: 2024-06-12T00:00:00+00:00
@@ -3933,98 +4026,4 @@
  ## Free Logo Maker & Logo Generator with Artificial Intelligence
  - [https://www.sologo.ai](https://www.sologo.ai)
  - date_published: 2024-06-14T08:59:22.311589+00:00
-
- ## Support Archive - Solo - Free AI Website Creator - Support
- - [https://blog.soloist.ai](https://blog.soloist.ai)
- - date_published: 2024-07-07T10:10:14.329268+00:00
-
- ## Solo - Free AI Website Creator
- - [https://soloist.ai](https://soloist.ai)
- - date_published: 2024-05-08T10:31:30.007146+00:00
-
- ## Show HN: Sonauto – a more controllable AI music creator
- - [https://sonauto.ai](https://sonauto.ai)
- - date_published: 2024-04-10T16:48:01+00:00
- - tags: ['generating music', 'artificial intelligence']
-
- ## Automatically convert audio and video to text: Fast, Accurate, & Affordable | Sonix
- - [https://sonix.ai](https://sonix.ai)
- - date_published: 2024-06-19T21:11:10.151186+00:00
-
- ## SOREAL - AI Studio | Cloud hosted Stable Diffusion 1.5 & Dreambooth Studio
- - [https://www.soreal.ai](https://www.soreal.ai)
- - date_published: 2024-06-19T19:24:25.465819+00:00
-
- ## SoulGen: Free AI Magic Tool to Create Art from Text Online
- - [https://www.soulgen.ai](https://www.soulgen.ai)
- - date_published: 2024-06-19T19:40:38.307425+00:00
-
- ## Soundry AI
- - [https://app.soundry.ai](https://app.soundry.ai)
- - date_published: 2024-05-11T09:11:13.642031+00:00
-
- ## Launch HN: Soundry AI (YC W24) – Music sample generator for music creators
- - [https://soundry.ai](https://soundry.ai)
- - date_published: 2024-03-21T18:09:18+00:00
- - tags: ['generating music', 'artificial intelligence']
-
- ## Sourcery | Automatically Improve Code Quality
- - [https://sourcery.ai](https://sourcery.ai)
- - date_published: 2023-10-25T11:42:50.808107+00:00
-
- ## AI Rendering Solutions for Interior, Room and Home Design | Spacely AI
- - [https://www.spacely.ai](https://www.spacely.ai)
- - date_published: 2024-06-19T19:50:40.383023+00:00
-
- ## Spatial.ai – Know your best customers and reach them faster
- - [https://www.spatial.ai](https://www.spatial.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Spawning.ai
- - [https://site.spawning.ai](https://site.spawning.ai)
- - date_published: 2024-07-11T15:30:01.447972+00:00
-
- ## Spawning
- - [https://spawning.ai](https://spawning.ai)
- - date_published: 2024-07-06T20:49:47.190601+00:00
-
- ## AI Transcription Service | Transcribe Audio to Text | Speech to Text AI
- - [https://speechtext.ai](https://speechtext.ai)
- - date_published: 2024-06-19T19:48:30.439372+00:00
-
- ## The Spice AI Blog
- - [https://blog.spice.ai](https://blog.spice.ai)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Welcome to Spice.ai | Spice.ai Documentation
- - [https://docs.spice.ai](https://docs.spice.ai)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Spice AI
- - [https://spice.ai](https://spice.ai)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Spice AI status
- - [https://status.spice.ai](https://status.spice.ai)
- - date_published: 2024-05-12T04:13:06.303740+00:00
-
- ## Spoke.ai | Communicate better, build faster ⚡
- - [https://www.spoke.ai](https://www.spoke.ai)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Spot AI: Video Intelligence for Better Decision-Making
- - [https://www.spot.ai](https://www.spot.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Spot On Chain - Platform
- - [https://platform.spotonchain.ai](https://platform.spotonchain.ai)
- - date_published: 2024-07-03T10:44:04.454818+00:00
-
- ## Spot On Chain - Spot the opportunities, unlock insights
- - [https://spotonchain.ai](https://spotonchain.ai)
- - date_published: 2024-07-03T10:44:07.085048+00:00
-
- ## Spreadsheets are all you need: Understanding GPT2 and Transformers
- - [https://spreadsheets-are-all-you-need.ai](https://spreadsheets-are-all-you-need.ai)
- - date_published: 2024-02-24T07:20:03+00:00
 

@@ -1,3 +1,169 @@
+ ## Kosmik - A better way to do for visual research
+ - [https://www.kosmik.app](https://www.kosmik.app)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Umami
+ - [https://umami-maurice.koyeb.app](https://umami-maurice.koyeb.app)
+ - date_published: 2024-04-29T06:25:50.745749+00:00
+
+ ## Kreya
+ - [https://kreya.app](https://kreya.app)
+ - date_published: 2024-05-17T13:57:30.881914+00:00
+
+ ## Kukai
+ - [https://wallet.kukai.app](https://wallet.kukai.app)
+ - date_published: 2024-07-09T19:41:38.282727+00:00
+
+ ## Smarta verktyg för bättre kundservice
+ | Kundo
+ - [https://kundo.app](https://kundo.app)
+ - date_published: 2024-07-13T17:30:07.133510+00:00
+
+ ## Kwote
+ - [https://kwote.app](https://kwote.app)
+ - date_published: 2024-05-06T15:18:28.406163+00:00
+
+ ## lalista.app
+ - [https://lalista.app](https://lalista.app)
+ - date_published: 2024-05-10T06:40:39.694315+00:00
+
+ ## LANDrop - Drop any files to any devices on your LAN
+ - [https://landrop.app](https://landrop.app)
+ - date_published: 2023-10-25T11:47:00.043387+00:00
+
+ ## GitHub - hovancik/later-on: The reminder app
+ - [https://lateron.app](https://lateron.app)
+ - date_published: 2024-06-23T10:45:42.345002+00:00
+
+ ## Lettercase™
+ - [https://lettercase.app](https://lettercase.app)
+ - date_published: 2024-07-04T11:01:34.731562+00:00
+
+ ## Lightest.app
+ - [https://www.lightest.app](https://www.lightest.app)
+ - date_published: 2024-05-06T14:13:30.317692+00:00
+
+ ## Lighthouse - Earn Cash Back on Your Next Lease
+ - [https://lighthouse.app](https://lighthouse.app)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Linear – A better way to build products
+ - [https://linear.app](https://linear.app)
+ - date_published: 2023-10-25T11:47:02.657603+00:00
+
+ ## LinearMouse | The mouse and trackpad utility for Mac.
+ - [https://linearmouse.app](https://linearmouse.app)
+ - date_published: 2023-10-25T08:37:25.135990+00:00
+
+ ## @ederson
+ - [https://lingi.app](https://lingi.app)
+ - date_published: 2024-05-10T06:45:42.067046+00:00
+
+ ## Linkjar
+ - [https://linkjar.app](https://linkjar.app)
+ - date_published: 2024-05-06T21:28:55.521684+00:00
+
+ ## Linkwarden
+ - [https://blog.linkwarden.app](https://blog.linkwarden.app)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Linkwarden
+ - [https://cloud.linkwarden.app](https://cloud.linkwarden.app)
+ - date_published: 2024-05-14T03:49:12.485860+00:00
+
+ ## Linkwarden
+ - [https://docs.linkwarden.app](https://docs.linkwarden.app)
+ - date_published: 2024-05-14T03:49:09.242508+00:00
+
+ ## Linkwarden
+ - [https://linkwarden.app](https://linkwarden.app)
+ - date_published: 2024-04-08T19:29:29.155254+00:00
+ - tags: ['self-host', 'link aggregator', 'bookmark manager', 'internet archive']
+
+ ## Welcome to {{ site.title }} - home redirected
+ - [http://linshare.app](http://linshare.app)
+ - date_published: 2023-10-10T12:58:56+00:00
+
+ ## LinTO Studio
+ - [https://studio.linto.app](https://studio.linto.app)
+ - date_published: 2024-05-06T13:28:04+00:00
+
+ ## Lion Accountability Browser - The first AI-Powered Accountability Browser with Parental Controls
+ - [https://lionbrowser.app](https://lionbrowser.app)
+ - date_published: 2023-08-28T23:52:26+00:00
+
+ ## Listen and publish YouTube shows as podcasts - Listenbox
+ - [https://listenbox.app](https://listenbox.app)
+ - date_published: 2024-05-12T06:23:26.569730+00:00
+
+ ## listmonk - Mailing list
+ - [https://demo.listmonk.app](https://demo.listmonk.app)
+ - date_published: 2024-05-14T03:49:19.242863+00:00
+
+ ## listmonk - Free and open source self-hosted newsletter, mailing list manager, and transactional mails
+ - [https://listmonk.app](https://listmonk.app)
+ - date_published: 2024-02-04T00:00:00+00:00
+ - tags: ['self-host', 'open source']
+
+ ## LIVE24
+ - [https://live24.app](https://live24.app)
+ - date_published: 2024-07-03T12:34:56.024585+00:00
+
+ ## Best Institutional Digital Asset Custody Platform
+ - [https://www.lmnl.app](https://www.lmnl.app)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## The Local AI Playground
+ - [https://www.localai.app](https://www.localai.app)
+ - date_published: 2024-06-19T21:09:18.556837+00:00
+
+ ## main [
+				Locus Map 4 - Knowledge Base]
+ - [https://docs.locusmap.app](https://docs.locusmap.app)
+ - date_published: 2024-06-20T12:18:27.864370+00:00
+
+ ## Locus Live Tracking - Locus Live Tracking
+ - [https://live-tracking.locusmap.app](https://live-tracking.locusmap.app)
+ - date_published: 2024-06-20T12:18:29.502006+00:00
+
+ ## Locus Map Web
+ - [https://web.locusmap.app](https://web.locusmap.app)
+ - date_published: 2024-06-10T13:00:31+00:00
+
+ ## Locus Map - mobile outdoor navigation app
+ - [https://www.locusmap.app](https://www.locusmap.app)
+ - date_published: 2024-06-20T12:18:18.417773+00:00
+ - tags: ['mobile app']
+
+ ## Taiki Radio
+ - [https://lofimusic.app](https://lofimusic.app)
+ - date_published: 2024-04-29T07:45:26.290737+00:00
+
+ ## Show HN: I created an app for you to be a more unpredictable romantic partner
+ - [https://www.lovefuel.app](https://www.lovefuel.app)
+ - date_published: 2024-05-12T19:14:39+00:00
+
+ ## Quick Start
+ - [https://learn.lowercase.app](https://learn.lowercase.app)
+ - date_published: 2024-06-21T02:05:40.174002+00:00
+
+ ## Lowercase – A simple way to take and share notes
+ - [https://www.lowercase.app](https://www.lowercase.app)
+ - date_published: 2024-05-03T14:39:49+00:00
+ - tags: ['online tool', 'notes', 'monetization']
+
+ ## Lucid visual collaboration suite: Log in
+ - [https://admin.lucid.app](https://admin.lucid.app)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Lucid visual collaboration suite: Log in
+ - [https://cdn.lucid.app](https://cdn.lucid.app)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Lucid visual collaboration suite: Log in
+ - [https://lucid.app](https://lucid.app)
+ - date_published: 2024-05-06T14:03:14.137469+00:00
+
  ## LunaSea – Self-Hosted Controller
  - [https://www.lunasea.app](https://www.lunasea.app)
  - date_published: 2021-01-14T00:00:00+00:00
@@ -9,6 +175,10 @@
  ## Lungy App: Next-Gen Breathing Exercises
  - [https://www.lungy.app](https://www.lungy.app)
  - date_published: 2023-10-25T11:47:06.937675+00:00
+
+ ## Maccy - macOS clipboard manager
+ - [https://maccy.app](https://maccy.app)
+ - date_published: 2023-03-17T16:34:58+00:00
 
  ## MAC Address Vendor Lookup | MAC Address Lookup
  - [https://maclookup.app](https://maclookup.app)
@@ -66,6 +236,10 @@
  ## Manyfold
  - [https://try.manyfold.app](https://try.manyfold.app)
  - date_published: 2024-05-14T03:49:54.307225+00:00
+
+ ## Map Buddy
+ - [https://mapbuddy.app](https://mapbuddy.app)
+ - date_published: 2024-07-14T09:13:52.761101+00:00
 
  ## MRBL: The #1 Link in Golf
  - [https://get.marble.app](https://get.marble.app)
@@ -158,6 +332,10 @@
  ## Miracle Morning App
  - [https://miraclemorning.app](https://miraclemorning.app)
  - date_published: 2024-06-11T00:00:00+00:00
+
+ ## mixable.app, find the right cocktail at the right time.
+ - [http://mixable.app](http://mixable.app)
+ - date_published: 2024-07-14T17:05:42.275862+00:00
 
  ## Mixing Station
  - [https://mixingstation.app](https://mixingstation.app)
@@ -337,6 +515,10 @@
  - [https://alberthub.netlify.app](https://alberthub.netlify.app)
  - date_published: 2024-07-10T06:26:45.567740+00:00
 
+ ## Alekz.dev
+ - [https://alekzandriia.netlify.app](https://alekzandriia.netlify.app)
+ - date_published: 2024-07-14T10:09:16.409403+00:00
+
  ## AltTab - Windows alt-tab on macOS
  - [https://alt-tab-macos.netlify.app](https://alt-tab-macos.netlify.app)
  - date_published: 2024-07-02T18:43:35.322990+00:00
@@ -384,6 +566,10 @@
  ## Beautiful Experiences
  - [https://beautifulexperiences.netlify.app](https://beautifulexperiences.netlify.app)
  - date_published: 2024-07-09T19:28:18.992370+00:00
+
+ ## Boardgame Coop
+ - [https://boardgame-coop.netlify.app](https://boardgame-coop.netlify.app)
+ - date_published: 2024-07-14T09:07:50.934607+00:00
 
  ## Bonso
  - [https://bonso-hugo.netlify.app](https://bonso-hugo.netlify.app)
@@ -511,6 +697,10 @@
  - [https://dnd-lamp-store.netlify.app](https://dnd-lamp-store.netlify.app)
  - date_published: 2024-04-29T07:31:56.578472+00:00
 
+ ## Welcome to Netlify
+ - [https://docs.netlify.app](https://docs.netlify.app)
+ - date_published: 2024-07-14T04:56:03.678829+00:00
+
  ## Build optimized websites quickly, focus on your content | Docusaurus
  - [https://docusaurus-archive-october-2023.netlify.app](https://docusaurus-archive-october-2023.netlify.app)
  - date_published: 2024-07-07T02:58:28.945067+00:00
@@ -571,6 +761,10 @@
  - [https://hairdresser-header-43444.netlify.app](https://hairdresser-header-43444.netlify.app)
  - date_published: 2024-07-09T19:05:54.330626+00:00
 
+ ## HamsterRat | Business Coaching, Sparringpartner, Strategie, Vision & Umsetzung
+ - [https://hamsterrat.netlify.app](https://hamsterrat.netlify.app)
+ - date_published: 2024-07-14T10:22:07.724345+00:00
+
  ## favegame
  - [https://hasura-nuxt-demo.netlify.app](https://hasura-nuxt-demo.netlify.app)
  - date_published: 2024-06-23T10:26:53.399620+00:00
@@ -628,6 +822,10 @@
  - [https://jojx.netlify.app](https://jojx.netlify.app)
  - date_published: 2024-06-20T07:57:24.075417+00:00
 
+ ## Home
+ - [https://jorgeruvalcaba-personalsite.netlify.app](https://jorgeruvalcaba-personalsite.netlify.app)
+ - date_published: 2024-07-14T08:19:02.678616+00:00
+
  ## Academic
  - [https://kavitshah.netlify.app](https://kavitshah.netlify.app)
  - date_published: 2024-07-12T08:04:36.844668+00:00
@@ -680,9 +878,17 @@
  - [https://main--harambasic.netlify.app](https://main--harambasic.netlify.app)
  - date_published: 2024-02-11T00:00:00+00:00
 
+ ## Ibrahim NH: Personal Site
+ - [https://main--herbras.netlify.app](https://main--herbras.netlify.app)
+ - date_published: 2024-07-14T07:52:27.701811+00:00
+
  ## Matter
  - [https://main--matter-website-e45df7.netlify.app](https://main--matter-website-e45df7.netlify.app)
  - date_published: 2024-06-27T13:24:03.938752+00:00
+
+ ## Massif Press
+ - [https://massif-press.netlify.app](https://massif-press.netlify.app)
+ - date_published: 2024-07-14T17:26:53.721310+00:00
 
  ## Math Riddles | Quiz App
  - [https://mathriddles.netlify.app](https://mathriddles.netlify.app)
@@ -822,6 +1028,10 @@
  - [https://plebbit-test.netlify.app](https://plebbit-test.netlify.app)
  - date_published: 2023-10-25T11:47:44.262670+00:00
 
+ ## Marco Poletto's blog
+ - [https://polettodev2.netlify.app](https://polettodev2.netlify.app)
+ - date_published: 2024-07-14T10:18:25.099740+00:00
+
  ## Polygram
  - [https://polygram.netlify.app](https://polygram.netlify.app)
  - date_published: 2024-07-02T20:17:35.084757+00:00
@@ -943,6 +1153,10 @@
  - [https://siddharthroy.netlify.app](https://siddharthroy.netlify.app)
  - date_published: 2024-05-07T23:13:34.470688+00:00
 
+ ## Simon Pixels
+ - [https://simon-pixels.netlify.app](https://simon-pixels.netlify.app)
+ - date_published: 2024-07-14T07:53:21.751772+00:00
+
  ## The Single File Philosophy
  - [https://single-file.netlify.app](https://single-file.netlify.app)
  - date_published: 2024-07-10T06:24:02.402895+00:00
@@ -1026,6 +1240,10 @@
  ## The Retired
  - [https://the-retired.netlify.app](https://the-retired.netlify.app)
  - date_published: 2024-05-07T14:17:12.009982+00:00
+
+ ## THREAT LEVEL TENNIS
+ - [https://threat-level-tennis.netlify.app](https://threat-level-tennis.netlify.app)
+ - date_published: 2024-07-14T07:53:23.032238+00:00
 
  ## John's Blog
  - [https://toha-guides.netlify.app](https://toha-guides.netlify.app)
@@ -1131,6 +1349,10 @@
  ## Workout Journey
  - [https://workoutschedule.netlify.app](https://workoutschedule.netlify.app)
  - date_published: 2024-07-02T18:28:23.344955+00:00
+
+ ## Would you rather?
+ - [https://would-you-rather-2020.netlify.app](https://would-you-rather-2020.netlify.app)
+ - date_published: 2024-07-14T10:22:08.643372+00:00
 
  ## Xiaochen Zhao's Homepage
  - [https://xiaochen-zhao.netlify.app](https://xiaochen-zhao.netlify.app)
@@ -1466,6 +1688,10 @@
  - [https://pigment.app](https://pigment.app)
  - date_published: 2024-06-20T00:00:00+00:00
 
+ ## coprime ⊥ domains
+ - [http://pinata.app](http://pinata.app)
+ - date_published: 2024-07-14T08:49:34.639480+00:00
+
  ## Pindigo
  - [https://media.pindigo.app](https://media.pindigo.app)
  - date_published: 2024-05-15T00:00:00+00:00
@@ -1581,6 +1807,10 @@
  ## Parks on the Air | POTA | Parks program for amateur radio.
  - [https://pota.app](https://pota.app)
  - date_published: 2024-03-30T01:04:08+00:00
+
+ ## Show HN: Pour Decision – Alcohol Tracker and Mindful Drinking Companion
+ - [https://pourdecision.app](https://pourdecision.app)
+ - date_published: 2024-07-14T12:20:24+00:00
 
  ## Cloudflare Registrar
  - [https://widget.premiumplus.app](https://widget.premiumplus.app)
@@ -1753,6 +1983,10 @@
  - [https://cdn.raster.app](https://cdn.raster.app)
  - date_published: 2024-04-19T00:00:00+00:00
 
+ ## Raycast Music
+ - [https://raycast-music.app](https://raycast-music.app)
+ - date_published: 2024-02-10T00:00:00+00:00
+
  ## readflow
  - [https://readflow.app](https://readflow.app)
  - date_published: 2024-06-19T22:21:35.751758+00:00
@@ -1793,6 +2027,10 @@
  - [https://repeato.app](https://repeato.app)
  - date_published: 2024-05-30T00:00:00+00:00
 
+ ## DIPLOMATIC
+ - [https://diplomatic-docs.replit.app](https://diplomatic-docs.replit.app)
+ - date_published: 2024-07-14T10:32:34.710493+00:00
+
  ## Repl Bio
  - [https://ornella.replit.app](https://ornella.replit.app)
  - date_published: 2024-04-28T04:38:06.201263+00:00
@@ -1820,6 +2058,10 @@
  ## ResearchBuddy - Automatic Literature Reviews - Login
  - [https://researchbuddy.app](https://researchbuddy.app)
  - date_published: 2024-06-19T21:20:51.217006+00:00
+
+ ## Responsively App - A Web Developer's Browser
+ - [https://responsively.app](https://responsively.app)
+ - date_published: 2024-07-14T08:19:34.985278+00:00
 
  ## Reviewbunny - Pull request reminders for teams
  - [https://reviewbunny.app](https://reviewbunny.app)
@@ -1920,6 +2162,10 @@
  ## Rydeen
  - [https://rydeen.app](https://rydeen.app)
  - date_published: 2024-06-03T11:21:06.056570+00:00
+
+ ## Sasage | 撮影採寸原稿
+ - [https://www.sasage.app](https://www.sasage.app)
+ - date_published: 2024-07-14T14:13:34.712284+00:00
 
  ## Satyrn
  - [https://satyrn.app](https://satyrn.app)
@@ -2245,6 +2491,10 @@
  - [https://studyable.app](https://studyable.app)
  - date_published: 2024-06-19T20:38:05.241325+00:00
 
+ ## Subbi - Subscriptions Manager
+ - [https://subbi.app](https://subbi.app)
+ - date_published: 2024-07-14T09:33:38.486709+00:00
+
  ## Sublime
  - [https://sublime.app](https://sublime.app)
  - date_published: 2024-05-12T05:40:38.314509+00:00
@@ -2330,6 +2580,10 @@
  - [https://teachyourselfmath.app](https://teachyourselfmath.app)
  - date_published: 2024-01-24T06:49:02.414761+00:00
 
+ ## Team, Assemble!
+ - [https://teamassemble.app](https://teamassemble.app)
+ - date_published: 2024-07-14T18:47:30.749847+00:00
+
  ## Find your dream Canadian tech job
  - [https://www.techjobscanada.app](https://www.techjobscanada.app)
  - date_published: 2024-04-28T04:30:40.131321+00:00
@@ -2357,6 +2611,10 @@
  ## The Companion
  - [https://www.thecompanion.app](https://www.thecompanion.app)
  - date_published: 2023-10-25T11:49:20.174746+00:00
+
+ ## The Operator – Slack private channel access made easy
+ - [https://theoperator.app](https://theoperator.app)
+ - date_published: 2024-07-14T09:09:00.926983+00:00
 
  ## theQuestions
  - [https://thequestions.app](https://thequestions.app)
@@ -2670,6 +2928,10 @@
  - [https://aladdinai.vercel.app](https://aladdinai.vercel.app)
  - date_published: 2024-06-27T10:52:44.933476+00:00
 
+ ## Alessia Bellisario
+ - [https://aless-l0wl6ccb6-alessia-bellisarios-projects.vercel.app](https://aless-l0wl6ccb6-alessia-bellisarios-projects.vercel.app)
+ - date_published: 2024-07-14T08:28:09.243197+00:00
+
  ## AJ's Portfolio
  - [https://alexjportfolio.vercel.app](https://alexjportfolio.vercel.app)
  - date_published: 2024-06-17T03:31:54.031030+00:00
@@ -2711,6 +2973,10 @@
  - [https://appwrite-todo-with-svelte.vercel.app](https://appwrite-todo-with-svelte.vercel.app)
  - date_published: 2024-05-06T14:05:14.309690+00:00
 
+ ## Artist Finder
+ - [https://artisan-finder-news.vercel.app](https://artisan-finder-news.vercel.app)
+ - date_published: 2024-07-14T10:06:26.045587+00:00
+
  ## Artisan Digital
  - [https://artisan-website-alpha.vercel.app](https://artisan-website-alpha.vercel.app)
  - date_published: 2024-05-10T02:44:16.923322+00:00
@@ -2727,6 +2993,10 @@
  - [https://askthee.vercel.app](https://askthee.vercel.app)
  - date_published: 2024-06-19T19:53:19.681082+00:00
 
+ ## Nomic Atlas
+ - [https://atlas-next-b40x23hjo-nomic-ai.vercel.app](https://atlas-next-b40x23hjo-nomic-ai.vercel.app)
+ - date_published: 2024-07-14T22:29:27.804310+00:00
+
  ## Getting started | Automa Docs
  - [https://automa-docs-old.vercel.app](https://automa-docs-old.vercel.app)
  - date_published: 2024-07-13T09:18:19.936801+00:00
@@ -2735,6 +3005,10 @@
  - [https://avse.vercel.app](https://avse.vercel.app)
  - date_published: 2023-12-20T04:44:54+00:00
  - tags: ['artificial intelligence bot']
+
+ ## BeardMen Website
+ - [https://beardmen.vercel.app](https://beardmen.vercel.app)
+ - date_published: 2024-07-14T10:06:26.811963+00:00
 
  ## Bigspring Astro and Tailwindcss
  - [https://bigspring-astro.vercel.app](https://bigspring-astro.vercel.app)
@@ -2893,6 +3167,10 @@
  - [https://code-reviewer.vercel.app](https://code-reviewer.vercel.app)
  - date_published: 2024-06-19T19:41:39.657349+00:00
 
+ ## CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+ - [https://coindesk-edge-dqvual6tg-coindesk.vercel.app](https://coindesk-edge-dqvual6tg-coindesk.vercel.app)
+ - date_published: 2024-07-14T22:03:52.769036+00:00
+
  ## Comebacks
  - [https://comebacks-web.vercel.app](https://comebacks-web.vercel.app)
  - date_published: 2024-06-19T21:11:56.012774+00:00
@@ -2949,6 +3227,10 @@
  - [https://datawise.vercel.app](https://datawise.vercel.app)
  - date_published: 2024-06-19T19:06:15.762562+00:00
 
+ ## Open Graph Image as a Service
+ - [https://davidl-og-image.flexbox.vercel.app](https://davidl-og-image.flexbox.vercel.app)
+ - date_published: 2024-07-14T08:04:31.406050+00:00
+
  ## Daylist | Home
  - [https://daylist-igdaloff.vercel.app](https://daylist-igdaloff.vercel.app)
  - date_published: 2024-04-12T00:00:00+00:00
@@ -2989,6 +3271,10 @@
  - [https://dot-landing-lkr3581vo-foobarbaz-inc.vercel.app](https://dot-landing-lkr3581vo-foobarbaz-inc.vercel.app)
  - date_published: 2024-07-13T05:56:44.601331+00:00
 
+ ## doTogether
+ - [https://do-together.vercel.app](https://do-together.vercel.app)
+ - date_published: 2024-07-14T09:41:08.942135+00:00
+
  ## Alex Widua
  - [https://drag-scroll-weight.vercel.app](https://drag-scroll-weight.vercel.app)
  - date_published: 2024-07-09T19:17:25.985734+00:00
@@ -3008,6 +3294,10 @@
  ## Dynamic Open Graph Image Generator
  - [https://dynamic-og-image-generator.vercel.app](https://dynamic-og-image-generator.vercel.app)
  - date_published: 2024-05-01T03:02:00.755365+00:00
+
+ ## Albert Essamuah Associates
+ - [https://eae.vercel.app](https://eae.vercel.app)
+ - date_published: 2024-07-14T08:45:47.118521+00:00
 
  ## Effective Altruism Funds
  - [https://ea-funds-6ve1owvft-centreea.vercel.app](https://ea-funds-6ve1owvft-centreea.vercel.app)
@@ -3072,6 +3362,10 @@
  ## Frodo
  - [https://frodo-chi.vercel.app](https://frodo-chi.vercel.app)
  - date_published: 2024-06-14T08:55:25.158102+00:00
+
+ ## Frontity - The React Framework for WordPress
+ - [https://frontity-org-frontity.vercel.app](https://frontity-org-frontity.vercel.app)
+ - date_published: 2024-07-14T17:05:23.309343+00:00
 
  ## GA Consumer Navigation
  - [https://ga-marketing-navigation-production.vercel.app](https://ga-marketing-navigation-production.vercel.app)
@@ -3157,12 +3451,20 @@
  - [https://hn-hiring-tpipr43zp-u-turn.vercel.app](https://hn-hiring-tpipr43zp-u-turn.vercel.app)
  - date_published: 2024-04-30T02:25:43.297259+00:00
 
+ ## Holograph
+ - [https://holograph-1.vercel.app](https://holograph-1.vercel.app)
+ - date_published: 2024-07-14T10:31:59.880001+00:00
+
  - [https://honeyy.vercel.app](https://honeyy.vercel.app)
  - date_published: 2024-04-08T19:28:58.472118+00:00
 
  ## 정현수 포트폴리오
  - [https://hyeonsu-jung.vercel.app](https://hyeonsu-jung.vercel.app)
  - date_published: 2024-06-20T17:12:21.116394+00:00
+
+ ## Idosell pages test react componnents
+ - [https://idosell-pages.vercel.app](https://idosell-pages.vercel.app)
+ - date_published: 2024-07-14T20:35:27.724746+00:00
 
  ## ImageWise
  - [https://imagewise-oqkz.vercel.app](https://imagewise-oqkz.vercel.app)
@@ -3220,6 +3522,10 @@
  - [https://kbar.vercel.app](https://kbar.vercel.app)
  - date_published: 2024-05-04T13:57:48.823881+00:00
 
+ ## kcalCalc
+ - [https://kcal-calc.vercel.app](https://kcal-calc.vercel.app)
+ - date_published: 2024-07-14T09:41:05.895560+00:00
+
  ## Design, Deploy, and Optimize LLM Apps with Klu — Klu.ai
  - [https://klu-a23qd2gmz-klu.vercel.app](https://klu-a23qd2gmz-klu.vercel.app)
  - date_published: 2024-07-04T03:55:38.586791+00:00
@@ -3231,6 +3537,18 @@
  ## Design, Deploy, and Optimize LLM Apps with Klu — Klu.ai
  - [https://klu-j3n0d4hsu-klu.vercel.app](https://klu-j3n0d4hsu-klu.vercel.app)
  - date_published: 2024-07-03T09:21:30.911456+00:00
+
+ ## LaTeX.css
+ - [https://latex.vercel.app](https://latex.vercel.app)
+ - date_published: 2024-07-14T11:34:21.188576+00:00
+
+ ## Lifecycle
+ - [https://lifecycle.vercel.app](https://lifecycle.vercel.app)
+ - date_published: 2024-07-14T08:49:37.321442+00:00
+
+ ## Rebuilding Linear.app
+ - [https://linear-rebuild-chi.vercel.app](https://linear-rebuild-chi.vercel.app)
+ - date_published: 2024-07-14T08:30:46.155213+00:00
 
  ## Link Book
  - [https://link-book.vercel.app](https://link-book.vercel.app)
@@ -3312,6 +3630,10 @@
  - [https://mud-docs-o2hla2qt0-latticexyz.vercel.app](https://mud-docs-o2hla2qt0-latticexyz.vercel.app)
  - date_published: 2024-06-04T12:50:57.860875+00:00
 
+ ## Music Player
+ - [https://musicplayer-dusky.vercel.app](https://musicplayer-dusky.vercel.app)
+ - date_published: 2024-07-14T09:42:25.678394+00:00
+
  ## Not a Number
  - [https://nan-archive.vercel.app](https://nan-archive.vercel.app)
  - date_published: 2024-05-08T00:41:24.126353+00:00
@@ -3333,9 +3655,17 @@
  - [https://new-emilkowalski.vercel.app](https://new-emilkowalski.vercel.app)
  - date_published: 2024-06-22T13:58:54.989772+00:00
 
+ ## New Shoe
+ - [https://newshows.vercel.app](https://newshows.vercel.app)
+ - date_published: 2024-07-14T10:06:21.498493+00:00
+
  ## NextAuth.js Example
  - [https://next-auth-example.vercel.app](https://next-auth-example.vercel.app)
  - date_published: 2024-04-29T07:20:05.749263+00:00
+
+ ## Devansh Bajaj
+ - [https://nextjs-devanshblog.vercel.app](https://nextjs-devanshblog.vercel.app)
+ - date_published: 2024-06-23T00:00:00+00:00
 
  ## Jobify Dev
  - [https://nextjs-jobify-production.vercel.app](https://nextjs-jobify-production.vercel.app)
@@ -3356,6 +3686,10 @@
  ## Notes
  - [https://notes-ibnmaghreb.vercel.app](https://notes-ibnmaghreb.vercel.app)
  - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Notion Widgets
+ - [https://notion-with-widgets.vercel.app](https://notion-with-widgets.vercel.app)
+ - date_published: 2024-07-14T09:43:30.176121+00:00
 
  ## OctoArt
  - [https://octoart.vercel.app](https://octoart.vercel.app)
@@ -3416,6 +3750,10 @@
  ## Pathfinding Visualizer
  - [https://pathfinding-visualizer-nu.vercel.app](https://pathfinding-visualizer-nu.vercel.app)
  - date_published: 2023-10-25T11:50:32.291197+00:00
+
+ ## PDX Food Weeks
+ - [https://pdx-food-weeks.vercel.app](https://pdx-food-weeks.vercel.app)
+ - date_published: 2024-07-14T09:23:38.681521+00:00
 
  ## Penelope AI | Penelope AI assists you write better content faster
  - [https://penelope-ai.vercel.app](https://penelope-ai.vercel.app)
@@ -3598,6 +3936,10 @@
  - [https://saasrock-dev-git-remixv2-alexandromtzg.vercel.app](https://saasrock-dev-git-remixv2-alexandromtzg.vercel.app)
  - date_published: 2024-07-10T11:14:47.003391+00:00
 
+ ## Saman Dere Font
+ - [https://saman-dere-font.vercel.app](https://saman-dere-font.vercel.app)
+ - date_published: 2024-07-14T09:33:33.497749+00:00
+
  ## Blog | Sam Curry
  - [https://samcurry-jm6pabd5c-sam-currys-projects.vercel.app](https://samcurry-jm6pabd5c-sam-currys-projects.vercel.app)
  - date_published: 2024-06-03T00:00:00+00:00
@@ -3613,6 +3955,10 @@
  ## Scribbling Interfaces
  - [https://scribbling-interfaces.vercel.app](https://scribbling-interfaces.vercel.app)
  - date_published: 2024-07-09T19:17:27.309456+00:00
+
+ ## Vercel Markup
+ - [https://service-markup.vercel.app](https://service-markup.vercel.app)
+ - date_published: 2024-07-14T08:50:47.461989+00:00
 
  ## Settlers' Dice
  - [https://settler-support.vercel.app](https://settler-support.vercel.app)
@@ -3654,6 +4000,10 @@
  - [https://slickgpt.vercel.app](https://slickgpt.vercel.app)
  - date_published: 2024-01-09T02:23:40.930218+00:00
 
+ ## Slickr - Try the most powerful cover image designer for hashnode blog
+ - [https://slickr.vercel.app](https://slickr.vercel.app)
+ - date_published: 2024-07-14T10:19:25.802026+00:00
+
  ## Developmental Interpretability
  - [https://slt-summit.vercel.app](https://slt-summit.vercel.app)
  - date_published: 2024-07-07T07:16:39.482772+00:00
@@ -3686,352 +4036,7 @@
  - [https://spydea-nextjs.vercel.app](https://spydea-nextjs.vercel.app)
  - date_published: 2024-06-21T23:48:40.221775+00:00
 
- ## Introduction – react-tweet
- - [https://static-tweet.vercel.app](https://static-tweet.vercel.app)
- - date_published: 2024-05-06T13:41:30.247552+00:00
-
- ## Hello, World!
- - [https://sudocss.vercel.app](https://sudocss.vercel.app)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Suggest AI by @KShivendu
- - [https://suggest-ai.vercel.app](https://suggest-ai.vercel.app)
- - date_published: 2024-06-19T18:56:49.595336+00:00
-
- ## Supabase NextJS Starter Kit — SupaLaunch
- - [https://supalaunch-website-bgxxdcguv-side-hustles.vercel.app](https://supalaunch-website-bgxxdcguv-side-hustles.vercel.app)
- - date_published: 2024-06-19T02:23:58.016493+00:00
-
- ## supastarter - Ship your SaaS in days
- - [https://supastarter-website-euz2il3vy-sedecon-solutions.vercel.app](https://supastarter-website-euz2il3vy-sedecon-solutions.vercel.app)
- - date_published: 2024-07-10T11:06:36.229345+00:00
-
- ## Svelte 5 preview
- - [https://svelte-5-preview.vercel.app](https://svelte-5-preview.vercel.app)
- - date_published: 2024-06-23T05:57:08.718990+00:00
-
- ## Svelte Cubed
- - [https://svelte-cubed.vercel.app](https://svelte-cubed.vercel.app)
- - date_published: 2024-06-23T03:22:57.487092+00:00
-
- ## A Beautiful library of SVG logos
- - [https://svgl.vercel.app](https://svgl.vercel.app)
- - date_published: 2023-12-16T15:04:54+00:00
-
- ## Show HN: A fast OSS voice assistant
- - [https://swift-ai.vercel.app](https://swift-ai.vercel.app)
- - date_published: 2024-07-08T14:21:05+00:00
-
- ## Automatic Comments Generator
- - [https://swiftstart.vercel.app](https://swiftstart.vercel.app)
- - date_published: 2023-10-25T11:50:53.574901+00:00
-
- ## Home | Swing Music
- - [https://swingmusic.vercel.app](https://swingmusic.vercel.app)
- - date_published: 2024-06-19T22:10:07.685199+00:00
-
- ## React Hooks for Data Fetching – SWR
- - [https://swr.vercel.app](https://swr.vercel.app)
- - date_published: 2023-10-25T11:51:01.722399+00:00
-
- ## Syofyan Zuhad - Back-End Developer
- - [https://syofyan-profile.vercel.app](https://syofyan-profile.vercel.app)
- - date_published: 2024-05-11T10:21:09.398595+00:00
-
- ## Tabloid: the clickbait headline programming language
- - [https://tabloid-thesephist.vercel.app](https://tabloid-thesephist.vercel.app)
- - date_published: 2023-10-25T11:51:03.259656+00:00
-
- ## TaxGPT
- - [https://tax-gpt-theta.vercel.app](https://tax-gpt-theta.vercel.app)
- - date_published: 2024-04-30T02:13:51.969387+00:00
-
- ## tdquang
- - [https://tdquang.vercel.app](https://tdquang.vercel.app)
- - date_published: 2024-07-08T22:23:39.878885+00:00
-
- ## Toodle
- - [https://toodle-google.vercel.app](https://toodle-google.vercel.app)
- - date_published: 2024-06-19T20:36:39.397115+00:00
-
- ## Home - Trakt-Widgets
- - [https://trakt-widgets.vercel.app](https://trakt-widgets.vercel.app)
- - date_published: 2024-07-10T03:19:38.139088+00:00
-
- ## tweet2image
- - [https://tweet2image.vercel.app](https://tweet2image.vercel.app)
- - date_published: 2024-05-06T20:47:45.294087+00:00
-
- ## The Type Wunderkammer
- - [https://typewunderkammer.vercel.app](https://typewunderkammer.vercel.app)
- - date_published: 2024-05-09T06:11:45.419772+00:00
-
- ## UI Lib Picker
- - [https://ui-libs.vercel.app](https://ui-libs.vercel.app)
- - date_published: 2024-06-22T23:43:41.702055+00:00
-
- ## Ultramail: Send Personalized Marketing Emails with AI
- - [https://ultramail.vercel.app](https://ultramail.vercel.app)
- - date_published: 2024-06-19T21:37:53.084455+00:00
-
- ## Utsav Somaiya - Software Engineer, Livewire Enthusiastic
- - [https://utsav-somaiya.vercel.app](https://utsav-somaiya.vercel.app)
- - date_published: 2024-06-19T09:31:00.653758+00:00
-
- ## Uwulink
- - [https://uwulink-demo.vercel.app](https://uwulink-demo.vercel.app)
- - date_published: 2024-07-04T09:59:32.415993+00:00
-
- ## v 2048
- - [https://v2048.vercel.app](https://v2048.vercel.app)
- - date_published: 2024-05-06T14:46:02.201176+00:00
-
- ## Verifiable Credentials
- - [https://verifiable-credentials-website.vercel.app](https://verifiable-credentials-website.vercel.app)
- - date_published: 2024-04-30T02:27:09.367081+00:00
-
- ## Visionex
- - [https://visionex-astro.vercel.app](https://visionex-astro.vercel.app)
- - date_published: 2024-06-21T23:49:05.267676+00:00
-
- ## Visionex
- - [https://visionex-nextjs.vercel.app](https://visionex-nextjs.vercel.app)
- - date_published: 2024-06-21T23:49:10.068306+00:00
-
- ## Visit Again
- - [https://visitagain.vercel.app](https://visitagain.vercel.app)
- - date_published: 2024-07-02T20:50:22.224329+00:00
-
- ## Vizionova - Build Intelligent Map Diagramming
- - [https://vizionova.vercel.app](https://vizionova.vercel.app)
- - date_published: 2024-06-19T19:19:06.685652+00:00
-
- ## V WASM Playground
- - [https://v-wasm.vercel.app](https://v-wasm.vercel.app)
- - date_published: 2024-05-06T14:46:01.506498+00:00
-
- ## Airdraw
- - [https://web-draw-e58vy7q9m-arefmalek.vercel.app](https://web-draw-e58vy7q9m-arefmalek.vercel.app)
- - date_published: 2023-12-15T11:11:38.412590+00:00
-
- ## oscard0m Blog
- - [https://web-oscard0m.vercel.app](https://web-oscard0m.vercel.app)
- - date_published: 2024-04-30T02:10:34.292590+00:00
-
- ## Tinybird · The Way to build Real-time Data Products
- - [https://website-6qw75lyju-tinybird.vercel.app](https://website-6qw75lyju-tinybird.vercel.app)
- - date_published: 2024-06-11T21:16:40.989323+00:00
-
- ## Tinybird · The Way to build Real-time Data Products
- - [https://website-aq1w0pvya-tinybird.vercel.app](https://website-aq1w0pvya-tinybird.vercel.app)
- - date_published: 2024-06-27T12:07:57.100913+00:00
-
- ## PostgreSQL ++ for time series and events
- - [https://web-splash-git-chore-products-dropdown-timescale-company.vercel.app](https://web-splash-git-chore-products-dropdown-timescale-company.vercel.app)
- - date_published: 2024-06-22T20:27:10.107949+00:00
-
- ## What I love now
- - [https://what-i-love-now.vercel.app](https://what-i-love-now.vercel.app)
- - date_published: 2024-05-09T06:17:52.024300+00:00
-
- ## Whisper
- - [https://whisper-convex.vercel.app](https://whisper-convex.vercel.app)
- - date_published: 2024-04-29T07:32:38.303896+00:00
-
- ## Whose Prompt is it Anyways? by Convex
- - [https://whose-prompt-is-it-anyways.vercel.app](https://whose-prompt-is-it-anyways.vercel.app)
- - date_published: 2024-04-29T07:32:50.147137+00:00
-
- ## sphere wif hat
- - [https://wif-sphere.vercel.app](https://wif-sphere.vercel.app)
- - date_published: 2024-06-22T12:42:01.497953+00:00
-
- ## WonderMap
- - [https://wondermap.vercel.app](https://wondermap.vercel.app)
- - date_published: 2024-06-24T03:36:40.076935+00:00
-
- ## WTF DOES THIS COMPANY DO
- - [https://wtfdoesthiscompanydo.vercel.app](https://wtfdoesthiscompanydo.vercel.app)
- - date_published: 2023-10-25T11:51:04.640307+00:00
-
- ## https://yakgpt.vercel.app
- - [https://yakgpt.vercel.app](https://yakgpt.vercel.app)
- - date_published: 2024-01-09T02:23:41.451242+00:00
-
- ## Yasuragi Tea
- - [https://yasuragi.vercel.app](https://yasuragi.vercel.app)
- - date_published: 2024-05-10T02:44:21.200686+00:00
-
- ## YC Idea Matcher
- - [https://yc-idea-matcher.vercel.app](https://yc-idea-matcher.vercel.app)
- - date_published: 2023-10-25T11:51:16.534056+00:00
-
- ## Year In Music
- - [https://year-in-music-workshop.vercel.app](https://year-in-music-workshop.vercel.app)
- - date_published: 2024-07-02T20:41:55.395698+00:00
-
- ## YT idea generator
- - [https://yt-ideas.vercel.app](https://yt-ideas.vercel.app)
- - date_published: 2024-06-14T08:57:57.169654+00:00
-
- ## Videotok - Create faceless videos with AI
- - [https://videotok.app](https://videotok.app)
- - date_published: 2024-07-10T11:15:35.560460+00:00
-
- ## Video Trim App - Free & Online & Offline
- - [https://videotrim.app](https://videotrim.app)
- - date_published: 2024-06-03T11:21:00.994159+00:00
-
- ## Professional Headshots in minutes with Virtual Face AI
- - [https://virtualface.app](https://virtualface.app)
- - date_published: 2023-10-25T11:51:19.247159+00:00
-
- ## Virtual Staging AI
- - [https://virtualstagingai.app](https://virtualstagingai.app)
- - date_published: 2024-06-19T18:53:39.687773+00:00
-
- ## Visti - RSS reader
- - [https://visti.app](https://visti.app)
- - date_published: 2024-07-02T20:35:10.424388+00:00
-
- ## Vitals™ | The all-in-one app to grow your Shopify store
- - [https://vitals.app](https://vitals.app)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## VK Клипы — место встречи впечатлений
- - [https://vkclips.app](https://vkclips.app)
- - date_published: 2024-06-07T14:06:41+00:00
-
- ## Volanta — Your personal flight tracker
- - [https://volanta.app](https://volanta.app)
- - date_published: 2024-06-08T18:16:10.315571+00:00
-
- ## VoteHub - Embedded Votings and Rankings
- - [https://vote-hub.app](https://vote-hub.app)
- - date_published: 2024-05-30T12:40:18.030669+00:00
-
- ## VoxelChain - Interactive voxel worlds in the browser
- - [https://voxelchain.app](https://voxelchain.app)
- - date_published: 2023-10-25T11:51:21.827960+00:00
-
- ## Wakeout | Healthier workdays, desk exercises
- - [https://wakeout.app](https://wakeout.app)
- - date_published: 2024-06-20T05:35:00.311184+00:00
-
- ## Wallaroo • Wallpapers Just For You!
- - [https://wallaroo.app](https://wallaroo.app)
- - date_published: 2024-01-05T22:33:22+00:00
-
- ## NOW Wallet - best app for crypto assets by ChangeNOW
- - [https://walletnow.app](https://walletnow.app)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Wand – Bring your drawings to life.
- - [https://www.wand.app](https://www.wand.app)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## WATCH3R
- - [https://watch3r.app](https://watch3r.app)
- - date_published: 2024-06-14T14:48:09.194760+00:00
-
- ## Watcharr
- - [https://beta.watcharr.app](https://beta.watcharr.app)
- - date_published: 2024-05-14T04:03:19.257742+00:00
-
- ## Watcharr Docs | Watcharr Docs
- - [https://watcharr.app](https://watcharr.app)
- - date_published: 2024-04-08T19:31:16.233648+00:00
- - tags: ['movie library', 'self-host']
-
- ## Watchworthy
- - [https://watchworthy.app](https://watchworthy.app)
- - date_published: 2024-06-11T19:02:26+00:00
-
- ## Wavelength is Shutting Down on July 31st, 2024
- - [https://www.wavelength.app](https://www.wavelength.app)
- - date_published: 2024-07-02T13:29:06.734193+00:00
-
- ## Wavacity | Online Audio Editor Based on Audacity
- - [https://wavvy.app](https://wavvy.app)
- - date_published: 2023-10-25T11:51:30.384343+00:00
-
- ## Wayland Protocol Documentation | Wayland Explorer
- - [https://wayland.app](https://wayland.app)
- - date_published: 2024-05-11T09:06:00.472799+00:00
-
- ## Weather Strip for iOS
- - [https://www.weatherstrip.app](https://www.weatherstrip.app)
- - date_published: 2023-09-12T20:17:43+00:00
-
- ## AGI House
- - [https://agihouse-app.web.app](https://agihouse-app.web.app)
- - date_published: 2024-06-23T00:54:32+00:00
-
- ## AKSHAT SINGHANIA
- - [https://akshatsinghaniaweb.web.app](https://akshatsinghaniaweb.web.app)
- - date_published: 2024-06-20T13:10:42+00:00
-
- ## Angular
- - [https://angular-gr.web.app](https://angular-gr.web.app)
- - date_published: 2024-05-31T11:09:05.185015+00:00
-
- ## Bayes-Up
- - [https://bayes-up.web.app](https://bayes-up.web.app)
- - date_published: 2020-04-22T09:56:12+00:00
-
- ## React App
- - [https://binderpos-big-calendar-1490e.web.app](https://binderpos-big-calendar-1490e.web.app)
- - date_published: 2023-08-31T01:24:10+00:00
-
- ## The Butterfly Button
- - [https://butterfly-button.web.app](https://butterfly-button.web.app)
- - date_published: 2024-05-09T04:03:12.935259+00:00
-
- ## Cirtoren car models 360 valkthrough | valk360
- - [https://citroenvr-valk360.web.app](https://citroenvr-valk360.web.app)
- - date_published: 2021-12-26T12:41:12+00:00
-
- ## contrib.rocks
- - [https://contributors-img.web.app](https://contributors-img.web.app)
- - date_published: 2023-07-02T03:33:42+00:00
-
- ## Easy Outlines
- - [https://easyoutlines-f5115.web.app](https://easyoutlines-f5115.web.app)
- - date_published: 2023-10-06T21:21:38+00:00
-
- ## Focus on Features | Prevent Harm Through Design
- - [https://gbw-ii-fellowship.web.app](https://gbw-ii-fellowship.web.app)
- - date_published: 2023-12-14T23:37:42+00:00
-
- ## AI for communication
- - [https://gen-gen.web.app](https://gen-gen.web.app)
- - date_published: 2023-11-19T23:06:38+00:00
-
- ## Imagen: Text-to-Image Diffusion Models
- - [https://gweb-research-imagen.web.app](https://gweb-research-imagen.web.app)
- - date_published: 2022-12-03T19:17:29+00:00
-
- ## HDI Harmony
- - [https://hdiharmony.web.app](https://hdiharmony.web.app)
- - date_published: 2024-04-29T07:41:00.134908+00:00
-
- ## ing griyanipun Damar
- - [https://indrdmr.web.app](https://indrdmr.web.app)
- - date_published: 2024-01-28T02:44:54+00:00
-
- ## Ipv6 seminar
- - [https://ipv6-free-webinar.web.app](https://ipv6-free-webinar.web.app)
- - date_published: 2023-04-26T04:10:09+00:00
-
- ## Portfolio
- - [https://manthanank.web.app](https://manthanank.web.app)
- - date_published: 2024-05-11T10:08:55.417983+00:00
-
- ## Widget demo
- - [https://ommi-lg-widget.web.app](https://ommi-lg-widget.web.app)
- - date_published: 2024-05-04T12:26:13.487845+00:00
-
- ## Othello
- - [https://othello-rust.web.app](https://othello-rust.web.app)
- - date_published: 2024-06-03T11:20:34.860317+00:00
+ ## SoNiC's Portfolio
+ - [https://ss-portfolio.vercel.app](https://ss-portfolio.vercel.app)
+ - date_published: 2024-07-14T03:21:33.326901+00:00
 

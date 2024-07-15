@@ -1,3 +1,97 @@
+ ## Support Archive - Solo - Free AI Website Creator - Support
+ - [https://blog.soloist.ai](https://blog.soloist.ai)
+ - date_published: 2024-07-07T10:10:14.329268+00:00
+
+ ## Solo - Free AI Website Creator
+ - [https://soloist.ai](https://soloist.ai)
+ - date_published: 2024-05-08T10:31:30.007146+00:00
+
+ ## Show HN: Sonauto – a more controllable AI music creator
+ - [https://sonauto.ai](https://sonauto.ai)
+ - date_published: 2024-04-10T16:48:01+00:00
+ - tags: ['generating music', 'artificial intelligence']
+
+ ## Automatically convert audio and video to text: Fast, Accurate, & Affordable | Sonix
+ - [https://sonix.ai](https://sonix.ai)
+ - date_published: 2024-06-19T21:11:10.151186+00:00
+
+ ## SOREAL - AI Studio | Cloud hosted Stable Diffusion 1.5 & Dreambooth Studio
+ - [https://www.soreal.ai](https://www.soreal.ai)
+ - date_published: 2024-06-19T19:24:25.465819+00:00
+
+ ## SoulGen: Free AI Magic Tool to Create Art from Text Online
+ - [https://www.soulgen.ai](https://www.soulgen.ai)
+ - date_published: 2024-06-19T19:40:38.307425+00:00
+
+ ## Soundry AI
+ - [https://app.soundry.ai](https://app.soundry.ai)
+ - date_published: 2024-05-11T09:11:13.642031+00:00
+
+ ## Launch HN: Soundry AI (YC W24) – Music sample generator for music creators
+ - [https://soundry.ai](https://soundry.ai)
+ - date_published: 2024-03-21T18:09:18+00:00
+ - tags: ['generating music', 'artificial intelligence']
+
+ ## Sourcery | Automatically Improve Code Quality
+ - [https://sourcery.ai](https://sourcery.ai)
+ - date_published: 2023-10-25T11:42:50.808107+00:00
+
+ ## AI Rendering Solutions for Interior, Room and Home Design | Spacely AI
+ - [https://www.spacely.ai](https://www.spacely.ai)
+ - date_published: 2024-06-19T19:50:40.383023+00:00
+
+ ## Spatial.ai – Know your best customers and reach them faster
+ - [https://www.spatial.ai](https://www.spatial.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Spawning.ai
+ - [https://site.spawning.ai](https://site.spawning.ai)
+ - date_published: 2024-07-11T15:30:01.447972+00:00
+
+ ## Spawning
+ - [https://spawning.ai](https://spawning.ai)
+ - date_published: 2024-07-06T20:49:47.190601+00:00
+
+ ## AI Transcription Service | Transcribe Audio to Text | Speech to Text AI
+ - [https://speechtext.ai](https://speechtext.ai)
+ - date_published: 2024-06-19T19:48:30.439372+00:00
+
+ ## The Spice AI Blog
+ - [https://blog.spice.ai](https://blog.spice.ai)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Welcome to Spice.ai | Spice.ai Documentation
+ - [https://docs.spice.ai](https://docs.spice.ai)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Spice AI
+ - [https://spice.ai](https://spice.ai)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Spice AI status
+ - [https://status.spice.ai](https://status.spice.ai)
+ - date_published: 2024-05-12T04:13:06.303740+00:00
+
+ ## Spoke.ai | Communicate better, build faster ⚡
+ - [https://www.spoke.ai](https://www.spoke.ai)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Spot AI: Video Intelligence for Better Decision-Making
+ - [https://www.spot.ai](https://www.spot.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Spot On Chain - Platform
+ - [https://platform.spotonchain.ai](https://platform.spotonchain.ai)
+ - date_published: 2024-07-03T10:44:04.454818+00:00
+
+ ## Spot On Chain - Spot the opportunities, unlock insights
+ - [https://spotonchain.ai](https://spotonchain.ai)
+ - date_published: 2024-07-03T10:44:07.085048+00:00
+
+ ## Spreadsheets are all you need: Understanding GPT2 and Transformers
+ - [https://spreadsheets-are-all-you-need.ai](https://spreadsheets-are-all-you-need.ai)
+ - date_published: 2024-02-24T07:20:03+00:00
+
  ## Large Language Models Capture-the-Flag (LLM CTF) Competition
  - [https://ctf.spylab.ai](https://ctf.spylab.ai)
  - date_published: 2024-05-10T05:01:52.474733+00:00
@@ -818,6 +912,10 @@
  - [https://apply.unify.ai](https://apply.unify.ai)
  - date_published: 2024-03-23T17:00:05+00:00
 
+ ## Unify Console: Login
+ - [https://console.unify.ai](https://console.unify.ai)
+ - date_published: 2024-07-14T05:08:47.417268+00:00
+
  ## Unify: The Best LLM on Every Prompt
  - [https://unify.ai](https://unify.ai)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -1002,6 +1100,10 @@
  - [https://blog.vespa.ai](https://blog.vespa.ai)
  - date_published: 2023-10-25T11:44:53.977138+00:00
 
+ ## Vespa Documentation
+ - [https://docs.vespa.ai](https://docs.vespa.ai)
+ - date_published: 2024-07-12T08:58:49+00:00
+
  ## Vespa - data + AI, online
  - [https://vespa.ai](https://vespa.ai)
  - date_published: 2024-06-15T11:12:27+00:00
@@ -1009,6 +1111,10 @@
  ## vi :: Home
  - [https://www.vi.ai](https://www.vi.ai)
  - date_published: 2023-11-13T09:04:47+00:00
+
+ ## Home Page
+ - [https://vian.ai](https://vian.ai)
+ - date_published: 2024-07-10T00:00:00+00:00
 
  ## Accounting AI software for faster invoice processing
  - [https://www.vic.ai](https://www.vic.ai)
@@ -1094,6 +1200,10 @@ Creative Solutions
  ## Voice-Swap
  - [https://www.voice-swap.ai](https://www.voice-swap.ai)
  - date_published: 2024-06-19T21:09:27.514105+00:00
+
+ ## Voicezen
+ - [https://voicezen.ai](https://voicezen.ai)
+ - date_published: 2021-10-02T04:35:14+00:00
 
  ## Jammable | Create AI Covers with Your Favorite Voices | AI-Powered Music Creation
  - [https://www.voicify.ai](https://www.voicify.ai)
@@ -1226,6 +1336,10 @@ Creative Solutions
  ## Wild Moose
  - [https://www.wildmoose.ai](https://www.wildmoose.ai)
  - date_published: 2023-10-25T11:45:06.456495+00:00
+
+ ## Business & Financial Intelligence About China & Global Supply Chains
+ - [https://www.wirescreen.ai](https://www.wirescreen.ai)
+ - date_published: 2024-07-12T00:00:00+00:00
 
  ## WisdomPlan: Your AI-Powered Learning Companion
  - [https://wisdomplan.ai](https://wisdomplan.ai)
@@ -2688,6 +2802,10 @@ Creative Solutions
  - [https://clubhopr.app](https://clubhopr.app)
  - date_published: 2023-10-25T11:45:50.679185+00:00
 
+ ## Log in | CMDC
+ - [https://stocknotifier.cmdcbv.app](https://stocknotifier.cmdcbv.app)
+ - date_published: 2024-07-14T03:22:18.911073+00:00
+
  ## Cmd J — ChatGPT extension for Google, StackOverflow, Gmail
  - [https://cmdj.app](https://cmdj.app)
  - date_published: 2023-03-21T18:37:33+00:00
@@ -2711,6 +2829,10 @@ Creative Solutions
  ## Crypto Tracker Trusted by 1 Million People Worldwide
  - [https://coinstats.app](https://coinstats.app)
  - date_published: 2024-07-03T10:45:02.219103+00:00
+
+ ## ColorHub.app
+ - [https://www.colorhub.app](https://www.colorhub.app)
+ - date_published: 2024-07-14T09:43:32.376488+00:00
 
  ## ColorMagic | AI Color Palette Generator
  - [https://colormagic.app](https://colormagic.app)
@@ -2802,8 +2924,8 @@ Creative Solutions
  - date_published: 2024-01-01T00:00:00+00:00
 
  ## COVID Shield
- - [https://www.covidshield.app](https://www.covidshield.app)
- - date_published: 2024-05-12T04:14:35.287763+00:00
+ - [https://covidshield.app](https://covidshield.app)
+ - date_published: 2020-09-08T14:12:22+00:00
 
  ## Expiry Tracking Fridge, Pantry and Recipes Manager App, Grocery Shopping List • CozZo Smart Kitchen App
  - [https://cozzo.app](https://cozzo.app)
@@ -2836,6 +2958,10 @@ Creative Solutions
  ## HTML + CSS
  - [https://445zww.csb.app](https://445zww.csb.app)
  - date_published: 2024-06-23T16:07:56.979273+00:00
+
+ ## Static Template
+ - [https://66rvj.csb.app](https://66rvj.csb.app)
+ - date_published: 2024-07-14T07:38:26.686703+00:00
 
  ## Sandbox - CodeSandbox
  - [https://6r7d5m.csb.app](https://6r7d5m.csb.app)
@@ -2909,6 +3035,10 @@ Creative Solutions
  - [https://web-analytics.danielroelfs.app](https://web-analytics.danielroelfs.app)
  - date_published: 2024-05-09T07:43:24.619656+00:00
 
+ ## Dataloop
+ - [https://www.dataloop.app](https://www.dataloop.app)
+ - date_published: 2024-07-14T23:16:15.671819+00:00
+
  ## DataPulse - Simple, fun & lightweight web analytics solution
  - [https://datapulse.app](https://datapulse.app)
  - date_published: 2024-06-16T20:49:07.461191+00:00
@@ -2921,6 +3051,10 @@ Creative Solutions
  ## Day One Journal
  - [https://www.dayone.app](https://www.dayone.app)
  - date_published: 2024-06-27T13:24:09.037578+00:00
+
+ ## Home | db8bot
+ - [https://db8bot.app](https://db8bot.app)
+ - date_published: 2024-07-14T10:17:23.066477+00:00
 
  ## DB-Views - Low-Code Cloud Database Frontend
  - [https://web.db-views.app](https://web.db-views.app)
@@ -3202,6 +3336,10 @@ Creative Solutions
  - [https://www.faithforward.app](https://www.faithforward.app)
  - date_published: 2024-06-19T21:26:14.903274+00:00
 
+ ## Fanbase | Next-Gen Social Media
+ - [https://fanbase.app](https://fanbase.app)
+ - date_published: 2024-07-14T09:21:17.533991+00:00
+
  ## Fantastical
  - [https://fantastical.app](https://fantastical.app)
  - date_published: 2024-02-02T00:00:00+00:00
@@ -3233,6 +3371,10 @@ Creative Solutions
  ## Sign in | featureOS
  - [https://app.featureos.app](https://app.featureos.app)
  - date_published: 2024-07-09T00:00:00+00:00
+
+ ## featureOS: Customer Feedback Management Tools and Software | featureOS
+ - [https://featureos.app](https://featureos.app)
+ - date_published: 2024-07-14T09:24:10.077751+00:00
 
  ## https://zenml.io
  - [https://zenml.featureos.app](https://zenml.featureos.app)
@@ -3344,6 +3486,10 @@ Creative Solutions
  - date_published: 2024-01-09T02:23:28.716049+00:00
  - tags: ['web browser']
 
+ ## Web Dev Articles
+ - [https://blog.flotes.app](https://blog.flotes.app)
+ - date_published: 2024-07-14T11:10:24.714449+00:00
+
  ## Flowershow
  - [https://flowershow.app](https://flowershow.app)
  - date_published: 2024-06-12T06:04:06.349932+00:00
@@ -3363,6 +3509,10 @@ Creative Solutions
  ## Flyde Backend Builder | Build and Debug Visually. Deploy in Seconds.
  - [https://www.flyde.app](https://www.flyde.app)
  - date_published: 2024-07-08T22:02:12.631855+00:00
+
+ ## Font-size clamp() generator
+ - [https://clamp.font-size.app](https://clamp.font-size.app)
+ - date_published: 2024-01-15T18:49:55+00:00
 
  ## fontspark.app
  - [https://fontspark.app](https://fontspark.app)
@@ -3476,6 +3626,10 @@ Creative Solutions
  - [https://www.getmicro.app](https://www.getmicro.app)
  - date_published: 2024-04-24T07:46:05+00:00
 
+ ## Notary
+ - [https://getnotary.app](https://getnotary.app)
+ - date_published: 2024-07-14T09:23:00.842670+00:00
+
  ## Shifted
  - [https://getshifted.app](https://getshifted.app)
  - date_published: 2024-04-29T03:46:35.988745+00:00
@@ -3508,6 +3662,10 @@ Creative Solutions
  ## Glambase - AI Influencer Creation Platform | Virtual Persona Generator
  - [https://glambase.app](https://glambase.app)
  - date_published: 2024-06-14T08:57:30.677799+00:00
+
+ ## glif - all prompts, no code AI sandbox • build AI workflows, apps, chatbots & more
+ - [https://glif.app](https://glif.app)
+ - date_published: 2024-07-14T22:02:33.558998+00:00
 
  ## Show HN: Glossarie – a new, immersive way to learn a language
  - [https://glossarie.app](https://glossarie.app)
@@ -3636,6 +3794,10 @@ Creative Solutions
  ## Alice - ChatGPT desktop app with superpowers!
  - [https://www.heyalice.app](https://www.heyalice.app)
  - date_published: 2024-06-18T00:00:00+00:00
+
+ ## HideMail: Protect Your Email Privacy with Random Aliases
+ - [https://hidemail.app](https://hidemail.app)
+ - date_published: 2024-07-14T10:19:15.020118+00:00
 
  ## HighTop
  - [https://hightop.app](https://hightop.app)
@@ -3871,170 +4033,4 @@ Creative Solutions
  ## Kosmik
  - [https://play.kosmik.app](https://play.kosmik.app)
  - date_published: 2024-06-12T09:25:29+00:00
-
- ## Kosmik - A better way to do for visual research
- - [https://www.kosmik.app](https://www.kosmik.app)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Umami
- - [https://umami-maurice.koyeb.app](https://umami-maurice.koyeb.app)
- - date_published: 2024-04-29T06:25:50.745749+00:00
-
- ## Kreya
- - [https://kreya.app](https://kreya.app)
- - date_published: 2024-05-17T13:57:30.881914+00:00
-
- ## Kukai
- - [https://wallet.kukai.app](https://wallet.kukai.app)
- - date_published: 2024-07-09T19:41:38.282727+00:00
-
- ## Smarta verktyg för bättre kundservice
- | Kundo
- - [https://kundo.app](https://kundo.app)
- - date_published: 2024-07-13T17:30:07.133510+00:00
-
- ## Kwote
- - [https://kwote.app](https://kwote.app)
- - date_published: 2024-05-06T15:18:28.406163+00:00
-
- ## lalista.app
- - [https://lalista.app](https://lalista.app)
- - date_published: 2024-05-10T06:40:39.694315+00:00
-
- ## LANDrop - Drop any files to any devices on your LAN
- - [https://landrop.app](https://landrop.app)
- - date_published: 2023-10-25T11:47:00.043387+00:00
-
- ## GitHub - hovancik/later-on: The reminder app
- - [https://lateron.app](https://lateron.app)
- - date_published: 2024-06-23T10:45:42.345002+00:00
-
- ## Lettercase™
- - [https://lettercase.app](https://lettercase.app)
- - date_published: 2024-07-04T11:01:34.731562+00:00
-
- ## Lightest.app
- - [https://www.lightest.app](https://www.lightest.app)
- - date_published: 2024-05-06T14:13:30.317692+00:00
-
- ## Lighthouse - Earn Cash Back on Your Next Lease
- - [https://lighthouse.app](https://lighthouse.app)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Linear – A better way to build products
- - [https://linear.app](https://linear.app)
- - date_published: 2023-10-25T11:47:02.657603+00:00
-
- ## LinearMouse | The mouse and trackpad utility for Mac.
- - [https://linearmouse.app](https://linearmouse.app)
- - date_published: 2023-10-25T08:37:25.135990+00:00
-
- ## @ederson
- - [https://lingi.app](https://lingi.app)
- - date_published: 2024-05-10T06:45:42.067046+00:00
-
- ## Linkjar
- - [https://linkjar.app](https://linkjar.app)
- - date_published: 2024-05-06T21:28:55.521684+00:00
-
- ## Linkwarden
- - [https://blog.linkwarden.app](https://blog.linkwarden.app)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Linkwarden
- - [https://cloud.linkwarden.app](https://cloud.linkwarden.app)
- - date_published: 2024-05-14T03:49:12.485860+00:00
-
- ## Linkwarden
- - [https://docs.linkwarden.app](https://docs.linkwarden.app)
- - date_published: 2024-05-14T03:49:09.242508+00:00
-
- ## Linkwarden
- - [https://linkwarden.app](https://linkwarden.app)
- - date_published: 2024-04-08T19:29:29.155254+00:00
- - tags: ['self-host', 'link aggregator', 'bookmark manager', 'internet archive']
-
- ## Welcome to {{ site.title }} - home redirected
- - [http://linshare.app](http://linshare.app)
- - date_published: 2023-10-10T12:58:56+00:00
-
- ## LinTO Studio
- - [https://studio.linto.app](https://studio.linto.app)
- - date_published: 2024-05-06T13:28:04+00:00
-
- ## Lion Accountability Browser - The first AI-Powered Accountability Browser with Parental Controls
- - [https://lionbrowser.app](https://lionbrowser.app)
- - date_published: 2023-08-28T23:52:26+00:00
-
- ## Listen and publish YouTube shows as podcasts - Listenbox
- - [https://listenbox.app](https://listenbox.app)
- - date_published: 2024-05-12T06:23:26.569730+00:00
-
- ## listmonk - Mailing list
- - [https://demo.listmonk.app](https://demo.listmonk.app)
- - date_published: 2024-05-14T03:49:19.242863+00:00
-
- ## listmonk - Free and open source self-hosted newsletter, mailing list manager, and transactional mails
- - [https://listmonk.app](https://listmonk.app)
- - date_published: 2024-02-04T00:00:00+00:00
- - tags: ['self-host', 'open source']
-
- ## LIVE24
- - [https://live24.app](https://live24.app)
- - date_published: 2024-07-03T12:34:56.024585+00:00
-
- ## Best Institutional Digital Asset Custody Platform
- - [https://www.lmnl.app](https://www.lmnl.app)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## The Local AI Playground
- - [https://www.localai.app](https://www.localai.app)
- - date_published: 2024-06-19T21:09:18.556837+00:00
-
- ## main [
-				Locus Map 4 - Knowledge Base]
- - [https://docs.locusmap.app](https://docs.locusmap.app)
- - date_published: 2024-06-20T12:18:27.864370+00:00
-
- ## Locus Live Tracking - Locus Live Tracking
- - [https://live-tracking.locusmap.app](https://live-tracking.locusmap.app)
- - date_published: 2024-06-20T12:18:29.502006+00:00
-
- ## Locus Map Web
- - [https://web.locusmap.app](https://web.locusmap.app)
- - date_published: 2024-06-10T13:00:31+00:00
-
- ## Locus Map - mobile outdoor navigation app
- - [https://www.locusmap.app](https://www.locusmap.app)
- - date_published: 2024-06-20T12:18:18.417773+00:00
- - tags: ['mobile app']
-
- ## Taiki Radio
- - [https://lofimusic.app](https://lofimusic.app)
- - date_published: 2024-04-29T07:45:26.290737+00:00
-
- ## Show HN: I created an app for you to be a more unpredictable romantic partner
- - [https://www.lovefuel.app](https://www.lovefuel.app)
- - date_published: 2024-05-12T19:14:39+00:00
-
- ## Quick Start
- - [https://learn.lowercase.app](https://learn.lowercase.app)
- - date_published: 2024-06-21T02:05:40.174002+00:00
-
- ## Lowercase – A simple way to take and share notes
- - [https://www.lowercase.app](https://www.lowercase.app)
- - date_published: 2024-05-03T14:39:49+00:00
- - tags: ['online tool', 'notes', 'monetization']
-
- ## Lucid visual collaboration suite: Log in
- - [https://admin.lucid.app](https://admin.lucid.app)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Lucid visual collaboration suite: Log in
- - [https://cdn.lucid.app](https://cdn.lucid.app)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Lucid visual collaboration suite: Log in
- - [https://lucid.app](https://lucid.app)
- - date_published: 2024-05-06T14:03:14.137469+00:00
 
