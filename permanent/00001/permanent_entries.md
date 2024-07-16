@@ -1,3 +1,31 @@
+ ## Build AI-Tools in seconds without code | FoxyApps
+ - [https://www.foxyapps.ai](https://www.foxyapps.ai)
+ - date_published: 2024-06-19T19:08:38.839125+00:00
+
+ ## Freeday AI | Revolutionizing Workflows with Generative AI Technology
+ - [https://www.freeday.ai](https://www.freeday.ai)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Free AI Image Generator - LearnWithHasan Tools 🤖
+ - [https://freeimage.ai](https://freeimage.ai)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## FreeSubtitles.ai
+ - [https://freesubtitles.ai](https://freesubtitles.ai)
+ - date_published: 2023-10-24T20:19:28.143608+00:00
+
+ ## Freshly.ai - Where AI meets the human mind
+ - [https://freshly.ai](https://freshly.ai)
+ - date_published: 2024-06-19T20:10:09.927141+00:00
+
+ ## FriendliAI - The Generative AI Infrastructure Company
+ - [https://friendli.ai](https://friendli.ai)
+ - date_published: 2024-06-21T02:19:12+00:00
+
+ ## Global Digital Sourcing Company - Frigate
+ - [https://frigate.ai](https://frigate.ai)
+ - date_published: 2024-03-27T00:27:00+00:00
+
  ## Fritz ai - The best AI tools for writing, designing, development, and more
  - [https://heartbeat.fritz.ai](https://heartbeat.fritz.ai)
  - date_published: 2024-03-02T00:00:00+00:00
@@ -334,6 +362,10 @@
  ## Guides.ai - Tutorials for Artificial Intelligence (AI)
  - [https://guides.ai](https://guides.ai)
  - date_published: 2023-11-12T22:06:18.850956+00:00
+
+ ## GuildForge - Autonomous Intelligence for Al
+ - [http://guildforge.ai](http://guildforge.ai)
+ - date_published: 2024-05-31T00:00:00+00:00
 
  ## Guru: Your ultimate AI friend right inside WhatsApp
  - [https://www.gurubot.ai](https://www.gurubot.ai)
@@ -764,8 +796,28 @@
  - [https://inschool.ai](https://inschool.ai)
  - date_published: 2024-06-24T11:18:33.191843+00:00
 
+ ## Inscribe
+ - [https://app.inscribe.ai](https://app.inscribe.ai)
+ - date_published: 2024-07-11T20:17:16+00:00
+
+ ## Overview
+ - [https://docs.inscribe.ai](https://docs.inscribe.ai)
+ - date_published: 2024-07-15T09:59:33.703480+00:00
+
+ ## Inscribe: Fraudulent Document Detection and AI Risk Agents
+ - [https://pages.inscribe.ai](https://pages.inscribe.ai)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## InscribeAI, Inc. Status
+ - [https://status.inscribe.ai](https://status.inscribe.ai)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Trust Center
+ - [https://trust.inscribe.ai](https://trust.inscribe.ai)
+ - date_published: 2024-07-15T09:59:54.838836+00:00
+
  ## Inscribe: Fraudulent Document & Risk Detection Software
- - [https://www.inscribe.ai](https://www.inscribe.ai)
+ - [https://inscribe.ai](https://inscribe.ai)
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## ZoomInfo Chat
@@ -2453,6 +2505,10 @@
  - [https://openrouter.ai](https://openrouter.ai)
  - date_published: 2024-05-24T19:35:09.789225+00:00
 
+ ## Visionary AI Virtual Assistants, AI Agents & AI Avatars | Openstream.ai
+ - [https://openstream.ai](https://openstream.ai)
+ - date_published: 2024-07-15T11:00:04+00:00
+
  ## OpenVINO 2024.2 — OpenVINO™  documentation
  - [https://docs.openvino.ai](https://docs.openvino.ai)
  - date_published: 2024-06-18T05:29:12+00:00
@@ -2568,6 +2624,10 @@
  ## Parabrain.ai | Expert AI trained by your knowledge
  - [https://www.parabrain.ai](https://www.parabrain.ai)
  - date_published: 2024-06-19T20:11:54.838721+00:00
+
+ ## Olivia
+ - [https://olivia.paradox.ai](https://olivia.paradox.ai)
+ - date_published: 2024-07-15T02:17:22.589261+00:00
 
  ## Olivia
  - [https://stg.paradox.ai](https://stg.paradox.ai)
@@ -3966,64 +4026,4 @@
  ## Test your Skill Level on Any Topic - SmartLifeSkills.AI
  - [https://smartlifeskills.ai](https://smartlifeskills.ai)
  - date_published: 2024-05-31T00:00:00+00:00
-
- ## SmartWriter | Personalised AI Cold Emails
- - [https://www.smartwriter.ai](https://www.smartwriter.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Custom Domain by Bitly
- - [https://smg.ai](https://smg.ai)
- - date_published: 2024-05-04T09:48:34.680838+00:00
-
- ## smol.ai
- - [https://smol.ai](https://smol.ai)
- - date_published: 2024-05-06T14:05:19.835873+00:00
-
- ## smudge.ai
- - [https://smudge.ai](https://smudge.ai)
- - date_published: 2024-05-17T01:38:28.050648+00:00
-
- ## Snorkel Brand System
- - [https://brand.snorkel.ai](https://brand.snorkel.ai)
- - date_published: 2024-06-22T13:06:04.917416+00:00
-
- ## Snorkel AI | Data-centric AI for the enterprise
- - [https://cdn.snorkel.ai](https://cdn.snorkel.ai)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## The Future of Data-Centric AI 2023 - Free virtual conference
- - [https://future.snorkel.ai](https://future.snorkel.ai)
- - date_published: 2024-06-22T13:06:01.713749+00:00
-
- ## Snorkel AI Security Portal | Powered by SafeBase
- - [https://security.snorkel.ai](https://security.snorkel.ai)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Snorkel AI | Data-centric AI for the enterprise
- - [https://snorkel.ai](https://snorkel.ai)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Custom LLM for Enterprise
- - [https://soca.ai](https://soca.ai)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Ecommerce Stores shouldn't be static | Loup
- - [https://socialchat.ai](https://socialchat.ai)
- - date_published: 2024-06-20T22:00:16.146299+00:00
-
- ## Stay curious about wine tech | softwine
- - [https://www.softwine.ai](https://www.softwine.ai)
- - date_published: 2023-10-25T11:42:48.387434+00:00
-
- ## Socratic Lab
- - [https://www.solab.ai](https://www.solab.ai)
- - date_published: 2024-07-10T01:49:32.090990+00:00
-
- ## SolidPoint
- - [https://solidpoint.ai](https://solidpoint.ai)
- - date_published: 2024-06-17T23:38:36+00:00
-
- ## Free Logo Maker & Logo Generator with Artificial Intelligence
- - [https://www.sologo.ai](https://www.sologo.ai)
- - date_published: 2024-06-14T08:59:22.311589+00:00
 

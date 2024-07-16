@@ -1,3 +1,63 @@
+ ## SmartWriter | Personalised AI Cold Emails
+ - [https://www.smartwriter.ai](https://www.smartwriter.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Custom Domain by Bitly
+ - [https://smg.ai](https://smg.ai)
+ - date_published: 2024-05-04T09:48:34.680838+00:00
+
+ ## smol.ai
+ - [https://smol.ai](https://smol.ai)
+ - date_published: 2024-05-06T14:05:19.835873+00:00
+
+ ## smudge.ai
+ - [https://smudge.ai](https://smudge.ai)
+ - date_published: 2024-05-17T01:38:28.050648+00:00
+
+ ## Snorkel Brand System
+ - [https://brand.snorkel.ai](https://brand.snorkel.ai)
+ - date_published: 2024-06-22T13:06:04.917416+00:00
+
+ ## Snorkel AI | Data-centric AI for the enterprise
+ - [https://cdn.snorkel.ai](https://cdn.snorkel.ai)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## The Future of Data-Centric AI 2023 - Free virtual conference
+ - [https://future.snorkel.ai](https://future.snorkel.ai)
+ - date_published: 2024-06-22T13:06:01.713749+00:00
+
+ ## Snorkel AI Security Portal | Powered by SafeBase
+ - [https://security.snorkel.ai](https://security.snorkel.ai)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Snorkel AI | Data-centric AI for the enterprise
+ - [https://snorkel.ai](https://snorkel.ai)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Custom LLM for Enterprise
+ - [https://soca.ai](https://soca.ai)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Ecommerce Stores shouldn't be static | Loup
+ - [https://socialchat.ai](https://socialchat.ai)
+ - date_published: 2024-06-20T22:00:16.146299+00:00
+
+ ## Stay curious about wine tech | softwine
+ - [https://www.softwine.ai](https://www.softwine.ai)
+ - date_published: 2023-10-25T11:42:48.387434+00:00
+
+ ## Socratic Lab
+ - [https://www.solab.ai](https://www.solab.ai)
+ - date_published: 2024-07-10T01:49:32.090990+00:00
+
+ ## SolidPoint
+ - [https://solidpoint.ai](https://solidpoint.ai)
+ - date_published: 2024-06-17T23:38:36+00:00
+
+ ## Free Logo Maker & Logo Generator with Artificial Intelligence
+ - [https://www.sologo.ai](https://www.sologo.ai)
+ - date_published: 2024-06-14T08:59:22.311589+00:00
+
  ## Support Archive - Solo - Free AI Website Creator - Support
  - [https://blog.soloist.ai](https://blog.soloist.ai)
  - date_published: 2024-07-07T10:10:14.329268+00:00
@@ -2156,6 +2216,10 @@ Creative Solutions
  - date_published: 2024-04-11T19:49:17+00:00
  - tags: ['web spam']
 
+ ## tath.am is Tatham Oddie
+ - [https://tath.am](https://tath.am)
+ - date_published: 2023-11-13T05:20:53+00:00
+
  ## Բարի գալուստ Տոյոտա Հայաստան - Toyota
  - [https://www.toyota.am](https://www.toyota.am)
  - date_published: 2024-04-10T00:00:00+00:00
@@ -2175,6 +2239,10 @@ Creative Solutions
  ## Գլխավոր էջ
  - [https://www.wwf.am](https://www.wwf.am)
  - date_published: 2024-07-03T01:45:05+00:00
+
+ ## Home
+ - [http://www.ypc.am](http://www.ypc.am)
+ - date_published: 2024-06-25T00:00:00+00:00
 
  ## ZAP - Cloud Manufacturing
  - [https://zap.am](https://zap.am)
@@ -2403,6 +2471,18 @@ Creative Solutions
  - [https://amplosion.app](https://amplosion.app)
  - date_published: 2021-09-29T15:30:55+00:00
 
+ ## Anduin Transactions
+ - [http://dataroom.anduin.app](http://dataroom.anduin.app)
+ - date_published: 2024-07-15T06:21:46.501224+00:00
+
+ ## Anduin Transactions
+ - [https://fundsub.anduin.app](https://fundsub.anduin.app)
+ - date_published: 2024-07-15T06:21:43.796819+00:00
+
+ ## Anduin Transactions
+ - [https://sign.anduin.app](https://sign.anduin.app)
+ - date_published: 2024-07-15T06:21:45.104619+00:00
+
  ## Angelfish • Private & Secure Personal Finance App For People Who Want Financial Freedom | Private & Secure Personal Finance App For People Who Want Financial Freedom!
  - [https://angelfish.app](https://angelfish.app)
  - date_published: 2023-10-25T11:45:39.444875+00:00
@@ -2426,6 +2506,10 @@ Creative Solutions
  ## AnySummary - Summarize any file with AI.
  - [https://www.anysummary.app](https://www.anysummary.app)
  - date_published: 2024-06-19T19:57:16.441219+00:00
+
+ ## Anytime Podcast Player
+ - [https://anytimeplayer.app](https://anytimeplayer.app)
+ - date_published: 2024-04-10T15:11:08+00:00
 
  ## AppBlock - Stay focused on iOS and Android
  - [https://appblock.app](https://appblock.app)
@@ -3328,9 +3412,17 @@ Creative Solutions
  - [https://f3d.app](https://f3d.app)
  - date_published: 2023-10-25T11:46:25.386150+00:00
 
+ ## Fable
+ - [https://create.fable.app](https://create.fable.app)
+ - date_published: 2024-07-15T07:08:17.058859+00:00
+
  ## Fable — The collaborative creative studio
  - [https://fable.app](https://fable.app)
  - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Fable Status
+ - [https://status.fable.app](https://status.fable.app)
+ - date_published: 2024-04-17T00:00:00+00:00
 
  ## Faith Forward | Tap Into Deeper Devotion With AI
  - [https://www.faithforward.app](https://www.faithforward.app)
@@ -3940,97 +4032,4 @@ Creative Solutions
  ## free personal status page for remote work | isBusy
  - [https://isbusy.app](https://isbusy.app)
  - date_published: 2024-07-02T20:05:16.015865+00:00
-
- ## iSH
- - [https://ish.app](https://ish.app)
- - date_published: 2024-05-04T15:17:55.168509+00:00
- - tags: ['project']
-
- ## IYK - Create tangible digital experiences
- - [https://iyk.app](https://iyk.app)
- - date_published: 2024-06-16T04:46:39.899855+00:00
-
- ## Jane App - Practice Management Software for Health &amp; Wellness Practitioners
- - [http://jane.app](http://jane.app)
- - date_published: 2024-06-15T21:22:18.120589+00:00
-
- ## Jeremy Grancher: Senior Front-End Web Developer in Sydney
- - [https://jerem.app](https://jerem.app)
- - date_published: 2024-06-23T08:15:27.861287+00:00
-
- ## JetpackCompose.app | The #1 destination for all things Jetpack Compose
- - [https://www.jetpackcompose.app](https://www.jetpackcompose.app)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Found
- - [https://joinfound.app](https://joinfound.app)
- - date_published: 2024-03-24T20:12:58+00:00
-
- ## Use JSDoc: Index
- - [https://jsdoc.app](https://jsdoc.app)
- - date_published: 2024-05-10T05:44:03.195138+00:00
-
- ## JS Paint
- - [https://jspaint.app](https://jspaint.app)
- - date_published: 2024-05-11T11:06:36.237132+00:00
-
- ## Overtext: The more the merrier
- - [https://just1.app](https://just1.app)
- - date_published: 2024-07-02T20:12:39.922287+00:00
-
- ## JustDeploy
- - [https://justdeploy.app](https://justdeploy.app)
- - date_published: 2024-07-02T14:29:04.604321+00:00
-
- ## JuxtaCode
- - [https://juxtacode.app](https://juxtacode.app)
- - date_published: 2024-07-09T08:32:39+00:00
-
- ## JuxtaText
- - [https://juxtatext.app](https://juxtatext.app)
- - date_published: 2024-07-05T10:20:11+00:00
-
- ## K-9 Mail Forum
- - [https://forum.k9mail.app](https://forum.k9mail.app)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Kaleidoscope Blog
- - [https://blog.kaleidoscope.app](https://blog.kaleidoscope.app)
- - date_published: 2024-06-23T15:32:52.679759+00:00
-
- ## Infinite Mac
- - [https://kanjitalk7.app](https://kanjitalk7.app)
- - date_published: 2024-05-08T08:45:20.501830+00:00
-
- ## Home
- - [https://kftray.app](https://kftray.app)
- - date_published: 2024-04-29T07:35:14.361341+00:00
-
- ## KidPix
- - [https://kidpix.app](https://kidpix.app)
- - date_published: 2024-06-18T23:38:40+00:00
-
- ## Kimchi Reader
- - [https://kimchi-reader.app](https://kimchi-reader.app)
- - date_published: 2024-01-09T02:23:29.846254+00:00
-
- ## kindaVim
- - [https://kindavim.app](https://kindavim.app)
- - date_published: 2024-05-10T07:00:29.670714+00:00
-
- ## No Bedtime™ for kindaVim
- - [https://subscribe.kindavim.app](https://subscribe.kindavim.app)
- - date_published: 2024-07-13T02:57:41.647632+00:00
-
- ## Knock | Notifications infrastructure for developers
- - [https://knock.app](https://knock.app)
- - date_published: 2023-12-12T22:57:59.485222+00:00
-
- ## Kolo – Generate working tests, instantly
- - [https://kolo.app](https://kolo.app)
- - date_published: 2024-06-18T06:33:24.771294+00:00
-
- ## Kosmik
- - [https://play.kosmik.app](https://play.kosmik.app)
- - date_published: 2024-06-12T09:25:29+00:00
 
