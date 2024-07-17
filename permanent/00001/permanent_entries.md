@@ -1,3 +1,23 @@
+ ## Solve UI
+ - [https://solve-widget.forethought.ai](https://solve-widget.forethought.ai)
+ - date_published: 2024-06-16T08:34:56.231319+00:00
+
+ ## Conceptual Boundaries Workshop: Feb. 10-12 in Austin, TX
+ - [https://formalizingboundaries.ai](https://formalizingboundaries.ai)
+ - date_published: 2024-07-04T06:10:24.237186+00:00
+
+ ## Formless by Typeform
+ - [https://formless.ai](https://formless.ai)
+ - date_published: 2024-05-10T02:43:09.886746+00:00
+
+ ## FounderPal — Marketing Tools for Solopreneurs Who Hate Marketing
+ - [https://founderpal.ai](https://founderpal.ai)
+ - date_published: 2023-10-25T11:38:57.349820+00:00
+
+ ## Foundr | Discover The Best AI Tools
+ - [https://foundr.ai](https://foundr.ai)
+ - date_published: 2024-06-19T19:54:00.177794+00:00
+
  ## Build AI-Tools in seconds without code | FoxyApps
  - [https://www.foxyapps.ai](https://www.foxyapps.ai)
  - date_published: 2024-06-19T19:08:38.839125+00:00
@@ -1204,6 +1224,10 @@
  - [https://komo.ai](https://komo.ai)
  - date_published: 2024-06-19T20:10:05.308757+00:00
 
+ ## Kompas AI
+ - [https://kompas.ai](https://kompas.ai)
+ - date_published: 2024-07-16T17:57:34.957622+00:00
+
  ## An unparalleled return on your content
  - [https://kontent.ai](https://kontent.ai)
  - date_published: 2024-06-21T20:21:36.878790+00:00
@@ -1255,6 +1279,10 @@
  ## World’s #1 Noise Cancelling App and AI Meeting Assistant
  - [https://krisp.ai](https://krisp.ai)
  - date_published: 2024-05-06T13:46:44.242865+00:00
+
+ ## Kalendar AI | The #1 AI platform for customer growth | Generate meetings, and revenue on autopilot
+ - [https://kriya.ai](https://kriya.ai)
+ - date_published: 2024-07-16T20:49:37.433647+00:00
 
  ## Krut AI - From Ideas to Visuals
  - [https://www.krut.ai](https://www.krut.ai)
@@ -2144,6 +2172,10 @@
  ## myEssai | AI Powered Essay Tutor
  - [https://myess.ai](https://myess.ai)
  - date_published: 2024-06-19T18:52:51.357524+00:00
+
+ ## My Hacker News
+ - [https://www.myhackernews.ai](https://www.myhackernews.ai)
+ - date_published: 2024-07-16T18:17:51.846953+00:00
 
  ## Kin. A personal AI for your private life.
  - [https://mykin.ai](https://mykin.ai)
@@ -3994,36 +4026,4 @@
  ## Introduction - SITUATIONAL AWARENESS: The Decade Ahead
  - [https://situational-awareness.ai](https://situational-awareness.ai)
  - date_published: 2024-06-12T23:57:53.496867+00:00
-
- ## Sivi: Your Multilingual AI Designer | Generative Design
- - [https://sivi.ai](https://sivi.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Sketch Logo AI
- - [https://www.sketchlogo.ai](https://www.sketchlogo.ai)
- - date_published: 2024-02-04T15:17:04.965374+00:00
-
- ## SketchPro - Meet your design copilot
- - [https://sketchpro.ai](https://sketchpro.ai)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## SkimIt.ai - Get an ai generated summary of any article delivered to your inbox
- - [https://www.skimit.ai](https://www.skimit.ai)
- - date_published: 2024-06-19T19:06:41.542875+00:00
-
- ## Slides
- - [https://www.slideas.ai](https://www.slideas.ai)
- - date_published: 2024-06-19T21:11:20.927804+00:00
-
- ## SmartflowAI - Simplify Workflows with generative AI
- - [https://slidemaker.ai](https://slidemaker.ai)
- - date_published: 2023-03-13T14:38:22+00:00
-
- ## AI 3D Model Generator - Create with Text to 3D
- - [https://www.sloyd.ai](https://www.sloyd.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Test your Skill Level on Any Topic - SmartLifeSkills.AI
- - [https://smartlifeskills.ai](https://smartlifeskills.ai)
- - date_published: 2024-05-31T00:00:00+00:00
 

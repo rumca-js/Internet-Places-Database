@@ -423,6 +423,10 @@
  - [https://careers.deliveroo.ae](https://careers.deliveroo.ae)
  - date_published: 2024-04-11T00:00:00+00:00
 
+ ## Status overview
+ - [https://downdetector.ae](https://downdetector.ae)
+ - date_published: 2024-07-16T00:00:00+00:00
+
  ## Mobile Plans, Home Internet & TV packages and much more! | du
  - [https://www.du.ae](https://www.du.ae)
  - date_published: 2024-06-10T12:47:01.781688+00:00
@@ -1205,6 +1209,10 @@
  - [https://julia.agency](https://julia.agency)
  - date_published: 2024-05-07T19:02:49.657928+00:00
 
+ ## JUST — Onafhankelijke ontwerp- en productiestudio uit Den Haag
+ - [https://just.agency](https://just.agency)
+ - date_published: 2024-07-16T16:59:15.305259+00:00
+
  ## Your Podcast Production Agency- Knucklehead Media Group
  - [https://knucklehead.agency](https://knucklehead.agency)
  - date_published: 2024-01-26T00:00:00+00:00
@@ -1240,6 +1248,10 @@
  ## Craft CMS Web Design & Development Agency in the UK - Mutual
  - [https://www.mutual.agency](https://www.mutual.agency)
  - date_published: 2024-07-02T19:45:33.332109+00:00
+
+ ## Home - Ometrics Agency
+ - [http://ometrics.agency](http://ometrics.agency)
+ - date_published: 2023-05-25T00:00:00+00:00
 
  ## Paranoid.Agency
  - [https://paranoid.agency](https://paranoid.agency)
@@ -1843,6 +1855,10 @@
  ## Autonomous | The everything store for Work From Home
  - [http://autonomous.ai](http://autonomous.ai)
  - date_published: 2024-01-18T00:00:00+00:00
+
+ ## AutoReels — Generate Faceless Videos Using AI For Youtube, TikTok, Instagram & More
+ - [https://autoreels.ai](https://autoreels.ai)
+ - date_published: 2024-07-16T17:57:12.340756+00:00
 
  ## AutoResponder.ai - Auto Reply Bot
  - [https://www.autoresponder.ai](https://www.autoresponder.ai)
@@ -3593,6 +3609,10 @@ Welcome
  - [https://etched.ai](https://etched.ai)
  - date_published: 2023-12-16T23:31:29+00:00
 
+ ## Eureka Labs
+ - [https://eurekalabs.ai](https://eurekalabs.ai)
+ - date_published: 2024-07-16T00:00:00+00:00
+
  ## EvaDB: Bring AI inside your Database System
  - [https://evadb.ai](https://evadb.ai)
  - date_published: 2024-05-06T09:19:03.361531+00:00
@@ -4008,24 +4028,4 @@ Welcome
  ## Generative AI Platform for CX Automation | Forethought
  - [https://forethought.ai](https://forethought.ai)
  - date_published: 2021-10-04T23:05:00+00:00
-
- ## Solve UI
- - [https://solve-widget.forethought.ai](https://solve-widget.forethought.ai)
- - date_published: 2024-06-16T08:34:56.231319+00:00
-
- ## Conceptual Boundaries Workshop: Feb. 10-12 in Austin, TX
- - [https://formalizingboundaries.ai](https://formalizingboundaries.ai)
- - date_published: 2024-07-04T06:10:24.237186+00:00
-
- ## Formless by Typeform
- - [https://formless.ai](https://formless.ai)
- - date_published: 2024-05-10T02:43:09.886746+00:00
-
- ## FounderPal — Marketing Tools for Solopreneurs Who Hate Marketing
- - [https://founderpal.ai](https://founderpal.ai)
- - date_published: 2023-10-25T11:38:57.349820+00:00
-
- ## Foundr | Discover The Best AI Tools
- - [https://foundr.ai](https://foundr.ai)
- - date_published: 2024-06-19T19:54:00.177794+00:00
 

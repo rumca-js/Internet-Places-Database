@@ -1,3 +1,231 @@
+ ## Blogger
+ - [http://danieladelias.blogspot.com.br](http://danieladelias.blogspot.com.br)
+ - date_published: 2024-07-12T21:04:42.798842+00:00
+
+ ## Galera Record
+ - [https://galerarecord.blogspot.com.br](https://galerarecord.blogspot.com.br)
+ - date_published: 2024-05-10T06:57:46.657878+00:00
+
+ ## Blog LabCisco
+ - [http://labcisco.blogspot.com.br](http://labcisco.blogspot.com.br)
+ - date_published: 2024-07-06T20:43:15+00:00
+
+ ## PyVmMonitor
+ - [http://pyvmmonitor.blogspot.com.br](http://pyvmmonitor.blogspot.com.br)
+ - date_published: 2024-03-08T06:45:47+00:00
+
+ ## Serviço Bloomberg Professional | Bloomberg Brasil
+ - [https://www.bloomberg.com.br](https://www.bloomberg.com.br)
+ - date_published: 2024-07-13T02:17:37.739406+00:00
+
+ ## Beleza Natual - Crespos e Spray
+ - [http://www.bncachos.com.br](http://www.bncachos.com.br)
+ - date_published: 2023-08-04T16:26:35+00:00
+
+ ## Brazil
+ - [https://boeing.com.br](https://boeing.com.br)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Home - Bons Fluidos
+ - [https://bonsfluidos.com.br](https://bonsfluidos.com.br)
+ - date_published: 2024-07-11T17:33:22.414185+00:00
+
+ ## Brasil de Fato
+ - [https://www.brasildefato.com.br](https://www.brasildefato.com.br)
+ - date_published: 2024-06-28T21:41:57.628853+00:00
+
+ ## Bright Data - A plataforma de dados da Web nº 1 do mundo
+ - [https://brightdata.com.br](https://brightdata.com.br)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Brindes - Brindes Personalizados, Brindes Promocionais, Brinde do Bem, Brindes Corporativos, Brindes Ecológicos, Personalizados
+ - [http://brindedobem.com.br](http://brindedobem.com.br)
+ - date_published: 2024-06-30T02:19:05.451225+00:00
+
+ ## Britannica Education - Parceira na digitalização na educação
+ - [https://britannica.com.br](https://britannica.com.br)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Brute XSS
+ - [https://brutelogic.com.br](https://brutelogic.com.br)
+ - date_published: 2024-06-19T22:50:54.740340+00:00
+
+ ## Buser, o aplicativo do ônibus. Uma nova forma de viajar e economizar até 60%!
+ - [https://www.buser.com.br](https://www.buser.com.br)
+ - date_published: 2024-06-19T08:27:52.589989+00:00
+
+ ## Novo PicPay Consignado: mais rápido e barato
+ - [https://bxblue.com.br](https://bxblue.com.br)
+ - date_published: 2024-05-08T06:16:16.296357+00:00
+
+ ## Caju Multibenefícios | Benefícios corporativos para sua empresa
+ - [https://www.caju.com.br](https://www.caju.com.br)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Canal 3 Expo 2023 - Canal 3 Expo
+ - [https://canal3expo.com.br](https://canal3expo.com.br)
+ - date_published: 2024-05-08T10:33:09.380279+00:00
+
+ ## Casas de Apostas - Casa de Apostas
+ - [https://casaapostas.com.br](https://casaapostas.com.br)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## CASU/UFMG
+ - [https://casu.com.br](https://casu.com.br)
+ - date_published: 2024-05-11T08:08:40.024641+00:00
+
+ ## CAURJ
+ - [https://www.caurj.com.br](https://www.caurj.com.br)
+ - date_published: 2024-07-13T18:13:33.187041+00:00
+
+ ## CAURN – Caixa Assistencial Universitária do Rio Grande do Norte | O plano de saúde dos funcionários da UFRN, IFRN e Entidades Associadas
+ - [http://www.caurn.com.br](http://www.caurn.com.br)
+ - date_published: 2024-07-13T18:13:30.765394+00:00
+
+ ## Revendas CEDET
+ - [https://revendas.cedet.com.br](https://revendas.cedet.com.br)
+ - date_published: 2024-06-21T19:58:14.080606+00:00
+
+ ## Celso Palmeira Neto's HP
+ - [https://celsoneto.com.br](https://celsoneto.com.br)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Chrysler Home
+ - [https://www.chrysler.com.br](https://www.chrysler.com.br)
+ - date_published: 2024-06-17T11:44:17+00:00
+
+ ## CineBuzz
+ - [https://cinebuzz.com.br](https://cinebuzz.com.br)
+ - date_published: 2024-07-11T17:33:12+00:00
+
+ ## Citroën Home
+ - [https://www.citroen.com.br](https://www.citroen.com.br)
+ - date_published: 2023-12-11T16:02:47.705230+00:00
+
+ ## Citroën Advisor – Compartilhe Sua Opinião
+ - [http://www.citroen-advisor.com.br](http://www.citroen-advisor.com.br)
+ - date_published: 2024-06-19T08:44:57.011167+00:00
+
+ ## Linkbynet - En construction
+ - [https://www.citroenorigins.com.br](https://www.citroenorigins.com.br)
+ - date_published: 2018-04-18T13:00:13+00:00
+
+ ## O Tempo
+ - [https://www.climadobrasil.com.br](https://www.climadobrasil.com.br)
+ - date_published: 2024-06-25T17:30:51.425105+00:00
+
+ ## Clima & Radar Brasil
+ - [https://climaeradar.com.br](https://climaeradar.com.br)
+ - date_published: 2024-05-07T13:25:28.245646+00:00
+
+ ## Clima e previsão do tempo: Meteorologia é na Climatempo!
+ - [https://www.climatempo.com.br](https://www.climatempo.com.br)
+ - date_published: 2024-06-19T08:25:30.872543+00:00
+
+ ## Blog CloudScript
+ - [https://blog.cloudscript.com.br](https://blog.cloudscript.com.br)
+ - date_published: 2024-07-13T09:31:41.909631+00:00
+
+ ## 'Serviços em Cloud Computing | CloudScript'
+ - [https://cloudscript.com.br](https://cloudscript.com.br)
+ - date_published: 2024-05-11T07:03:29.671668+00:00
+
+ ## Resort all-Inclusive: viagens no Brasil e no mundo | Club Med
+ - [https://www.clubmed.com.br](https://www.clubmed.com.br)
+ - date_published: 2024-05-10T06:56:17.662518+00:00
+
+ ## Working at Club Med
+ - [http://www.clubmedjobs.com.br](http://www.clubmedjobs.com.br)
+ - date_published: 2024-07-13T02:14:17.693263+00:00
+
+ ## CNN Brasil
+ - [https://www.cnnbrasil.com.br](https://www.cnnbrasil.com.br)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## CBR
+ - [https://codigobrazuca.com.br](https://codigobrazuca.com.br)
+ - date_published: 2024-06-16T05:05:22.581828+00:00
+
+ ## Código Fonte – Tecnologia de [a-Z]
+ - [https://codigofonte.com.br](https://codigofonte.com.br)
+ - date_published: 2024-05-06T14:19:59.313706+00:00
+
+ ## Compilado do Código Fonte TV
+ - [https://compilado.codigofonte.com.br](https://compilado.codigofonte.com.br)
+ - date_published: 2024-06-23T12:31:07.690087+00:00
+
+ ## Pesquisa Salarial de Programadores 2024 - Código Fonte TV
+ - [https://pesquisa.codigofonte.com.br](https://pesquisa.codigofonte.com.br)
+ - date_published: 2024-06-23T12:31:10.754794+00:00
+
+ ## Saúde e Cuidado Bucal | Colgate®
+ - [https://www.colgate.com.br](https://www.colgate.com.br)
+ - date_published: 2021-05-17T00:00:00+00:00
+
+ ## Collabora | Consultoria Open Source
+ - [https://collabora.com.br](https://collabora.com.br)
+ - date_published: 2022-09-28T21:26:08+00:00
+
+ ## COMARCH - Gestão de fidelização, Intercâmbio eletrônico de dados, Telecomunicações
+ - [https://comarch.com.br](https://comarch.com.br)
+ - date_published: 2024-05-12T04:00:55.746668+00:00
+
+ ## Grupo Companhia das Letras
+ - [https://www.companhiadasletras.com.br](https://www.companhiadasletras.com.br)
+ - date_published: 2024-06-28T14:51:13.975249+00:00
+
+ ## Compaq
+ - [https://compaq.com.br](https://compaq.com.br)
+ - date_published: 2023-12-21T13:09:59+00:00
+
+ ## Concreserv - Loja Virtual
+ - [https://www.concreserv.com.br](https://www.concreserv.com.br)
+ - date_published: 2024-02-29T16:46:28+00:00
+
+ ## CONECTIVA | Análises dos Melhores Produtos Online (#10 Melhores)
+ - [http://www.conectiva.com.br](http://www.conectiva.com.br)
+ - date_published: 2024-06-30T06:59:10.795502+00:00
+
+ ## Home | Contract Treinamentos
+ - [https://contracttreinamentos.com.br](https://contracttreinamentos.com.br)
+ - date_published: 2022-12-22T00:00:00+00:00
+
+ ## Index of /
+ - [https://loja.contracttreinamentos.com.br](https://loja.contracttreinamentos.com.br)
+ - date_published: 2021-06-24T00:00:00+00:00
+
+ ## Coquetel | A casa dos seus jogos e passatempos preferidos
+ - [https://www.coquetel.com.br](https://www.coquetel.com.br)
+ - date_published: 2024-07-13T02:18:28+00:00
+
+ ## Correios
+ - [http://www.correios.com.br](http://www.correios.com.br)
+ - date_published: 2024-07-13T18:19:11.459095+00:00
+
+ ## CQS
+ - [https://cqsfv.com.br](https://cqsfv.com.br)
+ - date_published: 2024-06-26T21:56:43.931577+00:00
+
+ ## Jogos grátis online aqui na CrazyGames | Jogue Agora!
+ - [https://crazygames.com.br](https://crazygames.com.br)
+ - date_published: 2024-05-08T06:51:36.310066+00:00
+
+ ## Cultura Acadêmica – E-books gratuitos
+ - [https://culturaacademica.com.br](https://culturaacademica.com.br)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Seja uma au pair na Estados Unidos | Cultural Care
+ - [https://www.culturalcare.com.br](https://www.culturalcare.com.br)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Home | My Site
+ - [https://culturama.com.br](https://culturama.com.br)
+ - date_published: 2024-05-10T06:57:00.183581+00:00
+
+ ## Cursos Online com Certificados - Cursos 24 Horas
+ - [http://www.cursos24horas.com.br](http://www.cursos24horas.com.br)
+ - date_published: 2024-07-15T06:19:03.980134+00:00
+
  ## Instituto Municipal de Turismo de Curitiba
  - [https://curtacuritiba.com.br](https://curtacuritiba.com.br)
  - date_published: 2024-06-12T11:18:50.421305+00:00
@@ -1262,6 +1490,10 @@
  ## O melhor catálogo de cinema em streaming
  - [https://www.telecineplay.com.br](https://www.telecineplay.com.br)
  - date_published: 2024-06-19T08:27:49.826141+00:00
+
+ ## Tetra Tech América do Sul
+ - [https://www.tetratech.com.br](https://www.tetratech.com.br)
+ - date_published: 2024-07-11T00:00:00+00:00
 
  ## The Enemy - A maior plataforma de games do Brasil
  - [https://www.theenemy.com.br](https://www.theenemy.com.br)
@@ -3221,6 +3453,10 @@
  - [https://andrewking.ca](https://andrewking.ca)
  - date_published: 2024-06-23T15:44:43.918702+00:00
 
+ ## Andrew Moore
+ - [https://andrewmoore.ca](https://andrewmoore.ca)
+ - date_published: 2024-07-13T00:00:00+00:00
+
  ## Latest | Andy Holmes
  - [https://www.andyholmes.ca](https://www.andyholmes.ca)
  - date_published: 2024-06-11T00:00:00+00:00
@@ -3677,7 +3913,7 @@
  - date_published: 2024-03-19T08:48:24+00:00
 
  ## *Reflective Disequilibrium*
- - [http://reflectivedisequilibrium.blogspot.ca](http://reflectivedisequilibrium.blogspot.ca)
+ - [https://reflectivedisequilibrium.blogspot.ca](https://reflectivedisequilibrium.blogspot.ca)
  - date_published: 2020-10-15T00:00:00+00:00
 
  ## Thrilling Wonder Artwork
@@ -3711,6 +3947,10 @@
  ## Create, Print, & Sell Professional-Quality Photo Books | Blurb
  - [https://www.blurb.ca](https://www.blurb.ca)
  - date_published: 2024-02-24T00:00:00+00:00
+
+ ## Home - B'nai Brith Canada - B'nai Brith Canada
+ - [http://www.bnaibrith.ca](http://www.bnaibrith.ca)
+ - date_published: 2024-06-27T00:00:00+00:00
 
  ## BNN Bloomberg - Canadian Business News, TSX Today, interest rates and Bank of Canada coverage
  - [https://www.bnnbloomberg.ca](https://www.bnnbloomberg.ca)
@@ -3783,245 +4023,4 @@
  ## Brar Homes Ltd. | Calgary
  - [https://brarhomes.ca](https://brarhomes.ca)
  - date_published: 2024-06-23T11:43:13+00:00
-
- ## The Breach
- - [https://breachmedia.ca](https://breachmedia.ca)
- - date_published: 2023-10-25T12:04:07.809857+00:00
-
- ## BreeLove Services Home
- - [https://www.breelove.ca](https://www.breelove.ca)
- - date_published: 2024-07-11T17:19:57.190313+00:00
-
- ## Brennan Kenneth Brown – Medium
- - [https://blog.brennanbrown.ca](https://blog.brennanbrown.ca)
- - date_published: 2024-07-02T19:06:12.368269+00:00
-
- ## Brennan Kenneth Brown: Digital Marketer & Web Developer
- - [https://brennanbrown.ca](https://brennanbrown.ca)
- - date_published: 2024-05-07T23:14:05.571089+00:00
-
- ## This is the default server vhost
- - [http://www.bridalshops.ca](http://www.bridalshops.ca)
- - date_published: 2024-06-24T11:23:01+00:00
-
- ## Home - Brighton Speedway
- - [https://www.brightonspeedway.ca](https://www.brightonspeedway.ca)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## The British Colonist 1858-1980
- - [https://britishcolonist.ca](https://britishcolonist.ca)
- - date_published: 2021-11-05T18:55:30+00:00
-
- ## Brockville Squadron, Canadian Power and Sail Squadrons
- - [https://www.brockcps.ca](https://www.brockcps.ca)
- - date_published: 2023-11-07T13:41:00+00:00
-
- ## Welcome to Brock University
- - [https://brocku.ca](https://brocku.ca)
- - date_published: 2024-07-15T03:53:50.311767+00:00
-
- ## Printers, Labellers, Scanners, Fax & Sewing | Brother Canada
- - [https://brother.ca](https://brother.ca)
- - date_published: 2024-06-17T21:03:04.028127+00:00
-
- ## Brother Canada Inspiration
- - [https://inspiration.brother.ca](https://inspiration.brother.ca)
- - date_published: 2024-06-17T21:03:04+00:00
-
- ## Brother Canada - All In Ones, Laser Printers, Fax Machines, Label Printers, Sewing and more...
- - [https://service.brother.ca](https://service.brother.ca)
- - date_published: 2024-06-17T21:02:59.277372+00:00
-
- ## Bruce Dowbiggin Books
- - [http://brucedowbigginbooks.ca](http://brucedowbigginbooks.ca)
- - date_published: 2024-06-26T22:37:03.858607+00:00
-
- ## Buick Canada | SUV & Crossover | Envista, Encore GX, Envision, Enclave
- - [https://www.buick.ca](https://www.buick.ca)
- - date_published: 2024-06-20T07:46:19.676571+00:00
-
- ## Custom Built Homes | Rendellhomes.com | Nova Scotia
- - [https://builtwise.ca](https://builtwise.ca)
- - date_published: 2024-07-11T17:20:14.589548+00:00
-
- ## CADDAC: Canadian ADHD Awareness | Education | Advocacy
- - [https://caddac.ca](https://caddac.ca)
- - date_published: 2024-05-07T14:16:38.480742+00:00
-
- ## ADHD Learn – Provider Resources for ADHD
- - [https://adhdlearn.caddra.ca](https://adhdlearn.caddra.ca)
- - date_published: 2024-07-11T17:19:30.679047+00:00
-
- ## Cadillac Canada | Luxury Cars, SUVs & Crossovers
- - [https://www.cadillaccanada.ca](https://www.cadillaccanada.ca)
- - date_published: 2024-06-20T07:44:42.488732+00:00
-
- ## CAF Canada - Creating Opportunities for Canadians to support charitable projects around the world
- - [https://www.cafcanada.ca](https://www.cafcanada.ca)
- - date_published: 2024-07-15T03:38:40.178021+00:00
-
- ## CafePress | Best merchandise to express yourself
- - [http://www.cafepress.ca](http://www.cafepress.ca)
- - date_published: 2024-04-29T03:19:10.117588+00:00
-
- ## Home - University of Calgary Bookstore
- - [https://www.calgarybookstore.ca](https://www.calgarybookstore.ca)
- - date_published: 2024-04-30T05:19:03.329840+00:00
-
- ## Callysto – Building Tomorrows Digital Leaders
- - [https://callysto.ca](https://callysto.ca)
- - date_published: 2024-06-30T08:29:52.284676+00:00
-
- ## Cam Champ
- - [https://camchamp.ca](https://camchamp.ca)
- - date_published: 2023-03-16T00:00:00+00:00
-
- ## Support CAMH
- - [https://give.camh.ca](https://give.camh.ca)
- - date_published: 2024-05-10T04:57:08.647789+00:00
-
- ## The Centre for Addiction and Mental Health
- - [https://camh.ca](https://camh.ca)
- - date_published: 2023-12-11T10:52:06.321718+00:00
-
- ## CAMH: Centre for Addiction & Mental Health--
- - [https://www.camhx.ca](https://www.camhx.ca)
- - date_published: 2012-05-17T00:00:00+00:00
-
- ## Home
- - [https://www.campaigncanada.ca](https://www.campaigncanada.ca)
- - date_published: 2023-11-16T00:00:00+00:00
-
- ## York University - Shibboleth - Loading Session Information
- - [https://yorku.campuslabs.ca](https://yorku.campuslabs.ca)
- - date_published: 2024-05-09T06:47:33.598625+00:00
-
- ## GC Articles
- - [https://articles.alpha.canada.ca](https://articles.alpha.canada.ca)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Canada.ca
- - [https://canada.ca](https://canada.ca)
- - date_published: 2024-07-13T12:53:54+00:00
- - tags: ['government', 'canada']
-
- ## Home - GC Design System
- - [https://design-system.alpha.canada.ca](https://design-system.alpha.canada.ca)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Products - Canadian Digital Service
- - [https://digital.canada.ca](https://digital.canada.ca)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Health Infobase - Health data in Canada - Canada.ca
- - [https://health-infobase.canada.ca](https://health-infobase.canada.ca)
- - date_published: 2024-05-11T08:23:31.778833+00:00
-
- ## Homepage | Impact Canada
- - [https://impact.canada.ca](https://impact.canada.ca)
- - date_published: 2024-07-15T07:31:46.816442+00:00
-
- ## GC Notify | Notification GC
- - [https://notification.canada.ca](https://notification.canada.ca)
- - date_published: 2024-07-10T05:34:00.372106+00:00
-
- ## Home - National Research Council Canada
- - [https://nrc.canada.ca](https://nrc.canada.ca)
- - date_published: 2024-07-01T16:00:37+00:00
-
- ## Produits - Service numérique canadien
- - [https://numerique.canada.ca](https://numerique.canada.ca)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Parks Canada
- - [https://parks.canada.ca](https://parks.canada.ca)
- - date_published: 2024-06-21T09:43:27.846233+00:00
-
- ## Recalls and Safety Alerts / Rappels et avis de securité
- - [https://recalls-rappels.canada.ca](https://recalls-rappels.canada.ca)
- - date_published: 2024-07-07T09:45:52.121727+00:00
-
- ## Infobase Santé - Données sur la santé au Canada - Canada.ca
- - [https://sante-infobase.canada.ca](https://sante-infobase.canada.ca)
- - date_published: 2024-01-22T12:12:25+00:00
-
- ## Accueil - Système de design GC
- - [https://systeme-design.alpha.canada.ca](https://systeme-design.alpha.canada.ca)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Transport Canada / Transports Canada
- - [https://tc.canada.ca](https://tc.canada.ca)
- - date_published: 2024-01-31T13:48:29+00:00
-
- ## Canada Blockchain Consortium
- - [https://www.canadablockchain.ca](https://www.canadablockchain.ca)
- - date_published: 2024-06-16T02:52:13+00:00
-
- ## Canada Council for the Arts
- - [https://canadacouncil.ca](https://canadacouncil.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Canadian Parliamentary Historical Resources
- - [http://parl.canadiana.ca](http://parl.canadiana.ca)
- - date_published: 2024-07-10T05:30:25.698289+00:00
-
- ## Attention Required! | Cloudflare
- - [https://corp.canadiantire.ca](https://corp.canadiantire.ca)
- - date_published: 2024-06-19T09:55:41.264802+00:00
-
- ## Shop Canada’s Top Department Store Online & at 500+ Locations
- - [https://www.canadiantire.ca](https://www.canadiantire.ca)
- - date_published: 2024-06-23T04:07:29+00:00
-
- ## National Canadian Film Day
- - [https://canfilmday.ca](https://canfilmday.ca)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## CanSpace - Canada's Best Web Hosting and Domain Name Provider
- - [https://www.canspace.ca](https://www.canspace.ca)
- - date_published: 2024-07-14T08:03:00.352877+00:00
-
- ## Find Software
- - [https://www.capterra.ca](https://www.capterra.ca)
- - date_published: 2024-06-13T06:42:11.073248+00:00
-
- ## Carleton 360
- - [https://360.carleton.ca](https://360.carleton.ca)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Undergraduate Admissions - Carleton University
- - [https://admissions.carleton.ca](https://admissions.carleton.ca)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Carleton Alumni | Carleton University
- - [https://alumni.carleton.ca](https://alumni.carleton.ca)
- - date_published: 2024-07-08T16:37:07.342967+00:00
-
- ## Carleton Athletics | Carleton University
- - [https://athletics.carleton.ca](https://athletics.carleton.ca)
- - date_published: 2024-07-08T16:36:58.908517+00:00
-
- ## Sign In
- - [https://brightspace.carleton.ca](https://brightspace.carleton.ca)
- - date_published: 2024-07-08T16:37:14.924044+00:00
-
- ## Calendars < Carleton University
- - [https://calendar.carleton.ca](https://calendar.carleton.ca)
- - date_published: 2024-06-07T20:10:37+00:00
-
- ## Carleton University
- - [https://carleton.ca](https://carleton.ca)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Dining Services | Carleton University
- - [https://dining.carleton.ca](https://dining.carleton.ca)
- - date_published: 2024-07-08T16:37:03.593692+00:00
-
- ## Events Calendar - Carleton University
- - [https://events.carleton.ca](https://events.carleton.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Carleton FutureFunder
- - [https://futurefunder.carleton.ca](https://futurefunder.carleton.ca)
- - date_published: 2024-07-08T16:37:19.054705+00:00
 

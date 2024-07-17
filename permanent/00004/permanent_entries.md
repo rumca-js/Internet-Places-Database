@@ -1,3 +1,79 @@
+ ## Tina
+ - [https://quick-edit-demo.vercel.app](https://quick-edit-demo.vercel.app)
+ - date_published: 2024-05-06T14:40:29.182157+00:00
+
+ ## Quincy Oghenetejiri || Software Developer
+ - [https://quincyoghenetejiri.vercel.app](https://quincyoghenetejiri.vercel.app)
+ - date_published: 2024-06-02T07:03:15.909336+00:00
+
+ ## Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai
+ - [https://ragdoll-studio.vercel.app](https://ragdoll-studio.vercel.app)
+ - date_published: 2024-03-31T05:43:15+00:00
+
+ ## Raycast Merch
+ - [https://raycast-swag-store-99oohduqx-raycastapp.vercel.app](https://raycast-swag-store-99oohduqx-raycastapp.vercel.app)
+ - date_published: 2024-06-29T10:21:46.888944+00:00
+
+ ## Ray.so - Create beautiful images of your code
+ - [https://ray-so-v2-7sfdrbevj-raycastapp.vercel.app](https://ray-so-v2-7sfdrbevj-raycastapp.vercel.app)
+ - date_published: 2024-06-23T21:31:35.339871+00:00
+
+ ## Daily habit tracker
+ - [https://rdht.vercel.app](https://rdht.vercel.app)
+ - date_published: 2024-07-06T22:37:13+00:00
+
+ ## Introduction – react-tweet
+ - [https://react-tweet.vercel.app](https://react-tweet.vercel.app)
+ - date_published: 2024-06-23T07:11:01.964652+00:00
+
+ ## Realism Effects - three.js
+ - [https://realism-effects-git-v2-obeqz.vercel.app](https://realism-effects-git-v2-obeqz.vercel.app)
+ - date_published: 2024-05-07T13:26:02.366307+00:00
+
+ ## Realism Effects - three.js
+ - [https://realism-effects-obeqz.vercel.app](https://realism-effects-obeqz.vercel.app)
+ - date_published: 2024-05-07T13:25:44.841173+00:00
+
+ ## Realism Effects - three.js
+ - [https://realism-effects.vercel.app](https://realism-effects.vercel.app)
+ - date_published: 2024-06-29T01:40:51.019909+00:00
+
+ ## Reciple
+ - [https://reciple-game.vercel.app](https://reciple-game.vercel.app)
+ - date_published: 2024-07-11T10:33:13.740116+00:00
+
+ ## Refactor Like a Superhero
+ - [https://refactor-like-a-superhero.vercel.app](https://refactor-like-a-superhero.vercel.app)
+ - date_published: 2024-07-09T19:01:53.253056+00:00
+
+ ## Remix Firebase Todo App
+ - [https://remix-firebase-todo.vercel.app](https://remix-firebase-todo.vercel.app)
+ - date_published: 2024-07-08T15:49:53.797736+00:00
+
+ ## Remix OpenAI - Content Generator
+ - [https://remix-openai.vercel.app](https://remix-openai.vercel.app)
+ - date_published: 2024-07-10T11:14:13.372690+00:00
+
+ ## Remix Page Blocks
+ - [https://remix-page-blocks.vercel.app](https://remix-page-blocks.vercel.app)
+ - date_published: 2023-10-25T11:50:47.486938+00:00
+
+ ## Enhance Your Photos
+ - [https://rentoor.vercel.app](https://rentoor.vercel.app)
+ - date_published: 2024-06-19T19:56:38.833651+00:00
+
+ ## Rephraser AI
+ - [https://rephraser.vercel.app](https://rephraser.vercel.app)
+ - date_published: 2024-06-19T19:32:55.207107+00:00
+
+ ## Rocky Mountain PBS | Rocky Mountain PBS
+ - [https://rmpbs-stage.vercel.app](https://rmpbs-stage.vercel.app)
+ - date_published: 2024-07-07T05:14:59.730155+00:00
+
+ ## Row Zero - The World's Fastest Spreadsheet
+ - [https://rz-web.vercel.app](https://rz-web.vercel.app)
+ - date_published: 2024-05-09T07:20:33.563427+00:00
+
  ## SaasRock | The Remix SaaS Development Framework
  - [https://saasrock-com.vercel.app](https://saasrock-com.vercel.app)
  - date_published: 2024-03-22T00:00:00+00:00
@@ -575,6 +651,10 @@
  ## wisio | Write Science Powered by AI - AI for scientific writing
  - [https://wisio.app](https://wisio.app)
  - date_published: 2024-06-01T14:59:43+00:00
+
+ ## Blaze - Scale your Marketing with Blaze AI
+ - [https://www.withblaze.app](https://www.withblaze.app)
+ - date_published: 2024-07-16T00:00:00+00:00
 
  ## No Naps™ for Wooshy
  - [https://subscribe.wooshy.app](https://subscribe.wooshy.app)
@@ -2001,6 +2081,10 @@
  - [https://www.bankinfosecurity.asia](https://www.bankinfosecurity.asia)
  - date_published: 2024-06-26T00:00:00+00:00
 
+ ## | BIMP-EAGA
+ - [https://bimp-eaga.asia](https://bimp-eaga.asia)
+ - date_published: 2024-07-16T22:50:38.066245+00:00
+
  ## Bitcoin Magazine - новости биткоина, курс биткоина к доллару, секреты майнинга - эксперты
  - [https://bitcoinmagazine.asia](https://bitcoinmagazine.asia)
  - date_published: 2024-07-01T09:01:38.565720+00:00
@@ -2137,6 +2221,10 @@ October 2024 in Singapore
  ## Desuarchive
  - [https://rbt.asia](https://rbt.asia)
  - date_published: 2024-06-23T18:03:11.500715+00:00
+
+ ## SASEC Home
+ - [http://sasec.asia](http://sasec.asia)
+ - date_published: 2024-07-16T22:50:26.352817+00:00
 
  ## SecurityBrief Asia - Technology news for CISOs & cybersecurity decision-makers
  - [https://securitybrief.asia](https://securitybrief.asia)
@@ -2356,6 +2444,10 @@ October 2024 in Singapore
  - [http://cl-informatik.uibk.ac.at](http://cl-informatik.uibk.ac.at)
  - date_published: 2024-04-29T06:19:16.986431+00:00
 
+ ## Home – Security and Privacy Lab – University of Innsbruck
+ - [https://informationsecurity.uibk.ac.at](https://informationsecurity.uibk.ac.at)
+ - date_published: 2024-07-08T11:25:19+00:00
+
  ## GEPHRAS - Homepage
  - [https://romanistik-gephras.uibk.ac.at](https://romanistik-gephras.uibk.ac.at)
  - date_published: 2024-07-12T05:19:05.511861+00:00
@@ -2459,6 +2551,10 @@ October 2024 in Singapore
  ## all about apps
  - [https://code.allaboutapps.at](https://code.allaboutapps.at)
  - date_published: 2021-09-23T00:00:00+00:00
+
+ ## all-inn.at » Der ultimative Innsbruck CityGuide [ 2024 ]
+ - [https://all-inn.at](https://all-inn.at)
+ - date_published: 2024-07-16T12:59:22+00:00
 
  ## WEBDESIGN Wien von Ameisenhaufen.at - Webseiten & App Entwicklung
  - [https://www.ameisenhaufen.at](https://www.ameisenhaufen.at)
@@ -2613,7 +2709,7 @@ October 2024 in Singapore
  - date_published: 2024-06-18T14:30:22.003113+00:00
 
  ## Blogheim.at | Die Heimat der Österreichischen Blogszene
- - [https://www.blogheim.at](https://www.blogheim.at)
+ - [https://blogheim.at](https://blogheim.at)
  - date_published: 2024-05-12T06:40:45.460990+00:00
 
  ## AUSTRIAN NATIONAL COMMITTEE OF THE BLUE SHIELD
@@ -2846,6 +2942,10 @@ October 2024 in Singapore
  - [https://www.easyleasing.at](https://www.easyleasing.at)
  - date_published: 2024-06-16T08:06:19.301159+00:00
 
+ ## easyname - Webhosting, Website Builder und Domains
+ - [https://www.easyname.at](https://www.easyname.at)
+ - date_published: 2024-07-16T17:45:41.348010+00:00
+
  ## eBay shopping cart
  - [https://cart.ebay.at](https://cart.ebay.at)
  - date_published: 2024-06-16T23:21:58.743534+00:00
@@ -2913,6 +3013,10 @@ October 2024 in Singapore
  ## eLib.at
  - [https://elib.at](https://elib.at)
  - date_published: 2023-12-31T19:02:05.887806+00:00
+
+ ## Der Eltern-Kind-Pass - (Mutter-Kind-Pass)
+ - [https://elternkindpass.at](https://elternkindpass.at)
+ - date_published: 2024-03-17T16:37:54+00:00
 
  ## en|crypted.at – Private tech and tutorial blog
  - [https://www.encrypted.at](https://www.encrypted.at)
@@ -3078,6 +3182,10 @@ October 2024 in Singapore
  ## Gallery Guide Austria
  - [http://galleryguidevienna.at](http://galleryguidevienna.at)
  - date_published: 2024-07-12T12:13:32+00:00
+
+ ## Gamers.at - Spielemagazin mit News & Tests zu PC- und Konsolenspielen
+ - [https://www.gamers.at](https://www.gamers.at)
+ - date_published: 2024-06-11T00:00:00+00:00
 
  ## GameStop Österreich
  - [https://www.gamestop.at](https://www.gamestop.at)
@@ -3563,6 +3671,14 @@ October 2024 in Singapore
  - [https://lobby4kids.at](https://lobby4kids.at)
  - date_published: 2024-05-06T23:56:48.102818+00:00
 
+ ## LogiCS | Degree Programs in Logic and Computer Science at TU Vienna
+ - [https://logic-cs.at](https://logic-cs.at)
+ - date_published: 2024-07-16T22:22:58.420032+00:00
+
+ ## Männerabend - Der männliche Freizeitblog aus Wien!
+ - [http://www.maennerabend.at](http://www.maennerabend.at)
+ - date_published: 2024-07-16T17:46:58.899964+00:00
+
  ## Website
  - [https://sammlung.mak.at](https://sammlung.mak.at)
  - date_published: 2024-06-17T10:32:16.438775+00:00
@@ -3590,6 +3706,10 @@ October 2024 in Singapore
  ## MANZ Verlag & Buchhandlung: MANZ
  - [https://www.manz.at](https://www.manz.at)
  - date_published: 2024-07-09T20:13:36.082634+00:00
+
+ ## Marina Sallaberger
+ - [http://marinasallaberger.at](http://marinasallaberger.at)
+ - date_published: 2024-07-16T17:46:12.513428+00:00
 
  ## Martin Schwarzl
  - [https://martinschwarzl.at](https://martinschwarzl.at)
@@ -3922,124 +4042,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## debatte.ORF.at
  - [https://debatte.orf.at](https://debatte.orf.at)
  - date_published: 2024-06-18T15:41:18.527247+00:00
-
- ## der.ORF.at - Startseite - der.ORF.at
- - [https://der.orf.at](https://der.orf.at)
- - date_published: 2024-06-18T15:37:41.559327+00:00
-
- ## ORF DIGITAL - Startseite
- - [https://digital.orf.at](https://digital.orf.at)
- - date_published: 2024-06-18T15:41:11.271991+00:00
-
- ## ORF-Enterprise
- - [https://enterprise.orf.at](https://enterprise.orf.at)
- - date_published: 2024-06-18T15:41:14.885298+00:00
-
- ## Startseite - extra.ORF.at
- - [https://extra.orf.at](https://extra.orf.at)
- - date_published: 2024-06-18T15:41:12.627396+00:00
-
- ## fm4.ORF.at
- - [https://fm4.orf.at](https://fm4.orf.at)
- - date_published: 2024-05-02T13:40:23.496110+00:00
-
- ## help.ORF.at
- - [https://help.orf.at](https://help.orf.at)
- - date_published: 2024-06-18T15:41:16.699407+00:00
-
- ## Licht ins Dunkel - lichtinsdunkel.ORF.at
- - [https://lichtinsdunkel.orf.at](https://lichtinsdunkel.orf.at)
- - date_published: 2024-06-18T15:41:30.006385+00:00
-
- ## newsletter.extra.orf.at
- - [https://newsletter.extra.orf.at](https://newsletter.extra.orf.at)
- - date_published: 2024-06-18T15:37:39.344991+00:00
-
- ## news.ORF.at
- - [https://news.orf.at](https://news.orf.at)
- - date_published: 2024-06-18T15:37:36.537120+00:00
-
- ## oe1.ORF.at
- - [https://oe1.orf.at](https://oe1.orf.at)
- - date_published: 2024-06-18T15:37:40.423248+00:00
-
- ## oe3.ORF.at
- - [https://oe3.orf.at](https://oe3.orf.at)
- - date_published: 2024-06-18T15:41:31.205197+00:00
-
- ## oesterreich.ORF.at
- - [https://oesterreich.orf.at](https://oesterreich.orf.at)
- - date_published: 2024-06-18T15:41:19.673724+00:00
-
- ## ORF ON
- - [https://on.orf.at](https://on.orf.at)
- - date_published: 2024-06-18T15:37:45.324610+00:00
-
- ## news.ORF.at
- - [https://orf.at](https://orf.at)
- - date_published: 2024-06-18T15:37:35.277210+00:00
-
- ## ORF Sound
- - [https://podcast.orf.at](https://podcast.orf.at)
- - date_published: 2024-06-17T14:13:20+00:00
-
- ## Presseportal
- - [https://presse.orf.at](https://presse.orf.at)
- - date_published: 2024-05-27T15:27:05+00:00
-
- ## ORF Publikumsrat - der.ORF.at
- - [https://publikumsrat.orf.at](https://publikumsrat.orf.at)
- - date_published: 2024-06-18T15:41:13.553542+00:00
-
- ## RKH Startpage
- - [https://radiokulturhaus.orf.at](https://radiokulturhaus.orf.at)
- - date_published: 2024-05-02T13:34:58.141062+00:00
-
- ## religion.ORF.at
- - [https://religion.orf.at](https://religion.orf.at)
- - date_published: 2024-06-18T15:41:29.274051+00:00
-
- ## Startseite | rso.ORF.at
- - [https://rso.orf.at](https://rso.orf.at)
- - date_published: 2024-06-18T15:37:42.354407+00:00
-
- ## ORF.at Open News
- - [https://rss.orf.at](https://rss.orf.at)
- - date_published: 2024-05-22T04:08:23+00:00
-
- ## science.ORF.at
- - [https://science.orf.at](https://science.orf.at)
- - date_published: 2024-06-18T15:41:17.578483+00:00
-
- ## ORF-Shop
- - [https://shop.orf.at](https://shop.orf.at)
- - date_published: 2024-06-18T15:37:46.845343+00:00
-
- ## ORF Sound
- - [https://sound.orf.at](https://sound.orf.at)
- - date_published: 2024-06-17T14:13:20+00:00
-
- ## sport.ORF.at
- - [https://sport.orf.at](https://sport.orf.at)
- - date_published: 2024-06-18T15:41:07.840370+00:00
-
- ## steiermark.ORF.at
- - [https://steiermark.orf.at](https://steiermark.orf.at)
- - date_published: 2024-07-13T09:04:01.480265+00:00
-
- ## teletext.ORF.at
- - [https://teletext.orf.at](https://teletext.orf.at)
- - date_published: 2023-08-30T21:06:19+00:00
-
- ## Home - ORF-Ticketservice
- - [https://tickets.orf.at](https://tickets.orf.at)
- - date_published: 2024-06-18T15:41:25.598773+00:00
-
- ## ORF Topos
- - [https://topos.orf.at](https://topos.orf.at)
- - date_published: 2024-05-22T08:10:17+00:00
-
- ## ORF.at
- - [https://tubestatic.orf.at](https://tubestatic.orf.at)
- - date_published: 2016-02-08T09:23:54+00:00
 

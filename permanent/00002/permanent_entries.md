@@ -1,3 +1,35 @@
+ ## Sivi: Your Multilingual AI Designer | Generative Design
+ - [https://sivi.ai](https://sivi.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Sketch Logo AI
+ - [https://www.sketchlogo.ai](https://www.sketchlogo.ai)
+ - date_published: 2024-02-04T15:17:04.965374+00:00
+
+ ## SketchPro - Meet your design copilot
+ - [https://sketchpro.ai](https://sketchpro.ai)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## SkimIt.ai - Get an ai generated summary of any article delivered to your inbox
+ - [https://www.skimit.ai](https://www.skimit.ai)
+ - date_published: 2024-06-19T19:06:41.542875+00:00
+
+ ## Slides
+ - [https://www.slideas.ai](https://www.slideas.ai)
+ - date_published: 2024-06-19T21:11:20.927804+00:00
+
+ ## SmartflowAI - Simplify Workflows with generative AI
+ - [https://slidemaker.ai](https://slidemaker.ai)
+ - date_published: 2023-03-13T14:38:22+00:00
+
+ ## AI 3D Model Generator - Create with Text to 3D
+ - [https://www.sloyd.ai](https://www.sloyd.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Test your Skill Level on Any Topic - SmartLifeSkills.AI
+ - [https://smartlifeskills.ai](https://smartlifeskills.ai)
+ - date_published: 2024-05-31T00:00:00+00:00
+
  ## SmartWriter | Personalised AI Cold Emails
  - [https://www.smartwriter.ai](https://www.smartwriter.ai)
  - date_published: 2024-06-11T00:00:00+00:00
@@ -41,6 +73,10 @@
  ## Ecommerce Stores shouldn't be static | Loup
  - [https://socialchat.ai](https://socialchat.ai)
  - date_published: 2024-06-20T22:00:16.146299+00:00
+
+ ## SoCool
+ - [https://socool.ai](https://socool.ai)
+ - date_published: 2024-07-16T16:13:55+00:00
 
  ## Stay curious about wine tech | softwine
  - [https://www.softwine.ai](https://www.softwine.ai)
@@ -434,6 +470,10 @@
  - [https://www.sybill.ai](https://www.sybill.ai)
  - date_published: 2024-06-19T00:00:00+00:00
 
+ ## Light — LightRAG  documentation
+ - [https://lightrag.sylph.ai](https://lightrag.sylph.ai)
+ - date_published: 2024-07-15T23:29:11+00:00
+
  ## Symbolica
  - [https://www.symbolica.ai](https://www.symbolica.ai)
  - date_published: 2024-07-01T07:39:02.694914+00:00
@@ -788,6 +828,10 @@
  ## The speed and accuracy of AI. Now applied to visual assessment.
  - [https://tractable.ai](https://tractable.ai)
  - date_published: 2024-07-09T21:19:41.237395+00:00
+
+ ## Transformer | Shakeel Hashim | Substack
+ - [https://www.transformernews.ai](https://www.transformernews.ai)
+ - date_published: 2024-07-15T00:00:00+00:00
 
  ## Treble | The most effective WhatsApp Marketing Platform
  - [http://treble.ai](http://treble.ai)
@@ -1167,6 +1211,10 @@
  ## Vespa - data + AI, online
  - [https://vespa.ai](https://vespa.ai)
  - date_published: 2024-06-15T11:12:27+00:00
+
+ ## Co-marketing platform: engage in link building | vevy.ai
+ - [https://vevy.ai](https://vevy.ai)
+ - date_published: 2024-07-12T00:00:00+00:00
 
  ## vi :: Home
  - [https://www.vi.ai](https://www.vi.ai)
@@ -2127,6 +2175,10 @@ Creative Solutions
  - [https://19vx.mj.am](https://19vx.mj.am)
  - date_published: 2024-05-04T08:34:57.816281+00:00
 
+ ## Լուրեր Հայաստանից - NEWS.am
+ - [https://news.am](https://news.am)
+ - date_published: 2024-07-16T00:00:00+00:00
+
  ## NEWS.am TECH - Innovations and science
  - [https://tech.news.am](https://tech.news.am)
  - date_published: 2023-10-25T11:45:27.043615+00:00
@@ -2538,6 +2590,10 @@ Creative Solutions
  ## Device integrity monitoring
  - [https://attestation.app](https://attestation.app)
  - date_published: 2024-02-24T10:01:24.175770+00:00
+
+ ## Auction Today
+ - [https://admin.auctiontoday.app](https://admin.auctiontoday.app)
+ - date_published: 2024-07-02T10:08:53+00:00
 
  ## Audiogest: Transcribe and summarize your audio and video
  - [https://audiogest.app](https://audiogest.app)
@@ -3960,6 +4016,14 @@ Creative Solutions
  - [https://hyperkey.app](https://hyperkey.app)
  - date_published: 2024-06-22T06:22:40.381701+00:00
 
+ ## Home
+ - [https://developer.hyperproof.app](https://developer.hyperproof.app)
+ - date_published: 2024-07-16T20:43:56.470682+00:00
+
+ ## Hyperproof
+ - [https://hyperproof.app](https://hyperproof.app)
+ - date_published: 2024-07-12T17:00:22+00:00
+
  ## Ice - Menu Bar Manager
  - [https://icemenubar.app](https://icemenubar.app)
  - date_published: 2024-07-10T08:05:09.491289+00:00
@@ -3967,69 +4031,4 @@ Creative Solutions
  ## Iconbuddy — 180K+ open source icons
  - [https://iconbuddy.app](https://iconbuddy.app)
  - date_published: 2023-10-25T11:46:58.974115+00:00
-
- ## Sign in to your account
- - [https://kulturradet.imagevault.app](https://kulturradet.imagevault.app)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Home | Immich
- - [https://immich.app](https://immich.app)
- - date_published: 2024-04-08T19:28:59.912124+00:00
- - tags: ['self-host', 'video library', 'image gallery']
-
- ## Iliffe Media
- - [https://digital.imnews.app](https://digital.imnews.app)
- - date_published: 2024-05-02T11:36:54.544047+00:00
-
- ## IM News App - Download Now - Iliffe Media
- - [https://imnews.app](https://imnews.app)
- - date_published: 2023-01-05T14:42:51+00:00
-
- ## Optimiza tu negocio con nuestra plataforma de soluciones
- - [https://increase.app](https://increase.app)
- - date_published: 2024-01-19T17:09:22+00:00
-
- ## Index
- - [https://index.app](https://index.app)
- - date_published: 2024-07-09T23:00:59+00:00
-
- ## Instagram Downloader - Download Video, Reels, Photos, Profile Pictures with Instagram Downloader
- - [https://indownloader.app](https://indownloader.app)
- - date_published: 2024-06-23T08:13:47.518695+00:00
-
- ## InfoFlow
- - [https://www.infoflow.app](https://www.infoflow.app)
- - date_published: 2024-06-23T16:45:20.283708+00:00
-
- ## Inkdrop - Note-taking App with Robust Markdown Editor
- - [https://www.inkdrop.app](https://www.inkdrop.app)
- - date_published: 2024-07-09T15:52:18.954370+00:00
-
- ## instaprice
- - [https://instaprice.app](https://instaprice.app)
- - date_published: 2024-05-08T00:42:20.645652+00:00
-
- ## EQS Integrity Line
- - [https://kosmos.integrityline.app](https://kosmos.integrityline.app)
- - date_published: 2024-07-04T02:56:03.492750+00:00
-
- ## EQS Integrity Line
- - [https://tresorit.integrityline.app](https://tresorit.integrityline.app)
- - date_published: 2024-06-16T16:34:25.495223+00:00
-
- ## Learn How to Video Interview | InterviewPrep Training Center
- - [https://training.interviewprep.app](https://training.interviewprep.app)
- - date_published: 2022-09-06T00:00:00+00:00
-
- ## InterviewPrep - Practice: Sign In/Sign Up
- - [https://wfu.interviewprep.app](https://wfu.interviewprep.app)
- - date_published: 2024-07-01T06:40:00+00:00
-
- ## IronIQ LLC
- - [https://ironiq.app](https://ironiq.app)
- - date_published: 2024-05-16T18:03:31+00:00
-
- ## free personal status page for remote work | isBusy
- - [https://isbusy.app](https://isbusy.app)
- - date_published: 2024-07-02T20:05:16.015865+00:00
 
