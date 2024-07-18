@@ -1,6 +1,18 @@
+ ## Automate your customer support with AI
+ - [https://sitespeak.ai](https://sitespeak.ai)
+ - date_published: 2024-06-18T16:29:34.454898+00:00
+
+ ## Introduction - SITUATIONAL AWARENESS: The Decade Ahead
+ - [https://situational-awareness.ai](https://situational-awareness.ai)
+ - date_published: 2024-06-12T23:57:53.496867+00:00
+
  ## Sivi: Your Multilingual AI Designer | Generative Design
  - [https://sivi.ai](https://sivi.ai)
  - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Sixfold | Generative AI Tools for Insurance Underwriters
+ - [https://www.sixfold.ai](https://www.sixfold.ai)
+ - date_published: 2024-07-17T00:00:00+00:00
 
  ## Sketch Logo AI
  - [https://www.sketchlogo.ai](https://www.sketchlogo.ai)
@@ -352,6 +364,10 @@
  ## Studdy AI | An AI Tutor In Your Pocket
  - [https://studdy.ai](https://studdy.ai)
  - date_published: 2024-07-09T19:13:59.003336+00:00
+
+ ## StudentAdvisor
+ - [https://ensign.studentadvisor.ai](https://ensign.studentadvisor.ai)
+ - date_published: 2024-06-26T16:53:48+00:00
 
  ## StudentAdvisor
  - [https://uga.studentadvisor.ai](https://uga.studentadvisor.ai)
@@ -865,6 +881,10 @@
  - [https://www.trueface.ai](https://www.trueface.ai)
  - date_published: 2024-05-23T00:00:00+00:00
 
+ ## TrueSciPhi.AI | Kelly Truelove | Substack
+ - [https://www.truesciphi.ai](https://www.truesciphi.ai)
+ - date_published: 2024-07-01T00:00:00+00:00
+
  ## Truewind | Next Generation AI-Powered Accounting Solutions
  - [https://www.truewind.ai](https://www.truewind.ai)
  - date_published: 2024-06-18T03:51:13+00:00
@@ -1191,6 +1211,10 @@
  ## Home
  - [https://verbalate.ai](https://verbalate.ai)
  - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Transcription Services for Audio & Video | Verbit Go
+ - [https://go.verbit.ai](https://go.verbit.ai)
+ - date_published: 2024-07-17T02:44:08.376561+00:00
 
  ## Verbit: AI-Based Transcription & Captioning Services
  - [https://verbit.ai](https://verbit.ai)
@@ -1576,6 +1600,10 @@ Creative Solutions
  ## AI Music Visualizer
  - [https://wzrd.ai](https://wzrd.ai)
  - date_published: 2024-06-19T20:38:04.225020+00:00
+
+ ## xAI
+ - [https://grok.x.ai](https://grok.x.ai)
+ - date_published: 2024-05-26T00:00:00+00:00
 
  ## Announcing Grok
  - [https://x.ai](https://x.ai)
@@ -2327,6 +2355,10 @@ Creative Solutions
  ## Uptime Atomic
  - [https://status.openbsd.amsterdam](https://status.openbsd.amsterdam)
  - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Home
+ - [https://pride.amsterdam](https://pride.amsterdam)
+ - date_published: 2024-07-17T10:29:48.203615+00:00
 
  ## Exhibitor Portal - RAI Amsterdam
  - [https://ep.rai.amsterdam](https://ep.rai.amsterdam)
@@ -3163,6 +3195,10 @@ Creative Solutions
  - [https://cuanto.app](https://cuanto.app)
  - date_published: 2024-07-12T20:15:11.368186+00:00
 
+ ## join the cult 😈
+ - [https://cult.app](https://cult.app)
+ - date_published: 2024-07-17T13:51:20.681846+00:00
+
  ## Cycle | Your feedback hub, on autopilot
  - [https://www.cycle.app](https://www.cycle.app)
  - date_published: 2024-07-02T00:00:00+00:00
@@ -3601,7 +3637,7 @@ Creative Solutions
  - date_published: 2023-05-01T00:00:00+00:00
 
  ## Filestash — Self-hosted client for your data
- - [https://www.filestash.app](https://www.filestash.app)
+ - [https://filestash.app](https://filestash.app)
  - date_published: 2023-10-25T11:46:29.675741+00:00
  - tags: ['self-host']
 
@@ -3995,40 +4031,4 @@ Creative Solutions
  ## Hondana: Virtual Bookshelf & Community
  - [https://hondana.app](https://hondana.app)
  - date_published: 2024-06-23T00:00:00+00:00
-
- ## HumanIPO - Turn your fans into shareholders
- - [https://humanipo.app](https://humanipo.app)
- - date_published: 2024-05-12T05:28:23.256428+00:00
-
- ## Hush Line
- - [https://beta.hushline.app](https://beta.hushline.app)
- - date_published: 2024-07-08T11:52:39.012390+00:00
-
- ## Hush Line
- - [https://hushline.app](https://hushline.app)
- - date_published: 2024-07-04T21:04:41+00:00
-
- ## Hush Line
- - [https://tips.hushline.app](https://tips.hushline.app)
- - date_published: 2024-07-08T11:52:44+00:00
-
- ## Hyperkey
- - [https://hyperkey.app](https://hyperkey.app)
- - date_published: 2024-06-22T06:22:40.381701+00:00
-
- ## Home
- - [https://developer.hyperproof.app](https://developer.hyperproof.app)
- - date_published: 2024-07-16T20:43:56.470682+00:00
-
- ## Hyperproof
- - [https://hyperproof.app](https://hyperproof.app)
- - date_published: 2024-07-12T17:00:22+00:00
-
- ## Ice - Menu Bar Manager
- - [https://icemenubar.app](https://icemenubar.app)
- - date_published: 2024-07-10T08:05:09.491289+00:00
-
- ## Iconbuddy — 180K+ open source icons
- - [https://iconbuddy.app](https://iconbuddy.app)
- - date_published: 2023-10-25T11:46:58.974115+00:00
 

@@ -1002,6 +1002,10 @@
  - [https://techpoint.africa](https://techpoint.africa)
  - date_published: 2024-01-31T12:28:06+00:00
 
+ ## UMG Africa | Online Store
+ - [https://umg.africa](https://umg.africa)
+ - date_published: 2024-07-17T11:10:06.845556+00:00
+
  ## Zindi
  - [https://assets.zindi.africa](https://assets.zindi.africa)
  - date_published: 2024-07-10T07:05:17+00:00
@@ -1148,6 +1152,10 @@
  ## The Developer First Agency | DevRel.Agency
  - [http://www.devrel.agency](http://www.devrel.agency)
  - date_published: 2024-06-27T13:44:35.920866+00:00
+
+ ## Devx | The source of your code
+ - [https://devx.agency](https://devx.agency)
+ - date_published: 2024-07-17T07:18:40.912916+00:00
 
  ## HealthTech digital agency in London | Doublesided
  - [https://doublesided.agency](https://doublesided.agency)
@@ -4020,12 +4028,4 @@ Welcome
  ## Cohere For AI (C4AI)
  - [https://cohere.for.ai](https://cohere.for.ai)
  - date_published: 2024-07-01T14:59:50.877603+00:00
-
- ## Forestwalk Labs
- - [https://forestwalk.ai](https://forestwalk.ai)
- - date_published: 2024-06-15T10:53:33.673064+00:00
-
- ## Generative AI Platform for CX Automation | Forethought
- - [https://forethought.ai](https://forethought.ai)
- - date_published: 2021-10-04T23:05:00+00:00
 

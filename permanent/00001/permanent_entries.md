@@ -1,3 +1,11 @@
+ ## Forestwalk Labs
+ - [https://forestwalk.ai](https://forestwalk.ai)
+ - date_published: 2024-06-15T10:53:33.673064+00:00
+
+ ## Generative AI Platform for CX Automation | Forethought
+ - [https://forethought.ai](https://forethought.ai)
+ - date_published: 2021-10-04T23:05:00+00:00
+
  ## Solve UI
  - [https://solve-widget.forethought.ai](https://solve-widget.forethought.ai)
  - date_published: 2024-06-16T08:34:56.231319+00:00
@@ -4018,12 +4026,4 @@
  ## AI landing page builder
  - [https://www.sitekick.ai](https://www.sitekick.ai)
  - date_published: 2024-06-10T00:00:00+00:00
-
- ## Automate your customer support with AI
- - [https://sitespeak.ai](https://sitespeak.ai)
- - date_published: 2024-06-18T16:29:34.454898+00:00
-
- ## Introduction - SITUATIONAL AWARENESS: The Decade Ahead
- - [https://situational-awareness.ai](https://situational-awareness.ai)
- - date_published: 2024-06-12T23:57:53.496867+00:00
 

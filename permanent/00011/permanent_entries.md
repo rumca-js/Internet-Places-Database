@@ -1,3 +1,388 @@
+ ## Parliamentary Protective Service
+ - [https://pps.parl.ca](https://pps.parl.ca)
+ - date_published: 2024-07-10T05:29:57.024438+00:00
+
+ ## Parliament of Canada Tours — Home
+ - [https://rts.parl.ca](https://rts.parl.ca)
+ - date_published: 2024-07-10T05:30:22.334976+00:00
+
+ ## Visitez le parlement du Canada
+ - [https://visitez.parl.ca](https://visitez.parl.ca)
+ - date_published: 2024-07-10T05:32:29.812335+00:00
+
+ ## Visit Canada's Parliament
+ - [https://visit.parl.ca](https://visit.parl.ca)
+ - date_published: 2024-07-10T05:30:15.969252+00:00
+
+ ## Parliament of Canada - Parlement du Canada
+ - [https://parl.ca](https://parl.ca)
+ - date_published: 2024-05-09T07:39:30.010213+00:00
+
+ ## Townhome Builder in Calgary & Okotoks | Partners Development Group
+ - [https://partnershomes.ca](https://partnershomes.ca)
+ - date_published: 2024-04-30T05:14:18.749674+00:00
+
+ ## Patagonia Outdoor Clothing & Gear
+ - [https://patagonia.ca](https://patagonia.ca)
+ - date_published: 2024-05-06T22:33:35.006597+00:00
+
+ ## PataTaSocial - GoToSocial
+ - [https://gotosocial.patatas.ca](https://gotosocial.patatas.ca)
+ - date_published: 2024-07-13T03:42:14.029076+00:00
+
+ ## Home - The Dabbler: a blog by @smallpatatas
+ - [https://thedabbler.patatas.ca](https://thedabbler.patatas.ca)
+ - date_published: 2024-05-10T07:02:36.153421+00:00
+ - tags: ['personal']
+
+ ## Payday loans in Canada, Canada
+ - [http://www.payday.ca](http://www.payday.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## https://paysync.ca
+ - [https://paysync.ca](https://paysync.ca)
+ - date_published: 2023-10-25T12:06:31.218287+00:00
+
+ ## Patrick Boivin
+ - [https://pboivin.ca](https://pboivin.ca)
+ - date_published: 2024-01-24T17:59:32.974422+00:00
+
+ ## PC Financial | Canadian Rewards Credit Cards with No Annual Fee | Services financiers PC | Cartes de crédit canadiennes avec récompenses et sans frais annuels
+ - [https://secure.pcfinancial.ca](https://secure.pcfinancial.ca)
+ - date_published: 2024-05-29T11:20:47+00:00
+
+ ## Earn PC Optimum™ points with PC® Mastercard® and PC Money™ Account | PC Financial
+ - [https://www.pcfinancial.ca](https://www.pcfinancial.ca)
+ - date_published: 2024-05-01T06:19:40.507262+00:00
+
+ ## NamesPro.ca | Register with Confidence
+ - [http://www.pcna.ca](http://www.pcna.ca)
+ - date_published: 2024-07-01T15:32:00.163122+00:00
+
+ ## PC Optimum
+ - [https://www.pcoptimum.ca](https://www.pcoptimum.ca)
+ - date_published: 2024-06-12T16:39:45+00:00
+
+ ## Eye Exams, Prescription Eyewear & More | Pearle Vision
+ - [https://www.pearlevision.ca](https://www.pearlevision.ca)
+ - date_published: 2024-07-09T10:16:44.955767+00:00
+
+ ## Penguin Random House Canada
+ - [https://penguinrandomhouse.ca](https://penguinrandomhouse.ca)
+ - date_published: 2024-05-06T16:48:30.412069+00:00
+
+ ## PERI Canada Homepage
+ - [https://www.peri.ca](https://www.peri.ca)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home · Perimeter Events (Indico)
+ - [https://events.perimeterinstitute.ca](https://events.perimeterinstitute.ca)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Homepage | Perimeter Institute
+ - [http://www.perimeterinstitute.ca](http://www.perimeterinstitute.ca)
+ - date_published: 2024-06-30T09:20:07.584458+00:00
+
+ ## Personal Journal
+ - [https://personaljournal.ca](https://personaljournal.ca)
+ - date_published: 2024-06-16T21:25:30.937932+00:00
+
+ ## Top 5 Top 5 Toronto Pest Control for 2020 | Pest-Control.ca Plumbers and Plumbing Contractors for 2020 | Pest-Control.ca
+ - [http://www.pest-control.ca](http://www.pest-control.ca)
+ - date_published: 2024-06-29T17:25:54.716663+00:00
+
+ ## Peter Zhu
+ - [https://blog.peterzhu.ca](https://blog.peterzhu.ca)
+ - date_published: 2023-10-25T09:02:44.361368+00:00
+ - tags: ['personal']
+
+ ## Pet grooming in Canada, Canada
+ - [http://www.pet-grooming.ca](http://www.pet-grooming.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Petrucci Music Library - Canada (PML-CA) Portal
+ - [https://petruccimusiclibrary.ca](https://petruccimusiclibrary.ca)
+ - date_published: 2020-01-22T07:10:30+00:00
+
+ ## More than a Pet Charity: Connecting People & Pets | PetSmart Charities
+ - [https://petsmartcharities.ca](https://petsmartcharities.ca)
+ - date_published: 2024-06-21T21:12:27+00:00
+
+ ## Parker Glynn-Adey
+ - [https://pgadey.ca](https://pgadey.ca)
+ - date_published: 2023-11-29T17:15:09.105463+00:00
+ - tags: ['personal']
+
+ ## Publishers Group Canada
+ - [https://www.pgcbooks.ca](https://www.pgcbooks.ca)
+ - date_published: 2024-06-18T21:32:14+00:00
+
+ ## Prince George Digitization | PG Newspapers
+ - [http://pgnewspapers.pgpl.ca](http://pgnewspapers.pgpl.ca)
+ - date_published: 2024-06-27T12:57:29.826127+00:00
+
+ ## PharmAla Biotech
+ - [https://pharmala.ca](https://pharmala.ca)
+ - date_published: 2024-06-29T08:29:09.740617+00:00
+
+ ## PHI | Arts & Culture Through Contemporary Experiences | Old Montreal
+ - [https://phi.ca](https://phi.ca)
+ - date_published: 2024-07-09T22:28:49+00:00
+
+ ## Photographers in Canada, Canada
+ - [http://www.photographers.ca](http://www.photographers.ca)
+ - date_published: 2024-06-29T17:34:21.771165+00:00
+
+ ## Phrenssynnes' Lifestyle Blog
+ - [https://phrenssynnes.ca](https://phrenssynnes.ca)
+ - date_published: 2023-12-27T01:06:07.688727+00:00
+ - tags: ['personal']
+
+ ## Provincial Health Services Authority
+ - [http://www.phsa.ca](http://www.phsa.ca)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Phoenix Labs
+ - [https://phxlabs.ca](https://phxlabs.ca)
+ - date_published: 2024-05-09T08:37:17.110185+00:00
+
+ ## PicClick CA • Search eBay Faster. Find it first!
+ - [https://picclick.ca](https://picclick.ca)
+ - date_published: 2024-06-21T15:04:31.730715+00:00
+
+ ## P. I. Moore
+ - [https://pimoore.ca](https://pimoore.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Pinterest
+ - [http://pinterest.ca](http://pinterest.ca)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Pinterest
+ - [https://www.pinterest.ca](https://www.pinterest.ca)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Home - Pioneer Wood Designs Inc. Commercial Millwork
+ - [https://www.pioneerwooddesigns.ca](https://www.pioneerwooddesigns.ca)
+ - date_published: 2016-08-26T10:40:44+00:00
+
+ ## pirati.ca - social networking for pirates | Home
+ - [https://pirati.ca](https://pirati.ca)
+ - date_published: 2024-07-10T07:29:06.359563+00:00
+
+ ## PlanToys Canada
+ - [https://plantoys.ca](https://plantoys.ca)
+ - date_published: 2024-06-23T16:34:47.232640+00:00
+
+ ## play 101.3 - play 101.3
+ - [https://www.play1013.ca](https://www.play1013.ca)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## play 103.7 - play 103.7
+ - [https://www.play1037.ca](https://www.play1037.ca)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Play 92
+ - [https://www.play92.ca](https://www.play92.ca)
+ - date_published: 2024-06-27T12:38:46+00:00
+
+ ## Honza Pokorný
+ - [https://honza.pokorny.ca](https://honza.pokorny.ca)
+ - date_published: 2024-06-01T04:52:15.881714+00:00
+
+ ## Polaris Music Prize
+ - [https://polarismusicprize.ca](https://polarismusicprize.ca)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## CERC DS4DM – Data Science for Real-Time Decision-Making
+ - [https://cerc-datascience.polymtl.ca](https://cerc-datascience.polymtl.ca)
+ - date_published: 2024-07-12T08:10:10.378487+00:00
+
+ ## Hot Tubs in Toronto, the GTA & Across Canada | Hottubs.ca by N49
+ - [http://www.pools.ca](http://www.pools.ca)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Pop! Public. Open. Participatory.
+ - [https://popjournal.ca](https://popjournal.ca)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Porsche Experience
+ - [https://porscheexperience.ca](https://porscheexperience.ca)
+ - date_published: 2024-04-25T14:38:16+00:00
+
+ ## Poshmark
+ - [https://poshmark.ca](https://poshmark.ca)
+ - date_published: 2024-06-28T19:35:14.006023+00:00
+
+ ## Customer Support Center
+ - [https://support.poshmark.ca](https://support.poshmark.ca)
+ - date_published: 2023-06-29T19:35:55+00:00
+
+ ## Welcome - PostgreSQL Community Association
+ - [https://www.postgres.ca](https://www.postgres.ca)
+ - date_published: 2023-12-06T00:00:00+00:00
+
+ ## Prairie Hockey Academy
+ - [https://www.prairiehockey.ca](https://www.prairiehockey.ca)
+ - date_published: 2024-06-27T12:52:47.597138+00:00
+
+ ## President's Choice®
+ - [http://www.presidentschoice.ca](http://www.presidentschoice.ca)
+ - date_published: 2024-06-16T09:41:31.566263+00:00
+
+ ## Patryk's blog
+ - [https://prezu.ca](https://prezu.ca)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Government of Prince Edward Island
+ - [https://www.princeedwardisland.ca](https://www.princeedwardisland.ca)
+ - date_published: 2024-07-07T03:37:18.983586+00:00
+
+ ## Printing in Canada, Canada
+ - [http://www.printing.ca](http://www.printing.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## ProBenefits
+ - [http://www.probenefits.ca](http://www.probenefits.ca)
+ - date_published: 2024-06-16T21:26:11.873429+00:00
+
+ ## Gambling, Gaming and Technology Use
+ - [http://www.problemgambling.ca](http://www.problemgambling.ca)
+ - date_published: 2024-07-12T00:00:15+00:00
+
+ ## The Progressive Economics Forum
+ - [https://www.progressive-economics.ca](https://www.progressive-economics.ca)
+ - date_published: 2024-06-28T12:59:39.955765+00:00
+
+ ## Prolucid - Software Engineering
+ - [http://prolucid.ca](http://prolucid.ca)
+ - date_published: 2024-03-27T02:00:47+00:00
+
+ ## Real Estate
+ - [https://www.properly.ca](https://www.properly.ca)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Oceana Canada Protecting the World's Oceans
+ - [https://protectoceans.ca](https://protectoceans.ca)
+ - date_published: 2024-05-09T05:08:20.707676+00:00
+
+ ## Provocation Ideas Festival
+ - [https://provocation.ca](https://provocation.ca)
+ - date_published: 2024-04-03T06:41:18.385403+00:00
+
+ ## Psychedelics | Canadian Centre for Psychedelic Science
+ - [https://psychedelicscience.ca](https://psychedelicscience.ca)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Vancouver BC Architecture Architects Interior Designers | Public Architecture
+ - [https://www.publicarchitecture.ca](https://www.publicarchitecture.ca)
+ - date_published: 2022-07-18T06:43:29+00:00
+
+ ## Home Interior Decoration Company Newmarket | Interior Design
+ - [https://www.purplecube.ca](https://www.purplecube.ca)
+ - date_published: 2023-08-25T00:00:00+00:00
+
+ ## Puzzle Master Inc - #1 Platform to Buy Puzzles Online
+ - [http://www.puzzlemaster.ca](http://www.puzzlemaster.ca)
+ - date_published: 2024-06-15T18:37:46.982243+00:00
+
+ ## Paul Khuong: some Lisp
+ - [https://pvk.ca](https://pvk.ca)
+ - date_published: 2023-10-25T09:02:45.102005+00:00
+ - tags: ['personal']
+
+ ## PyCon Canada 2019
+ - [http://pycon.ca](http://pycon.ca)
+ - date_published: 2024-06-28T20:23:54.732633+00:00
+
+ ## Pyskool
+ - [https://pyskool.ca](https://pyskool.ca)
+ - date_published: 2019-06-17T21:02:00+00:00
+
+ ## Welcome to Python.org
+ - [http://python.ca](http://python.ca)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## www.Qc125.ca | Philippe J. Fournier | Substack
+ - [https://www.qc125.ca](https://www.qc125.ca)
+ - date_published: 2024-01-13T00:00:00+00:00
+
+ ## QIX - Échange Internet de Montréal
+ - [https://qix.ca](https://qix.ca)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Invest with Qtrade Direct Investing
+ - [https://www.qtrade.ca](https://www.qtrade.ca)
+ - date_published: 2024-07-12T23:51:06+00:00
+
+ ## Quantum's Mirrors
+ - [https://mirror.quantum5.ca](https://mirror.quantum5.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Quantum | Quantum’s (a.k.a. Guanzhong Chen) blog about coding, security, and other computer technology.
+ - [https://quantum5.ca](https://quantum5.ca)
+ - date_published: 2023-10-25T12:06:33.370337+00:00
+
+ ## Bienvenue sur Québec.ca
+ - [https://www.quebec.ca](https://www.quebec.ca)
+ - date_published: 2024-07-13T17:43:04.377405+00:00
+
+ ## Queen Square Press
+ - [https://shop.queensquarepress.ca](https://shop.queensquarepress.ca)
+ - date_published: 2024-04-30T05:03:29.995751+00:00
+
+ ## Home | Faculty of Health Sciences | Queen's University
+ - [http://healthsci.queensu.ca](http://healthsci.queensu.ca)
+ - date_published: 2024-06-21T12:49:35+00:00
+
+ ## Home | School of Medicine | Queen's University
+ - [http://meds.queensu.ca](http://meds.queensu.ca)
+ - date_published: 2024-06-21T18:19:12+00:00
+
+ ## Home | Centre for Neuroscience Studies at Queen’s University
+ - [http://neuroscience.queensu.ca](http://neuroscience.queensu.ca)
+ - date_published: 2024-06-23T11:33:39.438211+00:00
+
+ ## The SNO Homepage
+ - [https://sno.phy.queensu.ca](https://sno.phy.queensu.ca)
+ - date_published: 2021-04-19T21:48:41+00:00
+
+ ## Queen's School of Computing
+ - [http://www.cs.queensu.ca](http://www.cs.queensu.ca)
+ - date_published: 2024-06-23T11:33:51.342032+00:00
+
+ ## Department of Mathematics and Statistics | Queen's University
+ - [http://www.mast.queensu.ca](http://www.mast.queensu.ca)
+ - date_published: 2024-06-23T11:33:43.399561+00:00
+
+ ## Queen's University Canada
+ - [http://www.queensu.ca](http://www.queensu.ca)
+ - date_published: 2024-06-23T11:33:45.922496+00:00
+
+ ## Queer Computer Club
+ - [https://queercomputerclub.ca](https://queercomputerclub.ca)
+ - date_published: 2024-02-14T01:17:43+00:00
+
+ ## Welcome to Quotulatiousness
+ - [https://quotulatiousness.ca](https://quotulatiousness.ca)
+ - date_published: 2009-07-13T21:12:37+00:00
+
+ ## Russell O’Connor
+ - [http://r6.ca](http://r6.ca)
+ - date_published: 2021-09-07T18:57:02+00:00
+
+ ## babble
+ - [http://archive.rabble.ca](http://archive.rabble.ca)
+ - date_published: 2020-02-24T18:29:37+00:00
+
+ ## babble
+ - [https://babble.archives.rabble.ca](https://babble.archives.rabble.ca)
+ - date_published: 2014-02-02T00:00:00+00:00
+
+ ## rabble.ca
+ - [https://babble.rabble.ca](https://babble.rabble.ca)
+ - date_published: 2024-04-26T23:07:07+00:00
+
  ## Home
  - [https://rabble.ca](https://rabble.ca)
  - date_published: 2024-04-02T00:00:00+00:00
@@ -1122,6 +1507,10 @@
  - [https://www.ticketweb.ca](https://www.ticketweb.ca)
  - date_published: 2024-07-01T05:01:18.417896+00:00
 
+ ## Directory
+ - [https://members.tico.ca](https://members.tico.ca)
+ - date_published: 2024-07-17T10:26:22.622257+00:00
+
  ## This is the default server vhost
  - [http://www.tiles.ca](http://www.tiles.ca)
  - date_published: 2024-06-24T11:23:01+00:00
@@ -1282,6 +1671,10 @@
  ## Home Page - Tree Canada
  - [https://treecanada.ca](https://treecanada.ca)
  - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Best Weed Delivery Toronto | 420 Mississauga | Tree Huggerz
+ - [https://treehuggerz.ca](https://treehuggerz.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
 
  ## Tree Library: A high-quality tree database for educators, students and lay persons
  - [https://treelib.ca](https://treelib.ca)
@@ -2889,6 +3282,10 @@
  - [https://victoria.ca](https://victoria.ca)
  - date_published: 2024-05-06T00:00:00+00:00
 
+ ## VIDEOGAMESPLUS.CA
+ - [https://videogamesplus.ca](https://videogamesplus.ca)
+ - date_published: 2024-07-17T12:18:14.032378+00:00
+
  ## Videographers in Canada, Canada
  - [http://www.videographers.ca](http://www.videographers.ca)
  - date_published: 2024-06-03T00:00:00+00:00
@@ -2945,6 +3342,14 @@
  ## Warner Music Canada Online Store
  - [https://store.warnermusic.ca](https://store.warnermusic.ca)
  - date_published: 2024-05-13T03:42:21.998285+00:00
+
+ ## Home | Warner Music Canada
+ - [https://www.warnermusic.ca](https://www.warnermusic.ca)
+ - date_published: 2024-07-17T11:28:27.048301+00:00
+
+ ## Wasted Talent - a webcomic by jam
+ - [http://www.wastedtalent.ca](http://www.wastedtalent.ca)
+ - date_published: 2024-07-17T08:20:45.928938+00:00
 
  ## Basement Waterproofing in Toronto, the GTA & Across Canada | Waterproofing.ca by N49
  - [http://www.waterproofing.ca](http://www.waterproofing.ca)
@@ -3335,6 +3740,10 @@
  - [https://wvanwijngaarden.info.yorku.ca](https://wvanwijngaarden.info.yorku.ca)
  - date_published: 2024-06-15T09:13:48+00:00
 
+ ## Homepage | Electrical Engineering and Computer Science
+ - [http://www.cse.yorku.ca](http://www.cse.yorku.ca)
+ - date_published: 2024-01-25T00:00:00+00:00
+
  ## York University Library Home - York University Libraries
  - [https://www.library.yorku.ca](https://www.library.yorku.ca)
  - date_published: 2024-04-28T00:00:00+00:00
@@ -3375,6 +3784,10 @@
  - [https://yourenvironment.ca](https://yourenvironment.ca)
  - date_published: 2024-05-06T23:34:02.979229+00:00
 
+ ## Homepage
+ - [http://yourvancouverrealestate.ca](http://yourvancouverrealestate.ca)
+ - date_published: 2024-07-17T02:14:27+00:00
+
  ## We are yunikon. Your partner for your digital footprint!
  - [https://yunikon.ca](https://yunikon.ca)
  - date_published: 2024-04-09T00:00:00+00:00
@@ -3386,6 +3799,10 @@
  ## Ka-Ping Yee
  - [http://zesty.ca](http://zesty.ca)
  - date_published: 2024-03-18T05:51:34+00:00
+
+ ## Home - ZGV
+ - [http://zgv.ca](http://zgv.ca)
+ - date_published: 2020-06-11T00:00:00+00:00
 
  ## Zipcar: Car Sharing Alternative for Daily and Hourly Car Rental
  - [https://members.zipcar.ca](https://members.zipcar.ca)
@@ -3414,6 +3831,10 @@
  ## Canada.ca
  - [http://www.canada.gc.ca](http://www.canada.gc.ca)
  - date_published: 2024-07-14T02:13:44+00:00
+
+ ## Canada and the world | Canada et le monde
+ - [https://www.canadainternational.gc.ca](https://www.canadainternational.gc.ca)
+ - date_published: 2017-06-01T00:00:00+00:00
 
  ## Canadian Biodiversity Information Facility (CBIF) - agriculture.canada.ca
  - [http://www.cbif.gc.ca](http://www.cbif.gc.ca)
@@ -3611,422 +4032,4 @@
  ## Dialogue
  - [https://dialogue.cpso.on.ca](https://dialogue.cpso.on.ca)
  - date_published: 2024-07-08T16:52:38.728281+00:00
-
- ## Welcome to the Archives of Ontario / Bienvenue aux Archives publiques de l'Ontario
- - [http://www.archives.gov.on.ca](http://www.archives.gov.on.ca)
- - date_published: 2024-07-15T10:46:17.564953+00:00
-
- ## Untitled Document
- - [http://www.edu.gov.on.ca](http://www.edu.gov.on.ca)
- - date_published: 2022-12-09T10:32:08+00:00
-
- ## GlobalProtect Portal
- - [https://access.ices.on.ca](https://access.ices.on.ca)
- - date_published: 2024-05-12T04:58:13.025556+00:00
-
- ## ICES
- - [https://www.ices.on.ca](https://www.ices.on.ca)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## St. Catharines Public Library - Home
- - [http://www.stcatharines.library.on.ca](http://www.stcatharines.library.on.ca)
- - date_published: 2024-07-15T03:53:34+00:00
-
- ## Muskoka Lakes Association - Home
- - [https://www.mla.on.ca](https://www.mla.on.ca)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Welcome to the OAA
- - [https://oaa.on.ca](https://oaa.on.ca)
- - date_published: 2024-04-30T05:04:06.444617+00:00
-
- ## Home -
- - [https://www.ottawahospital.on.ca](https://www.ottawahospital.on.ca)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Homepage - The Burgess Shale
- - [https://burgess-shale.rom.on.ca](https://burgess-shale.rom.on.ca)
- - date_published: 2024-07-02T14:42:50.721758+00:00
-
- ## ASTROLab du Parc du Mont-Mégantic - Astrolab du parc national du Mont-Mégantic
- - [https://www.astrolab.qc.ca](https://www.astrolab.qc.ca)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Accueil
- - [https://frq.gouv.qc.ca](https://frq.gouv.qc.ca)
- - date_published: 2024-06-22T07:30:03+00:00
-
- ## Trouver une décision | SOQUIJ
- - [http://jugements.qc.ca](http://jugements.qc.ca)
- - date_published: 2024-04-30T05:33:19.515573+00:00
-
- ## Accueil | les amis de la montagne
- - [http://www.lemontroyal.qc.ca](http://www.lemontroyal.qc.ca)
- - date_published: 2024-07-10T11:01:26.676342+00:00
-
- ## Un avenir à égalité | Oxfam-Québec
- - [https://oxfam.qc.ca](https://oxfam.qc.ca)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Québec Science - L'heure est à la science
- - [https://www.quebecscience.qc.ca](https://www.quebecscience.qc.ca)
- - date_published: 2018-06-18T22:31:43+00:00
-
- ## Centre d'aide SOQUIJ
- - [https://aide.soquij.qc.ca](https://aide.soquij.qc.ca)
- - date_published: 2024-04-30T05:33:22.768927+00:00
-
- ## Accueil
- - [https://aristote.soquij.qc.ca](https://aristote.soquij.qc.ca)
- - date_published: 2024-04-30T05:33:10.583218+00:00
-
- ## Accueil
- - [https://blogue.soquij.qc.ca](https://blogue.soquij.qc.ca)
- - date_published: 2024-04-30T05:33:59.647746+00:00
-
- ## Trouver une décision | SOQUIJ
- - [https://citoyens.soquij.qc.ca](https://citoyens.soquij.qc.ca)
- - date_published: 2023-10-25T12:09:44.985607+00:00
-
- ## Accueil
- - [https://soquij.qc.ca](https://soquij.qc.ca)
- - date_published: 2024-04-30T05:33:12.499235+00:00
-
- ## ashur.cab/rera
- - [https://ashur.cab](https://ashur.cab)
- - date_published: 2024-07-08T22:19:26.725704+00:00
-
- ## [mdk] arcade rom and information repository
- - [https://mdk.cab](https://mdk.cab)
- - date_published: 2024-07-11T16:21:07.819129+00:00
-
- ## 32-Bit Cafe
- - [https://32bit.cafe](https://32bit.cafe)
- - date_published: 2024-05-06T15:02:55.360254+00:00
-
- ## 32-Bit Cafe
- - [https://discourse.32bit.cafe](https://discourse.32bit.cafe)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## 32-Bit Cafe Gitea
- - [https://git.32bit.cafe](https://git.32bit.cafe)
- - date_published: 2024-06-23T18:34:30.771823+00:00
-
- ## My 32-Bit Cafe
- - [https://my.32bit.cafe](https://my.32bit.cafe)
- - date_published: 2024-02-14T19:37:13+00:00
-
- ## 32 Bitcoin Cafe - CryptoCuppaz collection!
- - [https://nft.32bit.cafe](https://nft.32bit.cafe)
- - date_published: 2023-07-18T09:05:18+00:00
-
- ## FreshRSS
- - [https://rss.32bit.cafe](https://rss.32bit.cafe)
- - date_published: 2023-12-30T16:17:00+00:00
-
- ## 32-Bit Cafe
- - [https://spampoison.32bit.cafe](https://spampoison.32bit.cafe)
- - date_published: 2024-06-23T17:37:11.909673+00:00
-
- ## ~32bit
- - [https://tilde.32bit.cafe](https://tilde.32bit.cafe)
- - date_published: 2023-04-01T18:58:08+00:00
-
- ## 32-bit Cafe - Login
- - [https://webmail.32bit.cafe](https://webmail.32bit.cafe)
- - date_published: 2024-06-23T18:34:57.328349+00:00
-
- ## Backend Cafe
- - [https://backend.cafe](https://backend.cafe)
- - date_published: 2023-10-25T12:09:49.850684+00:00
-
- ## Basil's Café
- - [https://basil.cafe](https://basil.cafe)
- - date_published: 2024-05-07T23:14:35.904453+00:00
-
- ## Home
- - [https://coffin-wiki.basil.cafe](https://coffin-wiki.basil.cafe)
- - date_published: 2024-06-18T15:21:30.496269+00:00
-
- ## Currently offline until further notice
- - [https://umami.basil.cafe](https://umami.basil.cafe)
- - date_published: 1970-01-01T00:00:01+00:00
-
- ## BinaryDigit's Cafe
- - [https://binarydigit.cafe](https://binarydigit.cafe)
- - date_published: 2024-04-28T02:45:18.201129+00:00
-
- ## BinaryDigit's Now Page
- - [https://now.binarydigit.cafe](https://now.binarydigit.cafe)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## blinkie maker | generate blinkie gifs with custom text!
- - [https://blinkies.cafe](https://blinkies.cafe)
- - date_published: 2024-05-09T08:41:14.068662+00:00
-
- ## BSD.cafe Mastodon Portal
- - [https://mastodon.bsd.cafe](https://mastodon.bsd.cafe)
- - date_published: 2023-10-27T13:13:18.606396+00:00
-
- ## BSD Cafe - Status
- - [https://status.bsd.cafe](https://status.bsd.cafe)
- - date_published: 2024-04-30T05:34:05.356517+00:00
-
- ## CRO.CAFE | Nederlandstalig
- - [https://nl.cro.cafe](https://nl.cro.cafe)
- - date_published: 2022-11-23T00:00:00+00:00
-
- ## CRO.CAFE: Award winning CRO Podcast
- - [https://www.cro.cafe](https://www.cro.cafe)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Home - CSS-Cafe
- - [https://www.css.cafe](https://www.css.cafe)
- - date_published: 2024-04-30T02:02:44.004143+00:00
-
- ## CypherWeavers' Cafe
- - [https://www.cypherweavers.cafe](https://www.cypherweavers.cafe)
- - date_published: 2024-04-28T11:42:58+00:00
-
- ## Daft Punk Cafe
- - [https://daftpunk.cafe](https://daftpunk.cafe)
- - date_published: 2024-05-06T21:28:58.823211+00:00
-
- ## Eldritch Café
- - [https://eldritch.cafe](https://eldritch.cafe)
- - date_published: 2024-01-08T02:07:15.832728+00:00
-
- ## Emma Segal-Grossman
- - [https://emma.cafe](https://emma.cafe)
- - date_published: 2024-06-19T02:26:03.907484+00:00
-
- ## Bit banging a 3.5" Floppy Drive
- - [https://floppy.cafe](https://floppy.cafe)
- - date_published: 2023-12-19T18:09:27+00:00
-
- ## Functional Café
- - [https://functional.cafe](https://functional.cafe)
- - date_published: 2024-05-09T02:39:05.354509+00:00
-
- ## gist.cafe
- - [https://gist.cafe](https://gist.cafe)
- - date_published: 2024-04-29T02:09:13+00:00
-
- ## Hey.Café
- - [https://hey.cafe](https://hey.cafe)
- - date_published: 2024-07-02T20:13:02.105446+00:00
-
- ## Hyperlink Cafe
- - [https://hyperlink.cafe](https://hyperlink.cafe)
- - date_published: 2024-05-06T15:01:28.005543+00:00
-
- ## Lab.cafe | Dielňa, Kaviareň, Podujatia
- - [https://lab.cafe](https://lab.cafe)
- - date_published: 2024-07-02T23:43:10.961811+00:00
-
- ## lechuza café
- - [https://lechuza.cafe](https://lechuza.cafe)
- - date_published: 2024-04-03T06:30:06.410291+00:00
- - tags: ['personal']
-
- ## Lemmy Cafe - A general purpose fediverse instance
- - [https://lemmy.cafe](https://lemmy.cafe)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## lovesick ♡
- - [https://lovesick.cafe](https://lovesick.cafe)
- - date_published: 2024-06-19T20:12:44+00:00
-
- ## medic.cafe
- - [https://medic.cafe](https://medic.cafe)
- - date_published: 2024-05-10T06:47:49.954213+00:00
-
- ## netcup
- - [https://netcup.cafe](https://netcup.cafe)
- - date_published: 2024-01-09T00:00:00+00:00
-
- - [https://webzine.nixos.cafe](https://webzine.nixos.cafe)
- - date_published: 2024-01-09T02:27:20.257524+00:00
-
- ## Login
- - [https://dns.omada.cafe](https://dns.omada.cafe)
- - date_published: 2024-05-11T08:53:43.916124+00:00
-
- ## Omada's Café Fedi
- - [https://fedi.omada.cafe](https://fedi.omada.cafe)
- - date_published: 2024-05-11T08:53:42.320601+00:00
-
- ## Omada Git server
- - [https://git.omada.cafe](https://git.omada.cafe)
- - date_published: 2024-05-11T08:53:41.609322+00:00
-
- ## Login
- - [https://nydns.omada.cafe](https://nydns.omada.cafe)
- - date_published: 2024-05-11T08:53:40.617524+00:00
-
- ## Omada
- - [https://omada.cafe](https://omada.cafe)
- - date_published: 2024-03-20T21:29:27.487824+00:00
- - tags: ['personal']
-
- ## Omada Uptime
- - [https://uptime.omada.cafe](https://uptime.omada.cafe)
- - date_published: 2024-07-02T12:25:14+00:00
-
- ## Omada Peertube
- - [https://video.omada.cafe](https://video.omada.cafe)
- - date_published: 2024-05-11T08:53:43.109262+00:00
-
- ## Invidious
- - [https://yt.omada.cafe](https://yt.omada.cafe)
- - date_published: 2024-05-11T08:53:39.779642+00:00
-
- ## Onio Café
- - [https://onio.cafe](https://onio.cafe)
- - date_published: 2024-04-05T02:01:18+00:00
-
- ## ordinary.cafe
- - [https://ordinary.cafe](https://ordinary.cafe)
- - date_published: 2024-06-19T23:48:48.047436+00:00
-
- ## Home
- - [https://owen.cafe](https://owen.cafe)
- - date_published: 2023-10-25T08:43:10.163631+00:00
- - tags: ['personal']
-
- ## owo.cafe
- - [https://owo.cafe](https://owo.cafe)
- - date_published: 2024-07-10T07:29:04.554240+00:00
-
- ## Penpal Café
- - [https://penpal.cafe](https://penpal.cafe)
- - date_published: 2024-04-03T07:36:11+00:00
-
- ## Prompt.Cafe | AI Prompt Starter Pack
- - [https://www.prompt.cafe](https://www.prompt.cafe)
- - date_published: 2023-08-21T00:00:00+00:00
-
- ## OpenBSD webzine homepage
- - [https://webzine.puffy.cafe](https://webzine.puffy.cafe)
- - date_published: 2023-10-30T21:38:37.602934+00:00
-
- ## Re:Play Cafe
- - [https://replay.cafe](https://replay.cafe)
- - date_published: 2023-01-09T07:24:17+00:00
-
- ## Sivar Cafe
- - [https://sivar.cafe](https://sivar.cafe)
- - date_published: 2024-07-10T06:39:30.430324+00:00
-
- ## Akkoma
- - [https://sleepless.cafe](https://sleepless.cafe)
- - date_published: 2024-06-17T03:31:52.907540+00:00
-
- ## Business-Class Web Hosting by (mt) Media Temple
- - [http://spam.cafe](http://spam.cafe)
- - date_published: 2022-06-15T17:49:35+00:00
-
- ## Status Cafe
- - [https://status.cafe](https://status.cafe)
- - date_published: 2024-04-30T06:16:34.197522+00:00
-
- ## Sunday Sites
- - [https://sundaysites.cafe](https://sundaysites.cafe)
- - date_published: 2024-04-07T00:00:00+00:00
-
- ## Pencil
- - [https://pencil.toast.cafe](https://pencil.toast.cafe)
- - date_published: 2023-10-25T12:09:51.787994+00:00
-
- ## Toot Café
- - [https://toot.cafe](https://toot.cafe)
- - date_published: 2023-10-25T12:09:53.298119+00:00
-
- ## troet.cafe  - Mastodon
- - [https://troet.cafe](https://troet.cafe)
- - date_published: 2024-04-29T06:14:07.312882+00:00
-
- ## Accueil - Unbon.cafe
- - [https://unbon.cafe](https://unbon.cafe)
- - date_published: 2022-12-31T17:47:13+00:00
-
- ## VocaLounge
- - [https://vocalounge.cafe](https://vocalounge.cafe)
- - date_published: 2024-07-10T08:45:08.700397+00:00
-
- ## Halide Mark II: Pro. Camera. Action.
- - [https://halide.cam](https://halide.cam)
- - date_published: 2024-04-30T05:35:08.243958+00:00
-
- ## Polycam Learn
- - [https://learn.poly.cam](https://learn.poly.cam)
- - date_published: 2024-04-30T05:35:06.503204+00:00
-
- ## Polycam - LiDAR & 3D Scanner for iPhone & Android
- - [https://poly.cam](https://poly.cam)
- - date_published: 2023-10-25T08:38:30.080927+00:00
-
- ## Spectre
- - [https://spectre.cam](https://spectre.cam)
- - date_published: 2024-04-30T05:35:11.723117+00:00
-
- ## Lux
- - [https://lux.camera](https://lux.camera)
- - date_published: 2023-10-25T12:09:56.046567+00:00
-
- ## meow.camera
- - [https://meow.camera](https://meow.camera)
- - date_published: 2024-06-20T02:56:52.252276+00:00
-
- ## Telecast
- - [https://telecast.camera](https://telecast.camera)
- - date_published: 2024-07-14T08:30:21.733236+00:00
-
- ## VWFNDR
- - [https://vwfndr.camera](https://vwfndr.camera)
- - date_published: 2024-04-29T07:14:37.211339+00:00
-
- ## 1337 Bootcamp / Gaming House
- - [https://1337.camp](https://1337.camp)
- - date_published: 2024-07-13T13:23:12.891452+00:00
-
- ## AI Safety Camp
- - [https://aisafety.camp](https://aisafety.camp)
- - date_published: 2024-05-04T12:17:46.253900+00:00
-
- ## Corbin.Camp
- - [https://corbin.camp](https://corbin.camp)
- - date_published: 2008-01-01T00:00:00+00:00
-
- ## International Hacking & Cyber Security Community - DefCamp 2024
- - [https://def.camp](https://def.camp)
- - date_published: 2024-06-21T11:58:10.659942+00:00
-
- ## Dice.camp
- - [https://dice.camp](https://dice.camp)
- - date_published: 2024-05-12T05:41:48.220110+00:00
-
- ## Friend Camp
- - [https://friend.camp](https://friend.camp)
- - date_published: 2024-05-06T19:58:34.209137+00:00
-
- ## Micro Camp: a virtual gathering of the Micro.blog community
- - [https://micro.camp](https://micro.camp)
- - date_published: 2024-05-04T07:00:21.898447+00:00
-
- ## Home - MOCA2024
- - [https://moca.camp](https://moca.camp)
- - date_published: 2024-06-20T16:14:02+00:00
-
- ## OpenCat Forum | Petoi LLC | United States
- - [https://petoi.camp](https://petoi.camp)
- - date_published: 2024-05-11T09:24:50.843560+00:00
-
- ## White Christian Family - The white Christian family is the foundation of Western civilization
- - [https://saints.camp](https://saints.camp)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Sleepawake Camp
- - [https://www.sleepawake.camp](https://www.sleepawake.camp)
- - date_published: 2024-05-26T00:00:00+00:00
 
