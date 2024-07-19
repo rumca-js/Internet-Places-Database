@@ -1,3 +1,247 @@
+ ## Tube.ulne.be
+ - [https://tube.ulne.be](https://tube.ulne.be)
+ - date_published: 2024-07-10T09:00:49.345215+00:00
+
+ ## Blog - ulne.be
+ - [https://ulne.be](https://ulne.be)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home
+ - [http://unizo.be](http://unizo.be)
+ - date_published: 2024-07-12T09:16:18.499593+00:00
+
+ ## Upscribe Newsletter Creator: Email Capture Sign Up Forms, Marketing &Amp; Sequences Tool
+ - [https://upscri.be](https://upscri.be)
+ - date_published: 2022-10-18T16:56:58+00:00
+
+ ## Us by Night - 26-27-28 Sep 2024 - Antwerp, Belgium
+ - [http://usbynight.be](http://usbynight.be)
+ - date_published: 2024-07-13T15:33:30.410199+00:00
+
+ ## Vakantieweb: Vakantiewoningen, Rondreizen, Cruises, Verblijven en Reportages
+ - [https://www.vakantieweb.be](https://www.vakantieweb.be)
+ - date_published: 2024-07-02T21:35:31.727301+00:00
+
+ ## vanecx
+ - [https://vanecx.be](https://vanecx.be)
+ - date_published: 2024-05-09T07:51:31.153656+00:00
+
+ ## Home
+ - [https://www.vanin.be](https://www.vanin.be)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Ethische Fondsenwerving vzw
+ - [https://www.vef-aerf.be](https://www.vef-aerf.be)
+ - date_published: 2024-07-02T22:36:01.891218+00:00
+
+ ## VELCRO® Brand Fastening Solutions | Velcro Companies
+ - [https://fr.velcro.be](https://fr.velcro.be)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## VELCRO® Brand Fastening Solutions | Velcro Companies
+ - [https://www.velcro.be](https://www.velcro.be)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Tickets - Concert, Sport & Theatre Tickets | viagogo the Ticket Marketplace
+ - [https://www.viagogo.be](https://www.viagogo.be)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Vibus | Webdesign & Online Marketing in Lommel
+ - [https://vibus.be](https://vibus.be)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## IT consultant Lint | VICCAS IT Consultancy
+ - [https://www.viccas.be](https://www.viccas.be)
+ - date_published: 2024-06-15T15:51:42.242178+00:00
+
+ ## Bachelors, Masters & Advanced Programmes in University College | VINCI
+ - [https://www.vinci.be](https://www.vinci.be)
+ - date_published: 2024-07-02T23:05:07.266704+00:00
+
+ ## Visa, een van de vertrouwde leiders in digitale betalingen
+ - [https://visa.be](https://visa.be)
+ - date_published: 2024-05-12T03:58:53.526269+00:00
+
+ ## Vision on technology for a better world
+ - [https://vito.be](https://vito.be)
+ - date_published: 2024-07-01T03:10:30+00:00
+
+ ## Action Vivre Ensemble - Contre la pauvreté, je choisis la solidarité !
+ - [https://vivre-ensemble.be](https://vivre-ensemble.be)
+ - date_published: 2022-02-16T16:32:55+00:00
+
+ ## Vlaamse Erfgoedbibliotheken
+ - [https://vlaamse-erfgoedbibliotheek.be](https://vlaamse-erfgoedbibliotheek.be)
+ - date_published: 2024-05-07T15:17:23.475905+00:00
+
+ ## Sign in - Google Accounts
+ - [http://bestuur.vlaamse-erfgoedbibliotheken.be](http://bestuur.vlaamse-erfgoedbibliotheken.be)
+ - date_published: 2024-06-30T05:01:50.219733+00:00
+
+ ## Vlaamse Erfgoedbibliotheken
+ - [https://vlaamse-erfgoedbibliotheken.be](https://vlaamse-erfgoedbibliotheken.be)
+ - date_published: 2024-06-30T03:47:27+00:00
+
+ ## Welkom Data.Vlaanderen.be
+ - [https://data.vlaanderen.be](https://data.vlaanderen.be)
+ - date_published: 2024-06-27T14:15:26+00:00
+
+ ## Informatie van de Vlaamse overheid
+ - [http://vlaanderen.be](http://vlaanderen.be)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Welkom bij de Vlaamse Open City Architectuur (VLOCA) Kennishub
+ - [https://vloca-kennishub.vlaanderen.be](https://vloca-kennishub.vlaanderen.be)
+ - date_published: 2024-04-18T13:17:56+00:00
+
+ ## Immovlan.be
+ - [https://immo.vlan.be](https://immo.vlan.be)
+ - date_published: 2024-07-02T21:35:04.152110+00:00
+
+ ## Home | Vluchtelingenwerk
+ - [http://www.vluchtelingenwerk.be](http://www.vluchtelingenwerk.be)
+ - date_published: 2024-07-17T10:33:15.098529+00:00
+
+ ## Cabinet Architecte Argentan - Voem VZW - voem-vzw.be
+ - [http://www.voem-vzw.be](http://www.voem-vzw.be)
+ - date_published: 2023-12-11T11:20:21+00:00
+
+ ## Home
+ - [https://www.voys.be](https://www.voys.be)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Werken bij de VRT
+ - [https://jobs.vrt.be](https://jobs.vrt.be)
+ - date_published: 2024-07-02T21:36:18.988405+00:00
+
+ ## Home | VRT.be
+ - [https://www.vrt.be](https://www.vrt.be)
+ - date_published: 2024-02-28T22:18:04.897095+00:00
+
+ ## LSTS Landing Page | LSTS
+ - [https://lsts.research.vub.be](https://lsts.research.vub.be)
+ - date_published: 2024-07-08T16:28:29+00:00
+
+ ## Vrije Universiteit Brussel
+ - [https://researchportal.vub.be](https://researchportal.vub.be)
+ - date_published: 2024-07-07T05:40:23.782142+00:00
+
+ ## Agriculture en Wallonie - Portail de l'agriculture wallonne
+ - [https://agriculture.wallonie.be](https://agriculture.wallonie.be)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## La gestion des risques et crises - CORTEX
+ - [https://cortex.wallonie.be](https://cortex.wallonie.be)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## CRA-W | Site Officiel du Centre wallon de Recherches agronomiques
+ - [https://cra.wallonie.be](https://cra.wallonie.be)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Développement Durable
+ - [http://developpementdurable.wallonie.be](http://developpementdurable.wallonie.be)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Accueil | WalEurope
+ - [http://europe.wallonie.be](http://europe.wallonie.be)
+ - date_published: 2024-06-12T11:14:25.948273+00:00
+
+ ## Portail Finances - Portail du SPW Finances
+ - [https://finances.wallonie.be](https://finances.wallonie.be)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Accueil
+ - [https://geoportail.wallonie.be](https://geoportail.wallonie.be)
+ - date_published: 2024-06-12T11:14:57.538535+00:00
+
+ ## Les marchés publics en Wallonie - Entreprises
+ - [https://marchespublics.wallonie.be](https://marchespublics.wallonie.be)
+ - date_published: 2024-06-12T11:14:52.830477+00:00
+
+ ## Mon Espace
+ - [https://monespace.wallonie.be](https://monespace.wallonie.be)
+ - date_published: 2024-06-12T11:14:54.935631+00:00
+
+ ## BIODIMESTICA | Patrimoine fruitier & légumier des Hauts-de-France et de Wallonie
+ - [https://rwdf.cra.wallonie.be](https://rwdf.cra.wallonie.be)
+ - date_published: 2024-06-11T23:56:29.198756+00:00
+
+ ## Accueil | Service public de Wallonie
+ - [https://spw.wallonie.be](https://spw.wallonie.be)
+ - date_published: 2024-06-12T11:15:02.645718+00:00
+
+ ## Wallex - Wallex
+ - [https://wallex.wallonie.be](https://wallex.wallonie.be)
+ - date_published: 2024-06-12T11:15:01.363904+00:00
+
+ ## Accueil
+ - [https://www.wallonie.be](https://www.wallonie.be)
+ - date_published: 2024-06-12T03:29:20.734936+00:00
+
+ ## Accueil - Wallonie Design - Trouvez les designers près de chez vous
+ - [http://walloniedesign.be](http://walloniedesign.be)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## WarnerBros.be | Homepagina van WB Films, TV, Games en meer!
+ - [https://warnerbros.be](https://warnerbros.be)
+ - date_published: 2024-05-07T11:19:24.704638+00:00
+
+ ## Accueil - Wallonie-Bruxelles Mode Design - WBDM
+ - [http://www.wbdm.be](http://www.wbdm.be)
+ - date_published: 2024-07-12T09:16:36.449131+00:00
+
+ ## Bienvenue sur Wallonie-Bruxelles International (WBI)
+ - [http://www.wbi.be](http://www.wbi.be)
+ - date_published: 2024-06-17T15:44:12.747984+00:00
+
+ ## WBImages
+ - [http://www.wbimages.be](http://www.wbimages.be)
+ - date_published: 2024-07-12T16:55:59.363662+00:00
+
+ ## Goodbye Undefined
+ - [http://weareundefined.be](http://weareundefined.be)
+ - date_published: 2024-07-13T15:34:21.859696+00:00
+
+ ## Digital Experience Design - Bachelor Thomas More
+ - [https://www.wearexd.be](https://www.wearexd.be)
+ - date_published: 2024-07-14T08:48:17.221219+00:00
+
+ ## Agence web Drupal digitale et créative
+ - [https://www.webstanz.be](https://www.webstanz.be)
+ - date_published: 2024-07-07T05:10:58+00:00
+
+ ## webtechie.be
+ - [https://webtechie.be](https://webtechie.be)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Weer & Radar Belgie
+ - [https://weerenradar.be](https://weerenradar.be)
+ - date_published: 2024-05-07T13:25:31.521248+00:00
+
+ ## Westwing | Jouw online interieurshop
+ - [https://www.westwing.be](https://www.westwing.be)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Bach's Cantata Calendar
+ - [https://whichbachcantata.be](https://whichbachcantata.be)
+ - date_published: 2024-02-19T10:11:11+00:00
+
+ ## Wieni
+ - [https://wieni.be](https://wieni.be)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home - Wijngaard Natie
+ - [https://www.wijngaardnatie.be](https://www.wijngaardnatie.be)
+ - date_published: 2024-06-16T20:12:43.877996+00:00
+
+ ## De Winkelhaak | House of C
+ - [https://www.winkelhaak.be](https://www.winkelhaak.be)
+ - date_published: 2024-07-12T09:16:43.768626+00:00
+
+ ## Win Prijzen - alle wedstrijden van België verzameld
+ - [http://www.winprijzen.be](http://www.winprijzen.be)
+ - date_published: 2024-06-19T15:10:28+00:00
+
  ## Stéphane's Blog
  - [https://wirtel.be](https://wirtel.be)
  - date_published: 2024-06-28T20:05:28.263074+00:00
@@ -264,6 +508,10 @@
  ## Saftladen Indie Games Collective
  - [https://saftladen.berlin](https://saftladen.berlin)
  - date_published: 2024-05-06T06:35:01.662724+00:00
+
+ ## Stadt.Land.Tech
+ - [https://www.smartcountry.berlin](https://www.smartcountry.berlin)
+ - date_published: 2024-07-17T00:23:03+00:00
 
  ## Jeffrey Paul
  - [https://sneak.berlin](https://sneak.berlin)
@@ -1297,6 +1545,10 @@
  - [https://kito.portal.district.biz](https://kito.portal.district.biz)
  - date_published: 2024-01-22T07:43:23.228582+00:00
 
+ ## DM Radio – Let's talk Data!
+ - [https://dmradio.biz](https://dmradio.biz)
+ - date_published: 2024-07-18T00:00:00+00:00
+
  ## editionsbiceps
  - [https://editionsbiceps.biz](https://editionsbiceps.biz)
  - date_published: 2024-07-04T01:57:46.688078+00:00
@@ -1760,6 +2012,10 @@
  - date_published: 2023-10-25T09:01:28.320767+00:00
  - tags: ['personal']
 
+ ## Alejandro Celaya | Blog — Software development, agile methodologies and open source software
+ - [https://alejandrocelaya.blog](https://alejandrocelaya.blog)
+ - date_published: 2024-07-16T07:31:10+00:00
+
  ## Alex's Blog
  - [https://alex.blog](https://alex.blog)
  - date_published: 2024-06-17T03:01:20+00:00
@@ -2009,6 +2265,10 @@
  ## cool as heck
  - [https://cool-as-heck.blog](https://cool-as-heck.blog)
  - date_published: 2024-06-04T00:00:00+00:00
+
+ ## crazy-type.blog
+ - [https://crazy-type.blog](https://crazy-type.blog)
+ - date_published: 2024-07-15T11:30:09+00:00
 
  ## Mike Crittenden
  - [https://critter.blog](https://critter.blog)
@@ -2266,6 +2526,10 @@
  - [https://glgonzalezfuster.blog](https://glgonzalezfuster.blog)
  - date_published: 2024-06-23T03:24:13+00:00
 
+ ## GlotPress
+ - [https://glotpress.blog](https://glotpress.blog)
+ - date_published: 2024-03-13T00:00:00+00:00
+
  ## Good Thoughts | Richard Y Chappell | Substack
  - [https://www.goodthoughts.blog](https://www.goodthoughts.blog)
  - date_published: 2024-06-10T00:00:00+00:00
@@ -2378,6 +2642,10 @@
  ## Around These Islands
  - [https://novaroundbritain.home.blog](https://novaroundbritain.home.blog)
  - date_published: 2024-05-07T14:47:12.542485+00:00
+
+ ## Onyx typer
+ - [https://onyxtyper.home.blog](https://onyxtyper.home.blog)
+ - date_published: 2024-07-18T17:15:55.633074+00:00
 
  ## Imogen is Reading and Watching the World: On Books, Film, Art & More
  - [https://readingandwatchingtheworld.home.blog](https://readingandwatchingtheworld.home.blog)
@@ -3621,9 +3889,41 @@
  - [http://www.masp.art.br](http://www.masp.art.br)
  - date_published: 2024-06-24T09:07:39.852939+00:00
 
+ ## Antispam.br ::
+ - [https://www.antispam.br](https://www.antispam.br)
+ - date_published: 2014-08-21T19:20:31+00:00
+
  ## Centro Federal de Educação Tecnológica de Minas Gerais
  - [https://www.cefetmg.br](https://www.cefetmg.br)
  - date_published: 2024-07-13T18:13:18.016400+00:00
+
+ ## Ceptro.br - Centro de Estudos e Pesquisas em Tecnologia de Redes e Operações
+ - [https://ceptro.br](https://ceptro.br)
+ - date_published: 2024-07-18T12:38:56.243002+00:00
+
+ ## Ceptro.br - Centro de Estudos e Pesquisas em Tecnologia de Redes e Operações
+ - [https://www.ceptro.br](https://www.ceptro.br)
+ - date_published: 2024-07-18T12:38:09.417823+00:00
+
+ ## Cartilha de Segurança para Internet
+ - [https://cartilha.cert.br](https://cartilha.cert.br)
+ - date_published: 2024-07-18T03:05:01+00:00
+
+ ## CERT.br - Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil
+ - [https://cert.br](https://cert.br)
+ - date_published: 2024-06-03T21:09:17+00:00
+
+ ## Home
+ - [https://cetic.br](https://cetic.br)
+ - date_published: 2024-06-17T15:19:04+00:00
+
+ ## Ceweb.br - Centro de Estudos sobre Tecnologias Web
+ - [https://ceweb.br](https://ceweb.br)
+ - date_published: 2024-04-24T09:50:06+00:00
+
+ ## CGI.br - Comitê Gestor da Internet no Brasil
+ - [https://cgi.br](https://cgi.br)
+ - date_published: 2024-07-17T13:07:04+00:00
 
  ## Plataforma Integrada Carlos Chagas
  - [http://carloschagas.cnpq.br](http://carloschagas.cnpq.br)
@@ -3689,6 +3989,10 @@
  - [http://www.ensp.fiocruz.br](http://www.ensp.fiocruz.br)
  - date_published: 2024-06-21T19:41:57.023607+00:00
 
+ ## Internet Segura
+ - [https://internetsegura.br](https://internetsegura.br)
+ - date_published: 2024-07-17T10:08:26+00:00
+
  ## IPv6
  - [http://ipv6.br](http://ipv6.br)
  - date_published: 2024-02-29T00:00:00+00:00
@@ -3697,9 +4001,37 @@
  - [https://assinador.iti.br](https://assinador.iti.br)
  - date_published: 2024-05-10T03:45:53.589618+00:00
 
+ ## IX.br
+ - [https://ix.br](https://ix.br)
+ - date_published: 2024-07-18T12:38:40.857528+00:00
+
+ ## bcp.nic.br
+ - [https://bcp.nic.br](https://bcp.nic.br)
+ - date_published: 2024-07-18T12:38:11.979953+00:00
+
+ ## Cidadão na Rede
+ - [https://cidadaonarede.nic.br](https://cidadaonarede.nic.br)
+ - date_published: 2024-07-18T12:38:30.754334+00:00
+
+ ## Cursos e eventos NIC.br
+ - [https://cursoseventos.nic.br](https://cursoseventos.nic.br)
+ - date_published: 2024-07-18T12:38:48.493136+00:00
+
+ ## Teste sua Velocidade de Internet | SIMET
+ - [https://simet.nic.br](https://simet.nic.br)
+ - date_published: 2023-08-31T15:29:16+00:00
+
+ ## Teste para padrões técnicos modernos de Internet, como IPv6, DNSSEC, HTTPS, TLS, HSTS, DMARC, DKIM, SPF, STARTTLS e DANE.
+ - [https://top.nic.br](https://top.nic.br)
+ - date_published: 2024-07-18T12:38:51.187755+00:00
+
  ## Núcleo de Informação e Coordenação do Ponto BR - Início
- - [https://www.nic.br](https://www.nic.br)
+ - [https://nic.br](https://nic.br)
  - date_published: 2024-05-14T03:51:51.865000+00:00
+
+ ## IX.br
+ - [https://ptt.br](https://ptt.br)
+ - date_published: 2024-07-18T12:38:17.847584+00:00
 
  ## Ambiente de Aprendizagem Online da PUC-Rio: Acesso ao site
  - [https://ead.puc-rio.br](https://ead.puc-rio.br)
@@ -3760,337 +4092,4 @@
  ## PUC-Rio - Rio Datacentro (RDC)
  - [https://www.rdc.puc-rio.br](https://www.rdc.puc-rio.br)
  - date_published: 2024-07-07T06:42:28.527190+00:00
-
- ## Início
- - [http://www.ser.puc-rio.br](http://www.ser.puc-rio.br)
- - date_published: 2024-07-07T06:43:24+00:00
-
- ## Tecgraf, PUC-Rio
- - [https://www.tecgraf.puc-rio.br](https://www.tecgraf.puc-rio.br)
- - date_published: 2023-10-25T12:02:07.692461+00:00
-
- ## Rede-Rio | Rede Acadêmica do Rio de Janeiro
- - [https://rederio.br](https://rederio.br)
- - date_published: 2024-07-07T06:42:03.092211+00:00
-
- ## Registro.br
- - [https://registro.br](https://registro.br)
- - date_published: 2024-05-01T06:42:03.573779+00:00
-
- ## PoP-RS
- - [http://www.pop-rs.rnp.br](http://www.pop-rs.rnp.br)
- - date_published: 2024-06-15T17:37:44.884605+00:00
-
- ## Simepar
- - [http://www.simepar.br](http://www.simepar.br)
- - date_published: 2024-06-12T11:18:45.164578+00:00
-
- ## Softex
- - [http://www.ftp.softex.br](http://www.ftp.softex.br)
- - date_published: 2024-06-12T11:17:22.624511+00:00
-
- ## Documento sem título
- - [http://gtrh.tche.br](http://gtrh.tche.br)
- - date_published: 2005-01-05T13:22:24+00:00
-
- ## Página Inicial
- - [http://www.cert-rs.tche.br](http://www.cert-rs.tche.br)
- - date_published: 2024-06-15T17:37:40+00:00
-
- ## PORTAL SETISD
- - [https://sistemas.huwc.ufc.br](https://sistemas.huwc.ufc.br)
- - date_published: 2024-03-15T13:15:55+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [http://www2.ic.uff.br](http://www2.ic.uff.br)
- - date_published: 2024-05-06T13:35:12.673644+00:00
-
- ## Authentication - GLPI
- - [https://atendimento-sti2.ufma.br](https://atendimento-sti2.ufma.br)
- - date_published: 2024-06-16T15:22:47.899739+00:00
-
- ## atoba.fisica.ufmg.br
- - [https://atoba.fisica.ufmg.br](https://atoba.fisica.ufmg.br)
- - date_published: 2024-05-11T08:08:47.217872+00:00
-
- ## Biblioteca do Departamento de Química - ICEx/UFMG | Biblioteca do Departamento de Química - ICEx/UFMG
- - [http://biblioteca.qui.ufmg.br](http://biblioteca.qui.ufmg.br)
- - date_published: 2024-07-13T18:19:43+00:00
-
- ## Black Hole - UFMG / DTI
- - [http://blackhole.rede.ufmg.br](http://blackhole.rede.ufmg.br)
- - date_published: 2024-07-13T18:18:55.449683+00:00
-
- ## Espaço do Colaborador
- - [http://colaborador.fundep.ufmg.br](http://colaborador.fundep.ufmg.br)
- - date_published: 2024-03-21T16:31:24+00:00
-
- ## Sala de Demonstrações de Física - UFMG
- - [https://demonstracoes.fisica.ufmg.br](https://demonstracoes.fisica.ufmg.br)
- - date_published: 2024-05-11T08:09:12.771306+00:00
-
- ## Fundep - Espaço do Coordenador
- - [https://ec.fundep.ufmg.br](https://ec.fundep.ufmg.br)
- - date_published: 2024-07-13T18:16:17.641805+00:00
-
- ## LCPNano - Física/UFMG
- - [http://lcpnano.ufmg.br](http://lcpnano.ufmg.br)
- - date_published: 2024-05-11T08:08:57.602511+00:00
-
- ## Física - UFMG -Site secundario
- - [https://lilith.fisica.ufmg.br](https://lilith.fisica.ufmg.br)
- - date_published: 2024-03-18T22:49:00.695043+00:00
-
- ## SSO - minhaUFMG
- - [https://minha.ufmg.br](https://minha.ufmg.br)
- - date_published: 2024-05-11T08:08:00.331088+00:00
-
- ## HTTP Server Test Page powered by CentOS
- - [http://ni100t.fisica.ufmg.br](http://ni100t.fisica.ufmg.br)
- - date_published: 2021-07-03T13:48:21+00:00
-
- ## Portal de Periódicos da UFMG
- - [https://periodicos.ufmg.br](https://periodicos.ufmg.br)
- - date_published: 2024-07-13T18:19:33.151876+00:00
-
- ## Fundep - Portal de Compras
- - [https://portaldecompras.fundep.ufmg.br](https://portaldecompras.fundep.ufmg.br)
- - date_published: 2024-07-13T18:16:13.127252+00:00
-
- ## Programa de Pós-graduação em Ciência da Computação
- - [https://ppgcc.dcc.ufmg.br](https://ppgcc.dcc.ufmg.br)
- - date_published: 2024-07-13T18:19:47.272373+00:00
-
- ## Processo Seletivo - Física - UFMG
- - [http://procsel.fisica.ufmg.br](http://procsel.fisica.ufmg.br)
- - date_published: 2024-07-13T18:18:48.387870+00:00
-
- ## SGSED - Sistema de Encargos Didáticos
- - [https://sgsed.fisica.ufmg.br](https://sgsed.fisica.ufmg.br)
- - date_published: 2024-05-11T08:08:42.754957+00:00
-
- ## SSO - minhaUFMG
- - [https://sistemas.ufmg.br](https://sistemas.ufmg.br)
- - date_published: 2024-07-13T18:04:07.578049+00:00
-
- ## Início - Portal da Transparência da FUNDEP
- - [https://transparencia.fundep.ufmg.br](https://transparencia.fundep.ufmg.br)
- - date_published: 2024-07-13T18:15:59.430159+00:00
-
- ## .
- - [https://tupi.fisica.ufmg.br](https://tupi.fisica.ufmg.br)
- - date_published: 2024-05-11T08:09:15.884426+00:00
-
- ## UFMG
- - [https://ufmg.br](https://ufmg.br)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Sign in to your account
- - [http://webmail2.fundep.ufmg.br](http://webmail2.fundep.ufmg.br)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## DTI - Diretoria de Tecnologia da Informação - UFMG
- - [http://www.cecom.ufmg.br](http://www.cecom.ufmg.br)
- - date_published: 2024-07-13T18:18:31.222033+00:00
-
- ## Physics Department - UFMG - Departamento
- - [https://www.fisica.ufmg.br](https://www.fisica.ufmg.br)
- - date_published: 2024-05-11T08:08:36.475825+00:00
-
- ## Fundep
- - [https://fundep.ufmg.br](https://fundep.ufmg.br)
- - date_published: 2024-05-11T08:09:00.660884+00:00
-
- ## Universidade Federal de Minas Gerais
- - [https://icex.ufmg.br](https://icex.ufmg.br)
- - date_published: 2024-05-11T08:09:23.781459+00:00
-
- ## LabCri – Laboratório de Cristalografia da UFMG
- - [http://www.labcri.ufmg.br](http://www.labcri.ufmg.br)
- - date_published: 2024-05-11T08:08:20.604803+00:00
-
- ## Departamento de Matematica – ICEx – UFMG – Site do departamento de matemática da Universidade Federal de Minas Gerais
- - [https://www.mat.ufmg.br](https://www.mat.ufmg.br)
- - date_published: 2024-07-13T18:19:38.114316+00:00
-
- ## Faculdade de Medicina da UFMG
- - [https://www.medicina.ufmg.br](https://www.medicina.ufmg.br)
- - date_published: 2024-07-13T18:16:06.566915+00:00
-
- ## MOM. Morar de Outras Maneiras.
- - [https://www.mom.arq.ufmg.br](https://www.mom.arq.ufmg.br)
- - date_published: 2022-04-22T19:07:25+00:00
-
- ## OBSERVATÓRIO ASTRONÔMICO FREI ROSÁRIO
- - [https://www.observatorio.ufmg.br](https://www.observatorio.ufmg.br)
- - date_published: 2024-05-11T08:09:08.436766+00:00
-
- ## Programa de Pós-Graduação em Química - UFMG
- - [http://www.ppg.qui.ufmg.br](http://www.ppg.qui.ufmg.br)
- - date_published: 2024-07-13T18:19:41.262753+00:00
-
- ## PHP 7.4.33 - phpinfo()
- - [http://xivec.fisica.ufmg.br](http://xivec.fisica.ufmg.br)
- - date_published: 2024-07-13T18:18:38.672031+00:00
-
- ## ITU2021 | ML5G PHY
- - [https://ai5gchallenge.ufpa.br](https://ai5gchallenge.ufpa.br)
- - date_published: 2022-03-23T12:17:23+00:00
-
- ## CIn UFPE
- - [https://www.cin.ufpe.br](https://www.cin.ufpe.br)
- - date_published: 2024-04-29T07:46:51.033400+00:00
-
- ## Redes de Computadores e aplicações na
-Educação
- - [http://penta2.ufrgs.br](http://penta2.ufrgs.br)
- - date_published: 2022-11-30T19:56:07+00:00
-
- ## CINTED – Interdisciplinary Center for New Technologies in Education
- - [http://www.cinted.ufrgs.br](http://www.cinted.ufrgs.br)
- - date_published: 2024-06-15T17:37:34.079834+00:00
-
- ## ESPIE 2009 - CINTED/UFRGS
- - [http://www.espie.cinted.ufrgs.br](http://www.espie.cinted.ufrgs.br)
- - date_published: 2017-12-22T13:18:34+00:00
-
- ## Gondwana | Review of the Geological Map of Gondwana - IGCP-628 - Revisão do Mapa geológico do Gondwana
- - [http://www.gondwana.geologia.ufrj.br](http://www.gondwana.geologia.ufrj.br)
- - date_published: 2021-07-08T14:46:14+00:00
-
- ## Eventos UFU | Portal de Eventos da Universidade Federal de Uberlândia
- - [https://eventos.ufu.br](https://eventos.ufu.br)
- - date_published: 2024-05-10T06:57:17.711249+00:00
-
- ## Bibliotecas
- - [http://www.bibliotecas.ufu.br](http://www.bibliotecas.ufu.br)
- - date_published: 2024-07-13T02:25:56.738430+00:00
-
- ## Início | Comunica UFU
- - [http://www.comunica.ufu.br](http://www.comunica.ufu.br)
- - date_published: 2024-07-13T02:25:51.710302+00:00
-
- ## Relações Internacionais e Interinstitucionais
- - [http://www.dri.ufu.br](http://www.dri.ufu.br)
- - date_published: 2024-07-13T02:25:27.966417+00:00
-
- ## EDUFU - Editora da Universidade Federal de Uberlândia | Universidade Federal de Uberlândia
- - [http://www.edufu.ufu.br](http://www.edufu.ufu.br)
- - date_published: 2024-07-13T02:25:39.885123+00:00
-
- ## Restaurante Universitário
- - [http://www.ru.ufu.br](http://www.ru.ufu.br)
- - date_published: 2016-05-27T00:02:45+00:00
-
- ## UFU | Universidade Federal de Uberlândia
- - [http://www.ufu.br](http://www.ufu.br)
- - date_published: 2024-07-13T02:25:31+00:00
-
- ## Departamento de Ciências da Computação - CIC - Início
- - [http://www.cic.unb.br](http://www.cic.unb.br)
- - date_published: 2024-06-23T10:57:34+00:00
-
- ## Departamento de Matemática
- - [https://www.mat.unb.br](https://www.mat.unb.br)
- - date_published: 2024-07-17T05:50:11.121905+00:00
-
- ## Universidade de Brasília - Início
- - [http://www.unb.br](http://www.unb.br)
- - date_published: 2024-05-19T02:41:42.253885+00:00
-
- ## Faculdade de Odontologia - Câmpus de Araçatuba
- - [http://www.foa.unesp.br](http://www.foa.unesp.br)
- - date_published: 2024-06-29T10:06:42.639580+00:00
-
- ## Portal da Universidade Estadual Paulista -
- - [http://www.unesp.br](http://www.unesp.br)
- - date_published: 2024-07-15T07:34:22.356617+00:00
-
- ## UNIMEP - Universidade Metodista de Piracicaba —
- - [http://unimep.br](http://unimep.br)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Notícias — Universidade Federal do Estado do Rio de Janeiro
- - [https://www.unirio.br](https://www.unirio.br)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Grupo ATP – apoio técnico pedagógico
- - [https://atp.usp.br](https://atp.usp.br)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Documentação dos Moodles da USP – Ajudar usuários a usar os Moodles da USP
- - [https://docs.atp.usp.br](https://docs.atp.usp.br)
- - date_published: 2024-06-27T16:01:30.872470+00:00
-
- ## Moodle USP: e-Disciplinas
- - [https://edisciplinas.usp.br](https://edisciplinas.usp.br)
- - date_published: 2024-05-06T21:59:53.301285+00:00
-
- ## ICST 2021
- - [https://icst2021.icmc.usp.br](https://icst2021.icmc.usp.br)
- - date_published: 2024-06-26T23:23:26.581121+00:00
-
- ## Rede GNU-Linux
- - [http://linux.ime.usp.br](http://linux.ime.usp.br)
- - date_published: 2024-06-30T08:37:30.859874+00:00
-
- ## NILC
- - [http://nilc.icmc.usp.br](http://nilc.icmc.usp.br)
- - date_published: 2024-04-28T03:36:29.997707+00:00
-
- ## Periferia Livr@
- - [http://periferialivre.fea.usp.br](http://periferialivre.fea.usp.br)
- - date_published: 2024-06-16T15:34:36.090271+00:00
-
- ## USP - Universidade de São Paulo
- - [https://usp.br](https://usp.br)
- - date_published: 2024-06-27T16:01:46.180359+00:00
-
- ## USP - Universidade de São Paulo
- - [http://www5.usp.br](http://www5.usp.br)
- - date_published: 2024-06-23T23:13:41.523014+00:00
-
- ## HOME
- - [http://www.ime.usp.br](http://www.ime.usp.br)
- - date_published: 2020-10-20T12:40:07+00:00
-
- ## Pró-Reitoria de Graduação – Universidade de São Paulo
- - [https://www.prg.usp.br](https://www.prg.usp.br)
- - date_published: 2024-06-27T13:16:33+00:00
-
- ## Superintendência de Tecnologia da Informação | Universidade de São Paulo
- - [https://www.sti.usp.br](https://www.sti.usp.br)
- - date_published: 2024-06-27T16:01:40+00:00
-
- ## Home - Agência de Desenvolvimento do Estado do Ceará
- - [https://www.adece.ce.gov.br](https://www.adece.ce.gov.br)
- - date_published: 2024-06-26T21:56:50.854703+00:00
-
- ## 20th Century Studios Brasil
- - [https://www.20thcenturystudios.com.br](https://www.20thcenturystudios.com.br)
- - date_published: 2024-06-16T02:24:54.111458+00:00
-
- ## Software e Soluções de Telefonia - 3CX
- - [https://www.3cx.com.br](https://www.3cx.com.br)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Loja 3D Lab - Impressão 3D é aqui!
- - [https://3dlab.com.br](https://3dlab.com.br)
- - date_published: 2024-05-11T09:35:46.693058+00:00
-
- ## Sala de Notícias da 3M - Sala de Notícias
- - [https://news.3m.com.br](https://news.3m.com.br)
- - date_published: 2024-06-24T06:23:21+00:00
-
- ## 80.000 Horas: Como fazer a diferença com a sua carreira
- - [https://80000horas.com.br](https://80000horas.com.br)
- - date_published: 2023-12-31T00:00:00+00:00
-
- ## Abate Brutal
- - [https://abatebrutal.com.br](https://abatebrutal.com.br)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Software de Recrutamento e Seleção | abler
- - [https://abler.com.br](https://abler.com.br)
- - date_published: 2024-07-11T00:00:00+00:00
 

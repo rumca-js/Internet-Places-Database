@@ -1,3 +1,35 @@
+ ## Siml.ai - Platform for fast AI-driven physics simulations
+ - [https://siml.ai](https://siml.ai)
+ - date_published: 2024-05-06T22:32:04.949047+00:00
+
+ ## Create a Simple Blog in seconds, Post From Google Docs, Office 365.
+ - [https://simpleblog.ai](https://simpleblog.ai)
+ - date_published: 2023-10-25T11:42:46.174552+00:00
+
+ ## SimpleMail
+ - [https://simplemail.ai](https://simplemail.ai)
+ - date_published: 2024-06-17T09:02:13+00:00
+
+ ## Write content, faster & better -in seconds.
+ - [https://www.sincode.ai](https://www.sincode.ai)
+ - date_published: 2024-06-14T08:59:16.111657+00:00
+
+ ## Sintra - Your next employees, on AI
+ - [https://sintra.ai](https://sintra.ai)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Sista AI - AI Solutions for Accessibility and Integration
+ - [https://sista.ai](https://sista.ai)
+ - date_published: 2024-04-18T21:41:16+00:00
+
+ ## SiteGPT - Make AI your expert customer support agent
+ - [https://sitegpt.ai](https://sitegpt.ai)
+ - date_published: 2024-06-16T01:16:14.273292+00:00
+
+ ## AI landing page builder
+ - [https://www.sitekick.ai](https://www.sitekick.ai)
+ - date_published: 2024-06-10T00:00:00+00:00
+
  ## Automate your customer support with AI
  - [https://sitespeak.ai](https://sitespeak.ai)
  - date_published: 2024-06-18T16:29:34.454898+00:00
@@ -1436,6 +1468,10 @@ Creative Solutions
  ## Webscape
  - [https://webscape.ai](https://webscape.ai)
  - date_published: 2024-05-09T07:25:15.770192+00:00
+
+ ## GPT-Powered Rotating Proxies API for Web Scraping | WebScraping.AI
+ - [https://webscraping.ai](https://webscraping.ai)
+ - date_published: 2024-07-18T14:27:07.697440+00:00
 
  ## Home - WeCareer
  - [http://wecareer.ai](http://wecareer.ai)
@@ -3396,6 +3432,10 @@ Creative Solutions
  - [https://efficient.app](https://efficient.app)
  - date_published: 2024-05-14T03:37:37.676630+00:00
 
+ ## Software & App Stacks by Efficient App
+ - [https://stacks.efficient.app](https://stacks.efficient.app)
+ - date_published: 2024-07-18T06:54:56.569648+00:00
+
  ## YouTube Video Summaries with Eightify AI ChatGPT
  - [https://www.eightify.app](https://www.eightify.app)
  - date_published: 2023-10-25T11:46:08.020954+00:00
@@ -3455,6 +3495,10 @@ Creative Solutions
  ## Engaging Networks
  - [https://us.engagingnetworks.app](https://us.engagingnetworks.app)
  - date_published: 2024-06-28T15:17:20+00:00
+
+ ## EpubKit
+ - [https://epubkit.app](https://epubkit.app)
+ - date_published: 2024-07-18T23:05:15.277956+00:00
 
  ## Equals | The next-generation spreadsheet
  - [https://equals.app](https://equals.app)
@@ -3630,11 +3674,7 @@ Creative Solutions
 
  ## Archive
  - [https://downloads.filestash.app](https://downloads.filestash.app)
- - date_published: 2024-05-14T03:31:31.695587+00:00
-
- ## Filestash
- - [http://filestash.app](http://filestash.app)
- - date_published: 2023-05-01T00:00:00+00:00
+ - date_published: 2020-06-01T03:57:35+00:00
 
  ## Filestash — Self-hosted client for your data
  - [https://filestash.app](https://filestash.app)
@@ -3899,6 +3939,10 @@ Creative Solutions
  - [https://graysky.app](https://graysky.app)
  - date_published: 2024-05-02T13:43:33.063587+00:00
 
+ ## Element
+ - [https://greenbean.app](https://greenbean.app)
+ - date_published: 2024-05-07T12:41:29+00:00
+
  ## Greg - Plant Identifier & Care
  - [https://greg.app](https://greg.app)
  - date_published: 2024-07-12T17:42:05.853174+00:00
@@ -3986,49 +4030,4 @@ Creative Solutions
  ## HighTop
  - [https://hightop.app](https://hightop.app)
  - date_published: 2024-06-22T06:22:39.005957+00:00
-
- ## The remote job board you'll actually enjoy using
- - [https://himalayas.app](https://himalayas.app)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Hive | Fulfillment Provider | All-in-one Operations
- - [https://www.hive.app](https://www.hive.app)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Introduction | Hoarder Docs
- - [https://docs.hoarder.app](https://docs.hoarder.app)
- - date_published: 2024-05-14T03:46:21.700968+00:00
-
- ## Hoarder
- - [https://hoarder.app](https://hoarder.app)
- - date_published: 2024-04-08T19:28:56.756392+00:00
- - tags: ['link aggregator', 'self-host']
-
- ## Hoarder
- - [https://try.hoarder.app](https://try.hoarder.app)
- - date_published: 2024-05-14T03:46:16.964834+00:00
-
- ## Holy Swift
- - [https://holyswift.app](https://holyswift.app)
- - date_published: 2023-10-25T11:46:47.493330+00:00
-
- ## Home Care App
- - [https://home-care.app](https://home-care.app)
- - date_published: 2022-07-20T06:08:45+00:00
-
- ## Homechart | Your Household's Happy Place
- - [https://homechart.app](https://homechart.app)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Homerow — Keyboard shortcuts for every button in macOS
- - [https://www.homerow.app](https://www.homerow.app)
- - date_published: 2023-10-25T11:46:50.039169+00:00
-
- ## Homey - A Better Smart Home
- - [https://homey.app](https://homey.app)
- - date_published: 2024-04-29T04:04:01.939925+00:00
-
- ## Hondana: Virtual Bookshelf & Community
- - [https://hondana.app](https://hondana.app)
- - date_published: 2024-06-23T00:00:00+00:00
 

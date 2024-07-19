@@ -1,3 +1,340 @@
+ ## Início
+ - [http://www.ser.puc-rio.br](http://www.ser.puc-rio.br)
+ - date_published: 2024-07-07T06:43:24+00:00
+
+ ## Tecgraf, PUC-Rio
+ - [https://www.tecgraf.puc-rio.br](https://www.tecgraf.puc-rio.br)
+ - date_published: 2023-10-25T12:02:07.692461+00:00
+
+ ## Rede-Rio | Rede Acadêmica do Rio de Janeiro
+ - [https://rederio.br](https://rederio.br)
+ - date_published: 2024-07-07T06:42:03.092211+00:00
+
+ ## Registro.br
+ - [https://registro.br](https://registro.br)
+ - date_published: 2024-05-01T06:42:03.573779+00:00
+
+ ## PoP-RS
+ - [http://www.pop-rs.rnp.br](http://www.pop-rs.rnp.br)
+ - date_published: 2024-06-15T17:37:44.884605+00:00
+
+ ## Simepar
+ - [http://www.simepar.br](http://www.simepar.br)
+ - date_published: 2024-06-12T11:18:45.164578+00:00
+
+ ## Softex
+ - [http://www.ftp.softex.br](http://www.ftp.softex.br)
+ - date_published: 2024-06-12T11:17:22.624511+00:00
+
+ ## Documento sem título
+ - [http://gtrh.tche.br](http://gtrh.tche.br)
+ - date_published: 2005-01-05T13:22:24+00:00
+
+ ## Página Inicial
+ - [http://www.cert-rs.tche.br](http://www.cert-rs.tche.br)
+ - date_published: 2024-06-15T17:37:40+00:00
+
+ ## PORTAL SETISD
+ - [https://sistemas.huwc.ufc.br](https://sistemas.huwc.ufc.br)
+ - date_published: 2024-03-15T13:15:55+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [http://www2.ic.uff.br](http://www2.ic.uff.br)
+ - date_published: 2024-05-06T13:35:12.673644+00:00
+
+ ## Authentication - GLPI
+ - [https://atendimento-sti2.ufma.br](https://atendimento-sti2.ufma.br)
+ - date_published: 2024-06-16T15:22:47.899739+00:00
+
+ ## atoba.fisica.ufmg.br
+ - [https://atoba.fisica.ufmg.br](https://atoba.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:08:47.217872+00:00
+
+ ## Biblioteca do Departamento de Química - ICEx/UFMG | Biblioteca do Departamento de Química - ICEx/UFMG
+ - [http://biblioteca.qui.ufmg.br](http://biblioteca.qui.ufmg.br)
+ - date_published: 2024-07-13T18:19:43+00:00
+
+ ## Black Hole - UFMG / DTI
+ - [http://blackhole.rede.ufmg.br](http://blackhole.rede.ufmg.br)
+ - date_published: 2024-07-13T18:18:55.449683+00:00
+
+ ## Espaço do Colaborador
+ - [http://colaborador.fundep.ufmg.br](http://colaborador.fundep.ufmg.br)
+ - date_published: 2024-03-21T16:31:24+00:00
+
+ ## Sala de Demonstrações de Física - UFMG
+ - [https://demonstracoes.fisica.ufmg.br](https://demonstracoes.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:09:12.771306+00:00
+
+ ## Fundep - Espaço do Coordenador
+ - [https://ec.fundep.ufmg.br](https://ec.fundep.ufmg.br)
+ - date_published: 2024-07-13T18:16:17.641805+00:00
+
+ ## LCPNano - Física/UFMG
+ - [http://lcpnano.ufmg.br](http://lcpnano.ufmg.br)
+ - date_published: 2024-05-11T08:08:57.602511+00:00
+
+ ## Física - UFMG -Site secundario
+ - [https://lilith.fisica.ufmg.br](https://lilith.fisica.ufmg.br)
+ - date_published: 2024-03-18T22:49:00.695043+00:00
+
+ ## SSO - minhaUFMG
+ - [https://minha.ufmg.br](https://minha.ufmg.br)
+ - date_published: 2024-05-11T08:08:00.331088+00:00
+
+ ## HTTP Server Test Page powered by CentOS
+ - [http://ni100t.fisica.ufmg.br](http://ni100t.fisica.ufmg.br)
+ - date_published: 2021-07-03T13:48:21+00:00
+
+ ## Portal de Periódicos da UFMG
+ - [https://periodicos.ufmg.br](https://periodicos.ufmg.br)
+ - date_published: 2024-07-13T18:19:33.151876+00:00
+
+ ## Fundep - Portal de Compras
+ - [https://portaldecompras.fundep.ufmg.br](https://portaldecompras.fundep.ufmg.br)
+ - date_published: 2024-07-13T18:16:13.127252+00:00
+
+ ## Programa de Pós-graduação em Ciência da Computação
+ - [https://ppgcc.dcc.ufmg.br](https://ppgcc.dcc.ufmg.br)
+ - date_published: 2024-07-13T18:19:47.272373+00:00
+
+ ## Processo Seletivo - Física - UFMG
+ - [http://procsel.fisica.ufmg.br](http://procsel.fisica.ufmg.br)
+ - date_published: 2024-07-13T18:18:48.387870+00:00
+
+ ## SGSED - Sistema de Encargos Didáticos
+ - [https://sgsed.fisica.ufmg.br](https://sgsed.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:08:42.754957+00:00
+
+ ## SSO - minhaUFMG
+ - [https://sistemas.ufmg.br](https://sistemas.ufmg.br)
+ - date_published: 2024-07-13T18:04:07.578049+00:00
+
+ ## Início - Portal da Transparência da FUNDEP
+ - [https://transparencia.fundep.ufmg.br](https://transparencia.fundep.ufmg.br)
+ - date_published: 2024-07-13T18:15:59.430159+00:00
+
+ ## .
+ - [https://tupi.fisica.ufmg.br](https://tupi.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:09:15.884426+00:00
+
+ ## UFMG
+ - [https://ufmg.br](https://ufmg.br)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Sign in to your account
+ - [http://webmail2.fundep.ufmg.br](http://webmail2.fundep.ufmg.br)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## DTI - Diretoria de Tecnologia da Informação - UFMG
+ - [http://www.cecom.ufmg.br](http://www.cecom.ufmg.br)
+ - date_published: 2024-07-13T18:18:31.222033+00:00
+
+ ## Physics Department - UFMG - Departamento
+ - [https://www.fisica.ufmg.br](https://www.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:08:36.475825+00:00
+
+ ## Fundep
+ - [https://fundep.ufmg.br](https://fundep.ufmg.br)
+ - date_published: 2024-05-11T08:09:00.660884+00:00
+
+ ## Universidade Federal de Minas Gerais
+ - [https://icex.ufmg.br](https://icex.ufmg.br)
+ - date_published: 2024-05-11T08:09:23.781459+00:00
+
+ ## LabCri – Laboratório de Cristalografia da UFMG
+ - [http://www.labcri.ufmg.br](http://www.labcri.ufmg.br)
+ - date_published: 2024-05-11T08:08:20.604803+00:00
+
+ ## Departamento de Matematica – ICEx – UFMG – Site do departamento de matemática da Universidade Federal de Minas Gerais
+ - [https://www.mat.ufmg.br](https://www.mat.ufmg.br)
+ - date_published: 2024-07-13T18:19:38.114316+00:00
+
+ ## Faculdade de Medicina da UFMG
+ - [https://www.medicina.ufmg.br](https://www.medicina.ufmg.br)
+ - date_published: 2024-07-13T18:16:06.566915+00:00
+
+ ## MOM. Morar de Outras Maneiras.
+ - [https://www.mom.arq.ufmg.br](https://www.mom.arq.ufmg.br)
+ - date_published: 2022-04-22T19:07:25+00:00
+
+ ## OBSERVATÓRIO ASTRONÔMICO FREI ROSÁRIO
+ - [https://www.observatorio.ufmg.br](https://www.observatorio.ufmg.br)
+ - date_published: 2024-05-11T08:09:08.436766+00:00
+
+ ## Programa de Pós-Graduação em Química - UFMG
+ - [http://www.ppg.qui.ufmg.br](http://www.ppg.qui.ufmg.br)
+ - date_published: 2024-07-13T18:19:41.262753+00:00
+
+ ## PHP 7.4.33 - phpinfo()
+ - [http://xivec.fisica.ufmg.br](http://xivec.fisica.ufmg.br)
+ - date_published: 2024-07-13T18:18:38.672031+00:00
+
+ ## ITU2021 | ML5G PHY
+ - [https://ai5gchallenge.ufpa.br](https://ai5gchallenge.ufpa.br)
+ - date_published: 2022-03-23T12:17:23+00:00
+
+ ## CIn UFPE
+ - [https://www.cin.ufpe.br](https://www.cin.ufpe.br)
+ - date_published: 2024-04-29T07:46:51.033400+00:00
+
+ ## Redes de Computadores e aplicações na
+Educação
+ - [http://penta2.ufrgs.br](http://penta2.ufrgs.br)
+ - date_published: 2022-11-30T19:56:07+00:00
+
+ ## CINTED – Interdisciplinary Center for New Technologies in Education
+ - [http://www.cinted.ufrgs.br](http://www.cinted.ufrgs.br)
+ - date_published: 2024-06-15T17:37:34.079834+00:00
+
+ ## ESPIE 2009 - CINTED/UFRGS
+ - [http://www.espie.cinted.ufrgs.br](http://www.espie.cinted.ufrgs.br)
+ - date_published: 2017-12-22T13:18:34+00:00
+
+ ## Gondwana | Review of the Geological Map of Gondwana - IGCP-628 - Revisão do Mapa geológico do Gondwana
+ - [http://www.gondwana.geologia.ufrj.br](http://www.gondwana.geologia.ufrj.br)
+ - date_published: 2021-07-08T14:46:14+00:00
+
+ ## Eventos UFU | Portal de Eventos da Universidade Federal de Uberlândia
+ - [https://eventos.ufu.br](https://eventos.ufu.br)
+ - date_published: 2024-05-10T06:57:17.711249+00:00
+
+ ## Bibliotecas
+ - [http://www.bibliotecas.ufu.br](http://www.bibliotecas.ufu.br)
+ - date_published: 2024-07-13T02:25:56.738430+00:00
+
+ ## Início | Comunica UFU
+ - [http://www.comunica.ufu.br](http://www.comunica.ufu.br)
+ - date_published: 2024-07-13T02:25:51.710302+00:00
+
+ ## Relações Internacionais e Interinstitucionais
+ - [http://www.dri.ufu.br](http://www.dri.ufu.br)
+ - date_published: 2024-07-13T02:25:27.966417+00:00
+
+ ## EDUFU - Editora da Universidade Federal de Uberlândia | Universidade Federal de Uberlândia
+ - [http://www.edufu.ufu.br](http://www.edufu.ufu.br)
+ - date_published: 2024-07-13T02:25:39.885123+00:00
+
+ ## Restaurante Universitário
+ - [http://www.ru.ufu.br](http://www.ru.ufu.br)
+ - date_published: 2016-05-27T00:02:45+00:00
+
+ ## UFU | Universidade Federal de Uberlândia
+ - [http://www.ufu.br](http://www.ufu.br)
+ - date_published: 2024-07-13T02:25:31+00:00
+
+ ## Departamento de Ciências da Computação - CIC - Início
+ - [http://www.cic.unb.br](http://www.cic.unb.br)
+ - date_published: 2024-06-23T10:57:34+00:00
+
+ ## Departamento de Matemática
+ - [https://www.mat.unb.br](https://www.mat.unb.br)
+ - date_published: 2024-07-17T05:50:11.121905+00:00
+
+ ## Universidade de Brasília - Início
+ - [http://www.unb.br](http://www.unb.br)
+ - date_published: 2024-05-19T02:41:42.253885+00:00
+
+ ## Faculdade de Odontologia - Câmpus de Araçatuba
+ - [http://www.foa.unesp.br](http://www.foa.unesp.br)
+ - date_published: 2024-06-29T10:06:42.639580+00:00
+
+ ## Portal da Universidade Estadual Paulista -
+ - [http://www.unesp.br](http://www.unesp.br)
+ - date_published: 2024-07-15T07:34:22.356617+00:00
+
+ ## UNIMEP - Universidade Metodista de Piracicaba —
+ - [http://unimep.br](http://unimep.br)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Notícias — Universidade Federal do Estado do Rio de Janeiro
+ - [https://www.unirio.br](https://www.unirio.br)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Grupo ATP – apoio técnico pedagógico
+ - [https://atp.usp.br](https://atp.usp.br)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Documentação dos Moodles da USP – Ajudar usuários a usar os Moodles da USP
+ - [https://docs.atp.usp.br](https://docs.atp.usp.br)
+ - date_published: 2024-06-27T16:01:30.872470+00:00
+
+ ## Moodle USP: e-Disciplinas
+ - [https://edisciplinas.usp.br](https://edisciplinas.usp.br)
+ - date_published: 2024-05-06T21:59:53.301285+00:00
+
+ ## ICST 2021
+ - [https://icst2021.icmc.usp.br](https://icst2021.icmc.usp.br)
+ - date_published: 2024-06-26T23:23:26.581121+00:00
+
+ ## Rede GNU-Linux
+ - [http://linux.ime.usp.br](http://linux.ime.usp.br)
+ - date_published: 2024-06-30T08:37:30.859874+00:00
+
+ ## NILC
+ - [http://nilc.icmc.usp.br](http://nilc.icmc.usp.br)
+ - date_published: 2024-04-28T03:36:29.997707+00:00
+
+ ## Periferia Livr@
+ - [http://periferialivre.fea.usp.br](http://periferialivre.fea.usp.br)
+ - date_published: 2024-06-16T15:34:36.090271+00:00
+
+ ## USP - Universidade de São Paulo
+ - [https://usp.br](https://usp.br)
+ - date_published: 2024-06-27T16:01:46.180359+00:00
+
+ ## USP - Universidade de São Paulo
+ - [http://www5.usp.br](http://www5.usp.br)
+ - date_published: 2024-06-23T23:13:41.523014+00:00
+
+ ## HOME
+ - [http://www.ime.usp.br](http://www.ime.usp.br)
+ - date_published: 2020-10-20T12:40:07+00:00
+
+ ## Pró-Reitoria de Graduação – Universidade de São Paulo
+ - [https://www.prg.usp.br](https://www.prg.usp.br)
+ - date_published: 2024-06-27T13:16:33+00:00
+
+ ## Superintendência de Tecnologia da Informação | Universidade de São Paulo
+ - [https://www.sti.usp.br](https://www.sti.usp.br)
+ - date_published: 2024-06-27T16:01:40+00:00
+
+ ## Consórcio World Wide Web (W3C) - Capítulo São Paulo
+ - [https://www.w3c.br](https://www.w3c.br)
+ - date_published: 2023-11-09T11:04:42+00:00
+
+ ## Home - Agência de Desenvolvimento do Estado do Ceará
+ - [https://www.adece.ce.gov.br](https://www.adece.ce.gov.br)
+ - date_published: 2024-06-26T21:56:50.854703+00:00
+
+ ## 20th Century Studios Brasil
+ - [https://www.20thcenturystudios.com.br](https://www.20thcenturystudios.com.br)
+ - date_published: 2024-06-16T02:24:54.111458+00:00
+
+ ## Software e Soluções de Telefonia - 3CX
+ - [https://www.3cx.com.br](https://www.3cx.com.br)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Loja 3D Lab - Impressão 3D é aqui!
+ - [https://3dlab.com.br](https://3dlab.com.br)
+ - date_published: 2024-05-11T09:35:46.693058+00:00
+
+ ## Sala de Notícias da 3M - Sala de Notícias
+ - [https://news.3m.com.br](https://news.3m.com.br)
+ - date_published: 2024-06-24T06:23:21+00:00
+
+ ## 80.000 Horas: Como fazer a diferença com a sua carreira
+ - [https://80000horas.com.br](https://80000horas.com.br)
+ - date_published: 2023-12-31T00:00:00+00:00
+
+ ## Abate Brutal
+ - [https://abatebrutal.com.br](https://abatebrutal.com.br)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Software de Recrutamento e Seleção | abler
+ - [https://abler.com.br](https://abler.com.br)
+ - date_published: 2024-07-11T00:00:00+00:00
+
  ## About Amazon Brasil
  - [https://www.aboutamazon.com.br](https://www.aboutamazon.com.br)
  - date_published: 2024-05-01T02:01:36.597204+00:00
@@ -690,6 +1027,10 @@
  - [https://plataforma.epochtv.com.br](https://plataforma.epochtv.com.br)
  - date_published: 2024-06-24T00:00:00+00:00
 
+ ## Empresa de Data Center e Tecnologias de Rede Corporativa | Equinix
+ - [https://www.equinix.com.br](https://www.equinix.com.br)
+ - date_published: 2024-05-21T00:00:00+00:00
+
  ## EscolhaVeg
  - [https://escolhaveg.com.br](https://escolhaveg.com.br)
  - date_published: 2024-04-29T00:00:00+00:00
@@ -875,6 +1216,10 @@
  - [https://www.guinnessworldrecords.com.br](https://www.guinnessworldrecords.com.br)
  - date_published: 2024-05-04T08:58:02.022916+00:00
 
+ ## Hack The Task
+ - [https://hackthetask.com.br](https://hackthetask.com.br)
+ - date_published: 2024-07-18T04:42:27.462596+00:00
+
  ## Harlequin Brasil
  - [https://harlequin.com.br](https://harlequin.com.br)
  - date_published: 2024-05-10T06:58:09.555415+00:00
@@ -1006,7 +1351,7 @@
  - date_published: 2024-06-14T19:31:31+00:00
 
  ## Justos: Seguro Auto Mensal
- - [https://www.justos.com.br](https://www.justos.com.br)
+ - [https://justos.com.br](https://justos.com.br)
  - date_published: 2024-04-17T00:00:00+00:00
 
  ## KaBuM! | Maior E-commerce de Tecnologia e Games da América Latina
@@ -1114,10 +1459,6 @@
  ## Lolja - Vista o Extraordinário
  - [https://lolja.com.br](https://lolja.com.br)
  - date_published: 2024-07-17T16:57:43.859138+00:00
-
- ## Lolja - Vista o Extraordinário
- - [https://www.lolja.com.br](https://www.lolja.com.br)
- - date_published: 2024-07-10T02:48:32.413640+00:00
 
  ## John Deere MachineFinder Used Equipment
  - [https://www.machinefinder.com.br](https://www.machinefinder.com.br)
@@ -2129,6 +2470,10 @@
  - [https://leandroferreira.dev.br](https://leandroferreira.dev.br)
  - date_published: 2024-06-19T09:30:46.786702+00:00
 
+ ## Blogue do Puro Osso
+ - [https://puro-osso.dev.br](https://puro-osso.dev.br)
+ - date_published: 2024-03-30T00:00:00+00:00
+
  ## Sistemas IFCE Paracuru
  - [http://webserver.paracuru.ifce.edu.br](http://webserver.paracuru.ifce.edu.br)
  - date_published: 2019-09-15T17:44:15+00:00
@@ -3066,10 +3411,6 @@
  - [https://wasm.builders](https://wasm.builders)
  - date_published: 2024-07-17T00:00:00+00:00
 
- ## Wasm Builders 🧱
- - [https://www.wasm.builders](https://www.wasm.builders)
- - date_published: 2024-04-30T00:00:00+00:00
-
  ## Addons Business – Cozy eCommerce Addons
  - [https://blog.addons.business](https://blog.addons.business)
  - date_published: 2024-06-17T09:02:30.383226+00:00
@@ -3677,347 +4018,4 @@
  ## Home - Alert Ready Emergency Alert System (Pelmorex Corp).
  - [https://www.alertready.ca](https://www.alertready.ca)
  - date_published: 2024-05-03T17:55:31+00:00
-
- ## Alexandra's Notebook
- - [https://alexandrawolfe.ca](https://alexandrawolfe.ca)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Alexandre Viau
- - [https://alexandreviau.ca](https://alexandreviau.ca)
- - date_published: 2024-05-06T20:15:01+00:00
-
- ## Alfa Romeo Canada | Official Alfa Romeo Website
- - [https://www.alfaromeo.ca](https://www.alfaromeo.ca)
- - date_published: 2024-06-19T08:57:54.229225+00:00
-
- ## Alien Tape - Instantly Locks Anything Into Place Without Screws, Anchors or Adhesive!
- - [https://www.alientape.ca](https://www.alientape.ca)
- - date_published: 2024-06-23T06:10:35.704872+00:00
-
- ## Bienvenue à Alimentation Juste! - Just Food
- - [https://alimentationjuste.ca](https://alimentationjuste.ca)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Allbirds Canada Allbirds Canada | Sustainable Shoes & Clothing
- - [https://www.allbirds.ca](https://www.allbirds.ca)
- - date_published: 2024-06-23T07:01:57.400053+00:00
-
- ## Home Page
- - [https://alliancecan.ca](https://alliancecan.ca)
- - date_published: 2024-06-21T20:08:14+00:00
-
- ## Alpine Club of Canada – To bring together, and give voice to, Canada’s mountaineering community.
- - [http://www.alpineclubofcanada.ca](http://www.alpineclubofcanada.ca)
- - date_published: 2024-07-07T06:53:41.074293+00:00
-
- ## Majd Alsado | Blog
- - [https://alsado.ca](https://alsado.ca)
- - date_published: 2023-11-13T20:52:10.674159+00:00
-
- ## Amanda Jane – Marketing and Accountability Coaching
- - [https://amandajane.ca](https://amandajane.ca)
- - date_published: 2024-06-29T13:13:14.402545+00:00
-
- ## Amazon Ads: Online advertising for businesses of all sizes
- - [https://advertising.amazon.ca](https://advertising.amazon.ca)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Amazon.ca: Low Prices – Fast Shipping – Millions of Items
- - [http://amazon.ca](http://amazon.ca)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## Amazon.ca Associates Central
- - [https://associates.amazon.ca](https://associates.amazon.ca)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Amazon Sign In
- - [https://brandregistry.amazon.ca](https://brandregistry.amazon.ca)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Amazon Brand Protection: Protect the Brand You Built
- - [https://brandservices.amazon.ca](https://brandservices.amazon.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Amazon Kindle: Your free personal library you can take anywhere
- - [https://read.amazon.ca](https://read.amazon.ca)
- - date_published: 2024-06-24T04:14:19.790726+00:00
-
- ## Sell on Amazon.ca | Build Your Ecommerce Business
- - [https://sell.amazon.ca](https://sell.amazon.ca)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Welcome to Amazon Seller Central | Canada
- - [https://sellercentral.amazon.ca](https://sellercentral.amazon.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Supplier Connect
- - [https://supply.amazon.ca](https://supply.amazon.ca)
- - date_published: 2024-05-13T02:39:09.205396+00:00
-
- ## Amazon.ca: Low Prices – Fast Shipping – Millions of Items
- - [https://amazon.ca](https://amazon.ca)
- - date_published: 2024-02-28T00:00:00+00:00
- - tags: ['amazon canada']
-
- ## Alberta Machine Intelligence Institute | AI for good and for all
- - [https://www.amii.ca](https://www.amii.ca)
- - date_published: 2023-10-25T12:03:17.667569+00:00
-
- ## Ammonite Coatings | Concrete Floor Resurfacing & Coating Systems
- - [https://ammonitecoatings.ca](https://ammonitecoatings.ca)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## anderegg.ca | Something (slightly) less boring than nothing.
- - [https://anderegg.ca](https://anderegg.ca)
- - date_published: 2023-10-25T12:03:20.730751+00:00
-
- ## Andrew King
- - [https://andrewking.ca](https://andrewking.ca)
- - date_published: 2024-06-23T15:44:43.918702+00:00
-
- ## Andrew Moore
- - [https://andrewmoore.ca](https://andrewmoore.ca)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Latest | Andy Holmes
- - [https://www.andyholmes.ca](https://www.andyholmes.ca)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Animalhospitals in Canada, Canada
- - [http://www.animalhospitals.ca](http://www.animalhospitals.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## AnimeCons.ca - Canadian Anime Conventions
- - [https://animecons.ca](https://animecons.ca)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Annie's Homegrown | Delicious Organic Food for Everybunny
- - [https://www.annieshomegrown.ca](https://www.annieshomegrown.ca)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## Anthony Chu
- - [https://anthonychu.ca](https://anthonychu.ca)
- - date_published: 2023-08-31T00:00:00+00:00
-
- ## Kit Builder
- - [https://kb-load.anvasoft.ca](https://kb-load.anvasoft.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## 202310 - apenwarr
- - [https://apenwarr.ca](https://apenwarr.ca)
- - date_published: 2023-10-25T12:03:23.733666+00:00
-
- ## Apocryphicity
- - [http://www.apocryphicity.ca](http://www.apocryphicity.ca)
- - date_published: 2024-06-28T19:27:51+00:00
-
- ## silverorange Job Board - View Our Current Openings
- - [https://silverorange.applytojobs.ca](https://silverorange.applytojobs.ca)
- - date_published: 2024-07-14T03:22:10.999956+00:00
-
- ## APTN | THE FIRST NATIONAL INDIGENOUS BROADCASTER IN THE WORLD
- - [http://www.aptn.ca](http://www.aptn.ca)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Arcadia Earth | An Immersive Art & Technology Experience
- - [http://www.arcadiaearth.ca](http://www.arcadiaearth.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Alana Cattapan
- - [https://arcattapan.ca](https://arcattapan.ca)
- - date_published: 2024-05-09T09:11:39.883714+00:00
- - tags: ['personal']
-
- ## Home
- - [https://arctiq.ca](https://arctiq.ca)
- - date_published: 2024-05-09T04:54:47.297920+00:00
-
- ## Arearugs in Canada, Canada
- - [http://www.arearugs.ca](http://www.arearugs.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## The ArQuives Digital Exhibitions
- - [https://digitalexhibitions.arquives.ca](https://digitalexhibitions.arquives.ca)
- - date_published: 2024-06-27T02:51:03.550831+00:00
-
- ## Ars Medica
- - [http://www.ars-medica.ca](http://www.ars-medica.ca)
- - date_published: 2024-06-24T09:33:40.227600+00:00
-
- ## art aggregate
- - [https://www.artaggregate.ca](https://www.artaggregate.ca)
- - date_published: 2024-07-15T03:53:56.050751+00:00
-
- ## Home | Arthritis Society Canada
- - [https://arthritis.ca](https://arthritis.ca)
- - date_published: 2024-06-28T12:08:12.188114+00:00
-
- ## Capa | Canadian Arthritis Patient Alliance
- - [http://arthritispatient.ca](http://arthritispatient.ca)
- - date_published: 2024-06-28T11:54:28.514753+00:00
-
- ## ICI ARTV chaîne de télévision culturelle
- - [http://ici.artv.ca](http://ici.artv.ca)
- - date_published: 2024-07-10T05:32:11.843695+00:00
-
- ## A School, A Park 2018
- - [http://a-school-a-park.ca](http://a-school-a-park.ca)
- - date_published: 2019-05-17T15:25:41+00:00
-
- ## ATD Quart Monde Canada | Agir Tous pour la Dignité et pour un monde sans pauvreté
- - [http://www.atdquartmonde.ca](http://www.atdquartmonde.ca)
- - date_published: 2024-07-13T19:49:30.974113+00:00
-
- ## Atlantic Auto Sales
- - [https://atlanticautosales.ca](https://atlanticautosales.ca)
- - date_published: 2024-02-08T17:57:36.647750+00:00
-
- ## ATLAS FOR MEN - The specialist in outdoor clothing and accessories
- - [https://atlasformen.ca](https://atlasformen.ca)
- - date_published: 2024-06-29T05:18:57.343882+00:00
- - tags: ['clothing']
-
- ## Atypic. L’incontournable agence dévouée à 100 % aux causes et aux OBNL.
- - [https://www.atypic.ca](https://www.atypic.ca)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Penticton AuctionNow
- - [https://penticton.auctionnow.ca](https://penticton.auctionnow.ca)
- - date_published: 2024-06-29T11:46:38.899588+00:00
-
- ## Audible Is #1 In Audiobooks | Try Free Today | Audible.ca
- - [https://www.audible.ca](https://www.audible.ca)
- - date_published: 2024-05-27T07:40:15.668268+00:00
-
- ## Top 5 Top 5 Toronto Auto Body and Auto Body Contractors for 2020 | AutoBody.ca Plumbers and Plumbing Contractors for 2020 | Autobody.ca
- - [http://www.autobody.ca](http://www.autobody.ca)
- - date_published: 2024-06-29T17:34:38.647313+00:00
-
- ## Top 5 Toronto Plumbers and Plumbing Contractors for 2020 | Autoglass.ca
- - [http://www.autoglass.ca](http://www.autoglass.ca)
- - date_published: 2024-06-29T17:35:12.234752+00:00
-
- ## Car Rentals from Avis, Book Online Now & Save
- - [https://www.avis.ca](https://www.avis.ca)
- - date_published: 2024-06-14T07:46:03+00:00
-
- ## This is the default server vhost
- - [http://www.awnings.ca](http://www.awnings.ca)
- - date_published: 2024-06-24T11:23:01+00:00
-
- ## The Official Aztec C Online Museum
- - [http://www.aztecmuseum.ca](http://www.aztecmuseum.ca)
- - date_published: 2009-11-18T13:50:45+00:00
-
- ## Bienvenue au service de Pages Personnelles B2B2C Inc.
- - [https://perso.b2b2c.ca](https://perso.b2b2c.ca)
- - date_published: 2022-07-27T19:03:08+00:00
-
- ## Photo Gifts: Special Personalized Gifts Designed by You
- - [https://www.bagsoflove.ca](https://www.bagsoflove.ca)
- - date_published: 2024-06-17T12:18:21.277843+00:00
-
- ## BaladoQuebec | Répertoire de Podcast du Québec
- - [https://baladoquebec.ca](https://baladoquebec.ca)
- - date_published: 2024-07-01T10:07:04.182800+00:00
-
- ## Farhana Zulkernine
- - [http://bamlab.ca](http://bamlab.ca)
- - date_published: 2024-07-14T08:29:29.547530+00:00
-
- ## Bank of Canada
- - [https://www.bankofcanada.ca](https://www.bankofcanada.ca)
- - date_published: 2023-10-25T12:03:32.218847+00:00
-
- ## Services bancaires en ligne aux particuliers | Banque Manuvie
- - [https://www.banquemanuvie.ca](https://www.banquemanuvie.ca)
- - date_published: 2024-06-16T11:00:34+00:00
-
- ## Top 5 Top 5 Toronto Event Venues for 2020 | EventVenues.ca Plumbers and Plumbing Contractors for 2020 | EventVenues.ca
- - [http://www.banquethalls.ca](http://www.banquethalls.ca)
- - date_published: 2024-06-29T17:35:20.701075+00:00
-
- ## Baskets in Canada, Canada
- - [http://www.baskets.ca](http://www.baskets.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Top 5 Top 5 Toronto Bathrooms for 2020 | Bathrooms.ca Plumbers and Plumbing Contractors for 2020 | Bathrooms.ca
- - [http://www.bathrooms.ca](http://www.bathrooms.ca)
- - date_published: 2024-06-29T17:36:05.545202+00:00
-
- ## BCcampus
- - [https://bccampus.ca](https://bccampus.ca)
- - date_published: 2013-09-11T11:26:11+00:00
-
- ## Bell Canada Enterprises | Corporate website | BCE Inc.
- - [https://bce.ca](https://bce.ca)
- - date_published: 2024-05-09T09:25:07.356517+00:00
-
- ## Careers at Bell
- - [https://jobs.bce.ca](https://jobs.bce.ca)
- - date_published: 2024-05-08T06:46:55.201672+00:00
-
- ## Emergency Care BC
- - [https://www.bcemergencynetwork.ca](https://www.bcemergencynetwork.ca)
- - date_published: 2024-07-06T23:48:56.857361+00:00
-
- ## ERROR: The requested URL could not be retrieved
- - [https://mkweb.bcgsc.ca](https://mkweb.bcgsc.ca)
- - date_published: 2024-01-09T02:27:13.939554+00:00
-
- ## Beds in Canada, Canada
- - [http://www.beds.ca](http://www.beds.ca)
- - date_published: 2024-06-29T17:35:09.266197+00:00
-
- ## Beggars Group Canada
- - [http://www.beggarsgroup.ca](http://www.beggarsgroup.ca)
- - date_published: 2024-06-15T09:59:25.325450+00:00
-
- ## Book an appointment | Bell Canada
- - [https://appointments.bell.ca](https://appointments.bell.ca)
- - date_published: 2024-05-10T02:42:25.226284+00:00
-
- ## Bell Business | Small, medium and large businesses | Bell Canada
- - [https://business.bell.ca](https://business.bell.ca)
- - date_published: 2024-05-10T02:42:40.721821+00:00
-
- ## Découvrez comment Bell Cause pour la cause change les choses au pays
- - [https://cause.bell.ca](https://cause.bell.ca)
- - date_published: 2024-06-20T20:58:43+00:00
-
- ## Bell | Wireless, Internet and TV Service Provider in Canada
- - [https://corporate.secretariat@bell.ca](https://corporate.secretariat@bell.ca)
- - date_published: 2024-07-11T14:57:35.248535+00:00
-
- ## Bell Affaires | Petites, moyennes et grandes entreprises | Bell Canada
- - [https://entreprise.bell.ca](https://entreprise.bell.ca)
- - date_published: 2024-07-11T17:24:02.877453+00:00
-
- ## Submit Form
- - [https://forum.bell.ca](https://forum.bell.ca)
- - date_published: 2024-05-10T02:42:27.665768+00:00
-
- ## Bell | Wireless, Internet and TV Service Provider in Canada
- - [https://investor.relations@bell.ca](https://investor.relations@bell.ca)
- - date_published: 2024-07-11T14:57:37.640196+00:00
-
- ## Careers at Bell Canada | Bell Canada jobs
- - [https://jobs.bell.ca](https://jobs.bell.ca)
- - date_published: 2024-05-09T09:25:12.027936+00:00
-
- ## Learn how Bell Let’s Talk is creating positive change in Canada
- - [https://letstalk.bell.ca](https://letstalk.bell.ca)
- - date_published: 2024-05-09T09:25:13.430154+00:00
-
- ## Requête rejetée / Request Rejected
- - [https://marketingplatform.bell.ca](https://marketingplatform.bell.ca)
- - date_published: 2024-05-10T02:40:43.914850+00:00
-
- ## Manage your Bell services on the go
- - [https://m.bell.ca](https://m.bell.ca)
- - date_published: 2024-05-10T02:42:31.686556+00:00
-
- ## Log in to MyBell
- - [https://mybell.bell.ca](https://mybell.bell.ca)
- - date_published: 2024-05-10T02:42:35.513161+00:00
 

@@ -1,3 +1,360 @@
+ ## Information Security at York | UIT Information Security York University
+ - [https://infosec.yorku.ca](https://infosec.yorku.ca)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Your Suggestions are Welcome | University Information Technology (UIT)
+ - [http://ithelp.yorku.ca](http://ithelp.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Las Nubes Project - Las Nubes Project
+ - [https://lasnubes.euc.yorku.ca](https://lasnubes.euc.yorku.ca)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Passport York Login
+ - [https://machformopd.osgoode.yorku.ca](https://machformopd.osgoode.yorku.ca)
+ - date_published: 2024-07-09T21:36:21.138746+00:00
+
+ ## Winter 2024 - The York University Magazine
+ - [https://magazine.yorku.ca](https://magazine.yorku.ca)
+ - date_published: 2024-04-30T05:32:16.159127+00:00
+
+ ## Moodle
+ - [https://moodle.yorku.ca](https://moodle.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Passport York Login
+ - [http://myosgoodepd.osgoode.yorku.ca](http://myosgoodepd.osgoode.yorku.ca)
+ - date_published: 2024-07-09T21:36:19.297449+00:00
+
+ ## News | York University
+ - [https://news.yorku.ca](https://news.yorku.ca)
+ - date_published: 2024-04-30T05:32:10.631393+00:00
+
+ ## Classics in the History of Psychology
+ - [https://psychclassics.yorku.ca](https://psychclassics.yorku.ca)
+ - date_published: 2024-01-06T17:40:41.073576+00:00
+
+ ## Registrar's Office - Home | Registrar's Office | York University
+ - [https://registrar.yorku.ca](https://registrar.yorku.ca)
+ - date_published: 2024-07-09T21:36:57.398233+00:00
+
+ ## Canada’s #1 Business School | Schulich School of Business
+ - [https://schulich.yorku.ca](https://schulich.yorku.ca)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## York Search Results - York University
+ - [https://search2.info.yorku.ca](https://search2.info.yorku.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Student Financial Services - Home | Student Financial Services | York University
+ - [https://sfs.yorku.ca](https://sfs.yorku.ca)
+ - date_published: 2024-04-30T05:32:28.949793+00:00
+
+ ## Faculty & Staff Services | University Information Technology (UIT)
+ - [https://staff.computing.yorku.ca](https://staff.computing.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## WordPress at York
+ - [http://wordpress.info.yorku.ca](http://wordpress.info.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## William van Wijngaarden – Lasers and Physics will blow your mind
+ - [https://wvanwijngaarden.info.yorku.ca](https://wvanwijngaarden.info.yorku.ca)
+ - date_published: 2024-06-15T09:13:48+00:00
+
+ ## Homepage | Electrical Engineering and Computer Science
+ - [http://www.cse.yorku.ca](http://www.cse.yorku.ca)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## York University Library Home - York University Libraries
+ - [https://www.library.yorku.ca](https://www.library.yorku.ca)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Osgoode Hall Law School – York University
+ - [http://www.osgoode.yorku.ca](http://www.osgoode.yorku.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Department of Psychology
+ - [http://www.psych.yorku.ca](http://www.psych.yorku.ca)
+ - date_published: 2024-04-30T05:31:55.441536+00:00
+
+ ## Homepage - YFile
+ - [https://yfile.news.yorku.ca](https://yfile.news.yorku.ca)
+ - date_published: 2024-04-30T05:32:00.155249+00:00
+
+ ## Welcome to York University! Bienvenue à l'Université York! - York International
+ - [https://yorkinternational.yorku.ca](https://yorkinternational.yorku.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## York University | Right the Future
+ - [https://yorku.ca](https://yorku.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Passport York Login
+ - [https://yulearn.yorku.ca](https://yulearn.yorku.ca)
+ - date_published: 2024-07-08T23:02:02.959783+00:00
+
+ ## Passport York Login
+ - [https://yulink-new.yorku.ca](https://yulink-new.yorku.ca)
+ - date_published: 2024-05-09T06:47:35.611383+00:00
+
+ ## AdChoices in Canada - Learn about the blue icon & your choices
+ - [http://youradchoices.ca](http://youradchoices.ca)
+ - date_published: 2024-06-15T03:45:09.750365+00:00
+
+ ## Your Environment
+ - [https://yourenvironment.ca](https://yourenvironment.ca)
+ - date_published: 2024-05-06T23:34:02.979229+00:00
+
+ ## Homepage
+ - [http://yourvancouverrealestate.ca](http://yourvancouverrealestate.ca)
+ - date_published: 2024-07-17T02:14:27+00:00
+
+ ## We are yunikon. Your partner for your digital footprint!
+ - [https://yunikon.ca](https://yunikon.ca)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Zoomer Digital Network
+ - [https://zdn.ca](https://zdn.ca)
+ - date_published: 2024-03-22T19:16:07+00:00
+
+ ## Ka-Ping Yee
+ - [http://zesty.ca](http://zesty.ca)
+ - date_published: 2024-03-18T05:51:34+00:00
+
+ ## Home - ZGV
+ - [http://zgv.ca](http://zgv.ca)
+ - date_published: 2020-06-11T00:00:00+00:00
+
+ ## Zipcar: Car Sharing Alternative for Daily and Hourly Car Rental
+ - [https://members.zipcar.ca](https://members.zipcar.ca)
+ - date_published: 2024-06-15T17:09:51.284132+00:00
+
+ ## Canada Business Directory
+ - [https://www.zipleaf.ca](https://www.zipleaf.ca)
+ - date_published: 2024-06-29T17:23:18.110235+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.ca](https://www2.zoetis.ca)
+ - date_published: 2024-06-27T09:52:48+00:00
+
+ ## Zoomer Magazine
+ - [https://secure.zoomer.ca](https://secure.zoomer.ca)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## ZoomerMedia Limited
+ - [https://www.zoomermedia.ca](https://www.zoomermedia.ca)
+ - date_published: 2024-06-17T12:28:51.796300+00:00
+
+ ## Agence spatiale canadienne | Canadian Space Agency
+ - [http://www.asc-csa.gc.ca](http://www.asc-csa.gc.ca)
+ - date_published: 2013-12-13T00:00:00+00:00
+
+ ## Canada.ca
+ - [http://www.canada.gc.ca](http://www.canada.gc.ca)
+ - date_published: 2024-07-14T02:13:44+00:00
+
+ ## Canada and the world | Canada et le monde
+ - [https://www.canadainternational.gc.ca](https://www.canadainternational.gc.ca)
+ - date_published: 2017-06-01T00:00:00+00:00
+
+ ## Canadian Biodiversity Information Facility (CBIF) - agriculture.canada.ca
+ - [http://www.cbif.gc.ca](http://www.cbif.gc.ca)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
+ - [https://www.census.gc.ca](https://www.census.gc.ca)
+ - date_published: 2024-07-10T17:16:03+00:00
+
+ ## Immigration, Refugees and Citizenship Canada | Immigration, Réfugiés et Citoyenneté Canada
+ - [https://cic.gc.ca](https://cic.gc.ca)
+ - date_published: 2013-12-13T00:00:00+00:00
+
+ ## Canadian Institutes of Health Research / Instituts de recherche en santé du Canada
+ - [http://www.cihr-irsc.gc.ca](http://www.cihr-irsc.gc.ca)
+ - date_published: 2019-11-27T02:31:38+00:00
+
+ ## Conseil de la radiodiffusion et des télécommunications canadiennes / Canadian Radio-television and Telecommunications Commission | CRTC
+ - [https://crtc.gc.ca](https://crtc.gc.ca)
+ - date_published: 2014-03-21T00:00:00+00:00
+
+ ## Communications Security Establishment
+ - [https://www.cse-cst.gc.ca](https://www.cse-cst.gc.ca)
+ - date_published: 2024-02-07T15:33:10+00:00
+ - tags: ['france security intelligence', 'security intelligence']
+
+ ## Canadian Centre for Cyber Security
+ - [https://www.cyber.gc.ca](https://www.cyber.gc.ca)
+ - date_published: 2018-08-15T00:00:00+00:00
+
+ ## Fisheries and Oceans Canada | Pêches et Océans Canada
+ - [http://www.dfo-mpo.gc.ca](http://www.dfo-mpo.gc.ca)
+ - date_published: 2022-01-24T00:00:00+00:00
+
+ ## Environment and Climate Change Canada - Canada.ca
+ - [https://ec.gc.ca](https://ec.gc.ca)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Language selection - Federal Economic Development Agency for Southern Ontario Main Site / Sélection de la langue - Site principal Agence fédérale de développement économique pour le Sud de l'Ontario
+ - [https://www.feddevontario.gc.ca](https://www.feddevontario.gc.ca)
+ - date_published: 2023-03-10T15:38:23+00:00
+
+ ## Guichet-Emplois pour employeurs - Module pour employeurs
+ - [https://employeur.guichetemplois.gc.ca](https://employeur.guichetemplois.gc.ca)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Guichet-Emplois
+ - [https://guichetemplois.gc.ca](https://guichetemplois.gc.ca)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Language selection - Innovation, Science and Economic Development Canada Main Site / Sélection de la langue - Site principal d'Innovation, Sciences et Développement économique Canada
+ - [http://strategis.ic.gc.ca](http://strategis.ic.gc.ca)
+ - date_published: 2013-12-13T00:00:00+00:00
+
+ ## Global Affairs Canada – Splash page / Affaires mondiales Canada – Page de garde
+ - [https://international.gc.ca](https://international.gc.ca)
+ - date_published: 2013-06-26T00:00:00+00:00
+
+ ## Job Bank for Employers - Employer Module
+ - [https://employer.jobbank.gc.ca](https://employer.jobbank.gc.ca)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Job Bank
+ - [https://jobbank.gc.ca](https://jobbank.gc.ca)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Justice Laws Website - Site Web de la législation (Justice)
+ - [https://laws.justice.gc.ca](https://laws.justice.gc.ca)
+ - date_published: 2023-04-12T12:42:30+00:00
+
+ ## Ressources du Portail linguistique du Canada – Langues – Identité canadienne et société – Culture, histoire et sport – Canada.ca
+ - [https://www.noslangues-ourlanguages.gc.ca](https://www.noslangues-ourlanguages.gc.ca)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Canadian Astronomy Data Centre
+ - [https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca)
+ - date_published: 2022-10-03T00:00:00+00:00
+
+ ## Home - National Research Council Canada
+ - [https://www.nrc-cnrc.gc.ca](https://www.nrc-cnrc.gc.ca)
+ - date_published: 2024-07-04T09:05:04+00:00
+
+ ## Natural Sciences and Engineering Research Council of Canada  | Conseil de recherches en sciences naturelles et en génie du Canada
+ - [https://www.nserc-crsng.gc.ca](https://www.nserc-crsng.gc.ca)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Canadian Nuclear Safety Commission - Commission canadienne de sûreté nucléaire
+ - [http://nuclearsafety.gc.ca](http://nuclearsafety.gc.ca)
+ - date_published: 2022-10-05T00:00:00+00:00
+
+ ## ParlVu
+ - [https://parlvu.parl.gc.ca](https://parlvu.parl.gc.ca)
+ - date_published: 2024-07-10T05:30:08.053880+00:00
+
+ ## Parks Canada
+ - [https://www.pc.gc.ca](https://www.pc.gc.ca)
+ - date_published: 2024-06-21T09:43:17.305148+00:00
+
+ ## Public Health Agency of Canada (PHAC) | Agence de la sante publique du Canada (ASPC)
+ - [https://phac-aspc.gc.ca](https://phac-aspc.gc.ca)
+ - date_published: 2024-07-13T19:47:42.410865+00:00
+
+ ## Prime Minister of Canada - Premier ministre du Canada
+ - [https://pm.gc.ca](https://pm.gc.ca)
+ - date_published: 2017-12-06T00:00:00+00:00
+
+ ## Commissariat à la protection de la vie privée du Canada / Office of the Privacy Commissioner
+ - [https://www.priv.gc.ca](https://www.priv.gc.ca)
+ - date_published: 2023-10-25T12:09:36.663904+00:00
+
+ ## Publications du gouvernement du Canada | Government of Canada Publications
+ - [https://publications.gc.ca](https://publications.gc.ca)
+ - date_published: 2002-07-01T00:00:00+00:00
+
+ ## Public Safety Canada / Sécurité publique Canada
+ - [https://www.publicsafety.gc.ca](https://www.publicsafety.gc.ca)
+ - date_published: 2024-06-22T08:51:59.855148+00:00
+
+ ## Services aux Autochtones Canada / Indigenous Services Canada - Canada.ca
+ - [https://www.sac-isc.gc.ca](https://www.sac-isc.gc.ca)
+ - date_published: 2013-12-13T00:00:00+00:00
+
+ ## Social Sciences and Humanities Research Council / Conseil de recherches en sciences humaines
+ - [https://www.sshrc-crsh.gc.ca](https://www.sshrc-crsh.gc.ca)
+ - date_published: 2020-06-02T23:37:03+00:00
+
+ ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
+ - [https://www150.statcan.gc.ca](https://www150.statcan.gc.ca)
+ - date_published: 2023-11-27T21:10:40.723455+00:00
+
+ ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
+ - [https://www.statcan.gc.ca](https://www.statcan.gc.ca)
+ - date_published: 2013-12-13T00:00:00+00:00
+
+ ## Language selection - Treasury Board of Canada Secretariat / Sélection de la langue - Secrétariat du Conseil du Trésor du Canada
+ - [http://tbs-sct.gc.ca](http://tbs-sct.gc.ca)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Transport Canada / Transports Canada
+ - [https://wwwapps.tc.gc.ca](https://wwwapps.tc.gc.ca)
+ - date_published: 2021-11-29T19:02:34+00:00
+
+ ## Listage dans le répertoire rejeté (Erreur 403) / Directory listing denied (Error 403)
+ - [https://www.tpsgc-pwgsc.gc.ca](https://www.tpsgc-pwgsc.gc.ca)
+ - date_published: 2021-10-05T00:00:00+00:00
+
+ ## Home - Travel.gc.ca
+ - [https://travel.gc.ca](https://travel.gc.ca)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Language selection - Vanier Canada Graduate Scholarships  / Sélection de la langue - Bourses d'études supérieures du Canada Vanier
+ - [https://vanier.gc.ca](https://vanier.gc.ca)
+ - date_published: 2024-06-09T01:06:28.920656+00:00
+
+ ## Language selection
+ - [https://www.veterans.gc.ca](https://www.veterans.gc.ca)
+ - date_published: 2024-06-14T17:06:54+00:00
+
+ ## Weather Information - Environment Canada
+ - [https://weather.gc.ca](https://weather.gc.ca)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Manitoba Child Care Search - Government of Manitoba
+ - [https://childcaresearch.gov.mb.ca](https://childcaresearch.gov.mb.ca)
+ - date_published: 2024-04-30T05:33:01.579827+00:00
+
+ ## Province of Manitoba | Home Page
+ - [https://gov.mb.ca](https://gov.mb.ca)
+ - date_published: 2024-04-30T05:32:46.909932+00:00
+
+ ## Province of Manitoba | News Releases
+ - [https://news.gov.mb.ca](https://news.gov.mb.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Residents Portal | Residents
+ - [https://residents.gov.mb.ca](https://residents.gov.mb.ca)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Province of Manitoba | Home Page
+ - [https://web2.gov.mb.ca](https://web2.gov.mb.ca)
+ - date_published: 2024-04-30T05:33:03.894877+00:00
+
+ ## Province of Manitoba | Home Page
+ - [https://www.edu.gov.mb.ca](https://www.edu.gov.mb.ca)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Home
+ - [https://www.manitobacourts.mb.ca](https://www.manitobacourts.mb.ca)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Home - Science East Science Centre
+ - [http://scienceeast.nb.ca](http://scienceeast.nb.ca)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Dialogue
+ - [https://dialogue.cpso.on.ca](https://dialogue.cpso.on.ca)
+ - date_published: 2024-07-08T16:52:38.728281+00:00
+
  ## Welcome to the Archives of Ontario / Bienvenue aux Archives publiques de l'Ontario
  - [http://www.archives.gov.on.ca](http://www.archives.gov.on.ca)
  - date_published: 2024-07-15T10:46:17.564953+00:00
@@ -145,6 +502,10 @@
  ## BinaryDigit's Now Page
  - [https://now.binarydigit.cafe](https://now.binarydigit.cafe)
  - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Your awesome title
+ - [https://biyori.cafe](https://biyori.cafe)
+ - date_published: 2024-07-17T21:16:11+00:00
 
  ## blinkie maker | generate blinkie gifs with custom text!
  - [https://blinkies.cafe](https://blinkies.cafe)
@@ -633,6 +994,10 @@
  - [https://stacibushea.care](https://stacibushea.care)
  - date_published: 2024-05-25T16:54:01+00:00
 
+ ## Web3 Jobs: Blockchain, Smart Contract and Crypto Jobs
+ - [https://web3.career](https://web3.career)
+ - date_published: 2024-07-18T00:00:00+00:00
+
  ## Appwrite
  - [https://appwrite.careers](https://appwrite.careers)
  - date_published: 2024-05-14T03:35:02.833364+00:00
@@ -708,6 +1073,10 @@
  ## .Cars .Car .Auto Domains | Find Your Perfect Domain Name
  - [https://go.cars](https://go.cars)
  - date_published: 2024-06-17T07:45:25.900463+00:00
+
+ ## Amplifi.casa ⋅ Plume
+ - [https://amplifi.casa](https://amplifi.casa)
+ - date_published: 2024-06-30T00:00:00+00:00
 
  ## CogDog Showtime
  - [http://show.cogdog.casa](http://show.cogdog.casa)
@@ -1057,6 +1426,10 @@
  ## Inici
  - [http://www.portdebarcelona.cat](http://www.portdebarcelona.cat)
  - date_published: 2024-05-27T00:00:00+00:00
+
+ ## HedgeDoc - Ideas grow better together
+ - [https://pad.public.cat](https://pad.public.cat)
+ - date_published: 2024-07-18T05:27:33.912951+00:00
 
  ## 502 Bad Gateway
  - [https://peertube.public.cat](https://peertube.public.cat)
@@ -2369,6 +2742,10 @@
  - [https://www.nodepositbonus.cc](https://www.nodepositbonus.cc)
  - date_published: 2024-07-17T04:38:36.325534+00:00
 
+ ## NSSM - the Non-Sucking Service Manager
+ - [http://nssm.cc](http://nssm.cc)
+ - date_published: 2024-07-18T06:41:06.694182+00:00
+
  ## KRAKEN | Официальный сайт
  - [https://omgomgonion.cc](https://omgomgonion.cc)
  - date_published: 2024-07-04T07:34:35.467079+00:00
@@ -3650,382 +4027,4 @@
  ## Basler Zeitung | Aktuelle Nachrichten aus Basel
  - [https://www.bazonline.ch](https://www.bazonline.ch)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## BCV - Banque Cantonale Vaudoise
- - [http://www.bcv.ch](http://www.bcv.ch)
- - date_published: 2024-07-03T05:53:31+00:00
-
- ## Agence de développement web & communication, Lausanne — Bee Interactive
- - [https://bee-interactive.ch](https://bee-interactive.ch)
- - date_published: 2024-05-11T10:18:28.712143+00:00
-
- ## Blog – Bee Interactive
- - [https://blog.bee-interactive.ch](https://blog.bee-interactive.ch)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Beni Bischof
- - [http://benibischof.ch](http://benibischof.ch)
- - date_published: 2017-05-04T04:25:59+00:00
-
- ## Benjamin Muzzin
- - [http://www.benjaminmuzzin.ch](http://www.benjaminmuzzin.ch)
- - date_published: 2024-07-13T16:27:55.400208+00:00
-
- ## Schweizer Medium mit Fokus auf Recht und Gerechtigkeit | Beobachter
- - [https://www.beobachter.ch](https://www.beobachter.ch)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Outdoor Shop für Bergsport, Klettern & Trekking | Berg-freunde.ch
- - [https://www.berg-freunde.ch](https://www.berg-freunde.ch)
- - date_published: 2024-07-14T12:11:11.632167+00:00
-
- ## MTU Ninja | Vincent Bernat
- - [https://bernat.ch](https://bernat.ch)
- - date_published: 2024-04-30T05:58:46.919513+00:00
-
- ## MTU Ninja | Vincent Bernat
- - [https://vincent.bernat.ch](https://vincent.bernat.ch)
- - date_published: 2023-10-25T08:43:17.908139+00:00
- - tags: ['personal']
-
- ## Berner Oberländer | Nachrichten aus dem Berner Oberland
- - [https://www.berneroberlaender.ch](https://www.berneroberlaender.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## BZ Berner Zeitung | Nachrichten und Fakten aus Bern
- - [https://www.bernerzeitung.ch](https://www.bernerzeitung.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Bern University of Applied Sciences
- - [https://www.bfh.ch](https://www.bfh.ch)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Brain & Heart Communication - Social Media Agentur
- - [https://b-h.ch](https://b-h.ch)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Biglietteria.ch
- - [https://biglietteria.ch](https://biglietteria.ch)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Bilan | La référence suisse de l’économie depuis plus de 30 ans
- - [https://www.bilan.ch](https://www.bilan.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Blick: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt
- - [https://www.blick.ch](https://www.blick.ch)
- - date_published: 2024-06-25T22:03:28.409073+00:00
-
- ## Gregors Blog
- - [https://www.blog-gregor.ch](https://www.blog-gregor.ch)
- - date_published: 2023-12-27T23:55:45.885819+00:00
- - tags: ['personal']
-
- ## Everything SQL Server Compact
- - [https://erikej.blogspot.ch](https://erikej.blogspot.ch)
- - date_published: 2024-05-01T03:48:31.365826+00:00
-
- ## Random blatherings by Jeff
- - [http://garzikrants.blogspot.ch](http://garzikrants.blogspot.ch)
- - date_published: 2024-02-28T23:44:24+00:00
-
- ## IT and more (a.k.a. Doing-IT-Right)
- - [https://it-and-more.blogspot.ch](https://it-and-more.blogspot.ch)
- - date_published: 2024-03-13T20:36:44+00:00
-
- ## Nuit Blanche
- - [http://nuit-blanche.blogspot.ch](http://nuit-blanche.blogspot.ch)
- - date_published: 2023-08-17T05:00:00+00:00
-
- ## sirdarckcat
- - [https://sirdarckcat.blogspot.ch](https://sirdarckcat.blogspot.ch)
- - date_published: 2024-03-05T08:00:48+00:00
-
- ## Chocolats Blondel, Chocolatier depuis 1850
- - [https://blondel.ch](https://blondel.ch)
- - date_published: 2024-06-14T15:28:31.291077+00:00
-
- ## blue TV
- - [https://tv.blue.ch](https://tv.blue.ch)
- - date_published: 2024-06-13T16:45:40+00:00
-
- ## blue+ | Sport, TV, Serien & Filme schauen
- - [https://www.blueplus.ch](https://www.blueplus.ch)
- - date_published: 2024-06-13T13:39:42+00:00
-
- ## Tägliche News, Sport und Entertainment
- - [https://www.bluewin.ch](https://www.bluewin.ch)
- - date_published: 2024-06-16T07:20:55.599995+00:00
-
- ## Eigene Bücher & E-Books im Self-Publishing - bod.ch
- - [https://www.bod.ch](https://www.bod.ch)
- - date_published: 2024-07-08T13:06:06.430136+00:00
-
- ## Musée Bolo – Musée suisse de l'informatique, de la culture numérique et du jeu vidéo
- - [https://bolo.ch](https://bolo.ch)
- - date_published: 2024-05-12T07:15:04.597151+00:00
-
- ## Bonto.ch - Junior B.
- - [https://www.bonto.ch](https://www.bonto.ch)
- - date_published: 2023-01-22T11:41:37+00:00
-
- ## brandlift – Agence de Design graphique – Genève
- - [https://brandlift.ch](https://brandlift.ch)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Bromeon :: Home
- - [https://bromeon.ch](https://bromeon.ch)
- - date_published: 2019-10-07T13:49:13+00:00
-
- ## Brother Online
- - [https://atyourside.brother.ch](https://atyourside.brother.ch)
- - date_published: 2024-06-17T20:27:26.043392+00:00
-
- ## Drucken, Kopieren, Scannen | Brother Schweiz Online-Shop
- - [https://www.brother.ch](https://www.brother.ch)
- - date_published: 2024-05-02T11:24:03.503734+00:00
-
- ## Brüggli | Startseite
- - [http://www.brueggli.ch](http://www.brueggli.ch)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## B-Sides
- - [http://b-sides.ch](http://b-sides.ch)
- - date_published: 2024-07-13T15:28:59.100967+00:00
-
- ## c4science
- - [https://c4science.ch](https://c4science.ch)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Sergio Camalich | Maker of Stuff
- - [https://www.camali.ch](https://www.camali.ch)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Canal9
- - [https://canal9.ch](https://canal9.ch)
- - date_published: 2024-07-16T22:07:05.645768+00:00
-
- ## Bienvenue chez Cardinal
- - [http://www.cardinal.ch](http://www.cardinal.ch)
- - date_published: 2024-07-03T06:43:33.762341+00:00
-
- ## carte blanche | Kundenkarte der Tamedia-Titel
- - [https://www.carteblanche.ch](https://www.carteblanche.ch)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Alles über Finanzen: News, Banking & Trading
- - [https://www.cash.ch](https://www.cash.ch)
- - date_published: 2024-06-25T22:02:59.628532+00:00
-
- ## www.ccontrols.ch - Computer Controls  - Computer Controls Group
- - [https://www.ccontrols.ch](https://www.ccontrols.ch)
- - date_published: 2024-07-15T04:10:44.201889+00:00
-
- ## La Cour des comptes de Genève – Au service d’une action publique performante.
- - [http://www.cdc-ge.ch](http://www.cdc-ge.ch)
- - date_published: 2024-06-18T14:24:21.146071+00:00
-
- ## CeDe.ch
- - [https://www.cede.ch](https://www.cede.ch)
- - date_published: 2024-07-13T13:36:53.441702+00:00
-
- ## centiskor.ch | A Pokémon fan site
- - [https://centiskor.ch](https://centiskor.ch)
- - date_published: 2024-06-23T18:48:27.611261+00:00
-
- ## Centre d’Art Contemporain Genève
- - [https://centre.ch](https://centre.ch)
- - date_published: 2024-06-26T22:15:33.443867+00:00
-
- ## Accueil
- - [https://centreecotox.ch](https://centreecotox.ch)
- - date_published: 2024-05-12T07:15:12.988064+00:00
-
- ## Bienvenue au Centre Sport et Santé | Centre Sport et Santé (CSS)
- - [http://www.centresportetsante.ch](http://www.centresportetsante.ch)
- - date_published: 2024-07-16T22:34:15.908636+00:00
-
- ## What's up on CDS – News, announcements and future developments of CDS services at CERN
- - [https://cds-blog.web.cern.ch](https://cds-blog.web.cern.ch)
- - date_published: 2024-06-15T04:01:23.501496+00:00
-
- ## CERN Document Server
- - [https://cds.cern.ch](https://cds.cern.ch)
- - date_published: 2024-05-01T02:17:47.123653+00:00
-
- ## CERN Document Server
- - [http://cdsweb.cern.ch](http://cdsweb.cern.ch)
- - date_published: 2024-06-30T08:14:17.453770+00:00
-
- ## CERN is celebrating 60 years of science for peace in 2014 | CERN's 60th anniversary
- - [http://cern60.web.cern.ch](http://cern60.web.cern.ch)
- - date_published: 2020-09-15T21:19:04+00:00
-
- ## Home | CERN
- - [https://cern.ch](https://cern.ch)
- - date_published: 2024-04-30T05:57:39.966832+00:00
-
- ## Home | CERN Open Hardware Licence
- - [https://cern-ohl.web.cern.ch](https://cern-ohl.web.cern.ch)
- - date_published: 2024-07-07T08:38:10.895181+00:00
-
- ## CernVM
- - [https://cernvm.cern.ch](https://cernvm.cern.ch)
- - date_published: 2023-10-25T12:13:02.528440+00:00
-
- ## Dr Sue Cheatham
- - [https://cheatham.web.cern.ch](https://cheatham.web.cern.ch)
- - date_published: 2019-08-08T11:12:25+00:00
-
- ## Sign in to CERN
- - [http://cmsdoc.cern.ch](http://cmsdoc.cern.ch)
- - date_published: 2024-06-30T08:14:34.294514+00:00
-
- ## Sign in to CERN
- - [http://cms.web.cern.ch](http://cms.web.cern.ch)
- - date_published: 2024-06-30T08:14:18.940771+00:00
-
- ## Terms of Use for CERN Audiovisual Media | Copyright and terms of use of CERN content
- - [https://copyright.web.cern.ch](https://copyright.web.cern.ch)
- - date_published: 2024-04-30T05:57:59.148456+00:00
-
- ## Educational Resources | CERN
- - [https://educational-resources.web.cern.ch](https://educational-resources.web.cern.ch)
- - date_published: 2024-04-30T05:57:57.887458+00:00
-
- ## CERN toolbar examples
- - [https://framework.web.cern.ch](https://framework.web.cern.ch)
- - date_published: 2024-04-30T05:57:43.190511+00:00
-
- ## Home | CERN Games Club
- - [https://games-club.web.cern.ch](https://games-club.web.cern.ch)
- - date_published: 2024-07-10T02:03:50.320271+00:00
-
- ## Home | CERN
- - [https://home.web.cern.ch](https://home.web.cern.ch)
- - date_published: 2024-05-14T04:03:55.177397+00:00
-
- ## Welcome to CERN | Human Resources
- - [https://hr.web.cern.ch](https://hr.web.cern.ch)
- - date_published: 2024-04-30T05:58:56.750770+00:00
-
- ## Home · Indico
- - [http://indicobeta.cern.ch](http://indicobeta.cern.ch)
- - date_published: 2024-06-30T08:14:38.177483+00:00
-
- ## Home · Indico
- - [https://indico.cern.ch](https://indico.cern.ch)
- - date_published: 2024-02-28T12:13:35.444822+00:00
-
- ## Learning Indico
- - [https://indico.docs.cern.ch](https://indico.docs.cern.ch)
- - date_published: 2024-04-30T05:58:51.895341+00:00
-
- ## http://info.cern.ch
- - [https://info.cern.ch](https://info.cern.ch)
- - date_published: 2024-04-27T08:31:40.472862+00:00
- - tags: ['internet history']
-
- ## Home | internal-audit-service.web.cern.ch
- - [https://internal-audit-service.web.cern.ch](https://internal-audit-service.web.cern.ch)
- - date_published: 2024-04-30T05:58:59.938788+00:00
-
- ## Turn-key research data management repository
- - [https://inveniordm.docs.cern.ch](https://inveniordm.docs.cern.ch)
- - date_published: 2024-06-16T20:25:35+00:00
-
- ## InvenioRDM
- - [https://inveniordm.web.cern.ch](https://inveniordm.web.cern.ch)
- - date_published: 2024-06-19T22:29:30.789443+00:00
-
- ## Kubernetes @ CERN
- - [https://kubernetes.web.cern.ch](https://kubernetes.web.cern.ch)
- - date_published: 2024-06-27T08:23:43+00:00
-
- ## Linux @ CERN
- - [http://linuxsoft.cern.ch](http://linuxsoft.cern.ch)
- - date_published: 2024-06-15T18:24:12.857300+00:00
-
- ## Home | Ombuds
- - [https://ombuds.web.cern.ch](https://ombuds.web.cern.ch)
- - date_published: 2023-10-25T12:13:09.035239+00:00
-
- - [https://onlyfans.web.cern.ch](https://onlyfans.web.cern.ch)
- - date_published: 2024-01-09T02:22:26.007258+00:00
-
- ## Sign in - Matomo
- - [https://piwik.web.cern.ch](https://piwik.web.cern.ch)
- - date_published: 2024-04-30T05:57:42.165658+00:00
-
- ## Home | CERN
- - [http://press.web.cern.ch](http://press.web.cern.ch)
- - date_published: 2024-06-30T08:14:08+00:00
-
- ## CERN - the European Organization for Nuclear Research
- - [http://public.web.cern.ch](http://public.web.cern.ch)
- - date_published: 2013-03-06T14:39:14+00:00
-
- ## ROOT: analyzing petabytes of data, scientifically.
- - [https://root.cern.ch](https://root.cern.ch)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Welcome | Staff Association
- - [https://staff-association.web.cern.ch](https://staff-association.web.cern.ch)
- - date_published: 2024-04-30T05:58:58.730480+00:00
-
- ## WebHome < DefaultWeb < TWiki
- - [https://twiki.cern.ch](https://twiki.cern.ch)
- - date_published: 2024-04-30T05:57:37.352872+00:00
-
- ## CDS Videos · CERN
- - [https://videos.cern.ch](https://videos.cern.ch)
- - date_published: 2024-06-15T04:01:24.448666+00:00
-
- ## Accueil | Le CERN et ses voisins
- - [https://voisins.web.cern.ch](https://voisins.web.cern.ch)
- - date_published: 2024-04-30T05:57:54.369655+00:00
-
- ## Sign in - Matomo
- - [https://webanalytics.web.cern.ch](https://webanalytics.web.cern.ch)
- - date_published: 2024-04-30T05:57:49.640211+00:00
-
- ## CERN Live Events Website (Webcast)
- - [http://webcast.cern.ch](http://webcast.cern.ch)
- - date_published: 2024-05-02T07:32:58+00:00
-
- ## CERN Live Events Website (Webcast)
- - [https://webcast.web.cern.ch](https://webcast.web.cern.ch)
- - date_published: 2024-04-30T05:57:46.955586+00:00
-
- ## The White Rabbit Collaboration
- - [https://white-rabbit-collaboration-website.web.cern.ch](https://white-rabbit-collaboration-website.web.cern.ch)
- - date_published: 2024-07-13T13:01:39.800157+00:00
-
- ## White Rabbit Official CERN website
- - [https://white-rabbit.web.cern.ch](https://white-rabbit.web.cern.ch)
- - date_published: 2024-02-18T23:22:18+00:00
-
- ## Wim Lavrijsen
- - [http://wlav.web.cern.ch](http://wlav.web.cern.ch)
- - date_published: 2017-09-21T18:35:31+00:00
-
- ## CERN 2019 WorldWideWeb Rebuild
- - [https://worldwideweb.cern.ch](https://worldwideweb.cern.ch)
- - date_published: 2020-12-14T20:30:11+00:00
-
- ## Sign in - Matomo
- - [https://webstats.ch.ch](https://webstats.ch.ch)
- - date_published: 2024-07-16T22:05:17.185878+00:00
-
- ## Homepage ch.ch - official information from the authorities
- - [https://ch.ch](https://ch.ch)
- - date_published: 2024-05-12T07:15:05.822410+00:00
-
- ## Mountain hotel, restaurant, seminar rooms - Chäserstatt Goms Wallis
- - [https://www.chaeserstatt.ch](https://www.chaeserstatt.ch)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## CRESCHIDS, Chatta, Rumantsch Grischun
- - [http://www.chatta.ch](http://www.chatta.ch)
- - date_published: 2024-07-12T02:46:34.256033+00:00
 

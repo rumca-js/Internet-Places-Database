@@ -1,4002 +1,4008 @@
- ## Development and Alumni Relations |
- - [https://dar.seas.upenn.edu](https://dar.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:50.740386+00:00
-
- ## MSE in Data Science
- - [https://dats.seas.upenn.edu](https://dats.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:43.441043+00:00
-
- ## Digital.library server at Penn Libraries
- - [https://digital.library.upenn.edu](https://digital.library.upenn.edu)
- - date_published: 2022-07-29T17:55:35+00:00
-
- ## Penn Online Directory - Search
- - [https://directory.apps.upenn.edu](https://directory.apps.upenn.edu)
- - date_published: 2024-05-07T21:58:26.537026+00:00
-
- ## Faculty Directory |
- - [https://directory.seas.upenn.edu](https://directory.seas.upenn.edu)
- - date_published: 2024-07-02T10:30:40.094131+00:00
-
- ## Office of Diversity, Equity and Inclusion |
- - [https://diversity.seas.upenn.edu](https://diversity.seas.upenn.edu)
- - date_published: 2024-07-02T10:29:58.936381+00:00
-
- ## Diversity and Inclusion | Penn Diversity and Inclusion
- - [https://diversity.upenn.edu](https://diversity.upenn.edu)
- - date_published: 2024-07-02T05:36:46+00:00
- - tags: ['dei']
-
- ## Homepage
- - [https://doctoral.wharton.upenn.edu](https://doctoral.wharton.upenn.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Distributed Systems Laboratory – Investigating Advanced Distributed Systems and Networking Technologies
- - [https://dsl.cis.upenn.edu](https://dsl.cis.upenn.edu)
- - date_published: 2024-07-02T10:30:52.757825+00:00
-
- ## Engineering Entrepreneurship | Fostering Innovation for Future Leaders
- - [https://eent.seas.upenn.edu](https://eent.seas.upenn.edu)
- - date_published: 2024-07-02T10:32:48.406481+00:00
-
- ## Engheta Group – At the University of Pennsylvania
- - [https://engheta.seas.upenn.edu](https://engheta.seas.upenn.edu)
- - date_published: 2024-07-07T09:23:26.449680+00:00
-
- ## Homepage
- - [https://entrepreneurship.wharton.upenn.edu](https://entrepreneurship.wharton.upenn.edu)
- - date_published: 2024-06-16T21:52:57.298608+00:00
-
- ## Engineering Operational Services |
- - [https://eos.seas.upenn.edu](https://eos.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:31.521423+00:00
-
- ## EPM – Electronic Photonic Microsystems Lab
- - [https://epm.seas.upenn.edu](https://epm.seas.upenn.edu)
- - date_published: 2024-07-07T09:23:23.194643+00:00
-
- ## Penn Engineering Events |
- - [https://events.seas.upenn.edu](https://events.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:19.158165+00:00
-
- ## Home Page
- - [https://executiveeducation.wharton.upenn.edu](https://executiveeducation.wharton.upenn.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## EMBA Homepage
- - [https://executivemba.wharton.upenn.edu](https://executivemba.wharton.upenn.edu)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Home Page
- - [https://executive.wharton.upenn.edu](https://executive.wharton.upenn.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Faculty Affairs |
- - [https://facultyaffairs.seas.upenn.edu](https://facultyaffairs.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:21.514810+00:00
-
- ## Wharton Faculty Platform
- - [https://faculty.wharton.upenn.edu](https://faculty.wharton.upenn.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Home
- - [https://fisher.wharton.upenn.edu](https://fisher.wharton.upenn.edu)
- - date_published: 2024-06-21T11:42:59.091675+00:00
-
- ## Giving to Penn
- - [https://giving.apps.upenn.edu](https://giving.apps.upenn.edu)
- - date_published: 2024-02-27T14:54:09+00:00
-
- ## Giving to Penn
- - [https://giving.aws.cloud.upenn.edu](https://giving.aws.cloud.upenn.edu)
- - date_published: 2024-02-27T14:54:09+00:00
-
- ## Inspiring Impact | University of Pennsylvania
- - [http://giving.upenn.edu](http://giving.upenn.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Penn Global
- - [https://global.upenn.edu](https://global.upenn.edu)
- - date_published: 2024-06-18T13:45:23+00:00
-
- ## Home Page
- - [https://global.wharton.upenn.edu](https://global.wharton.upenn.edu)
- - date_published: 2024-06-16T21:53:26.976137+00:00
-
- ## Wharton Global Youth Program Home
- - [https://globalyouth.wharton.upenn.edu](https://globalyouth.wharton.upenn.edu)
- - date_published: 2024-06-16T21:52:54.245043+00:00
-
- ## Penn Engineering Graduate Admissions
- - [https://gradadm.seas.upenn.edu](https://gradadm.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:45.434601+00:00
-
- ## Graduate Affairs |
- - [https://grad.seas.upenn.edu](https://grad.seas.upenn.edu)
- - date_published: 2024-06-22T10:04:21.307517+00:00
-
- ## groups.sas.upenn.edu Mailing Lists
- - [https://groups.sas.upenn.edu](https://groups.sas.upenn.edu)
- - date_published: 2024-05-07T21:59:00.890305+00:00
-
- ## Guides: Guides Home: Research Guides
- - [https://guides.library.upenn.edu](https://guides.library.upenn.edu)
- - date_published: 2024-07-01T18:48:13.998189+00:00
-
- ## Andreas Haeberlen
- - [https://haeberlen.cis.upenn.edu](https://haeberlen.cis.upenn.edu)
- - date_published: 2024-07-02T10:29:50.654958+00:00
-
- ## University of Pennsylvania Libraries - Handle Testing
- - [http://hdl.library.upenn.edu](http://hdl.library.upenn.edu)
- - date_published: 2021-10-30T00:18:01+00:00
-
- ## Penn Computer & Information Science Highlights – Inventing the future
- - [https://highlights.cis.upenn.edu](https://highlights.cis.upenn.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Human Resources |
- - [https://hr.seas.upenn.edu](https://hr.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:28.412548+00:00
-
- ## Penn Arts and Sciences High School Programs
- - [https://hs.sas.upenn.edu](https://hs.sas.upenn.edu)
- - date_published: 2024-07-02T10:33:57.730525+00:00
-
- ## ImpactED
- - [https://impact-ed.sas.upenn.edu](https://impact-ed.sas.upenn.edu)
- - date_published: 2024-07-02T10:33:53.184194+00:00
-
- ## In Principle and Practice
- - [https://in-principle-and-practice.upenn.edu](https://in-principle-and-practice.upenn.edu)
- - date_published: 2024-05-07T21:57:57.763631+00:00
-
- ## Wharton Inside
- - [https://inside.wharton.upenn.edu](https://inside.wharton.upenn.edu)
- - date_published: 2024-06-16T21:52:49.962025+00:00
-
- ## Game Changing Learning
- - [https://interactive.wharton.upenn.edu](https://interactive.wharton.upenn.edu)
- - date_published: 2024-07-02T05:38:09.695427+00:00
-
- ## Language Log
- - [http://itre.cis.upenn.edu](http://itre.cis.upenn.edu)
- - date_published: 2024-06-30T08:51:49.065094+00:00
-
- ## Home Page - Knowledge at Wharton
- - [https://knowledge.wharton.upenn.edu](https://knowledge.wharton.upenn.edu)
- - date_published: 2023-10-25T19:04:01.029385+00:00
-
- ## 5th L4DC Conference – June 2023, University of Pennsylvania, PA
- - [https://l4dc.seas.upenn.edu](https://l4dc.seas.upenn.edu)
- - date_published: 2024-06-22T08:19:34.928209+00:00
-
- ## Language Log
- - [https://languagelog.ldc.upenn.edu](https://languagelog.ldc.upenn.edu)
- - date_published: 2023-10-25T19:04:08.709335+00:00
-
- ## Legal Studies & Business Ethics Department
- - [https://lgst.wharton.upenn.edu](https://lgst.wharton.upenn.edu)
- - date_published: 2024-06-17T11:16:24.005769+00:00
-
- ## Ivy League Online Degrees | Penn LPS Online
- - [https://lpsonline.sas.upenn.edu](https://lpsonline.sas.upenn.edu)
- - date_published: 2024-07-02T10:33:56.177914+00:00
-
- ## Home
- - [https://mackinstitute.wharton.upenn.edu](https://mackinstitute.wharton.upenn.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Penn Engineering Magazine – School of Engineering and Applied Science | University of Pennsylvania
- - [https://magazine.seas.upenn.edu](https://magazine.seas.upenn.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Wharton Marketing: Changing the World of Business
- - [https://marketing.wharton.upenn.edu](https://marketing.wharton.upenn.edu)
- - date_published: 2024-05-07T18:21:11.682392+00:00
-
- ## MBA Inside
- - [https://mba-inside.wharton.upenn.edu](https://mba-inside.wharton.upenn.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## MBA
- - [https://mba.wharton.upenn.edu](https://mba.wharton.upenn.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Penn WebLogin
- - [https://media.sas.upenn.edu](https://media.sas.upenn.edu)
- - date_published: 2024-06-29T16:25:52.382918+00:00
-
- ## Home
- - [https://mgmt.wharton.upenn.edu](https://mgmt.wharton.upenn.edu)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## MindCORE | Penn's hub for the integrative study of the mind, connecting researchers across our campus and with our community
- - [https://mindcore.sas.upenn.edu](https://mindcore.sas.upenn.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Materials Science and Engineering | A Department of the School of Engineering and Applied Science
- - [https://mse.seas.upenn.edu](https://mse.seas.upenn.edu)
- - date_published: 2024-07-02T10:29:40.578442+00:00
-
- ## Center for Neuroscience & Society – University of Pennsylvania
- - [https://neuroethics.upenn.edu](https://neuroethics.upenn.edu)
- - date_published: 2024-07-02T08:08:14+00:00
-
- ## Marketing and Communications |
- - [https://news.seas.upenn.edu](https://news.seas.upenn.edu)
- - date_published: 2024-05-07T21:46:18.112676+00:00
-
- ## Wharton Newsroom
- - [https://news.wharton.upenn.edu](https://news.wharton.upenn.edu)
- - date_published: 2018-12-13T17:37:39+00:00
-
- ## People
- - [https://nlp.cis.upenn.edu](https://nlp.cis.upenn.edu)
- - date_published: 2024-05-19T02:41:00.915962+00:00
-
- ## Home | OAA-EOP
- - [https://oaaeop.upenn.edu](https://oaaeop.upenn.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Home Page | Omnia
- - [https://omnia.sas.upenn.edu](https://omnia.sas.upenn.edu)
- - date_published: 2024-06-14T13:56:41+00:00
-
- ## The Online Books Page
- - [https://onlinebooks.library.upenn.edu](https://onlinebooks.library.upenn.edu)
- - date_published: 2023-10-25T19:04:10.693759+00:00
-
- ## Penn Engineering Online
- - [https://onlinelearning.seas.upenn.edu](https://onlinelearning.seas.upenn.edu)
- - date_published: 2024-07-02T10:32:04.686306+00:00
-
- ## Penn Engineering Online
- - [https://online.seas.upenn.edu](https://online.seas.upenn.edu)
- - date_published: 2024-06-22T10:04:24.655286+00:00
-
- ## Wharton Online Learning
- - [https://online.wharton.upenn.edu](https://online.wharton.upenn.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## homepage
- - [https://operations.wharton.upenn.edu](https://operations.wharton.upenn.edu)
- - date_published: 2024-06-16T21:53:28.419301+00:00
-
- ## Oracc: The Open Richly Annotated Cuneiform Corpus
- - [http://oracc.museum.upenn.edu](http://oracc.museum.upenn.edu)
- - date_published: 2024-06-28T10:47:09+00:00
-
- ## University of Pennsylvania - School of Arts & Sciences | School of Arts and Sciences - University of Pennsylvania
- - [https://pan-school.sas.upenn.edu](https://pan-school.sas.upenn.edu)
- - date_published: 2024-07-01T15:53:08+00:00
-
- ## @Penn
- - [https://path.at.upenn.edu](https://path.at.upenn.edu)
- - date_published: 2023-09-29T12:38:14+00:00
-
- ## Penn & Philly | Creating Opportunities for Philadelphians
- - [https://pennandphilly.upenn.edu](https://pennandphilly.upenn.edu)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Penn Today
- - [https://penntoday.upenn.edu](https://penntoday.upenn.edu)
- - date_published: 2023-10-25T19:04:12.509293+00:00
-
- ## PESTLE | Penn Engineering Student Learning and Engagement
- - [https://pestle.seas.upenn.edu](https://pestle.seas.upenn.edu)
- - date_published: 2024-06-22T10:04:30.312993+00:00
-
- ## Learn more about The Penn Institute for Computational Science (PICS)
- - [https://pics.upenn.edu](https://pics.upenn.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Home | Penn Integrates Knowledge Professorships
- - [https://pikprofessors.upenn.edu](https://pikprofessors.upenn.edu)
- - date_published: 2024-07-02T05:37:08+00:00
-
- ## penn
- - [https://platform.onlinelearning.upenn.edu](https://platform.onlinelearning.upenn.edu)
- - date_published: 2024-07-02T05:38:45.608284+00:00
-
- ## PRECISE
- - [https://precise.seas.upenn.edu](https://precise.seas.upenn.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Office of the Interim President | Office of the President
- - [https://president.upenn.edu](https://president.upenn.edu)
- - date_published: 2024-05-07T21:58:06.774497+00:00
-
- ## Penn Research in Machine Learning | School of Engineering & Applied Science | The Wharton School
- - [https://priml.upenn.edu](https://priml.upenn.edu)
- - date_published: 2024-07-02T10:30:21.787267+00:00
-
- ## Penn Web - Directory Listing Disabled
- - [https://provider.www.upenn.edu](https://provider.www.upenn.edu)
- - date_published: 2024-07-02T05:38:48.892804+00:00
-
- ## Home - Penn Provost
- - [https://provost.upenn.edu](https://provost.upenn.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Welcome to PVMI
- - [https://pvmi.wharton.upenn.edu](https://pvmi.wharton.upenn.edu)
- - date_published: 2024-06-13T16:58:49.789640+00:00
-
- ## PWBM DataView
- - [https://pwbm-data.wharton.upenn.edu](https://pwbm-data.wharton.upenn.edu)
- - date_published: 2023-03-17T15:08:20+00:00
-
- ## Penn Wharton China Center
- - [https://pwcc.upenn.edu](https://pwcc.upenn.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Penn Center for Quantum Information, Engineering, Science and Technology (QUIEST)
- - [https://quiest.seas.upenn.edu](https://quiest.seas.upenn.edu)
- - date_published: 2024-07-02T10:30:19.673013+00:00
-
- ## Office of Academic Services |
- - [https://ras.seas.upenn.edu](https://ras.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:39.190616+00:00
-
- ## Wharton Partnerships
- - [https://recruiters-corp.wharton.upenn.edu](https://recruiters-corp.wharton.upenn.edu)
- - date_published: 2024-06-16T21:52:51.424103+00:00
-
- ## ScholarlyCommons :: Home
- - [https://repository.upenn.edu](https://repository.upenn.edu)
- - date_published: 2024-06-17T10:27:39.008061+00:00
-
- ## Research IT
- - [https://research-it.wharton.upenn.edu](https://research-it.wharton.upenn.edu)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Research and Innovation |
- - [https://research.seas.upenn.edu](https://research.seas.upenn.edu)
- - date_published: 2024-06-22T10:04:27.625620+00:00
-
- ## Penn Carey Law: Legal Scholarship Repository | University of Pennsylvania Carey Law School Research
- - [https://scholarship.law.upenn.edu](https://scholarship.law.upenn.edu)
- - date_published: 2024-07-02T10:48:15.916771+00:00
-
- ## PESTLE | Penn Engineering Student Learning and Engagement
- - [https://servelearn.seas.upenn.edu](https://servelearn.seas.upenn.edu)
- - date_published: 2024-07-02T10:32:10.332970+00:00
-
- ## Home
- - [https://sf.wharton.upenn.edu](https://sf.wharton.upenn.edu)
- - date_published: 2024-06-16T21:53:30.736418+00:00
-
- ## Home
- - [https://simulations.wharton.upenn.edu](https://simulations.wharton.upenn.edu)
- - date_published: 2024-05-08T04:03:22.779210+00:00
-
- ## Software Foundations
- - [https://softwarefoundations.cis.upenn.edu](https://softwarefoundations.cis.upenn.edu)
- - date_published: 2021-05-24T17:53:08+00:00
-
- ## Stevens Center for Innovation in Finance
- - [https://stevenscenter.wharton.upenn.edu](https://stevenscenter.wharton.upenn.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Our Foundations and Frontiers | A Strategic Plan for Penn Arts and Sciences
- - [https://strategic-plan.sas.upenn.edu](https://strategic-plan.sas.upenn.edu)
- - date_published: 2024-07-02T10:35:06+00:00
-
- ## Supporting our community in times of crisis | Supporting our community in times of crisis
- - [https://supporting-our-community.upenn.edu](https://supporting-our-community.upenn.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Penn WebLogin
- - [https://twostep.apps.upenn.edu](https://twostep.apps.upenn.edu)
- - date_published: 2024-07-02T10:31:48.790762+00:00
-
- ## Undergraduate Admissions |
- - [https://ugradadm.seas.upenn.edu](https://ugradadm.seas.upenn.edu)
- - date_published: 2024-07-02T10:32:13.989064+00:00
-
- ## Undergraduate Affairs |
- - [https://ugrad.seas.upenn.edu](https://ugrad.seas.upenn.edu)
- - date_published: 2024-06-22T10:04:22.981873+00:00
-
- ## Home Page
- - [https://undergrad.wharton.upenn.edu](https://undergrad.wharton.upenn.edu)
- - date_published: 2024-06-16T21:53:24.926858+00:00
-
- ## University Communications | University Communications
- - [https://university-communications.upenn.edu](https://university-communications.upenn.edu)
- - date_published: 2024-05-07T21:58:04.545621+00:00
-
- ## University of Pennsylvania
- - [https://upenn.edu](https://upenn.edu)
- - date_published: 2024-06-18T05:39:05+00:00
-
- ## The Water Center at Upenn | The Water Center at Penn
- - [https://watercenter.sas.upenn.edu](https://watercenter.sas.upenn.edu)
- - date_published: 2024-06-26T17:48:08+00:00
-
- ## Wharton Behavioral Lab
- - [https://wbl.wharton.upenn.edu](https://wbl.wharton.upenn.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home
- - [https://wcai.wharton.upenn.edu](https://wcai.wharton.upenn.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## web.sas.upenn.edu
- - [https://web.sas.upenn.edu](https://web.sas.upenn.edu)
- - date_published: 2023-10-25T19:04:14.935075+00:00
-
- ## Wellness at Penn | Wellness at Penn
- - [https://wellness.upenn.edu](https://wellness.upenn.edu)
- - date_published: 2024-07-02T10:35:09.836420+00:00
-
- ## Wharton People Analytics
- - [https://wpa.wharton.upenn.edu](https://wpa.wharton.upenn.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## CPCW: The Center for Programs in Contemporary Writing
- - [https://writing.upenn.edu](https://writing.upenn.edu)
- - date_published: 2024-06-29T16:25:49.750709+00:00
-
- ## Wharton School Press - University of Pennsylvania Press
- - [http://wsp.wharton.upenn.edu](http://wsp.wharton.upenn.edu)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Department of Mathematics | Penn Math
- - [https://www2.math.upenn.edu](https://www2.math.upenn.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home Page
- - [https://www.alumni.upenn.edu](https://www.alumni.upenn.edu)
- - date_published: 2024-07-02T10:28:27.054923+00:00
-
- ## Applied Mathematics and Computational Science
- - [https://www.amcs.upenn.edu](https://www.amcs.upenn.edu)
- - date_published: 2024-07-13T03:08:03.348684+00:00
-
- ## Home | Annenberg
- - [https://www.asc.upenn.edu](https://www.asc.upenn.edu)
- - date_published: 2024-04-29T02:50:20.710848+00:00
-
- ## Authentic Happiness | Authentic Happiness
- - [https://www.authentichappiness.sas.upenn.edu](https://www.authentichappiness.sas.upenn.edu)
- - date_published: 2024-05-12T05:37:48.919929+00:00
-
- ## Computer and Information Science | A Department of the School of Engineering and Applied Science
- - [https://cis.upenn.edu](https://cis.upenn.edu)
- - date_published: 2023-10-25T19:04:17.867275+00:00
-
- ## University of Pennsylvania - College of Arts and Sciences | College of Arts & Sciences - University of Pennsylvania
- - [https://www.college.upenn.edu](https://www.college.upenn.edu)
- - date_published: 2024-05-02T09:51:40.412428+00:00
-
- ## Stuart Weitzman School of Design
- - [https://www.design.upenn.edu](https://www.design.upenn.edu)
- - date_published: 2024-05-08T11:44:32.893157+00:00
-
- ## Electrical and Systems Engineering | A Department of the School of Engineering and Applied Science
- - [https://www.ee.upenn.edu](https://www.ee.upenn.edu)
- - date_published: 2024-05-08T10:21:03.831321+00:00
-
- ## The University of Pennsylvania’s English Language Programs (ELP)
- - [https://www.elp.upenn.edu](https://www.elp.upenn.edu)
- - date_published: 2024-07-02T10:33:58.969386+00:00
-
- ## Electrical and Systems Engineering | A Department of the School of Engineering and Applied Science
- - [https://www.ese.upenn.edu](https://www.ese.upenn.edu)
- - date_published: 2024-07-02T10:30:13.327729+00:00
-
- ## Home | University of Pennsylvania Facilities and Real Estate Services
- - [https://facilities.upenn.edu](https://facilities.upenn.edu)
- - date_published: 2024-05-07T21:58:22.982068+00:00
-
- ## Fels Institute of Government
- - [https://www.fels.upenn.edu](https://www.fels.upenn.edu)
- - date_published: 2024-06-28T17:48:34+00:00
-
- ## GRASP Laboratory
- - [https://www.grasp.upenn.edu](https://www.grasp.upenn.edu)
- - date_published: 2024-05-19T02:40:45.984065+00:00
-
- ## University of Pennsylvania Graduate School of Education | Penn GSE
- - [http://www.gse.upenn.edu](http://www.gse.upenn.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Division of Human Resources University of Pennsylvania
- - [https://www.hr.upenn.edu](https://www.hr.upenn.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## UPenn ISC
- - [https://www.isc.upenn.edu](https://www.isc.upenn.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Home | Linguistic Data Consortium
- - [http://www.ldc.upenn.edu](http://www.ldc.upenn.edu)
- - date_published: 2024-07-02T05:42:11+00:00
-
- ## Penn Libraries
- - [https://www.library.upenn.edu](https://www.library.upenn.edu)
- - date_published: 2024-07-01T18:46:10+00:00
-
- ## Department of Linguistics - Home | Department of Linguistics
- - [https://ling.upenn.edu](https://ling.upenn.edu)
- - date_published: 2023-10-25T19:04:20.730527+00:00
-
- ## The College of Liberal and Professional Studies (LPS)
- - [https://www.lps.upenn.edu](https://www.lps.upenn.edu)
- - date_published: 2024-05-07T21:58:57.994235+00:00
-
- ## Department of Mathematics | Penn Math
- - [https://math.upenn.edu](https://math.upenn.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Mechanical Engineering and Applied Mechanics | A Department of the School of Engineering and Applied Science
- - [https://www.me.upenn.edu](https://www.me.upenn.edu)
- - date_published: 2024-07-02T10:29:45.612967+00:00
-
- ## Welcome to Penn Nursing
- - [https://www.nursing.upenn.edu](https://www.nursing.upenn.edu)
- - date_published: 2024-07-02T10:31:02+00:00
-
- ## Penn Connects : A Vision for the Future.
- - [http://www.pennconnects.upenn.edu](http://www.pennconnects.upenn.edu)
- - date_published: 2024-07-02T10:31:09.466386+00:00
-
- ## Home | Department of Physics and Astronomy
- - [http://www.physics.upenn.edu](http://www.physics.upenn.edu)
- - date_published: 2024-06-30T08:46:56+00:00
-
- ## Penn in Washington | Events, networking, courses, and internships for Penn students in D.C
- - [https://www.piw.sas.upenn.edu](https://www.piw.sas.upenn.edu)
- - date_published: 2024-07-02T10:34:16+00:00
-
- ## Positive Psychology Center Online Research Program - University of Pennsylvania
- - [http://www.ppresearch.sas.upenn.edu](http://www.ppresearch.sas.upenn.edu)
- - date_published: 2024-05-31T15:15:32+00:00
-
- ## Home | Division of Public Safety
- - [https://www.publicsafety.upenn.edu](https://www.publicsafety.upenn.edu)
- - date_published: 2024-05-07T21:58:02.917615+00:00
-
- ## University of Pennsylvania - School of Arts & Sciences | School of Arts and Sciences - University of Pennsylvania
- - [https://www.sas.upenn.edu](https://www.sas.upenn.edu)
- - date_published: 2024-05-07T21:59:07.813368+00:00
-
- ## Penn Engineering | Inventing the Future
- - [https://www.seas.upenn.edu](https://www.seas.upenn.edu)
- - date_published: 2024-05-04T15:29:46.271792+00:00
-
- ## Home - School of Social Policy & Practice
- - [https://www.sp2.upenn.edu](https://www.sp2.upenn.edu)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Penn Sustainability - Homepage
- - [http://www.sustainability.upenn.edu](http://www.sustainability.upenn.edu)
- - date_published: 2024-06-20T18:28:38+00:00
-
- ## The Wharton School
- - [https://www.wharton.upenn.edu](https://www.wharton.upenn.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## XCAT
- - [https://xcat.at.upenn.edu](https://xcat.at.upenn.edu)
- - date_published: 2024-04-25T20:16:39+00:00
-
- ## adAS SSO | Servei de Single Sign-On
- - [https://aula.esci.upf.edu](https://aula.esci.upf.edu)
- - date_published: 2024-07-02T10:36:30.476095+00:00
-
- ## CAU - Centre d'atenció a l'usuari
- - [https://cau.upf.edu](https://cau.upf.edu)
- - date_published: 2024-07-02T10:45:27.965294+00:00
-
- ## UPF Barcelona School Of Management
- - [https://esecretaria.bsm.upf.edu](https://esecretaria.bsm.upf.edu)
- - date_published: 2024-07-02T10:44:13.663452+00:00
-
- ## Eventum UPF - Universitat Pompeu Fabra
- - [https://eventum.upf.edu](https://eventum.upf.edu)
- - date_published: 2024-05-07T21:59:39.642924+00:00
-
- ## Guia d'experts (UPF)
- - [https://experts.upf.edu](https://experts.upf.edu)
- - date_published: 2024-05-07T21:59:23.870726+00:00
-
- ## Redirigiendo ...
- - [https://gestioacademicavirtual.esci.upf.edu](https://gestioacademicavirtual.esci.upf.edu)
- - date_published: 2021-10-21T10:18:42+00:00
-
- ## Guies BibTIC
- - [https://guiesbibtic.upf.edu](https://guiesbibtic.upf.edu)
- - date_published: 2024-07-02T10:45:26.288103+00:00
-
- ## Mercat del Peix -  Biomedicina, biodiversitat i benestar planetari
- - [https://mercatdelpeix.upf.edu](https://mercatdelpeix.upf.edu)
- - date_published: 2024-05-07T21:59:41.536947+00:00
-
- ## Micromégas
- - [https://micromegas.bsm.upf.edu](https://micromegas.bsm.upf.edu)
- - date_published: 2024-07-02T10:44:18.673006+00:00
-
- ## Patrimonia - Videoblog de economía y finanzas
- - [https://patrimonia.bsm.upf.edu](https://patrimonia.bsm.upf.edu)
- - date_published: 2024-07-02T10:44:12.301714+00:00
-
- ## Producció científica a la UPF
- - [https://producciocientifica.upf.edu](https://producciocientifica.upf.edu)
- - date_published: 2024-05-07T21:59:44.897873+00:00
-
- ## e-Repositori UPF
- - [http://repositori.upf.edu](http://repositori.upf.edu)
- - date_published: 2024-07-02T10:45:23.564610+00:00
-
- ## Seu electrònica
- - [https://seuelectronica.upf.edu](https://seuelectronica.upf.edu)
- - date_published: 2024-05-07T21:59:46.615245+00:00
-
- ## Servicio de Single Sign-On
- - [https://sso.bsm.upf.edu](https://sso.bsm.upf.edu)
- - date_published: 2024-07-02T10:44:15.436015+00:00
-
- ## Participar Alumni UPF-BSM
- - [https://www.alumni.bsm.upf.edu](https://www.alumni.bsm.upf.edu)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## UPF Barcelona School of Management | UPF-BSM
- - [http://www.barcelonaschoolofmanagement.upf.edu](http://www.barcelonaschoolofmanagement.upf.edu)
- - date_published: 2024-07-02T10:42:31.611807+00:00
-
- ## UPF Barcelona School of Management | UPF-BSM
- - [https://bsm.upf.edu](https://bsm.upf.edu)
- - date_published: 2024-05-07T21:59:30.301795+00:00
-
- ## ESCI-UPF
- - [https://esci.upf.edu](https://esci.upf.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Universitat Pompeu Fabra
- - [https://upf.edu](https://upf.edu)
- - date_published: 2023-11-03T12:11:03.206459+00:00
-
- ## PHL @ UPR Arecibo
- - [https://phl.upr.edu](https://phl.upr.edu)
- - date_published: 2024-02-24T18:05:06.332906+00:00
-
- ## Archivo Digital de Investigación – Escuela de Arquitectura, UPRRP
- - [https://adi.uprrp.edu](https://adi.uprrp.edu)
- - date_published: 2024-07-08T14:42:21.744703+00:00
-
- ## Biblioteca de Arquitectura
- - [http://bibarquitectura.uprrp.edu](http://bibarquitectura.uprrp.edu)
- - date_published: 2024-07-08T14:42:32.688585+00:00
-
- ## Escuela de Arquitectura – Universidad de Puerto Rico Recinto de Río Piedras
- - [https://earq.uprrp.edu](https://earq.uprrp.edu)
- - date_published: 2024-05-08T11:43:06.745399+00:00
-
- ## Upstate Medical University | SUNY Upstate
- - [https://www.upstate.edu](https://www.upstate.edu)
- - date_published: 2024-06-23T07:30:26.875347+00:00
-
- ## URI Directory Service
- - [http://directory.uri.edu](http://directory.uri.edu)
- - date_published: 2024-07-02T10:47:34.136875+00:00
-
- ## Events Calendar - University of Rhode Island
- - [https://events.uri.edu](https://events.uri.edu)
- - date_published: 2024-05-07T22:00:25.617130+00:00
-
- ## Front
- - [https://homepage.cs.uri.edu](https://homepage.cs.uri.edu)
- - date_published: 2024-04-29T07:30:06.571009+00:00
-
- ## Information Technology Services
- - [https://its.uri.edu](https://its.uri.edu)
- - date_published: 2024-07-02T10:47:37.955512+00:00
-
- ## University Of Rhode Island Applicant Portal | Home
- - [https://jobs.uri.edu](https://jobs.uri.edu)
- - date_published: 2024-05-07T22:00:12.816940+00:00
+ ## Human Environmental Sciences
+ - [https://hes.ca.uky.edu](https://hes.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:08.927796+00:00
+
+ ## Home | Office of Institutional Equity and Equal Opportunity
+ - [https://ieeo.uky.edu](https://ieeo.uky.edu)
+ - date_published: 2024-05-09T05:52:36.470700+00:00
+
+ ## Home | International Center
+ - [https://international.uky.edu](https://international.uky.edu)
+ - date_published: 2024-06-16T22:20:54.583092+00:00
+
+ ## Diagnostic Technician | Job Opportunities
+ - [http://jobs.ca.uky.edu](http://jobs.ca.uky.edu)
+ - date_published: 2024-07-01T21:16:08+00:00
+
+ ## Homepage | University of Kentucky - Philanthropy
+ - [https://kentuckycan.uky.edu](https://kentuckycan.uky.edu)
+ - date_published: 2024-05-07T21:22:25.620006+00:00
+
+ ## Kers
+ - [https://kers.ca.uky.edu](https://kers.ca.uky.edu)
+ - date_published: 2024-06-28T19:56:24+00:00
+
+ ## Home | Kentucky Tobacco Research & Development Center
+ - [http://ktrdc.ca.uky.edu](http://ktrdc.ca.uky.edu)
+ - date_published: 2024-06-27T20:33:36+00:00
+
+ ## Nutrition Education Program
+ - [https://kynep.ca.uky.edu](https://kynep.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:03.663553+00:00
+
+ ## Home | J. David Rosenberg College of Law
+ - [https://law.uky.edu](https://law.uky.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Research Guides: Research Guides @ UK: Research Guides by Subject
+ - [https://libguides.uky.edu](https://libguides.uky.edu)
+ - date_published: 2024-06-14T04:12:18.385529+00:00
+
+ ## Home | UK Libraries
+ - [http://libraries.uky.edu](http://libraries.uky.edu)
+ - date_published: 2024-06-16T22:20:50.349699+00:00
+
+ ## University of Kentucky - University of Kentucky :: directions
+ - [https://maps.uky.edu](https://maps.uky.edu)
+ - date_published: 2023-10-11T05:58:20+00:00
+
+ ## Home | Martin School of Public Policy and Administration
+ - [https://martin.uky.edu](https://martin.uky.edu)
+ - date_published: 2024-06-16T22:21:43.704819+00:00
+
+ ## University of Kentucky College of Medicine | University of Kentucky College of Medicine
+ - [https://medicine.uky.edu](https://medicine.uky.edu)
+ - date_published: 2024-06-16T19:26:16+00:00
 
  ## Home / EMS
- - [https://muevents.uri.edu](https://muevents.uri.edu)
- - date_published: 2024-07-02T10:47:31.540146+00:00
-
- ## The University of Rhode Island
- - [https://web.uri.edu](https://web.uri.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Homepage - URIFAE
- - [https://www.alumni.uri.edu](https://www.alumni.uri.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## The University of Rhode Island
- - [https://uri.edu](https://uri.edu)
- - date_published: 2023-12-05T11:07:16.002679+00:00
-
- ## University of Rochester Medical Center | UR Medicine
- - [https://urmc.edu](https://urmc.edu)
- - date_published: 2024-07-01T18:15:35.477447+00:00
-
- ## Ursinus College
- - [https://admission.ursinus.edu](https://admission.ursinus.edu)
- - date_published: 2024-07-02T10:48:46+00:00
-
- ## DigitalCommons@Ursinus
- - [https://digitalcommons.ursinus.edu](https://digitalcommons.ursinus.edu)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Ursinus College
- - [https://my.ursinus.edu](https://my.ursinus.edu)
- - date_published: 2024-07-02T10:48:46+00:00
-
- ## Ursinus College
- - [https://ursinus.edu](https://ursinus.edu)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Ursuline College | Ursuline - Liberal Arts College in OH
- - [http://www.ursuline.edu](http://www.ursuline.edu)
- - date_published: 2024-06-28T14:35:22.204973+00:00
-
- ## HWAS
- - [https://hwas.usafa.edu](https://hwas.usafa.edu)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## USAFA EDU
- - [https://www.usafa.edu](https://www.usafa.edu)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Institutional Accessibility and ADA Compliance
- - [https://accessibility.usc.edu](https://accessibility.usc.edu)
- - date_published: 2024-05-07T22:01:04.926025+00:00
-
- ## Undergraduate Admission - Undergraduate Admission
- - [https://admission.usc.edu](https://admission.usc.edu)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Undergraduate Admission - Undergraduate Admission
- - [https://admit.usc.edu](https://admit.usc.edu)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## USC Alumni Association
- - [https://alumni.usc.edu](https://alumni.usc.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## USC Viterbi | Department of Aerospace & Mechanical Engineering
- - [https://ame.usc.edu](https://ame.usc.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## USC Viterbi | Department of Aerospace & Mechanical Engineering
- - [http://ame-www.usc.edu](http://ame-www.usc.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## USC Annenberg School for Communication and Journalism
- - [https://annenberg.usc.edu](https://annenberg.usc.edu)
- - date_published: 2024-07-02T10:35:42+00:00
-
- ## Undergraduate Admission - Undergraduate Admission
- - [https://applyto.usc.edu](https://applyto.usc.edu)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## ArchivesSpace Public Interface | Archives at USC
- - [https://archives.usc.edu](https://archives.usc.edu)
- - date_published: 2024-06-22T07:51:22.970531+00:00
-
- ## Homepage
- - [https://armenian.usc.edu](https://armenian.usc.edu)
- - date_published: 2018-12-01T21:00:16+00:00
-
- ## askUSC - Home
- - [https://ask.usc.edu](https://ask.usc.edu)
- - date_published: 2024-07-02T10:58:13.554942+00:00
-
- ## USC Viterbi | Department of Astronautical Engineering
- - [https://astronautics.usc.edu](https://astronautics.usc.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## USC Viterbi | Aviation & Security
- - [https://aviationsafety.usc.edu](https://aviationsafety.usc.edu)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Translational Imaging Center at USC			Scott E Fraser University of Southern California
- - [https://bioimage.usc.edu](https://bioimage.usc.edu)
- - date_published: 2021-02-19T00:39:06+00:00
-
- ## Blackboard Learn
- - [https://blackboard.usc.edu](https://blackboard.usc.edu)
- - date_published: 2004-07-02T11:00:59+00:00
-
- ## USC Viterbi | Department of Biomedical Engineering
- - [https://bme.usc.edu](https://bme.usc.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## University of Southern California Bovard College
- - [http://bovardcollege.usc.edu](http://bovardcollege.usc.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Access rights validated
- - [https://brightspace.usc.edu](https://brightspace.usc.edu)
- - date_published: 2024-07-02T11:00:43.817802+00:00
-
- ## USC Calendar Help
- - [http://calendarhelp.usc.edu](http://calendarhelp.usc.edu)
- - date_published: 2024-07-02T10:01:40+00:00
-
- ## Events Calendar
- - [https://calendar.usc.edu](https://calendar.usc.edu)
- - date_published: 2024-05-07T22:01:40.345561+00:00
-
- ## University of Southern California - Modern Campus Catalog™
- - [https://catalogue.usc.edu](https://catalogue.usc.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Home - Sonny Astani @ USC Viterbi
- - [https://cee.usc.edu](https://cee.usc.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Home - Center for Economic and Social Research
- - [https://cesr.usc.edu](https://cesr.usc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Commitment to Change
- - [https://change.usc.edu](https://change.usc.edu)
- - date_published: 2024-07-02T10:16:48+00:00
-
- ## USC Chan Division of Occupational Science and Occupational Therapy
- - [https://chan.usc.edu](https://chan.usc.edu)
- - date_published: 2024-07-02T10:51:27+00:00
-
- ## USC Viterbi | Mork Family Department of Chemical Engineering & Materials Science
- - [https://chems.usc.edu](https://chems.usc.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## CITCAP – This can be used for School or Department Affiliation
- - [https://citcap.usc.edu](https://citcap.usc.edu)
- - date_published: 2024-05-07T22:01:07.653832+00:00
-
- ## USC Schedule of Classes
- - [https://classes.usc.edu](https://classes.usc.edu)
- - date_published: 2024-06-16T22:46:06.601334+00:00
-
- ## CNI USC
- - [https://cni.usc.edu](https://cni.usc.edu)
- - date_published: 2024-05-07T22:01:17.312284+00:00
-
- ## USC Commencement Week
- - [https://commencement.usc.edu](https://commencement.usc.edu)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## USC School of Advanced Computing - Frontiers of Computing
- - [https://computing.usc.edu](https://computing.usc.edu)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Homepage - COVID-19 Resource Center
- - [https://coronavirus.usc.edu](https://coronavirus.usc.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Center for Quantum Information Science and Technology – Ming Hsieh Department of Electrical Engineering
- - [https://cqist.usc.edu](https://cqist.usc.edu)
- - date_published: 2024-05-07T22:01:01.632936+00:00
-
- ## Center for Religion and Civic Culture
- - [https://crcc.usc.edu](https://crcc.usc.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Department of Animal Resources
- - [https://dar.usc.edu](https://dar.usc.edu)
- - date_published: 2024-07-02T11:04:49.056114+00:00
-
- ## USC Viterbi | DATA SCIENCE PROGRAM
- - [https://datascience.usc.edu](https://datascience.usc.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Department of Contracts and Grants
- - [https://dcg.usc.edu](https://dcg.usc.edu)
- - date_published: 2024-05-07T22:02:20.203531+00:00
-
- ## Home - Herman Ostrow School of Dentistry of USC
- - [https://dentistry.usc.edu](https://dentistry.usc.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## University of Southern California
- - [https://digitallibrary.usc.edu](https://digitallibrary.usc.edu)
- - date_published: 2024-05-04T15:14:40.912688+00:00
-
- ## Office of Inclusion and Diversity
- - [https://diversity.usc.edu](https://diversity.usc.edu)
- - date_published: 2024-07-02T11:15:22+00:00
-
- ## Home | USC Dornsife College of Letters, Arts and Sciences
- - [https://dornsifeadmission.usc.edu](https://dornsifeadmission.usc.edu)
- - date_published: 2024-05-07T22:00:53.972143+00:00
-
- ## USC Dana and David Dornsife College of Letters, Arts and Sciences
- - [https://dornsife.usc.edu](https://dornsife.usc.edu)
- - date_published: 2023-10-25T19:04:25.118739+00:00
-
- ## Department of Public Safety Community Advisory Board
- - [https://dpscab.usc.edu](https://dpscab.usc.edu)
- - date_published: 2024-07-02T10:35:16+00:00
-
- ## Home - Department of Public Safety
- - [https://dps.usc.edu](https://dps.usc.edu)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## School of Dramatic Arts · USC
- - [https://dramaticarts.usc.edu](https://dramaticarts.usc.edu)
- - date_published: 2024-07-01T03:06:10.828447+00:00
-
- ## USC Suzanne Dworak-Peck School of Social Work
- - [https://dworakpeck.usc.edu](https://dworakpeck.usc.edu)
- - date_published: 2024-07-02T10:50:42+00:00
-
- ## Office for Equity, Equal Opportunity, and Title IX
- - [https://eeotix.usc.edu](https://eeotix.usc.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## USC Viterbi | Ming Hsieh Department of Electrical and Computer Engineering
- - [http://ee.usc.edu](http://ee.usc.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## USC Environmental Health & Safety
- - [https://ehs.usc.edu](https://ehs.usc.edu)
- - date_published: 2024-07-02T10:25:15+00:00
-
- ## USC Viterbi | Engineering Writing Program
- - [https://eis.usc.edu](https://eis.usc.edu)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Emergency Information - USC
- - [https://emergency.usc.edu](https://emergency.usc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Homepage - Employee Gateway
- - [https://employees.usc.edu](https://employees.usc.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## USC Engineering Moment
- - [https://engineeringmoment.usc.edu](https://engineeringmoment.usc.edu)
- - date_published: 2023-09-27T00:00:00+00:00
-
- ## Events Calendar
- - [https://events.law.usc.edu](https://events.law.usc.edu)
- - date_published: 2024-07-02T10:57:30.086825+00:00
-
- ## USC Faculty Portal
- - [https://faculty.usc.edu](https://faculty.usc.edu)
- - date_published: 2024-07-02T10:51:23.306044+00:00
-
- ## Financial Aid Office - Financial Aid
- - [https://financialaid.usc.edu](https://financialaid.usc.edu)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## USC Viterbi Graduate and Professional Programs
- - [https://gapp.usc.edu](https://gapp.usc.edu)
- - date_published: 2023-07-26T15:39:38+00:00
-
- ## USC Leonard Davis School of Gerontology
- - [https://gero.usc.edu](https://gero.usc.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Giving to USC - Home Page
- - [https://giveto.usc.edu](https://giveto.usc.edu)
- - date_published: 2024-07-02T11:12:29.622104+00:00
-
- ## USC Advancement
- - [http://giving.usc.edu](http://giving.usc.edu)
- - date_published: 2024-07-02T10:51:33.208311+00:00
-
- ## USC Gould School of Law | Top-Ranked On-Campus and Online Law School
- - [https://gould.usc.edu](https://gould.usc.edu)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Graduate Admission - Graduate Admission
- - [https://gradadm.usc.edu](https://gradadm.usc.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## USC Schaeffer
- - [https://healthpolicy.usc.edu](https://healthpolicy.usc.edu)
- - date_published: 2023-12-15T11:10:14.582512+00:00
-
- ## Human Resources
- - [https://hrdivision.usc.edu](https://hrdivision.usc.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Human Research Protection Program
- - [https://hrpp.usc.edu](https://hrpp.usc.edu)
- - date_published: 2024-05-07T22:07:23.398780+00:00
-
- ## News for USC's Health Sciences Campus community
- - [https://hscnews.usc.edu](https://hscnews.usc.edu)
- - date_published: 2024-07-02T11:01:26.781907+00:00
-
- ## Institutional Animal Care and Use Committee
- - [https://iacuc.usc.edu](https://iacuc.usc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## USC Institute for Creative Technologies
- - [https://ict.usc.edu](https://ict.usc.edu)
- - date_published: 2022-01-27T04:13:04+00:00
-
- ## Welcome to iLab!
- - [http://ilab.usc.edu](http://ilab.usc.edu)
- - date_published: 2024-06-22T08:32:51.634302+00:00
-
- ## USC Viterbi School of Engineering – USC Viterbi School of Engineering
- - [https://illumin.usc.edu](https://illumin.usc.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## USC Viterbi | DATA SCIENCE PROGRAM
- - [https://informatics.usc.edu](https://informatics.usc.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## USC International Academy
- - [https://international.usc.edu](https://international.usc.edu)
- - date_published: 2024-07-02T10:56:37.803605+00:00
-
- ## USC Jimmy Iovine and Andre Young Academy
- - [https://iovine-young.usc.edu](https://iovine-young.usc.edu)
- - date_published: 2024-07-02T10:56:54.482753+00:00
-
- ## The USC Viterbi iPodia Program – Learning Together for a Better World
- - [https://ipodia.usc.edu](https://ipodia.usc.edu)
- - date_published: 2024-05-07T22:08:43.704241+00:00
-
- ## USC Viterbi | Daniel J. Epstein Department of Industrial & Systems Engineering
- - [https://ise.usc.edu](https://ise.usc.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## USC Information Sciences Insitute
- - [https://isi.usc.edu](https://isi.usc.edu)
- - date_published: 2024-05-07T22:08:47.334294+00:00
-
- ## USC Provost IT | Office of the Provost
- - [http://it.provost.usc.edu](http://it.provost.usc.edu)
- - date_published: 2024-07-02T10:59:51.052370+00:00
-
- ## USC Viterbi | Information Technology Program
- - [https://itp.usc.edu](https://itp.usc.edu)
- - date_published: 2024-05-07T22:09:21.942414+00:00
-
- ## ITS Alerts and Scheduled Maintenance
- - [https://itsalerts.usc.edu](https://itsalerts.usc.edu)
- - date_published: 2024-07-02T11:00:35+00:00
-
- ## USC Information Technology Services – How can we help?
- - [https://itservices.usc.edu](https://itservices.usc.edu)
- - date_published: 2024-05-07T22:01:45.929310+00:00
-
- ## USC Glorya Kaufman School of Dance
- - [https://kaufman.usc.edu](https://kaufman.usc.edu)
- - date_published: 2024-07-02T10:57:09.564390+00:00
-
- ## Keck School of Medicine Home
- - [https://keck2.usc.edu](https://keck2.usc.edu)
- - date_published: 2023-12-10T11:37:34.314465+00:00
-
- ## Keck School of Medicine of USC | Leaders in medical education, research and patient care
- - [https://keck.usc.edu](https://keck.usc.edu)
- - date_published: 2023-10-25T19:04:31.455123+00:00
-
- ## The Digital Campus - USC Keep Teaching
- - [https://keepteaching.usc.edu](https://keepteaching.usc.edu)
- - date_published: 2024-07-02T11:00:32.343767+00:00
-
- ## Home Page - CSI-CANCER
- - [https://kuhn.usc.edu](https://kuhn.usc.edu)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## USC Center for Law and Philosophy – Devoted to the promotion of interdisciplinary scholarship in legal, moral, and political philosophy
- - [https://lawphilosophy.usc.edu](https://lawphilosophy.usc.edu)
- - date_published: 2024-05-07T22:01:03.378788+00:00
-
- ## FAQs - LibAnswers
- - [https://libanswers.usc.edu](https://libanswers.usc.edu)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Research Guides
- - [https://libguides.usc.edu](https://libguides.usc.edu)
- - date_published: 2024-06-22T07:51:09.488187+00:00
-
- ## Shibboleth Authentication Request
- - [https://libproxy.usc.edu](https://libproxy.usc.edu)
- - date_published: 2024-06-22T07:51:21.337690+00:00
-
- ## Home | USC Libraries
- - [https://libraries.usc.edu](https://libraries.usc.edu)
- - date_published: 2024-05-04T15:14:20.754059+00:00
-
- ## Center for Lifespan Health - Center for Lifespan Health
- - [https://lifespanhealth.usc.edu](https://lifespanhealth.usc.edu)
- - date_published: 2024-06-16T22:46:22.330105+00:00
-
- ## Fall 2023 - USC Viterbi | Magazine
- - [https://magazine.viterbi.usc.edu](https://magazine.viterbi.usc.edu)
- - date_published: 2024-05-07T22:09:15.495077+00:00
-
- ## Home
- - [https://mann.usc.edu](https://mann.usc.edu)
- - date_published: 2024-07-02T10:51:25.775407+00:00
-
- ## University of Southern California
- - [https://maps.usc.edu](https://maps.usc.edu)
- - date_published: 2024-05-07T22:01:18.944371+00:00
-
- ## USC Michelson Center for Convergent Bioscience
- - [https://michelson.usc.edu](https://michelson.usc.edu)
- - date_published: 2024-05-07T22:08:06.629704+00:00
-
- ## USC Viterbi | Ming Hsieh Department of Electrical and Computer Engineering
- - [https://minghsiehece.usc.edu](https://minghsiehece.usc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## USC Viterbi | Ming Hsieh Department of Electrical and Computer Engineering
- - [https://minghsiehee.usc.edu](https://minghsiehee.usc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## USC Mosaic: Sign In
- - [https://mosaic.usc.edu](https://mosaic.usc.edu)
- - date_published: 2024-05-07T22:07:54.529184+00:00
-
- ## Master of Science in Global Medicine
- - [https://msgm.usc.edu](https://msgm.usc.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## USC Thornton School of Music
- - [https://music.usc.edu](https://music.usc.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## USC Shibboleth Single Sign-on - Loading Session State...
- - [https://mydornsife.usc.edu](https://mydornsife.usc.edu)
- - date_published: 2024-07-01T03:05:46.952958+00:00
-
- ## USC Gould School of Law | Top-Ranked On-Campus and Online Law School
- - [https://mylaw2.usc.edu](https://mylaw2.usc.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## USC Shibboleth Single Sign-on - Loading Session State...
- - [https://my.usc.edu](https://my.usc.edu)
- - date_published: 2024-05-10T05:13:18.029217+00:00
-
- ## USC Shibboleth Single Sign-on - Loading Session State...
- - [https://myviterbi.usc.edu](https://myviterbi.usc.edu)
- - date_published: 2024-07-02T11:06:29.073609+00:00
-
- ## USC NetID Account Services – USC Information Technology Services
- - [https://netid.usc.edu](https://netid.usc.edu)
- - date_published: 2024-07-02T10:12:18+00:00
-
- ## USC News
- - [https://news.usc.edu](https://news.usc.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## USC Online | University of Southern California
- - [https://online.usc.edu](https://online.usc.edu)
+ - [https://meetatbigblue.uky.edu](https://meetatbigblue.uky.edu)
+ - date_published: 2024-07-02T02:56:08.362446+00:00
+
+ ## SAP Netweaver Portal
+ - [https://myuk.uky.edu](https://myuk.uky.edu)
+ - date_published: 2024-05-07T21:23:02.127030+00:00
+
+ ## Home | College News
+ - [https://news.ca.uky.edu](https://news.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:26.480355+00:00
+
+ ## Home | University of Kentucky College of Arts & Sciences
+ - [https://online.as.uky.edu](https://online.as.uky.edu)
+ - date_published: 2024-07-01T20:10:13+00:00
+
+ ## UK Online | University of Kentucky
+ - [https://online.uky.edu](https://online.uky.edu)
+ - date_published: 2024-06-16T22:22:05.187310+00:00
+
+ ## Home | Orientation
+ - [https://orientation.uky.edu](https://orientation.uky.edu)
+ - date_published: 2024-07-02T03:09:58.005221+00:00
+
+ ## Homepage | UK College of Pharmacy
+ - [https://pharmacy.uky.edu](https://pharmacy.uky.edu)
+ - date_published: 2024-06-16T22:21:21.392317+00:00
+
+ ## Home | University of Kentucky Police Department
+ - [https://police.uky.edu](https://police.uky.edu)
+ - date_published: 2024-07-02T03:05:52.592373+00:00
+
+ ## Office of the President | Office of the President
+ - [https://pres.uky.edu](https://pres.uky.edu)
+ - date_published: 2024-06-16T22:21:26.981908+00:00
+
+ ## Home | Office of The Provost
+ - [https://provost.uky.edu](https://provost.uky.edu)
+ - date_published: 2024-06-16T22:21:23.232339+00:00
+
+ ## Robinson Center
+ - [http://rcars.ca.uky.edu](http://rcars.ca.uky.edu)
+ - date_published: 2024-07-02T03:08:54+00:00
+
+ ## Home | Office of the University Registrar
+ - [https://registrar.uky.edu](https://registrar.uky.edu)
+ - date_published: 2024-06-16T22:20:52.636123+00:00
+
+ ## Research |
+ - [https://research.ca.uky.edu](https://research.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:15.884052+00:00
+
+ ## Home | Robinson Forest
+ - [http://robinson-forest.ca.uky.edu](http://robinson-forest.ca.uky.edu)
+ - date_published: 2024-07-02T03:08:57.773302+00:00
+
+ ## University of Kentucky
+ - [https://scholars.uky.edu](https://scholars.uky.edu)
+ - date_published: 2024-05-09T05:52:38.676763+00:00
+
+ ## Search | University of Kentucky
+ - [https://search.uky.edu](https://search.uky.edu)
+ - date_published: 2021-07-26T19:14:24+00:00
+
+ ## Home - University of Kentucky College of Social Work
+ - [https://socialwork.uky.edu](https://socialwork.uky.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Student Success
+ - [https://students.ca.uky.edu](https://students.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:10.988797+00:00
+
+ ## Home | Student Success
+ - [https://studentsuccess.uky.edu](https://studentsuccess.uky.edu)
+ - date_published: 2024-06-16T22:21:33.437472+00:00
+
+ ## Home - Technology Help Center
+ - [https://techhelpcenter.uky.edu](https://techhelpcenter.uky.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Home Page - Account Manager
+ - [https://ukam.uky.edu](https://ukam.uky.edu)
+ - date_published: 2024-07-02T03:08:03+00:00
+
+ ## University of Kentucky HealthCare
+ - [https://ukhealthcare.uky.edu](https://ukhealthcare.uky.edu)
+ - date_published: 2024-06-16T07:52:11+00:00
+
+ ## University of Kentucky Applicant Site | Home
+ - [https://ukjobs.uky.edu](https://ukjobs.uky.edu)
+ - date_published: 2024-05-07T21:22:37.497361+00:00
+
+ ## Home | UKNow
+ - [https://uknow.uky.edu](https://uknow.uky.edu)
+ - date_published: 2024-05-07T21:23:18.048525+00:00
+
+ ## Home | Urban Extension Initiative
+ - [https://urbanextension.ca.uky.edu](https://urbanextension.ca.uky.edu)
+ - date_published: 2024-05-22T14:54:01+00:00
+
+ ## Home | University of Kentucky Veterinary Diagnostic Laboratory
+ - [http://vdl.uky.edu](http://vdl.uky.edu)
+ - date_published: 2024-07-02T03:08:48.947122+00:00
+
+ ## Visitor Center | Visitor Center
+ - [https://visit.uky.edu](https://visit.uky.edu)
+ - date_published: 2024-06-16T22:21:55.718836+00:00
+
+ ## Home | Wildcat Living
+ - [https://wildcatliving.uky.edu](https://wildcatliving.uky.edu)
+ - date_published: 2024-06-16T22:21:02.982128+00:00
+
+ ## Home | UK Research and Education Center at Princeton
+ - [http://wkrec.ca.uky.edu](http://wkrec.ca.uky.edu)
+ - date_published: 2024-06-14T15:44:25+00:00
+
+ ## Home | University of Kentucky College of Arts & Sciences
+ - [https://wrd.as.uky.edu](https://wrd.as.uky.edu)
+ - date_published: 2023-10-25T19:01:42.368454+00:00
+
+ ## Martin-Gatton College of Agriculture, Food and Environment
+ - [https://www2.ca.uky.edu](https://www2.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:07.454287+00:00
+
+ ## The College of Arts Sciences | University of Kentucky College of Arts & Sciences
+ - [https://as.uky.edu](https://as.uky.edu)
+ - date_published: 2024-05-07T21:23:30.795240+00:00
+
+ ## Martin-Gatton College of Agriculture, Food and Environment
+ - [https://www.ca.uky.edu](https://www.ca.uky.edu)
+ - date_published: 2024-05-07T21:22:40.456877+00:00
+
+ ## Computer Science
+ - [https://cs.uky.edu](https://cs.uky.edu)
+ - date_published: 2017-11-05T00:51:35+00:00
+
+ ## University of Kentucky College of Engineering
+ - [https://engr.uky.edu](https://engr.uky.edu)
+ - date_published: 2024-05-07T21:22:51.555065+00:00
+
+ ## Home | University of Kentucky Research
+ - [https://research.uky.edu](https://research.uky.edu)
+ - date_published: 2024-03-07T18:28:27.352122+00:00
+
+ ## Home | University of Kentucky
+ - [https://www.uky.edu](https://www.uky.edu)
+ - date_published: 2024-05-01T08:03:16.039216+00:00
+
+ ## Vis Center Redirection
+ - [http://www.vis.uky.edu](http://www.vis.uky.edu)
+ - date_published: 2019-10-08T12:18:19+00:00
+
+ ## Augusta • Bangor • Online • Statewide  - University of Maine at Augusta
+ - [https://www.uma.edu](https://www.uma.edu)
+ - date_published: 2024-07-01T20:22:01+00:00
+
+ ## University of Maine Cooperative Extension - Community Programs for the people of Maine
+ - [https://extension.umaine.edu](https://extension.umaine.edu)
  - date_published: 2024-06-18T00:00:00+00:00
 
- ## Office of Culture, Ethics and Compliance
- - [https://ooc.usc.edu](https://ooc.usc.edu)
- - date_published: 2024-07-02T10:57:53.941346+00:00
-
- ## Professionalism and Ethics - Office of Professionalism and Ethics
- - [http://ope.usc.edu](http://ope.usc.edu)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Research Initiatives and Infrastructure
- - [https://orif.usc.edu](https://orif.usc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Office of Research Integrity
- - [https://ori.usc.edu](https://ori.usc.edu)
- - date_published: 2024-05-07T22:07:39.931092+00:00
-
- ## USC Pacific Asia Museum
- - [https://pacificasiamuseum.usc.edu](https://pacificasiamuseum.usc.edu)
- - date_published: 2024-06-20T16:00:53+00:00
-
- ## USC Parents and Families
- - [https://parents.usc.edu](https://parents.usc.edu)
- - date_published: 2024-07-02T10:21:15+00:00
-
- ## Home - USC Pharmacies
- - [https://pharmacies.usc.edu](https://pharmacies.usc.edu)
- - date_published: 2024-07-02T11:01:17.873039+00:00
-
- ## Home
- - [https://pharmacyschool.usc.edu](https://pharmacyschool.usc.edu)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Policies and Policy Governance
- - [https://policy.usc.edu](https://policy.usc.edu)
- - date_published: 2024-04-30T05:00:59.899094+00:00
-
- ## Home | USC Sidney Harman Academy for Polymathic Study
- - [https://polymathic.usc.edu](https://polymathic.usc.edu)
- - date_published: 2024-06-21T08:15:13+00:00
-
- ## USC Pre-College Programs | University of Southern California
- - [https://precollege.usc.edu](https://precollege.usc.edu)
- - date_published: 2024-07-02T10:25:02+00:00
-
- ## Pressroom
- - [https://pressroom.usc.edu](https://pressroom.usc.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Home Page
- - [https://priceschool.usc.edu](https://priceschool.usc.edu)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Home - USC Division of Biokinesiology and Physical Therapy
- - [https://pt.usc.edu](https://pt.usc.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## USC Dornsife Public Exchange
- - [https://publicexchange.usc.edu](https://publicexchange.usc.edu)
- - date_published: 2024-05-07T22:01:20.020591+00:00
-
- ## REDCap Surveys
- - [https://redcapsurveys.med.usc.edu](https://redcapsurveys.med.usc.edu)
- - date_published: 2022-09-12T23:44:22+00:00
-
- ## Homepage - Report & Response
- - [http://report.usc.edu](http://report.usc.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Welcome | USC Digital Repository
- - [https://repository.usc.edu](https://repository.usc.edu)
- - date_published: 2024-06-20T03:41:06+00:00
-
- ## Home - Research and Innovation
- - [https://research.usc.edu](https://research.usc.edu)
- - date_published: 2023-10-25T19:04:35.017898+00:00
-
- ## Research Initiatives and Infrastructure
- - [https://rii.usc.edu](https://rii.usc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## The USC Roski School of Art & Design - Roski School of Art and Design
- - [https://roski.usc.edu](https://roski.usc.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home
- - [https://rossier.usc.edu](https://rossier.usc.edu)
- - date_published: 2024-07-01T02:34:55+00:00
-
- ## Research Strategy and Development
- - [https://rsd.usc.edu](https://rsd.usc.edu)
- - date_published: 2024-07-02T11:05:10.691504+00:00
-
- ## Research Technology Services
- - [https://rts.usc.edu](https://rts.usc.edu)
- - date_published: 2024-07-02T11:05:20.667394+00:00
-
- ## Home - USC Viterbi | School of Advanced Computing
- - [https://sac.usc.edu](https://sac.usc.edu)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## USC Viterbi | Systems Architecting and Engineering
- - [https://sae.usc.edu](https://sae.usc.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Safety at USC
- - [https://safety.usc.edu](https://safety.usc.edu)
- - date_published: 2024-07-02T10:51:06.968556+00:00
-
- ## Signal Analysis and Interpretation Laboratory (SAIL) – Ming Hsieh Department of Electrical Engineering and Computer Engineering; Department of Computer Science
-– USC Viterbi School of Engineering
- - [https://sail.usc.edu](https://sail.usc.edu)
- - date_published: 2024-04-07T05:27:01+00:00
-
- ## Home Page
- - [http://schwarzenegger.usc.edu](http://schwarzenegger.usc.edu)
- - date_published: 2023-09-27T00:00:00+00:00
-
- ## The 36th-Annual USC Libraries Scripter Award | USC Libraries
- - [https://scripter.usc.edu](https://scripter.usc.edu)
- - date_published: 2024-06-22T07:51:12+00:00
-
- ## Laboratory for Integrative Biosystems Engineering
- - [http://shenlab.usc.edu](http://shenlab.usc.edu)
- - date_published: 2024-07-02T11:14:56.822872+00:00
-
- ## Sites at USC – Websites for the USC community
- - [https://sites.usc.edu](https://sites.usc.edu)
- - date_published: 2024-05-07T22:00:45.794649+00:00
-
- ## Software Available to Campus
- - [https://software.usc.edu](https://software.usc.edu)
- - date_published: 2024-07-02T11:00:37+00:00
-
- ## Home - Spatial Sciences Institute
- - [https://spatial.usc.edu](https://spatial.usc.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## The STEM Education Research Group – Viterbi School of Engineering
- - [https://stem-ed.usc.edu](https://stem-ed.usc.edu)
- - date_published: 2024-07-02T11:13:44.728240+00:00
-
- ## USC Stevens Center for Innovation
- - [https://stevens.usc.edu](https://stevens.usc.edu)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## USC Student Life
- - [https://studentaffairs.usc.edu](https://studentaffairs.usc.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## USC Student Health | Keck Medicine of USC – Part of Keck Medicine of USC
- - [https://studenthealth.usc.edu](https://studenthealth.usc.edu)
- - date_published: 2024-06-16T22:46:18.353990+00:00
-
- ## Human Resources, Equity, and Compliance
- - [https://svphr.usc.edu](https://svphr.usc.edu)
- - date_published: 2024-07-02T10:58:05.105857+00:00
-
- ## USC Today Home Page
- - [https://today.usc.edu](https://today.usc.edu)
- - date_published: 2023-12-12T13:04:47.507405+00:00
-
- ## USC Gould School of Law - Virtual Tour
- - [https://tourgould.usc.edu](https://tourgould.usc.edu)
- - date_published: 2023-01-26T22:04:24+00:00
-
- ## Understanding America Study
- - [https://uasdata.usc.edu](https://uasdata.usc.edu)
- - date_published: 2024-07-02T10:58:37.145022+00:00
-
- ## Working at USC
- - [https://usccareers.usc.edu](https://usccareers.usc.edu)
- - date_published: 2024-06-16T22:46:05.625264+00:00
-
- ## USC Faculty and Staff Directory
- - [https://uscdirectory.usc.edu](https://uscdirectory.usc.edu)
- - date_published: 2024-06-16T22:46:07.836593+00:00
-
- ## University of Southern California
- - [https://usc.edu](https://usc.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Welcome to VCE - Viterbi Conversations in Ethics
- - [https://vce.usc.edu](https://vce.usc.edu)
- - date_published: 2024-07-02T11:13:48.186220+00:00
-
- ## ICT Vision & Graphics Lab
- - [http://vgl.ict.usc.edu](http://vgl.ict.usc.edu)
- - date_published: 2024-06-22T08:50:22.938392+00:00
-
- ## Error
- - [https://view.comms.usc.edu](https://view.comms.usc.edu)
- - date_published: 2024-07-02T11:03:36.095698+00:00
-
- ## Viterbi Vision Venture
- - [https://visionventure.usc.edu](https://visionventure.usc.edu)
- - date_published: 2024-07-02T11:13:46.738088+00:00
-
- ## USC Viterbi | Undergraduate Admission
- - [https://viterbiadmission.usc.edu](https://viterbiadmission.usc.edu)
- - date_published: 2024-05-07T22:08:03.795816+00:00
-
- ## USC Viterbi | Career Services
- - [https://viterbicareers.usc.edu](https://viterbicareers.usc.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## USC Viterbi | Executive Education
- - [https://viterbiexeced.usc.edu](https://viterbiexeced.usc.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## USC Viterbi | Prospective Students
- - [https://viterbigradadmission.usc.edu](https://viterbigradadmission.usc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## USC Viterbi | Current Graduate Students
- - [https://viterbigrad.usc.edu](https://viterbigrad.usc.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## USC Viterbi | Technology Innovation and Entrepreneurship
- - [https://viterbiinnovation.usc.edu](https://viterbiinnovation.usc.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## USC Viterbi | K-12 Outreach
- - [https://viterbik12.usc.edu](https://viterbik12.usc.edu)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## USC Viterbi School of Engineering
- - [https://viterbischool.usc.edu](https://viterbischool.usc.edu)
- - date_published: 2023-10-25T19:04:40.599249+00:00
-
- ## Admission & Student Engagement | Current Undergraduate Students
- - [https://viterbiundergrad.usc.edu](https://viterbiundergrad.usc.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## USC Viterbi School of Engineering
- - [https://viterbi.usc.edu](https://viterbi.usc.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Viterbi Voices
- - [http://viterbivoices.usc.edu](http://viterbivoices.usc.edu)
- - date_published: 2024-01-31T22:28:53+00:00
-
- ## We Are SC
- - [https://we-are.usc.edu](https://we-are.usc.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## WiSE Corporate Partners Program – Become a sponsor of the USC Women in Science & Engineering
- - [https://wisecorp.usc.edu](https://wisecorp.usc.edu)
- - date_published: 2024-07-02T11:12:39.849133+00:00
-
- ## USC WiSE – Women In Science & Engineering
- - [https://wise.usc.edu](https://wise.usc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## WorkWell Center
- - [https://workwell.usc.edu](https://workwell.usc.edu)
- - date_published: 2024-07-02T11:00:01.594741+00:00
-
- ## USC Center for Artificial Intelligence in Society
- - [https://www.cais.usc.edu](https://www.cais.usc.edu)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## USC Viterbi | Department of Computer Science
- - [https://cs.usc.edu](https://cs.usc.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home
- - [https://www.marshall.usc.edu](https://www.marshall.usc.edu)
- - date_published: 2024-07-02T10:51:16.947052+00:00
-
- ## USC Office of the President
- - [https://www.president.usc.edu](https://www.president.usc.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## USC Office of the Provost - Office of the Provost
- - [https://www.provost.usc.edu](https://www.provost.usc.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## USC QCB | Quantitative and Computational Biology | University of Southern California
- - [https://qcb-dornsife.usc.edu](https://qcb-dornsife.usc.edu)
- - date_published: 2024-05-07T22:01:35.268888+00:00
-
- ## Research Data - University of South Florida
- - [https://digitalcommonsdata.usf.edu](https://digitalcommonsdata.usf.edu)
- - date_published: 2024-07-01T17:02:31.132386+00:00
-
- ## Digital Commons University of South Florida (USF)
- - [https://digitalcommons.usf.edu](https://digitalcommons.usf.edu)
- - date_published: 2024-05-07T19:53:47.240651+00:00
-
- ## Health News Florida - Homepage | Health News Florida
- - [https://health.wusf.usf.edu](https://health.wusf.usf.edu)
- - date_published: 2023-12-04T16:16:09.264309+00:00
-
- ## RPAL
- - [https://rpal.cse.usf.edu](https://rpal.cse.usf.edu)
- - date_published: 2022-09-30T00:00:00+00:00
-
- ## Digital Commons University of South Florida (USF)
- - [http://scholarcommons.usf.edu](http://scholarcommons.usf.edu)
- - date_published: 2024-07-01T17:02:15.981530+00:00
-
- ## Welcome to the University of South Florida | Tampa, St. Petersburg, Sarasota-Manatee, FL
- - [https://usf.edu](https://usf.edu)
- - date_published: 2024-07-12T18:39:36.930206+00:00
-
- ## WUSF
- - [https://wusfnews.wusf.usf.edu](https://wusfnews.wusf.usf.edu)
- - date_published: 2024-05-10T05:56:25.852437+00:00
-
- ## USF Research & Innovation | University of South Florida
- - [http://www3.research.usf.edu](http://www3.research.usf.edu)
- - date_published: 2024-07-01T17:02:35.833599+00:00
-
- ## University of South Florida Libraries Home
- - [http://www.lib.usf.edu](http://www.lib.usf.edu)
- - date_published: 2024-07-01T17:02:20.431194+00:00
-
- ## Sign in - Google Accounts
- - [http://benson.cs.usfca.edu](http://benson.cs.usfca.edu)
- - date_published: 2024-05-04T15:26:28.567434+00:00
-
- ## University of San Francisco Homepage | University of San Francisco
- - [https://www.usfca.edu](https://www.usfca.edu)
- - date_published: 2024-06-27T13:37:54+00:00
-
- ## Your USG Benefits | University System of Georgia
- - [https://benefits.usg.edu](https://benefits.usg.edu)
- - date_published: 2024-04-30T04:34:35.718616+00:00
-
- ## University System of Georgia Faculty and Staff Portal
- - [https://oneusgconnect.usg.edu](https://oneusgconnect.usg.edu)
- - date_published: 2024-04-30T04:32:58.561893+00:00
-
- ## University System of Georgia
- - [https://usg.edu](https://usg.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## CONTENTdm
- - [https://digitalarchives.usi.edu](https://digitalarchives.usi.edu)
- - date_published: 1972-01-01T00:00:00+00:00
-
- ## University of Southern Indiana | USI | Bachelor, Master and Doctoral Degrees -  University of Southern Indiana
- - [https://www.usi.edu](https://www.usi.edu)
- - date_published: 2024-07-01T17:42:15.171278+00:00
-
- ## The University of Southern Mississippi
- - [https://apps.usm.edu](https://apps.usm.edu)
- - date_published: 2024-07-02T11:16:17.597245+00:00
-
- ## The Aquila Digital Community
- - [https://aquila.usm.edu](https://aquila.usm.edu)
- - date_published: 2023-10-25T19:04:42.854167+00:00
-
- ## Events Calendar - The University of Southern Mississippi
- - [https://calendar.usm.edu](https://calendar.usm.edu)
+ ## The University of Maine
+ - [https://umaine.edu](https://umaine.edu)
+ - date_published: 2024-07-02T03:48:04.528523+00:00
+
+ ## Untitled Document
+ - [http://cf.umaryland.edu](http://cf.umaryland.edu)
  - date_published: 2024-07-02T00:00:00+00:00
 
- ## The National Center for Spectator Sports Safety and Security – at The University of Southern Mississippi
- - [https://ncs4.usm.edu](https://ncs4.usm.edu)
- - date_published: 2024-07-02T11:16:26.811733+00:00
-
- ## New Home
- - [https://online.usm.edu](https://online.usm.edu)
- - date_published: 2024-07-02T11:14:09+00:00
-
- ## University of Southern Mississippi
- - [https://www.lib.usm.edu](https://www.lib.usm.edu)
- - date_published: 2024-07-02T11:16:19.449437+00:00
-
- ## The University of Southern Mississippi
- - [https://usm.edu](https://usm.edu)
- - date_published: 2024-05-07T22:09:27.666652+00:00
-
- ## Modern War Institute -
- - [https://mwi.usma.edu](https://mwi.usma.edu)
- - date_published: 2023-10-25T19:04:45.262357+00:00
-
- ## Home Page | United States Military Academy West Point
- - [http://www.usma.edu](http://www.usma.edu)
- - date_published: 2024-07-15T06:03:15.538713+00:00
-
- ## Marine Corps University
- - [https://www.usmcu.edu](https://www.usmcu.edu)
- - date_published: 2024-06-29T21:39:53.024609+00:00
-
- ## University System of Maryland | Hagerstown | USMH
- - [http://www.hagerstown.usmd.edu](http://www.hagerstown.usmd.edu)
- - date_published: 2024-07-01T12:30:17+00:00
-
- ## University System of Maryland Home
- - [https://www.usmd.edu](https://www.usmd.edu)
- - date_published: 2024-05-07T21:25:15.784303+00:00
-
- ## The United States Naval Academy
- - [https://www.usna.edu](https://www.usna.edu)
- - date_published: 2024-04-28T03:23:27.747753+00:00
-
- ## U.S. Naval War College Digital Commons | U.S. Naval War College Research
- - [https://digital-commons.usnwc.edu](https://digital-commons.usnwc.edu)
- - date_published: 2024-07-08T21:38:05.792859+00:00
-
- ## U.S. Naval War College
- - [https://www.usnwc.edu](https://www.usnwc.edu)
- - date_published: 2024-07-11T15:07:19.698260+00:00
-
- ## Home | USRA
- - [https://www.hou.usra.edu](https://www.hou.usra.edu)
- - date_published: 2024-07-15T07:08:53.935010+00:00
-
- ## A research institute that provides support services to NASA and the planetary science community.
- - [https://www.lpi.usra.edu](https://www.lpi.usra.edu)
- - date_published: 2024-07-15T07:09:00.866005+00:00
-
- ## Accessibility
- - [https://accessibility.usu.edu](https://accessibility.usu.edu)
- - date_published: 2024-07-13T13:01:54.160895+00:00
-
- ## Frequently Asked Library Questions - LibAnswers
- - [https://asklibrary.usu.edu](https://asklibrary.usu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## College of Agriculture and Applied Sciences
- - [https://caas.usu.edu](https://caas.usu.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Login - USU ServiceNow
- - [https://chasshelpdesk.usu.edu](https://chasshelpdesk.usu.edu)
- - date_published: 2024-07-14T04:01:32.754881+00:00
-
- ## College of Humanities & Social Sciences
- - [https://chass.usu.edu](https://chass.usu.edu)
- - date_published: 2024-05-11T09:18:56.826140+00:00
-
- ## Utah Climate Center
- - [https://climate.usu.edu](https://climate.usu.edu)
- - date_published: 2024-05-11T09:18:31.408673+00:00
-
- ## Research Data Management
- - [https://datamanagement.usu.edu](https://datamanagement.usu.edu)
- - date_published: 2024-05-11T07:31:50.860313+00:00
-
- ## DigitalCommons@USU | Utah State University Research
- - [https://digitalcommons.usu.edu](https://digitalcommons.usu.edu)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## CONTENTdm
- - [http://digital.lib.usu.edu](http://digital.lib.usu.edu)
- - date_published: 2024-07-13T13:02:51.779162+00:00
-
- ## Utah State University Directory
- - [https://directory.usu.edu](https://directory.usu.edu)
- - date_published: 2024-07-13T13:01:51.685984+00:00
-
- ## Encore
- - [https://discover.lib.usu.edu](https://discover.lib.usu.edu)
- - date_published: 2024-07-13T13:02:39.095349+00:00
-
- ## Information Technology
- - [https://it.usu.edu](https://it.usu.edu)
- - date_published: 2024-07-14T03:55:22.346013+00:00
-
- ## Jobs | Human Resources
- - [https://jobs.usu.edu](https://jobs.usu.edu)
- - date_published: 2024-07-13T13:01:57.533579+00:00
-
- ## Utah State University
- - [https://libcat.lib.usu.edu](https://libcat.lib.usu.edu)
- - date_published: 2024-07-13T13:02:45.713120+00:00
-
- ## Old Web Site
- - [https://library2.usu.edu](https://library2.usu.edu)
- - date_published: 2024-07-13T13:02:34.047820+00:00
-
- ## University Libraries
- - [https://library.usu.edu](https://library.usu.edu)
- - date_published: 2024-05-11T07:31:59.793510+00:00
-
- ## Military Science
- - [http://militaryscience.usu.edu](http://militaryscience.usu.edu)
- - date_published: 2024-07-14T04:01:07.370910+00:00
-
- ## Home | USU MyID
- - [https://myid.usu.edu](https://myid.usu.edu)
- - date_published: 2024-07-14T03:55:20.912307+00:00
-
- ## Utah State University
- - [https://my.usu.edu](https://my.usu.edu)
- - date_published: 2024-07-13T13:01:55.139239+00:00
-
- ## Welcome To Utah State University
- - [https://usu.edu](https://usu.edu)
- - date_published: 2024-06-22T06:22:30.054343+00:00
-
- ## College of Veterinary Medicine
- - [https://vetmed.usu.edu](https://vetmed.usu.edu)
- - date_published: 2024-04-29T04:47:57.155754+00:00
-
- ## WebAIM: Online course listings
- - [https://webaim.learn.usu.edu](https://webaim.learn.usu.edu)
- - date_published: 2024-06-22T06:29:39.400624+00:00
-
- ## Writing Center | Writing
- - [https://writing.usu.edu](https://writing.usu.edu)
- - date_published: 2024-07-13T13:02:43.371974+00:00
-
- ## ACES – The University of Texas at Arlington – Abacus Cloud and Edge Systems
- - [https://aceslab.uta.edu](https://aceslab.uta.edu)
- - date_published: 2020-01-01T00:00:00+00:00
-
- ## Alumni Relations
- - [https://alumni.uta.edu](https://alumni.uta.edu)
- - date_published: 2024-07-02T11:17:04.909733+00:00
-
- ## About this Edition of the University Catalog < University of Texas Arlington
- - [https://catalog.uta.edu](https://catalog.uta.edu)
- - date_published: 2024-06-10T15:41:02+00:00
-
- ## MachForm Admin Panel
- - [https://common.forms.uta.edu](https://common.forms.uta.edu)
- - date_published: 2024-07-02T11:17:18.473662+00:00
-
- ## Department of Computer Science and Engineering
- - [https://cse.uta.edu](https://cse.uta.edu)
- - date_published: 2024-05-07T22:09:34.230352+00:00
-
- ## Home
- - [https://ds.web.uta.edu](https://ds.web.uta.edu)
- - date_published: 2024-04-15T15:16:05+00:00
-
- ## Events Calendar - UTA Events Calendar
- - [https://events.uta.edu](https://events.uta.edu)
- - date_published: 2024-07-02T11:17:23.603076+00:00
-
- ## UTA Fort Worth
- - [https://fortworth.uta.edu](https://fortworth.uta.edu)
- - date_published: 2024-07-02T11:17:28.120839+00:00
-
- ## Giving
- - [https://giving.uta.edu](https://giving.uta.edu)
- - date_published: 2024-07-02T11:16:53.898898+00:00
-
- ## UT Arlington Go Server
- - [https://go.uta.edu](https://go.uta.edu)
- - date_published: 2024-07-02T11:16:50.636044+00:00
-
- ## Help Desk Support – Office of Information Technology – The University of Texas at Arlington
- - [https://ithelp.uta.edu](https://ithelp.uta.edu)
- - date_published: 2024-07-02T11:17:32.625694+00:00
-
- ## - MavOrgs
- - [https://mavorgs.uta.edu](https://mavorgs.uta.edu)
- - date_published: 2024-07-02T11:16:47.732674+00:00
-
- ## UTA Police
- - [https://police.uta.edu](https://police.uta.edu)
- - date_published: 2024-07-02T11:16:57.886061+00:00
-
- ## UTA Faculty & Staff Resources
- - [https://resources.uta.edu](https://resources.uta.edu)
- - date_published: 2024-07-02T11:17:00.094953+00:00
-
- ## UT Arlington – UTA
- - [https://uta.edu](https://uta.edu)
- - date_published: 2024-05-07T22:09:36.450505+00:00
-
- ## Website Hosting
- - [https://websites.uta.edu](https://websites.uta.edu)
- - date_published: 2023-09-30T00:00:00+00:00
-
- ## About the U
- - [https://about.utah.edu](https://about.utah.edu)
- - date_published: 2024-07-02T11:19:22.245535+00:00
-
- ## Accessibility - The University of Utah
- - [https://accessibility.utah.edu](https://accessibility.utah.edu)
- - date_published: 2024-07-02T11:18:24.045543+00:00
-
- ## Login - The University of Utah
- - [https://admin.coe.utah.edu](https://admin.coe.utah.edu)
- - date_published: 2024-07-02T11:29:50.615496+00:00
-
- ## University Leadership
- - [https://administration.utah.edu](https://administration.utah.edu)
- - date_published: 2024-07-02T11:19:08.855522+00:00
-
- ## Utah Admissions
- - [https://admissions.utah.edu](https://admissions.utah.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Academic Advising Center - The University of Utah
- - [https://advising.utah.edu](https://advising.utah.edu)
- - date_published: 2024-07-02T11:18:47.627928+00:00
-
- ## Air Force ROTC - Department of Aerospace Studies - The University of Utah
- - [https://afrotc.utah.edu](https://afrotc.utah.edu)
- - date_published: 2024-07-02T11:27:11.243936+00:00
-
- ## Department of Anthropology - The University of Utah
- - [https://anthro.utah.edu](https://anthro.utah.edu)
- - date_published: 2024-07-02T11:27:07.507329+00:00
-
- ## Utah Arch
- - [https://arch.cs.utah.edu](https://arch.cs.utah.edu)
- - date_published: 2024-04-03T16:29:39+00:00
-
- ## U Asia Campus
- - [https://asiacampus.utah.edu](https://asiacampus.utah.edu)
- - date_published: 2024-07-02T11:18:30.216543+00:00
-
- ## Department of Atmospheric Sciences - The University of Utah
- - [https://atmos.utah.edu](https://atmos.utah.edu)
- - date_published: 2024-07-02T11:36:25.622021+00:00
-
- ## @theU
- - [https://attheu.utah.edu](https://attheu.utah.edu)
- - date_published: 2024-05-07T22:10:01.319459+00:00
-
- ## University of Utah - Portal
- - [https://auxiliary.apps.utah.edu](https://auxiliary.apps.utah.edu)
- - date_published: 2024-03-14T20:34:52+00:00
-
- ## Basic Needs - The University of Utah
- - [https://basicneeds.utah.edu](https://basicneeds.utah.edu)
- - date_published: 2024-07-02T11:33:06.216575+00:00
-
- ## Bennion Center - The University of Utah
- - [https://bennioncenter.utah.edu](https://bennioncenter.utah.edu)
- - date_published: 2024-07-02T11:32:55.990567+00:00
-
- ## BHIDC - The University of Utah
- - [https://bhidc.utah.edu](https://bhidc.utah.edu)
- - date_published: 2024-07-02T11:27:37.997571+00:00
-
- ## Ubox - The University of Utah
- - [http://box.utah.edu](http://box.utah.edu)
- - date_published: 2024-07-14T05:11:21.715013+00:00
-
- ## Brand
- - [https://brand.utah.edu](https://brand.utah.edu)
- - date_published: 2024-07-02T11:18:16.891217+00:00
-
- ## Campus Recreation Services - The University of Utah
- - [https://campusrec.utah.edu](https://campusrec.utah.edu)
- - date_published: 2024-07-02T11:18:35.721636+00:00
-
- ## U Career Success
- - [https://careers.utah.edu](https://careers.utah.edu)
- - date_published: 2024-07-02T11:18:05.216365+00:00
-
- ## University of Utah Catalog
- - [https://catalog.utah.edu](https://catalog.utah.edu)
- - date_published: 2024-07-02T11:32:28.904468+00:00
-
- ## Center for Cell and Genome Science - The University of Utah
- - [https://ccgs.utah.edu](https://ccgs.utah.edu)
- - date_published: 2024-07-02T11:41:35.363290+00:00
-
- ## University of Utah - Portal
- - [https://cis.utah.edu](https://cis.utah.edu)
- - date_published: 2024-03-14T20:34:52+00:00
-
- ## Home Page - Civil & Environmental Engineering
- - [https://civil.utah.edu](https://civil.utah.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Climate Action at the U
- - [https://climate.utah.edu](https://climate.utah.edu)
- - date_published: 2024-07-02T11:27:40.879030+00:00
-
- ## Home Page - Civil & Environmental Engineering
- - [https://construction.utah.edu](https://construction.utah.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Continuum | is now magazine.utah.edu
- - [https://continuum.utah.edu](https://continuum.utah.edu)
- - date_published: 2024-07-02T11:33:36.566227+00:00
-
- ## Coronavirus Disease 2019 (COVID-19)
- - [https://coronavirus.utah.edu](https://coronavirus.utah.edu)
- - date_published: 2020-02-11T00:00:00+00:00
-
- ## Counseling Services - University of Utah Counseling Center - The University of Utah
- - [https://counselingcenter.utah.edu](https://counselingcenter.utah.edu)
- - date_published: 2024-07-02T11:33:04.199347+00:00
-
- ## College of Social and Behavioral Science - The University of Utah
- - [https://csbs.utah.edu](https://csbs.utah.edu)
- - date_published: 2024-05-07T22:10:04.632731+00:00
-
- ## Center for Science and Mathematics Education
- - [https://csme.utah.edu](https://csme.utah.edu)
- - date_published: 2024-07-02T11:36:29.694988+00:00
-
- ## Kahlert School of Computing – School of Computing at The University of Utah
- - [http://cs.utah.edu](http://cs.utah.edu)
- - date_published: 2024-04-02T18:55:38+00:00
-
- ## - Utah Center for Data Science
- - [http://datascience.utah.edu](http://datascience.utah.edu)
- - date_published: 2024-01-10T18:18:09+00:00
-
- ## Vice Presidential Debate 2020
- - [https://debate2020.utah.edu](https://debate2020.utah.edu)
- - date_published: 2024-07-02T11:42:28.895478+00:00
-
- ## Digital
- - [https://digital.utah.edu](https://digital.utah.edu)
- - date_published: 2024-07-02T11:41:38.885003+00:00
-
- ## The DIGIT Lab | GIS on Campus
- - [http://digit.utah.edu](http://digit.utah.edu)
- - date_published: 2024-07-02T11:27:32.549921+00:00
-
- ## University Department of Public Safety
- - [http://dps.utah.edu](http://dps.utah.edu)
- - date_published: 2024-07-02T11:20:26.536125+00:00
-
- ## Utah Games
- - [http://eae.utah.edu](http://eae.utah.edu)
- - date_published: 2024-07-02T11:29:22.104739+00:00
-
- ## CMES Earth - The University of Utah
- - [https://earth.utah.edu](https://earth.utah.edu)
- - date_published: 2024-07-02T11:41:58.711779+00:00
-
- ## Department of Economics - The University of Utah
- - [https://economics.utah.edu](https://economics.utah.edu)
- - date_published: 2024-07-02T11:21:23.738137+00:00
-
- ## Home
- - [https://egi.utah.edu](https://egi.utah.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Employee Wellness
- - [https://employeewellness.utah.edu](https://employeewellness.utah.edu)
- - date_published: 2024-07-02T11:33:13.115417+00:00
-
- ## Jobs | University of Utah
- - [https://employment.utah.edu](https://employment.utah.edu)
- - date_published: 2024-07-01T12:11:40+00:00
-
- ## Engineering Entrepreneurship Certificate | University of Utah
- - [https://entrepreneurship.coe.utah.edu](https://entrepreneurship.coe.utah.edu)
- - date_published: 2024-07-02T11:30:05.215361+00:00
-
- ## School of Environment, Society, and Sustainability - The University of Utah
- - [https://ess.utah.edu](https://ess.utah.edu)
- - date_published: 2024-07-02T11:21:26.008247+00:00
-
- ## Campus Events
- - [https://events.utah.edu](https://events.utah.edu)
- - date_published: 2024-05-07T22:11:11.232801+00:00
-
- ## University of Utah - Portal
- - [https://faculty.apps.utah.edu](https://faculty.apps.utah.edu)
- - date_published: 2024-03-14T20:34:52+00:00
-
- ## Virtual Server List
- - [https://faculty.cs.utah.edu](https://faculty.cs.utah.edu)
- - date_published: 2023-10-26T13:20:22+00:00
-
- ## Faculty Activity Reporting (FAR) - University Faculty Information & Support
- - [https://faculty.utah.edu](https://faculty.utah.edu)
- - date_published: 2024-07-02T11:20:18.851941+00:00
-
- ## Financial Services
- - [http://fbs.admin.utah.edu](http://fbs.admin.utah.edu)
- - date_published: 2024-07-02T11:30:47.600014+00:00
-
- ## Family and Consumer Studies Department - Department of Family and Consumer Studies - The University of Utah
- - [https://fcs.utah.edu](https://fcs.utah.edu)
- - date_published: 2024-07-02T11:27:24.971371+00:00
-
- ## Financial Aid and Scholarships - The University of Utah
- - [https://financialaid.utah.edu](https://financialaid.utah.edu)
- - date_published: 2024-07-02T11:19:17.995713+00:00
-
- ## Financial Wellness Center - The University of Utah
- - [https://financialwellness.utah.edu](https://financialwellness.utah.edu)
- - date_published: 2024-07-02T11:32:54.387124+00:00
-
- ## COE Research & Staff MultiSite Install | Just another WordPress site
- - [https://flame.coe.utah.edu](https://flame.coe.utah.edu)
- - date_published: 2024-07-02T11:32:26.650278+00:00
-
- ## Utah Admissions
- - [https://futureu.admissions.utah.edu](https://futureu.admissions.utah.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Utah Games
- - [https://games.utah.edu](https://games.utah.edu)
- - date_published: 2024-07-02T11:29:16.402157+00:00
-
- ## Google Workspace - The University of Utah
- - [https://gcloud.utah.edu](https://gcloud.utah.edu)
- - date_published: 2024-07-14T05:11:26.269002+00:00
-
- ## Search The University of Utah
- - [https://gcse.search.utah.edu](https://gcse.search.utah.edu)
- - date_published: 2024-07-02T11:20:21.620781+00:00
-
- ## - Campus Connect
- - [https://getinvolved.utah.edu](https://getinvolved.utah.edu)
- - date_published: 2024-05-07T22:10:39.477753+00:00
-
- ## University Advancement
- - [https://giving.utah.edu](https://giving.utah.edu)
- - date_published: 2024-07-02T11:33:39.016559+00:00
-
- ## Global U
- - [https://global.utah.edu](https://global.utah.edu)
- - date_published: 2024-07-02T11:42:35.818237+00:00
-
- ## KSoC GradSAC Website
- - [https://gradsac.cs.utah.edu](https://gradsac.cs.utah.edu)
- - date_published: 2024-03-04T19:02:50+00:00
-
- ## Graduate School - The University of Utah
- - [https://gradschool.utah.edu](https://gradschool.utah.edu)
- - date_published: 2024-07-02T11:18:21.719856+00:00
-
- ## Handbooks
- - [https://handbook.cs.utah.edu](https://handbook.cs.utah.edu)
- - date_published: 2023-06-29T20:26:43+00:00
-
- ## Center for Natural and Technological Hazards - The University of Utah
- - [https://hazards.utah.edu](https://hazards.utah.edu)
- - date_published: 2024-07-02T11:27:14.830122+00:00
-
- ## University of Utah Health
- - [https://healthcare.utah.edu](https://healthcare.utah.edu)
- - date_published: 2024-07-02T10:52:56+00:00
-
- ## Campus IT Help Desk - University Information Technology - The University of Utah
- - [http://helpdesk.utah.edu](http://helpdesk.utah.edu)
- - date_published: 2024-07-02T11:20:05.208136+00:00
-
- ## Housing & Residential Education
- - [https://housing.utah.edu](https://housing.utah.edu)
- - date_published: 2024-07-02T11:42:11.265115+00:00
-
- ## Virtual Server List
- - [http://hpux.cs.utah.edu](http://hpux.cs.utah.edu)
- - date_published: 2023-10-26T13:20:22+00:00
-
- ## Health - The University of Utah
- - [https://hsp.utah.edu](https://hsp.utah.edu)
- - date_published: 2024-07-02T11:27:13.154676+00:00
-
- ## Barbara L. and Norman C. Tanner Center for Noviolent Human Rights Advocacy - The University of Utah
- - [https://humanrights.utah.edu](https://humanrights.utah.edu)
- - date_published: 2024-07-02T11:21:32.869255+00:00
-
- ## Imagine U
- - [http://imagineu.utah.edu](http://imagineu.utah.edu)
- - date_published: 2024-07-02T11:29:03.748456+00:00
-
- ## Innovate U
- - [https://innovate.utah.edu](https://innovate.utah.edu)
- - date_published: 2024-07-02T11:19:28.989441+00:00
-
- ## Internships - College of Social and Behavioral Science - The University of Utah
- - [https://internships.csbs.utah.edu](https://internships.csbs.utah.edu)
- - date_published: 2024-02-08T17:51:53.015372+00:00
-
- ## Login - The University of Utah
- - [https://intranet.coe.utah.edu](https://intranet.coe.utah.edu)
- - date_published: 2024-07-02T11:29:55.336575+00:00
-
- ## University Information Technology - The University of Utah
- - [https://it.utah.edu](https://it.utah.edu)
- - date_published: 2024-05-11T09:34:13.595702+00:00
-
- ## Student Leadership & Involvement
- - [https://leadership.utah.edu](https://leadership.utah.edu)
- - date_published: 2024-07-02T11:19:03.160360+00:00
-
- ## Learning Center - The University of Utah
- - [https://learningcenter.utah.edu](https://learningcenter.utah.edu)
- - date_published: 2024-07-02T11:32:57.978560+00:00
-
- ## The University of Utah Magazine
- - [https://magazine.utah.edu](https://magazine.utah.edu)
- - date_published: 2024-05-07T22:10:55.331052+00:00
-
- ## Campus Map - The University of Utah
- - [https://maps.utah.edu](https://maps.utah.edu)
- - date_published: 2024-06-13T17:09:53+00:00
-
- ## Campus Map - The University of Utah
- - [https://map.utah.edu](https://map.utah.edu)
- - date_published: 2024-05-07T22:09:52.103776+00:00
-
- ## Welcome to Mechanical Engineering - Mechanical Engineering | University of Utah
- - [http://mech.utah.edu](http://mech.utah.edu)
- - date_published: 2024-07-02T11:30:12.956968+00:00
-
- ## MesoWest Data
- - [https://mesowest.utah.edu](https://mesowest.utah.edu)
- - date_published: 2024-01-01T20:13:34+00:00
-
- ## Master of Science in International Affairs and Global Enterprise - The University of Utah
- - [https://miage.utah.edu](https://miage.utah.edu)
- - date_published: 2024-07-02T11:27:30.545223+00:00
-
- ## Department of Military Science (Army ROTC) - The University of Utah
- - [https://milsci.utah.edu](https://milsci.utah.edu)
- - date_published: 2024-07-02T11:27:09.189021+00:00
-
- ## Department of Mining Engineering - The University of Utah
- - [https://mining.utah.edu](https://mining.utah.edu)
- - date_published: 2024-07-02T11:36:23.225387+00:00
-
- ## Monson Center - Conference and Event Management - The University of Utah
- - [https://monsoncenter.utah.edu](https://monsoncenter.utah.edu)
- - date_published: 2024-04-29T04:48:51.801103+00:00
-
- ## Master of Public Administration - The University of Utah
- - [https://mpa.utah.edu](https://mpa.utah.edu)
- - date_published: 2024-07-02T11:27:04.092334+00:00
-
- ## Master of Public Policy - The University of Utah
- - [https://mpp.utah.edu](https://mpp.utah.edu)
- - date_published: 2024-07-02T11:27:36.218608+00:00
-
- ## Master of Software Development | University of Utah
- - [https://msd.utah.edu](https://msd.utah.edu)
- - date_published: 2024-05-07T22:10:41.905933+00:00
-
- ## Home Page - Materials Science & Engineering
- - [https://mse.utah.edu](https://mse.utah.edu)
- - date_published: 2024-07-02T11:31:04.778134+00:00
-
- ## Interdisciplinary Exchange for Utah Science - The University of Utah
- - [https://nexus.utah.edu](https://nexus.utah.edu)
- - date_published: 2024-07-02T11:21:28.092252+00:00
-
- ## Welcome to the Natural History Museum of Utah | Natural History Museum of Utah
- - [https://nhmu.utah.edu](https://nhmu.utah.edu)
- - date_published: 2024-07-02T08:26:17+00:00
-
- ## Utah Natural Language Processing Group
- - [https://nlp.cs.utah.edu](https://nlp.cs.utah.edu)
- - date_published: 2023-12-13T23:33:56+00:00
-
- ## Department of Naval Science (Navy/Marine ROTC) - The University of Utah
- - [https://nrotc.utah.edu](https://nrotc.utah.edu)
- - date_published: 2024-07-02T11:27:20.905985+00:00
-
- ## Office 365 - The University of Utah
- - [https://o365cloud.utah.edu](https://o365cloud.utah.edu)
- - date_published: 2024-07-14T05:11:24.560358+00:00
-
- ## Office of Equal Opportunity & Affirmative Action - The University of Utah
- - [http://oeo.utah.edu](http://oeo.utah.edu)
- - date_published: 2024-07-02T11:30:40.042750+00:00
-
- ## UOnline at the University of Utah - UOnline - The University of Utah
- - [https://online.utah.edu](https://online.utah.edu)
- - date_published: 2024-07-02T11:27:22.877846+00:00
-
- ## The Office of Orientation and Transition - The University of Utah
- - [https://orientation.utah.edu](https://orientation.utah.edu)
- - date_published: 2024-07-02T11:19:05.848611+00:00
-
- ## Office of Sponsored Projects - The University of Utah
- - [https://osp.utah.edu](https://osp.utah.edu)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Office of Undergraduate Research
- - [https://our.utah.edu](https://our.utah.edu)
- - date_published: 2024-07-02T11:30:37.780675+00:00
-
- ## Parents & Families - The Office of Orientation and Transition - The University of Utah
- - [http://parents.utah.edu](http://parents.utah.edu)
- - date_published: 2024-07-02T11:42:32.018655+00:00
-
- ## Basic Search - Campus Directory - The University of Utah
- - [https://people.utah.edu](https://people.utah.edu)
- - date_published: 2024-05-07T22:09:50.098494+00:00
-
- ## Department of Political Science - The University of Utah
- - [https://poli-sci.utah.edu](https://poli-sci.utah.edu)
- - date_published: 2024-07-02T11:27:02.191182+00:00
-
- ## University of Utah - Portal
- - [https://portal.app.utah.edu](https://portal.app.utah.edu)
- - date_published: 2024-03-14T20:34:52+00:00
-
- ## President Taylor R. Randall
- - [https://president.utah.edu](https://president.utah.edu)
- - date_published: 2024-07-02T11:18:02.089656+00:00
-
- ## Department of Psychology - The University of Utah
- - [https://psych.utah.edu](https://psych.utah.edu)
- - date_published: 2024-07-02T11:21:30.615603+00:00
-
- ## University Department of Public Safety
- - [https://publicsafety.utah.edu](https://publicsafety.utah.edu)
- - date_published: 2024-07-02T11:18:33.666208+00:00
-
- ## Home
- - [http://qed.cs.utah.edu](http://qed.cs.utah.edu)
- - date_published: 2024-07-02T11:29:23.851477+00:00
-
- ## Office of the Registrar - The University of Utah
- - [https://registrar.utah.edu](https://registrar.utah.edu)
- - date_published: 2024-07-02T11:18:39.117738+00:00
-
- ## Vice President for Research
- - [http://research.utah.edu](http://research.utah.edu)
- - date_published: 2024-07-02T11:29:47.766696+00:00
-
- ## Robotics Center
- - [https://robotics.coe.utah.edu](https://robotics.coe.utah.edu)
- - date_published: 2024-07-02T11:30:26.726220+00:00
-
- ## home [LL4MA lab]
- - [https://robot-learning.cs.utah.edu](https://robot-learning.cs.utah.edu)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## #SAFEU
- - [https://safeu.utah.edu](https://safeu.utah.edu)
- - date_published: 2024-07-02T11:18:42.515290+00:00
-
- ## College of Science
- - [https://science.utah.edu](https://science.utah.edu)
- - date_published: 2024-05-07T22:10:58.251933+00:00
-
- ## Information Security Office - The University of Utah
- - [https://security.it.utah.edu](https://security.it.utah.edu)
- - date_published: 2024-07-14T05:11:15.100155+00:00
-
- ## Skills Workshops and Mindfulness Programs - The University of Utah
- - [https://skills.utah.edu](https://skills.utah.edu)
- - date_published: 2024-07-02T11:32:59.831680+00:00
-
- ## Social
- - [https://social.utah.edu](https://social.utah.edu)
- - date_published: 2024-07-02T11:21:10.467095+00:00
-
- ## Department of Sociology - The University of Utah
- - [https://soc.utah.edu](https://soc.utah.edu)
- - date_published: 2024-07-02T11:27:27.242229+00:00
-
- ## Student Success Coaches - The University of Utah
- - [https://ssc.utah.edu](https://ssc.utah.edu)
- - date_published: 2024-05-07T22:10:34.896061+00:00
-
- ## Student Affairs - The University of Utah
- - [https://studentaffairs.utah.edu](https://studentaffairs.utah.edu)
- - date_published: 2024-07-02T11:18:12.316010+00:00
-
- ## Student Health Center - The University of Utah
- - [https://studenthealth.utah.edu](https://studenthealth.utah.edu)
- - date_published: 2024-07-02T11:33:08.148675+00:00
-
- ## Student Success Coaches - The University of Utah
- - [https://studentsuccess.utah.edu](https://studentsuccess.utah.edu)
- - date_published: 2024-07-02T11:42:40.088613+00:00
-
- ## Student University Development Opportunity (SUDO) - Student University Development Opportunity - The University of Utah
- - [https://sudo.utah.edu](https://sudo.utah.edu)
- - date_published: 2024-07-14T05:11:19.298276+00:00
-
- ## CSBS Computing - Support - CSBS - The University of Utah
- - [https://support.csbs.utah.edu](https://support.csbs.utah.edu)
- - date_published: 2024-07-02T11:27:18.733098+00:00
-
- ## Kahlert School of Computing – IT Support
- - [https://support.cs.utah.edu](https://support.cs.utah.edu)
- - date_published: 2024-05-07T22:10:43.202892+00:00
-
- ## Sign In
- - [http://support.med.utah.edu](http://support.med.utah.edu)
- - date_published: 2024-07-02T11:29:08.498264+00:00
-
- ## Sustainability
- - [https://sustainability.utah.edu](https://sustainability.utah.edu)
- - date_published: 2024-07-02T11:18:10.153751+00:00
-
- ## University of Utah - Portal
- - [https://system.apps.utah.edu](https://system.apps.utah.edu)
- - date_published: 2024-03-14T20:34:52+00:00
-
- ## TA Application Portal - School of Computing - University of Utah - School of Computing - TA Portal
- - [https://ta.cs.utah.edu](https://ta.cs.utah.edu)
- - date_published: 2024-05-07T22:10:21.937589+00:00
-
- ## Utah Center for Inclusive Computing – Just another COE Research & Staff MultiSite Install Sites site
- - [https://ucic.cs.utah.edu](https://ucic.cs.utah.edu)
- - date_published: 2024-05-07T22:10:25.410286+00:00
-
- ## UGive
- - [https://ugive.app.utah.edu](https://ugive.app.utah.edu)
- - date_published: 2023-11-10T23:09:42+00:00
-
- ## Home
- - [http://ulink.utah.edu](http://ulink.utah.edu)
- - date_published: 2024-07-02T11:33:32.697570+00:00
-
- ## UNews
- - [https://unews.utah.edu](https://unews.utah.edu)
- - date_published: 2024-07-02T11:21:07.616598+00:00
-
- ## University of Utah Student Union - A. Ray Olpin University Union
- - [https://union.utah.edu](https://union.utah.edu)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## University of Utah Health Academic Medical Center
- - [https://uofuhealth.utah.edu](https://uofuhealth.utah.edu)
- - date_published: 2024-07-02T05:26:17+00:00
-
- ## Kahlert School of Computing
- - [https://users.cs.utah.edu](https://users.cs.utah.edu)
- - date_published: 2024-01-12T03:16:30.394085+00:00
-
- ## Office of Undergraduate Studies - The University of Utah
- - [https://us.utah.edu](https://us.utah.edu)
- - date_published: 2024-07-02T11:31:52.001539+00:00
-
- ## The University of Utah
- - [https://utah.edu](https://utah.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Ute Proud
- - [https://uteproud.utah.edu](https://uteproud.utah.edu)
- - date_published: 2024-07-02T11:18:45.560019+00:00
-
- ## Archaeological Center - The University of Utah
- - [https://uuac.utah.edu](https://uuac.utah.edu)
- - date_published: 2024-07-02T11:27:16.566885+00:00
-
- ## Center for Campus Wellness - Student Affairs - The University of Utah
- - [https://wellness.utah.edu](https://wellness.utah.edu)
- - date_published: 2024-05-07T22:10:51.182376+00:00
-
- ## The Wilkes Center for Climate Science & Policy
- - [https://wilkescenter.utah.edu](https://wilkescenter.utah.edu)
- - date_published: 2024-07-02T11:41:44.188636+00:00
-
- ## Women’s Resource Center - The University of Utah
- - [http://womenscenter.utah.edu](http://womenscenter.utah.edu)
- - date_published: 2024-07-02T11:30:31.114469+00:00
-
- ## Home - Biomedical Engineering at the University of Utah
- - [http://www.bioen.utah.edu](http://www.bioen.utah.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## School of Biological Sciences
- - [http://www.biology.utah.edu](http://www.biology.utah.edu)
- - date_published: 2024-07-02T11:41:56.711271+00:00
-
- ## Home - Biomedical Engineering at the University of Utah
- - [https://www.bme.utah.edu](https://www.bme.utah.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## John and Marcia Price College of Engineering IT Support | CADE, Student Computing Labs and Network Support
- - [http://www.cade.utah.edu](http://www.cade.utah.edu)
- - date_published: 2024-07-02T11:31:07.368312+00:00
-
- ## B.S. Computer Engineering
- - [http://www.ce.utah.edu](http://www.ce.utah.edu)
- - date_published: 2024-07-02T11:29:53.256609+00:00
-
- ## Department of Chemistry - The University of Utah
- - [http://www.chem.utah.edu](http://www.chem.utah.edu)
- - date_published: 2024-07-02T11:36:32.636221+00:00
-
- ## Homepage - Chemical Engineering | University of Utah
- - [https://www.che.utah.edu](https://www.che.utah.edu)
- - date_published: 2024-07-02T11:30:00.260709+00:00
-
- ## Home Page - Civil & Environmental Engineering
- - [http://www.civil.utah.edu](http://www.civil.utah.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## College of Mines and Earth Sciences - The University of Utah
- - [https://www.cmes.utah.edu](https://www.cmes.utah.edu)
- - date_published: 2024-07-02T11:41:52.717733+00:00
-
- ## The John and Marcia Price College of Engineering
- - [https://www.coe.utah.edu](https://www.coe.utah.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Kahlert School of Computing – School of Computing at The University of Utah
- - [https://www.cs.utah.edu](https://www.cs.utah.edu)
- - date_published: 2023-10-25T19:04:49.477291+00:00
-
- ## Homepage - Electrical & Computer Engineering | University of Utah
- - [http://www.ece.utah.edu](http://www.ece.utah.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## The John and Marcia Price College of Engineering
- - [http://www.eng.utah.edu](http://www.eng.utah.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## University of Utah List Service - home
- - [https://www.lists.utah.edu](https://www.lists.utah.edu)
- - date_published: 2024-07-02T10:04:09.162866+00:00
-
- ## Math - The University of Utah
- - [https://math.utah.edu](https://math.utah.edu)
- - date_published: 2023-10-25T19:04:53.006400+00:00
-
- ## Kahlert School of Computing – School of Computing at The University of Utah
- - [https://www-new.cs.utah.edu](https://www-new.cs.utah.edu)
- - date_published: 2024-04-02T18:55:38+00:00
-
- ## Graduate Nuclear Engineering - Civil & Environmental Engineering
- - [http://www.nuclear.utah.edu](http://www.nuclear.utah.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Kahlert School of Computing
- - [https://www-old.cs.utah.edu](https://www-old.cs.utah.edu)
- - date_published: 2024-02-26T08:29:12.519678+00:00
-
- ## Department of Physics & Astronomy
- - [http://www.physics.utah.edu](http://www.physics.utah.edu)
- - date_published: 2024-07-02T11:41:50.576976+00:00
-
- ## The John and Marcia Price College of Engineering
- - [https://price.utah.edu](https://price.utah.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Vice President for Research
- - [https://www.research.utah.edu](https://www.research.utah.edu)
- - date_published: 2024-07-02T11:18:53.712812+00:00
-
- ## The University of Utah - Space Planning & Management :: Home
- - [http://www.space.utah.edu](http://www.space.utah.edu)
- - date_published: 2024-07-02T11:20:28.523158+00:00
-
- ## Sign In
- - [https://umail.utah.edu](https://umail.utah.edu)
+ ## UMB Home
+ - [http://www.umaryland.edu](http://www.umaryland.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## The Center for Agriculture, Food and the Environment at UMass Amherst
+ - [http://ag.umass.edu](http://ag.umass.edu)
+ - date_published: 2024-07-02T01:07:37+00:00
+
+ ## .: BINDS lab : WELCOME :.
+ - [https://binds.cs.umass.edu](https://binds.cs.umass.edu)
+ - date_published: 2007-05-29T00:00:00+00:00
+
+ ## UMass Amherst – Educational blogs from our community
+ - [https://blogs.umass.edu](https://blogs.umass.edu)
+ - date_published: 2024-02-24T18:07:22.063916+00:00
+
+ ## Calipr: Home
+ - [https://calipr.cs.umass.edu](https://calipr.cs.umass.edu)
+ - date_published: 2018-11-02T00:00:00+00:00
+
+ ## Recent Jobs | Human Resources | UMass Amherst
+ - [https://careers.umass.edu](https://careers.umass.edu)
  - date_published: 2024-05-07T00:00:00+00:00
 
- ## - UTC Blogs
- - [http://blog.utc.edu](http://blog.utc.edu)
- - date_published: 2024-07-09T13:20:52+00:00
+ ## Center for Intelligent Information Retrieval | UMass Amherst
+ - [http://ciir.cs.umass.edu](http://ciir.cs.umass.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
 
- ## Attention Required! | Cloudflare
- - [https://new.utc.edu](https://new.utc.edu)
- - date_published: 2024-07-09T13:20:47.494448+00:00
+ ## Credo: Special Collections and University Archives Digital Repository | Home
+ - [https://credo.library.umass.edu](https://credo.library.umass.edu)
+ - date_published: 2024-07-02T03:20:55.427145+00:00
 
- ## UTC Library Wiki
- - [https://wikilib.utc.edu](https://wikilib.utc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
+ ## UMass Design Center in Springfield | UMass Amherst
+ - [http://designcenter.umass.edu](http://designcenter.umass.edu)
+ - date_published: 2024-07-02T02:17:21+00:00
 
- ## Choose UTC | University of Tennessee at Chattanooga
- - [https://www.utc.edu](https://www.utc.edu)
- - date_published: 2024-07-01T15:47:44.313025+00:00
+ ## Department of Earth, Geographic, and Climate Sciences | Programs in Earth, Geographic, and Climate Sciences
+ - [https://eclogite.geo.umass.edu](https://eclogite.geo.umass.edu)
+ - date_published: 2024-02-08T17:01:53.198569+00:00
 
- ## Alumni Relations - The University of Texas at Dallas
- - [https://alumni.utdallas.edu](https://alumni.utdallas.edu)
- - date_published: 2024-07-02T11:46:13.470954+00:00
+ ## Extension Outreach Overview
+ - [https://extension.umass.edu](https://extension.umass.edu)
+ - date_published: 2016-09-21T20:41:41+00:00
 
- ## The University of Texas at Dallas
- - [https://atec.utdallas.edu](https://atec.utdallas.edu)
- - date_published: 2024-05-07T22:12:19.978667+00:00
+ ## UMass Amherst Fine Arts Center
+ - [https://fac.umass.edu](https://fac.umass.edu)
+ - date_published: 2024-05-07T21:24:26.521869+00:00
 
- ## Home
- - [https://atlas.utdallas.edu](https://atlas.utdallas.edu)
- - date_published: 2024-05-07T22:12:07.061420+00:00
+ ## Computer Network Research Group - UMass Amherst
+ - [https://gaia.cs.umass.edu](https://gaia.cs.umass.edu)
+ - date_published: 2016-03-01T18:57:50+00:00
 
- ## Brand Homepage - Brand Standards | The University of Texas at Dallas
- - [https://brand.utdallas.edu](https://brand.utdallas.edu)
- - date_published: 2024-06-15T14:41:18+00:00
+ ## UMass Amherst GIS Hub
+ - [https://gis.library.umass.edu](https://gis.library.umass.edu)
+ - date_published: 2024-03-28T00:00:00+00:00
 
- ## Bursar Office - Bursar Office | The University of Texas at Dallas
- - [https://bursar.utdallas.edu](https://bursar.utdallas.edu)
- - date_published: 2024-07-02T11:19:59+00:00
+ ## Search | UMass Amherst
+ - [https://googlebox.oit.umass.edu](https://googlebox.oit.umass.edu)
+ - date_published: 2024-07-01T20:32:15+00:00
 
- ## Events Calendar
- - [https://calendar.utdallas.edu](https://calendar.utdallas.edu)
- - date_published: 2024-05-07T00:00:00+00:00
+ ## My UMass App Replaces Go.UMass Portal - June 2018 | UMass Amherst Information Technology | UMass Amherst
+ - [https://go.umass.edu](https://go.umass.edu)
+ - date_published: 2024-07-02T00:25:39+00:00
 
- ## UT Dallas Course Catalogs - UT Dallas University Catalogs - The University of Texas at Dallas
- - [https://catalog.utdallas.edu](https://catalog.utdallas.edu)
- - date_published: 2024-07-02T11:44:45.491222+00:00
+ ## Groups.cs.umass.edu
+ - [https://groups.cs.umass.edu](https://groups.cs.umass.edu)
+ - date_published: 2024-06-30T02:27:14.301895+00:00
 
- ## The Chess Program at UT Dallas
- - [https://chess.utdallas.edu](https://chess.utdallas.edu)
- - date_published: 2024-07-02T11:09:28+00:00
+ ## Get help from the Libraries! - Ask Us!
+ - [https://libanswers.library.umass.edu](https://libanswers.library.umass.edu)
+ - date_published: 2024-03-14T00:00:00+00:00
 
- ## Community Standards and Conduct - The University of Texas at Dallas
- - [https://conduct.utdallas.edu](https://conduct.utdallas.edu)
- - date_published: 2024-05-07T22:11:40.347067+00:00
+ ## UMass Libraries LibCal -
+        University of Massachusetts Amherst
+ - [https://libcal.library.umass.edu](https://libcal.library.umass.edu)
+ - date_published: 2024-07-02T03:21:09.915757+00:00
 
- ## Student Counseling Center | UT Dallas
- - [https://counseling.utdallas.edu](https://counseling.utdallas.edu)
- - date_published: 2024-05-07T22:12:04.052174+00:00
+ ## Mallet: MAchine Learning for LanguagE Toolkit
+ - [http://mallet.cs.umass.edu](http://mallet.cs.umass.edu)
+ - date_published: 2024-03-14T13:50:29+00:00
 
- ## UT Dallas CourseBook Guided Search :: UT Dallas Class, Syllabus, Course Evaluation, and Textbook Database
- - [https://coursebook.utdallas.edu](https://coursebook.utdallas.edu)
- - date_published: 2024-05-07T22:11:23.875221+00:00
+ ## The Massachusetts Geological Survey |
+ - [https://mgs.geo.umass.edu](https://mgs.geo.umass.edu)
+ - date_published: 2024-05-07T21:23:56.350515+00:00
 
- ## Office of Development and Alumni Relations - Office of Development and Alumni Relations | The University of Texas at Dallas
- - [https://development.utdallas.edu](https://development.utdallas.edu)
- - date_published: 2024-05-07T22:11:49.477405+00:00
+ ## Home Page : NE CASC
+ - [https://necasc.umass.edu](https://necasc.umass.edu)
+ - date_published: 2024-05-07T21:24:02.548017+00:00
 
- ## Emergency Updates - Emergency Updates | The University of Texas at Dallas
- - [https://emergency.utdallas.edu](https://emergency.utdallas.edu)
- - date_published: 2023-04-26T00:00:00+00:00
+ ## Manning College of Information & Computer Sciences
+ - [https://people.cs.umass.edu](https://people.cs.umass.edu)
+ - date_published: 2024-05-08T11:29:40.576829+00:00
 
- ## Engineering Home - Erik Jonsson School of Engineering & Computer Science | The University of Texas at Dallas
- - [https://engineering.utdallas.edu](https://engineering.utdallas.edu)
- - date_published: 2024-06-15T14:32:38+00:00
+ ## Political Science : Department of Political Science : UMass Amherst
+ - [https://polsci.umass.edu](https://polsci.umass.edu)
+ - date_published: 2024-06-27T14:22:33+00:00
 
- ## Undergraduate Admissions - Office of Admission and Enrollment | The University of Texas at Dallas
- - [https://enroll.utdallas.edu](https://enroll.utdallas.edu)
- - date_published: 2024-07-02T10:57:13+00:00
+ ## Proofster
+ - [https://proofster.cs.umass.edu](https://proofster.cs.umass.edu)
+ - date_published: 2024-06-30T09:24:50.805530+00:00
 
- ## Financial Aid - Office of Financial Aid | The University of Texas at Dallas
- - [https://finaid.utdallas.edu](https://finaid.utdallas.edu)
- - date_published: 2024-05-07T22:11:44.820005+00:00
+ ## ScholarWorks@UMass Amherst
+ - [https://scholarworks.umass.edu](https://scholarworks.umass.edu)
+ - date_published: 2024-05-25T17:54:24.234412+00:00
 
- ## Galaxy | The University of Texas at Dallas
- - [https://galaxy.utdallas.edu](https://galaxy.utdallas.edu)
- - date_published: 2024-05-07T22:11:42.845292+00:00
+ ## UMarmot, the Catablog of SCUA : The Archive of Social Change
+ - [http://scua.library.umass.edu](http://scua.library.umass.edu)
+ - date_published: 2024-07-02T03:21:12.644454+00:00
 
- ## Give Today - The University of Texas at Dallas
- - [https://giving.utdallas.edu](https://giving.utdallas.edu)
- - date_published: 2024-06-15T15:17:51.800181+00:00
+ ## Vision Lab : WELCOME
+ - [https://vis-www.cs.umass.edu](https://vis-www.cs.umass.edu)
+ - date_published: 2024-07-11T14:30:00.725603+00:00
 
- ## Homepage - Graduate Admissions | The University of Texas at Dallas
- - [https://graduate-admissions.utdallas.edu](https://graduate-admissions.utdallas.edu)
- - date_published: 2024-07-02T11:43:19.131224+00:00
+ ## Manning College of Information and Computer Sciences | UMass Amherst
+ - [https://web.cs.umass.edu](https://web.cs.umass.edu)
+ - date_published: 2023-10-25T19:01:52.332060+00:00
+
+ ## UMass Amherst – Educational blogs from our community
+ - [https://websites.umass.edu](https://websites.umass.edu)
+ - date_published: 2024-05-07T21:23:39.485437+00:00
+
+ ## Homepage : Massachusetts Water Resources Research Center : UMass Amherst
+ - [http://wrrc.umass.edu](http://wrrc.umass.edu)
+ - date_published: 2024-06-30T23:40:56+00:00
+
+ ## Manning College of Information & Computer Sciences
+ - [https://www.cics.umass.edu](https://www.cics.umass.edu)
+ - date_published: 2024-02-26T08:56:15.973474+00:00
+
+ ## College of Natural Sciences : UMass Amherst
+ - [https://cns.umass.edu](https://cns.umass.edu)
+ - date_published: 2024-05-07T21:24:13.101506+00:00
+
+ ## Manning College of Information & Computer Sciences
+ - [https://www.cs.umass.edu](https://www.cs.umass.edu)
+ - date_published: 2024-06-30T08:09:50+00:00
+
+ ## Department of Earth, Geographic, and Climate Sciences | Programs in Earth, Geographic, and Climate Sciences
+ - [https://www.geo.umass.edu](https://www.geo.umass.edu)
+ - date_published: 2024-05-07T21:23:50.418927+00:00
+
+ ## UMass Amherst Libraries
+ - [https://library.umass.edu](https://library.umass.edu)
+ - date_published: 2024-05-07T21:24:30.869955+00:00
+
+ ## SPIRE login | UMass Amherst
+ - [https://www.spire.umass.edu](https://www.spire.umass.edu)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## UMass Amherst
+ - [https://umass.edu](https://umass.edu)
+ - date_published: 2023-10-25T19:01:54.548019+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://www-worldcat-org.silk.library.umass.edu](https://www-worldcat-org.silk.library.umass.edu)
+ - date_published: 2024-07-02T03:21:14.712132+00:00
+
+ ## Admissions | UMass Amherst
+ - [https://yes.umass.edu](https://yes.umass.edu)
+ - date_published: 2024-05-07T21:24:19.506907+00:00
+
+ ## UMass Dartmouth
+ - [http://www.umassd.edu](http://www.umassd.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## UMass Global | Accredited Online Degree Programs
+ - [https://www.umassglobal.edu](https://www.umassglobal.edu)
+ - date_published: 2024-07-02T02:22:56+00:00
+
+ ## University of Massachusetts Foundation
+ - [https://alumni.umassmed.edu](https://alumni.umassmed.edu)
+ - date_published: 2024-05-07T21:25:13.235244+00:00
+
+ ## BRIDGE Innovation & Business Development
+ - [https://bridge.umassmed.edu](https://bridge.umassmed.edu)
+ - date_published: 2023-07-03T03:21:30+00:00
+
+ ## eScholarship@UMassChan repository at UMass Chan Medical School
+ - [http://escholarship.umassmed.edu](http://escholarship.umassmed.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Homepage | ForHealth Consulting
+ - [https://forhealthconsulting.umassmed.edu](https://forhealthconsulting.umassmed.edu)
+ - date_published: 2024-05-07T21:24:36.526196+00:00
+
+ ## Home | Lamar Soutter Library - University of Massachusetts Medical School
+ - [https://library.umassmed.edu](https://library.umassmed.edu)
+ - date_published: 2024-05-07T21:25:04.477280+00:00
+
+ ## Search | Profiles RNS
+ - [https://profiles.umassmed.edu](https://profiles.umassmed.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## eScholarship@UMassChan Publishing
+ - [https://publishing.escholarship.umassmed.edu](https://publishing.escholarship.umassmed.edu)
+ - date_published: 2024-07-02T03:23:47.750187+00:00
+
+ ## eScholarship@UMassChan repository at UMass Chan Medical School
+ - [https://repository.escholarship.umassmed.edu](https://repository.escholarship.umassmed.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## UMass Chan Medical School
+ - [https://umassmed.edu](https://umassmed.edu)
+ - date_published: 2024-01-05T12:16:22.119217+00:00
+
+ ## Home Page | UMass Office of the President
+ - [https://www.umassp.edu](https://www.umassp.edu)
+ - date_published: 2024-07-02T01:56:15+00:00
 
  ## Human Resources
- - [https://hr.utdallas.edu](https://hr.utdallas.edu)
- - date_published: 2024-05-07T22:11:18.935473+00:00
+ - [https://hr.umb.edu](https://hr.umb.edu)
+ - date_published: 2024-06-15T02:20:30+00:00
 
- ## Home - Information Security | The University of Texas at Dallas
- - [https://infosecurity.utdallas.edu](https://infosecurity.utdallas.edu)
+ ## UMass Boston Online
+ - [https://online.umb.edu](https://online.umb.edu)
+ - date_published: 2024-03-06T05:34:01+00:00
+
+ ## Home
+ - [https://portal.cs.umb.edu](https://portal.cs.umb.edu)
+ - date_published: 2024-06-15T17:47:59.398378+00:00
+
+ ## UMass Boston
+ - [https://umb.edu](https://umb.edu)
+ - date_published: 2024-05-01T02:10:35.249584+00:00
+
+ ## UMass Boston CS
+ - [https://www.cs.umb.edu](https://www.cs.umb.edu)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## About UMBC - University Of Maryland, Baltimore County
+ - [https://about.umbc.edu](https://about.umbc.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Welcome Retrievers!
+ - [https://accessibility.umbc.edu](https://accessibility.umbc.edu)
+ - date_published: 2024-05-07T21:26:14.537880+00:00
+
+ ## Home
+ - [https://advising.umbc.edu](https://advising.umbc.edu)
+ - date_published: 2024-07-02T03:26:10.466524+00:00
+
+ ## UMBC App
+ - [https://app.umbc.edu](https://app.umbc.edu)
+ - date_published: 2024-05-07T21:26:22.814210+00:00
+
+ ## Test Page for the HTTP Server on Red Hat Enterprise Linux
+ - [https://assets1-my.umbc.edu](https://assets1-my.umbc.edu)
+ - date_published: 2021-07-12T19:36:32+00:00
+
+ ## Test Page for the HTTP Server on Red Hat Enterprise Linux
+ - [https://assets2-my.umbc.edu](https://assets2-my.umbc.edu)
+ - date_published: 2021-07-12T19:36:32+00:00
+
+ ## Test Page for the HTTP Server on Red Hat Enterprise Linux
+ - [https://assets4-my.umbc.edu](https://assets4-my.umbc.edu)
+ - date_published: 2021-07-12T19:36:32+00:00
+
+ ## bwtech@UMBC Research and Technology Park | Baltimore
+ - [https://bwtech.umbc.edu](https://bwtech.umbc.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Home
+ - [https://campuscard.umbc.edu](https://campuscard.umbc.edu)
+ - date_published: 2024-07-02T03:32:51.697232+00:00
+
+ ## Campus Life
+ - [https://campuslife.umbc.edu](https://campuslife.umbc.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Index of /
+ - [https://careers2.umbc.edu](https://careers2.umbc.edu)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Home
+ - [https://careers.umbc.edu](https://careers.umbc.edu)
+ - date_published: 2024-05-07T21:25:52.660484+00:00
+
+ ## University of Maryland, Baltimore County - Acalog ACMS™
+ - [https://catalog.umbc.edu](https://catalog.umbc.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## COVID-19
+ - [https://covid19.umbc.edu](https://covid19.umbc.edu)
+ - date_published: 2024-07-02T03:33:03.689567+00:00
+
+ ## Home
+ - [http://doit.umbc.edu](http://doit.umbc.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## UMBC ebiquity Research Group
+ - [http://ebiquity.umbc.edu](http://ebiquity.umbc.edu)
+ - date_published: 2024-07-01T20:10:33.771415+00:00
+
+ ## About
+ - [https://ecr.umbc.edu](https://ecr.umbc.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Home
+ - [https://enrollment.umbc.edu](https://enrollment.umbc.edu)
+ - date_published: 2024-05-07T21:25:18.050904+00:00
+
+ ## Entrepreneurship is for Everyone!
+ - [https://entrepreneurship.umbc.edu](https://entrepreneurship.umbc.edu)
+ - date_published: 2024-07-02T03:33:20.336524+00:00
+
+ ## Events - myUMBC
+ - [https://events.umbc.edu](https://events.umbc.edu)
+ - date_published: 2024-05-07T21:25:39.239743+00:00
+
+ ## Welcome to UMBC Jobs
+ - [https://facultyjobs.umbc.edu](https://facultyjobs.umbc.edu)
+ - date_published: 2024-07-02T03:32:34.461661+00:00
+
+ ## Home
+ - [https://financialaid.umbc.edu](https://financialaid.umbc.edu)
+ - date_published: 2024-05-07T21:26:00.138561+00:00
+
+ ## FinancialSmarts @ UMBC
+ - [https://financialsmarts.umbc.edu](https://financialsmarts.umbc.edu)
+ - date_published: 2024-07-02T03:34:23.224594+00:00
+
+ ## University of Maryland-Baltimore County
+ - [https://give.umbc.edu](https://give.umbc.edu)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Giving At UMBC - UMBC: University Of Maryland, Baltimore County
+ - [http://giving.umbc.edu](http://giving.umbc.edu)
+ - date_published: 2019-12-20T05:00:00+00:00
+
+ ## Home
+ - [http://gradschool.umbc.edu](http://gradschool.umbc.edu)
+ - date_published: 2024-07-02T03:34:08.980532+00:00
+
+ ## Home
+ - [https://gritstarter.umbc.edu](https://gritstarter.umbc.edu)
+ - date_published: 2024-05-07T21:25:55.938507+00:00
+
+ ## Welcome
+ - [http://health.umbc.edu](http://health.umbc.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## UMBC Help - UMBC: An Honors University in Maryland
+ - [https://help.umbc.edu](https://help.umbc.edu)
+ - date_published: 2024-07-02T03:26:05.911533+00:00
+
+ ## Human Resources
+ - [https://hr.umbc.edu](https://hr.umbc.edu)
+ - date_published: 2024-07-02T03:31:36.936844+00:00
+
+ ## DoIT Security
+ - [https://itsecurity.umbc.edu](https://itsecurity.umbc.edu)
+ - date_published: 2023-06-20T00:00:00+00:00
+
+ ## Welcome to UMBC Jobs
+ - [https://jobs.umbc.edu](https://jobs.umbc.edu)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## AOK Library and Gallery
+ - [https://librarygallery.umbc.edu](https://librarygallery.umbc.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## AOK Library
+ - [https://library.umbc.edu](https://library.umbc.edu)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Welcome to UMBC Jobs
+ - [https://listings.umbc.edu](https://listings.umbc.edu)
+ - date_published: 2024-07-02T03:32:01.341578+00:00
+
+ ## Magazine - UMBC: University Of Maryland, Baltimore County
+ - [https://magazine.umbc.edu](https://magazine.umbc.edu)
+ - date_published: 2022-02-14T02:11:20+00:00
+
+ ## My Print Center
+ - [https://mobileprint.umbc.edu](https://mobileprint.umbc.edu)
+ - date_published: 2023-08-16T00:01:42+00:00
+
+ ## About
+ - [https://mtip.umbc.edu](https://mtip.umbc.edu)
+ - date_published: 2024-07-02T03:33:54.850291+00:00
+
+ ## Start · myUMBC
+ - [https://my3.my.umbc.edu](https://my3.my.umbc.edu)
+ - date_published: 2024-07-02T03:31:57+00:00
+
+ ## myUMBC
+ - [https://my.umbc.edu](https://my.umbc.edu)
+ - date_published: 2024-05-07T21:26:12.709528+00:00
+
+ ## News - UMBC: University Of Maryland, Baltimore County
+ - [https://news.umbc.edu](https://news.umbc.edu)
+ - date_published: 2022-02-16T22:54:49+00:00
+
+ ## About
+ - [https://oei.umbc.edu](https://oei.umbc.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Orientation – UMBC
+ - [https://orientation.umbc.edu](https://orientation.umbc.edu)
+ - date_published: 2024-07-01T02:51:48.832035+00:00
+
+ ## Home
+ - [https://planning.umbc.edu](https://planning.umbc.edu)
+ - date_published: 2024-07-02T03:26:07.200870+00:00
+
+ ## Home Page
+ - [https://police.umbc.edu](https://police.umbc.edu)
+ - date_published: 2024-05-07T21:25:35.711980+00:00
+
+ ## Welcome to the Office of the Provost and Senior Vice President for Academic Affairs
+ - [https://provost.umbc.edu](https://provost.umbc.edu)
+ - date_published: 2024-07-02T03:34:05.882377+00:00
+
+ ## Department of Computer Science and Electrical Engineering
+ - [https://redirect.cs.umbc.edu](https://redirect.cs.umbc.edu)
+ - date_published: 2024-05-26T18:42:18.246666+00:00
+
+ ## Home
+ - [https://registrar.umbc.edu](https://registrar.umbc.edu)
+ - date_published: 2024-05-07T21:25:57.683613+00:00
+
+ ## Research and Creative Achievement at UMBC
+ - [https://research.umbc.edu](https://research.umbc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home
+ - [https://reslife.umbc.edu](https://reslife.umbc.edu)
+ - date_published: 2024-05-07T21:25:28.582851+00:00
+
+ ## Credit When It's Due – UMBC
+ - [https://reverseaward.umbc.edu](https://reverseaward.umbc.edu)
+ - date_published: 2024-07-02T03:34:07.474689+00:00
+
+ ## Home
+ - [https://rex.umbc.edu](https://rex.umbc.edu)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## rtforms.umbc.edu
+ - [https://rtforms.umbc.edu](https://rtforms.umbc.edu)
+ - date_published: 2019-08-19T15:52:05+00:00
+
+ ## SBS Home
+ - [https://sbs.umbc.edu](https://sbs.umbc.edu)
+ - date_published: 2024-07-02T03:32:47.960624+00:00
+
+ ## Home
+ - [https://scholarships.umbc.edu](https://scholarships.umbc.edu)
+ - date_published: 2024-07-02T03:34:22.049418+00:00
+
+ ## *New* SDS Homepage
+ - [https://sds.umbc.edu](https://sds.umbc.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## UMBC-Shady Grove | UMBC at the Universities at Shady Grove – Undergraduate and Graduate Programs
+ - [https://shadygrove.umbc.edu](https://shadygrove.umbc.edu)
+ - date_published: 2024-07-02T03:33:29.623457+00:00
+
+ ## Student Affairs
+ - [https://studentaffairs.umbc.edu](https://studentaffairs.umbc.edu)
+ - date_published: 2024-07-02T03:32:50.610094+00:00
+
+ ## Undergraduate Council
+ - [http://ugc.umbc.edu](http://ugc.umbc.edu)
+ - date_published: 2024-07-02T03:34:13.222900+00:00
+
+ ## Home
+ - [http://uia.umbc.edu](http://uia.umbc.edu)
+ - date_published: 2024-07-02T03:26:02.915497+00:00
+
+ ## Welcome To UMBC - UMBC: University Of Maryland, Baltimore County
+ - [https://umbc.edu](https://umbc.edu)
+ - date_published: 2023-11-02T22:08:17.285186+00:00
+
+ ## UMBC Undergraduate Admissions Home
+ - [https://undergraduate.umbc.edu](https://undergraduate.umbc.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home
+ - [https://urcad.umbc.edu](https://urcad.umbc.edu)
+ - date_published: 2024-07-02T03:34:50.380040+00:00
+
+ ## Home
+ - [https://ur.umbc.edu](https://ur.umbc.edu)
+ - date_published: 2024-05-07T21:26:20.533258+00:00
+
+ ## Home
+ - [https://usc.umbc.edu](https://usc.umbc.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## https://userpages.umbc.edu
+ - [https://userpages.umbc.edu](https://userpages.umbc.edu)
+ - date_published: 2024-01-09T03:28:34.496004+00:00
+
+ ## Confluence
+ - [https://wiki.umbc.edu](https://wiki.umbc.edu)
+ - date_published: 2024-07-02T03:31:41.755497+00:00
+
+ ## Home
+ - [https://womenscenter.umbc.edu](https://womenscenter.umbc.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Welcome To UMBC - UMBC: University Of Maryland, Baltimore County
+ - [https://www2.umbc.edu](https://www2.umbc.edu)
+ - date_published: 2022-10-31T23:14:43+00:00
+
+ ## Retriever Net: UMBC's Alumni Website
+ - [https://www.alumni.umbc.edu](https://www.alumni.umbc.edu)
+ - date_published: 2024-05-07T21:26:17.983880+00:00
+
+ ## New Home 2024
+ - [http://www.csee.umbc.edu](http://www.csee.umbc.edu)
+ - date_published: 2024-07-02T05:49:13.634280+00:00
+
+ ## UMMC Home
+ - [https://umc.edu](https://umc.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## University of Maryland Center for Environmental Science
+ - [http://www.umces.edu](http://www.umces.edu)
+ - date_published: 2024-07-02T03:20:42+00:00
+
+ ## Homepage | University of Minnesota Crookston
+ - [http://www.umcrookston.edu](http://www.umcrookston.edu)
+ - date_published: 2024-07-13T03:55:01+00:00
+
+ ## Unit Homepage
+ - [https://accessibility.umd.edu](https://accessibility.umd.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Home | Division of Administration
+ - [https://adminvp.umd.edu](https://adminvp.umd.edu)
+ - date_published: 2024-06-29T00:03:18+00:00
+
+ ## Homepage
+ - [https://admissions.umd.edu](https://admissions.umd.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Maryland Applied Graduate Engineering
+ - [https://advancedengineering.umd.edu](https://advancedengineering.umd.edu)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Home | College of Agriculture & Natural Resources at UMD
+ - [http://agnr.umd.edu](http://agnr.umd.edu)
+ - date_published: 2024-07-01T22:00:23+00:00
+
+ ## Home | UMD Alerts
+ - [https://alert.umd.edu](https://alert.umd.edu)
+ - date_published: 2024-07-02T03:35:38.538875+00:00
+
+ ## Home | University of Maryland Alumni Association
+ - [https://alumni.umd.edu](https://alumni.umd.edu)
+ - date_published: 2024-07-02T03:36:10.465072+00:00
+
+ ## Sign in - Google Accounts
+ - [http://arclab.isr.umd.edu](http://arclab.isr.umd.edu)
+ - date_published: 2024-05-04T15:19:45.337931+00:00
+
+ ## Home | College of Arts and Humanities
+ - [https://arhu.umd.edu](https://arhu.umd.edu)
+ - date_published: 2024-06-14T21:26:40+00:00
+
+ ## Home | Arts for All at Maryland
+ - [https://arts.umd.edu](https://arts.umd.edu)
+ - date_published: 2024-07-02T03:37:58+00:00
+
+ ## Student Financial Services and Cashiering
+ - [https://billpay.umd.edu](https://billpay.umd.edu)
+ - date_published: 2024-06-26T16:06:01+00:00
+
+ ## UMIACS Business Office
+ - [https://businessoffice.umiacs.umd.edu](https://businessoffice.umiacs.umd.edu)
+ - date_published: 2024-07-02T03:39:59.080638+00:00
+
+ ## Home
+ - [https://calendar.umd.edu](https://calendar.umd.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Center for Democracy and Civil Engagement | CDCE l Center for Democracy and Civic Engagement
+ - [https://cdce.umd.edu](https://cdce.umd.edu)
+ - date_published: 2024-07-06T20:55:00+00:00
+
+ ## ClarkNet, the Clark School of Engineering Administrative Web Portal | The Clark School Administrative Portal
+ - [https://clarknet.eng.umd.edu](https://clarknet.eng.umd.edu)
+ - date_published: 2024-06-22T08:34:02+00:00
+
+ ## College of Computer, Mathematical, and Natural Sciences | University of Maryland
+ - [https://cmns.umd.edu](https://cmns.umd.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## IU Webmaster redirect
+ - [http://cufflinks.cbcb.umd.edu](http://cufflinks.cbcb.umd.edu)
+ - date_published: 2014-12-10T18:45:40+00:00
+
+ ## DeVos Institute of Arts Management at the University of Maryland
+ - [http://devosinstitute.umd.edu](http://devosinstitute.umd.edu)
+ - date_published: 2024-07-02T03:36:52.617686+00:00
+
+ ## Do Good Robotics Symposium  | October 3-4, 2019 | University of Maryland, College Park
+ - [https://dgrs.umd.edu](https://dgrs.umd.edu)
+ - date_published: 2024-06-22T08:25:41+00:00
+
+ ## Home | UMD Dining Services
+ - [http://dining.umd.edu](http://dining.umd.edu)
+ - date_published: 2024-07-02T03:37:08+00:00
+
+ ## DGI | Do Good Institute
+ - [http://dogood.umd.edu](http://dogood.umd.edu)
+ - date_published: 2024-07-02T03:36:05+00:00
+
+ ## Department of Electrical and Computer Engineering
+ - [https://ece.umd.edu](https://ece.umd.edu)
+ - date_published: 2024-05-04T15:19:47.511806+00:00
+
+ ## University of Maryland College Park Employment Site | Home
+ - [https://ejobs.umd.edu](https://ejobs.umd.edu)
+ - date_published: 2024-05-07T21:26:28.719146+00:00
+
+ ## A. James Clark School of Engineering, University of Maryland
+ - [https://eng.umd.edu](https://eng.umd.edu)
+ - date_published: 2024-06-22T08:33:46+00:00
+
+ ## Home | Environmental Safety, Sustainability and Risk
+ - [https://essr.umd.edu](https://essr.umd.edu)
+ - date_published: 2024-06-27T16:19:13+00:00
+
+ ## Home | University of Maryland Extended Studies
+ - [https://exst.umd.edu](https://exst.umd.edu)
+ - date_published: 2024-07-01T22:03:13+00:00
+
+ ## Office of Faculty Affairs | Office of Faculty Affairs
+ - [https://faculty.umd.edu](https://faculty.umd.edu)
+ - date_published: 2024-07-02T03:39:32.663736+00:00
+
+ ## Office of Student Financial Aid
+ - [https://financialaid.umd.edu](https://financialaid.umd.edu)
+ - date_published: 2024-06-27T16:48:05+00:00
+
+ ## FIRE: The First-Year Innovation & Research Experience
+ - [https://fire.umd.edu](https://fire.umd.edu)
+ - date_published: 2024-07-02T03:37:53.913445+00:00
+
+ ## Support Maryland / Giving at UMD
+ - [https://giving.umd.edu](https://giving.umd.edu)
+ - date_published: 2024-06-13T20:58:30.585527+00:00
+
+ ## URLs
+ - [https://go.umd.edu](https://go.umd.edu)
+ - date_published: 2024-07-02T03:39:41.136616+00:00
+
+ ## Home | The Graduate School
+ - [https://gradschool.umd.edu](https://gradschool.umd.edu)
+ - date_published: 2024-07-02T03:06:41+00:00
+
+ ## Home | Department of Fraternity and Sorority Life
+ - [http://greek.umd.edu](http://greek.umd.edu)
+ - date_published: 2024-07-02T03:37:37.849792+00:00
+
+ ## Mokhtarzada Hatchery at the University of Maryland
+ - [https://hatchery.umd.edu](https://hatchery.umd.edu)
+ - date_published: 2024-07-01T02:51:58.753180+00:00
+
+ ## Human-Data Interaction Group
+ - [https://hdi.cs.umd.edu](https://hdi.cs.umd.edu)
+ - date_published: 2024-03-12T18:25:38+00:00
+
+ ## University of Maryland Health Center | UMD Health Center
+ - [http://health.umd.edu](http://health.umd.edu)
+ - date_published: 2024-07-01T15:44:52+00:00
+
+ ## 2024 IAU GA FM2 Home
+ - [https://iaugas2024.astro.umd.edu](https://iaugas2024.astro.umd.edu)
+ - date_published: 2024-07-01T16:32:12.836747+00:00
+
+ ## Directory Tools
+ - [https://identity.umd.edu](https://identity.umd.edu)
+ - date_published: 2024-05-07T21:26:53.366138+00:00
+
+ ## Home | Immersive Media Design | University of Maryland
+ - [https://imd.umd.edu](https://imd.umd.edu)
+ - date_published: 2024-07-02T03:39:39.520288+00:00
+
+ ## Iribe Initiative for Inclusion and Diversity in Computing | Bringing extraordinary women to computing fields
+ - [https://inclusion.cs.umd.edu](https://inclusion.cs.umd.edu)
+ - date_published: 2024-05-07T21:26:39.666373+00:00
+ - tags: ['dei']
+
+ ## Innovation Starts Here | University of Maryland
+ - [https://innovate.umd.edu](https://innovate.umd.edu)
+ - date_published: 2024-06-27T22:31:32+00:00
+
+ ## Home | Academy for Innovation & Entrepreneurship
+ - [http://innovation.umd.edu](http://innovation.umd.edu)
+ - date_published: 2024-07-02T03:37:45+00:00
+
+ ## UMIACS Intranet
+ - [https://intranet.umiacs.umd.edu](https://intranet.umiacs.umd.edu)
+ - date_published: 2024-06-22T00:21:22+00:00
+
+ ## The Institute for Research in Electronics and Applied Physics
+ - [https://ireap.umd.edu](https://ireap.umd.edu)
+ - date_published: 2024-06-22T08:40:06+00:00
+
+ ## Institute for Systems Research
+ - [https://isr.umd.edu](https://isr.umd.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## ITSC Service Portal - IT Service Desk
+ - [http://itsupport.umd.edu](http://itsupport.umd.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Home | Division of Information Technology
+ - [https://it.umd.edu](https://it.umd.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Joint Quantum Institute
+ - [https://jqi.umd.edu](https://jqi.umd.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Index of /
+ - [http://legacydirs.umiacs.umd.edu](http://legacydirs.umiacs.umd.edu)
+ - date_published: 2024-07-07T09:01:10.173847+00:00
+
+ ## Home | Maryland Global
+ - [https://marylandglobal.umd.edu](https://marylandglobal.umd.edu)
+ - date_published: 2024-07-01T18:59:55+00:00
+
+ ## mnemosyne
+ - [https://mnemosyne.umd.edu](https://mnemosyne.umd.edu)
+ - date_published: 2019-02-15T09:31:02+00:00
+
+ ## Off-Campus Housing Services (OCH) - University of Maryland, College Park
+ - [http://och.umd.edu](http://och.umd.edu)
+ - date_published: 2024-06-28T20:06:17+00:00
+
+ ## Home | Office of Marketing and Communications
+ - [https://osc.umd.edu](https://osc.umd.edu)
+ - date_published: 2024-05-09T05:20:02.382633+00:00
+
+ ## Home | Department of Philosophy
+ - [https://philosophy.umd.edu](https://philosophy.umd.edu)
+ - date_published: 2024-05-01T03:33:04.932130+00:00
+
+ ## University Policies | UMD | University Policies | Home
+ - [https://policies.umd.edu](https://policies.umd.edu)
+ - date_published: 2024-07-02T03:39:19.788620+00:00
+
+ ## Home | Office of Emergency Management and Business Continuity
+ - [http://prepare.umd.edu](http://prepare.umd.edu)
+ - date_published: 2024-07-02T03:25:27.345458+00:00
+
+ ## Home | Office of the President
+ - [https://president.umd.edu](https://president.umd.edu)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Home | The Maryland Promise Scholarship Program
+ - [https://promise.umd.edu](https://promise.umd.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Shibboleth Authentication Request
+ - [http://proxy-sm.researchport.umd.edu](http://proxy-sm.researchport.umd.edu)
+ - date_published: 2024-06-30T01:19:47.214942+00:00
+
+ ## QuICS
+ - [https://quics.umd.edu](https://quics.umd.edu)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Drupal 8 Templates
+ - [https://recwell.umd.edu](https://recwell.umd.edu)
+ - date_published: 2024-07-02T03:36:30.433684+00:00
+
+ ## Home | Office of the University Registrar
+ - [https://registrar.umd.edu](https://registrar.umd.edu)
+ - date_published: 2024-07-02T02:40:29+00:00
+
+ ## UMD Research Home | Division of Research
+ - [https://research.umd.edu](https://research.umd.edu)
+ - date_published: 2024-07-02T03:40:14.521675+00:00
+
+ ## Department of Resident Life - University of Maryland
+ - [http://reslife.umd.edu](http://reslife.umd.edu)
+ - date_published: 2024-07-01T18:06:13+00:00
+
+ ## Maryland Robotics Center
+ - [https://robotics.umd.edu](https://robotics.umd.edu)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Science Academy | College of Computer, Mathematical, and Natural Sciences | University of Maryland
+ - [https://scienceacademy.umd.edu](https://scienceacademy.umd.edu)
+ - date_published: 2024-05-07T21:26:56.514594+00:00
+
+ ## University of Maryland | Search
+ - [https://search.umd.edu](https://search.umd.edu)
+ - date_published: 2023-06-07T21:05:12+00:00
+
+ ## Cyber-Physical Systems Engineering | Cyber-Physical Systems Engineering
+ - [https://shadygrove.ece.umd.edu](https://shadygrove.ece.umd.edu)
+ - date_published: 2024-06-22T09:00:06+00:00
+
+ ## Home | University of Maryland | School of Public Health
+ - [https://sph.umd.edu](https://sph.umd.edu)
+ - date_published: 2023-10-25T19:01:57.872396+00:00
+
+ ## Home | UMD School of Public Policy
+ - [https://spp.umd.edu](https://spp.umd.edu)
+ - date_published: 2024-07-02T03:37:41+00:00
+
+ ## Home | Adele H. Stamp Student Union
+ - [https://stamp.umd.edu](https://stamp.umd.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Home | University of Maryland Strategic Plan
+ - [https://strategicplan.umd.edu](https://strategicplan.umd.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Home | Division of Student Affairs
+ - [http://studentaffairs.umd.edu](http://studentaffairs.umd.edu)
+ - date_published: 2024-07-02T03:37:32.471413+00:00
+
+ ## Summer Session | University of Maryland Extended Studies
+ - [https://summer.umd.edu](https://summer.umd.edu)
+ - date_published: 2024-07-01T22:04:17+00:00
+
+ ## Homepage | SustainableUMD
+ - [https://sustainability.umd.edu](https://sustainability.umd.edu)
+ - date_published: 2024-07-02T03:36:19+00:00
+
+ ## Talks
+ - [https://talks.cs.umd.edu](https://talks.cs.umd.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Theatre, Dance, & Performance Studies | School of Theatre, Dance, and Performance Studies
+ - [http://tdps.umd.edu](http://tdps.umd.edu)
+ - date_published: 2024-07-01T19:38:03+00:00
+
+ ## - TerpLink
+ - [https://terplink.umd.edu](https://terplink.umd.edu)
+ - date_published: 2024-07-02T03:38:02.804319+00:00
+
+ ## Home
+ - [https://terp.umd.edu](https://terp.umd.edu)
+ - date_published: 2024-05-09T05:19:45.983807+00:00
+
+ ## Unit Homepage
+ - [https://terrapinstrong.umd.edu](https://terrapinstrong.umd.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## The Clarice Smith Performing Arts Center
+ - [http://theclarice.umd.edu](http://theclarice.umd.edu)
+ - date_published: 2024-07-02T03:35:57+00:00
+
+ ## Home | Adele H. Stamp Student Union
+ - [http://thestamp.umd.edu](http://thestamp.umd.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Teaching and Learning Transformation Center
+ - [https://tltc.umd.edu](https://tltc.umd.edu)
+ - date_published: 2024-07-02T03:37:52.113368+00:00
+
+ ## Maryland Today | Latest News, Stories & Announcements - University of…
+ - [https://today.umd.edu](https://today.umd.edu)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Home | Transportation Services University of Maryland
+ - [https://transportation.umd.edu](https://transportation.umd.edu)
+ - date_published: 2024-07-02T03:37:59.928052+00:00
+
+ ## Office of Undergraduate Studies
+ - [https://ugst.umd.edu](https://ugst.umd.edu)
+ - date_published: 2024-05-07T18:43:05+00:00
+
+ ## University Human Resources | University Human Resources
+ - [https://uhr.umd.edu](https://uhr.umd.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Home | The University of Maryland
+ - [https://umd.edu](https://umd.edu)
+ - date_published: 2024-07-02T01:35:39+00:00
+
+ ## University of Maryland
+ - [https://umd-header.umd.edu](https://umd-header.umd.edu)
+ - date_published: 2020-04-17T11:16:51+00:00
+
+ ## UMD Right Now | UMD | UMD Right Now
+ - [https://umdrightnow.umd.edu](https://umdrightnow.umd.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## University of Maryland Institute for Advanced Computer Studies | UMIACS
+ - [https://umiacs.umd.edu](https://umiacs.umd.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home | UMPD News
+ - [https://umpdnews.umd.edu](https://umpdnews.umd.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Undergraduate Studies In Computer Science At The University Of Maryland | Undergraduate Computer Science at UMD
+ - [https://undergrad.cs.umd.edu](https://undergrad.cs.umd.edu)
+ - date_published: 2024-05-07T21:26:45.393345+00:00
+
+ ## Home | School of Architecture, Planning & Preservation
+ - [http://www.arch.umd.edu](http://www.arch.umd.edu)
+ - date_published: 2024-07-01T17:56:30+00:00
+
+ ## University of Maryland: Department of Astronomy
+ - [http://www.astro.umd.edu](http://www.astro.umd.edu)
+ - date_published: 2024-05-18T02:46:37.546598+00:00
+
+ ## BSOS
+ - [http://www.bsos.umd.edu](http://www.bsos.umd.edu)
+ - date_published: 2024-07-01T19:52:46+00:00
+
+ ## University Career Center & The President's Promise
+ - [http://www.careercenter.umd.edu](http://www.careercenter.umd.edu)
+ - date_published: 2024-06-28T20:00:33+00:00
+
+ ## Center for Bioinformatics and Computational Biology | CBCB
+ - [https://www.cbcb.umd.edu](https://www.cbcb.umd.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## College of Computer, Mathematical, and Natural Sciences | University of Maryland
+ - [http://www.cmns.umd.edu](http://www.cmns.umd.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Home | Counseling Center
+ - [http://www.counseling.umd.edu](http://www.counseling.umd.edu)
+ - date_published: 2024-06-11T14:27:08+00:00
+
+ ## Welcome | UMD Department of Computer Science
+ - [https://cs.umd.edu](https://cs.umd.edu)
+ - date_published: 2023-10-25T19:02:00.597734+00:00
+
+ ## Maryland Cybersecurity Center
+ - [http://www.cyber.umd.edu](http://www.cyber.umd.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Our Community | Office of Diversity and Inclusion
+ - [https://www.diversity.umd.edu](https://www.diversity.umd.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Home | The David C. Driskell Center
+ - [http://www.driskellcenter.umd.edu](http://www.driskellcenter.umd.edu)
+ - date_published: 2024-06-29T01:52:02+00:00
+
+ ## Home | UMD College of Education
+ - [http://www.education.umd.edu](http://www.education.umd.edu)
+ - date_published: 2024-07-01T22:11:19+00:00
+
+ ## Office of Student Financial Aid
+ - [http://www.financialaid.umd.edu](http://www.financialaid.umd.edu)
+ - date_published: 2024-06-27T16:48:05+00:00
+
+ ## Home - University Of Maryland Golf Course
+ - [https://www.golf.umd.edu](https://www.golf.umd.edu)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Home | The Graduate School
+ - [http://www.gradschool.umd.edu](http://www.gradschool.umd.edu)
+ - date_published: 2024-07-02T03:06:41+00:00
+
+ ## Home - University of Maryland Honors College
+ - [http://www.honors.umd.edu](http://www.honors.umd.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Home | ICONS Project
+ - [https://icons.umd.edu](https://icons.umd.edu)
+ - date_published: 2024-05-09T05:23:40.660768+00:00
+
+ ## Home
+ - [http://www.ipst.umd.edu](http://www.ipst.umd.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## UMD College of Information - Information and Technology for Good
+ - [http://www.ischool.umd.edu](http://www.ischool.umd.edu)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Philip Merrill College of Journalism | University of Maryland | Philip Merrill College of Journalism
+ - [http://www.journalism.umd.edu](http://www.journalism.umd.edu)
+ - date_published: 2024-07-01T19:13:39+00:00
+
+ ## University Libraries
+ - [http://www.lib.umd.edu](http://www.lib.umd.edu)
+ - date_published: 2024-07-02T03:37:15.112086+00:00
+
+ ## Department of Mathematics - Home
+ - [https://www-math.umd.edu](https://www-math.umd.edu)
+ - date_published: 2024-06-30T02:49:38+00:00
+
+ ## School of Music | School of Music
+ - [https://www.music.umd.edu](https://www.music.umd.edu)
+ - date_published: 2024-07-01T19:45:30+00:00
+
+ ## The Norbert Wiener Center for Harmonic Analysis and Applications
+ - [https://www.norbertwiener.umd.edu](https://www.norbertwiener.umd.edu)
+ - date_published: 2024-06-30T03:00:21.912855+00:00
+
+ ## The Office of Civil Rights and Sexual Misconduct
+ - [https://ocrsm.umd.edu](https://ocrsm.umd.edu)
+ - date_published: 2024-05-07T21:26:36.361131+00:00
+
+ ## Welcome to the Maryland Population Research Center — Maryland Population Research Center
+ - [https://www.popcenter.umd.edu](https://www.popcenter.umd.edu)
+ - date_published: 2024-04-30T03:50:06.126217+00:00
+
+ ## Reimagining Teaching and Learning at UMD  The… | Office of the Provost
+ - [https://provost.umd.edu](https://provost.umd.edu)
+ - date_published: 2024-05-07T21:26:42.608062+00:00
+
+ ## Quantum Technology Center
+ - [https://www.qtc.umd.edu](https://www.qtc.umd.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home | Office of the University Registrar
+ - [http://www.registrar.umd.edu](http://www.registrar.umd.edu)
+ - date_published: 2024-07-02T02:40:29+00:00
+
+ ## UMD Research Home | Division of Research
+ - [http://www.research.umd.edu](http://www.research.umd.edu)
+ - date_published: 2024-07-02T03:37:27.155188+00:00
+
+ ## Home | Maryland Smith
+ - [http://www.rhsmith.umd.edu](http://www.rhsmith.umd.edu)
+ - date_published: 2024-07-12T20:27:29+00:00
+
+ ## College Park Scholars | University of Maryland
+ - [http://www.scholars.umd.edu](http://www.scholars.umd.edu)
+ - date_published: 2024-07-02T03:37:55.462499+00:00
+
+ ## The Universities at Shady Grove |
+ - [https://www.shadygrove.umd.edu](https://www.shadygrove.umd.edu)
+ - date_published: 2024-07-02T02:42:05+00:00
+
+ ## Home | Maryland Smith
+ - [http://www.smith.umd.edu](http://www.smith.umd.edu)
+ - date_published: 2024-07-01T20:04:20+00:00
+
+ ## Home | START.umd.edu
+ - [https://www.start.umd.edu](https://www.start.umd.edu)
+ - date_published: 2024-06-17T10:47:38.565926+00:00
+
+ ## Master's In Telecommunications Program | Industry-focused graduate program for telecommunication professionals
+ - [http://www.telecom.umd.edu](http://www.telecom.umd.edu)
+ - date_published: 2024-06-22T09:00:04.875766+00:00
+
+ ## TESTUDO | Office of the Registrar
+ - [http://www.testudo.umd.edu](http://www.testudo.umd.edu)
+ - date_published: 2024-05-15T11:57:32+00:00
+
+ ## NSF Institute for Trustworthy AI in Law & Society (TRAILS)
+ - [https://www.trails.umd.edu](https://www.trails.umd.edu)
+ - date_published: 2024-07-02T03:40:05.019651+00:00
+
+ ## University of Maryland Police - Dept. of Public Safety
+ - [https://www.umpd.umd.edu](https://www.umpd.umd.edu)
+ - date_published: 2024-05-07T21:26:32.327819+00:00
+
+ ## University of Michigan-Dearborn | University of Michigan-Dearborn
+ - [https://umdearborn.edu](https://umdearborn.edu)
+ - date_published: 2024-02-24T18:06:35.384429+00:00
+
+ ## University of Maryland Eastern Shore | The Eastern Shore's Doctoral Research Institution
+ - [http://www.umes.edu](http://www.umes.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home of the Bengals | UMFK Athletics
+ - [https://athletics.umfk.edu](https://athletics.umfk.edu)
+ - date_published: 2024-05-07T21:27:36.965110+00:00
+
+ ## University of Maine at Fort Kent - Campus Store
+ - [https://campusstore.umfk.edu](https://campusstore.umfk.edu)
+ - date_published: 2024-05-07T21:27:42.767417+00:00
+
+ ## University of Maine at Fort Kent - Acalog ACMS™
+ - [https://catalog.umfk.edu](https://catalog.umfk.edu)
+ - date_published: 2024-05-07T21:27:32.625402+00:00
+
+ ## Please select your identity provider. - UMFK - UMS
+ - [https://my.umfk.edu](https://my.umfk.edu)
+ - date_published: 2024-07-01T02:52:23.781146+00:00
+
+ ## University of Maine at Fort Kent - UMFK
+ - [https://umfk.edu](https://umfk.edu)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## University of Michigan - Flint - Acalog ACMS™
+ - [http://catalog.umflint.edu](http://catalog.umflint.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## CDN | University of Michigan-Flint
+ - [https://cdn.umflint.edu](https://cdn.umflint.edu)
+ - date_published: 2021-12-22T19:23:00+00:00
+
+ ## Weblogin | University of Michigan-Flint
+ - [https://go.umflint.edu](https://go.umflint.edu)
+ - date_published: 2024-07-02T03:41:23.633555+00:00
+
+ ## Weblogin | University of Michigan-Flint
+ - [https://intranet.umflint.edu](https://intranet.umflint.edu)
+ - date_published: 2024-07-02T03:40:46.273311+00:00
+
+ ## VMware Horizon
+ - [https://labanywhere.umflint.edu](https://labanywhere.umflint.edu)
+ - date_published: 2024-07-02T03:41:19.259377+00:00
+
+ ## LibGuides
+ - [https://libguides.umflint.edu](https://libguides.umflint.edu)
+ - date_published: 2024-07-02T03:40:43.961503+00:00
+
+ ## Campus Map – University of Michigan-Flint
+ - [https://maps.umflint.edu](https://maps.umflint.edu)
+ - date_published: 2024-07-02T03:41:13.583824+00:00
+
+ ## Weblogin | University of Michigan-Flint
+ - [https://my.umflint.edu](https://my.umflint.edu)
+ - date_published: 2024-07-02T03:41:18.177070+00:00
+
+ ## UM-Flint NOW
+ - [https://news.umflint.edu](https://news.umflint.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Weblogin | University of Michigan-Flint
+ - [https://pay.umflint.edu](https://pay.umflint.edu)
+ - date_published: 2024-07-02T03:41:21.368761+00:00
+
+ ## University of Michigan-Flint – UM-Flint
+ - [https://umflint.edu](https://umflint.edu)
+ - date_published: 2024-06-16T11:47:29.972882+00:00
+
+ ## Faculty, Adjunct, and University Jobs | UMGC Careers
+ - [https://careers.umgc.edu](https://careers.umgc.edu)
+ - date_published: 2024-07-02T03:25:32.702711+00:00
+
+ ## University of Maryland Global Campus | UMGC
+ - [https://www.umgc.edu](https://www.umgc.edu)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## IT Accessibility at the University of Michigan | accessibility.umich.edu
+ - [https://accessibility.umich.edu](https://accessibility.umich.edu)
+ - date_published: 2024-05-11T09:25:02.272773+00:00
+
+ ## Associate Dean for Academic Affairs – About the Associate Dean for Academic Affairs
+ - [https://adaa.engin.umich.edu](https://adaa.engin.umich.edu)
+ - date_published: 2024-07-02T03:52:58+00:00
+
+ ## Associate Dean for Graduate & Professional Education – Home for the Associate Dean for Graduate & Professional Education
+ - [https://adgpe.engin.umich.edu](https://adgpe.engin.umich.edu)
+ - date_published: 2024-05-07T21:28:47.525218+00:00
+
+ ## Home | University of Michigan Office of Undergraduate Admissions
+ - [https://admissions.umich.edu](https://admissions.umich.edu)
+ - date_published: 2024-06-13T17:09:38+00:00
+
+ ## Associate Dean for Research – Home for the Associate Dean for Research
+ - [https://adr.engin.umich.edu](https://adr.engin.umich.edu)
+ - date_published: 2024-07-02T03:53:03+00:00
+
+ ## Associate Dean for Undergraduate Education |
+ - [https://adue.engin.umich.edu](https://adue.engin.umich.edu)
+ - date_published: 2024-05-07T21:28:24.740306+00:00
+
+ ## Advancement – Office of Advancement, College of Engineering
+ - [https://advancement.engin.umich.edu](https://advancement.engin.umich.edu)
+ - date_published: 2024-07-02T03:53:20+00:00
+
+ ## Index of /
+ - [https://ai.eecs.umich.edu](https://ai.eecs.umich.edu)
+ - date_published: 2023-10-25T19:02:06.146914+00:00
+
+ ## Alumni Association of the University of Michigan
+ - [http://alumni.umich.edu](http://alumni.umich.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## ADW: Home
+ - [https://animaldiversity.ummz.umich.edu](https://animaldiversity.ummz.umich.edu)
+ - date_published: 2024-05-07T22:31:35.712086+00:00
+
+ ## University of Michigan Library
+ - [https://apps.lib.umich.edu](https://apps.lib.umich.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## APRIL Laboratory APRIL Laboratory : Autonomy * Perception * Robotics * Interfaces * Learning
+ - [https://april.eecs.umich.edu](https://april.eecs.umich.edu)
+ - date_published: 2024-06-17T03:06:00.561030+00:00
+
+ ## Home - Arts at Michigan
+ - [https://artsatmichigan.umich.edu](https://artsatmichigan.umich.edu)
+ - date_published: 2024-07-02T03:55:26.980270+00:00
+
+ ## Homepage | Arts & Culture
+ - [https://arts.umich.edu](https://arts.umich.edu)
+ - date_published: 2024-05-07T21:29:05.670819+00:00
+
+ ## Home | Research A to Z
+ - [https://az.research.umich.edu](https://az.research.umich.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Blog | University of Michigan Press
+ - [http://blog.press.umich.edu](http://blog.press.umich.edu)
+ - date_published: 2024-06-17T14:08:58+00:00
+
+ ## Brand & Visual Identity – University of Michigan – Brand and Visual Identity
+ - [https://brand.umich.edu](https://brand.umich.edu)
+ - date_published: 2024-07-02T03:48:46.293377+00:00
+
+ ## Biomedical Research Core Facilities (BRCF) | University of Michigan Medical School Research
+ - [https://brcf.medicine.umich.edu](https://brcf.medicine.umich.edu)
+ - date_published: 2024-07-01T22:25:06+00:00
+
+ ## CAEN – Michigan Engineering Information Technology
+ - [https://caen.engin.umich.edu](https://caen.engin.umich.edu)
+ - date_published: 2024-07-02T03:53:08+00:00
+
+ ## Knowledge Base
+ - [http://caenfaq.engin.umich.edu](http://caenfaq.engin.umich.edu)
+ - date_published: 2024-07-02T03:52:22.332237+00:00
+
+ ## U-M Health Response | U-M Health Response
+ - [https://campusblueprint.umich.edu](https://campusblueprint.umich.edu)
+ - date_published: 2024-06-30T02:16:13.961586+00:00
+
+ ## Questions? Click. Connect. | Campus Information
+ - [https://campusinfo.umich.edu](https://campusinfo.umich.edu)
+ - date_published: 2024-06-04T18:34:18+00:00
+
+ ## U-M Weblogin - Loading Session Information
+ - [https://canvas.flint.umich.edu](https://canvas.flint.umich.edu)
+ - date_published: 2024-07-02T03:41:04.489923+00:00
+
+ ## U-M Weblogin - Loading Session Information
+ - [https://canvas.umd.umich.edu](https://canvas.umd.umich.edu)
+ - date_published: 2024-07-02T03:46:47.141822+00:00
+
+ ## U-M Canvas
+ - [https://canvas.umich.edu](https://canvas.umich.edu)
+ - date_published: 2023-08-31T19:25:31+00:00
+
+ ## Welcome to Counseling and Psychological Services (CAPS) | U-M Counseling and Psychological Services
+ - [https://caps.umich.edu](https://caps.umich.edu)
+ - date_published: 2024-07-01T16:10:43+00:00
+
+ ## Home | U-M Careers
+ - [https://careers.umich.edu](https://careers.umich.edu)
+ - date_published: 2024-05-07T14:56:57.185321+00:00
+
+ ## MLaw Class Schedule+
+ - [https://classes.law.umich.edu](https://classes.law.umich.edu)
+ - date_published: 2024-05-16T20:50:23+00:00
+
+ ## Home - UM Clements Library
+ - [https://clements.umich.edu](https://clements.umich.edu)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## https://click.dev.umich.edu
+ - [https://click.dev.umich.edu](https://click.dev.umich.edu)
+ - date_published: 2024-02-08T18:21:01.277345+00:00
+
+ ## Office of Communications & Marketing – Michigan Engineering Communications & Marketing
+ - [https://cm.engin.umich.edu](https://cm.engin.umich.edu)
+ - date_published: 2024-07-02T03:53:18+00:00
+
+ ## Ethics, Integrity & Compliance | Univeristy of Michigan
+ - [https://compliancehotline.umich.edu](https://compliancehotline.umich.edu)
+ - date_published: 2024-07-02T03:53:57.405149+00:00
+
+ ## Ethics, Integrity & Compliance | Univeristy of Michigan
+ - [https://compliance.umich.edu](https://compliance.umich.edu)
+ - date_published: 2024-07-14T04:43:26.153070+00:00
+
+ ## LSA Course Sites – Course Sites
+ - [https://courses.lsa.umich.edu](https://courses.lsa.umich.edu)
+ - date_published: 2024-05-11T09:25:00.078533+00:00
+
+ ## Center for Political Studies |
+ - [https://cps.isr.umich.edu](https://cps.isr.umich.edu)
+ - date_published: 2024-07-01T18:24:51+00:00
+
+ ## Michigan Creative
+ - [https://creative.umich.edu](https://creative.umich.edu)
+ - date_published: 2024-05-07T21:27:51.513893+00:00
+
+ ## Center for the Study of Complex Systems | U-M LSA Center for the Study of Complex Systems
+ - [http://cscs.umich.edu](http://cscs.umich.edu)
+ - date_published: 2024-06-30T05:42:16.270014+00:00
+
+ ## DEI and Climate | Computer Science and Engineering at Michigan
+ - [https://cse-climate.engin.umich.edu](https://cse-climate.engin.umich.edu)
+ - date_published: 2024-07-03T03:21:42.331119+00:00
+
+ ## Computer Science and Engineering at Michigan
+ - [https://cse.engin.umich.edu](https://cse.engin.umich.edu)
+ - date_published: 2024-05-08T12:34:03.112071+00:00
+
+ ## Computer Science and Engineering at Michigan
+ - [https://cse.umich.edu](https://cse.umich.edu)
+ - date_published: 2024-06-22T08:35:45+00:00
+
+ ## Homepage | Center for Sustainable Systems
+ - [https://css.umich.edu](https://css.umich.edu)
+ - date_published: 2023-10-25T19:02:12.673588+00:00
+
+ ## Office of Culture, Community and Equity (OCCE) – Office of Culture, Community and Equity Website
+ - [https://culture.engin.umich.edu](https://culture.engin.umich.edu)
+ - date_published: 2024-07-02T03:53:06+00:00
+
+ ## Deep Blue Repositories
+ - [https://deepblue.lib.umich.edu](https://deepblue.lib.umich.edu)
+ - date_published: 2024-05-07T21:29:31.143545+00:00
+
+ ## redirect
+ - [http://dept.math.lsa.umich.edu](http://dept.math.lsa.umich.edu)
+ - date_published: 2024-07-07T06:54:09.372507+00:00
+
+ ## Home
+ - [https://design-system.lib.umich.edu](https://design-system.lib.umich.edu)
+ - date_published: 2024-06-17T14:11:54.494500+00:00
+
+ ## EACS - Engineering Administration Computer Support
+ - [https://eacs.engin.umich.edu](https://eacs.engin.umich.edu)
+ - date_published: 2024-07-02T03:53:12+00:00
+
+ ## Electrical & Computer Engineering at Michigan
+ - [https://ece.engin.umich.edu](https://ece.engin.umich.edu)
+ - date_published: 2024-07-02T04:03:52+00:00
+
+ ## Electrical & Computer Engineering at Michigan
+ - [http://ece.umich.edu](http://ece.umich.edu)
+ - date_published: 2024-06-22T11:47:28+00:00
+
+ ## Home | Equity, Civil Rights & Title IX Office
+ - [https://ecrt.umich.edu](https://ecrt.umich.edu)
+ - date_published: 2024-07-02T03:51:28.259556+00:00
+
+ ## School of Education
+ - [https://education.mivideo.it.umich.edu](https://education.mivideo.it.umich.edu)
+ - date_published: 2024-06-30T02:12:10+00:00
+
+ ## Electrical Engineering and Computer Science at the University of Michigan
+ - [https://eecs.engin.umich.edu](https://eecs.engin.umich.edu)
+ - date_published: 2024-07-02T04:03:53+00:00
+
+ ## Matt Raymond receives Beyster Fellowship to support research on nanoscale particle design
+ - [https://eecsnews.engin.umich.edu](https://eecsnews.engin.umich.edu)
+ - date_published: 2024-07-02T04:03:59.077383+00:00
+
+ ## Electrical Engineering and Computer Science at the University of Michigan
+ - [http://eecs.umich.edu](http://eecs.umich.edu)
+ - date_published: 2024-06-30T08:55:48+00:00
+
+ ## Engineering Education Research
+ - [https://eer.engin.umich.edu](https://eer.engin.umich.edu)
+ - date_published: 2024-06-30T02:12:34+00:00
+
+ ## Environment, Health & Safety
+ - [https://ehs.umich.edu](https://ehs.umich.edu)
+ - date_published: 2024-07-02T03:53:41.809237+00:00
+
+ ## U-M Weblogin - Loading Session Information
+ - [https://email.umich.edu](https://email.umich.edu)
+ - date_published: 2024-07-01T02:52:13.521417+00:00
+
+ ## Engaged Michigan
+ - [https://engaged.umich.edu](https://engaged.umich.edu)
+ - date_published: 2024-05-07T21:29:08.575763+00:00
+
+ ## University of Michigan: College of Engineering
+ - [https://engin.umich.edu](https://engin.umich.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## UM ESC
+ - [https://esc.umich.edu](https://esc.umich.edu)
+ - date_published: 2024-07-03T11:57:39+00:00
+
+ ## Español
+ - [http://espanol.umich.edu](http://espanol.umich.edu)
+ - date_published: 2024-06-16T11:47:35.575611+00:00
+
+ ## Happening @ Michigan
+ - [http://events.umich.edu](http://events.umich.edu)
+ - date_published: 2024-06-16T11:47:53.730508+00:00
+
+ ## U-M Film Office
+ - [https://filmoffice.vpcomm.umich.edu](https://filmoffice.vpcomm.umich.edu)
+ - date_published: 2024-07-02T03:48:39+00:00
+
+ ## Ford School homepage
+ - [https://fordschool.umich.edu](https://fordschool.umich.edu)
+ - date_published: 2024-07-02T03:07:02+00:00
+
+ ## POST data
+ - [https://gateway.lsa.umich.edu](https://gateway.lsa.umich.edu)
+ - date_published: 2024-06-30T02:13:20.652838+00:00
+
+ ## Giving at Michigan Medicine
+ - [https://giving.medicine.umich.edu](https://giving.medicine.umich.edu)
+ - date_published: 2024-07-01T22:56:41+00:00
+
+ ## Your Passion. Your Impact. - Michigan Giving
+ - [https://giving.umich.edu](https://giving.umich.edu)
+ - date_published: 2024-05-07T21:27:54.104840+00:00
+
+ ## Home | Global Michigan
+ - [https://global.umich.edu](https://global.umich.edu)
+ - date_published: 2024-05-07T21:28:59.379833+00:00
+
+ ## Research Guides
+ - [https://guides.lib.umich.edu](https://guides.lib.umich.edu)
+ - date_published: 2024-07-02T03:50:19.325349+00:00
+
+ ## Subject Guides
+ - [https://guides.umd.umich.edu](https://guides.umd.umich.edu)
+ - date_published: 2024-07-02T03:46:49.901896+00:00
+
+ ## Computing Education Research
+ - [https://guzdial.engin.umich.edu](https://guzdial.engin.umich.edu)
+ - date_published: 2024-05-07T14:56:25.236437+00:00
+
+ ## Login - Michigan Medicine - Help Center
+ - [https://help.med.umich.edu](https://help.med.umich.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Home
+ - [https://heritage.umich.edu](https://heritage.umich.edu)
+ - date_published: 2024-07-02T03:56:17+00:00
+
+ ## Health Information Technology & Services
+ - [https://hits.medicine.umich.edu](https://hits.medicine.umich.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Human Resources University of Michigan
+ - [https://hr.umich.edu](https://hr.umich.edu)
+ - date_published: 2024-06-30T02:10:33+00:00
+
+ ## Immersed - Immersed
+ - [http://immersed.engin.umich.edu](http://immersed.engin.umich.edu)
+ - date_published: 2022-09-08T00:00:00+00:00
+
+ ## U-M Inclusive History Project
+ - [https://inclusivehistory.umich.edu](https://inclusivehistory.umich.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## International Center
+ - [https://internationalcenter.umich.edu](https://internationalcenter.umich.edu)
+ - date_published: 2024-06-30T01:59:31+00:00
+
+ ## Michigan Engineering Intranet – Michigan Engineering Intranet
+ - [https://intranet.engin.umich.edu](https://intranet.engin.umich.edu)
+ - date_published: 2024-05-07T21:28:39.228859+00:00
+
+ ## U-M Weblogin - Loading Session Information
+ - [https://intranet.isr.umich.edu](https://intranet.isr.umich.edu)
+ - date_published: 2024-07-02T04:02:01.281755+00:00
+
+ ## Knowledge Base – Taubman College Intranet
+ - [https://intranet.tcaup.umich.edu](https://intranet.tcaup.umich.edu)
+ - date_published: 2024-07-08T14:53:26.669957+00:00
+
+ ## Institute for Social Research
+ - [https://isr.umich.edu](https://isr.umich.edu)
+ - date_published: 2024-05-07T21:29:21.885598+00:00
+
+ ## Michigan Engineering IT – Information Technology at the U-M College of Engineering
+ - [https://it.engin.umich.edu](https://it.engin.umich.edu)
+ - date_published: 2024-07-02T03:53:10+00:00
+
+ ## ITS Home Page / U-M Information and Technology Services
+ - [https://its.umich.edu](https://its.umich.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## U-M Office of the VPIT-CIO | Office of the VPIT-CIO | University of Michigan
+ - [https://it.umich.edu](https://it.umich.edu)
+ - date_published: 2024-06-16T06:07:18+00:00
+
+ ## David Jurgens
+ - [http://jurgens.people.si.umich.edu](http://jurgens.people.si.umich.edu)
+ - date_published: 2024-06-17T01:16:00+00:00
+
+ ## Your Passion. Your Impact. - Michigan Giving
+ - [https://leadersandbest.umich.edu](https://leadersandbest.umich.edu)
+ - date_published: 2024-06-30T02:16:19+00:00
+
+ ## Homepage - Leinweber
+ - [https://leinweber.bldg.umich.edu](https://leinweber.bldg.umich.edu)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Library - U-M Library MediaSpace | MiVideo
+ - [https://lib.mivideo.it.umich.edu](https://lib.mivideo.it.umich.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Mardigian Library
+ - [https://library.umd.umich.edu](https://library.umd.umich.edu)
+ - date_published: 2024-05-07T21:27:20.775339+00:00
+
+ ## Language Information and Technologies
+ - [https://lit.eecs.umich.edu](https://lit.eecs.umich.edu)
+ - date_published: 2002-01-01T00:00:00+00:00
+
+ ## Home: Liyue Shen
+ - [https://liyueshen.engin.umich.edu](https://liyueshen.engin.umich.edu)
+ - date_published: 2024-07-12T08:16:46.004645+00:00
+
+ ## College of LSA | U-M LSA U-M College of LSA
+ - [https://lsa.umich.edu](https://lsa.umich.edu)
+ - date_published: 2024-05-07T14:56:35.487227+00:00
+
+ ## Home Page - Logistics, Transportation & Parking
+ - [https://ltp.umich.edu](https://ltp.umich.edu)
+ - date_published: 2024-07-02T03:53:49.431809+00:00
+
+ ## IAM Tools and Resources
+ - [https://lvl2.med.umich.edu](https://lvl2.med.umich.edu)
+ - date_published: 2024-07-02T03:52:01.807947+00:00
+
+ ## MaizeRaise
+ - [https://maizeraise.umich.edu](https://maizeraise.umich.edu)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Michigan Engineering | University of Michigan
+ - [https://majors.engin.umich.edu](https://majors.engin.umich.edu)
+ - date_published: 2024-07-02T03:51:50.858297+00:00
+
+ ## University of Michigan Marsal Family School of Education
+ - [https://marsal.umich.edu](https://marsal.umich.edu)
+ - date_published: 2024-06-28T19:34:07+00:00
+
+ ## Home | Master's Degrees at Michigan Engineering | University of Michigan College of Engineering
+ - [https://masters.engin.umich.edu](https://masters.engin.umich.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## MCommunity
+ - [https://mcommunity.umich.edu](https://mcommunity.umich.edu)
+ - date_published: 2023-11-03T00:47:03+00:00
+
+ ## Michigan Center for Translational Pathology
+ - [http://mctp.med.umich.edu](http://mctp.med.umich.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Michigan Media
+ - [https://media.umich.edu](https://media.umich.edu)
+ - date_published: 2024-07-02T03:48:54+00:00
+
+ ## Michigan Medicine
+ - [https://medicine.umich.edu](https://medicine.umich.edu)
+ - date_published: 2024-01-05T20:59:14.155377+00:00
+
+ ## Michigan Medicine Research Home | University of Michigan Medical School Research
+ - [https://medresearch.umich.edu](https://medresearch.umich.edu)
+ - date_published: 2024-05-08T10:12:32.486876+00:00
+
+ ## Education Homepage | University of Michigan Medical School
+ - [https://medschool.umich.edu](https://medschool.umich.edu)
+ - date_published: 2024-05-08T10:12:35.252467+00:00
+
+ ## HTML Meta Tag
+ - [https://med.umich.edu](https://med.umich.edu)
+ - date_published: 2024-05-07T21:27:59.024269+00:00
+
+ ## For the Michigan IT Community | Office of the VPIT-CIO | University of Michigan
+ - [https://michigan.it.umich.edu](https://michigan.it.umich.edu)
+ - date_published: 2024-06-16T07:33:14+00:00
+
+ ## University of Michigan Law School
+ - [https://michigan.law.umich.edu](https://michigan.law.umich.edu)
+ - date_published: 2024-05-07T21:29:27.768410+00:00
+
+ ## Home
+ - [https://michigantoday.umich.edu](https://michigantoday.umich.edu)
+ - date_published: 2024-05-07T21:29:13.012105+00:00
+
+ ## MISC
+ - [http://misc.si.umich.edu](http://misc.si.umich.edu)
+ - date_published: 2024-07-03T15:50:48.402482+00:00
+
+ ## University of Michigan Pathology | MLabs
+ - [https://mlabs.umich.edu](https://mlabs.umich.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## U-M Weblogin - Loading Session Information
+ - [http://mlawadmin.law.umich.edu](http://mlawadmin.law.umich.edu)
+ - date_published: 2024-07-02T04:03:27.529829+00:00
+
+ ## MLEAD at University of Michigan | U of M Leadership Education
+ - [https://mlead.umich.edu](https://mlead.umich.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home
+ - [https://mmgl.med.umich.edu](https://mmgl.med.umich.edu)
+ - date_published: 2024-07-02T03:50:28.710015+00:00
+
+ ## U-M Weblogin - Loading Session Information
+ - [https://msa.med.umich.edu](https://msa.med.umich.edu)
+ - date_published: 2024-07-02T03:49:42.021715+00:00
+
+ ## UMich MSE
+ - [https://mse.engin.umich.edu](https://mse.engin.umich.edu)
+ - date_published: 2024-05-12T05:16:53.209449+00:00
+
+ ## MySOE
+ - [https://my.soe.umich.edu](https://my.soe.umich.edu)
+ - date_published: 2024-06-30T02:12:21+00:00
+
+ ## Engineering Research News - Michigan Engineering News
+ - [https://news.engin.umich.edu](https://news.engin.umich.edu)
+ - date_published: 2023-10-25T19:02:17.444168+00:00
+
+ ## University of Michigan News
+ - [https://news.umich.edu](https://news.umich.edu)
+ - date_published: 2023-10-25T19:02:26.050077+00:00
+
+ ## Home
+ - [http://nexus.engin.umich.edu](http://nexus.engin.umich.edu)
+ - date_published: 2024-07-02T03:54:08+00:00
+
+ ## Office of Budget and Planning
+ - [https://obp.umich.edu](https://obp.umich.edu)
+ - date_published: 2024-06-16T06:16:20+00:00
+
+ ## Home | Equity, Civil Rights & Title IX Office
+ - [https://oie.umich.edu](https://oie.umich.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Michigan Photography
+ - [http://photography.umich.edu](http://photography.umich.edu)
+ - date_published: 2024-07-02T00:18:21+00:00
+
+ ## Home
+ - [https://planetblue.umich.edu](https://planetblue.umich.edu)
+ - date_published: 2024-06-16T11:48:03.637548+00:00
+
+ ## PRBA | The Program for Research on Black Americans
+ - [https://prba.isr.umich.edu](https://prba.isr.umich.edu)
+ - date_published: 2024-02-08T17:48:53.662680+00:00
+
+ ## Office of the President
+ - [https://president.umich.edu](https://president.umich.edu)
+ - date_published: 2024-05-04T06:11:00.310049+00:00
+
+ ## University of Michigan Press
+ - [https://press.umich.edu](https://press.umich.edu)
+ - date_published: 2024-06-17T14:11:39+00:00
+
+ ## Procurement Services - University of Michigan | Finance Customer Care
+ - [https://procurement.umich.edu](https://procurement.umich.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Proxy Server Problem
+ - [https://proxy.lib.umich.edu](https://proxy.lib.umich.edu)
+ - date_published: 2024-06-30T01:28:39.049813+00:00
+
+ ## The Institute for Social Research Population Studies Center |
+ - [https://psc.isr.umich.edu](https://psc.isr.umich.edu)
+ - date_published: 2024-07-01T18:35:41+00:00
+
+ ## U-M Public Affairs
+ - [https://publicaffairs.vpcomm.umich.edu](https://publicaffairs.vpcomm.umich.edu)
+ - date_published: 2024-05-07T21:28:53.650630+00:00
+
+ ## Homepage | Law Quadrangle
+ - [https://quadrangle.law.umich.edu](https://quadrangle.law.umich.edu)
+ - date_published: 2024-06-19T14:14:57+00:00
+
+ ## Homepage | Law Quadrangle
+ - [https://quadrangle.michigan.law.umich.edu](https://quadrangle.michigan.law.umich.edu)
+ - date_published: 2024-06-25T18:12:17+00:00
+
+ ## U-M Library Digital Collections
+ - [http://quod.lib.umich.edu](http://quod.lib.umich.edu)
+ - date_published: 2024-06-30T04:28:05.711370+00:00
+
+ ## Research Center for Group Dynamics |
+ - [https://rcgd.isr.umich.edu](https://rcgd.isr.umich.edu)
+ - date_published: 2024-05-07T21:29:17.799449+00:00
+
+ ## The University Record
+ - [https://record.umich.edu](https://record.umich.edu)
+ - date_published: 2024-04-20T14:55:31.813935+00:00
+ - tags: ['university news']
+
+ ## Homepage
+ - [https://regents.umich.edu](https://regents.umich.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Office of the Registrar
+ - [https://registrar.engin.umich.edu](https://registrar.engin.umich.edu)
+ - date_published: 2024-07-02T03:53:02+00:00
+
+ ## Equity, Civil Rights, and Title IX Offices
+ - [https://report.ecrt.umich.edu](https://report.ecrt.umich.edu)
+ - date_published: 2024-06-16T11:47:42.612426+00:00
+
+ ## University of Michigan Law School Scholarship Repository
+ - [https://repository.law.umich.edu](https://repository.law.umich.edu)
+ - date_published: 2023-10-25T19:02:35.321840+00:00
+
+ ## Office of Research
+ - [https://research.medicine.umich.edu](https://research.medicine.umich.edu)
+ - date_published: 2024-05-07T21:28:02.926633+00:00
+
+ ## Research to Serve the World
+ - [https://research.umich.edu](https://research.umich.edu)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## LibCal -
+        University of Michigan Law Library
+ - [https://reservations.law.umich.edu](https://reservations.law.umich.edu)
+ - date_published: 2024-06-20T01:56:32.779144+00:00
+
+ ## Resilient Traveling
+ - [https://resilient-traveling.umich.edu](https://resilient-traveling.umich.edu)
+ - date_published: 2024-07-02T01:42:30+00:00
+
+ ## Michigan Robotics | University of Michigan
+ - [https://robotics.umich.edu](https://robotics.umich.edu)
+ - date_published: 2013-07-09T19:23:43+00:00
+
+ ## Home | Office of the Registrar
+ - [https://ro.umich.edu](https://ro.umich.edu)
+ - date_published: 2024-06-16T11:47:32+00:00
+
+ ## Resource Planning and Management – Home for Resource Planning and Management at the College of Engineering
+ - [https://rpm.engin.umich.edu](https://rpm.engin.umich.edu)
+ - date_published: 2024-07-02T03:53:16+00:00
+
+ ## U-M Safe Computing / safecomputing.umich.edu
+ - [https://safecomputing.umich.edu](https://safecomputing.umich.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Safety Abroad |  Safety Abroad
+ - [https://safetyabroad.umich.edu](https://safetyabroad.umich.edu)
+ - date_published: 2024-07-02T03:54:51.236979+00:00
+
+ ## CoE Safety
+ - [https://safety.engin.umich.edu](https://safety.engin.umich.edu)
+ - date_published: 2024-05-07T21:28:45.451956+00:00
+
+ ## Welcome | Sexual Assault Prevention and Awareness Center
+ - [https://sapac.umich.edu](https://sapac.umich.edu)
+ - date_published: 2024-06-26T16:51:16+00:00
+
+ ## Scalar
+ - [https://scalar.eecs.umich.edu](https://scalar.eecs.umich.edu)
+ - date_published: 2024-05-07T14:56:30.959795+00:00
+
+ ## U-M Library Search
+ - [https://search.lib.umich.edu](https://search.lib.umich.edu)
+ - date_published: 2024-06-13T11:34:05+00:00
+
+ ## Home
+ - [https://security.engin.umich.edu](https://security.engin.umich.edu)
+ - date_published: 2024-07-14T04:46:25.908300+00:00
+
+ ## Michigan Publishing Services
+ - [https://services.publishing.umich.edu](https://services.publishing.umich.edu)
+ - date_published: 2024-06-17T14:11:50+00:00
+
+ ## Sexual Misconduct Reporting & Resources | University of Michigan
+ - [https://sexualmisconduct.umich.edu](https://sexualmisconduct.umich.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Office of Budget and Planning
+ - [http://sitemaker.umich.edu](http://sitemaker.umich.edu)
+ - date_published: 2024-07-07T03:36:45+00:00
+
+ ## WordPress Websites – Offered by LSA Technology Services
+ - [https://sites.lsa.umich.edu](https://sites.lsa.umich.edu)
+ - date_published: 2024-03-22T20:49:48.942501+00:00
+
+ ## Home
+ - [http://socialmedia.umich.edu](http://socialmedia.umich.edu)
+ - date_published: 2024-07-02T03:48:31+00:00
+
+ ## University of Michigan Marsal Family School of Education
+ - [https://soe.umich.edu](https://soe.umich.edu)
+ - date_published: 2024-05-07T14:56:22.276920+00:00
+
+ ## Home | Standard Practice Guides - University of Michigan
+ - [https://spg.umich.edu](https://spg.umich.edu)
+ - date_published: 2024-07-02T03:49:21+00:00
+
+ ## U-M School of Public Health
+ - [https://sph.umich.edu](https://sph.umich.edu)
+ - date_published: 2024-06-16T11:47:37.412686+00:00
+
+ ## Survey Research Center
+ - [https://src.isr.umich.edu](https://src.isr.umich.edu)
+ - date_published: 2024-07-02T04:01:54+00:00
+
+ ## Stamps School of Art & Design at the University of Michigan
+ - [http://stamps.umich.edu](http://stamps.umich.edu)
+ - date_published: 2024-07-03T15:50:56+00:00
+
+ ## Strategic Vision - Michigan Engineering - University of Michigan
+ - [https://strategicvision.engin.umich.edu](https://strategicvision.engin.umich.edu)
+ - date_published: 2023-07-12T00:00:00+00:00
+
+ ## Office of Student Affairs – Mission and location information for the Office of Student Affairs
+ - [https://studentaffairs.engin.umich.edu](https://studentaffairs.engin.umich.edu)
+ - date_published: 2024-07-02T03:52:28+00:00
+
+ ## Home
+ - [https://studyrealestate.umich.edu](https://studyrealestate.umich.edu)
+ - date_published: 2024-07-08T14:53:28.523560+00:00
+
+ ## Home | Systems Lab
+ - [https://systems.engin.umich.edu](https://systems.engin.umich.edu)
+ - date_published: 2024-07-14T04:46:33.261120+00:00
+
+ ## Taubman College of Architecture and Urban Planning - University of Michigan
+ - [https://taubmancollege.umich.edu](https://taubmancollege.umich.edu)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## TCORS         :
+         Center for the Assessment of Tobacco Regulations (CAsToR): Homepage         :
+ - [https://tcors.umich.edu](https://tcors.umich.edu)
+ - date_published: 2024-07-01T03:31:57.091652+00:00
+
+ ## TeamDynamix Sign-In
+ - [https://teamdynamix.umich.edu](https://teamdynamix.umich.edu)
+ - date_published: 2024-04-17T19:45:22+00:00
+
+ ## Home
+ - [https://traffic.engin.umich.edu](https://traffic.engin.umich.edu)
+ - date_published: 2024-06-22T11:47:48.392576+00:00
+
+ ## University of Michigan
+ - [https://umich.edu](https://umich.edu)
+ - date_published: 2024-05-02T12:42:38.088438+00:00
+
+ ## University of Michigan Museum of Art
+ - [https://umma.umich.edu](https://umma.umich.edu)
+ - date_published: 2024-07-02T03:55:29.096608+00:00
+
+ ## Home - Vision 2034
+ - [https://vision2034.umich.edu](https://vision2034.umich.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Office of the Vice President for Communications
+ - [https://vpcomm.umich.edu](https://vpcomm.umich.edu)
+ - date_published: 2024-05-07T21:27:48.263741+00:00
+
+ ## EECS Department
+ - [https://web.eecs.umich.edu](https://web.eecs.umich.edu)
+ - date_published: 2024-01-09T03:28:40.266068+00:00
+
+ ## University of Michigan-Dearborn Library Catalog
+ - [https://wizard.umd.umich.edu](https://wizard.umd.umich.edu)
+ - date_published: 2024-07-02T03:46:38.315078+00:00
+
+ ## Wolverine Access - Find & Favorite University of Michigan Resources
+ - [https://wolverineaccess.umich.edu](https://wolverineaccess.umich.edu)
+ - date_published: 2024-05-07T21:27:09.394140+00:00
+
+ ## Biomedical Engineering - BME
+ - [https://bme.umich.edu](https://bme.umich.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## CITI: 
+
+Center for Information Technology Integration
+ - [http://www.citi.umich.edu](http://www.citi.umich.edu)
+ - date_published: 2024-07-13T20:10:50.185225+00:00
+
+ ## Center for the Study of Complex Systems | U-M LSA Center for the Study of Complex Systems
+ - [https://www.cscs.umich.edu](https://www.cscs.umich.edu)
+ - date_published: 2024-05-07T15:26:41.313724+00:00
+
+ ## Home | Division of Public Safety & Security
+ - [https://www.dpss.umich.edu](https://www.dpss.umich.edu)
+ - date_published: 2024-07-02T03:53:45.232523+00:00
+
+ ## Electrical Engineering and Computer Science at the University of Michigan
+ - [https://www.eecs.umich.edu](https://www.eecs.umich.edu)
+ - date_published: 2024-05-07T21:29:41.357227+00:00
+
+ ## University of Michigan-Dearborn
+ - [http://www.engin.umd.umich.edu](http://www.engin.umd.umich.edu)
+ - date_published: 2024-06-22T09:27:37+00:00
+
+ ## eResearch / U-M Information and Technology Services
+ - [http://www.eresearch.umich.edu](http://www.eresearch.umich.edu)
+ - date_published: 2024-07-02T03:41:01+00:00
+
+ ## ICPSR Data Excellence Research Impact
+ - [https://www.icpsr.umich.edu](https://www.icpsr.umich.edu)
+ - date_published: 2024-07-02T04:02:04.712947+00:00
+
+ ## International Institute | U-M LSA International Institute
+ - [http://www.ii.umich.edu](http://www.ii.umich.edu)
+ - date_published: 2024-07-03T15:50:44.530459+00:00
+
+ ## University of Michigan Law School
+ - [https://www.law.umich.edu](https://www.law.umich.edu)
+ - date_published: 2024-05-04T07:29:47.778798+00:00
+
+ ## University of Michigan Library
+ - [https://www.lib.umich.edu](https://www.lib.umich.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## redirect
+ - [http://math.lsa.umich.edu](http://math.lsa.umich.edu)
+ - date_published: 2024-05-08T09:49:24.106095+00:00
+
+ ## Home
+ - [http://www.ns.umich.edu](http://www.ns.umich.edu)
+ - date_published: 2024-07-01T20:13:27+00:00
+
+ ## Department of Pathology
+ - [https://pathology.med.umich.edu](https://pathology.med.umich.edu)
+ - date_published: 2024-05-07T21:28:09.619892+00:00
+
+ ## University of Michigan
+ - [http://www-personal.umich.edu](http://www-personal.umich.edu)
+ - date_published: 2024-06-22T08:05:46.696812+00:00
+
+ ## Homepage | U-M Office of the Provost
+ - [https://www.provost.umich.edu](https://www.provost.umich.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home
+ - [https://www.publishing.umich.edu](https://www.publishing.umich.edu)
+ - date_published: 2024-06-17T14:11:39.217211+00:00
+
+ ## U-M Weblogin - Loading Session Information
+ - [https://www-scopus-com.proxy.lib.umich.edu](https://www-scopus-com.proxy.lib.umich.edu)
+ - date_published: 2024-07-02T03:50:37.746941+00:00
+
+ ## School of Information | University of Michigan
+ - [https://www.si.umich.edu](https://www.si.umich.edu)
+ - date_published: 2024-06-20T13:03:23+00:00
+
+ ## The University of Missouri-Kansas City
+ - [https://calendar.umkc.edu](https://calendar.umkc.edu)
+ - date_published: 2024-07-05T18:30:18+00:00
+
+ ## Sign in to your account
+ - [https://cms.umkc.edu](https://cms.umkc.edu)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Financial Aid and Scholarships | Financial Aid and Scholarships | University of Missouri - Kansas City
+ - [https://finaid.umkc.edu](https://finaid.umkc.edu)
+ - date_published: 2024-05-17T21:39:16+00:00
+
+ ## UMKC WordPress | WordPress hosting at the University of Missouri-Kansas City
+ - [https://info.umkc.edu](https://info.umkc.edu)
+ - date_published: 2024-07-07T03:28:12.253468+00:00
+
+ ## Home | School of Law | University of Missouri - Kansas City
+ - [http://law2.umkc.edu](http://law2.umkc.edu)
+ - date_published: 2024-07-06T05:03:47+00:00
+
+ ## Service Discovery
+ - [https://myroo.umkc.edu](https://myroo.umkc.edu)
+ - date_published: 2024-07-07T03:28:10.714874+00:00
+
+ ## The University of Missouri-Kansas City
+ - [https://umkc.edu](https://umkc.edu)
+ - date_published: 2024-05-08T09:05:35.626954+00:00
+
+ ## Faculty/Staff Websites & Bios | Communications Strategy | Expertise | Brand, Communications & Creative Strategy
+ - [https://faculty.uml.edu](https://faculty.uml.edu)
+ - date_published: 2024-05-07T15:18:30.018327+00:00
+
+ ## SITES.UML.EDU – Faculty sites from our community
+ - [https://sites.uml.edu](https://sites.uml.edu)
+ - date_published: 2024-06-30T05:12:05.724856+00:00
+
+ ## Computer Vision and Learning Group at UMass Lowell
+ - [http://vision.cs.uml.edu](http://vision.cs.uml.edu)
+ - date_published: 2017-06-16T14:27:47+00:00
+
+ ## UMass Lowell
+ - [https://uml.edu](https://uml.edu)
+ - date_published: 2024-05-07T15:18:25.179625+00:00
+
+ ## About UMD | UMN Duluth
+ - [https://about.d.umn.edu](https://about.d.umn.edu)
+ - date_published: 2024-07-12T19:39:00+00:00
+
+ ## University of Minnesota Duluth
+ - [https://academics.d.umn.edu](https://academics.d.umn.edu)
+ - date_published: 2024-07-12T18:47:18+00:00
+
+ ## Academic Programs | University of Minnesota Morris
+ - [https://academics.morris.umn.edu](https://academics.morris.umn.edu)
+ - date_published: 2024-07-13T08:07:28+00:00
+
+ ## Accessible U | Accessible U
+ - [https://accessibility.umn.edu](https://accessibility.umn.edu)
+ - date_published: 2024-06-12T19:57:51+00:00
+
+ ## Office of Admissions
+ - [https://admissions.crk.umn.edu](https://admissions.crk.umn.edu)
+ - date_published: 2024-07-13T04:04:14+00:00
+
+ ## UMN Duluth Admissions
+ - [https://admissions.d.umn.edu](https://admissions.d.umn.edu)
+ - date_published: 2024-07-12T20:16:47+00:00
+
+ ## Office of Admissions | University of Minnesota Twin Cities
+ - [https://admissions.tc.umn.edu](https://admissions.tc.umn.edu)
+ - date_published: 2024-05-11T07:55:17.419038+00:00
+
+ ## Office of Admissions | University of Minnesota Twin Cities
+ - [https://admit.umn.edu](https://admit.umn.edu)
+ - date_published: 2024-07-02T17:33:58+00:00
+
+ ## Academic Advising
+ - [http://advisingblog.cse.umn.edu](http://advisingblog.cse.umn.edu)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Alumni Relations | UMN Duluth
+ - [https://alumni.d.umn.edu](https://alumni.d.umn.edu)
+ - date_published: 2024-07-10T16:14:05+00:00
+
+ ## Alumni Association | UMN Morris Alumni Association
+ - [https://alumni.morris.umn.edu](https://alumni.morris.umn.edu)
+ - date_published: 2024-07-10T14:00:37+00:00
+
+ ## Undergraduate Admissions
+ - [https://apply.d.umn.edu](https://apply.d.umn.edu)
+ - date_published: 2024-07-12T20:16:51+00:00
+
+ ## Admissions
+ - [https://apply.r.umn.edu](https://apply.r.umn.edu)
+ - date_published: 2024-07-01T19:03:50+00:00
+
+ ## Libraries home | University of Minnesota Libraries
+ - [https://apps.lib.umn.edu](https://apps.lib.umn.edu)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Home | Minnesota Landscape Arboretum
+ - [https://arb.umn.edu](https://arb.umn.edu)
+ - date_published: 2024-05-06T17:28:57.044339+00:00
+
+ ## About Architecture | College of Design
+ - [https://arch.design.umn.edu](https://arch.design.umn.edu)
+ - date_published: 2024-05-08T11:43:59.977564+00:00
+
+ ## Home Page | Biophilic Net-Positive Design Project
+ - [https://biophilicdesign.umn.edu](https://biophilicdesign.umn.edu)
+ - date_published: 2024-06-12T14:38:08+00:00
+
+ ## Biographies | Medical Scientist Training Program (MD/PhD) Student Directory
+ - [https://bios.mdphd.umn.edu](https://bios.mdphd.umn.edu)
+ - date_published: 2024-05-07T21:30:24.597159+00:00
+
+ ## University of Minnesota Bookstores |
+ - [https://bookstores.umn.edu](https://bookstores.umn.edu)
+ - date_published: 2024-05-11T07:55:31.338281+00:00
+
+ ## College of Arts, Humanities, and Social Sciences | UMN Duluth
+ - [https://cahss.d.umn.edu](https://cahss.d.umn.edu)
+ - date_published: 2024-07-11T15:10:14+00:00
+
+ ## University of Minnesota Duluth: Events Calendar
+ - [https://calendar.d.umn.edu](https://calendar.d.umn.edu)
+ - date_published: 2024-07-03T15:11:12+00:00
+
+ ## Campus Climate | UMN Duluth
+ - [https://campus-climate.d.umn.edu](https://campus-climate.d.umn.edu)
+ - date_published: 2024-07-10T15:07:05+00:00
+
+ ## Campus Life
+ - [https://campus-life.d.umn.edu](https://campus-life.d.umn.edu)
+ - date_published: 2024-07-12T19:16:29+00:00
+
+ ## Campus Maps Home | Campus Maps
+ - [https://campusmaps.umn.edu](https://campusmaps.umn.edu)
+ - date_published: 2024-05-11T07:53:05.390948+00:00
+
+ ## Career Services | University of Minnesota-Twin Cities: Carlson School of Management
+ - [https://careercenter.carlsonschool.umn.edu](https://careercenter.carlsonschool.umn.edu)
+ - date_published: 2024-07-03T18:13:16.514320+00:00
+
+ ## Home
+ - [https://carlsonschool.umn.edu](https://carlsonschool.umn.edu)
+ - date_published: 2024-07-03T18:08:12+00:00
+
+ ## COLLEGE of BIOLOGICAL SCIENCES | College of Biological Sciences
+ - [https://cbs.umn.edu](https://cbs.umn.edu)
+ - date_published: 2024-05-07T21:31:42.664145+00:00
+
+ ## The Circuits and Biology Lab at UMN
+ - [https://cctbio.ece.umn.edu](https://cctbio.ece.umn.edu)
+ - date_published: 2024-05-07T21:31:20.029655+00:00
+
+ ## Welcome to your CEHD department site | College of Education and Human Development
+ - [https://cehd-prod.cehdaq.umn.edu](https://cehd-prod.cehdaq.umn.edu)
+ - date_published: 2024-07-02T04:07:23+00:00
+
+ ## College of Education and Human Service Professions | UMN Duluth
+ - [https://cehsp.d.umn.edu](https://cehsp.d.umn.edu)
+ - date_published: 2024-07-12T21:03:10+00:00
+
+ ## Admissions | The Graduate School
+ - [https://choose.umn.edu](https://choose.umn.edu)
+ - date_published: 2024-06-26T17:12:42+00:00
+
+ ## Continuing Professional Development
+ - [https://cme.umn.edu](https://cme.umn.edu)
+ - date_published: 2024-05-07T21:29:47.977021+00:00
+
+ ## Circle of Indigenous Nations | Circle of Indigenous Nations
+ - [https://coin.umn.edu](https://coin.umn.edu)
+ - date_published: 2024-07-10T14:58:26+00:00
+
+ ## Home | University Compliance Program
+ - [https://compliance.umn.edu](https://compliance.umn.edu)
+ - date_published: 2024-06-30T01:16:53+00:00
+
+ ## CEHD Connect Magazine | Connect Magazine
+ - [https://connect.cehd.umn.edu](https://connect.cehd.umn.edu)
+ - date_published: 2024-07-01T13:36:10+00:00
+
+ ## University Digital Conservancy :: Home
+ - [https://conservancy.umn.edu](https://conservancy.umn.edu)
+ - date_published: 2024-06-14T04:12:21.363184+00:00
+
+ ## CORE Home Page | CORE
+ - [https://core.umn.edu](https://core.umn.edu)
+ - date_published: 2024-07-10T14:49:16+00:00
+
+ ## Course Works | Course Works
+ - [https://courseworks.umn.edu](https://courseworks.umn.edu)
+ - date_published: 2024-07-12T16:23:48+00:00
+
+ ## Engage to Change - CREATE Initative
+ - [http://create.umn.edu](http://create.umn.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Home
+ - [http://cris.cs.umn.edu](http://cris.cs.umn.edu)
+ - date_published: 2024-07-02T00:39:47+00:00
+
+ ## Homepage | University of Minnesota Crookston
+ - [https://crk.umn.edu](https://crk.umn.edu)
+ - date_published: 2024-05-11T07:55:50.641136+00:00
+
+ ## College of Science & Engineering
+ - [https://cse.umn.edu](https://cse.umn.edu)
+ - date_published: 2024-03-18T18:13:43.091656+00:00
+
+ ## Coronavirus Vaccines R&D Roadmap | CIDRAP
+ - [https://cvr.cidrap.umn.edu](https://cvr.cidrap.umn.edu)
+ - date_published: 2024-05-07T21:31:09.883012+00:00
+
+ ## Home
+ - [http://datascience.umn.edu](http://datascience.umn.edu)
+ - date_published: 2024-07-01T23:26:57+00:00
+
+ ## Welcome to the Diversity Community of Practice | Diversity Community of Practice
+ - [http://dcop.umn.edu](http://dcop.umn.edu)
+ - date_published: 2024-07-10T15:12:02+00:00
+
+ ## College of Design Homepage | College of Design
+ - [https://design.umn.edu](https://design.umn.edu)
+ - date_published: 2024-07-04T22:38:59+00:00
+
+ ## Home | School of Public Health Directory
+ - [https://directory.sph.umn.edu](https://directory.sph.umn.edu)
+ - date_published: 2024-06-24T14:28:34+00:00
+
+ ## Welcome to the Disability Resource Center (DRC)!  | Disability Resource Center
+ - [https://disability.umn.edu](https://disability.umn.edu)
+ - date_published: 2024-06-12T14:54:35+00:00
+
+ ## ‘Yes in a world of no’
+ - [https://discoverymag.umn.edu](https://discoverymag.umn.edu)
+ - date_published: 2024-07-13T16:55:35.852348+00:00
+
+ ## Welcome to the Office for Equity and Diversity | Office for Equity and Diversity
+ - [https://diversity.dl8.umn.edu](https://diversity.dl8.umn.edu)
+ - date_published: 2024-07-11T19:09:21+00:00
+
+ ## Welcome to the Office for Equity and Diversity | Office for Equity and Diversity
+ - [https://diversity.umn.edu](https://diversity.umn.edu)
+ - date_published: 2024-05-11T07:55:11.108131+00:00
+
+ ## University of Minnesota Duluth
+ - [https://d.umn.edu](https://d.umn.edu)
+ - date_published: 2024-05-11T07:55:21.237868+00:00
+
+ ## ECE
+ - [https://ece.umn.edu](https://ece.umn.edu)
+ - date_published: 2021-08-03T23:11:54+00:00
+
+ ## Homepage | Equal Opportunity & Title IX
+ - [http://eoaa.umn.edu](http://eoaa.umn.edu)
+ - date_published: 2024-07-10T14:56:05+00:00
+
+ ## Homepage | Equal Opportunity & Title IX
+ - [https://eot.umn.edu](https://eot.umn.edu)
+ - date_published: 2024-07-01T20:08:19+00:00
+
+ ## Events Calendar
+ - [https://events.crk.umn.edu](https://events.crk.umn.edu)
+ - date_published: 2024-07-13T17:15:44.701295+00:00
+
+ ## Events Calendar - University of Minnesota Morris Events Calendar
+ - [https://events.morris.umn.edu](https://events.morris.umn.edu)
+ - date_published: 2024-07-13T17:13:31.800527+00:00
+
+ ## University of Minnesota Twin Cities: Events Calendar
+ - [https://events.tc.umn.edu](https://events.tc.umn.edu)
+ - date_published: 2024-05-07T21:30:38.772907+00:00
+
+ ## Facilities Management | UMN Facilities Management
+ - [https://facilities.umn.edu](https://facilities.umn.edu)
+ - date_published: 2024-07-10T17:58:58+00:00
+
+ ## Home | First Generation at the U of M
+ - [https://firstgen.umn.edu](https://firstgen.umn.edu)
+ - date_published: 2024-06-20T16:26:01+00:00
+
+ ## Browse Exhibits · Gallery
+ - [https://gallery.lib.umn.edu](https://gallery.lib.umn.edu)
+ - date_published: 2024-07-13T17:15:22.494741+00:00
+
+ ## Office of Advancement | UMN Duluth
+ - [https://give.d.umn.edu](https://give.d.umn.edu)
+ - date_published: 2024-07-10T14:59:37+00:00
+
+ ## Give to Morris | Give to UMN Morris
+ - [https://give.morris.umn.edu](https://give.morris.umn.edu)
+ - date_published: 2024-07-10T14:01:45+00:00
+
+ ## Home | Give to the University of Minnesota
+ - [https://give.umn.edu](https://give.umn.edu)
+ - date_published: 2024-05-11T07:52:57.604741+00:00
+
+ ## Graduate Medical Education
+ - [https://gme.umn.edu](https://gme.umn.edu)
+ - date_published: 2024-05-07T21:30:35.938955+00:00
+
+ ## Graduate School Duluth | UMN Duluth
+ - [https://graduate-school.d.umn.edu](https://graduate-school.d.umn.edu)
+ - date_published: 2024-07-10T14:57:44+00:00
+
+ ## On-Campus Living
+ - [https://housing.umn.edu](https://housing.umn.edu)
+ - date_published: 2024-05-11T07:55:40.804057+00:00
+
+ ## Human Rights Library- University of Minnesota
+ - [http://hrlibrary.umn.edu](http://hrlibrary.umn.edu)
+ - date_published: 2022-05-07T15:59:08+00:00
+
+ ## Sign In | HRMS Instruction
+ - [https://hrms.umn.edu](https://hrms.umn.edu)
+ - date_published: 2024-06-21T17:10:55+00:00
+
+ ## Home | University of Minnesota Office of Human Resources
+ - [https://hr.umn.edu](https://hr.umn.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Health Sciences Library | Health Sciences Libraries
+ - [https://hsl.lib.umn.edu](https://hsl.lib.umn.edu)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Home | University of Minnesota Office of Human Resources
+ - [https://humanresources.umn.edu](https://humanresources.umn.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Institute for Diversity, Equity, and Advocacy | Institute for Diversity, Equity and Advocacy
+ - [http://idea.umn.edu](http://idea.umn.edu)
+ - date_published: 2024-07-10T14:59:09+00:00
+
+ ## Home
+ - [https://interact.csom.umn.edu](https://interact.csom.umn.edu)
+ - date_published: 2024-07-03T18:08:12+00:00
+
+ ## IT@UMN | The people behind the technology |
+ - [https://it.umn.edu](https://it.umn.edu)
+ - date_published: 2024-07-02T01:40:28+00:00
+
+ ## IVR Initiative Home Page | CIDRAP
+ - [https://ivr.cidrap.umn.edu](https://ivr.cidrap.umn.edu)
+ - date_published: 2024-05-07T21:30:46.779392+00:00
+
+ ## We Are the Noise: The Echoes of Our Ancestors | University of Minnesota Juneteenth Celebration
+ - [https://juneteenth.umn.edu](https://juneteenth.umn.edu)
+ - date_published: 2024-07-10T14:51:45+00:00
+
+ ## Kusske Design Initiative
+ - [https://kdi.umn.edu](https://kdi.umn.edu)
+ - date_published: 2024-07-08T14:57:40.332054+00:00
+
+ ## LATIS | CLA Neighborhood
+ - [http://latis.umn.edu](http://latis.umn.edu)
+ - date_published: 2024-07-01T21:26:53+00:00
+
+ ## Kathryn A. Martin Library | UMN Duluth
+ - [https://lib.d.umn.edu](https://lib.d.umn.edu)
+ - date_published: 2024-07-13T16:50:48+00:00
+
+ ## Home - UMN Libraries News & Events
+ - [https://libnews.umn.edu](https://libnews.umn.edu)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Rodney A. Briggs Library | UMN Morris Library
+ - [https://library.morris.umn.edu](https://library.morris.umn.edu)
+ - date_published: 2024-07-10T14:22:37+00:00
+
+ ## Libraries home | University of Minnesota Libraries
+ - [https://lib.umn.edu](https://lib.umn.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Labovitz School of Business and Economics | UMN Duluth
+ - [https://lsbe.d.umn.edu](https://lsbe.d.umn.edu)
+ - date_published: 2024-07-11T15:46:00+00:00
+
+ ## Web Login Service
+ - [http://mail.umn.edu](http://mail.umn.edu)
+ - date_published: 2024-07-13T17:15:25.969779+00:00
+
+ ## Home page | Majors
+ - [https://majors.umn.edu](https://majors.umn.edu)
+ - date_published: 2024-07-10T14:13:21+00:00
+
+ ## Donate to the University of Minnesota
+ - [https://makingagift.umn.edu](https://makingagift.umn.edu)
+ - date_published: 2024-05-07T21:30:21.659502+00:00
+
+ ## Manifold @uminnpress
+ - [https://manifold.umn.edu](https://manifold.umn.edu)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Welcome to MCAE | MCAE
+ - [http://mcae.umn.edu](http://mcae.umn.edu)
+ - date_published: 2024-07-12T16:13:40+00:00
+
+ ## Medical School
+ - [https://med-d9.prd.umn.edu](https://med-d9.prd.umn.edu)
+ - date_published: 2024-05-07T21:30:07.863681+00:00
+
+ ## Web Login Service
+ - [https://mediaspace.umn.edu](https://mediaspace.umn.edu)
+ - date_published: 2024-07-02T04:07:14.343163+00:00
+
+ ## Medical School
+ - [https://med.umn.edu](https://med.umn.edu)
+ - date_published: 2023-10-25T19:02:48.728498+00:00
+
+ ## Paul Meehl | Paul E. Meehl
+ - [http://meehl.umn.edu](http://meehl.umn.edu)
+ - date_published: 2024-06-12T15:02:49+00:00
+
+ ## Minnesota Invasive Terrestrial Plants and Pests Center
+ - [https://mitppc.umn.edu](https://mitppc.umn.edu)
+ - date_published: 2024-07-08T17:32:26+00:00
+
+ ## University of Minnesota Morris
+ - [https://morris.umn.edu](https://morris.umn.edu)
+ - date_published: 2024-05-11T07:55:42.951152+00:00
+
+ ## The Circuits and Biology Lab at UMN
+ - [https://mriedel.ece.umn.edu](https://mriedel.ece.umn.edu)
+ - date_published: 2024-05-07T21:31:14.438714+00:00
+
+ ## C&I faculty members receive prestigious fellowship award on Antisemitism and Jewish Inclusion
+ - [https://news.cehd.umn.edu](https://news.cehd.umn.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## News Center Home Page
+ - [https://news.d.umn.edu](https://news.d.umn.edu)
+ - date_published: 2024-07-12T19:23:44+00:00
+
+ ## Welcome to the Office for Conflict Resolution | Office for Conflict Resolution
+ - [http://ocr.umn.edu](http://ocr.umn.edu)
+ - date_published: 2024-07-10T15:52:13+00:00
+
+ ## Education Program | Office for Equity & Diversity Education Program
+ - [https://oeded.umn.edu](https://oeded.umn.edu)
+ - date_published: 2024-07-10T14:18:09+00:00
+
+ ## Please Login | OED Intranet
+ - [https://oedintranet.umn.edu](https://oedintranet.umn.edu)
+ - date_published: 2024-07-13T17:12:21+00:00
+
+ ## Report Web Disability-Related Issue
+ - [https://oit-drupal-prd-web.oit.umn.edu](https://oit-drupal-prd-web.oit.umn.edu)
+ - date_published: 2024-05-07T21:29:50.648111+00:00
+
+ ## Home | Crookston One Stop Student Services
+ - [http://onestop.crk.umn.edu](http://onestop.crk.umn.edu)
+ - date_published: 2024-06-20T19:00:39+00:00
+
+ ## Home | Duluth One Stop Student Services
+ - [http://onestop.d.umn.edu](http://onestop.d.umn.edu)
+ - date_published: 2024-06-27T13:19:32+00:00
+
+ ## Home | Morris One Stop Student Services
+ - [http://onestop.morris.umn.edu](http://onestop.morris.umn.edu)
+ - date_published: 2024-07-01T19:37:47+00:00
+
+ ## Home | Rochester One Stop Student Services
+ - [http://onestop.r.umn.edu](http://onestop.r.umn.edu)
+ - date_published: 2024-07-01T18:24:15+00:00
+
+ ## Home | Twin Cities One Stop Student Services
+ - [https://onestop-tc.prd.umn.edu](https://onestop-tc.prd.umn.edu)
+ - date_published: 2024-07-01T18:27:01+00:00
+
+ ## Home | Twin Cities One Stop Student Services
+ - [https://onestop.umn.edu](https://onestop.umn.edu)
+ - date_published: 2024-05-07T21:30:12.406123+00:00
+
+ ## Online Learning | University of Minnesota Morris
+ - [https://onlinelearning.morris.umn.edu](https://onlinelearning.morris.umn.edu)
+ - date_published: 2024-07-12T21:39:39+00:00
+
+ ## Publishing Services
+ - [https://open.lib.umn.edu](https://open.lib.umn.edu)
+ - date_published: 2024-05-08T06:58:55.509369+00:00
+
+ ## Center for Open Education
+ - [https://open.umn.edu](https://open.umn.edu)
+ - date_published: 2023-10-25T19:02:55.930942+00:00
+
+ ## Orientation | UMN Duluth
+ - [https://orientation.d.umn.edu](https://orientation.d.umn.edu)
+ - date_published: 2024-07-10T14:03:11+00:00
+
+ ## Welcome! | Office for Student Affairs
+ - [https://osa.umn.edu](https://osa.umn.edu)
+ - date_published: 2024-07-10T14:48:04+00:00
+
+ ## Office for Supplier Diversity | Office for Business & Community Economic Development
+ - [https://osd.umn.edu](https://osd.umn.edu)
+ - date_published: 2024-07-13T17:12:54+00:00
+
+ ## Welcome to the Physics Force | Physics Force
+ - [https://physicsforce.umn.edu](https://physicsforce.umn.edu)
+ - date_published: 2024-06-12T14:45:07+00:00
+
+ ## Home Page | University Policy Library
+ - [http://policy.umn.edu](http://policy.umn.edu)
+ - date_published: 2024-07-04T09:20:43+00:00
+
+ ## About | Preceptor Resources
+ - [https://preceptor.umn.edu](https://preceptor.umn.edu)
+ - date_published: 2024-05-07T21:30:41.797420+00:00
+
+ ## Website Privacy | Online Privacy
+ - [https://privacy.umn.edu](https://privacy.umn.edu)
+ - date_published: 2024-05-07T21:30:45.450807+00:00
+
+ ## Parking & Transportation Services | UMN Parking & Transportation Services
+ - [https://pts.umn.edu](https://pts.umn.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Public Safety | UMN Department of Public Safety
+ - [https://publicsafety.umn.edu](https://publicsafety.umn.edu)
+ - date_published: 2024-07-12T19:37:38+00:00
+
+ ## Front - Publishing Services
+ - [https://publishing.lib.umn.edu](https://publishing.lib.umn.edu)
+ - date_published: 2024-07-04T16:19:14.960889+00:00
+
+ ## University of Minnesota Rochester
+ - [https://raptorlink.umn.edu](https://raptorlink.umn.edu)
+ - date_published: 2024-07-02T04:19:40.146082+00:00
+
+ ## | Research Computing
+ - [https://rc.umn.edu](https://rc.umn.edu)
+ - date_published: 2024-06-28T13:13:59+00:00
+
+ ## Board of Regents | University of Minnesota
+ - [https://regents-d8.dev.umn.edu](https://regents-d8.dev.umn.edu)
+ - date_published: 2024-07-01T09:10:19+00:00
+
+ ## Board of Regents | University of Minnesota
+ - [https://regents.umn.edu](https://regents.umn.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Welcome | Medical School Media Mentions
+ - [https://reporterpass.umn.edu](https://reporterpass.umn.edu)
+ - date_published: 2024-05-07T21:30:26.588937+00:00
+
+ ## Redirecting...
+ - [https://reports.research.umn.edu](https://reports.research.umn.edu)
+ - date_published: 2024-07-02T04:08:47.670173+00:00
+
+ ## Home
+ - [https://research.cems.umn.edu](https://research.cems.umn.edu)
+ - date_published: 2024-05-07T21:32:01.102011+00:00
+
+ ## Research Home
+ - [https://research.d.umn.edu](https://research.d.umn.edu)
+ - date_published: 2024-07-12T19:30:44+00:00
+
+ ## RIO | RIO
+ - [https://research.umn.edu](https://research.umn.edu)
+ - date_published: 2024-05-07T21:31:02.688245+00:00
+
+ ## Sign in to your account
+ - [https://resource.umn.edu](https://resource.umn.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home | Research Methodology Consulting Center
+ - [https://rmcc.umn.edu](https://rmcc.umn.edu)
+ - date_published: 2024-06-12T13:59:29+00:00
+
+ ## Home | University of Minnesota Rochester
+ - [https://r.umn.edu](https://r.umn.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Homepage
+ - [https://safe-campus.umn.edu](https://safe-campus.umn.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Schedule Builder - University of Minnesota
+ - [https://schedulebuilder.umn.edu](https://schedulebuilder.umn.edu)
+ - date_published: 2024-07-02T04:05:42.083339+00:00
+
+ ## Welcome | The Scope
+ - [https://scope.umn.edu](https://scope.umn.edu)
+ - date_published: 2024-05-07T21:30:18.113850+00:00
+
+ ## Swenson College of Science and Engineering | UMN Duluth
+ - [https://scse.d.umn.edu](https://scse.d.umn.edu)
+ - date_published: 2024-07-11T15:20:20+00:00
+
+ ## Search UMN Twin Cities | Search UMN
+ - [https://search.umn.edu](https://search.umn.edu)
+ - date_published: 2024-07-10T14:03:23+00:00
+
+ ## School of Physics and Astronomy Lecture Demonstration Site | School of Physics and Astronomy Lecture Demonstrations
+ - [https://spademos.umn.edu](https://spademos.umn.edu)
+ - date_published: 2024-06-12T15:40:46+00:00
+
+ ## Office of the President
+ - [https://strategic-planning.umn.edu](https://strategic-planning.umn.edu)
+ - date_published: 2024-07-10T14:02:21+00:00
+
+ ## Student Life | UMN Duluth
+ - [https://student-life.d.umn.edu](https://student-life.d.umn.edu)
+ - date_published: 2024-07-11T15:16:17+00:00
+
+ ## Study Space | UMN Study Space Finder
+ - [https://studyspace.umn.edu](https://studyspace.umn.edu)
+ - date_published: 2024-07-10T14:06:46+00:00
+
+ ## Home | Senior Vice President for Finance and Operations
+ - [https://svpfo.umn.edu](https://svpfo.umn.edu)
+ - date_published: 2024-06-12T14:41:00+00:00
+
+ ## Homepage
+ - [https://system.umn.edu](https://system.umn.edu)
+ - date_published: 2024-05-07T21:30:32.400056+00:00
+
+ ## Transportation & Parking Services | UMN Duluth
+ - [https://tps.d.umn.edu](https://tps.d.umn.edu)
+ - date_published: 2024-07-11T14:11:10+00:00
+
+ ## University of Minnesota Twin Cities
+ - [https://twin-cities.umn.edu](https://twin-cities.umn.edu)
+ - date_published: 2024-05-07T21:29:42.402596+00:00
+
+ ## University of Minnesota Twin Cities
+ - [https://twincities.umn.edu](https://twincities.umn.edu)
+ - date_published: 2024-07-01T15:25:12+00:00
+
+ ## UMedia
+ - [https://umedia.lib.umn.edu](https://umedia.lib.umn.edu)
+ - date_published: 2024-07-13T17:15:06.155010+00:00
+
+ ## University of Minnesota Twin Cities
+ - [https://umn.edu](https://umn.edu)
+ - date_published: 2024-03-18T20:21:28+00:00
+
+ ## Home | Office of Undergraduate Education
+ - [https://undergrad.umn.edu](https://undergrad.umn.edu)
+ - date_published: 2024-07-10T14:29:12+00:00
+
+ ## Update your contact information
+ - [http://update.umn.edu](http://update.umn.edu)
+ - date_published: 2019-03-20T17:33:57+00:00
+
+ ## Search UMN Twin Cities | Search UMN
+ - [https://usearch.umn.edu](https://usearch.umn.edu)
+ - date_published: 2024-05-11T07:55:12.631809+00:00
+
+ ## Where Discovery Creates Hope
+ - [https://wherediscoverycreateshope.umn.edu](https://wherediscoverycreateshope.umn.edu)
+ - date_published: 2024-05-07T21:30:10.696844+00:00
+
+ ## The Women's Center | The Women's Center
+ - [http://womenscenter.umn.edu](http://womenscenter.umn.edu)
+ - date_published: 2024-07-10T15:46:24+00:00
+
+ ## Homepage | University of Minnesota Crookston
+ - [http://www1.crk.umn.edu](http://www1.crk.umn.edu)
+ - date_published: 2024-07-02T03:55:19+00:00
+
+ ## University of Minnesota Twin Cities
+ - [http://www1.umn.edu](http://www1.umn.edu)
+ - date_published: 2024-07-01T15:25:12+00:00
+
+ ## University of Minnesota Morris
+ - [https://www4.morris.umn.edu](https://www4.morris.umn.edu)
+ - date_published: 2024-05-11T07:55:15.375707+00:00
+
+ ## Home | ARCTiC Labs
+ - [https://arctic.umn.edu](https://arctic.umn.edu)
+ - date_published: 2024-05-07T21:31:45.029489+00:00
+
+ ## College of Education and Human Development
+ - [https://cehd.umn.edu](https://cehd.umn.edu)
+ - date_published: 2024-05-07T21:30:44.236374+00:00
+
+ ## Home
+ - [https://cems.umn.edu](https://cems.umn.edu)
+ - date_published: 2024-05-07T21:31:17.139887+00:00
+
+ ## Homepage | CIDRAP
+ - [https://cidrap.umn.edu](https://cidrap.umn.edu)
+ - date_published: 2023-10-25T19:02:58.423919+00:00
+
+ ## Home - UMN Libraries News & Events
+ - [https://www.continuum.umn.edu](https://www.continuum.umn.edu)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Home
+ - [https://csom.umn.edu](https://csom.umn.edu)
+ - date_published: 2024-05-08T03:31:31.963979+00:00
+
+ ## Home
+ - [http://www.cs.umn.edu](http://www.cs.umn.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Search UMN Twin Cities | Search UMN
+ - [http://www.directory.umn.edu](http://www.directory.umn.edu)
+ - date_published: 2024-06-12T14:07:18+00:00
+
+ ## College of Science & Engineering
+ - [https://www.dtc.umn.edu](https://www.dtc.umn.edu)
+ - date_published: 2024-05-11T07:08:34.033624+00:00
+
+ ## Home
+ - [https://www.esci.umn.edu](https://www.esci.umn.edu)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Home
+ - [http://www.ftpi.umn.edu](http://www.ftpi.umn.edu)
+ - date_published: 2024-06-29T11:49:33+00:00
+
+ ## Home | The Graduate School
+ - [https://grad.umn.edu](https://grad.umn.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Hubert H. Humphrey School of Public Affairs | Hubert H. Humphrey School of Public Affairs
+ - [https://www.hhh.umn.edu](https://www.hhh.umn.edu)
+ - date_published: 2024-07-02T21:10:22+00:00
+
+ ## Home
+ - [http://www.ima.umn.edu](http://www.ima.umn.edu)
+ - date_published: 2024-06-29T11:27:53+00:00
+
+ ## Home | University of Minnesota Law School
+ - [http://www.law.umn.edu](http://www.law.umn.edu)
+ - date_published: 2024-06-15T22:48:03+00:00
+
+ ## Finding Solutions to Minnesota’s Aquatic Invasive Species Problems | Minnesota Aquatic Invasive Species Research Center (MAISRC)
+ - [https://www.maisrc.umn.edu](https://www.maisrc.umn.edu)
+ - date_published: 2024-07-03T17:08:07+00:00
+
+ ## Home | Minnesota Supercomputing Institute
+ - [http://www.msi.umn.edu](http://www.msi.umn.edu)
+ - date_published: 2024-07-01T13:20:21+00:00
+
+ ## Northrop Inspires
+ - [https://www.northrop.umn.edu](https://www.northrop.umn.edu)
+ - date_published: 2024-07-05T19:48:43+00:00
+
+ ## Department of Pediatrics
+ - [https://www.pediatrics.umn.edu](https://www.pediatrics.umn.edu)
+ - date_published: 2024-06-27T00:15:46+00:00
+
+ ## Homepage
+ - [https://www.pharmacy.umn.edu](https://www.pharmacy.umn.edu)
+ - date_published: 2024-07-12T18:21:35+00:00
+
+ ## School of Physics and Astronomy
+ - [https://physics.umn.edu](https://physics.umn.edu)
+ - date_published: 2024-05-07T15:14:46.382218+00:00
+
+ ## Introduction | Scientific Computing
+ - [http://www.scicomp.umn.edu](http://www.scicomp.umn.edu)
+ - date_published: 2024-06-12T14:32:53+00:00
+
+ ## University of Minnesota Press
+ - [https://upress.umn.edu](https://upress.umn.edu)
+ - date_published: 2023-11-22T15:59:30.119351+00:00
+
+ ## Index of /
+ - [http://www-users.cselabs.umn.edu](http://www-users.cselabs.umn.edu)
+ - date_published: 2024-07-15T07:09:15.269350+00:00
+
+ ## Index of /
+ - [https://www-users.cse.umn.edu](https://www-users.cse.umn.edu)
+ - date_published: 2023-08-16T00:00:00+00:00
+
+ ## Index of /
+ - [https://www-users.cs.umn.edu](https://www-users.cs.umn.edu)
+ - date_published: 2023-08-16T00:00:00+00:00
+
+ ## Index of /
+ - [http://www-users.math.umn.edu](http://www-users.math.umn.edu)
+ - date_published: 2023-08-16T00:00:00+00:00
+
+ ## Z
+ - [https://z.umn.edu](https://z.umn.edu)
+ - date_published: 2024-05-07T21:32:12.111832+00:00
+
+ ## University of Maine at Presque Isle
+ - [https://www.umpi.edu](https://www.umpi.edu)
+ - date_published: 2024-07-02T03:47:49.244563+00:00
+
+ ## University of Missouri–St. Louis
+ - [https://www.umsl.edu](https://www.umsl.edu)
+ - date_published: 2024-06-13T14:07:16+00:00
+
+ ## MOspace Home
+ - [https://mospace.umsystem.edu](https://mospace.umsystem.edu)
+ - date_published: 2024-05-23T21:58:47.088507+00:00
+
+ ## Sign in to your account
+ - [https://myhr.umsystem.edu](https://myhr.umsystem.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Welcome | NextGen Precision Health
+ - [https://precisionhealth.umsystem.edu](https://precisionhealth.umsystem.edu)
+ - date_published: 2024-06-28T21:23:47+00:00
+
+ ## Sign in to your account
+ - [https://umkc.umsystem.edu](https://umkc.umsystem.edu)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## UM Web Applications
+ - [https://webapps.umsystem.edu](https://webapps.umsystem.edu)
+ - date_published: 2024-07-01T14:56:51.428973+00:00
+
+ ## University of Missouri System
+ - [https://umsystem.edu](https://umsystem.edu)
+ - date_published: 2024-05-07T19:32:14.949908+00:00
+
+ ## Admissions
+ - [https://apply.umt.edu](https://apply.umt.edu)
+ - date_published: 2024-07-07T10:43:16.674525+00:00
+
+ ## Events
+ - [https://grizhub-events.apps.umt.edu](https://grizhub-events.apps.umt.edu)
+ - date_published: 2024-07-07T10:43:05.454726+00:00
+
+ ## Images
+ - [https://images.apps.umt.edu](https://images.apps.umt.edu)
+ - date_published: 2024-07-07T10:43:07.302111+00:00
+
+ ## Map - University of Montana
+ - [http://map.umt.edu](http://map.umt.edu)
+ - date_published: 2024-07-07T10:43:19.045376+00:00
+
+ ## University of Montana | Public Flagship in Missoula
+ - [https://umt.edu](https://umt.edu)
+ - date_published: 2024-05-08T10:33:27.321299+00:00
+
+ ## University of Mary Washington
+ - [http://umw.edu](http://umw.edu)
+ - date_published: 2024-07-04T09:43:36.836762+00:00
+
+ ## Undergraduate Admissions
+ - [https://admissions.unc.edu](https://admissions.unc.edu)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Adobe Creative Cloud - Software Distribution -
+ - [https://adobe.unc.edu](https://adobe.unc.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Home - UNC Advising
+ - [https://advising.unc.edu](https://advising.unc.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Home - African Studies Center
+ - [https://africa.unc.edu](https://africa.unc.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Alert Carolina – UNC-Chapel Hill
+ - [https://alertcarolina.unc.edu](https://alertcarolina.unc.edu)
+ - date_published: 2024-05-07T21:38:30.980249+00:00
+
+ ## Carolina Alumni
+ - [https://alumni.unc.edu](https://alumni.unc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## American Diplomacy Est 1996
+ - [https://americandiplomacy.web.unc.edu](https://americandiplomacy.web.unc.edu)
+ - date_published: 2024-07-03T17:15:56.132058+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.lib.unc.edu](https://analytics.lib.unc.edu)
+ - date_published: 2024-06-24T10:35:29.043627+00:00
+
+ ## Home - Finance and Operations
+ - [https://apps.fo.unc.edu](https://apps.fo.unc.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Applied Physical Sciences
+ - [https://aps.unc.edu](https://aps.unc.edu)
+ - date_published: 2024-07-01T02:54:12.972296+00:00
+
+ ## Area Studies
+ - [https://areastudies.unc.edu](https://areastudies.unc.edu)
+ - date_published: 2024-07-02T04:33:45.419658+00:00
+
+ ## Homepage - Asian and Middle Eastern Studies
+ - [https://asianstudies.unc.edu](https://asianstudies.unc.edu)
+ - date_published: 2024-07-02T04:33:42.108707+00:00
+
+ ## Home - Auxiliary Services
+ - [https://aux-services.unc.edu](https://aux-services.unc.edu)
+ - date_published: 2024-07-02T04:22:23.901206+00:00
+
+ ## Board of Trustees - Board of Trustees
+ - [https://bot.unc.edu](https://bot.unc.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## LibCal -
+        University of North Carolina Chapel Hill
+ - [https://calendar.lib.unc.edu](https://calendar.lib.unc.edu)
+ - date_published: 2024-06-24T10:35:21.392892+00:00
+
+ ## Events Calendar
+ - [https://calendar.unc.edu](https://calendar.unc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## UNC Campus Recreation
+ - [https://campusrec.unc.edu](https://campusrec.unc.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home - Campus Safety
+ - [https://campussafety.unc.edu](https://campussafety.unc.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Mental Health Resources and Support at UNC
+ - [https://care.unc.edu](https://care.unc.edu)
+ - date_published: 2024-07-02T04:26:04.109062+00:00
+
+ ## Home - Carolina Asia Center
+ - [https://carolinaasiacenter.unc.edu](https://carolinaasiacenter.unc.edu)
+ - date_published: 2024-07-02T04:20:44.553896+00:00
+
+ ## Home - Carolina Next
+ - [https://carolinanext.unc.edu](https://carolinanext.unc.edu)
+ - date_published: 2024-05-07T21:39:18.369412+00:00
+
+ ## Carolina Together - The University of North Carolina at Chapel Hill
+ - [https://carolinatogether.unc.edu](https://carolinatogether.unc.edu)
+ - date_published: 2024-07-02T04:20:37.818303+00:00
+
+ ## Carolina Union
+ - [https://carolinaunion.unc.edu](https://carolinaunion.unc.edu)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## College of Arts and Sciences Business Operations
+ - [https://casbo.unc.edu](https://casbo.unc.edu)
+ - date_published: 2024-07-02T04:20:56.595751+00:00
+
+ ## UNC-Chapel Hill Libraries Catalog
+ - [https://catalog.lib.unc.edu](https://catalog.lib.unc.edu)
+ - date_published: 2024-06-24T10:35:15.341785+00:00
+
+ ## The University of North Carolina at Chapel Hill Catalog < University of North Carolina at Chapel Hill
+ - [https://catalog.unc.edu](https://catalog.unc.edu)
+ - date_published: 2024-06-25T18:55:16+00:00
+
+ ## Home - Carolina Center for Public Service
+ - [https://ccps.unc.edu](https://ccps.unc.edu)
+ - date_published: 2024-07-02T04:31:34.986290+00:00
+
+ ## Welcome to cambdridge.lib.unc.edu
+ - [https://cdn.lib.unc.edu](https://cdn.lib.unc.edu)
+ - date_published: 2016-06-27T13:41:46+00:00
+
+ ## Home - Chancellor's Science Scholars
+ - [https://chancellorssciencescholars.unc.edu](https://chancellorssciencescholars.unc.edu)
+ - date_published: 2024-07-02T04:20:32.524420+00:00
+
+ ## UNC-Chapel Hill Chancellor
+ - [https://chancellor.unc.edu](https://chancellor.unc.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home - The Center for Information, Technology, and Public Life (CITAP)
+ - [https://citap.unc.edu](https://citap.unc.edu)
+ - date_published: 2023-12-18T00:00:00+00:00
+
+ ## Home - North Carolina Collaboratory
+ - [https://collaboratory.unc.edu](https://collaboratory.unc.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## College of Arts and Sciences News Archive – Just another CASDev Sites site
+ - [https://collegearchive.unc.edu](https://collegearchive.unc.edu)
+ - date_published: 2019-12-20T00:00:00+00:00
+
+ ## Home - College of Arts and Sciences
+ - [https://college.unc.edu](https://college.unc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## UNC-Chapel Hill Commencement
+ - [http://commencement.unc.edu](http://commencement.unc.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Connect Carolina
+ - [https://connectcarolina.sites.unc.edu](https://connectcarolina.sites.unc.edu)
+ - date_published: 2024-07-02T04:33:33.316336+00:00
+
+ ## Connect Carolina
+ - [https://connectcarolina.unc.edu](https://connectcarolina.unc.edu)
+ - date_published: 2024-05-07T21:39:00.075708+00:00
+
+ ## Institute for Convergent Science
+ - [https://convergent.unc.edu](https://convergent.unc.edu)
+ - date_published: 2024-07-02T04:20:34.977162+00:00
+
+ ## The Center for Slavic, Eurasian and East European Studies
+ - [https://cseees.unc.edu](https://cseees.unc.edu)
+ - date_published: 2024-07-02T04:20:43.573279+00:00
+
+ ## Department of Computer Science - Computer Science
+ - [https://cs.unc.edu](https://cs.unc.edu)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## The Office Of Undergraduate Curricula
+ - [https://curricula.unc.edu](https://curricula.unc.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Data Governance at UNC
+ - [https://datagov.unc.edu](https://datagov.unc.edu)
+ - date_published: 2024-07-02T04:33:28.022733+00:00
+
+ ## UNC-Chapel Hill Single Sign-On
+ - [https://devnet.unc.edu](https://devnet.unc.edu)
+ - date_published: 2024-07-02T04:25:14.758122+00:00
+
+ ## Digital Accessibility Office
+ - [https://digitalaccessibility.unc.edu](https://digitalaccessibility.unc.edu)
+ - date_published: 2024-06-24T10:35:25.051596+00:00
+
+ ## Digital Accessibility Office
+ - [https://digitalaccess.unc.edu](https://digitalaccess.unc.edu)
+ - date_published: 2024-05-07T21:38:11.971969+00:00
+
+ ## Home - Carolina Dining Services
+ - [https://dining.unc.edu](https://dining.unc.edu)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Directory Search
+ - [https://dir.itsapps.unc.edu](https://dir.itsapps.unc.edu)
+ - date_published: 2023-12-08T15:37:11+00:00
+
+ ## Directory Search
+ - [https://dir.unc.edu](https://dir.unc.edu)
+ - date_published: 2023-12-08T15:37:11+00:00
+
+ ## University Office of Diversity & Inclusion
+ - [https://diversity.unc.edu](https://diversity.unc.edu)
+ - date_published: 2024-05-07T21:38:14.244237+00:00
+
+ ## Home - Digital and Lifelong Learning
+ - [https://dll.unc.edu](https://dll.unc.edu)
+ - date_published: 2024-07-02T04:22:10.488771+00:00
+
+ ## Home - Department of Dramatic Art
+ - [http://drama.unc.edu](http://drama.unc.edu)
+ - date_published: 2024-06-20T21:13:34.660605+00:00
+
+ ## ITS Educational Technologies - ITS Educational Technologies
+ - [https://edtech.unc.edu](https://edtech.unc.edu)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Endeavors Front Page - Endeavors
+ - [https://endeavors.unc.edu](https://endeavors.unc.edu)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Division of Enrollment
+ - [https://enrollment.unc.edu](https://enrollment.unc.edu)
+ - date_published: 2024-07-02T04:24:05.868264+00:00
+
+ ## Home - UNC Equal Opportunity and Compliance
+ - [http://eoc.unc.edu](http://eoc.unc.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## UNC-Chapel Hill Single Sign-On
+ - [https://ero.sites.unc.edu](https://ero.sites.unc.edu)
+ - date_published: 2024-07-02T04:26:17.408502+00:00
+
+ ## Home - Ethics and Policy
+ - [https://ethicspolicy.unc.edu](https://ethicspolicy.unc.edu)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## CES at UNC
+ - [https://europe.unc.edu](https://europe.unc.edu)
+ - date_published: 2024-07-02T04:20:35.948248+00:00
+
+ ## Events Calendar
+ - [https://events.unc.edu](https://events.unc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Exercise and Sport Science
+ - [http://exss.unc.edu](http://exss.unc.edu)
+ - date_published: 2024-07-02T04:25:53.451014+00:00
+
+ ## Office of Faculty Affairs
+ - [https://facultyaffairs.unc.edu](https://facultyaffairs.unc.edu)
+ - date_published: 2024-07-02T04:25:26.809730+00:00
+
+ ## Home - Finance and Budget
+ - [https://finance.unc.edu](https://finance.unc.edu)
  - date_published: 2024-04-15T00:00:00+00:00
 
  ## Home
- - [https://innovation.utdallas.edu](https://innovation.utdallas.edu)
- - date_published: 2024-06-14T19:04:37+00:00
-
- ## Institutional Compliance - Institutional Compliance | The University of Texas at Dallas
- - [https://institutional-compliance.utdallas.edu](https://institutional-compliance.utdallas.edu)
- - date_published: 2024-07-02T11:39:57+00:00
-
- ## Home
- - [https://institutional-initiatives.utdallas.edu](https://institutional-initiatives.utdallas.edu)
- - date_published: 2024-05-07T22:12:00.204536+00:00
-
- ## UT Dallas SSO Login
- - [https://jira.utdallas.edu](https://jira.utdallas.edu)
- - date_published: 2024-07-02T11:45:30.469605+00:00
-
- ## University of Texas at Dallas Employment Opportunities | Home
- - [https://jobs.utdallas.edu](https://jobs.utdallas.edu)
- - date_published: 2024-07-02T11:42:51+00:00
-
- ## Homepage - Office of Legal Affairs | The University of Texas at Dallas
- - [https://legal.utdallas.edu](https://legal.utdallas.edu)
- - date_published: 2024-07-02T11:50:28+00:00
-
- ## Library | The University of Texas at Dallas
- - [https://library.utdallas.edu](https://library.utdallas.edu)
- - date_published: 2024-07-02T11:02:04+00:00
-
- ## Home
- - [https://magazine.utdallas.edu](https://magazine.utdallas.edu)
- - date_published: 2024-07-02T11:16:08+00:00
-
- ## Campus Map - The University of Texas at Dallas
- - [https://map.utdallas.edu](https://map.utdallas.edu)
- - date_published: 2024-05-07T22:11:30.760380+00:00
-
- ## Home - My UTD | The University of Texas at Dallas
- - [https://myutd.utdallas.edu](https://myutd.utdallas.edu)
- - date_published: 2024-07-02T11:43:07.234046+00:00
-
- ## New Dimensions - New Dimensions | The University of Texas at Dallas
- - [https://newdimensions.utdallas.edu](https://newdimensions.utdallas.edu)
- - date_published: 2024-07-02T11:34:06+00:00
-
- ## News Homepage
- - [https://news.utdallas.edu](https://news.utdallas.edu)
- - date_published: 2023-12-10T12:18:35.847710+00:00
-
- ## UT Dallas Research OAR
- - [https://oar.utdallas.edu](https://oar.utdallas.edu)
- - date_published: 2024-07-02T11:50:10.529448+00:00
-
- ## OBCC Homepage - Organizational Behavior, Coaching, and Consulting | The University of Texas at Dallas
- - [https://obcc.utdallas.edu](https://obcc.utdallas.edu)
- - date_published: 2024-06-15T09:27:26.737004+00:00
-
- ## Home | The Office of Institutional Success and Decision Support | The University of Texas at Dallas
- - [https://oisds.utdallas.edu](https://oisds.utdallas.edu)
- - date_published: 2023-03-31T00:00:00+00:00
-
- ## Office of Information Technology | UT Dallas
- - [https://oit.utdallas.edu](https://oit.utdallas.edu)
- - date_published: 2024-05-07T22:11:15.935328+00:00
-
- ## OnBase 21.1.18.1000
- - [https://onbase.utdallas.edu](https://onbase.utdallas.edu)
- - date_published: 2024-07-02T11:45:34.492414+00:00
-
- ## Service - UTD Hosted Personal Webpages
- - [https://personal.utdallas.edu](https://personal.utdallas.edu)
- - date_published: 2023-10-25T19:05:03.834184+00:00
-
- ## UT Dallas Police Department
- - [https://police.utdallas.edu](https://police.utdallas.edu)
- - date_published: 2024-05-07T22:12:02.241073+00:00
-
- ## UT Dallas Policy Navigator
- - [https://policy.utdallas.edu](https://policy.utdallas.edu)
- - date_published: 2019-04-17T00:00:00+00:00
-
- ## Office of the Provost | The University of Texas at Dallas
- - [https://provost.utdallas.edu](https://provost.utdallas.edu)
- - date_published: 2024-07-02T11:29:35+00:00
-
- ## Home - Retiree Association | The University of Texas at Dallas
- - [https://ra.utdallas.edu](https://ra.utdallas.edu)
- - date_published: 2024-07-02T11:43:41+00:00
-
- ## Center for Students in Recovery - Center for Students in Recovery | The University of Texas at Dallas
- - [https://recovery.utdallas.edu](https://recovery.utdallas.edu)
- - date_published: 2024-07-02T11:50:36.428767+00:00
-
- ## Homepage - Reunion: The Dallas Review | The University of Texas at Dallas
- - [https://reunion.utdallas.edu](https://reunion.utdallas.edu)
- - date_published: 2024-07-04T04:36:21.228977+00:00
-
- ## Enhancing the University Experience - Auxiliary Services - The University of Texas at Dallas
- - [https://services.utdallas.edu](https://services.utdallas.edu)
- - date_published: 2024-07-02T11:43:51.404651+00:00
-
- ## Log In ‹ The University of Texas at Dallas — WordPress
- - [https://sites.utdallas.edu](https://sites.utdallas.edu)
- - date_published: 2024-06-15T15:16:48.542116+00:00
-
- ## The College Tour Comes to UT Dallas
- - [https://solar.utdallas.edu](https://solar.utdallas.edu)
- - date_published: 2024-07-02T11:43:11.799538+00:00
-
- ## Student Affairs - The University of Texas at Dallas
- - [https://studentaffairs.utdallas.edu](https://studentaffairs.utdallas.edu)
- - date_published: 2024-07-02T11:45:06.615276+00:00
-
- ## Home - Student Employment | The University of Texas at Dallas
- - [https://studentemployment.utdallas.edu](https://studentemployment.utdallas.edu)
- - date_published: 2024-07-02T11:46:00+00:00
-
- ## UTD Today - News from The University of Texas at Dallas
- - [https://today.utdallas.edu](https://today.utdallas.edu)
- - date_published: 2024-07-02T11:42:49.785209+00:00
-
- ## The University of Texas at Dallas
- - [https://utdallas.edu](https://utdallas.edu)
- - date_published: 2024-06-15T15:01:04+00:00
-
- ## UTDesign Captone | The University of Texas at Dallas
- - [https://utdesigncs.utdallas.edu](https://utdesigncs.utdallas.edu)
- - date_published: 2024-05-01T03:41:57.422941+00:00
-
- ## UTDesign
- - [https://utdesign.utdallas.edu](https://utdesign.utdallas.edu)
- - date_published: 2024-06-15T14:50:12+00:00
-
- ## Spaces
- - [https://ventures.utdallas.edu](https://ventures.utdallas.edu)
- - date_published: 2023-01-18T18:56:50+00:00
-
- ## Web Applications & Technology | The Office of Institutional Success and Decision Support | The University of Texas at Dallas
- - [https://wat.utdallas.edu](https://wat.utdallas.edu)
- - date_published: 2023-03-31T00:00:00+00:00
-
- ## The University of Texas at El Paso - UTEP
- - [https://adminapps.utep.edu](https://adminapps.utep.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## A Simple HTML File
- - [https://cs.utep.edu](https://cs.utep.edu)
- - date_published: 2021-11-15T21:05:19+00:00
-
- ## - MineTracker
- - [https://events.utep.edu](https://events.utep.edu)
- - date_published: 2024-05-07T22:12:47.760272+00:00
-
- ## Raise Your Pick Giving Day 2024
- - [https://givingday.utep.edu](https://givingday.utep.edu)
- - date_published: 2024-05-07T22:12:27.586061+00:00
-
- ## Institutional Advancement
- - [https://givingto.utep.edu](https://givingto.utep.edu)
- - date_published: 2024-07-02T11:58:05.340612+00:00
-
- ## - MineTracker
- - [https://minetracker.utep.edu](https://minetracker.utep.edu)
- - date_published: 2024-07-02T11:58:11.328019+00:00
-
- ## MY UTEP
- - [https://my.utep.edu](https://my.utep.edu)
- - date_published: 2024-05-07T22:12:43.261435+00:00
-
- ## The University of Texas at El Paso | Pick A Project
- - [https://pickaproject.utep.edu](https://pickaproject.utep.edu)
- - date_published: 2024-07-02T11:58:00.921706+00:00
-
- ## The University of Texas at El Paso - UTEP
- - [https://utep.edu](https://utep.edu)
- - date_published: 2023-10-25T19:05:08.331077+00:00
-
- ## 40 Hours for the Forty Acres
- - [https://40for40.utexas.edu](https://40for40.utexas.edu)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Stan Richards School of Advertising
- - [https://advertising.utexas.edu](https://advertising.utexas.edu)
- - date_published: 2024-07-03T11:43:06+00:00
-
- ## Department of Computer Science
- - [https://apps.cs.utexas.edu](https://apps.cs.utexas.edu)
- - date_published: 2024-05-07T22:13:47.645331+00:00
-
- ## Asia Policy Program - The University of Texas at Austin
- - [https://asiapolicy.utexas.edu](https://asiapolicy.utexas.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home - University of Texas Admissions
- - [https://bealonghorn.utexas.edu](https://bealonghorn.utexas.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Brand
- - [https://brand.utexas.edu](https://brand.utexas.edu)
- - date_published: 2024-05-06T21:46:30.190021+00:00
-
- ## Welcome to Bridging Barriers | Bridging Barriers
- - [https://bridgingbarriers.utexas.edu](https://bridgingbarriers.utexas.edu)
- - date_published: 2024-07-02T05:50:50+00:00
-
- ## Event / Announcement Calendar - Texas Today:  UT Events & Announcements Calendar
- - [https://calendar.utexas.edu](https://calendar.utexas.edu)
- - date_published: 2024-07-02T12:02:17.188388+00:00
-
- ## University of Texas at Austin Canvas Learning Management System
- - [https://canvas.utexas.edu](https://canvas.utexas.edu)
- - date_published: 2024-05-03T03:41:36+00:00
-
- ## Computer & Data Science Online
- - [https://cdso.utexas.edu](https://cdso.utexas.edu)
- - date_published: 2024-05-07T22:13:49.369793+00:00
-
- ## McKetta Department of Chemical Engineering - Home
- - [https://che.utexas.edu](https://che.utexas.edu)
- - date_published: 2024-05-07T22:13:04.686240+00:00
-
- ## Home | Information Technology Services
- - [https://cio.utexas.edu](https://cio.utexas.edu)
- - date_published: 2024-05-07T22:13:08.797097+00:00
-
- ## UT Counseling and Mental Health Center
- - [https://cmhc.utexas.edu](https://cmhc.utexas.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Discovery starts here in the College of Natural Sciences
- - [https://cns.utexas.edu](https://cns.utexas.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## UT Cockrell School of Engineering
- - [https://cockrell.utexas.edu](https://cockrell.utexas.edu)
- - date_published: 2023-10-25T19:05:12.024214+00:00
-
- ## Communication Studies
- - [https://commstudies.utexas.edu](https://commstudies.utexas.edu)
- - date_published: 2024-07-04T11:44:31+00:00
-
- ## About the Center for Community Engagement - The Center for Community Engagement
- - [https://communityengagement.studentaffairs.utexas.edu](https://communityengagement.studentaffairs.utexas.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Division of Campus and Community Engagement
- - [https://community.utexas.edu](https://community.utexas.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home | Texas Computing
- - [https://computing.utexas.edu](https://computing.utexas.edu)
- - date_published: 2024-07-02T12:03:11.908046+00:00
-
- ## Home | Texas CSB
- - [https://csb.utexas.edu](https://csb.utexas.edu)
- - date_published: 2024-05-07T22:13:54.867319+00:00
-
- ## Department of Computer Science
- - [https://cs.utexas.edu](https://cs.utexas.edu)
- - date_published: 2024-05-07T22:14:01.714994+00:00
-
- ## Home | Dell Medical School
- - [https://dellmed.utexas.edu](https://dellmed.utexas.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Sign in with your UT EID - Loading Session Information
- - [https://directory.utexas.edu](https://directory.utexas.edu)
- - date_published: 2024-07-02T11:58:24.815556+00:00
-
- ## Homepage - Discovery to Impact
- - [https://discoveries.utexas.edu](https://discoveries.utexas.edu)
- - date_published: 2024-07-01T07:42:28.341801+00:00
-
- ## Division of Campus and Community Engagement
- - [https://diversity.utexas.edu](https://diversity.utexas.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## University Messages | Emergency Use Website |The University of Texas at Austin
- - [https://emergency.utexas.edu](https://emergency.utexas.edu)
- - date_published: 2024-05-07T22:13:27.877240+00:00
-
- ## Ethics Unwrapped - Beyond Business Ethics - UT Austin
- - [https://ethicsunwrapped.utexas.edu](https://ethicsunwrapped.utexas.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Moody College Events Calendar | Moody Events Calendar
- - [https://events.moody.utexas.edu](https://events.moody.utexas.edu)
- - date_published: 2024-07-05T15:07:32+00:00
-
- ## Texas Engineering Executive Education
- - [https://executive.engr.utexas.edu](https://executive.engr.utexas.edu)
- - date_published: 2024-07-02T11:59:11+00:00
-
- ## UT Experts : University Communications : The University of Texas at Austin
- - [https://experts.utexas.edu](https://experts.utexas.edu)
- - date_published: 2024-05-07T22:13:31.432323+00:00
-
- ## Faculty Careers - The University of Texas at Austin
- - [https://faculty.utexas.edu](https://faculty.utexas.edu)
- - date_published: 2023-09-06T14:47:14+00:00
-
- ## What Starts Here | The University of Texas at Austin
- - [https://give.utexas.edu](https://give.utexas.edu)
- - date_published: 2024-05-07T22:13:09.952918+00:00
-
- ## Giving to UT | The University of Texas at Austin
- - [https://giving.utexas.edu](https://giving.utexas.edu)
- - date_published: 2022-08-19T19:36:30+00:00
-
- ## Welcome
- - [https://golem.ph.utexas.edu](https://golem.ph.utexas.edu)
- - date_published: 2019-01-06T20:05:16+00:00
-
- ## UT Graduate ECE (GREECE)
- - [https://greece.ece.utexas.edu](https://greece.ece.utexas.edu)
- - date_published: 2024-04-06T08:54:31+00:00
-
- ## Human-AI Interaction Lab | UT Austin
- - [https://hai.ischool.utexas.edu](https://hai.ischool.utexas.edu)
- - date_published: 2024-07-01T20:08:10.980534+00:00
-
- ## CNS Help Request Form
- - [https://help.cns.utexas.edu](https://help.cns.utexas.edu)
- - date_published: 2024-06-30T08:25:26.374332+00:00
-
- ## HornRaiser | Give
- - [https://hornraiser.utexas.edu](https://hornraiser.utexas.edu)
- - date_published: 2024-07-02T12:00:43.558993+00:00
-
- ## Human Resources Home | Human Resources
- - [https://hr.utexas.edu](https://hr.utexas.edu)
- - date_published: 2024-07-02T11:41:06+00:00
-
- ## Home - The IC² Institute - Innovating Well-Being
- - [https://ic2.utexas.edu](https://ic2.utexas.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Intelligence Studies Project
- - [https://intelligencestudies.utexas.edu](https://intelligencestudies.utexas.edu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Sign in with your UT EID - Loading Session Information
- - [https://intranet.che.utexas.edu](https://intranet.che.utexas.edu)
- - date_published: 2024-07-02T11:59:01.921892+00:00
-
- ## Sign in with your UT EID - Loading Session Information
- - [https://intranet.dellmed.utexas.edu](https://intranet.dellmed.utexas.edu)
- - date_published: 2024-07-01T07:42:31.697477+00:00
-
- ## Sign in with your UT EID - Loading Session Information
- - [https://intranet.engr.utexas.edu](https://intranet.engr.utexas.edu)
- - date_published: 2024-07-02T11:59:14.404012+00:00
-
- ## Home | Information Technology Services
- - [https://its.utexas.edu](https://its.utexas.edu)
- - date_published: 2024-07-01T22:56:21+00:00
-
- ## IT@UT | | The University of Texas at Austin
- - [https://it.utexas.edu](https://it.utexas.edu)
- - date_published: 2024-06-23T15:45:35+00:00
-
- ## Welcome to the School of Journalism
- - [https://journalism.utexas.edu](https://journalism.utexas.edu)
- - date_published: 2024-07-01T16:49:36+00:00
-
- ## LBJ School | The University of Texas at Austin | LBJ School of Public Affairs
- - [https://lbj.utexas.edu](https://lbj.utexas.edu)
- - date_published: 2023-11-19T15:39:17.659158+00:00
-
- ## LBJ Women's Campaign School | LBJ Women's Campaign School
- - [https://lbjwcs.lbj.utexas.edu](https://lbjwcs.lbj.utexas.edu)
- - date_published: 2024-05-07T22:13:24.990562+00:00
-
- ## College of Liberal Arts | The University of Texas at Austin
- - [https://liberalarts.utexas.edu](https://liberalarts.utexas.edu)
- - date_published: 2024-05-06T14:49:07.264286+00:00
-
- ## Life & Letters Magazine
- - [https://lifeandletters.la.utexas.edu](https://lifeandletters.la.utexas.edu)
- - date_published: 2024-06-11T21:23:04+00:00
-
- ## Department of Computer Science
- - [https://login.cs.utexas.edu](https://login.cs.utexas.edu)
- - date_published: 2024-04-29T02:33:59.825964+00:00
-
- ## The Linguistics Research Center
- - [https://lrc.la.utexas.edu](https://lrc.la.utexas.edu)
- - date_published: 2024-05-02T09:39:40.418961+00:00
-
- ## Texas Engineer Magazine - Texas Engineer
- - [https://magazine.engr.utexas.edu](https://magazine.engr.utexas.edu)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Home | Machine Learning Laboratory
- - [https://ml.utexas.edu](https://ml.utexas.edu)
- - date_published: 2024-05-07T22:13:51.354136+00:00
-
- ## Homepage
- - [https://moody.utexas.edu](https://moody.utexas.edu)
- - date_published: 2024-05-08T09:31:24.233872+00:00
-
- ## Home - UT News
- - [https://news.utexas.edu](https://news.utexas.edu)
- - date_published: 2023-10-25T19:05:16.450263+00:00
-
- ## Home Page | School of Nursing
- - [https://nursing.utexas.edu](https://nursing.utexas.edu)
- - date_published: 2024-05-04T10:01:49.227896+00:00
-
- ## Oden Institute for Computational Engineering and Sciences
- - [https://oden.utexas.edu](https://oden.utexas.edu)
- - date_published: 2024-05-07T22:13:41.660037+00:00
-
- ## Petroleum & Geosystems Engineering Department
- - [https://pge.utexas.edu](https://pge.utexas.edu)
- - date_published: 2024-05-07T22:13:21.755355+00:00
-
- ## LAITS Podcasting
- - [https://podcasts.la.utexas.edu](https://podcasts.la.utexas.edu)
- - date_published: 2024-06-23T16:29:27.825335+00:00
-
- ## Office of the President
- - [https://president.utexas.edu](https://president.utexas.edu)
- - date_published: 2024-07-02T11:41:33+00:00
-
- ## COVID-19 | healthybodies
- - [https://protect.utexas.edu](https://protect.utexas.edu)
- - date_published: 2024-07-02T12:02:33.395705+00:00
-
- ## Home | Office of the Registrar
- - [https://registrar.utexas.edu](https://registrar.utexas.edu)
- - date_published: 2024-06-21T23:28:02+00:00
-
- ## TSW :: Repository Home
- - [https://repositories.lib.utexas.edu](https://repositories.lib.utexas.edu)
- - date_published: 2024-07-02T12:00:27.597502+00:00
-
- ## Welcome | Texas Research
- - [https://research.utexas.edu](https://research.utexas.edu)
- - date_published: 2024-07-02T11:42:29+00:00
-
- ## Home | Robotics
- - [https://robotics.utexas.edu](https://robotics.utexas.edu)
- - date_published: 2024-05-07T22:13:53.033511+00:00
-
- ## UT Austin Robot Perception and Learning Lab
- - [https://rpl.cs.utexas.edu](https://rpl.cs.utexas.edu)
- - date_published: 2024-05-08T12:34:00.524973+00:00
-
- ## Home Page
- - [https://rtf.utexas.edu](https://rtf.utexas.edu)
- - date_published: 2024-07-06T11:45:25+00:00
-
- ## Home | UT Austin Information Security Office
- - [https://security.utexas.edu](https://security.utexas.edu)
- - date_published: 2024-06-20T05:01:28+00:00
-
- ## Home | sites.cns.utexas.edu
- - [https://sites.cns.utexas.edu](https://sites.cns.utexas.edu)
- - date_published: 2024-06-30T08:25:43.013926+00:00
-
- ## University Blog Service
- - [https://sites.utexas.edu](https://sites.utexas.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Welcome to the Department of Speech, Language, and Hearing Sciences
- - [https://slhs.utexas.edu](https://slhs.utexas.edu)
- - date_published: 2024-07-06T11:40:33+00:00
-
- ## The University of Texas at Austin School of Architecture
- - [https://soa.utexas.edu](https://soa.utexas.edu)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Spark Research Lab @ The University of Texas at Austin
- - [https://spark.ece.utexas.edu](https://spark.ece.utexas.edu)
- - date_published: 2024-05-04T15:41:20.429738+00:00
-
- ## Major in Statistics & Data Science
- - [https://stat.utexas.edu](https://stat.utexas.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Strategic Plan | The University of Texas at Austin – UT’s 10-year strategic plan to align our mission with our unique opportunity to impact society and change the world.
- - [https://strategicplan.utexas.edu](https://strategicplan.utexas.edu)
- - date_published: 2024-07-02T12:02:22.293448+00:00
-
- ## Sign in with your UT EID - Loading Session Information
- - [http://students.engr.utexas.edu](http://students.engr.utexas.edu)
- - date_published: 2024-07-02T11:59:16.710641+00:00
-
- ## Home - University of Texas Austin
- - [https://supportstudents.giving.utexas.edu](https://supportstudents.giving.utexas.edu)
- - date_published: 2024-07-02T12:01:07.076946+00:00
-
- ## Texas Advanced Computing Center
- - [https://tacc.utexas.edu](https://tacc.utexas.edu)
- - date_published: 2022-08-11T15:19:05.210781+00:00
-
- ## Texas Engineer Magazine – Texas Engineer
- - [https://test.magazine.engr.utexas.edu](https://test.magazine.engr.utexas.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Introduction | Trademark Licensing
- - [https://trademarks.utexas.edu](https://trademarks.utexas.edu)
- - date_published: 2024-07-02T01:18:13+00:00
-
- ## University Marketing and Communications
- - [https://ucomm.utexas.edu](https://ucomm.utexas.edu)
- - date_published: 2024-05-07T22:13:39.986998+00:00
-
- ## University Marketing and Communications
- - [https://umac.utexas.edu](https://umac.utexas.edu)
- - date_published: 2024-07-02T12:02:24.107866+00:00
-
- ## https://users.ece.utexas.edu
- - [https://users.ece.utexas.edu](https://users.ece.utexas.edu)
- - date_published: 2024-01-09T03:28:47.911805+00:00
-
- ## Sign in with your UT EID - Loading Session Information
- - [https://utdirect.utexas.edu](https://utdirect.utexas.edu)
- - date_published: 2024-05-07T22:13:56.711342+00:00
-
- ## The University of Texas at Austin
- - [http://utexas.edu](http://utexas.edu)
- - date_published: 2024-06-27T14:35:01+00:00
-
- ## Home | UTLA Program
- - [https://utla.utexas.edu](https://utla.utexas.edu)
- - date_published: 2024-07-06T11:43:05+00:00
-
- ## UT Lists - home
- - [https://utlists.utexas.edu](https://utlists.utexas.edu)
- - date_published: 2015-06-17T00:00:00+00:00
-
- ## UTNY Home Page | UTNY
- - [https://utny.utexas.edu](https://utny.utexas.edu)
- - date_published: 2024-07-05T00:17:22+00:00
-
- ## Home - University of Texas Press
- - [https://utpress.utexas.edu](https://utpress.utexas.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Department of Mathematics, University of Texas at Austin
- - [https://web.ma.utexas.edu](https://web.ma.utexas.edu)
- - date_published: 2024-05-12T05:31:58.537337+00:00
-
- ## University Wiki Service
- - [https://wikis.utexas.edu](https://wikis.utexas.edu)
- - date_published: 2024-06-23T16:29:48.235846+00:00
-
- ## Dept of Aerospace Engineering & Engineering Mechanics - Cockrell School of Engineering, The University of Texas at Austin
- - [https://ae.utexas.edu](https://ae.utexas.edu)
- - date_published: 2024-05-07T22:13:02.586542+00:00
-
- ## Department of Biomedical Engineering - Cockrell School of Engineering - The University of Texas, Austin - Department of Biomedical Engineering
- - [https://bme.utexas.edu](https://bme.utexas.edu)
- - date_published: 2024-05-07T22:13:00.514420+00:00
-
- ## Home
- - [https://caee.utexas.edu](https://caee.utexas.edu)
- - date_published: 2024-05-07T22:12:58.473331+00:00
-
- ## Homepage | Texas ECE - Electrical & Computer Engineering at UT Austin
- - [https://ece.utexas.edu](https://ece.utexas.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## EEMDL
- - [https://www.eemdl.utexas.edu](https://www.eemdl.utexas.edu)
- - date_published: 2024-07-02T11:59:03.733917+00:00
-
- ## Endowments | What Starts Here Changes the World
- - [https://www.endowments.giving.utexas.edu](https://www.endowments.giving.utexas.edu)
- - date_published: 2024-07-02T12:01:04.743307+00:00
-
- ## UT Cockrell School of Engineering
- - [https://engr.utexas.edu](https://engr.utexas.edu)
- - date_published: 2024-05-07T22:12:53.189975+00:00
-
- ## healthyhorns
- - [https://www.healthyhorns.utexas.edu](https://www.healthyhorns.utexas.edu)
- - date_published: 2024-07-02T11:50:34.698812+00:00
-
- ## UT iSchool | The University of Texas at Austin
- - [https://www.ischool.utexas.edu](https://www.ischool.utexas.edu)
- - date_published: 2024-07-02T10:45:39+00:00
-
- ## UT Libraries | University of Texas Libraries | University of Texas at Austin
- - [https://www.lib.utexas.edu](https://www.lib.utexas.edu)
- - date_published: 2024-07-08T13:26:15+00:00
-
- ## Department of Mathematics, University of Texas at Austin
- - [https://ma.utexas.edu](https://ma.utexas.edu)
- - date_published: 2024-05-07T15:49:04.756890+00:00
-
- ## McCombs School of Business
- - [https://www.mccombs.utexas.edu](https://www.mccombs.utexas.edu)
- - date_published: 2024-07-02T12:03:15.656046+00:00
-
- ## Home
- - [https://me.utexas.edu](https://me.utexas.edu)
- - date_published: 2024-05-07T22:13:15.664061+00:00
-
- ## The University of Texas at Austin
- - [https://www.utexas.edu](https://www.utexas.edu)
- - date_published: 2024-04-29T02:33:49.099791+00:00
-
- ## UTHealth Houston
- - [https://www.uth.edu](https://www.uth.edu)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## The University of Tennessee Health Science Center (UTHSC)
- - [http://www.uthsc.edu](http://www.uthsc.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Branding Central - UT Health San Antonio
- - [https://branding.uthscsa.edu](https://branding.uthscsa.edu)
- - date_published: 2024-07-02T12:06:19.697052+00:00
-
- ## Home | UT Health San Antonio MD Anderson Cancer Center
- - [https://cancer.uthscsa.edu](https://cancer.uthscsa.edu)
- - date_published: 2024-05-07T22:14:20.098503+00:00
-
- ## Catalog < UT Health San Antonio
- - [http://catalog.uthscsa.edu](http://catalog.uthscsa.edu)
- - date_published: 2024-02-23T21:55:41+00:00
-
- ## Home - Greehey Children's Cancer Research Institute
- - [http://ccri.uthscsa.edu](http://ccri.uthscsa.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Profiles
- - [https://directory.uthscsa.edu](https://directory.uthscsa.edu)
- - date_published: 2024-07-01T16:11:50+00:00
-
- ## Events Calendar
- - [https://events.uthscsa.edu](https://events.uthscsa.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## UT Health San Antonio
- - [https://forever.uthscsa.edu](https://forever.uthscsa.edu)
- - date_published: 2024-07-02T12:05:26.818091+00:00
-
- ## Planned Giving | UT Health San Antonio
- - [http://giftplanning.uthscsa.edu](http://giftplanning.uthscsa.edu)
- - date_published: 2024-07-02T12:05:48.243684+00:00
-
- ## Home - Institute for Health Promotion Research
- - [https://ihpr.uthscsa.edu](https://ihpr.uthscsa.edu)
- - date_published: 2024-07-02T16:04:02.661581+00:00
-
- ## The University of Texas Health Science Center at San Antonio
- - [http://ims.uthscsa.edu](http://ims.uthscsa.edu)
- - date_published: 2024-07-02T12:04:08.429104+00:00
-
- ## Welcome to the Office of Legal Affairs
- - [http://legalaffairs.uthscsa.edu](http://legalaffairs.uthscsa.edu)
- - date_published: 2024-07-02T12:03:57.483064+00:00
-
- ## Home - UT Health Science Center Library
- - [http://library.uthscsa.edu](http://library.uthscsa.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## President's Luminary Honors | October 4, 2024
- - [https://luminaryhonors.uthscsa.edu](https://luminaryhonors.uthscsa.edu)
- - date_published: 2024-06-13T18:27:23+00:00
-
- ## Magazines of UT Health San Antonio - Magazines | UT Health San Antonio
- - [https://magazines.uthscsa.edu](https://magazines.uthscsa.edu)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Give to the UT Health San Antonio
- - [https://makelivesbetter.uthscsa.edu](https://makelivesbetter.uthscsa.edu)
- - date_published: 2024-05-07T22:14:17.643244+00:00
-
- ## Home - UT Health San Antonio
- - [https://news.uthscsa.edu](https://news.uthscsa.edu)
- - date_published: 2023-10-25T19:05:27.448402+00:00
-
- ## School of Nursing | School of Nursing
- - [http://nursing.uthscsa.edu](http://nursing.uthscsa.edu)
- - date_published: 2024-07-02T05:49:00+00:00
-
- ## OPA Home | Office of Postdoctoral Affairs
- - [https://opa.uthscsa.edu](https://opa.uthscsa.edu)
- - date_published: 2024-06-25T20:33:31+00:00
-
- ## Find a Provider | UT Health San Antonio Patient Care
- - [https://providers.uthscsa.edu](https://providers.uthscsa.edu)
- - date_published: 2024-07-02T12:04:50.211303+00:00
-
- ## School of Medicine | Long School of Medicine
- - [http://som.uthscsa.edu](http://som.uthscsa.edu)
- - date_published: 2024-07-02T05:31:17+00:00
-
- ## Home - Student Services
- - [https://students.uthscsa.edu](https://students.uthscsa.edu)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Home | UT Health San Antonio
- - [https://uthscsa.edu](https://uthscsa.edu)
- - date_published: 2024-05-07T22:14:03.682930+00:00
-
- ## Home | UT Health San Antonio
- - [https://wp.uthscsa.edu](https://wp.uthscsa.edu)
- - date_published: 2024-05-07T22:14:08.007690+00:00
-
- ## Home | UT Health San Antonio
- - [http://ww2.uthscsa.edu](http://ww2.uthscsa.edu)
- - date_published: 2024-06-27T18:09:16+00:00
-
- ## Home - Barshop Institute
- - [http://www.barshop.uthscsa.edu](http://www.barshop.uthscsa.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Undergraduate Admissions - University of Tennessee, Knoxville
- - [https://admissions.utk.edu](https://admissions.utk.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## College of Arts and Sciences - College of Arts and Sciences
- - [https://artsci.utk.edu](https://artsci.utk.edu)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Events Calendar - University of Tennessee, Knoxville
- - [https://calendar.utk.edu](https://calendar.utk.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## University of Tennessee, Knoxville - Modern Campus Catalog™
- - [https://catalog.utk.edu](https://catalog.utk.edu)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Office of Communications and Marketing | The University of Tennessee, Knoxville
- - [http://communications.utk.edu](http://communications.utk.edu)
- - date_published: 2024-07-02T12:17:55.002045+00:00
-
- ## University of Tennessee, Knoxville
- - [https://content.cms.utk.edu](https://content.cms.utk.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Directory | The University of Tennessee
- - [https://directory.utk.edu](https://directory.utk.edu)
- - date_published: 2024-05-07T22:14:34.124921+00:00
-
- ## Directory | The University of Tennessee
- - [https://ds.utk.edu](https://ds.utk.edu)
- - date_published: 2024-07-02T12:14:15.178956+00:00
-
- ## Experts Guide – University of Tennessee, Knoxville
- - [https://experts.utk.edu](https://experts.utk.edu)
- - date_published: 2024-07-02T12:17:42.185594+00:00
-
- ## Department of Geography and Sustainability - Geography and Sustainability Department
- - [https://geography.utk.edu](https://geography.utk.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## University of Tennessee, Knoxville
- - [http://giveto.utk.edu](http://giveto.utk.edu)
- - date_published: 2024-07-01T03:17:00.719503+00:00
-
- ## UT Knoxville Advancement
- - [https://giving.utk.edu](https://giving.utk.edu)
- - date_published: 2024-07-02T12:15:23.016271+00:00
-
- ## Haslam College of Business - University of Tennessee, Knoxville
- - [https://haslam.utk.edu](https://haslam.utk.edu)
+ - [https://gaa.unc.edu](https://gaa.unc.edu)
+ - date_published: 2024-07-02T04:33:54.596861+00:00
+
+ ## GAMMA
+ - [https://gamma.cs.unc.edu](https://gamma.cs.unc.edu)
+ - date_published: 2024-06-17T03:14:18.209315+00:00
+
+ ## Home - Giving | University of North Carolina at Chapel Hill
+ - [https://giveto.unc.edu](https://giveto.unc.edu)
  - date_published: 2024-04-12T00:00:00+00:00
 
- ## Hebrew - World Languages and Cultures Department
- - [https://hebrew.utk.edu](https://hebrew.utk.edu)
- - date_published: 2023-10-24T00:00:00+00:00
+ ## Make a Gift to UNC-Chapel Hill Today
+ - [https://give.unc.edu](https://give.unc.edu)
+ - date_published: 2024-05-07T21:37:35.410505+00:00
 
- ## Home
- - [https://help.utk.edu](https://help.utk.edu)
- - date_published: 2024-07-02T12:14:22.475411+00:00
+ ## GiveUNC is 3.26.24 | GiveUNC
+ - [https://giveunc.unc.edu](https://giveunc.unc.edu)
+ - date_published: 2024-05-07T21:38:03.194189+00:00
 
- ## Honors Banquets | The University of Tennessee, Knoxville
- - [https://honorsbanquet.utk.edu](https://honorsbanquet.utk.edu)
- - date_published: 2024-06-15T12:53:45.943282+00:00
+ ## Home - Giving | University of North Carolina at Chapel Hill
+ - [https://giving.unc.edu](https://giving.unc.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
 
- ## Home - University Housing
- - [https://housing.utk.edu](https://housing.utk.edu)
- - date_published: 2024-01-22T00:00:00+00:00
+ ## Home - The Curriculum in Global Studies
+ - [https://globalstudies.unc.edu](https://globalstudies.unc.edu)
+ - date_published: 2024-02-20T00:00:00+00:00
 
- ## Human Resources | The University of Tennessee, Knoxville
- - [http://hr.utk.edu](http://hr.utk.edu)
- - date_published: 2024-07-02T12:14:20.303743+00:00
+ ## Home - UNC Global Affairs
+ - [https://global.unc.edu](https://global.unc.edu)
+ - date_published: 2024-02-29T00:00:00+00:00
 
- ## Humanities Center - Denbo Center for Humanities and the Arts
- - [https://humanitiescenter.utk.edu](https://humanitiescenter.utk.edu)
- - date_published: 2024-04-24T00:00:00+00:00
+ ## UNC Link Shortener
+ - [https://go.unc.edu](https://go.unc.edu)
+ - date_published: 2024-07-02T04:25:18.922539+00:00
 
- ## ICL | Innovative Computing Laboratory
- - [https://icl.utk.edu](https://icl.utk.edu)
- - date_published: 2024-06-17T00:31:40+00:00
+ ## UNC Global Research Institute
+ - [https://gri.unc.edu](https://gri.unc.edu)
+ - date_published: 2024-07-02T04:33:43.036189+00:00
 
- ## Test Page for the HTTP Server on Red Hat Enterprise Linux
- - [https://images.utk.edu](https://images.utk.edu)
- - date_published: 2021-07-12T19:36:32+00:00
+ ## LibGuides: Subject Research Guides: Home
+ - [https://guides.lib.unc.edu](https://guides.lib.unc.edu)
+ - date_published: 2024-06-24T10:35:23.615698+00:00
 
- ## The Fern and Manfred Steinfeld Program in Judaic Studies | The University of Tennessee, Knoxville
- - [https://judaic.utk.edu](https://judaic.utk.edu)
- - date_published: 2024-05-07T22:15:05.438828+00:00
+ ## - Heel Life
+ - [https://heellife.unc.edu](https://heellife.unc.edu)
+ - date_published: 2024-07-02T04:24:45.227797+00:00
 
- ## UTK LISTSERV | The University of Tennessee, Knoxville
- - [http://listserv.utk.edu](http://listserv.utk.edu)
- - date_published: 2023-04-18T23:43:18+00:00
-
- ## The University of Tennessee - Campus Map
- - [https://maps.utk.edu](https://maps.utk.edu)
- - date_published: 2024-05-07T22:14:32.247885+00:00
-
- ## Home
- - [https://news.utk.edu](https://news.utk.edu)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Home - Equal Opportunity and Accessibility
- - [https://oed.utk.edu](https://oed.utk.edu)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Sign in to your account
- - [http://office365.utk.edu](http://office365.utk.edu)
+ ## Sign in to Outlook
+ - [https://heelmail.unc.edu](https://heelmail.unc.edu)
  - date_published: 2024-07-02T00:00:00+00:00
 
- ## Office of Investigation and Resolution | The University of Tennessee, Knoxville
- - [https://oir.utk.edu](https://oir.utk.edu)
- - date_published: 2024-07-02T12:14:34.377140+00:00
-
- ## Office of Innovative Technologies | The University of Tennessee, Knoxville
- - [http://oit.utk.edu](http://oit.utk.edu)
- - date_published: 2024-07-02T12:14:18.046594+00:00
-
- ## Department of Philosophy - Philosophy Department
- - [https://philosophy.utk.edu](https://philosophy.utk.edu)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## Programs Abroad | The University of Tennessee, Knoxville
- - [https://programsabroad.utk.edu](https://programsabroad.utk.edu)
- - date_published: 2024-06-15T12:53:51.618633+00:00
-
- ## Office of the University Registrar | The University of Tennessee, Knoxville
- - [http://registrar.utk.edu](http://registrar.utk.edu)
- - date_published: 2024-07-02T12:14:24.722249+00:00
-
- ## Religion in the Workplace | The University of Tennessee, Knoxville
- - [https://religionintheworkplace.utk.edu](https://religionintheworkplace.utk.edu)
- - date_published: 2019-04-01T00:00:00+00:00
-
- ## Department of Religious Studies - Religious Studies Department
- - [https://religion.utk.edu](https://religion.utk.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Public Safety | The University of Tennessee, Knoxville
- - [https://safety.utk.edu](https://safety.utk.edu)
- - date_published: 2024-06-15T12:53:50.179093+00:00
-
- ## CliftonStrengths | The University of Tennessee, Knoxville
- - [https://strengths.utk.edu](https://strengths.utk.edu)
- - date_published: 2021-10-28T00:00:00+00:00
-
- ## Home - Student Life
- - [https://studentlife.utk.edu](https://studentlife.utk.edu)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Login
- - [https://tiny.utk.edu](https://tiny.utk.edu)
- - date_published: 2024-07-02T12:18:08.747240+00:00
-
- ## Office of Title IX | The University of Tennessee
- - [https://titleix.utk.edu](https://titleix.utk.edu)
- - date_published: 2020-08-10T20:30:57+00:00
-
- ## Home
- - [https://tntoday.utk.edu](https://tntoday.utk.edu)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Torchbearer
- - [https://torchbearer.utk.edu](https://torchbearer.utk.edu)
- - date_published: 2024-07-02T12:17:49.250003+00:00
-
- ## Online Degree Programs from the University of Tennessee
- - [https://volsonline.utk.edu](https://volsonline.utk.edu)
- - date_published: 2024-07-02T12:14:57.410808+00:00
-
- ## Volunteer Stories
- - [https://volunteerstories.utk.edu](https://volunteerstories.utk.edu)
- - date_published: 2024-07-02T12:14:55.215069+00:00
-
- ## World Languages and Cultures - World Languages and Cultures Department
- - [https://wlc.utk.edu](https://wlc.utk.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Min H. Kao Department of Electrical Engineering and Computer Science
- - [http://www.cs.utk.edu](http://www.cs.utk.edu)
- - date_published: 2024-07-03T06:10:58.414813+00:00
-
- ## University of Tennessee, Knoxville
- - [https://utk.edu](https://utk.edu)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Internet Encyclopedia of Philosophy | An encyclopedia of philosophy articles written by professional philosophers.
- - [https://iep.utm.edu](https://iep.utm.edu)
- - date_published: 2024-06-15T17:20:17.570617+00:00
-
- ## PrimePages: prime number research records and results
- - [https://primes.utm.edu](https://primes.utm.edu)
- - date_published: 2024-05-16T02:45:59.006582+00:00
-
- ## The University of Tennessee at Martin
- - [https://www.utm.edu](https://www.utm.edu)
- - date_published: 2024-05-16T02:46:04.971730+00:00
-
- ## Welcome to UTMB Health, The University of Texas Medical Branch
- - [https://www.utmb.edu](https://www.utmb.edu)
- - date_published: 2024-07-02T11:49:55.577532+00:00
-
- ## UToledo News
- - [https://news.utoledo.edu](https://news.utoledo.edu)
- - date_published: 2023-12-10T14:19:01.028879+00:00
-
- ## The University of Toledo
- - [https://www.utoledo.edu](https://www.utoledo.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Career Services | University of Texas Permian Basin
- - [https://careers.utpb.edu](https://careers.utpb.edu)
- - date_published: 2024-07-14T04:05:48.171208+00:00
-
- ## UTPB Complaint Management - UTPB IRD
- - [https://complaints.utpb.edu](https://complaints.utpb.edu)
- - date_published: 2024-07-14T04:05:25.836053+00:00
-
- ## La Cuenca Pérmica de la Universidad de Texas | Inicio UTPB
- - [https://es.utpb.edu](https://es.utpb.edu)
- - date_published: 2024-07-14T04:05:27.492616+00:00
-
- ## MyUTPB
- - [https://my.utpb.edu](https://my.utpb.edu)
- - date_published: 2024-07-14T04:06:07.405050+00:00
-
- ## Home - JBS Public Leadership Institute
- - [https://shepperdleadership.utpb.edu](https://shepperdleadership.utpb.edu)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## The University of Texas Permian Basin | UTPB Home
- - [https://utpb.edu](https://utpb.edu)
- - date_published: 2024-05-11T09:19:48.754579+00:00
-
- ## Home | UTRGV
- - [http://www.utrgv.edu](http://www.utrgv.edu)
- - date_published: 2024-06-18T15:41:21+00:00
-
- ## | UTSA Libraries
- - [http://lib.utsa.edu](http://lib.utsa.edu)
- - date_published: 2024-06-14T04:12:00.505478+00:00
-
- ## Shibboleth Authentication Request
- - [https://login.libweb.lib.utsa.edu](https://login.libweb.lib.utsa.edu)
- - date_published: 2024-06-30T01:19:22.689242+00:00
-
- ## Welcome to The University of Texas at San Antonio | UTSA
- - [https://utsa.edu](https://utsa.edu)
- - date_published: 2024-07-14T09:53:53.626734+00:00
-
- ## Welcome to The University of Texas at San Antonio | UTSA
- - [http://www.utsa.edu](http://www.utsa.edu)
- - date_published: 2024-07-02T11:49:30.281792+00:00
-
- ## Homepage - Union Theological Seminary
- - [https://utsnyc.edu](https://utsnyc.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Home - The University of Tennessee Southern
- - [https://utsouthern.edu](https://utsouthern.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Faculty and Staff Directory - UT Southwestern
- - [https://directory.utsouthwestern.edu](https://directory.utsouthwestern.edu)
- - date_published: 2024-05-07T22:15:37.820857+00:00
-
- ## Development and Alumni Relations - UT Southwestern Medical Center
- - [https://donate.utsouthwestern.edu](https://donate.utsouthwestern.edu)
- - date_published: 2024-05-07T22:15:15.485989+00:00
-
- ## Development and Alumni Relations - UT Southwestern Medical Center
- - [https://engage.utsouthwestern.edu](https://engage.utsouthwestern.edu)
- - date_published: 2024-05-07T22:15:44.784015+00:00
-
- ## Events Calendar
- - [https://events.utsouthwestern.edu](https://events.utsouthwestern.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Careers at University of Texas Southwestern Medical Center
- - [https://jobs.utsouthwestern.edu](https://jobs.utsouthwestern.edu)
- - date_published: 2024-05-07T22:15:33.769466+00:00
-
- ## Main Site: Homepage | UT Southwestern, Dallas, Texas
- - [https://labs.utsouthwestern.edu](https://labs.utsouthwestern.edu)
- - date_published: 2024-05-07T22:15:32.091321+00:00
-
- ## UT Southwestern Medical Center Library
- - [https://library.utsouthwestern.edu](https://library.utsouthwestern.edu)
- - date_published: 2022-08-30T13:32:13+00:00
-
- ## MyChart - Login Page
- - [https://mychart.utsouthwestern.edu](https://mychart.utsouthwestern.edu)
- - date_published: 2024-05-07T22:15:29.612650+00:00
-
- ## Faculty Directory - UT Southwestern, Dallas, Texas
- - [https://profiles.utsouthwestern.edu](https://profiles.utsouthwestern.edu)
- - date_published: 2024-05-07T22:15:27.000443+00:00
-
- ## Media Technology Web Streaming - UT Southwestern, Dallas, Texas
- - [https://streaming.utsouthwestern.edu](https://streaming.utsouthwestern.edu)
- - date_published: 2018-03-12T22:05:58+00:00
-
- ## Home
- - [https://utsouthwestern.edu](https://utsouthwestern.edu)
- - date_published: 2023-11-07T23:09:54.425580+00:00
-
- ## The University of Texas System Home
- - [https://cms.utsystem.edu](https://cms.utsystem.edu)
- - date_published: 2024-07-01T22:35:36+00:00
-
- ## UT Share: Sign Out Notice
- - [https://dacs-prd.utshare.utsystem.edu](https://dacs-prd.utshare.utsystem.edu)
- - date_published: 2022-03-21T13:52:15+00:00
-
- ## UT Share: Sign Out Notice
- - [https://dahr-prd.utshare.utsystem.edu](https://dahr-prd.utshare.utsystem.edu)
- - date_published: 2022-03-21T13:52:16+00:00
-
- ## Home
- - [http://data.utsystem.edu](http://data.utsystem.edu)
- - date_published: 2024-07-02T11:49:38.278108+00:00
-
- ## Home | SeekUT
- - [https://seekut.utsystem.edu](https://seekut.utsystem.edu)
- - date_published: 2024-07-02T11:49:57.636169+00:00
-
- ## Home
- - [https://utsystem.edu](https://utsystem.edu)
- - date_published: 2024-05-07T22:11:54.765761+00:00
-
- ## Index Page
- - [https://zahr-prd-candidate-ada.utshare.utsystem.edu](https://zahr-prd-candidate-ada.utshare.utsystem.edu)
- - date_published: 2023-06-10T17:54:51+00:00
-
- ## The University of Texas at Tyler | UT Tyler
- - [http://www.uttyler.edu](http://www.uttyler.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Undergraduate Admission
- - [https://admission.utulsa.edu](https://admission.utulsa.edu)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## University of Tulsa - Modern Campus Catalog™
- - [https://bulletin.utulsa.edu](https://bulletin.utulsa.edu)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Events Calendar
- - [https://calendar.utulsa.edu](https://calendar.utulsa.edu)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## LibGuides: Library Homepage: McFarlin Homepage
- - [https://libraries.utulsa.edu](https://libraries.utulsa.edu)
- - date_published: 2024-07-14T20:36:18.734665+00:00
-
- ## Home | The University of Tulsa
- - [https://online.utulsa.edu](https://online.utulsa.edu)
- - date_published: 2024-07-12T18:48:12+00:00
-
- ## Sign in to your account
- - [https://sso.utulsa.edu](https://sso.utulsa.edu)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## The University of Tulsa
- - [https://utulsa.edu](https://utulsa.edu)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Admissions | | The University of Vermont
- - [https://admissions.uvm.edu](https://admissions.uvm.edu)
- - date_published: 2024-05-07T22:16:11.053453+00:00
-
- ## Frequently Asked Questions: Home - LibAnswers
- - [https://askalibrarian.uvm.edu](https://askalibrarian.uvm.edu)
- - date_published: 2024-07-02T12:28:10.413735+00:00
-
- ## The University of Vermont
- - [https://bb.uvm.edu](https://bb.uvm.edu)
- - date_published: 2024-02-23T16:58:52+00:00
-
- ## Login - UVM Brightspace
- - [https://brightspace.uvm.edu](https://brightspace.uvm.edu)
- - date_published: 2024-07-02T12:29:46.941800+00:00
-
- ## Chris Danforth
- - [https://cdanfort.w3.uvm.edu](https://cdanfort.w3.uvm.edu)
- - date_published: 2024-05-19T23:34:51+00:00
-
- ## THE UNIVERSITY OF VERMONT LIBRARIES | Digital Collections
- - [https://cdi.uvm.edu](https://cdi.uvm.edu)
- - date_published: 2024-07-02T12:28:25+00:00
-
- ## The University of Vermont
- - [https://content.uvm.edu](https://content.uvm.edu)
- - date_published: 2024-07-02T12:27:37+00:00
-
- ## Dana Health Sciences Library | Dana Health Sciences Library
- - [https://dana.uvm.edu](https://dana.uvm.edu)
- - date_published: 2024-07-02T12:28:32.097131+00:00
-
- ## The University of Vermont -- WebAuth
- - [https://go.uvm.edu](https://go.uvm.edu)
- - date_published: 2024-07-02T12:29:18.919688+00:00
-
- ## IIS Windows Server
- - [https://illiad.uvm.edu](https://illiad.uvm.edu)
- - date_published: 2019-06-14T16:07:30+00:00
-
- ## UVM Professional and Continuing Education - University of Vermont
- - [https://learn.uvm.edu](https://learn.uvm.edu)
- - date_published: 2023-03-27T17:19:15+00:00
-
- ## Howe Library | Howe Library
- - [https://library.uvm.edu](https://library.uvm.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Shibboleth Authentication Request
- - [https://login.ezproxy.uvm.edu](https://login.ezproxy.uvm.edu)
- - date_published: 2024-07-02T12:28:23.936048+00:00
-
- ## The University of Vermont -- WebAuth
- - [https://mail.uvm.edu](https://mail.uvm.edu)
- - date_published: 2024-07-02T12:29:45.468024+00:00
-
- ## The University of Vermont -- WebAuth
- - [https://myuvm.uvm.edu](https://myuvm.uvm.edu)
- - date_published: 2024-05-07T22:16:20.017634+00:00
-
- ## Peter Sheridan Dodds
- - [https://pdodds.w3.uvm.edu](https://pdodds.w3.uvm.edu)
- - date_published: 2023-09-11T20:10:44+00:00
-
- ## University of Vermont ScholarWorks
- - [http://scholarworks.uvm.edu](http://scholarworks.uvm.edu)
- - date_published: 2024-07-02T12:28:08.536005+00:00
-
- ## SFX Version 4 for Linux by Ex Libris
- - [http://sfx.uvm.edu](http://sfx.uvm.edu)
- - date_published: 2014-12-16T08:20:08+00:00
-
- ## Silver Special Collections Library | Silver Special Collections Library
- - [https://specialcollections.uvm.edu](https://specialcollections.uvm.edu)
- - date_published: 2024-07-02T12:28:19.245882+00:00
-
- ## Taras I.Lakoba - University Of Vermont
- - [https://tlakoba.w3.uvm.edu](https://tlakoba.w3.uvm.edu)
- - date_published: 2023-10-25T19:05:38.861859+00:00
-
- ## Welcome | The UVM Bookstore
- - [https://uvmbookstore.uvm.edu](https://uvmbookstore.uvm.edu)
- - date_published: 2024-07-02T12:27:42.119097+00:00
-
- ## UVM Homepage | The University of Vermont
- - [https://uvmd10.drup2.uvm.edu](https://uvmd10.drup2.uvm.edu)
- - date_published: 2024-07-02T12:27:40.062966+00:00
-
- ## The University of Vermont
- - [https://uvmd9.drup2.uvm.edu](https://uvmd9.drup2.uvm.edu)
- - date_published: 2024-05-07T22:16:46.865139+00:00
-
- ## The University of Vermont
- - [https://uvmd9.uvm.edu](https://uvmd9.uvm.edu)
- - date_published: 2024-05-07T22:16:08.189149+00:00
-
- ## UVM Libraries Catalog
- - [http://voyager.uvm.edu](http://voyager.uvm.edu)
- - date_published: 2024-01-12T19:55:06+00:00
-
- ## Home Page
- - [https://www.alumni.uvm.edu](https://www.alumni.uvm.edu)
- - date_published: 2024-05-07T22:16:44.573691+00:00
-
- ## Larner College of Medicine at The University of Vermont
- - [https://med.uvm.edu](https://med.uvm.edu)
- - date_published: 2024-05-07T22:16:35.188877+00:00
-
- ## https://www.uvm.edu
- - [https://uvm.edu](https://uvm.edu)
- - date_published: 2024-01-09T03:28:49.823820+00:00
-
- ## News
- - [http://ads-institute.uw.edu](http://ads-institute.uw.edu)
- - date_published: 2020-11-17T05:45:28+00:00
-
- ## College of Arts & Sciences | University of Washington
- - [https://artsci.uw.edu](https://artsci.uw.edu)
- - date_published: 2024-06-29T21:13:11+00:00
-
- ## ArtsUW Events | Arts Events
- - [https://artsevents.uw.edu](https://artsevents.uw.edu)
- - date_published: 2024-07-02T13:43:35.865644+00:00
-
- ## Default - AskUs
- - [https://ask.lib.uw.edu](https://ask.lib.uw.edu)
- - date_published: 2024-07-02T13:49:08.291911+00:00
-
- ## Behavioral Data Science - Home
- - [http://bdata.uw.edu](http://bdata.uw.edu)
- - date_published: 2023-10-17T23:52:31+00:00
-
- ## UW NetID sign-in
- - [http://canvas.uw.edu](http://canvas.uw.edu)
- - date_published: 2024-07-02T13:48:31.918662+00:00
-
- ## Home page
- - [https://ciso.uw.edu](https://ciso.uw.edu)
- - date_published: 2024-06-16T09:31:37.044666+00:00
-
- ## Communication Leadership Degrees
- - [http://commlead.uw.edu](http://commlead.uw.edu)
- - date_published: 2024-04-30T05:44:29.669517+00:00
-
- ## Main Home
- - [https://comotion.uw.edu](https://comotion.uw.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## ConnectedLib
- - [https://connectedlib.ischool.uw.edu](https://connectedlib.ischool.uw.edu)
- - date_published: 2024-07-01T22:53:22.553368+00:00
-
- ## UW Facilities Home | UW Facilities
- - [https://cpd.uw.edu](https://cpd.uw.edu)
- - date_published: 2024-07-02T13:46:59.216397+00:00
-
- ## CREATE
- - [https://create.uw.edu](https://create.uw.edu)
- - date_published: 2024-07-02T13:32:38.296442+00:00
-
- ## Welcome to Paul G. Allen School of Computer Science & Engineering | Paul G. Allen School of Computer Science & Engineering
- - [https://cse.uw.edu](https://cse.uw.edu)
- - date_published: 2024-07-01T19:52:49.242137+00:00
-
- ## Campus Sustainability Fund | Campus Sustainability Fund (CSF)
- - [https://csf.uw.edu](https://csf.uw.edu)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Departments | University of Washington Tacoma Directory
- - [https://directory.tacoma.uw.edu](https://directory.tacoma.uw.edu)
- - date_published: 2024-07-02T07:27:38+00:00
-
- ## UW Faculty/Staff/Student Directory
- - [https://directory.uw.edu](https://directory.uw.edu)
- - date_published: 2024-05-07T22:27:48.475503+00:00
-
- ## HCI & Design at the University of Washington
- - [http://dub.uw.edu](http://dub.uw.edu)
- - date_published: 2024-06-27T21:54:25+00:00
-
- ## Home – Your source for Workday support
- - [https://employeehelp.workday.uw.edu](https://employeehelp.workday.uw.edu)
- - date_published: 2024-05-07T22:27:55.830226+00:00
-
- ## University of Washington College of Engineering
- - [https://engr.uw.edu](https://engr.uw.edu)
- - date_published: 2024-06-15T17:36:41.392027+00:00
-
- ## Home
- - [https://environment.uw.edu](https://environment.uw.edu)
- - date_published: 2024-07-02T13:19:36+00:00
-
- ## UW Facilities Home | UW Facilities
- - [https://facilities.uw.edu](https://facilities.uw.edu)
- - date_published: 2024-07-02T13:45:35.502419+00:00
-
- ## Welcome to UW Finance | UW Finance
- - [https://finance.uw.edu](https://finance.uw.edu)
- - date_published: 2024-05-07T22:27:25.446993+00:00
-
- ## UW Graduate School
- - [https://grad.uw.edu](https://grad.uw.edu)
- - date_published: 2024-07-02T13:33:02.348485+00:00
-
- ## UW Sustainability
- - [https://green.uw.edu](https://green.uw.edu)
- - date_published: 2024-07-02T13:24:39+00:00
-
- ## Library Guides
- - [http://guides.lib.uw.edu](http://guides.lib.uw.edu)
- - date_published: 2024-07-02T13:48:56.131305+00:00
-
- ## Human Centered Design & Engineering
- - [http://hcde.uw.edu](http://hcde.uw.edu)
- - date_published: 2024-04-30T05:44:54.438685+00:00
-
- ## Housing & Food Services - UW HFS
- - [https://hfs.uw.edu](https://hfs.uw.edu)
- - date_published: 2024-05-07T22:27:30.814550+00:00
-
- ## Human Resources
- - [http://hr.uw.edu](http://hr.uw.edu)
- - date_published: 2024-07-02T13:45:32.475882+00:00
-
- ## Home
- - [https://hsl.uw.edu](https://hsl.uw.edu)
- - date_published: 2024-07-02T13:48:54.572610+00:00
-
- ## International Arctic Buoy Programme
- - [http://iabp.apl.uw.edu](http://iabp.apl.uw.edu)
- - date_published: 2022-04-27T23:12:55+00:00
-
- ## UW NetID sign-in
- - [https://identity.uw.edu](https://identity.uw.edu)
- - date_published: 2024-07-02T13:20:59.890101+00:00
-
- ## UW NetID sign-in
- - [https://insideuwit.uw.edu](https://insideuwit.uw.edu)
- - date_published: 2024-06-16T09:31:35.127902+00:00
-
- ## Information School | University of Washington
- - [https://ischool.uw.edu](https://ischool.uw.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Home – Your source for Workday support
- - [https://isc.uw.edu](https://isc.uw.edu)
- - date_published: 2024-06-15T17:26:23+00:00
-
- ## IT Connect
- - [https://itconnect.uw.edu](https://itconnect.uw.edu)
- - date_published: 2024-05-01T06:18:38.389467+00:00
-
- ## University of Washington Libraries
- - [https://lib.uw.edu](https://lib.uw.edu)
- - date_published: 2024-05-07T22:27:43.859911+00:00
-
- ## Sign in to your account
- - [https://metadata.uw.edu](https://metadata.uw.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home - Multicultural Outreach & Recruitment
- - [https://mor.uw.edu](https://mor.uw.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## UW NetID sign-in
- - [https://myhfs.housing.uw.edu](https://myhfs.housing.uw.edu)
- - date_published: 2024-07-02T13:47:22.873056+00:00
-
- ## UW NetID sign-in
- - [https://my.uw.edu](https://my.uw.edu)
- - date_published: 2024-05-07T22:26:52.137801+00:00
-
- ## Home Page - UW Medicine | Newsroom
- - [https://newsroom.uw.edu](https://newsroom.uw.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## This Page has moved
- - [https://people.ece.uw.edu](https://people.ece.uw.edu)
- - date_published: 2024-06-22T09:50:04.754965+00:00
-
- ## Together We Will
- - [https://privacy.uw.edu](https://privacy.uw.edu)
- - date_published: 2024-06-16T09:31:38.528070+00:00
-
- ## Polar Science Center
- - [https://psc.apl.uw.edu](https://psc.apl.uw.edu)
- - date_published: 2024-05-07T15:32:13.441621+00:00
-
- ## UW Reality Lab
- - [https://realitylab.uw.edu](https://realitylab.uw.edu)
- - date_published: 2023-04-13T00:25:08+00:00
-
- ## Discover · UW Scout
- - [https://scout.uw.edu](https://scout.uw.edu)
- - date_published: 2024-07-02T13:49:25.154859+00:00
-
- ## Welcome
- - [https://sites.uw.edu](https://sites.uw.edu)
- - date_published: 2024-07-01T23:10:16.844728+00:00
-
- ## Sign in - Matomo
- - [https://stats.ipd.uw.edu](https://stats.ipd.uw.edu)
- - date_published: 2024-07-01T23:10:12.510972+00:00
-
- ## Home | University of Washington Department of Statistics
- - [https://stat.uw.edu](https://stat.uw.edu)
- - date_published: 2024-07-01T23:44:37+00:00
-
- ## UW Sustainability
- - [https://sustainability.uw.edu](https://sustainability.uw.edu)
- - date_published: 2024-05-07T22:26:50.061737+00:00
-
- ## UW Tacoma Home | About UW Tacoma | University of Washington Tacoma
- - [https://tacoma.uw.edu](https://tacoma.uw.edu)
- - date_published: 2024-07-01T23:53:25+00:00
-
- ## Technology and Social Change Group
- - [https://tascha.uw.edu](https://tascha.uw.edu)
- - date_published: 2024-06-30T09:12:43.193511+00:00
-
- ## Tech Policy Lab | University of Washington
- - [https://techpolicylab.uw.edu](https://techpolicylab.uw.edu)
- - date_published: 2024-07-02T13:42:15.384569+00:00
-
- ## Home | Transportation Services
- - [https://transportation.uw.edu](https://transportation.uw.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## UW Connect
- - [https://uwconnect.uw.edu](https://uwconnect.uw.edu)
- - date_published: 2024-07-02T13:46:55.502310+00:00
-
- ## TIME honors protein designer David Baker
- - [https://uw.edu](https://uw.edu)
- - date_published: 2024-05-07T22:25:42.739738+00:00
-
- ## Student Well-Being
- - [https://wellbeing.uw.edu](https://wellbeing.uw.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Workday@UW: Where to Start for Workday Help
- - [https://workday.uw.edu](https://workday.uw.edu)
- - date_published: 2024-06-16T09:31:42.617122+00:00
-
- ## Center for an Informed Public
- - [https://www.cip.uw.edu](https://www.cip.uw.edu)
- - date_published: 2024-06-29T19:57:32+00:00
-
- ## University of Washington Continuum College
- - [https://www.continuum.uw.edu](https://www.continuum.uw.edu)
- - date_published: 2024-07-02T13:47:36.115326+00:00
-
- ## The Integrator 2020
- - [https://www.ece.uw.edu](https://www.ece.uw.edu)
- - date_published: 2024-06-22T09:50:07.852890+00:00
-
- ## Institute for Protein Design
- - [http://www.ipd.uw.edu](http://www.ipd.uw.edu)
- - date_published: 2024-07-01T23:10:15.200365+00:00
-
- ## Home - UW Professional & Continuing Education
- - [https://pce.uw.edu](https://pce.uw.edu)
- - date_published: 2024-05-07T22:27:33.421412+00:00
-
- ## UW Online - Integrated Social Sciences Bachelor’s Degree
- - [https://www.socialsciencesonline.uw.edu](https://www.socialsciencesonline.uw.edu)
- - date_published: 2024-04-29T05:28:47.102153+00:00
-
- ## Undergraduate Admissions - Undergraduate Admissions
- - [https://admissions.uwb.edu](https://admissions.uwb.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Homepage - The University of Washington Bothell
- - [https://www.uwb.edu](https://www.uwb.edu)
+ ## Service Portal Decision page - The University of North Carolina at Chapel Hill
+ - [https://help.unc.edu](https://help.unc.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Home - Honors Carolina | Come Here. Go Anywhere.
+ - [https://honorscarolina.unc.edu](https://honorscarolina.unc.edu)
+ - date_published: 2024-07-02T04:20:30.134314+00:00
+
+ ## Human Resources & Equal Opportunity and Compliance
+ - [https://hreoc.unc.edu](https://hreoc.unc.edu)
+ - date_published: 2024-07-02T04:26:05.223809+00:00
+
+ ## Welcome - UNC Human Resources
+ - [https://hr.unc.edu](https://hr.unc.edu)
  - date_published: 2024-05-06T00:00:00+00:00
 
- ## Home | University of West Florida
- - [https://uwf.edu](https://uwf.edu)
- - date_published: 2024-07-08T14:45:04+00:00
+ ## Carolina Public Humanities
+ - [https://humanities.unc.edu](https://humanities.unc.edu)
+ - date_published: 2024-07-02T04:33:55.953499+00:00
 
- ## The University of the West Indies, St Augustine Trinidad and Tobago, Journals
- - [https://journals.sta.uwi.edu](https://journals.sta.uwi.edu)
- - date_published: 2024-07-04T13:16:37.148368+00:00
+ ## UNC Hussman School of Journalism and Media
+ - [http://hussman.unc.edu](http://hussman.unc.edu)
+ - date_published: 2024-07-01T15:50:59+00:00
 
- ## The University of the West Indies, Mona, Jamaica
- - [https://www.mona.uwi.edu](https://www.mona.uwi.edu)
- - date_published: 2024-07-09T12:36:56+00:00
+ ## IDEAs in Action – University of North Carolina at Chapel Hill
+ - [https://ideasinaction.unc.edu](https://ideasinaction.unc.edu)
+ - date_published: 2024-07-02T04:21:04.532374+00:00
 
- ## UW-Milwaukee Academic Catalog
- - [https://catalog.uwm.edu](https://catalog.uwm.edu)
- - date_published: 2024-06-28T16:25:46+00:00
+ ## University Branding and Identity Guidelines
+ - [https://identity.unc.edu](https://identity.unc.edu)
+ - date_published: 2024-05-07T21:38:49.902466+00:00
 
- ## University of Wisconsin-Milwaukee | Home
- - [http://jobs.uwm.edu](http://jobs.uwm.edu)
- - date_published: 2024-06-30T02:29:19+00:00
+ ## Home - Institutional Integrity and Risk Management
+ - [https://iirm.unc.edu](https://iirm.unc.edu)
+ - date_published: 2024-01-30T00:00:00+00:00
 
- ## PAWS Redirect
- - [https://paws.uwm.edu](https://paws.uwm.edu)
- - date_published: 2024-01-15T21:52:18+00:00
+ ## UNC School of Information and Library Science
+ - [https://ils.unc.edu](https://ils.unc.edu)
+ - date_published: 2024-05-04T13:59:07.777727+00:00
 
- ## University of Wisconsin-Milwaukee
- - [https://uwm.edu](https://uwm.edu)
- - date_published: 2024-03-29T00:00:00+00:00
+ ## Library Homepage
+ - [https://imageserv.lib.unc.edu](https://imageserv.lib.unc.edu)
+ - date_published: 2024-07-02T04:22:22.799502+00:00
 
- ## University of Wyoming - Acalog ACMS™
- - [https://acalogcatalog.uwyo.edu](https://acalogcatalog.uwyo.edu)
- - date_published: 2024-05-11T00:00:00+00:00
+ ## Home New — Instructional Innovation
+ - [https://instructionalinnovation.unc.edu](https://instructionalinnovation.unc.edu)
+ - date_published: 2024-07-02T04:20:52.438285+00:00
 
- ## wyologin.uwyo.edu
- - [https://bnrssomgr.uwyo.edu](https://bnrssomgr.uwyo.edu)
- - date_published: 2024-07-14T15:05:32.889705+00:00
+ ## Institute for the Study of the Americas
+ - [https://isa.unc.edu](https://isa.unc.edu)
+ - date_published: 2024-07-02T04:20:58.837392+00:00
+
+ ## Welcome to UNC's ISSS Portal for International Students and Scholars
+ - [https://isssportal.unc.edu](https://isssportal.unc.edu)
+ - date_published: 2024-07-02T04:25:28+00:00
+
+ ## ISSS
+ - [https://isss.unc.edu](https://isss.unc.edu)
+ - date_published: 2024-07-02T04:33:40.918645+00:00
+
+ ## ITS Commons
+ - [http://its-commons.unc.edu](http://its-commons.unc.edu)
+ - date_published: 2024-07-02T04:21:22.247360+00:00
+
+ ## UNC Chapel Hill - ITS Status
+ - [https://itsstatus.unc.edu](https://itsstatus.unc.edu)
+ - date_published: 2024-07-02T04:21:24.514786+00:00
+
+ ## Home - Information Technology Services
+ - [https://its.unc.edu](https://its.unc.edu)
+ - date_published: 2024-05-07T21:37:23.906306+00:00
+
+ ## Home – Learning Center
+ - [https://learningcenter.unc.edu](https://learningcenter.unc.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Home Page
+ - [https://library.law.unc.edu](https://library.law.unc.edu)
+ - date_published: 2024-06-24T10:35:19.403222+00:00
+
+ ## Homepage - UNC-Chapel Hill Libraries
+ - [https://library.unc.edu](https://library.unc.edu)
+ - date_published: 2024-05-06T16:59:29.519023+00:00
+
+ ## Lifelong Learning
+ - [https://lifelonglearning.unc.edu](https://lifelonglearning.unc.edu)
+ - date_published: 2024-05-07T21:38:33.008677+00:00
+
+ ## Home - Carolina Arts & Sciences Magazine
+ - [https://magazine.college.unc.edu](https://magazine.college.unc.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Home - Maps - The University of North Carolina at Chapel Hill
+ - [https://maps.unc.edu](https://maps.unc.edu)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## The Public's Library and Digital Archive
+ - [http://metalab.unc.edu](http://metalab.unc.edu)
+ - date_published: 2024-07-13T07:49:23.494692+00:00
+
+ ## UNC Center for Middle East and Islamic Studies
+ - [https://mideast.unc.edu](https://mideast.unc.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Login
+ - [https://mycarolina.unc.edu](https://mycarolina.unc.edu)
+ - date_published: 2024-07-02T04:24:07.517128+00:00
+
+ ## Home - North Carolina PFAS University Research Alliance
+ - [https://ncpure.collaboratory.unc.edu](https://ncpure.collaboratory.unc.edu)
+ - date_published: 2024-07-02T04:21:14.122853+00:00
+
+ ## Welcome to Carolina Blue.
+ - [http://new.unc.edu](http://new.unc.edu)
+ - date_published: 2024-07-02T04:25:29.791558+00:00
+
+ ## UNC-Chapel Hill Public Records OfficeNextRequest - Modern FOIA & Public Records Request Software
+ - [https://nextrequest.unc.edu](https://nextrequest.unc.edu)
+ - date_published: 2016-12-13T00:00:00+00:00
+
+ ## Nutrient Management Study
+ - [https://nutrients.web.unc.edu](https://nutrients.web.unc.edu)
+ - date_published: 2024-07-02T04:21:15.361604+00:00
+
+ ## Home - Osteoarthritis Action Alliance
+ - [https://oaaction.unc.edu](https://oaaction.unc.edu)
+ - date_published: 2024-06-28T12:05:58.690601+00:00
+
+ ## Homepage
+ - [https://oasis.unc.edu](https://oasis.unc.edu)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Dean of Students
+ - [https://odos.unc.edu](https://odos.unc.edu)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Home - The Odum Institute - UNC Chapel Hill
+ - [https://odum.unc.edu](https://odum.unc.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home - UNC One Card
+ - [https://onecard.unc.edu](https://onecard.unc.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## EZproxy - UNC-Chapel Hill Libraries
+ - [https://onlinelibrary.wiley.com.libproxy.lib.unc.edu](https://onlinelibrary.wiley.com.libproxy.lib.unc.edu)
+ - date_published: 2024-05-07T21:37:26.015068+00:00
+
+ ## UNC-Chapel Hill Online
+ - [https://online.unc.edu](https://online.unc.edu)
+ - date_published: 2024-07-02T04:26:21.612298+00:00
+
+ ## Office for Undergraduate Research
+ - [https://our.unc.edu](https://our.unc.edu)
+ - date_published: 2024-07-02T04:21:05.845201+00:00
+
+ ## Home @ Park Library - Park Library (Hussman School of Journalism & Media)
+ - [https://parklibrary.mj.unc.edu](https://parklibrary.mj.unc.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Home - UNC Eshelman School of Pharmacy
+ - [https://pharmacy.unc.edu](https://pharmacy.unc.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Home - Police
+ - [https://police.unc.edu](https://police.unc.edu)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Home
+ - [https://policies.unc.edu](https://policies.unc.edu)
+ - date_published: 2024-07-02T04:25:20.644808+00:00
+
+ ## Home - Department of Political Science
+ - [http://politicalscience.unc.edu](http://politicalscience.unc.edu)
+ - date_published: 2024-06-17T11:14:00.278878+00:00
+
+ ## Funding Opportunities
+ - [https://projects.collaboratory.unc.edu](https://projects.collaboratory.unc.edu)
+ - date_published: 2024-07-02T04:21:10.973562+00:00
+
+ ## Home - Provost & Chief Academic Officer - UNC Chapel Hill
+ - [https://provost.unc.edu](https://provost.unc.edu)
+ - date_published: 2024-07-02T04:34:15.732767+00:00
+
+ ## Public Policy
+ - [https://publicpolicy.unc.edu](https://publicpolicy.unc.edu)
+ - date_published: 2024-07-03T12:49:25.871834+00:00
+
+ ## Welcome to the Registrar's Office - Office of the University Registrar
+ - [https://registrar.unc.edu](https://registrar.unc.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## reports.unc.edu
+ - [https://reports.unc.edu](https://reports.unc.edu)
+ - date_published: 2024-07-02T04:24:03.258171+00:00
+
+ ## UNC Research
+ - [https://research.unc.edu](https://research.unc.edu)
+ - date_published: 2023-12-18T18:13:30.339368+00:00
+
+ ## Richard L. Smith
+ - [https://rls.sites.oasis.unc.edu](https://rls.sites.oasis.unc.edu)
+ - date_published: 2024-01-22T14:28:28.722387+00:00
+
+ ## Safe Computing at UNC
+ - [https://safecomputing.unc.edu](https://safecomputing.unc.edu)
+ - date_published: 2024-07-02T04:21:21.147740+00:00
+
+ ## Home - Safe at UNC
+ - [https://safe.unc.edu](https://safe.unc.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Search - The University of North Carolina at Chapel Hill
+ - [http://search.unc.edu](http://search.unc.edu)
+ - date_published: 2024-07-02T04:25:54.717343+00:00
+
+ ## Home - Speak Up Carolina: Conversations for Community
+ - [https://speakup.unc.edu](https://speakup.unc.edu)
+ - date_published: 2024-07-02T04:33:21.857824+00:00
+
+ ## Home - Finance and Operations
+ - [https://static.fo.unc.edu](https://static.fo.unc.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## UNC Campus Recreation Portal
+ - [https://stayactive.unc.edu](https://stayactive.unc.edu)
+ - date_published: 2024-07-02T04:25:45.280934+00:00
+
+ ## Carolina Stories
+ - [https://stories.unc.edu](https://stories.unc.edu)
+ - date_published: 2024-07-02T04:25:10.485431+00:00
+
+ ## UNC Student Affairs
+ - [https://studentaffairs.unc.edu](https://studentaffairs.unc.edu)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## The Center for Student Success
+ - [https://studentsuccess.unc.edu](https://studentsuccess.unc.edu)
+ - date_published: 2024-07-02T04:21:02.413613+00:00
+
+ ## Student Employment at UNC
+ - [https://studentwork.unc.edu](https://studentwork.unc.edu)
+ - date_published: 2024-07-02T04:25:32.109347+00:00
+
+ ## Study Abroad
+ - [https://studyabroad.unc.edu](https://studyabroad.unc.edu)
+ - date_published: 2024-07-02T04:20:33.854816+00:00
+
+ ## Summer School
+ - [https://summer.unc.edu](https://summer.unc.edu)
+ - date_published: 2024-07-02T04:26:22.733784+00:00
+
+ ## The Well - The University of North Carolina at Chapel Hill
+ - [https://thewell.unc.edu](https://thewell.unc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## NC TraCS  Institute
+ - [https://tracs.unc.edu](https://tracs.unc.edu)
+ - date_published: 2024-07-01T02:54:14+00:00
+
+ ## The University of North Carolina at Chapel Hill
+ - [https://unc.edu](https://unc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home - UNC News Archives
+ - [https://uncnewsarchive.unc.edu](https://uncnewsarchive.unc.edu)
+ - date_published: 2024-07-02T04:31:59.319868+00:00
+
+ ## Home - UNC News
+ - [https://uncnews.unc.edu](https://uncnews.unc.edu)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Undergraduate Education
+ - [https://undergrad-ed.unc.edu](https://undergrad-ed.unc.edu)
+ - date_published: 2024-07-02T04:20:28.374581+00:00
+
+ ## UNC Chapel Hill University Library Classic Catalog
+ - [https://webcat.lib.unc.edu](https://webcat.lib.unc.edu)
+ - date_published: 2024-07-02T04:22:27.521485+00:00
+
+ ## Home – The Writing Center • University of North Carolina at Chapel Hill
+ - [https://writingcenter.unc.edu](https://writingcenter.unc.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Biostatistics  - UNC Gillings School of Global Public Health
+ - [http://www.bios.unc.edu](http://www.bios.unc.edu)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## HORIZON Site
+ - [https://horizon.unc.edu](https://horizon.unc.edu)
+ - date_published: 2006-01-01T00:00:00+00:00
+
+ ## Library Homepage
+ - [http://www.lib.unc.edu](http://www.lib.unc.edu)
+ - date_published: 2024-07-02T04:25:49.339857+00:00
+
+ ## UNC School of Medicine
+ - [https://www.med.unc.edu](https://www.med.unc.edu)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Home - Sheps Center
+ - [https://www.shepscenter.unc.edu](https://www.shepscenter.unc.edu)
+ - date_published: 2023-10-25T19:03:16.486451+00:00
+
+ ## UNC School of Government
+ - [https://www.sog.unc.edu](https://www.sog.unc.edu)
+ - date_published: 2024-07-02T01:08:26+00:00
+
+ ## UNC Gillings School of Global Public Health
+ - [http://www.sph.unc.edu](http://www.sph.unc.edu)
+ - date_published: 2024-07-02T04:24:25.112358+00:00
+
+ ## HOME | CSLS, Inc.
+ - [https://www.uncstudentlegal.unc.edu](https://www.uncstudentlegal.unc.edu)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## UNC Asheville - Where It All Starts - UNC Asheville
+ - [https://www.unca.edu](https://www.unca.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Campus Accessibility
+ - [https://accessibility.uncc.edu](https://accessibility.uncc.edu)
+ - date_published: 2024-06-21T22:56:25.863262+00:00
+
+ ## UNC Charlotte Admissions - Undergraduate Admissions
+ - [https://admissions.uncc.edu](https://admissions.uncc.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Division of University Advancement
+ - [https://advancement.uncc.edu](https://advancement.uncc.edu)
+ - date_published: 2024-06-21T22:57:04.697206+00:00
+
+ ## Academic Advising
+ - [https://advising.uncc.edu](https://advising.uncc.edu)
+ - date_published: 2024-06-21T22:56:50.141702+00:00
+
+ ## Auxiliary Services - Auxiliary Services
+ - [https://aux.uncc.edu](https://aux.uncc.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Events Calendar
+ - [https://campusevents.uncc.edu](https://campusevents.uncc.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## UNC Charlotte | Crowdfund
+ - [https://crowdfund.uncc.edu](https://crowdfund.uncc.edu)
+ - date_published: 2024-06-21T22:57:06.692199+00:00
+
+ ## ERROR: HTTP 403
+ - [https://ecom.uncc.edu](https://ecom.uncc.edu)
+ - date_published: 2012-06-27T14:07:44+00:00
+
+ ## Emergency Management
+ - [https://emergency.uncc.edu](https://emergency.uncc.edu)
+ - date_published: 2024-06-21T22:57:01.337482+00:00
+
+ ## Aid Basics - Niner Central
+ - [https://finaid.uncc.edu](https://finaid.uncc.edu)
+ - date_published: 2024-06-21T22:56:16.959486+00:00
+
+ ## UNC Charlotte Foundation – Division of University Advancement
+ - [https://foundation.uncc.edu](https://foundation.uncc.edu)
+ - date_published: 2024-06-21T22:56:00.338670+00:00
+
+ ## Botanical Gardens | Home
+ - [https://gardens.uncc.edu](https://gardens.uncc.edu)
+ - date_published: 2024-05-04T14:19:49.756563+00:00
+
+ ## Graduate Admissions
+ - [https://gradadmissions.uncc.edu](https://gradadmissions.uncc.edu)
+ - date_published: 2024-06-21T22:55:33.024643+00:00
+
+ ## Human Resources
+ - [https://hr.uncc.edu](https://hr.uncc.edu)
+ - date_published: 2024-06-21T22:55:55.129618+00:00
+
+ ## Inside UNC Charlotte
+ - [https://inside.uncc.edu](https://inside.uncc.edu)
+ - date_published: 2024-06-21T22:56:55.991594+00:00
+
+ ## UNC Charlotte Applicant Site | Home
+ - [https://jobs.uncc.edu](https://jobs.uncc.edu)
+ - date_published: 2024-06-21T22:56:11+00:00
+
+ ## Office of Legal Affairs | Office of Legal Affairs | UNC Charlotte
+ - [https://legal.uncc.edu](https://legal.uncc.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Homepage | J. Murrey Atkins Library
+ - [https://library.uncc.edu](https://library.uncc.edu)
+ - date_published: 2024-06-21T20:34:32+00:00
+
+ ## UNC Charlotte Web Map
+ - [https://maps.uncc.edu](https://maps.uncc.edu)
+ - date_published: 2022-10-26T18:04:42+00:00
+
+ ## UNC Charlotte | my.charlotte.edu
+ - [https://my.uncc.edu](https://my.uncc.edu)
+ - date_published: 2024-06-21T22:56:52.028404+00:00
+
+ ## Office of the Provost
+ - [https://provost.uncc.edu](https://provost.uncc.edu)
+ - date_published: 2024-06-21T22:55:40.022394+00:00
+
+ ## Student Health
+ - [https://studenthealth.uncc.edu](https://studenthealth.uncc.edu)
+ - date_published: 2024-06-21T22:56:01+00:00
+
+ ## The University of North Carolina at Charlotte | UNC Charlotte
+ - [http://www.uncc.edu](http://www.uncc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Fayetteville State University | Fayetteville, NC
+ - [https://www.uncfsu.edu](https://www.uncfsu.edu)
+ - date_published: 2024-07-02T04:32:20.164571+00:00
+
+ ## Home Page - UNC Greensboro
+ - [https://www.uncg.edu](https://www.uncg.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## | The University of North Carolina at Pembroke
+ - [https://www.uncp.edu](https://www.uncp.edu)
+ - date_published: 2024-07-02T04:21:24+00:00
+
+ ## University of North Carolina School of the Arts
+ - [https://www.uncsa.edu](https://www.uncsa.edu)
+ - date_published: 2024-07-02T04:32:17.543264+00:00
+
+ ## Alumni Association : UNCW : UNC Wilmington - University of North Carolina Wilmington
+ - [https://alumni.uncw.edu](https://alumni.uncw.edu)
+ - date_published: 2024-06-29T19:53:07.091420+00:00
+
+ ## Giving to UNCW : Advancement & Alumni Relations : UNC Wilmington - University of North Carolina Wilmington
+ - [https://giving.uncw.edu](https://giving.uncw.edu)
+ - date_published: 2024-06-29T19:53:08.668366+00:00
+
+ ## UNCW Faculty and Staff
+ - [https://itsappserv01.uncw.edu](https://itsappserv01.uncw.edu)
+ - date_published: 2007-08-07T14:49:38+00:00
+
+ ## Home | Randall Library
+ - [https://library.uncw.edu](https://library.uncw.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## UNCW Faculty and Staff Web Pages
+ - [https://people.uncw.edu](https://people.uncw.edu)
+ - date_published: 2012-01-12T21:45:30+00:00
+
+ ## UNCW Student Web Pages
+ - [http://student.uncw.edu](http://student.uncw.edu)
+ - date_published: 2020-01-28T19:06:37+00:00
+
+ ## University of North Carolina Wilmington
+ - [https://uncw.edu](https://uncw.edu)
+ - date_published: 2024-05-07T13:57:28.355194+00:00
+
+ ## Events Calendar
+ - [https://calendar.und.edu](https://calendar.und.edu)
+ - date_published: 2024-07-02T01:47:06.822627+00:00
+
+ ## UND College of Education & Human Development
+ - [http://education.und.edu](http://education.und.edu)
+ - date_published: 2024-07-02T10:06:03.053042+00:00
+
+ ## UND | Grand Forks, ND
+ - [http://und.edu](http://und.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Home - UNF Faculty Domains
+ - [http://domains.unf.edu](http://domains.unf.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## UNF Dolphin Research Program – Jacksonville’s Urban Dolphins
+ - [https://unfdolphins.domains.unf.edu](https://unfdolphins.domains.unf.edu)
+ - date_published: 2024-05-01T08:03:37.764593+00:00
+
+ ## UNF Homepage
+ - [http://www.unf.edu](http://www.unf.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Peter T. Paul College of Business and Economics | University of New Hampshire
+ - [https://paulcollege.unh.edu](https://paulcollege.unh.edu)
+ - date_published: 2024-06-14T23:56:54.543036+00:00
+
+ ## TREC CAR ← TREC CAR
+ - [https://trec-car.cs.unh.edu](https://trec-car.cs.unh.edu)
+ - date_published: 2020-07-08T17:06:42+00:00
+
+ ## UNH InterOperability Laboratory
+ - [https://www.iol.unh.edu](https://www.iol.unh.edu)
+ - date_published: 2024-07-06T23:44:13+00:00
+
+ ## Admissions & Aid | Admissions & Aid
+ - [https://admissions.uni.edu](https://admissions.uni.edu)
+ - date_published: 2024-05-07T21:39:59.314239+00:00
+
+ ## Academic Advisor Portal | Academic Advisor Portal
+ - [https://advising-portal.uni.edu](https://advising-portal.uni.edu)
+ - date_published: 2024-07-01T23:12:42+00:00
+
+ ## Office of Academic Advising | Office of Academic Advising
+ - [https://advising.uni.edu](https://advising.uni.edu)
+ - date_published: 2024-05-07T21:40:17.613141+00:00
+
+ ## Homepage
+ - [https://alumni.uni.edu](https://alumni.uni.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## ARCTICenter
+ - [https://arctic.uni.edu](https://arctic.uni.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Ask Us! - Rod Library FAQ - Ask Us! - Rod Library
+ - [https://askus.library.uni.edu](https://askus.library.uni.edu)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Archives and Finding Aids | Archives and Finding Aids
+ - [https://aspace.library.uni.edu](https://aspace.library.uni.edu)
+ - date_published: 2024-06-14T04:11:56.823586+00:00
+
+ ## David W. Wilson College of Business | David W. Wilson College of Business
+ - [https://business.uni.edu](https://business.uni.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Homepage | UNI Calendar
+ - [https://calendar.uni.edu](https://calendar.uni.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Campus Map | University of Northern Iowa
+ - [https://campusmap.uni.edu](https://campusmap.uni.edu)
+ - date_published: 2024-07-02T04:34:19+00:00
+
+ ## Career Services | Career Services
+ - [https://careerservices.uni.edu](https://careerservices.uni.edu)
+ - date_published: 2024-05-07T21:40:01.093710+00:00
+
+ ## Careers at UNI | Careers at UNI
+ - [https://careers.uni.edu](https://careers.uni.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Catalog Home < University of Northern Iowa
+ - [https://catalog.uni.edu](https://catalog.uni.edu)
+ - date_published: 2024-04-05T20:03:18+00:00
+
+ ## Child Development Center | College of Education
+ - [https://cdc.uni.edu](https://cdc.uni.edu)
+ - date_published: 2024-07-01T22:57:48+00:00
+
+ ## College of Humanities, Arts & Sciences | College of Humanities Arts and Sciences
+ - [https://chas.uni.edu](https://chas.uni.edu)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## College of Education | College of Education
+ - [https://coe.uni.edu](https://coe.uni.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Welcome to the UNI Counseling Center | Student Health & Well Being
+ - [https://counseling.uni.edu](https://counseling.uni.edu)
+ - date_published: 2024-07-02T01:45:21+00:00
+
+ ## Center for Social and Behavioral Research |
+ - [https://csbr.uni.edu](https://csbr.uni.edu)
+ - date_published: 2024-07-02T04:32:44+00:00
+
+ ## CSBS Home | College of Social & Behavioral Sciences
+ - [https://csbs.uni.edu](https://csbs.uni.edu)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Patricia A. Tomson Center for Violence Prevention | Patricia A. Tomson Center for Violence Prevention
+ - [https://cvp.uni.edu](https://cvp.uni.edu)
+ - date_published: 2024-07-01T23:00:21+00:00
+
+ ## Dean of Students | Dean of Students
+ - [https://deanofstudents.uni.edu](https://deanofstudents.uni.edu)
+ - date_published: 2024-07-02T04:37:00.985962+00:00
+
+ ## University of Northern Iowa - Campus Directory
+ - [https://directory.uni.edu](https://directory.uni.edu)
+ - date_published: 2024-05-07T21:40:55.508530+00:00
+
+ ## Diversity, Equity & Inclusion | University of Northern Iowa
+ - [https://diversity.uni.edu](https://diversity.uni.edu)
+ - date_published: 2024-07-02T04:39:11+00:00
+
+ ## UNI eLearning Suite
+ - [https://elearning.uni.edu](https://elearning.uni.edu)
+ - date_published: 2024-05-07T21:40:47.628245+00:00
+
+ ## Office of Civil Rights Compliance | Office of Civil Rights Compliance
+ - [https://equity.uni.edu](https://equity.uni.edu)
+ - date_published: 2024-07-01T23:33:53+00:00
+
+ ## Campus Calendar- University of Northern Iowa, Union
+ - [https://eventschedule.uni.edu](https://eventschedule.uni.edu)
+ - date_published: 2024-07-02T04:38:38.012632+00:00
+
+ ## Financial Aid | Admissions & Aid
+ - [https://finaid.uni.edu](https://finaid.uni.edu)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## UNI Foundation | UNI Foundation
+ - [https://foundation.uni.edu](https://foundation.uni.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Free Speech | Free Speech
+ - [https://freespeech.uni.edu](https://freespeech.uni.edu)
+ - date_published: 2024-05-07T21:39:56.954173+00:00
+
+ ## University of Northern Iowa
+ - [https://give.uni.edu](https://give.uni.edu)
+ - date_published: 2024-07-02T04:37:04.223247+00:00
+
+ ## Division of Graduate Studies | Division of Graduate Studies
+ - [https://grad.uni.edu](https://grad.uni.edu)
+ - date_published: 2024-05-07T21:40:21.554051+00:00
+
+ ## Research Guides: Home: Home
+ - [https://guides.lib.uni.edu](https://guides.lib.uni.edu)
+ - date_published: 2024-07-02T04:40:04.403851+00:00
+
+ ## University Honors Program | Honors & Scholars
+ - [https://honors.uni.edu](https://honors.uni.edu)
+ - date_published: 2024-05-07T21:39:55.136379+00:00
+
+ ## UNI Human Resource Services
+ - [https://hrs.uni.edu](https://hrs.uni.edu)
+ - date_published: 2024-07-02T03:49:18+00:00
+
+ ## Honors & Scholars | Honors & Scholars
+ - [https://hsp.uni.edu](https://hsp.uni.edu)
+ - date_published: 2024-05-07T21:40:11.501427+00:00
+
+ ## UNI@IACC | UNI@IACC
+ - [https://iacc.uni.edu](https://iacc.uni.edu)
+ - date_published: 2024-07-01T23:50:50+00:00
+
+ ## Inside UNI | University of Northern Iowa
+ - [https://insideuni.uni.edu](https://insideuni.uni.edu)
+ - date_published: 2024-05-07T21:39:36.976911+00:00
+
+ ## Institutional Effectiveness & Planning | Institutional Effectiveness & Planning
+ - [https://ir.uni.edu](https://ir.uni.edu)
+ - date_published: 2024-07-01T23:31:47+00:00
+
+ ## Information Technology
+ - [https://it.uni.edu](https://it.uni.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Loading...
+ - [https://java.access.uni.edu](https://java.access.uni.edu)
+ - date_published: 2024-04-29T19:29:06+00:00
+
+ ## Richard O. Jacobson Center for Comprehensive Literacy | College of Education
+ - [https://jccl.uni.edu](https://jccl.uni.edu)
+ - date_published: 2024-07-01T23:35:26+00:00
+
+ ## Jobs@UNI
+ - [https://jobs.uni.edu](https://jobs.uni.edu)
+ - date_published: 2024-05-07T21:40:23.503132+00:00
+
+ ## Rod Library | Rod Library
+ - [https://library.uni.edu](https://library.uni.edu)
+ - date_published: 2024-05-07T21:40:57.765396+00:00
+
+ ## Magazine | inside UNI
+ - [https://magazine.uni.edu](https://magazine.uni.edu)
+ - date_published: 2024-07-02T00:15:31+00:00
+
+ ## Majors, Minors & Degrees | Majors, Minors & Degrees
+ - [https://majors.uni.edu](https://majors.uni.edu)
+ - date_published: 2024-05-07T21:39:42.975145+00:00
+
+ ## Campus Map | University of Northern Iowa
+ - [https://map.uni.edu](https://map.uni.edu)
+ - date_published: 2024-05-07T21:40:40.727304+00:00
+
+ ## UNI Museum @ Rod Library |
+ - [https://museum.library.uni.edu](https://museum.library.uni.edu)
+ - date_published: 2024-07-02T04:18:55+00:00
+
+ ## School of Music | School of Music
+ - [https://music.uni.edu](https://music.uni.edu)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Online & Distance Education | Online & Distance Education
+ - [https://online.uni.edu](https://online.uni.edu)
+ - date_published: 2024-05-07T21:39:30.394428+00:00
+
+ ## Our Tomorrow | Our Tomorrow
+ - [https://ourtomorrow.uni.edu](https://ourtomorrow.uni.edu)
+ - date_published: 2024-07-02T00:41:14+00:00
+
+ ## Panther Caucus | Panther Caucus
+ - [https://panthercaucus.uni.edu](https://panthercaucus.uni.edu)
+ - date_published: 2024-07-02T00:13:44+00:00
+
+ ## National Program for Playground Safety (NPPS)
+ - [https://playgroundsafety.uni.edu](https://playgroundsafety.uni.edu)
+ - date_published: 2024-07-02T00:17:57+00:00
+
+ ## University Policies | University Policies
+ - [https://policies.uni.edu](https://policies.uni.edu)
+ - date_published: 2024-05-07T21:40:13.199224+00:00
+
+ ## Office of the President | Office of the President
+ - [https://president.uni.edu](https://president.uni.edu)
+ - date_published: 2024-07-01T02:56:59.825239+00:00
+
+ ## Public Records | Public Records
+ - [https://publicrecords.uni.edu](https://publicrecords.uni.edu)
+ - date_published: 2024-07-02T01:43:56+00:00
+
+ ## Department of Public Safety | Department of Public Safety
+ - [https://publicsafety.uni.edu](https://publicsafety.uni.edu)
+ - date_published: 2024-07-02T00:44:53+00:00
 

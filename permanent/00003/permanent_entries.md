@@ -1,3 +1,48 @@
+ ## The remote job board you'll actually enjoy using
+ - [https://himalayas.app](https://himalayas.app)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Hive | Fulfillment Provider | All-in-one Operations
+ - [https://www.hive.app](https://www.hive.app)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Introduction | Hoarder Docs
+ - [https://docs.hoarder.app](https://docs.hoarder.app)
+ - date_published: 2024-05-14T03:46:21.700968+00:00
+
+ ## Hoarder
+ - [https://hoarder.app](https://hoarder.app)
+ - date_published: 2024-04-08T19:28:56.756392+00:00
+ - tags: ['link aggregator', 'self-host']
+
+ ## Hoarder
+ - [https://try.hoarder.app](https://try.hoarder.app)
+ - date_published: 2024-05-14T03:46:16.964834+00:00
+
+ ## Holy Swift
+ - [https://holyswift.app](https://holyswift.app)
+ - date_published: 2023-10-25T11:46:47.493330+00:00
+
+ ## Home Care App
+ - [https://home-care.app](https://home-care.app)
+ - date_published: 2022-07-20T06:08:45+00:00
+
+ ## Homechart | Your Household's Happy Place
+ - [https://homechart.app](https://homechart.app)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Homerow — Keyboard shortcuts for every button in macOS
+ - [https://www.homerow.app](https://www.homerow.app)
+ - date_published: 2023-10-25T11:46:50.039169+00:00
+
+ ## Homey - A Better Smart Home
+ - [https://homey.app](https://homey.app)
+ - date_published: 2024-04-29T04:04:01.939925+00:00
+
+ ## Hondana: Virtual Bookshelf & Community
+ - [https://hondana.app](https://hondana.app)
+ - date_published: 2024-06-23T00:00:00+00:00
+
  ## HumanIPO - Turn your fans into shareholders
  - [https://humanipo.app](https://humanipo.app)
  - date_published: 2024-05-12T05:28:23.256428+00:00
@@ -37,6 +82,10 @@
  ## Sign in to your account
  - [https://kulturradet.imagevault.app](https://kulturradet.imagevault.app)
  - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Immich Licenses
+ - [https://buy.immich.app](https://buy.immich.app)
+ - date_published: 2024-07-18T22:03:13.424369+00:00
 
  ## Home | Immich
  - [https://immich.app](https://immich.app)
@@ -82,6 +131,10 @@
  ## EQS Integrity Line
  - [https://tresorit.integrityline.app](https://tresorit.integrityline.app)
  - date_published: 2024-06-16T16:34:25.495223+00:00
+
+ ## IntelliBar - AI-powered assistant for the Mac.
+ - [https://intellibar.app](https://intellibar.app)
+ - date_published: 2024-07-18T13:06:56.465314+00:00
 
  ## Learn How to Video Interview | InterviewPrep Training Center
  - [https://training.interviewprep.app](https://training.interviewprep.app)
@@ -337,6 +390,10 @@
  - [https://lofimusic.app](https://lofimusic.app)
  - date_published: 2024-04-29T07:45:26.290737+00:00
 
+ ## Log4u | Monitor your website
+ - [https://log4u.app](https://log4u.app)
+ - date_published: 2024-06-08T00:00:00+00:00
+
  ## Show HN: I created an app for you to be a more unpredictable romantic partner
  - [https://lovefuel.app](https://lovefuel.app)
  - date_published: 2024-05-12T19:14:39+00:00
@@ -508,7 +565,7 @@
 
  ## Miniflux Hosting
  - [https://status.miniflux.app](https://status.miniflux.app)
- - date_published: 2024-05-14T03:51:07.630206+00:00
+ - date_published: 2023-09-30T03:48:55+00:00
 
  ## Minima | To-do lists done right
  - [https://minima.app](https://minima.app)
@@ -1197,6 +1254,10 @@
  ## Introduction to Modern Statistics (2nd Ed)
  - [https://openintro-ims2.netlify.app](https://openintro-ims2.netlify.app)
  - date_published: 2023-10-25T11:47:41.166682+00:00
+
+ ## Outdoorsy Indians | Outdoor Guides, Destinations & Things to Do
+ - [https://outdoorsyindians.netlify.app](https://outdoorsyindians.netlify.app)
+ - date_published: 2024-07-18T05:23:33.382062+00:00
 
  ## page-transitions-travelapp
  - [https://pagetransitions.netlify.app](https://pagetransitions.netlify.app)
@@ -2076,6 +2137,10 @@
  - [https://proxx.app](https://proxx.app)
  - date_published: 2024-05-09T09:07:12.380252+00:00
 
+ ## Proxyman · Debug, intercept & mock HTTP with Proxyman
+ - [https://proxyman.app](https://proxyman.app)
+ - date_published: 2024-07-15T07:51:38+00:00
+
  ## Pulse Browser - A better Firefox fork
  - [https://pulsebrowser.app](https://pulsebrowser.app)
  - date_published: 2023-10-25T11:48:31.094675+00:00
@@ -2289,6 +2354,10 @@
  - [https://revoicer.app](https://revoicer.app)
  - date_published: 2024-06-29T22:55:26.713147+00:00
 
+ ## Rhithm
+ - [https://portal.rhithm.app](https://portal.rhithm.app)
+ - date_published: 2024-07-11T08:29:34+00:00
+
  ## Riter
  - [https://riter.app](https://riter.app)
  - date_published: 2024-06-19T21:35:00.176901+00:00
@@ -2409,9 +2478,13 @@
  - [https://screenmemory.app](https://screenmemory.app)
  - date_published: 2024-05-04T09:32:23.602650+00:00
 
+ ## Scrypted Network Video Recorder
+ - [https://demo.scrypted.app](https://demo.scrypted.app)
+ - date_published: 2024-07-01T10:04:02+00:00
+
  ## Scrypted Documentation
  - [https://developer.scrypted.app](https://developer.scrypted.app)
- - date_published: 2024-05-14T04:02:07.256488+00:00
+ - date_published: 2023-08-26T23:51:15+00:00
 
  ## Scrypted | Scrypted Docs
  - [https://docs.scrypted.app](https://docs.scrypted.app)
@@ -2421,10 +2494,18 @@
  - [https://home.scrypted.app](https://home.scrypted.app)
  - date_published: 2024-05-14T04:02:09.834278+00:00
 
+ ## Scrypted Scripts
+ - [https://scripts.scrypted.app](https://scripts.scrypted.app)
+ - date_published: 2024-05-07T19:39:50+00:00
+
  ## Scrypted
  - [https://scrypted.app](https://scrypted.app)
  - date_published: 2023-07-12T21:24:56+00:00
  - tags: ['alexa', 'smart home', 'video streaming', 'google home']
+
+ ## sc-type
+ - [https://sctype.app](https://sctype.app)
+ - date_published: 2019-08-01T00:00:00+00:00
 
  ## Seatsurfing
  - [https://seatsurfing.app](https://seatsurfing.app)
@@ -3215,6 +3296,10 @@
  - [https://api-statically.vercel.app](https://api-statically.vercel.app)
  - date_published: 2024-06-29T23:42:45.429368+00:00
 
+ ## Umbrel App Store
+ - [https://apps-umbrel-com.vercel.app](https://apps-umbrel-com.vercel.app)
+ - date_published: 2024-07-18T14:21:37.844128+00:00
+
  ## Svelte + TS + Vite App
  - [https://appwrite-todo-with-svelte.vercel.app](https://appwrite-todo-with-svelte.vercel.app)
  - date_published: 2024-05-06T14:05:14.309690+00:00
@@ -3956,88 +4041,4 @@
  ## Vercel OG Image Playground
  - [https://og-image.vercel.app](https://og-image.vercel.app)
  - date_published: 2024-05-04T05:55:37.250336+00:00
-
- ## SvelteKit Open Graph Images
- - [https://ogimggen.vercel.app](https://ogimggen.vercel.app)
- - date_published: 2024-07-01T06:11:35.750611+00:00
-
- ## Vercel OG Image Playground
- - [https://og-playground.vercel.app](https://og-playground.vercel.app)
- - date_published: 2024-06-19T08:24:01.982562+00:00
-
- ## Login - Fileforge
- - [https://onedoc-fdu2502ib-fileforge.vercel.app](https://onedoc-fdu2502ib-fileforge.vercel.app)
- - date_published: 2024-07-08T22:42:38.684376+00:00
-
- ## Vite + React + TS
- - [https://os-page-deck.vercel.app](https://os-page-deck.vercel.app)
- - date_published: 2024-06-10T12:48:32.941691+00:00
-
- ## Customize GitHub Widgets: Data Insight, Social Sharing | OSS Insight
- - [https://ossinsight-next-chfvz2w1u-pingcap.vercel.app](https://ossinsight-next-chfvz2w1u-pingcap.vercel.app)
- - date_published: 2024-06-22T21:15:31.881233+00:00
-
- ## Vite + React + TS
- - [https://os-tag-manager.vercel.app](https://os-tag-manager.vercel.app)
- - date_published: 2024-06-10T12:48:36.670870+00:00
-
- ## Outer Voice AI — Mobile App 📲
- - [https://outer-voice.vercel.app](https://outer-voice.vercel.app)
- - date_published: 2024-06-19T19:52:17.566966+00:00
-
- ## Oxide Computer Company
- - [https://oxide-computer-htjcf1loy-oxidecomputer.vercel.app](https://oxide-computer-htjcf1loy-oxidecomputer.vercel.app)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Oxide Computer Company
- - [https://oxide-computer-okj97ed4k-oxidecomputer.vercel.app](https://oxide-computer-okj97ed4k-oxidecomputer.vercel.app)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Oxide Computer Company
- - [https://oxide-computer-r2180hjcp-oxidecomputer.vercel.app](https://oxide-computer-r2180hjcp-oxidecomputer.vercel.app)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Pathfinding Visualizer
- - [https://pathfinding-visualizer-nu.vercel.app](https://pathfinding-visualizer-nu.vercel.app)
- - date_published: 2023-10-25T11:50:32.291197+00:00
-
- ## PDX Food Weeks
- - [https://pdx-food-weeks.vercel.app](https://pdx-food-weeks.vercel.app)
- - date_published: 2024-07-14T09:23:38.681521+00:00
-
- ## Penelope AI | Penelope AI assists you write better content faster
- - [https://penelope-ai.vercel.app](https://penelope-ai.vercel.app)
- - date_published: 2024-06-19T20:58:38.768864+00:00
-
- ## Perplexity | Interactive language modeling visualization
- - [https://perplexity.vercel.app](https://perplexity.vercel.app)
- - date_published: 2023-10-25T11:50:33.775569+00:00
-
- ## Eshaan Kaul
- - [https://personal-website-d1i4w1v0j-syskaul.vercel.app](https://personal-website-d1i4w1v0j-syskaul.vercel.app)
- - date_published: 2024-05-10T04:55:51.247866+00:00
-
- ## Pete Millspaugh
- - [https://petemillspaugh-a9sr2mlzs-pete-n-co.vercel.app](https://petemillspaugh-a9sr2mlzs-pete-n-co.vercel.app)
- - date_published: 2024-06-26T13:07:10.458595+00:00
-
- ## Pete Millspaugh
- - [https://petemillspaugh-ccjylhguz-pete-n-co.vercel.app](https://petemillspaugh-ccjylhguz-pete-n-co.vercel.app)
- - date_published: 2024-05-06T23:10:44.359816+00:00
-
- ## Photowall
- - [https://photowall-colbyfayock.vercel.app](https://photowall-colbyfayock.vercel.app)
- - date_published: 2024-06-14T15:15:33.845697+00:00
-
- ## Pilcrow
- - [https://pilcrow.vercel.app](https://pilcrow.vercel.app)
- - date_published: 2023-10-25T11:50:35.181793+00:00
-
- ## Pinwheel Astro
- - [https://pinwheel-astro.vercel.app](https://pinwheel-astro.vercel.app)
- - date_published: 2024-06-21T23:48:44.741663+00:00
-
- ## planifAI by Andres Paulino
- - [https://planifai.vercel.app](https://planifai.vercel.app)
- - date_published: 2024-06-19T21:13:17.057828+00:00
 

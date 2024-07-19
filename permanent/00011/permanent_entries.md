@@ -1,3 +1,355 @@
+ ## NorthStar
+ - [https://www.northstarbets.ca](https://www.northstarbets.ca)
+ - date_published: 2024-05-06T14:31:12.345551+00:00
+
+ ## Bienvenue à la Chambre des communes du Canada - Chambre des communes du Canada
+ - [https://www.noscommunes.ca](https://www.noscommunes.ca)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ - [https://novak.ca](https://novak.ca)
+ - date_published: 2024-01-11T02:12:34.554251+00:00
+ - tags: ['personal']
+
+ ## Home
+ - [https://www.novusnow.ca](https://www.novusnow.ca)
+ - date_published: 2013-01-03T02:48:59+00:00
+
+ ## NowCities | Stuff that Matters - Your Source for Everything Local
+ - [https://cities.nowmediagroup.ca](https://cities.nowmediagroup.ca)
+ - date_published: 2024-06-29T10:48:58+00:00
+
+ ## NowMedia Group
+ - [https://nowmediagroup.ca](https://nowmediagroup.ca)
+ - date_published: 2024-05-07T10:43:36.918288+00:00
+
+ ## National Public Alerting System
+ - [https://npas.ca](https://npas.ca)
+ - date_published: 2024-07-08T12:57:11.853347+00:00
+
+ ## National Registration Database / Base de données nationale d'inscription
+ - [https://www.nrd.ca](https://www.nrd.ca)
+ - date_published: 2024-07-11T14:57:48.707647+00:00
+
+ ## Good, Better, Best
+ - [https://nthn.ca](https://nthn.ca)
+ - date_published: 2023-11-29T18:20:44.786867+00:00
+ - tags: ['personal']
+
+ ## National Saloon
+ - [https://www.ntnlsaloon.ca](https://www.ntnlsaloon.ca)
+ - date_published: 2024-06-17T08:46:39.153950+00:00
+
+ ## Buy NuGo Nutrition Bars in Canada
+ - [https://nugonutrition.ca](https://nugonutrition.ca)
+ - date_published: 2024-06-24T03:38:08.275132+00:00
+
+ ## Nurses in Canada, Canada
+ - [http://www.nurses.ca](http://www.nurses.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Nuun Hydration: Electrolyte Tablets and Powerful Hydration Products
+ - [https://nuunlife.ca](https://nuunlife.ca)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Jus de fruits et légumes | Oasis
+ - [https://oasis.ca](https://oasis.ca)
+ - date_published: 2021-05-10T14:27:23+00:00
+
+ ## DEEP 2023 | Designing Enabling Economies and Policies
+ - [https://deep.idrc.ocadu.ca](https://deep.idrc.ocadu.ca)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Inclusive Design Research Centre
+ - [https://idrc.ocadu.ca](https://idrc.ocadu.ca)
+ - date_published: 2024-06-15T16:30:16.274074+00:00
+
+ ## Welcome to OCAD University Open Research Repository - OCAD University Open Research Repository
+ - [https://openresearch.ocadu.ca](https://openresearch.ocadu.ca)
+ - date_published: 2024-07-08T21:39:40.376633+00:00
+
+ ## Home
+ - [https://oceana.ca](https://oceana.ca)
+ - date_published: 2024-03-04T19:41:05.081232+00:00
+
+ ## Ocean Networks Canada
+ - [https://www.oceannetworks.ca](https://www.oceannetworks.ca)
+ - date_published: 1139-07-04T00:00:00+00:00
+
+ ## Le blog de Olivier Crête
+ - [https://ocrete.ca](https://ocrete.ca)
+ - date_published: 2024-07-09T20:00:28.228677+00:00
+
+ ## Homepage
+ - [https://www.ocri.ca](https://www.ocri.ca)
+ - date_published: 2022-11-21T17:00:04+00:00
+
+ ## OCryptoCanada: Cryptocurrency News & Guides For Canadians
+ - [https://ocryptocanada.ca](https://ocryptocanada.ca)
+ - date_published: 2021-04-25T16:35:32+00:00
+
+ ## Mind of Dan
+ - [http://mind.ofdan.ca](http://mind.ofdan.ca)
+ - date_published: 2024-06-30T02:43:43.697252+00:00
+
+ ## Under Construction officecatering.ca
+ - [http://www.officecatering.ca](http://www.officecatering.ca)
+ - date_published: 2024-06-29T17:34:29.523064+00:00
+
+ ## Welcome to nginx!
+ - [http://jquery.offput.ca](http://jquery.offput.ca)
+ - date_published: 2018-01-19T16:32:17+00:00
+
+ ## OFPC – Ottawa Food Policy Council
+ - [https://ofpc-cpao.ca](https://ofpc-cpao.ca)
+ - date_published: 2024-07-13T11:36:41.937125+00:00
+
+ ## Home - Ogletree Deakins
+ - [https://ogletree.ca](https://ogletree.ca)
+ - date_published: 2024-05-06T21:43:59.215115+00:00
+
+ ## Home | The Ottawa Hospital Foundation
+ - [https://ohfoundation.ca](https://ohfoundation.ca)
+ - date_published: 2024-06-27T17:16:48.345223+00:00
+
+ ## The Ottawa Hospital Research Institute | Inspired by research. Driven by compassion.
+ - [https://www.ohri.ca](https://www.ohri.ca)
+ - date_published: 2024-06-27T17:15:59.456079+00:00
+
+ ## Ottawa's Literary Potential – Workshops, Classes, and More
+ - [http://www.oiw.ca](http://www.oiw.ca)
+ - date_published: 2023-11-06T14:58:00+00:00
+
+ ## Okotoks Local News
+ - [https://www.okotokstoday.ca](https://www.okotokstoday.ca)
+ - date_published: 2024-05-06T21:30:55.991997+00:00
+
+ ## Old Man Luedecke
+ - [https://www.oldmanluedecke.ca](https://www.oldmanluedecke.ca)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Olympia Online
+ - [https://olympiaonline.ca](https://olympiaonline.ca)
+ - date_published: 2020-06-12T00:00:00+00:00
+
+ ## Accueil - Équipe Canada | Site officiel de l'équipe olympique
+ - [https://olympique.ca](https://olympique.ca)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Sensing Innovation
+ - [https://www.omega.ca](https://www.omega.ca)
+ - date_published: 2024-07-09T09:27:10.729632+00:00
+
+ ## Peloton: The ultimate fitness experience
+ - [https://www.onepeloton.ca](https://www.onepeloton.ca)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## One With Them – Praying for Christian Captives
+ - [https://onewiththem.ca](https://onewiththem.ca)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## OnFiction
+ - [https://onfiction.ca](https://onfiction.ca)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## onspecmag
+ - [http://www.onspec.ca](http://www.onspec.ca)
+ - date_published: 2024-07-04T15:06:04.288139+00:00
+
+ ## Ontario Newsroom
+ - [https://news.ontario.ca](https://news.ontario.ca)
+ - date_published: 2024-05-08T20:09:38+00:00
+
+ ## ontario.ca
+ - [https://www.ontario.ca](https://www.ontario.ca)
+ - date_published: 2024-04-30T05:04:26.176407+00:00
+
+ ## Explore Ontario By Bike - Roads & Trails
+ - [https://www.ontariobybike.ca](https://www.ontariobybike.ca)
+ - date_published: 2024-06-29T09:47:02.302314+00:00
+
+ ## GLCPO Home
+ - [https://ontariomasons.ca](https://ontariomasons.ca)
+ - date_published: 2024-06-17T11:47:41+00:00
+ - tags: ['freemasonry']
+
+ ## Ontario Medical Foundation
+ - [https://www.ontariomedicalfoundation.ca](https://www.ontariomedicalfoundation.ca)
+ - date_published: 2024-07-08T16:52:29.618347+00:00
+
+ ## Ontario Rheumatology Association – ORA
+ - [https://ontariorheum.ca](https://ontariorheum.ca)
+ - date_published: 2024-06-28T12:06:49.938337+00:00
+
+ ## The Boreal Beetle – Insect Ecology Lab @UNBC
+ - [https://huber.opened.ca](https://huber.opened.ca)
+ - date_published: 2024-01-04T22:42:43.854141+00:00
+
+ ## Open North – Data governance & digital strategy for the common good
+ - [https://www.opennorth.ca](https://www.opennorth.ca)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Recalls and Safety Alerts / Rappels et avis de securité
+ - [https://rsams.prod.cloud.openplus.ca](https://rsams.prod.cloud.openplus.ca)
+ - date_published: 2024-07-13T17:43:08.183099+00:00
+
+ ## Open Privacy Research Society
+ - [https://openprivacy.ca](https://openprivacy.ca)
+ - date_published: 2024-03-26T19:21:17+00:00
+
+ ## OpenSky
+ - [http://www.opensky.ca](http://www.opensky.ca)
+ - date_published: 2018-05-18T15:04:06+00:00
+
+ ## OpenTable – Discover & Reserve the Best Restaurants
+ - [https://www.opentable.ca](https://www.opentable.ca)
+ - date_published: 2024-06-30T12:08:28.630620+00:00
+
+ ## Optician in Canada, Canada
+ - [http://www.optician.ca](http://www.optician.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## HOME - Option Matters
+ - [https://www.optionmatters.ca](https://www.optionmatters.ca)
+ - date_published: 2024-05-06T14:10:53.040701+00:00
+
+ ## Mac OS 9
+ - [https://os9.ca](https://os9.ca)
+ - date_published: 2021-12-15T21:20:25+00:00
+
+ ## Homepage | OSC
+ - [https://www.osc.ca](https://www.osc.ca)
+ - date_published: 2024-07-04T09:31:30+00:00
+
+ ## Login
+ - [https://cpd.osgoodepd.ca](https://cpd.osgoodepd.ca)
+ - date_published: 2024-07-09T21:36:22.905682+00:00
+
+ ## Leading the way in professional legal education - OsgoodePD
+ - [https://osgoodepd.ca](https://osgoodepd.ca)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## City of Ottawa
+ - [https://ottawa.ca](https://ottawa.ca)
+ - date_published: 2023-07-13T00:00:00+00:00
+
+ ## City of Ottawa
+ - [http://www.ottawa.ca](http://www.ottawa.ca)
+ - date_published: 2022-07-01T00:00:00+00:00
+
+ ## Home
+ - [https://www.ottawapublichealth.ca](https://www.ottawapublichealth.ca)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Ottawa School Food Network
+ - [https://ottawaschoolfood.ca](https://ottawaschoolfood.ca)
+ - date_published: 2024-07-13T11:36:57.932796+00:00
+
+ ## Ottawa Tourism
+ - [https://ottawatourism.ca](https://ottawatourism.ca)
+ - date_published: 2024-05-11T07:11:30.479436+00:00
+
+ ## Ottawa Tourism's official booking engine
+ - [https://stay.ottawatourism.ca](https://stay.ottawatourism.ca)
+ - date_published: 2024-07-13T11:37:54.659050+00:00
+
+ ## Free advertising for businesses and local search | Ourbis
+ - [https://ourbis.ca](https://ourbis.ca)
+ - date_published: 2024-05-07T13:43:09.536987+00:00
+
+ ## Welcome to the House of Commons of Canada - House of Commons of Canada
+ - [https://ourcommons.ca](https://ourcommons.ca)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Search: Ontario Government Documents
+ - [http://govdocs.ourontario.ca](http://govdocs.ourontario.ca)
+ - date_published: 2024-07-15T11:17:49.131371+00:00
+
+ ## : Ontario Community News
+ - [http://news.ourontario.ca](http://news.ourontario.ca)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Search: Search
+ - [http://search.ourontario.ca](http://search.ourontario.ca)
+ - date_published: 2024-07-15T10:46:19.199884+00:00
+
+ ## Overtime Hockey Podcast
+ - [https://www.overtimepodcast.ca](https://www.overtimepodcast.ca)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Oxfam Canada | The future is equal
+ - [https://www.oxfam.ca](https://www.oxfam.ca)
+ - date_published: 2024-05-31T10:07:10+00:00
+
+ ## Mayo Jordanov
+ - [https://oyam.ca](https://oyam.ca)
+ - date_published: 2023-12-12T13:09:05.017868+00:00
+ - tags: ['personal']
+
+ ## Your voice for privacy and access
+ - [https://pacc-ccap.ca](https://pacc-ccap.ca)
+ - date_published: 2024-05-06T23:57:36.183235+00:00
+ - tags: ['privacy']
+
+ ## Pack Mule
+ - [https://packmule.ca](https://packmule.ca)
+ - date_published: 2024-04-28T03:26:27.765989+00:00
+
+ ## Painters in Canada, Canada
+ - [http://www.painting.ca](http://www.painting.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Bringing Value Beyond the Brush
+ - [https://paintitall.ca](https://paintitall.ca)
+ - date_published: 2023-02-02T05:24:57+00:00
+
+ ## Palestine Central - an NCCM initiative
+ - [https://www.palestinecentral.ca](https://www.palestinecentral.ca)
+ - date_published: 2023-10-25T00:00:00+00:00
+
+ ## the Papertrail Handmade Paper & Book Arts
+ - [https://papertrail.ca](https://papertrail.ca)
+ - date_published: 2024-02-08T22:03:57.068100+00:00
+
+ ## Paranoid Beavers
+ - [https://paranoidbeavers.ca](https://paranoidbeavers.ca)
+ - date_published: 2017-11-25T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.parieraucanada.ca](https://www.parieraucanada.ca)
+ - date_published: 2024-07-17T12:56:38.648713+00:00
+
+ ## Pari Sportif Canada : Guide des meilleurs sites de paris en 2024
+ - [https://www.parissportifcanada.ca](https://www.parissportifcanada.ca)
+ - date_published: 2024-06-20T16:25:08+00:00
+
+ ## Welcome! - paritybit.ca
+ - [https://www.paritybit.ca](https://www.paritybit.ca)
+ - date_published: 2024-06-15T09:38:48+00:00
+
+ ## Parkland Corporation: We deliver, serve and innovate | Parkland Corporation
+ - [https://www.parkland.ca](https://www.parkland.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Parks Canada
+ - [https://www.parkscanada.ca](https://www.parkscanada.ca)
+ - date_published: 2024-06-19T04:52:08.260898+00:00
+
+ ## Bibliothèque du Parlement du Canada
+ - [https://bdp.parl.ca](https://bdp.parl.ca)
+ - date_published: 2024-07-10T05:32:32.467327+00:00
+
+ ## Employment at Parliament | Emplois au Parlement
+ - [http://jobs-emplois.parl.ca](http://jobs-emplois.parl.ca)
+ - date_published: 2024-07-10T05:30:23.778189+00:00
+
+ ## Learn About Parliament
+ - [https://learn.parl.ca](https://learn.parl.ca)
+ - date_published: 2024-07-10T05:29:48.318102+00:00
+
+ ## Library of the Canadian Parliament
+ - [https://lop.parl.ca](https://lop.parl.ca)
+ - date_published: 2024-07-10T05:29:45.489800+00:00
+
  ## Parliamentary Protective Service
  - [https://pps.parl.ca](https://pps.parl.ca)
  - date_published: 2024-07-10T05:29:57.024438+00:00
@@ -1293,6 +1645,10 @@
  ## Top 5 Top 5 Toronto Sunrooms Contractors for 2020 | Sunrooms.ca Plumbers and Plumbing Contractors for 2020 | Sunrooms.ca
  - [http://www.sunrooms.ca](http://www.sunrooms.ca)
  - date_published: 2024-06-29T17:27:43.013013+00:00
+
+ ## Sunset City Canada - Psychedelics & Magic Mushrooms
+ - [https://www.sunsetcity.ca](https://www.sunsetcity.ca)
+ - date_published: 2020-03-19T22:16:08+00:00
 
  ## Superprof - The Tutoring Community
  - [https://www.superprof.ca](https://www.superprof.ca)
@@ -3359,6 +3715,10 @@
  - [https://www.wayfair.ca](https://www.wayfair.ca)
  - date_published: 2024-06-15T11:13:22.069839+00:00
 
+ ## Wayne Beaton
+ - [http://blog.waynebeaton.ca](http://blog.waynebeaton.ca)
+ - date_published: 2024-01-15T00:00:00+00:00
+
  ## Weather forecast Canada : The best FREE weather 15 day forecast - Weather Crave
  - [https://www.weathercrave.ca](https://www.weathercrave.ca)
  - date_published: 2024-05-04T00:00:00+00:00
@@ -3675,361 +4035,4 @@
  - [https://grid.glendon.yorku.ca](https://grid.glendon.yorku.ca)
  - date_published: 2024-05-29T08:29:45+00:00
  - tags: ['surveillance', 'edward snowden']
-
- ## Information Security at York | UIT Information Security York University
- - [https://infosec.yorku.ca](https://infosec.yorku.ca)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Your Suggestions are Welcome | University Information Technology (UIT)
- - [http://ithelp.yorku.ca](http://ithelp.yorku.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Las Nubes Project - Las Nubes Project
- - [https://lasnubes.euc.yorku.ca](https://lasnubes.euc.yorku.ca)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Passport York Login
- - [https://machformopd.osgoode.yorku.ca](https://machformopd.osgoode.yorku.ca)
- - date_published: 2024-07-09T21:36:21.138746+00:00
-
- ## Winter 2024 - The York University Magazine
- - [https://magazine.yorku.ca](https://magazine.yorku.ca)
- - date_published: 2024-04-30T05:32:16.159127+00:00
-
- ## Moodle
- - [https://moodle.yorku.ca](https://moodle.yorku.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Passport York Login
- - [http://myosgoodepd.osgoode.yorku.ca](http://myosgoodepd.osgoode.yorku.ca)
- - date_published: 2024-07-09T21:36:19.297449+00:00
-
- ## News | York University
- - [https://news.yorku.ca](https://news.yorku.ca)
- - date_published: 2024-04-30T05:32:10.631393+00:00
-
- ## Classics in the History of Psychology
- - [https://psychclassics.yorku.ca](https://psychclassics.yorku.ca)
- - date_published: 2024-01-06T17:40:41.073576+00:00
-
- ## Registrar's Office - Home | Registrar's Office | York University
- - [https://registrar.yorku.ca](https://registrar.yorku.ca)
- - date_published: 2024-07-09T21:36:57.398233+00:00
-
- ## Canada’s #1 Business School | Schulich School of Business
- - [https://schulich.yorku.ca](https://schulich.yorku.ca)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## York Search Results - York University
- - [https://search2.info.yorku.ca](https://search2.info.yorku.ca)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Student Financial Services - Home | Student Financial Services | York University
- - [https://sfs.yorku.ca](https://sfs.yorku.ca)
- - date_published: 2024-04-30T05:32:28.949793+00:00
-
- ## Faculty & Staff Services | University Information Technology (UIT)
- - [https://staff.computing.yorku.ca](https://staff.computing.yorku.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## WordPress at York
- - [http://wordpress.info.yorku.ca](http://wordpress.info.yorku.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## William van Wijngaarden – Lasers and Physics will blow your mind
- - [https://wvanwijngaarden.info.yorku.ca](https://wvanwijngaarden.info.yorku.ca)
- - date_published: 2024-06-15T09:13:48+00:00
-
- ## Homepage | Electrical Engineering and Computer Science
- - [http://www.cse.yorku.ca](http://www.cse.yorku.ca)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## York University Library Home - York University Libraries
- - [https://www.library.yorku.ca](https://www.library.yorku.ca)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Osgoode Hall Law School – York University
- - [http://www.osgoode.yorku.ca](http://www.osgoode.yorku.ca)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Department of Psychology
- - [http://www.psych.yorku.ca](http://www.psych.yorku.ca)
- - date_published: 2024-04-30T05:31:55.441536+00:00
-
- ## Homepage - YFile
- - [https://yfile.news.yorku.ca](https://yfile.news.yorku.ca)
- - date_published: 2024-04-30T05:32:00.155249+00:00
-
- ## Welcome to York University! Bienvenue à l'Université York! - York International
- - [https://yorkinternational.yorku.ca](https://yorkinternational.yorku.ca)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## York University | Right the Future
- - [https://yorku.ca](https://yorku.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Passport York Login
- - [https://yulearn.yorku.ca](https://yulearn.yorku.ca)
- - date_published: 2024-07-08T23:02:02.959783+00:00
-
- ## Passport York Login
- - [https://yulink-new.yorku.ca](https://yulink-new.yorku.ca)
- - date_published: 2024-05-09T06:47:35.611383+00:00
-
- ## AdChoices in Canada - Learn about the blue icon & your choices
- - [http://youradchoices.ca](http://youradchoices.ca)
- - date_published: 2024-06-15T03:45:09.750365+00:00
-
- ## Your Environment
- - [https://yourenvironment.ca](https://yourenvironment.ca)
- - date_published: 2024-05-06T23:34:02.979229+00:00
-
- ## Homepage
- - [http://yourvancouverrealestate.ca](http://yourvancouverrealestate.ca)
- - date_published: 2024-07-17T02:14:27+00:00
-
- ## We are yunikon. Your partner for your digital footprint!
- - [https://yunikon.ca](https://yunikon.ca)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Zoomer Digital Network
- - [https://zdn.ca](https://zdn.ca)
- - date_published: 2024-03-22T19:16:07+00:00
-
- ## Ka-Ping Yee
- - [http://zesty.ca](http://zesty.ca)
- - date_published: 2024-03-18T05:51:34+00:00
-
- ## Home - ZGV
- - [http://zgv.ca](http://zgv.ca)
- - date_published: 2020-06-11T00:00:00+00:00
-
- ## Zipcar: Car Sharing Alternative for Daily and Hourly Car Rental
- - [https://members.zipcar.ca](https://members.zipcar.ca)
- - date_published: 2024-06-15T17:09:51.284132+00:00
-
- ## Canada Business Directory
- - [https://www.zipleaf.ca](https://www.zipleaf.ca)
- - date_published: 2024-06-29T17:23:18.110235+00:00
-
- ## Zoetis
- - [https://www2.zoetis.ca](https://www2.zoetis.ca)
- - date_published: 2024-06-27T09:52:48+00:00
-
- ## Zoomer Magazine
- - [https://secure.zoomer.ca](https://secure.zoomer.ca)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## ZoomerMedia Limited
- - [https://www.zoomermedia.ca](https://www.zoomermedia.ca)
- - date_published: 2024-06-17T12:28:51.796300+00:00
-
- ## Agence spatiale canadienne | Canadian Space Agency
- - [http://www.asc-csa.gc.ca](http://www.asc-csa.gc.ca)
- - date_published: 2013-12-13T00:00:00+00:00
-
- ## Canada.ca
- - [http://www.canada.gc.ca](http://www.canada.gc.ca)
- - date_published: 2024-07-14T02:13:44+00:00
-
- ## Canada and the world | Canada et le monde
- - [https://www.canadainternational.gc.ca](https://www.canadainternational.gc.ca)
- - date_published: 2017-06-01T00:00:00+00:00
-
- ## Canadian Biodiversity Information Facility (CBIF) - agriculture.canada.ca
- - [http://www.cbif.gc.ca](http://www.cbif.gc.ca)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
- - [https://www.census.gc.ca](https://www.census.gc.ca)
- - date_published: 2024-07-10T17:16:03+00:00
-
- ## Immigration, Refugees and Citizenship Canada | Immigration, Réfugiés et Citoyenneté Canada
- - [https://cic.gc.ca](https://cic.gc.ca)
- - date_published: 2013-12-13T00:00:00+00:00
-
- ## Canadian Institutes of Health Research / Instituts de recherche en santé du Canada
- - [http://www.cihr-irsc.gc.ca](http://www.cihr-irsc.gc.ca)
- - date_published: 2019-11-27T02:31:38+00:00
-
- ## Conseil de la radiodiffusion et des télécommunications canadiennes / Canadian Radio-television and Telecommunications Commission | CRTC
- - [https://crtc.gc.ca](https://crtc.gc.ca)
- - date_published: 2014-03-21T00:00:00+00:00
-
- ## Communications Security Establishment
- - [https://www.cse-cst.gc.ca](https://www.cse-cst.gc.ca)
- - date_published: 2024-02-07T15:33:10+00:00
- - tags: ['france security intelligence', 'security intelligence']
-
- ## Canadian Centre for Cyber Security
- - [https://www.cyber.gc.ca](https://www.cyber.gc.ca)
- - date_published: 2018-08-15T00:00:00+00:00
-
- ## Fisheries and Oceans Canada | Pêches et Océans Canada
- - [http://www.dfo-mpo.gc.ca](http://www.dfo-mpo.gc.ca)
- - date_published: 2022-01-24T00:00:00+00:00
-
- ## Environment and Climate Change Canada - Canada.ca
- - [https://ec.gc.ca](https://ec.gc.ca)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Language selection - Federal Economic Development Agency for Southern Ontario Main Site / Sélection de la langue - Site principal Agence fédérale de développement économique pour le Sud de l'Ontario
- - [https://www.feddevontario.gc.ca](https://www.feddevontario.gc.ca)
- - date_published: 2023-03-10T15:38:23+00:00
-
- ## Guichet-Emplois pour employeurs - Module pour employeurs
- - [https://employeur.guichetemplois.gc.ca](https://employeur.guichetemplois.gc.ca)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Guichet-Emplois
- - [https://guichetemplois.gc.ca](https://guichetemplois.gc.ca)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Language selection - Innovation, Science and Economic Development Canada Main Site / Sélection de la langue - Site principal d'Innovation, Sciences et Développement économique Canada
- - [http://strategis.ic.gc.ca](http://strategis.ic.gc.ca)
- - date_published: 2013-12-13T00:00:00+00:00
-
- ## Global Affairs Canada – Splash page / Affaires mondiales Canada – Page de garde
- - [https://international.gc.ca](https://international.gc.ca)
- - date_published: 2013-06-26T00:00:00+00:00
-
- ## Job Bank for Employers - Employer Module
- - [https://employer.jobbank.gc.ca](https://employer.jobbank.gc.ca)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Job Bank
- - [https://jobbank.gc.ca](https://jobbank.gc.ca)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Justice Laws Website - Site Web de la législation (Justice)
- - [https://laws.justice.gc.ca](https://laws.justice.gc.ca)
- - date_published: 2023-04-12T12:42:30+00:00
-
- ## Ressources du Portail linguistique du Canada – Langues – Identité canadienne et société – Culture, histoire et sport – Canada.ca
- - [https://www.noslangues-ourlanguages.gc.ca](https://www.noslangues-ourlanguages.gc.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Canadian Astronomy Data Centre
- - [https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca)
- - date_published: 2022-10-03T00:00:00+00:00
-
- ## Home - National Research Council Canada
- - [https://www.nrc-cnrc.gc.ca](https://www.nrc-cnrc.gc.ca)
- - date_published: 2024-07-04T09:05:04+00:00
-
- ## Natural Sciences and Engineering Research Council of Canada  | Conseil de recherches en sciences naturelles et en génie du Canada
- - [https://www.nserc-crsng.gc.ca](https://www.nserc-crsng.gc.ca)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Canadian Nuclear Safety Commission - Commission canadienne de sûreté nucléaire
- - [http://nuclearsafety.gc.ca](http://nuclearsafety.gc.ca)
- - date_published: 2022-10-05T00:00:00+00:00
-
- ## ParlVu
- - [https://parlvu.parl.gc.ca](https://parlvu.parl.gc.ca)
- - date_published: 2024-07-10T05:30:08.053880+00:00
-
- ## Parks Canada
- - [https://www.pc.gc.ca](https://www.pc.gc.ca)
- - date_published: 2024-06-21T09:43:17.305148+00:00
-
- ## Public Health Agency of Canada (PHAC) | Agence de la sante publique du Canada (ASPC)
- - [https://phac-aspc.gc.ca](https://phac-aspc.gc.ca)
- - date_published: 2024-07-13T19:47:42.410865+00:00
-
- ## Prime Minister of Canada - Premier ministre du Canada
- - [https://pm.gc.ca](https://pm.gc.ca)
- - date_published: 2017-12-06T00:00:00+00:00
-
- ## Commissariat à la protection de la vie privée du Canada / Office of the Privacy Commissioner
- - [https://www.priv.gc.ca](https://www.priv.gc.ca)
- - date_published: 2023-10-25T12:09:36.663904+00:00
-
- ## Publications du gouvernement du Canada | Government of Canada Publications
- - [https://publications.gc.ca](https://publications.gc.ca)
- - date_published: 2002-07-01T00:00:00+00:00
-
- ## Public Safety Canada / Sécurité publique Canada
- - [https://www.publicsafety.gc.ca](https://www.publicsafety.gc.ca)
- - date_published: 2024-06-22T08:51:59.855148+00:00
-
- ## Services aux Autochtones Canada / Indigenous Services Canada - Canada.ca
- - [https://www.sac-isc.gc.ca](https://www.sac-isc.gc.ca)
- - date_published: 2013-12-13T00:00:00+00:00
-
- ## Social Sciences and Humanities Research Council / Conseil de recherches en sciences humaines
- - [https://www.sshrc-crsh.gc.ca](https://www.sshrc-crsh.gc.ca)
- - date_published: 2020-06-02T23:37:03+00:00
-
- ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
- - [https://www150.statcan.gc.ca](https://www150.statcan.gc.ca)
- - date_published: 2023-11-27T21:10:40.723455+00:00
-
- ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
- - [https://www.statcan.gc.ca](https://www.statcan.gc.ca)
- - date_published: 2013-12-13T00:00:00+00:00
-
- ## Language selection - Treasury Board of Canada Secretariat / Sélection de la langue - Secrétariat du Conseil du Trésor du Canada
- - [http://tbs-sct.gc.ca](http://tbs-sct.gc.ca)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Transport Canada / Transports Canada
- - [https://wwwapps.tc.gc.ca](https://wwwapps.tc.gc.ca)
- - date_published: 2021-11-29T19:02:34+00:00
-
- ## Listage dans le répertoire rejeté (Erreur 403) / Directory listing denied (Error 403)
- - [https://www.tpsgc-pwgsc.gc.ca](https://www.tpsgc-pwgsc.gc.ca)
- - date_published: 2021-10-05T00:00:00+00:00
-
- ## Home - Travel.gc.ca
- - [https://travel.gc.ca](https://travel.gc.ca)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Language selection - Vanier Canada Graduate Scholarships  / Sélection de la langue - Bourses d'études supérieures du Canada Vanier
- - [https://vanier.gc.ca](https://vanier.gc.ca)
- - date_published: 2024-06-09T01:06:28.920656+00:00
-
- ## Language selection
- - [https://www.veterans.gc.ca](https://www.veterans.gc.ca)
- - date_published: 2024-06-14T17:06:54+00:00
-
- ## Weather Information - Environment Canada
- - [https://weather.gc.ca](https://weather.gc.ca)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Manitoba Child Care Search - Government of Manitoba
- - [https://childcaresearch.gov.mb.ca](https://childcaresearch.gov.mb.ca)
- - date_published: 2024-04-30T05:33:01.579827+00:00
-
- ## Province of Manitoba | Home Page
- - [https://gov.mb.ca](https://gov.mb.ca)
- - date_published: 2024-04-30T05:32:46.909932+00:00
-
- ## Province of Manitoba | News Releases
- - [https://news.gov.mb.ca](https://news.gov.mb.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Residents Portal | Residents
- - [https://residents.gov.mb.ca](https://residents.gov.mb.ca)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Province of Manitoba | Home Page
- - [https://web2.gov.mb.ca](https://web2.gov.mb.ca)
- - date_published: 2024-04-30T05:33:03.894877+00:00
-
- ## Province of Manitoba | Home Page
- - [https://www.edu.gov.mb.ca](https://www.edu.gov.mb.ca)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Home
- - [https://www.manitobacourts.mb.ca](https://www.manitobacourts.mb.ca)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Home - Science East Science Centre
- - [http://scienceeast.nb.ca](http://scienceeast.nb.ca)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Dialogue
- - [https://dialogue.cpso.on.ca](https://dialogue.cpso.on.ca)
- - date_published: 2024-07-08T16:52:38.728281+00:00
 

@@ -1,3 +1,11 @@
+ ## folivora.ai - Great Tools for your Mac!
+ - [https://folivora.ai](https://folivora.ai)
+ - date_published: 2024-05-04T14:46:35.223475+00:00
+
+ ## Cohere For AI (C4AI)
+ - [https://cohere.for.ai](https://cohere.for.ai)
+ - date_published: 2024-07-01T14:59:50.877603+00:00
+
  ## Forestwalk Labs
  - [https://forestwalk.ai](https://forestwalk.ai)
  - date_published: 2024-06-15T10:53:33.673064+00:00
@@ -207,8 +215,12 @@
  - [https://www.getsound.ai](https://www.getsound.ai)
  - date_published: 2024-04-03T14:50:07+00:00
 
+ ## Venta
+ - [https://app.getventa.ai](https://app.getventa.ai)
+ - date_published: 2024-07-18T05:23:15.281841+00:00
+
  ## Venta - Your AI co-worker for more sales pipeline
- - [https://www.getventa.ai](https://www.getventa.ai)
+ - [https://getventa.ai](https://getventa.ai)
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## Voilà – ChatGPT AI browser assistant | Voilà
@@ -466,6 +478,10 @@
  ## HASH - a workspace for structured knowledge.
  - [https://hashdotai-lq9d3no7k.stage.hash.ai](https://hashdotai-lq9d3no7k.stage.hash.ai)
  - date_published: 2024-06-21T19:55:30.779115+00:00
+
+ ## Haye AI
+ - [https://dash.haye.ai](https://dash.haye.ai)
+ - date_published: 2024-07-18T23:14:44.368184+00:00
 
  ## Haye AI - In-context AI writing assistant for macOS
  - [https://haye.ai](https://haye.ai)
@@ -1393,8 +1409,20 @@
  - [https://www.lavo.ai](https://www.lavo.ai)
  - date_published: 2024-05-07T00:00:00+00:00
 
+ ## Low-code development community - LCDP.ai 牧言低代码平台开发者及用户社区
+ - [https://community.lcdp.ai](https://community.lcdp.ai)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## LCDP.ai Development Platform - Client and Server Documentation
+ - [https://dev-docs.lcdp.ai](https://dev-docs.lcdp.ai)
+ - date_published: 2024-07-18T23:06:08.691979+00:00
+
+ ## Muyan Development Platform
+ - [https://docs.lcdp.ai](https://docs.lcdp.ai)
+ - date_published: 2024-07-18T23:06:02.848095+00:00
+
  ## LCDP.ai Low Code Development Platform
- - [https://www.lcdp.ai](https://www.lcdp.ai)
+ - [https://lcdp.ai](https://lcdp.ai)
  - date_published: 2024-05-15T02:44:26.654379+00:00
 
  ## Lead Monitor
@@ -3346,8 +3374,12 @@
  - [https://rankster.ai](https://rankster.ai)
  - date_published: 2024-06-19T14:07:12+00:00
 
+ ## Rapid Claims AI - Medical Coding Made Easy
+ - [https://coding.rapidclaims.ai](https://coding.rapidclaims.ai)
+ - date_published: 2024-07-18T05:22:28.186354+00:00
+
  ## Rapid Claims AI - Autonomous medical coding and documentation
- - [https://www.rapidclaims.ai](https://www.rapidclaims.ai)
+ - [https://rapidclaims.ai](https://rapidclaims.ai)
  - date_published: 2024-04-01T00:00:00+00:00
 
  ## Home - RAPIDS Docs
@@ -3687,7 +3719,7 @@
  - date_published: 2024-06-23T11:17:28.641444+00:00
 
  ## Meet Rowsie: Your AI Assistant for Excel Modeling
- - [https://www.rowsie.ai](https://www.rowsie.ai)
+ - [https://rowsie.ai](https://rowsie.ai)
  - date_published: 2024-05-07T00:00:00+00:00
 
  ## RTutor 0.98
@@ -3994,36 +4026,4 @@
  ## Siml.ai - platform for AI-driven engineering and science
  - [https://platform.siml.ai](https://platform.siml.ai)
  - date_published: 2024-06-28T10:55:46.766454+00:00
-
- ## Siml.ai - Platform for fast AI-driven physics simulations
- - [https://siml.ai](https://siml.ai)
- - date_published: 2024-05-06T22:32:04.949047+00:00
-
- ## Create a Simple Blog in seconds, Post From Google Docs, Office 365.
- - [https://simpleblog.ai](https://simpleblog.ai)
- - date_published: 2023-10-25T11:42:46.174552+00:00
-
- ## SimpleMail
- - [https://simplemail.ai](https://simplemail.ai)
- - date_published: 2024-06-17T09:02:13+00:00
-
- ## Write content, faster & better -in seconds.
- - [https://www.sincode.ai](https://www.sincode.ai)
- - date_published: 2024-06-14T08:59:16.111657+00:00
-
- ## Sintra - Your next employees, on AI
- - [https://sintra.ai](https://sintra.ai)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Sista AI - AI Solutions for Accessibility and Integration
- - [https://sista.ai](https://sista.ai)
- - date_published: 2024-04-18T21:41:16+00:00
-
- ## SiteGPT - Make AI your expert customer support agent
- - [https://sitegpt.ai](https://sitegpt.ai)
- - date_published: 2024-06-16T01:16:14.273292+00:00
-
- ## AI landing page builder
- - [https://www.sitekick.ai](https://www.sitekick.ai)
- - date_published: 2024-06-10T00:00:00+00:00
 
