@@ -1,3 +1,47 @@
+ ## Shop That Look - the search engine for fashion
+ - [https://shopthatlook.ai](https://shopthatlook.ai)
+ - date_published: 2024-06-27T10:51:36.494540+00:00
+
+ ## Shortbread | Create comics with AI in minutes
+ - [https://shortbread.ai](https://shortbread.ai)
+ - date_published: 2023-10-25T11:42:44.653698+00:00
+
+ ## Smart Image/CSS/JS Optimization Services and CDN for Websites
+ - [https://cdn.shortpixel.ai](https://cdn.shortpixel.ai)
+ - date_published: 2024-04-28T05:57:20.149239+00:00
+
+ ## Smart Image/CSS/JS Optimization Services and CDN for Websites
+ - [https://sp-ao.shortpixel.ai](https://sp-ao.shortpixel.ai)
+ - date_published: 2024-04-28T04:27:45.213109+00:00
+
+ ## SideChat
+ - [https://www.sidechat.ai](https://www.sidechat.ai)
+ - date_published: 2024-06-19T19:54:20.036180+00:00
+
+ ## Sider: ChatGPT Sidebar + GPT-4o, Claude 3, Gemini 1.5 & AI Tools
+ - [https://sider.ai](https://sider.ai)
+ - date_published: 2024-06-19T19:19:09.433730+00:00
+
+ ## Sierra - The Conversational AI Platform
+ - [https://sierra.ai](https://sierra.ai)
+ - date_published: 2024-04-28T01:59:56.176696+00:00
+
+ ## Signapse AI | Sign Language Technology
+ - [https://www.signapse.ai](https://www.signapse.ai)
+ - date_published: 2024-06-19T19:35:46.132248+00:00
+
+ ## Europe’s largest private AI lab | Silo AI
+ - [https://silo.ai](https://silo.ai)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Overview – Siml.ai Documentation
+ - [https://docs.siml.ai](https://docs.siml.ai)
+ - date_published: 2024-06-28T10:55:41.532890+00:00
+
+ ## Siml.ai - platform for AI-driven engineering and science
+ - [https://platform.siml.ai](https://platform.siml.ai)
+ - date_published: 2024-06-28T10:55:46.766454+00:00
+
  ## Siml.ai - Platform for fast AI-driven physics simulations
  - [https://siml.ai](https://siml.ai)
  - date_published: 2024-05-06T22:32:04.949047+00:00
@@ -522,6 +566,10 @@
  - [https://lightrag.sylph.ai](https://lightrag.sylph.ai)
  - date_published: 2024-07-15T23:29:11+00:00
 
+ ## Symbolic - Powering Publishing
+ - [https://symbolic.ai](https://symbolic.ai)
+ - date_published: 2024-07-10T00:00:00+00:00
+
  ## Symbolica
  - [https://www.symbolica.ai](https://www.symbolica.ai)
  - date_published: 2024-07-01T07:39:02.694914+00:00
@@ -809,6 +857,10 @@
  - [https://tinq.ai](https://tinq.ai)
  - date_published: 2024-06-19T19:34:27.911605+00:00
 
+ ## Tint Embedded Insurance Company | Plug & Play or White-Label Insurance
+ - [https://www.tint.ai](https://www.tint.ai)
+ - date_published: 2024-07-14T12:31:46+00:00
+
  ## TodoBot
  - [https://todobot.ai](https://todobot.ai)
  - date_published: 2023-10-25T11:44:27.284509+00:00
@@ -1030,6 +1082,10 @@
  ## Uden AI - Öko-hosting und Cybersicherheit
  - [https://uden.ai](https://uden.ai)
  - date_published: 2024-03-25T14:11:42+00:00
+
+ ## ULTRACODE
+ - [https://app.ultracode.ai](https://app.ultracode.ai)
+ - date_published: 2024-07-19T04:06:23.046767+00:00
 
  ## ULTRACODE AI: Coding Interview Co-Pilot
  - [https://ultracode.ai](https://ultracode.ai)
@@ -1255,6 +1311,10 @@
  ## AI Playground
  - [https://play.vercel.ai](https://play.vercel.ai)
  - date_published: 2023-10-25T11:44:52.765812+00:00
+
+ ## Vercel AI SDK
+ - [https://sdk.vercel.ai](https://sdk.vercel.ai)
+ - date_published: 2024-07-19T19:01:05.987873+00:00
 
  ## Home | Vespa Blog
  - [https://blog.vespa.ai](https://blog.vespa.ai)
@@ -1787,9 +1847,17 @@ Creative Solutions
  - [https://zapro.ai](https://zapro.ai)
  - date_published: 2024-06-08T10:44:38+00:00
 
+ ## Zebracat Video Generation AI
+ - [https://www.zebracat.ai](https://www.zebracat.ai)
+ - date_published: 2024-07-08T00:00:00+00:00
+
  ## Zeemo AI | Add Subtitles to Video - Powerful Caption Generator
  - [https://zeemo.ai](https://zeemo.ai)
  - date_published: 2024-06-17T02:17:43+00:00
+
+ ## AI-Powered Clinical Trial Newsletter.
+ - [https://zeeq.ai](https://zeeq.ai)
+ - date_published: 2024-05-27T20:12:37+00:00
 
  ## ZenCall - AI Answers Your Calls
  - [https://www.zencall.ai](https://www.zencall.ai)
@@ -1919,6 +1987,10 @@ Creative Solutions
  ## Aral’s fediverse server
  - [https://mastodon.ar.al](https://mastodon.ar.al)
  - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Audi Albania »  Zbuloni modele dhe oferta | Audi Albania
+ - [https://www.audi.al](https://www.audi.al)
+ - date_published: 2024-07-19T22:44:00.796957+00:00
 
  ## Enon Avital: UX Designer, Artist, and Illustrator
  - [https://avit.al](https://avit.al)
@@ -2130,6 +2202,10 @@ Creative Solutions
  ## Հայկական կրթական միջավայր
  - [http://armedu.am](http://armedu.am)
  - date_published: 2024-07-02T22:44:34.273075+00:00
+
+ ## Audi-ին Հայաստանում
+ - [https://www.audi.am](https://www.audi.am)
+ - date_published: 2024-07-19T20:36:41+00:00
 
  ## Радио Азатутюн
  - [https://rus.azatutyun.am](https://rus.azatutyun.am)
@@ -3075,6 +3151,10 @@ Creative Solutions
  - date_published: 2024-04-10T06:32:18+00:00
  - tags: ['propietary', 'monetization']
 
+ ## Welcome to CompressX | CompressX Documentation
+ - [https://docs.compressx.app](https://docs.compressx.app)
+ - date_published: 2024-04-24T00:00:00+00:00
+
  ## Concepts App • Infinite, Flexible Sketching
  - [https://concepts.app](https://concepts.app)
  - date_published: 2024-07-12T17:42:42.787151+00:00
@@ -3610,7 +3690,7 @@ Creative Solutions
 
  ## Fedilab
  - [https://fedilab.app](https://fedilab.app)
- - date_published: 2024-05-15T20:53:36.825159+00:00
+ - date_published: 2024-05-15T12:49:34+00:00
 
  ## Fedilab
  - [https://toot.fedilab.app](https://toot.fedilab.app)
@@ -3790,6 +3870,10 @@ Creative Solutions
  - [https://freetalk.app](https://freetalk.app)
  - date_published: 2024-07-03T08:28:46.052393+00:00
 
+ ## Find the perfect fundraising advisor for your startup
+ - [https://www.fundraisingadvisors.app](https://www.fundraisingadvisors.app)
+ - date_published: 2024-04-10T00:00:00+00:00
+
  ## Google Colab
  - [https://fursona.app](https://fursona.app)
  - date_published: 2024-06-25T23:40:40.074398+00:00
@@ -3946,88 +4030,4 @@ Creative Solutions
  ## Greg - Plant Identifier & Care
  - [https://greg.app](https://greg.app)
  - date_published: 2024-07-12T17:42:05.853174+00:00
-
- ## grep.app | code search
- - [https://grep.app](https://grep.app)
- - date_published: 2023-10-25T11:46:38.184757+00:00
-
- ## Guess The Book - Your daily book guessing puzzle!
- - [https://guessthebook.app](https://guessthebook.app)
- - date_published: 2024-05-08T00:42:38.698529+00:00
-
- ## Nest Guides
- - [https://guides.hackclub.app](https://guides.hackclub.app)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Hailey HR
- - [https://haileyhr.app](https://haileyhr.app)
- - date_published: 2024-07-10T09:42:31+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.server.hakai.app](https://plausible.server.hakai.app)
- - date_published: 2024-05-04T09:16:01.832091+00:00
-
- ## HAMA | AI Object remover, Image Eraser
- - [https://www.hama.app](https://www.hama.app)
- - date_published: 2024-06-19T19:09:33.346187+00:00
-
- ## Hands Time
- - [https://handstime.app](https://handstime.app)
- - date_published: 2024-07-09T19:01:00.181784+00:00
-
- ## Hansei - Chat with your Knowledgebase
- - [https://hansei.app](https://hansei.app)
- - date_published: 2023-10-25T11:46:38.618243+00:00
-
- ## Hardcover
- - [https://hardcover.app](https://hardcover.app)
- - date_published: 2024-05-07T14:34:18.728544+00:00
-
- ## Mastodon
- - [https://mastodon.hardcover.app](https://mastodon.hardcover.app)
- - date_published: 2024-06-29T23:26:16.950334+00:00
-
- ## Hardcover Feedback
- - [https://roadmap.hardcover.app](https://roadmap.hardcover.app)
- - date_published: 2024-06-29T23:26:16.054530+00:00
-
- ## Hardcover - API for the blog.
- - [https://wp.hardcover.app](https://wp.hardcover.app)
- - date_published: 2024-06-29T23:26:24.079520+00:00
-
- ## Headliner
- - [https://make.headliner.app](https://make.headliner.app)
- - date_published: 2024-06-18T15:33:25+00:00
-
- ## Headliner - Promote your podcast, radio show or blog with video
- - [https://www.headliner.app](https://www.headliner.app)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Heartfly - Dating App for Lesbian, Gay, Bi, Trans & Queer People
- - [https://heartfly.app](https://heartfly.app)
- - date_published: 2024-06-19T18:48:08.003549+00:00
-
- ## Hebrew Bible Study
- - [https://hebrewbible.app](https://hebrewbible.app)
- - date_published: 2024-04-25T11:19:01+00:00
-
- ## Height — AI project tool for builders
- - [https://height.app](https://height.app)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Paste a password, confidential message, or private data.
- - [https://hemmelig.app](https://hemmelig.app)
- - date_published: 2024-06-19T22:23:50.231867+00:00
-
- ## Alice - ChatGPT desktop app with superpowers!
- - [https://www.heyalice.app](https://www.heyalice.app)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## HideMail: Protect Your Email Privacy with Random Aliases
- - [https://hidemail.app](https://hidemail.app)
- - date_published: 2024-07-14T10:19:15.020118+00:00
-
- ## HighTop
- - [https://hightop.app](https://hightop.app)
- - date_published: 2024-06-22T06:22:39.005957+00:00
 

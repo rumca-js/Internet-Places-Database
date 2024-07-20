@@ -1,3 +1,87 @@
+ ## grep.app | code search
+ - [https://grep.app](https://grep.app)
+ - date_published: 2023-10-25T11:46:38.184757+00:00
+
+ ## Guess The Book - Your daily book guessing puzzle!
+ - [https://guessthebook.app](https://guessthebook.app)
+ - date_published: 2024-05-08T00:42:38.698529+00:00
+
+ ## Nest Guides
+ - [https://guides.hackclub.app](https://guides.hackclub.app)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Hailey HR
+ - [https://haileyhr.app](https://haileyhr.app)
+ - date_published: 2024-07-10T09:42:31+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.server.hakai.app](https://plausible.server.hakai.app)
+ - date_published: 2024-05-04T09:16:01.832091+00:00
+
+ ## HAMA | AI Object remover, Image Eraser
+ - [https://www.hama.app](https://www.hama.app)
+ - date_published: 2024-06-19T19:09:33.346187+00:00
+
+ ## Hands Time
+ - [https://handstime.app](https://handstime.app)
+ - date_published: 2024-07-09T19:01:00.181784+00:00
+
+ ## Hansei - Chat with your Knowledgebase
+ - [https://hansei.app](https://hansei.app)
+ - date_published: 2023-10-25T11:46:38.618243+00:00
+
+ ## Hardcover
+ - [https://hardcover.app](https://hardcover.app)
+ - date_published: 2024-05-07T14:34:18.728544+00:00
+
+ ## Mastodon
+ - [https://mastodon.hardcover.app](https://mastodon.hardcover.app)
+ - date_published: 2024-06-29T23:26:16.950334+00:00
+
+ ## Hardcover Feedback
+ - [https://roadmap.hardcover.app](https://roadmap.hardcover.app)
+ - date_published: 2024-06-29T23:26:16.054530+00:00
+
+ ## Hardcover - API for the blog.
+ - [https://wp.hardcover.app](https://wp.hardcover.app)
+ - date_published: 2024-06-29T23:26:24.079520+00:00
+
+ ## Headliner
+ - [https://make.headliner.app](https://make.headliner.app)
+ - date_published: 2024-06-18T15:33:25+00:00
+
+ ## Headliner - Promote your podcast, radio show or blog with video
+ - [https://www.headliner.app](https://www.headliner.app)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Heartfly - Dating App for Lesbian, Gay, Bi, Trans & Queer People
+ - [https://heartfly.app](https://heartfly.app)
+ - date_published: 2024-06-19T18:48:08.003549+00:00
+
+ ## Hebrew Bible Study
+ - [https://hebrewbible.app](https://hebrewbible.app)
+ - date_published: 2024-04-25T11:19:01+00:00
+
+ ## Height — AI project tool for builders
+ - [https://height.app](https://height.app)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Paste a password, confidential message, or private data.
+ - [https://hemmelig.app](https://hemmelig.app)
+ - date_published: 2024-06-19T22:23:50.231867+00:00
+
+ ## Alice - ChatGPT desktop app with superpowers!
+ - [https://www.heyalice.app](https://www.heyalice.app)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## HideMail: Protect Your Email Privacy with Random Aliases
+ - [https://hidemail.app](https://hidemail.app)
+ - date_published: 2024-07-14T10:19:15.020118+00:00
+
+ ## HighTop
+ - [https://hightop.app](https://hightop.app)
+ - date_published: 2024-06-22T06:22:39.005957+00:00
+
  ## The remote job board you'll actually enjoy using
  - [https://himalayas.app](https://himalayas.app)
  - date_published: 2024-05-17T00:00:00+00:00
@@ -176,6 +260,10 @@
  ## Found
  - [https://joinfound.app](https://joinfound.app)
  - date_published: 2024-03-24T20:12:58+00:00
+
+ ## Live Video Chat With Your Website Visitors
+ - [https://joyyo.app](https://joyyo.app)
+ - date_published: 2024-07-19T23:24:59.914501+00:00
 
  ## Use JSDoc: Index
  - [https://jsdoc.app](https://jsdoc.app)
@@ -786,6 +874,10 @@
  - [https://article-submission.netlify.app](https://article-submission.netlify.app)
  - date_published: 2024-06-23T02:03:34.351595+00:00
 
+ ## Astrofy | Personal Portfolio Website Template
+ - [https://astrofy-template.netlify.app](https://astrofy-template.netlify.app)
+ - date_published: 2024-07-19T16:23:28.132376+00:00
+
  ## Astro Guestbook
  - [https://astro-guestbook.netlify.app](https://astro-guestbook.netlify.app)
  - date_published: 2024-07-02T00:00:00+00:00
@@ -809,6 +901,10 @@
  ## Ackee
  - [https://at-ackee.netlify.app](https://at-ackee.netlify.app)
  - date_published: 2024-04-29T07:56:01.462065+00:00
+
+ ## avi12's Official Website
+ - [https://avi12-website.netlify.app](https://avi12-website.netlify.app)
+ - date_published: 2024-07-19T15:49:06.268577+00:00
 
  ## Bắc Kỳ Vietnamese Canteen
  - [https://backy.netlify.app](https://backy.netlify.app)
@@ -1641,6 +1737,10 @@
  - [https://netron.app](https://netron.app)
  - date_published: 2024-06-15T00:00:00+00:00
 
+ ## Niagara Launcher Help Page
+ - [https://help.niagaralauncher.app](https://help.niagaralauncher.app)
+ - date_published: 2024-07-19T20:15:05.639282+00:00
+
  ## Niagara Launcher ðŸ”¹ fresh & clean homescreen for Android
  - [https://niagaralauncher.app](https://niagaralauncher.app)
  - date_published: 2024-02-10T17:55:05.907774+00:00
@@ -1702,6 +1802,10 @@
  - [https://nx.app](https://nx.app)
  - date_published: 2024-02-23T00:00:00+00:00
 
+ ## Log in | Staging Nx Cloud
+ - [https://staging.nx.app](https://staging.nx.app)
+ - date_published: 2024-07-19T19:01:04.534465+00:00
+
  ## Nx status
  - [https://status.nx.app](https://status.nx.app)
  - date_published: 2024-04-30T02:04:17.351042+00:00
@@ -1756,6 +1860,10 @@
  - [https://omnivore.app](https://omnivore.app)
  - date_published: 2023-10-25T11:48:07.019044+00:00
 
+ ## Image captioning tool
+ - [https://coral-app-qdy8z.ondigitalocean.app](https://coral-app-qdy8z.ondigitalocean.app)
+ - date_published: 2024-07-19T23:35:22+00:00
+
  ## Weather App
  - [https://digitalweather-app-9eejw.ondigitalocean.app](https://digitalweather-app-9eejw.ondigitalocean.app)
  - date_published: 2024-05-10T16:54:46.255464+00:00
@@ -1776,6 +1884,10 @@
  - [https://onepanel.app](https://onepanel.app)
  - date_published: 2024-06-19T19:34:09.215822+00:00
 
+ ## one sec | distracting apps made less appealing – scientifically
+ - [https://one-sec.app](https://one-sec.app)
+ - date_published: 2024-07-18T08:01:20+00:00
+
  ## OnlyFakes - Uncensored AI Images | NSFW AI Generator
  - [https://onlyfakes.app](https://onlyfakes.app)
  - date_published: 2024-06-19T19:57:21.581224+00:00
@@ -1790,7 +1902,7 @@
  - date_published: 2024-04-29T07:41:47.137862+00:00
 
  ## Raise from 5,000+ investors. For free.
- - [https://www.openvc.app](https://www.openvc.app)
+ - [https://openvc.app](https://openvc.app)
  - date_published: 2024-05-15T00:00:00+00:00
 
  - [https://orbot.app](https://orbot.app)
@@ -1852,6 +1964,10 @@
  ## pass Culture
  - [https://passculture.app](https://passculture.app)
  - date_published: 2024-07-02T15:06:25+00:00
+
+ ## Passepartout
+ - [https://passepartoutvpn.app](https://passepartoutvpn.app)
+ - date_published: 2024-06-27T08:41:19+00:00
 
  ## Pastefy
  - [https://pastefy.app](https://pastefy.app)
@@ -1987,6 +2103,10 @@
  - [https://pippy.app](https://pippy.app)
  - date_published: 2024-05-31T09:10:35+00:00
 
+ ## Find the perfect pitch deck designer
+ - [https://www.pitchdeckexperts.app](https://www.pitchdeckexperts.app)
+ - date_published: 2024-04-10T00:00:00+00:00
+
  ## ‎Pixel Pals Widget Pet Game
  - [https://pixelpals.app](https://pixelpals.app)
  - date_published: 2024-01-20T00:00:00+00:00
@@ -2066,6 +2186,10 @@
  ## Pomodor | It's time to be focused and productive
  - [https://pomodor.app](https://pomodor.app)
  - date_published: 2023-06-20T18:14:39+00:00
+
+ ## Popify
+ - [https://app.popify.app](https://app.popify.app)
+ - date_published: 2024-07-19T19:31:49.957093+00:00
 
  ## Portal - An Immersive Spatial Audio App For Focus, Sleep & Escape
  - [https://portal.app](https://portal.app)
@@ -2594,6 +2718,10 @@
  ## Grocery App
  - [https://smartgrocery.app](https://smartgrocery.app)
  - date_published: 2022-08-12T01:13:29+00:00
+
+ ## Snapclear | Upscale and Remove Image Background Offline
+ - [https://www.snapclear.app](https://www.snapclear.app)
+ - date_published: 2024-07-19T16:23:25.658567+00:00
 
  ## Photo Editor Online - AI Editing Photo Free - SnapEdit.App
  - [https://snapedit.app](https://snapedit.app)
@@ -3873,6 +4001,10 @@
  - [https://klu-j3n0d4hsu-klu.vercel.app](https://klu-j3n0d4hsu-klu.vercel.app)
  - date_published: 2024-07-03T09:21:30.911456+00:00
 
+ ## Dashboard
+ - [https://landing-page-4tehrrs0f-final-round-ai.vercel.app](https://landing-page-4tehrrs0f-final-round-ai.vercel.app)
+ - date_published: 2024-07-19T04:06:38.626412+00:00
+
  ## LaTeX.css
  - [https://latex.vercel.app](https://latex.vercel.app)
  - date_published: 2024-07-14T11:34:21.188576+00:00
@@ -3908,137 +4040,4 @@
  ## Martin di Martino-Marriott | Front-end Web Developer, Nottingham
  - [https://martindm-uk.vercel.app](https://martindm-uk.vercel.app)
  - date_published: 2024-01-07T17:48:29.845931+00:00
-
- ## Mastodon Flock
- - [https://mastodon-flock.vercel.app](https://mastodon-flock.vercel.app)
- - date_published: 2023-10-25T08:36:46.987018+00:00
-
- ## mebo Live2Dサンプル
- - [https://mebo-live2d-sample.vercel.app](https://mebo-live2d-sample.vercel.app)
- - date_published: 2024-07-12T18:05:42.077005+00:00
-
- ## GitHub - blairanderson/microicon: SVG icon microservice
- - [https://microicon-clone.vercel.app](https://microicon-clone.vercel.app)
- - date_published: 2024-04-30T00:34:05.252523+00:00
-
- ## Mitul Shah
- - [https://mitul-h724a14h4-mituls-projects-b6e53694.vercel.app](https://mitul-h724a14h4-mituls-projects-b6e53694.vercel.app)
- - date_published: 2024-07-09T19:16:34.644172+00:00
-
- ## Moddermore
- - [https://moddermore.vercel.app](https://moddermore.vercel.app)
- - date_published: 2024-05-15T02:48:31.617481+00:00
-
- ## A Modern Web for Hacker News – Open-Source and Seeking Feedback
- - [https://modern-hacker-news.vercel.app](https://modern-hacker-news.vercel.app)
- - date_published: 2023-12-31T14:00:00+00:00
-
- ## Moments: Personalised Meditations in Seconds
- - [https://momentsai.vercel.app](https://momentsai.vercel.app)
- - date_published: 2024-06-19T20:50:51.727960+00:00
-
- ## Show HN: I made a Pinterest clone using SigLIP image embeddings
- - [https://mood-amber.vercel.app](https://mood-amber.vercel.app)
- - date_published: 2024-02-16T02:52:01+00:00
-
- ## Moogle: Semantic search over mathlib4
- - [https://moogle-morphlabs.vercel.app](https://moogle-morphlabs.vercel.app)
- - date_published: 2024-05-07T15:57:45.618859+00:00
-
- ## Movie/Book Recommender
- - [https://movie-and-book-recommender.vercel.app](https://movie-and-book-recommender.vercel.app)
- - date_published: 2024-06-19T21:38:47.595790+00:00
-
- ## movie-web
- - [https://movie-web-alpha-eight.vercel.app](https://movie-web-alpha-eight.vercel.app)
- - date_published: 2024-05-08T10:44:20.844587+00:00
-
- ## Best Medical Record Review Services for Attorneys in USA
- - [https://mrr-health-tech.vercel.app](https://mrr-health-tech.vercel.app)
- - date_published: 2024-06-22T22:33:42.875723+00:00
-
- ## MUD | Framework for onchain applications
- - [https://mud-docs-6z1ag54lx-latticexyz.vercel.app](https://mud-docs-6z1ag54lx-latticexyz.vercel.app)
- - date_published: 2024-04-30T01:55:29.205632+00:00
-
- ## MUD | Framework for onchain applications
- - [https://mud-docs-o2hla2qt0-latticexyz.vercel.app](https://mud-docs-o2hla2qt0-latticexyz.vercel.app)
- - date_published: 2024-06-04T12:50:57.860875+00:00
-
- ## Music Player
- - [https://musicplayer-dusky.vercel.app](https://musicplayer-dusky.vercel.app)
- - date_published: 2024-07-14T09:42:25.678394+00:00
-
- ## Not a Number
- - [https://nan-archive.vercel.app](https://nan-archive.vercel.app)
- - date_published: 2024-05-08T00:41:24.126353+00:00
-
- ## React App
- - [https://native-ads-two.vercel.app](https://native-ads-two.vercel.app)
- - date_published: 2024-05-04T06:41:03.171139+00:00
-
- ## Show HN: I built a website to share files and messages without any server
- - [https://neighbor-share.vercel.app](https://neighbor-share.vercel.app)
- - date_published: 2024-05-05T07:42:13+00:00
-
- ## Neobrutalism components
- - [https://neobrutalism-components.vercel.app](https://neobrutalism-components.vercel.app)
- - date_published: 2024-04-07T06:03:59+00:00
- - tags: ['brutalist web']
-
- ## Emil Kowalski
- - [https://new-emilkowalski.vercel.app](https://new-emilkowalski.vercel.app)
- - date_published: 2024-06-22T13:58:54.989772+00:00
-
- ## New Shoe
- - [https://newshows.vercel.app](https://newshows.vercel.app)
- - date_published: 2024-07-14T10:06:21.498493+00:00
-
- ## NextAuth.js Example
- - [https://next-auth-example.vercel.app](https://next-auth-example.vercel.app)
- - date_published: 2024-04-29T07:20:05.749263+00:00
-
- ## Devansh Bajaj
- - [https://nextjs-devanshblog.vercel.app](https://nextjs-devanshblog.vercel.app)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Jobify Dev
- - [https://nextjs-jobify-production.vercel.app](https://nextjs-jobify-production.vercel.app)
- - date_published: 2024-06-19T06:57:50.743139+00:00
-
- ## Nextra – Next.js Static Site Generator – Nextra
- - [https://nextra.vercel.app](https://nextra.vercel.app)
- - date_published: 2024-06-15T02:03:04.197742+00:00
-
- ## NgChat
- - [https://ng-chat-v.vercel.app](https://ng-chat-v.vercel.app)
- - date_published: 2024-05-20T18:18:54.812115+00:00
-
- ## Northendlab | Astro Blog Theme
- - [https://northendlab-light-astro.vercel.app](https://northendlab-light-astro.vercel.app)
- - date_published: 2024-06-21T23:48:46.626162+00:00
-
- ## Notes
- - [https://notes-ibnmaghreb.vercel.app](https://notes-ibnmaghreb.vercel.app)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Notion Widgets
- - [https://notion-with-widgets.vercel.app](https://notion-with-widgets.vercel.app)
- - date_published: 2024-07-14T09:43:30.176121+00:00
-
- ## OctoArt
- - [https://octoart.vercel.app](https://octoart.vercel.app)
- - date_published: 2023-10-30T18:59:23.812847+00:00
-
- ## Oggie Sutrisna - Mushroom's Diary
- - [https://oggiesutrisna.vercel.app](https://oggiesutrisna.vercel.app)
- - date_published: 2024-06-19T09:31:26.313882+00:00
-
- ## Open Graph Image as a Service
- - [https://og-image-io.vercel.app](https://og-image-io.vercel.app)
- - date_published: 2024-05-22T02:44:07.569797+00:00
-
- ## Vercel OG Image Playground
- - [https://og-image.vercel.app](https://og-image.vercel.app)
- - date_published: 2024-05-04T05:55:37.250336+00:00
 

@@ -11,7 +11,7 @@
  - date_published: 2024-06-19T22:50:55.732303+00:00
 
  ## 1.1.1.1 — The free app that makes your Internet faster.
- - [http://1.1.1.1](http://1.1.1.1)
+ - [https://1.1.1.1](https://1.1.1.1)
  - date_published: 2024-04-11T02:30:03.805708+00:00
  - tags: ['dns resolver', 'cloudflare']
 
@@ -387,6 +387,10 @@
  - [https://www.brother.ae](https://www.brother.ae)
  - date_published: 2024-05-02T11:25:24.655943+00:00
 
+ ## Capterra United Arab Emirates helps you find the right software for your business
+ - [https://www.capterra.ae](https://www.capterra.ae)
+ - date_published: 2024-07-19T18:05:14.097799+00:00
+
  ## CBD | Top-Rated UAE Bank - Personal & Business Banking
  - [https://www.cbd.ae](https://www.cbd.ae)
  - date_published: 2024-06-16T05:07:55.229436+00:00
@@ -556,6 +560,10 @@
  - [https://www.maximusuae.ae](https://www.maximusuae.ae)
  - date_published: 2024-07-15T02:09:00.154237+00:00
 
+ ## Life, Pet, and Health Insurance Provider| MetLife UAE
+ - [https://www.metlife.ae](https://www.metlife.ae)
+ - date_published: 2024-07-19T16:51:52+00:00
+
  ## home
  - [https://moorfields.ae](https://moorfields.ae)
  - date_published: 2024-03-13T00:00:00+00:00
@@ -633,7 +641,7 @@
  - date_published: 2024-06-06T00:00:00+00:00
 
  ## The National - Latest world news, sport & opinion
- - [http://www.thenational.ae](http://www.thenational.ae)
+ - [https://thenational.ae](https://thenational.ae)
  - date_published: 2024-04-28T00:00:00+00:00
 
  ## Time Management Training & Workshops | Think Productive
@@ -2952,6 +2960,10 @@ Welcome
  - [https://social.creatus.ai](https://social.creatus.ai)
  - date_published: 2024-02-13T13:11:11+00:00
 
+ ## Cresta AI | Generative AI for the Contact Center
+ - [https://www.cresta.ai](https://www.cresta.ai)
+ - date_published: 2024-07-18T00:00:00+00:00
+
  ## CrowdView
  - [https://crowdview.ai](https://crowdview.ai)
  - date_published: 2024-06-19T19:05:13.289550+00:00
@@ -4017,16 +4029,4 @@ Welcome
  ## Flyflow
  - [https://app.flyflow.ai](https://app.flyflow.ai)
  - date_published: 2024-07-14T15:46:25.495147+00:00
-
- ## Flyflow
- - [https://flyflow.ai](https://flyflow.ai)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Flyx Labs - AI For Everyone
- - [https://www.flyx.ai](https://www.flyx.ai)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## BetterTouchTool Community
- - [https://community.folivora.ai](https://community.folivora.ai)
- - date_published: 2024-04-28T00:00:00+00:00
 

@@ -1,3 +1,449 @@
+ ## Купить Форд новый в Минске | Официальный дилер Атлант-М Боровая в Беларуси
+ - [http://www.ford.by](http://www.ford.by)
+ - date_published: 2024-06-19T17:00:48.390964+00:00
+
+ ## Игровые приставки, игры и аксессуары купить в Минске - gameclub.by
+ - [http://gameclub.by](http://gameclub.by)
+ - date_published: 2024-06-17T05:41:42.907759+00:00
+
+ ## Google
+ - [https://www.google.by](https://www.google.by)
+ - date_published: 2024-06-21T22:23:47.483648+00:00
+
+ ## Главная страница
+ - [https://www.hilti.by](https://www.hilti.by)
+ - date_published: 2024-06-20T07:27:26.364546+00:00
+
+ ## Создать интернет-магазин бесплатно – Готовый интернет-магазин с нуля на Insales
+ - [https://insales.by](https://insales.by)
+ - date_published: 2024-06-18T15:30:25+00:00
+
+ ## Официальный дилер Opel в Беларуси – ПарадАвто
+ - [https://www.opel.by](https://www.opel.by)
+ - date_published: 2024-07-10T12:39:53+00:00
+
+ ## Партизаны Беларуси
+ - [https://partizany.by](https://partizany.by)
+ - date_published: 2024-06-30T03:40:24.019135+00:00
+
+ ## PERI - Опалубка и строительные леса
+ - [https://www.peri.by](https://www.peri.by)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Что приготовить на ужин, на завтрак, на обед
+ - [https://eda.sb.by](https://eda.sb.by)
+ - date_published: 2024-06-30T03:40:39.570597+00:00
+
+ ## Издательский дом «Беларусь сегодня»
+ - [https://org.sb.by](https://org.sb.by)
+ - date_published: 2024-06-30T03:40:19.537784+00:00
+
+ ## Спецпроекты
+ - [http://photo.sb.by](http://photo.sb.by)
+ - date_published: 2024-03-29T10:27:18+00:00
+
+ ## Спецпроекты
+ - [http://sp.sb.by](http://sp.sb.by)
+ - date_published: 2024-03-29T10:27:17+00:00
+
+ ## Беларусь помнит
+ - [https://storyofvictory.sb.by](https://storyofvictory.sb.by)
+ - date_published: 2024-05-06T13:38:14+00:00
+
+ ## Программа передач на все каналы. ТВ программа Беларуси. Телепрограмма
+ - [https://tv.sb.by](https://tv.sb.by)
+ - date_published: 2024-06-30T03:40:22.183372+00:00
+
+ ## неОБЫЧАЙные деревни
+ - [http://veski.sb.by](http://veski.sb.by)
+ - date_published: 2023-01-05T11:13:59+00:00
+
+ ## Новости Беларуси | белорусские новости | новости сегодня | последние новости | события в Беларуси и мире | темы дня | фото | видео | инфографика
+ - [https://sb.by](https://sb.by)
+ - date_published: 2024-05-07T15:11:50.507081+00:00
+
+ ## Навіны Беларусі і свету на беларускай мове | bel.sputnik.by
+ - [https://bel.sputnik.by](https://bel.sputnik.by)
+ - date_published: 2024-06-15T08:47:22.249199+00:00
+
+ ## TopTweets.by
+ - [https://toptweets.by](https://toptweets.by)
+ - date_published: 2024-05-10T04:55:23.138340+00:00
+
+ ## Beste casinoer i Norge 2024
+ - [https://trd.by](https://trd.by)
+ - date_published: 2024-07-12T22:42:44.106573+00:00
+
+ ## VEG.BY — VEG's Blog
+ - [https://veg.by](https://veg.by)
+ - date_published: 2023-11-26T12:56:13.830280+00:00
+
+ ## The Welby Family's Blogs
+ - [https://wel.by](https://wel.by)
+ - date_published: 2024-07-13T04:13:15.094318+00:00
+
+ ## Мобильный оператор life:)
+ - [http://life.com.by](http://life.com.by)
+ - date_published: 2024-07-13T14:57:23.640595+00:00
+
+ ## Главная | Министерство связи и информатизации Республики Беларусь
+ - [https://www.mpt.gov.by](https://www.mpt.gov.by)
+ - date_published: 2024-06-30T03:40:15.572113+00:00
+
+ ## Official website | Official Internet Portal of the President of the Republic of Belarus
+ - [https://president.gov.by](https://president.gov.by)
+ - date_published: 2024-06-29T22:50:44+00:00
+
+ ## Anwar Tours | Tour Operator | Belize
+ - [https://anwartours.bz](https://anwartours.bz)
+ - date_published: 2024-05-06T22:41:11.214787+00:00
+
+ ## דיגיטלר – Library
+ - [https://digitaler.cld.bz](https://digitaler.cld.bz)
+ - date_published: 2024-07-13T07:31:56.545477+00:00
+
+ ## STACK – Library
+ - [https://stack.cld.bz](https://stack.cld.bz)
+ - date_published: 2024-06-16T17:23:03.102241+00:00
+
+ ## Discover Belize with Belize Exotic Adventures – Belize Tours, Cave Tubing, Rainforest Tours, ATV Tours, Zipline Tours, Mayan Temples and Ruins
+ - [https://www.discoverbelize.bz](https://www.discoverbelize.bz)
+ - date_published: 2024-06-28T11:39:33.980240+00:00
+
+ ## Homepage@c.dup.bz
+ - [https://c.dup.bz](https://c.dup.bz)
+ - date_published: 2024-04-14T18:18:59.553952+00:00
+ - tags: ['probably personal', 'weird']
+
+ ## Homepage@stream.dup.bz
+ - [https://stream.dup.bz](https://stream.dup.bz)
+ - date_published: 2024-05-20T02:48:19.758502+00:00
+
+ ## Khaled Abou Alfa
+ - [https://www.kaa.bz](https://www.kaa.bz)
+ - date_published: 2024-07-06T17:58:57+00:00
+
+ ## URL Shortener
+ - [http://lnk.bz](http://lnk.bz)
+ - date_published: 2024-07-08T19:38:19.758366+00:00
+
+ ## Login - Single Sign On | Manning Publications
+ - [http://mng.bz](http://mng.bz)
+ - date_published: 2024-04-29T02:58:40.081880+00:00
+
+ ## -=:[ From the mind of Michael Walden ]:=-
+ - [https://mw.rat.bz](https://mw.rat.bz)
+ - date_published: 2024-02-10T00:00:00+00:00
+ - tags: ['personal', 'blog']
+
+ ## Custom Domain by Bitly
+ - [https://samg.bz](https://samg.bz)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Sergio Benitez - Who Am I?
+ - [https://sergio.bz](https://sergio.bz)
+ - date_published: 2024-06-04T05:44:26+00:00
+
+ ## Erfolgreich auf Google werden - trustfactory.de
+ - [https://trustfactory.bz](https://trustfactory.bz)
+ - date_published: 2022-05-17T04:49:53+00:00
+
+ ## UFA888 แทงบอลออนไลน์ UFABET สมัครใหม่รับ 1000 บาท ยูฟ่า888
+ - [https://www.ufa888.bz](https://www.ufa888.bz)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más
+ - [https://airbnb.com.bz](https://airbnb.com.bz)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Google
+ - [https://google.com.bz](https://google.com.bz)
+ - date_published: 2024-05-07T15:58:52.542039+00:00
+
+ ## Visa, a trusted leader in digital payments.
+ - [https://visa.com.bz](https://visa.com.bz)
+ - date_published: 2024-05-12T04:00:08.752250+00:00
+
+ ## Blog.ash.bzh
+ - [https://blog.ash.bzh](https://blog.ash.bzh)
+ - date_published: 2024-07-13T23:53:55.055026+00:00
+
+ ## Mastodon e brezhoneg
+ - [https://mastodon.fedi.bzh](https://mastodon.fedi.bzh)
+ - date_published: 2024-06-23T17:14:24.103105+00:00
+
+ ## https://ewen.korr.bzh/br/
+ - [https://ewen.korr.bzh](https://ewen.korr.bzh)
+ - date_published: 2024-05-08T08:10:54+00:00
+
+ ## SMS BZH – SMS BZH
+ - [https://sms.bzh](https://sms.bzh)
+ - date_published: 2024-05-09T08:05:12.517856+00:00
+
+ ## Stripe Checkout
+ - [http://try.sms.bzh](http://try.sms.bzh)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Yes We Dev - Agence web : conseil et développement sur mesure
+ - [https://yeswedev.bzh](https://yeswedev.bzh)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Yuna - Services Informatiques et Solutions Numériques Durables
+ - [https://yuna.bzh](https://yuna.bzh)
+ - date_published: 2024-03-21T15:22:26+00:00
+
+ - [https://www.reddit.c](https://www.reddit.c)
+ - date_published: 2024-01-08T13:04:16.215952+00:00
+
+ ## id. associates • Software • Web Development
+ - [https://www.idassociates.ab.ca](https://www.idassociates.ab.ca)
+ - date_published: 2024-07-11T17:18:05.663520+00:00
+
+ ## The Alberta Seed Guide
+ - [https://www.seed.ab.ca](https://www.seed.ab.ca)
+ - date_published: 2024-07-01T15:54:25.245422+00:00
+
+ ## Burgess Shale Geoscience Foundation - Guided Fossil Hikes - Yoho Park
+ - [https://burgess-shale.bc.ca](https://burgess-shale.bc.ca)
+ - date_published: 2024-05-07T22:31:27.804758+00:00
+
+ ## Air Quality Subscription Service - BC Air Quality - Province of British Columbia
+ - [https://aqss.nrs.gov.bc.ca](https://aqss.nrs.gov.bc.ca)
+ - date_published: 2024-02-08T17:46:08.256903+00:00
+
+ ## BC Gov News
+ - [https://news.gov.bc.ca](https://news.gov.bc.ca)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Home
+ - [https://www2.gov.bc.ca](https://www2.gov.bc.ca)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Home - Musqueam Indian Band
+ - [https://musqueam.bc.ca](https://musqueam.bc.ca)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Ansuz - Matthew Skala's home page
+ - [https://ansuz.sooke.bc.ca](https://ansuz.sooke.bc.ca)
+ - date_published: 2024-07-07T07:19:18.693771+00:00
+
+ ## Home
+ - [http://spca.bc.ca](http://spca.bc.ca)
+ - date_published: 2024-06-27T12:56:53.108009+00:00
+
+ ## Vancouver Art Gallery
+ - [http://www.vanartgallery.bc.ca](http://www.vanartgallery.bc.ca)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Coffee and Crashes blog
+ - [https://0xc0ffee.ca](https://0xc0ffee.ca)
+ - date_published: 2023-05-31T00:00:00+00:00
+
+ ## 338Canada.ca | Philippe J. Fournier | Substack
+ - [https://www.338canada.ca](https://www.338canada.ca)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## 3M News Centre - News Centre
+ - [https://news.3mcanada.ca](https://news.3mcanada.ca)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Centre de nouvelles de 3M - Centre de nouvelles
+ - [https://presse.3mcanada.ca](https://presse.3mcanada.ca)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## 440 Megatonnes: Tracking Canada’s path to net zero
+ - [https://440megatonnes.ca](https://440megatonnes.ca)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## 440 Megatonnes
+ - [https://dashboard.440megatonnes.ca](https://dashboard.440megatonnes.ca)
+ - date_published: 2024-07-14T14:14:42.443972+00:00
+
+ ## George's Home Page
+ - [https://48k.ca](https://48k.ca)
+ - date_published: 2024-01-09T01:38:09.555037+00:00
+
+ ## Ontario 511
+ - [https://511on.ca](https://511on.ca)
+ - date_published: 2024-05-10T02:42:19.164104+00:00
+
+ ## The Call of the Open Sidewalk [The Call of the Open Sidewalk]
+ - [https://articles.59.ca](https://articles.59.ca)
+ - date_published: 2023-10-25T12:03:06.077493+00:00
+
+ ## Cierpliwości...
+ - [https://7-eleven.ca](https://7-eleven.ca)
+ - date_published: 2024-05-08T02:32:48.317300+00:00
+
+ ## OnCall Computer Services in Saskatoon
+ - [https://www.880help.ca](https://www.880help.ca)
+ - date_published: 2024-06-16T21:33:57.694866+00:00
+
+ ## 95.7 CRUZ FM
+ - [https://www.957cruzfm.ca](https://www.957cruzfm.ca)
+ - date_published: 2024-06-27T12:52:42+00:00
+
+ ## a39
+ - [https://a39.ca](https://a39.ca)
+ - date_published: 2024-05-09T08:14:41.745608+00:00
+
+ ## Canada
+ - [https://www.abebooks.ca](https://www.abebooks.ca)
+ - date_published: 2024-06-15T02:38:37.698777+00:00
+
+ ## Abenezer Belachew / Software Developer
+ - [https://www.abenezer.ca](https://www.abenezer.ca)
+ - date_published: 2024-05-01T02:01:11.183948+00:00
+
+ ## About Amazon
+ - [https://www.aboutamazon.ca](https://www.aboutamazon.ca)
+ - date_published: 2024-05-01T02:02:39.410125+00:00
+
+ ## Academy of Canadian Cinema and Television
+ - [https://www.academy.ca](https://www.academy.ca)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## ACCES Employment - Helping you in your job search.
+ - [https://accesemployment.ca](https://accesemployment.ca)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## ACCIONA in Canada | Business as unusual
+ - [https://www.acciona.ca](https://www.acciona.ca)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## Inclusive Design Research Centre
+ - [https://achecker.ca](https://achecker.ca)
+ - date_published: 2024-05-01T03:48:03.617062+00:00
+
+ ## Association of Canadian Travel Agencies and Travel Advisors
+ - [https://www.acta.ca](https://www.acta.ca)
+ - date_published: 2024-07-17T10:26:37.459470+00:00
+
+ ## Submit An Offer!
+ - [https://actionrecovery.ca](https://actionrecovery.ca)
+ - date_published: 2024-06-28T12:09:06.271358+00:00
+
+ ## Adam Bell
+ - [https://blog.adambell.ca](https://blog.adambell.ca)
+ - date_published: 2024-05-05T23:11:38+00:00
+
+ ## Adam Pritchard's blog and miscellany
+ - [https://adam-p.ca](https://adam-p.ca)
+ - date_published: 2023-12-23T19:22:49.802394+00:00
+
+ ## Adecco Staffing Agency - Permanent Staffing and Temp Agencies for Job Seekers
+ - [https://www.adecco.ca](https://www.adecco.ca)
+ - date_published: 2024-03-11T08:42:41+00:00
+
+ ## adidas Official Website | adidas Canada
+ - [https://www.adidas.ca](https://www.adidas.ca)
+ - date_published: 2024-06-15T12:00:25.865252+00:00
+
+ ## Adi Linden
+ - [https://adis.ca](https://adis.ca)
+ - date_published: 2024-04-29T07:26:39.736534+00:00
+
+ ## Payroll, HR and Tax Services | ADP Canada Official Site
+ - [https://www.adp.ca](https://www.adp.ca)
+ - date_published: 2024-06-16T10:08:13.105677+00:00
+
+ ## Assembly of First Nations: Representing First Nation citizens in Canada
+ - [https://www.afn.ca](https://www.afn.ca)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## afresh creative
+ - [https://afreshcreative.ca](https://afreshcreative.ca)
+ - date_published: 2024-06-19T09:32:11.836151+00:00
+
+ ## Alcohol and Gaming Commission of Ontario | Alcohol and Gaming Commission of Ontario
+ - [https://www.iagco.agco.ca](https://www.iagco.agco.ca)
+ - date_published: 2024-07-14T11:27:52+00:00
+
+ ## Agents in Canada, Canada
+ - [http://www.agents.ca](http://www.agents.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Home | Art Gallery of Ontario
+ - [https://ago.ca](https://ago.ca)
+ - date_published: 2024-05-12T05:00:57.334672+00:00
+
+ ## Home - AGO Art Rental & Sales
+ - [https://rental.ago.ca](https://rental.ago.ca)
+ - date_published: 2024-07-15T03:51:19.531554+00:00
+
+ ## shopAGO home - shop AGO
+ - [https://shop.ago.ca](https://shop.ago.ca)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Get Your Ticket - AGO Tickets
+ - [https://tickets.ago.ca](https://tickets.ago.ca)
+ - date_published: 2024-07-15T03:51:32.132968+00:00
+
+ ## Hunting the Shmoo
+ - [https://ahal.ca](https://ahal.ca)
+ - date_published: 2022-10-31T00:00:00+00:00
+
+ ## https://ahelwer.ca
+ - [https://ahelwer.ca](https://ahelwer.ca)
+ - date_published: 2023-10-25T12:03:10.516319+00:00
+
+ ## AIMCo Alberta Investment Management Corporation
+ - [https://www.aimco.ca](https://www.aimco.ca)
+ - date_published: 2024-06-19T09:55:33.722292+00:00
+
+ ## Airbnb | Locations de vacances, cabanes, maisons de plage et plus
+ - [https://fr.airbnb.ca](https://fr.airbnb.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Airbnb | Vacation rentals, cabins, beach houses, & more
+ - [https://airbnb.ca](https://airbnb.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home - Airbus Helicopters Canada
+ - [http://www.airbushelicopters.ca](http://www.airbushelicopters.ca)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## This is the default server vhost
+ - [http://www.airconditioning.ca](http://www.airconditioning.ca)
+ - date_published: 2024-06-24T11:23:01+00:00
+
+ ## Canada's Most Experienced DJ Company | Airwaves Music
+ - [https://airwavesmusic.ca](https://airwavesmusic.ca)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Aklak Air - Welcome to AKLAK AIR
+ - [http://aklakair.ca](http://aklakair.ca)
+ - date_published: 2024-06-22T07:21:10.690749+00:00
+
+ ## Alan Trick’s Website
+ - [https://alantrick.ca](https://alantrick.ca)
+ - date_published: 2023-10-25T08:42:53.134691+00:00
+ - tags: ['personal']
+
+ ## Top 5 Top 5 Toronto Alarms for 2020 | Alarms.ca Plumbers and Plumbing Contractors for 2020 | Alarms.ca
+ - [http://www.alarms.ca](http://www.alarms.ca)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Alberta Emergency Alert
+ - [http://emergencyalert.alberta.ca](http://emergencyalert.alberta.ca)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Open Government program
+ - [https://open.alberta.ca](https://open.alberta.ca)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Search Results
+ - [https://search.alberta.ca](https://search.alberta.ca)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Government of Alberta
+ - [https://alberta.ca](https://alberta.ca)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Home - Alert Ready Emergency Alert System (Pelmorex Corp).
+ - [https://www.alertready.ca](https://www.alertready.ca)
+ - date_published: 2024-05-03T17:55:31+00:00
+
  ## Alexandra's Notebook
  - [https://alexandrawolfe.ca](https://alexandrawolfe.ca)
  - date_published: 2024-06-21T00:00:00+00:00
@@ -200,6 +646,10 @@
  ## Penticton AuctionNow
  - [https://penticton.auctionnow.ca](https://penticton.auctionnow.ca)
  - date_published: 2024-06-29T11:46:38.899588+00:00
+
+ ## Audi Canada
+ - [https://www.audi.ca](https://www.audi.ca)
+ - date_published: 2024-07-19T20:24:25+00:00
 
  ## Audible Is #1 In Audiobooks | Try Free Today | Audible.ca
  - [https://www.audible.ca](https://www.audible.ca)
@@ -586,6 +1036,10 @@
  - [http://ucu-building-community.blogspot.ca](http://ucu-building-community.blogspot.ca)
  - date_published: 2024-03-13T00:00:00+00:00
 
+ ## What's Happening in Toronto Linguistics
+ - [http://utlinguistics.blogspot.ca](http://utlinguistics.blogspot.ca)
+ - date_published: 2024-07-19T07:00:00+00:00
+
  ## Pacific Blue Cross - BC's #1 provider of health, dental and travel benefits
  - [https://www.pac.bluecross.ca](https://www.pac.bluecross.ca)
  - date_published: 2024-06-27T13:06:35.742393+00:00
@@ -729,6 +1183,10 @@
  ## Bruce Dowbiggin Books
  - [http://brucedowbigginbooks.ca](http://brucedowbigginbooks.ca)
  - date_published: 2024-06-26T22:37:03.858607+00:00
+
+ ## Budget Car Rental Canada | Discount car rental
+ - [https://www.budget.ca](https://www.budget.ca)
+ - date_published: 2024-07-19T05:10:50+00:00
 
  ## Buick Canada | SUV & Crossover | Envista, Encore GX, Envision, Enclave
  - [https://www.buick.ca](https://www.buick.ca)
@@ -1927,6 +2385,10 @@
  - date_published: 2024-04-09T20:06:35.143210+00:00
  - tags: ['tech news']
 
+ ## Home | EMD Serono Canada
+ - [https://www.emdserono.ca](https://www.emdserono.ca)
+ - date_published: 2024-06-05T00:00:00+00:00
+
  ## En Alerte
  - [https://www.enalerte.ca](https://www.enalerte.ca)
  - date_published: 2024-05-29T00:00:00+00:00
@@ -2304,8 +2766,12 @@
  - date_published: 2023-10-25T08:42:54.581662+00:00
  - tags: ['personal']
 
+ ## NGC Audio Tours | MBAC Visites Audio
+ - [https://digital.gallery.ca](https://digital.gallery.ca)
+ - date_published: 2024-07-19T22:13:48.235685+00:00
+
  ## National Gallery of Canada
- - [https://www.gallery.ca](https://www.gallery.ca)
+ - [https://gallery.ca](https://gallery.ca)
  - date_published: 2023-11-13T13:45:23.318113+00:00
  - tags: ['museum']
 
@@ -2895,6 +3361,10 @@
  - [https://www.innovation.ca](https://www.innovation.ca)
  - date_published: 2024-07-10T10:45:15+00:00
 
+ ## Accueil
+ - [https://inrs.ca](https://inrs.ca)
+ - date_published: 2024-07-11T00:00:00+00:00
+
  ## Inside the Perimeter - News, Videos and More from Perimeter Institute
  - [https://insidetheperimeter.ca](https://insidetheperimeter.ca)
  - date_published: 2024-02-09T00:00:00+00:00
@@ -3270,6 +3740,10 @@
  - [https://leeroy.ca](https://leeroy.ca)
  - date_published: 2024-06-18T00:00:00+00:00
 
+ ## A Better Place to Sleep. Try risk-free for 100 nights | Leesa
+ - [https://www.leesa.ca](https://www.leesa.ca)
+ - date_published: 2024-07-19T19:39:05.859513+00:00
+
  ## Top Kids Attraction | LEGOLAND Discovery Centre Toronto
  - [https://toronto.legolanddiscoverycentre.ca](https://toronto.legolanddiscoverycentre.ca)
  - date_published: 2024-07-03T09:45:39.991622+00:00
@@ -3321,6 +3795,10 @@
  ## Consumer & Home Electronics from LG | LG CA
  - [https://www.lg.ca](https://www.lg.ca)
  - date_published: 2024-07-03T07:23:55.244482+00:00
+
+ ## Linguistics Graduate Course Union
+ - [https://lgcu.ca](https://lgcu.ca)
+ - date_published: 2024-03-07T15:30:59+00:00
 
  ## Home | Liam Paull
  - [http://liampaull.ca](http://liampaull.ca)
@@ -3565,489 +4043,4 @@
  ## Медиазона Центральная Азия
  - [https://mediazona.ca](https://mediazona.ca)
  - date_published: 2024-06-28T21:49:15.781258+00:00
-
- ## MedicAlert Foundation Canada | We Speak When You Can't
- - [https://www.medicalert.ca](https://www.medicalert.ca)
- - date_published: 2023-07-24T00:00:00+00:00
-
- ## meejah.ca
- - [https://meejah.ca](https://meejah.ca)
- - date_published: 2024-06-28T19:56:29.927774+00:00
-
- ## Mental Disorder | Jonah Davids | Substack
- - [https://www.mentaldisorder.ca](https://www.mentaldisorder.ca)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Goodbye from Peer Resources
- - [http://www.mentors.ca](http://www.mentors.ca)
- - date_published: 2024-06-27T08:27:32.442003+00:00
-
- ## About – Monica Dinculescu
- - [https://meowni.ca](https://meowni.ca)
- - date_published: 2024-05-15T21:46:02+00:00
-
- ## Luxury Cars - Sedans, SUVs, Coupes & Wagons
- - [https://www.mercedes-benz.ca](https://www.mercedes-benz.ca)
- - date_published: 2024-06-20T11:28:36+00:00
-
- ## MCU - Appointment Booking
- - [https://appt-booking.meridiancu.ca](https://appt-booking.meridiancu.ca)
- - date_published: 2024-06-16T09:55:57.847666+00:00
-
- ## Sign in to online banking
- - [https://banking.meridiancu.ca](https://banking.meridiancu.ca)
- - date_published: 2024-06-16T09:55:54.531797+00:00
-
- ## Login - Meridian Credit Union
- - [https://businessbanking.meridiancu.ca](https://businessbanking.meridiancu.ca)
- - date_published: 2024-06-16T09:55:51.613820+00:00
-
- ## Meridian Lending Digital
- - [https://lendingdigital.meridiancu.ca](https://lendingdigital.meridiancu.ca)
- - date_published: 2024-04-16T13:21:48+00:00
-
- ## Meridian Personal Banking, Credit Cards, Mortgages | Meridian Credit Union
- - [https://www.meridiancu.ca](https://www.meridiancu.ca)
- - date_published: 2024-05-01T06:26:16.743090+00:00
-
- ## Home | Meridian OneCap | Meridian OneCap | Meridian Credit Union
- - [https://www.meridianonecap.ca](https://www.meridianonecap.ca)
- - date_published: 2024-06-16T09:55:56.265102+00:00
-
- ## Robert Merki
- - [https://merki.ca](https://merki.ca)
- - date_published: 2024-05-07T14:15:08.111872+00:00
- - tags: ['personal']
-
- ## Mersenne factoring software download
- - [https://download.mersenne.ca](https://download.mersenne.ca)
- - date_published: 2024-05-16T02:46:20.056156+00:00
-
- ## GIMPS (Prime95) mersenne.ca stats
- - [https://www.mersenne.ca](https://www.mersenne.ca)
- - date_published: 2024-04-10T08:11:23.744834+00:00
- - tags: ['math']
-
- ## MES Hybrid Document Systems | Document Management & Scanning Solutions
- - [https://www.mesltd.ca](https://www.mesltd.ca)
- - date_published: 2024-06-22T22:54:54+00:00
-
- ## Mental Health Research Canada
- - [https://www.mhrc.ca](https://www.mhrc.ca)
- - date_published: 2024-07-11T14:58:05.474855+00:00
-
- ## Michael Geist -
- - [https://www.michaelgeist.ca](https://www.michaelgeist.ca)
- - date_published: 2023-10-25T12:06:10.628082+00:00
-
- ## Michelob Ultra
- - [https://www.michelobultra.ca](https://www.michelobultra.ca)
- - date_published: 2024-06-13T16:42:32+00:00
-
- ## Andreas Samaris
- - [https://midnightdelivery.ca](https://midnightdelivery.ca)
- - date_published: 2024-05-10T06:29:33.617445+00:00
-
- ## A Blog by Mike Conley
- - [https://mikeconley.ca](https://mikeconley.ca)
- - date_published: 2024-07-07T10:33:41.038598+00:00
-
- ## Montréal - Estiatorio Milos
- - [http://milos.ca](http://milos.ca)
- - date_published: 2023-11-22T00:00:00+00:00
-
- ## About Me
- - [https://milway.ca](https://milway.ca)
- - date_published: 2024-07-02T10:14:56.717288+00:00
-
- ## Minchin.ca
- - [https://blog.minchin.ca](https://blog.minchin.ca)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## Michael Mior
- - [https://michael.mior.ca](https://michael.mior.ca)
- - date_published: 2024-05-11T10:09:02.314423+00:00
-
- ## www.mirabilis.ca
- - [http://www.mirabilis.ca](http://www.mirabilis.ca)
- - date_published: 2024-07-02T06:37:02.568959+00:00
-
- ## Mitul Shah
- - [https://mitul.ca](https://mitul.ca)
- - date_published: 2024-05-09T06:18:35.899229+00:00
-
- ## Marc Mailhot
- - [http://mlht.ca](http://mlht.ca)
- - date_published: 2024-04-30T05:16:17.191100+00:00
-
- ## Mobil Canada Gas Stations | Mobil Canada
- - [https://www.mobilfuel.ca](https://www.mobilfuel.ca)
- - date_published: 2024-07-17T16:40:27.776249+00:00
-
- ## Retro Modern – Contemporary Modernism to fight boring
- - [https://modernist3.ca](https://modernist3.ca)
- - date_published: 2023-11-27T00:26:57.612206+00:00
- - tags: ['personal']
-
- ## @mohoromitch | hey
- - [https://mitchell.mohorovich.ca](https://mitchell.mohorovich.ca)
- - date_published: 2024-01-04T01:12:43.264182+00:00
- - tags: ['personal']
-
- ## Anjan's Homepage
- - [https://momi.ca](https://momi.ca)
- - date_published: 2020-07-19T00:00:00+00:00
-
- ## MoneySense | Helping You Make Better Financial Decisions
- - [http://www.moneysense.ca](http://www.moneysense.ca)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Projects
- - [https://code.monotone.ca](https://code.monotone.ca)
- - date_published: 2024-07-08T13:50:35.309505+00:00
-
- ## monotone
- - [http://wiki.monotone.ca](http://wiki.monotone.ca)
- - date_published: 2014-11-10T07:36:07+00:00
-
- ## monotone
- - [https://monotone.ca](https://monotone.ca)
- - date_published: 2024-05-08T11:29:22.249853+00:00
-
- ## MonSFFA
- - [http://www.monsffa.ca](http://www.monsffa.ca)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Find Jobs. Build a Better Career. Find Your Calling | Monster.ca
- - [https://www.monster.ca](https://www.monster.ca)
- - date_published: 2024-06-16T13:58:03.441256+00:00
-
- ## Attention Required! | Cloudflare
- - [https://montreal.ca](https://montreal.ca)
- - date_published: 2024-07-01T09:29:43.979465+00:00
-
- ## change.mooc.ca ~ #change11
- - [http://change.mooc.ca](http://change.mooc.ca)
- - date_published: 2022-02-16T00:36:41+00:00
-
- ## Vancouver Needs More Housing | Russil Wvong | Substack
- - [https://morehousing.ca](https://morehousing.ca)
- - date_published: 2024-07-09T18:43:54.025972+00:00
-
- ## Morning Brief
- - [https://signup.morningbrief.ca](https://signup.morningbrief.ca)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Guerrero, Bichette lead Blue Jays past Royals 5-4 to kick off 10-game homestand
- - [https://morns.ca](https://morns.ca)
- - date_published: 2023-11-23T02:53:51.311374+00:00
-
- ## CTO with a CMO flavor
- - [https://morozov.ca](https://morozov.ca)
- - date_published: 2019-01-30T00:00:00+00:00
-
- ## MotherFrunker
- - [https://motherfrunker.ca](https://motherfrunker.ca)
- - date_published: 2023-12-13T11:42:43.612748+00:00
- - tags: ['personal']
-
- ## Motor Gear Trader
- - [https://motorgeartrader.ca](https://motorgeartrader.ca)
- - date_published: 2024-06-16T09:41:54.378191+00:00
-
- ## Home | Mountain Biking BC
- - [https://www.mountainbikingbc.ca](https://www.mountainbikingbc.ca)
- - date_published: 2024-06-15T11:58:31.328920+00:00
-
- ## Mountain View County and Innisfail News
- - [https://www.mountainviewtoday.ca](https://www.mountainviewtoday.ca)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Electronic Components Distributor - Mouser Electronics Canada
- - [https://www.mouser.ca](https://www.mouser.ca)
- - date_published: 2024-07-01T20:56:54.136625+00:00
-
- ## Top 5 Top 5 Toronto Move Contractors for 2020 | Move.ca Plumbers and Plumbing Contractors for 2020 | Move.ca
- - [http://www.move.ca](http://www.move.ca)
- - date_published: 2024-06-29T17:36:52.883622+00:00
-
- ## Mrs H's Fish and Chips
- - [https://mrshsfishandchips.ca](https://mrshsfishandchips.ca)
- - date_published: 2024-01-01T00:25:41+00:00
-
- ## Mastodon Canada
- - [https://mstdn.ca](https://mstdn.ca)
- - date_published: 2024-04-28T02:21:20.589492+00:00
-
- ## Atlantis: Critical Studies in Gender, Culture & Social Justice
- - [https://journals.msvu.ca](https://journals.msvu.ca)
- - date_published: 2024-07-11T12:56:48.671763+00:00
-
- ## MRU Library Website: OJS: MRU Journal System
- - [https://mrujs.mtroyal.ca](https://mrujs.mtroyal.ca)
- - date_published: 2024-07-02T19:05:25.510113+00:00
-
- ## MUES – Metropolitan Undergraduate Engineering Society
- - [http://www.mues.ca](http://www.mues.ca)
- - date_published: 2024-04-30T05:17:32.327916+00:00
-
- ## Connor Oliver - Muezza.ca
- - [https://muezza.ca](https://muezza.ca)
- - date_published: 2024-01-09T02:27:18.773960+00:00
-
- ## Welcome to the Memorial University Research Repository - Memorial University Research Repository
- - [http://research.library.mun.ca](http://research.library.mun.ca)
- - date_published: 2024-07-02T09:45:54.752674+00:00
-
- ## Computer Science | Computer Science
- - [http://www.cs.mun.ca](http://www.cs.mun.ca)
- - date_published: 2024-06-13T18:04:48.721533+00:00
-
- ## Memorial University | Newfoundland and Labrador's University
- - [http://www.mun.ca](http://www.mun.ca)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## MurphysLab.ca
- - [https://murphyslab.ca](https://murphyslab.ca)
- - date_published: 2024-06-01T04:56:30.751877+00:00
- - tags: ['personal']
-
- ## Music City North |
- - [https://musiccitynorth.ca](https://musiccitynorth.ca)
- - date_published: 2024-04-29T03:50:01.747336+00:00
-
- ## Homepage
- - [https://www.muskokalakes.ca](https://www.muskokalakes.ca)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## TMX - Bourse de Montréal
- - [https://m-x.ca](https://m-x.ca)
- - date_published: 2024-06-23T10:28:57.698700+00:00
-
- ## Home
- - [http://mybestofthebest.ca](http://mybestofthebest.ca)
- - date_published: 2024-06-27T12:55:44.249601+00:00
-
- ## Embed BoatBlurb on your Website
- - [https://boatblurb.mydealers.ca](https://boatblurb.mydealers.ca)
- - date_published: 2024-05-08T03:03:34.490805+00:00
-
- ## My Custom Dog Tags
- - [http://www.mydogtag.ca](http://www.mydogtag.ca)
- - date_published: 2024-07-04T14:31:32.706607+00:00
-
- ## MySGI
- - [https://www.mysgi.ca](https://www.mysgi.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## The Bulwark Store | Spreadshop
- - [https://bulwark.myspreadshop.ca](https://bulwark.myspreadshop.ca)
- - date_published: 2024-06-24T06:31:52.246115+00:00
-
- ## CleanTechnica
- - [https://cleantechnica.myspreadshop.ca](https://cleantechnica.myspreadshop.ca)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Cults official store | Spreadshop
- - [https://cults3d.myspreadshop.ca](https://cults3d.myspreadshop.ca)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Mautic Community Swag Shop | Spreadshop
- - [https://mautic-community-swag-shop.myspreadshop.ca](https://mautic-community-swag-shop.myspreadshop.ca)
- - date_published: 2024-07-18T15:08:27.309833+00:00
-
- ## motherrefugeoftheendtimes | Spreadshop
- - [https://motherrefugeoftheendtimes.myspreadshop.ca](https://motherrefugeoftheendtimes.myspreadshop.ca)
- - date_published: 2024-07-03T18:44:05.369043+00:00
-
- ## Open Mainframe Project Store | Spreadshop
- - [https://open-mainframe-project-store.myspreadshop.ca](https://open-mainframe-project-store.myspreadshop.ca)
- - date_published: 2024-07-08T12:25:06.919216+00:00
-
- ## OpenSSF Merch Store
- - [https://openssf.myspreadshop.ca](https://openssf.myspreadshop.ca)
- - date_published: 2024-07-08T12:42:42.576911+00:00
-
- ## Meaningful Acts: RPG storytelling
- - [https://mythos-acts.ca](https://mythos-acts.ca)
- - date_published: 2022-05-05T18:07:53+00:00
-
- ## Login | National Arts Centre
- - [https://arts.nac-cna.ca](https://arts.nac-cna.ca)
- - date_published: 2024-07-13T11:37:33.017724+00:00
-
- ## National Arts Centre | Canada is our stage
- - [https://nac-cna.ca](https://nac-cna.ca)
- - date_published: 2024-05-11T07:11:25.545312+00:00
-
- ## Donate Now - NAC Foundation | Fondation CNA
- - [https://secure.nac-cna.ca](https://secure.nac-cna.ca)
- - date_published: 2024-07-13T11:37:23.924534+00:00
-
- ## Mina Naguib
- - [https://mina.naguib.ca](https://mina.naguib.ca)
- - date_published: 2023-10-25T09:02:42.738096+00:00
- - tags: ['personal']
-
- ## Nail salons in Canada, Canada
- - [http://www.nail-salons.ca](http://www.nail-salons.ca)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Best Nail Wraps And Nail Stickers In Canada.
- - [https://nailwraps.ca](https://nailwraps.ca)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## Lychee v4
- - [https://img.naln1.ca](https://img.naln1.ca)
- - date_published: 2024-07-10T08:19:24.132539+00:00
-
- ## Lighter Black
- - [https://lighterblack.naln1.ca](https://lighterblack.naln1.ca)
- - date_published: 2023-02-13T23:37:33+00:00
-
- ## Home
- - [https://naln1.ca](https://naln1.ca)
- - date_published: 2024-05-09T08:06:35.483977+00:00
-
- ## NamesPro.ca | Register Domain, .ca Domain, Domain Registration Canada, Canadian Domain, Web Hosting Canada, Canadian Hosting, Windows Hosting, Linux Hosting
- - [https://namespro.ca](https://namespro.ca)
- - date_published: 2024-06-16T10:38:18.412271+00:00
-
- ## Namespro.ca | WebMail
- - [http://webmail.namespro.ca](http://webmail.namespro.ca)
- - date_published: 2024-06-16T10:38:20.086041+00:00
-
- ## Whois
- - [http://whois.namespro.ca](http://whois.namespro.ca)
- - date_published: 2024-06-16T10:38:24.965728+00:00
-
- ## NATIONAL
- - [https://www.national.ca](https://www.national.ca)
- - date_published: 2024-06-25T22:32:25+00:00
-
- ## National Geographic - Videos, TV Shows & Photos - Canada
- - [http://www.nationalgeographic.ca](http://www.nationalgeographic.ca)
- - date_published: 2024-07-02T10:12:03.674390+00:00
-
- ## The National Housing Accord: A Multi-Sector Approach to Ending Canada’s Rental Housing Crisis
- - [https://www.nationalhousingaccord.ca](https://www.nationalhousingaccord.ca)
- - date_published: 2024-04-30T05:05:37.567674+00:00
-
- ## Welcome - Native-Land.ca
- - [https://native-land.ca](https://native-land.ca)
- - date_published: 2024-05-07T19:53:31.473073+00:00
-
- ## Naturepedic: Organic Mattresses & Healthy Sleep for the Whole Family
- - [https://www.naturepedic.ca](https://www.naturepedic.ca)
- - date_published: 2024-06-23T16:20:13.000635+00:00
-
- ## Nature United
- - [https://natureunited.ca](https://natureunited.ca)
- - date_published: 2024-05-08T10:42:31.756794+00:00
-
- ## Noah Bailey
- - [https://nbailey.ca](https://nbailey.ca)
- - date_published: 2023-10-25T09:02:43.574973+00:00
- - tags: ['personal']
-
- ## Personal Banking Solutions | National Bank
- - [https://www.nbc.ca](https://www.nbc.ca)
- - date_published: 2023-10-25T12:06:20.620409+00:00
-
- ## Homepage | National Collaborating Centre for Environmental Health | NCCEH - CCSNE | National Collaborating Centre for Environmental Health | NCCEH - CCSNE
- - [https://ncceh.ca](https://ncceh.ca)
- - date_published: 2024-05-02T13:42:38.559861+00:00
-
- ## Homepage | National Collaborating Centre for Environmental Health | NCCEH - CCSNE | National Collaborating Centre for Environmental Health | NCCEH - CCSNE
- - [http://www.ncceh.ca](http://www.ncceh.ca)
- - date_published: 2024-06-18T14:56:59+00:00
-
- ## NCCM - National Council of Canadian Muslims
- - [https://www.nccm.ca](https://www.nccm.ca)
- - date_published: 2024-05-02T13:49:11.118440+00:00
-
- ## NCCPH
- - [https://nccph.ca](https://nccph.ca)
- - date_published: 2024-06-18T15:50:33.745844+00:00
-
- ## WEB.NCF.CA
- - [http://web.ncf.ca](http://web.ncf.ca)
- - date_published: 2020-09-04T01:26:08+00:00
-
- ## Home - National Capital FreeNet
- - [http://www.ncf.ca](http://www.ncf.ca)
- - date_published: 2024-06-30T07:24:49.742574+00:00
-
- ## Home - NCTR
- - [https://nctr.ca](https://nctr.ca)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Nicolas' Blog
- - [http://ndufresne.ca](http://ndufresne.ca)
- - date_published: 2024-07-14T03:15:23.132045+00:00
-
- ## Kev – Asleep at the Wheel 40 Miles Left to Go
- - [https://kev.needham.ca](https://kev.needham.ca)
- - date_published: 2024-07-07T10:33:04.849671+00:00
-
- ## Cloud DataWorks - Fast Secure Canadian Cloud Hosting
- - [http://www.nelsonpilots.ca](http://www.nelsonpilots.ca)
- - date_published: 2024-07-09T22:20:00.531549+00:00
-
- ## The New Campus - Building 21st-century health care in the heart of the nation’s capital
- - [https://newcampusdevelopment.ca](https://newcampusdevelopment.ca)
- - date_published: 2024-06-27T17:16:17.066117+00:00
-
- ## Battlefords News Optimist - All News
- - [https://www.newsoptimist.ca](https://www.newsoptimist.ca)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Press Release Distribution Service | Newswire
- - [https://newswire.ca](https://newswire.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## New West Record  | All
- - [http://classifieds.newwestrecord.ca](http://classifieds.newwestrecord.ca)
- - date_published: 2024-06-27T12:55:05.312119+00:00
-
- ## New Westminster Local News
- - [https://www.newwestrecord.ca](https://www.newwestrecord.ca)
- - date_published: 2024-05-06T21:30:18.696305+00:00
-
- ## Next Solutions
- - [https://next-solutions.ca](https://next-solutions.ca)
- - date_published: 2024-06-22T15:50:50.509924+00:00
-
- ## Next Step Advisors - Family Enterprise Advisors
- - [https://www.nextstepadvisors.ca](https://www.nextstepadvisors.ca)
- - date_published: 2024-04-30T05:14:42.706267+00:00
-
- ## National Film Board of Canada
- - [https://www.nfb.ca](https://www.nfb.ca)
- - date_published: 2023-10-25T12:06:29.183270+00:00
-
- ## Libraries   Learning Commons: ncLibraries: Libraries
- - [http://nclibraries.niagaracollege.ca](http://nclibraries.niagaracollege.ca)
- - date_published: 2024-07-15T03:53:54.008188+00:00
-
- ## Nimbus Publishing and Vagrant Press - Nimbus Publishing and Vagrant Press
- - [https://nimbus.ca](https://nimbus.ca)
- - date_published: 2024-02-08T16:58:46.348982+00:00
-
- ## Nathaniel Johnston
- - [https://njohnston.ca](https://njohnston.ca)
- - date_published: 2024-04-23T14:36:52+00:00
- - tags: ['personal']
-
- ## No Medical Life Insurance Quotes in Canada - Coverage for Everyone!
- - [http://nomedicallifeinsurance.ca](http://nomedicallifeinsurance.ca)
- - date_published: 2024-07-17T04:38:51.790798+00:00
-
- ## Luxury Wide Plank Hardwood Floors; Specialty Reclaimed Wood Flooring
- - [https://northernwideplank.ca](https://northernwideplank.ca)
- - date_published: 2024-06-17T10:15:14.095672+00:00
-
- ## NorthStar
- - [https://online.northstarbets.ca](https://online.northstarbets.ca)
- - date_published: 2024-06-22T11:04:30+00:00
 
