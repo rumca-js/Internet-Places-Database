@@ -1,3 +1,43 @@
+ ## Flow by Wispr | Effortless Voice Dictation
+ - [https://www.flowvoice.ai](https://www.flowvoice.ai)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## FlowX.AI
+ - [https://www.flowx.ai](https://www.flowx.ai)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Home - Fluent.ai
+ - [https://fluent.ai](https://fluent.ai)
+ - date_published: 2024-06-19T20:57:53+00:00
+
+ ## Read Better With AI wih FluentRead.ai
+ - [https://fluentread.ai](https://fluentread.ai)
+ - date_published: 2024-05-06T06:38:30.098519+00:00
+
+ ## Fluidworks
+ - [https://fluidworks.ai](https://fluidworks.ai)
+ - date_published: 2024-07-10T00:02:47.622031+00:00
+
+ ## https://docs.flux.ai
+ - [https://docs.flux.ai](https://docs.flux.ai)
+ - date_published: 2024-01-09T02:23:16.980073+00:00
+
+ ## https://www.flux.ai
+ - [https://www.flux.ai](https://www.flux.ai)
+ - date_published: 2024-01-09T02:23:17.781528+00:00
+
+ ## fluxi AI
+ - [https://fluxi.ai](https://fluxi.ai)
+ - date_published: 2024-04-30T02:14:44.424708+00:00
+
+ ## Fluxon
+ - [https://www.fluxon.ai](https://www.fluxon.ai)
+ - date_published: 2023-10-25T11:38:56.659953+00:00
+
+ ## Flyflow
+ - [https://app.flyflow.ai](https://app.flyflow.ai)
+ - date_published: 2024-07-14T15:46:25.495147+00:00
+
  ## Flyflow
  - [https://flyflow.ai](https://flyflow.ai)
  - date_published: 2024-06-18T00:00:00+00:00
@@ -1034,6 +1074,18 @@
  - [https://bestbanner.jina.ai](https://bestbanner.jina.ai)
  - date_published: 2024-02-28T06:32:17+00:00
 
+ ## Jobs at Jina AI
+ - [https://career.jina.ai](https://career.jina.ai)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## JinaChat - More modality, longer memory, less cost
+ - [https://chat.jina.ai](https://chat.jina.ai)
+ - date_published: 2024-02-28T06:43:33+00:00
+
+ ## Join the Jina AI Discord Server!
+ - [https://discord.jina.ai](https://discord.jina.ai)
+ - date_published: 2024-07-18T18:14:05+00:00
+
  ## Jina AI - Your Portal to Multimodal AI
  - [https://jina.ai](https://jina.ai)
  - date_published: 2023-10-25T11:39:32.941807+00:00
@@ -1045,6 +1097,14 @@
  ## Rationale - a revolutionary decision-making AI powered by the latest GPT and in-context learning
  - [https://rationale.jina.ai](https://rationale.jina.ai)
  - date_published: 2024-02-28T06:44:52+00:00
+
+ ## SceneXplain - Leading AI Solution for Image Captions and Video Summaries
+ - [https://scenex.jina.ai](https://scenex.jina.ai)
+ - date_published: 2024-05-24T11:26:29+00:00
+
+ ## Jina AI Status
+ - [https://status.jina.ai](https://status.jina.ai)
+ - date_published: 2024-07-09T00:00:00+00:00
 
  ## /
  - [https://mirror.jingk.ai](https://mirror.jingk.ai)
@@ -1881,8 +1941,28 @@
  - [https://www.markopolo.ai](https://www.markopolo.ai)
  - date_published: 2024-06-09T00:00:00+00:00
 
+ ## Marqo
+ - [https://cloud.marqo.ai](https://cloud.marqo.ai)
+ - date_published: 2024-07-15T00:47:59+00:00
+
+ ## Marqo Forum
+ - [https://community.marqo.ai](https://community.marqo.ai)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Marqo
+ - [https://demo.marqo.ai](https://demo.marqo.ai)
+ - date_published: 2024-06-21T05:00:03+00:00
+
+ ## Redirecting
+ - [https://docs.marqo.ai](https://docs.marqo.ai)
+ - date_published: 2024-07-20T19:30:41.450825+00:00
+
+ ## Marqo status
+ - [https://status.marqo.ai](https://status.marqo.ai)
+ - date_published: 2024-07-20T19:30:37.673405+00:00
+
  ## Marqo | Increase Relevance with Vector search
- - [https://www.marqo.ai](https://www.marqo.ai)
+ - [https://marqo.ai](https://marqo.ai)
  - date_published: 2024-05-21T00:00:00+00:00
 
  ## Maskr.AI - Instant famous with our AI generated photos
@@ -1957,10 +2037,6 @@
  ## Mendable
  - [https://mendable.ai](https://mendable.ai)
  - date_published: 2024-07-19T19:32:18.818078+00:00
-
- ## Mendable
- - [https://www.mendable.ai](https://www.mendable.ai)
- - date_published: 2024-06-19T04:36:33.497173+00:00
 
  ## Mendel AI - Know More, Know Now
  - [https://www.mendel.ai](https://www.mendel.ai)
@@ -2399,9 +2475,17 @@
  - [https://atlas.nomic.ai](https://atlas.nomic.ai)
  - date_published: 2024-05-12T04:12:14.650722+00:00
 
+ ## Nomic Blog
+ - [https://blog.nomic.ai](https://blog.nomic.ai)
+ - date_published: 2024-07-11T00:00:00+00:00
+
  ## Introduction | Nomic Atlas Documentation
  - [https://docs.nomic.ai](https://docs.nomic.ai)
  - date_published: 2024-07-14T22:29:29.622966+00:00
+
+ ## Nomic
+ - [https://nomic.ai](https://nomic.ai)
+ - date_published: 2024-07-20T19:55:08.852335+00:00
 
  ## Nomic Platform Status
  - [https://status.nomic.ai](https://status.nomic.ai)
@@ -3422,6 +3506,10 @@
  - [https://docs.rapids.ai](https://docs.rapids.ai)
  - date_published: 2024-05-19T02:41:25.554932+00:00
 
+ ## RAPIDS | GPU Accelerated Data Science
+ - [http://rapids.ai](http://rapids.ai)
+ - date_published: 2024-07-20T11:03:12.024064+00:00
+
  ## Leading AI video localization & dubbing tool
  - [https://www.rask.ai](https://www.rask.ai)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -3634,6 +3722,10 @@
  ## revrite.ai | Context aware, powerful paraphrasing tool with rich text, multilanguage support
  - [https://www.revrite.ai](https://www.revrite.ai)
  - date_published: 2024-06-19T19:08:57.533102+00:00
+
+ ## Rewind Help Center
+ - [https://help.rewind.ai](https://help.rewind.ai)
+ - date_published: 2024-07-20T18:05:14.960234+00:00
 
  ## Rewind
  - [https://rewind.ai](https://rewind.ai)
@@ -3934,96 +4026,4 @@
  ## Securiti.ai
  - [https://privacy-central.securiti.ai](https://privacy-central.securiti.ai)
  - date_published: 2024-05-01T03:28:10.668479+00:00
-
- ## Securiti Data Command Center | Leader in Data Command Center
- - [https://securiti.ai](https://securiti.ai)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Seek AI - Generative AI for Data
- - [https://www.seek.ai](https://www.seek.ai)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Seenapse
- - [https://seenapse.ai](https://seenapse.ai)
- - date_published: 2024-05-17T18:51:44+00:00
-
- ## SeeTree | Make the most of every tree
- - [https://www.seetree.ai](https://www.seetree.ai)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Meeting Notes is just the beginning - Sembly AI
- - [https://www.sembly.ai](https://www.sembly.ai)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## SEO.ai - The #1 AI Writer for SEO
- - [https://seo.ai](https://seo.ai)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## SEO Content AI | Get AI-Powered Content And SEO Insight
- - [https://seocontent.ai](https://seocontent.ai)
- - date_published: 2023-02-09T05:45:40+00:00
-
- ## SEOmatic | Homepage
- - [https://seomatic.ai](https://seomatic.ai)
- - date_published: 2024-06-19T19:04:01.999088+00:00
-
- ## Sequens.ai - AI contents at scale checked by B2B marketers
- - [https://www.sequens.ai](https://www.sequens.ai)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## %s | Serif.ai
- - [https://app.serif.ai](https://app.serif.ai)
- - date_published: 2024-05-02T07:51:28.192995+00:00
-
- ## Serif · Organize and Use Your Knowledge
- - [https://serif.ai](https://serif.ai)
- - date_published: 2024-05-02T07:51:24.516060+00:00
-
- ## Attention Required! | Cloudflare
- - [https://sexy.ai](https://sexy.ai)
- - date_published: 2024-06-19T19:12:34.641807+00:00
-
- ## Shadeform - One click deployment, any cloud, no commitment.
- - [https://www.shadeform.ai](https://www.shadeform.ai)
- - date_published: 2023-10-25T11:42:39.381975+00:00
-
- ## Shakespeare
- - [https://shakespeare.ai](https://shakespeare.ai)
- - date_published: 2024-06-19T20:04:48.739812+00:00
-
- ## Unlock the power of AI with Yotta's Shakti Cloud | Experience seamless AI and cloud computing services tailored to your needs.
- - [https://shakticloud.ai](https://shakticloud.ai)
- - date_published: 2024-04-10T07:03:56+00:00
-
- ## Shaped | APIs for ranking
- - [https://www.shaped.ai](https://www.shaped.ai)
- - date_published: 2023-10-25T11:42:43.093999+00:00
-
- ## Sharly AI | Chat with any document and PDF
- - [https://www.sharly.ai](https://www.sharly.ai)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## sheety.ai
- - [https://sheety.ai](https://sheety.ai)
- - date_published: 2024-01-01T14:55:59+00:00
-
- ## Shield AI - Building The World’s Best AI Pilot
- - [https://shield.ai](https://shield.ai)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Shiken.ai - Microlearning Platform for Faster Learning & Results
- - [https://shiken.ai](https://shiken.ai)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Shopbox App
- - [https://widget.shopbox.ai](https://widget.shopbox.ai)
- - date_published: 2024-04-29T02:31:46.446419+00:00
-
- ## Shoplift
- - [https://app.shoplift.ai](https://app.shoplift.ai)
- - date_published: 2024-05-06T12:56:14.099285+00:00
-
- ## ShoppingBotAI | Chatbots trained on your own eCommerce data
- - [https://www.shoppingbot.ai](https://www.shoppingbot.ai)
- - date_published: 2024-06-19T20:38:56.536082+00:00
 

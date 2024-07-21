@@ -1,3 +1,1250 @@
+ ## Wondershare Help Center
+ - [https://support.wondershare.com.br](https://support.wondershare.com.br)
+ - date_published: 2024-07-13T20:35:22.329251+00:00
+
+ ## Seu Conversor de Vídeo de Alta Velocidade | Wondershare UniConverter
+ - [https://uniconverter.wondershare.com.br](https://uniconverter.wondershare.com.br)
+ - date_published: 2024-07-13T20:35:35.742521+00:00
+
+ ## Site Oficial Wondershare: Criatividade, Produtividade, Utilidade
+ - [https://wondershare.com.br](https://wondershare.com.br)
+ - date_published: 2024-05-11T08:34:39.990969+00:00
+
+ ## Home - Worktiba
+ - [http://worktiba.com.br](http://worktiba.com.br)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Top Cassinos Online Brasil | Melhores sites de casino online brasileiros junho 2024
+ - [https://worldcasinoexpert.com.br](https://worldcasinoexpert.com.br)
+ - date_published: 2024-06-29T08:06:56.281573+00:00
+
+ ## 403 - Acesso negado
+ - [https://www.xcake.com.br](https://www.xcake.com.br)
+ - date_published: 2022-09-29T22:59:26+00:00
+
+ ## Home - XRBR
+ - [https://xrbr.com.br](https://xrbr.com.br)
+ - date_published: 2024-06-26T00:55:09+00:00
+
+ ## Yelp
+ - [https://m.yelp.com.br](https://m.yelp.com.br)
+ - date_published: 2024-07-01T06:58:55.451902+00:00
+
+ ## Yelp
+ - [https://yelp.com.br](https://yelp.com.br)
+ - date_published: 2024-07-01T06:58:50.323933+00:00
+
+ ## YouTube
+ - [https://youtube.com.br](https://youtube.com.br)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Zeenix
+ - [https://zeenix.com.br](https://zeenix.com.br)
+ - date_published: 2024-07-17T12:16:48.234443+00:00
+
+ ## Zendesk: A Solução Completa de Atendimento ao Cliente
+ - [https://www.zendesk.com.br](https://www.zendesk.com.br)
+ - date_published: 2020-10-15T12:00:00+00:00
+
+ ## Empréstimo para turbinar o seu negócio | Zippi: Empréstimo para autônomos que potencializa seu negócio
+ - [https://zippi.com.br](https://zippi.com.br)
+ - date_published: 2024-06-19T08:26:10.338655+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.com.br](https://www2.zoetis.com.br)
+ - date_published: 2024-06-27T09:52:48+00:00
+
+ ## Login - Zorbes
+ - [https://app.zorbes.com.br](https://app.zorbes.com.br)
+ - date_published: 2024-07-13T02:27:22.201396+00:00
+
+ ## Home - Bom Negócio
+ - [http://www.bomnegocio.curitiba.br](http://www.bomnegocio.curitiba.br)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## calebe.dev.br
+ - [https://blog.calebe.dev.br](https://blog.calebe.dev.br)
+ - date_published: 2022-02-05T00:00:00+00:00
+
+ ## YunoHost Portal
+ - [https://calebe.dev.br](https://calebe.dev.br)
+ - date_published: 2024-07-14T09:07:36.343386+00:00
+
+ ## My Webapp
+ - [https://git.calebe.dev.br](https://git.calebe.dev.br)
+ - date_published: 2024-07-14T09:07:40.576977+00:00
+
+ ## LinkStack
+ - [https://links.calebe.dev.br](https://links.calebe.dev.br)
+ - date_published: 2024-07-14T09:07:38.428580+00:00
+
+ ## YunoHost Admin
+ - [https://media.calebe.dev.br](https://media.calebe.dev.br)
+ - date_published: 2024-05-19T22:09:45+00:00
+
+ ## Leandro Ferreira - Desenvolvedor PHP Laravel
+ - [https://leandroferreira.dev.br](https://leandroferreira.dev.br)
+ - date_published: 2024-06-19T09:30:46.786702+00:00
+
+ ## Blogue do Puro Osso
+ - [https://puro-osso.dev.br](https://puro-osso.dev.br)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## Sistemas IFCE Paracuru
+ - [http://webserver.paracuru.ifce.edu.br](http://webserver.paracuru.ifce.edu.br)
+ - date_published: 2019-09-15T17:44:15+00:00
+
+ ## Portal IFNMG - Início
+ - [https://ifnmg.edu.br](https://ifnmg.edu.br)
+ - date_published: 2024-07-13T18:13:13+00:00
+
+ ## Authentication - GLPI
+ - [https://suporte.feliz.ifrs.edu.br](https://suporte.feliz.ifrs.edu.br)
+ - date_published: 2024-06-16T15:29:11.962485+00:00
+
+ ## Home — IF SUDESTE MG
+ - [https://www.ifsudestemg.edu.br](https://www.ifsudestemg.edu.br)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Home - Inteli - Instituto de Tecnologia e Liderança
+ - [https://www.inteli.edu.br](https://www.inteli.edu.br)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## UFPel
+ - [https://portal.ufpel.edu.br](https://portal.ufpel.edu.br)
+ - date_published: 2024-07-13T07:23:27.330229+00:00
+
+ ## UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri
+ - [http://www.ufvjm.edu.br](http://www.ufvjm.edu.br)
+ - date_published: 2024-07-13T18:13:21+00:00
+
+ ## UNIFEOB - Centro Universitário Fundação de Ensino Octávio Bastos
+ - [https://unifeob.edu.br](https://unifeob.edu.br)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Prof. Caetano
+ - [http://www.caetano.eng.br](http://www.caetano.eng.br)
+ - date_published: 2024-07-08T08:33:45.032131+00:00
+
+ ## Eduardo Maçan - We stand here exposing ourselves. We are showroom dummies!
+ - [https://eduardo.macan.eng.br](https://eduardo.macan.eng.br)
+ - date_published: 2024-07-09T07:56:32.754284+00:00
+
+ ## Thadeu Lima de Souza Cascardo
+ - [https://cascardo.eti.br](https://cascardo.eti.br)
+ - date_published: 2019-10-31T22:08:13+00:00
+
+ ## Atividades Escolares e Jogos Educativos: Palavras Cruzadas, Caça Palavras, Sudoku, Jogo da Memória, Passatempos, Atividades para Imprimir, Labirinto, Jogo dos 7 Erros, Quebra Cabeça, Desenhos para Colorir, Folhas Para Aprender Desenhar, Quiz Interativo.
+ - [https://www.sol.eti.br](https://www.sol.eti.br)
+ - date_published: 2022-03-26T18:09:40+00:00
+
+ ## Cadastro do AcessoGovBr
+ - [https://cadastro.acesso.gov.br](https://cadastro.acesso.gov.br)
+ - date_published: 2024-04-24T03:56:20+00:00
+
+ ## Acesso GovBR
+ - [https://contas.acesso.gov.br](https://contas.acesso.gov.br)
+ - date_published: 2024-04-24T03:56:08+00:00
+
+ ## Empresas gov.br
+ - [https://empresas.acesso.gov.br](https://empresas.acesso.gov.br)
+ - date_published: 2024-04-24T03:56:07+00:00
+
+ ## Portal Logado
+ - [https://servicos.acesso.gov.br](https://servicos.acesso.gov.br)
+ - date_published: 2024-01-04T17:39:50+00:00
+
+ ## Portal Logado
+ - [https://sso.acesso.gov.br](https://sso.acesso.gov.br)
+ - date_published: 2024-01-04T17:39:50+00:00
+
+ ## Home
+ - [http://acessoainformacao.gov.br](http://acessoainformacao.gov.br)
+ - date_published: 2024-07-20T11:20:25.505697+00:00
+
+ ## Home
+ - [http://www.acessoainformacao.gov.br](http://www.acessoainformacao.gov.br)
+ - date_published: 2024-07-11T21:36:19.920710+00:00
+
+ ## Banco Central do Brasil
+ - [https://cdn-www.bcb.gov.br](https://cdn-www.bcb.gov.br)
+ - date_published: 2024-07-09T21:25:25+00:00
+
+ ## Banco Central do Brasil
+ - [https://bcb.gov.br](https://bcb.gov.br)
+ - date_published: 2024-05-12T04:09:19.217035+00:00
+
+ ## GOV.BR
+ - [http://brasil.gov.br](http://brasil.gov.br)
+ - date_published: 2024-07-11T21:36:28.910171+00:00
+
+ ## CAIXA
+ - [http://www.caixa.gov.br](http://www.caixa.gov.br)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## CAPES 70 anos
+ - [https://70anos.capes.gov.br](https://70anos.capes.gov.br)
+ - date_published: 2021-10-08T14:02:24+00:00
+
+ ## CAPES 72 anos
+ - [https://72anos.capes.gov.br](https://72anos.capes.gov.br)
+ - date_published: 2023-07-27T21:23:34+00:00
+
+ ## CAPES - Catálogo de Atos Administrativos
+ - [http://cad.capes.gov.br](http://cad.capes.gov.br)
+ - date_published: 2023-08-17T01:00:08+00:00
+
+ ## Catálogo de Teses & Dissertações - CAPES
+ - [https://catalogodeteses.capes.gov.br](https://catalogodeteses.capes.gov.br)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Portal eduCapes:Inicio
+ - [https://educapes.capes.gov.br](https://educapes.capes.gov.br)
+ - date_published: 2024-07-13T18:16:46.473581+00:00
+
+ ## Plataforma Freire
+ - [https://freire.capes.gov.br](https://freire.capes.gov.br)
+ - date_published: 2024-07-12T20:37:56+00:00
+
+ ## GEOCAPES
+ - [https://geocapes.capes.gov.br](https://geocapes.capes.gov.br)
+ - date_published: 2023-10-17T19:08:16+00:00
+
+ ## Declaração de Rendimentos
+ - [https://informerendimentos.capes.gov.br](https://informerendimentos.capes.gov.br)
+ - date_published: 2024-07-13T18:17:34.875432+00:00
+
+ ## Revista Brasileira de Pós-Graduação
+ - [https://rbpg.capes.gov.br](https://rbpg.capes.gov.br)
+ - date_published: 2024-07-13T18:17:09.761963+00:00
+
+ ## Plataforma Sucupira
+ - [https://sucupira.capes.gov.br](https://sucupira.capes.gov.br)
+ - date_published: 2024-07-13T18:16:50.909184+00:00
+
+ ## CAPES
+ - [https://capes.gov.br](https://capes.gov.br)
+ - date_published: 2024-05-11T08:09:05.282834+00:00
+
+ ## Portal .periodicos. CAPES - Portal .periodicos. CAPES
+ - [https://www.periodicos.capes.gov.br](https://www.periodicos.capes.gov.br)
+ - date_published: 2024-07-07T06:41:55+00:00
+
+ ## Central de Painéis
+ - [https://centralpaineis.cgu.gov.br](https://centralpaineis.cgu.gov.br)
+ - date_published: 2023-10-29T14:11:31+00:00
+
+ ## e-Agendas - Sistema Eletrônico de Agendas do Poder Executivo Federal
+ - [https://eagendas.cgu.gov.br](https://eagendas.cgu.gov.br)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Fala.BR - Plataforma Integrada de Ouvidoria e Acesso à Informação
+ - [https://falabr.cgu.gov.br](https://falabr.cgu.gov.br)
+ - date_published: 2024-05-10T03:45:31.683367+00:00
+
+ ## Entrar :: Contratos.gov.br
+ - [https://contratos.comprasnet.gov.br](https://contratos.comprasnet.gov.br)
+ - date_published: 2024-07-11T21:36:13.000481+00:00
+
+ ## Soluções digitais para governo e cidadão
+ - [https://www.dataprev.gov.br](https://www.dataprev.gov.br)
+ - date_published: 2024-07-13T00:09:20+00:00
+
+ ## Painel de Compras
+ - [https://paineldecompras.economia.gov.br](https://paineldecompras.economia.gov.br)
+ - date_published: 2024-05-10T03:46:31.262882+00:00
+
+ ## Portal Receita
+ - [http://www.receita.fazenda.gov.br](http://www.receita.fazenda.gov.br)
+ - date_published: 2024-07-13T18:19:00.300997+00:00
+
+ ## Finep - Início
+ - [http://www.finep.gov.br](http://www.finep.gov.br)
+ - date_published: 2024-05-11T08:08:50.663796+00:00
+
+ ## Padrões Web em Governo Eletrônico e-PWG - Cartilha de Usabilidade
+ - [http://epwg.governoeletronico.gov.br](http://epwg.governoeletronico.gov.br)
+ - date_published: 2022-05-31T19:04:57+00:00
+
+ ## Clima e Tempo
+ - [http://www.inmet.gov.br](http://www.inmet.gov.br)
+ - date_published: 2024-07-13T18:19:04.239906+00:00
+
+ ## MJSP
+ - [https://www.justica.gov.br](https://www.justica.gov.br)
+ - date_published: 2024-06-27T05:59:17.125020+00:00
+
+ ## Fala.BR - Plataforma Integrada de Ouvidoria e Acesso à Informação
+ - [http://sistema.ouvidorias.gov.br](http://sistema.ouvidorias.gov.br)
+ - date_published: 2024-07-15T14:39:38+00:00
+
+ ## Verificação de segurança
+ - [https://prefeitura.pbh.gov.br](https://prefeitura.pbh.gov.br)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## PRESIDÊNCIA DA REPÚBLICA
+ - [http://planalto.gov.br](http://planalto.gov.br)
+ - date_published: 2019-07-31T21:17:32+00:00
+
+ ## PRESIDÊNCIA DA REPÚBLICA
+ - [http://www.planalto.gov.br](http://www.planalto.gov.br)
+ - date_published: 2024-06-12T11:18:07.812245+00:00
+
+ ## Portal Nacional de Contratações Públicas - PNCP
+ - [https://pncp.gov.br](https://pncp.gov.br)
+ - date_published: 2024-07-11T21:36:24.045029+00:00
+
+ ## Portal da Transparência do Governo Federal
+ - [https://portaldatransparencia.gov.br](https://portaldatransparencia.gov.br)
+ - date_published: 2024-07-13T18:17:19.595963+00:00
+
+ ## Portal da Transparência do Governo Federal
+ - [http://www.portaltransparencia.gov.br](http://www.portaltransparencia.gov.br)
+ - date_published: 2024-07-13T18:17:30.137388+00:00
+
+ ## Brasil Participativo - Governo Federal
+ - [https://brasilparticipativo.presidencia.gov.br](https://brasilparticipativo.presidencia.gov.br)
+ - date_published: 2024-07-11T21:34:18.967548+00:00
+
+ ## PRESIDÊNCIA DA REPÚBLICA
+ - [http://www.presidencia.gov.br](http://www.presidencia.gov.br)
+ - date_published: 2024-06-12T11:17:42.018552+00:00
+
+ ## Rede de Controle da Gestão Pública - Construindo parcerias para o controle público efetivo
+ - [https://www.rededecontrole.gov.br](https://www.rededecontrole.gov.br)
+ - date_published: 2024-07-13T18:12:23.948875+00:00
+
+ ## API RecomGov
+ - [https://api.recomgov.df-1.estaleiro.serpro.gov.br](https://api.recomgov.df-1.estaleiro.serpro.gov.br)
+ - date_published: 2024-05-10T03:45:28.970230+00:00
+
+ ## gov.br - Search Console
+ - [https://portalunico.estaleiro.serpro.gov.br](https://portalunico.estaleiro.serpro.gov.br)
+ - date_published: 2023-02-06T18:04:13+00:00
+
+ ## Serpro
+ - [http://www.serpro.gov.br](http://www.serpro.gov.br)
+ - date_published: 2024-06-18T12:06:56.402259+00:00
+
+ ## Dúvidas Frequentes da Conta gov.br — Dúvidas Frequentes da Conta gov.br 1.0.0 documentation
+ - [http://faq-login-unico.servicos.gov.br](http://faq-login-unico.servicos.gov.br)
+ - date_published: 2024-04-24T03:56:05+00:00
+
+ ## VLibras Vídeo
+ - [https://video.vlibras.gov.br](https://video.vlibras.gov.br)
+ - date_published: 2024-06-27T16:13:43+00:00
+
+ ## VLibras
+ - [https://vlibras.gov.br](https://vlibras.gov.br)
+ - date_published: 2024-05-10T03:45:38.908101+00:00
+
+ ## WikiLibras - LAViD
+ - [https://wiki.vlibras.gov.br](https://wiki.vlibras.gov.br)
+ - date_published: 2024-07-11T21:35:17.472376+00:00
+
+ ## A Voz do Brasil
+ - [https://voz.gov.br](https://voz.gov.br)
+ - date_published: 2021-11-25T00:00:00+00:00
+
+ ## GOV.BR
+ - [https://gov.br](https://gov.br)
+ - date_published: 2023-12-11T19:33:23.992575+00:00
+ - tags: ['government']
+
+ ## Divulgação de Candidaturas e Contas Eleitorais
+ - [https://divulgacandcontas.tse.jus.br](https://divulgacandcontas.tse.jus.br)
+ - date_published: 2024-05-10T02:48:51.518311+00:00
+
+ ## Resultados Oficial
+ - [https://resultados.tse.jus.br](https://resultados.tse.jus.br)
+ - date_published: 2023-10-25T12:02:51.440167+00:00
+
+ ## Dados Abertos da Câmara dos Deputados
+ - [https://dadosabertos.camara.leg.br](https://dadosabertos.camara.leg.br)
+ - date_published: 2024-07-02T21:29:19.467157+00:00
+
+ ## Portal EVC - Onde Educação Vira Cidadania
+ - [http://escolavirtualdecidadania.camara.leg.br](http://escolavirtualdecidadania.camara.leg.br)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Erro de acesso
+ - [https://imgproxy.camara.leg.br](https://imgproxy.camara.leg.br)
+ - date_published: 2024-07-02T21:29:12.348051+00:00
+
+ ## Home - Câmara dos Deputados
+ - [https://infograficos.camara.leg.br](https://infograficos.camara.leg.br)
+ - date_published: 2024-07-02T21:29:10.551271+00:00
+
+ ## Portal da Câmara dos Deputados
+ - [https://www2.camara.leg.br](https://www2.camara.leg.br)
+ - date_published: 2024-07-02T21:29:42.917123+00:00
+
+ ## Portal da Câmara dos Deputados
+ - [https://camara.leg.br](https://camara.leg.br)
+ - date_published: 2024-05-07T23:30:03.588334+00:00
+
+ ## Home - Congresso Nacional
+ - [http://www.congressonacional.leg.br](http://www.congressonacional.leg.br)
+ - date_published: 2024-07-02T21:29:28.764412+00:00
+
+ ## Senado Federal
+ - [http://www.senado.leg.br](http://www.senado.leg.br)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Authentication - GLPI
+ - [https://homologcsti.teofilootoni.mg.gov.br](https://homologcsti.teofilootoni.mg.gov.br)
+ - date_published: 2024-06-16T15:32:46.115274+00:00
+
+ ## Marinha do Brasil
+ - [https://www.marinha.mil.br](https://www.marinha.mil.br)
+ - date_published: 2024-06-05T07:28:50.631346+00:00
+ - tags: ['maritime']
+
+ ## Consequência Editora. Livros de Geografia, História, Ciências Sociais, Educação, Política, Humanas..
+ - [https://consequenciaeditora.net.br](https://consequenciaeditora.net.br)
+ - date_published: 2024-05-10T06:57:20.058367+00:00
+
+ ## Sputnik Brasil – Notícias Atuais do Mundo, Notícias Urgentes
+ - [https://noticiabrasil.net.br](https://noticiabrasil.net.br)
+ - date_published: 2024-06-15T08:41:29.275411+00:00
+
+ ## Parafernália Interativa – Intelligent Digital Experiences
+ - [https://parafernalia.net.br](https://parafernalia.net.br)
+ - date_published: 2024-05-11T09:07:35.154578+00:00
+
+ ## ABC – Academia Brasileira de Ciências
+ - [https://abc.org.br](https://abc.org.br)
+ - date_published: 2024-05-07T20:15:39.987342+00:00
+
+ ## ABCr - Associação Brasileira de Cristalografia
+ - [https://www.abcristalografia.org.br](https://www.abcristalografia.org.br)
+ - date_published: 2024-07-13T18:12:45.385430+00:00
+
+ ## Associação Brasileira de Editores Científicos - ABEC
+ - [https://www.abecbrasil.org.br](https://www.abecbrasil.org.br)
+ - date_published: 2024-07-09T21:17:26.810610+00:00
+
+ ## Alana
+ - [https://alana.org.br](https://alana.org.br)
+ - date_published: 2024-07-08T16:52:02.884045+00:00
+
+ ## Análise de Capacidade Pessoal
+ - [https://www.analisedecapacidadeoxford.org.br](https://www.analisedecapacidadeoxford.org.br)
+ - date_published: 2024-06-17T16:41:04.571841+00:00
+
+ ## ANDI - Comunicação e Direitos
+ - [http://www.andi.org.br](http://www.andi.org.br)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## ANM - Academia Nacional de Medicina - :
+ - [https://anm.org.br](https://anm.org.br)
+ - date_published: 2024-06-12T13:17:10.907097+00:00
+
+ ## Home Nova - ANPG
+ - [https://www.anpg.org.br](https://www.anpg.org.br)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Arquidiocese de São Sebastião do Rio de Janeiro
+ - [https://arqrio.org.br](https://arqrio.org.br)
+ - date_published: 2024-07-07T00:42:09+00:00
+
+ ## Central de Atendimento 156
+ - [http://www.central156.org.br](http://www.central156.org.br)
+ - date_published: 2024-06-12T11:19:42.908816+00:00
+
+ ## Portal do Instituto das Cidades Inteligentes
+ - [https://cidadesinteligentes.org.br](https://cidadesinteligentes.org.br)
+ - date_published: 2024-06-12T11:17:39.012950+00:00
+
+ ## CONTRASP – Confederação Nacional dos Trabalhadores de Segurança Privada
+ - [https://contrasp.org.br](https://contrasp.org.br)
+ - date_published: 2024-07-17T07:37:07.903915+00:00
+
+ ## ICI Carreiras - Instituto das Cidades Inteligentes
+ - [https://carreiras.ici.curitiba.org.br](https://carreiras.ici.curitiba.org.br)
+ - date_published: 2024-06-12T11:17:29.011098+00:00
+
+ ## CDN ICI
+ - [https://cdn.ici.curitiba.org.br](https://cdn.ici.curitiba.org.br)
+ - date_published: 2019-02-06T16:17:26+00:00
+
+ ## Portal do Instituto das Cidades Inteligentes
+ - [https://ici.curitiba.org.br](https://ici.curitiba.org.br)
+ - date_published: 2024-06-12T03:30:14.046448+00:00
+
+ ## ICI - Instituto das Cidades Inteligentes
+ - [http://servicedesk.ici.curitiba.org.br](http://servicedesk.ici.curitiba.org.br)
+ - date_published: 2024-06-12T11:19:37.807369+00:00
+
+ ## ICI | Login
+ - [https://service.ici.curitiba.org.br](https://service.ici.curitiba.org.br)
+ - date_published: 2024-06-12T11:19:25.802005+00:00
+
+ ## Home — Debian Brasil
+ - [https://debianbrasil.org.br](https://debianbrasil.org.br)
+ - date_published: 2024-06-14T14:07:29+00:00
+
+ ## Início - Coalizão Direitos na Rede
+ - [https://direitosnarede.org.br](https://direitosnarede.org.br)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Escravo, nem pensar!
+ - [https://escravonempensar.org.br](https://escravonempensar.org.br)
+ - date_published: 2024-01-09T02:26:51.999598+00:00
+
+ ## Escravo, nem pensar!
+ - [https://www.escravonempensar.org.br](https://www.escravonempensar.org.br)
+ - date_published: 2024-01-09T02:26:57.139425+00:00
+
+ ## Home
+ - [https://www.estrategiaods.org.br](https://www.estrategiaods.org.br)
+ - date_published: 2024-06-12T11:17:25.476740+00:00
+
+ ## Página Inicial EVIDA – Home - EVIDA - Assistencia à Saúde
+ - [https://www.evida.org.br](https://www.evida.org.br)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## O Sistema Financiar divulga os agentes financiadores, nacionais e internacionais, que apoiam projetos de P,D&I no Brasil.
+ - [https://www.financiar.org.br](https://www.financiar.org.br)
+ - date_published: 2024-07-07T06:42:42+00:00
+
+ ## Página Inicial | FRM - Fundação Roberto Marinho
+ - [http://www.frm.org.br](http://www.frm.org.br)
+ - date_published: 2024-07-13T02:17:52.257720+00:00
+
+ ## Página Inicial - Fundação Santillana
+ - [https://fundacaosantillana.org.br](https://fundacaosantillana.org.br)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Fundunesp - Fundação para o Desenvolvimento da Unesp
+ - [https://www.fundunesp.org.br](https://www.fundunesp.org.br)
+ - date_published: 2024-07-15T07:34:11.285719+00:00
+
+ ## 1. Home - GFI Brasil
+ - [https://gfi.org.br](https://gfi.org.br)
+ - date_published: 2024-06-20T17:52:44+00:00
+
+ ## ICOM Brasil
+ - [http://www.icom.org.br](http://www.icom.org.br)
+ - date_published: 2024-05-29T00:37:52.847010+00:00
+
+ ## Home - Inhotim
+ - [https://www.inhotim.org.br](https://www.inhotim.org.br)
+ - date_published: 2023-11-13T13:54:33.035629+00:00
+ - tags: ['museum']
+
+ ## Instituto Ricardo Brennand
+ - [https://www.institutoricardobrennand.org.br](https://www.institutoricardobrennand.org.br)
+ - date_published: 2023-11-13T13:53:50.117261+00:00
+ - tags: ['museum']
+
+ ## Home - IPAM Amazônia
+ - [https://ipam.org.br](https://ipam.org.br)
+ - date_published: 2024-05-10T02:49:03.266225+00:00
+
+ ## pacing.space
+ - [https://nst.ipam.org.br](https://nst.ipam.org.br)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## IPPUC | Prefeitura Municipal de Curitiba
+ - [https://ippuc.org.br](https://ippuc.org.br)
+ - date_published: 2024-06-12T11:18:33.045868+00:00
+
+ ## Utag –  Unidade Técnico-Administrativa de Gerenciamento
+ - [https://utag.ippuc.org.br](https://utag.ippuc.org.br)
+ - date_published: 2024-06-12T03:30:42.682396+00:00
+
+ ## Portal Jesuítas Brasil – Companhia de Jesus, conhecida como Ordem dos Jesuítas, foi fundada por Santo Inácio de Loyola e aprovada oficialmente pelo Papa Paulo III, em 27 de setembro de 1540
+ - [https://jesuitasbrasil.org.br](https://jesuitasbrasil.org.br)
+ - date_published: 2024-07-07T06:43:05.375427+00:00
+
+ ## Página Inicial
+ - [https://www.labre.org.br](https://www.labre.org.br)
+ - date_published: 2024-06-28T22:47:17.458043+00:00
+
+ ## - Home
+ - [https://laut.org.br](https://laut.org.br)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Portal do Livro Acessível - Solicite seu livro em formato acessível
+ - [http://livroacessivel.org.br](http://livroacessivel.org.br)
+ - date_published: 2024-07-13T02:13:26.718092+00:00
+
+ ## MASP
+ - [https://masp.org.br](https://masp.org.br)
+ - date_published: 2023-11-13T13:41:34.414087+00:00
+ - tags: ['museum']
+
+ ## MASP Loja
+ - [https://www.masploja.org.br](https://www.masploja.org.br)
+ - date_published: 2024-07-19T22:14:06.142964+00:00
+
+ ## Mercy For Animals – Maior Organização do Mundo em Promoção do Veganismo e Defesa dos Direitos dos Animais Explorados para Consumo
+ - [https://mercyforanimals.org.br](https://mercyforanimals.org.br)
+ - date_published: 2024-05-10T06:58:15.910935+00:00
+
+ ## Home - Museu de Arte do Rio – MAR
+ - [https://museudeartedorio.org.br](https://museudeartedorio.org.br)
+ - date_published: 2024-06-16T05:05:02.469317+00:00
+
+ ## Museu do Amanhã
+ - [https://museudoamanha.org.br](https://museudoamanha.org.br)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Home - Open Knowledge Brasil
+ - [https://go.ok.org.br](https://go.ok.org.br)
+ - date_published: 2024-06-12T12:34:04.833924+00:00
+
+ ## Home - Open Knowledge Brasil
+ - [https://ok.org.br](https://ok.org.br)
+ - date_published: 2024-06-12T06:03:34.762017+00:00
+
+ ## Home - Oxfam Brasil
+ - [https://www.oxfam.org.br](https://www.oxfam.org.br)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Pivô
+ - [https://www.pivo.org.br](https://www.pivo.org.br)
+ - date_published: 2024-02-08T17:51:49.160299+00:00
+
+ ## Portas Abertas – Tudo sobre cristãos perseguidos e a Igreja Perseguida
+ - [https://portasabertas.org.br](https://portasabertas.org.br)
+ - date_published: 2024-05-08T11:12:55.979392+00:00
+
+ ## Planeta PythonBrasil
+ - [https://planet.python.org.br](https://planet.python.org.br)
+ - date_published: 2021-07-11T00:00:00+00:00
+
+ ## PythonBrasil - PythonBrasil
+ - [http://wiki.python.org.br](http://wiki.python.org.br)
+ - date_published: 2024-06-28T19:57:47.783697+00:00
+
+ ## Rede Foto – Rede de Produtores Culturais da Fotografia no Brasil
+ - [https://redefoto.org.br](https://redefoto.org.br)
+ - date_published: 2024-07-10T07:56:04.031089+00:00
+
+ ## Comunicar para Mudar
+ - [https://comunicarparamudar.reporterbrasil.org.br](https://comunicarparamudar.reporterbrasil.org.br)
+ - date_published: 2024-01-09T02:27:01.376800+00:00
+
+ ## Mapa da Água: O que sai da sua torneira?
+ - [https://mapadaagua.reporterbrasil.org.br](https://mapadaagua.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:32:28.275445+00:00
+
+ ## Narcogarimpos – Especial – Narcogarimpos
+ - [https://narcogarimpos.reporterbrasil.org.br](https://narcogarimpos.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:34:35.359408+00:00
+
+ ## Nome aos Bois – Reporter Brasil
+ - [https://nomeaosbois.reporterbrasil.org.br](https://nomeaosbois.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:34:47.478056+00:00
+
+ ## Repórter Brasil
+ - [https://reporterbrasil.org.br](https://reporterbrasil.org.br)
+ - date_published: 2023-11-14T17:00:02.121596+00:00
+
+ ## Ruralômetro - Medindo a febre ruralista dos candidatos
+ - [https://ruralometro2018.reporterbrasil.org.br](https://ruralometro2018.reporterbrasil.org.br)
+ - date_published: 2024-05-10T03:48:46.273300+00:00
+
+ ## Ruralômetro 2022 - Ferramenta ajuda a escolher deputados
+ - [https://ruralometro2022.reporterbrasil.org.br](https://ruralometro2022.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:31:35.115572+00:00
+
+ ## Página inicial - Sociedade Brasileira de Reumatologia
+ - [https://www.reumatologia.org.br](https://www.reumatologia.org.br)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Home
+ - [http://sintfub.org.br](http://sintfub.org.br)
+ - date_published: 2024-07-20T11:20:10.784034+00:00
+
+ ## SouJava – Sociedade de Usuários da Tecnologia Java
+ - [https://soujava.org.br](https://soujava.org.br)
+ - date_published: 2024-07-01T05:19:19.213935+00:00
+
+ ## The Nature Conservancy
+ - [https://tnc.org.br](https://tnc.org.br)
+ - date_published: 2024-05-08T10:42:44.077294+00:00
+
+ ## Vocação - Você em Ação
+ - [https://vocacao.org.br](https://vocacao.org.br)
+ - date_published: 2024-05-07T14:58:15.444029+00:00
+
+ ## WWF - Ficha de Doação
+ - [https://doe.wwf.org.br](https://doe.wwf.org.br)
+ - date_published: 2024-05-28T22:50:27+00:00
+
+ ## WWF-Brasil
+ - [https://wwf.org.br](https://wwf.org.br)
+ - date_published: 2024-05-07T23:56:56.112200+00:00
+
+ ## PMPE - Polícia Militar de Pernambuco
+ - [https://www.pm.pe.gov.br](https://www.pm.pe.gov.br)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Página Inicial — Portal da Câmara Municipal de Curitiba
+ - [http://www.cmc.pr.gov.br](http://www.cmc.pr.gov.br)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Central de Atendimento 156
+ - [https://156.curitiba.pr.gov.br](https://156.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:24.570844+00:00
+
+ ## Coleta de Lixo - Prefeitura de Curitiba
+ - [http://coletalixo.curitiba.pr.gov.br](http://coletalixo.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:22.191362+00:00
+
+ ## Comunicação Social - Prefeitura de Curitiba
+ - [https://comunicacao.curitiba.pr.gov.br](https://comunicacao.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:03.685648+00:00
+
+ ## Controladoria - Prefeitura de Curitiba
+ - [https://controladoria.curitiba.pr.gov.br](https://controladoria.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:06.297486+00:00
+
+ ## ImunizaJáCuritiba - Prefeitura de Curitiba
+ - [https://coronavirus.curitiba.pr.gov.br](https://coronavirus.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:17:53.636747+00:00
+
+ ## Prefeitura Municipal de Curitiba
+ - [https://curitiba.pr.gov.br](https://curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:09.478209+00:00
+
+ ## Secretaria Municipal da Educação
+ - [https://educacao.curitiba.pr.gov.br](https://educacao.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:18.932345+00:00
+
+ ## Fala Curitiba - Prefeitura de Curitiba
+ - [https://fala.curitiba.pr.gov.br](https://fala.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:10.734623+00:00
+
+ ## Gabinete do Prefeito - Prefeitura de Curitiba
+ - [https://gabineteprefeito.curitiba.pr.gov.br](https://gabineteprefeito.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:53.608945+00:00
+
+ ## Gabinete do Vice-Prefeito - Prefeitura de Curitiba
+ - [https://gabineteviceprefeito.curitiba.pr.gov.br](https://gabineteviceprefeito.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:21.324685+00:00
+
+ ## Guia - Prefeitura de Curitiba
+ - [https://guia.curitiba.pr.gov.br](https://guia.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:49.203800+00:00
+
+ ## Home Page - ICICore.Servidor
+ - [https://hubchat-siac156.curitiba.pr.gov.br](https://hubchat-siac156.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:23.930507+00:00
+
+ ## IMAP
+ - [http://imap.curitiba.pr.gov.br](http://imap.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:17:11.734092+00:00
+
+ ## Consulta Externa de Atos
+ - [https://legisladocexterno.curitiba.pr.gov.br](https://legisladocexterno.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:27.832937+00:00
+
+ ## mid-guia.curitiba.pr.gov.br - /
+ - [https://mid-guia.curitiba.pr.gov.br](https://mid-guia.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:43.588967+00:00
+
+ ## mid-servidor.curitiba.pr.gov.br - /
+ - [https://mid-servidor.curitiba.pr.gov.br](https://mid-servidor.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:19:55.374914+00:00
+
+ ## Turismo - Prefeitura de Curitiba
+ - [https://mid-turismo.curitiba.pr.gov.br](https://mid-turismo.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:52.463670+00:00
+
+ ## Orçamento e Planejamento
+ - [https://orcamentos.curitiba.pr.gov.br](https://orcamentos.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:01.327323+00:00
+
+ ## Portal dos Conselhos
+ - [http://portaldosconselhos.curitiba.pr.gov.br](http://portaldosconselhos.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:05.549511+00:00
+
+ ## Portal do Servidor de Curitiba
+ - [https://servidor.curitiba.pr.gov.br](https://servidor.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:57.625983+00:00
+
+ ## Trânsito - Secretaria Municipal de Defesa Social e Trânsito
+ - [https://transito.curitiba.pr.gov.br](https://transito.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:28.545524+00:00
+
+ ## Instituto Municipal de Turismo de Curitiba
+ - [https://turismo.curitiba.pr.gov.br](https://turismo.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:47.891023+00:00
+
+ ## Home - Agência Curitiba
+ - [http://www.agencia.curitiba.pr.gov.br](http://www.agencia.curitiba.pr.gov.br)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Portal da Transparência da Prefeitura de Curitiba
+ - [https://www.transparencia.curitiba.pr.gov.br](https://www.transparencia.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:16.818256+00:00
+
+ ## URBS - Urbanização de Curitiba
+ - [https://www.urbs.curitiba.pr.gov.br](https://www.urbs.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:17:58.059160+00:00
+
+ ## Eriberto Mota
+ - [https://eriberto.pro.br](https://eriberto.pro.br)
+ - date_published: 2024-07-09T07:56:43.300230+00:00
+
+ ## Paulo Ghiraldelli
+ - [https://ghiraldelli.pro.br](https://ghiraldelli.pro.br)
+ - date_published: 2024-05-07T18:22:04.178518+00:00
+
+ ## SHOUTcast Server
+ - [https://nos.radio.br](https://nos.radio.br)
+ - date_published: 2017-08-24T00:00:00+00:00
+
+ ## Início - Prefeitura de São Paulo - Prefeitura
+ - [https://www.capital.sp.gov.br](https://www.capital.sp.gov.br)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Investe SP - Portal de Investimentos do Estado de São Paulo
+ - [https://www.investe.sp.gov.br](https://www.investe.sp.gov.br)
+ - date_published: 2024-06-26T21:57:36.307248+00:00
+
+ ## Início - Prefeitura de São Paulo - Prefeitura
+ - [https://www.prefeitura.sp.gov.br](https://www.prefeitura.sp.gov.br)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home | Governo do Estado de São Paulo
+ - [https://www.saopaulo.sp.gov.br](https://www.saopaulo.sp.gov.br)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Baffa-2+ Computer
+ - [https://baffa-2p.baffa.tec.br](https://baffa-2p.baffa.tec.br)
+ - date_published: 2023-11-23T03:00:00+00:00
+
+ ## Baffa Homebrew Projects
+ - [https://computers.baffa.tec.br](https://computers.baffa.tec.br)
+ - date_published: 2023-11-23T03:00:00+00:00
+
+ ## BANCO BRADESCO | Desafie o futuro
+ - [https://banco.bradesco](https://banco.bradesco)
+ - date_published: 2024-07-09T19:15:33.297619+00:00
+
+ ## Darmowe szablony do wydrukowania i dostosowywania | Creative Center
+ - [https://www.creativecenter.brother](https://www.creativecenter.brother)
+ - date_published: 2024-05-02T11:28:15.164126+00:00
+
+ ## Industrial Garment Printer | Brother
+ - [https://garmentprinter.global.brother](https://garmentprinter.global.brother)
+ - date_published: 2024-05-02T11:35:25.463119+00:00
+
+ ## Welcome to Brother Global
+ - [https://global.brother](https://global.brother)
+ - date_published: 2024-05-02T11:25:26.280633+00:00
+
+ ## Industrial Sewing Machine | Brother
+ - [https://industrialsewingmachine.global.brother](https://industrialsewingmachine.global.brother)
+ - date_published: 2024-05-02T11:29:39.596747+00:00
+
+ ## Machine Tools | Brother
+ - [https://machinetool.global.brother](https://machinetool.global.brother)
+ - date_published: 2024-05-02T11:22:53.110007+00:00
+
+ ## Brother Group SDGs Special Site: Brother SDGs story
+ - [https://sdgsstory.global.brother](https://sdgsstory.global.brother)
+ - date_published: 2024-06-17T21:02:35.762480+00:00
+
+ ## Welcome on the website of the Brussels Capital-Region
+ - [https://be.brussels](https://be.brussels)
+ - date_published: 2024-07-02T23:04:50.140871+00:00
+
+ ## FEDER - Feder BXL
+ - [https://feder.brussels](https://feder.brussels)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Innoviris
+ - [https://innoviris.brussels](https://innoviris.brussels)
+ - date_published: 2024-07-07T09:21:41+00:00
+
+ ## React Brussels | Brussels & Online
+ - [https://www.react.brussels](https://www.react.brussels)
+ - date_published: 2024-06-20T07:07:54.339815+00:00
+
+ ## Wikimedia Europe
+ - [https://wikimedia.brussels](https://wikimedia.brussels)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.bs](https://maps.google.bs)
+ - date_published: 2024-07-20T07:39:27.116520+00:00
+
+ ## Google
+ - [https://www.google.bs](https://www.google.bs)
+ - date_published: 2024-06-21T22:23:48.282701+00:00
+
+ ## https://www.bahamas.gov.bs
+ - [https://www.bahamas.gov.bs](https://www.bahamas.gov.bs)
+ - date_published: 2024-02-08T17:59:29.118171+00:00
+
+ ## Grafika Google
+ - [https://images.google.bt](https://images.google.bt)
+ - date_published: 2024-07-20T07:41:25.555968+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.bt](https://maps.google.bt)
+ - date_published: 2024-07-20T07:39:44.213000+00:00
+
+ ## Google
+ - [https://www.google.bt](https://www.google.bt)
+ - date_published: 2024-06-21T22:23:04.587235+00:00
+
+ ## Home
+ - [http://www.bfl.org.bt](http://www.bfl.org.bt)
+ - date_published: 2024-07-03T02:41:48.679991+00:00
+
+ ## Home
+ - [https://www.wwfbhutan.org.bt](https://www.wwfbhutan.org.bt)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Astro
+ - [https://astro.build](https://astro.build)
+ - date_published: 2023-10-25T12:02:53.334268+00:00
+
+ ## Getting Started
+ - [https://docs.astro.build](https://docs.astro.build)
+ - date_published: 2024-05-09T07:21:42.980431+00:00
+
+ ## Time to suit up | Astro Shop
+ - [https://shop.astro.build](https://shop.astro.build)
+ - date_published: 2024-06-23T03:46:59.217572+00:00
+
+ ## Starlight 🌟 Build documentation sites with Astro
+ - [https://starlight.astro.build](https://starlight.astro.build)
+ - date_published: 2024-06-23T06:01:29.647481+00:00
+
+ ## Bazel
+ - [https://bazel.build](https://bazel.build)
+ - date_published: 2022-11-23T21:10:38+00:00
+
+ ## Bazel Blog - Bazel
+ - [https://blog.bazel.build](https://blog.bazel.build)
+ - date_published: 2024-04-29T18:14:56+00:00
+
+ ## Join Bazel on Slack
+ - [https://slack.bazel.build](https://slack.bazel.build)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Built Environment - Smarter Transformation
+ - [https://be-st.build](https://be-st.build)
+ - date_published: 2024-04-30T05:56:27.290621+00:00
+
+ ## Bob - Lightning fast build platform
+ - [https://bob.build](https://bob.build)
+ - date_published: 2024-04-29T05:49:29.587217+00:00
+
+ ## Buf
+ - [https://buf.build](https://buf.build)
+ - date_published: 2023-10-25T12:02:56.971684+00:00
+
+ ## Caliber Venture Builder
+ - [https://caliber.build](https://caliber.build)
+ - date_published: 2024-06-12T05:35:17+00:00
+
+ ## Code.Build 💻
+ - [https://code.build](https://code.build)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Flaky Build
+ - [https://flaky.build](https://flaky.build)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Fox.Build Makerspace, Hackerspace & Coworking St Charles IL
+ - [https://fox.build](https://fox.build)
+ - date_published: 2024-04-28T04:56:21.931399+00:00
+
+ ## Fractal
+ - [https://fractal.build](https://fractal.build)
+ - date_published: 2024-07-10T07:17:12.410890+00:00
+
+ ## Ko: Easy Go Containers
+ - [https://ko.build](https://ko.build)
+ - date_published: 2023-11-08T00:37:54+00:00
+
+ ## Linea: The secure zkEVM ecosystem that empowers dapps to thrive
+ - [https://linea.build](https://linea.build)
+ - date_published: 2024-06-14T09:19:33+00:00
+
+ ## Linea Mainnet (ETH) Blockchain Explorer
+ - [https://lineascan.build](https://lineascan.build)
+ - date_published: 2024-06-22T05:50:08.696742+00:00
+
+ ## Show HN: I built a Backend so Simple that it Fits in 1 YAML File
+ - [https://manifest.build](https://manifest.build)
+ - date_published: 2024-06-01T11:24:28+00:00
+
+ ## Miguel Piedrafita
+ - [https://miguel.build](https://miguel.build)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Momentum Brand
+ - [https://brand.mmntm.build](https://brand.mmntm.build)
+ - date_published: 2024-06-28T11:03:49.615484+00:00
+
+ ## Momentum
+ - [https://feed.mmntm.build](https://feed.mmntm.build)
+ - date_published: 2024-06-28T11:04:08.200144+00:00
+
+ ## Momentum — Build and sell your digital products
+ - [http://mmntm.build](http://mmntm.build)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Momentum Page
+ - [https://page.mmntm.build](https://page.mmntm.build)
+ - date_published: 2024-06-19T18:51:50.420948+00:00
+
+ ## Momentum Post
+ - [https://post.mmntm.build](https://post.mmntm.build)
+ - date_published: 2024-06-28T11:03:52.098362+00:00
+
+ ## Wave by Momentum
+ - [https://wave.mmntm.build](https://wave.mmntm.build)
+ - date_published: 2024-05-06T22:32:34.317631+00:00
+
+ ## nostr.build media uploader
+ - [https://nostr.build](https://nostr.build)
+ - date_published: 2024-06-15T22:32:41.075526+00:00
+
+ ## Nouns your ideas
+ - [https://nouns.build](https://nouns.build)
+ - date_published: 2024-06-18T16:03:51.474125+00:00
+
+ ## Nouns your ideas
+ - [https://testnet.nouns.build](https://testnet.nouns.build)
+ - date_published: 2024-06-18T16:03:57.139703+00:00
+
+ ## Ryan Flomerfelt Mather | Ryan is a designer focused on play, learning, and technology.
+ - [http://ryancan.build](http://ryancan.build)
+ - date_published: 2024-07-13T15:26:01.893712+00:00
+
+ ## Shields
+ - [https://shields.build](https://shields.build)
+ - date_published: 2024-06-21T20:20:23.107502+00:00
+
+ ## StoryBuild Publishing | Story.Build
+ - [https://story.build](https://story.build)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Tilt
+ - [https://tilt.build](https://tilt.build)
+ - date_published: 2024-06-24T03:47:09.174715+00:00
+
+ ## tipi.build
+ - [https://tipi.build](https://tipi.build)
+ - date_published: 2024-05-25T09:50:04.099874+00:00
+
+ ## Toolhouse
+ - [https://www.toolhouse.build](https://www.toolhouse.build)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Index – Turbo
+ - [https://turbo.build](https://turbo.build)
+ - date_published: 2023-10-25T12:02:59.657620+00:00
+
+ ## Home - Authority Builders Co.
+ - [https://authority.builders](https://authority.builders)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Essential
+ - [https://blog.essential.builders](https://blog.essential.builders)
+ - date_published: 2024-06-16T03:36:48.038540+00:00
+
+ ## Law.Builders
+ - [https://law.builders](https://law.builders)
+ - date_published: 2024-07-04T15:33:47.002718+00:00
+
+ ## Wasm Builders 🧱
+ - [https://wasm.builders](https://wasm.builders)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Addons Business – Cozy eCommerce Addons
+ - [https://blog.addons.business](https://blog.addons.business)
+ - date_published: 2024-06-17T09:02:30.383226+00:00
+
+ ## LoginToApp | Cozy Video Gallery
+ - [https://cdncozyvideogalleryn.addons.business](https://cdncozyvideogalleryn.addons.business)
+ - date_published: 2024-05-02T09:38:25.675657+00:00
+
+ ## Cozy Country Redirect - Redirect or block visitors from specific countries | Shopify App Store
+ - [https://cozycountryredirect.addons.business](https://cozycountryredirect.addons.business)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Cozy Country Redirect - Redirect or block visitors from specific countries | Shopify App Store
+ - [https://cozycountryredirectiii.addons.business](https://cozycountryredirectiii.addons.business)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Cozy Country Redirect - Redirect or block visitors from specific countries | Shopify App Store
+ - [https://cozycountryredirectvii.addons.business](https://cozycountryredirectvii.addons.business)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## LoginToApp | Cozy Video Gallery
+ - [https://cozyvideogalleries.addons.business](https://cozyvideogalleries.addons.business)
+ - date_published: 2024-06-17T09:02:27.845603+00:00
+
+ ## African Business
+ - [https://african.business](https://african.business)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Gold and Silver
+ - [http://tenpennyalliance.goldandsilver.business](http://tenpennyalliance.goldandsilver.business)
+ - date_published: 2024-07-03T19:05:49.097247+00:00
+
+ ## Business - JB Hi-Fi Business
+ - [https://www.jbhifi.business](https://www.jbhifi.business)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Home | Leiwand gründen!
+ - [https://leiwand.business](https://leiwand.business)
+ - date_published: 2017-03-01T10:48:27+00:00
+
+ ## Welcome - Meaningful Business Community
+ - [https://meaningful.business](https://meaningful.business)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Mastodon For Business
+ - [https://mstdn.business](https://mstdn.business)
+ - date_published: 2024-06-17T02:34:39.291559+00:00
+
+ ## Let's get busy. Official Business — Digital partner for creative brands.
+ - [https://official.business](https://official.business)
+ - date_published: 2024-07-13T16:16:17.273262+00:00
+
+ ## pr.business | blog
+ - [https://blog.pr.business](https://blog.pr.business)
+ - date_published: 2024-06-29T19:06:35.927276+00:00
+
+ ## PR.Business
+ - [https://dash.pr.business](https://dash.pr.business)
+ - date_published: 2023-01-18T08:56:36+00:00
+
+ ## pr.business (dir)
+ - [https://dir.pr.business](https://dir.pr.business)
+ - date_published: 2022-04-22T00:00:00+00:00
+
+ ## Online Marketing – Reviews & Listings | PR.Business
+ - [https://pr.business](https://pr.business)
+ - date_published: 2024-05-07T13:46:51.482719+00:00
+
+ ## pr.business (Rev)
+ - [https://rev.pr.business](https://rev.pr.business)
+ - date_published: 2022-04-22T00:00:00+00:00
+
+ ## pr.business (Soc)
+ - [https://soc.pr.business](https://soc.pr.business)
+ - date_published: 2022-04-22T00:00:00+00:00
+
+ ## pr.business (Web)
+ - [https://web.pr.business](https://web.pr.business)
+ - date_published: 2022-04-22T00:00:00+00:00
+
+ ## Adam Wood
+		- Syzygy Business
+ - [https://syzygy.business](https://syzygy.business)
+ - date_published: 2024-06-30T17:20:10+00:00
+
+ ## Buzzy - Idea to app in minutes
+ - [https://www.buzzy.buzz](https://www.buzzy.buzz)
+ - date_published: 2024-06-19T19:54:36.862084+00:00
+
+ ## Huebee
+ - [https://huebee.buzz](https://huebee.buzz)
+ - date_published: 2024-06-12T03:29:49.262892+00:00
+
+ ## Andrew Chou
+ - [https://andrew.nonetoohappy.buzz](https://andrew.nonetoohappy.buzz)
+ - date_published: 2024-05-09T07:47:30.977953+00:00
+
+ ## none too happy
+ - [https://nonetoohappy.buzz](https://nonetoohappy.buzz)
+ - date_published: 2024-07-10T06:23:58.204838+00:00
+
+ ## the Free Movie
+ - [https://thefreemovie.buzz](https://thefreemovie.buzz)
+ - date_published: 2023-10-25T12:03:03.337705+00:00
+
+ ## Time Flies – A game about our limited time in this world.
+ - [https://timeflies.buzz](https://timeflies.buzz)
+ - date_published: 2023-12-20T01:12:51+00:00
+
+ ## Grafika Google
+ - [https://images.google.co.bw](https://images.google.co.bw)
+ - date_published: 2024-07-20T07:36:20.965301+00:00
+
+ ## Google
+ - [https://www.google.co.bw](https://www.google.co.bw)
+ - date_published: 2024-06-21T22:25:47.128173+00:00
+
+ ## Land Rover | Explore Luxury SUVs and 4x4 Vehicles | Land Rover
+ - [https://www.landrover.co.bw](https://www.landrover.co.bw)
+ - date_published: 2024-07-09T17:13:39.778943+00:00
+
+ ## Home | BWCirt
+ - [https://www.cirt.org.bw](https://www.cirt.org.bw)
+ - date_published: 2024-07-01T05:13:42+00:00
+
+ ## Svarichevsky Mikhail
+ - [https://3.14.by](https://3.14.by)
+ - date_published: 2024-01-16T06:21:34.423774+00:00
+
+ ## 185.by Найти адреса, телефоны в Беларуси, справочная информация. Справочник контактов, товаров и услуг, Минск.
+ - [http://www.185.by](http://www.185.by)
+ - date_published: 2024-07-19T16:35:21.644846+00:00
+
+ ## Четверть века государственности Беларуси
+ - [http://25.by](http://25.by)
+ - date_published: 2023-01-05T11:13:29+00:00
+
+ ## Ales Tsurko | Home
+ - [https://alestsurko.by](https://alestsurko.by)
+ - date_published: 2023-10-25T09:02:09.768428+00:00
+ - tags: ['personal']
+
+ ## B2B.BY - желтые страницы Беларуси: справочник, каталог, база данных предприятий, заводов, организаций, компании, фирм, ип, адреса, номера телефонов
+ - [https://www.b2b.by](https://www.b2b.by)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## @baddesigner
+ - [http://baddesigner.by](http://baddesigner.by)
+ - date_published: 2024-07-13T15:55:41.185957+00:00
+
+ ## Музыкальный фестиваль "Большая бард-рыбалка"
+ - [https://bard-rybalka.by](https://bard-rybalka.by)
+ - date_published: 2024-06-28T08:04:48+00:00
+
+ ## Free Lead Magnet Software - eBooks, Workbooks etc - Beacon
+ - [https://beacon.by](https://beacon.by)
+ - date_published: 2024-07-14T20:48:19.396213+00:00
+
+ ## Канал Беларусь 24: новости страны и мира, программа передач
+ - [https://belarus24.by](https://belarus24.by)
+ - date_published: 2024-06-30T03:40:43.972739+00:00
+
+ ## Игровые приставки и видеоигры - купить в Минске консоль | Доставка приставок и игр по всей Беларуси
+ - [http://www.belconsole.by](http://www.belconsole.by)
+ - date_published: 2024-06-17T05:42:10.089583+00:00
+
+ ## Belarus News | Belarusian news | Belarus today | news in Belarus | Minsk news | BELTA
+ - [https://eng.belta.by](https://eng.belta.by)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## БСХ Бытовые Приборы
+ - [https://www.bosch-home.by](https://www.bosch-home.by)
+ - date_published: 2024-05-27T08:46:55+00:00
+
+ ## Официальный дилер Citroën в Беларуси – ПарадАвто
+ - [https://www.citroen.by](https://www.citroen.by)
+ - date_published: 2024-05-08T05:30:20.015900+00:00
+
+ ## CoreHard
+ - [https://corehard.by](https://corehard.by)
+ - date_published: 2024-05-25T09:50:35.254380+00:00
+
  ## Купить Форд новый в Минске | Официальный дилер Атлант-М Боровая в Беларуси
  - [http://www.ford.by](http://www.ford.by)
  - date_published: 2024-06-19T17:00:48.390964+00:00
@@ -5,6 +1252,10 @@
  ## Игровые приставки, игры и аксессуары купить в Минске - gameclub.by
  - [http://gameclub.by](http://gameclub.by)
  - date_published: 2024-06-17T05:41:42.907759+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.by](https://maps.google.by)
+ - date_published: 2024-07-20T07:40:31.401680+00:00
 
  ## Google
  - [https://www.google.by](https://www.google.by)
@@ -29,6 +1280,10 @@
  ## PERI - Опалубка и строительные леса
  - [https://www.peri.by](https://www.peri.by)
  - date_published: 2024-07-01T00:00:00+00:00
+
+ ## pocketbook
+ - [https://company.pocketbook.by](https://company.pocketbook.by)
+ - date_published: 2024-07-20T16:13:21.398506+00:00
 
  ## Что приготовить на ужин, на завтрак, на обед
  - [https://eda.sb.by](https://eda.sb.by)
@@ -115,6 +1370,10 @@
  - date_published: 2024-04-14T18:18:59.553952+00:00
  - tags: ['probably personal', 'weird']
 
+ ## Homepage@staging.stream.dup.bz
+ - [https://staging.stream.dup.bz](https://staging.stream.dup.bz)
+ - date_published: 2024-07-20T14:31:29.404612+00:00
+
  ## Homepage@stream.dup.bz
  - [https://stream.dup.bz](https://stream.dup.bz)
  - date_published: 2024-05-20T02:48:19.758502+00:00
@@ -159,6 +1418,10 @@
  ## Google
  - [https://google.com.bz](https://google.com.bz)
  - date_published: 2024-05-07T15:58:52.542039+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.bz](https://images.google.com.bz)
+ - date_published: 2024-07-20T07:37:47.738185+00:00
 
  ## Visa, a trusted leader in digital payments.
  - [https://visa.com.bz](https://visa.com.bz)
@@ -287,6 +1550,10 @@
  - [https://a39.ca](https://a39.ca)
  - date_published: 2024-05-09T08:14:41.745608+00:00
 
+ ## Home
+ - [https://aasua.ca](https://aasua.ca)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## Canada
  - [https://www.abebooks.ca](https://www.abebooks.ca)
  - date_published: 2024-06-15T02:38:37.698777+00:00
@@ -302,6 +1569,10 @@
  ## Academy of Canadian Cinema and Television
  - [https://www.academy.ca](https://www.academy.ca)
  - date_published: 2024-06-04T00:00:00+00:00
+
+ ## AccelerateOTT | Ottawa’s Premier Entrepreneurship Event
+ - [http://www.accelerateott.ca](http://www.accelerateott.ca)
+ - date_published: 2024-04-15T00:00:00+00:00
 
  ## ACCES Employment - Helping you in your job search.
  - [https://accesemployment.ca](https://accesemployment.ca)
@@ -480,6 +1751,10 @@
  - [https://alsado.ca](https://alsado.ca)
  - date_published: 2023-11-13T20:52:10.674159+00:00
 
+ ## Welcome to Altus Music
+ - [http://www.altusmusic.ca](http://www.altusmusic.ca)
+ - date_published: 2024-05-27T00:00:00+00:00
+
  ## Amanda Jane – Marketing and Accountability Coaching
  - [https://amandajane.ca](https://amandajane.ca)
  - date_published: 2024-06-29T13:13:14.402545+00:00
@@ -654,6 +1929,10 @@
  ## Audible Is #1 In Audiobooks | Try Free Today | Audible.ca
  - [https://www.audible.ca](https://www.audible.ca)
  - date_published: 2024-05-27T07:40:15.668268+00:00
+
+ ## Athabasca University Press - Athabasca University Press
+ - [https://read.aupress.ca](https://read.aupress.ca)
+ - date_published: 2024-05-28T00:00:00+00:00
 
  ## Top 5 Top 5 Toronto Auto Body and Auto Body Contractors for 2020 | AutoBody.ca Plumbers and Plumbing Contractors for 2020 | Autobody.ca
  - [http://www.autobody.ca](http://www.autobody.ca)
@@ -884,7 +2163,7 @@
  - date_published: 2024-04-26T00:00:00+00:00
 
  ## ELIZABETH ADAMS / STUDIO CASSANDRA - Elizabeth Adams Studio Cassandra
- - [http://www.bethadams.ca](http://www.bethadams.ca)
+ - [http://bethadams.ca](http://bethadams.ca)
  - date_published: 2024-05-22T18:24:48.240436+00:00
  - tags: ['personal']
 
@@ -976,6 +2255,10 @@
  - [https://evincarofautumn.blogspot.ca](https://evincarofautumn.blogspot.ca)
  - date_published: 2024-05-08T11:03:51.097414+00:00
 
+ ## The infrequent ramblings of a casual wargamer and hobbyist
+ - [http://fullashtraygaming.blogspot.ca](http://fullashtraygaming.blogspot.ca)
+ - date_published: 2024-07-03T03:13:36+00:00
+
  ## Moneyness
  - [http://jpkoning.blogspot.ca](http://jpkoning.blogspot.ca)
  - date_published: 2024-06-18T23:48:33+00:00
@@ -996,6 +2279,10 @@
  - [http://modernsynthesist.blogspot.ca](http://modernsynthesist.blogspot.ca)
  - date_published: 2024-06-24T02:23:21+00:00
 
+ ## My Life in Millimetres
+ - [http://mylifeinmm.blogspot.ca](http://mylifeinmm.blogspot.ca)
+ - date_published: 2024-03-19T21:28:00+00:00
+
  ## Nerd Ralph
  - [http://nerdralph.blogspot.ca](http://nerdralph.blogspot.ca)
  - date_published: 2024-07-07T13:13:23+00:00
@@ -1015,6 +2302,10 @@
  ## *Reflective Disequilibrium*
  - [https://reflectivedisequilibrium.blogspot.ca](https://reflectivedisequilibrium.blogspot.ca)
  - date_published: 2020-10-15T00:00:00+00:00
+
+ ## The Privates Eternal
+ - [http://theprivateseternal.blogspot.ca](http://theprivateseternal.blogspot.ca)
+ - date_published: 2024-06-29T22:15:34+00:00
 
  ## Thrilling Wonder Artwork
  - [http://thrillingwonderartwork.blogspot.ca](http://thrillingwonderartwork.blogspot.ca)
@@ -1040,6 +2331,10 @@
  - [http://utlinguistics.blogspot.ca](http://utlinguistics.blogspot.ca)
  - date_published: 2024-07-19T07:00:00+00:00
 
+ ## Paint Bard
+ - [http://www.paintbard.blogspot.ca](http://www.paintbard.blogspot.ca)
+ - date_published: 2024-06-03T17:39:04+00:00
+
  ## Pacific Blue Cross - BC's #1 provider of health, dental and travel benefits
  - [https://www.pac.bluecross.ca](https://www.pac.bluecross.ca)
  - date_published: 2024-06-27T13:06:35.742393+00:00
@@ -1057,7 +2352,7 @@
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## BNN Bloomberg - Canadian Business News, TSX Today, interest rates and Bank of Canada coverage
- - [https://www.bnnbloomberg.ca](https://www.bnnbloomberg.ca)
+ - [https://bnnbloomberg.ca](https://bnnbloomberg.ca)
  - date_published: 2023-10-25T12:03:55.221507+00:00
 
  ## Video Production and Creative Agency - Welcome to BNR - Guelph, ON
@@ -1183,6 +2478,10 @@
  ## Bruce Dowbiggin Books
  - [http://brucedowbigginbooks.ca](http://brucedowbigginbooks.ca)
  - date_published: 2024-06-26T22:37:03.858607+00:00
+
+ ## Bruce Durham's Website: Welcome
+ - [http://www.brucedurham.ca](http://www.brucedurham.ca)
+ - date_published: 2024-05-28T21:39:31+00:00
 
  ## Budget Car Rental Canada | Discount car rental
  - [https://www.budget.ca](https://www.budget.ca)
@@ -1341,6 +2640,10 @@
  - [http://captech.ca](http://captech.ca)
  - date_published: 2017-04-11T21:14:10+00:00
 
+ ## Capterra Canada vous aide à trouver le bon logiciel pour votre entreprise
+ - [https://fr.capterra.ca](https://fr.capterra.ca)
+ - date_published: 2024-07-20T19:26:39.650905+00:00
+
  ## Find Software
  - [https://www.capterra.ca](https://www.capterra.ca)
  - date_published: 2024-06-13T06:42:11.073248+00:00
@@ -1450,6 +2753,18 @@
  - [http://www.caterers.ca](http://www.caterers.ca)
  - date_published: 2024-06-29T17:26:18.620505+00:00
 
+ ## Climate Action Coalition at the University of Alberta
+ - [https://caua.ca](https://caua.ca)
+ - date_published: 2024-07-20T15:44:30.046410+00:00
+
+ ## CAUT Bulletin Archives 1995 - 2016
+ - [https://bulletin-archives.caut.ca](https://bulletin-archives.caut.ca)
+ - date_published: 2024-07-20T15:44:43.362844+00:00
+
+ ## CAUT |
+ - [https://www.caut.ca](https://www.caut.ca)
+ - date_published: 2024-07-20T03:31:44+00:00
+
  ## CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
  - [https://cbc.ca](https://cbc.ca)
  - date_published: 2024-06-15T21:05:27.624030+00:00
@@ -1521,6 +2836,10 @@
  ## Home
  - [https://www.charlottetown.ca](https://www.charlottetown.ca)
  - date_published: 2024-07-07T03:37:27.583646+00:00
+
+ ## Charter Challenge for Fair Voting
+ - [https://www.charterchallenge.ca](https://www.charterchallenge.ca)
+ - date_published: 2024-07-16T00:00:00+00:00
 
  ## Chase Payment Solutions | Chase Canada | chase.ca
  - [https://www.chase.ca](https://www.chase.ca)
@@ -1802,7 +3121,7 @@
  - date_published: 2024-05-06T14:49:26.495813+00:00
 
  ## Canada's Marketplace for Education | CourseCompare.ca
- - [https://www.coursecompare.ca](https://www.coursecompare.ca)
+ - [https://coursecompare.ca](https://coursecompare.ca)
  - date_published: 2024-07-16T00:00:00+00:00
 
  ## CPAC.ca
@@ -1969,6 +3288,10 @@
  ## Winnipeg News | CTV News Winnipeg
  - [https://winnipeg.ctvnews.ca](https://winnipeg.ctvnews.ca)
  - date_published: 2023-12-12T09:06:26.016061+00:00
+
+ ## curiouscast.ca
+ - [https://curiouscast.ca](https://curiouscast.ca)
+ - date_published: 2024-07-20T02:48:19.212748+00:00
 
  ## Home - CUSA
  - [https://cusaonline.ca](https://cusaonline.ca)
@@ -2192,6 +3515,10 @@
  - [https://driving.ca](https://driving.ca)
  - date_published: 2023-11-02T22:48:04.515862+00:00
 
+ ## Digital Shape Technologies - Mirror
+ - [http://mirror.dst.ca](http://mirror.dst.ca)
+ - date_published: 2023-12-15T19:41:19+00:00
+
  ## Home ← Dumitru Erhan
  - [http://www.dumitru.ca](http://www.dumitru.ca)
  - date_published: 2024-05-11T05:23:08+00:00
@@ -2335,6 +3662,10 @@
  ## Attention Required! | Cloudflare
  - [https://www.edealer.ca](https://www.edealer.ca)
  - date_published: 2024-06-26T22:36:33.392327+00:00
+
+ ## History, Heritage, Culture | Edmonton Heritage Council
+ - [https://edmontonheritage.ca](https://edmontonheritage.ca)
+ - date_published: 2024-07-20T15:44:28.488990+00:00
 
  ## Edmonton Police Service
  - [http://www.edmontonpolice.ca](http://www.edmontonpolice.ca)
@@ -2485,6 +3816,10 @@
  - [http://www.eventgroup.ca](http://www.eventgroup.ca)
  - date_published: 2024-06-26T22:37:00.100250+00:00
 
+ ## EVENTIM | Buy Original Tickets for Concerts, Sports and More
+ - [https://www.eventim.ca](https://www.eventim.ca)
+ - date_published: 2024-07-20T14:52:29.944046+00:00
+
  ## This is the default server vhost
  - [http://www.eventrentals.ca](http://www.eventrentals.ca)
  - date_published: 2024-06-24T11:23:01+00:00
@@ -2532,6 +3867,10 @@
  ## FAIR Canada
  - [http://faircanada.ca](http://faircanada.ca)
  - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Fair Vote Canada
+ - [https://secure.fairvote.ca](https://secure.fairvote.ca)
+ - date_published: 2024-07-20T12:02:47+00:00
 
  ## Fair Vote Canada - Proportional Representation
  - [https://www.fairvote.ca](https://www.fairvote.ca)
@@ -2686,1361 +4025,4 @@
  ## Cierpliwości...
  - [https://framcon.ca](https://framcon.ca)
  - date_published: 2024-04-30T05:14:35.299862+00:00
-
- ## Homepage
- - [https://www.franklincovey.ca](https://www.franklincovey.ca)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Portal Home - FranTech
- - [https://my.frantech.ca](https://my.frantech.ca)
- - date_published: 2024-05-04T05:50:03.883976+00:00
-
- ## Financial Reporting and Assurance Standards Canada
- - [https://www.frascanada.ca](https://www.frascanada.ca)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Select Language | City of Fredericton
- - [https://fredericton.ca](https://fredericton.ca)
- - date_published: 2024-05-10T02:41:14.415794+00:00
-
- ## Welcome to Opioid, USA
- - [https://www.freedommag.ca](https://www.freedommag.ca)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Hire Freelancers & Find Freelance Jobs Online
- - [https://www.freelancer.ca](https://www.freelancer.ca)
- - date_published: 2024-06-16T12:02:13.386225+00:00
-
- ## Freetrade - Soon launching in Canada
- - [https://freetrade.ca](https://freetrade.ca)
- - date_published: 2023-06-20T00:00:00+00:00
-
- ## Fresh Prep | Meal Kit service delivering to Vancouver and Calgary
- - [https://try.freshprep.ca](https://try.freshprep.ca)
- - date_published: 2024-06-27T13:06:56.723203+00:00
-
- ## friendica – A Decentralized Social Network
- - [https://friendi.ca](https://friendi.ca)
- - date_published: 2024-06-19T22:13:12.469601+00:00
-
- ## froghat.ca
- - [https://froghat.ca](https://froghat.ca)
- - date_published: 2023-10-25T09:02:17.770370+00:00
- - tags: ['personal']
-
- ## FrogHeart | Commentary about nanotech, science policy and communication, society, and the arts
- - [https://frogheart.ca](https://frogheart.ca)
- - date_published: 2024-05-11T07:52:34.040651+00:00
-
- ## Home
- - [https://www.fslabs.ca](https://www.fslabs.ca)
- - date_published: 2024-03-13T11:24:16+00:00
-
- ## Financial Services Regulatory Authority of Ontario | FSRA | Financial Services Regulatory Authority of Ontario
- - [https://www.fsrao.ca](https://www.fsrao.ca)
- - date_published: 2024-06-16T06:19:41+00:00
-
- ## Home
- - [https://www.fulbright.ca](https://www.fulbright.ca)
- - date_published: 2024-07-14T05:11:53.844102+00:00
-
- ## Fund Our Health Care
- - [http://www.fundhealthcare.ca](http://www.fundhealthcare.ca)
- - date_published: 2024-07-08T16:52:44.200065+00:00
-
- ## Funerals in Canada, Canada
- - [http://www.funerals.ca](http://www.funerals.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Furius Enterprises
- - [http://furius.ca](http://furius.ca)
- - date_published: 2021-10-23T18:38:30+00:00
- - tags: ['personal']
-
- ## Find businesses and services in Canada
- - [https://www.fyple.ca](https://www.fyple.ca)
- - date_published: 2024-06-29T18:25:40.904229+00:00
-
- ## Tim Gadanidis - Home
- - [https://gadanidis.ca](https://gadanidis.ca)
- - date_published: 2023-10-25T08:42:54.581662+00:00
- - tags: ['personal']
-
- ## NGC Audio Tours | MBAC Visites Audio
- - [https://digital.gallery.ca](https://digital.gallery.ca)
- - date_published: 2024-07-19T22:13:48.235685+00:00
-
- ## National Gallery of Canada
- - [https://gallery.ca](https://gallery.ca)
- - date_published: 2023-11-13T13:45:23.318113+00:00
- - tags: ['museum']
-
- ## GameStop | The largest video game retailer in Canada. Play. Trade. Save.  - GameStop.ca
- - [https://gamestop.ca](https://gamestop.ca)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Kahnawà:ke Gaming Commission
- - [https://www.gamingcommission.ca](https://www.gamingcommission.ca)
- - date_published: 2024-07-03T12:48:22.494784+00:00
-
- ## This is the default server vhost
- - [http://www.garagedoors.ca](http://www.garagedoors.ca)
- - date_published: 2024-06-24T11:23:01+00:00
-
- ## Garageland a book by Andrew Campbell
- - [https://garageland.ca](https://garageland.ca)
- - date_published: 2017-09-30T00:00:00+00:00
-
- ## Accueil
- - [https://www.gatineau.ca](https://www.gatineau.ca)
- - date_published: 2024-07-10T05:29:52.784558+00:00
-
- ## Home
- - [http://www.gbcicanada.ca](http://www.gbcicanada.ca)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Garett Brown
- - [https://gbrown.ca](https://gbrown.ca)
- - date_published: 2024-05-04T15:44:38.983462+00:00
-
- ## Ottawa Gee-Gees
- - [https://teams.geegees.ca](https://teams.geegees.ca)
- - date_published: 2024-04-30T05:28:13.660472+00:00
-
- ## Homepage - GenomeCanada
- - [https://www.genomecanada.ca](https://www.genomecanada.ca)
- - date_published: 2024-07-10T11:37:42.790739+00:00
-
- ## George Brown College - georgebrown.ca
- - [https://www.georgebrown.ca](https://www.georgebrown.ca)
- - date_published: 2021-03-19T15:16:54+00:00
-
- ## George W.J. Laidlaw - Index Page
- - [http://georgelaidlaw.ca](http://georgelaidlaw.ca)
- - date_published: 2019-09-08T19:31:21+00:00
-
- ## Canada - Seed World
- - [https://germination.ca](https://germination.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Royalty-Free Stock Photos, Creative Images & Vectors | News, Fashion, and Entertainment imagery - Getty Images
- - [https://www.gettyimages.ca](https://www.gettyimages.ca)
- - date_published: 2024-06-20T01:48:50.997991+00:00
-
- ## One Page Resume
- - [https://gianlu.ca](https://gianlu.ca)
- - date_published: 2023-12-02T06:15:14+00:00
-
- ## Gilead Sciences
- - [https://www.gilead.ca](https://www.gilead.ca)
- - date_published: 2024-07-02T04:08:12.955063+00:00
-
- ## Home - Glacier Media
- - [https://glaciermedia.ca](https://glaciermedia.ca)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Glass in Canada, Canada
- - [http://www.glass.ca](http://www.glass.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Glassdoor | Job Search and Career Community
- - [https://www.glassdoor.ca](https://www.glassdoor.ca)
- - date_published: 2024-06-16T12:57:59.782418+00:00
-
- ## Home
- - [https://globalfest.ca](https://globalfest.ca)
- - date_published: 2024-06-17T07:09:30+00:00
-
- ## Global News | Breaking, Latest News and Video for Canada
- - [https://globalnews.ca](https://globalnews.ca)
- - date_published: 2023-10-25T10:36:35.873873+00:00
-
- ## Home - Global ResearchGlobal Research - Centre for Research on Globalization
- - [https://www.globalresearch.ca](https://www.globalresearch.ca)
- - date_published: 2023-10-25T12:05:13.017051+00:00
-
- ## CFEE Classroom Edition
- - [http://globeclassroom.ca](http://globeclassroom.ca)
- - date_published: 2024-05-06T16:48:40.240746+00:00
-
- ## Home
- - [https://globelink.ca](https://globelink.ca)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Home
- - [http://www.globelink.ca](http://www.globelink.ca)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home
- - [https://globemediagroup.ca](https://globemediagroup.ca)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## General Motors Canada: Pushing the Limits of Transportation & Technology
- - [http://www.gm.ca](http://www.gm.ca)
- - date_published: 2024-06-18T13:57:53+00:00
-
- ## GM Envolve Canada: Transforming How Business is Done
- - [https://www.gmenvolve.ca](https://www.gmenvolve.ca)
- - date_published: 2024-06-20T07:44:57.126535+00:00
-
- ## Home
- - [https://www.gmfinancial.ca](https://www.gmfinancial.ca)
- - date_published: 2024-06-14T02:56:30+00:00
-
- ## Guided Tours & Group Travel Tours | EF Go Ahead Tours
- - [https://www.goaheadtours.ca](https://www.goaheadtours.ca)
- - date_published: 2024-06-18T06:47:19.293959+00:00
-
- ## Golf Canada
- - [https://ch.golfcanada.ca](https://ch.golfcanada.ca)
- - date_published: 2024-07-09T19:05:38.313363+00:00
-
- ## Home – Good Food Link - Good Food Link
- - [https://goodfoodlink.ca](https://goodfoodlink.ca)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Google Books
- - [https://books.google.ca](https://books.google.ca)
- - date_published: 2024-05-09T09:11:56.709627+00:00
-
- ## Google
- - [https://google.ca](https://google.ca)
- - date_published: 2024-05-09T03:50:47.157676+00:00
-
- ## Zanim przejdziesz do Map Google
- - [http://maps.google.ca](http://maps.google.ca)
- - date_published: 2024-06-17T10:57:54.928418+00:00
-
- ## Google Scholar
- - [https://scholar.google.ca](https://scholar.google.ca)
- - date_published: 2024-04-30T05:11:39.221331+00:00
-
- ## Before you continue
- - [https://translate.google.ca](https://translate.google.ca)
- - date_published: 2024-05-09T02:33:53.713226+00:00
-
- ## Go Ravens - Carleton University
- - [https://goravens.ca](https://goravens.ca)
- - date_published: 2024-07-08T16:37:09.290588+00:00
-
- ## GotW.ca Home Page
- - [http://www.gotw.ca](http://www.gotw.ca)
- - date_published: 2023-10-25T08:42:56.028814+00:00
- - tags: ['personal']
-
- ## Gradescope | Save time grading
- - [https://www.gradescope.ca](https://www.gradescope.ca)
- - date_published: 2024-07-02T17:57:02.151187+00:00
-
- ## Grainger Canada
- - [https://catalogue.grainger.ca](https://catalogue.grainger.ca)
- - date_published: 2024-06-20T12:11:12.863162+00:00
-
- ## Grainger-Canada: Industrial Supply, Safety Equipment and Fasteners
-		
-		
-	
-
- - Grainger, Canada
- - [https://www.grainger.ca](https://www.grainger.ca)
- - date_published: 2024-05-04T08:42:48.913807+00:00
-
- ## Grainger Canada - Request Our Catalogue
- - [https://graingerresources.ca](https://graingerresources.ca)
- - date_published: 2024-06-20T12:11:14.152270+00:00
-
- ## Grant Thornton LLP Canada
- - [https://www.grantthornton.ca](https://www.grantthornton.ca)
- - date_published: 2024-06-16T09:49:46.621345+00:00
-
- ## Home | Granville Island Brewing
- - [https://www.granvilleislandbrewing.ca](https://www.granvilleislandbrewing.ca)
- - date_published: 2024-06-27T13:06:59.696565+00:00
-
- ## Website Design, Development & Ecommerce Services Agency in Vancouver
- - [http://www.graphicallyspeaking.ca](http://www.graphicallyspeaking.ca)
- - date_published: 2024-07-03T12:39:38.071730+00:00
-
- ## Guarded Thoughts
- - [https://blog.grappling.ca](https://blog.grappling.ca)
- - date_published: 2023-11-11T00:00:00+00:00
-
- ## Building 21st-century health care in the heart of the nation’s capital
- - [http://greatertogether.ca](http://greatertogether.ca)
- - date_published: 2024-01-12T06:16:39+00:00
-
- ## Home | Great Place to Work® Canada
- - [https://www.greatplacetowork.ca](https://www.greatplacetowork.ca)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## HOME - Great West Media
- - [https://www.greatwest.ca](https://www.greatwest.ca)
- - date_published: 2024-04-28T05:09:54.916751+00:00
-
- ## GreenGeeks: Web Hosting Canada - Fast, Scalable & Eco-friendly
- - [https://www.greengeeks.ca](https://www.greengeeks.ca)
- - date_published: 2024-06-27T14:25:29.576937+00:00
-
- ## Gregory Hammond — Websites, accessibility & more
- - [https://gregoryhammond.ca](https://gregoryhammond.ca)
- - date_published: 2024-06-18T12:42:59.748413+00:00
-
- ## Gregory Schmidt
- - [https://www.gregoryschmidt.ca](https://www.gregoryschmidt.ca)
- - date_published: 2024-07-16T12:43:50.322187+00:00
-
- ## GrUVi - Home
- - [https://gruvi.ca](https://gruvi.ca)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Guanzhong Chen
- - [https://guanzhong.ca](https://guanzhong.ca)
- - date_published: 2024-04-30T05:02:02.973203+00:00
-
- ## Welcome | GuidedBy
- - [https://guidedby.ca](https://guidedby.ca)
- - date_published: 2024-05-06T21:30:00.390266+00:00
-
- ## cat /dev/brain
- - [https://www.gybe.ca](https://www.gybe.ca)
- - date_published: 2023-12-04T09:28:03.340314+00:00
-
- ## Hack The Ridge
- - [https://hacktheridge.ca](https://hacktheridge.ca)
- - date_published: 2023-12-09T14:41:15+00:00
-
- ## Hagerty Canada | Classic Car Valuation & Insurance | Club for Car Enthusiasts
- - [https://www.hagerty.ca](https://www.hagerty.ca)
- - date_published: 2024-05-04T09:14:59.537703+00:00
-
- ## Hagerty Broker Business Centre
- - [https://www.hagertybroker.ca](https://www.hagertybroker.ca)
- - date_published: 2024-06-20T15:51:21.440455+00:00
-
- ## Council of the Haida Nation
- - [http://www.haidanation.ca](http://www.haidanation.ca)
- - date_published: 2024-07-09T12:57:20.951326+00:00
-
- ## Hairremoval in Canada, Canada
- - [http://www.hairremoval.ca](http://www.hairremoval.ca)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Hairtransplants in Canada, Canada
- - [http://www.hairtransplants.ca](http://www.hairtransplants.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Ham Radio Outside the Box
- - [https://hamradiooutsidethebox.ca](https://hamradiooutsidethebox.ca)
- - date_published: 2024-06-28T10:30:25+00:00
-
- ## Top 5 Top 5 Toronto HandyMan for 2020 | HandyMan.ca Plumbers and Plumbing Contractors for 2020 | HandyMan.ca
- - [http://www.handyman.ca](http://www.handyman.ca)
- - date_published: 2024-06-29T17:34:24.969252+00:00
-
- ## Hannah Lee
- - [https://hannahlee.ca](https://hannahlee.ca)
- - date_published: 2024-07-10T05:31:46.133361+00:00
-
- ## Happily Ever Esther Farm Sanctuary
- - [https://www.happilyeveresther.ca](https://www.happilyeveresther.ca)
- - date_published: 2024-06-20T12:56:57.577739+00:00
-
- ## Home of the Harbecks
- - [http://www.harbeck.ca](http://www.harbeck.ca)
- - date_published: 2024-04-29T03:19:13.991943+00:00
-
- ## Home - HarperCollins Canada
- - [http://www.harpercollins.ca](http://www.harpercollins.ca)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home Page | Hart House
- - [https://harthouse.ca](https://harthouse.ca)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## hashman.ca :: home
- - [https://hashman.ca](https://hashman.ca)
- - date_published: 2024-01-26T03:12:47+00:00
-
- ## HawkHacks 2024
- - [https://hawkhacks.ca](https://hawkhacks.ca)
- - date_published: 2024-06-03T21:58:28+00:00
-
- ## HBC Heritage — Home
- - [https://www.hbcheritage.ca](https://www.hbcheritage.ca)
- - date_published: 2024-06-14T14:35:21.132580+00:00
-
- ## Healing the Body
- - [https://healingthebody.ca](https://healingthebody.ca)
- - date_published: 2024-07-03T18:46:41.879077+00:00
-
- ## Healthier Wealthier Smater -
- - [http://healthierwealthiersmarter.ca](http://healthierwealthiersmarter.ca)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Healthing - Advertise with Us
- - [http://business.healthing.ca](http://business.healthing.ca)
- - date_published: 2024-06-14T19:09:39+00:00
-
- ## Healthing.ca
- - [https://www.healthing.ca](https://www.healthing.ca)
- - date_published: 2024-05-06T21:31:11.747212+00:00
-
- ## Home Page - Healthy Debate
- - [https://healthydebate.ca](https://healthydebate.ca)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## index
- - [http://hearsum.ca](http://hearsum.ca)
- - date_published: 2015-01-26T16:07:05+00:00
-
- ## Chaire de commerce Omer DeSerres – Un site utilisant WordPress
- - [https://chaireomerdesserres.hec.ca](https://chaireomerdesserres.hec.ca)
- - date_published: 2024-04-30T05:55:32.432328+00:00
-
- ## Home | Heiltsuknation
- - [https://www.heiltsuknation.ca](https://www.heiltsuknation.ca)
- - date_published: 2024-07-09T12:57:28.496727+00:00
-
- ## %%sitename%%
- - [https://blog.hellofresh.ca](https://blog.hellofresh.ca)
- - date_published: 2024-06-18T17:36:24.821246+00:00
-
- ## HelloFresh®: Free Breakfast Item For Life + $140 Off
- - [https://www.hellofresh.ca](https://www.hellofresh.ca)
- - date_published: 2024-05-02T13:59:58.514477+00:00
-
- ## Paul Henman
- - [https://henman.ca](https://henman.ca)
- - date_published: 2023-12-12T04:55:06.206081+00:00
- - tags: ['personal']
-
- ## Network visualization of 50k blogs and links
- - [https://graph.henryn.ca](https://graph.henryn.ca)
- - date_published: 2024-04-23T19:33:21+00:00
-
- ## Henry Nguyen's Website
- - [https://henryn.ca](https://henryn.ca)
- - date_published: 2024-04-24T08:33:58+00:00
- - tags: ['personal']
-
- ## time2reach
- - [https://map.henryn.ca](https://map.henryn.ca)
- - date_published: 2024-05-02T13:45:47.956333+00:00
-
- ## Simple Analytics
- - [https://sa.henryn.ca](https://sa.henryn.ca)
- - date_published: 2020-01-10T12:35:14+00:00
-
- ## Herbaland Naturals | Canada's Largest Nutritional Gummy Producer
- - [https://www.herbaland.ca](https://www.herbaland.ca)
- - date_published: 2024-06-27T13:06:40.193523+00:00
-
- ## Heritage Park Homepage | Heritage Park
- - [https://www.heritagepark.ca](https://www.heritagepark.ca)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Technoculture, Art and Games | TAG
- - [https://tag.hexagram.ca](https://tag.hexagram.ca)
- - date_published: 2024-05-09T05:25:21.302814+00:00
-
- ## Home - Highgo Software Inc.
- - [https://www.highgo.ca](https://www.highgo.ca)
- - date_published: 2023-12-18T21:53:17.162282+00:00
-
- ## Power Tools, Fasteners and Software for Construction - Hilti Canada
- - [https://www.hilti.ca](https://www.hilti.ca)
- - date_published: 2024-06-20T07:26:45.516667+00:00
-
- - [https://hirad.ca](https://hirad.ca)
- - date_published: 2023-12-27T18:12:30.676212+00:00
- - tags: ['personal']
-
- ## Hired - Job Search Marketplace. Tech Job Hunting Simplified!
- - [https://hired.ca](https://hired.ca)
- - date_published: 2024-05-07T22:57:35.742248+00:00
-
- ## Over 300 Learning Tools for Educators | Historica Canada Education Portal
- - [http://education.historicacanada.ca](http://education.historicacanada.ca)
- - date_published: 2024-06-21T02:37:17.234947+00:00
-
- ## Hollyhock | Cortes Island Retreat Centre | Cortes Island Learning & Retreat Centre
- - [https://hollyhock.ca](https://hollyhock.ca)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Holodomor Research and Education Consortium - HREC
- - [https://holodomor.ca](https://holodomor.ca)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Under Construction
- - [http://www.hologic.ca](http://www.hologic.ca)
- - date_published: 2024-06-06T14:48:41+00:00
-
- ## Homecare in Canada, Canada
- - [http://www.homecare.ca](http://www.homecare.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Top 5 Top 5 Toronto Home Inspection Contractors for 2020 | HomeInspection.ca Plumbers and Plumbing Contractors for 2020 | HomeInspection.ca
- - [http://www.homeinspection.ca](http://www.homeinspection.ca)
- - date_published: 2024-06-29T17:34:34.127992+00:00
-
- ## Homes For Heroes |
- - [https://homesforheroesfoundation.ca](https://homesforheroesfoundation.ca)
- - date_published: 2024-05-06T20:02:15.098299+00:00
-
- ## HOME En - HOP TECH
- - [https://hoptech.ca](https://hoptech.ca)
- - date_published: 2024-04-29T04:46:24.920472+00:00
-
- ## Web Hosting and domain name, from only for 1.99€ | Hostico
- - [https://hostico.ca](https://hostico.ca)
- - date_published: 2024-06-16T14:57:20.816580+00:00
-
- ## Best Canadian Web Hosting with 24/7 Support - HostUpon.ca
- - [https://hostupon.ca](https://hostupon.ca)
- - date_published: 2024-06-17T01:14:38.881041+00:00
-
- ## Hotfrog - Get found online
- - [https://www.hotfrog.ca](https://www.hotfrog.ca)
- - date_published: 2024-06-29T16:51:45.783044+00:00
-
- ## Hot Tubs in Toronto, the GTA & Across Canada | Hottubs.ca by N49
- - [http://www.hottubs.ca](http://www.hottubs.ca)
- - date_published: 2024-06-29T17:38:09.062211+00:00
-
- ## House of Macadamias - Canada
- - [https://houseofmacadamias.ca](https://houseofmacadamias.ca)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Hulse, Playfair & McGarry - Funeral Home & Cremation Services Ottawa
- - [https://www.hpmcgarry.ca](https://www.hpmcgarry.ca)
- - date_published: 2024-05-22T02:38:13.072122+00:00
-
- ## The Hamilton Spectator
- - [https://hsoffers.ca](https://hsoffers.ca)
- - date_published: 2024-05-06T14:30:46.264842+00:00
-
- ## HuffPost - Breaking News, U.S. and World News
- - [https://quebec.huffingtonpost.ca](https://quebec.huffingtonpost.ca)
- - date_published: 2024-05-02T11:55:09.138390+00:00
-
- ## HuffPost - Breaking News, U.S. and World News
- - [https://www.huffingtonpost.ca](https://www.huffingtonpost.ca)
- - date_published: 2024-05-02T11:55:26.888835+00:00
-
- ## Tristan's Site - Tristan Hume
- - [http://tristan.hume.ca](http://tristan.hume.ca)
- - date_published: 2024-04-30T05:16:16.097320+00:00
-
- ## Chemical-Free & Salt-Free Water Treatment Solutions | HydroFLOW Canada
- - [https://www.hydroflow.ca](https://www.hydroflow.ca)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## hypatia dot ca – Leigh Honeywell's Blog
- - [https://hypatia.ca](https://hypatia.ca)
- - date_published: 2023-10-25T09:25:27.291271+00:00
- - tags: ['personal']
-
- ## ..........
- - [http://www.hyperinfo.ca](http://www.hyperinfo.ca)
- - date_published: 2024-07-04T14:19:58.753803+00:00
-
- ## Iain M Campbell
- - [http://iainmc.ca](http://iainmc.ca)
- - date_published: 2021-03-07T21:34:14+00:00
-
- ## Ibraheem Ahmed
- - [https://ibraheem.ca](https://ibraheem.ca)
- - date_published: 2023-10-25T08:42:56.661128+00:00
- - tags: ['personal']
-
- ## Domain Names | Dncanada Inc.
- - [http://icehuts.ca](http://icehuts.ca)
- - date_published: 2024-05-29T20:59:17.019602+00:00
-
- ## Money Transfer to India from Canada | Financial Services | Business Banking - ICICI Bank Canada
- - [https://www.icicibank.ca](https://www.icicibank.ca)
- - date_published: 2024-06-15T15:55:34+00:00
-
- ## Homepage
- - [https://www.ictc-ctic.ca](https://www.ictc-ctic.ca)
- - date_published: 2024-01-16T18:42:26+00:00
-
- ## Welcome - Identi.ca
- - [https://identi.ca](https://identi.ca)
- - date_published: 2024-04-30T05:44:44.767731+00:00
-
- ## IDRC - International Development Research Centre
- - [https://www.idrc.ca](https://www.idrc.ca)
- - date_published: 2024-07-03T08:58:33+00:00
-
- ## IDRC - International Development Research Centre
- - [https://idrc-crdi.ca](https://idrc-crdi.ca)
- - date_published: 2024-06-12T12:33:50.045959+00:00
-
- ## IEEE Toronto Metropolitan University Student Branch – Empower students by bridging the gap between industry and academia
- - [https://ieeetorontomu.ca](https://ieeetorontomu.ca)
- - date_published: 2024-04-30T05:17:28.170005+00:00
-
- ## Financial Planning & Advisor Services
- - [https://www.ig.ca](https://www.ig.ca)
- - date_published: 2024-06-15T02:00:21+00:00
-
- ## iGaming Ontario Homepage
- - [https://igamingontario.ca](https://igamingontario.ca)
- - date_published: 2022-03-04T19:15:53+00:00
-
- ## Chris Ilias
- - [https://ilias.ca](https://ilias.ca)
- - date_published: 2023-09-30T03:20:51+00:00
-
- ## Homepage | Imagine Canada
- - [https://www.imaginecanada.ca](https://www.imaginecanada.ca)
- - date_published: 2024-07-03T02:40:29.285582+00:00
-
- ## Impact Ethics
- - [https://impactethics.ca](https://impactethics.ca)
- - date_published: 2024-04-28T01:54:30.594688+00:00
-
- ## Improv College: Your online improv school!
- - [https://improvcollege.ca](https://improvcollege.ca)
- - date_published: 2024-06-22T19:58:46.361544+00:00
-
- ## iNaturalist Canada
- - [https://inaturalist.ca](https://inaturalist.ca)
- - date_published: 2024-05-04T09:16:08.604626+00:00
-
- ## Welcome to The Inclusive Design Guide | The Inclusive Design Guide The Inclusive Design Guide
- - [https://guide.inclusivedesign.ca](https://guide.inclusivedesign.ca)
- - date_published: 2024-06-15T16:30:18.645647+00:00
-
- ## Inclusive Design Institute
- - [https://inclusivedesign.ca](https://inclusivedesign.ca)
- - date_published: 2024-03-25T17:37:56+00:00
-
- ## conference.Indexers.ca – Annual conference of Canada's professional society of indexers
- - [https://conference.indexers.ca](https://conference.indexers.ca)
- - date_published: 2024-07-14T19:06:37.499967+00:00
-
- ## indi.ca
- - [https://indi.ca](https://indi.ca)
- - date_published: 2024-07-10T08:45:38.649909+00:00
-
- ## Find Books You Love from Local Canadian Bookstores
- - [https://indiebookstores.ca](https://indiebookstores.ca)
- - date_published: 2024-05-07T09:48:41.100378+00:00
-
- ## indigo cx program
- - [https://en.feedback.indigo.ca](https://en.feedback.indigo.ca)
- - date_published: 2024-06-30T07:14:13.390976+00:00
-
- ## Support Home Page
- - [https://help.indigo.ca](https://help.indigo.ca)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Indigo - Chapters - Coles | Canada's Biggest Bookstore
- - [https://www.chapters.indigo.ca](https://www.chapters.indigo.ca)
- - date_published: 2024-06-18T12:55:07.712220+00:00
-
- ## Indigo - Chapters - Coles | Canada's Biggest Bookstore
- - [https://indigo.ca](https://indigo.ca)
- - date_published: 2024-05-07T15:43:22.753534+00:00
-
- ## Indigo Portal
- - [https://assets.indigoimages.ca](https://assets.indigoimages.ca)
- - date_published: 2024-06-30T07:14:16.564602+00:00
-
- ## Implementing New Knowledge Environments (INKE) Partnership | A Canadian Social Knowledge Institute research partnership
- - [https://inke.ca](https://inke.ca)
- - date_published: 2024-07-11T13:08:10.219122+00:00
-
- ## Research Facilities Navigator
- - [https://navigator.innovation.ca](https://navigator.innovation.ca)
- - date_published: 2024-07-06T23:31:34+00:00
-
- ## Home | Canada Foundation for Innovation
- - [https://www.innovation.ca](https://www.innovation.ca)
- - date_published: 2024-07-10T10:45:15+00:00
-
- ## Accueil
- - [https://inrs.ca](https://inrs.ca)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Inside the Perimeter - News, Videos and More from Perimeter Institute
- - [https://insidetheperimeter.ca](https://insidetheperimeter.ca)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Institut climatique du Canada: Changement climatique Canada
- - [https://institutclimatique.ca](https://institutclimatique.ca)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Insulation in Canada, Canada
- - [http://www.insulation.ca](http://www.insulation.ca)
- - date_published: 2024-06-29T17:26:14.517068+00:00
-
- ## Intact Insurance | Insurance quote for car, home, business and more
- - [https://www.intact.ca](https://www.intact.ca)
- - date_published: 2024-07-11T17:16:05.776002+00:00
-
- ## IntegrityCounts
- - [https://www.integritycounts.ca](https://www.integritycounts.ca)
- - date_published: 2024-05-04T10:05:01.145210+00:00
-
- ## Intel | Data Center Solutions, IoT, and PC Innovation
- - [https://intel.ca](https://intel.ca)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Home
- - [https://www.interac.ca](https://www.interac.ca)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Home | Interactive Brokers Canada Inc.
- - [https://www.interactivebrokers.ca](https://www.interactivebrokers.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Interrupt Labs
- - [https://interruptlabs.ca](https://interruptlabs.ca)
- - date_published: 2023-10-25T12:05:15.572215+00:00
-
- ## Flashing Palely in the Margins
- - [https://www.inthemargins.ca](https://www.inthemargins.ca)
- - date_published: 2024-04-03T12:44:39.135509+00:00
- - tags: ['personal']
-
- ## TurboImpôt Canada 2023-2024 : Le logiciel de préparation d’impôt le plus vendu au pays | Faites vos impôts en ligne
- - [https://turboimpot.intuit.ca](https://turboimpot.intuit.ca)
- - date_published: 2024-06-16T11:12:35.947721+00:00
-
- ## TurboTax® Canada 2023-2024: : Best Tax Software | File now
- - [https://turbotax.intuit.ca](https://turbotax.intuit.ca)
- - date_published: 2024-05-31T20:09:17.868822+00:00
-
- ## Invitations in Canada, Canada
- - [http://www.invitations.ca](http://www.invitations.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## iPhone in Canada - Leading Tech News for Canadians
- - [https://www.iphoneincanada.ca](https://www.iphoneincanada.ca)
- - date_published: 2022-07-31T19:31:30+00:00
-
- ## Islandora Open-Source Digital Asset Management
- - [http://islandora.ca](http://islandora.ca)
- - date_published: 2023-11-01T00:00:00+00:00
-
- ## Home | Islandora 2 Starter Site
- - [https://sandbox.islandora.ca](https://sandbox.islandora.ca)
- - date_published: 2024-06-19T22:11:30.642108+00:00
-
- ## Islandora Open-Source Digital Asset Management
- - [https://www.islandora.ca](https://www.islandora.ca)
- - date_published: 2023-11-01T00:00:00+00:00
-
- ## Italian Recipes, Pasta, Pizza, Lasagna, Food, Cooking!
- - [https://www.italiancook.ca](https://www.italiancook.ca)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## iter.ca
- - [https://iter.ca](https://iter.ca)
- - date_published: 2024-01-21T00:00:00+00:00
-
- ## Ivan Reese
- - [https://ivanish.ca](https://ivanish.ca)
- - date_published: 2023-10-25T08:42:57.754586+00:00
- - tags: ['personal']
-
- ## Bezprzewodowe słuchawki i zestawy słuchawkowe | Zestawy słuchawkowe do centrów kontaktowych i biur | Słuchawki sportowe
- - [https://www.jabra.ca](https://www.jabra.ca)
- - date_published: 2024-06-23T06:17:26.891719+00:00
-
- ## Jake Bruce
- - [https://jakebruce.ca](https://jakebruce.ca)
- - date_published: 2023-03-03T12:11:45+00:00
-
- ## JAMHacks 8
- - [https://www.jamhacks.ca](https://www.jamhacks.ca)
- - date_published: 2024-06-20T15:19:35.966992+00:00
-
- ## Jason Shew
- - [https://jasonshew.ca](https://jasonshew.ca)
- - date_published: 2023-12-09T10:38:16.871758+00:00
- - tags: ['personal']
-
- ## The jbrains Experience
- - [https://experience.jbrains.ca](https://experience.jbrains.ca)
- - date_published: 2024-06-22T09:16:45.495866+00:00
-
- ## jbrains.ca
- - [https://www.jbrains.ca](https://www.jbrains.ca)
- - date_published: 2024-06-22T09:17:17.181061+00:00
-
- ## Jeep Off-Road Vehicles | Jeep Canada
- - [https://www.jeep.ca](https://www.jeep.ca)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Author Jenn Ashton
- - [https://jenniferashton.ca](https://jenniferashton.ca)
- - date_published: 2023-12-20T19:14:23.669927+00:00
- - tags: ['personal']
-
- ## Jennifer Cook, Author
- - [http://jennifercook.ca](http://jennifercook.ca)
- - date_published: 2020-06-09T13:27:28+00:00
-
- ## Jeremy Shields – Dreamer & Winnipegger.
- - [https://jeremyshields.ca](https://jeremyshields.ca)
- - date_published: 2024-05-10T06:29:38.718742+00:00
- - tags: ['personal']
-
- ## Jetco Contracting
- - [https://jetcoinc.ca](https://jetcoinc.ca)
- - date_published: 2024-07-11T17:20:11.097395+00:00
-
- ## Jetpack Interactive
- - [https://jetpackinteractive.ca](https://jetpackinteractive.ca)
- - date_published: 2024-05-09T08:37:38.007404+00:00
-
- ## J.G. Ballard
- - [http://www.jgballard.ca](http://www.jgballard.ca)
- - date_published: 2016-01-31T16:59:25+00:00
-
- ## Home - Journalists for Human Rights (JHR)
- - [https://jhr.ca](https://jhr.ca)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Corrections Leadership – Your path for leadership development
- - [https://corrleader.jibc.ca](https://corrleader.jibc.ca)
- - date_published: 2024-07-04T09:42:49.321712+00:00
-
- ## Explore JIBC Justice & Public Safety Programs | JIBC
- - [http://jibc.ca](http://jibc.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Prosenjit K. Bose
- - [http://jitbose.ca](http://jitbose.ca)
- - date_published: 2021-09-07T01:38:23+00:00
-
- ## Jean-Marc Valin
- - [https://jmvalin.ca](https://jmvalin.ca)
- - date_published: 2024-05-08T10:31:39.445565+00:00
-
- ## John Carter of Mars Official Site from Edgar Rice Burroughs, Inc., Tarzana, California
- - [http://johncarterofmars.ca](http://johncarterofmars.ca)
- - date_published: 2014-10-20T17:46:50+00:00
-
- ## John Carter of Mars Official Site from Edgar Rice Burroughs, Inc., Tarzana, California
- - [https://www.johncarterofmars.ca](https://www.johncarterofmars.ca)
- - date_published: 2014-10-20T17:46:50+00:00
-
- ## John Smiley
- - [https://johnsmiley.ca](https://johnsmiley.ca)
- - date_published: 2023-11-29T15:46:05.134496+00:00
-
- ## JonLuca’s Blog | JonLuca’s Blog - A blog about tech, programming, and finance
- - [https://blog.jonlu.ca](https://blog.jonlu.ca)
- - date_published: 2023-10-25T12:05:18.268067+00:00
-
- ## WordPress.com
- - [http://jonpeirce.ca](http://jonpeirce.ca)
- - date_published: 2024-07-09T09:52:58.160002+00:00
-
- ## Artwork : Joy Ang
- - [http://www.joyang.ca](http://www.joyang.ca)
- - date_published: 2024-07-14T16:50:55.292227+00:00
-
- ## Jerry Proc's Family of Web Pages
- - [https://jproc.ca](https://jproc.ca)
- - date_published: 2024-04-03T16:14:03+00:00
- - tags: ['personal']
-
- ## James Hawley
- - [https://jrhawley.ca](https://jrhawley.ca)
- - date_published: 2023-10-25T08:42:58.953735+00:00
- - tags: ['personal']
-
- ## Julius Davies
- - [http://juliusdavies.ca](http://juliusdavies.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## this is my blog
- - [https://blog.jurgen.ca](https://blog.jurgen.ca)
- - date_published: 2024-05-06T14:14:47.732618+00:00
-
- ## Welcome to Just Food! - Just Food
- - [https://justfood.ca](https://justfood.ca)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## https://justinjackson.ca
- - [https://justinjackson.ca](https://justinjackson.ca)
- - date_published: 2023-10-25T09:02:24.126240+00:00
- - tags: ['personal']
-
- ## a simple DNS lookup tool
- - [https://dns-lookup.jvns.ca](https://dns-lookup.jvns.ca)
- - date_published: 2024-05-07T14:33:07.338084+00:00
-
- ## julia's drawings
- - [https://drawings.jvns.ca](https://drawings.jvns.ca)
- - date_published: 2024-06-19T22:50:21.582415+00:00
-
- ## Julia Evans
- - [https://jvns.ca](https://jvns.ca)
- - date_published: 2023-10-25T09:02:41.915700+00:00
- - tags: ['personal']
-
- ## Mastodon
- - [https://social.jvns.ca](https://social.jvns.ca)
- - date_published: 2023-12-22T05:12:37.826236+00:00
-
- ## Kaspersky Cyber Security Solutions for Home & Business  | Kaspersky
- - [https://www.kaspersky.ca](https://www.kaspersky.ca)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Kathy Clark, Author
- - [http://kathyclark.ca](http://kathyclark.ca)
- - date_published: 2024-07-09T09:52:42.119068+00:00
-
- ## Official KEEN® Site – Consciously Created Footwear for a Better Planet | KEEN Footwear Canada
- - [https://www.keenfootwear.ca](https://www.keenfootwear.ca)
- - date_published: 2024-07-14T12:10:54.226085+00:00
-
- ## Password and Secrets Management - Keeper Security
- - [https://keepersecurity.ca](https://keepersecurity.ca)
- - date_published: 2024-06-11T03:32:45+00:00
-
- ## keithzg's website
- - [https://keithzg.ca](https://keithzg.ca)
- - date_published: 2021-08-17T00:00:00+00:00
-
- ## KEMF – Life Simplified
- - [https://kemf.ca](https://kemf.ca)
- - date_published: 2024-05-12T04:14:47.996360+00:00
-
- ## Discover our coffee makers and K-Cup® pods | Keurig.ca
- - [https://www.keurig.ca](https://www.keurig.ca)
- - date_published: 2024-06-28T16:42:13.318032+00:00
-
- ## Kevin Cox
- - [https://kevincox.ca](https://kevincox.ca)
- - date_published: 2023-10-25T08:42:59.460120+00:00
- - tags: ['personal']
-
- ## Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android
- - [https://keychron.ca](https://keychron.ca)
- - date_published: 2024-06-23T06:02:20.308841+00:00
-
- ## Kijiji Canada
- - [https://www.kijiji.ca](https://www.kijiji.ca)
- - date_published: 2024-07-17T23:08:49.367699+00:00
-
- ## Home Page
- - [https://kineticfit.ca](https://kineticfit.ca)
- - date_published: 2024-06-08T13:10:10.259674+00:00
- - tags: ['fitness']
-
- ## Kipp Scott GMC Buick: Vehicle Sales and Auto Repair | Red Deer AB
- - [https://www.kippscott.ca](https://www.kippscott.ca)
- - date_published: 2024-05-06T20:02:12.751069+00:00
-
- ## Kipp Scott Cadillac: New & Pre-Owned Dealer | Red Deer, AB
- - [https://www.kippscottcadillac.ca](https://www.kippscottcadillac.ca)
- - date_published: 2024-06-26T22:36:46.768652+00:00
-
- ## Kiran Rao
- - [https://kiranrao.ca](https://kiranrao.ca)
- - date_published: 2024-06-22T02:32:08+00:00
-
- ## Top 5 Top 5 Toronto Kitchens and Kitchen Contractors for 2022 | Kitchens.ca Plumbers and Plumbing Contractors for 2020 | Kitchens.ca
- - [http://www.kitchens.ca](http://www.kitchens.ca)
- - date_published: 2024-06-29T17:35:38.885106+00:00
-
- ## Cartoonist Rek Bell
- - [https://kokorobot.ca](https://kokorobot.ca)
- - date_published: 2023-11-26T21:41:29.844186+00:00
-
- ## Konecranes
- - [https://en.konecranes.ca](https://en.konecranes.ca)
- - date_published: 2024-06-20T22:57:17.655951+00:00
-
- ## Konecranes
- - [https://fr.konecranes.ca](https://fr.konecranes.ca)
- - date_published: 2024-06-20T22:56:58.083230+00:00
-
- ## Kwantlen Polytechnic University
- - [https://www.kpu.ca](https://www.kpu.ca)
- - date_published: 2024-07-03T23:25:04+00:00
-
- ## egg.l5.ca
- - [https://egg.l5.ca](https://egg.l5.ca)
- - date_published: 2024-05-08T10:44:14.873597+00:00
-
- ## Météo Canada : La meilleure info météo GRATUITE à 15 jours - La Chaîne Météo
- - [https://www.lachainemeteo.ca](https://www.lachainemeteo.ca)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Home - Lactalis Canada
- - [https://www.lactalis.ca](https://www.lactalis.ca)
- - date_published: 2024-06-16T21:25:23.165771+00:00
-
- ## La Grange | Homepage
- - [https://www.la-grange.ca](https://www.la-grange.ca)
- - date_published: 2024-07-17T14:57:54.348349+00:00
-
- ## Bonnyville, Elk Point, Lac La Biche, St. Paul Local News
- - [https://www.lakelandtoday.ca](https://www.lakelandtoday.ca)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Home - The Lakes Golf Club & Resort Play & Stay
- - [https://www.lakesresort.ca](https://www.lakesresort.ca)
- - date_published: 2024-07-10T09:49:09+00:00
-
- ## About Me - Dustin.Lammiman
- - [https://dustin.lammiman.ca](https://dustin.lammiman.ca)
- - date_published: 2024-06-01T04:52:35.132107+00:00
-
- ## Land Rover. 4x4 Vehicles and Luxury SUV
- - [https://www.landrover.ca](https://www.landrover.ca)
- - date_published: 2024-07-09T17:15:26.204848+00:00
-
- ## Top 5 Top 5 Toronto Landscaping 2020 | Landscaping.ca Plumbers and Plumbing Contractors for 2020 | Landscaping.ca
- - [http://www.landscaping.ca](http://www.landscaping.ca)
- - date_published: 2024-06-29T17:35:29.618924+00:00
-
- ## Custom-Made Language Classes | Language Trainers Canada
- - [https://www.languagetrainers.ca](https://www.languagetrainers.ca)
- - date_published: 2024-07-02T09:21:15.942561+00:00
-
- ## LaPresse.ca | Actualités et Infos au Québec et dans le monde
- - [https://www.lapresse.ca](https://www.lapresse.ca)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Loading...
- - [http://larama.ca](http://larama.ca)
- - date_published: 2024-07-13T15:49:54.885389+00:00
-
- ## Laura Brown.ca
- - [https://laurabrown.ca](https://laurabrown.ca)
- - date_published: 2024-04-17T09:10:19+00:00
-
- ## laurentian.ca
- - [https://laurentian.ca](https://laurentian.ca)
- - date_published: 2024-07-06T23:31:29.580351+00:00
-
- ## Home
- - [https://www.lawsonresearch.ca](https://www.lawsonresearch.ca)
- - date_published: 2023-12-30T11:43:21.258451+00:00
-
- ## Lawyers in Canada, Canada
- - [http://www.lawyer-canada.ca](http://www.lawyer-canada.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Company | Leatt® | Protective Neck Braces, Body Armour & Sports Gear |
- - [https://leatt-canada.ca](https://leatt-canada.ca)
- - date_published: 2024-06-15T12:00:22.254440+00:00
-
- ## LEEROY Agence Créative à Montréal - Web & Marketing
- - [https://leeroy.ca](https://leeroy.ca)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## A Better Place to Sleep. Try risk-free for 100 nights | Leesa
- - [https://www.leesa.ca](https://www.leesa.ca)
- - date_published: 2024-07-19T19:39:05.859513+00:00
-
- ## Top Kids Attraction | LEGOLAND Discovery Centre Toronto
- - [https://toronto.legolanddiscoverycentre.ca](https://toronto.legolanddiscoverycentre.ca)
- - date_published: 2024-07-03T09:45:39.991622+00:00
-
- ## Lemmy.ca - A canadian-run community, geared towards canadians, but all are welcome!
- - [https://lemmy.ca](https://lemmy.ca)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Lemon Productions
- - [https://www.lemonproductions.ca](https://www.lemonproductions.ca)
- - date_published: 2024-06-23T06:02:11.308234+00:00
-
- ## LensCrafters.com
- - [https://www.lenscrafters.ca](https://www.lenscrafters.ca)
- - date_published: 2024-07-09T10:16:29.675334+00:00
-
- ## Les Meilleurs Bars à Montréal - L'Excellence Nocturne
- - [http://lesaintsulpice.ca](http://lesaintsulpice.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Accueil - Les options ça compte
- - [https://www.lesoptionscacompte.ca](https://www.lesoptionscacompte.ca)
- - date_published: 2024-06-23T10:28:55.086872+00:00
-
- ## Let’s Talk Central Elgin
- - [https://www.letstalkcentralelgin.ca](https://www.letstalkcentralelgin.ca)
- - date_published: 2024-06-29T09:47:37.292848+00:00
-
- ## LEUCHTTURM1917 CANADA
- - [https://fr.leuchtturm1917.ca](https://fr.leuchtturm1917.ca)
- - date_published: 2024-06-21T23:24:25.508794+00:00
-
- ## LEUCHTTURM1917 CANADA
- - [https://www.leuchtturm1917.ca](https://www.leuchtturm1917.ca)
- - date_published: 2024-06-21T23:24:15.116066+00:00
-
- ## Level Up 2024
- - [https://levelupconference.ca](https://levelupconference.ca)
- - date_published: 2024-06-29T11:45:20.405312+00:00
-
- ## Compleat Lexical Tutor
- - [http://www.lextutor.ca](http://www.lextutor.ca)
- - date_published: 2024-07-02T09:44:00.071071+00:00
-
- ## LFX ASSOCIATES
- - [https://www.lfxassociates.ca](https://www.lfxassociates.ca)
- - date_published: 2024-06-28T18:51:00.448066+00:00
-
- ## Consumer & Home Electronics from LG | LG CA
- - [https://www.lg.ca](https://www.lg.ca)
- - date_published: 2024-07-03T07:23:55.244482+00:00
-
- ## Linguistics Graduate Course Union
- - [https://lgcu.ca](https://lgcu.ca)
- - date_published: 2024-03-07T15:30:59+00:00
-
- ## Home | Liam Paull
- - [http://liampaull.ca](http://liampaull.ca)
- - date_published: 2024-05-01T20:54:40+00:00
-
- ## Canada's Leading Coding Bootcamp - Lighthouse Labs
- - [https://www.lighthouselabs.ca](https://www.lighthouselabs.ca)
- - date_published: 2024-07-14T10:22:25.887520+00:00
-
- ## Lighting in Canada, Canada
- - [http://www.lighting.ca](http://www.lighting.ca)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Canadian Light Source
- - [https://www.lightsource.ca](https://www.lightsource.ca)
- - date_published: 2024-07-13T16:47:43.692294+00:00
-
- ## Chalet Kamanik
- - [http://lilipad.ca](http://lilipad.ca)
- - date_published: 2022-10-01T19:40:29+00:00
-
- ## Lima Charlie | Web development studio | Located in Montréal.
- - [https://limacharlie.ca](https://limacharlie.ca)
- - date_published: 2024-06-15T02:49:04.062134+00:00
-
- ## Top 5 Top 5 Toronto Limos for 2020 | Limos.ca Plumbers and Plumbing Contractors for 2020 | Limos.ca
- - [http://www.limos.ca](http://www.limos.ca)
- - date_published: 2024-06-29T17:35:25.508397+00:00
-
- ## livier.ca
- - [http://www.livier.ca](http://www.livier.ca)
- - date_published: 2022-01-03T16:11:55+00:00
-
- ## Loblaw Companies Ltd. | Live Life Well®
- - [http://www.loblaw.ca](http://www.loblaw.ca)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Local Green Fees- Canada's definitive green fee directory
- - [https://www.localgreenfees.ca](https://www.localgreenfees.ca)
- - date_published: 2024-07-12T17:59:30.132263+00:00
-
- ## Local Integrative Health Clinic in East Vancouver, BC
- - [https://localhealthclinic.ca](https://localhealthclinic.ca)
- - date_published: 2024-06-12T19:25:19+00:00
-
- ## LocalWork.ca | Employer Services
- - [https://employers.localwork.ca](https://employers.localwork.ca)
- - date_published: 2024-06-26T22:36:30.872374+00:00
-
- ## LocalWork.ca | jobs
- - [https://www.localwork.ca](https://www.localwork.ca)
- - date_published: 2024-05-06T20:01:58.481788+00:00
-
- ## Locomotive | Montreal web agency
- - [https://locomotive.ca](https://locomotive.ca)
- - date_published: 2024-06-19T16:15:15.418837+00:00
-
- ## Commercial Real Estate for Sale & Lease in Canada | LoopNet.ca
- - [https://loopnet.ca](https://loopnet.ca)
- - date_published: 2024-05-12T07:41:00.330334+00:00
-
- ## L. Ron Hubbard - Scientology & Dianetics Founder
- - [http://www.lronhubbard.ca](http://www.lronhubbard.ca)
- - date_published: 2024-06-06T19:38:31.754675+00:00
-
- ## @luqman
- - [https://luqman.ca](https://luqman.ca)
- - date_published: 2023-10-25T12:05:19.912761+00:00
-
- ## Luuk van Baars - Portfolio
- - [http://luuk.ca](http://luuk.ca)
- - date_published: 2023-07-06T13:04:26+00:00
-
- ## The Macdonald-Laurier Institute
- - [https://macdonaldlaurier.ca](https://macdonaldlaurier.ca)
- - date_published: 2023-10-25T12:05:29.853121+00:00
-
- ## ezProxy Login Redirect
- - [https://ezproxy.macewan.ca](https://ezproxy.macewan.ca)
- - date_published: 2024-06-30T01:30:38.353424+00:00
-
- ## Macleans.ca - Canada’s magazine
- - [https://macleans.ca](https://macleans.ca)
- - date_published: 2023-10-25T12:05:41.174712+00:00
-
- ## Madrona Grove
- - [https://madrona.ca](https://madrona.ca)
- - date_published: 2024-01-09T01:36:41.563745+00:00
-
- ## Magenta Health
- - [https://www.magentahealth.ca](https://www.magentahealth.ca)
- - date_published: 2024-07-12T20:29:49.279552+00:00
-
- ## Top 5 Top 5 Toronto Maids for 2020 | Maids.ca Plumbers and Plumbing Contractors for 2020 | Maids.ca
- - [http://www.maids.ca](http://www.maids.ca)
- - date_published: 2024-06-29T17:36:38.307913+00:00
-
- ## Writer | Filmmaker • Mailyne K. Briggs
- - [https://mailyne.ca](https://mailyne.ca)
- - date_published: 2008-01-01T00:00:00+00:00
-
- ## First to be published
- - [https://makevotesequal.ca](https://makevotesequal.ca)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Province of Manitoba | Home Page
- - [https://manitoba.ca](https://manitoba.ca)
- - date_published: 2024-04-30T05:32:54.961213+00:00
-
- ## Manulife Customer Portal
- - [https://portal.manulife.ca](https://portal.manulife.ca)
- - date_published: 2024-06-16T13:09:10.118765+00:00
-
- ## Manulife - Insurance & investment solutions for you
- - [https://www.manulife.ca](https://www.manulife.ca)
- - date_published: 2024-05-01T06:47:53.869054+00:00
-
- ## Online Personal Banking | Manulife Bank
- - [https://www.manulifebank.ca](https://www.manulifebank.ca)
- - date_published: 2024-05-01T07:04:12.173605+00:00
-
- ## Manuvie – Des solutions d’assurance et de placement pour vous
- - [https://www.manuvie.ca](https://www.manuvie.ca)
- - date_published: 2024-06-14T21:07:07+00:00
-
- ## Marsha Lederman
- - [http://www.marshalederman.ca](http://www.marshalederman.ca)
- - date_published: 2022-05-03T00:00:00+00:00
-
- ## Maserati Official Website - Italian Luxury Cars | Maserati CA-EN
- - [https://www.maserati.ca](https://www.maserati.ca)
- - date_published: 2024-06-19T08:47:16+00:00
-
- ## Masimo - Home
- - [https://professional.masimo.ca](https://professional.masimo.ca)
- - date_published: 2024-06-22T05:36:44.457229+00:00
-
- ## Masonry in Canada, Canada
- - [http://www.masonry.ca](http://www.masonry.ca)
- - date_published: 2024-06-29T17:36:01.006332+00:00
-
- ## CMS-SMC
- - [http://cms.math.ca](http://cms.math.ca)
- - date_published: 2024-06-30T03:01:07.862445+00:00
-
- ## Home | PIMS - Pacific Institute for the Mathematical Sciences
- - [https://pims.math.ca](https://pims.math.ca)
- - date_published: 2024-06-30T07:02:12+00:00
-
- ## CMS-SMC
- - [http://www.math.ca](http://www.math.ca)
- - date_published: 2024-06-30T09:20:11.721967+00:00
-
- ## Moving people forward | Maximus Canada
- - [https://www.maximuscanada.ca](https://www.maximuscanada.ca)
- - date_published: 2024-07-14T15:04:23+00:00
-
- ## Home
- - [http://mayfairtheatre.ca](http://mayfairtheatre.ca)
- - date_published: 2024-07-03T03:55:28.016149+00:00
-
- ## Bootstrap TD Login
- - [https://service.mbna.ca](https://service.mbna.ca)
- - date_published: 2024-06-16T07:44:52.481256+00:00
-
- ## Offering both rewards credit cards with no annual fee as well as low interest credit card options | MBNA Canada
- - [https://www.mbna.ca](https://www.mbna.ca)
- - date_published: 2024-05-01T06:00:16.802370+00:00
-
- ## McDonald's Kerwin Frost Box Appstakes
- - [https://www.mcdonaldspromotion.ca](https://www.mcdonaldspromotion.ca)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Computational Geometry Lab at McGill
- - [http://cgm.cs.mcgill.ca](http://cgm.cs.mcgill.ca)
- - date_published: 2011-12-20T21:35:31+00:00
-
- ## Computation and Logic Group, School of Computer Science, McGill University -- Home
- - [http://complogic.cs.mcgill.ca](http://complogic.cs.mcgill.ca)
- - date_published: 2024-06-20T18:12:18+00:00
-
- ## Data Mining and Security Lab @ McGill
- - [http://dmas.lab.mcgill.ca](http://dmas.lab.mcgill.ca)
- - date_published: 2022-11-12T02:33:40+00:00
-
- ## OpenPhylo
- - [http://kovik.cs.mcgill.ca](http://kovik.cs.mcgill.ca)
- - date_published: 2022-09-15T20:55:49+00:00
-
- ## McGill University
- - [http://mcgill.ca](http://mcgill.ca)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Account Suspended
- - [http://msurj.mcgill.ca](http://msurj.mcgill.ca)
- - date_published: 2024-06-30T02:32:39.205738+00:00
-
- ## Phylo DNA Puzzle
- - [https://phylo.cs.mcgill.ca](https://phylo.cs.mcgill.ca)
- - date_published: 2024-05-06T23:01:07+00:00
-
- ## Index of /
- - [http://profs-polisci.mcgill.ca](http://profs-polisci.mcgill.ca)
- - date_published: 2010-08-13T00:00:00+00:00
-
- ## Incomplete Web Address
- - [https://shibboleth.mcgill.ca](https://shibboleth.mcgill.ca)
- - date_published: 2022-05-13T00:48:20+00:00
-
- ## McGill School Of Computer Science
- - [https://www.cs.mcgill.ca](https://www.cs.mcgill.ca)
- - date_published: 2023-10-25T12:06:01.879709+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [https://www.math.mcgill.ca](https://www.math.mcgill.ca)
- - date_published: 2023-10-25T11:21:45.075447+00:00
-
- ## McGill University
- - [https://www.mcgill.ca](https://www.mcgill.ca)
- - date_published: 2023-10-25T11:21:48.349820+00:00
-
- ## Sable Research Group
- - [https://sable.mcgill.ca](https://sable.mcgill.ca)
- - date_published: 2014-07-21T18:26:14+00:00
-
- ## The Factory
- - [https://factory.mcgilleus.ca](https://factory.mcgilleus.ca)
- - date_published: 2022-03-23T15:49:54+00:00
-
- ## Brighter World – Research focused on the health and well-being of all.
- - [https://brighterworld.mcmaster.ca](https://brighterworld.mcmaster.ca)
- - date_published: 2024-02-24T18:06:26.440821+00:00
-
- ## Home - Mathematics & Statistics - Faculty of Science - McMaster University
- - [https://ms.mcmaster.ca](https://ms.mcmaster.ca)
- - date_published: 2024-06-30T03:03:28.537176+00:00
-
- ## Department of Computing and Software – FACULTY OF ENGINEERING
- - [https://www.cas.mcmaster.ca](https://www.cas.mcmaster.ca)
- - date_published: 2024-01-04T00:51:18.377090+00:00
-
- ## Медиазона Центральная Азия
- - [https://mediazona.ca](https://mediazona.ca)
- - date_published: 2024-06-28T21:49:15.781258+00:00
 
