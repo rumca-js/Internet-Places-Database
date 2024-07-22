@@ -1,3 +1,19 @@
+ ## Flower Discuss
+ - [https://discuss.flower.ai](https://discuss.flower.ai)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Flower: A Friendly Federated Learning Framework
+ - [https://flower.ai](https://flower.ai)
+ - date_published: 2024-04-29T07:44:02.026435+00:00
+
+ ## Flowshot: Google Sheets AI Plugin + Custom Model Training
+ - [https://flowshot.ai](https://flowshot.ai)
+ - date_published: 2023-04-06T10:28:58+00:00
+
+ ## Flowtrail AI - Conversational AI Data Analyst
+ - [https://flowtrail.ai](https://flowtrail.ai)
+ - date_published: 2024-06-14T08:55:37.990782+00:00
+
  ## Flow by Wispr | Effortless Voice Dictation
  - [https://www.flowvoice.ai](https://www.flowvoice.ai)
  - date_published: 2024-07-09T00:00:00+00:00
@@ -1085,6 +1101,10 @@
  ## Join the Jina AI Discord Server!
  - [https://discord.jina.ai](https://discord.jina.ai)
  - date_published: 2024-07-18T18:14:05+00:00
+
+ ## Welcome to Jina!
+ - [https://docs.jina.ai](https://docs.jina.ai)
+ - date_published: 2024-07-18T00:00:00+00:00
 
  ## Jina AI - Your Portal to Multimodal AI
  - [https://jina.ai](https://jina.ai)
@@ -4006,24 +4026,4 @@
  ## Secure Privacy
  - [https://app.secureprivacy.ai](https://app.secureprivacy.ai)
  - date_published: 2024-05-04T14:47:56.412587+00:00
-
- ## Securiti
- - [https://app.eu.securiti.ai](https://app.eu.securiti.ai)
- - date_published: 2024-06-15T21:43:07.605889+00:00
-
- ## Securiti
- - [https://app.securiti.ai](https://app.securiti.ai)
- - date_published: 2024-04-29T02:41:48.369373+00:00
-
- ## Oops! | Securiti.AI
- - [https://cdn-prod.eu.securiti.ai](https://cdn-prod.eu.securiti.ai)
- - date_published: 2021-03-02T18:33:28+00:00
-
- ## Oops! | Securiti.AI
- - [https://cdn-prod.securiti.ai](https://cdn-prod.securiti.ai)
- - date_published: 2024-04-29T02:41:39.706364+00:00
-
- ## Securiti.ai
- - [https://privacy-central.securiti.ai](https://privacy-central.securiti.ai)
- - date_published: 2024-05-01T03:28:10.668479+00:00
 

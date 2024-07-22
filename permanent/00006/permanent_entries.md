@@ -1,3 +1,127 @@
+ ## eReserve
+ - [https://www.ereserve.com.au](https://www.ereserve.com.au)
+ - date_published: 2024-07-08T14:09:23.705461+00:00
+
+ ## Ergon Energy
+ - [https://www.ergon.com.au](https://www.ergon.com.au)
+ - date_published: 2024-01-08T05:22:36+00:00
+
+ ## ESPN Australia - Serving sports fans. Anytime. Anywhere.
+ - [https://www.espn.com.au](https://www.espn.com.au)
+ - date_published: 2024-05-02T09:42:06.078798+00:00
+
+ ## ESPN App - Download on iOS App Store & Google Play
+ - [https://espnapp.com.au](https://espnapp.com.au)
+ - date_published: 2022-05-20T00:00:00+00:00
+
+ ## Essence & Soul | Homewares and Gifts in Adelaide
+ - [https://essenceandsoul.com.au](https://essenceandsoul.com.au)
+ - date_published: 2024-07-02T17:13:22.090949+00:00
+
+ ## Parenting - Latest news headlines in Australia and around the world, tips and advice for parents | 9Honey Parenting
+ - [http://www.essentialbaby.com.au](http://www.essentialbaby.com.au)
+ - date_published: 2024-07-09T20:56:25.748351+00:00
+
+ ## Welcome to Emergency Services and State Super - ESSSuper
+ - [https://esssuper.com.au](https://esssuper.com.au)
+ - date_published: 2024-07-08T10:19:30.713811+00:00
+
+ ## Ethical Partners Funds Management
+ - [https://ethicalpartners.com.au](https://ethicalpartners.com.au)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Home
+ - [https://www.eurekastreet.com.au](https://www.eurekastreet.com.au)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Rent a Car & Van Worldwide with Europcar
+ - [https://www.europcar.com.au](https://www.europcar.com.au)
+ - date_published: 2024-07-12T07:48:19.560878+00:00
+
+ ## Eventbrite
+ - [https://eventbrite.com.au](https://eventbrite.com.au)
+ - date_published: 2024-05-12T05:55:41.130473+00:00
+
+ ## Login · Everlaw
+ - [https://app.everlaw.com.au](https://app.everlaw.com.au)
+ - date_published: 2024-06-16T07:41:48.977789+00:00
+
+ ## Everyday Rewards (previously Woolworths Rewards)
+ - [https://www.everydayrewards.com.au](https://www.everydayrewards.com.au)
+ - date_published: 2024-06-16T14:23:22+00:00
+
+ ## EveryPlate: Big Taste. Little Price.
+ - [https://everyplate.com.au](https://everyplate.com.au)
+ - date_published: 2024-05-02T14:01:08.109929+00:00
+
+ ## Evolution Partners
+ - [https://www.evolutionpartners.com.au](https://www.evolutionpartners.com.au)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Online Payments Platform | Payment Gateway | Eway Australia
+ - [https://www.eway.com.au](https://www.eway.com.au)
+ - date_published: 2023-08-08T00:00:00+00:00
+
+ ## Experian
+ - [https://www.experian.com.au](https://www.experian.com.au)
+ - date_published: 2024-06-25T21:31:41.975901+00:00
+
+ ## Explore Travel | Your Next Dream Holiday
+ - [https://book.exploretravel.com.au](https://book.exploretravel.com.au)
+ - date_published: 2024-05-09T06:38:22.241674+00:00
+
+ ## Home Page | Explore Travel
+ - [https://exploretravel.com.au](https://exploretravel.com.au)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Extreme Learning
+ - [https://extremelearning.com.au](https://extremelearning.com.au)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Find Maths Tutors Ezy! Online and In-house Math Tuition Australia-Wide
+ - [https://ezymathtutoring.com.au](https://ezymathtutoring.com.au)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Ezy Math
+ - [https://portal.ezymathtutoring.com.au](https://portal.ezymathtutoring.com.au)
+ - date_published: 2024-06-27T15:01:59.600768+00:00
+
+ ## Log in or sign up to view
+ - [http://www.facebook.com.au](http://www.facebook.com.au)
+ - date_published: 2024-06-17T21:02:36.687022+00:00
+
+ ## Oxfam Fair | Buy Australian Certified Organic Fairtrade Coffee
+ - [https://faircoffee.com.au](https://faircoffee.com.au)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Fair Supply - Cloud-based ESG Risk Management and Compliance
+ - [https://fairsupply.com.au](https://fairsupply.com.au)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Farmers' Finance
+ - [https://farmersfinance.com.au](https://farmersfinance.com.au)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Agricultural & rural farm news | Farm Online | ACT
+ - [https://www.farmonline.com.au](https://www.farmonline.com.au)
+ - date_published: 2024-07-09T20:52:46+00:00
+
+ ## Weather - Australia 7 day forecasts and weather radar - FarmOnline Weather - www.farmonlineweather.com.au
+ - [https://www.farmonlineweather.com.au](https://www.farmonlineweather.com.au)
+ - date_published: 2024-07-09T20:52:42.717317+00:00
+
+ ## Agricultural & rural farm news | Farm Weekly | WA
+ - [https://www.farmweekly.com.au](https://www.farmweekly.com.au)
+ - date_published: 2024-07-09T20:52:57+00:00
+
+ ## Faulty Cat Productions
+ - [https://faultycat.com.au](https://faultycat.com.au)
+ - date_published: 2024-05-09T07:46:25.235270+00:00
+
+ ## Home - Featherdale Sydney Wildlife Park
+ - [https://www.featherdale.com.au](https://www.featherdale.com.au)
+ - date_published: 2024-04-23T00:00:00+00:00
+
  ## Ferrero Group Official Website | Ferrero Group
  - [https://www.ferrero.com.au](https://www.ferrero.com.au)
  - date_published: 2024-06-05T07:11:02+00:00
@@ -3149,10 +3273,6 @@
  - [https://sifa.sydney.edu.au](https://sifa.sydney.edu.au)
  - date_published: 2023-11-19T00:00:00+00:00
 
- ## The University of Sydney
- - [http://sydney.edu.au](http://sydney.edu.au)
- - date_published: 2024-05-30T00:00:00+00:00
-
  ## The University of Sydney - Event Calendar
  - [http://whatson.sydney.edu.au](http://whatson.sydney.edu.au)
  - date_published: 2024-06-21T13:01:41.815748+00:00
@@ -3612,9 +3732,13 @@
  - [https://online.unsw.edu.au](https://online.unsw.edu.au)
  - date_published: 2024-05-11T00:00:00+00:00
 
+ ## School of Physics | Science - UNSW Sydney
+ - [https://www.physics.unsw.edu.au](https://www.physics.unsw.edu.au)
+ - date_published: 2024-07-21T21:52:38.239188+00:00
+
  ## School of Physics
- - [http://www.phys.unsw.edu.au](http://www.phys.unsw.edu.au)
- - date_published: 2024-04-30T04:59:47.177870+00:00
+ - [https://phys.unsw.edu.au](https://phys.unsw.edu.au)
+ - date_published: 2016-11-18T05:36:29+00:00
 
  ## Health precincts | Medicine & Health - UNSW Sydney
  - [https://precincts.unsw.edu.au](https://precincts.unsw.edu.au)
@@ -3884,129 +4008,4 @@
  ## Safety
  - [https://www.safety.uwa.edu.au](https://www.safety.uwa.edu.au)
  - date_published: 2024-07-03T17:58:20.960589+00:00
-
- ## Find all the information you need on scholarships and fees while studying at UWA.
- - [https://www.scholarships.uwa.edu.au](https://www.scholarships.uwa.edu.au)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Transport and parking
- - [https://www.transport.uwa.edu.au](https://www.transport.uwa.edu.au)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## UniPrint  : UniPrint : The University of Western Australia
- - [https://www.uniprint.uwa.edu.au](https://www.uniprint.uwa.edu.au)
- - date_published: 2017-02-27T02:09:49+00:00
-
- ## The University of Western Australia - Seek wisdom with a leading university for employability
- - [https://www.uwa.edu.au](https://www.uwa.edu.au)
- - date_published: 2023-10-25T11:57:20.643330+00:00
-
- ## The University of Western Australia - Seek wisdom with a leading university for employability
- - [http://www.web.uwa.edu.au](http://www.web.uwa.edu.au)
- - date_published: 2024-07-03T17:58:15.452260+00:00
-
- ## Western Sydney University
- - [https://give.westernsydney.edu.au](https://give.westernsydney.edu.au)
- - date_published: 2024-07-19T03:20:26.332369+00:00
-
- ## Home | Western Sydney University
- - [https://www.westernsydney.edu.au](https://www.westernsydney.edu.au)
- - date_published: 2023-12-13T23:33:27.899804+00:00
-
- ## Australian Bureau of Statistics
- - [https://www.abs.gov.au](https://www.abs.gov.au)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Home | ACCC
- - [https://www.accc.gov.au](https://www.accc.gov.au)
- - date_published: 2023-10-25T11:57:28.153801+00:00
-
- ## Home page | ACMA
- - [https://www.acma.gov.au](https://www.acma.gov.au)
- - date_published: 2024-06-28T21:42:36.625736+00:00
-
- ## Home | ACNC
- - [https://www.acnc.gov.au](https://www.acnc.gov.au)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Health
- - [https://www.health.act.gov.au](https://www.health.act.gov.au)
- - date_published: 2024-06-03T04:26:03+00:00
-
- ## Home - DAFF
- - [https://www.agriculture.gov.au](https://www.agriculture.gov.au)
- - date_published: 2024-06-19T23:10:31+00:00
-
- ## Home | The Runway
- - [https://runway.airforce.gov.au](https://runway.airforce.gov.au)
- - date_published: 2024-07-09T09:32:46+00:00
-
- ## Home
- - [https://www.airforce.gov.au](https://www.airforce.gov.au)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Australian Law Reform Commission | ALRC
- - [https://www.alrc.gov.au](https://www.alrc.gov.au)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## ANSTO | Science. Ingenuity. Sustainability
- - [https://www.ansto.gov.au](https://www.ansto.gov.au)
- - date_published: 2023-10-25T11:57:45.083461+00:00
-
- ## Home
- - [https://www.aph.gov.au](https://www.aph.gov.au)
- - date_published: 2024-06-28T21:43:06.653228+00:00
-
- ## Research Management System Login
- - [https://rms.arc.gov.au](https://rms.arc.gov.au)
- - date_published: 2024-06-26T23:22:36.460510+00:00
-
- ## Home | Australian Research Council
- - [https://www.arc.gov.au](https://www.arc.gov.au)
- - date_published: 2024-06-21T10:43:51+00:00
-
- ## Home | The Cove
- - [https://cove.army.gov.au](https://cove.army.gov.au)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Home
- - [https://www.army.gov.au](https://www.army.gov.au)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## ASIC  Home | ASIC
- - [https://asic.gov.au](https://asic.gov.au)
- - date_published: 2024-05-19T00:00:00+00:00
-
- ## Homepage | ASIO
- - [https://www.asio.gov.au](https://www.asio.gov.au)
- - date_published: 2024-02-07T15:31:53+00:00
- - tags: ['australia security intelligence', 'security intelligence']
-
- ## https://www.careers.asio.gov.au
- - [https://www.careers.asio.gov.au](https://www.careers.asio.gov.au)
- - date_published: 2024-02-07T16:59:38.137223+00:00
-
- ## Redirect
- - [https://onlineservices.ato.gov.au](https://onlineservices.ato.gov.au)
- - date_published: 2024-06-16T08:32:50.236684+00:00
-
- ## Australian Museum
- - [http://www.austmus.gov.au](http://www.austmus.gov.au)
- - date_published: 2024-07-02T14:46:14.621060+00:00
-
- ## Homepage | AUSTRAC
- - [https://www.austrac.gov.au](https://www.austrac.gov.au)
- - date_published: 2024-06-16T16:24:05+00:00
-
- ## Home | Australian War Memorial
- - [https://www.awm.gov.au](https://www.awm.gov.au)
- - date_published: 2024-06-21T09:28:37+00:00
-
- ## HTTPS not supported - Bureau of Meteorology
- - [https://www.bom.gov.au](https://www.bom.gov.au)
- - date_published: 2024-01-02T07:58:37.586955+00:00
-
- ## Space Weather, Australian Bureau of Meteorology
- - [https://www.sws.bom.gov.au](https://www.sws.bom.gov.au)
- - date_published: 2024-07-13T04:51:40.676976+00:00
 

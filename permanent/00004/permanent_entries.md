@@ -1,3 +1,60 @@
+ ## AI photo organizer
+ - [https://ai-photo-sorter.vercel.app](https://ai-photo-sorter.vercel.app)
+ - date_published: 2024-06-19T19:19:19.397639+00:00
+
+ ## Aladdin AI
+ - [https://aladdinai.vercel.app](https://aladdinai.vercel.app)
+ - date_published: 2024-06-27T10:52:44.933476+00:00
+
+ ## Alessia Bellisario
+ - [https://aless-l0wl6ccb6-alessia-bellisarios-projects.vercel.app](https://aless-l0wl6ccb6-alessia-bellisarios-projects.vercel.app)
+ - date_published: 2024-07-14T08:28:09.243197+00:00
+
+ ## AJ's Portfolio
+ - [https://alexjportfolio.vercel.app](https://alexjportfolio.vercel.app)
+ - date_published: 2024-06-17T03:31:54.031030+00:00
+
+ ## All roads lead to Rome, a colorful problem
+ - [https://allroadslead2rome.vercel.app](https://allroadslead2rome.vercel.app)
+ - date_published: 2024-04-30T07:40:49.647411+00:00
+
+ ## A Resume Portfolio Website
+ - [https://amodukehinde.vercel.app](https://amodukehinde.vercel.app)
+ - date_published: 2024-05-11T10:23:06.569749+00:00
+
+ ## AnalyzeMe
+ - [https://analyzeme.vercel.app](https://analyzeme.vercel.app)
+ - date_published: 2024-06-19T19:40:50.889083+00:00
+
+ ## Andromeda Astro
+ - [https://andromeda-astro.vercel.app](https://andromeda-astro.vercel.app)
+ - date_published: 2024-06-21T23:48:54.270722+00:00
+
+ ## Andromeda Light Nextjs
+ - [https://andromeda-light-nextjs.vercel.app](https://andromeda-light-nextjs.vercel.app)
+ - date_published: 2024-06-21T23:49:01.195057+00:00
+
+ ## Andromeda Nextjs
+ - [https://andromeda-nextjs.vercel.app](https://andromeda-nextjs.vercel.app)
+ - date_published: 2024-06-21T23:49:03.664414+00:00
+
+ ## Antidepressants or Tolkien
+ - [https://antidepressantsortolkien.vercel.app](https://antidepressantsortolkien.vercel.app)
+ - date_published: 2023-11-08T02:53:20+00:00
+ - tags: ['lord of the rings', 'tolkien', 'funny', 'app']
+
+ ## umami
+ - [https://api-statically.vercel.app](https://api-statically.vercel.app)
+ - date_published: 2024-06-29T23:42:45.429368+00:00
+
+ ## Umbrel App Store
+ - [https://apps-umbrel-com.vercel.app](https://apps-umbrel-com.vercel.app)
+ - date_published: 2024-07-18T14:21:37.844128+00:00
+
+ ## Svelte + TS + Vite App
+ - [https://appwrite-todo-with-svelte.vercel.app](https://appwrite-todo-with-svelte.vercel.app)
+ - date_published: 2024-05-06T14:05:14.309690+00:00
+
  ## Artist Finder
  - [https://artisan-finder-news.vercel.app](https://artisan-finder-news.vercel.app)
  - date_published: 2024-07-14T10:06:26.045587+00:00
@@ -1289,6 +1346,10 @@
  - [https://wondermap.vercel.app](https://wondermap.vercel.app)
  - date_published: 2024-06-24T03:36:40.076935+00:00
 
+ ## እንቆቅልሽ
+ - [https://wordle-am.vercel.app](https://wordle-am.vercel.app)
+ - date_published: 2024-07-21T02:22:55.129648+00:00
+
  ## WTF DOES THIS COMPANY DO
  - [https://wtfdoesthiscompanydo.vercel.app](https://wtfdoesthiscompanydo.vercel.app)
  - date_published: 2023-10-25T11:51:04.640307+00:00
@@ -1685,6 +1746,10 @@
  - [https://ytsummary.app](https://ytsummary.app)
  - date_published: 2024-07-10T11:15:31.452678+00:00
 
+ ## YYNN — Rate everything
+ - [https://yynn.app](https://yynn.app)
+ - date_published: 2024-07-21T04:22:07.734395+00:00
+
  ## Show HN: Python-Type-Challenges, master Python typing with online exercises
  - [https://python-type-challenges.zeabur.app](https://python-type-challenges.zeabur.app)
  - date_published: 2023-11-29T06:38:03+00:00
@@ -1709,6 +1774,10 @@
  ## Apple Music
  - [https://offers.applemusic.apple](https://offers.applemusic.apple)
  - date_published: 2024-06-28T17:04:08.784695+00:00
+
+ ## Apple Pay
+ - [https://offers.applepay.apple](https://offers.applepay.apple)
+ - date_published: 2024-07-21T05:02:42.682311+00:00
 
  ## SignTime
  - [https://www.signtime.apple](https://www.signtime.apple)
@@ -2631,6 +2700,10 @@
  - [https://hotconvo.art](https://hotconvo.art)
  - date_published: 2023-11-22T12:17:56+00:00
 
+ ## home | the pizzeria
+ - [https://icecreampizzer.art](https://icecreampizzer.art)
+ - date_published: 2024-07-21T04:33:02.993640+00:00
+
  ## SnapDress: Dress up in a snap!
  - [https://snapdress.image2image.art](https://snapdress.image2image.art)
  - date_published: 2024-06-14T07:27:29+00:00
@@ -2827,6 +2900,10 @@
  - [https://procreate.art](https://procreate.art)
  - date_published: 2024-05-04T14:02:09.430854+00:00
  - tags: ['desktop program', 'graphics']
+
+ ## Prohibition Daily
+ - [https://daily.prohibition.art](https://daily.prohibition.art)
+ - date_published: 2024-06-25T00:00:00+00:00
 
  ## Home - Public Prompts
  - [https://publicprompts.art](https://publicprompts.art)
@@ -3145,6 +3222,10 @@
  ## Read Write.as
  - [https://read.write.as](https://read.write.as)
  - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Write.as
+ - [https://status.write.as](https://status.write.as)
+ - date_published: 2024-07-21T07:50:04.005047+00:00
 
  ## Write.as
  - [https://write.as](https://write.as)
@@ -3575,6 +3656,18 @@ October 2024 in Singapore
  - [https://romanistik-gephras.uibk.ac.at](https://romanistik-gephras.uibk.ac.at)
  - date_published: 2024-07-12T05:19:05.511861+00:00
 
+ ## Weblogin
+ - [https://backend.univie.ac.at](https://backend.univie.ac.at)
+ - date_published: 2024-07-21T01:58:49.875546+00:00
+
+ ## Universitätsbibliothek Wien
+ - [http://bibliothek.univie.ac.at](http://bibliothek.univie.ac.at)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Datenschutzbeauftragte*r (DSBA) der Universität Wien
+ - [https://dsba.univie.ac.at](https://dsba.univie.ac.at)
+ - date_published: 2024-07-21T01:58:44.344610+00:00
+
  ## Welcome to CS - CS
  - [http://eprints-dev5.cs.univie.ac.at](http://eprints-dev5.cs.univie.ac.at)
  - date_published: 2024-07-08T16:13:22.188078+00:00
@@ -3591,21 +3684,49 @@ October 2024 in Singapore
  - [https://medienportal.univie.ac.at](https://medienportal.univie.ac.at)
  - date_published: 2024-07-10T02:11:12.398286+00:00
 
+ ## Home | Moodle University of Vienna
+ - [http://moodle.univie.ac.at](http://moodle.univie.ac.at)
+ - date_published: 2024-07-21T01:58:40+00:00
+
+ ## - Servicedesk
+ - [http://servicedesk.univie.ac.at](http://servicedesk.univie.ac.at)
+ - date_published: 2024-07-21T01:58:39.717649+00:00
+
  ## Studieren
  - [https://studieren.univie.ac.at](https://studieren.univie.ac.at)
  - date_published: 2024-06-27T12:49:11.837522+00:00
+
+ ## Startseite - Gast - u:space
+ - [https://uspace.univie.ac.at](https://uspace.univie.ac.at)
+ - date_published: 2024-07-21T01:58:45.491428+00:00
 
  ## Vienna Doctoral School in Physics
  - [https://vds-physics.univie.ac.at](https://vds-physics.univie.ac.at)
  - date_published: 2024-07-01T05:47:16.952011+00:00
 
+ ## Accessing webmail - form
+ - [http://webmail.univie.ac.at](http://webmail.univie.ac.at)
+ - date_published: 2024-07-21T01:58:51.618066+00:00
+
  ## IFIP WG 2.5
  - [https://wg25.taa.univie.ac.at](https://wg25.taa.univie.ac.at)
  - date_published: 2007-09-07T00:00:00+00:00
 
+ ## Dashboard - Wiki der Universität Wien
+ - [http://wiki.univie.ac.at](http://wiki.univie.ac.at)
+ - date_published: 2024-07-21T01:58:43.050846+00:00
+
  ## Universität Wien
  - [https://www.univie.ac.at](https://www.univie.ac.at)
  - date_published: 2024-06-16T22:24:15.587056+00:00
+
+ ## Sign in - Matomo
+ - [https://zidstats.univie.ac.at](https://zidstats.univie.ac.at)
+ - date_published: 2024-07-21T01:58:47.804793+00:00
+
+ ## Zentraler Informatikdienst
+ - [http://zid.univie.ac.at](http://zid.univie.ac.at)
+ - date_published: 2024-05-15T00:00:00+00:00
 
  ## Austrian Computer Science Day 2019 – Business meets Computer Science  –  03.06.2019 / WU Wien
  - [https://acsd2019.ai.wu.ac.at](https://acsd2019.ai.wu.ac.at)
@@ -3914,125 +4035,4 @@ October 2024 in Singapore
  ## Mit Capterra die richtige Software für dein Unternehmen finden
  - [https://www.capterra.at](https://www.capterra.at)
  - date_published: 2024-07-20T19:26:22.512731+00:00
-
- ## Cashback
- - [https://cashbackonline.at](https://cashbackonline.at)
- - date_published: 2024-06-25T18:36:14+00:00
-
- ## ceeba.at
- - [http://www.ceeba.at](http://www.ceeba.at)
- - date_published: 2024-07-12T05:17:02.803237+00:00
-
- ## CERT.at
- - [https://www.cert.at](https://www.cert.at)
- - date_published: 2024-06-21T16:06:59+00:00
-
- ## CCC Salzburg
- - [https://sbg.chaostreff.at](https://sbg.chaostreff.at)
- - date_published: 2024-07-13T00:00:21+00:00
-
- ## Citroën PKW, Nutzfahrzeuge, Elektroautos | Citroën Austria
- - [https://www.citroen.at](https://www.citroen.at)
- - date_published: 2023-12-11T16:02:43.331356+00:00
-
- ## CITROËN KAUFT IHR AUTO - Kostenlose Fahrzeugbewertung
- - [https://www.citroen-kauft-ihr-auto.at](https://www.citroen-kauft-ihr-auto.at)
- - date_published: 2024-07-12T06:30:32.741495+00:00
-
- ## Linkbynet - En construction
- - [https://www.citroenorigins.at](https://www.citroenorigins.at)
- - date_published: 2018-04-18T13:00:13+00:00
-
- ## Colorprinter - Colorprinter©
- - [https://colorprinter.at](https://colorprinter.at)
- - date_published: 2021-05-02T21:20:43+00:00
-
- ## Presseclub Concordia
- - [https://concordia.at](https://concordia.at)
- - date_published: 2024-06-18T15:37:53.602074+00:00
-
- ## Conrad Electronic » Alle Teile des Erfolgs
- - [https://www.conrad.at](https://www.conrad.at)
- - date_published: 2024-07-13T13:33:00.358121+00:00
-
- ## Meeting Destination Vienna
- - [https://www.vienna.convention.at](https://www.vienna.convention.at)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## start [CryptoParty Austria]
- - [https://cryptoparty.at](https://cryptoparty.at)
- - date_published: 2024-05-11T07:10:19.969346+00:00
-
- ## Au Pair USA | Cultural Care
- - [https://www.culturalcare.at](https://www.culturalcare.at)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Curated
- - [https://cur.at](https://cur.at)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Emmanuel Maria Dammerer
- - [http://emmanuel.dammerer.at](http://emmanuel.dammerer.at)
- - date_published: 2023-02-26T21:07:37+00:00
-
- ## Home
- - [https://danielrotter.at](https://danielrotter.at)
- - date_published: 2024-04-02T00:00:00+00:00
- - tags: ['personal']
-
- ## Gebrauchte Autos kaufen » große Auswahl | Das WeltAuto®
- - [https://www.dasweltauto.at](https://www.dasweltauto.at)
- - date_published: 2024-06-28T19:28:13.194988+00:00
-
- ## Ihr 14-Tage Wetter. Wettervorhersage - daswetter.at | Meteored
- - [https://www.daswetter.at](https://www.daswetter.at)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## DATUM – Seiten der Zeit
- - [https://datum.at](https://datum.at)
- - date_published: 2024-05-02T13:34:59.439323+00:00
-
- ## rhonda.deb.at
- - [https://rhonda.deb.at](https://rhonda.deb.at)
- - date_published: 2022-08-31T13:07:14+00:00
-
- ## DECATHLON Österreich | Über 70 Sportarten
- - [http://www.decathlon.at](http://www.decathlon.at)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## DER WIENER DEEWAN •  pakistani food  •  essen für alle
- - [http://deewan.at](http://deewan.at)
- - date_published: 2024-07-10T09:21:13.711151+00:00
-
- ## Online Wertpapierhandel | Günstige Gebühren | Broker DEGIRO
- - [https://www.degiro.at](https://www.degiro.at)
- - date_published: 2024-05-22T10:58:04+00:00
-
- ## About - DER STANDARD Unternehmen
- - [https://about.derstandard.at](https://about.derstandard.at)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## derStandard.at Checkout
- - [https://checkout.derstandard.at](https://checkout.derstandard.at)
- - date_published: 2024-05-28T12:46:11+00:00
-
- ## derStandard.at
- - [https://derstandard.at](https://derstandard.at)
- - date_published: 2024-05-02T13:40:24.633291+00:00
-
- ## NetScaler AAA
- - [https://editorial.derstandard.at](https://editorial.derstandard.at)
- - date_published: 2024-06-07T01:00:01+00:00
-
- ## DigiKey
- - [https://www.digikey.at](https://www.digikey.at)
- - date_published: 2024-05-01T05:04:03.961654+00:00
-
- ## Digital Society
- - [https://digisociety.at](https://digisociety.at)
- - date_published: 2015-05-24T14:01:18+00:00
-
- ## Digitaler Kompass - Institut für Nachrichtenkompetenz und digitale Bildung
- - [https://www.digitalerkompass.at](https://www.digitalerkompass.at)
- - date_published: 2024-07-02T22:28:23.699396+00:00
 

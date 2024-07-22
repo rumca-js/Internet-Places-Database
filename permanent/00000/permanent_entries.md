@@ -15,6 +15,10 @@
  - date_published: 2024-04-11T02:30:03.805708+00:00
  - tags: ['dns resolver', 'cloudflare']
 
+ ## Envoy 122246008469
+ - [https://2.4.22](https://2.4.22)
+ - date_published: 2024-07-21T16:10:43.667854+00:00
+
  ## ABB Group. Leading digital technologies for industry
  - [https://global.abb](https://global.abb)
  - date_published: 2024-07-01T08:13:31+00:00
@@ -1221,6 +1225,10 @@
  - [https://www.funday.agency](https://www.funday.agency)
  - date_published: 2024-06-16T04:22:18.781821+00:00
 
+ ## GoodFolk - A Better Kind of Digital Agency
+ - [https://goodfolk.agency](https://goodfolk.agency)
+ - date_published: 2024-07-21T07:07:23.507275+00:00
+
  ## Home
  - [https://grafik.agency](https://grafik.agency)
  - date_published: 2024-03-14T00:00:00+00:00
@@ -2093,6 +2101,10 @@
  - [https://betterwithout.ai](https://betterwithout.ai)
  - date_published: 2023-10-25T11:35:01.519383+00:00
 
+ ## Alex Bewley
+ - [https://alex.bewley.ai](https://alex.bewley.ai)
+ - date_published: 2024-07-21T09:40:25.086363+00:00
+
  ## Enterprise AI Software Solutions | Beyond Limits
  - [https://www.beyond.ai](https://www.beyond.ai)
  - date_published: 2024-03-02T00:00:00+00:00
@@ -2374,6 +2386,10 @@
  ## Careers - AI-Powered Hiring Assistant
  - [https://careers.ai](https://careers.ai)
  - date_published: 2024-06-19T19:19:26.132005+00:00
+
+ ## Chatbots con IA para atención al cliente
+ - [https://cari.ai](https://cari.ai)
+ - date_published: 2024-07-11T00:00:00+00:00
 
  ## CarperAI
  - [https://carper.ai](https://carper.ai)
@@ -4013,20 +4029,4 @@ Welcome
  ## FlowChai  - AI For Your Business
  - [https://flowch.ai](https://flowch.ai)
  - date_published: 2023-11-16T11:39:08.948375+00:00
-
- ## Flower Discuss
- - [https://discuss.flower.ai](https://discuss.flower.ai)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Flower: A Friendly Federated Learning Framework
- - [https://flower.ai](https://flower.ai)
- - date_published: 2024-04-29T07:44:02.026435+00:00
-
- ## Flowshot: Google Sheets AI Plugin + Custom Model Training
- - [https://flowshot.ai](https://flowshot.ai)
- - date_published: 2023-04-06T10:28:58+00:00
-
- ## Flowtrail AI - Conversational AI Data Analyst
- - [https://flowtrail.ai](https://flowtrail.ai)
- - date_published: 2024-06-14T08:55:37.990782+00:00
 

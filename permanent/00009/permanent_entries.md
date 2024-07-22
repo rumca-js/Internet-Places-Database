@@ -1,3 +1,157 @@
+ ## GlotPress
+ - [https://glotpress.blog](https://glotpress.blog)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Good Thoughts | Richard Y Chappell | Substack
+ - [https://www.goodthoughts.blog](https://www.goodthoughts.blog)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## The Got Questions Blog by S. Michael Houdmann
+ - [https://www.gotquestions.blog](https://www.gotquestions.blog)
+ - date_published: 2018-09-10T00:00:00+00:00
+
+ ## ראשי
+ - [https://greatgame.blog](https://greatgame.blog)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## The Prism | Gurwinder | Substack
+ - [https://www.gurwinder.blog](https://www.gurwinder.blog)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## Haikal Kushahrin
+ - [https://haikal.blog](https://haikal.blog)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## handwritten.blog
+ - [https://handwritten.blog](https://handwritten.blog)
+ - date_published: 2023-10-25T09:01:43.570784+00:00
+ - tags: ['personal']
+
+ ## The Happy Developer
+ - [https://happydev.blog](https://happydev.blog)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Personal website | grevehoiby.dk
+ - [https://haralds.blog](https://haralds.blog)
+ - date_published: 2024-04-30T14:21:51.979778+00:00
+
+ ## Hari Shanker R
+ - [https://hari.blog](https://hari.blog)
+ - date_published: 2024-05-12T06:26:27.986579+00:00
+
+ ## Harper Reed's Blog
+ - [https://harper.blog](https://harper.blog)
+ - date_published: 2024-04-13T15:58:22.195168+00:00
+ - tags: ['personal']
+
+ ## Microblogs ‘R’ Us
+ - [https://hasa.blog](https://hasa.blog)
+ - date_published: 2024-07-14T08:32:55.316256+00:00
+
+ ## Havn
+ - [https://havn.blog](https://havn.blog)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Home
+ - [https://hidde.blog](https://hidde.blog)
+ - date_published: 2024-06-21T22:18:15.765567+00:00
+
+ ## Hive
+ - [https://hive.blog](https://hive.blog)
+ - date_published: 2024-04-30T07:34:16.203098+00:00
+
+ ## Hive Wallet
+ - [https://wallet.hive.blog](https://wallet.hive.blog)
+ - date_published: 2024-07-21T02:18:31.512267+00:00
+
+ ## In jawls humble opinion. Christians Blog.
+ - [https://hmbl.blog](https://hmbl.blog)
+ - date_published: 2024-07-02T17:53:22+00:00
+
+ ## some compact thoughts
+ - [https://backus.home.blog](https://backus.home.blog)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## DonDagen
+ - [https://dondagen.home.blog](https://dondagen.home.blog)
+ - date_published: 2023-12-14T06:53:35.668494+00:00
+ - tags: ['personal']
+
+ ## Don't Let The Days Go By
+ - [http://dontletthedaysgoby.home.blog](http://dontletthedaysgoby.home.blog)
+ - date_published: 2024-07-16T16:34:06.819420+00:00
+
+ ## Glork
+ - [https://glork.home.blog](https://glork.home.blog)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Our Looney Barn
+ - [https://graveyardhouse.home.blog](https://graveyardhouse.home.blog)
+ - date_published: 2024-06-24T10:51:45.888235+00:00
+
+ ## Grumpy Wizard
+ - [https://grumpywizard.home.blog](https://grumpywizard.home.blog)
+ - date_published: 2023-12-23T19:27:09.883564+00:00
+ - tags: ['personal']
+
+ ## Hand in Hand
+ - [http://handinhand.home.blog](http://handinhand.home.blog)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Heavy Metal Classicist
+ - [http://heavymetalclassicist.home.blog](http://heavymetalclassicist.home.blog)
+ - date_published: 2024-07-19T20:14:11.241736+00:00
+
+ ## Home.blog
+ - [http://home.blog](http://home.blog)
+ - date_published: 2024-07-11T15:27:55.788504+00:00
+
+ ## Interactive Licktion
+ - [https://interactivelicktion.home.blog](https://interactivelicktion.home.blog)
+ - date_published: 2024-07-10T02:41:02.007122+00:00
+
+ ## Just Coasting
+ - [https://justcoasting.home.blog](https://justcoasting.home.blog)
+ - date_published: 2024-05-07T14:47:04.252481+00:00
+
+ ## To Be Determined
+ - [https://locationtbd.home.blog](https://locationtbd.home.blog)
+ - date_published: 2023-10-25T09:01:46.793235+00:00
+ - tags: ['personal']
+
+ ## Around These Islands
+ - [https://novaroundbritain.home.blog](https://novaroundbritain.home.blog)
+ - date_published: 2024-05-07T14:47:12.542485+00:00
+
+ ## Onyx typer
+ - [https://onyxtyper.home.blog](https://onyxtyper.home.blog)
+ - date_published: 2024-07-18T17:15:55.633074+00:00
+
+ ## Imogen is Reading and Watching the World: On Books, Film, Art & More
+ - [https://readingandwatchingtheworld.home.blog](https://readingandwatchingtheworld.home.blog)
+ - date_published: 2024-06-15T00:01:36+00:00
+
+ ## Scorpios
+ - [https://scorpios.home.blog](https://scorpios.home.blog)
+ - date_published: 2024-06-23T14:38:26.656326+00:00
+
+ ## She’s  inspired
+ - [https://shesinspired.home.blog](https://shesinspired.home.blog)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## SOBERANIA ALIMENTAR MARÉ
+ - [https://soberania-alimentar-mare.home.blog](https://soberania-alimentar-mare.home.blog)
+ - date_published: 2024-05-10T06:57:04.002656+00:00
+
+ ## Home With The Armadillo
+ - [https://homewiththearmadillo.blog](https://homewiththearmadillo.blog)
+ - date_published: 2024-06-21T22:09:52.098809+00:00
+
+ ## Hoppla!
+ - [https://hopplaausrufezeichen.blog](https://hopplaausrufezeichen.blog)
+ - date_published: 2023-11-29T14:18:55.206080+00:00
+ - tags: ['personal']
+
  ## Hover Blog
  - [https://hover.blog](https://hover.blog)
  - date_published: 2024-05-08T06:31:47.738225+00:00
@@ -1233,7 +1387,7 @@
 
  ## Audit Boutique
  - [https://audit.boutique](https://audit.boutique)
- - date_published: 2024-04-30T05:58:16.745696+00:00
+ - date_published: 2024-03-07T08:44:44+00:00
 
  ## Rafael Lima - Empreendedor de negócios digitais e desenvolvedor de software nas horas vagas.
  - [http://rafael.adm.br](http://rafael.adm.br)
@@ -2301,6 +2455,10 @@ Educação
  ## Casas de Apostas - Casa de Apostas
  - [https://casaapostas.com.br](https://casaapostas.com.br)
  - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Casa do Código - Livros para Devs!
+ - [https://www.casadocodigo.com.br](https://www.casadocodigo.com.br)
+ - date_published: 2024-07-21T07:09:51.236127+00:00
 
  ## CASU/UFMG
  - [https://casu.com.br](https://casu.com.br)
@@ -3902,156 +4060,4 @@ Educação
  ## Rolling Stone Brasil
  - [https://rollingstone.uol.com.br](https://rollingstone.uol.com.br)
  - date_published: 2024-06-28T15:59:51.949519+00:00
-
- ## UOL SAC: atendimento online, tira-dúvidas sobre serviços e ajuda sobre produtos
- - [https://sac.uol.com.br](https://sac.uol.com.br)
- - date_published: 2024-07-10T02:50:15.660366+00:00
-
- ## Sportbuzz
- - [https://sportbuzz.uol.com.br](https://sportbuzz.uol.com.br)
- - date_published: 2024-06-28T15:59:56.745164+00:00
-
- ## Tvcaras
- - [https://tvcaras.uol.com.br](https://tvcaras.uol.com.br)
- - date_published: 2024-07-11T17:33:30.360796+00:00
-
- ## Notícias de hoje do Brasil e do Mundo | Folha de S.Paulo
- - [https://www1.folha.uol.com.br](https://www1.folha.uol.com.br)
- - date_published: 2023-11-18T08:17:46.153355+00:00
-
- ## UOL - Seu universo online
- - [https://www.uol.com.br](https://www.uol.com.br)
- - date_published: 2024-06-26T21:57:42+00:00
-
- ## Vagas de Emprego e Oportunidades de Trabalho Hoje
- - [https://site.vagas.com.br](https://site.vagas.com.br)
- - date_published: 2024-06-18T07:12:47.452062+00:00
-
- ## Vagas de Emprego e Oportunidades de Trabalho Hoje
- - [https://www.vagas.com.br](https://www.vagas.com.br)
- - date_published: 2024-06-29T15:12:28.980646+00:00
-
- ## Home - Vale do Pinhão
- - [http://www.valedopinhao.com.br](http://www.valedopinhao.com.br)
- - date_published: 2024-06-12T11:20:08.862192+00:00
-
- ## Valor Econômico
- - [http://www.valor.com.br](http://www.valor.com.br)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## VEGAZETA: Veganismo em jornalismo, história e cultura
- - [https://vegazeta.com.br](https://vegazeta.com.br)
- - date_published: 2018-06-06T06:08:15+00:00
-
- ## Compañías Velcro - Sistemas de Sujeição de gancho e argola
- - [https://www.velcro.com.br](https://www.velcro.com.br)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Authentication - GLPI
- - [https://chamados.vestcasa.com.br](https://chamados.vestcasa.com.br)
- - date_published: 2024-06-16T15:36:44.390502+00:00
-
- ## ViajaNet - Agência de viagens líder no Brasil
- - [http://www.viajanet.com.br](http://www.viajanet.com.br)
- - date_published: 2024-06-16T19:11:16.977140+00:00
-
- ## Viajar com Alê
- - [https://viajarcomale.com.br](https://viajarcomale.com.br)
- - date_published: 2024-06-15T08:39:39.759369+00:00
-
- ## VIRTUAL PAPER - ชุมชนสาระ SLOT
- - [http://embraer.virtualpaper.com.br](http://embraer.virtualpaper.com.br)
- - date_published: 2024-03-24T11:24:22+00:00
-
- ## Vai de Visa | Beneficios | Visa
- - [https://vaidevisa.visa.com.br](https://vaidevisa.visa.com.br)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Visa, líder confiável em pagamentos digitais
- - [https://www.visa.com.br](https://www.visa.com.br)
- - date_published: 2024-05-06T09:09:47.941693+00:00
-
- ## Home - Viva Saúde
- - [https://vivasaudedigital.com.br](https://vivasaudedigital.com.br)
- - date_published: 2024-07-11T17:33:46.699214+00:00
-
- ## Viva Toscana
- - [http://www.vivatoscana.com.br](http://www.vivatoscana.com.br)
- - date_published: 2022-03-02T17:47:21+00:00
-
- ## Vivo - Site Oficial - 5G, Ultra Banda Larga, HDTV e mais
- - [https://www.vivo.com.br](https://www.vivo.com.br)
- - date_published: 2024-07-02T18:04:17.350071+00:00
-
- ## A Plataforma de Comércio Composable e Completa - Brasil
- - [http://www.vtex.com.br](http://www.vtex.com.br)
- - date_published: 2024-07-13T02:16:03+00:00
-
- ## Fundação Vunesp | Excelência em Concursos, Vestibulares e Avaliações
- - [https://www.vunesp.com.br](https://www.vunesp.com.br)
- - date_published: 2024-07-15T07:34:12+00:00
-
- ## WarnerBros.com.br | Home de Filmes WB, TV, Games e mais!
- - [https://warnerbros.com.br](https://warnerbros.com.br)
- - date_published: 2024-05-07T11:19:31.436385+00:00
-
- ## WEB3DEV
- - [https://www.web3dev.com.br](https://www.web3dev.com.br)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## ERROR: The request could not be satisfied
- - [https://www.webmotors.com.br](https://www.webmotors.com.br)
- - date_published: 2024-06-16T09:16:12.815384+00:00
-
- ## WETCO
- - [https://wetco.com.br](https://wetco.com.br)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Home - Wi Digital
- - [https://mkt.widigital.com.br](https://mkt.widigital.com.br)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home - Wi Digital
- - [https://widigital.com.br](https://widigital.com.br)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Wildtech Cursos e Consultoria
- - [https://www.wildtech.com.br](https://www.wildtech.com.br)
- - date_published: 2024-05-01T03:58:34.843327+00:00
-
- ## Your expert for installation material, maritime lighting and CCTV. - WISKA - make power smile
- - [https://www.wiska.com.br](https://www.wiska.com.br)
- - date_published: 2024-06-29T09:37:07.934504+00:00
-
- ## WITTENSTEIN do Brasil
- - [https://www.wittenstein.com.br](https://www.wittenstein.com.br)
- - date_published: 2024-07-15T04:10:10.777673+00:00
-
- ## Wondershare Account Center
- - [https://accounts.wondershare.com.br](https://accounts.wondershare.com.br)
- - date_published: 2024-07-13T20:35:29.277498+00:00
-
- ## DemoCreator - Editor de vídeo e gravador de tela tudo em um
- - [https://dc.wondershare.com.br](https://dc.wondershare.com.br)
- - date_published: 2024-07-13T20:35:24.450060+00:00
-
- ## Dr.Fone: soluções móveis completas® | Sua Solução Móvel Completa
- - [https://drfone.wondershare.com.br](https://drfone.wondershare.com.br)
- - date_published: 2024-07-13T20:35:33.397919+00:00
-
- ## Wondershare Filmora® | Melhor editor de vídeo fácil para você
- - [https://filmora.wondershare.com.br](https://filmora.wondershare.com.br)
- - date_published: 2024-07-13T20:29:07.226306+00:00
-
- ## [Oficial] Materiais Sem Direitos de Autor Gratuito como Efeitos de Vídeo
- - [https://filmstock.wondershare.com.br](https://filmstock.wondershare.com.br)
- - date_published: 2024-07-13T20:35:19.493892+00:00
-
- ## Wondershare PDFelement | Editor de PDF tudo-em-um
- - [https://pdf.wondershare.com.br](https://pdf.wondershare.com.br)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## [Oficial] Recoverit - Soluções de recuperação de dados para Win/Mac
- - [https://recoverit.wondershare.com.br](https://recoverit.wondershare.com.br)
- - date_published: 2024-07-13T20:35:26.672751+00:00
 
