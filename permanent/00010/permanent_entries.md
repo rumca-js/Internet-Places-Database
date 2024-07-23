@@ -1,3 +1,239 @@
+ ## Livros, autores, histórias e amigos, todos conectados no SKOOB
+ - [http://www.skoob.com.br](http://www.skoob.com.br)
+ - date_published: 2024-07-13T02:19:53.087886+00:00
+
+ ## Skyscanner
+ - [https://www.skyscanner.com.br](https://www.skyscanner.com.br)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## Slackjeff ☠️
+ - [https://slackjeff.com.br](https://slackjeff.com.br)
+ - date_published: 2024-06-03T11:26:38+00:00
+
+ ## Aurora Store
+ - [https://aurora-store.softonic.com.br](https://aurora-store.softonic.com.br)
+ - date_published: 2024-04-29T05:13:25.623250+00:00
+
+ ## Notícias e análises de app, os melhores downloads - Softonic
+ - [https://www.softonic.com.br](https://www.softonic.com.br)
+ - date_published: 2024-04-29T05:11:24.988286+00:00
+
+ ## Seja o líder que faz o projeto de software fluir com harmonia | Software Zen
+ - [https://softwarezen.com.br](https://softwarezen.com.br)
+ - date_published: 2024-06-15T17:20:34.363815+00:00
+
+ ## Sooper
+ - [https://www.sooper.com.br](https://www.sooper.com.br)
+ - date_published: 2024-06-19T08:24:28.628097+00:00
+
+ ## Home
+ - [https://spcine.com.br](https://spcine.com.br)
+ - date_published: 2024-06-26T21:56:38.630933+00:00
+
+ ## Sportbuzz
+ - [https://sportbuzz.com.br](https://sportbuzz.com.br)
+ - date_published: 2024-07-11T17:32:45+00:00
+
+ ## SPTrans
+ - [http://www.sptrans.com.br](http://www.sptrans.com.br)
+ - date_published: 2024-07-19T22:14:00.710079+00:00
+
+ ## Statkraft
+ - [https://www.statkraft.com.br](https://www.statkraft.com.br)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Stone: solução completa de vendas feita para o seu negócio
+ - [https://www.stone.com.br](https://www.stone.com.br)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## XPPen Loja oficial do Brasil | Mesa digitalizadora e Display Intertivo | XPPen Loja oficial do Brasil | Mesa digitalizadora e Display Intertivo
+ - [https://www.storexppen.com.br](https://www.storexppen.com.br)
+ - date_published: 2024-05-30T18:41:51.126045+00:00
+
+ ## StreetFighter.com.br - Site brasileiro de fãs da franquia de luta da Capcom
+ - [http://www.streetfighter.com.br](http://www.streetfighter.com.br)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Studio Cubo Web - Desenvolvemos sites e sistemas
+ - [https://studiocuboweb.com.br](https://studiocuboweb.com.br)
+ - date_published: 2023-02-14T14:43:31+00:00
+
+ ## Submarino - Sua história começa aqui
+ - [http://www.submarino.com.br](http://www.submarino.com.br)
+ - date_published: 2024-07-10T09:23:04.769212+00:00
+
+ ## Paradiso Rio | Paradiso Rio FM
+ - [https://sulamericaparadiso.com.br](https://sulamericaparadiso.com.br)
+ - date_published: 2024-07-13T02:17:25.040098+00:00
+
+ ## Superprof - A comunidade dos professores particulares
+ - [https://www.superprof.com.br](https://www.superprof.com.br)
+ - date_published: 2024-06-15T01:28:14.389864+00:00
+
+ ## Survival Horror Com Br
+ - [https://survivalhorror.com.br](https://survivalhorror.com.br)
+ - date_published: 2024-05-14T02:52:31.660891+00:00
+
+ ## SX Integra
+ - [https://www.sxintegra.com.br](https://www.sxintegra.com.br)
+ - date_published: 2024-04-10T20:39:04+00:00
+
+ ## Sympla Bileto
+ - [https://bileto.sympla.com.br](https://bileto.sympla.com.br)
+ - date_published: 2024-05-29T00:27:51.796959+00:00
+
+ ## Sympla - Encontre os melhores eventos
+ - [https://site.bileto.sympla.com.br](https://site.bileto.sympla.com.br)
+ - date_published: 2024-07-13T02:17:05.417612+00:00
+
+ ## Sympla - Encontre os melhores eventos
+ - [https://www.sympla.com.br](https://www.sympla.com.br)
+ - date_published: 2024-06-15T17:20:53.659097+00:00
+
+ ## Talita Oliveira
+ - [https://blog.talitaoliveira.com.br](https://blog.talitaoliveira.com.br)
+ - date_published: 2024-07-14T07:54:30.854263+00:00
+
+ ## Talita Oliveira
+ - [https://talitaoliveira.com.br](https://talitaoliveira.com.br)
+ - date_published: 2024-05-11T10:05:09.578532+00:00
+
+ ## Team Liquid Brazil | Loja
+ - [https://loja.teamliquid.com.br](https://loja.teamliquid.com.br)
+ - date_published: 2024-07-09T11:33:13.396767+00:00
+
+ ## Teatro Santander
+ - [https://teatrosantander.com.br](https://teatrosantander.com.br)
+ - date_published: 2024-06-13T13:59:34+00:00
+
+ ## TechTudo: tecnologia, celular, computador e games
+ - [https://www.techtudo.com.br](https://www.techtudo.com.br)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## O melhor catálogo de cinema em streaming
+ - [https://www.telecineplay.com.br](https://www.telecineplay.com.br)
+ - date_published: 2024-06-19T08:27:49.826141+00:00
+
+ ## Tetra Tech América do Sul
+ - [https://www.tetratech.com.br](https://www.tetratech.com.br)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## The Enemy - A maior plataforma de games do Brasil
+ - [https://www.theenemy.com.br](https://www.theenemy.com.br)
+ - date_published: 2024-06-26T21:55:57.506584+00:00
+
+ ## Home - Thomas Nelson Brasil
+ - [https://thomasnelson.com.br](https://thomasnelson.com.br)
+ - date_published: 2024-07-13T02:15:29.254819+00:00
+
+ ## Soluções inteligentes para seu negócio
+ - [https://www.thomsonreuters.com.br](https://www.thomsonreuters.com.br)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## TIM - Site Oficial | Celular, Internet, Fixo, Recarga e mais
+ - [https://www.tim.com.br](https://www.tim.com.br)
+ - date_published: 2024-07-09T18:00:03+00:00
+
+ ## Tocantins em Debate
+ - [https://tocantinsemdebate.com.br](https://tocantinsemdebate.com.br)
+ - date_published: 2024-07-17T07:50:07.440603+00:00
+
+ ## Faça parte da revolução! Conheça o ecossistema de ferramentas Toolzz
+ - [https://www.toolzz.com.br](https://www.toolzz.com.br)
+ - date_published: 2024-06-21T15:19:05.530289+00:00
+
+ ## Melhor Cassino Online 2023 🏆 Roleta ✅ BlackJack ✅ Bônus
+ - [https://top10cassinos.com.br](https://top10cassinos.com.br)
+ - date_published: 2024-07-17T04:36:06.438297+00:00
+
+ ## Toro Investimentos - O seu melhor jeito de investir
+ - [https://www.toroinvestimentos.com.br](https://www.toroinvestimentos.com.br)
+ - date_published: 2024-06-12T22:30:41+00:00
+
+ ## Totalsat – Tecnologia de rastreamento de veículos
+ - [https://totalsat.com.br](https://totalsat.com.br)
+ - date_published: 2024-06-12T02:33:34.609499+00:00
+
+ ## Locaweb HTTP Server
+ - [http://www.tourvirtualbrasil.com.br](http://www.tourvirtualbrasil.com.br)
+ - date_published: 2024-05-29T00:37:48.288512+00:00
+
+ ## Treine Basquete
+ - [https://treinebasquete.com.br](https://treinebasquete.com.br)
+ - date_published: 2021-10-17T18:55:26+00:00
+
+ ## Tribuna do Paraná - Tamo Junto
+ - [https://www.tribunapr.com.br](https://www.tribunapr.com.br)
+ - date_published: 2024-06-19T08:22:55+00:00
+
+ ## Principal - Tribuna Ribeirão
+ - [https://www.tribunaribeirao.com.br](https://www.tribunaribeirao.com.br)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Site Hospedado na KingHost | Data Center no Brasil
+ - [https://www.triforma.com.br](https://www.triforma.com.br)
+ - date_published: 2024-07-13T07:47:46.607784+00:00
+
+ ## tripadvisor.com.br
+ - [https://www.tripadvisor.com.br](https://www.tripadvisor.com.br)
+ - date_published: 2024-05-29T00:37:46.198131+00:00
+
+ ## Tipografia | Tupigrafia
+ - [https://www.tupigrafia.com.br](https://www.tupigrafia.com.br)
+ - date_published: 2024-07-14T12:16:55.050046+00:00
+
+ ## O portal de Belo Horizonte
+ - [https://soubh.uai.com.br](https://soubh.uai.com.br)
+ - date_published: 2024-07-13T18:16:03.662301+00:00
+
+ ## Construtor de sites grátis - a melhor solução para criar um site - uCoz
+ - [https://www.ucoz.com.br](https://www.ucoz.com.br)
+ - date_published: 2024-07-13T21:02:49.280662+00:00
+
+ ## Seu Portal De Notícia Geek | UnicórnioHater
+ - [https://www.unicorniohater.com.br](https://www.unicorniohater.com.br)
+ - date_published: 2023-10-20T19:02:07+00:00
+
+ ## Aventuras na História
+ - [https://aventurasnahistoria.uol.com.br](https://aventurasnahistoria.uol.com.br)
+ - date_published: 2024-06-28T15:59:54.159071+00:00
+
+ ## CARAS Brasil
+ - [https://caras.uol.com.br](https://caras.uol.com.br)
+ - date_published: 2024-05-10T02:43:46.919114+00:00
+
+ ## CineBuzz
+ - [https://cinebuzz.uol.com.br](https://cinebuzz.uol.com.br)
+ - date_published: 2024-06-28T15:59:49.368483+00:00
+
+ ## Contigo!
+ - [https://contigo.uol.com.br](https://contigo.uol.com.br)
+ - date_published: 2024-06-28T15:59:58.931677+00:00
+
+ ## UOL - Seu universo online
+ - [https://dna.uol.com.br](https://dna.uol.com.br)
+ - date_published: 2024-07-11T17:32:25+00:00
+
+ ## Máxima
+ - [https://maxima.uol.com.br](https://maxima.uol.com.br)
+ - date_published: 2024-06-28T16:00:10.594455+00:00
+
+ ## Motorsport.com - Fórmula 1, NASCAR, MotoGP, Fórmula Indy
+ - [https://motorsport.uol.com.br](https://motorsport.uol.com.br)
+ - date_published: 2024-07-17T04:53:54.763472+00:00
+
+ ## revista piauí | _pra quem tem um clique a mais
+ - [https://piaui.folha.uol.com.br](https://piaui.folha.uol.com.br)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Recreio
+ - [https://recreio.uol.com.br](https://recreio.uol.com.br)
+ - date_published: 2024-06-28T16:00:03.852827+00:00
+
+ ## Rolling Stone Brasil
+ - [https://rollingstone.uol.com.br](https://rollingstone.uol.com.br)
+ - date_published: 2024-06-28T15:59:51.949519+00:00
+
  ## UOL SAC: atendimento online, tira-dúvidas sobre serviços e ajuda sobre produtos
  - [https://sac.uol.com.br](https://sac.uol.com.br)
  - date_published: 2024-07-10T02:50:15.660366+00:00
@@ -803,6 +1039,10 @@
  - [https://www.reumatologia.org.br](https://www.reumatologia.org.br)
  - date_published: 2024-06-17T00:00:00+00:00
 
+ ## CSBC 2023
+ - [https://csbc.sbc.org.br](https://csbc.sbc.org.br)
+ - date_published: 2023-10-02T18:11:44+00:00
+
  ## Home
  - [http://sintfub.org.br](http://sintfub.org.br)
  - date_published: 2024-07-20T11:20:10.784034+00:00
@@ -1194,6 +1434,10 @@
  ## Index – Turbo
  - [https://turbo.build](https://turbo.build)
  - date_published: 2023-10-25T12:02:59.657620+00:00
+
+ ## Laravel Vapor | Laravel Vapor
+ - [https://docs.vapor.build](https://docs.vapor.build)
+ - date_published: 2024-06-03T14:59:13+00:00
 
  ## Home - Authority Builders Co.
  - [https://authority.builders](https://authority.builders)
@@ -2362,10 +2606,6 @@
  ## Umami
  - [https://stats.bitrot.ca](https://stats.bitrot.ca)
  - date_published: 2024-05-29T07:17:55.275837+00:00
-
- ## BizPaL - PerLE
- - [http://bizpalmanitoba.ca](http://bizpalmanitoba.ca)
- - date_published: 2024-01-23T17:00:40+00:00
 
  ## BizPaL - PerLE
  - [https://bizpalmanitoba.ca](https://bizpalmanitoba.ca)
@@ -3782,245 +4022,4 @@
  ## Produits électroniques, Voitures, Vêtements, Objets de collection, Bons d'achat et autres achats en ligne | eBay
  - [http://cafr.ebay.ca](http://cafr.ebay.ca)
  - date_published: 2024-06-16T23:31:03.897167+00:00
-
- ## eBay shopping cart
- - [https://cart.payments.cafr.ebay.ca](https://cart.payments.cafr.ebay.ca)
- - date_published: 2024-06-16T23:31:06.222887+00:00
-
- ## eBay shopping cart
- - [https://cart.payments.ebay.ca](https://cart.payments.ebay.ca)
- - date_published: 2024-06-16T23:30:22.385532+00:00
-
- ## Communauté eBay
- - [https://community.cafr.ebay.ca](https://community.cafr.ebay.ca)
- - date_published: 2024-06-16T23:31:18.681165+00:00
-
- ## The eBay Canada Community
- - [https://community.ebay.ca](https://community.ebay.ca)
- - date_published: 2024-06-16T23:30:28.198875+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://mesg.cafr.ebay.ca](https://mesg.cafr.ebay.ca)
- - date_published: 2024-06-16T23:31:21.442386+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://mesg.ebay.ca](https://mesg.ebay.ca)
- - date_published: 2024-06-16T23:30:20.392334+00:00
-
- ## Produits électroniques, Voitures, Vêtements, Objets de collection, Bons d'achat et autres achats en ligne | eBay
- - [https://pages.cafr.ebay.ca](https://pages.cafr.ebay.ca)
- - date_published: 2024-06-16T23:31:10.420420+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://pages.ebay.ca](https://pages.ebay.ca)
- - date_published: 2024-06-16T23:30:06.005083+00:00
-
- ## Mesure de sécurité
- - [https://signin.cafr.ebay.ca](https://signin.cafr.ebay.ca)
- - date_published: 2024-06-16T23:31:25.386495+00:00
-
- ## Sign in or Register | eBay
- - [https://signin.ebay.ca](https://signin.ebay.ca)
- - date_published: 2024-06-16T23:30:08.110230+00:00
-
- ## Produits électroniques, Voitures, Vêtements, Objets de collection, Bons d'achat et autres achats en ligne | eBay
- - [https://www.cafr.ebay.ca](https://www.cafr.ebay.ca)
- - date_published: 2024-05-01T08:16:01.681396+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://www.ebay.ca](https://www.ebay.ca)
- - date_published: 2024-05-01T08:15:53.529775+00:00
-
- ## GameStop | The largest video game retailer in Canada. Play. Trade. Save.  - GameStop.ca
- - [https://www.ebgames.ca](https://www.ebgames.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Redirect
- - [https://extend-domains.ecampusontario.ca](https://extend-domains.ecampusontario.ca)
- - date_published: 2021-04-22T21:26:58+00:00
-
- ## Home | Ontario Extend
- - [https://extend.ecampusontario.ca](https://extend.ecampusontario.ca)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://piwik.ecchi.ca](https://piwik.ecchi.ca)
- - date_published: 2024-05-08T11:42:35.654064+00:00
-
- ## Home - Ecclesiastical Insurance
- - [https://ecclesiastical.ca](https://ecclesiastical.ca)
- - date_published: 2021-01-28T19:01:09+00:00
-
- ## eContact!
- - [https://econtact.ca](https://econtact.ca)
- - date_published: 2023-10-25T12:09:30.076113+00:00
-
- ## HOME | ECSA-C
- - [https://www.ecsa-c.ca](https://www.ecsa-c.ca)
- - date_published: 2024-07-09T14:16:51.272290+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.edealer.ca](https://www.edealer.ca)
- - date_published: 2024-06-26T22:36:33.392327+00:00
-
- ## HCI | University of Waterloo
- - [http://edithlaw.ca](http://edithlaw.ca)
- - date_published: 2024-07-05T18:12:26+00:00
-
- ## History, Heritage, Culture | Edmonton Heritage Council
- - [https://edmontonheritage.ca](https://edmontonheritage.ca)
- - date_published: 2024-07-20T15:44:28.488990+00:00
-
- ## Edmonton Police Service
- - [http://www.edmontonpolice.ca](http://www.edmontonpolice.ca)
- - date_published: 2024-07-02T05:40:18.356570+00:00
-
- ## Educate & Explore
- - [https://www.educateandexplore.ca](https://www.educateandexplore.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Eeems' Tutorial Hosting
- - [http://t.eeems.ca](http://t.eeems.ca)
- - date_published: 2024-07-09T23:33:13.579254+00:00
-
- ## eharmony dating site | Meet singles & find real love in the UK
- - [https://www.eharmony.ca](https://www.eharmony.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Élections Canada en ligne - Elections Canada On-line
- - [https://elections.ca](https://elections.ca)
- - date_published: 2013-01-02T00:00:00+00:00
-
- ## Top 5 Top 5 Toronto Electricians 2020 | Electricians.ca Plumbers and Plumbing Contractors for 2020 | Electricians.ca
- - [http://www.electricians.ca](http://www.electricians.ca)
- - date_published: 2024-06-29T17:33:26.047931+00:00
-
- ## Elektra Montréal
- - [https://www.elektramontreal.ca](https://www.elektramontreal.ca)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Elgin Arts Trail
- - [http://elginartstrail.ca](http://elginartstrail.ca)
- - date_published: 2024-05-16T10:10:04+00:00
-
- ## Elgin County – Progressive By Nature
- - [http://elgincounty.ca](http://elgincounty.ca)
- - date_published: 2024-06-29T09:47:08.629022+00:00
-
- ## Canada's Top 100 Employers | Eluta.ca
- - [http://content.eluta.ca](http://content.eluta.ca)
- - date_published: 2024-07-04T15:35:16.263527+00:00
-
- ## Job Search Canada | Eluta.ca
- - [https://www.eluta.ca](https://www.eluta.ca)
- - date_published: 2024-07-11T14:57:25.327137+00:00
-
- ## Embit - Signals from Technosphere
- - [https://embit.ca](https://embit.ca)
- - date_published: 2024-04-09T20:06:35.143210+00:00
- - tags: ['tech news']
-
- ## Home | EMD Serono Canada
- - [https://www.emdserono.ca](https://www.emdserono.ca)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## En Alerte
- - [https://www.enalerte.ca](https://www.enalerte.ca)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Epic Water Filters | American-made | Certified against NSF/ANSI Stds
- - [https://www.epicwaterfilters.ca](https://www.epicwaterfilters.ca)
- - date_published: 2024-06-27T16:12:18.670090+00:00
-
- ## EP&T Magazine
- - [https://www.ept.ca](https://www.ept.ca)
- - date_published: 2024-06-17T00:36:29+00:00
-
- ## Eric Daigle
- - [https://www.ericdaigle.ca](https://www.ericdaigle.ca)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Eric Hogue's Blog
- - [https://erichogue.ca](https://erichogue.ca)
- - date_published: 2024-05-09T07:40:03.077842+00:00
-
- ## Humans and Technology - Exploring Tech in Everyday Lives | Humans and Technology
- - [https://www.erinkernohan.ca](https://www.erinkernohan.ca)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## i:Create ~ Login
- - [https://ic15.esolg.ca](https://ic15.esolg.ca)
- - date_published: 2024-06-29T09:47:29.724473+00:00
-
- ## Home - eSolutionsGroup
- - [http://www.esolutionsgroup.ca](http://www.esolutionsgroup.ca)
- - date_published: 2024-06-29T09:47:31.270612+00:00
-
- ## Espace pour la vie
- - [http://espacepourlavie.ca](http://espacepourlavie.ca)
- - date_published: 2024-07-10T11:04:40.124576+00:00
-
- ## Engineering | Engineering Student Societies' Council of Ontario
- - [https://www.essco.ca](https://www.essco.ca)
- - date_published: 2024-07-21T09:11:01.837803+00:00
-
- ## Home
- - [https://www.esso.ca](https://www.esso.ca)
- - date_published: 2024-07-17T16:34:54.621386+00:00
-
- ## Esteem Homes | We Build Structures & Relationships to Last
- - [http://esteemhomes.ca](http://esteemhomes.ca)
- - date_published: 2024-06-23T12:42:59.698706+00:00
-
- ## eStore Pros Canada
- - [http://estoreproscanada.ca](http://estoreproscanada.ca)
- - date_published: 2021-05-15T04:30:51+00:00
-
- ## Eternal Abundance • Eternal Abundance
- - [http://eternalabundance.ca](http://eternalabundance.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Welcome to EthicsWeb.ca -- Your Canadian window on ethics resources, national and international.
- - [http://www.ethicsweb.ca](http://www.ethicsweb.ca)
- - date_published: 2010-11-01T20:54:16+00:00
-
- ## Home | ETHToronto | August 13-14, 2024 | Toronto, Canada
- - [https://www.ethtoronto.ca](https://www.ethtoronto.ca)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Networks 2016 Conference
- - [http://networks2016.etsmtl.ca](http://networks2016.etsmtl.ca)
- - date_published: 2016-10-13T19:28:50+00:00
-
- ## EurekaHacks
- - [https://eurekahacks.ca](https://eurekahacks.ca)
- - date_published: 2024-06-20T15:20:10.591787+00:00
-
- ## Evan Jones - Software Engineer | Computer Scientist
- - [https://www.evanjones.ca](https://www.evanjones.ca)
- - date_published: 2023-10-25T12:04:49.962005+00:00
-
- ## Evenix
- - [https://evenix.ca](https://evenix.ca)
- - date_published: 2024-07-10T05:32:49.487443+00:00
-
- ## Alexander Manu on 'Artificial Intelligence & the Future of Creativity'
- - [https://alexandermanu.eventbrite.ca](https://alexandermanu.eventbrite.ca)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Prepare to Study, Work, Live, and Migrate to Canada NOW!
- - [https://cometocanada2024withsun-corkuyas.eventbrite.ca](https://cometocanada2024withsun-corkuyas.eventbrite.ca)
- - date_published: 2024-08-10T00:00:00+00:00
-
- ## LangFest Montréal: 2018.08.21-26 (Free/Gratuit: 08.21-23; Conférences: 08.24-26)
- - [http://langfest2018.eventbrite.ca](http://langfest2018.eventbrite.ca)
- - date_published: 2024-07-02T09:01:07.115980+00:00
-
- ## Eventbrite
- - [https://www.eventbrite.ca](https://www.eventbrite.ca)
- - date_published: 2024-02-24T18:11:15.206135+00:00
-
- ## The Event Group | Event Planning & Management, Calgary, Alberta
- - [http://www.eventgroup.ca](http://www.eventgroup.ca)
- - date_published: 2024-06-26T22:37:00.100250+00:00
 

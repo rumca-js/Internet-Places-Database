@@ -1,3 +1,55 @@
+ ## ScrappyChef
+ - [https://scrappychef.ai](https://scrappychef.ai)
+ - date_published: 2024-06-19T20:37:50+00:00
+
+ ## Scribbly – AI-powered Email Writing
+ - [https://www.scribbly.ai](https://www.scribbly.ai)
+ - date_published: 2024-06-19T19:57:13.435693+00:00
+
+ ## Scribe — Transform meetings into instantly searchable and shareable video & text
+ - [https://get.scribe.ai](https://get.scribe.ai)
+ - date_published: 2021-05-27T00:00:00+00:00
+
+ ## Scriv | A private chatbot for your data.
+ - [https://scriv.ai](https://scriv.ai)
+ - date_published: 2023-10-25T11:42:33.409038+00:00
+
+ ## Scrivvy - Summarize YouTube Videos Easily
+ - [https://scrivvy.ai](https://scrivvy.ai)
+ - date_published: 2024-06-19T19:54:51.953427+00:00
+
+ ## AI Expo for National Competitiveness | Washington, D.C, May 7 & 8
+ - [https://expo.scsp.ai](https://expo.scsp.ai)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Homepage - SCSP
+ - [https://www.scsp.ai](https://www.scsp.ai)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Free AI Art Generator: Create AI Art from Text - SeaArt AI
+ - [https://www.seaart.ai](https://www.seaart.ai)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## searchable.ai
+ - [https://www.searchable.ai](https://www.searchable.ai)
+ - date_published: 2024-06-19T18:56:27.989488+00:00
+
+ ## Sales Training Software: Upskill with AI Role-Play - Second Nature
+ - [https://secondnature.ai](https://secondnature.ai)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Authentic AI Headshots and Portraits | Secta Labs
+ - [https://secta.ai](https://secta.ai)
+ - date_published: 2024-06-19T20:03:05.982202+00:00
+
+ ## Join me at SECtember.ai 2024
+ - [https://www.sectember.ai](https://www.sectember.ai)
+ - date_published: 2024-06-18T13:40:29.678153+00:00
+
+ ## Secure Privacy
+ - [https://app.secureprivacy.ai](https://app.secureprivacy.ai)
+ - date_published: 2024-05-04T14:47:56.412587+00:00
+
  ## Securiti
  - [https://app.eu.securiti.ai](https://app.eu.securiti.ai)
  - date_published: 2024-06-15T21:43:07.605889+00:00
@@ -558,6 +610,10 @@
  - date_published: 2024-06-26T16:53:48+00:00
 
  ## StudentAdvisor
+ - [https://gatech.studentadvisor.ai](https://gatech.studentadvisor.ai)
+ - date_published: 2024-06-26T16:53:48+00:00
+
+ ## StudentAdvisor
  - [https://uga.studentadvisor.ai](https://uga.studentadvisor.ai)
  - date_published: 2024-06-18T17:47:36+00:00
 
@@ -1056,6 +1112,10 @@
  ## Auto Dialer
  - [https://www.trellus.ai](https://www.trellus.ai)
  - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Real-Time Notifications for Your Sales Team | Triggr
+ - [https://www.triggr.ai](https://www.triggr.ai)
+ - date_published: 2024-07-22T03:25:32+00:00
 
  ## Build a World of Audio for your Audience | Trinity Audio
  - [https://trinityaudio.ai](https://trinityaudio.ai)
@@ -2412,7 +2472,7 @@ Creative Solutions
  - date_published: 2024-07-13T04:16:47.657515+00:00
 
  ## HTML Codes, Editors, and Generators
- - [http://www.html.am](http://www.html.am)
+ - [https://html.am](https://html.am)
  - date_published: 2024-04-30T03:46:55.617332+00:00
 
  ## Instagram
@@ -2462,6 +2522,10 @@ Creative Solutions
  ## Գլխավոր – Mediainitiatives
  - [https://mediainitiatives.am](https://mediainitiatives.am)
  - date_published: 2024-05-07T23:42:13.359843+00:00
+
+ ## Heather Miller
+ - [https://heather.miller.am](https://heather.miller.am)
+ - date_published: 2024-06-16T19:44:02+00:00
 
  ## Technical subdomain
  - [https://19vx.mj.am](https://19vx.mj.am)
@@ -3171,9 +3235,21 @@ Creative Solutions
  - [https://announcekit.app](https://announcekit.app)
  - date_published: 2024-04-30T00:29:18.393879+00:00
 
+ ## AnnounceKit Product Updates
+ - [https://changelog.announcekit.app](https://changelog.announcekit.app)
+ - date_published: 2024-07-22T17:21:25.052813+00:00
+
+ ## AnnounceKit Help Center
+ - [https://help.announcekit.app](https://help.announcekit.app)
+ - date_published: 2024-07-22T17:21:22.938446+00:00
+
  ## imgix - Image Processing On-Demand, Served By CDN
  - [https://img.announcekit.app](https://img.announcekit.app)
  - date_published: 2024-04-19T00:00:00+00:00
+
+ ## AnnounceKit
+ - [https://status.announcekit.app](https://status.announcekit.app)
+ - date_published: 2024-07-22T17:21:27.531417+00:00
 
  ## AnTran.App - All Posts
  - [https://antran.app](https://antran.app)
@@ -3951,80 +4027,4 @@ Creative Solutions
  ## Duolicious | Meet People Who Get You | Date, Make Friends & Chat
  - [https://duolicious.app](https://duolicious.app)
  - date_published: 2024-05-17T02:55:36.190670+00:00
-
- ## Duolicious
- - [https://web.duolicious.app](https://web.duolicious.app)
- - date_published: 2024-07-20T04:55:39.841080+00:00
-
- ## Easy Indie App
- - [https://easyindie.app](https://easyindie.app)
- - date_published: 2024-06-19T22:35:08.072422+00:00
-
- ## EchoFeed
- - [https://echofeed.app](https://echofeed.app)
- - date_published: 2024-05-04T14:15:00.185964+00:00
-
- ## Download Edge
- - [https://dl.edge.app](https://dl.edge.app)
- - date_published: 2024-07-04T10:15:24.191494+00:00
-
- ## Home - Edge
- - [https://edge.app](https://edge.app)
- - date_published: 2024-05-08T05:59:54.071896+00:00
-
- ## Edge
- - [https://support.edge.app](https://support.edge.app)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Edifi Blog
- - [https://blog.edifi.app](https://blog.edifi.app)
- - date_published: 2024-07-04T06:25:38.606584+00:00
-
- ## Home | Edifi
- - [https://edifi.app](https://edifi.app)
- - date_published: 2024-03-21T16:47:35+00:00
-
- ## Edifi Podcasts - Discover Christian Podcasts
- - [https://player.edifi.app](https://player.edifi.app)
- - date_published: 2022-08-25T19:42:36+00:00
-
- ## EditAir: AI-Driven Video Editing
- - [https://www.editair.app](https://www.editair.app)
- - date_published: 2024-06-19T21:11:08.612781+00:00
-
- ## eesel - The new tab for work
- - [https://www.eesel.app](https://www.eesel.app)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Efficient App | Top Software Reviews & Comparisons
- - [https://efficient.app](https://efficient.app)
- - date_published: 2024-05-14T03:37:37.676630+00:00
-
- ## Software & App Stacks by Efficient App
- - [https://stacks.efficient.app](https://stacks.efficient.app)
- - date_published: 2024-07-18T06:54:56.569648+00:00
-
- ## YouTube Video Summaries with Eightify AI ChatGPT
- - [https://www.eightify.app](https://www.eightify.app)
- - date_published: 2023-10-25T11:46:08.020954+00:00
-
- ## eightpoint
- - [https://eightpoint.app](https://eightpoint.app)
- - date_published: 2024-05-23T13:30:40.880013+00:00
-
- ## Elephas - Personal AI Writing Assistant for Mac
- - [https://elephas.app](https://elephas.app)
- - date_published: 2024-06-19T21:05:49.065293+00:00
-
- ## harmy.link
- - [https://peertube-a5egg-u8148.vm.elestio.app](https://peertube-a5egg-u8148.vm.elestio.app)
- - date_published: 2023-10-25T11:46:08.629410+00:00
-
- ## Attention Required! | Cloudflare
- - [https://elevault.app](https://elevault.app)
- - date_published: 2024-05-09T07:36:26.715253+00:00
-
- ## Bleib in Kontakt mit elim. - der virtuellen Karten-App
- - [https://www.elim.app](https://www.elim.app)
- - date_published: 2023-10-25T11:46:10.548444+00:00
 

@@ -1,3 +1,79 @@
+ ## Duolicious
+ - [https://web.duolicious.app](https://web.duolicious.app)
+ - date_published: 2024-07-20T04:55:39.841080+00:00
+
+ ## Easy Indie App
+ - [https://easyindie.app](https://easyindie.app)
+ - date_published: 2024-06-19T22:35:08.072422+00:00
+
+ ## EchoFeed
+ - [https://echofeed.app](https://echofeed.app)
+ - date_published: 2024-05-04T14:15:00.185964+00:00
+
+ ## Download Edge
+ - [https://dl.edge.app](https://dl.edge.app)
+ - date_published: 2024-07-04T10:15:24.191494+00:00
+
+ ## Home - Edge
+ - [https://edge.app](https://edge.app)
+ - date_published: 2024-05-08T05:59:54.071896+00:00
+
+ ## Edge
+ - [https://support.edge.app](https://support.edge.app)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Edifi Blog
+ - [https://blog.edifi.app](https://blog.edifi.app)
+ - date_published: 2024-07-04T06:25:38.606584+00:00
+
+ ## Home | Edifi
+ - [https://edifi.app](https://edifi.app)
+ - date_published: 2024-03-21T16:47:35+00:00
+
+ ## Edifi Podcasts - Discover Christian Podcasts
+ - [https://player.edifi.app](https://player.edifi.app)
+ - date_published: 2022-08-25T19:42:36+00:00
+
+ ## EditAir: AI-Driven Video Editing
+ - [https://www.editair.app](https://www.editair.app)
+ - date_published: 2024-06-19T21:11:08.612781+00:00
+
+ ## eesel - The new tab for work
+ - [https://www.eesel.app](https://www.eesel.app)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Efficient App | Top Software Reviews & Comparisons
+ - [https://efficient.app](https://efficient.app)
+ - date_published: 2024-05-14T03:37:37.676630+00:00
+
+ ## Software & App Stacks by Efficient App
+ - [https://stacks.efficient.app](https://stacks.efficient.app)
+ - date_published: 2024-07-18T06:54:56.569648+00:00
+
+ ## YouTube Video Summaries with Eightify AI ChatGPT
+ - [https://www.eightify.app](https://www.eightify.app)
+ - date_published: 2023-10-25T11:46:08.020954+00:00
+
+ ## eightpoint
+ - [https://eightpoint.app](https://eightpoint.app)
+ - date_published: 2024-05-23T13:30:40.880013+00:00
+
+ ## Elephas - Personal AI Writing Assistant for Mac
+ - [https://elephas.app](https://elephas.app)
+ - date_published: 2024-06-19T21:05:49.065293+00:00
+
+ ## harmy.link
+ - [https://peertube-a5egg-u8148.vm.elestio.app](https://peertube-a5egg-u8148.vm.elestio.app)
+ - date_published: 2023-10-25T11:46:08.629410+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://elevault.app](https://elevault.app)
+ - date_published: 2024-05-09T07:36:26.715253+00:00
+
+ ## Bleib in Kontakt mit elim. - der virtuellen Karten-App
+ - [https://www.elim.app](https://www.elim.app)
+ - date_published: 2023-10-25T11:46:10.548444+00:00
+
  ## Rebrandly
  - [https://elodin.app](https://elodin.app)
  - date_published: 2022-07-05T08:14:45+00:00
@@ -400,9 +476,13 @@
  - [https://getshifted.app](https://getshifted.app)
  - date_published: 2024-04-29T03:46:35.988745+00:00
 
+ ## Home
+ - [https://developer.getsileo.app](https://developer.getsileo.app)
+ - date_published: 2021-05-25T18:52:11+00:00
+
  ## Sileo
  - [https://getsileo.app](https://getsileo.app)
- - date_published: 2024-04-30T02:19:38.116541+00:00
+ - date_published: 2023-06-20T21:47:40+00:00
 
  ## Until
  - [https://getuntil.app](https://getuntil.app)
@@ -1561,6 +1641,10 @@
  - [https://bookmark-divider.netlify.app](https://bookmark-divider.netlify.app)
  - date_published: 2024-07-02T18:43:40.284445+00:00
 
+ ## Catbot Chat
+ - [https://botcat.netlify.app](https://botcat.netlify.app)
+ - date_published: 2024-07-22T17:11:11.762691+00:00
+
  ## React App
  - [https://bubble-wrap.netlify.app](https://bubble-wrap.netlify.app)
  - date_published: 2024-07-02T20:49:37.828116+00:00
@@ -1788,6 +1872,10 @@
  - [https://htmlwithsuperpowers.netlify.app](https://htmlwithsuperpowers.netlify.app)
  - date_published: 2023-10-25T11:47:32.982005+00:00
 
+ ## Home | Creator's Blog (Hugo Theme)
+ - [https://hugo-blog-theme.netlify.app](https://hugo-blog-theme.netlify.app)
+ - date_published: 2024-06-02T00:00:00+00:00
+
  ## îles
  - [https://iles-docs.netlify.app](https://iles-docs.netlify.app)
  - date_published: 2024-07-08T14:41:45.225122+00:00
@@ -1800,6 +1888,10 @@
  - [https://ingame-photography.netlify.app](https://ingame-photography.netlify.app)
  - date_published: 2024-07-02T18:28:12.459898+00:00
 
+ ## Intrinsic Layout: A guide from web.dev
+ - [https://intrinsic-css.netlify.app](https://intrinsic-css.netlify.app)
+ - date_published: 2024-07-22T12:45:01.552767+00:00
+
  ## Is This Site Netlify?
  - [https://is-this.netlify.app](https://is-this.netlify.app)
  - date_published: 2024-05-06T13:33:32.286093+00:00
@@ -1807,6 +1899,10 @@
  ## Front-End Developer, UI/UX Designer
  - [https://jeffson.netlify.app](https://jeffson.netlify.app)
  - date_published: 2024-05-11T10:10:31.363817+00:00
+
+ ## Feed – jhey.dev
+ - [https://jhey.netlify.app](https://jhey.netlify.app)
+ - date_published: 2024-07-22T12:29:56.681289+00:00
 
  ## JOJX
  - [https://jojx.netlify.app](https://jojx.netlify.app)
@@ -2178,6 +2274,10 @@
  ## Smashing Conf: View Transitions
  - [https://smashing-transitions.netlify.app](https://smashing-transitions.netlify.app)
  - date_published: 2024-04-30T02:02:38.070604+00:00
+
+ ## Smol 11ty Starter
+ - [https://smol-11ty-starter.netlify.app](https://smol-11ty-starter.netlify.app)
+ - date_published: 2024-07-22T12:50:40.618281+00:00
 
  ## Presence with Convex
  - [https://spectacular-beijinho-ccf8ab.netlify.app](https://spectacular-beijinho-ccf8ab.netlify.app)
@@ -3370,6 +3470,10 @@
  - [https://slater.app](https://slater.app)
  - date_published: 2024-03-20T00:00:00+00:00
 
+ ## Feedback | Academia.edu
+ - [https://665a80a1d207b.sleekplan.app](https://665a80a1d207b.sleekplan.app)
+ - date_published: 2024-05-01T00:00:00+00:00
+
  ## Feedback | Playtronica
  - [https://playtronica.sleekplan.app](https://playtronica.sleekplan.app)
  - date_published: 2024-05-11T08:47:57.819194+00:00
@@ -3674,6 +3778,10 @@
  - date_published: 2023-10-25T11:49:16.037626+00:00
  - tags: ['software development platform']
 
+ ## Taurine
+ - [https://taurine.app](https://taurine.app)
+ - date_published: 2023-09-24T00:23:47+00:00
+
  ## teachyourselfmath
  - [https://teachyourselfmath.app](https://teachyourselfmath.app)
  - date_published: 2024-01-24T06:49:02.414761+00:00
@@ -3933,112 +4041,4 @@
  ## Introduction | TokenUnlocks
  - [https://docs.unlocks.app](https://docs.unlocks.app)
  - date_published: 2024-05-30T00:00:00+00:00
-
- ## TokenUnlocks
- - [https://feedback.unlocks.app](https://feedback.unlocks.app)
- - date_published: 2024-06-16T03:52:30.669262+00:00
-
- ## Unlocks Insights | TokenUnlocks's Blog
- - [https://insights.unlocks.app](https://insights.unlocks.app)
- - date_published: 2024-06-16T03:52:11.445724+00:00
-
- ## Custom Domain by Bitly
- - [https://pro.unlocks.app](https://pro.unlocks.app)
- - date_published: 2024-06-15T00:55:38+00:00
-
- ## Token Unlocks - Your Unlock Schedule & Tokenomics Data
- - [https://token.unlocks.app](https://token.unlocks.app)
- - date_published: 2024-05-01T05:33:04.680652+00:00
-
- ## UnTrap for YouTube
- - [https://untrap.app](https://untrap.app)
- - date_published: 2024-04-09T20:29:03+00:00
-
- ## The Unwanteds App
- - [http://unwanteds.app](http://unwanteds.app)
- - date_published: 2020-07-13T08:26:50+00:00
-
- ## UpCat - Upwork Assistant
- - [https://upcat.app](https://upcat.app)
- - date_published: 2023-10-10T16:36:57+00:00
-
- ## UpLift
- - [https://www.uplift.app](https://www.uplift.app)
- - date_published: 2021-11-16T23:48:11+00:00
-
- ## Upmind - Commerce and Billing Platform
- - [https://embed.upmind.app](https://embed.upmind.app)
- - date_published: 2024-06-15T22:45:16.883753+00:00
-
- ## Made an app that summarizes recent popular stories from Hacker News
- - [https://hackerdigest.upstash.app](https://hackerdigest.upstash.app)
- - date_published: 2023-11-16T12:26:14+00:00
-
- ## Upstock | Wholesale ordering, payments & logistics
- - [https://www.upstock.app](https://www.upstock.app)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## UpVPN: Serverless VPN - Prepaid - Pay as you go VPN
- - [https://upvpn.app](https://upvpn.app)
- - date_published: 2023-10-25T11:49:43.710632+00:00
-
- ## Useful | Coach your reps to 100% attainment
- - [https://useful.app](https://useful.app)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Welcome to Gravity | Gravity
- - [https://docs.usegravity.app](https://docs.usegravity.app)
- - date_published: 2024-07-10T11:07:31.779809+00:00
-
- ## Node.js SaaS Boilerplate & Starter Kit with React.js | Gravity
- - [https://usegravity.app](https://usegravity.app)
- - date_published: 2024-05-09T08:38:39.631713+00:00
-
- ## VIA
- - [https://www.usevia.app](https://www.usevia.app)
- - date_published: 2024-06-07T22:19:05+00:00
-
- ## Is it vegan? – Veganify
- - [https://veganify.app](https://veganify.app)
- - date_published: 2024-06-03T11:18:59.757200+00:00
-
- ## Your AI speech-writing assistant
- - [https://www.verble.app](https://www.verble.app)
- - date_published: 2024-06-13T14:11:50+00:00
-
- ## Verbloom
- - [https://verbloom.app](https://verbloom.app)
- - date_published: 2022-11-24T19:08:26+00:00
-
- ## Payments and much more – Barion
- - [https://2023-barion-com-facelift.vercel.app](https://2023-barion-com-facelift.vercel.app)
- - date_published: 2024-06-26T08:03:10.435917+00:00
-
- ## Travel with the 49 Euro ticket
- - [https://49travel.vercel.app](https://49travel.vercel.app)
- - date_published: 2023-10-25T11:49:45.612462+00:00
-
- ## acon
- - [https://aconlin.vercel.app](https://aconlin.vercel.app)
- - date_published: 2024-06-20T15:37:41.437178+00:00
-
- ## active app
- - [https://active-ten.vercel.app](https://active-ten.vercel.app)
- - date_published: 2024-06-22T22:21:55.730098+00:00
-
- ## The Adventure of Penelope the Porcupine and the Land of Whimsy
- - [https://adventure-of-penelope.vercel.app](https://adventure-of-penelope.vercel.app)
- - date_published: 2023-10-25T11:49:51.698766+00:00
-
- ## AI Bookstore | AI that helps you find the books you want to read
- - [https://ai-book-store.vercel.app](https://ai-book-store.vercel.app)
- - date_published: 2024-06-19T19:12:23.941020+00:00
-
- ## Image Variations: AI Generator - Generate variations of any input image with AI
- - [https://ai-imagegenerator.vercel.app](https://ai-imagegenerator.vercel.app)
- - date_published: 2024-06-19T19:57:46.116728+00:00
-
- ## AI Incident Reports
- - [https://aiincidentsreport.vercel.app](https://aiincidentsreport.vercel.app)
- - date_published: 2023-10-25T11:49:53.003545+00:00
 
