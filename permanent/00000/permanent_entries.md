@@ -39,6 +39,10 @@
  - [https://usergroup.ally.ac](https://usergroup.ally.ac)
  - date_published: 2024-07-01T12:35:24.762619+00:00
 
+ ## A transparent consulting company
+ - [https://apex.ac](https://apex.ac)
+ - date_published: 2024-07-23T23:31:35.407401+00:00
+
  ## AstroLAB
  - [https://astrolab.ac](https://astrolab.ac)
  - date_published: 2024-05-08T11:36:45.111123+00:00
@@ -218,6 +222,10 @@
  ## Frontpage
  - [https://meddic.academy](https://meddic.academy)
  - date_published: 2024-07-22T18:09:03.261269+00:00
+
+ ## Merge Academy – курси ІТ з працевлаштуванням від кращих менторів агенції Merge
+ - [https://merge.academy](https://merge.academy)
+ - date_published: 2024-07-23T22:31:58.274602+00:00
 
  ## Home | Moodle Academy
  - [https://moodle.academy](https://moodle.academy)
@@ -1213,6 +1221,10 @@
  - [http://www.doubleup.agency](http://www.doubleup.agency)
  - date_published: 2024-06-13T00:00:00+00:00
 
+ ## Your software agency - dyve GmbH
+ - [https://dyve.agency](https://dyve.agency)
+ - date_published: 2024-07-23T22:15:21.429112+00:00
+
  ## SEO Web Design in Pittsburgh | Video Production Company
  - [http://www.e3media.agency](http://www.e3media.agency)
  - date_published: 2024-07-14T16:42:45.786581+00:00
@@ -1454,6 +1466,10 @@
  - [https://www.adaptify.ai](https://www.adaptify.ai)
  - date_published: 2024-06-19T21:28:34.956683+00:00
 
+ ## Adarga | Home
+ - [https://adarga.ai](https://adarga.ai)
+ - date_published: 2024-07-23T21:20:09.121133+00:00
+
  ## Meta Ads AI: Split Tests, Copy & Optimization Made Simple
  - [https://adcopy.ai](https://adcopy.ai)
  - date_published: 2024-06-17T00:00:00+00:00
@@ -1595,6 +1611,10 @@
  - [https://www.aiva.ai](https://www.aiva.ai)
  - date_published: 2024-06-14T08:56:59.645566+00:00
 
+ ## 악어디지털 - 아시아 최대의 DX 원스톱 플랫폼
+ - [https://akuo.ai](https://akuo.ai)
+ - date_published: 2024-01-08T00:00:00+00:00
+
  ## MyReport by alaba a.i.
  - [https://myreport.alaba.ai](https://myreport.alaba.ai)
  - date_published: 2024-04-25T20:32:20+00:00
@@ -1722,6 +1742,10 @@
  ## ARAHUB
  - [https://arahub.ai](https://arahub.ai)
  - date_published: 2024-07-12T08:37:45.088031+00:00
+
+ ## Arcee AI - Your LLM, Your Data, Your Cloud
+ - [https://www.arcee.ai](https://www.arcee.ai)
+ - date_published: 2024-07-23T00:00:00+00:00
 
  ## Genera.so | Home to generative applications
  - [https://www.arch-e.ai](https://www.arch-e.ai)
@@ -2293,9 +2317,17 @@
  - [https://newsletter.brxnd.ai](https://newsletter.brxnd.ai)
  - date_published: 2024-06-28T16:41:14.507225+00:00
 
+ ## Login
+ - [https://app.buildel.ai](https://app.buildel.ai)
+ - date_published: 2024-07-23T21:53:55.302066+00:00
+
  ## Buildel
  - [https://buildel.ai](https://buildel.ai)
  - date_published: 2024-04-29T07:45:48.255534+00:00
+
+ ## Buildel Docs
+ - [https://docs.buildel.ai](https://docs.buildel.ai)
+ - date_published: 2024-07-23T21:54:01.224086+00:00
 
  ## Cosine
  - [https://www.buildt.ai](https://www.buildt.ai)
@@ -2436,6 +2468,14 @@
  ## Censius | AI Observability For Everyone
  - [https://censius.ai](https://censius.ai)
  - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Home - CentML
+ - [https://centml.ai](https://centml.ai)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Cerebral Valley
+ - [https://cerebralvalley.ai](https://cerebralvalley.ai)
+ - date_published: 2024-07-23T21:18:47.618020+00:00
 
  ## cerebralvalley #02-general-community-chat
  - [https://linen.cerebralvalley.ai](https://linen.cerebralvalley.ai)
@@ -3989,44 +4029,4 @@ Welcome
  ## Fintech Ready News API
  - [https://finalle.ai](https://finalle.ai)
  - date_published: 2024-06-19T19:38:50.158458+00:00
-
- ## Finito
- - [https://www.finito.ai](https://www.finito.ai)
- - date_published: 2024-06-19T19:26:10.844524+00:00
-
- ## Fireflies.ai - Free Meeting Recorder
- - [https://app.fireflies.ai](https://app.fireflies.ai)
- - date_published: 2024-06-26T13:50:14.824140+00:00
-
- ## Introduction - Fireflies.ai API Documentation
- - [https://docs.fireflies.ai](https://docs.fireflies.ai)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Fireflies.ai | AI notetaker to transcribe, summarize, analyze meetings
- - [https://fireflies.ai](https://fireflies.ai)
- - date_published: 2024-05-06T19:48:12.423957+00:00
-
- ## Fireworks.ai – Medium
- - [https://blog.fireworks.ai](https://blog.fireworks.ai)
- - date_published: 2023-12-21T09:50:10.116514+00:00
-
- ## Fireworks - Generative AI For Product Innovation!
- - [https://fireworks.ai](https://fireworks.ai)
- - date_published: 2024-05-24T19:34:58.576030+00:00
-
- ## First Impression
- - [https://firstimpression.ai](https://firstimpression.ai)
- - date_published: 2024-05-07T18:22:13.318552+00:00
-
- ## Homepage - Quickplay
- - [https://firstlight.ai](https://firstlight.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Autonomous vehicle development and safety assurance platform
- - [https://five.ai](https://five.ai)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Fixie.ai Blog
- - [https://blog.fixie.ai](https://blog.fixie.ai)
- - date_published: 2023-10-25T11:38:51.003257+00:00
 

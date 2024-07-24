@@ -1,3 +1,316 @@
+ ## ICES
+ - [https://www.ices.on.ca](https://www.ices.on.ca)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## St. Catharines Public Library - Home
+ - [http://www.stcatharines.library.on.ca](http://www.stcatharines.library.on.ca)
+ - date_published: 2024-07-15T03:53:34+00:00
+
+ ## Muskoka Lakes Association - Home
+ - [https://www.mla.on.ca](https://www.mla.on.ca)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Welcome to the OAA
+ - [https://oaa.on.ca](https://oaa.on.ca)
+ - date_published: 2024-04-30T05:04:06.444617+00:00
+
+ ## Sign In
+ - [https://secure.oaa.on.ca](https://secure.oaa.on.ca)
+ - date_published: 2024-07-21T09:53:33.289045+00:00
+
+ ## Ontario Human Rights Commission |
+ - [http://www.ohrc.on.ca](http://www.ohrc.on.ca)
+ - date_published: 2024-07-21T07:57:21.259960+00:00
+
+ ## Home -
+ - [https://www.ottawahospital.on.ca](https://www.ottawahospital.on.ca)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Homepage - The Burgess Shale
+ - [https://burgess-shale.rom.on.ca](https://burgess-shale.rom.on.ca)
+ - date_published: 2024-07-02T14:42:50.721758+00:00
+
+ ## L'Agenda du libre du Québec
+ - [https://agendadulibre.qc.ca](https://agendadulibre.qc.ca)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## ASTROLab du Parc du Mont-Mégantic - Astrolab du parc national du Mont-Mégantic
+ - [https://www.astrolab.qc.ca](https://www.astrolab.qc.ca)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Accueil | Collège Bois de Boulogne
+ - [https://bdeb.qc.ca](https://bdeb.qc.ca)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Accueil - Cégep Gérald-Godin
+ - [https://cgodin.qc.ca](https://cgodin.qc.ca)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Collège de Maisonneuve|Cégep à Montréal
+ - [https://cmaisonneuve.qc.ca](https://cmaisonneuve.qc.ca)
+ - date_published: 2023-03-21T00:00:00+00:00
+
+ ## Accueil
+ - [https://frq.gouv.qc.ca](https://frq.gouv.qc.ca)
+ - date_published: 2024-06-22T07:30:03+00:00
+
+ ## Trouver une décision | SOQUIJ
+ - [https://jugements.qc.ca](https://jugements.qc.ca)
+ - date_published: 2024-04-30T05:33:19.515573+00:00
+
+ ## Accueil | les amis de la montagne
+ - [http://www.lemontroyal.qc.ca](http://www.lemontroyal.qc.ca)
+ - date_published: 2024-07-10T11:01:26.676342+00:00
+
+ ## Un avenir à égalité | Oxfam-Québec
+ - [https://oxfam.qc.ca](https://oxfam.qc.ca)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Québec Science - L'heure est à la science
+ - [https://www.quebecscience.qc.ca](https://www.quebecscience.qc.ca)
+ - date_published: 2018-06-18T22:31:43+00:00
+
+ ## Centre d'aide SOQUIJ
+ - [https://aide.soquij.qc.ca](https://aide.soquij.qc.ca)
+ - date_published: 2023-07-22T07:50:13+00:00
+
+ ## Accueil
+ - [https://aristote.soquij.qc.ca](https://aristote.soquij.qc.ca)
+ - date_published: 2024-04-30T05:33:10.583218+00:00
+
+ ## Accueil
+ - [https://blogue.soquij.qc.ca](https://blogue.soquij.qc.ca)
+ - date_published: 2024-04-30T05:33:59.647746+00:00
+
+ ## Nos postes ouverts à Montréal, Québec | SOQUIJ Carrières
+ - [https://carrieres.soquij.qc.ca](https://carrieres.soquij.qc.ca)
+ - date_published: 2024-07-21T07:54:53.717013+00:00
+
+ ## Trouver une décision | SOQUIJ
+ - [https://citoyens.soquij.qc.ca](https://citoyens.soquij.qc.ca)
+ - date_published: 2023-10-25T12:09:44.985607+00:00
+
+ ## Centre de formation SOQUIJ
+ - [https://formations.soquij.qc.ca](https://formations.soquij.qc.ca)
+ - date_published: 2024-07-21T07:54:55.119535+00:00
+
+ ## Accueil
+ - [https://soquij.qc.ca](https://soquij.qc.ca)
+ - date_published: 2024-04-30T05:33:12.499235+00:00
+
+ ## ashur.cab/rera
+ - [https://ashur.cab](https://ashur.cab)
+ - date_published: 2024-07-08T22:19:26.725704+00:00
+
+ ## [mdk] arcade rom and information repository
+ - [https://mdk.cab](https://mdk.cab)
+ - date_published: 2024-07-11T16:21:07.819129+00:00
+
+ ## 32-Bit Cafe
+ - [https://32bit.cafe](https://32bit.cafe)
+ - date_published: 2024-05-06T15:02:55.360254+00:00
+
+ ## 32-Bit Cafe
+ - [https://discourse.32bit.cafe](https://discourse.32bit.cafe)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## 32-Bit Cafe Gitea
+ - [https://git.32bit.cafe](https://git.32bit.cafe)
+ - date_published: 2024-06-23T18:34:30.771823+00:00
+
+ ## My 32-Bit Cafe
+ - [https://my.32bit.cafe](https://my.32bit.cafe)
+ - date_published: 2024-02-14T19:37:13+00:00
+
+ ## 32 Bitcoin Cafe - CryptoCuppaz collection!
+ - [https://nft.32bit.cafe](https://nft.32bit.cafe)
+ - date_published: 2023-07-18T09:05:18+00:00
+
+ ## FreshRSS
+ - [https://rss.32bit.cafe](https://rss.32bit.cafe)
+ - date_published: 2023-12-30T16:17:00+00:00
+
+ ## 32-Bit Cafe
+ - [https://spampoison.32bit.cafe](https://spampoison.32bit.cafe)
+ - date_published: 2024-06-23T17:37:11.909673+00:00
+
+ ## ~32bit
+ - [https://tilde.32bit.cafe](https://tilde.32bit.cafe)
+ - date_published: 2023-04-01T18:58:08+00:00
+
+ ## 32-bit Cafe - Login
+ - [https://webmail.32bit.cafe](https://webmail.32bit.cafe)
+ - date_published: 2024-06-23T18:34:57.328349+00:00
+
+ ## Backend Cafe
+ - [https://backend.cafe](https://backend.cafe)
+ - date_published: 2023-10-25T12:09:49.850684+00:00
+
+ ## Basil's Café
+ - [https://basil.cafe](https://basil.cafe)
+ - date_published: 2024-05-07T23:14:35.904453+00:00
+
+ ## Home
+ - [https://coffin-wiki.basil.cafe](https://coffin-wiki.basil.cafe)
+ - date_published: 2024-06-18T15:21:30.496269+00:00
+
+ ## Currently offline until further notice
+ - [https://umami.basil.cafe](https://umami.basil.cafe)
+ - date_published: 1970-01-01T00:00:01+00:00
+
+ ## BinaryDigit's Cafe
+ - [https://binarydigit.cafe](https://binarydigit.cafe)
+ - date_published: 2024-04-28T02:45:18.201129+00:00
+
+ ## BinaryDigit's Now Page
+ - [https://now.binarydigit.cafe](https://now.binarydigit.cafe)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Your awesome title
+ - [https://biyori.cafe](https://biyori.cafe)
+ - date_published: 2024-07-17T21:16:11+00:00
+
+ ## blinkie maker | generate blinkie gifs with custom text!
+ - [https://blinkies.cafe](https://blinkies.cafe)
+ - date_published: 2024-05-09T08:41:14.068662+00:00
+
+ ## BSD.cafe Mastodon Portal
+ - [https://mastodon.bsd.cafe](https://mastodon.bsd.cafe)
+ - date_published: 2023-10-27T13:13:18.606396+00:00
+
+ ## BSD Cafe - Status
+ - [https://status.bsd.cafe](https://status.bsd.cafe)
+ - date_published: 2024-04-30T05:34:05.356517+00:00
+
+ ## CRO.CAFE | Nederlandstalig
+ - [https://nl.cro.cafe](https://nl.cro.cafe)
+ - date_published: 2022-11-23T00:00:00+00:00
+
+ ## CRO.CAFE: Award winning CRO Podcast
+ - [https://www.cro.cafe](https://www.cro.cafe)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Home - CSS-Cafe
+ - [https://css.cafe](https://css.cafe)
+ - date_published: 2024-04-30T02:02:44.004143+00:00
+
+ ## CypherWeavers' Cafe
+ - [https://www.cypherweavers.cafe](https://www.cypherweavers.cafe)
+ - date_published: 2024-04-28T11:42:58+00:00
+
+ ## Daft Punk Cafe
+ - [https://daftpunk.cafe](https://daftpunk.cafe)
+ - date_published: 2024-05-06T21:28:58.823211+00:00
+
+ ## Eldritch Café
+ - [https://eldritch.cafe](https://eldritch.cafe)
+ - date_published: 2024-01-08T02:07:15.832728+00:00
+
+ ## elke.cafe
+ - [https://elke.cafe](https://elke.cafe)
+ - date_published: 2024-07-21T07:54:22+00:00
+
+ ## Emma Segal-Grossman
+ - [https://emma.cafe](https://emma.cafe)
+ - date_published: 2024-06-19T02:26:03.907484+00:00
+
+ ## Bit banging a 3.5" Floppy Drive
+ - [https://floppy.cafe](https://floppy.cafe)
+ - date_published: 2023-12-19T18:09:27+00:00
+
+ ## Functional Café
+ - [https://functional.cafe](https://functional.cafe)
+ - date_published: 2024-05-09T02:39:05.354509+00:00
+
+ ## gist.cafe
+ - [https://gist.cafe](https://gist.cafe)
+ - date_published: 2024-04-29T02:09:13+00:00
+
+ ## Hey.Café
+ - [https://hey.cafe](https://hey.cafe)
+ - date_published: 2024-07-02T20:13:02.105446+00:00
+
+ ## HTML.cafe - a realtime HTML editor and host
+ - [https://html.cafe](https://html.cafe)
+ - date_published: 2024-07-23T23:42:59.598291+00:00
+
+ ## Hyperlink Cafe
+ - [https://hyperlink.cafe](https://hyperlink.cafe)
+ - date_published: 2024-05-06T15:01:28.005543+00:00
+
+ ## Lab.cafe | Dielňa, Kaviareň, Podujatia
+ - [https://lab.cafe](https://lab.cafe)
+ - date_published: 2024-07-02T23:43:10.961811+00:00
+
+ ## lechuza café
+ - [https://lechuza.cafe](https://lechuza.cafe)
+ - date_published: 2024-04-03T06:30:06.410291+00:00
+ - tags: ['personal']
+
+ ## Lemmy Cafe - A general purpose fediverse instance
+ - [https://lemmy.cafe](https://lemmy.cafe)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Loom Cafe - Daniel Murray
+ - [https://loom.cafe](https://loom.cafe)
+ - date_published: 2024-07-21T07:49:20+00:00
+
+ ## lovesick ♡
+ - [https://lovesick.cafe](https://lovesick.cafe)
+ - date_published: 2024-06-19T20:12:44+00:00
+
+ ## medic.cafe
+ - [https://medic.cafe](https://medic.cafe)
+ - date_published: 2024-05-10T06:47:49.954213+00:00
+
+ ## netcup
+ - [https://netcup.cafe](https://netcup.cafe)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ - [https://webzine.nixos.cafe](https://webzine.nixos.cafe)
+ - date_published: 2024-01-09T02:27:20.257524+00:00
+
+ ## A Message For All Of You.
+ - [https://ocha.cafe](https://ocha.cafe)
+ - date_published: 2024-06-08T02:11:51+00:00
+
+ ## Login
+ - [https://dns.omada.cafe](https://dns.omada.cafe)
+ - date_published: 2024-05-11T08:53:43.916124+00:00
+
+ ## Omada's Café Fedi
+ - [https://fedi.omada.cafe](https://fedi.omada.cafe)
+ - date_published: 2024-05-11T08:53:42.320601+00:00
+
+ ## Omada Git server
+ - [https://git.omada.cafe](https://git.omada.cafe)
+ - date_published: 2024-05-11T08:53:41.609322+00:00
+
+ ## Login
+ - [https://nydns.omada.cafe](https://nydns.omada.cafe)
+ - date_published: 2024-05-11T08:53:40.617524+00:00
+
+ ## Omada
+ - [https://omada.cafe](https://omada.cafe)
+ - date_published: 2024-03-20T21:29:27.487824+00:00
+ - tags: ['personal']
+
+ ## Omada Uptime
+ - [https://uptime.omada.cafe](https://uptime.omada.cafe)
+ - date_published: 2024-07-02T12:25:14+00:00
+
+ ## Omada Peertube
+ - [https://video.omada.cafe](https://video.omada.cafe)
+ - date_published: 2024-05-11T08:53:43.109262+00:00
+
+ ## Invidious
+ - [https://yt.omada.cafe](https://yt.omada.cafe)
+ - date_published: 2024-05-11T08:53:39.779642+00:00
+
+ ## Onio Café
+ - [https://onio.cafe](https://onio.cafe)
+ - date_published: 2024-04-05T02:01:18+00:00
+
  ## ordinary.cafe
  - [https://ordinary.cafe](https://ordinary.cafe)
  - date_published: 2024-06-19T23:48:48.047436+00:00
@@ -26,6 +339,10 @@
  ## Re:Play Cafe
  - [https://replay.cafe](https://replay.cafe)
  - date_published: 2023-01-09T07:24:17+00:00
+
+ ## RPG Maker Cafe
+ - [https://rpgmaker.cafe](https://rpgmaker.cafe)
+ - date_published: 2024-07-23T23:19:00.998241+00:00
 
  ## Sivar Cafe
  - [https://sivar.cafe](https://sivar.cafe)
@@ -816,6 +1133,10 @@
  ## Nyan.Cat!
  - [http://www.nyan.cat](http://www.nyan.cat)
  - date_published: 2024-06-23T17:53:24.034570+00:00
+
+ ## Resume - Wei Wang
+ - [https://onev.cat](https://onev.cat)
+ - date_published: 2024-07-23T22:15:17.584717+00:00
 
  ## 97jcp
  - [https://notes.orga.cat](https://notes.orga.cat)
@@ -2152,6 +2473,10 @@
  - [https://proceedings.neurips.cc](https://proceedings.neurips.cc)
  - date_published: 2024-04-28T03:29:07.142085+00:00
 
+ ## NFTrees
+ - [https://nftrees.cc](https://nftrees.cc)
+ - date_published: 2024-07-23T23:26:35.982005+00:00
+
  ## nilFM hack lab
  - [https://hacklab.nilfm.cc](https://hacklab.nilfm.cc)
  - date_published: 2024-07-10T07:54:13.980665+00:00
@@ -2517,6 +2842,10 @@
  ## Sofiane's Blog
  - [https://blog.sofiane.cc](https://blog.sofiane.cc)
  - date_published: 2024-06-15T00:00:00+00:00
+
+ ## CryptoSoots 🌱 — Green NFT Collectibles
+ - [https://soots.cc](https://soots.cc)
+ - date_published: 2024-07-23T23:42:19.302917+00:00
 
  ## Hugo Soucy, développeur Web front-end habitant Lévis, et ceci est sa page Web — hugo.soucy.cc
  - [https://hugo.soucy.cc](https://hugo.soucy.cc)
@@ -3699,333 +4028,4 @@
  - [https://www.blog-gregor.ch](https://www.blog-gregor.ch)
  - date_published: 2023-12-27T23:55:45.885819+00:00
  - tags: ['personal']
-
- ## Everything SQL Server Compact
- - [https://erikej.blogspot.ch](https://erikej.blogspot.ch)
- - date_published: 2024-05-01T03:48:31.365826+00:00
-
- ## Random blatherings by Jeff
- - [http://garzikrants.blogspot.ch](http://garzikrants.blogspot.ch)
- - date_published: 2024-02-28T23:44:24+00:00
-
- ## IT and more (a.k.a. Doing-IT-Right)
- - [https://it-and-more.blogspot.ch](https://it-and-more.blogspot.ch)
- - date_published: 2024-03-13T20:36:44+00:00
-
- ## Nuit Blanche
- - [http://nuit-blanche.blogspot.ch](http://nuit-blanche.blogspot.ch)
- - date_published: 2023-08-17T05:00:00+00:00
-
- ## sirdarckcat
- - [https://sirdarckcat.blogspot.ch](https://sirdarckcat.blogspot.ch)
- - date_published: 2024-03-05T08:00:48+00:00
-
- ## Chocolats Blondel, Chocolatier depuis 1850
- - [https://blondel.ch](https://blondel.ch)
- - date_published: 2024-06-14T15:28:31.291077+00:00
-
- ## blue TV
- - [https://tv.blue.ch](https://tv.blue.ch)
- - date_published: 2024-06-13T16:45:40+00:00
-
- ## blue+ | Sport, TV, Serien & Filme schauen
- - [https://www.blueplus.ch](https://www.blueplus.ch)
- - date_published: 2024-06-13T13:39:42+00:00
-
- ## Tägliche News, Sport und Entertainment
- - [https://www.bluewin.ch](https://www.bluewin.ch)
- - date_published: 2024-06-16T07:20:55.599995+00:00
-
- ## Eigene Bücher & E-Books im Self-Publishing - bod.ch
- - [https://www.bod.ch](https://www.bod.ch)
- - date_published: 2024-07-08T13:06:06.430136+00:00
-
- ## Musée Bolo – Musée suisse de l'informatique, de la culture numérique et du jeu vidéo
- - [https://bolo.ch](https://bolo.ch)
- - date_published: 2024-05-12T07:15:04.597151+00:00
-
- ## Bonto.ch - Junior B.
- - [https://www.bonto.ch](https://www.bonto.ch)
- - date_published: 2023-01-22T11:41:37+00:00
-
- ## BRACK.CH
- - [https://www.brack.ch](https://www.brack.ch)
- - date_published: 2024-07-20T16:12:42.234924+00:00
-
- ## brandlift – Agence de Design graphique – Genève
- - [https://brandlift.ch](https://brandlift.ch)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Breitband
- - [https://breitband.ch](https://breitband.ch)
- - date_published: 2024-07-01T08:50:36+00:00
-
- ## Broadcast.ch
- - [https://www.broadcast.ch](https://www.broadcast.ch)
- - date_published: 2024-07-21T05:39:05.192984+00:00
-
- ## Bromeon :: Home
- - [https://bromeon.ch](https://bromeon.ch)
- - date_published: 2019-10-07T13:49:13+00:00
-
- ## Brother Online
- - [https://atyourside.brother.ch](https://atyourside.brother.ch)
- - date_published: 2024-06-17T20:27:26.043392+00:00
-
- ## Drucken, Kopieren, Scannen | Brother Schweiz Online-Shop
- - [https://www.brother.ch](https://www.brother.ch)
- - date_published: 2024-05-02T11:24:03.503734+00:00
-
- ## Brüggli | Startseite
- - [http://www.brueggli.ch](http://www.brueggli.ch)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## B-Sides
- - [http://b-sides.ch](http://b-sides.ch)
- - date_published: 2024-07-13T15:28:59.100967+00:00
-
- ## Online-Buchhandlung für die Schweiz - buchhaus.ch
- - [https://www.buchhaus.ch](https://www.buchhaus.ch)
- - date_published: 2024-07-20T16:11:40.424478+00:00
-
- ## Home:bücherladen appenzell,9050 appenzell
- - [https://www.buecherladen-appenzell.ch](https://www.buecherladen-appenzell.ch)
- - date_published: 2024-07-21T05:50:42.565604+00:00
-
- ## Start Buchhandlung Bücher zum Turm Bischofszell
- - [https://www.buecherzumturm.ch](https://www.buecherzumturm.ch)
- - date_published: 2024-07-21T05:50:43.469351+00:00
-
- ## c4science
- - [https://c4science.ch](https://c4science.ch)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Sergio Camalich | Maker of Stuff
- - [https://www.camali.ch](https://www.camali.ch)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Canal9
- - [https://canal9.ch](https://canal9.ch)
- - date_published: 2024-07-16T22:07:05.645768+00:00
-
- ## Mit Capterra die richtige Software für dein Unternehmen finden
- - [https://www.capterra.ch](https://www.capterra.ch)
- - date_published: 2024-07-20T19:26:43.734743+00:00
-
- ## Bienvenue chez Cardinal
- - [http://www.cardinal.ch](http://www.cardinal.ch)
- - date_published: 2024-07-03T06:43:33.762341+00:00
-
- ## carte blanche | Carte client des titres Tamedia
- - [https://www.carteb.ch](https://www.carteb.ch)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## carte blanche | Kundenkarte der Tamedia-Titel
- - [https://www.carteblanche.ch](https://www.carteblanche.ch)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Alles über Finanzen: News, Banking & Trading
- - [https://www.cash.ch](https://www.cash.ch)
- - date_published: 2024-06-25T22:02:59.628532+00:00
-
- ## www.ccontrols.ch - Computer Controls  - Computer Controls Group
- - [https://www.ccontrols.ch](https://www.ccontrols.ch)
- - date_published: 2024-07-15T04:10:44.201889+00:00
-
- ## La Cour des comptes de Genève – Au service d’une action publique performante.
- - [http://www.cdc-ge.ch](http://www.cdc-ge.ch)
- - date_published: 2024-06-18T14:24:21.146071+00:00
-
- ## Centre Dürrenmatt Neuchâtel
- - [https://www.cdn.ch](https://www.cdn.ch)
- - date_published: 2024-07-21T06:26:35.595795+00:00
-
- ## CeDe.ch
- - [https://www.cede.ch](https://www.cede.ch)
- - date_published: 2024-07-13T13:36:53.441702+00:00
-
- ## centiskor.ch | A Pokémon fan site
- - [https://centiskor.ch](https://centiskor.ch)
- - date_published: 2024-06-23T18:48:27.611261+00:00
-
- ## Centre d’Art Contemporain Genève
- - [https://centre.ch](https://centre.ch)
- - date_published: 2024-06-26T22:15:33.443867+00:00
-
- ## Accueil
- - [https://centreecotox.ch](https://centreecotox.ch)
- - date_published: 2024-05-12T07:15:12.988064+00:00
-
- ## Centre for Coaching
- - [https://centreforcoaching.ch](https://centreforcoaching.ch)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Bienvenue au Centre Sport et Santé | Centre Sport et Santé (CSS)
- - [http://www.centresportetsante.ch](http://www.centresportetsante.ch)
- - date_published: 2024-07-16T22:34:15.908636+00:00
-
- ## Welcome | ActiWiz
- - [http://actiwiz.web.cern.ch](http://actiwiz.web.cern.ch)
- - date_published: 2024-06-14T13:14:30+00:00
-
- ## Accueil | Admin e-guide
- - [https://admin-eguide.web.cern.ch](https://admin-eguide.web.cern.ch)
- - date_published: 2024-07-21T06:34:31.643562+00:00
-
- ## Home | ALPHA Experiment
- - [http://alpha.web.cern.ch](http://alpha.web.cern.ch)
- - date_published: 2024-06-14T12:18:18+00:00
-
- ## CERN Users Portal
- - [https://auth.cern.ch](https://auth.cern.ch)
- - date_published: 2024-07-01T07:45:42+00:00
-
- ## Authorization Service
- - [https://auth.docs.cern.ch](https://auth.docs.cern.ch)
- - date_published: 2024-07-04T10:58:02+00:00
-
- ## Home | Careers at CERN
- - [https://careers-at-cern.web.cern.ch](https://careers-at-cern.web.cern.ch)
- - date_published: 2024-07-17T16:58:57+00:00
-
- ## What's up on CDS – News, announcements and future developments of CDS services at CERN
- - [https://cds-blog.web.cern.ch](https://cds-blog.web.cern.ch)
- - date_published: 2024-06-15T04:01:23.501496+00:00
-
- ## CERN Document Server
- - [https://cds.cern.ch](https://cds.cern.ch)
- - date_published: 2024-05-01T02:17:47.123653+00:00
-
- ## CERN Document Server
- - [http://cdsweb.cern.ch](http://cdsweb.cern.ch)
- - date_published: 2024-06-30T08:14:17.453770+00:00
-
- ## CERN is celebrating 60 years of science for peace in 2014 | CERN's 60th anniversary
- - [http://cern60.web.cern.ch](http://cern60.web.cern.ch)
- - date_published: 2020-09-15T21:19:04+00:00
-
- ## CERN70 – Inspiring the Future
- - [https://cern-70-wordpress.web.cern.ch](https://cern-70-wordpress.web.cern.ch)
- - date_published: 2024-07-21T05:41:12+00:00
-
- ## Home | CERN
- - [https://cern.ch](https://cern.ch)
- - date_published: 2024-04-30T05:57:39.966832+00:00
-
- ## Home | CERN Open Hardware Licence
- - [https://cern-ohl.web.cern.ch](https://cern-ohl.web.cern.ch)
- - date_published: 2024-07-07T08:38:10.895181+00:00
-
- ## CernVM
- - [https://cernvm.cern.ch](https://cernvm.cern.ch)
- - date_published: 2023-10-25T12:13:02.528440+00:00
-
- ## Dr Sue Cheatham
- - [https://cheatham.web.cern.ch](https://cheatham.web.cern.ch)
- - date_published: 2019-08-08T11:12:25+00:00
-
- ## CERN Long Term Collections | CERN Long Term Collections
- - [https://clt.web.cern.ch](https://clt.web.cern.ch)
- - date_published: 2024-07-21T06:34:22.932887+00:00
-
- ## Sign in to CERN
- - [http://cmsdoc.cern.ch](http://cmsdoc.cern.ch)
- - date_published: 2024-06-30T08:14:34.294514+00:00
-
- ## Sign in to CERN
- - [http://cms.web.cern.ch](http://cms.web.cern.ch)
- - date_published: 2024-06-30T08:14:18.940771+00:00
-
- ## Terms of Use for CERN Audiovisual Media | Copyright and terms of use of CERN content
- - [https://copyright.web.cern.ch](https://copyright.web.cern.ch)
- - date_published: 2024-04-30T05:57:59.148456+00:00
-
- ## Welcome to the CERN Council | CERN Council
- - [https://council.web.cern.ch](https://council.web.cern.ch)
- - date_published: 2024-07-15T14:16:46+00:00
-
- ## Sign in to CERN
- - [https://discourse.web.cern.ch](https://discourse.web.cern.ch)
- - date_published: 2024-07-21T06:40:03.425022+00:00
-
- ## Welcome! | Diversity & Inclusion Programme
- - [http://diversity-and-inclusion.web.cern.ch](http://diversity-and-inclusion.web.cern.ch)
- - date_published: 2024-07-21T06:34:33.761444+00:00
-
- ## Welcome ! | Dosimetry Service
- - [https://dosimetry.web.cern.ch](https://dosimetry.web.cern.ch)
- - date_published: 2024-07-02T15:04:51+00:00
-
- ## Educational Resources | CERN
- - [https://educational-resources.web.cern.ch](https://educational-resources.web.cern.ch)
- - date_published: 2024-04-30T05:57:57.887458+00:00
-
- ## CERN toolbar examples
- - [https://framework.web.cern.ch](https://framework.web.cern.ch)
- - date_published: 2024-03-01T03:24:16+00:00
-
- ## Home | CERN Games Club
- - [https://games-club.web.cern.ch](https://games-club.web.cern.ch)
- - date_published: 2024-07-10T02:03:50.320271+00:00
-
- ## Home | CERN
- - [https://home.web.cern.ch](https://home.web.cern.ch)
- - date_published: 2024-05-14T04:03:55.177397+00:00
-
- ## Welcome to CERN | Human Resources
- - [https://hr.web.cern.ch](https://hr.web.cern.ch)
- - date_published: 2024-04-30T05:58:56.750770+00:00
-
- ## HSE Unit | HSE unit at CERN
- - [https://hse.web.cern.ch](https://hse.web.cern.ch)
- - date_published: 2024-07-21T06:12:05+00:00
-
- ## Home · ILC Agenda (Indico)
- - [http://ilcagenda.cern.ch](http://ilcagenda.cern.ch)
- - date_published: 2024-07-20T22:27:32.541780+00:00
-
- ## Home · Indico
- - [http://indicobeta.cern.ch](http://indicobeta.cern.ch)
- - date_published: 2024-06-30T08:14:38.177483+00:00
-
- ## Home · Indico
- - [https://indico.cern.ch](https://indico.cern.ch)
- - date_published: 2024-02-28T12:13:35.444822+00:00
-
- ## Learning Indico
- - [https://indico.docs.cern.ch](https://indico.docs.cern.ch)
- - date_published: 2024-04-09T11:57:01+00:00
-
- ## http://info.cern.ch
- - [https://info.cern.ch](https://info.cern.ch)
- - date_published: 2024-04-27T08:31:40.472862+00:00
- - tags: ['internet history']
-
- ## Home | internal-audit-service.web.cern.ch
- - [https://internal-audit-service.web.cern.ch](https://internal-audit-service.web.cern.ch)
- - date_published: 2024-04-30T05:58:59.938788+00:00
-
- ## Turn-key research data management repository
- - [https://inveniordm.docs.cern.ch](https://inveniordm.docs.cern.ch)
- - date_published: 2024-06-16T20:25:35+00:00
-
- ## InvenioRDM
- - [https://inveniordm.web.cern.ch](https://inveniordm.web.cern.ch)
- - date_published: 2024-06-19T22:29:30.789443+00:00
-
- ## Kubernetes @ CERN
- - [https://kubernetes.web.cern.ch](https://kubernetes.web.cern.ch)
- - date_published: 2024-06-27T08:23:43+00:00
-
- ## Linux @ CERN
- - [http://linuxsoft.cern.ch](http://linuxsoft.cern.ch)
- - date_published: 2024-06-15T18:24:12.857300+00:00
-
- ## Welcome | nurseryschool.web.cern.ch
- - [http://nurseryschool.web.cern.ch](http://nurseryschool.web.cern.ch)
- - date_published: 2024-07-21T06:34:27.634120+00:00
-
- ## Home | Ombuds
- - [https://ombuds.web.cern.ch](https://ombuds.web.cern.ch)
- - date_published: 2023-10-25T12:13:09.035239+00:00
 

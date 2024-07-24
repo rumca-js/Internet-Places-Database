@@ -1,3 +1,64 @@
+ ## SambaNova Systems | Revolutionize AI Workloads
+ - [https://sambanova.ai](https://sambanova.ai)
+ - date_published: 2024-06-21T16:09:09+00:00
+
+ ## Sandbar: Minimize the risk of your products being used for illicit purposes.
+ - [https://sandbar.ai](https://sandbar.ai)
+ - date_published: 2024-07-09T19:09:14.961547+00:00
+
+ ## Latest Posts
+ - [https://sander.ai](https://sander.ai)
+ - date_published: 2024-03-26T16:00:56.087308+00:00
+
+ ## One-stop AI Productivity app for ADHD
+ - [https://saner.ai](https://saner.ai)
+ - date_published: 2024-06-13T05:50:44+00:00
+
+ ## About Sarai Rosenberg.
+ - [https://sar.ai](https://sar.ai)
+ - date_published: 2022-06-04T06:05:23+00:00
+
+ ## Gizmo | The easiest way to learn
+ - [https://saveall.ai](https://saveall.ai)
+ - date_published: 2023-10-25T11:42:31.337313+00:00
+
+ ## Small Business AI chat - Your AI powered support agent with 24/7 availability
+ - [https://sbhelper.ai](https://sbhelper.ai)
+ - date_published: 2024-07-19T23:01:58.957940+00:00
+
+ ## Center for Scalable Data Analytics and Artificial Intelligence
+ - [https://scads.ai](https://scads.ai)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Scenarium AI
+ - [http://www.scenarium.ai](http://www.scenarium.ai)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Schedule in Seconds
+ - [https://www.scheduler.ai](https://www.scheduler.ai)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## SciML: Open Source Software for Scientific Machine Learning, Physics-Informed AI, and Differentiable Programming
+ - [https://sciml.ai](https://sciml.ai)
+ - date_published: 2023-10-25T11:42:32.506316+00:00
+
+ ## Introduction - The open source AI powered answer engine.
+ - [https://r2r-docs.sciphi.ai](https://r2r-docs.sciphi.ai)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## SciPhi
+ - [https://sciphi.ai](https://sciphi.ai)
+ - date_published: 2024-06-26T21:23:41.288567+00:00
+
+ ## AI for Research | Scite
+ - [https://scite.ai](https://scite.ai)
+ - date_published: 2024-06-19T19:35:43.574313+00:00
+ - tags: ['artificial intelligence bot']
+
+ ## Buy and Sell Domain Names | Dan.com
+ - [http://scotty.ai](http://scotty.ai)
+ - date_published: 2024-07-12T07:20:01.145159+00:00
+
  ## ScrappyChef
  - [https://scrappychef.ai](https://scrappychef.ai)
  - date_published: 2024-06-19T20:37:50+00:00
@@ -321,6 +382,10 @@
  ## Custom LLM for Enterprise
  - [https://soca.ai](https://soca.ai)
  - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Socap.ai
+ - [http://socap.ai](http://socap.ai)
+ - date_published: 2024-06-25T00:00:00+00:00
 
  ## Ecommerce Stores shouldn't be static | Loup
  - [https://socialchat.ai](https://socialchat.ai)
@@ -1316,6 +1381,10 @@
  - [https://signup.union.ai](https://signup.union.ai)
  - date_published: 2024-06-19T02:23:00.147943+00:00
 
+ ## Union: Orchestrate Your AI
+ - [http://union.ai](http://union.ai)
+ - date_published: 2024-07-10T00:00:00+00:00
+
  ## Union.ai • Infrastructure for AI, ML, and Data Workloads
  - [https://www.union.ai](https://www.union.ai)
  - date_published: 2024-05-02T00:00:00+00:00
@@ -1361,6 +1430,10 @@
  ## AI-Powered IELTS Writing Assistant | Improve Your Score with Mock Tests & Instant Feedback
  - [https://upscore.ai](https://upscore.ai)
  - date_published: 2024-06-19T19:52:17.041402+00:00
+
+ ## Powerful Purpose-trained LLM, Solar | Document AI | AGI for Work
+ - [https://www.upstage.ai](https://www.upstage.ai)
+ - date_published: 2024-07-23T00:00:00+00:00
 
  ## UpTrain AI
  - [https://blog.uptrain.ai](https://blog.uptrain.ai)
@@ -3275,6 +3348,10 @@ Creative Solutions
  - [https://arcwise.app](https://arcwise.app)
  - date_published: 2024-05-08T17:00:09+00:00
 
+ ## Aryan Naraghi's personal website
+ - [https://aryan.app](https://aryan.app)
+ - date_published: 2024-07-23T23:28:12.744802+00:00
+
  ## Overview
  - [https://asknotion.app](https://asknotion.app)
  - date_published: 2024-06-19T20:55:50.398579+00:00
@@ -3646,6 +3723,10 @@ Creative Solutions
  - [https://stocknotifier.cmdcbv.app](https://stocknotifier.cmdcbv.app)
  - date_published: 2024-07-14T03:22:18.911073+00:00
 
+ ## Cmder | Console Emulator
+ - [https://cmder.app](https://cmder.app)
+ - date_published: 2024-07-23T22:48:13.266299+00:00
+
  ## Cmd J — ChatGPT extension for Google, StackOverflow, Gmail
  - [https://cmdj.app](https://cmdj.app)
  - date_published: 2023-03-21T18:37:33+00:00
@@ -3723,8 +3804,16 @@ Creative Solutions
  - [http://console.app](http://console.app)
  - date_published: 2024-04-28T01:59:59.092251+00:00
 
+ ## Consonance user community
+ - [https://community.consonance.app](https://community.consonance.app)
+ - date_published: 2024-07-23T21:35:29.378916+00:00
+
+ ## Sign in | Consonance
+ - [https://web.consonance.app](https://web.consonance.app)
+ - date_published: 2024-07-23T21:35:28.271611+00:00
+
  ## Title management for the modern book publisher | Consonance
- - [https://www.consonance.app](https://www.consonance.app)
+ - [https://consonance.app](https://consonance.app)
  - date_published: 2024-04-29T07:49:48.991612+00:00
 
  ## Contrax.app
@@ -3939,92 +4028,4 @@ Creative Solutions
  ## Diffusion Depot · Smart image manager for Stable Diffusion, Midjourney, and DALL-E
  - [https://diffusiondepot.app](https://diffusiondepot.app)
  - date_published: 2024-07-10T11:16:39.983398+00:00
-
- ## Digiboard by La Digitale
- - [https://digiboard.app](https://digiboard.app)
- - date_published: 2024-06-19T22:13:52.808568+00:00
-
- ## Digibuzzer by La Digitale
- - [https://digibuzzer.app](https://digibuzzer.app)
- - date_published: 2024-06-19T22:21:57.705558+00:00
-
- ## Digipad by La Digitale
- - [https://digipad.app](https://digipad.app)
- - date_published: 2024-06-19T22:14:29.585680+00:00
-
- ## Digistorm by La Digitale
- - [https://digistorm.app](https://digistorm.app)
- - date_published: 2024-06-19T22:35:03.515046+00:00
-
- ## Digiwall by La Digitale
- - [https://digiwall.app](https://digiwall.app)
- - date_published: 2024-06-19T22:12:03.314315+00:00
-
- ## Loading…
- - [https://hume-website.directus.app](https://hume-website.directus.app)
- - date_published: 2024-07-11T14:23:10.846976+00:00
-
- ## Loading…
- - [https://marketing.directus.app](https://marketing.directus.app)
- - date_published: 2024-05-19T02:57:27.093137+00:00
-
- ## Loading…
- - [https://ripleys.directus.app](https://ripleys.directus.app)
- - date_published: 2024-04-28T05:07:44.617119+00:00
-
- ## Loading…
- - [https://tv.directus.app](https://tv.directus.app)
- - date_published: 2024-05-19T02:57:34.991470+00:00
-
- ## Doc Converter - Convert PDF files to Word documents (docx)
- - [https://docconverter.app](https://docconverter.app)
- - date_published: 2023-10-25T11:45:58.590918+00:00
-
- ## Login
- - [https://donate2.app](https://donate2.app)
- - date_published: 2024-07-09T16:50:07.318706+00:00
-
- ## DoubleLoop
- - [https://app.doubleloop.app](https://app.doubleloop.app)
- - date_published: 2024-07-04T02:41:16.522866+00:00
-
- ## DoubleLoop Blog
- - [https://blog.doubleloop.app](https://blog.doubleloop.app)
- - date_published: 2024-07-04T02:41:13.856305+00:00
-
- ## Quickstart to Impact-Oriented Strategy | DoubleLoop
- - [https://docs.doubleloop.app](https://docs.doubleloop.app)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## DoubleLoop – Develop an impact-oriented strategy
- - [https://doubleloop.app](https://doubleloop.app)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Drakula.app: earn using social media.
- - [https://drakula.app](https://drakula.app)
- - date_published: 2024-07-18T01:18:28+00:00
-
- ## Draw Anything - Stable Diffusion Playground
- - [https://www.drawanything.app](https://www.drawanything.app)
- - date_published: 2023-10-25T11:46:04.375493+00:00
-
- ## Dream Voyage - Unlock the Mysteries of Your Dreams
- - [https://dreamore.app](https://dreamore.app)
- - date_published: 2024-06-19T19:55:29.506273+00:00
-
- ## Dropshare Apps - upload anything anywhere on macOS and iOS
- - [https://dropshare.app](https://dropshare.app)
- - date_published: 2024-06-23T05:56:07.203872+00:00
-
- ## Duck, a chat-based note app for your knowledge base
- - [https://site.ducknote.app](https://site.ducknote.app)
- - date_published: 2023-10-25T11:46:05.662968+00:00
-
- ## Dunatis.App
- - [https://dunatis.app](https://dunatis.app)
- - date_published: 2024-07-12T16:11:46.360299+00:00
-
- ## Duolicious | Meet People Who Get You | Date, Make Friends & Chat
- - [https://duolicious.app](https://duolicious.app)
- - date_published: 2024-05-17T02:55:36.190670+00:00
 

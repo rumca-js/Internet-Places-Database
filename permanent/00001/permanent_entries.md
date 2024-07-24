@@ -1,3 +1,43 @@
+ ## Finito
+ - [https://www.finito.ai](https://www.finito.ai)
+ - date_published: 2024-06-19T19:26:10.844524+00:00
+
+ ## Fireflies.ai - Free Meeting Recorder
+ - [https://app.fireflies.ai](https://app.fireflies.ai)
+ - date_published: 2024-06-26T13:50:14.824140+00:00
+
+ ## Introduction - Fireflies.ai API Documentation
+ - [https://docs.fireflies.ai](https://docs.fireflies.ai)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Fireflies.ai | AI notetaker to transcribe, summarize, analyze meetings
+ - [https://fireflies.ai](https://fireflies.ai)
+ - date_published: 2024-05-06T19:48:12.423957+00:00
+
+ ## Fireworks.ai – Medium
+ - [https://blog.fireworks.ai](https://blog.fireworks.ai)
+ - date_published: 2023-12-21T09:50:10.116514+00:00
+
+ ## Fireworks - Generative AI For Product Innovation!
+ - [https://fireworks.ai](https://fireworks.ai)
+ - date_published: 2024-05-24T19:34:58.576030+00:00
+
+ ## First Impression
+ - [https://firstimpression.ai](https://firstimpression.ai)
+ - date_published: 2024-05-07T18:22:13.318552+00:00
+
+ ## Homepage - Quickplay
+ - [https://firstlight.ai](https://firstlight.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Autonomous vehicle development and safety assurance platform
+ - [https://five.ai](https://five.ai)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Fixie.ai Blog
+ - [https://blog.fixie.ai](https://blog.fixie.ai)
+ - date_published: 2023-10-25T11:38:51.003257+00:00
+
  ## Fixie
  - [https://console.fixie.ai](https://console.fixie.ai)
  - date_published: 2024-06-27T05:32:05.424531+00:00
@@ -231,6 +271,10 @@
  - [https://web.gemma.ai](https://web.gemma.ai)
  - date_published: 2024-06-25T14:58:13+00:00
 
+ ## GenAI Summit San Francisco 2024
+ - [https://genaisummit.ai](https://genaisummit.ai)
+ - date_published: 2024-07-23T21:18:46.505729+00:00
+
  ## GenForge |  Accelerate your Productivity with Personal AI
  - [https://www.genforge.ai](https://www.genforge.ai)
  - date_published: 2024-06-19T19:08:43.529767+00:00
@@ -406,6 +450,10 @@
  ## Gooey.AI - The best of private & open source AI
  - [https://gooey.ai](https://gooey.ai)
  - date_published: 2024-06-19T19:09:15.415021+00:00
+
+ ## Making AI helpful for everyone - Google AI – Google AI
+ - [https://google.ai](https://google.ai)
+ - date_published: 2024-07-23T21:23:42.674470+00:00
 
  ## GPTGO - ChatGPT Free combined Search Engine
  - [https://googpt.ai](https://googpt.ai)
@@ -606,6 +654,10 @@
  ## Robin AI | The Future of Sales Automation
  - [https://www.hellorobin.ai](https://www.hellorobin.ai)
  - date_published: 2023-01-11T00:00:00+00:00
+
+ ## Hello Wonder - the internet, reimagined for kids and families
+ - [https://hellowonder.ai](https://hellowonder.ai)
+ - date_published: 2024-07-10T00:00:00+00:00
 
  ## Helm.ai
  - [https://www.helm.ai](https://www.helm.ai)
@@ -1985,6 +2037,10 @@
  - [https://manytools.ai](https://manytools.ai)
  - date_published: 2024-05-06T21:05:17.277748+00:00
 
+ ## Mapless AI - Driverless Remote Vehicle Operations
+ - [https://mapless.ai](https://mapless.ai)
+ - date_published: 2024-07-23T23:26:31.936582+00:00
+
  ## Marcus Aurelius AI
  - [https://marcusaurelius.ai](https://marcusaurelius.ai)
  - date_published: 2023-11-09T07:28:27+00:00
@@ -3309,12 +3365,16 @@
  - tags: ['nsfw']
 
  ## Prompt Engineering Guide – Nextra
- - [https://www.promptingguide.ai](https://www.promptingguide.ai)
+ - [https://promptingguide.ai](https://promptingguide.ai)
  - date_published: 2024-04-29T07:57:30.108750+00:00
 
  ## Professionelles Prompting
  - [https://promptwhispering.ai](https://promptwhispering.ai)
  - date_published: 2024-06-17T01:47:09.248648+00:00
+
+ ## Promtify - Your Gateway to AI-Powered Content Generation
+ - [https://www.promtify.ai](https://www.promtify.ai)
+ - date_published: 2024-05-01T00:00:00+00:00
 
  ## Pronto.ai – Autonomous Haulage Systems
  - [https://pronto.ai](https://pronto.ai)
@@ -3965,65 +4025,4 @@
  ## SalesStack powering Ghost, The first AI Sales Representative
  - [https://salesstack.ai](https://salesstack.ai)
  - date_published: 2024-03-25T00:00:00+00:00
-
- ## SambaNova Systems | Revolutionize AI Workloads
- - [https://sambanova.ai](https://sambanova.ai)
- - date_published: 2024-06-21T16:09:09+00:00
-
- ## Sandbar: Minimize the risk of your products being used for illicit purposes.
- - [https://sandbar.ai](https://sandbar.ai)
- - date_published: 2024-07-09T19:09:14.961547+00:00
-
- ## Latest Posts
- - [https://sander.ai](https://sander.ai)
- - date_published: 2024-03-26T16:00:56.087308+00:00
-
- ## One-stop AI Productivity app for ADHD
- - [https://saner.ai](https://saner.ai)
- - date_published: 2024-06-13T05:50:44+00:00
-
- ## About Sarai Rosenberg.
- - [https://sar.ai](https://sar.ai)
- - date_published: 2022-06-04T06:05:23+00:00
-
- ## Gizmo | The easiest way to learn
- - [https://saveall.ai](https://saveall.ai)
- - date_published: 2023-10-25T11:42:31.337313+00:00
-
- ## Small Business AI chat - Your AI powered support agent with 24/7 availability
- - [https://sbhelper.ai](https://sbhelper.ai)
- - date_published: 2024-07-19T23:01:58.957940+00:00
-
- ## Center for Scalable Data Analytics and Artificial Intelligence
- - [https://scads.ai](https://scads.ai)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Scenarium AI
- - [http://www.scenarium.ai](http://www.scenarium.ai)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Schedule in Seconds
- - [https://www.scheduler.ai](https://www.scheduler.ai)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## SciML: Open Source Software for Scientific Machine Learning, Physics-Informed AI, and Differentiable Programming
- - [https://sciml.ai](https://sciml.ai)
- - date_published: 2023-10-25T11:42:32.506316+00:00
-
- ## Introduction - The open source AI powered answer engine.
- - [https://r2r-docs.sciphi.ai](https://r2r-docs.sciphi.ai)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## SciPhi
- - [https://sciphi.ai](https://sciphi.ai)
- - date_published: 2024-06-26T21:23:41.288567+00:00
-
- ## AI for Research | Scite
- - [https://scite.ai](https://scite.ai)
- - date_published: 2024-06-19T19:35:43.574313+00:00
- - tags: ['artificial intelligence bot']
-
- ## Buy and Sell Domain Names | Dan.com
- - [http://scotty.ai](http://scotty.ai)
- - date_published: 2024-07-12T07:20:01.145159+00:00
 
