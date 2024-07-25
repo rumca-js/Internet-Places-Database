@@ -1,3 +1,639 @@
+ ## Martin Lippert
+ - [http://martinlippert.blogspot.com](http://martinlippert.blogspot.com)
+ - date_published: 2024-03-13T11:11:29+00:00
+
+ ## Java Development
+ - [http://marty-java-dev.blogspot.com](http://marty-java-dev.blogspot.com)
+ - date_published: 2024-07-18T11:37:22+00:00
+
+ ## martyn amos
+ - [http://martynamos.blogspot.com](http://martynamos.blogspot.com)
+ - date_published: 2024-05-24T09:35:15+00:00
+
+ ## Adventures in PC Emulation
+ - [https://martypc.blogspot.com](https://martypc.blogspot.com)
+ - date_published: 2023-10-25T13:05:36.468742+00:00
+
+ ## Kate Has Things to Say
+ - [http://marvelclimate.blogspot.com](http://marvelclimate.blogspot.com)
+ - date_published: 2024-03-13T17:04:32+00:00
+
+ ## Inspired by Actual Events
+ - [http://marxsoftware.blogspot.com](http://marxsoftware.blogspot.com)
+ - date_published: 2023-03-27T00:00:00+00:00
+
+ ## Marx & Friends in their own words
+ - [http://marxwords.blogspot.com](http://marxwords.blogspot.com)
+ - date_published: 2024-02-08T12:04:03+00:00
+
+ ## Mary Anning - Rosemary Marks' weblog
+ - [https://maryanning.blogspot.com](https://maryanning.blogspot.com)
+ - date_published: 2024-03-13T11:04:12+00:00
+
+ ## p a i n t - verb \ˈpānt\
+ - [http://mary-klein.blogspot.com](http://mary-klein.blogspot.com)
+ - date_published: 2024-03-23T22:31:00+00:00
+
+ ## O Audacious Book
+ - [http://mary-mccallum.blogspot.com](http://mary-mccallum.blogspot.com)
+ - date_published: 2024-03-05T15:29:47+00:00
+
+ ## mary-m-isaacs-books
+ - [https://mary-m-isaacs-books.blogspot.com](https://mary-m-isaacs-books.blogspot.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## The Naked City
+ - [http://marynewsom.blogspot.com](http://marynewsom.blogspot.com)
+ - date_published: 2024-05-08T06:23:56+00:00
+
+ ## Mary
+ - [http://maryrjohnson789.blogspot.com](http://maryrjohnson789.blogspot.com)
+ - date_published: 2024-03-19T20:46:37+00:00
+
+ ## maschinengeschrieben
+ - [http://maschinengeschrieben.blogspot.com](http://maschinengeschrieben.blogspot.com)
+ - date_published: 2024-05-15T15:32:51+00:00
+
+ ## Mashed Up Potato
+ - [http://masheduppotato.blogspot.com](http://masheduppotato.blogspot.com)
+ - date_published: 2024-03-05T07:02:55+00:00
+
+ ## MasonDixonVixen
+ - [http://masondixonvixen.blogspot.com](http://masondixonvixen.blogspot.com)
+ - date_published: 2024-06-30T05:49:50+00:00
+
+ ## imprecisões
+ - [http://mas-o-texto.blogspot.com](http://mas-o-texto.blogspot.com)
+ - date_published: 2024-07-12T00:24:52+00:00
+
+ ## Weapons of Mass Discussion
+ - [http://massdiscussion.blogspot.com](http://massdiscussion.blogspot.com)
+ - date_published: 2024-05-17T18:58:15+00:00
+
+ ## Building a timberframe home from scratch.
+ - [http://massiehouse.blogspot.com](http://massiehouse.blogspot.com)
+ - date_published: 2024-06-08T00:14:56+00:00
+
+ ## MASSIVE VOODOO
+ - [https://massivevoodoo.blogspot.com](https://massivevoodoo.blogspot.com)
+ - date_published: 2024-07-19T18:53:01+00:00
+
+ ## Blog del Master di Comunicazione Storica - Università di Bologna
+ - [http://mastercomunicazionestorica.blogspot.com](http://mastercomunicazionestorica.blogspot.com)
+ - date_published: 2024-03-14T01:26:40+00:00
+
+ ## masterminis.net - where we learn to be a better painter!
+ - [http://masterminis.blogspot.com](http://masterminis.blogspot.com)
+ - date_published: 2024-07-20T07:27:16+00:00
+
+ ## MATERIALECOLOGY:             Neri Oxman
+ - [http://materialecology.blogspot.com](http://materialecology.blogspot.com)
+ - date_published: 2024-02-19T01:50:39+00:00
+
+ ## Math Be Brave
+ - [http://mathbebrave.blogspot.com](http://mathbebrave.blogspot.com)
+ - date_published: 2024-04-15T10:27:38+00:00
+
+ ## Μαθη...μαγικά
+ - [https://mathhmagic.blogspot.com](https://mathhmagic.blogspot.com)
+ - date_published: 2024-06-30T08:22:17+00:00
+
+ ## MathNotations
+ - [http://mathnotations.blogspot.com](http://mathnotations.blogspot.com)
+ - date_published: 2024-05-16T18:05:35+00:00
+
+ ## The Story of sin^2θ + cos^2θ = 1
+ - [https://mathsanduniverse.blogspot.com](https://mathsanduniverse.blogspot.com)
+ - date_published: 2024-03-13T18:43:08+00:00
+
+ ## The Mathematical Tourist
+ - [https://mathtourist.blogspot.com](https://mathtourist.blogspot.com)
+ - date_published: 2023-05-10T00:00:00+00:00
+
+ ## Mathematical Treasures
+ - [https://mathtreasures.blogspot.com](https://mathtreasures.blogspot.com)
+ - date_published: 2024-03-13T18:58:30+00:00
+
+ ## The Mathematical Yawp
+ - [http://mathyawp.blogspot.com](http://mathyawp.blogspot.com)
+ - date_published: 2024-06-15T05:59:38+00:00
+
+ ## The Necroleadicon
+ - [http://mathyoo28mm.blogspot.com](http://mathyoo28mm.blogspot.com)
+ - date_published: 2024-06-16T17:38:30+00:00
+
+ ## Data Mining in MATLAB
+ - [http://matlabdatamining.blogspot.com](http://matlabdatamining.blogspot.com)
+ - date_published: 2024-05-17T09:10:26+00:00
+
+ ## MATRIXSYNTH
+ - [https://matrixsynth.blogspot.com](https://matrixsynth.blogspot.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Mat Rodina
+ - [http://mat-rodina.blogspot.com](http://mat-rodina.blogspot.com)
+ - date_published: 2024-03-05T16:35:40+00:00
+
+ ## Noble Pursuits
+ - [https://matter-energy-space-time.blogspot.com](https://matter-energy-space-time.blogspot.com)
+ - date_published: 2024-05-15T14:35:22+00:00
+
+ ## Kraut's English phonetic blog
+ - [http://matters-phonetic.blogspot.com](http://matters-phonetic.blogspot.com)
+ - date_published: 2024-06-19T04:36:09+00:00
+
+ ## Waypoints
+ - [http://matthewmullenix.blogspot.com](http://matthewmullenix.blogspot.com)
+ - date_published: 2024-03-14T09:15:43+00:00
+
+ ## matthewstheyounger
+ - [http://matthewstheyounger.blogspot.com](http://matthewstheyounger.blogspot.com)
+ - date_published: 2023-06-21T04:18:00+00:00
+
+ ## THE LAND OF NOD
+ - [http://matt-landofnod.blogspot.com](http://matt-landofnod.blogspot.com)
+ - date_published: 2024-07-13T05:57:38+00:00
+
+ ## Matt's gaming page (Glenbrook Games)
+ - [http://mattsgamepage.blogspot.com](http://mattsgamepage.blogspot.com)
+ - date_published: 2024-07-14T18:41:30+00:00
+
+ ## Volatile and Decentralized
+ - [http://matt-welsh.blogspot.com](http://matt-welsh.blogspot.com)
+ - date_published: 2019-06-12T00:00:00+00:00
+
+ ## Home on the Range
+ - [http://mausersandmuffins.blogspot.com](http://mausersandmuffins.blogspot.com)
+ - date_published: 2024-07-03T19:06:00+00:00
+
+ ## maveryc
+ - [http://maveryc.blogspot.com](http://maveryc.blogspot.com)
+ - date_published: 2024-02-20T16:22:09+00:00
+
+ ## Mavor's Rants
+ - [http://mavorsrants.blogspot.com](http://mavorsrants.blogspot.com)
+ - date_published: 2024-05-01T03:45:21+00:00
+ - tags: ['personal']
+
+ ## HellRideHellYeah
+ - [https://mavoui.blogspot.com](https://mavoui.blogspot.com)
+ - date_published: 2024-02-08T16:50:27.150499+00:00
+
+ ## Maria Mavridou
+ - [http://mavridou.blogspot.com](http://mavridou.blogspot.com)
+ - date_published: 2024-07-04T05:46:08+00:00
+
+ ## MaxedOutMama
+ - [http://maxedoutmama.blogspot.com](http://maxedoutmama.blogspot.com)
+ - date_published: 2020-07-09T00:00:00+00:00
+
+ ## Maximizing Progress
+ - [https://maximizingprogress.blogspot.com](https://maximizingprogress.blogspot.com)
+ - date_published: 2024-05-04T07:44:42.959867+00:00
+
+ ## Maximum Rock & Role Playing
+ - [https://maximumrockroleplaying.blogspot.com](https://maximumrockroleplaying.blogspot.com)
+ - date_published: 2024-05-17T13:39:00+00:00
+
+ ## MAXXEV'S BLOG
+ - [http://maxxev.blogspot.com](http://maxxev.blogspot.com)
+ - date_published: 2024-03-21T21:36:28+00:00
+
+ ## David's Wargame Retreat
+ - [http://maxyshadow.blogspot.com](http://maxyshadow.blogspot.com)
+ - date_published: 2024-07-13T06:48:40+00:00
+
+ ## Mayaland Digital
+ - [http://mayadigi.blogspot.com](http://mayadigi.blogspot.com)
+ - date_published: 2024-02-19T05:12:55+00:00
+
+ ## Once a Nazi Always a Nazi
+ - [http://mayworm.blogspot.com](http://mayworm.blogspot.com)
+ - date_published: 2024-02-08T11:04:14+00:00
+
+ ## On Wargames and Such
+ - [http://mazikainen.blogspot.com](http://mazikainen.blogspot.com)
+ - date_published: 2024-07-04T06:02:28+00:00
+
+ ## Medicine, Mind and Me
+ - [https://mbbshacker.blogspot.com](https://mbbshacker.blogspot.com)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## malevolent & benign
+ - [http://mbenign.blogspot.com](http://mbenign.blogspot.com)
+ - date_published: 2024-06-12T02:38:20+00:00
+
+ ## WEB OF EVIL (& ENNUI)
+ - [http://mbouffant.blogspot.com](http://mbouffant.blogspot.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## ﻿
+ - [http://mbravenboer.blogspot.com](http://mbravenboer.blogspot.com)
+ - date_published: 2024-03-07T07:35:56+00:00
+
+ ## Afarensis: Anthropology, Evolution and Science
+ - [http://mcdougald.blogspot.com](http://mcdougald.blogspot.com)
+ - date_published: 2024-03-13T23:34:10+00:00
+
+ ## McEs, A Hacker Life
+ - [http://mces.blogspot.com](http://mces.blogspot.com)
+ - date_published: 2024-03-07T10:05:14+00:00
+
+ ## Blogger
+ - [http://mclaury.blogspot.com](http://mclaury.blogspot.com)
+ - date_published: 2024-06-30T08:37:34.620863+00:00
+
+ ## M C Monkey-Dew's Miniatures Games
+ - [https://mcmdgames.blogspot.com](https://mcmdgames.blogspot.com)
+ - date_published: 2024-05-17T13:34:00+00:00
+ - tags: ['miniatures', 'wargames']
+
+ ## Irish Elk
+ - [http://mcns.blogspot.com](http://mcns.blogspot.com)
+ - date_published: 2024-03-13T21:27:59+00:00
+
+ ## McTaggart's Typewriter Workshop
+ - [http://mctaggartsworkshop.blogspot.com](http://mctaggartsworkshop.blogspot.com)
+ - date_published: 2024-03-13T05:38:04+00:00
+
+ ## The Abode of McThag
+ - [http://mcthag.blogspot.com](http://mcthag.blogspot.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## McWopski's Place
+ - [http://mcwopski.blogspot.com](http://mcwopski.blogspot.com)
+ - date_published: 2024-07-03T01:34:08+00:00
+
+ ## Michael Darby
+ - [http://mdarby.blogspot.com](http://mdarby.blogspot.com)
+ - date_published: 2024-03-13T18:22:20+00:00
+
+ ## Amateur Hour
+ - [http://mdarrow.blogspot.com](http://mdarrow.blogspot.com)
+ - date_published: 2024-06-16T04:55:09+00:00
+
+ ## Masyafuss Defense Force
+ - [http://mdf40k.blogspot.com](http://mdf40k.blogspot.com)
+ - date_published: 2016-05-26T00:00:00+00:00
+
+ ## retired doc's thoughts
+ - [http://mdredux.blogspot.com](http://mdredux.blogspot.com)
+ - date_published: 2024-06-18T13:28:47+00:00
+
+ ## Meandering Shade
+ - [https://meanderingshade.blogspot.com](https://meanderingshade.blogspot.com)
+ - date_published: 2024-06-10T07:44:08+00:00
+
+ ## Meandering Through Mathematics
+ - [http://meandering-through-mathematics.blogspot.com](http://meandering-through-mathematics.blogspot.com)
+ - date_published: 2024-05-28T05:00:08+00:00
+
+ ## Mech Dude's Blog
+ - [https://mechdudesblog.blogspot.com](https://mechdudesblog.blogspot.com)
+ - date_published: 2024-06-24T02:23:19+00:00
+
+ ## BaChOuNdA
+ - [https://medbachounda.blogspot.com](https://medbachounda.blogspot.com)
+ - date_published: 2024-07-11T18:05:09+00:00
+
+ ## Media Confidential
+ - [http://mediaconfidential.blogspot.com](http://mediaconfidential.blogspot.com)
+ - date_published: 2024-07-18T09:59:00+00:00
+
+ ## Media Warfare
+ - [http://mediawarfare.blogspot.com](http://mediawarfare.blogspot.com)
+ - date_published: 2024-03-05T04:09:32+00:00
+
+ ## Medieval Illumination
+ - [http://medieval-illumination.blogspot.com](http://medieval-illumination.blogspot.com)
+ - date_published: 2024-03-05T15:28:16+00:00
+
+ ## Medieval News
+ - [http://medievalnews.blogspot.com](http://medievalnews.blogspot.com)
+ - date_published: 2024-03-05T04:49:16+00:00
+
+ ## Megalith Maniac
+ - [http://megalithmaniac.blogspot.com](http://megalithmaniac.blogspot.com)
+ - date_published: 2024-03-20T09:58:29+00:00
+
+ ## M.Christian's Meine Kleine Fabrik
+ - [http://meinekleinefabrik.blogspot.com](http://meinekleinefabrik.blogspot.com)
+ - date_published: 2024-03-30T18:23:48+00:00
+
+ ## ART and ARCHITECTURE, mainly
+ - [https://melbourneblogger.blogspot.com](https://melbourneblogger.blogspot.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## MAP
+ - [http://melbournedaily.blogspot.com](http://melbournedaily.blogspot.com)
+ - date_published: 2024-06-24T05:45:25+00:00
+
+ ## melebbles
+ - [http://melebbles.blogspot.com](http://melebbles.blogspot.com)
+ - date_published: 2024-03-13T18:12:54+00:00
+
+ ## May December
+ - [http://melissacmorris.blogspot.com](http://melissacmorris.blogspot.com)
+ - date_published: 2024-03-30T13:45:17+00:00
+
+ ## Melissa Maygrove
+ - [http://melissamaygrove.blogspot.com](http://melissamaygrove.blogspot.com)
+ - date_published: 2024-07-07T20:39:42+00:00
+
+ ## Melissathan
+ - [http://melissathan.blogspot.com](http://melissathan.blogspot.com)
+ - date_published: 2024-03-05T23:37:07+00:00
+
+ ## melnickmuseum
+ - [http://melnickmuseum.blogspot.com](http://melnickmuseum.blogspot.com)
+ - date_published: 2024-02-20T22:48:14+00:00
+
+ ## Meaning, or Lack Thereof
+ - [https://melthereof.blogspot.com](https://melthereof.blogspot.com)
+ - date_published: 2024-03-13T20:53:07+00:00
+
+ ## Best Nursing Schools
+ - [http://memiyawanzi.blogspot.com](http://memiyawanzi.blogspot.com)
+ - date_published: 2024-03-08T08:28:01+00:00
+
+ ## Some Memoirs
+ - [https://memoirsjr.blogspot.com](https://memoirsjr.blogspot.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Menace Miniatures
+ - [http://menaceminis.blogspot.com](http://menaceminis.blogspot.com)
+ - date_published: 2024-03-12T23:37:39+00:00
+
+ ## Chrome Beach
+ - [http://mendaciousd.blogspot.com](http://mendaciousd.blogspot.com)
+ - date_published: 2006-07-11T00:00:00+00:00
+
+ ## Ostrzeżenie dotyczące treści o charakterze kontrowersyjnym
+ - [http://meneerboot.blogspot.com](http://meneerboot.blogspot.com)
+ - date_published: 2024-06-20T03:54:02.368259+00:00
+
+ ## Men In Boxes
+ - [http://meninboxes.blogspot.com](http://meninboxes.blogspot.com)
+ - date_published: 2024-07-19T23:45:35+00:00
+
+ ## Men Are Not Potatoes
+ - [http://menrnotspuds.blogspot.com](http://menrnotspuds.blogspot.com)
+ - date_published: 2024-03-19T13:04:59+00:00
+
+ ## barbaylive
+ - [http://mensa-barbie.blogspot.com](http://mensa-barbie.blogspot.com)
+ - date_published: 2024-06-12T09:16:18+00:00
+
+ ## Mercurius Atticus
+ - [http://mercuriusatticus.blogspot.com](http://mercuriusatticus.blogspot.com)
+ - date_published: 2024-06-07T19:07:14+00:00
+
+ ## Murray & Candace's Adventures
+ - [http://mercyshipadventure.blogspot.com](http://mercyshipadventure.blogspot.com)
+ - date_published: 2024-06-19T03:56:35+00:00
+
+ ## Meridian Miniatures
+ - [http://meridianminiatures.blogspot.com](http://meridianminiatures.blogspot.com)
+ - date_published: 2024-05-11T00:27:50+00:00
+
+ ## Law Matters
+ - [http://mertenslaw.blogspot.com](http://mertenslaw.blogspot.com)
+ - date_published: 2023-11-16T07:26:57+00:00
+
+ ## MeshCentral Blog
+ - [https://meshcentral2.blogspot.com](https://meshcentral2.blogspot.com)
+ - date_published: 2024-05-14T03:50:29.771626+00:00
+
+ ## THE MESOPOTAMIAN
+ - [http://messopotamian.blogspot.com](http://messopotamian.blogspot.com)
+ - date_published: 2024-05-07T02:15:02+00:00
+
+ ## Mesutcan Kurt's Blog Site
+ - [http://mesutcaneng.blogspot.com](http://mesutcaneng.blogspot.com)
+ - date_published: 2024-03-13T17:43:34+00:00
+
+ ## meta-bubble
+ - [http://metabubble.blogspot.com](http://metabubble.blogspot.com)
+ - date_published: 2024-02-20T13:30:30+00:00
+
+ ## Metal Skirmish
+ - [http://metal-skirmish.blogspot.com](http://metal-skirmish.blogspot.com)
+ - date_published: 2020-04-25T13:37:00+00:00
+
+ ## Blogger
+ - [http://metastableequilibrium.blogspot.com](http://metastableequilibrium.blogspot.com)
+ - date_published: 2024-06-30T04:28:40.346314+00:00
+
+ ## method2madness Is there a method behind madness
+ - [http://method2madness.blogspot.com](http://method2madness.blogspot.com)
+ - date_published: 2024-03-13T12:55:56+00:00
+
+ ## Method Matters
+ - [https://methodmatters.blogspot.com](https://methodmatters.blogspot.com)
+ - date_published: 2024-03-14T16:51:55+00:00
+
+ ## Metin1 Metin2 Metin3
+ - [http://metin1-metin2-metin3.blogspot.com](http://metin1-metin2-metin3.blogspot.com)
+ - date_published: 2004-02-27T00:00:00+00:00
+
+ ## mfilos Computers & Consoles blog
+ - [https://mfilos.blogspot.com](https://mfilos.blogspot.com)
+ - date_published: 2024-03-27T23:53:50+00:00
+
+ ## A RODA
+ - [http://mfm-a-roda.blogspot.com](http://mfm-a-roda.blogspot.com)
+ - date_published: 2024-07-12T17:07:00+00:00
+
+ ## Gun debate critic
+ - [http://mglv.blogspot.com](http://mglv.blogspot.com)
+ - date_published: 2004-02-29T00:00:00+00:00
+
+ ## Michael and Alison Burton
+ - [http://michaelandalisonburton.blogspot.com](http://michaelandalisonburton.blogspot.com)
+ - date_published: 2024-02-07T03:56:28+00:00
+
+ ## Balter's Blog
+ - [https://michael-balter.blogspot.com](https://michael-balter.blogspot.com)
+ - date_published: 2024-05-04T06:42:04.514581+00:00
+
+ ## The Michael Bane Blog
+ - [http://michaelbane.blogspot.com](http://michaelbane.blogspot.com)
+ - date_published: 2024-07-03T09:13:18+00:00
+
+ ## Law - Recent News and Opinions
+ - [http://michaelgadams.blogspot.com](http://michaelgadams.blogspot.com)
+ - date_published: 2024-03-13T12:49:32+00:00
+
+ ## Blogger
+ - [http://michaelhartney2.blogspot.com](http://michaelhartney2.blogspot.com)
+ - date_published: 2024-06-20T02:23:14.696474+00:00
+
+ ## Michael Horowitz
+ - [http://michaelhorowitz2.blogspot.com](http://michaelhorowitz2.blogspot.com)
+ - date_published: 2024-05-31T01:44:37.593189+00:00
+
+ ## A Typewriter A Day Keeps the Doctor Away
+ - [http://michaeliany.blogspot.com](http://michaeliany.blogspot.com)
+ - date_published: 2024-06-29T16:47:47+00:00
+
+ ## Annabelle's Aspirin
+ - [http://michaelklease.blogspot.com](http://michaelklease.blogspot.com)
+ - date_published: 2024-03-07T14:02:41+00:00
+
+ ## Michael Rosen
+ - [http://michaelrosenblog.blogspot.com](http://michaelrosenblog.blogspot.com)
+ - date_published: 2024-06-13T11:18:55+00:00
+
+ ## Eclipse and Java Blog by Michael Scharf
+ - [http://michaelscharf.blogspot.com](http://michaelscharf.blogspot.com)
+ - date_published: 2014-05-29T00:00:00+00:00
+
+ ## Michał Tyrpa
+ - [http://michaltyrpa.blogspot.com](http://michaltyrpa.blogspot.com)
+ - date_published: 2004-02-27T00:00:00+00:00
+
+ ## inspiration, etc...
+ - [http://micheleguieu.blogspot.com](http://micheleguieu.blogspot.com)
+ - date_published: 2024-02-21T03:47:53+00:00
+
+ ## Micko's WIP
+ - [https://micko-wip.blogspot.com](https://micko-wip.blogspot.com)
+ - date_published: 2024-02-19T11:40:38+00:00
+
+ ## Supervisor Mick Staton
+ - [http://mickstaton.blogspot.com](http://mickstaton.blogspot.com)
+ - date_published: 2024-03-13T02:18:17+00:00
+
+ ## Micky's Muses...from the Antipodes
+ - [http://mickysmuses.blogspot.com](http://mickysmuses.blogspot.com)
+ - date_published: 2024-06-08T14:42:14+00:00
+
+ ## Navi e altro in  miniatura
+ - [http://micronavi.blogspot.com](http://micronavi.blogspot.com)
+ - date_published: 2024-03-21T11:48:23+00:00
+
+ ## Mid2Mod
+ - [http://mid2mod.blogspot.com](http://mid2mod.blogspot.com)
+ - date_published: 2024-07-17T23:02:51+00:00
+
+ ## From the Desk of Living Museum
+ - [https://midcenturylivingmuseum.blogspot.com](https://midcenturylivingmuseum.blogspot.com)
+ - date_published: 2024-07-04T06:10:46+00:00
+
+ ## Middenmurk
+ - [http://middenmurk.blogspot.com](http://middenmurk.blogspot.com)
+ - date_published: 2024-06-19T17:03:49+00:00
+
+ ## Middle East Analysis
+ - [http://middle-east-analysis.blogspot.com](http://middle-east-analysis.blogspot.com)
+ - date_published: 2024-03-23T10:13:41+00:00
+
+ ## In the MIDDLE of  the RIGHT
+ - [http://middleoftheright.blogspot.com](http://middleoftheright.blogspot.com)
+ - date_published: 2024-06-14T06:07:01+00:00
+
+ ## Middle Passages
+ - [http://middlepassages-lcs.blogspot.com](http://middlepassages-lcs.blogspot.com)
+ - date_published: 2024-07-09T06:00:00+00:00
+
+ ## The Middle Stage
+ - [http://middlestage.blogspot.com](http://middlestage.blogspot.com)
+ - date_published: 2024-06-10T18:33:16+00:00
+
+ ## Midgaard
+ - [http://middleyard.blogspot.com](http://middleyard.blogspot.com)
+ - date_published: 2024-02-07T03:57:16+00:00
+
+ ## MEI Editor's Blog
+ - [http://mideasti.blogspot.com](http://mideasti.blogspot.com)
+ - date_published: 2024-07-01T07:21:36+00:00
+
+ ## Mid-Life Gaming Crisis
+ - [http://midlifegamingcrisis.blogspot.com](http://midlifegamingcrisis.blogspot.com)
+ - date_published: 2024-06-29T11:07:23+00:00
+
+ ## Burning the Midnight Oil ...
+ - [https://midnight-populist.blogspot.com](https://midnight-populist.blogspot.com)
+ - date_published: 2024-04-21T11:19:52+00:00
+
+ ## Escape from: Oppression in the Midwest
+ - [http://midwestoppression.blogspot.com](http://midwestoppression.blogspot.com)
+ - date_published: 2024-03-13T20:42:47+00:00
+
+ ## Sears Houses in the Midwest
+ - [http://midwestsearshouses.blogspot.com](http://midwestsearshouses.blogspot.com)
+ - date_published: 2024-04-29T02:56:56.796572+00:00
+
+ ## The Grumpy Old Troll
+ - [http://migellito.blogspot.com](http://migellito.blogspot.com)
+ - date_published: 2024-06-07T01:07:36+00:00
+
+ ## Mighty Thews and Non-Euclidean Geometry
+ - [http://mightythews.blogspot.com](http://mightythews.blogspot.com)
+ - date_published: 2024-05-20T05:19:12+00:00
+
+ ## Migo Brain Soup
+ - [http://migobrainsoup.blogspot.com](http://migobrainsoup.blogspot.com)
+ - date_published: 2024-03-19T05:02:07+00:00
+
+ ## Code rant
+ - [https://mikehadlow.blogspot.com](https://mikehadlow.blogspot.com)
+ - date_published: 2023-10-25T09:09:48.126384+00:00
+ - tags: ['personal']
+
+ ## Working notes
+ - [http://mikejohnduff.blogspot.com](http://mikejohnduff.blogspot.com)
+ - date_published: 2024-02-07T05:39:30+00:00
+
+ ## Mike Lynch Cartoons
+ - [https://mikelynchcartoons.blogspot.com](https://mikelynchcartoons.blogspot.com)
+ - date_published: 2023-10-25T09:09:53.674589+00:00
+ - tags: ['personal']
+
+ ## mikemcguff.com
+ - [https://mikemcguff.blogspot.com](https://mikemcguff.blogspot.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Mike's Eyes (Spotted By)
+ - [http://mikeseyes.blogspot.com](http://mikeseyes.blogspot.com)
+ - date_published: 2024-03-24T18:47:00+00:00
+
+ ## Mike's Random Wargame Meanderings Blog
+ - [https://mikesrandomwargamemeanderings.blogspot.com](https://mikesrandomwargamemeanderings.blogspot.com)
+ - date_published: 2024-07-18T10:06:06+00:00
+
+ ## Mike Types
+ - [https://miketypes.blogspot.com](https://miketypes.blogspot.com)
+ - date_published: 2024-07-04T05:42:19+00:00
+
+ ## Mikey Sklar
+ - [https://mikeysklar.blogspot.com](https://mikeysklar.blogspot.com)
+ - date_published: 2024-02-08T22:18:56.447615+00:00
+
+ ## Gurer - the blog
+ - [http://mikkelnyboe.blogspot.com](http://mikkelnyboe.blogspot.com)
+ - date_published: 2024-07-04T06:33:33+00:00
+
+ ## Mik's Minis
+ - [http://miksminis.blogspot.com](http://miksminis.blogspot.com)
+ - date_published: 2024-07-20T00:19:34+00:00
+
+ ## Miles Nilsson Fowler
+ - [https://milesnilssonfowler.blogspot.com](https://milesnilssonfowler.blogspot.com)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Computing Reality
+ - [http://milesparker.blogspot.com](http://milesparker.blogspot.com)
+ - date_published: 2024-07-03T01:48:35+00:00
+
+ ## Magicshine - Militarymotivator
+ - [http://militarymotivator.blogspot.com](http://militarymotivator.blogspot.com)
+ - date_published: 2024-03-08T19:14:14+00:00
+
+ ## Military Museums and Battlefields
+ - [https://militarymuseums.blogspot.com](https://militarymuseums.blogspot.com)
+ - date_published: 2024-03-05T05:09:35+00:00
+
  ## Millest's Mediocre Meanderings
  - [http://millests.blogspot.com](http://millests.blogspot.com)
  - date_published: 2024-05-27T06:02:06+00:00
@@ -3385,643 +4021,4 @@
  ## Glendinning @ PondMaths
  - [http://pondmaths.blogspot.com](http://pondmaths.blogspot.com)
  - date_published: 2024-07-05T08:39:01+00:00
-
- ## poormansversion
- - [http://poormansversion.blogspot.com](http://poormansversion.blogspot.com)
- - date_published: 2024-03-14T03:50:29+00:00
-
- ## Prince of Persia C64 - Development Blog
- - [http://popc64.blogspot.com](http://popc64.blogspot.com)
- - date_published: 2024-06-22T04:21:14+00:00
-
- ## Pop Classics
- - [http://popclassicsjg.blogspot.com](http://popclassicsjg.blogspot.com)
- - date_published: 2024-06-23T12:11:42+00:00
-
- ## Blogger
- - [http://popjukebox.blogspot.com](http://popjukebox.blogspot.com)
- - date_published: 2024-06-30T06:14:45.348584+00:00
-
- ## porosidade etérea
- - [http://porosidade-eterea.blogspot.com](http://porosidade-eterea.blogspot.com)
- - date_published: 2024-07-03T03:26:38+00:00
-
- ## Cross-Platform Command Line Tools
- - [http://portablecommandline.blogspot.com](http://portablecommandline.blogspot.com)
- - date_published: 2024-02-20T23:59:42+00:00
-
- ## 18º de Port Belisario
- - [http://portbelisario.blogspot.com](http://portbelisario.blogspot.com)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## Port Imperiale
- - [https://port-imperiale.blogspot.com](https://port-imperiale.blogspot.com)
- - date_published: 2024-04-04T15:04:33+00:00
-
- ## Port Sunlight 1938
- - [http://portsunlight1938.blogspot.com](http://portsunlight1938.blogspot.com)
- - date_published: 2024-07-15T22:29:58+00:00
-
- ## portugal contemporâneo
- - [http://portugalcontemporaneo.blogspot.com](http://portugalcontemporaneo.blogspot.com)
- - date_published: 2024-07-12T10:36:00+00:00
-
- ## A POESIA DE PORTUGAL
- - [http://portugalpoetico.blogspot.com](http://portugalpoetico.blogspot.com)
- - date_published: 2024-07-11T18:12:23+00:00
-
- ## Por un pincel
- - [https://porunpincel.blogspot.com](https://porunpincel.blogspot.com)
- - date_published: 2024-07-04T05:32:06+00:00
-
- ## The Position Light
- - [http://position-light.blogspot.com](http://position-light.blogspot.com)
- - date_published: 2024-06-27T22:10:27+00:00
-
- ## Positive Letters ... inspirational stories ...
- - [http://positiveletters.blogspot.com](http://positiveletters.blogspot.com)
- - date_published: 2024-06-24T02:22:47+00:00
-
- ## Postapokalipsa bez ograniczeń!
- - [https://postapokalipsa.blogspot.com](https://postapokalipsa.blogspot.com)
- - date_published: 2023-12-13T15:11:58.113245+00:00
- - tags: ['hobby', 'fallout game']
-
- ## Stuff What I Posted
- - [http://posted-stuff.blogspot.com](http://posted-stuff.blogspot.com)
- - date_published: 2024-03-18T03:03:45+00:00
-
- ## Posthegemony
- - [http://posthegemony.blogspot.com](http://posthegemony.blogspot.com)
- - date_published: 2024-04-25T00:41:14+00:00
-
- ## Posthuman Blues
- - [http://posthumanblues.blogspot.com](http://posthumanblues.blogspot.com)
- - date_published: 2024-06-16T03:46:05+00:00
-
- ## The Post Modern Pulp Blog
- - [http://postmodernpulps.blogspot.com](http://postmodernpulps.blogspot.com)
- - date_published: 2024-07-19T07:06:04+00:00
-
- ## Potbelly Stove
- - [http://potbellystove.blogspot.com](http://potbellystove.blogspot.com)
- - date_published: 2024-03-27T23:55:01+00:00
-
- ## ART & ARTISTS
- - [https://poulwebb.blogspot.com](https://poulwebb.blogspot.com)
- - date_published: 2024-06-21T13:21:30+00:00
-
- ## poupous geheimes laboratorium
- - [https://poupoulab.blogspot.com](https://poupoulab.blogspot.com)
- - date_published: 2024-06-27T21:54:12+00:00
-
- ## Power and Control
- - [http://powerandcontrol.blogspot.com](http://powerandcontrol.blogspot.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Once Upon a Time...
- - [http://powerofnarrative.blogspot.com](http://powerofnarrative.blogspot.com)
- - date_published: 2024-02-20T22:40:30+00:00
-
- ## PowerPop
- - [https://powerpop.blogspot.com](https://powerpop.blogspot.com)
- - date_published: 2024-06-28T08:05:00+00:00
-
- ## PowerPopSquare
- - [https://powerpopsquare.blogspot.com](https://powerpopsquare.blogspot.com)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## POWERPOPULIST
- - [https://powerpopulist.blogspot.com](https://powerpopulist.blogspot.com)
- - date_published: 2020-01-01T00:00:00+00:00
-
- ## PowerWP Blogger Template
- - [https://powerwp-nbt.blogspot.com](https://powerwp-nbt.blogspot.com)
- - date_published: 2010-09-05T00:00:00+00:00
-
- ## Open and Shut?
- - [https://poynder.blogspot.com](https://poynder.blogspot.com)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## Pekka Paalanen
- - [https://ppaalanen.blogspot.com](https://ppaalanen.blogspot.com)
- - date_published: 2024-03-05T07:38:43+00:00
-
- ## Power Point Ranger
- - [http://pptranger.blogspot.com](http://pptranger.blogspot.com)
- - date_published: 2024-03-13T03:40:09+00:00
-
- ## A Praça da Poesia
- - [http://pracadapoesia.blogspot.com](http://pracadapoesia.blogspot.com)
- - date_published: 2024-02-19T08:47:49+00:00
-
- ## prairiemary
- - [http://prairiemary.blogspot.com](http://prairiemary.blogspot.com)
- - date_published: 2024-06-17T19:38:11+00:00
-
- ## PrairiePundit
- - [http://prairiepundit.blogspot.com](http://prairiepundit.blogspot.com)
- - date_published: 2024-06-27T07:14:35+00:00
-
- ## Praise, Curse, and Recurse
- - [http://praisecurseandrecurse.blogspot.com](http://praisecurseandrecurse.blogspot.com)
- - date_published: 2024-03-13T02:48:39+00:00
-
- ## Pascal Rapicault
- - [http://prapicault.blogspot.com](http://prapicault.blogspot.com)
- - date_published: 2024-03-08T02:45:49+00:00
-
- ## Pray for the Hostages
- - [http://prayforthehostages.blogspot.com](http://prayforthehostages.blogspot.com)
- - date_published: 2024-06-21T00:09:50+00:00
-
- ## Prep School Daily
- - [https://prepschooldaily.blogspot.com](https://prepschooldaily.blogspot.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Pre Raphaelite Influenced Art
- - [http://preraphaelitepaintings.blogspot.com](http://preraphaelitepaintings.blogspot.com)
- - date_published: 2024-06-14T01:34:11+00:00
-
- ## President Trump Memorabilia
- - [https://presidenttrumpmemorabilia.blogspot.com](https://presidenttrumpmemorabilia.blogspot.com)
- - date_published: 2018-10-20T00:00:00+00:00
-
- ## The Prestigious Internet
- - [https://prestigiousinternet.blogspot.com](https://prestigiousinternet.blogspot.com)
- - date_published: 2010-03-16T00:00:00+00:00
-
- ## The Presurfer
- - [http://presurfer.blogspot.com](http://presurfer.blogspot.com)
- - date_published: 2024-07-04T11:58:33+00:00
-
- ## Pretaboire's Plausible Pondering Palace
- - [http://pretaboire.blogspot.com](http://pretaboire.blogspot.com)
- - date_published: 2024-07-15T22:30:07+00:00
-
- ## Pretentious Film Geek
- - [http://pretentiousfilmgeek.blogspot.com](http://pretentiousfilmgeek.blogspot.com)
- - date_published: 2024-03-14T16:24:47+00:00
-
- ## Prince Of Persia Dot Net (princeofpersia.net)
- - [https://princeofpersiadotnet.blogspot.com](https://princeofpersiadotnet.blogspot.com)
- - date_published: 2024-03-08T14:00:24+00:00
- - tags: ['prince of persia']
-
- ## Principle Investigator
- - [https://principleinvestigator.blogspot.com](https://principleinvestigator.blogspot.com)
- - date_published: 2006-07-11T00:00:00+00:00
-
- ## Strategic Legal Technology
- - [http://prismlegal.blogspot.com](http://prismlegal.blogspot.com)
- - date_published: 2024-03-14T00:14:37+00:00
-
- ## Blogger
- - [http://prisonerofstarvation.blogspot.com](http://prisonerofstarvation.blogspot.com)
- - date_published: 2024-06-18T11:23:43.185268+00:00
-
- ## Process Algebra Diary
- - [http://processalgebra.blogspot.com](http://processalgebra.blogspot.com)
- - date_published: 2024-06-20T17:50:04+00:00
-
- ## Procedural World
- - [https://procworld.blogspot.com](https://procworld.blogspot.com)
- - date_published: 2024-06-11T04:18:09+00:00
-
- ## PROFANITY HILL
- - [http://profanityhill.blogspot.com](http://profanityhill.blogspot.com)
- - date_published: 2024-02-07T04:45:56+00:00
-
- ## Professional NPC
- - [https://profesnpc.blogspot.com](https://profesnpc.blogspot.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Confessions of a College Professor
- - [https://professorconfess.blogspot.com](https://professorconfess.blogspot.com)
- - date_published: 2024-05-23T19:20:00+00:00
-
- ## بوابة اللسانيات الأفريقية     أستاذ الدكتور إسماعيل زنغو برزي
- - [https://profismailabarazi.blogspot.com](https://profismailabarazi.blogspot.com)
- - date_published: 2024-07-01T10:23:31+00:00
-
- ## The Progressive Contrarian
- - [https://progcontra.blogspot.com](https://progcontra.blogspot.com)
- - date_published: 2024-02-07T05:50:00+00:00
-
- ## Pro Gloria Miniatures
- - [http://progloriaminiatures.blogspot.com](http://progloriaminiatures.blogspot.com)
- - date_published: 2024-07-19T12:34:43+00:00
-
- ## Prognostalgia
- - [http://prognostalgia.blogspot.com](http://prognostalgia.blogspot.com)
- - date_published: 2024-02-19T03:28:56+00:00
-
- ## Thoughts on Programming
- - [https://programming-puzzler.blogspot.com](https://programming-puzzler.blogspot.com)
- - date_published: 2023-10-25T09:10:24.409498+00:00
- - tags: ['personal']
-
- ## Programming Questions
- - [http://programmingquestions.blogspot.com](http://programmingquestions.blogspot.com)
- - date_published: 2024-02-20T18:47:19+00:00
-
- ## On Being A Journeyman Software Developer
- - [https://programmingtour.blogspot.com](https://programmingtour.blogspot.com)
- - date_published: 2024-05-07T15:15:56.483306+00:00
-
- ## 编程随想的博客
- - [https://program-think.blogspot.com](https://program-think.blogspot.com)
- - date_published: 2024-07-14T05:39:55+00:00
-
- ## The Progressive Populist Today Blog
- - [http://progressivepopulist.blogspot.com](http://progressivepopulist.blogspot.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Scoutess GSOC
- - [http://projectscoutess.blogspot.com](http://projectscoutess.blogspot.com)
- - date_published: 2024-02-08T13:46:41+00:00
-
- ## Projet Terra Miniatura
- - [https://projetterraminiatura.blogspot.com](https://projetterraminiatura.blogspot.com)
- - date_published: 2024-07-13T06:32:14+00:00
-
- ## Libertarian / Conservative / "Promethean" Politics
- - [http://promethean_antagonist.blogspot.com](http://promethean_antagonist.blogspot.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Pronunciation Bites
- - [http://pronunciationbites.blogspot.com](http://pronunciationbites.blogspot.com)
- - date_published: 2024-06-20T18:43:02+00:00
-
- ## Proof Positive
- - [https://proof-proofpositive.blogspot.com](https://proof-proofpositive.blogspot.com)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## TAKASHI'S WORKSPACE
- - [http://propella.blogspot.com](http://propella.blogspot.com)
- - date_published: 2024-05-06T11:45:44+00:00
-
- ## proper scale
- - [http://properscale.blogspot.com](http://properscale.blogspot.com)
- - date_published: 2024-03-05T09:37:22+00:00
-
- ## prophet of bloom
- - [https://prophet-of-bloom.blogspot.com](https://prophet-of-bloom.blogspot.com)
- - date_published: 2024-01-13T04:52:21.362582+00:00
- - tags: ['personal']
-
- ## post doc ergo propter doc
- - [https://propterdoc.blogspot.com](https://propterdoc.blogspot.com)
- - date_published: 2024-02-08T19:47:54+00:00
-
- ## Proskynesis
- - [http://proskynesis.blogspot.com](http://proskynesis.blogspot.com)
- - date_published: 2024-06-13T03:58:12+00:00
-
- ## Insurance Prosper
- - [http://prosperoicon.blogspot.com](http://prosperoicon.blogspot.com)
- - date_published: 2024-03-08T23:00:31+00:00
-
- ## ProSUA weblog - To promote the Progress of Science and Useful Arts
- - [https://prosua.blogspot.com](https://prosua.blogspot.com)
- - date_published: 2024-03-08T06:07:11+00:00
-
- ## Charles and Mary Elizabeth Holdaway Conrad Family
- - [http://provoconrads.blogspot.com](http://provoconrads.blogspot.com)
- - date_published: 2024-03-21T21:20:50+00:00
-
- ## PC Tech Gadget
- - [http://proximities.blogspot.com](http://proximities.blogspot.com)
- - date_published: 2024-05-26T09:43:41+00:00
-
- ## Ceibal: Un computador por niño - Uruguay
- - [http://proyecto-ceibal.blogspot.com](http://proyecto-ceibal.blogspot.com)
- - date_published: 2024-02-19T10:50:28+00:00
-
- ## Here's no great matter
- - [https://prufrockian-gleanings.blogspot.com](https://prufrockian-gleanings.blogspot.com)
- - date_published: 2024-07-09T08:35:30+00:00
-
- ## Pruned
- - [http://pruned.blogspot.com](http://pruned.blogspot.com)
- - date_published: 2024-06-19T06:55:54+00:00
-
- ## Pseudoscience
- - [http://pseudocomic.blogspot.com](http://pseudocomic.blogspot.com)
- - date_published: 2024-02-20T18:04:15+00:00
-
- ## Pete Shirley's Graphics Blog
- - [http://psgraphics.blogspot.com](http://psgraphics.blogspot.com)
- - date_published: 2024-07-01T20:49:15+00:00
-
- ## Pablo S. Torralba
- - [http://pstorralba.blogspot.com](http://pstorralba.blogspot.com)
- - date_published: 2024-02-19T03:36:51+00:00
-
- ## How to Succeed in RPGs or Die Trying
- - [http://psychicmayhem.blogspot.com](http://psychicmayhem.blogspot.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Blogger
- - [http://psychoa-musings.blogspot.com](http://psychoa-musings.blogspot.com)
- - date_published: 2024-06-30T04:26:21.317761+00:00
-
- ## Psychology of Pain
- - [http://psychologyofpain.blogspot.com](http://psychologyofpain.blogspot.com)
- - date_published: 2024-03-13T09:12:14+00:00
-
- ## PsychosisPC's The Madhouse Workshop
- - [http://psychosispc-themadhouseworkshop.blogspot.com](http://psychosispc-themadhouseworkshop.blogspot.com)
- - date_published: 2024-07-14T05:59:07+00:00
-
- ## Psycmeister's Ice Palace!
- - [http://psycmeistr.blogspot.com](http://psycmeistr.blogspot.com)
- - date_published: 2024-03-23T17:50:54+00:00
-
- ## pts.blog
- - [https://ptspts.blogspot.com](https://ptspts.blogspot.com)
- - date_published: 2023-10-25T09:10:29.527000+00:00
- - tags: ['personal']
-
- ## The Pub Curmudgeon
- - [http://pubcurmudgeon.blogspot.com](http://pubcurmudgeon.blogspot.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## publicabstractvoid
- - [http://publicabstractvoid.blogspot.com](http://publicabstractvoid.blogspot.com)
- - date_published: 2024-03-05T06:54:47+00:00
-
- ## Public Opinion
- - [https://publicinterest.blogspot.com](https://publicinterest.blogspot.com)
- - date_published: 2024-03-13T06:22:00+00:00
-
- ## Publicola
- - [http://publicola.blogspot.com](http://publicola.blogspot.com)
- - date_published: 2018-12-25T11:10:00+00:00
-
- ## New Puget Sound Logs
- - [http://pugetsoundlogs.blogspot.com](http://pugetsoundlogs.blogspot.com)
- - date_published: 2023-11-15T13:47:10+00:00
-
- ## Seuntai Huruf Serangkai Kata
- - [http://puisiscab.blogspot.com](http://puisiscab.blogspot.com)
- - date_published: 2024-03-14T02:11:35+00:00
-
- ## Pulp Citizen
- - [http://pulp-citizen.blogspot.com](http://pulp-citizen.blogspot.com)
- - date_published: 2024-07-15T22:30:05+00:00
-
- ## PULPHOPE
- - [https://pulphope.blogspot.com](https://pulphope.blogspot.com)
- - date_published: 2020-12-12T14:19:00+00:00
-
- ## Pulp Warriors
- - [http://pulpwarriors2.blogspot.com](http://pulpwarriors2.blogspot.com)
- - date_published: 2024-07-04T05:48:23+00:00
-
- ## Blogger
- - [http://pulp-zen.blogspot.com](http://pulp-zen.blogspot.com)
- - date_published: 2024-07-20T09:27:28.004294+00:00
-
- ## Pundita
- - [http://pundita.blogspot.com](http://pundita.blogspot.com)
- - date_published: 2023-03-21T15:51:00+00:00
-
- ## PUNKADIDDLE
- - [http://punkadiddle.blogspot.com](http://punkadiddle.blogspot.com)
- - date_published: 2024-04-30T07:58:47+00:00
-
- ## Pura Coincidência
- - [http://puracoincidencia.blogspot.com](http://puracoincidencia.blogspot.com)
- - date_published: 2024-04-27T04:09:20+00:00
-
- ## Все о беге
- - [http://puritanb.blogspot.com](http://puritanb.blogspot.com)
- - date_published: 2023-11-15T14:44:28+00:00
-
- ## For Elect Eyes Only
- - [http://puritanbirder.blogspot.com](http://puritanbirder.blogspot.com)
- - date_published: 2024-03-13T12:11:35+00:00
-
- ## Blogger
- - [http://purplemoggy.blogspot.com](http://purplemoggy.blogspot.com)
- - date_published: 2024-06-30T07:08:49.646205+00:00
-
- ## The Original PurpleTraveller....
- - [https://purpletraveller.blogspot.com](https://purpletraveller.blogspot.com)
- - date_published: 2022-03-19T00:00:00+00:00
-
- ## purplewombats
- - [http://purplewombats.blogspot.com](http://purplewombats.blogspot.com)
- - date_published: 2024-02-08T11:52:38+00:00
-
- ## Pursuit of Patriotism
- - [http://pursuitofpatriotism.blogspot.com](http://pursuitofpatriotism.blogspot.com)
- - date_published: 2024-06-21T06:08:17+00:00
-
- ## Paul's Eclipse Blog
- - [http://pweclipse.blogspot.com](http://pweclipse.blogspot.com)
- - date_published: 2024-03-07T22:42:20+00:00
-
- ## Python bytes
- - [http://pybites.blogspot.com](http://pybites.blogspot.com)
- - date_published: 2024-06-27T11:53:27+00:00
-
- ## On Clouds, Poems, Python and more...
- - [http://pycloud.blogspot.com](http://pycloud.blogspot.com)
- - date_published: 2024-02-20T18:20:53+00:00
-
- ## The PyCon US Blog
- - [https://pycon.blogspot.com](https://pycon.blogspot.com)
- - date_published: 2024-05-06T23:45:56.764189+00:00
-
- ## PyDev adventures
- - [http://pydev.blogspot.com](http://pydev.blogspot.com)
- - date_published: 2024-06-14T01:35:10+00:00
-
- ## Python Software Foundation News
- - [https://pyfound.blogspot.com](https://pyfound.blogspot.com)
- - date_published: 2023-10-25T09:10:33.540585+00:00
- - tags: ['personal']
-
- ## Programmer's notebook
- - [http://pyfunc.blogspot.com](http://pyfunc.blogspot.com)
- - date_published: 2024-06-28T09:43:25+00:00
-
- ## Pygmies and Peanut Butter
- - [http://pygmiesandpb.blogspot.com](http://pygmiesandpb.blogspot.com)
- - date_published: 2024-02-07T04:57:56+00:00
-
- ## PyInformatics: Bioinformatics and Data Science in Python
- - [http://pyinformatics.blogspot.com](http://pyinformatics.blogspot.com)
- - date_published: 2024-03-05T15:29:18+00:00
-
- ## Python in Science
- - [http://pyinsci.blogspot.com](http://pyinsci.blogspot.com)
- - date_published: 2017-06-17T13:50:00+00:00
-
- ## Python molurus (the Indian Python)
- - [http://pymolurus.blogspot.com](http://pymolurus.blogspot.com)
- - date_published: 2024-03-08T12:50:52+00:00
-
- ## PyramidIF
- - [https://pyramidifblog.blogspot.com](https://pyramidifblog.blogspot.com)
- - date_published: 2024-07-04T06:33:49+00:00
-
- ## pyright
- - [http://pyright.blogspot.com](http://pyright.blogspot.com)
- - date_published: 2024-05-10T09:42:48+00:00
-
- ## Python Academy
- - [http://python-academy.blogspot.com](http://python-academy.blogspot.com)
- - date_published: 2024-06-22T18:19:54+00:00
-
- ## About Python Advocacy
- - [http://python-advocacy.blogspot.com](http://python-advocacy.blogspot.com)
- - date_published: 2024-03-13T01:02:23+00:00
-
- ## Python Africa
- - [https://pythonafrica.blogspot.com](https://pythonafrica.blogspot.com)
- - date_published: 2023-12-06T11:29:44.047900+00:00
-
- ## PythonByExample
- - [http://pythonbyexample.blogspot.com](http://pythonbyexample.blogspot.com)
- - date_published: 2024-04-30T19:56:12+00:00
-
- ## Happenings in Python Usergroups
- - [http://python-groups.blogspot.com](http://python-groups.blogspot.com)
- - date_published: 2024-02-21T03:02:07+00:00
-
- ## SPE IDE - Stani's Python Editor
- - [http://pythonide.blogspot.com](http://pythonide.blogspot.com)
- - date_published: 2024-04-19T19:41:49+00:00
-
- ## Python Insider
- - [https://pythoninsider.blogspot.com](https://pythoninsider.blogspot.com)
- - date_published: 2023-10-25T09:10:39.347997+00:00
- - tags: ['personal']
-
- ## Python in the Lab
- - [http://python-in-the-lab.blogspot.com](http://python-in-the-lab.blogspot.com)
- - date_published: 2024-02-08T14:50:08+00:00
-
- ## Python on Karan
- - [http://python-karan.blogspot.com](http://python-karan.blogspot.com)
- - date_published: 2024-03-08T09:06:07+00:00
-
- ## Pythonology
- - [http://pythonology.blogspot.com](http://pythonology.blogspot.com)
- - date_published: 2024-03-07T08:20:29+00:00
-
- ## # python weekly reports
- - [http://python-weekly.blogspot.com](http://python-weekly.blogspot.com)
- - date_published: 2024-06-26T12:04:27+00:00
-
- ## PythonWise
- - [http://pythonwise.blogspot.com](http://pythonwise.blogspot.com)
- - date_published: 2024-06-14T01:33:06+00:00
-
- ## Python(x,y)
- - [http://pythonxynews.blogspot.com](http://pythonxynews.blogspot.com)
- - date_published: 2024-05-30T18:07:07+00:00
-
- ## mark.py
- - [http://pywinauto.blogspot.com](http://pywinauto.blogspot.com)
- - date_published: 2011-06-07T00:00:00+00:00
-
- ## هجرة الكلمات
- - [http://qamus-tunsi.blogspot.com](http://qamus-tunsi.blogspot.com)
- - date_published: 2024-06-27T21:54:20+00:00
-
- ## QANTAS  -- A dying octopus
- - [http://qantoct.blogspot.com](http://qantoct.blogspot.com)
- - date_published: 2024-03-08T06:44:00+00:00
-
- ## QUOTIDIANO DI VENTURA
- - [http://qdiv.blogspot.com](http://qdiv.blogspot.com)
- - date_published: 2024-03-19T21:29:58+00:00
-
- ## Funkyware: ITCetera
- - [http://q-funk.blogspot.com](http://q-funk.blogspot.com)
- - date_published: 2023-11-16T10:31:00+00:00
-
- ## Queensland Police   -- A barrel with lots of bad apples
- - [http://qldcops.blogspot.com](http://qldcops.blogspot.com)
- - date_published: 2024-05-29T05:41:44+00:00
-
- ## QRP HomeBuilder - QRPHB -
- - [http://qrp-popcorn.blogspot.com](http://qrp-popcorn.blogspot.com)
- - date_published: 2024-07-08T07:56:27+00:00
-
- ## Official Queer Shorts Showcase Festival Blog
- - [http://qssfestival.blogspot.com](http://qssfestival.blogspot.com)
- - date_published: 2024-07-04T06:31:38+00:00
-
- ## Quaint Little Head
- - [http://quaintlittlehead.blogspot.com](http://quaintlittlehead.blogspot.com)
- - date_published: 2024-03-13T18:05:46+00:00
-
- ## Quantum Algorithms
- - [http://qualgorithms.blogspot.com](http://qualgorithms.blogspot.com)
- - date_published: 2024-04-20T23:26:58+00:00
-
- ## the qualia journal
- - [http://qualiajournal.blogspot.com](http://qualiajournal.blogspot.com)
- - date_published: 2024-06-29T05:00:02+00:00
-
- ## Quantum Moxie
- - [http://quantummoxie.blogspot.com](http://quantummoxie.blogspot.com)
- - date_published: 2024-02-02T02:59:29+00:00
-
- ## Quarantine World
- - [https://quarantineworld.blogspot.com](https://quarantineworld.blogspot.com)
- - date_published: 2024-03-12T23:35:30+00:00
-
- ## Questing GM
- - [https://questinggm.blogspot.com](https://questinggm.blogspot.com)
- - date_published: 2024-04-19T19:40:56+00:00
-
- ## Quetzalcoatal
- - [http://quetzalcoatal.blogspot.com](http://quetzalcoatal.blogspot.com)
- - date_published: 2024-07-06T20:45:05+00:00
-
- ## Of Dice and Djinn
- - [http://quibish.blogspot.com](http://quibish.blogspot.com)
- - date_published: 2024-07-08T08:08:48+00:00
-
- ## Quickly, Quietly, Carefully
- - [http://quicklyquietlycarefully.blogspot.com](http://quicklyquietlycarefully.blogspot.com)
- - date_published: 2024-07-04T05:41:09+00:00
-
- ## Quick Sip Reviews
- - [https://quicksipreviews.blogspot.com](https://quicksipreviews.blogspot.com)
- - date_published: 2024-05-06T11:45:57+00:00
-
- ## Quick Spot Demo
- - [https://quickspot-demo.blogspot.com](https://quickspot-demo.blogspot.com)
- - date_published: 2024-03-13T02:23:18+00:00
-
- ## DansE MacabrE
- - [https://quidamcorvus.blogspot.com](https://quidamcorvus.blogspot.com)
- - date_published: 2024-06-19T05:30:34+00:00
-
- ## Tran Eskoor an Doon
- - [http://quietdayinheimdall.blogspot.com](http://quietdayinheimdall.blogspot.com)
- - date_published: 2024-07-04T10:58:39+00:00
-
- ## The Quiet Limit of the World
- - [http://quietlimit.blogspot.com](http://quietlimit.blogspot.com)
- - date_published: 2024-05-26T02:37:36+00:00
-
- ## The Anger of a Quiet Man
- - [http://quietmanmyblog.blogspot.com](http://quietmanmyblog.blogspot.com)
- - date_published: 2024-03-14T05:52:45+00:00
-
- ## Quigley's Cabinet
- - [http://quigleyscabinet.blogspot.com](http://quigleyscabinet.blogspot.com)
- - date_published: 2024-06-08T22:32:20+00:00
-
- ## Quindia Studios
- - [http://quindiastudios.blogspot.com](http://quindiastudios.blogspot.com)
- - date_published: 2024-06-03T15:58:08+00:00
 

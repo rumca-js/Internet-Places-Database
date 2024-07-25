@@ -1,3 +1,196 @@
+ ## Editora Moderna
+ - [https://www.moderna.com.br](https://www.moderna.com.br)
+ - date_published: 2024-06-12T06:05:10.259252+00:00
+
+ ## Home
+ - [https://www.modernacompartilha.com.br](https://www.modernacompartilha.com.br)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Under Construction
+ - [http://www.msxhost.com.br](http://www.msxhost.com.br)
+ - date_published: 2018-10-16T22:52:24+00:00
+
+ ## Musa Rara
+ - [http://www.musarara.com.br](http://www.musarara.com.br)
+ - date_published: 2024-07-12T20:58:13.902860+00:00
+
+ ## MCC - Museu Capixaba do Computador
+ - [https://museucapixaba.com.br](https://museucapixaba.com.br)
+ - date_published: 2021-01-02T00:00:00+00:00
+
+ ## Mastercard Surpreenda
+ - [https://surpreenda.naotempreco.com.br](https://surpreenda.naotempreco.com.br)
+ - date_published: 2024-06-16T17:37:25.626174+00:00
+
+ ## Portal Ipanema
+ - [https://negocieipanema.com.br](https://negocieipanema.com.br)
+ - date_published: 2024-06-13T15:30:58+00:00
+
+ ## Tecnologia e Comunidade: notícias, análises e muito mais | nextpit Brasil
+ - [https://www.nextpit.com.br](https://www.nextpit.com.br)
+ - date_published: 2024-06-20T14:33:45.192470+00:00
+
+ ## Nike - Produtos e Coleções Exclusivas - Just Do It - Nike.com.br
+ - [https://www.nike.com.br](https://www.nike.com.br)
+ - date_published: 2024-06-20T15:42:21.517863+00:00
+
+ ## Central de Conhecimento
+ - [https://ajuda.nordinvestimentos.com.br](https://ajuda.nordinvestimentos.com.br)
+ - date_published: 2024-05-10T05:46:06.851705+00:00
+
+ ## Nord Research - Recomendações de investimentos para você
+ - [https://info.nordinvestimentos.com.br](https://info.nordinvestimentos.com.br)
+ - date_published: 2024-05-10T05:45:59.992624+00:00
+
+ ## Nord Investimentos
+ - [https://loja.nordinvestimentos.com.br](https://loja.nordinvestimentos.com.br)
+ - date_published: 2024-07-11T19:42:43.059600+00:00
+
+ ## Área do Assinante - Nord Research
+ - [https://members.nordinvestimentos.com.br](https://members.nordinvestimentos.com.br)
+ - date_published: 2024-05-10T05:45:58.685231+00:00
+
+ ## Nord Investimentos - Research, Asset e Wealth Management
+ - [https://nordinvestimentos.com.br](https://nordinvestimentos.com.br)
+ - date_published: 2023-12-06T00:28:58.772642+00:00
+
+ ## Nord Research - Recomendações de investimentos para você
+ - [https://info.nordresearch.com.br](https://info.nordresearch.com.br)
+ - date_published: 2024-05-10T05:46:02.434294+00:00
+
+ ## Nord Investimentos
+ - [https://loja.nordresearch.com.br](https://loja.nordresearch.com.br)
+ - date_published: 2024-07-12T17:37:44.877747+00:00
+
+ ## Novabrasil - O Lugar da MPB e Brasilidade!
+ - [https://novabrasilfm.com.br](https://novabrasilfm.com.br)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Nova Fronteira
+ - [https://www.novafronteira.com.br](https://www.novafronteira.com.br)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Login - Nubank
+ - [https://app.nubank.com.br](https://app.nubank.com.br)
+ - date_published: 2024-03-28T23:43:06+00:00
+
+ ## Fala, Nubank
+ - [https://blog.nubank.com.br](https://blog.nubank.com.br)
+ - date_published: 2024-06-15T18:23:47.080949+00:00
+
+ ## Building Nubank
+ - [https://building.nubank.com.br](https://building.nubank.com.br)
+ - date_published: 2023-10-25T12:02:22.743302+00:00
+
+ ## NuCommunity
+ - [https://comunidade.nubank.com.br](https://comunidade.nubank.com.br)
+ - date_published: 2024-06-16T17:37:31.422165+00:00
+
+ ## Canal de Fraude Nubank - Pagina Inicial
+ - [https://denunciargolpes.nubank.com.br](https://denunciargolpes.nubank.com.br)
+ - date_published: 2024-06-16T17:37:27.497677+00:00
+
+ ## About Nu - Nu International
+ - [https://international.nubank.com.br](https://international.nubank.com.br)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Nubank - Finalmente você no controle do seu dinheiro
+ - [https://link.nubank.com.br](https://link.nubank.com.br)
+ - date_published: 2024-06-14T22:05:02+00:00
+
+ ## Nubank - Finalmente você no controle do seu dinheiro
+ - [https://nubank.com.br](https://nubank.com.br)
+ - date_published: 2024-05-12T05:29:23.008538+00:00
+
+ ## Nubank - Início
+ - [http://nubankparker.com.br](http://nubankparker.com.br)
+ - date_published: 2024-06-16T17:37:40.148114+00:00
+
+ ## Suporte
+         - Nuvem Hospedagem
+ - [https://cliente.nuvemhospedagem.com.br](https://cliente.nuvemhospedagem.com.br)
+ - date_published: 2024-07-03T23:18:22.993841+00:00
+
+ ## Home | Odontoprev - Beneficiários
+ - [https://beneficiario.odontoprev.com.br](https://beneficiario.odontoprev.com.br)
+ - date_published: 2024-07-13T18:13:54.032556+00:00
+
+ ## Jogue jogos online grátis em ojogos.com.br
+ - [https://www.ojogos.com.br](https://www.ojogos.com.br)
+ - date_published: 2024-07-20T02:43:51.388552+00:00
+
+ ## Olaaa – Seu Blog de Notícias
+ - [http://www.olaaa.com.br](http://www.olaaa.com.br)
+ - date_published: 2024-07-04T14:47:43.038933+00:00
+
+ ## Onlinecurriculo.com.br
+ - [https://help.onlinecurriculo.com.br](https://help.onlinecurriculo.com.br)
+ - date_published: 2024-06-22T22:11:23.911153+00:00
+
+ ## Crie seu currículo campeão — gerador de currículo (gratuito)
+ - [https://onlinecurriculo.com.br](https://onlinecurriculo.com.br)
+ - date_published: 2024-05-06T09:21:04.370760+00:00
+
+ ## Optum | Serviços, Consultoria e Inovação em Saúde
+ - [https://www.optum.com.br](https://www.optum.com.br)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Home
+ - [https://www.orama.com.br](https://www.orama.com.br)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Banco Original: banco digital para Pessoa Física e Jurídica
+ - [https://www.original.com.br](https://www.original.com.br)
+ - date_published: 2024-07-16T19:11:06+00:00
+
+ ## O TEMPO
+ - [https://www.otempo.com.br](https://www.otempo.com.br)
+ - date_published: 2024-07-13T18:13:55+00:00
+
+ ## Pages24 - O guia de empresas gratuito em sua área
+ - [http://www.pages24.com.br](http://www.pages24.com.br)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Palpito - Participe em Pesquisas Remuneradas no Brasil
+ - [https://palpito.com.br](https://palpito.com.br)
+ - date_published: 2021-05-30T17:08:16+00:00
+
+ ## Panografias
+ - [https://panografias.com.br](https://panografias.com.br)
+ - date_published: 2024-03-16T00:00:00+00:00
+
+ ## Paulo Ghiraldelli – provocação filosófica
+ - [https://pauloghiraldelli.com.br](https://pauloghiraldelli.com.br)
+ - date_published: 2024-07-01T06:41:25.261248+00:00
+
+ ## PERI Brasil - Formas, Escoramentos e Andaimes
+ - [https://www.peri.com.br](https://www.peri.com.br)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://petlove.com.br](https://petlove.com.br)
+ - date_published: 2024-06-19T08:27:22.943357+00:00
+
+ ## Bem-vindo à alcateia | Peugeot Brasil
+ - [https://carros.peugeot.com.br](https://carros.peugeot.com.br)
+ - date_published: 2024-06-18T13:39:40+00:00
+
+ ## Blog de Paulo Santana
+ - [https://phls.com.br](https://phls.com.br)
+ - date_published: 2024-03-07T19:01:25+00:00
+
+ ## phoenixNAP: Data Center, Dedicada Servers, Cloud, & Colocação
+ - [https://phoenixnap.com.br](https://phoenixnap.com.br)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Pirelli pneus: carro, off road, SUV & Esportivos | Pirelli
+ - [https://www.pirelli.com.br](https://www.pirelli.com.br)
+ - date_published: 2024-06-23T21:06:24.568003+00:00
+
+ ## Pivot 08 - Há 17 anos no mercado digital
+ - [http://www.pivot08.com.br](http://www.pivot08.com.br)
+ - date_published: 2021-10-06T13:53:49+00:00
+
  ## Muito prazer, somos a Pixelmade.
  - [https://www.pixelmade.com.br](https://www.pixelmade.com.br)
  - date_published: 2024-04-23T00:00:00+00:00
@@ -434,6 +627,10 @@
  ## Locaweb HTTP Server
  - [http://www.tourvirtualbrasil.com.br](http://www.tourvirtualbrasil.com.br)
  - date_published: 2024-05-29T00:37:48.288512+00:00
+
+ ## Mercado de transferências, rumores, valores de mercado e notícias
+ - [https://www.transfermarkt.com.br](https://www.transfermarkt.com.br)
+ - date_published: 2024-07-24T06:29:55.780017+00:00
 
  ## Treine Basquete
  - [https://treinebasquete.com.br](https://treinebasquete.com.br)
@@ -1532,6 +1729,10 @@
  - [https://innoviris.brussels](https://innoviris.brussels)
  - date_published: 2024-07-07T09:21:41+00:00
 
+ ## Homepage
+ - [https://kanal.brussels](https://kanal.brussels)
+ - date_published: 2019-06-05T08:29:09+00:00
+
  ## React Brussels | Brussels & Online
  - [https://www.react.brussels](https://www.react.brussels)
  - date_published: 2024-06-20T07:07:54.339815+00:00
@@ -1820,6 +2021,10 @@
 		- Syzygy Business
  - [https://syzygy.business](https://syzygy.business)
  - date_published: 2024-06-30T17:20:10+00:00
+
+ ## 🅈🄸🄿🄿🅈 BUSINESS: Startups and Beyond!
+ - [https://yippy.business](https://yippy.business)
+ - date_published: 2024-07-03T00:00:00+00:00
 
  ## Buzzy - Idea to app in minutes
  - [https://www.buzzy.buzz](https://www.buzzy.buzz)
@@ -2520,6 +2725,10 @@
  ## Kit Builder
  - [https://kb-load.anvasoft.ca](https://kb-load.anvasoft.ca)
  - date_published: 2024-06-17T00:00:00+00:00
+
+ ## A-OKAY
+ - [https://a-okay.ca](https://a-okay.ca)
+ - date_published: 2024-07-24T07:59:32.578908+00:00
 
  ## 202310 - apenwarr
  - [https://apenwarr.ca](https://apenwarr.ca)
@@ -3722,6 +3931,10 @@
  - [https://cnf-fiic.ca](https://cnf-fiic.ca)
  - date_published: 2024-01-30T00:00:00+00:00
 
+ ## Home - Canadian Nuclear Laboratories
+ - [https://www.cnl.ca](https://www.cnl.ca)
+ - date_published: 2024-07-24T07:27:52.343793+00:00
+
  ## CNMC - Le Conseil national des musulmans Canadiens
  - [https://cnmc.ca](https://cnmc.ca)
  - date_published: 2024-06-13T17:07:16+00:00
@@ -3809,217 +4022,4 @@
  ## Consultants in Canada, Canada
  - [http://www.consultants.ca](http://www.consultants.ca)
  - date_published: 2024-06-29T17:28:19.147363+00:00
-
- ## Consumed by Ink
- - [https://consumedbyink.ca](https://consumedbyink.ca)
- - date_published: 2024-06-15T10:20:10.347161+00:00
-
- ## Correo
- - [https://www.correo.ca](https://www.correo.ca)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Top 5 Top 5 Toronto CosmeticSurgeons for 2020 | CosmeticSurgeons.ca Plumbers and Plumbing Contractors for 2020 | CosmeticSurgeons.ca
- - [http://www.cosmeticsurgeons.ca](http://www.cosmeticsurgeons.ca)
- - date_published: 2024-06-29T17:33:37.911067+00:00
-
- ## Law Practice Management Software | CosmoLex Canada
- - [https://www.cosmolex.ca](https://www.cosmolex.ca)
- - date_published: 2019-12-19T01:55:27+00:00
-
- ## Welcome! - CoSocial Community Cooperative
- - [https://blog.cosocial.ca](https://blog.cosocial.ca)
- - date_published: 2023-04-07T21:25:17+00:00
-
- ## CoSocial
- - [https://cosocial.ca](https://cosocial.ca)
- - date_published: 2024-05-06T14:49:26.495813+00:00
-
- ## Canada's Marketplace for Education | CourseCompare.ca
- - [https://coursecompare.ca](https://coursecompare.ca)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## CPAC.ca
- - [https://www.cpac.ca](https://www.cpac.ca)
- - date_published: 2024-06-27T11:51:46.269941+00:00
-
- ## CPA Canada
- - [https://www.cpacanada.ca](https://www.cpacanada.ca)
- - date_published: 2024-06-16T00:56:48.372499+00:00
-
- ## Protecting and promoting the health and well-being of children and youth | Canadian Paediatric Society
- - [https://cps.ca](https://cps.ca)
- - date_published: 2024-01-26T10:31:49.585956+00:00
-
- ## Home - CPS
- - [https://www.cps-ecp.ca](https://www.cps-ecp.ca)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Canadian Public Transit Discussion Board
- - [https://cptdb.ca](https://cptdb.ca)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## analytics.crea.ca - /
- - [https://analytics.crea.ca](https://analytics.crea.ca)
- - date_published: 2024-07-04T02:31:27.058721+00:00
-
- ## CreativePEI – A catalyst for Prince Edward Island's Creative Industries
- - [https://creativepei.ca](https://creativepei.ca)
- - date_published: 2024-05-08T09:06:34.258869+00:00
-
- ## Credit Karma Customer Community
- - [https://support.creditkarma.ca](https://support.creditkarma.ca)
- - date_published: 2023-06-17T06:10:52+00:00
-
- ## Credit Karma
- - [https://www.creditkarma.ca](https://www.creditkarma.ca)
- - date_published: 2024-05-31T20:19:05.638595+00:00
-
- ## CRG Survey
- - [https://survey.crg.ca](https://survey.crg.ca)
- - date_published: 2024-07-07T03:37:41.240503+00:00
-
- ## criticalhitmontreal.ca
- - [http://criticalhitmontreal.ca](http://criticalhitmontreal.ca)
- - date_published: 2023-06-23T17:35:20+00:00
-
- ## CRRS Publications
- - [https://pubs.crrs.ca](https://pubs.crrs.ca)
- - date_published: 2024-06-26T21:36:12.691806+00:00
-
- ## CryptoChicks – Blockchain, AI, Programming and Emerging Tech Education For Women
- - [https://cryptochicks.ca](https://cryptochicks.ca)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Cryptoducation  is  L3arn.BTC – Education & Consulting Services about Bitcoin
- - [https://cryptoducation.ca](https://cryptoducation.ca)
- - date_published: 2024-06-16T04:17:56.482247+00:00
-
- ## Canadian Society of Christian Philosophers
- - [https://cscp-scpc.ca](https://cscp-scpc.ca)
- - date_published: 2024-06-17T03:01:27.690326+00:00
-
- ## Canadian Social Knowledge Institute (C-SKI) | Engaging in issues related to open social scholarship
- - [https://c-ski.ca](https://c-ski.ca)
- - date_published: 2024-07-11T13:08:15.879586+00:00
-
- ## cStreet Campaigns
- - [http://www.cstreet.ca](http://www.cstreet.ca)
- - date_published: 2024-07-13T17:56:32.403317+00:00
-
- ## Charles T. Low Photography
- - [https://photog.ctlow.ca](https://photog.ctlow.ca)
- - date_published: 2023-11-04T00:00:00+00:00
-
- ## Charles T. Low - ctLow
- - [https://ctlow.ca](https://ctlow.ca)
- - date_published: 2023-08-10T23:38:30+00:00
-
- ## CTV | Extras
- - [https://more.ctv.ca](https://more.ctv.ca)
- - date_published: 2024-05-10T02:41:39.983330+00:00
-
- ## https://www.ctv.ca
- - [https://ctv.ca](https://ctv.ca)
- - date_published: 2023-12-12T08:41:11.546084+00:00
-
- ## Bell Media Account
- - [https://account.ctvnews.ca](https://account.ctvnews.ca)
- - date_published: 2024-05-09T09:25:16.287600+00:00
-
- ## Atlantic News | Local Breaking | CTV News Atlantic
- - [https://atlantic.ctvnews.ca](https://atlantic.ctvnews.ca)
- - date_published: 2023-12-12T08:42:19.488706+00:00
-
- ## Barrie News | Local Breaking | CTV News Barrie
- - [https://barrie.ctvnews.ca](https://barrie.ctvnews.ca)
- - date_published: 2023-12-12T08:40:59.543668+00:00
-
- ## Vancouver News | Local Breaking | CTV News Vancouver
- - [https://bc.ctvnews.ca](https://bc.ctvnews.ca)
- - date_published: 2023-10-25T10:55:57.032920+00:00
-
- ## Calgary News | Local Breaking | CTV News Calgary
- - [https://calgary.ctvnews.ca](https://calgary.ctvnews.ca)
- - date_published: 2023-12-12T09:06:04.685094+00:00
-
- ## CTV News - Breaking News, Canada News Today
- - [https://ctvnews.ca](https://ctvnews.ca)
- - date_published: 2023-12-12T09:06:16.335891+00:00
- - tags: ['canada news']
-
- ## Edmonton News | CTV News | Edmonton Weather
- - [https://edmonton.ctvnews.ca](https://edmonton.ctvnews.ca)
- - date_published: 2023-12-12T08:42:34.458083+00:00
-
- ## Kitchener News | Local Breaking | CTV News Kitchener
- - [https://kitchener.ctvnews.ca](https://kitchener.ctvnews.ca)
- - date_published: 2023-12-12T09:06:38.784881+00:00
-
- ## London News | Weather & Local Breaking | CTV News London
- - [https://london.ctvnews.ca](https://london.ctvnews.ca)
- - date_published: 2023-10-25T10:52:18.091793+00:00
-
- ## Montreal News | Local Breaking | CTV News Montreal
- - [https://montreal.ctvnews.ca](https://montreal.ctvnews.ca)
- - date_published: 2023-11-09T19:00:28.953347+00:00
-
- ## Northern Ontario News | Local Breaking | CTV News Northern Ontario
- - [https://northernontario.ctvnews.ca](https://northernontario.ctvnews.ca)
- - date_published: 2023-12-12T08:40:48.811443+00:00
-
- ## Ottawa News | Local Breaking | CTV News Ottawa
- - [https://ottawa.ctvnews.ca](https://ottawa.ctvnews.ca)
- - date_published: 2023-10-25T10:56:04.116973+00:00
-
- ## Regina News | Regina Weather | CTV News Regina
- - [https://regina.ctvnews.ca](https://regina.ctvnews.ca)
- - date_published: 2023-12-12T08:42:43.297708+00:00
-
- ## Saskatoon News | Local Breaking | CTV News Saskatoon
- - [https://saskatoon.ctvnews.ca](https://saskatoon.ctvnews.ca)
- - date_published: 2023-12-12T08:41:36.159326+00:00
-
- ## Requête rejetée / Request Rejected
- - [http://static.ctvnews.ca](http://static.ctvnews.ca)
- - date_published: 2024-07-03T11:15:07.523480+00:00
-
- ## Access Denied
- - [https://stats.ctvnews.ca](https://stats.ctvnews.ca)
- - date_published: 2023-12-12T08:41:53.588641+00:00
-
- ## Toronto News | Breaking News | CTV News Toronto
- - [https://toronto.ctvnews.ca](https://toronto.ctvnews.ca)
- - date_published: 2023-10-25T10:56:11.669804+00:00
-
- ## Victoria News | Local Breaking | CTV News Vancouver Island
- - [https://vancouverisland.ctvnews.ca](https://vancouverisland.ctvnews.ca)
- - date_published: 2023-12-12T09:06:50.809150+00:00
-
- ## Windsor News | Local Breaking | CTV News Windsor
- - [https://windsor.ctvnews.ca](https://windsor.ctvnews.ca)
- - date_published: 2023-12-12T09:06:32.505848+00:00
-
- ## Winnipeg News | CTV News Winnipeg
- - [https://winnipeg.ctvnews.ca](https://winnipeg.ctvnews.ca)
- - date_published: 2023-12-12T09:06:26.016061+00:00
-
- ## curiouscast.ca
- - [https://curiouscast.ca](https://curiouscast.ca)
- - date_published: 2024-07-20T02:48:19.212748+00:00
-
- ## Home - CUSA
- - [https://cusaonline.ca](https://cusaonline.ca)
- - date_published: 2023-08-15T15:25:58+00:00
-
- ## Home - CUTA
- - [https://cutaactu.ca](https://cutaactu.ca)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Accueil - Cybereco
- - [http://www.cybereco.ca](http://www.cybereco.ca)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Home
- - [https://cyber-fortress.ca](https://cyber-fortress.ca)
- - date_published: 2024-06-29T06:03:40.341256+00:00
 

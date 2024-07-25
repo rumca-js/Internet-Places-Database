@@ -1,3 +1,27 @@
+ ## deploybot
+ - [https://deploybot.app](https://deploybot.app)
+ - date_published: 2024-05-06T09:18:30.757531+00:00
+
+ ## DetailsPro: Design with SwiftUI, no coding required.
+ - [https://detailspro.app](https://detailspro.app)
+ - date_published: 2024-06-23T15:35:31.691381+00:00
+
+ ## Detoxify.app
+ - [https://detoxify.app](https://detoxify.app)
+ - date_published: 2024-07-04T04:23:51.459796+00:00
+
+ ## Diagrams: A Native Diagram Editor for Mac
+ - [https://diagrams.app](https://diagrams.app)
+ - date_published: 2024-05-12T06:23:53.449350+00:00
+
+ ## Didthis
+ - [https://didthis.app](https://didthis.app)
+ - date_published: 2024-05-08T10:31:33.250502+00:00
+
+ ## Diffusion Depot · Smart image manager for Stable Diffusion, Midjourney, and DALL-E
+ - [https://diffusiondepot.app](https://diffusiondepot.app)
+ - date_published: 2024-07-10T11:16:39.983398+00:00
+
  ## Digiboard by La Digitale
  - [https://digiboard.app](https://digiboard.app)
  - date_published: 2024-06-19T22:13:52.808568+00:00
@@ -205,6 +229,10 @@
  ## Equals | The next-generation spreadsheet
  - [https://equals.app](https://equals.app)
  - date_published: 2023-10-25T11:46:17.748837+00:00
+
+ ## AI to make more of your money | Era
+ - [https://era.app](https://era.app)
+ - date_published: 2024-04-01T00:00:00+00:00
 
  ## Essay
  - [https://essay.app](https://essay.app)
@@ -826,6 +854,14 @@
  - [https://hyperproof.app](https://hyperproof.app)
  - date_published: 2024-07-12T17:00:22+00:00
 
+ ## ICDevs Governance Tool
+ - [https://77i6o-oqaaa-aaaag-qbm6q-cai.ic0.app](https://77i6o-oqaaa-aaaag-qbm6q-cai.ic0.app)
+ - date_published: 2024-07-24T07:01:56.715349+00:00
+
+ ## NNS Dapp
+ - [https://nns.ic0.app](https://nns.ic0.app)
+ - date_published: 2024-07-24T07:01:50.075441+00:00
+
  ## Ice - Menu Bar Manager
  - [https://icemenubar.app](https://icemenubar.app)
  - date_published: 2024-07-10T08:05:09.491289+00:00
@@ -886,6 +922,10 @@
  ## EQS Integrity Line
  - [https://tresorit.integrityline.app](https://tresorit.integrityline.app)
  - date_published: 2024-06-16T16:34:25.495223+00:00
+
+ ## EQS Integrity Line
+ - [https://zeitverlagsgruppe.integrityline.app](https://zeitverlagsgruppe.integrityline.app)
+ - date_published: 2024-07-24T02:52:48.545796+00:00
 
  ## IntelliBar - AI-powered assistant for the Mac.
  - [https://intellibar.app](https://intellibar.app)
@@ -1887,6 +1927,10 @@
  - [https://drvtrd-widget.netlify.app](https://drvtrd-widget.netlify.app)
  - date_published: 2024-06-29T20:40:37.911077+00:00
 
+ ## ECLIPSE
+ - [https://eclipsefin.netlify.app](https://eclipsefin.netlify.app)
+ - date_published: 2024-07-24T02:30:34.344075+00:00
+
  ## ecommerce-netlify
  - [https://ecommerce-netlify.netlify.app](https://ecommerce-netlify.netlify.app)
  - date_published: 2024-06-23T10:26:31.300922+00:00
@@ -2665,6 +2709,10 @@
  - [https://nowtracker.app](https://nowtracker.app)
  - date_published: 2024-06-30T06:03:56.607868+00:00
 
+ ## Beautiful calculator for Mac
+ - [https://numi.app](https://numi.app)
+ - date_published: 2024-07-24T07:59:46.533075+00:00
+
  ## Log in | Nx Cloud
  - [https://cloud.nx.app](https://cloud.nx.app)
  - date_published: 2024-04-30T02:04:24.365167+00:00
@@ -2820,6 +2868,10 @@
  - [https://ai-jd.pangea.app](https://ai-jd.pangea.app)
  - date_published: 2023-09-18T00:00:00+00:00
 
+ ## Hire with a Talent Expert
+ - [https://www.about.pangea.app](https://www.about.pangea.app)
+ - date_published: 2024-07-23T00:00:00+00:00
+
  ## The Cisco Secure Application Cloud | An Effective Security Platform - Panoptica
  - [https://www.panoptica.app](https://www.panoptica.app)
  - date_published: 2023-12-20T23:10:10.715922+00:00
@@ -2903,6 +2955,10 @@
  ## PersonaGen: AI User-Persona Generator
  - [https://personagen.app](https://personagen.app)
  - date_published: 2024-06-19T19:36:44.122256+00:00
+
+ ## Phantom — Crypto & NFT Wallet — Solana | Ethereum | Polygon
+ - [https://phantom.app](https://phantom.app)
+ - date_published: 2024-07-24T02:33:39.189986+00:00
 
  ## Plausible · Web analytics
  - [https://a.photoprism.app](https://a.photoprism.app)
@@ -3662,6 +3718,10 @@
  - [https://snowpixel.app](https://snowpixel.app)
  - date_published: 2024-04-11T19:45:39+00:00
 
+ ## Sock - The simplest way to earn yield on your crypto
+ - [https://www.sock.app](https://www.sock.app)
+ - date_published: 2024-06-11T00:00:00+00:00
+
  ## Football - scores, schedule & odds | Sofascore
  - [https://api.sofascore.app](https://api.sofascore.app)
  - date_published: 2024-06-18T06:24:31.834934+00:00
@@ -3981,64 +4041,4 @@
  ## The Companion
  - [https://www.thecompanion.app](https://www.thecompanion.app)
  - date_published: 2023-10-25T11:49:20.174746+00:00
-
- ## The Operator – Slack private channel access made easy
- - [https://theoperator.app](https://theoperator.app)
- - date_published: 2024-07-14T09:09:00.926983+00:00
-
- ## theQuestions
- - [https://thequestions.app](https://thequestions.app)
- - date_published: 2024-06-22T13:46:53.760379+00:00
-
- ## Tholos MPC Crypto Wallet: Friendly & Secure for Funds, DAOs, Companies
- - [https://www.tholos.app](https://www.tholos.app)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Threader - Good threads every day
- - [https://threader.app](https://threader.app)
- - date_published: 2024-05-08T04:03:35.730993+00:00
-
- ## Busy Beavers!
- - [https://busy-beavers.tigyog.app](https://busy-beavers.tigyog.app)
- - date_published: 2023-10-25T11:49:30.014538+00:00
-
- ## Everyday Data Science
- - [https://everyday-data-science.tigyog.app](https://everyday-data-science.tigyog.app)
- - date_published: 2024-05-11T07:17:47.847271+00:00
-
- ## Jim’s blog
- - [https://jim.tigyog.app](https://jim.tigyog.app)
- - date_published: 2024-05-11T07:17:51.205820+00:00
-
- ## TigYog
- - [https://tigyog.app](https://tigyog.app)
- - date_published: 2023-10-25T11:49:31.674555+00:00
-
- ## Bills Reminder app, Budget Organizer, and Money Tracker App
- - [https://timelybills.app](https://timelybills.app)
- - date_published: 2024-07-01T12:43:29+00:00
-
- ## Timesy: A Distraction-Free Online Timer
- - [https://timesy.app](https://timesy.app)
- - date_published: 2024-05-08T16:50:29.231095+00:00
-
- ## TimeTagger - Tag your time, get the insight
- - [https://timetagger.app](https://timetagger.app)
- - date_published: 2024-06-19T22:11:38.826480+00:00
-
- ## Timezone Checker for Remote Workers
- - [https://timezonechecker.app](https://timezonechecker.app)
- - date_published: 2024-07-11T19:39:32.206037+00:00
-
- ## The code runner for PHP 💫
- - [https://tinkerwell.app](https://tinkerwell.app)
- - date_published: 2024-05-04T11:49:51.761845+00:00
-
- ## Tinylytics | tinylytics
- - [https://tinylytics.app](https://tinylytics.app)
- - date_published: 2024-04-28T03:58:36.076675+00:00
-
- ## Auto Gmail - ChatGPT AI for email inbox
- - [https://tinymagic.app](https://tinymagic.app)
- - date_published: 2024-06-19T19:34:08.150242+00:00
 

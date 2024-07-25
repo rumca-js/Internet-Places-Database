@@ -116,6 +116,14 @@
  - [https://bezier.method.ac](https://bezier.method.ac)
  - date_published: 2024-04-29T07:16:03.028176+00:00
 
+ ## The Boolean Game
+ - [https://boolean.method.ac](https://boolean.method.ac)
+ - date_published: 2024-07-24T02:23:09.427321+00:00
+
+ ## Method of Action
+ - [https://method.ac](https://method.ac)
+ - date_published: 2024-07-24T02:23:11.120828+00:00
+
  ## Kern Type
  - [https://type.method.ac](https://type.method.ac)
  - date_published: 2023-10-25T08:31:02.163535+00:00
@@ -2403,6 +2411,10 @@
  - [https://capitalmonitor.ai](https://capitalmonitor.ai)
  - date_published: 2024-01-11T00:00:00+00:00
 
+ ## Create persuasive content from data
+ - [https://capitol.ai](https://capitol.ai)
+ - date_published: 2024-07-24T02:33:47.796589+00:00
+
  ## Captions | Your AI-powered creative studio
  - [https://captions.ai](https://captions.ai)
  - date_published: 2024-06-18T00:00:00+00:00
@@ -4017,16 +4029,4 @@ Welcome
  ## ficc.ai
  - [https://pricing.ficc.ai](https://pricing.ficc.ai)
  - date_published: 2024-07-03T16:15:49.490682+00:00
-
- ## Fiddler AI – AI Observability, ML Model Monitoring, LLM Monitoring, and Explainable AI
- - [https://www.fiddler.ai](https://www.fiddler.ai)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Film Recommendation Using GenAI
- - [http://filmfinder.ai](http://filmfinder.ai)
- - date_published: 2024-06-19T21:11:29.731323+00:00
-
- ## Fintech Ready News API
- - [https://finalle.ai](https://finalle.ai)
- - date_published: 2024-06-19T19:38:50.158458+00:00
 

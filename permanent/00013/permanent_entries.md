@@ -1,3 +1,216 @@
+ ## Canadian Institutes of Health Research / Instituts de recherche en santé du Canada
+ - [http://www.cihr-irsc.gc.ca](http://www.cihr-irsc.gc.ca)
+ - date_published: 2019-11-27T02:31:38+00:00
+
+ ## Conseil de la radiodiffusion et des télécommunications canadiennes / Canadian Radio-television and Telecommunications Commission | CRTC
+ - [https://crtc.gc.ca](https://crtc.gc.ca)
+ - date_published: 2014-03-21T00:00:00+00:00
+
+ ## Communications Security Establishment
+ - [https://www.cse-cst.gc.ca](https://www.cse-cst.gc.ca)
+ - date_published: 2024-02-07T15:33:10+00:00
+ - tags: ['france security intelligence', 'security intelligence']
+
+ ## Canadian Centre for Cyber Security
+ - [https://www.cyber.gc.ca](https://www.cyber.gc.ca)
+ - date_published: 2018-08-15T00:00:00+00:00
+
+ ## Fisheries and Oceans Canada | Pêches et Océans Canada
+ - [http://www.dfo-mpo.gc.ca](http://www.dfo-mpo.gc.ca)
+ - date_published: 2022-01-24T00:00:00+00:00
+
+ ## Environment and Climate Change Canada - Canada.ca
+ - [https://ec.gc.ca](https://ec.gc.ca)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Language selection - Federal Economic Development Agency for Southern Ontario Main Site / Sélection de la langue - Site principal Agence fédérale de développement économique pour le Sud de l'Ontario
+ - [https://www.feddevontario.gc.ca](https://www.feddevontario.gc.ca)
+ - date_published: 2023-03-10T15:38:23+00:00
+
+ ## Guichet-Emplois pour employeurs - Module pour employeurs
+ - [https://employeur.guichetemplois.gc.ca](https://employeur.guichetemplois.gc.ca)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Guichet-Emplois
+ - [https://guichetemplois.gc.ca](https://guichetemplois.gc.ca)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Language selection - Innovation, Science and Economic Development Canada Main Site / Sélection de la langue - Site principal d'Innovation, Sciences et Développement économique Canada
+ - [http://strategis.ic.gc.ca](http://strategis.ic.gc.ca)
+ - date_published: 2013-12-13T00:00:00+00:00
+
+ ## Global Affairs Canada – Splash page / Affaires mondiales Canada – Page de garde
+ - [https://international.gc.ca](https://international.gc.ca)
+ - date_published: 2013-06-26T00:00:00+00:00
+
+ ## Job Bank for Employers - Employer Module
+ - [https://employer.jobbank.gc.ca](https://employer.jobbank.gc.ca)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Job Bank
+ - [https://jobbank.gc.ca](https://jobbank.gc.ca)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Justice Laws Website - Site Web de la législation (Justice)
+ - [https://laws.justice.gc.ca](https://laws.justice.gc.ca)
+ - date_published: 2023-04-12T12:42:30+00:00
+
+ ## Ressources du Portail linguistique du Canada – Langues – Identité canadienne et société – Culture, histoire et sport – Canada.ca
+ - [https://www.noslangues-ourlanguages.gc.ca](https://www.noslangues-ourlanguages.gc.ca)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Canadian Astronomy Data Centre
+ - [https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca)
+ - date_published: 2022-10-03T00:00:00+00:00
+
+ ## Home - National Research Council Canada
+ - [https://www.nrc-cnrc.gc.ca](https://www.nrc-cnrc.gc.ca)
+ - date_published: 2024-07-04T09:05:04+00:00
+
+ ## Natural Sciences and Engineering Research Council of Canada  | Conseil de recherches en sciences naturelles et en génie du Canada
+ - [https://www.nserc-crsng.gc.ca](https://www.nserc-crsng.gc.ca)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Canadian Nuclear Safety Commission - Commission canadienne de sûreté nucléaire
+ - [http://nuclearsafety.gc.ca](http://nuclearsafety.gc.ca)
+ - date_published: 2022-10-05T00:00:00+00:00
+
+ ## ParlVu
+ - [https://parlvu.parl.gc.ca](https://parlvu.parl.gc.ca)
+ - date_published: 2024-07-10T05:30:08.053880+00:00
+
+ ## Parks Canada
+ - [https://www.pc.gc.ca](https://www.pc.gc.ca)
+ - date_published: 2024-06-21T09:43:17.305148+00:00
+
+ ## Public Health Agency of Canada (PHAC) | Agence de la sante publique du Canada (ASPC)
+ - [https://phac-aspc.gc.ca](https://phac-aspc.gc.ca)
+ - date_published: 2024-07-13T19:47:42.410865+00:00
+
+ ## Prime Minister of Canada - Premier ministre du Canada
+ - [https://pm.gc.ca](https://pm.gc.ca)
+ - date_published: 2017-12-06T00:00:00+00:00
+
+ ## Commissariat à la protection de la vie privée du Canada / Office of the Privacy Commissioner
+ - [https://www.priv.gc.ca](https://www.priv.gc.ca)
+ - date_published: 2023-10-25T12:09:36.663904+00:00
+
+ ## Publications du gouvernement du Canada | Government of Canada Publications
+ - [https://publications.gc.ca](https://publications.gc.ca)
+ - date_published: 2002-07-01T00:00:00+00:00
+
+ ## Public Safety Canada / Sécurité publique Canada
+ - [https://www.publicsafety.gc.ca](https://www.publicsafety.gc.ca)
+ - date_published: 2024-06-22T08:51:59.855148+00:00
+
+ ## Services aux Autochtones Canada / Indigenous Services Canada - Canada.ca
+ - [https://www.sac-isc.gc.ca](https://www.sac-isc.gc.ca)
+ - date_published: 2013-12-13T00:00:00+00:00
+
+ ## Canada.ca
+ - [http://www.science.gc.ca](http://www.science.gc.ca)
+ - date_published: 2013-12-13T00:00:00+00:00
+
+ ## Social Sciences and Humanities Research Council / Conseil de recherches en sciences humaines
+ - [https://www.sshrc-crsh.gc.ca](https://www.sshrc-crsh.gc.ca)
+ - date_published: 2020-06-02T23:37:03+00:00
+
+ ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
+ - [https://www150.statcan.gc.ca](https://www150.statcan.gc.ca)
+ - date_published: 2023-11-27T21:10:40.723455+00:00
+
+ ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
+ - [https://www.statcan.gc.ca](https://www.statcan.gc.ca)
+ - date_published: 2013-12-13T00:00:00+00:00
+
+ ## Language selection - Treasury Board of Canada Secretariat / Sélection de la langue - Secrétariat du Conseil du Trésor du Canada
+ - [http://tbs-sct.gc.ca](http://tbs-sct.gc.ca)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Transport Canada / Transports Canada
+ - [https://wwwapps.tc.gc.ca](https://wwwapps.tc.gc.ca)
+ - date_published: 2021-11-29T19:02:34+00:00
+
+ ## Listage dans le répertoire rejeté (Erreur 403) / Directory listing denied (Error 403)
+ - [https://www.tpsgc-pwgsc.gc.ca](https://www.tpsgc-pwgsc.gc.ca)
+ - date_published: 2021-10-05T00:00:00+00:00
+
+ ## Home - Travel.gc.ca
+ - [https://travel.gc.ca](https://travel.gc.ca)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Language selection - Vanier Canada Graduate Scholarships  / Sélection de la langue - Bourses d'études supérieures du Canada Vanier
+ - [https://vanier.gc.ca](https://vanier.gc.ca)
+ - date_published: 2024-06-09T01:06:28.920656+00:00
+
+ ## Language selection
+ - [https://www.veterans.gc.ca](https://www.veterans.gc.ca)
+ - date_published: 2024-06-14T17:06:54+00:00
+
+ ## Weather Information - Environment Canada
+ - [https://weather.gc.ca](https://weather.gc.ca)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Manitoba Child Care Search - Government of Manitoba
+ - [https://childcaresearch.gov.mb.ca](https://childcaresearch.gov.mb.ca)
+ - date_published: 2024-04-30T05:33:01.579827+00:00
+
+ ## Province of Manitoba | Home Page
+ - [https://gov.mb.ca](https://gov.mb.ca)
+ - date_published: 2024-04-30T05:32:46.909932+00:00
+
+ ## Province of Manitoba | News Releases
+ - [https://news.gov.mb.ca](https://news.gov.mb.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Residents Portal | Residents
+ - [https://residents.gov.mb.ca](https://residents.gov.mb.ca)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Manitoba Vital Statistics Branch | Province of Manitoba
+ - [https://vitalstats.gov.mb.ca](https://vitalstats.gov.mb.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Resource Not Found | Province of Manitoba
+ - [https://web22.gov.mb.ca](https://web22.gov.mb.ca)
+ - date_published: 2024-07-21T07:55:15.072834+00:00
+
+ ## Province of Manitoba | Home Page
+ - [https://web2.gov.mb.ca](https://web2.gov.mb.ca)
+ - date_published: 2024-04-30T05:33:03.894877+00:00
+
+ ## Province of Manitoba | Home Page
+ - [https://www.edu.gov.mb.ca](https://www.edu.gov.mb.ca)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Home
+ - [https://www.manitobacourts.mb.ca](https://www.manitobacourts.mb.ca)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Home - Science East Science Centre
+ - [http://scienceeast.nb.ca](http://scienceeast.nb.ca)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Ontario Arts Council - Conseil des arts de l’Ontario - Welcome | Bienvenue
+ - [http://www.arts.on.ca](http://www.arts.on.ca)
+ - date_published: 2024-07-21T09:52:54.823018+00:00
+
+ ## Dialogue
+ - [https://dialogue.cpso.on.ca](https://dialogue.cpso.on.ca)
+ - date_published: 2024-07-08T16:52:38.728281+00:00
+
+ ## Welcome to the Archives of Ontario / Bienvenue aux Archives publiques de l'Ontario
+ - [http://www.archives.gov.on.ca](http://www.archives.gov.on.ca)
+ - date_published: 2024-07-15T10:46:17.564953+00:00
+
+ ## Untitled Document
+ - [http://www.edu.gov.on.ca](http://www.edu.gov.on.ca)
+ - date_published: 2022-12-09T10:32:08+00:00
+
+ ## GlobalProtect Portal
+ - [https://access.ices.on.ca](https://access.ices.on.ca)
+ - date_published: 2024-05-12T04:58:13.025556+00:00
+
  ## ICES
  - [https://www.ices.on.ca](https://www.ices.on.ca)
  - date_published: 2024-03-06T00:00:00+00:00
@@ -3813,219 +4026,4 @@
  ## Archivista
  - [https://archivista.ch](https://archivista.ch)
  - date_published: 2021-01-14T00:38:18+00:00
-
- ## ArchTech — Meticulously architected web applications
- - [https://archte.ch](https://archte.ch)
- - date_published: 2024-06-19T09:30:16.298408+00:00
-
- ## Arenae Consulting AG | Software Hersteller
- - [https://www.arenae.ch](https://www.arenae.ch)
- - date_published: 2024-06-19T15:39:46.323606+00:00
-
- ## ARGUSavenue – ARGUS DATA INSIGHTS Schweiz AG
- - [https://avenue.argusdatainsights.ch](https://avenue.argusdatainsights.ch)
- - date_published: 2024-07-16T22:07:08.696064+00:00
-
- ## []
- - [http://www.armada.ch](http://www.armada.ch)
- - date_published: 2012-11-21T18:52:28+00:00
-
- ## Art By Arab Bank - Art By ArabBank
- - [https://artbyarabbank.ch](https://artbyarabbank.ch)
- - date_published: 2024-07-21T06:32:57+00:00
-
- ## ART EN VILLE
- - [https://www.art-en-ville.ch](https://www.art-en-ville.ch)
- - date_published: 2024-07-21T06:19:17.887939+00:00
-
- ## Anmelden - Artmotion Support
- - [https://support.artmotion.ch](https://support.artmotion.ch)
- - date_published: 2024-07-20T04:58:48.264478+00:00
-
- ## ATD Quart Monde
- - [https://www.atd-quartmonde.ch](https://www.atd-quartmonde.ch)
- - date_published: 2024-07-13T19:49:44.924763+00:00
-
- ## Soutien Financier de Projets Sportifs | Athlètes Vaudois
- - [https://athletes-vaudois.ch](https://athletes-vaudois.ch)
- - date_published: 2024-07-21T05:58:12+00:00
-
- ## Your digital partner in Geneva - Atipik
- - [https://www.atipik.ch](https://www.atipik.ch)
- - date_published: 2024-07-16T22:36:35.718060+00:00
-
- ## ATLAS Experiment at CERN | ATLAS Experiment at CERN
- - [http://www.atlas.ch](http://www.atlas.ch)
- - date_published: 2024-06-30T08:14:33.020146+00:00
-
- ## ATLAS FOR MEN - Outdoor-Bekleidung und Accessoires für Männer
- - [https://www.atlasformen.ch](https://www.atlasformen.ch)
- - date_published: 2024-05-29T10:08:51.103771+00:00
-
- ## atonra | Invest beyond the ordinary
- - [https://www.atonra.ch](https://www.atonra.ch)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Audi Schweiz
- - [https://www.audi.ch](https://www.audi.ch)
- - date_published: 2024-07-19T20:46:40+00:00
-
- ## audienzz - premium. digital. advertising.
- - [https://audienzz.ch](https://audienzz.ch)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Top aktuelles Datenmaterial und einfachste Handhabung
- - [https://www.auto-i-dat.ch](https://www.auto-i-dat.ch)
- - date_published: 2024-07-11T14:38:28.906109+00:00
-
- ## Avis dexperts
- - [https://avisdexperts.ch](https://avisdexperts.ch)
- - date_published: 2024-07-21T05:12:50.589117+00:00
-
- ## Gesamtlösung für Gemeinden, Städte und kantonale Finanzverwaltungen - Axians Infoma - Ihr Partner für Smart Government
- - [https://www.axians-infoma.ch](https://www.axians-infoma.ch)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Services of cable.ayra.ch
- - [https://cable.ayra.ch](https://cable.ayra.ch)
- - date_published: 2023-10-12T13:44:48+00:00
-
- ## Home - TS3 Identity generator
- - [https://identity.ayra.ch](https://identity.ayra.ch)
- - date_published: 2017-09-26T16:39:10+00:00
-
- ## Dafi Kühne – Dafi Kühne is a graphic designer and letterpress print maker from Zürich+Glarus, Switzerland. Since 2009 his studio «babyinktwice» has been designing and printing posters, invitation cards and brochures for music, art, architecture, theater and film projects and also for products. Since 2011 Dafi Kühne has also been teaching everything from short workshops to full semesters in various universities in Europe and the United States.
- - [http://babyinktwice.ch](http://babyinktwice.ch)
- - date_published: 2024-06-19T16:18:23.201061+00:00
-
- ## Badesaison Studio
- - [https://badesaison.ch](https://badesaison.ch)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Baggenstos/Rudolf
- - [http://www.baggenstos-rudolf.ch](http://www.baggenstos-rudolf.ch)
- - date_published: 2024-06-18T12:07:34+00:00
-
- ## Hicham BAKIR -
-        Accueil
- - [https://bakir.ch](https://bakir.ch)
- - date_published: 2024-05-09T08:19:24.886720+00:00
-
- ## Baloise | Private clients
- - [https://www.baloise.ch](https://www.baloise.ch)
- - date_published: 2024-07-09T11:52:14+00:00
-
- ## BaselOne: Die Software-Entwicklungskonferenz für das Dreiland
- - [https://baselone.ch](https://baselone.ch)
- - date_published: 2024-04-29T06:28:45.276009+00:00
-
- ## Agenda - Basler Zeitung
- - [https://agenda.bazonline.ch](https://agenda.bazonline.ch)
- - date_published: 2024-07-22T17:33:02.804495+00:00
-
- ## Basler Zeitung
- - [https://helpcenter.bazonline.ch](https://helpcenter.bazonline.ch)
- - date_published: 2023-07-23T17:32:53+00:00
-
- ## Basler Zeitung | Aktuelle Nachrichten aus Basel
- - [https://bazonline.ch](https://bazonline.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## BCV - Banque Cantonale Vaudoise
- - [http://www.bcv.ch](http://www.bcv.ch)
- - date_published: 2024-07-03T05:53:31+00:00
-
- ## Agence de développement web & communication, Lausanne — Bee Interactive
- - [https://bee-interactive.ch](https://bee-interactive.ch)
- - date_published: 2024-05-11T10:18:28.712143+00:00
-
- ## Blog – Bee Interactive
- - [https://blog.bee-interactive.ch](https://blog.bee-interactive.ch)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Beni Bischof
- - [http://benibischof.ch](http://benibischof.ch)
- - date_published: 2017-05-04T04:25:59+00:00
-
- ## Benjamin Muzzin
- - [http://www.benjaminmuzzin.ch](http://www.benjaminmuzzin.ch)
- - date_published: 2024-07-13T16:27:55.400208+00:00
-
- ## Schweizer Medium mit Fokus auf Recht und Gerechtigkeit | Beobachter
- - [https://www.beobachter.ch](https://www.beobachter.ch)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Outdoor Shop für Bergsport, Klettern & Trekking | Berg-freunde.ch
- - [https://www.berg-freunde.ch](https://www.berg-freunde.ch)
- - date_published: 2024-07-14T12:11:11.632167+00:00
-
- ## MTU Ninja | Vincent Bernat
- - [https://bernat.ch](https://bernat.ch)
- - date_published: 2024-04-30T05:58:46.919513+00:00
-
- ## MTU Ninja | Vincent Bernat
- - [https://vincent.bernat.ch](https://vincent.bernat.ch)
- - date_published: 2023-10-25T08:43:17.908139+00:00
- - tags: ['personal']
-
- ## Agenda - Berner Oberländer
- - [https://agenda.berneroberlaender.ch](https://agenda.berneroberlaender.ch)
- - date_published: 2024-07-22T17:33:28.566366+00:00
-
- ## Berner Oberländer
- - [https://helpcenter.berneroberlaender.ch](https://helpcenter.berneroberlaender.ch)
- - date_published: 2023-07-23T17:33:15+00:00
-
- ## Berner Oberländer | Nachrichten aus dem Berner Oberland
- - [https://berneroberlaender.ch](https://berneroberlaender.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Agenda - Berner Zeitung
- - [https://agenda.bernerzeitung.ch](https://agenda.bernerzeitung.ch)
- - date_published: 2024-07-22T17:34:08.168878+00:00
-
- ## Berner Zeitung
- - [https://helpcenter.bernerzeitung.ch](https://helpcenter.bernerzeitung.ch)
- - date_published: 2023-07-22T05:38:12+00:00
-
- ## BZ Berner Zeitung | Nachrichten und Fakten aus Bern
- - [https://bernerzeitung.ch](https://bernerzeitung.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Bern University of Applied Sciences
- - [https://www.bfh.ch](https://www.bfh.ch)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Brain & Heart Communication - Social Media Agentur
- - [https://b-h.ch](https://b-h.ch)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Biel International Chess Festival
- - [https://www.bielchessfestival.ch](https://www.bielchessfestival.ch)
- - date_published: 2024-07-19T18:57:25+00:00
-
- ## Biglietteria.ch
- - [https://biglietteria.ch](https://biglietteria.ch)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Einen Moment bitte, die Ausgabe wird geladen...
- - [https://epaper.bilan.ch](https://epaper.bilan.ch)
- - date_published: 2024-07-22T17:33:46.279591+00:00
-
- ## Bilan
- - [https://helpcenter.bilan.ch](https://helpcenter.bilan.ch)
- - date_published: 2023-07-23T17:33:42+00:00
-
- ## Bilan | La référence suisse de l’économie depuis plus de 30 ans
- - [https://bilan.ch](https://bilan.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Blick: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt
- - [https://www.blick.ch](https://www.blick.ch)
- - date_published: 2024-06-25T22:03:28.409073+00:00
-
- ## Gregors Blog
- - [https://www.blog-gregor.ch](https://www.blog-gregor.ch)
- - date_published: 2023-12-27T23:55:45.885819+00:00
- - tags: ['personal']
 

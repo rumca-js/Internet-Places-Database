@@ -1,3 +1,216 @@
+ ## Consumed by Ink
+ - [https://consumedbyink.ca](https://consumedbyink.ca)
+ - date_published: 2024-06-15T10:20:10.347161+00:00
+
+ ## Correo
+ - [https://www.correo.ca](https://www.correo.ca)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Top 5 Top 5 Toronto CosmeticSurgeons for 2020 | CosmeticSurgeons.ca Plumbers and Plumbing Contractors for 2020 | CosmeticSurgeons.ca
+ - [http://www.cosmeticsurgeons.ca](http://www.cosmeticsurgeons.ca)
+ - date_published: 2024-06-29T17:33:37.911067+00:00
+
+ ## Law Practice Management Software | CosmoLex Canada
+ - [https://www.cosmolex.ca](https://www.cosmolex.ca)
+ - date_published: 2019-12-19T01:55:27+00:00
+
+ ## Welcome! - CoSocial Community Cooperative
+ - [https://blog.cosocial.ca](https://blog.cosocial.ca)
+ - date_published: 2023-04-07T21:25:17+00:00
+
+ ## CoSocial
+ - [https://cosocial.ca](https://cosocial.ca)
+ - date_published: 2024-05-06T14:49:26.495813+00:00
+
+ ## Canada's Marketplace for Education | CourseCompare.ca
+ - [https://coursecompare.ca](https://coursecompare.ca)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## CPAC.ca
+ - [https://www.cpac.ca](https://www.cpac.ca)
+ - date_published: 2024-06-27T11:51:46.269941+00:00
+
+ ## CPA Canada
+ - [https://www.cpacanada.ca](https://www.cpacanada.ca)
+ - date_published: 2024-06-16T00:56:48.372499+00:00
+
+ ## Protecting and promoting the health and well-being of children and youth | Canadian Paediatric Society
+ - [https://cps.ca](https://cps.ca)
+ - date_published: 2024-01-26T10:31:49.585956+00:00
+
+ ## Home - CPS
+ - [https://www.cps-ecp.ca](https://www.cps-ecp.ca)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Canadian Public Transit Discussion Board
+ - [https://cptdb.ca](https://cptdb.ca)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## analytics.crea.ca - /
+ - [https://analytics.crea.ca](https://analytics.crea.ca)
+ - date_published: 2024-07-04T02:31:27.058721+00:00
+
+ ## CreativePEI – A catalyst for Prince Edward Island's Creative Industries
+ - [https://creativepei.ca](https://creativepei.ca)
+ - date_published: 2024-05-08T09:06:34.258869+00:00
+
+ ## Credit Karma Customer Community
+ - [https://support.creditkarma.ca](https://support.creditkarma.ca)
+ - date_published: 2023-06-17T06:10:52+00:00
+
+ ## Credit Karma
+ - [https://www.creditkarma.ca](https://www.creditkarma.ca)
+ - date_published: 2024-05-31T20:19:05.638595+00:00
+
+ ## CRG Survey
+ - [https://survey.crg.ca](https://survey.crg.ca)
+ - date_published: 2024-07-07T03:37:41.240503+00:00
+
+ ## criticalhitmontreal.ca
+ - [http://criticalhitmontreal.ca](http://criticalhitmontreal.ca)
+ - date_published: 2023-06-23T17:35:20+00:00
+
+ ## CRRS Publications
+ - [https://pubs.crrs.ca](https://pubs.crrs.ca)
+ - date_published: 2024-06-26T21:36:12.691806+00:00
+
+ ## CryptoChicks – Blockchain, AI, Programming and Emerging Tech Education For Women
+ - [https://cryptochicks.ca](https://cryptochicks.ca)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Cryptoducation  is  L3arn.BTC – Education & Consulting Services about Bitcoin
+ - [https://cryptoducation.ca](https://cryptoducation.ca)
+ - date_published: 2024-06-16T04:17:56.482247+00:00
+
+ ## Canadian Society of Christian Philosophers
+ - [https://cscp-scpc.ca](https://cscp-scpc.ca)
+ - date_published: 2024-06-17T03:01:27.690326+00:00
+
+ ## Canadian Social Knowledge Institute (C-SKI) | Engaging in issues related to open social scholarship
+ - [https://c-ski.ca](https://c-ski.ca)
+ - date_published: 2024-07-11T13:08:15.879586+00:00
+
+ ## cStreet Campaigns
+ - [http://www.cstreet.ca](http://www.cstreet.ca)
+ - date_published: 2024-07-13T17:56:32.403317+00:00
+
+ ## Charles T. Low Photography
+ - [https://photog.ctlow.ca](https://photog.ctlow.ca)
+ - date_published: 2023-11-04T00:00:00+00:00
+
+ ## Charles T. Low - ctLow
+ - [https://ctlow.ca](https://ctlow.ca)
+ - date_published: 2023-08-10T23:38:30+00:00
+
+ ## CTV | Extras
+ - [https://more.ctv.ca](https://more.ctv.ca)
+ - date_published: 2024-05-10T02:41:39.983330+00:00
+
+ ## https://www.ctv.ca
+ - [https://ctv.ca](https://ctv.ca)
+ - date_published: 2023-12-12T08:41:11.546084+00:00
+
+ ## Bell Media Account
+ - [https://account.ctvnews.ca](https://account.ctvnews.ca)
+ - date_published: 2024-05-09T09:25:16.287600+00:00
+
+ ## Atlantic News | Local Breaking | CTV News Atlantic
+ - [https://atlantic.ctvnews.ca](https://atlantic.ctvnews.ca)
+ - date_published: 2023-12-12T08:42:19.488706+00:00
+
+ ## Barrie News | Local Breaking | CTV News Barrie
+ - [https://barrie.ctvnews.ca](https://barrie.ctvnews.ca)
+ - date_published: 2023-12-12T08:40:59.543668+00:00
+
+ ## Vancouver News | Local Breaking | CTV News Vancouver
+ - [https://bc.ctvnews.ca](https://bc.ctvnews.ca)
+ - date_published: 2023-10-25T10:55:57.032920+00:00
+
+ ## Calgary News | Local Breaking | CTV News Calgary
+ - [https://calgary.ctvnews.ca](https://calgary.ctvnews.ca)
+ - date_published: 2023-12-12T09:06:04.685094+00:00
+
+ ## CTV News - Breaking News, Canada News Today
+ - [https://ctvnews.ca](https://ctvnews.ca)
+ - date_published: 2023-12-12T09:06:16.335891+00:00
+ - tags: ['canada news']
+
+ ## Edmonton News | CTV News | Edmonton Weather
+ - [https://edmonton.ctvnews.ca](https://edmonton.ctvnews.ca)
+ - date_published: 2023-12-12T08:42:34.458083+00:00
+
+ ## Kitchener News | Local Breaking | CTV News Kitchener
+ - [https://kitchener.ctvnews.ca](https://kitchener.ctvnews.ca)
+ - date_published: 2023-12-12T09:06:38.784881+00:00
+
+ ## London News | Weather & Local Breaking | CTV News London
+ - [https://london.ctvnews.ca](https://london.ctvnews.ca)
+ - date_published: 2023-10-25T10:52:18.091793+00:00
+
+ ## Montreal News | Local Breaking | CTV News Montreal
+ - [https://montreal.ctvnews.ca](https://montreal.ctvnews.ca)
+ - date_published: 2023-11-09T19:00:28.953347+00:00
+
+ ## Northern Ontario News | Local Breaking | CTV News Northern Ontario
+ - [https://northernontario.ctvnews.ca](https://northernontario.ctvnews.ca)
+ - date_published: 2023-12-12T08:40:48.811443+00:00
+
+ ## Ottawa News | Local Breaking | CTV News Ottawa
+ - [https://ottawa.ctvnews.ca](https://ottawa.ctvnews.ca)
+ - date_published: 2023-10-25T10:56:04.116973+00:00
+
+ ## Regina News | Regina Weather | CTV News Regina
+ - [https://regina.ctvnews.ca](https://regina.ctvnews.ca)
+ - date_published: 2023-12-12T08:42:43.297708+00:00
+
+ ## Saskatoon News | Local Breaking | CTV News Saskatoon
+ - [https://saskatoon.ctvnews.ca](https://saskatoon.ctvnews.ca)
+ - date_published: 2023-12-12T08:41:36.159326+00:00
+
+ ## Requête rejetée / Request Rejected
+ - [http://static.ctvnews.ca](http://static.ctvnews.ca)
+ - date_published: 2024-07-03T11:15:07.523480+00:00
+
+ ## Access Denied
+ - [https://stats.ctvnews.ca](https://stats.ctvnews.ca)
+ - date_published: 2023-12-12T08:41:53.588641+00:00
+
+ ## Toronto News | Breaking News | CTV News Toronto
+ - [https://toronto.ctvnews.ca](https://toronto.ctvnews.ca)
+ - date_published: 2023-10-25T10:56:11.669804+00:00
+
+ ## Victoria News | Local Breaking | CTV News Vancouver Island
+ - [https://vancouverisland.ctvnews.ca](https://vancouverisland.ctvnews.ca)
+ - date_published: 2023-12-12T09:06:50.809150+00:00
+
+ ## Windsor News | Local Breaking | CTV News Windsor
+ - [https://windsor.ctvnews.ca](https://windsor.ctvnews.ca)
+ - date_published: 2023-12-12T09:06:32.505848+00:00
+
+ ## Winnipeg News | CTV News Winnipeg
+ - [https://winnipeg.ctvnews.ca](https://winnipeg.ctvnews.ca)
+ - date_published: 2023-12-12T09:06:26.016061+00:00
+
+ ## curiouscast.ca
+ - [https://curiouscast.ca](https://curiouscast.ca)
+ - date_published: 2024-07-20T02:48:19.212748+00:00
+
+ ## Home - CUSA
+ - [https://cusaonline.ca](https://cusaonline.ca)
+ - date_published: 2023-08-15T15:25:58+00:00
+
+ ## Home - CUTA
+ - [https://cutaactu.ca](https://cutaactu.ca)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Accueil - Cybereco
+ - [http://www.cybereco.ca](http://www.cybereco.ca)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home
+ - [https://cyber-fortress.ca](https://cyber-fortress.ca)
+ - date_published: 2024-06-29T06:03:40.341256+00:00
+
  ## Canadian Cyber Freedom
  - [https://cyberfreedom.ca](https://cyberfreedom.ca)
  - date_published: 2024-06-19T17:01:02+00:00
@@ -3013,10 +3226,6 @@
  - [https://paritybit.ca](https://paritybit.ca)
  - date_published: 2024-07-23T23:27:18.774546+00:00
 
- ## Welcome! - paritybit.ca
- - [https://www.paritybit.ca](https://www.paritybit.ca)
- - date_published: 2024-06-15T09:38:48+00:00
-
  ## Parkland Corporation: We deliver, serve and innovate | Parkland Corporation
  - [https://www.parkland.ca](https://www.parkland.ca)
  - date_published: 2024-06-14T00:00:00+00:00
@@ -3842,217 +4051,4 @@
  ## Sarah Sheehan
  - [http://sarahsheehan.ca](http://sarahsheehan.ca)
  - date_published: 2024-07-10T03:37:09.526004+00:00
-
- ## SaskAlert - Public Index
- - [http://emergencyalert.saskatchewan.ca](http://emergencyalert.saskatchewan.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Saskatchewan News
- - [https://www.sasktoday.ca](https://www.sasktoday.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Insecure vehicles should be banned, not security tools like the Flipper Zero
- - [https://saveflipper.ca](https://saveflipper.ca)
- - date_published: 2024-02-21T11:20:49+00:00
-
- ## Savour Life Inspiration
- - [https://savourelgin.ca](https://savourelgin.ca)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Savour Ottawa
- - [https://savourottawa.ca](https://savourottawa.ca)
- - date_published: 2024-07-11T20:56:46+00:00
-
- ## sbobet แทงบอลออนไลน์ สมัครใหม่รับโบนัส 100%
- - [https://www.sbobet.ca](https://www.sbobet.ca)
- - date_published: 2024-07-03T20:03:58+00:00
-
- ## SCARCS
- - [https://scarcs.ca](https://scarcs.ca)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Entry Door Knobs, Door Locks & Hardware for Doors | Schlage
- - [https://schlage.ca](https://schlage.ca)
- - date_published: 2024-05-09T05:19:15.492632+00:00
-
- ## Book Clubs | Scholastic Canada
- - [https://bookclubs.scholastic.ca](https://bookclubs.scholastic.ca)
- - date_published: 2024-04-30T05:03:33.889310+00:00
-
- ## Login
- - [https://bookfairtoolkit.scholastic.ca](https://bookfairtoolkit.scholastic.ca)
- - date_published: 2024-06-08T13:35:19.607814+00:00
-
- ## Scholastic Canada
- - [https://digital.scholastic.ca](https://digital.scholastic.ca)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Scholastic Canada
- - [http://scholastic.ca](http://scholastic.ca)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Scholastic Canada
- - [https://www2.scholastic.ca](https://www2.scholastic.ca)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Scholastic Canada
- - [https://www.scholastic.ca](https://www.scholastic.ca)
- - date_published: 2024-01-02T00:03:11.274641+00:00
-
- ## Schools in Canada, Canada
- - [http://www.schools.ca](http://www.schools.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Ackee
- - [https://eyes.schroer.ca](https://eyes.schroer.ca)
- - date_published: 2024-04-30T05:03:44.595986+00:00
-
- ## Dominick Schroer's Blog
- - [https://schroer.ca](https://schroer.ca)
- - date_published: 2023-10-25T09:02:45.716038+00:00
- - tags: ['personal']
-
- ## CSPC - Canadian Science Policy Centre
- - [https://sciencepolicy.ca](https://sciencepolicy.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## CSPC – Canadian Science Policy Centre
- - [https://sciencepolicyconference.ca](https://sciencepolicyconference.ca)
- - date_published: 2024-07-13T14:38:28+00:00
-
- ## Today - Science World
- - [https://www.scienceworld.ca](https://www.scienceworld.ca)
- - date_published: 2021-01-28T00:00:00+00:00
-
- ## Scientology - l'Eglise de la Scientology de France, Portail officiel
- - [https://fr.scientology.ca](https://fr.scientology.ca)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Test de personnalité
- - [https://www.oca.fr.scientology.ca](https://www.oca.fr.scientology.ca)
- - date_published: 2024-06-17T16:40:55.634753+00:00
-
- ## Official Church of Scientology: What is Scientology?
- - [https://www.scientology.ca](https://www.scientology.ca)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Home
- - [https://www.scintillation.ca](https://www.scintillation.ca)
- - date_published: 2024-05-24T13:32:50.540423+00:00
- - tags: ['literary convention']
-
- ## ACE/SCISAT - The Atmospheric Chemistry Experiment
- - [https://ace.scisat.ca](https://ace.scisat.ca)
- - date_published: 2024-06-30T02:57:24.199309+00:00
-
- ## databace.scisat.ca
- - [http://databace.scisat.ca](http://databace.scisat.ca)
- - date_published: 2024-06-30T02:57:25.422134+00:00
-
- ## Welcome! - Ancient and Accepted Scottish Rite of Freemasonry of Canada
- - [https://scottishritecanada.ca](https://scottishritecanada.ca)
- - date_published: 2023-02-09T00:00:00+00:00
- - tags: ['freemasonry']
-
- ## Welcome! - Ancient and Accepted Scottish Rite of Freemasonry of Canada
- - [http://www.scottishritecanada.ca](http://www.scottishritecanada.ca)
- - date_published: 2023-02-09T00:00:00+00:00
-
- ## Scott Redmond
- - [https://www.scottredmond.ca](https://www.scottredmond.ca)
- - date_published: 2022-06-20T10:54:19+00:00
- - tags: ['personal']
-
- ## Global Negotiation Consultancy, Global Negotiation Training | Scotwork USA
- - [https://www.scotwork.ca](https://www.scotwork.ca)
- - date_published: 2024-06-18T09:42:52.903402+00:00
-
- ## Scrap Car Removal Toronto | Best Cash For Scrap Cars up to $5,000
- - [https://scrapcartorontoshop.ca](https://scrapcartorontoshop.ca)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## SCUMB
- - [https://scumb.ca](https://scumb.ca)
- - date_published: 2011-05-03T05:46:13+00:00
-
- ## The Second Egress: Building a Code Change
- - [https://secondegress.ca](https://secondegress.ca)
- - date_published: 2023-10-25T12:06:36.332747+00:00
-
- ## Servus Credit Union  - Commercial Net Banking Login
- - [https://securenetbanking.ca](https://securenetbanking.ca)
- - date_published: 2019-04-28T00:00:00+00:00
-
- ## Homepage - Canadian Securities Administrators
- - [https://info.securities-administrators.ca](https://info.securities-administrators.ca)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Homepage - Canadian Securities Administrators
- - [https://www.securities-administrators.ca](https://www.securities-administrators.ca)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## ShieldSquare Captcha
- - [https://sedarplus.ca](https://sedarplus.ca)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home
- - [https://www.seguin.ca](https://www.seguin.ca)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Home - SenCanada.ca
- - [https://sencanada.ca](https://sencanada.ca)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## SEO Agency in Ottawa, Canada | SEO Services | SEO North
- - [https://seonorth.ca](https://seonorth.ca)
- - date_published: 2023-10-25T12:06:42.751440+00:00
- - tags: ['seo', 'company']
-
- ## Servus Credit Union
- - [https://ib.servus.ca](https://ib.servus.ca)
- - date_published: 2024-06-16T07:45:05.347828+00:00
-
- ## Life - Servus Credit Union
- - [https://servus.ca](https://servus.ca)
- - date_published: 2024-06-16T07:45:07.775862+00:00
-
- ## Sexshops in Canada, Canada
- - [http://www.sexshops.ca](http://www.sexshops.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Home - SFU Beedie School of Business
- - [https://beedie.sfu.ca](https://beedie.sfu.ca)
- - date_published: 2024-04-30T05:13:05.722776+00:00
-
- ## Sign In - CAS – Central Authentication Service
- - [https://canvas.sfu.ca](https://canvas.sfu.ca)
- - date_published: 2024-04-30T05:13:09.085968+00:00
-
- ## Sign In - CAS – Central Authentication Service
- - [https://cas.sfu.ca](https://cas.sfu.ca)
- - date_published: 2024-07-21T09:38:14.346852+00:00
-
- ## SFU Future Students
- - [https://community.sfu.ca](https://community.sfu.ca)
- - date_published: 2023-07-22T09:39:23+00:00
-
- ## Error
- - [http://connect.sfu.ca](http://connect.sfu.ca)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## SFU Library Databases
- - [https://databases.lib.sfu.ca](https://databases.lib.sfu.ca)
- - date_published: 2024-06-28T13:12:17+00:00
-
- ## Digital Humanities Innovation Lab: Home | SFU Library
- - [https://dhil.lib.sfu.ca](https://dhil.lib.sfu.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## SFU Digitized Collections
- - [https://digital.lib.sfu.ca](https://digital.lib.sfu.ca)
- - date_published: 2024-05-07T10:25:38.935876+00:00
-
- ## PKP Community Forum
- - [https://forum.pkp.sfu.ca](https://forum.pkp.sfu.ca)
- - date_published: 2024-06-17T19:21:34.125861+00:00
 

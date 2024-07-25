@@ -1,3 +1,19 @@
+ ## Sakana AI
+ - [https://sakana.ai](https://sakana.ai)
+ - date_published: 2024-06-13T06:40:32.283220+00:00
+
+ ## Landing Page Relaunch | SalesMirror.ai
+ - [https://salesmirror.ai](https://salesmirror.ai)
+ - date_published: 2024-01-30T15:19:20+00:00
+
+ ## salespeak.ai - sales AI
+ - [https://app.salespeak.ai](https://app.salespeak.ai)
+ - date_published: 2024-06-21T22:23:58+00:00
+
+ ## SalesStack powering Ghost, The first AI Sales Representative
+ - [https://salesstack.ai](https://salesstack.ai)
+ - date_published: 2024-03-25T00:00:00+00:00
+
  ## SambaNova Systems | Revolutionize AI Workloads
  - [https://sambanova.ai](https://sambanova.ai)
  - date_published: 2024-06-21T16:09:09+00:00
@@ -788,7 +804,7 @@
  - date_published: 2024-06-30T09:42:03.729543+00:00
 
  ## Swan — AI Virtual Fitting Rooms
- - [https://www.swanvision.ai](https://www.swanvision.ai)
+ - [https://swanvision.ai](https://swanvision.ai)
  - date_published: 2024-04-29T07:14:44.767427+00:00
 
  ## Sybill: Your Personal AI Sales Assistant
@@ -798,6 +814,10 @@
  ## Light — LightRAG  documentation
  - [https://lightrag.sylph.ai](https://lightrag.sylph.ai)
  - date_published: 2024-07-15T23:29:11+00:00
+
+ ## Symbl.ai | LLM for Conversation Data
+ - [https://symbl.ai](https://symbl.ai)
+ - date_published: 2024-07-11T00:00:00+00:00
 
  ## Symbolic - Powering Publishing
  - [https://symbolic.ai](https://symbolic.ai)
@@ -2304,6 +2324,10 @@ Creative Solutions
  ## Udhëtim me autobus në Evropë | FlixBus
  - [https://www.flixbus.al](https://www.flixbus.al)
  - date_published: 2024-06-28T10:10:06+00:00
+
+ ## Frax - Explore the Infinite
+ - [http://fract.al](http://fract.al)
+ - date_published: 2024-07-24T05:46:51.320340+00:00
 
  ## Crystal Linux - Official Site
  - [https://getcryst.al](https://getcryst.al)
@@ -4004,28 +4028,4 @@ Creative Solutions
  ## DecisionMentor – Let us be your decision making compass.
  - [https://decisionmentor.app](https://decisionmentor.app)
  - date_published: 2024-06-19T20:39:15.865331+00:00
-
- ## deploybot
- - [https://deploybot.app](https://deploybot.app)
- - date_published: 2024-05-06T09:18:30.757531+00:00
-
- ## DetailsPro: Design with SwiftUI, no coding required.
- - [https://detailspro.app](https://detailspro.app)
- - date_published: 2024-06-23T15:35:31.691381+00:00
-
- ## Detoxify.app
- - [https://detoxify.app](https://detoxify.app)
- - date_published: 2024-07-04T04:23:51.459796+00:00
-
- ## Diagrams: A Native Diagram Editor for Mac
- - [https://diagrams.app](https://diagrams.app)
- - date_published: 2024-05-12T06:23:53.449350+00:00
-
- ## Didthis
- - [https://didthis.app](https://didthis.app)
- - date_published: 2024-05-08T10:31:33.250502+00:00
-
- ## Diffusion Depot · Smart image manager for Stable Diffusion, Midjourney, and DALL-E
- - [https://diffusiondepot.app](https://diffusiondepot.app)
- - date_published: 2024-07-10T11:16:39.983398+00:00
 

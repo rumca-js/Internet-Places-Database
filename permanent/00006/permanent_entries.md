@@ -1,3 +1,127 @@
+ ## The Advertiser - Cessnock Death Notices - Cessnock, NSW | The Advertiser - Cessnock
+ - [https://tributes.cessnockadvertiser.com.au](https://tributes.cessnockadvertiser.com.au)
+ - date_published: 2024-07-09T20:55:49.256377+00:00
+
+ ## Cessnock news, sport and weather | The Advertiser - Cessnock | Cessnock, NSW
+ - [https://cessnockadvertiser.com.au](https://cessnockadvertiser.com.au)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## CFS  - Australian Super & Investment Fund
+ - [https://cfs.com.au](https://cfs.com.au)
+ - date_published: 2024-07-08T09:52:51+00:00
+
+ ## Winery Tours & Tasting Melbourne | Chillout Wine Tours
+ - [https://chilloutwinetours.com.au](https://chilloutwinetours.com.au)
+ - date_published: 2018-09-18T23:25:14+00:00
+
+ ## Christmas & Volling Accountants in Victor Harbor, Australia
+ - [https://christmasvolling.com.au](https://christmasvolling.com.au)
+ - date_published: 2024-02-08T22:51:11.781452+00:00
+
+ ## Chrysler Australia | Luxury Sedan Cars
+ - [https://www.chrysler.com.au](https://www.chrysler.com.au)
+ - date_published: 2024-06-19T08:56:06.860551+00:00
+
+ ## Citibank Online
+ - [https://www1.citibank.com.au](https://www1.citibank.com.au)
+ - date_published: 2024-06-16T14:50:40.654765+00:00
+
+ ## Credit Card Offers & Loan Options | Citi Australia
+ - [https://www.citibank.com.au](https://www.citibank.com.au)
+ - date_published: 2024-05-01T06:15:12.268153+00:00
+
+ ## Citizen | Innovative, World-Class Watch Brand For Australia Online
+ - [https://citizenwatches.com.au](https://citizenwatches.com.au)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## CITROËN - Build & Reserve Select Vehicle
+ - [https://configurator.citroen.com.au](https://configurator.citroen.com.au)
+ - date_published: 2024-07-04T07:36:15.010241+00:00
+
+ ## Manufacturer Service Plan - Citroen
+ - [https://onlineservicebooking.citroen.com.au](https://onlineservicebooking.citroen.com.au)
+ - date_published: 2024-07-04T07:36:06.512157+00:00
+
+ ## Modern French Cars - Compact SUVs & Hatchbacks | Citroën Australia
+ - [https://citroen.com.au](https://citroen.com.au)
+ - date_published: 2024-05-08T05:30:22.450956+00:00
+
+ ## Citroën Accessories |  Accessories
+ - [https://citroenaccessories.com.au](https://citroenaccessories.com.au)
+ - date_published: 2024-07-04T07:36:08.493578+00:00
+
+ ## Citroën Origins
+ - [https://citroenorigins.com.au](https://citroenorigins.com.au)
+ - date_published: 2018-04-18T13:00:13+00:00
+
+ ## Clearly Official Store Australia
+ - [https://www.clearly.com.au](https://www.clearly.com.au)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Click Click Bang Bang - Full Service PPC Marketing Agency
+ - [https://clickclickbangbang.com.au](https://clickclickbangbang.com.au)
+ - date_published: 2024-03-18T01:39:21+00:00
+
+ ## Home - Climate Modelling Laboratory
+ - [https://climatelab.com.au](https://climatelab.com.au)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Climbing Anchors - Rock Climbing Gear for Your Next Adventure
+ - [https://www.climbinganchors.com.au](https://www.climbinganchors.com.au)
+ - date_published: 2024-07-14T07:45:00.429359+00:00
+
+ ## Cluey Learning | Personalised Tutoring For School Students
+ - [https://clueylearning.com.au](https://clueylearning.com.au)
+ - date_published: 2024-07-07T03:48:09.181042+00:00
+
+ ## CNET: Product reviews, advice, how-tos and the latest news
+ - [http://www.cnet.com.au](http://www.cnet.com.au)
+ - date_published: 2024-06-18T09:26:57+00:00
+
+ ## Code Camp | Australia's favourite holiday & after-school fun!
+ - [https://codecamp.com.au](https://codecamp.com.au)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Find your nearest Code Camp
+ - [http://my.codecamp.com.au](http://my.codecamp.com.au)
+ - date_published: 2024-07-07T03:48:05.731356+00:00
+
+ ## Code Camp Knowledge Base
+ - [https://support.codecamp.com.au](https://support.codecamp.com.au)
+ - date_published: 2024-07-07T03:48:03.248599+00:00
+
+ ## codesource - DBA service & Bespoke Development
+ - [https://codesource.com.au](https://codesource.com.au)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Australian Crypto & Bitcoin Exchange, Crypto Trading | CoinSpot
+ - [https://www.coinspot.com.au](https://www.coinspot.com.au)
+ - date_published: 2024-05-01T06:30:15.968489+00:00
+
+ ## etbe - Russell Coker
+ - [https://etbe.coker.com.au](https://etbe.coker.com.au)
+ - date_published: 2024-07-09T08:05:19.685180+00:00
+
+ ## Coles Group | A trusted retailer, delivering quality value and service
+ - [https://www.colesgroup.com.au](https://www.colesgroup.com.au)
+ - date_published: 2024-06-29T02:28:02.816229+00:00
+
+ ## Home - Collins Booksellers
+ - [http://www.collinsbooks.com.au](http://www.collinsbooks.com.au)
+ - date_published: 2024-06-18T12:55:18.526751+00:00
+
+ ## Comma Consulting, eCommerce/Digital specialists, NZ/Australia -  Comma Consulting
+ - [https://www.commaconsulting.com.au](https://www.commaconsulting.com.au)
+ - date_published: 2024-07-03T18:50:38.453915+00:00
+
+ ## CommBank - bank accounts, credit cards, home loans and insurance
+ - [https://www.commbank.com.au](https://www.commbank.com.au)
+ - date_published: 2024-05-01T07:11:13.195397+00:00
+
+ ## NetBank - Log on to NetBank - Enjoy simple and secure online banking from Commonwealth Bank
+ - [https://www.my.commbank.com.au](https://www.my.commbank.com.au)
+ - date_published: 2024-06-16T15:48:59.276750+00:00
+
  ## Log on to CommBiz
  - [https://www.my.commbiz.commbank.com.au](https://www.my.commbiz.commbank.com.au)
  - date_published: 2024-05-23T09:46:38+00:00
@@ -1291,6 +1415,10 @@
  - date_published: 2023-11-29T16:19:21.952996+00:00
  - tags: ['personal']
 
+ ## Library Management System by Libero
+ - [https://libero.com.au](https://libero.com.au)
+ - date_published: 2024-07-11T00:00:00+00:00
+
  ## Loans for Free Thinkers | Find a Home, Car or Business Loan | Liberty
  - [https://www.liberty.com.au](https://www.liberty.com.au)
  - date_published: 2024-06-14T01:12:01+00:00
@@ -1471,6 +1599,10 @@
  ## MaxCap Group
  - [https://maxcapgroup.com.au](https://maxcapgroup.com.au)
  - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Max Design
+ - [http://www.maxdesign.com.au](http://www.maxdesign.com.au)
+ - date_published: 2022-11-27T00:00:00+00:00
 
  ## MAX - Employment, Health and Learning
  - [https://www.maxsolutions.com.au](https://www.maxsolutions.com.au)
@@ -2035,10 +2167,6 @@
  ## PHORIA | XR—STUDIO
  - [https://phoria.com.au](https://phoria.com.au)
  - date_published: 2024-07-23T21:45:09.501333+00:00
-
- ## PHORIA | XR—STUDIO
- - [https://www.phoria.com.au](https://www.phoria.com.au)
- - date_published: 2024-07-23T21:45:08.288898+00:00
 
  ## Home - Photo Review
  - [https://photoreview.com.au](https://photoreview.com.au)
@@ -3544,7 +3672,7 @@
  - date_published: 2024-07-22T09:08:21.819992+00:00
 
  ## Griffith University | ICT Staff Web Server (Hobbit)
- - [http://www.ict.griffith.edu.au](http://www.ict.griffith.edu.au)
+ - [https://www.ict.griffith.edu.au](https://www.ict.griffith.edu.au)
  - date_published: 2024-04-29T06:00:46.510609+00:00
 
  ## Index for / - James Cook University High Performance Computing
@@ -3588,7 +3716,7 @@
  - date_published: 2024-03-10T00:00:00+00:00
 
  ## User Web Pages
- - [http://users.monash.edu.au](http://users.monash.edu.au)
+ - [https://users.monash.edu.au](https://users.monash.edu.au)
  - date_published: 2024-04-29T06:29:16.110633+00:00
 
  ## Electrical and Computer Systems Engineering
@@ -3881,132 +4009,4 @@
  ## UniSA Online - Study 100% Online Degrees - University of South Australia
  - [https://online.unisa.edu.au](https://online.unisa.edu.au)
  - date_published: 2024-05-09T02:36:54.543747+00:00
-
- ## Pay UniSA
- - [https://pay.unisa.edu.au](https://pay.unisa.edu.au)
- - date_published: 2024-05-09T02:36:36.739092+00:00
-
- ## Study at UniSA
- - [https://study.unisa.edu.au](https://study.unisa.edu.au)
- - date_published: 2024-05-09T02:35:39.117224+00:00
-
- ## Home
- - [https://unisa.edu.au](https://unisa.edu.au)
- - date_published: 2024-05-09T02:35:49.835265+00:00
-
- ## Library
- - [https://library.unisa.edu.au](https://library.unisa.edu.au)
- - date_published: 2024-05-09T02:36:57.427248+00:00
-
- ## UniSA Sport - UniSA Sport Homepage
- - [https://unisasport.edu.au](https://unisasport.edu.au)
- - date_published: 2024-07-08T19:54:55.152711+00:00
-
- ## Home – Universities Australia
- - [https://www.universitiesaustralia.edu.au](https://www.universitiesaustralia.edu.au)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## mobile
- - [https://agenthub.unsw.edu.au](https://agenthub.unsw.edu.au)
- - date_published: 2024-05-11T07:37:22.222429+00:00
-
- ## Sign in to your account
- - [https://aims.unsw.edu.au](https://aims.unsw.edu.au)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Alumni & Giving - UNSW
- - [https://alumni.unsw.edu.au](https://alumni.unsw.edu.au)
- - date_published: 2024-05-11T07:37:15.969173+00:00
-
- ## Welcome to UNSW
- - [https://applyonline.unsw.edu.au](https://applyonline.unsw.edu.au)
- - date_published: 2024-07-13T14:01:06.395453+00:00
-
- ## CSE CGI Server
- - [https://cgi.cse.unsw.edu.au](https://cgi.cse.unsw.edu.au)
- - date_published: 2024-04-03T03:06:22+00:00
-
- ## Sign in to your account
- - [http://extend.unsw.edu.au](http://extend.unsw.edu.au)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Jobs - Recent Jobs
- - [https://external-careers.jobs.unsw.edu.au](https://external-careers.jobs.unsw.edu.au)
- - date_published: 2024-07-13T14:03:59.230606+00:00
-
- ## Grand Challenges | UNSW Sydney
- - [https://grandchallenges.unsw.edu.au](https://grandchallenges.unsw.edu.au)
- - date_published: 2024-07-13T11:48:54+00:00
-
- ## UNSW Identity Manager
- - [https://iam.unsw.edu.au](https://iam.unsw.edu.au)
- - date_published: 2024-07-13T14:03:14.967661+00:00
-
- ## UNSW Identity Manager
- - [https://idm.unsw.edu.au](https://idm.unsw.edu.au)
- - date_published: 2024-07-13T14:01:46.339608+00:00
-
- ## School of Mechanical and Manufacturing Engineering | Engineering - UNSW Sydney
- - [http://ilm.mech.unsw.edu.au](http://ilm.mech.unsw.edu.au)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Jobs - Recent Jobs
- - [https://internal-careers.jobs.unsw.edu.au](https://internal-careers.jobs.unsw.edu.au)
- - date_published: 2024-07-13T14:03:55.228739+00:00
-
- ## School of Biomedical Sciences | Medicine & Health - UNSW Sydney
- - [http://medicalsciences.med.unsw.edu.au](http://medicalsciences.med.unsw.edu.au)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Log in to the site | UNSW
- - [https://moodle.telt.unsw.edu.au](https://moodle.telt.unsw.edu.au)
- - date_published: 2024-07-13T04:41:24.223619+00:00
-
- ## myUNSW
- - [https://my.unsw.edu.au](https://my.unsw.edu.au)
- - date_published: 2024-05-11T07:37:36.974968+00:00
-
- ## UNSW Newsroom
- - [https://newsroom.unsw.edu.au](https://newsroom.unsw.edu.au)
- - date_published: 2023-10-31T05:38:26.362329+00:00
-
- ## Newsroom
- - [https://news.unsw.edu.au](https://news.unsw.edu.au)
- - date_published: 2024-07-15T08:44:54.145437+00:00
-
- ## School of Physics
- - [https://newt.phys.unsw.edu.au](https://newt.phys.unsw.edu.au)
- - date_published: 2023-10-25T11:57:14.823273+00:00
-
- ## Home
- - [https://portal.insight.unsw.edu.au](https://portal.insight.unsw.edu.au)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## UNSW Research | UNSW Research
- - [https://research.unsw.edu.au](https://research.unsw.edu.au)
- - date_published: 2024-05-11T07:37:19.861796+00:00
-
- ## Safety | Transformation, Planning & Assurance - UNSW Sydney
- - [https://safesys.unsw.edu.au](https://safesys.unsw.edu.au)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## HTML Meta Tag
- - [https://scholarships.online.unsw.edu.au](https://scholarships.online.unsw.edu.au)
- - date_published: 2022-02-17T02:25:11+00:00
-
- ## UNSW Medicine & Health Short Courses
- - [https://shortcourses.health.unsw.edu.au](https://shortcourses.health.unsw.edu.au)
- - date_published: 2024-05-11T07:37:51.505690+00:00
-
- ## 2025 Strategy ‹ Log In
- - [https://staff.2025.unsw.edu.au](https://staff.2025.unsw.edu.au)
- - date_published: 2024-07-13T13:54:59.712584+00:00
-
- ## Home
- - [https://student.unsw.edu.au](https://student.unsw.edu.au)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## 100% Online Postgraduate Programs | UNSW
- - [https://studyonline.unsw.edu.au](https://studyonline.unsw.edu.au)
- - date_published: 2024-07-13T10:05:52+00:00
 

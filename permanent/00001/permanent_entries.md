@@ -1,3 +1,15 @@
+ ## Fiddler AI – AI Observability, ML Model Monitoring, LLM Monitoring, and Explainable AI
+ - [https://www.fiddler.ai](https://www.fiddler.ai)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Film Recommendation Using GenAI
+ - [http://filmfinder.ai](http://filmfinder.ai)
+ - date_published: 2024-06-19T21:11:29.731323+00:00
+
+ ## Fintech Ready News API
+ - [https://finalle.ai](https://finalle.ai)
+ - date_published: 2024-06-19T19:38:50.158458+00:00
+
  ## Finito
  - [https://www.finito.ai](https://www.finito.ai)
  - date_published: 2024-06-19T19:26:10.844524+00:00
@@ -3340,6 +3352,10 @@
  - date_published: 2024-05-16T00:00:00+00:00
 
  ## AI Profile Picture Generator and Maker | PFP.AI
+ - [https://profilepicture.ai](https://profilepicture.ai)
+ - date_published: 2024-07-24T02:30:50.604521+00:00
+
+ ## AI Profile Picture Generator and Maker | PFP.AI
  - [https://www.profilepicture.ai](https://www.profilepicture.ai)
  - date_published: 2024-06-19T19:10:58.721219+00:00
 
@@ -4009,20 +4025,4 @@
  ## Center for AI Safety (CAIS)
  - [https://safe.ai](https://safe.ai)
  - date_published: 2024-06-25T00:00:00+00:00
-
- ## Sakana AI
- - [https://sakana.ai](https://sakana.ai)
- - date_published: 2024-06-13T06:40:32.283220+00:00
-
- ## Landing Page Relaunch | SalesMirror.ai
- - [https://salesmirror.ai](https://salesmirror.ai)
- - date_published: 2024-01-30T15:19:20+00:00
-
- ## salespeak.ai - sales AI
- - [https://app.salespeak.ai](https://app.salespeak.ai)
- - date_published: 2024-06-21T22:23:58+00:00
-
- ## SalesStack powering Ghost, The first AI Sales Representative
- - [https://salesstack.ai](https://salesstack.ai)
- - date_published: 2024-03-25T00:00:00+00:00
 
