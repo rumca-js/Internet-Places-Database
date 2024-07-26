@@ -1,3 +1,68 @@
+ ## Home
+ - [https://advisement.byu.edu](https://advisement.byu.edu)
+ - date_published: 2024-07-17T03:08:21.044507+00:00
+
+ ## Aims Home
+ - [https://aims.byu.edu](https://aims.byu.edu)
+ - date_published: 2024-04-30T03:32:15.141700+00:00
+
+ ## BYU | Email Alias Manager
+ - [https://alias.byu.edu](https://alias.byu.edu)
+ - date_published: 2024-07-17T03:06:09.138839+00:00
+
+ ## Home page
+ - [https://alumni.byu.edu](https://alumni.byu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Apply Now!
+ - [http://apply.byu.edu](http://apply.byu.edu)
+ - date_published: 2024-07-17T03:13:54.423834+00:00
+
+ ## Events & Tickets - BYU Arts
+ - [http://arts.byu.edu](http://arts.byu.edu)
+ - date_published: 2024-07-17T03:07:10.352435+00:00
+
+ ## ASO Homepage
+ - [https://aso.byu.edu](https://aso.byu.edu)
+ - date_published: 2024-07-17T03:20:26.844915+00:00
+
+ ## BYU Belonging Homepage
+ - [https://belonging.byu.edu](https://belonging.byu.edu)
+ - date_published: 2024-05-12T07:42:47.995708+00:00
+
+ ## Be Safe
+ - [https://besafe.byu.edu](https://besafe.byu.edu)
+ - date_published: 2024-07-17T03:05:47.019601+00:00
+
+ ## Box
+ - [https://box.byu.edu](https://box.byu.edu)
+ - date_published: 2024-07-17T03:06:19.588590+00:00
+
+ ## Home - Brand
+ - [https://brand.byu.edu](https://brand.byu.edu)
+ - date_published: 2024-07-17T03:12:17.590315+00:00
+
+ ## Login | CMS | Brigham Young University
+ - [https://brightspot.byu.edu](https://brightspot.byu.edu)
+ - date_published: 2024-04-30T03:32:11.176777+00:00
+
+ ## Home - BYU
+ - [https://byu.edu](https://byu.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+ - tags: ['brigham young university']
+
+ ## BYU Journeys
+ - [https://byujourneys.byu.edu](https://byujourneys.byu.edu)
+ - date_published: 2024-07-16T22:49:38.438696+00:00
+
+ ## About BYUSA
+ - [https://byusa.byu.edu](https://byusa.byu.edu)
+ - date_published: 2024-07-17T03:07:17.904048+00:00
+
+ ## BYU Studies
+ - [https://byustudies.byu.edu](https://byustudies.byu.edu)
+ - date_published: 2024-07-09T19:24:38+00:00
+
  ## BYU Events Calendar
  - [https://calendar.byu.edu](https://calendar.byu.edu)
  - date_published: 2024-05-14T00:00:00+00:00
@@ -3952,68 +4017,4 @@ Mellon University
  ## English Language Support Office | ELSO
  - [https://elso.as.cornell.edu](https://elso.as.cornell.edu)
  - date_published: 2024-07-22T03:56:04+00:00
-
- ## Emergency Management
- - [https://emergency.cornell.edu](https://emergency.cornell.edu)
- - date_published: 2024-07-22T05:23:35.128677+00:00
-
- ## Emergency Information | Weill Cornell Medicine
- - [https://emergency.weill.cornell.edu](https://emergency.weill.cornell.edu)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## EMIS
- - [http://emis.library.cornell.edu](http://emis.library.cornell.edu)
- - date_published: 2023-08-22T15:28:54+00:00
-
- ## Engineering Library
- - [http://engineering.library.cornell.edu](http://engineering.library.cornell.edu)
- - date_published: 2024-07-22T05:27:08.069413+00:00
-
- ## Welcome to Literatures in English | Literatures in English
- - [https://english.cornell.edu](https://english.cornell.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Epigenomics Core @ WCMC
- - [http://epicore.med.cornell.edu](http://epicore.med.cornell.edu)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## E-Journal Titles
- - [http://erms.library.cornell.edu](http://erms.library.cornell.edu)
- - date_published: 2024-07-22T05:27:03.398234+00:00
-
- ## Entrepreneurship at Cornell - Entrepreneurship at Cornell
- - [https://eship.cornell.edu](https://eship.cornell.edu)
- - date_published: 2021-08-04T00:00:00+00:00
-
- ## Events Calendar - Cornell
- - [https://events.cornell.edu](https://events.cornell.edu)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Events Calendar
- - [https://events.weill.cornell.edu](https://events.weill.cornell.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Online exhibitions across Cornell University Library
- - [https://exhibits.library.cornell.edu](https://exhibits.library.cornell.edu)
- - date_published: 2024-07-22T05:26:39.336965+00:00
-
- ## Office of Faculty Development & Diversity (OFDD)
- - [https://facultydevelopment.cornell.edu](https://facultydevelopment.cornell.edu)
- - date_published: 2024-07-22T05:05:11+00:00
-
- ## Home | Office of Faculty
- - [https://faculty.weill.cornell.edu](https://faculty.weill.cornell.edu)
- - date_published: 2024-07-22T04:37:20+00:00
-
- ## The Fantastic in Art and Fiction
- - [http://fantastic.library.cornell.edu](http://fantastic.library.cornell.edu)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Home Page | Facilities and Campus Services
- - [https://fcs.cornell.edu](https://fcs.cornell.edu)
- - date_published: 2024-07-22T05:16:59.949147+00:00
-
- ## Mui Ho Fine Arts Library
- - [http://finearts.library.cornell.edu](http://finearts.library.cornell.edu)
- - date_published: 2024-07-22T05:27:10.360261+00:00
 

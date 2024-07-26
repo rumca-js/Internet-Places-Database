@@ -1,3 +1,35 @@
+ ## Finn's Wake
+ - [http://marktheaginghipster.blogspot.com](http://marktheaginghipster.blogspot.com)
+ - date_published: 2022-03-01T00:00:00+00:00
+
+ ## Mark Wadsworth
+ - [http://markwadsworth.blogspot.com](http://markwadsworth.blogspot.com)
+ - date_published: 2024-06-15T05:59:44+00:00
+
+ ## Marlon James
+ - [http://marlon-james.blogspot.com](http://marlon-james.blogspot.com)
+ - date_published: 2024-03-23T18:10:06+00:00
+
+ ## Marsekay's Painting blog.
+ - [http://marsekayspainting.blogspot.com](http://marsekayspainting.blogspot.com)
+ - date_published: 2024-03-29T03:29:43+00:00
+
+ ## Mars-Miniatures
+ - [https://mars-miniatures.blogspot.com](https://mars-miniatures.blogspot.com)
+ - date_published: 2024-07-11T22:59:07+00:00
+
+ ## Apprentice Of Old School
+ - [http://marsoll.blogspot.com](http://marsoll.blogspot.com)
+ - date_published: 2024-03-14T10:11:45+00:00
+
+ ## Warlords of Mars
+ - [http://martianwarlords.blogspot.com](http://martianwarlords.blogspot.com)
+ - date_published: 2024-03-13T19:18:35+00:00
+
+ ## Martin Kemp's This and That
+ - [http://martinkempsthisandthat.blogspot.com](http://martinkempsthisandthat.blogspot.com)
+ - date_published: 2024-05-27T06:01:41+00:00
+
  ## Martin Lippert
  - [http://martinlippert.blogspot.com](http://martinlippert.blogspot.com)
  - date_published: 2024-03-13T11:11:29+00:00
@@ -3989,36 +4021,4 @@
  ## Blogger
  - [http://politicsandplace.blogspot.com](http://politicsandplace.blogspot.com)
  - date_published: 2024-06-28T14:20:38.886349+00:00
-
- ## Polliwog's poliblog
- - [http://polliwogspoliblog.blogspot.com](http://polliwogspoliblog.blogspot.com)
- - date_published: 2024-03-14T06:58:59+00:00
-
- ## Polyglot Vegetarian
- - [https://polyglotveg.blogspot.com](https://polyglotveg.blogspot.com)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## polyhedron dream
- - [https://polyhedrondream.blogspot.com](https://polyhedrondream.blogspot.com)
- - date_published: 2024-04-30T07:46:32.437511+00:00
-
- ## Standing By
- - [http://polykahr-standingby.blogspot.com](http://polykahr-standingby.blogspot.com)
- - date_published: 2024-07-03T06:02:00+00:00
-
- ## * Enigmatic Mermaid *
- - [http://pombostrans.blogspot.com](http://pombostrans.blogspot.com)
- - date_published: 2024-04-27T11:27:21+00:00
-
- ## Pommygranate
- - [https://pommygranate.blogspot.com](https://pommygranate.blogspot.com)
- - date_published: 2024-03-23T18:28:22+00:00
-
- ## Cave of the Curmudgeon
- - [http://ponderingdilettante.blogspot.com](http://ponderingdilettante.blogspot.com)
- - date_published: 2024-03-13T06:57:53+00:00
-
- ## Glendinning @ PondMaths
- - [http://pondmaths.blogspot.com](http://pondmaths.blogspot.com)
- - date_published: 2024-07-05T08:39:01+00:00
 

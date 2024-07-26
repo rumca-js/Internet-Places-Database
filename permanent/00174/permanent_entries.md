@@ -1,3 +1,107 @@
+ ## Gründungsbüro 2020 – gründen
+ - [http://www.gruenden.uni-freiburg.de](http://www.gruenden.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:54.517663+00:00
+
+ ## Willkommen zum Hochschulsport Freiburg — Allgemeiner Hochschulsport
+ - [https://www.hochschulsport.uni-freiburg.de](https://www.hochschulsport.uni-freiburg.de)
+ - date_published: 2024-07-24T06:16:23.253178+00:00
+
+ ## Hermann Paul Centrum für Linguistik | Das Hermann-Paul-Centrum für Linguistik
+ - [http://www.hpcl.uni-freiburg.de](http://www.hpcl.uni-freiburg.de)
+ - date_published: 2024-07-24T06:18:39.461961+00:00
+
+ ## Herzlich Willkommen am Institut für Archäologische Wissenschaften — Institut für Archäologische Wissenschaften
+ - [https://www.iaw.uni-freiburg.de](https://www.iaw.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:31.558018+00:00
+
+ ## Startseite — Institut für Ethik und Geschichte der Medizin
+ - [https://www.igm.uni-freiburg.de](https://www.igm.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:09.980465+00:00
+
+ ## Institut für Medizinische Biometrie und Statistik | Universitätsklinikum Freiburg
+ - [https://www.imbi.uni-freiburg.de](https://www.imbi.uni-freiburg.de)
+ - date_published: 2024-07-24T06:18:38.607233+00:00
+
+ ## Willkommen am IMTEK — Institut für Mikrosystemtechnik - IMTEK
+ - [https://www.imtek.uni-freiburg.de](https://www.imtek.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:18.750978+00:00
+
+ ## Welcome to Department of Computer Science — Institut für Informatik
+ - [https://www.informatik.uni-freiburg.de](https://www.informatik.uni-freiburg.de)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Unser Fortbildungsangebot — Interne Fort- und Weiterbildung
+ - [https://www.iwb.uni-freiburg.de](https://www.iwb.uni-freiburg.de)
+ - date_published: 2024-07-24T06:16:26.569985+00:00
+
+ ## Welcome! — Institute of Cultural Analysis / European Ethnology
+ - [https://www.kaee.uni-freiburg.de](https://www.kaee.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:15.416097+00:00
+
+ ## Herzlich willkommen am Kunstgeschichtlichen Institut — Kunstgeschichte
+ - [https://www.kunstgeschichte.uni-freiburg.de](https://www.kunstgeschichte.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:00.344899+00:00
+
+ ## Informationsportal Lehre – Albert-Ludwigs-Universität Freiburg
+ - [https://www.lehre.uni-freiburg.de](https://www.lehre.uni-freiburg.de)
+ - date_published: 2024-07-24T06:21:02.987192+00:00
+
+ ## livMatS | Home
+ - [https://www.livmats.uni-freiburg.de](https://www.livmats.uni-freiburg.de)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Willkommen an der Fakultät für Mathematik und Physik!
+ - [https://www.mathphys.uni-freiburg.de](https://www.mathphys.uni-freiburg.de)
+ - date_published: 2024-07-24T06:16:41.482554+00:00
+
+ ## Mathematisches Institut
+ - [https://www.math.uni-freiburg.de](https://www.math.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:19.757527+00:00
+
+ ## Mittelalterzentrum – Albert-Ludwigs-Universität Freiburg
+ - [https://www.mittelalterzentrum.uni-freiburg.de](https://www.mittelalterzentrum.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:29.977495+00:00
+
+ ## Molecular Medicine a. Cell Research, Director: Prof. Dr. C. Peters — Institut für Molekulare Medizin und Zellforschung
+ - [https://www.mol-med.uni-freiburg.de](https://www.mol-med.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:06.636109+00:00
+
+ ## Willkommen — Institut für Medizinische Psychologie und Medizinische Soziologie
+ - [https://www.mps.uni-freiburg.de](https://www.mps.uni-freiburg.de)
+ - date_published: 2024-07-24T06:16:33.773068+00:00
+
+ ## Musikwissenschaftliches Seminar – Albert-Ludwigs-Universität Freiburg
+ - [https://www.muwi.uni-freiburg.de](https://www.muwi.uni-freiburg.de)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## NFZ - Nietzsche-Forschungszentrum — NFZ - Nietzsche-Forschungszentrum
+ - [https://www.nfz.uni-freiburg.de](https://www.nfz.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:10.902385+00:00
+
+ ## Willkommen am Orientalischen Seminar — Orientalisches Seminar
+ - [https://www.orient.uni-freiburg.de](https://www.orient.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:26.135910+00:00
+
+ ## OSA2 der UniversitÃ¤t Freiburg
+ - [https://www.osa.uni-freiburg.de](https://www.osa.uni-freiburg.de)
+ - date_published: 2024-07-24T06:18:33.426180+00:00
+
+ ## Herzlich willkommen an der Philologischen Fakultät — Philologische Fakultät
+ - [https://www.philolfak.uni-freiburg.de](https://www.philolfak.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:44.085828+00:00
+
+ ## Herzlich willkommen — Philosophische Fakultät
+ - [https://www.philosfak.uni-freiburg.de](https://www.philosfak.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:40.856024+00:00
+
+ ## Welcome to the Institute of Physics — Physikalisches Institut
+ - [https://www.physik.uni-freiburg.de](https://www.physik.uni-freiburg.de)
+ - date_published: 2024-07-24T06:15:55.706082+00:00
+
+ ## Physiology — Institute of Physiology — University of Freiburg, Germany
+ - [https://www.physiologie.uni-freiburg.de](https://www.physiologie.uni-freiburg.de)
+ - date_published: 2024-04-08T00:00:00+00:00
+
  ## Department of Political Science — Seminar für Wissenschaftliche Politik
  - [http://www.politik.uni-freiburg.de](http://www.politik.uni-freiburg.de)
  - date_published: 2024-07-24T06:20:06.305174+00:00
@@ -646,10 +750,6 @@
  - [https://www.gateway.uni-koeln.de](https://www.gateway.uni-koeln.de)
  - date_published: 2024-07-24T07:47:14.241767+00:00
 
- ## Humanwissenschaftliche Fakultät :: Universität zu Köln
- - [https://www.hf.uni-koeln.de](https://www.hf.uni-koeln.de)
- - date_published: 2024-07-08T16:40:41.512711+00:00
-
  ## ILIAS Uni Köln: Magazin
  - [https://www.ilias.uni-koeln.de](https://www.ilias.uni-koeln.de)
  - date_published: 2024-06-25T00:00:00+00:00
@@ -741,10 +841,6 @@
  ## Fachbereich Psychologie
  - [https://www.psychologie.uni-konstanz.de](https://www.psychologie.uni-konstanz.de)
  - date_published: 2024-07-24T03:44:17.194913+00:00
-
- ## Universität Konstanz
- - [https://www.uni-konstanz.de](https://www.uni-konstanz.de)
- - date_published: 2024-04-29T07:00:53.502004+00:00
 
  ## Fachbereich Wirtschaftswissenschaften
  - [https://www.wiwi.uni-konstanz.de](https://www.wiwi.uni-konstanz.de)
@@ -1006,10 +1102,6 @@
  - [https://www.pl.informatik.uni-mainz.de](https://www.pl.informatik.uni-mainz.de)
  - date_published: 2024-06-20T05:53:46.979243+00:00
 
- ## Johannes Gutenberg-Universität Mainz
- - [https://www.uni-mainz.de](https://www.uni-mainz.de)
- - date_published: 2024-04-28T03:26:02.340584+00:00
-
  ## Universität Mannheim
  - [https://www.uni-mannheim.de](https://www.uni-mannheim.de)
  - date_published: 2024-06-24T10:14:49.535375+00:00
@@ -1105,10 +1197,6 @@
  ## ULB – Startseite
  - [https://ulb.uni-muenster.de](https://ulb.uni-muenster.de)
  - date_published: 2024-04-29T07:01:08.952625+00:00
-
- ## Universität Münster
- - [https://www.uni-muenster.de](https://www.uni-muenster.de)
- - date_published: 2023-10-25T18:33:14.981774+00:00
 
  ## VIVO
  - [https://fis.uni-osnabrueck.de](https://fis.uni-osnabrueck.de)
@@ -1289,10 +1377,6 @@
  ## Cluster of Excellence | Multimodal Computing and Interaction
  - [http://people.mmci.uni-saarland.de](http://people.mmci.uni-saarland.de)
  - date_published: 2014-04-02T00:00:00+00:00
-
- ## Studium - Saarland Informatics Campus
- - [https://www.cs.uni-saarland.de](https://www.cs.uni-saarland.de)
- - date_published: 2024-04-03T00:00:00+00:00
 
  ## Willkommen am Saarland Informatics Campus in Saarbrücken
  - [http://www.intel-vci.uni-saarland.de](http://www.intel-vci.uni-saarland.de)
@@ -1663,10 +1747,6 @@ Architektur und Stadtplanung | Universität Stuttgart
  - [https://biologie.uni-wuerzburg.de](https://biologie.uni-wuerzburg.de)
  - date_published: 2024-04-29T07:02:07.815336+00:00
 
- ## Biozentrum - Biozentrum der Universität Würzburg
- - [https://www.biozentrum.uni-wuerzburg.de](https://www.biozentrum.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:32:44.788399+00:00
-
  ## CAIDAS - Center for Artificial Intelligence and Data Science
  - [https://caidas.uni-wuerzburg.de](https://caidas.uni-wuerzburg.de)
  - date_published: 2024-04-29T07:01:48.911379+00:00
@@ -1778,10 +1858,6 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## Katholisch-Theologische Fakultät - Katholisch-Theologische Fakultät
  - [https://theologie.uni-wuerzburg.de](https://theologie.uni-wuerzburg.de)
  - date_published: 2024-04-29T07:01:29.815347+00:00
-
- ## Universität Würzburg - Universität Würzburg
- - [https://www.uni-wuerzburg.de](https://www.uni-wuerzburg.de)
- - date_published: 2024-01-04T12:24:07.412643+00:00
 
  ## Wirtschaftswissenschaftl. Fakultät
  - [https://wiwi.uni-wuerzburg.de](https://wiwi.uni-wuerzburg.de)
@@ -2135,10 +2211,6 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## uxHH - User Experience in Hamburg
  - [https://uxhh.de](https://uxhh.de)
  - date_published: 2024-04-29T06:31:29.257523+00:00
-
- ## uxHH - User Experience in Hamburg
- - [https://www.uxhh.de](https://www.uxhh.de)
- - date_published: 2024-04-29T06:31:55.933210+00:00
 
  ## VAG Blog
  - [https://blog.vag-freiburg.de](https://blog.vag-freiburg.de)
@@ -2590,10 +2662,6 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## vzbv
  - [https://vzbv.de](https://vzbv.de)
  - date_published: 2024-07-24T03:30:46.989955+00:00
-
- ## vzbv
- - [https://www.vzbv.de](https://www.vzbv.de)
- - date_published: 2023-10-31T08:58:05.940865+00:00
 
  ## W3NOW Studie - Blockchain in Deutschland
  - [https://www.w3now.de](https://www.w3now.de)
@@ -3944,72 +4012,4 @@ Bibliotheken / Z39.50
  ## Startseite
  - [https://zdi-portal.de](https://zdi-portal.de)
  - date_published: 2024-06-12T00:00:00+00:00
-
- ## Download | ZDNet.de
- - [https://downloads.zdnet.de](https://downloads.zdnet.de)
- - date_published: 2024-07-01T08:34:12.495057+00:00
-
- ## Registrieren Sie sich für unseren kostenlosen Newsletter in nur 60 Sekunden!
- - [http://subscriber.zdnet.de](http://subscriber.zdnet.de)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## ZDNet.de
- - [https://zdnet.de](https://zdnet.de)
- - date_published: 2024-05-07T18:49:45.562787+00:00
-
- ## Sign in - Matomo
- - [https://stats.zebralog.de](https://stats.zebralog.de)
- - date_published: 2024-07-17T08:01:39.329224+00:00
-
- ## Startseite
- - [https://www.zebralog.de](https://www.zebralog.de)
- - date_published: 2024-07-17T08:01:40.841463+00:00
-
- ## ZEISS Gruppe
- - [http://www.zeiss.de](http://www.zeiss.de)
- - date_published: 2024-07-08T15:22:52.265717+00:00
-
- ## DIE ZEIT und die ZEIT Magazine im Abo
- - [https://abo.zeit.de](https://abo.zeit.de)
- - date_published: 2024-04-29T07:11:54.596037+00:00
-
- ## Welcher Beruf passt zu mir? - Der Berufstest von ZEIT Campus
- - [https://berufstest.zeit.de](https://berufstest.zeit.de)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Blogs
- - [https://blog.zeit.de](https://blog.zeit.de)
- - date_published: 2024-04-29T07:12:36.743029+00:00
-
- ## Briefkasten
- - [https://briefkasten.zeit.de](https://briefkasten.zeit.de)
- - date_published: 2024-06-28T21:41:04.646084+00:00
-
- ## ZEIT ONLINE Startseite
- - [https://cmk.zeit.de](https://cmk.zeit.de)
- - date_published: 2024-04-29T07:00:14.167012+00:00
-
- ## 403
- - [https://datenschutz.zeit.de](https://datenschutz.zeit.de)
- - date_published: 2024-04-29T07:12:24.987920+00:00
-
- ## 404 Fehler
- - [https://img.zeit.de](https://img.zeit.de)
- - date_published: 2024-04-29T07:11:36.595535+00:00
-
- ## Anzeigenerfassung | DIE ZEIT
- - [https://inserieren.zeit.de](https://inserieren.zeit.de)
- - date_published: 2024-04-29T07:12:50.059154+00:00
-
- ## ZEIT ONLINE Stellenmarkt - Jobbörse der ZEIT - Alle aktuellen Jobs im ZEIT ONLINE Stellenmarkt
- - [https://jobs.zeit.de](https://jobs.zeit.de)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## ZEIT ONLINE Startseite
- - [https://marktplatz.zeit.de](https://marktplatz.zeit.de)
- - date_published: 2024-07-24T02:47:32.284334+00:00
-
- ## ZEIT ONLINE
- - [https://meine.zeit.de](https://meine.zeit.de)
- - date_published: 2024-04-29T07:12:29.476682+00:00
 

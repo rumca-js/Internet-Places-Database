@@ -1,3 +1,35 @@
+ ## The Man Cave
+ - [http://tasmancave.blogspot.com](http://tasmancave.blogspot.com)
+ - date_published: 2024-06-29T21:19:03+00:00
+
+ ## The Tau of War
+ - [http://tauofwar.blogspot.com](http://tauofwar.blogspot.com)
+ - date_published: 2024-06-29T10:43:07+00:00
+
+ ## random thoughts of a F/OSS Developer...
+ - [http://tauware.blogspot.com](http://tauware.blogspot.com)
+ - date_published: 2020-04-25T00:00:00+00:00
+
+ ## Tax & Business Law Commentary
+ - [http://taxbiz.blogspot.com](http://taxbiz.blogspot.com)
+ - date_published: 2024-03-25T06:09:45+00:00
+
+ ## Taxing Thoughts
+ - [http://taxingthoughts.blogspot.com](http://taxingthoughts.blogspot.com)
+ - date_published: 2024-02-08T10:30:48+00:00
+
+ ## Fuji Puzzle Box
+ - [https://taylorjessen.blogspot.com](https://taylorjessen.blogspot.com)
+ - date_published: 2024-06-03T17:44:00+00:00
+
+ ## The Buffet Assault Group
+ - [https://tbagers.blogspot.com](https://tbagers.blogspot.com)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## The Conservative Lady
+ - [http://tclblogger.blogspot.com](http://tclblogger.blogspot.com)
+ - date_published: 2024-03-13T00:08:05+00:00
+
  ## From My Position... On the way!
  - [http://tcoverride.blogspot.com](http://tcoverride.blogspot.com)
  - date_published: 2019-03-31T10:30:00+00:00
@@ -3984,36 +4016,4 @@
  ## Outside Counsel
  - [http://www.outsidethelaw.blogspot.com](http://www.outsidethelaw.blogspot.com)
  - date_published: 2024-07-10T00:00:00+00:00
-
- ## Owens Rhetoric
- - [http://www.owens.blogspot.com](http://www.owens.blogspot.com)
- - date_published: 2024-03-14T17:18:16+00:00
-
- ## Pennsylvania Workers' Compensation Journal
- - [http://www.pawc.blogspot.com](http://www.pawc.blogspot.com)
- - date_published: 2024-02-29T13:18:11+00:00
-
- ## Plainsman
- - [http://www.plainsman.blogspot.com](http://www.plainsman.blogspot.com)
- - date_published: 2024-03-14T02:38:58+00:00
-
- ## Polite Company
- - [http://www.politecompany.blogspot.com](http://www.politecompany.blogspot.com)
- - date_published: 2024-06-01T06:21:39+00:00
-
- ## potfry
- - [http://www.potfry.blogspot.com](http://www.potfry.blogspot.com)
- - date_published: 2024-02-08T12:02:19+00:00
-
- ## Primeval Papa
- - [http://www.primevalpapa.blogspot.com](http://www.primevalpapa.blogspot.com)
- - date_published: 2024-04-08T17:55:29+00:00
-
- ## Public Defender Dude
- - [http://www.publicdefenderdude.blogspot.com](http://www.publicdefenderdude.blogspot.com)
- - date_published: 2024-07-12T07:20:25+00:00
-
- ## Quantum meruit
- - [http://www.quantummeruit.blogspot.com](http://www.quantummeruit.blogspot.com)
- - date_published: 2024-03-13T20:55:26+00:00
 

@@ -1,3 +1,35 @@
+ ## Polliwog's poliblog
+ - [http://polliwogspoliblog.blogspot.com](http://polliwogspoliblog.blogspot.com)
+ - date_published: 2024-03-14T06:58:59+00:00
+
+ ## Polyglot Vegetarian
+ - [https://polyglotveg.blogspot.com](https://polyglotveg.blogspot.com)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## polyhedron dream
+ - [https://polyhedrondream.blogspot.com](https://polyhedrondream.blogspot.com)
+ - date_published: 2024-04-30T07:46:32.437511+00:00
+
+ ## Standing By
+ - [http://polykahr-standingby.blogspot.com](http://polykahr-standingby.blogspot.com)
+ - date_published: 2024-07-03T06:02:00+00:00
+
+ ## * Enigmatic Mermaid *
+ - [http://pombostrans.blogspot.com](http://pombostrans.blogspot.com)
+ - date_published: 2024-04-27T11:27:21+00:00
+
+ ## Pommygranate
+ - [https://pommygranate.blogspot.com](https://pommygranate.blogspot.com)
+ - date_published: 2024-03-23T18:28:22+00:00
+
+ ## Cave of the Curmudgeon
+ - [http://ponderingdilettante.blogspot.com](http://ponderingdilettante.blogspot.com)
+ - date_published: 2024-03-13T06:57:53+00:00
+
+ ## Glendinning @ PondMaths
+ - [http://pondmaths.blogspot.com](http://pondmaths.blogspot.com)
+ - date_published: 2024-07-05T08:39:01+00:00
+
  ## poormansversion
  - [http://poormansversion.blogspot.com](http://poormansversion.blogspot.com)
  - date_published: 2024-03-14T03:50:29+00:00
@@ -3990,36 +4022,4 @@
  ## Blogger
  - [http://tarqis.blogspot.com](http://tarqis.blogspot.com)
  - date_published: 2024-07-15T09:30:53.076343+00:00
-
- ## The Man Cave
- - [http://tasmancave.blogspot.com](http://tasmancave.blogspot.com)
- - date_published: 2024-06-29T21:19:03+00:00
-
- ## The Tau of War
- - [http://tauofwar.blogspot.com](http://tauofwar.blogspot.com)
- - date_published: 2024-06-29T10:43:07+00:00
-
- ## random thoughts of a F/OSS Developer...
- - [http://tauware.blogspot.com](http://tauware.blogspot.com)
- - date_published: 2020-04-25T00:00:00+00:00
-
- ## Tax & Business Law Commentary
- - [http://taxbiz.blogspot.com](http://taxbiz.blogspot.com)
- - date_published: 2024-03-25T06:09:45+00:00
-
- ## Taxing Thoughts
- - [http://taxingthoughts.blogspot.com](http://taxingthoughts.blogspot.com)
- - date_published: 2024-02-08T10:30:48+00:00
-
- ## Fuji Puzzle Box
- - [https://taylorjessen.blogspot.com](https://taylorjessen.blogspot.com)
- - date_published: 2024-06-03T17:44:00+00:00
-
- ## The Buffet Assault Group
- - [https://tbagers.blogspot.com](https://tbagers.blogspot.com)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## The Conservative Lady
- - [http://tclblogger.blogspot.com](http://tclblogger.blogspot.com)
- - date_published: 2024-03-13T00:08:05+00:00
 

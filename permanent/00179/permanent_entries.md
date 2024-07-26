@@ -1,3 +1,67 @@
+ ## L'offensive – Regroupons-nous pour bâtir une société démocratique, écologiste, égalitaire, multiculturelle et féministe : Passons à l’Offensive !
+ - [https://offensive.eco](https://offensive.eco)
+ - date_published: 2024-07-08T10:51:24.844881+00:00
+
+ ## Hébergement Haut de Gamme - site Web, Messagerie, Serveur...
+ - [https://valentine.eco](https://valentine.eco)
+ - date_published: 2024-07-18T22:42:49.629542+00:00
+
+ ## Global Business Education Network | AACSB
+ - [https://www.aacsb.edu](https://www.aacsb.edu)
+ - date_published: 2024-06-17T11:01:22.624249+00:00
+
+ ## Cierpliwości...
+ - [https://aau.edu](https://aau.edu)
+ - date_published: 2024-05-07T19:32:37.872855+00:00
+
+ ## Welcome to A-B Tech
+ - [https://abtech.edu](https://abtech.edu)
+ - date_published: 2024-06-28T22:38:50+00:00
+
+ ## Australian Catholic University
+ - [https://acu-au.academia.edu](https://acu-au.academia.edu)
+ - date_published: 2024-04-30T03:03:22.148714+00:00
+
+ ## Adam Mickiewicz University in Poznań
+ - [http://amu.academia.edu](http://amu.academia.edu)
+ - date_published: 2024-07-02T05:40:48.148234+00:00
+
+ ## Antalya Bilim University
+ - [https://antalya.academia.edu](https://antalya.academia.edu)
+ - date_published: 2024-07-08T16:37:45.896522+00:00
+
+ ## The Australian National University
+ - [https://anu-au.academia.edu](https://anu-au.academia.edu)
+ - date_published: 2024-04-30T02:57:41.815540+00:00
+
+ ## University of California, Berkeley
+ - [https://berkeley.academia.edu](https://berkeley.academia.edu)
+ - date_published: 2024-07-10T05:50:38.577441+00:00
+
+ ## University of Brighton
+ - [https://brighton.academia.edu](https://brighton.academia.edu)
+ - date_published: 2024-04-30T02:59:39.003488+00:00
+
+ ## Boston University
+ - [https://bu.academia.edu](https://bu.academia.edu)
+ - date_published: 2024-04-30T03:00:21.443795+00:00
+
+ ## University of Cambridge
+ - [https://cambridge.academia.edu](https://cambridge.academia.edu)
+ - date_published: 2024-04-30T02:58:24.076871+00:00
+
+ ## University of Canberra
+ - [https://canberra.academia.edu](https://canberra.academia.edu)
+ - date_published: 2024-04-30T03:02:19.364846+00:00
+
+ ## Case Western Reserve University
+ - [https://case.academia.edu](https://case.academia.edu)
+ - date_published: 2024-04-30T02:50:03.549403+00:00
+
+ ## University of Chicago
+ - [https://chicago.academia.edu](https://chicago.academia.edu)
+ - date_published: 2024-04-30T02:59:02.539621+00:00
+
  ## Centro de Investigación y Docencia Económicas
  - [http://cide.academia.edu](http://cide.academia.edu)
  - date_published: 2024-06-17T14:09:53.439230+00:00
@@ -3940,69 +4004,4 @@
  ## Adobe
  - [https://adobe.byu.edu](https://adobe.byu.edu)
  - date_published: 2024-07-17T03:06:06.213291+00:00
-
- ## Home
- - [https://advisement.byu.edu](https://advisement.byu.edu)
- - date_published: 2024-07-17T03:08:21.044507+00:00
-
- ## Aims Home
- - [https://aims.byu.edu](https://aims.byu.edu)
- - date_published: 2024-04-30T03:32:15.141700+00:00
-
- ## BYU | Email Alias Manager
- - [https://alias.byu.edu](https://alias.byu.edu)
- - date_published: 2024-07-17T03:06:09.138839+00:00
-
- ## Home page
- - [https://alumni.byu.edu](https://alumni.byu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Apply Now!
- - [http://apply.byu.edu](http://apply.byu.edu)
- - date_published: 2024-07-17T03:13:54.423834+00:00
-
- ## Events & Tickets - BYU Arts
- - [http://arts.byu.edu](http://arts.byu.edu)
- - date_published: 2024-07-17T03:07:10.352435+00:00
-
- ## ASO Homepage
- - [https://aso.byu.edu](https://aso.byu.edu)
- - date_published: 2024-07-17T03:20:26.844915+00:00
-
- ## BYU Belonging Homepage
- - [https://belonging.byu.edu](https://belonging.byu.edu)
- - date_published: 2024-05-12T07:42:47.995708+00:00
-
- ## Be Safe
- - [https://besafe.byu.edu](https://besafe.byu.edu)
- - date_published: 2024-07-17T03:05:47.019601+00:00
-
- ## Box
- - [https://box.byu.edu](https://box.byu.edu)
- - date_published: 2024-07-17T03:06:19.588590+00:00
-
- ## Home - Brand
- - [https://brand.byu.edu](https://brand.byu.edu)
- - date_published: 2024-07-17T03:12:17.590315+00:00
-
- ## Login | CMS | Brigham Young University
- - [https://brightspot.byu.edu](https://brightspot.byu.edu)
- - date_published: 2024-04-30T03:32:11.176777+00:00
-
- ## Home - BYU
- - [https://byu.edu](https://byu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
- - tags: ['brigham young university']
-
- ## BYU Journeys
- - [https://byujourneys.byu.edu](https://byujourneys.byu.edu)
- - date_published: 2024-07-16T22:49:38.438696+00:00
-
- ## About BYUSA
- - [https://byusa.byu.edu](https://byusa.byu.edu)
- - date_published: 2024-07-17T03:07:17.904048+00:00
-
- ## BYU Studies
- - [https://byustudies.byu.edu](https://byustudies.byu.edu)
- - date_published: 2024-07-09T19:24:38+00:00
 

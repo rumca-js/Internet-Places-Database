@@ -1,3 +1,103 @@
+ ## വിക്കിനിഘണ്ടു
+ - [https://ml.wiktionary.org](https://ml.wiktionary.org)
+ - date_published: 2024-05-31T14:54:59+00:00
+
+ ## ꯋꯤꯛꯁꯟꯅꯔꯤ
+ - [https://mni.wiktionary.org](https://mni.wiktionary.org)
+ - date_published: 2024-06-01T02:13:40+00:00
+
+ ## Wiktionary
+ - [https://mn.wiktionary.org](https://mn.wiktionary.org)
+ - date_published: 2024-06-01T04:39:12+00:00
+
+ ## ဝိက်ရှေန်နရဳ
+ - [https://mnw.wiktionary.org](https://mnw.wiktionary.org)
+ - date_published: 2024-06-12T18:40:44+00:00
+
+ ## Wiktionary
+ - [https://mr.wiktionary.org](https://mr.wiktionary.org)
+ - date_published: 2024-06-01T00:24:59+00:00
+
+ ## Wikikamus
+ - [https://ms.wiktionary.org](https://ms.wiktionary.org)
+ - date_published: 2024-06-12T13:47:54+00:00
+
+ ## Wikizzjunarju
+ - [https://mt.wiktionary.org](https://mt.wiktionary.org)
+ - date_published: 2024-06-01T04:47:14+00:00
+
+ ## Wt/mwl - Wikimedia Incubator
+ - [https://mwl.wiktionary.org](https://mwl.wiktionary.org)
+ - date_published: 2024-07-09T09:56:24+00:00
+
+ ## Wt/myv - Wikimedia Incubator
+ - [https://myv.wiktionary.org](https://myv.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## ဝစ်ရှင်နရီ
+ - [https://my.wiktionary.org](https://my.wiktionary.org)
+ - date_published: 2024-06-11T12:31:45+00:00
+
+ ## Wiktionary
+ - [https://nah.wiktionary.org](https://nah.wiktionary.org)
+ - date_published: 2024-06-01T07:57:17+00:00
+
+ ## Paggena prencepale - Wt/nap - Wikimedia Incubator
+ - [https://nap.wiktionary.org](https://nap.wiktionary.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wiktionary
+ - [https://na.wiktionary.org](https://na.wiktionary.org)
+ - date_published: 2024-06-01T11:15:50+00:00
+
+ ## Wiktionary
+ - [https://nds.wiktionary.org](https://nds.wiktionary.org)
+ - date_published: 2024-06-11T12:31:46+00:00
+
+ ## Wiktionary
+ - [https://ne.wiktionary.org](https://ne.wiktionary.org)
+ - date_published: 2024-06-11T12:31:46+00:00
+
+ ## Wiktionary
+ - [https://nia.wiktionary.org](https://nia.wiktionary.org)
+ - date_published: 2024-06-11T12:31:46+00:00
+
+ ## WikiWoordenboek
+ - [https://nl.wiktionary.org](https://nl.wiktionary.org)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Wiktionary, den frie ordboka
+ - [https://nn.wiktionary.org](https://nn.wiktionary.org)
+ - date_published: 2024-06-01T12:23:45+00:00
+
+ ## Chefi pagine - Wt/nov - Wikimedia Incubator
+ - [https://nov.wiktionary.org](https://nov.wiktionary.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wiktionary
+ - [https://no.wiktionary.org](https://no.wiktionary.org)
+ - date_published: 2024-06-11T12:31:46+00:00
+
+ ## Wt/nrm - Wikimedia Incubator
+ - [https://nrm.wiktionary.org](https://nrm.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Wikiccionari
+ - [https://oc.wiktionary.org](https://oc.wiktionary.org)
+ - date_published: 2024-06-11T12:31:46+00:00
+
+ ## Wiktionary
+ - [https://om.wiktionary.org](https://om.wiktionary.org)
+ - date_published: 2024-06-01T07:09:59+00:00
+
+ ## ଉଇକିଅଭିଧାନ
+ - [https://or.wiktionary.org](https://or.wiktionary.org)
+ - date_published: 2024-05-31T09:39:06+00:00
+
+ ## Arapan ya Bolong - Wt/pag - Wikimedia Incubator
+ - [https://pag.wiktionary.org](https://pag.wiktionary.org)
+ - date_published: 2024-02-13T00:00:00+00:00
+
  ## Pun Bulung - Wt/pam - Wikimedia Incubator
  - [https://pam.wiktionary.org](https://pam.wiktionary.org)
  - date_published: 2024-01-12T00:00:00+00:00
@@ -3934,106 +4034,4 @@ Conference Series
  ## YouthMappers|Humanitarian Mapping|University Students
  - [https://www.youthmappers.org](https://www.youthmappers.org)
  - date_published: 2024-07-08T12:49:36.417373+00:00
-
- ## Homepage
- - [https://www.youthpolicy.org](https://www.youthpolicy.org)
- - date_published: 2024-07-10T09:29:02.934198+00:00
-
- ## Welcome to The Youth STEM Connection! - The Youth STEM Connection
- - [https://youthstemconnection.org](https://youthstemconnection.org)
- - date_published: 2023-05-20T15:52:13+00:00
-
- ## https://youtube-dl.org
- - [https://youtube-dl.org](https://youtube-dl.org)
- - date_published: 2023-08-01T08:39:22+00:00
- - tags: ['youtube', 'open source']
-
- ## Youtube Mp3 Dönüştürücü - Video İndirme Sitesi
- - [https://www.youtubemp3donusturucu.org](https://www.youtubemp3donusturucu.org)
- - date_published: 2024-07-07T07:30:32.540061+00:00
-
- ## Pin up : pinup | пинап | пин ап казино — Пинап Казино в Казахстане
- - [http://www.youwild.org](http://www.youwild.org)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## pgl@yoyo.org
- - [https://pgl.yoyo.org](https://pgl.yoyo.org)
- - date_published: 2024-05-06T21:05:19.551580+00:00
-
- ## JP789 > Daftar Situs Slot Gacor Online Gampang Menang Hari Ini
- - [https://ypacmalang.org](https://ypacmalang.org)
- - date_published: 2024-07-07T02:23:59.887447+00:00
-
- ## CERIABET : Daftar Situs Slot Online Server Thailand Terpercaya Resmi Di Indonesia
- - [https://www.ypac-surabaya.org](https://www.ypac-surabaya.org)
- - date_published: 2023-11-03T16:10:15+00:00
-
- ## Young Professionals in Energy- SF Bay Area
- - [https://ypesfbayarea.org](https://ypesfbayarea.org)
- - date_published: 2024-05-11T10:54:53.332388+00:00
-
- ## YPR HOMEPAGE | YPR
- - [https://www.ypradio.org](https://www.ypradio.org)
- - date_published: 2024-02-08T17:47:29.516258+00:00
-
- ## Portal News Online di Sulawesi Utara
- - [https://ysibanten.org](https://ysibanten.org)
- - date_published: 2017-05-20T03:40:22+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [http://yucs.org](http://yucs.org)
- - date_published: 2024-03-09T21:07:21+00:00
-
- ## 與點堂
- - [https://yudian.org](https://yudian.org)
- - date_published: 2024-06-22T12:42:28.454278+00:00
-
- ## phpMyAdmin
- - [http://www.yumuseum.org](http://www.yumuseum.org)
- - date_published: 2024-07-14T23:47:21+00:00
-
- ## Login
- - [https://doc.yunohost.org](https://doc.yunohost.org)
- - date_published: 2024-06-14T11:55:48.399813+00:00
-
- ## Donner à YunoHost
- - [https://donate.yunohost.org](https://donate.yunohost.org)
- - date_published: 2024-05-16T02:45:08.548751+00:00
-
- ## YunoHost Forum
- - [https://forum.yunohost.org](https://forum.yunohost.org)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Install  with YunoHost
- - [https://install-app.yunohost.org](https://install-app.yunohost.org)
- - date_published: 2024-07-07T02:52:12.227930+00:00
-
- ## YunoHost • index
- - [https://yunohost.org](https://yunohost.org)
- - date_published: 2023-10-25T22:23:41.314283+00:00
- - tags: ['server administration']
-
- ## https://yurichev.org
- - [https://yurichev.org](https://yurichev.org)
- - date_published: 2024-01-09T03:43:18.842486+00:00
-
- ## YUTorah Online
- - [https://www.yutorah.org](https://www.yutorah.org)
- - date_published: 2024-06-27T07:48:45.458127+00:00
-
- ## yuzu - Nintendo Switch Emulator
- - [https://yuzu-emu.org](https://yuzu-emu.org)
- - date_published: 2024-03-06T20:59:32.921293+00:00
-
- ## NGS, Commercialization, and the Genomic Revolution
- - [http://www.yuzuki.org](http://www.yuzuki.org)
- - date_published: 2024-05-28T00:44:57.290946+00:00
-
- ## Home
- - [https://www.ywboston.org](https://www.ywboston.org)
- - date_published: 2024-06-29T02:23:45.930630+00:00
-
- ## Home
- - [https://www.ywcakalamazoo.org](https://www.ywcakalamazoo.org)
- - date_published: 2019-12-02T00:00:00+00:00
 

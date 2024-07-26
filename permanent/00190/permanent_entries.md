@@ -1,3 +1,63 @@
+ ## University of Houston Libraries
+ - [https://info.lib.uh.edu](https://info.lib.uh.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Home | Innovation & Entrepreneurship
+ - [https://innovate.egr.uh.edu](https://innovate.egr.uh.edu)
+ - date_published: 2024-07-02T02:36:03.460056+00:00
+
+ ## Welcome to the Cullen College of Engineering Intranet | Cullen College of Engineering Intranet
+ - [https://intranet.egr.uh.edu](https://intranet.egr.uh.edu)
+ - date_published: 2024-07-02T02:36:18.001845+00:00
+
+ ## University of Houston Libraries
+ - [https://libraries.uh.edu](https://libraries.uh.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Department of Mathematics
+ - [http://math.uh.edu](http://math.uh.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## University of Houston Cullen College of Engineering Virtual Learning and Online Programs
+ - [https://onlinelearning.egr.uh.edu](https://onlinelearning.egr.uh.edu)
+ - date_published: 2024-07-02T02:36:01.945002+00:00
+
+ ## Home | PROMES
+ - [https://promes.egr.uh.edu](https://promes.egr.uh.edu)
+ - date_published: 2024-07-02T02:36:13.206087+00:00
+
+ ## University of Houston - Acalog ACMS™
+ - [https://publications.uh.edu](https://publications.uh.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home | Research Computing
+ - [http://researchcomputing.egr.uh.edu](http://researchcomputing.egr.uh.edu)
+ - date_published: 2024-07-02T02:36:16.654548+00:00
+
+ ## UH Division of Research
+ - [https://research.uh.edu](https://research.uh.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Home | Research Experience for Undergraduates
+ - [https://reu.egr.uh.edu](https://reu.egr.uh.edu)
+ - date_published: 2024-07-02T02:36:19.503622+00:00
+
+ ## University of Houston
+ - [https://ssl.uh.edu](https://ssl.uh.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home | St. Elmo Brady
+ - [https://stelmobrady.egr.uh.edu](https://stelmobrady.egr.uh.edu)
+ - date_published: 2024-07-02T02:36:20.792883+00:00
+
+ ## Stories - University of Houston
+ - [https://stories.uh.edu](https://stories.uh.edu)
+ - date_published: 2021-12-16T07:14:57+00:00
+
+ ## UA Digital Library
+ - [https://uastories.uh.edu](https://uastories.uh.edu)
+ - date_published: 2024-07-02T02:26:07.814624+00:00
+
  ## University of Houston
  - [https://uh.edu](https://uh.edu)
  - date_published: 2023-10-25T19:01:32.158915+00:00
@@ -3946,64 +4006,4 @@ Center for Information Technology Integration
  ## Front - Publishing Services
  - [https://publishing.lib.umn.edu](https://publishing.lib.umn.edu)
  - date_published: 2024-07-04T16:19:14.960889+00:00
-
- ## University of Minnesota Rochester
- - [https://raptorlink.umn.edu](https://raptorlink.umn.edu)
- - date_published: 2024-07-02T04:19:40.146082+00:00
-
- ## | Research Computing
- - [https://rc.umn.edu](https://rc.umn.edu)
- - date_published: 2024-06-28T13:13:59+00:00
-
- ## Board of Regents | University of Minnesota
- - [https://regents-d8.dev.umn.edu](https://regents-d8.dev.umn.edu)
- - date_published: 2024-07-01T09:10:19+00:00
-
- ## Board of Regents | University of Minnesota
- - [https://regents.umn.edu](https://regents.umn.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Welcome | Medical School Media Mentions
- - [https://reporterpass.umn.edu](https://reporterpass.umn.edu)
- - date_published: 2024-05-07T21:30:26.588937+00:00
-
- ## Redirecting...
- - [https://reports.research.umn.edu](https://reports.research.umn.edu)
- - date_published: 2024-07-02T04:08:47.670173+00:00
-
- ## Home
- - [https://research.cems.umn.edu](https://research.cems.umn.edu)
- - date_published: 2024-05-07T21:32:01.102011+00:00
-
- ## Research Home
- - [https://research.d.umn.edu](https://research.d.umn.edu)
- - date_published: 2024-07-12T19:30:44+00:00
-
- ## RIO | RIO
- - [https://research.umn.edu](https://research.umn.edu)
- - date_published: 2024-05-07T21:31:02.688245+00:00
-
- ## Sign in to your account
- - [https://resource.umn.edu](https://resource.umn.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home | Research Methodology Consulting Center
- - [https://rmcc.umn.edu](https://rmcc.umn.edu)
- - date_published: 2024-06-12T13:59:29+00:00
-
- ## Home | University of Minnesota Rochester
- - [https://r.umn.edu](https://r.umn.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Homepage
- - [https://safe-campus.umn.edu](https://safe-campus.umn.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Schedule Builder - University of Minnesota
- - [https://schedulebuilder.umn.edu](https://schedulebuilder.umn.edu)
- - date_published: 2024-07-02T04:05:42.083339+00:00
-
- ## Welcome | The Scope
- - [https://scope.umn.edu](https://scope.umn.edu)
- - date_published: 2024-05-07T21:30:18.113850+00:00
 

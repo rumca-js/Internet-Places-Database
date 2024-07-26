@@ -1,3 +1,36 @@
+ ## Search Intelligence | Improve Your ROI | Captify Technologies
+ - [https://www.captifytechnologies.com](https://www.captifytechnologies.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## captimes.com | The Capital Times: Madison WI News
+ - [https://captimes.com](https://captimes.com)
+ - date_published: 2024-05-04T13:49:23.955517+00:00
+
+ ## Cap Times Idea Fest — Sept. 17-23 in Madison
+ - [https://captimesideafest.com](https://captimesideafest.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Expert Captioning, Transcription and Localization Services | Vitac
+ - [https://captionedtext.com](https://captionedtext.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## CaptoGlove - Virtual reality wearable gaming motion controller
+ - [https://captoglove.com](https://captoglove.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+ - tags: ['virtual reality']
+
+ ## CaptureLandscapes | Landscape Photography Tutorials & Courses
+ - [https://capturelandscapes.com](https://capturelandscapes.com)
+ - date_published: 2019-09-10T13:54:31+00:00
+
+ ## RealityCapture - 3D Models from Photos and/or Laser Scans
+ - [https://www.capturingreality.com](https://www.capturingreality.com)
+ - date_published: 2024-05-02T09:35:40.375253+00:00
+
+ ## Heatmap & Session Recording and Conversion Funnel Analytics Tool - Capturly.com
+ - [https://cdn.capturly.com](https://cdn.capturly.com)
+ - date_published: 2024-07-17T23:31:53.714645+00:00
+
  ## Captury – Markerless motion capture technology
  - [https://captury.com](https://captury.com)
  - date_published: 2024-07-24T05:52:05.932786+00:00
@@ -4013,37 +4046,4 @@
  ## Celeste Noche
  - [http://www.celestenoche.com](http://www.celestenoche.com)
  - date_published: 2024-07-04T05:04:36.076850+00:00
-
- ## CELESTE OLALQUIAGA / NYC / Cultural historian
- - [https://www.celesteolalquiaga.com](https://www.celesteolalquiaga.com)
- - date_published: 2024-06-24T09:32:48.762881+00:00
-
- ## Celestial Soul Medicine | Therapeutic Massage | 404 N Church St, McKinney, TX, USA
- - [https://www.celestialsoulmedicine.com](https://www.celestialsoulmedicine.com)
- - date_published: 2024-06-14T16:26:17.671275+00:00
-
- ## Celestine Yeh
- - [https://celestineyeh.com](https://celestineyeh.com)
- - date_published: 2024-05-08T04:45:13.264578+00:00
- - tags: ['personal']
-
- ## CelesTrak
- - [http://celestrak.com](http://celestrak.com)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Frame Machines | Collision Repair Equipment Manufacturers
- - [http://www.celette.com](http://www.celette.com)
- - date_published: 2024-07-09T21:22:22.150761+00:00
-
- ## Dr. Céline Gounder
- - [https://celinegounder.com](https://celinegounder.com)
- - date_published: 2024-05-07T22:44:32.005026+00:00
-
- ## Céline Hurka Type Foundry
- - [https://celine-hurka.com](https://celine-hurka.com)
- - date_published: 2024-05-04T06:34:12.403261+00:00
-
- ## https://www.cell.com
- - [https://www.cell.com](https://www.cell.com)
- - date_published: 2023-10-25T13:19:41.208125+00:00
 

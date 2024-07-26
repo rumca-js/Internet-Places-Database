@@ -1,3 +1,79 @@
+ ## Technion - Israel Institute of Technology
+ - [https://cris.technion.ac.il](https://cris.technion.ac.il)
+ - date_published: 2024-06-22T07:46:59.982782+00:00
+
+ ## Home - Faculty of Electrical And Computer Engineering - Technion
+ - [https://ece.technion.ac.il](https://ece.technion.ac.il)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Joseph Keshet – Speech, Language, and Deep Learning יוסי קשת
+ - [https://keshet.net.technion.ac.il](https://keshet.net.technion.ac.il)
+ - date_published: 2024-04-28T03:45:34.997165+00:00
+
+ ## Home - Physics Department, Technion
+ - [http://phys.technion.ac.il](http://phys.technion.ac.il)
+ - date_published: 2024-06-22T12:49:21+00:00
+
+ ## Shaked Brody | Ph.D. student, Computer Science Department, Technion
+ - [https://shakedbr.cswp.cs.technion.ac.il](https://shakedbr.cswp.cs.technion.ac.il)
+ - date_published: 2024-07-22T11:01:20.407486+00:00
+
+ ## Tamar Rott Shaham | PhD Candidate, Computer Vision
+ - [https://stamarot.webgr.technion.ac.il](https://stamarot.webgr.technion.ac.il)
+ - date_published: 2024-06-22T09:07:04.083810+00:00
+
+ ## Tomer Michaeli
+ - [https://tomer.net.technion.ac.il](https://tomer.net.technion.ac.il)
+ - date_published: 2024-05-04T15:13:32.022579+00:00
+
+ ## Uri Alon | PhD student, the Computer Science Department, Technion
+ - [https://urialon.cswp.cs.technion.ac.il](https://urialon.cswp.cs.technion.ac.il)
+ - date_published: 2024-07-22T11:02:02.896748+00:00
+
+ ## Home - Faculty of Electrical And Computer Engineering - Technion
+ - [http://webee.technion.ac.il](http://webee.technion.ac.il)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## The Taub Faculty of Computer Science, Technion
+ - [https://www.cs.technion.ac.il](https://www.cs.technion.ac.il)
+ - date_published: 2024-04-28T01:51:46.063788+00:00
+
+ ## דף הבית | הטכניון - מכון טכנולוגי לישראל
+ - [https://www.technion.ac.il](https://www.technion.ac.il)
+ - date_published: 2013-02-07T15:47:53+00:00
+
+ ## גחלילית
+ - [https://davidson-firefly.weizmann.ac.il](https://davidson-firefly.weizmann.ac.il)
+ - date_published: 2024-06-15T10:21:48+00:00
+
+ ## מכון דוידסון: התחברות למערכת
+ - [https://davidsonmoodle.weizmann.ac.il](https://davidsonmoodle.weizmann.ac.il)
+ - date_published: 2024-06-15T10:21:47.063392+00:00
+
+ ## מכון דוידסון מציג: העתיד של חדשות המדע. בעברית
+ - [https://davidson.weizmann.ac.il](https://davidson.weizmann.ac.il)
+ - date_published: 2024-05-01T03:14:15.570719+00:00
+
+ ## ECCC - Electronic Colloquium on Computational Complexity
+ - [https://eccc.weizmann.ac.il](https://eccc.weizmann.ac.il)
+ - date_published: 2024-06-22T10:53:57.315153+00:00
+
+ ## Weizmann Wonder Wander - News, Features and Discoveries from the Weizmann Institute of Science
+ - [https://wis-wander.weizmann.ac.il](https://wis-wander.weizmann.ac.il)
+ - date_published: 2023-10-25T10:11:36.340185+00:00
+
+ ## Weizmann Institute of Science
+ - [https://www.weizmann.ac.il](https://www.weizmann.ac.il)
+ - date_published: 2024-04-28T03:40:11.119291+00:00
+
+ ## Faculty of Mathematics and Computer Science
+ - [https://www.wisdom.weizmann.ac.il](https://www.wisdom.weizmann.ac.il)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## המכללה האקדמית עמק יזרעאל ע"ש מקס שטרן
+ - [http://www.yvc.ac.il](http://www.yvc.ac.il)
+ - date_published: 2024-07-08T00:00:00+00:00
+
  ## 2swim - 2swim
  - [https://www.2swim.co.il](https://www.2swim.co.il)
  - date_published: 2023-02-18T18:53:12+00:00
@@ -3955,81 +4031,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  - [https://jonathanj.in](https://jonathanj.in)
  - date_published: 2024-04-28T06:15:25.975182+00:00
  - tags: ['personal']
-
- ## Jophin Mathai – Personal Site
- - [https://joph.in](https://joph.in)
- - date_published: 2024-02-26T08:25:34.178010+00:00
- - tags: ['personal']
-
- ## Jordin
- - [https://jord.in](https://jord.in)
- - date_published: 2024-07-13T04:28:51.304541+00:00
-
- ## Jrsensors | Temperature Sensor Online | NTC Thermistor
- - [https://jrsensors.in](https://jrsensors.in)
- - date_published: 2015-12-14T07:14:55+00:00
-
- ## JSConf India 2023
- - [https://jsconf.in](https://jsconf.in)
- - date_published: 2024-06-23T01:30:23.797220+00:00
-
- ## JS features
- - [https://jsfeatures.in](https://jsfeatures.in)
- - date_published: 2024-06-03T11:19:25.729390+00:00
-
- ## Juspay | Payments Infrastructure for Scale and Simplicity
- - [https://juspay.in](https://juspay.in)
- - date_published: 2024-05-04T15:56:59.515968+00:00
-
- ## Tamil News - Kamadenu - காமதேனு தமிழ் செய்திகள்  | Online Tamil News | Tamil News Live | Tamilnadu News | தமிழ் நியூஸ் | Kamadenu Tamil
- - [https://www.kamadenu.in](https://www.kamadenu.in)
- - date_published: 2024-06-26T21:43:43.594994+00:00
-
- ## Karthick Ram - Software Developer
- - [https://karthickram.in](https://karthickram.in)
- - date_published: 2024-01-04T01:12:48.776884+00:00
-
- ## Web Resume
- - [https://resume.karthickram.in](https://resume.karthickram.in)
- - date_published: 2024-04-28T01:41:03.962481+00:00
-
- ## Kathara Sasikumar
- - [https://kathara.in](https://kathara.in)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Kathrin Klix | Willkommen
- - [https://kathr.in](https://kathr.in)
- - date_published: 2022-07-22T05:58:55+00:00
-
- ## Home
- - [https://conf.kde.in](https://conf.kde.in)
- - date_published: 2024-01-01T16:09:05+00:00
-
- ## Keegan Burkett | Software Engineer & Product Designer
- - [https://keeg.in](https://keeg.in)
- - date_published: 2024-05-09T06:20:01.653424+00:00
-
- ## Keelin Jacobsen // Design + Code
- - [https://keel.in](https://keel.in)
- - date_published: 2023-12-21T23:54:13+00:00
-
- ## Sean.Ker.win
- - [https://kerw.in](https://kerw.in)
- - date_published: 2021-12-19T02:31:40+00:00
-
- ## Keshav Xplore
- - [https://www.keshavxplore.in](https://www.keshavxplore.in)
- - date_published: 2024-07-08T14:07:53+00:00
-
- ## Kev.in · It was a musical thing and you were supposed to sing.
- - [https://kev.in](https://kev.in)
- - date_published: 2021-02-15T14:45:04+00:00
-
- ## abhijithkeyaar: pixels + ink
- - [https://keyaar.in](https://keyaar.in)
- - date_published: 2024-04-02T01:53:13+00:00
-
- ## Kinetic India
- - [https://kineticcommunications.in](https://kineticcommunications.in)
- - date_published: 2024-06-17T01:58:47.555012+00:00
 

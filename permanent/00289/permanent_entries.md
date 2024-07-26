@@ -1,3 +1,107 @@
+ ## DevOps Security
+ - [https://checklist.devops.security](https://checklist.devops.security)
+ - date_published: 2024-04-08T09:11:05+00:00
+
+ ## DSPM: Data Security at the Speed of Cloud | Dig Security
+ - [https://www.dig.security](https://www.dig.security)
+ - date_published: 2023-10-25T22:37:47.275606+00:00
+
+ ## Dryrun Security | Get An Automated Security Buddy
+ - [https://dryrun.security](https://dryrun.security)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## .Security Domain Names | .Security
+ - [https://go.security](https://go.security)
+ - date_published: 2024-06-17T07:44:18.346195+00:00
+
+ ## Honest Security
+ - [https://honest.security](https://honest.security)
+ - date_published: 2024-05-04T09:56:27.085750+00:00
+
+ ## Impart Security | Integrated API Security
+ - [https://www.impart.security](https://www.impart.security)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## End-to-end LLM Cybersecurity Solutions | Lasso
+ - [https://lasso.security](https://lasso.security)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Home
+ - [https://rtx.meta.security](https://rtx.meta.security)
+ - date_published: 2024-06-12T18:54:07.782126+00:00
+
+ ## Myrror Security - Myrror Security
+ - [https://myrror.security](https://myrror.security)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Runtime application security and observability | Oligo Security
+ - [https://www.oligo.security](https://www.oligo.security)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Industry-Leading Cloud Security Solution | Orca Security
+ - [https://orca.security](https://orca.security)
+ - date_published: 2024-06-16T19:10:30.763386+00:00
+
+ ## Active Application Security Posture Management (ASPM) - OX Security
+ - [https://www.ox.security](https://www.ox.security)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Phoenix Security Prioritize vulnerabilities from code to cloud
+ - [https://phoenix.security](https://phoenix.security)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Positive Security - IT Security Research & Consulting
+ - [https://positive.security](https://positive.security)
+ - date_published: 2023-10-25T22:37:48.281104+00:00
+
+ ## Sublime Security - Cloud email security that’s not a black box
+ - [https://sublime.security](https://sublime.security)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## 925 services
+ - [https://925.services](https://925.services)
+ - date_published: 2024-07-13T16:11:59.249818+00:00
+
+ ## AKM Services–your ethically-minded digital partner
+ - [https://akm.services](https://akm.services)
+ - date_published: 2024-05-09T08:26:14.190635+00:00
+
+ ## Book Time with Me
+ - [https://cal.services](https://cal.services)
+ - date_published: 2024-02-01T16:39:43+00:00
+
+ ## Boost and protect your digital business | EBRAND
+ - [http://www.ebrand.services](http://www.ebrand.services)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## eID-Services
+ - [https://eid.services](https://eid.services)
+ - date_published: 2024-01-25T10:32:35+00:00
+
+ ## A cloud platform to enrich services made with Ergo Framework.
+ - [https://cloud.ergo.services](https://cloud.ergo.services)
+ - date_published: 2023-10-25T22:37:54.772238+00:00
+
+ ## Jasette FACiLe
+ - [https://jasette.facil.services](https://jasette.facil.services)
+ - date_published: 2024-07-10T08:18:52.798214+00:00
+
+ ## AI Therapy
+ - [https://heartfelt.services](https://heartfelt.services)
+ - date_published: 2024-06-14T08:55:49.160500+00:00
+
+ ## Sign in - Hedengren Services
+ - [https://analytics.hedengren.services](https://analytics.hedengren.services)
+ - date_published: 2024-06-21T22:19:24.561202+00:00
+
+ ## Registrar Portal
+ - [https://registrar.identitydigital.services](https://registrar.identitydigital.services)
+ - date_published: 2024-06-16T05:51:23.784023+00:00
+
+ ## Trk Error
+ - [https://srv.isy-teamblue.services](https://srv.isy-teamblue.services)
+ - date_published: 2024-06-16T09:30:07.542882+00:00
+
  ## Constant Contact Login
  - [https://app-3qncnjs1vk.marketingautomation.services](https://app-3qncnjs1vk.marketingautomation.services)
  - date_published: 2024-07-04T17:43:47.794926+00:00
@@ -3941,108 +4045,4 @@ Art Product Supply
  ## Erasmus+
  - [https://www.erasmusplus.um.si](https://www.erasmusplus.um.si)
  - date_published: 2024-06-15T00:00:00+00:00
-
- ## Fakulteta za energetiko
- - [https://www.fe.um.si](https://www.fe.um.si)
- - date_published: 2024-06-15T02:48:06+00:00
-
- ## Filozofska fakulteta Univerze v Mariboru
- - [https://www.ff.um.si](https://www.ff.um.si)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## UM FGPA | Fakulteta za gradbeništvo, prometno inženirstvo in arhitekturo Univerza v Mariboru
- - [https://www.fgpa.um.si](https://www.fgpa.um.si)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Fakulteta za kmetijstvo in biosistemske vede – FKBV
- - [https://www.fkbv.um.si](https://www.fkbv.um.si)
- - date_published: 2024-06-15T02:47:10.822648+00:00
-
- ## Fakulteta za kemijo in kemijsko tehnologijo
- - [https://www.fkkt.um.si](https://www.fkkt.um.si)
- - date_published: 2024-06-15T02:47:52.609218+00:00
-
- ## Fakulteta za naravoslovje in matematiko | Ustvarjamo poklice prihodnosti
- - [https://www.fnm.um.si](https://www.fnm.um.si)
- - date_published: 2024-06-15T02:47:41.917039+00:00
-
- ## Fakulteta za strojništvo Maribor
- - [https://www.fs.um.si](https://www.fs.um.si)
- - date_published: 2024-06-15T02:47:44.937020+00:00
-
- ## Fakulteta za turizem - Univerza v Mariboru
- - [https://www.ft.um.si](https://www.ft.um.si)
- - date_published: 2024-06-15T02:47:12.463497+00:00
-
- ## Fakulteta za varnostne vede
- - [https://www.fvv.um.si](https://www.fvv.um.si)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## FZV Maribor | Fakulteta za zdravstvene vede - Univerza v Mariboru
- - [https://www.fzv.um.si](https://www.fzv.um.si)
- - date_published: 2024-06-15T02:47:53.764608+00:00
-
- ## Medicinska fakulteta Maribor
- - [https://www.mf.um.si](https://www.mf.um.si)
- - date_published: 2016-06-14T00:00:00+00:00
-
- ## Vstopna stran - Pedagoška Fakulteta UM
- - [https://www.pef.um.si](https://www.pef.um.si)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Pravna fakulteta Maribor
- - [https://www.pf.um.si](https://www.pf.um.si)
- - date_published: 2024-06-15T02:48:11.116322+00:00
-
- ## TRISAT-R LEIS
- - [https://www.trisat.um.si](https://www.trisat.um.si)
- - date_published: 2022-07-12T18:14:53+00:00
-
- ## ID portal
- - [https://id.uni-lj.si](https://id.uni-lj.si)
- - date_published: 2024-01-21T14:13:51.552197+00:00
-
- ## University of Ljubljana Press Journals
- - [https://journals.uni-lj.si](https://journals.uni-lj.si)
- - date_published: 2024-06-30T03:32:54.477820+00:00
-
- ## Fakulteta za Matematiko in Fiziko • FMF
- - [https://www.fmf.uni-lj.si](https://www.fmf.uni-lj.si)
- - date_published: 2024-07-10T06:40:10.818874+00:00
-
- ## Univerza v Ljubljani
- - [https://www.uni-lj.si](https://www.uni-lj.si)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Varne točke - Varne točke
- - [https://www.varnetocke.si](https://www.varnetocke.si)
- - date_published: 2024-06-28T11:33:39.054733+00:00
-
- ## Victron Energy
- - [https://www.victronenergy.si](https://www.victronenergy.si)
- - date_published: 2024-06-21T18:32:09+00:00
-
- ## Občina Vipava
- - [https://obcina.vipava.si](https://obcina.vipava.si)
- - date_published: 2024-06-28T11:27:25.293615+00:00
-
- ## Zavod za turizem TRG Vipava
- - [https://vipava.si](https://vipava.si)
- - date_published: 2024-05-06T22:41:09.360642+00:00
-
- ## Vipavska dolina | Uradni turistični portal | Vipavska dolina | Uradni turistični portal
- - [https://www.vipavskadolina.si](https://www.vipavskadolina.si)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Visa, vodilni za digitalna plačila.
- - [https://visaeurope.si](https://visaeurope.si)
- - date_published: 2024-05-12T03:59:17.682044+00:00
-
- ## Vlada | GOV.SI
- - [http://www.vlada.si](http://www.vlada.si)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Predlagam Vladi
- - [http://predlagam.vladi.si](http://predlagam.vladi.si)
- - date_published: 2024-07-01T07:36:08.300613+00:00
 

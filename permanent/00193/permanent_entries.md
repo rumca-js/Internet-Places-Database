@@ -1,4 +1,64 @@
  ## Commitment to Privacy
+ - [https://business.vcu.edu](https://business.vcu.edu)
+ - date_published: 2024-07-02T12:58:11.412610+00:00
+
+ ## VCU Office of Development and Alumni Relations
+ - [https://campaign.vcu.edu](https://campaign.vcu.edu)
+ - date_published: 2024-05-07T22:22:21.007981+00:00
+
+ ## Commitment to Privacy
+ - [http://canvas.vcu.edu](http://canvas.vcu.edu)
+ - date_published: 2024-06-16T06:31:22.427258+00:00
+
+ ## Commitment to Privacy
+ - [https://careconnections.vcu.edu](https://careconnections.vcu.edu)
+ - date_published: 2024-07-02T12:58:25.347394+00:00
+
+ ## Commitment to Privacy
+ - [https://careers.vcu.edu](https://careers.vcu.edu)
+ - date_published: 2024-07-02T12:50:30.757412+00:00
+
+ ## Commitment to Privacy
+ - [https://care.vcu.edu](https://care.vcu.edu)
+ - date_published: 2024-07-02T12:49:42.345629+00:00
+
+ ## Service Categories | IT Catalog | Virginia Commonwealth University
+ - [https://catalog.ts.vcu.edu](https://catalog.ts.vcu.edu)
+ - date_published: 2024-07-02T12:58:43.710035+00:00
+
+ ## Biological Data Science
+ - [https://cbds.vcu.edu](https://cbds.vcu.edu)
+ - date_published: 2023-11-08T00:00:00+00:00
+
+ ## Commitment to Privacy
+ - [https://ccep.vcu.edu](https://ccep.vcu.edu)
+ - date_published: 2024-07-02T12:41:47.862491+00:00
+
+ ## Commitment to Privacy
+ - [https://cctr.vcu.edu](https://cctr.vcu.edu)
+ - date_published: 2024-07-02T12:46:20.505893+00:00
+
+ ## Commitment to Privacy
+ - [https://cdc.soe.vcu.edu](https://cdc.soe.vcu.edu)
+ - date_published: 2024-07-02T12:59:13.061276+00:00
+
+ ## Commitment to Privacy
+ - [https://cdl.partnership.vcu.edu](https://cdl.partnership.vcu.edu)
+ - date_published: 2024-07-02T12:46:27.640824+00:00
+
+ ## Commitment to Privacy
+ - [https://ce.dentistry.vcu.edu](https://ce.dentistry.vcu.edu)
+ - date_published: 2024-07-02T12:48:34.986360+00:00
+
+ ## Commitment to Privacy
+ - [https://cepi.vcu.edu](https://cepi.vcu.edu)
+ - date_published: 2024-07-02T12:45:24.857445+00:00
+
+ ## VCU Center for Environmental Studies – ENVS
+ - [https://ces.vcu.edu](https://ces.vcu.edu)
+ - date_published: 2023-10-26T00:00:00+00:00
+
+ ## Commitment to Privacy
  - [https://cgep.vcu.edu](https://cgep.vcu.edu)
  - date_published: 2024-07-02T12:46:57.065642+00:00
 
@@ -3941,64 +4001,4 @@
  ## University of Wisconsin–Madison
  - [https://wisc.edu](https://wisc.edu)
  - date_published: 2024-07-16T00:00:00+00:00
-
- ## WISCERS
- - [https://wiscers.cs.wisc.edu](https://wiscers.cs.wisc.edu)
- - date_published: 2024-07-02T14:28:37.896641+00:00
-
- ## Please wait...
- - [https://wiscmail.wisc.edu](https://wiscmail.wisc.edu)
- - date_published: 2024-07-21T06:50:56.255209+00:00
-
- ## WiscWeb WordPress Service
- - [https://wiscweb.wisc.edu](https://wiscweb.wisc.edu)
- - date_published: 2024-07-02T14:33:04.101082+00:00
-
- ## Wisconsin Law Review
- - [https://wlr.law.wisc.edu](https://wlr.law.wisc.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## WordPress at UW–Madison
- - [https://wordpress.wisc.edu](https://wordpress.wisc.edu)
- - date_published: 2024-07-02T14:32:54.373705+00:00
-
- ## Computer Systems Lab Secure Web Page
- - [https://www-auth.cs.wisc.edu](https://www-auth.cs.wisc.edu)
- - date_published: 2024-07-02T14:29:03.366807+00:00
-
- ## Biostatistics and Medical Informatics
- - [https://www.biostat.wisc.edu](https://www.biostat.wisc.edu)
- - date_published: 2024-06-15T18:42:42+00:00
-
- ## Department of Botany
- - [https://botany.wisc.edu](https://botany.wisc.edu)
- - date_published: 2024-05-07T15:19:36.150451+00:00
-
- ## Computer-Aided Engineering
- - [http://www.cae.wisc.edu](http://www.cae.wisc.edu)
- - date_published: 2024-07-02T14:34:22.190193+00:00
-
- ## Computer Sciences
- - [https://cs.wisc.edu](https://cs.wisc.edu)
- - date_published: 2024-05-07T22:30:25.677243+00:00
-
- ## College of Engineering | University of Wisconsin-Madison
- - [https://engr.wisc.edu](https://engr.wisc.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Department of Geography
- - [http://www.geography.wisc.edu](http://www.geography.wisc.edu)
- - date_published: 2024-07-02T17:19:03.313667+00:00
-
- ## University Housing
- - [https://www.housing.wisc.edu](https://www.housing.wisc.edu)
- - date_published: 2024-07-02T14:33:12.753256+00:00
-
- ## Department of Mathematics
- - [http://www.math.wisc.edu](http://www.math.wisc.edu)
- - date_published: 2024-06-30T09:13:22.243343+00:00
-
- ## UW Department of Psychiatry
- - [https://www.psychiatry.wisc.edu](https://www.psychiatry.wisc.edu)
- - date_published: 2024-06-14T23:30:35.862338+00:00
 

@@ -1,3 +1,79 @@
+ ## A férfi legjobb oldala.
+ - [https://playermedia.hu](https://playermedia.hu)
+ - date_published: 2024-06-28T19:34:23.480231+00:00
+
+ ## pocketbook
+ - [https://pocketbook.hu](https://pocketbook.hu)
+ - date_published: 2024-07-20T16:12:36.332634+00:00
+
+ ## Porsche Webshop
+ - [https://shop.porsche.hu](https://shop.porsche.hu)
+ - date_published: 2024-06-28T19:34:25.876217+00:00
+
+ ## Porsche Centrum Budapest
+ - [https://porsche.hu](https://porsche.hu)
+ - date_published: 2024-05-06T23:43:06.373487+00:00
+
+ ## PRAE.HU - a művészeti portál
+ - [http://www.prae.hu](http://www.prae.hu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Index - Prima Primissima
+ - [http://primissima.hu](http://primissima.hu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Prolan Irányítástechnikai Zrt. Prolan Cégcsoport
+ - [https://www.prolan.hu](https://www.prolan.hu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Quantum Mirror | Főoldal
+ - [http://quantum-mirror.hu](http://quantum-mirror.hu)
+ - date_published: 2024-05-16T10:59:54+00:00
+
+ ## Ratz Tanár Úr Életműdíj
+ - [http://www.ratztanarurdij.hu](http://www.ratztanarurdij.hu)
+ - date_published: 2024-06-30T03:01:11.192811+00:00
+
+ ## REFRESHER - A modern generáció hangja
+ - [https://refresher.hu](https://refresher.hu)
+ - date_published: 2024-07-01T10:25:30.362543+00:00
+
+ ## |related| - Admin
+ - [https://admin.related.hu](https://admin.related.hu)
+ - date_published: 2024-06-25T22:25:22.763229+00:00
+
+ ## |related|Intelligent content recommendation and native advertising system
+ - [https://related.hu](https://related.hu)
+ - date_published: 2024-05-06T17:57:35.074332+00:00
+
+ ## rentIT - the eventIT company, since 1996. - rentIT
+ - [https://www.rentit.hu](https://www.rentit.hu)
+ - date_published: 2024-06-22T09:18:08.494504+00:00
+
+ ## Rényi Alfréd Matematikai Kutatóintézet
+ - [http://www.renyi.hu](http://www.renyi.hu)
+ - date_published: 2024-07-01T06:17:14.467739+00:00
+
+ ## Repropress.hu
+ - [https://repropress.hu](https://repropress.hu)
+ - date_published: 2024-06-20T07:16:04.422902+00:00
+
+ ## restu.hu
+ - [https://www.restu.hu](https://www.restu.hu)
+ - date_published: 2024-07-03T20:04:41.134515+00:00
+
+ ## ReTRoTiMe | << Retro számítógépek és konzolok lelőhelye és információs bázisa >>
+ - [http://www.retrotime.hu](http://www.retrotime.hu)
+ - date_published: 2024-07-08T19:38:18.594519+00:00
+
+ ## Ringier
+ - [https://ringier.hu](https://ringier.hu)
+ - date_published: 2024-06-20T07:16:30.504189+00:00
+
+ ## Ringier B2B - A Ringier Hungary hivatalos hirdetésértékesítési honlapja
+ - [https://ringierb2b.hu](https://ringierb2b.hu)
+ - date_published: 2024-06-20T07:16:39.082649+00:00
+
  ## ROCK1 Ticket
  - [https://jegy.rock1.hu](https://jegy.rock1.hu)
  - date_published: 2024-05-20T06:33:14.548942+00:00
@@ -3933,80 +4009,4 @@
  ## עמוד הבית
  - [https://tau.ac.il](https://tau.ac.il)
  - date_published: 2024-04-29T06:01:21.047652+00:00
-
- ## Technion - Israel Institute of Technology
- - [https://cris.technion.ac.il](https://cris.technion.ac.il)
- - date_published: 2024-06-22T07:46:59.982782+00:00
-
- ## Home - Faculty of Electrical And Computer Engineering - Technion
- - [https://ece.technion.ac.il](https://ece.technion.ac.il)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Joseph Keshet – Speech, Language, and Deep Learning יוסי קשת
- - [https://keshet.net.technion.ac.il](https://keshet.net.technion.ac.il)
- - date_published: 2024-04-28T03:45:34.997165+00:00
-
- ## Home - Physics Department, Technion
- - [http://phys.technion.ac.il](http://phys.technion.ac.il)
- - date_published: 2024-06-22T12:49:21+00:00
-
- ## Shaked Brody | Ph.D. student, Computer Science Department, Technion
- - [https://shakedbr.cswp.cs.technion.ac.il](https://shakedbr.cswp.cs.technion.ac.il)
- - date_published: 2024-07-22T11:01:20.407486+00:00
-
- ## Tamar Rott Shaham | PhD Candidate, Computer Vision
- - [https://stamarot.webgr.technion.ac.il](https://stamarot.webgr.technion.ac.il)
- - date_published: 2024-06-22T09:07:04.083810+00:00
-
- ## Tomer Michaeli
- - [https://tomer.net.technion.ac.il](https://tomer.net.technion.ac.il)
- - date_published: 2024-05-04T15:13:32.022579+00:00
-
- ## Uri Alon | PhD student, the Computer Science Department, Technion
- - [https://urialon.cswp.cs.technion.ac.il](https://urialon.cswp.cs.technion.ac.il)
- - date_published: 2024-07-22T11:02:02.896748+00:00
-
- ## Home - Faculty of Electrical And Computer Engineering - Technion
- - [http://webee.technion.ac.il](http://webee.technion.ac.il)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## The Taub Faculty of Computer Science, Technion
- - [https://www.cs.technion.ac.il](https://www.cs.technion.ac.il)
- - date_published: 2024-04-28T01:51:46.063788+00:00
-
- ## דף הבית | הטכניון - מכון טכנולוגי לישראל
- - [https://www.technion.ac.il](https://www.technion.ac.il)
- - date_published: 2013-02-07T15:47:53+00:00
-
- ## גחלילית
- - [https://davidson-firefly.weizmann.ac.il](https://davidson-firefly.weizmann.ac.il)
- - date_published: 2024-06-15T10:21:48+00:00
-
- ## מכון דוידסון: התחברות למערכת
- - [https://davidsonmoodle.weizmann.ac.il](https://davidsonmoodle.weizmann.ac.il)
- - date_published: 2024-06-15T10:21:47.063392+00:00
-
- ## מכון דוידסון מציג: העתיד של חדשות המדע. בעברית
- - [https://davidson.weizmann.ac.il](https://davidson.weizmann.ac.il)
- - date_published: 2024-05-01T03:14:15.570719+00:00
-
- ## ECCC - Electronic Colloquium on Computational Complexity
- - [https://eccc.weizmann.ac.il](https://eccc.weizmann.ac.il)
- - date_published: 2024-06-22T10:53:57.315153+00:00
-
- ## Weizmann Wonder Wander - News, Features and Discoveries from the Weizmann Institute of Science
- - [https://wis-wander.weizmann.ac.il](https://wis-wander.weizmann.ac.il)
- - date_published: 2023-10-25T10:11:36.340185+00:00
-
- ## Weizmann Institute of Science
- - [https://www.weizmann.ac.il](https://www.weizmann.ac.il)
- - date_published: 2024-04-28T03:40:11.119291+00:00
-
- ## Faculty of Mathematics and Computer Science
- - [https://www.wisdom.weizmann.ac.il](https://www.wisdom.weizmann.ac.il)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## המכללה האקדמית עמק יזרעאל ע"ש מקס שטרן
- - [http://www.yvc.ac.il](http://www.yvc.ac.il)
- - date_published: 2024-07-08T00:00:00+00:00
 

@@ -1,3 +1,69 @@
+ ## Charalampos Fanoulis
+ - [https://fanoulis.dev](https://fanoulis.dev)
+ - date_published: 2024-05-09T07:45:49.225086+00:00
+
+ ## Matt Fantinel
+ - [https://fantinel.dev](https://fantinel.dev)
+ - date_published: 2024-07-23T23:40:53.684240+00:00
+
+ ## Faraday.dev
+ - [https://faraday.dev](https://faraday.dev)
+ - date_published: 2024-05-06T14:40:50.610082+00:00
+
+ ## https://farlow.dev
+ - [https://farlow.dev](https://farlow.dev)
+ - date_published: 2024-01-09T02:57:15.429770+00:00
+
+ ## Fast and low overhead web framework, for Node.js | Fastify
+ - [https://fastify.dev](https://fastify.dev)
+ - date_published: 2024-05-04T13:00:18.664451+00:00
+
+ ## Fiddle - Fastly
+ - [https://fiddle.fastly.dev](https://fiddle.fastly.dev)
+ - date_published: 2024-06-16T14:04:13.809417+00:00
+
+ ## FAUN
+              
+              | The fastest way for busy developers to keep up with technologies 🚀 | www.faun.dev
+ - [https://faun.dev](https://faun.dev)
+ - date_published: 2024-07-18T12:56:28.200513+00:00
+
+ ## Home | fdgt.dev
+ - [https://fdgt.dev](https://fdgt.dev)
+ - date_published: 2024-07-14T09:11:11.584682+00:00
+
+ ## Feather - Free & open source icons
+ - [https://feathericons.dev](https://feathericons.dev)
+ - date_published: 2024-05-09T07:23:06.557657+00:00
+
+ ## Federico Vitale - Software Engineer
+ - [https://fedevitale.dev](https://fedevitale.dev)
+ - date_published: 2024-05-11T10:09:14.385795+00:00
+
+ ## Fedify
+ - [https://fedify.dev](https://fedify.dev)
+ - date_published: 2024-06-28T15:59:09+00:00
+
+ ## Home - FED Mentor
+ - [https://fedmentor.dev](https://fedmentor.dev)
+ - date_published: 2023-10-25T18:37:59.320927+00:00
+
+ ## Feep! search
+ - [https://search.feep.dev](https://search.feep.dev)
+ - date_published: 2023-10-25T18:38:00.233684+00:00
+
+ ## Felte | Home
+ - [https://felte.dev](https://felte.dev)
+ - date_published: 2024-07-10T06:39:31.042458+00:00
+
+ ## en/
+ - [https://ferrocene.dev](https://ferrocene.dev)
+ - date_published: 2024-06-19T02:43:48.314108+00:00
+
+ ## Johannes Pichler's blog about Web Development
+ - [https://fetzi.dev](https://fetzi.dev)
+ - date_published: 2023-11-10T00:00:00+00:00
+
  ## Fine Grained Authorization (FGA) at scale for developers - Auth0
  - [https://fga.dev](https://fga.dev)
  - date_published: 2024-06-27T14:38:58.868294+00:00
@@ -4032,69 +4098,4 @@
  ## peio.dev
  - [https://peio.dev](https://peio.dev)
  - date_published: 2023-06-12T00:00:00+00:00
-
- ## Hey there! · pema.dev
- - [https://pema.dev](https://pema.dev)
- - date_published: 2023-10-25T18:40:45.349933+00:00
-
- ## Home - Emmanuel Raymond's digital garden | Software Developer and Open Source Enthusiast
- - [https://peoray.dev](https://peoray.dev)
- - date_published: 2024-06-23T08:13:26.538813+00:00
-
- ## Vadim Makeev
- - [https://pepelsbey.dev](https://pepelsbey.dev)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## mobile.dev - Maestro, Maestro Studio, Maestro Cloud
- - [https://perf.dev](https://perf.dev)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Perfetto - System profiling, app tracing and trace analysis
- - [https://perfetto.dev](https://perfetto.dev)
- - date_published: 2024-06-17T03:17:39.827314+00:00
-
- ## AI PESTEL Analysis Generator
- - [https://pestel.dev](https://pestel.dev)
- - date_published: 2024-06-19T20:06:47.938107+00:00
-
- ## Petals – Decentralized platform for running large language models
- - [https://chat.petals.dev](https://chat.petals.dev)
- - date_published: 2024-04-30T02:10:54.138729+00:00
-
- ## Petals Health Monitor
- - [https://health.petals.dev](https://health.petals.dev)
- - date_published: 2024-04-30T02:10:53.472594+00:00
-
- ## Petals – Run LLMs at home, BitTorrent-style
- - [https://petals.dev](https://petals.dev)
- - date_published: 2023-10-25T18:40:45.976979+00:00
-
- ## Peter Babič
- - [https://peterbabic.dev](https://peterbabic.dev)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Peter Friese's Blog
- - [https://peterfriese.dev](https://peterfriese.dev)
- - date_published: 2024-06-21T08:29:45+00:00
-
- ## petermolnar.dev - How to become a valuable iOS and macOS developer
- - [https://petermolnar.dev](https://petermolnar.dev)
- - date_published: 2024-06-23T15:31:06.938381+00:00
-
- ## Hi! | Peter Ringset
- - [https://peterringset.dev](https://peterringset.dev)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Florian Pfisterer
- - [https://pfisterer.dev](https://pfisterer.dev)
- - date_published: 2024-01-12T10:31:39.595981+00:00
-
- ## PostgreSQL Development Conference 2024
- - [https://2024.pgconf.dev](https://2024.pgconf.dev)
- - date_published: 2024-06-06T00:09:17+00:00
-
- ## PGJones.dev
- - [https://pgjones.dev](https://pgjones.dev)
- - date_published: 2024-06-01T04:52:10.227878+00:00
- - tags: ['personal']
 

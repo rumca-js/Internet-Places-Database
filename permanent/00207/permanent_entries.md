@@ -1,3 +1,79 @@
+ ## A Cloud Guru
+ - [https://learn.acloud.guru](https://learn.acloud.guru)
+ - date_published: 2024-05-06T23:30:20.835016+00:00
+
+ ## Blog
+ - [https://read.acloud.guru](https://read.acloud.guru)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## ads.txt Guru - Manage, validate, collaborate
+ - [https://adstxt.guru](https://adstxt.guru)
+ - date_published: 2024-06-25T22:06:54.811252+00:00
+
+ ## System Dashboard - Issue Tracker
+ - [https://projects.codebase.guru](https://projects.codebase.guru)
+ - date_published: 2024-07-16T23:19:16.206607+00:00
+
+ ## Crontab.guru - The cron schedule expression generator
+ - [https://crontab.guru](https://crontab.guru)
+ - date_published: 2024-04-19T18:27:46+00:00
+
+ ## GNU/Linux.guru
+ - [https://gnulinux.guru](https://gnulinux.guru)
+ - date_published: 2024-06-19T22:51:01.045633+00:00
+
+ ## Jak se naučit programovat a získat první práci v IT
+ - [https://junior.guru](https://junior.guru)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [http://ludwig.guru](http://ludwig.guru)
+ - date_published: 2024-07-02T06:26:07.870870+00:00
+
+ ## Luxury Hotels Guru
+ - [https://luxury-hotels.guru](https://luxury-hotels.guru)
+ - date_published: 2024-07-09T08:06:06.949885+00:00
+
+ ## Maze Guru
+ - [https://maze.guru](https://maze.guru)
+ - date_published: 2024-06-14T09:25:30+00:00
+
+ ## Drive: The SciFi Comic
+ - [https://drive.mcb.guru](https://drive.mcb.guru)
+ - date_published: 2023-05-31T08:09:45+00:00
+
+ ## Nightcap Guru
+ - [https://www.nightcap.guru](https://www.nightcap.guru)
+ - date_published: 2023-10-25T19:27:52.113533+00:00
+
+ ## 🌎 International / Refactoring.Guru
+ - [https://feedback.refactoring.guru](https://feedback.refactoring.guru)
+ - date_published: 2024-07-14T11:44:46.794719+00:00
+
+ ## Refactoring and Design Patterns
+ - [https://refactoring.guru](https://refactoring.guru)
+ - date_published: 2024-05-11T05:41:08.552259+00:00
+
+ ## Spring Framework Guru - Spring Framework Guru
+ - [https://springframework.guru](https://springframework.guru)
+ - date_published: 2024-04-29T05:57:20.691959+00:00
+
+ ## SuperMemo Guru - supermemo.guru
+ - [https://supermemo.guru](https://supermemo.guru)
+ - date_published: 2024-01-09T03:31:47.346129+00:00
+
+ ## Tenders Guru
+ - [https://tenders.guru](https://tenders.guru)
+ - date_published: 2024-06-22T21:58:12.566661+00:00
+
+ ## tilde.guru
+ - [https://tilde.guru](https://tilde.guru)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Watcher Guru - Fastest Finance & Crypto News
+ - [https://watcher.guru](https://watcher.guru)
+ - date_published: 2023-10-25T19:27:53.247909+00:00
+
  ## Ian Wold | Software Engineer, Architect, and Team Leader
  - [https://ian.wold.guru](https://ian.wold.guru)
  - date_published: 2024-04-03T12:49:01.199465+00:00
@@ -3942,80 +4018,4 @@
  ## PC és konzol videojáték webáruház • Play 24/7
  - [http://play247.hu](http://play247.hu)
  - date_published: 2024-06-17T05:42:05.795450+00:00
-
- ## A férfi legjobb oldala.
- - [https://playermedia.hu](https://playermedia.hu)
- - date_published: 2024-06-28T19:34:23.480231+00:00
-
- ## pocketbook
- - [https://pocketbook.hu](https://pocketbook.hu)
- - date_published: 2024-07-20T16:12:36.332634+00:00
-
- ## Porsche Webshop
- - [https://shop.porsche.hu](https://shop.porsche.hu)
- - date_published: 2024-06-28T19:34:25.876217+00:00
-
- ## Porsche Centrum Budapest
- - [https://porsche.hu](https://porsche.hu)
- - date_published: 2024-05-06T23:43:06.373487+00:00
-
- ## PRAE.HU - a művészeti portál
- - [http://www.prae.hu](http://www.prae.hu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Index - Prima Primissima
- - [http://primissima.hu](http://primissima.hu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Prolan Irányítástechnikai Zrt. Prolan Cégcsoport
- - [https://www.prolan.hu](https://www.prolan.hu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Quantum Mirror | Főoldal
- - [http://quantum-mirror.hu](http://quantum-mirror.hu)
- - date_published: 2024-05-16T10:59:54+00:00
-
- ## Ratz Tanár Úr Életműdíj
- - [http://www.ratztanarurdij.hu](http://www.ratztanarurdij.hu)
- - date_published: 2024-06-30T03:01:11.192811+00:00
-
- ## REFRESHER - A modern generáció hangja
- - [https://refresher.hu](https://refresher.hu)
- - date_published: 2024-07-01T10:25:30.362543+00:00
-
- ## |related| - Admin
- - [https://admin.related.hu](https://admin.related.hu)
- - date_published: 2024-06-25T22:25:22.763229+00:00
-
- ## |related|Intelligent content recommendation and native advertising system
- - [https://related.hu](https://related.hu)
- - date_published: 2024-05-06T17:57:35.074332+00:00
-
- ## rentIT - the eventIT company, since 1996. - rentIT
- - [https://www.rentit.hu](https://www.rentit.hu)
- - date_published: 2024-06-22T09:18:08.494504+00:00
-
- ## Rényi Alfréd Matematikai Kutatóintézet
- - [http://www.renyi.hu](http://www.renyi.hu)
- - date_published: 2024-07-01T06:17:14.467739+00:00
-
- ## Repropress.hu
- - [https://repropress.hu](https://repropress.hu)
- - date_published: 2024-06-20T07:16:04.422902+00:00
-
- ## restu.hu
- - [https://www.restu.hu](https://www.restu.hu)
- - date_published: 2024-07-03T20:04:41.134515+00:00
-
- ## ReTRoTiMe | << Retro számítógépek és konzolok lelőhelye és információs bázisa >>
- - [http://www.retrotime.hu](http://www.retrotime.hu)
- - date_published: 2024-07-08T19:38:18.594519+00:00
-
- ## Ringier
- - [https://ringier.hu](https://ringier.hu)
- - date_published: 2024-06-20T07:16:30.504189+00:00
-
- ## Ringier B2B - A Ringier Hungary hivatalos hirdetésértékesítési honlapja
- - [https://ringierb2b.hu](https://ringierb2b.hu)
- - date_published: 2024-06-20T07:16:39.082649+00:00
 

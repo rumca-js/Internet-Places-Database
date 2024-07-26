@@ -1,3 +1,7 @@
+ ## DecisionMentor – Let us be your decision making compass.
+ - [https://decisionmentor.app](https://decisionmentor.app)
+ - date_published: 2024-06-19T20:39:15.865331+00:00
+
  ## deploybot
  - [https://deploybot.app](https://deploybot.app)
  - date_published: 2024-05-06T09:18:30.757531+00:00
@@ -1592,6 +1596,10 @@
  ## Plausible · Web analytics
  - [https://analytics.mxroute.app](https://analytics.mxroute.app)
  - date_published: 2024-06-16T09:48:43.001702+00:00
+
+ ## myaffinity – myaffinity
+ - [https://myaffinity.app](https://myaffinity.app)
+ - date_published: 2024-07-25T18:11:48.493939+00:00
 
  ## MyBudgetCoach
  - [http://www.mybudgetcoach.app](http://www.mybudgetcoach.app)
@@ -4033,12 +4041,4 @@
  ## Write a Thank You Note - ThankYouNote.app
  - [https://thankyounote.app](https://thankyounote.app)
  - date_published: 2022-08-16T21:00:27+00:00
-
- ## thechat.app - Decentralized Web3 group chat
- - [https://thechat.app](https://thechat.app)
- - date_published: 2024-06-21T20:22:20.499267+00:00
-
- ## The Companion
- - [https://www.thecompanion.app](https://www.thecompanion.app)
- - date_published: 2023-10-25T11:49:20.174746+00:00
 

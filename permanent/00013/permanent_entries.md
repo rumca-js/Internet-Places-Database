@@ -1,3 +1,19 @@
+ ## Canada and the world | Canada et le monde
+ - [https://www.canadainternational.gc.ca](https://www.canadainternational.gc.ca)
+ - date_published: 2017-06-01T00:00:00+00:00
+
+ ## Canadian Biodiversity Information Facility (CBIF) - agriculture.canada.ca
+ - [http://www.cbif.gc.ca](http://www.cbif.gc.ca)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
+ - [https://www.census.gc.ca](https://www.census.gc.ca)
+ - date_published: 2024-07-10T17:16:03+00:00
+
+ ## Immigration, Refugees and Citizenship Canada | Immigration, Réfugiés et Citoyenneté Canada
+ - [https://cic.gc.ca](https://cic.gc.ca)
+ - date_published: 2013-12-13T00:00:00+00:00
+
  ## Canadian Institutes of Health Research / Instituts de recherche en santé du Canada
  - [http://www.cihr-irsc.gc.ca](http://www.cihr-irsc.gc.ca)
  - date_published: 2019-11-27T02:31:38+00:00
@@ -4010,20 +4026,4 @@
  ## Online
  - [https://ebusiness.arabbank.ch](https://ebusiness.arabbank.ch)
  - date_published: 2024-07-21T06:37:45.541945+00:00
-
- ## ARAB BANK
- - [https://www.arabbank.ch](https://www.arabbank.ch)
- - date_published: 2024-04-30T05:58:29.461071+00:00
-
- ## Archimaster – Promouvoir les projets des étudiant·e·x·s en Master en architecture de l'ENAC – EPFL
- - [https://archimaster.ch](https://archimaster.ch)
- - date_published: 2024-05-12T07:15:11.247684+00:00
-
- ## Accueil – Architecture Suisse
- - [https://architecturesuisse.ch](https://architecturesuisse.ch)
- - date_published: 2024-06-14T15:27:49.944117+00:00
-
- ## Archivista
- - [https://archivista.ch](https://archivista.ch)
- - date_published: 2021-01-14T00:38:18+00:00
 

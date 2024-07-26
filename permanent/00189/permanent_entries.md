@@ -1,3 +1,63 @@
+ ## Home | Math Courses
+ - [https://courses.math.uconn.edu](https://courses.math.uconn.edu)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Home | Connecticut Small Business Development Center
+ - [https://ctsbdc.uconn.edu](https://ctsbdc.uconn.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home | Daigle Labs
+ - [https://daiglelabs.business.uconn.edu](https://daiglelabs.business.uconn.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Digital Frontiers Initiative | UConn School of Business
+ - [https://digitalfrontiers.business.uconn.edu](https://digitalfrontiers.business.uconn.edu)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Office of Diversity Initiatives | UConn School of Business
+ - [http://diversity.business.uconn.edu](http://diversity.business.uconn.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Entrepreneurship Bootcamp for Veterans | Connecticut Center for Entrepreneurship and Innovation
+ - [http://ebv.business.uconn.edu](http://ebv.business.uconn.edu)
+ - date_published: 2017-07-19T16:10:27+00:00
+
+ ## Home | Office of Institutional Equity
+ - [http://equity.uconn.edu](http://equity.uconn.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## UConn Calendar
+ - [https://events.uconn.edu](https://events.uconn.edu)
+ - date_published: 2024-06-27T17:02:56+00:00
+
+ ## New Home | Faculty & Staff
+ - [https://facultystaff.uconn.edu](https://facultystaff.uconn.edu)
+ - date_published: 2024-07-01T21:49:56+00:00
+
+ ## FERPA Manager
+ - [https://ferpamanager.uconn.edu](https://ferpamanager.uconn.edu)
+ - date_published: 2024-07-01T23:19:15.523206+00:00
+
+ ## Home | UConn Finance Department - School of Business
+ - [http://finance.business.uconn.edu](http://finance.business.uconn.edu)
+ - date_published: 2024-07-01T23:23:37+00:00
+
+ ## Graduate Programs in Financial Technology (FinTech)
+ - [https://fintech.business.uconn.edu](https://fintech.business.uconn.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## UConn Global Business Programs | School of Business
+ - [http://global.business.uconn.edu](http://global.business.uconn.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## HOME | Global Affairs
+ - [https://global.uconn.edu](https://global.uconn.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home | Goldenson Center
+ - [https://goldensoncenter.uconn.edu](https://goldensoncenter.uconn.edu)
+ - date_published: 2024-07-20T00:00:00+00:00
+
  ## Graduate Business Programs | Graduate Programs
  - [https://grad.business.uconn.edu](https://grad.business.uconn.edu)
  - date_published: 2024-05-14T00:00:00+00:00
@@ -3941,64 +4001,4 @@
  ## ICON - Research UH
  - [https://icon.research.uh.edu](https://icon.research.uh.edu)
  - date_published: 2021-11-03T15:11:24+00:00
-
- ## University of Houston Libraries
- - [https://info.lib.uh.edu](https://info.lib.uh.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Home | Innovation & Entrepreneurship
- - [https://innovate.egr.uh.edu](https://innovate.egr.uh.edu)
- - date_published: 2024-07-02T02:36:03.460056+00:00
-
- ## Welcome to the Cullen College of Engineering Intranet | Cullen College of Engineering Intranet
- - [https://intranet.egr.uh.edu](https://intranet.egr.uh.edu)
- - date_published: 2024-07-02T02:36:18.001845+00:00
-
- ## University of Houston Libraries
- - [https://libraries.uh.edu](https://libraries.uh.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Department of Mathematics
- - [http://math.uh.edu](http://math.uh.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## University of Houston Cullen College of Engineering Virtual Learning and Online Programs
- - [https://onlinelearning.egr.uh.edu](https://onlinelearning.egr.uh.edu)
- - date_published: 2024-07-02T02:36:01.945002+00:00
-
- ## Home | PROMES
- - [https://promes.egr.uh.edu](https://promes.egr.uh.edu)
- - date_published: 2024-07-02T02:36:13.206087+00:00
-
- ## University of Houston - Acalog ACMS™
- - [https://publications.uh.edu](https://publications.uh.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home | Research Computing
- - [http://researchcomputing.egr.uh.edu](http://researchcomputing.egr.uh.edu)
- - date_published: 2024-07-02T02:36:16.654548+00:00
-
- ## UH Division of Research
- - [https://research.uh.edu](https://research.uh.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Home | Research Experience for Undergraduates
- - [https://reu.egr.uh.edu](https://reu.egr.uh.edu)
- - date_published: 2024-07-02T02:36:19.503622+00:00
-
- ## University of Houston
- - [https://ssl.uh.edu](https://ssl.uh.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Home | St. Elmo Brady
- - [https://stelmobrady.egr.uh.edu](https://stelmobrady.egr.uh.edu)
- - date_published: 2024-07-02T02:36:20.792883+00:00
-
- ## Stories - University of Houston
- - [https://stories.uh.edu](https://stories.uh.edu)
- - date_published: 2021-12-16T07:14:57+00:00
-
- ## UA Digital Library
- - [https://uastories.uh.edu](https://uastories.uh.edu)
- - date_published: 2024-07-02T02:26:07.814624+00:00
 

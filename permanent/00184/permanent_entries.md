@@ -1,3 +1,67 @@
+ ## Hoover Library: Hoover Library - homepage: Home
+ - [https://lib.hoover.mcdaniel.edu](https://lib.hoover.mcdaniel.edu)
+ - date_published: 2024-07-04T13:15:43.118209+00:00
+
+ ## Redirect
+ - [http://www2.mcdaniel.edu](http://www2.mcdaniel.edu)
+ - date_published: 2014-07-21T15:22:22+00:00
+
+ ## Events Calendar
+ - [https://calendar.mdc.edu](https://calendar.mdc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Index Page
+ - [https://cs.mdc.edu](https://cs.mdc.edu)
+ - date_published: 2024-01-11T06:32:01+00:00
+
+ ## FAQ – Frequently Asked Questions
+ - [https://faq.mdc.edu](https://faq.mdc.edu)
+ - date_published: 2024-05-07T19:31:38.316870+00:00
+
+ ## Miami Dade College Alumni Association Website
+ - [https://foundation.mdc.edu](https://foundation.mdc.edu)
+ - date_published: 2024-05-07T19:31:14.312990+00:00
+
+ ## MDConnect | Miami Dade College
+ - [https://mdconnect.mdc.edu](https://mdconnect.mdc.edu)
+ - date_published: 2024-05-07T19:31:36.053490+00:00
+
+ ## Sign In
+ - [https://mycourses.mdc.edu](https://mycourses.mdc.edu)
+ - date_published: 2024-05-07T19:31:45.603581+00:00
+
+ ## Student Portal | Miami Dade College
+ - [https://my.mdc.edu](https://my.mdc.edu)
+ - date_published: 2024-05-07T19:31:50.148259+00:00
+
+ ## Sign In
+ - [https://myoffice.mdc.edu](https://myoffice.mdc.edu)
+ - date_published: 2024-07-01T01:39:41.142189+00:00
+
+ ## MDC News
+ - [https://news.mdc.edu](https://news.mdc.edu)
+ - date_published: 2024-05-07T19:31:52.213450+00:00
+
+ ## NWSA | Miami Dade College
+ - [https://nwsa.mdc.edu](https://nwsa.mdc.edu)
+ - date_published: 2024-05-07T19:31:20.975929+00:00
+
+ ## Sign In
+ - [http://orientation.mdc.edu](http://orientation.mdc.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## - SharkNet
+ - [https://sharknet.mdc.edu](https://sharknet.mdc.edu)
+ - date_published: 2024-05-07T19:32:02.286290+00:00
+
+ ## Official Miami Dade College Homepage
+ - [https://mdc.edu](https://mdc.edu)
+ - date_published: 2023-10-25T11:22:46.236242+00:00
+
+ ## Maine College of Art & Design
+ - [https://meca.edu](https://meca.edu)
+ - date_published: 2024-06-01T00:00:00+00:00
+
  ## Middle East Institute
  - [https://www.mei.edu](https://www.mei.edu)
  - date_published: 2024-06-28T19:51:11+00:00
@@ -3940,68 +4004,4 @@
  ## Unidos. United.
  - [https://united.nmsu.edu](https://united.nmsu.edu)
  - date_published: 2024-07-01T16:14:39.219518+00:00
-
- ## NMSU Account Maintenance: Forgot Your NMSU Username?
- - [https://username.nmsu.edu](https://username.nmsu.edu)
- - date_published: 2024-07-01T16:13:02.988965+00:00
-
- ## Valencia County Extension Office Home
- - [https://valenciaextension.nmsu.edu](https://valenciaextension.nmsu.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Sign in to your account
- - [https://web.nmsu.edu](https://web.nmsu.edu)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Home
- - [https://wellness.nmsu.edu](https://wellness.nmsu.edu)
- - date_published: 2024-07-01T16:13:30.931649+00:00
-
- ## APO Home Page
- - [http://www.apo.nmsu.edu](http://www.apo.nmsu.edu)
- - date_published: 2024-02-19T18:26:46+00:00
-
- ## Untitled Document
- - [https://www.cs.nmsu.edu](https://www.cs.nmsu.edu)
- - date_published: 2024-06-03T06:27:56.289531+00:00
-
- ## New Mexico Department of Agriculture
- - [https://www.nmda.nmsu.edu](https://www.nmda.nmsu.edu)
- - date_published: 2024-07-01T16:17:05.007421+00:00
-
- ## Science | Engineering | Research Institution: New Mexico Tech
- - [https://www.nmt.edu](https://www.nmt.edu)
- - date_published: 2024-07-10T02:21:10.148262+00:00
-
- ## About the EPIC | EarthScope Primary Instrument Center
- - [https://passcal.nmt.edu](https://passcal.nmt.edu)
- - date_published: 2024-05-09T07:09:20.926833+00:00
-
- ## NMU EduCat™
- - [https://educat.nmu.edu](https://educat.nmu.edu)
- - date_published: 2024-07-04T02:23:59.431864+00:00
-
- ## Home | NMU Events and Announcements
- - [https://events.nmu.edu](https://events.nmu.edu)
- - date_published: 2024-07-03T07:10:54+00:00
-
- ## Home | NMU Foundation
- - [https://foundation.nmu.edu](https://foundation.nmu.edu)
- - date_published: 2024-07-03T07:08:00+00:00
-
- ## Home - Invent@NMU
- - [http://invent.nmu.edu](http://invent.nmu.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home | Northern Today
- - [https://news.nmu.edu](https://news.nmu.edu)
- - date_published: 2024-07-03T17:49:14+00:00
-
- ## Northern Michigan University Jobs - Recent Jobs
- - [https://workatnmu.nmu.edu](https://workatnmu.nmu.edu)
- - date_published: 2024-07-04T02:24:07.190360+00:00
-
- ## Public University in Michigan | Northern Michigan University
- - [https://nmu.edu](https://nmu.edu)
- - date_published: 2024-05-08T04:30:43.607589+00:00
 

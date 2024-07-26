@@ -1,3 +1,63 @@
+ ## Positive Psychology Center Online Research Program - University of Pennsylvania
+ - [http://www.ppresearch.sas.upenn.edu](http://www.ppresearch.sas.upenn.edu)
+ - date_published: 2024-05-31T15:15:32+00:00
+
+ ## Home | Division of Public Safety
+ - [https://www.publicsafety.upenn.edu](https://www.publicsafety.upenn.edu)
+ - date_published: 2024-05-07T21:58:02.917615+00:00
+
+ ## University of Pennsylvania - School of Arts & Sciences | School of Arts and Sciences - University of Pennsylvania
+ - [https://www.sas.upenn.edu](https://www.sas.upenn.edu)
+ - date_published: 2024-05-07T21:59:07.813368+00:00
+
+ ## Home - School of Social Policy & Practice
+ - [https://www.sp2.upenn.edu](https://www.sp2.upenn.edu)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Penn Sustainability - Homepage
+ - [http://www.sustainability.upenn.edu](http://www.sustainability.upenn.edu)
+ - date_published: 2024-06-20T18:28:38+00:00
+
+ ## The Wharton School
+ - [https://www.wharton.upenn.edu](https://www.wharton.upenn.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## XCAT
+ - [https://xcat.at.upenn.edu](https://xcat.at.upenn.edu)
+ - date_published: 2024-04-25T20:16:39+00:00
+
+ ## adAS SSO | Servei de Single Sign-On
+ - [https://aula.esci.upf.edu](https://aula.esci.upf.edu)
+ - date_published: 2024-07-02T10:36:30.476095+00:00
+
+ ## CAU - Centre d'atenció a l'usuari
+ - [https://cau.upf.edu](https://cau.upf.edu)
+ - date_published: 2024-07-02T10:45:27.965294+00:00
+
+ ## UPF Barcelona School Of Management
+ - [https://esecretaria.bsm.upf.edu](https://esecretaria.bsm.upf.edu)
+ - date_published: 2024-07-02T10:44:13.663452+00:00
+
+ ## Eventum UPF - Universitat Pompeu Fabra
+ - [https://eventum.upf.edu](https://eventum.upf.edu)
+ - date_published: 2024-05-07T21:59:39.642924+00:00
+
+ ## Guia d'experts (UPF)
+ - [https://experts.upf.edu](https://experts.upf.edu)
+ - date_published: 2024-05-07T21:59:23.870726+00:00
+
+ ## Redirigiendo ...
+ - [https://gestioacademicavirtual.esci.upf.edu](https://gestioacademicavirtual.esci.upf.edu)
+ - date_published: 2021-10-21T10:18:42+00:00
+
+ ## Guies BibTIC
+ - [https://guiesbibtic.upf.edu](https://guiesbibtic.upf.edu)
+ - date_published: 2024-07-02T10:45:26.288103+00:00
+
+ ## Mercat del Peix -  Biomedicina, biodiversitat i benestar planetari
+ - [https://mercatdelpeix.upf.edu](https://mercatdelpeix.upf.edu)
+ - date_published: 2024-05-07T21:59:41.536947+00:00
+
  ## Micromégas
  - [https://micromegas.bsm.upf.edu](https://micromegas.bsm.upf.edu)
  - date_published: 2024-07-02T10:44:18.673006+00:00
@@ -3939,64 +3999,4 @@
  ## Welcome to the VCU Bulletins website! < Virginia Commonwealth University
  - [http://bulletin.vcu.edu](http://bulletin.vcu.edu)
  - date_published: 2024-06-24T15:39:05+00:00
-
- ## Commitment to Privacy
- - [https://business.vcu.edu](https://business.vcu.edu)
- - date_published: 2024-07-02T12:58:11.412610+00:00
-
- ## VCU Office of Development and Alumni Relations
- - [https://campaign.vcu.edu](https://campaign.vcu.edu)
- - date_published: 2024-05-07T22:22:21.007981+00:00
-
- ## Commitment to Privacy
- - [http://canvas.vcu.edu](http://canvas.vcu.edu)
- - date_published: 2024-06-16T06:31:22.427258+00:00
-
- ## Commitment to Privacy
- - [https://careconnections.vcu.edu](https://careconnections.vcu.edu)
- - date_published: 2024-07-02T12:58:25.347394+00:00
-
- ## Commitment to Privacy
- - [https://careers.vcu.edu](https://careers.vcu.edu)
- - date_published: 2024-07-02T12:50:30.757412+00:00
-
- ## Commitment to Privacy
- - [https://care.vcu.edu](https://care.vcu.edu)
- - date_published: 2024-07-02T12:49:42.345629+00:00
-
- ## Service Categories | IT Catalog | Virginia Commonwealth University
- - [https://catalog.ts.vcu.edu](https://catalog.ts.vcu.edu)
- - date_published: 2024-07-02T12:58:43.710035+00:00
-
- ## Biological Data Science
- - [https://cbds.vcu.edu](https://cbds.vcu.edu)
- - date_published: 2023-11-08T00:00:00+00:00
-
- ## Commitment to Privacy
- - [https://ccep.vcu.edu](https://ccep.vcu.edu)
- - date_published: 2024-07-02T12:41:47.862491+00:00
-
- ## Commitment to Privacy
- - [https://cctr.vcu.edu](https://cctr.vcu.edu)
- - date_published: 2024-07-02T12:46:20.505893+00:00
-
- ## Commitment to Privacy
- - [https://cdc.soe.vcu.edu](https://cdc.soe.vcu.edu)
- - date_published: 2024-07-02T12:59:13.061276+00:00
-
- ## Commitment to Privacy
- - [https://cdl.partnership.vcu.edu](https://cdl.partnership.vcu.edu)
- - date_published: 2024-07-02T12:46:27.640824+00:00
-
- ## Commitment to Privacy
- - [https://ce.dentistry.vcu.edu](https://ce.dentistry.vcu.edu)
- - date_published: 2024-07-02T12:48:34.986360+00:00
-
- ## Commitment to Privacy
- - [https://cepi.vcu.edu](https://cepi.vcu.edu)
- - date_published: 2024-07-02T12:45:24.857445+00:00
-
- ## VCU Center for Environmental Studies – ENVS
- - [https://ces.vcu.edu](https://ces.vcu.edu)
- - date_published: 2023-10-26T00:00:00+00:00
 

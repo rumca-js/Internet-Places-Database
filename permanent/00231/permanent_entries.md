@@ -1,3 +1,85 @@
+ ## bin.muhh.lol
+ - [https://bin.muhh.lol](https://bin.muhh.lol)
+ - date_published: 2024-06-21T22:06:01.453187+00:00
+
+ ## Markus Heurung - muhh internet happy place
+ - [https://muhh.lol](https://muhh.lol)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Markus Heurung
+ - [https://omg.muhh.lol](https://omg.muhh.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## @muhh’s statuslog
+ - [https://status.muhh.lol](https://status.muhh.lol)
+ - date_published: 2024-06-21T22:05:47.843564+00:00
+
+ ## Musicfy AI - AI Voice Song Generator
+ - [https://www.musicfy.lol](https://www.musicfy.lol)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## My daughter (7 years old) used HTML to make a website
+ - [https://naya.lol](https://naya.lol)
+ - date_published: 2024-07-18T06:24:51+00:00
+
+ ## Umami
+ - [https://analytics.noted.lol](https://analytics.noted.lol)
+ - date_published: 2024-05-19T02:58:14.295590+00:00
+
+ ## Noted - Self Hosted App and Product Reviews
+ - [https://noted.lol](https://noted.lol)
+ - date_published: 2023-10-25T20:19:04.323466+00:00
+ - tags: ['self-host', 'tech news']
+
+ ## nyan.lol
+ - [https://nyan.lol](https://nyan.lol)
+ - date_published: 2024-06-23T17:14:28.374272+00:00
+
+ ## Ace Attorney Objection Maker
+ - [https://objection.lol](https://objection.lol)
+ - date_published: 2023-09-23T21:30:19+00:00
+
+ ## oh!
+ - [https://oht.lol](https://oht.lol)
+ - date_published: 2024-01-05T01:03:59.045589+00:00
+
+ ## omg, lol, it’s Adam!
+ - [https://adam.omg.lol](https://adam.omg.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## @amerpie
+ - [https://amerpie.omg.lol](https://amerpie.omg.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+ - tags: ['personal']
+
+ ## omg.lol - An amazing API for an amazing service
+ - [https://api.omg.lol](https://api.omg.lol)
+ - date_published: 2023-01-29T00:00:00+00:00
+
+ ## Kyle Reddoch's (aka BeardedTechGuy) Social Page
+ - [https://beardedtechguy.omg.lol](https://beardedtechguy.omg.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## BinaryDigit
+ - [https://binarydigit.omg.lol](https://binarydigit.omg.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## @bsag
+ - [https://bsag.omg.lol](https://bsag.omg.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## @canion
+ - [https://canion.omg.lol](https://canion.omg.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## @cv
+ - [https://cv.omg.lol](https://cv.omg.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## dmc
+ - [https://dmc.omg.lol](https://dmc.omg.lol)
+ - date_published: 2024-05-07T23:25:17.373109+00:00
+
  ## @dm
  - [https://dm.omg.lol](https://dm.omg.lol)
  - date_published: 2023-12-22T17:51:15.360780+00:00
@@ -3950,86 +4032,4 @@
  ## Home
  - [https://andrewshay.me](https://andrewshay.me)
  - date_published: 2024-03-02T00:00:00+00:00
-
- ## Oliver Andrich
- - [https://andrich.me](https://andrich.me)
- - date_published: 2024-06-09T14:02:14+00:00
-
- ## Andy Chung
- - [https://andychung.me](https://andychung.me)
- - date_published: 2024-05-09T06:17:38.494955+00:00
-
- ## Andy Davies – Web Performance Consultant
- - [https://andydavies.me](https://andydavies.me)
- - date_published: 2022-02-02T14:58:59+00:00
-
- ## Andy Fang
- - [https://andyfang.me](https://andyfang.me)
- - date_published: 2022-10-16T16:44:21+00:00
-
- ## Dezhi “Andy” Fang | Resume
- - [https://cv.andyfang.me](https://cv.andyfang.me)
- - date_published: 2024-06-08T02:34:25+00:00
-
- ## Andy Pan
- - [https://andypan.me](https://andypan.me)
- - date_published: 2024-07-11T02:12:03+00:00
-
- ## Developer and ninja
- - [https://angelguerra.me](https://angelguerra.me)
- - date_published: 2024-05-11T10:18:18.758367+00:00
-
- ## Anime Corner - News & Features Straight From Japan
- - [https://animecorner.me](https://animecorner.me)
- - date_published: 2023-10-25T14:21:05.794363+00:00
- - tags: ['manga', 'anime', 'news']
-
- ## Home - Anime Corner Polls
- - [https://polls.animecorner.me](https://polls.animecorner.me)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Anime Corner - News & Features Straight From Japan
- - [https://static.animecorner.me](https://static.animecorner.me)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## annema.me
- - [https://annema.me](https://annema.me)
- - date_published: 2024-06-23T15:33:11.970742+00:00
-
- ## Annwan
- - [https://www.annwan.me](https://www.annwan.me)
- - date_published: 2024-03-24T21:26:35+00:00
- - tags: ['personal']
-
- ## 100 days
- - [https://100.antfu.me](https://100.antfu.me)
- - date_published: 2024-05-11T07:23:24.912503+00:00
-
- ## Anthony Fu
- - [https://antfu.me](https://antfu.me)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Join the Anthony's Discord Server!
- - [https://chat.antfu.me](https://chat.antfu.me)
- - date_published: 2024-05-11T07:23:26.667031+00:00
-
- ## Clinical Trial Patient Recruitment | Antidote
- - [https://antidote.me](https://antidote.me)
- - date_published: 2024-05-07T14:16:40.223396+00:00
-
- ## Alex Antoszek
- - [https://antoszek.me](https://antoszek.me)
- - date_published: 2024-01-26T22:23:22.004154+00:00
-
- ## A Pirate Life for Michael
- - [https://apiratelifefor.me](https://apiratelifefor.me)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## aplet.me
- - [https://aplet.me](https://aplet.me)
- - date_published: 2024-07-23T23:13:43.637516+00:00
-
- ## Appventure
- - [https://appventure.me](https://appventure.me)
- - date_published: 2020-06-17T00:00:00+00:00
 

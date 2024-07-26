@@ -1,3 +1,133 @@
+ ## Vending Machine Route Management Software - VendSoft
+ - [https://www.vendsoft.com](https://www.vendsoft.com)
+ - date_published: 2024-06-07T07:55:00+00:00
+
+ ## Cierpliwości...
+ - [https://veneta.com](https://veneta.com)
+ - date_published: 2024-05-11T11:07:30.910610+00:00
+
+ ## Felipe Venetiglio
+ - [https://venetiglio.com](https://venetiglio.com)
+ - date_published: 2024-04-15T14:58:58.285993+00:00
+ - tags: ['interesting cookie banner', 'personal']
+
+ ## Home - Venezuelanalysis
+ - [https://venezuelanalysis.com](https://venezuelanalysis.com)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Venezuela Star | National Venezuela & International News
+ - [http://www.venezuelastar.com](http://www.venezuelastar.com)
+ - date_published: 2024-07-13T22:48:22.477782+00:00
+
+ ## Venkat's Blog
+ - [http://venkat2811.com](http://venkat2811.com)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Venkatesh Rao: Consulting and Writing
+ - [https://venkateshrao.com](https://venkateshrao.com)
+ - date_published: 2024-04-28T04:54:52.338136+00:00
+
+ ## Venmo
+ - [https://help.venmo.com](https://help.venmo.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Venmo - Share Payments
+ - [https://venmo.com](https://venmo.com)
+ - date_published: 2024-05-01T00:32:12.097988+00:00
+
+ ## Venngage | Professional Infographic Maker | 10,000+ Templates
+ - [https://ar.venngage.com](https://ar.venngage.com)
+ - date_published: 2024-07-14T13:27:49.578378+00:00
+
+ ## Venngage Careers
+ - [https://careers.venngage.com](https://careers.venngage.com)
+ - date_published: 2024-07-14T13:27:55.206073+00:00
+
+ ## latest
+ - [https://cdn.venngage.com](https://cdn.venngage.com)
+ - date_published: 2020-07-07T16:35:24+00:00
+
+ ## Venngage | Professional Infographic Maker | 10,000+ Templates
+ - [https://de.venngage.com](https://de.venngage.com)
+ - date_published: 2024-07-14T13:27:52.062106+00:00
+
+ ## Venngage | Crea Infografías Gratis | Más de 10.000 Plantillas
+ - [https://es.venngage.com](https://es.venngage.com)
+ - date_published: 2024-07-14T13:28:04.862542+00:00
+
+ ## Venngage | Professional Infographic Maker | 10,000+ Templates
+ - [https://fr.venngage.com](https://fr.venngage.com)
+ - date_published: 2024-07-14T13:28:00.256135+00:00
+
+ ## Venngage Knowledge Base
+ - [https://help.venngage.com](https://help.venngage.com)
+ - date_published: 2024-07-14T13:28:02.670424+00:00
+
+ ## Create Infographic - Sign in
+ - [https://infograph.venngage.com](https://infograph.venngage.com)
+ - date_published: 2024-07-14T13:27:54.217809+00:00
+
+ ## Venngage | Professional Infographic Maker | 10,000+ Templates
+ - [https://it.venngage.com](https://it.venngage.com)
+ - date_published: 2024-07-14T13:27:47.044894+00:00
+
+ ## Venngage | Criador de infográficos Gratuito | Mais de 10.000 modelos
+ - [https://pt.venngage.com](https://pt.venngage.com)
+ - date_published: 2024-07-14T13:27:58.153758+00:00
+
+ ## Venngage | Professional Infographic Maker | 10,000+ Templates
+ - [https://venngage.com](https://venngage.com)
+ - date_published: 2024-07-14T13:27:42.958726+00:00
+
+ ## Comprar Camisetas de fútbol baratas en línea Tienda Fábrica
+ - [https://www.ventafutbol.com](https://www.ventafutbol.com)
+ - date_published: 2024-06-28T11:49:42.122614+00:00
+
+ ## RISC-V® Performance Leader - Ventana Micro Systems
+ - [https://www.ventanamicro.com](https://www.ventanamicro.com)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Ventis Media - Online Music Sales solutions
+ - [https://ventismedia.com](https://ventismedia.com)
+ - date_published: 2023-08-14T17:16:58+00:00
+
+ ## VentiVerse™
+ - [https://ventiverse.com](https://ventiverse.com)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Accounts
+ - [https://checkout.ventrata.com](https://checkout.ventrata.com)
+ - date_published: 2024-07-04T04:55:58.483341+00:00
+
+ ## Jeffrey Ventrella
+ - [https://ventrella.com](https://ventrella.com)
+ - date_published: 2024-04-19T21:19:50+00:00
+ - tags: ['personal']
+
+ ## Ventura Spirits | Craft Spirits from Ventura, CA
+ - [https://venturaspirits.com](https://venturaspirits.com)
+ - date_published: 2024-06-29T10:06:37.538419+00:00
+
+ ## Leasing premium domains to help startups
+ - [https://venture.com](https://venture.com)
+ - date_published: 2024-05-06T23:28:38.217893+00:00
+
+ ## VentureBeat Events
+ - [https://events.venturebeat.com](https://events.venturebeat.com)
+ - date_published: 2018-03-01T08:24:58+00:00
+
+ ## GamesBeat at The Game Awards - December 12, 2024
+ - [https://gbatgameawards.venturebeat.com](https://gbatgameawards.venturebeat.com)
+ - date_published: 2023-09-21T15:08:08+00:00
+
+ ## GamesBeat Summit 2024 - May 20-21 in Los Angeles
+ - [https://gbs24.venturebeat.com](https://gbs24.venturebeat.com)
+ - date_published: 2023-10-06T19:28:45+00:00
+
+ ## GamesBeat Summit Next 2022
+ - [https://gbsnext.venturebeat.com](https://gbsnext.venturebeat.com)
+ - date_published: 2024-06-27T13:37:29.509910+00:00
+
  ## The AI Impact Tour
  - [https://impact.venturebeat.com](https://impact.venturebeat.com)
  - date_published: 2024-06-27T13:37:17.628136+00:00
@@ -1629,6 +1759,10 @@
  ## Victor Juhasz Illustration – Award winning illustrator, caricaturist, satirist, visual journalist and war artist.
  - [https://victorjuhasz.com](https://victorjuhasz.com)
  - date_published: 2024-07-12T07:38:10.622539+00:00
+
+ ## Splunk On-Call Software Knowledge Base | Support Documentation, Guides and Tutorials
+ - [https://help.victorops.com](https://help.victorops.com)
+ - date_published: 2024-07-25T18:16:28.268740+00:00
 
  ## Splunk On-Call
  - [https://portal.victorops.com](https://portal.victorops.com)
@@ -3906,137 +4040,4 @@
  ## My Vistage
  - [https://my.vistage.com](https://my.vistage.com)
  - date_published: 2024-07-04T12:34:17.952443+00:00
-
- ## Asesoramiento Ejecutivo para CEOs | Vistage España
- - [https://spain.vistage.com](https://spain.vistage.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Home 2023
- - [https://vistage.com](https://vistage.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Private Aviation - Vista Global
- - [https://vistaglobal.com](https://vistaglobal.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Cowles Company
- - [https://cowlesco.vistahrms.com](https://cowlesco.vistahrms.com)
- - date_published: 2024-04-29T05:46:18.738051+00:00
-
- ## MVO Website
- - [https://www.vistana.com](https://www.vistana.com)
- - date_published: 2023-06-20T10:15:24+00:00
-
- ## VistaPrint Official Website: Online Printing Services
- - [https://www.vistaprint.com](https://www.vistaprint.com)
- - date_published: 2024-07-14T16:58:14.446600+00:00
-
- ## Out of Home Advertising | Vistar Media Homepage
- - [https://vistarmedia.com](https://vistarmedia.com)
- - date_published: 2024-06-21T05:41:00+00:00
-
- ## The most complete social media management platform for brands and agencies | Vista Social
- - [https://vistasocial.com](https://vistasocial.com)
- - date_published: 2024-06-15T18:16:08+00:00
-
- ## Vista Forums
- - [https://www.vistax64.com](https://www.vistax64.com)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Now It All Adds Up | Vistex®
- - [https://www.vistex.com](https://www.vistex.com)
- - date_published: 2024-07-08T10:32:50.009233+00:00
-
- ## Home - The Vistria Group
- - [http://www.vistria.com](http://www.vistria.com)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Home
- - [https://advisor.visualcapitalist.com](https://advisor.visualcapitalist.com)
- - date_published: 2013-10-21T14:49:21+00:00
-
- ## Decarbonization Channel by Visual Capitalist and NPUC
- - [https://decarbonization.visualcapitalist.com](https://decarbonization.visualcapitalist.com)
- - date_published: 2021-03-29T14:49:21+00:00
-
- ## Home
- - [https://elements.visualcapitalist.com](https://elements.visualcapitalist.com)
- - date_published: 2021-03-29T14:49:21+00:00
-
- ## Visual Capitalist Licensing – License infographics from Visual Capitalist
- - [https://licensing.visualcapitalist.com](https://licensing.visualcapitalist.com)
- - date_published: 2024-05-07T10:50:16.604094+00:00
-
- ## Home - The Money Project
- - [https://money.visualcapitalist.com](https://money.visualcapitalist.com)
- - date_published: 2024-05-07T10:50:06.565402+00:00
-
- ## The Visual Capitalist Store – Shop the latest merch from Visual Capitalist.
- - [https://store.visualcapitalist.com](https://store.visualcapitalist.com)
- - date_published: 2024-05-07T10:50:14.872253+00:00
-
- ## Visual Capitalist
- - [https://visualcapitalist.com](https://visualcapitalist.com)
- - date_published: 2013-10-21T14:49:21+00:00
- - tags: ['statistics', 'visualisation']
-
- ## Wealth 101
- - [https://wealth.visualcapitalist.com](https://wealth.visualcapitalist.com)
- - date_published: 2024-05-07T10:50:12.576359+00:00
-
- ## VCR: Visual Commonsense Reasoning
- - [https://visualcommonsense.com](https://visualcommonsense.com)
- - date_published: 2024-04-28T05:51:49.079121+00:00
-
- ## Visual C++ .Net programming tutorial: learn step by step C++ .NET programming through program examples and source code samples
- - [https://www.visualcplusdotnet.com](https://www.visualcplusdotnet.com)
- - date_published: 2019-01-31T15:30:08+00:00
-
- ## VisualCron - Windows Scheduling Software and Task Automation |  Task Scheduler Alternative
- - [https://www.visualcron.com](https://www.visualcron.com)
- - date_published: 2024-06-19T20:52:03.360322+00:00
-
- ## Human Verification
- - [https://app.visualcv.com](https://app.visualcv.com)
- - date_published: 2024-06-29T16:51:30.149599+00:00
-
- ## VisualCV Knowledge Base
- - [https://support.visualcv.com](https://support.visualcv.com)
- - date_published: 2024-06-29T16:51:29.164464+00:00
-
- ## VisualCV: Online CV Builder & Professional Resume Maker
- - [https://visualcv.com](https://visualcv.com)
- - date_published: 2024-05-07T13:28:16.289741+00:00
-
- ## VisualDx | Visual Clinical Decision Support System (CDSS)
- - [http://www.visualdx.com](http://www.visualdx.com)
- - date_published: 2024-07-01T20:18:37.777452+00:00
-
- ## Visual Electric
- - [https://blog.visualelectric.com](https://blog.visualelectric.com)
- - date_published: 2024-06-26T23:55:34.554697+00:00
-
- ## Cierpliwości...
- - [https://community.visualelectric.com](https://community.visualelectric.com)
- - date_published: 2024-06-26T23:55:38.801420+00:00
-
- ## Visual Electric
- - [https://visualelectric.com](https://visualelectric.com)
- - date_published: 2024-05-06T20:26:44.459975+00:00
-
- ## Cantonese Fonts
- - [https://docs.visual-fonts.com](https://docs.visual-fonts.com)
- - date_published: 2024-05-07T10:50:02.503160+00:00
-
- ## Visual Fonts
- - [https://forum.visual-fonts.com](https://forum.visual-fonts.com)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## Visual Fonts – Type Good Pictures
- - [https://visual-fonts.com](https://visual-fonts.com)
- - date_published: 2023-10-25T17:57:36.728693+00:00
-
- ## Login | Salesforce
- - [https://ecobee--cssandbox--c.visualforce.com](https://ecobee--cssandbox--c.visualforce.com)
- - date_published: 2024-06-16T17:33:38.693534+00:00
 

@@ -1,3 +1,75 @@
+ ## Goldfinch | The Decentralized Global Credit Protocol
+ - [https://goldfinch.finance](https://goldfinch.finance)
+ - date_published: 2023-09-26T00:00:00+00:00
+
+ ## Сервіс онлайн страхування | Hotline.finance
+ - [https://hotline.finance](https://hotline.finance)
+ - date_published: 2024-05-20T02:50:08.256639+00:00
+
+ ## Idle Finance - The Yield Automation Protocol
+ - [https://idle.finance](https://idle.finance)
+ - date_published: 2024-05-08T13:09:58+00:00
+
+ ## Juno FAQs
+ - [https://help.juno.finance](https://help.juno.finance)
+ - date_published: 2024-06-19T09:57:41.607056+00:00
+
+ ## Juno | One app for cash and crypto
+ - [https://juno.finance](https://juno.finance)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Kolibri
+ - [https://kolibri.finance](https://kolibri.finance)
+ - date_published: 2024-06-18T16:08:22.282893+00:00
+
+ ## Liquifi | Token Vesting Simplified
+ - [https://www.liquifi.finance](https://www.liquifi.finance)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## LYRA Agora
+ - [https://vote.lyra.finance](https://vote.lyra.finance)
+ - date_published: 2024-07-03T07:11:59.186524+00:00
+
+ ## A Security First L1 Blockchain for Real World Assets | MANTRA
+ - [https://www.mantra.finance](https://www.mantra.finance)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Mellow
+ - [https://app.mellow.finance](https://app.mellow.finance)
+ - date_published: 2024-06-21T18:15:06+00:00
+
+ ## Mellow
+ - [https://mellow.finance](https://mellow.finance)
+ - date_published: 2024-06-21T18:12:36+00:00
+
+ ## NFTART
+ - [https://www.nft-art.finance](https://www.nft-art.finance)
+ - date_published: 2024-07-12T15:44:06.572707+00:00
+
+ ## Notional Finance - DeFi lending and leveraged yield
+ - [https://notional.finance](https://notional.finance)
+ - date_published: 2024-06-15T19:18:47.311779+00:00
+
+ ## OlympusDAOForum
+ - [https://forum.olympusdao.finance](https://forum.olympusdao.finance)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Olympus - OHM is Smart Money
+ - [https://www.olympusdao.finance](https://www.olympusdao.finance)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Origami
+ - [https://origami.finance](https://origami.finance)
+ - date_published: 2024-06-23T16:52:38.659460+00:00
+
+ ## Home | PancakeSwap
+ - [https://pancakeswap.finance](https://pancakeswap.finance)
+ - date_published: 2024-06-16T03:50:04.968174+00:00
+
+ ## Introducing | PinkSale
+ - [https://docs.pinksale.finance](https://docs.pinksale.finance)
+ - date_published: 2024-06-30T00:00:00+00:00
+
  ## PinkSale - The Launchpad Protocol for Everyone!
  - [https://www.pinksale.finance](https://www.pinksale.finance)
  - date_published: 2024-07-04T09:53:35.734061+00:00
@@ -3938,76 +4010,4 @@
  ## Grande école de management - CEFAM Ecole de commerce internationnal
  - [https://cefam.fr](https://cefam.fr)
  - date_published: 2024-05-03T00:00:00+00:00
-
- ## Accueil - CEFDG - Commission d'évaluation des formations et diplômes de gestion
- - [https://www.cefdg.fr](https://www.cefdg.fr)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Cénaldi : Association d'Organisation de Producteurs (AOP) - Légumes de plein champ pour l'industrie
- - [https://www.cenaldi.fr](https://www.cenaldi.fr)
- - date_published: 2024-07-10T07:42:47.113006+00:00
-
- ## Vacances et loisirs en Europe : séjours en pleine nature | Center Parcs
- - [https://www.centerparcs.fr](https://www.centerparcs.fr)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## CentraleSupelec |
- - [https://www.centralesupelec.fr](https://www.centralesupelec.fr)
- - date_published: 2024-04-28T03:31:05.064207+00:00
-
- ## Centre des Congrès de Rennes - Couvent des Jacobins Rennes
- - [https://centre-congres-rennes.fr](https://centre-congres-rennes.fr)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Centre Pompidou - Tickets
- - [https://billetterie.centrepompidou.fr](https://billetterie.centrepompidou.fr)
- - date_published: 2024-07-24T04:49:07.533883+00:00
-
- ## Centre Pompidou Online Shop
- - [https://boutique.centrepompidou.fr](https://boutique.centrepompidou.fr)
- - date_published: 2024-07-24T04:49:06.331832+00:00
-
- ## Centre Pompidou Paris
- - [https://centrepompidou.fr](https://centrepompidou.fr)
- - date_published: 2024-04-29T06:44:31.350291+00:00
-
- ## Centre Pompidou-Metz : Bienvenue
- - [https://www.centrepompidou-metz.fr](https://www.centrepompidou-metz.fr)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Region Centre-Val de Loire
- - [https://www.centre-valdeloire.fr](https://www.centre-valdeloire.fr)
- - date_published: 2024-07-10T08:52:26.459819+00:00
-
- ## CertEurope - An InfoCert Company - Leader du Digital Trust
- - [https://www.certeurope.fr](https://www.certeurope.fr)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## C'est pas du Jeu De Rôle
- - [https://www.cestpasdujdr.fr](https://www.cestpasdujdr.fr)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## ACCUEIL - Plateforme d’appel à candidatures de CFI
- - [https://ac.cfi.fr](https://ac.cfi.fr)
- - date_published: 2024-06-19T18:12:19.807260+00:00
-
- ## CFI, agence française de développement médias
- - [https://cfi.fr](https://cfi.fr)
- - date_published: 2024-06-19T18:12:28.604819+00:00
-
- ## Home
- - [https://www.cfm.fr](https://www.cfm.fr)
- - date_published: 2024-07-07T03:23:02.636419+00:00
-
- ## Accueil - CG COURS - Cours particuliers à Bergerac en Dordogne
- - [https://www.cg-cours.fr](https://www.cg-cours.fr)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Ugict - CGT Ingés Cadres Techs
- - [http://www.ugict.cgt.fr](http://www.ugict.cgt.fr)
- - date_published: 2024-07-08T10:59:44.245310+00:00
-
- ## Fédération CGT des services publics
- - [https://www.cgtservicespublics.fr](https://www.cgtservicespublics.fr)
- - date_published: 2024-07-08T10:48:44+00:00
 

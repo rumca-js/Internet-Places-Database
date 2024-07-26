@@ -1,3 +1,107 @@
+ ## Fakulteta za energetiko
+ - [https://www.fe.um.si](https://www.fe.um.si)
+ - date_published: 2024-06-15T02:48:06+00:00
+
+ ## Filozofska fakulteta Univerze v Mariboru
+ - [https://www.ff.um.si](https://www.ff.um.si)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## UM FGPA | Fakulteta za gradbeništvo, prometno inženirstvo in arhitekturo Univerza v Mariboru
+ - [https://www.fgpa.um.si](https://www.fgpa.um.si)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Fakulteta za kmetijstvo in biosistemske vede – FKBV
+ - [https://www.fkbv.um.si](https://www.fkbv.um.si)
+ - date_published: 2024-06-15T02:47:10.822648+00:00
+
+ ## Fakulteta za kemijo in kemijsko tehnologijo
+ - [https://www.fkkt.um.si](https://www.fkkt.um.si)
+ - date_published: 2024-06-15T02:47:52.609218+00:00
+
+ ## Fakulteta za naravoslovje in matematiko | Ustvarjamo poklice prihodnosti
+ - [https://www.fnm.um.si](https://www.fnm.um.si)
+ - date_published: 2024-06-15T02:47:41.917039+00:00
+
+ ## Fakulteta za strojništvo Maribor
+ - [https://www.fs.um.si](https://www.fs.um.si)
+ - date_published: 2024-06-15T02:47:44.937020+00:00
+
+ ## Fakulteta za turizem - Univerza v Mariboru
+ - [https://www.ft.um.si](https://www.ft.um.si)
+ - date_published: 2024-06-15T02:47:12.463497+00:00
+
+ ## Fakulteta za varnostne vede
+ - [https://www.fvv.um.si](https://www.fvv.um.si)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## FZV Maribor | Fakulteta za zdravstvene vede - Univerza v Mariboru
+ - [https://www.fzv.um.si](https://www.fzv.um.si)
+ - date_published: 2024-06-15T02:47:53.764608+00:00
+
+ ## Medicinska fakulteta Maribor
+ - [https://www.mf.um.si](https://www.mf.um.si)
+ - date_published: 2016-06-14T00:00:00+00:00
+
+ ## Vstopna stran - Pedagoška Fakulteta UM
+ - [https://www.pef.um.si](https://www.pef.um.si)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Pravna fakulteta Maribor
+ - [https://www.pf.um.si](https://www.pf.um.si)
+ - date_published: 2024-06-15T02:48:11.116322+00:00
+
+ ## TRISAT-R LEIS
+ - [https://www.trisat.um.si](https://www.trisat.um.si)
+ - date_published: 2022-07-12T18:14:53+00:00
+
+ ## ID portal
+ - [https://id.uni-lj.si](https://id.uni-lj.si)
+ - date_published: 2024-01-21T14:13:51.552197+00:00
+
+ ## University of Ljubljana Press Journals
+ - [https://journals.uni-lj.si](https://journals.uni-lj.si)
+ - date_published: 2024-06-30T03:32:54.477820+00:00
+
+ ## Fakulteta za Matematiko in Fiziko • FMF
+ - [https://www.fmf.uni-lj.si](https://www.fmf.uni-lj.si)
+ - date_published: 2024-07-10T06:40:10.818874+00:00
+
+ ## Univerza v Ljubljani
+ - [https://www.uni-lj.si](https://www.uni-lj.si)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Varne točke - Varne točke
+ - [https://www.varnetocke.si](https://www.varnetocke.si)
+ - date_published: 2024-06-28T11:33:39.054733+00:00
+
+ ## Victron Energy
+ - [https://www.victronenergy.si](https://www.victronenergy.si)
+ - date_published: 2024-06-21T18:32:09+00:00
+
+ ## Občina Vipava
+ - [https://obcina.vipava.si](https://obcina.vipava.si)
+ - date_published: 2024-06-28T11:27:25.293615+00:00
+
+ ## Zavod za turizem TRG Vipava
+ - [https://vipava.si](https://vipava.si)
+ - date_published: 2024-05-06T22:41:09.360642+00:00
+
+ ## Vipavska dolina | Uradni turistični portal | Vipavska dolina | Uradni turistični portal
+ - [https://www.vipavskadolina.si](https://www.vipavskadolina.si)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Visa, vodilni za digitalna plačila.
+ - [https://visaeurope.si](https://visaeurope.si)
+ - date_published: 2024-05-12T03:59:17.682044+00:00
+
+ ## Vlada | GOV.SI
+ - [http://www.vlada.si](http://www.vlada.si)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Predlagam Vladi
+ - [http://predlagam.vladi.si](http://predlagam.vladi.si)
+ - date_published: 2024-07-01T07:36:08.300613+00:00
+
  ## info@vozicek.si – info@vozicek.si
  - [http://www.vozicek.si](http://www.vozicek.si)
  - date_published: 2024-06-15T03:29:47.849537+00:00
@@ -3955,112 +4059,4 @@ conflicts of interest and restore Community Trust.
  ## rheinneckar.social
  - [https://rheinneckar.social](https://rheinneckar.social)
  - date_published: 2024-04-29T07:02:19.635708+00:00
-
- ## Rings
- - [https://rings.social](https://rings.social)
- - date_published: 2023-10-24T20:14:16.984207+00:00
- - tags: ['mastodon']
-
- ## RLS (unoffical)
- - [https://rls.social](https://rls.social)
- - date_published: 2024-05-08T10:00:43.054895+00:00
-
- ## Die Heimat für Rollenspieler
- - [https://rollenspiel.social](https://rollenspiel.social)
- - date_published: 2024-04-28T06:15:05.539946+00:00
-
- ## Ruby.social
- - [https://ruby.social](https://ruby.social)
- - date_published: 2024-04-28T02:55:47.046846+00:00
-
- ## MinIO Console
- - [https://media.ruhr.social](https://media.ruhr.social)
- - date_published: 2024-07-02T18:02:46+00:00
-
- ## ruhr.social
- - [https://ruhr.social](https://ruhr.social)
- - date_published: 2024-05-07T23:07:32.952988+00:00
-
- ## How to run a small social network
- - [https://runyourown.social](https://runyourown.social)
- - date_published: 2022-11-18T15:43:54+00:00
-
- ## Sakurajima Social (桜島SNS）
- - [https://sakurajima.social](https://sakurajima.social)
- - date_published: 2024-07-15T06:33:25.657406+00:00
-
- ## Saturation
- - [https://saturation.social](https://saturation.social)
- - date_published: 2024-06-23T17:08:51.675303+00:00
-
- ## Scholar Social
- - [https://scholar.social](https://scholar.social)
- - date_published: 2024-01-19T08:47:10.669098+00:00
-
- ## Mastodon
- - [https://mastodon.schub.social](https://mastodon.schub.social)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## sciences.social
- - [https://sciences.social](https://sciences.social)
- - date_published: 2024-06-23T17:08:31.578752+00:00
-
- ## Ex-Searchtodon: Private Timeline Search for Mastodon
- - [https://searchtodon.social](https://searchtodon.social)
- - date_published: 2023-10-24T20:14:22.655817+00:00
- - tags: ['mastodon']
-
- ## Home · Semaphore
- - [https://semaphore.social](https://semaphore.social)
- - date_published: 2024-07-08T17:37:30.951578+00:00
-
- ## SEO Community
- - [https://seocommunity.social](https://seocommunity.social)
- - date_published: 2024-04-29T03:58:19.527333+00:00
-
- ## SFBA.social
- - [https://sfba.social](https://sfba.social)
- - date_published: 2023-10-24T20:14:23.701217+00:00
- - tags: ['mastodon']
-
- ## Shakedown Social
- - [https://shakedown.social](https://shakedown.social)
- - date_published: 2024-06-27T17:12:59.210378+00:00
-
- ## Shellsharks Social
- - [https://shellsharks.social](https://shellsharks.social)
- - date_published: 2024-04-29T03:33:26.105161+00:00
-
- ## Sigmoid Social
- - [https://sigmoid.social](https://sigmoid.social)
- - date_published: 2024-05-01T04:12:55.282669+00:00
-
- ## Sindicato Social
- - [https://sindicato.social](https://sindicato.social)
- - date_published: 2024-07-10T08:31:51.106456+00:00
-
- ## SKRT! SKRT!
- - [https://skrt.social](https://skrt.social)
- - date_published: 2024-02-08T16:58:12.981719+00:00
-
- ## Skyview
- - [https://skyview.social](https://skyview.social)
- - date_published: 2023-10-24T20:14:24.128743+00:00
- - tags: ['mastodon']
-
- ## Pleroma
- - [https://snack.social](https://snack.social)
- - date_published: 2024-05-04T12:03:34.046259+00:00
-
- ## Mastodon
- - [https://mastodon.softwarecurmudgeon.social](https://mastodon.softwarecurmudgeon.social)
- - date_published: 2024-06-27T15:06:44.611371+00:00
-
- ## softwaremill.social
- - [https://softwaremill.social](https://softwaremill.social)
- - date_published: 2024-06-29T11:15:46.117207+00:00
-
- ## spezi.social
- - [https://spezi.social](https://spezi.social)
- - date_published: 2024-05-04T13:41:57.208018+00:00
 

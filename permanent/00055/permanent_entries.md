@@ -1,3 +1,43 @@
+ ## cruessence
+ - [https://www.cru-essence.com](https://www.cru-essence.com)
+ - date_published: 2024-07-03T08:28:51.661182+00:00
+
+ ## Commodity Market Analysis | Commodity Prices, News, Consulting & Events | CRU
+ - [https://crugroup.com](https://crugroup.com)
+ - date_published: 2024-07-09T13:07:19.897804+00:00
+
+ ## Commodity Events & Conferences | Mining Conferences | CRU
+ - [https://events.crugroup.com](https://events.crugroup.com)
+ - date_published: 2024-07-09T13:07:16.823328+00:00
+
+ ## Cruise Reviews, Cruise Deals and Cruises - Cruise Critic
+ - [https://www.cruisecritic.com](https://www.cruisecritic.com)
+ - date_published: 2024-06-23T20:31:26.180705+00:00
+
+ ## Cruise Tracker: Real-Time Cruise Ship Tracking & Voyage Details
+ - [https://cruisetracker.com](https://cruisetracker.com)
+ - date_published: 2024-06-17T01:03:53.209893+00:00
+
+ ## CruiseWorld
+ - [https://www.cruiseworldshow.com](https://www.cruiseworldshow.com)
+ - date_published: 2024-07-03T20:46:09.430871+00:00
+
+ ## CruisingPower.com
+ - [https://secure.cruisingpower.com](https://secure.cruisingpower.com)
+ - date_published: 2024-07-12T23:29:04.755896+00:00
+
+ ## Liveaboard Sailing, Sailboat Chartering, Sailboat Reviews and More | Cruising World
+ - [https://www.cruisingworld.com](https://www.cruisingworld.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## crul
+ - [https://crul.com](https://crul.com)
+ - date_published: 2023-10-25T13:37:14.796515+00:00
+
+ ## Educational Consulting and IT Solutions
+ - [https://crumb4life.com](https://crumb4life.com)
+ - date_published: 2024-07-07T03:49:25.337866+00:00
+
  ## CRUMB | Circuit Simulator
  - [https://crumbsim.com](https://crumbsim.com)
  - date_published: 2024-05-12T05:47:17.609045+00:00
@@ -3448,6 +3488,10 @@
  - [http://www.cygnus.com](http://www.cygnus.com)
  - date_published: 2024-07-07T04:03:00.326963+00:00
 
+ ## Welcome to the Fractal eXtreme Web Site
+ - [http://www.cygnus-software.com](http://www.cygnus-software.com)
+ - date_published: 2024-07-25T17:29:25.860538+00:00
+
  ## Cygwin
  - [https://cygwin.com](https://cygwin.com)
  - date_published: 2024-05-01T03:28:13.335316+00:00
@@ -4007,47 +4051,4 @@
  ## Home | Daily Bailey AI
  - [https://www.dailybaileyai.com](https://www.dailybaileyai.com)
  - date_published: 2024-07-12T15:43:48.022282+00:00
-
- ## Home - Daily Bayonet
- - [http://dailybayonet.com](http://dailybayonet.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## dailyblam.com - contact with domain owner | Epik.com
- - [http://www.dailyblam.com](http://www.dailyblam.com)
- - date_published: 2024-06-28T14:01:30.075978+00:00
-
- ## Team visibility and alignment for modern teams | DailyBot
- - [https://www.dailybot.com](https://www.dailybot.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Daily Breeze
- - [https://www.dailybreeze.com](https://www.dailybreeze.com)
- - date_published: 2024-07-08T14:27:35.495407+00:00
-
- ## The Daily Bruin
- - [https://dailybruin.com](https://dailybruin.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Daily Bulletin
- - [https://www.dailybulletin.com](https://www.dailybulletin.com)
- - date_published: 2024-06-29T19:22:54.499408+00:00
-
- ## Daily Business Updates – Your Daily Source for Timely Business Updates and News
- - [https://dailybusinessupdates.com](https://dailybusinessupdates.com)
- - date_published: 2023-12-19T11:09:27.832473+00:00
-
- - [https://api.dailycaller.com](https://api.dailycaller.com)
- - date_published: 2024-06-14T19:35:51.497751+00:00
-
- ## Attention Required! | Cloudflare
- - [https://aslp.dailycaller.com](https://aslp.dailycaller.com)
- - date_published: 2024-05-01T03:29:49.064287+00:00
-
- ## The Daily Caller
- - [https://cdn01.dailycaller.com](https://cdn01.dailycaller.com)
- - date_published: 2024-05-01T03:29:37.805810+00:00
-
- ## The Daily Caller
- - [https://dailycaller.com](https://dailycaller.com)
- - date_published: 2023-10-25T13:41:19.635856+00:00
 

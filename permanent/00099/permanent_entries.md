@@ -1,3 +1,70 @@
+ ## MagGamer.com
+ - [https://maggamer.com](https://maggamer.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+ - tags: ['video game news']
+
+ ## Maggie Appleton
+ - [https://maggieappleton.com](https://maggieappleton.com)
+ - date_published: 2023-10-25T08:47:09.508828+00:00
+ - tags: ['personal']
+
+ ## maggie gently
+ - [https://www.maggiegently.com](https://www.maggiegently.com)
+ - date_published: 2024-06-24T06:02:35.310982+00:00
+
+ ## Maggie's Blog
+ - [https://maggiepint.com](https://maggiepint.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## maggiesnotebook.com
+ - [http://www.maggiesnotebook.com](http://www.maggiesnotebook.com)
+ - date_published: 2024-06-27T09:54:38.384950+00:00
+
+ ## MagicalTimeBean
+ - [http://www.magicaltimebean.com](http://www.magicaltimebean.com)
+ - date_published: 2024-07-11T11:52:29.446701+00:00
+
+ ## Harry Potter: Magic Awakened
+ - [https://magicawakened.com](https://magicawakened.com)
+ - date_published: 2024-06-18T15:20:25+00:00
+ - tags: ['card game', 'harry potter']
+
+ ## Store | Harry Potter: Magic Awakened
+ - [https://store.magicawakened.com](https://store.magicawakened.com)
+ - date_published: 2024-06-15T12:11:10.384150+00:00
+
+ ## Magic Baby Names - Quickly find a baby name you love!
+ - [https://www.magicbabynames.com](https://www.magicbabynames.com)
+ - date_published: 2024-05-02T14:02:25.780124+00:00
+
+ ## In-app & Push Notifications for Progressive Web Apps | MagicBell
+ - [https://magicbell.com](https://magicbell.com)
+ - date_published: 2024-06-23T06:17:08.338333+00:00
+
+ ## MagicBrief - What ad will you make next?
+ - [https://www.magicbrief.com](https://www.magicbrief.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Magic Earth - Free Navigation & Maps App for Android and iPhone
+ - [https://www.magicearth.com](https://www.magicearth.com)
+ - date_published: 2023-10-25T08:24:50.926584+00:00
+
+ ## Trend & Young Contemporary Women's Fashion - MAGIC
+ - [https://www.magicfashionevents.com](https://www.magicfashionevents.com)
+ - date_published: 2024-05-06T14:19:33.866858+00:00
+
+ ## Magick Multimedia
+ - [https://magickmultimedia.com](https://magickmultimedia.com)
+ - date_published: 2024-06-23T06:59:42.687196+00:00
+
+ ## MagickPen
+ - [https://magickpen.com](https://magickpen.com)
+ - date_published: 2024-06-19T20:58:05.076503+00:00
+
+ ## OnePrompt
+ - [https://oneprompt.magickworx.com](https://oneprompt.magickworx.com)
+ - date_published: 2023-11-13T23:50:03+00:00
+
  ## Magic Leap
  - [https://developer.magicleap.com](https://developer.magicleap.com)
  - date_published: 2024-06-21T21:07:08.819732+00:00
@@ -3673,6 +3740,10 @@
  - date_published: 2023-10-25T15:56:27.679998+00:00
  - tags: ['news', 'maritime']
 
+ ## Maritime News, Maritime Magazine
+ - [https://www.marinelink.com](https://www.marinelink.com)
+ - date_published: 2024-07-25T00:00:00+00:00
+
  ## Marine Corps Marathon
  - [https://marinemarathon.com](https://marinemarathon.com)
  - date_published: 2024-04-22T00:00:00+00:00
@@ -3982,72 +4053,4 @@
  ## Blockchain PR with the World's Leading Blockchain Marketing Agency
  - [https://marketacross.com](https://marketacross.com)
  - date_published: 2024-02-20T00:00:00+00:00
-
- ## Pardon Our Interruption
- - [https://marketbook.com](https://marketbook.com)
- - date_published: 2024-05-08T06:31:16.610896+00:00
-
- ## marketdatasystems.com
- - [https://www.marketdatasystems.com](https://www.marketdatasystems.com)
- - date_published: 2007-08-22T15:49:24+00:00
-
- ## Home | KCRW
- - [https://kcrw.marketenginuity.com](https://kcrw.marketenginuity.com)
- - date_published: 2024-06-17T16:28:01+00:00
-
- ## Home | KCUR
- - [https://kcur.marketenginuity.com](https://kcur.marketenginuity.com)
- - date_published: 2024-05-08T09:05:32.784701+00:00
-
- ## Home | KUER
- - [https://kuer.marketenginuity.com](https://kuer.marketenginuity.com)
- - date_published: 2024-07-05T23:49:10+00:00
-
- ## Home | KUT and KUTX
- - [https://kut.marketenginuity.com](https://kut.marketenginuity.com)
- - date_published: 2024-07-01T17:18:33+00:00
-
- ## Market Enginuity
- - [https://marketenginuity.com](https://marketenginuity.com)
- - date_published: 2024-06-17T16:24:36+00:00
-
- ## Home | WUWM
- - [https://wuwm.marketenginuity.com](https://wuwm.marketenginuity.com)
- - date_published: 2024-05-12T05:15:35.577653+00:00
-
- ## Home
- - [https://marketersindemand.com](https://marketersindemand.com)
- - date_published: 2024-06-16T12:31:53.018147+00:00
-
- ## GameStop
- - [https://gamestop.survey.marketforce.com](https://gamestop.survey.marketforce.com)
- - date_published: 2024-07-08T14:19:47.928610+00:00
-
- ## MarketforceLive | B2B Marketing Solutions & Events
- - [https://marketforcelive.com](https://marketforcelive.com)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Marketful - The All-In-One Marketing Talent Marketplace
- - [https://marketful.com](https://marketful.com)
- - date_published: 2022-09-09T03:22:09+00:00
-
- ## marketgoo - SEO solutions
- - [https://www.marketgoo.com](https://www.marketgoo.com)
- - date_published: 2024-07-09T17:09:15+00:00
-
- ## Cierpliwości...
- - [https://www.marketingbrew.com](https://www.marketingbrew.com)
- - date_published: 2024-04-28T02:26:23.009991+00:00
-
- ## Logo Design | Lansing Charter Township | Qubic Marketing Agency
- - [https://www.marketingc3.com](https://www.marketingc3.com)
- - date_published: 2024-06-29T21:52:45.280246+00:00
-
- ## Home - Marketing Charts
- - [https://www.marketingcharts.com](https://www.marketingcharts.com)
- - date_published: 2024-04-29T02:50:49.447379+00:00
-
- ## Digital Marketing News | Marketing Dive
- - [https://www.marketingdive.com](https://www.marketingdive.com)
- - date_published: 2024-05-06T13:29:00.775204+00:00
 

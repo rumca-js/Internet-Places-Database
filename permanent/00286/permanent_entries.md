@@ -1,3 +1,112 @@
+ ## Front Page | Santillana
+ - [http://www.santillana.com.py](http://www.santillana.com.py)
+ - date_published: 2024-06-12T12:56:01.808118+00:00
+
+ ## Donde sea que te encuentres,  Visa está contigo.
+ - [https://visa.com.py](https://visa.com.py)
+ - date_published: 2024-05-12T03:59:58.185260+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.com.py](https://www2.zoetis.com.py)
+ - date_published: 2024-06-27T09:52:47+00:00
+
+ ## Inicio - Universidad Nacional de Itapúa
+ - [https://uni.edu.py](https://uni.edu.py)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Inicio
+ - [https://www.creativecommons.org.py](https://www.creativecommons.org.py)
+ - date_published: 2024-07-08T20:13:48.617751+00:00
+
+ ## FAPI / Federación por la Autodeterminación de los Pueblos Indígenas
+ - [https://fapi.org.py](https://fapi.org.py)
+ - date_published: 2024-07-03T02:26:21.922660+00:00
+
+ ## Instituto Cultural Paraguayo Alemán – Goethe-Zentrum – Instituto Cultural Paraguayo Alemán – Goethe-Zentrum
+ - [https://www.icpa-gz.org.py](https://www.icpa-gz.org.py)
+ - date_published: 2024-07-13T17:31:53.711267+00:00
+
+ ## Sociedad Paraguaya de Reumatología | Medicos al servicio de la salud
+ - [https://spr.org.py](https://spr.org.py)
+ - date_published: 2024-06-28T11:56:58.096999+00:00
+
+ ## Home
+ - [https://wwf.org.py](https://wwf.org.py)
+ - date_published: 2024-05-07T23:57:21.017535+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.com.qa](https://maps.google.com.qa)
+ - date_published: 2024-07-20T07:37:02.439877+00:00
+
+ ## Google
+ - [https://www.google.com.qa](https://www.google.com.qa)
+ - date_published: 2024-06-21T22:24:59.576899+00:00
+
+ ## Power Tools, Fasteners and Software for Construction - Hilti Qatar
+ - [https://www.hilti.com.qa](https://www.hilti.com.qa)
+ - date_published: 2024-06-20T07:27:09.545879+00:00
+
+ ## Home
+ - [https://www.ucalgary.edu.qa](https://www.ucalgary.edu.qa)
+ - date_published: 2024-04-30T05:20:15.091610+00:00
+
+ ## الصفحة الرئيسية | Ministry of Transport
+ - [https://mot.gov.qa](https://mot.gov.qa)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Home Page - Appointment Booking
+ - [https://appointment.cbq.qa](https://appointment.cbq.qa)
+ - date_published: 2024-06-16T06:23:37.254695+00:00
+
+ ## cbmobile
+ - [https://cbonline.cbq.qa](https://cbonline.cbq.qa)
+ - date_published: 2024-05-01T06:01:26.120591+00:00
+
+ ## CIB Online Banking
+ - [https://eservices.cbq.qa](https://eservices.cbq.qa)
+ - date_published: 2021-11-02T18:40:30+00:00
+
+ ## Personal Banking - Bank Accounts, Loans, Insurance and Investment
+ - [https://www.cbq.qa](https://www.cbq.qa)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Shop Sports Gear and Equipment Online
+ - [https://decathlon.qa](https://decathlon.qa)
+ - date_published: 2024-06-15T20:08:32.750187+00:00
+
+ ## Dyson Qatar | Official Site | Shop
+ - [https://www.dyson.qa](https://www.dyson.qa)
+ - date_published: 2024-07-07T01:57:14.093528+00:00
+
+ ## Telecom and ICT Company in Qatar | Ooredoo Qatar
+ - [https://www.ooredoo.qa](https://www.ooredoo.qa)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## openQA, automated testing for operating systems
+ - [http://open.qa](http://open.qa)
+ - date_published: 2024-06-19T08:08:08+00:00
+
+ ## PERI Qatar
+ - [https://www.peri.qa](https://www.peri.qa)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Qatar Digital Library
+ - [https://www.qdl.qa](https://www.qdl.qa)
+ - date_published: 2023-12-12T09:52:14.722364+00:00
+ - tags: ['digital library']
+
+ ## Skyscanner
+ - [https://www.skyscanner.qa](https://www.skyscanner.qa)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## QA Automation Testing Tool based on NLP, AI & Machine Learning | Virtuoso QA
+ - [https://www.virtuoso.qa](https://www.virtuoso.qa)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Forums du libre du Québec
+ - [https://forumsdulibre.quebec](https://forumsdulibre.quebec)
+ - date_published: 2024-07-05T00:00:00+00:00
+
  ## Accueil - Mila
  - [https://mila.quebec](https://mila.quebec)
  - date_published: 2024-04-17T00:00:00+00:00
@@ -2539,7 +2648,7 @@ A slim and mobile-friendly IIIF document viewer
  - date_published: 2024-05-08T03:04:38.572675+00:00
 
  ## Attention Required! | Cloudflare
- - [http://www.torque.rocks](http://www.torque.rocks)
+ - [http://torque.rocks](http://torque.rocks)
  - date_published: 2024-04-29T05:48:41.481385+00:00
 
  ## TuiterRocks Fake, Parodia
@@ -3941,112 +4050,4 @@ A slim and mobile-friendly IIIF document viewer
  ## Compcar
  - [http://compcar.ru](http://compcar.ru)
  - date_published: 2024-06-29T18:04:19.782351+00:00
-
- ## Сайт по методам сжатия данных, изображений и видео
- - [https://www.compression.ru](https://www.compression.ru)
- - date_published: 2024-06-23T18:04:24.325903+00:00
-
- ## "КонсультантПлюс" - законодательство РФ: кодексы, законы, указы, постановления Правительства Российской Федерации, нормативные акты
- - [http://consultant.ru](http://consultant.ru)
- - date_published: 2024-06-18T09:33:10.294815+00:00
-
- ## Voice - все о моде, красоте и отношениях
- - [https://www.cosmo.ru](https://www.cosmo.ru)
- - date_published: 2024-06-25T18:52:37.493656+00:00
-
- ## COZY HOME – официальный интернет-магазин постельного белья, домашнего текстиля и декора для дома
- - [https://cozyhome.ru](https://cozyhome.ru)
- - date_published: 2024-06-29T13:36:22+00:00
-
- ## CrazyGames - бесплатные онлайн-игры на CrazyGames.ru
- - [https://crazygames.ru](https://crazygames.ru)
- - date_published: 2024-05-08T06:51:04.504319+00:00
-
- ## Create Вики
- - [https://createwiki.ru](https://createwiki.ru)
- - date_published: 2024-04-30T17:37:42+00:00
-
- ## Главная - Все про орехи
- - [http://cs-amx.ru](http://cs-amx.ru)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Cs-intro.ru - это сайт о игре Counter Strike 1.6, Counter Strike Sourse и Minecraft. Cокращенно CS 1.6, у нас на сайте вы можете cs 1.6 скачать, читы wh и aim, плагины, а также сервера кс 1.6, модели оружия, патчи, карты и многое другое
- - [http://cs-intro.ru](http://cs-intro.ru)
- - date_published: 2024-07-15T04:12:41.180163+00:00
-
- ## КиберЛенинка предоставляет возможность читать тексты научных статей бесплатно. Приглашаем к сотрудничеству научные журналы и издательства для публикации научно-исследовательских работ в открытом доступе (Open Access) и популяризации открытой науки (Open Science) в России.
- - [http://cyberleninka.ru](http://cyberleninka.ru)
- - date_published: 2024-06-23T20:32:56.247589+00:00
-
- ## Cycle.Ru — 3D панорамы, видео, AI гиды, консультанты,  виртуальная реальность — 3D панорамы, видео, AI гиды, консультанты,  виртуальная реальность
- - [https://cycle.ru](https://cycle.ru)
- - date_published: 2024-07-20T11:29:45.362296+00:00
-
- ## Cypherpunks.ru repositories
- - [https://git.cypherpunks.ru](https://git.cypherpunks.ru)
- - date_published: 2024-05-08T10:50:40.376647+00:00
-
- ## PyDERASN – strict and fast ASN.1 DER/CER/BER library for Python — pyderasn 9.3 documentation
- - [https://www.pyderasn.cypherpunks.ru](https://www.pyderasn.cypherpunks.ru)
- - date_published: 2023-07-26T12:49:27+00:00
-
- ## Создать сайт бесплатно, твоё-имя.da.ru! Сделай сайт и получи бесплатный домен (крутые бесплатные домены и хостинг, простой конструктор сайтов)
- - [http://talion-nvrsk.da.ru](http://talion-nvrsk.da.ru)
- - date_published: 2024-06-12T21:07:58.360964+00:00
-
- ## DashaMail – российский сервис email рассылки писем
- - [https://dashamail.ru](https://dashamail.ru)
- - date_published: 2024-07-24T02:34:05.707693+00:00
-
- ## Google
- - [https://datatracking.ru](https://datatracking.ru)
- - date_published: 2024-06-21T21:37:45.625227+00:00
-
- ## ИТ-компания с многолетним опытом - DataBase Intelligence
- - [https://dbi.ru](https://dbi.ru)
- - date_published: 2024-06-21T14:55:59.084453+00:00
-
- ## txt. main page
- - [https://txt.dc09.ru](https://txt.dc09.ru)
- - date_published: 2024-06-19T22:35:12.391263+00:00
-
- ## Index of /
- - [http://ftp.debian.ru](http://ftp.debian.ru)
- - date_published: 2024-07-20T05:17:32.549245+00:00
-
- ## Срок регистрации домена истек
- - [http://www.defrag.ru](http://www.defrag.ru)
- - date_published: 2024-06-12T21:08:47.868929+00:00
-
- ## Главная
- - [https://deluxe.ru](https://deluxe.ru)
- - date_published: 2024-07-20T11:30:13.016679+00:00
-
- ## Детский мир | Интернет-магазин детских товаров
- - [https://www.detmir.ru](https://www.detmir.ru)
- - date_published: 2024-06-29T13:36:33.192644+00:00
-
- ## 2ГИС Технологии
- - [https://devday.ru](https://devday.ru)
- - date_published: 2024-06-12T11:10:41.604647+00:00
-
- ## DevZen Podcast « Подкаст о программировании, IT и смежных темах (16+)
- - [https://devzen.ru](https://devzen.ru)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Игровые автоматы в онлайн режиме бесплатно от казино Вулкан
- - [https://dezisk.ru](https://dezisk.ru)
- - date_published: 2021-03-17T16:43:00+00:00
-
- ## «Дианетика: современная наука о разуме»
- - [https://www.dianetics.ru](https://www.dianetics.ru)
- - date_published: 2024-06-17T16:42:09.040737+00:00
-
- ## Только это красиво и только в этом есть смысл — @дневники: асоциальная сеть
- - [https://citoex.diary.ru](https://citoex.diary.ru)
- - date_published: 2024-06-23T18:34:00.308784+00:00
-
- ## DigitalKit :: Growth hacking agency
- - [https://digitalkit.ru](https://digitalkit.ru)
- - date_published: 2021-11-14T09:35:00+00:00
 

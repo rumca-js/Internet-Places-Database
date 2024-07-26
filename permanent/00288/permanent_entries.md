@@ -1,3 +1,112 @@
+ ## Empat School | Безкоштовна програма FullStack & Flutter
+ - [https://www.empat.school](https://www.empat.school)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Facilitator School | Take your meetings to the next level
+ - [https://facilitator.school](https://facilitator.school)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## Fizzy school
+ - [http://fizzy.school](http://fizzy.school)
+ - date_published: 2024-04-30T06:49:01.421010+00:00
+
+ ## Flight School
+ - [https://flight.school](https://flight.school)
+ - date_published: 2024-06-23T14:59:17.198901+00:00
+
+ ## Freelancing School | Training and community to make a living freelancing
+ - [https://freelancing.school](https://freelancing.school)
+ - date_published: 2019-07-03T02:18:49+00:00
+
+ ## Fruitful School
+ - [https://fruitful.school](https://fruitful.school)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Julia School
+ - [https://julia.school](https://julia.school)
+ - date_published: 2024-06-20T21:56:24.516714+00:00
+
+ ## Le Wagon
+ - [https://app.lewagon.school](https://app.lewagon.school)
+ - date_published: 2024-07-12T05:55:31.547887+00:00
+
+ ## Post-Industrial Design School
+ - [https://postindustrialdesign.school](https://postindustrialdesign.school)
+ - date_published: 2024-04-30T06:35:16.514058+00:00
+
+ ## Summer School ReAnimate
+ - [https://reanimate.school](https://reanimate.school)
+ - date_published: 2024-07-14T12:26:15.409095+00:00
+
+ ## Typomania School. Онлайн-школа дизайна
+ - [https://typomania.school](https://typomania.school)
+ - date_published: 2024-07-12T08:03:56+00:00
+
+ ## Write of Passage
+ - [https://take.writeofpassage.school](https://take.writeofpassage.school)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Write of Passage
+ - [https://writeofpassage.school](https://writeofpassage.school)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Schwarz Gruppe
+ - [https://gruppe.schwarz](https://gruppe.schwarz)
+ - date_published: 2024-05-06T17:32:17.603223+00:00
+
+ ## Schwarz IT KG
+ - [https://it.schwarz](https://it.schwarz)
+ - date_published: 2024-06-25T19:02:50.238922+00:00
+
+ ## Anonymous GitHub
+ - [https://anonymous.4open.science](https://anonymous.4open.science)
+ - date_published: 2024-06-18T13:07:50.796094+00:00
+
+ ## 8-bit Nintendo Science
+ - [https://8bitnintendo.science](https://8bitnintendo.science)
+ - date_published: 2024-07-23T23:45:38.119741+00:00
+
+ ## The Tianjing Guidelines for Biosecurity | Advancing biosecurity together.
+ - [https://advancingbiosecurity.science](https://advancingbiosecurity.science)
+ - date_published: 2024-06-17T10:47:50.031738+00:00
+
+ ## Alfasoft – Software, Solutions, Service for Research, Science and Engineering
+ - [https://alfasoft.science](https://alfasoft.science)
+ - date_published: 2024-07-09T18:04:06.506730+00:00
+
+ ## Amazon Science homepage
+ - [https://www.amazon.science](https://www.amazon.science)
+ - date_published: 2023-10-25T22:36:50.957929+00:00
+ - tags: ['artificial intelligence', 'machine learning']
+
+ ## Catgirls for Science
+ - [https://mk.catgirlsfor.science](https://mk.catgirlsfor.science)
+ - date_published: 2024-07-15T06:33:49.315621+00:00
+
+ ## Underwater photography by Alexander Semenov
+ - [http://coldwater.science](http://coldwater.science)
+ - date_published: 2018-01-29T00:00:00+00:00
+
+ ## Community Data Science Collective
+ - [https://blog.communitydata.science](https://blog.communitydata.science)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## CommunityData
+ - [https://communitydata.science](https://communitydata.science)
+ - date_published: 2024-04-30T05:44:43.872583+00:00
+
+ ## CommunityData
+ - [https://wiki.communitydata.science](https://wiki.communitydata.science)
+ - date_published: 2024-04-30T05:44:38.686800+00:00
+
+ ## Homepage - International Science Council - International Science Council
+ - [https://council.science](https://council.science)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Gonzales.Science
+ - [https://gonzales.science](https://gonzales.science)
+ - date_published: 2023-10-25T22:36:52.362938+00:00
+
  ## CS 515-A Fundamentals of Computing — CS 515-A  documentation
  - [https://cs515s2024.greenberg.science](https://cs515s2024.greenberg.science)
  - date_published: 2024-01-16T16:36:01+00:00
@@ -3648,10 +3757,6 @@
  - [https://www.physics.uu.se](https://www.physics.uu.se)
  - date_published: 2024-04-18T00:00:00+00:00
 
- ## Uppsala universitet
- - [https://www.uu.se](https://www.uu.se)
- - date_published: 2024-06-13T00:00:00+00:00
-
  ## UX designer i Göteborg (frilans) – UX Mind
  - [https://uxmind.se](https://uxmind.se)
  - date_published: 2024-05-10T00:00:00+00:00
@@ -3933,108 +4038,4 @@
  ## chrome.security
  - [https://chrome.security](https://chrome.security)
  - date_published: 2024-05-11T09:25:36.829366+00:00
-
- ## DevOps Security
- - [https://checklist.devops.security](https://checklist.devops.security)
- - date_published: 2024-04-08T09:11:05+00:00
-
- ## DSPM: Data Security at the Speed of Cloud | Dig Security
- - [https://www.dig.security](https://www.dig.security)
- - date_published: 2023-10-25T22:37:47.275606+00:00
-
- ## Dryrun Security | Get An Automated Security Buddy
- - [https://dryrun.security](https://dryrun.security)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## .Security Domain Names | .Security
- - [https://go.security](https://go.security)
- - date_published: 2024-06-17T07:44:18.346195+00:00
-
- ## Honest Security
- - [https://honest.security](https://honest.security)
- - date_published: 2024-05-04T09:56:27.085750+00:00
-
- ## Impart Security | Integrated API Security
- - [https://www.impart.security](https://www.impart.security)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## End-to-end LLM Cybersecurity Solutions | Lasso
- - [https://lasso.security](https://lasso.security)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Home
- - [https://rtx.meta.security](https://rtx.meta.security)
- - date_published: 2024-06-12T18:54:07.782126+00:00
-
- ## Myrror Security - Myrror Security
- - [https://myrror.security](https://myrror.security)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Runtime application security and observability | Oligo Security
- - [https://www.oligo.security](https://www.oligo.security)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Industry-Leading Cloud Security Solution | Orca Security
- - [https://orca.security](https://orca.security)
- - date_published: 2024-06-16T19:10:30.763386+00:00
-
- ## Active Application Security Posture Management (ASPM) - OX Security
- - [https://www.ox.security](https://www.ox.security)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Phoenix Security Prioritize vulnerabilities from code to cloud
- - [https://phoenix.security](https://phoenix.security)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Positive Security - IT Security Research & Consulting
- - [https://positive.security](https://positive.security)
- - date_published: 2023-10-25T22:37:48.281104+00:00
-
- ## Sublime Security - Cloud email security that’s not a black box
- - [https://sublime.security](https://sublime.security)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## 925 services
- - [https://925.services](https://925.services)
- - date_published: 2024-07-13T16:11:59.249818+00:00
-
- ## AKM Services–your ethically-minded digital partner
- - [https://akm.services](https://akm.services)
- - date_published: 2024-05-09T08:26:14.190635+00:00
-
- ## Book Time with Me
- - [https://cal.services](https://cal.services)
- - date_published: 2024-02-01T16:39:43+00:00
-
- ## Boost and protect your digital business | EBRAND
- - [http://www.ebrand.services](http://www.ebrand.services)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## eID-Services
- - [https://eid.services](https://eid.services)
- - date_published: 2024-01-25T10:32:35+00:00
-
- ## A cloud platform to enrich services made with Ergo Framework.
- - [https://cloud.ergo.services](https://cloud.ergo.services)
- - date_published: 2023-10-25T22:37:54.772238+00:00
-
- ## Jasette FACiLe
- - [https://jasette.facil.services](https://jasette.facil.services)
- - date_published: 2024-07-10T08:18:52.798214+00:00
-
- ## AI Therapy
- - [https://heartfelt.services](https://heartfelt.services)
- - date_published: 2024-06-14T08:55:49.160500+00:00
-
- ## Sign in - Hedengren Services
- - [https://analytics.hedengren.services](https://analytics.hedengren.services)
- - date_published: 2024-06-21T22:19:24.561202+00:00
-
- ## Registrar Portal
- - [https://registrar.identitydigital.services](https://registrar.identitydigital.services)
- - date_published: 2024-06-16T05:51:23.784023+00:00
-
- ## Trk Error
- - [https://srv.isy-teamblue.services](https://srv.isy-teamblue.services)
- - date_published: 2024-06-16T09:30:07.542882+00:00
 

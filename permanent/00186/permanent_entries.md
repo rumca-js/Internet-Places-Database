@@ -1,3 +1,67 @@
+ ## Penn State Earthquake Seismology
+ - [http://eqseis.geosc.psu.edu](http://eqseis.geosc.psu.edu)
+ - date_published: 2019-10-09T12:50:50+00:00
+
+ ## Office of Equal Opportunity and Access |
+ - [https://equalopportunity.psu.edu](https://equalopportunity.psu.edu)
+ - date_published: 2024-07-01T17:24:12+00:00
+
+ ## Page title
+ - [http://equity.psu.edu](http://equity.psu.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## eTD Explore
+ - [https://etda.libraries.psu.edu](https://etda.libraries.psu.edu)
+ - date_published: 2024-07-01T17:38:50.286866+00:00
+
+ ## Penn State Extension | The Pennsylvania State University
+ - [https://extension.psu.edu](https://extension.psu.edu)
+ - date_published: 2024-05-26T06:16:00.881340+00:00
+
+ ## Sign in to your account
+ - [http://ezaccess.libraries.psu.edu](http://ezaccess.libraries.psu.edu)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Penn State Fayette
+ - [http://fayette.psu.edu](http://fayette.psu.edu)
+ - date_published: 2024-07-01T17:29:14+00:00
+
+ ## Penn State Foundation Relations
+ - [https://foundations.psu.edu](https://foundations.psu.edu)
+ - date_published: 2024-07-01T16:41:52+00:00
+
+ ## PSU OUD
+ - [http://giveto.psu.edu](http://giveto.psu.edu)
+ - date_published: 2024-07-01T17:31:23.349991+00:00
+
+ ## Global Penn State
+ - [https://global.psu.edu](https://global.psu.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## The Graduate School at Penn State
+ - [https://gradschool.psu.edu](https://gradschool.psu.edu)
+ - date_published: 2024-07-01T17:39:53.373267+00:00
+
+ ## Penn State Greater Allegheny
+ - [https://greaterallegheny.psu.edu](https://greaterallegheny.psu.edu)
+ - date_published: 2024-07-01T17:09:21+00:00
+
+ ## Penn State Great Valley
+ - [http://greatvalley.psu.edu](http://greatvalley.psu.edu)
+ - date_published: 2024-07-01T15:44:28+00:00
+
+ ## Library Guides
+ - [https://guides.libraries.psu.edu](https://guides.libraries.psu.edu)
+ - date_published: 2015-12-10T14:24:52+00:00
+
+ ## GURU
+ - [https://guru.psu.edu](https://guru.psu.edu)
+ - date_published: 2024-07-01T17:27:07.394723+00:00
+
+ ## Penn State Harrisburg
+ - [http://harrisburg.psu.edu](http://harrisburg.psu.edu)
+ - date_published: 2024-07-01T16:46:40+00:00
+
  ## Penn State Hazleton
  - [https://hazleton.psu.edu](https://hazleton.psu.edu)
  - date_published: 2024-07-01T12:19:42+00:00
@@ -3944,68 +4008,4 @@
  ## Anderson Collection at Stanford University
  - [http://anderson.stanford.edu](http://anderson.stanford.edu)
  - date_published: 2024-05-30T00:00:00+00:00
-
- ## Approaching Stanford
- - [https://approaching.stanford.edu](https://approaching.stanford.edu)
- - date_published: 2024-05-20T21:49:05+00:00
-
- ## Kunle Olukotun
- - [http://arsenalfc.stanford.edu](http://arsenalfc.stanford.edu)
- - date_published: 2019-11-05T18:52:37+00:00
-
- ## Arts Intensive
- - [https://artsintensive.stanford.edu](https://artsintensive.stanford.edu)
- - date_published: 2024-04-26T19:43:24+00:00
-
- ## Stanford Arts
- - [https://arts.stanford.edu](https://arts.stanford.edu)
- - date_published: 2024-05-07T20:30:31.849575+00:00
-
- ## Stanford ASdb Dataset
- - [https://asdb.stanford.edu](https://asdb.stanford.edu)
- - date_published: 2024-01-30T15:39:34+00:00
-
- ## Search Results
- - [https://ask.stanford.edu](https://ask.stanford.edu)
- - date_published: 2024-05-07T20:26:08.500822+00:00
-
- ## Autonomous Systems Laboratory
- - [https://asl.stanford.edu](https://asl.stanford.edu)
- - date_published: 2024-05-07T10:17:56.429005+00:00
-
- ## Stanford Asset CDN
- - [https://assets.stanford.edu](https://assets.stanford.edu)
- - date_published: 2024-07-01T20:12:07.358516+00:00
-
- ## Associated Students of Stanford University
- - [https://assu.stanford.edu](https://assu.stanford.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## init
- - [https://atcasbs.stanford.edu](https://atcasbs.stanford.edu)
- - date_published: 2024-07-01T19:56:12.906323+00:00
-
- ## Stanford | Axess
- - [https://axess.sahr.stanford.edu](https://axess.sahr.stanford.edu)
- - date_published: 2023-09-01T18:19:30+00:00
-
- ## Stanford | Axess
- - [https://axess.stanford.edu](https://axess.stanford.edu)
- - date_published: 2023-09-01T18:19:30+00:00
-
- ## SLAC-Stanford Battery Center | SLAC National Accelerator Laboratory
- - [https://batterycenter.slac.stanford.edu](https://batterycenter.slac.stanford.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Bechtel International Center
- - [https://bechtel.stanford.edu](https://bechtel.stanford.edu)
- - date_published: 2024-07-01T17:10:36+00:00
-
- ## BEHAVIOR – BEHAVIOR
- - [https://behavior.stanford.edu](https://behavior.stanford.edu)
- - date_published: 2024-05-13T22:21:37+00:00
-
- ## Home - Stanford BeWell
- - [https://bewell.stanford.edu](https://bewell.stanford.edu)
- - date_published: 2024-07-01T00:00:00+00:00
 

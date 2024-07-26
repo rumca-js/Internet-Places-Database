@@ -1,3 +1,80 @@
+ ## ImAKappa
+ - [https://imakappa.github.io](https://imakappa.github.io)
+ - date_published: 2021-07-11T05:40:29+00:00
+
+ ## Ishan Misra
+ - [https://imisra.github.io](https://imisra.github.io)
+ - date_published: 2024-05-10T07:01:51.909665+00:00
+ - tags: ['personal']
+
+ ## Joohee Kim’s Blog
+ - [https://imjhk03.github.io](https://imjhk03.github.io)
+ - date_published: 2024-05-22T14:30:50+00:00
+
+ ## The Immersive Web Working Group/Community Group
+ - [https://immersive-web.github.io](https://immersive-web.github.io)
+ - date_published: 2024-04-29T07:47:47.299057+00:00
+
+ ## Immutables.org
+ - [https://immutables.github.io](https://immutables.github.io)
+ - date_published: 2024-07-23T22:48:09.170115+00:00
+
+ ## IMOL@NeurIPS 2024
+ - [https://imol-workshop.github.io](https://imol-workshop.github.io)
+ - date_published: 2024-06-04T17:29:17+00:00
+
+ ## Implicit Behavioral Cloning
+ - [https://implicitbc.github.io](https://implicitbc.github.io)
+ - date_published: 2021-11-19T19:35:13+00:00
+
+ ## Inbar Mosseri
+ - [https://inbar-mosseri.github.io](https://inbar-mosseri.github.io)
+ - date_published: 2024-01-23T23:52:48+00:00
+
+ ## Interpretable Inductive Biases and Physically Structured Learning
+ - [https://inductive-biases.github.io](https://inductive-biases.github.io)
+ - date_published: 2020-12-11T15:07:28+00:00
+
+ ## Ines Chami
+ - [https://ines-chami.github.io](https://ines-chami.github.io)
+ - date_published: 2022-03-01T01:19:31+00:00
+
+ ## InfiniteNatureZero
+ - [https://infinite-nature-zero.github.io](https://infinite-nature-zero.github.io)
+ - date_published: 2023-04-27T21:08:56+00:00
+
+ ## InkyBlackness
+ - [http://inkyblackness.github.io](http://inkyblackness.github.io)
+ - date_published: 2018-07-28T08:03:36+00:00
+
+ ## In-N-Out
+ - [https://in-n-out-3d.github.io](https://in-n-out-3d.github.io)
+ - date_published: 2024-05-29T22:07:27+00:00
+
+ ## Inpaint3D: 3D Scene Content Generation using 2D Inpainting Diffusion
+ - [https://inpaint3d.github.io](https://inpaint3d.github.io)
+ - date_published: 2023-12-16T04:20:56+00:00
+
+ ## Instruction Tuning with GPT-4
+ - [https://instruction-tuning-with-gpt-4.github.io](https://instruction-tuning-with-gpt-4.github.io)
+ - date_published: 2023-04-11T22:19:24+00:00
+
+ ## Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions
+ - [https://instruct-nerf2nerf.github.io](https://instruct-nerf2nerf.github.io)
+ - date_published: 2023-10-25T19:46:36.357698+00:00
+
+ ## Instructor Text Embedding
+ - [https://instructor-embedding.github.io](https://instructor-embedding.github.io)
+ - date_published: 2024-06-30T14:37:45+00:00
+
+ ## Redirecting…
+ - [https://intel.github.io](https://intel.github.io)
+ - date_published: 2023-10-25T19:46:42.447401+00:00
+
+ ## IntelliJ V Plugin
+ - [https://intellij-v.github.io](https://intellij-v.github.io)
+ - date_published: 2023-06-30T13:01:00+00:00
+
  ## InterCode
  - [https://intercode-benchmark.github.io](https://intercode-benchmark.github.io)
  - date_published: 2023-10-28T21:59:36+00:00
@@ -3977,82 +4054,4 @@
  ## Peridot PHP - Event driven BDD test framework for PHP!
  - [https://peridot-php.github.io](https://peridot-php.github.io)
  - date_published: 2024-05-12T06:39:00.112730+00:00
-
- ## Let’s get Person-al
- - [https://person-al.github.io](https://person-al.github.io)
- - date_published: 2024-07-23T23:31:21.754467+00:00
-
- ## PIL | The Hunt '24
- - [https://pes-innovation-lab.github.io](https://pes-innovation-lab.github.io)
- - date_published: 2024-05-01T02:57:39.707847+00:00
-
- ## Home
- - [https://petargyurov.github.io](https://petargyurov.github.io)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## Peter Baile Chen
- - [https://peterbaile.github.io](https://peterbaile.github.io)
- - date_published: 2024-04-28T03:38:48.704057+00:00
-
- ## Peter Eckmann
- - [https://petereckmann1.github.io](https://petereckmann1.github.io)
- - date_published: 2024-03-27T10:58:11+00:00
-
- ## Sheng-Yu Wang Homepage
- - [https://peterwang512.github.io](https://peterwang512.github.io)
- - date_published: 2023-10-09T07:32:26+00:00
-
- ## Petr Lorenc
- - [https://petrlorenc.github.io](https://petrlorenc.github.io)
- - date_published: 2024-01-22T03:52:33.980694+00:00
-
- ## PGPTool - use this tool to encrypt and decrypt PGP files. OpenPGP compatible
- - [https://pgptool.github.io](https://pgptool.github.io)
- - date_published: 2023-05-25T07:34:03+00:00
-
- ## Perception as generative reasoning
- - [https://pgr-workshop.github.io](https://pgr-workshop.github.io)
- - date_published: 2019-12-30T15:49:14+00:00
-
- ## PH3 Blog
- - [https://ph3at.github.io](https://ph3at.github.io)
- - date_published: 2023-12-31T16:52:16+00:00
-
- ## Dreamworld
- - [https://phdenzel.github.io](https://phdenzel.github.io)
- - date_published: 2024-04-30T07:32:36.242368+00:00
-
- ## Phenaki
- - [https://phenaki.github.io](https://phenaki.github.io)
- - date_published: 2023-03-14T04:49:05+00:00
-
- ## Phil Pearl's Blog
- - [https://philpearl.github.io](https://philpearl.github.io)
- - date_published: 2023-10-25T08:59:13.014092+00:00
- - tags: ['personal']
-
- ## My public GitHub repositories
- - [https://phiresky.github.io](https://phiresky.github.io)
- - date_published: 2023-10-25T19:51:09.677043+00:00
-
- ## Michał "phoe" Herda
- - [https://phoe.github.io](https://phoe.github.io)
- - date_published: 2022-12-14T22:58:22+00:00
-
- ## PhotoShape: Photorealistic Materials for Large-Scale Shape Collections — Keunhong Park
- - [https://photoshape.github.io](https://photoshape.github.io)
- - date_published: 2021-06-29T23:09:14+00:00
-
- ## Photoview
- - [https://photoview.github.io](https://photoview.github.io)
- - date_published: 2024-04-08T19:30:20.339984+00:00
- - tags: ['photo library', 'self-host']
-
- ## Po-Han Huang's Homepage
- - [https://phuang17.github.io](https://phuang17.github.io)
- - date_published: 2021-11-15T15:17:20+00:00
-
- ## Improved Diffusion-based Image Colorization via Piggybacked Models
- - [https://piggyback-color.github.io](https://piggyback-color.github.io)
- - date_published: 2024-04-28T03:41:50.812142+00:00
 

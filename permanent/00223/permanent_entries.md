@@ -1,3 +1,80 @@
+ ## Frictionless Self-Publishing for Tech-Savvy Writers |  Softcover.io
+ - [https://softcover.io](https://softcover.io)
+ - date_published: 2024-05-06T13:49:26.770769+00:00
+
+ ## Career board | PIA Media
+ - [https://piamedia.softgarden.io](https://piamedia.softgarden.io)
+ - date_published: 2024-06-25T22:43:35.922928+00:00
+
+ ## Build client portals and internal tools powered by Airtable or Google Sheets data, without code | Softr
+ - [https://softr.io](https://softr.io)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Softr Studio
+ - [https://studio.softr.io](https://studio.softr.io)
+ - date_published: 2024-07-09T03:59:39+00:00
+
+ ## Track and trade all Solana Coins securely on Solana Tracker
+ - [https://www.solanatracker.io](https://www.solanatracker.io)
+ - date_published: 2024-07-12T17:05:27.461520+00:00
+
+ ## Real-time solar monitoring from a Raspberry Pi | SolarAssistant Software
+ - [https://solar-assistant.io](https://solar-assistant.io)
+ - date_published: 2024-07-19T19:32:41.319364+00:00
+
+ ## Solidified | Smart Contract Auditing Firm
+ - [https://www.solidified.io](https://www.solidified.io)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Sign in · GitLab
+ - [https://gitlab.solidsilicon.io](https://gitlab.solidsilicon.io)
+ - date_published: 2024-07-07T10:29:07.603227+00:00
+
+ ## Solidus - Sample Store
+ - [https://demo.solidus.io](https://demo.solidus.io)
+ - date_published: 2024-06-19T22:21:43.280262+00:00
+
+ ## Solidus | Become the brand everyone talks about
+ - [https://solidus.io](https://solidus.io)
+ - date_published: 2024-06-19T22:22:59.668231+00:00
+
+ ## Solo.io | Leading Provider of API Gateway, Service Mesh and Internal Developer Portal Solutions
+ - [https://www.solo.io](https://www.solo.io)
+ - date_published: 2024-06-16T19:10:43.729545+00:00
+
+ ## Solopreneur Masterclass
+ - [https://sololab.io](https://sololab.io)
+ - date_published: 2024-06-20T04:50:27.632039+00:00
+
+ ## Sam Solomon | Designer, Writer and Developer
+ - [https://solomon.io](https://solomon.io)
+ - date_published: 2024-03-25T12:15:25.250589+00:00
+ - tags: ['personal']
+
+ ## Solscan
+ - [https://solscan.io](https://solscan.io)
+ - date_published: 2024-06-16T08:51:33.582179+00:00
+
+ ## SolSea | NFT Marketplace on Solana - SolSea
+ - [https://solsea.io](https://solsea.io)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Reverie by Daniel Cawrey | Substack
+ - [https://www.somereverie.io](https://www.somereverie.io)
+ - date_published: 2024-02-26T12:41:19.431691+00:00
+
+ ## SonarCloud Online Code Review as a Service Tool
+ - [https://sonarcloud.io](https://sonarcloud.io)
+ - date_published: 2024-04-29T05:16:27.060444+00:00
+
+ ## Sonify – Audio | Data | Emerging Technologies
+ - [https://www.sonify.io](https://www.sonify.io)
+ - date_published: 2024-06-19T20:36:38.007881+00:00
+
+ ## 🐸 Amphibian Advice 🙏
+ - [https://amphibian-advice.sonnet.io](https://amphibian-advice.sonnet.io)
+ - date_published: 2024-06-22T22:32:26.973701+00:00
+
  ## Rafał Pastuszak
  - [https://consulting.sonnet.io](https://consulting.sonnet.io)
  - date_published: 2024-05-06T12:56:30.369688+00:00
@@ -3955,82 +4032,4 @@ End-to-end typesafe APIs made easy. | tRPC
  ## Vidverto | Video Ad Platform
  - [https://vidverto.io](https://vidverto.io)
  - date_published: 2024-02-27T00:00:00+00:00
-
- ## ViewBlock | Blog
- - [https://blog.viewblock.io](https://blog.viewblock.io)
- - date_published: 2024-07-17T16:25:49.868487+00:00
-
- ## ViewBlock
- - [https://viewblock.io](https://viewblock.io)
- - date_published: 2024-05-14T02:51:16.904973+00:00
-
- ## UNIVERSE by ViewSonic
- - [https://universe.viewsonic.io](https://universe.viewsonic.io)
- - date_published: 2024-05-12T04:54:40.813844+00:00
-
- ## Vikram Sreekanti
- - [http://www.vikrams.io](http://www.vikrams.io)
- - date_published: 2024-07-01T20:09:33.474839+00:00
-
- ## Vikunja
- - [https://code.vikunja.io](https://code.vikunja.io)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Vikunja Community
- - [https://community.vikunja.io](https://community.vikunja.io)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Subscribe
- - [https://newsletter-subscribe.vikunja.io](https://newsletter-subscribe.vikunja.io)
- - date_published: 2024-05-14T03:31:52.253498+00:00
-
- ## Vikunja
- - [https://try.vikunja.io](https://try.vikunja.io)
- - date_published: 2024-05-14T03:31:53.719908+00:00
-
- ## The open-source, self-hostable to-do app | Vikunja
- - [https://vikunja.io](https://vikunja.io)
- - date_published: 2023-10-25T20:12:15.087469+00:00
- - tags: ['self-host']
-
- ## Vinayak Mehta · (vortex_ape)
- - [https://vinayak.io](https://vinayak.io)
- - date_published: 2024-01-07T08:43:38.082726+00:00
-
- ## Vincere Identity
- - [https://lotuspartners.vincere.io](https://lotuspartners.vincere.io)
- - date_published: 2024-03-30T01:21:20+00:00
-
- ## Maurice Parker
-    - Maurice Parker
- - [https://vincode.io](https://vincode.io)
- - date_published: 2021-01-01T00:00:00+00:00
-
- ## Get Organized with Zavala
- - [https://zavala.vincode.io](https://zavala.vincode.io)
- - date_published: 2024-05-06T14:44:30.809775+00:00
-
- ## VingtCinq | Fabrique Digitale - Web sur-mesure
- - [https://vingtcinq.io](https://vingtcinq.io)
- - date_published: 2024-06-27T16:51:14+00:00
-
- ## Self-hosted chat, video conference, remote control and collaboration tool
- - [https://virola.io](https://virola.io)
- - date_published: 2024-07-08T20:09:52.602772+00:00
-
- ## Virtkick - The best VPS control panel for hosting providers
- - [https://www.virtkick.io](https://www.virtkick.io)
- - date_published: 2018-10-01T07:10:20+00:00
-
- ## Virtual Coffee IO - An intimate tech community for all, optimized for you
- - [https://virtualcoffee.io](https://virtualcoffee.io)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## VirusBay
- - [https://beta.virusbay.io](https://beta.virusbay.io)
- - date_published: 2020-03-02T16:26:43+00:00
-
- ## Visa List - Global Visa requirements
- - [https://visalist.io](https://visalist.io)
- - date_published: 2024-06-22T23:20:57.269679+00:00
 

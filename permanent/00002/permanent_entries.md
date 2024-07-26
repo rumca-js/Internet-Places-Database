@@ -1,7 +1,3 @@
- ## Sakana AI
- - [https://sakana.ai](https://sakana.ai)
- - date_published: 2024-06-13T06:40:32.283220+00:00
-
  ## Landing Page Relaunch | SalesMirror.ai
  - [https://salesmirror.ai](https://salesmirror.ai)
  - date_published: 2024-01-30T15:19:20+00:00
@@ -294,6 +290,10 @@
  ## SimpleMail
  - [https://simplemail.ai](https://simplemail.ai)
  - date_published: 2024-06-17T09:02:13+00:00
+
+ ## Show HN: NoteTech – Create personal automations by writing notes
+ - [https://www.simpltech.ai](https://www.simpltech.ai)
+ - date_published: 2024-07-24T18:00:17+00:00
 
  ## Write content, faster & better -in seconds.
  - [https://www.sincode.ai](https://www.sincode.ai)
@@ -1368,6 +1368,10 @@
  ## Undermind
  - [https://app.undermind.ai](https://app.undermind.ai)
  - date_published: 2024-01-24T17:05:57.127775+00:00
+
+ ## Undermind Deep Scientific Search
+ - [https://www.undermind.ai](https://www.undermind.ai)
+ - date_published: 2024-07-25T17:30:46.536990+00:00
 
  ## Infinite Ground Truth / understand.ai
  - [https://understand.ai](https://understand.ai)
@@ -4024,8 +4028,4 @@ Creative Solutions
  ## AI-powered Content Workflows for Teams | DC I/O
  - [https://dcio.app](https://dcio.app)
  - date_published: 2024-01-30T00:00:00+00:00
-
- ## DecisionMentor – Let us be your decision making compass.
- - [https://decisionmentor.app](https://decisionmentor.app)
- - date_published: 2024-06-19T20:39:15.865331+00:00
 

@@ -1,3 +1,83 @@
+ ## BigHandInSky - itch.io
+ - [https://bighandinsky.itch.io](https://bighandinsky.itch.io)
+ - date_published: 2024-06-22T14:45:43.665415+00:00
+
+ ## bignastytruck (violet) - itch.io
+ - [https://bignastytruck.itch.io](https://bignastytruck.itch.io)
+ - date_published: 2024-05-06T06:34:59.312901+00:00
+
+ ## Bilalaika - itch.io
+ - [https://bilalaika.itch.io](https://bilalaika.itch.io)
+ - date_published: 2024-05-10T04:10:20.666683+00:00
+
+ ## Binary Star Games - itch.io
+ - [https://binary-star-games.itch.io](https://binary-star-games.itch.io)
+ - date_published: 2024-05-10T04:02:38.757608+00:00
+
+ ## bitplan - itch.io
+ - [https://bitplan.itch.io](https://bitplan.itch.io)
+ - date_published: 2024-02-06T13:54:27.619990+00:00
+
+ ## blabberf - itch.io
+ - [https://blabberf.itch.io](https://blabberf.itch.io)
+ - date_published: 2024-07-02T23:50:12.823185+00:00
+
+ ## black_and_noir - itch.io
+ - [https://black-and-noir.itch.io](https://black-and-noir.itch.io)
+ - date_published: 2024-06-22T14:47:38.410320+00:00
+
+ ## BlackCastle - itch.io
+ - [https://blackcastle.itch.io](https://blackcastle.itch.io)
+ - date_published: 2024-05-10T04:10:06.210553+00:00
+
+ ## Blackjet games - itch.io
+ - [https://blackjet.itch.io](https://blackjet.itch.io)
+ - date_published: 2024-05-08T17:19:39.339570+00:00
+
+ ## BlackwellWriter - itch.io
+ - [https://blackwellwriter.itch.io](https://blackwellwriter.itch.io)
+ - date_published: 2023-10-25T19:57:45.103109+00:00
+
+ ## Blinking Birch Games - itch.io
+ - [https://blinkingbirchgames.itch.io](https://blinkingbirchgames.itch.io)
+ - date_published: 2024-05-04T16:00:34.158667+00:00
+
+ ## Blodyavenger - itch.io
+ - [https://blodyavenger.itch.io](https://blodyavenger.itch.io)
+ - date_published: 2024-07-11T22:46:49.079946+00:00
+
+ ## Blood Machine - itch.io
+ - [https://blood-machine.itch.io](https://blood-machine.itch.io)
+ - date_published: 2024-07-03T03:25:52.722461+00:00
+
+ ## Blu - itch.io
+ - [https://blumakesgames.itch.io](https://blumakesgames.itch.io)
+ - date_published: 2024-07-11T23:28:07.551906+00:00
+
+ ## bobcgames - itch.io
+ - [https://bobcgames.itch.io](https://bobcgames.itch.io)
+ - date_published: 2024-07-11T23:20:59.851488+00:00
+
+ ## Bogus Cheesecake - itch.io
+ - [https://boguscheesecake.itch.io](https://boguscheesecake.itch.io)
+ - date_published: 2024-07-11T23:00:03.226890+00:00
+
+ ## BootdiskRevolution - itch.io
+ - [https://bootdiskrevolution.itch.io](https://bootdiskrevolution.itch.io)
+ - date_published: 2024-07-11T23:14:32.399243+00:00
+
+ ## Bork Games - itch.io
+ - [https://borkgames.itch.io](https://borkgames.itch.io)
+ - date_published: 2024-06-22T14:37:33.541495+00:00
+
+ ## Valeriy Petrov - itch.io
+ - [https://boticelly.itch.io](https://boticelly.itch.io)
+ - date_published: 2024-05-06T06:35:15.852348+00:00
+
+ ## boyproblems - itch.io
+ - [https://boyproblems.itch.io](https://boyproblems.itch.io)
+ - date_published: 2024-06-22T15:04:11.777560+00:00
+
  ## breathingstories - itch.io
  - [https://breathingstories.itch.io](https://breathingstories.itch.io)
  - date_published: 2024-07-11T23:15:25.871741+00:00
@@ -3919,84 +3999,4 @@
  ## UBCO Video Game Development Club - itch.io
  - [https://ubcovgdc.itch.io](https://ubcovgdc.itch.io)
  - date_published: 2024-05-04T10:13:58.207302+00:00
-
- ## ultrabrilliant - itch.io
- - [https://ultrabrilliant.itch.io](https://ultrabrilliant.itch.io)
- - date_published: 2024-05-06T06:33:45.722609+00:00
-
- ## ultrmnbstrd - itch.io
- - [https://ultrmnbstrd.itch.io](https://ultrmnbstrd.itch.io)
- - date_published: 2024-06-22T15:05:04.617308+00:00
-
- ## Amiga Cammy - itch.io
- - [https://underground-arcade.itch.io](https://underground-arcade.itch.io)
- - date_published: 2024-05-08T17:19:31.517222+00:00
-
- ## UndreamedPanic - itch.io
- - [https://undreamedpanic.itch.io](https://undreamedpanic.itch.io)
- - date_published: 2024-06-22T14:47:31.905179+00:00
-
- ## Uniday Studio - itch.io
- - [https://unidaystudio.itch.io](https://unidaystudio.itch.io)
- - date_published: 2023-11-01T15:43:57.773429+00:00
-
- ## unikotoast - itch.io
- - [https://unikotoast.itch.io](https://unikotoast.itch.io)
- - date_published: 2024-07-11T23:28:16.758768+00:00
-
- ## unseeliejess - itch.io
- - [https://unseeliejess.itch.io](https://unseeliejess.itch.io)
- - date_published: 2024-07-11T23:17:59.818659+00:00
-
- ## Urania Games - itch.io
- - [https://urania-games.itch.io](https://urania-games.itch.io)
- - date_published: 2024-06-22T15:03:39.905922+00:00
-
- ## Vaida - itch.io
- - [https://vaidap.itch.io](https://vaidap.itch.io)
- - date_published: 2024-05-06T06:34:42.110242+00:00
-
- ## Valhallions - itch.io
- - [https://valhallions.itch.io](https://valhallions.itch.io)
- - date_published: 2024-07-11T23:01:34.776976+00:00
-
- ## Vandel Arden - itch.io
- - [https://vandelarden.itch.io](https://vandelarden.itch.io)
- - date_published: 2024-05-10T04:03:29.232760+00:00
-
- ## Vanderlyle - itch.io
- - [https://vanderlyle.itch.io](https://vanderlyle.itch.io)
- - date_published: 2024-07-11T23:17:42.494874+00:00
-
- ## Glitched Velocity - itch.io
- - [https://vazahat.itch.io](https://vazahat.itch.io)
- - date_published: 2024-05-10T04:03:27.639129+00:00
-
- ## vazgriz - itch.io
- - [https://vazgriz.itch.io](https://vazgriz.itch.io)
- - date_published: 2024-05-06T21:34:37.882002+00:00
-
- ## Vector5 Games - itch.io
- - [https://vector5games.itch.io](https://vector5games.itch.io)
- - date_published: 2024-05-08T17:19:48.029401+00:00
-
- ## venoxxx - itch.io
- - [https://venoxxx.itch.io](https://venoxxx.itch.io)
- - date_published: 2024-06-27T15:57:43.818477+00:00
-
- ## verdantium - itch.io
- - [https://verdantium.itch.io](https://verdantium.itch.io)
- - date_published: 2024-06-22T15:04:57.300410+00:00
-
- ## Robin Johnson - itch.io
- - [https://versificator.itch.io](https://versificator.itch.io)
- - date_published: 2024-07-10T02:38:26.869047+00:00
-
- ## verysoftwares - itch.io
- - [https://verysoftwares.itch.io](https://verysoftwares.itch.io)
- - date_published: 2024-05-09T09:10:37.133948+00:00
-
- ## Studio Vetea - itch.io
- - [https://vetea.itch.io](https://vetea.itch.io)
- - date_published: 2024-07-11T11:37:33.283236+00:00
 

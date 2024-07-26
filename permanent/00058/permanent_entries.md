@@ -1,3 +1,48 @@
+ ## DeSci Belgrade – DeSci Belgrade
+ - [https://descibelgrade.com](https://descibelgrade.com)
+ - date_published: 2024-06-16T03:51:39.140658+00:00
+
+ ## Descope | Authentication and user management platform
+ - [https://descope.com](https://descope.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Descript | All-in-one video & podcast editing, easy as a doc.
+ - [https://descript.com](https://descript.com)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Descript Feedback
+ - [https://feedback.descript.com](https://feedback.descript.com)
+ - date_published: 2024-06-23T08:10:38.371043+00:00
+
+ ## Descript Help
+ - [https://help.descript.com](https://help.descript.com)
+ - date_published: 2024-07-19T05:15:04.062023+00:00
+
+ ## Descript | All-in-one video & podcast editing, easy as a doc.
+ - [https://share.descript.com](https://share.descript.com)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Descript Status
+ - [https://status.descript.com](https://status.descript.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Descript
+ - [https://web.descript.com](https://web.descript.com)
+ - date_published: 2024-06-23T08:10:40.019244+00:00
+
+ ## STRATO - Domain not available
+ - [http://www.desdecuba.com](http://www.desdecuba.com)
+ - date_published: 2022-07-27T11:55:26+00:00
+
+ ## Deseret News
+ - [https://deseret.com](https://deseret.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+ - tags: ['utah news']
+
+ ## Deseret News
+ - [https://pages.deseret.com](https://pages.deseret.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## Deseret News Marathon
  - [https://run.deseret.com](https://run.deseret.com)
  - date_published: 2024-06-15T22:35:30.131137+00:00
@@ -3991,48 +4036,4 @@ A blog about programming, distributed systems and others
  ## Seasonal, fresh, healthy food | DIG
  - [https://www.diginn.com](https://www.diginn.com)
  - date_published: 2024-07-20T16:34:11.194106+00:00
-
- ## DigiPen Game Studios
- - [https://www.digipengamestudios.com](https://www.digipengamestudios.com)
- - date_published: 2024-07-14T10:34:13.366441+00:00
-
- ## Home - Digipesa
- - [https://digipesa.com](https://digipesa.com)
- - date_published: 2024-06-16T05:13:40.839610+00:00
-
- ## Home | Digital Purpose
- - [https://digipurpose.com](https://digipurpose.com)
- - date_published: 2023-06-22T09:15:49+00:00
-
- ## DigiSomni | Metaverse Development
- - [https://digisomni.com](https://digisomni.com)
- - date_published: 2024-07-11T12:54:59.878594+00:00
-
- ## Karriere bei Digistore24
- - [https://careers.digistore24.com](https://careers.digistore24.com)
- - date_published: 2024-06-20T02:21:27.076215+00:00
-
- ## Digistore24-Developers
- - [https://dev.digistore24.com](https://dev.digistore24.com)
- - date_published: 2024-06-20T02:21:13.903947+00:00
-
- ## Digistore24
- - [https://digistore24.com](https://digistore24.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Features | Digistore24
- - [https://features.digistore24.com](https://features.digistore24.com)
- - date_published: 2024-06-20T02:21:12.123833+00:00
-
- ## Digistore24
- - [https://help.digistore24.com](https://help.digistore24.com)
- - date_published: 2024-06-20T02:21:20.740831+00:00
-
- ## Mobile App | Digistore24
- - [https://mobileapp.digistore24.com](https://mobileapp.digistore24.com)
- - date_published: 2024-06-20T02:21:16.923517+00:00
-
- ## Digistore24 Blog – Digital Verkaufen & Affiliate Marketing
- - [https://news.digistore24.com](https://news.digistore24.com)
- - date_published: 2024-06-20T02:21:05.451725+00:00
 

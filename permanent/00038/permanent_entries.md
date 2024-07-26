@@ -1,3 +1,35 @@
+ ## A Weekly Dose of Architecture Books
+ - [http://archidose.blogspot.com](http://archidose.blogspot.com)
+ - date_published: 2024-06-27T07:16:07+00:00
+
+ ## architect design™
+ - [https://architectdesign.blogspot.com](https://architectdesign.blogspot.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## MY ARCHITECTURAL MOLESKINE®
+ - [http://architecturalmoleskine.blogspot.com](http://architecturalmoleskine.blogspot.com)
+ - date_published: 2024-06-20T03:02:04+00:00
+
+ ## Architecture + Morality
+ - [http://architectureandmorality.blogspot.com](http://architectureandmorality.blogspot.com)
+ - date_published: 2024-06-25T09:18:41+00:00
+
+ ## Architecture/Cosmopolis
+ - [https://architecture-chiefly.blogspot.com](https://architecture-chiefly.blogspot.com)
+ - date_published: 2024-03-05T08:50:48+00:00
+
+ ## Architecture Tourist
+ - [https://architecturetourist.blogspot.com](https://architecturetourist.blogspot.com)
+ - date_published: 2024-06-28T09:51:23+00:00
+
+ ## ArchivesInfo
+ - [http://archivesinfo.blogspot.com](http://archivesinfo.blogspot.com)
+ - date_published: 2024-06-24T02:23:04+00:00
+
+ ## Arctic News
+ - [https://arctic-news.blogspot.com](https://arctic-news.blogspot.com)
+ - date_published: 2024-06-30T00:10:00+00:00
+
  ## AREA 23
  - [http://area-23.blogspot.com](http://area-23.blogspot.com)
  - date_published: 2024-03-08T04:15:38+00:00
@@ -3991,36 +4023,4 @@
  ## Deep Dark Dungeons
  - [http://deepdarkdungeons.blogspot.com](http://deepdarkdungeons.blogspot.com)
  - date_published: 2024-07-16T22:33:43+00:00
-
- ## em tons de azul
- - [http://deep-umpoucomaisdeazul.blogspot.com](http://deep-umpoucomaisdeazul.blogspot.com)
- - date_published: 2024-07-03T02:48:50+00:00
-
- ## BishopBlog
- - [https://deevybee.blogspot.com](https://deevybee.blogspot.com)
- - date_published: 2023-11-19T21:54:20.334258+00:00
-
- ## Blogger
- - [http://def1125.blogspot.com](http://def1125.blogspot.com)
- - date_published: 2024-06-30T06:30:07.529000+00:00
-
- ## TRUMP COUNTRY - 1
- - [http://defeatbarackobamain2012.blogspot.com](http://defeatbarackobamain2012.blogspot.com)
- - date_published: 2024-03-13T10:03:40+00:00
-
- ## Defence of the Realm
- - [http://defenceoftherealm.blogspot.com](http://defenceoftherealm.blogspot.com)
- - date_published: 2024-03-13T17:49:51+00:00
-
- ## Defence and Freedom
- - [http://defense-and-freedom.blogspot.com](http://defense-and-freedom.blogspot.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## DTG
- - [https://defensivetraininggroup.blogspot.com](https://defensivetraininggroup.blogspot.com)
- - date_published: 2024-06-24T21:45:39+00:00
-
- ## [Un]defined behavior
- - [http://definedbehavior.blogspot.com](http://definedbehavior.blogspot.com)
- - date_published: 2024-02-07T08:10:42+00:00
 

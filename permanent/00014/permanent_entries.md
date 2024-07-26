@@ -1,3 +1,19 @@
+ ## ARAB BANK
+ - [https://www.arabbank.ch](https://www.arabbank.ch)
+ - date_published: 2024-04-30T05:58:29.461071+00:00
+
+ ## Archimaster – Promouvoir les projets des étudiant·e·x·s en Master en architecture de l'ENAC – EPFL
+ - [https://archimaster.ch](https://archimaster.ch)
+ - date_published: 2024-05-12T07:15:11.247684+00:00
+
+ ## Accueil – Architecture Suisse
+ - [https://architecturesuisse.ch](https://architecturesuisse.ch)
+ - date_published: 2024-06-14T15:27:49.944117+00:00
+
+ ## Archivista
+ - [https://archivista.ch](https://archivista.ch)
+ - date_published: 2021-01-14T00:38:18+00:00
+
  ## ArchTech — Meticulously architected web applications
  - [https://archte.ch](https://archte.ch)
  - date_published: 2024-06-19T09:30:16.298408+00:00
@@ -102,6 +118,10 @@
  ## BaselOne: Die Software-Entwicklungskonferenz für das Dreiland
  - [https://baselone.ch](https://baselone.ch)
  - date_published: 2024-04-29T06:28:45.276009+00:00
+
+ ## Startseite - Bauer-Plus
+ - [https://www.bauer-plus.ch](https://www.bauer-plus.ch)
+ - date_published: 2024-07-25T09:47:41.960115+00:00
 
  ## Agenda - Basler Zeitung
  - [https://agenda.bazonline.ch](https://agenda.bazonline.ch)
@@ -3995,24 +4015,4 @@
  ## Versicherungen & Vorsorge in der Schweiz | die Mobiliar
  - [https://www.mobiliar.ch](https://www.mobiliar.ch)
  - date_published: 2024-07-17T11:16:13.429024+00:00
-
- ## Assurances & prévoyance en Suisse | la Mobilière
- - [https://www.mobiliere.ch](https://www.mobiliere.ch)
- - date_published: 2024-07-03T06:43:15.867385+00:00
-
- ## Mobilunity - Anbieter von Dedizierten Entwickler-Teams
- - [https://mobilunity.ch](https://mobilunity.ch)
- - date_published: 0207-11-11T16:31:36+00:00
-
- ## Moneyhouse - Handelsregister- & Wirtschaftsinformationen
- - [https://www.moneyhouse.ch](https://www.moneyhouse.ch)
- - date_published: 2024-06-29T08:33:14.654363+00:00
-
- ## Jobs | Stellenangebote | Jobsuche | Jobbörse | Monster.ch
- - [https://www.monster.ch](https://www.monster.ch)
- - date_published: 2024-06-16T13:57:55.151097+00:00
-
- ## Commune de Montreux - Accueil
- - [http://www.montreux.ch](http://www.montreux.ch)
- - date_published: 2024-07-11T00:00:00+00:00
 

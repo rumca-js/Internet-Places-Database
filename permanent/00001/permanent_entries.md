@@ -3355,10 +3355,6 @@
  - [https://profilepicture.ai](https://profilepicture.ai)
  - date_published: 2024-07-24T02:30:50.604521+00:00
 
- ## AI Profile Picture Generator and Maker | PFP.AI
- - [https://www.profilepicture.ai](https://www.profilepicture.ai)
- - date_published: 2024-06-19T19:10:58.721219+00:00
-
  ## Project Planner – Ai powered Project management tools
  - [https://projectplanner.ai](https://projectplanner.ai)
  - date_published: 2024-06-19T19:51:28.975369+00:00
@@ -4025,4 +4021,8 @@
  ## Center for AI Safety (CAIS)
  - [https://safe.ai](https://safe.ai)
  - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Sakana AI
+ - [https://sakana.ai](https://sakana.ai)
+ - date_published: 2024-06-13T06:40:32.283220+00:00
 

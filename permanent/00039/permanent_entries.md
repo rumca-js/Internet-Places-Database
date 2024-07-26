@@ -1,3 +1,35 @@
+ ## em tons de azul
+ - [http://deep-umpoucomaisdeazul.blogspot.com](http://deep-umpoucomaisdeazul.blogspot.com)
+ - date_published: 2024-07-03T02:48:50+00:00
+
+ ## BishopBlog
+ - [https://deevybee.blogspot.com](https://deevybee.blogspot.com)
+ - date_published: 2023-11-19T21:54:20.334258+00:00
+
+ ## Blogger
+ - [http://def1125.blogspot.com](http://def1125.blogspot.com)
+ - date_published: 2024-06-30T06:30:07.529000+00:00
+
+ ## TRUMP COUNTRY - 1
+ - [http://defeatbarackobamain2012.blogspot.com](http://defeatbarackobamain2012.blogspot.com)
+ - date_published: 2024-03-13T10:03:40+00:00
+
+ ## Defence of the Realm
+ - [http://defenceoftherealm.blogspot.com](http://defenceoftherealm.blogspot.com)
+ - date_published: 2024-03-13T17:49:51+00:00
+
+ ## Defence and Freedom
+ - [http://defense-and-freedom.blogspot.com](http://defense-and-freedom.blogspot.com)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## DTG
+ - [https://defensivetraininggroup.blogspot.com](https://defensivetraininggroup.blogspot.com)
+ - date_published: 2024-06-24T21:45:39+00:00
+
+ ## [Un]defined behavior
+ - [http://definedbehavior.blogspot.com](http://definedbehavior.blogspot.com)
+ - date_published: 2024-02-07T08:10:42+00:00
+
  ## Defrobnication
  - [http://defrobnication.blogspot.com](http://defrobnication.blogspot.com)
  - date_published: 2024-02-08T17:53:13+00:00
@@ -3985,36 +4017,4 @@
  ## To infinity and beyond
  - [https://heenamahour.blogspot.com](https://heenamahour.blogspot.com)
  - date_published: 2017-12-02T00:00:00+00:00
-
- ## Leftists as Elitists
- - [http://heghinian.blogspot.com](http://heghinian.blogspot.com)
- - date_published: 2024-02-08T20:06:34+00:00
-
- ## HeiDeas
- - [http://heideas.blogspot.com](http://heideas.blogspot.com)
- - date_published: 2024-03-08T19:31:44+00:00
-
- ## Fearless Journeys & Epic Transformations
- - [http://heidigwrites.blogspot.com](http://heidigwrites.blogspot.com)
- - date_published: 2024-03-31T01:56:37+00:00
-
- ## Heiko See Berger
- - [http://heikoseeberger.blogspot.com](http://heikoseeberger.blogspot.com)
- - date_published: 2024-03-08T23:32:25+00:00
-
- ## Heissatopia
- - [http://heissfamily.blogspot.com](http://heissfamily.blogspot.com)
- - date_published: 2024-07-20T00:25:00+00:00
-
- ## Heiss History
- - [http://heisshistory.blogspot.com](http://heisshistory.blogspot.com)
- - date_published: 2024-02-02T21:37:20+00:00
-
- ## Hekatoncheires
- - [http://hekatoncheires.blogspot.com](http://hekatoncheires.blogspot.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Helix Mod
- - [https://helixmod.blogspot.com](https://helixmod.blogspot.com)
- - date_published: 2024-03-11T00:00:00+00:00
 

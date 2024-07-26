@@ -1,3 +1,35 @@
+ ## Leftists as Elitists
+ - [http://heghinian.blogspot.com](http://heghinian.blogspot.com)
+ - date_published: 2024-02-08T20:06:34+00:00
+
+ ## HeiDeas
+ - [http://heideas.blogspot.com](http://heideas.blogspot.com)
+ - date_published: 2024-03-08T19:31:44+00:00
+
+ ## Fearless Journeys & Epic Transformations
+ - [http://heidigwrites.blogspot.com](http://heidigwrites.blogspot.com)
+ - date_published: 2024-03-31T01:56:37+00:00
+
+ ## Heiko See Berger
+ - [http://heikoseeberger.blogspot.com](http://heikoseeberger.blogspot.com)
+ - date_published: 2024-03-08T23:32:25+00:00
+
+ ## Heissatopia
+ - [http://heissfamily.blogspot.com](http://heissfamily.blogspot.com)
+ - date_published: 2024-07-20T00:25:00+00:00
+
+ ## Heiss History
+ - [http://heisshistory.blogspot.com](http://heisshistory.blogspot.com)
+ - date_published: 2024-02-02T21:37:20+00:00
+
+ ## Hekatoncheires
+ - [http://hekatoncheires.blogspot.com](http://hekatoncheires.blogspot.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Helix Mod
+ - [https://helixmod.blogspot.com](https://helixmod.blogspot.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
  ## Ἡλληνιστεύκοντος
  - [http://hellenisteukontos.blogspot.com](http://hellenisteukontos.blogspot.com)
  - date_published: 2024-06-28T16:25:52+00:00
@@ -3983,36 +4015,4 @@
  ## Mark's wargaming - anything but a one!
  - [http://markswargaming-anythingbutaone.blogspot.com](http://markswargaming-anythingbutaone.blogspot.com)
  - date_published: 2024-07-13T07:03:39+00:00
-
- ## Finn's Wake
- - [http://marktheaginghipster.blogspot.com](http://marktheaginghipster.blogspot.com)
- - date_published: 2022-03-01T00:00:00+00:00
-
- ## Mark Wadsworth
- - [http://markwadsworth.blogspot.com](http://markwadsworth.blogspot.com)
- - date_published: 2024-06-15T05:59:44+00:00
-
- ## Marlon James
- - [http://marlon-james.blogspot.com](http://marlon-james.blogspot.com)
- - date_published: 2024-03-23T18:10:06+00:00
-
- ## Marsekay's Painting blog.
- - [http://marsekayspainting.blogspot.com](http://marsekayspainting.blogspot.com)
- - date_published: 2024-03-29T03:29:43+00:00
-
- ## Mars-Miniatures
- - [https://mars-miniatures.blogspot.com](https://mars-miniatures.blogspot.com)
- - date_published: 2024-07-11T22:59:07+00:00
-
- ## Apprentice Of Old School
- - [http://marsoll.blogspot.com](http://marsoll.blogspot.com)
- - date_published: 2024-03-14T10:11:45+00:00
-
- ## Warlords of Mars
- - [http://martianwarlords.blogspot.com](http://martianwarlords.blogspot.com)
- - date_published: 2024-03-13T19:18:35+00:00
-
- ## Martin Kemp's This and That
- - [http://martinkempsthisandthat.blogspot.com](http://martinkempsthisandthat.blogspot.com)
- - date_published: 2024-05-27T06:01:41+00:00
 

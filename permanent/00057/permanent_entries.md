@@ -1,3 +1,47 @@
+ ## David W Parker | Developer
+ - [https://davidwparker.com](https://davidwparker.com)
+ - date_published: 2024-07-23T23:40:30.878491+00:00
+
+ ## Home
+ - [https://davidyoungcommunications.com](https://davidyoungcommunications.com)
+ - date_published: 2024-07-04T04:47:37.530327+00:00
+
+ ## David Yurman | Designer Jewelry & Watches for Women and Men
+ - [https://www.davidyurman.com](https://www.davidyurman.com)
+ - date_published: 2024-06-26T09:38:05.750444+00:00
+
+ ## O Frabjous Day!
+ - [https://daviewales.com](https://daviewales.com)
+ - date_published: 2023-11-30T00:00:00+00:00
+
+ ## AI Portrait - DaVinci Face made by Mathema
+ - [https://www.davinciface.com](https://www.davinciface.com)
+ - date_published: 2024-06-19T19:23:50.235207+00:00
+
+ ## Modern Fireplaces | Custom | Gas | DaVinci Custom Fireplaces™
+ - [https://www.davincifireplace.com](https://www.davincifireplace.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Fort Collins Sign Company | Custom Business Signs: Design & Install
+ - [https://davincisign.com](https://davincisign.com)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## W.R. Davis Engineering Ltd.
+ - [http://www.davis-eng.com](http://www.davis-eng.com)
+ - date_published: 2024-06-28T18:52:13.014645+00:00
+
+ ## Jacob Davis-Hansson
+ - [https://tech.davis-hansson.com](https://tech.davis-hansson.com)
+ - date_published: 2022-09-09T20:04:37+00:00
+
+ ## Davis Haupt | Davis Haupt
+ - [https://davishaupt.com](https://davishaupt.com)
+ - date_published: 2024-07-19T18:34:08.793980+00:00
+
+ ## Great Transformations | Davis Kedrosky | Substack
+ - [https://blog.daviskedrosky.com](https://blog.daviskedrosky.com)
+ - date_published: 2023-10-25T13:46:04.389863+00:00
+
  ## Davis Polk
  - [https://davispolk.com](https://davispolk.com)
  - date_published: 2024-04-30T04:45:44.007906+00:00
@@ -4023,49 +4067,4 @@
  ## Descartes Labs | Advanced Science. Innovative Solutions.
  - [https://www.descarteslabs.com](https://www.descarteslabs.com)
  - date_published: 2024-07-14T23:40:38+00:00
-
- ## DeSci Belgrade – DeSci Belgrade
- - [https://descibelgrade.com](https://descibelgrade.com)
- - date_published: 2024-06-16T03:51:39.140658+00:00
-
- ## Descope | Authentication and user management platform
- - [https://descope.com](https://descope.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Descript | All-in-one video & podcast editing, easy as a doc.
- - [https://descript.com](https://descript.com)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Descript Feedback
- - [https://feedback.descript.com](https://feedback.descript.com)
- - date_published: 2024-06-23T08:10:38.371043+00:00
-
- ## Descript Help
- - [https://help.descript.com](https://help.descript.com)
- - date_published: 2024-07-19T05:15:04.062023+00:00
-
- ## Descript | All-in-one video & podcast editing, easy as a doc.
- - [https://share.descript.com](https://share.descript.com)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Descript Status
- - [https://status.descript.com](https://status.descript.com)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Descript
- - [https://web.descript.com](https://web.descript.com)
- - date_published: 2024-06-23T08:10:40.019244+00:00
-
- ## STRATO - Domain not available
- - [http://www.desdecuba.com](http://www.desdecuba.com)
- - date_published: 2022-07-27T11:55:26+00:00
-
- ## Deseret News
- - [https://deseret.com](https://deseret.com)
- - date_published: 2024-06-15T00:00:00+00:00
- - tags: ['utah news']
-
- ## Deseret News
- - [https://pages.deseret.com](https://pages.deseret.com)
- - date_published: 2024-04-30T00:00:00+00:00
 

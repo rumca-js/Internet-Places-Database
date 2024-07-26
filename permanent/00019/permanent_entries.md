@@ -1,3 +1,23 @@
+ ## 智能问答平台
+ - [https://znwd.cnipa.gov.cn](https://znwd.cnipa.gov.cn)
+ - date_published: 2024-01-27T01:23:37+00:00
+
+ ## 国家航天局
+ - [https://www.cnsa.gov.cn](https://www.cnsa.gov.cn)
+ - date_published: 2024-05-07T16:55:40.445002+00:00
+
+ ## 国际商事法庭 | CICC
+ - [https://cicc.court.gov.cn](https://cicc.court.gov.cn)
+ - date_published: 2024-06-28T06:56:42+00:00
+
+ ## The Supreme People's Court Of The People's Republic Of China
+ - [https://english.court.gov.cn](https://english.court.gov.cn)
+ - date_published: 2024-06-30T04:02:14.727712+00:00
+
+ ## 最高人民法院知识产权法庭
+ - [https://ipc.court.gov.cn](https://ipc.court.gov.cn)
+ - date_published: 2024-06-30T03:58:58.244296+00:00
+
  ## 首页 - 人民法院案例库
  - [http://rmfyalk.court.gov.cn](http://rmfyalk.court.gov.cn)
  - date_published: 2024-06-28T09:41:07+00:00
@@ -3981,24 +4001,4 @@
  ## 新疆维吾尔自治区工业和信息化厅
  - [http://gxt.xinjiang.gov.cn](http://gxt.xinjiang.gov.cn)
  - date_published: 2024-06-29T00:00:00+00:00
-
- ## 新疆维吾尔自治区林业和草原局
- - [http://lcj.xinjiang.gov.cn](http://lcj.xinjiang.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 新疆维吾尔自治区粮食和物资储备局
- - [http://lswz.xinjiang.gov.cn](http://lswz.xinjiang.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 新疆维吾尔自治区民族事务委员会（宗教事务局）
- - [https://mwzjswj.xinjiang.gov.cn](https://mwzjswj.xinjiang.gov.cn)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## 新疆维吾尔自治区农业农村厅
- - [http://nynct.xinjiang.gov.cn](http://nynct.xinjiang.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 新疆维吾尔自治区人力资源和社会保障厅
- - [http://rst.xinjiang.gov.cn](http://rst.xinjiang.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
 

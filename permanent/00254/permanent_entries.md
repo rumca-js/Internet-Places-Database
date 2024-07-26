@@ -1,3 +1,95 @@
+ ## Concerns of Police Survivors (C.O.P.S.)
+ - [https://www.concernsofpolicesurvivors.org](https://www.concernsofpolicesurvivors.org)
+ - date_published: 2024-07-10T05:21:30.081235+00:00
+
+ ## Concise Encoding
+ - [https://concise-encoding.org](https://concise-encoding.org)
+ - date_published: 2019-07-01T00:00:00+00:00
+
+ ## Concord Consortium
+ - [http://www.concord.org](http://www.concord.org)
+ - date_published: 2024-07-09T09:51:34.874061+00:00
+
+ ## The Concord Coalition - New Hampshire - Grassroots Fiscal Responsibility
+ - [http://www.concordcoalition.org](http://www.concordcoalition.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## American Concrete Institute
+ - [https://concrete.org](https://concrete.org)
+ - date_published: 2024-05-08T07:05:00.487767+00:00
+
+ ## Home
+ - [http://www.concrete5.org](http://www.concrete5.org)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Concrete Productivity > Home
+ - [https://www.concreteproductivity.org](https://www.concreteproductivity.org)
+ - date_published: 2024-07-04T17:20:25.293029+00:00
+
+ ## Concrete Semantics
+ - [http://concrete-semantics.org](http://concrete-semantics.org)
+ - date_published: 2023-01-30T10:11:03+00:00
+
+ ## conda.org | conda.org
+ - [https://conda.org](https://conda.org)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## conda-forge | community-driven packaging for conda
+ - [https://conda-forge.org](https://conda-forge.org)
+ - date_published: 2024-06-20T22:25:18+00:00
+
+ ## condmatjournalclub.org
+ - [http://www.condmatjournalclub.org](http://www.condmatjournalclub.org)
+ - date_published: 2024-06-17T12:17:15.838002+00:00
+
+ ## CONDO
+ - [http://condocomplex.org](http://condocomplex.org)
+ - date_published: 2018-07-02T13:00:03+00:00
+
+ ## Coney Island History Project
+ - [https://www.coneyislandhistory.org](https://www.coneyislandhistory.org)
+ - date_published: 2024-06-29T01:27:42+00:00
+
+ ## Conference Chats
+ - [https://www.conferencechats.org](https://www.conferencechats.org)
+ - date_published: 2024-06-02T21:13:56+00:00
+
+ ## Conference Pros — Professional Conference and Meeting Planning Services
+ - [http://www.conferencepros.org](http://www.conferencepros.org)
+ - date_published: 2020-03-12T16:17:02+00:00
+
+ ## Conformal Geometric Algebra
+ - [https://conformalgeometricalgebra.org](https://conformalgeometricalgebra.org)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## Stand with the Rising Generation · Congo Initiative
+ - [https://congoinitiative.org](https://congoinitiative.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Find and Contact Your Legislator
+ - [http://www.congress.org](http://www.congress.org)
+ - date_published: 2024-07-13T11:07:00.404297+00:00
+
+ ## Home &mdash; the Congress for Jewish Culture
+ - [https://congressforjewishculture.org](https://congressforjewishculture.org)
+ - date_published: 2024-07-02T06:04:16.441655+00:00
+
+ ## Congressional Management Foundation
+ - [https://www.congressfoundation.org](https://www.congressfoundation.org)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Congressional Leadership Fund - Congressional Leadership Fund
+ - [https://congressionalleadershipfund.org](https://congressionalleadershipfund.org)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Home
+ - [https://www.conjur.org](https://www.conjur.org)
+ - date_published: 2024-06-15T11:35:40.587968+00:00
+
+ ## Jim Henry
+ - [http://jimhenry.conlang.org](http://jimhenry.conlang.org)
+ - date_published: 2023-09-10T17:06:38+00:00
+
  ## I'm getting some serious “Darmok and Jalad at Tanagra” vibes from this card magic book - The Boston Diaries - Captain Napalm
  - [https://boston.conman.org](https://boston.conman.org)
  - date_published: 2023-10-25T21:10:01.402711+00:00
@@ -3955,96 +4047,4 @@ irc logs at libera.irclog.whitequark.org
  ## LSM - Topic 18 - First Debian Conference
  - [https://debconf0.debconf.org](https://debconf0.debconf.org)
  - date_published: 2005-02-02T00:00:00+00:00
-
- ## DebConf10 - Main page
- - [http://debconf10.debconf.org](http://debconf10.debconf.org)
- - date_published: 2022-04-20T10:13:24+00:00
-
- ## DebConf11 - Home
- - [http://debconf11.debconf.org](http://debconf11.debconf.org)
- - date_published: 2022-03-17T19:31:42+00:00
-
- ## DebConf12 - Home
- - [https://debconf12.debconf.org](https://debconf12.debconf.org)
- - date_published: 2022-03-17T14:05:57+00:00
-
- ## DebConf13 - Home
- - [https://debconf13.debconf.org](https://debconf13.debconf.org)
- - date_published: 2022-07-17T14:38:28+00:00
-
- ## DebConf14 - Home
- - [https://debconf14.debconf.org](https://debconf14.debconf.org)
- - date_published: 2022-08-16T20:28:02+00:00
-
- ## DebConf15 - Home
- - [https://debconf15.debconf.org](https://debconf15.debconf.org)
- - date_published: 2022-08-18T00:46:36+00:00
-
- ## DebConf16
- - [https://debconf16.debconf.org](https://debconf16.debconf.org)
- - date_published: 2016-09-05T09:42:03+00:00
-
- ## DebConf17
- - [https://debconf17.debconf.org](https://debconf17.debconf.org)
- - date_published: 2017-08-12T00:00:00+00:00
-
- ## DebConf18
- - [https://debconf18.debconf.org](https://debconf18.debconf.org)
- - date_published: 2018-08-05T00:00:00+00:00
-
- ## DebConf19
- - [https://debconf19.debconf.org](https://debconf19.debconf.org)
- - date_published: 2021-06-03T13:29:07+00:00
-
- ## Arto Teräs - Debian Conference 1, Bordeaux 2-5.7.2001
- - [https://debconf1.debconf.org](https://debconf1.debconf.org)
- - date_published: 2005-02-02T00:00:00+00:00
-
- ## DebConf20
- - [https://debconf20.debconf.org](https://debconf20.debconf.org)
- - date_published: 2021-06-03T15:20:53+00:00
-
- ## DebConf21
- - [https://debconf21.debconf.org](https://debconf21.debconf.org)
- - date_published: 2021-08-28T00:00:00+00:00
-
- ## DebConf 22
- - [https://debconf22.debconf.org](https://debconf22.debconf.org)
- - date_published: 2024-05-09T15:22:25+00:00
-
- ## DebConf 23
- - [https://debconf23.debconf.org](https://debconf23.debconf.org)
- - date_published: 2024-05-01T02:44:47.706728+00:00
-
- ## Debconf3
- - [https://debconf3.debconf.org](https://debconf3.debconf.org)
- - date_published: 2005-02-02T00:00:00+00:00
-
- ## DebConf 4 - The 5th annual Debian Conference
- - [https://debconf4.debconf.org](https://debconf4.debconf.org)
- - date_published: 2005-02-02T00:00:00+00:00
-
- ## What is Debconf? | debconf5
- - [https://debconf5.debconf.org](https://debconf5.debconf.org)
- - date_published: 2015-12-18T22:04:06+00:00
-
- ## DebConf6 - Hot and Spicy
- - [https://debconf6.debconf.org](https://debconf6.debconf.org)
- - date_published: 2015-12-18T22:04:10+00:00
-
- ## DebConf7
- - [https://debconf7.debconf.org](https://debconf7.debconf.org)
- - date_published: 2015-12-18T22:04:16+00:00
-
- ## DebConf 8 - Main page
- - [http://debconf8.debconf.org](http://debconf8.debconf.org)
- - date_published: 2022-03-17T18:36:39+00:00
-
- ## DebConf9 - Main page
- - [http://debconf9.debconf.org](http://debconf9.debconf.org)
- - date_published: 2022-03-17T18:41:25+00:00
-
- ## anonscm
- - [https://anonscm.debian.org](https://anonscm.debian.org)
- - date_published: 2018-05-31T00:00:00+00:00
 

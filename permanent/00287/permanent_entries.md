@@ -1,3 +1,111 @@
+ ## Сайт по методам сжатия данных, изображений и видео
+ - [https://www.compression.ru](https://www.compression.ru)
+ - date_published: 2024-06-23T18:04:24.325903+00:00
+
+ ## "КонсультантПлюс" - законодательство РФ: кодексы, законы, указы, постановления Правительства Российской Федерации, нормативные акты
+ - [http://consultant.ru](http://consultant.ru)
+ - date_published: 2024-06-18T09:33:10.294815+00:00
+
+ ## Voice - все о моде, красоте и отношениях
+ - [https://www.cosmo.ru](https://www.cosmo.ru)
+ - date_published: 2024-06-25T18:52:37.493656+00:00
+
+ ## COZY HOME – официальный интернет-магазин постельного белья, домашнего текстиля и декора для дома
+ - [https://cozyhome.ru](https://cozyhome.ru)
+ - date_published: 2024-06-29T13:36:22+00:00
+
+ ## CrazyGames - бесплатные онлайн-игры на CrazyGames.ru
+ - [https://crazygames.ru](https://crazygames.ru)
+ - date_published: 2024-05-08T06:51:04.504319+00:00
+
+ ## Create Вики
+ - [https://createwiki.ru](https://createwiki.ru)
+ - date_published: 2024-04-30T17:37:42+00:00
+
+ ## Главная - Все про орехи
+ - [http://cs-amx.ru](http://cs-amx.ru)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Cs-intro.ru - это сайт о игре Counter Strike 1.6, Counter Strike Sourse и Minecraft. Cокращенно CS 1.6, у нас на сайте вы можете cs 1.6 скачать, читы wh и aim, плагины, а также сервера кс 1.6, модели оружия, патчи, карты и многое другое
+ - [http://cs-intro.ru](http://cs-intro.ru)
+ - date_published: 2024-07-15T04:12:41.180163+00:00
+
+ ## КиберЛенинка предоставляет возможность читать тексты научных статей бесплатно. Приглашаем к сотрудничеству научные журналы и издательства для публикации научно-исследовательских работ в открытом доступе (Open Access) и популяризации открытой науки (Open Science) в России.
+ - [http://cyberleninka.ru](http://cyberleninka.ru)
+ - date_published: 2024-06-23T20:32:56.247589+00:00
+
+ ## Cycle.Ru — 3D панорамы, видео, AI гиды, консультанты,  виртуальная реальность — 3D панорамы, видео, AI гиды, консультанты,  виртуальная реальность
+ - [https://cycle.ru](https://cycle.ru)
+ - date_published: 2024-07-20T11:29:45.362296+00:00
+
+ ## Cypherpunks.ru repositories
+ - [https://git.cypherpunks.ru](https://git.cypherpunks.ru)
+ - date_published: 2024-05-08T10:50:40.376647+00:00
+
+ ## PyDERASN – strict and fast ASN.1 DER/CER/BER library for Python — pyderasn 9.3 documentation
+ - [https://www.pyderasn.cypherpunks.ru](https://www.pyderasn.cypherpunks.ru)
+ - date_published: 2023-07-26T12:49:27+00:00
+
+ ## Создать сайт бесплатно, твоё-имя.da.ru! Сделай сайт и получи бесплатный домен (крутые бесплатные домены и хостинг, простой конструктор сайтов)
+ - [http://talion-nvrsk.da.ru](http://talion-nvrsk.da.ru)
+ - date_published: 2024-06-12T21:07:58.360964+00:00
+
+ ## DashaMail – российский сервис email рассылки писем
+ - [https://dashamail.ru](https://dashamail.ru)
+ - date_published: 2024-07-24T02:34:05.707693+00:00
+
+ ## Google
+ - [https://datatracking.ru](https://datatracking.ru)
+ - date_published: 2024-06-21T21:37:45.625227+00:00
+
+ ## ИТ-компания с многолетним опытом - DataBase Intelligence
+ - [https://dbi.ru](https://dbi.ru)
+ - date_published: 2024-06-21T14:55:59.084453+00:00
+
+ ## txt. main page
+ - [https://txt.dc09.ru](https://txt.dc09.ru)
+ - date_published: 2024-06-19T22:35:12.391263+00:00
+
+ ## Index of /
+ - [http://ftp.debian.ru](http://ftp.debian.ru)
+ - date_published: 2024-07-20T05:17:32.549245+00:00
+
+ ## Срок регистрации домена истек
+ - [http://www.defrag.ru](http://www.defrag.ru)
+ - date_published: 2024-06-12T21:08:47.868929+00:00
+
+ ## Главная
+ - [https://deluxe.ru](https://deluxe.ru)
+ - date_published: 2024-07-20T11:30:13.016679+00:00
+
+ ## Детский мир | Интернет-магазин детских товаров
+ - [https://www.detmir.ru](https://www.detmir.ru)
+ - date_published: 2024-06-29T13:36:33.192644+00:00
+
+ ## 2ГИС Технологии
+ - [https://devday.ru](https://devday.ru)
+ - date_published: 2024-06-12T11:10:41.604647+00:00
+
+ ## DevZen Podcast « Подкаст о программировании, IT и смежных темах (16+)
+ - [https://devzen.ru](https://devzen.ru)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Игровые автоматы в онлайн режиме бесплатно от казино Вулкан
+ - [https://dezisk.ru](https://dezisk.ru)
+ - date_published: 2021-03-17T16:43:00+00:00
+
+ ## «Дианетика: современная наука о разуме»
+ - [https://www.dianetics.ru](https://www.dianetics.ru)
+ - date_published: 2024-06-17T16:42:09.040737+00:00
+
+ ## Только это красиво и только в этом есть смысл — @дневники: асоциальная сеть
+ - [https://citoex.diary.ru](https://citoex.diary.ru)
+ - date_published: 2024-06-23T18:34:00.308784+00:00
+
+ ## DigitalKit :: Growth hacking agency
+ - [https://digitalkit.ru](https://digitalkit.ru)
+ - date_published: 2021-11-14T09:35:00+00:00
+
  ## Directum - интеллектуальные цифровые процессы и электронный документооборот
  - [https://www.directum.ru](https://www.directum.ru)
  - date_published: 2024-06-21T14:56:13.058311+00:00
@@ -3911,113 +4019,4 @@
  ## Edficiency
  - [https://mvhs.edf.school](https://mvhs.edf.school)
  - date_published: 2024-05-08T10:06:12.581938+00:00
-
- ## Empat School | Безкоштовна програма FullStack & Flutter
- - [https://www.empat.school](https://www.empat.school)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Facilitator School | Take your meetings to the next level
- - [https://facilitator.school](https://facilitator.school)
- - date_published: 2024-04-07T00:00:00+00:00
-
- ## Fizzy school
- - [http://fizzy.school](http://fizzy.school)
- - date_published: 2024-04-30T06:49:01.421010+00:00
-
- ## Flight School
- - [https://flight.school](https://flight.school)
- - date_published: 2024-06-23T14:59:17.198901+00:00
-
- ## Freelancing School | Training and community to make a living freelancing
- - [https://freelancing.school](https://freelancing.school)
- - date_published: 2019-07-03T02:18:49+00:00
-
- ## Fruitful School
- - [https://fruitful.school](https://fruitful.school)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Julia School
- - [https://julia.school](https://julia.school)
- - date_published: 2024-06-20T21:56:24.516714+00:00
-
- ## Le Wagon
- - [https://app.lewagon.school](https://app.lewagon.school)
- - date_published: 2024-07-12T05:55:31.547887+00:00
-
- ## Post-Industrial Design School
- - [https://postindustrialdesign.school](https://postindustrialdesign.school)
- - date_published: 2024-04-30T06:35:16.514058+00:00
-
- ## Summer School ReAnimate
- - [https://reanimate.school](https://reanimate.school)
- - date_published: 2024-07-14T12:26:15.409095+00:00
-
- ## Typomania School. Онлайн-школа дизайна
- - [https://typomania.school](https://typomania.school)
- - date_published: 2024-07-12T08:03:56+00:00
-
- ## Write of Passage
- - [https://take.writeofpassage.school](https://take.writeofpassage.school)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Write of Passage
- - [https://writeofpassage.school](https://writeofpassage.school)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Schwarz Gruppe
- - [https://gruppe.schwarz](https://gruppe.schwarz)
- - date_published: 2024-05-06T17:32:17.603223+00:00
-
- ## Schwarz IT KG
- - [https://it.schwarz](https://it.schwarz)
- - date_published: 2024-06-25T19:02:50.238922+00:00
-
- ## Anonymous GitHub
- - [https://anonymous.4open.science](https://anonymous.4open.science)
- - date_published: 2024-06-18T13:07:50.796094+00:00
-
- ## 8-bit Nintendo Science
- - [https://8bitnintendo.science](https://8bitnintendo.science)
- - date_published: 2024-07-23T23:45:38.119741+00:00
-
- ## The Tianjing Guidelines for Biosecurity | Advancing biosecurity together.
- - [https://advancingbiosecurity.science](https://advancingbiosecurity.science)
- - date_published: 2024-06-17T10:47:50.031738+00:00
-
- ## Alfasoft – Software, Solutions, Service for Research, Science and Engineering
- - [https://alfasoft.science](https://alfasoft.science)
- - date_published: 2024-07-09T18:04:06.506730+00:00
-
- ## Amazon Science homepage
- - [https://www.amazon.science](https://www.amazon.science)
- - date_published: 2023-10-25T22:36:50.957929+00:00
- - tags: ['artificial intelligence', 'machine learning']
-
- ## Catgirls for Science
- - [https://mk.catgirlsfor.science](https://mk.catgirlsfor.science)
- - date_published: 2024-07-15T06:33:49.315621+00:00
-
- ## Underwater photography by Alexander Semenov
- - [http://coldwater.science](http://coldwater.science)
- - date_published: 2018-01-29T00:00:00+00:00
-
- ## Community Data Science Collective
- - [https://blog.communitydata.science](https://blog.communitydata.science)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## CommunityData
- - [https://communitydata.science](https://communitydata.science)
- - date_published: 2024-04-30T05:44:43.872583+00:00
-
- ## CommunityData
- - [https://wiki.communitydata.science](https://wiki.communitydata.science)
- - date_published: 2024-04-30T05:44:38.686800+00:00
-
- ## Homepage - International Science Council - International Science Council
- - [https://council.science](https://council.science)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Gonzales.Science
- - [https://gonzales.science](https://gonzales.science)
- - date_published: 2023-10-25T22:36:52.362938+00:00
 

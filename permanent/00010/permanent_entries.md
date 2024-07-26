@@ -1,3 +1,19 @@
+ ## Pedido Web Moderna
+ - [https://loja.moderna.com.br](https://loja.moderna.com.br)
+ - date_published: 2024-06-12T13:04:13.082783+00:00
+
+ ## Redes Moderna
+ - [https://redes.moderna.com.br](https://redes.moderna.com.br)
+ - date_published: 2024-06-12T13:04:11.253116+00:00
+
+ ## Home - Território da Leitura - Editora Moderna
+ - [https://territoriodaleitura.moderna.com.br](https://territoriodaleitura.moderna.com.br)
+ - date_published: 2024-06-12T13:04:00.985432+00:00
+
+ ## Santillana
+ - [https://web.moderna.com.br](https://web.moderna.com.br)
+ - date_published: 2024-06-12T13:04:06.530141+00:00
+
  ## Editora Moderna
  - [https://www.moderna.com.br](https://www.moderna.com.br)
  - date_published: 2024-06-12T06:05:10.259252+00:00
@@ -4006,20 +4022,4 @@
  ## Concordia University
  - [https://www.concordia.ca](https://www.concordia.ca)
  - date_published: 2023-10-25T11:21:43.402681+00:00
-
- ## Travel Expense Management - SAP Concur
- - [https://www.concur.ca](https://www.concur.ca)
- - date_published: 2024-05-01T04:19:36.238347+00:00
-
- ## Montreal 2024 | ConFoo.ca
- - [https://confoo.ca](https://confoo.ca)
- - date_published: 2024-04-29T06:28:37.246643+00:00
-
- ## consteval
- - [https://consteval.ca](https://consteval.ca)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Consultants in Canada, Canada
- - [http://www.consultants.ca](http://www.consultants.ca)
- - date_published: 2024-06-29T17:28:19.147363+00:00
 

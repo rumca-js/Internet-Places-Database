@@ -1,3 +1,11 @@
+ ## thechat.app - Decentralized Web3 group chat
+ - [https://thechat.app](https://thechat.app)
+ - date_published: 2024-06-21T20:22:20.499267+00:00
+
+ ## The Companion
+ - [https://www.thecompanion.app](https://www.thecompanion.app)
+ - date_published: 2023-10-25T11:49:20.174746+00:00
+
  ## The Operator – Slack private channel access made easy
  - [https://theoperator.app](https://theoperator.app)
  - date_published: 2024-07-14T09:09:00.926983+00:00
@@ -4026,12 +4034,4 @@ October 2024 in Singapore
  ## Weiterleitung
  - [http://igw.tuwien.ac.at](http://igw.tuwien.ac.at)
  - date_published: 2022-09-05T15:04:03+00:00
-
- ## Machine Learning 2023 Obergurgl
- - [https://ml23-obergurgl.conf.tuwien.ac.at](https://ml23-obergurgl.conf.tuwien.ac.at)
- - date_published: 2024-07-01T05:48:04.373081+00:00
-
- ## Machine Learning 2024 Obergurgl
- - [https://ml24-obergurgl.conf.tuwien.ac.at](https://ml24-obergurgl.conf.tuwien.ac.at)
- - date_published: 2024-07-01T05:47:11.949510+00:00
 

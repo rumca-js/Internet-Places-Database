@@ -1,3 +1,67 @@
+ ## University Library
+ - [https://www.lib.iastate.edu](https://www.lib.iastate.edu)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Department of Mechanical Engineering – Iowa State University
+ - [https://www.me.iastate.edu](https://www.me.iastate.edu)
+ - date_published: 2024-07-21T22:19:36.703784+00:00
+
+ ## News Service • Iowa State University
+ - [https://www.news.iastate.edu](https://www.news.iastate.edu)
+ - date_published: 2024-07-03T18:12:10.608618+00:00
+
+ ## Policy Library
+ - [https://policy.iastate.edu](https://policy.iastate.edu)
+ - date_published: 2024-05-09T05:10:05.209039+00:00
+
+ ## Division of Academic Affairs
+ - [http://www.provost.iastate.edu](http://www.provost.iastate.edu)
+ - date_published: 2024-07-09T13:09:06.249466+00:00
+
+ ## ICON Collective Music Production School: LA & Online
+ - [https://iconcollective.edu](https://iconcollective.edu)
+ - date_published: 2024-05-08T09:20:59.159855+00:00
+
+ ## IE - Reinventing Higher Education
+ - [https://www.ie.edu](https://www.ie.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Join IESE Alumni Platform
+ - [https://alumni.iese.edu](https://alumni.iese.edu)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## IESE Business School: MBAs & Executive Education | #1 FT since 2015
+ - [https://apply.iese.edu](https://apply.iese.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Management, Leadership and Economy Blogs | IESE Blog Network
+ - [https://blog.iese.edu](https://blog.iese.edu)
+ - date_published: 2015-03-24T07:18:15+00:00
+
+ ## Contigo más lejos
+ - [https://giving.iese.edu](https://giving.iese.edu)
+ - date_published: 2024-07-04T12:34:34.202430+00:00
+
+ ## Sign in to your account
+ - [https://my.iese.edu](https://my.iese.edu)
+ - date_published: 2024-07-04T12:34:35.244018+00:00
+
+ ## IESE Business School: MBAs & Executive Education | #1 FT since 2015
+ - [https://iese.edu](https://iese.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Data-Intensive Distributed Systems Laboratory
+ - [http://datasys.cs.iit.edu](http://datasys.cs.iit.edu)
+ - date_published: 2023-01-31T16:25:40+00:00
+
+ ## Next Level You | Elevate
+ - [https://elevateyourfuture.iit.edu](https://elevateyourfuture.iit.edu)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Chicago-Kent College of Law | Chicago-Kent College of Law
+ - [https://kentlaw.iit.edu](https://kentlaw.iit.edu)
+ - date_published: 2024-05-11T10:54:08.976687+00:00
+
  ## Illinois Institute of Technology
  - [https://professionallearning.catalog.iit.edu](https://professionallearning.catalog.iit.edu)
  - date_published: 2024-02-08T22:08:52.323949+00:00
@@ -3944,68 +4008,4 @@ Data Services
  ## Metropolitan Community College, Kansas City
  - [http://www.mcckc.edu](http://www.mcckc.edu)
  - date_published: 2024-03-21T00:00:00+00:00
-
- ## Hoover Library: Hoover Library - homepage: Home
- - [https://lib.hoover.mcdaniel.edu](https://lib.hoover.mcdaniel.edu)
- - date_published: 2024-07-04T13:15:43.118209+00:00
-
- ## Redirect
- - [http://www2.mcdaniel.edu](http://www2.mcdaniel.edu)
- - date_published: 2014-07-21T15:22:22+00:00
-
- ## Events Calendar
- - [https://calendar.mdc.edu](https://calendar.mdc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Index Page
- - [https://cs.mdc.edu](https://cs.mdc.edu)
- - date_published: 2024-01-11T06:32:01+00:00
-
- ## FAQ – Frequently Asked Questions
- - [https://faq.mdc.edu](https://faq.mdc.edu)
- - date_published: 2024-05-07T19:31:38.316870+00:00
-
- ## Miami Dade College Alumni Association Website
- - [https://foundation.mdc.edu](https://foundation.mdc.edu)
- - date_published: 2024-05-07T19:31:14.312990+00:00
-
- ## MDConnect | Miami Dade College
- - [https://mdconnect.mdc.edu](https://mdconnect.mdc.edu)
- - date_published: 2024-05-07T19:31:36.053490+00:00
-
- ## Sign In
- - [https://mycourses.mdc.edu](https://mycourses.mdc.edu)
- - date_published: 2024-05-07T19:31:45.603581+00:00
-
- ## Student Portal | Miami Dade College
- - [https://my.mdc.edu](https://my.mdc.edu)
- - date_published: 2024-05-07T19:31:50.148259+00:00
-
- ## Sign In
- - [https://myoffice.mdc.edu](https://myoffice.mdc.edu)
- - date_published: 2024-07-01T01:39:41.142189+00:00
-
- ## MDC News
- - [https://news.mdc.edu](https://news.mdc.edu)
- - date_published: 2024-05-07T19:31:52.213450+00:00
-
- ## NWSA | Miami Dade College
- - [https://nwsa.mdc.edu](https://nwsa.mdc.edu)
- - date_published: 2024-05-07T19:31:20.975929+00:00
-
- ## Sign In
- - [http://orientation.mdc.edu](http://orientation.mdc.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## - SharkNet
- - [https://sharknet.mdc.edu](https://sharknet.mdc.edu)
- - date_published: 2024-05-07T19:32:02.286290+00:00
-
- ## Official Miami Dade College Homepage
- - [https://mdc.edu](https://mdc.edu)
- - date_published: 2023-10-25T11:22:46.236242+00:00
-
- ## Maine College of Art & Design
- - [https://meca.edu](https://meca.edu)
- - date_published: 2024-06-01T00:00:00+00:00
 

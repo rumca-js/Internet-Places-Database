@@ -1,3 +1,81 @@
+ ## Let’s get Person-al
+ - [https://person-al.github.io](https://person-al.github.io)
+ - date_published: 2024-07-23T23:31:21.754467+00:00
+
+ ## PIL | The Hunt '24
+ - [https://pes-innovation-lab.github.io](https://pes-innovation-lab.github.io)
+ - date_published: 2024-05-01T02:57:39.707847+00:00
+
+ ## Home
+ - [https://petargyurov.github.io](https://petargyurov.github.io)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## Peter Baile Chen
+ - [https://peterbaile.github.io](https://peterbaile.github.io)
+ - date_published: 2024-04-28T03:38:48.704057+00:00
+
+ ## Peter Eckmann
+ - [https://petereckmann1.github.io](https://petereckmann1.github.io)
+ - date_published: 2024-03-27T10:58:11+00:00
+
+ ## Sheng-Yu Wang Homepage
+ - [https://peterwang512.github.io](https://peterwang512.github.io)
+ - date_published: 2023-10-09T07:32:26+00:00
+
+ ## Petr Lorenc
+ - [https://petrlorenc.github.io](https://petrlorenc.github.io)
+ - date_published: 2024-01-22T03:52:33.980694+00:00
+
+ ## PGPTool - use this tool to encrypt and decrypt PGP files. OpenPGP compatible
+ - [https://pgptool.github.io](https://pgptool.github.io)
+ - date_published: 2023-05-25T07:34:03+00:00
+
+ ## Perception as generative reasoning
+ - [https://pgr-workshop.github.io](https://pgr-workshop.github.io)
+ - date_published: 2019-12-30T15:49:14+00:00
+
+ ## PH3 Blog
+ - [https://ph3at.github.io](https://ph3at.github.io)
+ - date_published: 2023-12-31T16:52:16+00:00
+
+ ## Dreamworld
+ - [https://phdenzel.github.io](https://phdenzel.github.io)
+ - date_published: 2024-04-30T07:32:36.242368+00:00
+
+ ## Phenaki
+ - [https://phenaki.github.io](https://phenaki.github.io)
+ - date_published: 2023-03-14T04:49:05+00:00
+
+ ## Phil Pearl's Blog
+ - [https://philpearl.github.io](https://philpearl.github.io)
+ - date_published: 2023-10-25T08:59:13.014092+00:00
+ - tags: ['personal']
+
+ ## My public GitHub repositories
+ - [https://phiresky.github.io](https://phiresky.github.io)
+ - date_published: 2023-10-25T19:51:09.677043+00:00
+
+ ## Michał "phoe" Herda
+ - [https://phoe.github.io](https://phoe.github.io)
+ - date_published: 2022-12-14T22:58:22+00:00
+
+ ## PhotoShape: Photorealistic Materials for Large-Scale Shape Collections — Keunhong Park
+ - [https://photoshape.github.io](https://photoshape.github.io)
+ - date_published: 2021-06-29T23:09:14+00:00
+
+ ## Photoview
+ - [https://photoview.github.io](https://photoview.github.io)
+ - date_published: 2024-04-08T19:30:20.339984+00:00
+ - tags: ['photo library', 'self-host']
+
+ ## Po-Han Huang's Homepage
+ - [https://phuang17.github.io](https://phuang17.github.io)
+ - date_published: 2021-11-15T15:17:20+00:00
+
+ ## Improved Diffusion-based Image Colorization via Piggybacked Models
+ - [https://piggyback-color.github.io](https://piggyback-color.github.io)
+ - date_published: 2024-04-28T03:41:50.812142+00:00
+
  ## class LifeArchive { }
  - [https://pilgwon.github.io](https://pilgwon.github.io)
  - date_published: 2022-03-28T00:00:00+00:00
@@ -2849,6 +2927,10 @@
  - [https://thevahidal.github.io](https://thevahidal.github.io)
  - date_published: 2024-01-05T09:03:26+00:00
 
+ ## The Wicklow Wolf – Fabricator of Custom-Made Solutions
+ - [https://thewicklowwolf.github.io](https://thewicklowwolf.github.io)
+ - date_published: 2024-07-25T17:29:28.986269+00:00
+
  ## Thierry Moudiki's webpage
  - [https://thierrymoudiki.github.io](https://thierrymoudiki.github.io)
  - date_published: 2024-06-24T17:49:28+00:00
@@ -3955,86 +4037,4 @@ Visualization
  ## Wonwoong
  - [https://wonwoongcho.github.io](https://wonwoongcho.github.io)
  - date_published: 2023-03-16T21:28:08+00:00
-
- ## https://woodrush.github.io
- - [https://woodrush.github.io](https://woodrush.github.io)
- - date_published: 2022-10-06T23:38:30+00:00
-
- ## Seeing the World through Your Eyes
- - [https://world-from-eyes.github.io](https://world-from-eyes.github.io)
- - date_published: 2024-05-12T05:46:52.409447+00:00
-
- ## A Design Space for Intelligent and Interactive Writing Assistants
- - [https://writing-assistant.github.io](https://writing-assistant.github.io)
- - date_published: 2024-05-07T01:09:23+00:00
-
- ## Wrongbaud’s Blog
- - [https://wrongbaud.github.io](https://wrongbaud.github.io)
- - date_published: 2022-06-16T23:45:07+00:00
- - tags: ['personal']
-
- ## Willy R. Vasquez - Homepage
- - [https://wrv.github.io](https://wrv.github.io)
- - date_published: 2023-10-25T19:55:13.735359+00:00
-
- ## Blog
- - [https://wsdookadr.github.io](https://wsdookadr.github.io)
- - date_published: 2023-08-20T00:34:48+00:00
- - tags: ['personal']
-
- ## HelloDog
- - [https://wsgzao.github.io](https://wsgzao.github.io)
- - date_published: 2024-03-09T04:58:27+00:00
-
- ## Biography
- - [https://wujie1010.github.io](https://wujie1010.github.io)
- - date_published: 2023-11-21T09:13:51+00:00
-
- ## Embrace The Red - Cybersecurity Attacks and Red Team Strategies
- - [https://wunderwuzzi23.github.io](https://wunderwuzzi23.github.io)
- - date_published: 2023-04-02T23:51:18+00:00
-
- ## Philipp Wu's Website
- - [https://wuphilipp.github.io](https://wuphilipp.github.io)
- - date_published: 2024-05-08T15:12:07+00:00
-
- ## 桂林小廖
- - [https://wyagd001.github.io](https://wyagd001.github.io)
- - date_published: 2024-05-12T04:14:12.550376+00:00
-
- ## Wei-Yu Chen
- - [https://wyharveychen.github.io](https://wyharveychen.github.io)
- - date_published: 2023-12-22T01:53:06+00:00
-
- ## Yaohui Wang
- - [https://wyhsirius.github.io](https://wyhsirius.github.io)
- - date_published: 2024-05-26T13:40:22+00:00
-
- ## Animal Photo Art References Search
- - [https://x6ud.github.io](https://x6ud.github.io)
- - date_published: 2023-07-14T07:24:34+00:00
-
- ## Posts
- - [https://xavierlowmiller.github.io](https://xavierlowmiller.github.io)
- - date_published: 2020-10-14T00:00:00+00:00
-
- ## Xbox One Research
- - [https://xboxoneresearch.github.io](https://xboxoneresearch.github.io)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## Xue Bin (Jason) Peng
- - [https://xbpeng.github.io](https://xbpeng.github.io)
- - date_published: 2024-04-28T03:45:19.907465+00:00
-
- ## Redirecting to xiaochen's homepage
- - [https://xchenz.github.io](https://xchenz.github.io)
- - date_published: 2023-12-14T03:52:33+00:00
-
- ## Towards a Generalized Multi-Modal Foundation Model
- - [https://x-decoder-vl.github.io](https://x-decoder-vl.github.io)
- - date_published: 2023-12-13T01:57:45+00:00
-
- ## Exploitation-Guided Exploration for Semantic Embodied Navigation
- - [https://xgxvisnav.github.io](https://xgxvisnav.github.io)
- - date_published: 2023-11-07T03:15:52+00:00
 

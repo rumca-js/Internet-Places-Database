@@ -1,3 +1,80 @@
+ ## Jophin Mathai – Personal Site
+ - [https://joph.in](https://joph.in)
+ - date_published: 2024-02-26T08:25:34.178010+00:00
+ - tags: ['personal']
+
+ ## Jordin
+ - [https://jord.in](https://jord.in)
+ - date_published: 2024-07-13T04:28:51.304541+00:00
+
+ ## Jrsensors | Temperature Sensor Online | NTC Thermistor
+ - [https://jrsensors.in](https://jrsensors.in)
+ - date_published: 2015-12-14T07:14:55+00:00
+
+ ## JSConf India 2023
+ - [https://jsconf.in](https://jsconf.in)
+ - date_published: 2024-06-23T01:30:23.797220+00:00
+
+ ## JS features
+ - [https://jsfeatures.in](https://jsfeatures.in)
+ - date_published: 2024-06-03T11:19:25.729390+00:00
+
+ ## Juspay | Payments Infrastructure for Scale and Simplicity
+ - [https://juspay.in](https://juspay.in)
+ - date_published: 2024-05-04T15:56:59.515968+00:00
+
+ ## Tamil News - Kamadenu - காமதேனு தமிழ் செய்திகள்  | Online Tamil News | Tamil News Live | Tamilnadu News | தமிழ் நியூஸ் | Kamadenu Tamil
+ - [https://www.kamadenu.in](https://www.kamadenu.in)
+ - date_published: 2024-06-26T21:43:43.594994+00:00
+
+ ## Karthick Ram - Software Developer
+ - [https://karthickram.in](https://karthickram.in)
+ - date_published: 2024-01-04T01:12:48.776884+00:00
+
+ ## Web Resume
+ - [https://resume.karthickram.in](https://resume.karthickram.in)
+ - date_published: 2024-04-28T01:41:03.962481+00:00
+
+ ## Kathara Sasikumar
+ - [https://kathara.in](https://kathara.in)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Kathrin Klix | Willkommen
+ - [https://kathr.in](https://kathr.in)
+ - date_published: 2022-07-22T05:58:55+00:00
+
+ ## Home
+ - [https://conf.kde.in](https://conf.kde.in)
+ - date_published: 2024-01-01T16:09:05+00:00
+
+ ## Keegan Burkett | Software Engineer & Product Designer
+ - [https://keeg.in](https://keeg.in)
+ - date_published: 2024-05-09T06:20:01.653424+00:00
+
+ ## Keelin Jacobsen // Design + Code
+ - [https://keel.in](https://keel.in)
+ - date_published: 2023-12-21T23:54:13+00:00
+
+ ## Sean.Ker.win
+ - [https://kerw.in](https://kerw.in)
+ - date_published: 2021-12-19T02:31:40+00:00
+
+ ## Keshav Xplore
+ - [https://www.keshavxplore.in](https://www.keshavxplore.in)
+ - date_published: 2024-07-08T14:07:53+00:00
+
+ ## Kev.in · It was a musical thing and you were supposed to sing.
+ - [https://kev.in](https://kev.in)
+ - date_published: 2021-02-15T14:45:04+00:00
+
+ ## abhijithkeyaar: pixels + ink
+ - [https://keyaar.in](https://keyaar.in)
+ - date_published: 2024-04-02T01:53:13+00:00
+
+ ## Kinetic India
+ - [https://kineticcommunications.in](https://kineticcommunications.in)
+ - date_published: 2024-06-17T01:58:47.555012+00:00
+
  ## Cierpliwości...
  - [https://kingu.in](https://kingu.in)
  - date_published: 2024-04-29T05:48:58.001129+00:00
@@ -3958,80 +4035,4 @@ built-in pre- and post-processing facilities
  - [https://konsolowe.info](https://konsolowe.info)
  - date_published: 2023-11-02T19:02:55.540671+00:00
  - tags: ['consoles', 'video game news']
-
- ## Korben - Upgrade your mind
- - [https://korben.info](https://korben.info)
- - date_published: 2024-04-28T02:53:08.689813+00:00
-
- ## Krzysztof Kowalczyk
- - [https://blog.kowalczyk.info](https://blog.kowalczyk.info)
- - date_published: 2023-10-25T19:33:33.900748+00:00
-
- ## Krishna Bharadwaj
- - [https://www.krishnabharadwaj.info](https://www.krishnabharadwaj.info)
- - date_published: 2023-10-25T19:33:34.798737+00:00
-
- ## State Library of Kansas - Official Website | Official Website
- - [https://kslib.info](https://kslib.info)
- - date_published: 2024-07-13T23:19:22.603189+00:00
-
- ## Sign in · GitLab
- - [https://gl.kwarc.info](https://gl.kwarc.info)
- - date_published: 2024-07-10T02:22:39.255629+00:00
-
- ## KWARC · Knowledge Adaptation and Reasoning for Content
- - [https://kwarc.info](https://kwarc.info)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Imprint, Privacy Policy & Accessibility Notice
- - [https://privacy.kwarc.info](https://privacy.kwarc.info)
- - date_published: 2022-03-29T11:37:01+00:00
-
- ## SIGMathLing - Special Interest Group on Maths Linguistics · SIGMathLing
- - [https://sigmathling.kwarc.info](https://sigmathling.kwarc.info)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## L2Fees.info
- - [https://l2fees.info](https://l2fees.info)
- - date_published: 2024-07-04T10:00:26.842305+00:00
-
- ## La Fibre - Accueil
- - [https://lafibre.info](https://lafibre.info)
- - date_published: 2024-07-13T05:36:42+00:00
-
- ## Languages Of The World - A Language Blog by Asya Pereltsvaig
- - [http://languagesoftheworld.info](http://languagesoftheworld.info)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Our Shopping List
- - [https://osl.lanterne-rouge.info](https://osl.lanterne-rouge.info)
- - date_published: 2024-06-07T15:52:47+00:00
-
- ## La Verità
- - [https://www.laverita.info](https://www.laverita.info)
- - date_published: 2024-06-19T16:46:06.306830+00:00
-
- ## LBank Cryptocurrency Exchange | Buy and Sell Bitcoin, Ethereum, MEME, and More
- - [https://www.lbank.info](https://www.lbank.info)
- - date_published: 2024-07-04T09:53:07.405653+00:00
-
- ## Leboncoin Centre d'aide
- - [https://assistance.leboncoin.info](https://assistance.leboncoin.info)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Sylvestre's blog
- - [https://sylvestre.ledru.info](https://sylvestre.ledru.info)
- - date_published: 2024-07-07T10:32:52+00:00
-
- ## legiblepolicy.info
- - [http://legiblepolicy.info](http://legiblepolicy.info)
- - date_published: 2024-07-14T14:38:07.338835+00:00
-
- ## Legit Torrents - Legal Torrents, Free Media
- - [https://www.legittorrents.info](https://www.legittorrents.info)
- - date_published: 2023-10-25T11:29:52.709268+00:00
-
- ## Le Hérisson News
- - [https://le-herisson.info](https://le-herisson.info)
- - date_published: 2024-05-01T00:00:00+00:00
 

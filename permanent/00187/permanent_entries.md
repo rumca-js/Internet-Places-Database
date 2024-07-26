@@ -1,3 +1,67 @@
+ ## Approaching Stanford
+ - [https://approaching.stanford.edu](https://approaching.stanford.edu)
+ - date_published: 2024-05-20T21:49:05+00:00
+
+ ## Kunle Olukotun
+ - [http://arsenalfc.stanford.edu](http://arsenalfc.stanford.edu)
+ - date_published: 2019-11-05T18:52:37+00:00
+
+ ## Arts Intensive
+ - [https://artsintensive.stanford.edu](https://artsintensive.stanford.edu)
+ - date_published: 2024-04-26T19:43:24+00:00
+
+ ## Stanford Arts
+ - [https://arts.stanford.edu](https://arts.stanford.edu)
+ - date_published: 2024-05-07T20:30:31.849575+00:00
+
+ ## Stanford ASdb Dataset
+ - [https://asdb.stanford.edu](https://asdb.stanford.edu)
+ - date_published: 2024-01-30T15:39:34+00:00
+
+ ## Search Results
+ - [https://ask.stanford.edu](https://ask.stanford.edu)
+ - date_published: 2024-05-07T20:26:08.500822+00:00
+
+ ## Autonomous Systems Laboratory
+ - [https://asl.stanford.edu](https://asl.stanford.edu)
+ - date_published: 2024-05-07T10:17:56.429005+00:00
+
+ ## Stanford Asset CDN
+ - [https://assets.stanford.edu](https://assets.stanford.edu)
+ - date_published: 2024-07-01T20:12:07.358516+00:00
+
+ ## Associated Students of Stanford University
+ - [https://assu.stanford.edu](https://assu.stanford.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## init
+ - [https://atcasbs.stanford.edu](https://atcasbs.stanford.edu)
+ - date_published: 2024-07-01T19:56:12.906323+00:00
+
+ ## Stanford | Axess
+ - [https://axess.sahr.stanford.edu](https://axess.sahr.stanford.edu)
+ - date_published: 2023-09-01T18:19:30+00:00
+
+ ## Stanford | Axess
+ - [https://axess.stanford.edu](https://axess.stanford.edu)
+ - date_published: 2023-09-01T18:19:30+00:00
+
+ ## SLAC-Stanford Battery Center | SLAC National Accelerator Laboratory
+ - [https://batterycenter.slac.stanford.edu](https://batterycenter.slac.stanford.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Bechtel International Center
+ - [https://bechtel.stanford.edu](https://bechtel.stanford.edu)
+ - date_published: 2024-07-01T17:10:36+00:00
+
+ ## BEHAVIOR – BEHAVIOR
+ - [https://behavior.stanford.edu](https://behavior.stanford.edu)
+ - date_published: 2024-05-13T22:21:37+00:00
+
+ ## Home - Stanford BeWell
+ - [https://bewell.stanford.edu](https://bewell.stanford.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
  ## Department of Biology
  - [https://biology.stanford.edu](https://biology.stanford.edu)
  - date_published: 2024-05-07T20:29:32.574767+00:00
@@ -1718,10 +1782,6 @@
  ## Formal Reasoning Group
  - [https://www-formal.stanford.edu](https://www-formal.stanford.edu)
  - date_published: 2007-03-01T22:01:53+00:00
-
- ## Computer Graphics at Stanford University
- - [https://www.graphics.stanford.edu](https://www.graphics.stanford.edu)
- - date_published: 2024-04-29T06:31:07.804860+00:00
 
  ## Stanford Secure Computer Systems Group
  - [https://www.scs.stanford.edu](https://www.scs.stanford.edu)
@@ -3952,64 +4012,4 @@
  ## UAF North – Alaska's Community Learning Catalog
  - [https://north.open.uaf.edu](https://north.open.uaf.edu)
  - date_published: 2024-07-01T22:04:21.412952+00:00
-
- ## Historical Sea Ice Atlas
- - [https://seaiceatlas.snap.uaf.edu](https://seaiceatlas.snap.uaf.edu)
- - date_published: 2024-05-06T23:32:58.174081+00:00
-
- ## UAF Home | University of Alaska Fairbanks
- - [https://uaf.edu](https://uaf.edu)
- - date_published: 2024-05-07T20:41:16.792968+00:00
-
- ## umami
- - [https://umami.snap.uaf.edu](https://umami.snap.uaf.edu)
- - date_published: 2024-06-28T18:42:09.854767+00:00
-
- ## Home | IARC
- - [http://www.iarc.uaf.edu](http://www.iarc.uaf.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Accredited Online College | UAGC | University of Arizona Global Campus
- - [https://www.uagc.edu](https://www.uagc.edu)
- - date_published: 2024-06-19T01:24:25+00:00
-
- ## IdeaExchange@UAkron
- - [https://ideaexchange.uakron.edu](https://ideaexchange.uakron.edu)
- - date_published: 2024-05-06T18:31:01.062758+00:00
-
- ## Wayne College Campus
- - [https://wayne.uakron.edu](https://wayne.uakron.edu)
- - date_published: 2024-07-02T03:47:03.114350+00:00
-
- ## The University of Akron : YOU BELONG HERE!
- - [http://www.uakron.edu](http://www.uakron.edu)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Sign in to your account
- - [https://blackboard.ualr.edu](https://blackboard.ualr.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Welcome to the University of Arkansas at Little Rock
- - [https://boss.ualr.edu](https://boss.ualr.edu)
- - date_published: 2024-07-09T20:30:37.402270+00:00
-
- ## UA Little Rock Directory
- - [https://directory.ualr.edu](https://directory.ualr.edu)
- - date_published: 2024-07-09T20:30:52.041202+00:00
-
- ## Sign in to your account
- - [https://mail.ualr.edu](https://mail.ualr.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Undergraduate Admissions - Admissions - UA Little Rock
- - [https://slate.ualr.edu](https://slate.ualr.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## University of Arkansas at Little Rock
- - [https://ualr.edu](https://ualr.edu)
- - date_published: 2024-05-09T06:34:25.789119+00:00
-
- ## Academic Affairs
- - [https://academicaffairs.uams.edu](https://academicaffairs.uams.edu)
- - date_published: 2024-06-20T23:29:55.225980+00:00
 

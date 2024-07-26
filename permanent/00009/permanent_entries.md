@@ -1,3 +1,15 @@
+ ## Risky Business - Risky Business
+ - [https://risky.biz](https://risky.biz)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Roberts Design | Web Design & Development | Graphic Design
+ - [https://robertsdesign.biz](https://robertsdesign.biz)
+ - date_published: 2024-01-04T03:34:14.600258+00:00
+
+ ## Come Tees
+ - [https://shop-cometees.biz](https://shop-cometees.biz)
+ - date_published: 2024-07-07T05:52:20.036120+00:00
+
  ## Showpad Online Platform
  - [https://edb.showpad.biz](https://edb.showpad.biz)
  - date_published: 2024-07-15T03:26:31.036618+00:00
@@ -892,6 +904,10 @@
  - [https://jamesg.blog](https://jamesg.blog)
  - date_published: 2023-10-25T08:42:49.809384+00:00
  - tags: ['personal']
+
+ ## Jason Collins blog
+ - [https://www.jasoncollins.blog](https://www.jasoncollins.blog)
+ - date_published: 2024-07-25T00:00:00+00:00
 
  ## Jason A. Hoffman
  - [https://jasonhoffman.blog](https://jasonhoffman.blog)
@@ -4069,20 +4085,4 @@ Educação
  ## Minhas Marés – Navegar é preciso!
  - [http://minhasmares.com.br](http://minhasmares.com.br)
  - date_published: 2024-07-12T20:58:16.030480+00:00
-
- ## Pedido Web Moderna
- - [https://loja.moderna.com.br](https://loja.moderna.com.br)
- - date_published: 2024-06-12T13:04:13.082783+00:00
-
- ## Redes Moderna
- - [https://redes.moderna.com.br](https://redes.moderna.com.br)
- - date_published: 2024-06-12T13:04:11.253116+00:00
-
- ## Home - Território da Leitura - Editora Moderna
- - [https://territoriodaleitura.moderna.com.br](https://territoriodaleitura.moderna.com.br)
- - date_published: 2024-06-12T13:04:00.985432+00:00
-
- ## Santillana
- - [https://web.moderna.com.br](https://web.moderna.com.br)
- - date_published: 2024-06-12T13:04:06.530141+00:00
 

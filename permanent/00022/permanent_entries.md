@@ -1,3 +1,23 @@
+ ## Point-Free: A video series exploring advanced programming topics in Swift.
+ - [https://www.pointfree.co](https://www.pointfree.co)
+ - date_published: 2024-01-13T06:17:22.372182+00:00
+
+ ## PokéAPI
+ - [https://pokeapi.co](https://pokeapi.co)
+ - date_published: 2024-05-06T21:26:23.855680+00:00
+
+ ## Cierpliwości...
+ - [https://politi.co](https://politi.co)
+ - date_published: 2024-05-07T23:54:23.001907+00:00
+
+ ## Polymer
+ - [https://app.polymer.co](https://app.polymer.co)
+ - date_published: 2024-04-30T06:59:10.727372+00:00
+
+ ## API Reference
+ - [https://developer.polymer.co](https://developer.polymer.co)
+ - date_published: 2020-09-13T00:00:00+00:00
+
  ## Polymer Help Center
  - [https://help.polymer.co](https://help.polymer.co)
  - date_published: 2024-04-30T06:58:51.451777+00:00
@@ -4001,24 +4021,4 @@
  ## Registro Académico
  - [https://registro.uniandes.edu.co](https://registro.uniandes.edu.co)
  - date_published: 2024-07-15T05:48:50.211917+00:00
-
- ## Repositorio Institucional Séneca
- - [https://repositorio.uniandes.edu.co](https://repositorio.uniandes.edu.co)
- - date_published: 2024-07-15T05:48:37.375348+00:00
-
- ## Revistas Uniandes
- - [https://revistas.uniandes.edu.co](https://revistas.uniandes.edu.co)
- - date_published: 2024-07-15T05:48:12.134006+00:00
-
- ## Inicio
- - [https://secretariageneral.uniandes.edu.co](https://secretariageneral.uniandes.edu.co)
- - date_published: 2024-07-15T05:47:37.308101+00:00
-
- ## Servicios Uniandes
- - [https://servicios.uniandes.edu.co](https://servicios.uniandes.edu.co)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Universidad de los Andes - Colombia - Sitio oficial
- - [https://uniandes.edu.co](https://uniandes.edu.co)
- - date_published: 2024-05-12T05:24:42.257074+00:00
 

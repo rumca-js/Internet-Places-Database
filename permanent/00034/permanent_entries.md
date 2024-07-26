@@ -1,3 +1,27 @@
+ ## James Alexander Bright
+ - [https://jamesalexanderbright.bandcamp.com](https://jamesalexanderbright.bandcamp.com)
+ - date_published: 2024-07-19T22:25:12.338394+00:00
+
+ ## JamesNotJim
+ - [https://jamesnotjim.bandcamp.com](https://jamesnotjim.bandcamp.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## assorted8bit vol.1, by JammerC64
+ - [https://jammerc64.bandcamp.com](https://jammerc64.bandcamp.com)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Jana Winderen
+ - [https://janawinderen.bandcamp.com](https://janawinderen.bandcamp.com)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Janusz Jurga
+ - [http://januszjurga.bandcamp.com](http://januszjurga.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## JASIEŃ
+ - [https://jasien.bandcamp.com](https://jasien.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
  ## A Sound Heart, by JAUBI
  - [https://jaubi.bandcamp.com](https://jaubi.bandcamp.com)
  - date_published: 2024-07-19T22:25:34.553047+00:00
@@ -3883,9 +3907,17 @@ rain or shine
  - [https://images.bauerhosting.com](https://images.bauerhosting.com)
  - date_published: 2024-05-10T00:00:00+00:00
 
+ ## Payara Server - Server Running
+ - [https://epub.bauermedia.com](https://epub.bauermedia.com)
+ - date_published: 2024-07-25T09:47:43.441089+00:00
+
  ## Bauer Media Group
  - [https://www.bauermedia.com](https://www.bauermedia.com)
  - date_published: 2024-07-09T07:59:30.089469+00:00
+
+ ## Startseite - Bauer-Plus
+ - [https://www.bauer-plus.com](https://www.bauer-plus.com)
+ - date_published: 2024-07-25T09:47:46.191014+00:00
 
  ## Bauertypes - Fabricantes, distribuidores y asesores tipográficos
  - [https://bauertypes.com](https://bauertypes.com)
@@ -3988,36 +4020,4 @@ rain or shine
  ## Bayave GmbH – Expertise and excellence in open source, inner source, and product strategy
  - [https://bayave.com](https://bayave.com)
  - date_published: 2024-05-01T05:13:51.559452+00:00
-
- ## Bayden Systems
- - [https://bayden.com](https://bayden.com)
- - date_published: 2024-05-06T16:12:35.384637+00:00
-
- ## Welcome | Bay Design Associates
- - [https://baydesignassociates.com](https://baydesignassociates.com)
- - date_published: 2024-05-21T02:47:58.662025+00:00
-
- ## Bay Equity Home Loans | We’re Here To Get You Home
- - [https://bayequityhomeloans.com](https://bayequityhomeloans.com)
- - date_published: 2024-07-04T02:29:14.079265+00:00
-
- ## Bayer – Global Home
- - [https://www.bayer.com](https://www.bayer.com)
- - date_published: 2024-06-21T18:07:03+00:00
-
- ## Home › Bayer Heritage Federal Credit Union
- - [https://bayerhfcu.com](https://bayerhfcu.com)
- - date_published: 2024-05-09T07:33:58.032390+00:00
-
- ## Peter McCluskey's Home Page
- - [https://bayesianinvestor.com](https://bayesianinvestor.com)
- - date_published: 2022-01-29T04:53:36+00:00
-
- ## Home
- - [https://bayevskitchen.com](https://bayevskitchen.com)
- - date_published: 2022-08-09T13:20:30+00:00
-
- ## Bayfront Technologies, Inc.
- - [https://bayfronttechnologies.com](https://bayfronttechnologies.com)
- - date_published: 2023-01-24T23:43:39+00:00
 

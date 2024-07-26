@@ -1,3 +1,63 @@
+ ## University of Minnesota Rochester
+ - [https://raptorlink.umn.edu](https://raptorlink.umn.edu)
+ - date_published: 2024-07-02T04:19:40.146082+00:00
+
+ ## | Research Computing
+ - [https://rc.umn.edu](https://rc.umn.edu)
+ - date_published: 2024-06-28T13:13:59+00:00
+
+ ## Board of Regents | University of Minnesota
+ - [https://regents-d8.dev.umn.edu](https://regents-d8.dev.umn.edu)
+ - date_published: 2024-07-01T09:10:19+00:00
+
+ ## Board of Regents | University of Minnesota
+ - [https://regents.umn.edu](https://regents.umn.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Welcome | Medical School Media Mentions
+ - [https://reporterpass.umn.edu](https://reporterpass.umn.edu)
+ - date_published: 2024-05-07T21:30:26.588937+00:00
+
+ ## Redirecting...
+ - [https://reports.research.umn.edu](https://reports.research.umn.edu)
+ - date_published: 2024-07-02T04:08:47.670173+00:00
+
+ ## Home
+ - [https://research.cems.umn.edu](https://research.cems.umn.edu)
+ - date_published: 2024-05-07T21:32:01.102011+00:00
+
+ ## Research Home
+ - [https://research.d.umn.edu](https://research.d.umn.edu)
+ - date_published: 2024-07-12T19:30:44+00:00
+
+ ## RIO | RIO
+ - [https://research.umn.edu](https://research.umn.edu)
+ - date_published: 2024-05-07T21:31:02.688245+00:00
+
+ ## Sign in to your account
+ - [https://resource.umn.edu](https://resource.umn.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home | Research Methodology Consulting Center
+ - [https://rmcc.umn.edu](https://rmcc.umn.edu)
+ - date_published: 2024-06-12T13:59:29+00:00
+
+ ## Home | University of Minnesota Rochester
+ - [https://r.umn.edu](https://r.umn.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Homepage
+ - [https://safe-campus.umn.edu](https://safe-campus.umn.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Schedule Builder - University of Minnesota
+ - [https://schedulebuilder.umn.edu](https://schedulebuilder.umn.edu)
+ - date_published: 2024-07-02T04:05:42.083339+00:00
+
+ ## Welcome | The Scope
+ - [https://scope.umn.edu](https://scope.umn.edu)
+ - date_published: 2024-05-07T21:30:18.113850+00:00
+
  ## Swenson College of Science and Engineering | UMN Duluth
  - [https://scse.d.umn.edu](https://scse.d.umn.edu)
  - date_published: 2024-07-11T15:20:20+00:00
@@ -3957,64 +4017,4 @@
  ## Penn in Washington | Events, networking, courses, and internships for Penn students in D.C
  - [https://www.piw.sas.upenn.edu](https://www.piw.sas.upenn.edu)
  - date_published: 2024-07-02T10:34:16+00:00
-
- ## Positive Psychology Center Online Research Program - University of Pennsylvania
- - [http://www.ppresearch.sas.upenn.edu](http://www.ppresearch.sas.upenn.edu)
- - date_published: 2024-05-31T15:15:32+00:00
-
- ## Home | Division of Public Safety
- - [https://www.publicsafety.upenn.edu](https://www.publicsafety.upenn.edu)
- - date_published: 2024-05-07T21:58:02.917615+00:00
-
- ## University of Pennsylvania - School of Arts & Sciences | School of Arts and Sciences - University of Pennsylvania
- - [https://www.sas.upenn.edu](https://www.sas.upenn.edu)
- - date_published: 2024-05-07T21:59:07.813368+00:00
-
- ## Home - School of Social Policy & Practice
- - [https://www.sp2.upenn.edu](https://www.sp2.upenn.edu)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Penn Sustainability - Homepage
- - [http://www.sustainability.upenn.edu](http://www.sustainability.upenn.edu)
- - date_published: 2024-06-20T18:28:38+00:00
-
- ## The Wharton School
- - [https://www.wharton.upenn.edu](https://www.wharton.upenn.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## XCAT
- - [https://xcat.at.upenn.edu](https://xcat.at.upenn.edu)
- - date_published: 2024-04-25T20:16:39+00:00
-
- ## adAS SSO | Servei de Single Sign-On
- - [https://aula.esci.upf.edu](https://aula.esci.upf.edu)
- - date_published: 2024-07-02T10:36:30.476095+00:00
-
- ## CAU - Centre d'atenció a l'usuari
- - [https://cau.upf.edu](https://cau.upf.edu)
- - date_published: 2024-07-02T10:45:27.965294+00:00
-
- ## UPF Barcelona School Of Management
- - [https://esecretaria.bsm.upf.edu](https://esecretaria.bsm.upf.edu)
- - date_published: 2024-07-02T10:44:13.663452+00:00
-
- ## Eventum UPF - Universitat Pompeu Fabra
- - [https://eventum.upf.edu](https://eventum.upf.edu)
- - date_published: 2024-05-07T21:59:39.642924+00:00
-
- ## Guia d'experts (UPF)
- - [https://experts.upf.edu](https://experts.upf.edu)
- - date_published: 2024-05-07T21:59:23.870726+00:00
-
- ## Redirigiendo ...
- - [https://gestioacademicavirtual.esci.upf.edu](https://gestioacademicavirtual.esci.upf.edu)
- - date_published: 2021-10-21T10:18:42+00:00
-
- ## Guies BibTIC
- - [https://guiesbibtic.upf.edu](https://guiesbibtic.upf.edu)
- - date_published: 2024-07-02T10:45:26.288103+00:00
-
- ## Mercat del Peix -  Biomedicina, biodiversitat i benestar planetari
- - [https://mercatdelpeix.upf.edu](https://mercatdelpeix.upf.edu)
- - date_published: 2024-05-07T21:59:41.536947+00:00
 

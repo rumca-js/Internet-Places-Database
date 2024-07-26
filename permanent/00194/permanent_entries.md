@@ -1,3 +1,63 @@
+ ## WISCERS
+ - [https://wiscers.cs.wisc.edu](https://wiscers.cs.wisc.edu)
+ - date_published: 2024-07-02T14:28:37.896641+00:00
+
+ ## Please wait...
+ - [https://wiscmail.wisc.edu](https://wiscmail.wisc.edu)
+ - date_published: 2024-07-21T06:50:56.255209+00:00
+
+ ## WiscWeb WordPress Service
+ - [https://wiscweb.wisc.edu](https://wiscweb.wisc.edu)
+ - date_published: 2024-07-02T14:33:04.101082+00:00
+
+ ## Wisconsin Law Review
+ - [https://wlr.law.wisc.edu](https://wlr.law.wisc.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## WordPress at UW–Madison
+ - [https://wordpress.wisc.edu](https://wordpress.wisc.edu)
+ - date_published: 2024-07-02T14:32:54.373705+00:00
+
+ ## Computer Systems Lab Secure Web Page
+ - [https://www-auth.cs.wisc.edu](https://www-auth.cs.wisc.edu)
+ - date_published: 2024-07-02T14:29:03.366807+00:00
+
+ ## Biostatistics and Medical Informatics
+ - [https://www.biostat.wisc.edu](https://www.biostat.wisc.edu)
+ - date_published: 2024-06-15T18:42:42+00:00
+
+ ## Department of Botany
+ - [https://botany.wisc.edu](https://botany.wisc.edu)
+ - date_published: 2024-05-07T15:19:36.150451+00:00
+
+ ## Computer-Aided Engineering
+ - [http://www.cae.wisc.edu](http://www.cae.wisc.edu)
+ - date_published: 2024-07-02T14:34:22.190193+00:00
+
+ ## Computer Sciences
+ - [https://cs.wisc.edu](https://cs.wisc.edu)
+ - date_published: 2024-05-07T22:30:25.677243+00:00
+
+ ## College of Engineering | University of Wisconsin-Madison
+ - [https://engr.wisc.edu](https://engr.wisc.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Department of Geography
+ - [http://www.geography.wisc.edu](http://www.geography.wisc.edu)
+ - date_published: 2024-07-02T17:19:03.313667+00:00
+
+ ## University Housing
+ - [https://www.housing.wisc.edu](https://www.housing.wisc.edu)
+ - date_published: 2024-07-02T14:33:12.753256+00:00
+
+ ## Department of Mathematics
+ - [http://www.math.wisc.edu](http://www.math.wisc.edu)
+ - date_published: 2024-06-30T09:13:22.243343+00:00
+
+ ## UW Department of Psychiatry
+ - [https://www.psychiatry.wisc.edu](https://www.psychiatry.wisc.edu)
+ - date_published: 2024-06-14T23:30:35.862338+00:00
+
  ## Social Science Computing Cooperative
  - [http://www.ssc.wisc.edu](http://www.ssc.wisc.edu)
  - date_published: 2024-07-03T22:39:52.471912+00:00
@@ -4002,66 +4062,4 @@
  ## M7 Energy - Bad link!
  - [https://portal.m7.energy](https://portal.m7.energy)
  - date_published: 2020-08-24T09:03:37+00:00
-
- ## mastodon.energy
- - [https://mastodon.energy](https://mastodon.energy)
- - date_published: 2023-10-25T19:07:20.188942+00:00
- - tags: ['mastodon', 'energy']
-
- ## model.energy
- - [https://model.energy](https://model.energy)
- - date_published: 2011-01-01T00:00:00+00:00
-
- ## Neon Neue Energieökonomik GmbH
- - [https://neon.energy](https://neon.energy)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Octopus Energy
- - [https://octopus.energy](https://octopus.energy)
- - date_published: 2024-05-02T12:50:29.054700+00:00
-
- ## Octopus Energy Referral Links: Your Questions Answered
- - [https://share.octopus.energy](https://share.octopus.energy)
- - date_published: 2024-06-17T06:13:02.347715+00:00
-
- ## Passive House Energy
- - [http://passivehouse.energy](http://passivehouse.energy)
- - date_published: 2024-07-15T06:22:13.701598+00:00
-
- ## Reasonable Energy
- - [https://reasonable.energy](https://reasonable.energy)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Protected: Home Page | Respect Energy
- - [https://respect.energy](https://respect.energy)
- - date_published: 2024-07-03T09:36:00+00:00
-
- ## Same Energy | Visual Search Engine
- - [https://same.energy](https://same.energy)
- - date_published: 2023-10-27T11:57:04.678687+00:00
- - tags: ['search engine']
-
- ## Singularity Energy: Data and software solutions for grid decarbonization.
- - [https://singularity.energy](https://singularity.energy)
- - date_published: 2024-06-22T11:53:03.129875+00:00
-
- ## Home - Ubiquitous Energy
- - [https://ubiquitous.energy](https://ubiquitous.energy)
- - date_published: 2024-06-23T11:47:34.254334+00:00
-
- ## PURE INTERNET
- - [https://bridge.zora.energy](https://bridge.zora.energy)
- - date_published: 2024-06-18T16:04:01.831060+00:00
-
- ## Zora Mainnet blockchain explorer - View Zora Mainnet stats | Blockscout
- - [https://explorer.zora.energy](https://explorer.zora.energy)
- - date_published: 2024-06-22T05:47:23.130675+00:00
-
- ## PURE INTERNET
- - [https://zora.energy](https://zora.energy)
- - date_published: 2024-05-02T13:43:48.165425+00:00
-
- ## 16x Engineer
- - [https://16x.engineer](https://16x.engineer)
- - date_published: 2023-10-27T11:57:06.295677+00:00
 

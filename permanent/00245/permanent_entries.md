@@ -1,3 +1,121 @@
+ ## Evolution News | Reporting on intelligent design and evolution
+ - [https://evolution.news](https://evolution.news)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home
+ - [https://evtol.news](https://evtol.news)
+ - date_published: 2024-05-07T00:00:00+00:00
+ - tags: ['evtol news']
+
+ ## Home - Facta
+ - [https://facta.news](https://facta.news)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Fake Science News | Fake Science News – Fake Science Information
+ - [http://www.fakescience.news](http://www.fakescience.news)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## blog.fawx.news
+ - [https://blog.fawx.news](https://blog.fawx.news)
+ - date_published: 2024-07-24T21:29:22.703430+00:00
+ - tags: ['personal']
+
+ ## Food News | Food News & Food Studies
+ - [https://www.food.news](https://www.food.news)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Food Science News | Food Science News – Food Science Information
+ - [https://www.foodscience.news](https://www.foodscience.news)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Food Supply News | Food Supply News – Food Supply Information
+ - [http://www.foodsupply.news](http://www.foodsupply.news)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Forkast News
+ - [https://forkast.news](https://forkast.news)
+ - date_published: 2022-10-12T16:14:42+00:00
+
+ ## https://www.forth.news
+ - [https://www.forth.news](https://www.forth.news)
+ - date_published: 2023-10-25T20:42:40.486870+00:00
+
+ ## Free Thought News
+ - [https://freethought.news](https://freethought.news)
+ - date_published: 2024-05-07T14:48:51.844133+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://fsspx.news](https://fsspx.news)
+ - date_published: 2024-06-27T06:31:02.981706+00:00
+
+ ## Full Measure
+ - [https://fullmeasure.news](https://fullmeasure.news)
+ - date_published: 2024-04-30T07:27:08.641944+00:00
+
+ ## FWIW | Kyle Tharp | Substack
+ - [https://www.fwiw.news](https://www.fwiw.news)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Gender News | Gender News – Gender Information
+ - [http://www.gender.news](http://www.gender.news)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Geneva Solutions
+ - [https://genevasolutions.news](https://genevasolutions.news)
+ - date_published: 2024-05-19T00:00:00+00:00
+
+ ## Information Security News
+    
+         - The Reddit of Infosec
+ - [http://www.getinfosec.news](http://www.getinfosec.news)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## KIT
+ - [https://getkit.news](https://getkit.news)
+ - date_published: 2024-05-06T08:55:32.221272+00:00
+
+ ## Сигнал
+ - [https://getsignal.news](https://getsignal.news)
+ - date_published: 2024-05-06T08:55:47.575751+00:00
+
+ ## GitNews | Trending repositories from GitHub, HackerNews & Reddit
+ - [https://git.news](https://git.news)
+ - date_published: 2024-07-04T04:23:52.588189+00:00
+
+ ## The Global Reset Surival Guide
+ - [https://www.globalreset.news](https://www.globalreset.news)
+ - date_published: 2024-07-03T18:58:21.024650+00:00
+
+ ## Your Source for Trusted and Unbiased News - The Messenger
+ - [https://www.grid.news](https://www.grid.news)
+ - date_published: 2023-10-25T20:42:43.995084+00:00
+
+ ## Grocery News | Grocery News – Grocery Information
+ - [https://www.grocery.news](https://www.grocery.news)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Ground News
+ - [https://ground.news](https://ground.news)
+ - date_published: 2024-02-17T00:00:00+00:00
+ - tags: ['news']
+
+ ## Habla
+ - [https://habla.news](https://habla.news)
+ - date_published: 2024-06-15T22:34:01.229529+00:00
+
+ ## Haskell Weekly
+ - [https://haskellweekly.news](https://haskellweekly.news)
+ - date_published: 2023-10-25T20:42:45.054681+00:00
+ - tags: ['news', 'haskell']
+
+ ## Health News | Health News & Health Studies
+ - [https://www.health.news](https://www.health.news)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Health Freedom News | Health Freedom News – Health Freedom Information
+ - [https://www.healthfreedom.news](https://www.healthfreedom.news)
+ - date_published: 2024-06-26T00:00:00+00:00
+
  ## Home - Health Policy Watch
  - [https://healthpolicy-watch.news](https://healthpolicy-watch.news)
  - date_published: 2018-05-08T11:09:48+00:00
@@ -2726,10 +2844,6 @@
  - [https://eventimb2b.nl](https://eventimb2b.nl)
  - date_published: 2024-07-24T05:12:29.560168+00:00
 
- ## EVENTIM. Jouw ticketingpartner!
- - [https://www.eventimb2b.nl](https://www.eventimb2b.nl)
- - date_published: 2024-07-24T05:12:23.509727+00:00
-
  ## Verkoop tickets als eventorganisator | EVENTIM.Light
  - [https://www.eventim-light.nl](https://www.eventim-light.nl)
  - date_published: 2024-07-24T05:12:24.982108+00:00
@@ -3922,113 +4036,4 @@
  ## Home | Kiesraad.nl
  - [http://www.kiesraad.nl](http://www.kiesraad.nl)
  - date_published: 2024-07-02T21:35:37.939137+00:00
-
- ## Kirsten Jassies - Instagram Expert - Kirsten Jassies
- - [https://kirstenjassies.nl](https://kirstenjassies.nl)
- - date_published: 2024-02-11T00:00:00+00:00
-
- ## Het Koninklijk Instituut Van Ingenieurs
- - [https://www.kivi.nl](https://www.kivi.nl)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Kl4vertje Babyproducten: Stel bij ons je unieke babyuitzet zelf samen.
- - [https://www.kl4vertje.nl](https://www.kl4vertje.nl)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Klimaatexamen
- - [https://www.klimaatexamen.nl](https://www.klimaatexamen.nl)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Klimaatverandering
- - [https://klimaatveranda.nl](https://klimaatveranda.nl)
- - date_published: 2024-06-30T02:49:32.124251+00:00
-
- ## Klimaatzaak van de eeuw rechtszaak Milieudefensie vs. Shell
- - [https://klimaatzaakvandeeeuw.nl](https://klimaatzaakvandeeeuw.nl)
- - date_published: 2024-07-18T10:13:45+00:00
-
- ## Knab. De bank voor zzp’ers. | Knab.nl
- - [https://www.knab.nl](https://www.knab.nl)
- - date_published: 2024-06-23T08:30:33.130990+00:00
-
- ## Meertens Instituut - Research and documentation of language and culture in the Netherlands
- - [http://www.meertens.knaw.nl](http://www.meertens.knaw.nl)
- - date_published: 2024-07-02T05:53:53.621760+00:00
-
- ## KNMI - Koninklijk Nederlands Meteorologisch Instituut
- - [https://www.knmi.nl](https://www.knmi.nl)
- - date_published: 2024-04-28T02:23:25.455339+00:00
-
- ## Groot aanbod leuke en scherp geprijsde knuffels
- - [https://www.knuffels-shop.nl](https://www.knuffels-shop.nl)
- - date_published: 2024-05-19T00:00:00+00:00
-
- ## KNVB.nl: De officiële website van de Koninklijke Nederlandse Voetbalbond | KNVB
- - [http://knvb.nl](http://knvb.nl)
- - date_published: 2024-07-14T08:48:32.238903+00:00
-
- ## Home - KNVI
- - [https://www.knvi.nl](https://www.knvi.nl)
- - date_published: 2024-07-13T09:56:29.999174+00:00
-
- ## Hjemmeside
- - [https://kobler.nl](https://kobler.nl)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Koen van Gilst - TypeScript Developer
- - [https://koenvangilst.nl](https://koenvangilst.nl)
- - date_published: 2023-12-16T15:36:29.715273+00:00
-
- ## Particle Life
- - [https://particle-life.koenvangilst.nl](https://particle-life.koenvangilst.nl)
- - date_published: 2024-05-22T04:49:08.066966+00:00
-
- ## Pong wars | Koen van Gilst
- - [https://pong-wars.koenvangilst.nl](https://pong-wars.koenvangilst.nl)
- - date_published: 2024-01-27T22:04:57.961545+00:00
- - tags: ['animation', 'app page', 'demo page']
-
- ## Konecranes
- - [https://www.konecranes.nl](https://www.konecranes.nl)
- - date_published: 2024-06-20T22:58:07.353089+00:00
-
- ## Koninklijke Kunst
- - [https://koninklijkekunst.nl](https://koninklijkekunst.nl)
- - date_published: 2022-12-31T23:24:15+00:00
-
- ## Home | KOOP Kennis- en exploitatiecentrum officiële overheidspublicaties
- - [https://www.koopoverheid.nl](https://www.koopoverheid.nl)
- - date_published: 2024-07-07T07:17:52.029626+00:00
-
- ## Krakenpost.nl
- - [http://www.krakenpost.nl](http://www.krakenpost.nl)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Krijn Hoetmer
- - [http://krijnhoetmer.nl](http://krijnhoetmer.nl)
- - date_published: 2024-06-23T16:44:00.578137+00:00
-
- ## Krispy's Blog
- - [https://krispijnbeek.nl](https://krispijnbeek.nl)
- - date_published: 2024-06-30T02:48:18.719199+00:00
-
- ## Kröller-Müller Museum | Unieke combinatie van kunst en natuur
- - [https://krollermuller.nl](https://krollermuller.nl)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Kumina | Blog
- - [https://blog.kumina.nl](https://blog.kumina.nl)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Kumina - Kubernetes solutions and support
- - [https://kumina.nl](https://kumina.nl)
- - date_published: 2024-05-14T04:00:08.126446+00:00
-
- ## Kunstinstituut Melly
- - [https://www.kunstinstituutmelly.nl](https://www.kunstinstituutmelly.nl)
- - date_published: 2024-07-13T14:41:03.542864+00:00
-
- ## KVK - Kamer van Koophandel | KVK
- - [https://www.kvk.nl](https://www.kvk.nl)
- - date_published: 2024-06-15T10:58:37.556045+00:00
 

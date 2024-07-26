@@ -1,3 +1,23 @@
+ ## 新疆维吾尔自治区林业和草原局
+ - [http://lcj.xinjiang.gov.cn](http://lcj.xinjiang.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 新疆维吾尔自治区粮食和物资储备局
+ - [http://lswz.xinjiang.gov.cn](http://lswz.xinjiang.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 新疆维吾尔自治区民族事务委员会（宗教事务局）
+ - [https://mwzjswj.xinjiang.gov.cn](https://mwzjswj.xinjiang.gov.cn)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## 新疆维吾尔自治区农业农村厅
+ - [http://nynct.xinjiang.gov.cn](http://nynct.xinjiang.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 新疆维吾尔自治区人力资源和社会保障厅
+ - [http://rst.xinjiang.gov.cn](http://rst.xinjiang.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## 新疆维吾尔自治区司法厅
  - [http://sft.xinjiang.gov.cn](http://sft.xinjiang.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -4000,24 +4020,4 @@
  ## Dr. Change - AI Habit Coach
  - [https://www.drchange.co](https://www.drchange.co)
  - date_published: 2024-02-22T12:37:43+00:00
-
- ## Dream Studio
- - [https://dreamstudio.co](https://dreamstudio.co)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## DrivenData Labs
- - [https://drivendata.co](https://drivendata.co)
- - date_published: 2024-05-10T05:10:20.644548+00:00
-
- ## Dropchat
- - [https://app.dropchat.co](https://app.dropchat.co)
- - date_published: 2024-05-02T13:46:05.046728+00:00
-
- ## Dropchat: PDF AI, Chat With PDF, Website GPT
- - [https://dropchat.co](https://dropchat.co)
- - date_published: 2024-05-02T13:46:03.624106+00:00
-
- ## Dropchat Help Center
- - [https://support.dropchat.co](https://support.dropchat.co)
- - date_published: 2024-05-02T13:46:09.235617+00:00
 

@@ -1,3 +1,68 @@
+ ## Hey there! · pema.dev
+ - [https://pema.dev](https://pema.dev)
+ - date_published: 2023-10-25T18:40:45.349933+00:00
+
+ ## Home - Emmanuel Raymond's digital garden | Software Developer and Open Source Enthusiast
+ - [https://peoray.dev](https://peoray.dev)
+ - date_published: 2024-06-23T08:13:26.538813+00:00
+
+ ## Vadim Makeev
+ - [https://pepelsbey.dev](https://pepelsbey.dev)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## mobile.dev - Maestro, Maestro Studio, Maestro Cloud
+ - [https://perf.dev](https://perf.dev)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Perfetto - System profiling, app tracing and trace analysis
+ - [https://perfetto.dev](https://perfetto.dev)
+ - date_published: 2024-06-17T03:17:39.827314+00:00
+
+ ## AI PESTEL Analysis Generator
+ - [https://pestel.dev](https://pestel.dev)
+ - date_published: 2024-06-19T20:06:47.938107+00:00
+
+ ## Petals – Decentralized platform for running large language models
+ - [https://chat.petals.dev](https://chat.petals.dev)
+ - date_published: 2024-04-30T02:10:54.138729+00:00
+
+ ## Petals Health Monitor
+ - [https://health.petals.dev](https://health.petals.dev)
+ - date_published: 2024-04-30T02:10:53.472594+00:00
+
+ ## Petals – Run LLMs at home, BitTorrent-style
+ - [https://petals.dev](https://petals.dev)
+ - date_published: 2023-10-25T18:40:45.976979+00:00
+
+ ## Peter Babič
+ - [https://peterbabic.dev](https://peterbabic.dev)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Peter Friese's Blog
+ - [https://peterfriese.dev](https://peterfriese.dev)
+ - date_published: 2024-06-21T08:29:45+00:00
+
+ ## petermolnar.dev - How to become a valuable iOS and macOS developer
+ - [https://petermolnar.dev](https://petermolnar.dev)
+ - date_published: 2024-06-23T15:31:06.938381+00:00
+
+ ## Hi! | Peter Ringset
+ - [https://peterringset.dev](https://peterringset.dev)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Florian Pfisterer
+ - [https://pfisterer.dev](https://pfisterer.dev)
+ - date_published: 2024-01-12T10:31:39.595981+00:00
+
+ ## PostgreSQL Development Conference 2024
+ - [https://2024.pgconf.dev](https://2024.pgconf.dev)
+ - date_published: 2024-06-06T00:09:17+00:00
+
+ ## PGJones.dev
+ - [https://pgjones.dev](https://pgjones.dev)
+ - date_published: 2024-06-01T04:52:10.227878+00:00
+ - tags: ['personal']
+
  ## Trunk
  - [https://pgt.dev](https://pgt.dev)
  - date_published: 2024-01-26T00:00:00+00:00
@@ -4005,68 +4070,4 @@
  ## Center for Videnskabsstudier
  - [https://css.au.dk](https://css.au.dk)
  - date_published: 2024-07-22T10:14:29.909777+00:00
-
- ## cs.staff.au.dk
- - [https://cs.staff.au.dk](https://cs.staff.au.dk)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Medarbejdere - Institut for Odontologi og Oral Sundhed
- - [https://dent.medarbejdere.au.dk](https://dent.medarbejdere.au.dk)
- - date_published: 2024-07-22T10:19:14.200547+00:00
-
- ## Institut for Ingeniørvidenskab
- - [https://eng.au.dk](https://eng.au.dk)
- - date_published: 2024-07-22T10:18:15.835569+00:00
-
- ## Institut for Geoscience
- - [https://geo.au.dk](https://geo.au.dk)
- - date_published: 2024-04-30T02:33:39.426622+00:00
-
- ## geo.medarbejdere.au.dk
- - [https://geo.medarbejdere.au.dk](https://geo.medarbejdere.au.dk)
- - date_published: 2024-07-22T10:14:41.525117+00:00
-
- ## Health
- - [https://health.au.dk](https://health.au.dk)
- - date_published: 2023-12-31T13:28:23.869975+00:00
-
- ## Medarbejderportal - Health
- - [https://health.medarbejdere.au.dk](https://health.medarbejdere.au.dk)
- - date_published: 2024-04-30T02:32:48.635796+00:00
-
- ## Services for international staff at Aarhus University
- - [http://ias.au.dk](http://ias.au.dk)
- - date_published: 2024-07-22T10:17:01.315486+00:00
-
- ## The Interdisciplinary Nanoscience Center at Aarhus University: inano.au.dk
- - [https://inano.au.dk](https://inano.au.dk)
- - date_published: 2023-11-21T16:46:11.636457+00:00
-
- ## Inano.medarbejdere.au.dk
- - [https://inano.medarbejdere.au.dk](https://inano.medarbejdere.au.dk)
- - date_published: 2024-04-30T02:33:05.014543+00:00
-
- ## Læs til ingeniør - AU Engineering, Aarhus Universitet
- - [https://ingenioer.au.dk](https://ingenioer.au.dk)
- - date_published: 2024-07-22T10:14:44.568028+00:00
-
- ## Aarhus University – a top 100 research-intensive university
- - [https://international.au.dk](https://international.au.dk)
- - date_published: 2024-04-30T02:32:59.196385+00:00
-
- ## Services for international staff at Aarhus University
- - [https://internationalstaff.au.dk](https://internationalstaff.au.dk)
- - date_published: 2024-07-22T10:18:22.289715+00:00
-
- ## Jobbank.au.dk
- - [https://jobbank.au.dk](https://jobbank.au.dk)
- - date_published: 2024-07-22T10:15:39.049123+00:00
-
- ## Kandidat på Aarhus Universitet
- - [https://kandidat.au.dk](https://kandidat.au.dk)
- - date_published: 2024-04-30T02:33:32.002950+00:00
-
- ## Kursuskatalog - Aarhus Universitet
- - [https://kursuskatalog.au.dk](https://kursuskatalog.au.dk)
- - date_published: 2024-07-22T10:16:07.654792+00:00
 
